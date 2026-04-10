@@ -179,7 +179,7 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{SITE_TITLE} — Geopolitics in 60 words</title>
+  <title>{SITE_TITLE} — Geopolitics in brief</title>
   <meta name="description" content="{SITE_DESC}" />
   <meta property="og:title" content="{SITE_TITLE}" />
   <meta property="og:description" content="{SITE_DESC}" />
@@ -241,7 +241,7 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
       <section class="sidebar-section about-section">
         <h2 class="sidebar-heading">About</h2>
         <p>GeoPulse fetches geopolitics news hourly and delivers each story in
-           60&nbsp;words — inspired by <a href="https://www.inshorts.com" target="_blank" rel="noopener">Inshorts</a>.</p>
+           up to 100&nbsp;words — inspired by <a href="https://www.inshorts.com" target="_blank" rel="noopener">Inshorts</a>.</p>
         <p>Runs entirely on <strong>GitHub Actions</strong>. No servers. No ads.</p>
       </section>
     </aside>
@@ -321,7 +321,7 @@ def build_rss(articles: list[dict], archives: list[dict]) -> str:
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{SITE_TITLE} — Geopolitics in 60 words</title>
+    <title>{SITE_TITLE} — Geopolitics in brief</title>
     <link>{SITE_URL}</link>
     <description>{SITE_DESC}</description>
     <language>en-us</language>
