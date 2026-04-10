@@ -19,8 +19,7 @@ GeoPulse is an automated geopolitics newsletter delivering curated global affair
 
 ## Live Site
 
-After enabling GitHub Pages (see setup below), your site will be at:
-`https://<your-username>.github.io/geo-pulse/`
+**[pulse.lavkesh.com](https://pulse.lavkesh.com)**
 
 ## Setup
 

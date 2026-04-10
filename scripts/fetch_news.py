@@ -7,6 +7,7 @@ Outputs raw_news.json with deduplicated articles.
 import json
 import logging
 import os
+import re
 import time
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlencode
@@ -67,12 +68,36 @@ def fetch_gdelt(query: str, max_articles: int, hours_back: int = 24) -> list[dic
                     "source": art.get("domain", "GDELT"),
                     "published_at": published_at,
                     "description": art.get("title", ""),
+                    "image_url": art.get("socialimage", ""),
                 }
             )
         log.info("GDELT returned %d articles.", len(articles))
     except Exception as exc:
         log.warning("GDELT fetch failed: %s", exc)
     return articles
+
+
+def _extract_image_url(entry) -> str:
+    """Try to extract an image URL from an RSS entry."""
+    # media:thumbnail
+    if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
+        return entry.media_thumbnail[0].get("url", "")
+    # media:content
+    if hasattr(entry, "media_content") and entry.media_content:
+        for mc in entry.media_content:
+            if mc.get("type", "").startswith("image/") or mc.get("url", ""):
+                return mc.get("url", "")
+    # enclosures
+    if hasattr(entry, "enclosures") and entry.enclosures:
+        for enc in entry.enclosures:
+            if enc.get("type", "").startswith("image/"):
+                return enc.get("href", enc.get("url", ""))
+    # og:image in summary HTML
+    summary_html = entry.get("summary", entry.get("description", ""))
+    img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary_html)
+    if img_match:
+        return img_match.group(1)
+    return ""
 
 
 def fetch_rss(feeds: list[dict], max_per_feed: int = 10) -> list[dict]:
@@ -102,6 +127,8 @@ def fetch_rss(feeds: list[dict], max_per_feed: int = 10) -> list[dict]:
                 else:
                     published_at = entry.get("published", "")
 
+                image_url = _extract_image_url(entry)
+
                 if title and link:
                     articles.append(
                         {
@@ -109,7 +136,8 @@ def fetch_rss(feeds: list[dict], max_per_feed: int = 10) -> list[dict]:
                             "url": link,
                             "source": source,
                             "published_at": published_at,
-                            "description": _strip_html(summary)[:300],
+                            "description": _strip_html(summary)[:400],
+                            "image_url": image_url,
                         }
                     )
                     count += 1
@@ -146,7 +174,8 @@ def fetch_newsapi(query: str, api_key: str, max_articles: int) -> list[dict]:
                     "url": art.get("url", ""),
                     "source": (art.get("source") or {}).get("name", "NewsAPI"),
                     "published_at": art.get("publishedAt", ""),
-                    "description": (art.get("description") or "")[:300],
+                    "description": (art.get("description") or "")[:400],
+                    "image_url": art.get("urlToImage", ""),
                 }
             )
         log.info("NewsAPI returned %d articles.", len(articles))

@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """
-generate_site.py — Converts newsletter.md to site/index.html and generates an RSS feed.
-Also archives the current newsletter into newsletters/YYYY-MM-DD-HH.md.
+generate_site.py — Reads newsletter.json and builds:
+  - site/index.html  (Inshorts-style card dashboard)
+  - site/feed.xml    (RSS 2.0 feed)
+Also archives newsletter.md into newsletters/YYYY-MM-DD-HH.md.
 """
 
 import glob
+import html
 import json
 import logging
 import os
@@ -12,19 +15,26 @@ import re
 import shutil
 from datetime import datetime, timezone
 
-import markdown
 import yaml
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 log = logging.getLogger(__name__)
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CONFIG_PATH = os.path.join(ROOT, "config.yml")
-NEWSLETTER_PATH = os.path.join(ROOT, "newsletter.md")
-SITE_DIR = os.path.join(ROOT, "site")
-ARCHIVE_DIR = os.path.join(ROOT, "newsletters")
-INDEX_PATH = os.path.join(SITE_DIR, "index.html")
-FEED_PATH = os.path.join(SITE_DIR, "feed.xml")
+ROOT         = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CONFIG_PATH  = os.path.join(ROOT, "config.yml")
+JSON_PATH    = os.path.join(ROOT, "newsletter.json")
+MD_PATH      = os.path.join(ROOT, "newsletter.md")
+SITE_DIR     = os.path.join(ROOT, "site")
+ARCHIVE_DIR  = os.path.join(ROOT, "newsletters")
+INDEX_PATH   = os.path.join(SITE_DIR, "index.html")
+FEED_PATH    = os.path.join(SITE_DIR, "feed.xml")
+
+SITE_URL     = "https://pulse.lavkesh.com"
+SITE_TITLE   = "GeoPulse"
+SITE_DESC    = "Automated geopolitics digest — fresh global affairs updates, every hour."
+
+ALL_REGIONS  = ["All", "Americas", "Asia-Pacific", "Europe & Russia",
+                "Middle East & Africa", "Global / Multilateral", "World"]
 
 
 def load_config() -> dict:
@@ -34,43 +44,37 @@ def load_config() -> dict:
     return cfg
 
 
-def archive_newsletter(content: str, cfg: dict) -> list[dict]:
-    """Archive current newsletter and return list of archive metadata."""
+# ── Archive helpers ───────────────────────────────────────────────────────────
+
+def archive_newsletter(cfg: dict) -> list[dict]:
+    """Copy newsletter.md into newsletters/ and prune old editions."""
     os.makedirs(ARCHIVE_DIR, exist_ok=True)
+    if not os.path.exists(MD_PATH):
+        return []
+
     now = datetime.now(timezone.utc)
     archive_name = now.strftime("%Y-%m-%d-%H") + ".md"
-    archive_path = os.path.join(ARCHIVE_DIR, archive_name)
+    shutil.copy2(MD_PATH, os.path.join(ARCHIVE_DIR, archive_name))
+    log.info("Archived newsletter → newsletters/%s", archive_name)
 
-    with open(archive_path, "w", encoding="utf-8") as f:
-        f.write(content)
-    log.info("Archived newsletter to %s", archive_path)
-
-    # Prune old archives beyond archive_days
     cutoff = now.timestamp() - cfg["archive_days"] * 86400
-    pattern = os.path.join(ARCHIVE_DIR, "*.md")
     archives = []
-    for path in sorted(glob.glob(pattern)):
+    for path in sorted(glob.glob(os.path.join(ARCHIVE_DIR, "????-??-??-??.md"))):
         fname = os.path.basename(path)
-        if fname == ".gitkeep":
-            continue
+        stem  = fname.replace(".md", "")
+        parts = stem.split("-")
         try:
-            # Parse YYYY-MM-DD-HH.md
-            stem = fname.replace(".md", "")
-            parts = stem.split("-")
-            if len(parts) == 4:
-                dt = datetime(int(parts[0]), int(parts[1]), int(parts[2]), int(parts[3]),
-                               tzinfo=timezone.utc)
-                if dt.timestamp() < cutoff:
-                    os.remove(path)
-                    log.info("Pruned old archive: %s", fname)
-                    continue
-                archives.append(
-                    {
-                        "filename": fname,
-                        "date": dt.strftime("%B %d, %Y %H:00 UTC"),
-                        "label": dt.strftime("%Y-%m-%d %H:00 UTC"),
-                    }
-                )
+            dt = datetime(int(parts[0]), int(parts[1]), int(parts[2]), int(parts[3]),
+                          tzinfo=timezone.utc)
+            if dt.timestamp() < cutoff:
+                os.remove(path)
+                log.info("Pruned %s", fname)
+                continue
+            archives.append({
+                "filename": fname,
+                "label":    dt.strftime("%d %b %Y, %H:00 UTC"),
+                "iso":      dt.isoformat(),
+            })
         except (ValueError, IndexError):
             pass
 
@@ -78,187 +82,285 @@ def archive_newsletter(content: str, cfg: dict) -> list[dict]:
     return archives
 
 
-def build_archive_sidebar(archives: list[dict]) -> str:
+# ── Time helper ───────────────────────────────────────────────────────────────
+
+def time_ago(iso: str) -> str:
+    """Return a human-readable 'X ago' string."""
+    try:
+        dt  = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        now = datetime.now(timezone.utc)
+        diff = int((now - dt).total_seconds())
+        if diff < 60:
+            return "just now"
+        if diff < 3600:
+            m = diff // 60
+            return f"{m}m ago"
+        if diff < 86400:
+            h = diff // 3600
+            return f"{h}h ago"
+        d = diff // 86400
+        return f"{d}d ago"
+    except Exception:
+        return ""
+
+
+# ── Card HTML ─────────────────────────────────────────────────────────────────
+
+def render_card(art: dict) -> str:
+    title     = html.escape(art.get("title", ""))
+    summary   = html.escape(art.get("summary", ""))
+    url       = html.escape(art.get("url", "#"))
+    source    = html.escape(art.get("source", ""))
+    region    = html.escape(art.get("region", "World"))
+    pub       = art.get("published_at", "")
+    ago       = time_ago(pub)
+    image_url = art.get("image_url", "")
+
+    img_html = ""
+    if image_url:
+        safe_img = html.escape(image_url)
+        img_html = f'<img class="card-img" src="{safe_img}" alt="" loading="lazy" onerror="this.parentElement.style.display=\'none\'">'
+
+    return f"""
+  <article class="card" data-region="{region}">
+    {f'<div class="card-img-wrap">{img_html}</div>' if image_url else ''}
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">{region}</span>
+        <span class="card-time">{ago}</span>
+      </div>
+      <h2 class="card-title">{title}</h2>
+      <p class="card-summary">{summary}</p>
+      <div class="card-footer">
+        <span class="card-source">{source}</span>
+        <a class="card-read-more" href="{url}" target="_blank" rel="noopener noreferrer">
+          Read more →
+        </a>
+      </div>
+    </div>
+  </article>"""
+
+
+def render_archive_list(archives: list[dict]) -> str:
     if not archives:
-        return "<p class='no-archive'>No previous editions.</p>"
+        return '<li class="archive-empty">No previous editions</li>'
     items = "\n".join(
-        f'<li><a href="../newsletters/{a["filename"]}" title="{a["date"]}">{a["label"]}</a></li>'
+        f'<li><a href="{SITE_URL}/newsletters/{a["filename"]}">{a["label"]}</a></li>'
         for a in archives[:30]
     )
-    return f'<ul class="archive-list">\n{items}\n</ul>'
+    return items
 
 
-def md_to_html(md_content: str) -> str:
-    md = markdown.Markdown(extensions=["extra", "toc", "nl2br"])
-    return md.convert(md_content)
+# ── Full page builder ─────────────────────────────────────────────────────────
 
+def build_html(articles: list[dict], generated_at: str, archives: list[dict]) -> str:
+    try:
+        dt       = datetime.fromisoformat(generated_at)
+        date_str = dt.strftime("%d %b %Y, %H:%M UTC")
+    except ValueError:
+        date_str = generated_at
 
-def extract_title_and_date(md_content: str) -> tuple[str, str]:
-    """Extract title and updated date from newsletter.md header."""
-    title = "GeoPulse Newsletter"
-    date_str = datetime.now(timezone.utc).strftime("%B %d, %Y %H:%M UTC")
-    title_match = re.search(r"^#\s+(.+)$", md_content, re.MULTILINE)
-    if title_match:
-        title = title_match.group(1).strip()
-    date_match = re.search(r"\*\*Updated:\*\*\s+(.+)", md_content)
-    if date_match:
-        date_str = date_match.group(1).strip()
-    return title, date_str
+    cards_html    = "\n".join(render_card(a) for a in articles) if articles else \
+                    '<p class="empty-state">No stories in this edition yet.</p>'
+    archive_items = render_archive_list(archives)
+    count         = len(articles)
 
+    # Build region filter tabs
+    present_regions = sorted({a.get("region", "World") for a in articles})
+    tab_html = '<button class="filter-tab active" data-filter="All">All <span class="tab-count">' + str(count) + '</span></button>\n'
+    for reg in present_regions:
+        n = sum(1 for a in articles if a.get("region") == reg)
+        tab_html += f'<button class="filter-tab" data-filter="{html.escape(reg)}">{html.escape(reg)} <span class="tab-count">{n}</span></button>\n'
 
-def build_html(body_html: str, title: str, date_str: str, archive_sidebar: str) -> str:
+    articles_json = json.dumps(articles, ensure_ascii=False)
+
     return f"""<!DOCTYPE html>
 <html lang="en" data-theme="light">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{title}</title>
+  <title>{SITE_TITLE} — Geopolitics in 60 words</title>
+  <meta name="description" content="{SITE_DESC}" />
+  <meta property="og:title" content="{SITE_TITLE}" />
+  <meta property="og:description" content="{SITE_DESC}" />
+  <meta property="og:url" content="{SITE_URL}" />
+  <meta name="twitter:card" content="summary" />
   <link rel="stylesheet" href="styles.css" />
-  <link rel="alternate" type="application/rss+xml" title="GeoPulse RSS" href="feed.xml" />
-  <meta name="description" content="Automated geopolitics newsletter — fresh global affairs insights every hour." />
+  <link rel="alternate" type="application/rss+xml" title="GeoPulse RSS" href="{SITE_URL}/feed.xml" />
 </head>
 <body>
-  <header class="site-header">
+
+  <!-- ── Header ─────────────────────────────────────────────────── -->
+  <header class="app-header">
     <div class="header-inner">
-      <div class="branding">
-        <span class="logo">🌍</span>
-        <span class="site-title">GeoPulse</span>
-        <span class="tagline">Automated Geopolitics Intelligence</span>
-      </div>
-      <div class="header-actions">
-        <a href="feed.xml" class="rss-link" title="Subscribe via RSS">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
-               fill="currentColor" aria-hidden="true">
-            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18
-                     20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56
-                     15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0
-                     5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4
-                     13.37V10.1z"/>
+      <a class="brand" href="{SITE_URL}">
+        <span class="brand-logo">🌍</span>
+        <span class="brand-name">GeoPulse</span>
+      </a>
+      <div class="header-right">
+        <span class="update-badge">Updated {date_str}</span>
+        <a class="rss-btn" href="{SITE_URL}/feed.xml" title="RSS feed" aria-label="RSS">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20
+                     C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56
+                     0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0
+                     0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 13.37V10.1z"/>
           </svg>
-          RSS
         </a>
-        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark/light mode">
-          <span class="icon-light">☀️</span>
-          <span class="icon-dark">🌙</span>
+        <button id="theme-btn" class="theme-btn" aria-label="Toggle theme">
+          <span class="light-icon">☀️</span><span class="dark-icon">🌙</span>
         </button>
       </div>
     </div>
-    <div class="last-updated">Last updated: <time>{date_str}</time></div>
+    <p class="tagline">{SITE_DESC}</p>
   </header>
 
-  <div class="layout">
-    <main class="main-content">
-      <article class="newsletter-body">
-        {body_html}
-      </article>
+  <!-- ── Filter tabs ────────────────────────────────────────────── -->
+  <nav class="filter-bar" aria-label="Filter by region">
+    <div class="filter-inner">
+      {tab_html}
+    </div>
+  </nav>
+
+  <!-- ── Main layout ────────────────────────────────────────────── -->
+  <div class="page-layout">
+
+    <!-- Card feed -->
+    <main class="card-feed" id="card-feed">
+      {cards_html}
     </main>
 
+    <!-- Sidebar -->
     <aside class="sidebar">
-      <h2 class="sidebar-title">📚 Archive</h2>
-      {archive_sidebar}
+      <section class="sidebar-section">
+        <h2 class="sidebar-heading">📚 Past Editions</h2>
+        <ul class="archive-list">
+          {archive_items}
+        </ul>
+      </section>
+      <section class="sidebar-section about-section">
+        <h2 class="sidebar-heading">About</h2>
+        <p>GeoPulse fetches geopolitics news hourly and delivers each story in
+           60&nbsp;words — inspired by <a href="https://www.inshorts.com" target="_blank" rel="noopener">Inshorts</a>.</p>
+        <p>Runs entirely on <strong>GitHub Actions</strong>. No servers. No ads.</p>
+      </section>
     </aside>
+
   </div>
 
-  <footer class="site-footer">
+  <!-- ── Footer ─────────────────────────────────────────────────── -->
+  <footer class="app-footer">
     <p>
-      GeoPulse is an automated newsletter powered by
-      <a href="https://github.com/features/actions" target="_blank" rel="noopener">GitHub Actions</a>.
-      Data sourced from public news feeds. No guarantees of accuracy.
+      © GeoPulse · <a href="{SITE_URL}/feed.xml">RSS</a> ·
+      Powered by <a href="https://github.com/lavkeshdwivedi/geo-pulse" target="_blank" rel="noopener">GitHub Actions</a>
+      · Hosted at <a href="{SITE_URL}">{SITE_URL.replace("https://", "")}</a>
     </p>
   </footer>
 
   <script>
-    const toggle = document.getElementById('theme-toggle');
+    // ── Theme toggle ─────────────────────────────────────────────
     const html = document.documentElement;
-    const stored = localStorage.getItem('geopulse-theme');
-    if (stored) html.setAttribute('data-theme', stored);
+    const btn  = document.getElementById('theme-btn');
+    const saved = localStorage.getItem('gp-theme');
+    if (saved) html.dataset.theme = saved;
+    btn.addEventListener('click', () => {{
+      const next = html.dataset.theme === 'dark' ? 'light' : 'dark';
+      html.dataset.theme = next;
+      localStorage.setItem('gp-theme', next);
+    }});
 
-    toggle.addEventListener('click', () => {{
-      const current = html.getAttribute('data-theme');
-      const next = current === 'dark' ? 'light' : 'dark';
-      html.setAttribute('data-theme', next);
-      localStorage.setItem('geopulse-theme', next);
+    // ── Region filter ────────────────────────────────────────────
+    const tabs  = document.querySelectorAll('.filter-tab');
+    const feed  = document.getElementById('card-feed');
+    const cards = Array.from(feed.querySelectorAll('.card'));
+
+    tabs.forEach(tab => {{
+      tab.addEventListener('click', () => {{
+        tabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        const filter = tab.dataset.filter;
+        cards.forEach(card => {{
+          const show = filter === 'All' || card.dataset.region === filter;
+          card.style.display = show ? '' : 'none';
+        }});
+      }});
     }});
   </script>
+
 </body>
 </html>"""
 
 
-def generate_rss(md_content: str, archives: list[dict]) -> str:
-    """Generate a basic RSS 2.0 feed from the latest newsletter."""
-    title, date_str = extract_title_and_date(md_content)
+# ── RSS feed ──────────────────────────────────────────────────────────────────
+
+def build_rss(articles: list[dict], archives: list[dict]) -> str:
     now_rfc = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
 
-    # Build one item per archive edition
     items = ""
-    for arch in archives[:10]:
-        pub_date = arch.get("label", "")
+    for art in articles[:20]:
+        t   = html.escape(art.get("title", ""))
+        u   = html.escape(art.get("url", ""))
+        s   = html.escape(art.get("summary", ""))
+        src = html.escape(art.get("source", ""))
+        pub = art.get("published_at", "")
         try:
-            dt = datetime.strptime(pub_date, "%Y-%m-%d %H:00 UTC").replace(tzinfo=timezone.utc)
-            rfc_date = dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
-        except ValueError:
-            rfc_date = now_rfc
-        fname = arch["filename"]
+            pub_rfc = datetime.fromisoformat(pub.replace("Z", "+00:00"))\
+                              .strftime("%a, %d %b %Y %H:%M:%S +0000")
+        except Exception:
+            pub_rfc = now_rfc
         items += f"""
     <item>
-      <title>GeoPulse — {arch['date']}</title>
-      <link>https://lavkeshdwivedi.github.io/geo-pulse/newsletters/{fname}</link>
-      <guid>https://lavkeshdwivedi.github.io/geo-pulse/newsletters/{fname}</guid>
-      <pubDate>{rfc_date}</pubDate>
-      <description>Automated geopolitics digest for {arch['date']}</description>
+      <title>{t}</title>
+      <link>{u}</link>
+      <guid isPermaLink="true">{u}</guid>
+      <pubDate>{pub_rfc}</pubDate>
+      <source url="{SITE_URL}/feed.xml">{src}</source>
+      <description>{s}</description>
     </item>"""
 
-    return f"""<?xml version="1.0" encoding="UTF-8" ?>
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GeoPulse — Automated Geopolitics Newsletter</title>
-    <link>https://lavkeshdwivedi.github.io/geo-pulse/</link>
-    <description>Hourly geopolitics intelligence powered by GitHub Actions.</description>
+    <title>{SITE_TITLE} — Geopolitics in 60 words</title>
+    <link>{SITE_URL}</link>
+    <description>{SITE_DESC}</description>
     <language>en-us</language>
     <lastBuildDate>{now_rfc}</lastBuildDate>
-    <atom:link href="https://lavkeshdwivedi.github.io/geo-pulse/feed.xml"
-               rel="self" type="application/rss+xml" />
+    <atom:link href="{SITE_URL}/feed.xml" rel="self" type="application/rss+xml"/>
     {items}
   </channel>
 </rss>"""
 
 
+# ── Main ──────────────────────────────────────────────────────────────────────
+
 def main() -> None:
     cfg = load_config()
     os.makedirs(SITE_DIR, exist_ok=True)
 
-    if not os.path.exists(NEWSLETTER_PATH):
-        log.error("newsletter.md not found at %s. Run summarize.py first.", NEWSLETTER_PATH)
+    if not os.path.exists(JSON_PATH):
+        log.error("newsletter.json not found — run summarize.py first.")
         raise SystemExit(1)
 
-    with open(NEWSLETTER_PATH, encoding="utf-8") as f:
-        md_content = f.read()
+    with open(JSON_PATH, encoding="utf-8") as f:
+        data = json.load(f)
 
-    # Archive and get archive list
-    archives = archive_newsletter(md_content, cfg)
+    articles     = data.get("articles", [])
+    generated_at = data.get("generated_at", datetime.now(timezone.utc).isoformat())
 
-    # Convert Markdown → HTML
-    body_html = md_to_html(md_content)
-    title, date_str = extract_title_and_date(md_content)
-    archive_sidebar = build_archive_sidebar(archives)
+    archives = archive_newsletter(cfg)
 
-    # Write index.html
-    html = build_html(body_html, title, date_str, archive_sidebar)
+    html_out = build_html(articles, generated_at, archives)
     with open(INDEX_PATH, "w", encoding="utf-8") as f:
-        f.write(html)
+        f.write(html_out)
     log.info("Wrote %s", INDEX_PATH)
 
-    # Copy styles.css if not already in site/
-    styles_src = os.path.join(SITE_DIR, "styles.css")
-    if not os.path.exists(styles_src):
-        log.warning("styles.css not found in site/ — skipping copy.")
-
-    # Write RSS feed
-    rss = generate_rss(md_content, archives)
+    rss_out = build_rss(articles, archives)
     with open(FEED_PATH, "w", encoding="utf-8") as f:
-        f.write(rss)
+        f.write(rss_out)
     log.info("Wrote %s", FEED_PATH)
 
 
 if __name__ == "__main__":
     main()
+

@@ -1,20 +1,24 @@
 #!/usr/bin/env python3
 """
-summarize.py — Reads raw_news.json and writes newsletter.md.
+summarize.py — Reads raw_news.json and writes:
+  - newsletter.json  (structured per-article data with 60-word summaries)
+  - newsletter.md    (markdown archive copy)
 
-LLM providers supported (set LLM_PROVIDER env var):
-  none        — formatted digest only, no AI summary (default, no key needed)
-  openai      — OpenAI GPT-4o-mini (requires OPENAI_API_KEY)
-  anthropic   — Anthropic Claude (requires ANTHROPIC_API_KEY)
-  huggingface — HuggingFace Inference API (requires HF_API_KEY)
+Each article gets a ≤60-word summary in the style of Inshorts.
+
+LLM providers (set LLM_PROVIDER env var):
+  none        — truncate description to 60 words, no AI  (default, no key needed)
+  openai      — OpenAI GPT-4o-mini  (requires OPENAI_API_KEY)
+  anthropic   — Anthropic Claude    (requires ANTHROPIC_API_KEY)
+  huggingface — HuggingFace BART    (requires HF_API_KEY or works anonymously)
 """
 
 import json
 import logging
 import os
+import re
 import textwrap
 from datetime import datetime, timezone
-from typing import Optional
 
 import yaml
 
@@ -23,29 +27,32 @@ log = logging.getLogger(__name__)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(ROOT, "config.yml")
-INPUT_PATH = os.path.join(ROOT, "raw_news.json")
-OUTPUT_PATH = os.path.join(ROOT, "newsletter.md")
+INPUT_PATH  = os.path.join(ROOT, "raw_news.json")
+JSON_PATH   = os.path.join(ROOT, "newsletter.json")
+MD_PATH     = os.path.join(ROOT, "newsletter.md")
 
-# Geopolitical region keywords for basic clustering
+BASE_URL = "https://pulse.lavkesh.com"
+
+# ── Region keyword map ────────────────────────────────────────────────────────
 REGION_KEYWORDS: dict[str, list[str]] = {
     "Middle East & Africa": [
         "israel", "palestine", "gaza", "iran", "saudi", "yemen", "syria",
         "iraq", "lebanon", "egypt", "africa", "sudan", "ethiopia", "libya",
     ],
     "Europe & Russia": [
-        "ukraine", "russia", "nato", "eu ", "european union", "france",
-        "germany", "uk ", "britain", "poland", "sweden", "finland", "baltics",
+        "ukraine", "russia", "nato", "european union", "france",
+        "germany", " uk ", "britain", "poland", "sweden", "finland", "baltics",
     ],
     "Asia-Pacific": [
         "china", "taiwan", "japan", "korea", "india", "pakistan",
         "south china sea", "asean", "indo-pacific", "australia",
     ],
     "Americas": [
-        "united states", "us ", "usa", " us ", "biden", "trump", "canada",
+        "united states", " us ", "usa", "biden", "trump", "canada",
         "mexico", "brazil", "venezuela", "latin america",
     ],
     "Global / Multilateral": [
-        "united nations", "un ", "g7", "g20", "wto", "imf", "sanctions",
+        "united nations", " un ", "g7", "g20", "wto", "imf", "sanctions",
         "diplomacy", "geopolitics", "international",
     ],
 }
@@ -55,286 +62,200 @@ def load_config() -> dict:
     with open(CONFIG_PATH) as f:
         cfg = yaml.safe_load(f)
     cfg["llm_provider"] = os.environ.get("LLM_PROVIDER", cfg.get("llm_provider", "none")).lower()
-    cfg["llm_model"] = os.environ.get("LLM_MODEL", cfg.get("llm_model", "gpt-4o-mini"))
+    cfg["llm_model"]    = os.environ.get("LLM_MODEL",    cfg.get("llm_model", "gpt-4o-mini"))
     return cfg
 
 
-def cluster_articles(articles: list[dict]) -> dict[str, list[dict]]:
-    """Group articles into regional buckets by keyword matching."""
-    clusters: dict[str, list[dict]] = {region: [] for region in REGION_KEYWORDS}
-    clusters["Other"] = []
-
-    for art in articles:
-        text = (art.get("title", "") + " " + art.get("description", "")).lower()
-        assigned = False
-        for region, keywords in REGION_KEYWORDS.items():
-            if any(kw in text for kw in keywords):
-                clusters[region].append(art)
-                assigned = True
-                break
-        if not assigned:
-            clusters["Other"].append(art)
-
-    # Remove empty clusters
-    return {k: v for k, v in clusters.items() if v}
+def classify_region(article: dict) -> str:
+    text = (article.get("title", "") + " " + article.get("description", "")).lower()
+    for region, keywords in REGION_KEYWORDS.items():
+        if any(kw in text for kw in keywords):
+            return region
+    return "World"
 
 
-def format_digest(clusters: dict[str, list[dict]], fetched_at: str) -> str:
-    """Build newsletter.md without LLM — clean formatted digest."""
-    try:
-        dt = datetime.fromisoformat(fetched_at)
-        date_str = dt.strftime("%B %d, %Y %H:%M UTC")
-    except ValueError:
-        date_str = fetched_at
-
-    lines = [
-        f"# 🌍 GeoPulse Newsletter",
-        f"",
-        f"**Updated:** {date_str}",
-        f"",
-        f"---",
-        f"",
-    ]
-
-    total = sum(len(v) for v in clusters.values())
-    lines += [
-        f"## Overview",
-        f"",
-        f"This edition covers **{total} stories** across {len(clusters)} regions.",
-        f"",
-        f"---",
-        f"",
-    ]
-
-    for region, articles in clusters.items():
-        lines.append(f"## {region}")
-        lines.append("")
-        for art in articles:
-            title = art.get("title", "No title")
-            url = art.get("url", "")
-            source = art.get("source", "Unknown")
-            description = art.get("description", "")
-            published = art.get("published_at", "")
-            # Format date
-            try:
-                pub_dt = datetime.fromisoformat(published.replace("Z", "+00:00"))
-                pub_str = pub_dt.strftime("%b %d, %H:%M UTC")
-            except Exception:
-                pub_str = published[:16] if published else ""
-
-            lines.append(f"### [{title}]({url})")
-            lines.append(f"*{source}* — {pub_str}")
-            lines.append("")
-            if description:
-                lines.append(f"> {description.strip()}")
-                lines.append("")
-
-        lines.append("---")
-        lines.append("")
-
-    lines.append("*GeoPulse is an automated geopolitics newsletter powered by GitHub Actions.*")
-    lines.append("")
-    return "\n".join(lines)
+def truncate_60_words(text: str) -> str:
+    """Trim text to ≤60 words. Journalism follows the inverted pyramid —
+    the first sentence carries the most weight, so never drop it mid-thought."""
+    if not text:
+        return ""
+    sentences = re.split(r'(?<=[.!?])\s+', text.strip())
+    result = []
+    count = 0
+    for s in sentences:
+        wc = len(s.split())
+        if count + wc > 60:
+            break
+        result.append(s)
+        count += wc
+    if not result:
+        words = text.split()
+        return " ".join(words[:60]) + "…"
+    return " ".join(result)
 
 
-def summarize_with_openai(clusters: dict[str, list[dict]], model: str, fetched_at: str) -> str:
-    """Use OpenAI to generate AI-powered summaries."""
+# ── LLM helpers ───────────────────────────────────────────────────────────────
+
+_STYLE_GUIDE = """
+Voice and tone:
+- Lead with what happened. First line. No warm-up.
+- Short sentences. Then a shorter one for punch.
+- Declarative over descriptive. Say what a thing is, not what it means.
+- Specific: real names, real places, real decisions. "India suspended the Indus Waters Treaty after the Kashmir attack" beats "tensions rose in South Asia."
+- Observations, not analysis. Report what happened and what changed. Do not tell the reader what to think.
+- No drama language. Nothing is explosive, shocking or unprecedented. Things shifted or they did not.
+- No editorial padding. The summary ends when the facts end.
+- Dry precision. One exact word is worth three vague ones.
+- Voice: a well-traveled journalist filing a tight dispatch. Not a pundit. Not a think-piece.
+
+Formatting rules — apply every one without exception:
+- No em dashes. Use a period instead and start a new sentence.
+- No semicolons. Two sentences beat a joined one every time.
+- No exclamation marks. Ever.
+- No Oxford comma unless it genuinely changes meaning.
+- No parentheses. If it matters it goes in the sentence. If it does not it gets cut.
+- Quotes around things only when it is an actual quote from an actual person. Not for emphasis.
+- Numbers under ten are written out. 10 and above are digits.
+- Sentence case for all body text. No unnecessary capitalisation.
+- Short paragraphs. Two to three sentences maximum. Single-sentence paragraphs are fine and often better.
+- No bold or italic for emphasis. If the sentence needs formatting to land it needs to be rewritten.
+- No ellipsis. Cut the sentence or end it.
+- Contractions are fine. "It is" only when you need the weight of formality.
+- Country names and proper nouns spelled out in full. No abbreviations.
+- Dates as "12 April 2026" not "April 12th, 2026."
+- One space after a period. Always.
+
+Output: third person. ≤60 words. No headline. Only the summary paragraph.
+""".strip()
+
+
+def _inshorts_prompt(title: str, description: str) -> str:
+    return textwrap.dedent(f"""
+        {_STYLE_GUIDE}
+
+        Story title: {title}
+        Details: {description}
+
+        Write the summary now.
+    """).strip()
+
+
+def summarise_batch_openai(articles: list[dict], model: str) -> list[str]:
     import openai
-
     client = openai.OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-
-    try:
-        dt = datetime.fromisoformat(fetched_at)
-        date_str = dt.strftime("%B %d, %Y %H:%M UTC")
-    except ValueError:
-        date_str = fetched_at
-
-    lines = [
-        "# 🌍 GeoPulse Newsletter",
-        "",
-        f"**Updated:** {date_str}",
-        "",
-        "---",
-        "",
-    ]
-
-    for region, articles in clusters.items():
-        article_text = "\n".join(
-            f"- {a['title']}: {a.get('description', '')} ({a.get('source', '')})"
-            for a in articles
-        )
-        prompt = textwrap.dedent(f"""
-            You are a geopolitics analyst writing a concise newsletter section.
-            Region: {region}
-            Articles:
-            {article_text}
-
-            Write a 2-3 sentence executive summary of the key developments in this region,
-            followed by a "Key Takeaway" sentence. Be factual and neutral.
-        """).strip()
-
+    summaries = []
+    for art in articles:
         try:
             resp = client.chat.completions.create(
                 model=model,
-                messages=[{"role": "user", "content": prompt}],
-                max_tokens=300,
+                messages=[{"role": "user", "content": _inshorts_prompt(
+                    art.get("title", ""), art.get("description", ""))}],
+                max_tokens=120,
                 temperature=0.3,
             )
-            summary = resp.choices[0].message.content.strip()
+            summaries.append(resp.choices[0].message.content.strip())
         except Exception as exc:
-            log.warning("OpenAI summarization failed for %s: %s", region, exc)
-            summary = "_AI summary unavailable for this section._"
-
-        lines.append(f"## {region}")
-        lines.append("")
-        lines.append(summary)
-        lines.append("")
-
-        for art in articles:
-            title = art.get("title", "")
-            url = art.get("url", "")
-            source = art.get("source", "")
-            lines.append(f"- [{title}]({url}) — *{source}*")
-        lines.append("")
-        lines.append("---")
-        lines.append("")
-
-    lines.append("*GeoPulse is an automated geopolitics newsletter powered by GitHub Actions.*")
-    lines.append("")
-    return "\n".join(lines)
+            log.warning("OpenAI failed for '%s': %s", art.get("title", "")[:40], exc)
+            summaries.append(truncate_60_words(art.get("description", art.get("title", ""))))
+    return summaries
 
 
-def summarize_with_anthropic(clusters: dict[str, list[dict]], model: str, fetched_at: str) -> str:
-    """Use Anthropic Claude to generate AI-powered summaries."""
+def summarise_batch_anthropic(articles: list[dict], model: str) -> list[str]:
     import anthropic
-
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-
-    try:
-        dt = datetime.fromisoformat(fetched_at)
-        date_str = dt.strftime("%B %d, %Y %H:%M UTC")
-    except ValueError:
-        date_str = fetched_at
-
-    lines = [
-        "# 🌍 GeoPulse Newsletter",
-        "",
-        f"**Updated:** {date_str}",
-        "",
-        "---",
-        "",
-    ]
-
-    for region, articles in clusters.items():
-        article_text = "\n".join(
-            f"- {a['title']}: {a.get('description', '')} ({a.get('source', '')})"
-            for a in articles
-        )
-        prompt = textwrap.dedent(f"""
-            You are a geopolitics analyst writing a concise newsletter section.
-            Region: {region}
-            Articles:
-            {article_text}
-
-            Write a 2-3 sentence executive summary of the key developments in this region,
-            followed by a "Key Takeaway" sentence. Be factual and neutral.
-        """).strip()
-
+    summaries = []
+    for art in articles:
         try:
             resp = client.messages.create(
                 model=model or "claude-3-haiku-20240307",
-                max_tokens=300,
-                messages=[{"role": "user", "content": prompt}],
+                max_tokens=120,
+                messages=[{"role": "user", "content": _inshorts_prompt(
+                    art.get("title", ""), art.get("description", ""))}],
             )
-            summary = resp.content[0].text.strip()
+            summaries.append(resp.content[0].text.strip())
         except Exception as exc:
-            log.warning("Anthropic summarization failed for %s: %s", region, exc)
-            summary = "_AI summary unavailable for this section._"
-
-        lines.append(f"## {region}")
-        lines.append("")
-        lines.append(summary)
-        lines.append("")
-        for art in articles:
-            title = art.get("title", "")
-            url = art.get("url", "")
-            source = art.get("source", "")
-            lines.append(f"- [{title}]({url}) — *{source}*")
-        lines.append("")
-        lines.append("---")
-        lines.append("")
-
-    lines.append("*GeoPulse is an automated geopolitics newsletter powered by GitHub Actions.*")
-    lines.append("")
-    return "\n".join(lines)
+            log.warning("Anthropic failed for '%s': %s", art.get("title", "")[:40], exc)
+            summaries.append(truncate_60_words(art.get("description", art.get("title", ""))))
+    return summaries
 
 
-def summarize_with_huggingface(clusters: dict[str, list[dict]], fetched_at: str) -> str:
-    """Use HuggingFace Inference API for summarization."""
+def summarise_batch_huggingface(articles: list[dict]) -> list[str]:
     import requests as req
-
     api_key = os.environ.get("HF_API_KEY", "")
     headers = {"Authorization": f"Bearer {api_key}"} if api_key else {}
-    model_url = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
-
-    try:
-        dt = datetime.fromisoformat(fetched_at)
-        date_str = dt.strftime("%B %d, %Y %H:%M UTC")
-    except ValueError:
-        date_str = fetched_at
-
-    lines = [
-        "# 🌍 GeoPulse Newsletter",
-        "",
-        f"**Updated:** {date_str}",
-        "",
-        "---",
-        "",
-    ]
-
-    for region, articles in clusters.items():
-        article_text = " ".join(
-            f"{a['title']}. {a.get('description', '')}"
-            for a in articles
-        )[:1024]  # BART input limit
-
-        summary = "_AI summary unavailable._"
+    url = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
+    summaries = []
+    for art in articles:
+        text = (art.get("title", "") + ". " + art.get("description", ""))[:1000]
         try:
             resp = req.post(
-                model_url,
-                headers=headers,
-                json={"inputs": article_text, "parameters": {"max_length": 150, "min_length": 40}},
+                url, headers=headers,
+                json={"inputs": text, "parameters": {"max_length": 80, "min_length": 30}},
                 timeout=30,
             )
             resp.raise_for_status()
             data = resp.json()
-            if isinstance(data, list) and data:
-                summary = data[0].get("summary_text", summary)
+            summary = data[0].get("summary_text", "") if isinstance(data, list) else ""
+            summaries.append(truncate_60_words(summary) if summary else
+                             truncate_60_words(art.get("description", art.get("title", ""))))
         except Exception as exc:
-            log.warning("HuggingFace summarization failed for %s: %s", region, exc)
+            log.warning("HuggingFace failed for '%s': %s", art.get("title", "")[:40], exc)
+            summaries.append(truncate_60_words(art.get("description", art.get("title", ""))))
+    return summaries
 
-        lines.append(f"## {region}")
-        lines.append("")
-        lines.append(summary)
-        lines.append("")
-        for art in articles:
-            title = art.get("title", "")
-            url = art.get("url", "")
-            source = art.get("source", "")
-            lines.append(f"- [{title}]({url}) — *{source}*")
-        lines.append("")
-        lines.append("---")
-        lines.append("")
 
-    lines.append("*GeoPulse is an automated geopolitics newsletter powered by GitHub Actions.*")
+# ── Markdown archive builder ──────────────────────────────────────────────────
+
+def build_markdown(enriched: list[dict], generated_at: str) -> str:
+    try:
+        dt = datetime.fromisoformat(generated_at)
+        date_str = dt.strftime("%B %d, %Y %H:%M UTC")
+    except ValueError:
+        date_str = generated_at
+
+    lines = [
+        "# 🌍 GeoPulse Newsletter",
+        "",
+        f"**Updated:** {date_str}",
+        "",
+        "---",
+        "",
+    ]
+
+    # Group by region for the markdown view
+    regions: dict[str, list[dict]] = {}
+    for art in enriched:
+        regions.setdefault(art["region"], []).append(art)
+
+    for region, arts in regions.items():
+        lines += [f"## {region}", ""]
+        for art in arts:
+            pub = art.get("published_at", "")
+            try:
+                pub_str = datetime.fromisoformat(
+                    pub.replace("Z", "+00:00")).strftime("%b %d, %H:%M UTC")
+            except Exception:
+                pub_str = pub[:16]
+            lines += [
+                f"### [{art['title']}]({art['url']})",
+                f"*{art['source']}* — {pub_str}",
+                "",
+                art["summary"],
+                "",
+            ]
+        lines += ["---", ""]
+
+    lines.append("*GeoPulse — automated geopolitics digest. Hosted at pulse.lavkesh.com*")
     lines.append("")
     return "\n".join(lines)
 
 
+# ── Main ──────────────────────────────────────────────────────────────────────
+
 def main() -> None:
-    cfg = load_config()
+    cfg      = load_config()
     provider = cfg["llm_provider"]
-    model = cfg["llm_model"]
+    model    = cfg["llm_model"]
 
     if not os.path.exists(INPUT_PATH):
         log.error("raw_news.json not found at %s. Run fetch_news.py first.", INPUT_PATH)
@@ -347,50 +268,73 @@ def main() -> None:
     fetched_at: str = data.get("fetched_at", datetime.now(timezone.utc).isoformat())
 
     if not articles:
-        log.warning("No articles found in raw_news.json. Writing empty newsletter.")
-        content = (
-            "# 🌍 GeoPulse Newsletter\n\n"
-            f"**Updated:** {fetched_at}\n\n"
-            "_No articles were available for this edition._\n"
-        )
-        with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-            f.write(content)
+        log.warning("No articles found — writing empty newsletter.")
+        empty = {
+            "generated_at": fetched_at,
+            "article_count": 0,
+            "articles": [],
+        }
+        with open(JSON_PATH, "w", encoding="utf-8") as f:
+            json.dump(empty, f, indent=2)
+        with open(MD_PATH, "w", encoding="utf-8") as f:
+            f.write(f"# 🌍 GeoPulse Newsletter\n\n**Updated:** {fetched_at}\n\n"
+                    "_No articles were available for this edition._\n")
         return
 
-    clusters = cluster_articles(articles)
-    log.info("Clustered into %d regions. Provider: %s", len(clusters), provider)
+    # ── Generate summaries ────────────────────────────────────────────────────
+    log.info("Generating summaries for %d articles. Provider: %s", len(articles), provider)
 
     try:
-        if provider == "openai":
-            if not os.environ.get("OPENAI_API_KEY"):
-                log.warning("OPENAI_API_KEY not set — falling back to digest mode.")
-                content = format_digest(clusters, fetched_at)
-            else:
-                content = summarize_with_openai(clusters, model, fetched_at)
-
-        elif provider == "anthropic":
-            if not os.environ.get("ANTHROPIC_API_KEY"):
-                log.warning("ANTHROPIC_API_KEY not set — falling back to digest mode.")
-                content = format_digest(clusters, fetched_at)
-            else:
-                content = summarize_with_anthropic(clusters, model, fetched_at)
-
+        if provider == "openai" and os.environ.get("OPENAI_API_KEY"):
+            summaries = summarise_batch_openai(articles, model)
+        elif provider == "anthropic" and os.environ.get("ANTHROPIC_API_KEY"):
+            summaries = summarise_batch_anthropic(articles, model)
         elif provider == "huggingface":
-            content = summarize_with_huggingface(clusters, fetched_at)
-
+            summaries = summarise_batch_huggingface(articles)
         else:
-            if provider != "none":
-                log.warning("Unknown LLM_PROVIDER '%s' — using digest mode.", provider)
-            content = format_digest(clusters, fetched_at)
-
+            if provider not in ("none", ""):
+                log.warning("Provider '%s' key missing or unknown — using 60-word truncation.", provider)
+            summaries = [
+                truncate_60_words(a.get("description") or a.get("title", ""))
+                for a in articles
+            ]
     except Exception as exc:
-        log.error("LLM summarization raised an unexpected error: %s. Falling back to digest.", exc)
-        content = format_digest(clusters, fetched_at)
+        log.error("Summarisation error: %s — falling back to truncation.", exc)
+        summaries = [
+            truncate_60_words(a.get("description") or a.get("title", ""))
+            for a in articles
+        ]
 
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        f.write(content)
-    log.info("Newsletter written to %s (%d chars)", OUTPUT_PATH, len(content))
+    # ── Enrich articles ───────────────────────────────────────────────────────
+    enriched: list[dict] = []
+    for art, summary in zip(articles, summaries):
+        enriched.append({
+            "title":        art.get("title", ""),
+            "url":          art.get("url", ""),
+            "source":       art.get("source", ""),
+            "published_at": art.get("published_at", ""),
+            "image_url":    art.get("image_url", ""),
+            "summary":      summary,
+            "region":       classify_region(art),
+        })
+
+    # ── Write newsletter.json ─────────────────────────────────────────────────
+    output = {
+        "generated_at":  fetched_at,
+        "article_count": len(enriched),
+        "articles":      enriched,
+    }
+    with open(JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    log.info("Wrote %s (%d articles)", JSON_PATH, len(enriched))
+
+    # ── Write newsletter.md (archive copy) ───────────────────────────────────
+    md = build_markdown(enriched, fetched_at)
+    with open(MD_PATH, "w", encoding="utf-8") as f:
+        f.write(md)
+    log.info("Wrote %s", MD_PATH)
 
 
 if __name__ == "__main__":
     main()
+
