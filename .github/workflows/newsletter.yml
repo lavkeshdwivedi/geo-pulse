@@ -100,33 +100,30 @@ jobs:
           print(f"Validated homepage content: {count} stories")
           PY
 
-      # ── 7. Commit newsletter & archive back to main ───────────────────────
-      - name: Commit generated files
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md newsletter.md newsletter.json newsletters/ site/index.html site/feed.xml
-          # Only commit if there are actual changes
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore(newsletter): automated update $(date -u +'%Y-%m-%d %H:%M UTC')"
-            # Create a branch and push it
-            BRANCH_NAME="chore/newsletter-auto-update-$(date +%s)"
-            git checkout -b "$BRANCH_NAME"
-            git push origin "$BRANCH_NAME"
+      # ── 7. Create PR with generated files ────────────────────────────────
+      - name: Create Pull Request with updated newsletter
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore(newsletter): automated update ${{ github.run_id }}"
+          committer: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          branch: chore/newsletter-auto-update
+          branch-suffix: short-commit-hash
+          delete-branch: false
+          title: "chore: automated newsletter update"
+          body: |
+            ## Automated Newsletter Update
             
-            # Create a pull request
-            gh pr create \
-              --base main \
-              --head "$BRANCH_NAME" \
-              --title "chore: automated newsletter update" \
-              --body "Automated newsletter and site update from workflow" \
-              --assignee "" \
-              || echo "PR creation failed or already exists"
-          fi
-        env:
-          GH_TOKEN: ${{ github.token }}
+            Updated newsletter and static site from geopolitical news sources.
+            
+            - Generated on: ${{ github.run_id }}
+            - Triggered by: ${{ github.event_name }}
+          labels: |
+            automated
+            newsletter
+          assignees: |
+          reviewers: |
 
       # ── 8. Deploy site/ to GitHub Pages ──────────────────────────────────
       - name: Upload Pages artifact
