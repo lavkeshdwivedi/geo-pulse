@@ -1,0 +1,124 @@
+name: GeoPulse Newsletter
+
+on:
+  schedule:
+    # Runs every hour at :00 — change this to customise the frequency.
+    # Example for every 6 hours:  "0 */6 * * *"
+    # Example for daily at 08:00: "0 8 * * *"
+    - cron: "0 * * * *"
+  workflow_dispatch:   # Allow manual trigger from the Actions tab
+
+permissions:
+  contents: write      # Needed to commit newsletter.md / site/ back to the repo
+  pages: write         # Needed for GitHub Pages deployment
+  id-token: write      # Needed for OIDC-based Pages deployment
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: newsletter-deploy
+      cancel-in-progress: false   # Don't cancel in-progress runs; queue instead
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # Full history so we can commit back properly
+
+      # ── 2. Python setup ──────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      # ── 3. Install dependencies ──────────────────────────────────────────
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      # ── 4. Fetch news ─────────────────────────────────────────────────────
+      - name: Fetch geopolitics news
+        env:
+          # Optional: add NEWSAPI_KEY in repo Settings → Secrets & variables → Actions
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          NEWS_SOURCES: ${{ vars.NEWS_SOURCES || 'gdelt,rss' }}
+          NEWS_QUERY: ${{ vars.NEWS_QUERY || '' }}
+          MAX_ARTICLES: ${{ vars.MAX_ARTICLES || '20' }}
+        run: python scripts/fetch_news.py
+
+      # ── 5. Summarise with LLM ────────────────────────────────────────────
+      - name: Summarise newsletter
+        env:
+          # Set LLM_PROVIDER to "openai", "anthropic", or "huggingface" and add
+          # the corresponding key secret to enable AI summaries.
+          # Leave unset (or set to "none") to use the free formatted-digest mode.
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'none' }}
+          LLM_MODEL: ${{ vars.LLM_MODEL || 'gpt-4o-mini' }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          HF_API_KEY: ${{ secrets.HF_API_KEY }}
+        run: python scripts/summarize.py
+
+      # ── 6. Generate static site ──────────────────────────────────────────
+      - name: Generate static site
+        env:
+          ARCHIVE_DAYS: ${{ vars.ARCHIVE_DAYS || '30' }}
+        run: python scripts/generate_site.py
+
+      # ── 7. Commit newsletter & archive back to main ───────────────────────
+      - name: Commit generated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add newsletter.md newsletter.json newsletters/ site/index.html site/feed.xml
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(newsletter): automated update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      # ── 8. Deploy site/ to GitHub Pages ──────────────────────────────────
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      # ── 9. Notify on failure ──────────────────────────────────────────────
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = `GeoPulse workflow failed — ${new Date().toUTCString()}`;
+            const body = [
+              '## ⚠️ GeoPulse Workflow Failure',
+              '',
+              `**Run:** [${context.runId}](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+              `**Triggered by:** ${context.eventName}`,
+              '',
+              'Please check the run logs for details.',
+            ].join('\n');
+            // Only open a new issue if one isn't already open with the same title
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'geopulse-failure',
+            });
+            if (!issues.some(i => i.title === title)) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['geopulse-failure'],
+              });
+            }

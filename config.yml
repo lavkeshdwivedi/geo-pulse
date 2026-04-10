@@ -1,0 +1,46 @@
+# GeoPulse Configuration
+# All values can be overridden via environment variables.
+
+# Cron schedule for the GitHub Actions workflow (default: every hour)
+update_schedule: "0 * * * *"
+
+# News sources to use. Options: "newsapi", "gdelt", "rss"
+# gdelt and rss require no API key.
+news_sources:
+  - gdelt
+  - rss
+
+# Additional NewsAPI source (requires NEWSAPI_KEY secret)
+# Uncomment the line below to enable:
+# - newsapi
+
+# Keywords used to filter/query geopolitics news
+news_query: "geopolitics OR diplomacy OR sanctions OR conflict OR NATO OR United Nations OR international relations"
+
+# LLM provider for summarization.
+# Options: "none" (no key required), "openai", "anthropic", "huggingface"
+# Set the corresponding secret (OPENAI_API_KEY, ANTHROPIC_API_KEY, HF_API_KEY)
+# in your repository's Settings → Secrets and variables → Actions.
+llm_provider: "none"
+
+# LLM model to use (only relevant when llm_provider != "none")
+llm_model: "gpt-4o-mini"
+
+# Maximum number of articles to process per run
+max_articles: 20
+
+# Number of days of newsletter archives to retain in the repo
+archive_days: 30
+
+# RSS feeds to poll (used when "rss" is in news_sources)
+rss_feeds:
+  - url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+    source: "BBC World"
+  - url: "https://www.aljazeera.com/xml/rss/all.xml"
+    source: "Al Jazeera"
+  - url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    source: "NYT World"
+  - url: "https://feeds.reuters.com/reuters/worldNews"
+    source: "Reuters World"
+  - url: "https://www.theguardian.com/world/rss"
+    source: "The Guardian World"
