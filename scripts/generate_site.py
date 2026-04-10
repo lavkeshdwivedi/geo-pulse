@@ -30,7 +30,8 @@ FEED_PATH    = os.path.join(SITE_DIR, "feed.xml")
 
 SITE_URL     = "https://pulse.lavkesh.com"
 SITE_TITLE   = "GeoPulse"
-SITE_DESC    = "Automated geopolitics digest — fresh global affairs updates, every hour."
+SITE_DESC    = "Signal-first briefs on geopolitics, geography, and world history."
+SITE_TAGLINE = "Global affairs, without the noise."
 
 ALL_REGIONS  = ["All", "Americas", "Asia-Pacific", "Europe & Russia",
                 "Middle East & Africa", "Global / Multilateral", "World"]
@@ -110,6 +111,7 @@ def render_card(art: dict) -> str:
     summary   = html.escape(art.get("summary", ""))
     url       = html.escape(art.get("url", "#"))
     region    = html.escape(art.get("region", "World"))
+    genre     = html.escape(art.get("genre", "Geopolitics"))
     pub       = art.get("published_at", "")
     ago       = time_ago(pub)
     image_url = art.get("image_url", "")
@@ -136,7 +138,10 @@ def render_card(art: dict) -> str:
     {f'<div class="card-img-wrap">{img_html}</div>' if image_url else ''}
     <div class="card-body">
       <div class="card-meta-top">
-        <span class="card-region">{region}</span>
+        <div class="card-topic-wrap">
+          <span class="card-region">{region}</span>
+          <span class="card-genre">{genre}</span>
+        </div>
         <span class="card-time">{ago}</span>
       </div>
       <h2 class="card-title">{title}</h2>
@@ -189,6 +194,14 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
   <meta property="og:url" content="{SITE_URL}" />
   <meta name="twitter:card" content="summary" />
   <link rel="canonical" href="{SITE_URL}" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="alternate icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="apple-touch-icon" href="favicon.svg" />
+  <meta name="theme-color" content="#0078d4" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#131109" media="(prefers-color-scheme: dark)" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400&family=JetBrains+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="alternate" type="application/rss+xml" title="GeoPulse RSS" href="{SITE_URL}/feed.xml" />
 </head>
@@ -198,7 +211,7 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
   <header class="app-header">
     <div class="header-inner">
       <a class="brand" href="{SITE_URL}">
-        <span class="brand-logo">🌍</span>
+        <img class="brand-logo" src="logo.svg" alt="GeoPulse logo" />
         <span class="brand-name">GeoPulse</span>
       </a>
       <div class="header-right">
@@ -216,7 +229,7 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
         </button>
       </div>
     </div>
-    <p class="tagline">{SITE_DESC}</p>
+    <p class="tagline">{SITE_TAGLINE}</p>
   </header>
 
   <!-- ── Filter tabs ────────────────────────────────────────────── -->
@@ -243,10 +256,18 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
         </ul>
       </section>
       <section class="sidebar-section about-section">
-        <h2 class="sidebar-heading">About</h2>
-        <p>GeoPulse fetches geopolitics news hourly and delivers each story in
-           up to 100&nbsp;words — inspired by <a href="https://www.inshorts.com" target="_blank" rel="noopener">Inshorts</a>.</p>
-        <p>Runs entirely on <strong>GitHub Actions</strong>. No servers. No ads.</p>
+        <h2 class="sidebar-heading">About GeoPulse</h2>
+        <p>GeoPulse is my editorial desk for global affairs: concise, verified, and signal-first coverage for people who need context, not noise.</p>
+        <p>The brief covers geopolitics, geography, and world-history threads that explain how events connect across regions and time.</p>
+        <p class="about-byline"><strong>Editor:</strong> Lavkesh Dwivedi</p>
+        <ul class="profile-links">
+          <li><a href="https://lavkesh.com" target="_blank" rel="noopener">Website</a></li>
+          <li><a href="https://linkedin.com/in/lavkesh" target="_blank" rel="noopener">LinkedIn</a></li>
+          <li><a href="https://x.com/lavkeshdwivedi" target="_blank" rel="noopener">X</a></li>
+          <li><a href="https://github.com/lavkeshdwivedi" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://instagram.com/lavkeshdwivedi" target="_blank" rel="noopener">Instagram</a></li>
+          <li><a href="https://facebook.com/lavkesh" target="_blank" rel="noopener">Facebook</a></li>
+        </ul>
       </section>
     </aside>
 
@@ -256,8 +277,13 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
   <footer class="app-footer">
     <p>
       © GeoPulse · <a href="{SITE_URL}/feed.xml">RSS</a> ·
-      Powered by <a href="https://github.com/lavkeshdwivedi/geo-pulse" target="_blank" rel="noopener">GitHub Actions</a>
-      · Hosted at <a href="{SITE_URL}">{SITE_URL.replace("https://", "")}</a>
+      Hosted at <a href="{SITE_URL}">{SITE_URL.replace("https://", "")}</a> ·
+      <a href="https://lavkesh.com" target="_blank" rel="noopener">lavkesh.com</a>
+    </p>
+    <p class="footer-social-links">
+      <a href="https://linkedin.com/in/lavkesh" target="_blank" rel="noopener">LinkedIn</a> ·
+      <a href="https://x.com/lavkeshdwivedi" target="_blank" rel="noopener">X</a> ·
+      <a href="https://github.com/lavkeshdwivedi" target="_blank" rel="noopener">GitHub</a>
     </p>
   </footer>
 

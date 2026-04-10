@@ -44,3 +44,23 @@ rss_feeds:
     source: "Reuters World"
   - url: "https://www.theguardian.com/world/rss"
     source: "The Guardian World"
+
+# Optional audience hooks to broaden discovery via additional sources.
+# These are kept low-volume by default and still fully attributed.
+audience_hooks_enabled: true
+audience_hooks_max_per_feed: 3
+
+audience_hook_feeds:
+  - url: "https://rss.cnn.com/rss/edition_world.rss"
+    source: "CNN World"
+  - url: "https://www.france24.com/en/rss"
+    source: "France 24"
+  - url: "https://www.dw.com/en/top-stories/s-9097?maca=en-rss-en-top-1022-rdf"
+    source: "DW Top Stories"
+
+# Inshorts-compatible hooks.
+# GeoPulse uses Google News RSS search against inshorts.com for specific topics.
+inshorts_hook_queries:
+  - "geopolitics"
+  - "world"
+  - "international relations"
