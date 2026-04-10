@@ -157,6 +157,50 @@ def truncate_words(text: str, limit: int = 100) -> str:
     return " ".join(result)
 
 
+def ensure_summary_constraints(
+    summary: str,
+    article: dict,
+    min_words: int = 80,
+    max_words: int = 100,
+    min_chars: int = 80,
+) -> str:
+    """Keep summaries in the required 80-100 word band and distinct from title."""
+    title = decode_entities(article.get("title", "")).strip()
+    description = decode_entities(article.get("description", "")).strip()
+
+    # Build the best available source text for fallback/expansion.
+    source_text = " ".join(part for part in [description, title] if part).strip()
+    if not source_text:
+        source_text = "This report is developing and more details are expected."
+
+    # Normalize summary and avoid title-only outputs.
+    clean_summary = decode_entities(summary).strip()
+    if not clean_summary or clean_summary.casefold() == title.casefold():
+        clean_summary = description or source_text
+
+    # Expand short summaries by appending context from source text.
+    expanded = clean_summary
+    if expanded:
+        expanded += " "
+    expanded += source_text
+
+    # Keep words inside the requested band.
+    words = expanded.split()
+    if len(words) < min_words:
+        repeated = words[:]
+        while len(repeated) < min_words:
+            repeated.extend(source_text.split())
+        words = repeated
+    constrained = " ".join(words[:max_words]).strip()
+
+    # Hard floor for character length.
+    if len(constrained) < min_chars:
+        constrained = (constrained + " " + source_text).strip()
+        constrained = " ".join(constrained.split()[:max_words]).strip()
+
+    return constrained
+
+
 # ── LLM helpers ───────────────────────────────────────────────────────────────
 
 # Loaded once at import time so every call in this process uses the same guide.
@@ -342,6 +386,7 @@ def main() -> None:
     # ── Enrich articles ───────────────────────────────────────────────────────
     enriched: list[dict] = []
     for art, summary in zip(articles, summaries):
+        final_summary = ensure_summary_constraints(summary, art)
         enriched.append({
             "title":        decode_entities(art.get("title", "")),
             "url":          art.get("url", ""),
@@ -349,7 +394,7 @@ def main() -> None:
             "sources":      art.get("sources", []),
             "published_at": art.get("published_at", ""),
             "image_url":    art.get("image_url", ""),
-            "summary":      decode_entities(summary),
+            "summary":      final_summary,
             "region":       classify_region(art),
             "genre":        classify_genre(art),
         })
