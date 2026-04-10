@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
 summarize.py — Reads raw_news.json and writes:
-  - newsletter.json  (structured per-article data with 60-word summaries)
+  - newsletter.json  (structured per-article data with up to 100-word summaries)
   - newsletter.md    (markdown archive copy)
 
-Each article gets a ≤60-word summary in the style of Inshorts.
+Each article gets a summary that ends when the story is complete, capped at 100 words.
 
 LLM providers (set LLM_PROVIDER env var):
-  none        — truncate description to 60 words, no AI  (default, no key needed)
+  none        — truncate description to 100 words, no AI  (default, no key needed)
   openai      — OpenAI GPT-4o-mini  (requires OPENAI_API_KEY)
   anthropic   — Anthropic Claude    (requires ANTHROPIC_API_KEY)
   huggingface — HuggingFace BART    (requires HF_API_KEY or works anonymously)
@@ -74,9 +74,9 @@ def classify_region(article: dict) -> str:
     return "World"
 
 
-def truncate_60_words(text: str) -> str:
-    """Trim text to ≤60 words. Journalism follows the inverted pyramid —
-    the first sentence carries the most weight, so never drop it mid-thought."""
+def truncate_words(text: str, limit: int = 100) -> str:
+    """Keep whole sentences up to `limit` words. Stop when the story is done.
+    If no complete sentence fits within the limit, hard-cut at the limit."""
     if not text:
         return ""
     sentences = re.split(r'(?<=[.!?])\s+', text.strip())
@@ -84,13 +84,13 @@ def truncate_60_words(text: str) -> str:
     count = 0
     for s in sentences:
         wc = len(s.split())
-        if count + wc > 60:
+        if count + wc > limit:
             break
         result.append(s)
         count += wc
     if not result:
         words = text.split()
-        return " ".join(words[:60]) + "…"
+        return " ".join(words[:limit])
     return " ".join(result)
 
 
@@ -125,7 +125,7 @@ Formatting rules — apply every one without exception:
 - Dates as "12 April 2026" not "April 12th, 2026."
 - One space after a period. Always.
 
-Output: third person. ≤60 words. No headline. Only the summary paragraph.
+Output: third person. 100 words maximum — end when the story is complete, not at an arbitrary cut. No headline. Only the summary paragraph.
 """.strip()
 
 
@@ -150,13 +150,13 @@ def summarise_batch_openai(articles: list[dict], model: str) -> list[str]:
                 model=model,
                 messages=[{"role": "user", "content": _inshorts_prompt(
                     art.get("title", ""), art.get("description", ""))}],
-                max_tokens=120,
+                max_tokens=160,
                 temperature=0.3,
             )
             summaries.append(resp.choices[0].message.content.strip())
         except Exception as exc:
             log.warning("OpenAI failed for '%s': %s", art.get("title", "")[:40], exc)
-            summaries.append(truncate_60_words(art.get("description", art.get("title", ""))))
+            summaries.append(truncate_words(art.get("description", art.get("title", ""))))
     return summaries
 
 
@@ -168,14 +168,14 @@ def summarise_batch_anthropic(articles: list[dict], model: str) -> list[str]:
         try:
             resp = client.messages.create(
                 model=model or "claude-3-haiku-20240307",
-                max_tokens=120,
+                max_tokens=160,
                 messages=[{"role": "user", "content": _inshorts_prompt(
                     art.get("title", ""), art.get("description", ""))}],
             )
             summaries.append(resp.content[0].text.strip())
         except Exception as exc:
             log.warning("Anthropic failed for '%s': %s", art.get("title", "")[:40], exc)
-            summaries.append(truncate_60_words(art.get("description", art.get("title", ""))))
+            summaries.append(truncate_words(art.get("description", art.get("title", ""))))
     return summaries
 
 
@@ -190,17 +190,17 @@ def summarise_batch_huggingface(articles: list[dict]) -> list[str]:
         try:
             resp = req.post(
                 url, headers=headers,
-                json={"inputs": text, "parameters": {"max_length": 80, "min_length": 30}},
+                json={"inputs": text, "parameters": {"max_length": 130, "min_length": 30}},
                 timeout=30,
             )
             resp.raise_for_status()
             data = resp.json()
             summary = data[0].get("summary_text", "") if isinstance(data, list) else ""
-            summaries.append(truncate_60_words(summary) if summary else
-                             truncate_60_words(art.get("description", art.get("title", ""))))
+            summaries.append(truncate_words(summary) if summary else
+                             truncate_words(art.get("description", art.get("title", ""))))
         except Exception as exc:
             log.warning("HuggingFace failed for '%s': %s", art.get("title", "")[:40], exc)
-            summaries.append(truncate_60_words(art.get("description", art.get("title", ""))))
+            summaries.append(truncate_words(art.get("description", art.get("title", ""))))
     return summaries
 
 
@@ -293,15 +293,15 @@ def main() -> None:
             summaries = summarise_batch_huggingface(articles)
         else:
             if provider not in ("none", ""):
-                log.warning("Provider '%s' key missing or unknown — using 60-word truncation.", provider)
+                log.warning("Provider '%s' key missing or unknown — using truncation.", provider)
             summaries = [
-                truncate_60_words(a.get("description") or a.get("title", ""))
+                truncate_words(a.get("description") or a.get("title", ""))
                 for a in articles
             ]
     except Exception as exc:
         log.error("Summarisation error: %s — falling back to truncation.", exc)
         summaries = [
-            truncate_60_words(a.get("description") or a.get("title", ""))
+            truncate_words(a.get("description") or a.get("title", ""))
             for a in articles
         ]
 
