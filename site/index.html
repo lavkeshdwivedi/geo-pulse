@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GeoPulse Newsletter</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="alternate" type="application/rss+xml" title="GeoPulse RSS" href="feed.xml" />
+  <meta name="description" content="Automated geopolitics newsletter — fresh global affairs insights every hour." />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="branding">
+        <span class="logo">🌍</span>
+        <span class="site-title">GeoPulse</span>
+        <span class="tagline">Automated Geopolitics Intelligence</span>
+      </div>
+      <div class="header-actions">
+        <a href="feed.xml" class="rss-link" title="Subscribe via RSS">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+               fill="currentColor" aria-hidden="true">
+            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18
+                     20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56
+                     15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0
+                     5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4
+                     13.37V10.1z"/>
+          </svg>
+          RSS
+        </a>
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark/light mode">
+          <span class="icon-light">☀️</span>
+          <span class="icon-dark">🌙</span>
+        </button>
+      </div>
+    </div>
+    <div class="last-updated">Initializing — first run pending.</div>
+  </header>
+
+  <div class="layout">
+    <main class="main-content">
+      <article class="newsletter-body">
+        <h1>🌍 GeoPulse Newsletter</h1>
+        <p><strong>Welcome to GeoPulse!</strong> The newsletter will be populated on the first
+        scheduled run of the GitHub Actions workflow.</p>
+        <p>Check back soon for your first automated geopolitics digest.</p>
+      </article>
+    </main>
+
+    <aside class="sidebar">
+      <h2 class="sidebar-title">📚 Archive</h2>
+      <p class="no-archive">No previous editions yet.</p>
+    </aside>
+  </div>
+
+  <footer class="site-footer">
+    <p>
+      GeoPulse is an automated newsletter powered by
+      <a href="https://github.com/features/actions" target="_blank" rel="noopener">GitHub Actions</a>.
+      Data sourced from public news feeds.
+    </p>
+  </footer>
+
+  <script>
+    const toggle = document.getElementById('theme-toggle');
+    const html = document.documentElement;
+    const stored = localStorage.getItem('geopulse-theme');
+    if (stored) html.setAttribute('data-theme', stored);
+
+    toggle.addEventListener('click', () => {
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('geopulse-theme', next);
+    });
+  </script>
+</body>
+</html>
