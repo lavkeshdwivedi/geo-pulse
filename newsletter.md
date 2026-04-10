@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** April 10, 2026 16:01 UTC
+**Updated:** April 10, 2026 16:40 UTC
 
 ---
 
@@ -15,6 +15,16 @@ The US president accused Iran of "doing a very poor job" with the waterway as Is
 *BBC World* — Apr 10, 08:28 UTC
 
 Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation.
+
+### [JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan](https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss)
+*Al Jazeera* — Apr 10, 16:05 UTC
+
+Vice president says Trump gave &#039;pretty clear guidelines&#039; on talks, which will be productive if Iran does not &#039;play&#039; US.
+
+### [US-Iran peace talks in Islamabad face massive hurdles](https://www.aljazeera.com/video/quotable/2026/4/10/us-iran-peace-talks-in-islamabad-face-massive-hurdles?traffic_source=rss)
+*Al Jazeera* — Apr 10, 15:59 UTC
+
+Ali Vaez, says upcoming talks between the US and Iran may be marred by a deficit of trust.
 
 ### [Inflation rises in US amid Iran war, Hormuz blockade](https://www.aljazeera.com/news/2026/4/10/inflation-rises-in-us-amid-iran-war-hormuz-blockade?traffic_source=rss)
 *Al Jazeera* — Apr 10, 15:20 UTC
@@ -35,21 +45,6 @@ US-Iran talks open in Islamabad with mediators focused on keeping dialogue alive
 *Al Jazeera* — Apr 10, 14:07 UTC
 
 US VP JD Vance says Trump gave “clear guidelines” for Iran talks in Pakistan and expects “positive” negotiations.
-
-### [Israel threatens healthcare as it continues to attack Lebanon](https://www.aljazeera.com/video/newsfeed/2026/4/10/israel-threatens-healthcare-as-it-continues-to-attack-lebanon?traffic_source=rss)
-*Al Jazeera* — Apr 10, 13:23 UTC
-
-Israel threatens healthcare as it continues to attack Lebanon
-
-### [‘Neither war nor peace’: What Gaza looks like six months into ‘ceasefire’](https://www.aljazeera.com/news/2026/4/10/neither-war-nor-peace-what-gaza-looks-like-six-months-into-ceasefire?traffic_source=rss)
-*Al Jazeera* — Apr 10, 13:17 UTC
-
-Following October 2025 agreement, attacks continue, aid is insufficient and regional conflicts deepen instability.
-
-### [Gaza father searches for his children’s remains in the rubble for years](https://www.aljazeera.com/video/newsfeed/2026/4/10/gaza-father-searches-for-his-childrens-remains-in-the-rubble-for-years?traffic_source=rss)
-*Al Jazeera* — Apr 10, 13:06 UTC
-
-A father in the Al Bureij camp in Gaza survived an Israeli airstrike but four of his children died.
 
 ---
 
@@ -75,6 +70,11 @@ The gambling platforms have grown in popularity, with some users making wagers o
 
 The Bronx born rapper's global hit Planet Rock is credited with shaping hip-hop in the 1980s.
 
+### [LIVE: Real Madrid vs Girona – La Liga](https://www.aljazeera.com/sports/liveblog/2026/4/10/live-real-madrid-vs-girona-la-liga?traffic_source=rss)
+*Al Jazeera* — Apr 10, 16:03 UTC
+
+Follow our live build-up, with full team news coverage, before our text commentary as Real look to close on Barcelona.
+
 ### [Potholes and progress: Mamdani reflects on 100 days as New York’s mayor](https://www.aljazeera.com/news/2026/4/10/potholes-and-progress-mamdani-reflects-on-100-days-as-new-yorks-mayor?traffic_source=rss)
 *Al Jazeera* — Apr 10, 15:36 UTC
 
@@ -93,6 +93,11 @@ The Orion spacecraft will make its return to Earth at 00:07 GMT, splashing down 
 *BBC World* — Apr 10, 08:37 UTC
 
 She called rumours that Epstein introduced her to Donald Trump "mean-spirited attempts to defame my reputation".
+
+### [In Peru’s presidential race, a pro-Trump frontrunner sinks in final stretch](https://www.aljazeera.com/news/longform/2026/4/10/in-perus-presidential-race-a-pro-trump-frontrunner-sinks-in-final-stretch?traffic_source=rss)
+*Al Jazeera* — Apr 10, 15:49 UTC
+
+Donald Trump has sought greater influence over Latin America, but in Peru&#039;s election, will a pro-Trump stance pay off?
 
 ---
 
@@ -116,11 +121,6 @@ The changes will give government more power over news-related posts shared by po
 *BBC World* — Apr 10, 11:56 UTC
 
 Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday.
-
-### [Russia suffers ‘record’ soldier casualties as Ukraine ups drone production](https://www.aljazeera.com/news/2026/4/10/ukraine-says-russia-suffers-record-losses-of-soldiers?traffic_source=rss)
-*Al Jazeera* — Apr 10, 13:19 UTC
-
-Russian casualties are mounting, recruitment is falling and territorial gains are dwindling.
 
 ---
 
