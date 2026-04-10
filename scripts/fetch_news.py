@@ -35,7 +35,56 @@ def load_config() -> dict:
     sources_env = os.environ.get("NEWS_SOURCES")
     if sources_env:
         cfg["news_sources"] = [s.strip() for s in sources_env.split(",")]
+    hooks_enabled = os.environ.get("AUDIENCE_HOOKS_ENABLED")
+    if hooks_enabled is not None:
+        cfg["audience_hooks_enabled"] = hooks_enabled.lower() in {"1", "true", "yes", "on"}
+    hook_cap = os.environ.get("AUDIENCE_HOOKS_MAX_PER_FEED")
+    if hook_cap:
+        cfg["audience_hooks_max_per_feed"] = int(hook_cap)
     return cfg
+
+
+def build_google_news_rss_url(query: str, hl: str = "en-IN", gl: str = "IN", ceid: str = "IN:en") -> str:
+    params = {
+        "q": query,
+        "hl": hl,
+        "gl": gl,
+        "ceid": ceid,
+    }
+    return f"https://news.google.com/rss/search?{urlencode(params)}"
+
+
+def build_audience_hook_feeds(cfg: dict) -> list[dict]:
+    """Build optional, attribution-preserving audience hook feeds.
+
+    These hooks are lightweight expansions around the primary feed set so
+    GeoPulse can discover additional reporting surfaces without replacing
+    core editorial sources.
+    """
+    hooks: list[dict] = []
+
+    # Generic hook feeds configured by the user.
+    for item in cfg.get("audience_hook_feeds", []):
+        url = (item.get("url") or "").strip()
+        source = (item.get("source") or "").strip()
+        if url and source:
+            hooks.append({"url": url, "source": source})
+
+    # Inshorts-compatible hook path via Google News RSS search.
+    inshorts_terms = cfg.get("inshorts_hook_queries", [])
+    for term in inshorts_terms:
+        term = (term or "").strip()
+        if not term:
+            continue
+        g_query = f"site:inshorts.com {term}"
+        hooks.append(
+            {
+                "url": build_google_news_rss_url(g_query),
+                "source": "Inshorts (via Google News)",
+            }
+        )
+
+    return hooks
 
 
 def fetch_gdelt(query: str, max_articles: int, hours_back: int = 24) -> list[dict]:
@@ -274,6 +323,13 @@ def main() -> None:
             all_articles.extend(fetch_newsapi(query, api_key, max_articles))
         else:
             log.warning("newsapi source enabled but NEWSAPI_KEY not set — skipping.")
+
+    if cfg.get("audience_hooks_enabled", True):
+        hook_feeds = build_audience_hook_feeds(cfg)
+        hook_cap = int(cfg.get("audience_hooks_max_per_feed", 3))
+        if hook_feeds:
+            log.info("Fetching audience hooks from %d feeds...", len(hook_feeds))
+            all_articles.extend(fetch_rss(hook_feeds, max_per_feed=hook_cap))
 
     # Fallback: if nothing was fetched, retry RSS only
     if not all_articles:

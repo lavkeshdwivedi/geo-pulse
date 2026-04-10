@@ -68,6 +68,18 @@ REGION_KEYWORDS: dict[str, list[str]] = {
     ],
 }
 
+GENRE_KEYWORDS: dict[str, list[str]] = {
+    "World History": [
+        "anniversary", "archive", "historic", "historical", "centenary",
+        "declassified", "world war", "cold war", "partition", "empire",
+        "memorial", "legacy",
+    ],
+    "Geography": [
+        "strait", "border", "island", "coast", "ocean", "sea", "river",
+        "mountain", "desert", "arctic", "terrain", "maritime", "hormuz",
+    ],
+}
+
 
 def load_config() -> dict:
     with open(CONFIG_PATH) as f:
@@ -83,6 +95,14 @@ def classify_region(article: dict) -> str:
         if any(kw in text for kw in keywords):
             return region
     return "World"
+
+
+def classify_genre(article: dict) -> str:
+    text = (article.get("title", "") + " " + article.get("description", "")).lower()
+    for genre, keywords in GENRE_KEYWORDS.items():
+        if any(kw in text for kw in keywords):
+            return genre
+    return "Geopolitics"
 
 
 def truncate_words(text: str, limit: int = 100) -> str:
@@ -299,6 +319,7 @@ def main() -> None:
             "image_url":    art.get("image_url", ""),
             "summary":      summary,
             "region":       classify_region(art),
+            "genre":        classify_genre(art),
         })
 
     # ── Write newsletter.json ─────────────────────────────────────────────────
