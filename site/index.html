@@ -554,7 +554,12 @@
       card.addEventListener('click', e => {
         if (!e.target.closest('a')) {
           const targetUrl = card.dataset.url || '';
-          if (!/^https?:\/\//i.test(targetUrl)) return;
+          try {
+            const parsed = new URL(targetUrl);
+            if (parsed.protocol !== 'http:' && parsed.protocol !== 'https:') return;
+          } catch (_) {
+            return;
+          }
           window.open(targetUrl, '_blank', 'noopener,noreferrer');
         }
       });
