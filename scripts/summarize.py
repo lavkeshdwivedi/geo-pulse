@@ -27,11 +27,22 @@ log = logging.getLogger(__name__)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(ROOT, "config.yml")
+STYLE_PATH  = os.path.join(ROOT, "STYLE.md")
 INPUT_PATH  = os.path.join(ROOT, "raw_news.json")
 JSON_PATH   = os.path.join(ROOT, "newsletter.json")
 MD_PATH     = os.path.join(ROOT, "newsletter.md")
 
 BASE_URL = "https://pulse.lavkesh.com"
+
+
+def load_style_guide() -> str:
+    """Load the editorial style guide from STYLE.md at the repo root."""
+    try:
+        with open(STYLE_PATH, encoding="utf-8") as f:
+            return f.read().strip()
+    except FileNotFoundError:
+        log.warning("STYLE.md not found at %s — using empty style guide.", STYLE_PATH)
+        return ""
 
 # ── Region keyword map ────────────────────────────────────────────────────────
 REGION_KEYWORDS: dict[str, list[str]] = {
@@ -96,37 +107,8 @@ def truncate_words(text: str, limit: int = 100) -> str:
 
 # ── LLM helpers ───────────────────────────────────────────────────────────────
 
-_STYLE_GUIDE = """
-Voice and tone:
-- Lead with what happened. First line. No warm-up.
-- Short sentences. Then a shorter one for punch.
-- Declarative over descriptive. Say what a thing is, not what it means.
-- Specific: real names, real places, real decisions. "India suspended the Indus Waters Treaty after the Kashmir attack" beats "tensions rose in South Asia."
-- Observations, not analysis. Report what happened and what changed. Do not tell the reader what to think.
-- No drama language. Nothing is explosive, shocking or unprecedented. Things shifted or they did not.
-- No editorial padding. The summary ends when the facts end.
-- Dry precision. One exact word is worth three vague ones.
-- Voice: a well-traveled journalist filing a tight dispatch. Not a pundit. Not a think-piece.
-
-Formatting rules — apply every one without exception:
-- No em dashes. Use a period instead and start a new sentence.
-- No semicolons. Two sentences beat a joined one every time.
-- No exclamation marks. Ever.
-- No Oxford comma unless it genuinely changes meaning.
-- No parentheses. If it matters it goes in the sentence. If it does not it gets cut.
-- Quotes around things only when it is an actual quote from an actual person. Not for emphasis.
-- Numbers under ten are written out. 10 and above are digits.
-- Sentence case for all body text. No unnecessary capitalisation.
-- Short paragraphs. Two to three sentences maximum. Single-sentence paragraphs are fine and often better.
-- No bold or italic for emphasis. If the sentence needs formatting to land it needs to be rewritten.
-- No ellipsis. Cut the sentence or end it.
-- Contractions are fine. "It is" only when you need the weight of formality.
-- Country names and proper nouns spelled out in full. No abbreviations.
-- Dates as "12 April 2026" not "April 12th, 2026."
-- One space after a period. Always.
-
-Output: third person. 100 words maximum — end when the story is complete, not at an arbitrary cut. No headline. Only the summary paragraph.
-""".strip()
+# Loaded once at import time so every call in this process uses the same guide.
+_STYLE_GUIDE = load_style_guide()
 
 
 def _inshorts_prompt(title: str, description: str) -> str:
