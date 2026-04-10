@@ -3,76 +3,402 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>GeoPulse Newsletter</title>
+  <title>GeoPulse — Geopolitics in brief</title>
+  <meta name="description" content="Automated geopolitics digest — fresh global affairs updates, every hour." />
+  <meta property="og:title" content="GeoPulse" />
+  <meta property="og:description" content="Automated geopolitics digest — fresh global affairs updates, every hour." />
+  <meta property="og:url" content="https://pulse.lavkesh.com" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="canonical" href="https://pulse.lavkesh.com" />
   <link rel="stylesheet" href="styles.css" />
-  <link rel="alternate" type="application/rss+xml" title="GeoPulse RSS" href="feed.xml" />
-  <meta name="description" content="Automated geopolitics newsletter — fresh global affairs insights every hour." />
+  <link rel="alternate" type="application/rss+xml" title="GeoPulse RSS" href="https://pulse.lavkesh.com/feed.xml" />
 </head>
 <body>
-  <header class="site-header">
+
+  <!-- ── Header ─────────────────────────────────────────────────── -->
+  <header class="app-header">
     <div class="header-inner">
-      <div class="branding">
-        <span class="logo">🌍</span>
-        <span class="site-title">GeoPulse</span>
-        <span class="tagline">Automated Geopolitics Intelligence</span>
-      </div>
-      <div class="header-actions">
-        <a href="feed.xml" class="rss-link" title="Subscribe via RSS">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
-               fill="currentColor" aria-hidden="true">
-            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18
-                     20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56
-                     15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0
-                     5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4
-                     13.37V10.1z"/>
+      <a class="brand" href="https://pulse.lavkesh.com">
+        <span class="brand-logo">🌍</span>
+        <span class="brand-name">GeoPulse</span>
+      </a>
+      <div class="header-right">
+        <span class="update-badge">Updated 10 Apr 2026, 16:01 UTC</span>
+        <a class="rss-btn" href="https://pulse.lavkesh.com/feed.xml" title="RSS feed" aria-label="RSS">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20
+                     C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56
+                     0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0
+                     0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 13.37V10.1z"/>
           </svg>
-          RSS
         </a>
-        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark/light mode">
-          <span class="icon-light">☀️</span>
-          <span class="icon-dark">🌙</span>
+        <button id="theme-btn" class="theme-btn" aria-label="Toggle theme">
+          <span class="light-icon">☀️</span><span class="dark-icon">🌙</span>
         </button>
       </div>
     </div>
-    <div class="last-updated">Initializing — first run pending.</div>
+    <p class="tagline">Automated geopolitics digest — fresh global affairs updates, every hour.</p>
   </header>
 
-  <div class="layout">
-    <main class="main-content">
-      <article class="newsletter-body">
-        <h1>🌍 GeoPulse Newsletter</h1>
-        <p><strong>Welcome to GeoPulse!</strong> The newsletter will be populated on the first
-        scheduled run of the GitHub Actions workflow.</p>
-        <p>Check back soon for your first automated geopolitics digest.</p>
-      </article>
+  <!-- ── Filter tabs ────────────────────────────────────────────── -->
+  <nav class="filter-bar" aria-label="Filter by region">
+    <div class="filter-inner">
+      <button class="filter-tab active" data-filter="All">All <span class="tab-count">20</span></button>
+<button class="filter-tab" data-filter="Americas">Americas <span class="tab-count">1</span></button>
+<button class="filter-tab" data-filter="Asia-Pacific">Asia-Pacific <span class="tab-count">2</span></button>
+<button class="filter-tab" data-filter="Europe &amp; Russia">Europe &amp; Russia <span class="tab-count">2</span></button>
+<button class="filter-tab" data-filter="Middle East &amp; Africa">Middle East &amp; Africa <span class="tab-count">9</span></button>
+<button class="filter-tab" data-filter="World">World <span class="tab-count">6</span></button>
+
+    </div>
+  </nav>
+
+  <!-- ── Main layout ────────────────────────────────────────────── -->
+  <div class="page-layout">
+
+    <!-- Card feed -->
+    <main class="card-feed" id="card-feed">
+      
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb74/live/ad515bf0-347e-11f1-bbf7-7db5bb17fba6.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Middle East &amp; Africa</span>
+        <span class="card-time">13h ago</span>
+      </div>
+      <h2 class="card-title">Trump says Iran&#x27;s handling of Strait of Hormuz is &#x27;not the agreement we have&#x27;</h2>
+      <p class="card-summary">The US president accused Iran of &quot;doing a very poor job&quot; with the waterway as Israel and Lebanon to begin peace talks.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="World" data-url="https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">World</span>
+        <span class="card-time">17h ago</span>
+      </div>
+      <h2 class="card-title">Ceasefire or no ceasefire, the Middle East&#x27;s reshuffling is not yet done</h2>
+      <p class="card-summary">Both sides have reason to end the war but share no common ground.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Americas" data-url="https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e750/live/ec957be0-349f-11f1-9d5c-8ba507d7dbde.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Americas</span>
+        <span class="card-time">7h ago</span>
+      </div>
+      <h2 class="card-title">Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors</h2>
+      <p class="card-summary">She called rumours that Epstein introduced her to Donald Trump &quot;mean-spirited attempts to defame my reputation&quot;.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Asia-Pacific" data-url="https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/ffbd95b0-34ac-11f1-a676-6ff4dfb1e8ec.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Asia-Pacific</span>
+        <span class="card-time">8h ago</span>
+      </div>
+      <h2 class="card-title">Taiwan opposition leader meets Xi Jinping in Beijing</h2>
+      <p class="card-summary">Cheng Li-wun is the Kuomintang&#x27;s first sitting leader to visit China in a decade.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="World" data-url="https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df30/live/308a6250-7e59-11f0-9e21-f9e74b491350.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">World</span>
+        <span class="card-time">5h ago</span>
+      </div>
+      <h2 class="card-title">German transgender far-right extremist arrested in Czech Republic</h2>
+      <p class="card-summary">German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Europe &amp; Russia" data-url="https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946d/live/990e28d0-34ab-11f1-8606-05fe34b06e1b.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Europe &amp; Russia</span>
+        <span class="card-time">4h ago</span>
+      </div>
+      <h2 class="card-title">Russia and Ukraine agree to Orthodox Easter truce</h2>
+      <p class="card-summary">Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="World" data-url="https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/8014eb80-3487-11f1-9bc8-f978f899d2ab.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">World</span>
+        <span class="card-time">13h ago</span>
+      </div>
+      <h2 class="card-title">White House staff told not to place bets on prediction markets</h2>
+      <p class="card-summary">The gambling platforms have grown in popularity, with some users making wagers on conflicts.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d87/live/5be87750-3422-11f1-aa50-fd39c44a0779.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Middle East &amp; Africa</span>
+        <span class="card-time">7h ago</span>
+      </div>
+      <h2 class="card-title">US has let in 4,499 refugees since October - all but three were South African</h2>
+      <p class="card-summary">Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Asia-Pacific" data-url="https://www.bbc.com/news/articles/ce9mx2j3xlxo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6696/live/58903620-33d6-11f1-874b-afe98ae76b3f.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Asia-Pacific</span>
+        <span class="card-time">15h ago</span>
+      </div>
+      <h2 class="card-title">India proposes new rules to regulate news and political posts on social media</h2>
+      <p class="card-summary">The changes will give government more power over news-related posts shared by podcasters and influencers.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/ce9mx2j3xlxo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="World" data-url="https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7483/live/0aeb9580-3477-11f1-a27c-25e679607533.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">World</span>
+        <span class="card-time">15h ago</span>
+      </div>
+      <h2 class="card-title">Hip-hop pioneer, Afrika Bambaataa,  dies aged 68</h2>
+      <p class="card-summary">The Bronx born rapper&#x27;s global hit Planet Rock is credited with shaping hip-hop in the 1980s.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="World" data-url="https://www.aljazeera.com/news/2026/4/10/potholes-and-progress-mamdani-reflects-on-100-days-as-new-yorks-mayor?traffic_source=rss">
+    
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">World</span>
+        <span class="card-time">27m ago</span>
+      </div>
+      <h2 class="card-title">Potholes and progress: Mamdani reflects on 100 days as New York’s mayor</h2>
+      <p class="card-summary">Mamdani&amp;#039;s first 100 days marked by childcare reforms, pothole fixes and polarising debates over affordability policies.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/news/2026/4/10/potholes-and-progress-mamdani-reflects-on-100-days-as-new-yorks-mayor?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.aljazeera.com/news/2026/4/10/inflation-rises-in-us-amid-iran-war-hormuz-blockade?traffic_source=rss">
+    
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Middle East &amp; Africa</span>
+        <span class="card-time">44m ago</span>
+      </div>
+      <h2 class="card-title">Inflation rises in US amid Iran war, Hormuz blockade</h2>
+      <p class="card-summary">Government report shows gasoline going up by 21.2 percent in March as petrol remains above $4 per gallon despite truce.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/news/2026/4/10/inflation-rises-in-us-amid-iran-war-hormuz-blockade?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.aljazeera.com/news/2026/4/10/zelenskyy-says-ukrainian-interceptors-downed-iran-drones-in-the-middle-east?traffic_source=rss">
+    
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Middle East &amp; Africa</span>
+        <span class="card-time">45m ago</span>
+      </div>
+      <h2 class="card-title">Zelenskyy says Ukrainian interceptors downed Iran drones in the Middle East</h2>
+      <p class="card-summary">Ukraine&amp;#039;s Zelenskyy previously announced that 228 Ukrainian experts had been deployed to the region.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/news/2026/4/10/zelenskyy-says-ukrainian-interceptors-downed-iran-drones-in-the-middle-east?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going?traffic_source=rss">
+    
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Middle East &amp; Africa</span>
+        <span class="card-time">1h ago</span>
+      </div>
+      <h2 class="card-title">Pakistan sets modest goal for US-Iran summit: A deal to keep talks going</h2>
+      <p class="card-summary">US-Iran talks open in Islamabad with mediators focused on keeping dialogue alive amid deep divisions.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="World" data-url="https://www.aljazeera.com/news/2026/4/10/artemis-ii-splashdown-when-it-lands-risks-and-how-to-watch-live?traffic_source=rss">
+    
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">World</span>
+        <span class="card-time">1h ago</span>
+      </div>
+      <h2 class="card-title">Artemis II splashdown: When it lands, risks and how to watch live</h2>
+      <p class="card-summary">The Orion spacecraft will make its return to Earth at 00:07 GMT, splashing down off the San Diego coast.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/news/2026/4/10/artemis-ii-splashdown-when-it-lands-risks-and-how-to-watch-live?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.aljazeera.com/video/newsfeed/2026/4/10/vance-expects-positive-iran-talks-as-he-heads-to-islamabad?traffic_source=rss">
+    
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Middle East &amp; Africa</span>
+        <span class="card-time">1h ago</span>
+      </div>
+      <h2 class="card-title">Vance expects ‘positive’ Iran talks as he heads to Islamabad</h2>
+      <p class="card-summary">US VP JD Vance says Trump gave “clear guidelines” for Iran talks in Pakistan and expects “positive” negotiations.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/video/newsfeed/2026/4/10/vance-expects-positive-iran-talks-as-he-heads-to-islamabad?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.aljazeera.com/video/newsfeed/2026/4/10/israel-threatens-healthcare-as-it-continues-to-attack-lebanon?traffic_source=rss">
+    
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Middle East &amp; Africa</span>
+        <span class="card-time">2h ago</span>
+      </div>
+      <h2 class="card-title">Israel threatens healthcare as it continues to attack Lebanon</h2>
+      <p class="card-summary">Israel threatens healthcare as it continues to attack Lebanon</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/video/newsfeed/2026/4/10/israel-threatens-healthcare-as-it-continues-to-attack-lebanon?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Europe &amp; Russia" data-url="https://www.aljazeera.com/news/2026/4/10/ukraine-says-russia-suffers-record-losses-of-soldiers?traffic_source=rss">
+    
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Europe &amp; Russia</span>
+        <span class="card-time">2h ago</span>
+      </div>
+      <h2 class="card-title">Russia suffers ‘record’ soldier casualties as Ukraine ups drone production</h2>
+      <p class="card-summary">Russian casualties are mounting, recruitment is falling and territorial gains are dwindling.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/news/2026/4/10/ukraine-says-russia-suffers-record-losses-of-soldiers?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.aljazeera.com/news/2026/4/10/neither-war-nor-peace-what-gaza-looks-like-six-months-into-ceasefire?traffic_source=rss">
+    
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Middle East &amp; Africa</span>
+        <span class="card-time">2h ago</span>
+      </div>
+      <h2 class="card-title">‘Neither war nor peace’: What Gaza looks like six months into ‘ceasefire’</h2>
+      <p class="card-summary">Following October 2025 agreement, attacks continue, aid is insufficient and regional conflicts deepen instability.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/news/2026/4/10/neither-war-nor-peace-what-gaza-looks-like-six-months-into-ceasefire?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.aljazeera.com/video/newsfeed/2026/4/10/gaza-father-searches-for-his-childrens-remains-in-the-rubble-for-years?traffic_source=rss">
+    
+    <div class="card-body">
+      <div class="card-meta-top">
+        <span class="card-region">Middle East &amp; Africa</span>
+        <span class="card-time">2h ago</span>
+      </div>
+      <h2 class="card-title">Gaza father searches for his children’s remains in the rubble for years</h2>
+      <p class="card-summary">A father in the Al Bureij camp in Gaza survived an Israeli airstrike but four of his children died.</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/video/newsfeed/2026/4/10/gaza-father-searches-for-his-childrens-remains-in-the-rubble-for-years?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
     </main>
 
+    <!-- Sidebar -->
     <aside class="sidebar">
-      <h2 class="sidebar-title">📚 Archive</h2>
-      <p class="no-archive">No previous editions yet.</p>
+      <section class="sidebar-section">
+        <h2 class="sidebar-heading">📚 Past Editions</h2>
+        <ul class="archive-list">
+          <li><a href="https://pulse.lavkesh.com/newsletters/2026-04-10-16.md">10 Apr 2026, 16:00 UTC</a></li>
+        </ul>
+      </section>
+      <section class="sidebar-section about-section">
+        <h2 class="sidebar-heading">About</h2>
+        <p>GeoPulse fetches geopolitics news hourly and delivers each story in
+           up to 100&nbsp;words — inspired by <a href="https://www.inshorts.com" target="_blank" rel="noopener">Inshorts</a>.</p>
+        <p>Runs entirely on <strong>GitHub Actions</strong>. No servers. No ads.</p>
+      </section>
     </aside>
+
   </div>
 
-  <footer class="site-footer">
+  <!-- ── Footer ─────────────────────────────────────────────────── -->
+  <footer class="app-footer">
     <p>
-      GeoPulse is an automated newsletter powered by
-      <a href="https://github.com/features/actions" target="_blank" rel="noopener">GitHub Actions</a>.
-      Data sourced from public news feeds.
+      © GeoPulse · <a href="https://pulse.lavkesh.com/feed.xml">RSS</a> ·
+      Powered by <a href="https://github.com/lavkeshdwivedi/geo-pulse" target="_blank" rel="noopener">GitHub Actions</a>
+      · Hosted at <a href="https://pulse.lavkesh.com">pulse.lavkesh.com</a>
     </p>
   </footer>
 
   <script>
-    const toggle = document.getElementById('theme-toggle');
-    const html = document.documentElement;
-    const stored = localStorage.getItem('geopulse-theme');
-    if (stored) html.setAttribute('data-theme', stored);
+    // Normalize *.html paths to clean URLs without trailing slashes.
+    // Examples: /index.html -> /, /about/index.html -> /about, /about.html -> /about
+    const path = window.location.pathname;
+    const lowerPath = path.toLowerCase();
+    if (lowerPath.endsWith('.html')) {
+      let cleanPath = path.slice(0, -5); // remove ".html"
+      if (cleanPath.toLowerCase().endsWith('/index')) {
+        cleanPath = cleanPath.slice(0, -6) || '/';
+      }
+      if (cleanPath.length > 1 && cleanPath.endsWith('/')) {
+        cleanPath = cleanPath.slice(0, -1);
+      }
+      window.location.replace(cleanPath + window.location.search + window.location.hash);
+    }
 
-    toggle.addEventListener('click', () => {
-      const current = html.getAttribute('data-theme');
-      const next = current === 'dark' ? 'light' : 'dark';
-      html.setAttribute('data-theme', next);
-      localStorage.setItem('geopulse-theme', next);
+    // ── Theme toggle ─────────────────────────────────────────────
+    const html = document.documentElement;
+    const btn  = document.getElementById('theme-btn');
+    const saved = localStorage.getItem('gp-theme');
+    if (saved) html.dataset.theme = saved;
+    btn.addEventListener('click', () => {
+      const next = html.dataset.theme === 'dark' ? 'light' : 'dark';
+      html.dataset.theme = next;
+      localStorage.setItem('gp-theme', next);
+    });
+
+    // ── Region filter ────────────────────────────────────────────
+    const tabs  = document.querySelectorAll('.filter-tab');
+    const feed  = document.getElementById('card-feed');
+    const cards = Array.from(feed.querySelectorAll('.card'));
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        tabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        const filter = tab.dataset.filter;
+        cards.forEach(card => {
+          const show = filter === 'All' || card.dataset.region === filter;
+          card.style.display = show ? '' : 'none';
+        });
+      });
+    });
+    // ── Clickable cards (tap anywhere to open source) ────────────
+    document.querySelectorAll('.card[data-url]').forEach(card => {
+      card.addEventListener('click', e => {
+        if (!e.target.closest('a')) {
+          window.open(card.dataset.url, '_blank', 'noopener,noreferrer');
+        }
+      });
     });
   </script>
+
 </body>
 </html>

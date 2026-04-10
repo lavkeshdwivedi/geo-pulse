@@ -88,3 +88,18 @@ python scripts/generate_site.py  # → site/index.html + site/feed.xml
 ```
 
 Open `site/index.html` in your browser to preview the dashboard.
+
+## Linting Hook
+
+This repo now includes a pre-commit hook for Python linting and formatting checks.
+
+```bash
+pip install -r requirements.txt
+pre-commit install
+pre-commit run --all-files
+```
+
+The hook runs:
+
+- `ruff check`
+- `ruff format --check`

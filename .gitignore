@@ -16,7 +16,6 @@ pip-wheel-metadata/
 
 # Generated / intermediate pipeline artefacts
 raw_news.json
-newsletter.json
 
 # macOS
 .DS_Store

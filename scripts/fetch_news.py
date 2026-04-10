@@ -22,6 +22,7 @@ log = logging.getLogger(__name__)
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(ROOT, "config.yml")
 OUTPUT_PATH = os.path.join(ROOT, "raw_news.json")
+NEWSLETTER_JSON_PATH = os.path.join(ROOT, "newsletter.json")
 
 
 def load_config() -> dict:
@@ -221,6 +222,36 @@ def _strip_html(text: str) -> str:
     return re.sub(r"<[^>]+>", "", text)
 
 
+def load_previous_articles(max_articles: int) -> list[dict]:
+    """Fallback to prior newsletter stories if fresh sources return nothing."""
+    if not os.path.exists(NEWSLETTER_JSON_PATH):
+        return []
+
+    try:
+        with open(NEWSLETTER_JSON_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+        previous = []
+        for art in data.get("articles", []):
+            title = (art.get("title") or "").strip()
+            url = (art.get("url") or "").strip()
+            if not title or not url:
+                continue
+            previous.append(
+                {
+                    "title": title,
+                    "url": url,
+                    "source": art.get("source", "GeoPulse Archive"),
+                    "published_at": art.get("published_at", ""),
+                    "description": (art.get("summary") or title)[:400],
+                    "image_url": art.get("image_url", ""),
+                }
+            )
+        return previous[:max_articles]
+    except Exception as exc:
+        log.warning("Unable to load previous newsletter fallback: %s", exc)
+        return []
+
+
 def main() -> None:
     cfg = load_config()
     sources = cfg.get("news_sources", ["gdelt", "rss"])
@@ -252,6 +283,10 @@ def main() -> None:
 
     unique = deduplicate(all_articles)
     unique = unique[:max_articles]
+
+    if not unique:
+        log.warning("No unique articles available; falling back to previous newsletter stories.")
+        unique = load_previous_articles(max_articles)
 
     log.info("Total unique articles after dedup: %d", len(unique))
 

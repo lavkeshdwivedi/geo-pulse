@@ -67,6 +67,31 @@ jobs:
           ARCHIVE_DAYS: ${{ vars.ARCHIVE_DAYS || '30' }}
         run: python scripts/generate_site.py
 
+      # ── 6b. Validate homepage has stories ───────────────────────────────
+      - name: Validate generated homepage
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          newsletter = Path("newsletter.json")
+          index_file = Path("site/index.html")
+
+          if not newsletter.exists() or not index_file.exists():
+              raise SystemExit("Missing generated newsletter.json or site/index.html")
+
+          data = json.loads(newsletter.read_text(encoding="utf-8"))
+          count = int(data.get("article_count", 0))
+          index_html = index_file.read_text(encoding="utf-8")
+
+          if count < 1:
+              raise SystemExit("article_count is 0; homepage would have no news")
+          if '<article class="card"' not in index_html:
+              raise SystemExit("No story cards found in generated homepage")
+
+          print(f"Validated homepage content: {count} stories")
+          PY
+
       # ── 7. Commit newsletter & archive back to main ───────────────────────
       - name: Commit generated files
         run: |
@@ -94,6 +119,7 @@ jobs:
       # ── 9. Notify on failure ──────────────────────────────────────────────
       - name: Create issue on failure
         if: failure()
+        continue-on-error: true
         uses: actions/github-script@v7
         with:
           script: |

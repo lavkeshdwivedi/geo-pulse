@@ -11,7 +11,6 @@ import html
 import json
 import logging
 import os
-import re
 import shutil
 from datetime import datetime, timezone
 
@@ -110,7 +109,6 @@ def render_card(art: dict) -> str:
     title     = html.escape(art.get("title", ""))
     summary   = html.escape(art.get("summary", ""))
     url       = html.escape(art.get("url", "#"))
-    source    = html.escape(art.get("source", ""))
     region    = html.escape(art.get("region", "World"))
     pub       = art.get("published_at", "")
     ago       = time_ago(pub)
@@ -179,8 +177,6 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
         n = sum(1 for a in articles if a.get("region") == reg)
         tab_html += f'<button class="filter-tab" data-filter="{html.escape(reg)}">{html.escape(reg)} <span class="tab-count">{n}</span></button>\n'
 
-    articles_json = json.dumps(articles, ensure_ascii=False)
-
     return f"""<!DOCTYPE html>
 <html lang="en" data-theme="light">
 <head>
@@ -192,6 +188,7 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
   <meta property="og:description" content="{SITE_DESC}" />
   <meta property="og:url" content="{SITE_URL}" />
   <meta name="twitter:card" content="summary" />
+  <link rel="canonical" href="{SITE_URL}" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="alternate" type="application/rss+xml" title="GeoPulse RSS" href="{SITE_URL}/feed.xml" />
 </head>
@@ -265,6 +262,21 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
   </footer>
 
   <script>
+    // Normalize *.html paths to clean URLs without trailing slashes.
+    // Examples: /index.html -> /, /about/index.html -> /about, /about.html -> /about
+    const path = window.location.pathname;
+    const lowerPath = path.toLowerCase();
+    if (lowerPath.endsWith('.html')) {{
+      let cleanPath = path.slice(0, -5); // remove ".html"
+      if (cleanPath.toLowerCase().endsWith('/index')) {{
+        cleanPath = cleanPath.slice(0, -6) || '/';
+      }}
+      if (cleanPath.length > 1 && cleanPath.endsWith('/')) {{
+        cleanPath = cleanPath.slice(0, -1);
+      }}
+      window.location.replace(cleanPath + window.location.search + window.location.hash);
+    }}
+
     // ── Theme toggle ─────────────────────────────────────────────
     const html = document.documentElement;
     const btn  = document.getElementById('theme-btn');

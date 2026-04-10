@@ -249,7 +249,8 @@ img { display: block; max-width: 100%; }
 .card:hover { box-shadow: var(--shadow-md); }
 .card[data-url] { cursor: pointer; }
 
-/* Image on the right (Inshorts style)
+/* Image on the right (Inshorts style) */
+.card-img-wrap {
   flex-shrink:  0;
   width:        160px;
   order:        2;           /* image always on the right */
