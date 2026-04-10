@@ -14,6 +14,7 @@ LLM providers (set LLM_PROVIDER env var):
 """
 
 import json
+import html
 import logging
 import os
 import re
@@ -33,6 +34,37 @@ JSON_PATH   = os.path.join(ROOT, "newsletter.json")
 MD_PATH     = os.path.join(ROOT, "newsletter.md")
 
 BASE_URL = "https://pulse.lavkesh.com"
+
+
+def decode_entities(text: str) -> str:
+    """Decode HTML entities, handling double-encoded content from feeds."""
+    if not text:
+        return ""
+    current = text
+    for _ in range(3):
+        decoded = html.unescape(current)
+        if decoded == current:
+            break
+        current = decoded
+    return re.sub(r"\s+", " ", current).strip()
+
+
+def normalize_article_text(article: dict) -> dict:
+    """Return an article with textual fields normalized for output and prompts."""
+    normalized_sources = []
+    for src in article.get("sources", []) or []:
+        normalized_sources.append({
+            "url": src.get("url", ""),
+            "source": decode_entities(src.get("source", "")),
+        })
+
+    return {
+        **article,
+        "title": decode_entities(article.get("title", "")),
+        "description": decode_entities(article.get("description", "")),
+        "source": decode_entities(article.get("source", "")),
+        "sources": normalized_sources,
+    }
 
 
 def load_style_guide() -> str:
@@ -266,7 +298,7 @@ def main() -> None:
     with open(INPUT_PATH, encoding="utf-8") as f:
         data = json.load(f)
 
-    articles: list[dict] = data.get("articles", [])
+    articles: list[dict] = [normalize_article_text(a) for a in data.get("articles", [])]
     fetched_at: str = data.get("fetched_at", datetime.now(timezone.utc).isoformat())
 
     if not articles:
@@ -297,13 +329,13 @@ def main() -> None:
             if provider not in ("none", ""):
                 log.warning("Provider '%s' key missing or unknown — using truncation.", provider)
             summaries = [
-                truncate_words(a.get("description") or a.get("title", ""))
+                truncate_words(decode_entities(a.get("description") or a.get("title", "")))
                 for a in articles
             ]
     except Exception as exc:
         log.error("Summarisation error: %s — falling back to truncation.", exc)
         summaries = [
-            truncate_words(a.get("description") or a.get("title", ""))
+            truncate_words(decode_entities(a.get("description") or a.get("title", "")))
             for a in articles
         ]
 
@@ -311,13 +343,13 @@ def main() -> None:
     enriched: list[dict] = []
     for art, summary in zip(articles, summaries):
         enriched.append({
-            "title":        art.get("title", ""),
+            "title":        decode_entities(art.get("title", "")),
             "url":          art.get("url", ""),
-            "source":       art.get("source", ""),
+            "source":       decode_entities(art.get("source", "")),
             "sources":      art.get("sources", []),
             "published_at": art.get("published_at", ""),
             "image_url":    art.get("image_url", ""),
-            "summary":      summary,
+            "summary":      decode_entities(summary),
             "region":       classify_region(art),
             "genre":        classify_genre(art),
         })
