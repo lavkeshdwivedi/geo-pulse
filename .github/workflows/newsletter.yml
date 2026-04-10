@@ -13,10 +13,10 @@ on:
   workflow_dispatch:   # Allow manual trigger from the Actions tab
 
 permissions:
-  contents: write      # Needed to commit newsletter.md / site/ back to the repo
-  pull-requests: write # Needed to open/update pull requests from the workflow
-  pages: write         # Needed for GitHub Pages deployment
-  id-token: write      # Needed for OIDC-based Pages deployment
+  contents: write       # Needed to commit newsletter.md / site/ back to the repo
+  pull-requests: write  # Needed for peter-evans/create-pull-request to open/update PRs
+  pages: write          # Needed for GitHub Pages deployment
+  id-token: write       # Needed for OIDC-based Pages deployment
 
 jobs:
   build-and-deploy:
@@ -106,6 +106,12 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          add-paths: |
+            newsletter.md
+            newsletter.json
+            newsletters/
+            site/
+            README.md
           commit-message: "chore(newsletter): automated update ${{ github.run_id }}"
           committer: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
