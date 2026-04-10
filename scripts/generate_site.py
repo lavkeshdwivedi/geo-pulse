@@ -121,9 +121,10 @@ def render_card(art: dict) -> str:
         safe_img = html.escape(image_url)
         img_html = f'<img class="card-img" src="{safe_img}" alt="" loading="lazy" onerror="this.parentElement.style.display=\'none\'">'
 
-    # Build source chips — use the merged sources list when available,
-    # otherwise fall back to the single url/source on the article.
-    raw_sources: list[dict] = art.get("sources") or [{"url": art.get("url", "#"), "source": art.get("source", "")}]
+    # Build source chips — use the merged sources list when available and
+    # non-empty, otherwise fall back to the single url/source on the article.
+    _sources = art.get("sources")
+    raw_sources: list[dict] = _sources if _sources else [{"url": art.get("url", "#"), "source": art.get("source", "")}]
     source_chips = "".join(
         f'<a class="card-source-chip" href="{html.escape(s["url"])}" '
         f'target="_blank" rel="noopener noreferrer">{html.escape(s["source"])}</a>'

@@ -203,9 +203,11 @@ def deduplicate(articles: list[dict]) -> list[dict]:
             continue
         seen_urls.add(url)
         if title_key in title_to_idx:
-            # Merge this source into the already-kept article
+            # Merge this source into the already-kept article.
             primary = unique[title_to_idx[title_key]]
-            primary.setdefault("sources", [{"url": primary["url"], "source": primary["source"]}])
+            if not primary.get("sources"):
+                # First duplicate encountered: seed the list with the primary's own source.
+                primary["sources"] = [{"url": primary["url"], "source": primary["source"]}]
             primary["sources"].append({"url": url, "source": art["source"]})
         else:
             title_to_idx[title_key] = len(unique)
