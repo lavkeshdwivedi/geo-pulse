@@ -24,12 +24,12 @@ GeoPulse is an automated geopolitics newsletter delivering curated global affair
 <!-- README-AUTO-STATUS:START -->
 ## Project Status (auto-updated)
 
-- Last newsletter build: 2026-04-10 16:01 UTC
+- Last newsletter build: 2026-04-10 17:07 UTC
 - Articles in latest edition: 20
-- Latest archive file: 2026-04-10-16.md
-- Total archived editions: 1
+- Latest archive file: 2026-04-10-17.md
+- Total archived editions: 2
 - Configured schedule (cron): `0 * * * *`
-- README status last synced: 2026-04-10 16:17 UTC
+- README status last synced: 2026-04-10 17:07 UTC
 <!-- README-AUTO-STATUS:END -->
 
 ## Setup
