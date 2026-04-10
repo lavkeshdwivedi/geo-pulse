@@ -38,5 +38,5 @@ so any edit here is immediately reflected in the next newsletter run — no code
 
 ## Output format
 
-Third person. 100 words maximum — end when the story is complete, not at an arbitrary cut.
+Third person. Between 80 and 100 words. Each item must be a real story paragraph, not a title rewrite.
 No headline. Only the summary paragraph.
