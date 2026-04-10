@@ -1,6 +1,10 @@
 name: GeoPulse Newsletter
 
 on:
+  # Run immediately when commits land on main (including merged PRs).
+  push:
+    branches:
+      - main
   schedule:
     # Runs every hour at :00 — change this to customise the frequency.
     # Example for every 6 hours:  "0 */6 * * *"
