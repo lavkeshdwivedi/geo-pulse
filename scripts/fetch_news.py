@@ -27,8 +27,25 @@ NEWSLETTER_JSON_PATH = os.path.join(ROOT, "newsletter.json")
 
 
 # ---------------------------------------------------------------------------
-# Retry helper
+# Helpers
 # ---------------------------------------------------------------------------
+
+def _safe_url(url: str) -> str:
+    """Return a log-safe version of *url* with sensitive query params redacted."""
+    from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+    try:
+        parsed = urlparse(url)
+        sensitive = {"apikey", "api_key", "key", "token", "access_token", "secret"}
+        qs = parse_qs(parsed.query, keep_blank_values=True)
+        redacted = {
+            k: (["[REDACTED]"] if k.lower() in sensitive else v)
+            for k, v in qs.items()
+        }
+        safe_query = urlencode(redacted, doseq=True)
+        return urlunparse(parsed._replace(query=safe_query))
+    except Exception:
+        return "<url>"
+
 
 def _get_with_retry(
     url: str,
@@ -41,16 +58,22 @@ def _get_with_retry(
 
     Raises :class:`requests.RequestException` if all retries are exhausted.
     """
-    last_exc: Exception = RuntimeError(f"All retries failed for {url}")
+    safe = _safe_url(url)
+    last_exc: Exception | None = None
+    last_resp = None
     for attempt in range(max_retries):
+        wait = backoff_base * (2 ** attempt)
+        is_last = attempt == max_retries - 1
         try:
             resp = requests.get(url, timeout=timeout, **kwargs)
             if resp.status_code == 429 or resp.status_code >= 500:
-                wait = backoff_base * (2 ** attempt)
+                last_resp = resp
+                if is_last:
+                    break
                 log.warning(
                     "HTTP %d for %s — retrying in %.0fs (attempt %d/%d)…",
                     resp.status_code,
-                    url,
+                    safe,
                     wait,
                     attempt + 1,
                     max_retries,
@@ -61,17 +84,25 @@ def _get_with_retry(
             return resp
         except requests.RequestException as exc:
             last_exc = exc
-            wait = backoff_base * (2 ** attempt)
+            if is_last:
+                break
             log.warning(
                 "Request error for %s: %s — retrying in %.0fs (attempt %d/%d)…",
-                url,
-                exc,
+                safe,
+                type(exc).__name__,
                 wait,
                 attempt + 1,
                 max_retries,
             )
             time.sleep(wait)
-    raise last_exc
+    if last_exc is not None:
+        raise last_exc
+    if last_resp is not None:
+        raise requests.HTTPError(
+            f"HTTP {last_resp.status_code} after {max_retries} attempts for {safe}",
+            response=last_resp,
+        )
+    raise requests.RequestException(f"All retries failed for {safe}")
 
 
 def _decode_entities(text: str) -> str:
@@ -429,7 +460,7 @@ def main() -> None:
     max_articles = cfg["max_articles"]
 
     # Threshold below which we activate additional fallback layers.
-    LOW_WATER_MARK = max(5, max_articles // 4)
+    low_water_mark = max(5, max_articles // 4)
 
     all_articles: list[dict] = []
 
@@ -465,13 +496,14 @@ def main() -> None:
         all_articles.extend(fetch_gnews_rss(gnews_queries, max_per_query=8))
 
     # ── Fallback A: fallback RSS feeds (activated when we have too few items) ─
-    if len(deduplicate(all_articles)) < LOW_WATER_MARK:
+    unique_so_far = deduplicate(all_articles)
+    if len(unique_so_far) < low_water_mark:
         fallback_feeds = cfg.get("fallback_rss_feeds", [])
         if fallback_feeds:
             log.warning(
-                "Only %d articles so far (threshold %d); pulling fallback RSS feeds…",
-                len(all_articles),
-                LOW_WATER_MARK,
+                "Only %d unique articles so far (threshold %d); pulling fallback RSS feeds…",
+                len(unique_so_far),
+                low_water_mark,
             )
             all_articles.extend(fetch_rss(fallback_feeds, max_per_feed=10))
 
