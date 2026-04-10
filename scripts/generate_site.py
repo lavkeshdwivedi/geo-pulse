@@ -11,8 +11,10 @@ import html
 import json
 import logging
 import os
+import re
 import shutil
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 import yaml
 
@@ -25,6 +27,7 @@ JSON_PATH    = os.path.join(ROOT, "newsletter.json")
 MD_PATH      = os.path.join(ROOT, "newsletter.md")
 SITE_DIR     = os.path.join(ROOT, "site")
 ARCHIVE_DIR  = os.path.join(ROOT, "newsletters")
+SITE_ARCHIVE_DIR = os.path.join(SITE_DIR, "newsletters")
 INDEX_PATH   = os.path.join(SITE_DIR, "index.html")
 FEED_PATH    = os.path.join(SITE_DIR, "feed.xml")
 
@@ -49,6 +52,7 @@ def load_config() -> dict:
 def archive_newsletter(cfg: dict) -> list[dict]:
     """Copy newsletter.md into newsletters/ and prune old editions."""
     os.makedirs(ARCHIVE_DIR, exist_ok=True)
+    os.makedirs(SITE_ARCHIVE_DIR, exist_ok=True)
     if not os.path.exists(MD_PATH):
         return []
 
@@ -79,7 +83,27 @@ def archive_newsletter(cfg: dict) -> list[dict]:
             pass
 
     archives.sort(key=lambda x: x["filename"], reverse=True)
-    return archives
+
+    # Publish archive files under site/newsletters so links never point
+    # to files outside the deployed Pages artifact.
+    for old in glob.glob(os.path.join(SITE_ARCHIVE_DIR, "????-??-??-??.md")):
+        try:
+            os.remove(old)
+        except OSError:
+            pass
+
+    published_archives: list[dict] = []
+    for a in archives:
+        src = os.path.join(ARCHIVE_DIR, a["filename"])
+        dst = os.path.join(SITE_ARCHIVE_DIR, a["filename"])
+        try:
+            shutil.copy2(src, dst)
+            if os.path.exists(dst):
+                published_archives.append(a)
+        except OSError as exc:
+            log.warning("Failed to publish archive %s: %s", a["filename"], exc)
+
+    return published_archives
 
 
 # ── Time helper ───────────────────────────────────────────────────────────────
@@ -106,15 +130,41 @@ def time_ago(iso: str) -> str:
 
 # ── Card HTML ─────────────────────────────────────────────────────────────────
 
+def _upgrade_image_url(url: str) -> str:
+    """Upgrade known low-res thumbnails to higher-resolution variants."""
+    if not url:
+        return url
+    # BBC ichef: bump the size segment (e.g. /240/ → /624/)
+    url = re.sub(r'(ichef\.bbci\.co\.uk/ace/[^/]+/)(\d+)/', r'\g<1>624/', url)
+    return url
+
+
+def _safe_external_url(url: str) -> str:
+    """Allow only absolute http(s) URLs for externally linked content."""
+    if not url:
+        return ""
+    candidate = str(url).strip()
+    try:
+        parsed = urlparse(candidate)
+    except Exception:
+        return ""
+    if parsed.scheme.lower() not in {"http", "https"}:
+        return ""
+    if not parsed.netloc:
+        return ""
+    return candidate
+
+
 def render_card(art: dict) -> str:
     title     = html.escape(art.get("title", ""))
     summary   = html.escape(art.get("summary", ""))
-    url       = html.escape(art.get("url", "#"))
+    safe_url_raw = _safe_external_url(art.get("url", ""))
+    url          = html.escape(safe_url_raw or "#")
     region    = html.escape(art.get("region", "World"))
     genre     = html.escape(art.get("genre", "Geopolitics"))
     pub       = art.get("published_at", "")
     ago       = time_ago(pub)
-    image_url = art.get("image_url", "")
+    image_url = _safe_external_url(_upgrade_image_url(art.get("image_url", "")))
 
     img_html = ""
     if image_url:
@@ -124,12 +174,12 @@ def render_card(art: dict) -> str:
     # Build source chips — use the merged sources list when available and
     # non-empty, otherwise fall back to the single url/source on the article.
     _sources = art.get("sources")
-    raw_sources: list[dict] = _sources if _sources else [{"url": art.get("url", "#"), "source": art.get("source", "")}]
+    raw_sources: list[dict] = _sources if _sources else [{"url": art.get("url", ""), "source": art.get("source", "")}]
     source_chips = "".join(
-        f'<a class="card-source-chip" href="{html.escape(s["url"])}" '
+      f'<a class="card-source-chip" href="{html.escape(_safe_external_url(s["url"]))}" '
         f'target="_blank" rel="noopener noreferrer">{html.escape(s["source"])}</a>'
         for s in raw_sources
-        if s.get("url") and s.get("source")
+      if _safe_external_url(s.get("url", "")) and s.get("source")
     )
     sources_html = f'<div class="card-sources">{source_chips}</div>' if source_chips else ""
 
@@ -152,8 +202,8 @@ def render_card(art: dict) -> str:
 
 
 def render_archive_list(archives: list[dict]) -> str:
-    if not archives:
-        return '<li class="archive-empty">No previous editions</li>'
+  if not archives:
+    return ""
     items = "\n".join(
         f'<li><a href="{SITE_URL}/newsletters/{a["filename"]}">{a["label"]}</a></li>'
         for a in archives[:30]
@@ -173,6 +223,15 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
     cards_html    = "\n".join(render_card(a) for a in articles) if articles else \
                     '<p class="empty-state">No stories in this edition yet.</p>'
     archive_items = render_archive_list(archives)
+    archive_section = ""
+    if archive_items:
+        archive_section = f"""
+      <section class="sidebar-section">
+        <h2 class="sidebar-heading">📚 Past Editions</h2>
+        <ul class="archive-list">
+          {archive_items}
+        </ul>
+      </section>"""
     count         = len(articles)
 
     # Build region filter tabs
@@ -193,6 +252,8 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
   <meta property="og:description" content="{SITE_DESC}" />
   <meta property="og:url" content="{SITE_URL}" />
   <meta name="twitter:card" content="summary" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests" />
   <link rel="canonical" href="{SITE_URL}" />
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <link rel="alternate icon" type="image/svg+xml" href="favicon.svg" />
@@ -204,6 +265,7 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400&family=JetBrains+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="alternate" type="application/rss+xml" title="GeoPulse RSS" href="{SITE_URL}/feed.xml" />
+  <script>(function(){{var t=localStorage.getItem('gp-theme');if(t)document.documentElement.dataset.theme=t;var a=localStorage.getItem('gp-accent');if(a)document.documentElement.dataset.accent=a;}})();</script>
 </head>
 <body>
 
@@ -215,7 +277,14 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
         <span class="brand-name">GeoPulse</span>
       </a>
       <div class="header-right">
-        <span class="update-badge">Updated {date_str}</span>
+        <div class="header-time-group">
+          <span class="update-badge" title="Last generated (UTC)">Updated {date_str}</span>
+          <span class="local-clock" id="local-clock">
+            <svg class="clock-icon" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            <span id="local-time">--:--:--</span>
+            <span id="local-tz" class="local-tz"></span>
+          </span>
+        </div>
         <a class="rss-btn" href="{SITE_URL}/feed.xml" title="RSS feed" aria-label="RSS">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
             <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20
@@ -224,6 +293,26 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
                      0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 13.37V10.1z"/>
           </svg>
         </a>
+        <div class="accent-picker" id="accent-picker">
+          <button class="accent-picker-btn" id="accent-btn" aria-label="Choose accent colour" aria-haspopup="true" aria-expanded="false">
+            <span class="accent-dot" id="accent-dot"></span>
+          </button>
+          <div class="accent-menu" id="accent-menu" hidden role="listbox" aria-label="Accent colour">
+            <button role="option" data-accent=""         style="background:#e63946" title="Crimson (default)" aria-selected="true"></button>
+            <button role="option" data-accent="azure"    style="background:#0078d4" title="Azure"></button>
+            <button role="option" data-accent="ocean"    style="background:#0ea5e9" title="Ocean"></button>
+            <button role="option" data-accent="emerald"  style="background:#10b981" title="Emerald"></button>
+            <button role="option" data-accent="mint"     style="background:#2dd4bf" title="Mint"></button>
+            <button role="option" data-accent="ember"    style="background:#e07020" title="Ember"></button>
+            <button role="option" data-accent="sunset"   style="background:#fb923c" title="Sunset"></button>
+            <button role="option" data-accent="gold"     style="background:#d4a017" title="Gold"></button>
+            <button role="option" data-accent="violet"   style="background:#a855f7" title="Violet"></button>
+            <button role="option" data-accent="lavender" style="background:#c084fc" title="Lavender"></button>
+            <button role="option" data-accent="rose"     style="background:#f472b6" title="Rose"></button>
+            <button role="option" data-accent="storm"    style="background:#6366f1" title="Storm"></button>
+            <button role="option" data-accent="slate"    style="background:#64748b" title="Slate"></button>
+          </div>
+        </div>
         <button id="theme-btn" class="theme-btn" aria-label="Toggle theme">
           <span class="light-icon">☀️</span><span class="dark-icon">🌙</span>
         </button>
@@ -249,12 +338,7 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
 
     <!-- Sidebar -->
     <aside class="sidebar">
-      <section class="sidebar-section">
-        <h2 class="sidebar-heading">📚 Past Editions</h2>
-        <ul class="archive-list">
-          {archive_items}
-        </ul>
-      </section>
+      {archive_section}
       <section class="sidebar-section about-section">
         <h2 class="sidebar-heading">About GeoPulse</h2>
         <p>GeoPulse is my editorial desk for global affairs: concise, verified, and signal-first coverage for people who need context, not noise.</p>
@@ -314,6 +398,58 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
       localStorage.setItem('gp-theme', next);
     }});
 
+    // ── Local clock ──────────────────────────────────────────────
+    (function() {{
+      const timeEl = document.getElementById('local-time');
+      const tzEl   = document.getElementById('local-tz');
+      function tick() {{
+        const now = new Date();
+        if (timeEl) timeEl.textContent = now.toLocaleTimeString([], {{ hour: '2-digit', minute: '2-digit', second: '2-digit' }});
+        if (tzEl && !tzEl.textContent) {{
+          try {{
+            const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+            tzEl.textContent = tz.split('/').pop().replace(/_/g, '\u00a0');
+          }} catch (_) {{}}
+        }}
+      }}
+      tick();
+      setInterval(tick, 1000);
+    }})();
+
+    // ── Accent picker ─────────────────────────────────────────────
+    const accentBtn  = document.getElementById('accent-btn');
+    const accentMenu = document.getElementById('accent-menu');
+    if (accentBtn && accentMenu) {{
+      const savedAccent = localStorage.getItem('gp-accent') || '';
+      if (savedAccent) html.dataset.accent = savedAccent;
+      accentMenu.querySelectorAll('[role=option]').forEach(b => {{
+        b.setAttribute('aria-selected', (b.dataset.accent || '') === savedAccent ? 'true' : 'false');
+      }});
+      const closeMenu = () => {{
+        accentMenu.hidden = true;
+        accentBtn.setAttribute('aria-expanded', 'false');
+      }};
+      accentBtn.addEventListener('click', e => {{
+        e.stopPropagation();
+        const isOpen = !accentMenu.hidden;
+        accentMenu.hidden = isOpen;
+        accentBtn.setAttribute('aria-expanded', String(!isOpen));
+      }});
+      accentMenu.querySelectorAll('[role=option]').forEach(b => {{
+        b.addEventListener('click', () => {{
+          const v = b.dataset.accent || '';
+          if (v) {{ html.dataset.accent = v; }} else {{ delete html.dataset.accent; }}
+          localStorage.setItem('gp-accent', v);
+          accentMenu.querySelectorAll('[role=option]').forEach(x => x.setAttribute('aria-selected', 'false'));
+          b.setAttribute('aria-selected', 'true');
+          closeMenu();
+        }});
+      }});
+      document.addEventListener('click', e => {{
+        if (!accentBtn.contains(e.target) && !accentMenu.contains(e.target)) closeMenu();
+      }});
+    }}
+
     // ── Region filter ────────────────────────────────────────────
     const tabs  = document.querySelectorAll('.filter-tab');
     const feed  = document.getElementById('card-feed');
@@ -334,10 +470,40 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
     document.querySelectorAll('.card[data-url]').forEach(card => {{
       card.addEventListener('click', e => {{
         if (!e.target.closest('a')) {{
-          window.open(card.dataset.url, '_blank', 'noopener,noreferrer');
+          const targetUrl = card.dataset.url || '';
+          try {{
+            const parsed = new URL(targetUrl);
+            if (parsed.protocol !== 'http:' && parsed.protocol !== 'https:') return;
+          }} catch (_) {{
+            return;
+          }}
+          window.open(targetUrl, '_blank', 'noopener,noreferrer');
         }}
       }});
     }});
+
+    // ── Hide broken archive links/section ────────────────────────
+    (function() {{
+      const anchors = Array.from(document.querySelectorAll('.archive-list a'));
+      if (!anchors.length) return;
+      const checks = anchors.map(async a => {{
+        const li = a.closest('li');
+        try {{
+          const res = await fetch(a.href, {{ method: 'HEAD', cache: 'no-store' }});
+          if (!res.ok && li) li.remove();
+        }} catch (_) {{
+          if (li) li.remove();
+        }}
+      }});
+      Promise.all(checks).then(() => {{
+        document.querySelectorAll('.archive-list').forEach(list => {{
+          if (!list.querySelector('li')) {{
+            const section = list.closest('.sidebar-section');
+            if (section) section.remove();
+          }}
+        }});
+      }});
+    }})();
   </script>
 
 </body>
@@ -400,6 +566,9 @@ def main() -> None:
 
     articles     = data.get("articles", [])
     generated_at = data.get("generated_at", datetime.now(timezone.utc).isoformat())
+
+    # Sort newest-first so the latest stories always appear at the top.
+    articles.sort(key=lambda a: a.get("published_at", ""), reverse=True)
 
     archives = archive_newsletter(cfg)
 
