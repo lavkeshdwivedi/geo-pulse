@@ -111,8 +111,22 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore(newsletter): automated update $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            # Create a branch and push it
+            BRANCH_NAME="chore/newsletter-auto-update-$(date +%s)"
+            git checkout -b "$BRANCH_NAME"
+            git push origin "$BRANCH_NAME"
+            
+            # Create a pull request
+            gh pr create \
+              --base main \
+              --head "$BRANCH_NAME" \
+              --title "chore: automated newsletter update" \
+              --body "Automated newsletter and site update from workflow" \
+              --assignee "" \
+              || echo "PR creation failed or already exists"
           fi
+        env:
+          GH_TOKEN: ${{ github.token }}
 
       # ── 8. Deploy site/ to GitHub Pages ──────────────────────────────────
       - name: Upload Pages artifact
