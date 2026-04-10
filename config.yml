@@ -44,6 +44,68 @@ rss_feeds:
     source: "Reuters World"
   - url: "https://www.theguardian.com/world/rss"
     source: "The Guardian World"
+  - url: "https://feeds.apnews.com/rss/apf-topnews"
+    source: "AP Top News"
+  - url: "https://feeds.npr.org/1004/rss.xml"
+    source: "NPR World"
+  - url: "https://www.voanews.com/api/ztreqmegiivovm"
+    source: "VOA News"
+  - url: "https://www.dw.com/en/top-stories/s-9097?maca=en-rss-en-top-1022-rdf"
+    source: "DW Top Stories"
+  - url: "https://rss.politico.com/politics-news.xml"
+    source: "Politico"
+  - url: "https://thediplomat.com/feed/"
+    source: "The Diplomat"
+  - url: "https://foreignpolicy.com/feed/"
+    source: "Foreign Policy"
+  - url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml"
+    source: "UN News"
+
+# Fallback RSS feeds — used when primary sources yield too few articles.
+# These are pulled automatically if the combined article count is below a
+# minimum threshold; they are not fetched on every run.
+fallback_rss_feeds:
+  - url: "https://www.france24.com/en/rss"
+    source: "France 24"
+  - url: "https://rss.cnn.com/rss/edition_world.rss"
+    source: "CNN World"
+  - url: "https://www.cbsnews.com/latest/rss/world"
+    source: "CBS News World"
+  - url: "https://feeds.nbcnews.com/nbcnews/public/world"
+    source: "NBC News World"
+  - url: "https://time.com/section/world/feed/"
+    source: "TIME World"
+  - url: "https://www.newsweek.com/rss"
+    source: "Newsweek"
+  - url: "https://www.cfr.org/rss/latest.xml"
+    source: "Council on Foreign Relations"
+  - url: "https://www.scmp.com/rss/91/feed"
+    source: "South China Morning Post"
+  - url: "https://www.thehindu.com/feeder/default.rss"
+    source: "The Hindu"
+  - url: "https://rss.dw.com/xml/rss-en-world"
+    source: "DW World"
+  - url: "https://www.euronews.com/rss?format=mrss&level=theme&name=news"
+    source: "Euronews"
+  - url: "https://feeds.skynews.com/feeds/rss/world.xml"
+    source: "Sky News World"
+  - url: "https://abcnews.go.com/abcnews/internationalheadlines"
+    source: "ABC News International"
+  - url: "https://feeds.feedburner.com/ndtvnews-world-news"
+    source: "NDTV World"
+  - url: "https://www.aljazeera.com/xml/rss/all.xml"
+    source: "Al Jazeera (backup)"
+
+# Google News RSS queries — fetched on every run via the free Google News RSS
+# endpoint (no API key required).  Keep queries short and focused.
+gnews_rss_queries:
+  - "geopolitics"
+  - "international relations"
+  - "diplomacy sanctions"
+  - "NATO conflict"
+  - "United Nations"
+  - "war ceasefire"
+  - "global security"
 
 # Optional audience hooks to broaden discovery via additional sources.
 # These are kept low-volume by default and still fully attributed.
