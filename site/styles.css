@@ -353,20 +353,12 @@ img { display: block; max-width: 100%; }
   font-weight: 700;
   line-height: 1.35;
   color:       var(--text);
-  display:     -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow:    hidden;
 }
 
 .card-summary {
   font-size:   .875rem;
   color:       var(--text-sub);
   line-height: 1.55;
-  display:     -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow:    hidden;
   flex:        1;
 }
 
