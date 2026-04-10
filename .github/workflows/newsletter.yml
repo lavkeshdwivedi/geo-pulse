@@ -105,6 +105,12 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          add-paths: |
+            newsletter.md
+            newsletter.json
+            newsletters/
+            site/
+            README.md
           commit-message: "chore(newsletter): automated update ${{ github.run_id }}"
           committer: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
