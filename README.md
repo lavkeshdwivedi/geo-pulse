@@ -21,6 +21,17 @@ GeoPulse is an automated geopolitics newsletter delivering curated global affair
 
 **[pulse.lavkesh.com](https://pulse.lavkesh.com)**
 
+<!-- README-AUTO-STATUS:START -->
+## Project Status (auto-updated)
+
+- Last newsletter build: 2026-04-10 16:01 UTC
+- Articles in latest edition: 20
+- Latest archive file: 2026-04-10-16.md
+- Total archived editions: 1
+- Configured schedule (cron): `0 * * * *`
+- README status last synced: 2026-04-10 16:17 UTC
+<!-- README-AUTO-STATUS:END -->
+
 ## Setup
 
 ### 1. Enable GitHub Pages
@@ -67,7 +78,8 @@ geo-pulse/
 ├── scripts/
 │   ├── fetch_news.py                  # News fetching (GDELT + RSS + NewsAPI)
 │   ├── summarize.py                   # LLM summarization with graceful fallback
-│   └── generate_site.py              # Static site + RSS feed generator
+│   ├── generate_site.py               # Static site + RSS feed generator
+│   └── update_readme.py               # Auto-sync README status block
 ├── site/
 │   ├── index.html                     # GitHub Pages dashboard (auto-generated)
 │   ├── styles.css                     # Responsive CSS with dark/light mode
@@ -85,6 +97,7 @@ pip install -r requirements.txt
 python scripts/fetch_news.py     # → raw_news.json
 python scripts/summarize.py      # → newsletter.md
 python scripts/generate_site.py  # → site/index.html + site/feed.xml
+python scripts/update_readme.py   # → refresh auto-managed README status
 ```
 
 Open `site/index.html` in your browser to preview the dashboard.
