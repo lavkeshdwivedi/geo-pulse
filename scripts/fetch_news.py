@@ -26,6 +26,85 @@ OUTPUT_PATH = os.path.join(ROOT, "raw_news.json")
 NEWSLETTER_JSON_PATH = os.path.join(ROOT, "newsletter.json")
 
 
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+def _safe_url(url: str) -> str:
+    """Return a log-safe version of *url* with sensitive query params redacted."""
+    from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+    try:
+        parsed = urlparse(url)
+        sensitive = {"apikey", "api_key", "key", "token", "access_token", "secret"}
+        qs = parse_qs(parsed.query, keep_blank_values=True)
+        redacted = {
+            k: (["[REDACTED]"] if k.lower() in sensitive else v)
+            for k, v in qs.items()
+        }
+        safe_query = urlencode(redacted, doseq=True)
+        return urlunparse(parsed._replace(query=safe_query))
+    except Exception:
+        return "<url>"
+
+
+def _get_with_retry(
+    url: str,
+    timeout: int = 20,
+    max_retries: int = 4,
+    backoff_base: float = 2.0,
+    **kwargs,
+) -> requests.Response:
+    """GET *url* with exponential backoff on HTTP 429 / 5xx responses.
+
+    Raises :class:`requests.RequestException` if all retries are exhausted.
+    """
+    safe = _safe_url(url)
+    last_exc: Exception | None = None
+    last_resp = None
+    for attempt in range(max_retries):
+        wait = backoff_base * (2 ** attempt)
+        is_last = attempt == max_retries - 1
+        try:
+            resp = requests.get(url, timeout=timeout, **kwargs)
+            if resp.status_code == 429 or resp.status_code >= 500:
+                last_resp = resp
+                if is_last:
+                    break
+                log.warning(
+                    "HTTP %d for %s — retrying in %.0fs (attempt %d/%d)…",
+                    resp.status_code,
+                    safe,
+                    wait,
+                    attempt + 1,
+                    max_retries,
+                )
+                time.sleep(wait)
+                continue
+            resp.raise_for_status()
+            return resp
+        except requests.RequestException as exc:
+            last_exc = exc
+            if is_last:
+                break
+            log.warning(
+                "Request error for %s: %s — retrying in %.0fs (attempt %d/%d)…",
+                safe,
+                type(exc).__name__,
+                wait,
+                attempt + 1,
+                max_retries,
+            )
+            time.sleep(wait)
+    if last_exc is not None:
+        raise last_exc
+    if last_resp is not None:
+        raise requests.HTTPError(
+            f"HTTP {last_resp.status_code} after {max_retries} attempts for {safe}",
+            response=last_resp,
+        )
+    raise requests.RequestException(f"All retries failed for {safe}")
+
+
 def _decode_entities(text: str) -> str:
     """Decode HTML entities, including double-encoded sequences."""
     if not text:
@@ -101,44 +180,84 @@ def build_audience_hook_feeds(cfg: dict) -> list[dict]:
     return hooks
 
 
-def fetch_gdelt(query: str, max_articles: int, hours_back: int = 24) -> list[dict]:
-    """Fetch from GDELT GKG API — no key required."""
-    log.info("Fetching from GDELT...")
+def _gdelt_artlist(query: str, max_records: int, timespan_hours: int) -> list[dict]:
+    """Inner helper: call GDELT v2 artlist and return parsed article dicts."""
+    params = {
+        "query": query,
+        "mode": "artlist",
+        "maxrecords": min(max_records, 75),
+        "format": "json",
+        "timespan": f"{timespan_hours}H",
+    }
+    url = f"https://api.gdeltproject.org/api/v2/doc/doc?{urlencode(params)}"
+    resp = _get_with_retry(url, timeout=25)
+    data = resp.json()
     articles = []
-    try:
-        params = {
-            "query": query,
-            "mode": "artlist",
-            "maxrecords": min(max_articles, 75),
-            "format": "json",
-            "timespan": f"{hours_back}H",
-        }
-        url = f"https://api.gdeltproject.org/api/v2/doc/doc?{urlencode(params)}"
-        resp = requests.get(url, timeout=20)
-        resp.raise_for_status()
-        data = resp.json()
-        for art in data.get("articles", []):
-            pub = art.get("seendate", "")
-            # GDELT date format: YYYYMMDDTHHMMSSZ
-            try:
-                dt = datetime.strptime(pub, "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
-                published_at = dt.isoformat()
-            except ValueError:
-                published_at = pub
-            articles.append(
-                {
-                    "title": _decode_entities(art.get("title", "")),
-                    "url": art.get("url", ""),
-                    "source": _decode_entities(art.get("domain", "GDELT")),
-                    "published_at": published_at,
-                    "description": _decode_entities(art.get("title", "")),
-                    "image_url": art.get("socialimage", ""),
-                }
-            )
-        log.info("GDELT returned %d articles.", len(articles))
-    except Exception as exc:
-        log.warning("GDELT fetch failed: %s", exc)
+    for art in data.get("articles", []):
+        pub = art.get("seendate", "")
+        try:
+            dt = datetime.strptime(pub, "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
+            published_at = dt.isoformat()
+        except ValueError:
+            published_at = pub
+        articles.append(
+            {
+                "title": _decode_entities(art.get("title", "")),
+                "url": art.get("url", ""),
+                "source": _decode_entities(art.get("domain", "GDELT")),
+                "published_at": published_at,
+                "description": _decode_entities(art.get("title", "")),
+                "image_url": art.get("socialimage", ""),
+            }
+        )
     return articles
+
+
+def fetch_gdelt(query: str, max_articles: int, hours_back: int = 24) -> list[dict]:
+    """Fetch from GDELT GKG v2 API — no key required.
+
+    Falls back to a simplified query and/or a shorter look-back window if the
+    primary call is rate-limited or returns nothing.
+    """
+    log.info("Fetching from GDELT (last %dh)…", hours_back)
+
+    # Primary attempt — full query, full look-back.
+    try:
+        articles = _gdelt_artlist(query, max_articles, hours_back)
+        if articles:
+            log.info("GDELT returned %d articles.", len(articles))
+            return articles
+        log.warning("GDELT returned 0 articles; trying shorter look-back.")
+    except Exception as exc:
+        log.warning("GDELT primary fetch failed: %s", exc)
+
+    # Fallback 1 — shorter look-back window (6 h).
+    try:
+        time.sleep(3)
+        articles = _gdelt_artlist(query, max_articles, min(hours_back, 6))
+        if articles:
+            log.info("GDELT (6h fallback) returned %d articles.", len(articles))
+            return articles
+        log.warning("GDELT 6h fallback returned 0 articles; trying simplified query.")
+    except Exception as exc:
+        log.warning("GDELT 6h fallback failed: %s", exc)
+
+    # Fallback 2 — simplified single-keyword query, 24 h.
+    # Split on " OR " (the separator used in config.yml's news_query) to get
+    # the first keyword; if the query doesn't contain " OR ", this returns the
+    # full query string unchanged — both cases are valid.
+    simple_query = query.split(" OR ")[0].strip() or query
+    try:
+        time.sleep(3)
+        articles = _gdelt_artlist(simple_query, max_articles, hours_back)
+        if articles:
+            log.info("GDELT (simplified query) returned %d articles.", len(articles))
+            return articles
+    except Exception as exc:
+        log.warning("GDELT simplified-query fallback failed: %s", exc)
+
+    log.warning("All GDELT attempts returned 0 articles.")
+    return []
 
 
 def _extract_image_url(entry) -> str:
@@ -165,14 +284,19 @@ def _extract_image_url(entry) -> str:
 
 
 def fetch_rss(feeds: list[dict], max_per_feed: int = 10) -> list[dict]:
-    """Fetch from a list of RSS feed URLs."""
+    """Fetch from a list of RSS feed URLs.
+
+    Uses :func:`_get_with_retry` to download each feed so that transient 429
+    or 5xx responses are retried with exponential back-off before giving up.
+    """
     log.info("Fetching from %d RSS feeds...", len(feeds))
     articles = []
     for feed_cfg in feeds:
         url = feed_cfg["url"]
         source = _decode_entities(feed_cfg.get("source", url))
         try:
-            parsed = feedparser.parse(url)
+            resp = _get_with_retry(url, timeout=15)
+            parsed = feedparser.parse(resp.content)
             count = 0
             for entry in parsed.entries:
                 if count >= max_per_feed:
@@ -226,8 +350,7 @@ def fetch_newsapi(query: str, api_key: str, max_articles: int) -> list[dict]:
             "language": "en",
         }
         url = f"https://newsapi.org/v2/everything?{urlencode(params)}"
-        resp = requests.get(url, timeout=20)
-        resp.raise_for_status()
+        resp = _get_with_retry(url, timeout=20)
         data = resp.json()
         for art in data.get("articles", []):
             if art.get("title") == "[Removed]":
@@ -246,6 +369,25 @@ def fetch_newsapi(query: str, api_key: str, max_articles: int) -> list[dict]:
     except Exception as exc:
         log.warning("NewsAPI fetch failed: %s", exc)
     return articles
+
+
+def fetch_gnews_rss(queries: list[str], max_per_query: int = 8) -> list[dict]:
+    """Fetch from Google News RSS for a list of search queries.
+
+    Google News RSS is free, requires no API key, and serves fresh results.
+    Each query is turned into a feed URL via :func:`build_google_news_rss_url`.
+    """
+    if not queries:
+        return []
+    feeds = [
+        {
+            "url": build_google_news_rss_url(q, hl="en-US", gl="US", ceid="US:en"),
+            "source": f"Google News ({q[:40]})",
+        }
+        for q in queries
+    ]
+    log.info("Fetching Google News RSS for %d queries…", len(queries))
+    return fetch_rss(feeds, max_per_feed=max_per_query)
 
 
 def deduplicate(articles: list[dict]) -> list[dict]:
@@ -320,16 +462,22 @@ def main() -> None:
     query = cfg["news_query"]
     max_articles = cfg["max_articles"]
 
+    # Threshold below which we activate additional fallback layers.
+    low_water_mark = max(5, max_articles // 4)
+
     all_articles: list[dict] = []
 
+    # ── Layer 1: GDELT ────────────────────────────────────────────────────────
     if "gdelt" in sources:
         all_articles.extend(fetch_gdelt(query, max_articles))
         time.sleep(1)  # be polite
 
+    # ── Layer 2: Primary RSS feeds ────────────────────────────────────────────
     if "rss" in sources:
         rss_feeds = cfg.get("rss_feeds", [])
         all_articles.extend(fetch_rss(rss_feeds, max_per_feed=10))
 
+    # ── Layer 3: NewsAPI (optional, key required) ─────────────────────────────
     if "newsapi" in sources:
         api_key = os.environ.get("NEWSAPI_KEY", "")
         if api_key:
@@ -337,6 +485,7 @@ def main() -> None:
         else:
             log.warning("newsapi source enabled but NEWSAPI_KEY not set — skipping.")
 
+    # ── Layer 4: Audience hooks ───────────────────────────────────────────────
     if cfg.get("audience_hooks_enabled", True):
         hook_feeds = build_audience_hook_feeds(cfg)
         hook_cap = int(cfg.get("audience_hooks_max_per_feed", 3))
@@ -344,15 +493,33 @@ def main() -> None:
             log.info("Fetching audience hooks from %d feeds...", len(hook_feeds))
             all_articles.extend(fetch_rss(hook_feeds, max_per_feed=hook_cap))
 
-    # Fallback: if nothing was fetched, retry RSS only
+    # ── Layer 5: Google News RSS (always active; free, no key required) ───────
+    gnews_queries = cfg.get("gnews_rss_queries", [])
+    if gnews_queries:
+        all_articles.extend(fetch_gnews_rss(gnews_queries, max_per_query=8))
+
+    # ── Fallback A: fallback RSS feeds (activated when we have too few items) ─
+    unique_so_far = deduplicate(all_articles)
+    if len(unique_so_far) < low_water_mark:
+        fallback_feeds = cfg.get("fallback_rss_feeds", [])
+        if fallback_feeds:
+            log.warning(
+                "Only %d unique articles so far (threshold %d); pulling fallback RSS feeds…",
+                len(unique_so_far),
+                low_water_mark,
+            )
+            all_articles.extend(fetch_rss(fallback_feeds, max_per_feed=10))
+
+    # ── Fallback B: retry primary RSS with a higher per-feed cap ─────────────
     if not all_articles:
-        log.warning("No articles fetched from primary sources; retrying RSS fallback...")
+        log.warning("No articles fetched from any source; retrying primary RSS with higher cap…")
         rss_feeds = cfg.get("rss_feeds", [])
-        all_articles.extend(fetch_rss(rss_feeds, max_per_feed=15))
+        all_articles.extend(fetch_rss(rss_feeds, max_per_feed=20))
 
     unique = deduplicate(all_articles)
     unique = unique[:max_articles]
 
+    # ── Fallback C: re-use previous newsletter articles ───────────────────────
     if not unique:
         log.warning("No unique articles available; falling back to previous newsletter stories.")
         unique = load_previous_articles(max_articles)
