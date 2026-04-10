@@ -121,6 +121,17 @@ def render_card(art: dict) -> str:
         safe_img = html.escape(image_url)
         img_html = f'<img class="card-img" src="{safe_img}" alt="" loading="lazy" onerror="this.parentElement.style.display=\'none\'">'
 
+    # Build source chips — use the merged sources list when available,
+    # otherwise fall back to the single url/source on the article.
+    raw_sources: list[dict] = art.get("sources") or [{"url": art.get("url", "#"), "source": art.get("source", "")}]
+    source_chips = "".join(
+        f'<a class="card-source-chip" href="{html.escape(s["url"])}" '
+        f'target="_blank" rel="noopener noreferrer">{html.escape(s["source"])}</a>'
+        for s in raw_sources
+        if s.get("url") and s.get("source")
+    )
+    sources_html = f'<div class="card-sources">{source_chips}</div>' if source_chips else ""
+
     return f"""
   <article class="card" data-region="{region}" data-url="{url}">
     {f'<div class="card-img-wrap">{img_html}</div>' if image_url else ''}
@@ -131,12 +142,7 @@ def render_card(art: dict) -> str:
       </div>
       <h2 class="card-title">{title}</h2>
       <p class="card-summary">{summary}</p>
-      <div class="card-footer">
-        <a class="card-source" href="{url}" target="_blank" rel="noopener noreferrer">{source}</a>
-        <a class="card-read-more" href="{url}" target="_blank" rel="noopener noreferrer">
-          Read full story →
-        </a>
-      </div>
+      {sources_html}
     </div>
   </article>"""
 

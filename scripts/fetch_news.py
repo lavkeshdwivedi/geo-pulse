@@ -185,20 +185,31 @@ def fetch_newsapi(query: str, api_key: str, max_articles: int) -> list[dict]:
 
 
 def deduplicate(articles: list[dict]) -> list[dict]:
-    """Remove duplicate articles by URL and near-duplicate titles."""
+    """Deduplicate by URL and near-duplicate titles.
+
+    Instead of discarding articles with the same title, their (url, source)
+    pairs are merged into the primary article's ``sources`` list so the card
+    can offer readers multiple outlets covering the same story.
+    """
     seen_urls: set[str] = set()
-    seen_titles: set[str] = set()
-    unique = []
+    title_to_idx: dict[str, int] = {}
+    unique: list[dict] = []
     for art in articles:
         url = art["url"].rstrip("/")
         title_key = art["title"].lower()[:60]
-        if url in seen_urls or title_key in seen_titles:
-            continue
         if not art["title"] or not art["url"]:
             continue
+        if url in seen_urls:
+            continue
         seen_urls.add(url)
-        seen_titles.add(title_key)
-        unique.append(art)
+        if title_key in title_to_idx:
+            # Merge this source into the already-kept article
+            primary = unique[title_to_idx[title_key]]
+            primary.setdefault("sources", [{"url": primary["url"], "source": primary["source"]}])
+            primary["sources"].append({"url": url, "source": art["source"]})
+        else:
+            title_to_idx[title_key] = len(unique)
+            unique.append(art)
     return unique
 
 

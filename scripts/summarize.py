@@ -312,6 +312,7 @@ def main() -> None:
             "title":        art.get("title", ""),
             "url":          art.get("url", ""),
             "source":       art.get("source", ""),
+            "sources":      art.get("sources", []),
             "published_at": art.get("published_at", ""),
             "image_url":    art.get("image_url", ""),
             "summary":      summary,

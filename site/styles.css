@@ -249,18 +249,7 @@ img { display: block; max-width: 100%; }
 .card:hover { box-shadow: var(--shadow-md); }
 .card[data-url] { cursor: pointer; }
 
-.card-source {
-  font-size:   .75rem;
-  font-weight: 600;
-  color:       var(--text-muted);
-  white-space: nowrap;
-  overflow:    hidden;
-  text-overflow: ellipsis;
-  max-width:   55%;
-  text-decoration: none;
-}
-.card-source:hover { color: var(--accent); text-decoration: underline; } */
-.card-img-wrap {
+/* Image on the right (Inshorts style)
   flex-shrink:  0;
   width:        160px;
   order:        2;           /* image always on the right */
@@ -335,25 +324,33 @@ img { display: block; max-width: 100%; }
   flex:        1;
 }
 
-.card-footer {
-  display:         flex;
-  align-items:     center;
-  justify-content: space-between;
-  gap:             8px;
-  margin-top:      4px;
-  padding-top:     8px;
-  border-top:      1px solid var(--border);
+/* ── Source chips ───────────────────────────────────────────────────────── */
+.card-sources {
+  display:    flex;
+  flex-wrap:  wrap;
+  gap:        6px;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
 }
 
-.card-read-more {
-  font-size:   .78rem;
-  font-weight: 700;
-  color:       var(--accent);
-  white-space: nowrap;
-  flex-shrink: 0;
-  transition:  color .15s;
+.card-source-chip {
+  font-size:      .7rem;
+  font-weight:    600;
+  color:          var(--text-muted);
+  background:     var(--bg);
+  border:         1px solid var(--border);
+  border-radius:  20px;
+  padding:        2px 8px;
+  white-space:    nowrap;
+  text-decoration: none;
+  transition:     color .15s, border-color .15s;
 }
-.card-read-more:hover { color: var(--accent-dark); text-decoration: none; }
+.card-source-chip:hover {
+  color:         var(--accent);
+  border-color:  var(--accent);
+  text-decoration: none;
+}
 
 /* ── Sidebar ────────────────────────────────────────────────────────────── */
 .sidebar {
