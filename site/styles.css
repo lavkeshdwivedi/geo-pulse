@@ -247,8 +247,19 @@ img { display: block; max-width: 100%; }
   min-height:    120px;
 }
 .card:hover { box-shadow: var(--shadow-md); }
+.card[data-url] { cursor: pointer; }
 
-/* Image on the right (Inshorts style) */
+.card-source {
+  font-size:   .75rem;
+  font-weight: 600;
+  color:       var(--text-muted);
+  white-space: nowrap;
+  overflow:    hidden;
+  text-overflow: ellipsis;
+  max-width:   55%;
+  text-decoration: none;
+}
+.card-source:hover { color: var(--accent); text-decoration: underline; } */
 .card-img-wrap {
   flex-shrink:  0;
   width:        160px;
@@ -332,16 +343,6 @@ img { display: block; max-width: 100%; }
   margin-top:      4px;
   padding-top:     8px;
   border-top:      1px solid var(--border);
-}
-
-.card-source {
-  font-size:   .75rem;
-  font-weight: 600;
-  color:       var(--text-muted);
-  white-space: nowrap;
-  overflow:    hidden;
-  text-overflow: ellipsis;
-  max-width:   55%;
 }
 
 .card-read-more {

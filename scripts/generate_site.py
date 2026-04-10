@@ -122,7 +122,7 @@ def render_card(art: dict) -> str:
         img_html = f'<img class="card-img" src="{safe_img}" alt="" loading="lazy" onerror="this.parentElement.style.display=\'none\'">'
 
     return f"""
-  <article class="card" data-region="{region}">
+  <article class="card" data-region="{region}" data-url="{url}">
     {f'<div class="card-img-wrap">{img_html}</div>' if image_url else ''}
     <div class="card-body">
       <div class="card-meta-top">
@@ -132,9 +132,9 @@ def render_card(art: dict) -> str:
       <h2 class="card-title">{title}</h2>
       <p class="card-summary">{summary}</p>
       <div class="card-footer">
-        <span class="card-source">{source}</span>
+        <a class="card-source" href="{url}" target="_blank" rel="noopener noreferrer">{source}</a>
         <a class="card-read-more" href="{url}" target="_blank" rel="noopener noreferrer">
-          Read more →
+          Read full story →
         </a>
       </div>
     </div>
@@ -283,6 +283,14 @@ def build_html(articles: list[dict], generated_at: str, archives: list[dict]) ->
           const show = filter === 'All' || card.dataset.region === filter;
           card.style.display = show ? '' : 'none';
         }});
+      }});
+    }});
+    // ── Clickable cards (tap anywhere to open source) ────────────
+    document.querySelectorAll('.card[data-url]').forEach(card => {{
+      card.addEventListener('click', e => {{
+        if (!e.target.closest('a')) {{
+          window.open(card.dataset.url, '_blank', 'noopener,noreferrer');
+        }}
       }});
     }});
   </script>
