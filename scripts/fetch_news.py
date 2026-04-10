@@ -5,6 +5,7 @@ Outputs raw_news.json with deduplicated articles.
 """
 
 import json
+import html
 import logging
 import os
 import re
@@ -23,6 +24,19 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(ROOT, "config.yml")
 OUTPUT_PATH = os.path.join(ROOT, "raw_news.json")
 NEWSLETTER_JSON_PATH = os.path.join(ROOT, "newsletter.json")
+
+
+def _decode_entities(text: str) -> str:
+    """Decode HTML entities, including double-encoded sequences."""
+    if not text:
+        return ""
+    current = text
+    for _ in range(3):
+        decoded = html.unescape(current)
+        if decoded == current:
+            break
+        current = decoded
+    return re.sub(r"\s+", " ", current).strip()
 
 
 def load_config() -> dict:
@@ -113,11 +127,11 @@ def fetch_gdelt(query: str, max_articles: int, hours_back: int = 24) -> list[dic
                 published_at = pub
             articles.append(
                 {
-                    "title": art.get("title", "").strip(),
+                    "title": _decode_entities(art.get("title", "")),
                     "url": art.get("url", ""),
-                    "source": art.get("domain", "GDELT"),
+                    "source": _decode_entities(art.get("domain", "GDELT")),
                     "published_at": published_at,
-                    "description": art.get("title", ""),
+                    "description": _decode_entities(art.get("title", "")),
                     "image_url": art.get("socialimage", ""),
                 }
             )
@@ -156,14 +170,14 @@ def fetch_rss(feeds: list[dict], max_per_feed: int = 10) -> list[dict]:
     articles = []
     for feed_cfg in feeds:
         url = feed_cfg["url"]
-        source = feed_cfg.get("source", url)
+        source = _decode_entities(feed_cfg.get("source", url))
         try:
             parsed = feedparser.parse(url)
             count = 0
             for entry in parsed.entries:
                 if count >= max_per_feed:
                     break
-                title = entry.get("title", "").strip()
+                title = _decode_entities(entry.get("title", ""))
                 link = entry.get("link", "")
                 summary = entry.get("summary", entry.get("description", ""))
                 # Parse published date
@@ -186,7 +200,7 @@ def fetch_rss(feeds: list[dict], max_per_feed: int = 10) -> list[dict]:
                             "url": link,
                             "source": source,
                             "published_at": published_at,
-                            "description": _strip_html(summary)[:400],
+                            "description": _decode_entities(_strip_html(summary))[:400],
                             "image_url": image_url,
                         }
                     )
@@ -220,11 +234,11 @@ def fetch_newsapi(query: str, api_key: str, max_articles: int) -> list[dict]:
                 continue
             articles.append(
                 {
-                    "title": (art.get("title") or "").strip(),
+                    "title": _decode_entities(art.get("title") or ""),
                     "url": art.get("url", ""),
-                    "source": (art.get("source") or {}).get("name", "NewsAPI"),
+                    "source": _decode_entities((art.get("source") or {}).get("name", "NewsAPI")),
                     "published_at": art.get("publishedAt", ""),
-                    "description": (art.get("description") or "")[:400],
+                    "description": _decode_entities(art.get("description") or "")[:400],
                     "image_url": art.get("urlToImage", ""),
                 }
             )
@@ -267,7 +281,6 @@ def deduplicate(articles: list[dict]) -> list[dict]:
 
 def _strip_html(text: str) -> str:
     """Very lightweight HTML tag stripper."""
-    import re
     return re.sub(r"<[^>]+>", "", text)
 
 
@@ -287,11 +300,11 @@ def load_previous_articles(max_articles: int) -> list[dict]:
                 continue
             previous.append(
                 {
-                    "title": title,
+                    "title": _decode_entities(title),
                     "url": url,
-                    "source": art.get("source", "GeoPulse Archive"),
+                    "source": _decode_entities(art.get("source", "GeoPulse Archive")),
                     "published_at": art.get("published_at", ""),
-                    "description": (art.get("summary") or title)[:400],
+                    "description": _decode_entities(art.get("summary") or title)[:400],
                     "image_url": art.get("image_url", ""),
                 }
             )

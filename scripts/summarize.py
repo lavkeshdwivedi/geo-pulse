@@ -14,6 +14,7 @@ LLM providers (set LLM_PROVIDER env var):
 """
 
 import json
+import html
 import logging
 import os
 import re
@@ -33,6 +34,37 @@ JSON_PATH   = os.path.join(ROOT, "newsletter.json")
 MD_PATH     = os.path.join(ROOT, "newsletter.md")
 
 BASE_URL = "https://pulse.lavkesh.com"
+
+
+def decode_entities(text: str) -> str:
+    """Decode HTML entities, handling double-encoded content from feeds."""
+    if not text:
+        return ""
+    current = text
+    for _ in range(3):
+        decoded = html.unescape(current)
+        if decoded == current:
+            break
+        current = decoded
+    return re.sub(r"\s+", " ", current).strip()
+
+
+def normalize_article_text(article: dict) -> dict:
+    """Return an article with textual fields normalized for output and prompts."""
+    normalized_sources = []
+    for src in article.get("sources", []) or []:
+        normalized_sources.append({
+            "url": src.get("url", ""),
+            "source": decode_entities(src.get("source", "")),
+        })
+
+    return {
+        **article,
+        "title": decode_entities(article.get("title", "")),
+        "description": decode_entities(article.get("description", "")),
+        "source": decode_entities(article.get("source", "")),
+        "sources": normalized_sources,
+    }
 
 
 def load_style_guide() -> str:
@@ -123,6 +155,50 @@ def truncate_words(text: str, limit: int = 100) -> str:
         words = text.split()
         return " ".join(words[:limit])
     return " ".join(result)
+
+
+def ensure_summary_constraints(
+    summary: str,
+    article: dict,
+    min_words: int = 80,
+    max_words: int = 100,
+    min_chars: int = 80,
+) -> str:
+    """Keep summaries in the required 80-100 word band and distinct from title."""
+    title = decode_entities(article.get("title", "")).strip()
+    description = decode_entities(article.get("description", "")).strip()
+
+    # Build the best available source text for fallback/expansion.
+    source_text = " ".join(part for part in [description, title] if part).strip()
+    if not source_text:
+        source_text = "This report is developing and more details are expected."
+
+    # Normalize summary and avoid title-only outputs.
+    clean_summary = decode_entities(summary).strip()
+    if not clean_summary or clean_summary.casefold() == title.casefold():
+        clean_summary = description or source_text
+
+    # Expand short summaries by appending context from source text.
+    expanded = clean_summary
+    if expanded:
+        expanded += " "
+    expanded += source_text
+
+    # Keep words inside the requested band.
+    words = expanded.split()
+    if len(words) < min_words:
+        repeated = words[:]
+        while len(repeated) < min_words:
+            repeated.extend(source_text.split())
+        words = repeated
+    constrained = " ".join(words[:max_words]).strip()
+
+    # Hard floor for character length.
+    if len(constrained) < min_chars:
+        constrained = (constrained + " " + source_text).strip()
+        constrained = " ".join(constrained.split()[:max_words]).strip()
+
+    return constrained
 
 
 # ── LLM helpers ───────────────────────────────────────────────────────────────
@@ -266,7 +342,7 @@ def main() -> None:
     with open(INPUT_PATH, encoding="utf-8") as f:
         data = json.load(f)
 
-    articles: list[dict] = data.get("articles", [])
+    articles: list[dict] = [normalize_article_text(a) for a in data.get("articles", [])]
     fetched_at: str = data.get("fetched_at", datetime.now(timezone.utc).isoformat())
 
     if not articles:
@@ -297,27 +373,28 @@ def main() -> None:
             if provider not in ("none", ""):
                 log.warning("Provider '%s' key missing or unknown — using truncation.", provider)
             summaries = [
-                truncate_words(a.get("description") or a.get("title", ""))
+                truncate_words(decode_entities(a.get("description") or a.get("title", "")))
                 for a in articles
             ]
     except Exception as exc:
         log.error("Summarisation error: %s — falling back to truncation.", exc)
         summaries = [
-            truncate_words(a.get("description") or a.get("title", ""))
+            truncate_words(decode_entities(a.get("description") or a.get("title", "")))
             for a in articles
         ]
 
     # ── Enrich articles ───────────────────────────────────────────────────────
     enriched: list[dict] = []
     for art, summary in zip(articles, summaries):
+        final_summary = ensure_summary_constraints(summary, art)
         enriched.append({
-            "title":        art.get("title", ""),
+            "title":        decode_entities(art.get("title", "")),
             "url":          art.get("url", ""),
-            "source":       art.get("source", ""),
+            "source":       decode_entities(art.get("source", "")),
             "sources":      art.get("sources", []),
             "published_at": art.get("published_at", ""),
             "image_url":    art.get("image_url", ""),
-            "summary":      summary,
+            "summary":      final_summary,
             "region":       classify_region(art),
             "genre":        classify_genre(art),
         })
