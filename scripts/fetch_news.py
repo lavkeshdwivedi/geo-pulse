@@ -243,7 +243,10 @@ def fetch_gdelt(query: str, max_articles: int, hours_back: int = 24) -> list[dic
         log.warning("GDELT 6h fallback failed: %s", exc)
 
     # Fallback 2 — simplified single-keyword query, 24 h.
-    simple_query = (query.split(" OR ")[0]).strip()
+    # Split on " OR " (the separator used in config.yml's news_query) to get
+    # the first keyword; if the query doesn't contain " OR ", this returns the
+    # full query string unchanged — both cases are valid.
+    simple_query = query.split(" OR ")[0].strip() or query
     try:
         time.sleep(3)
         articles = _gdelt_artlist(simple_query, max_articles, hours_back)
