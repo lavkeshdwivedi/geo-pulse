@@ -13,9 +13,10 @@ on:
   workflow_dispatch:   # Allow manual trigger from the Actions tab
 
 permissions:
-  contents: write      # Needed to commit newsletter.md / site/ back to the repo
-  pages: write         # Needed for GitHub Pages deployment
-  id-token: write      # Needed for OIDC-based Pages deployment
+  contents: write       # Needed to commit newsletter.md / site/ back to the repo
+  pull-requests: write  # Needed for peter-evans/create-pull-request to open/update PRs
+  pages: write          # Needed for GitHub Pages deployment
+  id-token: write       # Needed for OIDC-based Pages deployment
 
 jobs:
   build-and-deploy:
