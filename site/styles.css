@@ -23,7 +23,7 @@
   --shadow-sm:     0 1px 3px rgba(0,0,0,.10);
   --shadow-md:     0 2px 8px rgba(0,0,0,.12);
   --radius:        12px;
-  --font:          'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --font:          'DM Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
 }
 
 /* ── Variables: Dark ────────────────────────────────────────────────────── */
@@ -66,6 +66,7 @@ img { display: block; max-width: 100%; }
 .app-header {
   background:    var(--header-bg);
   border-bottom: 1px solid var(--header-border);
+  position:      -webkit-sticky;
   position:      sticky;
   top:           0;
   z-index:       200;
@@ -78,7 +79,7 @@ img { display: block; max-width: 100%; }
   padding:     12px 20px;
   display:     flex;
   align-items: center;
-  gap:         12px;
+  gap:         10px;
 }
 
 .brand {
@@ -103,11 +104,29 @@ img { display: block; max-width: 100%; }
 }
 
 .update-badge {
-  font-size:   .75rem;
+  font-size:   .73rem;
   color:       var(--text-muted);
-  display:     none;
 }
-@media (min-width: 560px) { .update-badge { display: inline; } }
+
+.header-time-group {
+  display:        none;
+  flex-direction: column;
+  align-items:    flex-end;
+  gap:            1px;
+}
+@media (min-width: 560px) { .header-time-group { display: flex; } }
+
+.local-clock {
+  display:        flex;
+  align-items:    center;
+  gap:            4px;
+  font-size:      .7rem;
+  font-family:    'JetBrains Mono', monospace;
+  color:          var(--text-muted);
+  letter-spacing: .02em;
+}
+.clock-icon { color: var(--accent); flex-shrink: 0; }
+.local-tz   { font-size: .62rem; opacity: .7; }
 
 .rss-btn {
   display:         flex;
@@ -151,6 +170,7 @@ img { display: block; max-width: 100%; }
 .filter-bar {
   background:    var(--header-bg);
   border-bottom: 1px solid var(--border);
+  position:      -webkit-sticky;
   position:      sticky;
   top:           73px;   /* header height */
   z-index:       100;
@@ -218,7 +238,13 @@ img { display: block; max-width: 100%; }
 
 @media (max-width: 900px) {
   .page-layout { grid-template-columns: 1fr; }
-  .sidebar      { order: -1; }
+  .sidebar      { order: 2; position: static; }
+  .card-feed    { order: 1; }
+}
+
+@media (max-width: 640px) {
+  .page-layout { margin: 14px auto; padding: 0 12px; gap: 14px; }
+  .filter-bar { top: 64px; }
 }
 
 /* ── Card Feed ──────────────────────────────────────────────────────────── */
@@ -377,6 +403,7 @@ img { display: block; max-width: 100%; }
   display:       flex;
   flex-direction: column;
   gap:           16px;
+  position:      -webkit-sticky;
   position:      sticky;
   top:           130px;
 }
@@ -485,4 +512,90 @@ img { display: block; max-width: 100%; }
 ::-webkit-scrollbar-track { background: var(--bg); }
 ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+/* ── Accent picker ──────────────────────────────────────────────────────── */
+.accent-picker { position: relative; }
+
+.accent-picker-btn {
+  width:      32px;
+  height:     32px;
+  border:     1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  cursor:     pointer;
+  display:    flex;
+  align-items: center;
+  justify-content: center;
+  transition: background .15s;
+  padding:    0;
+}
+.accent-picker-btn:hover { background: var(--surface-hover); }
+
+.accent-dot {
+  width:        14px;
+  height:       14px;
+  border-radius: 50%;
+  background:   var(--accent);
+  pointer-events: none;
+  transition:   background .25s;
+}
+
+.accent-menu {
+  position:   absolute;
+  right:      0;
+  top:        calc(100% + 6px);
+  background: var(--surface);
+  border:     1px solid var(--border);
+  border-radius: 10px;
+  padding:    10px;
+  display:    grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap:        6px;
+  box-shadow: var(--shadow-md);
+  z-index:    400;
+  min-width:  172px;
+}
+.accent-menu[hidden] { display: none; }
+
+.accent-menu button {
+  width:        26px;
+  height:       26px;
+  border-radius: 50%;
+  border:       2px solid transparent;
+  cursor:       pointer;
+  padding:      0;
+  transition:   transform .15s, border-color .15s, box-shadow .15s;
+  outline:      none;
+}
+.accent-menu button:hover        { transform: scale(1.22); }
+.accent-menu button:focus-visible { box-shadow: 0 0 0 3px var(--accent); }
+.accent-menu button[aria-selected="true"] { border-color: var(--text); transform: scale(1.1); }
+
+/* ── Accent theme blocks (lavkesh.com palette) ──────────────────────────── */
+[data-accent="azure"]    { --accent: #0078d4; --accent-dark: #005a9e; --accent-bg: rgba(0,120,212,.08); }
+[data-accent="ocean"]    { --accent: #0284c7; --accent-dark: #0369a1; --accent-bg: rgba(2,132,199,.08); }
+[data-accent="emerald"]  { --accent: #059669; --accent-dark: #047857; --accent-bg: rgba(5,150,105,.08); }
+[data-accent="mint"]     { --accent: #0d9488; --accent-dark: #0f766e; --accent-bg: rgba(13,148,136,.08); }
+[data-accent="ember"]    { --accent: #b84a08; --accent-dark: #9a3c04; --accent-bg: rgba(184,74,8,.08); }
+[data-accent="sunset"]   { --accent: #c2410c; --accent-dark: #9a3412; --accent-bg: rgba(194,65,12,.08); }
+[data-accent="gold"]     { --accent: #b45309; --accent-dark: #92400e; --accent-bg: rgba(180,83,9,.08); }
+[data-accent="violet"]   { --accent: #7c3aed; --accent-dark: #6d28d9; --accent-bg: rgba(124,58,237,.08); }
+[data-accent="lavender"] { --accent: #7e22ce; --accent-dark: #6b21a8; --accent-bg: rgba(126,34,206,.08); }
+[data-accent="rose"]     { --accent: #be185d; --accent-dark: #9d174d; --accent-bg: rgba(190,24,93,.08); }
+[data-accent="storm"]    { --accent: #4338ca; --accent-dark: #3730a3; --accent-bg: rgba(67,56,202,.08); }
+[data-accent="slate"]    { --accent: #475569; --accent-dark: #334155; --accent-bg: rgba(71,85,105,.08); }
+
+/* Dark overrides */
+[data-accent="azure"][data-theme="dark"]    { --accent: #4da3ff; --accent-dark: #6ab4ff; --accent-bg: rgba(77,163,255,.15); }
+[data-accent="ocean"][data-theme="dark"]    { --accent: #38bdf8; --accent-dark: #7dd3fc; --accent-bg: rgba(56,189,248,.15); }
+[data-accent="emerald"][data-theme="dark"]  { --accent: #10b981; --accent-dark: #34d399; --accent-bg: rgba(16,185,129,.15); }
+[data-accent="mint"][data-theme="dark"]     { --accent: #2dd4bf; --accent-dark: #5eead4; --accent-bg: rgba(45,212,191,.15); }
+[data-accent="ember"][data-theme="dark"]    { --accent: #e07020; --accent-dark: #ff9a50; --accent-bg: rgba(224,112,32,.15); }
+[data-accent="sunset"][data-theme="dark"]   { --accent: #fb923c; --accent-dark: #fdba74; --accent-bg: rgba(251,146,60,.15); }
+[data-accent="gold"][data-theme="dark"]     { --accent: #d4a017; --accent-dark: #fbbf24; --accent-bg: rgba(212,160,23,.15); }
+[data-accent="violet"][data-theme="dark"]   { --accent: #a855f7; --accent-dark: #c084fc; --accent-bg: rgba(168,85,247,.15); }
+[data-accent="lavender"][data-theme="dark"] { --accent: #c084fc; --accent-dark: #d8b4fe; --accent-bg: rgba(192,132,252,.15); }
+[data-accent="rose"][data-theme="dark"]     { --accent: #f472b6; --accent-dark: #fb7ebc; --accent-bg: rgba(244,114,182,.15); }
+[data-accent="storm"][data-theme="dark"]    { --accent: #6366f1; --accent-dark: #818cf8; --accent-bg: rgba(99,102,241,.15); }
+[data-accent="slate"][data-theme="dark"]    { --accent: #94a3b8; --accent-dark: #cbd5e1; --accent-bg: rgba(148,163,184,.15); }
 

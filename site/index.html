@@ -9,6 +9,8 @@
   <meta property="og:description" content="Signal-first briefs on geopolitics, geography, and world history." />
   <meta property="og:url" content="https://pulse.lavkesh.com" />
   <meta name="twitter:card" content="summary" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests" />
   <link rel="canonical" href="https://pulse.lavkesh.com" />
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <link rel="alternate icon" type="image/svg+xml" href="favicon.svg" />
@@ -20,6 +22,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400&family=JetBrains+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="alternate" type="application/rss+xml" title="GeoPulse RSS" href="https://pulse.lavkesh.com/feed.xml" />
+  <script>(function(){var t=localStorage.getItem('gp-theme');if(t)document.documentElement.dataset.theme=t;var a=localStorage.getItem('gp-accent');if(a)document.documentElement.dataset.accent=a;})();</script>
 </head>
 <body>
 
@@ -31,7 +34,14 @@
         <span class="brand-name">GeoPulse</span>
       </a>
       <div class="header-right">
-        <span class="update-badge">Updated 10 Apr 2026, 17:04 UTC</span>
+        <div class="header-time-group">
+          <span class="update-badge" title="Last generated (UTC)">Updated 10 Apr 2026, 17:04 UTC</span>
+          <span class="local-clock" id="local-clock">
+            <svg class="clock-icon" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            <span id="local-time">--:--:--</span>
+            <span id="local-tz" class="local-tz"></span>
+          </span>
+        </div>
         <a class="rss-btn" href="https://pulse.lavkesh.com/feed.xml" title="RSS feed" aria-label="RSS">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
             <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20
@@ -40,6 +50,26 @@
                      0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 13.37V10.1z"/>
           </svg>
         </a>
+        <div class="accent-picker" id="accent-picker">
+          <button class="accent-picker-btn" id="accent-btn" aria-label="Choose accent colour" aria-haspopup="true" aria-expanded="false">
+            <span class="accent-dot" id="accent-dot"></span>
+          </button>
+          <div class="accent-menu" id="accent-menu" hidden role="listbox" aria-label="Accent colour">
+            <button role="option" data-accent=""         style="background:#e63946" title="Crimson (default)" aria-selected="true"></button>
+            <button role="option" data-accent="azure"    style="background:#0078d4" title="Azure"></button>
+            <button role="option" data-accent="ocean"    style="background:#0ea5e9" title="Ocean"></button>
+            <button role="option" data-accent="emerald"  style="background:#10b981" title="Emerald"></button>
+            <button role="option" data-accent="mint"     style="background:#2dd4bf" title="Mint"></button>
+            <button role="option" data-accent="ember"    style="background:#e07020" title="Ember"></button>
+            <button role="option" data-accent="sunset"   style="background:#fb923c" title="Sunset"></button>
+            <button role="option" data-accent="gold"     style="background:#d4a017" title="Gold"></button>
+            <button role="option" data-accent="violet"   style="background:#a855f7" title="Violet"></button>
+            <button role="option" data-accent="lavender" style="background:#c084fc" title="Lavender"></button>
+            <button role="option" data-accent="rose"     style="background:#f472b6" title="Rose"></button>
+            <button role="option" data-accent="storm"    style="background:#6366f1" title="Storm"></button>
+            <button role="option" data-accent="slate"    style="background:#64748b" title="Slate"></button>
+          </div>
+        </div>
         <button id="theme-btn" class="theme-btn" aria-label="Toggle theme">
           <span class="light-icon">☀️</span><span class="dark-icon">🌙</span>
         </button>
@@ -68,166 +98,6 @@
     <!-- Card feed -->
     <main class="card-feed" id="card-feed">
       
-  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss">
-    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb74/live/ad515bf0-347e-11f1-bbf7-7db5bb17fba6.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-    <div class="card-body">
-      <div class="card-meta-top">
-        <div class="card-topic-wrap">
-          <span class="card-region">Middle East &amp; Africa</span>
-          <span class="card-genre">Geography</span>
-        </div>
-        <span class="card-time">15h ago</span>
-      </div>
-      <h2 class="card-title">Trump says Iran&#x27;s handling of Strait of Hormuz is &#x27;not the agreement we have&#x27;</h2>
-      <p class="card-summary">The US president accused Iran of &quot;doing a very poor job&quot; with the waterway as Israel and Lebanon to begin peace talks. The US president accused Iran of &quot;doing a very poor job&quot; with the waterway as Israel and Lebanon to begin peace talks. Trump says Iran&#x27;s handling of Strait of Hormuz is &#x27;not the agreement we have&#x27; The US president accused Iran of &quot;doing a very poor job&quot; with the waterway as Israel and Lebanon to begin peace talks. Trump says Iran&#x27;s handling of Strait of Hormuz is &#x27;not the agreement we have&#x27;</p>
-      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
-    </div>
-  </article>
-
-  <article class="card" data-region="Americas" data-url="https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss">
-    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e750/live/ec957be0-349f-11f1-9d5c-8ba507d7dbde.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-    <div class="card-body">
-      <div class="card-meta-top">
-        <div class="card-topic-wrap">
-          <span class="card-region">Americas</span>
-          <span class="card-genre">Geopolitics</span>
-        </div>
-        <span class="card-time">8h ago</span>
-      </div>
-      <h2 class="card-title">Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors</h2>
-      <p class="card-summary">She called rumours that Epstein introduced her to Donald Trump &quot;mean-spirited attempts to defame my reputation&quot;. She called rumours that Epstein introduced her to Donald Trump &quot;mean-spirited attempts to defame my reputation&quot;. Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors She called rumours that Epstein introduced her to Donald Trump &quot;mean-spirited attempts to defame my reputation&quot;. Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors She called rumours that Epstein introduced her to Donald Trump &quot;mean-spirited attempts to defame my reputation&quot;. Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors</p>
-      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
-    </div>
-  </article>
-
-  <article class="card" data-region="Asia-Pacific" data-url="https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&amp;at_campaign=rss">
-    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/ffbd95b0-34ac-11f1-a676-6ff4dfb1e8ec.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-    <div class="card-body">
-      <div class="card-meta-top">
-        <div class="card-topic-wrap">
-          <span class="card-region">Asia-Pacific</span>
-          <span class="card-genre">Geopolitics</span>
-        </div>
-        <span class="card-time">9h ago</span>
-      </div>
-      <h2 class="card-title">Taiwan opposition leader meets Xi Jinping in Beijing</h2>
-      <p class="card-summary">Cheng Li-wun is the Kuomintang&#x27;s first sitting leader to visit China in a decade. Cheng Li-wun is the Kuomintang&#x27;s first sitting leader to visit China in a decade. Taiwan opposition leader meets Xi Jinping in Beijing Cheng Li-wun is the Kuomintang&#x27;s first sitting leader to visit China in a decade. Taiwan opposition leader meets Xi Jinping in Beijing Cheng Li-wun is the Kuomintang&#x27;s first sitting leader to visit China in a decade. Taiwan opposition leader meets Xi Jinping in Beijing</p>
-      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
-    </div>
-  </article>
-
-  <article class="card" data-region="World" data-url="https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&amp;at_campaign=rss">
-    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df30/live/308a6250-7e59-11f0-9e21-f9e74b491350.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-    <div class="card-body">
-      <div class="card-meta-top">
-        <div class="card-topic-wrap">
-          <span class="card-region">World</span>
-          <span class="card-genre">Geopolitics</span>
-        </div>
-        <span class="card-time">7h ago</span>
-      </div>
-      <h2 class="card-title">German transgender far-right extremist arrested in Czech Republic</h2>
-      <p class="card-summary">German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour. German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour. German transgender far-right extremist arrested in Czech Republic German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour. German transgender far-right extremist arrested in Czech Republic German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour. German transgender far-right extremist arrested in Czech Republic</p>
-      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
-    </div>
-  </article>
-
-  <article class="card" data-region="Europe &amp; Russia" data-url="https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&amp;at_campaign=rss">
-    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2212/live/a6860d70-34c9-11f1-b079-8d85ad9c406e.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-    <div class="card-body">
-      <div class="card-meta-top">
-        <div class="card-topic-wrap">
-          <span class="card-region">Europe &amp; Russia</span>
-          <span class="card-genre">Geopolitics</span>
-        </div>
-        <span class="card-time">2h ago</span>
-      </div>
-      <h2 class="card-title">Man accused of coercing wife into sex with 120 men goes on trial in Sweden</h2>
-      <p class="card-summary">The 61-year-old denies threatening physical violence and plying his wife with drugs to force her into having sex with strangers. The 61-year-old denies threatening physical violence and plying his wife with drugs to force her into having sex with strangers. Man accused of coercing wife into sex with 120 men goes on trial in Sweden The 61-year-old denies threatening physical violence and plying his wife with drugs to force her into having sex with strangers. Man accused of coercing wife into sex with 120 men goes on trial in Sweden</p>
-      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
-    </div>
-  </article>
-
-  <article class="card" data-region="Europe &amp; Russia" data-url="https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&amp;at_campaign=rss">
-    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946d/live/990e28d0-34ab-11f1-8606-05fe34b06e1b.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-    <div class="card-body">
-      <div class="card-meta-top">
-        <div class="card-topic-wrap">
-          <span class="card-region">Europe &amp; Russia</span>
-          <span class="card-genre">Geopolitics</span>
-        </div>
-        <span class="card-time">5h ago</span>
-      </div>
-      <h2 class="card-title">Russia and Ukraine agree to Orthodox Easter truce</h2>
-      <p class="card-summary">Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday. Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday. Russia and Ukraine agree to Orthodox Easter truce Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday. Russia and Ukraine agree to Orthodox Easter truce Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday. Russia and Ukraine agree to Orthodox Easter truce</p>
-      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
-    </div>
-  </article>
-
-  <article class="card" data-region="World" data-url="https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&amp;at_campaign=rss">
-    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7055/live/45d82b40-34d1-11f1-879d-1b2f5c3919b8.png" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-    <div class="card-body">
-      <div class="card-meta-top">
-        <div class="card-topic-wrap">
-          <span class="card-region">World</span>
-          <span class="card-genre">Geopolitics</span>
-        </div>
-        <span class="card-time">5h ago</span>
-      </div>
-      <h2 class="card-title">Popular Tanzanian musician Matonya charged with rape in Kenya</h2>
-      <p class="card-summary">The 43-year-old denies the charge and has been released on bail and had to surrender his passport. The 43-year-old denies the charge and has been released on bail and had to surrender his passport. Popular Tanzanian musician Matonya charged with rape in Kenya The 43-year-old denies the charge and has been released on bail and had to surrender his passport. Popular Tanzanian musician Matonya charged with rape in Kenya The 43-year-old denies the charge and has been released on bail and had to surrender his passport. Popular Tanzanian musician Matonya charged with rape in Kenya</p>
-      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
-    </div>
-  </article>
-
-  <article class="card" data-region="World" data-url="https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&amp;at_campaign=rss">
-    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/8014eb80-3487-11f1-9bc8-f978f899d2ab.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-    <div class="card-body">
-      <div class="card-meta-top">
-        <div class="card-topic-wrap">
-          <span class="card-region">World</span>
-          <span class="card-genre">Geopolitics</span>
-        </div>
-        <span class="card-time">14h ago</span>
-      </div>
-      <h2 class="card-title">White House staff told not to place bets on prediction markets</h2>
-      <p class="card-summary">The gambling platforms have grown in popularity, with some users making wagers on conflicts. The gambling platforms have grown in popularity, with some users making wagers on conflicts. White House staff told not to place bets on prediction markets The gambling platforms have grown in popularity, with some users making wagers on conflicts. White House staff told not to place bets on prediction markets The gambling platforms have grown in popularity, with some users making wagers on conflicts. White House staff told not to place bets on prediction markets</p>
-      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
-    </div>
-  </article>
-
-  <article class="card" data-region="Global / Multilateral" data-url="https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&amp;at_campaign=rss">
-    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebb8/live/deb12e50-34d8-11f1-8606-05fe34b06e1b.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-    <div class="card-body">
-      <div class="card-meta-top">
-        <div class="card-topic-wrap">
-          <span class="card-region">Global / Multilateral</span>
-          <span class="card-genre">Geopolitics</span>
-        </div>
-        <span class="card-time">3h ago</span>
-      </div>
-      <h2 class="card-title">Dutch police urge victims of &#x27;international sextortion campaign&#x27; to come forward</h2>
-      <p class="card-summary">Dutch police have warned that dozens of women and girls were coerced into degrading sexual acts on camera in several countries. Dutch police have warned that dozens of women and girls were coerced into degrading sexual acts on camera in several countries. Dutch police urge victims of &#x27;international sextortion campaign&#x27; to come forward Dutch police have warned that dozens of women and girls were coerced into degrading sexual acts on camera in several countries. Dutch police urge victims of &#x27;international sextortion campaign&#x27; to come forward</p>
-      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
-    </div>
-  </article>
-
-  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&amp;at_campaign=rss">
-    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d87/live/5be87750-3422-11f1-aa50-fd39c44a0779.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-    <div class="card-body">
-      <div class="card-meta-top">
-        <div class="card-topic-wrap">
-          <span class="card-region">Middle East &amp; Africa</span>
-          <span class="card-genre">Geopolitics</span>
-        </div>
-        <span class="card-time">8h ago</span>
-      </div>
-      <h2 class="card-title">US has let in 4,499 refugees since October - all but three were South African</h2>
-      <p class="card-summary">Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation. Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation. US has let in 4,499 refugees since October - all but three were South African Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation. US has let in 4,499 refugees since October - all but three were South African</p>
-      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
-    </div>
-  </article>
-
   <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss">
     
     <div class="card-body">
@@ -236,7 +106,7 @@
           <span class="card-region">Middle East &amp; Africa</span>
           <span class="card-genre">Geopolitics</span>
         </div>
-        <span class="card-time">36m ago</span>
+        <span class="card-time">1h ago</span>
       </div>
       <h2 class="card-title">Netanyahu removes Spain from Gaza coordination centre over ‘hostility’</h2>
       <p class="card-summary">Israel&#x27;s Netanyahu accused Spain of waging a &#x27;diplomatic war&#x27; against Israel. Israel&#x27;s Netanyahu accused Spain of waging a &#x27;diplomatic war&#x27; against Israel. Netanyahu removes Spain from Gaza coordination centre over ‘hostility’ Israel&#x27;s Netanyahu accused Spain of waging a &#x27;diplomatic war&#x27; against Israel. Netanyahu removes Spain from Gaza coordination centre over ‘hostility’ Israel&#x27;s Netanyahu accused Spain of waging a &#x27;diplomatic war&#x27; against Israel. Netanyahu removes Spain from Gaza coordination centre over ‘hostility’ Israel&#x27;s Netanyahu accused Spain of waging a &#x27;diplomatic war&#x27; against Israel. Netanyahu removes Spain from Gaza coordination centre over ‘hostility’</p>
@@ -316,7 +186,7 @@
           <span class="card-region">World</span>
           <span class="card-genre">Geopolitics</span>
         </div>
-        <span class="card-time">1h ago</span>
+        <span class="card-time">2h ago</span>
       </div>
       <h2 class="card-title">Potholes and progress: Mamdani reflects on 100 days as New York’s mayor</h2>
       <p class="card-summary">Mamdani&#x27;s first 100 days marked by childcare reforms, pothole fixes and polarising debates over affordability policies. Mamdani&#x27;s first 100 days marked by childcare reforms, pothole fixes and polarising debates over affordability policies. Potholes and progress: Mamdani reflects on 100 days as New York’s mayor Mamdani&#x27;s first 100 days marked by childcare reforms, pothole fixes and polarising debates over affordability policies. Potholes and progress: Mamdani reflects on 100 days as New York’s mayor Mamdani&#x27;s first 100 days marked by childcare reforms, pothole fixes and polarising debates over affordability policies. Potholes and progress: Mamdani reflects on 100 days as New York’s mayor</p>
@@ -332,7 +202,7 @@
           <span class="card-region">Middle East &amp; Africa</span>
           <span class="card-genre">Geography</span>
         </div>
-        <span class="card-time">1h ago</span>
+        <span class="card-time">2h ago</span>
       </div>
       <h2 class="card-title">Inflation rises in US amid Iran war, Hormuz blockade</h2>
       <p class="card-summary">Government report shows gasoline going up by 21.2 percent in March as petrol remains above $4 per gallon despite truce. Government report shows gasoline going up by 21.2 percent in March as petrol remains above $4 per gallon despite truce. Inflation rises in US amid Iran war, Hormuz blockade Government report shows gasoline going up by 21.2 percent in March as petrol remains above $4 per gallon despite truce. Inflation rises in US amid Iran war, Hormuz blockade Government report shows gasoline going up by 21.2 percent in March as petrol remains above $4 per gallon despite truce. Inflation rises</p>
@@ -348,11 +218,27 @@
           <span class="card-region">Middle East &amp; Africa</span>
           <span class="card-genre">Geopolitics</span>
         </div>
-        <span class="card-time">1h ago</span>
+        <span class="card-time">2h ago</span>
       </div>
       <h2 class="card-title">Zelenskyy says Ukrainian interceptors downed Iran drones in the Middle East</h2>
       <p class="card-summary">Ukraine&#x27;s Zelenskyy previously announced that 228 Ukrainian experts had been deployed to the region. Ukraine&#x27;s Zelenskyy previously announced that 228 Ukrainian experts had been deployed to the region. Zelenskyy says Ukrainian interceptors downed Iran drones in the Middle East Ukraine&#x27;s Zelenskyy previously announced that 228 Ukrainian experts had been deployed to the region. Zelenskyy says Ukrainian interceptors downed Iran drones in the Middle East Ukraine&#x27;s Zelenskyy previously announced that 228 Ukrainian experts had been deployed to the region. Zelenskyy says Ukrainian interceptors downed Iran drones in the Middle East</p>
       <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/news/2026/4/10/zelenskyy-says-ukrainian-interceptors-downed-iran-drones-in-the-middle-east?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Europe &amp; Russia" data-url="https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/2212/live/a6860d70-34c9-11f1-b079-8d85ad9c406e.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <div class="card-topic-wrap">
+          <span class="card-region">Europe &amp; Russia</span>
+          <span class="card-genre">Geopolitics</span>
+        </div>
+        <span class="card-time">2h ago</span>
+      </div>
+      <h2 class="card-title">Man accused of coercing wife into sex with 120 men goes on trial in Sweden</h2>
+      <p class="card-summary">The 61-year-old denies threatening physical violence and plying his wife with drugs to force her into having sex with strangers. The 61-year-old denies threatening physical violence and plying his wife with drugs to force her into having sex with strangers. Man accused of coercing wife into sex with 120 men goes on trial in Sweden The 61-year-old denies threatening physical violence and plying his wife with drugs to force her into having sex with strangers. Man accused of coercing wife into sex with 120 men goes on trial in Sweden</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
     </div>
   </article>
 
@@ -364,7 +250,7 @@
           <span class="card-region">Middle East &amp; Africa</span>
           <span class="card-genre">Geopolitics</span>
         </div>
-        <span class="card-time">2h ago</span>
+        <span class="card-time">3h ago</span>
       </div>
       <h2 class="card-title">Pakistan sets modest goal for US-Iran summit: A deal to keep talks going</h2>
       <p class="card-summary">US-Iran talks open in Islamabad with mediators focused on keeping dialogue alive amid deep divisions. US-Iran talks open in Islamabad with mediators focused on keeping dialogue alive amid deep divisions. Pakistan sets modest goal for US-Iran summit: A deal to keep talks going US-Iran talks open in Islamabad with mediators focused on keeping dialogue alive amid deep divisions. Pakistan sets modest goal for US-Iran summit: A deal to keep talks going US-Iran talks open in Islamabad with mediators focused on keeping dialogue alive amid deep divisions. Pakistan sets modest goal for US-Iran summit: A deal to keep talks going</p>
@@ -387,17 +273,155 @@
       <div class="card-sources"><a class="card-source-chip" href="https://www.aljazeera.com/news/2026/4/10/artemis-ii-splashdown-when-it-lands-risks-and-how-to-watch-live?traffic_source=rss" target="_blank" rel="noopener noreferrer">Al Jazeera</a></div>
     </div>
   </article>
+
+  <article class="card" data-region="Global / Multilateral" data-url="https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/ebb8/live/deb12e50-34d8-11f1-8606-05fe34b06e1b.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <div class="card-topic-wrap">
+          <span class="card-region">Global / Multilateral</span>
+          <span class="card-genre">Geopolitics</span>
+        </div>
+        <span class="card-time">4h ago</span>
+      </div>
+      <h2 class="card-title">Dutch police urge victims of &#x27;international sextortion campaign&#x27; to come forward</h2>
+      <p class="card-summary">Dutch police have warned that dozens of women and girls were coerced into degrading sexual acts on camera in several countries. Dutch police have warned that dozens of women and girls were coerced into degrading sexual acts on camera in several countries. Dutch police urge victims of &#x27;international sextortion campaign&#x27; to come forward Dutch police have warned that dozens of women and girls were coerced into degrading sexual acts on camera in several countries. Dutch police urge victims of &#x27;international sextortion campaign&#x27; to come forward</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="World" data-url="https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/7055/live/45d82b40-34d1-11f1-879d-1b2f5c3919b8.png" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <div class="card-topic-wrap">
+          <span class="card-region">World</span>
+          <span class="card-genre">Geopolitics</span>
+        </div>
+        <span class="card-time">5h ago</span>
+      </div>
+      <h2 class="card-title">Popular Tanzanian musician Matonya charged with rape in Kenya</h2>
+      <p class="card-summary">The 43-year-old denies the charge and has been released on bail and had to surrender his passport. The 43-year-old denies the charge and has been released on bail and had to surrender his passport. Popular Tanzanian musician Matonya charged with rape in Kenya The 43-year-old denies the charge and has been released on bail and had to surrender his passport. Popular Tanzanian musician Matonya charged with rape in Kenya The 43-year-old denies the charge and has been released on bail and had to surrender his passport. Popular Tanzanian musician Matonya charged with rape in Kenya</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Europe &amp; Russia" data-url="https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/946d/live/990e28d0-34ab-11f1-8606-05fe34b06e1b.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <div class="card-topic-wrap">
+          <span class="card-region">Europe &amp; Russia</span>
+          <span class="card-genre">Geopolitics</span>
+        </div>
+        <span class="card-time">5h ago</span>
+      </div>
+      <h2 class="card-title">Russia and Ukraine agree to Orthodox Easter truce</h2>
+      <p class="card-summary">Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday. Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday. Russia and Ukraine agree to Orthodox Easter truce Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday. Russia and Ukraine agree to Orthodox Easter truce Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday. Russia and Ukraine agree to Orthodox Easter truce</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="World" data-url="https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/df30/live/308a6250-7e59-11f0-9e21-f9e74b491350.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <div class="card-topic-wrap">
+          <span class="card-region">World</span>
+          <span class="card-genre">Geopolitics</span>
+        </div>
+        <span class="card-time">7h ago</span>
+      </div>
+      <h2 class="card-title">German transgender far-right extremist arrested in Czech Republic</h2>
+      <p class="card-summary">German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour. German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour. German transgender far-right extremist arrested in Czech Republic German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour. German transgender far-right extremist arrested in Czech Republic German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour. German transgender far-right extremist arrested in Czech Republic</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Americas" data-url="https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/e750/live/ec957be0-349f-11f1-9d5c-8ba507d7dbde.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <div class="card-topic-wrap">
+          <span class="card-region">Americas</span>
+          <span class="card-genre">Geopolitics</span>
+        </div>
+        <span class="card-time">9h ago</span>
+      </div>
+      <h2 class="card-title">Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors</h2>
+      <p class="card-summary">She called rumours that Epstein introduced her to Donald Trump &quot;mean-spirited attempts to defame my reputation&quot;. She called rumours that Epstein introduced her to Donald Trump &quot;mean-spirited attempts to defame my reputation&quot;. Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors She called rumours that Epstein introduced her to Donald Trump &quot;mean-spirited attempts to defame my reputation&quot;. Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors She called rumours that Epstein introduced her to Donald Trump &quot;mean-spirited attempts to defame my reputation&quot;. Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/6d87/live/5be87750-3422-11f1-aa50-fd39c44a0779.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <div class="card-topic-wrap">
+          <span class="card-region">Middle East &amp; Africa</span>
+          <span class="card-genre">Geopolitics</span>
+        </div>
+        <span class="card-time">9h ago</span>
+      </div>
+      <h2 class="card-title">US has let in 4,499 refugees since October - all but three were South African</h2>
+      <p class="card-summary">Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation. Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation. US has let in 4,499 refugees since October - all but three were South African Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation. US has let in 4,499 refugees since October - all but three were South African</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Asia-Pacific" data-url="https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/2cf2/live/ffbd95b0-34ac-11f1-a676-6ff4dfb1e8ec.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <div class="card-topic-wrap">
+          <span class="card-region">Asia-Pacific</span>
+          <span class="card-genre">Geopolitics</span>
+        </div>
+        <span class="card-time">9h ago</span>
+      </div>
+      <h2 class="card-title">Taiwan opposition leader meets Xi Jinping in Beijing</h2>
+      <p class="card-summary">Cheng Li-wun is the Kuomintang&#x27;s first sitting leader to visit China in a decade. Cheng Li-wun is the Kuomintang&#x27;s first sitting leader to visit China in a decade. Taiwan opposition leader meets Xi Jinping in Beijing Cheng Li-wun is the Kuomintang&#x27;s first sitting leader to visit China in a decade. Taiwan opposition leader meets Xi Jinping in Beijing Cheng Li-wun is the Kuomintang&#x27;s first sitting leader to visit China in a decade. Taiwan opposition leader meets Xi Jinping in Beijing</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="World" data-url="https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/a3c2/live/8014eb80-3487-11f1-9bc8-f978f899d2ab.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <div class="card-topic-wrap">
+          <span class="card-region">World</span>
+          <span class="card-genre">Geopolitics</span>
+        </div>
+        <span class="card-time">15h ago</span>
+      </div>
+      <h2 class="card-title">White House staff told not to place bets on prediction markets</h2>
+      <p class="card-summary">The gambling platforms have grown in popularity, with some users making wagers on conflicts. The gambling platforms have grown in popularity, with some users making wagers on conflicts. White House staff told not to place bets on prediction markets The gambling platforms have grown in popularity, with some users making wagers on conflicts. White House staff told not to place bets on prediction markets The gambling platforms have grown in popularity, with some users making wagers on conflicts. White House staff told not to place bets on prediction markets</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
+
+  <article class="card" data-region="Middle East &amp; Africa" data-url="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss">
+    <div class="card-img-wrap"><img class="card-img" src="https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/fb74/live/ad515bf0-347e-11f1-bbf7-7db5bb17fba6.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+    <div class="card-body">
+      <div class="card-meta-top">
+        <div class="card-topic-wrap">
+          <span class="card-region">Middle East &amp; Africa</span>
+          <span class="card-genre">Geography</span>
+        </div>
+        <span class="card-time">15h ago</span>
+      </div>
+      <h2 class="card-title">Trump says Iran&#x27;s handling of Strait of Hormuz is &#x27;not the agreement we have&#x27;</h2>
+      <p class="card-summary">The US president accused Iran of &quot;doing a very poor job&quot; with the waterway as Israel and Lebanon to begin peace talks. The US president accused Iran of &quot;doing a very poor job&quot; with the waterway as Israel and Lebanon to begin peace talks. Trump says Iran&#x27;s handling of Strait of Hormuz is &#x27;not the agreement we have&#x27; The US president accused Iran of &quot;doing a very poor job&quot; with the waterway as Israel and Lebanon to begin peace talks. Trump says Iran&#x27;s handling of Strait of Hormuz is &#x27;not the agreement we have&#x27;</p>
+      <div class="card-sources"><a class="card-source-chip" href="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">BBC World</a></div>
+    </div>
+  </article>
     </main>
 
     <!-- Sidebar -->
     <aside class="sidebar">
-      <section class="sidebar-section">
-        <h2 class="sidebar-heading">📚 Past Editions</h2>
-        <ul class="archive-list">
-          <li><a href="https://pulse.lavkesh.com/newsletters/2026-04-10-17.md">10 Apr 2026, 17:00 UTC</a></li>
-<li><a href="https://pulse.lavkesh.com/newsletters/2026-04-10-16.md">10 Apr 2026, 16:00 UTC</a></li>
-        </ul>
-      </section>
+      
       <section class="sidebar-section about-section">
         <h2 class="sidebar-heading">About GeoPulse</h2>
         <p>GeoPulse is my editorial desk for global affairs: concise, verified, and signal-first coverage for people who need context, not noise.</p>
@@ -457,6 +481,58 @@
       localStorage.setItem('gp-theme', next);
     });
 
+    // ── Local clock ──────────────────────────────────────────────
+    (function() {
+      const timeEl = document.getElementById('local-time');
+      const tzEl   = document.getElementById('local-tz');
+      function tick() {
+        const now = new Date();
+        if (timeEl) timeEl.textContent = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+        if (tzEl && !tzEl.textContent) {
+          try {
+            const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+            tzEl.textContent = tz.split('/').pop().replace(/_/g, ' ');
+          } catch (_) {}
+        }
+      }
+      tick();
+      setInterval(tick, 1000);
+    })();
+
+    // ── Accent picker ─────────────────────────────────────────────
+    const accentBtn  = document.getElementById('accent-btn');
+    const accentMenu = document.getElementById('accent-menu');
+    if (accentBtn && accentMenu) {
+      const savedAccent = localStorage.getItem('gp-accent') || '';
+      if (savedAccent) html.dataset.accent = savedAccent;
+      accentMenu.querySelectorAll('[role=option]').forEach(b => {
+        b.setAttribute('aria-selected', (b.dataset.accent || '') === savedAccent ? 'true' : 'false');
+      });
+      const closeMenu = () => {
+        accentMenu.hidden = true;
+        accentBtn.setAttribute('aria-expanded', 'false');
+      };
+      accentBtn.addEventListener('click', e => {
+        e.stopPropagation();
+        const isOpen = !accentMenu.hidden;
+        accentMenu.hidden = isOpen;
+        accentBtn.setAttribute('aria-expanded', String(!isOpen));
+      });
+      accentMenu.querySelectorAll('[role=option]').forEach(b => {
+        b.addEventListener('click', () => {
+          const v = b.dataset.accent || '';
+          if (v) { html.dataset.accent = v; } else { delete html.dataset.accent; }
+          localStorage.setItem('gp-accent', v);
+          accentMenu.querySelectorAll('[role=option]').forEach(x => x.setAttribute('aria-selected', 'false'));
+          b.setAttribute('aria-selected', 'true');
+          closeMenu();
+        });
+      });
+      document.addEventListener('click', e => {
+        if (!accentBtn.contains(e.target) && !accentMenu.contains(e.target)) closeMenu();
+      });
+    }
+
     // ── Region filter ────────────────────────────────────────────
     const tabs  = document.querySelectorAll('.filter-tab');
     const feed  = document.getElementById('card-feed');
@@ -477,10 +553,40 @@
     document.querySelectorAll('.card[data-url]').forEach(card => {
       card.addEventListener('click', e => {
         if (!e.target.closest('a')) {
-          window.open(card.dataset.url, '_blank', 'noopener,noreferrer');
+          const targetUrl = card.dataset.url || '';
+          try {
+            const parsed = new URL(targetUrl);
+            if (parsed.protocol !== 'http:' && parsed.protocol !== 'https:') return;
+          } catch (_) {
+            return;
+          }
+          window.open(targetUrl, '_blank', 'noopener,noreferrer');
         }
       });
     });
+
+    // ── Hide broken archive links/section ────────────────────────
+    (function() {
+      const anchors = Array.from(document.querySelectorAll('.archive-list a'));
+      if (!anchors.length) return;
+      const checks = anchors.map(async a => {
+        const li = a.closest('li');
+        try {
+          const res = await fetch(a.href, { method: 'HEAD', cache: 'no-store' });
+          if (!res.ok && li) li.remove();
+        } catch (_) {
+          if (li) li.remove();
+        }
+      });
+      Promise.all(checks).then(() => {
+        document.querySelectorAll('.archive-list').forEach(list => {
+          if (!list.querySelector('li')) {
+            const section = list.closest('.sidebar-section');
+            if (section) section.remove();
+          }
+        });
+      });
+    })();
   </script>
 
 </body>
