@@ -134,20 +134,71 @@ jobs:
 
           newsletter = Path("newsletter.json")
           index_file = Path("site/index.html")
+          hi_index_file = Path("site/hi/index.html")
 
           if not newsletter.exists() or not index_file.exists():
               raise SystemExit("Missing generated newsletter.json or site/index.html")
+          if not hi_index_file.exists():
+              raise SystemExit("Missing generated site/hi/index.html")
 
           data = json.loads(newsletter.read_text(encoding="utf-8"))
           count = int(data.get("article_count", 0))
+          generated_at = str(data.get("generated_at", "")).strip()
           index_html = index_file.read_text(encoding="utf-8")
+          hi_index_html = hi_index_file.read_text(encoding="utf-8")
 
           if count < 1:
               raise SystemExit("article_count is 0; homepage would have no news")
           if '<article class="card"' not in index_html:
-              raise SystemExit("No story cards found in generated homepage")
+              raise SystemExit("No story cards found in EN homepage")
+          if '<article class="card"' not in hi_index_html:
+              raise SystemExit("No story cards found in HI homepage")
 
-          print(f"Validated homepage content: {count} stories")
+          # Cross-check: every region that appears in newsletter.json HI
+          # articles must also appear in site/hi/index.html, and the same
+          # for EN. This catches the silent-success bug where summarize.py
+          # writes fresh output but generate_site.py fails to propagate it.
+          def regions_for(lang: str) -> set[str]:
+              out = set()
+              for a in data.get("articles", []):
+                  if a.get("language") != lang:
+                      continue
+                  if lang == "hi":
+                      tr = (a.get("translations", {}) or {}).get("hi", {}) or {}
+                      r = tr.get("region") or a.get("region")
+                  else:
+                      r = a.get("region")
+                  if r:
+                      out.add(str(r))
+              return out
+
+          hi_regions = regions_for("hi")
+          en_regions = regions_for("en")
+          missing_hi = [r for r in hi_regions if r and f'data-region="{r}"' not in hi_index_html]
+          missing_en = [r for r in en_regions if r and f'data-region="{r}"' not in index_html]
+          if missing_hi:
+              raise SystemExit(
+                  f"HI site/index missing regions from newsletter.json: {missing_hi}. "
+                  "generate_site.py probably did not regenerate the tree."
+              )
+          if missing_en:
+              raise SystemExit(
+                  f"EN site/index missing regions from newsletter.json: {missing_en}. "
+                  "generate_site.py probably did not regenerate the tree."
+              )
+
+          # Stale-output detector: if newsletter.json was clearly just written
+          # this run but site/index.html on disk is older, fail loudly.
+          import os, time
+          nl_mtime = os.path.getmtime(newsletter)
+          idx_mtime = os.path.getmtime(index_file)
+          if nl_mtime - idx_mtime > 60:
+              raise SystemExit(
+                  f"site/index.html is older than newsletter.json by "
+                  f"{nl_mtime - idx_mtime:.0f}s. Regeneration did not run."
+              )
+
+          print(f"Validated {count} stories, EN regions {sorted(en_regions)}, HI regions {sorted(hi_regions)}, generated_at {generated_at}")
           PY
 
       # ── 7. Commit generated files directly to main ──────────────────────
