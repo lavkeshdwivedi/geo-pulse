@@ -2666,4 +2666,68 @@ def main() -> None:
         # Require the title to be visibly Latin so odd unicode does not slip in.
         if title and not _is_latin_dominant(title):
             return False
-        # Summary is allowed to be t
+        # Summary is allowed to be thin, but if it exists it must be Latin.
+        return True
+
+    def _hindi_ok(a: dict) -> bool:
+        """Accept only articles with a genuine Hindi title and summary.
+
+        An article whose source is English but whose translation fell back to
+        English is rejected here so the Hindi page never shows Latin-script
+        headlines.
+        """
+        title = _title_of(a, "hi")
+        summary = _summary_of(a, "hi")
+        if not _is_devanagari_dominant(title):
+            return False
+        # If there is a summary, it must be Devanagari-dominant too.
+        if summary and not _is_devanagari_dominant(summary):
+            return False
+        return True
+
+    # Route each article to the correct site by language tag and by script.
+    # Strict filtering prevents English headlines from bleeding into the Hindi
+    # edition (when translation fell back) and vice versa.
+
+    en_articles = [a for a in articles if _english_ok(a)][:per_edition_cap]
+    hi_articles = [a for a in articles if _hindi_ok(a)][:per_edition_cap]
+    log.info(
+        "Rendering %d English and %d Hindi stories (cap %d per edition).",
+        len(en_articles), len(hi_articles), per_edition_cap,
+    )
+
+    archives = archive_newsletter(cfg, display_tz, language="en")
+    archives_hi = archive_newsletter(cfg, display_tz, language="hi")
+
+    html_out = build_html(en_articles, generated_at, archives, display_tz, language="en", digest=digest.get("en", ""))
+    with open(INDEX_PATH, "w", encoding="utf-8") as f:
+        f.write(html_out)
+    log.info("Wrote %s", INDEX_PATH)
+
+    html_hi_out = build_html(hi_articles, generated_at, archives_hi, display_tz, language="hi", digest=digest.get("hi", ""))
+    with open(HI_INDEX_PATH, "w", encoding="utf-8") as f:
+        f.write(html_hi_out)
+    log.info("Wrote %s", HI_INDEX_PATH)
+
+    rss_out = build_rss(en_articles, archives)
+    with open(FEED_PATH, "w", encoding="utf-8") as f:
+        f.write(rss_out)
+    log.info("Wrote %s", FEED_PATH)
+
+    write_nojekyll_marker()
+    log.info("Wrote %s", NOJEKYLL_PATH)
+
+    sync_cname_from_brand()
+
+    write_directory_guards()
+    log.info("Wrote directory index guards for archive paths")
+
+    # Section pages (About, Archive index, per-edition front pages). These
+    # run after the homepage so the site/ tree is in a known shape before
+    # they touch /newsletters/ and /archive/.
+    write_section_pages(archives, generated_at, language="en")
+    write_section_pages(archives_hi, generated_at, language="hi")
+
+
+if __name__ == "__main__":
+    main()
