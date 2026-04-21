@@ -160,14 +160,22 @@ ALL_REGIONS  = ["All", "Americas", "Asia-Pacific", "Europe & Russia",
 FILTER_REGIONS = ["Americas", "Asia-Pacific", "Europe & Russia",
                   "Middle East & Africa", "Global / Multilateral", "World"]
 
-HINDI_REGION_LABELS: dict[str, str] = {
-  "Middle East & Africa": "मध्य पूर्व और अफ्रीका",
-  "Europe & Russia": "यूरोप और रूस",
-  "Asia-Pacific": "एशिया-प्रशांत",
-  "Americas": "अमेरिका",
-  "Global / Multilateral": "वैश्विक / बहुपक्षीय",
-  "World": "विश्व",
-}
+# Region labels and per-language metadata live in scripts/languages.py now.
+# HINDI_REGION_LABELS stays as an alias for the many existing call sites.
+# Adding a new language (Spanish, French, etc.) is a one-block edit in
+# scripts/languages.py — see the "Add new languages here" marker there.
+from languages import (  # noqa: E402
+    LANGUAGES,
+    region_labels_for,
+    localize_region,
+    language_codes,
+    non_default_codes,
+    default_code,
+    site_subdir as lang_site_subdir,
+    display_name as lang_display_name,
+)
+
+HINDI_REGION_LABELS: dict[str, str] = region_labels_for("hi")
 
 SITE_COPY = {
   "en": {

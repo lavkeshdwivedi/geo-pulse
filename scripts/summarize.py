@@ -72,14 +72,12 @@ _SITE_URL_DISPLAY = _BRAND["site_url"].replace("https://", "").replace("http://"
 
 BASE_URL = _BRAND["site_url"]
 
-HINDI_REGION_LABELS: dict[str, str] = {
-    "Middle East & Africa": "मध्य पूर्व और अफ्रीका",
-    "Europe & Russia": "यूरोप और रूस",
-    "Asia-Pacific": "एशिया-प्रशांत",
-    "Americas": "अमेरिका",
-    "Global / Multilateral": "वैश्विक / बहुपक्षीय",
-    "World": "दुनिया",
-}
+# Region labels live in scripts/languages.py now so adding a new language
+# is one dict entry away. HINDI_REGION_LABELS stays as a name alias for the
+# many call sites throughout this module that already reference it.
+from languages import region_labels_for, localize_region, language_codes  # noqa: E402
+
+HINDI_REGION_LABELS: dict[str, str] = region_labels_for("hi")
 
 
 # Replace stiff machine phrases with day-to-day Hindi phrasing.
