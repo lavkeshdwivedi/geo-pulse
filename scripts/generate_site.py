@@ -1199,9 +1199,14 @@ def build_html(
     all_label = "All" if language == "en" else "सभी"
     tab_html = '<button type="button" class="filter-tab active" data-filter="All" aria-pressed="true">' + all_label + ' <span class="tab-count">' + str(count) + '</span></button>\n'
     for reg in FILTER_REGIONS:
-        n = sum(1 for a in articles if a.get("region") == reg)
         label = HINDI_REGION_LABELS.get(reg, reg) if language == "hi" else reg
-        tab_html += f'<button type="button" class="filter-tab" data-filter="{html.escape(reg)}" aria-pressed="false">{html.escape(label)} <span class="tab-count">{n}</span></button>\n'
+        # Article cards carry data-region as the localized label (see
+        # localized_articles loop above), so data-filter and the counter must
+        # match that localized key. Using the English canonical reg here would
+        # leave every pill at 0 on the Hindi page.
+        match_key = label
+        n = sum(1 for a in articles if a.get("region") == match_key)
+        tab_html += f'<button type="button" class="filter-tab" data-filter="{html.escape(match_key)}" aria-pressed="false">{html.escape(label)} <span class="tab-count">{n}</span></button>\n'
 
     secondary_href = "?view=editions"
     secondary_label = copy["hero_secondary_archive"]
@@ -2359,10 +2364,14 @@ def build_edition_html(edition_id: str, archive_meta: dict, stories: list[dict],
         f'aria-pressed="true">{all_label} <span class="tab-count">{story_total}</span></button>\n'
     )
     for reg in FILTER_REGIONS:
-        n = region_counts.get(reg, 0)
         label = HINDI_REGION_LABELS.get(reg, reg) if language == "hi" else reg
+        # region_counts keys are canonical English; the card data-region on
+        # the page may be the localized label. Use the localized label for
+        # data-filter so the JS filter actually matches card regions.
+        match_key = label
+        n = region_counts.get(reg, 0)
         tab_html += (
-            f'<button type="button" class="filter-tab" data-filter="{html.escape(reg)}" '
+            f'<button type="button" class="filter-tab" data-filter="{html.escape(match_key)}" '
             f'aria-pressed="false">{html.escape(label)} <span class="tab-count">{n}</span></button>\n'
         )
     cards_html = "\n".join(
