@@ -153,11 +153,12 @@ SITE_TAGLINE = "Hourly briefings with context."
 ALL_REGIONS  = ["All", "Americas", "Asia-Pacific", "Europe & Russia",
                 "Middle East & Africa", "Global / Multilateral", "World"]
 
-# Canonical filter-pill regions. "All" covers everything including the two
-# meta buckets "World" and "Global / Multilateral", so we don't render
-# separate pills for those. Same set on EN and HI for consistency.
+# Canonical filter-pill regions. We render a pill for every bucket including
+# the two "catch-all" ones (World and Global / Multilateral) so the sum of
+# pill counts reconciles with the All count. Same set on EN and HI for
+# consistency.
 FILTER_REGIONS = ["Americas", "Asia-Pacific", "Europe & Russia",
-                  "Middle East & Africa"]
+                  "Middle East & Africa", "Global / Multilateral", "World"]
 
 HINDI_REGION_LABELS: dict[str, str] = {
   "Middle East & Africa": "मध्य पूर्व और अफ्रीका",
