@@ -158,6 +158,7 @@ jobs:
           # articles must also appear in site/hi/index.html, and the same
           # for EN. This catches the silent-success bug where summarize.py
           # writes fresh output but generate_site.py fails to propagate it.
+          import html as _html
           def regions_for(lang: str) -> set[str]:
               out = set()
               for a in data.get("articles", []):
@@ -172,10 +173,20 @@ jobs:
                       out.add(str(r))
               return out
 
+          def _region_present(r: str, haystack: str) -> bool:
+              # Region names can contain "&" which gets HTML-escaped to "&amp;"
+              # in the rendered page. Accept either form so the check does not
+              # false-positive on entity encoding.
+              if f'data-region="{r}"' in haystack:
+                  return True
+              if f'data-region="{_html.escape(r)}"' in haystack:
+                  return True
+              return False
+
           hi_regions = regions_for("hi")
           en_regions = regions_for("en")
-          missing_hi = [r for r in hi_regions if r and f'data-region="{r}"' not in hi_index_html]
-          missing_en = [r for r in en_regions if r and f'data-region="{r}"' not in index_html]
+          missing_hi = [r for r in hi_regions if r and not _region_present(r, hi_index_html)]
+          missing_en = [r for r in en_regions if r and not _region_present(r, index_html)]
           if missing_hi:
               raise SystemExit(
                   f"HI site/index missing regions from newsletter.json: {missing_hi}. "
