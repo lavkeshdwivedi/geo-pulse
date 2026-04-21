@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="GeoPulse">
+  <defs>
+    <linearGradient id="ati" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e63946"/>
+      <stop offset="100%" stop-color="#a1121d"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="180" height="180" fill="url(#ati)"/>
+  <circle cx="90" cy="90" r="56" fill="#fff8ec"/>
+  <path d="M35 90 H50 L60 74 L74 116 L88 64 L100 90 H145" fill="none" stroke="#c0202e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="140" cy="50" r="7" fill="#fff8ec"/>
+  <circle cx="140" cy="50" r="3.5" fill="#e63946"/>
+</svg>

@@ -1,0 +1,202 @@
+# GeoPulse Configuration
+# All values can be overridden via environment variables.
+
+# Cron schedule for the GitHub Actions workflow (default: every hour)
+update_schedule: "0 * * * *"
+
+
+# ---------------------------------------------------------------------------
+# Brand & ownership — the bits a forker almost certainly wants to change.
+# These values are swapped into generated HTML, RSS metadata, and outbound
+# HTTP headers. Edit these once and the whole site rebrands.
+# ---------------------------------------------------------------------------
+brand:
+  # Editor / owner displayed in the header eyebrow, about block, and feed.xml.
+  editor_name: "Lavkesh Dwivedi"
+  editor_name_hi: "लवकेश द्विवेदी"
+  editor_website: "https://lavkesh.com"
+
+  # Public identity
+  site_title: "GeoPulse"
+  site_url: "https://pulse.lavkesh.com"
+
+  # Where the header language toggle points, relative to site_url.
+  # Set to "/" if you only run one language; default "/hi" sends to Hindi.
+  language_switch_path: "/hi"
+
+  # HTTP User-Agent sent on RSS fetches, article scraping, and stock image
+  # search. Publishers do read this. Keep a reachable contact URL inside it.
+  # Falls back to "GeoPulseTemplate/1.0" if this key is missing entirely.
+  user_agent: "GeoPulseByLavkesh/1.0 (+https://pulse.lavkesh.com)"
+
+  # Custom domain for GitHub Pages. Leave empty ("") to serve at the default
+  # <user>.github.io/<repo>/ URL. When set, generate_site.py writes this
+  # value to site/CNAME on every build. When empty, it removes any stale
+  # site/CNAME so a fork never inherits the original owner's domain.
+  custom_domain: "pulse.lavkesh.com"
+
+  # Social links rendered in the footer. Set any value to an empty string to
+  # hide that link from the rendered footer.
+  social:
+    linkedin: "https://linkedin.com/in/lavkesh"
+    x: "https://x.com/lavkeshdwivedi"
+    github: "https://github.com/lavkeshdwivedi"
+    instagram: "https://instagram.com/lavkeshdwivedi"
+    facebook: "https://facebook.com/lavkesh"
+    topmate: "https://topmate.io/lavkesh"
+
+# News sources to use. Options: "newsapi", "gdelt", "rss"
+# gdelt and rss require no API key.
+news_sources:
+  - rss
+
+# Additional NewsAPI source (requires NEWSAPI_KEY secret)
+# Uncomment the line below to enable:
+# - newsapi
+
+# Keywords used to filter/query geopolitics news (English, used by GDELT and NewsAPI)
+news_query: "geopolitics OR diplomacy OR sanctions OR conflict OR NATO OR United Nations OR international relations"
+
+# LLM provider for summarization. Free tier only.
+# Options:
+#   groq        — FREE. Llama 3.1 8B Instant via Groq. Needs GROQ_API_KEY secret.
+#                 Get a free key at console.groq.com. 14,400 req/day, 500k tok/day.
+#   gemini      — FREE. Gemini 2.0 Flash Lite via Google AI Studio. Needs GEMINI_API_KEY.
+#                 Get a free key at aistudio.google.com. 1,500 req/day, 1M tok/day.
+#   huggingface — FREE (anonymous). Mistral-7B-Instruct. Slow but no key needed.
+#                 Add HF_API_KEY secret for better rate limits.
+#   none        — No AI. Falls back to RSS description truncation.
+llm_provider: "groq"
+
+# LLM model to use (only relevant when llm_provider != "none")
+# groq best free options: llama-3.1-8b-instant (fastest), llama-3.3-70b-versatile (higher quality, 100k tok/day limit)
+# gemini best free options: gemini-2.0-flash-lite (fastest/free), gemini-1.5-flash (higher quality)
+llm_model: "llama-3.1-8b-instant"
+
+# Maximum number of stories published per language per run. 21 gives us one
+# featured lead plus a 20-card grid, which lines up cleanly on common column
+# counts so the last row never looks lopsided. Per-edition cap is also
+# enforced in generate_site.py.
+max_articles: 21
+
+# Archive pruning is disabled — every hourly edition is kept forever. Archive
+# markdown at /newsletters/ remains indexed by search engines even though the
+# homepage UI focuses on the latest edition only. Retained for backwards
+# compatibility with older generator versions; the current code ignores it.
+archive_days: 0
+
+# ---------------------------------------------------------------------------
+# English RSS feeds — reliable, English-language sources only.
+# Removed: FT (paywall), Politico (US-only), Brookings (infrequent/think tank),
+#          SCMP (paywalled/unreliable). Fixed duplicate source key on The Hindu.
+# ---------------------------------------------------------------------------
+english_rss_feeds:
+  # Global affairs
+  - url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+    source: "BBC World"
+  - url: "https://www.aljazeera.com/xml/rss/all.xml"
+    source: "Al Jazeera"
+  - url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    source: "NYT World"
+  - url: "https://www.theguardian.com/world/rss"
+    source: "The Guardian"
+  - url: "https://feeds.npr.org/1004/rss.xml"
+    source: "NPR World"
+  - url: "https://www.dw.com/en/top-stories/s-9097?maca=en-rss-en-top-1022-rdf"
+    source: "DW (English)"
+  - url: "https://thediplomat.com/feed/"
+    source: "The Diplomat"
+  - url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml"
+    source: "UN News"
+  - url: "https://feeds.skynews.com/feeds/rss/world.xml"
+    source: "Sky News World"
+  - url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"
+    source: "Channel News Asia"
+  # South Asian perspective (English)
+  - url: "https://www.thehindu.com/news/international/feeder/default.rss"
+    source: "The Hindu (International)"
+  - url: "https://indianexpress.com/section/world/feed/"
+    source: "Indian Express World"
+  - url: "https://feeds.feedburner.com/ndtvnews-world-news"
+    source: "NDTV World"
+# ---------------------------------------------------------------------------
+# Hindi RSS feeds — verified working, Hindi-language sources only.
+# Used exclusively for the Hindi newsletter. No translation needed.
+# ---------------------------------------------------------------------------
+hindi_rss_feeds:
+  - url: "https://www.bbc.com/hindi/index.xml"
+    source: "BBC Hindi"
+  - url: "https://rss.dw.com/xml/rss-hi-all"
+    source: "DW Hindi"
+  - url: "https://www.amarujala.com/rss/world-news.xml"
+    source: "Amar Ujala World"
+  - url: "https://www.amarujala.com/rss/national-news.xml"
+    source: "Amar Ujala National"
+  - url: "https://www.patrika.com/rss/world-news.xml"
+    source: "Patrika World"
+  - url: "https://www.patrika.com/rss/national-news.xml"
+    source: "Rajasthan Patrika"
+  # ABP Live removed: news.abplive.com/news/india/feed serves English content
+  # despite the "Hindi" label in their CMS, so every item gets script-rejected.
+  # The six feeds above plus the fallbacks cover the Hindi set well enough.
+# ---------------------------------------------------------------------------
+# Fallback RSS feeds — only pulled when primary set yields too few articles.
+# Separate per language so English fallbacks never appear in Hindi and vice versa.
+# ---------------------------------------------------------------------------
+english_fallback_rss_feeds:
+  # Only feeds NOT already in primary. Removed duplicates (DW, Sky News, Al Jazeera, SCMP).
+  - url: "https://www.thehindu.com/feeder/default.rss"
+    source: "The Hindu"
+  - url: "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"
+    source: "Hindustan Times India"
+  - url: "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms"
+    source: "Times of India World"
+  - url: "https://economictimes.indiatimes.com/rssfeedsdefault.cms"
+    source: "Economic Times"
+  - url: "https://feeds.feedburner.com/ndtvnews-india-news"
+    source: "NDTV India"
+
+hindi_fallback_rss_feeds:
+  - url: "https://navbharattimes.indiatimes.com/rss.cms"
+    source: "Navbharat Times"
+  - url: "https://www.livehindustan.com/rss/national.xml"
+    source: "Live Hindustan"
+  - url: "https://www.amarujala.com/rss/breaking-news.xml"
+    source: "Amar Ujala Breaking"
+
+# ---------------------------------------------------------------------------
+# Google News RSS queries — fetched on every run, no API key required.
+# Separate lists per language to ensure correct results.
+# ---------------------------------------------------------------------------
+english_gnews_queries:
+  - "geopolitics"
+  - "international relations"
+  - "diplomacy sanctions"
+  - "NATO conflict"
+  - "United Nations"
+  - "war ceasefire"
+  - "global security"
+
+hindi_gnews_queries:
+  - "भूराजनीति"
+  - "अंतरराष्ट्रीय संबंध"
+  - "युद्ध संघर्ष"
+  - "संयुक्त राष्ट्र"
+  - "कूटनीति"
+  - "विश्व समाचार"
+
+# Optional audience hooks to broaden English discovery.
+audience_hooks_enabled: true
+audience_hooks_max_per_feed: 3
+
+audience_hook_feeds:
+  # Different sources from primary list so hooks add new signal rather than duplicates.
+  # France 24 removed — feed consistently empty in practice.
+  - url: "https://rss.dw.com/xml/rss-en-world"
+    source: "DW World (English)"
+
+# geopulse-compatible hooks via Google News RSS search (English only).
+geopulse_hook_queries:
+  - "geopolitics"
+  - "world"
+  - "international relations"

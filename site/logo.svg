@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="GeoPulse logo">
+  <defs>
+    <linearGradient id="gpField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e63946"/>
+      <stop offset="100%" stop-color="#a1121d"/>
+    </linearGradient>
+    <radialGradient id="gpGlobe" cx="0.4" cy="0.35" r="0.9">
+      <stop offset="0%" stop-color="#fff8ec"/>
+      <stop offset="100%" stop-color="#ece4d2"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="512" rx="112" ry="112" fill="url(#gpField)"/>
+  <circle cx="256" cy="256" r="150" fill="url(#gpGlobe)"/>
+  <path d="M256 128 A160 160 0 0 1 256 384" fill="none" stroke="#8b0f1c" stroke-width="4" stroke-linecap="round" opacity="0.35"/>
+  <path d="M256 128 A160 160 0 0 0 256 384" fill="none" stroke="#8b0f1c" stroke-width="4" stroke-linecap="round" opacity="0.35"/>
+  <path d="M112 256 H400" stroke="#8b0f1c" stroke-width="4" stroke-linecap="round" opacity="0.35"/>
+  <path d="M120 256 L180 256 L210 200 L250 320 L290 180 L320 256 L400 256" fill="none" stroke="#c0202e" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="388" cy="148" r="18" fill="#fff8ec"/>
+  <circle cx="388" cy="148" r="9" fill="#e63946"/>
+</svg>

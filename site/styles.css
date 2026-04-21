@@ -1,0 +1,2139 @@
+/* ── Dark-first palette ──────────────────────────────────────────────────── */
+:root {
+  --bg: #05070d;
+  --bg-alt: #090c14;
+  --surface: rgba(9, 12, 20, 0.98);
+  --surface-strong: #0d1020;
+  --surface-hover: rgba(15, 18, 30, 1.0);
+  --border: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.16);
+  --text: #e8e4dd;
+  --text-sub: #b0a898;
+  --text-muted: #706860;
+  --accent: #e63946;
+  --accent-dark: #ff7380;
+  --accent-bg: rgba(230, 57, 70, 0.13);
+  --tag-bg: rgba(255, 255, 255, 0.05);
+  --tag-text: #c8c4bc;
+  --header-bg: rgba(5, 7, 13, 0.92);
+  --header-border: rgba(255, 255, 255, 0.08);
+  --footer-bg: #02030a;
+  --footer-text: #b0a898;
+  --shadow-sm: 0 14px 32px rgba(0, 0, 0, 0.45);
+  --shadow-md: 0 24px 64px rgba(0, 0, 0, 0.58);
+  --shadow-lg: 0 30px 80px rgba(0, 0, 0, 0.68);
+  --radius-sm: 16px;
+  --radius: 24px;
+  --radius-lg: 32px;
+  --font-sans: 'DM Sans', 'Segoe UI', sans-serif;
+  --font-serif: 'Fraunces', Georgia, serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+/* ── Light theme override ───────────────────────────────────────────────── */
+[data-theme="light"] {
+  --bg: #e9e5de;
+  --bg-alt: #e0dbd3;
+  --surface: rgba(238, 234, 226, 0.98);
+  --surface-strong: #ede9e2;
+  --surface-hover: rgba(224, 219, 211, 1.0);
+  --border: rgba(0, 0, 0, 0.10);
+  --border-strong: rgba(0, 0, 0, 0.19);
+  --text: #181612;
+  --text-sub: #4a4540;
+  --text-muted: #7a7470;
+  --accent: #c0202e;
+  --accent-dark: #9a1520;
+  --accent-bg: rgba(192, 32, 46, 0.08);
+  --tag-bg: rgba(0, 0, 0, 0.05);
+  --tag-text: #3a3830;
+  --header-bg: rgba(233, 229, 222, 0.94);
+  --header-border: rgba(0, 0, 0, 0.09);
+  --footer-bg: #05070d;
+  --footer-text: #b0a898;
+  --shadow-sm: 0 14px 32px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 24px 64px rgba(0, 0, 0, 0.13);
+  --shadow-lg: 0 30px 80px rgba(0, 0, 0, 0.18);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-sans);
+  color: var(--text);
+  line-height: 1.65;
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  transition: background 0.25s ease, color 0.25s ease;
+  overflow-x: hidden;
+}
+
+/* dot-grid overlay */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle, rgba(230, 57, 70, 0.05) 1px, transparent 1px);
+  background-size: 28px 28px;
+  mask-image: radial-gradient(ellipse 100% 100% at 50% 50%, black 30%, transparent 100%);
+}
+
+[data-theme="light"] body::before {
+  background-image: radial-gradient(circle, rgba(192, 32, 46, 0.055) 1px, transparent 1px);
+}
+
+body > * {
+  position: relative;
+  z-index: 1;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  left: 0.8rem;
+  top: 0.6rem;
+  z-index: 1200;
+  padding: 0.55rem 0.85rem;
+  border-radius: 0.6rem;
+  background: var(--text);
+  color: #ffffff;
+  text-decoration: none;
+  transform: translateY(-180%);
+  transition: transform 0.18s ease;
+}
+
+.skip-link:focus-visible {
+  transform: translateY(0);
+  outline-color: #ffffff;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  backdrop-filter: blur(18px);
+  background: var(--header-bg);
+  border-bottom: 1px solid var(--header-border);
+  box-shadow: 0 10px 30px rgba(29, 39, 56, 0.06);
+}
+
+.header-inner,
+.hero-shell,
+.filter-inner,
+.page-layout {
+  width: min(1240px, calc(100% - 32px));
+  margin: 0 auto;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 0 0.85rem;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.9rem;
+  flex: 1;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.brand:hover {
+  text-decoration: none;
+}
+
+.brand-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.9rem;
+  height: 2.9rem;
+  border-radius: 0.9rem;
+  overflow: hidden;
+  background: transparent;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
+  flex-shrink: 0;
+  aspect-ratio: 1 / 1;
+}
+
+.brand-logo {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.brand-copy {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.08rem;
+  min-width: 0;
+}
+
+.brand-eyebrow {
+  font-size: 0.69rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+/* When the eyebrow is a tagline sentence instead of a short label, relax the
+   typography so it reads as a subtitle rather than a caps-locked kicker. */
+.brand-eyebrow.brand-tagline {
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  text-transform: none;
+  color: var(--text-sub);
+}
+
+.brand-name {
+  font-family: var(--font-serif);
+  font-size: 1.55rem;
+  letter-spacing: -0.03em;
+  color: var(--text);
+  line-height: 1;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.header-time-group {
+  display: none;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.1rem;
+}
+
+.update-badge {
+  font-size: 0.74rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.local-clock {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--text-sub);
+}
+
+.clock-icon {
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
+.local-tz {
+  opacity: 0.72;
+}
+
+.header-link,
+.theme-btn {
+  min-height: 2.45rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.header-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.95rem;
+  color: var(--text);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: border-color 0.18s ease, color 0.18s ease, transform 0.18s ease;
+}
+
+.header-link:hover {
+  color: var(--accent);
+  border-color: var(--border-strong);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.language-switch {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 800;
+  flex-shrink: 0;          /* never let it get squeezed out */
+  white-space: nowrap;     /* never let the text wrap */
+  order: -1;               /* always first in right group so it stays reachable */
+}
+
+.theme-btn {
+  width: 2.45rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.18s ease, background 0.18s ease, border-color 0.18s ease;
+  padding: 0;
+}
+
+.theme-btn:hover {
+  transform: translateY(-1px);
+  background: var(--surface-hover);
+  border-color: var(--border-strong);
+}
+
+/* dark is default — hide the sun icon unless light theme is active */
+.light-icon { display: none; }
+[data-theme="light"] .dark-icon  { display: none; }
+[data-theme="light"] .light-icon { display: inline; }
+
+/* Archive picker. A small icon button that opens a scrollable list of the
+   last 30 archived editions. Reuses the header-link look for consistency. */
+.archive-picker {
+  position: relative;
+}
+
+.archive-picker-btn,
+.header-icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-sub);
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+}
+
+.header-icon-btn:hover,
+.header-icon-btn:focus-visible {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-bg);
+  outline: none;
+}
+
+.rss-subscribe svg {
+  display: block;
+}
+
+.archive-picker-btn:hover,
+.archive-picker-btn[aria-expanded="true"] {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-bg);
+}
+
+.archive-menu {
+  position: absolute;
+  top: calc(100% + 0.55rem);
+  right: 0;
+  z-index: 400;
+  min-width: 13rem;
+  max-height: 22rem;
+  overflow-y: auto;
+  padding: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  border: 1px solid var(--border);
+  border-radius: 0.85rem;
+  background: var(--surface-strong);
+  box-shadow: var(--shadow-md);
+}
+
+.archive-menu[hidden] {
+  display: none;
+}
+
+.archive-option {
+  appearance: none;
+  -webkit-appearance: none;
+  text-align: left;
+  padding: 0.4rem 0.65rem;
+  border: 0;
+  border-radius: 0.5rem;
+  background: transparent;
+  color: var(--text-sub);
+  font-family: inherit;
+  font-size: 0.82rem;
+  line-height: 1.3;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+
+.archive-option:hover,
+.archive-option:focus-visible {
+  background: var(--accent-bg);
+  color: var(--accent);
+  outline: none;
+}
+
+.archive-option.active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.archive-option-latest {
+  border-bottom: 1px solid var(--border);
+  border-radius: 0.5rem 0.5rem 0 0;
+  margin-bottom: 0.2rem;
+  padding-bottom: 0.5rem;
+}
+
+.tagline {
+  margin: 0;
+  padding: 0 0 0.95rem;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.hero-shell {
+  padding: 2rem 0 1.55rem;
+}
+
+.hero-grid {
+  /* Single column now that the right-side panel (coverage map / stat pills)
+     is gone. The hero card fills the full container width, which lines up
+     with .page-layout's left column below so the whole left edge of the
+     page shares one vertical axis. */
+  display: block;
+}
+
+.hero-copy,
+.hero-panel {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.34), rgba(255, 255, 255, 0.08)), var(--surface);
+  /* Softer shadow so the card's visual bleed outside its own bounding
+     box is minimal. With --shadow-md the hero looked wider than the
+     header container even though they align on exact pixels. */
+  box-shadow: var(--shadow-sm);
+}
+
+.hero-copy {
+  padding: clamp(1.7rem, 3vw, 2.6rem);
+}
+
+.hero-copy::before {
+  content: "";
+  position: absolute;
+  inset: auto -4.5rem -5rem auto;
+  width: 18rem;
+  height: 18rem;
+  border-radius: 999px;
+  background: radial-gradient(circle, var(--accent-bg) 0%, transparent 68%);
+}
+
+.hero-kicker,
+.section-kicker,
+.sidebar-eyebrow,
+.hero-panel-label {
+  margin: 0;
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.hero-title {
+  margin: 0.85rem 0 0;
+  max-width: 14ch;
+  font-family: var(--font-serif);
+  font-size: clamp(2.5rem, 6vw, 4.6rem);
+  line-height: 0.96;
+  letter-spacing: -0.05em;
+}
+
+.hero-description {
+  margin: 1rem 0 0;
+  max-width: 43rem;
+  color: var(--text-sub);
+  font-size: 1.04rem;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin-top: 1.5rem;
+}
+
+.hero-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0 1.2rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  font-weight: 700;
+  transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+}
+
+.hero-action:hover {
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.hero-action-primary {
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-dark) 100%);
+  color: #fff9f5;
+  box-shadow: 0 18px 40px rgba(230, 57, 70, 0.22);
+}
+
+.hero-action-secondary {
+  border-color: var(--border-strong);
+  background: rgba(255, 255, 255, 0.4);
+  color: var(--text);
+}
+
+.hero-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.hero-meta span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.2rem;
+  padding: 0 0.9rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.48);
+  border: 1px solid var(--border);
+  color: var(--text-sub);
+  font-size: 0.85rem;
+}
+
+.hero-panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.45rem;
+}
+
+.hero-panel-block {
+  padding: 1rem;
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.hero-stat-list {
+  list-style: none;
+  margin: 0.95rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.hero-stat-list li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--text);
+  gap: 1rem;
+  padding-bottom: 0.7rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.hero-stat-list li:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.hero-stat-list strong {
+  color: var(--text);
+  font-family: var(--font-mono);
+  font-size: 0.84rem;
+}
+
+.hero-genre-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 0.95rem;
+}
+
+.hero-genre-cloud span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 2rem;
+  padding: 0 0.85rem;
+  border-radius: 999px;
+  background: var(--accent-bg);
+  color: var(--text);
+  font-size: 0.82rem;
+}
+
+.hero-genre-cloud strong {
+  font-family: var(--font-mono);
+  font-size: 0.74rem;
+}
+
+.hero-panel-note {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.84rem;
+}
+
+.view-switch,
+.editions-view {
+  width: min(1240px, calc(100% - 32px));
+  margin: 0 auto;
+}
+
+.view-switch {
+  margin-top: 0.3rem;
+}
+
+.view-switch-inner {
+  display: inline-flex;
+  gap: 0.5rem;
+  padding: 0.3rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.48);
+}
+
+.view-tab {
+  min-height: 2.35rem;
+  padding: 0 0.95rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-sub);
+  font: inherit;
+  font-size: 0.84rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  transition: transform 0.18s ease, background 0.18s ease, color 0.18s ease;
+}
+
+.view-tab:hover {
+  transform: translateY(-1px);
+  color: var(--text);
+}
+
+.view-tab.active {
+  color: #fff9f5;
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-dark) 100%);
+  box-shadow: 0 12px 26px rgba(230, 57, 70, 0.22);
+}
+
+.view-tab.active .tab-count {
+  background: rgba(255, 255, 255, 0.16);
+  color: #fff9f5;
+}
+
+.filter-bar {
+  position: sticky;
+  top: 5.5rem;
+  z-index: 140;
+  backdrop-filter: blur(18px);
+  background: rgba(233, 229, 222, 0.72);
+  border-top: 1px solid rgba(255, 255, 255, 0.18);
+  border-bottom: 1px solid var(--header-border);
+}
+
+[data-theme="dark"] .filter-bar {
+  background: rgba(10, 17, 29, 0.72);
+}
+
+.filter-inner {
+  display: flex;
+  gap: 0.6rem;
+  padding: 0.85rem 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.filter-inner::-webkit-scrollbar {
+  display: none;
+}
+
+.filter-tab {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-height: 2.45rem;
+  padding: 0 1rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.45);
+  color: var(--text-sub);
+  font: inherit;
+  font-size: 0.86rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease, color 0.18s ease;
+}
+
+.filter-tab:hover {
+  transform: translateY(-1px);
+  color: var(--text);
+  border-color: var(--border-strong);
+}
+
+.filter-tab.active {
+  color: #fff9f5;
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-dark) 100%);
+  border-color: transparent;
+  box-shadow: 0 14px 30px rgba(230, 57, 70, 0.2);
+}
+
+.tab-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.65);
+  color: var(--text);
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.filter-tab.active .tab-count {
+  background: rgba(255, 255, 255, 0.16);
+  color: #fff9f5;
+}
+
+.page-layout {
+  /* Single column now that the About-GeoPulse sidebar is gone. Story feed
+     fills the full container width, matching the hero above it. */
+  display: block;
+  padding: 1.6rem 0 0;
+}
+
+.editions-view {
+  padding-top: 1.6rem;
+}
+
+.editions-shell {
+  max-width: 760px;
+  padding: 1.3rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.36), rgba(255, 255, 255, 0.08)), var(--surface);
+  box-shadow: var(--shadow-sm);
+}
+
+.archive-empty {
+  margin: 1rem 0 0;
+  color: var(--text-muted);
+}
+
+.content-column {
+  min-width: 0;
+}
+
+.feed-head {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.feed-title {
+  margin: 0.3rem 0 0;
+  font-family: var(--font-serif);
+  font-size: 2rem;
+  line-height: 1;
+  letter-spacing: -0.04em;
+}
+
+.feed-summary {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.86rem;
+}
+
+.card-feed {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+.empty-state,
+.empty-filter-state {
+  grid-column: 1 / -1;
+  margin: 0;
+  padding: 1.4rem 1.1rem;
+  border: 1px dashed var(--border-strong);
+  border-radius: var(--radius-sm);
+  text-align: center;
+  color: var(--text-muted);
+  background: rgba(255, 255, 255, 0.28);
+}
+
+.card-region-btn {
+  border: 0;
+  cursor: pointer;
+  font: inherit;
+  /* Sit above the stretched .card-link::after overlay so the region chip
+     stays clickable independently of the main card link. */
+  position: relative;
+  z-index: 2;
+}
+
+.card-region-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(230, 57, 70, 0.16);
+}
+
+.related-panel {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.related-heading {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 1.35rem;
+  letter-spacing: -0.03em;
+}
+
+.related-summary {
+  margin: 0.35rem 0 0;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.related-list {
+  list-style: none;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.related-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 0.8rem;
+  background: rgba(255, 255, 255, 0.36);
+}
+
+.related-item a {
+  color: var(--text);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.related-item a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.related-meta,
+.related-item-empty {
+  color: var(--text-muted);
+  font-size: 0.77rem;
+}
+
+.related-item-empty {
+  padding: 0.5rem 0;
+}
+
+.card {
+  position: relative;
+  grid-column: span 6;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.42), rgba(255, 255, 255, 0.06)), var(--surface);
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--border-strong);
+}
+
+.card[data-url] {
+  cursor: pointer;
+}
+
+/* Stretched card link.
+   The anchor wraps the title; its ::after overlay covers the whole card so
+   every pixel navigates. z-index keeps other text below the overlay but
+   visible, and the inner text stays selectable because the overlay is a
+   pseudo element, not a DOM wall. */
+.card-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.card-link::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  border-radius: inherit;
+}
+
+.card:has(.card-link:focus-visible) {
+  border-color: var(--accent);
+  box-shadow: var(--shadow-md);
+}
+
+.card-link:focus {
+  outline: none;
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: 100%;
+  height: 0.32rem;
+  background: linear-gradient(90deg, var(--accent), rgba(255, 255, 255, 0));
+  opacity: 0.65;
+}
+
+.card-img-wrap {
+  position: relative;
+  /* 16:9 matches the Open Graph spec most publishers follow, so the
+     stock og:image crops rarely get letterboxed. Tighter than 16:10,
+     which makes the card grid a touch denser on desktop. */
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  /* Soft fill behind images so any letterbox bars look intentional. */
+  background: rgba(15, 23, 42, 0.04);
+}
+
+.card-img-wrap::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  /* Lighter gradient now that images fit rather than crop. */
+  background: linear-gradient(180deg, rgba(15, 23, 42, 0), rgba(15, 23, 42, 0.06));
+}
+
+.card-img {
+  width: 100%;
+  height: 100%;
+  /* contain so we never crop text, captions, chart axes, or overlay
+     badges out of the source image. Letterbox fills with the wrap bg. */
+  object-fit: contain;
+  object-position: center;
+  transition: transform 0.35s ease;
+}
+
+.card:hover .card-img {
+  transform: scale(1.02);
+}
+
+.card-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 1rem;
+  min-width: 0;
+  padding: 1.4rem;
+}
+
+.card-meta-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.card-topic-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  min-width: 0;
+}
+
+.card-region,
+.card-genre {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.85rem;
+  padding: 0 0.75rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.card-region {
+  color: var(--accent);
+  background: var(--accent-bg);
+}
+
+.card-genre {
+  color: var(--tag-text);
+  background: var(--tag-bg);
+  border: 1px solid var(--border);
+}
+
+.card-time {
+  flex-shrink: 0;
+  color: var(--text-muted);
+  font-size: 0.76rem;
+  font-family: var(--font-mono);
+}
+
+.featured-kicker {
+  margin: -0.1rem 0 0;
+  color: var(--accent);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.card-title {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 1.12rem;
+  line-height: 1.18;
+  letter-spacing: -0.03em;
+  /* Titles are no longer truncated — let them run as many lines as they need.
+     Word-wrap keeps them readable without mid-word breaks on normal viewports. */
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: none;
+}
+
+.card-summary {
+  margin: 0;
+  color: var(--text-sub);
+  font-size: 0.91rem;
+  line-height: 1.55;
+  /* Summaries render in full — no line-clamp, no ellipsis. Cards may be
+     different heights as a result; that is the trade-off the user wants. */
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: none;
+}
+
+/* Devanagari glyphs have thinner strokes than Latin at the same font size.
+   Bumping the weight a notch on Hindi cards keeps the serif readable on
+   mid-range LCD panels. :lang() scopes the rule so English cards unchanged. */
+.card-summary:lang(hi),
+.card-title:lang(hi) {
+  font-weight: 500;
+}
+
+.card-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin-top: auto;
+  padding-top: 0.65rem;
+  border-top: 1px solid var(--border);
+}
+
+.card-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.card-source-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.9rem;
+  padding: 0 0.8rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.48);
+  color: var(--text-sub);
+  font-size: 0.74rem;
+  font-weight: 700;
+  transition: color 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+}
+
+.card-source-chip:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-bg);
+  text-decoration: none;
+}
+
+.card-open {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.card-open::after {
+  content: "\2197";
+  font-size: 0.85rem;
+}
+
+.featured-card {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(18rem, 0.95fr);
+}
+
+.featured-card .card-body {
+  padding: clamp(1.35rem, 2.8vw, 2rem);
+}
+
+.featured-card .card-img-wrap {
+  aspect-ratio: auto;
+  min-height: 100%;
+}
+
+.featured-card .card-title {
+  font-size: clamp(2rem, 4vw, 2.9rem);
+  display: block;
+  line-clamp: unset;
+  -webkit-line-clamp: unset;
+  -webkit-box-orient: initial;
+  overflow: visible;
+}
+
+.featured-card .card-summary {
+  font-size: 1rem;
+  display: block;
+  line-clamp: unset;
+  -webkit-line-clamp: unset;
+  -webkit-box-orient: initial;
+  overflow: visible;
+}
+
+.featured-card .card-footer {
+  flex-direction: row;
+  align-items: end;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.featured-card .card-open {
+  white-space: nowrap;
+}
+
+.no-image-card {
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.22), transparent 55%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.42), rgba(255, 255, 255, 0.06)),
+    var(--surface);
+}
+
+.sidebar {
+  position: sticky;
+  top: 8.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.sidebar-section {
+  padding: 1.2rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.34), rgba(255, 255, 255, 0.08)), var(--surface);
+  box-shadow: var(--shadow-sm);
+}
+
+.sidebar-heading {
+  margin: 0.4rem 0 0;
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+  line-height: 1.05;
+  letter-spacing: -0.04em;
+}
+
+.sidebar-copy,
+.about-section p {
+  margin: 0.8rem 0 0;
+  color: var(--text-sub);
+  font-size: 0.9rem;
+  line-height: 1.72;
+}
+
+.archive-list {
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.archive-list li a {
+  display: block;
+  padding: 0.8rem 0.95rem;
+  border-radius: 1rem;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.38);
+  color: var(--text-sub);
+  transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease, color 0.18s ease;
+}
+
+.archive-list li a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-bg);
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.sidebar-points {
+  margin: 0.9rem 0 0;
+  padding-left: 1rem;
+  color: var(--text-sub);
+}
+
+.sidebar-points li + li {
+  margin-top: 0.45rem;
+}
+
+.about-byline {
+  margin: 1rem 0 0;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+}
+
+.about-section {
+  background:
+    radial-gradient(circle at top right, var(--accent-bg) 0%, transparent 38%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.34), rgba(255, 255, 255, 0.08)),
+    var(--surface);
+}
+
+.profile-links {
+  list-style: none;
+  margin: 0.95rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.profile-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2rem;
+  padding: 0 0.8rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.38);
+  color: var(--text-sub);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.profile-links a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-bg);
+}
+
+.app-footer {
+  margin-top: 3rem;
+  padding: 1.4rem clamp(1rem, 4vw, 2.4rem) 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  background: linear-gradient(180deg, rgba(9, 11, 16, 0.92), var(--footer-bg));
+  color: var(--footer-text);
+}
+
+.app-footer p {
+  margin: 0;
+}
+
+.app-footer a {
+  color: inherit;
+}
+
+.footer-credit {
+  font-family: var(--font-mono, "JetBrains Mono", ui-monospace, monospace);
+  font-size: 0.82rem;
+  letter-spacing: 0.01em;
+  opacity: 0.78;
+}
+
+.footer-credit a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.18s ease, border-color 0.18s ease, opacity 0.18s ease;
+}
+
+.footer-credit a:hover,
+.footer-credit a:focus-visible {
+  color: var(--accent, #e63946);
+  border-bottom-color: currentColor;
+  opacity: 1;
+  outline: none;
+}
+
+.footer-social-links {
+  margin: 0;
+  display: inline-flex;
+  gap: 0.55rem;
+  align-items: center;
+}
+
+[data-theme="light"] .app-footer {
+  border-top-color: rgba(0, 0, 0, 0.08);
+}
+
+@media (max-width: 520px) {
+  .app-footer {
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+.footer-social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  color: #9fc6ff;
+  opacity: 0.75;
+  transition: opacity 0.18s ease, color 0.18s ease, transform 0.18s ease, background 0.18s ease;
+}
+
+.footer-social-icon:hover,
+.footer-social-icon:focus-visible {
+  opacity: 1;
+  color: var(--accent, #ff6a82);
+  background: rgba(255, 255, 255, 0.05);
+  transform: translateY(-1px);
+}
+
+.footer-social-icon svg {
+  display: block;
+}
+
+[data-theme="light"] .footer-social-icon {
+  color: #4a6c93;
+}
+
+[data-theme="light"] .footer-social-icon:hover,
+[data-theme="light"] .footer-social-icon:focus-visible {
+  color: var(--accent, #e63946);
+  background: rgba(0, 0, 0, 0.04);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(83, 97, 119, 0.35);
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(83, 97, 119, 0.55);
+}
+
+/* Accent picker — dark-optimised values are the base (dark is default) */
+[data-accent="azure"]    { --accent: #5ab0ff; --accent-dark: #82c5ff; --accent-bg: rgba(90, 176, 255, 0.16); }
+[data-accent="ocean"]    { --accent: #47c3ff; --accent-dark: #86d9ff; --accent-bg: rgba(71, 195, 255, 0.16); }
+[data-accent="emerald"]  { --accent: #21c58b; --accent-dark: #4edba8; --accent-bg: rgba(33, 197, 139, 0.16); }
+[data-accent="mint"]     { --accent: #3dd5c7; --accent-dark: #74e9de; --accent-bg: rgba(61, 213, 199, 0.16); }
+[data-accent="ember"]    { --accent: #f08a3e; --accent-dark: #ffb37b; --accent-bg: rgba(240, 138, 62, 0.16); }
+[data-accent="sunset"]   { --accent: #ff9a50; --accent-dark: #ffc187; --accent-bg: rgba(255, 154, 80, 0.16); }
+[data-accent="gold"]     { --accent: #e0b235; --accent-dark: #f2cb71; --accent-bg: rgba(224, 178, 53, 0.16); }
+[data-accent="violet"]   { --accent: #b67cff; --accent-dark: #cfabff; --accent-bg: rgba(182, 124, 255, 0.16); }
+[data-accent="lavender"] { --accent: #cf95ff; --accent-dark: #e0bdff; --accent-bg: rgba(207, 149, 255, 0.16); }
+[data-accent="rose"]     { --accent: #ff84bf; --accent-dark: #ffaad2; --accent-bg: rgba(255, 132, 191, 0.16); }
+[data-accent="storm"]    { --accent: #8690ff; --accent-dark: #afb7ff; --accent-bg: rgba(134, 144, 255, 0.16); }
+[data-accent="slate"]    { --accent: #b1becf; --accent-dark: #d5dfeb; --accent-bg: rgba(177, 190, 207, 0.16); }
+
+/* Accent picker — light theme overrides (deeper, lower-chroma for white bg) */
+[data-accent="azure"][data-theme="light"]    { --accent: #0060a8; --accent-dark: #004e8c; --accent-bg: rgba(0, 96, 168, 0.09); }
+[data-accent="ocean"][data-theme="light"]    { --accent: #0284c7; --accent-dark: #0369a1; --accent-bg: rgba(2, 132, 199, 0.09); }
+[data-accent="emerald"][data-theme="light"]  { --accent: #059669; --accent-dark: #047857; --accent-bg: rgba(5, 150, 105, 0.09); }
+[data-accent="mint"][data-theme="light"]     { --accent: #0d9488; --accent-dark: #0f766e; --accent-bg: rgba(13, 148, 136, 0.09); }
+[data-accent="ember"][data-theme="light"]    { --accent: #b84a08; --accent-dark: #9a3c04; --accent-bg: rgba(184, 74, 8, 0.09); }
+[data-accent="sunset"][data-theme="light"]   { --accent: #c2410c; --accent-dark: #9a3412; --accent-bg: rgba(194, 65, 12, 0.09); }
+[data-accent="gold"][data-theme="light"]     { --accent: #b45309; --accent-dark: #92400e; --accent-bg: rgba(180, 83, 9, 0.09); }
+[data-accent="violet"][data-theme="light"]   { --accent: #7c3aed; --accent-dark: #6d28d9; --accent-bg: rgba(124, 58, 237, 0.09); }
+[data-accent="lavender"][data-theme="light"] { --accent: #7e22ce; --accent-dark: #6b21a8; --accent-bg: rgba(126, 34, 206, 0.09); }
+[data-accent="rose"][data-theme="light"]     { --accent: #be185d; --accent-dark: #9d174d; --accent-bg: rgba(190, 24, 93, 0.09); }
+[data-accent="storm"][data-theme="light"]    { --accent: #4338ca; --accent-dark: #3730a3; --accent-bg: rgba(67, 56, 202, 0.09); }
+[data-accent="slate"][data-theme="light"]    { --accent: #475569; --accent-dark: #334155; --accent-bg: rgba(71, 85, 105, 0.09); }
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@media (min-width: 720px) {
+  .header-time-group {
+    display: flex;
+  }
+}
+
+@media (max-width: 1100px) {
+  .hero-grid,
+  .page-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: static;
+  }
+}
+
+@media (max-width: 900px) {
+  .card-feed {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+
+  .card {
+    grid-column: span 1;
+  }
+
+  .featured-card {
+    grid-column: 1 / -1;
+    grid-template-columns: 1fr;
+  }
+
+  .featured-card .card-img-wrap {
+    min-height: 16rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .card-feed {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .card,
+  .featured-card {
+    grid-column: 1 / -1;
+  }
+
+}
+
+@media (max-width: 720px) {
+  .header-inner,
+  .hero-shell,
+  .view-switch,
+  .editions-view,
+  .filter-inner,
+  .page-layout {
+    width: min(1240px, calc(100% - 24px));
+  }
+
+  .header-inner {
+    padding-top: 0.8rem;
+  }
+
+  .tagline {
+    padding-bottom: 0.8rem;
+    font-size: 0.72rem;
+  }
+
+  .brand {
+    gap: 0.75rem;
+  }
+
+  .brand-mark {
+    width: 2.8rem;
+    height: 2.8rem;
+  }
+
+  .brand-name {
+    font-size: 1.3rem;
+  }
+
+  .brand-eyebrow {
+    font-size: 0.62rem;
+  }
+
+  .filter-bar {
+    top: 4.9rem;
+  }
+
+  .feed-head {
+    flex-direction: column;
+    align-items: start;
+  }
+
+  .hero-title {
+    max-width: none;
+  }
+}
+
+@media (max-width: 560px) {
+  .header-right {
+    gap: 0.5rem;
+  }
+
+  .header-link {
+    display: none;
+  }
+
+  /* Language switch stays fully visible on all small phones */
+  .language-switch {
+    display: inline-flex !important;
+    padding: 0 0.75rem;
+    min-height: 2.2rem;
+    font-size: 0.73rem;
+    letter-spacing: 0.07em;
+  }
+
+  .hero-copy,
+  .hero-panel,
+  .sidebar-section {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .card-body {
+    padding: 1.1rem;
+  }
+
+  .card-title {
+    font-size: 1.04rem;
+  }
+
+  .featured-card .card-title {
+    font-size: 1.7rem;
+  }
+
+  .featured-card .card-footer {
+    flex-direction: column;
+    align-items: start;
+  }
+
+  .profile-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 420px) {
+  .theme-btn {
+    width: 2.2rem;
+    min-height: 2.2rem;
+  }
+
+  /* Keep the switch readable on the smallest phones (≤420px) */
+  .language-switch {
+    display: inline-flex !important;
+    padding: 0 0.65rem;
+    min-height: 2rem;
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+  }
+
+  .hero-actions,
+  .hero-meta {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero-action,
+  .hero-meta span,
+  .filter-tab {
+    justify-content: center;
+  }
+
+  .profile-links {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* ── Editor's note (LLM-generated digest sits above the hero actions) ─── */
+.editor-note {
+  margin: 1.1rem 0 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.28);
+  max-width: 42rem;
+}
+[data-theme="dark"] .editor-note {
+  background: rgba(255, 255, 255, 0.035);
+}
+.editor-note-label {
+  margin: 0 0 0.35rem;
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.editor-note-body {
+  margin: 0;
+  color: var(--text);
+  font-family: var(--font-serif);
+  font-size: 1.02rem;
+  line-height: 1.55;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+}
+
+/* ── Install app button, matches the other hero actions ──────────────── */
+.hero-action-install {
+  border-color: var(--accent);
+  background: rgba(255, 255, 255, 0.4);
+  color: var(--accent);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+[data-theme="dark"] .hero-action-install {
+  background: rgba(255, 255, 255, 0.06);
+}
+.hero-action-install:hover {
+  background: var(--accent-bg);
+  transform: translateY(-1px);
+}
+.hero-install-hint {
+  margin: 0.8rem 0 0;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  line-height: 1.55;
+  max-width: 34rem;
+}
+
+/* Keep the local-tz line in the hero panel subtle. */
+.hero-panel-localtz {
+  display: inline-block;
+  margin-left: 0.2rem;
+  color: var(--text-muted);
+}
+
+/* ── Hidden attribute honours itself across all components ──────────── */
+[hidden] { display: none !important; }
+
+/* ── Mobile polish ─────────────────────────────────────────────────── */
+@media (max-width: 720px) {
+  /* Smaller app-header so hero isn't pushed off-screen. */
+  .app-header { box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12); }
+  .header-inner { padding-top: 0.7rem; padding-bottom: 0.6rem; gap: 0.5rem; }
+  .brand { gap: 0.6rem; }
+  .brand-mark { width: 2.4rem; height: 2.4rem; border-radius: 0.75rem; }
+  .brand-logo { width: 100%; height: 100%; }
+  .brand-name { font-size: 1.15rem; }
+  .brand-eyebrow { font-size: 0.58rem; letter-spacing: 0.12em; }
+  .tagline { padding-bottom: 0.6rem; font-size: 0.66rem; letter-spacing: 0.08em; }
+
+  /* Hero pair: give the content card breathing room, soften the heavy radius. */
+  .hero-shell { padding: 1.25rem 0 1rem; }
+  .hero-grid { gap: 1rem; }
+  .hero-copy, .hero-panel { border-radius: 1.2rem; box-shadow: var(--shadow-sm); }
+  .hero-copy { padding: 1.25rem; }
+  .hero-title { font-size: clamp(1.9rem, 9vw, 2.6rem); line-height: 1; max-width: none; }
+  .hero-description { font-size: 0.94rem; margin-top: 0.7rem; }
+  .hero-kicker { font-size: 0.66rem; letter-spacing: 0.12em; }
+  .editor-note { padding: 0.85rem 0.95rem; margin-top: 0.9rem; }
+  .editor-note-body { font-size: 0.94rem; }
+
+  /* Stack the action buttons full-width so they're easy to tap. */
+  .hero-actions { gap: 0.6rem; margin-top: 1.1rem; flex-direction: column; align-items: stretch; }
+  .hero-action { min-height: 2.75rem; justify-content: center; padding: 0 1rem; font-size: 0.95rem; }
+  .hero-install-hint { font-size: 0.78rem; margin-top: 0.6rem; }
+
+  /* Meta pills: tighter and centered so they don't look oversized. */
+  .hero-meta { gap: 0.45rem; margin-top: 1rem; justify-content: flex-start; }
+  .hero-meta span { min-height: 1.9rem; padding: 0 0.75rem; font-size: 0.78rem; }
+
+  /* Panel with coverage map + genres: compact, less padded, no giant radius. */
+  .hero-panel { padding: 1.1rem; gap: 0.75rem; border-radius: 1.2rem; }
+  .hero-panel-block { padding: 0.8rem; border-radius: 0.9rem; }
+  .hero-panel-label { font-size: 0.66rem; letter-spacing: 0.12em; }
+  .hero-stat-list { margin-top: 0.65rem; gap: 0.5rem; }
+  .hero-stat-list li { padding-bottom: 0.5rem; font-size: 0.88rem; }
+  .hero-genre-cloud { margin-top: 0.6rem; gap: 0.4rem; }
+  .hero-genre-cloud span { min-height: 1.75rem; font-size: 0.76rem; padding: 0 0.7rem; }
+  .hero-panel-note { font-size: 0.78rem; line-height: 1.5; }
+
+  /* Sticky filter bar: tighter top, tighter pills so the scan stays above the fold. */
+  .filter-bar { top: 4.4rem; }
+  .filter-inner { padding: 0.6rem 0; gap: 0.4rem; }
+  .filter-tab { min-height: 2.1rem; padding: 0 0.75rem; font-size: 0.78rem; }
+  .tab-count { min-width: 1.3rem; height: 1.3rem; font-size: 0.66rem; }
+
+  /* Story feed head: single column, bigger hit target for the latest/editions toggle. */
+  .feed-head { flex-direction: column; align-items: flex-start; gap: 0.4rem; }
+  .feed-title { font-size: 1.55rem; }
+  .feed-summary { font-size: 0.8rem; }
+  .view-tab { min-height: 2.15rem; padding: 0 0.8rem; font-size: 0.78rem; }
+
+  /* Cards: single column, tighter padding, clamp summary hard to save height. */
+  .card-feed { grid-template-columns: 1fr; gap: 0.85rem; }
+  .card { grid-column: 1 / -1; border-radius: 1.2rem; }
+  .card-body { padding: 1rem; gap: 0.75rem; }
+  .card-img-wrap { aspect-ratio: 16 / 9; }
+  .card-meta-top { gap: 0.45rem; }
+  .card-region, .card-genre { min-height: 1.65rem; padding: 0 0.6rem; font-size: 0.66rem; }
+  .card-time { font-size: 0.72rem; }
+  .card-title { font-size: 1.04rem; line-height: 1.22; }
+  .card-summary { font-size: 0.88rem; line-height: 1.55; }
+  .featured-card { grid-template-columns: 1fr; }
+  .featured-card .card-title { font-size: 1.55rem; line-clamp: unset; -webkit-line-clamp: unset; }
+  .featured-card .card-img-wrap { aspect-ratio: 16 / 10; min-height: 0; }
+  .featured-card .card-footer { flex-direction: column; align-items: flex-start; gap: 0.6rem; }
+
+  /* Sidebar: drop the sticky behaviour and wrap nicely below the feed. */
+  .page-layout { gap: 1rem; padding-top: 1rem; }
+  .sidebar { position: static; gap: 0.85rem; }
+  .sidebar-section { padding: 1rem; border-radius: 1.2rem; }
+  .sidebar-heading { font-size: 1.2rem; }
+  .sidebar-copy, .about-section p, .sidebar-points { font-size: 0.86rem; }
+  .archive-list li a { padding: 0.65rem 0.8rem; font-size: 0.84rem; }
+  .profile-links a { min-height: 1.85rem; padding: 0 0.7rem; font-size: 0.74rem; }
+
+  /* Footer: tidy, not cramped. */
+  .app-footer { padding: 1.5rem 1rem 1.9rem; font-size: 0.82rem; }
+  .footer-social-links { font-size: 0.78rem; }
+}
+
+/* Tiny screens (≤380px) get one more round of trimming. */
+@media (max-width: 380px) {
+  .hero-copy { padding: 1rem; }
+  .hero-panel { padding: 0.9rem; }
+  .card-body { padding: 0.85rem; }
+  .card-title { font-size: 0.98rem; }
+  .card-summary { font-size: 0.84rem; }
+  .featured-card .card-title { font-size: 1.35rem; }
+  .brand-name { font-size: 1.05rem; }
+}
+
+/* ── Mobile: drop the hero-panel and the edition timestamp chip ────── */
+@media (max-width: 720px) {
+  .hero-panel { display: none; }
+  .hero-grid { grid-template-columns: 1fr; }
+  .hero-kicker-stamp { display: none; }
+}
+
+
+/* ── Hindi typography: Devanagari needs more vertical air and a softer
+   serif. Titles use Tiro Devanagari Hindi, which reads like a book face.
+   Body copy uses Noto Sans Devanagari at a slightly larger size so the
+   matras and bindis do not crowd each other. Scoped so English pages
+   stay untouched. ─────────────────────────────────────────────────────── */
+html[lang="hi"] body,
+[lang="hi"] {
+  font-family: 'Noto Sans Devanagari', 'DM Sans', 'Segoe UI', sans-serif;
+  line-height: 1.8;
+}
+
+html[lang="hi"] .card-title,
+[lang="hi"] .card-title {
+  font-family: 'Tiro Devanagari Hindi', 'Noto Serif Devanagari', Georgia, serif;
+  font-size: 1.22rem;
+  line-height: 1.55;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+html[lang="hi"] .card-summary,
+[lang="hi"] .card-summary {
+  font-family: 'Noto Sans Devanagari', 'DM Sans', 'Segoe UI', sans-serif;
+  font-size: 0.98rem;
+  line-height: 1.85;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+html[lang="hi"] .card-body,
+[lang="hi"] .card-body {
+  gap: 1.1rem;
+}
+
+html[lang="hi"] .featured-card .card-title,
+[lang="hi"] .featured-card .card-title {
+  font-family: 'Tiro Devanagari Hindi', 'Noto Serif Devanagari', Georgia, serif;
+  font-size: clamp(1.9rem, 3.6vw, 2.55rem);
+  line-height: 1.45;
+}
+
+html[lang="hi"] .featured-card .card-summary,
+[lang="hi"] .featured-card .card-summary {
+  font-size: 1.05rem;
+  line-height: 1.9;
+}
+
+html[lang="hi"] .feed-title,
+html[lang="hi"] .hero-title,
+html[lang="hi"] .sidebar-heading,
+[lang="hi"] .feed-title,
+[lang="hi"] .hero-title,
+[lang="hi"] .sidebar-heading {
+  font-family: 'Tiro Devanagari Hindi', 'Noto Serif Devanagari', Georgia, serif;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+html[lang="hi"] .editor-note-body,
+[lang="hi"] .editor-note-body {
+  font-family: 'Noto Sans Devanagari', 'DM Sans', 'Segoe UI', sans-serif;
+  line-height: 1.85;
+}
+
+@media (max-width: 720px) {
+  html[lang="hi"] .card-title,
+  [lang="hi"] .card-title {
+    font-size: 1.12rem;
+    line-height: 1.5;
+  }
+  html[lang="hi"] .card-summary,
+  [lang="hi"] .card-summary {
+    font-size: 0.92rem;
+    line-height: 1.75;
+  }
+  html[lang="hi"] .featured-card .card-title,
+  [lang="hi"] .featured-card .card-title {
+    font-size: 1.55rem;
+    line-height: 1.45;
+  }
+}
+
+@media (max-width: 380px) {
+  html[lang="hi"] .card-title,
+  [lang="hi"] .card-title { font-size: 1.05rem; }
+  html[lang="hi"] .card-summary,
+  html[lang="hi"] .card-summary,
+  [lang="hi"] .card-summary { font-size: 0.88rem; line-height: 1.7; }
+}
+
+/* ── Section pages (About, Archive, per-Edition) ───────────────────── */
+.section-main {
+  /* Match the homepage's .page-layout container width so the left edge of
+     section content aligns with the header logo. Previously this was a
+     narrower centered column, which made About/Archive feel floaty and
+     mis-aligned against the header. */
+  width: min(1240px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: clamp(1.5rem, 5vw, 3rem) 0 3rem;
+}
+.section-shell {
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+  /* Card treatment matches the homepage hero and story cards: soft cream
+     surface with rounded corners, subtle border, inner padding. Keeps
+     visual consistency across the site instead of About/Archive feeling
+     like a flat text page stapled onto the cream background. */
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0.15)), var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius, 1.4rem);
+  padding: clamp(1.5rem, 4vw, 2.5rem) clamp(1.5rem, 4vw, 2.5rem);
+  box-shadow: var(--shadow-sm);
+}
+.section-eyebrow {
+  font-family: var(--font-mono, "JetBrains Mono", ui-monospace, monospace);
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent, #e63946);
+  margin: 0;
+}
+.section-heading {
+  font-family: var(--font-serif, Fraunces, Georgia, serif);
+  font-weight: 400;
+  font-size: clamp(1.9rem, 4vw, 2.8rem);
+  line-height: 1.15;
+  margin: 0;
+}
+.section-lede {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  opacity: 0.85;
+  margin: 0;
+  max-width: 60ch;
+}
+.section-body {
+  font-size: 1rem;
+  line-height: 1.7;
+  /* Cap reading column inside the wider 1240px card so paragraphs stay
+     in a comfortable 70-character measure. Heading, eyebrow and the
+     surrounding card still fill the full card width. */
+  max-width: 72ch;
+}
+.section-body p + p {
+  margin-top: 0.9rem;
+}
+.section-back {
+  margin-top: 1.8rem;
+  font-family: var(--font-mono, "JetBrains Mono", ui-monospace, monospace);
+  font-size: 0.85rem;
+}
+.section-back-link {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(127, 127, 127, 0.35);
+  padding-bottom: 2px;
+  transition: color 0.18s ease, border-color 0.18s ease;
+}
+.section-back-link:hover,
+.section-back-link:focus-visible {
+  color: var(--accent, #e63946);
+  border-bottom-color: currentColor;
+  outline: none;
+}
+.sidebar-cta {
+  margin-top: 0.75rem;
+  font-family: var(--font-mono, "JetBrains Mono", ui-monospace, monospace);
+  font-size: 0.82rem;
+}
+.sidebar-link {
+  color: var(--accent, #e63946);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.18s ease;
+}
+.sidebar-link:hover,
+.sidebar-link:focus-visible {
+  border-bottom-color: currentColor;
+  outline: none;
+}
+
+/* Archive listing page ------------------------------------------------ */
+.archive-entry-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.75rem;
+}
+.archive-entry {
+  margin: 0;
+}
+.archive-entry-link {
+  display: block;
+  padding: 0.75rem 1rem;
+  border: 1px solid rgba(127, 127, 127, 0.25);
+  border-radius: 10px;
+  font-family: var(--font-mono, "JetBrains Mono", ui-monospace, monospace);
+  font-size: 0.88rem;
+  color: inherit;
+  text-decoration: none;
+  transition: border-color 0.18s ease, color 0.18s ease, background 0.18s ease;
+}
+.archive-entry-link:hover,
+.archive-entry-link:focus-visible {
+  border-color: var(--accent, #e63946);
+  color: var(--accent, #e63946);
+  outline: none;
+}
+.archive-empty {
+  margin: 1rem 0 0;
+  opacity: 0.7;
+}
+
+/* Footer nav row (About · Archive) ------------------------------------ */
+.footer-nav {
+  font-family: var(--font-mono, "JetBrains Mono", ui-monospace, monospace);
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+  opacity: 0.82;
+  display: inline-flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+.footer-nav-link {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.18s ease, border-color 0.18s ease, opacity 0.18s ease;
+}
+.footer-nav-link:hover,
+.footer-nav-link:focus-visible {
+  color: var(--accent, #e63946);
+  border-bottom-color: currentColor;
+  outline: none;
+}
+.footer-nav-sep {
+  opacity: 0.5;
+}
+
+/* Per-edition hero tweaks --------------------------------------------- */
+.edition-hero .hero-kicker-stamp {
+  color: var(--accent, #e63946);
+}
+.edition-back {
+  margin: 2rem auto 0;
+  max-width: min(920px, calc(100% - 2rem));
+}
+
+/* ── Dark-mode contrast bumps ─────────────────────────────────────────
+   The base rules use light rgba(255,255,255,...) backgrounds for pill-shaped
+   capsules (filter tabs, hero meta, archive entries). That reads fine on the
+   light theme, but on dark the same translucent white washes out the text
+   and the whole row feels muted. These overrides replace those backgrounds
+   with darker tones and pull text up to full --text so capsules and hero
+   copy stay legible in dark mode. */
+[data-theme="dark"] .filter-tab {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--text);
+  border-color: var(--border);
+}
+[data-theme="dark"] .filter-tab:hover {
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--accent-dark);
+}
+[data-theme="dark"] .filter-tab .tab-count {
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--text);
+}
+[data-theme="dark"] .filter-tab.active {
+  color: #fff9f5;
+}
+[data-theme="dark"] .filter-tab.active .tab-count {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff9f5;
+}
+[data-theme="dark"] .hero-meta span {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--text);
+  border-color: var(--border);
+}
+[data-theme="dark"] .hero-description {
+  color: var(--text);
+  opacity: 0.88;
+}
+[data-theme="dark"] .hero-panel-note {
+  color: var(--text-sub);
+}
+[data-theme="dark"] .editor-note-body {
+  color: var(--text);
+}
+[data-theme="dark"] .archive-entry-link {
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text);
+  border-color: var(--border);
+}
+[data-theme="dark"] .archive-entry-link:hover,
+[data-theme="dark"] .archive-entry-link:focus-visible {
+  background: var(--accent-bg);
+  color: var(--accent-dark);
+  border-color: var(--accent);
+}
+[data-theme="dark"] .hero-action-secondary {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--text);
+  border-color: var(--border-strong);
+}
+[data-theme="dark"] .hero-genre-cloud span,
+[data-theme="dark"] .card-source-chip,
+[data-theme="dark"] .profile-links a,
+[data-theme="dark"] .archive-list li a {
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text);
+  border-color: var(--border);
+}
+[data-theme="dark"] .archive-option {
+  color: var(--text);
+}
+[data-theme="dark"] .archive-option:hover,
+[data-theme="dark"] .archive-option:focus-visible {
+  color: var(--accent-dark);
+}
+[data-theme="dark"] .view-switch-inner {
+  background: rgba(255, 255, 255, 0.05);
+}
+[data-theme="dark"] .view-tab {
+  color: var(--text);
+}
+[data-theme="dark"] .editor-note {
+  background: rgba(255, 255, 255, 0.04);
+}
+[data-them

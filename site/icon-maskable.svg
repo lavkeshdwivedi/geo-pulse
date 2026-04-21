@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="GeoPulse">
+  <defs>
+    <linearGradient id="mb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e63946"/>
+      <stop offset="100%" stop-color="#a1121d"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="512" fill="url(#mb)"/>
+  <g transform="translate(256 256) scale(0.66) translate(-256 -256)">
+    <circle cx="256" cy="256" r="150" fill="#fff8ec"/>
+    <path d="M120 256 L180 256 L210 200 L250 320 L290 180 L320 256 L400 256" fill="none" stroke="#c0202e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="388" cy="148" r="20" fill="#fff8ec"/>
+    <circle cx="388" cy="148" r="10" fill="#e63946"/>
+  </g>
+</svg>
