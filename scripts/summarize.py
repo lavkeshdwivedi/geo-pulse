@@ -1529,3 +1529,67 @@ def main() -> None:
 
     # ── Enrich Hindi articles (already in Hindi, no translation needed) ───────
     hi_enriched: list[dict] = []
+    for art, summary in zip(hi_articles, hi_summaries):
+        final_summary = ensure_summary_constraints(summary, art)
+        region = classify_region(art)
+        hi_enriched.append({
+            "title":        decode_entities(art.get("title", "")),
+            "url":          art.get("url", ""),
+            "source":       decode_entities(art.get("source", "")),
+            "sources":      art.get("sources", []),
+            "published_at": art.get("published_at", ""),
+            "image_url":    art.get("image_url", ""),
+            "summary":      final_summary,
+            "region":       region,
+            "language":     "hi",
+            # translations.hi mirrors the article itself, it is already in Hindi.
+            "translations": {
+                "hi": {
+                    "title":  decode_entities(art.get("title", "")),
+                    "summary": final_summary,
+                    "region": HINDI_REGION_LABELS.get(region, region),
+                }
+            },
+        })
+
+    # ── Editor's digest: 2-3 sentence lead, one LLM call per language ─────────
+    digest_en = generate_edition_digest(en_enriched, language="en") if en_enriched else None
+    digest_hi = generate_edition_digest(hi_enriched, language="hi") if hi_enriched else None
+    # When Hindi sources are thin, translate the English digest so the Hindi
+    # site still has an editor's note. Only do this if there is no native digest.
+    if digest_en and not digest_hi:
+        try:
+            digest_hi = translate_texts_to_hindi([digest_en])[0]
+        except Exception as exc:
+            log.warning("Could not translate digest to Hindi: %s", exc)
+
+    # ── Write newsletter.json (combined; site generator filters by language) ──
+    all_enriched = en_enriched + hi_enriched
+
+    payload = {
+        "generated_at": fetched_at,
+        "article_count": len(all_enriched),
+        "total_unique_count": total_unique_count,
+        "digest": {
+            "en": digest_en or "",
+            "hi": digest_hi or "",
+        },
+        "articles": all_enriched,
+    }
+
+    with open(JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    log.info("Wrote %s (%d articles: %d en, %d hi)",
+             JSON_PATH, len(all_enriched), len(en_enriched), len(hi_enriched))
+
+    with open(MD_PATH, "w", encoding="utf-8") as f:
+        f.write(build_markdown(en_enriched, fetched_at, display_tz, language="en"))
+    log.info("Wrote %s", MD_PATH)
+
+    with open(MD_HI_PATH, "w", encoding="utf-8") as f:
+        f.write(build_markdown(hi_enriched, fetched_at, display_tz, language="hi"))
+    log.info("Wrote %s", MD_HI_PATH)
+
+
+if __name__ == "__main__":
+    main()
