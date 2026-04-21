@@ -1,34 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** April 21, 2026 23:09 IST
+**Updated:** April 21, 2026 23:42 IST
 
 ---
 
 ## Middle East & Africa
 
-### [Uncertainty Surrounds U.S.-Iran Talks as Cease-Fire Nears End](https://news.google.com/rss/articles/CBMid0FVX3lxTE9XcGd5TXRPYXNZYU5GVURhaS1fVmVaQVcybS1HSzlsVVRqbE9hbFVWTHBERVNvUG1NR0h1TE9LaUpnOG5HSEM5dzYyVTFXZlZlOXViV01EYnpTUlBSVE4xU3hESGtRQ1FER1BhdkFqbXBwdkJTcFg4?oc=5)
-*Google News (war ceasefire)* - Apr 21, 23:04 IST (iso: 2026-04-21T17:34:20+00:00)
-<!-- image: https://images.pexels.com/photos/4386155/pexels-photo-4386155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+### [The US exit from Syria, explained](https://www.aljazeera.com/video/the-take-2/2026/4/21/aje-onl-aj_tt_syr_uswithdrawal_full_v1-210426?traffic_source=rss)
+*Al Jazeera* - Apr 21, 23:23 IST (iso: 2026-04-21T17:53:54+00:00)
+<!-- image: https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776793981.jpg?resize=1920%2C1080&quality=80 -->
 
-Iran and the US are uncertain about talks as the ceasefire nears its end. Iran War Live Updates: Uncertainty Surrounds U. S.-Iran Talks as Cease-Fire Nears End The New York Times.
+The US withdrew from Syria after 10 years, impacting Kurdish forces and regional tensions. The move raises questions about the country's future and the balance of power in the region.
 
-### [US-Iran talks are in doubt as ceasefire nears an end](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5taEZWTnFLWmpxaWVQR0dLOHRLT1A3dDFINmREVjFCRV9ucXdEY1dTRk02aVVnODh0bjB2MHZGRnVWdGhNY2hhdExIQXlSNGJXb1pSamFMUGNMY2hwWHFhS2FveVJGUFU?oc=5)
-*Google News (war ceasefire)* - Apr 21, 23:03 IST (iso: 2026-04-21T17:33:00+00:00)
-<!-- image: https://images.pexels.com/photos/35710201/pexels-photo-35710201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+### [Iran won't confirm it will attend peace talks; Trump ready to resume bombing ahead of ceasefire](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzBjUEZKaTFxUE90c25JdjhvVEFpY3praDBDMnFjY2I4YU5uQWtDVU5ZVUZNRElhRWRJeGllSjY0QV81dHBjZ05kUjc1WDlWSkZ5UDMyUERSV3BtSlN1N013MWttRFlrV2VndmIxQmpVbF9YZHVEMmFWWUtuUVluRjJxTmFiVE9NMmplVkdpWGtTT3IyXzNrSUVieHpyX2FpWm5hRC16eWliYjJTZjRDRUZxbEdpOWtyelJMRkdSQ0Q?oc=5)
+*Google News (war ceasefire)* - Apr 21, 23:07 IST (iso: 2026-04-21T17:37:21+00:00)
+<!-- image: https://images.pexels.com/photos/31262146/pexels-photo-31262146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-US-Iran talks are in doubt as the ceasefire deadline approaches. Live updates: US-Iran talks are in doubt as ceasefire nears an end AP News.
+Iran's attendance at peace talks is unconfirmed, while US President Trump is prepared to resume bombing ahead of a ceasefire deadline. The situation remains uncertain as the deadline approaches. Live updates: Iran won't confirm it will attend peace talks; Trump ready to resume bombing ahead of ceasefire deadline NBC News.
 
-### [Uncertainty swirls around US-Iran peace talks as ceasefire deadline looms](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjhrSlZmTERWVEdFQlFWNmNnc2xaWlllQUNWLWRQMU5KUDM4X3NZYWlEYnI2WG9OTjJ2aXFneTdiaXJGR3BiLWw4dE1UZXg3dVFzUXp2bDctLUtQVDdnekZkMHFDaHBMVzJHMm1DUDlyWU1qNnVtd2l4N0tpcnh3MQ?oc=5)
-*Google News (war ceasefire)* - Apr 21, 22:14 IST (iso: 2026-04-21T16:44:00+00:00)
+### [Uncertainty swirls around US-Iran peace talks as ceasefire deadline looms](https://news.google.com/rss/articles/CBMie0FVX3lxTE0ydnNDeWV0MjE0RUFOUk9UTDhFMVBZNDFNNTlqTjBSYlRhZkQ5czEwQVFib0duSFpReVRBTnVQQURrUGQ1dWRYX3dhSG85U2c5c1RaY3NxRkljamJPWW9MSm1Za25lMnIwU1dheDg0MHc5U2RVTXlpckkyWQ?oc=5)
+*Google News (war ceasefire)* - Apr 21, 22:52 IST (iso: 2026-04-21T17:22:00+00:00)
 <!-- image: https://images.pexels.com/photos/34931807/pexels-photo-34931807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-Uncertainty surrounds US-Iran peace talks as the ceasefire deadline looms. Live updates: Uncertainty swirls around US-Iran peace talks as ceasefire deadline looms CNN.
-
-### [Trump suggests he won’t end ceasefire with Iran even if talks are productive](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JUGowRTc2Vkp3WjlnZklwMlkyU01zTUptUjJoand1TzgxVFd2TWhULUpfQ3lPSGhFUHFsS1Z1d2pUVG9ma0FMeHdVYVRmVTU1Qi1FdXhmbmtrd0gtU2xfZUZaRnptQ2hjY25LckdMNW9pNU1Zd0hPLVhOUEZWNDg?oc=5)
-*Google News (war ceasefire)* - Apr 21, 22:10 IST (iso: 2026-04-21T16:40:52+00:00)
-<!-- image: https://images.pexels.com/photos/5854416/pexels-photo-5854416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Trump said he may not end the Iran ceasefire even if talks are productive. Iran war live updates: Trump suggests he won’t end ceasefire with Iran even if talks are productive MS NOW.
+Uncertainty surrounds US-Iran peace talks as a ceasefire deadline looms. The talks' outcome remains unclear, with tensions between the two nations high. Live updates: Uncertainty swirls around US-Iran peace talks as ceasefire deadline looms CNN.
 
 ### [US "Ready To Go" On War Path. Iran Prepares Fresh Targets, "Surprises"](https://www.ndtv.com/world-news/us-iran-war-live-donald-trump-says-us-raring-to-go-to-war-iran-warns-of-creating-another-hell-11389563#publisher=newsstand)
 *NDTV World* - Apr 21, 22:07 IST (iso: 2026-04-21T16:37:28+00:00)
@@ -41,12 +35,6 @@ Iran prepares for potential war with the US, citing "new surprises" if necessary
 <!-- image: https://th-i.thgim.com/public/incoming/eqneds/article70889953.ece/alternates/LANDSCAPE_1200/2026-04-21T153131Z_281189899_RC2PTKA47C3W_RTRMADP_3_IRAN-CRISIS-PAKISTAN-TALKS-USA.JPG -->
 
 Uncertainty surrounds Iran's participation in talks as a ceasefire deadline approaches. Pakistan's Information Minister stated that a formal response from Iran is still awaited. As of 7:30 p. m. Pakistan time, a formal response about Iran’s participation “is still awaited”, Pakistan’s Information Minister said in a statement.
-
-### [Can Israel’s economy sustain conflicts on multiple fronts?](https://www.thehindu.com/business/Economy/can-israels-economy-sustain-conflicts-on-multiple-fronts/article70889106.ece)
-*The Hindu (International)* - Apr 21, 21:46 IST (iso: 2026-04-21T16:16:56+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/82mw3v/article70889958.ece/alternates/LANDSCAPE_1200/2024-02-14T143708Z_1652866979_RC2D26AQHQLB_RTRMADP_3_ISRAEL-ECONOMY-RATINGS.JPG -->
-
-Israel's economy faces challenges due to ongoing conflicts, with the war with Iran costing 35 billion shekels ($11.52 billion) and operations in Gaza expected to cost around 8.6% of its annual GDP by 2025.
 
 ### [Israeli soldiers punished over vandalism of Jesus statue in Lebanon](https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss)
 *BBC World* - Apr 21, 21:43 IST (iso: 2026-04-21T16:13:27+00:00)
@@ -84,12 +72,6 @@ Iran's Foreign Ministry condemned the UAE's arrest of Iranian nationals as "base
 
 Donald Trump urged Iran to release eight women facing execution, ahead of possible peace talks. He suggested their release could boost chances of success in negotiations between the US and Iran.
 
-### [Trump says U.S. in ‘very, very strong’ position for Iran talks](https://www.thehindu.com/news/international/donald-trump-says-us-in-very-very-strong-position-for-iran-talks/article70888667.ece)
-*The Hindu (International)* - Apr 21, 20:38 IST (iso: 2026-04-21T15:08:22+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/iplh2q/article70888680.ece/alternates/LANDSCAPE_1200/2026-04-21T100136Z_1921474143_RC2QRKA504HM_RTRMADP_3_USA-TRUMP-APPROVAL.JPG -->
-
-Trump said the US is in a "very, very strong" position for Iran talks. He also suggested Iran could increase the chances of successful peace talks by freeing the eight women who face execution.
-
 ### [US forces board sanctioned oil tanker in Indian Ocean as Iran ceasefire deadline looms](https://indianexpress.com/article/world/us-boards-tanker-iranian-oil-indian-ocean-enforcement-10648671/)
 *Indian Express World* - Apr 21, 20:36 IST (iso: 2026-04-21T15:06:28+00:00)
 <!-- image: https://images.indianexpress.com/2026/04/us-MT-Tifani-screenshot-department-of-war-us.jpg -->
@@ -108,37 +90,55 @@ Nikki Haley claimed the US had seized a China-aided cargo ship carrying Iranian 
 
 US President Trump stated he opposes extending the Iran ceasefire. He said Iran has "no choice" but to attend negotiations in Pakistan and accept a "great" deal, amid uncertainty in talks.
 
+### [Why is the EU under pressure to suspend its trade agreement with Israel?](https://www.aljazeera.com/news/2026/4/21/why-is-the-eu-under-pressure-to-suspend-its-trade-agreement-with-israel?traffic_source=rss)
+*Al Jazeera* - Apr 21, 20:23 IST (iso: 2026-04-21T14:53:20+00:00)
+<!-- image: https://www.aljazeera.com/wp-content/uploads/2026/04/2025-10-27T070123Z_977942301_RC23JHADMFYO_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1776706787.jpg?resize=1920%2C1362 -->
+
+EU nations are debating suspending their trade agreement with Israel due to concerns over rights violations in Gaza and the West Bank. Pressure is mounting on the EU to take a stronger stance.
+
+### [Europe Wanted a Say on the Iran War, but It’s Still on the Sidelines](https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html)
+*NYT World* - Apr 21, 20:02 IST (iso: 2026-04-21T14:32:05+00:00)
+<!-- image: https://static01.nyt.com/images/2026/04/21/multimedia/21int-europe-ran-01-glhj/21int-europe-ran-01-glhj-mediumSquareAt3X.jpg -->
+
+A British-French plan to secure the Strait of Hormuz would give Europe a role in the Iran conflict. However, Tehran and Washington remain in control, leaving the continent on the sidelines.
+
+### [Why Tehran is delaying Round 2, and what happens if ceasefire expires](https://indianexpress.com/article/world/us-iran-islamabad-talks-trump-ceasefire-expiry-jd-vance-qalibaf-oil-prices-10648303/)
+*Indian Express World* - Apr 21, 20:00 IST (iso: 2026-04-21T14:30:20+00:00)
+<!-- image: https://images.indianexpress.com/2026/04/islamabad-talks-4.jpg -->
+
+Iran has delayed the second round of talks with Saudi Arabia, citing concerns over ceasefire terms. If the ceasefire expires, it could lead to further escalation in the region. Why Tehran is delaying Round 2, and what happens if ceasefire expires.
+
+---
+
+## Asia-Pacific
+
+### [Singapore's Tang Gets Second Term At UN's Patent Agency](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTVXbDM3UG43MjdSZ0JpSHc1LUNVcHZHdjVJSkR0QkdvaEt4ODd3RGpQeGpsc0NlMWhHRDlmRXRVOENqczRfNFdGZVAxTnNyb3pHWTVOVUxfNzFPbmtQS0Z2XzItUFZObk1NLXJWVE05REItSDhydzZYcGJ2NnJRUVgtV2NLSWJqNEozRjlfSGc5Vlg3cGNDWA?oc=5)
+*Google News (United Nations)* - Apr 21, 22:53 IST (iso: 2026-04-21T17:23:00+00:00)
+<!-- image: https://images.pexels.com/photos/29444513/pexels-photo-29444513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Singapore's Tang was re-elected for a second term as head of the UN's Patent Agency. The agency plays a crucial role in global intellectual property regulation. Singapore's Tang Gets Second Term At UN's Patent Agency Barron's.
+
+### [What are Japan, South Korea learning from Hormuz disruption?](https://www.dw.com/en/what-are-japan-south-korea-learning-from-hormuz-disruption/a-76881461?maca=en-rss-en-world-4025-xml-mrss)
+*DW World (English)* - Apr 21, 19:52 IST (iso: 2026-04-21T14:22:00+00:00)
+<!-- image: https://static.dw.com/image/76846316_6.jpg -->
+
+Japan and South Korea are reassessing their dependence on maritime trade after the Strait of Hormuz blockade highlighted vulnerabilities in their supply chains. Essential goods including food and fuel are at risk of disruption.
+
 ---
 
 ## Americas
 
-### [Cuba confirms recent talks with visiting U.S. delegation](https://www.thehindu.com/news/international/cuba-confirms-recent-talks-with-visiting-us-delegation/article70889994.ece)
-*The Hindu (International)* - Apr 21, 22:21 IST (iso: 2026-04-21T16:51:22+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/spu0aj/article70890058.ece/alternates/LANDSCAPE_1200/2026-03-27T232040Z_1543793463_RC2BDKA0EJYJ_RTRMADP_3_USA-TRUMP.JPG -->
+### [2 Americans Killed in Mexico Crash Were C.I.A. Members](https://www.nytimes.com/2026/04/21/world/americas/americans-cia-mexico-crash.html)
+*NYT World* - Apr 21, 21:00 IST (iso: 2026-04-21T15:30:15+00:00)
+<!-- image: https://static01.nyt.com/images/2026/04/21/multimedia/21mexico-crash-jpcq/21mexico-crash-jpcq-mediumSquareAt3X.jpg -->
 
-Cuba confirmed recent talks with a visiting US delegation. The U. S. negotiators laid out several conditions for negotiations with Cuba to continue, including the release of prominent political prisoners. Cuba confirms recent talks with visiting U. S.
+Two Americans killed in a Mexico crash were CIA members returning from a counter-cartel operation. The incident occurred in Chihuahua state, where Mexico's armed forces were leading the operation. The two Americans were killed on Sunday when their vehicle crashed while returning from a counter-cartel operation led by Mexico’s armed forces in the state of Chihuahua.
 
-### [Fired U.K. Official Describes ‘Pressure’ to Expedite Envoy’s Appointment](https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html)
-*NYT World* - Apr 21, 22:07 IST (iso: 2026-04-21T16:37:04+00:00)
-<!-- image: https://static01.nyt.com/images/2026/04/21/multimedia/21int-uk-starmer-robbins-whvk/21int-uk-starmer-robbins-whvk-mediumSquareAt3X.jpg -->
+### [Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids](https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss)
+*BBC World* - Apr 21, 20:25 IST (iso: 2026-04-21T14:55:19+00:00)
+<!-- image: https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/917c/live/b6940d90-3cfb-11f1-879d-1b2f5c3919b8.jpg -->
 
-A fired UK official claims Prime Minister Keir Starmer's office pressured them to quickly appoint Peter Mandelson, an associate of Jeffrey Epstein, as ambassador to Washington. Prime Minister Keir Starmer’s office wanted Peter Mandelson, a Jeffrey Epstein associate, swiftly installed as ambassador to Washington, the official said.
-
-### [Moment hikers get caught in Guatemala volcano eruption](https://www.aljazeera.com/video/newsfeed/2026/4/21/video-moment-hikers-get-caught-in-guatemala-volcano-eruption?traffic_source=rss)
-*Al Jazeera* - Apr 21, 21:45 IST (iso: 2026-04-21T16:15:35+00:00)
-<!-- image: https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776788022.jpg?resize=1920%2C1080&quality=80 -->
-
-Israeli soldiers will be removed from combat duty and receive 30 days of military detention for vandalizing a Jesus statue in Lebanon. The punishment was announced by Israel's military. A group of hikers were forced to flee as Guatemala’s Santiaguito Volcano erupted.
-
----
-
-## Europe & Russia
-
-### [EU court rules Hungary’s LGBTQ law violates human rights](https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss)
-*Al Jazeera* - Apr 21, 22:06 IST (iso: 2026-04-21T16:36:44+00:00)
-<!-- image: https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20250628__646J49E__v1__HighRes__HungaryPoliticsRightsLgbtq-1751156624.jpg?resize=1920%2C1440 -->
-
-The European Court of Justice ruled that Hungary's LGBTQ law, introduced by PM Viktor Orban's government, breaches EU human rights law on multiple levels. European Court of Justice says measure by PM Viktor Orban's government breaches EU law 'on a number of separate levels'.
+Mexican officials say a Canadian tourist was killed in a shooting at the ancient Teotihuacán pyramids on Monday, with several others injured. The incident occurred weeks before Mexico hosts the Fifa World Cup.
 
 ---
 
