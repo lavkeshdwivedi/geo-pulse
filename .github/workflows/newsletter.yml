@@ -1,0 +1,227 @@
+name: GeoPulse Newsletter
+
+on:
+  # Push still triggers the workflow, but ONLY to redeploy code changes.
+  # The fetch/rank/summarise steps are skipped on push so every commit
+  # doesn't burn free-tier LLM quota. News refresh happens on schedule.
+  push:
+    branches:
+      - main
+  schedule:
+    # Refresh news once an hour, around the clock. LLM-using steps (rank,
+    # summarise) only run from these scheduled triggers, never on push.
+    - cron: "0 * * * *"
+  workflow_dispatch:   # Allow manual trigger from the Actions tab
+
+permissions:
+  contents: write       # Needed to commit newsletter.md / site/ back to the repo
+  pages: write          # Needed for GitHub Pages deployment
+  id-token: write       # Needed for OIDC-based Pages deployment
+
+jobs:
+  build-and-deploy:
+    if: ${{ github.event_name != 'push' || github.actor != 'github-actions[bot]' }}
+    runs-on: ubuntu-latest
+    concurrency:
+      group: newsletter-deploy
+      cancel-in-progress: false   # Don't cancel in-progress runs; queue instead
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0   # Full history so we can commit back properly
+
+      # ── 2. Python setup ──────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      # ── 3. Install dependencies ──────────────────────────────────────────
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      # ── 4. Fetch news ─────────────────────────────────────────────────────
+      # Only on schedule / manual dispatch. Push events regenerate the site
+      # from existing newsletter.json without re-fetching.
+      - name: Fetch geopolitics news
+        if: github.event_name != 'push'
+        env:
+          # Optional: add NEWSAPI_KEY in repo Settings → Secrets & variables → Actions
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          # Stock image fallback providers used when a feed and og:image both miss.
+          # Pexels is tried first, Unsplash second. Leave unset to disable.
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          NEWS_SOURCES: ${{ vars.NEWS_SOURCES || 'rss' }}
+          NEWS_QUERY: ${{ vars.NEWS_QUERY || '' }}
+          MAX_ARTICLES: ${{ vars.MAX_ARTICLES || '50' }}
+        run: python scripts/fetch_news.py
+
+      # ── 5. Detect net-new stories ─────────────────────────────────────────
+      - name: Detect new stories
+        if: github.event_name != 'push'
+        id: detect_updates
+        run: python scripts/detect_updates.py
+
+      - name: Skip publish when no fresh stories
+        if: steps.detect_updates.outputs.has_news != 'true'
+        run: |
+          echo "No new stories found. Skipping summarize, site generation, commit, and deploy."
+
+      # ── 5a. Rank raw stories with LLM ────────────────────────────────────
+      # One extra LLM call per language trims raw_news.json down to the top
+      # N most newsworthy items before summarize.py spends a call per story.
+      # Falls back to date-sort when no key is present or the LLM fails.
+      - name: Rank stories
+        if: steps.detect_updates.outputs.has_news == 'true'
+        env:
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || '' }}
+          LLM_MODEL: ${{ vars.LLM_MODEL || '' }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_API_KEY_2: ${{ secrets.GROQ_API_KEY_2 }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          RANKER_KEEP_TOP: ${{ vars.RANKER_KEEP_TOP || '35' }}
+          RANKER_DISABLE: ${{ vars.RANKER_DISABLE || '' }}
+        run: python scripts/rank_articles.py
+
+      # ── 5b. Summarise with LLM ────────────────────────────────────────────
+      - name: Summarise newsletter
+        if: steps.detect_updates.outputs.has_news == 'true'
+        env:
+          # Recommended free providers (add the secret in repo Settings → Secrets):
+          #   groq   → add GROQ_API_KEY   (free at console.groq.com)
+          #   gemini → add GEMINI_API_KEY (free at aistudio.google.com)
+          # To double throughput, create a second free account at each
+          # provider and add GROQ_API_KEY_2 / GEMINI_API_KEY_2 as secrets.
+          # Keys 2 through 8 are supported on both providers.
+          # Leave LLM_PROVIDER unset to fall back to the value in config.yml.
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || '' }}
+          LLM_MODEL: ${{ vars.LLM_MODEL || '' }}
+          # Free providers only. Missing secrets resolve to empty and are skipped.
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_API_KEY_2: ${{ secrets.GROQ_API_KEY_2 }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          HF_API_KEY: ${{ secrets.HF_API_KEY }}
+        run: python scripts/summarize.py
+
+      # ── 6. Generate static site ──────────────────────────────────────────
+      # Runs on every event (push OR schedule). Push uses existing
+      # newsletter.json to redeploy code/CSS changes without re-fetching
+      # news; schedule uses the freshly-summarised newsletter.json.
+      - name: Generate static site
+        if: github.event_name == 'push' || steps.detect_updates.outputs.has_news == 'true'
+        run: python scripts/generate_site.py
+
+      # ── 6a. Sync README status block ───────────────────────────────────
+      - name: Update README status
+        if: steps.detect_updates.outputs.has_news == 'true'
+        run: python scripts/update_readme.py
+
+      # ── 6b. Validate homepage has stories ───────────────────────────────
+      - name: Validate generated homepage
+        if: github.event_name == 'push' || steps.detect_updates.outputs.has_news == 'true'
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          newsletter = Path("newsletter.json")
+          index_file = Path("site/index.html")
+
+          if not newsletter.exists() or not index_file.exists():
+              raise SystemExit("Missing generated newsletter.json or site/index.html")
+
+          data = json.loads(newsletter.read_text(encoding="utf-8"))
+          count = int(data.get("article_count", 0))
+          index_html = index_file.read_text(encoding="utf-8")
+
+          if count < 1:
+              raise SystemExit("article_count is 0; homepage would have no news")
+          if '<article class="card"' not in index_html:
+              raise SystemExit("No story cards found in generated homepage")
+
+          print(f"Validated homepage content: {count} stories")
+          PY
+
+      # ── 7. Commit generated files directly to main ──────────────────────
+      - name: Commit generated files
+        if: github.event_name == 'push' || steps.detect_updates.outputs.has_news == 'true'
+        id: commit_generated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage everything the pipeline may have written. raw_news.json and
+          # *.bat / *.ps1 helpers are gitignored so they never enter this set.
+          # Using -A catches newsletter.hi.md and any newly-created archive
+          # files that the explicit path list used to miss (those unstaged
+          # leftovers previously blocked `git pull --rebase` and broke the run).
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+            echo "committed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git commit -m "chore(newsletter): automated update ${{ github.run_id }}"
+          # Rebase on top of any commits that landed while this run was in progress
+          # (e.g. a manual push from a dev), then push. Retry once on transient failure.
+          git pull --rebase origin ${{ github.ref_name }} || true
+          git push origin HEAD:${{ github.ref_name }} || {
+            git pull --rebase origin ${{ github.ref_name }}
+            git push origin HEAD:${{ github.ref_name }}
+          }
+          echo "committed=true" >> "$GITHUB_OUTPUT"
+
+      # ── 8. Deploy site/ to GitHub Pages ──────────────────────────────────
+      - name: Upload Pages artifact
+        if: github.event_name == 'push' || steps.detect_updates.outputs.has_news == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+      - name: Deploy to GitHub Pages
+        if: github.event_name == 'push' || steps.detect_updates.outputs.has_news == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      # ── 9. Notify on failure ──────────────────────────────────────────────
+      - name: Create issue on failure
+        if: failure()
+        continue-on-error: true
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = `GeoPulse workflow failed — ${new Date().toUTCString()}`;
+            const body = [
+              '## ⚠️ GeoPulse Workflow Failure',
+              '',
+              `**Run:** [${context.runId}](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+              `**Triggered by:** ${context.eventName}`,
+              '',
+              'Please check the run logs for details.',
+            ].join('\n');
+            // Only open a new issue if one isn't already open with the same title
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'geopulse-failure',
+            });
+            if (!issues.some(i => i.title === title)) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['geopulse-failure'],
+              });
+            }

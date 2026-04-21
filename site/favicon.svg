@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="GeoPulse">
+  <rect x="0" y="0" width="64" height="64" rx="14" ry="14" fill="#e63946"/>
+  <circle cx="32" cy="32" r="18" fill="#fff8ec"/>
+  <path d="M16 32 H24 L28 25 L32 41 L36 23 L40 32 H48" fill="none" stroke="#c0202e" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="18" r="2.8" fill="#fff8ec"/>
+</svg>
