@@ -1,45 +1,249 @@
 {
-  "generated_at": "2026-04-22T09:24:39.464277+00:00",
+  "generated_at": "2026-04-22T11:09:21.879246+00:00",
   "article_count": 42,
-  "total_unique_count": 257,
+  "total_unique_count": 252,
   "digest": {
-    "en": "The European Union is considering a $106 billion loan to Ukraine, a move delayed for months due to Hungarian Prime Minister Viktor Orban's objections. Iran's military actions are escalating, with reports of thousands of missiles and recent attacks on ships in the Strait of Hormuz. OpenAI's ChatGPT is under scrutiny.",
-    "hi": "ईरान पर अमेरिका-इज़रायल हमलों का 54वां दिन है, जहां संघर्षविराम के बीच अविश्वास और हमले जारी हैं। राजनाथ सिंह ने बर्लिन में पीएम मोदी की कूटनीति की सराहना की और कहा कि भारत का दृष्टिकोण संतुलित और वैश्विक है।"
+    "en": "Ships have been attacked in the Strait of Hormuz amid uncertainty over Iran peace talks. The US has extended a ceasefire with Iran as tensions rise. Two vessels were seized by Iran's Revolutionary Guard in the Strait of Hormuz.",
+    "hi": "ईरान ने ओमान के पास समुद्री जहाज पर हमला किया, जिससे शिप को भारी नुकसान हुआ। सभी क्रू मेंबर सुरक्षित हैं। ईरान की यह कार्रवाई क्षेत्र में तनाव बढ़ाने वाली है।"
   },
   "articles": [
     {
-      "title": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban",
-      "url": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html",
+      "title": "At Least 2 Ships Are Attacked Amid Uncertainty Over Talks",
+      "url": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
       "source": "NYT World",
       "sources": [],
-      "published_at": "2026-04-22T08:48:23+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-eu-ukraine-loan-01-cwlg/21int-eu-ukraine-loan-01-cwlg-mediumSquareAt3X.jpg",
-      "summary": "EU ambassadors meet to discuss a $106 billion loan to Ukraine, delayed by Hungarian Prime Minister Viktor Orban's objections. After months of impasse because of objections from Prime Minister Viktor Orban of Hungary, ambassadors were meeting to discuss a key step on the way to disbursing the much-needed money.",
+      "published_at": "2026-04-22T10:57:34+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/22/multimedia/22israel-iran-promo-ltmf/22israel-iran-promo-ltmf-mediumSquareAt3X.jpg",
+      "summary": "Iran's military attacked two vessels near the Strait of Hormuz. The US and Iran are in a stalemate after President Trump extended a cease-fire. Iran’s military carried out enforcement actions against two vessels near the contested Strait of Hormuz, state media said.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ships attacked in Strait of Hormuz after ceasefire extension",
+      "url": "https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-22T10:53:59+00:00",
+      "image_url": "https://images.pexels.com/photos/32237794/pexels-photo-32237794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Two vessels were attacked in the Strait of Hormuz after the US and Iran failed to meet for talks. President Trump extended the ceasefire indefinitely. Two vessels came under fire in the Strait of Hormuz, just hours after the U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran Guards say 'seized' two ships attempting to cross Strait of Hormuz",
+      "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-22-2026-donald-trump-tehran-strait-of-hormuz-blockade/article70891192.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-22T10:52:39+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/75owtk/article70891547.ece/alternates/LANDSCAPE_1200/AP04_22_2026_000012A.jpg",
+      "summary": "Trump extended the Iran ceasefire while maintaining a blockade. Israel and Hezbollah trade fire with talks expected this week, even as more talks are expected in Washington this week after a 10-day ceasefire went into effect last Friday.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Extends Iran Cease-Fire With Peace Talks in Limbo",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4UkN3UnZ4bXVpSDJtX0JaOUl5OV9PRF82MnlxNXdxYzJyNEFGWWljTlNuSmxkT1pKcWJmMGxIMTFIYjNzd3NERU5VQ3ozMUZJRDI4TjNnVXpRZzZHd0g3cC1JRHJ2WHFsVEpF?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-04-22T10:47:00+00:00",
+      "image_url": "https://images.pexels.com/photos/31513071/pexels-photo-31513071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "US President Donald Trump extended the Iran ceasefire, but peace talks remain in limbo. The ceasefire extension was announced without a clear indication of progress in negotiations. Iran War Live Updates: Trump Extends Iran Cease-Fire With Peace Talks in Limbo WSJ.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "South Korea says security talks with U.S. should not be linked to Coupang probe",
+      "url": "https://www.thehindu.com/news/international/south-korea-says-security-talks-with-us-should-not-be-linked-to-coupang-probe/article70892259.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-22T10:40:42+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/x0u3s7/article70892317.ece/alternates/LANDSCAPE_1200/2026-04-22T092452Z_2010764185_RC2LSCAFRM3R_RTRMADP_3_SOUTHKOREA-USA-COUPANG.JPG",
+      "summary": "South Korea said security talks with the US should not be linked to the Coupang probe. The US reportedly threatened to halt talks.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "2 Ships Attacked, Being Taken To Iran Amid US Stalemate: Report",
+      "url": "https://www.ndtv.com/world-news/2-ships-attacked-being-taken-to-iran-amid-us-stalemate-report-11392812#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-22T10:34:22+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/kcpvi5rk_strait-of-hormuz_625x300_09_April_26.png",
+      "summary": "Iran's IRGC attacked two ships, taking them to Iran amid a US stalemate. The IRGC considers disrupting order in the Strait a red line. IRGC stated that \"disrupting order and safety in the Strait of Hormuz is considered a red line for Iran\".",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Taiwan crisis would cause far more global economic damage than Strait of Hormuz disruption",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0dVUFFTWWZHdzlUQWpiOVU0UDY0X2FSektod1VaWlBrMXI5dEZVWEdudWUxZFlfTlJnd2FDRWh5S1hJSE5HdWVxejF5WnBoMktoUzdxM0cxRDdES0hlcmFQYnBGSGYzYjkyY0VJMGdqVnM0b1I1enMwVV9qdlNzU0NyNjFKM2NTNnhtRUFtQmxhUUIzQjVfcGdBNWx2M0lFenhEbWFQSE9pZkdva2o3Z2lYM3hHMFdDQzB3?oc=5",
+      "source": "Google News (international relations)",
+      "sources": [],
+      "published_at": "2026-04-22T10:21:33+00:00",
+      "image_url": "https://images.pexels.com/photos/35707136/pexels-photo-35707136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "A Taiwan crisis would cause more global economic damage than a Strait of Hormuz disruption, according to Chatham House. A Taiwan crisis would cause far more global economic damage than Strait of Hormuz disruption Chatham House.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "IRGC seizes two vessels in Strait of Hormuz amid US blockade",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1ZsemdHcVMzM0pUbWpWQ3A1WUFwZzlKbG1YWGYwXzdESmNlUnl5MWRBdTN3YlpVQ3l1OHlkWVFVbDhkaFIyY2FkeWc5QmpkMldONXhGZ2IwRGVicVU3VFZhUTV1VXFmYVR2Z1NhOXJsMW9vS2VBd1hrSFRENHpoMlpuMEhXcmRLNUJoaS1IeU9GYjdFbnNPeHByeElWWDJsdE1LejkxWF81SG12TnJvVlNtRHlTNm1ONnM2VnUwTU7SAcYBQVVfeXFMT3llQkREbDlFMVpDaDRsdjVJYjhpdGpWeEdBX3N5ZUgtMWZxSExBMzZZbERlbFREcTQwZWl6V3FRRlAxdXk4OVlrQVBZTlM1X2ZVZXlLTzZKbjNiOUV5M0RqMkgtS0U0VDFjbmQtdTBpYXlid0Z1alY0clVVUWwtZHhIMTJPMFUxaGhvRkhUdGZWcy1XSG5IN2xGbGdQWllBUEdzVUhvd0tzZUM3bjdtSmQwTDVSSWpsbnJBcGlmaGFSeE5ybnh3?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-04-22T10:16:47+00:00",
+      "image_url": "https://images.pexels.com/photos/33718557/pexels-photo-33718557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "US President Donald Trump extended a ceasefire with Iran as talks remain unresolved in Tehran. Iran war live: Trump says ceasefire extended as talks with Tehran in limbo Al Jazeera.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Exxon eyes sale of Hong Kong gas stations, sources say",
+      "url": "https://www.channelnewsasia.com/business/exxon-eyes-sale-hong-kong-gas-stations-sources-say-6073386",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-22T10:08:04+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--T4Tu-cg3--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-22T100804Z_1_LYNXMPEM3L0IU_RTROPTP_3_EXXON-MOBIL-RESULTS.JPG?itok=En9odQJF",
+      "summary": "Exxon considers selling its Hong Kong gas stations, according to sources. Exxon eyes sale of Hong Kong gas stations, sources say.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran attacks 3 ships in the Strait of Hormuz as Trump indefinitely extends ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yUGdXbE8zSkVySHV4NTlFTFVQVU1JSHNXaU9KTmlSX2w0Qnd6cGV0eXI2dU9PUXdJZ245M3ItUl9vbGdUYm5UZG9pZTE5bXJHSGwxWkpxaVFYTGJfS3dBSkxjaG12bjg?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-04-22T10:06:55+00:00",
+      "image_url": "https://images.pexels.com/photos/33977667/pexels-photo-33977667.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iran attacked three ships in the Strait of Hormuz. Live updates: Iran attacks 3 ships in the Strait of Hormuz as Trump indefinitely extends ceasefire AP News.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China condemns Japanese leaders' war shrine offerings, visits",
+      "url": "https://www.thehindu.com/news/international/china-condemns-japanese-leaders-war-shrine-offerings-visits/article70891969.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-22T10:06:28+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/5dwwk2/article70891998.ece/alternates/LANDSCAPE_1200/2026-04-21T034614Z_1626635416_RC2ETKAGSP9X_RTRMADP_3_JAPAN-POLITICS-YASUKUNI.JPG",
+      "summary": "China's Foreign Ministry spokesperson condemned Japanese leaders' visits to a war shrine, calling the actions \"heinous\" and \"grossly trampling on human conscience.\" China expressed strong disapproval of the shrine visits.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ukraine has asked Turkiye to host a Zelenskiy-Putin meeting, Foreign Minister says",
+      "url": "https://www.thehindu.com/news/international/ukraine-has-asked-turkiyeto-host-a-zelenskiy-putin-meeting-fm-says/article70892146.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-22T10:05:17+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/i9qxlb/article70892181.ece/alternates/LANDSCAPE_1200/2026-04-17T103016Z_1283827916_RC2YQKALKJ4E_RTRMADP_3_TURKEY-FORUM-UKRAINE.JPG",
+      "summary": "Ukraine asked Turkiye to host a meeting between Zelenskiy and Putin. “We asked the Turks about it, we asked some ‌other capitals,” says Foreign Minister Andrii Sybiha. Ukraine has asked Turkiye to host a Zelenskiy-Putin meeting, Foreign Minister says.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "'Iran Has Thousands Of Missiles To Continue War': Intel Belies Trump's Claim",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-news-iran-has-thousands-of-missiles-to-continue-war-intel-belies-trumps-claim-11391982#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "Will Iran war reshape global trade more than COVID?",
+      "url": "https://www.dw.com/en/will-iran-war-reshape-global-trade-more-than-covid/a-76804278?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
       "sources": [],
-      "published_at": "2026-04-22T08:42:40+00:00",
-      "image_url": "https://c.ndtvimg.com/hf0l5si_iran-missiles-reuters_625x300_03_September_18.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "US officials claim Iran has thousands of missiles, contradicting previous statements that Tehran lacked industrial infrastructure to build them. US officials had claimed that Tehran no longer has the industrial infrastructure to build missiles.",
+      "published_at": "2026-04-22T09:41:00+00:00",
+      "image_url": "https://static.dw.com/image/76885204_6.jpg",
+      "summary": "The Iran war may reshape global trade more than COVID. As the Iran war simmers, trade experts wonder if this conflict will reshape supply chains more than the pandemic. Companies are already rethinking strategies to future-proof revenues from other geopolitical risks.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Uncertainty shrouds possible U.S.-Iran talks after Trump extends ceasefire",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUNRMVBxRWJOSHhmblpBbTQ0ZWpuZlZlT2M2N1ZwN2tTRWVQZERvbE83MHpBN1BZcGNweGJKZmRTSlVBR0hyRzE3eUtzMmVrRDBNZGZLOTVMcm1HM09TZzJuYzVtWFdOdDlmNFVyRkZqUXl0VF9pSmQzQWJ4QnBQd0lBNmlkWjVqTEw1dW12SHo2UGhyRVBlM1pXcEg3aGctaXNtTGZ3T3pUSWfSAbMBQVVfeXFMT05pTWJaRHlsRGV3VEtfeVZrSlZtOGJCV09FNUtEcTdXTDRyUHFmcVVxUG9EY1JXcWwydm9pUTJvZmNDRDh0WHZCSGxISkwycU1QbGVNOWJQNlZhRDFfaEQ1STAxQUhqQXhDZ181NDh3U1laLV9LLWZIWjNtNWJ4aklNNTNEMnR4cm9VVEdkQkVRZFBWWFR1aGhWTDVLbTNlTW93QkRWN21WeVZsUjJLSENoYXc?oc=5",
-      "source": "Google News (war ceasefire)",
+      "title": "Russia strikes Ukraine’s Odesa port, kills railway worker in Zaporizhia",
+      "url": "https://www.aljazeera.com/news/2026/4/22/russian-drone-attacks-in-ukraine-strike-odesa-port-and-kill-railway-worker?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-04-22T08:40:39+00:00",
-      "image_url": "https://images.pexels.com/photos/30917906/pexels-photo-30917906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Trump extends a ceasefire, casting uncertainty over possible US-Iran talks. Live updates: Uncertainty shrouds possible U. S.-Iran talks after Trump extends ceasefire NBC Los Angeles.",
+      "published_at": "2026-04-22T09:16:22+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26101432635782-1775998827.jpg?resize=1200%2C630",
+      "summary": "Russia struck Ukraine's Odesa port and killed a railway worker in Zaporizhia. Ukraine's deputy prime minister says the attacks on the country's civilian infrastructure are 'another proof of terrorism'. Russia strikes Ukraine’s Odesa port, kills railway worker in Zaporizhia.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Day before second round of peace talks, Hezbollah strikes Israel after ‘ceasefire violations’",
+      "url": "https://indianexpress.com/article/world/hezbollah-attack-northern-israel-ceasefire-violations-10649787/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-04-22T09:15:47+00:00",
+      "image_url": "https://images.indianexpress.com/2026/04/Lebanon_Israel_Iran_War_23157-30c12.jpg",
+      "summary": "Israeli forces were struck by Hezbollah in Lebanon the day before a second round of peace talks. The attack came after Israel accused Hezbollah of ceasefire violations. Day before second round of peace talks, Hezbollah strikes Israel after ‘ceasefire violations’.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israel attacks mosque in Lebanon in another ceasefire violation",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israel-attacks-mosque-in-lebanon-in-another-ceasefire-violation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-22T09:15:13+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/leb-mosque-strike-Horizontal-thumb-1776848737.jpg?resize=1920%2C1080&quality=80",
+      "summary": "Israeli forces attacked a mosque in Lebanon, violating a ceasefire agreement. The attack occurred in the city of Sidon. Israel attacks mosque in Lebanon in another ceasefire violation.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
+      "url": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-22T09:02:55+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/s2-1776844851.jpg?resize=1200%2C675",
+      "summary": "Gaza has seen a 140% rise in stillbirths and a doubling of congenital anomalies since the war. The surge in birth defects is attributed to the devastating impacts of war.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iranian Expats in U.A.E. Caught Between Home and Homeland",
+      "url": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-war-uae-dubai.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-22T09:00:29+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-dubai-iranians-promo/21int-dubai-iranians-1-kphw-mediumSquareAt3X.jpg",
+      "summary": "Iran's retaliatory attacks on the U. A. E. have put the country's large Iranian expatriate community in a difficult position. Many expats are caught between their home country and their adopted homeland.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Threat of Evictions Darkens Russia’s Rosy Picture of Occupied Ukraine",
+      "url": "https://www.nytimes.com/2026/04/22/world/europe/russia-occupied-territories-mariupol.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-22T09:00:21+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/22/multimedia/22int-russia-mariupol-03-pgzf/22int-russia-mariupol-03-pgzf-mediumSquareAt3X.jpg",
+      "summary": "A new Russian law forces Ukrainians in occupied regions to obtain Russian title deeds or risk losing their homes. The law has darkened Russia's rosy picture of its occupied territories in Ukraine.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban",
+      "url": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-22T08:48:24+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-eu-ukraine-loan-01-cwlg/21int-eu-ukraine-loan-01-cwlg-mediumSquareAt3X.jpg",
+      "summary": "EU ambassadors meet to discuss a $106 billion loan to Ukraine, delayed by Hungarian Prime Minister Viktor Orban's objections. After months of impasse because of objections from Prime Minister Viktor Orban of Hungary, ambassadors were meeting to discuss a key step on the way to disbursing the much-needed money.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -56,208 +260,40 @@
       "translations": {}
     },
     {
-      "title": "Israel’s ‘digital occupation’ of south Lebanon",
-      "url": "https://www.aljazeera.com/video/digital-dilemma/2026/4/22/israels-digital-occupation-of-south-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "ईरान ने तीन मालवाहक जहाज़ों पर हमले के बाद दो को ज़ब्त किया",
+      "url": "https://www.bbc.com/hindi/articles/c4gxjz7l033o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-22T08:26:37+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/EP09_DD_Thumbnail_Landscape_V001_00-1776846267.png?resize=1920%2C1080&quality=80",
-      "summary": "Israeli drones operate above southern Lebanon, sparking criticism of a \"digital occupation\". Al Jazeera’s Linh Nguyen explains Israeli drones above the skies in Lebanon, which critics call a \"digital occupation.\".",
+      "published_at": "2026-04-22T11:04:42+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b01/live/97d12be0-3e36-11f1-b55d-0f258dce1735.jpg",
+      "summary": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने बुधवार को तीन कार्गो जहाजों पर हमला किया और दो को ज़ब्त कर लिया. यह घटना ईरान जंग को लेकर ट्रंप की ओर से युद्धविराम को बढ़ाये जाने के बाद हुई.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने तीन मालवाहक जहाज़ों पर हमले के बाद दो को ज़ब्त किया",
+          "summary": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने बुधवार को तीन कार्गो जहाजों पर हमला किया और दो को ज़ब्त कर लिया. यह घटना ईरान जंग को लेकर ट्रंप की ओर से युद्धविराम को बढ़ाये जाने के बाद हुई.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "How China is gaining from Iran war by showing it is different from US",
-      "url": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "ईरान अमेरिका से बात करने में दिलचस्पी क्यों नहीं दिखा रहा है?",
+      "url": "https://www.bbc.com/hindi/articles/cj40jgp91lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-22T08:24:25+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-12T143727Z_1158425004_RC223KA5YVV2_RTRMADP_3_IRAN-CRISIS-UN-SANCTIONS-1776766425.jpg?resize=1920%2C1440",
-      "summary": "China is leveraging its economic relationships with the US, Israel, Iran, and the Gulf to protect its interests. Beijing's strategy is keeping its stakes safe. Beijing has leveraged its strong economic relationship with the US, Israel, Iran and the Gulf to keep its stakes safe.",
+      "published_at": "2026-04-22T10:26:57+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd0a/live/ad0dd500-3e1b-11f1-84f5-7fc596316150.jpg",
+      "summary": "ईरान और अमेरिका के बीच बातचीत के लिए मंच तैयार है, लेकिन ईरान उत्साहित नहीं दिख रहा है. इस्लामाबाद में बातचीत की तैयारी है, लेकिन ईरान के प्रतिनिधि अभी तक नहीं पहुंचे हैं.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "OpenAI's ChatGPT Accused Of Guiding Florida Shooter On Gun, Ammunition",
-      "url": "https://www.ndtv.com/world-news/openais-chatgpt-accused-of-guiding-florida-shooter-on-gun-ammunition-11390594#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-22T08:22:24+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/av9l7vno_openai_625x300_02_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "OpenAI identified a ChatGPT account linked to the Florida shooter. The account is believed to be associated with the suspect. OpenAI identified a ChatGPT account believed to be associated with the suspect.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran Fires At 2 Ships In Hormuz Hours After Trump's Ceasefire Announcement",
-      "url": "https://www.ndtv.com/world-news/iran-fires-at-ship-in-hormuz-hours-after-trumps-ceasefire-announcement-11391622#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-22T08:18:14+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/2epb4f0o_strait-of-hormuz-closure_625x300_18_April_26.jpg",
-      "summary": "Iran fired at two ships in Hormuz after Trump's ceasefire announcement. A Guard gunboat did not hail the ship before firing. Iran Fires At 2 Ships In Hormuz Hours After Trump's Ceasefire Announcement.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China unveils plan to make cities more youth, child friendly",
-      "url": "https://www.channelnewsasia.com/east-asia/china-youth-child-friendly-cities-blueprint-6073071",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-22T08:17:16+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--ivyGPdSn--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-03-27T024531Z_1_LYNXMPEM2Q04V_RTROPTP_3_CHINA-EDUCATION.JPG?itok=8x6Sd-nF",
-      "summary": "China released a plan to make cities more youth and child friendly. The plan includes measures for jobs, housing, and healthcare. The blueprint, released on Wednesday (Apr 22), aims to ​deepen the construction of \"youth-development-oriented cities\" - with measures spanning jobs, ​housing, healthcare, family support and urban services.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran War Strands Food Aid for World’s Hungriest, UN Warns",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3pMYnhRVzdrUHVfdlU0UlpNcll2RFJuRkxDTi0xTjBnSXFaVWxYblpDU3pObWszdXhvLVlpTmlGNDVNRUZsWkpqQ3BpaElPeXpQNEFvNU9ucHJOMm94Z1hkLWY4aElVeWJ5VUo1YTZlSTNnN1QyT3dYSTJJRmVPUVJud2d5OERqaEZQZHRPQVlkeEhwOWFkXzdBdXNLb2V3NWlFSDVzdURnSmM?oc=5",
-      "source": "Google News (United Nations)",
-      "sources": [],
-      "published_at": "2026-04-22T08:16:50+00:00",
-      "image_url": "https://images.pexels.com/photos/37028533/pexels-photo-37028533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The Iran war is stranding food aid for the world's hungriest people. The UN warned about the stranded aid. Iran War Strands Food Aid for World’s Hungriest, UN Warns Bloomberg. com.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump extends ceasefire but blockade continues as second ship attacked in strait of Hormuz",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzBweDVLbkNBQzVKQVRTQ3lFWEN4dE9KS25HWFFnTXVKcmFUMWh0RXJmX0FOcWYwYnNUaWtpYnFRblJrSGp0OFFTT3FwQlBOUWZIY1lVdG5TT1JtQzlXeE5CN3J1QzN6akJTbjdrNk9pRGVzcGIteTloQXRaeDh4d2NMNjRMTzM1c1YwLXk2MGdNTDRKX3RhYm8wampnb3dKMmpJOTh2US15eFpVUW85QzNjcDlHY2pJcTZGOF9EdHhybzN3Q1lEdUFvM2RFaDA?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-04-22T08:16:00+00:00",
-      "image_url": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Trump extended the ceasefire with Iran. Iran attacked a container ship off Oman. Middle East crisis live: Trump extends ceasefire but blockade continues; Iran attacks container ship off Oman The Guardian.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Australia and New Zealand central banks monitoring Anthropic's Mythos release",
-      "url": "https://www.channelnewsasia.com/business/australia-and-new-zealand-central-banks-monitoring-anthropics-mythos-release-6073091",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-22T08:12:35+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--vV6MknBF--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-22T081133Z_1_LYNXMPEM3L0D5_RTROPTP_3_ANTHROPIC-MYTHOS-ASIAPAC.JPG?itok=zUpjZxst",
-      "summary": "The Reserve Bank of Australia and Reserve Bank of New Zealand are monitoring the release of Anthropic's Mythos, a large language model. The model's capabilities and potential impact on the financial sector are of interest to the central banks.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China condemns Japanese leaders' war shrine offerings, visits",
-      "url": "https://www.thehindu.com/news/international/china-condemns-japanese-leaders-war-shrine-offerings-visits/article70891969.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-22T08:08:49+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/5dwwk2/article70891998.ece/alternates/LANDSCAPE_1200/2026-04-21T034614Z_1626635416_RC2ETKAGSP9X_RTRMADP_3_JAPAN-POLITICS-YASUKUNI.JPG",
-      "summary": "China's Foreign Ministry spokesperson condemned Japanese leaders' visits to a war shrine, calling the actions \"heinous\" and \"grossly trampling on human conscience.\" China expressed strong disapproval of the shrine visits.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran attacks ship in Strait of Hormuz amid Trump's ceasefire extension",
-      "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-22-2026-donald-trump-tehran-strait-of-hormuz-blockade/article70891192.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-22T08:04:09+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/75owtk/article70891547.ece/alternates/LANDSCAPE_1200/AP04_22_2026_000012A.jpg",
-      "summary": "Trump extended the Iran ceasefire while maintaining a blockade. Israel and Hezbollah trade fire with talks expected this week, even as more talks are expected in Washington this week after a 10-day ceasefire went into effect last Friday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Venus hopes to play French Open after clay comeback in Madrid",
-      "url": "https://www.channelnewsasia.com/sport/venus-hopes-play-french-open-after-clay-comeback-in-madrid-6073076",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-22T08:02:51+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--nfR6ZLjo--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-22T080251Z_1_LYNXMPEM3L0CU_RTROPTP_3_TENNIS.JPG?itok=O90rVH5v",
-      "summary": "Venus Williams is hoping to play in the French Open after a successful clay-court comeback in Madrid. Williams' performance in Madrid has boosted her chances of competing in the French Open.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump Extends Iran Cease-Fire With Peace Talks in Limbo",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4UkN3UnZ4bXVpSDJtX0JaOUl5OV9PRF82MnlxNXdxYzJyNEFGWWljTlNuSmxkT1pKcWJmMGxIMTFIYjNzd3NERU5VQ3ozMUZJRDI4TjNnVXpRZzZHd0g3cC1JRHJ2WHFsVEpF?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-04-22T07:52:00+00:00",
-      "image_url": "https://images.pexels.com/photos/31513071/pexels-photo-31513071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "US President Donald Trump extended the Iran ceasefire, but peace talks remain in limbo. The ceasefire extension was announced without a clear indication of progress in negotiations. Iran War Live Updates: Trump Extends Iran Cease-Fire With Peace Talks in Limbo WSJ.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran fires on container ship in Strait of Hormuz",
-      "url": "https://www.thehindu.com/news/international/iran-fires-on-container-ship-in-strait-of-hormuz/article70891689.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-22T07:34:57+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/7yurr3/article70891724.ece/alternates/LANDSCAPE_1200/2026-04-13T112112Z_515242033_RC23BKA99PFN_RTRMADP_3_IRAN-CRISIS-HORMUZ-UN.JPG",
-      "summary": "Iran fired on a container ship in the Strait of Hormuz, according to the UK's Maritime Trade Operations centre. The attack caused no injuries or environmental damage. The British military’s United Kingdom Maritime Trade Operations centre said no one was hurt and there was no environmental impact from the attack.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran’s UN ambassador responds to US ceasefire extension",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-22T07:33:42+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/WIDE-THUMB-IRAN-RESPONDS-1776843136.png?resize=1920%2C1440",
-      "summary": "Iran's UN Ambassador responded to US President Donald Trump's extension of the ceasefire, but details of the response were not immediately available. Iran’s UN Ambassador has responded to US President Donald Trump’s announcement of an extension to the ceasefire.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Record number of immigrants reside in EU in 2025",
-      "url": "https://www.dw.com/en/record-number-of-immigrants-reside-in-eu-in-2025/a-76890285?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-04-22T07:28:00+00:00",
-      "image_url": "https://static.dw.com/image/65968847_6.jpg",
-      "summary": "The foreign-born population in the EU reached a record 64 million in 2025. Germany remains the largest host of immigrants, but smaller nations have a higher percentage of foreign-born residents.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran says U.S. naval blockade has little impact on food supply",
-      "url": "https://www.thehindu.com/news/international/iran-says-us-naval-blockade-has-little-impact-on-food-supply/article70891744.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-22T07:17:53+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/ahrkjq/article70891785.ece/alternates/LANDSCAPE_1200/2026-04-21T120931Z_285839098_RC2B2KA2HXE2_RTRMADP_3_IRAN-CRISIS-SHIPPING.JPG",
-      "summary": "Iran's Agriculture Minister Gholamreza Nouri said the US naval blockade has little impact on food supply, claiming Iran has no problem supplying basic goods and food. The statement comes as tensions between the two countries remain high.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump says ceasefire extended as talks with Tehran in limbo",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1ZsemdHcVMzM0pUbWpWQ3A1WUFwZzlKbG1YWGYwXzdESmNlUnl5MWRBdTN3YlpVQ3l1OHlkWVFVbDhkaFIyY2FkeWc5QmpkMldONXhGZ2IwRGVicVU3VFZhUTV1VXFmYVR2Z1NhOXJsMW9vS2VBd1hrSFRENHpoMlpuMEhXcmRLNUJoaS1IeU9GYjdFbnNPeHByeElWWDJsdE1LejkxWF81SG12TnJvVlNtRHlTNm1ONnM2VnUwTU7SAcYBQVVfeXFMT3llQkREbDlFMVpDaDRsdjVJYjhpdGpWeEdBX3N5ZUgtMWZxSExBMzZZbERlbFREcTQwZWl6V3FRRlAxdXk4OVlrQVBZTlM1X2ZVZXlLTzZKbjNiOUV5M0RqMkgtS0U0VDFjbmQtdTBpYXlid0Z1alY0clVVUWwtZHhIMTJPMFUxaGhvRkhUdGZWcy1XSG5IN2xGbGdQWllBUEdzVUhvd0tzZUM3bjdtSmQwTDVSSWpsbnJBcGlmaGFSeE5ybnh3?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-04-22T07:09:16+00:00",
-      "image_url": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "US President Donald Trump extended a ceasefire with Iran as talks remain unresolved in Tehran. Iran war live: Trump says ceasefire extended as talks with Tehran in limbo Al Jazeera.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान अमेरिका से बात करने में दिलचस्पी क्यों नहीं दिखा रहा है?",
+          "summary": "ईरान और अमेरिका के बीच बातचीत के लिए मंच तैयार है, लेकिन ईरान उत्साहित नहीं दिख रहा है. इस्लामाबाद में बातचीत की तैयारी है, लेकिन ईरान के प्रतिनिधि अभी तक नहीं पहुंचे हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "ईरान पर अमेरिका-इज़रायल हमलों का 54वां दिन: संघर्षविराम के बीच अविश्वास, हमले जारी और कूटनीति",
@@ -278,42 +314,6 @@
       }
     },
     {
-      "title": "बर्लिन में राजनाथ सिंह ने पीएम मोदी की कूटनीति की सराहना, कहा- भारत का दृष्टिकोण संतुलित और वैश्विक",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTV2dEh3QnM0dFFhVW93Z1FONTBNQWRXUFJpQlQ1bHNvTHd4bk5NZlp1ajY2dUY5NnJYQ3BqQUVIeVBpM3liVExXV0tqakNsXzJlR3FZTVBVVFlvc2NTZ05HbG85THVNX0NVT1RBeHMxSWdGRVBtUVJnMGU3cXBISGl0YVdIVjlUWXYxcGJ4ZFNydHRFbnBqYXM4ZllCWDU1NlRv0gGmAUFVX3lxTE84MVJmdDBZUnoxYllJLV9KelZVdzhTZW8xVFpfYnlWRDJGSU80c2p0Ul9OakpUTFNfblkwTTh2VHBnTXR0amhfckd2OXJQa2phMVRmbUgtRVFtbjh2Wjk4NklualpzZXBuSDlCNVRUMllMOUhudk4yRnN5Y2dGOHJtWjdaZENZWDBHVUp3eUpwT05GU2hHSWd4NHdMT2ZoZzgxNEJqSXc?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-22T07:58:23+00:00",
-      "image_url": "https://images.pexels.com/photos/32335629/pexels-photo-32335629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "राजनाथ सिंह ने बर्लिन में पीएम मोदी की कूटनीति की सराहना की। उन्होंने कहा कि भारत का दृष्टिकोण संतुलित और वैश्विक शांति की दिशा में अहम है। बर्लिन में राजनाथ सिंह ने पीएम मोदी की कूटनीति की सराहना, कहा- भारत का दृष्टिकोण संतुलित और वैश्विक शांति की दिशा में अहम Punjab Kesari।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बर्लिन में राजनाथ सिंह ने पीएम मोदी की कूटनीति की सराहना, कहा- भारत का दृष्टिकोण संतुलित और वैश्विक",
-          "summary": "राजनाथ सिंह ने बर्लिन में पीएम मोदी की कूटनीति की सराहना की। उन्होंने कहा कि भारत का दृष्टिकोण संतुलित और वैश्विक शांति की दिशा में अहम है। बर्लिन में राजनाथ सिंह ने पीएम मोदी की कूटनीति की सराहना, कहा- भारत का दृष्टिकोण संतुलित और वैश्विक शांति की दिशा में अहम Punjab Kesari।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "UN दूत बोलीं-भारत ने इजराइल की मदद कर कानून तोड़ा: हथियार भेजना नियमों के खिलाफ, इससे ग्लोबल सिस्टम",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNk56dmlDWmNPbGZGdWljNkRvNm00QjR1UDBhVEFaUmRPeFRLYXJjVjBRNGlkaFBqcE1TaHpZS0tncVdiTDRFd1NZcEFXTE1NSUdzc0pPTHFpZUhJV2xod2Y4ZEpBYUtGR0JCWmJ1YWVIQUtrcDBhdExmaWY3Ti1EcnZlS2N0UUtzSmNMQU5iOTliNFN3RnlUb09NZEJVMkVxUHlObHh6WdIBrAFBVV95cUxNcHhJcjdLQm5STWJlVVNBY0Nwcm1NT24xQ3prLTV6Z2RwdVJQaF9xSm5oRkt4NVBTTWVaanNlZ0VudTVLUEJBMWl5X0RwM1V2b1BtRTE5UVBpV3lQVXFQdFdKMmVIc0ZFaWhLMzFxbE9DaGZONzAtZURkYktnMURyaVJ2Y0JtN1U2NngxZ3lwSnNOQm9xNDQtSzVXYjdUcnpFbUh3SVNEMFNiZjZf?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-22T07:15:49+00:00",
-      "image_url": "https://images.pexels.com/photos/15405989/pexels-photo-15405989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "UN दूत ने कहा कि भारत ने इजराइल को हथियार भेजकर अंतरराष्ट्रीय कानून तोड़ा है. इससे वैश्विक प्रणाली कमजोर होती है. भारत की इस कार्रवाई से 국제 समुदाय में चिंता बढ़ गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UN दूत बोलीं-भारत ने इजराइल की मदद कर कानून तोड़ा: हथियार भेजना नियमों के खिलाफ, इससे ग्लोबल सिस्टम",
-          "summary": "UN दूत ने कहा कि भारत ने इजराइल को हथियार भेजकर अंतरराष्ट्रीय कानून तोड़ा है. इससे वैश्विक प्रणाली कमजोर होती है. भारत की इस कार्रवाई से 국제 समुदाय में चिंता बढ़ गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "खबरों में सूत्रों के हवाले से दावों की भरमार, जंग कब थमेगी? फिलहाल जवाब किसी के पास नहीं",
       "url": "https://www.amarujala.com/world/iran-us-ceasefire-uncertainty-deepens-as-pakistan-s-mediation-role-faces-questions-2026-04-22",
       "source": "Amar Ujala World",
@@ -327,24 +327,6 @@
         "hi": {
           "title": "खबरों में सूत्रों के हवाले से दावों की भरमार, जंग कब थमेगी? फिलहाल जवाब किसी के पास नहीं",
           "summary": "ईरान और अमेरिका के बीच सीजफायर की खबरों में सूत्रों के हवाले से दावों की भरमार है। फिलहाल, जंग कब थमेगी इसका जवाब किसी के पास नहीं है। ईरान-अमेरिका सीजफायर: खबरों में सूत्रों के हवाले से दावों की भरमार, जंग कब थमेगी?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान जंग में मध्यस्थता के सवाल पर बोले राजनाथ, कहा- PM का दृष्टिकोण संतुलित",
-      "url": "https://www.amarujala.com/world/rajnath-singh-in-germany-india-role-in-west-asia-peace-cannot-be-denied-news-in-hindi-2026-04-22",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-22T07:01:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/rajanatha-saha-rakashha-matara_f8bc1a8e34d3cad005e4356213164a52.jpeg?w=750&dpr=1.0",
-      "summary": "राजनाथ सिंह ने जर्मनी में कहा कि पीएम मोदी का दृष्टिकोण संतुलित है। उन्होंने पश्चिम एशिया शांति में भारत की भूमिका से इनकार नहीं किया। ईरान जंग में मध्यस्थता के सवाल पर बोले राजनाथ, कहा- PM का दृष्टिकोण संतुलित।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान जंग में मध्यस्थता के सवाल पर बोले राजनाथ, कहा- PM का दृष्टिकोण संतुलित",
-          "summary": "राजनाथ सिंह ने जर्मनी में कहा कि पीएम मोदी का दृष्टिकोण संतुलित है। उन्होंने पश्चिम एशिया शांति में भारत की भूमिका से इनकार नहीं किया। ईरान जंग में मध्यस्थता के सवाल पर बोले राजनाथ, कहा- PM का दृष्टिकोण संतुलित।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -440,38 +422,20 @@
       }
     },
     {
-      "title": "'जर्मनी यूरोप में भारत का सबसे बड़ा व्यापारिक साझेदार ', अपनी पहली यात्रा पर बोले राजनाथ सिंह",
-      "url": "https://www.amarujala.com/world/germany-is-india-s-largest-trading-partner-in-europe-says-rajnath-singh-on-his-first-visit-2026-04-22",
-      "source": "Amar Ujala World",
+      "title": "अभिषेक शर्मा ने ब्रॉडकास्टर से की ये गुज़ारिश, 'अगली बार से मैं चाहता हूँ...'",
+      "url": "https://www.bbc.com/hindi/articles/c1l969remvdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-22T05:16:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/rajanatha-saha_563074536f085fc43b1b651e56f32797.gif?w=750&dpr=1.0",
-      "summary": "राजनाथ सिंह ने जर्मनी यात्रा पर कहा कि जर्मनी यूरोप में भारत का सबसे बड़ा व्यापारिक साझेदार है। यह बयान उनकी पहली यात्रा पर आया। 'जर्मनी यूरोप में भारत का सबसे बड़ा व्यापारिक साझेदार ', अपनी पहली यात्रा पर बोले राजनाथ सिंह।",
-      "region": "Europe & Russia",
+      "published_at": "2026-04-22T03:26:21+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/53d9/live/d71ed870-3df9-11f1-a9f3-a39646095998.jpg",
+      "summary": "सनराइजर्स हैदराबाद के बल्लेबाज़ अभिषेक शर्मा ने आईपीएल मैच में 20 ओवर बल्लेबाज़ी की और नाबाद रहे. उन्होंने ब्रॉडकास्टर से अगली बार से कुछ बदलाव करने की गुज़ारिश की. सनराइजर्स हैदराबाद का यह धाकड़ बल्लेबाज़ आईपीएल मु़क़ाबले में पारी की शुरुआत में उतरा और अंत तक डटा रहा.",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'जर्मनी यूरोप में भारत का सबसे बड़ा व्यापारिक साझेदार ', अपनी पहली यात्रा पर बोले राजनाथ सिंह",
-          "summary": "राजनाथ सिंह ने जर्मनी यात्रा पर कहा कि जर्मनी यूरोप में भारत का सबसे बड़ा व्यापारिक साझेदार है। यह बयान उनकी पहली यात्रा पर आया। 'जर्मनी यूरोप में भारत का सबसे बड़ा व्यापारिक साझेदार ', अपनी पहली यात्रा पर बोले राजनाथ सिंह।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "US दौरे पर भारतीय सेना प्रमुख: द्विपक्षीय सैन्य संबंध मजबूत करने की कवायद, मुक्त और समृद्ध",
-      "url": "https://www.amarujala.com/world/general-upendra-dwivedi-s-us-visit-india-us-military-relations-gaining-strength-2026-04-22",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-22T04:33:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/12/13/chief-of-army-staff-general-upendra-dwivedi_63daec4dd7ee0d06d306488fc65d2b81.jpeg?w=750&dpr=1.0",
-      "summary": "जनरल उपेन्द्र द्विवेदी का अमेरिका दौरा भारत-यूएस सैन्य रिश्तों को मजबूत करने के लिए है। इस दौरान इंडो-पैसिफिक रणनीति पर जोर दिया जाएगा। US दौरे पर भारतीय सेना प्रमुख: द्विपक्षीय सैन्य संबंध मजबूत करने की कवायद, मुक्त और समृद्ध।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "US दौरे पर भारतीय सेना प्रमुख: द्विपक्षीय सैन्य संबंध मजबूत करने की कवायद, मुक्त और समृद्ध",
-          "summary": "जनरल उपेन्द्र द्विवेदी का अमेरिका दौरा भारत-यूएस सैन्य रिश्तों को मजबूत करने के लिए है। इस दौरान इंडो-पैसिफिक रणनीति पर जोर दिया जाएगा। US दौरे पर भारतीय सेना प्रमुख: द्विपक्षीय सैन्य संबंध मजबूत करने की कवायद, मुक्त और समृद्ध।",
-          "region": "एशिया-प्रशांत"
+          "title": "अभिषेक शर्मा ने ब्रॉडकास्टर से की ये गुज़ारिश, 'अगली बार से मैं चाहता हूँ...'",
+          "summary": "सनराइजर्स हैदराबाद के बल्लेबाज़ अभिषेक शर्मा ने आईपीएल मैच में 20 ओवर बल्लेबाज़ी की और नाबाद रहे. उन्होंने ब्रॉडकास्टर से अगली बार से कुछ बदलाव करने की गुज़ारिश की. सनराइजर्स हैदराबाद का यह धाकड़ बल्लेबाज़ आईपीएल मु़क़ाबले में पारी की शुरुआत में उतरा और अंत तक डटा रहा.",
+          "region": "दुनिया"
         }
       }
     },
@@ -530,6 +494,24 @@
       }
     },
     {
+      "title": "सुनार की दुकान में धुसा बंदर, अनोखे अंदाज ने लोगों को किया हैरान",
+      "url": "https://www.amarujala.com/bizarre-news/jewellery-shop-mai-ghusa-bandar-monkey-enters-jewellery-shop-then-what-happened-video-viral-2026-04-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-21T23:06:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/video-viral_9ff55da0d003b5edd45fd3638bbc3889.jpeg?w=750&dpr=1.0",
+      "summary": "एक बंदर अचानक एक ज्वेलरी शॉप में घुस आया और लोगों को हैरान कर दिया. दुकान के अंदर मौजूद लोग बंदर को देखकर सन्न रह गए. इस वायरल क्लिप में जो नजारा दिखता है, वह वाकई अलग और चौंकाने वाला है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुनार की दुकान में धुसा बंदर, अनोखे अंदाज ने लोगों को किया हैरान",
+          "summary": "एक बंदर अचानक एक ज्वेलरी शॉप में घुस आया और लोगों को हैरान कर दिया. दुकान के अंदर मौजूद लोग बंदर को देखकर सन्न रह गए. इस वायरल क्लिप में जो नजारा दिखता है, वह वाकई अलग और चौंकाने वाला है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "वैश्विक संकट के बावजूद भारत की स्थिति मजबूत, इस साल 6.4 फीसदी रहेगी आर्थिक वृद्धि दर",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1VlM3dlN2dteWQydmFYOXo3TnkwdkJIUG85QmRsRV9ZUWZ0WWswN3ZCbjBXZlVPb2M3ODJ4RF9zNVY4eUhwRnRpdms2OXdlZmFHN21hMHpvSkdTNjN3dDB1aW83U1V6WldKeG9qYkdyV2xZUEptOUxJQ2Q5QldIUVBLNlVsMjhaRXNRTWJCYVMtOEhjdnFsODhqSnY?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -548,6 +530,96 @@
       }
     },
     {
+      "title": "साउथ के इस मशहूर एक्टर के साथ नजर आएंगे अक्षय कुमार? चंदू मोंडेती संभालेंगे फिल्म के निर्देशन की",
+      "url": "https://www.amarujala.com/entertainment/south-cinema/akshay-kumar-and-rana-daggubati-will-work-together-in-historical-thriller-chandoo-mondeti-will-direct-it-2026-04-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-21T22:56:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/akashhaya-kamara_d0f8851d5fffdf7980735f795ec6ed17.jpeg?w=750&dpr=1.0",
+      "summary": "अक्षय कुमार और साउथ के एक्टर राणा दग्गुबाती एक फिल्म में साथ नजर आएंगे. फिल्म के निर्देशन की जिम्मेदारी चंदू मोंडेती को दी गई है. बॉलीवुड के एक्टर अक्षय कुमार और साउथ के एक्टर राणा दग्गुबाती, दोनों ही बड़े स्टार हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "साउथ के इस मशहूर एक्टर के साथ नजर आएंगे अक्षय कुमार? चंदू मोंडेती संभालेंगे फिल्म के निर्देशन की",
+          "summary": "अक्षय कुमार और साउथ के एक्टर राणा दग्गुबाती एक फिल्म में साथ नजर आएंगे. फिल्म के निर्देशन की जिम्मेदारी चंदू मोंडेती को दी गई है. बॉलीवुड के एक्टर अक्षय कुमार और साउथ के एक्टर राणा दग्गुबाती, दोनों ही बड़े स्टार हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पीरियड्स में आता है कम फ्लो? जानें ये सही है या गलत",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/woman-health-tips-period-me-kam-bleeding-kyu-hoti-hai-2026-04-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-21T22:53:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/woman-health-tips_773bdc30b26db5751e47bf229ac032b7.jpeg?w=750&dpr=1.0",
+      "summary": "कुछ महिलाओं में पीरियड्स के दौरान कम फ्लो होता है। यह सामान्य है और घबराने की जरूरत नहीं है। इसके कारणों को समझने से महिलाओं को अपने स्वास्थ्य के बारे में जानकारी मिल सकती है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीरियड्स में आता है कम फ्लो? जानें ये सही है या गलत",
+          "summary": "कुछ महिलाओं में पीरियड्स के दौरान कम फ्लो होता है। यह सामान्य है और घबराने की जरूरत नहीं है। इसके कारणों को समझने से महिलाओं को अपने स्वास्थ्य के बारे में जानकारी मिल सकती है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "राखी सावंत की अतरंगी हरकतों से नहीं बच पाईं अमीषा पटेल, वायरल वीडियो देखकर फैंस की भी छूट गई हंसी",
+      "url": "https://www.amarujala.com/entertainment/bollywood/ameesha-patel-and-rakhi-sawant-funny-video-viral-fans-burst-into-laughter-2026-04-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-21T22:53:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/amashha-patal-oura-rakha-savata_fbee98da3d63bc713dbf53ef5bd67c97.jpeg?w=750&dpr=1.0",
+      "summary": "राखी सावंत ने एयरपोर्ट पर अमीषा पटेल के साथ मजाक किया, जिसका वीडियो वायरल हो गया। इसमें राखी का अतरंगी अंदाज और अमीषा की हंसी देखने को मिली। फैंस को यह मजेदार लगा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राखी सावंत की अतरंगी हरकतों से नहीं बच पाईं अमीषा पटेल, वायरल वीडियो देखकर फैंस की भी छूट गई हंसी",
+          "summary": "राखी सावंत ने एयरपोर्ट पर अमीषा पटेल के साथ मजाक किया, जिसका वीडियो वायरल हो गया। इसमें राखी का अतरंगी अंदाज और अमीषा की हंसी देखने को मिली। फैंस को यह मजेदार लगा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'बड़ी रैली में जाम तो लगेगा ही': ट्रैफिक में फंसी महिला के गुस्से पर मंत्री गिरीश महाजन ने दी सफाई",
+      "url": "https://www.amarujala.com/india-news/maharashtra-minister-girish-mahajan-responds-to-a-woman-s-anger-over-a-traffic-jam-during-bjp-rally-in-worli-m-2026-04-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-21T22:49:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/bugdha-ral-ma-jama-lgana-savabhavaka-ha-matara-garasha-mahajana_9a68e5ace9093dcf6d72ea69a7783ef7.jpeg?w=750&dpr=1.0",
+      "summary": "महाराष्ट्र के मंत्री गिरीश महाजन ने वर्ली में भाजपा रैली के दौरान ट्रैफिक जाम में फंसी महिला के गुस्से पर सफाई दी। उन्होंने कहा कि बड़ी रैली में जाम लगना स्वाभाविक है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'बड़ी रैली में जाम तो लगेगा ही': ट्रैफिक में फंसी महिला के गुस्से पर मंत्री गिरीश महाजन ने दी सफाई",
+          "summary": "महाराष्ट्र के मंत्री गिरीश महाजन ने वर्ली में भाजपा रैली के दौरान ट्रैफिक जाम में फंसी महिला के गुस्से पर सफाई दी। उन्होंने कहा कि बड़ी रैली में जाम लगना स्वाभाविक है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरानी सेना ने तीन जहाजों पर की गोलीबारी, शांति वार्ता को लेकर अब भी संशय बरकरार",
+      "url": "https://www.amarujala.com/world/situation-deteriorates-again-in-hormuz-iranian-forces-open-fire-on-three-ships-uncertainty-persists-over-peace-2026-04-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-21T22:46:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/13/hormuz-iran_4a4cc6677215e7ae6bc82ac616c8d039.jpeg?w=750&dpr=1.0",
+      "summary": "ईरानी सेना ने होर्मुज में तीन जहाजों पर गोलीबारी की। इससे शांति वार्ता को लेकर संशय बना हुआ है। इस घटना ने क्षेत्र में तनाव बढ़ा दिया है। होर्मुज में फिर बिगड़े हालात: ईरानी सेना ने तीन जहाजों पर की गोलीबारी, शांति वार्ता को लेकर अब भी संशय बरकरार।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरानी सेना ने तीन जहाजों पर की गोलीबारी, शांति वार्ता को लेकर अब भी संशय बरकरार",
+          "summary": "ईरानी सेना ने होर्मुज में तीन जहाजों पर गोलीबारी की। इससे शांति वार्ता को लेकर संशय बना हुआ है। इस घटना ने क्षेत्र में तनाव बढ़ा दिया है। होर्मुज में फिर बिगड़े हालात: ईरानी सेना ने तीन जहाजों पर की गोलीबारी, शांति वार्ता को लेकर अब भी संशय बरकरार।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "पश्चिम एशिया संघर्ष में 8 भारतीयों की मौत, एक अब भी लापता",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTURjQm0yZENwZm1ucWJLZmVacVB3LTVRaThIQUtiTWpYVHNFczl5T214YUhkVzhiTVZzS21UeEd4N0FjelZ6dTctWWt4bGxjQVpRTU10NVNITnFuYTZuRFVXYkxERE4tZHlTeEVKQVJVaE90UDV2eWRnWWNtZXRDV283dG5FQ2lYS1E3T3JwV0l0VDRxUmxQTGNIT0hXU3QzYnQxQjBZWk9GVGVpQmJENXVncG9lZk9xOE56WmtEc25wUVlHb3NienFQWElpem5qS3QxMXkwRFJicmZtYldCYtIB5gFBVV95cUxNVk9iZ3VYLVZlYmlqZ250QWhwYkxHR0tYUXVtSDRSYk1MOE9jQzVKUm8tMnNzTlNGRU9xZWhmMTNwMGR1WGQzUE41eGp3emcxdVRXTnFJank2c1c5VEZkTEZ3Rll6WnRGa2NQNTJRMFNkWjZvNTNfMFIxY29PY2ZCRTQxZlVYSXRNZ0UyeVZQQWlTVjNjWDJjN01qc2pHOEFXenNDZ2tiM3FrNEFRemdYUmhDb3c3Z3IyY25EUDZQS2MwTDJFc25yMXJGSWpHcWpzVXp3MXM3TVltSVlFM2daQjZCR0ljUQ?oc=5",
       "source": "Google News Hindi (युद्ध संघर्ष)",
@@ -561,78 +633,6 @@
         "hi": {
           "title": "पश्चिम एशिया संघर्ष में 8 भारतीयों की मौत, एक अब भी लापता",
           "summary": "पश्चिम एशिया में संघर्ष में 8 भारतीयों की मौत हो गई है और एक व्यक्ति अभी भी लापता है। पश्चिम एशिया संघर्ष में 8 भारतीयों की मौत, एक अब भी लापता AajTak।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'पहचान से नहीं होगा खिलवाड़', बंगाल में CM योगी का तीखा वार; कानून-व्यवस्था पर उठाए सवाल",
-      "url": "https://www.amarujala.com/live/india-news/assembly-elections-2026-live-updates-pm-campaign-tamil-nadu-cm-mamata-bengali-identity-bjp-tmc-dmk-hindi-news-2026-04-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-21T21:24:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/16/canava-rajaya-ma-rajanataka-halcal-taja_7d4b82e5e9775cb2a2c9c6527c858525.gif?w=750&dpr=1.0",
-      "summary": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने बंगाल में कानून-व्यवस्था पर सवाल उठाए. उन्होंने कहा कि पहचान से नहीं होगा खिलवाड़. 'पहचान से नहीं होगा खिलवाड़', बंगाल में CM योगी का तीखा वार; कानून-व्यवस्था पर उठाए सवाल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'पहचान से नहीं होगा खिलवाड़', बंगाल में CM योगी का तीखा वार; कानून-व्यवस्था पर उठाए सवाल",
-          "summary": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने बंगाल में कानून-व्यवस्था पर सवाल उठाए. उन्होंने कहा कि पहचान से नहीं होगा खिलवाड़. 'पहचान से नहीं होगा खिलवाड़', बंगाल में CM योगी का तीखा वार; कानून-व्यवस्था पर उठाए सवाल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "UP Board 10th 12th Result Live: कल इस वेबसाइट पर मिलेगा यूपी बोर्ड का रिजल्ट, शाम 4 बजे यहां डालें",
-      "url": "https://www.amarujala.com/live/education/up-board-result-2026-live-upmsp-10th-12th-result-kab-ayega-check-date-time-upresults-nic-in-digilocker-2026-04-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-21T21:23:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/18/upmsp-up-board-10th-12th-result-2026_1ae288e25eddb741b3761fe55f9116c1.jpeg?w=750&dpr=1.0",
-      "summary": "उत्तर प्रदेश माध्यमिक शिक्षा परिषद 10वीं और 12वीं की वार्षिक परीक्षाओं के परीक्षाफल 23 अप्रैल को शाम 4 बजे घोषित करेगा. UPMSP Up Board 10th 12th Result 2026 Live Updates in Hindi: उत्तर प्रदेश माध्यमिक शिक्षा परिषद (UPMSP) ने 10वीं और 12वीं की वार्षिक परीक्षाओं के परीक्षाफल जारी करने की तिथि और समय का एलान कर दिया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UP Board 10th 12th Result Live: कल इस वेबसाइट पर मिलेगा यूपी बोर्ड का रिजल्ट, शाम 4 बजे यहां डालें",
-          "summary": "उत्तर प्रदेश माध्यमिक शिक्षा परिषद 10वीं और 12वीं की वार्षिक परीक्षाओं के परीक्षाफल 23 अप्रैल को शाम 4 बजे घोषित करेगा. UPMSP Up Board 10th 12th Result 2026 Live Updates in Hindi: उत्तर प्रदेश माध्यमिक शिक्षा परिषद (UPMSP) ने 10वीं और 12वीं की वार्षिक परीक्षाओं के परीक्षाफल जारी करने की तिथि और समय का एलान कर दिया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सिर्फ 2 घंटे मोबाइल बंद करने की आदत दे सकती है दिमाग को नई ताकत, जानिए कैसे?",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/mental-and-psychological-benefits-what-happens-if-you-turn-off-your-mobile-devices-for-two-hours-digital-detox-2026-04-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-21T21:23:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/21/kasa-kara-thamaga-ka-rasata_62215f5dda9b1de8315669042a7835ca.jpeg?w=750&dpr=1.0",
-      "summary": "दो घंटे के लिए फोन या टीवी से दूरी बनाने से हमारे दिमाग को नई ताकत मिल सकती है. विज्ञान 이에 대해 कुछ कहना है. क्या केवल दो घंटे के लिए फोन, टीवी या बाकी डिजिटल उपकरणों से दूरी बनाने से हमारे दिमाग को ताकत मिलती है?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिर्फ 2 घंटे मोबाइल बंद करने की आदत दे सकती है दिमाग को नई ताकत, जानिए कैसे?",
-          "summary": "दो घंटे के लिए फोन या टीवी से दूरी बनाने से हमारे दिमाग को नई ताकत मिल सकती है. विज्ञान 이에 대해 कुछ कहना है. क्या केवल दो घंटे के लिए फोन, टीवी या बाकी डिजिटल उपकरणों से दूरी बनाने से हमारे दिमाग को ताकत मिलती है?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सिंगापुर दौरे पर बोले केंद्रीय सचिव- लॉजिस्टिक्स-औद्योगिक हब बनने की राह पर बंदरगाह",
-      "url": "https://www.amarujala.com/business/business-diary/union-secretary-on-singapore-visit-port-on-the-path-to-becoming-a-logistics-industrial-hub-2026-04-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-21T21:22:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/24/gujarat-kandla-port-deendayal-port-authority-itf-india-news-world-news-national-news-intern_19b3245bece6a58a19d0df027d23a119.jpeg?w=750&dpr=1.0",
-      "summary": "केंद्रीय सचिव ने सिंगापुर दौरे पर कहा कि भारत के बंदरगाह लॉजिस्टिक्स और औद्योगिक हब बनने की राह पर हैं. भारत में अवसरों की भरमार: सिंगापुर दौरे पर बोले केंद्रीय सचिव- लॉजिस्टिक्स-औद्योगिक हब बनने की राह पर बंदरगाह।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंगापुर दौरे पर बोले केंद्रीय सचिव- लॉजिस्टिक्स-औद्योगिक हब बनने की राह पर बंदरगाह",
-          "summary": "केंद्रीय सचिव ने सिंगापुर दौरे पर कहा कि भारत के बंदरगाह लॉजिस्टिक्स और औद्योगिक हब बनने की राह पर हैं. भारत में अवसरों की भरमार: सिंगापुर दौरे पर बोले केंद्रीय सचिव- लॉजिस्टिक्स-औद्योगिक हब बनने की राह पर बंदरगाह।",
           "region": "एशिया-प्रशांत"
         }
       }
