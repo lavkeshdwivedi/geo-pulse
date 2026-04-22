@@ -1,105 +1,93 @@
 {
-  "generated_at": "2026-04-22T15:16:48.015211+00:00",
+  "generated_at": "2026-04-22T17:05:47.568825+00:00",
   "article_count": 42,
-  "total_unique_count": 255,
+  "total_unique_count": 256,
   "digest": {
-    "en": "Iranian forces claim to have seized two ships near the Strait of Hormuz. The seizures follow US President Trump's extension of a cease-fire with Iran. Japan is rethinking its security policy in response to an expansionist China.",
-    "hi": "ईरान ने ओमान के पास समुद्री जहाज पर हमला किया, जिससे शिप को भारी नुकसान हुआ। सभी क्रू मेंबर सुरक्षित हैं। ईरान की इस कार्रवाई से क्षेत्र में तनाव बढ़ गया है।"
+    "en": "Iranian forces claim to have seized two ships near the Strait of Hormuz. US President Trump extended a truce with Iran. Pakistan is pushing for talks between the US and Iran as a blockade standoff continues.",
+    "hi": "अमेरिकी प्रशासन ने मध्य पूर्व में युद्धविराम बढ़ाने का फैसला किया है। इस फैसले की अरब मीडिया में मिली-जुली प्रतिक्रियाएं हैं। कुछ मीडिया घरों ने इसे सकारात्मक कदम बताया है, जबकि अन्य ने इसे अपर्याप्त बताया है।"
   },
   "articles": [
     {
-      "title": "Iranian Forces Claim Seizure of 2 Ships Near Strait of Hormuz After Trump Extends Cease-Fire",
+      "title": "Iranian Forces Claim to Seize 2 Ships After Trump Extends Truce",
+      "url": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-22T16:54:10+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/22/multimedia/22israel-iran-promo-ltmf/22israel-iran-promo-ltmf-mediumSquareAt3X.jpg",
+      "summary": "Iran's Revolutionary Guards seized two cargo ships near the Strait of Hormuz, state media reported. The incident occurred as President Trump renewed a cease-fire, with both sides seeking control in the waterway.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran Claims to Seize 2 Ships Near Strait of Hormuz After Trump Extends Truce",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZDdvSkZRUjFtSXE1QzJwUDFvQUREYXR0UHdBXzcwV0tWVzFOTFN5eDZIY2kwNnlMNW9ZY2lPWjZhQkw3bmpUdHhXcjkxY0JPcmNRa0RjLW9VQzVYUEFqNWx0QWJ6MXNibXdHMFFxM3ZVekF6aXhodlN5WHlQVUhBLXBB?oc=5",
       "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-04-22T15:05:09+00:00",
-      "image_url": "https://images.pexels.com/photos/7147498/pexels-photo-7147498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "published_at": "2026-04-22T16:54:09+00:00",
+      "image_url": "https://images.pexels.com/photos/14136510/pexels-photo-14136510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "Iranian forces seized two ships near the Strait of Hormuz. The incident occurred after a cease-fire extension. Iran War Live Updates: Iranian Forces Claim Seizure of 2 Ships Near Strait of Hormuz After Trump Extends Cease-Fire The New York Times.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Breaking down the words you’re hearing",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/the-war-on-iran-breaking-down-the-words-youre-hearing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-22T14:50:58+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776869434.jpg?resize=1200%2C675",
-      "summary": "The US-Israel war on Iran uses terminology from various linguistic origins. The terminology of the US-Israel war on Iran is drawn from a range of linguistic origins. Breaking down the words you’re hearing.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Los Angeles becomes first major US school district to limit classroom screen time",
-      "url": "https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-04-22T14:22:59+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260e/live/bd687720-3e4d-11f1-bb02-b7764f8dd2b3.jpg",
-      "summary": "Los Angeles limited classroom screen time in its school district. The district serves half a million students. The school district, which serves about half a million students, is looking to reduce its reliance on devices after the pandemic.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "\"Good News\" On Talks With Iran Could Come By Friday: Trump",
-      "url": "https://www.ndtv.com/world-news/good-news-on-talks-with-iran-could-come-by-friday-trump-11394173#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-22T14:17:31+00:00",
-      "image_url": "https://i.ndtvimg.com/i/2018-04/donald-trump-reuters_650x400_81522641277.jpg",
-      "summary": "Trump expects good news on Iran talks by Friday. He made the statement publicly. \"Good News\" On Talks With Iran Could Come By Friday: Trump.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzBweDVLbkNBQzVKQVRTQ3lFWEN4dE9KS25HWFFnTXVKcmFUMWh0RXJmX0FOcWYwYnNUaWtpYnFRblJrSGp0OFFTT3FwQlBOUWZIY1lVdG5TT1JtQzlXeE5CN3J1QzN6akJTbjdrNk9pRGVzcGIteTloQXRaeDh4d2NMNjRMTzM1c1YwLXk2MGdNTDRKX3RhYm8wampnb3dKMmpJOTh2US15eFpVUW85QzNjcDlHY2pJcTZGOF9EdHhybzN3Q1lEdUFvM2RFaDA?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-04-22T14:02:00+00:00",
-      "image_url": "https://images.pexels.com/photos/15904544/pexels-photo-15904544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Iran seized two ships in the Strait of Hormuz after the US extended a ceasefire. Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire The Guardian.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran war news, Iran says it has seized two ships crossing Strait of Hormuz",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1pUcWVOb1k4dUZudVI4ZllXLXlkNDZZOXA4LVpVZVZCQmVSek9KZTFmQnhMQTBvSjE2dGFKZDlKeGVKaktWUEVidnF6MHl6SGNfQ1NjMW9MVzgzaW9hMEx6WTRmQ1dsVHFqZ2JlNkJhTG1uSnlUMHZQdDdubk56MGwzZXoybHozaTRR?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-04-22T13:56:00+00:00",
-      "image_url": "https://images.pexels.com/photos/31262146/pexels-photo-31262146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Iran seized two ships crossing the Strait of Hormuz. The ships were taken by Iranian forces. Live updates: Iran war news, Iran says it has seized two ships crossing Strait of Hormuz CNN.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Japan rethinks security policy in face of expansionist China",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZHNSa2RlUnBNM1VONjRxa2pFbUR6WldVQ05ORER3ZUtEZk91ajJiaTBDSTlyUFFoX29CQlplbFdZdWtXOE5XeVRlYnBDWHNGanlCdm5adEtMRERETjVmZ244UWNBWGxxWDFnenJZTmZEX3F6aVJjRV9MZEhlSnNaY0ZJa2luRERwc0M1NTdfOURKeFZCMlFiR0dOdFJKQQ?oc=5",
-      "source": "Google News (global security)",
-      "sources": [],
-      "published_at": "2026-04-22T13:52:30+00:00",
-      "image_url": "https://images.pexels.com/photos/33116233/pexels-photo-33116233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Japan is reassessing its security policy in response to China's expanding influence in the region. The move comes as Japan seeks to strengthen its military presence in the face of growing tensions with China.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Three Ships Attacked in Strait of Hormuz After Trump Extends Cease-Fire, Blockade",
+      "title": "Three Ships Attacked in Strait of Hormuz, Escorting Two to Its Coast",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4UkN3UnZ4bXVpSDJtX0JaOUl5OV9PRF82MnlxNXdxYzJyNEFGWWljTlNuSmxkT1pKcWJmMGxIMTFIYjNzd3NERU5VQ3ozMUZJRDI4TjNnVXpRZzZHd0g3cC1JRHJ2WHFsVEpF?oc=5",
       "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-04-22T13:52:00+00:00",
+      "published_at": "2026-04-22T16:52:00+00:00",
       "image_url": "https://images.pexels.com/photos/34432896/pexels-photo-34432896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "Three ships were attacked in the Strait of Hormuz after the US extended a cease-fire and blockade. The incident occurred despite a 10-day truce brokered by the US, which is set to expire.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Banorte pushes cashless payments at Azteca as World Cup deadline nears",
+      "url": "https://www.channelnewsasia.com/sport/banorte-pushes-cashless-payments-azteca-world-cup-deadline-nears-6074231",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-22T16:34:54+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--zjSOwykW--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-22T163454Z_1_LYNXMPEM3L14M_RTROPTP_3_SOCCER-WORLDCUP-MEXICO-STADIUM.JPG?itok=Ul-BhxOK",
+      "summary": "Mexico's Banorte is promoting cashless payments at its Azteca chain. The push comes as the World Cup deadline approaches. Banorte pushes cashless payments at Azteca as World Cup deadline nears.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
+      "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-04-22T16:19:36+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcd5/live/3a8762d0-3e6b-11f1-91e9-e97dba847610.png",
+      "summary": "A standoff continues in the Strait of Hormuz between the US and Iran. Pakistan is urging talks to ease tensions. The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S.-Iran talks could be held in next three days, says Trump",
+      "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-22-2026-donald-trump-tehran-strait-of-hormuz-blockade/article70891192.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-22T16:15:12+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/75owtk/article70891547.ece/alternates/LANDSCAPE_1200/AP04_22_2026_000012A.jpg",
+      "summary": "US and Iran may hold talks within three days, President Trump said. Iran's Guards claim to have seized two ships attempting to cross the Strait of Hormuz. Iran Guards say 'seized' two ships attempting to cross Strait of Hormuz; Iran says it has yet to decide whether to join a new round of talks with the U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Culture and Conversation Tables Bring the World to Maxwell - Maxwell School of Citizenship and",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLU1PYXJlVHlEQ2gwR3lXNzZfSDZLbUtWY1h1VDJtVkt4LXdkUmVaTGFsaS1fUHhlaGRKa2Z1dWQyenl0ZHJ4Rm9NSk0zT1FXUTJweE1GZ2kzVjFaT0ZWSHRWWUxRSml5NUthRGdtLS10cFUzVVA3ZFVOS3NiRHRNb3dJVDMyN2RoV0lVc3htRzJKTDV3SnZDV20zMkdXSWxY?oc=5",
+      "source": "Google News (international relations)",
+      "sources": [],
+      "published_at": "2026-04-22T16:07:02+00:00",
+      "image_url": "https://images.pexels.com/photos/6612735/pexels-photo-6612735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Syracuse University's Maxwell School hosts Culture and Conversation Tables. The event brings together people from around the world. Culture and Conversation Tables Bring the World to Maxwell Maxwell School of Citizenship and Public Affairs.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -108,7 +96,7 @@
       "url": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html",
       "source": "NYT World",
       "sources": [],
-      "published_at": "2026-04-22T13:48:29+00:00",
+      "published_at": "2026-04-22T15:57:17+00:00",
       "image_url": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-eu-ukraine-loan-01-cwlg/21int-eu-ukraine-loan-01-cwlg-mediumSquareAt3X.jpg",
       "summary": "EU ambassadors meet to discuss a $106 billion loan to Ukraine, delayed by Hungarian Prime Minister Viktor Orban's objections. After months of impasse because of objections from Prime Minister Viktor Orban of Hungary, ambassadors were meeting to discuss a key step on the way to disbursing the much-needed money.",
       "region": "Europe & Russia",
@@ -116,148 +104,196 @@
       "translations": {}
     },
     {
-      "title": "Lebanon To Seek Extended Ceasefire Between Hezbollah-Israel In US Talks",
-      "url": "https://www.ndtv.com/world-news/lebanon-hopes-for-extension-of-ceasefire-at-washington-meeting-11393485#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzBweDVLbkNBQzVKQVRTQ3lFWEN4dE9KS25HWFFnTXVKcmFUMWh0RXJmX0FOcWYwYnNUaWtpYnFRblJrSGp0OFFTT3FwQlBOUWZIY1lVdG5TT1JtQzlXeE5CN3J1QzN6akJTbjdrNk9pRGVzcGIteTloQXRaeDh4d2NMNjRMTzM1c1YwLXk2MGdNTDRKX3RhYm8wampnb3dKMmpJOTh2US15eFpVUW85QzNjcDlHY2pJcTZGOF9EdHhybzN3Q1lEdUFvM2RFaDA?oc=5",
+      "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-04-22T13:26:55+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/e0kr05m_lebanon_625x300_22_April_26.jpeg",
-      "summary": "Lebanon will seek an extended ceasefire between Hezbollah and Israel in US-mediated talks. The current 10-day truce is set to expire on Sunday, and Lebanon is pushing for a longer-term agreement.",
+      "published_at": "2026-04-22T15:48:00+00:00",
+      "image_url": "https://images.pexels.com/photos/15904544/pexels-photo-15904544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iran seized two ships in the Strait of Hormuz after the US extended a ceasefire. Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire The Guardian.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Honeywell's Quantinuum confidentially files for US IPO",
-      "url": "https://www.channelnewsasia.com/business/honeywells-quantinuum-confidentially-files-us-ipo-6073881",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-22T13:26:30+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--optVmhVg--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-22T132630Z_1_LYNXMPEM3L0UZ_RTROPTP_3_QUANTUM-COMPUTER-HONEYWELL-ENCRYPTION-KEY.JPG?itok=uvfNRP5J",
-      "summary": "Honeywell's Quantinuum has confidentially filed for a US initial public offering. The move marks a significant step for the quantum computing company, which has been working to develop advanced technology.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Pro-Hamas Candidates To Contest Gaza's First Poll Of Any Kind Since 2006",
-      "url": "https://www.ndtv.com/world-news/israel-palestine-war-israel-gaza-war-pro-hamas-candidates-to-contest-gazas-first-poll-of-any-kind-since-2006-11393878#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-22T13:23:44+00:00",
-      "image_url": "https://c.ndtvimg.com/2025-06/rlhpm6hk_gaza-aid-afp_625x300_07_June_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Pro-Hamas candidates will contest Gaza's first municipal elections since 2006. The polls will be the fifth such elections in the West Bank since 2005, marking a significant step towards democratic participation in the region.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US women's soccer league joins global project to cut ACL injuries",
-      "url": "https://www.channelnewsasia.com/sport/us-womens-soccer-league-joins-global-project-cut-acl-injuries-6073831",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-22T13:03:59+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--R3Nt-eeA--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-22T131006Z_1_LYNXMPEM3L0TO_RTROPTP_3_SOCCER-USA.JPG?itok=xwcdzMpo",
-      "summary": "The US women's soccer league joined a global project to reduce ACL injuries. US women's soccer league joins global project to cut ACL injuries.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran war fuels crisis for Africa's aviation sector",
-      "url": "https://www.dw.com/en/iran-war-fuels-crisis-for-africa-s-aviation-sector/a-76874774?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-04-22T12:51:00+00:00",
-      "image_url": "https://static.dw.com/image/75741493_6.jpg",
-      "summary": "The Iran war is pushing up jet fuel prices and forcing African airlines to raise ticket prices. The Iran war is pushing up jet fuel prices, forcing African airlines to raise ticket prices, cancel flights and rethink operations to stay financially viable.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Deadly Israeli settler attack on school kills two in Ramallah",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/deadly-israeli-settler-attack-on-school-kills-two-in-ramallah?traffic_source=rss",
+      "title": "Iran’s leaders debate war and peace after Trump ceasefire extension",
+      "url": "https://www.aljazeera.com/news/2026/4/22/irans-leaders-debate-war-and-peace-after-trump-ceasefire-extension?traffic_source=rss",
       "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-04-22T12:41:45+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776861699.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Israeli settlers opened fire on a school in Ramallah, killing two people. Two people have been killed after Israeli settlers opened fire on a school in the occupied West Bank.",
+      "published_at": "2026-04-22T15:42:19+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69e8e0605ba05-1776869472.jpg?resize=1920%2C1440",
+      "summary": "Iran's leaders debate war and peace after Trump ceasefire extension, with some urging reason and moderation while state television pushes a line that Iranians want more war. State television pushes line that Iranians want more war, but others urge reason and moderation.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Russia to block Kazakh oil flows on key pipeline supplying Berlin",
-      "url": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-on-key-pipeline-supplying-berlin/a-76895743?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
+      "title": "Tamil Nadu and West Bengal to decide their fate tomorrow | Above the Fold | 22.04.2016",
+      "url": "https://www.thehindu.com/videos/watch-tamil-nadu-and-west-bengal-to-decide-their-fate-tomorrow-above-the-fold-22042016/article70893999.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-04-22T12:35:00+00:00",
-      "image_url": "https://static.dw.com/image/68477765_6.jpg",
-      "summary": "Russia will block Kazakh oil flows to a key pipeline supplying Berlin from May 1. Germany confirmed the development, which affects the city's energy needs. Germany has confirmed that Russia will block flows of Kazakh oil to a vital refinery that supplies much of Berlin's energy needs from May 1.",
+      "published_at": "2026-04-22T15:35:38+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/5oa5m2/article70894006.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-22%20at%209.04.05%20PM.jpeg",
+      "summary": "Tamil Nadu and West Bengal will decide their fate tomorrow in Assembly elections, as attention turns to polling day, with other news including the Iran-Israel conflict and a court ruling in the 2006 Malegaon blast case.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "London Marathon still in talks to stage 2027 race over two days",
+      "url": "https://www.channelnewsasia.com/sport/london-marathon-still-in-talks-stage-2027-race-over-two-days-6074116",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-22T15:33:18+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--cis6jMnL--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-22T153318Z_1_LYNXMPEM3L11M_RTROPTP_3_ATHLETICS-LONDON.JPG?itok=EUlhgDVp",
+      "summary": "London Marathon organizers are still in talks to stage the 2027 race over two days, a decision that has not yet been finalized. London Marathon still in talks to stage 2027 race over two days.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Holidays 'very likely' at risk as EU warns of 'crisis'",
-      "url": "https://news.sky.com/story/holidays-very-likely-at-risk-as-eu-warns-of-crisis-13534983",
-      "source": "Sky News World",
-      "sources": [],
-      "published_at": "2026-04-22T12:21:00+00:00",
-      "image_url": "https://e3.365dm.com/26/04/1920x1080/skynews-money-lufthansa_7227242.jpg?20260422132715",
-      "summary": "The EU warned of a \"very serious crisis\" due to low aviation fuel stocks caused by the war in Iran, potentially disrupting holiday plans this summer. Europe's fuel reserves are dwindling, prompting concerns about travel disruptions.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "India-bound ship among two vessels ‘seized’ by Iran Guards in Strait of Hormuz",
-      "url": "https://www.thehindu.com/business/Industry/india-bound-ship-among-two-vessels-seized-by-iran-in-strait-of-hormuz-mundra-port/article70892792.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-22T12:17:14+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/uas9mm/article70892823.ece/alternates/LANDSCAPE_1200/AP04_22_2026_000183B.jpg",
-      "summary": "Iran seized two vessels, including the India-bound Liberia-flagged Epaminodas. Liberia-flagged Epaminodas was headed to Gujarat’s Mundra port, according to ship-tracking data; both ships directed to Iranian coast. India-bound ship among two vessels ‘seized’ by Iran Guards in Strait of Hormuz.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump extends ceasefire after request from Pakistan leaders, but Iran strikes ships in Hormuz",
-      "url": "https://indianexpress.com/article/world/trump-extends-ceasefire-after-request-from-pakistan-leaders-but-iran-strikes-ships-in-hormuz-10650003/",
+      "title": "Trump’s ‘good news’ teaser on Iran-US Round 2 peace talks",
+      "url": "https://indianexpress.com/article/world/us-iran-talks-trump-ceasefire-hormuz-tensions-10650689/",
       "source": "Indian Express World",
       "sources": [],
-      "published_at": "2026-04-22T12:02:34+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/Photo-2026-04-22T144827.042.jpg",
-      "summary": "The US ceasefire in the Middle East was extended after a request from Pakistan leaders, but Iran struck ships in the Strait of Hormuz. The ceasefire extension aims to reduce tensions in the region.",
+      "published_at": "2026-04-22T15:28:49+00:00",
+      "image_url": "https://images.indianexpress.com/2026/04/Donald-trump-x-IE.jpg",
+      "summary": "Trump teased \"good news\" on Iran-US Round 2 peace talks, but details of the negotiations remain unclear. Trump’s ‘good news’ teaser on Iran-US Round 2 peace talks.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Extreme heat pushing global food systems to the brink, UN agencies warn",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167352",
-      "source": "UN News",
+      "title": "Trump calls Iran’s leadership ‘fractured’. Is it, and who’s in charge?",
+      "url": "https://www.aljazeera.com/news/2026/4/22/trump-calls-irans-leadership-fractured-is-it-and-whos-in-charge?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-04-22T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-IFAD-NPEISA.jpg/image560x340cropped.jpg",
-      "summary": "Extreme heat threatens the livelihoods of over a billion people, a UN report warns. Extreme heat is pushing global food and farming systems to the brink, threatening the livelihoods of over a billion people as rising temperatures and more frequent heatwaves redefine how food is produced worldwide, a new UN report warns.",
-      "region": "Global / Multilateral",
+      "published_at": "2026-04-22T15:26:04+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26101706124095-1776005561.jpg?resize=1920%2C1440",
+      "summary": "Almost 53 days into the war, there is little evidence to suggest that Iran's government is fractured, despite Trump's claims to the contrary. Almost 53 days into war, there is little evidence suggesting that Iranian government is fragmented.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Iran Fires At 2 Ships In Hormuz Hours After Trump's Ceasefire Announcement",
-      "url": "https://www.ndtv.com/world-news/iran-fires-at-ship-in-hormuz-hours-after-trumps-ceasefire-announcement-11391622#publisher=newsstand",
+      "title": "34 Iran Tankers Slip Past US Hormuz Blockade, With Over $900 Million In Oil: Report",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-live-34-iran-tankers-slip-past-us-strait-of-hormuz-blockade-with-over-900-million-in-oil-11393844#publisher=newsstand",
       "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-04-22T11:53:24+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/2epb4f0o_strait-of-hormuz-closure_625x300_18_April_26.jpg",
-      "summary": "Iranian forces fired on two ships in the Strait of Hormuz. A Guard gunboat fired without hailing the vessels. The incident occurred hours after a ceasefire announcement. The UKMTO said a Guard gunboat did not hail the ship before firing.",
+      "published_at": "2026-04-22T15:23:07+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/6tm38q2_strait-of-hormuz_625x300_22_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Thirty-four tankers linked to Iran have reportedly slipped past the US blockade in Hormuz, carrying over $900 million in oil. The incident has raised concerns about the effectiveness of the US blockade.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "2 Ships Attacked, Being Taken To Iran Amid US Stalemate: Report",
+      "url": "https://www.ndtv.com/world-news/2-ships-attacked-being-taken-to-iran-amid-us-stalemate-report-11392812#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-22T15:23:03+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/ikbn2o0g_msc-vessel_625x300_22_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Two ships, including the MSC Francesca, were attacked and seized, being taken to Iran amid a stalemate with the US. The incident has escalated tensions in the region. The MSC Francesca that has been seized and taken to Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "\"Good News\" On Talks With Iran Could Come By Friday: Trump",
+      "url": "https://www.ndtv.com/world-news/good-news-on-talks-with-iran-could-come-by-friday-trump-11394173#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-22T15:16:52+00:00",
+      "image_url": "https://i.ndtvimg.com/i/2018-04/donald-trump-reuters_650x400_81522641277.jpg",
+      "summary": "Trump expects good news on Iran talks by Friday. He made the statement publicly. \"Good News\" On Talks With Iran Could Come By Friday: Trump. Trump had previously indicated he would not extend the ceasefire.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iranians are leaving the country just to access the internet",
+      "url": "https://www.npr.org/2026/04/22/g-s1-118339/iran-internet-access-turkey",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-22T15:12:09+00:00",
+      "image_url": "https://images.pexels.com/photos/30508655/pexels-photo-30508655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iranians are traveling to Turkey to access the internet, as the country has been cut off from the global internet. They make video calls and then return home. Iran has cut off its access to the global internet.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Horror Russia-NATO war warning issued by European spy agency",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXV4dkQ5eVNJWWF2bWhtVnF3dGp1eF96d2NHekRCVzBuV2lVaENkTHRFUFlGTmsxOUhZNlFVaHVQd2oyQWhQck1pNHZYV1FYZ0o2R2ZpMmpQVDVYMWhzWktwRmFqZklldEQ3emNldkdMUTdBQm9JRHRRRXJVOWN1V0tnc3hIb2NCLUdVVFZ4V2g2eC1EblHSAZsBQVVfeXFMUFRSRk9NMk1MUjZTYnVCcXp5b0R1bFlLYzhQcXVESW9SZXM4YjNrTHVEdktkaEVwZlFROEtNNWJ4RVY0d0hHcmQwdU5pUWdqUktQSHB0QmpwQWs0aFRsMGxaWGwtTGtwTWd4Wk11Snc5bjJUdjdkbzk3VDQtd2RfVXNjTXp6eFZrVkFTOXloczhqWmN3Skh5R2MzVXc?oc=5",
+      "source": "Google News (NATO conflict)",
+      "sources": [],
+      "published_at": "2026-04-22T15:10:00+00:00",
+      "image_url": "https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "A European spy agency has issued a warning about a potential war between Russia and NATO. The agency has raised concerns about the rising tensions between the two. Horror Russia-NATO war warning issued by European spy agency Daily Express.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "EU Unveils 20th Sanctions Package on Russia: What’s Inside",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2UyRnU5R09naEZYcE9STHJyV0hFN3BKMkFFWnEtclF3QlFRNHMtUThoSHpPWThORGtBVG5DZjJib3FpRTBFNGlERjREempmSzRqMkJNZExqdF9LLXZkT0gzdVdSMmVoQXlyMElGV2Q1WnBzSGtHWlFUNndyQjJVbHl1eUlHaFo4QlgzTXpGOHBFLUN0LVYxXzlvQQ?oc=5",
+      "source": "Google News (diplomacy sanctions)",
+      "sources": [],
+      "published_at": "2026-04-22T15:05:44+00:00",
+      "image_url": "https://images.pexels.com/photos/22046935/pexels-photo-22046935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The EU has imposed its 20th sanctions package on Russia. Details of the package are not specified. EU Unveils 20th Sanctions Package on Russia: What’s Inside Modern Diplomacy.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-04-22T15:00:40+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e298/live/63872c10-3e43-11f1-bd52-e755d604ece4.jpg",
+      "summary": "Lufthansa cut 20,000 summer flights due to surging jet fuel prices. The US-Israel war with Iran drove the price increase, prompting the airline to adjust its schedule. The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "अमेरिका की ओर से युद्धविराम बढ़ाने पर अरब मीडिया में क्या कहा जा रहा है?",
+      "url": "https://www.bbc.com/hindi/articles/cm29qmvv8y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-22T15:10:39+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08f1/live/5c1a04a0-3e54-11f1-9679-171672b01c6d.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ युद्धविराम को आगे बढ़ा दिया है। इस पर अरब जगत के मीडिया ने प्रतिक्रिया दी है। मीडिया ने इस निर्णय के पीछे के कारणों और इसके प्रभावों पर चर्चा की है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका की ओर से युद्धविराम बढ़ाने पर अरब मीडिया में क्या कहा जा रहा है?",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ युद्धविराम को आगे बढ़ा दिया है। इस पर अरब जगत के मीडिया ने प्रतिक्रिया दी है। मीडिया ने इस निर्णय के पीछे के कारणों और इसके प्रभावों पर चर्चा की है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने कैसे हासिल की ड्रोन तकनीक में महारत",
+      "url": "https://www.bbc.com/hindi/articles/c8dl36qrzjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-22T12:12:41+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eee5/live/ff20d820-3c0d-11f1-891c-affae8f95aa5.jpg",
+      "summary": "ईरान ने ड्रोन तकनीक में महारत हासिल की है। इसका मकसद दुश्मन की रक्षा व्यवस्था को थकाना और उसके बजट पर दबाव बनाना है। ईरान इसी रणनीति के तहत अपने ड्रोन कार्यक्रम में निवेश करता रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने कैसे हासिल की ड्रोन तकनीक में महारत",
+          "summary": "ईरान ने ड्रोन तकनीक में महारत हासिल की है। इसका मकसद दुश्मन की रक्षा व्यवस्था को थकाना और उसके बजट पर दबाव बनाना है। ईरान इसी रणनीति के तहत अपने ड्रोन कार्यक्रम में निवेश करता रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "ईरान ने तीन मालवाहक जहाज़ों पर हमले के बाद दो को ज़ब्त किया",
@@ -278,6 +314,24 @@
       }
     },
     {
+      "title": "ईरान अमेरिका से बात करने में दिलचस्पी क्यों नहीं दिखा रहा है?",
+      "url": "https://www.bbc.com/hindi/articles/cj40jgp91lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-22T10:26:57+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd0a/live/ad0dd500-3e1b-11f1-84f5-7fc596316150.jpg",
+      "summary": "ईरान अमेरिका से बातचीत को लेकर उत्साहित नहीं दिख रहा है। इस्लामाबाद में मंच तैयार है, लेकिन बातचीत करने वाले लोग अब तक नहीं पहुंचे हैं। सवाल यह है कि ईरान को क्या चिंता है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान अमेरिका से बात करने में दिलचस्पी क्यों नहीं दिखा रहा है?",
+          "summary": "ईरान अमेरिका से बातचीत को लेकर उत्साहित नहीं दिख रहा है। इस्लामाबाद में मंच तैयार है, लेकिन बातचीत करने वाले लोग अब तक नहीं पहुंचे हैं। सवाल यह है कि ईरान को क्या चिंता है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "ईरान पर अमेरिका-इज़रायल हमलों का 54वां दिन: संघर्षविराम के बीच अविश्वास, हमले जारी और कूटनीति",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DQlROTVJZb0dVdGtBNkRPdlIzOTRWS3djNkR5U2FzeFFoV2drRTJSdzF4MGt6bHFULUdCY0FfQmJPdUxJRjJjb2QybGlGMV96TnNlYlQwVUJ5YUI5M2g1T1dPT2RRd0ZGbWxlUVYtQ3k2Zw?oc=5",
       "source": "Google News Hindi (कूटनीति)",
@@ -291,96 +345,6 @@
         "hi": {
           "title": "ईरान पर अमेरिका-इज़रायल हमलों का 54वां दिन: संघर्षविराम के बीच अविश्वास, हमले जारी और कूटनीति",
           "summary": "ईरान पर अमेरिका और इज़रायल के हमलों का 54वां दिन है। संघर्षविराम के बावजूद, हमले जारी हैं और कूटनीति अनिश्चित है। इस बीच, अविश्वास बना हुआ है। ईरान पर अमेरिका-इज़रायल हमलों का 54वां दिन: संघर्षविराम के बीच अविश्वास, हमले जारी और कूटनीति अनिश्चित The Wire - Hindi।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'घर में उनकी फ़ोटो लगाने की हिम्मत भी नहीं है': पहलगाम हमले में मारे गए लोगों के परिजन कैसे बिता",
-      "url": "https://www.bbc.com/hindi/articles/c3r3e2jdpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-22T07:38:21+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a41/live/b04269a0-3d4b-11f1-ac21-67dfeb2ee87f.jpg",
-      "summary": "जम्मू-कश्मीर के पहलगाम में एक साल पहले चरमपंथियों ने 26 लोगों की हत्या कर दी थी। उनके परिजन आज भी इस हादसे से उबरने की कोशिश कर रहे हैं। परिजनों ने अपने घरों में पीड़ितों की तस्वीरें लगाने की भी हिम्मत नहीं की है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'घर में उनकी फ़ोटो लगाने की हिम्मत भी नहीं है': पहलगाम हमले में मारे गए लोगों के परिजन कैसे बिता",
-          "summary": "जम्मू-कश्मीर के पहलगाम में एक साल पहले चरमपंथियों ने 26 लोगों की हत्या कर दी थी। उनके परिजन आज भी इस हादसे से उबरने की कोशिश कर रहे हैं। परिजनों ने अपने घरों में पीड़ितों की तस्वीरें लगाने की भी हिम्मत नहीं की है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "खबरों में सूत्रों के हवाले से दावों की भरमार, जंग कब थमेगी? फिलहाल जवाब किसी के पास नहीं",
-      "url": "https://www.amarujala.com/world/iran-us-ceasefire-uncertainty-deepens-as-pakistan-s-mediation-role-faces-questions-2026-04-22",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-22T07:14:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/us-iran-peace-talks_d6ef802c60143e4222dcfccdf84f4078.jpeg?w=750&dpr=1.0",
-      "summary": "ईरान और अमेरिका के बीच सीजफायर की खबरों में सूत्रों के हवाले से दावों की भरमार है। फिलहाल, जंग कब थमेगी इसका जवाब किसी के पास नहीं है। ईरान-अमेरिका सीजफायर: खबरों में सूत्रों के हवाले से दावों की भरमार, जंग कब थमेगी?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खबरों में सूत्रों के हवाले से दावों की भरमार, जंग कब थमेगी? फिलहाल जवाब किसी के पास नहीं",
-          "summary": "ईरान और अमेरिका के बीच सीजफायर की खबरों में सूत्रों के हवाले से दावों की भरमार है। फिलहाल, जंग कब थमेगी इसका जवाब किसी के पास नहीं है। ईरान-अमेरिका सीजफायर: खबरों में सूत्रों के हवाले से दावों की भरमार, जंग कब थमेगी?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान जंग में मध्यस्थता के सवाल पर बोले राजनाथ, कहा- PM का दृष्टिकोण संतुलित",
-      "url": "https://www.amarujala.com/world/rajnath-singh-in-germany-india-role-in-west-asia-peace-cannot-be-denied-news-in-hindi-2026-04-22",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-22T07:01:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/rajanatha-saha-rakashha-matara_f8bc1a8e34d3cad005e4356213164a52.jpeg?w=750&dpr=1.0",
-      "summary": "राजनाथ सिंह ने कहा कि भारत का पश्चिम एशिया में शांति के लिए योगदान महत्वपूर्ण है। प्रधानमंत्री का दृष्टिकोण संतुलित है और देश इस क्षेत्र में अपनी भूमिका निभाएगा। ईरान जंग में मध्यस्थता के सवाल पर बोले राजनाथ, कहा- PM का दृष्टिकोण संतुलित।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान जंग में मध्यस्थता के सवाल पर बोले राजनाथ, कहा- PM का दृष्टिकोण संतुलित",
-          "summary": "राजनाथ सिंह ने कहा कि भारत का पश्चिम एशिया में शांति के लिए योगदान महत्वपूर्ण है। प्रधानमंत्री का दृष्टिकोण संतुलित है और देश इस क्षेत्र में अपनी भूमिका निभाएगा। ईरान जंग में मध्यस्थता के सवाल पर बोले राजनाथ, कहा- PM का दृष्टिकोण संतुलित।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जहाज टोस्का व चालक दल की रिहाई के लिए UN पहुंचा ईरान, US की शिकायत कर बिना शर्त छोड़ने की रखी मांग",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQM3lDOTVBdU1BU21tZkY2VUcxdF9GUFVlMGx2NGhOal8tM3NYMUdnbENwc1VEakg5UFI5UExrZTJaRzVuejlZWTI3RlFyZ0tVbHJMY205c19ZQm5SVGlsbk1MYU0taWdCZFkwNWlMcmNkTnN2dDkwaGxjaEpySjdvT0Z2Q1NaekY5Tm5ZakZ5Yll2QjZvYUh4YUY0NUU1bXJXNWFmdWttdjREanYyMkkyM015ekozZEYxdGNTQmZBNUJPeGh5UGlxbUUxSUMxczB6cmtSTGRWWGZpeTJoN2Q2S19oRHgxR0xKYTE3ckdqUXZhOFdTb20xYXJIcVRwUjRFbWR3?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-22T06:58:13+00:00",
-      "image_url": "https://images.pexels.com/photos/13982514/pexels-photo-13982514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने संयुक्त राष्ट्र से जहाज टोस्का और उसके चालक दल की रिहाई की मांग की है। ईरान ने अमेरिका की शिकायत की और बिना शर्त रिहाई की मांग की। यह मांग अमेरिका-ईरान तनाव के बीच आई है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जहाज टोस्का व चालक दल की रिहाई के लिए UN पहुंचा ईरान, US की शिकायत कर बिना शर्त छोड़ने की रखी मांग",
-          "summary": "ईरान ने संयुक्त राष्ट्र से जहाज टोस्का और उसके चालक दल की रिहाई की मांग की है। ईरान ने अमेरिका की शिकायत की और बिना शर्त रिहाई की मांग की। यह मांग अमेरिका-ईरान तनाव के बीच आई है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ओमान के पास समुद्री जहाज पर IRGC का हमला, शिप को हुआ भारी नुकसान; सभी क्रू मेंबर सुरक्षित",
-      "url": "https://www.amarujala.com/world/west-asia-war-irgc-attacks-container-ship-in-oman-strait-of-hormuz-us-iran-tensions-ukmto-report-2026-04-22",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-22T06:57:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2026/03/25/bbna-samathara-jahaja-paina-gasa-para-tanata-cafa-oifasara-sahana-ll-savatha_5165dd47062dc3579d773ca4c1869b62.jpeg?w=750&dpr=1.0",
-      "summary": "ओमान के पास समुद्री जहाज पर ईरानी गार्ड्स ने हमला किया, जिससे जहाज को भारी नुकसान पहुंचा। सभी क्रू मेंबर सुरक्षित हैं। यह हमला ओमान जलसंधि में हुआ, जिससे क्षेत्र में तनाव बढ़ गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ओमान के पास समुद्री जहाज पर IRGC का हमला, शिप को हुआ भारी नुकसान; सभी क्रू मेंबर सुरक्षित",
-          "summary": "ओमान के पास समुद्री जहाज पर ईरानी गार्ड्स ने हमला किया, जिससे जहाज को भारी नुकसान पहुंचा। सभी क्रू मेंबर सुरक्षित हैं। यह हमला ओमान जलसंधि में हुआ, जिससे क्षेत्र में तनाव बढ़ गया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -422,74 +386,38 @@
       }
     },
     {
-      "title": "अभिषेक शर्मा ने ब्रॉडकास्टर से की ये गुज़ारिश, 'अगली बार से मैं चाहता हूँ...'",
-      "url": "https://www.bbc.com/hindi/articles/c1l969remvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "शांति वार्ता की मेज पर लौट सकते हैं दोनों देश, इस्लामाबाद में सुरक्षा सख्त",
+      "url": "https://www.amarujala.com/world/pakistan-intensifies-efforts-for-us-iran-peace-talks-in-islamabad-2026-04-22",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-22T03:26:21+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/53d9/live/d71ed870-3df9-11f1-a9f3-a39646095998.jpg",
-      "summary": "सनराइजर्स हैदराबाद के बल्लेबाज़ अभिषेक शर्मा ने आईपीएल मैच में 20 ओवर बल्लेबाज़ी की और नाबाद रहे. उन्होंने ब्रॉडकास्टर से अगली बार से कुछ बदलाव करने की गुज़ारिश की. सनराइजर्स हैदराबाद का यह धाकड़ बल्लेबाज़ आईपीएल मु़क़ाबले में पारी की शुरुआत में उतरा और अंत तक डटा रहा.",
-      "region": "World",
+      "published_at": "2026-04-22T05:02:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/west-asia-crisis_add79c931ed9c9e1fb53c750469f15b3.gif?w=750&dpr=1.0",
+      "summary": "ईरान और अमेरिका शांति वार्ता की मेज पर लौट सकते हैं। इस्लामाबाद में सुरक्षा सख्त की गई है। पाकिस्तान ने अमेरिका और ईरान के बीच शांति वार्ता के लिए प्रयास तेज कर दिए हैं।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अभिषेक शर्मा ने ब्रॉडकास्टर से की ये गुज़ारिश, 'अगली बार से मैं चाहता हूँ...'",
-          "summary": "सनराइजर्स हैदराबाद के बल्लेबाज़ अभिषेक शर्मा ने आईपीएल मैच में 20 ओवर बल्लेबाज़ी की और नाबाद रहे. उन्होंने ब्रॉडकास्टर से अगली बार से कुछ बदलाव करने की गुज़ारिश की. सनराइजर्स हैदराबाद का यह धाकड़ बल्लेबाज़ आईपीएल मु़क़ाबले में पारी की शुरुआत में उतरा और अंत तक डटा रहा.",
-          "region": "दुनिया"
+          "title": "शांति वार्ता की मेज पर लौट सकते हैं दोनों देश, इस्लामाबाद में सुरक्षा सख्त",
+          "summary": "ईरान और अमेरिका शांति वार्ता की मेज पर लौट सकते हैं। इस्लामाबाद में सुरक्षा सख्त की गई है। पाकिस्तान ने अमेरिका और ईरान के बीच शांति वार्ता के लिए प्रयास तेज कर दिए हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "टीवी एक्टर विपुल रॉय ने अपनी नौकरानी पर दर्ज कराई एफआईआर, विदेशी मुद्रा और गहनों की चोरी का लगाया",
-      "url": "https://www.amarujala.com/entertainment/television/tv-actor-vipul-roy-files-police-complaint-against-maid-for-alleged-7-lakh-rs-burglary-in-foreign-currency-gold-2026-04-22",
-      "source": "Amar Ujala National",
+      "title": "Iranian Forces Open Fire on Three Ships: ईरान ने भारत आ रहे इस जहाज को बनाया बंधक, की गोलीबारी",
+      "url": "https://www.amarujala.com/video/world/iranian-forces-open-fire-on-three-ships-iran-seizes-ship-bound-for-india-opens-fire-2026-04-22",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-22T03:14:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/vapal-raya_b0f25d3d17de3c38df452ae6fb07f349.jpeg?w=750&dpr=1.0",
-      "summary": "टीवी एक्टर विपुल रॉय ने अपनी नौकरानी पर विदेशी मुद्रा और गहनों की चोरी का आरोप लगाया है। उन्होंने पुलिस में शिकायत दर्ज कराई है और नौकरानी के खिलाफ कार्रवाई की मांग की है। यह मामला पुलिस जांच के अधीन है।",
-      "region": "World",
+      "published_at": "2026-04-22T03:43:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/iranian-forces-open-fire-on-three-ships-iran-na-bharata-aa-raha-isa-jahaja-ka-bnaya-bthhaka-ka-galbra_792725e2708adf4384e7e684739d9987.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान की अर्धसैनिक इकाई ने अंतरराष्ट्रीय जलसीमा से गुजर रहे तीन व्यापारिक जहाजों पर गोलीबारी की। इनमें से एक जहाज भारत की ओर आ रहा था। इस घटना ने भारत समेत कई देशों की चिंता बढ़ा दी है।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "टीवी एक्टर विपुल रॉय ने अपनी नौकरानी पर दर्ज कराई एफआईआर, विदेशी मुद्रा और गहनों की चोरी का लगाया",
-          "summary": "टीवी एक्टर विपुल रॉय ने अपनी नौकरानी पर विदेशी मुद्रा और गहनों की चोरी का आरोप लगाया है। उन्होंने पुलिस में शिकायत दर्ज कराई है और नौकरानी के खिलाफ कार्रवाई की मांग की है। यह मामला पुलिस जांच के अधीन है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "इंद्रेश कुमार बोले, आतंकिस्तान की समाप्ति तक चलेगा ऑपरेशन सिंदूर",
-      "url": "https://www.amarujala.com/india-news/pahalgam-attack-anniversary-indresh-kumar-says-operation-sindoor-will-continue-till-terroristan-ends-2026-04-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-22T03:12:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/pahalgama_3b9614324c8b820b32685d3c28bf8e0c.jpeg?w=750&dpr=1.0",
-      "summary": "इंद्रेश कुमार ने कहा कि ऑपरेशन सिंदूर आतंकिस्तान की समाप्ति तक चलेगा। उन्होंने पहलगाम हमले की बरसी पर यह बयान दिया। ऑपरेशन सिंदूर एक सैन्य अभियान है जिसका उद्देश्य आतंकवाद को समाप्त करना है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इंद्रेश कुमार बोले, आतंकिस्तान की समाप्ति तक चलेगा ऑपरेशन सिंदूर",
-          "summary": "इंद्रेश कुमार ने कहा कि ऑपरेशन सिंदूर आतंकिस्तान की समाप्ति तक चलेगा। उन्होंने पहलगाम हमले की बरसी पर यह बयान दिया। ऑपरेशन सिंदूर एक सैन्य अभियान है जिसका उद्देश्य आतंकवाद को समाप्त करना है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "77 पर राजस्थान की आधी टीम लौटी पवेलियन, मोहसिन खान ने हेटमायर का किया शिकार",
-      "url": "https://www.amarujala.com/live/cricket/cricket-news/lsg-vs-rr-live-cricket-score-lucknow-super-giants-vs-rajasthan-royals-ipl-2026-32nd-match-updates-2026-04-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-22T03:00:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/lkhanauu-bnama-rajasathana_a3f5ec52c4b238c2f11f1b6b6ad5448a.jpeg?w=750&dpr=1.0",
-      "summary": "राजस्थान की आधी टीम 77 पर पवेलियन लौट आई। मोहसिन खान ने हेटमायर का शिकार किया। यह मैच आईपीएल 2026 के दौरान हुआ। राजस्थान की टीम ने खराब प्रदर्शन किया और कई विकेट गंवा दिए।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "77 पर राजस्थान की आधी टीम लौटी पवेलियन, मोहसिन खान ने हेटमायर का किया शिकार",
-          "summary": "राजस्थान की आधी टीम 77 पर पवेलियन लौट आई। मोहसिन खान ने हेटमायर का शिकार किया। यह मैच आईपीएल 2026 के दौरान हुआ। राजस्थान की टीम ने खराब प्रदर्शन किया और कई विकेट गंवा दिए।",
-          "region": "एशिया-प्रशांत"
+          "title": "Iranian Forces Open Fire on Three Ships: ईरान ने भारत आ रहे इस जहाज को बनाया बंधक, की गोलीबारी",
+          "summary": "ईरान की अर्धसैनिक इकाई ने अंतरराष्ट्रीय जलसीमा से गुजर रहे तीन व्यापारिक जहाजों पर गोलीबारी की। इनमें से एक जहाज भारत की ओर आ रहा था। इस घटना ने भारत समेत कई देशों की चिंता बढ़ा दी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -499,7 +427,7 @@
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-04-22T02:58:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/06/tarapa_31845ae1ad110aed251d47c240bee701.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/danalda-tarapa-amaraka-ka-rashhatarapata_005af57c2935f44fcff4543a3138de4c.jpeg?w=750&dpr=1.0",
       "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि ईरान के साथ बातचीत जल्द शुरू होगी। इससे युद्ध की स्थिति में राहत मिलने की संभावना है। ट्रंप के बयान से अगले 36 से 72 घंटों में शांति की उम्मीदें बढ़ गई हैं।",
       "region": "Middle East & Africa",
       "language": "hi",
@@ -530,110 +458,182 @@
       }
     },
     {
-      "title": "रणवीर सिंह की ‘धुरंधर 2’ के नाम एक और रिकॉर्ड, अब इस मामले में शाहरुख खान की ‘पठान’ को छोड़ा पीछे",
-      "url": "https://www.amarujala.com/entertainment/bollywood/ranveer-singh-starrer-dhurandhar-2-beats-shah-rukh-khan-pathaan-to-become-highest-grossing-indian-film-in-uk-2026-04-22",
-      "source": "Amar Ujala National",
+      "title": "अमेरिका के जहाजों की जब्ती से ईरान संघर्ष का नया चरण शुरू रिपोर्ट",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWUVDc0t6VHZlZWZpRTdfaFpYeDNKNmM5Z2JCQ3V6Rmd2OGtEVGhOQk5vcDhwR3BNQ3V3ZUF0bXQ1RWtnZ1dtZlFOZWM5SnZGaXNjZjdpNEpHbmZ5cmNkZHlqdVdiUlNlcnBVT0xfUDNTQ19Yb3BaT3d5Y092bHZYaWpSVU10RnB0Q0otdUdLc0J3aWNhWUM4eko5S0g2LXI1YXVJaFBoMVlHSVdDMFFHRzgxMjVvb0o4?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
-      "published_at": "2026-04-22T02:49:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/thharathhara-2-oura-pathana_fd75b46d4b5d86cc20928f7f9e48f184.jpeg?w=750&dpr=1.0",
-      "summary": "रणवीर सिंह की फिल्म 'धुरंधर 2' ने बॉक्स ऑफिस पर नए रिकॉर्ड बनाए हैं। फिल्म ने शाहरुख खान की 'पठान' को एक मामले में पीछे छोड़ दिया है। फिल्म की सफलता के कारणों और प्रभावों का विश्लेषण किया जा रहा है।",
-      "region": "World",
+      "published_at": "2026-04-22T02:02:45+00:00",
+      "image_url": "https://images.pexels.com/photos/29367433/pexels-photo-29367433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान ने अमेरिकी जहाजों को जब्त कर लिया, जिससे संघर्ष का एक नया चरण शुरू हो गया. यह घटना ईरान और अमेरिका के बीच बढ़ते तनाव के बीच हुई. अमेरिका के जहाजों की जब्ती से ईरान संघर्ष का नया चरण शुरू रिपोर्ट bhaskarhindi. com।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रणवीर सिंह की ‘धुरंधर 2’ के नाम एक और रिकॉर्ड, अब इस मामले में शाहरुख खान की ‘पठान’ को छोड़ा पीछे",
-          "summary": "रणवीर सिंह की फिल्म 'धुरंधर 2' ने बॉक्स ऑफिस पर नए रिकॉर्ड बनाए हैं। फिल्म ने शाहरुख खान की 'पठान' को एक मामले में पीछे छोड़ दिया है। फिल्म की सफलता के कारणों और प्रभावों का विश्लेषण किया जा रहा है।",
-          "region": "दुनिया"
+          "title": "अमेरिका के जहाजों की जब्ती से ईरान संघर्ष का नया चरण शुरू रिपोर्ट",
+          "summary": "ईरान ने अमेरिकी जहाजों को जब्त कर लिया, जिससे संघर्ष का एक नया चरण शुरू हो गया. यह घटना ईरान और अमेरिका के बीच बढ़ते तनाव के बीच हुई. अमेरिका के जहाजों की जब्ती से ईरान संघर्ष का नया चरण शुरू रिपोर्ट bhaskarhindi. com।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "मतदान से पहले चुनाव आयोग का नया फरमान, इस समय उम्मीदवार नहीं छोड़ पाएंगे अपना क्षेत्र",
-      "url": "https://www.amarujala.com/india-news/west-bengal-election-commission-order-ahead-of-voting-candidates-barred-from-leaving-their-constituencies-2026-04-22",
-      "source": "Amar Ujala National",
+      "title": "वैश्विक संकट के बावजूद भारत की स्थिति मजबूत, इस साल 6.4 फीसदी रहेगी आर्थिक वृद्धि दर",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1VlM3dlN2dteWQydmFYOXo3TnkwdkJIUG85QmRsRV9ZUWZ0WWswN3ZCbjBXZlVPb2M3ODJ4RF9zNVY4eUhwRnRpdms2OXdlZmFHN21hMHpvSkdTNjN3dDB1aW83U1V6WldKeG9qYkdyV2xZUEptOUxJQ2Q5QldIUVBLNlVsMjhaRXNRTWJCYVMtOEhjdnFsODhqSnY?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-04-22T02:49:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/01/canava-aayaga_76cc05d68c36a7f45b858c226974b654.jpeg?w=750&dpr=1.0",
-      "summary": "चुनाव आयोग ने पश्चिम बंगाल में मतदान से पहले एक नया फरमान जारी किया है। इसके तहत, उम्मीदवार मतदान के समय तक अपना क्षेत्र नहीं छोड़ पाएंगे। इस निर्णय के पीछे के कारणों और प्रभावों की जांच की जा रही है।",
-      "region": "World",
+      "published_at": "2026-04-21T23:06:26+00:00",
+      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने कहा कि भारत की आर्थिक वृद्धि दर इस साल 6.4 फीसदी रहेगी, जो वैश्विक संकट के बावजूद एक मजबूत स्थिति है. भारत की अर्थव्यवस्था को मजबूत माना जा रहा है.",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मतदान से पहले चुनाव आयोग का नया फरमान, इस समय उम्मीदवार नहीं छोड़ पाएंगे अपना क्षेत्र",
-          "summary": "चुनाव आयोग ने पश्चिम बंगाल में मतदान से पहले एक नया फरमान जारी किया है। इसके तहत, उम्मीदवार मतदान के समय तक अपना क्षेत्र नहीं छोड़ पाएंगे। इस निर्णय के पीछे के कारणों और प्रभावों की जांच की जा रही है।",
-          "region": "दुनिया"
+          "title": "वैश्विक संकट के बावजूद भारत की स्थिति मजबूत, इस साल 6.4 फीसदी रहेगी आर्थिक वृद्धि दर",
+          "summary": "संयुक्त राष्ट्र ने कहा कि भारत की आर्थिक वृद्धि दर इस साल 6.4 फीसदी रहेगी, जो वैश्विक संकट के बावजूद एक मजबूत स्थिति है. भारत की अर्थव्यवस्था को मजबूत माना जा रहा है.",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "सर्राफा बाजार पर वैश्विक अनिश्चितता का असर; सोना 300 रुपए फिसला, चांदी में भारी गिरावट",
-      "url": "https://www.amarujala.com/business/business-diary/gold-prices-fell-by-rs-300-to-rs-1-57-lakh-per-10-grams-silver-plunged-by-rs-2700-to-rs-2-55-lakh-per-kg-2026-04-22",
-      "source": "Amar Ujala National",
+      "title": "ईरानी सेना ने भारत आ रहे इस जहाज को बनाया बंधक, तीन पर की गोलीबारी",
+      "url": "https://www.amarujala.com/world/situation-deteriorates-again-in-hormuz-iranian-forces-open-fire-on-three-ships-uncertainty-persists-over-peace-2026-04-22",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-22T02:48:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/26/sana-catha-ka-bhava_495a5338727b9515c01dad007633c6ba.jpeg?w=750&dpr=1.0",
-      "summary": "वैश्विक अनिश्चितता के कारण सर्राफा बाजार में सोने और चांदी की कीमतों में गिरावट आई है। सोना 300 रुपये फिसलकर 1.57 लाख रुपये प्रति 10 ग्राम पर आ गया है, जबकि चांदी में 2700 रुपये की भारी गिरावट आई है।",
-      "region": "World",
+      "published_at": "2026-04-21T22:46:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/haramaja-ma-galbra_cf12dbef714ac5d0949f3f4291afc766.jpeg?w=750&dpr=1.0",
+      "summary": "ईरानी सेना ने भारत आ रहे एक जहाज को बंधक बना लिया और तीन जहाजों पर गोलीबारी की. यह घटना होर्मुज में हुई, जहां शांति वार्ता को लेकर अभी भी संशय बरकरार है.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सर्राफा बाजार पर वैश्विक अनिश्चितता का असर; सोना 300 रुपए फिसला, चांदी में भारी गिरावट",
-          "summary": "वैश्विक अनिश्चितता के कारण सर्राफा बाजार में सोने और चांदी की कीमतों में गिरावट आई है। सोना 300 रुपये फिसलकर 1.57 लाख रुपये प्रति 10 ग्राम पर आ गया है, जबकि चांदी में 2700 रुपये की भारी गिरावट आई है।",
-          "region": "दुनिया"
+          "title": "ईरानी सेना ने भारत आ रहे इस जहाज को बनाया बंधक, तीन पर की गोलीबारी",
+          "summary": "ईरानी सेना ने भारत आ रहे एक जहाज को बंधक बना लिया और तीन जहाजों पर गोलीबारी की. यह घटना होर्मुज में हुई, जहां शांति वार्ता को लेकर अभी भी संशय बरकरार है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "मुंबई के खिलाफ मैच में होगी महेंद्र सिंह धोनी की वापसी? कोच ने दिया बड़ा अपडेट; जानिए क्या कहा",
-      "url": "https://www.amarujala.com/cricket/cricket-news/ipl-2026-csk-vs-mi-will-ms-dhoni-play-in-match-against-mumbai-indians-bowling-coach-give-updates-2026-04-22",
-      "source": "Amar Ujala National",
+      "title": "पश्चिम एशिया संघर्ष में 8 भारतीयों की मौत, एक अब भी लापता",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTURjQm0yZENwZm1ucWJLZmVacVB3LTVRaThIQUtiTWpYVHNFczl5T214YUhkVzhiTVZzS21UeEd4N0FjelZ6dTctWWt4bGxjQVpRTU10NVNITnFuYTZuRFVXYkxERE4tZHlTeEVKQVJVaE90UDV2eWRnWWNtZXRDV283dG5FQ2lYS1E3T3JwV0l0VDRxUmxQTGNIT0hXU3QzYnQxQjBZWk9GVGVpQmJENXVncG9lZk9xOE56WmtEc25wUVlHb3NienFQWElpem5qS3QxMXkwRFJicmZtYldCYtIB5gFBVV95cUxNVk9iZ3VYLVZlYmlqZ250QWhwYkxHR0tYUXVtSDRSYk1MOE9jQzVKUm8tMnNzTlNGRU9xZWhmMTNwMGR1WGQzUE41eGp3emcxdVRXTnFJank2c1c5VEZkTEZ3Rll6WnRGa2NQNTJRMFNkWjZvNTNfMFIxY29PY2ZCRTQxZlVYSXRNZ0UyeVZQQWlTVjNjWDJjN01qc2pHOEFXenNDZ2tiM3FrNEFRemdYUmhDb3c3Z3IyY25EUDZQS2MwTDJFc25yMXJGSWpHcWpzVXp3MXM3TVltSVlFM2daQjZCR0ljUQ?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
-      "published_at": "2026-04-22T02:46:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/08/ipl-2025-ms-dhoni-dhoni-emotional-on-question-of-dhoni-retirement-expressed-gratitude-dhoni-fa_336353fcce4757eaf68e6075783ef824.jpeg?w=750&dpr=1.0",
-      "summary": "चेन्नई सुपर किंग्स के गेंदबाजी कोच ने बताया कि महेंद्र सिंह धोनी मुंबई इंडियंस के खिलाफ मैच में खेल सकते हैं। धोनी की वापसी की संभावना को लेकर प्रशंसक उत्साहित हैं। यह मैच गुरुवार को होगा।",
+      "published_at": "2026-04-21T22:44:54+00:00",
+      "image_url": "https://images.pexels.com/photos/21617975/pexels-photo-21617975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "पश्चिम एशिया संघर्ष में 8 भारतीयों की मौत हो गई और एक अब भी लापता है. यह जानकारी सामने आई है कि संघर्ष में भारतीय नागरिकों की जान गई है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मुंबई के खिलाफ मैच में होगी महेंद्र सिंह धोनी की वापसी? कोच ने दिया बड़ा अपडेट; जानिए क्या कहा",
-          "summary": "चेन्नई सुपर किंग्स के गेंदबाजी कोच ने बताया कि महेंद्र सिंह धोनी मुंबई इंडियंस के खिलाफ मैच में खेल सकते हैं। धोनी की वापसी की संभावना को लेकर प्रशंसक उत्साहित हैं। यह मैच गुरुवार को होगा।",
+          "title": "पश्चिम एशिया संघर्ष में 8 भारतीयों की मौत, एक अब भी लापता",
+          "summary": "पश्चिम एशिया संघर्ष में 8 भारतीयों की मौत हो गई और एक अब भी लापता है. यह जानकारी सामने आई है कि संघर्ष में भारतीय नागरिकों की जान गई है.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "सुप्रीम कोर्ट की बड़ी टिप्पणी, कहा- धार्मिक प्रथाओं की अनिवार्यता तय करना अदालतों के लिए कठिन",
-      "url": "https://www.amarujala.com/india-news/supreme-court-hearing-on-essential-religious-practices-sabarimala-case-details-2026-04-22",
-      "source": "Amar Ujala National",
+      "title": "'मेरे लिए पद से अधिक नैतिकता का महत्व', विवादों के बीच नेपाल के गृह मंत्री सुदन गुरुंग ने दिया",
+      "url": "https://www.amarujala.com/world/nepal-home-minister-sudan-gurung-resigns-says-for-me-ethics-matter-more-than-post-2026-04-22",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-22T02:44:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/18/rajasthan-si-recruitment-2021_35b21397850edf7ab2b419a049cb41c4.jpeg?w=750&dpr=1.0",
-      "summary": "सुप्रीम कोर्ट ने कहा कि धार्मिक प्रथाओं की अनिवार्यता तय करना अदालतों के लिए कठिन है। यह टिप्पणी सबरीमाला विवाद की सुनवाई के दौरान आई। कोर्ट ने इस मुद्दे पर विचार करने की बात कही।",
+      "published_at": "2026-04-21T22:32:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/sathana-garaga-napal-ka-gahamatara_78b89e65c5e3223b1ce547fb5ba1bdf2.jpeg?w=750&dpr=1.0",
+      "summary": "नेपाल के गृह मंत्री सुदन गुरुंग ने विवादों के बीच इस्तीफा दे दिया, उन्होंने कहा कि उनके लिए नैतिकता पद से अधिक महत्वपूर्ण है. गुरुंग ने अपने पद से इस्तीफा देने का फैसला किया.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मेरे लिए पद से अधिक नैतिकता का महत्व', विवादों के बीच नेपाल के गृह मंत्री सुदन गुरुंग ने दिया",
+          "summary": "नेपाल के गृह मंत्री सुदन गुरुंग ने विवादों के बीच इस्तीफा दे दिया, उन्होंने कहा कि उनके लिए नैतिकता पद से अधिक महत्वपूर्ण है. गुरुंग ने अपने पद से इस्तीफा देने का फैसला किया.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "नरसंहार से पहले आतंकियों के दिमाग में क्या? एक साल बाद भी पैटर्न से जुड़े कई सवाल अनसुलझे",
+      "url": "https://www.amarujala.com/world/first-anniversary-of-the-pahalgam-attack-balochistan-connection-expert-questions-terror-patterns-2026-04-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-21T20:39:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/22/pahalgama-ma-aataka-hamal_aaa807c84670548b0a7370274ae3b381.jpeg?w=750&dpr=1.0",
+      "summary": "पहलगाम आतंकवादी हमले की पहली बरसी पर, कई सवाल अनसुलझे हैं। हमले से पहले आतंकियों के दिमाग में क्या था, यह अभी तक स्पष्ट नहीं है। जांच एजेंसियां अभी भी पैटर्न को समझने की कोशिश कर रही हैं।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सुप्रीम कोर्ट की बड़ी टिप्पणी, कहा- धार्मिक प्रथाओं की अनिवार्यता तय करना अदालतों के लिए कठिन",
-          "summary": "सुप्रीम कोर्ट ने कहा कि धार्मिक प्रथाओं की अनिवार्यता तय करना अदालतों के लिए कठिन है। यह टिप्पणी सबरीमाला विवाद की सुनवाई के दौरान आई। कोर्ट ने इस मुद्दे पर विचार करने की बात कही।",
+          "title": "नरसंहार से पहले आतंकियों के दिमाग में क्या? एक साल बाद भी पैटर्न से जुड़े कई सवाल अनसुलझे",
+          "summary": "पहलगाम आतंकवादी हमले की पहली बरसी पर, कई सवाल अनसुलझे हैं। हमले से पहले आतंकियों के दिमाग में क्या था, यह अभी तक स्पष्ट नहीं है। जांच एजेंसियां अभी भी पैटर्न को समझने की कोशिश कर रही हैं।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "2026 में तीन फिल्मों में नजर आएंगे आयुष्मान खुराना, कैसे सेलेक्ट करते हैं स्क्रिप्ट? बोले- 'दर्शक",
-      "url": "https://www.amarujala.com/entertainment/bhojpuri/pati-patni-aur-woh-do-actor-ayushmann-khurrana-never-approached-career-with-intention-of-ticking-boxes-2026-04-22",
-      "source": "Amar Ujala National",
+      "title": "ईरान में युद्ध के बाद शिक्षा बहाली तेज, 1,300 में से 775 स्कूलों की मरम्मत पूरी",
+      "url": "https://www.amarujala.com/india-news/alireza-kazemi-post-war-restoration-education-accelerates-in-iran-repairs-completed-on-775-out-of-1-300-school-2026-04-22",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-22T02:38:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/aayashhamana-kharana_d1977c1dd4923760c4390e1e26675af5.jpeg?w=750&dpr=1.0",
-      "summary": "आयुष्मान खुराना 2026 में तीन फिल्मों में नजर आएंगे। उन्होंने बताया कि वह स्क्रिप्ट का चयन दर्शकों को ध्यान में रखकर करते हैं। खुराना ने कहा कि वह हर बार कुछ नया करने की कोशिश करते हैं।",
-      "region": "World",
+      "published_at": "2026-04-21T19:52:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/alireza-kazemi_071dfe6defc30f74345f4f9675cd780e.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान में 1,300 स्कूलों में से 775 की मरम्मत पूरी हो चुकी है। यह मरम्मत अमेरिका और इस्राइल के हमलों के बाद की गई थी। बाकी स्कूलों की मरम्मत का काम जारी है और पढ़ाई ऑफलाइन-ऑनलाइन जारी रही।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "2026 में तीन फिल्मों में नजर आएंगे आयुष्मान खुराना, कैसे सेलेक्ट करते हैं स्क्रिप्ट? बोले- 'दर्शक",
-          "summary": "आयुष्मान खुराना 2026 में तीन फिल्मों में नजर आएंगे। उन्होंने बताया कि वह स्क्रिप्ट का चयन दर्शकों को ध्यान में रखकर करते हैं। खुराना ने कहा कि वह हर बार कुछ नया करने की कोशिश करते हैं।",
-          "region": "दुनिया"
+          "title": "ईरान में युद्ध के बाद शिक्षा बहाली तेज, 1,300 में से 775 स्कूलों की मरम्मत पूरी",
+          "summary": "ईरान में 1,300 स्कूलों में से 775 की मरम्मत पूरी हो चुकी है। यह मरम्मत अमेरिका और इस्राइल के हमलों के बाद की गई थी। बाकी स्कूलों की मरम्मत का काम जारी है और पढ़ाई ऑफलाइन-ऑनलाइन जारी रही।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "युद्ध के लिए तैयार ट्रंप, ईरान ने दी चेतावनी- एक और नरक बना देंगे",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTFqY0NBemdmWkF1bWZORDNza0FtcXp1ZGxLbnhIUWJVbWNlOGdiLTJEZmZLeXBRWmItc25GZ3RPeGRwcGhhS3hpUVNPOWUtbUQ2amxqSHZaV1FxY216UkxvMGdQOS1NaEhEMnpWNy03NmlMRWw1ZjJGeG11VXB2ZTRxR21SaGlla2E2aG9wdnVkOGxOQW9SNlpBX0liTnc3NF9zOGhTdmlBb2RJMEE?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-04-21T18:23:00+00:00",
+      "image_url": "https://images.pexels.com/photos/5483517/pexels-photo-5483517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिका और ईरान के बीच संघर्ष बढ़ रहा है। ट्रंप ने कहा है कि वह युद्ध के लिए तैयार हैं। ईरान ने चेतावनी दी है कि अगर अमेरिका ने हमला किया तो वह एक और नरक बना देंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "युद्ध के लिए तैयार ट्रंप, ईरान ने दी चेतावनी- एक और नरक बना देंगे",
+          "summary": "अमेरिका और ईरान के बीच संघर्ष बढ़ रहा है। ट्रंप ने कहा है कि वह युद्ध के लिए तैयार हैं। ईरान ने चेतावनी दी है कि अगर अमेरिका ने हमला किया तो वह एक और नरक बना देंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "UN में टूटेगा 81 साल का रिकॉर्ड? पहली महिला महासचिव बनने की रेस में ये दो दिग्गज महिलाएं सबसे आगे",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjRRQzA0SDVsRnZHLUZJMnc1N2MzY0V4bUFvazNLUlJzVS1talhqck1jZHFmRXFLOWtSdFZGMlBybGFNT2RGQTV1SG1qeFJ1d3B2Qnl4eUdwSUdJcDlobmlsVUNad1NNZV9FVldtdkpSeXl0LWt3NHlmZWIwaWFnWkpjeXdNdl9qeWhLYkZhdTkxMjc3Q0pr0gGcAUFVX3lxTE9ZNXVBRUk4S1Q2ZDNySHphVkVLUUdGRkVXM2RBTW0tVVY4T0tiT3lUWUVuNnhUY3VRdlVKZUQyY0dYV1dkQXFVLVVWeWlGZXhKRlRuWDkzTnVUUFFQdnpWemwwVFRUdWwxYXR3d2JmNFVRVFA2ZmlFRVMtTEtYT1ZhcGEyX3lXS0ZidzFsTTJGZTlWWVhqMkdYSlhKbw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-21T15:15:59+00:00",
+      "image_url": "https://images.pexels.com/photos/30541596/pexels-photo-30541596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र में 81 साल का रिकॉर्ड टूटने की संभावना है। दो महिला उम्मीदवारें पहली महिला महासचिव बनने की रेस में सबसे आगे हैं। यह एक ऐतिहासिक पल हो सकता है।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UN में टूटेगा 81 साल का रिकॉर्ड? पहली महिला महासचिव बनने की रेस में ये दो दिग्गज महिलाएं सबसे आगे",
+          "summary": "संयुक्त राष्ट्र में 81 साल का रिकॉर्ड टूटने की संभावना है। दो महिला उम्मीदवारें पहली महिला महासचिव बनने की रेस में सबसे आगे हैं। यह एक ऐतिहासिक पल हो सकता है।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने कई बार संघर्ष-विराम तोड़ा: ट्रंप के बयान का मतलब क्या? इस्लामाबाद शांति वार्ता पर संकट",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbWtDaHdhTW5KZi05RzJIWnZsS1pCVVowZFRxVGJfeGxSS0xaMGp2QnNvZ1VxTlVkaFN4dDE0T3RnMnBJR2tNRHRjRVZUaXltSW40TGtmTFJLRmJqcFRHaTNhWkwxdVZGMHlQOVJkdlV3Wk42bFVZRXd4aGxrb2EzT28zUzg5QlhGdlVPUTFuZ3RpNEpIUE9sZm1qMHE1ajVCcGMxWFVQMWR5VW8xWGYxaE9iUmlRNWtaUmlsVm52aXpPUVg2cEozUUc5SW5RUU5USVcteklMb25sRVVXSE5JN01zMEFFbTJ0a2ZVZm5NNllhOWlET0psZkxWONIBgAJBVV95cUxNaWpIajdsb0tncnlENm5JTXRHR3BvOTl5TGR0eUJsZkUzOFpwdkZEbzc0T21LTDZ2TjEzZkFDOXZkaTJUVWtEbHR2Q0RYS2lmX3htd0xBUlFuR0xWZlFFa3ZzV3FCY240MUZydVpHUl9abmNYM0ZTS2Zvc0k3d0pUT0dDLUdmRmtvc3hhQ2FSbFluQ1B4ZURzbzg2WEVTN1BDMEtXX0p0dXlJMjVfQjFxdi1BSlFkRExDQ2VPOVRsY0hZLXN3RnByVFlpeU96QmZBVFd6YW4tZVlmTUM3b1ZrRjdoRTRZb2gxMEZ5NjNPXzc2V1Y3SnUyeUZtd0V5RkdU?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-04-21T13:04:25+00:00",
+      "image_url": "https://images.pexels.com/photos/16033963/pexels-photo-16033963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान ने कई बार संघर्ष-विराम तोड़ा है। ट्रंप के बयान ने इस्लामाबाद शांति वार्ता पर संकट पैदा कर दिया है। ईरान और अमेरिका के बीच तनाव बढ़ रहा है और शांति वार्ता की संभावना कम हो रही है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने कई बार संघर्ष-विराम तोड़ा: ट्रंप के बयान का मतलब क्या? इस्लामाबाद शांति वार्ता पर संकट",
+          "summary": "ईरान ने कई बार संघर्ष-विराम तोड़ा है। ट्रंप के बयान ने इस्लामाबाद शांति वार्ता पर संकट पैदा कर दिया है। ईरान और अमेरिका के बीच तनाव बढ़ रहा है और शांति वार्ता की संभावना कम हो रही है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
