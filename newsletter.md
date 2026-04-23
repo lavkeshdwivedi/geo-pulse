@@ -1,16 +1,52 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** April 24, 2026 04:30 IST
+**Updated:** April 24, 2026 05:20 IST
 
 ---
 
 ## Middle East & Africa
 
+### [Israel-Hezbollah ceasefire extended by 3 weeks, says Trump](https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece)
+*The Hindu (International)* - Apr 24, 05:04 IST (iso: 2026-04-23T23:34:04+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/puctqd/article70899311.ece/alternates/LANDSCAPE_1200/Lebanon_Israel_Talks_16331.jpg -->
+
+US President Trump announced a three-week extension to the Israel-Hezbollah ceasefire, following a high-level negotiation at the White House. The agreement marks the second such deal between Israel and Lebanon in a week.
+
 ### [Trump Says Israel and Lebanon Agree to Extend Cease-Fire](https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news)
-*NYT World* - Apr 24, 04:16 IST (iso: 2026-04-23T22:46:02+00:00)
+*NYT World* - Apr 24, 05:01 IST (iso: 2026-04-23T23:31:29+00:00)
 <!-- image: https://static01.nyt.com/images/2026/04/23/multimedia/23israel-iran-promo545p-zqch/23israel-iran-promo545p-zqch-mediumSquareAt3X.jpg -->
 
 Trump extended the Israel and Lebanon cease-fire for three more weeks to advance a peace agreement in Iran. The president said the truce in Lebanon would last three more weeks.
+
+### [Trump orders U.S. military to 'shoot and kill' Iranian boats mining Strait of Hormuz](https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0RrbHZHZkFPZTQ2VF9WQkh6MUxjVVkyaHZzSm55WVRuM0FROEwzRnNkQV94dWk5U0RGYlM3eE92akUzaDBiZG9pdUdlUFZfcXZpWmgzMDU3YjA1c1REdlNYWXhZT2t0UDRFLW1wZzNRMEVtblprVkF0UVIzaHJXaUFPekRSYkZCZHd6QUFGYzlXTFowVXo1UWVrdDBERHgyNjNmc0dhNkp2a0RWTHNXaHl6bGtmbDdFZV82UTRqSmttRlhJ?oc=5)
+*Google News (war ceasefire)* - Apr 24, 04:58 IST (iso: 2026-04-23T23:28:13+00:00)
+<!-- image: https://images.pexels.com/photos/6237498/pexels-photo-6237498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+US President Trump ordered the military to shoot and kill Iranian boats mining the Strait of Hormuz. The move comes amid escalating tensions between the US and Iran. Live updates: Trump orders U. S.
+
+### [Trump announces extension to Israel-Lebanon ceasefire](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjhEMGt0a1dTY1VUNU9zZjNjUEl2M0ItWjNfb01HNnJDNGdGZ1RDS1Z3QnlOSHp1Uzd3Y29aS1JhMjNaUmFaTm83MTkzNXJQQXBjQ28wUkhWYnlJeXVMZWxIa3NYV2JULWtzRmRQN2pxc0lKdlVTcmJxY1lXZVhINTNxQTdsVUpaUXpaU2k5SWNaSkZyaVpfcWVvV3YtcjNJTEw4dWxZZ2FSS0FGRWVGdGU1VWtOLWpYc1JHUVlXNmI?oc=5)
+*Google News (war ceasefire)* - Apr 24, 04:45 IST (iso: 2026-04-23T23:15:50+00:00)
+<!-- image: https://images.pexels.com/photos/5499191/pexels-photo-5499191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+US President Trump announced an extension to the Israel-Lebanon ceasefire. The agreement, which lasts three weeks, follows a White House meeting between Israeli and Lebanese officials. Iran-US war latest: Trump announces extension to Israel-Lebanon ceasefire The Independent.
+
+### [Trump says Israel and Lebanon agree to extend ceasefire by 3 weeks](https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece)
+*The Hindu (International)* - Apr 24, 04:30 IST (iso: 2026-04-23T23:00:05+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/as5nus/article70899300.ece/alternates/LANDSCAPE_1200/2026-04-23T222316Z_435701628_RC29VKA87OIV_RTRMADP_3_USA-TRUMP.JPG -->
+
+Blasts were reported over Tehran, prompting Iran to activate its air defenses. Iran had previously stated it wouldn't reopen the Strait of Hormuz as long as the US blockades its ports.
+
+### [Israel and Lebanon agree to extend ceasefire by 3 weeks, Trump says](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tNzNHeS0wUWZqdFM1TGUtQ0x0MkhMakpPMWFJOGtFSjdhSkVIbFNZbVFxZVhyZWUzVFA5aVlPVTRLQnN2TGdMM1FyU2Q1cmZFZUcwYlB2Yk5JVlFKMlB4SHFCRmFmR1U?oc=5)
+*Google News (war ceasefire)* - Apr 24, 04:26 IST (iso: 2026-04-23T22:56:00+00:00)
+<!-- image: https://images.pexels.com/photos/5054925/pexels-photo-5054925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Israel and Lebanon agreed to extend their ceasefire by three weeks, US President Trump said. The deal was reached after a White House meeting between Israeli and Lebanese officials. Live updates: Israel and Lebanon agree to extend ceasefire by 3 weeks, Trump says AP News.
+
+### [Israel-Lebanon ceasefire extended by 3 weeks following White House peace talks, Trump says](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTVRZSHpJQzN6WkV5Y25XdXcxMXR0Q3NMYk1zSFExT08xbkpTTTVGTzkwU08zdXF5ZTlfS3NENTRDejVRbVRNQ3pQeW5Qa0pwZWNjTE9qNlptMFpNdTNPMnlJS2l3WFVmT3NYLS1FVV9DaFNlMmIxMHJGMm42NlN2d3pmMnJkYlUyOUNKUFlEQ1BkRFZvMHFzZ1ZHWFY4aUFSdWd3QnNDRWnSAa4BQVVfeXFMT2pXc0ZJU0M0Y0VTVlRRNDVtTFhwNlpVbE53ZHVaa3VteVpBRm5RZmhZR19BNU5na2kzenkzYmN4N3BjcXRMMDBQNE5ocEJ3SWEtZTRfTjRrTGRQRW9wN2d1RzFuSXFiUmw3cmFONkdKemY1bDZsbmV6QnNrZVpqZEZNWWtVeDRfcWllLUFVQXZuM2tndnFGQm51V1EtQjRDNDdoNkFBVGVnMi1LVHdR?oc=5)
+*Google News (war ceasefire)* - Apr 24, 04:09 IST (iso: 2026-04-23T22:39:00+00:00)
+<!-- image: https://images.pexels.com/photos/14569593/pexels-photo-14569593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+The Israel-Lebanon ceasefire has been extended by three weeks, US President Trump announced. The agreement follows a White House meeting between Israeli and Lebanese officials. Live Updates: Israel-Lebanon ceasefire extended by 3 weeks following White House peace talks, Trump says CBS News.
 
 ### [Trump says he is keeping Strait of Hormuz closed, not Iran](https://www.aljazeera.com/video/newsfeed/2026/4/23/trump-says-he-is-keeping-strait-of-hormuz-closed-not-iran?traffic_source=rss)
 *Al Jazeera* - Apr 24, 02:23 IST (iso: 2026-04-23T20:53:26+00:00)
@@ -23,12 +59,6 @@ Donald Trump said he is keeping the Strait of Hormuz closed, not Iran. Donald Tr
 <!-- image: https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c0f/live/40fcfd40-3f3e-11f1-b23e-977dc8cd7ec8.jpg -->
 
 The US intercepted 33 vessels since imposing a blockade on ships coming to and from Iran. Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.
-
-### [Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’](https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul?traffic_source=rss)
-*Al Jazeera* - Apr 24, 01:56 IST (iso: 2026-04-23T20:26:13+00:00)
-<!-- image: https://www.aljazeera.com/wp-content/uploads/2026/04/AP26107410478927-1776973671.jpg?resize=1200%2C675 -->
-
-Iranian officials denied a leadership rift, citing the nation's "iron unity". Several Iranian officials share same message, emphasising what they call the 'iron unity of the nation and government'. Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’.
 
 ### [Afghans Who Helped U.S. Forces Say They’re Being Pushed Back to the Taliban](https://www.nytimes.com/2026/04/23/world/asia/afghans-qatar-refugees-congo.html)
 *NYT World* - Apr 24, 01:27 IST (iso: 2026-04-23T19:57:30+00:00)
@@ -48,17 +78,23 @@ European airlines are canceling tens of thousands of flights due to soaring jet 
 
 Trump will meet Lebanon and Israel envoys during peace talks after a 10-day truce was announced. The United States announced a 10-day truce shortly after the first meeting. Trump To Meet Lebanon, Israel Envoys During Peace Talks.
 
-### [Mojtaba Injured, A 'Board' Of Generals Helps Take The Calls In Iran](https://www.ndtv.com/world-news/mojtaba-khamenei-injured-a-board-of-generals-helps-take-the-calls-in-iran-11400822#publisher=newsstand)
-*NDTV World* - Apr 24, 00:49 IST (iso: 2026-04-23T19:19:08+00:00)
-<!-- image: https://c.ndtvimg.com/2026-01/pe2km2po_-islamic-revolutionary-guard-corps_625x300_30_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738 -->
-
-Iran's military establishment took control after Mojtaba was injured. The balance of power appears firmly tilted toward the military establishment. Mojtaba Injured, A 'Board' Of Generals Helps Take The Calls In Iran.
-
 ### [Air Defence System Activated In Tehran Amid Reports Of Explosions](https://www.ndtv.com/world-news/us-iran-war-air-defence-system-activated-in-tehran-amid-reports-of-explosions-11400812#publisher=newsstand)
 *NDTV World* - Apr 24, 00:43 IST (iso: 2026-04-23T19:13:10+00:00)
 <!-- image: https://c.ndtvimg.com/2026-03/1ejs5atg_israeliran-conflict_160x120_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738 -->
 
 Tehran activated its air defense system after reports of explosions in several parts of the capital. The Mehr news agency confirmed the activation. Mehr news agency reported that the systems were activated in several parts of the capital.
+
+### [Tanzania Report Blames ‘Outside Forces’ for Deadly Election Violence](https://www.nytimes.com/2026/04/23/world/africa/tanzania-election-violence-report.html)
+*NYT World* - Apr 24, 00:26 IST (iso: 2026-04-23T18:56:11+00:00)
+<!-- image: https://static01.nyt.com/images/2026/04/23/multimedia/23int-tanzania-violence-1-vmjg/23int-tanzania-violence-1-vmjg-mediumSquareAt3X.jpg -->
+
+Tanzania blames outside forces for election violence. The findings in a new report by a commission appointed by the government were at odds with details from human rights groups, which estimate that hundreds and possibly thousands of people were killed.
+
+### [Touring Africa, Pope Leo Raised His Voice, but Didn’t Like the Echo](https://www.nytimes.com/2026/04/23/world/europe/pope-leo-africa-trump.html)
+*NYT World* - Apr 24, 00:19 IST (iso: 2026-04-23T18:49:09+00:00)
+<!-- image: https://static01.nyt.com/images/2026/04/23/multimedia/23int-pope-wrap-1-hfmq/23int-pope-wrap-1-hfmq-mediumSquareAt3X.jpg -->
+
+Pope Leo XIV made forthright comments on his Africa trip, but grew uncomfortable with the criticism's interpretation. On his recent trip abroad, Leo XIV made some of his most forthright comments since becoming pope last year, but grew uncomfortable at how that criticism was interpreted.
 
 ### [Another US Aircraft Carrier Reaches Gulf, Joins 2 Already Operating There](https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand)
 *NDTV World* - Apr 24, 00:13 IST (iso: 2026-04-23T18:43:17+00:00)
@@ -66,23 +102,21 @@ Tehran activated its air defense system after reports of explosions in several p
 
 A US aircraft carrier has joined two already operating in the Gulf, amid rising tensions with Iran. The deployment was reported in a live update on US-Iran war news. US-Iran War News Live Update:.
 
-### [Ceasefire extended: What's next in the Iran war?](https://www.dw.com/en/ceasefire-extended-what-s-next-in-the-iran-war/a-76916900?maca=en-rss-en-world-4025-xml-mrss)
-*DW World (English)* - Apr 23, 23:39 IST (iso: 2026-04-23T18:09:00+00:00)
-<!-- image: https://static.dw.com/image/76900092_6.jpg -->
+---
 
-The US and Iran have extended their ceasefire with no fixed deadline. Both countries are now seeking ways to protect their interests amid ongoing tensions. With no fixed ceasefire deadline for now, the US and Iran are looking for ways to safeguard their own interests.
+## World
 
-### [Before Iran War, China Amassed World's Largest Oil Stockpile](https://www.ndtv.com/world-news/us-iran-war-live-before-iran-war-china-amassed-worlds-largest-oil-stockpile-11400521#publisher=newsstand)
-*NDTV World* - Apr 23, 23:37 IST (iso: 2026-04-23T18:07:03+00:00)
-<!-- image: https://c.ndtvimg.com/2026-04/2viqf33k_xi-jinping-afp_625x300_23_April_26.jpeg -->
+### [World Cup final tickets go on sale for $2.3m each](https://news.sky.com/story/world-cup-final-tickets-go-on-sale-for-23m-each-13535665)
+*Sky News World* - Apr 24, 02:42 IST (iso: 2026-04-23T21:12:00+00:00)
+<!-- image: https://e3.365dm.com/25/03/1920x1080/skynews-argentina-world-cup_6848297.jpg?20250306181943 -->
 
-China amassed the world's largest oil stockpile before the Iran war, a move likely aimed at securing its energy supply. China is the world's largest crude oil importer, making this stockpile crucial to its economy.
+World Cup final tickets are on sale for $2.3m each. Tickets for this summer's football World Cup final have gone on sale for more than $2m each. World Cup final tickets go on sale for $2.3m each.
 
-### [Blasts reported over Tehran, air defences activated](https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece)
-*The Hindu (International)* - Apr 23, 23:32 IST (iso: 2026-04-23T18:02:02+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/as5nus/article70899300.ece/alternates/LANDSCAPE_1200/2026-04-23T222316Z_435701628_RC29VKA87OIV_RTRMADP_3_USA-TRUMP.JPG -->
+### [Meta To Layoff 10% Workforce Amid Heavy AI Investments: Report](https://www.ndtv.com/world-news/meta-to-layoff-10-workforce-amid-heavy-ai-investments-report-11400815#publisher=newsstand)
+*NDTV World* - Apr 24, 00:44 IST (iso: 2026-04-23T19:14:30+00:00)
+<!-- image: https://c.ndtvimg.com/2026-03/b7emokpo_meta_625x300_14_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738 -->
 
-Blasts were reported over Tehran, prompting Iran to activate its air defenses. Iran had previously stated it wouldn't reopen the Strait of Hormuz as long as the US blockades its ports.
+Meta will lay off 10% of its workforce. Mark Zuckerberg makes a priority of delivering "superintelligence" in a costly AI race. Meta To Layoff 10% Workforce Amid Heavy AI Investments: Report.
 
 ---
 
@@ -94,55 +128,21 @@ Blasts were reported over Tehran, prompting Iran to activate its air defenses. I
 
 The EU approved a 90bn euro loan to Ukraine and new Russia sanctions. Ukrainian President Zelenskyy welcomes the development, urging that the first tranche be disbursed by May or June.
 
-### [What is Europe's plan to secure the Strait of Hormuz?](https://www.dw.com/en/what-is-europe-s-plan-to-secure-the-strait-of-hormuz/a-76911137?maca=en-rss-en-world-4025-xml-mrss)
-*DW World (English)* - Apr 24, 01:23 IST (iso: 2026-04-23T19:53:00+00:00)
-<!-- image: https://static.dw.com/image/76637937_6.jpg -->
+### [Will complex EU loan deal intensify conflict?](https://www.aljazeera.com/video/inside-story/2026/4/23/will-complex-eu-loan-deal-intensify-conflict?traffic_source=rss)
+*Al Jazeera* - Apr 24, 02:25 IST (iso: 2026-04-23T20:55:28+00:00)
+<!-- image: https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776977660.jpg?resize=1920%2C1080&quality=80 -->
 
-France and the UK are leading a multinational mission to safeguard shipping through the Strait of Hormuz. France and the UK are leading efforts to establish a multinational mission to safeguard shipping through the Strait of Hormuz.
-
-### [$106 Billion Loan Reflects E.U.’s View That Peace in Ukraine Is Far Away](https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html)
-*NYT World* - Apr 23, 23:50 IST (iso: 2026-04-23T18:20:08+00:00)
-<!-- image: https://static01.nyt.com/images/2026/04/23/multimedia/23int-ukraine-loan-03-mfpw/23int-ukraine-loan-03-mfpw-mediumSquareAt3X.jpg -->
-
-The E. U. approved a $106 billion loan for Ukraine, heavily weighted toward military spending. This reflects the E. U.'s view that peace in Ukraine is unlikely in the near future. Unlike previous European assistance packages, this one is heavily weighted toward military spending, meant to put Ukraine on solid footing for a long fight.
-
-### [Russia reports toxic rain, orders locals to stay home after Ukrainian oil strike](https://www.thehindu.com/news/international/russia-reports-toxic-rain-orders-locals-to-stay-home-after-ukrainian-oil-strike/article70898946.ece)
-*The Hindu (International)* - Apr 23, 23:30 IST (iso: 2026-04-23T18:00:43+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ky35of/article70899002.ece/alternates/LANDSCAPE_1200/2026-04-22T103551Z_942648390_RC2VSKAUXPOE_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERIES.JPG -->
-
-Russia reported toxic rain and ordered locals to stay home after a Ukrainian oil strike in Tuapse on April 20. The strike triggered a huge blaze and sent thick black smoke into the sky over the coastal city.
-
-### [Trump tells BBC that King's visit could 'absolutely' help repair relations with UK](https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss)
-*BBC World* - Apr 23, 23:06 IST (iso: 2026-04-23T17:36:11+00:00)
-<!-- image: https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8c/live/8608aac0-3f29-11f1-b55d-0f258dce1735.jpg -->
-
-US President Trump told the BBC that King Charles' upcoming visit could help repair US-UK relations. He made the comments during a phone interview with the BBC's North America editor.
+Ukraine received a multibillion-dollar loan from the EU. Ukraine gets multibillion-dollar loan; Russia rakes in oil revenue. Will complex EU loan deal intensify conflict?
 
 ---
 
-## Asia-Pacific
+## Global / Multilateral
 
-### [Mysterious Deaths, Disappearances Rattle US, China](https://www.ndtv.com/world-news/20-scientists-2-giants-mysterious-deaths-disappearances-rattle-us-china-11400824#publisher=newsstand)
-*NDTV World* - Apr 24, 01:03 IST (iso: 2026-04-23T19:33:42+00:00)
-<!-- image: https://c.ndtvimg.com/2026-04/8m3hopak_missing-scientists_625x300_24_April_26.jpeg -->
+### [Dollar Tug-of-War Tilts Toward Geopolitics. What Comes Next.](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbldPcUFrWmJQWXRlZ05EZW5LQVlqem1CalFiRmhSb3RpUHRjTjVpc3ktcVUxWnlfS09uMzJuV1hrM3lvYVdvbERlMkhDZUU1Qml4dmpZYUdlODAwX0kxdDNSUHNydDJuVXZqZFFKNWxERlp2VFBSUXZybjJ6V3RTQldZYzlScmliTWY3ckJn?oc=5)
+*Google News (geopolitics)* - Apr 24, 02:23 IST (iso: 2026-04-23T20:53:00+00:00)
+<!-- image: https://images.pexels.com/photos/10037051/pexels-photo-10037051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-At least nine scientists have died under mysterious circumstances, reports from Chinese and overseas media indicate. The cause of these deaths and several disappearances is not specified. Reports from Chinese and overseas media point to at least nine deaths of scientists.
-
----
-
-## Americas
-
-### [Crash That Killed 2 Americans Is a Reminder of the Depth of Security Ties in Mexico](https://www.nytimes.com/2026/04/23/world/americas/mexico-crash-us-security-cia.html)
-*NYT World* - Apr 24, 00:19 IST (iso: 2026-04-23T18:49:40+00:00)
-<!-- image: https://static01.nyt.com/images/2026/04/23/multimedia/23int-mexico-security-wpbh/23int-mexico-security-wpbh-mediumSquareAt3X.jpg -->
-
-A crash in northern Mexico killed two CIA officers, sparking questions about authorization and sovereignty. The incident reflects a longstanding security partnership between the US and Mexico. The deaths of two C. I. A.
-
-### [Dozens of Mexican mafia members arrested in California crackdown](https://www.theguardian.com/us-news/2026/apr/23/mexican-mafia-arrests-california)
-*The Guardian* - Apr 23, 23:12 IST (iso: 2026-04-23T17:42:30+00:00)
-<!-- image: https://i.guim.co.uk/img/media/aca0fd2092193e0e44fd48a3e5f0114c85744fd9/427_0_4257_3407/master/4257.jpg?width=140&quality=85&auto=format&fit=max&s=2f15d3190fcc3c819827f339e9229a4f -->
-
-Forty-three people were indicted on charges including murder and extortion in a California crackdown on the Mexican mafia.
+The dollar is influenced by geopolitics. Dollar Tug-of-War Tilts Toward Geopolitics. What Comes Next. Barron's.
 
 ---
 
