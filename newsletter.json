@@ -1,57 +1,153 @@
 {
-  "generated_at": "2026-04-23T19:13:28.729408+00:00",
+  "generated_at": "2026-04-23T20:56:35.469654+00:00",
   "article_count": 42,
-  "total_unique_count": 251,
+  "total_unique_count": 254,
   "digest": {
-    "en": "The US has set preliminary antidumping duties on solar imports from India, Indonesia, and Laos. A second US aircraft carrier has entered the Gulf amid rising tensions between the US, Israel, and Iran. The EU has approved a $105 billion loan for Ukraine and imposed new sanctions on Russia.",
-    "hi": "दक्षिणी लेबनान में यूएन सहायता मिशन ने दौरा किया, जहां हर क़दम पर तबाही के चिन्ह दिखाई दिए। ईरान ने पाकिस्तान की मध्यस्थता को ठुकरा दिया और परमाणु डील बैठक से दूरी बना ली। आसिम मुनीर की कूटनीति असफल रही।"
+    "en": "US President Donald Trump ordered the US military to \"shoot and kill\" Iranian boats mining the Strait of Hormuz. He also invited Israeli and Lebanese officials to the White House for peace talks. European airlines are cutting thousands of flights due to reduced jet fuel supplies.",
+    "hi": "अमेरिकी चुनावों में ट्रंप के बयानों पर विवाद बढ़ रहा है। ट्रंप ने भारत के बारे में एक विवादित पोस्ट शेयर किया, जिसके बाद भारत ने बयान जारी कर स्थिति स्पष्ट की। इस बीच, आरएसएस के महासचिव दत्तात्रेय होसबाले ने अमेरिका में भारत और आरएसएस को लेकर गलत धारणाओं का मुद्दा उठाया।"
   },
   "articles": [
     {
-      "title": "US sets preliminary antidumping duties on solar imports from India, Indonesia and Laos",
-      "url": "https://www.channelnewsasia.com/business/us-sets-preliminary-antidumping-duties-solar-imports-india-indonesia-and-laos-6077106",
-      "source": "Channel News Asia",
+      "title": "Trump to Host Israeli and Lebanese Officials at White House",
+      "url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
+      "source": "NYT World",
       "sources": [],
-      "published_at": "2026-04-23T18:59:25+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--wY3621J4--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-23T185925Z_2_LYNXMPEM3M1CL_RTROPTP_3_INDIA-RENEWABLES-SOLAR.JPG?itok=GpKaxSLJ",
-      "summary": "The US has set preliminary antidumping duties on solar imports from India, Indonesia, and Laos. The duties range from 44.1% to 306.7% on imports from these countries, effective from April 20.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US-Israel-Iran War Ceasefire News Live Updates: Another US aircraft carrier enters Gulf; military",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPWXQ3NzI5YVlNQjVPci1pbHE0em1ZcXN5SVp0dmo5S0ZuMm1wMlNicU9LbW5qZi1fMXZOd203aW4zTVB1T0czY25TQl93cTFENmVQbno3Q2RZd19JemVfc2pVdmFicVhHbGEtNUtiY19NOWVzNHZ2T2YyX0NScUEtRHlnTnJPN0lCWVRPUVh2X3I2S0lLTlVCQnFlNnc1U2xVVGFUWHZIc2NRS2VwTXltMjM2TjBsSzJJNXMxaDZpUnk1bXhER2w1c0tvT1JfSlo4Qm9yaXhWYjF4MTVaSkFlVXlWN2ktVUpWbFI5YUZEQlA3dWZFWDNMcGR5ZjRRNTdWSXd4Z19tRWk3WldKblllQTUxZERXRzNjMjlGOWtvNk5nWDhiWWg00gGsAkFVX3lxTE95dVNYUFlxbjhKam9rX2FESDFGbXAzM2hXUUhYQnl6VkxVc09MVThlM3IzT2EzT0l4VUFBOWxwT1p0YmRWREduOWpZdWdJQmltQWVYaE4zVjQ4QUg2bllaTjVfbExnc3pQRmtwYVhxVEJxbG44Zk1lWDB2YVNnQUYzNVV0TFZYVndVX256SUxIeGdPMXU3VEl5ckwzTERhM1FTREZPV2tHZDN3QkQycUkxVzZ2OWViZl9MbDdvcGNiX0JRS0xLbUE4eE5JbXV1WFBVNHdvcG1NVlhuaEh5LW1fZ2JKZVZVbzJVckpZMkVtVUFyX0g5aDh6VWg5Rll5cWRKaU9Fb25ZUU5MMnVjSFpUSjQydUVWZEs5WGxyM2JTZzJTRThpN3kzQXRKSQ?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-04-23T18:50:03+00:00",
-      "image_url": "https://images.pexels.com/photos/32304390/pexels-photo-32304390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Iran received its first revenue from tolls collected at the Strait of Hormuz. The payment was made after a recent agreement. The official did not disclose the revenue amount. US-Israel-Iran War Ceasefire News Live Updates: Iran receives first revenue from Strait of Hormuz tolls, says official The Times of India.",
+      "published_at": "2026-04-23T20:49:58+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/23/multimedia/23israel-iran-header-vkbm/23israel-iran-header-vkbm-mediumSquareAt3X-v2.jpg",
+      "summary": "Trump hosts Israeli and Lebanese officials at the White House for preliminary peace talks. The preliminary peace talks, scheduled for later today, were moved to the White House from the State Department.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Electrolux plans about $1 billion share issue, tie-up with Midea in North America to shake up ops",
-      "url": "https://www.channelnewsasia.com/business/electrolux-plans-about-1-billion-share-issue-tie-up-midea-in-north-america-shake-up-ops-6077066",
+      "title": "Trump orders U.S. military to 'shoot and kill' Iranian boats mining Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0RrbHZHZkFPZTQ2VF9WQkh6MUxjVVkyaHZzSm55WVRuM0FROEwzRnNkQV94dWk5U0RGYlM3eE92akUzaDBiZG9pdUdlUFZfcXZpWmgzMDU3YjA1c1REdlNYWXhZT2t0UDRFLW1wZzNRMEVtblprVkF0UVIzaHJXaUFPekRSYkZCZHd6QUFGYzlXTFowVXo1UWVrdDBERHgyNjNmc0dhNkp2a0RWTHNXaHl6bGtmbDdFZV82UTRqSmttRlhJ?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-04-23T20:45:06+00:00",
+      "image_url": "https://images.pexels.com/photos/6237498/pexels-photo-6237498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Trump ordered the US military to shoot and kill Iranian boats mining the Strait of Hormuz. Live updates: Trump orders U. S. military to 'shoot and kill' Iranian boats mining Strait of Hormuz NBC News.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump orders navy to ‘shoot and kill’ Iranian boats immediately",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjhEMGt0a1dTY1VUNU9zZjNjUEl2M0ItWjNfb01HNnJDNGdGZ1RDS1Z3QnlOSHp1Uzd3Y29aS1JhMjNaUmFaTm83MTkzNXJQQXBjQ28wUkhWYnlJeXVMZWxIa3NYV2JULWtzRmRQN2pxc0lKdlVTcmJxY1lXZVhINTNxQTdsVUpaUXpaU2k5SWNaSkZyaVpfcWVvV3YtcjNJTEw4dWxZZ2FSS0FGRWVGdGU1VWtOLWpYc1JHUVlXNmI?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-04-23T20:15:50+00:00",
+      "image_url": "https://images.pexels.com/photos/29271686/pexels-photo-29271686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Trump ordered the navy to shoot and kill Iranian boats immediately. Iran war live: Trump orders navy to ‘shoot and kill’ Iranian boats immediately The Independent.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "What is Europe's plan to secure the Strait of Hormuz?",
+      "url": "https://www.dw.com/en/what-is-europe-s-plan-to-secure-the-strait-of-hormuz/a-76911137?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
+      "sources": [],
+      "published_at": "2026-04-23T19:53:00+00:00",
+      "image_url": "https://static.dw.com/image/76637937_6.jpg",
+      "summary": "France and the UK lead a multinational mission to secure the Strait of Hormuz. France and the UK are leading efforts to establish a multinational mission to safeguard shipping through the Strait of Hormuz.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump says UK king's visit 'absolutely' may repair ties: BBC",
+      "url": "https://www.channelnewsasia.com/world/trump-king-charles-visit-uk-us-relations-starmer-6077166",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-04-23T18:28:02+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--5ypGSUoq--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-23T182944Z_3_LYNXMPEM3M18P_RTROPTP_3_ELECTROLUX-STRATEGY.JPG?itok=XBjARKpR",
-      "summary": "Electrolux plans a $1 billion share issue and a tie-up with Midea in North America to revamp its operations. The Swedish home appliance maker aims to strengthen its presence in the region through this strategic partnership.",
+      "published_at": "2026-04-23T19:44:52+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--5d_cxNN---/c_crop,h_449,w_799,x_1,y_54/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-23T100917Z_1_LYNXMPEM3M0KZ_RTROPTP_3_USA-BRITAIN-KING.JPG?itok=IWdIfaK5",
+      "summary": "Trump says the UK king's visit may repair US and UK ties. The statement comes after the US president repeatedly criticised UK Prime Minister Keir Starmer for his handling of the Middle East conflict.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israel warns it can 'return Iran to dark ages' - after Trump issues Hormuz 'shoot and kill' order",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDNVeUExc1Z0TFppSTlyY0V5S29aRFpfeEswV1RiTHdhLTRmckN2eUw5SE9ZRmNhWVdKbEp6a0NaNHhoR0NCeXcxYmR6Qm1MT3Rwc000Vko5ZGtMLTZ2ZG1ib2dBMDFqV20zdU1ZOTluaXExRS1hUmo4QTRkdmNpUHRoT2pTNW56M0F3ZkJtMVJrRjNaTEE?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-04-23T19:31:42+00:00",
+      "image_url": "https://images.pexels.com/photos/18837988/pexels-photo-18837988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Israel warned it can return Iran to dark ages after Trump issued a Hormuz shoot and kill order. Iran war latest: Israel warns it can 'return Iran to dark ages' - after Trump issues Hormuz 'shoot and kill' order Sky News.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-23T19:29:06+00:00",
+      "image_url": "https://images.pexels.com/photos/33990051/pexels-photo-33990051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "European airlines cancelled thousands of flights due to jet fuel shortages caused by the Iran war. The soaring cost of jet fuel is forcing European airlines to cancel tens of thousands of flights, while energy authorities warned of a possible jet fuel shortage if supplies aren't replenished soon.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump To Meet Lebanon, Israel Envoys During Peace Talks",
+      "url": "https://www.ndtv.com/world-news/lebanon-israel-war-trump-to-meet-lebanon-israel-envoys-during-peace-talks-11400823#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-23T19:19:23+00:00",
+      "image_url": "https://c.ndtvimg.com/2024-11/ncepoq1g_donald-trump_625x300_20_November_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Trump will meet Lebanon and Israel envoys during peace talks after a 10-day truce was announced. The United States announced a 10-day truce shortly after the first meeting. Trump To Meet Lebanon, Israel Envoys During Peace Talks.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How Trump’s Iran war is driving military dissent",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-23T19:08:51+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776971013.jpg?resize=1920%2C1080&quality=80",
+      "summary": "Dissent is rising inside the US military over the US-Israel war on Iran with protests and quiet resistance. From protests to quiet resistance, dissent is rising inside the United States military over the US-Israel war on Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US Senate passes ICE funding resolution after ‘vote-a-rama’: What’s next?",
+      "url": "https://www.aljazeera.com/news/2026/4/23/us-senate-passes-ice-funding-resolution-after-vote-a-rama-whats-next?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-23T18:55:10+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/epa_69ea57ac9609-1776965548.jpg?resize=1920%2C1440",
+      "summary": "The US Senate passed an ICE funding resolution in a first step to break the impasse over Donald Trump's immigration plans. Republicans take first step, but long road remains to break impasse over funding Donald Trump's immigration enforcement.",
       "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Blasts reported over Tehran, air defences activated",
-      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
-      "source": "The Hindu (International)",
+      "title": "Indonesia says Russia will supply 150 mn barrels of oil",
+      "url": "https://www.channelnewsasia.com/world/indonesia-russia-subianto-putin-supply-oil-energy-war-6077031",
+      "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-04-23T18:02:02+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/inlmu9/article70899010.ece/alternates/LANDSCAPE_1200/2026-04-16T155700Z_1232198840_RC29QKAW1PN8_RTRMADP_3_IRAN-CRISIS-TEHRAN.JPG",
-      "summary": "Pakistan's minister and a US envoy discussed efforts for a second round of US-Iran talks. Iran’s vow not to reopen the Strait of Hormuz so long as a U. S. naval blockade remained in place.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-04-23T18:23:20+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--iVLVGuoe--/c_crop,h_740,w_1317,x_1,y_247/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/02/10_2026-03-31t173931z_122999925_rc2tfkanmim3_rtrmadp_3_iran-crisis-indonesia-fuel.jpg?itok=Dv5AQ4iC",
+      "summary": "Indonesia has agreed to receive 150 million barrels of oil from Russia, amid global energy pressures from the Middle East conflict. The deal aims to bolster Indonesia's energy reserves and mitigate the impact of rising fuel prices.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'Cretaceous Kraken' prowled the seas during the age of dinosaurs",
+      "url": "https://www.channelnewsasia.com/business/cretaceous-kraken-prowled-seas-during-age-dinosaurs-6077036",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-23T18:00:54+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--4ytdqCT0--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-23T190441Z_1_LYNXMPEM3M1CP_RTROPTP_3_SCIENCE-OCTOPUS.JPG?itok=xO_r36f9",
+      "summary": "Fossil records show that a massive marine reptile, the 'Cretaceous Kraken', roamed the world's oceans during the age of dinosaurs. Estimated to be over 15 meters long, this creature was a top predator in its ecosystem.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -68,14 +164,38 @@
       "translations": {}
     },
     {
-      "title": "EU Approves $105 Billion Loan For Ukraine, Imposes New Sanctions On Russia",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-eu-approves-105-billion-loan-for-ukraine-imposes-new-sanctions-on-russia-11400475#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "More than 6 million Somalis face hunger amid climate shocks and conflict",
+      "url": "https://www.aljazeera.com/news/2026/4/23/more-than-6-million-somalis-face-hunger-amid-climate-shocks-and-conflict?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-04-23T17:39:15+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/1mdc6crg_volodymyr-zelensky_625x300_15_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The EU has approved a $105 billion loan for Ukraine and imposed new sanctions on Russia. The move comes as the US has largely cut off support for Ukraine, with the EU stepping in to provide financial aid.",
-      "region": "Europe & Russia",
+      "published_at": "2026-04-23T17:45:35+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69ea3d864f2f-1776958854.jpg?resize=1920%2C1440",
+      "summary": "Climate shocks and conflict have pushed over 6 million Somalis to the brink of hunger, with children at risk of acute malnutrition. Drought and failed rains have exacerbated the crisis, leaving families struggling to access basic necessities.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israeli forces kill Palestinian teenager in occupied West Bank raid",
+      "url": "https://www.aljazeera.com/news/2026/4/23/israeli-forces-kill-palestinian-teenager-in-occupied-west-bank-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-23T17:45:02+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/08/afp_68b4bc9ab68d-1756675226.jpg?resize=1920%2C1440",
+      "summary": "Israeli forces shot a Palestinian teenager in the shoulder during a raid in the occupied West Bank, and he later died in hospital. The incident has sparked outrage among Palestinian communities, who are calling for an end to military operations in the region.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Is Ethiopia bracing for war?",
+      "url": "https://www.dw.com/en/is-ethiopia-bracing-for-war/a-76900905?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
+      "sources": [],
+      "published_at": "2026-04-23T17:40:00+00:00",
+      "image_url": "https://static.dw.com/image/56981019_6.jpg",
+      "summary": "Tensions between Ethiopia and Eritrea remain high, despite a temporary delay in escalation due to the war in Iran. Analysts warn that renewed armed conflict cannot be ruled out, as the underlying issues between the two countries remain unresolved.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -104,50 +224,14 @@
       "translations": {}
     },
     {
-      "title": "Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost",
-      "url": "https://www.aljazeera.com/features/longform/2026/4/23/decapitating-cartels-mexico-leans-into-kingpin-strategy-but-at-a-cost?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Pentagon says top Navy official to leave office ‘immediately’",
+      "url": "https://www.thehindu.com/news/international/pentagon-says-top-navy-official-to-leave-office-immediately/article70898930.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-04-23T17:35:10+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-26T163311Z_1885355175_RC2UBO9K1SDB_RTRMADP_3_ARGENTINA-CARTELS-1776816971.jpg?resize=1920%2C1440",
-      "summary": "Mexico's President Claudia Sheinbaum authorised military operations to arrest cartel leaders under US pressure. Under pressure from the US, President Claudia Sheinbaum has authorised military operations to arrest cartel leaders.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Italy slams Trump envoy proposal of taking Iran’s place in World Cup 2026",
-      "url": "https://www.aljazeera.com/sports/2026/4/23/italy-officials-say-replacing-iran-at-world-cup-2026-would-be-shameful?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-23T17:34:13+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP25340317857585-1776961996.jpg?resize=1920%2C1440",
-      "summary": "Italy officials rejected a proposal for their team to replace Iran at World Cup 2026. Italy officials slam suggestion that national football team should replace Iran at World Cup; fans also underwhelmed.",
+      "published_at": "2026-04-23T17:33:14+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/irjcjj/article70898936.ece/alternates/LANDSCAPE_1200/2026-04-22T215859Z_342135541_RC2YLIAGQYZ2_RTRMADP_3_USA-TRUMP-NAVY.JPG",
+      "summary": "The Navy's top civilian official is leaving office immediately, the Pentagon said, without giving a reason, as the Navy blockades Iranian ports. No reason was given for the unexpected departure of the Navy’s top civilian official, coming as the sea service has imposed a blockade of Iranian ports.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russia Warns European Nations Against Hosting French Nuclear-Capable Bombers",
-      "url": "https://www.ndtv.com/world-news/russia-warns-european-nations-against-hosting-french-nuclear-capable-bombers-11400452#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-23T17:33:04+00:00",
-      "image_url": "https://c.ndtvimg.com/2025-11/uolsf1fs_putin-ukraine-warning_625x300_28_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Russia warned European nations against hosting French nuclear-capable bombers after NATO criticism. NATO this week criticised Russia and China over their nuclear arms policies. Russia Warns European Nations Against Hosting French Nuclear-Capable Bombers.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "ACLU, Amnesty lead 120 rights groups issuing US World Cup ‘travel advisory’",
-      "url": "https://www.aljazeera.com/news/2026/4/23/aclu-amnesty-lead-120-rights-groups-issuing-us-world-cup-travel-advisory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-23T17:14:03+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/getty_69ea39d6df-1776957910.jpg?resize=1920%2C1440",
-      "summary": "The ACLU and 120 rights groups issued a US travel advisory citing deteriorating human rights. Groups warn of 'deteriorating human rights' in call for US visitors' protection; White House decries 'scare tactics'.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -176,88 +260,76 @@
       "translations": {}
     },
     {
-      "title": "Why the European Union's wartime loan is a vital lifeline for cash-strapped Ukraine",
-      "url": "https://www.channelnewsasia.com/world/ukraine-russia-war-european-union-loan-hungary-pipeline-6076921",
-      "source": "Channel News Asia",
+      "title": "'आरएसएस और भारत को लेकर अमेरिका में गलत धारणा', दत्तात्रेय होसबाले का बयान",
+      "url": "https://www.amarujala.com/world/us-rss-india-misconceptions-dattatreya-hosabale-tatement-2026-04-24",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-23T16:58:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--eoyqgIq9--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Russia_Ukraine_War_75795.jpg?itok=IyeEhlWQ",
-      "summary": "The European Union granted Ukraine a €90 billion loan to support its government and military. The €90 billion loan shows strong support from Europe to help Ukraine keep its government and military running.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "\"Uninformed, Inappropriate, In Poor Taste\": India After Trump 'Hell-Hole' Row",
-      "url": "https://www.ndtv.com/world-news/uninformed-inappropriate-in-poor-taste-india-after-trump-hell-hole-row-11400181#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-23T16:54:13+00:00",
-      "image_url": "https://c.ndtvimg.com/2025-04/qph7os5_donald-trump-reuters_625x300_22_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "India criticized Donald Trump for sharing a derogatory post about the country. Donald Trump had shared a derogatory post on India made by a podcaster. \"Uninformed, Inappropriate, In Poor Taste\": India After Trump 'Hell-Hole' Row.",
+      "published_at": "2026-04-23T20:48:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/08/garakhapara-nayaja_d71212b30deee8024fc4bd343c64248a.jpeg?w=750&dpr=1.0",
+      "summary": "आरएसएस के महासचिव दत्तात्रेय होसबाले ने कहा है कि अमेरिका में आरएसएस और भारत को लेकर गलत धारणाएं हैं। उन्होंने इस बारे में बयान दिया। होसबाले के बयान से यह स्पष्ट होता है कि आरएसएस और भारत की छवि को सुधारने की जरूरत है।",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'आरएसएस और भारत को लेकर अमेरिका में गलत धारणा', दत्तात्रेय होसबाले का बयान",
+          "summary": "आरएसएस के महासचिव दत्तात्रेय होसबाले ने कहा है कि अमेरिका में आरएसएस और भारत को लेकर गलत धारणाएं हैं। उन्होंने इस बारे में बयान दिया। होसबाले के बयान से यह स्पष्ट होता है कि आरएसएस और भारत की छवि को सुधारने की जरूरत है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
-      "title": "Journalist Detained in Kuwait After Posting About Iran War Is Acquitted",
-      "url": "https://www.nytimes.com/2026/04/23/world/middleeast/kuwait-journalist-acquitted.html",
-      "source": "NYT World",
+      "title": "पाकिस्तान में गोलीबारी की घटनाओं में पांच की मौत; दक्षिण अफ्रीका के पुलिस प्रमुख निलंबित",
+      "url": "https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-04-24",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-23T16:53:55+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/23/multimedia/23int-kuwait-arrest-1-tbhp/23int-kuwait-arrest-1-tbhp-mediumSquareAt3X.jpg",
-      "summary": "Ahmed Shihab-Eldin, a Kuwaiti-American journalist, was acquitted after 52 days in detention. Ahmed Shihab-Eldin, a Kuwaiti-American journalist, is expected to be released soon, after 52 days in detention, a lawyer for two of his family members said.",
+      "published_at": "2026-04-23T20:44:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=750&dpr=1.0",
+      "summary": "पाकिस्तान में गोलीबारी की घटनाओं में पांच लोगों की मौत हो गई। दक्षिण अफ्रीका के पुलिस प्रमुख को निलंबित कर दिया गया। इन घटनाओं ने 국제 समुदाय का ध्यान आकर्षित किया है।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान में गोलीबारी की घटनाओं में पांच की मौत; दक्षिण अफ्रीका के पुलिस प्रमुख निलंबित",
+          "summary": "पाकिस्तान में गोलीबारी की घटनाओं में पांच लोगों की मौत हो गई। दक्षिण अफ्रीका के पुलिस प्रमुख को निलंबित कर दिया गया। इन घटनाओं ने 국제 समुदाय का ध्यान आकर्षित किया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Nepal’s Remittance Reckoning: The Gen Z Mandate Meets the Gulf Crisis",
-      "url": "https://thediplomat.com/2026/04/nepals-remittance-reckoning-the-gen-z-mandate-meets-the-gulf-crisis/",
-      "source": "The Diplomat",
+      "title": "गालिबाफ ने खारिज किया ट्रंप का अंदरूनी मतेभद का दावा, कहा- हम सभी 'ईरानी' और 'क्रांतिकारी' हैं",
+      "url": "https://www.amarujala.com/live/world/west-asia-live-updates-us-iran-ceasefire-strait-of-hormuz-donald-trump-israel-lebanon-news-in-hindi-2026-04-24",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-23T16:46:00+00:00",
-      "image_url": "https://images.thediplomat.com/v1/td-list-l-2/2026/04/thediplomat_2026-04-24-015550.jpg",
-      "summary": "Nepal's new government faces an external economic threat from the Gulf crisis. Kathmandu's new government was elected to right Nepal’s economic ship. It must now confront an external economic threat.",
+      "published_at": "2026-04-23T20:19:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/02/west-asia-tensions-future-of-iran-is-bleak-but-fears-are-not-unfounded_d5690f1c9dd490ec8810e1b4bca4a5a5.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान के संसद अध्यक्ष मोहम्मद गालिबाफ ने डोनाल्ड ट्रंप के दावे को खारिज कर दिया कि उनके बीच मतभेद हैं। गालिबाफ ने कहा कि वे सभी 'ईरानी' और 'क्रांतिकारी' हैं।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गालिबाफ ने खारिज किया ट्रंप का अंदरूनी मतेभद का दावा, कहा- हम सभी 'ईरानी' और 'क्रांतिकारी' हैं",
+          "summary": "ईरान के संसद अध्यक्ष मोहम्मद गालिबाफ ने डोनाल्ड ट्रंप के दावे को खारिज कर दिया कि उनके बीच मतभेद हैं। गालिबाफ ने कहा कि वे सभी 'ईरानी' और 'क्रांतिकारी' हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Russian Town Sees Toxic Rain After Ukraine Strike, Officials Issue Warning",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-town-sees-toxic-rain-after-ukraine-strike-officials-issue-warning-11400260#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "अमेरिका के लुइसियाना में गोलीबारी, मॉल में भिड़े दो समूह; जमकर दागीं गोलियां, 10 घायल",
+      "url": "https://www.amarujala.com/world/louisiana-mall-mass-shooting-many-injured-active-shooter-situation-in-baton-rouge-clash-two-groups-2026-04-24",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-23T16:45:05+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/hmpoia0o_tuapse-oil-refinery-attack_625x300_23_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Ukraine's drone attack on a Russian oil refinery in Tuapse caused toxic rain. Thick plumes of smoke rise from an oil refinery in Russia's Tuapse after an Ukrainian drone attack.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US eases access to marijuana for medical use",
-      "url": "https://www.channelnewsasia.com/world/trump-administration-marijuana-drug-medical-use-6076856",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-23T16:33:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--C5KsaRkD--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-03-16T233433Z_2_LYNXMPEM2F1ES_RTROPTP_3_HEALTH-CANNABIS-STUDY.JPG?itok=EcCD62re",
-      "summary": "The United States downgraded cannabis to a less strict drug classification. Cannabis has been downgraded to a less strict drug classification in the United States to expand “patients’ access to treatments” and support more research.",
+      "published_at": "2026-04-23T19:57:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/12/14/us-shooting_12ac5193f71dd65a0db49dd4713b25c4.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका के लुइसियाना में एक मॉल में दो समूहों के बीच गोलीबारी हुई, जिसमें 10 लोग घायल हो गए। घटना के बाद इलाके में अफरा-तफरी मच गई। पुलिस ने स्थिति को नियंत्रित किया।",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
-      "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-04-23T16:15:45+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/509c/live/7266dad0-3f21-11f1-80a9-03674e4a073c.jpg",
-      "summary": "Warner Bros shareholders approved Paramount's $111bn takeover. The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons. Warner Bros shareholders approve Paramount's $111bn takeover.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका के लुइसियाना में गोलीबारी, मॉल में भिड़े दो समूह; जमकर दागीं गोलियां, 10 घायल",
+          "summary": "अमेरिका के लुइसियाना में एक मॉल में दो समूहों के बीच गोलीबारी हुई, जिसमें 10 लोग घायल हो गए। घटना के बाद इलाके में अफरा-तफरी मच गई। पुलिस ने स्थिति को नियंत्रित किया।",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
       "title": "दक्षिणी लेबनान में यूएन सहायता मिशन का दौरा, हर क़दम पर तबाही के चिन्ह",
@@ -278,92 +350,92 @@
       }
     },
     {
-      "title": "ईरान ने ठुकराई पाकिस्तान की मध्यस्थता? परमाणु डील बैठक से दूरी, आसिम मुनीर की कूटनीति फेल",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMVNqLTlHdGI4dE5hU096M0VuYk9QSUhWTjA4cDJQc3B5SDh3RTFkdnY1MTJVSW5QWWYzMDRfSi1YaU9WdU9sOVJkZzY2TzBUV2pUaFBMVzhrZVFKNXR4amRDWFNzUURDYjZHZmllUTIyN2tsaUN4TnRFd0tVMC12RmVCNnRMTEl2VXgwQVY4TzcyZUtTd0E1NC1FblJTNi16MkxGTE5PVGJoNjU5R1hJdE5IWDVVWERHYThTa3hFRDRYai1qUHVFb3hoUGs2UnFTS0xRRHVmd2TSAd4BQVVfeXFMTWZWbTRoUHlxTE1jdkNqZW5ENklwdDFZdHlBRWxOMUcxdGE4azFzd0J3VUFYd1FnWUhyemlMV1cyNlFDNXlLWWxFZG9PN3ctX0VLVVM0alltRFN2UFRuc3dFYlFlemVCeDNQT0dsTmFEdXV0eWtEbUFLczNJV0pZYjFmTWc0enc3TmczUEpwTkx0cUtmWUNESFRIb181UzlkVXgxRjBQMGpmUm9ZQzFxaXFnclE0LU9hemt4MEVoMjhPb1VoZXRIRGJPLXpXamU5LUxVRVRhb21hX1kzLWJR?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
+      "title": "ट्रंप ने भारत के बारे में 'विवादित' पोस्ट किया शेयर, भारत ने जारी किया बयान",
+      "url": "https://www.bbc.com/hindi/articles/cy4130ed40po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-23T14:33:46+00:00",
-      "image_url": "https://images.pexels.com/photos/8828624/pexels-photo-8828624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने पाकिस्तान की मध्यस्थता ठुकरा दी है, परमाणु डील बैठक से दूरी बनाई है। ईरान ने ठुकराई पाकिस्तान की मध्यस्थता? परमाणु डील बैठक से दूरी, आसिम मुनीर की कूटनीति फेल Asianet News Hindi।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने ठुकराई पाकिस्तान की मध्यस्थता? परमाणु डील बैठक से दूरी, आसिम मुनीर की कूटनीति फेल",
-          "summary": "ईरान ने पाकिस्तान की मध्यस्थता ठुकरा दी है, परमाणु डील बैठक से दूरी बनाई है। ईरान ने ठुकराई पाकिस्तान की मध्यस्थता? परमाणु डील बैठक से दूरी, आसिम मुनीर की कूटनीति फेल Asianet News Hindi।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान युद्ध में चीन की 'साइलेंट डिप्लोमेसी': बिना मध्यस्थ बने कैसे निभा रहा बड़ी भूमिका? Inside Story",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkozQUJCakdXZmdnbkxxMVVHVUdjUVFRTFp5eUlJbk11cTNybV93V0pWejRtZmp5YXBuZHNndVV4LU1mQXZwUzJmVFV6Vk94TThzNnJselZIcFRtRTIyc2p6TE5kMVhyeUNzQ2wzUDJaUDR2T2w4N2VocDFJTFYtWjMxX3JwS05ORGRDXzkta04xMUNGcENIaGFHa1FRRHFfZWhmbHMyejJ4V2pwclE?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-23T13:59:00+00:00",
-      "image_url": "https://images.pexels.com/photos/35865194/pexels-photo-35865194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान युद्ध में चीन साइलेंट डिप्लोमेसी अपना रहा है, मध्यस्थ बने बिना बड़ी भूमिका निभा रहा है। ईरान युद्ध में चीन की 'साइलेंट डिप्लोमेसी': बिना मध्यस्थ बने कैसे निभा रहा बड़ी भूमिका?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान युद्ध में चीन की 'साइलेंट डिप्लोमेसी': बिना मध्यस्थ बने कैसे निभा रहा बड़ी भूमिका? Inside Story",
-          "summary": "ईरान युद्ध में चीन साइलेंट डिप्लोमेसी अपना रहा है, मध्यस्थ बने बिना बड़ी भूमिका निभा रहा है। ईरान युद्ध में चीन की 'साइलेंट डिप्लोमेसी': बिना मध्यस्थ बने कैसे निभा रहा बड़ी भूमिका?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान पर हमले के लिए नेतन्याहू ने तीन अमेरिकी राष्ट्रपतियों को उकसाया, जॉन केरी का खुलासा",
-      "url": "https://www.amarujala.com/world/john-kerry-reveal-netanyahu-pressure-on-us-presidents-for-iran-attack-2026-04-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-23T05:54:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/23/parava-amaraka-vathasha-sacava-jana-kara_7d09bf1862196081bd74143293ff926b.jpeg?w=750&dpr=1.0",
-      "summary": "नेतन्याहू ने तीन अमेरिकी राष्ट्रपतियों को ईरान पर हमले के लिए उकसाया। ईरान पर हमले के लिए नेतन्याहू ने तीन अमेरिकी राष्ट्रपतियों को उकसाया, जॉन केरी का खुलासा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान पर हमले के लिए नेतन्याहू ने तीन अमेरिकी राष्ट्रपतियों को उकसाया, जॉन केरी का खुलासा",
-          "summary": "नेतन्याहू ने तीन अमेरिकी राष्ट्रपतियों को ईरान पर हमले के लिए उकसाया। ईरान पर हमले के लिए नेतन्याहू ने तीन अमेरिकी राष्ट्रपतियों को उकसाया, जॉन केरी का खुलासा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'लश्कर-जैश पर नकेल कसे पाकिस्तान', पहलगाम हमले की बरसी पर अमेरिकी सांसदों ने एक सुर में उठाई मांग",
-      "url": "https://www.amarujala.com/world/anniversary-of-pahalgam-attack-a-us-lawmaker-said-pakistan-should-crack-down-terrorist-groups-like-let-jem-2026-04-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-23T04:56:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/03/amaraka-ma-bharataya-thatavasa_b726510f194fadc56b505d1367787cc0.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी सांसदों ने पहलगाम हमले की बरसी पर पाकिस्तान से मांग की कि वह लश्कर-जैश जैसे आतंकवादी समूहों पर कार्रवाई करे। यह मांग एकसुर में उठाई गई। 'लश्कर-जैश पर नकेल कसे पाकिस्तान', पहलगाम हमले की बरसी पर अमेरिकी सांसदों ने एकसुर में उठाई मांग।",
+      "published_at": "2026-04-23T17:09:54+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cae7/live/13b0efb0-3f37-11f1-b23e-977dc8cd7ec8.jpg",
+      "summary": "डोनाल्ड ट्रंप ने भारत के बारे में एक विवादित पोस्ट शेयर किया, जिसके बाद भारत ने बयान जारी कर अपनी प्रतिक्रिया दी। भारत में अमेरिकी दूतावास के प्रवक्ता ने कहा कि ट्रंप ने भारत की प्रशंसा की है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'लश्कर-जैश पर नकेल कसे पाकिस्तान', पहलगाम हमले की बरसी पर अमेरिकी सांसदों ने एक सुर में उठाई मांग",
-          "summary": "अमेरिकी सांसदों ने पहलगाम हमले की बरसी पर पाकिस्तान से मांग की कि वह लश्कर-जैश जैसे आतंकवादी समूहों पर कार्रवाई करे। यह मांग एकसुर में उठाई गई। 'लश्कर-जैश पर नकेल कसे पाकिस्तान', पहलगाम हमले की बरसी पर अमेरिकी सांसदों ने एकसुर में उठाई मांग।",
+          "title": "ट्रंप ने भारत के बारे में 'विवादित' पोस्ट किया शेयर, भारत ने जारी किया बयान",
+          "summary": "डोनाल्ड ट्रंप ने भारत के बारे में एक विवादित पोस्ट शेयर किया, जिसके बाद भारत ने बयान जारी कर अपनी प्रतिक्रिया दी। भारत में अमेरिकी दूतावास के प्रवक्ता ने कहा कि ट्रंप ने भारत की प्रशंसा की है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "अमेरिकी नाकेबंदी से ईरान पर कसा शिकंजा, US आर्मी बोली- अब तक 31 जहाज लौटे वापस",
-      "url": "https://www.amarujala.com/world/us-centcom-31-ships-turned-back-us-during-blockade-of-iran-in-strait-of-hormuz-west-asia-crisis-2026-04-23",
-      "source": "Amar Ujala World",
+      "title": "पाकिस्तानी लोग ईरानी मुद्रा में निवेश क्यों कर रहे हैं, इसमें क्या जोखिम हैं?",
+      "url": "https://www.bbc.com/hindi/articles/c5y9nj7v6e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-23T03:32:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/18/russian-ship_0eb6b6e3d3b6fe27641091878b8c3c59.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी नाकेबंदी के कारण ईरान पर शिकंजा कसा जा रहा है। US आर्मी ने बताया कि अब तक 31 जहाज लौटे वापस हैं। अमेरिकी नाकेबंदी से ईरान पर कसा शिकंजा, US आर्मी बोली- अब तक 31 जहाज लौटे वापस।",
+      "published_at": "2026-04-23T13:03:53+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/654f/live/f6980b70-3f27-11f1-b9c3-8be9c0df6b27.jpg",
+      "summary": "पाकिस्तान में लोग कमजोर होती ईरानी मुद्रा में निवेश कर रहे हैं. ईरान में जंग के कारण मुद्रा की कीमत गिर गई है. इससे निवेशकों को जोखिम का सामना करना पड़ सकता है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिकी नाकेबंदी से ईरान पर कसा शिकंजा, US आर्मी बोली- अब तक 31 जहाज लौटे वापस",
-          "summary": "अमेरिकी नाकेबंदी के कारण ईरान पर शिकंजा कसा जा रहा है। US आर्मी ने बताया कि अब तक 31 जहाज लौटे वापस हैं। अमेरिकी नाकेबंदी से ईरान पर कसा शिकंजा, US आर्मी बोली- अब तक 31 जहाज लौटे वापस।",
+          "title": "पाकिस्तानी लोग ईरानी मुद्रा में निवेश क्यों कर रहे हैं, इसमें क्या जोखिम हैं?",
+          "summary": "पाकिस्तान में लोग कमजोर होती ईरानी मुद्रा में निवेश कर रहे हैं. ईरान में जंग के कारण मुद्रा की कीमत गिर गई है. इससे निवेशकों को जोखिम का सामना करना पड़ सकता है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सुरक्षा, कूटनीति और नैरेटिव की परीक्षा",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0RJLUw5NTlsbWJwWkRacy05VFJCdG5iSVMxTWNPUjZIc255OGgxc3UtMUctcFdzZjNLR3ZlN2h5T3RZLWFxdExHa3I3c3JnRnNaT05LOE9OMUtRcHNNdXl3dzVJa3FIWUQzS3F3TkVzdF9CbWZLVXY3bjJHbUdHMGdReTJMQ1FrajZHUVZsTXXSAZYBQVVfeXFMTlJ2U3F3NUpsejZkbFJlZnJ4RU1uRXBCclVGekZvSFJZbjJUTHFpclJneFRyb0pxOHpyTWRiSS1RSFc0SENTdl9XTXVTWXVCQVJPb0dmRVFvNUhodkVQa2lWZGE4WThHUWNwZTFVa0RITTd6RVRCWUViZ09xTUNOaEI4T04xZ0tscmZydmRXeXdUSW9NcG9n?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-04-23T10:09:38+00:00",
+      "image_url": "https://images.pexels.com/photos/34954625/pexels-photo-34954625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "चल रही है. इसके बारे में विस्तृत जानकारी नहीं है. सुरक्षा, कूटनीति और नैरेटिव की परीक्षा Patrika News।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुरक्षा, कूटनीति और नैरेटिव की परीक्षा",
+          "summary": "चल रही है. इसके बारे में विस्तृत जानकारी नहीं है. सुरक्षा, कूटनीति और नैरेटिव की परीक्षा Patrika News।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "ईरान जंग के कारण महंगे हो सकते हैं कंडोम",
+      "url": "https://www.bbc.com/hindi/articles/ckgxk4nw3l2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-23T07:47:27+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a427/live/e56a8160-3ed3-11f1-9ec0-ab4b6ea2534c.jpg",
+      "summary": "ईरान जंग के कारण कंडोम के उत्पादन पर असर पड़ा है. मांग 30% बढ़ने से कंडोम की कीमतें बढ़ सकती हैं. कंडोम बनाने वाली सबसे बड़ी कंपनी के सीईओ ने बताया कंडोम की मांग 30 फ़ीसदी बढ़ी है लेकिन ईरान जंग की वजह से आख़िर कंडोम के प्रोडक्शन पर क्या असर पड़ा है?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान जंग के कारण महंगे हो सकते हैं कंडोम",
+          "summary": "ईरान जंग के कारण कंडोम के उत्पादन पर असर पड़ा है. मांग 30% बढ़ने से कंडोम की कीमतें बढ़ सकती हैं. कंडोम बनाने वाली सबसे बड़ी कंपनी के सीईओ ने बताया कंडोम की मांग 30 फ़ीसदी बढ़ी है लेकिन ईरान जंग की वजह से आख़िर कंडोम के प्रोडक्शन पर क्या असर पड़ा है?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत की फसलों पर मंडरा रहा लू का खतरा, मानसून में 'सामान्य से कम' बारिश के अनुमान के बीच UN की",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVERxOFdWdldYZ2dydEFNTEVGMThwVmRTdmlOb3VhV2Q4ZkNXUGRMdTFfSC1rWG5SMElEYTVMaFFSdXJONzlMcUJLdkRtOFo0QzNYajV6UEtmLTZfbVFzM2RaZjBwdGF5OXlfaUtYdmdzWTVUUXI1WU1DcU9mLW9hQmFVUGJHbldkVE50RFhud1Y0S1NucGh3ZHVBVEF1MHdhbkl0Zg?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-23T04:28:00+00:00",
+      "image_url": "https://images.pexels.com/photos/20445181/pexels-photo-20445181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत में लू के खतरे से फसलें प्रभावित हो रही हैं. मानसून में 'सामान्य से कम' बारिश के अनुमान के बीच UN ने रिपोर्ट जारी की है. भारत की फसलों पर मंडरा रहा लू का खतरा, मानसून में 'सामान्य से कम' बारिश के अनुमान के बीच UN की रिपोर्ट Jagran।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत की फसलों पर मंडरा रहा लू का खतरा, मानसून में 'सामान्य से कम' बारिश के अनुमान के बीच UN की",
+          "summary": "भारत में लू के खतरे से फसलें प्रभावित हो रही हैं. मानसून में 'सामान्य से कम' बारिश के अनुमान के बीच UN ने रिपोर्ट जारी की है. भारत की फसलों पर मंडरा रहा लू का खतरा, मानसून में 'सामान्य से कम' बारिश के अनुमान के बीच UN की रिपोर्ट Jagran।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -463,7 +535,7 @@
       "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
       "published_at": "2026-04-21T16:23:28+00:00",
-      "image_url": "https://images.pexels.com/photos/11572425/pexels-photo-11572425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_url": "https://images.pexels.com/photos/14907378/pexels-photo-14907378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "अमेरिका-ईरान के बीच संघर्ष फिर से दहकने को तैयार है। वार्ता या बारूद!",
       "region": "Middle East & Africa",
       "language": "hi",
@@ -472,6 +544,24 @@
           "title": "वार्ता या बारूद! खत्म हो रही 'डेडलाइन', अमेरिका-ईरान के बीच का संघर्ष क्या फिर से दहकने को तैयार...?",
           "summary": "अमेरिका-ईरान के बीच संघर्ष फिर से दहकने को तैयार है। वार्ता या बारूद!",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "UN ने भारत पर जताया भरोसा; फर्राटा भरेगी इकोनॉमी, 2026 में 6.4% और 2027 में 6.6% ग्रोथ का अनुमान",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFJYR3EtYXJwUS02Y0tzTDZLMkFhLXZ4YkMyT2VWLURfV180TGhQOEh5dDZSb0ZOeU9vR2VUaGhKRUlrYnNScXVlX2RnTDJwTzJQQjBrN2pBdGpMa253OXpGV3lqVUxWT2dmdlZSNVpQeUtZVkpiYlI3YWcwN3RlSjhXV1RzblFaSDdQOU9pVi05aUtmQlNqM21pZWxtMEV3eE9LVWZOWG1DQXRMMVNxMm1iZ1NjSFhTQ1E3S1hVSnBqWTVTeEhud2x6MmNEc1lpb1HSAdcBQVVfeXFMTjN1YWdRUGptSWJpY21PSjlJU21EOU1TRlF3T3EyZm1EYVFlZVZsNGRRNG1uX2lRUEE3Y3d6dzBESzBUX3FoWVRrSEhKYnRoMFo2bDNkZ05hYnpCYWNPUGkwVlN1akhVbkM4N3EwSmJ4QWhPbDNMMFBBRVl1eU5tS1BhNVVLYVpPLUFWbGlnV3J6YTJfMWg4NDltRnhoVlJWeTVtUjZRMFpLVmNPRTdhajdvRURaVzlwTUtGbERlU1RYWDJFNE9OSHNzX1g1Ym43N3lYbWM2M2c?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-21T10:55:46+00:00",
+      "image_url": "https://images.pexels.com/photos/11644201/pexels-photo-11644201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "UN ने भारत की अर्थव्यवस्था पर भरोसा जताया है. 2026 में 6.4% और 2027 में 6.6% ग्रोथ का अनुमान है. UN ने भारत पर जताया भरोसा; फर्राटा भरेगी इकोनॉमी, 2026 में 6.4% और 2027 में 6.6% ग्रोथ का अनुमान Zee News।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UN ने भारत पर जताया भरोसा; फर्राटा भरेगी इकोनॉमी, 2026 में 6.4% और 2027 में 6.6% ग्रोथ का अनुमान",
+          "summary": "UN ने भारत की अर्थव्यवस्था पर भरोसा जताया है. 2026 में 6.4% और 2027 में 6.6% ग्रोथ का अनुमान है. UN ने भारत पर जताया भरोसा; फर्राटा भरेगी इकोनॉमी, 2026 में 6.4% और 2027 में 6.6% ग्रोथ का अनुमान Zee News।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -530,24 +620,6 @@
       }
     },
     {
-      "title": "100 साल से लगातार जंग जैसे हालात से जूझ रहे ये देश, जानें युद्ध के लिए कहां से",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaUt2M1N1RjgyVnptT0JrMnMxWnpBX1M0T3R2RWRlUC1pN2xtcDkxZmEydWNzMU9FN090cUhKSnMtZERaMm5nM1B3U2d2RDRheHNqWkp2dlJrOGVFRzBEVXhZOVJRN0dNWGJCSTFPeEFaWWsxOWVMUFBPNWVyVjhMek9ZcUtxOFBDaHg4RnJ4Qi1mSFdubnRNcTFYUXQxeVhkSTU3NWVDSDU0MkpaY0p5c3lrTms5NkphRXNsV3c0WGRpdEZQcWU0U2xkSHpOOWJPbWhkSVJJd9IB3AFBVV95cUxOSzJKMkpMTVpCd0hGSTQtY1hTTmRySTdhci1sbGpWLTBuTUNHZC1wWXJyN0pjUF9WQVh3d2JURFpvUXBzTUZLa0pJUFhEMUFtLUdUSjRDdXpHV1dybVRSakpzVVFvUzBNeGEzU2hQcEsxT0hSaktqM0pXVzhVbDBiSmR1cjI2WGNSWmRDdU10NTNsOFZqYmtyNkpNRDFiVjZqT3d6R3RlcnBkMGVRcE4xMkxidGd5SnhCaGRYaXZQbEU2MThDa0dHSXZIMmJhRHJQek1EZXZhOHNmRnd6?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-21T04:34:50+00:00",
-      "image_url": "https://images.pexels.com/photos/8139313/pexels-photo-8139313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "कई देश 100 साल से लगातार जंग जैसे हालात से जूझ रहे हैं, जिनमें युद्ध के लिए संसाधनों की कमी एक बड़ी चुनौती है। इन देशों को अपनी अर्थव्यवस्था को मजबूत बनाने की जरूरत है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "100 साल से लगातार जंग जैसे हालात से जूझ रहे ये देश, जानें युद्ध के लिए कहां से",
-          "summary": "कई देश 100 साल से लगातार जंग जैसे हालात से जूझ रहे हैं, जिनमें युद्ध के लिए संसाधनों की कमी एक बड़ी चुनौती है। इन देशों को अपनी अर्थव्यवस्था को मजबूत बनाने की जरूरत है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "कूटनीति या अंतहीन इंतजार? ट्रंप की धमकी और ईरान के धैर्य के बीच फंसी महाडील",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYm1iYTJDazFobDd6LVRRbnZkUERKeFpBdzZOdzhGOTR1bEJaT3ZVTnp2Q25VWkdQcHpZQkZZeDBNUk41SmI4VnVIUVRMVDlpSTgwZG4yX2ZzWmZSVF9UQ2dDRE8yY05zcUQ1cE1Zc29MbFFCV3ZqblVNYlZpdnhNLVNLbmR6Qm9kckticzFJdkxIazhDNXNZM0czdXh4cEsxcllYaGsyd21pUkstVU9ld0w0UGhRLWNyUlhUVldPTFJRQWRRRzNtd2FkQXZZc0UyYnNmZGhB0gHbAUFVX3lxTFAwTzAybW5XQXlTR1NNcDk1R3NYUEl2MF9CVjc1YUVBajBhaVlCSVplakFUQzlBN1pWWHA2c1VaYlpyMTJ2akNQazhEX0ktamloa25fbDVwSkM2a3pVbnlxdl9jUkJlWjNodFN4bWNUdldsZWVSS0dlR1dQczZ6ejVMbGZjMVo5Zi0wdGdWVzFhcEg2QnJCV2FhNU5mSG1ueVJTc1NnS3BqaGJ3ZEJ2RXlRRVAtXzRZb3AtNEZpbVRBdjM4a0lRQjFpVV8xdnUwTm5fdGd5WmVwUkxFOA?oc=5",
       "source": "Google News Hindi (कूटनीति)",
@@ -562,78 +634,6 @@
           "title": "कूटनीति या अंतहीन इंतजार? ट्रंप की धमकी और ईरान के धैर्य के बीच फंसी महाडील",
           "summary": "ट्रंप की धमकी और ईरान के धैर्य के बीच महाडील फंस गई है, जिससे कूटनीति और अंतहीन इंतजार के बीच एक संतुलन बनाने की जरूरत है। इस स्थिति से निपटने के लिए वैश्विक स्तर पर प्रयास करने होंगे।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हो ची मिन्ह सिटी अंतर्राष्ट्रीय पर्यटन मेला 2026: जीवंत संबंध, वैश्विक गंतव्य",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFF4bEloa1FIajBLaHZHSW9TejBhQU1HNGMyc0wyLXZnMUJUaThPUGsxNnVycGM2Z3ZVdVdhTDBuM2x6bFprejAxX3prSVpHYzdVc09icnF0SEI5Mzd6UEtWQmFLWTNDWU11VzNXZC1IME5HSVl2RGVXVjBHM0prelBBQnlrZnBxMnJ4M1BJamVGMU5lR3FsR1Bxck1rZw?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-04-10T15:04:54+00:00",
-      "image_url": "https://images.pexels.com/photos/6940622/pexels-photo-6940622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "हो ची मिन्ह सिटी में अंतर्राष्ट्रीय पर्यटन मेला 2026 आयोजित किया गया, जिसमें जीवंत संबंध और वैश्विक गंतव्य को बढ़ावा दिया गया। इस मेले में विभिन्न देशों के प्रतिनिधियों ने भाग लिया और पर्यटन को बढ़ावा देने के लिए समझौते किए।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हो ची मिन्ह सिटी अंतर्राष्ट्रीय पर्यटन मेला 2026: जीवंत संबंध, वैश्विक गंतव्य",
-          "summary": "हो ची मिन्ह सिटी में अंतर्राष्ट्रीय पर्यटन मेला 2026 आयोजित किया गया, जिसमें जीवंत संबंध और वैश्विक गंतव्य को बढ़ावा दिया गया। इस मेले में विभिन्न देशों के प्रतिनिधियों ने भाग लिया और पर्यटन को बढ़ावा देने के लिए समझौते किए।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने होर्मुज को किया बंद, लेबनान में इस्राइली हमलों के जवाब में उठाया बड़ा कदम",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcF9IalhkTWVFYUpFbS00WVlJbGpDVXRib3hCZ2M3S3NKZEQ0MXU3TDllaUpsa1lBNXk5RG9nRlcyMmZ4Z0xRblgwakdtdGdNWi1DY3FtZHc3TDAzM29EMUZ4Tk0wQkxhd3BZR2YzUnF4S1daVDlQXzFCcjNDaUk0dloxZ1E1VnBYQU4zZ0dvMGMwM1djSnJvbGlGWkZSQ3QtWmxHUHlQSjVlZzh4Sy0tLTZkeDdfWG01anFUOElGbDRNNG16V3NodXltVlp4clhRYnhEMVhLblQ5T3hfenB2QUdNWU1TRk050gHuAUFVX3lxTE5RNFpCU2pFTzhkVlBzcXRZV0lqVlpMWk1neU1LM2RDSER6QTR1RmhkMFVWMVIxcU1sWjBZTDJPY3cwODdQWWxCSk1rdmVNcjZwdjBGQXJpNm1KRzFwTk9zcVpzYWxJb3pvWFZ4a2JkVEtseXNVYmZmVUNEX19qZjJPem9GNFBJQmJiQ2V3LUVDeUZTTnEwODczUzMwbGczUG01QWhGYW5nLVlMV1ZaWlJFX0IxRHZ3WGYtWlpETGJTd2t2N3YyQWw5MkR4SC1fNkV1QXlCUVFLSExMX0VOODVBcFlFNEZMZ3lGUjF3eGc?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-08T07:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/16033963/pexels-photo-16033963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने लेबनान में इस्राइली हमलों के जवाब में होर्मुज जलडमर्य को बंद कर दिया। यह कदम ईरान की ओर से एक बड़ा फैसला है, जिससे क्षेत्र में तनाव बढ़ सकता है। ईरान ने हमलों के जवाब में यह कदम उठाया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने होर्मुज को किया बंद, लेबनान में इस्राइली हमलों के जवाब में उठाया बड़ा कदम",
-          "summary": "ईरान ने लेबनान में इस्राइली हमलों के जवाब में होर्मुज जलडमर्य को बंद कर दिया। यह कदम ईरान की ओर से एक बड़ा फैसला है, जिससे क्षेत्र में तनाव बढ़ सकता है। ईरान ने हमलों के जवाब में यह कदम उठाया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "रूस और चीन ने होर्मुज़ स्ट्रेट पर संयुक्त राष्ट्र में बहरीन के प्रस्ताव को वीटो किया",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEYXBsMmUwaThfcnMxNUZVbnRvaThVVFRmQm5lbV8yV01MZFZFQ3Z6R3pHQUZyalBMWk9za1N1aGRFZHVQZmpvSEs5bXRsUXNIeHdkZzE0dERySlN1bXVv?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-07T13:43:08+00:00",
-      "image_url": "https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "रूस और चीन ने संयुक्त राष्ट्र में बहरीन के प्रस्ताव को वीटो कर दिया, जो होर्मुज़ स्ट्रेट पर सुरक्षा व्यवस्था पर केंद्रित था। यह प्रस्ताव बहरीन द्वारा प्रस्तुत किया गया था, लेकिन रूस और चीन ने इसका विरोध किया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस और चीन ने होर्मुज़ स्ट्रेट पर संयुक्त राष्ट्र में बहरीन के प्रस्ताव को वीटो किया",
-          "summary": "रूस और चीन ने संयुक्त राष्ट्र में बहरीन के प्रस्ताव को वीटो कर दिया, जो होर्मुज़ स्ट्रेट पर सुरक्षा व्यवस्था पर केंद्रित था। यह प्रस्ताव बहरीन द्वारा प्रस्तुत किया गया था, लेकिन रूस और चीन ने इसका विरोध किया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान में बाजार 8 बजे, रेस्टोरेंट 10 बजे बंद, शादी समारोहों पर भी पाबंदी, तेल संकट से ज...",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRDM1QjJva0VJc2VTU3VKZkk5OFlOOG1qcUFQd3lHZG9mU2ViZEFSSGF0ZXgyTjM2MzBTdEpYM3NFNUZfT2JEc2U3b3lfZ1JudS0tdXM2eXBsOUZReXNkYjQyamh6ZHdYWVpSd2dfTTVPcnZHdE9RdWJURWpFbER0RzV2RVVUcWFuTWVwVERwRkNIYl9mOTd1UTZfeTJWWExjNlFxZmVYVl9TNEc4ZWpCU3BkcFo5N3FUVE4wX2VDaTdJcjVRRS1xTTJYcU4wazYwcnFjM0lmMmdBWkRNZElTVU4tNNIB6AFBVV95cUxOWnBFWFN6V19HaUZ0ODRjQm5RdEVzMTFjeVp2cTVobFZkQVBoYlEyNkhaZVdOdXBuMkREQnUtajdyc0VzdWtzNmVDWGI0ZFJYaEZkbzFIeEtjeDI1YngwcjU3bHF3ckdGeWNnUU9XOGNVeHZVYkJyQ01LNXhkYVdtYktVdjgwUi1WOU1vWXN5RXoyQWRocGVEMXZvcHNxNF8zRkNydnE5UTI0VHl3c2ZKWHVyQWhMd0sxdmtUalBFU2hHc2lrWkN5d0ZLRzktdnpmTG1vQVVHYlcxeWdqbl9rTHFOY0g2MC1N?oc=5",
-      "source": "Google News Hindi (विश्व समाचार)",
-      "sources": [],
-      "published_at": "2026-04-07T06:09:43+00:00",
-      "image_url": "https://images.pexels.com/photos/19271685/pexels-photo-19271685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पाकिस्तान में तेल संकट के कारण बाजारों और रेस्टोरेंटों के घंटों में कटौती की गई है। बाजार अब 8 बजे और रेस्टोरेंट 10 बजे बंद हो जाएंगे, और शादी समारोहों पर भी पाबंदी लगा दी गई है। यह कदम पाकिस्तान सरकार ने उठाया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान में बाजार 8 बजे, रेस्टोरेंट 10 बजे बंद, शादी समारोहों पर भी पाबंदी, तेल संकट से ज...",
-          "summary": "पाकिस्तान में तेल संकट के कारण बाजारों और रेस्टोरेंटों के घंटों में कटौती की गई है। बाजार अब 8 बजे और रेस्टोरेंट 10 बजे बंद हो जाएंगे, और शादी समारोहों पर भी पाबंदी लगा दी गई है। यह कदम पाकिस्तान सरकार ने उठाया है।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
