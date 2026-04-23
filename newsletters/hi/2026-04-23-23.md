@@ -1,16 +1,98 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** April 24, 2026 04:30 IST
+**अपडेट:** April 24, 2026 05:20 IST
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### ['तीन करोड़ लोगों को फिर से गरीबी के गर्त में धकेलेगा ईरान युद्ध', संयुक्त राष्ट्र ने किया आगाह](https://www.amarujala.com/world/iran-war-may-push-millions-into-poverty-un-warns-2026-04-24)
+*Amar Ujala World* - Apr 24, 05:11 IST (iso: 2026-04-23T23:41:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/15/iran-israel-war_769d3f4211378cb09b7c837e1f1f81f9.jpeg?w=750&dpr=1.0 -->
+
+संयुक्त राष्ट्र ने आगाह किया है कि ईरान युद्ध तीन करोड़ लोगों को फिर से गरीबी के गर्त में धकेल देगा। यह आगाह प. एशिया संकट के मद्देनजर आया है।
+
+### [ट्रंप बोले- ईरान से जंग खत्म करने की जल्दबाजी नहीं, बातचीत जारी; परमाणु हथियार के इस्तेमाल पर क्या](https://www.amarujala.com/world/trump-say-he-won-t-be-rushed-to-end-war-as-iran-negotiations-drag-on-2026-04-24)
+*Amar Ujala World* - Apr 24, 03:08 IST (iso: 2026-04-23T21:38:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/26/radical-left-undermining-great-military-achievement-in-iran-trump_a665440752b408a5a1fd92713474750b.jpeg?w=750&dpr=1.0 -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि ईरान के साथ युद्ध समाप्त करने की कोई जल्दबाजी नहीं है और बातचीत जारी है। उन्होंने परमाणु हथियार के इस्तेमाल पर टिप्पणी नहीं की। ट्रंप की यह टिप्पणी ईरान के साथ तनाव के बीच आई है।
+
+### [पाकिस्तान में गोलीबारी की घटनाओं में पांच की मौत; दक्षिण अफ्रीका के पुलिस प्रमुख निलंबित](https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-04-24)
+*Amar Ujala World* - Apr 24, 02:14 IST (iso: 2026-04-23T20:44:34+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=750&dpr=1.0 -->
+
+पाकिस्तान में गोलीबारी की घटनाओं में पांच लोगों की मौत हो गई। दक्षिण अफ्रीका के पुलिस प्रमुख को निलंबित कर दिया गया। इन घटनाओं से क्षेत्र में सुरक्षा की स्थिति पर सवाल उठते हैं।
+
+### [गालिबाफ ने खारिज किया ट्रंप का अंदरूनी मतेभद का दावा, कहा- हम सभी 'ईरानी' और 'क्रांतिकारी' हैं](https://www.amarujala.com/live/world/west-asia-live-updates-us-iran-ceasefire-strait-of-hormuz-donald-trump-israel-lebanon-news-in-hindi-2026-04-24)
+*Amar Ujala World* - Apr 24, 01:49 IST (iso: 2026-04-23T20:19:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/02/west-asia-tensions-future-of-iran-is-bleak-but-fears-are-not-unfounded_d5690f1c9dd490ec8810e1b4bca4a5a5.jpeg?w=750&dpr=1.0 -->
+
+ईरान के संसद अध्यक्ष मोहम्मद गालिबाफ ने डोनाल्ड ट्रंप के दावे को खारिज कर दिया कि उनके बीच मतभेद हैं। गालिबाफ ने कहा कि वे सभी 'ईरानी' और 'क्रांतिकारी' हैं।
+
+### [ईरान युद्ध में चीन की 'साइलेंट डिप्लोमेसी': बिना मध्यस्थ बने कैसे निभा रहा बड़ी भूमिका? Inside Story](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkozQUJCakdXZmdnbkxxMVVHVUdjUVFRTFp5eUlJbk11cTNybV93V0pWejRtZmp5YXBuZHNndVV4LU1mQXZwUzJmVFV6Vk94TThzNnJselZIcFRtRTIyc2p6TE5kMVhyeUNzQ2wzUDJaUDR2T2w4N2VocDFJTFYtWjMxX3JwS05ORGRDXzkta04xMUNGcENIaGFHa1FRRHFfZWhmbHMyejJ4V2pwclE?oc=5)
+*Google News Hindi (कूटनीति)* - Apr 23, 19:29 IST (iso: 2026-04-23T13:59:00+00:00)
+<!-- image: https://images.pexels.com/photos/35865194/pexels-photo-35865194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+चीन ईरान युद्ध में 'साइलेंट डिप्लोमेसी' के जरिए बड़ी भूमिका निभा रहा है। चीन बिना मध्यस्थ बने ईरान और अन्य देशों के बीच संवाद कर रहा है। ईरान युद्ध में चीन की 'साइलेंट डिप्लोमेसी': बिना मध्यस्थ बने कैसे निभा रहा बड़ी भूमिका?
+
+### [ईरान पर हमले के लिए नेतन्याहू ने तीन अमेरिकी राष्ट्रपतियों को उकसाया, जॉन केरी का खुलासा](https://www.amarujala.com/world/john-kerry-reveal-netanyahu-pressure-on-us-presidents-for-iran-attack-2026-04-23)
+*Amar Ujala World* - Apr 23, 11:24 IST (iso: 2026-04-23T05:54:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/08/23/parava-amaraka-vathasha-sacava-jana-kara_7d09bf1862196081bd74143293ff926b.jpeg?w=750&dpr=1.0 -->
+
+जॉन केरी ने खुलासा किया है कि नेतन्याहू ने तीन अमेरिकी राष्ट्रपतियों को ईरान पर हमले के लिए उकसाया था। यह खुलासा ईरान पर हमले के मुद्दे पर आया है।
+
+### [संयुक्त राष्ट्र को चुभने लगी भारत-इजरायल की दोस्ती? UN की अधिकारी ने खुलेआम धमकाया!](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1A1YlpiQjlYcGh2MDNtR09zLTd5SUxtLTRvR1FKZVJTYTE5bTFlVFpSY3hNOVlVQUJ2czEyREFETGxTS2s1NGNkRDJYWXp4XzE5c0x1R0VlQUMyVDVGbkgwQnhEUGhGbHlpdFd1Y1owLXdjaGZuWGI4UnRxbmFyZTZYNktBTXFyZXZPOUc1Z0xrZEtsbjNhRW1Cdk7SAaIBQVVfeXFMUHlNV2VtelJMX3dTalFKTVM3TXhRM2xaYlpJeEFHUWxWWlJBdnRHVEoxbGJxQUlnYTdZa0ZPdmJnVlRjc0QwMDJGaG15ZkJ2RmVqR0FnT1FLcGpPVWpZdDJkeDlBTzdZR3lpajZFMWdhelNyLVozdS05UGtMMnNTM2lKYXdrbFNBNEtNeEJaR1RRNC12OGhFa3lydnpydDdzbm9R?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - Apr 22, 14:47 IST (iso: 2026-04-22T09:17:53+00:00)
+<!-- image: https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+संयुक्त राष्ट्र की एक अधिकारी ने भारत और इजरायल की बढ़ती दोस्ती पर टिप्पणी की, जिसे कुछ लोगों ने धमकी के रूप में लिया। यह टिप्पणी भारत-इजरायल संबंधों पर संयुक्त राष्ट्र के रुख को लेकर सवाल उठाती है।
+
+### [युद्ध के लिए तैयार ट्रंप, ईरान ने दी चेतावनी- एक और नरक बना देंगे](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTFqY0NBemdmWkF1bWZORDNza0FtcXp1ZGxLbnhIUWJVbWNlOGdiLTJEZmZLeXBRWmItc25GZ3RPeGRwcGhhS3hpUVNPOWUtbUQ2amxqSHZaV1FxY216UkxvMGdQOS1NaEhEMnpWNy03NmlMRWw1ZjJGeG11VXB2ZTRxR21SaGlla2E2aG9wdnVkOGxOQW9SNlpBX0liTnc3NF9zOGhTdmlBb2RJMEE?oc=5)
+*Google News Hindi (युद्ध संघर्ष)* - Apr 21, 23:53 IST (iso: 2026-04-21T18:23:00+00:00)
+<!-- image: https://images.pexels.com/photos/5483517/pexels-photo-5483517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ संभावित युद्ध की तैयारी की बात कही, जिसके जवाब में ईरान ने चेतावनी दी कि वह एक और "नर्क" बना सकता है। यह बयान अमेरिका और ईरान के बीच तनाव को बढ़ा देता है।
+
+### [वार्ता या बारूद! खत्म हो रही 'डेडलाइन', अमेरिका-ईरान के बीच का संघर्ष क्या फिर से दहकने को तैयार...?](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcXNrOVdUdXplYWViWWFPT3J6OTQwVUFiOVFKVmRINXFjZl9WZEFiWFZKd1NGRFR0bWNSbWpXam00ZFhyZVYwd292UVoxdFJtclVucjRzbGp2WXZTMG5DSEZJSTVBblMxMHRDR0NKbnRBaTA3dU1KdGNqb2YzZTBPeDFkNVZ6YjNpeGg0YVc2OXU1ZmpaOXVJMXRBSGVPR2xoMThLb0hySlpBT3A5Y09wUHIwakZmWk5kZzI2Z1hrWVd1SjIwRkM0VzVycjJ6WFZWOEZ2dHVXTGhpQQ?oc=5)
+*Google News Hindi (युद्ध संघर्ष)* - Apr 21, 21:53 IST (iso: 2026-04-21T16:23:28+00:00)
+<!-- image: https://images.pexels.com/photos/11572425/pexels-photo-11572425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+अमेरिका और ईरान के बीच संघर्ष की डेडलाइन समाप्त हो रही है, जिससे यह सवाल उठता है कि क्या दोनों देशों के बीच तनाव फिर से बढ़ेगा। यह स्थिति अमेरिका और ईरान के बीच वार्ता या सैन्य कार्रवाई की संभावना को बढ़ा देती है।
+
+### [UN दूत बोलीं-भारत ने इजराइल की मदद कर कानून तोड़ा: हथियार भेजना नियमों के खिलाफ, इससे ग्लोबल सिस्टम](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNk56dmlDWmNPbGZGdWljNkRvNm00QjR1UDBhVEFaUmRPeFRLYXJjVjBRNGlkaFBqcE1TaHpZS0tncVdiTDRFd1NZcEFXTE1NSUdzc0pPTHFpZUhJV2xod2Y4ZEpBYUtGR0JCWmJ1YWVIQUtrcDBhdExmaWY3Ti1EcnZlS2N0UUtzSmNMQU5iOTliNFN3RnlUb09NZEJVMkVxUHlObHh6WdIBrAFBVV95cUxNcHhJcjdLQm5STWJlVVNBY0Nwcm1NT24xQ3prLTV6Z2RwdVJQaF9xSm5oRkt4NVBTTWVaanNlZ0VudTVLUEJBMWl5X0RwM1V2b1BtRTE5UVBpV3lQVXFQdFdKMmVIc0ZFaWhLMzFxbE9DaGZONzAtZURkYktnMURyaVJ2Y0JtN1U2NngxZ3lwSnNOQm9xNDQtSzVXYjdUcnpFbUh3SVNEMFNiZjZf?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - Apr 21, 12:11 IST (iso: 2026-04-21T06:41:56+00:00)
+<!-- image: https://images.pexels.com/photos/15405989/pexels-photo-15405989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+UN की विशेष दूत ने कहा कि भारत ने इजराइल को हथियार भेजकर अंतरराष्ट्रीय कानून तोड़ा है. इससे वैश्विक प्रणाली कमजोर होती है. भारत के इस कदम से नियमों के खिलाफ जाकर मदद की गई है.
+
+### [खाड़ी संघर्ष से तारकोल के दाम दोगुने, हिमाचल प्रदेश में सड़क की टारिंग पर ब्रेक](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbkNlbVB6MXZHb19WS1JPLTdENDM4Mk9IUlE3QnZibkxCTHlmc19vMXFGdktXa3h4NmMtOUNTRXJUTFZtSzA3WGRodl9UZzktaVZXdlBOZkhmelJXSXZsRHoyZDZ6TmtSZzhBUEw1ZHM2aUhPb0dQWmVheHMyakZ6Y2N1c2p5aldLTzY4Rmg4Z0M4VERXYW94SmtCZWp1MDlUYTlhVmZZU3VwamRZNjR4NV9TYXU2V2NYUlFfTGNRQ2VqRlJxQmkxM01zeERVbHZiOXpYQ1I4VDZJUVN3Q3VFOU8wMUxVVXIxczNIdEZKUHlSUXIyaHBvLXN30gH_AUFVX3lxTFBBdC15RmloNDdYWV9DcnhMbGd1MGJSSWItNjJSY3I0VU1nLTMtdnJvVEhqdm1sdjJWNmk1dE5GVEg3OGp3VURNRFZybmRMT1dnM2g3TjVYU1lzU3kxOTI0MzRlVFMzaFh3Smc5RTZyRkE1WWxXV0FkeEsyYzlMVllfRzFwY24zam1lLXZvUlZINC04czRGcGxDa1c1OHAtc0c0M0xvWWlUcFV3NURnSmRid193SGFRQkVfVHRKT1dBaUUxMVNMQ2RtbzBNNFZzZXFndHVXTUppOUloRzhmazBqWDdPM3hrREpETHlXVlVkUk1kaWRKbmVLUlhfVWJpQQ?oc=5)
+*Google News Hindi (युद्ध संघर्ष)* - Apr 21, 11:24 IST (iso: 2026-04-21T05:54:22+00:00)
+<!-- image: https://images.pexels.com/photos/34923814/pexels-photo-34923814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+खाड़ी संघर्ष के कारण तारकोल के दाम दोगुने हो गए हैं. हिमाचल प्रदेश में सड़क की टारिंग पर इसका प्रभाव पड़ा है. दाम बढ़ने से सड़क निर्माण कार्यों पर ब्रेक लग गई है.
+
+### [कूटनीति या अंतहीन इंतजार? ट्रंप की धमकी और ईरान के धैर्य के बीच फंसी महाडील](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYm1iYTJDazFobDd6LVRRbnZkUERKeFpBdzZOdzhGOTR1bEJaT3ZVTnp2Q25VWkdQcHpZQkZZeDBNUk41SmI4VnVIUVRMVDlpSTgwZG4yX2ZzWmZSVF9UQ2dDRE8yY05zcUQ1cE1Zc29MbFFCV3ZqblVNYlZpdnhNLVNLbmR6Qm9kckticzFJdkxIazhDNXNZM0czdXh4cEsxcllYaGsyd21pUkstVU9ld0w0UGhRLWNyUlhUVldPTFJRQWRRRzNtd2FkQXZZc0UyYnNmZGhB0gHbAUFVX3lxTFAwTzAybW5XQXlTR1NNcDk1R3NYUEl2MF9CVjc1YUVBajBhaVlCSVplakFUQzlBN1pWWHA2c1VaYlpyMTJ2akNQazhEX0ktamloa25fbDVwSkM2a3pVbnlxdl9jUkJlWjNodFN4bWNUdldsZWVSS0dlR1dQczZ6ejVMbGZjMVo5Zi0wdGdWVzFhcEg2QnJCV2FhNU5mSG1ueVJTc1NnS3BqaGJ3ZEJ2RXlRRVAtXzRZb3AtNEZpbVRBdjM4a0lRQjFpVV8xdnUwTm5fdGd5WmVwUkxFOA?oc=5)
+*Google News Hindi (कूटनीति)* - Apr 21, 08:20 IST (iso: 2026-04-21T02:50:00+00:00)
+<!-- image: https://images.pexels.com/photos/6876381/pexels-photo-6876381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+ट्रंप की धमकी और ईरान के धैर्य के बीच महाडील फंस गई है. कूटनीति और अंतहीन इंतजार के बीच यह समझौता प्रभावित हो रहा है. दोनों पक्षों के रुख के कारण महाडील की स्थिति अनिश्चित है.
+
+### ['भारत ने इजरायल की मदद कर अंतरराष्ट्रीय कानून तोड़ा', फिलिस्तीन पर UN की विशेष दूत फ्रांसेस्का का](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWldaeUtTZ1ZpZmlCakIyOFVjQTdHTHFMWUJIQTZnT3UzZ2xpYVprc0JITDZSZmx4cWhlU2RHazl5RTVYU1FGMHlObE9hbHV5VVlZb195ZkpxQnM0bDlBNVRqdW9VRElNTlY2YWtWT1E2S2QxSUdaS1JVeV9rWTNNejN0NXdYNG15ZC1HSnhYRlljQUpIWER0VnFvWEZsb1pIREctN195RkpLM0RxTFVHbjNHZkhEOHlQUE5vVTRVcEFhVWRieFBvZjY5NHltdzJnS0dtWHVReEd1Sl9KdVEwMUU1cXRoQdIB6wFBVV95cUxQNE5YVDhjZ0h4a3VPWThJRDYtNTNOSXg1QzM0MHI5MzNvT0FVQnUxMUhpblhRY1FBQVZfZFNvVXpwUl9OU2pEOWNtRlplUWFubjFNTFVMelptY1lpV1ViZ1YxM2t4dzg0Rnk5MFJSWncyMlBFQy1ZTjdlcE1YT0pPX1dmX29FWFBJRWI3ZDBhdzRlNjZqMEw0WEZNM0MwcUJRdF9OREtycFNLQng3dkRYa3FmdmppRXItWVRZWnlBdThXU2JwTWhDZnZjNWtfU2VURWpaRi11Nkt6LWJEbHRXQjlPMWJ6d2xoY19z?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - Apr 21, 07:52 IST (iso: 2026-04-21T02:22:44+00:00)
+<!-- image: https://images.pexels.com/photos/30831931/pexels-photo-30831931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+फिलिस्तीन पर UN की विशेष दूत फ्रांसेस्का ने आरोप लगाया कि भारत ने इजरायल की मदद कर अंतरराष्ट्रीय कानून तोड़ा है. भारत के इस कदम से वैश्विक नियमों का उल्लंघन हुआ है.
 
 ---
 
 ## एशिया-प्रशांत
 
-### [आज मनाया जाएगा राष्ट्रीय पंचायती राज दिवस; बंगलूरू में फॉक्सकॉन प्लांट के शौचालय में मिला भ्रूण](https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-04-24)
-*Amar Ujala National* - Apr 24, 12:58 IST (iso: 2026-04-24T07:28:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_bc25c16d5cf7783ca896c1749fa5ceab.jpeg?w=750&dpr=1.0 -->
+### [भारत ने कहा- सुरक्षा परिषद के ढांचे में तत्काल व्यापक सुधार जरूरी, यह समय की मांग](https://www.amarujala.com/world/india-calls-for-urgent-comprehensive-reforms-in-united-nations-security-council-structure-2026-04-24)
+*Amar Ujala World* - Apr 24, 05:02 IST (iso: 2026-04-23T23:32:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/09/23/rajathata-sab-jaraja_42d707f64bc0dde29e9bf51df7a2a761.jpeg?w=750&dpr=1.0 -->
 
-भारत में राष्ट्रीय पंचायती राज दिवस आज मनाया जा रहा है। इस बीच, बंगलूरू में फॉक्सकॉन प्लांट के शौचालय में एक भ्रूण मिला है। आज मनाया जाएगा राष्ट्रीय पंचायती राज दिवस; बंगलूरू में फॉक्सकॉन प्लांट के शौचालय में मिला भ्रूण।
+भारत ने कहा है कि सुरक्षा परिषद के ढांचे में तत्काल व्यापक सुधार जरूरी है। यह समय की मांग है और भारत ने इस मुद्दे पर जोर दिया है। संयुक्त राष्ट्र: भारत ने कहा- सुरक्षा परिषद के ढांचे में तत्काल व्यापक सुधार जरूरी, यह समय की मांग।
 
 ### ['आरएसएस और भारत को लेकर अमेरिका में गलत धारणा', दत्तात्रेय होसबाले का बयान](https://www.amarujala.com/world/us-rss-india-misconceptions-dattatreya-hosabale-tatement-2026-04-24)
 *Amar Ujala World* - Apr 24, 02:18 IST (iso: 2026-04-23T20:48:07+00:00)
@@ -30,21 +112,21 @@
 
 नेपाल के 'भंसार' नियम के कारण सीमावर्ती इलाकों के भारतीय दुकानदार परेशान हैं। इस नियम के कारण भारत के बॉर्डर बाजारों में भीड़ घट गई है। नियम की सख्ती से दुकानदारों को नुकसान हो रहा है।
 
+### [भारत की फसलों पर मंडरा रहा लू का खतरा, मानसून में 'सामान्य से कम' बारिश के अनुमान के बीच UN की](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVERxOFdWdldYZ2dydEFNTEVGMThwVmRTdmlOb3VhV2Q4ZkNXUGRMdTFfSC1rWG5SMElEYTVMaFFSdXJONzlMcUJLdkRtOFo0QzNYajV6UEtmLTZfbVFzM2RaZjBwdGF5OXlfaUtYdmdzWTVUUXI1WU1DcU9mLW9hQmFVUGJHbldkVE50RFhud1Y0S1NucGh3ZHVBVEF1MHdhbkl0Zg?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - Apr 23, 09:58 IST (iso: 2026-04-23T04:28:00+00:00)
+<!-- image: https://images.pexels.com/photos/20445181/pexels-photo-20445181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+संयुक्त राष्ट्र की रिपोर्ट में कहा गया है कि भारत की फसलों पर लू का खतरा मंडरा रहा है। मानसून में 'सामान्य से कम' बारिश के अनुमान के बीच यह खतरा बढ़ गया है।
+
+### [UN ने भारत पर जताया भरोसा; फर्राटा भरेगी इकोनॉमी, 2026 में 6.4% और 2027 में 6.6% ग्रोथ का अनुमान](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFJYR3EtYXJwUS02Y0tzTDZLMkFhLXZ4YkMyT2VWLURfV180TGhQOEh5dDZSb0ZOeU9vR2VUaGhKRUlrYnNScXVlX2RnTDJwTzJQQjBrN2pBdGpMa253OXpGV3lqVUxWT2dmdlZSNVpQeUtZVkpiYlI3YWcwN3RlSjhXV1RzblFaSDdQOU9pVi05aUtmQlNqM21pZWxtMEV3eE9LVWZOWG1DQXRMMVNxMm1iZ1NjSFhTQ1E3S1hVSnBqWTVTeEhud2x6MmNEc1lpb1HSAdcBQVVfeXFMTjN1YWdRUGptSWJpY21PSjlJU21EOU1TRlF3T3EyZm1EYVFlZVZsNGRRNG1uX2lRUEE3Y3d6dzBESzBUX3FoWVRrSEhKYnRoMFo2bDNkZ05hYnpCYWNPUGkwVlN1akhVbkM4N3EwSmJ4QWhPbDNMMFBBRVl1eU5tS1BhNVVLYVpPLUFWbGlnV3J6YTJfMWg4NDltRnhoVlJWeTVtUjZRMFpLVmNPRTdhajdvRURaVzlwTUtGbERlU1RYWDJFNE9OSHNzX1g1Ym43N3lYbWM2M2c?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - Apr 21, 16:25 IST (iso: 2026-04-21T10:55:46+00:00)
+<!-- image: https://images.pexels.com/photos/11644201/pexels-photo-11644201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+संयुक्त राष्ट्र ने भारत की अर्थव्यवस्था पर भरोसा जताया है और 2026 में 6.4% और 2027 में 6.6% की विकास दर का अनुमान लगाया है। यह अनुमान भारत की आर्थिक विकास की संभावनाओं को मजबूत करता है।
+
 ---
 
 ## दुनिया
-
-### [महेश बाबू और प्रियंका चोपड़ा की 'वाराणसी' की इस तारीख को दिखेगी खास झलक, जानें कहा दिखाई जाएगी फिल्म](https://www.amarujala.com/entertainment/south-cinema/mahesh-babu-priyanka-chopra-starrer-varanasi-special-glimpse-to-be-showcased-at-comic-con-mexico-2026-2026-04-24)
-*Amar Ujala National* - Apr 24, 12:16 IST (iso: 2026-04-24T06:46:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/24/falma-varanaesa_7d3cd13590264333456846761ac75d17.jpeg?w=750&dpr=1.0 -->
-
-महेश बाबू और प्रियंका चोपड़ा की फिल्म 'वाराणसी' 2027 में रिलीज होगी। फिल्म की रिलीज से पहले निर्माताओं ने 'वाराणसी' की खास झलक दिखाने का वादा किया है। फिल्म 'वाराणसी' में मुख्य भूमिकाओं में महेश बाबू, प्रियंका चोपड़ा जोनस और पृथ्वीराज सुकुमारन हैं।
-
-### [बैंकों के साथ वित्त मंत्री की अहम बैठक, एआई से जुड़े खतरों पर सतर्क रहने का दिया निर्देश](https://www.amarujala.com/business/business-diary/sitharaman-meeting-with-banks-on-emerging-ai-threats-security-customer-data-safeguard-measures-2026-04-24)
-*Amar Ujala National* - Apr 24, 12:13 IST (iso: 2026-04-24T06:43:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/24/nirmala-sitharaman-aswhini-vaishnaw_37a24e777a416589a4cf0a0864f67b6a.jpeg?w=750&dpr=1.0 -->
-
-वित्त मंत्री ने बैंकों के साथ एक महत्वपूर्ण बैठक की और उन्हें एआई से जुड़े खतरों पर सतर्क रहने का निर्देश दिया। बैठक में ग्राहक डेटा सुरक्षा पर चर्चा हुई।
 
 ### [होर्मुज से इतर रास्तों की तलाश में तेल-गैस निर्यातक, नए मार्ग बनाने की दिशा में बढ़ रहे खाड़ी देश](https://www.amarujala.com/world/oil-and-gas-exporters-are-looking-for-new-routes-beyond-strait-of-hormuz-2026-04-24)
 *Amar Ujala World* - Apr 24, 04:16 IST (iso: 2026-04-23T22:46:56+00:00)
@@ -52,97 +134,11 @@
 
 खाड़ी देश तेल-गैस निर्यात के लिए होर्मुज जलडमरूमध्य से इतर रास्तों की तलाश कर रहे हैं। वे नए मार्ग बनाने की दिशा में काम कर रहे हैं। West Asia: होर्मुज से इतर रास्तों की तलाश में तेल-गैस निर्यातक, नए मार्ग बनाने की दिशा में बढ़ रहे खाड़ी देश।
 
-### [वकील और पूर्व सैनिक को लगाई बेवजह हथकड़ी, अदालत का आदेश- सरकार दे 50-50 हजार रुपये मुआवजा](https://www.amarujala.com/india-news/bombay-high-court-order-maharashtra-government-rs-50000-compensation-compensation-illegal-handcuffing-2026-04-24)
-*Amar Ujala National* - Apr 24, 04:14 IST (iso: 2026-04-23T22:44:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/08/16/bombay-high-court_437daccf9878f2d3568eebeb9d5c8dfe.jpeg?w=750&dpr=1.0 -->
+### [थाइवान मामलों का कार्यालय: एकीकरण ही थाइवान का एकमात्र भविष्य है](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SWkx3V2JEdno3aTBfRUFvdDVBRU5qbXpEWm9GczBPdkNOQkRkZ290bzZTSm5QUldLcG5rbVVST3hwTkNybWRvY0hobkF0dmhlYVdyUnQzYkZodFlpSjJueFFn?oc=5)
+*Google News Hindi (अंतरराष्ट्रीय संबंध)* - Apr 21, 22:40 IST (iso: 2026-04-21T17:10:31+00:00)
+<!-- image: https://images.pexels.com/photos/25310926/pexels-photo-25310926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-बंबई उच्च न्यायालय ने वकील और पूर्व सैनिक को बेवजह हथकड़ी लगाने पर महाराष्ट्र सरकार को 50-50 हजार रुपये मुआवजा देने का आदेश दिया है। वकील और पूर्व सैनिक को लगाई बेवजह हथकड़ी, अदालत का आदेश- सरकार दे 50-50 हजार रुपये मुआवजा।
-
-### [West Bengal Elections 2026 Voting: छिटपुट हिंसा के बीच बंगाल में बंपर वोटिंग, किसकी बनेगी सरकार?](https://www.amarujala.com/video/india-news/west-bengal-elections-2026-voting-bumper-voting-in-bengal-amid-sporadic-violence-who-will-form-the-governmen-2026-04-24)
-*Amar Ujala National* - Apr 24, 03:30 IST (iso: 2026-04-23T22:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/24/west-bengal-elections-2026-voting_634bc7cf66f7e529bf353beb318487cb.jpeg?w=750&dpr=1.0 -->
-
-पश्चिम बंगाल में चुनाव के दौरान छिटपुट हिंसा हुई, लेकिन मतदान की दर अधिक थी। इससे यह पता चलता है कि लोग चुनाव में कितने सक्रिय हैं। सरकार बनाने के लिए अब परिणामों की प्रतीक्षा है।
-
-### [West Bengal Elections 2026 Voting: पश्चिम बंगाल में रिकॉर्ड मतदान, TMC ने बताया अपनी जीत का फैक्टर!](https://www.amarujala.com/video/india-news/west-bengal-elections-2026-voting-record-voter-turnout-in-west-bengal-tmc-cites-its-winning-factor-2026-04-24)
-*Amar Ujala National* - Apr 24, 02:30 IST (iso: 2026-04-23T21:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/24/west-bengal-elections-2026-voting_658a0fe3d231023b766d3104450ee226.jpeg?w=750&dpr=1.0 -->
-
-पश्चिम बंगाल में रिकॉर्ड मतदान हुआ, जिसमें टीएमसी को अपनी जीत का कारक माना जा रहा है। पार्टी ने इसे अपने समर्थन का प्रदर्शन बताया है। अब परिणामों की घोषणा की प्रतीक्षा है।
-
-### [ट्रेन में डकैती की साजिश, नौ महिलाएं गिरफ्तार; RPF की सतर्कता से नाकाम हुई वारदात](https://www.amarujala.com/india-news/maharashtra-updates-mumbai-pune-sambhajinagar-and-other-cities-cm-fadnavis-crime-politics-news-in-hindi-2026-04-24)
-*Amar Ujala National* - Apr 24, 02:00 IST (iso: 2026-04-23T20:30:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=750&dpr=1.0 -->
-
-महाराष्ट्र में ट्रेन में डकैती की साजिश रची गई, लेकिन आरपीएफ की सतर्कता से यह विफल हो गई। नौ महिलाओं को गिरफ्तार किया गया। यह घटना रेलवे सुरक्षा की प्रभावशीलता को दर्शाती है।
-
-### [बंगाल में बंपर वोटिंग के बाद नितिन नवीन ने बताया 'TMC का सूर्यास्त'](https://www.amarujala.com/video/india-news/west-bengal-elections-2026-voting-after-bumper-voting-in-bengal-nitin-naveen-called-it-sunset-of-tmc-2026-04-24)
-*Amar Ujala National* - Apr 24, 01:30 IST (iso: 2026-04-23T20:00:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/24/west-bengal-elections-2026-voting_33a1257aaa7718e04ed78ab93524b155.jpeg?w=750&dpr=1.0 -->
-
-भारतीय जनता पार्टी के नेता नितिन नवीन ने पश्चिम बंगाल में उच्च मतदान के बाद दावा किया कि तृणमूल कांग्रेस का "सूर्यास्त" हो गया है। नवीन ने यह बयान चुनाव परिणामों के बाद दिया।
-
-### [क्या रेगिस्तान को हरा भरा बनाया जा सकता है?](https://www.bbc.com/hindi/articles/cly7eqnz57jo?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - Apr 23, 20:31 IST (iso: 2026-04-23T15:01:32+00:00)
-<!-- image: https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da2b/live/467e7af0-3f25-11f1-80a9-03674e4a073c.jpg -->
-
-रेगिस्तान को हरा-भरा बनाने की संभावना पर विचार किया जा रहा है। आधुनिक तकनीक में ऐसी क्षमता है, लेकिन इसके परिणामों पर विचार करना आवश्यक है। आधुनिक टेक्नोलॉजी में ऐसी क्षमता है कि वो रेगिस्तान को हरा भरा बना सकती है, लेकिन क्या हमें ऐसा करना चाहिए?
-
-### [महिला पर 'बॉन्डेज सेक्स' के तरीके से प्रेमी की हत्या का आरोप, पुलिस ने क्या बताया](https://www.bbc.com/hindi/articles/ce84l33pr22o?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - Apr 23, 19:52 IST (iso: 2026-04-23T14:22:51+00:00)
-<!-- image: https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb82/live/f671b200-3f17-11f1-bd52-e755d604ece4.jpg -->
-
-एक महिला पर अपने प्रेमी की हत्या का आरोप लगा है, जिसे उसने 'बॉन्डेज सेक्स' के तरीके से मारने का आरोप है। पुलिस ने बताया कि महिला ने अपने प्रेमी को घर बुलाया और फिर उसकी हत्या कर दी।
-
-### [मालेगांव धमाका मामले के अभियुक्तों को डिस्चार्ज किए जाने की वजह क्या रही?](https://www.bbc.com/hindi/articles/ce84l6x1rk5o?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - Apr 23, 17:10 IST (iso: 2026-04-23T11:40:24+00:00)
-<!-- image: https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00e3/live/91b57250-3f05-11f1-9424-256b7e3f7dff.jpg -->
-
-मालेगांव धमाका मामले में अभियुक्तों को डिस्चार्ज कर दिया गया, क्योंकि जांच एजेंसियों ने अलग-अलग कहानियां पेश कीं। अदालत ने कहा कि दोनों एजेंसियों की जांच में विरोधाभास था, जिसके कारण अभियुक्तों को बरी कर दिया गया।
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [ट्रंप बोले- ईरान से जंग खत्म करने की जल्दबाजी नहीं, बातचीत जारी; परमाणु हथियार के इस्तेमाल पर क्या](https://www.amarujala.com/world/trump-say-he-won-t-be-rushed-to-end-war-as-iran-negotiations-drag-on-2026-04-24)
-*Amar Ujala World* - Apr 24, 03:08 IST (iso: 2026-04-23T21:38:15+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/26/radical-left-undermining-great-military-achievement-in-iran-trump_a665440752b408a5a1fd92713474750b.jpeg?w=750&dpr=1.0 -->
-
-अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि ईरान के साथ युद्ध समाप्त करने की कोई जल्दबाजी नहीं है और बातचीत जारी है। उन्होंने परमाणु हथियार के इस्तेमाल पर टिप्पणी नहीं की। ट्रंप की यह टिप्पणी ईरान के साथ तनाव के बीच आई है।
-
-### [अल्जीरिया के तट पर नाव पलटी, 17 सोमाली प्रवासियों की दर्दनाक मौत](https://www.amarujala.com/world/somali-migrants-die-in-boat-capsize-off-algeria-2026-04-24)
-*Amar Ujala World* - Apr 24, 02:55 IST (iso: 2026-04-23T21:25:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/11/30/nigeria-boat-capsized_49432c07e2e0a755e164e9b3c8724385.jpeg?w=750&dpr=1.0 -->
-
-अल्जीरिया के तट पर एक नाव पलट गई, जिसमें 17 सोमाली प्रवासी मारे गए। यह घटना प्रवासियों की सुरक्षा के लिए चिंता का विषय है। घटना की जांच की जा रही है।
-
-### [पाकिस्तान में गोलीबारी की घटनाओं में पांच की मौत; दक्षिण अफ्रीका के पुलिस प्रमुख निलंबित](https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-04-24)
-*Amar Ujala World* - Apr 24, 02:14 IST (iso: 2026-04-23T20:44:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=750&dpr=1.0 -->
-
-पाकिस्तान में गोलीबारी की घटनाओं में पांच लोगों की मौत हो गई। दक्षिण अफ्रीका के पुलिस प्रमुख को निलंबित कर दिया गया। इन घटनाओं से क्षेत्र में सुरक्षा की स्थिति पर सवाल उठते हैं।
-
-### [गालिबाफ ने खारिज किया ट्रंप का अंदरूनी मतेभद का दावा, कहा- हम सभी 'ईरानी' और 'क्रांतिकारी' हैं](https://www.amarujala.com/live/world/west-asia-live-updates-us-iran-ceasefire-strait-of-hormuz-donald-trump-israel-lebanon-news-in-hindi-2026-04-24)
-*Amar Ujala World* - Apr 24, 01:49 IST (iso: 2026-04-23T20:19:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/02/west-asia-tensions-future-of-iran-is-bleak-but-fears-are-not-unfounded_d5690f1c9dd490ec8810e1b4bca4a5a5.jpeg?w=750&dpr=1.0 -->
-
-ईरान के संसद अध्यक्ष मोहम्मद गालिबाफ ने डोनाल्ड ट्रंप के दावे को खारिज कर दिया कि उनके बीच मतभेद हैं। गालिबाफ ने कहा कि वे सभी 'ईरानी' और 'क्रांतिकारी' हैं।
-
-### [पाकिस्तानी लोग ईरानी मुद्रा में निवेश क्यों कर रहे हैं, इसमें क्या जोखिम हैं?](https://www.bbc.com/hindi/articles/c5y9nj7v6e1o?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - Apr 23, 18:33 IST (iso: 2026-04-23T13:03:53+00:00)
-<!-- image: https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/654f/live/f6980b70-3f27-11f1-b9c3-8be9c0df6b27.jpg -->
-
-पाकिस्तानी लोग कमजोर होती ईरानी मुद्रा में निवेश कर रहे हैं। ईरान में जंग शुरू होने के बाद मुद्रा की कीमत गिर गई थी। निवेशकों को इसके जोखिमों का सामना करना पड़ सकता है।
-
----
-
-## अमेरिका
-
-### [लुइसियाना के मॉल में गोलीबारी, एक की मौत; पांच लोग घायल, कई गिरफ्तार](https://www.amarujala.com/world/louisiana-mall-mass-shooting-many-injured-active-shooter-situation-in-baton-rouge-clash-two-groups-2026-04-24)
-*Amar Ujala World* - Apr 24, 01:27 IST (iso: 2026-04-23T19:57:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/12/14/us-shooting_12ac5193f71dd65a0db49dd4713b25c4.jpeg?w=750&dpr=1.0 -->
-
-लुइसियाना के एक मॉल में गोलीबारी हुई, जिसमें एक व्यक्ति की मौत हो गई और पांच लोग घायल हो गए। कई लोगों को गिरफ्तार किया गया है। घटना में दो समूहों के बीच भिड़ंत हुई थी।
+थाइवान मामलों के कार्यालय ने कहा कि थाइवान का एकमात्र भविष्य चीन के साथ एकीकरण है। यह बयान थाइवान के भविष्य को लेकर चीन के रुख को स्पष्ट करता है।
 
 ---
 
