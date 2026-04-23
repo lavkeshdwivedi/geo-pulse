@@ -1,81 +1,212 @@
 {
-  "generated_at": "2026-04-23T07:58:35.950566+00:00",
+  "generated_at": "2026-04-23T09:49:52.980339+00:00",
   "article_count": 42,
-  "total_unique_count": 254,
+  "total_unique_count": 255,
   "digest": {
-    "en": "The US Navy chief is leaving his post effective immediately. The Pentagon made the announcement as tensions rise in the Middle East. US President Donald Trump says there is no timeframe for ending the conflict in the region.",
-    "hi": "ईरान और अमेरिकी तनाव के बीच कंडोम की कीमतें बढ़ सकती हैं। ईरान में कंडोम की कमी और महंगाई की खबरें हैं। अमेरिकी नाकेबंदी के कारण ईरान की अर्थव्यवस्था पर दबाव बढ़ रहा है।"
+    "en": "Geopolitics dictate terms in currency markets with EUR/USD falling for a third day. Anxiety in oil markets spikes with reported ship seizures. The US orders citizens to flee Lebanon as a fragile ceasefire ends and airport roads are blocked.",
+    "hi": "नेपाल के नए नियम से सीमावर्ती इलाक़ों के भारतीय दुकानदार परेशान हैं। इस नियम के तहत, नेपाल में भारतीय दुकानों को बंद करना होगा। अमेरिकी सांसदों ने पहलगाम हमले की बरसी पर पाकिस्तान से लश्कर-जैश पर कार्रवाई की मांग की।"
   },
   "articles": [
     {
-      "title": "Clearing Hormuz Strait mines could take six months: Report",
-      "url": "https://www.channelnewsasia.com/world/clearing-hormuz-strait-mines-could-take-six-months-6075816",
+      "title": "EUR/USD Falls for 3rd Day as Geopolitics and Strong US Dollar Dictate Terms",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFJ0dUtFdVFOMEoyc0E5bDJPdVpVVTNZQ1M0dGlIZzVXcmJZS0MtMGhRTnVDck1oZHVFMFc3NG91d3BHa01JekRsZlhXMDNfUnVvRXM4S2ZvQWNQblZ6bTF4YnlpbDFiaWpPUTM4RllrY3RCbFZmMVJSN1FGc3pWdXpCWm5kOTNnRm5LNkw4WDVIV28wYVpGbDRfblROUW56UTZvdjdyR3V0Skd6RUNrdkg2bFVxTkRYR1Nr?oc=5",
+      "source": "Google News (geopolitics)",
+      "sources": [],
+      "published_at": "2026-04-23T09:35:24+00:00",
+      "image_url": "https://images.pexels.com/photos/8193975/pexels-photo-8193975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The EUR/USD fell for a third day due to geopolitics and a strong US dollar. The currency pair has been volatile in recent weeks, with investors seeking safe-haven assets amid global uncertainty.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Reported Ship Seizures Add to Anxiety in Oil Markets",
+      "url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-23T09:35:19+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/23/multimedia/23israel-iran-promo-hjvq/23israel-iran-promo-hjvq-mediumSquareAt3X.jpg",
+      "summary": "Oil prices hovered above $100 a barrel as reported ship seizures added to market anxiety. The White House said President Trump does not view Iran's reported seizures as a cease-fire violation.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Lebanon to seek ceasefire extension in U.S.-hosted talks with Israel",
+      "url": "https://www.thehindu.com/news/international/lebanon-to-seek-ceasefire-extension-in-us-hosted-talks-with-israel/article70896691.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-23T09:32:18+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/4n484t/article70896783.ece/alternates/LANDSCAPE_1200/2026-04-23T091526Z_116299770_RC2XUKAC4YMF_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-JOURNALIST.JPG",
+      "summary": "Lebanon will seek a ceasefire extension in US-hosted talks with Israel. The current ceasefire has yielded a significant reduction in violence, but attacks continue in southern Lebanon. The U. S.-mediated ceasefire has yielded a significant reduction in violence, but attacks have continued in southern Lebanon, where Israeli troops have seized a self-declared buffer zone.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US orders citizens to flee Lebanon as fragile ceasefire ends, airport roads blocked",
+      "url": "https://indianexpress.com/article/world/us-state-dept-citizens-leave-lebanon-ceasefire-israel-10651705/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-04-23T09:18:27+00:00",
+      "image_url": "https://images.indianexpress.com/2026/04/Lebanon_Israel_Iran_War_747_1-c6576.jpg",
+      "summary": "The US ordered citizens to flee Lebanon as a fragile ceasefire ended and airport roads were blocked. The move came amid ongoing violence in the region. US orders citizens to flee Lebanon as fragile ceasefire ends, airport roads blocked.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "After U.S. Aid Fell by 99%, E.U. Pledges $106 Billion Loan to Ukraine",
+      "url": "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-23T09:14:22+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/22/multimedia/22int-ukraine-loan-1-vkwm/22int-ukraine-loan-1-vkwm-mediumSquareAt3X.jpg",
+      "summary": "The E. U. pledged a $106 billion loan to Ukraine after US aid fell by 99%. The loan is heavily weighted toward military spending, reflecting a view that the war is far from over.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Rodrigo Duterte to face ICC trial after judges confirm charges",
+      "url": "https://www.thehindu.com/news/international/rodrigo-duterte-to-face-icc-trial-after-judges-confirm-charges/article70896718.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-23T09:11:25+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/7b5x5c/article70896732.ece/alternates/LANDSCAPE_1200/2026-04-22T105637Z_1379278237_RC2AUKABX6PH_RTRMADP_3_WARCRIMES-PHILIPPINES-DUTERTE-REAX.JPG",
+      "summary": "Rodrigo Duterte will face ICC trial after judges confirmed charges against him. Pre-trial judges “unanimously confirmed all the charges against Rodrigo Roa Duterte and committed him to trial,” the ICC said in a statement.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Navy Secretary Axed. And $17 Billion Trump-Class Warship?",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-news-us-navy-secretary-john-phelan-fired-pete-hegseth-pentagon-purge-17-billion-dollar-trump-class-battleship-golden-fleet-hormuz-blockade-11397672#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-23T09:09:27+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/bpqq1rf_us-navy-donald-trump-class-battleship-john-phelan-sacking-ai-image_625x300_23_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "US Navy Secretary John Phelan was sacked amid disputes over Trump-class warships. US Navy Secretary John Phelan was sacked Wednesday reoportedly amid disputes with Defence Secretary Pete Hegseth over the expensive new Trump-class warships; Hegseth reportedly favours mass-produced uncrewed ships to boost numbers.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "The Generals Who Are Now Running Iran",
+      "url": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-23T09:03:07+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/23/multimedia/23int-iran-leaders-1-bmth/23int-iran-leaders-1-bmth-mediumSquareAt3X.jpg",
+      "summary": "The Revolutionary Guards gained power in Iran after Ayatollah Ali Khamenei's death. The killing of Ayatollah Ali Khamenei ushered in a new form of collective leadership in the country, with more power for the Revolutionary Guards.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Will Bulgaria’s New Leader Cast His Lot With Europe or Russia?",
+      "url": "https://www.nytimes.com/2026/04/23/world/europe/bulgaria-radev-election-russia-europe.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-23T09:01:52+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/23/multimedia/23int-Bulgaria-russia-vfgc/23int-Bulgaria-russia-vfgc-mediumSquareAt3X.jpg",
+      "summary": "Rumen Radev won elections in Bulgaria with a record of pro-Russia statements. With a record of pro-Russia statements, Rumen Radev handily won elections this week. Now Bulgarians and his E. U.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran Shows Off Its Ballistic Missile At Tehran Rally Amid US Ceasefire",
+      "url": "https://www.ndtv.com/world-news/us-iran-news-iran-shows-off-its-ballistic-missile-at-tehran-rally-amid-us-ceasefire-video-11397707#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-23T09:01:43+00:00",
+      "image_url": "https://c.ndtvimg.com/hf0l5si_iran-missiles-reuters_625x300_03_September_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Iran showcased its Qadr ballistic missile at a Tehran rally amid a US ceasefire. The Qadr is an upgraded version of the older Shahab-3A missile. Iran Shows Off Its Ballistic Missile At Tehran Rally Amid US Ceasefire.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How TikTok is driving American expats to Southeast Asia",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5763809/tiktok-moving-vietnam-thailand-american-expats",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-23T09:00:00+00:00",
+      "image_url": "https://images.pexels.com/photos/36229753/pexels-photo-36229753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Americans are moving to Vietnam and Thailand for lower costs and stress. Americans who moved to Vietnam and Thailand say their lives are now lower-stress and lower-cost. But glamorous videos on TikTok don't tell the whole story.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UN leadership hopefuls stress need for peace and restoring confidence",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW5KcnVKbllnVVB0QVBDdWFfcnBKQXV5cE5ST2t2d2szWWswb05JUDdzdTF1aFhRWmsxRnpPXy1Ba2M4d0RFcGthLTBQd2Z6LVFlRlBNRFZJUTZLM3U0NUE2QUZoa0hxOFYtaUFqTnR3MFNhNElXcUJtb05rd3MzVmJuaVczNzlBLVVWVHZBcnVsdFpoMjFIRVRJa2FYTEFNLVNnM0diMnlOeHhHT0JfX2l3?oc=5",
+      "source": "Google News (United Nations)",
+      "sources": [],
+      "published_at": "2026-04-23T08:57:45+00:00",
+      "image_url": "https://images.pexels.com/photos/8554297/pexels-photo-8554297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "UN leadership hopefuls stressed the need for peace and restoring confidence. UN leadership hopefuls stress need for peace and restoring confidence France 24.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "India's state elections test Modi alliance as Tamil Nadu, West Bengal voting begins",
+      "url": "https://www.channelnewsasia.com/asia/india-state-elections-tamil-nadu-west-bengal-assam-kerala-puducherry-modi-6075826",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-04-23T07:47:27+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--GuNUVgOC--/c_crop,h_449,w_799,x_1,y_47/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-23T053622Z_2_LYNXMPEM3M06L_RTROPTP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG?itok=00NO4j_g",
-      "summary": "A report estimates that clearing mines from the Hormuz Strait could take six months. The strait is a crucial waterway for global oil shipments. Mines were recently discovered in the area.",
-      "region": "World",
+      "published_at": "2026-04-23T08:48:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--x21MApX8--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/17/tvk_rally_with_vijay_-_reuters.jpg?itok=lQi5jA0X",
+      "summary": "Voting began in Tamil Nadu and West Bengal to test Modi's alliance. The contests are closely watched as a gauge of public sentiment towards the ruling coalition led by Prime Minister Narendra Modi.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Trump says there is ‘no timeframe’ for ending conflict",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjhEMGt0a1dTY1VUNU9zZjNjUEl2M0ItWjNfb01HNnJDNGdGZ1RDS1Z3QnlOSHp1Uzd3Y29aS1JhMjNaUmFaTm83MTkzNXJQQXBjQ28wUkhWYnlJeXVMZWxIa3NYV2JULWtzRmRQN2pxc0lKdlVTcmJxY1lXZVhINTNxQTdsVUpaUXpaU2k5SWNaSkZyaVpfcWVvV3YtcjNJTEw4dWxZZ2FSS0FGRWVGdGU1VWtOLWpYc1JHUVlXNmI?oc=5",
+      "title": "Candidates vying for U.N. secretary-general role face questions",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5786581/candidates-vying-for-u-n-secretary-general-role-face-questions",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-23T08:45:51+00:00",
+      "image_url": "https://images.pexels.com/photos/5652121/pexels-photo-5652121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Four candidates are vying to replace UN Secretary-General Antonio Guterres this year. Who will replace U. N. Secretary-General Antonio Guterres when he steps down this year? Four candidates field questions from member states this week at U. N.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Putin's approval rating falls amid state-imposed internet restrictions",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5793960/putins-approval-rating-falls-amid-state-imposed-internet-restrictions",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-23T08:45:47+00:00",
+      "image_url": "https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Putin's approval rating is falling due to Russia's internet restrictions. In Russia, expanding state restrictions on the Internet are frustrating daily life for millions. and sending President Putin's approval ratings on a rare downward spiral.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "After being held up for months, Ukraine set to get $100B loan from EU",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5795803/after-being-held-up-for-months-ukraine-set-to-get-100b-loan-from-eu",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-23T08:44:33+00:00",
+      "image_url": "https://images.pexels.com/photos/11834883/pexels-photo-11834883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Ukraine will receive a $100 billion loan from the European Union after months of delay. Taking advantage of the electoral defeat of Hungary's Viktor Orban, European Union countries have moved to approve a $100 billion loan to Ukraine.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran seizes container ships in Strait of Hormuz after Trump extends ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHk4cmNOZXphaTNvb0xNZmF5YmtMc0tEcWN4OGZkUko5NThfcmVLbGRaV0pnVWRyQnhXUmlPTG1YeEdkMk9SRVc3M2ZpU3hlMzVWb0c2cW9IUEZKQVJyZUltOWtabC1tS3VWUW1pRm9ONGF6VVZQd0J4anI5aGxLNl9tai1YYTl2UTlnZ2VENXZNQTBXMUc3RjdXZw?oc=5",
       "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-04-23T07:47:11+00:00",
-      "image_url": "https://images.pexels.com/photos/6457089/pexels-photo-6457089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "US President Trump stated that there is no timeframe for ending the conflict with Iran. The comment comes amid ongoing tensions between the two nations. Diplomatic efforts have been underway to ease tensions.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran says won’t reopen Hormuz if US upholds naval blockade",
-      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-23T07:41:18+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/glx9rr/article70896332.ece/alternates/LANDSCAPE_1200/2026-04-22T102740Z_371511109_RC2AUKARZ0LT_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
-      "summary": "Iran warned it won't reopen the Hormuz Strait if the US upholds a naval blockade. The strait is a vital route for oil exports. Iran made the statement after attacks on ships in the strait.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran says won't reopen Hormuz if U.S. upholds naval blockade",
-      "url": "https://www.thehindu.com/news/international/iran-says-wont-reopen-hormuz-if-us-upholds-naval-blockade/article70896406.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-23T07:37:33+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/f5kuie/article70896440.ece/alternates/LANDSCAPE_1200/Iran_War_4_724.jpg",
-      "summary": "Iran said it won't reopen the Hormuz Strait if the US maintains a naval blockade. Tensions remain high around the trade route. The US and Iran have been exerting economic pressure on each other.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What’s happening on day 55 after Trump extended ceasefire?",
-      "url": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [
-        {
-          "url": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss",
-          "source": "Al Jazeera"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGlMRFoweE9lM0dxbE9SbVpiYmxGeUZ6c2xKSkZZc3lmS1hVblQ1WlpfT2M1dmV1c0FlTFA4dnpUd1FaNld2ODlUdWZqeGNWbmFfTTdJall3QjQwcEp0SG8tWEMyYmIyQXhXM3A3dUU1OHVVb2VGb280UmxpVFF4YXRIWldJcVN6cTB4Y09sd0h5LWhNV0lBVDEtcUVJX01iU2FEVjBqUk1NUdIBrwFBVV95cUxNNUJPMVE3WTNNMk5CMW81RHRha0ZGWkk4LWhrN1FEQTZJZFBmallBOTJwSzdKVmNlUVV6SkRGcjFIMDVvUVdtd1YzaW5QZzMySXZlQTg4YWU5QW1RSFh3Y0dKdzJ3Tm1xMzdtTlBEVzRxRXVxVllhWFBFcG5LVjVKdXZjSF9pdXY2OUNyWkpiSS1iZDVHVWxFX1BBUF9feHBVbVhWQ2ZCaHJnMVpuZElN?oc=5",
-          "source": "Google News (war ceasefire)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGlMRFoweE9lM0dxbE9SbVpiYmxGeUZ6c2xKSkZZc3lmS1hVblQ1WlpfT2M1dmV1c0FlTFA4dnpUd1FaNld2ODlUdWZqeGNWbmFfTTdJall3QjQwcEp0SG8tWEMyYmIyQXhXM3A3dUU1OHVVb2VGb280UmxpVFF4YXRIWldJcVN6cTB4Y09sd0h5LWhNV0lBVDEtcUVJX01iU2FEVjBqUk1NUdIBrwFBVV95cUxNNUJPMVE3WTNNMk5CMW81RHRha0ZGWkk4LWhrN1FEQTZJZFBmallBOTJwSzdKVmNlUVV6SkRGcjFIMDVvUVdtd1YzaW5QZzMySXZlQTg4YWU5QW1RSFh3Y0dKdzJ3Tm1xMzdtTlBEVzRxRXVxVllhWFBFcG5LVjVKdXZjSF9pdXY2OUNyWkpiSS1iZDVHVWxFX1BBUF9feHBVbVhWQ2ZCaHJnMVpuZElN?oc=5",
-          "source": "Google News (war ceasefire)"
-        }
-      ],
-      "published_at": "2026-04-23T07:34:46+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-22T170744Z_2059533872_RC2FUKA6ZQ9L_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1776913334.jpg?resize=1920%2C1440",
-      "summary": "On day 55 of a ceasefire, Iran expressed a desire for talks with the US. However, Iran cited US breaches of commitments, a blockade, and threats as reasons for stalled negotiations. The two nations have been engaged in a tense standoff.",
+      "published_at": "2026-04-23T08:44:21+00:00",
+      "image_url": "https://images.pexels.com/photos/12204177/pexels-photo-12204177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iran seized container ships in the Strait of Hormuz. Iran seizes container ships in Strait of Hormuz after Trump extends ceasefire CBC.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -85,7 +216,7 @@
       "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sources": [],
-      "published_at": "2026-04-23T07:34:43+00:00",
+      "published_at": "2026-04-23T08:37:14+00:00",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f488/live/9ec92710-3e98-11f1-a4f7-2909a7c81847.jpg",
       "summary": "US Navy Secretary John Phelan is leaving his post. The Pentagon said it is effective immediately. US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
       "region": "Americas",
@@ -93,235 +224,55 @@
       "translations": {}
     },
     {
-      "title": "Rajasthan’s Jadeja pleased with middle order's response under pressure",
-      "url": "https://www.channelnewsasia.com/sport/rajasthans-jadeja-pleased-middle-orders-response-under-pressure-6075686",
-      "source": "Channel News Asia",
+      "title": "Indigenous land defenders are being killed, AI is scraping their knowledge",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckpLMi02Z21mVFdwanJYQmtQZFl5LU1ESFNzMTViN3FJWDA3SHFZNWFTeU1YTnR3TGhvQjRKVmpYRUNvakZFUC1zNEs0VnZ5Z0doRGVKcWxHWlJmZFBhVTVlNjZ3Mm81cUpkd1puNUtvRnVFNW8zTng3RjB4NGI1X1JhOFl5eDJuODJ4SjB4dWoybVdUZXI3a1o3RE9VWkY3MTRlZVNR?oc=5",
+      "source": "Google News (United Nations)",
       "sources": [],
-      "published_at": "2026-04-23T06:31:23+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--1N585DeP--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-23T063123Z_1_LYNXMPEM3M0AN_RTROPTP_3_CRICKET-IPL-LSG-RR.JPG?itok=C9hWkB4Q",
-      "summary": "Rajasthan's middle order showed resilience under pressure, according to Jadeja. The team's performance was satisfactory, with players stepping up in critical situations. Rajasthan’s Jadeja pleased with middle order's response under pressure.",
+      "published_at": "2026-04-23T08:01:09+00:00",
+      "image_url": "https://images.pexels.com/photos/36884525/pexels-photo-36884525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Indigenous land defenders are being killed and their knowledge is being scraped by AI. Indigenous land defenders are being killed, AI is scraping their knowledge grist. org.",
       "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Donald Trump’s ‘Naughty and Nice’ NATO List Sparks Fresh Alliance Tensions",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2pkSzVVZ2xXcm9lSXhmNmxUVkkzQUJBTy1CUERpbGYwT19LUm4zTk5nc2ZEMkdrZGQyZjlfX0J1VXVsSGxHcmQ1dWktY0kxd2FCWWNQMi15aGZ1X3l0ZVE0MFViSWpjWl9WVVhsTDk4Z3FhaERCSU15Y0ZFMEhlZ1hhWFNCTU1kWFVSVW03ZnpkSFBNc005VGxqQjg1U3BadTVZRVBsN0E?oc=5",
-      "source": "Google News (NATO conflict)",
+      "title": "FairPrice widens price freeze to over 300 essentials until May 31",
+      "url": "https://www.channelnewsasia.com/singapore/fairprice-supermarket-price-freeze-daily-essentials-chas-6075636",
+      "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-04-23T06:20:36+00:00",
-      "image_url": "https://images.pexels.com/photos/6260611/pexels-photo-6260611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Donald Trump's 'Naughty and Nice' NATO list has sparked fresh tensions within the alliance. The list reportedly categorized member countries based on their defense spending. Donald Trump’s ‘Naughty and Nice’ NATO List Sparks Fresh Alliance Tensions Open Magazine.",
-      "region": "Europe & Russia",
+      "published_at": "2026-04-23T08:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--z1RtQalS--/c_crop,h_896,w_1594,x_5,y_99/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2023/05/08/jav_9950.jpg?itok=NglnTHhk",
+      "summary": "FairPrice Group froze prices on over 300 essentials until May 31. FairPrice Group first froze prices on 100 everyday essentials earlier this month. FairPrice widens price freeze to over 300 essentials until May 31.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Trump administration flies 10-year-old back from Cuba amid custody fight",
-      "url": "https://www.npr.org/2026/04/23/g-s1-118427/trump-administration-child-cuba",
-      "source": "NPR World",
+      "title": "Iran tightens control of Hormuz after US calls off renewed attacks",
+      "url": "https://www.channelnewsasia.com/world/iran-seizes-ships-strait-hormuz-us-israel-war-6075821",
+      "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-04-23T06:19:19+00:00",
-      "image_url": "https://images.pexels.com/photos/31513071/pexels-photo-31513071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The US Department of Justice flew a 10-year-old from Utah back from Cuba amid a custody dispute. The child's parents are involved in a legal fight over the child's care.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Will Strait Of Hormuz Open This Year? What Report Said",
-      "url": "https://www.ndtv.com/world-news/us-iran-ceasefire-news-will-strait-of-hormuz-open-this-year-what-report-said-11396757#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-23T06:10:22+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/hp95m0dg_strait-of-hormuz_625x300_21_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "A recent report suggested Iran may struggle to open the Strait of Hormuz this year. The report claimed Iran had difficulty locating mines laid in the waterway. A recent report claimed Iran was unable to find the mines it laid in the Hormuz.",
+      "published_at": "2026-04-23T07:43:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--hdFl8Bb8--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/23/iran_seize_ships.jpg?itok=85j7-1Gl",
+      "summary": "Iran tightened control of the Strait of Hormuz after the US called off renewed attacks. Iran has not said publicly that it agreed to the US' ceasefire extension and has criticised the maintenance of an American blockade on its sea trade.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Two trains collide injuring several",
-      "url": "https://www.dw.com/en/denmark-two-trains-collide-injuring-several/a-76904246?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-04-23T05:56:00+00:00",
-      "image_url": "https://static.dw.com/image/76904637_6.jpg",
-      "summary": "Two trains collided in Denmark, injuring several people. The incident occurred recently, with emergency services responding to the scene to treat the injured. Two trains have crashed into each other in Denmark, leaving several people injured, according to media reports.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "FBI Investigated Reporter Who Wrote Article About Kash Patel's Girlfriend",
-      "url": "https://www.ndtv.com/world-news/fbi-investigated-nyt-reporter-elizabeth-williamson-who-wrote-article-about-kash-patels-girlfriend-alexis-wilkins-11396843#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-23T05:53:49+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-01/cocgqkro_kash-patel-alexis-wilkins_625x300_20_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The FBI interviewed Kash Patel's girlfriend, Alexis Wilkins, as part of an investigation. The agency did not disclose the nature of the inquiry or whether Wilkins was a target of the probe.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Two Pakistanis to be China’s first foreign astronauts: reports",
-      "url": "https://www.thehindu.com/sci-tech/science/two-pakistanis-to-be-chinas-first-foreign-astronauts-reports/article70895753.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-23T05:53:43+00:00",
-      "image_url": "https://th-i.thgim.com/public/sci-tech/science/ko8kba/article70895739.ece/alternates/LANDSCAPE_1200/7e14a60b-e0f6-4b41-a7ac-775d824d69ef.jpeg",
-      "summary": "Pakistanis will be China's first foreign astronauts, according to reports. This development reverses regional optics, with a Pakistani astronaut set to orbit before an Indian one. A Pakistani astronaut in orbit ahead of an Indian one as part of the ‘Gaganyaan’ mission is at minimum a reversal of the usual regional optics.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Donald Trump should lift the blockade",
-      "url": "https://www.thehindu.com/videos/watch-donald-trump-should-lift-the-blockade-the-hindu-editorial/article70895995.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-23T05:37:26+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/7932ns/article70895994.ece/alternates/LANDSCAPE_1200/editorial%20-%20trump%20blockade.png",
-      "summary": "Donald Trump is urged to lift a blockade in exchange for Iran easing restrictions on the Strait of Hormuz. Tehran should also step back from maximalist positions for sanctions relief and security guarantees.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘Ceasefire continues, so does economic pressure on Iran’, says White House press secretary",
-      "url": "https://indianexpress.com/article/world/trump-iran-ceasefire-no-deadline-us-pressure-press-secretary-karoline-leavitt-10651196/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-04-23T05:14:54+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/Press-Secretary-Karoline-Leavitt.jpg",
-      "summary": "The White House press secretary said Iran's economic pressure continues despite the ceasefire, with no indication of a time frame for ending the war. The US maintains economic pressure on Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Democrats up in Virginia, but US voters may pay price for redistricting war",
-      "url": "https://www.aljazeera.com/news/2026/4/23/democrats-up-in-virginia-but-us-voters-may-pay-price-for-redistricting-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-23T05:09:34+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69e90ef0de2c-1776881392.jpg?resize=1920%2C1440",
-      "summary": "Congressional redistricting in the US has led to a surge in gerrymandering, experts warn. The unprecedented flurry of tit-for-tat redrawing of electoral maps risks significant electoral consequences. Experts say unprecedented flurry of tit-for-tat congressional redistricting risks surge in gerrymandering.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Pakistan should clamp down on terror groups like LeT, JeM: U.S. lawmaker",
-      "url": "https://www.thehindu.com/news/international/pakistan-should-clamp-down-on-terror-groups-like-let-jem-us-lawmaker/article70895710.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-23T05:05:15+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/utkpp3/article70895720.ece/alternates/LANDSCAPE_1200/2025-05-21T160919Z_1247020816_RC2FMEA3I0TV_RTRMADP_3_USA-DIPLOMACY-RUBIO.JPG",
-      "summary": "U. S. Congressman Brad Sherman called on Pakistan to crack down on terror groups like LeT and JeM. Sherman remembered the victims of the Pahalgam attack on its first anniversary. The U. S.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran seizes Gujarat-bound container ship in Strait of Hormuz; chilling video shows armed soldiers",
-      "url": "https://indianexpress.com/article/world/video-shows-armed-soldiers-boarding-containers-in-the-strait-of-hormuz-10651349/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-04-23T05:02:17+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/armed-ship.jpg",
-      "summary": "Iran seized a container ship bound for Gujarat in the Strait of Hormuz. Armed soldiers were seen in a video, heightening tensions in the region. Iran seizes Gujarat-bound container ship in Strait of Hormuz; chilling video shows armed soldiers.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran Mocks Trump's Ceasefire Extension With AI Video",
-      "url": "https://www.ndtv.com/world-news/us-iran-ceasefire-shut-up-iran-mocks-trumps-ceasefire-extension-with-ai-video-11396234#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-23T04:38:18+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/cu3r5qlc_trump_625x300_23_April_26.jpeg",
-      "summary": "Iran created an AI video mocking US President Trump, showing him agree to extend a ceasefire. The video ends with AI Trump saying he'll extend the ceasefire. Iran Mocks Trump's Ceasefire Extension With AI Video.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israel accused of war crimes after 'targeted' killing of journalist",
-      "url": "https://news.sky.com/story/israel-accused-of-war-crimes-after-targeted-killing-of-journalist-13535269",
-      "source": "Sky News World",
-      "sources": [],
-      "published_at": "2026-04-23T04:29:00+00:00",
-      "image_url": "https://e3.365dm.com/26/04/1920x1080/skynews-amal-khali-al-akhbar_7227871.jpg?20260423065858",
-      "summary": "Israel faced accusations of war crimes after killing a journalist in southern Lebanon. The reporter was targeted in a strike, sparking concerns about Israel's actions. Israel has again been accused of targeting journalists after the death of a reporter working in southern Lebanon.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-04-23T04:25:30+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1474/live/4d6990d0-3eb6-11f1-bd52-e755d604ece4.jpg",
-      "summary": "Lebanon's prime minister accused Israel of war crimes after an air strike killed a journalist. Israel's actions also hindered rescuers from reaching the site. Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "ईरान जंग के कारण महंगे हो सकते हैं कंडोम",
-      "url": "https://www.bbc.com/hindi/articles/ckgxk4nw3l2o?at_medium=RSS&at_campaign=rss",
+      "title": "नेपाल के इस नियम से क्यों परेशान हैं सीमावर्ती इलाक़ों के भारतीय दुकानदार",
+      "url": "https://www.bbc.com/hindi/articles/cx26z2y4j95o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-23T07:47:27+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a427/live/e56a8160-3ed3-11f1-9ec0-ab4b6ea2534c.jpg",
-      "summary": "ईरान जंग के कारण कंडोम की कीमतें बढ़ सकती हैं। कंडोम बनाने वाली सबसे बड़ी कंपनी के सीईओ ने बताया कि मांग 30% बढ़ी है, लेकिन जंग के कारण उत्पादन प्रभावित हो सकता है। इससे कीमतें बढ़ सकती हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान जंग के कारण महंगे हो सकते हैं कंडोम",
-          "summary": "ईरान जंग के कारण कंडोम की कीमतें बढ़ सकती हैं। कंडोम बनाने वाली सबसे बड़ी कंपनी के सीईओ ने बताया कि मांग 30% बढ़ी है, लेकिन जंग के कारण उत्पादन प्रभावित हो सकता है। इससे कीमतें बढ़ सकती हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'भारत के साथ व्यापारिक मुद्दों पर सहमति बनाना आसान नहीं', व्यापार समझौते पर बोले अमेरिकी प्रतिनिधि",
-      "url": "https://www.amarujala.com/world/it-is-not-easy-to-reach-an-agreement-on-trade-issues-with-india-says-us-representative-on-trade-deal-2026-04-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-23T07:04:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/11/india-has-already-started-winding-down-purchases-of-russian-energy-products-ustr_2909e57b8939792ce226872dd71ab80e.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी प्रतिनिधि ने कहा कि भारत के साथ व्यापारिक मुद्दों पर सहमति बनाना आसान नहीं है। वे व्यापार समझौते पर बात कर रहे हैं, लेकिन अभी तक कोई agreement नहीं हुआ है।",
+      "published_at": "2026-04-23T09:41:23+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/537d/live/7e497b80-3e65-11f1-98c6-738b5ff2738a.jpg",
+      "summary": "नेपाल की बालेन शाह सरकार ने भारत से सौ रुपए से ज़्यादा की वस्तुओं पर कस्टम ड्यूटी सख्ती से लागू किया, जिससे सीमावर्ती इलाक़ों के भारतीय दुकानदारों के कारोबार पर असर पड़ा. इससे उनके दैनिक कारोबार में कमी आई है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'भारत के साथ व्यापारिक मुद्दों पर सहमति बनाना आसान नहीं', व्यापार समझौते पर बोले अमेरिकी प्रतिनिधि",
-          "summary": "अमेरिकी प्रतिनिधि ने कहा कि भारत के साथ व्यापारिक मुद्दों पर सहमति बनाना आसान नहीं है। वे व्यापार समझौते पर बात कर रहे हैं, लेकिन अभी तक कोई agreement नहीं हुआ है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान के इस क्रिकेटर पर लगा टी-20 वर्ल्ड कप के दौरान ड्रग्स लेने का आरोप",
-      "url": "https://www.bbc.com/hindi/articles/c3exl58ydwno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-23T05:49:47+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6c7/live/7b3154b0-3ed6-11f1-9ec0-ab4b6ea2534c.jpg",
-      "summary": "पाकिस्तान के एक क्रिकेटर पर टी-20 वर्ल्ड कप के दौरान ड्रग्स लेने का आरोप लगा है। पाकिस्तान क्रिकेट बोर्ड ने पुष्टि की कि क्रिकेटर की ड्रग्स रिपोर्ट पॉज़िटिव आई है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान के इस क्रिकेटर पर लगा टी-20 वर्ल्ड कप के दौरान ड्रग्स लेने का आरोप",
-          "summary": "पाकिस्तान के एक क्रिकेटर पर टी-20 वर्ल्ड कप के दौरान ड्रग्स लेने का आरोप लगा है। पाकिस्तान क्रिकेट बोर्ड ने पुष्टि की कि क्रिकेटर की ड्रग्स रिपोर्ट पॉज़िटिव आई है।",
+          "title": "नेपाल के इस नियम से क्यों परेशान हैं सीमावर्ती इलाक़ों के भारतीय दुकानदार",
+          "summary": "नेपाल की बालेन शाह सरकार ने भारत से सौ रुपए से ज़्यादा की वस्तुओं पर कस्टम ड्यूटी सख्ती से लागू किया, जिससे सीमावर्ती इलाक़ों के भारतीय दुकानदारों के कारोबार पर असर पड़ा. इससे उनके दैनिक कारोबार में कमी आई है.",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -345,6 +296,24 @@
       }
     },
     {
+      "title": "तेज़ रफ़्तार दौड़ती और बेक़ाबू AI पर लगाम कसने की सख़्त ज़रूरत",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xMTMwTERkTkU0UEJ4bEhTVFpxd1lJWGxWWE1URnlOYU5fMENvUkxpTkVqRHh1QnZGc0I0dTRjM2NXMTFtdFpyY1FSRF9zYzlsUW1CdDBFRQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-23T04:10:00+00:00",
+      "image_url": "https://images.pexels.com/photos/16626103/pexels-photo-16626103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने तेज़ रफ़्तार और बेक़ाबू आर्टिफ़िशियल इंटेलिजेंस पर लगाम कसने की आवश्यकता पर ज़ोर दिया. यह तकनीक कई क्षेत्रों में बड़े बदलाव ला रही है, लेकिन इसके दुरुपयोग की संभावना भी है.",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेज़ रफ़्तार दौड़ती और बेक़ाबू AI पर लगाम कसने की सख़्त ज़रूरत",
+          "summary": "संयुक्त राष्ट्र ने तेज़ रफ़्तार और बेक़ाबू आर्टिफ़िशियल इंटेलिजेंस पर लगाम कसने की आवश्यकता पर ज़ोर दिया. यह तकनीक कई क्षेत्रों में बड़े बदलाव ला रही है, लेकिन इसके दुरुपयोग की संभावना भी है.",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
       "title": "अमेरिकी नाकेबंदी से ईरान पर कसा शिकंजा, US आर्मी बोली- अब तक 31 जहाज लौटे वापस",
       "url": "https://www.amarujala.com/world/us-centcom-31-ships-turned-back-us-during-blockade-of-iran-in-strait-of-hormuz-west-asia-crisis-2026-04-23",
       "source": "Amar Ujala World",
@@ -363,74 +332,110 @@
       }
     },
     {
-      "title": "ईरान से तनाव के बीच अमेरिकी नौसेना सचिव जॉन फेलन ने अचानक छोड़ा पद, हंग काओ बने कार्यवाहक सचिव",
-      "url": "https://www.amarujala.com/world/amidst-tensions-with-iran-us-navy-secretary-john-fallen-abruptly-steps-down-hung-cao-becomes-new-secretary-2026-04-23",
-      "source": "Amar Ujala World",
+      "title": "ईरान के पास जितना संवर्धित यूरेनियम है क्या उससे परमाणु बम बन जाएगा?",
+      "url": "https://www.bbc.com/hindi/articles/clyr0nmg25go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-23T02:27:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/06/amaraka-jhada_8da73c0fa6c80fcf3ee41d8a21ca8909.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी नौसेना सचिव जॉन फेलन ने अचानक पद छोड़ दिया, जिसके बाद हंग काओ कार्यवाहक सचिव बने। यह फैसला ईरान से तनाव के बीच लिया गया। ईरान से तनाव के बीच अमेरिकी नौसेना सचिव जॉन फेलन ने अचानक छोड़ा पद, हंग काओ बने कार्यवाहक सचिव।",
+      "published_at": "2026-04-23T01:49:04+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d97/live/9dffd9f0-3da3-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "ईरान के पास संवर्धित यूरेनियम की मात्रा बढ़ रही है, जिससे परमाणु बम बनाने की संभावना के बारे में चिंता बढ़ी है. यूरेनियम के संवर्धन और इसके उपयोग के बीच अंतर समझना महत्वपूर्ण है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान से तनाव के बीच अमेरिकी नौसेना सचिव जॉन फेलन ने अचानक छोड़ा पद, हंग काओ बने कार्यवाहक सचिव",
-          "summary": "अमेरिकी नौसेना सचिव जॉन फेलन ने अचानक पद छोड़ दिया, जिसके बाद हंग काओ कार्यवाहक सचिव बने। यह फैसला ईरान से तनाव के बीच लिया गया। ईरान से तनाव के बीच अमेरिकी नौसेना सचिव जॉन फेलन ने अचानक छोड़ा पद, हंग काओ बने कार्यवाहक सचिव।",
+          "title": "ईरान के पास जितना संवर्धित यूरेनियम है क्या उससे परमाणु बम बन जाएगा?",
+          "summary": "ईरान के पास संवर्धित यूरेनियम की मात्रा बढ़ रही है, जिससे परमाणु बम बनाने की संभावना के बारे में चिंता बढ़ी है. यूरेनियम के संवर्धन और इसके उपयोग के बीच अंतर समझना महत्वपूर्ण है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "'ट्रंप जब चाहेंगे तब खत्म होगा युद्ध, 3-5 दिन की डेडलाइन की खबरें गलत', पश्चिम एशिया संघर्ष पर",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYUtsSl82N3R3QmgxWkxxUVFITTIyNFVuWnE2YjBCSDQwbnZpRFJNQ2p6bEktaXdWZHNWc0M4ZEM5U2tUaHcwNzYyS0xfZk9UaW9KNVFXRWJ5ek1RcGNFTXJJd1pKcGNGazZWZE5yV01JMEs2V3h4bXFUQzFsYWt2OUFBVEJCLVlwU2RBb2M2ZFNCS2V0QWs1MFFBdUFUUFVjMmN1WTJmRUdSa1BQbGc1OVFiZzFrN1VKV2RjcG9nQ3lXTnNJQy1QY0FTNUNoU0NVLWk4UDQzeEFmS1hoWGZSTG5B0gHnAUFVX3lxTE5SMllzWVBiQmswUXpjNXFmMXdfZ2JDb1lhVFVxNkpPREhaMjQ1ZFFjMXVoTDBOOXJVdG9jOEFxcjhnaTZDR1VzQmg3YWhNbVJmS1RhQVlESksxVm1YYWo4dlVOY2Y1NnE1c2JmWWNZRDR5SGg1S1o4T1R3dW51bXIxSTloX0NXazZsRUliNVp3LVZZRUZtLVp2SDluV2ZBTGQtY2cyT3Q5RHBPTVc2SGwtNVBQUEdlUnM1a1U4OGxRTDJ5dlJNUGpUTnE0Z2k0NDJXRHZnd2hYc2tBMGxQcklaOXhFMkJycw?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "title": "भीषण गर्मी ने तोड़ा कृषि चक्र, 100 करोड़ लोगों पर संकट; संयुक्त राष्ट्र ने चेताया",
+      "url": "https://www.amarujala.com/world/earth-heating-extreme-heat-disrupts-agriculture-1-billion-people-at-risk-un-warns-2026-04-23",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-22T23:25:19+00:00",
-      "image_url": "https://images.pexels.com/photos/30917943/pexels-photo-30917943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "व्हाइट हाउस ने पश्चिम एशिया संघर्ष पर बयान जारी किया है। बयान में कहा गया है कि युद्ध की समय-सीमा के बारे में खबरें गलत हैं। अमेरिकी राष्ट्रपति ट्रम्प जब चाहेंगे तब युद्ध को खत्म कर सकते हैं।",
-      "region": "Americas",
+      "published_at": "2026-04-22T23:15:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/23/heatwave_54d60be223e7a9e7eb43adf7f524d64a.jpeg?w=750&dpr=1.0",
+      "summary": "संयुक्त राष्ट्र ने चेताया है कि भीषण गर्मी ने कृषि चक्र को तोड़ दिया है, जिससे 100 करोड़ लोगों पर खाद्य संकट का खतरा बढ़ गया है. यह समस्या वैश्विक स्तर पर खाद्य सुरक्षा को प्रभावित कर सकती है.",
+      "region": "Global / Multilateral",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'ट्रंप जब चाहेंगे तब खत्म होगा युद्ध, 3-5 दिन की डेडलाइन की खबरें गलत', पश्चिम एशिया संघर्ष पर",
-          "summary": "व्हाइट हाउस ने पश्चिम एशिया संघर्ष पर बयान जारी किया है। बयान में कहा गया है कि युद्ध की समय-सीमा के बारे में खबरें गलत हैं। अमेरिकी राष्ट्रपति ट्रम्प जब चाहेंगे तब युद्ध को खत्म कर सकते हैं।",
-          "region": "अमेरिका"
+          "title": "भीषण गर्मी ने तोड़ा कृषि चक्र, 100 करोड़ लोगों पर संकट; संयुक्त राष्ट्र ने चेताया",
+          "summary": "संयुक्त राष्ट्र ने चेताया है कि भीषण गर्मी ने कृषि चक्र को तोड़ दिया है, जिससे 100 करोड़ लोगों पर खाद्य संकट का खतरा बढ़ गया है. यह समस्या वैश्विक स्तर पर खाद्य सुरक्षा को प्रभावित कर सकती है.",
+          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     },
     {
-      "title": "फारस की खाड़ी-होर्मुज में तेल रिसाव का खतरा; उपग्रह तस्वीरों में लावान द्वीप से कुवैत तट तक असर दिखा",
-      "url": "https://www.amarujala.com/world/persian-gulf-strait-of-hormuz-oil-spill-risk-satellite-images-lavan-island-kuwait-coast-2026-04-23",
+      "title": "20 हजार उड़ानों में कटौती करेगा लुफ्थांसा समूह, ईंधन संकट की चिंता बढ़ी",
+      "url": "https://www.amarujala.com/world/airline-company-lufthansa-cuts-20-000-flights-as-war-squeezes-fuel-prices-supplies-2026-04-23",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-22T23:18:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/23/strait-of-hormuz-open-to-friendly-nations-irans-envoy-to-sri-lanka_7fe4c421fea086a9500f92778445a538.jpeg?w=750&dpr=1.0",
-      "summary": "फारस की खाड़ी में होर्मुज जलडमरूमध्य में तेल रिसाव का खतरा है। उपग्रह तस्वीरों में लावान द्वीप से कुवैत तट तक इसका असर देखा गया है। यह जानकारी एक रिपोर्ट में दी गई है।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-04-22T22:41:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/08/28/flight-airline-check-in-new_6c55083ced07ea1ea82cb017b70e44e1.jpeg?w=750&dpr=1.0",
+      "summary": "लुफ्थांसा समूह ने पश्चिम एशिया में तनाव के कारण 20 हजार उड़ानों में कटौती करने का फैसला किया है. इससे ईंधन संकट की चिंता बढ़ गई है और यात्रियों पर इसका असर पड़ेगा.",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "फारस की खाड़ी-होर्मुज में तेल रिसाव का खतरा; उपग्रह तस्वीरों में लावान द्वीप से कुवैत तट तक असर दिखा",
-          "summary": "फारस की खाड़ी में होर्मुज जलडमरूमध्य में तेल रिसाव का खतरा है। उपग्रह तस्वीरों में लावान द्वीप से कुवैत तट तक इसका असर देखा गया है। यह जानकारी एक रिपोर्ट में दी गई है।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "20 हजार उड़ानों में कटौती करेगा लुफ्थांसा समूह, ईंधन संकट की चिंता बढ़ी",
+          "summary": "लुफ्थांसा समूह ने पश्चिम एशिया में तनाव के कारण 20 हजार उड़ानों में कटौती करने का फैसला किया है. इससे ईंधन संकट की चिंता बढ़ गई है और यात्रियों पर इसका असर पड़ेगा.",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "ट्रंप बोले- समझदारी से समझौता नहीं किया जा सकता; युद्धविराम की समय-सीमा पर व्हाइट हाउस ने क्या कहा?",
-      "url": "https://www.amarujala.com/world/us-donald-trump-sanity-common-sense-white-house-on-ceasefire-timeline-2026-04-23",
-      "source": "Amar Ujala World",
+      "title": "हवा में फाइटर जेट की हुई भीषण टक्कर, अंदर पायलट कर रहे थे ये काम, जांच में चौंकाने वाला खुलासा",
+      "url": "https://www.amarujala.com/photo-gallery/bizarre-news/south-korean-fighter-jets-collided-mid-air-while-pilots-captured-images-2026-04-23",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-22T21:25:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/08/donald-trump_2ced2e50881ee8e1c9689ae4b5fe3aa2.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति ट्रम्प ने कहा है कि समझदारी से समझौता नहीं किया जा सकता। व्हाइट हाउस ने युद्धविराम की समय-सीमा पर बयान जारी किया है। ट्रम्प की टिप्पणियों और व्हाइट हाउस के बयान के पीछे के कारणों पर चर्चा की जा रही है।",
-      "region": "Americas",
+      "published_at": "2026-04-22T21:41:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/23/south-korean-fighter-jets-collided-mid-air-while-pilots-captured-images_947949f426849b18888c34495d6a4c2f.jpeg?w=750&dpr=1.0",
+      "summary": "दक्षिण कोरिया में दो F-15 लड़ाकू विमानों की आपस में टक्कर हो गई। पायलट अपनी यादगार पलों को कैमरे में कैद करने में व्यस्त थे। इस घटना की जांच में चौंकाने वाले खुलासे हुए हैं।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ट्रंप बोले- समझदारी से समझौता नहीं किया जा सकता; युद्धविराम की समय-सीमा पर व्हाइट हाउस ने क्या कहा?",
-          "summary": "अमेरिकी राष्ट्रपति ट्रम्प ने कहा है कि समझदारी से समझौता नहीं किया जा सकता। व्हाइट हाउस ने युद्धविराम की समय-सीमा पर बयान जारी किया है। ट्रम्प की टिप्पणियों और व्हाइट हाउस के बयान के पीछे के कारणों पर चर्चा की जा रही है।",
-          "region": "अमेरिका"
+          "title": "हवा में फाइटर जेट की हुई भीषण टक्कर, अंदर पायलट कर रहे थे ये काम, जांच में चौंकाने वाला खुलासा",
+          "summary": "दक्षिण कोरिया में दो F-15 लड़ाकू विमानों की आपस में टक्कर हो गई। पायलट अपनी यादगार पलों को कैमरे में कैद करने में व्यस्त थे। इस घटना की जांच में चौंकाने वाले खुलासे हुए हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप ने इमिग्रेशन को लेकर शेयर किया पोस्ट तो कैसे बढ़ा विवाद, भारत-चीन का जिक्र क्यों? समझिए पूरा",
+      "url": "https://www.amarujala.com/world/us-donald-trump-shares-controversial-post-on-immigration-debate-over-birthright-citizenship-intensifies-again-2026-04-23",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-22T21:25:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/18/danalda-tarapa-amaraka-rashhatarapata_3b87d42c4495124a15b2c782381e79ca.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने इमिग्रेशन को लेकर एक पोस्ट शेयर किया, जिससे विवाद बढ़ गया। इस पोस्ट में भारत और चीन का जिक्र था। US: ट्रंप ने इमिग्रेशन को लेकर शेयर किया पोस्ट तो कैसे बढ़ा विवाद, भारत-चीन का जिक्र क्यों?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप ने इमिग्रेशन को लेकर शेयर किया पोस्ट तो कैसे बढ़ा विवाद, भारत-चीन का जिक्र क्यों? समझिए पूरा",
+          "summary": "अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने इमिग्रेशन को लेकर एक पोस्ट शेयर किया, जिससे विवाद बढ़ गया। इस पोस्ट में भारत और चीन का जिक्र था। US: ट्रंप ने इमिग्रेशन को लेकर शेयर किया पोस्ट तो कैसे बढ़ा विवाद, भारत-चीन का जिक्र क्यों?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "तनाव दूर करने के लिए करें इन मंत्रों का जाप, आत्मविश्वासी से लेकर बनेंगे धैर्यवान",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/wellness/stress-relief-mantra-for-daily-life-know-mindful-mantras-of-relief-2026-04-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-22T21:17:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/23/stress-relief-mantra_08f5652ac2d2f4276047061f6a91f47b.jpeg?w=750&dpr=1.0",
+      "summary": "तनाव कम करने के लिए कुछ मंत्रों का जाप करना लाभकारी हो सकता है। इन मंत्रों से आत्मविश्वास और सकारात्मकता बढ़ती है। Stress Relief Mantra: अपने तनाव को कम करने के लिए नियमित रूप से इन मंत्रों का जाप करना लाभकारी हो सकता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तनाव दूर करने के लिए करें इन मंत्रों का जाप, आत्मविश्वासी से लेकर बनेंगे धैर्यवान",
+          "summary": "तनाव कम करने के लिए कुछ मंत्रों का जाप करना लाभकारी हो सकता है। इन मंत्रों से आत्मविश्वास और सकारात्मकता बढ़ती है। Stress Relief Mantra: अपने तनाव को कम करने के लिए नियमित रूप से इन मंत्रों का जाप करना लाभकारी हो सकता है।",
+          "region": "दुनिया"
         }
       }
     },
@@ -453,6 +458,24 @@
       }
     },
     {
+      "title": "सऊदी अरब में क्रिकेट स्टेडियम पाकिस्तान के लिए कितना अहम?",
+      "url": "https://www.bbc.com/hindi/articles/c5yv41nmnr4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-22T15:39:20+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/472a/live/32494b10-3e61-11f1-8887-e93160959470.jpg",
+      "summary": "पाकिस्तान क्रिकेट बोर्ड सऊदी अरब के शहर जेद्दा में अंतरराष्ट्रीय स्तर का क्रिकेट स्टेडियम बनाएगा। यह स्टेडियम पाकिस्तान के लिए अहम होगा। सऊदी अरब में क्रिकेट स्टेडियम पाकिस्तान के लिए कितना अहम?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी अरब में क्रिकेट स्टेडियम पाकिस्तान के लिए कितना अहम?",
+          "summary": "पाकिस्तान क्रिकेट बोर्ड सऊदी अरब के शहर जेद्दा में अंतरराष्ट्रीय स्तर का क्रिकेट स्टेडियम बनाएगा। यह स्टेडियम पाकिस्तान के लिए अहम होगा। सऊदी अरब में क्रिकेट स्टेडियम पाकिस्तान के लिए कितना अहम?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "अमेरिका की ओर से युद्धविराम बढ़ाने पर अरब मीडिया में क्या कहा जा रहा है?",
       "url": "https://www.bbc.com/hindi/articles/cm29qmvv8y9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -466,24 +489,6 @@
         "hi": {
           "title": "अमेरिका की ओर से युद्धविराम बढ़ाने पर अरब मीडिया में क्या कहा जा रहा है?",
           "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ युद्धविराम को आगे बढ़ा दिया है। अरब मीडिया में इस पर विभिन्न प्रतिक्रियाएं आ रही हैं, लेकिन विस्तृत जानकारी नहीं है। इस पर अरब जगत का मीडिया क्या कह रहा है?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने तीन मालवाहक जहाज़ों पर हमले के बाद दो को ज़ब्त किया",
-      "url": "https://www.bbc.com/hindi/articles/c4gxjz7l033o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-22T11:04:42+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b01/live/97d12be0-3e36-11f1-b55d-0f258dce1735.jpg",
-      "summary": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने बुधवार को तीन कार्गो जहाजों पर हमला किया और दो को ज़ब्त कर लिया. यह घटना ईरान जंग को लेकर ट्रंप की ओर से युद्धविराम को बढ़ाये जाने के बाद हुई.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने तीन मालवाहक जहाज़ों पर हमले के बाद दो को ज़ब्त किया",
-          "summary": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने बुधवार को तीन कार्गो जहाजों पर हमला किया और दो को ज़ब्त कर लिया. यह घटना ईरान जंग को लेकर ट्रंप की ओर से युद्धविराम को बढ़ाये जाने के बाद हुई.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -615,38 +620,20 @@
       }
     },
     {
-      "title": "कूटनीति या अंतहीन इंतजार? ट्रंप की धमकी और ईरान के धैर्य के बीच फंसी महाडील",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYm1iYTJDazFobDd6LVRRbnZkUERKeFpBdzZOdzhGOTR1bEJaT3ZVTnp2Q25VWkdQcHpZQkZZeDBNUk41SmI4VnVIUVRMVDlpSTgwZG4yX2ZzWmZSVF9UQ2dDRE8yY05zcUQ1cE1Zc29MbFFCV3ZqblVNYlZpdnhNLVNLbmR6Qm9kckticzFJdkxIazhDNXNZM0czdXh4cEsxcllYaGsyd21pUkstVU9ld0w0UGhRLWNyUlhUVldPTFJRQWRRRzNtd2FkQXZZc0UyYnNmZGhB0gHbAUFVX3lxTFAwTzAybW5XQXlTR1NNcDk1R3NYUEl2MF9CVjc1YUVBajBhaVlCSVplakFUQzlBN1pWWHA2c1VaYlpyMTJ2akNQazhEX0ktamloa25fbDVwSkM2a3pVbnlxdl9jUkJlWjNodFN4bWNUdldsZWVSS0dlR1dQczZ6ejVMbGZjMVo5Zi0wdGdWVzFhcEg2QnJCV2FhNU5mSG1ueVJTc1NnS3BqaGJ3ZEJ2RXlRRVAtXzRZb3AtNEZpbVRBdjM4a0lRQjFpVV8xdnUwTm5fdGd5WmVwUkxFOA?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
+      "title": "भारत की अर्थव्यवस्था के इस वर्ष 6.4 प्रतिशत की दर से बढ़ने का अनुमान: संयुक्त राष्ट्र",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkpFbmItYkdBeFFVeDFFMTlHNkdHUnc4N3NCaU9hbmtGdFBBQnFGM2g4a2VyRXdfZ3dtSVlFYVpCd3VMcjNHQkR4SzVlTVNnZldRMEdvRmgzTm5fbVUzdG01Q0xGVjZjQ0lqbzRXTjVvdGRYSlVpempRRXNRZFJfajhLRWdjdmhRSEpRVzhscnFjWUVSbERUX3NHbmh3VXFKM3RIcGhWbTAzbXl2ZXJwRy1yY1g2cmRBZzJtZERqVdIBxAFBVV95cUxPbUwzSTNFTk9adFd4OWZqbk9iYXNjNWNJUzhaSHJaRGpNSmZrM2VYbTY0ZkFfNWJrNG1abmNOc1FhTU5mVXNnMTZFMXNoeDhIaFNKdUhlQkd2RWwzRVM3UXdJQ21CZGtIUXM1OG9kazRZWFp6QXhFbmJmWlRaS2FXcG43SUo3OUFzZjNvdW13Y2V4MWc4NXVVUWN0c0FRNXhSdWo2X2pYb1BIX0VrV3h6QUJaNDViTEhCTjZRSTktbnRMSUNH?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-04-21T02:50:00+00:00",
-      "image_url": "https://images.pexels.com/photos/6876381/pexels-photo-6876381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी राष्ट्रपति ट्रंप की धमकी और ईरान के धैर्य के बीच महाडील फंस गई है। दोनों पक्षों के बीच कूटनीतिक प्रयास जारी हैं। कूटनीति या अंतहीन इंतजार? ट्रंप की धमकी और ईरान के धैर्य के बीच फंसी महाडील AajTak।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-04-21T05:18:24+00:00",
+      "image_url": "https://images.pexels.com/photos/14907378/pexels-photo-14907378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने अनुमान लगाया है कि भारत की अर्थव्यवस्था इस वर्ष 6.4 प्रतिशत की दर से बढ़ेगी। भारत की अर्थव्यवस्था के इस वर्ष 6.4 प्रतिशत की दर से बढ़ने का अनुमान: संयुक्त राष्ट्र ThePrint Hindi।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कूटनीति या अंतहीन इंतजार? ट्रंप की धमकी और ईरान के धैर्य के बीच फंसी महाडील",
-          "summary": "अमेरिकी राष्ट्रपति ट्रंप की धमकी और ईरान के धैर्य के बीच महाडील फंस गई है। दोनों पक्षों के बीच कूटनीतिक प्रयास जारी हैं। कूटनीति या अंतहीन इंतजार? ट्रंप की धमकी और ईरान के धैर्य के बीच फंसी महाडील AajTak।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका ने कूटनीति के साथ धोखा क‍िया, तेहरान सोच-समझकर करेगा फैसला इस्माइल बघाई",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmhRcXN2UnVzTHJvVl83dzZOTEMydEhjZXZuaDU1WU1xTjZtUWxaZ2RVVGJnbVRreGRsMFluNUlidS1OWU5RdkFlTG96Si10QTBCSjhKYVBHWTlNRERrdkd3RTVPbWJ6X3h3dzhzUkRiNGVvaHRleGdHQXg5TElXWDJWckdwSmJ4Q21oeE9VWGhmYTlrY01uX2t4UFR2aUN5NldSdnBoLVlkcGcxSkRvVGZmWGlLNTVUTkpn?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-20T13:55:35+00:00",
-      "image_url": "https://images.pexels.com/photos/36212636/pexels-photo-36212636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान के एक अधिकारी इस्माइल बघाई ने कहा कि अमेरिका ने कूटनीति के साथ धोखा किया है। तेहरान अब सोच-समझकर फैसला करेगा। अमेरिका ने कूटनीति के साथ धोखा क‍िया, तेहरान सोच-समझकर करेगा फैसला इस्माइल बघाई bhaskarhindi. com।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका ने कूटनीति के साथ धोखा क‍िया, तेहरान सोच-समझकर करेगा फैसला इस्माइल बघाई",
-          "summary": "ईरान के एक अधिकारी इस्माइल बघाई ने कहा कि अमेरिका ने कूटनीति के साथ धोखा किया है। तेहरान अब सोच-समझकर फैसला करेगा। अमेरिका ने कूटनीति के साथ धोखा क‍िया, तेहरान सोच-समझकर करेगा फैसला इस्माइल बघाई bhaskarhindi. com।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "भारत की अर्थव्यवस्था के इस वर्ष 6.4 प्रतिशत की दर से बढ़ने का अनुमान: संयुक्त राष्ट्र",
+          "summary": "संयुक्त राष्ट्र ने अनुमान लगाया है कि भारत की अर्थव्यवस्था इस वर्ष 6.4 प्रतिशत की दर से बढ़ेगी। भारत की अर्थव्यवस्था के इस वर्ष 6.4 प्रतिशत की दर से बढ़ने का अनुमान: संयुक्त राष्ट्र ThePrint Hindi।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
