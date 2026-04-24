@@ -1,56 +1,275 @@
 {
-  "generated_at": "2026-04-24T10:25:12.276997+00:00",
+  "generated_at": "2026-04-24T12:00:41.574285+00:00",
   "article_count": 42,
-  "total_unique_count": 254,
+  "total_unique_count": 251,
   "digest": {
-    "en": "Iranian Foreign Minister is speaking with global leaders. He talked to Pakistan's military chief and Iraqi Kurdistan's President. Meanwhile, US President Trump is under pressure on Iran, saying he won't rush into a deal and claiming time isn't on Tehran's side.",
-    "hi": "होर्मुज़ स्ट्रेट में समुद्री बारूदी सुरंगें एक बड़ा खतरा हैं। इन्हें हटाना मुश्किल काम है। चीन की एक विशेष जेल में लोग वज़न कम करने के लिए आते हैं।"
+    "en": "The US is considering suspending Spain from NATO. This follows reports that Spain has not been backing the US's stance on Iran. A decision on the potential suspension is pending.",
+    "hi": "विदेश मंत्री जयशंकर ने संयुक्त राष्ट्र में शांति स्थापना के लिए यूएन चार्टर का जिक्र किया। उन्होंने दुनिया के सामने अपनी बात रखी। \nअमेरिकी वॉर कॉलेज के हॉल ऑफ फेम में भारतीय सेना प्रमुख को शामिल किया गया। \nयह सम्मान पाने वाले वे तीसरे व्यक्ति हैं।"
   },
   "articles": [
     {
-      "title": "Iran FM speaks to Pakistan military chief, Iraqi Kurdistan President",
-      "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-24T09:57:57+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/p5khqq/article70901182.ece/alternates/LANDSCAPE_1200/Iran_War_731_.jpg",
-      "summary": "French President Macron stated that West Asia's stability is in everyone's interest. Israel struck a Hezbollah missile launcher after Trump announced a three-week extension of the Israel-Lebanon ceasefire. Israel says it struck a Hezbollah missile launcher soon after Trump said the Israel-Lebanon ceasefire had been extended by three weeks.",
+      "title": "Trump Says Lebanon Cease-Fire Is Extended by 3 Weeks",
+      "url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz",
+      "source": "NYT World",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz",
+          "source": "NYT World"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XRU5GRThDaG03aFJWMURDYmN2dklmYjJwQThkdnRFTkVkMlBjUS1JcXlKNVgzcF9TZ3FQZUl5Y2VoM2hQeVN5alFBRjAzY3YweE1BWTVjTUZWUmV1U1NnQjl2MHJaT3pLTGRvRm9MSlY4emhEYkE?oc=5",
+          "source": "Google News (war ceasefire)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XRU5GRThDaG03aFJWMURDYmN2dklmYjJwQThkdnRFTkVkMlBjUS1JcXlKNVgzcF9TZ3FQZUl5Y2VoM2hQeVN5alFBRjAzY3YweE1BWTVjTUZWUmV1U1NnQjl2MHJaT3pLTGRvRm9MSlY4emhEYkE?oc=5",
+          "source": "Google News (war ceasefire)"
+        }
+      ],
+      "published_at": "2026-04-24T11:50:23+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/24/multimedia/24israel-iran-promo-gqmp/24israel-iran-promo-gqmp-mediumSquareAt3X.jpg",
+      "summary": "The Israeli military extended its truce with Lebanon by three weeks, despite striking Hezbollah targets on Friday. The cease-fire aims to end the war in Iran. The Israeli military said it had struck Hezbollah targets on Friday, but its truce with Lebanon appeared to be holding.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Germany’s Merz says climate policy essential for global security, prosperity",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMVZ6d01EUzdyQzBHN2k0dVg3UkRLMWVMemlHa09Ma0lIblRERUtqeFZZUGZBXzBZM2dKdzVXeFJteE1jT3I2NnhIaDZ6Z2lCeEUtQUF0Q1dYaWhHVXcxTnJweEpKb2FOeHhuc1VZaDdfWmxGeGFXUFVyaEgyUjVRNjBwTWtpRlcxWFd2MTNMOEZ0eTlmRGdSWk1nZ1JtSlNzUkdCc25rT1ZvRXRLWDI1WmI5c2p5SzAwQ1NzbEVMcHhlS2tDTUZfWG1wZEl4dw?oc=5",
-      "source": "Google News (global security)",
+      "title": "Iran's top diplomat is expected to travel to Pakistan by this weekend for talks about a ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUS3ctMW42dXY5MUNfclRCUWU1Ty1KLU9lQ282ZUU1VGN4M2NsMS0zdWloYkJLU0Y4TDRJTFhKZThDMjNjbzJEQUtFem9VZW1oQzRfM2dXT1VMQVYxX1V0ZGR0bEY4LTQ?oc=5",
+      "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-04-24T09:37:05+00:00",
-      "image_url": "https://images.pexels.com/photos/28691843/pexels-photo-28691843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "German opposition leader Friedrich Merz stated that climate policy is crucial for global security and prosperity. He emphasized the need for effective climate action. Merz's comments highlight the intersection of environmental and geopolitical concerns.",
+      "published_at": "2026-04-24T11:48:00+00:00",
+      "image_url": "https://images.pexels.com/photos/4427557/pexels-photo-4427557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The talks come amid ongoing tensions between Iran and the US. Live updates: Iran's top diplomat is expected to travel to Pakistan by this weekend for talks about a ceasefire with the US AP News.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Indonesian U.N. Peacekeeper Dies Weeks After Blast in Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZEkxYTJ4NEpUbzU5R3h5ZF8zbkN2c1pHTFI3VFFld0VCMkV1RVQyWGtGMmd5aVd6djlvTVMtR0RYRUI1Mnh3RmZHVmkxc0F1OXBxRU9iMnY0Tkw4cjBDcE5OYzUwb2xVWXJGcUlVdEtLcVhKLWg0YTh0bW51eE9nVkpUc3A0UzFLMUphRkVIZ1dzcWpaN3dwenY0Wkg3bWdQTnNuMndYZjhYSmJLbkVQRXNkSGstb0QwTHJtcUhKcU1McEp1T1lsc1l2ZURzdThwaWF0SXJ1MU1rUQ?oc=5",
+      "source": "Google News (United Nations)",
+      "sources": [],
+      "published_at": "2026-04-24T11:33:38+00:00",
+      "image_url": "https://images.pexels.com/photos/35988917/pexels-photo-35988917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "An Indonesian U. N. peacekeeper died weeks after a blast in Lebanon. The peacekeeper was serving with the U. N. Interim Force in Lebanon at the time of the incident. Peacekeeper Dies Weeks After Blast in Lebanon WSJ.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How long can Iran survive the US’s Hormuz blockade?",
+      "url": "https://www.aljazeera.com/news/2026/4/24/how-long-can-iran-survive-the-uss-hormuz-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-24T11:26:11+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260301__99GA2WE__v1__HighRes__OmanIranUsIsraelConflict-1773376045.jpg?resize=1920%2C1440",
+      "summary": "Iran is facing a US blockade of the Strait of Hormuz, which could severely impact its oil exports. The blockade has raised concerns about Iran's economic stability. And just how long can the US hold out?",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ranieri leaves advisory role at Roma following fallout with Gasperini",
+      "url": "https://www.channelnewsasia.com/sport/ranieri-leaves-advisory-role-roma-following-fallout-gasperini-6079001",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-24T11:23:57+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--edb88RCv--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-24T112357Z_1_LYNXMPEM3N0NF_RTROPTP_3_SOCCER-ITALY-INT-ROM-REPORT.JPG?itok=U0-r6_li",
+      "summary": "Claudio Ranieri has left his advisory role at Roma following a public disagreement with coach Jose Mourinho's assistant, Cristian Stellini, is not mentioned but the actual reason is with coach Jose Mourinho's assistant, Cristian Gasperini.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US mulls expelling Spain from Nato for failing to back war on Iran",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUltb2xGMms1N3F4ZGhkelR2ZUI4eV9KLUR2YWhJZ3JQNFZ1YTMzX1p1dElhZXRaM0Rmb2s0VEFPVGExVUpKV00wN2xMMHdNSWZiMi12UmdRT2FkZ1hiV3VSc3ROMDZzNXIzS3RROFZfYXAwUzlFTndIaG0xdWNfSGdzS29WMmpQcmk4QTdXdzFBWVJsV1ZCX3pXaw?oc=5",
+      "source": "Google News (NATO conflict)",
+      "sources": [],
+      "published_at": "2026-04-24T11:21:01+00:00",
+      "image_url": "https://images.pexels.com/photos/33118516/pexels-photo-33118516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US considers expelling Spain from Nato for not backing the Iran war. US mulls expelling Spain from Nato for failing to back war on Iran Middle East Eye.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israel and Lebanon extend ceasefire. And, Trump eases medical marijuana rules",
+      "url": "https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-24T11:08:34+00:00",
+      "image_url": "https://images.pexels.com/photos/32304409/pexels-photo-32304409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Israel and Lebanon extended their ceasefire for three weeks. Israel and Lebanon have agreed to extend their ceasefire for three weeks, President Trump says. And, the Trump administration is easing rules on medical marijuana.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US considers suspending Spain from NATO, reported internal email suggests",
+      "url": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [
+        {
+          "url": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss",
+          "source": "Al Jazeera"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzF3OGJDY1hGVXRkUjZqTHhDSlRGZEtERy1iRkY5dng3RFNxLV81WFUxYWczWGtZeF9SMDZoWVRwWUx3djVJc3N6SFA2dnB5NHlGLU94WU42aEs4bDBrV1pKaHB5UVZ1RTh6dDl0VW8tQVJDcUdFWnNTUkJCVVJMaWRETzhyYXU0SEdJeTZ6cWxCRU1sWENhQklQV2ZNTUlOT2FYTnlCWU15Nk5IUDJ4Nl9mbFXSAboBQVVfeXFMUDI0QmlYLVR3X2RPUjlvZFBma0JiSGFObkYtNV9CZkxmSXVRYzFOTE54MEU4LU44NEFTSWFBdVZxeXlSZUhrak9oeDlqZDRwYTAxU2U2RTVfSkxvd2VHWlBva3diLURfc1NCUjBFNHB6ZDZIUTZqOVpNNUZjQVBCWDVsRm1CaUR3MEdfQ0hMNkNkNjBKRVRGbzd2ZXN1eFIzZjdFTUpqU2FmQ1hYOTV1TE9SOFdOclJaTDBB?oc=5",
+          "source": "Google News (NATO conflict)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzF3OGJDY1hGVXRkUjZqTHhDSlRGZEtERy1iRkY5dng3RFNxLV81WFUxYWczWGtZeF9SMDZoWVRwWUx3djVJc3N6SFA2dnB5NHlGLU94WU42aEs4bDBrV1pKaHB5UVZ1RTh6dDl0VW8tQVJDcUdFWnNTUkJCVVJMaWRETzhyYXU0SEdJeTZ6cWxCRU1sWENhQklQV2ZNTUlOT2FYTnlCWU15Nk5IUDJ4Nl9mbFXSAboBQVVfeXFMUDI0QmlYLVR3X2RPUjlvZFBma0JiSGFObkYtNV9CZkxmSXVRYzFOTE54MEU4LU44NEFTSWFBdVZxeXlSZUhrak9oeDlqZDRwYTAxU2U2RTVfSkxvd2VHWlBva3diLURfc1NCUjBFNHB6ZDZIUTZqOVpNNUZjQVBCWDVsRm1CaUR3MEdfQ0hMNkNkNjBKRVRGbzd2ZXN1eFIzZjdFTUpqU2FmQ1hYOTV1TE9SOFdOclJaTDBB?oc=5",
+          "source": "Google News (NATO conflict)"
+        }
+      ],
+      "published_at": "2026-04-24T11:06:00+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2025-09-18T102815Z_1501269944_RC2AUGA872S8_RTRMADP_3_USA-TRUMP-BRITAIN-1777024593.jpg?resize=1920%2C1440",
+      "summary": "A Pentagon email reveals US anger at Spain and the UK over Iran war tensions. Pentagon email obtained by Reuters reveals US anger at Spain and the UK as Iran war tensions persist.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Hegseth and Caine holding news conference on Iran war, as ceasefire grinds on but tension swirls in",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzVSQkVFWXRSNnZXVmFJSEVpTWFlVG5vOElIQnJzQlBYZE9yWDBVYnZNaks5U0RVT3NIZHhiWklwRFpaR2dmMlplcWVQUTZ3dHFtVGRwcEw4cU9QelFrTVoxTnRFR3hlNmJobGFKRDhqQ1NOZ2l4ZllCWXkyRFh2VU9YS1JDZlowMnU4ZDVNMjRPeWM5dDd4dGx0bTFpV1ZPcGw5SWtQWXDSAa4BQVVfeXFMUFQ3UDA0VGFPcU91ZVdDejdmTGdZMlh6dXRmU2VabVlycVNabXZGRjIzdy1OYmRKWGRMOUdxTjVlRXJkVzNHSUhvSXYySklxaXZfTEdLekVrdmVrQllVUnhLNlh3ME9pMzdtVG10ZGlJS1hrX2tfR24yUzZlN2tzaXc0SEtQR1gyVTBOU2pFRVF4aV9GckpHM1BwSW9Wc21CN1Jqb0ZJOXVSVFgzcXZn?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-04-24T10:59:44+00:00",
+      "image_url": "https://images.pexels.com/photos/29708262/pexels-photo-29708262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Hegseth and Caine hold a news conference on the Iran war. Hegseth and Caine holding news conference on Iran war, as ceasefire grinds on but tension swirls in Strait of Hormuz CBS News.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Explosions by Israeli forces in south Lebanon despite ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-24T10:58:55+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777028309.jpg?resize=1200%2C675",
+      "summary": "Israeli forces carried out explosions in south Lebanon despite a ceasefire. Smoke rise above Khiam in southern Lebanon after Israel carries out explosions despite the ceasefire. Explosions by Israeli forces in south Lebanon despite ceasefire.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US-Iran ceasefire deal hangs in the balance as Israel, Lebanon slated for rare Washington talks",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUdNQmwwRGtMaU94WXY5cWFxLWZpNzFfSUk4aFBCWmkzd3JoazBwU3FrNWtOTnJOWTNOTm1WLUlvX1BCZjdlSXdnS1ZSa05yMkF0aXNOTUE0QXROa2pNYXdjQmZYQ3A4UzBaenFsWVRWZG9MWmZINHZyUDNUVEVvWnVSQXEzUTZLNklXRzJGbDY5dVg5ck5acC1zN2tXQi1YMEpLQkVZSdIBrAFBVV95cUxPUERPZ25TWGxkVi1fdlhXUWtfTXhuM2MxOTNNQzJxN1BqWFFhaHF2VWtZQUNxdkV5ZDd2QnBSX1JvaFdnTkRDcE5YZWpTdHkyNERiaXRPOGx3NTlpcGQ1Ty1BQk5kMXpXZXdBMHJvWVoyMUM1NUVycjY4RVVycFllNU54OUJBQ1Z0X2dNYnRNaG14Z0JXX19adGxWMzNoV3NuWUFsc0lHU0RHY1k5?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-04-24T10:45:32+00:00",
+      "image_url": "https://images.pexels.com/photos/35710201/pexels-photo-35710201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US and Iran ceasefire deal is uncertain as Israel and Lebanon prepare for rare talks in Washington. US-Iran ceasefire deal hangs in the balance as Israel, Lebanon slated for rare Washington talks Fox News.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Defense Head Hegseth Weighs Punishing NATO Allies, Including Possible Spain Suspension, Report Says",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wbl8tODhleW1EMi1YenVQWGVENlZhZEYydnlOclktMDd3VXc2ZUFhdzVIREhPeDQxek92REd3WktkX1R0U3dReXVtSQ?oc=5",
+      "source": "Google News (NATO conflict)",
+      "sources": [],
+      "published_at": "2026-04-24T10:35:54+00:00",
+      "image_url": "https://images.pexels.com/photos/34095957/pexels-photo-34095957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "US Defense Head Hegseth considers punishing NATO allies, including suspending Spain, according to a report. Defense Head Hegseth Weighs Punishing NATO Allies, Including Possible Spain Suspension, Report Says Kyiv Post.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Trump declines to give a timeline on ending war with Iran: ‘Don’t rush me’",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVZTdm1ObVZ3amJXVUVxazVqbWdNVkJRX2pIanpqQXp5MHFlTU96Zk9IZWVhVy1leGZ1QUtqVTdnUDZLd3pmMkM2Mm40RmlNN0dsdFdnR0xLMlhrUmlrUlZtSWFwakhZd19iQWgtcWJ5Tll3QVBYRGUyZ0djaEhrRlBVNi1PR1NvUHcwNjFR?oc=5",
-      "source": "Google News (war ceasefire)",
+      "title": "Who Are The Bnei Menashe? The Indian Community That Believes It Belongs In Israel",
+      "url": "https://www.ndtv.com/world-news/who-are-the-bnei-menashe-the-indian-community-that-believes-it-belongs-in-israel-11402905#publisher=newsstand",
+      "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-04-24T09:37:00+00:00",
-      "image_url": "https://images.pexels.com/photos/31513071/pexels-photo-31513071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "US President Donald Trump declined to provide a timeline for ending the conflict with Iran. He urged patience, saying \"don't rush me.\" Trump's remarks came amid escalating tensions between the US and Iran.",
+      "published_at": "2026-04-24T10:34:18+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/d3im6ek8_bnei-menashe_625x300_24_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Israel's Operation Wings of Dawn aims to bring the Bnei Menashe community from India to Israel by 2030. Israel's Operation Wings of Dawn aims to bring community members by 2030.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Pentagon Email Floats Suspending Spain From NATO, Other Steps Over Iran Rift: Report",
-      "url": "https://www.ndtv.com/world-news/exclusive-pentagon-email-floats-suspending-spain-from-nato-other-steps-over-iran-rift-source-says-11401944#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "Divers use underwater speakers to help dying coral reefs",
+      "url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-04-24T09:33:20+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/pbqusqdg_trump-nato_625x300_02_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "A Pentagon email suggested suspending Spain from NATO due to its stance on Iran. The proposal was part of a range of measures being considered. The email's contents were reported by a US news outlet.",
+      "published_at": "2026-04-24T10:30:37+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/b8338203fba6792f76fd0c0c3ccbf123b15724c4/604_132_2248_1798/master/2248.jpg?width=140&quality=85&auto=format&fit=max&s=719f5f30c2dee0a8b5923774d98c915a",
+      "summary": "Divers use underwater speakers to help a dying coral reef near Jamaica recover. Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brinkThe northern coast of Jamaica once served as the backdrop for scenes in the James Bond thriller No Time to Die.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+      "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-04-24T10:14:37+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e03/live/e25af9c0-3fcb-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "NATO states there is no provision to expel members after a report suggested the US might seek to suspend Spain. An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Spain is 'reliable' NATO member, PM says after reported US ouster threat",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS09JM2Vaem5WTF9vRk41Q3ZxVnRYd0FQU2ZyWmdLUXluWVdCMEpsemxOa0VFdmExMVBsNlhNR0NjaFJsT1JJV0hTUllndnJHNFdHM3lPQVhGejBWUFN5ZkRSbm1aNERLQkg3ZktpcU1Udk1TRUxZMDR0WlNCWjJOSG04eG10UW9XZEo4ajRIbmxxNlhxUFdDVzZGZ3luRlU5YnhaQkh5WHU3ZmtSOE13SFozR0xOdkVlWHM3TndkQ3VVbUZPMlNJc0VSN002SzREbEZ1MVBDY0xqandzYWNGMmw1YTFGVWlzOG1Rc1l2dExWQUZLUHc?oc=5",
+      "source": "Google News (international relations)",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS09JM2Vaem5WTF9vRk41Q3ZxVnRYd0FQU2ZyWmdLUXluWVdCMEpsemxOa0VFdmExMVBsNlhNR0NjaFJsT1JJV0hTUllndnJHNFdHM3lPQVhGejBWUFN5ZkRSbm1aNERLQkg3ZktpcU1Udk1TRUxZMDR0WlNCWjJOSG04eG10UW9XZEo4ajRIbmxxNlhxUFdDVzZGZ3luRlU5YnhaQkh5WHU3ZmtSOE13SFozR0xOdkVlWHM3TndkQ3VVbUZPMlNJc0VSN002SzREbEZ1MVBDY0xqandzYWNGMmw1YTFGVWlzOG1Rc1l2dExWQUZLUHc?oc=5",
+          "source": "Google News (international relations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd3JHZVN1NWxncjdRRldLOVNWN0wxblRWdUV0SUd1WGV6WGZVaW5QRXhBbEhva2g4VkhWbHdURG9FVy1KQTZTa0Q3SWNuN012Nmp5M1hLMTh5RWtGbmpabHlndFR3a1hlVC1HdWpmb1JoYVhxbHBmRjRxVnFLdzhzQ3hpSWFaMnRkSkZZSnRDVWo3bGFWS2xfRUJ3?oc=5",
+          "source": "Google News (international relations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd3JHZVN1NWxncjdRRldLOVNWN0wxblRWdUV0SUd1WGV6WGZVaW5QRXhBbEhva2g4VkhWbHdURG9FVy1KQTZTa0Q3SWNuN012Nmp5M1hLMTh5RWtGbmpabHlndFR3a1hlVC1HdWpmb1JoYVhxbHBmRjRxVnFLdzhzQ3hpSWFaMnRkSkZZSnRDVWo3bGFWS2xfRUJ3?oc=5",
+          "source": "Google News (international relations)"
+        }
+      ],
+      "published_at": "2026-04-24T10:00:17+00:00",
+      "image_url": "https://images.pexels.com/photos/36589054/pexels-photo-36589054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Spain's Prime Minister stated the country is a reliable NATO member after a reported US threat. Spain is 'reliable' NATO member, PM says after reported US ouster threat Tioga Publishing.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Chinese Foreign Minister and Thai Prime Minister agree to collaborate on fighting cyberscams",
+      "url": "https://www.thehindu.com/news/international/chinese-foreign-minister-and-thai-prime-minister-agree-to-collaborate-on-fighting-cyberscams/article70900912.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-24T09:32:14+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/o0f79s/article70884994.ece/alternates/LANDSCAPE_1200/IMG_iStock-1458791527_2_1_PVBTBB80.jpg",
+      "summary": "China and Thailand agreed to collaborate on fighting cyberscams as part of diplomatic relations. China is Thailand’s biggest trading partner, and the two countries celebrated their 50th anniversary of establishing diplomatic relations last year.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Norway to ban social media for under-16s",
+      "url": "https://www.thehindu.com/news/international/norway-to-ban-social-media-for-under-16s/article70901106.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-24T09:30:32+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/xaeaow/article70901108.ece/alternates/LANDSCAPE_1200/2026-04-24T060754Z_312589231_RC2QCIAVP76C_RTRMADP_3_NORWAY-SOCIALMEDIA.JPG",
+      "summary": "Norway will ban social media for under-16s, following similar moves by France and Denmark. Several European countries, such as France, Spain, and Denmark, have already said they will introduce a digital age of majority for social networks and others like Australia and Turkiye have already done so.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Environmental crisis in Russian city after drone attack on refinery",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/environmental-crisis-in-russian-city-after-drone-attack-on-refinery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-24T09:27:41+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777023159.jpg?resize=1920%2C1080&quality=80",
+      "summary": "A drone attack on a Russian refinery in Tuapse sparked an environmental crisis. People in the Russian city of Tuapse are worried about the effects of an oil refinery fire after a Ukrainian attack.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -68,209 +287,34 @@
       "translations": {}
     },
     {
-      "title": "EU Approves €90 Billion Ukraine Loan and Expands Sanctions on Russia",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3dkN1BYdEs0UkRpTVcwVDFsa1RrRlVvSE11VXdiMlczMTljelJmTUlrVFpjYXNnUnY3dFZBeXdrRFQ4NVFWbFRqcFBFZW82NHpJdEFzU21oRkRvNHBsZklnaVk5MTlJbzdqV1V1RUxDX08yb0hwR09JdUZzQVBsdmdCVFNYd0dCSk5WSHJLaEE2dy1mVk5NdGNZNkxFd3hfZDIzZ09XTzNLdEk?oc=5",
-      "source": "Google News (diplomacy sanctions)",
+      "title": "Gaza Set to Hold First Local Election in Two Decades",
+      "url": "https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html",
+      "source": "NYT World",
       "sources": [],
-      "published_at": "2026-04-24T09:20:45+00:00",
-      "image_url": "https://images.pexels.com/photos/8830663/pexels-photo-8830663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The European Union approved a €90 billion loan to Ukraine and expanded sanctions on Russia. The move aims to support Ukraine's economic stability and respond to Russia's actions. The EU's decision was reported by a diplomatic source.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump says Israel-Lebanon ceasefire extended by three weeks but claims he won’t rush Iran deal",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRW94T2FDcGV0OE9pMFc4TmFMbXE1Q285Tjg1U28wTHpRZ0F1UE80R29qMXdjVDJXTGlKcTF0Y3dDYXBtNU9va2pEeVNmMzJLNlFkSHdaYUwyd1hJaUdVWEZWNkdITkZUMktoSUZSZTNkZF9ZbHRmcUxuOGdBaHZDTkVnc2M0LXZwaGprbWpZcDhUTzFtaDhrRmo1bU10eXhoZGhfX21YZ0ZhbGluQU5pcDhSNA?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-04-24T09:10:00+00:00",
-      "image_url": "https://images.pexels.com/photos/32304390/pexels-photo-32304390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "US President Trump announced a three-week extension of the Israel-Lebanon ceasefire. He also stated that he won't rush into an Iran deal, amid ongoing Middle East tensions. Middle East crisis live: Trump says Israel-Lebanon ceasefire extended by three weeks but claims he won’t rush Iran deal The Guardian.",
+      "published_at": "2026-04-24T09:15:07+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/24/multimedia/24int-Gaza-Election-01-fqzm-promo/24int-Gaza-Election-01-fqzm-mediumSquareAt3X.jpg",
+      "summary": "Gaza will hold its first local election in two decades, with Hamas not participating. Hamas said it was not participating in the municipal elections in Deir al-Balah, set for this weekend.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Trump invoking religion with Iran war may make things worse",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanljZkxLTGRYWnlGU2t3aGhWc1VDOVViVG10UkFLUkhJUTZyZU01QUxuTE1GY0wwNlZseUcyMnhFeExUNmstZ1QtYWVDWUhrclhweS1CdTJoQzY3M1dvUVlfOFZSTGUteUhpdmJpbkEwM21qdVNhZ2prN094Mm96RkZSWk1MellrTURab0NwaEtWT0lzcHIwLW9LU3c4aDdPWHJnbG1Cc0lCZ2M?oc=5",
-      "source": "Google News (war ceasefire)",
+      "title": "युद्ध-संघर्ष... यूएन चार्टर में शांति स्थापना का जिक्र, विदेश मंत्री जयशंकर ने दुनिया के सामने रखी",
+      "url": "https://news.google.com/rss/articles/CBMi_whBVV95cUxNSVdHQWRITjk1b1k2YjB0M21DSGlnMlVMUkprQWpkUHdaSFgxSmZTWkItdmNfNEZpVG5CQWVZMGpIXzlQN1BDLVFQS0hiUm1uWERoT3oxbXBEZC1jUndHUEVVTkFyRnhScGdfQVJCbFF5RktORFA2Y2FQMnh1RVJ5bFF4eTh4WHF5RDg5SXNGWVRqQUNtM3JTZExYX0FwU3p2S2cwbzB6aXhKa0lib2ZaLU5PXzJuMDBrZmkzUUM2ZFFfcDQ0a1NHX0hybmNtSXRJdks1TGdQOWFPUTktN0pEWGdOa2ZIT3VEc0k2OEtwWVJxZW1td2Rpc3FYQnhDUGcwZFNxVTNQS0pGbHR0c1N5dnZIWWVXWjd1b0owUzdZMFdpNHRJNG1OM0o4eHd1empoWFNuLVNzRHhNY3hWVVhZRzNrU3VtUml1UXc2V3d4cl9LLTctRUtCSXkycFk1bmtiX0pOSS1nWUZ1Rk9WdlhIVGpJYTFvYzE2eDIwRWk0QTU3MllKdmxZMFBBWHE1cWt4aEs4ekRucVpCclFuWERPMkhhYW5lRkdCaEJhbFc3eHhSZlM5YzZCWTNRYXg2M0FNXzNVVGFLeXRLa1N5dF91VS0tMlRpX1NDWmpsTlp5QVU5Q3NRSjJoeHVWZ1dBamRHYm1ZV183aHgzRXd5dnZzYnV5NDdDNmx3dGZuNUl5OXRsMnEwb1ZOUHpwMVNrbWU1WEE4N2kzR2JRT1c5eDY3OUJ4Rnhrd2NTN254eGhIMHVyRHZGWG1TS1RMeUNFZi1XQVJHMkE3WmFJVHFXdVk0MVdqWkM1ME16SmRZWUFBUU14RE5ucE5odWN1ZHVORDNBLUdOMDdTdDZQQTVEVVRwb1FGLUlTUElYV01Bd28xQTkzVjZ3Q2F1U2pOSV9IcmRtMC1kMWJWNzNTc2tmWnhzOHNrazM0ZEJyYWhQbXVtbHN2OHNXb2daWS1VdEpTeGlySDFyQmNzdEpCQU00UUZjLU1hQ0VmTjFMaHd3aVptMmJ2U0l6Wm1IN1VseWxiTWYtZXNxQlFySUxLeVB1eURrRlhteTBQYlI0VVVsOTdDc1ZlUnVLMVR3dElZTFFWOHJ2UUJWaDg4ZWR2SFVjcTNzcUlTQjFQd0o4QW9LV3lBREpxZ1dXM244WV9fSEZCMnc1Z1hMZFg5VVcwaHVqYVhFZDNTVzQzUmwzRnhKYVB5cDBEYXpieF95eEFOdGt3aUNMalBBc09LR0xEaUoxS2RFcEp2ck5MNWpTejhabVlFQ3BYb196RGhMdjJsZDdZbnJYb2Eyd0VrVngzUW5kaGRsX3QtS2JOZlJEcFpRV0Y4YzRuREx4QU1DckVrZmdqV1RDb2x4NVZKUW51cTFKZzFiWWlGcHVhdVktUGdlM2VZQUViaXpIbGl3RjVNVFZfU2NNeTJYSjlxeTc4ZFBsMEw3b3F5dTFDckFVZFl2MTJkZkpVSHhETGdKeUVRemtidlhNWU1ZX2d0WExBN1RRWXB2Skktd0VydklRTktxT1R4SQ?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
-      "published_at": "2026-04-24T09:05:00+00:00",
-      "image_url": "https://images.pexels.com/photos/15467446/pexels-photo-15467446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Critics argue that Trump's invocation of religion in the Iran conflict may escalate tensions. This approach has sparked concerns about the potential consequences of the US's actions. Trump invoking religion with Iran war may make things worse | Opinion USA Today.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Briton in Netflix's 'Con Mum' faces fresh charges in Singapore",
-      "url": "https://www.bbc.com/news/articles/c87wz7445wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-04-24T09:04:38+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb6/live/8f2d9ea0-3fb8-11f1-b61b-1d0ccf7b6022.jpg",
-      "summary": "Dionne Marie Hanna, an 85-year-old Briton, faces new charges in Singapore for allegedly duping over two dozen people, including her own son. She was previously featured in a Netflix documentary.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "India denounces ‘hellhole’ remark shared by Trump",
-      "url": "https://www.aljazeera.com/news/2026/4/24/india-denounces-hellhole-remark-shared-by?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-24T09:04:14+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260423__A8TL6E6__v1__HighRes__UsLebanonIsraelTrumpDiplomacy-1777017304.jpg?resize=1920%2C1440",
-      "summary": "India's Foreign Ministry condemned remarks by US radio host Michael Savage, shared by Trump, describing India as a \"hellhole\". The ministry called the comments \"uninformed\". India’s Foreign Ministry says comments by US radio host Michael Savage, circulated by Trump, are 'uninformed'.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Global hunger report warns of rising malnutrition and famine risks",
-      "url": "https://www.aljazeera.com/news/2026/4/24/global-hunger-report-warns-of-rising-malnutrition-and-famine-risks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-24T09:02:15+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26049632762870-1776956460.jpg?resize=1920%2C1440",
-      "summary": "A global hunger report warns of rising malnutrition and famine risks, with nearly 150 million people facing acute food shortages due to conflict. The crisis remains a pressing concern worldwide.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Kenyan leader sparks uproar after mocking Nigerians' spoken English",
-      "url": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-04-24T09:01:32+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f96/live/874b8a90-3fa3-11f1-b824-55f81473da8b.jpg",
-      "summary": "Kenyan President William Ruto sparked uproar after saying Kenyans speak \"some of the best English in the world,\" while Nigerians' English is hard to understand. His comments drew criticism from Nigerians and Kenyans alike, with many calling for an apology.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "War in the Middle East: latest developments",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEJ0ajlnUkY5VHg4TDUzcXFITTlzSndNdmZ2ZlhOZkVIUjJDc1AtRVhkRVZRRG5Ubk1YeVVQNGdjd2xjUHplMHlFTnI5Vm9ETjlKNHEwdVFwdTVWODBlNzhQWWF0aGo3MXM2RXdVMV93UnBSY1l2S2JJS1Y1R0tzcUZKWlpzbDMwbTJ4NkwyTEU?oc=5",
-      "source": "Google News (international relations)",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEJ0ajlnUkY5VHg4TDUzcXFITTlzSndNdmZ2ZlhOZkVIUjJDc1AtRVhkRVZRRG5Ubk1YeVVQNGdjd2xjUHplMHlFTnI5Vm9ETjlKNHEwdVFwdTVWODBlNzhQWWF0aGo3MXM2RXdVMV93UnBSY1l2S2JJS1Y1R0tzcUZKWlpzbDMwbTJ4NkwyTEU?oc=5",
-          "source": "Google News (international relations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHV3T2lfOXhiMUp3akNhUHRLdVpYNGFGTVJMNVJOY2pJUzFFMEdERktVSmUweGl2TV9sZFdiLUh0WXlNX2xjbVUwV3pwc042UF9Vb2lWek1NSjVqYTdnTFBmUmZNaVdrZU5VWUt4dGRja0lTdko3Mkg2MjdEa25Ja01DS183aTdpUWd1aXJueEhFUWNsMmFFUEZn?oc=5",
-          "source": "Google News (international relations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHV3T2lfOXhiMUp3akNhUHRLdVpYNGFGTVJMNVJOY2pJUzFFMEdERktVSmUweGl2TV9sZFdiLUh0WXlNX2xjbVUwV3pwc042UF9Vb2lWek1NSjVqYTdnTFBmUmZNaVdrZU5VWUt4dGRja0lTdko3Mkg2MjdEa25Ja01DS183aTdpUWd1aXJueEhFUWNsMmFFUEZn?oc=5",
-          "source": "Google News (international relations)"
+      "published_at": "2026-04-24T10:00:09+00:00",
+      "image_url": "https://images.pexels.com/photos/9426431/pexels-photo-9426431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विदेश मंत्री जयशंकर ने संयुक्त राष्ट्र चार्टर में शांति स्थापना का जिक्र करते हुए दुनिया के सामने 7 चिंताएं रखीं। उन्होंने युद्ध-संघर्ष के मुद्दे पर चर्चा की। जयशंकर के बयान ने वैश्विक ध्यान आकर्षित किया।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "युद्ध-संघर्ष... यूएन चार्टर में शांति स्थापना का जिक्र, विदेश मंत्री जयशंकर ने दुनिया के सामने रखी",
+          "summary": "विदेश मंत्री जयशंकर ने संयुक्त राष्ट्र चार्टर में शांति स्थापना का जिक्र करते हुए दुनिया के सामने 7 चिंताएं रखीं। उन्होंने युद्ध-संघर्ष के मुद्दे पर चर्चा की। जयशंकर के बयान ने वैश्विक ध्यान आकर्षित किया।",
+          "region": "वैश्विक / बहुपक्षीय"
         }
-      ],
-      "published_at": "2026-04-24T09:00:03+00:00",
-      "image_url": "https://images.pexels.com/photos/36798316/pexels-photo-36798316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The Israeli military launched airstrikes in Gaza, while Hamas fired rockets into Israel. The conflict has resulted in multiple casualties on both sides, with no immediate end to the violence in sight.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UAE to deploy agentic AI across 50% of government sectors within two years",
-      "url": "https://indianexpress.com/article/world/uae-to-deploy-agentic-ai-across-50-of-government-sectors-within-two-years-10653525/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-04-24T08:54:52+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/agentic-ai.png",
-      "summary": "The UAE plans to deploy artificial intelligence across 50% of its government sectors within two years. The move aims to enhance efficiency and services, with AI expected to play a key role in decision-making processes.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Cars And Humanoid Robots: Elon Musk Lays Out Terafab AI Chip Project Plan",
-      "url": "https://www.ndtv.com/world-news/cars-and-humanoid-robots-elon-musk-lays-out-terafab-ai-chip-project-plan-11402847#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-24T08:53:55+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-03/kds1c9jc_elon-musk_625x300_28_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Elon Musk unveiled plans for the Terafab AI chip, which will handle each step of chip production, including design. The project aims to revolutionize the manufacturing process, with Musk touting its potential for increased efficiency and reduced costs.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Argument turns deadly at Mall of Louisiana: High school seniors among victims as FBI Director Kash",
-      "url": "https://indianexpress.com/article/world/us-news/world-mall-louisiana-shooting-baton-food-court-dead-kash-patel-10653407/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-04-24T08:53:38+00:00",
-      "image_url": "https://images.indianexpress.com/2026/02/crime-scene-1.jpg",
-      "summary": "A shooting at the Mall of Louisiana left multiple people injured, including high school seniors. FBI Director Christopher Wray confirmed the agency is investigating the incident, with authorities working to determine the motive behind the attack.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "'Two ways of calculating': Trump Defends His Calculations On Drug Prices",
-      "url": "https://www.ndtv.com/world-news/two-ways-of-calculating-trump-defends-his-calculations-on-drug-prices-11402776#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-24T08:52:17+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/8vdc7kis_donald-trump_625x300_24_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "US President Trump defended his calculations on drug prices at an event, using incorrect math. He made several such instances during the event, sparking scrutiny. It was one of several times Trump used his own - but incorrect - math during the drug pricing event.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Why is there a political deadlock in Lebanon?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/why-is-there-a-political-deadlock-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-24T08:49:09+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/Screenshot-2026-04-24-at-09.41.06-1777020191.png?resize=1920%2C1440",
-      "summary": "A political deadlock exists in Lebanon due to the government's demand for Hezbollah to disarm. The goal is to establish a state monopoly on weapons. The Lebanese government wants Hezbollah to disarm as it aims for a state monopoly on weapons.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump says U.S. in no rush but 'clock is ticking' for Iran",
-      "url": "https://www.thehindu.com/news/international/trump-says-us-in-no-rush-but-clock-is-ticking-for-iran/article70900937.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-24T08:48:02+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/quow1b/article70900962.ece/alternates/LANDSCAPE_1200/AP04_24_2026_000003A.jpg",
-      "summary": "US President Trump stated that the US is not in a rush regarding Iran, but the \"clock is ticking\". He had previously ruled out using a nuclear weapon against Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China's Long-Awaited DeepSeek V4 AI Model Is Now Available For Preview",
-      "url": "https://www.ndtv.com/world-news/chinas-deepseek-says-releases-long-awaited-new-v4-ai-model-11402188#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-24T08:46:54+00:00",
-      "image_url": "https://c.ndtvimg.com/2025-05/gcrqbofk_deepseek_625x300_03_May_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "summary": "China's DeepSeek V4 AI model is now available for preview. It features an ultra-long context of one million words for advanced tasks. DeepSeek-V4 features an ultra-long context of one million words for advanced tasks.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Cuba's ambassador to Mexico says US is to blame for island's crisis",
-      "url": "https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-to-mexico-says-us-is-to-blame-for-islands-crisis",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-04-24T08:43:58+00:00",
-      "image_url": "https://images.pexels.com/photos/13100052/pexels-photo-13100052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Cuba's ambassador to Mexico blames the US for the island's crisis. The ambassador stated that Cuba is prepared for confrontation if diplomacy collapses. Even as the U. S. threatens military action, Cuba's ambassador to Mexico blames Washington for the country's crisis and says Cuba is prepared for confrontation if diplomacy collapses.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      }
     },
     {
       "title": "होर्मुज़ स्ट्रेटः कितनी ख़तरनाक होती हैं समुद्री बारूदी सुरंगें, इन्हें हटाना क्यों मुश्किल काम",
@@ -453,24 +497,6 @@
       }
     },
     {
-      "title": "ईरान संघर्ष के बीच PNG कनेक्शन की संख्या में तेजी से हुई बढ़ोतरी",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRmdreUdybUtpcWtRNkNLYUJqeFBicVJKVVNYWnY0dTVpMk9mVHFZNnd3clZyczJ1QUNNQ0dweExRdDhmT3RtWmYzbTViUnBVZFl6blNlbmRPWk15OVNXQ1NGN2s3aXJUcGM0a3RPMFoxR1A1MjIzY3U2MC1yc2lsekowNEF6R0FNdWNqQ09YaWN2eVhZNnJtRjBwNGZRd9IBpAFBVV95cUxNT1RDTE5icDJuWGtCekRxWG5mSFd2QlZCbC1Ra2NtSHNCVm5BTGZEU2FBc01mcERyZWp6ODBsZWlKVmlnaDgtTzlLd3pKOFlaVkNfMzJ2aHh4UGlPZjB1cVVYNlhZT1lDelV4azVfcjh0aFM4ZVNMR2E3bUE4dEJQcEdGcG9uMzYtMVZiS1F0X3hhZFVVblpTaEdEWVN1eU9fdkRJSA?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-24T03:33:41+00:00",
-      "image_url": "https://images.pexels.com/photos/16033963/pexels-photo-16033963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान में संघर्ष बढ़ने के साथ ही पापुआ न्यू गिनी के नागरिकों के लिए वीजा संबंधी कनेक्शन में तेजी से वृद्धि हुई है. यह जानकारी Jansatta अखबार में प्रकाशित हुई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान संघर्ष के बीच PNG कनेक्शन की संख्या में तेजी से हुई बढ़ोतरी",
-          "summary": "ईरान में संघर्ष बढ़ने के साथ ही पापुआ न्यू गिनी के नागरिकों के लिए वीजा संबंधी कनेक्शन में तेजी से वृद्धि हुई है. यह जानकारी Jansatta अखबार में प्रकाशित हुई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "भारत-न्यूजीलैंड मुक्त व्यापार समझौते पर 27 अप्रैल को होंगे हस्ताक्षर, पीएम क्रिस्टोफर लक्सन का बड़ा",
       "url": "https://www.amarujala.com/world/india-new-zealand-fta-to-be-signed-on-monday-pm-christopher-luxon-makes-big-announcement-2026-04-24",
       "source": "Amar Ujala World",
@@ -489,56 +515,92 @@
       }
     },
     {
-      "title": "'हिंदू कोई धर्म नहीं, बल्कि एक सभ्यतागत पहचान', वॉशिंगटन में होसबाले बोले- RSS हमेशा परंपरा की बात",
-      "url": "https://www.amarujala.com/world/dattatreya-hosabale-in-washington-says-hinduism-is-not-a-religion-but-a-civilizational-identity-news-in-hindi-2026-04-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-24T03:25:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/27/rss-call-for-reviewing-socialist-secular-words-about-restoring-constitution-to-original-spirit_9aa3b464dcc9fa9b40101d0d9977c1f3.jpeg?w=750&dpr=1.0",
-      "summary": "राष्ट्रीय स्वयंसेवक संघ के महासचिव दत्तात्रेय होसबाले ने वॉशिंगटन में कहा कि हिंदू एक धर्म नहीं है, बल्कि एक सभ्यतागत पहचान है. उन्होंने कहा कि RSS हमेशा परंपरा की बात करता है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'हिंदू कोई धर्म नहीं, बल्कि एक सभ्यतागत पहचान', वॉशिंगटन में होसबाले बोले- RSS हमेशा परंपरा की बात",
-          "summary": "राष्ट्रीय स्वयंसेवक संघ के महासचिव दत्तात्रेय होसबाले ने वॉशिंगटन में कहा कि हिंदू एक धर्म नहीं है, बल्कि एक सभ्यतागत पहचान है. उन्होंने कहा कि RSS हमेशा परंपरा की बात करता है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHFqZ0Zmd2RpSXZvamRQcGJDcFpuQ1otMXZjSnNCeUNjV29KVkVmZlBBc1JfVFI5QnhnMjNBazFnYWI3Z0hoUnFhaERNQzc4QmpVQUhaZDdnQS05S09neVU1aHZ3M0JjRG5DRXN4Sjlnem15N05Hdm9JN0RrR0t1SFlNRFM2RUdrX0p0Z2Z1Z2xFVmZRRkxXZGJrVHZmMUFLQjlLaU1KX1RiQ3p0UzdheHNn0gG3AUFVX3lxTE9fZkJ5ZnBxUTgwd0VnQm1UT0o0c0FpYmJGeXkteVRxbDhhMWtORDU0YXk4aGh4SVViaEtiX1NRNjhkNkc1a01fSEo5NG5GaGNFN1RuN2VOOGc0cGlDZzM2aXI4cklkaDdPVEhDSUtPdy1DelkzRUl4UkdkdTN5WTZyNElUVGZkamF1Q3YyeUowM1pteU5BWm0zSW5ueUtmM2cyU2hyX19LUWxGNG55TkVCMTQ3MFg5bw?oc=5",
+      "title": "सिंधु जल संधि पर भारत के फैसले से तड़प रहा पाकिस्तान, अब UNSC में गिड़गिड़ाया, लागू करने की मांग",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNDVXVEhGRmg2akVZdUZ2ZWhuX1RjdmFGamFGRVRJUUFmaExublZ5SEVzOWluS1p6Ym94Y1dERnM2TDZCMXk3UnNIcU03QU9pREpMSWk4Q1lvOGl6ZE1lZFh4Z1plXzktUE5GNTNta1BiMXZxUE52UEg3dUtSaHY2SFdKYTlMZkdCZVY5SWg4cTBxbDF5dEVmR1A0QWVLUUpFWEtlV0NERVpad3p0RnBsU1JRQWg2VXpBVlJyenlFaFIxdHV0a0k3Wnd5N0lnTUJIQTRGMHIycFo1STJPQnVfMTRB0gHnAUFVX3lxTE9SOXkwMG9GaFZzYk5fUEZMRS1FbkhBamVWUnE4LURFOE12VGVlRGNGQjZRZkdXRW1Ba2tIS0RQMUxLNEJIWHU0UDBVaGRmc0pCdlVBVzJMVlVtbzBuaTJkT3dxWklGNGVxMzBjZ0IxamdrdmlWbi1tallvMVQzSUpmanZRNmg5TWJIS1FXWk1VakFHQTcyS0NmNnhqVkZ5SzhCdXMxRVYyWWdwMEVkbE9acExkZXRmdEtLZ2E3Smdwd1B1NnJKcC00cllOTXdCX3F1RzJkcGRyVEJxenk4QXFjMm5GUzJKRQ?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-04-24T03:03:03+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "यह यात्रा कब होगी और इसके दौरान क्या चर्चा होगी, इसकी जानकारी नहीं दी गई है। संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी ThePrint Hindi।",
+      "published_at": "2026-04-24T02:46:15+00:00",
+      "image_url": "https://images.pexels.com/photos/12811599/pexels-photo-12811599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "पाकिस्तान ने सिंधु जल संधि पर भारत के फैसले के खिलाफ संयुक्त राष्ट्र सुरक्षा परिषद में शिकायत दर्ज कराई। पाकिस्तान ने संधि को लागू करने की मांग की। इस मुद्दे पर दोनों देशों के बीच तनाव बढ़ गया।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी",
-          "summary": "यह यात्रा कब होगी और इसके दौरान क्या चर्चा होगी, इसकी जानकारी नहीं दी गई है। संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी ThePrint Hindi।",
+          "title": "सिंधु जल संधि पर भारत के फैसले से तड़प रहा पाकिस्तान, अब UNSC में गिड़गिड़ाया, लागू करने की मांग",
+          "summary": "पाकिस्तान ने सिंधु जल संधि पर भारत के फैसले के खिलाफ संयुक्त राष्ट्र सुरक्षा परिषद में शिकायत दर्ज कराई। पाकिस्तान ने संधि को लागू करने की मांग की। इस मुद्दे पर दोनों देशों के बीच तनाव बढ़ गया।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "ट्रंप की विवादित पोस्ट के बाद भारत के समर्थन में उतरा ईरान, अमेरिका के अंदर कैसी प्रतिक्रिया",
-      "url": "https://www.bbc.com/hindi/articles/cddq8jd2d6eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "विचारधाराओं के उधार लिए गए चश्मे से देखा जा रहा ईरान युद्ध, सत्य के विरुद्ध अपराध",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGYyY2xjOGtXN1N1SThoS3M4MU1CWEdETW1Kd3dFeDNKTGluQmZ6a3lqSFFPdUJheFloQjVzT0hwNVViTnN4UkpFdzVjMDJEMnJwei1TUjEzeDk3T1lOakJkdUdhblMzaXZ3cmd0UjVnWXdFSW5tUzhLUTBrRFJYNllPSXFzT09qNE9Cck42NXE0OGc2Nk82c3JUQlBaSUdEcm42ZHhEZUgyeXd0Q3RRblAyc3duWE9GWmNfRWVwNy1QcnVkdVZicjFLcWl4VTjSAdQBQVVfeXFMUE5GUE1MT0w1TnNibGoxaVlGek1iTm9RNHhvb3lteTdNTV9Mazl1RU5TQXppSmR4XzRkUlVFeG1TZTNMN21QX3Y0SnlPOTZmbGNFQjUyOHA5TDlDaGlJUC1JLXdxRFI1czMxWGcxeHI5VnRvbkZCdmNmX0RqNlRxcEJYSEVPQ1Z0T05uWnpId1EyQTRPUFRVdDdMdk5WRnVaeDVTdy1tUm9SM00ycXp1R0VrTFRIZTdrSGZZVVVRb1RNSHVYeFBuNjUwTEREd3gwRWhXUHg?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
-      "published_at": "2026-04-24T02:31:30+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bcb1/live/c33947a0-3f84-11f1-b6cc-f39a621ca7b8.jpg",
-      "summary": "अमेरिकी पूर्व राष्ट्रपति डोनाल्ड ट्रंप की विवादित पोस्ट के बाद ईरान ने भारत का समर्थन किया है. कांग्रेस ने ट्रंप की टिप्पणी पर भारत की प्रतिक्रिया को कमजोर बताया है. ट्रंप ने भारत और चीन को \"धरती पर नरक\" बताया था.",
+      "published_at": "2026-04-24T01:25:01+00:00",
+      "image_url": "https://images.pexels.com/photos/16456429/pexels-photo-16456429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान युद्ध को विचारधाराओं के उधार लिए गए चश्मे से देखा जा रहा है। इसके कारण सत्य के विरुद्ध अपराध हो रहे हैं। युद्ध की बदलती परिभाषाएं लोगों की धारणाओं को प्रभावित कर रही हैं।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ट्रंप की विवादित पोस्ट के बाद भारत के समर्थन में उतरा ईरान, अमेरिका के अंदर कैसी प्रतिक्रिया",
-          "summary": "अमेरिकी पूर्व राष्ट्रपति डोनाल्ड ट्रंप की विवादित पोस्ट के बाद ईरान ने भारत का समर्थन किया है. कांग्रेस ने ट्रंप की टिप्पणी पर भारत की प्रतिक्रिया को कमजोर बताया है. ट्रंप ने भारत और चीन को \"धरती पर नरक\" बताया था.",
+          "title": "विचारधाराओं के उधार लिए गए चश्मे से देखा जा रहा ईरान युद्ध, सत्य के विरुद्ध अपराध",
+          "summary": "ईरान युद्ध को विचारधाराओं के उधार लिए गए चश्मे से देखा जा रहा है। इसके कारण सत्य के विरुद्ध अपराध हो रहे हैं। युद्ध की बदलती परिभाषाएं लोगों की धारणाओं को प्रभावित कर रही हैं।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका संग शांति वार्ता के लिए ईरान तैयार?: इस्लामाबाद जाएंगे अराघची, इस हफ्ते के आखिरी में दौरे",
+      "url": "https://www.amarujala.com/world/iranian-foreign-minister-abbas-araghchi-expected-to-travel-to-islamabad-by-this-weekend-2026-04-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-23T23:58:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/15/iran-abbas-araghchi_fa5c79bed6afedbf0644e950c78f01f2.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान के विदेश मंत्री अब्बास अराघची इस हफ्ते के आखिरी में इस्लामाबाद जाने वाले हैं। वह अमेरिका के साथ शांति वार्ता के लिए ईरान की तैयारियों पर चर्चा करेंगे। इस दौरे का उद्देश्य दोनों देशों के बीच संबंधों को बेहतर बनाना है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका संग शांति वार्ता के लिए ईरान तैयार?: इस्लामाबाद जाएंगे अराघची, इस हफ्ते के आखिरी में दौरे",
+          "summary": "ईरान के विदेश मंत्री अब्बास अराघची इस हफ्ते के आखिरी में इस्लामाबाद जाने वाले हैं। वह अमेरिका के साथ शांति वार्ता के लिए ईरान की तैयारियों पर चर्चा करेंगे। इस दौरे का उद्देश्य दोनों देशों के बीच संबंधों को बेहतर बनाना है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बारिश में ऑफिस जाने की टेंशन खत्म, अब घर बैठे भी मिल रही है पूरी सैलरी!",
+      "url": "https://www.amarujala.com/photo-gallery/bizarre-news/viral-china-woman-gets-7-days-paid-rain-leave-company-offers-work-from-home-during-rain-2026-04-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-23T23:44:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/24/brasha-ma-chhatata-fara-bha-para-salra_68309482a4efde4e0bdcf4a11b991e56.jpeg?w=750&dpr=1.0",
+      "summary": "चीन के चांग्शा शहर की एक कंपनी ने अपने कर्मचारियों के लिए \"रेन लीव\" नाम की सुविधा शुरू की है। जब शहर में तेज बारिश होती है, तो कर्मचारियों को ऑफिस आने की जरूरत नहीं होती और उन्हें पूरी सैलरी मिलती है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बारिश में ऑफिस जाने की टेंशन खत्म, अब घर बैठे भी मिल रही है पूरी सैलरी!",
+          "summary": "चीन के चांग्शा शहर की एक कंपनी ने अपने कर्मचारियों के लिए \"रेन लीव\" नाम की सुविधा शुरू की है। जब शहर में तेज बारिश होती है, तो कर्मचारियों को ऑफिस आने की जरूरत नहीं होती और उन्हें पूरी सैलरी मिलती है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कहां देखें टूटते तारे? इन जगहों पर दूधिया आकाश का नजारा बढ़ा देगा रोमांस!",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/travel/astro-travel-in-india-best-places-for-star-gazing-and-milky-way-view-2026-04-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-23T23:41:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/24/stargazing-places_694f7dffe490929b011bae06363c636e.jpeg?w=750&dpr=1.0",
+      "summary": "भारत में कई जगहें हैं जहां आप टूटते तारे और दूधिया आकाश देख सकते हैं। Astro Travel के अनुसार, इन जगहों पर साफ रात का आसमान रोमांस बढ़ा देगा। यहां आप मिल्की वे भी देख सकते हैं।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कहां देखें टूटते तारे? इन जगहों पर दूधिया आकाश का नजारा बढ़ा देगा रोमांस!",
+          "summary": "भारत में कई जगहें हैं जहां आप टूटते तारे और दूधिया आकाश देख सकते हैं। Astro Travel के अनुसार, इन जगहों पर साफ रात का आसमान रोमांस बढ़ा देगा। यहां आप मिल्की वे भी देख सकते हैं।",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -557,6 +619,24 @@
           "title": "भारत ने कहा- सुरक्षा परिषद के ढांचे में तत्काल व्यापक सुधार जरूरी, यह समय की मांग",
           "summary": "भारत ने कहा कि सुरक्षा परिषद के ढांचे में तत्काल व्यापक सुधार जरूरी है। यह समय की मांग है और भारत इस मुद्दे पर जोर दे रहा है। संयुक्त राष्ट्र: भारत ने कहा- सुरक्षा परिषद के ढांचे में तत्काल व्यापक सुधार जरूरी, यह समय की मांग Amar Ujala।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कहीं आपकी डाइट में भी तो नहीं है फाइबर की कमी? कैसे करें इसकी पहचान",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/lack-of-fiber-in-diet-know-fiber-deficiency-symptoms-and-what-to-eat-for-this-details-in-hindi-2026-04-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-23T23:31:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/24/diet_8128afee1d812fdfea331d8fb8efa4a0.jpeg?w=750&dpr=1.0",
+      "summary": "फाइबर की कमी आपकी डाइट में हो सकती है। फाइबर पाचन और दिल की सेहत में महत्वपूर्ण भूमिका निभाता है। अपनी डाइट में फाइबर वाली चीजों को शामिल करना आवश्यक है ताकि आप इसकी कमी की पहचान कर सकें और उसे पूरा कर सकें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कहीं आपकी डाइट में भी तो नहीं है फाइबर की कमी? कैसे करें इसकी पहचान",
+          "summary": "फाइबर की कमी आपकी डाइट में हो सकती है। फाइबर पाचन और दिल की सेहत में महत्वपूर्ण भूमिका निभाता है। अपनी डाइट में फाइबर वाली चीजों को शामिल करना आवश्यक है ताकि आप इसकी कमी की पहचान कर सकें और उसे पूरा कर सकें।",
+          "region": "दुनिया"
         }
       }
     },
@@ -592,60 +672,6 @@
         "hi": {
           "title": "'दोनों देशों के रिश्तों में विश्वास की कमी', विशेषज्ञ बोले- भरोसा फिर से बहाल करने की जरूरत",
           "summary": "विशेषज्ञों का कहना है कि भारत और अमेरिका के रिश्तों में विश्वास की कमी है। उनका मानना है कि दोनों देशों को अपने संबंधों में भरोसा फिर से बहाल करने की जरूरत है। यह बयान भारत-अमेरिका संबंधों पर विशेषज्ञों की राय के आधार पर दिया गया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'बस अमेरिका की हां का इंतजार': तेहरान पर बड़े हमले की तैयारी में इस्राइल, कहा- ईरान की नींव तक हिला",
-      "url": "https://www.amarujala.com/world/israel-prepared-to-renew-war-against-iran-awaiting-us-green-light-says-defence-minister-israel-katz-2026-04-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-23T19:56:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/24/isarail-amaraka-oura-iirana-ka-bca-tanava_ca0d5df40e2a698609cf529b3707f2aa.jpeg?w=750&dpr=1.0",
-      "summary": "इस्राइल तेहरान पर बड़े हमले की तैयारी कर रहा है. इस्राइल के रक्षा मंत्री ने कहा है कि वे अमेरिका की हां का इंतजार कर रहे हैं. इस बार ईरान की नींव तक हिला देने की बात कही जा रही है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'बस अमेरिका की हां का इंतजार': तेहरान पर बड़े हमले की तैयारी में इस्राइल, कहा- ईरान की नींव तक हिला",
-          "summary": "इस्राइल तेहरान पर बड़े हमले की तैयारी कर रहा है. इस्राइल के रक्षा मंत्री ने कहा है कि वे अमेरिका की हां का इंतजार कर रहे हैं. इस बार ईरान की नींव तक हिला देने की बात कही जा रही है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दक्षिणी लेबनान में यूएन सहायता मिशन का दौरा, हर क़दम पर तबाही के चिन्ह",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nM2YtV2pRX09NS3Rkb2NGSTFqcXJxc1NLYVMwUWlRaFhtZi00QlRLZG9hY3Qybk01R2tpcmdFOUFpOUNnN1ozaThXc3M3MzNYY3NyXy0yaw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-23T17:50:53+00:00",
-      "image_url": "https://images.pexels.com/photos/26873198/pexels-photo-26873198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र सहायता मिशन ने दक्षिणी लेबनान का दौरा किया। मिशन को हर क़दम पर तबाही के चिन्ह दिखाई दिए। यह दौरा संयुक्त राष्ट्र की ओर से क्षेत्र में स्थिति का आकलन करने के लिए किया गया था।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दक्षिणी लेबनान में यूएन सहायता मिशन का दौरा, हर क़दम पर तबाही के चिन्ह",
-          "summary": "संयुक्त राष्ट्र सहायता मिशन ने दक्षिणी लेबनान का दौरा किया। मिशन को हर क़दम पर तबाही के चिन्ह दिखाई दिए। यह दौरा संयुक्त राष्ट्र की ओर से क्षेत्र में स्थिति का आकलन करने के लिए किया गया था।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने भारत के बारे में 'विवादित' पोस्ट किया शेयर, भारत ने जारी किया बयान",
-      "url": "https://www.bbc.com/hindi/articles/cy4130ed40po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-23T17:09:54+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cae7/live/13b0efb0-3f37-11f1-b23e-977dc8cd7ec8.jpg",
-      "summary": "ट्रंप ने भारत के बारे में एक विवादित पोस्ट शेयर किया है. भारत ने एक बयान जारी कर अपनी प्रतिक्रिया दी है. अमेरिकी दूतावास के प्रवक्ता ने कहा है कि ट्रंप ने भारत की प्रशंसा की है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने भारत के बारे में 'विवादित' पोस्ट किया शेयर, भारत ने जारी किया बयान",
-          "summary": "ट्रंप ने भारत के बारे में एक विवादित पोस्ट शेयर किया है. भारत ने एक बयान जारी कर अपनी प्रतिक्रिया दी है. अमेरिकी दूतावास के प्रवक्ता ने कहा है कि ट्रंप ने भारत की प्रशंसा की है.",
           "region": "एशिया-प्रशांत"
         }
       }
