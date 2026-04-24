@@ -1,6 +1,64 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** April 24, 2026 22:31 IST
+**अपडेट:** April 24, 2026 23:26 IST
+
+---
+
+## एशिया-प्रशांत
+
+### [विश्व में बढ़ते युद्ध: कब थमेगा ये संघर्ष?](https://news.google.com/rss/articles/CBMidkFVX3lxTE5sS2hkUDNZT1B2Y0ppYXJVaDBkU08zMkxrSlAxWWRXaTZDWVZSbTEzY3ZmYmJSbEVId0F0aG16MDMzNlZNMmNhcUlXUE96VjlMSTZKd1pQX1pnZ3FwLWJFc1p1QW1qZVEwQTZWbUVlR2lCSEJRM2fSAXtBVV95cUxQc0dJcDJDOTZXUHpEaUpQUU1jUXpPX1ZYb0hrUV9EWkpqNEVBM3BaY3BzZkpteFpEelo3UkhPbHpRMVhNak5WU1o2WElpNDY4MlhIbjBJZGtfV2tLUVU4ODNaOUVrQzA0ZHBId2hlaUgwUkJpZmFhcm1PcVU?oc=5)
+*Google News Hindi (युद्ध संघर्ष)* - Apr 24, 21:27 IST (iso: 2026-04-24T15:57:04+00:00)
+<!-- image: https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+वैश्विक स्तर पर युद्ध बढ़ रहे हैं. इस संघर्ष के कारणों और समाधान के बारे में चर्चा हो रही है. विश्व में बढ़ते युद्ध: कब थमेगा ये संघर्ष?
+
+### [भारत दौरे पर आ रहीं संयुक्त राष्ट्र महासभा अध्यक्ष एनालेना बेयरबॉक, द्विपक्षीय बैठकों में होंगी](https://news.google.com/rss/articles/CBMiywFBVV95cUxQaGctZDFIb2dUZ2ZBN1VNUHdPbl80amxTNDBjRUFtRTNPY0hJUWNsM2gwOTV3N0tmSWpiZEdLZWZMb3NIU2xNUTlpWHpHVUV5SHBteERlMUYyVGtid2dUV29HYTZCMUF0VUYta2hQUlM3Tmh5WTVZVkRtM2ZpUHRNQlRVSVVDSWRtRjVrSkFFTy00Y3Y4dmxPS2I5aFoyeGU4bU5yQ3Rta2dlTlFucGY5MGlHclFwbVNVaXVPT2xGdmEtSzRKUVBxLVJaWQ?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - Apr 24, 17:00 IST (iso: 2026-04-24T11:30:00+00:00)
+<!-- image: https://images.pexels.com/photos/36739282/pexels-photo-36739282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते भारत का दौरा करेंगी. वह द्विपक्षीय बैठकों में शामिल होंगी और भारतीय मंत्रियों से मिलेंगी. भारत दौरे पर आ रहीं संयुक्त राष्ट्र महासभा अध्यक्ष एनालेना बेयरबॉक, द्विपक्षीय बैठकों में होंगी।
+
+### [संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते करेंगी नई दिल्ली का दौरा, भारत की हैं](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmNWTDdURkFvVnVUbEZIb21lUm02NHdWbm1NOW5qQ1pPRXRtdTl6UENldFBUR0J3SGlRMEl3UURkN09rbmtUODFCV1FvZk1NbWF3bEFtQWtfbWp6Z294LUtpZlYySXRUTDRkcWszMmc2bnF4Ql9fbEFyZmw1eTBsUmFNWmZ2MkQ4Vjk4RXU1YXBfbGZuMnpOY2k1aWxfc3dMZDdiaENIT044OUdXYTlXX2NTdHAzUdIBuwFBVV95cUxPLVVBb1JucGNvM1FXQVhtX1pkcmdZN05uR1pMcXRVYm43NUpNaDE3T29IcE9DM1RremtzUUIzd1hmZi13c1l1WE04aEJqYThmSllGT24wR0xfWlVJQVBaMllmbHB6cUEyVGJhMk95a2NBRHJZTUNIeTJUQlJCWTI2LUp2c0VCdGZoMVhmekwxRDR4Wks3ZXU4aGNsUUpoMml3UkdmZ0w1XzVVeWdlMjJOSTlqVHhVN290SEo4?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - Apr 24, 10:58 IST (iso: 2026-04-24T05:28:31+00:00)
+<!-- image: https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक नई दिल्ली का दौरा करेंगी. वह भारत की समर्थक हैं और वहां के साथ सहयोग बढ़ाने की उम्मीद है. UN: संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते करेंगी नई दिल्ली का दौरा, भारत की हैं मुरीद Amar Ujala।
+
+### [नेपाल के पूर्व मंत्री विक्रम पांडेय गिरफ्तार, टेंडर सिस्टम में हेरफेर करने का है आरोप](https://www.amarujala.com/world/nepal-former-minister-and-rpp-leader-bikram-pandey-arrested-in-tender-hacking-case-2026-04-24)
+*Amar Ujala World* - Apr 24, 10:22 IST (iso: 2026-04-24T04:52:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/08/23/garafatara_2131512ca7ffca5f615d35ec09bd0d34.jpeg?w=750&dpr=1.0 -->
+
+नेपाल के पूर्व मंत्री विक्रम पांडेय को टेंडर सिस्टम में हेरफेर करने के आरोप में गिरफ्तार किया गया है. वह राप्रपा नेता हैं और उनके खिलाफ कार्रवाई की गई है.
+
+### [भारतीय सोलर कंपनियों पर अमेरिका की सख्ती, सेल और पैनल पर लगाया 123% एंटी-डंपिंग शुल्क](https://www.amarujala.com/world/us-cracks-down-on-indian-solar-companies-imposes-123-anti-dumping-duty-on-cells-and-pannel-2026-04-24)
+*Amar Ujala World* - Apr 24, 09:05 IST (iso: 2026-04-24T03:35:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/4cplus/2025/12/14/paja-kalja-ramapara-ma-shapasa-bna-lkha-rapaya-ka-lgata-sa-sathapata-kaya-gaya-salra-panal-savatha_e644842375b032ff0cc016bf4c2d61db.jpeg?w=750&dpr=1.0 -->
+
+अमेरिका ने भारतीय सोलर कंपनियों पर सख्ती दिखाई है। उसने सेल और पैनल पर 123% एंटी-डंपिंग शुल्क लगाया है। यह अमेरिकी सोलर उद्योग की सुरक्षा के लिए किया गया है।
+
+### [मुस्लिम हमारे अपने, हिंदू ही थे इनके पूर्वज; RSS के सरकार्यवाह के संकेत क्या?](https://www.amarujala.com/world/rss-dattatreya-hosabale-washington-dc-speech-indian-muslims-roots-2026-04-24)
+*Amar Ujala World* - Apr 24, 08:35 IST (iso: 2026-04-24T03:05:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/24/dattatreya-hosabale_d96bbddc6ab5c33f47d475cb2da5e180.jpeg?w=750&dpr=1.0 -->
+
+RSS के सरकार्यवाह दत्तात्रेय होसबाले ने कहा कि मुस्लिम समाज हमारे अपने हैं। उनके पूर्वज हिंदू थे। यह बयान भारतीय मुस्लिमों की जड़ों पर प्रकाश डालता है। मुस्लिम हमारे अपने, हिंदू ही थे इनके पूर्वज; RSS के सरकार्यवाह के संकेत क्या?
+
+### [संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHFqZ0Zmd2RpSXZvamRQcGJDcFpuQ1otMXZjSnNCeUNjV29KVkVmZlBBc1JfVFI5QnhnMjNBazFnYWI3Z0hoUnFhaERNQzc4QmpVQUhaZDdnQS05S09neVU1aHZ3M0JjRG5DRXN4Sjlnem15N05Hdm9JN0RrR0t1SFlNRFM2RUdrX0p0Z2Z1Z2xFVmZRRkxXZGJrVHZmMUFLQjlLaU1KX1RiQ3p0UzdheHNn0gG3AUFVX3lxTE9fZkJ5ZnBxUTgwd0VnQm1UT0o0c0FpYmJGeXkteVRxbDhhMWtORDU0YXk4aGh4SVViaEtiX1NRNjhkNkc1a01fSEo5NG5GaGNFN1RuN2VOOGc0cGlDZzM2aXI4cklkaDdPVEhDSUtPdy1DelkzRUl4UkdkdTN5WTZyNElUVGZkamF1Q3YyeUowM1pteU5BWm0zSW5ueUtmM2cyU2hyX19LUWxGNG55TkVCMTQ3MFg5bw?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - Apr 24, 08:33 IST (iso: 2026-04-24T03:03:03+00:00)
+<!-- image: https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+यह यात्रा भारत और संयुक्त राष्ट्र के बीच संबंधों को मजबूत बनाने के लिए महत्वपूर्ण होगी। बेयरबॉक भारत के साथ सहयोग पर चर्चा करेंगी। संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी ThePrint Hindi।
+
+### [भारत ने कहा- सुरक्षा परिषद के ढांचे में तत्काल व्यापक सुधार जरूरी, यह समय की मांग](https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHYySzhQU0lzek14MkxZWnlDalFVSDh1b2k0Ym1HTGRQUTJybGJkblFhNndMLVIxZEtucmlHa2JGMTkwbGRBX1FyWTNHczFpYmZVMElpWGFhemU1QjlUWFc1MFZFbHdsZnBnMHV5SkpCU2xSa1lqVGU1WnBtZFJsaWJLTWNOYVFsSzR6d2JUWkJwdmdCWjdWVHl0OXFUeWxKS05WUlEzN21Takdzak5GUVhVXzhST3dlRTJrd2daSTlLSmdiVktoZk1RMFHSAdIBQVVfeXFMTXQ5YktCWWhobGtpUFlKb2hKWDlBSGo4Z0ZReU9BNlRkRVJZRlBsVDZuRG9lNjhiYUJDZzczNFdWcFlEVEVVSWRIZ05XX0lpX0RJd2U2a3VwSjlESGRBanhDRmlHVGQySThNdDBVVF9NTjNLSTFmRkN0SU5GZUJkUE9YZHJrYWt0UnF2T3k1c2V5akJiWWFzWmUzNndvVXFIY3p5UHdBcHJ2SHNhMlRJNXN4Zl81M1BYRUo1MERFa01taG9hQ3llbFluTTMtaGNVWF9R?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - Apr 24, 05:02 IST (iso: 2026-04-23T23:32:03+00:00)
+<!-- image: https://images.pexels.com/photos/19447589/pexels-photo-19447589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+भारत ने संयुक्त राष्ट्र में कहा कि सुरक्षा परिषद के ढांचे में तत्काल सुधार जरूरी है. यह समय की मांग है और परिषद को अधिक प्रतिनिधित्व और प्रभावी बनाने की आवश्यकता है.
+
+### [पाकिस्तान में 75% हिंदू पीड़ित, निशाने पर 14-18 साल की लड़कियां; टेंशन में UN](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSUdIX0hLVHRNNzB6MVNJRkRVODhzaURwNUxuSWFVRUNBTTllNktacEtzODBsUU1ZZUdPX050a3diWWhuVEJYODFpeWExbkVyNWM0M19EbWprYTZ0U28zcDVYWEp1R0gxWGVVMGVhMnp2NDBQRVJPdlQ3RmNLYkowbE1CSHZ5Ykc0aC04UUpiSWNndnlXT005WmlKTlRZbTZLd2EtQU9QTzZPN04wUzFVNy1xZS1MTlVSdzZNMmNSQ2U4R3FHSTNpU0xmSk12TzRtYlA2TFpnaWFrZE55aThwMGxSY9IB6AFBVV95cUxQczdtSUVWaEItNnJtU2VYUjN1bG1zMjdxLUMzNzE1dW52Z3oySlpEdFk2bFNoMnNIUmQ5Z3A5dkUtVE5pSGhpZDdvNi01NGFLWmxXbk4wX09jT0JxcU5lakMzWUVleS1QNHFuWWE0S2hBMkowSjZaMlBqeHdCaDZEcWVudy1sLXg3SmtEZ3ZRNXpJcWpZZ0hNYy1CaU5ZYUktVXVDOXlpVk1INk5PT3RmZnVucUN2aEJsWU11MDBxNU5SUjhNUnJpNDA1WTQ5Sy03NERlZTEzekpGaGFiMXZOQkRVVmV3Y1lz?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - Apr 22, 23:13 IST (iso: 2026-04-22T17:43:58+00:00)
+<!-- image: https://images.pexels.com/photos/2119559/pexels-photo-2119559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+पाकिस्तान में 75% हिंदू पीड़ित हैं और 14-18 साल की लड़कियां निशाने पर हैं। यह जानकारी Hindustan Hindi News ने दी, जिसके बाद UN भी टेंशन में आ गया है।
 
 ---
 
@@ -17,12 +75,6 @@
 <!-- image: https://images.pexels.com/photos/34954625/pexels-photo-34954625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 एक विश्लेषण में सुरक्षा, कूटनीति और नैरेटिव की परीक्षा की गई. इसमें इन विषयों के महत्व और प्रभाव पर चर्चा की गई. यह एक गहन अध्ययन का विषय था. सुरक्षा, कूटनीति और नैरेटिव की परीक्षा Patrika News।
-
-### ['असली साजिशकर्ताओं को सजा मिली या न्याय अंतरराष्ट्रीय कूटनीति की भेंट चढ़ गया', पहलगाम हमले की बरसी](https://news.google.com/rss/articles/CBMitwJBVV95cUxPaXI5NlU2OC1HbXZVbjhQOElVSG90d2pTYXVPUW9OQ05KUFp3VWI2WkszRmxiMkZ3Z1JyNzgwdnA4Y2M1U3ZPeDRXWU44MjNweTBsVGU1WHlOUVZHeUxhU3h2RnUwTVduNEowR2o3V1Y1b0NXT0FqTnF1WlMybVpERDBOcWQwalF2RWJ5Z0NkZktqRVhNYlpLOHhBVVYydjJaRGpGc29oX0xFVzNTM0hia2VNTTNBaFI5Z2RrN25nZEEzVFZKbm9ZcTBidjF1VDRLb3dKLVRQd1pVV3llR0h2NF84Vk9uTUkydHBKSGhUdnk0RnMzQVN3RzJrOGFsTWJPdS1IOHJ6T0RHZDRkYmNibVZaMlFjLXhaNXJpanlVcE9CTUxpNVhrLW1FWGJad2xLMURpekVlNNIBtwJBVV95cUxPaXI5NlU2OC1HbXZVbjhQOElVSG90d2pTYXVPUW9OQ05KUFp3VWI2WkszRmxiMkZ3Z1JyNzgwdnA4Y2M1U3ZPeDRXWU44MjNweTBsVGU1WHlOUVZHeUxhU3h2RnUwTVduNEowR2o3V1Y1b0NXT0FqTnF1WlMybVpERDBOcWQwalF2RWJ5Z0NkZktqRVhNYlpLOHhBVVYydjJaRGpGc29oX0xFVzNTM0hia2VNTTNBaFI5Z2RrN25nZEEzVFZKbm9ZcTBidjF1VDRLb3dKLVRQd1pVV3llR0h2NF84Vk9uTUkydHBKSGhUdnk0RnMzQVN3RzJrOGFsTWJPdS1IOHJ6T0RHZDRkYmNibVZaMlFjLXhaNXJpanlVcE9CTUxpNVhrLW1FWGJad2xLMURpekVlNA?oc=5)
-*Google News Hindi (कूटनीति)* - Apr 23, 10:42 IST (iso: 2026-04-23T05:12:47+00:00)
-<!-- image: https://images.pexels.com/photos/13874850/pexels-photo-13874850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-पहलगाम हमले की बरसी पर, सरकार से सवाल किया गया कि क्या असली साजिशकर्ताओं को सजा मिली है या न्याय अंतरराष्ट्रीय कूटनीति की भेंट चढ़ गया है। यह सवाल Navjivan में प्रकाशित एक लेख में उठाया गया था।
 
 ---
 
@@ -42,13 +94,23 @@
 
 ---
 
+## दुनिया
+
+### [33 साल बाद ‘खलनायक रिटर्न्स’, संजय दत्त ने की नई फिल्म की घोषणा; मेकर्स ने जारी किया फर्स्ट लुक](https://www.amarujala.com/entertainment/bollywood/sanjay-dutt-announces-khalnayak-returns-after-33-years-makers-shares-first-look-video-and-poster-2026-04-24)
+*Amar Ujala National* - Apr 24, 10:24 IST (iso: 2026-04-24T04:54:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/24/khalnayaka-rataranasa_26fc87561e36d2b8478e63289c7caca3.jpeg?w=750&dpr=1.0 -->
+
+संजय दत्त ने अपनी सुपरहिट फिल्म 'खलनायक' का सीक्वल 'खलनायक रिटर्न्स' की घोषणा की है. इस फिल्म का फर्स्ट लुक जारी किया गया है. Khalnayak Returns: संजय दत्त 33 साल बाद अपनी सुपरहिट फिल्म खलनायक का सीक्वल लेकर आ रहे हैं।
+
+---
+
 ## मध्य पूर्व और अफ्रीका
 
-### [ट्रंप के उपहार वाले दावे पर चीन का पलटवार, कहा- बिना सबूत आरोप स्वीकार नहीं](https://www.amarujala.com/world/china-rejects-trump-allegations-on-iranian-ship-in-hormuz-strait-2026-04-24)
-*Amar Ujala World* - Apr 24, 09:07 IST (iso: 2026-04-24T03:37:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/06/08/new-disputes-emerge-ahead-of-us-china-trade-talks-in-london_47ebf0b591fd7f388b8784d8cc64eeb5.jpeg?w=750&dpr=1.0 -->
+### [ईरान में 3500 मौतों पर भी US बेपरवाह: रक्षा मंत्री ने जंग को दुनिया के वरदान बताया, क्या संदेश दे](https://www.amarujala.com/world/west-asia-crisis-us-iran-blockade-operation-epic-fury-pete-hegseth-updates-2026-04-24)
+*Amar Ujala World* - Apr 24, 09:59 IST (iso: 2026-04-24T04:29:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/10/24/amaraka-ka-rakashha-matara-pata-hagasatha_0cf16ee26ccf2dbcb04617b2e313752f.jpeg?w=750&dpr=1.0 -->
 
-चीन ने ट्रंप के आरोपों को खारिज किया कि चीन ने ईरान के जहाज को उपहार दिया था। ट्रंप के उपहार वाले दावे पर चीन का पलटवार, कहा- बिना सबूत आरोप स्वीकार नहीं।
+अमेरिकी रक्षा मंत्री ने ईरान में 3500 मौतों के बाद भी जंग को दुनिया का वरदान बताया। इससे अमेरिका की बेपरवाही सामने आई है। ईरान में हालात गंभीर बने हुए हैं।
 
 ### [ट्रंप की विवादित पोस्ट के बाद भारत के समर्थन में उतरा ईरान, अमेरिका के अंदर कैसी प्रतिक्रिया](https://www.bbc.com/hindi/articles/cddq8jd2d6eo?at_medium=RSS&at_campaign=rss)
 *BBC Hindi* - Apr 24, 08:01 IST (iso: 2026-04-24T02:31:30+00:00)
@@ -56,23 +118,17 @@
 
 ईरान ने ट्रंप की विवादित पोस्ट के बाद भारत का समर्थन किया। डोनाल्ड ट्रंप ने एक पोस्ट शेयर की थी जिसमें भारत और चीन को 'धरती पर नरक' बताया गया था.
 
+### [विचारधाराओं के उधार लिए गए चश्मे से देखा जा रहा ईरान युद्ध, सत्य के विरुद्ध अपराध](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGYyY2xjOGtXN1N1SThoS3M4MU1CWEdETW1Kd3dFeDNKTGluQmZ6a3lqSFFPdUJheFloQjVzT0hwNVViTnN4UkpFdzVjMDJEMnJwei1TUjEzeDk3T1lOakJkdUdhblMzaXZ3cmd0UjVnWXdFSW5tUzhLUTBrRFJYNllPSXFzT09qNE9Cck42NXE0OGc2Nk82c3JUQlBaSUdEcm42ZHhEZUgyeXd0Q3RRblAyc3duWE9GWmNfRWVwNy1QcnVkdVZicjFLcWl4VTjSAdQBQVVfeXFMUE5GUE1MT0w1TnNibGoxaVlGek1iTm9RNHhvb3lteTdNTV9Mazl1RU5TQXppSmR4XzRkUlVFeG1TZTNMN21QX3Y0SnlPOTZmbGNFQjUyOHA5TDlDaGlJUC1JLXdxRFI1czMxWGcxeHI5VnRvbkZCdmNmX0RqNlRxcEJYSEVPQ1Z0T05uWnpId1EyQTRPUFRVdDdMdk5WRnVaeDVTdy1tUm9SM00ycXp1R0VrTFRIZTdrSGZZVVVRb1RNSHVYeFBuNjUwTEREd3gwRWhXUHg?oc=5)
+*Google News Hindi (युद्ध संघर्ष)* - Apr 24, 06:55 IST (iso: 2026-04-24T01:25:01+00:00)
+<!-- image: https://images.pexels.com/photos/16456429/pexels-photo-16456429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+ईरान युद्ध को विचारधाराओं के चश्मे से देखा जा रहा है। इससे सत्य के विरुद्ध अपराध हो रहा है। युद्ध की बदलती परिभाषाएं सामने आ रही हैं। हार-जीत की बदलती परिभाषाएं: विचारधाराओं के उधार लिए गए चश्मे से देखा जा रहा ईरान युद्ध, सत्य के विरुद्ध अपराध Amar Ujala।
+
 ### [ट्रंप ने जोन्स एक्ट की छूट को 90 दिनों के लिए बढ़ाया; तेल बाजार में स्थिरता की कोशिश](https://www.amarujala.com/world/donald-trump-administration-jones-act-waiver-oil-market-iran-war-2026-04-24)
 *Amar Ujala World* - Apr 24, 05:42 IST (iso: 2026-04-24T00:12:19+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/04/18/danalda-tarapa-amaraka-rashhatarapata_3b87d42c4495124a15b2c782381e79ca.jpeg?w=750&dpr=1.0 -->
 
 ट्रंप ने जोन्स एक्ट की छूट को 90 दिनों के लिए बढ़ाया। ट्रंप ने जोन्स एक्ट की छूट को 90 दिनों के लिए बढ़ाया; तेल बाजार में स्थिरता की कोशिश।
-
-### [अमेरिका संग शांति वार्ता के लिए ईरान तैयार?: इस्लामाबाद जाएंगे अराघची, इस हफ्ते के आखिरी में दौरे](https://www.amarujala.com/world/iranian-foreign-minister-abbas-araghchi-expected-to-travel-to-islamabad-by-this-weekend-2026-04-24)
-*Amar Ujala World* - Apr 24, 05:28 IST (iso: 2026-04-23T23:58:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/15/iran-abbas-araghchi_fa5c79bed6afedbf0644e950c78f01f2.jpeg?w=750&dpr=1.0 -->
-
-ईरान के विदेश मंत्री अराघची इस हफ्ते के आखिरी में इस्लामाबाद का दौरा करेंगे। अमेरिका संग शांति वार्ता के लिए ईरान तैयार?: इस्लामाबाद जाएंगे अराघची, इस हफ्ते के आखिरी में दौरे।
-
-### [ईरानी क्राउन प्रिंस पहलवी फेंका गया लाल रंग, युद्धविराम को लेकर कूटनीति पर उठाए थे सवाल](https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3BmOUxhX2ZBYlhHMkNWb1NubkdoYmNJdWh5N1YwVEhKcmU5UkZjSk10UC1zU3BXSDcxRzBvcDBfeHFHbC1rZWQtaTBta1Z1S1hQSWhSY3lRLTBRSEJfeXpZeHlrS2I2U3hkS3VOalRXT1pGN0tIVkZVZ1BFWW5nOF92cHBzbThFeE0xZE0tOGdTLTQ4V3JsNUk2M1YzMG5WWXVveVgzdS0yN2VKUmpDaVZFcUtlYi1NTUhPQmxTdWppMGxsckpXZGdIUQ?oc=5)
-*Google News Hindi (कूटनीति)* - Apr 24, 00:31 IST (iso: 2026-04-23T19:01:00+00:00)
-<!-- image: https://images.pexels.com/photos/36899431/pexels-photo-36899431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-ईरानी क्राउन प्रिंस पहलवी पर एक कार्यक्रम में लाल रंग फेंका गया. उन्होंने युद्धविराम को लेकर कूटनीति पर सवाल उठाए थे. यह घटना एक सार्वजनिक सभा में हुई. ईरानी क्राउन प्रिंस पहलवी फेंका गया लाल रंग, युद्धविराम को लेकर कूटनीति पर उठाए थे सवाल Jagran।
 
 ### [दक्षिणी लेबनान में यूएन सहायता मिशन का दौरा, हर क़दम पर तबाही के चिन्ह](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nM2YtV2pRX09NS3Rkb2NGSTFqcXJxc1NLYVMwUWlRaFhtZi00QlRLZG9hY3Qybk01R2tpcmdFOUFpOUNnN1ozaThXc3M3MzNYY3NyXy0yaw?oc=5)
 *Google News Hindi (संयुक्त राष्ट्र)* - Apr 23, 23:20 IST (iso: 2026-04-23T17:50:53+00:00)
@@ -86,67 +142,15 @@
 
 ईरान पर अमेरिका-इज़रायल हमलों का 54वां दिन है, जहां संघर्षविराम के बीच अविश्वास और हमले जारी हैं। कूटनीति की स्थिति अनिश्चित बनी हुई है, जैसा कि The Wire - Hindi में बताया गया है।
 
-### [युद्ध के लिए तैयार ट्रंप, ईरान ने दी चेतावनी- एक और नरक बना देंगे](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTFqY0NBemdmWkF1bWZORDNza0FtcXp1ZGxLbnhIUWJVbWNlOGdiLTJEZmZLeXBRWmItc25GZ3RPeGRwcGhhS3hpUVNPOWUtbUQ2amxqSHZaV1FxY216UkxvMGdQOS1NaEhEMnpWNy03NmlMRWw1ZjJGeG11VXB2ZTRxR21SaGlla2E2aG9wdnVkOGxOQW9SNlpBX0liTnc3NF9zOGhTdmlBb2RJMEE?oc=5)
-*Google News Hindi (युद्ध संघर्ष)* - Apr 21, 23:53 IST (iso: 2026-04-21T18:23:00+00:00)
-<!-- image: https://images.pexels.com/photos/5483517/pexels-photo-5483517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि वह ईरान के साथ युद्ध के लिए तैयार हैं. ईरान ने चेतावनी दी कि अगर अमेरिका ने हमला किया तो वह एक और नरक बनाएंगे. यह बयान अमेरिका-ईरान संघर्ष के बीच आया है.
-
-### [ईरान ने कई बार संघर्ष-विराम तोड़ा: ट्रंप के बयान का मतलब क्या? इस्लामाबाद शांति वार्ता पर संकट](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbWtDaHdhTW5KZi05RzJIWnZsS1pCVVowZFRxVGJfeGxSS0xaMGp2QnNvZ1VxTlVkaFN4dDE0T3RnMnBJR2tNRHRjRVZUaXltSW40TGtmTFJLRmJqcFRHaTNhWkwxdVZGMHlQOVJkdlV3Wk42bFVZRXd4aGxrb2EzT28zUzg5QlhGdlVPUTFuZ3RpNEpIUE9sZm1qMHE1ajVCcGMxWFVQMWR5VW8xWGYxaE9iUmlRNWtaUmlsVm52aXpPUVg2cEozUUc5SW5RUU5USVcteklMb25sRVVXSE5JN01zMEFFbTJ0a2ZVZm5NNllhOWlET0psZkxWONIBgAJBVV95cUxNaWpIajdsb0tncnlENm5JTXRHR3BvOTl5TGR0eUJsZkUzOFpwdkZEbzc0T21LTDZ2TjEzZkFDOXZkaTJUVWtEbHR2Q0RYS2lmX3htd0xBUlFuR0xWZlFFa3ZzV3FCY240MUZydVpHUl9abmNYM0ZTS2Zvc0k3d0pUT0dDLUdmRmtvc3hhQ2FSbFluQ1B4ZURzbzg2WEVTN1BDMEtXX0p0dXlJMjVfQjFxdi1BSlFkRExDQ2VPOVRsY0hZLXN3RnByVFlpeU96QmZBVFd6YW4tZVlmTUM3b1ZrRjdoRTRZb2gxMEZ5NjNPXzc2V1Y3SnUyeUZtd0V5RkdU?oc=5)
-*Google News Hindi (युद्ध संघर्ष)* - Apr 21, 18:34 IST (iso: 2026-04-21T13:04:25+00:00)
-<!-- image: https://images.pexels.com/photos/16033963/pexels-photo-16033963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि ईरान ने कई बार संघर्ष-विराम तोड़ा है. उनके बयान के बाद इस्लामाबाद में होने वाली शांति वार्ता पर संकट के बादल मंडरा रहे हैं. ईरान और अमेरिका के बीच तनाव बढ़ रहा है.
-
 ---
 
-## एशिया-प्रशांत
+## यूरोप और रूस
 
-### [संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHFqZ0Zmd2RpSXZvamRQcGJDcFpuQ1otMXZjSnNCeUNjV29KVkVmZlBBc1JfVFI5QnhnMjNBazFnYWI3Z0hoUnFhaERNQzc4QmpVQUhaZDdnQS05S09neVU1aHZ3M0JjRG5DRXN4Sjlnem15N05Hdm9JN0RrR0t1SFlNRFM2RUdrX0p0Z2Z1Z2xFVmZRRkxXZGJrVHZmMUFLQjlLaU1KX1RiQ3p0UzdheHNn0gG3AUFVX3lxTE9fZkJ5ZnBxUTgwd0VnQm1UT0o0c0FpYmJGeXkteVRxbDhhMWtORDU0YXk4aGh4SVViaEtiX1NRNjhkNkc1a01fSEo5NG5GaGNFN1RuN2VOOGc0cGlDZzM2aXI4cklkaDdPVEhDSUtPdy1DelkzRUl4UkdkdTN5WTZyNElUVGZkamF1Q3YyeUowM1pteU5BWm0zSW5ueUtmM2cyU2hyX19LUWxGNG55TkVCMTQ3MFg5bw?oc=5)
-*Google News Hindi (संयुक्त राष्ट्र)* - Apr 24, 08:33 IST (iso: 2026-04-24T03:03:03+00:00)
-<!-- image: https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+### [ब्रिटेन ने सुधारी 100 साल पुरानी गलती, शहीद भारतीय सैनिकों को अब मिला सम्मान, जानिए पूरा मामला](https://www.amarujala.com/world/britain-rectifies-100-year-old-mistake-martyred-indian-soldiers-finally-receive-honors-know-full-story-2026-04-24)
+*Amar Ujala World* - Apr 24, 08:34 IST (iso: 2026-04-24T03:04:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/05/28/oiparashana-sathara-ma-pahal-bra-bharata-ma-naramata-ltaraga-mayanashasa-darana-ka-parayaga-haaa-tha-bharataya-sana-ka_67b689292e576eb61007671401a6cf38.jpeg?w=750&dpr=1.0 -->
 
-यह यात्रा भारत और संयुक्त राष्ट्र के बीच संबंधों को मजबूत बनाने के लिए महत्वपूर्ण होगी। बेयरबॉक भारत के साथ सहयोग पर चर्चा करेंगी। संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी ThePrint Hindi।
-
-### [सिंधु जल संधि पर भारत के फैसले से तड़प रहा पाकिस्तान, अब UNSC में गिड़गिड़ाया, लागू करने की मांग](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNDVXVEhGRmg2akVZdUZ2ZWhuX1RjdmFGamFGRVRJUUFmaExublZ5SEVzOWluS1p6Ym94Y1dERnM2TDZCMXk3UnNIcU03QU9pREpMSWk4Q1lvOGl6ZE1lZFh4Z1plXzktUE5GNTNta1BiMXZxUE52UEg3dUtSaHY2SFdKYTlMZkdCZVY5SWg4cTBxbDF5dEVmR1A0QWVLUUpFWEtlV0NERVpad3p0RnBsU1JRQWg2VXpBVlJyenlFaFIxdHV0a0k3Wnd5N0lnTUJIQTRGMHIycFo1STJPQnVfMTRB0gHnAUFVX3lxTE9SOXkwMG9GaFZzYk5fUEZMRS1FbkhBamVWUnE4LURFOE12VGVlRGNGQjZRZkdXRW1Ba2tIS0RQMUxLNEJIWHU0UDBVaGRmc0pCdlVBVzJMVlVtbzBuaTJkT3dxWklGNGVxMzBjZ0IxamdrdmlWbi1tallvMVQzSUpmanZRNmg5TWJIS1FXWk1VakFHQTcyS0NmNnhqVkZ5SzhCdXMxRVYyWWdwMEVkbE9acExkZXRmdEtLZ2E3Smdwd1B1NnJKcC00cllOTXdCX3F1RzJkcGRyVEJxenk4QXFjMm5GUzJKRQ?oc=5)
-*Google News Hindi (संयुक्त राष्ट्र)* - Apr 24, 08:16 IST (iso: 2026-04-24T02:46:15+00:00)
-<!-- image: https://images.pexels.com/photos/12811599/pexels-photo-12811599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-पाकिस्तान ने संयुक्त राष्ट्र सुरक्षा परिषद में सिंधु जल संधि को लागू करने की मांग की है। भारत के फैसले से पाकिस्तान परेशान है। इस मुद्दे पर पाकिस्तान की चिंता बढ़ गई है।
-
-### [भारत ने कहा- सुरक्षा परिषद के ढांचे में तत्काल व्यापक सुधार जरूरी, यह समय की मांग](https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHYySzhQU0lzek14MkxZWnlDalFVSDh1b2k0Ym1HTGRQUTJybGJkblFhNndMLVIxZEtucmlHa2JGMTkwbGRBX1FyWTNHczFpYmZVMElpWGFhemU1QjlUWFc1MFZFbHdsZnBnMHV5SkpCU2xSa1lqVGU1WnBtZFJsaWJLTWNOYVFsSzR6d2JUWkJwdmdCWjdWVHl0OXFUeWxKS05WUlEzN21Takdzak5GUVhVXzhST3dlRTJrd2daSTlLSmdiVktoZk1RMFHSAdIBQVVfeXFMTXQ5YktCWWhobGtpUFlKb2hKWDlBSGo4Z0ZReU9BNlRkRVJZRlBsVDZuRG9lNjhiYUJDZzczNFdWcFlEVEVVSWRIZ05XX0lpX0RJd2U2a3VwSjlESGRBanhDRmlHVGQySThNdDBVVF9NTjNLSTFmRkN0SU5GZUJkUE9YZHJrYWt0UnF2T3k1c2V5akJiWWFzWmUzNndvVXFIY3p5UHdBcHJ2SHNhMlRJNXN4Zl81M1BYRUo1MERFa01taG9hQ3llbFluTTMtaGNVWF9R?oc=5)
-*Google News Hindi (संयुक्त राष्ट्र)* - Apr 24, 05:02 IST (iso: 2026-04-23T23:32:03+00:00)
-<!-- image: https://images.pexels.com/photos/19447589/pexels-photo-19447589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-भारत ने संयुक्त राष्ट्र में कहा कि सुरक्षा परिषद के ढांचे में तत्काल सुधार जरूरी है. यह समय की मांग है और परिषद को अधिक प्रतिनिधित्व और प्रभावी बनाने की आवश्यकता है.
-
-### [23 अप्रैल, 2026 को विश्व आर्थिक समाचारों की मुख्य बातें](https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMGVGYjFNWlhmYk9JMURiaXc4dWxEeEx2LWFwQlF1NmFkODhjVXFpeTVyWlEwZXU1SUNNOHpEQzdhcnlZUm5MQnE1ckRvbC1IYndDRDY1WlBCNGVpVngxRnFoRnoyT0p6SFFrSnc0S19zMG9sUXZISTM0Qy1icjg?oc=5)
-*Google News Hindi (विश्व समाचार)* - Apr 23, 19:35 IST (iso: 2026-04-23T14:05:04+00:00)
-<!-- image: https://images.pexels.com/photos/33852218/pexels-photo-33852218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-23 अप्रैल, 2026 को विश्व आर्थिक समाचारों में कई महत्वपूर्ण बातें थीं. इनमें बाजार की स्थिति, व्यापारिक सौदे और आर्थिक रुझान शामिल थे. यह जानकारी विभिन्न स्रोतों से प्राप्त हुई.
-
-### [अस्थिर विश्व में भारत:अर्थनीति, कूटनीति और छवि का पुनर्पाठ](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2Zza2x3a0ZvZ0k2V2Y4MUtjdGZjckw1Y1FYY004UkhGMGx0U0ppUS1jdWxCc0RaMUI5VURwMGRvUnZVNEVicngwWGZRZHNRbWVHQ3FVMTdCY2NqSzlVMk5ZaXA3QU1RQkxMS3pXSGo4aU1yeHQxYkRtR3hBdFFkWDdSbjhCOVMxNG9XcmdQaTlMa1c1MUIza01HbkhzZ2pZTlMwVklLY2w5WkV2azZCN2xESDVVVDJ2UGxQOVFzem5IZ9IBxwFBVV95cUxOanRnVm5kNXpNandHUG9STGVMOEV5UW84UHRrN2p4U0haSzYwZHpvNG5NT0tUSEY3SFh2ZzBlcW5kTEh2UldPdlVYME9pU0dibVdtZFJ2Ti1sQS1SLUdHV2pzYU9vUWh1UVBxOE1wZy1Ubm1Oa29ydGw2TEVsNUt2cV9WZGNzSFF1WDlzN0N2WHlSRmdmUktnaDBnclBSa0tYeW1wWTRoUVA2NjAtZUpYbmFLX3FrbTQzd2NsQ3pSNE1MS196dWx3?oc=5)
-*Google News Hindi (कूटनीति)* - Apr 23, 03:08 IST (iso: 2026-04-22T21:38:31+00:00)
-<!-- image: https://images.pexels.com/photos/19447589/pexels-photo-19447589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-deshbandhu. co. in पर प्रकाशित एक लेख में कहा गया है कि अस्थिर विश्व में भारत को अपनी अर्थनीति, कूटनीति और छवि का पुनर्पाठ करना होगा। यह लेख भारत की वर्तमान स्थिति पर केंद्रित था।
-
-### [पाकिस्तान में 75% हिंदू पीड़ित, निशाने पर 14-18 साल की लड़कियां; टेंशन में UN](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSUdIX0hLVHRNNzB6MVNJRkRVODhzaURwNUxuSWFVRUNBTTllNktacEtzODBsUU1ZZUdPX050a3diWWhuVEJYODFpeWExbkVyNWM0M19EbWprYTZ0U28zcDVYWEp1R0gxWGVVMGVhMnp2NDBQRVJPdlQ3RmNLYkowbE1CSHZ5Ykc0aC04UUpiSWNndnlXT005WmlKTlRZbTZLd2EtQU9QTzZPN04wUzFVNy1xZS1MTlVSdzZNMmNSQ2U4R3FHSTNpU0xmSk12TzRtYlA2TFpnaWFrZE55aThwMGxSY9IB6AFBVV95cUxQczdtSUVWaEItNnJtU2VYUjN1bG1zMjdxLUMzNzE1dW52Z3oySlpEdFk2bFNoMnNIUmQ5Z3A5dkUtVE5pSGhpZDdvNi01NGFLWmxXbk4wX09jT0JxcU5lakMzWUVleS1QNHFuWWE0S2hBMkowSjZaMlBqeHdCaDZEcWVudy1sLXg3SmtEZ3ZRNXpJcWpZZ0hNYy1CaU5ZYUktVXVDOXlpVk1INk5PT3RmZnVucUN2aEJsWU11MDBxNU5SUjhNUnJpNDA1WTQ5Sy03NERlZTEzekpGaGFiMXZOQkRVVmV3Y1lz?oc=5)
-*Google News Hindi (संयुक्त राष्ट्र)* - Apr 22, 23:13 IST (iso: 2026-04-22T17:43:58+00:00)
-<!-- image: https://images.pexels.com/photos/2119559/pexels-photo-2119559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-पाकिस्तान में 75% हिंदू पीड़ित हैं और 14-18 साल की लड़कियां निशाने पर हैं। यह जानकारी Hindustan Hindi News ने दी, जिसके बाद UN भी टेंशन में आ गया है।
-
----
-
-## दुनिया
-
-### [पीएम नेतन्याहू कैंसर से पीड़ित रहे: इस्राइली प्रधानमंत्री ने कब और कैसे कराया अपना इलाज? खुद किया](https://www.amarujala.com/world/benjamin-netanyahu-on-health-update-prostate-cancer-medical-report-2026-04-24)
-*Amar Ujala World* - Apr 24, 05:37 IST (iso: 2026-04-24T00:07:57+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/24/kasara-para-kaya-bl-natanayaha_0c8320643fd29e8d95e22a92b63701a5.jpeg?w=750&dpr=1.0 -->
-
-इस्राइली प्रधानमंत्री नेतन्याहू कैंसर से पीड़ित रहे और उन्होंने खुद अपना इलाज कराया। पीएम नेतन्याहू कैंसर से पीड़ित रहे!: इस्राइली प्रधानमंत्री ने कब और कैसे कराया अपना इलाज? खुद किया इसका खुलासा।
+ब्रिटेन ने 100 साल पुरानी गलती सुधारी है। शहीद भारतीय सैनिकों को अब सम्मान मिला है। यह ब्रिटेन की ओर से एक महत्वपूर्ण कदम है। UK: ब्रिटेन ने सुधारी 100 साल पुरानी गलती, शहीद भारतीय सैनिकों को मिला अब सम्मान, जानिए पूरा मामला।
 
 ---
 
