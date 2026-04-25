@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-04-25T09:56:40.106120+00:00",
+  "generated_at": "2026-04-25T10:47:16.570631+00:00",
   "article_count": 42,
-  "total_unique_count": 252,
+  "total_unique_count": 251,
   "digest": {
-    "en": "Russian attacks on Ukraine killed five and injured 30 overnight. Europe is preparing for a longer war in Ukraine with no clear strategy to end it. US and Iran officials are set to hold talks in Pakistan, while Iranian and Pakistani officials met in Islamabad.",
-    "hi": "अमेरिकी युद्धपोत USS राफेल पेराल्टा ने ईरानी जहाज को रोका। सेंटकॉम ने इसकी पुष्टि की। ईरान के साथ तनाव के बीच पश्चिम एशिया में यूएस ने बड़ी सेना उतारी है।"
+    "en": "US envoys, including Jason Greenblatt and Jared Kushner, are traveling to Pakistan for talks on Iran. A major Russian attack on Ukraine has resulted in seven deaths. Bangladesh has issued a nationwide security alert due to possible militant attacks.",
+    "hi": "अमेरिकी राष्ट्रपति चुनाव में डोनाल्ड ट्रंप के हमलों पर भारत की प्रतिक्रिया संतुलित रही है। भारत ने न तो खुलकर समर्थन किया है और न ही आलोचना की है। इस बीच, अमेरिकी चुनावों में ट्रंप की संभावनाओं पर चिंता जताई जा रही है।"
   },
   "articles": [
+    {
+      "title": "Witkoff and Kushner to Travel to Pakistan for Talks on Iran",
+      "url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-25T10:26:18+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/25/multimedia/25israel-iran-promo-0445EST-tbgj/25israel-iran-promo-0445EST-tbgj-mediumSquareAt3X.jpg",
+      "summary": "Witkoff and Kushner will travel to Pakistan for talks on Iran. Witkoff and Kushner to Travel to Pakistan for Talks on Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-04-25T10:24:50+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1d9/live/e47f40a0-408c-11f1-8d6e-339f25b16267.jpg",
+      "summary": "Seven people died in a Russian attack on Ukraine. Dnipro was hardest hit. Seven dead in major Russian attack on Ukraine.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US envoys head to Pakistan for Iran war talks",
+      "url": "https://www.channelnewsasia.com/world/us-pakistan-iran-envoys-war-talks-steve-witkoff-jared-kushner-6080716",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-25T10:17:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--tP-bWJ1p--/c_crop,h_900,w_1600,x_0,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/25/000_a7hg446.jpg?itok=xdmqxRXQ",
+      "summary": "US envoys are heading to Pakistan for Iran war talks. The US is \"looking for a face-saving way to escape the war quagmire it has become trapped in\", says Iran's defence ministry.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "850 Of Elon Musk's Recent X Posts On Discrimination Against White People",
+      "url": "https://www.ndtv.com/world-news/850-of-elon-musks-recent-x-posts-on-discrimination-against-white-people-11406839#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-25T09:46:54+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-03/kds1c9jc_elon-musk_625x300_28_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Elon Musk posted 850 times on X about discrimination against white people. Musk's focus on race has also drawn criticism from some of his former supporters. 850 Of Elon Musk's Recent X Posts On Discrimination Against White People.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Bangladesh issues nationwide security alert over possible militant attacks",
+      "url": "https://www.thehindu.com/news/international/bangladesh-issues-nationwide-security-alert-over-possible-militant-attacks/article70904952.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-25T09:39:08+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/h37q8p/article70905007.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_58527.jpg",
+      "summary": "Bangladesh issued a nationwide security alert due to possible militant attacks. \"The alert has been issued based on intelligence reports,” a police headquarters (PHQ) official said, requesting anonymity. The official described the alert as “urgent and confidential”.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "No Degree? No Platform. China Fines Fake Finance Gurus $14,000 And Deletes Their Accounts",
+      "url": "https://www.ndtv.com/world-news/no-degree-no-platform-china-fines-fake-finance-gurus-14-000-and-deletes-their-accounts-11407579#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-25T09:38:22+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/2sb0u2ds_the-punishment-for-breaking-these-rules-is-serious-_625x300_25_April_26.jpeg",
+      "summary": "China fined fake finance gurus $14,000 and deleted their social media accounts after new influencer rules took effect, triggering severe consequences across the digital economy. China changed influencer rules, triggering severe consequences across digital economy.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown",
       "url": "https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html",
@@ -20,13 +92,25 @@
       "translations": {}
     },
     {
-      "title": "Gujarati Woman Shot At US Grocery Store, Husband Arrested For Illegal Gun Use",
-      "url": "https://www.ndtv.com/world-news/gujarati-woman-shot-at-us-grocery-store-husband-arrested-for-illegal-gun-use-11406735#publisher=newsstand",
+      "title": "Gunmen stage simultaneous attacks across Mali, army says",
+      "url": "https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-25T09:21:24+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-25T092444Z_470345488_RC26WKAN78NT_RTRMADP_3_MALI-SECURITY-1777109511.jpg?resize=1920%2C1440",
+      "summary": "Gunmen staged simultaneous attacks across Mali, targeting the capital Bamako and several other locations in an apparently coordinated assault involving multiple groups. Capital Bamako and several other locations hit in an apparently coordinated ⁠assault involving multiple groups.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "2nd Round Of Talks In Pakistan Today, Commercial Flights Resume In Tehran",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand",
       "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-04-25T09:07:12+00:00",
-      "image_url": "https://c.ndtvimg.com/2018-09/hms9qqjc_us-police-generic_625x300_14_September_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Sharad Gajera was arrested for illegal gun use after his wife was shot at a US grocery store. No court date has been set yet for Sharad Gajera. Gujarati Woman Shot At US Grocery Store, Husband Arrested For Illegal Gun Use.",
+      "published_at": "2026-04-25T09:04:43+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/ab63si2s_pak-talks_625x300_25_April_26.jpeg",
+      "summary": "Commercial flights resumed in Tehran as US-Iran tensions eased, coinciding with a second round of talks between the two nations. US-Iran War News Live Update:. 2nd Round Of Talks In Pakistan Today, Commercial Flights Resume In Tehran.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -80,6 +164,18 @@
       "translations": {}
     },
     {
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-04-25T08:53:15+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fc6/live/17495f90-4072-11f1-83f8-e39ccdeebf3b.jpg",
+      "summary": "Palestinians in the West Bank and one Gazan city voted in local elections, with Hamas and other groups boycotting the process. Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Iran executes man over 'mission' for Israel's spy agency",
       "url": "https://www.thehindu.com/news/international/iran-executes-man-over-mission-for-israels-spy-agency/article70904834.ece",
       "source": "The Hindu (International)",
@@ -87,6 +183,18 @@
       "published_at": "2026-04-25T08:52:42+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/6veln5/article70904853.ece/alternates/LANDSCAPE_1200/Trump_Iran_The_Changing_Rationale_90343.jpg",
       "summary": "Iran executed Erfan Kiani for allegedly working with Israel's spy agency. Erfan Kiani was hanged after his sentence was upheld by the country's Supreme Court, the judiciary's Mizan Online website said.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran Foreign Minister Araghchi meets Pakistan Army chief Munir",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-25T08:50:30+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/fwqxr2/article70904907.ece/alternates/LANDSCAPE_1200/Iran_War_125_8.jpg",
+      "summary": "Iran's Foreign Minister Araghchi met with Pakistan's Army chief Munir, coinciding with the resumption of commercial flights from Tehran's international airport after a two-month hiatus. Iran resumes commercial flights from Tehran’s international airport for the first time since the conflict with the U. S.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -100,18 +208,6 @@
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-25T070631Z_212452774_RC24WKA4KB5B_RTRMADP_3_UKRAINE-CRISIS-ATTACK-DNIPRO-1777102699.jpg?resize=1920%2C1440",
       "summary": "Russia launched over 600 drones and 47 missiles at Ukraine, killing five and injuring 30 in eight regions. Russia launched more than 600 drones and 47 missiles as it targeted eight regions in Dnipro, authorities say.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Polls open in Gaza area in first municipal election in 20 years",
-      "url": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-25T08:37:39+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69ec66361f99-1777100342.jpg?resize=1920%2C1440",
-      "summary": "Polls opened in Gaza's Deir el-Balah for the first municipal election in 20 years. Gaza officials say Deir el-Balah vote is a 'pilot', while occupied West Bank also goes to first polls since 2023 war.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -140,54 +236,6 @@
       "translations": {}
     },
     {
-      "title": "Australia and New Zealand gather in Turkiye to commemorate WWI battle",
-      "url": "https://www.thehindu.com/news/international/australia-and-new-zealand-gather-in-turkiye-to-commemorate-wwi-battle/article70904704.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-25T08:20:30+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/uqglyw/article70904742.ece/alternates/LANDSCAPE_1200/Turkey_ANZAC_Day_32434.jpg",
-      "summary": "Australia and New Zealand commemorated a WWI battle in Turkiye with hymns, prayers, and wreath-laying ceremonies. The hour-long event included mournful hymns, prayers and the laying of wreaths by the participants, which included representatives from many countries around the world.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "'Panda bond' continues as China sends giant pandas to US zoo",
-      "url": "https://www.channelnewsasia.com/east-asia/panda-bond-continues-china-sends-giant-pandas-us-zoo-6080631",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-25T08:20:17+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--hxkMvIrV--/c_crop,h_562,w_1000,x_0,y_0/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/China_US_Pandas_86897.jpg?itok=UE_u8-G0",
-      "summary": "China is sending two giant pandas to the Atlanta zoo under a 10-year conservation deal. The pandas will be on loan from China for the next decade. Two giant pandas from China are headed to Atlanta on a new 10-year conservation deal.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "OpenAI chief apologizes for not reporting shooting suspect to police",
-      "url": "https://www.channelnewsasia.com/business/openai-chief-apologizes-not-reporting-shooting-suspect-police-6080661",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-25T08:15:58+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--u_47oLFv--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-25T081515Z_1_LYNXMPEM3O0C9_RTROPTP_3_USA-BLACKROCK.JPG?itok=bQLRFhoq",
-      "summary": "OpenAI's chief executive has apologized for not reporting a shooting suspect to the police. The executive said the company should have contacted authorities sooner. OpenAI chief apologizes for not reporting shooting suspect to police.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Major Russian attack on Ukraine kills four, wounds dozens",
-      "url": "https://www.thehindu.com/news/international/major-russian-attack-on-ukraine-kills-wounds-dozens/article70904775.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-25T08:13:53+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/673t30/article70904823.ece/alternates/LANDSCAPE_1200/2026-04-25T070328Z_512216774_RC27WKA3IY8A_RTRMADP_3_UKRAINE-CRISIS-ATTACK-DNIPRO.JPG",
-      "summary": "Russia launched a major attack on Ukraine, killing four and wounding dozens with drones and missiles. Russia has been launching smaller ⁠barrages of dozens of drones every night at Ukraine, interspersing them ‌with occasional large-scale attacks that use hundreds of drones and dozens of missiles.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Ireland to demand Israel pay for settler demolition of Palestinian school",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss",
       "source": "Al Jazeera",
@@ -207,54 +255,6 @@
       "published_at": "2026-04-25T08:04:23+00:00",
       "image_url": "https://images.indianexpress.com/2026/03/Untitled-design-4-5_20241115164236_20241224193046_20250103162102_20250123181548_20260314100736.jpg",
       "summary": "Iran has executed an atomic agency worker accused of spying and hanged a protester amid a widening crackdown. The executions come as tensions between Iran and the West escalate. Iran executes atomic agency worker over ‘spying’ charge, hangs protester as crackdown intensifies.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "No clarity on U.S.-Iran talks as Islamabad stays under lockdown",
-      "url": "https://www.thehindu.com/news/international/no-clarity-on-us-iran-talks-as-islamabad-stays-under-lockdown/article70904595.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-25T08:03:01+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/ufwcb6/article70904648.ece/alternates/LANDSCAPE_1200/Pakistan_US_Iran__2328.jpg",
-      "summary": "Pakistan's Deputy Prime Minister expressed hope for meaningful engagements between the US and Iran to promote regional peace and stability. Pakistan's Deputy Prime Minister and Foreign Minister Dar, in a social media post, expressed hope for \"meaningful engagements\" between the two warring parties to promote regional peace and stability.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Romania says drone fragments damage property during overnight Russian attack on Ukraine",
-      "url": "https://www.thehindu.com/news/international/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-on-ukraine/article70904581.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-25T07:53:34+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/h35u88/article70904641.ece/alternates/LANDSCAPE_1200/Romania_Defense_SAFE_863_2.jpg",
-      "summary": "Romania's Defence Ministry condemned Russia's overnight attack on Ukraine, which damaged property with drone fragments, posing a new challenge to regional security. The Defence Ministry firmly condemns the irresponsible actions of the Russian Federation and emphasises that these represent ​a new challenge ‌to regional security and stability in the Black Sea area.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US says two killed in boat strike as toll climbs over 180",
-      "url": "https://www.channelnewsasia.com/world/us-boat-strike-alleged-drug-trafficking-vessel-narco-toll-180-6080636",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-25T07:53:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--uh036XbZ--/c_crop,h_532,w_945,x_4,y_0/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/25/screenshot_2026-04-25_155014.png?itok=DYqk0q-P",
-      "summary": "The US military conducted a strike on a vessel, killing two, with a toll over 180. The military \"conducted a lethal kinetic strike on a vessel operated by Designated Terrorist Organizations\", the US Southern Command said.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S. negotiators to go to Islamabad, but Iran says no direct talks",
-      "url": "https://www.thehindu.com/news/international/us-negotiators-to-go-to-islamabad-but-iran-says-no-direct-talks/article70904574.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-25T07:48:48+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/a0ztru/article70904590.ece/alternates/LANDSCAPE_1200/2026-04-12T021416Z_86610405_RC2ENKANGVVF_RTRMADP_3_IRAN-CRISIS-CEASEFIRE-PAKISTAN.JPG",
-      "summary": "US negotiators are set to travel to Islamabad for talks with Pakistan, but Iran has ruled out direct negotiations with the US. U. S. negotiators to go to Islamabad, but Iran says no direct talks.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -296,6 +296,24 @@
       }
     },
     {
+      "title": "इटली की पीएम जॉर्जिया मेलोनी ने पहने भारतीय झुमके, इस्टा पर शेयर की सेल्फी; अबतक आए 4.23 लाख लाइक्स",
+      "url": "https://www.amarujala.com/world/italian-pm-giorgia-meloni-wears-indian-earrings-shares-selfie-on-instagram-2026-04-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-25T06:17:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/jarajaya-malna_4f1e2591de416f8db6d9f79200bf17db.jpeg?w=750&dpr=1.0",
+      "summary": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने इंस्टाग्राम पर एक सेल्फी शेयर की, जिसमें उन्होंने भारतीय झुमके पहने हुए थे। इस पोस्ट को 4.23 लाख से अधिक लाइक्स मिले हैं। मेलोनी की इस पोस्ट ने सोशल मीडिया पर ध्यान आकर्षित किया है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इटली की पीएम जॉर्जिया मेलोनी ने पहने भारतीय झुमके, इस्टा पर शेयर की सेल्फी; अबतक आए 4.23 लाख लाइक्स",
+          "summary": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने इंस्टाग्राम पर एक सेल्फी शेयर की, जिसमें उन्होंने भारतीय झुमके पहने हुए थे। इस पोस्ट को 4.23 लाख से अधिक लाइक्स मिले हैं। मेलोनी की इस पोस्ट ने सोशल मीडिया पर ध्यान आकर्षित किया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "अमेरिका-ईरान वार्ता पर सस्पेंस कायम; इस्लामाबाद में सख्त लॉकडाउन, सड़कों पर पसरा सन्नाटा",
       "url": "https://www.amarujala.com/world/no-clarity-on-us-iran-peace-talks-as-islamabad-remains-under-tight-security-lockdown-2026-04-25",
       "source": "Amar Ujala World",
@@ -310,6 +328,60 @@
           "title": "अमेरिका-ईरान वार्ता पर सस्पेंस कायम; इस्लामाबाद में सख्त लॉकडाउन, सड़कों पर पसरा सन्नाटा",
           "summary": "अमेरिका-ईरान वार्ता पर सस्पेंस बना हुआ है। इस्लामाबाद में सख्त लॉकडाउन है। US-Iran Peace Talks: अमेरिका-ईरान वार्ता पर सस्पेंस कायम; इस्लामाबाद में सख्त लॉकडाउन, सड़कों पर पसरा सन्नाटा।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "यूपी के बांदा में एक दशक तक कई बच्चों से होती रही यौन हिंसा, कैसे खुला मामला: ग्राउंड रिपोर्ट",
+      "url": "https://www.bbc.com/hindi/articles/cn9qnn35r1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-25T05:31:33+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c45/live/5f84aa20-3d94-11f1-92e4-6b980ce20915.jpg",
+      "summary": "उत्तर प्रदेश के बांदा में एक अदालत ने कई बच्चों के यौन शोषण के मामले में दोषी दंपती को मौत की सजा सुनाई। यह मामला एक दशक से अधिक समय से चल रहा था और अदालत ने इसे \"दुर्लभतम दुर्लभ\" माना।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूपी के बांदा में एक दशक तक कई बच्चों से होती रही यौन हिंसा, कैसे खुला मामला: ग्राउंड रिपोर्ट",
+          "summary": "उत्तर प्रदेश के बांदा में एक अदालत ने कई बच्चों के यौन शोषण के मामले में दोषी दंपती को मौत की सजा सुनाई। यह मामला एक दशक से अधिक समय से चल रहा था और अदालत ने इसे \"दुर्लभतम दुर्लभ\" माना।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा! नहीं बन पा रही आपसी सहमति",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTc0eDdoUTUtWV8wNnoxNVNjYklYSUVMTVpBSDhPYmY5eWRyV3FGMWwyWF9fM1pTMU5CT1pTUXBKd0o2ZzA5SG9Pd0R6amluY0Zhb1h6Ym9udi1jTjZ2VTlUWV80N2pTVEdEZHBaRFJEYk9vbWRhV0F4cEF6REtHQlgxQTF6SFp6eHRVclBzazM5Vk04TXB1Q0F3WjZRMnR4ek9hMEJWVzRObTdlZjRDQjFkd1RHU2ZRdng0d1A0LVVERlZHdHduSFJtcHbSAdMBQVVfeXFMTzk4VHg0aVY4dWNBcHFCRklnUnVCZFlSVG51amJaclFlSEI4eXRjeFRGRVRoMzVTQWc2dFZ1dkJ1SXhydmxYeEpqcWppQU1CZjNSbUNmR25BQ0ExaERBWXZrdzlWQXBvdnF2TFFmZFlqZHFIQ3hZVnE0QUgyRDk3cE9FdUhHbUxKOG5UWHliem9YTDAtcW1BR1VVM0tjVEl1bExPSzR1RkROdDFPcEVwWmg1SlZza2plT2RCUHBBbFJpeE1wTkJUYjdFckZiMEkwNEd3OA?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-04-25T04:57:33+00:00",
+      "image_url": "https://images.pexels.com/photos/7278771/pexels-photo-7278771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ब्रिक्स देशों में ईरान, अमेरिका और इजरायल के बीच चल रही जंग का मुद्दा नहीं उठाया जाएगा। आपसी सहमति की कमी के कारण इस मुद्दे पर चर्चा नहीं हो पाएगी। ब्रिक्स देशों के बीच सहमति बनाने के प्रयास जारी हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा! नहीं बन पा रही आपसी सहमति",
+          "summary": "ब्रिक्स देशों में ईरान, अमेरिका और इजरायल के बीच चल रही जंग का मुद्दा नहीं उठाया जाएगा। आपसी सहमति की कमी के कारण इस मुद्दे पर चर्चा नहीं हो पाएगी। ब्रिक्स देशों के बीच सहमति बनाने के प्रयास जारी हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "Miss Sake India 2026 ने भारत-जापान सांस्कृतिक कूटनीति को मज़बूत किया",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2FCSDN5RUcwTXRKbF9FRFRibEk3a09acXl6ZmFZOUxDNHVtZmxnRmxSMXJ5TExmQzg4bTBPT3dfZWxqd0lrY0xramhsT1BVQVRKSGNoNzJLZXV6VFJ0UzNzS3NPaHRPTWZJZW52VHJOMmkxcmVZQWxUaDlyUXptSGtuVkJ1Vzdxdm1Sczd4NTFlVkVkN0hvdURCYw?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-04-25T04:46:13+00:00",
+      "image_url": "https://images.pexels.com/photos/37043518/pexels-photo-37043518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "मिस साके इंडिया 2026 प्रतियोगिता ने भारत-जापान सांस्कृतिक कूटनीति को मजबूत करने में मदद की। यह प्रतियोगिता दोनों देशों के बीच सांस्कृतिक संबंधों को बढ़ावा देने के लिए आयोजित की गई थी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Miss Sake India 2026 ने भारत-जापान सांस्कृतिक कूटनीति को मज़बूत किया",
+          "summary": "मिस साके इंडिया 2026 प्रतियोगिता ने भारत-जापान सांस्कृतिक कूटनीति को मजबूत करने में मदद की। यह प्रतियोगिता दोनों देशों के बीच सांस्कृतिक संबंधों को बढ़ावा देने के लिए आयोजित की गई थी।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -368,6 +440,42 @@
       }
     },
     {
+      "title": "आईटी पेशेवरों को लग सकता है बड़ा झटका: तीन साल के लिए H-1B वीजा पर रोक की तैयारी, प्रस्ताव पेश",
+      "url": "https://www.amarujala.com/world/bill-for-3-year-pause-on-h-1b-visas-introduced-in-us-congress-2026-04-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-25T04:31:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/23/h1-b-visa_6a8cb470fa63218e782317b38f0e70a3.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी कांग्रेस में एक प्रस्ताव पेश किया गया है, जिसमें एच-1बी वीजा पर तीन साल के लिए रोक लगाने का सुझाव दिया गया है। यह प्रस्ताव आईटी पेशेवरों को प्रभावित कर सकता है, जो अक्सर इस वीजा का उपयोग करते हैं।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईटी पेशेवरों को लग सकता है बड़ा झटका: तीन साल के लिए H-1B वीजा पर रोक की तैयारी, प्रस्ताव पेश",
+          "summary": "अमेरिकी कांग्रेस में एक प्रस्ताव पेश किया गया है, जिसमें एच-1बी वीजा पर तीन साल के लिए रोक लगाने का सुझाव दिया गया है। यह प्रस्ताव आईटी पेशेवरों को प्रभावित कर सकता है, जो अक्सर इस वीजा का उपयोग करते हैं।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "'PM मोदी हैं संगठन के सबसे अच्छे प्रतिनिधि', होसबाले का बयान; 2047 में भारत की वैश्विक लीडरशिप का",
+      "url": "https://www.amarujala.com/world/dattatreya-hosabale-says-pm-modi-best-representative-of-rss-values-propagating-them-in-unique-ways-2026-04-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-25T03:58:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/dattatreya-hosabale_e10bcfebd4ad519d74716e484366abe3.jpeg?w=750&dpr=1.0",
+      "summary": "आरएसएस के दत्तात्रेय होसबाले ने कहा कि पीएम मोदी संगठन के सबसे अच्छे प्रतिनिधि हैं और 2047 में भारत की वैश्विक लीडरशिप का दावा किया। होसबाले ने मोदी की नेतृत्व क्षमता की प्रशंसा की।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'PM मोदी हैं संगठन के सबसे अच्छे प्रतिनिधि', होसबाले का बयान; 2047 में भारत की वैश्विक लीडरशिप का",
+          "summary": "आरएसएस के दत्तात्रेय होसबाले ने कहा कि पीएम मोदी संगठन के सबसे अच्छे प्रतिनिधि हैं और 2047 में भारत की वैश्विक लीडरशिप का दावा किया। होसबाले ने मोदी की नेतृत्व क्षमता की प्रशंसा की।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "राघव चड्ढा के नेतृत्व में आप में हुई टूट क्या बीजेपी को फ़ायदा पहुँचा सकती है?",
       "url": "https://www.bbc.com/hindi/articles/c705243k53ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -381,6 +489,24 @@
         "hi": {
           "title": "राघव चड्ढा के नेतृत्व में आप में हुई टूट क्या बीजेपी को फ़ायदा पहुँचा सकती है?",
           "summary": "आम आदमी पार्टी के राज्यसभा सांसद राघव चड्ढा ने बीजेपी में शामिल होने का एलान किया। उनके साथ संदीप पाठक और अशोक मित्तल भी बीजेपी में शामिल हुए। इससे आप को बड़ा झटका लगा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पंजाबः 300 फ़ुट ऊंचे टावर पर 18 महीने तक बिताने वाले गुरजीत सिंह को कैसे उतारा गया",
+      "url": "https://www.bbc.com/hindi/articles/cp3lv9z9zd4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-25T01:28:44+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/71a2/live/0411cd80-4046-11f1-b466-9349bd0aed29.jpg",
+      "summary": "पंजाब में 300 फ़ुट ऊंचे टावर पर 18 महीने से बैठे गुरजीत सिंह को शुक्रवार सुबह 7.45 बजे टावर से नीचे उतारा गया। वह 12 अक्तूबर, 2024 से टावर पर बैठे थे।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पंजाबः 300 फ़ुट ऊंचे टावर पर 18 महीने तक बिताने वाले गुरजीत सिंह को कैसे उतारा गया",
+          "summary": "पंजाब में 300 फ़ुट ऊंचे टावर पर 18 महीने से बैठे गुरजीत सिंह को शुक्रवार सुबह 7.45 बजे टावर से नीचे उतारा गया। वह 12 अक्तूबर, 2024 से टावर पर बैठे थे।",
           "region": "दुनिया"
         }
       }
@@ -404,235 +530,109 @@
       }
     },
     {
-      "title": "दामाद- मुझे आपकी बेटी ने मारा, ससुर का जवाब पढ़कर पेट पकड़कर खूब हंसेंगे आप",
-      "url": "https://www.amarujala.com/photo-gallery/humour/sasur-damad-funny-chutkule-pati-patni-jokes-joke-of-the-day-jija-sali-comedy-jokes-saas-damad-whatsapp-jokes-2026-04-25",
+      "title": "विराट कोहली ने पूरे किए 300 छक्के, रोहित इस स्थान पर मौजूद; लिस्ट में कौन है सबसे आगे?",
+      "url": "https://www.amarujala.com/cricket/cricket-news/most-sixes-in-ipl-history-virat-kohli-reaches-300-sixes-rohit-sharma-position-full-list-all-stats-2026-04-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-24T21:53:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/19/desi-jokes_e652c97b23060d8c2902e52e5b81991d.jpeg?w=750&dpr=1.0",
-      "summary": "एक व्यक्ति ने अपने ससुर को बताया कि उसकी बेटी ने उसे मारा। ससुर ने जवाब दिया जो पढ़कर लोग हंसने लगेंगे। यह घटना लोगों को हंसाने वाली है। लोगों को तनाव से दूर रहने के लिए हंसना चाहिए।",
+      "published_at": "2026-04-24T22:39:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/varata-kahal_a175cf5a10141c9d64d078161fdb0d19.jpeg?w=750&dpr=1.0",
+      "summary": "विराट कोहली ने गुजरात टाइटंस के खिलाफ मैच में 300 छक्के पूरे किए। वह इस उपलब्धि को हासिल करने वाले पहले खिलाड़ी बन गए। गुजरात टाइटंस के खिलाफ शुक्रवार को खेले गए मुकाबले में विराट कोहली ने शानदार प्रदर्शन किया और बड़ी उपलब्धि हासिल कर ली।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दामाद- मुझे आपकी बेटी ने मारा, ससुर का जवाब पढ़कर पेट पकड़कर खूब हंसेंगे आप",
-          "summary": "एक व्यक्ति ने अपने ससुर को बताया कि उसकी बेटी ने उसे मारा। ससुर ने जवाब दिया जो पढ़कर लोग हंसने लगेंगे। यह घटना लोगों को हंसाने वाली है। लोगों को तनाव से दूर रहने के लिए हंसना चाहिए।",
+          "title": "विराट कोहली ने पूरे किए 300 छक्के, रोहित इस स्थान पर मौजूद; लिस्ट में कौन है सबसे आगे?",
+          "summary": "विराट कोहली ने गुजरात टाइटंस के खिलाफ मैच में 300 छक्के पूरे किए। वह इस उपलब्धि को हासिल करने वाले पहले खिलाड़ी बन गए। गुजरात टाइटंस के खिलाफ शुक्रवार को खेले गए मुकाबले में विराट कोहली ने शानदार प्रदर्शन किया और बड़ी उपलब्धि हासिल कर ली।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "‘आप’ सांसदों के झाडू़ छोड़ कमल थामने के मायने!",
-      "url": "https://www.amarujala.com/columns/blog/raghav-chadha-along-with-other-aam-aadmi-party-rajya-sabha-mp-quit-party-2026-04-25",
+      "title": "हॉलीवुड सिंगर रिहाना ने ऐसा क्या कहा? भारतीय फैंस की खुशी का नहीं रहा ठिकाना",
+      "url": "https://www.amarujala.com/web-stories/entertainment/hollywood/rihanna-says-shukriya-to-indian-fans-gesture-wins-hearts-online-2026-04-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-24T21:52:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/24/raghav-chadha-resigns_36b3ec1e873a662fbe12f3c17886b555.jpeg?w=750&dpr=1.0",
-      "summary": "आम आदमी पार्टी के सात राज्यसभा सांसदों ने पार्टी छोड़कर भाजपा में शामिल हो गए। उन्होंने नेता राघव चड्ढा की अगुवाई में यह फैसला लिया। इससे राजनीतिक तूफान खड़ा हो गया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘आप’ सांसदों के झाडू़ छोड़ कमल थामने के मायने!",
-          "summary": "आम आदमी पार्टी के सात राज्यसभा सांसदों ने पार्टी छोड़कर भाजपा में शामिल हो गए। उन्होंने नेता राघव चड्ढा की अगुवाई में यह फैसला लिया। इससे राजनीतिक तूफान खड़ा हो गया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारत के कपड़ा निर्यात में आई गिरावट; 35.8 अरब डॉलर पर पहुंचा कारोबार, जीटीआरआई ने बताई वजह",
-      "url": "https://www.amarujala.com/business/business-diary/india-s-textile-exports-declined-to-more-than-2-percent-according-to-gtri-2026-04-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-24T21:50:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/19/textile-import-ban_d165e3bf9409c2b98d395d9b134ca3bf.jpeg?w=750&dpr=1.0",
-      "summary": "भारत के कपड़ा निर्यात में गिरावट आई है, जो 2 प्रतिशत से अधिक की कमी के साथ 35.8 अरब डॉलर पर पहुंच गया है। जीटीआरआई ने इस गिरावट के कारणों का उल्लेख किया है। निर्यात में गिरावट एक महत्वपूर्ण आर्थिक संकेतक है।",
+      "published_at": "2026-04-24T22:36:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/sagara-rahana_abb50f40c083d59161575576791ecc3e.jpeg?w=750&dpr=1.0",
+      "summary": "हॉलीवुड सिंगर रिहाना ने एक बयान दिया जिसने भारतीय फैंस को खुश कर दिया। उनके बयान की खबरें भारतीय मीडिया में चल रही हैं। हॉलीवुड सिंगर रिहाना ने ऐसा क्या कहा?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत के कपड़ा निर्यात में आई गिरावट; 35.8 अरब डॉलर पर पहुंचा कारोबार, जीटीआरआई ने बताई वजह",
-          "summary": "भारत के कपड़ा निर्यात में गिरावट आई है, जो 2 प्रतिशत से अधिक की कमी के साथ 35.8 अरब डॉलर पर पहुंच गया है। जीटीआरआई ने इस गिरावट के कारणों का उल्लेख किया है। निर्यात में गिरावट एक महत्वपूर्ण आर्थिक संकेतक है।",
+          "title": "हॉलीवुड सिंगर रिहाना ने ऐसा क्या कहा? भारतीय फैंस की खुशी का नहीं रहा ठिकाना",
+          "summary": "हॉलीवुड सिंगर रिहाना ने एक बयान दिया जिसने भारतीय फैंस को खुश कर दिया। उनके बयान की खबरें भारतीय मीडिया में चल रही हैं। हॉलीवुड सिंगर रिहाना ने ऐसा क्या कहा?",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "दिल्ली कैपिटल्स ने पंजाब के खिलाफ जीता टॉस, पहले बल्लेबाजी का लिया फैसला",
+      "title": "चूहे खा गए रिश्वत के पैसे: सुप्रीम कोर्ट भी हैरान, भ्रष्टाचार के मामले में दोषी महिला को दी जमानत",
+      "url": "https://www.amarujala.com/india-news/rats-ate-bribe-money-supreme-court-grants-bail-woman-convicted-corruption-2026-04-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-24T22:33:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/04/bhopal_b4bd6f101506d070328d74d9e32aebe3.jpeg?w=750&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट ने भ्रष्टाचार के मामले में दोषी एक महिला को जमानत दी। महिला के रिश्वत के पैसे चूहे खा गए थे, जिसने कोर्ट को हैरान कर दिया। चूहे खा गए रिश्वत के पैसे: सुप्रीम कोर्ट भी हैरान, भ्रष्टाचार के मामले में दोषी महिला को दी जमानत।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चूहे खा गए रिश्वत के पैसे: सुप्रीम कोर्ट भी हैरान, भ्रष्टाचार के मामले में दोषी महिला को दी जमानत",
+          "summary": "सुप्रीम कोर्ट ने भ्रष्टाचार के मामले में दोषी एक महिला को जमानत दी। महिला के रिश्वत के पैसे चूहे खा गए थे, जिसने कोर्ट को हैरान कर दिया। चूहे खा गए रिश्वत के पैसे: सुप्रीम कोर्ट भी हैरान, भ्रष्टाचार के मामले में दोषी महिला को दी जमानत।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "केएल राहुल और नीतीश राणा की साझेदारी जारी, पावरप्ले में पंजाब को मिली एक सफलता",
       "url": "https://www.amarujala.com/live/cricket/cricket-news/dc-vs-pbks-live-cricket-score-delhi-capitals-vs-punjab-kings-ipl-2026-35th-match-updates-2026-04-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-24T21:50:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/09/pajab-bnama-thall_ccf07464f6405d0fed70a851d9d87561.jpeg?w=750&dpr=1.0",
+      "published_at": "2026-04-24T22:31:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/ipl_b69fe847bcf48f5747e08a005be6a1c8.jpeg?w=750&dpr=1.0",
       "summary": "दिल्ली कैपिटल्स ने पंजाब किंग्स के खिलाफ टॉस जीतकर पहले बल्लेबाजी करने का फैसला किया। यह मैच आईपीएल 2026 का हिस्सा है। दोनों टीमें अपने प्रदर्शन में सुधार के लिए प्रयास करेंगी।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दिल्ली कैपिटल्स ने पंजाब के खिलाफ जीता टॉस, पहले बल्लेबाजी का लिया फैसला",
+          "title": "केएल राहुल और नीतीश राणा की साझेदारी जारी, पावरप्ले में पंजाब को मिली एक सफलता",
           "summary": "दिल्ली कैपिटल्स ने पंजाब किंग्स के खिलाफ टॉस जीतकर पहले बल्लेबाजी करने का फैसला किया। यह मैच आईपीएल 2026 का हिस्सा है। दोनों टीमें अपने प्रदर्शन में सुधार के लिए प्रयास करेंगी।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "‘35 साल पहले सेट पर...’, शादी की सालगिरह पर मोहनीश बहल की पत्नी ने शेयर किया किस्सा; साझा की जश्न",
-      "url": "https://www.amarujala.com/entertainment/bollywood/actor-mohnish-bahl-and-wife-celebrated-34th-wedding-anniversary-arti-bahl-shared-photos-on-social-media-2026-04-25",
+      "title": "मुश्किल समय में अल्कारेज को मिला नडाल और सिनर का साथ, चोट के कारण फ्रेंच से हटने को हुए थे मजबूर",
+      "url": "https://www.amarujala.com/sports/tennis/french-open-nadal-sinner-support-alcaraz-in-difficult-times-who-forced-to-withdraw-from-french-open-2026-04-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-24T21:48:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/mahanasha-bhal-aarata-bhal_91200bca74cf126ed39652e7d800c0d5.jpeg?w=750&dpr=1.0",
-      "summary": "मोहनीश बहल और उनकी पत्नी ने अपनी 34वीं शादी की सालगिरह मनाई। उन्होंने सोशल मीडिया पर अपनी पहली मुलाकात और जश्न के पल साझा किए। उनकी पत्नी ने सेट पर 35 साल पहले की एक यादगार घटना का उल्लेख किया।",
-      "region": "World",
+      "published_at": "2026-04-24T22:24:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/12/atp_21c777035c4519a0b184c378f3ccff59.jpeg?w=750&dpr=1.0",
+      "summary": "स्पेन के टेनिस खिलाड़ी कार्लोस अल्कारेज चोट के कारण फ्रेंच ओपन से बाहर हो गए हैं। राफेल नडाल और सिनर ने उनका समर्थन किया है। नडाल ने भरोसा जताया है कि अल्कारेज मजबूत वापसी करेंगे।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘35 साल पहले सेट पर...’, शादी की सालगिरह पर मोहनीश बहल की पत्नी ने शेयर किया किस्सा; साझा की जश्न",
-          "summary": "मोहनीश बहल और उनकी पत्नी ने अपनी 34वीं शादी की सालगिरह मनाई। उन्होंने सोशल मीडिया पर अपनी पहली मुलाकात और जश्न के पल साझा किए। उनकी पत्नी ने सेट पर 35 साल पहले की एक यादगार घटना का उल्लेख किया।",
-          "region": "दुनिया"
+          "title": "मुश्किल समय में अल्कारेज को मिला नडाल और सिनर का साथ, चोट के कारण फ्रेंच से हटने को हुए थे मजबूर",
+          "summary": "स्पेन के टेनिस खिलाड़ी कार्लोस अल्कारेज चोट के कारण फ्रेंच ओपन से बाहर हो गए हैं। राफेल नडाल और सिनर ने उनका समर्थन किया है। नडाल ने भरोसा जताया है कि अल्कारेज मजबूत वापसी करेंगे।",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "बांग्लादेश में आतंकी हमले की आशंका: खुफिया एजेंसियों ने दी चेतावनी, पुलिस ने देशव्यापी सुरक्षा",
-      "url": "https://www.amarujala.com/world/bangladesh-issues-nationwide-security-alert-over-possible-militant-attacks-news-in-hindi-2026-04-25",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-24T21:43:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/bangladesh-issues-nationwide-security-alert-over-possible-militant-attacks_a537057e06d82644388e03c3cc2e693e.jpeg?w=750&dpr=1.0",
-      "summary": "बांग्लादेश में आतंकी हमले की आशंका के चलते खुफिया एजेंसियों ने चेतावनी दी है। पुलिस ने देशव्यापी सुरक्षा अलर्ट जारी किया है। यह कदम देश में सुरक्षा व्यवस्था को मजबूत करने के लिए उठाया गया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेश में आतंकी हमले की आशंका: खुफिया एजेंसियों ने दी चेतावनी, पुलिस ने देशव्यापी सुरक्षा",
-          "summary": "बांग्लादेश में आतंकी हमले की आशंका के चलते खुफिया एजेंसियों ने चेतावनी दी है। पुलिस ने देशव्यापी सुरक्षा अलर्ट जारी किया है। यह कदम देश में सुरक्षा व्यवस्था को मजबूत करने के लिए उठाया गया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'छावा' से लेकर 'तान्हाजी' तक, 'राजा शिवाजी' से पहले देखें छत्रपति शिवाजी महाराज पर बनी ये फिल्में",
-      "url": "https://www.amarujala.com/entertainment/bollywood/bollywood-movies-on-chhatrapati-shivaji-maharaj-from-chhaava-to-tanhaji-must-watch-list-2026-04-25",
+      "title": "पश्चिम बंगाल के थाने में धमाके से हड़कंप, नोआपाड़ा थाने में तेज आवाज और धुआं",
+      "url": "https://www.amarujala.com/india-news/west-bengal-noapara-police-station-explosion-hindi-news-updates-barrackpore-tension-amid-assembly-elections-2026-04-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-24T21:42:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/chhatarapata-shavaja-maharaja-para-falma_2625674e8e5315c47140852b6c2d0623.jpeg?w=750&dpr=1.0",
-      "summary": "'राजा शिवाजी' फिल्म से पहले, छत्रपति शिवाजी महाराज पर बनी कई फिल्में हैं जिन्हें देखना चाहिए। इनमें 'छावा' और 'तान्हाजी' शामिल हैं। ये फिल्में मराठा इतिहास और शिवाजी महाराज के जीवन से जुड़ी कहानियों को दर्शाती हैं।",
+      "published_at": "2026-04-24T22:04:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/11/18/brakaga_6f01cbbd132529134e9aedc20b80a963.jpeg?w=750&dpr=1.0",
+      "summary": "पश्चिम बंगाल के नोआपाड़ा थाने में धमाका हुआ, जिससे तेज आवाज और धुआं फैल गया। इस घटना से थाने में हड़कंप मच गया। घटना के विवरण की जांच की जा रही है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'छावा' से लेकर 'तान्हाजी' तक, 'राजा शिवाजी' से पहले देखें छत्रपति शिवाजी महाराज पर बनी ये फिल्में",
-          "summary": "'राजा शिवाजी' फिल्म से पहले, छत्रपति शिवाजी महाराज पर बनी कई फिल्में हैं जिन्हें देखना चाहिए। इनमें 'छावा' और 'तान्हाजी' शामिल हैं। ये फिल्में मराठा इतिहास और शिवाजी महाराज के जीवन से जुड़ी कहानियों को दर्शाती हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शिवसेना विधायक की भाषा पर CM फडणवीस सख्त, कहा- अपमानजनक शब्द स्वीकार्य नहीं",
-      "url": "https://www.amarujala.com/india-news/shivaji-maharaj-book-row-bad-language-by-shiv-sena-mla-not-acceptable-says-cm-fadnavis-2026-04-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-24T21:39:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/29/cabinet-panel-discussing-maratha-quota-will-find-constitutionally-valid-solution-fadnavis_92d8a8efeee5dda253bb2d44d1b9c225.jpeg?w=750&dpr=1.0",
-      "summary": "महाराष्ट्र के मुख्यमंत्री देवेंद्र फडणवीस ने शिवसेना विधायक की भाषा पर सख्त रुख अपनाया, कहा कि अपमानजनक शब्द स्वीकार्य नहीं हैं। यह टिप्पणी शिवाजी महाराज पुस्तक विवाद के दौरान की गई थी। फडणवीस ने विधायक को चेतावनी दी.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शिवसेना विधायक की भाषा पर CM फडणवीस सख्त, कहा- अपमानजनक शब्द स्वीकार्य नहीं",
-          "summary": "महाराष्ट्र के मुख्यमंत्री देवेंद्र फडणवीस ने शिवसेना विधायक की भाषा पर सख्त रुख अपनाया, कहा कि अपमानजनक शब्द स्वीकार्य नहीं हैं। यह टिप्पणी शिवाजी महाराज पुस्तक विवाद के दौरान की गई थी। फडणवीस ने विधायक को चेतावनी दी.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मनीषा कोइराला ने जिगरी दोस्त के साथ बिताया क्वालिटी टाइम",
-      "url": "https://www.amarujala.com/web-stories/entertainment/manisha-koirala-shares-her-stylish-photos-with-best-friend-simi-singh-2026-04-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-24T21:35:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/manashha-kairal-apana-thasata-ka-satha_ebcd44a2a8537554faebdc83625350a7.jpeg?w=750&dpr=1.0",
-      "summary": "मनीषा कोइराला ने अपनी जिगरी दोस्त के साथ क्वालिटी टाइम बिताया। दोनों ने साथ में समय बिताया और अपने रिश्ते को मजबूत किया। मनीषा कोइराला की दोस्ती की तस्वीरें और वीडियो सोशल मीडिया पर वायरल हो रहे हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मनीषा कोइराला ने जिगरी दोस्त के साथ बिताया क्वालिटी टाइम",
-          "summary": "मनीषा कोइराला ने अपनी जिगरी दोस्त के साथ क्वालिटी टाइम बिताया। दोनों ने साथ में समय बिताया और अपने रिश्ते को मजबूत किया। मनीषा कोइराला की दोस्ती की तस्वीरें और वीडियो सोशल मीडिया पर वायरल हो रहे हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सिंगर और भतीजे अमाल ने अन्नू मलिक पर फिर साधा निशाना, बोले- ‘उनको बस आग लगानी है…’",
-      "url": "https://www.amarujala.com/entertainment/bollywood/singer-and-nephew-amaal-mallik-again-targeted-anu-malik-says-he-ruin-family-relationship-2026-04-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-24T21:34:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/sagara-amal-malka_51e113a5ba56510caf975e40630cefa4.jpeg?w=750&dpr=1.0",
-      "summary": "सिंगर अमाल मलिक ने अपने चाचा अनु मलिक पर निशाना साधा, कहा कि अनु मलिक ने अपने ईगो के कारण उनके परिवार को नुकसान पहुंचाया था। अमाल मलिक ने कहा कि अनु मलिक को बस आग लगानी है. उनकी बातें मीडिया में चर्चा में आई हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंगर और भतीजे अमाल ने अन्नू मलिक पर फिर साधा निशाना, बोले- ‘उनको बस आग लगानी है…’",
-          "summary": "सिंगर अमाल मलिक ने अपने चाचा अनु मलिक पर निशाना साधा, कहा कि अनु मलिक ने अपने ईगो के कारण उनके परिवार को नुकसान पहुंचाया था। अमाल मलिक ने कहा कि अनु मलिक को बस आग लगानी है. उनकी बातें मीडिया में चर्चा में आई हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JbzctODRFNGxIb1Z2UURsTFZ3aXNJLWxqWXpoYWVhX3hZcE0xNnBMNF9VU3BXMGU5X1Nfb0pWcURoV203NG9wT2JmVEpnT29fa1dYbWFjdw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-24T21:02:41+00:00",
-      "image_url": "https://images.pexels.com/photos/16705852/pexels-photo-16705852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र मुख्यालय में विश्व में बढ़ते परमाणु खतरों के बीच अहम रक्षा उपाय पर चर्चा हुई। इस बैठक में परमाणु सुरक्षा और खतरों से निपटने के तरीकों पर बात की गई। विश्व नेता इस मुद्दे पर गंभीरता से विचार कर रहे हैं।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा",
-          "summary": "संयुक्त राष्ट्र मुख्यालय में विश्व में बढ़ते परमाणु खतरों के बीच अहम रक्षा उपाय पर चर्चा हुई। इस बैठक में परमाणु सुरक्षा और खतरों से निपटने के तरीकों पर बात की गई। विश्व नेता इस मुद्दे पर गंभीरता से विचार कर रहे हैं।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "शांति वार्ता के लिए तैयार US-ईरान?: शहबाज से मिला ईरानी प्रतिनिधिमंडल, तेहरान ने बातचीत के लिए रखी",
-      "url": "https://www.amarujala.com/world/west-asia-crisis-iran-us-appear-ready-to-communicate-though-direct-talks-on-hold-2026-04-25",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-24T20:00:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/west-asia-crisis-iran-us-appear-ready-to-communicate-though-direct-talks-on-hold_cb657e6f4a21bee71814334c95601119.jpeg?w=750&dpr=1.0",
-      "summary": "ईरानी प्रतिनिधिमंडल ने पाकिस्तान के प्रधानमंत्री शहबाज से मुलाकात की. तेहरान ने बातचीत के लिए शर्तें रखीं हैं, जबकि अमेरिका और ईरान के बीच सीधे वार्ता暫क पर हैं. शांति वार्ता के लिए तैयार US-ईरान?: शहबाज से मिला ईरानी प्रतिनिधिमंडल, तेहरान ने बातचीत के लिए रखी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शांति वार्ता के लिए तैयार US-ईरान?: शहबाज से मिला ईरानी प्रतिनिधिमंडल, तेहरान ने बातचीत के लिए रखी",
-          "summary": "ईरानी प्रतिनिधिमंडल ने पाकिस्तान के प्रधानमंत्री शहबाज से मुलाकात की. तेहरान ने बातचीत के लिए शर्तें रखीं हैं, जबकि अमेरिका और ईरान के बीच सीधे वार्ता暫क पर हैं. शांति वार्ता के लिए तैयार US-ईरान?: शहबाज से मिला ईरानी प्रतिनिधिमंडल, तेहरान ने बातचीत के लिए रखी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "राघव चड्ढा और अन्य सांसदों ने अचानक छोड़ी आम आदमी पार्टी? 'आप' में चल क्या रहा है?",
-      "url": "https://www.bbc.com/hindi/articles/c1eqwp04evxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-24T16:25:54+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d6d/live/3a0ce1e0-3ffb-11f1-a269-2b0eab1d0b0e.jpg",
-      "summary": "आम आदमी पार्टी के सांसद राघव चड्ढा और अन्य ने पार्टी छोड़ दी. इससे पहले पार्टी ने उन्हें महत्वपूर्ण पद और जगह दी थी, लेकिन लगता है कि वे केजरीवाल के साथ तालमेल नहीं बना पाए.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राघव चड्ढा और अन्य सांसदों ने अचानक छोड़ी आम आदमी पार्टी? 'आप' में चल क्या रहा है?",
-          "summary": "आम आदमी पार्टी के सांसद राघव चड्ढा और अन्य ने पार्टी छोड़ दी. इससे पहले पार्टी ने उन्हें महत्वपूर्ण पद और जगह दी थी, लेकिन लगता है कि वे केजरीवाल के साथ तालमेल नहीं बना पाए.",
+          "title": "पश्चिम बंगाल के थाने में धमाके से हड़कंप, नोआपाड़ा थाने में तेज आवाज और धुआं",
+          "summary": "पश्चिम बंगाल के नोआपाड़ा थाने में धमाका हुआ, जिससे तेज आवाज और धुआं फैल गया। इस घटना से थाने में हड़कंप मच गया। घटना के विवरण की जांच की जा रही है।",
           "region": "दुनिया"
         }
       }
