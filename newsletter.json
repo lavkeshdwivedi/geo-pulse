@@ -1,12 +1,180 @@
 {
-  "generated_at": "2026-04-25T08:56:39.946211+00:00",
+  "generated_at": "2026-04-25T09:56:40.106120+00:00",
   "article_count": 42,
-  "total_unique_count": 253,
+  "total_unique_count": 252,
   "digest": {
-    "en": "A major Russian attack on Ukraine has killed four and wounded dozens. Ireland is demanding Israel pay for the demolition of a Palestinian school by settlers. Romania reported drone fragments damaged property during the overnight Russian attack on Ukraine.",
-    "hi": "अमेरिका और इस्राइल के हमले में ईरान के शरीर को नुकसान की खबर है। CIA और मोसाद ढूंढने में नाकाम रहे हैं। इस बीच, अमेरिका-ईरान वार्ता पर सस्पेंस कायम है और इस्लामाबाद में सख्त लॉकडाउन के कारण सड़कों पर सन्नाटा पसरा हुआ है।"
+    "en": "Russian attacks on Ukraine killed five and injured 30 overnight. Europe is preparing for a longer war in Ukraine with no clear strategy to end it. US and Iran officials are set to hold talks in Pakistan, while Iranian and Pakistani officials met in Islamabad.",
+    "hi": "अमेरिकी युद्धपोत USS राफेल पेराल्टा ने ईरानी जहाज को रोका। सेंटकॉम ने इसकी पुष्टि की। ईरान के साथ तनाव के बीच पश्चिम एशिया में यूएस ने बड़ी सेना उतारी है।"
   },
   "articles": [
+    {
+      "title": "The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown",
+      "url": "https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-25T09:32:18+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/25/multimedia/25france-ice-01-wtcm/25france-ice-01-wtcm-mediumSquareAt3X.jpg",
+      "summary": "Marie-Thérèse Ross-Mahé, an 85-year-old French widow of a former G. I., was deported from the US under Trump's immigration crackdown. In her first interview since being deported, she recounted her experience in ICE detention.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Gujarati Woman Shot At US Grocery Store, Husband Arrested For Illegal Gun Use",
+      "url": "https://www.ndtv.com/world-news/gujarati-woman-shot-at-us-grocery-store-husband-arrested-for-illegal-gun-use-11406735#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-25T09:07:12+00:00",
+      "image_url": "https://c.ndtvimg.com/2018-09/hms9qqjc_us-police-generic_625x300_14_September_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Sharad Gajera was arrested for illegal gun use after his wife was shot at a US grocery store. No court date has been set yet for Sharad Gajera. Gujarati Woman Shot At US Grocery Store, Husband Arrested For Illegal Gun Use.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Europe Prepares for a Longer War in Ukraine, With No Strategy to End It",
+      "url": "https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-25T09:02:31+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/25/multimedia/25int-ukraine-europe-adrift-assess-mhzt/25int-ukraine-europe-adrift-assess-mhzt-mediumSquareAt3X.jpg",
+      "summary": "Europe prepares for a longer war in Ukraine with no clear path to victory or peace. With American dealmakers wrapped up with Iran, neither Russia nor Ukraine has a clear path to victory.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US, Iran To Hold 2nd Round Of Talks In Pakistan Today. What's On Agenda?",
+      "url": "https://www.ndtv.com/world-news/iran-us-to-hold-2nd-round-of-peace-talks-in-pakistan-as-delicate-ceasefire-holds-11406638#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-25T09:00:42+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/u32div1s_iran-us-talks_625x300_12_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Iran and the US will hold a second round of peace talks in Pakistan. The previous round occurred on April 11-12, amid a delicate ceasefire. The previous round of talks was held on April 11-12.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
+      "url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-04-25T09:00:41+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/e8156517a54fa1b3b8e7629e6c28b0792f291a7a/248_0_2504_2004/master/2504.jpg?width=140&quality=85&auto=format&fit=max&s=579e2320140c1f419daf8ba90d40fecc",
+      "summary": "Researchers found a new bacteria species in noma patients that could lead to better treatments.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Top Iranian and Pakistani officials meet in Islamabad",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-25T08:57:17+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777107405.jpg?resize=1920%2C1080&quality=80",
+      "summary": "Iran's FM Abbas Araghchi met Pakistani officials in Islamabad for talks. Iran’s FM Abbas Araghchi is in Islamabad for talks with Pakistani officials, as US envoys are also set to arrive.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran executes man over 'mission' for Israel's spy agency",
+      "url": "https://www.thehindu.com/news/international/iran-executes-man-over-mission-for-israels-spy-agency/article70904834.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-25T08:52:42+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/6veln5/article70904853.ece/alternates/LANDSCAPE_1200/Trump_Iran_The_Changing_Rationale_90343.jpg",
+      "summary": "Iran executed Erfan Kiani for allegedly working with Israel's spy agency. Erfan Kiani was hanged after his sentence was upheld by the country's Supreme Court, the judiciary's Mizan Online website said.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Overnight Russian attacks on Ukraine kill five, injure 30",
+      "url": "https://www.aljazeera.com/news/2026/4/25/overnight-russian-attacks-on-ukraine-kill-five-wound-over-30?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-25T08:44:56+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-25T070631Z_212452774_RC24WKA4KB5B_RTRMADP_3_UKRAINE-CRISIS-ATTACK-DNIPRO-1777102699.jpg?resize=1920%2C1440",
+      "summary": "Russia launched over 600 drones and 47 missiles at Ukraine, killing five and injuring 30 in eight regions. Russia launched more than 600 drones and 47 missiles as it targeted eight regions in Dnipro, authorities say.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Polls open in Gaza area in first municipal election in 20 years",
+      "url": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-25T08:37:39+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69ec66361f99-1777100342.jpg?resize=1920%2C1440",
+      "summary": "Polls opened in Gaza's Deir el-Balah for the first municipal election in 20 years. Gaza officials say Deir el-Balah vote is a 'pilot', while occupied West Bank also goes to first polls since 2023 war.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran resumes commercial flights from Tehran’s international airport for first time since conflict",
+      "url": "https://www.thehindu.com/news/international/iran-resumes-commercial-flights-from-tehrans-international-airport-for-first-time-since-conflict/article70904871.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-25T08:29:40+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/yz21vw/article70904892.ece/alternates/LANDSCAPE_1200/2026-04-25T071224Z_1420300705_RC23WKA9PSDX_RTRMADP_3_IRAN-CRISIS.JPG",
+      "summary": "Iran resumed commercial flights from Tehran's international airport after a two-month halt due to conflict. Iran has resumed commercial flights from Tehran’s international airport for the first time since the conflict with the U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "On Iran’s Border, Cooking Oil Trade Is a Snapshot of the Country’s Struggles",
+      "url": "https://www.nytimes.com/2026/04/25/world/middleeast/iran-turkey-cooking-oil.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-25T08:26:53+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/25/multimedia/25int-iran-hardship-plcb/25int-iran-hardship-plcb-mediumSquareAt3X.jpg",
+      "summary": "Iran's economic crisis has forced many to cross into Turkey to buy basic goods like cooking oil. The war has exacerbated Iran’s economic crisis, forcing many to cross the border into Turkey to buy the most basic goods.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Australia and New Zealand gather in Turkiye to commemorate WWI battle",
+      "url": "https://www.thehindu.com/news/international/australia-and-new-zealand-gather-in-turkiye-to-commemorate-wwi-battle/article70904704.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-25T08:20:30+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/uqglyw/article70904742.ece/alternates/LANDSCAPE_1200/Turkey_ANZAC_Day_32434.jpg",
+      "summary": "Australia and New Zealand commemorated a WWI battle in Turkiye with hymns, prayers, and wreath-laying ceremonies. The hour-long event included mournful hymns, prayers and the laying of wreaths by the participants, which included representatives from many countries around the world.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'Panda bond' continues as China sends giant pandas to US zoo",
+      "url": "https://www.channelnewsasia.com/east-asia/panda-bond-continues-china-sends-giant-pandas-us-zoo-6080631",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-25T08:20:17+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--hxkMvIrV--/c_crop,h_562,w_1000,x_0,y_0/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/China_US_Pandas_86897.jpg?itok=UE_u8-G0",
+      "summary": "China is sending two giant pandas to the Atlanta zoo under a 10-year conservation deal. The pandas will be on loan from China for the next decade. Two giant pandas from China are headed to Atlanta on a new 10-year conservation deal.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "OpenAI chief apologizes for not reporting shooting suspect to police",
+      "url": "https://www.channelnewsasia.com/business/openai-chief-apologizes-not-reporting-shooting-suspect-police-6080661",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-25T08:15:58+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--u_47oLFv--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-25T081515Z_1_LYNXMPEM3O0C9_RTROPTP_3_USA-BLACKROCK.JPG?itok=bQLRFhoq",
+      "summary": "OpenAI's chief executive has apologized for not reporting a shooting suspect to the police. The executive said the company should have contacted authorities sooner. OpenAI chief apologizes for not reporting shooting suspect to police.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Major Russian attack on Ukraine kills four, wounds dozens",
       "url": "https://www.thehindu.com/news/international/major-russian-attack-on-ukraine-kills-wounds-dozens/article70904775.ece",
@@ -32,6 +200,18 @@
       "translations": {}
     },
     {
+      "title": "Iran executes atomic agency worker over ‘spying’ charge, hangs protester as crackdown intensifies",
+      "url": "https://indianexpress.com/article/world/iran-executions-mehdi-farid-mossad-spy-erfan-kiani-protests-10655191/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-04-25T08:04:23+00:00",
+      "image_url": "https://images.indianexpress.com/2026/03/Untitled-design-4-5_20241115164236_20241224193046_20250103162102_20250123181548_20260314100736.jpg",
+      "summary": "Iran has executed an atomic agency worker accused of spying and hanged a protester amid a widening crackdown. The executions come as tensions between Iran and the West escalate. Iran executes atomic agency worker over ‘spying’ charge, hangs protester as crackdown intensifies.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "No clarity on U.S.-Iran talks as Islamabad stays under lockdown",
       "url": "https://www.thehindu.com/news/international/no-clarity-on-us-iran-talks-as-islamabad-stays-under-lockdown/article70904595.ece",
       "source": "The Hindu (International)",
@@ -39,18 +219,6 @@
       "published_at": "2026-04-25T08:03:01+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/ufwcb6/article70904648.ece/alternates/LANDSCAPE_1200/Pakistan_US_Iran__2328.jpg",
       "summary": "Pakistan's Deputy Prime Minister expressed hope for meaningful engagements between the US and Iran to promote regional peace and stability. Pakistan's Deputy Prime Minister and Foreign Minister Dar, in a social media post, expressed hope for \"meaningful engagements\" between the two warring parties to promote regional peace and stability.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "2nd Round Of Talks In Pakistan Today, Commercial Flights Resume In Tehran",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-25T08:01:04+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/ab63si2s_pak-talks_625x300_25_April_26.jpeg",
-      "summary": "Commercial flights resumed in Tehran after talks. US-Iran War News Live Update:. 2nd Round Of Talks In Pakistan Today, Commercial Flights Resume In Tehran.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -80,184 +248,34 @@
       "translations": {}
     },
     {
-      "title": "Ukraine sacks top commander after ‘starving’ soldiers’ rib-showing photos go viral",
-      "url": "https://indianexpress.com/article/world/ukraines-army-removed-personnel-says-they-are-given-food-in-17-days-10655047/",
-      "source": "Indian Express World",
+      "title": "U.S. negotiators to go to Islamabad, but Iran says no direct talks",
+      "url": "https://www.thehindu.com/news/international/us-negotiators-to-go-to-islamabad-but-iran-says-no-direct-talks/article70904574.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-04-25T06:42:22+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/ukraine.jpg",
-      "summary": "Ukraine sacked its top commander after photos of starving soldiers went viral. Ukraine sacks top commander after ‘starving’ soldiers’ rib-showing photos go viral.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown",
-      "url": "https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-25T06:38:45+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/25/multimedia/25france-ice-01-wtcm/25france-ice-01-wtcm-mediumSquareAt3X.jpg",
-      "summary": "Marie-Thérèse Ross-Mahé, an 85-year-old French widow of a former G. I., was deported from the US under Trump's immigration crackdown. In her first interview since being deported, she recounted her experience in ICE detention.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-04-25T06:35:21+00:00",
-      "image_url": "https://images.pexels.com/photos/30711469/pexels-photo-30711469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Iran's Abbas Araghchi arrived in Islamabad for peace talks, awaiting a US delegation including Steve Witkoff and Jared Kushner. Iran's Abbas Araghchi arrived in Islamabad on Friday, as the White House confirmed Steve Witkoff and Jared Kushner will travel there Saturday to try to \"move the ball forward towards a deal.\".",
+      "published_at": "2026-04-25T07:48:48+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/a0ztru/article70904590.ece/alternates/LANDSCAPE_1200/2026-04-12T021416Z_86610405_RC2ENKANGVVF_RTRMADP_3_IRAN-CRISIS-CEASEFIRE-PAKISTAN.JPG",
+      "summary": "US negotiators are set to travel to Islamabad for talks with Pakistan, but Iran has ruled out direct negotiations with the US. U. S. negotiators to go to Islamabad, but Iran says no direct talks.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Capture of ships by US, Iran violates international law, shipping body says",
-      "url": "https://www.aljazeera.com/economy/2026/4/25/capture-of-ships-by-us-iran-violates-international-law-shipping-body-says?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "ट्रंप के बार-बार हमलों पर भारत की नपी-तुली, संतुलित प्रतिक्रिया की वजह क्या है?",
+      "url": "https://www.bbc.com/hindi/articles/cn4vezpvkvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-25T06:27:56+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-24T214142Z_1546365610_RC2TTKA5WCHG_RTRMADP_3_IRAN-CRISIS-IRGC-SEIZURE-1777086632.jpg?resize=1920%2C1440",
-      "summary": "The International Chamber of Shipping director said the US and Iran should release captured vessel crews, as their actions violate international law. US and Iran should immediately release crews of captured vessels, says International Chamber of Shipping director.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US ‘punishment’ plan for allies deepens Europe rift; Nato says expulsion not possible",
-      "url": "https://indianexpress.com/article/world/us-punishment-plan-for-allies-deepens-europe-rift-nato-says-expulsion-not-possible-10654856/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-04-25T06:26:34+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/nato.jpg",
-      "summary": "The US plans to punish its allies, deepening the rift with Europe. Nato says expulsion is not possible, but the move has sparked concern among member countries. US ‘punishment’ plan for allies deepens Europe rift; Nato says expulsion not possible.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What is Nato and which countries are in it?",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aY1RSazNpaHh2R2c1NngtbHgxeXEteDQzQ2dhN2Y3b1lCemdjRnNOV0g1V1NQMExIY19ON2VNakZlV0R5RktPcjB0eUw1ZDRwVUVORlNubV9EZw?oc=5",
-      "source": "Google News (NATO conflict)",
-      "sources": [],
-      "published_at": "2026-04-25T05:08:59+00:00",
-      "image_url": "https://images.pexels.com/photos/35829362/pexels-photo-35829362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Nato is a military alliance formed in 1949, comprising 30 countries including the US, UK, and Canada. Its primary goal is to provide collective defense against potential security threats. What is Nato and which countries are in it?",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US Mistakenly Puts Australian Flags Near White House For King Charles' Visit",
-      "url": "https://www.ndtv.com/world-news/us-preparation-for-king-charles-visit-goes-down-under-with-australian-flag-error-11406204#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-25T05:03:27+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/0e612tls_us-flags_625x300_25_April_26.jpeg",
-      "summary": "The US mistakenly displayed Australian flags near the White House ahead of King Charles' visit. Charles is the head of state for Australia, but the role is largely ceremonial. Charles is also the head of state for Australia, but the role is largely ceremonial.",
+      "published_at": "2026-04-25T06:59:35+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6a2/live/76555d50-4085-11f1-b7ed-156ae9f6d6df.jpg",
+      "summary": "अमेरिकी राष्ट्रपति ने भारत को 'धरती पर नरक' कहा, जिस पर कांग्रेस ने मोदी सरकार की प्रतिक्रिया को 'बेहद कमज़ोर' बताया। विपक्षी पार्टी ने सरकार की चुप्प पर सवाल उठाए। सरकार की ओर से अभी तक कोई आधिकारिक बयान नहीं आया है।",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US, Iran To Hold 2nd Round Of Talks In Pakistan Today. What's On Agenda",
-      "url": "https://www.ndtv.com/world-news/iran-us-to-hold-2nd-round-of-peace-talks-in-pakistan-as-delicate-ceasefire-holds-11406638#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-25T04:43:42+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/u32div1s_iran-us-talks_625x300_12_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Iran and the US will hold a second round of peace talks in Pakistan. The previous round occurred on April 11-12, amid a delicate ceasefire. The previous round of talks was held on April 11-12.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Melania Trump Is Growing White House Honey Program With New Beehive",
-      "url": "https://www.ndtv.com/world-news/melania-trump-is-growing-white-house-honey-program-with-new-beehive-11406138#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-25T04:09:52+00:00",
-      "image_url": "https://c.ndtvimg.com/2025-01/grpoliso_melania-trump-x_625x300_29_January_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Melania Trump has expanded the White House honey program with a new beehive, funded by the Trust for the National Mall. The new hive aims to promote bee conservation and honey production on the White House grounds.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
-      "url": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-25T04:01:15+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/15/multimedia/00int-japan-caregivers-02-promo/00int-japan-caregivers-02-kptm-mediumSquareAt3X.jpg",
-      "summary": "Japan recruits bodybuilders and athletes to work in nursing homes due to staff shortages. Young athletes are being recruited to plug a staff shortage in Japan’s nursing homes. The results are reshaping elder care.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran's foreign minister arrives in Pakistan, Trump expects offer satisfying US demands",
-      "url": "https://www.channelnewsasia.com/world/us-iran-peace-talks-truce-negotiations-middle-east-war-6080421",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-25T03:07:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--tJnzzJ1R--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/25/2026-04-24t200407z_1133705916_rc2vvka6x0sl_rtrmadp_3_iran-crisis-talks-pakistan.jpg?itok=vRYq9azB",
-      "summary": "Iranian Foreign Minister Hossein Amir-Abdollahian arrived in Pakistan. The White House announced special envoys Steve Witkoff and Jared Kushner will travel to Pakistan for talks. Iran says it has no plans to meet US officials, while the White House says special envoys Steve Witkoff and Jared Kushner will travel to Pakistan on Saturday (Apr 25) for talks.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What’s happening on day 57 as Trump dispatches negotiating team?",
-      "url": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-25T02:58:01+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-24T200407Z_1133705916_RC2VVKA6X0SL_RTRMADP_3_IRAN-CRISIS-TALKS-PAKISTAN-1777075791_c8de00-1777083182.jpg?resize=1200%2C630&quality=80",
-      "summary": "US envoys Steve Witkoff and Jared Kushner will travel to Pakistan for Iran peace talks, as Iranian FM Abbas Araghchi arrived in Islamabad. The US negotiating team's visit aims to revive stalled talks.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US military kills two more people in strike on alleged drug boat in Pacific",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/us-military-strike-boat-pacific",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-04-25T02:03:31+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/e7a45331e955e87b2925d3667c2446a9db64293c/225_0_1048_839/master/1048.jpg?width=140&quality=85&auto=format&fit=max&s=418bd7d8ff169804cc5eb9f7e05632de",
-      "summary": "The US military killed two people in a strike on a boat in the eastern Pacific.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
-      "url": "https://indianexpress.com/article/world/us-news/us-state-dept-deepseek-china-ai-theft-warning-10654733/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-04-25T01:50:51+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/US-4-13.jpg",
-      "summary": "The US State Department issued a global warning about alleged AI thefts by Chinese firms. US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-04-25T01:34:25+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/e0eb940f38d2d6c64ef5107feeababf9a1f84beb/836_241_3805_3044/master/3805.jpg?width=140&quality=85&auto=format&fit=max&s=954bf262a78a5f60e1c383d8d98a21a9",
-      "summary": "The UK reiterated its claim to the Falkland Islands after a leaked Pentagon memo suggested reassessing US support.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप के बार-बार हमलों पर भारत की नपी-तुली, संतुलित प्रतिक्रिया की वजह क्या है?",
+          "summary": "अमेरिकी राष्ट्रपति ने भारत को 'धरती पर नरक' कहा, जिस पर कांग्रेस ने मोदी सरकार की प्रतिक्रिया को 'बेहद कमज़ोर' बताया। विपक्षी पार्टी ने सरकार की चुप्प पर सवाल उठाए। सरकार की ओर से अभी तक कोई आधिकारिक बयान नहीं आया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "US-इस्राइल के हमले में कितना हुआ शरीर को नुकसान; CIA-मोसाद ढूंढने में क्यों नाकाम?",
@@ -292,60 +310,6 @@
           "title": "अमेरिका-ईरान वार्ता पर सस्पेंस कायम; इस्लामाबाद में सख्त लॉकडाउन, सड़कों पर पसरा सन्नाटा",
           "summary": "अमेरिका-ईरान वार्ता पर सस्पेंस बना हुआ है। इस्लामाबाद में सख्त लॉकडाउन है। US-Iran Peace Talks: अमेरिका-ईरान वार्ता पर सस्पेंस कायम; इस्लामाबाद में सख्त लॉकडाउन, सड़कों पर पसरा सन्नाटा।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यूपी के बांदा में एक दशक तक कई बच्चों से होती रही यौन हिंसा, कैसे खुला मामला: ग्राउंड रिपोर्ट",
-      "url": "https://www.bbc.com/hindi/articles/cn9qnn35r1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-25T05:31:33+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c45/live/5f84aa20-3d94-11f1-92e4-6b980ce20915.jpg",
-      "summary": "यूपी के बांदा में एक दशक तक कई बच्चों से यौन हिंसा हुई। अदालत ने दोषी दंपती को मौत की सज़ा सुनाई। यूपी में बांदा की एक अदालत ने कई बच्चों के यौन शोषण के मामले को रेयरेस्ट ऑफ़ द रेयर मानते हुए दोषी दंपती को मौत की सज़ा सुनाई है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपी के बांदा में एक दशक तक कई बच्चों से होती रही यौन हिंसा, कैसे खुला मामला: ग्राउंड रिपोर्ट",
-          "summary": "यूपी के बांदा में एक दशक तक कई बच्चों से यौन हिंसा हुई। अदालत ने दोषी दंपती को मौत की सज़ा सुनाई। यूपी में बांदा की एक अदालत ने कई बच्चों के यौन शोषण के मामले को रेयरेस्ट ऑफ़ द रेयर मानते हुए दोषी दंपती को मौत की सज़ा सुनाई है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा! नहीं बन पा रही आपसी सहमति",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTc0eDdoUTUtWV8wNnoxNVNjYklYSUVMTVpBSDhPYmY5eWRyV3FGMWwyWF9fM1pTMU5CT1pTUXBKd0o2ZzA5SG9Pd0R6amluY0Zhb1h6Ym9udi1jTjZ2VTlUWV80N2pTVEdEZHBaRFJEYk9vbWRhV0F4cEF6REtHQlgxQTF6SFp6eHRVclBzazM5Vk04TXB1Q0F3WjZRMnR4ek9hMEJWVzRObTdlZjRDQjFkd1RHU2ZRdng0d1A0LVVERlZHdHduSFJtcHbSAdMBQVVfeXFMTzk4VHg0aVY4dWNBcHFCRklnUnVCZFlSVG51amJaclFlSEI4eXRjeFRGRVRoMzVTQWc2dFZ1dkJ1SXhydmxYeEpqcWppQU1CZjNSbUNmR25BQ0ExaERBWXZrdzlWQXBvdnF2TFFmZFlqZHFIQ3hZVnE0QUgyRDk3cE9FdUhHbUxKOG5UWHliem9YTDAtcW1BR1VVM0tjVEl1bExPSzR1RkROdDFPcEVwWmg1SlZza2plT2RCUHBBbFJpeE1wTkJUYjdFckZiMEkwNEd3OA?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-25T04:57:33+00:00",
-      "image_url": "https://images.pexels.com/photos/7278771/pexels-photo-7278771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ब्रिक्स में ईरान-अमेरिका-इजरायल की जंग का मुद्दा नहीं उठेगा। आपसी सहमति नहीं बन पा रही है। ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा! नहीं बन पा रही आपसी सहमति Jansatta।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा! नहीं बन पा रही आपसी सहमति",
-          "summary": "ब्रिक्स में ईरान-अमेरिका-इजरायल की जंग का मुद्दा नहीं उठेगा। आपसी सहमति नहीं बन पा रही है। ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा! नहीं बन पा रही आपसी सहमति Jansatta।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "Miss Sake India 2026 ने भारत-जापान सांस्कृतिक कूटनीति को मज़बूत किया",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2FCSDN5RUcwTXRKbF9FRFRibEk3a09acXl6ZmFZOUxDNHVtZmxnRmxSMXJ5TExmQzg4bTBPT3dfZWxqd0lrY0xramhsT1BVQVRKSGNoNzJLZXV6VFJ0UzNzS3NPaHRPTWZJZW52VHJOMmkxcmVZQWxUaDlyUXptSGtuVkJ1Vzdxdm1Sczd4NTFlVkVkN0hvdURCYw?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-25T04:46:13+00:00",
-      "image_url": "https://images.pexels.com/photos/37043518/pexels-photo-37043518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "है। Miss Sake India 2026 ने भारत-जापान सांस्कृतिक कूटनीति को मज़बूत किया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Miss Sake India 2026 ने भारत-जापान सांस्कृतिक कूटनीति को मज़बूत किया",
-          "summary": "है। Miss Sake India 2026 ने भारत-जापान सांस्कृतिक कूटनीति को मज़बूत किया।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -404,20 +368,236 @@
       }
     },
     {
-      "title": "चीन पर दबाव बढ़ाने की अमेरिकी रणनीति में भारत बन रहा अहम ताकत, US सेना का बड़ा बयान",
-      "url": "https://www.amarujala.com/world/defense-partnership-india-is-becoming-a-key-force-in-the-us-strategy-to-increase-pressure-on-china-2026-04-25",
-      "source": "Amar Ujala World",
+      "title": "राघव चड्ढा के नेतृत्व में आप में हुई टूट क्या बीजेपी को फ़ायदा पहुँचा सकती है?",
+      "url": "https://www.bbc.com/hindi/articles/c705243k53ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-25T03:52:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/08/bharata-amaraka-sabthha_5866b416e7eb5b68e446e482c58b7137.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी सेना ने कहा कि भारत चीन पर दबाव बढ़ाने की अमेरिकी रणनीति में एक अहम ताकत बन रहा है। रक्षा साझेदारी के तहत भारत की भूमिका बढ़ रही है। अमेरिका और भारत के बीच रक्षा सहयोग मजबूत हो रहा है।",
+      "published_at": "2026-04-25T02:32:39+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e389/live/db7b04e0-3fe1-11f1-ba10-1ba751bf6e79.jpg",
+      "summary": "आम आदमी पार्टी के राज्यसभा सांसद राघव चड्ढा ने बीजेपी में शामिल होने का एलान किया। उनके साथ संदीप पाठक और अशोक मित्तल भी बीजेपी में शामिल हुए। इससे आप को बड़ा झटका लगा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राघव चड्ढा के नेतृत्व में आप में हुई टूट क्या बीजेपी को फ़ायदा पहुँचा सकती है?",
+          "summary": "आम आदमी पार्टी के राज्यसभा सांसद राघव चड्ढा ने बीजेपी में शामिल होने का एलान किया। उनके साथ संदीप पाठक और अशोक मित्तल भी बीजेपी में शामिल हुए। इससे आप को बड़ा झटका लगा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान के विदेश मंत्री इस्लामाबाद पहुँचे, लेकिन अमेरिका के साथ बातचीत पर संशय बरकरार",
+      "url": "https://www.bbc.com/hindi/articles/c8dlv6ly597o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-25T01:18:11+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b94/live/7e4eae10-4046-11f1-b466-9349bd0aed29.jpg",
+      "summary": "ईरान के विदेश मंत्री इस्लामाबाद पहुँचे, जहां अमेरिकी प्रतिनिधिमंडल शांति वार्ता के लिए जाने वाला है। ईरान के विदेश मंत्रालय ने अमेरिका के साथ बातचीत पर संशय जताया। व्हाइट हाउस ने बातचीत की पुष्टि की।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के विदेश मंत्री इस्लामाबाद पहुँचे, लेकिन अमेरिका के साथ बातचीत पर संशय बरकरार",
+          "summary": "ईरान के विदेश मंत्री इस्लामाबाद पहुँचे, जहां अमेरिकी प्रतिनिधिमंडल शांति वार्ता के लिए जाने वाला है। ईरान के विदेश मंत्रालय ने अमेरिका के साथ बातचीत पर संशय जताया। व्हाइट हाउस ने बातचीत की पुष्टि की।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "दामाद- मुझे आपकी बेटी ने मारा, ससुर का जवाब पढ़कर पेट पकड़कर खूब हंसेंगे आप",
+      "url": "https://www.amarujala.com/photo-gallery/humour/sasur-damad-funny-chutkule-pati-patni-jokes-joke-of-the-day-jija-sali-comedy-jokes-saas-damad-whatsapp-jokes-2026-04-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-24T21:53:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/19/desi-jokes_e652c97b23060d8c2902e52e5b81991d.jpeg?w=750&dpr=1.0",
+      "summary": "एक व्यक्ति ने अपने ससुर को बताया कि उसकी बेटी ने उसे मारा। ससुर ने जवाब दिया जो पढ़कर लोग हंसने लगेंगे। यह घटना लोगों को हंसाने वाली है। लोगों को तनाव से दूर रहने के लिए हंसना चाहिए।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दामाद- मुझे आपकी बेटी ने मारा, ससुर का जवाब पढ़कर पेट पकड़कर खूब हंसेंगे आप",
+          "summary": "एक व्यक्ति ने अपने ससुर को बताया कि उसकी बेटी ने उसे मारा। ससुर ने जवाब दिया जो पढ़कर लोग हंसने लगेंगे। यह घटना लोगों को हंसाने वाली है। लोगों को तनाव से दूर रहने के लिए हंसना चाहिए।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "‘आप’ सांसदों के झाडू़ छोड़ कमल थामने के मायने!",
+      "url": "https://www.amarujala.com/columns/blog/raghav-chadha-along-with-other-aam-aadmi-party-rajya-sabha-mp-quit-party-2026-04-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-24T21:52:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/24/raghav-chadha-resigns_36b3ec1e873a662fbe12f3c17886b555.jpeg?w=750&dpr=1.0",
+      "summary": "आम आदमी पार्टी के सात राज्यसभा सांसदों ने पार्टी छोड़कर भाजपा में शामिल हो गए। उन्होंने नेता राघव चड्ढा की अगुवाई में यह फैसला लिया। इससे राजनीतिक तूफान खड़ा हो गया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘आप’ सांसदों के झाडू़ छोड़ कमल थामने के मायने!",
+          "summary": "आम आदमी पार्टी के सात राज्यसभा सांसदों ने पार्टी छोड़कर भाजपा में शामिल हो गए। उन्होंने नेता राघव चड्ढा की अगुवाई में यह फैसला लिया। इससे राजनीतिक तूफान खड़ा हो गया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारत के कपड़ा निर्यात में आई गिरावट; 35.8 अरब डॉलर पर पहुंचा कारोबार, जीटीआरआई ने बताई वजह",
+      "url": "https://www.amarujala.com/business/business-diary/india-s-textile-exports-declined-to-more-than-2-percent-according-to-gtri-2026-04-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-24T21:50:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/19/textile-import-ban_d165e3bf9409c2b98d395d9b134ca3bf.jpeg?w=750&dpr=1.0",
+      "summary": "भारत के कपड़ा निर्यात में गिरावट आई है, जो 2 प्रतिशत से अधिक की कमी के साथ 35.8 अरब डॉलर पर पहुंच गया है। जीटीआरआई ने इस गिरावट के कारणों का उल्लेख किया है। निर्यात में गिरावट एक महत्वपूर्ण आर्थिक संकेतक है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चीन पर दबाव बढ़ाने की अमेरिकी रणनीति में भारत बन रहा अहम ताकत, US सेना का बड़ा बयान",
-          "summary": "अमेरिकी सेना ने कहा कि भारत चीन पर दबाव बढ़ाने की अमेरिकी रणनीति में एक अहम ताकत बन रहा है। रक्षा साझेदारी के तहत भारत की भूमिका बढ़ रही है। अमेरिका और भारत के बीच रक्षा सहयोग मजबूत हो रहा है।",
+          "title": "भारत के कपड़ा निर्यात में आई गिरावट; 35.8 अरब डॉलर पर पहुंचा कारोबार, जीटीआरआई ने बताई वजह",
+          "summary": "भारत के कपड़ा निर्यात में गिरावट आई है, जो 2 प्रतिशत से अधिक की कमी के साथ 35.8 अरब डॉलर पर पहुंच गया है। जीटीआरआई ने इस गिरावट के कारणों का उल्लेख किया है। निर्यात में गिरावट एक महत्वपूर्ण आर्थिक संकेतक है।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली कैपिटल्स ने पंजाब के खिलाफ जीता टॉस, पहले बल्लेबाजी का लिया फैसला",
+      "url": "https://www.amarujala.com/live/cricket/cricket-news/dc-vs-pbks-live-cricket-score-delhi-capitals-vs-punjab-kings-ipl-2026-35th-match-updates-2026-04-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-24T21:50:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/09/pajab-bnama-thall_ccf07464f6405d0fed70a851d9d87561.jpeg?w=750&dpr=1.0",
+      "summary": "दिल्ली कैपिटल्स ने पंजाब किंग्स के खिलाफ टॉस जीतकर पहले बल्लेबाजी करने का फैसला किया। यह मैच आईपीएल 2026 का हिस्सा है। दोनों टीमें अपने प्रदर्शन में सुधार के लिए प्रयास करेंगी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्ली कैपिटल्स ने पंजाब के खिलाफ जीता टॉस, पहले बल्लेबाजी का लिया फैसला",
+          "summary": "दिल्ली कैपिटल्स ने पंजाब किंग्स के खिलाफ टॉस जीतकर पहले बल्लेबाजी करने का फैसला किया। यह मैच आईपीएल 2026 का हिस्सा है। दोनों टीमें अपने प्रदर्शन में सुधार के लिए प्रयास करेंगी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘35 साल पहले सेट पर...’, शादी की सालगिरह पर मोहनीश बहल की पत्नी ने शेयर किया किस्सा; साझा की जश्न",
+      "url": "https://www.amarujala.com/entertainment/bollywood/actor-mohnish-bahl-and-wife-celebrated-34th-wedding-anniversary-arti-bahl-shared-photos-on-social-media-2026-04-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-24T21:48:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/mahanasha-bhal-aarata-bhal_91200bca74cf126ed39652e7d800c0d5.jpeg?w=750&dpr=1.0",
+      "summary": "मोहनीश बहल और उनकी पत्नी ने अपनी 34वीं शादी की सालगिरह मनाई। उन्होंने सोशल मीडिया पर अपनी पहली मुलाकात और जश्न के पल साझा किए। उनकी पत्नी ने सेट पर 35 साल पहले की एक यादगार घटना का उल्लेख किया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘35 साल पहले सेट पर...’, शादी की सालगिरह पर मोहनीश बहल की पत्नी ने शेयर किया किस्सा; साझा की जश्न",
+          "summary": "मोहनीश बहल और उनकी पत्नी ने अपनी 34वीं शादी की सालगिरह मनाई। उन्होंने सोशल मीडिया पर अपनी पहली मुलाकात और जश्न के पल साझा किए। उनकी पत्नी ने सेट पर 35 साल पहले की एक यादगार घटना का उल्लेख किया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बांग्लादेश में आतंकी हमले की आशंका: खुफिया एजेंसियों ने दी चेतावनी, पुलिस ने देशव्यापी सुरक्षा",
+      "url": "https://www.amarujala.com/world/bangladesh-issues-nationwide-security-alert-over-possible-militant-attacks-news-in-hindi-2026-04-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-24T21:43:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/bangladesh-issues-nationwide-security-alert-over-possible-militant-attacks_a537057e06d82644388e03c3cc2e693e.jpeg?w=750&dpr=1.0",
+      "summary": "बांग्लादेश में आतंकी हमले की आशंका के चलते खुफिया एजेंसियों ने चेतावनी दी है। पुलिस ने देशव्यापी सुरक्षा अलर्ट जारी किया है। यह कदम देश में सुरक्षा व्यवस्था को मजबूत करने के लिए उठाया गया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश में आतंकी हमले की आशंका: खुफिया एजेंसियों ने दी चेतावनी, पुलिस ने देशव्यापी सुरक्षा",
+          "summary": "बांग्लादेश में आतंकी हमले की आशंका के चलते खुफिया एजेंसियों ने चेतावनी दी है। पुलिस ने देशव्यापी सुरक्षा अलर्ट जारी किया है। यह कदम देश में सुरक्षा व्यवस्था को मजबूत करने के लिए उठाया गया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'छावा' से लेकर 'तान्हाजी' तक, 'राजा शिवाजी' से पहले देखें छत्रपति शिवाजी महाराज पर बनी ये फिल्में",
+      "url": "https://www.amarujala.com/entertainment/bollywood/bollywood-movies-on-chhatrapati-shivaji-maharaj-from-chhaava-to-tanhaji-must-watch-list-2026-04-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-24T21:42:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/chhatarapata-shavaja-maharaja-para-falma_2625674e8e5315c47140852b6c2d0623.jpeg?w=750&dpr=1.0",
+      "summary": "'राजा शिवाजी' फिल्म से पहले, छत्रपति शिवाजी महाराज पर बनी कई फिल्में हैं जिन्हें देखना चाहिए। इनमें 'छावा' और 'तान्हाजी' शामिल हैं। ये फिल्में मराठा इतिहास और शिवाजी महाराज के जीवन से जुड़ी कहानियों को दर्शाती हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'छावा' से लेकर 'तान्हाजी' तक, 'राजा शिवाजी' से पहले देखें छत्रपति शिवाजी महाराज पर बनी ये फिल्में",
+          "summary": "'राजा शिवाजी' फिल्म से पहले, छत्रपति शिवाजी महाराज पर बनी कई फिल्में हैं जिन्हें देखना चाहिए। इनमें 'छावा' और 'तान्हाजी' शामिल हैं। ये फिल्में मराठा इतिहास और शिवाजी महाराज के जीवन से जुड़ी कहानियों को दर्शाती हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शिवसेना विधायक की भाषा पर CM फडणवीस सख्त, कहा- अपमानजनक शब्द स्वीकार्य नहीं",
+      "url": "https://www.amarujala.com/india-news/shivaji-maharaj-book-row-bad-language-by-shiv-sena-mla-not-acceptable-says-cm-fadnavis-2026-04-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-24T21:39:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/29/cabinet-panel-discussing-maratha-quota-will-find-constitutionally-valid-solution-fadnavis_92d8a8efeee5dda253bb2d44d1b9c225.jpeg?w=750&dpr=1.0",
+      "summary": "महाराष्ट्र के मुख्यमंत्री देवेंद्र फडणवीस ने शिवसेना विधायक की भाषा पर सख्त रुख अपनाया, कहा कि अपमानजनक शब्द स्वीकार्य नहीं हैं। यह टिप्पणी शिवाजी महाराज पुस्तक विवाद के दौरान की गई थी। फडणवीस ने विधायक को चेतावनी दी.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शिवसेना विधायक की भाषा पर CM फडणवीस सख्त, कहा- अपमानजनक शब्द स्वीकार्य नहीं",
+          "summary": "महाराष्ट्र के मुख्यमंत्री देवेंद्र फडणवीस ने शिवसेना विधायक की भाषा पर सख्त रुख अपनाया, कहा कि अपमानजनक शब्द स्वीकार्य नहीं हैं। यह टिप्पणी शिवाजी महाराज पुस्तक विवाद के दौरान की गई थी। फडणवीस ने विधायक को चेतावनी दी.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मनीषा कोइराला ने जिगरी दोस्त के साथ बिताया क्वालिटी टाइम",
+      "url": "https://www.amarujala.com/web-stories/entertainment/manisha-koirala-shares-her-stylish-photos-with-best-friend-simi-singh-2026-04-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-24T21:35:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/manashha-kairal-apana-thasata-ka-satha_ebcd44a2a8537554faebdc83625350a7.jpeg?w=750&dpr=1.0",
+      "summary": "मनीषा कोइराला ने अपनी जिगरी दोस्त के साथ क्वालिटी टाइम बिताया। दोनों ने साथ में समय बिताया और अपने रिश्ते को मजबूत किया। मनीषा कोइराला की दोस्ती की तस्वीरें और वीडियो सोशल मीडिया पर वायरल हो रहे हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मनीषा कोइराला ने जिगरी दोस्त के साथ बिताया क्वालिटी टाइम",
+          "summary": "मनीषा कोइराला ने अपनी जिगरी दोस्त के साथ क्वालिटी टाइम बिताया। दोनों ने साथ में समय बिताया और अपने रिश्ते को मजबूत किया। मनीषा कोइराला की दोस्ती की तस्वीरें और वीडियो सोशल मीडिया पर वायरल हो रहे हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सिंगर और भतीजे अमाल ने अन्नू मलिक पर फिर साधा निशाना, बोले- ‘उनको बस आग लगानी है…’",
+      "url": "https://www.amarujala.com/entertainment/bollywood/singer-and-nephew-amaal-mallik-again-targeted-anu-malik-says-he-ruin-family-relationship-2026-04-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-24T21:34:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/sagara-amal-malka_51e113a5ba56510caf975e40630cefa4.jpeg?w=750&dpr=1.0",
+      "summary": "सिंगर अमाल मलिक ने अपने चाचा अनु मलिक पर निशाना साधा, कहा कि अनु मलिक ने अपने ईगो के कारण उनके परिवार को नुकसान पहुंचाया था। अमाल मलिक ने कहा कि अनु मलिक को बस आग लगानी है. उनकी बातें मीडिया में चर्चा में आई हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सिंगर और भतीजे अमाल ने अन्नू मलिक पर फिर साधा निशाना, बोले- ‘उनको बस आग लगानी है…’",
+          "summary": "सिंगर अमाल मलिक ने अपने चाचा अनु मलिक पर निशाना साधा, कहा कि अनु मलिक ने अपने ईगो के कारण उनके परिवार को नुकसान पहुंचाया था। अमाल मलिक ने कहा कि अनु मलिक को बस आग लगानी है. उनकी बातें मीडिया में चर्चा में आई हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JbzctODRFNGxIb1Z2UURsTFZ3aXNJLWxqWXpoYWVhX3hZcE0xNnBMNF9VU3BXMGU5X1Nfb0pWcURoV203NG9wT2JmVEpnT29fa1dYbWFjdw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-24T21:02:41+00:00",
+      "image_url": "https://images.pexels.com/photos/16705852/pexels-photo-16705852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र मुख्यालय में विश्व में बढ़ते परमाणु खतरों के बीच अहम रक्षा उपाय पर चर्चा हुई। इस बैठक में परमाणु सुरक्षा और खतरों से निपटने के तरीकों पर बात की गई। विश्व नेता इस मुद्दे पर गंभीरता से विचार कर रहे हैं।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा",
+          "summary": "संयुक्त राष्ट्र मुख्यालय में विश्व में बढ़ते परमाणु खतरों के बीच अहम रक्षा उपाय पर चर्चा हुई। इस बैठक में परमाणु सुरक्षा और खतरों से निपटने के तरीकों पर बात की गई। विश्व नेता इस मुद्दे पर गंभीरता से विचार कर रहे हैं।",
+          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     },
@@ -454,186 +634,6 @@
           "title": "राघव चड्ढा और अन्य सांसदों ने अचानक छोड़ी आम आदमी पार्टी? 'आप' में चल क्या रहा है?",
           "summary": "आम आदमी पार्टी के सांसद राघव चड्ढा और अन्य ने पार्टी छोड़ दी. इससे पहले पार्टी ने उन्हें महत्वपूर्ण पद और जगह दी थी, लेकिन लगता है कि वे केजरीवाल के साथ तालमेल नहीं बना पाए.",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "विश्व में बढ़ते युद्ध: कब थमेगा ये संघर्ष?",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sS2hkUDNZT1B2Y0ppYXJVaDBkU08zMkxrSlAxWWRXaTZDWVZSbTEzY3ZmYmJSbEVId0F0aG16MDMzNlZNMmNhcUlXUE96VjlMSTZKd1pQX1pnZ3FwLWJFc1p1QW1qZVEwQTZWbUVlR2lCSEJRM2fSAXtBVV95cUxQc0dJcDJDOTZXUHpEaUpQUU1jUXpPX1ZYb0hrUV9EWkpqNEVBM3BaY3BzZkpteFpEelo3UkhPbHpRMVhNak5WU1o2WElpNDY4MlhIbjBJZGtfV2tLUVU4ODNaOUVrQzA0ZHBId2hlaUgwUkJpZmFhcm1PcVU?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-24T15:57:04+00:00",
-      "image_url": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "विश्व में युद्ध की घटनाएं बढ़ रही हैं. यह सवाल उठता है कि कब यह संघर्ष थमेगा और शांति स्थापित होगी. विश्व में बढ़ते युद्ध: कब थमेगा ये संघर्ष?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विश्व में बढ़ते युद्ध: कब थमेगा ये संघर्ष?",
-          "summary": "विश्व में युद्ध की घटनाएं बढ़ रही हैं. यह सवाल उठता है कि कब यह संघर्ष थमेगा और शांति स्थापित होगी. विश्व में बढ़ते युद्ध: कब थमेगा ये संघर्ष?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत दौरे पर आ रहीं संयुक्त राष्ट्र महासभा अध्यक्ष एनालेना बेयरबॉक, द्विपक्षीय बैठकों में होंगी",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaGctZDFIb2dUZ2ZBN1VNUHdPbl80amxTNDBjRUFtRTNPY0hJUWNsM2gwOTV3N0tmSWpiZEdLZWZMb3NIU2xNUTlpWHpHVUV5SHBteERlMUYyVGtid2dUV29HYTZCMUF0VUYta2hQUlM3Tmh5WTVZVkRtM2ZpUHRNQlRVSVVDSWRtRjVrSkFFTy00Y3Y4dmxPS2I5aFoyeGU4bU5yQ3Rta2dlTlFucGY5MGlHclFwbVNVaXVPT2xGdmEtSzRKUVBxLVJaWQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-24T11:30:00+00:00",
-      "image_url": "https://images.pexels.com/photos/36739282/pexels-photo-36739282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते भारत का दौरा करेंगी. इस दौरान वह द्विपक्षीय बैठकों में शामिल होंगी और भारतीय मंत्रियों से मुलाकात करेंगी. भारत दौरे पर आ रहीं संयुक्त राष्ट्र महासभा अध्यक्ष एनालेना बेयरबॉक, द्विपक्षीय बैठकों में होंगी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत दौरे पर आ रहीं संयुक्त राष्ट्र महासभा अध्यक्ष एनालेना बेयरबॉक, द्विपक्षीय बैठकों में होंगी",
-          "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते भारत का दौरा करेंगी. इस दौरान वह द्विपक्षीय बैठकों में शामिल होंगी और भारतीय मंत्रियों से मुलाकात करेंगी. भारत दौरे पर आ रहीं संयुक्त राष्ट्र महासभा अध्यक्ष एनालेना बेयरबॉक, द्विपक्षीय बैठकों में होंगी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते करेंगी नई दिल्ली का दौरा, भारत की हैं",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmNWTDdURkFvVnVUbEZIb21lUm02NHdWbm1NOW5qQ1pPRXRtdTl6UENldFBUR0J3SGlRMEl3UURkN09rbmtUODFCV1FvZk1NbWF3bEFtQWtfbWp6Z294LUtpZlYySXRUTDRkcWszMmc2bnF4Ql9fbEFyZmw1eTBsUmFNWmZ2MkQ4Vjk4RXU1YXBfbGZuMnpOY2k1aWxfc3dMZDdiaENIT044OUdXYTlXX2NTdHAzUdIBuwFBVV95cUxPLVVBb1JucGNvM1FXQVhtX1pkcmdZN05uR1pMcXRVYm43NUpNaDE3T29IcE9DM1RremtzUUIzd1hmZi13c1l1WE04aEJqYThmSllGT24wR0xfWlVJQVBaMllmbHB6cUEyVGJhMk95a2NBRHJZTUNIeTJUQlJCWTI2LUp2c0VCdGZoMVhmekwxRDR4Wks3ZXU4aGNsUUpoMml3UkdmZ0w1XzVVeWdlMjJOSTlqVHhVN290SEo4?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-24T05:28:31+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते नई दिल्ली का दौरा करेंगी. वह भारत की बड़ी प्रशंसक हैं और इस दौरे में द्विपक्षीय संबंधों पर चर्चा करेंगी. UN: संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते करेंगी नई दिल्ली का दौरा, भारत की हैं मुरीद Amar Ujala।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते करेंगी नई दिल्ली का दौरा, भारत की हैं",
-          "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते नई दिल्ली का दौरा करेंगी. वह भारत की बड़ी प्रशंसक हैं और इस दौरे में द्विपक्षीय संबंधों पर चर्चा करेंगी. UN: संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले हफ्ते करेंगी नई दिल्ली का दौरा, भारत की हैं मुरीद Amar Ujala।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHFqZ0Zmd2RpSXZvamRQcGJDcFpuQ1otMXZjSnNCeUNjV29KVkVmZlBBc1JfVFI5QnhnMjNBazFnYWI3Z0hoUnFhaERNQzc4QmpVQUhaZDdnQS05S09neVU1aHZ3M0JjRG5DRXN4Sjlnem15N05Hdm9JN0RrR0t1SFlNRFM2RUdrX0p0Z2Z1Z2xFVmZRRkxXZGJrVHZmMUFLQjlLaU1KX1RiQ3p0UzdheHNn0gG3AUFVX3lxTE9fZkJ5ZnBxUTgwd0VnQm1UT0o0c0FpYmJGeXkteVRxbDhhMWtORDU0YXk4aGh4SVViaEtiX1NRNjhkNkc1a01fSEo5NG5GaGNFN1RuN2VOOGc0cGlDZzM2aXI4cklkaDdPVEhDSUtPdy1DelkzRUl4UkdkdTN5WTZyNElUVGZkamF1Q3YyeUowM1pteU5BWm0zSW5ueUtmM2cyU2hyX19LUWxGNG55TkVCMTQ3MFg5bw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-24T03:03:03+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "यह जानकारी ThePrint Hindi ने दी। उनकी यात्रा के विवरण और उद्देश्य के बारे में अधिक जानकारी नहीं दी गई। संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी ThePrint Hindi।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी",
-          "summary": "यह जानकारी ThePrint Hindi ने दी। उनकी यात्रा के विवरण और उद्देश्य के बारे में अधिक जानकारी नहीं दी गई। संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक अगले सप्ताह भारत की यात्रा करेंगी ThePrint Hindi।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सिंधु जल संधि पर भारत के फैसले से तड़प रहा पाकिस्तान, अब UNSC में गिड़गिड़ाया, लागू करने की मांग",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNDVXVEhGRmg2akVZdUZ2ZWhuX1RjdmFGamFGRVRJUUFmaExublZ5SEVzOWluS1p6Ym94Y1dERnM2TDZCMXk3UnNIcU03QU9pREpMSWk4Q1lvOGl6ZE1lZFh4Z1plXzktUE5GNTNta1BiMXZxUE52UEg3dUtSaHY2SFdKYTlMZkdCZVY5SWg4cTBxbDF5dEVmR1A0QWVLUUpFWEtlV0NERVpad3p0RnBsU1JRQWg2VXpBVlJyenlFaFIxdHV0a0k3Wnd5N0lnTUJIQTRGMHIycFo1STJPQnVfMTRB0gHnAUFVX3lxTE9SOXkwMG9GaFZzYk5fUEZMRS1FbkhBamVWUnE4LURFOE12VGVlRGNGQjZRZkdXRW1Ba2tIS0RQMUxLNEJIWHU0UDBVaGRmc0pCdlVBVzJMVlVtbzBuaTJkT3dxWklGNGVxMzBjZ0IxamdrdmlWbi1tallvMVQzSUpmanZRNmg5TWJIS1FXWk1VakFHQTcyS0NmNnhqVkZ5SzhCdXMxRVYyWWdwMEVkbE9acExkZXRmdEtLZ2E3Smdwd1B1NnJKcC00cllOTXdCX3F1RzJkcGRyVEJxenk4QXFjMm5GUzJKRQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-24T02:46:15+00:00",
-      "image_url": "https://images.pexels.com/photos/12811599/pexels-photo-12811599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पाकिस्तान ने सिंधु जल संधि पर भारत के फैसले के खिलाफ संयुक्त राष्ट्र सुरक्षा परिषद में शिकायत की। पाकिस्तान ने इस संधि को लागू करने की मांग की। भारत के फैसले से पाकिस्तान को चिंता है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंधु जल संधि पर भारत के फैसले से तड़प रहा पाकिस्तान, अब UNSC में गिड़गिड़ाया, लागू करने की मांग",
-          "summary": "पाकिस्तान ने सिंधु जल संधि पर भारत के फैसले के खिलाफ संयुक्त राष्ट्र सुरक्षा परिषद में शिकायत की। पाकिस्तान ने इस संधि को लागू करने की मांग की। भारत के फैसले से पाकिस्तान को चिंता है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आपराधिक गुटों की हिंसा से त्रस्त हेती, ‘एक अहम मोड़ पर खड़ा है’",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03ajUyNzVpU0hVZjVTUXVLQ1RwZjFwNDZQRVh5SWxJWC1EN0s4QzRnWHExMkUxNTJvcGZXVFp2eVBmU2dQa3BCd3VCbHlLTk8xWnRBbzZzVQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-23T15:20:31+00:00",
-      "image_url": "https://images.pexels.com/photos/11980101/pexels-photo-11980101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "हेती आपराधिक गुटों की हिंसा से त्रस्त है, सुरक्षा परिषद ने इसे एक अहम मोड़ बताया। सुरक्षा परिषद: आपराधिक गुटों की हिंसा से त्रस्त हेती, ‘एक अहम मोड़ पर खड़ा है’ UN News।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आपराधिक गुटों की हिंसा से त्रस्त हेती, ‘एक अहम मोड़ पर खड़ा है’",
-          "summary": "हेती आपराधिक गुटों की हिंसा से त्रस्त है, सुरक्षा परिषद ने इसे एक अहम मोड़ बताया। सुरक्षा परिषद: आपराधिक गुटों की हिंसा से त्रस्त हेती, ‘एक अहम मोड़ पर खड़ा है’ UN News।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "'बांग्लादेश से संबंध अलग, अवैध बांग्लादेशियों का मामला अलग, कूटनीति से ऊपर देशहित'- NDTV से बोले",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1QzVkRkX1phbEVySEcyVW12WUJvbGREbzJNYTNlcXZOQjctTFlCRkE1cGJSSzd5aUdhOXFsVmx4ZWJfTld5R3lnZTU1dXVmRERMOEdkZVJoRU9uc3lvR2s0bGNSa0IwMExoaHhMS3l4cXhoRU0tYWtxcmdkQ0dSSW9VN1lYRl9aYW1WREJOS0hkbGpyVnhCSHpObmlLZlhfTERfTVZSVmNZcTFoNzR2dHdKdkJhaExCVzhqc1RDME_SAcgBQVVfeXFMT1h3V2czOC13RFJoU2FudHp3U1FTMTZxUXQ2MFRiRng3NUwwTHdQLVBMNlUtXzQyUzFLTVplRHR1NGlHbkFDamtHd0M3bEx4SjZKM0xLb3d5NXJ6V1p0a2duSjBOWHRUSTQ3QlpwQm8tYVJzUGVZeWFjVnVhMnpnc3BuaU1IOFFOcGhlQzNLc0U3VXhHLVp0aEZjY3l3TUtKOHZjckhTaDY0ZnJTaTBMUmxoY1ZXUUMxclYtTlpPVDI3aGltOWMySnI?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-23T13:35:28+00:00",
-      "image_url": "https://images.pexels.com/photos/15278113/pexels-photo-15278113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "नितिन नवीन ने कहा बांग्लादेश से संबंध और अवैध बांग्लादेशियों का मामला अलग है, देशहित कूटनीति से ऊपर है। 'बांग्लादेश से संबंध अलग, अवैध बांग्लादेशियों का मामला अलग, कूटनीति से ऊपर देशहित'- NDTV से बोले नितिन नवीन NDTV. in।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'बांग्लादेश से संबंध अलग, अवैध बांग्लादेशियों का मामला अलग, कूटनीति से ऊपर देशहित'- NDTV से बोले",
-          "summary": "नितिन नवीन ने कहा बांग्लादेश से संबंध और अवैध बांग्लादेशियों का मामला अलग है, देशहित कूटनीति से ऊपर है। 'बांग्लादेश से संबंध अलग, अवैध बांग्लादेशियों का मामला अलग, कूटनीति से ऊपर देशहित'- NDTV से बोले नितिन नवीन NDTV. in।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सुरक्षा, कूटनीति और नैरेटिव की परीक्षा",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0RJLUw5NTlsbWJwWkRacy05VFJCdG5iSVMxTWNPUjZIc255OGgxc3UtMUctcFdzZjNLR3ZlN2h5T3RZLWFxdExHa3I3c3JnRnNaT05LOE9OMUtRcHNNdXl3dzVJa3FIWUQzS3F3TkVzdF9CbWZLVXY3bjJHbUdHMGdReTJMQ1FrajZHUVZsTXXSAZYBQVVfeXFMTlJ2U3F3NUpsejZkbFJlZnJ4RU1uRXBCclVGekZvSFJZbjJUTHFpclJneFRyb0pxOHpyTWRiSS1RSFc0SENTdl9XTXVTWXVCQVJPb0dmRVFvNUhodkVQa2lWZGE4WThHUWNwZTFVa0RITTd6RVRCWUViZ09xTUNOaEI4T04xZ0tscmZydmRXeXdUSW9NcG9n?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-23T10:09:38+00:00",
-      "image_url": "https://images.pexels.com/photos/34954625/pexels-photo-34954625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "के बारे में Patrika News में चर्चा हुई। इसमें सुरक्षा, कूटनीति और नैरेटिव के पहलुओं पर विचार किया गया। सुरक्षा, कूटनीति और नैरेटिव की परीक्षा Patrika News।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सुरक्षा, कूटनीति और नैरेटिव की परीक्षा",
-          "summary": "के बारे में Patrika News में चर्चा हुई। इसमें सुरक्षा, कूटनीति और नैरेटिव के पहलुओं पर विचार किया गया। सुरक्षा, कूटनीति और नैरेटिव की परीक्षा Patrika News।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "'ट्रंप जब चाहेंगे तब खत्म होगा युद्ध , 3-5 दिन की डेडलाइन की खबरें गलत', पश्चिम एशिया संघर्ष पर",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUjJZc1lQYkJrMFF6YzVxZjF3X2diQ29ZYVRVcTZKT0RIWjI0NWRRYzF1aEwwTjlyVXRvYzhBcXI4Z2k2Q0dVc0JoN2FoTW1SZktUYUFZREpLMVZtWGFqOHZVTmNmNTZxNXNiZlljWUQ0eUhoNUtaOE9Ud3VudW1yMUk5aF9DV2s2bEVJYjVady1WWUVGbS1adkg5bldmQUxkLWNnMk90OURwT01XNkhsLTVQUFBHZVJzNWtVODhsUUwyeXZSTVBqVE5xNGdpNDQyV0R2Z3doWHNrQTBsUHJJWjl4RTJCcnPSAecBQVVfeXFMTlIyWXNZUGJCazBRemM1cWYxd19nYkNvWWFUVXE2Sk9ESFoyNDVkUWMxdWhMME45clV0b2M4QXFyOGdpNkNHVXNCaDdhaE1tUmZLVGFBWURKSzFWbVhhajh2VU5jZjU2cTVzYmZZY1lENHlIaDVLWjhPVHd1bnVtcjFJOWhfQ1drNmxFSWI1WnctVllFRm0tWnZIOW5XZkFMZC1jZzJPdDlEcE9NVzZIbC01UFBQR2VSczVrVTg4bFFMMnl2Uk1QalROcTRnaTQ0MldEdmd3aFhza0EwbFBySVo5eEUyQnJz?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-22T23:25:19+00:00",
-      "image_url": "https://images.pexels.com/photos/30917943/pexels-photo-30917943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "व्हाइट हाउस ने कहा कि पश्चिम एशिया संघर्ष को समाप्त करने की समयसीमा 3-5 दिन की खबरें गलत हैं। व्हाइट हाउस ने कहा कि युद्ध तभी खत्म होगा जब अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप चाहेंगे।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ट्रंप जब चाहेंगे तब खत्म होगा युद्ध , 3-5 दिन की डेडलाइन की खबरें गलत', पश्चिम एशिया संघर्ष पर",
-          "summary": "व्हाइट हाउस ने कहा कि पश्चिम एशिया संघर्ष को समाप्त करने की समयसीमा 3-5 दिन की खबरें गलत हैं। व्हाइट हाउस ने कहा कि युद्ध तभी खत्म होगा जब अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप चाहेंगे।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ईरान पर अमेरिका-इज़रायल हमलों का 54वां दिन: संघर्षविराम के बीच अविश्वास, हमले जारी और कूटनीति",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DQlROTVJZb0dVdGtBNkRPdlIzOTRWS3djNkR5U2FzeFFoV2drRTJSdzF4MGt6bHFULUdCY0FfQmJPdUxJRjJjb2QybGlGMV96TnNlYlQwVUJ5YUI5M2g1T1dPT2RRd0ZGbWxlUVYtQ3k2Zw?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-22T08:32:53+00:00",
-      "image_url": "https://images.pexels.com/photos/4386403/pexels-photo-4386403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिका और इज़रायल के हमलों के 54वें दिन, ईरान में संघर्षविराम के बीच अविश्वास और हमले जारी हैं। कूटनीतिक प्रयास जारी हैं लेकिन स्थिति अनिश्चित बनी हुई है। ईरान और अमेरिका के बीच तनाव कम होने के संकेत नहीं मिल रहे हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान पर अमेरिका-इज़रायल हमलों का 54वां दिन: संघर्षविराम के बीच अविश्वास, हमले जारी और कूटनीति",
-          "summary": "अमेरिका और इज़रायल के हमलों के 54वें दिन, ईरान में संघर्षविराम के बीच अविश्वास और हमले जारी हैं। कूटनीतिक प्रयास जारी हैं लेकिन स्थिति अनिश्चित बनी हुई है। ईरान और अमेरिका के बीच तनाव कम होने के संकेत नहीं मिल रहे हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
