@@ -1,12 +1,120 @@
 {
-  "generated_at": "2026-04-26T18:59:23.774145+00:00",
+  "generated_at": "2026-04-26T19:52:52.547202+00:00",
   "article_count": 42,
-  "total_unique_count": 251,
+  "total_unique_count": 252,
   "digest": {
-    "en": "Israel and Hezbollah exchanged strikes in Lebanon. Iran's talks with the US remain on hold. Israeli Prime Minister said Hezbollah is dismantling the ceasefire with Lebanon.",
-    "hi": "होर्मुज जलडमरूमध्य में आर्थिक युद्ध की स्थिति बनी हुई है। ईरान के विदेश मंत्री 24 घंटे के अंदर दोबारा इस्लामाबाद पहुंचे हैं। अमेरिकी राष्ट्रपति ट्रंप ने कहा है कि युद्ध जल्द खत्म होगा।"
+    "en": "Israel issued forced evacuation orders for southern Lebanon. The US and Iranian officials can reportedly talk by phone, with Trump saying Iran can call the US if it wants to negotiate. Tensions rise as Israel and Hezbollah trade strikes in Lebanon.",
+    "hi": "होर्मुज जलडमरूमध्य में आर्थिक युद्ध की स्थिति बनी हुई है। ट्रंप की डिनर पार्टी में फायरिंग की घटना सामने आई है, जिस पर दुनिया भर के नेताओं ने प्रतिक्रिया दी। इस घटना के बाद सुरक्षा को लेकर सवाल उठ रहे हैं।"
   },
   "articles": [
+    {
+      "title": "Israel issues forced evacuation orders for southern Lebanon in escalation",
+      "url": "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-26T19:09:56+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69eaaa87-1776986759.jpg?resize=1920%2C1440",
+      "summary": "Israel issued forced evacuation orders for southern Lebanon after PM Benjamin Netanyahu accused Hezbollah of undermining the ceasefire. Hezbollah rejects allegations from Israeli PM Benjamin Netanyahu that it is undermining the Israel-Lebanon ceasefire.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump says US shooting suspect wrote anti-Christian manifesto, called himself a ‘Friendly Federal",
+      "url": "https://indianexpress.com/article/world/donald-trump-white-house-dinner-shooter-cole-tomas-allen-manifesto-kash-patel-10657215/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-04-26T19:08:58+00:00",
+      "image_url": "https://images.indianexpress.com/2026/04/Trump-White-House-Correspondents-Dinner-3.jpg",
+      "summary": "Trump stated a US shooting suspect wrote an anti-Christian manifesto and called himself a Friendly Federal. Trump says US shooting suspect wrote anti-Christian manifesto, called himself a ‘Friendly Federal.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump says U.S., Iranian officials can talk by phone",
+      "url": "https://www.thehindu.com/news/international/trump-says-us-iranian-officials-can-talk-by-phone/article70909743.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-26T19:00:30+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/4u6c7g/article70909757.ece/alternates/LANDSCAPE_1200/20260426042L.jpg",
+      "summary": "Trump expressed disappointment in NATO and suggested the US may consider leaving the military alliance. Asked about NATO, Mr. Trump said he was “very, very disappointed” in the military alliance, which he has suggested the U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump says Iran can call U.S. if it wants to negotiate",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-26T18:59:12+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/k0mdnd/article70900389.ece/alternates/LANDSCAPE_1200/AP04_24_2026_000004B.jpg",
+      "summary": "Iran's Foreign Minister Abbas Araghchi discussed security in the Strait of Hormuz with Oman officials. Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign ​Minister Abbas Araghchi ‌held talks in ​Oman, discussed security ‌in the Strait of Hormuz, ‌broader ⁠Gulf waters, ⁠and diplomatic efforts to end the ​Iran-U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "10 Minutes Before Firing At Trump Event, Shooter Sent A Manifesto To Family",
+      "url": "https://www.ndtv.com/world-news/donald-trump-assassination-cole-thomas-manifesto-white-house-correspondents-dinner-us-shooting-news-trump-event-shooter-sent-a-manifesto-to-family-11412424#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T18:47:52+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/5p28802k_trump-shooter_625x300_26_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "The Trump event shooter sent a manifesto to family 10 minutes before firing, prompting his brother to raise the alarm. It was Allen's brother who first raised the alarm. 10 Minutes Before Firing At Trump Event, Shooter Sent A Manifesto To Family.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Event Shooter's Manifesto Spares FBI Chief Kash Patel From Hit List",
+      "url": "https://www.ndtv.com/world-news/trump-event-shooters-manifesto-spares-fbi-chief-kash-patel-from-hit-list-11412920#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T18:46:58+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/1dr875cc_cole-kash-patel_625x300_27_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "A shooter was taken into custody after running through a security checkpoint at a Trump event. Allen was taken into custody after police said he ran through a security checkpoint.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+      "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-04-26T18:37:26+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f3/live/61ff56e0-41a1-11f1-9030-47a4fb432d46.jpg",
+      "summary": "Authorities believe the suspect in the press dinner shooting targeted Trump and officials. The suspect will be charged with assault and using a firearm during a crime. The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Event Shooter Mocked Hotel Security In Manifesto, Said 'Won't Use Slugs'",
+      "url": "https://www.ndtv.com/world-news/trump-event-shooter-mocked-hotel-security-said-wont-use-slugs-in-manifesto-11412855#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T18:37:03+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/cm9jofdo_white-house-correspondent-dinner-donald-trump-assassination-attempt_625x300_26_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Trump stated the shooter acted alone as a \"lone wolf\". The suspect had mocked hotel security in a manifesto. Trump said officials believed he acted alone and was what he called a \"lone wolf\".",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump makes a fresh case for White House ballroom after shooting incident at dinner event",
+      "url": "https://www.thehindu.com/news/international/trump-makes-a-fresh-case-for-white-house-ballroom-after-shooting-incident-at-dinner-event/article70909700.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-26T18:29:22+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/xhsjj2/article70909721.ece/alternates/LANDSCAPE_1200/Trump_44777.jpg",
+      "summary": "Trump made a case for a White House ballroom after a shooting at a dinner event. He slammed a petitioner in a related case. Mr. Trump slammed the petitioner in the case, contending that she had absolutely no standing to bring such a suit and it must be dropped immediately.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
       "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
@@ -20,13 +128,49 @@
       "translations": {}
     },
     {
-      "title": "White House correspondents' dinner shooting LIVE: Shooting suspect wrote anti-Christian manifesto",
-      "url": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
-      "source": "The Hindu (International)",
+      "title": "Iran's foreign minister returns to Pakistan after U.S. envoys' trip canceled",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaldEcGJmb245Z2ZkNVg1c05IaFBQNFQyZ0RJV0pvWDV5Umt5Rm1TRkNXLS14MTdFaUQ0Njk3RGtOdU9CVXVKQ3hybFItNTdnNDFkNGJIVGxNM0FBRXlqeGV2dEhmOE43Z2xDOFFpTXB4anprN1NnOHp5elVxWWR0emJfR2E2anNwX0otdlpYd2tBbXdSRTlrU3ZrSFpNX0xpN0kwNi01dWQ0MEXSAbABQVVfeXFMTmt1ZlhRX2lSeGlOOEI3NTBkbmV1a2tzdDNZdkNGdVZSNmlKbUM0NjQtbkRpaWRTdF90MEN1RG53bVI3MkFJOUItRDA5RUdjczZ4STNSeFdFN2FWS0U5VDhHbUlaM3plUl9YQXNQOXlZNnpDanZ2bEh1TS1tTUNUa1F1UDFpaDVkclRwMkhET2FMRUhfbUxva2pIQWFqSV93cEN0emxwakcwQkZLOUFEcGQ?oc=5",
+      "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-04-26T17:55:17+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/hhlhu0/article70909736.ece/alternates/LANDSCAPE_1200/Trump_Correspondents_53118.jpg",
-      "summary": "A gunman tried to storm the White House Correspondents' dinner with guns and knives, leaving writings that targeted Trump administration officials, according to US President Donald Trump. The accused gunman who tried to storm the ballroom at the White House Correspondents' Association dinner with guns and knives left writings that called for the targeting of Trump administration officials, U. S.",
+      "published_at": "2026-04-26T18:14:00+00:00",
+      "image_url": "https://images.pexels.com/photos/30711469/pexels-photo-30711469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iran's foreign minister returned to Pakistan after a US envoy trip was canceled. Live Updates: Iran's foreign minister returns to Pakistan after U. S. envoys' trip canceled CBS News. Iran's foreign minister returns to Pakistan after U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Xi Jinping’s Four Peace Initiatives after the Iran War",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVgtUWJkdTEwaUluYlhFR016NTVHV0YzUjdZbEVLOEtjYVNJR3UxREdVa01ONERFMDNtdmh6N3hVV1dsbTBadkdWaUUzWTFSMk9leGM3b2w2ZFZ3dkZXOFIxcEJIOFJrU1MyTDZPTEJDSEhUY2NuWlJPbDNqRkRTZ0lGdENMa0dOcWpkMzBrdWtNcng2Yktz?oc=5",
+      "source": "Google News (global security)",
+      "sources": [],
+      "published_at": "2026-04-26T18:07:03+00:00",
+      "image_url": "https://images.pexels.com/photos/32662254/pexels-photo-32662254.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Xi Jinping proposed Four Peace Initiatives after the Iran War. The initiatives were outlined in an article on Modern Diplomacy. Xi Jinping’s Four Peace Initiatives after the Iran War Modern Diplomacy.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
+      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-26T17:57:24+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26int-israel-pardon-wfjv/26int-israel-pardon-wfjv-mediumSquareAt3X.jpg",
+      "summary": "Israel's President Isaac Herzog will not pardon Benjamin Netanyahu. Instead, he will seek a plea deal in Netanyahu's corruption case. President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "As Kash Patel's Past Catches Up, Report Hints At Trump Axe",
+      "url": "https://www.ndtv.com/world-news/fbi-chief-kash-patel-drinking-past-arrest-kash-patel-might-be-fired-soon-claims-bombshell-report-11412156#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T17:50:23+00:00",
+      "image_url": "https://c.ndtvimg.com/2025-02/6pd10fn_kash-patel-afp_625x300_21_February_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Kash Patel's past use of FBI resources has raised separate questions, hinting at potential repercussions from the Trump administration. Separate questions have also been raised about Patel's use of FBI resources.",
       "region": "Americas",
       "language": "en",
       "translations": {}
@@ -44,6 +188,42 @@
       "translations": {}
     },
     {
+      "title": "Let's Not Forget Those Thieves: Pope Leo On Forces That Wage War",
+      "url": "https://www.ndtv.com/world-news/lets-not-forget-those-thieves-pope-leo-on-forces-that-wage-war-11412703#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T17:33:40+00:00",
+      "image_url": "https://c.ndtvimg.com/2025-11/88ke5opg_pope-leo_625x300_18_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Pope Leo issued a warning about the use of nuclear power on the Chernobyl anniversary, highlighting the destructive forces of war. Pope Leo issued a warning about the use of nuclear power on the anniversary of the Chernobyl accident.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Again Asks Iran To Call US For Negotiations",
+      "url": "https://www.ndtv.com/world-news/us-iran-talks-donald-trump-abbas-araghchi-jared-kushner-steve-witkoff-there-is-a-telephone-trump-again-asks-iran-to-call-us-for-negotiations-11412537#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T17:33:10+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/9oosmnu8_donald-trump_625x300_26_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Trump has asked Iran to initiate peace negotiations with the US, a request made in a recent statement. Trump ask Iran to dial the US for peace negotiations. (File). Trump Again Asks Iran To Call US For Negotiations.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump’s Lincoln reference over repeated violent incidents",
+      "url": "https://indianexpress.com/article/world/donald-trump-white-house-correspondents-dinner-shooting-lincoln-comparison-cole-tomas-allen-10657143/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-04-26T17:30:35+00:00",
+      "image_url": "https://images.indianexpress.com/2026/04/Trump-White-House-Correspondents-Dinner-2.jpg",
+      "summary": "Trump referenced Lincoln in response to repeated violent incidents, drawing a historical parallel to the US president's leadership. Trump’s Lincoln reference over repeated violent incidents.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "US-Israel-Iran War Ceasefire News Live Updates: 'We have all the cards', Trump says Iran can 'call",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPTk80SXVrUGloMWdIVGtBdVZIcVJvVGdfU28yNk1KR0lwY0FRUzFBX2NDZ2trb0k2MnZ1WHJlSGZ2ZHFxQU51VDE1UWRMUjkxYUhXV2pnZVBlV0FXdUIxMFFIRDcyTWFxRU01RGRfN09tXzF3STF1OW1LRHBfTkJFRXJzb2szcFJodEhwY0xJcDFQUmJRdnRtMVhnWHB6UzQyV3hwQ3A2eW1XOUc1YW93UmhnUUxrT0FPcHJqQkRFYnF1ZkhldWl6NTNOZ3VTNWVremR4c3BhNU51MEdfTHk1Q053dnNzV3VFYktmc2R1dEo2ZkVybWlXMW43bWZQb21PT19rekprc0YxZGZIYTc1TGtoczlwazZlNjVnak91eUNhTURfbEthTmFFY1VKYkpEVXQ00gG4AkFVX3lxTE4yc2ZFZVJ5Yy1fbFNEYVM0Y3FpeTRJb0ZaMmhFVURXR3VRODR3WUVFZ3NIYnpGcV85TWdBZFhfV0wyUGk0cmF2WjlxcTBFMldjY3U1MEREemNtZEpFWXV1c1d5QmlhSm16NVVfSGNLTV9HOUk2c1NEang2YnBNLW1wb3A2T0RUVWNaR0o3TGQ5TmFNQkJ3eXlOaXJDd3RHUS1keF9Wa0tkUlpOendLM2NnTVdUb3BGUl9TZ21wOUVBSjN4MGhhTm9EcDJ4RG5XU3JBdDJab0U4eWlVd2VqX3NDVkU1djdQaVVxckstVl84QjEtZnlBWTlNTlM1RnQ0Z2lQRXdPbU1rdHRMb3R0SGRFYnQ3NWRTYVJwRGktd1V0TTdHUWRIRTFnSTZyY2JFazk1SHE2eTdnbA?oc=5",
       "source": "Google News (war ceasefire)",
@@ -56,206 +236,26 @@
       "translations": {}
     },
     {
-      "title": "Iran's foreign minister returns to Pakistan after U.S. envoys' trip canceled",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaldEcGJmb245Z2ZkNVg1c05IaFBQNFQyZ0RJV0pvWDV5Umt5Rm1TRkNXLS14MTdFaUQ0Njk3RGtOdU9CVXVKQ3hybFItNTdnNDFkNGJIVGxNM0FBRXlqeGV2dEhmOE43Z2xDOFFpTXB4anprN1NnOHp5elVxWWR0emJfR2E2anNwX0otdlpYd2tBbXdSRTlrU3ZrSFpNX0xpN0kwNi01dWQ0MEXSAbABQVVfeXFMTmt1ZlhRX2lSeGlOOEI3NTBkbmV1a2tzdDNZdkNGdVZSNmlKbUM0NjQtbkRpaWRTdF90MEN1RG53bVI3MkFJOUItRDA5RUdjczZ4STNSeFdFN2FWS0U5VDhHbUlaM3plUl9YQXNQOXlZNnpDanZ2bEh1TS1tTUNUa1F1UDFpaDVkclRwMkhET2FMRUhfbUxva2pIQWFqSV93cEN0emxwakcwQkZLOUFEcGQ?oc=5",
-      "source": "Google News (war ceasefire)",
+      "title": "Russia, North Korea agree 'long-term' military cooperation",
+      "url": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
       "sources": [],
       "published_at": "2026-04-26T17:25:00+00:00",
-      "image_url": "https://images.pexels.com/photos/30711469/pexels-photo-30711469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Iran's foreign minister returned to Pakistan after a US envoy trip was canceled. Live Updates: Iran's foreign minister returns to Pakistan after U. S. envoys' trip canceled CBS News.",
-      "region": "Middle East & Africa",
+      "image_url": "https://static.dw.com/image/76945581_6.jpg",
+      "summary": "Russia and North Korea have agreed on long-term military cooperation, with a defense deal and memorial inauguration marking the agreement. Russia's defense minister and the chairman of the State Duma are both visiting North Korea.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Iran Foreign Minister Araghchi meets Army Chief Munir after returning to Pakistan",
-      "url": "https://www.thehindu.com/news/international/iran-foreign-minister-abbas-araghchi-in-pakistan-islamabad-us-ceasefire-talks/article70909147.ece",
+      "title": "Syrian court begins proceedings against Assad and allies",
+      "url": "https://www.thehindu.com/news/international/syrian-court-begins-proceedings-against-assad-and-allies/article70909634.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-04-26T17:23:03+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/j134yr/article70909178.ece/alternates/LANDSCAPE_1200/2026-04-25T191723Z_1348755761_RC2JWKA1GXFH_RTRMADP_3_IRAN-CRISIS-OMAN-IRAN-ARAQCHI.JPG",
-      "summary": "Iran Foreign Minister Araghchi met Pakistan's Army Chief Munir after returning to the country. Two Pakistani officials did not say when the Americans might return to the region to follow up on historic face-to-face talks earlier this month.",
+      "published_at": "2026-04-26T17:24:14+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/xvxifd/article70909646.ece/alternates/LANDSCAPE_1200/APTOPIX_Syria_Trial_75874.jpg",
+      "summary": "A Syrian court started proceedings against President Bashar al-Assad, his brother Maher, and others for alleged war crimes. Assad and his brother fled Syria and will be tried in absentia, while former security official Atef Najib appeared in handcuffs.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "10 Minutes Before Firing At Trump Event, Shooter Sent A Manifesto To Family",
-      "url": "https://www.ndtv.com/world-news/donald-trump-assassination-cole-thomas-manifesto-white-house-correspondents-dinner-us-shooting-news-trump-event-shooter-sent-a-manifesto-to-family-11412424#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-26T17:07:41+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/5p28802k_trump-shooter_625x300_26_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The Trump event shooter sent a manifesto to family 10 minutes before firing, prompting his brother to raise the alarm. It was Allen's brother who first raised the alarm. 10 Minutes Before Firing At Trump Event, Shooter Sent A Manifesto To Family.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israel PM says Hezbollah 'dismantling' ceasefire with Lebanon",
-      "url": "https://www.thehindu.com/news/international/israel-pm-says-hezbollah-dismantling-ceasefire-with-lebanon/article70909606.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-26T17:02:12+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/n2h3qe/article70909615.ece/alternates/LANDSCAPE_1200/Israel_Remembrance_Day_959_3.jpg",
-      "summary": "Israel's Prime Minister claims Hezbollah is dismantling the ceasefire with Lebanon, citing Israel's right to respond to planned attacks under the terms of the extended truce. Israel has been striking targets in south Lebanon almost daily.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran shifts economic focus to essentials during war uncertainty",
-      "url": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-26T17:00:10+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/13929546-1777216302.jpg?resize=1920%2C1440",
-      "summary": "Iran is reversing a currency decision for basic items and using its sovereign fund amid war uncertainty. The government is partly reversing a currency decision for basic items and tapping into the country's sovereign fund.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump says Iran can call if it wants to talk, as Iranian envoy returns to Pakistan",
-      "url": "https://www.channelnewsasia.com/world/trump-says-iran-can-call-if-it-wants-talk-iranian-envoy-returns-pakistan-6082246",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-26T16:55:22+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--g8XyTT7z--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Iran_War_125_8.jpg?itok=eWg-V8V6",
-      "summary": "US President Trump said Iran can call to talk after cancelling planned negotiations. The US President said Iran \"can come to us, or they can call us,\" after calling off planned negotiations in Islamabad this weekend.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Abbas loyalists sweep Palestinian elections, including some seats in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-26T16:50:27+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69ee2b6ca2c5-1777216364.jpg?resize=1920%2C1440",
-      "summary": "Palestinian elections saw Abbas loyalists sweep to victory, including some seats in Gaza, despite low voter turnout due to the ongoing impact of the genocide. Voter turnout in Gaza remained low due to the ongoing impact of the genocide.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Zelenskyy accuses Russia of 'nuclear terrorism' on Chernobyl anniversary",
-      "url": "https://www.thehindu.com/news/international/zelenskyy-accuses-russia-of-nuclear-terrorism-on-chernobyl-anniversary/article70909561.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-26T16:48:10+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/4nh1to/article70909595.ece/alternates/LANDSCAPE_1200/Cyprus_EU_Summit__4159.jpg",
-      "summary": "Ukraine's President Zelenskyy accused Russia of nuclear terrorism on the Chernobyl anniversary, following a barrage of over 100 drones launched by Moscow overnight, killing five people across Ukraine.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Amid Iran's Attacks, UAE Called For Help. Israel Responded With Iron Dome",
-      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-amid-irans-attacks-uae-called-for-help-israel-responded-with-iron-dome-benjamin-netanyahu-idf-11412507#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-26T16:35:29+00:00",
-      "image_url": "https://c.ndtvimg.com/2024-10/67gmuofg_israel-iron-dome-afp_625x300_02_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The UAE requested help after Iran's attacks, prompting Israel to deploy its Iron Dome system, which intercepted a barrage of 550 ballistic and cruise missiles and over 2,200 drones. Iran struck the UAE with 550 ballistic and cruise missiles, and over 2,200 drones.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "FIFA set to increase 2026 World Cup prize money",
-      "url": "https://www.channelnewsasia.com/sport/fifa-set-increase-2026-world-cup-prize-money-6082241",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-26T16:29:08+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--8S9u-9zV--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-26T162908Z_1_LYNXMPEM3P0C0_RTROPTP_3_SOCCER-WORLDCUP-USA-TRAVEL.JPG?itok=xZyHEOmD",
-      "summary": "FIFA will increase 2026 World Cup prize money. FIFA set to increase 2026 World Cup prize money.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Chelsea reach FA Cup final with 1-0 win over Leeds",
-      "url": "https://www.channelnewsasia.com/sport/chelsea-reach-fa-cup-final-1-0-win-over-leeds-6082231",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-26T16:14:37+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--hWY8HNs0--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-26T161437Z_2_LYNXMPEM3P0BO_RTROPTP_3_SOCCER-ENGLAND-CHE-LEE.JPG?itok=VW4ZRNo1",
-      "summary": "Chelsea reached the FA Cup final with a 1-0 win over Leeds. Chelsea reach FA Cup final with 1-0 win over Leeds.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Italy referee chief suspends himself over sports fraud investigation",
-      "url": "https://www.channelnewsasia.com/sport/italy-referee-chief-suspends-himself-over-sports-fraud-investigation-6082226",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-26T16:09:48+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--SBTA9m_U--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-26T160948Z_1_LYNXMPEM3P0BM_RTROPTP_3_SOCCER-ITALY-BGN-JUV-REPORT.JPG?itok=3E0OyW0R",
-      "summary": "Italy's referee chief suspended himself due to a sports fraud investigation. Italy referee chief suspends himself over sports fraud investigation.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
-      "url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-26T16:05:33+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26int-uk-royals-wtk-kbcz/26int-uk-royals-wtk-kbcz-mediumSquareAt3X-v2.jpg",
-      "summary": "King Charles and Queen Camilla will visit the US, hosted by Trump. The British royals are set to arrive on Monday for a visit hosted by President Trump, with a garden party, an address to Congress and a banquet on the schedule.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Notes from Central Taiwan: As Trump-Xi nears, once again, the sell out",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSUkNIM0hGODZrVG01MVNnV0lZNGFBT0RIYTFteW5BUzlKMnZtcy05SDMwX2Nnc0E2UGc4T3hyRGNQWkdkaVE4bmtYZktHSlhhMEFac0JvWVJoTGdVV3dXdm5URnoxbHkzS0tjQmtiSm9kVWlja1dB?oc=5",
-      "source": "Google News (international relations)",
-      "sources": [],
-      "published_at": "2026-04-26T16:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/13408361/pexels-photo-13408361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Trump and Xi are nearing a meeting, sparking concerns in Taiwan. Notes from Central Taiwan: As Trump-Xi nears, once again, the sell out Taipei Times.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "New footage shows moment of deadly bus bombing in Colombia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/new-footage-shows-moment-of-deadly-bus-bombing-in-colombia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-26T15:38:20+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/Screenshot-2026-04-26-at-6.36.55-PM-1777217837.png?resize=1920%2C1440",
-      "summary": "New dashcam video shows a bomb-laden bus exploding in Colombia. Newly released dashcam video shows the moment that a bomb-laden bus exploded in Colombia. New footage shows moment of deadly bus bombing in Colombia.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Why Israel has escalated attacks in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-26T15:32:20+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/WIDE-THUMB-GAZA-1776943300.jpg?resize=1920%2C1440",
-      "summary": "Israel escalated attacks in Gaza, expanding control in the strip. Israel escalates attacks and expands control in Gaza Strip, sidelining the new US-backed technocratic administration. Why Israel has escalated attacks in Gaza.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Crushed at the Polls, Hungary’s Former Ruling Party Licks Its Wounds",
-      "url": "https://www.nytimes.com/2026/04/25/world/europe/viktor-orban-fidesz.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-26T15:29:16+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/25/multimedia/25hungary-orban-bqhf/25hungary-orban-bqhf-mediumSquareAt3X.jpg",
-      "summary": "Viktor Orban, co-founder of Hungary's Fidesz party, announced he will leave his Parliament seat but remain party head, as Fidesz suffered a crushing defeat in recent polls. Orban's decision comes as the party assesses its losses and looks to regroup.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -278,24 +278,6 @@
       }
     },
     {
-      "title": "ईरान के विदेश मंत्री 24 घंटे के अंदर दोबारा इस्लामाबाद पहुंचे, ट्रंप ने कहा- युद्ध जल्द ख़त्म होगा",
-      "url": "https://www.bbc.com/hindi/articles/c5y9y52q8qlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-26T16:29:15+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f2f/live/a6e66cc0-4189-11f1-bd52-e755d604ece4.jpg",
-      "summary": "ईरान के विदेश मंत्री अब्बास अराग़ची 24 घंटे में दूसरी बार इस्लामाबाद पहुंचे. उनकी यह यात्रा अमेरिकी प्रतिनिधिमंडल के संभावित आगमन से पहले हुई जब वे ओमान चले गए थे.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के विदेश मंत्री 24 घंटे के अंदर दोबारा इस्लामाबाद पहुंचे, ट्रंप ने कहा- युद्ध जल्द ख़त्म होगा",
-          "summary": "ईरान के विदेश मंत्री अब्बास अराग़ची 24 घंटे में दूसरी बार इस्लामाबाद पहुंचे. उनकी यह यात्रा अमेरिकी प्रतिनिधिमंडल के संभावित आगमन से पहले हुई जब वे ओमान चले गए थे.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "ट्रंप की डिनर पार्टी के दौरान हुई फ़ायरिंग के बाद भारत, पाकिस्तान समेत दुनिया के नेताओं ने क्या कहा?",
       "url": "https://www.bbc.com/hindi/articles/c1l9lgj8vmjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -314,6 +296,42 @@
       }
     },
     {
+      "title": "दूसरे चरण के मतदान से पहले TMC कार्यकर्ता के घर से बमों का जखीरा बरामद; NIA ने दर्ज किया केस",
+      "url": "https://www.amarujala.com/india-news/bengal-assembly-election-major-police-action-ahead-of-phase-2-voting-bombs-recovered-from-tmc-worker-house-2026-04-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-26T06:24:16+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/04/enaaaiie_e4fba74debb7f34620490e15f98e6527.jpeg?w=750&dpr=1.0",
+      "summary": "पश्चिम बंगाल में दूसरे चरण के मतदान से पहले टीएमसी कार्यकर्ता के घर से बम बरामद किए गए. एनआईए ने मामला दर्ज कर जांच शुरू की. यह घटना मतदान से पहले हुई है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दूसरे चरण के मतदान से पहले TMC कार्यकर्ता के घर से बमों का जखीरा बरामद; NIA ने दर्ज किया केस",
+          "summary": "पश्चिम बंगाल में दूसरे चरण के मतदान से पहले टीएमसी कार्यकर्ता के घर से बम बरामद किए गए. एनआईए ने मामला दर्ज कर जांच शुरू की. यह घटना मतदान से पहले हुई है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रघु राय ने जब बताया था कि 'फ़ोटोग्राफ़र नहीं होता तो माली होता'",
+      "url": "https://www.bbc.com/hindi/articles/c1mkm9jmgm0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-26T06:15:49+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a77/live/80a72050-4133-11f1-985f-aba0d9af6c5e.jpg",
+      "summary": "प्रसिद्ध फोटोग्राफर रघु राय ने एक बार कहा था कि अगर वह फोटोग्राफर नहीं होते तो वह माली होते. उनकी नज़र में देश की मिट्टी की सुगंध में काम करना दुनिया में कहीं नहीं मिल सकता.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रघु राय ने जब बताया था कि 'फ़ोटोग्राफ़र नहीं होता तो माली होता'",
+          "summary": "प्रसिद्ध फोटोग्राफर रघु राय ने एक बार कहा था कि अगर वह फोटोग्राफर नहीं होते तो वह माली होते. उनकी नज़र में देश की मिट्टी की सुगंध में काम करना दुनिया में कहीं नहीं मिल सकता.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "ट्रंप बोले- ईरानी अधिकारी फोन पर कर सकते हैं बात; फिर नाटो पर भड़के अमेरिकी राष्ट्रपति",
       "url": "https://www.amarujala.com/world/trump-says-us-iranian-officials-can-talk-by-phone-for-peace-solution-2026-04-26",
       "source": "Amar Ujala World",
@@ -328,24 +346,6 @@
           "title": "ट्रंप बोले- ईरानी अधिकारी फोन पर कर सकते हैं बात; फिर नाटो पर भड़के अमेरिकी राष्ट्रपति",
           "summary": "अमेरिकी राष्ट्रपति ट्रंप ने कहा कि ईरानी अधिकारी फोन पर बात कर सकते हैं। इसके बाद उन्होंने नाटो पर टिप्पणी की और कहा कि यह संगठन पुराना हो गया है। ट्रंप की टिप्पणियों से अमेरिका और ईरान के बीच तनाव कम होने की संभावना है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "क्या फिर चोटिल हो गए एमएस धोनी, गुजरात के खिलाफ क्यों नहीं खेले? कोच फ्लेमिंग ने किया बड़ा खुलासा",
-      "url": "https://www.amarujala.com/cricket/ms-dhoni-injured-again-stephen-fleming-reveals-why-csk-star-missed-gt-clash-2026-04-26",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-26T05:27:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/ms-dhoni-injury-csk-vs-gt-stephen-fleming-statement-ipl-2026-chennai-super-kings-dhoni-comeback_0def0a58c3aa1756a333299073ce949b.jpeg?w=750&dpr=1.0",
-      "summary": "एमएस धोनी गुजरात टाइटंस के खिलाफ नहीं खेल पाए क्योंकि उनकी काफ इंजरी फिर उभर आई थी। कोच स्टीफन फ्लेमिंग ने बताया कि वॉर्म-अप मैच में उन्हें दोबारा चोट लगी थी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या फिर चोटिल हो गए एमएस धोनी, गुजरात के खिलाफ क्यों नहीं खेले? कोच फ्लेमिंग ने किया बड़ा खुलासा",
-          "summary": "एमएस धोनी गुजरात टाइटंस के खिलाफ नहीं खेल पाए क्योंकि उनकी काफ इंजरी फिर उभर आई थी। कोच स्टीफन फ्लेमिंग ने बताया कि वॉर्म-अप मैच में उन्हें दोबारा चोट लगी थी।",
-          "region": "दुनिया"
         }
       }
     },
@@ -400,6 +400,24 @@
           "title": "ईरान में इंटरनेट पाबंदी की वजह से लाखों नौकरियां ख़त्म, इस हालात के लिए ज़िम्मेदार कौन?",
           "summary": "ईरान में इंटरनेट पाबंदियों के कारण लगभग 10 लाख नौकरियां खत्म हो गई हैं। करीब एक करोड़ लोग अपने काम के लिए स्थिर इंटरनेट कनेक्टिविटी पर निर्भर हैं और पाबंदियों से उनकी रोज़ी प्रभावित हुई है।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बालेन शाह ने चीन पर लिया बड़ा एक्शन, शी जिनपिंग को लगा झटका!",
+      "url": "https://www.amarujala.com/video/world/balen-shah-takes-major-action-against-china-xi-jinping-stunned-2026-04-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-26T03:40:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/balen-shah-na-china-para-lya-b-ekashana-xi-jinping-ka-lga-jhataka-nepal-pm-nepal-vs-china_c61c5b0eaf898d24a59de1867a5c6471.jpeg?w=750&dpr=1.0",
+      "summary": "नेपाल के बालेन शाह ने चीन के साथ हुए समझौतों की समीक्षा की है. इसके पीछे एक बड़ा रणनीतिक खेल चल रहा था या नहीं, यह सवाल उठने लगे हैं. नेपाल की सत्ता बदलने के साथ ही पुराने समझौतों के राज खुलने लगे हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बालेन शाह ने चीन पर लिया बड़ा एक्शन, शी जिनपिंग को लगा झटका!",
+          "summary": "नेपाल के बालेन शाह ने चीन के साथ हुए समझौतों की समीक्षा की है. इसके पीछे एक बड़ा रणनीतिक खेल चल रहा था या नहीं, यह सवाल उठने लगे हैं. नेपाल की सत्ता बदलने के साथ ही पुराने समझौतों के राज खुलने लगे हैं.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -584,56 +602,38 @@
       }
     },
     {
-      "title": "UN ने की भारत के आतंक रोधी प्रयासों की सराहना, सिबी जार्ज की हुई अहम बैठक",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlVHNExaSS1fdUg3SWY5OGpzdVl5d0RVR2dYS0FzQm5FUmJKRTFSY09na1BOTHNwRGZxVVNYSWNwRWJxZG1HaUNCYVdWRFRRVlJfU19STXdaOF9GdVJTRlNWSkwzRXJhckl5WDFnYVJITlAzWWVlTFFlUTBzZ0E0NHkwLWMxekY1UnBwcWl0RDRGUzlZVmgtNklPY1lGdEFDNC1YMTF1Yjg3dFd5a2dUNWFqQ0dKbjZWOWZtejVUd3Y?oc=5",
+      "title": "UN की डरावनी चेतावनी, दाने-दाने को मोहताज होंगे 1.1 करोड़ पाकिस्तानी? 10 देशों का बुरा हाल",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVUR4RV9Gd0lpTDZxYkJjRlphV2FCV0QzTlNTbklvOUd4Y2oxMkpNM3FRWlJiazk2U3YtcXc5TDZjTlZQVTNQT3BEd1M5dVZGVFIyaC04ZUstZG9QSGFtc0ZjRUt6S2h4MmV5NVpOSFA0UDE2RzVIemtVSTEzNWFST0JLYV9OTEE5R0ZRQW5QTDZTZ2d0TGx6aEpSM1Z3anV1eVhJMEh6NmdtVC12VGxOcU1rMW1Ob1NyM3lod1V5eDI2LXpQenZQY3U3Mi1zT1lWSEVCQTlsbUpIZ9IB3wFBVV95cUxPZjBuV2ZVNFc1NjJqMk5Wbjl2aGZxWmszdkJUdGU3UVZJeHVEVXlaU2lURGRGbnFaSkJIZzE5MXp5eGR4TTE5ZVpFZWUyb0dNZGxqbXBXMWFFcjNuVnV4VDRIS2pwaEhkdjg3TU11a3FwX281R05jYWdyS3V0ZlNxOElGQXVyVXJPak54NGF4QjlHX2dpTHNlc2owNVVsTWM5ZkJHVEZxaVhtSWc3MTg1WnRBLXRSRG1JbDZhN2g1WkJxRU13aWJaLTBoQjM0T0N5NTJ0ME1JZVIyQXFqeEhv?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-04-25T04:47:00+00:00",
-      "image_url": "https://images.pexels.com/photos/15405989/pexels-photo-15405989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने भारत के आतंक रोधी प्रयासों की सराहना की। भारत के स्थायी प्रतिनिधि सिबी जार्ज ने अहम बैठक की और आतंकवाद पर चर्चा की। UN ने की भारत के आतंक रोधी प्रयासों की सराहना, सिबी जार्ज की हुई अहम बैठक Jagran।",
+      "published_at": "2026-04-25T06:27:45+00:00",
+      "image_url": "https://images.pexels.com/photos/30541596/pexels-photo-30541596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने चेतावनी दी है कि 1.1 करोड़ पाकिस्तानी दाने-दाने को मोहताज हो सकते हैं. 10 देशों की स्थिति खराब है. यह एक डरावनी स्थिति है जो पाकिस्तान और अन्य देशों के लिए खतरा है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "UN ने की भारत के आतंक रोधी प्रयासों की सराहना, सिबी जार्ज की हुई अहम बैठक",
-          "summary": "संयुक्त राष्ट्र ने भारत के आतंक रोधी प्रयासों की सराहना की। भारत के स्थायी प्रतिनिधि सिबी जार्ज ने अहम बैठक की और आतंकवाद पर चर्चा की। UN ने की भारत के आतंक रोधी प्रयासों की सराहना, सिबी जार्ज की हुई अहम बैठक Jagran।",
+          "title": "UN की डरावनी चेतावनी, दाने-दाने को मोहताज होंगे 1.1 करोड़ पाकिस्तानी? 10 देशों का बुरा हाल",
+          "summary": "संयुक्त राष्ट्र ने चेतावनी दी है कि 1.1 करोड़ पाकिस्तानी दाने-दाने को मोहताज हो सकते हैं. 10 देशों की स्थिति खराब है. यह एक डरावनी स्थिति है जो पाकिस्तान और अन्य देशों के लिए खतरा है.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JbzctODRFNGxIb1Z2UURsTFZ3aXNJLWxqWXpoYWVhX3hZcE0xNnBMNF9VU3BXMGU5X1Nfb0pWcURoV203NG9wT2JmVEpnT29fa1dYbWFjdw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा! नहीं बन पा रही आपसी सहमति",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTc0eDdoUTUtWV8wNnoxNVNjYklYSUVMTVpBSDhPYmY5eWRyV3FGMWwyWF9fM1pTMU5CT1pTUXBKd0o2ZzA5SG9Pd0R6amluY0Zhb1h6Ym9udi1jTjZ2VTlUWV80N2pTVEdEZHBaRFJEYk9vbWRhV0F4cEF6REtHQlgxQTF6SFp6eHRVclBzazM5Vk04TXB1Q0F3WjZRMnR4ek9hMEJWVzRObTdlZjRDQjFkd1RHU2ZRdng0d1A0LVVERlZHdHduSFJtcHbSAdMBQVVfeXFMTzk4VHg0aVY4dWNBcHFCRklnUnVCZFlSVG51amJaclFlSEI4eXRjeFRGRVRoMzVTQWc2dFZ1dkJ1SXhydmxYeEpqcWppQU1CZjNSbUNmR25BQ0ExaERBWXZrdzlWQXBvdnF2TFFmZFlqZHFIQ3hZVnE0QUgyRDk3cE9FdUhHbUxKOG5UWHliem9YTDAtcW1BR1VVM0tjVEl1bExPSzR1RkROdDFPcEVwWmg1SlZza2plT2RCUHBBbFJpeE1wTkJUYjdFckZiMEkwNEd3OA?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
-      "published_at": "2026-04-24T21:02:41+00:00",
-      "image_url": "https://images.pexels.com/photos/16705852/pexels-photo-16705852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र मुख्यालय में विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर चर्चा हुई। यह चर्चा परमाणु सुरक्षा के बढ़ते खतरों के मद्देनजर हुई। विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा UN News।",
-      "region": "Global / Multilateral",
+      "published_at": "2026-04-25T04:57:33+00:00",
+      "image_url": "https://images.pexels.com/photos/7278771/pexels-photo-7278771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ब्रिक्स में ईरान-अमेरिका-इजरायल की जंग का मुद्दा नहीं उठेगा. आपसी सहमति नहीं बन पा रही है. यह एक महत्वपूर्ण मुद्दा है जिस पर चर्चा नहीं होगी. ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा!",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा",
-          "summary": "संयुक्त राष्ट्र मुख्यालय में विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर चर्चा हुई। यह चर्चा परमाणु सुरक्षा के बढ़ते खतरों के मद्देनजर हुई। विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा UN News।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "यूरोपीय संघ एक बार फिर अमेरिका से टकराव की तैयारी में, संयुक्त राष्ट्र बनेगा अखाड़ा",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV2tLdWI3Z2hOTU02ZFVkWXRhd252VjVWTmZreFBKNkFWRjFCLWM5YkticHFTaVViX2VEQUc2bzNqeUV0MGJwa0Q5QXJvYllfcjBBLWswVkU0RC1ybFN2ZnVjbWRHTFVIZjhUZzBvNF9BTWJtWXhNbXpWVTlPdDBJN3UwNi1vNldoMjdFZF9heUlncTUxMEhaWlE1NjB6VWZBejlQWWRwWVFseUx6dkticEdlb0gxa2RUSkh2cHpn0gHGAUFVX3lxTE5IYjRTTWRTWC1HUk83cEhOSlE4STkzVFVHQk1JVnlKanRncWhYalI2bE5RRVdWT21jTElyTXZfY09GbjF1M2RaWUtBd3dOc1I4UVc4OVRVd1dxVWs4YzdhbDhTOHZhdGFCb0RybHNlYUNpOUY2T3U4TDhYb3NncFc4Wm1HRmdtbm5PV281czZ2NnpEY0NrandKaHhkaHFrVmNOR3NTak0xT3RJVk9rNDdsU2xTOGZCZDBCUE9hOHcxUmN0OEl1dw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-24T12:39:57+00:00",
-      "image_url": "https://images.pexels.com/photos/7327875/pexels-photo-7327875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "यूरोपीय संघ अमेरिका के साथ टकराव की तैयारी कर रहा है और इसके लिए संयुक्त राष्ट्र मंच बनेगा। यह टकराव यूरोपीय संघ और अमेरिका के बीच बढ़ते मतभेदों के कारण है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूरोपीय संघ एक बार फिर अमेरिका से टकराव की तैयारी में, संयुक्त राष्ट्र बनेगा अखाड़ा",
-          "summary": "यूरोपीय संघ अमेरिका के साथ टकराव की तैयारी कर रहा है और इसके लिए संयुक्त राष्ट्र मंच बनेगा। यह टकराव यूरोपीय संघ और अमेरिका के बीच बढ़ते मतभेदों के कारण है।",
-          "region": "यूरोप और रूस"
+          "title": "ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा! नहीं बन पा रही आपसी सहमति",
+          "summary": "ब्रिक्स में ईरान-अमेरिका-इजरायल की जंग का मुद्दा नहीं उठेगा. आपसी सहमति नहीं बन पा रही है. यह एक महत्वपूर्ण मुद्दा है जिस पर चर्चा नहीं होगी. ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा!",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
