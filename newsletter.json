@@ -1,12 +1,108 @@
 {
-  "generated_at": "2026-04-26T07:44:03.621942+00:00",
+  "generated_at": "2026-04-26T09:04:43.360423+00:00",
   "article_count": 42,
   "total_unique_count": 250,
   "digest": {
-    "en": "A Swiss plane aborted take-off at Delhi airport bound for Zurich. Iran's foreign minister said they had yet to see if the US was truly serious about diplomacy. Pakistan's prime minister discussed the regional situation with Iranian President.",
-    "hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की डिनर पार्टी में गोलीबारी की घटना सामने आई है। इस घटना में कई लोगों के घायल होने की खबर है। घटना के बाद ट्रंप को सुरक्षित बाहर निकाल लिया गया।"
+    "en": "Russian attacks on Ukraine kill at least five, damage ship in port. Meanwhile, Sri Lanka is seeking investors for its loss-making Mattala airport in Hambantota, a project that has been plagued by financial struggles and infrastructure issues. The airport's fate remains uncertain as the country looks to revive its struggling economy.",
+    "hi": "ईरान के विदेश मंत्री पाकिस्तान का दौरा करेंगे। यह घोषणा मिडिल ईस्ट तनाव के बीच हुई है। ईरान और पाकिस्तान के बीच कूटनीतिक संबंधों में सुधार की कोशिशें जारी हैं।"
   },
   "articles": [
+    {
+      "title": "Russian attacks on Ukraine kill at least five, damage ship in port",
+      "url": "https://www.aljazeera.com/news/2026/4/26/russian-strikes-kill-at-least-five-civilians-across-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-26T08:41:17+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260425__A8XQ99E__v1__MidRes__UkraineRussiaConflictWar-1777190039.jpg?resize=1200%2C630",
+      "summary": "Russian attacks on Ukraine killed at least five people and damaged a ship in port. Ukrainian attacks on Russia injure at least six people in Vologda region and annexed Crimea.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How American taxpayers fund Trump’s wars",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/26/how-american-taxpayers-fund-trumps-wars-3?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-26T07:57:42+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/BTN_Thumbnail_Landscape_V07-1777190220.png?resize=1920%2C1008&quality=80",
+      "summary": "Americans worked 50 days in 2025 to fund war efforts. Contractors received twice the tax money as US troops. Contractors got twice the tax money that US troops did. How American taxpayers fund Trump’s wars.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "World reacts to shooting at White House correspondents’ dinner",
+      "url": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-26T07:57:13+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-26T032530Z_1955798129_RC2RWKAOHOHX_RTRMADP_3_USA-TRUMP-DINNER-1777187043.jpg?resize=1920%2C1440",
+      "summary": "A shooting occurred at the White House correspondents’ dinner. Politicians and world leaders condemned the attack. US politicians from across the aisle, world leaders condemn the attack and express relief that Trump is safe.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China launches Pakistani satellite",
+      "url": "https://www.thehindu.com/sci-tech/china-launches-pakistani-satellite/article70907952.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-26T07:53:31+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/g1dejj/article70908002.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%2016.jpg",
+      "summary": "China launched the PRSC-EO3 satellite for Pakistan using a Long March-6 carrier rocket. The satellite successfully entered its planned orbit at 8:15 p. m. Beijing Time. The satellite named PRSC-EO3 was lifted off at 8:15 p.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Palestinians Vote In First Gaza Local Elections In Over 20 Years",
+      "url": "https://www.ndtv.com/world-news/palestinians-vote-in-first-gaza-local-elections-in-over-20-years-11410721#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T07:49:38+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/agtkucg_palestinians-vote-afp_625x300_26_April_26.jpeg",
+      "summary": "Palestinians voted in local elections in Gaza for the first time in over 20 years. The elections did not include Israeli-annexed east Jerusalem. Palestinians Vote In First Gaza Local Elections In Over 20 Years.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US Bases Suffered Massive Damage In Iran Strikes, Repair May Cost Billions: Report",
+      "url": "https://www.ndtv.com/world-news/iran-strikes-caused-quot-far-worse-quot-damage-to-us-bases-than-reported-officials-say-11410545#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T07:37:51+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/nkt7elcc_us-base-saudi-reuters_625x300_26_April_26.jpeg",
+      "summary": "Iran strikes damaged US bases, potentially costing billions to repair, including a damaged AWACS aircraft. A damaged US AWACS aircraft following an Iranian strike on a base in Saudi. US Bases Suffered Massive Damage In Iran Strikes, Repair May Cost Billions: Report.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Evacuated After Gunshots At Event: A Look At Past Threats, Attempts",
+      "url": "https://www.ndtv.com/world-news/donald-trump-evacuated-after-gunshots-near-whca-dinner-in-washington-a-look-at-past-threats-and-attempts-11410325#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T07:30:00+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/isflo9rc_trump_625x300_26_April_26.jpeg",
+      "summary": "Donald Trump was evacuated after gunshots at an event, his second close call after two assassination attempts during the 2024 campaign. This isn't the first time Trump has faced such a situation, as he had met with two assassination attempts during the 2024 campaign.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Sri Lanka seeks investors for loss-making Mattala airport in Hambantota",
+      "url": "https://www.thehindu.com/news/international/sri-lanka-seeks-investors-for-loss-making-mattala-airport-in-hambantota/article70908035.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-26T07:29:49+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/international/8msqad/article70908049.ece/alternates/LANDSCAPE_1200/MattalaAirport.JPG",
+      "summary": "Sri Lanka seeks investors for the loss-making Mattala airport, which India has shown interest in operating through a joint venture. India has in the past expressed interest to operate the airport in Mattala, which has made headlines as the ‘world’s emptiest airport’, including through a joint venture with a Russian company.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Zurich-bound Swiss plane aborts take-off at Delhi airport",
       "url": "https://www.thehindu.com/news/national/zurich-bound-swiss-plane-aborts-take-off-at-delhi-airport/article70907898.ece",
@@ -32,14 +128,14 @@
       "translations": {}
     },
     {
-      "title": "Pakistan PM dials Iranian President, discusses evolving regional situation",
-      "url": "https://www.thehindu.com/news/international/pakistan-pm-dials-iranian-president-discusses-evolving-regional-situation/article70907837.ece",
-      "source": "The Hindu (International)",
+      "title": "We can make sure another Chornobyl disaster does not happen, here is how",
+      "url": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-04-26T07:20:48+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/hz418o/article70907839.ece/alternates/LANDSCAPE_1200/2026-03-09T173537Z_1272462960_RC2WEIAEPOLW_RTRMADP_3_IRAN-CRISIS-PAKISTAN-AUSTERITY.JPG",
-      "summary": "Pakistan's prime minister and Iranian President had a 50-minute conversation about the regional situation. They discussed efforts to promote peace and stability in the region.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-04-26T07:16:05+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-25T220333Z_771244100_RC2LWKAIJW32_RTRMADP_3_UKRAINE-CRISIS-CHORNOBYL-1777185342.jpg?resize=1920%2C1390",
+      "summary": "Decentralised renewable energy systems provide a safe alternative to prevent disasters like Chornobyl. In war and peace, decentralised renewable energy systems provide a safe and resilient alternative. We can make sure another Chornobyl disaster does not happen, here is how.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -69,26 +165,38 @@
       "translations": {}
     },
     {
-      "title": "China launches Pakistani satellite",
-      "url": "https://www.thehindu.com/sci-tech/china-launches-pakistani-satellite/article70907952.ece",
-      "source": "The Hindu (International)",
+      "title": "Trump Event Shooting At Same Hotel Where Ronald Reagan Was Shot 45 Years Ago",
+      "url": "https://www.ndtv.com/world-news/president-donald-trump-white-house-dinner-trump-evacuation-trump-event-shooting-at-same-hotel-where-ronald-reagan-was-shot-45-years-ago-11410618#publisher=newsstand",
+      "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-04-26T07:05:03+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/g1dejj/article70908002.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%2016.jpg",
-      "summary": "China launched the PRSC-EO3 satellite for Pakistan using a Long March-6 carrier rocket. The satellite successfully entered its planned orbit at 8:15 p. m. Beijing Time. The satellite named PRSC-EO3 was lifted off at 8:15 p. m.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-04-26T07:03:38+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/1k8pin6_trump-reagan-shooting_625x300_26_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "summary": "A Trump event was evacuated after gunshots at the same hotel where Ronald Reagan was shot 45 years ago. The entire room was ordered evacuated, and several hundred guests made their way into the Hilton lobby.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
-      "url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
-      "source": "NYT World",
+      "title": "White House Press Dinner Shooting Linked To Iran War? What Trump Said",
+      "url": "https://www.ndtv.com/world-news/white-house-press-dinner-shooting-linked-to-iran-war-what-trump-said-11410626#publisher=newsstand",
+      "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-04-26T06:56:31+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/25/multimedia/25israel-iran-promo-4pm-zkht/25israel-iran-promo-4pm-zkht-mediumSquareAt3X.jpg",
-      "summary": "US presidential advisor Jared Kushner and businessman Witkoff will not travel to Pakistan for peace talks. The decision was made by former US President Donald Trump, who cited unspecified reasons for the cancellation.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-04-26T06:59:31+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/iu3g86vs_donald-trump-afp_625x300_26_April_26.jpeg",
+      "summary": "Donald Trump was evacuated from the White House Correspondents' Association dinner after gunshots were heard at the venue. Donald Trump was evacuated from an annual dinner of the White House Correspondents' Association after gunshots were heard at the venue.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Event Shooting Live Updates: Israel's Netanyahu \"Shocked\" By Trump's Assassination Bid",
+      "url": "https://www.ndtv.com/world-news/donald-trump-shooting-live-updates-us-president-jd-vance-melania-trump-rushed-from-white-house-correspondents-dinner-after-gunshots-heard-11409917#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T06:55:06+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/3m154kh_trump-says-press-dinner-shooter-was-a-lone-wolf_625x300_26_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Donald Trump was evacuated after gunshots were heard at his event. Israeli Prime Minister Netanyahu expressed shock at the assassination attempt on Trump. Trump Event Shooting Live Updates: Israel's Netanyahu \"Shocked\" By Trump's Assassination Bid.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -105,6 +213,54 @@
       "translations": {}
     },
     {
+      "title": "Blockades, Diplomacy, and Tensions",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNXzk4Nnp3RkpCcFFaV2c1cW8xb05EamFYN3hKVVRCR2tkTEswSTRwX21ac2ZCQXhoWnExMTBvOHBiNmxkUzlrZ0FtNHR1LTJtT0Y4ZmZCd2wtRUE0cU9fS1BOaVpLQkdOYzdYQ2tTOVJWRW43bEtjNjdXU08ta3luYkdTcVZ1ZDBqMWJLNHVtUV9fVDhfWE5kWWRZQ29VV28?oc=5",
+      "source": "Google News (diplomacy sanctions)",
+      "sources": [],
+      "published_at": "2026-04-26T06:52:10+00:00",
+      "image_url": "https://images.pexels.com/photos/4468974/pexels-photo-4468974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Tensions between Iran and the US have escalated. The situation is being managed through blockades and diplomatic efforts. Iran and US: Blockades, Diplomacy, and Tensions Devdiscourse.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "What’s happening on day 58 as Tehran-Washington talks stall?",
+      "url": "https://www.aljazeera.com/news/2026/4/26/iran-war-whats-happening-on-day-58-as-tehran-washington-talks-stall?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-26T06:29:14+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26108447326306-1777058208.jpg?resize=1200%2C675",
+      "summary": "Tehran-Washington talks have stalled. Trump canceled a planned trip to Pakistan by his envoys, further complicating efforts to end the war with Iran. Trump calls off planned trip to Pakistan by his envoys, in the latest setback to efforts to end the war with Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Alaudinov Warns NATO May Target Russia After Iran War",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXFGZmo3SUxuRElCSjZpV0hqMm9GUU5KTGVaWGJrSGRwSmZ2WEZHcHlPeER6OWp2SnAzN3g3UTNkei1XUllUOFRmVy1sdk9LbkxJX2c4R0ZZZnE0QXFwdTQ1RUhLVzFyQ2lrMEkzVlo1MWVRZEFPWTRIcjltUU1HMWc5X0I1ejJMRlhkTGZJb2syWFFSSGNRVXRB0gGeAUFVX3lxTFB4VVlPZ0xMemVPazBoWWdUYU9RUVJIcm0xcFlBZXhudktjenVNMXdKSXN6Njd3aEM5U21WOWFSelZYdEMxbE1iazh2T2RId1VVdmc5OGdKNS1KaHhzOEUzbXQ0X3JaeW5pcW5adlIxSEN4dEoyend3dVZBMkIyM0wzLU1iNGdIdExIdWZQNHBWYmM2VklQMC0zeEZHZ2xB?oc=5",
+      "source": "Google News (NATO conflict)",
+      "sources": [],
+      "published_at": "2026-04-26T05:59:03+00:00",
+      "image_url": "https://images.pexels.com/photos/33356645/pexels-photo-33356645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Alaudinov warned that NATO may target Russia after the Iran war. He made this statement in the context of rising tensions between Russia and NATO. Alaudinov Warns NATO May Target Russia After Iran War Военное дело.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "What we know about the Trump press gala shooting",
+      "url": "https://www.channelnewsasia.com/world/donald-trump-washington-hilton-hotel-shooting-what-we-knoww-6081731",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-26T05:54:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--x-0hMWrf--/c_crop,h_900,w_1600,x_0,y_88/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/26/trump_evacuate_dinner_8.jpg?itok=4qmh4I3E",
+      "summary": "Shots were heard at the White House Correspondents' Association dinner at the Washington Hilton Hotel. The incident occurred after the welcoming speech. Shots were heard after the welcoming speech at the annual dinner of the White House Correspondents' Association being held at the Washington Hilton Hotel.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Colombia highway bomb attack kills 14",
       "url": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-14/a-76939450?maca=en-rss-en-world-4025-xml-mrss",
       "source": "DW World (English)",
@@ -115,270 +271,6 @@
       "region": "Americas",
       "language": "en",
       "translations": {}
-    },
-    {
-      "title": "Trump says Kushner, Witkoff no longer going to Pakistan for Iran talks",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaldEcGJmb245Z2ZkNVg1c05IaFBQNFQyZ0RJV0pvWDV5Umt5Rm1TRkNXLS14MTdFaUQ0Njk3RGtOdU9CVXVKQ3hybFItNTdnNDFkNGJIVGxNM0FBRXlqeGV2dEhmOE43Z2xDOFFpTXB4anprN1NnOHp5elVxWWR0emJfR2E2anNwX0otdlpYd2tBbXdSRTlrU3ZrSFpNX0xpN0kwNi01dWQ0MEXSAbABQVVfeXFMTmt1ZlhRX2lSeGlOOEI3NTBkbmV1a2tzdDNZdkNGdVZSNmlKbUM0NjQtbkRpaWRTdF90MEN1RG53bVI3MkFJOUItRDA5RUdjczZ4STNSeFdFN2FWS0U5VDhHbUlaM3plUl9YQXNQOXlZNnpDanZ2bEh1TS1tTUNUa1F1UDFpaDVkclRwMkhET2FMRUhfbUxva2pIQWFqSV93cEN0emxwakcwQkZLOUFEcGQ?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-04-26T04:57:00+00:00",
-      "image_url": "https://images.pexels.com/photos/31513071/pexels-photo-31513071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "US presidential advisor Jared Kushner and businessman Witkoff will not travel to Pakistan for Iran talks. The decision was made by former US President Donald Trump, who cited unspecified reasons for the cancellation.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
-      "url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-26T04:01:33+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26int-uk-royals-wtk-kbcz/26int-uk-royals-wtk-kbcz-mediumSquareAt3X.jpg",
-      "summary": "British royals King Charles and Queen Camilla are set to visit the US, hosted by President Trump. The visit includes a garden party, an address to Congress, and a banquet, scheduled to take place on Monday.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "40 Years After the Meltdown, War Layers Another Disaster on Chernobyl",
-      "url": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-26T04:01:26+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26int-ukraine-chernobyl-01-jzqb-promo/26int-ukraine-chernobyl-01-jzqb-mediumSquareAt3X.jpg",
-      "summary": "Ukraine's Chernobyl exclusion zone, site of the world's worst nuclear accident, will remain a security belt controlled by the army, dashing hopes for economic revival. The area has been contaminated for 40 years. Ideas for its reuse have been floated but not pursued.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "40 Years Ago, a Nuclear Catastrophe at Chernobyl",
-      "url": "https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-26T04:01:26+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/20/world/00int-chernobyl-photos-01/00int-chernobyl-photos-01-mediumSquareAt3X.jpg",
-      "summary": "The Chernobyl nuclear disaster, 40 years ago, was followed by a massive response and evacuation effort. Photographs from the time show the accident's immediate aftermath and long-term consequences. The world’s worst nuclear accident occurred on April 26, 1986.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China’s Foreign Minister Wang Yi tells Myanmar leader Beijing will back its security, sovereignty",
-      "url": "https://www.channelnewsasia.com/east-asia/wang-yi-min-aung-hlaing-china-myanmar-support-national-sovereignty-6081671",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-26T03:47:14+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--kMBDRpgS--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Myanmar_China_65858.jpg?itok=JkZ_jSdB",
-      "summary": "China's Foreign Minister Wang Yi pledged support for Myanmar's security and sovereignty, saying Beijing will back the country's development path. Beijing supports Myanmar “in forging a successful development path that aligns with its national conditions and enjoys the support of its people”, Wang said, according to a Chinese ministry readout on Apr 25.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Oil, Geopolitics, and Cameco: Here's Where the Stock Could Be in 12 Months",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXBTc3dtb1FlbjU2U0xkb0RxVktvd2U4V0xfZkxQTW5UOTZzVktZUTl0QWVVNldBVzVQN2tmNWtjaUJfZUMwQ1ZnckttWmYwRjliS2M5OUVVTElRdHhEeFN2NElWOWcwWnBlN19NckpTd1JuWm5MQ3IwRmx5em1PWGVTam1MSlpsQzRpRWV0bURNSkhJUXlZUw?oc=5",
-      "source": "Google News (geopolitics)",
-      "sources": [],
-      "published_at": "2026-04-26T03:43:17+00:00",
-      "image_url": "https://images.pexels.com/photos/16862261/pexels-photo-16862261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Cameco's stock performance is expected to be influenced by oil prices and geopolitical factors in the next 12 months. Oil, Geopolitics, and Cameco: Here's Where the Stock Could Be in 12 Months The Motley Fool.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What we know so far about suspected gunman at dinner attended by Trump",
-      "url": "https://news.sky.com/story/a-lone-wolf-whack-job-what-we-know-so-far-about-the-suspected-gunman-13536655",
-      "source": "Sky News World",
-      "sources": [],
-      "published_at": "2026-04-26T03:14:00+00:00",
-      "image_url": "https://e3.365dm.com/26/04/1920x1080/skynews-trump-truth-social-image_7230874.jpg?20260426052330",
-      "summary": "A suspect armed with multiple weapons and knives stormed a security checkpoint at the White House Correspondents' Dinner in Washington DC, shooting a Secret Service agent. Police provided details of the incident.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘Get down, get down!’ Trump and Melania rushed to safety as shots fired at White House dinner",
-      "url": "https://indianexpress.com/article/world/us-news/get-down-get-down-trump-and-melania-rushed-to-safety-as-shots-fired-video-10656174/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-04-26T02:55:48+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/US-4-14.jpg",
-      "summary": "Trump and First Lady Melania were rushed to safety with orders to \"get down\" as shots fired at the White House dinner. The couple's evacuation was part of the response.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "White House Dinner Shooting Live Updates: No country is immune from political violence, says Trump",
-      "url": "https://indianexpress.com/article/world/us-news/white-house-dinner-shooting-live-shooter-gunman-donald-trump-jd-vance-melania-secret-service-washington-10656176/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-04-26T02:11:31+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/US-3-19.jpg",
-      "summary": "Former US President Trump commented on the shooting at the White House correspondents' dinner, saying no country is immune from political violence. The incident occurred on April 25, 2026, in Washington, DC. Trump made the remarks after the event.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Suspect arrested after shooting at correspondents’ dinner",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/trump-live-us-president-safe-after-shots-fired-at-correspondents-dinner?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-26T02:10:00+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26116028022667-1777167278.jpg?resize=1920%2C1440",
-      "summary": "A suspect was arrested after shooting at the White House correspondents' dinner in Washington, DC, on April 25, 2026. The event was attended by US President and correspondents. The suspect's motives and details have not been disclosed.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-26T02:00:32+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777168620.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Hundreds of Israelis protested in Tel Aviv as US-Iran peace talks stalled. The protests were fueled by fears of a resumed war between the US and Israel against Iran. The talks had been aimed at de-escalating tensions between the countries.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Indian police say 47 Maoist rebels surrender",
-      "url": "https://www.channelnewsasia.com/asia/india-maoist-rebels-surrender-6081511",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-26T01:57:17+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--EO0RVAfg--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/26/india_maoist_weaponsseize.jpg?itok=YcOWd1Ac",
-      "summary": "In Telangana, 47 Maoist rebels surrendered, choosing to join the mainstream, according to police. The police also stated that nearly all key underground Maoist leaders have been neutralised.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Taiwan foreign minister arrives in Eswatini after president's trip blocked",
-      "url": "https://www.channelnewsasia.com/east-asia/taiwan-foreign-minister-lin-chialung-eswatini-visit-6081481",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-26T01:44:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--9YT0MTKQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-25T233110Z_1_LYNXMPEM3O0ND_RTROPTP_3_CHINA-JAPAN-TAIWAN.JPG?itok=mPW4wHMb",
-      "summary": "Taiwan's foreign minister arrived in Eswatini after President Lai Ching-te's trip was blocked by China, which allegedly pressured African states to deny overflight permission. The incident strained Taiwan-China relations. Taiwan's government has accused China of pressuring three African states to ‌block overflight permission for President Lai Ching-te.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "ट्रंप की डिनर पार्टी के दौरान हुई फ़ायरिंग के बाद भारत,पाकिस्तान समेत दुनिया के नेताओं ने क्या कहा?",
-      "url": "https://www.bbc.com/hindi/articles/c1l9lgj8vmjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-26T07:30:24+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/615b/live/7b777480-413e-11f1-b164-67ef9684bbf6.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की डिनर पार्टी के दौरान फ़ायरिंग की घटना के बाद, भारत, पाकिस्तान समेत दुनिया भर के कई नेताओं ने अपनी प्रतिक्रिया व्यक्त की। इस घटना ने वैश्विक स्तर पर चिंता बढ़ा दी। नेताओं ने घटना की निंदा की।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की डिनर पार्टी के दौरान हुई फ़ायरिंग के बाद भारत,पाकिस्तान समेत दुनिया के नेताओं ने क्या कहा?",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की डिनर पार्टी के दौरान फ़ायरिंग की घटना के बाद, भारत, पाकिस्तान समेत दुनिया भर के कई नेताओं ने अपनी प्रतिक्रिया व्यक्त की। इस घटना ने वैश्विक स्तर पर चिंता बढ़ा दी। नेताओं ने घटना की निंदा की।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "व्यापार घाटे को कम करने के लिए योजना; चीन को निर्यात बढ़ाने के साथ आयात निर्भरता घटाने की रणनीति",
-      "url": "https://www.amarujala.com/business/business-diary/india-following-diversified-strategy-to-boost-exports-to-china-cut-import-dependence-official-2026-04-26",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-26T07:19:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/india-following-diversified-strategy-to-boost-exports-to-china-cut-import-dependence-official_e66f3c42e9a4f222cfa053a064a747f4.jpeg?w=750&dpr=1.0",
-      "summary": "भारत व्यापार घाटे को कम करने के लिए एक विविध रणनीति अपना रहा है, जिसमें चीन को निर्यात बढ़ाने और आयात निर्भरता घटाने की योजना शामिल है। इस रणनीति का उद्देश्य व्यापार संतुलन में सुधार करना है। अधिकारी ने इसकी जानकारी दी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "व्यापार घाटे को कम करने के लिए योजना; चीन को निर्यात बढ़ाने के साथ आयात निर्भरता घटाने की रणनीति",
-          "summary": "भारत व्यापार घाटे को कम करने के लिए एक विविध रणनीति अपना रहा है, जिसमें चीन को निर्यात बढ़ाने और आयात निर्भरता घटाने की योजना शामिल है। इस रणनीति का उद्देश्य व्यापार संतुलन में सुधार करना है। अधिकारी ने इसकी जानकारी दी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नासा फेलो से कैसे बना गनमैन?: वॉशिंगटन के हिल्टन होटल में फायरिंग के आरोपी की कहानी, साजिश पर अभी",
-      "url": "https://www.amarujala.com/world/who-is-cole-thomas-allen-suspect-in-trump-event-shooting-identified-2026-04-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-26T07:16:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/washington-hilton-shooting_40c20b56d2a7ca184ff72b4388f774a6.jpeg?w=750&dpr=1.0",
-      "summary": "वॉशिंगटन के हिल्टन होटल में फायरिंग के आरोपी की कहानी सामने आई है, जो पहले नासा फेलो था। अभी भी साजिश के पीछे के कारणों पर सस्पेंस बना हुआ है। आरोपी की पहचान और动机 का पता लगाया जा रहा है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नासा फेलो से कैसे बना गनमैन?: वॉशिंगटन के हिल्टन होटल में फायरिंग के आरोपी की कहानी, साजिश पर अभी",
-          "summary": "वॉशिंगटन के हिल्टन होटल में फायरिंग के आरोपी की कहानी सामने आई है, जो पहले नासा फेलो था। अभी भी साजिश के पीछे के कारणों पर सस्पेंस बना हुआ है। आरोपी की पहचान और动机 का पता लगाया जा रहा है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'प्रभावशाली लोगों को निशाना बनाया जाता है', गोलीबारी की घटना पर बोले ट्रंप",
-      "url": "https://www.amarujala.com/live/world/us-hilton-hotel-shooting-update-donald-trump-addresses-media-at-the-white-house-news-in-hindi-2026-04-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-26T07:10:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/danalda-tarapa-amaraka-rashhatarapata_f7b6ff97f525f3c5a746e15e20d1072a.jpeg?w=750&dpr=1.0",
-      "summary": "ट्रंप ने गोलीबारी की घटना पर कहा कि प्रभावशाली लोगों को निशाना बनाया जाता है. उन्होंने कहा कि सुरक्षा के तहत स्थान खाली किया गया और जल्द ही प्रेस को संबोधित करेंगे.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'प्रभावशाली लोगों को निशाना बनाया जाता है', गोलीबारी की घटना पर बोले ट्रंप",
-          "summary": "ट्रंप ने गोलीबारी की घटना पर कहा कि प्रभावशाली लोगों को निशाना बनाया जाता है. उन्होंने कहा कि सुरक्षा के तहत स्थान खाली किया गया और जल्द ही प्रेस को संबोधित करेंगे.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "मजाक में कही बात हो गई सच: 'आज रात गोलियां चलेंगी', ट्रंप पर हमले से पहले प्रेस सचिव ने कही थी कुछ",
-      "url": "https://www.amarujala.com/world/us-hilton-hotel-shooting-shots-will-be-fired-tonight-trump-press-secretary-had-made-a-similar-remark-prior-2026-04-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-26T06:39:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/03/karalna-lvata_4a6c431d795af6ff72aa194501285a3f.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी प्रेस सचिव ने ट्रंप पर हमले से पहले मजाक में कहा था कि \"आज रात गोलियां चलेंगी\"। यह बात अब सच साबित हुई है। प्रेस सचिव की इस टिप्पणी ने अब एक नया अर्थ ले लिया है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मजाक में कही बात हो गई सच: 'आज रात गोलियां चलेंगी', ट्रंप पर हमले से पहले प्रेस सचिव ने कही थी कुछ",
-          "summary": "अमेरिकी प्रेस सचिव ने ट्रंप पर हमले से पहले मजाक में कहा था कि \"आज रात गोलियां चलेंगी\"। यह बात अब सच साबित हुई है। प्रेस सचिव की इस टिप्पणी ने अब एक नया अर्थ ले लिया है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "45 साल बाद हिल्टन होटल में चली गोलियां: पहले रोनाल्ड, अब डोनाल्ड पर हमला; कैसे ये होटल बना दहशत का",
-      "url": "https://www.amarujala.com/world/washington-hilton-shooting-history-repeats-after-45-years-from-ronald-reagan-to-donald-trump-security-scare-2026-04-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-26T06:11:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/washington-hilton-hotel_e0b6d31b4816e33571aa4d29992b2402.jpeg?w=750&dpr=1.0",
-      "summary": "45 साल बाद हिल्टन होटल में फायरिंग की घटना हुई, जब पहले रोनाल्ड और अब डोनाल्ड पर हमला हुआ। यह होटल अब दहशत का अड्डा बन गया है। इस घटना ने होटल की सुरक्षा को लेकर सवाल उठाए हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "45 साल बाद हिल्टन होटल में चली गोलियां: पहले रोनाल्ड, अब डोनाल्ड पर हमला; कैसे ये होटल बना दहशत का",
-          "summary": "45 साल बाद हिल्टन होटल में फायरिंग की घटना हुई, जब पहले रोनाल्ड और अब डोनाल्ड पर हमला हुआ। यह होटल अब दहशत का अड्डा बन गया है। इस घटना ने होटल की सुरक्षा को लेकर सवाल उठाए हैं।",
-          "region": "दुनिया"
-        }
-      }
     },
     {
       "title": "मिडिल ईस्ट तनाव के बीच ईरान की इस्लामाबाद कूटनीति तेज, फिर पाकिस्तान का दौरा करेंगे विदेश मंत्री",
@@ -412,24 +304,6 @@
         "hi": {
           "title": "ट्रंप की डिनर पार्टी में गोली चलने के बाद हिरासत में लिया गया शख़्स कौन है?",
           "summary": "व्हाइट हाउस के पत्रकारों के साथ डिनर कार्यक्रम में फ़ायरिंग के बाद एक संदिग्ध को हिरासत में लिया गया है. पुलिस के मुताबिक़ उसके पास शॉटगन, हैंडगन और चाकू मिले. यह घटना ट्रंप के डिनर पार्टी में हुई थी.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में राष्ट्रपतियों पर हमले का खूनी इतिहास; चार की पद पर रहते हुई हत्या; जानिए सबकुछ",
-      "url": "https://www.amarujala.com/world/us-presidential-assassination-attempts-and-plot-history-andrew-jackson-james-garfield-donald-trump-and-others-2026-04-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-26T04:32:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/07/14/danalda-tarapa-para-hamal_1056e7ef17102d061b17a53b68c6da14.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिका में राष्ट्रपतियों पर हमले का इतिहास रहा है, जिसमें चार राष्ट्रपतियों की पद पर रहते हुए हत्या कर दी गई थी. यह इतिहास लिंकन से लेकर ट्रंप तक रहा है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में राष्ट्रपतियों पर हमले का खूनी इतिहास; चार की पद पर रहते हुई हत्या; जानिए सबकुछ",
-          "summary": "अमेरिका में राष्ट्रपतियों पर हमले का इतिहास रहा है, जिसमें चार राष्ट्रपतियों की पद पर रहते हुए हत्या कर दी गई थी. यह इतिहास लिंकन से लेकर ट्रंप तक रहा है.",
           "region": "अमेरिका"
         }
       }
@@ -471,6 +345,24 @@
       }
     },
     {
+      "title": "'टेबल के नीचे छिपे लोग', चश्मदीद ने बताया- चंद सेकंड में बदला माहौल; देखें VIDEO",
+      "url": "https://www.amarujala.com/world/chaos-at-white-house-correspondents-dinner-eyewitness-reveals-dramatic-security-scare-2026-04-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-26T02:20:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/donald-trump-security-lapse_0dac8c082fba51e96b1f33eb1e1ce5b3.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका के हिल्टन होटल में गोलीबारी हुई, जिसमें कई लोग हताहत हुए। एक चश्मदीद ने बताया कि घटना के दौरान लोग टेबल के नीचे छिप गए थे। माहौल कुछ सेकंड में बदल गया था।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'टेबल के नीचे छिपे लोग', चश्मदीद ने बताया- चंद सेकंड में बदला माहौल; देखें VIDEO",
+          "summary": "अमेरिका के हिल्टन होटल में गोलीबारी हुई, जिसमें कई लोग हताहत हुए। एक चश्मदीद ने बताया कि घटना के दौरान लोग टेबल के नीचे छिप गए थे। माहौल कुछ सेकंड में बदल गया था।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
       "title": "ट्रंप की डिनर पार्टी में गोलियां चलीं, अफ़रा-तफ़री के बीच राष्ट्रपति को सुरक्षित बाहर निकाला-अब तक",
       "url": "https://www.bbc.com/hindi/articles/cm2rl2jzmjxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -507,24 +399,6 @@
       }
     },
     {
-      "title": "इस्लामाबाद में एक ही परिवार के चार सदस्यों की गोली मारकर हत्या, जांच में जुटी पुलिस",
-      "url": "https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-04-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-26T01:26:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
-      "summary": "इस्लामाबाद में एक ही परिवार के चार सदस्यों की गोली मारकर हत्या कर दी गई। पुलिस मामले की जांच में जुट गई है। घटना के बारे में अभी तक ज्यादा जानकारी नहीं मिली है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस्लामाबाद में एक ही परिवार के चार सदस्यों की गोली मारकर हत्या, जांच में जुटी पुलिस",
-          "summary": "इस्लामाबाद में एक ही परिवार के चार सदस्यों की गोली मारकर हत्या कर दी गई। पुलिस मामले की जांच में जुट गई है। घटना के बारे में अभी तक ज्यादा जानकारी नहीं मिली है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "ट्रंप की सुरक्षा में बड़ी चूक, रात्रिभोज में चलीं गोलियां; सुरक्षित निकाले गए अमेरिकी राष्ट्रपति",
       "url": "https://www.amarujala.com/world/donald-trump-security-lapse-fear-of-gunfire-during-dinner-us-president-evacuated-safely-2026-04-26",
       "source": "Amar Ujala World",
@@ -539,24 +413,6 @@
           "title": "ट्रंप की सुरक्षा में बड़ी चूक, रात्रिभोज में चलीं गोलियां; सुरक्षित निकाले गए अमेरिकी राष्ट्रपति",
           "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की सुरक्षा में बड़ी चूक सामने आई है। रात्रिभोज के दौरान गोलियां चलने की आशंका के कारण उन्हें सुरक्षित निकाला गया। घटना की जांच की जा रही है।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने दूतों की पाकिस्तान यात्रा रद्द करने का किया बचाव, कहा- ईरान का प्रस्ताव काफी नहीं",
-      "url": "https://www.amarujala.com/world/us-iran-peace-talks-trump-defends-cancelling-envoys-visit-to-pakistan-says-iran-proposal-is-insufficient-2026-04-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-26T01:08:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/18/danalda-tarapa-amaraka-rashhatarapata_3b87d42c4495124a15b2c782381e79ca.jpeg?w=750&dpr=1.0",
-      "summary": "ट्रंप ने दूतों की पाकिस्तान यात्रा रद्द करने का बचाव किया, कहा ईरान का प्रस्ताव काफी नहीं है। ट्रंप ने दूतों की पाकिस्तान यात्रा रद्द करने का किया बचाव, कहा- ईरान का प्रस्ताव काफी नहीं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने दूतों की पाकिस्तान यात्रा रद्द करने का किया बचाव, कहा- ईरान का प्रस्ताव काफी नहीं",
-          "summary": "ट्रंप ने दूतों की पाकिस्तान यात्रा रद्द करने का बचाव किया, कहा ईरान का प्रस्ताव काफी नहीं है। ट्रंप ने दूतों की पाकिस्तान यात्रा रद्द करने का किया बचाव, कहा- ईरान का प्रस्ताव काफी नहीं।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -579,74 +435,218 @@
       }
     },
     {
-      "title": "पश्चिम एशिया में जीत किसकी? लक्ष्य से दूर खड़ा अमेरिका, थकाऊ रणनीति पर अड़ा ईरान",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFc5WWo3a1BjRmdWNW95RWh2RXhoc3IzcVNMXzhBS2o0VWJpYWpkWEs0STA2SDFCREEtNHVVQURWWTdYOFdWVXR6LUtRb2docXpCc1BFcjZTdVVHSzhYaEdBNFB1RE50NjR2N3FMTl9VdmxmdUJKQmphSzZpbTh2enpOaWloa1piOHo0VnFyQnZicnJIaUktMFdDRlk1MmVFTGZVaGlWbEJRUEZzZVJmSEx5dUhDWWxmbHdN?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "title": "जीत की लय बरकरार रखने उतरेगी सीएसके, सामने गुजरात टाइटंस की चुनौती; धोनी होंगे उपलब्ध?",
+      "url": "https://www.amarujala.com/live/cricket/cricket-news/csk-vs-gt-live-cricket-score-chennai-super-kings-vs-gujarat-titans-ipl-2026-37th-match-updates-2026-04-26",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-25T14:30:00+00:00",
-      "image_url": "https://images.pexels.com/photos/29873466/pexels-photo-29873466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिका और ईरान के बीच पश्चिम एशिया में चल रहे संघर्ष में अमेरिका अपनी रणनीति पर अड़ा हुआ है, जबकि ईरान थकाऊ रणनीति अपना रहा है। इस संघर्ष के परिणाम क्षेत्रीय और वैश्विक स्तर पर महत्वपूर्ण हो सकते हैं।",
+      "published_at": "2026-04-25T21:02:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/15/ipl-2026-csk-vs-kkr-kkr-unwanted-record-csk-record-ajinkya-rahane-ruturaj-gaikwad-ipl-stats-c_996c1c8483f7b937982b7657da291dc4.jpeg?w=750&dpr=1.0",
+      "summary": "चेन्नई सुपर किंग्स आज गुजरात टाइटंस के खिलाफ मैच खेलेगी। सीएसके की कोशिश जीत की लय बरकरार रखने की होगी। महेंद्र सिंह धोनी की उपलब्धता अनिश्चित है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जीत की लय बरकरार रखने उतरेगी सीएसके, सामने गुजरात टाइटंस की चुनौती; धोनी होंगे उपलब्ध?",
+          "summary": "चेन्नई सुपर किंग्स आज गुजरात टाइटंस के खिलाफ मैच खेलेगी। सीएसके की कोशिश जीत की लय बरकरार रखने की होगी। महेंद्र सिंह धोनी की उपलब्धता अनिश्चित है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इस्लामाबाद में एक ही परिवार के चार सदस्यों की गोली मारकर हत्या, जांच में जुटी पुलिस",
+      "url": "https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-04-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-25T21:01:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
+      "summary": "इस्लामाबाद में एक ही परिवार के चार सदस्यों की गोली मारकर हत्या कर दी गई। पुलिस मामले की जांच में जुट गई है। घटना के बारे में अभी तक ज्यादा जानकारी नहीं मिली है।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पश्चिम एशिया में जीत किसकी? लक्ष्य से दूर खड़ा अमेरिका, थकाऊ रणनीति पर अड़ा ईरान",
-          "summary": "अमेरिका और ईरान के बीच पश्चिम एशिया में चल रहे संघर्ष में अमेरिका अपनी रणनीति पर अड़ा हुआ है, जबकि ईरान थकाऊ रणनीति अपना रहा है। इस संघर्ष के परिणाम क्षेत्रीय और वैश्विक स्तर पर महत्वपूर्ण हो सकते हैं।",
+          "title": "इस्लामाबाद में एक ही परिवार के चार सदस्यों की गोली मारकर हत्या, जांच में जुटी पुलिस",
+          "summary": "इस्लामाबाद में एक ही परिवार के चार सदस्यों की गोली मारकर हत्या कर दी गई। पुलिस मामले की जांच में जुट गई है। घटना के बारे में अभी तक ज्यादा जानकारी नहीं मिली है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "पश्चिम एशिया का संघर्ष तेजी से एक ऐसे युद्ध का रूप लेता जा रहा है जिसे कोई नहीं जीत सकता",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOenBxT2JVQ3VwU2s0dUVvLUFRRmdwLUROV0FEcVo5dDZ4VlEtNks2Ti1pR050eUtQVERzUm8tYTcwaE9YcFlKVjlKbkZ3MkxIUy04Wi1UcVp4Ti1WOVAtZHl6eHNtN1k0TUhFYVU3Y2R2cFhpYWl2TkZWU3lQbTNDcDZDYzZFSjBZTzU5WlpscTVvdDhxM2JITGRiTnNzY2p4QUplSkJn0gGrAUFVX3lxTE5QeURXRWJ2UHVTelRUMnVxelA5MG4tNDgyQXVja3I5OWQwbndQWTN6YlozVEh2NU5iYVJBSmlXSWVDSDNxcG4zQWVwb0pXWnVGZG5hX21KcWhNQjJpVm9vSnhDNjNmZW1vMzJWZ3VmYXJONEllZWtiSHg4aF9NVHpPdE9RNENJOXAtTVFMaEhqNlZ6bjlkNzZ3NFQwWXhuZFBIQ09GTGdRT0dudw?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "title": "आज मेरे बेटे को हर वो चीज पसंद है, बहू का जवाब सुनकर सास की बोलती हो गई बंद",
+      "url": "https://www.amarujala.com/photo-gallery/humour/saas-bahu-funny-jokes-in-hindi-saas-damad-chutkule-whatsapp-new-jokes-sasur-damad-viral-jokes-pati-patni-jokes-2026-04-26",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-25T11:33:25+00:00",
-      "image_url": "https://images.pexels.com/photos/6564828/pexels-photo-6564828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पश्चिम एशिया में संघर्ष तेजी से बढ़ रहा है और एक ऐसे युद्ध का रूप ले रहा है जिसे कोई नहीं जीत सकता। इससे क्षेत्र में स्थिति और भी अस्थिर हो गई है और भविष्य में इसके परिणामों की संभावना बढ़ गई है।",
+      "published_at": "2026-04-25T20:51:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/12/15/saas-bahu-jokes_acf0ddc0d980078a40554dfad78f5468.jpeg?w=750&dpr=1.0",
+      "summary": "एक बहू ने सास को जवाब दिया, जिससे सास की बोलती बंद हो गई। यह घटना एक घर में हुई, जहां परिवार के सदस्यों के बीच मतभेद थे। आजकल की भागदौड़ भरी जिंदगी में लोग बेहद कम उम्र में ही तनाव का शिकार हो रहे हैं।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पश्चिम एशिया का संघर्ष तेजी से एक ऐसे युद्ध का रूप लेता जा रहा है जिसे कोई नहीं जीत सकता",
-          "summary": "पश्चिम एशिया में संघर्ष तेजी से बढ़ रहा है और एक ऐसे युद्ध का रूप ले रहा है जिसे कोई नहीं जीत सकता। इससे क्षेत्र में स्थिति और भी अस्थिर हो गई है और भविष्य में इसके परिणामों की संभावना बढ़ गई है।",
+          "title": "आज मेरे बेटे को हर वो चीज पसंद है, बहू का जवाब सुनकर सास की बोलती हो गई बंद",
+          "summary": "एक बहू ने सास को जवाब दिया, जिससे सास की बोलती बंद हो गई। यह घटना एक घर में हुई, जहां परिवार के सदस्यों के बीच मतभेद थे। आजकल की भागदौड़ भरी जिंदगी में लोग बेहद कम उम्र में ही तनाव का शिकार हो रहे हैं।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "हिल जाएगी दुनिया... गरीब हो जाएंगे 3 करोड़ लोग, अमेरिका-ईरान युद्ध बना वजह",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcERlTFJxSUVkM1hONlF5VUJaQlNtbklUUnBQS2kyOWE5Q05mQ3Ezb1NqQU9rTWtpbTZhSE8wWTFuclItOHVObU15bU9hWW84R1FWWW9GSnYyQ1ZCS0RKbHJyLXo0OHZXZG9yTzNCU192MmpZZ2dsMUJKOFJQMThVeHZ5UldTR0Y4Mm80bmJEbGgzN0NzWi1pcDFXSXhVWXZZZlBDb2dOX2Z2dXVGLVktLU5PTVVKbUFrUllhdk9CNUpGVEhQTmpEOW10eHZFMGdQcEZCSzRQWVRGQjhfaEk4M2dR0gHnAUFVX3lxTE51cVR4dVNxZE9UeFRmZ3p1aURRYkx4MVBMdXRDSmNXcFhhTTRfY2hZUTc4Y2E4Tml6MHhDUjRWUEx3eXBvVjhoN0RWenhwUkNmNFdsa3MxRGw1UDBhc19OYzlsaTUydUE3Ti1icHBJOWVwZ0h2SXpkNUpUb0I4VHBWV1hNX3ZCbTdXUDBoWFJxU0xGQTBXbS10VHlKdWlpdWJGT21CMjFyUG9yQWk5VHFvUmIxLVc2OHFsZ0tUeFk3NzJ4SnhtSDNGU3dLR2ZxVWxlbUJaY1VSeUdFc0hLNXBPWFVjVjhqbw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "रियान पराग की फॉर्म से चिंतित नहीं बल्लेबाजी कोच विक्रम राठौड़, जल्द बड़ी खेलने की उम्मीद जताई",
+      "url": "https://www.amarujala.com/cricket/cricket-news/ipl-2026-rajasthan-royals-batting-coach-vikram-rathour-confident-skipper-riyan-parag-will-come-back-stronger-2026-04-26",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-25T08:24:15+00:00",
-      "image_url": "https://images.pexels.com/photos/4614927/pexels-photo-4614927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिका और ईरान के बीच संभावित युद्ध के कारण दुनिया भर में 3 करोड़ लोग गरीब हो सकते हैं। इससे वैश्विक अर्थव्यवस्था पर भी असर पड़ सकता है और दुनिया भर में लोगों के जीवन पर इसका प्रभाव पड़ सकता है।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-04-25T20:50:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/rayana-paraga_3cc9fc9f0b85a17957517cb38717b614.jpeg?w=750&dpr=1.0",
+      "summary": "राजस्थान रॉयल्स के बल्लेबाजी कोच विक्रम राठौड़ ने कहा कि रियान पराग की फॉर्म से वह चिंतित नहीं हैं। राठौड़ को उम्मीद है कि रियान जल्द ही बड़ी पारी खेलेंगे।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हिल जाएगी दुनिया... गरीब हो जाएंगे 3 करोड़ लोग, अमेरिका-ईरान युद्ध बना वजह",
-          "summary": "अमेरिका और ईरान के बीच संभावित युद्ध के कारण दुनिया भर में 3 करोड़ लोग गरीब हो सकते हैं। इससे वैश्विक अर्थव्यवस्था पर भी असर पड़ सकता है और दुनिया भर में लोगों के जीवन पर इसका प्रभाव पड़ सकता है।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "रियान पराग की फॉर्म से चिंतित नहीं बल्लेबाजी कोच विक्रम राठौड़, जल्द बड़ी खेलने की उम्मीद जताई",
+          "summary": "राजस्थान रॉयल्स के बल्लेबाजी कोच विक्रम राठौड़ ने कहा कि रियान पराग की फॉर्म से वह चिंतित नहीं हैं। राठौड़ को उम्मीद है कि रियान जल्द ही बड़ी पारी खेलेंगे।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "UN की डरावनी चेतावनी, दाने-दाने को मोहताज होंगे 1.1 करोड़ पाकिस्तानी? 10 देशों का बुरा हाल",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVUR4RV9Gd0lpTDZxYkJjRlphV2FCV0QzTlNTbklvOUd4Y2oxMkpNM3FRWlJiazk2U3YtcXc5TDZjTlZQVTNQT3BEd1M5dVZGVFIyaC04ZUstZG9QSGFtc0ZjRUt6S2h4MmV5NVpOSFA0UDE2RzVIemtVSTEzNWFST0JLYV9OTEE5R0ZRQW5QTDZTZ2d0TGx6aEpSM1Z3anV1eVhJMEh6NmdtVC12VGxOcU1rMW1Ob1NyM3lod1V5eDI2LXpQenZQY3U3Mi1zT1lWSEVCQTlsbUpIZ9IB3wFBVV95cUxPZjBuV2ZVNFc1NjJqMk5Wbjl2aGZxWmszdkJUdGU3UVZJeHVEVXlaU2lURGRGbnFaSkJIZzE5MXp5eGR4TTE5ZVpFZWUyb0dNZGxqbXBXMWFFcjNuVnV4VDRIS2pwaEhkdjg3TU11a3FwX281R05jYWdyS3V0ZlNxOElGQXVyVXJPak54NGF4QjlHX2dpTHNlc2owNVVsTWM5ZkJHVEZxaVhtSWc3MTg1WnRBLXRSRG1JbDZhN2g1WkJxRU13aWJaLTBoQjM0T0N5NTJ0ME1JZVIyQXFqeEhv?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "अंबानी के घर पहुंचीं रिहाना ने की आरती, फूलों की बारिश के बीच जीता भारतीयों का दिल, देखें तस्वीरें",
+      "url": "https://www.amarujala.com/entertainment/bollywood/global-icon-rihanna-visited-ambani-family-at-their-home-see-unseen-pictures-2026-04-26",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-25T06:27:45+00:00",
-      "image_url": "https://images.pexels.com/photos/30541596/pexels-photo-30541596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "यूएन ने चेतावनी दी है कि 1.1 करोड़ पाकिस्तानी दाने-दाने को मोहताज हो सकते हैं। UN की डरावनी चेतावनी, दाने-दाने को मोहताज होंगे 1.1 करोड़ पाकिस्तानी? 10 देशों का बुरा हाल।",
+      "published_at": "2026-04-25T20:49:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/makasha-abna-ka-paravara-ka-sathasaya-ka-satha-sagara-rahana_b7422d1888329960ffb7bebdcb289ab4.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी गायिका रिहाना अंबानी परिवार के घर पहुंचीं, जहां उनका भव्य स्वागत हुआ। उन्होंने आरती की और फूलों की बारिश के बीच भारतीयों का दिल जीत लिया। हाल ही में वह अंबानी परिवार के घर पहुंचीं।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "UN की डरावनी चेतावनी, दाने-दाने को मोहताज होंगे 1.1 करोड़ पाकिस्तानी? 10 देशों का बुरा हाल",
-          "summary": "यूएन ने चेतावनी दी है कि 1.1 करोड़ पाकिस्तानी दाने-दाने को मोहताज हो सकते हैं। UN की डरावनी चेतावनी, दाने-दाने को मोहताज होंगे 1.1 करोड़ पाकिस्तानी? 10 देशों का बुरा हाल।",
+          "title": "अंबानी के घर पहुंचीं रिहाना ने की आरती, फूलों की बारिश के बीच जीता भारतीयों का दिल, देखें तस्वीरें",
+          "summary": "अमेरिकी गायिका रिहाना अंबानी परिवार के घर पहुंचीं, जहां उनका भव्य स्वागत हुआ। उन्होंने आरती की और फूलों की बारिश के बीच भारतीयों का दिल जीत लिया। हाल ही में वह अंबानी परिवार के घर पहुंचीं।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "लोकल से ग्लोबल हुआ भारतीय चीज: पीएम बोले- दुनिया की थाली तक पहुंचा भारत का स्वाद; मन की बात में",
+      "url": "https://www.amarujala.com/india-news/indian-cheese-goes-global-pm-modi-highlights-rising-demand-in-mann-ki-baat-133rd-episode-2026-04-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-25T20:32:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/paema-matha_6614637cb443a33d57e24f49e57b0429.jpeg?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री ने कहा कि भारतीय चीजों ने दुनिया भर में अपनी पहचान बनाई है और अब दुनिया की थाली में भी भारतीय स्वाद पहुंच रहा है। उन्होंने मन की बात में इस उपलब्धि का जिक्र किया और देशवासियों का हौसला बढ़ाया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लोकल से ग्लोबल हुआ भारतीय चीज: पीएम बोले- दुनिया की थाली तक पहुंचा भारत का स्वाद; मन की बात में",
+          "summary": "प्रधानमंत्री ने कहा कि भारतीय चीजों ने दुनिया भर में अपनी पहचान बनाई है और अब दुनिया की थाली में भी भारतीय स्वाद पहुंच रहा है। उन्होंने मन की बात में इस उपलब्धि का जिक्र किया और देशवासियों का हौसला बढ़ाया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मेटा और माइक्रोसॉफ्ट में छंटनी का बड़ा दौर: क्या सच में AI छीन रहा नौकरियां या यह कंपनियों का कोई",
+      "url": "https://www.amarujala.com/photo-gallery/technology/social-network/meta-microsoft-tech-layoffs-is-ai-really-to-blame-truth-revealed-2026-04-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-25T20:27:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/tech-layoffs_317f39ac72ca9959b6727167131ae7ba.jpeg?w=750&dpr=1.0",
+      "summary": "मेटा और माइक्रोसॉफ्ट जैसी टेक कंपनियों ने हजारों कर्मचारियों को नौकरी से निकाल दिया है। इसके पीछे एआई को बड़ी वजह बताया जा रहा है, लेकिन सवाल उठता है कि क्या वाकई आर्टिफिशियल इंटेलिजेंस लोगों की नौकरियां छीन रहा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मेटा और माइक्रोसॉफ्ट में छंटनी का बड़ा दौर: क्या सच में AI छीन रहा नौकरियां या यह कंपनियों का कोई",
+          "summary": "मेटा और माइक्रोसॉफ्ट जैसी टेक कंपनियों ने हजारों कर्मचारियों को नौकरी से निकाल दिया है। इसके पीछे एआई को बड़ी वजह बताया जा रहा है, लेकिन सवाल उठता है कि क्या वाकई आर्टिफिशियल इंटेलिजेंस लोगों की नौकरियां छीन रहा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "होस्ट की रिक्वेस्ट पर भड़के कैलाश खेर, दो लाइन गाने से किया इनकार; कहा- ‘जोकर मत बनाइए…’",
+      "url": "https://www.amarujala.com/entertainment/kailash-kher-enraged-by-the-host-request-of-singing-two-lines-of-a-song-said-do-not-make-me-a-clown-2026-04-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-25T20:20:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/kalsha-khara_d8844e87a4fb73086e259d21b37482a2.jpeg?w=750&dpr=1.0",
+      "summary": "सिंगर कैलाश खेर ने एक अवॉर्ड इवेंट में गाने से इनकार कर दिया क्योंकि उन्हें अचानक गाने के लिए कहा गया था। उन्होंने कहा कि इस तरह कलाकारों के साथ व्यवहार करना सम्मानजनक नहीं होता और उन्हें जोकर नहीं बनाया जाना चाहिए।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होस्ट की रिक्वेस्ट पर भड़के कैलाश खेर, दो लाइन गाने से किया इनकार; कहा- ‘जोकर मत बनाइए…’",
+          "summary": "सिंगर कैलाश खेर ने एक अवॉर्ड इवेंट में गाने से इनकार कर दिया क्योंकि उन्हें अचानक गाने के लिए कहा गया था। उन्होंने कहा कि इस तरह कलाकारों के साथ व्यवहार करना सम्मानजनक नहीं होता और उन्हें जोकर नहीं बनाया जाना चाहिए।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शरीर कैसे करता है भीषण गर्मी-लू से मुकाबला? जानिए पूरा मैकेनिज्म और डॉक्टर की जरूरी सलाह",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/how-does-the-body-regulate-heat-in-summer-tips-to-prevent-heatstroke-lu-se-kaise-bache-2026-04-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-25T20:19:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/heatwave_fb2b9a93af54a7d6127d751071ddce67.jpeg?w=750&dpr=1.0",
+      "summary": "हीटवेव के दौरान शरीर की प्रतिक्रिया और मुकाबला करने के तरीके के बारे में जानकारी दी गई। डॉक्टर ने जरूरी सलाह दी और बताया कि जब तापमान 40 डिग्री सेल्सियस या उससे ऊपर पहुंच जाता है, तो उसे हीटवेव माना जाता है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शरीर कैसे करता है भीषण गर्मी-लू से मुकाबला? जानिए पूरा मैकेनिज्म और डॉक्टर की जरूरी सलाह",
+          "summary": "हीटवेव के दौरान शरीर की प्रतिक्रिया और मुकाबला करने के तरीके के बारे में जानकारी दी गई। डॉक्टर ने जरूरी सलाह दी और बताया कि जब तापमान 40 डिग्री सेल्सियस या उससे ऊपर पहुंच जाता है, तो उसे हीटवेव माना जाता है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "शादी में दूल्हा-दुल्हन फायरगन लेकर कर रहे थे ग्रैंड एंट्री, फिर अचानक हुआ कुछ ऐसा कि वीडियो हुआ",
+      "url": "https://www.amarujala.com/bizarre-news/viral-video-groom-injured-during-wedding-entry-fire-gun-stunt-2026-04-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-25T20:17:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/viral-video-groom-injured-during-wedding-entry-fire-gun-stunt_e4090a4261f514e1b2af4a4f3636488f.jpeg?w=750&dpr=1.0",
+      "summary": "एक शादी में दूल्हा और दुल्हन फायरगन लेकर ग्रैंड एंट्री कर रहे थे, लेकिन अचानक कुछ ऐसा हुआ कि वीडियो वायरल हो गया। दूल्हा और दुल्हन ने पारंपरिक कपड़ों में एंट्री की और फायरगन से चिंगारियां निकालीं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शादी में दूल्हा-दुल्हन फायरगन लेकर कर रहे थे ग्रैंड एंट्री, फिर अचानक हुआ कुछ ऐसा कि वीडियो हुआ",
+          "summary": "एक शादी में दूल्हा और दुल्हन फायरगन लेकर ग्रैंड एंट्री कर रहे थे, लेकिन अचानक कुछ ऐसा हुआ कि वीडियो वायरल हो गया। दूल्हा और दुल्हन ने पारंपरिक कपड़ों में एंट्री की और फायरगन से चिंगारियां निकालीं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप जिस होटल में कर रहे थे इवेंट, वहीं ठहरा था संदिग्ध; सुरक्षा देख खोया आपा",
+      "url": "https://www.amarujala.com/world/hilton-hotel-shooting-attacker-planning-revealed-suspect-was-staying-at-hotel-where-trump-was-holding-event-2026-04-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-25T20:08:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/hilton-hotel-shooting-attacker-planning-revealed-suspect-was-staying-at-hotel-where-trump-was-hold_fe6e8c303fc55b8a707e43c566b7a8c1.jpeg?w=750&dpr=1.0",
+      "summary": "ट्रंप ने होटल में एक इवेंट का आयोजन किया था। हमलावर भी उसी होटल में ठहरा था। सुरक्षा बलों ने हमलावर को पकड़ने की कोशिश की, लेकिन उन्हें खो दिया।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप जिस होटल में कर रहे थे इवेंट, वहीं ठहरा था संदिग्ध; सुरक्षा देख खोया आपा",
+          "summary": "ट्रंप ने होटल में एक इवेंट का आयोजन किया था। हमलावर भी उसी होटल में ठहरा था। सुरक्षा बलों ने हमलावर को पकड़ने की कोशिश की, लेकिन उन्हें खो दिया।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने खाड़ी देशों में अमेरिकी टेक कंपनियों को निशाना बनाकर जंग की परिभाषा कैसे बदली?",
+      "url": "https://www.bbc.com/hindi/articles/c0rxkj0plpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-25T16:22:35+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/037b/live/f00e3470-40bf-11f1-9af5-0bf991029b02.jpg",
+      "summary": "ईरान ने अमेरिकी सहयोगी देशों पर हमले किए, जिनमें अमेरिकी टेक कंपनियों से जुड़े ठिकाने शामिल थे। ईरान ने हमले के बाद नुक़सान की चेतावनी भी दी। अमेरिका और इसराइल के साथ जंग में ईरान ने खाड़ी में अमेरिका के सहयोगी देशों के ऐसे ठिकानों पर हमले किए और नुक़सान की चेतावनी दी जिनका संबंध बड़ी टेक कंपनियों से है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने खाड़ी देशों में अमेरिकी टेक कंपनियों को निशाना बनाकर जंग की परिभाषा कैसे बदली?",
+          "summary": "ईरान ने अमेरिकी सहयोगी देशों पर हमले किए, जिनमें अमेरिकी टेक कंपनियों से जुड़े ठिकाने शामिल थे। ईरान ने हमले के बाद नुक़सान की चेतावनी भी दी। अमेरिका और इसराइल के साथ जंग में ईरान ने खाड़ी में अमेरिका के सहयोगी देशों के ऐसे ठिकानों पर हमले किए और नुक़सान की चेतावनी दी जिनका संबंध बड़ी टेक कंपनियों से है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
