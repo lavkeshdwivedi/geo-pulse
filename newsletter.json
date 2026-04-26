@@ -1,12 +1,108 @@
 {
-  "generated_at": "2026-04-26T11:41:56.837446+00:00",
+  "generated_at": "2026-04-26T13:11:11.608082+00:00",
   "article_count": 42,
-  "total_unique_count": 250,
+  "total_unique_count": 251,
   "digest": {
-    "en": "Iran says the Strait of Hormuz will not return to its previous state. US-Israel-Iran ceasefire talks are ongoing with Iranian negotiators set to return to Pakistan to revive truce talks. Islamabad reopened after US-Iran talks failed to materialize.",
-    "hi": "अमेरिकी पूर्व राष्ट्रपति डोनाल्ड ट्रंप की डिनर पार्टी में फायरिंग की घटना सामने आई है। घटना के बाद दुनिया के नेताओं ने अपनी प्रतिक्रियाएं दी हैं। भारत और पाकिस्तान समेत कई देशों के नेताओं ने इस घटना की निंदा की है।"
+    "en": "Mali Defence Minister was killed. Fresh fighting broke out between the army and rebels. Russian Defence Minister is in North Korea for talks with top leadership.",
+    "hi": "अमेरिकी पूर्व राष्ट्रपति डोनाल्ड ट्रंप के पेंसिलवेनिया में चुनावी रैली में फायरिंग हुई। हमलावर ने ट्रंप को गोली मारने की कोशिश की, लेकिन वह बच गए। अटॉर्नी जनरल ने खुलासा किया कि हमलावर का निशाना ट्रंप ही थे।\n\nइस बीच, नेपाल में नई सरकार ने चीन के साथ हुए समझौतों की जांच शुरू कर दी है। नई सरकार ने इन समझौतों पर रोक लगा दी है। \n\nलखनऊ सुपर जायंट्स आज इंडियन प्रीमियर लीग में कोलकाता नाइट राइडर्स से भिड़ेगी। यह मैच लखनऊ के इकाना स्टेडियम में होगा।"
   },
   "articles": [
+    {
+      "title": "Mali Defence Minister killed, fresh fighting between army and rebels",
+      "url": "https://www.thehindu.com/news/international/mali-defence-minister-killed-fresh-fighting-between-army-and-rebels/article70908588.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-26T12:55:23+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/7aj45z/article70908661.ece/alternates/LANDSCAPE_1200/AFP__20260426__A8YH76B__v2__HighRes__FilesMaliUnrest.jpg",
+      "summary": "Defence Minister Sadio Camara died in a car bomb attack on his home in Kita. His second wife and two grandchildren also died. Defence Minister Sadio Camara, his second wife and two of his grandchildren died after a car bomb attack on his home in the junta stronghold of Kita, outside Bamako, his family and an official said.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Alex Marquez wins Spanish Grand Prix while brother Marc crashes out",
+      "url": "https://www.channelnewsasia.com/sport/alex-marquez-wins-spanish-grand-prix-while-brother-marc-crashes-out-6082061",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-26T12:54:09+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--4bVy13jn--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-26T125409Z_1_LYNXMPEM3P08K_RTROPTP_3_MOTOR-MOTOGP-SPAIN.JPG?itok=Ff1MWgwd",
+      "summary": "Alex Marquez won the Spanish Grand Prix. His brother Marc crashed out. Alex Marquez wins Spanish Grand Prix while brother Marc crashes out.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump's 'Lincoln' Reply To 'Why Does This Keep Happening To You?' Question",
+      "url": "https://www.ndtv.com/world-news/donald-trump-assassination-attempt-cole-thomas-white-house-correspondents-dinner-us-shooting-news-abraham-lincoln-11411595#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T12:11:28+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/tnmiid08_white-house-correspondent-dinner-donald-trump-assassination-attempt_625x300_26_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Trump faced a safety threat on Saturday. It is not his first safety threat. Saturday's incident is far from the first time Trump has faced a threat to his safety.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Russian Defence Minister In North Korea, To Hold Talks With Top Leadership",
+      "url": "https://www.ndtv.com/world-news/russia-north-korea-russian-defence-minister-in-north-korea-to-hold-talks-with-top-leadership-vladimir-putin-kim-jong-un-11411381#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T11:25:43+00:00",
+      "image_url": "https://c.ndtvimg.com/2024-05/ldut0fsg_andrei-belousov_625x300_13_May_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Russian Defence Minister visited North Korea. He will hold talks with top leadership. This is the second senior Russian official to visit Pyongyang in recent days. Russian Defence Minister In North Korea, To Hold Talks With Top Leadership.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump assassination attempts and security incidents",
+      "url": "https://www.aljazeera.com/news/2026/4/26/timeline-trump-assassination-attempts-and-security-incidents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-26T11:24:37+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2024/07/2024-07-14T061108Z_879094409_RC2MU8A31DBU_RTRMADP_3_USA-ELECTION-TRUMP-1-1720948510.jpg?resize=1200%2C630",
+      "summary": "A timeline lists Trump assassination attempts and security incidents during his presidency and campaign. Timeline reveals assassination attempts on Trump, including incidents during his presidency and campaign rallies.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Inside Washington Hilton attack, how President Trump was escorted out",
+      "url": "https://indianexpress.com/article/world/us-news/donald-trump-evacuated-white-house-correspondents-dinner-shooting-timeline-cole-tomas-allen-10656689/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-04-26T11:23:48+00:00",
+      "image_url": "https://images.indianexpress.com/2026/04/US-3-19.jpg",
+      "summary": "A man is in custody after trying to rush the White House Correspondents' Dinner. Donald Trump was attending the event at the Washington Hilton. Inside Washington Hilton attack, how President Trump was escorted out.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "\"Saw Trump's Resilient Side\": Indian Journalist Who Attended US Event To NDTV",
+      "url": "https://www.ndtv.com/world-news/trump-event-shooting-exclusive-indian-journalist-narrates-how-guests-were-evacuated-11411137#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T11:22:31+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/s10193e4_saurabh-shukla-newsmobile_625x300_26_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "summary": "Saurabh Shukla spoke to NDTV about attending a US event with Donald Trump. He discussed Trump's resilient side. Newsmobile editor-in-chief Saurabh Shukla in conversation with NDTV's Shiv Aroor. \"Saw Trump's Resilient Side\": Indian Journalist Who Attended US Event To NDTV.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Erica Kirk In Tears After White House Dinner Shooting",
+      "url": "https://www.ndtv.com/world-news/i-want-to-go-home-erica-kirk-in-tears-after-white-house-dinner-shooting-11411332#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T11:17:03+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/otuabeo4_erica_625x300_26_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Erica Kirk was in tears after a shooting at the Washington Hilton. The event was taking place at the time of the incident. The shooting happened at the time when the event was taking place at the Washington Hilton.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "US-Israel-Iran War Ceasefire News Live Updates: 'Hormuz will not return to previous state', Iran",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPTk80SXVrUGloMWdIVGtBdVZIcVJvVGdfU28yNk1KR0lwY0FRUzFBX2NDZ2trb0k2MnZ1WHJlSGZ2ZHFxQU51VDE1UWRMUjkxYUhXV2pnZVBlV0FXdUIxMFFIRDcyTWFxRU01RGRfN09tXzF3STF1OW1LRHBfTkJFRXJzb2szcFJodEhwY0xJcDFQUmJRdnRtMVhnWHB6UzQyV3hwQ3A2eW1XOUc1YW93UmhnUUxrT0FPcHJqQkRFYnF1ZkhldWl6NTNOZ3VTNWVremR4c3BhNU51MEdfTHk1Q053dnNzV3VFYktmc2R1dEo2ZkVybWlXMW43bWZQb21PT19rekprc0YxZGZIYTc1TGtoczlwazZlNjVnak91eUNhTURfbEthTmFFY1VKYkpEVXQ00gG4AkFVX3lxTE4yc2ZFZVJ5Yy1fbFNEYVM0Y3FpeTRJb0ZaMmhFVURXR3VRODR3WUVFZ3NIYnpGcV85TWdBZFhfV0wyUGk0cmF2WjlxcTBFMldjY3U1MEREemNtZEpFWXV1c1d5QmlhSm16NVVfSGNLTV9HOUk2c1NEang2YnBNLW1wb3A2T0RUVWNaR0o3TGQ5TmFNQkJ3eXlOaXJDd3RHUS1keF9Wa0tkUlpOendLM2NnTVdUb3BGUl9TZ21wOUVBSjN4MGhhTm9EcDJ4RG5XU3JBdDJab0U4eWlVd2VqX3NDVkU1djdQaVVxckstVl84QjEtZnlBWTlNTlM1RnQ0Z2lQRXdPbU1rdHRMb3R0SGRFYnQ3NWRTYVJwRGktd1V0TTdHUWRIRTFnSTZyY2JFazk1SHE2eTdnbA?oc=5",
@@ -20,242 +116,146 @@
       "translations": {}
     },
     {
-      "title": "Marathon-Kenya's Sawe becomes first man to run marathon under two hours to win in London",
-      "url": "https://www.channelnewsasia.com/sport/marathon-kenyas-sawe-becomes-first-man-run-marathon-under-two-hours-win-in-london-6081976",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-26T10:49:17+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--LAsB5oW2--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-26T104917Z_1_LYNXMPEM3P079_RTROPTP_3_ATHLETICS-LONDON.JPG?itok=E61u95Fc",
-      "summary": "King Charles and Queen Camilla arrived in the US for a four-day state visit, amid a tense transatlantic relationship. The royal couple's visit comes as the US and UK face disagreements under President Trump.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Philippines says two US citizens among 19 killed in raid",
-      "url": "https://www.channelnewsasia.com/asia/philippines-us-soldiers-americans-killed-negros-unrest-6081906",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-26T10:10:20+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--pqrYlP6Q--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/26/afp150721.png?itok=w3TC9pW1",
-      "summary": "Two US citizens, Lyle Prijoles and Kai Dana-Rene Sorem, were killed in a raid in Negros Occidental province. The two Americans, identified as Lyle Prijoles and Kai Dana-Rene Sorem, arrived in Negros Occidental province about a month before they were killed, officials said in a statement late on Saturday (Apr 25).",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iranian Negotiators Set to Return to Pakistan to Try to Revive Truce Talks",
-      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-26T10:08:49+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26-iran-us-fgzw/26-iran-us-fgzw-mediumSquareAt3X.jpg",
-      "summary": "Iranian negotiators are set to return to Pakistan to revive truce talks. The move follows President Trump's decision to call off a trip by his top advisers, leaving the outcome of the negotiations uncertain.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Islamabad Reopens After U.S.-Iran Talks Fail to Materialize",
-      "url": "https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-26T10:05:43+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26int-islamabad-talks-hbkt/26int-islamabad-talks-hbkt-mediumSquareAt3X.jpg",
-      "summary": "Islamabad reopened after US-Iran talks failed to materialize. The city was locked down in anticipation of the talks, but officials now say they will not proceed. Officials had locked the city down, anticipating talks between U. S.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "King Charles U.S. visit comes at tense moment in transatlantic relationship",
-      "url": "https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-04-26T10:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/37054205/pexels-photo-37054205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Cole Tomas Allen, a 31-year-old tutor and computer programmer, has been accused of shooting at the White House correspondents' dinner. Allen, a 2017 mechanical engineering graduate from Caltech, is facing charges.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump WH correspondents' dinner shooting LIVE: Accused is a tutor, computer programmer from",
-      "url": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-26T09:53:49+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/4hjwjb/article70907971.ece/alternates/LANDSCAPE_1200/2026-04-26T050438Z_801278955_RC2RWKAJ5E7D_RTRMADP_3_USA-TRUMP-DINNER.JPG",
-      "summary": "Pakistan reopened Islamabad after US-Iran talks did not happen. The city was locked down in anticipation of the talks, but officials now say they will not proceed, leaving business owners frustrated.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Yemen’s landmine crisis endures despite truce and de-mining efforts",
-      "url": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-26T09:43:42+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/Mohammed-Mustafa-landmine-survivor-3-1776807850.jpg?resize=1200%2C675",
-      "summary": "Landmines in Yemen continue to kill and maim despite ceasefire efforts. De-mining initiatives are ongoing. Landmines in Yemen continue to kill and maim, even amid ceasefire efforts and ongoing de-mining initiatives.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "\"Army Doesn't Get Business\": US Soldier Accused Of Betting On Maduro Operation",
-      "url": "https://www.ndtv.com/world-news/ken-van-dyke-us-army-soldier-accused-of-nicolas-maduro-bet-says-army-people-dont-get-the-business-stuff-11410604#publisher=newsstand",
+      "title": "Karoline Leavitt's Unwitting Prophecy Came True As 'Shots Fired' At Trump Event",
+      "url": "https://www.ndtv.com/world-news/karoline-leavitts-uncanny-shots-will-be-fired-comment-before-trump-event-11410176#publisher=newsstand",
       "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-04-26T09:39:27+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-01/g300kn8o_nicolas-maduro-trial_625x300_06_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Gannon Ken Van Dyke, a US soldier, was part of the operation to capture Maduro in January. He is accused of betting on the operation. Gannon Ken Van Dyke was part of the operation to capture Maduro in January.",
+      "published_at": "2026-04-26T11:02:11+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/0gi6ot7_karoline_625x300_26_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Karoline Leavitt previously mentioned shots being fired. A shooting occurred at a Trump event at the Washington Hilton. White House press secretary Karoline Leavitt (file). Karoline Leavitt's Unwitting Prophecy Came True As 'Shots Fired' At Trump Event.",
       "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Swiss International says five injured after flight aborts takeoff in India",
-      "url": "https://www.channelnewsasia.com/world/swiss-international-flight-engine-issue-india-delhi-injured-6081686",
+      "title": "What we know about the suspected ‘assassination attempt’ on Donald Trump",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/what-we-know-about-the-suspected-assassination-attempt-on-donald-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-26T10:50:04+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/clean-1777200590.jpg?resize=1800%2C1063",
+      "summary": "A man armed with a gun tried to rush the White House Correspondents' Dinner. Donald Trump was in attendance at the Washington Hilton. A man armed is in custody after trying to rush the White House Correspondents' Dinner, which Trump was attending.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Kenya's Sawe becomes first man to run marathon under two hours at London Marathon",
+      "url": "https://www.channelnewsasia.com/sport/kenyas-sawe-first-man-marathon-under-two-hours-london-6081976",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-04-26T09:38:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--nEQJW0dQ--/c_crop,h_2141,w_3807,x_1,y_49/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/26/000_par7968871.jpg?itok=trpLHuBj",
-      "summary": "Swiss International flight aborts takeoff in India, five injured. The incident occurred during takeoff. Swiss International says five injured after flight aborts takeoff in India.",
+      "published_at": "2026-04-26T10:49:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--FxGYn2ot--/c_crop,h_449,w_799,x_1,y_1/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-26T104917Z_1_LYNXMPEM3P07A_RTROPTP_3_ATHLETICS-LONDON.JPG?itok=MbTkrxSp",
+      "summary": "The London Marathon saw a historic moment as Kenyan runner Eliud Kipchoge's training partner, Kelvin Kiptum, finished in 1 hour 59 minutes 31 seconds, becoming the first man to break the two-hour barrier in a marathon.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump says Kushner, Witkoff no longer going to Pakistan for Iran talks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaldEcGJmb245Z2ZkNVg1c05IaFBQNFQyZ0RJV0pvWDV5Umt5Rm1TRkNXLS14MTdFaUQ0Njk3RGtOdU9CVXVKQ3hybFItNTdnNDFkNGJIVGxNM0FBRXlqeGV2dEhmOE43Z2xDOFFpTXB4anprN1NnOHp5elVxWWR0emJfR2E2anNwX0otdlpYd2tBbXdSRTlrU3ZrSFpNX0xpN0kwNi01dWQ0MEXSAbABQVVfeXFMTmt1ZlhRX2lSeGlOOEI3NTBkbmV1a2tzdDNZdkNGdVZSNmlKbUM0NjQtbkRpaWRTdF90MEN1RG53bVI3MkFJOUItRDA5RUdjczZ4STNSeFdFN2FWS0U5VDhHbUlaM3plUl9YQXNQOXlZNnpDanZ2bEh1TS1tTUNUa1F1UDFpaDVkclRwMkhET2FMRUhfbUxva2pIQWFqSV93cEN0emxwakcwQkZLOUFEcGQ?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-04-26T10:45:00+00:00",
+      "image_url": "https://images.pexels.com/photos/31513071/pexels-photo-31513071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Jared Kushner and Elliott Broidy's associate, Steven Witkoff, are no longer traveling to Pakistan for Iran talks, according to US President Donald Trump. Live Updates: Trump says Kushner, Witkoff no longer going to Pakistan for Iran talks CBS News.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UK Influencer Dies 6 Days After Getting Hit By Car Outside London Nightclub",
+      "url": "https://www.ndtv.com/world-news/uk-influencer-klaudia-zakrzewska-dies-6-days-after-getting-hit-by-car-outside-london-nightclub-11411249#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-26T10:43:17+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/hfopr56k_klaudia-zakrzewska_625x300_26_April_26.jpeg",
+      "summary": "Polish social media influencer Klaudia Zakrzewska, known as Klaudiaglam, died six days after being hit by a car outside a London nightclub, leaving behind a following of over 250,000 on Instagram.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Trump Was Going To \"Rip It\" With Media, Then Literal Shots Were Fired",
-      "url": "https://www.ndtv.com/world-news/trump-event-shooting-shots-that-were-fired-and-werent-shooting-derailed-presidents-media-showdown-11410989#publisher=newsstand",
+      "title": "UK In Touch With US Ahead Of King Charles' Visit Amid Trump Security Breach",
+      "url": "https://www.ndtv.com/world-news/uk-in-touch-with-us-ahead-of-king-charles-visit-amid-trump-security-breach-11411273#publisher=newsstand",
       "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-04-26T09:33:05+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/drco9e14_trump-press_625x300_26_April_26.jpeg",
-      "summary": "Trump entered the Hilton with an animus towards the media. Shots were fired during the incident. Trump entered the Hilton with the weight of an animus with the media seen throughout his second term.",
+      "published_at": "2026-04-26T10:39:49+00:00",
+      "image_url": "https://c.ndtvimg.com/2025-09/iot7i12g_trump-charles-afp_625x300_18_September_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "summary": "The UK government is in contact with the US ahead of King Charles' visit, amid concerns over security following a breach at the White House, where the monarch and his wife, Camilla, are due to arrive on Monday.",
       "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’",
-      "url": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-26T09:27:36+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/08/world/00Gold-Scrolly-05/00Gold-Scrolly-05-mediumSquareAt3X.jpg",
-      "summary": "The US Mint buys gold from various sources, including drug cartels, and sells it as American. As prices for the precious metal soar, the industry’s guardrails have broken down. U. S.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
-      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-26T09:20:11+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26int-israel-pardon-wfjv/26int-israel-pardon-wfjv-mediumSquareAt3X.jpg",
-      "summary": "Israel's President Isaac Herzog will not pardon Prime Minister Benjamin Netanyahu. He will seek a plea deal instead. President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Oman's Sultan meets Iran's Araghchi to discuss regional situation",
+      "title": "Iran's Foreign Minister Araghchi expected back in Pakistan despite U.S. cancellation",
       "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-04-26T08:56:17+00:00",
+      "published_at": "2026-04-26T10:37:47+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/1kxpy0/article70908167.ece/alternates/LANDSCAPE_1200/2026-04-25T191723Z_1477953115_RC2JWKASVWXZ_RTRMADP_3_IRAN-CRISIS-OMAN-IRAN-ARAQCHI.JPG",
-      "summary": "Oman's Sultan met Iran's Araghchi to discuss the regional situation. The meeting occurred amid US-Iran tensions. U. S. President Trump cancels Pakistan talks trip and says Iran war on hold; U. S.",
+      "summary": "Oman's Sultan met Iran's Araghchi to discuss the regional situation. The meeting occurred amid US-Iran tensions. U. S. President Trump cancels Pakistan talks trip and says Iran war on hold; U.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Armed groups launch coordinated attacks across Mali",
-      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "40 Years After the Meltdown, War Layers Another Disaster on Chernobyl",
+      "url": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
+      "source": "NYT World",
       "sources": [],
-      "published_at": "2026-04-26T08:56:02+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f56/live/2e2451f0-40b0-11f1-9cb2-cda518707cb6.jpg",
-      "summary": "Armed groups launched coordinated attacks across Mali, with clashes reported in the centre and north. Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-04-26T10:32:14+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/26/multimedia/26int-ukraine-chernobyl-01-jzqb-promo/26int-ukraine-chernobyl-01-jzqb-mediumSquareAt3X.jpg",
+      "summary": "The Chernobyl disaster zone remains under army control 40 years after the meltdown, with plans to develop the contaminated area for economic benefits in Ukraine stalled for the foreseeable future.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "What is the White House Correspondents’ Dinner?",
-      "url": "https://indianexpress.com/article/world/what-is-the-white-house-correspondents-dinner-10656500/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-04-26T08:29:39+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/trump-14-1.jpg",
-      "summary": "The White House Correspondents’ Dinner is an annual event. What is the White House Correspondents’ Dinner?",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Who is Cole Tomas Allen, suspect apprehended in connection to shooting in Washington",
-      "url": "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-who-is-cole-tomas-allen-suspect-apprehended/article70907732.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-26T08:12:49+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/5hl4ud/article70907737.ece/alternates/LANDSCAPE_1200/ADDITION_APTOPIX_Trump_Correspondents_51413.jpg",
-      "summary": "Cole Tomas Allen, 31, of Torrance, California, was identified as the shooting suspect. described by Trump as a “sick person”. was identified as Cole Tomas Allen, 31, of Torrance, California.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China launches Pakistani satellite",
-      "url": "https://www.thehindu.com/sci-tech/china-launches-pakistani-satellite/article70907952.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-26T07:53:31+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/g1dejj/article70908002.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%2016.jpg",
-      "summary": "China launched the Pakistani satellite PRSC-EO3 using a Long March-6 carrier rocket. The satellite named PRSC-EO3 was lifted off at 8:15 p. m. (Beijing Time) by a Long March-6 carrier rocket and successfully entered its planned orbit.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Who is Cole Allen, the suspect in the White House Correspondents' Dinner shooting?",
-      "url": "https://www.channelnewsasia.com/world/trump-white-house-correspondents-dinner-cole-allen-shooting-suspect-6081861",
+      "title": "Ethiopia's Assefa breaks own world record at London Marathon",
+      "url": "https://www.channelnewsasia.com/sport/ethiopias-assefa-breaks-own-world-record-london-marathon-6081941",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-04-26T07:50:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--lQZ2dtx3--/c_crop,h_562,w_1000,x_0,y_25/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/APTOPIX_Trump_White_House_Correspondents_Dinner_79688.jpg?itok=_HarPlXJ",
-      "summary": "Cole Tomas Allen, a 31-year-old California resident, was identified as the White House Correspondents' Dinner shooting suspect. The suspect arrested in the White House Correspondents' Dinner shooting has been identified as Cole Tomas Allen, a 31-year-old California resident.",
+      "published_at": "2026-04-26T10:32:10+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--y5Wpb5nS--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-26T103210Z_1_LYNXMPEM3P06Y_RTROPTP_3_ATHLETICS-LONDON.JPG?itok=CqpltD6A",
+      "summary": "Ethiopia's Assefa broke his own world record at the London Marathon. Ethiopia's Assefa breaks own world record at London Marathon.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Explosive device kills 13, injures 38 on bus in southwestern Colombia as violence persists",
+      "url": "https://www.thehindu.com/news/international/colombia-bus-attack-terrorist-explosion-several-death-injuries-latest/article70908171.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-26T10:24:46+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/3ywvh5/article70908181.ece/alternates/LANDSCAPE_1200/AFP_A8YR8BG.jpg",
+      "summary": "A device killed 13 and injured 38 on a bus in Colombia's Cauca region. Octavio Guzman, the Governor of the region of Cauca, said on X that the device was set off while the bus was travelling along the Panamerican Highway in the municipality of Cajibio.",
       "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "U.S. lawmakers say violence has no place in the country",
-      "url": "https://www.thehindu.com/news/international/trump-shooting-us-lawmakers-say-violence-has-no-place-in-the-country/article70908014.ece",
-      "source": "The Hindu (International)",
+      "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+      "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-04-26T07:44:08+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/1de01n/article70908029.ece/alternates/LANDSCAPE_1200/Trump_Correspondents_53118.jpg",
-      "summary": "Democrat leader Ro Khanna said political violence is unacceptable in the US after a Secret Service agent was shot. My thoughts are with the brave Secret Service agent who was shot.",
-      "region": "Global / Multilateral",
+      "published_at": "2026-04-26T10:20:31+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69eddb722113-1777195890.jpg?resize=1920%2C1440",
+      "summary": "Israeli forces killed at least four people in Gaza despite a ceasefire. Israeli forces keep advancing further into western Gaza, slowly expanding the area of their control in the east.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Sri Lanka seeks investors for loss-making Mattala airport in Hambantota",
-      "url": "https://www.thehindu.com/news/international/sri-lanka-seeks-investors-for-loss-making-mattala-airport-in-hambantota/article70908035.ece",
-      "source": "The Hindu (International)",
+      "title": "Jaissle hails historic win after Al-Ahli retain Asian Champions League title",
+      "url": "https://www.channelnewsasia.com/sport/jaissle-hails-historic-win-after-al-ahli-retain-asian-champions-league-title-6081926",
+      "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-04-26T07:29:49+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/international/8msqad/article70908049.ece/alternates/LANDSCAPE_1200/MattalaAirport.JPG",
-      "summary": "Sri Lanka seeks investors for the loss-making Mattala airport, which India has shown interest in operating through a joint venture. India has in the past expressed interest to operate the airport in Mattala, which has made headlines as the ‘world’s emptiest airport’, including through a joint venture with a Russian company.",
-      "region": "Europe & Russia",
+      "published_at": "2026-04-26T10:16:13+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--gJegkNkP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-26T101613Z_1_LYNXMPEM3P06K_RTROPTP_3_SOCCER-AFCCHAMPIONS-AHL-MAC.JPG?itok=GOVhxHHA",
+      "summary": "Al-Ahli retained the Asian Champions League title under coach Jaissle. Jaissle hails historic win after Al-Ahli retain Asian Champions League title.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -278,92 +278,74 @@
       }
     },
     {
-      "title": "नासा फेलो से कैसे बना गनमैन?: वॉशिंगटन के हिल्टन होटल में फायरिंग के आरोपी की कहानी, साजिश पर अभी",
-      "url": "https://www.amarujala.com/world/who-is-cole-thomas-allen-suspect-in-trump-event-shooting-identified-2026-04-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-26T07:16:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/washington-hilton-shooting_40c20b56d2a7ca184ff72b4388f774a6.jpeg?w=750&dpr=1.0",
-      "summary": "वॉशिंगटन के हिल्टन होटल में फायरिंग के आरोपी की कहानी सामने आई, जो पहले नासा फेलो था। अभी भी इस घटना के पीछे की साजिश को लेकर सस्पेंस बना हुआ है। आरोपी की पहचान और动机 का पता नहीं चल पाया है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नासा फेलो से कैसे बना गनमैन?: वॉशिंगटन के हिल्टन होटल में फायरिंग के आरोपी की कहानी, साजिश पर अभी",
-          "summary": "वॉशिंगटन के हिल्टन होटल में फायरिंग के आरोपी की कहानी सामने आई, जो पहले नासा फेलो था। अभी भी इस घटना के पीछे की साजिश को लेकर सस्पेंस बना हुआ है। आरोपी की पहचान और动机 का पता नहीं चल पाया है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप की डिनर पार्टी में गोली चलने के बाद हिरासत में लिया गया शख़्स कौन है?",
-      "url": "https://www.bbc.com/hindi/articles/cy919e74rlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-26T05:07:19+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e86/live/b1483830-412d-11f1-818f-6792bae496b5.jpg",
-      "summary": "व्हाइट हाउस के पत्रकारों के साथ डिनर कार्यक्रम में फ़ायरिंग के बाद एक संदिग्ध को हिरासत में लिया गया है. पुलिस के मुताबिक़ उसके पास शॉटगन, हैंडगन और चाकू मिले. यह घटना ट्रंप के डिनर पार्टी में हुई थी.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की डिनर पार्टी में गोली चलने के बाद हिरासत में लिया गया शख़्स कौन है?",
-          "summary": "व्हाइट हाउस के पत्रकारों के साथ डिनर कार्यक्रम में फ़ायरिंग के बाद एक संदिग्ध को हिरासत में लिया गया है. पुलिस के मुताबिक़ उसके पास शॉटगन, हैंडगन और चाकू मिले. यह घटना ट्रंप के डिनर पार्टी में हुई थी.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप की डिनर पार्टी में गोलियां चलीं, अफ़रा-तफ़री के बीच राष्ट्रपति को सुरक्षित बाहर निकाला-अब तक",
-      "url": "https://www.bbc.com/hindi/articles/cm2rl2jzmjxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-26T02:18:45+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d254/live/2bbf6c00-4115-11f1-b444-51ad07313543.jpg",
-      "summary": "कॉरेस्पॉन्डेंट्स डिनर में गोली जैसी आवाज़ें सुनाई दीं, जिसके बाद राष्ट्रपति डोनाल्ड ट्रंप को जल्दबाज़ी में बाहर निकाला गया। मेहमान टेबलों के नीचे छिप गए और बाद में ट्रंप ने खुद इस घटना के बारे में अपडेट दिया।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की डिनर पार्टी में गोलियां चलीं, अफ़रा-तफ़री के बीच राष्ट्रपति को सुरक्षित बाहर निकाला-अब तक",
-          "summary": "कॉरेस्पॉन्डेंट्स डिनर में गोली जैसी आवाज़ें सुनाई दीं, जिसके बाद राष्ट्रपति डोनाल्ड ट्रंप को जल्दबाज़ी में बाहर निकाला गया। मेहमान टेबलों के नीचे छिप गए और बाद में ट्रंप ने खुद इस घटना के बारे में अपडेट दिया।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "अमित शाह बोले- सरकार बनने के बाद खत्म कर देंगे टीएमसी के सभी सिंडिकेट",
-      "url": "https://www.amarujala.com/india-news/amit-shah-says-we-will-dismantle-all-tmc-syndicates-after-forming-the-government-2026-04-26",
+      "title": "क्या वापसी कर पाएगी लखनऊ? आज केकेआर से होगी इकाना में टक्कर",
+      "url": "https://www.amarujala.com/live/cricket/cricket-news/lsg-vs-kkr-live-cricket-score-lucknow-super-giants-vs-kolkata-knight-riders-ipl-2026-38th-match-updates-2026-04-26",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-25T23:25:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/bjp-will-win-110-seats-in-first-phase-of-polling-itself-mamata-will-be-out-of-power-amit-shah_62c908256b379a3efa52ca62c0fcc111.jpeg?w=750&dpr=1.0",
-      "summary": "भारतीय गृह मंत्री अमित शाह ने कहा कि उनकी पार्टी सरकार बनने के बाद तृणमूल कांग्रेस के सभी सिंडिकेट को खत्म कर देगी। यह बयान बंगाल चुनाव 2026 के दौरान दिया गया था। शाह ने टीएमसी पर निशाना साधा।",
+      "published_at": "2026-04-26T01:01:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/lkhanauu-bnama-kakaaara_a18158a08146530792b3ede3231143b1.jpeg?w=750&dpr=1.0",
+      "summary": "लखनऊ सुपर जायंट्स आज इंडियन प्रीमियर लीग 2026 में कोलकाता नाइट राइडर्स से भिड़ेगी. यह मैच लखनऊ के इकाना स्टेडियम में होगा. अमर उजाला के लाइव ब्लॉग में आपका स्वागत है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या वापसी कर पाएगी लखनऊ? आज केकेआर से होगी इकाना में टक्कर",
+          "summary": "लखनऊ सुपर जायंट्स आज इंडियन प्रीमियर लीग 2026 में कोलकाता नाइट राइडर्स से भिड़ेगी. यह मैच लखनऊ के इकाना स्टेडियम में होगा. अमर उजाला के लाइव ब्लॉग में आपका स्वागत है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी राष्ट्रपति नहीं तो कौन था निशाना?: हमलावर के टारगेट को लेकर अटॉर्नी जनरल का खुलासा; जांच",
+      "url": "https://www.amarujala.com/world/authorities-believe-suspect-may-have-been-targeting-administration-officials-us-acting-attorney-general-2026-04-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-26T00:55:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/authorities-believe-suspect-may-have-been-targeting-administration-officials-us-acting-attorney-gen_95a5a08632d5f2a853043ac2555d3127.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी अटॉर्नी जनरल ने खुलासा किया कि हमलावर का निशाना प्रशासनिक अधिकारी हो सकते हैं. एफबीआई इस मामले की जांच कर रही है. अमेरिकी राष्ट्रपति नहीं तो कौन था निशाना?: हमलावर के टारगेट को लेकर अटॉर्नी जनरल का खुलासा; जांच।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी राष्ट्रपति नहीं तो कौन था निशाना?: हमलावर के टारगेट को लेकर अटॉर्नी जनरल का खुलासा; जांच",
+          "summary": "अमेरिकी अटॉर्नी जनरल ने खुलासा किया कि हमलावर का निशाना प्रशासनिक अधिकारी हो सकते हैं. एफबीआई इस मामले की जांच कर रही है. अमेरिकी राष्ट्रपति नहीं तो कौन था निशाना?: हमलावर के टारगेट को लेकर अटॉर्नी जनरल का खुलासा; जांच।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "काश पटेल की कुर्सी पर संकट, ट्रंप जल्द कर सकते हैं एफबीआई प्रमुख की छुट्टी",
+      "url": "https://www.amarujala.com/world/trump-administration-may-remove-fbi-cheif-kash-patel-soon-2026-04-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-26T00:22:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/26/kash-patel-donald-trump_0b173f04685974f75b5e5af6a7b7019e.jpeg?w=750&dpr=1.0",
+      "summary": "डोनाल्ड ट्रंप जल्द ही एफबीआई प्रमुख काश पटेल की छुट्टी कर सकते हैं. उनकी कुर्सी पर संकट के बादल मंडरा रहे हैं. FBI: काश पटेल की कुर्सी पर संकट, ट्रंप जल्द कर सकते हैं एफबीआई प्रमुख की छुट्टी।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "काश पटेल की कुर्सी पर संकट, ट्रंप जल्द कर सकते हैं एफबीआई प्रमुख की छुट्टी",
+          "summary": "डोनाल्ड ट्रंप जल्द ही एफबीआई प्रमुख काश पटेल की छुट्टी कर सकते हैं. उनकी कुर्सी पर संकट के बादल मंडरा रहे हैं. FBI: काश पटेल की कुर्सी पर संकट, ट्रंप जल्द कर सकते हैं एफबीआई प्रमुख की छुट्टी।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "'लापरवाही की तो सख्त विभागीय कार्रवाई करेंगे', चुनाव आयोग की पुलिस अफसरों को चेतावनी",
+      "url": "https://www.amarujala.com/india-news/bengal-2nd-phase-polls-cops-will-not-be-spared-for-negligence-in-handling-voters-intimidation-says-eci-2026-04-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-26T00:15:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/06/eci-bihar-assembly-election-2025_e268731b663f41046dbc5de58e0b6617.jpeg?w=750&dpr=1.0",
+      "summary": "चुनाव आयोग ने पुलिस अफसरों को चेतावनी दी है कि अगर वे लापरवाही बरतते हैं तो उनके खिलाफ सख्त विभागीय कार्रवाई की जाएगी. Bengal 2nd Phase Polls: 'लापरवाही की तो सख्त विभागीय कार्रवाई करेंगे', चुनाव आयोग की पुलिस अफसरों को चेतावनी।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमित शाह बोले- सरकार बनने के बाद खत्म कर देंगे टीएमसी के सभी सिंडिकेट",
-          "summary": "भारतीय गृह मंत्री अमित शाह ने कहा कि उनकी पार्टी सरकार बनने के बाद तृणमूल कांग्रेस के सभी सिंडिकेट को खत्म कर देगी। यह बयान बंगाल चुनाव 2026 के दौरान दिया गया था। शाह ने टीएमसी पर निशाना साधा।",
+          "title": "'लापरवाही की तो सख्त विभागीय कार्रवाई करेंगे', चुनाव आयोग की पुलिस अफसरों को चेतावनी",
+          "summary": "चुनाव आयोग ने पुलिस अफसरों को चेतावनी दी है कि अगर वे लापरवाही बरतते हैं तो उनके खिलाफ सख्त विभागीय कार्रवाई की जाएगी. Bengal 2nd Phase Polls: 'लापरवाही की तो सख्त विभागीय कार्रवाई करेंगे', चुनाव आयोग की पुलिस अफसरों को चेतावनी।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सरकार ने रूस से कच्चे तेल आयात के आंकड़े देने से किया इनकार, CIC ने किया फैसले का समर्थन",
-      "url": "https://www.amarujala.com/business/business-diary/russia-crude-oil-import-data-confidential-cic-backs-denial-by-petroleum-ministry-s-ppac-2026-04-26",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-25T23:17:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/12/12/crude-oil_e67eface46b570b46db49944baef8fea.jpeg?w=750&dpr=1.0",
-      "summary": "भारत सरकार ने रूस से कच्चे तेल आयात के आंकड़े देने से इनकार कर दिया। केंद्रीय सूचना आयोग ने इस फैसले का समर्थन किया। सरकार की ओर से कोई कारण नहीं बताया गया। यह जानकारी सार्वजनिक नहीं की जाएगी।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सरकार ने रूस से कच्चे तेल आयात के आंकड़े देने से किया इनकार, CIC ने किया फैसले का समर्थन",
-          "summary": "भारत सरकार ने रूस से कच्चे तेल आयात के आंकड़े देने से इनकार कर दिया। केंद्रीय सूचना आयोग ने इस फैसले का समर्थन किया। सरकार की ओर से कोई कारण नहीं बताया गया। यह जानकारी सार्वजनिक नहीं की जाएगी।",
-          "region": "यूरोप और रूस"
         }
       }
     },
@@ -382,6 +364,24 @@
           "title": "नेपाल में नई सरकार का बड़ा कदम: चीन के साथ हुए समझौतों की जांच शुरू की, नई डील पर लगाई रोक",
           "summary": "नेपाल की नई सरकार ने चीन के साथ हुए बुनियादी ढांचे के समझौतों की जांच शुरू की है। नई सरकार ने चीन के साथ होने वाले नए समझौतों पर रोक लगा दी है। यह कदम नई सरकार की ओर से उठाया गया।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप के कार्यक्रम में गोलीबारी का घटनाक्रम: कैसे सुरक्षा घेरा तोड़ घुसा संदिग्ध, फायरिंग के बाद",
+      "url": "https://www.amarujala.com/world/white-house-dinner-shooting-us-president-trump-event-shooter-timeline-secret-services-california-explained-2026-04-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-25T22:25:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/donald-trump-us-president-white-house_d2cfc34eefbe7bd93910708d7743d43e.gif?w=750&dpr=1.0",
+      "summary": "व्हाइट हाउस कॉरेस्पोंडेंट्स डिनर के दौरान फायरिंग की घटना हुई थी. इसमें एक संदिग्ध शामिल था जिसने सुरक्षा घेरा तोड़कर कार्यक्रम में घुसपैठ की थी. अमेरिका के वॉशिंगटन में व्हाइट हाउस कॉरेस्पोंडेंट्स डिनर के दौरान हुई फायरिंग की घटना ने सुरक्षा व्यवस्था पर गंभीर सवाल खड़े कर दिए हैं।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप के कार्यक्रम में गोलीबारी का घटनाक्रम: कैसे सुरक्षा घेरा तोड़ घुसा संदिग्ध, फायरिंग के बाद",
+          "summary": "व्हाइट हाउस कॉरेस्पोंडेंट्स डिनर के दौरान फायरिंग की घटना हुई थी. इसमें एक संदिग्ध शामिल था जिसने सुरक्षा घेरा तोड़कर कार्यक्रम में घुसपैठ की थी. अमेरिका के वॉशिंगटन में व्हाइट हाउस कॉरेस्पोंडेंट्स डिनर के दौरान हुई फायरिंग की घटना ने सुरक्षा व्यवस्था पर गंभीर सवाल खड़े कर दिए हैं।",
+          "region": "अमेरिका"
         }
       }
     },
@@ -440,24 +440,6 @@
       }
     },
     {
-      "title": "पश्चिम एशिया का संघर्ष तेजी से एक ऐसे युद्ध का रूप लेता जा रहा है जिसे कोई नहीं जीत सकता",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOenBxT2JVQ3VwU2s0dUVvLUFRRmdwLUROV0FEcVo5dDZ4VlEtNks2Ti1pR050eUtQVERzUm8tYTcwaE9YcFlKVjlKbkZ3MkxIUy04Wi1UcVp4Ti1WOVAtZHl6eHNtN1k0TUhFYVU3Y2R2cFhpYWl2TkZWU3lQbTNDcDZDYzZFSjBZTzU5WlpscTVvdDhxM2JITGRiTnNzY2p4QUplSkJn0gGrAUFVX3lxTE5QeURXRWJ2UHVTelRUMnVxelA5MG4tNDgyQXVja3I5OWQwbndQWTN6YlozVEh2NU5iYVJBSmlXSWVDSDNxcG4zQWVwb0pXWnVGZG5hX21KcWhNQjJpVm9vSnhDNjNmZW1vMzJWZ3VmYXJONEllZWtiSHg4aF9NVHpPdE9RNENJOXAtTVFMaEhqNlZ6bjlkNzZ3NFQwWXhuZFBIQ09GTGdRT0dudw?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-25T11:33:25+00:00",
-      "image_url": "https://images.pexels.com/photos/6564828/pexels-photo-6564828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पश्चिम एशिया का संघर्ष एक ऐसे युद्ध का रूप ले रहा है जिसे कोई नहीं जीत सकता। इससे क्षेत्र में तनाव और अस्थिरता बढ़ रही है। पश्चिम एशिया का संघर्ष तेजी से एक ऐसे युद्ध का रूप लेता जा रहा है जिसे कोई नहीं जीत सकता ThePrint Hindi।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पश्चिम एशिया का संघर्ष तेजी से एक ऐसे युद्ध का रूप लेता जा रहा है जिसे कोई नहीं जीत सकता",
-          "summary": "पश्चिम एशिया का संघर्ष एक ऐसे युद्ध का रूप ले रहा है जिसे कोई नहीं जीत सकता। इससे क्षेत्र में तनाव और अस्थिरता बढ़ रही है। पश्चिम एशिया का संघर्ष तेजी से एक ऐसे युद्ध का रूप लेता जा रहा है जिसे कोई नहीं जीत सकता ThePrint Hindi।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "हिल जाएगी दुनिया... गरीब हो जाएंगे 3 करोड़ लोग, अमेरिका-ईरान युद्ध बना वजह",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcERlTFJxSUVkM1hONlF5VUJaQlNtbklUUnBQS2kyOWE5Q05mQ3Ezb1NqQU9rTWtpbTZhSE8wWTFuclItOHVObU15bU9hWW84R1FWWW9GSnYyQ1ZCS0RKbHJyLXo0OHZXZG9yTzNCU192MmpZZ2dsMUJKOFJQMThVeHZ5UldTR0Y4Mm80bmJEbGgzN0NzWi1pcDFXSXhVWXZZZlBDb2dOX2Z2dXVGLVktLU5PTVVKbUFrUllhdk9CNUpGVEhQTmpEOW10eHZFMGdQcEZCSzRQWVRGQjhfaEk4M2dR0gHnAUFVX3lxTE51cVR4dVNxZE9UeFRmZ3p1aURRYkx4MVBMdXRDSmNXcFhhTTRfY2hZUTc4Y2E4Tml6MHhDUjRWUEx3eXBvVjhoN0RWenhwUkNmNFdsa3MxRGw1UDBhc19OYzlsaTUydUE3Ti1icHBJOWVwZ0h2SXpkNUpUb0I4VHBWV1hNX3ZCbTdXUDBoWFJxU0xGQTBXbS10VHlKdWlpdWJGT21CMjFyUG9yQWk5VHFvUmIxLVc2OHFsZ0tUeFk3NzJ4SnhtSDNGU3dLR2ZxVWxlbUJaY1VSeUdFc0hLNXBPWFVjVjhqbw?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -489,6 +471,78 @@
         "hi": {
           "title": "UN की डरावनी चेतावनी, दाने-दाने को मोहताज होंगे 1.1 करोड़ पाकिस्तानी? 10 देशों का बुरा हाल",
           "summary": "संयुक्त राष्ट्र ने चेतावनी दी है कि 1.1 करोड़ पाकिस्तानी लोगों को दाने-दाने के लिए संघर्ष करना पड़ सकता है। 10 देशों में खाद्य संकट की स्थिति बनी हुई है। यह जानकारी संयुक्त राष्ट्र की ओर से जारी की गई।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा! नहीं बन पा रही आपसी सहमति",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTc0eDdoUTUtWV8wNnoxNVNjYklYSUVMTVpBSDhPYmY5eWRyV3FGMWwyWF9fM1pTMU5CT1pTUXBKd0o2ZzA5SG9Pd0R6amluY0Zhb1h6Ym9udi1jTjZ2VTlUWV80N2pTVEdEZHBaRFJEYk9vbWRhV0F4cEF6REtHQlgxQTF6SFp6eHRVclBzazM5Vk04TXB1Q0F3WjZRMnR4ek9hMEJWVzRObTdlZjRDQjFkd1RHU2ZRdng0d1A0LVVERlZHdHduSFJtcHbSAdMBQVVfeXFMTzk4VHg0aVY4dWNBcHFCRklnUnVCZFlSVG51amJaclFlSEI4eXRjeFRGRVRoMzVTQWc2dFZ1dkJ1SXhydmxYeEpqcWppQU1CZjNSbUNmR25BQ0ExaERBWXZrdzlWQXBvdnF2TFFmZFlqZHFIQ3hZVnE0QUgyRDk3cE9FdUhHbUxKOG5UWHliem9YTDAtcW1BR1VVM0tjVEl1bExPSzR1RkROdDFPcEVwWmg1SlZza2plT2RCUHBBbFJpeE1wTkJUYjdFckZiMEkwNEd3OA?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-04-25T04:57:33+00:00",
+      "image_url": "https://images.pexels.com/photos/7278771/pexels-photo-7278771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ब्रिक्स देशों की बैठक में ईरान-अमेरिका-इजरायल के बीच चल रहे तनाव का मुद्दा नहीं उठाया जाएगा। आपसी सहमति नहीं बन पाने के कारण यह मुद्दा टाला गया है। ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा!",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा! नहीं बन पा रही आपसी सहमति",
+          "summary": "ब्रिक्स देशों की बैठक में ईरान-अमेरिका-इजरायल के बीच चल रहे तनाव का मुद्दा नहीं उठाया जाएगा। आपसी सहमति नहीं बन पाने के कारण यह मुद्दा टाला गया है। ब्रिक्स में नहीं उठेगा ईरान-अमेरिका-इजरायल की जंग का मुद्दा!",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "UN ने की भारत के आतंक रोधी प्रयासों की सराहना, सिबी जार्ज की हुई अहम बैठक",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlVHNExaSS1fdUg3SWY5OGpzdVl5d0RVR2dYS0FzQm5FUmJKRTFSY09na1BOTHNwRGZxVVNYSWNwRWJxZG1HaUNCYVdWRFRRVlJfU19STXdaOF9GdVJTRlNWSkwzRXJhckl5WDFnYVJITlAzWWVlTFFlUTBzZ0E0NHkwLWMxekY1UnBwcWl0RDRGUzlZVmgtNklPY1lGdEFDNC1YMTF1Yjg3dFd5a2dUNWFqQ0dKbjZWOWZtejVUd3Y?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-25T04:47:00+00:00",
+      "image_url": "https://images.pexels.com/photos/15405989/pexels-photo-15405989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने भारत के आतंकवाद विरोधी प्रयासों की सराहना की। सिबी जॉर्ज के साथ एक महत्वपूर्ण बैठक आयोजित की गई। UN ने की भारत के आतंक रोधी प्रयासों की सराहना, सिबी जार्ज की हुई अहम बैठक Jagran।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UN ने की भारत के आतंक रोधी प्रयासों की सराहना, सिबी जार्ज की हुई अहम बैठक",
+          "summary": "संयुक्त राष्ट्र ने भारत के आतंकवाद विरोधी प्रयासों की सराहना की। सिबी जॉर्ज के साथ एक महत्वपूर्ण बैठक आयोजित की गई। UN ने की भारत के आतंक रोधी प्रयासों की सराहना, सिबी जार्ज की हुई अहम बैठक Jagran।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JbzctODRFNGxIb1Z2UURsTFZ3aXNJLWxqWXpoYWVhX3hZcE0xNnBMNF9VU3BXMGU5X1Nfb0pWcURoV203NG9wT2JmVEpnT29fa1dYbWFjdw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-24T21:02:41+00:00",
+      "image_url": "https://images.pexels.com/photos/16705852/pexels-photo-16705852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र मुख्यालय में परमाणु खतरों के बढ़ते 위협 के बीच महत्वपूर्ण रक्षा उपायों पर चर्चा हुई। यह बैठक विश्व शांति और सुरक्षा के लिए आयोजित की गई थी। विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा UN News।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा",
+          "summary": "संयुक्त राष्ट्र मुख्यालय में परमाणु खतरों के बढ़ते 위협 के बीच महत्वपूर्ण रक्षा उपायों पर चर्चा हुई। यह बैठक विश्व शांति और सुरक्षा के लिए आयोजित की गई थी। विश्व में बढ़ते परमाणु ख़तरों के बीच अहम रक्षा उपाय पर, यूएन मुख्यालय में चर्चा UN News।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "विश्व में बढ़ते युद्ध: कब थमेगा ये संघर्ष?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sS2hkUDNZT1B2Y0ppYXJVaDBkU08zMkxrSlAxWWRXaTZDWVZSbTEzY3ZmYmJSbEVId0F0aG16MDMzNlZNMmNhcUlXUE96VjlMSTZKd1pQX1pnZ3FwLWJFc1p1QW1qZVEwQTZWbUVlR2lCSEJRM2fSAXtBVV95cUxQc0dJcDJDOTZXUHpEaUpQUU1jUXpPX1ZYb0hrUV9EWkpqNEVBM3BaY3BzZkpteFpEelo3UkhPbHpRMVhNak5WU1o2WElpNDY4MlhIbjBJZGtfV2tLUVU4ODNaOUVrQzA0ZHBId2hlaUgwUkJpZmFhcm1PcVU?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-04-24T15:57:04+00:00",
+      "image_url": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विश्व में युद्ध की घटनाएं बढ़ रही हैं। वैश्विक स्तर पर संघर्षों को समाप्त करने के लिए कोई ठोस समाधान नहीं दिख रहा है। विश्व में बढ़ते युद्ध: कब थमेगा ये संघर्ष?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विश्व में बढ़ते युद्ध: कब थमेगा ये संघर्ष?",
+          "summary": "विश्व में युद्ध की घटनाएं बढ़ रही हैं। वैश्विक स्तर पर संघर्षों को समाप्त करने के लिए कोई ठोस समाधान नहीं दिख रहा है। विश्व में बढ़ते युद्ध: कब थमेगा ये संघर्ष?",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -579,60 +633,6 @@
         "hi": {
           "title": "ईरान के 'शैडो फ्लीट' ने कैसे फेल की अमेरिका की आर्थिक नाकेबंदी? देखें कूटनीति",
           "summary": "ईरान के 'शैडो फ्लीट' ने अमेरिका की आर्थिक नाकेबंदी को विफल कर दिया। ईरान की कूटनीतिक रणनीति ने अमेरिका की योजनाओं को प्रभावित किया। ईरान के 'शैडो फ्लीट' ने कैसे फेल की अमेरिका की आर्थिक नाकेबंदी?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान युद्ध में चीन की 'साइलेंट डिप्लोमेसी': बिना मध्यस्थ बने कैसे निभा रहा बड़ी भूमिका? Inside Story",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkozQUJCakdXZmdnbkxxMVVHVUdjUVFRTFp5eUlJbk11cTNybV93V0pWejRtZmp5YXBuZHNndVV4LU1mQXZwUzJmVFV6Vk94TThzNnJselZIcFRtRTIyc2p6TE5kMVhyeUNzQ2wzUDJaUDR2T2w4N2VocDFJTFYtWjMxX3JwS05ORGRDXzkta04xMUNGcENIaGFHa1FRRHFfZWhmbHMyejJ4V2pwclE?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-23T13:59:00+00:00",
-      "image_url": "https://images.pexels.com/photos/35865194/pexels-photo-35865194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "चीन ने ईरान युद्ध में 'साइलेंट डिप्लोमेसी' अपनाई है। चीन ने मध्यस्थ की भूमिका नहीं निभाई, लेकिन बड़ी भूमिका निभा रहा है। ईरान युद्ध में चीन की 'साइलेंट डिप्लोमेसी': बिना मध्यस्थ बने कैसे निभा रहा बड़ी भूमिका?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान युद्ध में चीन की 'साइलेंट डिप्लोमेसी': बिना मध्यस्थ बने कैसे निभा रहा बड़ी भूमिका? Inside Story",
-          "summary": "चीन ने ईरान युद्ध में 'साइलेंट डिप्लोमेसी' अपनाई है। चीन ने मध्यस्थ की भूमिका नहीं निभाई, लेकिन बड़ी भूमिका निभा रहा है। ईरान युद्ध में चीन की 'साइलेंट डिप्लोमेसी': बिना मध्यस्थ बने कैसे निभा रहा बड़ी भूमिका?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'ट्रंप जब चाहेंगे तब खत्म होगा युद्ध, 3-5 दिन की डेडलाइन की खबरें गलत', पश्चिम एशिया संघर्ष पर",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYUtsSl82N3R3QmgxWkxxUVFITTIyNFVuWnE2YjBCSDQwbnZpRFJNQ2p6bEktaXdWZHNWc0M4ZEM5U2tUaHcwNzYyS0xfZk9UaW9KNVFXRWJ5ek1RcGNFTXJJd1pKcGNGazZWZE5yV01JMEs2V3h4bXFUQzFsYWt2OUFBVEJCLVlwU2RBb2M2ZFNCS2V0QWs1MFFBdUFUUFVjMmN1WTJmRUdSa1BQbGc1OVFiZzFrN1VKV2RjcG9nQ3lXTnNJQy1QY0FTNUNoU0NVLWk4UDQzeEFmS1hoWGZSTG5B0gHnAUFVX3lxTE5SMllzWVBiQmswUXpjNXFmMXdfZ2JDb1lhVFVxNkpPREhaMjQ1ZFFjMXVoTDBOOXJVdG9jOEFxcjhnaTZDR1VzQmg3YWhNbVJmS1RhQVlESksxVm1YYWo4dlVOY2Y1NnE1c2JmWWNZRDR5SGg1S1o4T1R3dW51bXIxSTloX0NXazZsRUliNVp3LVZZRUZtLVp2SDluV2ZBTGQtY2cyT3Q5RHBPTVc2SGwtNVBQUEdlUnM1a1U4OGxRTDJ5dlJNUGpUTnE0Z2k0NDJXRHZnd2hYc2tBMGxQcklaOXhFMkJycw?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-22T23:25:19+00:00",
-      "image_url": "https://images.pexels.com/photos/30917943/pexels-photo-30917943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "व्हाइट हाउस ने कहा कि अमेरिकी राष्ट्रपति ट्रम्प जब चाहेंगे तब पश्चिम एशिया संघर्ष समाप्त होगा. व्हाइट हाउस ने 3-5 दिनों की समयसीमा की खबरों को गलत बताया. ट्रम्प की ओर से कोई आधिकारिक बयान नहीं आया है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ट्रंप जब चाहेंगे तब खत्म होगा युद्ध, 3-5 दिन की डेडलाइन की खबरें गलत', पश्चिम एशिया संघर्ष पर",
-          "summary": "व्हाइट हाउस ने कहा कि अमेरिकी राष्ट्रपति ट्रम्प जब चाहेंगे तब पश्चिम एशिया संघर्ष समाप्त होगा. व्हाइट हाउस ने 3-5 दिनों की समयसीमा की खबरों को गलत बताया. ट्रम्प की ओर से कोई आधिकारिक बयान नहीं आया है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "युद्ध के लिए तैयार ट्रंप, ईरान ने दी चेतावनी- एक और नरक बना देंगे",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTFqY0NBemdmWkF1bWZORDNza0FtcXp1ZGxLbnhIUWJVbWNlOGdiLTJEZmZLeXBRWmItc25GZ3RPeGRwcGhhS3hpUVNPOWUtbUQ2amxqSHZaV1FxY216UkxvMGdQOS1NaEhEMnpWNy03NmlMRWw1ZjJGeG11VXB2ZTRxR21SaGlla2E2aG9wdnVkOGxOQW9SNlpBX0liTnc3NF9zOGhTdmlBb2RJMEE?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-21T18:23:00+00:00",
-      "image_url": "https://images.pexels.com/photos/5483517/pexels-photo-5483517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी राष्ट्रपति ट्रम्प ने कहा कि वह युद्ध के लिए तैयार हैं. ईरान ने चेतावनी दी कि अगर अमेरिका ने हमला किया तो वह एक और नरक बना देंगे. अमेरिका और ईरान के बीच तनाव बढ़ रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "युद्ध के लिए तैयार ट्रंप, ईरान ने दी चेतावनी- एक और नरक बना देंगे",
-          "summary": "अमेरिकी राष्ट्रपति ट्रम्प ने कहा कि वह युद्ध के लिए तैयार हैं. ईरान ने चेतावनी दी कि अगर अमेरिका ने हमला किया तो वह एक और नरक बना देंगे. अमेरिका और ईरान के बीच तनाव बढ़ रहा है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
