@@ -1,21 +1,45 @@
 {
-  "generated_at": "2026-04-27T19:26:44.009886+00:00",
+  "generated_at": "2026-04-27T21:06:13.101620+00:00",
   "article_count": 42,
-  "total_unique_count": 251,
+  "total_unique_count": 252,
   "digest": {
-    "en": "A train crash in Indonesia's Java island killed at least four people and injured dozens. Iran's Foreign Minister is in Russia for talks with President Putin on the Middle East conflict. UK Prime Minister Starmer faces a possible Parliament probe over his ties with Peter Mandelson.",
-    "hi": "ईरान ने अमेरिका के सामने परमाणु समझौते को लेकर नई शर्तें रखी हैं। ईरान ने कहा है कि वह अमेरिका के साथ परमाणु समझौते पर बातचीत करने को तैयार है अगर अमेरिका ईरान के तेल निर्यात पर लगे प्रतिबंधों को हटा देता है। ईरान के विदेश मंत्री जोहाद अराघची ने कहा है कि वह जल्द ही अमेरिका के साथ बातचीत करेंगे।"
+    "en": "US and Iran are clashing over Tehran's nuclear program as a review of the atomic treaty begins at the UN. China is seeking to block US tech giant Meta from an AI acquisition. King Charles III has arrived in the US on a delicate mission to restore the UK-US relationship.",
+    "hi": "ईरान ने अमेरिका के सामने शर्तें रखकर होर्मुज जलसंधि को बंद करने की धमकी दी है। ट्रंप ने सुरक्षा टीम के साथ बैठक की। पाकिस्तान के मिसाइल हमलों से अफगानिस्तान में सात नागरिकों की मौत हो गई और 85 घायल हो गए।"
   },
   "articles": [
     {
-      "title": "At least four killed and dozens injured in Indonesia train crash",
-      "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "US and Iran clash over Tehran's nuclear program as review of atomic treaty begins at UN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGpmb05nNXRlemw3MWtpU0JjMlIyd200UUxQOXNsMjBSU0RqX3JwNFJFd20wRndEdlpYN1hUSnNpOTJ2am9SNVl3a2J0NGNjTEJsT0VoZndTVjVCUkl5dHU4NnI4a01iX21SMzhTWVdjZU9SMzdIOEhkRkw1cXNnMjJqcG05U3R4TDR6dUNB?oc=5",
+      "source": "Google News (United Nations)",
       "sources": [],
-      "published_at": "2026-04-27T19:06:10+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb6/live/c380eda0-4266-11f1-ba04-0105efb4069e.png",
-      "summary": "A commuter train and a long-distance train collided on the outskirts of Jakarta on Monday, killing at least four people and injuring dozens. Officials are likely to investigate the cause of the crash.",
+      "published_at": "2026-04-27T20:47:38+00:00",
+      "image_url": "https://images.pexels.com/photos/31262146/pexels-photo-31262146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US and Iran clashed over Tehran's nuclear program at the UN atomic treaty review. US and Iran clash over Tehran's nuclear program as review of atomic treaty begins at UN Newsday.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China seeks to block US tech giant Meta from AI acquisition",
+      "url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-27T20:27:56+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69efb28484f4-1777316484.jpg?resize=1920%2C1440",
+      "summary": "China is blocking US tech giant Meta from an AI acquisition amid tightened scrutiny. Bejing tightens scrutiny of AI industry amid intensifying geopolitical rivalry with the US over the technology.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Canada Says Its Gold Is Traceable and Clean. So We Traced It.",
+      "url": "https://www.nytimes.com/2026/04/27/world/canada/royal-canadian-mint-gold-drug-cartel-colombia.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-27T20:20:59+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/22/world/00int-gold-canada/00int-gold-canada-mediumSquareAt3X.jpg",
+      "summary": "Canadian gold was traced to a Colombian mine controlled by a drug cartel. We ended up in a Colombian mine controlled by a drug cartel. Canada Says Its Gold Is Traceable and Clean.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -24,34 +48,130 @@
       "url": "https://www.nytimes.com/2026/04/27/world/middleeast/iran-trump-talks-strait-of-hormuz-nuclear.html",
       "source": "NYT World",
       "sources": [],
-      "published_at": "2026-04-27T18:59:55+00:00",
+      "published_at": "2026-04-27T20:12:55+00:00",
       "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27int-iran-peace-proposal-zgkt/27int-iran-peace-proposal-zgkt-mediumSquareAt3X.jpg",
-      "summary": "Iran proposed opening the Strait of Hormuz to shipping traffic and lifting the U. S. blockade in a new offer delivered on Sunday. The plan delays nuclear talks with the U. S. until later.",
+      "summary": "Iran proposed opening the Strait of Hormuz to shipping traffic and lifting the U. S. blockade in a new offer delivered on Sunday. The plan delays nuclear talks with the U. until later.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "US-Israel-Iran Ceasefire Live Updates: Iran Offers To Open Strait Of Hormuz, Gives US Conditions",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQb0hVdVpEaVNoVXY5TzNGNjNab05CM2EyaVR0SjI3Ynd3dWJ5TnBZalRXa1Z6SUxaVUVRSmpuSndhdXdSWjNGdXU0bGhraVFuei1RajJfLVpVcF9JNksyY0RTbklmM0c5eWpQZV9xbFdGZFJrVkt6dUxQOWQ1c3EzbHUxRVpFNnh3Yk10MHpUV3FOamg4YllManVBZGlIa1Z2eENvdk90WnpfNzJVMGRTVXpsVGxkVmpSU2phMlUzbjE2VDBScHpRV0pNSnlrU2E5clltZW9pUkhUSEdnX2lxWnROa3VPcjQ5dWtYNkJ1REpLMDM2RXAxMmxSMXh0b2ZMQjg5TzZkeEpEeFctQWFwRtIBmAJBVV95cUxNMWR3RWV2ZHo0QUtCWmNiT3lJOXoxOFItdEV1RzY5TS1GRW44VXJkNzZEZl9GdncyVXByZ2hZWGczMUhiU1RZWEZiWk8wTDZKdGpETDlxOHlYSy1Ea3NuOGVnYUlWZldIbmx4SVpRQ1RXam5EWGg2ai1hanBLV09jTmNlYjk0NEp5c0xvR2ZmQm5yeTBkNE8zSC1VamtLbUFWOUc2QkNOY1BQelZtUDVseWVqNjYzUGxCUUctSEpJSkMxSGtFRU9MRGpBME9ySkROUVBKblQ2R2VjZGt4RnNPNG8yUm9fYmtwSzJhNUtNQTUtSHkxRW9kSl9pcUxvTHVaY1lDckJUT1BLbHZYYWZnODZRclpIalJQ?oc=5",
-      "source": "Google News (war ceasefire)",
+      "title": "Canada’s New Route to Citizenship Has Thousands of Americans Lining Up to Apply",
+      "url": "https://www.nytimes.com/2026/04/27/world/canada/canadian-citizenship-by-descent-applications-americans-us.html",
+      "source": "NYT World",
       "sources": [],
-      "published_at": "2026-04-27T18:26:50+00:00",
-      "image_url": "https://images.pexels.com/photos/32304390/pexels-photo-32304390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Iran's minister arrived in Russia as ceasefire talks between the US, Israel, and Iran collapsed. Iran blamed the US for the collapse of the talks. US-Israel-Iran Ceasefire Live Updates: Iran Blames US For Collapse Of Talks As Minister Arrives In Russia NDTV.",
+      "published_at": "2026-04-27T20:11:28+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/27/world/00int-canada-immigration/00int-canada-immigration-mediumSquareAt3X.jpg",
+      "summary": "Canada's new citizenship route has thousands of Americans applying through ancestral ties. Canada has opened a route to citizenship for people who can prove they have a Canada-born ancestor. Millions could qualify, and Americans are already lining up to apply.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
+      "url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-27T19:58:33+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-08-15T102856Z_540756615_RC2M7GAMX5WX_RTRMADP_3_LEBANON-POLITICS-HEZBOLLAH-1756135937.jpg?resize=1920%2C1440",
+      "summary": "Hezbollah and Israel exchanged threats and strikes across Lebanon's border, escalating tensions. Iran-linked group reiterates defiance; Israeli defence minister threatens to ‘burn all of Lebanon'. Hezbollah and Israel swap threats and strikes across Lebanon’s border.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Sam Altman's sister loses lawyers in her sexual abuse lawsuit against OpenAI CEO",
-      "url": "https://www.channelnewsasia.com/business/sam-altmans-sister-loses-lawyers-in-her-sexual-abuse-lawsuit-against-openai-ceo-6084496",
+      "title": "King Charles III arrives in U.S. on delicate mission to restore U.K.-U.S. relationship",
+      "url": "https://www.thehindu.com/news/international/king-charles-iii-queen-camilla-us-visit-to-meet-donald-trump-and-mend-us-uk-ties/article70913779.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-27T19:32:22+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/5p48my/article70913802.ece/alternates/LANDSCAPE_1200/APTOPIX_US_Britain_Royal_Visit_619_2.jpg",
+      "summary": "King Charles III arrived in the US to restore the UK-US relationship. The President referred to him as a friend and great guy. The President has spoken in glowing terms about King Charles, repeatedly referring to the monarch as his “friend” and a “great guy”.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "King Charles arrives in US for trip overshadowed by Iran quarrel and shooting",
+      "url": "https://www.channelnewsasia.com/world/king-charles-arrives-in-us-trip-overshadowed-iran-quarrel-and-shooting-6084541",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-04-27T18:18:07+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--TekWfook--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-27T182107Z_5_LYNXMPEM3Q18S_RTROPTP_3_OPENAI-ALTMAN-SISTER-LAWSUIT.JPG?itok=4HSepeHk",
-      "summary": "Sam Altman's sister lost her lawyers in her sexual abuse lawsuit against OpenAI CEO. The case against Altman continues without her current legal representation. Sam Altman's sister loses lawyers in her sexual abuse lawsuit against OpenAI CEO.",
-      "region": "World",
+      "published_at": "2026-04-27T19:30:40+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--33tR7SR4--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/28/2026-04-27t192715z_696640165_rc2vxkactyku_rtrmadp_3_usa-britain-king.jpg?itok=ndppxsay",
+      "summary": "King Charles arrived in the US for a trip overshadowed by Iran quarrel and shooting. King Charles arrives in US for trip overshadowed by Iran quarrel and shooting.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate",
+      "url": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-27T19:12:41+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69efb8c3-1777318083.jpg?resize=1200%2C630",
+      "summary": "Iraqi President named Ali al-Zaidi as PM-designate, breaking a months-long deadlock. Choice of al-Zaidi breaks a months-long deadlock after Trump opposed appointment of pro-Iran former PM al-Maliki. Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Discusses Iran Offer To Open Straits Of Hormuz",
+      "url": "https://www.ndtv.com/world-news/iran-war-donald-trump-discusses-iran-offer-to-open-straits-of-hormuz-11417717#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-27T19:09:15+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/7kcl6q3s_donald-trump_625x300_26_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Trump discussed Iran's proposal to open the Hormuz Strait with his national security team. US President Donald Trump on Monday met his national security team to discuss Iran's latest proposal to open the Hormuz Strait, the crucial waterway for transporting one-fifth of the global oil supplies.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Man charged with attempted assassination of Trump in White House correspondents' dinner shooting",
+      "url": "https://www.thehindu.com/news/international/man-charged-with-attempted-assassination-of-trump-in-white-house-correspondents-dinner-shooting/article70913760.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-27T19:07:42+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/7ism6k/article70913775.ece/alternates/LANDSCAPE_1200/2026-04-27T004425Z_967870431_RC2SWKAJZR1U_RTRMADP_3_USA-TRUMP-DINNER.JPG",
+      "summary": "A 31-year-old man was charged with attempted assassination of Trump at a White House correspondents' dinner.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Freedom of navigation not negotiable: IMO addresses UN Security Council on maritime safety in",
+      "url": "https://www.thehindu.com/news/international/freedom-of-navigation-not-negotiable-imo-addresses-un-security-council-on-maritime-safety-in-strait-of-hormuz/article70913759.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-27T18:52:31+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/hthlhe/article70913757.ece/alternates/LANDSCAPE_1200/4669a0c027cf4728941ba2e2a421c3b1.jpg",
+      "summary": "The International Maritime Organization Secretary-General said freedom of navigation is not negotiable, warning that any deviation from established principles would undermine shipping operations worldwide, setting a negative precedent and destabilizing global shipping.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Holds Talks With Security Team Over Iran Proposal To Reopen Hormuz",
+      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-donald-trump-holds-talks-with-security-team-over-iran-proposal-to-reopen-hormuz-11417649#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-27T18:45:12+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/p3sqios_trump-mojtaba-iran-war_650x400_09_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "summary": "The US is considering a proposal from Iran to reopen the Strait of Hormuz, with President Trump holding talks with his security team on the matter. Iran has sent a proposal that would reportedly re-open the Strait of Hormuz.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Event Shooter Charged With 'Attempt To Assassinate' US President",
+      "url": "https://www.ndtv.com/world-news/cole-tomas-allen-accused-donald-trump-event-shooter-charged-with-attempt-to-assassinate-us-president-11417539#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-27T18:28:25+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/fcaospp4_white-house-shooting_160x120_26_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Cole Tomas Allen has been charged with attempting to assassinate US President Donald Trump after shooting at him at a campaign event. Cole Tomas Allen: Accused Donald Trump event shooter charged with 'attempt to assassinate' US President.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -61,7 +181,7 @@
       "source": "Al Jazeera",
       "sources": [],
       "published_at": "2026-04-27T18:07:25+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69efa6ffca10-1777313535.jpg?resize=1200%2C675",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69efc0a4-1777320100.jpg?resize=1920%2C1440",
       "summary": "Cole Thomas Allen was charged with attempting to kill former U. S. President Trump in a shooting at a press gala on Saturday. The suspect's motives are being investigated. Prosecutor says Cole Thomas Allen 'attempted to assassinate the president of the United States' in Saturday attack.",
       "region": "Americas",
       "language": "en",
@@ -80,138 +200,6 @@
       "translations": {}
     },
     {
-      "title": "Canada Setting Up Sovereign Wealth Fund",
-      "url": "https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-27T17:52:41+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27int-canada-carney-fund-qlvh/27int-canada-carney-fund-qlvh-mediumSquareAt3X.jpg",
-      "summary": "Canada is setting up a sovereign wealth fund, which will be smaller than those in other oil-producing nations like Norway and the Middle East. The fund's size has not been disclosed.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Mexico warns US involvement in anti-drug operation should not to be repeated",
-      "url": "https://www.theguardian.com/world/2026/apr/27/mexico-us-anti-drug-operation",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-04-27T17:45:04+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/1beb1afa8b17bf20654eceeb850936ac8caae089/771_0_4729_3783/master/4729.jpg?width=140&quality=85&auto=format&fit=max&s=edfd6484b2f437b000695feedc28efb4",
-      "summary": "Mexico's President Claudia Sheinbaum warned the US against unauthorized involvement in anti-drug operations. A diplomatic note was sent after a US presence was discovered in a Chihuahua operation that resulted in four official deaths.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.K. PM Starmer faces possible Parliament probe over Mandelson",
-      "url": "https://www.thehindu.com/news/international/uk-pm-starmer-faces-possible-parliament-probe-over-mandelson/article70913673.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-27T17:43:17+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/dtdnhq/article70913695.ece/alternates/LANDSCAPE_1200/2026-04-27T115654Z_57659677_RC2LXKAX8L75_RTRMADP_3_BRITAIN-POLITICS-STARMER.JPG",
-      "summary": "UK Prime Minister Starmer faces a possible Parliament probe over his involvement with Peter Mandelson. This development is part of a scandal that has led to calls for Starmer's resignation.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China vows countermeasures if EU enacts 'Made in Europe' plan",
-      "url": "https://www.thehindu.com/news/international/china-vows-countermeasures-if-eu-enacts-made-in-europe-plan/article70913665.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-27T17:38:46+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/8if9th/article70913696.ece/alternates/LANDSCAPE_1200/2026-04-27T103137Z_1395812032_RC2RAKA7O5KO_RTRMADP_3_CHINA-RATINGS-MOODY-S.JPG",
-      "summary": "China has vowed to take countermeasures if the EU enacts its 'Made in Europe' plan. The plan requires companies to meet EU-made part thresholds to access public funds in strategic sectors.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UK-based AI startup Ineffable raises $1.1 billion in Europe's largest seed financing",
-      "url": "https://www.channelnewsasia.com/business/uk-based-ai-startup-ineffable-raises-11-billion-in-europes-largest-seed-financing-6084426",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-27T17:35:35+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
-      "summary": "UK-based AI startup Ineffable raised $1.1 billion in Europe's largest seed financing. The company did not disclose details on how the funds will be used. UK-based AI startup Ineffable raises $1.1 billion in Europe's largest seed financing.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
-      "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-04-27T17:32:15+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c5c/live/3845fc00-4255-11f1-a8e5-d31af761243a.jpg",
-      "summary": "Melania Trump urged ABC to take a stand against Jimmy Kimmel after he made a joke about her as an \"expectant widow\" in a parody aired before the White House Correspondents' Dinner. The joke sparked criticism from the First Lady's office.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks",
-      "url": "https://www.aljazeera.com/news/2026/4/27/ceasefire-at-risk-as-pakistan-and-afghanistan-report-cross-border-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-27T17:27:54+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69ef8889cb5a1-1777305737.jpg?resize=1920%2C1440",
-      "summary": "Pakistan and Afghanistan reported cross-border attacks, putting a ceasefire at risk. The strikes were the first since the two countries agreed to halt violence at peace talks last month. The strikes were the first since the two agreed to halt the violence at peace talks last month.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "German tourist dies after being bitten at snake show on family holiday in Egypt",
-      "url": "https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-04-27T17:26:07+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/665955f7f484b9f5b15d11a95ba1d0fa8a098873/253_0_3023_2418/master/3023.jpg?width=140&quality=85&auto=format&fit=max&s=476fda268b319d15d0ebf359b1847697",
-      "summary": "A 57-year-old German tourist died after a snake bit him during a show in Egypt. The man was watching a snake-charming performance at a hotel in Hurghada when the reptile crawled into his trousers.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "At least four killed in train collision on outskirts of Jakarta",
-      "url": "https://www.channelnewsasia.com/asia/train-collision-indonesia-jakarta-bekasi-casualties-6084381",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-27T17:23:51+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--I01P8g-x--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-27T162015Z_1_LYNXMPEM3Q14H_RTROPTP_3_INDONESIA-TRAINS.JPG?itok=zUj9p_6J",
-      "summary": "At least four people were killed in a train collision on the outskirts of Jakarta. Two trains collided in Bekasi, leaving four dead and 38 passengers rushed to nearby hospitals.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
-      "url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-04-27T17:23:09+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/8118575098eca6c538bfac79f4cb05d5a3462bb0/0_0_5795_4634/master/5795.jpg?width=140&quality=85&auto=format&fit=max&s=d4b7109265cb9372292256803135a090",
-      "summary": "A bomb blast on a Colombian highway killed 21 people and injured 56, blamed on cocaine-trafficking rebels. The attack was the country's worst on civilians in decades, ahead of elections.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Bahrain strips dozens of citizenship over Iran support",
-      "url": "https://www.thehindu.com/news/international/bahrain-strips-dozens-of-citizenship-over-iran-support/article70913643.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-27T17:23:09+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/national/on8fn8/article70913658.ece/alternates/LANDSCAPE_1200/iStock-1093681012.jpg",
-      "summary": "Bahrain's Ministry stripped dozens of people of their citizenship, citing support for hostile Iranian acts, including colluding with foreign entities. The list included dependents, but exact numbers weren't specified.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "At U.N., U.S. Calls for Coalition of Maritime Freedom On Hormuz",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU041bzhhT3BodHZxaFkyU2VmSHRoOFZzNkZiZmNLMnpkaUZLaWNtRUdTb3RzaF9FWFhJbkw5dGhUWXZLb3dKM0lQbjJQV09hdUdNeFZnQ3VXX0NkbDZwbk9wQVVnRVdjMEs5RFgzT2V3VWluVnV6QVRSVVY2TGhTSHY0V0E3YXQyRnZOVVJhR2FGWDlGdFZmMWlkc1RERnFncjB5bmNmaGt0amNzbzJmYkxnSHQ3dU9BZkxHYzhtLS1CUXVLQ3VsU1hEWVpSM0x0c21EbnpPSkM4VDB0XzgyRVlKTnM?oc=5",
       "source": "Google News (United Nations)",
@@ -224,38 +212,50 @@
       "translations": {}
     },
     {
-      "title": "Gunmen kidnap 23 children from Nigerian orphanage",
-      "url": "https://www.aljazeera.com/news/2026/4/27/gunmen-kidnap-23-pupils-from-nigerian-orphanage?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Nearly two decades after landmark Indigenous rights declaration, countries still aren't complying",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRVZDeE5YMV9GOWx1UUkzMUg1NW5sRTZDZVE0VTBPV29jdVhqQUxKRnkwYmNncG5vaE16cXFkRGVKYTBDMDVFQXZFdUl6Qm55alBENmpPREtWT196a2dpR1B3dENOcUhtQ0ItdDBPRnhjLUFFOVpBSDZXYTlvdjctRGJhV1FwdHlnd196M2toaDBHSUR2NUhfa0hpcDEzMm45dUZKRkVMWkNwV0kxRmlpUVotVzNNX204bjQwdjBDLUxXSzA?oc=5",
+      "source": "Google News (United Nations)",
       "sources": [],
-      "published_at": "2026-04-27T17:20:09+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69ef7bac0a74f-1777302444.jpg?resize=1920%2C1440",
-      "summary": "Gunmen kidnapped 23 children from a Nigerian orphanage. Mass kidnappings are a common tactic used by gangs and armed groups to make quick money in Nigeria. Mass kidnappings are a common way for gangs and armed groups to make quick money in Nigeria.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hezbollah Vows to Keep Its Weapons as Lebanon Says Israeli Strikes Killed 14",
-      "url": "https://www.nytimes.com/2026/04/27/world/middleeast/hezbollah-weapons-lebanon-israel.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-27T17:12:56+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/27/multimedia/27lebanon-israel-01-fjhb/27lebanon-israel-01-fjhb-mediumSquareAt3X.jpg",
-      "summary": "Hezbollah leader Sayyed Hassan Nasrallah stated that they will keep their weapons. This comes as Israel and Hezbollah have been trading daily attacks despite a cease-fire, with 14 reported killed in recent Israeli strikes.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "David Attenborough centenary celebrations start with closer look at 'Life on Earth'",
-      "url": "https://www.channelnewsasia.com/business/david-attenborough-centenary-celebrations-start-closer-look-life-earth-6084376",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-27T17:01:42+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--wGTkj0cC--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-27T170306Z_2_LYNXMPEM3Q16F_RTROPTP_3_PEOPLE-ATTENBOROUGH-DOCUMENTARY.JPG?itok=_novGD-o",
-      "summary": "The BBC began centenary celebrations for David Attenborough with a closer look at his documentary series 'Life on Earth'. The series is being re-released to mark the occasion. David Attenborough centenary celebrations start with closer look at 'Life on Earth'.",
+      "published_at": "2026-04-27T17:12:08+00:00",
+      "image_url": "https://images.pexels.com/photos/12385365/pexels-photo-12385365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Countries have failed to comply with the landmark Indigenous rights declaration made nearly two decades ago, despite its significance for Indigenous communities. Nearly two decades after landmark Indigenous rights declaration, countries still aren't complying grist. org.",
       "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "German Chancellor Merz says Iran is humiliating U.S. as talks stall",
+      "url": "https://www.thehindu.com/news/international/german-chancellor-merz-says-iran-is-humiliating-us-as-talks-stall/article70913590.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-27T17:02:44+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/n1lb34/article70913611.ece/alternates/LANDSCAPE_1200/2026-04-27T164638Z_825916597_RC2SXKAM49AV_RTRMADP_3_GERMANY-POLITICS-CONSERVATIVES.JPG",
+      "summary": "German Chancellor Merz criticized Iran's negotiating tactics, saying they are skilled at avoiding meaningful talks with the US, leaving American diplomats with little to show for their efforts. “The Iranians are obviously very skilled at negotiating, ⁠or rather, very skilful at not negotiating, letting the Americans travel to Islamabad and then leave again without any result,” says ​German Chancellor.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Pakistan accused of attacking Afghan university",
+      "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-04-27T16:54:13+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21e/live/4a6900b0-4248-11f1-85a4-6fbea57c2af5.jpg",
+      "summary": "Air attacks on Kunar province killed at least seven people and injured 75. Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Russian drone attack wounds 14 while Ukrainian drones kill two in Russia-held area",
+      "url": "https://www.thehindu.com/news/international/russian-drone-attack-on-odesa-wounds-10-officials-say/article70910964.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-27T16:46:56+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/fhszxx/article70910985.ece/alternates/LANDSCAPE_1200/2026-04-24T175706Z_1732783991_RC2LVKAANKXF_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA.JPG",
+      "summary": "A Russian drone attack on Odesa wounded 14 people including two children. Authorities in Ukraine say a Russian drone attack on Ukraine’s southern city of Odesa has wounded 14 people including two children.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -278,20 +278,110 @@
       }
     },
     {
-      "title": "दुन‍िया परमाणु हथियारों के खतरे नहीं भूले, संधि में फिर से जान डालनी होगी यूएन चीफ",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRWVPOHE4SHI3eFc5Wmx3am9vSGxndTN6Uk1IQ0lybnNnSWJwZ3RnZVhZa3BwRlU0UEtyVWVsaUxaS25KaUNvWDJhXzVYeVUteDcxZF9yTU9IeWhQQmtTbGxtUkRTU1dXV241NmxzRXBGd2ZJTkRTZnVjc1hRN2FUXzhnOHBmaXNpb084M2lzdVYwSFd3T080QWw0cUt4N2FBOGpRYm1IWU5nRE1YUWZQYzJkQk14N2dHelV0UXNmdUhpM2J0YmF2OFpjSm03bENzVnJib2lOcXZ3Zw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "पाकिस्तान के मिसाइल हमलों से दहला अफगानिस्तान, सात नागरिकों की मौत; 85 घायल",
+      "url": "https://www.amarujala.com/world/afghanistan-pakistan-tensions-kunar-missile-strike-university-civilian-casualties-peace-talks-2026-04-28",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-27T17:57:12+00:00",
-      "image_url": "https://images.pexels.com/photos/31351508/pexels-photo-31351508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र के प्रमुख ने कहा है कि दुनिया परमाणु हथियारों के खतरे को नहीं भूली है। उन्होंने परमाणु संधि में फिर से जान डालने की आवश्यकता पर जोर दिया। यह बयान वैश्विक सुरक्षा चिंताओं के बीच आया है।",
-      "region": "Global / Multilateral",
+      "published_at": "2026-04-27T21:03:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/12/pakasatana-oura-afaganasatana-ka-jhada_4345150568a71702037bab148b72e084.jpeg?w=750&dpr=1.0",
+      "summary": "पाकिस्तान के मिसाइल हमलों से अफगानिस्तान के कुнар में सात नागरिकों की मौत हो गई और 85 घायल हुए। यह हमला अफगानिस्तान और पाकिस्तान के बीच तनाव के बीच हुआ। हमले के बाद दोनों देशों के बीच शांति वार्ता प्रभावित हो सकती है।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दुन‍िया परमाणु हथियारों के खतरे नहीं भूले, संधि में फिर से जान डालनी होगी यूएन चीफ",
-          "summary": "संयुक्त राष्ट्र के प्रमुख ने कहा है कि दुनिया परमाणु हथियारों के खतरे को नहीं भूली है। उन्होंने परमाणु संधि में फिर से जान डालने की आवश्यकता पर जोर दिया। यह बयान वैश्विक सुरक्षा चिंताओं के बीच आया है।",
-          "region": "वैश्विक / बहुपक्षीय"
+          "title": "पाकिस्तान के मिसाइल हमलों से दहला अफगानिस्तान, सात नागरिकों की मौत; 85 घायल",
+          "summary": "पाकिस्तान के मिसाइल हमलों से अफगानिस्तान के कुнар में सात नागरिकों की मौत हो गई और 85 घायल हुए। यह हमला अफगानिस्तान और पाकिस्तान के बीच तनाव के बीच हुआ। हमले के बाद दोनों देशों के बीच शांति वार्ता प्रभावित हो सकती है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पिंपरी-चिंचवाड़ में बिजली के टॉवर पर चढ़ा व्यक्ति, फायर ब्रिगेड ने बचाई जान",
+      "url": "https://www.amarujala.com/india-news/maharashtra-hindi-news-updates-mumbai-bmc-nagpur-pune-education-politics-crime-cm-fadnavis-gadkari-2026-04-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-27T20:37:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=750&dpr=1.0",
+      "summary": "पिंपरी-चिंचवाड़ में एक व्यक्ति बिजली के टॉवर पर चढ़ गया, जिसे फायर ब्रिगेड ने सुरक्षित उतार लिया। यह घटना महाराष्ट्र के पिंपरी-चिंचवाड़ में हुई। व्यक्ति की जान बचाने के लिए फायर ब्रिगेड की टीम ने 신속 कार्रवाई की।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पिंपरी-चिंचवाड़ में बिजली के टॉवर पर चढ़ा व्यक्ति, फायर ब्रिगेड ने बचाई जान",
+          "summary": "पिंपरी-चिंचवाड़ में एक व्यक्ति बिजली के टॉवर पर चढ़ गया, जिसे फायर ब्रिगेड ने सुरक्षित उतार लिया। यह घटना महाराष्ट्र के पिंपरी-चिंचवाड़ में हुई। व्यक्ति की जान बचाने के लिए फायर ब्रिगेड की टीम ने 신속 कार्रवाई की।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'भारत पहले से ही हिंदू राष्ट्र', मोहन भागवत ने राम मंदिर बनने को लेकर कही ये बड़ी बात",
+      "url": "https://www.amarujala.com/india-news/mohan-bhagwat-statement-hindu-rashtra-ram-temple-nagpur-rss-chief-india-revival-remarks-2026-04-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-27T20:18:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/21/mohan-bhagwat-addresses-in-pratishtha-and-kumbabishekam-program-of-the-temple-of-maa-soundarya-chinm_7946f6aaeb4d77ee85614f622bf42916.jpeg?w=750&dpr=1.0",
+      "summary": "आरएसएस प्रमुख मोहन भागवत ने कहा कि भारत पहले से ही एक हिंदू राष्ट्र है। उन्होंने राम मंदिर के निर्माण पर भी टिप्पणी की। भागवत के बयान ने राजनीतिक और सामाजिक हलकों में चर्चा शुरू कर दी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'भारत पहले से ही हिंदू राष्ट्र', मोहन भागवत ने राम मंदिर बनने को लेकर कही ये बड़ी बात",
+          "summary": "आरएसएस प्रमुख मोहन भागवत ने कहा कि भारत पहले से ही एक हिंदू राष्ट्र है। उन्होंने राम मंदिर के निर्माण पर भी टिप्पणी की। भागवत के बयान ने राजनीतिक और सामाजिक हलकों में चर्चा शुरू कर दी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इंडोनेशिया की राजधानी के पास ट्रेनों की टक्कर, कम से कम 4 की मौत",
+      "url": "https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-04-28",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-27T19:49:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
+      "summary": "इंडोनेशिया की राजधानी के पास दो ट्रेनों की टक्कर में कम से कम 4 लोगों की मौत हो गई। यह दुर्घटना इंडोनेशिया में हुई। पुलिस और बचाव दल घटनास्थल पर पहुंचे और राहत कार्य शुरू किया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इंडोनेशिया की राजधानी के पास ट्रेनों की टक्कर, कम से कम 4 की मौत",
+          "summary": "इंडोनेशिया की राजधानी के पास दो ट्रेनों की टक्कर में कम से कम 4 लोगों की मौत हो गई। यह दुर्घटना इंडोनेशिया में हुई। पुलिस और बचाव दल घटनास्थल पर पहुंचे और राहत कार्य शुरू किया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पुणे रेलवे स्टेशन के पास मुंबई-सोलापुर वंदे भारत एक्सप्रेस पटरी से उतरी!",
+      "url": "https://www.amarujala.com/video/india-news/pune-train-accident-news-mumbai-solapur-vande-bharat-express-derails-near-pune-railway-station-2026-04-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-27T19:40:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/28/pune-train-accident-news_4f52b28c16ea4a792f6c8f95efdd4633.jpeg?w=750&dpr=1.0",
+      "summary": "पुणे रेलवे स्टेशन के पास मुंबई-सोलापुर वंदे भारत एक्सप्रेस पटरी से उतर गई। यह घटना पुणे में हुई। रेलवे अधिकारियों और बचाव दलों ने घटनास्थल पर पहुंचकर यात्रियों को सुरक्षित निकाल लिया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पुणे रेलवे स्टेशन के पास मुंबई-सोलापुर वंदे भारत एक्सप्रेस पटरी से उतरी!",
+          "summary": "पुणे रेलवे स्टेशन के पास मुंबई-सोलापुर वंदे भारत एक्सप्रेस पटरी से उतर गई। यह घटना पुणे में हुई। रेलवे अधिकारियों और बचाव दलों ने घटनास्थल पर पहुंचकर यात्रियों को सुरक्षित निकाल लिया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "युद्ध विराम और कूटनीति के बीच मॉस्को पहुंचे ईरानी विदेश मंत्री अराघची",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORXkyUWRDdG1lOU9LbVBod2F2S2tYMU02cWo0bzhDMmFWbnRJY0pmcHJjX2MwQ3I0MGt4ejUyeXFtcVRaR0E3Ny11SU56TVJRUU16OW1TOTV1Z1BhclZMWTVCQXEyblJVTk16aEhuV0FsZWwxcTREQjM1Q2UtdF9ZV0F4Wkc1c1pteGRKY2pKTW5CVVZmODFGWVRsN3V4ejZVUVdpM3dLaG1jNEY4WUxDYXpTQkV5emE1ZXcyag?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-04-27T19:10:05+00:00",
+      "image_url": "https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरानी विदेश मंत्री अब्बास अराघची मॉस्को पहुंचे हैं। उनकी यात्रा में युद्ध विराम और कूटनीति पर चर्चा होने की संभावना है। यह यात्रा ईरान और रूस के बीच बढ़ते सहयोग को दर्शाती है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "युद्ध विराम और कूटनीति के बीच मॉस्को पहुंचे ईरानी विदेश मंत्री अराघची",
+          "summary": "ईरानी विदेश मंत्री अब्बास अराघची मॉस्को पहुंचे हैं। उनकी यात्रा में युद्ध विराम और कूटनीति पर चर्चा होने की संभावना है। यह यात्रा ईरान और रूस के बीच बढ़ते सहयोग को दर्शाती है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -310,6 +400,24 @@
           "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक का भारत दौरा, द्विपक्षीय बैठकों में होंगी शामिल",
           "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक भारत दौरे पर हैं। उनके कार्यक्रम में द्विपक्षीय बैठकें शामिल हैं। यह दौरा भारत और संयुक्त राष्ट्र के बीच संबंधों को मजबूत करने के लिए महत्वपूर्ण है।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पश्चिम बंगाल में टीएमसी बनाम बीजेपी की जंग में कहाँ हैं वामपंथी पार्टियां?",
+      "url": "https://www.bbc.com/hindi/articles/c5yvy6x7z8po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-27T16:10:32+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf9e/live/ab702640-421b-11f1-af30-5bf899ef6a6b.jpg",
+      "summary": "पश्चिम बंगाल में 34 साल तक सत्ता में रहने वाला वाम मोर्चा अपने अस्तित्व की लड़ाई लड़ रहा है। वामपंथी पार्टियों के वोटर और काडर की संख्या में गिरावट आई है, जिससे उनकी पकड़ कमजोर हो गई है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पश्चिम बंगाल में टीएमसी बनाम बीजेपी की जंग में कहाँ हैं वामपंथी पार्टियां?",
+          "summary": "पश्चिम बंगाल में 34 साल तक सत्ता में रहने वाला वाम मोर्चा अपने अस्तित्व की लड़ाई लड़ रहा है। वामपंथी पार्टियों के वोटर और काडर की संख्या में गिरावट आई है, जिससे उनकी पकड़ कमजोर हो गई है।",
+          "region": "दुनिया"
         }
       }
     },
@@ -368,24 +476,6 @@
       }
     },
     {
-      "title": "युद्ध विराम और कूटनीति के बीच मॉस्को पहुंचे ईरानी विदेश मंत्री अराघची",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORXkyUWRDdG1lOU9LbVBod2F2S2tYMU02cWo0bzhDMmFWbnRJY0pmcHJjX2MwQ3I0MGt4ejUyeXFtcVRaR0E3Ny11SU56TVJRUU16OW1TOTV1Z1BhclZMWTVCQXEyblJVTk16aEhuV0FsZWwxcTREQjM1Q2UtdF9ZV0F4Wkc1c1pteGRKY2pKTW5CVVZmODFGWVRsN3V4ejZVUVdpM3dLaG1jNEY4WUxDYXpTQkV5emE1ZXcyag?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-27T13:29:42+00:00",
-      "image_url": "https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरानी विदेश मंत्री अब्बास अराघची मॉस्को पहुंचे हैं। उनकी यात्रा में युद्ध विराम और कूटनीति पर चर्चा होने की संभावना है। यह यात्रा ईरान और रूस के बीच बढ़ते सहयोग को दर्शाती है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "युद्ध विराम और कूटनीति के बीच मॉस्को पहुंचे ईरानी विदेश मंत्री अराघची",
-          "summary": "ईरानी विदेश मंत्री अब्बास अराघची मॉस्को पहुंचे हैं। उनकी यात्रा में युद्ध विराम और कूटनीति पर चर्चा होने की संभावना है। यह यात्रा ईरान और रूस के बीच बढ़ते सहयोग को दर्शाती है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "बदलती दुनिया में शान्तिरक्षा की भूमिका क्यों अहम है?",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IZHpZQXVidGt4OFhZQkxadjMwNWdKdW5pOHJkZjMzcUlSMUhJb3ZDX3BGWkx1TXBMWThkWjBvR2tqSGp1VHNkaVJFcDF0TnlWaHMyVUJHVQ?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -404,20 +494,38 @@
       }
     },
     {
-      "title": "परमाणु मुद्दे पर वार्ता को लेकर ईरान की US को दो टूक, देखें दुनिया आजतक",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNmx0bUpOMlZLc2JOcmxGdE5ld2xiRVVwaG92bDk5a0Z5dElfdkVYUDRmQk92YS01VjBsV054NjljcjlMWHFUMk9PSHhlWGM1aHN6SjBoTmNPaFI5YVRMak5XRzdXa2diU0s3RkczUkRfTWxPMExNRTZiV09VT1A3T1BqSER6MmZKakc3NTJjYlUzRGowY0p0VnNhbXNpeTlCeWE3T0g5Z2V0eUVRZWZWWUZuQUJqd3hGc0EtY29qRHR1RnPSAcgBQVVfeXFMTVpkUWpzU3B4aC1ib0NEcFI3blRSNUQ4Y1hjQVR6Wm1wUmhBM1RjOGlsZThaSkRlV3dsT2ZGUEFFTEdhZGxLcERYQUZPWUhOY3JxZlBRa0JURzNwN2hheS1uS3o0d1ZTYm1yVl9HTjBGbERoZkRXRlVJS1MzRW9yb1c4UDVRcXp5MTZadDQxdUtkTzN3eWhkYTAyN1FzTDBmNHhHVUNWc3ZKdjJTbjJlRjd0VEpkTTc1bzJ6S0VMYm82VEhYTFVXSGE?oc=5",
-      "source": "Google News Hindi (विश्व समाचार)",
+      "title": "रूस में इंटरनेट पर सरकार की मज़बूत होती पकड़ से बढ़ती नाराज़गी",
+      "url": "https://www.bbc.com/hindi/articles/cn43k9vdnkzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-27T11:12:42+00:00",
-      "image_url": "https://images.pexels.com/photos/33848676/pexels-photo-33848676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने अमेरिका को दो टूक कहा है कि वह परमाणु मुद्दे पर वार्ता के लिए तैयार नहीं है. ईरान की यह टिप्पणी अमेरिका के साथ तनाव के बीच आई है.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-04-27T12:40:23+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1366/live/d233f9b0-4229-11f1-b307-6188d1314cd9.jpg",
+      "summary": "रूस में इंटरनेट का इस्तेमाल सीमित हो गया है, जिससे लोगों में नाराज़गी बढ़ रही है। इसकी तुलना सोवियत दौर की सेंसरशिप और आज के डिजिटल ब्लैकआउट से की जा रही है, जिससे लोगों की स्वतंत्रता पर अंकुश लग रहा है।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "परमाणु मुद्दे पर वार्ता को लेकर ईरान की US को दो टूक, देखें दुनिया आजतक",
-          "summary": "ईरान ने अमेरिका को दो टूक कहा है कि वह परमाणु मुद्दे पर वार्ता के लिए तैयार नहीं है. ईरान की यह टिप्पणी अमेरिका के साथ तनाव के बीच आई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "रूस में इंटरनेट पर सरकार की मज़बूत होती पकड़ से बढ़ती नाराज़गी",
+          "summary": "रूस में इंटरनेट का इस्तेमाल सीमित हो गया है, जिससे लोगों में नाराज़गी बढ़ रही है। इसकी तुलना सोवियत दौर की सेंसरशिप और आज के डिजिटल ब्लैकआउट से की जा रही है, जिससे लोगों की स्वतंत्रता पर अंकुश लग रहा है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "कभी नज़्म सुनाती, कभी गीत गाती सयानी घोष कैसे बनीं टीएमसी की स्टार प्रचारक",
+      "url": "https://www.bbc.com/hindi/articles/c89593388k8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-04-27T11:16:26+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/009b/live/699f6730-422a-11f1-bd52-e755d604ece4.jpg",
+      "summary": "सयानी घोष टीएमसी की स्टार प्रचारक बन गई हैं, जिन्होंने महुआ मोइत्रा जैसी चर्चित महिला नेताओं के बीच अपनी जगह बनाई है। बांग्ला भाषी फ़िल्मों में अदाकारी और गायन ने उन्हें पश्चिम बंगाल में लोकप्रिय बना दिया था।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कभी नज़्म सुनाती, कभी गीत गाती सयानी घोष कैसे बनीं टीएमसी की स्टार प्रचारक",
+          "summary": "सयानी घोष टीएमसी की स्टार प्रचारक बन गई हैं, जिन्होंने महुआ मोइत्रा जैसी चर्चित महिला नेताओं के बीच अपनी जगह बनाई है। बांग्ला भाषी फ़िल्मों में अदाकारी और गायन ने उन्हें पश्चिम बंगाल में लोकप्रिय बना दिया था।",
+          "region": "दुनिया"
         }
       }
     },
@@ -440,20 +548,74 @@
       }
     },
     {
-      "title": "चीन फिर करेगा पांडा कूटनीति, अमेरिका के जू अटलांटा को भेजेगा दो विशाल पांडा",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPZmVfM0lBRkwtWFZoeVJIdVVhUFVwLTlFTHlBVUFFT05FUGRwMnU5QlFYOVhFUXFPWUNZcjBlLTd0WXphaTd5d1lkYU5hV0pBcjlKNGU3Z1RKczRCTmZzUjh5T3VfcEY5cmkwa21XOEZjMGYzTGR2WUFFSjUyWHNKeHJlV09WME5Rc0Z2STh5Z29EZHk4UlJhSEJ5Q3R0aVBFaFY5MUg3YWRjYXFBakFfUm41MEFoZmxoc2xESGc0Umw0dGhCZC1YYlZHTWo3c1RYbzU0SmROT0EyVTkySjlXdFBSVmVXbWdwUFBFdFJ3dWlOZ2lTN1F6TmJlMk1VOVlWRWc4N19zWDFyS3A1RVA1eWJudGVJMkYtUEN2eHNqMVJZZWRzaGdENlJhekVlakFHbU1OYnVVMEl5dmxOTEl0MU1qVGxkZw?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "title": "क्या ट्रंप ने वाकई 8 ईरानी महिलाओं को फांसी से बचा लिया है?",
+      "url": "https://www.bbc.com/hindi/articles/cj373pjr85jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-27T05:24:48+00:00",
-      "image_url": "https://images.pexels.com/photos/35784864/pexels-photo-35784864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "चीन अमेरिका के जू अटलांटा को दो विशाल पांडा भेजेगा, जिससे पांडा कूटनीति फिर से शुरू होगी। यह जानकारी जीके टुडे द्वारा दी गई है। पांडा कूटनीति एक प्रतीकात्मक संबंध है जो चीन और अन्य देशों के बीच सौहार्द को दर्शाता है।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-04-27T08:54:29+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af6b/live/8f922770-4216-11f1-9a91-2b6b858bae5e.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया था कि उनकी अपील के बाद ईरान ने 8 महिलाओं की फांसी की सज़ा रद्द कर दी है। लेकिन ईरान ने कहा कि उन महिलाओं को फांसी देने का उसका कोई इरादा नहीं था।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चीन फिर करेगा पांडा कूटनीति, अमेरिका के जू अटलांटा को भेजेगा दो विशाल पांडा",
-          "summary": "चीन अमेरिका के जू अटलांटा को दो विशाल पांडा भेजेगा, जिससे पांडा कूटनीति फिर से शुरू होगी। यह जानकारी जीके टुडे द्वारा दी गई है। पांडा कूटनीति एक प्रतीकात्मक संबंध है जो चीन और अन्य देशों के बीच सौहार्द को दर्शाता है।",
-          "region": "एशिया-प्रशांत"
+          "title": "क्या ट्रंप ने वाकई 8 ईरानी महिलाओं को फांसी से बचा लिया है?",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया था कि उनकी अपील के बाद ईरान ने 8 महिलाओं की फांसी की सज़ा रद्द कर दी है। लेकिन ईरान ने कहा कि उन महिलाओं को फांसी देने का उसका कोई इरादा नहीं था।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "इंस्पेक्टर से लेकर विलेन तक की निभाई भूमिका, अभिनय पर देव आनंद के भाई दिल हारे; पढ़ें भरत कपूर के",
+      "url": "https://www.amarujala.com/entertainment/bollywood/kapoor-passed-away-from-doctor-to-villain-bharat-kapoor-perform-powerful-roles-in-films-2026-04-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-27T06:08:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/27/bharata-kapara_51da13ffcf37722df48524bfdbf0b05c.jpeg?w=750&dpr=1.0",
+      "summary": "बॉलीवुड अभिनेता भरत कपूर का निधन हो गया है, जिन्होंने 1970, 80 और 90 के दशक की कई फिल्मों में बेहतरीन अदाकारी की थी। उन्होंने इंस्पेक्टर से लेकर विलेन तक की भूमिका निभाई थी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इंस्पेक्टर से लेकर विलेन तक की निभाई भूमिका, अभिनय पर देव आनंद के भाई दिल हारे; पढ़ें भरत कपूर के",
+          "summary": "बॉलीवुड अभिनेता भरत कपूर का निधन हो गया है, जिन्होंने 1970, 80 और 90 के दशक की कई फिल्मों में बेहतरीन अदाकारी की थी। उन्होंने इंस्पेक्टर से लेकर विलेन तक की भूमिका निभाई थी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'राष्ट्रपति पर तीसरी बार जानलेवा हमला', व्हाइट हाउस ने क्यों किया हिटलर का जिक्र?",
+      "url": "https://www.amarujala.com/world/trump-security-breach-third-attempt-on-the-president-life-why-did-the-white-house-invoke-hitler-2026-04-27",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-27T05:59:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/10/karalna-lvata_caf4ab5ca0d8eb043ace0692c2eaeb59.jpeg?w=750&dpr=1.0",
+      "summary": "व्हाइट हाउस ने कहा कि राष्ट्रपति ट्रम्प पर तीसरी बार जानलेवा हमला हुआ है। व्हाइट हाउस ने इस घटना की तुलना हिटलर के समय की सुरक्षा चूक से की। 'राष्ट्रपति पर तीसरी बार जानलेवा हमला', व्हाइट हाउस ने क्यों किया हिटलर का जिक्र?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'राष्ट्रपति पर तीसरी बार जानलेवा हमला', व्हाइट हाउस ने क्यों किया हिटलर का जिक्र?",
+          "summary": "व्हाइट हाउस ने कहा कि राष्ट्रपति ट्रम्प पर तीसरी बार जानलेवा हमला हुआ है। व्हाइट हाउस ने इस घटना की तुलना हिटलर के समय की सुरक्षा चूक से की। 'राष्ट्रपति पर तीसरी बार जानलेवा हमला', व्हाइट हाउस ने क्यों किया हिटलर का जिक्र?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "चुन-चुनकर मारे जा रहे आतंकवादी? हाफिज सईद के करीबी लश्कर कमांडर की हत्या, हफ्ते में दूसरे बड़े",
+      "url": "https://www.amarujala.com/world/hafiz-saeed-aide-killed-sheikh-yousaf-afridi-death-lashkar-e-taiba-commander-shot-pakistan-unknown-gunmen-2026-04-27",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-27T05:13:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/27/hafaja-saiitha-ka-eka-oura-karab-dhara_759462633b149681cefc0c5a7cea979a.jpeg?w=750&dpr=1.0",
+      "summary": "हाफिज सईद के करीबी लश्कर कमांडर की हत्या कर दी गई। यह घटना एक हफ्ते में आतंकवादी पर दूसरा बड़ा हमला है। चुन-चुनकर मारे जा रहे आतंकवादी? हाफिज सईद के करीबी लश्कर कमांडर की हत्या, हफ्ते में दूसरे बड़े आतंकी पर हमला।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चुन-चुनकर मारे जा रहे आतंकवादी? हाफिज सईद के करीबी लश्कर कमांडर की हत्या, हफ्ते में दूसरे बड़े",
+          "summary": "हाफिज सईद के करीबी लश्कर कमांडर की हत्या कर दी गई। यह घटना एक हफ्ते में आतंकवादी पर दूसरा बड़ा हमला है। चुन-चुनकर मारे जा रहे आतंकवादी? हाफिज सईद के करीबी लश्कर कमांडर की हत्या, हफ्ते में दूसरे बड़े आतंकी पर हमला।",
+          "region": "दुनिया"
         }
       }
     },
@@ -472,168 +634,6 @@
           "title": "ईरान ने अमेरिका को दिया नया प्रस्ताव: ट्रंप के सामने रखीं ये दो अहम शर्तें, परमाणु कार्यक्रम को",
           "summary": "ईरान ने अमेरिका को एक नया प्रस्ताव दिया है जिसमें दो अहम शर्तें रखी गई हैं। यह प्रस्ताव ईरान के परमाणु कार्यक्रम को लेकर है। ईरान ने यह प्रस्ताव ट्रंप के सामने रखा है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "वार्ता विफल होने पर हताश मुनीर लगा रहे दौड़, ईरान ने PAK से बनाई दूरी; भूमिका पर उठ रहे सवाल",
-      "url": "https://www.amarujala.com/world/munir-gets-desperate-as-pakistan-s-relevance-fades-after-failed-us-iran-talks-report-2026-04-27",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-27T03:18:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/27/munir-gets-desperate-as-pakistans-relevance-fades-after-failed-us-iran-talks-report_9733ff078c46059e7753b9e5415fe23a.jpeg?w=750&dpr=1.0",
-      "summary": "पाकिस्तान के राष्ट्रीय सुरक्षा सलाहकार मुनीर ने अमेरिका-ईरान वार्ता विफल होने पर दौड़ लगानी शुरू कर दी है. ईरान ने पाकिस्तान से दूरी बना ली है, जिससे पाकिस्तान की भूमिका पर सवाल उठ रहे हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वार्ता विफल होने पर हताश मुनीर लगा रहे दौड़, ईरान ने PAK से बनाई दूरी; भूमिका पर उठ रहे सवाल",
-          "summary": "पाकिस्तान के राष्ट्रीय सुरक्षा सलाहकार मुनीर ने अमेरिका-ईरान वार्ता विफल होने पर दौड़ लगानी शुरू कर दी है. ईरान ने पाकिस्तान से दूरी बना ली है, जिससे पाकिस्तान की भूमिका पर सवाल उठ रहे हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान को मिला रूस का साथ, व्लादिमीर पुतिन बोले- पश्चिम एशिया में शांति के लिए सब कुछ करेंगे",
-      "url": "https://www.amarujala.com/world/west-asia-tension-putin-meets-iranian-foreign-minister-araghchi-strait-of-hormuz-2026-04-27",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-27T02:29:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/27/nprsa-rashhatarapata-valthamara-patana-ka-iirana-vathasha-matara-abbsa-araghaca-ka-satha-bthaka_909e2ef7207b7b1d11b57a16b8bd42a6.gif?w=750&dpr=1.0",
-      "summary": "रूस के राष्ट्रपति व्लादिमीर पुतिन ने ईरान को समर्थन दिया है. उन्होंने कहा कि पश्चिम एशिया में शांति के लिए सब कुछ करेंगे. Russia: ईरान को मिला रूस का साथ, व्लादिमीर पुतिन बोले- पश्चिम एशिया में शांति के लिए सब कुछ करेंगे।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान को मिला रूस का साथ, व्लादिमीर पुतिन बोले- पश्चिम एशिया में शांति के लिए सब कुछ करेंगे",
-          "summary": "रूस के राष्ट्रपति व्लादिमीर पुतिन ने ईरान को समर्थन दिया है. उन्होंने कहा कि पश्चिम एशिया में शांति के लिए सब कुछ करेंगे. Russia: ईरान को मिला रूस का साथ, व्लादिमीर पुतिन बोले- पश्चिम एशिया में शांति के लिए सब कुछ करेंगे।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हिजबुल्ला का इस्राइल से सीधी बातचीत से इनकार; दक्षिणी लेबनान में IDF के हमले; नेतन्याहू ने क्या कहा?",
-      "url": "https://www.amarujala.com/world/hezbollah-chief-naim-qassem-rejects-direct-talks-with-israel-idf-claims-strikes-in-southern-lebanon-2026-04-27",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-27T00:13:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/27/nai-qassem_98ff3bc80079b024fb3a6b50684c53d0.jpeg?w=750&dpr=1.0",
-      "summary": "हिजबुल्ला ने इस्राइल से सीधी बातचीत से इनकार कर दिया है. इस बीच, दक्षिणी लेबनान में IDF ने हमला किया, जिस पर नेतन्याहू ने टिप्पणी की. प. एशिया: हिजबुल्ला का इस्राइल से सीधी बातचीत से इनकार; दक्षिणी लेबनान में IDF के हमले; नेतन्याहू ने क्या कहा?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिजबुल्ला का इस्राइल से सीधी बातचीत से इनकार; दक्षिणी लेबनान में IDF के हमले; नेतन्याहू ने क्या कहा?",
-          "summary": "हिजबुल्ला ने इस्राइल से सीधी बातचीत से इनकार कर दिया है. इस बीच, दक्षिणी लेबनान में IDF ने हमला किया, जिस पर नेतन्याहू ने टिप्पणी की. प. एशिया: हिजबुल्ला का इस्राइल से सीधी बातचीत से इनकार; दक्षिणी लेबनान में IDF के हमले; नेतन्याहू ने क्या कहा?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका-ईरान में शांति वार्ता क्यों नहीं: कहां अटकी है बात, क्या है नया प्रस्ताव; क्या चाहते हैं",
-      "url": "https://www.amarujala.com/world/us-iran-peace-talks-stale-mate-after-ceasefire-war-donald-trump-mojtaba-khamenei-hormuz-strait-blockade-nuclea-2026-04-27",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-26T22:41:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/27/us-iran-war-us-iran-peace-talks_638151166089c46326416ceca19568f8.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिका और ईरान के बीच शांति वार्ता में अनिश्चितता बनी हुई है। बातचीत को लेकर स्थिति गंभीर होती जा रही है और टकराव की संभावना बढ़ रही है। अमेरिका और ईरान के बीच तनाव कम करने के लिए नए प्रस्तावों पर विचार किया जा रहा है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका-ईरान में शांति वार्ता क्यों नहीं: कहां अटकी है बात, क्या है नया प्रस्ताव; क्या चाहते हैं",
-          "summary": "अमेरिका और ईरान के बीच शांति वार्ता में अनिश्चितता बनी हुई है। बातचीत को लेकर स्थिति गंभीर होती जा रही है और टकराव की संभावना बढ़ रही है। अमेरिका और ईरान के बीच तनाव कम करने के लिए नए प्रस्तावों पर विचार किया जा रहा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज बना आर्थिक युद्ध का अखाड़ा",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3hVSXlyZWpMOFVmemhoOHpKTzVyS2lGNjRlMlpodm04LU8wNmJDMGpxZi04c0dVYmk2ZVR4T2kxa1AzWFp1MU5CNjlBSUprTVhOZFV1bGJLZ2w0NG9wZXRsSEZueXJCNXpDZFBETzZTR1prRHZUOEdXQnU2LVJVTGgtdkU1cUs3VmJmQUw2WXhiRTNKRnROeWNUTWFOckt0NnNjUWVLOGk3UQ?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-26T18:01:00+00:00",
-      "image_url": "https://images.pexels.com/photos/11572425/pexels-photo-11572425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "होर्मुज जलडमरू बन गया है आर्थिक युद्ध का अखाड़ा। इस क्षेत्र में तनाव बढ़ने से वैश्विक अर्थव्यवस्था पर असर पड़ रहा है। विचार: होर्मुज बना आर्थिक युद्ध का अखाड़ा Jagran।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज बना आर्थिक युद्ध का अखाड़ा",
-          "summary": "होर्मुज जलडमरू बन गया है आर्थिक युद्ध का अखाड़ा। इस क्षेत्र में तनाव बढ़ने से वैश्विक अर्थव्यवस्था पर असर पड़ रहा है। विचार: होर्मुज बना आर्थिक युद्ध का अखाड़ा Jagran।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'यह हमारी कूटनीति...', डोनाल्ड ट्रंप के भारत को नर्क कहने वाले पोस्ट पर कांग्रेस",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeHpqUi1PT3d3QWNBZzU2c3VGMFg1SmpRRkRuMlQ2SnRaQmRENjlKQWFFcXZjcTgya2xYM3dwRnpBWWVmV0E2eWozWXlOUFFnYnpYM0hTdmpZLXdwSVVCUVNSTkJDdXpDZnc3dTNCN2szeUxLSHNUZnREblRxdE5JcXNRM0hLWWxwY0tXTkdnQjF3VU5pUHVSV29sWWpfQi1JTEh1VXhCRXJENkY0T2NaMkJOMHBjTy1Hd1dZS3ZjQlFnTGx3dVNIOE9Fek5qRXJkb19Z0gHYAUFVX3lxTE9SMEVDQVpMWXVTb25aVzZXTlZYR2hmT0ZIazlKUTZfR2ZHNkl1d3lVd3BOdkVTNkJ6Nk1HdjdsMVBGNjBqUkRHa29YcDhSV3plQ0NCV2Q0Mmo5enF1X3J4MXNMMGk5TG9WZ1RhRkJHYnRIMG5yTHNUa0JVVlNWdEtob1NfS3VVZ19MUF91SUdkenlaT1Q1U2lvYzJCMTk0dVFqNmJmbU5kbTFQVzNpSVkwSzF5UV9FSHJwTGx4MnpHN1JBR3RYaXljd1QxTHJPOXpsU2hxcUdmdg?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-26T17:46:27+00:00",
-      "image_url": "https://images.pexels.com/photos/18359749/pexels-photo-18359749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "कांग्रेस ने डोनाल्ड ट्रंप के भारत को नर्क कहने वाले पोस्ट पर प्रतिक्रिया दी है। कांग्रेस ने कहा कि यह पोस्ट भारत की कूटनीति और गरिमा के लिए अपमानजनक है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'यह हमारी कूटनीति...', डोनाल्ड ट्रंप के भारत को नर्क कहने वाले पोस्ट पर कांग्रेस",
-          "summary": "कांग्रेस ने डोनाल्ड ट्रंप के भारत को नर्क कहने वाले पोस्ट पर प्रतिक्रिया दी है। कांग्रेस ने कहा कि यह पोस्ट भारत की कूटनीति और गरिमा के लिए अपमानजनक है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान में इंटरनेट पाबंदी की वजह से लाखों नौकरियां ख़त्म, इस हालात के लिए ज़िम्मेदार कौन?",
-      "url": "https://www.bbc.com/hindi/articles/cx2rqdw7g0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-26T03:56:25+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f8c/live/90e8b7a0-4122-11f1-8a62-3de979e1294c.jpg",
-      "summary": "ईरान में इंटरनेट पाबंदी के कारण लगभग 10 लाख नौकरियां समाप्त हो गई हैं। करीब एक करोड़ लोग अपने काम के लिए स्थिर इंटरनेट कनेक्टिविटी पर निर्भर हैं। शुरुआती आकलनों के अनुसार इंटरनेट पर जारी पाबंदियों की वजह से 10 लाख से ज़्यादा नौकरियां जा चुकी हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान में इंटरनेट पाबंदी की वजह से लाखों नौकरियां ख़त्म, इस हालात के लिए ज़िम्मेदार कौन?",
-          "summary": "ईरान में इंटरनेट पाबंदी के कारण लगभग 10 लाख नौकरियां समाप्त हो गई हैं। करीब एक करोड़ लोग अपने काम के लिए स्थिर इंटरनेट कनेक्टिविटी पर निर्भर हैं। शुरुआती आकलनों के अनुसार इंटरनेट पर जारी पाबंदियों की वजह से 10 लाख से ज़्यादा नौकरियां जा चुकी हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इस्लामाबाद में वार्ता को लेकर थरूर का बयान, पाकिस्तान की कूटनीति पर टिप्पणी",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNaFhNVXF3TXJiYkRzeXY5S1ZPTjdUb1p6RzJUUl9KdzREa0V3MlNKLURxVGdZcEl0Z3dHYmVTRlBOVmxzY1ZyY2p1OFhjNnVHZ1pSSEpVQ29Dd2VUNDhUNk1BOXhkLWQzZkhRYndocEttMk5Ocm1waHpXUWl0ZXN2SlF5aGdSb3A5UGNreDBZakFyaUNFMEFXY2R0UXRmWldYWnhEWE45dHdKQUtGbkl0V2FOMmo2NGZrcU9IQjVJelFsUXo3TEU3TjNBV0pIc1dpMGxFQ3QtaDlGSmV3NmNhazNnNXpaWjBqT09BQ1dIRzFfNWIyTTRVaklGaHU1azlmdFk4bHRWbHZteWxHbmc?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-25T16:47:15+00:00",
-      "image_url": "https://images.pexels.com/photos/11876444/pexels-photo-11876444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "शशि थरूर ने इस्लामाबाद में वार्ता पर बयान दिया, जिसमें उन्होंने पाकिस्तान की कूटनीति पर टिप्पणी की। इस्लामाबाद में वार्ता को लेकर थरूर का बयान, पाकिस्तान की कूटनीति पर टिप्पणी - Sanjeevni Today Dailyhunt।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस्लामाबाद में वार्ता को लेकर थरूर का बयान, पाकिस्तान की कूटनीति पर टिप्पणी",
-          "summary": "शशि थरूर ने इस्लामाबाद में वार्ता पर बयान दिया, जिसमें उन्होंने पाकिस्तान की कूटनीति पर टिप्पणी की। इस्लामाबाद में वार्ता को लेकर थरूर का बयान, पाकिस्तान की कूटनीति पर टिप्पणी - Sanjeevni Today Dailyhunt।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत के वरिष्ठ राजनयिक ने यूएनजीए की अध्यक्ष से मुलाकात की",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbk96SzRCRGhoSHhwNF9IbVVHNE04ZUFPZGhtSXZLdXh5VmJyVy1JN0Zyam5yVnJfd1lmLUpHMk91N3gzVGE0Q1hQQ0l1UDNJemt0UTIxeUJhSW5sM0tSU0lHVjhjZVlJdW9MNVdWcWMtUTdra19DZy05bHRmYkswLTNQbmV6ZTN0WFNOSG5vQdIBlAFBVV95cUxPX1VkWnhfNkI3M3JfanprVkJEeGxVekhqZmozQ0loclpGNU1CeHB0M1Y2czlCTWJVSEpDbnlycFZUNVlDS0RHN0YyXzZucEktMEVqc05SMWplb2lGcGREb1lkenRxakctNjNsV0lmaDU5MEtiQllwTkNQTVhDU2NNZUlCOE5DeUxIRkxSb2UzRlE1ZFhC?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-25T15:19:45+00:00",
-      "image_url": "https://images.pexels.com/photos/19447589/pexels-photo-19447589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत के वरिष्ठ राजनयिक ने संयुक्त राष्ट्र महासभा के अध्यक्ष से मुलाकात की। भारत के वरिष्ठ राजनयिक ने यूएनजीए की अध्यक्ष से मुलाकात की ThePrint Hindi।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत के वरिष्ठ राजनयिक ने यूएनजीए की अध्यक्ष से मुलाकात की",
-          "summary": "भारत के वरिष्ठ राजनयिक ने संयुक्त राष्ट्र महासभा के अध्यक्ष से मुलाकात की। भारत के वरिष्ठ राजनयिक ने यूएनजीए की अध्यक्ष से मुलाकात की ThePrint Hindi।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
