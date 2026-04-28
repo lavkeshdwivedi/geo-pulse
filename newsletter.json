@@ -1,279 +1,418 @@
 {
-  "generated_at": "2026-04-28T18:20:46.306165+00:00",
+  "generated_at": "2026-04-28T20:20:38.986826+00:00",
   "article_count": 42,
-  "total_unique_count": 251,
+  "total_unique_count": 243,
   "digest": {
-    "en": "Fighting persists in Ukraine with explosions reported in Kyiv and six killed in Russia. A fragile ceasefire holds in Gaza where young Palestinian artists are exhibiting their impressions of war. Israel's use of water access as a 'weapon' in Gaza is drawing criticism from MSF.",
-    "hi": "संयुक्त राष्ट्र की जर्मन मंत्री ऐनालेना बेयरबॉक ने कहा कि यूएन चार्टर की हिमायत व रक्षा आज सबसे बड़ी प्राथमिकता है। ईरान-अमेरिका संघर्ष अभी सुलझा भी नहीं कि चीन ने दो युद्धपोत भेज दिए। यूएई ने ओपेक और ओपेक प्लस का साथ छोड़ दिया है।"
+    "en": "The US Congress is considering a say in the 60-day war in Iran. The US Fed is expected to keep interest rates steady as the Iran war's effects ripple through the economy. The Nuclear Non-Proliferation Treaty is being tested for its ability to prevent a disaster.",
+    "hi": "अमेरिका ने ईरान की मदद करने वाले 35 संस्थानों और व्यक्तियों पर प्रतिबंध लगा दिए। यह कार्रवाई ईरान-अमेरिका संघर्ष के बीच हुई है। चीन ने दो युद्धपोत भेजे हैं।"
   },
   "articles": [
     {
-      "title": "Young Palestinian Artists in Gaza Exhibit Their Impressions of War as a Fragile Ceasefire Holds",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc2dzQWNBQy1MaXBUWm5UM0JCd0FDd3pDWWtqa21UYXhoWGxXUXRjVmR1cW9HTS1ELVFvWEcwRHZmTE5XOVRkckpOYnd3bUVEN010eWh6MXQ0aVM4WGVoc3k5YkhZQUtPbEktQWlJSVgzd3pFTnM1QTJaRGJINjMzNEF3MW9Ja2lZVlFGUER4a2dSaEJKMU01X1VMUzRlX3FJbjNuVWZTaEVWdzQ0bXI5MVdJbGNiSERINk1rR2hnZEJsVjB1RWhjRDM4QXhoNTJaZlNnZmtR?oc=5",
+      "title": "After 60 days of war in Iran, does US Congress want a say?",
+      "url": "https://www.aljazeera.com/news/2026/4/28/after-60-days-of-war-in-iran-does-us-congress-want-a-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-28T19:40:52+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69f0e37e8ae4-1777394558.jpg?resize=1920%2C1440",
+      "summary": "US lawmakers may be reluctant to intervene in the Iran conflict, citing a 60-day window for Congressional approval to continue the war. Under the War Powers Resolution, President Trump must seek approval, but Congress may sidestep the issue.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US Fed expected to keep rates steady as Iran war effects ripple",
+      "url": "https://www.channelnewsasia.com/world/us-fed-expected-keep-rates-steady-iran-war-effects-ripple-6087341",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-28T19:40:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--MTc60R2k--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Jerome_Powell_Harvard_75442.jpg?itok=8FGzpPNT",
+      "summary": "The US Federal Reserve is expected to maintain interest rates, despite the economic impact of the Iran war. The Fed's decision will be closely watched as the conflict's effects ripple through the global economy.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Can the Nuclear Non-Proliferation Treaty prevent a disaster?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/28/can-the-nuclear-non-proliferation-treaty-prevent-a-disaster?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-28T19:32:41+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777400964.jpg?resize=1920%2C1080&quality=80",
+      "summary": "The United Nations chief warns that the Nuclear Non-Proliferation Treaty is losing influence. The global agreement aims to prevent nuclear disasters, but its effectiveness is waning. The United Nations chief warns of the waning influence of the global agreement.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump claims Tehran admitted it's in 'State of Collapse' - as UAE quits OPEC",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWHRIYzlOVTFXNjhXa1BEY092anhNZ1RPUGtUd1NZT0d6OW91d0pCVkpDTUUyNWstdmxlT2ZRMXZ2Q2FIQnhhM0tmWFlRZGZqUGFJcWRGMkNFZ3pMd3N2SFQzNmE3YUE5RXJEQVZzZW5JVy1WSVdOTFJKdzJ2X3RTQWxzdkJSbkkzZjJ1ZnZOQ0ZKT0NnUXZmLXNaSHMxbjRJendVcld5UGZZblhtNm9kakhXOWprTmtTaUxEajZ5M0pmNm5PTWcw?oc=5",
       "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-04-28T17:58:11+00:00",
-      "image_url": "https://images.pexels.com/photos/36038717/pexels-photo-36038717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Young Palestinian artists in Gaza exhibited their war impressions as a ceasefire held. Young Palestinian Artists in Gaza Exhibit Their Impressions of War as a Fragile Ceasefire Holds Military. com.",
+      "published_at": "2026-04-28T19:30:37+00:00",
+      "image_url": "https://images.pexels.com/photos/5854416/pexels-photo-5854416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The United Arab Emirates has quit the Organization of the Petroleum Exporting Countries, citing a desire to diversify its economy. The move comes as US President Trump claims Iran has admitted to being in a state of collapse.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Explosions rock Kyiv, six killed in Russia, Ukraine",
-      "url": "https://www.thehindu.com/news/international/explosions-rock-kyiv-six-killed-in-russia-ukraine/article70917935.ece",
-      "source": "The Hindu (International)",
+      "title": "How a controversial gas pipeline deal could further stall Bosnia's EU accession",
+      "url": "https://www.dw.com/en/how-a-controversial-gas-pipeline-deal-could-further-stall-bosnia-s-eu-accession/a-76965210?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
       "sources": [],
-      "published_at": "2026-04-28T17:33:40+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/2ngahc/article70917941.ece/alternates/LANDSCAPE_1200/2026-04-28T142706Z_474971910_RC2DYKA6E13V_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG",
-      "summary": "Six people were killed in Kyiv and Moscow amid increased aerial attacks on energy infrastructure. Kyiv and Moscow have stepped up their aerial attacks over recent months, with both sides mainly targeting energy infrastructure.",
+      "published_at": "2026-04-28T19:26:00+00:00",
+      "image_url": "https://static.dw.com/image/68639295_6.jpg",
+      "summary": "A US-backed gas pipeline deal could hinder Bosnia's bid to join the European Union. Brussels warns that a deal with a company linked to Trump allies could jeopardize the country's EU aspirations.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Israel using water access as 'weapon' in Gaza: MSF",
-      "url": "https://www.thehindu.com/news/international/israel-using-water-access-as-weapon-in-gaza-msf/article70917873.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-28T17:22:26+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/g5gsnu/article70917885.ece/alternates/LANDSCAPE_1200/2026-04-05T162022Z_2129171100_RC2WIKAZJBGX_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG",
-      "summary": "Israel used water access as a weapon in Gaza, with MSF documenting destroyed water trucks. The charity documented several incidents where its clearly identified water trucks and boreholes had been shot at or destroyed.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Bosnia signs up to Trump-linked pipeline to reduce Russian gas dependence",
-      "url": "https://www.aljazeera.com/news/2026/4/28/bosnia-signs-up-to-trump-linked-pipeline-to-reduce-russian-gas-dependence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-28T17:17:43+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2022/07/2021-01-12T000000Z_1804586947_RC2E6L977C64_RTRMADP_3_ASIA-LNG-PRICES.jpg?resize=1920%2C1440",
-      "summary": "Bosnia signed a pipeline deal to reduce Russian gas dependence, potentially jeopardizing EU membership. The European Union warns that the deal on the link to Croatia could jeopardise Bosnia’s bid to join the bloc.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Over 46°C heatwave grips northwestern, central India",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/over-46c-heatwave-grips-northwestern-central-india?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-28T17:16:31+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/13927628_cropped_for_vertical_thumb-1777396403.jpg?resize=1920%2C1440",
-      "summary": "India experienced a heatwave with temperatures over 46°C in some areas, affecting northwestern and central regions. An unusual April heatwave is scorching large parts of India, with temperatures exceeding 46°C in some areas.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
-      "url": "https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-04-28T17:07:27+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/d03fb17b17e0182f8c3e339197c958523a160ce2/1311_544_2889_2312/master/2889.jpg?width=140&quality=85&auto=format&fit=max&s=0f5bd0b0f5085e882b9df6f5ce66a0ed",
-      "summary": "Russia's Africa Corps, successor to the Wagner mercenary group, claimed it prevented a coup in Mali, inflicting \"irreplaceable losses\" on rebels who seized towns, while avoiding civilian casualties. The group made the claim in a statement from Russia's defence ministry.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump hails British as ‘friends’ as King Charles III visits amid Iran tensions",
-      "url": "https://www.thehindu.com/news/international/king-charles-iii-queen-camilla-us-visit-to-meet-donald-trump-and-mend-us-uk-ties/article70913779.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-28T17:04:49+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/5p48my/article70913802.ece/alternates/LANDSCAPE_1200/APTOPIX_US_Britain_Royal_Visit_619_2.jpg",
-      "summary": "US President Trump referred to King Charles III as his \"friend\" and a \"great guy\" during the monarch's visit, amid rising tensions with Iran. Trump spoke in glowing terms about the British king.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Alleged drug trafficking kingpin deported from Türkiye to India",
-      "url": "https://www.thehindu.com/news/national/key-dawood-associate-and-drug-kingpin-salim-dola-deported-to-india-after-arrest-in-istanbul/article70915182.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-28T16:56:41+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/national/opf7q9/article70916119.ece/alternates/LANDSCAPE_1200/Salim%20Dola.jpg",
-      "summary": "Salim Dola, a 59-year-old alleged drug trafficking kingpin, was deported from Türkiye to India and handed over to the Narcotics Control Bureau. He was taken to the bureau's headquarters in Delhi.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UAE Says It Will Leave OPEC as Iran War Strains Oil Markets",
-      "url": "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-28T16:51:50+00:00",
-      "image_url": "https://images.pexels.com/photos/31262146/pexels-photo-31262146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The UAE announced it will leave OPEC, citing long-standing complaints about the group's quotas limiting its exports. Its departure is expected to weaken OPEC's influence. The Gulf government has long complained about the group’s quotas, which officials believe unfairly limited its exports.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Bangladesh starts fuelling its first nuclear power station",
-      "url": "https://www.thehindu.com/news/international/bangladesh-starts-fuelling-its-first-nuclear-power-station/article70917827.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-28T16:49:09+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/6kuhtg/article70917838.ece/alternates/LANDSCAPE_1200/2026-04-28T124525Z_1788416270_RC2WAZ95LKTV_RTRMADP_3_RUSSIA-BANGLADESH-NUCLEAR.JPG",
-      "summary": "Bangladesh began fuelling its first nuclear power station as the country's grid faces strain during summer heat. The power station is expected to help meet electricity demand. The grid in Bangladesh is stretched every year during the summer heat, when people crank up power-hungry air conditioners.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ukrainian drones strike Russia’s Tuapse refinery for third time",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/ukrainian-drones-strike-russias-tuapse-refinery-for-third-time?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-28T16:48:19+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-28T142835Z_828395486_RC2EYKAMGJXA_RTRMADP_3_UKRAINE-CRISIS-REFINERY-FIRE-1777394671.jpg?resize=1920%2C1440",
-      "summary": "Ukrainian drones struck Russia's Tuapse refinery in the Black Sea port city for the third time in two weeks. The refinery was targeted in a series of drone attacks. Ukraine targeted a major Russian oil refinery in the Black Sea port city of Tuapse for the third time within two weeks.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "In Iran, Cheetah Sightings Offer Rare Spots of Hope Amid War",
-      "url": "https://www.nytimes.com/2026/04/28/world/middleeast/iran-cheetah-sightings-war.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-28T16:46:45+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/27/world/00int-iran-cheetahs-aufba/00int-iran-cheetahs-aufba-mediumSquareAt3X.jpg",
-      "summary": "Iranian conservationists have recorded several new Asiatic cheetahs, a critically endangered subspecies, in the country. The sightings offer a rare glimmer of hope for the species, which is found only in Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.N. court orders medical evaluation for Bosnian Serb commander Ratko Mladic",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRm9Pa0gzR3pVMVBGMXpXTFdScG9HZFVJWjU4ZFNQaEtNMDN5Qk9DNU03aFZjYzlhWW82OWZIaUJ6eVgwM1EwSG5WQ2pVQmdIOGExd182V1dSU0tsblEzUWhqbFBuSF9yLTd1RjBtOHlUcXZHdTg4bFFfNEtSVXBRWkYtWnM4VmIteHJoQzIydHVOWTlQaWgyMVZCWVhZZ1NnM190NUZDak5CLThPUkFpVk91WE1fOTRqT1NsMU9IODFKSFF5d1l5eA?oc=5",
+      "title": "US Conditions for Paying U.N. Dues Include China Curbs -Report",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWt0U1ZHa0xBQTBjWERSdEFGbzQwMHZfUEktcl95MUlyTDEtQ09NVnVQeUNoZnF4UUVxZE1oOXh2SHE5dUZ5U0xSdzlkV3JBMjNMQmo3RWlmQlJXcWY4My1KSXh4ZGh4SXdxRndHYXg2RXFNM05BakEzQVlaVm5nTTVsNE04amRXeTJOUW5TVXdpbGl4T0kyUEdkYVZaZFNkSHp3VkFXakRjNzFTelVFUFRKc2I?oc=5",
       "source": "Google News (United Nations)",
       "sources": [],
-      "published_at": "2026-04-28T16:41:07+00:00",
-      "image_url": "https://images.pexels.com/photos/6077325/pexels-photo-6077325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The U. N. court has ordered a medical evaluation for Bosnian Serb commander Ratko Mladic. The evaluation is part of Mladic's ongoing trial for war crimes during the Bosnian conflict. U. N.",
+      "published_at": "2026-04-28T19:18:21+00:00",
+      "image_url": "https://images.pexels.com/photos/4968393/pexels-photo-4968393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US has conditioned its payment of UN dues on curbs being placed on China's influence. This demand is part of a report on US contributions to the UN. US Conditions for Paying U. N.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.K. PM Keir Starmer wins crunch Parliament vote over ethics inquiry",
+      "url": "https://www.thehindu.com/news/international/uk-pm-keir-starmer-wins-crunch-parliament-vote-over-ethics-inquiry/article70918043.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-04-28T19:10:39+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/welwjo/article70918051.ece/alternates/LANDSCAPE_1200/Britain_Europe_18_4.jpg",
+      "summary": "UK Prime Minister Keir Starmer won a parliamentary vote against an ethics inquiry into his appointment of Peter Mandelson. The vote tally was 335 to 223. Members of Parliament voted 335 to 223 against a Privileges Committee investigation into whether he had misled the House of Commons over the appointment of disgraced peer Peter Mandelson.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "France probes return of adult website linked to mass rape",
+      "url": "https://www.channelnewsasia.com/world/france-probes-return-adult-website-linked-mass-rape-6087246",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-28T19:07:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--vKz1pobI--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/29/000_36qv6q7.jpg?itok=cSqXGy_v",
+      "summary": "French authorities are investigating the return of an adult website allegedly linked to a mass rape case. The probe is ongoing. France probes return of adult website linked to mass rape.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Mexico's military captures top cartel leader in another blow to the Jalisco New Generation Cartel",
-      "url": "https://www.thehindu.com/news/international/mexicos-military-captures-top-cartel-leader-in-another-blow-to-the-jalisco-new-generation-cartel/article70917786.ece",
+      "title": "Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert",
+      "url": "https://www.aljazeera.com/news/2026/4/28/austrian-pleads-guilty-to-isil-planned-attack-on-taylor-swift-concert?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-28T19:06:55+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/getty_69f0eb54c0-1777396564.jpg?resize=1920%2C1440",
+      "summary": "Austrian man Beran A pleaded guilty to planning an ISIL-directed attack on Taylor Swift's Vienna concert. He also admitted to conspiring on other plans abroad. Beran A admits conspiring in other plans abroad as well as planning attack on Swift's Vienna concert.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump approval dips to record low amid Iran war, inflation woes: Poll",
+      "url": "https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-28T19:02:29+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26116771770466-1777399866.jpg?resize=1200%2C675",
+      "summary": "US President's approval rating hit a record low due to concerns over the Iran war and inflation. Only 22 percent of voters back his handling of the cost of living.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Elon Musk wanted 'keys to kingdom,' OpenAI lawyer says at trial",
+      "url": "https://www.channelnewsasia.com/world/elon-musk-wanted-keys-kingdom-openai-lawyer-says-trial-6087306",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-28T19:01:05+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Ud5eWErg--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Musk_OpenAI_Trial_22828.jpg?itok=I-cqEoo2",
+      "summary": "Elon Musk's lawyer testified that Musk wanted \"keys to the kingdom\" in his deal with OpenAI, implying significant control. Musk's expectations were not met, leading to a trial to resolve disputes over the agreement.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why the UAE Walked Out on OPEC. and What It Means for the Cartel",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXVNNFJUUTR1ZW51eWs3aFBMN3RmQnE0ZWQzSXNPNDRzaFNQSThUU2RBNjYyMUR5RUE2UnN3WkdLSUtfYVQtZ0tseDl3RGJ3dGVDRUxsVGoxajZEMERYWWJxVUJGZm5tZFFrRUNYVF9ZOV9DSVZwUWxqUEU2b1J6LWhfR3VLZGhhWEU3bXQtQmRHclJoX1p3?oc=5",
+      "source": "Google News (international relations)",
+      "sources": [],
+      "published_at": "2026-04-28T18:59:12+00:00",
+      "image_url": "https://images.pexels.com/photos/31413027/pexels-photo-31413027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The United Arab Emirates walked out of an OPEC meeting, citing disagreements over production quotas. The move signals growing tensions within the cartel and may impact OPEC's ability to coordinate oil production.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iraq’s Prime Minister-Designate Thrust Into U.S.-Iran Power Struggle",
+      "url": "https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-28T18:55:29+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/28/multimedia/28int-iraq-government-1-qzwk/28int-iraq-government-1-qzwk-mediumSquareAt3X.jpg",
+      "summary": "Iraq's Prime Minister-designate, Ali al-Zaidi, faces pressure from the US to curb Iranian influence. He must form a new coalition government while navigating the complex US-Iran power struggle in the region.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump claims Iran 'just' informed U.S. it's in 'state of collapse'",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-28-2026/article70914662.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-04-28T16:36:49+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/b6f2zu/article70917804.ece/alternates/LANDSCAPE_1200/2026-04-27T235033Z_1584866100_RC2ZXKACEBNB_RTRMADP_3_MEXICO-CRIME.JPG",
-      "summary": "Mexico's military has captured the top leader of the Jalisco New Generation Cartel. The cartel was designated a foreign terrorist organization by the U. S. last year. Last year, Mr. Trump designated the Jalisco New Generation Cartel and five other Mexican cartels as foreign terrorist organizations.",
+      "published_at": "2026-04-28T18:52:53+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/usalaq/article70622441.ece/alternates/LANDSCAPE_1200/2026-02-12T023130Z_1982000703_RC2F2JAUDUV2_RTRMADP_3_USA-TRUMP-HEALTH-FUNDING.JPG",
+      "summary": "Donald Trump claimed that Iran told the US it is in a \"state of collapse\". Ceasefire efforts appear stalled, with Iran resisting US attempts to dictate terms. Ceasefire efforts appears at a standstill, with Iran saying Washington could no longer dictate terms.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘Just peace’ can’t be found by joining organisations that charge fees: UNGA President defends UN",
+      "url": "https://www.thehindu.com/news/national/just-peace-cant-be-found-by-joining-organisations-that-charge-fees-unga-president-defends-un-system/article70917765.ece",
+      "source": "The Hindu (International)",
+      "sources": [
+        {
+          "url": "https://www.thehindu.com/news/national/just-peace-cant-be-found-by-joining-organisations-that-charge-fees-unga-president-defends-un-system/article70917765.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNczVNbUNBbW14QUljcmtwdGREREV0a0VlejN0a0lqZDE2eFBKaDVhczU2SGJIdGZmOHBaaEtBNm5rSXNNU0d1elhsM2N1TXQ4WW1vNFFqSC1wUFNHeWktWTBpWC1MSmxWQU0xb0c0UjIteFoxQ2JqLUtOLVdFbi1DRFE5OUZYaHhabnlhRmtsTHptME53ekd2engxUEc4clZ4WHQxX3BfWmZCR0FsbzVfZ0psR3FvSGRvY0JDdVN6QnVsTTV1dElYcS1hQ1VaVjJ0VUdBbmpYWXNwcEFrY1ktRk5FZEV2VDdyQ0R1MmtQRdIB9gFBVV95cUxQeExPWG1ySFN3YVFaNXI2czJSZGE4eXhMYjc1Unp1T2JVZzd1VVJPYWZYWlRlYnB5RE8yc3VielV0TXVOOXo1ckpzT1FMT0o4MWZic09Ta2xpZW42c3Q0SWEwRnNxNTdsTmp5ZTZsTHkxdGd0elhDdF9XS2FCanlyNGRYVTExV0ExejRLZkRWNkZXTGpueVFxa1ViM0Z6d1k1X0FDc1pCWFUxXzJNS2NpRjhPOVA1Vkx5a2FsdFZ3LVc3N3V5NmtVWHJSdjhlR2J4NEpuVVhoYjQ5V2xIMHB3XzNOTmhDUTBoanVJSHplWlMwR0c4M3c?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNczVNbUNBbW14QUljcmtwdGREREV0a0VlejN0a0lqZDE2eFBKaDVhczU2SGJIdGZmOHBaaEtBNm5rSXNNU0d1elhsM2N1TXQ4WW1vNFFqSC1wUFNHeWktWTBpWC1MSmxWQU0xb0c0UjIteFoxQ2JqLUtOLVdFbi1DRFE5OUZYaHhabnlhRmtsTHptME53ekd2engxUEc4clZ4WHQxX3BfWmZCR0FsbzVfZ0psR3FvSGRvY0JDdVN6QnVsTTV1dElYcS1hQ1VaVjJ0VUdBbmpYWXNwcEFrY1ktRk5FZEV2VDdyQ0R1MmtQRdIB9gFBVV95cUxQeExPWG1ySFN3YVFaNXI2czJSZGE4eXhMYjc1Unp1T2JVZzd1VVJPYWZYWlRlYnB5RE8yc3VielV0TXVOOXo1ckpzT1FMT0o4MWZic09Ta2xpZW42c3Q0SWEwRnNxNTdsTmp5ZTZsTHkxdGd0elhDdF9XS2FCanlyNGRYVTExV0ExejRLZkRWNkZXTGpueVFxa1ViM0Z6d1k1X0FDc1pCWFUxXzJNS2NpRjhPOVA1Vkx5a2FsdFZ3LVc3N3V5NmtVWHJSdjhlR2J4NEpuVVhoYjQ5V2xIMHB3XzNOTmhDUTBoanVJSHplWlMwR0c4M3c?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
+      "published_at": "2026-04-28T18:52:26+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/lv935k/article70918038.ece/alternates/LANDSCAPE_1200/18_Annalena_Baerbock_28_04_Delhi.jpg",
+      "summary": "UN General Assembly President defended the UN against criticism. She argued that seeking a \"just peace\" requires working within the organization, not joining fee-charging groups. Ms.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "They Lost Their Homes in Cuba to the Communist Government. Will They Ever Get Them Back?",
+      "url": "https://www.nytimes.com/2026/04/28/world/americas/cuba-communist-government-confiscated-property.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-04-28T18:52:17+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/23/multimedia/00int-cuba-property-fmbp/00int-cuba-property-fmbp-mediumSquareAt3X.jpg",
+      "summary": "Cuba's communist government faces compensation claims from people whose properties were seized decades ago. With Cuba in economic crisis, those affected say it's time to resolve the issue. With Cuba in dire economic crisis, people whose properties were seized by its government decades ago say it’s time to resolve thorny compensation claims.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "\"Was Even-Tempered, Calm\": Former Classmate To NDTV On Trump Event Shooter",
+      "url": "https://www.ndtv.com/world-news/was-even-tempered-calm-former-classmate-elizabeth-terlinden-speaks-out-on-trump-event-shooter-cole-tomas-allen-11422793#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-28T18:47:53+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/gjjhda8_trump-shooter_625x300_29_April_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "summary": "A former classmate of the Trump event shooter described him as \"very calm and quiet\" during their school days. The shooter was identified as Allen. Terlinden said that back when they shared classrooms, Allen was \"very calm and quiet\".",
       "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Is a US-Iran deal still possible?",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/28/is-a-us-iran-deal-still-possible?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "US-Israel-Iran Ceasefire Live Updates: Trump Dissatisfied With Iran Proposal To Lift Hormuz Blockade",
+      "url": "https://www.ndtv.com/world-news/us-israel-iran-ceasefire-news-live-updates-us-donald-trump-must-lift-blockade-before-fresh-talks-iran-tells-pakistan-strait-of-hormuz-blockade-11413306#publisher=newsstand",
+      "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-04-28T16:28:13+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777393669.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Washington's mixed signals have stalled US-Iran talks, which are being facilitated through Islamabad and Moscow. The Strait of Hormuz remains largely shut. As the Strait of Hormuz stays largely shut and Washington sends mixed signals, talks run through Islamabad and Moscow.",
+      "published_at": "2026-04-28T18:42:02+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/h1r8qauc_trump-hormuz_625x300_28_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "US President Trump expressed dissatisfaction with Iran's proposal to lift the Hormuz blockade. The development is part of ongoing ceasefire talks between the US, Israel, and Iran. US Israel Iran War Ceasefire News LIVE Updates:.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "United Arab Emirates to quit oil cartel Opec",
-      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "89-Year-Old Gunman Arrested After Mass Shooting In Athens, At Least 4 Wounded",
+      "url": "https://www.ndtv.com/world-news/89-year-old-gunman-on-the-run-after-mass-shooting-in-athens-greece-11420379#publisher=newsstand",
+      "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-04-28T16:24:45+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d25d/live/b07940f0-4305-11f1-bd52-e755d604ece4.jpg",
-      "summary": "The United Arab Emirates has decided to leave the oil cartel Opec after nearly 60 years of membership. The move is seen as a potential blow to the cartel's future.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-04-28T18:41:52+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/gpgspc84_athens-gunman_625x300_28_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "An 89-year-old gunman was arrested after a mass shooting in Athens, wounding at least four people. The gunman later opened fire on a court building in another part of the city.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "UAE shocks world with dramatic OPEC exit | Above the Fold | 28.04.2026",
-      "url": "https://www.thehindu.com/videos/watch-uae-shocks-world-with-dramatic-opec-exit-above-the-fold-28042026/article70917770.ece",
-      "source": "The Hindu (International)",
+      "title": "Prisoner Swap Between Belarus, Poland and Other Nations Frees 10",
+      "url": "https://www.nytimes.com/2026/04/28/world/europe/belarus-poland-prisoner-swap-trump.html",
+      "source": "NYT World",
       "sources": [],
-      "published_at": "2026-04-28T16:23:07+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/kek32v/article70917774.ece/alternates/LANDSCAPE_1200/28%20April%2020263.png",
-      "summary": "The United Arab Emirates announced its exit from OPEC, a move that has garnered significant international attention. The decision was made public on April 28, 2026, and has sparked widespread interest.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-04-28T18:33:48+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/28/multimedia/28int-belarus-prisoners-1-zkpq/28int-belarus-prisoners-1-zkpq-mediumSquareAt3X.jpg",
+      "summary": "A prisoner swap involving multiple countries, including Belarus and Poland, resulted in the release of 10 people, including a well-known journalist. The exchange was facilitated by the Trump administration's outreach to Belarus.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "UAE leaves OPEC in blow to oil cartel amid war on Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/uae-leaves-opec-in-blow-to-oil-cartel-amid-war-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "US soldier pleads not guilty to charges of betting on Nicolás Maduro’s ouster",
+      "url": "https://www.theguardian.com/us-news/2026/apr/28/us-soldier-maduro-betting-charges-plea",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-04-28T16:19:30+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777393137.jpg?resize=1920%2C1080&quality=80",
-      "summary": "The United Arab Emirates withdrew from OPEC and OPEC+, a blow to the oil cartel. The United ‌Arab Emirates has announced it’s withdrawing from OPEC and OPEC+. UAE leaves OPEC in blow to oil cartel amid war on Iran.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-04-28T18:05:06+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/1344091aefc98aefa07877abe3aebf80e23c61a5/825_196_1990_1592/master/1990.jpg?width=140&quality=85&auto=format&fit=max&s=49d815ee8e560ca0e77335a17e1845c1",
+      "summary": "US soldier Gannon Van Dyke pleaded not guilty to fraud charges. He allegedly used insider information to win $400,000 betting on Nicolás Maduro's ouster on Polymarket, a prediction platform, prosecutors said. Van Dyke is accused of making the bets with non-public information.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Worldline completes divestments, revenues beat expectations",
-      "url": "https://www.channelnewsasia.com/business/worldline-completes-divestments-revenues-beat-expectations-6087046",
-      "source": "Channel News Asia",
+      "title": "एसआईआर से पहले प्री-मैपिंग का काम 66% से ज्यादा पूरा, प्रक्रिया में शहरी इलाके छूटे पीछे",
+      "url": "https://www.amarujala.com/india-news/maharashtra-completes-over-66-percent-pre-sir-mapping-work-urban-areas-lag-2026-04-29",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-04-28T16:08:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--R03OokFx--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-28T160800Z_2_LYNXMPEM3R1CC_RTROPTP_3_FRANCE-TECH.JPG?itok=_4uYbTqF",
-      "summary": "Worldline completed its divestments and reported revenues that exceeded expectations. The company's financial performance was better than anticipated, contributing to a positive outlook. Worldline completes divestments, revenues beat expectations.",
+      "published_at": "2026-04-29T07:26:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/10/west-bengal-sir_85ad3ca69080cf1f87235627bd7802ca.jpeg?w=750&dpr=1.0",
+      "summary": "महाराष्ट्र में एसआईआर से पहले प्री-मैपिंग का काम 66% से ज्यादा पूरा हो गया है। शहरी इलाके इस प्रक्रिया में पिछड़ रहे हैं। महाराष्ट्र सरकार ने यह जानकारी सार्वजनिक की है।",
       "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Oil prices rise with eyes on UAE, AI concerns weigh on stocks",
-      "url": "https://www.channelnewsasia.com/business/oil-prices-rise-eyes-uae-ai-concerns-weigh-stocks-6085106",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-28T16:02:18+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--cOQDmQ8E--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-28T140909Z_1_LYNXMPEM3R16L_RTROPTP_3_MADISON-AIR-IPO.JPG?itok=npoGuEC5",
-      "summary": "Oil prices increased amid concerns over the United Arab Emirates' recent exit from OPEC. Meanwhile, worries about artificial intelligence impacted stock markets, adding to the complex market dynamics. Oil prices rise with eyes on UAE, AI concerns weigh on stocks.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Amazon targets mass hiring with agentic software, goal to humanize AI",
-      "url": "https://www.channelnewsasia.com/business/amazon-targets-mass-hiring-agentic-software-goal-humanize-ai-6087026",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-28T16:00:51+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--m3z5whPm--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-28T160800Z_2_LYNXMPEM3R1C8_RTROPTP_3_GLOBALSTAR-M-A-AMAZON-COM.JPG?itok=veNcOHVY",
-      "summary": "Amazon aims to undertake mass hiring with the help of agentic software. The company's goal is to make AI more human-like, indicating a significant shift in its approach to artificial intelligence development.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "यूएन चार्टर की हिमायत व रक्षा, आज सबसे बड़ी प्राथमिकता: ऐनालेना बेयरबॉक",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZSEJCbG1VS0M0a1hwUE45bFFlUG1MT2pUZkxYb3ljb181YVZKTG0wTDBBSnpPQ1NaV3BqNE5jbl9nbFR0SnFCYnNKV3BsVk92U1ZhOVVpYmJ6bTNB?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-28T17:01:54+00:00",
-      "image_url": "https://images.pexels.com/photos/12527057/pexels-photo-12527057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "जर्मन विदेश मंत्री ऐनालेना बेयरबॉक ने कहा कि यूएन चार्टर की हिमायत और रक्षा करना आज सबसे बड़ी प्राथमिकता है। उन्होंने संयुक्त राष्ट्र में इस मुद्दे पर जोर दिया। बेयरबॉक की यह टिप्पणी वैश्विक सुरक्षा और सहयोग के संदर्भ में महत्वपूर्ण मानी जा रही है।",
-      "region": "Global / Multilateral",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यूएन चार्टर की हिमायत व रक्षा, आज सबसे बड़ी प्राथमिकता: ऐनालेना बेयरबॉक",
-          "summary": "जर्मन विदेश मंत्री ऐनालेना बेयरबॉक ने कहा कि यूएन चार्टर की हिमायत और रक्षा करना आज सबसे बड़ी प्राथमिकता है। उन्होंने संयुक्त राष्ट्र में इस मुद्दे पर जोर दिया। बेयरबॉक की यह टिप्पणी वैश्विक सुरक्षा और सहयोग के संदर्भ में महत्वपूर्ण मानी जा रही है।",
-          "region": "वैश्विक / बहुपक्षीय"
+          "title": "एसआईआर से पहले प्री-मैपिंग का काम 66% से ज्यादा पूरा, प्रक्रिया में शहरी इलाके छूटे पीछे",
+          "summary": "महाराष्ट्र में एसआईआर से पहले प्री-मैपिंग का काम 66% से ज्यादा पूरा हो गया है। शहरी इलाके इस प्रक्रिया में पिछड़ रहे हैं। महाराष्ट्र सरकार ने यह जानकारी सार्वजनिक की है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "महिला से छेड़खानी के आरोप में दो लोग गिरफ्तार; महाराष्ट्र में लागू होगा अलग बीज कानून",
+      "url": "https://www.amarujala.com/india-news/maharashtra-hindi-news-updates-mumbai-bmc-nagpur-pune-education-politics-crime-cm-fadnavis-gadkari-2026-04-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-29T07:01:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=750&dpr=1.0",
+      "summary": "महाराष्ट्र में महिला से छेड़खानी के आरोप में दो लोगों को गिरफ्तार किया गया है। राज्य में एक अलग बीज कानून लागू किया जाएगा। यह जानकारी महाराष्ट्र सरकार के एक बयान में दी गई है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महिला से छेड़खानी के आरोप में दो लोग गिरफ्तार; महाराष्ट्र में लागू होगा अलग बीज कानून",
+          "summary": "महाराष्ट्र में महिला से छेड़खानी के आरोप में दो लोगों को गिरफ्तार किया गया है। राज्य में एक अलग बीज कानून लागू किया जाएगा। यह जानकारी महाराष्ट्र सरकार के एक बयान में दी गई है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सरकार ने SC वर्ग में आंतरिक आरक्षण लागू करने का आदेश दिया, 56432 पदों पर सीधी भर्ती रास्ता साफ",
+      "url": "https://www.amarujala.com/india-news/karnataka-govt-orders-implementation-of-internal-reservation-among-scheduled-caste-2026-04-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-29T06:50:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/14/siddaramaiah_e3a03d3e4bbe73a2cea2a62bed49987d.jpeg?w=750&dpr=1.0",
+      "summary": "कर्नाटक सरकार ने एससी वर्ग में आंतरिक आरक्षण लागू करने का आदेश दिया है। इससे 56432 पदों पर सीधी भर्ती का रास्ता साफ हो गया है। यह आदेश कर्नाटक सरकार द्वारा जारी किया गया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सरकार ने SC वर्ग में आंतरिक आरक्षण लागू करने का आदेश दिया, 56432 पदों पर सीधी भर्ती रास्ता साफ",
+          "summary": "कर्नाटक सरकार ने एससी वर्ग में आंतरिक आरक्षण लागू करने का आदेश दिया है। इससे 56432 पदों पर सीधी भर्ती का रास्ता साफ हो गया है। यह आदेश कर्नाटक सरकार द्वारा जारी किया गया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "गौरी स्प्रैट को लेकर आमिर खान का इमोशनल खुलासा, खुद को बताया ‘बहुत लकी’; कहा- ‘अब जाकर मुकम्मल हुआ",
+      "url": "https://www.amarujala.com/entertainment/bollywood/aamir-khans-emotional-revelation-about-gauri-spratt-calling-himself-very-lucky-said-now-i-m-complete-2026-04-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-29T06:36:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/28/aamara-khana-oura-gara-saparata_e46f2ca06a9daaf1b5f68f8d86580ec4.jpeg?w=750&dpr=1.0",
+      "summary": "आमिर खान ने अपनी गर्लफ्रेंड गौरी स्प्रैट के साथ अपने रिश्ते पर बात की। उन्होंने खुद को 'बहुत लकी' बताया और कहा कि अब उनका रिश्ता मुकम्मल हो गया है। आमिर खान ने यह बात एक इंटरव्यू में कही।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गौरी स्प्रैट को लेकर आमिर खान का इमोशनल खुलासा, खुद को बताया ‘बहुत लकी’; कहा- ‘अब जाकर मुकम्मल हुआ",
+          "summary": "आमिर खान ने अपनी गर्लफ्रेंड गौरी स्प्रैट के साथ अपने रिश्ते पर बात की। उन्होंने खुद को 'बहुत लकी' बताया और कहा कि अब उनका रिश्ता मुकम्मल हो गया है। आमिर खान ने यह बात एक इंटरव्यू में कही।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "IPS अजय पाल मामले पर हाईकोर्ट से लगा TMC को बड़ा झटका, भड़के मजूमदार!",
+      "url": "https://www.amarujala.com/video/india-news/bengal-election-2026-tmc-gets-a-big-blow-from-the-high-court-in-the-ips-ajay-pal-case-majumdar-gets-angry-2026-04-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-04-28T20:04:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/bengal-election-2026_2f1417cbcf86773a5011943093b9111a.jpeg?w=750&dpr=1.0",
+      "summary": "पश्चिम बंगाल में आईपीएस अजय पाल मामले पर हाईकोर्ट ने तृणमूल कांग्रेस को बड़ा झटका दिया है। इससे तृणमूल कांग्रेस के नेता मजूमदार भड़क उठे हैं। यह जानकारी एक 뉴스 रिपोर्ट से मिली है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "IPS अजय पाल मामले पर हाईकोर्ट से लगा TMC को बड़ा झटका, भड़के मजूमदार!",
+          "summary": "पश्चिम बंगाल में आईपीएस अजय पाल मामले पर हाईकोर्ट ने तृणमूल कांग्रेस को बड़ा झटका दिया है। इससे तृणमूल कांग्रेस के नेता मजूमदार भड़क उठे हैं। यह जानकारी एक 뉴스 रिपोर्ट से मिली है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान की मदद करने वालों पर अमेरिका की बड़ी कार्रवाई, 35 संस्थानों-व्यक्तियों पर लगाए प्रतिबंध",
+      "url": "https://www.amarujala.com/live/world/west-asia-live-updates-us-iran-ceasefire-strait-of-hormuz-islamabad-talks-trump-israel-lebanon-news-in-hindi-2026-04-29",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-28T19:32:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/20/west-asia-crisis-iran-war_67ef754ce190874b8d733e70f7ef2f39.gif?w=750&dpr=1.0",
+      "summary": "अमेरिका ने ईरान की मदद करने वाले 35 संस्थानों और व्यक्तियों पर प्रतिबंध लगाए हैं। यह कार्रवाई ईरान के साथ जुड़े हुए संगठनों और व्यक्तियों के खिलाफ की गई है। अमेरिका ने यह कदम ईरान के प्रभाव को कम करने के लिए उठाया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान की मदद करने वालों पर अमेरिका की बड़ी कार्रवाई, 35 संस्थानों-व्यक्तियों पर लगाए प्रतिबंध",
+          "summary": "अमेरिका ने ईरान की मदद करने वाले 35 संस्थानों और व्यक्तियों पर प्रतिबंध लगाए हैं। यह कार्रवाई ईरान के साथ जुड़े हुए संगठनों और व्यक्तियों के खिलाफ की गई है। अमेरिका ने यह कदम ईरान के प्रभाव को कम करने के लिए उठाया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बांग्लादेश में मानवाधिकार ढांचे और हिरासत में यातना पर संयुक्त राष्ट्र ने जताई चिंता",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkw3STNxbVRIUkg1aVJyX05obFN5TncwdzgtbE50bmwtSjI4YzJ3aHphc0lCbU4ya3h6TVctMmJvNE5WQ0VraEhfNmFDdXJDNDFldUFUaENvU1Rld1lZQU1sVVhydm0yVFgyTWhubUdSVllJd1U0S2w1VWludG4yM0dLRERDejljZnhrcllHeGp0Y19uOGtGNWVjOS1NbkczQ0ZQTE1vWlVCV2FJQ3MzQtIBxwFBVV95cUxNQ0RYU3VacGJTNW9pdjN4b1Nja3VzLU55TkJYUUMzSFBrYjhGQVgwaFp5a1lDbWx3ZDF2T0FFUUZ0VlMwcmM4ek9XVjdLc3VwejJtNUZibGN2QnpDYXFsOVpnSWtHQ1d5TkFTdEpVMkxYOVJ5X0FlaTRaMThFZ3lOTlhRZlJUd2xYbWlpRkpFb0FJRGRjaVN6VDgyNGZsRmstYTlGa1ozS2dFV1h4X1o1QUhpZlkwWVBUMDVEN21PcHdRUUZoamRz?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-28T18:29:28+00:00",
+      "image_url": "https://images.pexels.com/photos/18037410/pexels-photo-18037410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने बांग्लादेश में मानवाधिकार ढांचे और हिरासत में यातना पर चिंता जताई है। उन्होंने बांग्लादेश से मानवाधिकारों का सम्मान करने का आग्रह किया है। यह चिंता बांग्लादेश में मानवाधिकार स्थिति के बारे में उठाई गई है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश में मानवाधिकार ढांचे और हिरासत में यातना पर संयुक्त राष्ट्र ने जताई चिंता",
+          "summary": "संयुक्त राष्ट्र ने बांग्लादेश में मानवाधिकार ढांचे और हिरासत में यातना पर चिंता जताई है। उन्होंने बांग्लादेश से मानवाधिकारों का सम्मान करने का आग्रह किया है। यह चिंता बांग्लादेश में मानवाधिकार स्थिति के बारे में उठाई गई है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रंप के ‘शांति बोर्ड’ पर साधा निशाना, अंतरराष्ट्रीय कानून को",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTU8zYXpaZE5oaE9fcExjMkFTc2gxTlRsVTFvQzdQOUczMlVVYXBIczhWWEJmamhxb3hENjBIYUtMLU5EYkszbnJDUDR0OTFOU0FTM2xZdW9pSjZjckdMNEF2OElaLWFBYUFEODIxSW9Uek5DbkNJZDdtVWtIbTFHZVhDVHI0b0dCM3JSVEFLRlRZNjJtcndJZlFob2lVWEh6a1VZa21VMjM0ZkIwakc1REszNGdMOURnaWExYjNPUjRXSDN1WFREZ2ZfbFNBSFRKLThXdzAxMU9fWU1VcVUxUGNQeFBrNjhDWGp5U18tWjBYX2V4U1JHWDUyUXFvd1N6R0xQMmNTdGI3UW5P0gGSAkFVX3lxTE5tOE9rSzZOSXp6amNKNVhwLWhfRm16dHZSVTQ3MDBjMG9sMUotQ1RlN0t4QU9wZS12VnhZTW9WdllBUXVETWVLNFplYW9KNkdscjdJaGJub00zaDhIZWhlWlRUOEJDVkF2clBEbTVWajV0Ull3Z0ktX2Z2YkRxaHowZkdSQy1xZjdsbjFWQ2MyTzJ2cEp1TlpBcTJvakZMYWcwNEg4U3IyMGJyMnN0amxmaExpaV9FY0xkd1pSYXZvN1pERVRTQmR3RFgyNlhqOVJMVC1lUENZYU9OV21sVGxiZVRkaVA1dUV6T204SUxCbzR0TXh0MDlxVF9GMWRlU0pWV2RZMjBCX0d1T18zSGtaeHc?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-28T18:15:35+00:00",
+      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रंप के 'शांति बोर्ड' पर निशाना साधा है। उन्होंने अंतरराष्ट्रीय कानून का सम्मान करने का आग्रह किया है। यह टिप्पणी ट्रंप के 'शांति बोर्ड' के गठन के बाद आई है।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रंप के ‘शांति बोर्ड’ पर साधा निशाना, अंतरराष्ट्रीय कानून को",
+          "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रंप के 'शांति बोर्ड' पर निशाना साधा है। उन्होंने अंतरराष्ट्रीय कानून का सम्मान करने का आग्रह किया है। यह टिप्पणी ट्रंप के 'शांति बोर्ड' के गठन के बाद आई है।",
+          "region": "अमेरिका"
         }
       }
     },
@@ -327,6 +466,24 @@
       }
     },
     {
+      "title": "'ईरान ढहने वाला नहीं, हम एक मजबूत देश': मोजतबा के प्रतिनिधि ने UN पर उठाए सवाल, बताया अमेरिकी हमलों",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ3pHN24xTUhMZDh6VzVWQkc0aFpFSi1iVzZnb1lLQ1dYME0xUVk1RG5OYkFob2tqcWxTb0NSTXJ2NGgyM0Y3ODV4X1o4UDl4eEc1NXllYUlhd2o2cWhTcC1pSkIySTZlejM2WXBrWXQxajJUV1YyaF93WmZzTktVTlJReDlfaENtNnlYeTl0cS1xem1ubm91UGVjRGZBOWszcnhrQVVTTUpJc2E0V1VoSmtaOExmSzMyT2Z2TnVyS2dxSGMyOVl1cTNyOW1QRENMRkZMR2gtWWd6YWRjVFRGVnRmTGxTREh1eGxvQnNn0gHzAUFVX3lxTE5xTnJ4aUpJNDBEZEs5MXlWQzBoakxFXzFTVEs0Skh4OGdmWmtGWWVOMHpsQXhSS1MxbWNkdU0wREx6VHppY0V4aVRWSUt6Y1FlTTVrc2tTSjF5V1VrODU2U2N2R3U5US03cXF3aFZKTnliN2RfUVVONTdjakhDb3pNc2ZMRDZtTFZpNkZ5OGNxYU11cDRQcWI0SmxvN2tCa2k5bGV0SmhjTWJteTdDNzJJMHNOMENScC1JQnBTXzlnRkVpM0gxcmQyZFJQd2R5TzRLNDNlZXM1VnMwanBtdHo4dXJjcWZYNUZkbk5VLVNCYjNDVQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-28T15:31:33+00:00",
+      "image_url": "https://images.pexels.com/photos/14136542/pexels-photo-14136542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान के मोजतबा के प्रतिनिधि ने संयुक्त राष्ट्र पर सवाल उठाए हैं। उन्होंने कहा कि ईरान एक मजबूत देश है और ढहने वाला नहीं है। यह टिप्पणी अमेरिकी हमलों के बाद आई है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'ईरान ढहने वाला नहीं, हम एक मजबूत देश': मोजतबा के प्रतिनिधि ने UN पर उठाए सवाल, बताया अमेरिकी हमलों",
+          "summary": "ईरान के मोजतबा के प्रतिनिधि ने संयुक्त राष्ट्र पर सवाल उठाए हैं। उन्होंने कहा कि ईरान एक मजबूत देश है और ढहने वाला नहीं है। यह टिप्पणी अमेरिकी हमलों के बाद आई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "3 देश, 3 एजेंडे और बड़ी जियो पॉलिटिक्स... ईरानी विदेश मंत्री की 48 घंटे की कूटनीतिक मैराथन की",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONy14anMweTFXU2RoNVREaTMtMWVZeUJueDYwWW40cjU4WnBsODBkcTFGU1F0ZjZmQ1Q2dHQxVkhwUDFHZnZ3cWxKaVdaVkxDNWxRS2JVSXBOSkN0V2lrSkQyRjFYOXdVX0VBa1JSX003MU96bExhZVVhS2x6aGZmclZHb0s0MjVaZktVTVBnZXpPa2VzVGZnencxS1p3c3RSRy1CMVhCdl8ybThiOE9WUi1hRWc0NjI1QVNqQtIBxAFBVV95cUxOa2ZaeXVDVEFRTlhpU0l1Zms5WGZLOElXWjNMRlJiWXg2bXcxU0d0WkJJbzZyMGlkUmxXUUlNejlPZ3Jua3JrRHlPR3daajNPVEJqc0xacm1YaTNXLXNESU1TNUd3SzNOV09ESjdKdWJkQ3Bkc21zMVM5V1lXODBvdHY5MnZEbFZIVnBMNkpVYVpxWUY3NVV2eVlJT2NXUnN2c3k1a0xtQzFqeDlaZVF2dkV4RFpjZWVMU0lqYlBYaFhWQnRh?oc=5",
       "source": "Google News Hindi (कूटनीति)",
@@ -341,24 +498,6 @@
           "title": "3 देश, 3 एजेंडे और बड़ी जियो पॉलिटिक्स... ईरानी विदेश मंत्री की 48 घंटे की कूटनीतिक मैराथन की",
           "summary": "ईरानी विदेश मंत्री ने 48 घंटे में तीन देशों की कूटनीतिक यात्रा की. इस यात्रा में बड़ी जियो पॉलिटिक्स शामिल थी. तीन देशों में एजेंडे अलग-अलग थे.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रंप के ‘शांति बोर्ड’ पर निशाना साधा",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0tRVkd0amxXS2VaRWtSZVU2YzNNRktOY3pnUlppZEx0OHg1TVJVSTJUTF9oX1hqZDYyUnlXTklGTDR1d2RaY3BpcE9tdHktX29Gc3RMT0ZkbEh3enQxaE14d2R1dXZ5U1hNZ2cwMmVFS19Qcms2eHN0SlZ6NzJkdkw0aGtZclBjZjhaOC1KT2hqZHdnZ0wzMzJB0gGfAUFVX3lxTE1VY3FkQmZ6SFdMUGxtRUF6a0t0RzN3dHE5R1dJa24xV3RnSkI0R3YycGRQaWctZzhfZGtmYmxRX0F0OVhvQkpPckJHODVrVVl0Ry1kSnJkMEpiQVR5VzZmcUpqRHdYWmgxTVhsMWRWX01GODNpcE9ick93TVUtTlRQdlVHanVtRnZJNlBtMVREYWRFenNQYU1LN3g5NGNfRQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-28T15:05:19+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रंप के 'शांति बोर्ड' पर निशाना साधा. इस बयान से वैश्विक समुदाय में चर्चा शुरू हो गई है. ट्रंप के 'शांति बोर्ड' की आलोचना हुई है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रंप के ‘शांति बोर्ड’ पर निशाना साधा",
-          "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रंप के 'शांति बोर्ड' पर निशाना साधा. इस बयान से वैश्विक समुदाय में चर्चा शुरू हो गई है. ट्रंप के 'शांति बोर्ड' की आलोचना हुई है.",
-          "region": "अमेरिका"
         }
       }
     },
@@ -381,60 +520,6 @@
       }
     },
     {
-      "title": "शांति, सत्य और न्याय की सेवा में परमधर्मपीठ की कूटनीति",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0wyZjdaUTU3Q0VtcjdMQV9kNk5tT2lnRlQ2X2Zadm5iOGNxTGJYNlpvaENGeEZiOVlzUWNQOUZ0Tks1VXJ2cGZEeWtvTGlHUTZXcFRUcmFLZWFQUUFYZ0g2c1pneEZvVm41bjcxaFU4cUFhMkc1bUNBTEdUdTVmMjVNdElyYngyNTQ2eEZ3QzNlT2U1NEptUW1sU21jUm8?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-28T13:26:59+00:00",
-      "image_url": "https://images.pexels.com/photos/10033378/pexels-photo-10033378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पोप ने कहा कि परमधर्मपीठ की कूटनीति शांति, सत्य और न्याय की सेवा में है। यह बयान वैश्विक शांति और स्थिरता के प्रयासों में एक महत्वपूर्ण भूमिका निभाता है। परमधर्मपीठ की कूटनीति दुनिया भर में शांति और समझ को बढ़ावा देने का प्रयास करती है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शांति, सत्य और न्याय की सेवा में परमधर्मपीठ की कूटनीति",
-          "summary": "पोप ने कहा कि परमधर्मपीठ की कूटनीति शांति, सत्य और न्याय की सेवा में है। यह बयान वैश्विक शांति और स्थिरता के प्रयासों में एक महत्वपूर्ण भूमिका निभाता है। परमधर्मपीठ की कूटनीति दुनिया भर में शांति और समझ को बढ़ावा देने का प्रयास करती है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "दुनिया देखती रह गई और पाकिस्तान ने मार ली बाजी! कतर के एक ऐलान से कैसे पलट गया पूरा ‘गेम’?",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ2VjR3lydC15RnROb01HaVNnZk0yV2hKeHBKX3hLNWFhUG5HZElGdUduU0VMQUpMRW5DNEVDQnBETC1Cc3l6akk4WHV1OUkwN181TzdndnRKRndHcFlQX3otREF5d3BLVkxfWm11UWJHUnV5d2RManZYSGg5bVY1am9lRzhVXzRLSElqcjdOTXZxZ21QbklqS19XLUJ0aFdHeW9ZT21fMjQ4bV9abUlxSEJWbW45VTRCaVFUb3VqbWRzR0hOOS01bUJpVWszVDR3ZEYybHdvaznSAd4BQVVfeXFMTnk1NEZBQkNyM3RjZ0diVVEwejBwNlp3blQ4cmRVeVdGdmtsYk5wSXhhbWxDdmVlSEJjQUZ6S3IzN3BKcDFvbXZ4VXgyZVV0VUFyTVQyT1E3YnhtTlJaeUZNWXRsWlYxNzdtVmVOVTdPUE85dWNiSGc2VmFsOXI1eVJCbTV5UHdSaFRET2YtNk14VzRsS1JtcjdienNXVmtFbHhwRUViaGxYaW9Eb3VyVTRGVE1IaHZSMEM2SURKdDBsc25lLUtGejV6SjBkN2tLRGQ4MDFYMWtMN2kza1VR?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-28T12:32:30+00:00",
-      "image_url": "https://images.pexels.com/photos/5483517/pexels-photo-5483517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पाकिस्तान ने कतर के एक ऐलान के बाद बाजी मार ली. कतर के ऐलान ने पूरे खेल को पलट दिया. दुनिया देखती रह गई और पाकिस्तान ने मार ली बाजी!",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुनिया देखती रह गई और पाकिस्तान ने मार ली बाजी! कतर के एक ऐलान से कैसे पलट गया पूरा ‘गेम’?",
-          "summary": "पाकिस्तान ने कतर के एक ऐलान के बाद बाजी मार ली. कतर के ऐलान ने पूरे खेल को पलट दिया. दुनिया देखती रह गई और पाकिस्तान ने मार ली बाजी!",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "UN में ईरान ने US-इजरायल को खूब सुनाया, देखें वर्ल्ड न्यूज",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNXzd3emUtelNPSEFRaWsxNzcwa3BHUmZsb01ZVC1mcW4xazZScWQ4Zmp4bXNBQWJWaTNKSjVtV2l5X3pEc1l6QXNuSVpaTGU5bGg1WWt4eUxQejRrSW9tS1pSbDFPNVRkNVpONUVrTlpZYXM1dEdJS0RBYWRnS2xGNDJaSzZpa01IeEZhU0Q2ZFJDeEhzSVo2Q1lnZUNXaURvS3kzcWEwUERPdlRCZ0hHZnFwZzJkQ0JyaXFYczloanhiWkpvVUVmTUxyTmVrYV96OXcwR2xfQ0jSAd4BQVVfeXFMUExrZlFOVkRqa1NfcGtTR09rZmU3WXh2NmRhSk5fS1ZRd0JldGh5MktDTDRXUW4zVHJCamppOXNYOVl4bVdibnZiSVU3dmdHVGIydVpScDZnMzFPVkUtLVFFRHRBWkxWakNnRTRRRS1Ic09aSFUwd0Rmb1NncHp3Y01hREl0VFZWdjA2UFpsbGQ1V1ZHQ3EwNWJ4MVRqN0FUVkpLVEFPVHQtZV9aZVk0TEM0ZEhvVGZ4QUhoa3dReHVWc1pfMGZwRHJQcUtldHluNUF5TnF0MzVBTnRPZEZn?oc=5",
-      "source": "Google News Hindi (विश्व समाचार)",
-      "sources": [],
-      "published_at": "2026-04-28T11:40:59+00:00",
-      "image_url": "https://images.pexels.com/photos/15405989/pexels-photo-15405989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने संयुक्त राष्ट्र में अमेरिका और इजरायल की आलोचना की। ईरान के इस बयान ने वैश्विक समुदाय में चर्चा को जन्म दिया है। यह घटना क्षेत्र में तनाव और वैश्विक सुरक्षा के मुद्दों को उजागर करती है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UN में ईरान ने US-इजरायल को खूब सुनाया, देखें वर्ल्ड न्यूज",
-          "summary": "ईरान ने संयुक्त राष्ट्र में अमेरिका और इजरायल की आलोचना की। ईरान के इस बयान ने वैश्विक समुदाय में चर्चा को जन्म दिया है। यह घटना क्षेत्र में तनाव और वैश्विक सुरक्षा के मुद्दों को उजागर करती है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "'ईरान के पास होर्मुज स्ट्रेट के नियंत्रण का अधिकार', रूसी राजदूत ने संयुक्‍त राष्‍ट्र में किया",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQ29DZk1abkptbHZVaU5CXy1PeFhId3h1MzM3eEcxbm5OM0RpNzlyOEEyUXMtQzlzNWpiUzMyVEpNc01oR3JueFdCNFNRb2I2Tk0tQ2g2cEk1WmFaTHo5dTdvNVo2M05veWlLZW43NVN6YXZsbTVQRklyU00zT21mT01CbXI2YktrR2F4c0xENnhac05uSnVYbndOOUhLOFEtQkNkOUpXYWRxNmhyVWVScE9jZXprMnRORFBUODJDSzE4bHdVNlB3TVhEbW44TmxJU0hhQjV3Zy14SjQyekxTZVpWd2prWmM0T1VZaWFiRnRicFhSc0czbnFMSUQ4cTB3ZFVCSHN4UdIBjAJBVV95cUxNN2ZsN3NhMkkySzNOTjdXZjBfSjVZMzYyMHp5eUJZWFI3UVE4UDlFWXBwUm1BMHVBVUxFUHVaVnlIOVFiLXdJVzRTaHpLNG9XaFJWdm96MjUzTlk2YVBlYWNxMXRpZGF6MGxkaU9jbkRiTUNUUXcxSkRoQWc4bHdBcUdZeDlqdHNic2I4YXc0QkdLclg0bEJaN1Q1NWdoNnZUMjBIS0k3cktuSGdRRFRfajY4TjBfelQtX2hndjV2eXUwY1drS3JBaHp5d1BPdGdKQVNrMEdSRmVkSWo0cFdqRGVVYkllLW8zcmxQNFpaaGd4YnQ0WTVtamJrN0NaOTdtX2lDWmFZb1lIQUFm?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -453,24 +538,6 @@
       }
     },
     {
-      "title": "बांग्लादेश में दिनेश त्रिवेदी की नियुक्ति के क्या है रणनीतिक संदेश...",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaG1TOXllWVlnQkxZcXppdXRWTmRfV2RiZmpUajExOXVKa3VLRU9WbmdDSjNXeWJHbXlnZ2RKNWJwMkVTdFE5SDdFMVZ1NVdHX2RNekVkZVF2WEtHVDJhdjZ5VU4tdjkzWnF1cjhYdzVkNllEZ05kUl9BS0E4cTJ4WmF4SnU5OEU5V05mcjRCUm1ZdjBOdV9VZEVFTEZfeW9fY1IyRDZQdkZ4S1FkRHdlX3VJcFFuZnFZMHBmUmh0Q0xibnBOTlVqd2U2azVFLTZJRnZ1MHRoUHJZQzJDTkhQMEJwQmJMdE1RNzVwbGhR0gHuAUFVX3lxTFBobVM5eWVZWWdCTFlxeml1dFZOZF9XZGJmalRqMTE5dUprdUtFT1ZuZ0NKM1d5YkdteWdnZEo1YnAyRVN0UTlIN0UxVnU1V0dfZE16RWRlUXZYS0dUMmF2NnlVTi12OTNacXVyOFh3NWQ2WURnTmRSX0FLQThxMnhaYXhKdTk4RTlXTmZyNEJSbVl2ME51X1VkRUVMRl95b19jUjJENlB2RnhLUWREd2VfdUlwUW5mcVkwcGZSaHRDTGJucE5OVWp3ZTZrNUUtNklGdnUwdGhQcllDMkNOSFAwQnBCYkx0TVE3NXBsaFE?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-28T09:15:21+00:00",
-      "image_url": "https://images.pexels.com/photos/19590623/pexels-photo-19590623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "दिनेश त्रिवेदी को बांग्लादेश में नियुक्त किया गया है। इस नियुक्ति के रणनीतिक संदेश को लेकर चर्चा हो रही है। यह नियुक्ति भारत और बांग्लादेश के बीच संबंधों और क्षेत्रीय सुरक्षा के संदर्भ में महत्वपूर्ण मानी जा रही है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेश में दिनेश त्रिवेदी की नियुक्ति के क्या है रणनीतिक संदेश...",
-          "summary": "दिनेश त्रिवेदी को बांग्लादेश में नियुक्त किया गया है। इस नियुक्ति के रणनीतिक संदेश को लेकर चर्चा हो रही है। यह नियुक्ति भारत और बांग्लादेश के बीच संबंधों और क्षेत्रीय सुरक्षा के संदर्भ में महत्वपूर्ण मानी जा रही है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "चीन-रूस की मिसाइलों के सामने अमेरिकी रक्षा सिस्टम बेदम, गोल्डन डोम बनेगा गेम चेंजर!",
       "url": "https://www.amarujala.com/world/us-defense-system-powerless-against-chinese-russian-missiles-will-golden-dome-be-a-game-changer-2026-04-28",
       "source": "Amar Ujala World",
@@ -485,24 +552,6 @@
           "title": "चीन-रूस की मिसाइलों के सामने अमेरिकी रक्षा सिस्टम बेदम, गोल्डन डोम बनेगा गेम चेंजर!",
           "summary": "पेंटागन ने माना कि अमेरिकी रक्षा सिस्टम चीन और रूस की मिसाइलों के सामने बेदम है. इस चुनौती का सामना करने के लिए गोल्डन डोम परियोजना पर काम किया जा रहा है. यह परियोजना अमेरिकी रक्षा क्षमताओं को बढ़ाने में मदद कर सकती है.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "UN की होर्मुज को लेकर सख्त सलाह, कब होगी सुलाह? देखें बुलेटिन",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT21yaXROLWJEVUpiRGFkQWpFNXFhT2tkNnJ0QUtWNVVoRmppSWZEcEx2eklBb3BVeTd5Z0dMVmRiR19fOTFHZlM0UGhyVThKMkxzWEJUY3pIalAxcEhvSXhQZlRraTFrcnJGNFRWQWR3ck16NUtfVmNrR1ZLbGZITk8wSGQ3X1V1dXRZSURId2ZJSjI3dkN4eEtnV3hHa0ZNNW5oSlZCb1JIV1BvbzU0aEFzbmpPVUdmd2M3N0Z3WHTSAcYBQVVfeXFMT3BZTm0xbWxxdE5KRjZRNnMwNFZzUTJodE9GaVNyNkRsUjNlRW5wREpvdkI3WUR0TkdidUdVT1lDb3FHYkZPdWNCVFFhcWo1N0N0VUZleUxvZUZNaE9MWlRnWDRTdzltVnhzMGRrS0Q5MzZlVU5HeUhpM3FqUGN5TWt6YV9jaGxDWTBfTVVXSmk3c3ozQ0ozcmZfc0dXWlItZUhBUmQ0M2VfT2NPTHRPbTR2V2FmWk0tOUtzR0E1dzkxNVdqdFFB?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-28T03:14:14+00:00",
-      "image_url": "https://images.pexels.com/photos/30541591/pexels-photo-30541591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने होर्मुज जलडमरूमध्य को लेकर सख्त सलाह जारी की है. इस क्षेत्र में बढ़ते तनाव के बीच सुलह की संभावना पर चर्चा हो रही है. UN की होर्मुज को लेकर सख्त सलाह, कब होगी सुलाह?",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UN की होर्मुज को लेकर सख्त सलाह, कब होगी सुलाह? देखें बुलेटिन",
-          "summary": "संयुक्त राष्ट्र ने होर्मुज जलडमरूमध्य को लेकर सख्त सलाह जारी की है. इस क्षेत्र में बढ़ते तनाव के बीच सुलह की संभावना पर चर्चा हो रही है. UN की होर्मुज को लेकर सख्त सलाह, कब होगी सुलाह?",
-          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     },
@@ -543,20 +592,20 @@
       }
     },
     {
-      "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक पहुंचीं दिल्ली, बाइलेटरल मीटिंग में होंगी शामिल",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMW5XUEg4SlQtRDRhZl9JZFBQd19qeno0WmxrRTdtTUNsQm1aQnJ2d01rR3cydnlQbGpmbWlCQ2NxMnBWVFBQamVHcUlVSlY2b01nT3p3OFJ0UTNsejctRkpqcUtnS3Q4UU5zWUlYaXF1cW9qamhESWZfQkc5bnFPakZsb0t5aG90UnVyMExZNTl1bVUtdjQzbENBdEV5alJSMEpydmhEZVhXZmpzQnMtS2Y3YmY1X0RMS0pMU2xjY2JNaGhZdjI2UUtYSW9uRk3SAdQBQVVfeXFMTnVJdC1iaVlXVVBteTBkclJ1bThCdVp5cDRhb190dThZYkhDYXpxRkV6NHVVOERQMTd3U19QMnZlR1dzcTBVbEhJZlVpZVJhOGtiMDRNWkdhRkJGX0ppN0F4TE9sWGNIcmJLc3ltM0Z0cTRDcFhDbWdNZ3B2UUUwWXYwRnhkU1hmWlNwdHI1eFV6a2lsZ1ZyMkJkNWU4WkVCY2hlNFNxclg1X0NrdTBETGJMWXd0WGxZQzdleTBSMTYxNmIyWTY5RzlyaVNLM0hsQWM5UlY?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "'होर्मुज खोलने की मिन्नतें कर रहा ईरान', ट्रंप का दावा- ये देश अपने अंत की ओर आगे बढ़ रहा",
+      "url": "https://www.amarujala.com/world/hormuz-tensions-iran-is-pleading-to-open-hormuz-trump-claims-this-country-heading-toward-its-end-2026-04-28",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-28T03:01:34+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक दिल्ली पहुंचीं. वह द्विपक्षीय बैठकों में शामिल होंगी. संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक पहुंचीं दिल्ली, बाइलेटरल मीटिंग में होंगी शामिल Navbharat Times।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-04-28T02:23:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/28/amaraka-ka-rashhatarapata_ce63e47b96ad569162bb3189998cca2b.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति ट्रंप ने दावा किया है कि ईरान होर्मुज जलडमरूमध्य खोलने की मिन्नतें कर रहा है। उन्होंने कहा कि ईरान अपने अंत की ओर आगे बढ़ रहा है। यह टिप्पणी ईरान और अमेरिका के बीच तनाव के बीच आई है।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक पहुंचीं दिल्ली, बाइलेटरल मीटिंग में होंगी शामिल",
-          "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक दिल्ली पहुंचीं. वह द्विपक्षीय बैठकों में शामिल होंगी. संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक पहुंचीं दिल्ली, बाइलेटरल मीटिंग में होंगी शामिल Navbharat Times।",
-          "region": "एशिया-प्रशांत"
+          "title": "'होर्मुज खोलने की मिन्नतें कर रहा ईरान', ट्रंप का दावा- ये देश अपने अंत की ओर आगे बढ़ रहा",
+          "summary": "अमेरिकी राष्ट्रपति ट्रंप ने दावा किया है कि ईरान होर्मुज जलडमरूमध्य खोलने की मिन्नतें कर रहा है। उन्होंने कहा कि ईरान अपने अंत की ओर आगे बढ़ रहा है। यह टिप्पणी ईरान और अमेरिका के बीच तनाव के बीच आई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -611,42 +660,6 @@
           "title": "अफगानिस्तान के कुनार प्रांत में पाकिस्तान का हवाई हमला; सात की मौत, 75 लोग घायल",
           "summary": "पाकिस्तान के हवाई हमले में अफगानिस्तान के कुनार प्रांत में सात लोगों की मौत हो गई और 75 लोग घायल हो गए. यह हमला अफगानिस्तान-पाकिस्तान संघर्ष के बीच हुआ. हमले की जानकारी अफगानिस्तान-पाकिस्तान संघर्ष के स्रोतों ने दी.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सीमा पार आतंकवाद पर राजनाथ का रुख सख्त; कहा- दुनिया के लिए सबसे बड़ा खतरा, दोहरे मानदंड अस्वीकार्य",
-      "url": "https://www.amarujala.com/world/rajnath-singh-at-sco-no-double-standards-on-terrorism-says-cross-border-terror-must-not-be-ignored-2026-04-28",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-27T20:18:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/28/rajnath-at-sco-meet_77a89c72547eed448a5fc0d06ef45e93.jpeg?w=750&dpr=1.0",
-      "summary": "राजनाथ सिंह ने एससीओ शिखर सम्मेलन में सीमा पार आतंकवाद को दुनिया के लिए सबसे बड़ा खतरा बताया. उन्होंने दोहरे मानदंडों की आलोचना की और कहा कि आतंकवाद के खिलाफ एकजुट होकर लड़ना होगा.",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीमा पार आतंकवाद पर राजनाथ का रुख सख्त; कहा- दुनिया के लिए सबसे बड़ा खतरा, दोहरे मानदंड अस्वीकार्य",
-          "summary": "राजनाथ सिंह ने एससीओ शिखर सम्मेलन में सीमा पार आतंकवाद को दुनिया के लिए सबसे बड़ा खतरा बताया. उन्होंने दोहरे मानदंडों की आलोचना की और कहा कि आतंकवाद के खिलाफ एकजुट होकर लड़ना होगा.",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "युद्ध-संघर्ष... यूएन चार्टर में शांति स्थापना का जिक्र, विदेश मंत्री जयशंकर ने दुनिया के सामने रखी",
-      "url": "https://news.google.com/rss/articles/CBMi_whBVV95cUxQS3VqcWZNZEhoQm1falVhMFJzRVZRcUVnYUgzTm54Zm0tTk14NDZmX3J5ZHptYVIzMWY0d0pqY2pVNGNDYm1tc25YQ1BMOG1HQkFLcFRMZFVaU1d0eXV4U044T2plMkx3WDI2YjJlU045VXBQaloxNERNMFJ2NEd5aWc2OHQxSmRSUWJkU3pFS2FCVGR2dzdsNzV0alBVd3k2b2pGeS1yMzM0Si11NElYV3RsU1Y1aHpHcGdLc1l6cktzazB3ZzZYM24wd0NNM3gtTVBlekFQY3ZXcC1BTW94dmdGWENzUERXU3V2M1VWYWJ3Z2lvTHNTQ2F1MzY5blhYVmdjNFZ0bGlKZjE1ZnZvLUhXY3R0dVA1S192dkNwUEF6WW01QzJlUFJ2TWZmSVdYU0pJZHNIYWhjZ1RuRTgyNUlUU1lYSS0xSnRVdWtNZ2FrTkZTWGtuMzIyeVYteWg1czlOWFdWdFdHU3ZlQkhIbVRLc1V1TFYyVFdLb1Z1LUppN2VBRVpYSlB5azJwaC1CRWVaNzlaX29INWhCQU9HZlpDZ3BCeFpDTW5JbHdCSGVHZENNd1hLa3FGaWhySk0xYkljZEFDeXFnSmVfU3J5czQyYnpPQURGZ0kxaWpyYUhXQjlKTXZURmJiUmlKX3YwSmMteVZyc0VSaHhzUXdhWEpoRWllYVl2Rm9OMVBuaDdXaURKXy1mRWRmcVdnOXBka0ZfWDlLZWtZVzV0NTJBa2hKQTVLYWhOWFNRdDZyeEhnNFVmcWN6ajd1OEVwcEp4aV9RYldvUW40aTZ6ZlhVY1ppX3c2ckFlM3EyeUg0UzZoWVZxeVBtNmZQclpLbkRRMV83cXBQSGctZFZIYURiSXZLQmVnNUNaanNTQ09hRExPOHFEOTVHN3NTdzY2d3dyODROSHpUUjdjalJrWF9xMHQyRkxsYnJ5UFhWVXYtZGk4Y0Vkd29PdVpTOS1iOW9CUFAyVDZHeUVTZjFHSkZkYUthdzNabzFuTEFTTXRSNGlWNVVDNm5IYlVVeUtzNi1YTU9BcDV6b2d0US1yYlB1M3E3WFlCN3NMVVBUUGRqWFFLaWxsZF9wamtUdXNyTDBNbkFObVNkYnEtOElVN1RQN1BvR1ZvWGVhbUV1elBJWVJJeTdtU0xMYWd2VllRekg5bERZUnVGdEJ1RUVZTHY4LVg3UXlQYWZVRXdVWXoxeUJPSDVYemZlX1N0X1cyczU4OFM0MkF0eGdseDNQS3NHeXp0alFkX251MTRMLVE1Y0pXTnpDWTJ6ekIwZ185SkMtaDM2Y1l4SW1xMExEc0VWc2hQVUNKU3NtRU5kNEdWVG5KWWpOM2oyQzNIbUVJSS1WVTVQRkN2MW1EcmVUbHpLMzVyblBPN0pSb25kQ0dYbmV2Tmh4VHROamJpS0owVkFjVUNfazBjd2Z3cG9ndWpURE1PMkdBdDVwanVmRllkVnVwUEpIVzAtSWIxX01HN25GY2NlaXBOMDlmeDhWOXNBOVhPTXl3V3RHQ1huRTdFcw?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-27T15:14:26+00:00",
-      "image_url": "https://images.pexels.com/photos/5491888/pexels-photo-5491888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "विदेश मंत्री जयशंकर ने संयुक्त राष्ट्र चार्टर में शांति स्थापना के महत्व पर जोर दिया. उन्होंने दुनिया के सामने 7 चिंताएं रखीं. जयशंकर ने युद्ध और संघर्ष के मुद्दों पर चर्चा की.",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "युद्ध-संघर्ष... यूएन चार्टर में शांति स्थापना का जिक्र, विदेश मंत्री जयशंकर ने दुनिया के सामने रखी",
-          "summary": "विदेश मंत्री जयशंकर ने संयुक्त राष्ट्र चार्टर में शांति स्थापना के महत्व पर जोर दिया. उन्होंने दुनिया के सामने 7 चिंताएं रखीं. जयशंकर ने युद्ध और संघर्ष के मुद्दों पर चर्चा की.",
-          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     }
