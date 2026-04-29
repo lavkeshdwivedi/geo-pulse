@@ -1,310 +1,351 @@
 {
-  "generated_at": "2026-04-29T06:07:24.315101+00:00",
+  "generated_at": "2026-04-29T09:11:43.054126+00:00",
   "article_count": 42,
-  "total_unique_count": 253,
+  "total_unique_count": 254,
   "digest": {
-    "en": "Iraq's Prime Minister-designate is thrust into a US-Iran power struggle. Australia plans to tax Meta, Google, and TikTok to fund newsrooms, a move that contrasts with the US's focus on geopolitical issues. The White House is engaged in diplomatic efforts, highlighted by King Charles's remarks.",
-    "hi": "एशिया-पसिफ़िक क्षेत्र में जल्द ही गाड़ियां और हवाई जहाज 100% एथेनॉल पर दौड़ते नजर आ सकते हैं। इस क्षेत्र में ग्रीन फ्यूल की मंजूरी मिलने के बाद यह संभव हो पाएगा। मेटा-गूगल और टिकटॉक पर टैक्स लगाने का प्रस्ताव भी चर्चा में है।"
+    "en": "The US Supreme Court will hear cases on the protected status of Haitians and Syrians. Indonesia is putting four soldiers on trial for an acid attack on an activist. Meta is also facing criticism from the EU for allegedly failing to keep underage users off Facebook and Instagram.",
+    "hi": "अमेरिका के खिलाफ संयुक्त राष्ट्र पहुंचा ईरान ने कहा कि उसका जहाज जब्त करना समुद्री डकैती है। ईरान के इस आरोप के बीच, कतर ने अमेरिका-ईरान वार्ता ठप होने पर दो टूक कहा कि होर्मुज को सौदेबाजी का हथियार नहीं बनाना चाहिए। \nअमेरिकी रक्षा मंत्री ईरान युद्ध और रक्षा बजट पर संसद में तीखे सवालों का सामना करेंगे। \nमेक्सिको की राष्ट्रपति ने दावा किया कि अमेरिका ने उनके देश के कानून का सम्मान करने का आश्वासन दिया है।"
   },
   "articles": [
     {
-      "title": "Iraq’s Prime Minister-Designate Thrust Into U.S.-Iran Power Struggle",
-      "url": "https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-04-29T06:01:07+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/28/multimedia/28int-iraq-government-1-qzwk/28int-iraq-government-1-qzwk-mediumSquareAt3X.jpg",
-      "summary": "Ali al-Zaidi is tasked with forming a new Iraqi government amid US pressure to curb Iranian influence. Ali al-Zaidi, a political unknown, has been tasked with forming a new coalition government.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Australia moves to tax Meta, Google and TikTok to fund newsrooms",
-      "url": "https://www.npr.org/2026/04/29/g-s1-119142/australia-moves-to-tax-meta-google-and-tiktok-to-fund-newsrooms",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-04-29T05:20:04+00:00",
-      "image_url": "https://images.pexels.com/photos/6863255/pexels-photo-6863255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Australia plans to tax Meta, Google, and TikTok to fund newsrooms through draft legislation by July. Australia is proposing to tax Meta, Google and TikTok a proportion of their revenue to pay for news reporters.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US, allies release joint statement supporting Panama's sovereignty",
-      "url": "https://www.channelnewsasia.com/east-asia/us-allies-release-joint-statement-supporting-panamas-sovereignty-6087651",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-04-29T05:19:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--kP1AF7FL--/c_crop,h_449,w_799,x_1,y_49/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-28T230857Z_1_LYNXMPEM3R1SV_RTROPTP_3_PANAMA-CANAL-TRAFFIC.JPG?itok=T2SKBcIh",
-      "summary": "The US and allies released a joint statement supporting Panama's sovereignty. US, allies release joint statement supporting Panama's sovereignty.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "White House hails ‘two kings’ as King Charles delivers pointed remarks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/white-house-hails-two-kings-as-king-charles-delivers-pointed-remarks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-29T05:11:42+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/WIDE-THUMB-KING-CHARLES-WRAP-1777439429.jpg?resize=1920%2C1440",
-      "summary": "King Charles III hailed US-UK ties at a White House state dinner. King Charles III has hailed US-UK ties at a state dinner in the White House. White House hails ‘two kings’ as King Charles delivers pointed remarks.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Afghan students recount harrowing university strike",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/afghan-students-recount-harrowing-university-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-29T05:10:12+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777439385.jpg?resize=1919%2C1080&quality=80",
-      "summary": "Afghan students described a missile hitting their university, with officials blaming Pakistan for the attack. Afghan students have described the moment a missile hit their university. Officials blame Pakistan for Monday’s attack.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US Senate blocks bid to stop Trump using military against Cuba",
-      "url": "https://www.aljazeera.com/news/2026/4/29/us-senate-blocks-bid-to-stop-trump-using-military-against-cuba?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-29T05:06:22+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/13879658-1777437879.jpg?resize=1920%2C1440",
-      "summary": "The US Senate blocked a bid to stop President Trump using military force against Cuba. Senator Tim Kaine criticized the move, saying if another country did to the US what it was doing to Cuba, it would be considered an act of war.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UN aid chief says situation in Somalia worsened by US war on Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/un-aid-chief-says-situation-in-somalia-worsened-by-us-war-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [
-        {
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/un-aid-chief-says-situation-in-somalia-worsened-by-us-war-on-iran?traffic_source=rss",
-          "source": "Al Jazeera"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHNYWjItQWpiUmJzdnZNdmlUTUdVLTFVSUdkQUVkYkdrWmN3NDJUcEZhVmN2LWg1OEozdXZDV005YXV1cU1xdG45eFFQcVZIOGx0NjFNaVlOWmhzTGZEMkl4cGtBakxyOHhYZ0RUY0RwT2c5ZUk2ODZNU3NMaWJzenV3ZS0xcy1obDdvejVBS3JGdTUzNTdWWE9sSk95QUpTajJkN3VlQlhCY0tXOE9Da1oyd2ZIc0nSAbwBQVVfeXFMTU5mU09uTjJOdmY0MTFXRFZYaldmOUVncmdJSWNTSlVHNlUwSm9yc0dOU0h4NkN3M3Z5ejZPVldRWS12Z2RySW5nZ1diODRmQ1pRUzFjRUVJYkotclNEVzhZX3ltY3YzY2oyVklqblgxZGFMOW96SDBZVEtGM29LcW1NcEpnYkJZZ09yMjIzbzYzSXQyM0pwMTVFZFhFZ1VNMXIzTkhvRjhRakhjTkQtc19WcVRadmNvNFJlRWI?oc=5",
-          "source": "Google News (United Nations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHNYWjItQWpiUmJzdnZNdmlUTUdVLTFVSUdkQUVkYkdrWmN3NDJUcEZhVmN2LWg1OEozdXZDV005YXV1cU1xdG45eFFQcVZIOGx0NjFNaVlOWmhzTGZEMkl4cGtBakxyOHhYZ0RUY0RwT2c5ZUk2ODZNU3NMaWJzenV3ZS0xcy1obDdvejVBS3JGdTUzNTdWWE9sSk95QUpTajJkN3VlQlhCY0tXOE9Da1oyd2ZIc0nSAbwBQVVfeXFMTU5mU09uTjJOdmY0MTFXRFZYaldmOUVncmdJSWNTSlVHNlUwSm9yc0dOU0h4NkN3M3Z5ejZPVldRWS12Z2RySW5nZ1diODRmQ1pRUzFjRUVJYkotclNEVzhZX3ltY3YzY2oyVklqblgxZGFMOW96SDBZVEtGM29LcW1NcEpnYkJZZ09yMjIzbzYzSXQyM0pwMTVFZFhFZ1VNMXIzTkhvRjhRakhjTkQtc19WcVRadmNvNFJlRWI?oc=5",
-          "source": "Google News (United Nations)"
-        }
-      ],
-      "published_at": "2026-04-29T04:49:08+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777438104.jpg?resize=1920%2C1080&quality=80",
-      "summary": "UN relief coordinator Tom Fletcher said the situation in Somalia has worsened due to the US war on Iran. He made these comments during a visit to the country. UN relief coordinator Tom Fletcher has slammed the war on Iran during a visit to Somalia.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "​Battle of wills: On the U.S. war on Iran",
-      "url": "https://www.thehindu.com/opinion/editorial/battle-of-wills-on-the-us-war-on-iran/article70916472.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-29T04:48:28+00:00",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "summary": "The US war on Iran has led to a standoff over the Strait of Hormuz. The US should lift its blockade to allow Iran to open the strategic waterway. The U. S.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Karachi Residents Store Cooking Gas In Balloons Amid Fuel Shortage: Report",
-      "url": "https://www.ndtv.com/world-news/iran-war-karachi-residents-store-cooking-gas-in-balloons-amid-fuel-shortage-report-11423159#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-29T04:43:39+00:00",
-      "image_url": "https://c.ndtvimg.com/2023-01/nre1ubh8_these-plastic-bags-are-filled-up-with-natural-gas_625x300_02_January_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Residents in Karachi are storing cooking gas in balloons due to a severe fuel shortage. Locals described this method as a \"last resort\" amid the crisis. Locals described the method as a \"last resort,\" citing the severity of the gas crisis.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘You'd be speaking French’: King Charles roasts Trump at state dinner",
-      "url": "https://www.thehindu.com/news/international/youd-be-speaking-french-king-charles-roasts-trump-at-state-dinner/article70919020.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-29T04:43:10+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/ubo5cd/article70919034.ece/alternates/LANDSCAPE_1200/2026-04-29T015536Z_1910854698_RC2PYKA54BWP_RTRMADP_3_USA-BRITAIN-KING.JPG",
-      "summary": "King Charles joked about Donald Trump's comments on European allies at a state dinner. He said to Trump, \"You'd be speaking French\" if not for NATO. As the heads of state traded jokes during their dinner toasts, King Charles referenced previous comments by Mr.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US, Latin America countries criticise China’s retaliation over Panama Canal",
-      "url": "https://www.aljazeera.com/news/2026/4/29/us-latin-america-countries-criticise-chinas-retaliation-over-panama-canal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-04-29T04:16:50+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69f16af66423-1777429238.jpg?resize=1920%2C1440",
-      "summary": "US and Latin American countries have criticized China's detention of nearly 70 Panamanian-flagged ships in retaliation for a Supreme Court ruling on the Panama Canal. The move has sparked diplomatic tensions between China and the US.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran Embassy Urges Expats To 'Sacrifice Their Lives', UK Reacts Strongly",
-      "url": "https://www.ndtv.com/world-news/irans-london-embassy-calls-expats-to-sacrifice-their-lives-uk-foreign-office-fires-back-11423637#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-04-29T04:14:02+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/s3ceahqs_iraninuk_625x300_29_April_26.jpeg",
-      "summary": "The Iranian embassy has urged expats to \"sacrifice their lives\" in a message defended by the embassy as a call to patriotism. The UK has reacted strongly to the statement, expressing concern for the safety of British citizens in Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UAE leaves OPEC and OPEC+ in huge blow to global oil producers' group",
-      "url": "https://www.thehindu.com/news/international/uae-leaves-opec-and-opec-in-huge-blow-to-global-oil-producers-group/article70916516.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-29T04:03:44+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/zf7xrm/article70916534.ece/alternates/LANDSCAPE_1200/2026-04-13T134308Z_476184216_RC2VXIAVVHZQ_RTRMADP_3_IRAN-CRISIS-OPEC-OIL.JPG",
-      "summary": "The UAE has left OPEC and OPEC+, citing criticism from fellow Arab states for not protecting it from Iranian attacks. The move is a significant blow to the global oil producers' group.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
-      "url": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
+      "title": "US supreme court to hear whether protected status of Haitians and Syrians can be revoked",
+      "url": "https://www.theguardian.com/us-news/2026/apr/29/us-supreme-court-haitians-syrians-tps",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-04-29T04:00:45+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/a99e8872bb6baf3fe4a4b3ea862ed763a0ef60f4/457_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=bf1fe3bc8dccc0dcb6811b7b2a912db8",
-      "summary": "The African music industry is weighing the risks and rewards of AI technology, with some artists embracing its potential while others stress its limitations. Nigerian singer-songwriter Fave has integrated AI into her music to counter unauthorized versions.",
+      "published_at": "2026-04-29T09:00:51+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/c5a864b0725661454e6c3e2d2bd3877ca790f5df/437_0_2563_2050/master/2563.jpg?width=140&quality=85&auto=format&fit=max&s=3c6fc18073e299f20f0d8250c1688aa1",
+      "summary": "The US supreme court will hear oral arguments over whether the Trump administration can revoke temporary protected status for hundreds of thousands of Syrians and Haitians.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "NASA's Artemis II moonship returns home to its launch site after historic voyage",
-      "url": "https://www.thehindu.com/sci-tech/nasas-artemis-ii-moonship-returns-home-to-its-launch-site-after-historic-voyage/article70918933.ece",
+      "title": "Indonesia puts four soldiers on trial over acid attack on activist",
+      "url": "https://www.aljazeera.com/news/2026/4/29/indonesia-court-starts-trial-of-soldiers-accused-of-acid-attack-on-activist?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-29T08:55:06+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69f1c05105844-1777451089.jpg?resize=1920%2C1440",
+      "summary": "Indonesia put four soldiers on trial for an acid attack on activist Andrie Yunus. The accused face up to 12 years in prison for the attack that burned one-fifth of activist Andrie Yunus's body.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Five takeaways from the King's historic address to Congress",
+      "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-04-29T08:48:08+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce6/live/05fc6d20-4380-11f1-b927-49e1f65be0b5.jpg",
+      "summary": "The King addressed Congress with lines that may have supported Democrats. There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "EU says Meta is failing to keep underage users off Facebook and Instagram",
+      "url": "https://www.npr.org/2026/04/29/g-s1-119157/eu-meta-underage-users",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-29T08:44:38+00:00",
+      "image_url": "https://images.pexels.com/photos/5978426/pexels-photo-5978426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union accused Meta of failing to stop underage users from accessing Facebook and Instagram. The European Union accused Meta on Wednesday of failing to stop underage users from accessing Facebook and Instagram, in violation of the bloc's digital rules that require sites to protect minors.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Atharva Vyas, Indian accused of assaulting woman and child detained, ICE called him ‘illegal alien’",
+      "url": "https://indianexpress.com/article/world/atharva-vyas-indian-accused-assaulting-woman-child-detained-ice-him-illegal-alien-10661836/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-04-29T08:40:04+00:00",
+      "image_url": "https://images.indianexpress.com/2026/04/Atharva-Vyas.jpg",
+      "summary": "Atharva Vyas, an Indian man accused of assault, was detained and labeled an \"illegal alien\" by ICE. Atharva Vyas, Indian accused of assaulting woman and child detained, ICE called him ‘illegal alien’.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Palestinian refugee uses art to share the story of his childhood with his daughter",
+      "url": "https://www.npr.org/2026/04/29/nx-s1-5788021/palestinian-refugee-uses-art-to-share-the-story-of-his-childhood-with-his-daughter",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-29T08:37:15+00:00",
+      "image_url": "https://images.pexels.com/photos/35934182/pexels-photo-35934182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Basel Zaraa, a Palestinian refugee, shared his childhood story with his 5-year-old daughter through art. He used this medium to explain his past to her. Basel Zaraa was a Palestinian refugee.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How the U.K. is reacting to King Charles' visit to the U.S.",
+      "url": "https://www.npr.org/2026/04/29/nx-s1-5802924/how-the-u-k-is-reacting-to-king-charles-visit-to-the-u-s",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-29T08:36:47+00:00",
+      "image_url": "https://images.pexels.com/photos/10187627/pexels-photo-10187627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "King Charles' visit to the U. S. has sparked reactions in the U. K. Lord Peter Ricketts, a former British diplomat, discussed the visit with NPR's Steve Inskeep. during a tumultuous time.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Will UAE's departure from OPEC affect the oil cartel's future influence?",
+      "url": "https://www.npr.org/2026/04/29/nx-s1-5802933/will-uaes-departure-from-opec-affect-the-oil-cartels-future-influence",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-29T08:36:12+00:00",
+      "image_url": "https://images.pexels.com/photos/21937964/pexels-photo-21937964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The UAE's decision to leave OPEC has raised questions about the oil cartel's future influence. Helima Croft, global head of commodity strategy at RBC Capital Markets, discussed the impacts with NPR's A Martinez.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'Historic homecoming' as endangered antelopes flown to Kenya from Czech Republic zoo",
+      "url": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-04-29T08:28:35+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e25/live/c6eba8b0-439f-11f1-a886-afa88c1499c0.jpg",
+      "summary": "Endangered mountain bongos were flown from a Czech Republic zoo to Kenya in a conservation effort. The species is rare, with less than 100 individuals remaining in the wild. The mountain bongo is a rare antelope endemic to Kenyan highland forests, with less than 100 in the wild.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Red card for players covering their mouths in World Cup matches",
+      "url": "https://www.aljazeera.com/sports/2026/4/29/red-card-for-players-covering-their-mouths-in-world-cup-matches?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-29T08:23:31+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260217__97XM2ZQ__v1__MidRes__FblEurC1BenficaRealMadrid-1771430679-1777448511.jpg?resize=1200%2C630",
+      "summary": "FIFA introduced a new red card rule for World Cup matches, allowing referees to send off players who cover their mouths or walk off in protest against a decision. New red card rule allows referees to send off players who cover their mouths or walk off the pitch in protest against a decision.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Heavy rains threaten Bangladesh's rice harvest",
+      "url": "https://www.channelnewsasia.com/asia/heavy-rain-bangladesh-threaten-rice-harvest-6088551",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-29T08:23:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--V-0kTwJL--/c_crop,h_448,w_798,x_1,y_32/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-09T084537Z_2_LYNXMPEM380B4_RTROPTP_3_IRAN-CRISIS-ENERGY-BANGLADESH.JPG?itok=Mdx7MnDf",
+      "summary": "Bangladesh's rice harvest is under threat from heavy rains that have also damaged other crops, including vegetables, raising concerns about potential supply shortages. Heavy rains have also damaged other crops, including vegetables, raising concerns about potential supply shortages.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Amadeus to buy French biometrics firm Idemia for 1.2 billion euros",
+      "url": "https://www.channelnewsasia.com/business/amadeus-buy-french-biometrics-firm-idemia-12-billion-euros-6088596",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-29T08:19:17+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--4MEf34ev--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-29T081917Z_1_LYNXMPEM3S0FT_RTROPTP_3_AMADEUS-IT-GROUP-RESULTS.JPG?itok=MEwU_6aR",
+      "summary": "Amadeus agreed to buy French biometrics firm Idemia for 1.2 billion euros, expanding its technology portfolio. Amadeus to buy French biometrics firm Idemia for 1.2 billion euros.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump On Report Claiming He And King Charles Are Cousins",
+      "url": "https://www.ndtv.com/world-news/king-charles-and-trump-are-cousins-us-presidents-always-wanted-response-11424103#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-29T08:19:07+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/4abh7bvc_trump-king-charles-afp_625x300_29_April_26.jpeg",
+      "summary": "Donald Trump denied being cousins with King Charles, saying he is \"not related\" to the British monarch. Earlier, Trump called King Charles \"a great guy\" and \"a fighter\". Trump On Report Claiming He And King Charles Are Cousins.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Death toll from Indonesia train crash rises to 16",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-train-crash-death-toll-bekasi-taxi-6088581",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-04-29T08:19:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s---CtaGSPG--/c_crop,h_576,w_1024,x_0,y_106/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/29/000_a98d8h2.jpg?itok=0cx1Al9n",
+      "summary": "The death toll from a train crash in Indonesia rose to 16 after a long-distance train slammed into a stationary commuter train near Bekasi Timur station. The accident happened when a long-distance train slammed into the last, women-only carriage of a stationary commuter train near the Bekasi Timur station.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ukraine accuses Israel of importing grain 'stolen' by Russia",
+      "url": "https://www.npr.org/2026/04/29/g-s1-119153/ukraine-accuses-israel-of-importing-grain-stolen-by-russia",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-04-29T08:17:44+00:00",
+      "image_url": "https://images.pexels.com/photos/5499191/pexels-photo-5499191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Ukraine accused Israel of importing grain it claims Russia stole from occupied areas, with Israel disputing the claim that the vessel had entered the port. Ukraine accused Israel of allowing the import of grain it claims Russia stole from occupied areas.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ukraine And Israel Are Fighting Over 'Stolen' Grains. Russia Is The Reason",
+      "url": "https://www.ndtv.com/world-news/ukraine-and-israel-are-fighting-over-stolen-grains-russia-is-the-reason-11424718#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-29T08:09:54+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/d8uat6d_ukraine-israel_625x300_29_April_26.jpeg",
+      "summary": "Israel disputes Ukraine's claim of stolen grain, saying Kyiv provided no evidence. The issue arises as Russia's actions likely impact grain supplies. Israel said that Kyiv had not provided evidence to support its claims.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Japan Airlines To Trial Humanoid Robots At Haneda Airport As Labour Shortages Deepen",
+      "url": "https://www.ndtv.com/world-news/japan-airlines-to-trial-humanoid-robots-at-haneda-airport-as-labour-shortages-deepen-11424000#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-29T07:55:51+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/ig6g43fg_japan-airlines-humanoids-_625x300_29_April_26.jpeg",
+      "summary": "Japan Airlines will trial humanoid robots at Haneda Airport to address labour shortages. The initiative is a collaboration with GMO Internet Group. The report mentioned that the initiative is being carried out in collaboration with GMO Internet Group.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Is India’s Chabahar dream in Iran dead?",
+      "url": "https://www.aljazeera.com/features/2026/4/29/is-indias-chabahar-dream-in-iran-dead?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-04-29T07:46:21+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2020/06/d81483c851b346e781728c0251224343_18.jpeg?resize=1200%2C675",
+      "summary": "India's strategic ambitions for the Chabahar port in Iran are dwindling. The port had been a key part of India's regional plans. The port has been a centrepiece of India's regional strategic ambitions.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
+      "url": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-04-29T07:00:48+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/d9f25a6186b4d882994fd880b0c2e110d149a30e/538_0_6763_5413/master/6763.jpg?width=140&quality=85&auto=format&fit=max&s=5f32b97a995cbd0b7497bc7987a93741",
+      "summary": "NGOs call for a humanitarian corridor through the Strait of Hormuz. The Iran war and soaring oil prices are blocking aid deliveries.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Opinion | No Peace With 'Peacebroker'? Why Iran Just Bombed A Pak-Based Terror Camp",
+      "url": "https://www.ndtv.com/opinion/why-iran-no-longer-trusts-brother-pakistan-as-a-mediator-11424070#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-04-29T06:52:36+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/svtoa5us_iran_625x300_29_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "summary": "Iran bombed a Pakistan-based terror camp targeting Jaish-al-Adl. The strikes occurred after similar actions last week in the border regions. Just last week, Iran carried out strikes on terror camps inside Pakistan, targeting Jaish-al-Adl, an organisation that has long been operating in the border regions.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "EU countries, lawmakers fail to reach deal on watered-down AI rules",
+      "url": "https://www.thehindu.com/sci-tech/technology/eu-countries-lawmakers-fail-to-reach-deal-on-watered-down-ai-rules/article70918973.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-04-29T04:00:39+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/69icxp/article70918934.ece/alternates/LANDSCAPE_1200/NASA_Artemis_Moonshot__3799.jpg",
-      "summary": "NASA's Artemis II moonship returned to its launch site after a historic voyage. The mission marked a significant milestone in the US space program. NASA's Artemis II moonship returns home to its launch site after historic voyage.",
+      "published_at": "2026-04-29T05:39:17+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/5arlmx/article70919051.ece/alternates/LANDSCAPE_1200/2026-03-10T093627Z_796964435_RC2MX8A3N9I1_RTRMADP_3_ECB-POLICY-MULLER.JPG",
+      "summary": "EU countries and lawmakers failed to reach a deal on watered-down AI rules. The proposed rules, considered the strictest in the world, aimed to address concerns about AI's impact on children, workers, companies, and cybersecurity. Talks stalled without a new agreement.",
       "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Protecting U.S. Critical Infrastructure as Global Tensions Rise",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOakNYQTF0QzhZNmxoVG1iTVROVEZWUkVIS0tNWDYtLWQ5czBnMGVCejdtdlJOcVhyWU4teEdMUGt3cUtiMmhITGx6X1VSVVRNcHd1WnRURWE0YTZSMGlyZ3dPbXg4dklia2xHaXFobXZLYTZjTjRFZVN0a1Fhdk1KS04wTUljTTBfNG5NRElJeEFpNllhakJ2eW11ZzBSYXliRWNnWGY3cGRqN0tybkFr?oc=5",
-      "source": "Google News (global security)",
+      "title": "अमेरिका के खिलाफ संयुक्त राष्ट्र पहुंचा ईरान: कहा- हमारा जहाज जब्त करना समुद्री डकैती; सुरक्षा",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbExhRG1ZV1ZzU2gtWmNnMVBvVVV4YmtLam1uYTUySWRfSFJuejFZak9RTVVMQ0NZLTl4dkJxa1gwOEUtVDZTSzJ4VlNzUmpIZlNZSFJoUzNVNldKTXU1SlRzSXQ1bE9nTTBwNDY4WVZpeE5Rd3d1SHN5T3VaUkF1QWZqdHJ0Y3kyY0drY2x4VXNFZWFjT3d2cUNyNHV4TzNCYWY4OWhWWnFvbUZYRnhReGtDT05fLUVVNE1IM25qeXpjRVBlT19EcFQ0Q052bTFXcmI5cW8yWnHSAd4BQVVfeXFMTTFTVkd2VmYtWmNEQ0dETFc1cXV4c0M5dTdFUURwMnpaWWtodTl3VmgyVGk3OWJUQjdhZ19KQTVxNEVBVy1oeW1ldzdMbjdxN1JXUGJxRURQZzd6b0V5aUpYMTR4Y1A5T2IxalZOY2dCNnRlVUc4ZTQwQW8weDU2OUNTZGlOZVBIMlZxWk9CM3VabTV6SC01cmwwNm82QlYyY3kyOVEzRXZCTng4NEd5aUZOOC1pRkNHaVFTWV90aU8zaDEwaHp4TFZLUm1MX2Zqamt4OHlpdHVORDV3VDdR?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-04-29T04:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/97509/pexels-photo-97509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "As global tensions rise, the US is prioritizing the protection of its critical infrastructure, including power grids and transportation systems. Protecting U. S. Critical Infrastructure as Global Tensions Rise Security Magazine.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S. imposes sanctions on 35 individuals, entities for aiding Iran's sanctions evasions",
-      "url": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-35-individuals-entities-for-aiding-irans-sanctions-evasions/article70918943.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-29T03:58:59+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/5o491v/article70904504.ece/alternates/LANDSCAPE_1200/2026-04-22T150612Z_1021021466_RC2EUKAO42RJ_RTRMADP_3_USA-TREASURY-CONGRESS.JPG",
-      "summary": "The US imposed sanctions on 35 individuals and entities for aiding Iran's sanctions evasions to disrupt Tehran's payment mechanisms. The designations were intended to expose and disrupt the mechanisms used by Tehran to receive payment for oil and other commodities and reduce its revenue, Treasury said.",
+      "published_at": "2026-04-29T09:01:35+00:00",
+      "image_url": "https://images.pexels.com/photos/1119118/pexels-photo-1119118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान ने अमेरिका के खिलाफ संयुक्त राष्ट्र सुरक्षा परिषद में शिकायत दर्ज कराई है. ईरान का आरोप है कि अमेरिका ने उसके एक जहाज को जब्त किया है, जिसे वह समुद्री डकैती मानता है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका के खिलाफ संयुक्त राष्ट्र पहुंचा ईरान: कहा- हमारा जहाज जब्त करना समुद्री डकैती; सुरक्षा",
+          "summary": "ईरान ने अमेरिका के खिलाफ संयुक्त राष्ट्र सुरक्षा परिषद में शिकायत दर्ज कराई है. ईरान का आरोप है कि अमेरिका ने उसके एक जहाज को जब्त किया है, जिसे वह समुद्री डकैती मानता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Iran conflict threatens global energy security and economic growth",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGp4VlJBZ0Z4M3JsSm5yQkFpRktheVh6OUhGUEZGdDVSd1o4MXZUUmJnbDFUckJjenlZeG9pcFd3a3lUa2ZQdmlwS3Y0ZXVOTVM5cU9tUGZMOGFPM3JNNW1lVnFGQU1uX1RwTUQ3NWdUbkZyaXNYTjEyM2FRLVRTNng0ajU4TkhlZGYzREcyQldEMEdYVlJ4Zm5CZ01ZV1lYRlN2ZmJDUlZrOUdmY3dMTHVLQ0JKTll5ZVZWRTEwN1g?oc=5",
-      "source": "Google News (global security)",
+      "title": "किम जोंग उन बेटी को अपनी गद्दी के लिए ऐसे कर रहे हैं तैयार",
+      "url": "https://www.bbc.com/hindi/articles/c74djn832e0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-29T03:53:11+00:00",
-      "image_url": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The Iran conflict poses a threat to global energy security and economic growth. Rising tensions in the region could disrupt oil supplies, impacting the global economy. Iran conflict threatens global energy security and economic growth news. cgtn. com.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump says King Charles does not want Iran to have nuclear weapon",
-      "url": "https://www.thehindu.com/news/international/trump-says-king-charles-does-not-want-iran-to-have-nuclear-weapon/article70918981.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-04-29T03:52:57+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/hqdycn/article70918986.ece/alternates/LANDSCAPE_1200/2026-04-29T014848Z_454311110_RC2PYKAQIMPO_RTRMADP_3_USA-BRITAIN-KING.JPG",
-      "summary": "US President Trump stated that King Charles does not want Iran to possess a nuclear weapon. This comment was made during a tense period in US-UK relations. The event was held on the second ‌day of a four-day visit to the United States at a tense time in ties, ‌after Mr.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "King Charles Urges Strong NATO Role Amid Ukraine War",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcF8zWWkxYWRZZXlhUzVmREtWNFdIaHpPeGpmY1llY2hMRW9SY29xMVdCbzR6Q205LW9oS3NIZy1ZeVk4WnM3VjJmYm0xS3kzamtJQWNwVGFWU0JsZTBoWEhHS2NrZVdtYVBoRDJhUVNjZ0ZpYnZuRWpQazNJNHJXUUFUcDE2SHhNakR0d0NIREpjalF2OWkyamk4aWdaWGhBN3k0cHF3UWRZczg?oc=5",
-      "source": "Google News (NATO conflict)",
-      "sources": [],
-      "published_at": "2026-04-29T03:43:26+00:00",
-      "image_url": "https://images.pexels.com/photos/37054205/pexels-photo-37054205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "King Charles emphasized the need for a strong NATO role amid the ongoing Ukraine war. He described freedom as being under attack in a recent address. ‘Freedom Under Attack’: King Charles Urges Strong NATO Role Amid Ukraine War Open Magazine.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump recalls his mother ‘had a crush’ on King Charles; ‘he’s so cute’",
-      "url": "https://indianexpress.com/article/world/trump-recalls-his-mother-had-a-crush-on-king-charles-hes-so-cute-10661408/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-04-29T03:39:36+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/photo-4-1.jpg",
-      "summary": "Former US President Trump recalled his mother having a crush on King Charles, describing him as \"so cute\". This comment was made in a recent public statement. Trump recalls his mother ‘had a crush’ on King Charles; ‘he’s so cute’.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "जल्द 100% एथेनॉल पर दौड़ेंगी गाड़ियां, हवाई जहाजों के लिए भी ग्रीन फ्यूल की मंजूरी",
-      "url": "https://www.amarujala.com/automobiles/india-pushes-for-ethanol-fuel-e85-e100-cars-new-rules-to-cut-petrol-dependence-2026-04-29",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-04-29T05:58:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/garana-fayal_5fd4e3c195a7d019d5b6585f5d230655.jpeg?w=750&dpr=1.0",
-      "summary": "भारत में जल्द 100% एथेनॉल पर गाड़ियां दौड़ेंगी और हवाई जहाजों के लिए भी ग्रीन फ्यूल की मंजूरी दी गई है। Ethanol Fuel India: पेट्रोल-डीजल की महंगाई और प्रदूषण से राहत देने के लिए सरकार ने एक बड़ा कदम उठाया है।",
+      "published_at": "2026-04-29T07:59:41+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edaa/live/96003d80-4249-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "उत्तर कोरिया के नेता किम जोंग उन अपनी बेटी को अपनी गद्दी के लिए तैयार कर रहे हैं. उनकी बेटी पश्चिमी शैली के कपड़ों में नजर आ रही है, जो उत्तर कोरिया में प्रतिबंधित है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जल्द 100% एथेनॉल पर दौड़ेंगी गाड़ियां, हवाई जहाजों के लिए भी ग्रीन फ्यूल की मंजूरी",
-          "summary": "भारत में जल्द 100% एथेनॉल पर गाड़ियां दौड़ेंगी और हवाई जहाजों के लिए भी ग्रीन फ्यूल की मंजूरी दी गई है। Ethanol Fuel India: पेट्रोल-डीजल की महंगाई और प्रदूषण से राहत देने के लिए सरकार ने एक बड़ा कदम उठाया है।",
+          "title": "किम जोंग उन बेटी को अपनी गद्दी के लिए ऐसे कर रहे हैं तैयार",
+          "summary": "उत्तर कोरिया के नेता किम जोंग उन अपनी बेटी को अपनी गद्दी के लिए तैयार कर रहे हैं. उनकी बेटी पश्चिमी शैली के कपड़ों में नजर आ रही है, जो उत्तर कोरिया में प्रतिबंधित है.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "397 करोड़ रुपये के घोटाले में सीबीआई जांच के आदेश, पूर्व मंत्री बालाजी की बढ़ सकती हैं मुश्किलें",
-      "url": "https://www.amarujala.com/india-news/madras-high-court-orders-cbi-probe-in-transformer-procurement-scam-senthil-balaji-2026-04-29",
-      "source": "Amar Ujala National",
+      "title": "यूएई का बाहर निकलना ओपेक के लिए कितना बड़ा झटका, दुनिया पर इसका क्या असर होगा?",
+      "url": "https://www.bbc.com/hindi/articles/c70vjg2g0qwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-29T05:55:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/19/madras-high-court_7892d29c4610c7c5f02b1c060cf59795.jpeg?w=750&dpr=1.0",
-      "summary": "397 करोड़ रुपये के घोटाले में सीबीआई जांच के आदेश दिए गए हैं, पूर्व मंत्री सेंथिल बालाजी की मुश्किलें बढ़ सकती हैं। 397 करोड़ रुपये के घोटाले में सीबीआई जांच के आदेश, पूर्व मंत्री बालाजी की बढ़ सकती हैं मुश्किलें।",
-      "region": "World",
+      "published_at": "2026-04-29T07:06:36+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/921e/live/cc795730-438d-11f1-bd52-e755d604ece4.jpg",
+      "summary": "संयुक्त अरब अमीरात ने ओपेक के उत्पादन कोटा नियमों से मुक्त होकर अपनी तेल उत्पादन क्षमता का बेहतर इस्तेमाल करने का फैसला किया है. इससे ओपेक को बड़ा झटका लग सकता है.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "397 करोड़ रुपये के घोटाले में सीबीआई जांच के आदेश, पूर्व मंत्री बालाजी की बढ़ सकती हैं मुश्किलें",
-          "summary": "397 करोड़ रुपये के घोटाले में सीबीआई जांच के आदेश दिए गए हैं, पूर्व मंत्री सेंथिल बालाजी की मुश्किलें बढ़ सकती हैं। 397 करोड़ रुपये के घोटाले में सीबीआई जांच के आदेश, पूर्व मंत्री बालाजी की बढ़ सकती हैं मुश्किलें।",
-          "region": "दुनिया"
+          "title": "यूएई का बाहर निकलना ओपेक के लिए कितना बड़ा झटका, दुनिया पर इसका क्या असर होगा?",
+          "summary": "संयुक्त अरब अमीरात ने ओपेक के उत्पादन कोटा नियमों से मुक्त होकर अपनी तेल उत्पादन क्षमता का बेहतर इस्तेमाल करने का फैसला किया है. इससे ओपेक को बड़ा झटका लग सकता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'होर्मुज को सौदेबाजी का हथियार नहीं बनाना चाहिए', अमेरिका-ईरान वार्ता ठप होने पर कतर की दो टूक",
+      "url": "https://www.amarujala.com/world/strait-of-hormuz-must-not-be-used-as-a-bargaining-chip-qatar-amid-stalled-us-iran-talks-news-in-hindi-2026-04-29",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-29T06:48:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/majatha-al-asara-katara-ka-vathasha-mataralya-ka-paravakata_e34179b25bec1c7a217c30c203ac55fa.jpeg?w=750&dpr=1.0",
+      "summary": "कतर ने अमेरिका और ईरान के बीच ठप हुई वार्ता पर टिप्पणी की है. कतर का कहना है कि होर्मुज जलडमरू को सौदेबाजी के हथियार के रूप में नहीं इस्तेमाल किया जाना चाहिए.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'होर्मुज को सौदेबाजी का हथियार नहीं बनाना चाहिए', अमेरिका-ईरान वार्ता ठप होने पर कतर की दो टूक",
+          "summary": "कतर ने अमेरिका और ईरान के बीच ठप हुई वार्ता पर टिप्पणी की है. कतर का कहना है कि होर्मुज जलडमरू को सौदेबाजी के हथियार के रूप में नहीं इस्तेमाल किया जाना चाहिए.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान युद्ध और रक्षा बजट पर घिर सकते हैं अमेरिकी रक्षा मंत्री, संसद में तीखे सवालों का करेंगे सामना",
+      "url": "https://www.amarujala.com/world/us-defense-secretary-may-face-sharp-questions-in-parliament-over-the-iran-war-and-the-defense-budget-2026-04-29",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-29T06:13:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/pata-hagasatha-amaraka-rakashha-matara_a277677c18e8ba2722e7a0dfbda99f86.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी रक्षा मंत्री को संसद में तीखे सवालों का सामना करना पड़ सकता है. उनसे ईरान युद्ध और रक्षा बजट पर सवाल पूछे जा सकते हैं. ईरान युद्ध और रक्षा बजट पर घिर सकते हैं अमेरिकी रक्षा मंत्री, संसद में तीखे सवालों का करेंगे सामना।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान युद्ध और रक्षा बजट पर घिर सकते हैं अमेरिकी रक्षा मंत्री, संसद में तीखे सवालों का करेंगे सामना",
+          "summary": "अमेरिकी रक्षा मंत्री को संसद में तीखे सवालों का सामना करना पड़ सकता है. उनसे ईरान युद्ध और रक्षा बजट पर सवाल पूछे जा सकते हैं. ईरान युद्ध और रक्षा बजट पर घिर सकते हैं अमेरिकी रक्षा मंत्री, संसद में तीखे सवालों का करेंगे सामना।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -332,7 +373,7 @@
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-04-29T05:36:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/06/claudia-sheinbaum_b49dc0f1a0921a9929932ee5ce008893.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/makasakana-rashhatarapata-kaludaya-shanabma_c2e97cc0245488b35e8889eb425ae487.jpeg?w=750&dpr=1.0",
       "summary": "मेक्सिको की राष्ट्रपति ने दावा किया है कि अमेरिका ने उनके कानून का सम्मान करने का आश्वासन दिया है। मेक्सिको का बड़ा दावा, राष्ट्रपति बोलीं- अमेरिका ने हमारे कानून का सम्मान करने का दिया आश्वासन।",
       "region": "Americas",
       "language": "hi",
@@ -381,146 +422,20 @@
       }
     },
     {
-      "title": "मेटा-गूगल और टिकटॉक पर टैक्स लगाने का प्रस्ताव, पत्रकारों को मिलेगा भुगतान",
-      "url": "https://www.amarujala.com/world/australia-s-big-move-proposes-to-tax-meta-google-and-tiktok-journalists-will-get-paid-2026-04-29",
+      "title": "तेल-गैस के लिए जल्द मिले सुरक्षित समुद्री मार्ग: होर्मुज बंद होने से भारत की बढ़ी चिंता, UNSC में",
+      "url": "https://www.amarujala.com/world/passage-for-oil-gas-must-be-restored-soon-india-raises-concerns-at-unsc-over-strait-of-hormuz-2026-04-29",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-04-29T03:24:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/oisataralyaii-paema-ethana-albnaja_0b82e9b5406a81370a29f600673ff18f.jpeg?w=750&dpr=1.0",
-      "summary": "ऑस्ट्रेलिया ने मेटा, गूगल और टिकटॉक पर टैक्स लगाने का प्रस्ताव रखा है, जिससे पत्रकारों को भुगतान किया जा सके. यह प्रस्ताव इन कंपनियों से राजस्व प्राप्त करने और पत्रकारों को समर्थन देने के लिए है. इससे मीडिया क्षेत्र में नए अवसर पैदा हो सकते हैं.",
+      "published_at": "2026-04-28T20:27:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/yajana-patal_65414ed75d4e0026d49bececc392fe90.jpeg?w=750&dpr=1.0",
+      "summary": "भारत ने UNSC में होर्मुज जलडमरूमध्य के बंद होने की स्थिति में अपनी चिंता व्यक्त की है। सुरक्षित समुद्री मार्ग की आवश्यकता पर जोर दिया। यह क्षेत्र महत्वपूर्ण तेल और गैस शिपमेंट के लिए एक महत्वपूर्ण मार्ग है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मेटा-गूगल और टिकटॉक पर टैक्स लगाने का प्रस्ताव, पत्रकारों को मिलेगा भुगतान",
-          "summary": "ऑस्ट्रेलिया ने मेटा, गूगल और टिकटॉक पर टैक्स लगाने का प्रस्ताव रखा है, जिससे पत्रकारों को भुगतान किया जा सके. यह प्रस्ताव इन कंपनियों से राजस्व प्राप्त करने और पत्रकारों को समर्थन देने के लिए है. इससे मीडिया क्षेत्र में नए अवसर पैदा हो सकते हैं.",
+          "title": "तेल-गैस के लिए जल्द मिले सुरक्षित समुद्री मार्ग: होर्मुज बंद होने से भारत की बढ़ी चिंता, UNSC में",
+          "summary": "भारत ने UNSC में होर्मुज जलडमरूमध्य के बंद होने की स्थिति में अपनी चिंता व्यक्त की है। सुरक्षित समुद्री मार्ग की आवश्यकता पर जोर दिया। यह क्षेत्र महत्वपूर्ण तेल और गैस शिपमेंट के लिए एक महत्वपूर्ण मार्ग है।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "एफबीआई के पूर्व प्रमुख के खिलाफ चलेगा मुकदमा, राष्ट्रपति ट्रंप को जान से मारने की धमकी देने का आरोप",
-      "url": "https://www.amarujala.com/world/us-former-fbi-chief-james-comey-indicted-for-threatening-donald-trump-2026-04-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-29T03:06:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/us_0b46cca3dca7b3525d5d3f07846ac0d4.jpeg?w=750&dpr=1.0",
-      "summary": "एफबीआई के पूर्व प्रमुख जेम्स कोमी के खिलाफ मुकदमा चलाया जाएगा, उन पर राष्ट्रपति ट्रंप को जान से मारने की धमकी देने का आरोप है. यह मामला न्यायालय में विचाराधीन होगा और इसके परिणामों का इंतजार है. कोमी के खिलाफ यह एक गंभीर आरोप है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एफबीआई के पूर्व प्रमुख के खिलाफ चलेगा मुकदमा, राष्ट्रपति ट्रंप को जान से मारने की धमकी देने का आरोप",
-          "summary": "एफबीआई के पूर्व प्रमुख जेम्स कोमी के खिलाफ मुकदमा चलाया जाएगा, उन पर राष्ट्रपति ट्रंप को जान से मारने की धमकी देने का आरोप है. यह मामला न्यायालय में विचाराधीन होगा और इसके परिणामों का इंतजार है. कोमी के खिलाफ यह एक गंभीर आरोप है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'हम न होते तो आप फ्रेंच बोल रहे होते': ट्रंप के बड़बोलेपन पर किंग चार्ल्स का मजेदार तंज, इतिहास की",
-      "url": "https://www.amarujala.com/world/king-charles-delivers-a-witty-jibe-at-trump-boastfulness-reminding-him-of-history-news-in-hindi-2026-04-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-29T03:03:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/vahaita-hausa-ma-kaga-caralsa-iii-na-tarapa-para-kasa-taja_80b5edd8f58086b3b356f440c3e8f87b.jpeg?w=750&dpr=1.0",
-      "summary": "किंग चार्ल्स ने ट्रंप के बड़बोलेपन पर मजेदार तंज किया, कहा कि अगर कुछ नहीं होता तो आप फ्रेंच बोल रहे होते. यह टिप्पणी इतिहास की याद दिलाती है और ट्रंप की बयानबाजी पर प्रकाश डालती है. किंग चार्ल्स की टिप्पणी ने चर्चा में जगह बनाई है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'हम न होते तो आप फ्रेंच बोल रहे होते': ट्रंप के बड़बोलेपन पर किंग चार्ल्स का मजेदार तंज, इतिहास की",
-          "summary": "किंग चार्ल्स ने ट्रंप के बड़बोलेपन पर मजेदार तंज किया, कहा कि अगर कुछ नहीं होता तो आप फ्रेंच बोल रहे होते. यह टिप्पणी इतिहास की याद दिलाती है और ट्रंप की बयानबाजी पर प्रकाश डालती है. किंग चार्ल्स की टिप्पणी ने चर्चा में जगह बनाई है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "किंग चार्ल्स III का भव्य सम्मान, ट्रंप को भेंट की 82 साल पुरानी खास पनडुब्बी घंटी",
-      "url": "https://www.amarujala.com/world/king-charles-iii-and-queen-camilla-attend-state-dinner-at-white-house-hosted-by-donald-trump-2026-04-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-29T02:21:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/king-charles-iii-queen-camilla-donal-trump-and-melania-trump_eecc28480c92d40d6438dc57b0177a03.jpeg?w=750&dpr=1.0",
-      "summary": "किंग चार्ल्स III और रानी कैमिला का व्हाइट हाउस में भव्य स्वागत किया गया। उन्हें ट्रंप के साथ डिनर में देखा गया, जहां उनकी मजबूत दोस्ती दिखाई दी। यह शाही यात्रा एक महत्वपूर्ण राजनयिक अवसर था।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "किंग चार्ल्स III का भव्य सम्मान, ट्रंप को भेंट की 82 साल पुरानी खास पनडुब्बी घंटी",
-          "summary": "किंग चार्ल्स III और रानी कैमिला का व्हाइट हाउस में भव्य स्वागत किया गया। उन्हें ट्रंप के साथ डिनर में देखा गया, जहां उनकी मजबूत दोस्ती दिखाई दी। यह शाही यात्रा एक महत्वपूर्ण राजनयिक अवसर था।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "34 लाख अपील दाखिल, सिर्फ़ 1607 नाम जुड़े-प्रक्रिया पर उठे सवाल",
-      "url": "https://www.bbc.com/hindi/articles/c4g4epe0z38o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-04-29T02:05:49+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f9c/live/63ae0da0-4328-11f1-b55a-69833a1ab7a9.jpg",
-      "summary": "सुप्रीम कोर्ट के आदेश के बाद 34 लाख अपीलें दाखिल हुईं, लेकिन सिर्फ 1607 नाम जुड़े. इससे प्रक्रिया पर सवाल उठते हैं और इसकी प्रभावशीलता पर संदेह होता है. राज्य की वोटर लिस्ट से लगभग 91 लाख मतदाताओं को हटा दिया गया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "34 लाख अपील दाखिल, सिर्फ़ 1607 नाम जुड़े-प्रक्रिया पर उठे सवाल",
-          "summary": "सुप्रीम कोर्ट के आदेश के बाद 34 लाख अपीलें दाखिल हुईं, लेकिन सिर्फ 1607 नाम जुड़े. इससे प्रक्रिया पर सवाल उठते हैं और इसकी प्रभावशीलता पर संदेह होता है. राज्य की वोटर लिस्ट से लगभग 91 लाख मतदाताओं को हटा दिया गया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शीर्ष कोर्ट से खारिज टैरिफ की जगह नया शुल्क ला सकते हैं ट्रंप, जानें कर रहे क्या तैयारी",
-      "url": "https://www.amarujala.com/world/donald-trump-may-replace-tariff-rejected-by-us-supreme-court-with-new-tariffs-know-what-he-is-preparing-for-2026-04-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-29T00:41:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/20/donald-trump_5858ce40c2a0a3ef99f07948b72042b0.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी सुप्रीम कोर्ट द्वारा खारिज किए गए टैरिफ की जगह, डोनाल्ड ट्रम्प नए टैरिफ ला सकते हैं। ट्रम्प प्रशासन नए शुल्कों की तैयारी कर रहा है। यह जानकारी एक मीडिया रिपोर्ट में सामने आई है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शीर्ष कोर्ट से खारिज टैरिफ की जगह नया शुल्क ला सकते हैं ट्रंप, जानें कर रहे क्या तैयारी",
-          "summary": "अमेरिकी सुप्रीम कोर्ट द्वारा खारिज किए गए टैरिफ की जगह, डोनाल्ड ट्रम्प नए टैरिफ ला सकते हैं। ट्रम्प प्रशासन नए शुल्कों की तैयारी कर रहा है। यह जानकारी एक मीडिया रिपोर्ट में सामने आई है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "बिश्केक में रक्षा मंत्री ने की चीनी समकक्ष से मुलाकात, LAC पर शांति-पश्चिम एशिया संकट पर हुई चर्चा",
-      "url": "https://www.amarujala.com/world/rajnath-singh-bishkek-sco-meeting-china-lac-talks-s400-russia-defence-cooperation-diplomatic-talks-2026-04-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-29T00:36:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/rakashha-matara-rajanatha-saha-oura-cana-ka-rakashha-matara_046f41336e49510a57080c76bf0beeb2.jpeg?w=750&dpr=1.0",
-      "summary": "रक्षा मंत्री राजनाथ सिंह ने बिश्केक में चीनी समकक्ष से मुलाकात की। उन्होंने LAC पर शांति और पश्चिम एशिया संकट पर चर्चा की। यह बैठक SCO Summit के दौरान हुई थी।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बिश्केक में रक्षा मंत्री ने की चीनी समकक्ष से मुलाकात, LAC पर शांति-पश्चिम एशिया संकट पर हुई चर्चा",
-          "summary": "रक्षा मंत्री राजनाथ सिंह ने बिश्केक में चीनी समकक्ष से मुलाकात की। उन्होंने LAC पर शांति और पश्चिम एशिया संकट पर चर्चा की। यह बैठक SCO Summit के दौरान हुई थी।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "वीडियो गेम से लेकर राजनीतिक गुस्से तक का सफर, एलन की सोशल मीडिया पोस्ट से बड़ा खुलासा",
-      "url": "https://www.amarujala.com/world/trump-attack-case-cole-thomas-allen-social-media-posts-investigation-evidence-us-news-2026-04-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-04-28T22:58:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/hilton-hotel-shooting-attacker-planning-revealed-suspect-was-staying-at-hotel-where-trump-was-hold_fe6e8c303fc55b8a707e43c566b7a8c1.jpeg?w=750&dpr=1.0",
-      "summary": "एलन की सोशल मीडिया पोस्ट्स ने एक जांच में महत्वपूर्ण सबूत प्रदान किए हैं। इन पोस्ट्स में वीडियो गेम से लेकर राजनीतिक गुस्से तक के विषय शामिल हैं। यह जानकारी एक मीडिया रिपोर्ट में दी गई है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वीडियो गेम से लेकर राजनीतिक गुस्से तक का सफर, एलन की सोशल मीडिया पोस्ट से बड़ा खुलासा",
-          "summary": "एलन की सोशल मीडिया पोस्ट्स ने एक जांच में महत्वपूर्ण सबूत प्रदान किए हैं। इन पोस्ट्स में वीडियो गेम से लेकर राजनीतिक गुस्से तक के विषय शामिल हैं। यह जानकारी एक मीडिया रिपोर्ट में दी गई है।",
-          "region": "अमेरिका"
         }
       }
     },
@@ -557,42 +472,6 @@
           "title": "युद्ध नहीं, बातचीत-कूटनीति ही रास्ता, SCO में गूंजा भारत का मैसेज, राजनाथ का न्यू वर्ल्ड ऑर्डर पर",
           "summary": "भारत ने शंघाई सहयोग संगठन (एससीओ) में बातचीत और कूटनीति पर जोर दिया है। राजनाथ सिंह ने एक नए विश्व व्यवस्था पर बयान दिया है। यह जानकारी एक मीडिया रिपोर्ट में सामने आई है।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बांग्लादेश में मानवाधिकार ढांचे और हिरासत में यातना पर संयुक्त राष्ट्र ने जताई चिंता",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcmN3SkQ2V1JOMllhZHRzLTdSZHBxUFVMSS1SZmZ2QW5qMFk4VExrT1haYUhFdkJLcDgwTjRUeE1mMmY1cnQ5U3dxWUthNmlMTlhVS0pVODZfcDZxYVVHd1BrWXhEN0tMSWtHaGdnaFdFU0JOeHU1WGZVRnVDd0ZLMkd3N0V6TVh6YUl3VXo3YXZoR3oyQTZoWURVSDFiU0FnZlN3TXhpZEFZT1lzY3VRSUl3a3VHLW44cURQTEhDbjhHSEZNLXJF?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-28T18:29:59+00:00",
-      "image_url": "https://images.pexels.com/photos/18037410/pexels-photo-18037410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने बांग्लादेश में मानवाधिकार ढांचे और हिरासत में यातना पर चिंता जताई है। यह जानकारी एक मीडिया रिपोर्ट में दी गई है। बांग्लादेश में मानवाधिकार ढांचे और हिरासत में यातना पर संयुक्त राष्ट्र ने जताई चिंता bhaskarhindi. com।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेश में मानवाधिकार ढांचे और हिरासत में यातना पर संयुक्त राष्ट्र ने जताई चिंता",
-          "summary": "संयुक्त राष्ट्र ने बांग्लादेश में मानवाधिकार ढांचे और हिरासत में यातना पर चिंता जताई है। यह जानकारी एक मीडिया रिपोर्ट में दी गई है। बांग्लादेश में मानवाधिकार ढांचे और हिरासत में यातना पर संयुक्त राष्ट्र ने जताई चिंता bhaskarhindi. com।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रंप के ‘शांति बोर्ड’ पर साधा निशाना, अंतरराष्ट्रीय कानून को",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTU8zYXpaZE5oaE9fcExjMkFTc2gxTlRsVTFvQzdQOUczMlVVYXBIczhWWEJmamhxb3hENjBIYUtMLU5EYkszbnJDUDR0OTFOU0FTM2xZdW9pSjZjckdMNEF2OElaLWFBYUFEODIxSW9Uek5DbkNJZDdtVWtIbTFHZVhDVHI0b0dCM3JSVEFLRlRZNjJtcndJZlFob2lVWEh6a1VZa21VMjM0ZkIwakc1REszNGdMOURnaWExYjNPUjRXSDN1WFREZ2ZfbFNBSFRKLThXdzAxMU9fWU1VcVUxUGNQeFBrNjhDWGp5U18tWjBYX2V4U1JHWDUyUXFvd1N6R0xQMmNTdGI3UW5P0gGSAkFVX3lxTE5tOE9rSzZOSXp6amNKNVhwLWhfRm16dHZSVTQ3MDBjMG9sMUotQ1RlN0t4QU9wZS12VnhZTW9WdllBUXVETWVLNFplYW9KNkdscjdJaGJub00zaDhIZWhlWlRUOEJDVkF2clBEbTVWajV0Ull3Z0ktX2Z2YkRxaHowZkdSQy1xZjdsbjFWQ2MyTzJ2cEp1TlpBcTJvakZMYWcwNEg4U3IyMGJyMnN0amxmaExpaV9FY0xkd1pSYXZvN1pERVRTQmR3RFgyNlhqOVJMVC1lUENZYU9OV21sVGxiZVRkaVA1dUV6T204SUxCbzR0TXh0MDlxVF9GMWRlU0pWV2RZMjBCX0d1T18zSGtaeHc?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-28T18:15:35+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रम्प के 'शांति बोर्ड' पर निशाना साधा है। उन्होंने अंतरराष्ट्रीय कानून को लेकर चेतावनी दी है। यह जानकारी एक मीडिया रिपोर्ट में सामने आई है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रंप के ‘शांति बोर्ड’ पर साधा निशाना, अंतरराष्ट्रीय कानून को",
-          "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष ने ट्रम्प के 'शांति बोर्ड' पर निशाना साधा है। उन्होंने अंतरराष्ट्रीय कानून को लेकर चेतावनी दी है। यह जानकारी एक मीडिया रिपोर्ट में सामने आई है।",
-          "region": "अमेरिका"
         }
       }
     },
@@ -646,20 +525,128 @@
       }
     },
     {
-      "title": "'ईरान ढहने वाला नहीं, हम एक मजबूत देश': मोजतबा के प्रतिनिधि ने UN पर उठाए सवाल, बताया अमेरिकी हमलों",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ3pHN24xTUhMZDh6VzVWQkc0aFpFSi1iVzZnb1lLQ1dYME0xUVk1RG5OYkFob2tqcWxTb0NSTXJ2NGgyM0Y3ODV4X1o4UDl4eEc1NXllYUlhd2o2cWhTcC1pSkIySTZlejM2WXBrWXQxajJUV1YyaF93WmZzTktVTlJReDlfaENtNnlYeTl0cS1xem1ubm91UGVjRGZBOWszcnhrQVVTTUpJc2E0V1VoSmtaOExmSzMyT2Z2TnVyS2dxSGMyOVl1cTNyOW1QRENMRkZMR2gtWWd6YWRjVFRGVnRmTGxTREh1eGxvQnNn0gHzAUFVX3lxTE5xTnJ4aUpJNDBEZEs5MXlWQzBoakxFXzFTVEs0Skh4OGdmWmtGWWVOMHpsQXhSS1MxbWNkdU0wREx6VHppY0V4aVRWSUt6Y1FlTTVrc2tTSjF5V1VrODU2U2N2R3U5US03cXF3aFZKTnliN2RfUVVONTdjakhDb3pNc2ZMRDZtTFZpNkZ5OGNxYU11cDRQcWI0SmxvN2tCa2k5bGV0SmhjTWJteTdDNzJJMHNOMENScC1JQnBTXzlnRkVpM0gxcmQyZFJQd2R5TzRLNDNlZXM1VnMwanBtdHo4dXJjcWZYNUZkbk5VLVNCYjNDVQ?oc=5",
+      "title": "करेंसी नीति से भारत पर बढ़ रहा दबाव: खुली अर्थव्यवस्था में रुपया संभालना हुआ और मुश्किल - currency",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS19GSFhvS1lKeDk4ckZMbU1FY3BVd2JtaGFtOWdJMXo4UXgwXzZWTy1CX3ZqRnQxTEZWaEtJYnhqVjJ5ZmJpdjczMXRtbnhlQ0xWUVdrRjRSUDdPbDhBQjJ0RUpnUmpwdXFkelZZeHBfZDJNZmFVWXR4amszWVJvV0x0Zi1nMW1zOEdwQ3NaRmdlMEtlWnFOb3ptNUgzMnNQUERmODVTdHg3Vmtjd29CajhDcHNJU2tNcEF0aExDY3dRQQ?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-04-28T16:05:02+00:00",
+      "image_url": "https://images.pexels.com/photos/14907311/pexels-photo-14907311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत की खुली अर्थव्यवस्था में रुपये के मूल्य में गिरावट की समस्या बढ़ रही है। करेंसी नीति के कारण रुपये को संभालना मुश्किल हो रहा है। इससे देश पर आर्थिक दबाव बढ़ रहा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "करेंसी नीति से भारत पर बढ़ रहा दबाव: खुली अर्थव्यवस्था में रुपया संभालना हुआ और मुश्किल - currency",
+          "summary": "भारत की खुली अर्थव्यवस्था में रुपये के मूल्य में गिरावट की समस्या बढ़ रही है। करेंसी नीति के कारण रुपये को संभालना मुश्किल हो रहा है। इससे देश पर आर्थिक दबाव बढ़ रहा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "जयशंकर ने UNGA प्रमुख से की मुलाकात, प. एशिया संघर्ष समेत इन वैश्विक मुद्दों पर हुई चर्चा",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZkJQU0IxTnZrSlM0TFcxSEZRX1o4RkxZYmMyRzE1QkgwRmdXRFk4VlFQRWhGQXMwMUZqcmNGTXdXMExLREJsMm0tOTEyVnoybmFsSk1QYjlhdk8zTWx6YmMzX21sV28zYlFsVDFYc2ZNNVhQRjAzbXdFeTQwbEpzd2JJcDZPd0RnVmZ6NWkwSzIyQkx6TVdZWWJaNFZNRF93WXl2OW1RMWt0d1RJcnVqUW9oVGRXTUZzeWpXeWNiLUJrcEcySDRhMEtoTVU2bDTSAdQBQVVfeXFMT3Byb3RlQnk2YXV3SV9jcXNXTEhQSnJ5am0yN3dqd3p1SWJScVFVMUpMbFl5cHhFaGpDc3pLVnFCNVZ0VVhHY0pzckxRTE5LME9VUWVBdmdteWo3cnJxckV6WnlfaWd0eVlfa2g1Rzc4M3Z3S0Q4emZla1RZc2x0NjRiakxpNk9SdWg2R2RQNWZlRUZUWk4zT0RKRjYybHVTLWtEQlRzWGZaSjl3OWZXdTYyOVhoWGJBYlkyOFZkTjdIaGdDZjk4TlBFRFhiNUo1Q1RyREY?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-04-28T15:31:33+00:00",
-      "image_url": "https://images.pexels.com/photos/14136542/pexels-photo-14136542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान के मोजतबा के प्रतिनिधि ने UN में अमेरिकी हमलों का असली सच बताया और कहा कि ईरान ढहने वाला नहीं है, बल्कि एक मजबूत देश है. उन्होंने संयुक्त राष्ट्र पर सवाल उठाए. ईरान की स्थिति पर 국제 समुदाय की नजर है.",
+      "published_at": "2026-04-28T10:55:39+00:00",
+      "image_url": "https://images.pexels.com/photos/15470123/pexels-photo-15470123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विदेश मंत्री जयशंकर ने UNGA प्रमुख से मुलाकात की। उन्होंने पश्चिम एशिया में संघर्ष और अन्य वैश्विक मुद्दों पर चर्चा की। इस बैठक में महत्वपूर्ण मुद्दों पर बातचीत हुई। एशिया संघर्ष समेत इन वैश्विक मुद्दों पर हुई चर्चा Amar Ujala।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जयशंकर ने UNGA प्रमुख से की मुलाकात, प. एशिया संघर्ष समेत इन वैश्विक मुद्दों पर हुई चर्चा",
+          "summary": "विदेश मंत्री जयशंकर ने UNGA प्रमुख से मुलाकात की। उन्होंने पश्चिम एशिया में संघर्ष और अन्य वैश्विक मुद्दों पर चर्चा की। इस बैठक में महत्वपूर्ण मुद्दों पर बातचीत हुई। एशिया संघर्ष समेत इन वैश्विक मुद्दों पर हुई चर्चा Amar Ujala।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज की घेराबंदी और परमाणु विवाद पर क्यों अड़े हैं अमेरिका-ईरान? देखें 'कूटनीति'",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWlBrc09BNkdIam1ram9NbERBTTZGRWc1T1FwbHFjZHJOY25wMDF4cGl6NVNwQ2RMRnhuWktTb0d2NnJjYXdOS0Z1cjJ1cDhsOEdjZV9oUVNlbDFBTHQwMnA2YjNrVHZfNTNuZWZtWW84Y0RsYWU5V044ZDBDV0ZaTHdvT1B4WTBrcTBkTnhSaE12ekJwdWNRWjljYU4xc2VYWVlIVkFvUGlBb0xqRjZ1dHd1bVg1TVFmUUluMGN30gHDAUFVX3lxTE1zNUFER2NVb3pQdDZmTWxtUFk1cEJJNjFzRW1BaXJ3R2R2bmk3SFRBV2tMdklXX2o4bFR0TFIxNlFINzRGMU1ONHJ3QjBiTlo4ZHMwWGZQLU1CQ1kxNS1UTlpqNmJUVVFBWmJqZzRGZjRFWjlHeVp4QWVYbEJnSzVYeklfXzhCamRaVjV3NTlFNHZ0aXdkWHp2SmJZODFXOFpGWkpVNFY1RGduSTBHTnZqUWNVTjRLSHpmLVRyM0haVk9wYw?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-04-28T03:00:04+00:00",
+      "image_url": "https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिका और ईरान के बीच होर्मुज जलडमरूमध्य और परमाणु विवाद को लेकर तनाव बढ़ा है। दोनों देशों के बीच मतभेद बढ़ रहे हैं। यह स्थिति क्षेत्रीय और वैश्विक सुरक्षा के लिए चुनौतीपूर्ण है।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'ईरान ढहने वाला नहीं, हम एक मजबूत देश': मोजतबा के प्रतिनिधि ने UN पर उठाए सवाल, बताया अमेरिकी हमलों",
-          "summary": "ईरान के मोजतबा के प्रतिनिधि ने UN में अमेरिकी हमलों का असली सच बताया और कहा कि ईरान ढहने वाला नहीं है, बल्कि एक मजबूत देश है. उन्होंने संयुक्त राष्ट्र पर सवाल उठाए. ईरान की स्थिति पर 국제 समुदाय की नजर है.",
+          "title": "होर्मुज की घेराबंदी और परमाणु विवाद पर क्यों अड़े हैं अमेरिका-ईरान? देखें 'कूटनीति'",
+          "summary": "अमेरिका और ईरान के बीच होर्मुज जलडमरूमध्य और परमाणु विवाद को लेकर तनाव बढ़ा है। दोनों देशों के बीच मतभेद बढ़ रहे हैं। यह स्थिति क्षेत्रीय और वैश्विक सुरक्षा के लिए चुनौतीपूर्ण है।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "संयुक्त राष्ट्र में US-तेहरान में हुई जोरदार भिड़ंत, अमेरिका की एक नहीं चली, ईरान",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRjI5VjJiRl9UU01GSE82RW13dzNZNGMybDlHeXhfaDFNb3JCZzRDYVgwWV9WUWJhMXBmWGNFSFVIT1BSM2xtMmQ3TW5KRmZoMTdSaWNRYU1NNWhURDNyOW1iTkgxeVo4UzM1ZEh0NUNKNTYxQnRrZm1Sdklud1dKS0FVMEFHdlZsSWxZVDB5LXZ5V0psN2ZZbXJwekZlcXFqYXVTWdIBqgFBVV95cUxORGpqLWtEY1BZUUg3Y3BKZnVBaGRhZ3Vld2VZQ09lM1BvNjdvRXBQWTREeHNDQmNlZG03cVZzdS1tZHMxODUzM0FLWFd5Y2tTSnhJVEdEeTJjNmtTWXpqdVpRYXJybVpsemhuUUxtQ3dtakM4UVRzQlE3aW4teThVdEpLSDZiTjRvenh5U2NSMXZQMnpMY0wtNFY3TGI2cXY5QUJvb3ZUcVoxdw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-04-28T01:33:23+00:00",
+      "image_url": "https://images.pexels.com/photos/16151394/pexels-photo-16151394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र में अमेरिका और ईरान के बीच तीखी बहस हुई। दोनों देशों के बीच मतभेदों के कारण तनाव बढ़ा है। इस बैठक में महत्वपूर्ण मुद्दों पर चर्चा हुई लेकिन कोई समझौता नहीं हुआ।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संयुक्त राष्ट्र में US-तेहरान में हुई जोरदार भिड़ंत, अमेरिका की एक नहीं चली, ईरान",
+          "summary": "संयुक्त राष्ट्र में अमेरिका और ईरान के बीच तीखी बहस हुई। दोनों देशों के बीच मतभेदों के कारण तनाव बढ़ा है। इस बैठक में महत्वपूर्ण मुद्दों पर चर्चा हुई लेकिन कोई समझौता नहीं हुआ।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "युद्ध-संघर्ष... यूएन चार्टर में शांति स्थापना का जिक्र, विदेश मंत्री जयशंकर ने दुनिया के सामने रखी",
+      "url": "https://news.google.com/rss/articles/CBMi_ghBVV95cUxQVnFxajJ1REhMNTQ1MVpwYUxJQ19oalhGa0NFV3Z4SmRyZFhjRkRaVVJ0Q0c0SFpnS2FVOWVRZHVEakRDMF96S1FBRnd4NC1aVjNLYVZjeUNrRkt4UXU0bzVIZ0dLcFRTbWc0RU5fRGhkUzRWUFlhNTZJNzkzN3hyMGNIZUhXUVhYVk1vaDhxeC02ZW5jWXNITkJoV3ZDRHV5UlV2aWZWYVhGdjJLeTZKblA2Mk1zd2lTSXdNR3AyZXl3UExVZ0FnNWRBdkplSEktSko3ZURVQXNTQkpQcDlXMjFtRmZwM3gwYmlKTE9oeC04endTajYwZ0lKY05jamxEWHpvdzJyUnJRUm5TN3cxNE9BRm1PRVNmVGRraEFUbHJlcnFNc1ZuOWZGQmVpNXFDNDhUZVNOUnNtamRjU0VhWE9ObFU1MjZ4M1Z4SXpqVVVsMHY5N2I0VEpHRzJjUld4SDc1djlkWlZaUk5zUndhU2M2dTd2MzhiMnk3TVp0SFJiMHllajdPNWhtOE15RE5kX1h6MmNKbDlWVkxoQ0RsTzZKSDl3NXBHNGVZVXZPdy1hOXJsYzFOaEJqZE1fSU85UjFjZGZmVDJKOHUxSTZvZ2lieU5POWY3VGtOQ3J4VVBCSDg2d2ZfWmRiUHRDNVQ5MmpXOFloZ0Vxem5fWXJDazVzSWxIdVJUd3JfZGZNQkJWaXBVSmc4dTB5Z1l1TXBRQ1lzbUN3dDB0WDlpTGVkMVdkNUowaFBHMU1uTDFaUHFHekd2VDNMWUhRQktGdW5Xb25QekZtVFdsaGN4a3Npc3hoZzljZWpqVlRlb1FCdFloWlRrTjBWMkVPcDZxOW5sZ2VCQnJmYW5fRkpLZHA5MFhKOWoxQldIT1JsWWFuU2V1WGoxWmpLcGZYVjFUN3M4Z2lTdUFFTHlGMm5wNGgyTFZYY2V4aHpwQkMwV2dnUFdUSjVGMlZQZnJqWk5Dd2R4Rkx5eVZNODNsQnh1aVZLbWFLekkweWJaU1UwaFlEWHNydUJEUmRINjlYekxLalctX0gyUWEta2syLVd0TURPbnNEOHVsbjNEVEtPaW9MUnRmRTY0RHBHa1kzWmNOdUF5WUI5RE1YWHp2OWItbDdidUNFMlFzT1BUMnpTVkNYS19ubUlscDRQaF9IT1RtTFhvNXU5QWxQUzlIUXRMUUExdFZFV3VnOWRoaU5ubU9sb3RLRjhFZ3FRQ0Fjb3F6WU1IR3JzcUl2WXVFTGFUTnQ4bzdUWnhOSjRyaXpOMEZiQjYyckk4ZlJsaHhKaVFSRlhNdnBYRVlGYm1iMTliY2pTSDUwZ1ZqSHJWTVFiQktHSHgxVHM2dng1eVZTamVqVTVxeVBjR1Z6OEJVelBDYkdaZTlHeEJxNlNTdW1LbmhBWGwwU2RvY09oemhSWXQ3czJtakNPS1ZKUDNPVmR3emlmcUdSWEROVXhlMWdtMmYwN3owQnJjdDF1WlFqdjRQU01aUEdOVEVKRTFCNDdYUDNFTkFkNGRndDhPVGtBN01n?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-04-26T23:40:51+00:00",
+      "image_url": "https://images.pexels.com/photos/5491888/pexels-photo-5491888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विदेश मंत्री जयशंकर ने संयुक्त राष्ट्र चार्टर में शांति स्थापना का जिक्र करते हुए दुनिया के सामने 7 चिंताएं रखीं. उन्होंने युद्ध और संघर्ष के मुद्दों पर चर्चा की.",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "युद्ध-संघर्ष... यूएन चार्टर में शांति स्थापना का जिक्र, विदेश मंत्री जयशंकर ने दुनिया के सामने रखी",
+          "summary": "विदेश मंत्री जयशंकर ने संयुक्त राष्ट्र चार्टर में शांति स्थापना का जिक्र करते हुए दुनिया के सामने 7 चिंताएं रखीं. उन्होंने युद्ध और संघर्ष के मुद्दों पर चर्चा की.",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "'यह हमारी कूटनीति...', डोनाल्ड ट्रंप के भारत को नर्क कहने वाले पोस्ट पर कांग्रेस",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeHpqUi1PT3d3QWNBZzU2c3VGMFg1SmpRRkRuMlQ2SnRaQmRENjlKQWFFcXZjcTgya2xYM3dwRnpBWWVmV0E2eWozWXlOUFFnYnpYM0hTdmpZLXdwSVVCUVNSTkJDdXpDZnc3dTNCN2szeUxLSHNUZnREblRxdE5JcXNRM0hLWWxwY0tXTkdnQjF3VU5pUHVSV29sWWpfQi1JTEh1VXhCRXJENkY0T2NaMkJOMHBjTy1Hd1dZS3ZjQlFnTGx3dVNIOE9Fek5qRXJkb19Z0gHYAUFVX3lxTE9SMEVDQVpMWXVTb25aVzZXTlZYR2hmT0ZIazlKUTZfR2ZHNkl1d3lVd3BOdkVTNkJ6Nk1HdjdsMVBGNjBqUkRHa29YcDhSV3plQ0NCV2Q0Mmo5enF1X3J4MXNMMGk5TG9WZ1RhRkJHYnRIMG5yTHNUa0JVVlNWdEtob1NfS3VVZ19MUF91SUdkenlaT1Q1U2lvYzJCMTk0dVFqNmJmbU5kbTFQVzNpSVkwSzF5UV9FSHJwTGx4MnpHN1JBR3RYaXljd1QxTHJPOXpsU2hxcUdmdg?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-04-26T17:46:27+00:00",
+      "image_url": "https://images.pexels.com/photos/18359749/pexels-photo-18359749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "कांग्रेस ने डोनाल्ड ट्रंप के भारत को नर्क कहने वाले पोस्ट पर प्रतिक्रिया दी. कांग्रेस ने कहा कि यह हमारी कूटनीति को नुकसान पहुंचाता है. 'यह हमारी कूटनीति ', डोनाल्ड ट्रंप के भारत को नर्क कहने वाले पोस्ट पर कांग्रेस ABP News।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'यह हमारी कूटनीति...', डोनाल्ड ट्रंप के भारत को नर्क कहने वाले पोस्ट पर कांग्रेस",
+          "summary": "कांग्रेस ने डोनाल्ड ट्रंप के भारत को नर्क कहने वाले पोस्ट पर प्रतिक्रिया दी. कांग्रेस ने कहा कि यह हमारी कूटनीति को नुकसान पहुंचाता है. 'यह हमारी कूटनीति ', डोनाल्ड ट्रंप के भारत को नर्क कहने वाले पोस्ट पर कांग्रेस ABP News।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कूटनीति से लेकर सीमा सुरक्षा तक भारत की बड़ी रणनीति, समझें दिनेश त्रिवेदी को बांग्लादेश का",
+      "url": "https://news.google.com/rss/articles/CBMi5AlBVV95cUxQTTBjdEVKbFFvQkhJcXZqTTN3WVczUXctWGJqUVB6UEtOdkcydWhNRENFbUoxdmFqeEpoNm93djRhWE52MmpxdUFqSGZ1QTZDS0xmVUZNVkRVNUhYcnlHWW9ZVHlIQ3BBdmZPVHRSM3h6S3E5Yi1jaDBDdm93LWtzdmI1dWp3c2J1TndidThCS2EzM3JHemMzYU9VS2xaOTVjNFhaUWRUclJDQ2dOT0g5MHFHa1JpQklhSW9yOXY2c3R3MGUtb0tPcGtoQmV2ZmwxMTJYcEJKUWRfR0ttNnZXMFgtcURyRGN0V1BKeThiWnUxNHNycTFGVmdjUkJJZ1BWZnk4TExJUGJrcVZ3MDdyZGVqUHRpSVU3cFF0NXM4ZWthTUFJdXJPajZLcnBpNGtCb0V3WjFlUmpEVF82dV9UM01jM2xWZTg1bXJVNUI1WC1MQmt4WmdJT0t6clhiRXNMVU11bS1acDlybXZhbG1VQTRJSDd1b1RDQkJtTjF5TUZaNU41SXNZak1qYjZNdmN1YnZDV2kyaW1Lano2N2p0VFBZT05vRnd6RnBXcjNZcllvZ3AtRlFSLTN3ZFBnLXJUdjFuSHVzRUZ1WGxFWk5EZHlpY29yR1o2bXJHTWhoSFhaOTVrWWVfWXl4Qk9fMDBfQ0RpMXpDNFByMUpyR2tuVVExbzkycE9wVkxrVU5KUlBjT2xaZWZwWUlEOUswTmJ1LVVNRk53cjBOalljZVJSS0ladUd2aWVxVWpWVDB2aUdyRDZtZWJLckYyeEFsX3IzUFY5V0VkQ0w5WkJ5M1Jxdmg3YmxtN2ZzWUFBMERMaU1MMlYtekVndjB4Sl9LbVB5dG9xVTk3YTY0OGsxbHNFSjdLX01LNHNON2ktT3pJZWVPQWJ4X2wzdFpRd1lNNlVVUDYwQ3JjUHlRT3pDMDNucWZBYUV6cVhwSGVjNEIzaERUV09HSEpGLVFCY0dYZ0dnNTVoWmpOWUNMWmg2OGpSaHl0M2hqTWxnNXF5Yk1ld2dMYTFfOGctRVVVbzVJRDJRZ2tERmtnN1BYU2JxNWZ0MmlnNTdLSGxwREh0aFQ3TGtKOW5PWkI1OWphR1hlS0VZdkRtQjc1THEtT25PTkZxajNLcEd2ZzFQd0tuR2dpWGFoUmJIcnJWY29uLTJ4ZUN1MW9ZNDhfWEp6SUtZOEs1dWhLRFg4V1NDcWsyV2NjVHZvX1BPLVFJMFZObGQwTGw0a05VRzZsU3BtOFBSOEk5N0RtRkIwV3pxUkhGT0J3QTZxYmdNSmlOeXpmb0EwYm1ZaVphR2p1enJPZXFrSWlwUm04U0NPVXozNHlEZG5CNW10RkJjR0E1SWlua3VUbjBKRE9tWTF3ZWU1QXRKbVotMTFtQ2VMT3dzZXFQRE00ZmZjbEpTbEhzNERSb2tDaVFjR3lwSTFhZjU2TG82Vmpyc1ltQ1FfRDN3RmpxWm1CaXZtbmF1ZHowVnRpc3E0SDJ0TzltSzQ1WVFwcTRXT2hBcGtGdWgxZndGci1VaEhUazEwb3QyS3NfemZvd1pQQnJISmNZOGVvckxDenpiSllHejNDNkVhWm43U2k2SjkzUzh4NjFBQUg3RXZnMjJsNkxqbDRNVkI1MEpjVDdEY21tVGFYTUp3eXc5aHY4YVFtdTE2ODE1?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-04-26T17:30:27+00:00",
+      "image_url": "https://images.pexels.com/photos/25310895/pexels-photo-25310895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "दिनेश त्रिवेदी को बांग्लादेश का उच्चायुक्त बनाया गया है. यह नियुक्ति कूटनीति और सीमा सुरक्षा के मामले में भारत की बड़ी रणनीति का हिस्सा है. कूटनीति से लेकर सीमा सुरक्षा तक भारत की बड़ी रणनीति, समझें दिनेश त्रिवेदी को बांग्लादेश का उच्चायुक्त बनाए जाने के मायने MSN।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कूटनीति से लेकर सीमा सुरक्षा तक भारत की बड़ी रणनीति, समझें दिनेश त्रिवेदी को बांग्लादेश का",
+          "summary": "दिनेश त्रिवेदी को बांग्लादेश का उच्चायुक्त बनाया गया है. यह नियुक्ति कूटनीति और सीमा सुरक्षा के मामले में भारत की बड़ी रणनीति का हिस्सा है. कूटनीति से लेकर सीमा सुरक्षा तक भारत की बड़ी रणनीति, समझें दिनेश त्रिवेदी को बांग्लादेश का उच्चायुक्त बनाए जाने के मायने MSN।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
