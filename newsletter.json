@@ -1,20 +1,164 @@
 {
-  "generated_at": "2026-05-01T06:39:59.768174+00:00",
+  "generated_at": "2026-05-01T09:05:09.781285+00:00",
   "article_count": 42,
   "total_unique_count": 256,
   "digest": {
-    "en": "The White House says a truce has delayed a 60-day deadline. Hezbollah is using fibre-optic drones, widely used in Ukraine's war, in its operations. A Russian attack damaged port infrastructure in Ukraine's Odesa region, the governor reported.",
-    "hi": "चीन की एक कोर्ट ने एक ऐतिहासिक फैसले में कहा कि कंपनियां एआई के बहाने कर्मचारियों को नौकरियों से नहीं निकाल सकती हैं। यह फैसला चीन में बढ़ते एआई उपयोग और कर्मचारी अधिकारों के बीच संतुलन बनाने की कोशिश के रूप में देखा जा रहा है।"
+    "en": "Myanmar's government moved Aung San Suu Kyi to house arrest. The move comes as the country tries to rehabilitate its image. Israel struck southern Lebanon, killing civilians, despite a ceasefire.",
+    "hi": "यूएई ने बदलती ऊर्जा कूटनीति के दौर में एक बड़ा दांव खेला है। राष्ट्रपति ट्रंप ने कम आय वालों को सरकार से 1,000 डॉलर तक का मैचिंग देने का नया कार्यकारी आदेश जारी किया है। प्रधानमंत्री ने भारत की कूटनीति में व्यापार, प्रौद्योगिकी और पर्यटन पर फोकस करते हुए 3टी का नारा दिया है।"
   },
   "articles": [
     {
-      "title": "White House says truce delays 60-day deadline",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPem9Leldkd0dhMllEWWhPdE5qaDY5VVJYRGZCVEYwa20wOURSb0JscGk0d0FXVWV1VGljd1ZHeE5ZeDl5WHhEOXgxd3hVamhTT3h2eGIxM3EwbjlTc3I5WExHRkN0VkRqLUNpUTFPWDVQMDZ1UkpMSm0wenRVYWwtSDhqU1NSblB1RFptZ1FQYmVxZ2VQclZBM2YtSk9nT2FvSUZDNDF0OVNOQVU?oc=5",
+      "title": "Myanmar attempts to rehabilitate image with Suu Kyi move",
+      "url": "https://www.npr.org/2026/05/01/nx-s1-5807098/myanmar-suu-kyi-house-arrest",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-05-01T08:30:26+00:00",
+      "image_url": "https://images.pexels.com/photos/11185514/pexels-photo-11185514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Myanmar's state television announced that Aung San Suu Kyi has been transferred from prison to house arrest, over five years after the military coup that removed her from power. This move is seen as an attempt to rehabilitate the country's image.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-01T08:12:04+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dba/live/9d4a5520-44c0-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "Israeli strikes on southern Lebanon killed 17 people, including two children, according to Lebanon's health ministry. The strikes occurred despite a ceasefire agreement in place. Seventeen people - including two children - were killed, according to Lebanon's health ministry.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Kim Jong-un praises North Korean troops who self-detonated to avoid capture in Ukraine war",
+      "url": "https://indianexpress.com/article/world/kim-jong-un-praises-north-korean-troops-who-self-detonated-to-avoid-capture-in-ukraine-war-10665669/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-01T08:11:48+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/kim-jong_20260501080506.jpg",
+      "summary": "North Korean leader Kim Jong-un praised troops who self-detonated to avoid capture while fighting in Ukraine. The incident was reported by state media, highlighting the involvement of North Korean troops in the conflict.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran activates air defences as White House says ceasefire paused Congress deadline",
+      "url": "https://www.channelnewsasia.com/world/iran-war-white-house-ceasefire-congress-deadline-6094196",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-01T08:11:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--vpxgf_pF--/c_crop,h_3164,w_5626,x_0,y_374/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/01/000_a9b88lz.jpg?itok=t8MUHJAe",
+      "summary": "Iran activated air defences for around 20 minutes, according to Tasnim and Fars news agencies. The situation returned to normal shortly after, amid a reported pause in ceasefire talks and a looming US Congressional deadline.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ukraine begins to flex muscle as an emerging air power, angering Russia",
+      "url": "https://www.aljazeera.com/news/2026/5/1/ukraine-begins-to-flex-muscle-as-an-emerging-air-power-angering-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-01T08:02:57+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-30T091835Z_812998143_RC2KZKA3OA7T_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA-1777549493.jpg?resize=1920%2C1440",
+      "summary": "Ukraine has begun conducting air attacks, prompting Russian officials to urge vigilance and label the actions as terrorism. The developments have strained tensions between the two nations, with Russia responding to Ukraine's emerging air power.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UK police charge man over stabbing of two Jewish men in London",
+      "url": "https://www.aljazeera.com/news/2026/5/1/uk-police-charge-man-over-stabbing-of-two-jewish-men-in-london?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-01T08:01:23+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-29T123946Z_1987017304_RC20ZKAST496_RTRMADP_3_BRITAIN-CRIME-1777466884.jpg?resize=1920%2C1440",
+      "summary": "A man has been charged by UK police for stabbing two Jewish men in London. British officials have raised the national terrorism threat to its second-highest level following the incident.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran war redraws sea routes with Africa as the pivot",
+      "url": "https://www.channelnewsasia.com/world/iran-war-redraws-sea-route-africa-pivot-6094181",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-01T07:53:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--ML5diGvk--/c_crop,h_900,w_1600,x_0,y_166/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/01/2026-04-23t154522z_1553081278_rc20vka4kokc_rtrmadp_3_safrica-ports.jpg?itok=yaaKqbNA",
+      "summary": "The Red Sea conflict has rerouted 70 percent of 2023's freight traffic via the Cape of Good Hope in South Africa. A supply chain expert reported this significant shift in sea routes.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran President Wants To Sack Foreign Minister Amid US Talks? What Report Said",
+      "url": "https://www.ndtv.com/world-news/iran-us-war-news-iran-president-masoud-pezeshkian-ghalibaf-want-to-sack-foreign-minister-abbas-araghchi-amid-us-talks-what-report-said-11434960#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-01T07:52:54+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/g9f6c4p4_iranian-leadership_625x300_01_May_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Iranian President Pezeshkian plans to fire Foreign Minister Araghchi if he continues to act on the IRGC's instructions. This move comes amid US talks and internal power struggles. Pezeshkian has told his associates he will fire Araghchi if he continues acting on IRGC's instriction.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran vows ‘long, painful’ response if US renews attacks",
+      "url": "https://www.aljazeera.com/news/2026/5/1/iran-vows-long-painful-response-if-us-renews-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-01T07:32:57+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-29T174412Z_1117774340_RC21ZKAQXY3N_RTRMADP_3_IRAN-CRISIS-1777503392.jpg?resize=1920%2C1440",
+      "summary": "Iran has vowed a \"long, painful\" response if the US renews attacks. Diplomatic efforts have stalled, with a ceasefire in place since April 8. Diplomatic efforts to resolve the conflict have hit an impasse, with a ceasefire in place since April 8.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Administration Says War 'Terminated' Before 60-day Deadline",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdV8tZ3RsM3pTTFJkdDdZSVpWczY2MDFzS2F6LVFlRF90enJtSVJ2RnlXN0hMcVBFSU5Ya09JMTA2ODN0Z3d0RGp2TWhaRzd3NGE1dVgtTFk1YVJxNEE3WjNERVYwaHNHUUZheXh1UTB1YWRzdGV3ZG9fLVBiajlTTW1SVXZvRE5QTXVTNDBXaFBMOXQxMUdwRTJDV1MzYUtVWWVCMjIzb3ZDRjZxSTAtZmZ3QmgweVd5a3NMNXlMM1VfSnJkV2RyVVJxTVVvQdIB1gFBVV95cUxOMWpXMTh6Q2wyZVppYTQ2Nm9RbHBNWURENjVqY0hKeVB1cWpHY2hiWGNhT3RiTU9sNDdUMHNuSzlaanZKQ3l5bHBVTkhpWWV1WktFNE8zTi14dF9jYjdqVEhHUGkzd1o1MGMzQUJlVG5UQnlXcnkzS1hpLXJzcEMxajh0bXFFWlR6elFWUzFIS0I2X043X1lCMHF2RzRvcWpkcElTdVgyZHExbmJnNjlfSmozcXRIZUtZODV6S2thclhVODZyYzEyOVBDMlU3bXJZaVNaSW9n?oc=5",
       "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-05-01T06:21:10+00:00",
-      "image_url": "https://images.pexels.com/photos/14320543/pexels-photo-14320543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The White House delayed a 60-day deadline due to a truce in the Iran war. Iran war: White House says truce delays 60-day deadline DW. com.",
+      "published_at": "2026-05-01T06:33:00+00:00",
+      "image_url": "https://images.pexels.com/photos/5854416/pexels-photo-5854416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The Trump Administration declared that the war with Iran had \"terminated\" before the 60-day deadline. This update was provided in a live news report on NDTV. US Iran Ceasefire News LIVE: Trump Administration Says War 'Terminated' Before 60-day Deadline NDTV.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "What do Ukraine’s robot soldiers mean for the future of warfare?",
+      "url": "https://www.aljazeera.com/news/2026/5/1/what-do-ukraines-robot-soldiers-mean-for-the-future-of-warfare?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-01T06:29:29+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/epa_69f308d82c63-1777535192_f76ae2-1777537067.jpg?resize=1200%2C630&quality=80",
+      "summary": "Ukraine's military is testing AI-powered robots on the battlefield, allowing them to make decisions independently. The robots can detect and engage targets, marking a significant shift in the use of remote-controlled weapons.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "On May Day, Gaza’s workers find whatever source of income they can",
+      "url": "https://www.aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-01T06:21:31+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/873A9713-1777576366.jpg?resize=1920%2C1440",
+      "summary": "Gaza's workers face dire economic conditions on May Day, with unemployment soaring due to the ongoing devastation. Many are forced to take perilous jobs to survive, as the economic collapse leaves them with limited options.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Top Iranian officials seeking removal of Foreign Minister Abbas Araghchi, says report",
+      "url": "https://indianexpress.com/article/world/iran-foreign-minister-abbas-araghchi-removal-pezeshkian-irgc-nuclear-talks-10665345/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-01T06:15:31+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/Abbas-Araghchi.jpg",
+      "summary": "Top Iranian officials are reportedly seeking the removal of Foreign Minister Abbas Araghchi, according to a recent report. The move could signal a significant change in Iran's diplomatic strategy, but details remain unclear at this time.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -39,18 +183,6 @@
       "published_at": "2026-05-01T05:59:56+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/r7193z/article70927654.ece/alternates/LANDSCAPE_1200/2026-04-30T151035Z_1232031525_RC2TEKAA468X_RTRMADP_3_UKRAINE-CRISIS-MILITARY-ROTATION.JPG",
       "summary": "Hezbollah is using fibre-optic drones, which are hard to jam, in the war. Fibre-optic drones have a thin cable that connects an operator directly to the drone, making it impossible to electronically jam.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US Prepping Iran Attack Again? 6,500-Tonne Munitions Sent To Israel In 24 Hours",
-      "url": "https://www.ndtv.com/world-news/iran-us-war-us-prepping-iran-attack-again-6-500-tons-of-munitions-sent-to-israel-in-24-hours-11434513#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-01T05:53:57+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/bkd812p4_iran-us-israel-war_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The US sent 6,500 tonnes of munitions to Israel in 24 hours, amid Iran tensions. CENTCOM has prepared a new plan for a military action against Iran. US Prepping Iran Attack Again?",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -104,18 +236,6 @@
       "translations": {}
     },
     {
-      "title": "The Venice Biennale jury resigns amid tensions over awards ban, Russian participation",
-      "url": "https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-05-01T05:19:17+00:00",
-      "image_url": "https://images.pexels.com/photos/36393800/pexels-photo-36393800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The international jury of the Venice Biennale resigned amid tensions over Russia's participation and a decision to ban prizes for countries accused of crimes against humanity. The jury's resignation was a result of disagreements over the festival's policies.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal",
       "url": "https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal",
       "source": "NPR World",
@@ -128,187 +248,157 @@
       "translations": {}
     },
     {
-      "title": "Amid Koh-i-Noor remark, Mamdani facing criticism over ‘rude’ welcome to King Charles III",
-      "url": "https://www.thehindu.com/news/international/amid-koh-i-noor-remark-mamdani-facing-criticism-over-rude-welcome-to-king-charles-iii/article70927491.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-01T04:58:43+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/25ucu6/article70927519.ece/alternates/LANDSCAPE_1200/US_Britain_Royal_Visit_33396.jpg",
-      "summary": "New York City Mayor Zohran Mamdani is facing criticism for a perceived lack of decorum during King Charles III's visit. A New York Post editorial board member accused Mamdani of lacking maturity and humility in his welcome for the British monarch.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russia's Tuapse Faces Toxic Aftermath Of Ukrainian Attacks On Refinery",
-      "url": "https://www.ndtv.com/world-news/russias-tuapse-faces-toxic-aftermath-of-ukrainian-attacks-on-refinery-11433123#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-01T04:16:15+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/3d6blnmg_tuapse_625x300_01_May_26.jpeg",
-      "summary": "Ukrainian forces have struck a refinery in Tuapse, Russia, causing a toxic aftermath. The strikes are part of Kyiv's intensified pressure on Russia in recent weeks. The strikes show Kyiv's plan to intensify pressure within Russia in recent weeks.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "'Fix Your Broken Country': Trump Says German Chancellor Doing \"Terrible Job\"",
-      "url": "https://www.ndtv.com/world-news/fix-your-broken-country-us-president-donald-trump-says-german-chancellor-friedrich-merz-doing-terrible-job-11433918#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-01T04:13:19+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/8fsq3k5_donald-trump_625x300_01_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Former US President Donald Trump has criticized German Chancellor Olaf Scholz for his handling of the Russia-Ukraine conflict. Trump urged Scholz to focus on resolving the crisis. Trump said Metz should focus on the Russia-Ukraine conflict.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
       "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sources": [],
       "published_at": "2026-05-01T04:11:53+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2031/live/852957f0-44b3-11f1-ac78-2112837ce2aa.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f6/live/fc5303a0-4538-11f1-ac78-2112837ce2aa.jpg",
       "summary": "Myanmar's military has moved Aung San Suu Kyi to house arrest. The Nobel Peace Prize laureate has been in detention since her ouster in a military coup in 2021. The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "US Man Executed For Killing Brother's Teen Stepdaughter Nearly 50 Years Ago",
-      "url": "https://www.ndtv.com/world-news/us-man-executed-for-killing-brothers-teen-stepdaughter-nearly-50-years-ago-11433906#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "बदलती ऊर्जा कूटनीति के दौर में यूएइ का दांव",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOODhuMFFsb3B2SmJDM09sVGtUZnBta28tZEVYMWhLR3hrX0Nsb3ZxNUxZQ2s5NWo2U0ptZDJXSXhjSURkbk10RVlXOWZ2Z3BUUnpxR2xGQWg4MUZHZW1pTTZVRGNreWRIbFFBREk1QWZ5NHB2S082dzI2OFR4QzFuakhWQldmQdIBiwFBVV95cUxPUlZMSGJlclhxR3dWQjJYdEZFdmlBVnRjY1BqallFYmtEQzg2NGVHdy1xcHBwWlBRQTYxTWc1NjVVTEk1OTdSTXZHdE5ld1dqQy1ONl9KNzFFVWhhZVU3Ty1MdzU5bnhienFpUm41TzJGUGVxS2dBenFqREVLRmUyalAtN3ZaQUwxVWh3?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
       "sources": [],
-      "published_at": "2026-05-01T04:08:34+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/4gitukcg_florida-execution_625x300_01_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "summary": "A US man, 20-year-old Hitchcock, was executed for killing his brother's 14-year-old stepdaughter nearly 50 years ago. Hitchcock had moved into his brother's home weeks before the killing. Hitchcock, then 20 and unemployed, had moved into his brother's home weeks before the killing.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-01T07:09:37+00:00",
+      "image_url": "https://images.pexels.com/photos/11047831/pexels-photo-11047831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त अरब अमीरात ने बदलती ऊर्जा कूटनीति के दौर में एक नया दांव लगाया है। इसके विवरण के बारे में जानकारी नहीं दी गई है। यह एक रणनीतिक कदम है।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बदलती ऊर्जा कूटनीति के दौर में यूएइ का दांव",
+          "summary": "संयुक्त अरब अमीरात ने बदलती ऊर्जा कूटनीति के दौर में एक नया दांव लगाया है। इसके विवरण के बारे में जानकारी नहीं दी गई है। यह एक रणनीतिक कदम है।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
     },
     {
-      "title": "Violence in Australian town after arrest of man over girl's murder",
-      "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "राष्ट्रपति ट्रंप ने जारी किया नया कार्यकारी आदेश, कम आय वालों को सरकार देगी 1,000 डॉलर तक का मैचिंग",
+      "url": "https://www.amarujala.com/world/president-trump-issues-new-executive-order-government-to-provide-matching-funds-low-income-earners-2026-05-01",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-01T04:08:19+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7443/live/e4c26360-44da-11f1-ac78-2112837ce2aa.jpg",
-      "summary": "Unrest occurred outside a hospital in an Australian town where a man suspected of murdering a five-year-old girl was being treated. The violence followed his arrest. Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "First direct US-Venezuela flight in 7 years lands in Caracas",
-      "url": "https://www.dw.com/en/first-direct-us-venezuela-flight-in-7-years-lands-in-caracas/a-77006846?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-01T04:02:00+00:00",
-      "image_url": "https://static.dw.com/image/77006982_6.jpg",
-      "summary": "A direct flight from the US landed in Caracas, Venezuela, for the first time in seven years. This follows the US reopening its embassy in Caracas last month. The direct flight comes a month after the US formally reopened its embassy in Caracas following the kidnapping of President Nicolas Maduro in January.",
+      "published_at": "2026-05-01T06:27:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/01/rashhatararapata-danalda-tarapa_35df6d054e077c4117ec71641913b02b.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक नया कार्यकारी आदेश जारी किया है। इसके तहत कम आय वाले लोगों को सरकार 1,000 डॉलर तक का मैचिंग फंड प्रदान करेगी। यह आदेश आर्थिक सहायता के लिए है।",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran war may cause food shortages in Africa, world’s largest fertiliser firm says",
-      "url": "https://www.theguardian.com/business/2026/may/01/iran-war-may-cause-food-shortages-in-africa-world-largest-fertiliser-firm-yara-says",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-01T04:00:37+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/72572e4531d8b96763219808cc31193fb6123299/178_3_1122_897/master/1122.jpg?width=140&quality=85&auto=format&fit=max&s=80e87dda2be63ded51f96867ffe910dc",
-      "summary": "Yara International CEO Svein Tore Holsether warned that an Iran war could cause food shortages in Africa's poorest communities. He cited a potential global fertiliser auction that would leave them struggling.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Freight forwarders in Singapore see profits fall 20% as Middle East conflict drives up costs",
-      "url": "https://www.channelnewsasia.com/singapore/freight-fowarders-profits-fall-middle-east-conflict-costs-6093841",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-01T03:58:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s---VvH_Vy6--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-03-12T151650Z_1_LYNXMPEM2B10J_RTROPTP_3_SINGAPORE-ECONOMY-CENBANK.JPG?itok=dL2scsyb",
-      "summary": "Singapore's freight forwarders see profits fall 20% due to the Middle East conflict. Rerouted shipments and higher fuel prices squeeze margins, prompting some to introduce new fees. Rerouted shipments and higher fuel prices are squeezing margins, with some companies introducing new fees to stay afloat.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Urban farming providers in Singapore see rise in micro-garden demand",
-      "url": "https://www.channelnewsasia.com/singapore/urbam-farming-singapore-rise-micro-garden-demand-6093771",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-01T03:42:59+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--w6NXkdRL--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/01/urbanfarms-1.png?itok=NwLJ2ryp",
-      "summary": "Demand for micro-gardens in Singapore rose, with some urban farming solution providers reporting a 30% increase. More schools, companies, and community spaces are hosting small gardens. More schools, companies and community spaces are hosting small gardens, with some solution providers reporting up to a 30 per cent increase in demand.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "PM Wong pledges 'new and better' jobs as AI disrupts industries, transforms economy",
-      "url": "https://www.channelnewsasia.com/singapore/may-day-rally-lawrence-wong-new-better-jobs-ai-6093801",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-01T03:07:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--0aHmiBQF--/c_crop,h_900,w_1600,x_0,y_70/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/01/sya_1517.jpg?itok=uMWn28r1",
-      "summary": "Prime Minister Lawrence Wong pledged to create new jobs as AI disrupts industries. He said every worker will be protected. “We may not be able to protect every job. But we will protect every worker,” said Prime Minister Lawrence Wong.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "एआई के बहाने कर्मचारियों को नौकरियों से नहीं निकाल सकती कंपनियां, चीन की कोर्ट का एतिहासिक फैसला",
-      "url": "https://www.amarujala.com/technology/tech-diary/ai-is-not-an-excuse-for-layoffs-historic-chinese-court-ruling-protects-workers-2026-05-01",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-01T06:39:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/01/sarafa-eaaii-ka-haval-thakara-karamacaraya-ka-nakara-sa-naha-nakal-sakata-kapanaya_874b5ac0480006180834fa048d934c6a.jpeg?w=750&dpr=1.0",
-      "summary": "चीन की एक अदालत ने फैसला सुनाया है कि कंपनियां एआई के बहाने कर्मचारियों को नौकरियों से नहीं निकाल सकती हैं। यह फैसला कर्मचारियों को राहत देने वाला है। अदालत ने इस मामले में एक ऐतिहासिक निर्णय लिया है।",
-      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "एआई के बहाने कर्मचारियों को नौकरियों से नहीं निकाल सकती कंपनियां, चीन की कोर्ट का एतिहासिक फैसला",
-          "summary": "चीन की एक अदालत ने फैसला सुनाया है कि कंपनियां एआई के बहाने कर्मचारियों को नौकरियों से नहीं निकाल सकती हैं। यह फैसला कर्मचारियों को राहत देने वाला है। अदालत ने इस मामले में एक ऐतिहासिक निर्णय लिया है।",
-          "region": "एशिया-प्रशांत"
+          "title": "राष्ट्रपति ट्रंप ने जारी किया नया कार्यकारी आदेश, कम आय वालों को सरकार देगी 1,000 डॉलर तक का मैचिंग",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक नया कार्यकारी आदेश जारी किया है। इसके तहत कम आय वाले लोगों को सरकार 1,000 डॉलर तक का मैचिंग फंड प्रदान करेगी। यह आदेश आर्थिक सहायता के लिए है।",
+          "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "गुजरात का 66वां स्थापना दिवस, राष्ट्रपति द्रौपदी मुर्मू से लेकर प्रधानमंत्री ने दी शुभ",
-      "url": "https://www.amarujala.com/india-news/gujarat-66th-foundation-day-greetings-pour-in-from-president-droupadi-murmu-to-the-prime-minister-2026-05-01",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-01T06:37:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/01/gujarat-foundation-day-2026_ffd69ceed8e1dd07932a7b0888c0d1b7.jpeg?w=750&dpr=1.0",
-      "summary": "गुजरात के 66वें स्थापना दिवस पर सूरत में एक समारोह आयोजित किया गया था। राष्ट्रपति द्रौपदी मुर्मू और प्रधानमंत्री नरेंद्र मोदी समेत कई नेताओं ने राज्य के योगदान और संस्कृति की सराहना की।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गुजरात का 66वां स्थापना दिवस, राष्ट्रपति द्रौपदी मुर्मू से लेकर प्रधानमंत्री ने दी शुभ",
-          "summary": "गुजरात के 66वें स्थापना दिवस पर सूरत में एक समारोह आयोजित किया गया था। राष्ट्रपति द्रौपदी मुर्मू और प्रधानमंत्री नरेंद्र मोदी समेत कई नेताओं ने राज्य के योगदान और संस्कृति की सराहना की।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पश्चिम एशिया में लंबे युद्ध की तैयारी कर रहा यूएस, अमेरिकी सेना की तस्वीरों ने बढ़ाई चिंता",
+      "title": "पश्चिम एशिया में लंबे युद्ध की तैयारी कर रहा यूएस, भेजा 6500 टन गोला-बारूद; तस्वीरों ने बढ़ाई चिंता",
       "url": "https://www.amarujala.com/world/iran-israel-war-us-military-prepare-for-long-war-issue-photos-2026-05-01",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-01T06:20:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/12/05/us-army_579b7acf4dead106ae90f1d79ad35746.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/01/us-iran-israel-war_7a78eb3295ddda567740bb45d4f565c2.jpeg?w=750&dpr=1.0",
       "summary": "अमेरिकी सेना ने पश्चिम एशिया में लंबे युद्ध की तैयारी के संकेत दिए हैं। जारी तस्वीरों ने चिंता बढ़ा दी है। अमेरिका की इस तैयारी से क्षेत्र में तनाव बढ़ सकता है।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पश्चिम एशिया में लंबे युद्ध की तैयारी कर रहा यूएस, अमेरिकी सेना की तस्वीरों ने बढ़ाई चिंता",
+          "title": "पश्चिम एशिया में लंबे युद्ध की तैयारी कर रहा यूएस, भेजा 6500 टन गोला-बारूद; तस्वीरों ने बढ़ाई चिंता",
           "summary": "अमेरिकी सेना ने पश्चिम एशिया में लंबे युद्ध की तैयारी के संकेत दिए हैं। जारी तस्वीरों ने चिंता बढ़ा दी है। अमेरिका की इस तैयारी से क्षेत्र में तनाव बढ़ सकता है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत की कूटनीति में व्यापार, प्रौद्योगिकी और पर्यटन पर फोकस, प्रधानमंत्री ने 3टी का दिया नारा",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbl9PUkZ4WHdCR2hkSGVvQ0ZFUkREZzVOU2tHQnlfeEdrTGx4SnRYRXlWNXdHRmtfbHZFY0VxaDV5ajhoWGpENnNTdkRYQnIxczBGSmZ6dTlreDhvcmlvaW4xWlg2UE5BcTU4Z2E1TWpkSnQtUHVncDdTVDdwLVpDYXpQNkpYbXhYcmE5U1hxeGtsVWpGT3liNXpjd3FpZmFKcmlFOVVxSDdTT3lRMnlfLTBDTXJjWnFSbHhnWVBOYzZuYUMyOEtWRWd1YnNkQWxTSUItd2RNelFkdk1xejhN0gHkAUFVX3lxTFBRVHN6MHhwR0lvaXdmNU5LS1BRLTZtWk1ndDVoT09tNXU5TTdKMjRHeDdVcjREZXR5LUZuandJckdWMEQ5b1FlUTkxdVFBSm1LS1FCMVk2d2xWb3kxOHRRN0JLVDU5anhEMWFpOGdPQmdXMlB3TS1uWVFDb2FqYWFRTHoxeE5RaTVORjd5YWZqb0dNbGxzNl9GcDlLa1BRelZPR01nTEtISldmSTB0Zk92SWFFWkRVNFdaV05qSHVFZTVzbElocHMxNGxxOE1SOUtTdkEyNTd1WDVEMk5HbGpVQjFFeg?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-01T06:07:15+00:00",
+      "image_url": "https://images.pexels.com/photos/7362514/pexels-photo-7362514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत के प्रधानमंत्री ने कूटनीति में व्यापार, प्रौद्योगिकी और पर्यटन पर जोर दिया है। उन्होंने 3टी का नारा दिया है। इसका उद्देश्य भारत की कूटनीतिक रणनीति को मजबूत करना है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत की कूटनीति में व्यापार, प्रौद्योगिकी और पर्यटन पर फोकस, प्रधानमंत्री ने 3टी का दिया नारा",
+          "summary": "भारत के प्रधानमंत्री ने कूटनीति में व्यापार, प्रौद्योगिकी और पर्यटन पर जोर दिया है। उन्होंने 3टी का नारा दिया है। इसका उद्देश्य भारत की कूटनीतिक रणनीति को मजबूत करना है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "स्कूल अध्यापिका ने नाबालिग छात्र का किया यौन शोषण, अदालत ने सुनाई 15 साल की सजा",
+      "url": "https://www.amarujala.com/world/us-prep-school-teacher-jailed-for-getting-physical-with-minor-student-she-tutored-2026-05-01",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-01T05:35:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/18/judge-court-hathaugdha_09f2735a904ec83234d35279b0bed172.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका में एक स्कूल अध्यापिका ने नाबालिग छात्र का यौन शोषण किया। अदालत ने उसे 15 साल की सजा सुनाई। यह घटना एक शैक्षणिक संस्थान में हुई थी। स्कूल अध्यापिका ने नाबालिग छात्र का किया यौन शोषण, अदालत ने सुनाई 15 साल की सजा।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्कूल अध्यापिका ने नाबालिग छात्र का किया यौन शोषण, अदालत ने सुनाई 15 साल की सजा",
+          "summary": "अमेरिका में एक स्कूल अध्यापिका ने नाबालिग छात्र का यौन शोषण किया। अदालत ने उसे 15 साल की सजा सुनाई। यह घटना एक शैक्षणिक संस्थान में हुई थी। स्कूल अध्यापिका ने नाबालिग छात्र का किया यौन शोषण, अदालत ने सुनाई 15 साल की सजा।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ब्रिटेन में आतंकी हमले का खतरा बढ़ा: जांच एजेंसी ने यहूदी समुदाय को किया अलर्ट, गृह मंत्री ने जताई",
+      "url": "https://www.amarujala.com/world/increased-threat-of-terrorist-attack-in-britain-investigation-agency-alerts-jewish-community-2026-05-01",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-01T05:11:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/01/lthana-ma-bugdhha-raha-aataka-hamal-ka-khatara_bb52763af215e8e1794cb8d28df9f977.jpeg?w=750&dpr=1.0",
+      "summary": "ब्रिटेन में आतंकी हमले का खतरा बढ़ गया है। जांच एजेंसी ने यहूदी समुदाय को अलर्ट किया है। गृह मंत्री ने इस स्थिति पर चिंता जताई है। ब्रिटेन में आतंकी हमले का खतरा बढ़ा: जांच एजेंसी ने यहूदी समुदाय को किया अलर्ट, गृह मंत्री ने जताई।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रिटेन में आतंकी हमले का खतरा बढ़ा: जांच एजेंसी ने यहूदी समुदाय को किया अलर्ट, गृह मंत्री ने जताई",
+          "summary": "ब्रिटेन में आतंकी हमले का खतरा बढ़ गया है। जांच एजेंसी ने यहूदी समुदाय को अलर्ट किया है। गृह मंत्री ने इस स्थिति पर चिंता जताई है। ब्रिटेन में आतंकी हमले का खतरा बढ़ा: जांच एजेंसी ने यहूदी समुदाय को किया अलर्ट, गृह मंत्री ने जताई।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "खाने का लुत्फ़ लेकर भी कैसे रह सकते हैं फ़िट",
+      "url": "https://www.bbc.com/hindi/articles/c62drl2l7m4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-01T05:08:39+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa18/live/c89b97f0-4526-11f1-a59f-45213bb82fb4.jpg",
+      "summary": "सख्त डाइटिंग के बिना फिट रहने के तरीके खोजे गए हैं. कई बार खाने पीने को लेकर बरता गया संयम वज़न कम करने में उतना कारगर साबित नहीं होता. फिर वे कौन से तरीके हैं जिनसे आप सख्त डाइटिंग किए बिना भी फिट रह सकते हैं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खाने का लुत्फ़ लेकर भी कैसे रह सकते हैं फ़िट",
+          "summary": "सख्त डाइटिंग के बिना फिट रहने के तरीके खोजे गए हैं. कई बार खाने पीने को लेकर बरता गया संयम वज़न कम करने में उतना कारगर साबित नहीं होता. फिर वे कौन से तरीके हैं जिनसे आप सख्त डाइटिंग किए बिना भी फिट रह सकते हैं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारतीय मूल के पांच दिग्गज, जिनकी दौलत और विजन बदल रहे अफ्रीका का भविष्य? देखें कूटनीति",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNjAxY0ZQQ3dLTnVXMzdJRU0tWHFUaU93V0dmZHV2MTQzWV9QQmdfMHVfQk9pWXhjVFVjUFZ0aEFrX2hHUE1pVGdWRU1lMFNLc1EwNm9LSUFqcWFXOUx6bUZRV2pPdmJlLWVlZ3pGLXNoaGZYQ2l5Z0R5cERYYWdzQXMzZjlGdEtucFBTYi1YVjVvaVJWY29KNTVlRW1kOFJrTlRvOG16OGJkTGpTX0MtZnNRZnVOS1BqOF9uSU92ekVMRlRwWm5teEFpcG5fZ9IB0wFBVV95cUxPdGVkRHI2bGRDbXJZUXFzZE4xWFpXMWtLQXN1UUlMTnM5NWM1c0xBNERiZDhRNXRLdm83VW85SGNKUFppQkxDbHdEZE94ZnZWRXE1elFuY3FHTTVvTjRRRF9DblA5SS1XQnZUd2hDOVA3dmR3WjBvVjRtQzFrN3Iwdmw0c1V6bzE3bGhNTE1maHR5N0ZLYnRwQm9xZlFETlNRNFUyNC1TTDRBcG9SaV9KOHVkaEM0TjFZbmZNUW5qUTFhTmJ1UU5oNE51NjhpOV9VNVJZ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-01T04:41:36+00:00",
+      "image_url": "https://images.pexels.com/photos/8770959/pexels-photo-8770959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारतीय मूल के पांच दिग्गज अफ्रीका के भविष्य को बदल रहे हैं. उनकी दौलत और विजन ने अफ्रीका में एक नई दिशा दिखाई है. भारतीय मूल के पांच दिग्गज, जिनकी दौलत और विजन बदल रहे अफ्रीका का भविष्य?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारतीय मूल के पांच दिग्गज, जिनकी दौलत और विजन बदल रहे अफ्रीका का भविष्य? देखें कूटनीति",
+          "summary": "भारतीय मूल के पांच दिग्गज अफ्रीका के भविष्य को बदल रहे हैं. उनकी दौलत और विजन ने अफ्रीका में एक नई दिशा दिखाई है. भारतीय मूल के पांच दिग्गज, जिनकी दौलत और विजन बदल रहे अफ्रीका का भविष्य?",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -332,20 +422,38 @@
       }
     },
     {
-      "title": "पीएम मोदी ने मिशन प्रमुख सम्मेलन में दिया '3टी' मंत्र विदेश मंत्री जयशंकर बोले 'कूटनीति के लिए ये",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUl84eVVZaG5STWc2VTdpNXE4T21ZdXRuLTRmTXFWNkVzS1ZTNGRCOGZuNFlBOHZmblZvZ0dpVEZaTGQ2c3ZhUlZzM1ozU2NUTkYwaUtHOTc2RGFqYUFqYXNMNTZyYU5lRWhzZzNFZEJtaTZRUUdCY1FaQmVXWW5pU0lGOHYzMUg3RzVMVGNQVXFhcEp2d3BRaXBuNjZMZ0N6VHdia2xBZW1mV0cyQWo0WUFnZEJIWnhJLW9kNER5bEdteWE2VUFOcC1sQWZuNUxkN0s4TGRhZTlLbFRBZ1RZNEhZOTBhRENKb0xKTG9xQWF1ak1hcVNR?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
+      "title": "ईरान संघर्ष और बजट को लेकर हेगसेथ से सांसदों ने पूछे तीखे सवाल",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUxQTHYzSEp2Y0FOa3dTSHp6Q2Z3aEdpU1ByX0lMMEp6YTdVOE1ETkN3aHczMFRoYlhrQzhhR08yalRXYXV0YkY5RWk1R3ZTYVBndUxqN1U3NHVMY0NVSDdmdHc0YmJtYk12YWJuMm5ickhsX3VzRzZUQXNZQmxCcWc1T2NBaHZJRmx4SnItYkZkd2pl0gGrAUFVX3lxTE0zeDFCc2VVZ05Zb2R3SGFKOXRrLVdPSTl6VFNlNzZzSGVpQnh4QVp2TEpyMDhvZlZ3Zkt6TVY5Y3J1c3M2NFk2RllMZnhKZGRRWXlDMmg4dEZyQ2pDUkEydmR6T3h3MU9qSDIzdHZKOEJKdUROXzduSzZlRC1Gbkx5M2o1TTdGZjJQa2lfZzQwb1Z1NS1ycy0tYS1hWTl0VGNDWmtIbWRlVmVESQ?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
-      "published_at": "2026-05-01T03:01:24+00:00",
-      "image_url": "https://images.pexels.com/photos/29883679/pexels-photo-29883679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "प्रधानमंत्री मोदी ने मिशन प्रमुख सम्मेलन में '3टी' मंत्र दिया, जिसमें कूटनीति के लिए तीन महत्वपूर्ण तत्व शामिल हैं। विदेश मंत्री जयशंकर ने इसे कूटनीति के लिए अहम बताया। पीएम मोदी ने मिशन प्रमुख सम्मेलन में दिया '3टी' मंत्र विदेश मंत्री जयशंकर बोले 'कूटनीति के लिए ये।",
-      "region": "Global / Multilateral",
+      "published_at": "2026-05-01T03:46:08+00:00",
+      "image_url": "https://images.pexels.com/photos/6037021/pexels-photo-6037021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "हेगसेथ से सांसदों ने ईरान संघर्ष और बजट को लेकर तीखे सवाल पूछे. सांसदों ने सरकार से इस मुद्दे पर स्पष्ट जवाब मांगे. ईरान संघर्ष और बजट को लेकर हेगसेथ से सांसदों ने पूछे तीखे सवाल Punjabkesari. com।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पीएम मोदी ने मिशन प्रमुख सम्मेलन में दिया '3टी' मंत्र विदेश मंत्री जयशंकर बोले 'कूटनीति के लिए ये",
-          "summary": "प्रधानमंत्री मोदी ने मिशन प्रमुख सम्मेलन में '3टी' मंत्र दिया, जिसमें कूटनीति के लिए तीन महत्वपूर्ण तत्व शामिल हैं। विदेश मंत्री जयशंकर ने इसे कूटनीति के लिए अहम बताया। पीएम मोदी ने मिशन प्रमुख सम्मेलन में दिया '3टी' मंत्र विदेश मंत्री जयशंकर बोले 'कूटनीति के लिए ये।",
-          "region": "वैश्विक / बहुपक्षीय"
+          "title": "ईरान संघर्ष और बजट को लेकर हेगसेथ से सांसदों ने पूछे तीखे सवाल",
+          "summary": "हेगसेथ से सांसदों ने ईरान संघर्ष और बजट को लेकर तीखे सवाल पूछे. सांसदों ने सरकार से इस मुद्दे पर स्पष्ट जवाब मांगे. ईरान संघर्ष और बजट को लेकर हेगसेथ से सांसदों ने पूछे तीखे सवाल Punjabkesari. com।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अफगानिस्तान सीमा के पास 13 दहशतगर्द ढेर, पाकिस्तानी सेना ने खैबर पख्तूनख्वा में की कार्रवाई",
+      "url": "https://www.amarujala.com/world/pakistan-terrorists-neutralized-near-afghanistan-border-army-operation-in-khyber-pakhtunkhwa-hindi-updates-2026-05-01",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-04-30T19:59:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/08/pakistan-pakistan-army_08ab40ccdc622e161744f690e42300f9.jpeg?w=750&dpr=1.0",
+      "summary": "पाकिस्तानी सेना ने खैबर पख्तूनख्वा में कार्रवाई की, जिसमें 13 दहशतगर्द ढेर हो गए. यह कार्रवाई अफगानिस्तान सीमा के पास की गई थी. Pakistan: अफगानिस्तान सीमा के पास 13 दहशतगर्द ढेर, पाकिस्तानी सेना ने खैबर पख्तूनख्वा में की कार्रवाई।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अफगानिस्तान सीमा के पास 13 दहशतगर्द ढेर, पाकिस्तानी सेना ने खैबर पख्तूनख्वा में की कार्रवाई",
+          "summary": "पाकिस्तानी सेना ने खैबर पख्तूनख्वा में कार्रवाई की, जिसमें 13 दहशतगर्द ढेर हो गए. यह कार्रवाई अफगानिस्तान सीमा के पास की गई थी. Pakistan: अफगानिस्तान सीमा के पास 13 दहशतगर्द ढेर, पाकिस्तानी सेना ने खैबर पख्तूनख्वा में की कार्रवाई।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -363,24 +471,6 @@
         "hi": {
           "title": "इज़रायल–हिजबुल्लाह संघर्ष; बम, बारूद और मौत वाली अंतहीन टकराव की कहानी",
           "summary": "इज़रायल और हिजबुल्लाह के बीच संघर्ष जारी है। यह एक अंतहीन टकराव है जिसमें बम, बारूद और मौत शामिल हैं। दोनों पक्षों के बीच तनाव कम होने का नाम नहीं ले रहा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान के राष्ट्रपति का बड़ा बयान: ‘डिप्लोमेसी के लिए हम तैयार हैं, लेकिन अमेरिका को छोड़नी होगी अपनी",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0Fmb0pYSnRsejlCM3N5NXp0cmktd1dZNUhnaWRzX3c5TEJDbmIyRkJLSG4zOXZFazByMXlCOFdlOGtkLThkbGZHTnBvOWhuaTczZjBkYV9FVFhxOE1uUXZEMmczcWUwcVByc2NLdWF0UTd0bG9WcHVScGttelc0ZTRQdi11Mm41clRFT05YTTh1X1pzWFA2TzJsTS1NNjhqM0JSRWdyNlQxVEnSAbABQVVfeXFMTWVLVDM5bV9TZW5yLVRHLTFzV0Q2Z3ZySzRfbjVZSHlwRkI5UnU0UXlFR2FGY0dVbFFjaHE3UmZSRmNCeVJpX0FkV0xSOEZ0RlN0YjdWSWp6M1R1VXNDMEVacUpCYVlKWWxHOC1ISjlKb3FxUEg4cjJucHgwMHdRZGhKUVhoRXF3WHF6bURYdE41MUJMQ2tCTUd2WXAwLW9lcHo2V25valFITnFpQldnbEo?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-04-30T15:20:28+00:00",
-      "image_url": "https://images.pexels.com/photos/16033963/pexels-photo-16033963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान के राष्ट्रपति ने कहा कि वे कूटनीति के लिए तैयार हैं लेकिन अमेरिका को अपनी जिद छोड़नी होगी। उन्होंने अमेरिका के साथ वार्ता की संभावना को खुला रखा। ईरान और अमेरिका के बीच तनाव कम करने के लिए यह बयान आया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के राष्ट्रपति का बड़ा बयान: ‘डिप्लोमेसी के लिए हम तैयार हैं, लेकिन अमेरिका को छोड़नी होगी अपनी",
-          "summary": "ईरान के राष्ट्रपति ने कहा कि वे कूटनीति के लिए तैयार हैं लेकिन अमेरिका को अपनी जिद छोड़नी होगी। उन्होंने अमेरिका के साथ वार्ता की संभावना को खुला रखा। ईरान और अमेरिका के बीच तनाव कम करने के लिए यह बयान आया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -404,38 +494,20 @@
       }
     },
     {
-      "title": "संसदीय समिति ने भारत-श्रीलंका संबंधों, वैश्विक प्रौद्योगिकी कूटनीति पर चर्चा की",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFZHdWhuZXNOU0dQRk5TaFBBV3doeTg0ZDM0T2RmOFpxZF8tSG5zQkp3bjNyYjFpeFJxU05HNDVURlphT25vSUNrd3pGVm8wVzRuUy1wclVTTXgzaGQtV2NiLU5ZM2dSaXotZkFrZGNOUGQ3eDNIRlVTZUZUYV9GX1JieUlUdUpLNHpxdWFNeWtZSUhYMkRpY1FKNWJPemN2dkRWV25NUUZaTjJMcllRY2FMOXd6QTdUdHotbWxDQ0hPVnAzOUHSAcsBQVVfeXFMTTFtYTFGOTBkeU1hVTlCUUZvOHVkbjluUTBVbzNZSHIybHlmMWR3eVdCcGhZRlpianNHdXRaVEhqeWloUjNsRnE1V0QyNW5TRTRIRWhrT0c1bUE2ckdyZFc3VUllVWNaRU5pTGdHckdfbDZBSm01MkN3N1RXeEtmdVhVZWdoZGhxWlJSMVU0QWxRZldia1FiaXJ0RHlpZHFaT24xeHFma0RNN014U2J0MURLdEg4Q25OZnIzNDJDelFJc0NMWVpFSzJnTjQ?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
+      "title": "यूएई के ओपेक से बाहर होने का भारत पर क्या असर होगा",
+      "url": "https://www.bbc.com/hindi/articles/c5y78djdp65o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-04-30T12:34:04+00:00",
-      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संसदीय समिति ने भारत-श्रीलंका संबंधों और वैश्विक प्रौद्योगिकी कूटनीति पर चर्चा की. यह चर्चा भारत और श्रीलंका के बीच संबंधों को मजबूत बनाने और प्रौद्योगिकी के क्षेत्र में सहयोग बढ़ाने के लिए हुई.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-04-30T10:10:49+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd7b/live/5d880be0-449c-11f1-b55d-0f258dce1735.jpg",
+      "summary": "यूएई के ओपेक से बाहर होने से भारत पर असर पड़ेगा. ईरान के साथ युद्ध के कारण तेल की सप्लाई प्रभावित हुई है, जिससे भारत की ऊर्जा सुरक्षा पर असर पड़ सकता है.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "संसदीय समिति ने भारत-श्रीलंका संबंधों, वैश्विक प्रौद्योगिकी कूटनीति पर चर्चा की",
-          "summary": "संसदीय समिति ने भारत-श्रीलंका संबंधों और वैश्विक प्रौद्योगिकी कूटनीति पर चर्चा की. यह चर्चा भारत और श्रीलंका के बीच संबंधों को मजबूत बनाने और प्रौद्योगिकी के क्षेत्र में सहयोग बढ़ाने के लिए हुई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "वियतनाम बहुपक्षीय तंत्रों में प्रभावी योगदान देना जारी रखे हुए है।",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTG9CVDVZOGZja1E5aTZXUmpKaXhMbDN3cThzV2EzTmQ1SU9kVG9hbVk1YVc5MTkxbkhBeWRaSHYxSHdvQ05weHFma1JIYTlWLUlwLWZwc0tra2RTRVlmNkV2cExBd1BYLUVBRGVlTTRZSjdIN2dvcVlTN2dpYUxobmxMSkdmUHBtZ2NVTWFoSQ?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-04-30T06:16:13+00:00",
-      "image_url": "https://images.pexels.com/photos/8987471/pexels-photo-8987471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "देश की भागीदारी से 국제 संबंधों में मजबूती मिल रही है। वियतनाम बहुपक्षीय तंत्रों में प्रभावी योगदान देना जारी रखे हुए है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वियतनाम बहुपक्षीय तंत्रों में प्रभावी योगदान देना जारी रखे हुए है।",
-          "summary": "देश की भागीदारी से 국제 संबंधों में मजबूती मिल रही है। वियतनाम बहुपक्षीय तंत्रों में प्रभावी योगदान देना जारी रखे हुए है।",
-          "region": "एशिया-प्रशांत"
+          "title": "यूएई के ओपेक से बाहर होने का भारत पर क्या असर होगा",
+          "summary": "यूएई के ओपेक से बाहर होने से भारत पर असर पड़ेगा. ईरान के साथ युद्ध के कारण तेल की सप्लाई प्रभावित हुई है, जिससे भारत की ऊर्जा सुरक्षा पर असर पड़ सकता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -458,19 +530,19 @@
       }
     },
     {
-      "title": "होर्मुज में जहाजों पर हमलों की भारत ने UN में की निंदा, गाजा में हो रहे विनाश पर भी जताई चिंता",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUxPcW8xVFVTQV80NnBFTTB5TFBodHYySEhYbVFnTllGMklYU2ZfdGxCNXJPV0NxRUhsMjQ0Zy1uY3JaZk1LYlQ5dGg0MDZlMmg3NGJONkprZndteGVSSXNENC1HOUtXNGV2WHRURGowRkREVGJwMzk5bVRYYWw2aWFMNXZvNkVuRmpRaEcwMzh1T0JJaDJfT3NhOUpLMEZkQVRVeVhLMDNtV1VBSjh4Sw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "अमेरिका-ईरान युद्ध ने पाकिस्तान की आर्थिक उपलब्धियों को गंभीर नुकसान पहुंचाया है पीएम शहबाज शरीफ",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTDhFNVdiYkJSeDUtZ0dyUmdrU283Y2d1UzFabHpGTUhtdV90Y0NsNDZKam9PZGMyVm8zUmJCV1hlMXVjUnBaN0U1eFlNWU5zeEhpLWd2ZzNLc3dfTE45LXNJTWRVNHJFV2xJVHRnTDYyYjllOHQxVGpWellVN1RmRnlxcTFseUlvQklUUnVPT2tYcVp5TlhQYjlySmh2SDBUUlI3UmNTeXBDYlo1QThfa2pnbHVDcFc3TkdubkszQmJpV3A5dFQtelVKeERkb2x0YzA00gHYAUFVX3lxTE1CdmFtMGI3aVpoYWFCM1NueTRGclQ3YnBIZTA0WklJbl9UZlZPT05NSnZXRVBqMk0tQkFMRVNfWmp5VE9Vb3RELTYwWWc3WnliOUZidUd6RGhPS2NIN3NoMEtEdzhYcjNhMU1jR25hMGVXZmhObXZmeHZsWE5HZTB2ZUNGV0V4Sld2ckhkTkluREF1MnRvN1NITWFUS2ZIdV9zdllBbG5fUWlWQWdMRGRmZm92Rkx0V2tOQkNENmZWemwyRjRXTnNpN0hFTG1pVzQ4elRlU0NSUg?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
-      "published_at": "2026-04-29T18:29:00+00:00",
-      "image_url": "https://images.pexels.com/photos/32364714/pexels-photo-32364714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत ने होर्मुज में जहाजों पर हमलों की निंदा की और गाजा में विनाश पर चिंता जताई. होर्मुज में जहाजों पर हमलों की भारत ने UN में की निंदा, गाजा में हो रहे विनाश पर भी जताई चिंता Jagran।",
+      "published_at": "2026-04-29T12:53:40+00:00",
+      "image_url": "https://images.pexels.com/photos/7155384/pexels-photo-7155384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने कहा कि अमेरिका-ईरान युद्ध ने पाकिस्तान की आर्थिक उपलब्धियों को गंभीर नुकसान पहुंचाया है. उन्होंने कहा कि इससे देश की अर्थव्यवस्था पर नकारात्मक प्रभाव पड़ा है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "होर्मुज में जहाजों पर हमलों की भारत ने UN में की निंदा, गाजा में हो रहे विनाश पर भी जताई चिंता",
-          "summary": "भारत ने होर्मुज में जहाजों पर हमलों की निंदा की और गाजा में विनाश पर चिंता जताई. होर्मुज में जहाजों पर हमलों की भारत ने UN में की निंदा, गाजा में हो रहे विनाश पर भी जताई चिंता Jagran।",
+          "title": "अमेरिका-ईरान युद्ध ने पाकिस्तान की आर्थिक उपलब्धियों को गंभीर नुकसान पहुंचाया है पीएम शहबाज शरीफ",
+          "summary": "पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने कहा कि अमेरिका-ईरान युद्ध ने पाकिस्तान की आर्थिक उपलब्धियों को गंभीर नुकसान पहुंचाया है. उन्होंने कहा कि इससे देश की अर्थव्यवस्था पर नकारात्मक प्रभाव पड़ा है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -494,19 +566,19 @@
       }
     },
     {
-      "title": "11वें राजदूतों और उच्चायुक्तों के सम्मेलन में एस जयशंकर बोले-देश के हित को आगे बढ़ाने को कूटनीति",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPd3R2ZzdNbDQ4em5WTmVfSDg0VXBoVWtzWVoxbDY0SjAwQUNfQjM5LTllQmRnSUhEMEd5cFdnWTlHYWsxMHptWk5CeV90eDFaQ1hVS1dWTzcyWUlXaG9PaTBfM2VFd2dfVWUzNTJJTzJEZnZPTkxMZjJsTm5XY0NuQ0hxUTltdnUyNWJNc2ZxTWItQzRRU19Mam5PTFM3NUVZRHM5VmVVVlJqU2x3X2pjcXVMLVllaDlsV0dwT2xlcG5SMUMxc1BETmVwZy1jMXhyaUtLSDJNUGljZHFJR3lqaDM0cndKck5mMWIxMF9RdFVocGI0UGtIbEx3bWRmNlEzUHNncXNWMlhNNHU3cGZvSUpMQ0k1dUnSAZcCQVVfeXFMT3d0dmc3TWw0OHpuVk5lX0g4NFVwaFVrc1laMWw2NEowMEFDX0IzOS05ZUJkZ0lIRDBHeXBXZ1k5R2FrMTB6bVpOQnlfdHgxWkNYVUtXVk83MllJV2hvT2kwXzNlRXdnX1VlMzUySU8yRGZ2T05MTGYybE5uV2NDbkNIcVE5bXZ1MjViTXNmcU1iLUM0UVNfTGpuT0xTNzVFWURzOVZlVVZSalNsd19qY3F1TC1ZZWg5bFdHcE9sZXBuUjFDMXNQRE5lcGctYzF4cmlLS0gyTVBpY2RxSUd5amgzNHJ3SnJOZjFiMTBfUXRVaHBiNFBrSGxMd21kZjZRM1BzZ3FzVjJYTTR1N3Bmb0lKTENJNXVJ?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
+      "title": "होर्मुज़ व्यवधान की भारी आर्थिक क़ीमत के बीच, UNCTAD का पूर्व चेतावनी मंच",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11b2dEVDE3SFBGY3ludVg1WVZ6N09fOExVQ2F0SzRXdGdSVGFUUFhBNk0xM2FKMk1xVlRuZTh1c29VRG5YOHlmQ0dURDhUanY0QmpXd2hEcw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-04-29T10:40:35+00:00",
-      "image_url": "https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत के विदेश मंत्री एस जयशंकर ने 11वें राजदूतों और उच्चायुक्तों के सम्मेलन में कहा कि कूटनीति का उद्देश्य देश के हित को आगे बढ़ाना है। उन्होंने राजदूतों से देश के हित को प्राथमिकता देने का आग्रह किया।",
+      "published_at": "2026-04-28T23:26:10+00:00",
+      "image_url": "https://images.pexels.com/photos/7486053/pexels-photo-7486053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "UNCTAD ने होर्मुज़ में व्यवधान की भारी आर्थिक क़ीमत के बीच एक पूर्व चेतावनी मंच शुरू किया है. यह मंच वैश्विक व्यापार और अर्थव्यवस्था पर संभावित व्यवधानों के प्रभावों की निगरानी करेगा.",
       "region": "Global / Multilateral",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "11वें राजदूतों और उच्चायुक्तों के सम्मेलन में एस जयशंकर बोले-देश के हित को आगे बढ़ाने को कूटनीति",
-          "summary": "भारत के विदेश मंत्री एस जयशंकर ने 11वें राजदूतों और उच्चायुक्तों के सम्मेलन में कहा कि कूटनीति का उद्देश्य देश के हित को आगे बढ़ाना है। उन्होंने राजदूतों से देश के हित को प्राथमिकता देने का आग्रह किया।",
+          "title": "होर्मुज़ व्यवधान की भारी आर्थिक क़ीमत के बीच, UNCTAD का पूर्व चेतावनी मंच",
+          "summary": "UNCTAD ने होर्मुज़ में व्यवधान की भारी आर्थिक क़ीमत के बीच एक पूर्व चेतावनी मंच शुरू किया है. यह मंच वैश्विक व्यापार और अर्थव्यवस्था पर संभावित व्यवधानों के प्रभावों की निगरानी करेगा.",
           "region": "वैश्विक / बहुपक्षीय"
         }
       }
@@ -561,78 +633,6 @@
         "hi": {
           "title": "3 देश, 3 एजेंडे और बड़ी जियो पॉलिटिक्स... ईरानी विदेश मंत्री की 48 घंटे की कूटनीतिक मैराथन की",
           "summary": "ईरानी विदेश मंत्री ने 48 घंटों में तीन देशों की यात्रा की और कई महत्वपूर्ण मुद्दों पर चर्चा की. यह कूटनीतिक प्रयास ईरान की बड़ी जियो पॉलिटिक्स रणनीति का हिस्सा हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तेल की कीमतों में उछाल के चलते, 'राकेट' बनी चीनी की कीमत; दो हफ्ते के Highest Level पर भाव",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVNLNEUxSl91bmEtWV9FMS1WNG15c3FGMTlWempvWXhMeGJEUnBEclhfVTVmcm1Jc3FFNXBwM25aeXRYZEhKNVFUdDY3dFNNQmJLUk5td1dGZTRuTFdMTXRqQ052MTdqUDhGZUJwdFBVRzJ1Z3RxS2xFMGk3cTM4NWVjeVl0RVVnUjVWdWxCa20wYnk2dER6WVFFOWxVRnFMaUh3OWp1bkZ2U1NQNWdUQzRB?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-04-28T12:48:00+00:00",
-      "image_url": "https://images.pexels.com/photos/29370543/pexels-photo-29370543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान-अमेरिका तनाव के कारण तेल की कीमतें बढ़ गई हैं और चीनी की कीमत भी दो हफ्ते के उच्चतम स्तर पर पहुंच गई है. Iran America war: तेल की कीमतों में उछाल के चलते, 'राकेट' बनी चीनी की कीमत; दो हफ्ते के Highest Level पर भाव Jagran।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेल की कीमतों में उछाल के चलते, 'राकेट' बनी चीनी की कीमत; दो हफ्ते के Highest Level पर भाव",
-          "summary": "ईरान-अमेरिका तनाव के कारण तेल की कीमतें बढ़ गई हैं और चीनी की कीमत भी दो हफ्ते के उच्चतम स्तर पर पहुंच गई है. Iran America war: तेल की कीमतों में उछाल के चलते, 'राकेट' बनी चीनी की कीमत; दो हफ्ते के Highest Level पर भाव Jagran।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "UN में ईरान ने US-इजरायल को खूब सुनाया, देखें वर्ल्ड न्यूज",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNXzd3emUtelNPSEFRaWsxNzcwa3BHUmZsb01ZVC1mcW4xazZScWQ4Zmp4bXNBQWJWaTNKSjVtV2l5X3pEc1l6QXNuSVpaTGU5bGg1WWt4eUxQejRrSW9tS1pSbDFPNVRkNVpONUVrTlpZYXM1dEdJS0RBYWRnS2xGNDJaSzZpa01IeEZhU0Q2ZFJDeEhzSVo2Q1lnZUNXaURvS3kzcWEwUERPdlRCZ0hHZnFwZzJkQ0JyaXFYczloanhiWkpvVUVmTUxyTmVrYV96OXcwR2xfQ0jSAd4BQVVfeXFMUExrZlFOVkRqa1NfcGtTR09rZmU3WXh2NmRhSk5fS1ZRd0JldGh5MktDTDRXUW4zVHJCamppOXNYOVl4bVdibnZiSVU3dmdHVGIydVpScDZnMzFPVkUtLVFFRHRBWkxWakNnRTRRRS1Ic09aSFUwd0Rmb1NncHp3Y01hREl0VFZWdjA2UFpsbGQ1V1ZHQ3EwNWJ4MVRqN0FUVkpLVEFPVHQtZV9aZVk0TEM0ZEhvVGZ4QUhoa3dReHVWc1pfMGZwRHJQcUtldHluNUF5TnF0MzVBTnRPZEZn?oc=5",
-      "source": "Google News Hindi (विश्व समाचार)",
-      "sources": [],
-      "published_at": "2026-04-28T11:40:59+00:00",
-      "image_url": "https://images.pexels.com/photos/15405989/pexels-photo-15405989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने संयुक्त राष्ट्र में अमेरिका और इजरायल की कड़ी आलोचना की. ईरान ने अपने बयान में इन देशों के खिलाफ कई आरोप लगाए. UN में ईरान ने US-इजरायल को खूब सुनाया, देखें वर्ल्ड न्यूज AajTak।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UN में ईरान ने US-इजरायल को खूब सुनाया, देखें वर्ल्ड न्यूज",
-          "summary": "ईरान ने संयुक्त राष्ट्र में अमेरिका और इजरायल की कड़ी आलोचना की. ईरान ने अपने बयान में इन देशों के खिलाफ कई आरोप लगाए. UN में ईरान ने US-इजरायल को खूब सुनाया, देखें वर्ल्ड न्यूज AajTak।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक विदेश मंत्री जयशंकर से मिलीं, ईरान जंग पर क्या",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSWxpNHU1U1JFY3R1ZkVGTkhzc25jZzJjWEhSbTFaMm8zNzlIVDVpSFdRM1REWmw3b25KaEIxUzVJQ2w4NERVYTFlMlVIRTk1elBJdkVQQ2xKODZWRUI4OVBRWkpKZlBWZzBEQUJackRzNVg4NVQxc1FJdFpxT21kdV9LcWpJUXljMXpscVg5ejA2dHdIUGs1a2M1ak1PMkJ1VnJ0Y0xHc2M5SU11QW5SWkdxUDNCMjF0bTcwUXU2ZC00WnNQU3NzbEFlUm93NjJiRkdBMGlNd0YyMW1MNGFEN04yY1FQenZnTm5DcnZVZHJkb09KWWNXbmhCWVJWd9IBgwJBVV95cUxPcVpsNlNZSURONHNid1IwbVdVRkRkVjVkVjdTa0RtM04yMDlsRFVqN0lWVWdXQ0dDQ3pPVDNqZl9Ia0lKOXc1ampGdWpYbWZPM2lMWXo1dFFWSlJRbXFtc2pfNE1tV0Nob21YTm5RUFpGcE1rY0lBak5taHN6bWhWcUVxWmxZbVdQTDFPT0VPVWtTdXJLWXdqbTYxZms3RXlXT0E5UndZN2tYbmdNOWotSmsxZEF5NXhGQkxadUNxcGRBLVlpc3Z5ODhsUm9HRktxTGRhMk1tNmRjMnpYVGhfbHhRemJfRWlvQ0lLcWlzYkJlMjgxVXpMM3l0TlFadUt5TFRz?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-28T10:09:03+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक ने विदेश मंत्री जयशंकर से मुलाकात की. उन्होंने ईरान और इजराइल के बीच बढ़ते तनाव पर चर्चा की. इस मुलाकात का विवरण नहीं दिया गया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक विदेश मंत्री जयशंकर से मिलीं, ईरान जंग पर क्या",
-          "summary": "संयुक्त राष्ट्र महासभा की अध्यक्ष एनालेना बेयरबॉक ने विदेश मंत्री जयशंकर से मुलाकात की. उन्होंने ईरान और इजराइल के बीच बढ़ते तनाव पर चर्चा की. इस मुलाकात का विवरण नहीं दिया गया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'ईरान के पास होर्मुज स्ट्रेट के नियंत्रण का अधिकार', रूसी राजदूत ने संयुक्‍त राष्‍ट्र में किया",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQ29DZk1abkptbHZVaU5CXy1PeFhId3h1MzM3eEcxbm5OM0RpNzlyOEEyUXMtQzlzNWpiUzMyVEpNc01oR3JueFdCNFNRb2I2Tk0tQ2g2cEk1WmFaTHo5dTdvNVo2M05veWlLZW43NVN6YXZsbTVQRklyU00zT21mT01CbXI2YktrR2F4c0xENnhac05uSnVYbndOOUhLOFEtQkNkOUpXYWRxNmhyVWVScE9jZXprMnRORFBUODJDSzE4bHdVNlB3TVhEbW44TmxJU0hhQjV3Zy14SjQyekxTZVpWd2prWmM0T1VZaWFiRnRicFhSc0czbnFMSUQ4cTB3ZFVCSHN4UdIBjAJBVV95cUxNN2ZsN3NhMkkySzNOTjdXZjBfSjVZMzYyMHp5eUJZWFI3UVE4UDlFWXBwUm1BMHVBVUxFUHVaVnlIOVFiLXdJVzRTaHpLNG9XaFJWdm96MjUzTlk2YVBlYWNxMXRpZGF6MGxkaU9jbkRiTUNUUXcxSkRoQWc4bHdBcUdZeDlqdHNic2I4YXc0QkdLclg0bEJaN1Q1NWdoNnZUMjBIS0k3cktuSGdRRFRfajY4TjBfelQtX2hndjV2eXUwY1drS3JBaHp5d1BPdGdKQVNrMEdSRmVkSWo0cFdqRGVVYkllLW8zcmxQNFpaaGd4YnQ0WTVtamJrN0NaOTdtX2lDWmFZb1lIQUFm?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-04-28T10:01:09+00:00",
-      "image_url": "https://images.pexels.com/photos/28375093/pexels-photo-28375093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "रूसी राजदूत ने संयुक्त राष्ट्र में ईरान के होर्मुज स्ट्रेट के नियंत्रण के अधिकार का समर्थन किया. उन्होंने तेहरान का खुला समर्थन किया. इस बयान के पीछे के कारणों का उल्लेख नहीं किया गया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ईरान के पास होर्मुज स्ट्रेट के नियंत्रण का अधिकार', रूसी राजदूत ने संयुक्‍त राष्‍ट्र में किया",
-          "summary": "रूसी राजदूत ने संयुक्त राष्ट्र में ईरान के होर्मुज स्ट्रेट के नियंत्रण के अधिकार का समर्थन किया. उन्होंने तेहरान का खुला समर्थन किया. इस बयान के पीछे के कारणों का उल्लेख नहीं किया गया है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
