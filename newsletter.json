@@ -1,44 +1,93 @@
 {
-  "generated_at": "2026-05-02T15:49:58.711819+00:00",
+  "generated_at": "2026-05-02T16:53:28.353299+00:00",
   "article_count": 42,
   "total_unique_count": 253,
   "digest": {
-    "en": "Fighting has reached the outskirts of Ukraine's stronghold Kostiantynivka. The US is fast-tracking arms deals valued at $8.6 billion to Middle East partners. China's rejection of US sanctions on refineries over Iran oil links adds to rising tensions in the region.",
-    "hi": "संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष चीन बन गया है। उसकी अध्यक्षता में पहले ही दिन उसने एक विवादास्पद मुद्दे पर बयान दिया। भारत और चीन के बीच तनाव बढ़ने की संभावना है।"
+    "en": "US President Trump has announced plans to withdraw 5,000 troops from Germany. The move has sparked concern in Berlin, which is urging stronger European defence. Germany's government says the US troop withdrawal is \"foreseeable\" as Nato seeks clarification on the decision.",
+    "hi": "पाकिस्तान पर UN समिति की रिपोर्ट में मानवाधिकारों के हनन की बात कही गई है। चीन ने संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष बनने के बाद भारत के लिए चिंता बढ़ा दी है। पुणे में एक बच्ची के साथ दरिंदगी के मामले में कांग्रेस ने CM फडणवीस से इस्तीफा मांगा है।"
   },
   "articles": [
     {
-      "title": "Fighting reaches outskirts of Ukraine's stronghold Kostiantynivka",
-      "url": "https://www.thehindu.com/news/international/fighting-reaches-outskirts-of-ukraines-stronghold-kostiantynivka/article70932663.ece",
-      "source": "The Hindu (International)",
+      "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "sources": [],
-      "published_at": "2026-05-02T15:21:40+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/czc3b7/article70932685.ece/alternates/LANDSCAPE_1200/2026-04-15T205311Z_1925925001_RC2VOJAW0OSI_RTRMADP_3_UKRAINE-CRISIS-FRONTLINE.JPG",
-      "summary": "Fighting reached Kostiantynivka, a Ukrainian stronghold in the east. The city is part of a fortified area. Kostiantynivka, ​along with other cities, forms a so-called fortress ⁠belt in the country’s east - an area well fortified by the Ukrainian military.",
+      "published_at": "2026-05-02T16:35:18+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be1/live/a8b851f0-463c-11f1-aa14-ad910202f501.jpg",
+      "summary": "German Defence Minister Boris Pistorius said the US decision to withdraw 5,000 troops from Germany is foreseeable, indicating no surprise from Berlin. The move is part of a broader US military realignment in Europe.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners",
-      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-05-02T14:58:29+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/02/multimedia/02mideast-arm-deal-cpbg/02mideast-arm-deal-cpbg-mediumSquareAt3X.jpg",
-      "summary": "The US fast-tracked $8.6 billion in arms deals to Mideast partners, bypassing congressional review. The Persian Gulf countries and Israel have faced repeated Iranian attacks during the U. S.-Israeli war with Iran.",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [
+        {
+          "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FTXg0c1RsTi1uaU85cm01ZmNEXzdVelB2R1d4Y1hBaFYyWXMyazdUS01KS18weHJFWG5RaDYxMzlCTXlfaHRuNjB2bjVrN3FrTlNQR0pYQjZIdw?oc=5",
+          "source": "Google News (war ceasefire)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FTXg0c1RsTi1uaU85cm01ZmNEXzdVelB2R1d4Y1hBaFYyWXMyazdUS01KS18weHJFWG5RaDYxMzlCTXlfaHRuNjB2bjVrN3FrTlNQR0pYQjZIdw?oc=5",
+          "source": "Google News (war ceasefire)"
+        }
+      ],
+      "published_at": "2026-05-02T16:29:06+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ce/live/cba9b850-4594-11f1-b55d-0f258dce1735.jpg",
+      "summary": "US President Trump claims the Iran ceasefire terminates hostilities, arguing he no longer needs congressional approval for war. This assertion contradicts existing law requiring congressional authorisation for military action. The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "China rejects U.S. sanctions on refineries over Iran oil links",
-      "url": "https://www.thehindu.com/news/international/china-rejects-us-sanctions-on-refineris-over-iran-oil-links/article70932170.ece",
-      "source": "The Hindu (International)",
+      "title": "U.S. to Withdraw 5,000 Troops From Germany. But Thousands Will Remain.",
+      "url": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html",
+      "source": "NYT World",
       "sources": [],
-      "published_at": "2026-05-02T14:20:10+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/bwb48k/article70932261.ece/alternates/LANDSCAPE_1200/2026-04-24T194343Z_1556176846_RC2UVKA6EKT8_RTRMADP_3_IRAN-CRISIS-CHINA-OIL.JPG",
-      "summary": "China rejected U. S. sanctions on refineries over Iran oil links, calling them improper and a violation of international law. The Commerce Ministry said Chinese enterprises have the right to conduct normal economic activities with third countries.",
+      "published_at": "2026-05-02T15:56:55+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/02/multimedia/02int-germany-troops-wtk-qblh/02int-germany-troops-wtk-qblh-mediumSquareAt3X.jpg",
+      "summary": "The US will withdraw 5,000 troops from Germany, but tens of thousands of personnel will remain. The US military presence in Germany extends beyond Europe, with significant implications for global security.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'Fully Prepared For American Foolishness': Iran Warns Of Possible Renewed War",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-news-fully-prepared-for-american-foolishness-iran-warns-of-possible-renewed-war-11440100#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-02T14:53:07+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-03/s31qaccc_trump-iran_625x300_15_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Iran's military officer warned of possible renewed war, stating the country's armed forces are fully prepared. This statement comes amid ongoing tensions between Iran and the US. Iran's military officer said that its armed forces are \"fully prepared\" if escalation happens.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
+      "url": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-02T14:23:45+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69f39750bd8f9-1777571664.jpg?resize=1920%2C1440",
+      "summary": "Murder rates in Israel's Palestinian areas have soared, fuelling allegations of state complicity and neglect. The crime epidemic has highlighted concerns about policing and security in these communities. Murder rates in Israel's Palestinian areas soar, fueling allegations of state complicity and neglect.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-02T14:18:14+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/43592a40-4624-11f1-b55d-0f258dce1735.jpg",
+      "summary": "The US threatened sanctions on shipping firms that pay Iran tolls. President Donald Trump expressed skepticism about Iran's peace proposal. The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -56,26 +105,14 @@
       "translations": {}
     },
     {
-      "title": "Ukraine’s Drone War Has Already Rewritten NATO’s Future",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JN1docXRUSUV4SzlSY3NrelZ2Z2lYbkthT2p6alN3UmdfbVJUMVJHVTZtbVpnQTh5M0tkMURXTjZSa0g1d3hIQS1XZw?oc=5",
-      "source": "Google News (NATO conflict)",
+      "title": "Arsenal vs Fulham",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/5/2/live-arsenal-vs-fulham-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-02T14:05:03+00:00",
-      "image_url": "https://images.pexels.com/photos/11734709/pexels-photo-11734709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Ukraine's drone warfare has led NATO to reassess its future military strategies. Kyiv's use of drones has forced NATO to rethink its approach to defense and counterattack capabilities. Ukraine’s Drone War Has Already Rewritten NATO’s Future Kyiv Post.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Spirit Airlines shutting down after rescue talks collapse",
-      "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-02T13:04:36+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/82575fa0-3e86-11f1-89c2-a710be29e252.jpg",
-      "summary": "Spirit Airlines is shutting down after rescue talks collapsed, ending bailout hopes. The airline had been in talks with the Trump administration about a $500m bailout. Spirit Airlines shutting down after rescue talks collapse.",
-      "region": "Americas",
+      "published_at": "2026-05-02T13:32:09+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/GettyImages-2274173080-1777740495.jpg?resize=1200%2C675",
+      "summary": "Arsenal faces Fulham with live build-up and team news coverage available. Follow our live build-up, with full team news coverage, ahead of our text commentary stream. Arsenal vs Fulham.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -104,25 +141,13 @@
       "translations": {}
     },
     {
-      "title": "Israeli air strikes kill 10 people in southern Lebanon",
+      "title": "Israeli air strikes on Lebanon kill 41 people in 24-hours",
       "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
       "sources": [],
       "published_at": "2026-05-02T12:55:34+00:00",
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T144931Z_1337836316_RC2E0LAD9H6E_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1777678447.jpg?resize=1920%2C1440",
       "summary": "Israeli air strikes killed 10 people in southern Lebanon. Drones and planes hit several towns despite a ceasefire since April 17. Drones and planes hit several towns despite 'ceasefire' since April 17 as Hezbollah pledges to continue its attacks.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Starmer urges tougher action against Gaza protests in U.K. following antisemitic attacks",
-      "url": "https://www.thehindu.com/news/international/starmer-urges-tougher-action-against-gaza-protests-in-uk-following-antisemitic-attacks/article70931709.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-02T12:53:53+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/tjdsyj/article70931739.ece/alternates/LANDSCAPE_1200/2026-05-02T115434Z_1401593045_RC2NZKASW778_RTRMADP_3_BRITAIN-POLITICS.JPG",
-      "summary": "UK Prime Minister Starmer called for tougher action against Gaza protests, citing a rise in antisemitic incidents. Prime Minister Starmer suggested that repeated pro-Palestinian marches have had a “cumulative effect” linked to the rise in antisemitic incidents in the U. K.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -164,18 +189,6 @@
       "translations": {}
     },
     {
-      "title": "Sheffield Wednesday out of administration after sale to US consortium completed",
-      "url": "https://www.channelnewsasia.com/sport/sheffield-wednesday-out-administration-after-sale-us-consortium-completed-6096091",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-02T12:37:31+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--HJ16q0x4--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-02T123731Z_1_LYNXMPEM4107D_RTROPTP_3_SOCCER-ENGLAND-SHW.JPG?itok=NZxU2QYd",
-      "summary": "Sheffield Wednesday is out of administration after a US consortium completed its sale. Sheffield Wednesday out of administration after sale to US consortium completed.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "UK Driving-Test Backlog Leaves Learners Waiting Months",
       "url": "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html",
       "source": "NYT World",
@@ -200,18 +213,6 @@
       "translations": {}
     },
     {
-      "title": "‘Real impact on the ground’ needed as Indonesia backs UN reform",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167429",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-05-02T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-04-2026-FAO-Indonesia.jpg/image560x340cropped.jpg",
-      "summary": "Indonesia is pushing for a strengthened United Nations system that delivers tangible results on the ground. The country's outgoing Deputy Minister of Foreign Affairs, Tri Tharyat, emphasized the need for real impact from UN reform.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Iran Claims Trump Rejected New Proposal That Would Open Strait Of Hormuz",
       "url": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-claims-trump-rejected-new-proposal-that-would-open-strait-of-hormuz-11439511#publisher=newsstand",
       "source": "NDTV World",
@@ -224,14 +225,14 @@
       "translations": {}
     },
     {
-      "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
-      "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss",
+      "title": "NATO assessing details of US troop withdrawal from Germany",
+      "url": "https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany?traffic_source=rss",
       "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-02T11:34:12+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T165727Z_482912865_RC2G0LA2RPAZ_RTRMADP_3_USA-TRUMP-1-1777663790.jpg?resize=1920%2C1440",
-      "summary": "US President Trump compared the US Navy to pirates for enforcing the Iran blockade in the Strait of Hormuz. He said it was a profitable business. The US president says the ongoing naval blockade of the Strait of Hormuz is 'a very profitable business'.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-02T11:34:23+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2023-03-28T161122Z_438188700_RC2330A9HFOE_RTRMADP_3_UKRAINE-CRISIS-GERMANY-USA-1777718113.jpg?resize=1920%2C1440",
+      "summary": "The US plans to withdraw 5,000 troops from Germany over six to 12 months. US says it plans to pull about 5,000 troops out of Germany over next six to 12 months amid feud with European allies.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -260,6 +261,36 @@
       "translations": {}
     },
     {
+      "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVZSc2RUNmxMZU8wVUw4UEI0c0RfRHJKSDVZU1luX3o4NXNzeWJELV9rTlZNSVJabWNPRU1xRGNBR2MwLVExMXNpTnFlak5YWUpvWTBCSk9wNVFJc2ZfTzdwa2ItZUZvMVdrZy1jRGR4NEFjY2pRWTFlWTVDSExwWnVNR1ExZ2M1ek1PQW1iNHhnWXoxUXN0bmJvUHpTTVpJSmthUWdDODhWN0xFU2VJZ3J1MV96Z9IBuwFBVV95cUxNckVJUTY0ZjVYVC0xUlVNM1lrdnBKWFlTWTlFMndraDNOSWhUY04wVFVBLXZWVHFJZ2NiN0FTSDZ4eTc5Q0M4R2dOVEtteTJpdmJFQ0MtVXQ3WDVhSV95clNReFFPaGItY2hyQUk0SHpIdmZ6STdWTUI1aGZCWWlHTWtuaEpzQWxnY1MtZThFcmoxNUVvYm5JblhNWmozelJxcHRla0VPQkVvYV9Rc1BsUHdfUGVuZDRWdm5B?oc=5",
+      "source": "Google News (United Nations)",
+      "sources": [],
+      "published_at": "2026-05-02T10:00:57+00:00",
+      "image_url": "https://images.pexels.com/photos/32512900/pexels-photo-32512900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "China urged the reversal of UNIFIL's departure from Lebanon as conflict escalates. China urges reversal of UNIFIL departure from Lebanon as conflict escalates Al Jazeera.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "दुनिया के सामने फिर बेनकाब हुआ पाकिस्तान, UN समिति ने मानवाधिकार पर बताई खौफनाक सच्चाई",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHY4MUFmQUZyWFNUbzh6cWNoWmdQQzJ0elVDdVZYZUZPaTRmeXlza3FMVXZfXzN2bVBvMW1QU2FtN3V5V1BQenV6MEFzOEtEa3Jtc3N4bzZTZ0RLc19oeEVscFoybXBJSjZycnBjTVcxcmdiQUdTTHpZWng5bmhEdzRULTVuWjRYeGxVcDZZdTNKZUVRaUMyOXBBZTVhMm9sVVlWNnF4WjNYMlpiTEhLVVNzZ3Jwa21PWFo3atIBwgFBVV95cUxPN1pxdWxjeHNwMm1VdzV4M3BqbEsxYnFyTENaQ1Y0ZVFyclpMWDhUTmtjbGFCay1TQnlqUkFXTlBBamVRRlpCQmZ2WkwwbTIwMXNiQjBQdzZjMUsyQ0ZrNGNjbnJpLXRYZ0JUX3dWLUJzZW1MV0Y0N1ZKU3RJeVZOYTFuZnlkRzlRUTNUTjdaSGNnSUNfRGlmdGVmdUhEanR4dVRLd1V1Wm8tbTcxNWFwby0wVmRjSFBzT0xMRS1ZNWpRUQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-02T15:45:37+00:00",
+      "image_url": "https://images.pexels.com/photos/7020394/pexels-photo-7020394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "यूएन समिति ने पाकिस्तान पर मानवाधिकार उल्लंघन का आरोप लगाया। दुनिया के सामने फिर बेनकाब हुआ पाकिस्तान, UN समिति ने मानवाधिकार पर बताई खौफनाक सच्चाई Patrika News।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुनिया के सामने फिर बेनकाब हुआ पाकिस्तान, UN समिति ने मानवाधिकार पर बताई खौफनाक सच्चाई",
+          "summary": "यूएन समिति ने पाकिस्तान पर मानवाधिकार उल्लंघन का आरोप लगाया। दुनिया के सामने फिर बेनकाब हुआ पाकिस्तान, UN समिति ने मानवाधिकार पर बताई खौफनाक सच्चाई Patrika News।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष बना चीन, पहले ही दिन दिखाया रंग, क्या बढ़ेगी भारत की टेंशन",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaUwtYmJWejRwLXJVOFN0VmRtcHUzQjJrLXhSOWh5Z1BFSThoblJWX1pJYlEtdDZ2Rm9jcGZLcU1NM3FjLVRLa3ROc3FmN1pBUzlyaDdEUU4xQmNVMnJ6SVBpc09PREVONEJ5cE1VMDM5M2ZRZVloeHJTT1AwYU13MGVXeUZteEI4cTE5aElFLVFTNURTYVZNSlhJVzJhcENPNXZVaWNGNVZKWTF3YTdUMF8wZ2I3MGlMdlJhUm50bFJnd1JyMUw2NEVIT1RjbTloV3FIQ1pNMUM5WFd6MEhVaFZKQmtNeTJFN3VNMFZ2SkNPaWtqUDlWNGprLTdwc2vSAYQCQVVfeXFMTWdlVTJVNmNDSF81ODVlR05vSFBJakVtMF9wZWEyN3h0XzVwXzlaa3hVQV9TRmNuN0ZyVXNiSklHR2ZFSWxTY3RQckZaazloR2V3VndDQnNFTlIwWWM2TE1fWTRMRFRnVFNHSkJpbThWTEt1UF9SZmVrbEw2ck5QNTBDZXJ4LU1xZ1pqOXdEXzV0Vmt5QnY5ZUtlOTI1bXdPWFJtSmJDelVzR3VfX0owbEJ4dUJoQ1JiYWJXNUVPaEdoTHJwdGY2U3JhNF9QT3p0eW5LaEhyVHEtUGtKSU1zaksxbVNNdEpQWG9BQTM1MUZabVBTVV9QVUFrLVZUSjVvc1UxeEc?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -278,20 +309,20 @@
       }
     },
     {
-      "title": "मौसम बदलते ही होने वाली एलर्जी या लगातार होते ज़ुकाम से बचने के 9 तरीक़े",
-      "url": "https://www.bbc.com/hindi/articles/c78kdx17d8yo?at_medium=RSS&at_campaign=rss",
+      "title": "ईरान के तेल का राष्ट्रीयकरण करने वाले मोसद्देग़ जिनका तख़्तापलट कर दिया गया",
+      "url": "https://www.bbc.com/hindi/articles/c202r9nq01lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-02T10:40:19+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b2f4/live/e6436c50-4612-11f1-bb43-9bd603ff2e0c.jpg",
-      "summary": "दुनिया भर में 40 करोड़ लोग एलर्जिक राइनाइटिस से पीड़ित हैं। इसके लक्षणों से बचने के लिए 9 तरीके अपनाए जा सकते हैं। ये तरीके एलर्जी पैदा करने वाले तत्वों से बचाव में मदद कर सकते हैं।",
-      "region": "World",
+      "published_at": "2026-05-02T14:03:41+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3543/live/583bc650-4626-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "ईरान के मोसद्देग़ ने तेल का राष्ट्रीयकरण किया था। तेल का मुद्दा ही वह मुख्य आधार था जिसके ज़रिए मोसद्देग़ सत्ता में आए. एंग्लो-ईरानी ऑयल कंपनी, जो बाद में ब्रिटिश पेट्रोलियम बन गई, बीसवीं शताब्दी की शुरुआत से ही ईरानी तेल पर नियंत्रण रखती थी.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मौसम बदलते ही होने वाली एलर्जी या लगातार होते ज़ुकाम से बचने के 9 तरीक़े",
-          "summary": "दुनिया भर में 40 करोड़ लोग एलर्जिक राइनाइटिस से पीड़ित हैं। इसके लक्षणों से बचने के लिए 9 तरीके अपनाए जा सकते हैं। ये तरीके एलर्जी पैदा करने वाले तत्वों से बचाव में मदद कर सकते हैं।",
-          "region": "दुनिया"
+          "title": "ईरान के तेल का राष्ट्रीयकरण करने वाले मोसद्देग़ जिनका तख़्तापलट कर दिया गया",
+          "summary": "ईरान के मोसद्देग़ ने तेल का राष्ट्रीयकरण किया था। तेल का मुद्दा ही वह मुख्य आधार था जिसके ज़रिए मोसद्देग़ सत्ता में आए. एंग्लो-ईरानी ऑयल कंपनी, जो बाद में ब्रिटिश पेट्रोलियम बन गई, बीसवीं शताब्दी की शुरुआत से ही ईरानी तेल पर नियंत्रण रखती थी.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -310,24 +341,6 @@
           "title": "ईरान के ख़िलाफ़ ट्रंप अब क्या क़दम उठाएंगे, अरब जगत के मीडिया में कैसी है चर्चा",
           "summary": "अमेरिकी राष्ट्रपति ट्रंप ने ईरान को आत्मसमर्पण करने के लिए कहा है। उन्होंने ईरान पर लंबी नाकाबंदी लगाने की चेतावनी भी दी है। अरब जगत के मीडिया में इस मुद्दे पर चर्चा हो रही है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कमर्शियल गैस सिलेंडरों के दामों में बढ़ोतरी, किन पर सबसे ज़्यादा होने वाला है असर",
-      "url": "https://www.bbc.com/hindi/articles/cj4pvz81917o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-02T08:22:06+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad9e/live/3d612a60-45f8-11f1-849c-31633e0e0c7e.jpg",
-      "summary": "केंद्र सरकार ने कमर्शियल एलपीजी सिलेंडर की कीमत में 993 रुपये की बढ़ोतरी की है। इससे व्यावसायिक गतिविधियों पर असर पड़ सकता है। घरेलू गैस के दाम नहीं बढ़ाए गए हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कमर्शियल गैस सिलेंडरों के दामों में बढ़ोतरी, किन पर सबसे ज़्यादा होने वाला है असर",
-          "summary": "केंद्र सरकार ने कमर्शियल एलपीजी सिलेंडर की कीमत में 993 रुपये की बढ़ोतरी की है। इससे व्यावसायिक गतिविधियों पर असर पड़ सकता है। घरेलू गैस के दाम नहीं बढ़ाए गए हैं।",
-          "region": "दुनिया"
         }
       }
     },
@@ -368,24 +381,6 @@
       }
     },
     {
-      "title": "अमेरिकी मिसाइलों और ड्रोन के रिवर्स इंजीनियरिंग की क्यों है चर्चा",
-      "url": "https://www.bbc.com/hindi/articles/c3w2qzdll6eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-02T06:42:19+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/afdb/live/1caef5f0-45ed-11f1-9dca-4fdac5949239.jpg",
-      "summary": "ईरान में अमेरिकी बमों और हथियारों की रिवर्स इंजीनियरिंग की चर्चा चल रही है, जो वहां बिना फटे रह गए हैं। यह जानकारी सामने आई है कि ईरान इन हथियारों को अपने उपयोग के लिए तैयार कर रहा है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी मिसाइलों और ड्रोन के रिवर्स इंजीनियरिंग की क्यों है चर्चा",
-          "summary": "ईरान में अमेरिकी बमों और हथियारों की रिवर्स इंजीनियरिंग की चर्चा चल रही है, जो वहां बिना फटे रह गए हैं। यह जानकारी सामने आई है कि ईरान इन हथियारों को अपने उपयोग के लिए तैयार कर रहा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "ईरान के नए प्रस्ताव पर ट्रंप ने कहा- शत्रुता समाप्त पर अमेरिका जल्द पीछे नहीं हटेगा",
       "url": "https://www.bbc.com/hindi/articles/ce3pyx32575o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -400,24 +395,6 @@
           "title": "ईरान के नए प्रस्ताव पर ट्रंप ने कहा- शत्रुता समाप्त पर अमेरिका जल्द पीछे नहीं हटेगा",
           "summary": "ईरान ने अमेरिका के साथ समझौते को लेकर नया प्रस्ताव दिया है, लेकिन अमेरिकी राष्ट्रपति ट्रंप इससे संतुष्ट नहीं हैं। ट्रंप ने कहा है कि अमेरिका जल्द पीछे नहीं हटेगा और शत्रुता समाप्त होने पर ही आगे बढ़ेगा।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कनाडा ने खुफिया रिपोर्ट में माना- खालिस्तानियों से राष्ट्रीय सुरक्षा को खतरा; भारत पर फिर लगाया आरोप",
-      "url": "https://www.amarujala.com/world/canadian-intel-report-says-khalistani-elements-pose-national-security-threat-2026-05-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-02T05:07:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/canada_40d72beb980887609d54ffd01c7bc44e.jpeg?w=750&dpr=1.0",
-      "summary": "कनाडा ने खुफिया रिपोर्ट में माना कि खालिस्तानियों से राष्ट्रीय सुरक्षा को खतरा है. कनाडा ने फिर से भारत पर आरोप लगाया. यह रिपोर्ट कनाडा की सुरक्षा एजेंसियों द्वारा तैयार की गई थी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कनाडा ने खुफिया रिपोर्ट में माना- खालिस्तानियों से राष्ट्रीय सुरक्षा को खतरा; भारत पर फिर लगाया आरोप",
-          "summary": "कनाडा ने खुफिया रिपोर्ट में माना कि खालिस्तानियों से राष्ट्रीय सुरक्षा को खतरा है. कनाडा ने फिर से भारत पर आरोप लगाया. यह रिपोर्ट कनाडा की सुरक्षा एजेंसियों द्वारा तैयार की गई थी.",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -440,42 +417,6 @@
       }
     },
     {
-      "title": "ट्रंप ने इल्हान पर की विवादित टिप्पणी, सांसद ने भी राष्ट्रपति को बता दिया अपराधी",
-      "url": "https://www.amarujala.com/world/donald-trump-ilhan-omar-us-politics-controversy-statement-war-commented-on-somalia-political-clash-2026-05-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-02T03:53:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/us-iran-israel-war-donald-trump_f72f7dd89ad1b3b3613d692c4632838f.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति ट्रंप ने सांसद इल्हान पर विवादित टिप्पणी की, जिसके बाद सांसद ने भी राष्ट्रपति को अपराधी बता दिया। ट्रंप की टिप्पणी पर सांसद ने कड़ी प्रतिक्रिया दी और राष्ट्रपति को मूर्ख बताया।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने इल्हान पर की विवादित टिप्पणी, सांसद ने भी राष्ट्रपति को बता दिया अपराधी",
-          "summary": "अमेरिकी राष्ट्रपति ट्रंप ने सांसद इल्हान पर विवादित टिप्पणी की, जिसके बाद सांसद ने भी राष्ट्रपति को अपराधी बता दिया। ट्रंप की टिप्पणी पर सांसद ने कड़ी प्रतिक्रिया दी और राष्ट्रपति को मूर्ख बताया।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "मुंबई को छठा झटका, रॉबिन मिंज पांच रन बनाकर आउट; अंशुल कंबोज को मिली सफलता",
-      "url": "https://www.amarujala.com/live/cricket/cricket-news/csk-vs-mi-live-cricket-score-chennai-super-kings-vs-mumbai-indians-ipl-2026-44th-match-updates-2026-05-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T03:39:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/cananaii-bnama-mabii_54222eb1423c6ef58f8409779d2c7eca.jpeg?w=750&dpr=1.0",
-      "summary": "मुंबई के खिलाड़ी रॉबिन मिंज पांच रन बनाकर आउट हो गए, जिससे टीम को झटका लगा। अंशुल कंबोज ने मिंज को आउट कर मुंबई को छठा झटका दिया। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुंबई को छठा झटका, रॉबिन मिंज पांच रन बनाकर आउट; अंशुल कंबोज को मिली सफलता",
-          "summary": "मुंबई के खिलाड़ी रॉबिन मिंज पांच रन बनाकर आउट हो गए, जिससे टीम को झटका लगा। अंशुल कंबोज ने मिंज को आउट कर मुंबई को छठा झटका दिया। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "'ईरान के खिलाफ युद्ध खत्म हो चुका है', 60 दिन की समयसीमा पूरी होने पर ट्रंप ने संसद को दी जानकारी",
       "url": "https://www.amarujala.com/world/us-president-donald-trump-tells-lawmakers-war-against-iran-has-terminated-as-60-day-deadline-arrives-2026-05-02",
       "source": "Amar Ujala World",
@@ -494,55 +435,19 @@
       }
     },
     {
-      "title": "क्या इस बार सही साबित होंगे एग्जिट पोल, विश्लेषकों ने बताया आखिर कहां दिख रहा झोल",
-      "url": "https://www.amarujala.com/india-news/khabaron-ke-khiladi-west-bengal-assam-tamil-nadu-kerala-puducherry-election-exit-polls-expert-analysis-2026-05-02",
+      "title": "पुणे में बच्ची से दरिंदगी पर सियासत: कांग्रेस ने CM फडणवीस से मांगा इस्तीफा, सुप्रिया सुले ने फांसी",
+      "url": "https://www.amarujala.com/india-news/cm-devendra-fadnavis-should-resign-as-home-minister-harshvardhan-sapkal-slams-govt-over-pune-minor-girl-case-2026-05-02",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-02T03:30:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/khabaron-ke-khiladi_3af2b503d49682c12c6b6ee24c8bc181.jpeg?w=750&dpr=1.0",
-      "summary": "वरिष्ठ पत्रकारों ने पांच राज्यों के विधानसभा चुनावों के एग्जिट पोल्स पर चर्चा की। उन्होंने संभावित परिणामों और विसंगतियों पर बात की। एग्जिट पोल्स की सटीकता पर सवाल उठाए गए।",
+      "published_at": "2026-05-02T03:14:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/14/sapkal-equates-tipu-sultan-with-shivaji-gets-slammed-by-cm-fadnavis_367a0696ba24987eaef740b3fe01d5e2.jpeg?w=750&dpr=1.0",
+      "summary": "कांग्रेस ने पुणे मामले में सीएम फडणवीस से इस्तीफा मांगा। पुणे में बच्ची से दरिंदगी पर सियासत: कांग्रेस ने CM फडणवीस से मांगा इस्तीफा, सुप्रिया सुले ने फांसी।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्या इस बार सही साबित होंगे एग्जिट पोल, विश्लेषकों ने बताया आखिर कहां दिख रहा झोल",
-          "summary": "वरिष्ठ पत्रकारों ने पांच राज्यों के विधानसभा चुनावों के एग्जिट पोल्स पर चर्चा की। उन्होंने संभावित परिणामों और विसंगतियों पर बात की। एग्जिट पोल्स की सटीकता पर सवाल उठाए गए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कैरेबियाई देशों के साथ मजबूत होंगे संबंध: जमैका, सूरीनाम और त्रिनिदाद जाएंगे जयशंकर, इन मुद्दों पर",
-      "url": "https://www.amarujala.com/india-news/eam-jaishankar-official-visit-to-jamaica-suriname-trinidad-and-tobago-from-may-2-updates-2026-05-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T03:30:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/13/eam-dr-s-jaishankar-says-we-are-definitely-living-in-a-volatile-and-uncertain-era_f8099039eab300037086aa417477fad2.jpeg?w=750&dpr=1.0",
-      "summary": "विदेश मंत्री जयशंकर 2 मई से जमैका, सूरीनाम और त्रिनिदाद की आधिकारिक यात्रा पर जाएंगे। इस दौरान कैरेबियाई देशों के साथ संबंधों को मजबूत करने पर ध्यान केंद्रित किया जाएगा।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैरेबियाई देशों के साथ मजबूत होंगे संबंध: जमैका, सूरीनाम और त्रिनिदाद जाएंगे जयशंकर, इन मुद्दों पर",
-          "summary": "विदेश मंत्री जयशंकर 2 मई से जमैका, सूरीनाम और त्रिनिदाद की आधिकारिक यात्रा पर जाएंगे। इस दौरान कैरेबियाई देशों के साथ संबंधों को मजबूत करने पर ध्यान केंद्रित किया जाएगा।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "इलैयाराजा ने शेयर किया विजय पर फिल्माया गीत, तमिलनाडु चुनाव के बीच कंपोजर की पोस्ट ने खींचा सबका",
-      "url": "https://www.amarujala.com/entertainment/south-cinema/vijay-thalapathy-audio-track-shared-by-music-composer-ilaiyaraaja-amid-tamilnadu-elections-2026-05-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T03:19:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/vajaya-thalpata-ilyaraja_30384fa428567b5dbb1a5a752c2eb595.jpeg?w=750&dpr=1.0",
-      "summary": "संगीतकार इलैयाराजा ने तमिलनाडु चुनाव के बीच विजय थलापति की फिल्म का एक गाना शेयर किया। इसे अभिनेता से नेता बने विजय के लिए समर्थन के रूप में देखा जा रहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इलैयाराजा ने शेयर किया विजय पर फिल्माया गीत, तमिलनाडु चुनाव के बीच कंपोजर की पोस्ट ने खींचा सबका",
-          "summary": "संगीतकार इलैयाराजा ने तमिलनाडु चुनाव के बीच विजय थलापति की फिल्म का एक गाना शेयर किया। इसे अभिनेता से नेता बने विजय के लिए समर्थन के रूप में देखा जा रहा है।",
+          "title": "पुणे में बच्ची से दरिंदगी पर सियासत: कांग्रेस ने CM फडणवीस से मांगा इस्तीफा, सुप्रिया सुले ने फांसी",
+          "summary": "कांग्रेस ने पुणे मामले में सीएम फडणवीस से इस्तीफा मांगा। पुणे में बच्ची से दरिंदगी पर सियासत: कांग्रेस ने CM फडणवीस से मांगा इस्तीफा, सुप्रिया सुले ने फांसी।",
           "region": "दुनिया"
         }
       }
@@ -566,38 +471,20 @@
       }
     },
     {
-      "title": "क्या आपको अपनी कार में बड़े टायर लगवाने चाहिए? क्या यह सिर्फ दिखावा है या वाकई फायदेमंद?",
-      "url": "https://www.amarujala.com/automobiles/can-you-change-car-tyre-size-detailed-guide-on-fuel-efficiency-grip-and-comfort-2026-05-02",
+      "title": "विकास के नाम पर विनाश या देश के लिए गेमचेंजर? विरोध के बीच आसान भाषा में समझें सब कुछ",
+      "url": "https://www.amarujala.com/business/business-diary/great-nicobar-project-explained-inside-india-s-10b-strategic-answer-to-china-s-maritime-push-2026-05-02",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-02T03:06:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/car-tyre-size_a0868700b0d5d322e3f6e5d058a0e12c.jpeg?w=750&dpr=1.0",
-      "summary": "कार मालिकों को अपनी कार में बड़े टायर लगवाने के फायदे और नुकसान जानने की जरूरत है। इससे ईंधन दक्षता, पकड़ और आराम पर प्रभाव पड़ता है। क्या यह सिर्फ दिखावा है या वाकई फायदेमंद?",
-      "region": "World",
+      "published_at": "2026-05-02T03:13:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/great-nicobar-project_fd403b87b176de90eb6bbe4853055e5f.jpeg?w=750&dpr=1.0",
+      "summary": "ग्रेट निकोबार प्रोजेक्ट पर विरोध हो रहा है। 81,000 करोड़ रुपये की अनुमानित लागत से शुरू हो रहे ग्रेट निकोबार प्रोजेक्ट को लेकर राहुल गांधी ने 'विकास के नाम पर विनाश' का आरोप क्यों लगाया है?",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्या आपको अपनी कार में बड़े टायर लगवाने चाहिए? क्या यह सिर्फ दिखावा है या वाकई फायदेमंद?",
-          "summary": "कार मालिकों को अपनी कार में बड़े टायर लगवाने के फायदे और नुकसान जानने की जरूरत है। इससे ईंधन दक्षता, पकड़ और आराम पर प्रभाव पड़ता है। क्या यह सिर्फ दिखावा है या वाकई फायदेमंद?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गर्मियों में ठंडक का सुपरफूड, 30 तरह के रायते जो हर दिन देंगे नया स्वाद",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/30-raita-recipes-in-hindi-different-types-of-raita-in-summer-food-2026-05-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T03:00:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/raita-recipes_80a0ed486989b83ded88da4e549b9ed1.jpeg?w=750&dpr=1.0",
-      "summary": "गर्मियों में रायता एक सुपरफूड है जो ठंडक प्रदान करता है। 30 तरह के रायते बनाने की आसान रेसिपी और टिप्स से हर दिन नया स्वाद लिया जा सकता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गर्मियों में ठंडक का सुपरफूड, 30 तरह के रायते जो हर दिन देंगे नया स्वाद",
-          "summary": "गर्मियों में रायता एक सुपरफूड है जो ठंडक प्रदान करता है। 30 तरह के रायते बनाने की आसान रेसिपी और टिप्स से हर दिन नया स्वाद लिया जा सकता है।",
-          "region": "दुनिया"
+          "title": "विकास के नाम पर विनाश या देश के लिए गेमचेंजर? विरोध के बीच आसान भाषा में समझें सब कुछ",
+          "summary": "ग्रेट निकोबार प्रोजेक्ट पर विरोध हो रहा है। 81,000 करोड़ रुपये की अनुमानित लागत से शुरू हो रहे ग्रेट निकोबार प्रोजेक्ट को लेकर राहुल गांधी ने 'विकास के नाम पर विनाश' का आरोप क्यों लगाया है?",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -634,6 +521,132 @@
           "title": "जर्मनी से 5000 सैनिक क्यों हटा रहा अमेरिका?: नाटो देशों में बढ़ी चिंता, ट्रंप ने यूरोप को दे दिए ये",
           "summary": "अमेरिका जर्मनी से 5000 सैनिक हटा रहा है. इससे नाटो देशों में चिंता बढ़ गई है. ट्रंप ने यूरोप को नए संकेत दिए हैं. जर्मनी से 5000 सैनिक क्यों हटा रहा अमेरिका?: नाटो देशों में बढ़ी चिंता, ट्रंप ने यूरोप को दे दिए ये बड़े संकेत।",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "लंदन हमले के बाद बढ़ी चिंता: गाजा प्रदर्शन पर सख्ती के संकेत, स्टार्मर बोले- उकसाने वाले नारों पर",
+      "url": "https://www.amarujala.com/world/starmer-urges-tougher-action-against-gaza-protests-in-uk-following-antisemitic-attacks-2026-05-02",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-02T02:20:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/starmer-urges-tougher-action-against-gaza-protests-in-uk-following-antisemitic-attacks_c3993232ad4052cd5d2cdd3d7a3a7889.jpeg?w=750&dpr=1.0",
+      "summary": "लंदन में गाजा प्रदर्शन पर सख्ती के संकेत मिले। लंदन हमले के बाद बढ़ी चिंता: गाजा प्रदर्शन पर सख्ती के संकेत, स्टार्मर बोले- उकसाने वाले नारों पर।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लंदन हमले के बाद बढ़ी चिंता: गाजा प्रदर्शन पर सख्ती के संकेत, स्टार्मर बोले- उकसाने वाले नारों पर",
+          "summary": "लंदन में गाजा प्रदर्शन पर सख्ती के संकेत मिले। लंदन हमले के बाद बढ़ी चिंता: गाजा प्रदर्शन पर सख्ती के संकेत, स्टार्मर बोले- उकसाने वाले नारों पर।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "म्यांमार दौरे पर पहुंचे नौसेना प्रमुख: समुद्री सहयोग को मिलेगी नई दिशा, सैन्य अधिकारियों से भी",
+      "url": "https://www.amarujala.com/world/navy-chief-arrives-in-myanmar-maritime-cooperation-set-to-gain-new-direction-also-meet-with-military-officials-2026-05-02",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-01T21:25:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/13/indian-navy-navy-chief-admiral-dinesh-tripathi-says-operation-sindoor-is-still-going-on-not-stopp_5487073d7726dbff3a8d017b568e43f6.jpeg?w=750&dpr=1.0",
+      "summary": "भारतीय नौसेना प्रमुख म्यांमार के दौरे पर पहुंचे हैं। वे समुद्री सहयोग को नई दिशा देने और सैन्य अधिकारियों से मुलाकात करने के लिए वहां हैं। म्यांमार दौरे पर पहुंचे नौसेना प्रमुख: समुद्री सहयोग को मिलेगी नई दिशा, सैन्य अधिकारियों से भी करेंगे मुलाकात।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "म्यांमार दौरे पर पहुंचे नौसेना प्रमुख: समुद्री सहयोग को मिलेगी नई दिशा, सैन्य अधिकारियों से भी",
+          "summary": "भारतीय नौसेना प्रमुख म्यांमार के दौरे पर पहुंचे हैं। वे समुद्री सहयोग को नई दिशा देने और सैन्य अधिकारियों से मुलाकात करने के लिए वहां हैं। म्यांमार दौरे पर पहुंचे नौसेना प्रमुख: समुद्री सहयोग को मिलेगी नई दिशा, सैन्य अधिकारियों से भी करेंगे मुलाकात।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "युद्ध के बीच इजरायल ने सैनिक और घातक लेजर हथियारों को UAE भेजा, ईरान के खिलाफ खड़ा किया रक्षा कवच",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZTRMaW5zV1dVRFRNUVgxQ1VhZWFJeTdSSUhDTE9ITFVod1Bfak04c1l5NHpSeUdYZVczVF8waXRMLUpvdE5oZllsbTFDWXRJeTZ2UE9VTWhqcUE1YWxtTGtZeU4wdDZReUo5S0NBRGZPaUt5NmlWeDgzSzk4VTVWUmMzUHg5TmtPVDJyaUkyVFVndXdsZ1pUN04wVkk3SW5RdnVJQjQ4NzlfMEc4SEVpOTJMTlpkUGNuVjhUbDVHMFUwcFBmNmd4M1ktaDY0X2xYRGxOeUprSl9xVktBMlRJcU5HRU9kTlpoSmQxS3ctb9IB9AFBVV95cUxORzluX1FNUjZtdjBlSTdPME4zaGc3clV0SDZwSGR4cm5Ed0NqclhMalFJN190aUhfSnQyMFRaNDhiSnItc1U1dHFzUVFOYmRRU1hoX0pzdmp1MVBsMGNEN29XX2NJQmUtbUNnN0tfbDJkbXBWeXZuZFp6eVlydXJwb1VmNW5sdTFXNElVTnp5LV9zcUJ0R1M3amFidUFuSjNIOUxaRlBDVFk1UkVMZmFGQ3BDWGR3YXFJeFRlamY1T2FpNy1RaHFNeXhuMXd5V3BtcWxRb09zWFFZR3kyNFM3MzFkRDVRbXRFRUJzSnh4eThzZ05F?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-01T20:46:02+00:00",
+      "image_url": "https://images.pexels.com/photos/30831931/pexels-photo-30831931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "इजरायल ने युद्ध के बीच सैनिक और लेजर हथियारों को UAE भेजा है। यह ईरान के खिलाफ रक्षा कवच खड़ा करने के लिए किया गया है। बड़ा खुलासा: युद्ध के बीच इजरायल ने सैनिक और घातक लेजर हथियारों को UAE भेजा, ईरान के खिलाफ खड़ा किया रक्षा कवच AajTak।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "युद्ध के बीच इजरायल ने सैनिक और घातक लेजर हथियारों को UAE भेजा, ईरान के खिलाफ खड़ा किया रक्षा कवच",
+          "summary": "इजरायल ने युद्ध के बीच सैनिक और लेजर हथियारों को UAE भेजा है। यह ईरान के खिलाफ रक्षा कवच खड़ा करने के लिए किया गया है। बड़ा खुलासा: युद्ध के बीच इजरायल ने सैनिक और घातक लेजर हथियारों को UAE भेजा, ईरान के खिलाफ खड़ा किया रक्षा कवच AajTak।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका-ईरान संघर्ष में नया विवाद, अराघची ने पेंटागन पर युद्ध की लागत कम आंकने का लगाया आरोप",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRGhCZFlOWFlWVFFCYzBxdldfQXhLak8xYjZoS1h1YkZ1WHVLbnhyV05yLW1abGhtOUF5VjlIYkl1QmJaTVNXb1BTXzRTdkJidlFaX1VCazRQWUw2Q2hvR0xjVjdULXBodXQ0Rl9iQWpyMGh4TkZZS1lBTVdOMVVlaGNPREItYUV4aVJpeTh4WjUybkQtWFhCdU9nVE92MGVaNDZwdFJyNVFBbWlraTM3RzN2aEJpUkhMbFMzQ3Jlb0t1NUFyS21fM01iWkZlczhBUjJOSm5ZMmlrenpkN05xVi1TeTfSAeoBQVVfeXFMT19qSFo5THZXTzNSeWFjZGNqVzdiOUxLc3lhaVp1Z0lPQjlvVDlVanJtRlZzVEQzYnZkdVAtdkJBQmdiUDdtMHVpZC0yRTJZQkVKQ05rek1qQlRpWHVnYkZqbHdVaEFmaExPVUJRRU1xbDVEWnR5Nk1ZOE1RdFliM0F2Z3RQRUxzMGRvcVU3Zk5qZjdnSXd6alRqdE9PcS14Y2ltWXl0amhmTWlBTXlhX181Tkl6Mm9valdid2FBTE5td1lZYjc0NzF1VkFXUnRUM1JVUThiRFl1d0Z2c3J5LXZWYUFmcVlPOGVB?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-01T13:58:44+00:00",
+      "image_url": "https://images.pexels.com/photos/4386403/pexels-photo-4386403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान के विदेश मंत्रालय के प्रवक्ता अब्बास अराघची ने पेंटागन पर आरोप लगाया है कि उन्होंने अमेरिका-ईरान संघर्ष की लागत कम आंकी है। Abbas Araghchi: अमेरिका-ईरान संघर्ष में नया विवाद, अराघची ने पेंटागन पर युद्ध की लागत कम आंकने का लगाया आरोप Amar Ujala।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-ईरान संघर्ष में नया विवाद, अराघची ने पेंटागन पर युद्ध की लागत कम आंकने का लगाया आरोप",
+          "summary": "ईरान के विदेश मंत्रालय के प्रवक्ता अब्बास अराघची ने पेंटागन पर आरोप लगाया है कि उन्होंने अमेरिका-ईरान संघर्ष की लागत कम आंकी है। Abbas Araghchi: अमेरिका-ईरान संघर्ष में नया विवाद, अराघची ने पेंटागन पर युद्ध की लागत कम आंकने का लगाया आरोप Amar Ujala।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOXcwaGs4MHRrZ1pzU0w1WmpOa1dKWC1lc2cwMERvVF90VzNiN0tYTWotQXJYVmVidDd3dEt4N0xpbWxjeXFoWXAxVV85UGdlVzZ1eFRvUEFqLXlSMjdvUm5JMUh5U204a2xOYlBYdjBLc2tHbko0MHB1aDZUTHNuSS1kUzM4bExsbVQ4enNfRnVkZFZ4Q0NCR1c3QnNPam5NSS1MaUFCREFyVHgzY1NfVEh2cEt6TmtxZkZ5THN1SXRmc3lhSkN0d3VQZGg3OHp0dkdiSHpMb2FReTV5ZFBRbFYxcWRJN1p2ejFWbVlDaUNCMFNXal9nT2pyU3BLNFlKZlHSAYcCQVVfeXFMT3VEemgzRjFFU0VmeFV2VlVoeFZmSXBpVXFOUGFOSTNXRU4xQUZTcGJRUFd0b2syVzJhN1FteUpHeVk2MjdCLVA0QkRqcWRuUlZOT1lRSG5idVU5X0JfYlRQTnRHVUFHSFh2c2RsZ19VajhmdGdhcTQ4WGhOTXhmZ0VUT2FoS2p6UDFSWkE3LXlXeEM2RmMzM1ZPZGd6OHpaYTg1UDVYX1NDa1ZaZ2lBalYyeWplelRTZlc4LWdKMnIzWG9UUmwxVFFYMnc5aXlCUnkxRkdhak9vMEFZY2VybDkwNmtHM0dHTzRSUnNwX05Mbm9ncDV3dElwbU40YkhCLXJ5clFmbms?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-01T09:23:13+00:00",
+      "image_url": "https://images.pexels.com/photos/36212636/pexels-photo-36212636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "मई भारत के लिए कूटनीति के मोर्चे पर निर्णायक होगा। प्रधानमंत्री मोदी यूरोप का दौरा करेंगे और अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे। Diplomatic Month for India: कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे Navbharat Times।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री",
+          "summary": "मई भारत के लिए कूटनीति के मोर्चे पर निर्णायक होगा। प्रधानमंत्री मोदी यूरोप का दौरा करेंगे और अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे। Diplomatic Month for India: कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे Navbharat Times।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज में जाम से दुनिया में कोहराम, UN चीफ की महामंदी वाली चेतावनी",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa2dTbGZyTmU3cC1FSFl5NXRreEFjSC1iam1XbUJ5MTF3aGlrSEw1ZTJLVkVvRG1pSTQzYTRIOVAwdDluMC1mcDNfSTdYcV9rVW0zUUlaUXNzM0JmaXBmckhwaHA2M3R5MmVDRVZQNl9yU0ZJNXBvZ0N3YlBDdFVFOGM5QmNxVWhXQVRZX0VMV3NONjhpeHFySXVFNW5COUF2Q1RHTU9vUjRvVk02Nm5FOFFLNWFDTFdfTFp1M1ctNndzZndpNUYzYTlhN01aRDIwYW91M3BjOU5HUEJqSkRReldJcFRtZG9sN1ZlY01B0gHzAUFVX3lxTFB1bnlNOVpmbzFaRGhRdDFsVGtuXzhvVF91NTRqbUhqakU4S2F2RWxqTnRpd2tvNmkyZGFnZjJXOTBYa2NPWWNxSlJWZEZXVUEwT01YcE4wOHRVRnRmRXZCYVc4bUxaSFJralduXzc2Si1kSnNTZ0Vpc19mQVprVHV1emZZeDNzaWc1cDhORnlISTBDaS1relZUaTFoc3YwaFYwNWYxNlNNZjFjNElBMHVzUUVHdVR4SXdtRlhkdERWd2p4Wm9mMkQtUmtuUkdFTlB0VkhlVTRlUWhUeHp0UHdhMzBOa0dvZnFRV2R2Nm45RVhiSQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-01T05:53:30+00:00",
+      "image_url": "https://images.pexels.com/photos/10692618/pexels-photo-10692618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "UN चीफ ने चेतावनी दी है कि होर्मुज में जाम से दुनिया में महामंदी आ सकती है। यह एक वैश्विक आर्थिक संकट की ओर इशारा करता है। Global Economic Crisis: होर्मुज में जाम से दुनिया में कोहराम, UN चीफ की महामंदी वाली चेतावनी Mint।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज में जाम से दुनिया में कोहराम, UN चीफ की महामंदी वाली चेतावनी",
+          "summary": "UN चीफ ने चेतावनी दी है कि होर्मुज में जाम से दुनिया में महामंदी आ सकती है। यह एक वैश्विक आर्थिक संकट की ओर इशारा करता है। Global Economic Crisis: होर्मुज में जाम से दुनिया में कोहराम, UN चीफ की महामंदी वाली चेतावनी Mint।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान के राष्ट्रपति का बड़ा बयान: ‘डिप्लोमेसी के लिए हम तैयार हैं, लेकिन अमेरिका को छोड़नी होगी अपनी",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0Fmb0pYSnRsejlCM3N5NXp0cmktd1dZNUhnaWRzX3c5TEJDbmIyRkJLSG4zOXZFazByMXlCOFdlOGtkLThkbGZHTnBvOWhuaTczZjBkYV9FVFhxOE1uUXZEMmczcWUwcVByc2NLdWF0UTd0bG9WcHVScGttelc0ZTRQdi11Mm41clRFT05YTTh1X1pzWFA2TzJsTS1NNjhqM0JSRWdyNlQxVEnSAbABQVVfeXFMTWVLVDM5bV9TZW5yLVRHLTFzV0Q2Z3ZySzRfbjVZSHlwRkI5UnU0UXlFR2FGY0dVbFFjaHE3UmZSRmNCeVJpX0FkV0xSOEZ0RlN0YjdWSWp6M1R1VXNDMEVacUpCYVlKWWxHOC1ISjlKb3FxUEg4cjJucHgwMHdRZGhKUVhoRXF3WHF6bURYdE41MUJMQ2tCTUd2WXAwLW9lcHo2V25valFITnFpQldnbEo?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-04-30T15:20:28+00:00",
+      "image_url": "https://images.pexels.com/photos/16033963/pexels-photo-16033963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान के राष्ट्रपति ने कहा कि वे कूटनीति के लिए तैयार हैं, लेकिन अमेरिका को अपनी जिद छोड़नी होगी. उन्होंने यह बयान हाल ही में दिया था. अमेरिका और ईरान के बीच तनाव कम करने के लिए यह बयान महत्वपूर्ण माना जा रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के राष्ट्रपति का बड़ा बयान: ‘डिप्लोमेसी के लिए हम तैयार हैं, लेकिन अमेरिका को छोड़नी होगी अपनी",
+          "summary": "ईरान के राष्ट्रपति ने कहा कि वे कूटनीति के लिए तैयार हैं, लेकिन अमेरिका को अपनी जिद छोड़नी होगी. उन्होंने यह बयान हाल ही में दिया था. अमेरिका और ईरान के बीच तनाव कम करने के लिए यह बयान महत्वपूर्ण माना जा रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
