@@ -1,44 +1,69 @@
 {
-  "generated_at": "2026-05-02T19:03:41.688255+00:00",
+  "generated_at": "2026-05-02T20:45:53.290540+00:00",
   "article_count": 42,
   "total_unique_count": 251,
   "digest": {
-    "en": "Spain demands Israel release a Gaza flotilla crew member. The hijacking of an oil tanker off Yemen's coast, taken towards Somalia, adds to regional tensions. Southern Lebanon faces devastation under a ceasefire, with reports of ongoing violence and humanitarian concerns.",
-    "hi": "चीन संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष बन गया है। पहले ही दिन भारत की टेंशन बढ़ा दी। चीन ने जंग छेड़ दी है, जिससे क्षेत्रीय सुरक्षा को खतरा हो सकता है।"
+    "en": "A drone strike in Khartoum killed five people working for a Sudan NGO. Taiwan's leader visited Eswatini despite objections from China. An oil tanker was hijacked off Yemen's coast and taken towards Somalia.",
+    "hi": "लेबनान के प्रधानमंत्री ने नफरत भड़काने से दूरी बनाने की अपील की है। दक्षिण लेबनान में इस्राइली हमले तेज हो गए हैं। प्रधानमंत्री की अपील के बावजूद क्षेत्र में तनाव बढ़ रहा है।"
   },
   "articles": [
     {
-      "title": "Spain demands Israel release arrested Gaza flotilla crew member",
-      "url": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss",
+      "title": "Khartoum drone strike kills five Sudan NGO reports",
+      "url": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss",
       "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-02T18:12:35+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_69f605101225e-1777730832.jpg?resize=1920%2C1440",
-      "summary": "Spanish authorities demanded Israel release Saif Abukeshek, a Gaza flotilla crew member, after he was taken into custody during a raid off the Greek coast. Abukeshek was among those detained by Israeli forces.",
+      "published_at": "2026-05-02T19:59:16+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-05T172345Z_346222532_RC2RBEANVTVW_RTRMADP_3_SUDAN-DRONES-PORT-SUDAN-1746520568.jpg?resize=1200%2C630",
+      "summary": "Israeli forces expanded the \"orange line\" in Gaza, tightening movement restrictions and raising deadly risks for civilians. The expanded zone now covers more areas, further isolating the Palestinian territory. The attack, the second in a week, follows months of relative calm in the city after government forces regained control.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Police arrest suspect over poisoned HiPP baby food",
-      "url": "https://www.dw.com/en/austria-police-arrest-suspect-over-poisoned-hipp-baby-food/a-77021390?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-02T18:10:00+00:00",
-      "image_url": "https://static.dw.com/image/76875508_6.jpg",
-      "summary": "Austrian police arrested a 39-year-old man suspected of attempting to blackmail a German baby food manufacturer by contaminating HiPP baby food. The suspect's alleged involvement led to the arrest. A 39-year-old man has been arrested in Austria for his alleged involvement in an attempt to blackmail a German baby food manufacturer.",
-      "region": "Europe & Russia",
+      "title": "Taiwan leader makes delayed visit to Eswatini after China objections",
+      "url": "https://www.channelnewsasia.com/east-asia/taiwan-leader-makes-delayed-visit-eswatini-after-china-objections-6096376",
+      "source": "Channel News Asia",
+      "sources": [
+        {
+          "url": "https://www.channelnewsasia.com/east-asia/taiwan-leader-makes-delayed-visit-eswatini-after-china-objections-6096376",
+          "source": "Channel News Asia"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRGZaOU4yRDBwdkR1NG1nQkFxQ1JhbFJteEFtc1Z5ZDFKMmk2R3ctYmFFNnd4Rnl4dGtmVGVKQmxadjB6SURnMERQTXFQc1ZJS2YzWlVtWjVIYUk5OTJkTXJ6UDE4ZlhPbDVUUk5ZYWhRZ1B1dGYzZkdvUzlfNEl3c1J3cWhFWGQzaTJTVm1ZRnNXdXVhR0MwSDB4cnZoQWpqcHdhTy16MzNYZk1jQ0lBV1hUWTZYZFdZdkRBYS1CTkQ2V09pbEhNOVRyYVhwZEZCQlhWSkpvTzg5ZHhDcUhGdzZ2X0pLbS1IUENjR2RadDVId3ZN?oc=5",
+          "source": "Google News (international relations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRGZaOU4yRDBwdkR1NG1nQkFxQ1JhbFJteEFtc1Z5ZDFKMmk2R3ctYmFFNnd4Rnl4dGtmVGVKQmxadjB6SURnMERQTXFQc1ZJS2YzWlVtWjVIYUk5OTJkTXJ6UDE4ZlhPbDVUUk5ZYWhRZ1B1dGYzZkdvUzlfNEl3c1J3cWhFWGQzaTJTVm1ZRnNXdXVhR0MwSDB4cnZoQWpqcHdhTy16MzNYZk1jQ0lBV1hUWTZYZFdZdkRBYS1CTkQ2V09pbEhNOVRyYVhwZEZCQlhWSkpvTzg5ZHhDcUhGdzZ2X0pLbS1IUENjR2RadDVId3ZN?oc=5",
+          "source": "Google News (international relations)"
+        }
+      ],
+      "published_at": "2026-05-02T19:47:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--1CbbYaNf--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Taiwan-Eswatini-China_45889.jpg?itok=wY1zdG2F",
+      "summary": "Taiwan's leader visited Eswatini, a move delayed due to Chinese objections. The visit comes after months of diplomatic efforts to strengthen ties between the two nations. Taiwan leader makes delayed visit to Eswatini after China objections.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Devastation of Southern Lebanon continues under ‘ceasefire’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
+      "title": "Hobbesian Enmity and Resource Wars in Apocalyptic Popular Culture - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEE3YmlTTVdKWmhsREVzWlRaVWRLTlgxN2htS2Exbzg0SnluZFJuaUw4QW5ZXzhRR2wxYTFmcENxYTdybFQtZ0RabUhnMWo2dHVfWjB5NEhPQWJSQk5HMjlPVmxDQ0V3dE1FWElWMkt3M3JGVEZkNjRVbEs5eG84dzY1eFlXNy14R0pSWW9hNDdFSmlCSFZFLW5FcGdSSXk2?oc=5",
+      "source": "Google News (international relations)",
+      "sources": [],
+      "published_at": "2026-05-02T19:12:11+00:00",
+      "image_url": "https://images.pexels.com/photos/19813734/pexels-photo-19813734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "This article discusses the theme of Hobbesian enmity and resource wars in apocalyptic popular culture. It explores how these themes are represented in various forms of media, including films and literature.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/israels-expanding-orange-line-tightens-deadly-no-go-zones-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-02T18:05:05+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-02-at-9.02.18-PM-1777745057.png?resize=1920%2C1440",
-      "summary": "At least 41 people were killed in southern Lebanon as Israel launched 50 airstrikes in 24 hours. The attacks continued despite a reported ceasefire. At least 41 people killed as Israel launches 50 airstrikes on southern Lebanon in 24 hours.",
+      "published_at": "2026-05-02T19:11:33+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-27T120202Z_644447080_RC2JPKA52JFJ_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-RUBBLE-1777749067.jpg?resize=1920%2C1440",
+      "summary": "Israel's military expanded the \"orange line\" in Gaza, deepening movement restrictions and increasing risks for civilians. The expanded zone now covers more areas, further isolating the Palestinian territory. Israel’s expanding “orange line” is deepening movement restrictions across Gaza, raising deadly risks for civilians.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -68,14 +93,26 @@
       "translations": {}
     },
     {
-      "title": "Drone kills 2 in Kherson minibus strike, as Russia claims front-line progress",
-      "url": "https://www.channelnewsasia.com/world/drone-kills-2-in-kherson-minibus-strike-russia-claims-front-line-progress-6095991",
-      "source": "Channel News Asia",
+      "title": "May 4, 2026 | \"How Hezbollah Makes Peace between Lebanon and Israel Impossible\" with Dr. Ibtissam",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcVZMYTlyM2pwLUNRUUJMT0JJazAwSTZRY0JpbG95b0JrREMyU25rQjFmLVhXcjFOQjNGMUx4RGR4WXBRQzdyaVkzTmZUU3NjSmJDYzk4bElVaXJMWVNaZU5CX3c5QndIVERBUzlQcWM4d1NmdE5YSjVNUjNaRFdENUxrUGV4dGVJaFhYMWFVYUo3MWhGMWdoMWpacmlOMVdrRV9JRi1JZG9mOXJlOGswTVdRcWV6VDFoYVAtUV9QNDlCSkNnUWFHM2pB?oc=5",
+      "source": "Google News (international relations)",
       "sources": [],
-      "published_at": "2026-05-02T17:49:07+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--G-ZKBJle--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Russia_Ukraine_War_2_452.jpg?itok=i6ItJCGM",
-      "summary": "A drone strike on a minibus in Kherson killed 2 people. Russia claimed progress on the front lines. Drone kills 2 in Kherson minibus strike, as Russia claims front-line progress.",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-02T17:36:23+00:00",
+      "image_url": "https://images.pexels.com/photos/30818857/pexels-photo-30818857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Dr. Ibtissam Klait spoke about Hezbollah's role in preventing peace between Lebanon and Israel. The discussion highlighted the group's influence on regional politics and its impact on the Middle East peace process.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran military official says renewed war with U.S. 'likely'",
+      "url": "https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-02T17:36:07+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/uric5a/article70930739.ece/alternates/LANDSCAPE_1200/2026-05-01T172007Z_982900821_RC210LAX5IPO_RTRMADP_3_IRAN-CRISIS-SAUDI-LIQUOR.JPG",
+      "summary": "Iran says war with the US is likely after the US warned shipping companies about sanctions for paying Iran to pass through the Strait of Hormuz.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -104,30 +141,6 @@
       "translations": {}
     },
     {
-      "title": "Banksy confirms new statue installed in central London is his work",
-      "url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-05-02T17:25:40+00:00",
-      "image_url": "https://images.pexels.com/photos/3683681/pexels-photo-3683681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Banksy confirmed a new statue in London is his work. It depicts a man hoisting a flag. The statue in Waterloo Place, which appeared early Wednesday, depicts a man proudly hoisting a flag.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Relief for Howe as Newcastle end losing run with win over Brighton",
-      "url": "https://www.channelnewsasia.com/sport/relief-howe-newcastle-end-losing-run-win-over-brighton-6096311",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-02T17:15:03+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--M0eqh-QG--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-02T171503Z_1_LYNXMPEM410BR_RTROPTP_3_SOCCER-ENGLAND-NEW-BHA.JPG?itok=flQvDVtF",
-      "summary": "Newcastle ended their losing run with a win over Brighton. Howe's team secured a much-needed victory. Relief for Howe as Newcastle end losing run with win over Brighton.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Yemen reports hijacked oil tanker headed for Somalia",
       "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
       "source": "Al Jazeera",
@@ -147,54 +160,6 @@
       "published_at": "2026-05-02T17:06:22+00:00",
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777741559.jpg?resize=1920%2C1080&quality=80",
       "summary": "Spanish Prime Minister Pedro Sanchez demanded Israel release a Spaniard seized on an aid flotilla. Spanish Prime Minister Pedro Sanchez is demanding Israel to release the 'abducted' Spaniard taken from the flotilla.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Airlines scramble to help stranded Spirit passengers after budget carrier collapses",
-      "url": "https://www.channelnewsasia.com/world/airlines-scramble-help-stranded-spirit-passengers-after-budget-carrier-collapses-6096261",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-02T17:05:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--RODkd7v6--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Spirit_Airlines_Bankruptcy_532_6.jpg?itok=nmaoxDAg",
-      "summary": "Airlines are helping stranded Spirit passengers after the budget carrier collapsed. Airlines scramble to help stranded Spirit passengers after budget carrier collapses.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
-      "url": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-02T17:01:47+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/323e/live/c03cec40-4642-11f1-ac78-2112837ce2aa.jpg",
-      "summary": "Taiwan's president visited Eswatini after blaming China for a cancelled trip, with China describing it as a \"stowaway-style escape\". It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Kostyuk downs Andreeva to claim Madrid Open title",
-      "url": "https://www.channelnewsasia.com/sport/kostyuk-downs-andreeva-claim-madrid-open-title-6096286",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-02T16:58:39+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--aelxL4BM--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-02T184944Z_1_LYNXMPEM410E0_RTROPTP_3_TENNIS-MADRID.JPG?itok=ZrFjSJvA",
-      "summary": "Kostyuk won the Madrid Open title by defeating Andreeva. Kostyuk downs Andreeva to claim Madrid Open title.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Prices surge, jobs disappear as war strains Iran’s economy",
-      "url": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-02T16:58:30+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-15T112736Z_842916116_RC2KPKAUSKSB_RTRMADP_3_IRAN-CRISIS-DAILYLIFE-1776691957.jpg?resize=1920%2C1440",
-      "summary": "Iran's economy struggles as war causes prices to surge and jobs to disappear under New Supreme Leader Mojtaba Khamenei. New Supreme Leader Mojtaba Khamenei says the country must defeat its enemies in an economic and cultural struggle, as we.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -220,18 +185,6 @@
       "image_url": "https://static.dw.com/image/77020380_6.jpg",
       "summary": "Sinaloa Governor Ruben Rocha Moya stepped down after being indicted by the US. He was accused of protecting the Sinaloa cartel and taking millions in bribes. Sinaloa Governor Ruben Rocha Moya has been accused of protecting the powerful Sinaloa cartel and helping it smuggle drugs into the US, allegedly taking in millions of dollars in bribes.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Dutch Princesses Targeted In Chilling 'Nazi' Murder Plot",
-      "url": "https://www.ndtv.com/world-news/bloodbath-dutch-princesses-catharina-amalia-alexia-targeted-in-chilling-nazi-murder-plot-11440580#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-02T16:38:01+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/i5rjgmqc_dutch-princess_625x300_02_May_26.png?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "A suspect had a note with the names of Dutch Princesses Amalia and Alexia and the word \"bloodbath\". Suspect had a handwritten note with the words \"Amalia\", \"Alexia\" and \"bloodbath\".",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -273,20 +226,116 @@
       "translations": {}
     },
     {
-      "title": "यूएनएसी अध्यक्ष बनते ही चीन ने छेड़ी जंग, पहले ही दिन भारत की टेंशन बढ़ाई",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSThZanpnZmdfWG9WbmJJY2twbnI2WTZldGwxczNfUl91MFl3Q045RldmY1IwdzFFdnhRZGdfSXB5TDF1OXdIODktWDlYdEVhdy1yTmRDZEY0LTBfRnE0QndTV1RrdmRBNkpGTTNvVFl4REQ0M1k0SW84TU0wRHhUSGtjY1U1dVA3dzVaYmVEOUFHemZ6WWxpZzVTRzgzcUZfZ3lRbV82MFJYWDFpd2ZWaldOTzAxVjFWSl9JN3VpQTg3ejIxVjJ0a0Q3aHVmemV5ajVfalRPbGI?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners",
+      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
+      "source": "NYT World",
       "sources": [],
-      "published_at": "2026-05-02T15:45:35+00:00",
-      "image_url": "https://images.pexels.com/photos/15470221/pexels-photo-15470221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "चीन ने संयुक्त राष्ट्र सुरक्षा परिषद (यूएनएससी) के अध्यक्ष के रूप में अपने पहले दिन भारत के लिए चिंता बढ़ा दी है। चीन ने इस पद पर आते ही तनाव बढ़ाने वाले कदम उठाए हैं।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-02T16:18:32+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/02/multimedia/02mideast-arm-deal-cpbg/02mideast-arm-deal-cpbg-mediumSquareAt3X.jpg",
+      "summary": "The US fast-tracked $8.6 billion in arms deals to Mideast partners, bypassing congressional review, amid repeated Iranian attacks. The Persian Gulf countries and Israel have faced repeated Iranian attacks during the U. S.-Israeli war with Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US warns shipping firms over Iran ‘toll’ payments; Gulf bases ‘heavily damaged’: 10 developments",
+      "url": "https://indianexpress.com/article/world/us-news/iran-us-war-updates-strait-of-hormuz-toll-spirit-airlines-collapse-oil-prices-10667997/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-02T16:09:00+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/iran-us-war.jpg",
+      "summary": "The US warned shipping firms over Iran toll payments and reported Gulf bases were heavily damaged. US warns shipping firms over Iran ‘toll’ payments; Gulf bases ‘heavily damaged’: 10 developments.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. to Withdraw 5,000 Troops From Germany. But Thousands Will Remain.",
+      "url": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-02T15:56:56+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/02/multimedia/02int-germany-troops-wtk-qblh/02int-germany-troops-wtk-qblh-mediumSquareAt3X.jpg",
+      "summary": "The US will withdraw 5,000 troops from Germany, but thousands will remain, with tens of thousands of personnel still stationed there. The U. S. military has tens of thousands of personnel in Germany, more than in any other foreign country but Japan.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Fighting reaches outskirts of Ukraine's stronghold Kostiantynivka",
+      "url": "https://www.thehindu.com/news/international/fighting-reaches-outskirts-of-ukraines-stronghold-kostiantynivka/article70932663.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-02T15:21:40+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/czc3b7/article70932685.ece/alternates/LANDSCAPE_1200/2026-04-15T205311Z_1925925001_RC2VOJAW0OSI_RTRMADP_3_UKRAINE-CRISIS-FRONTLINE.JPG",
+      "summary": "Fighting reached the outskirts of Kostiantynivka, a Ukrainian stronghold in the east, which is part of a fortified belt. Kostiantynivka, ​along with other cities, forms a so-called fortress ⁠belt in the country’s east - an area well fortified by the Ukrainian military.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How Germany May Have Misjudged Trump’s Anger on Iran",
+      "url": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-02T14:59:59+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/02/multimedia/02int-Germany-troops-01-ztjb/02int-Germany-troops-01-ztjb-mediumSquareAt3X.jpg",
+      "summary": "Germany offered a measured response after President Trump announced troop withdrawal, having initially appeared to not believe the threats. Germany had appeared not to believe President Trump’s threats to pull troops from the country.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "लेबनान के प्रधानमंत्री की नफरत भड़काने से दूरी की अपील; दक्षिण लेबनान में इस्राइली हमले तेज",
+      "url": "https://www.amarujala.com/live/world/west-asia-live-updates-america-iran-ceasefire-strait-of-hormuz-peace-talks-trump-israel-lebanon-news-in-hindi-2026-05-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-03T07:16:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/12/us-iran-war_20b220cfbfa9ac73f8442a1db5b31793.jpeg?w=750&dpr=1.0",
+      "summary": "लेबनान के प्रधानमंत्री ने नफरत भड़काने से दूरी बनाने की अपील की है. दक्षिण लेबनान में इस्राइली हमले तेज हो गए हैं. यह क्षेत्रीय तनाव की स्थिति को और बढ़ा सकता है.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यूएनएसी अध्यक्ष बनते ही चीन ने छेड़ी जंग, पहले ही दिन भारत की टेंशन बढ़ाई",
-          "summary": "चीन ने संयुक्त राष्ट्र सुरक्षा परिषद (यूएनएससी) के अध्यक्ष के रूप में अपने पहले दिन भारत के लिए चिंता बढ़ा दी है। चीन ने इस पद पर आते ही तनाव बढ़ाने वाले कदम उठाए हैं।",
-          "region": "एशिया-प्रशांत"
+          "title": "लेबनान के प्रधानमंत्री की नफरत भड़काने से दूरी की अपील; दक्षिण लेबनान में इस्राइली हमले तेज",
+          "summary": "लेबनान के प्रधानमंत्री ने नफरत भड़काने से दूरी बनाने की अपील की है. दक्षिण लेबनान में इस्राइली हमले तेज हो गए हैं. यह क्षेत्रीय तनाव की स्थिति को और बढ़ा सकता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'क्यूबा पर लगभग तुरंत ही कब्जा कर लेंगे', ट्रंप का बड़ा दावा; अमेरिका-क्यूबा तनाव फिर बढ़ा",
+      "url": "https://www.amarujala.com/world/us-cuba-donald-trump-says-cuba-will-be-taken-over-soon-tensions-escalate-amid-new-sanctions-2026-05-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-02T20:21:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/us-iran-israel-war-donald-trump_f72f7dd89ad1b3b3613d692c4632838f.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति ट्रंप ने दावा किया है कि क्यूबा पर अमेरिका लगभग तुरंत ही कब्जा कर सकता है. इस बयान से अमेरिका और क्यूबा के बीच तनाव फिर से बढ़ गया है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'क्यूबा पर लगभग तुरंत ही कब्जा कर लेंगे', ट्रंप का बड़ा दावा; अमेरिका-क्यूबा तनाव फिर बढ़ा",
+          "summary": "अमेरिकी राष्ट्रपति ट्रंप ने दावा किया है कि क्यूबा पर अमेरिका लगभग तुरंत ही कब्जा कर सकता है. इस बयान से अमेरिका और क्यूबा के बीच तनाव फिर से बढ़ गया है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पश्चिम बंगाल में मतगणना से पहले सियासी हलचल जारी, चुनाव आयोग ने लिया अहम फ़ैसला",
+      "url": "https://www.bbc.com/hindi/articles/c7v93ynm1pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-02T15:58:30+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d30/live/a6e28f40-4636-11f1-9cdd-6d38890cd031.png",
+      "summary": "पश्चिम बंगाल में मतगणना से पहले चुनाव आयोग ने अहम फैसला लिया है. आयोग ने अतिरिक्त ऑब्ज़र्वर्स की नियुक्ति की घोषणा की है. इससे चुनाव प्रक्रिया में पारदर्शिता बढ़ने की उम्मीद है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पश्चिम बंगाल में मतगणना से पहले सियासी हलचल जारी, चुनाव आयोग ने लिया अहम फ़ैसला",
+          "summary": "पश्चिम बंगाल में मतगणना से पहले चुनाव आयोग ने अहम फैसला लिया है. आयोग ने अतिरिक्त ऑब्ज़र्वर्स की नियुक्ति की घोषणा की है. इससे चुनाव प्रक्रिया में पारदर्शिता बढ़ने की उम्मीद है.",
+          "region": "दुनिया"
         }
       }
     },
@@ -305,24 +354,6 @@
           "title": "संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष बना चीन, पहले ही दिन दिखाया रंग, क्या बढ़ेगी भारत की टेंशन",
           "summary": "चीन संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष बन गया है। पहले ही दिन चीन ने भारत की चिंताओं को बढ़ा दिया है। भारत और चीन के बीच तनाव बढ़ने की संभावना है।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान के ख़िलाफ़ ट्रंप अब क्या क़दम उठाएंगे, अरब जगत के मीडिया में कैसी है चर्चा",
-      "url": "https://www.bbc.com/hindi/articles/cp8p1qpv4deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-02T09:25:02+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d1d3/live/d8ae8f30-4607-11f1-ac78-2112837ce2aa.jpg",
-      "summary": "अमेरिकी राष्ट्रपति ट्रंप ने ईरान को आत्मसमर्पण करने के लिए कहा है। उन्होंने ईरान पर लंबी नाकाबंदी लगाने की चेतावनी भी दी है। अरब जगत के मीडिया में इस मुद्दे पर चर्चा हो रही है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के ख़िलाफ़ ट्रंप अब क्या क़दम उठाएंगे, अरब जगत के मीडिया में कैसी है चर्चा",
-          "summary": "अमेरिकी राष्ट्रपति ट्रंप ने ईरान को आत्मसमर्पण करने के लिए कहा है। उन्होंने ईरान पर लंबी नाकाबंदी लगाने की चेतावनी भी दी है। अरब जगत के मीडिया में इस मुद्दे पर चर्चा हो रही है।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -363,6 +394,24 @@
       }
     },
     {
+      "title": "अमेरिकी मिसाइलों और ड्रोन के रिवर्स इंजीनियरिंग की क्यों है चर्चा",
+      "url": "https://www.bbc.com/hindi/articles/c3w2qzdll6eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-02T06:42:19+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/afdb/live/1caef5f0-45ed-11f1-9dca-4fdac5949239.jpg",
+      "summary": "ईरान में अमेरिकी मिसाइलों और ड्रोन के रिवर्स इंजीनियरिंग की चर्चा चल रही है. यह अमेरिकी हथियारों की तकनीक को समझने और उसे अपने उपयोग में लाने के लिए किया जा रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी मिसाइलों और ड्रोन के रिवर्स इंजीनियरिंग की क्यों है चर्चा",
+          "summary": "ईरान में अमेरिकी मिसाइलों और ड्रोन के रिवर्स इंजीनियरिंग की चर्चा चल रही है. यह अमेरिकी हथियारों की तकनीक को समझने और उसे अपने उपयोग में लाने के लिए किया जा रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "चीन के विरोध के बावजूद ताइवान राष्ट्रपति का एस्वातिनी दौरा, दोस्ती और ताकत का संदेश",
       "url": "https://www.amarujala.com/world/taiwan-president-lai-ching-te-lands-in-eswatini-despite-china-pressure-2026-05-02",
       "source": "Amar Ujala World",
@@ -381,6 +430,24 @@
       }
     },
     {
+      "title": "भारत-स्विट्जरलैंड सहयोग को मिला नया आयाम; द्विपक्षीय संबंधों को मिली मजबूती",
+      "url": "https://www.amarujala.com/india-news/eam-jaishankar-official-visit-to-jamaica-suriname-trinidad-and-tobago-from-may-2-updates-2026-05-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T06:13:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/13/eam-dr-s-jaishankar-says-we-are-definitely-living-in-a-volatile-and-uncertain-era_f8099039eab300037086aa417477fad2.jpeg?w=750&dpr=1.0",
+      "summary": "भारतीय विदेश मंत्री जयशंकर जमैका, सूरीनाम और त्रिनिदाद की यात्रा पर जा रहे हैं. इससे भारत और कैरेबियाई देशों के बीच संबंध मजबूत होने की उम्मीद है. द्विपक्षीय सहयोग के मुद्दों पर चर्चा होगी.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत-स्विट्जरलैंड सहयोग को मिला नया आयाम; द्विपक्षीय संबंधों को मिली मजबूती",
+          "summary": "भारतीय विदेश मंत्री जयशंकर जमैका, सूरीनाम और त्रिनिदाद की यात्रा पर जा रहे हैं. इससे भारत और कैरेबियाई देशों के बीच संबंध मजबूत होने की उम्मीद है. द्विपक्षीय सहयोग के मुद्दों पर चर्चा होगी.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "दक्षिण कोरिया-ईरान में बातचीत, होर्मुज स्ट्रेट पर सुरक्षित आवाजाही शुरू करने की अपील",
       "url": "https://www.amarujala.com/world/south-korea-iran-talks-south-korea-iran-hold-talks-appeal-for-safe-passage-through-the-strait-of-hormuz-2026-05-02",
       "source": "Amar Ujala World",
@@ -394,24 +461,6 @@
         "hi": {
           "title": "दक्षिण कोरिया-ईरान में बातचीत, होर्मुज स्ट्रेट पर सुरक्षित आवाजाही शुरू करने की अपील",
           "summary": "दक्षिण कोरिया और ईरान के बीच बातचीत हुई, जिसमें होर्मुज स्ट्रेट पर सुरक्षित आवाजाही शुरू करने की अपील की गई। यह बातचीत दोनों देशों के बीच तनाव को कम करने के लिए हुई।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान युद्ध के बीच सऊदी में शराब की भारी कमी, जानें आखिर कौन करता है इसका सेवन?",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOVpPNnNrSjZubzRMQlY0dHcydGNvUnFRZjNFaFlBSm9xRkJxWFZYNHpIVTY3Smp0LUZiaWU4NXhkNDlnV29pS3g1Uzlodzc1VVVxUVlIblhJUzgzX3RPamV0Q0dTSGNoNThrQkhSQ0dHTzR6OWxBLUtBY3NwdXhMdGtGTGpCQksxZ2Y5a0dNTFJDXzFLV0N1bHVROVg2T2prMkEwQzhiempDTWkwU3FFeVFSVGtHQ05QcExJM3FrVHk3S09JS09xOUFSMNIB0AFBVV95cUxPeldNMDFIM3Q4WndfS1MtdHN4UGdOUmVibklidGVWeTNOcUhxdUdleVRmTnlkdVlpNnlLOHl4NU5vQ3pycXR2WkUxV1h4Uno0VnFIYld3M3lTLWQtRlAzeTlfdkcwVkdxOHdRREc5NVN2bFN5WUNkU1BTV1RCUmpycWhXMWpHOHJ3a0dpSU5Bby1CODlWNXVUaHFkWmw5Z0lNYW8ySGVJRDFOWHJST3JPRWJCTnJkanBDdlg0akdQLWRwYWFDOExMczEtZ3hFRlNy?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-02T05:59:25+00:00",
-      "image_url": "https://images.pexels.com/photos/5147810/pexels-photo-5147810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान के साथ युद्ध के बीच सऊदी अरब में शराब की भारी कमी हो गई है। सऊदी में शराब का सेवन प्रतिबंधित है, लेकिन कुछ लोग इसे प्राप्त करने में सफल होते हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान युद्ध के बीच सऊदी में शराब की भारी कमी, जानें आखिर कौन करता है इसका सेवन?",
-          "summary": "ईरान के साथ युद्ध के बीच सऊदी अरब में शराब की भारी कमी हो गई है। सऊदी में शराब का सेवन प्रतिबंधित है, लेकिन कुछ लोग इसे प्राप्त करने में सफल होते हैं।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -453,96 +502,6 @@
       }
     },
     {
-      "title": "यूएन शरणार्थी एजेंसी की चेतावनी मध्य पूर्व संकट के कारण सहायता कार्यों में आ रही बाधा",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMnUwQWMtbmtEdE1uU1JRZlZRR3VkQ1hOQ0ZqQTJZNGtFVGl4elBrRkVBYzhHQ1lMMkhfY19FclBPcklIZjJlVC1zTFJGT0U4Nl9LeFNxYlREYkQ3WjBsNXVLazQ0cUdCNWozNjg3a3c0NGg4VlJUZjFRLWZ0Ql9JdTRXYmx0T1ZxekJjbUtQRldScVRaN3RydlBQWlczSURFR3hNUXpEWW5fcUhmZVZMTnFyTG03dWZfTkIya2w3ZFYydw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-02T04:20:53+00:00",
-      "image_url": "https://images.pexels.com/photos/26873198/pexels-photo-26873198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "यूएन शरणार्थी एजेंसी ने चेतावनी दी है कि मध्य पूर्व संकट के कारण सहायता कार्यों में बाधा आ रही है। एजेंसी को सहायता कार्यों में कठिनाइयों का सामना करना पड़ रहा है।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूएन शरणार्थी एजेंसी की चेतावनी मध्य पूर्व संकट के कारण सहायता कार्यों में आ रही बाधा",
-          "summary": "यूएन शरणार्थी एजेंसी ने चेतावनी दी है कि मध्य पूर्व संकट के कारण सहायता कार्यों में बाधा आ रही है। एजेंसी को सहायता कार्यों में कठिनाइयों का सामना करना पड़ रहा है।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "'ईरान के खिलाफ युद्ध खत्म हो चुका है', 60 दिन की समयसीमा पूरी होने पर ट्रंप ने संसद को दी जानकारी",
-      "url": "https://www.amarujala.com/world/us-president-donald-trump-tells-lawmakers-war-against-iran-has-terminated-as-60-day-deadline-arrives-2026-05-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-02T03:34:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/us-iran-israel-war-donald-trump_f72f7dd89ad1b3b3613d692c4632838f.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने कांग्रेस को बताया कि ईरान के खिलाफ युद्ध समाप्त हो चुका है, 60 दिन की समयसीमा पूरी होने पर। उन्होंने यह जानकारी दी। ट्रम्प की घोषणा महत्वपूर्ण है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ईरान के खिलाफ युद्ध खत्म हो चुका है', 60 दिन की समयसीमा पूरी होने पर ट्रंप ने संसद को दी जानकारी",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने कांग्रेस को बताया कि ईरान के खिलाफ युद्ध समाप्त हो चुका है, 60 दिन की समयसीमा पूरी होने पर। उन्होंने यह जानकारी दी। ट्रम्प की घोषणा महत्वपूर्ण है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'नाकाबंदी से ईरान को हुआ 4.8 अरब डॉलर का नुकसान, जारी है कार्रवाई', अमेरिका के रक्षा मंत्रालय का",
-      "url": "https://www.amarujala.com/world/pentagon-claims-us-blockade-has-cost-iran-usd-4-8-bn-report-2026-05-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-02T03:14:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/11/02/us-announces-new-middle-east-deployments-includes-b-52-bombers-missile-destroyers_966271fba133ef9ea6c2f8ecf668f087.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिका के रक्षा मंत्रालय ने दावा किया कि नाकाबंदी से ईरान को 4.8 अरब डॉलर का नुकसान हुआ है. कार्रवाई जारी है. यह दावा अमेरिकी रक्षा मंत्रालय के एक बयान में किया गया.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'नाकाबंदी से ईरान को हुआ 4.8 अरब डॉलर का नुकसान, जारी है कार्रवाई', अमेरिका के रक्षा मंत्रालय का",
-          "summary": "अमेरिका के रक्षा मंत्रालय ने दावा किया कि नाकाबंदी से ईरान को 4.8 अरब डॉलर का नुकसान हुआ है. कार्रवाई जारी है. यह दावा अमेरिकी रक्षा मंत्रालय के एक बयान में किया गया.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अरिजीत सिंहः मुर्शिदाबाद के जियागंज में लोग उन्हें कैसे देखते हैं?",
-      "url": "https://www.bbc.com/hindi/articles/czxrerzyd2no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-02T03:06:31+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3335/live/48b20890-45cf-11f1-ac1d-7dfc1ffc7418.jpg",
-      "summary": "अरिजीत सिंह का उनके गृह जिले मुर्शिदाबाद के जियागंज में प्रभाव देखा जा रहा है। लोग उन्हें एक सफल गायक के रूप में देखते हैं। उनका प्रभाव युवाओं पर भी पड़ रहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अरिजीत सिंहः मुर्शिदाबाद के जियागंज में लोग उन्हें कैसे देखते हैं?",
-          "summary": "अरिजीत सिंह का उनके गृह जिले मुर्शिदाबाद के जियागंज में प्रभाव देखा जा रहा है। लोग उन्हें एक सफल गायक के रूप में देखते हैं। उनका प्रभाव युवाओं पर भी पड़ रहा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कूटनीति से सौम्य शक्ति का प्रसार होता है: वियतनाम की छवि रोजमर्रा के अनुभवों के माध्यम से फैलती है।",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY05CekRTMGR4UWFiMk51UU91S2tVRkZ4MW1QaGVzUDhDTktfWnpMTEd6Z3FBcWJIS1JvVWRabTUzS2NnOFFVRGpmVmFERXI5VWJZTGN5bXl4M2dFT3p3LUJjMVhiNVk2M09fdTZWSF9Pd3RVaFhTYmQ3U0FHU3o2RHE5alIxS1JzZVY3VmlacFk0bE1mQ2E1NlJXRVNZbG94WXBRRUotNFBTVmd0S1dJ?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-05-02T02:28:38+00:00",
-      "image_url": "https://images.pexels.com/photos/36523399/pexels-photo-36523399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "वियतनाम की छवि रोजमर्रा के अनुभवों के माध्यम से फैल रही है। कूटनीति से सौम्य शक्ति का प्रसार हो रहा है। वियतनाम की संस्कृति और जीवनशैली लोगों तक पहुंच रही है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कूटनीति से सौम्य शक्ति का प्रसार होता है: वियतनाम की छवि रोजमर्रा के अनुभवों के माध्यम से फैलती है।",
-          "summary": "वियतनाम की छवि रोजमर्रा के अनुभवों के माध्यम से फैल रही है। कूटनीति से सौम्य शक्ति का प्रसार हो रहा है। वियतनाम की संस्कृति और जीवनशैली लोगों तक पहुंच रही है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "लंदन हमले के बाद बढ़ी चिंता: गाजा प्रदर्शन पर सख्ती के संकेत, स्टार्मर बोले- उकसाने वाले नारों पर",
       "url": "https://www.amarujala.com/world/starmer-urges-tougher-action-against-gaza-protests-in-uk-following-antisemitic-attacks-2026-05-02",
       "source": "Amar Ujala World",
@@ -561,20 +520,38 @@
       }
     },
     {
-      "title": "लंदन के मैडम तुसाद में सजा भारत का दरबार: अमिताभ से लेकर सचिन तक का जलवा, आइकन्स ऑफ इंडिया",
-      "url": "https://www.amarujala.com/world/madame-tussauds-london-icons-of-india-celebration-bollywood-cricket-stars-wax-statues-news-2026-05-02",
-      "source": "Amar Ujala World",
+      "title": "अग्रणी कूटनीति से कोमल शक्ति का प्रसार होता है: जब वियतनाम की छवि रोजमर्रा के अनुभवों के माध्यम से",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHVXalY0bnQ5aFkzejZ2M0Z6UmNNcUhva0lMdVNyOW9qQ1pjU0xieGdGLTFVbU9iQjNZTTk4YTlFUnp0SEV2SDBTTmJPaW1qZDVrb2pkYVBMbkprTTZwM2ZnSXdlTmFHMURneloxNGtGSHFIYmtxWDY1cFY3NWNMUG0weEpJN3QzeUE5cElSa2cyTU1IM1V6M2NzbFlMT3dYdFBTUHNMemdFVmlxN1Bxc0JrTE1xSVpjZUJxZmxyaXJRM3g2aHA0N0dKWQ?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
       "sources": [],
-      "published_at": "2026-05-01T23:18:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/parayaka-capaugdha-oura-sacana-tathalkara_07d2c7254a228ca463e7ae67df4335ab.jpeg?w=750&dpr=1.0",
-      "summary": "लंदन के मैडम तुसाद में \"आइकन्स ऑफ इंडिया\" प्रदर्शनी का भव्य आगाज हुआ। इसमें अमिताभ बच्चन, सचिन तेंदुलकर समेत कई भारतीय हस्तियों के वैक्स स्टेट्यूज प्रदर्शित किए गए हैं। लंदन के मैडम तुसाद में सजा भारत का दरबार: अमिताभ से लेकर सचिन तक का जलवा, आइकन्स ऑफ इंडिया।",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-02T02:08:31+00:00",
+      "image_url": "https://images.pexels.com/photos/8576784/pexels-photo-8576784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "वियतनाम ने अपनी छवि को बढ़ावा देने के लिए एक नए तरीके का इस्तेमाल किया है, जिसमें रोजमर्रा के अनुभवों के माध्यम से अपनी सॉफ्ट पावर का प्रसार किया जा रहा है। यह पहल वियतनाम की कूटनीतिक प्रयासों का हिस्सा है।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "लंदन के मैडम तुसाद में सजा भारत का दरबार: अमिताभ से लेकर सचिन तक का जलवा, आइकन्स ऑफ इंडिया",
-          "summary": "लंदन के मैडम तुसाद में \"आइकन्स ऑफ इंडिया\" प्रदर्शनी का भव्य आगाज हुआ। इसमें अमिताभ बच्चन, सचिन तेंदुलकर समेत कई भारतीय हस्तियों के वैक्स स्टेट्यूज प्रदर्शित किए गए हैं। लंदन के मैडम तुसाद में सजा भारत का दरबार: अमिताभ से लेकर सचिन तक का जलवा, आइकन्स ऑफ इंडिया।",
-          "region": "यूरोप और रूस"
+          "title": "अग्रणी कूटनीति से कोमल शक्ति का प्रसार होता है: जब वियतनाम की छवि रोजमर्रा के अनुभवों के माध्यम से",
+          "summary": "वियतनाम ने अपनी छवि को बढ़ावा देने के लिए एक नए तरीके का इस्तेमाल किया है, जिसमें रोजमर्रा के अनुभवों के माध्यम से अपनी सॉफ्ट पावर का प्रसार किया जा रहा है। यह पहल वियतनाम की कूटनीतिक प्रयासों का हिस्सा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इंडोनेशिया मूल्य विशेषज्ञ एशिया-यूरोप एजेंडा का चालक होना चाहिए",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5KMWMyWUpJY25oeDFqTVdGTnFGalJyOEhEWmxCNldSMHl1R21xazNGaHpjLWozNzEtQTZSaXRyZkxyVFXSAUJBVV95cUxPLWdHdUxrYlJTV0NqMFFUMnFvcHotNXFsMGZYZ3E2MG5xTGRwSnF5ZE1Ra2c5TjQ5a2k1aXo2MUhnZXc?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-05-02T01:38:20+00:00",
+      "image_url": "https://images.pexels.com/photos/4715441/pexels-photo-4715441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "इंडोनेशिया को एशिया-यूरोप एजेंडा का नेतृत्व करना चाहिए, जिसमें मूल्य विशेषज्ञता को बढ़ावा दिया जा सके। यह इंडोनेशिया की भूमिका को मजबूत बनाने के लिए एक महत्वपूर्ण कदम होगा। इंडोनेशिया मूल्य विशेषज्ञ एशिया-यूरोप एजेंडा का चालक होना चाहिए - VOI. id।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इंडोनेशिया मूल्य विशेषज्ञ एशिया-यूरोप एजेंडा का चालक होना चाहिए",
+          "summary": "इंडोनेशिया को एशिया-यूरोप एजेंडा का नेतृत्व करना चाहिए, जिसमें मूल्य विशेषज्ञता को बढ़ावा दिया जा सके। यह इंडोनेशिया की भूमिका को मजबूत बनाने के लिए एक महत्वपूर्ण कदम होगा। इंडोनेशिया मूल्य विशेषज्ञ एशिया-यूरोप एजेंडा का चालक होना चाहिए - VOI. id।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -597,19 +574,19 @@
       }
     },
     {
-      "title": "अमेरिका-ईरान में कब खत्म होगा युद्ध? ट्रंप बोले- तेहरान के नए प्रस्ताव से खुश नहीं",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVmFOeTRPQ1hDOHlWajRLdEpwczhoUDV6aWllN0IwbjdQcS1raERqUFY3cWRtT1ZHTmZwVGYzZEtyb3pjbGJTazdfdjVCdUEtd2pNclZCY2dHLVlRa0ZxVk40RXR2Y3l5czhDeTZhWWxKSzFZbkhRNmlNSFZZeThMa2E3RGt3dTVSdHFydnFmOEtYZGNVb2NwdFBRcG8tNmMyUEgwNzFZWmZpZ1o4ZzJET1NvVTNSUmI5dG05VGNEQlhNVjRCaFpEbjBoeWotUDloUTVaWGV2ZDZSMmhuX3RRV0ZfWDfSAeoBQVVfeXFMTWpJbVdDTVVUeUE2NGwtWVJxbWFqTVpPeDNSTnVfTUp4azJkdkhsU003Z3Z2Rm5PTHhoMld3bzhNRnpQb19jXzlpMkhqcjdGWnRCVzcyUldmeXVpbkxONm9ZLVkzdWFfMjhYYlFScnkzMktnbmFldldlMlBTZGtwcXVJa1RZZ09tNU9SdERiQjFDcUNVYlVXeVJmNU43QWRvbU5zS3Z3RW1WVkVGeU9fMTNHOEcwS3dKMnExSElKdk5XZlpReVlMQ0ZzRVFkMlhRclAwaC0zdzdNQzFEUFhJc19LQ21ibEFoWGNR?oc=5",
+      "title": "युद्ध के बीच इजरायल ने सैनिक और घातक लेजर हथियारों को UAE भेजा, ईरान के खिलाफ खड़ा किया रक्षा कवच",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZTRMaW5zV1dVRFRNUVgxQ1VhZWFJeTdSSUhDTE9ITFVod1Bfak04c1l5NHpSeUdYZVczVF8waXRMLUpvdE5oZllsbTFDWXRJeTZ2UE9VTWhqcUE1YWxtTGtZeU4wdDZReUo5S0NBRGZPaUt5NmlWeDgzSzk4VTVWUmMzUHg5TmtPVDJyaUkyVFVndXdsZ1pUN04wVkk3SW5RdnVJQjQ4NzlfMEc4SEVpOTJMTlpkUGNuVjhUbDVHMFUwcFBmNmd4M1ktaDY0X2xYRGxOeUprSl9xVktBMlRJcU5HRU9kTlpoSmQxS3ctb9IB9AFBVV95cUxORzluX1FNUjZtdjBlSTdPME4zaGc3clV0SDZwSGR4cm5Ed0NqclhMalFJN190aUhfSnQyMFRaNDhiSnItc1U1dHFzUVFOYmRRU1hoX0pzdmp1MVBsMGNEN29XX2NJQmUtbUNnN0tfbDJkbXBWeXZuZFp6eVlydXJwb1VmNW5sdTFXNElVTnp5LV9zcUJ0R1M3amFidUFuSjNIOUxaRlBDVFk1UkVMZmFGQ3BDWGR3YXFJeFRlamY1T2FpNy1RaHFNeXhuMXd5V3BtcWxRb09zWFFZR3kyNFM3MzFkRDVRbXRFRUJzSnh4eThzZ05F?oc=5",
       "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
-      "published_at": "2026-05-01T16:45:00+00:00",
-      "image_url": "https://images.pexels.com/photos/8828624/pexels-photo-8828624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि वह तेहरान के नए प्रस्ताव से खुश नहीं हैं। अमेरिका और ईरान के बीच तनाव कम होने का संकेत नहीं मिल रहा है। ट्रंप ने तेहरान के प्रस्ताव को खारिज कर दिया।",
+      "published_at": "2026-05-01T20:46:02+00:00",
+      "image_url": "https://images.pexels.com/photos/30831931/pexels-photo-30831931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "इजरायल ने UAE को सैनिक और घातक लेजर हथियार भेजे हैं, जो ईरान के खिलाफ रक्षा कवच बनाने के लिए हैं। यह कदम क्षेत्र में सुरक्षा को बढ़ाने के लिए उठाया गया है।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिका-ईरान में कब खत्म होगा युद्ध? ट्रंप बोले- तेहरान के नए प्रस्ताव से खुश नहीं",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि वह तेहरान के नए प्रस्ताव से खुश नहीं हैं। अमेरिका और ईरान के बीच तनाव कम होने का संकेत नहीं मिल रहा है। ट्रंप ने तेहरान के प्रस्ताव को खारिज कर दिया।",
+          "title": "युद्ध के बीच इजरायल ने सैनिक और घातक लेजर हथियारों को UAE भेजा, ईरान के खिलाफ खड़ा किया रक्षा कवच",
+          "summary": "इजरायल ने UAE को सैनिक और घातक लेजर हथियार भेजे हैं, जो ईरान के खिलाफ रक्षा कवच बनाने के लिए हैं। यह कदम क्षेत्र में सुरक्षा को बढ़ाने के लिए उठाया गया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -633,6 +610,24 @@
       }
     },
     {
+      "title": "अमेरिका से बातचीत के लिए ईरान ने पाकिस्तान को सौंपा अपना नया प्लान, UN महासचिव से की पड़ोसी देशों",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWphLTNPSFpOaEJXTW9vMmd2TUQ0NE5aUzUzbDhQbGlQNUhtYjhrWlcwS2YzODdyZXBfeXc4cVRVR0NJRy0yX1pVaFBtYlJ4c1VMNFZraXpFMG4wcnJsdWd0bGVILTNoSG0xNDdkTkZsbDdjRVpacUxXbzEyaTdnODhBWG1GdjJtcjlWWFMyNE5KQTFPZUtGWWpB?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-01T13:03:22+00:00",
+      "image_url": "https://images.pexels.com/photos/1119118/pexels-photo-1119118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान ने अमेरिका से बातचीत के लिए एक नया प्लान पाकिस्तान को सौंपा है। ईरान ने UN महासचिव से पड़ोसी देशों की शिकायत भी की है। अमेरिका से बातचीत के लिए ईरान ने पाकिस्तान को सौंपा अपना नया प्लान, UN महासचिव से की पड़ोसी देशों की शिकायत NDTV. in।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका से बातचीत के लिए ईरान ने पाकिस्तान को सौंपा अपना नया प्लान, UN महासचिव से की पड़ोसी देशों",
+          "summary": "ईरान ने अमेरिका से बातचीत के लिए एक नया प्लान पाकिस्तान को सौंपा है। ईरान ने UN महासचिव से पड़ोसी देशों की शिकायत भी की है। अमेरिका से बातचीत के लिए ईरान ने पाकिस्तान को सौंपा अपना नया प्लान, UN महासचिव से की पड़ोसी देशों की शिकायत NDTV. in।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOXcwaGs4MHRrZ1pzU0w1WmpOa1dKWC1lc2cwMERvVF90VzNiN0tYTWotQXJYVmVidDd3dEt4N0xpbWxjeXFoWXAxVV85UGdlVzZ1eFRvUEFqLXlSMjdvUm5JMUh5U204a2xOYlBYdjBLc2tHbko0MHB1aDZUTHNuSS1kUzM4bExsbVQ4enNfRnVkZFZ4Q0NCR1c3QnNPam5NSS1MaUFCREFyVHgzY1NfVEh2cEt6TmtxZkZ5THN1SXRmc3lhSkN0d3VQZGg3OHp0dkdiSHpMb2FReTV5ZFBRbFYxcWRJN1p2ejFWbVlDaUNCMFNXal9nT2pyU3BLNFlKZlHSAYcCQVVfeXFMT3VEemgzRjFFU0VmeFV2VlVoeFZmSXBpVXFOUGFOSTNXRU4xQUZTcGJRUFd0b2syVzJhN1FteUpHeVk2MjdCLVA0QkRqcWRuUlZOT1lRSG5idVU5X0JfYlRQTnRHVUFHSFh2c2RsZ19VajhmdGdhcTQ4WGhOTXhmZ0VUT2FoS2p6UDFSWkE3LXlXeEM2RmMzM1ZPZGd6OHpaYTg1UDVYX1NDa1ZaZ2lBalYyeWplelRTZlc4LWdKMnIzWG9UUmwxVFFYMnc5aXlCUnkxRkdhak9vMEFZY2VybDkwNmtHM0dHTzRSUnNwX05Mbm9ncDV3dElwbU40YkhCLXJ5clFmbms?oc=5",
       "source": "Google News Hindi (कूटनीति)",
@@ -647,6 +642,24 @@
           "title": "कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री",
           "summary": "मई भारत के लिए कूटनीति के मोर्चे पर निर्णायक होगा। प्रधानमंत्री मोदी यूरोप की यात्रा पर जाएंगे और अमेरिका-रूस के विदेश मंत्री दिल्ली में बैठक करेंगे। यह बैठक भारत के लिए महत्वपूर्ण होगी।",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "बदलती ऊर्जा कूटनीति के दौर में यूएइ का दांव",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOODhuMFFsb3B2SmJDM09sVGtUZnBta28tZEVYMWhLR3hrX0Nsb3ZxNUxZQ2s5NWo2U0ptZDJXSXhjSURkbk10RVlXOWZ2Z3BUUnpxR2xGQWg4MUZHZW1pTTZVRGNreWRIbFFBREk1QWZ5NHB2S082dzI2OFR4QzFuakhWQldmQdIBiwFBVV95cUxPUlZMSGJlclhxR3dWQjJYdEZFdmlBVnRjY1BqallFYmtEQzg2NGVHdy1xcHBwWlBRQTYxTWc1NjVVTEk1OTdSTXZHdE5ld1dqQy1ONl9KNzFFVWhhZVU3Ty1MdzU5bnhienFpUm41TzJGUGVxS2dBenFqREVLRmUyalAtN3ZaQUwxVWh3?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-01T07:09:37+00:00",
+      "image_url": "https://images.pexels.com/photos/11047831/pexels-photo-11047831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "UAE ने बदलती ऊर्जा कूटनीति के दौर में एक नया दांव लगाया है। यह दांव ऊर्जा क्षेत्र में UAE की स्थिति को मजबूत बनाने के लिए उठाया गया है। बदलती ऊर्जा कूटनीति के दौर में यूएइ का दांव Prabhat Khabar।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बदलती ऊर्जा कूटनीति के दौर में यूएइ का दांव",
+          "summary": "UAE ने बदलती ऊर्जा कूटनीति के दौर में एक नया दांव लगाया है। यह दांव ऊर्जा क्षेत्र में UAE की स्थिति को मजबूत बनाने के लिए उठाया गया है। बदलती ऊर्जा कूटनीति के दौर में यूएइ का दांव Prabhat Khabar।",
+          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     }
