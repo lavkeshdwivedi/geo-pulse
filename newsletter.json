@@ -1,33 +1,129 @@
 {
-  "generated_at": "2026-05-02T13:16:52.722396+00:00",
+  "generated_at": "2026-05-02T14:51:50.602527+00:00",
   "article_count": 42,
-  "total_unique_count": 250,
+  "total_unique_count": 253,
   "digest": {
-    "en": "Protests are erupting worldwide as workers gather for International Labour Day. In the UK, Starmer is urging tougher action against Gaza protests following antisemitic attacks. Iran is cracking down on dissent, executing dozens and arresting over 4,000 people.",
-    "hi": "चीन यूएन सुरक्षा परिषद का अध्यक्ष देश बन गया है। ईरान के खिलाफ ट्रंप प्रशासन के अगले कदमों पर अरब जगत के मीडिया में चर्चा हो रही है। ट्रंप प्रशासन ने पश्चिम एशिया के चार देशों को 8.6 अरब डॉलर के हथियारों की पेशकश की है।"
+    "en": "Israeli strikes on southern Lebanon have killed at least 13 people, according to the health ministry. The violence contrasts with diplomatic efforts, as China rejects US sanctions on refineries over Iran oil links. US-Iran tensions are also affecting shipping and troop deployments.",
+    "hi": "बांग्लादेश सरकार ने भारतीय राजदूत को तलब किया था। पूर्व राजनयिकों ने इस पर कूटनीति समझाई है। चीन यूएन सुरक्षा परिषद का अध्यक्ष देश बन गया है।"
   },
   "articles": [
     {
-      "title": "Starmer urges tougher action against Gaza protests in U.K. following antisemitic attacks",
-      "url": "https://www.thehindu.com/news/international/starmer-urges-tougher-action-against-gaza-protests-in-uk-following-antisemitic-attacks/article70931709.ece",
-      "source": "The Hindu (International)",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "sources": [],
-      "published_at": "2026-05-02T12:53:53+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/tjdsyj/article70931739.ece/alternates/LANDSCAPE_1200/2026-05-02T115434Z_1401593045_RC2NZKASW778_RTRMADP_3_BRITAIN-POLITICS.JPG",
-      "summary": "Prime Minister Starmer suggested that pro-Palestinian marches in the U. K. have contributed to a rise in antisemitic incidents. He urged tougher action against protests following repeated attacks. Prime Minister Starmer suggested that repeated pro-Palestinian marches have had a “cumulative effect” linked to the rise in antisemitic incidents in the U. K.",
+      "published_at": "2026-05-02T14:28:13+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ace/live/a02af470-4600-11f1-b55d-0f258dce1735.jpg",
+      "summary": "Thirteen people were killed in Israeli strikes on southern Lebanon. Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Rallies under way as workers gather for International Labour Day",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/rallies-under-way-as-workers-gather-for-international-labour-day-2?traffic_source=rss",
+      "title": "China rejects U.S. sanctions on refineries over Iran oil links",
+      "url": "https://www.thehindu.com/news/international/china-rejects-us-sanctions-on-refineris-over-iran-oil-links/article70932170.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-02T14:20:10+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/bwb48k/article70932261.ece/alternates/LANDSCAPE_1200/2026-04-24T194343Z_1556176846_RC2UVKA6EKT8_RTRMADP_3_IRAN-CRISIS-CHINA-OIL.JPG",
+      "summary": "China rejected U. S. sanctions on refineries over Iran oil links, calling them improper and a violation of international law. The Commerce Ministry said Chinese enterprises have the right to conduct normal economic activities with third countries.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-02T14:18:14+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/43592a40-4624-11f1-b55d-0f258dce1735.jpg",
+      "summary": "The U. S. warned shipping firms they could face sanctions for paying Iran tolls to safely pass through the Strait of Hormuz. President Donald Trump expressed dissatisfaction with Iran's latest peace deal proposal.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran military official says renewed war with U.S. 'likely'",
+      "url": "https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-02T14:14:36+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/uric5a/article70930739.ece/alternates/LANDSCAPE_1200/2026-05-01T172007Z_982900821_RC210LAX5IPO_RTRMADP_3_IRAN-CRISIS-SAUDI-LIQUOR.JPG",
+      "summary": "A senior Iranian military official said renewed war with the U. S. is likely. The official's comments come as the U. S. warns shipping companies about sanctions for payments to Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ukraine’s Drone War Has Already Rewritten NATO’s Future",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JN1docXRUSUV4SzlSY3NrelZ2Z2lYbkthT2p6alN3UmdfbVJUMVJHVTZtbVpnQTh5M0tkMURXTjZSa0g1d3hIQS1XZw?oc=5",
+      "source": "Google News (NATO conflict)",
+      "sources": [],
+      "published_at": "2026-05-02T14:05:03+00:00",
+      "image_url": "https://images.pexels.com/photos/11734709/pexels-photo-11734709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Ukraine's drone warfare has led NATO to reassess its future military strategies. Kyiv's use of drones has forced NATO to rethink its approach to defense and counterattack capabilities. Ukraine’s Drone War Has Already Rewritten NATO’s Future Kyiv Post.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How Germany May Have Misjudged Trump’s Anger on Iran",
+      "url": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-02T13:24:25+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/02/multimedia/02int-Germany-troops-01-ztjb/02int-Germany-troops-01-ztjb-mediumSquareAt3X.jpg",
+      "summary": "Germany underestimated President Trump's anger over Iran, offering a measured response after he announced troop withdrawals. Berlin's initial skepticism was replaced by a more cautious approach once the decision was made.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump On US Seizing Iranian Oil From Ships In Hormuz",
+      "url": "https://www.ndtv.com/world-news/were-like-pirates-donald-trump-on-us-seizing-iranian-oil-from-ships-in-strait-of-hormuz-11439709#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-02T13:04:54+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/e4k5r9do_trump_625x300_02_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Trump compared the US to pirates regarding Iranian oil seizures from ships in Hormuz. He said the US is not playing games. \"We're like pirates. We're sort of like pirates.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israeli airstrikes on southern Lebanon kill seven amid fragile ceasefire",
+      "url": "https://www.thehindu.com/news/international/israeli-airstrikes-on-southern-lebanon-kill-many-amid-fragile-ceasefire/article70931787.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-02T12:56:19+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/gjzlyh/article70931876.ece/alternates/LANDSCAPE_1200/2026-05-02T093509Z_1017043581_RC2W0LAHC3TS_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL.JPG",
+      "summary": "Israeli airstrikes in southern Lebanon killed seven people despite a fragile ceasefire. Attacks hit villages including Kfar Dajal and Lwaizeh. Lebanon's state-run National News Agency reported an airstrike on a car in the village of Kfar Dajal that killed two people, while another hit a home in the village of Lwaizeh killing three.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israeli air strikes kill 10 people in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-02T12:39:15+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777725539.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Workers, activists, and trade unions around the world marked International Labour Day with rallies on Friday. Events were held in multiple countries to celebrate the holiday. Workers, activists and trade unions around the world marked May Day with rallies on Friday.",
-      "region": "Global / Multilateral",
+      "published_at": "2026-05-02T12:55:34+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T144931Z_1337836316_RC2E0LAD9H6E_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1777678447.jpg?resize=1920%2C1440",
+      "summary": "Israeli air strikes killed 10 people in southern Lebanon. Drones and planes hit several towns despite a ceasefire since April 17. Drones and planes hit several towns despite 'ceasefire' since April 17 as Hezbollah pledges to continue its attacks.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump jokes U.S. Navy will take on Cuba on the way home from Iran",
+      "url": "https://www.thehindu.com/news/international/trump-jokes-us-navy-will-take-on-cuba-on-the-way-home-from-iran/article70931404.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-02T12:25:37+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/2dlcfa/article70931407.ece/alternates/LANDSCAPE_1200/Trump_33244.jpg",
+      "summary": "Trump joked the US Navy will take on Cuba after Iran. The administration is pressing Cuba for reforms. The Trump administration is in the midst of a monthslong campaign to press the Cuban government to make dramatic reforms.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -38,67 +134,55 @@
       "sources": [],
       "published_at": "2026-05-02T12:18:34+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/xdz00y/article70931366.ece/alternates/LANDSCAPE_1200/2026-05-02T084750Z_2006180693_RC2KZKAV72AI_RTRMADP_3_USA-TRUMP-GERMANY-WITHDRAWAL.JPG",
-      "summary": "NATO is working with the U. S. to understand its decision to cut troops in Germany. The move follows renewed criticism of German Chancellor Friedrich Merz by President Donald Trump. The U. S.",
+      "summary": "NATO is working with the U. S. to understand its decision to cut troops in Germany. The move follows renewed criticism of German Chancellor Friedrich Merz by President Donald Trump. The U.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "31 Bases, 68,000 Personnel: How US Is Stacked Up Militarily In Europe",
-      "url": "https://www.ndtv.com/world-news/us-military-troop-withdrawal-germany-nato-alliance-31-bases-68-000-personnel-how-us-is-stacked-up-militarily-in-europe-11439410#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "NATO assessing details of US troop withdrawal from Germany",
+      "url": "https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-02T11:31:58+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/2ha44unk_us-troops-in-europe_625x300_02_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The U. S. has a significant military presence in Europe, with 68,000 personnel stationed in over a dozen countries. The troops are based at 31 military bases across the continent. The US troops are stationed in more than a dozen Europe. an countries.",
-      "region": "Americas",
+      "published_at": "2026-05-02T11:34:23+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2023-03-28T161122Z_438188700_RC2330A9HFOE_RTRMADP_3_UKRAINE-CRISIS-GERMANY-USA-1777718113.jpg?resize=1920%2C1440",
+      "summary": "The US plans to withdraw about 5,000 troops from Germany over six to 12 months amid a feud with European allies. US says it plans to pull about 5,000 troops out of Germany over next six to 12 months amid feud with European allies.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Iran executes dozens, arrests 4,000+ in war crackdown",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHFPTldncm56SUI5QUJ6QUpLR3FhQXViZjBKcWROb1o5TTFTSk91bUZZR0FJRGlDTFVxVTlnRVktQURUTU9xdGVlNm1JRE1sUTNFNHFjbmhYT2IyTGtIOUE0Ty1Hc1Uxdkw3YV9XOG9vdUtrU0gxZzJyQVN3cTFwb3IyX1AzWXdoUEloWm1aZ2UzYjFzdDM1WU1pUFJzQdIBowFBVV95cUxPeUxYVWQ4UjUtck1NQmU0cmlOWnlUd2VzUzNOTzFPSWFvV08tXzM2aml2NjlqUnVHSjMtNlFtWjF0TUxDcUQwQU82dkhxMjNhWHNEVk55aVJ4XzM1cU56SVo3bHpVbnNIaXRPVE9kZW54VER3NUFRT3RqejFhQ1BBbmhNbXBGd1k1VHhiUVpmTzVHcmFvckNCZXFIZVR2dVlfU2VF?oc=5",
-      "source": "Google News (United Nations)",
+      "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
+      "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-02T11:26:30+00:00",
-      "image_url": "https://images.pexels.com/photos/14403532/pexels-photo-14403532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Iran executed dozens and arrested over 4,000 in a war crackdown. 'Killing off the country': Iran executes dozens, arrests 4,000+ in war crackdown Fox News.",
+      "published_at": "2026-05-02T11:34:12+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T165727Z_482912865_RC2G0LA2RPAZ_RTRMADP_3_USA-TRUMP-1-1777663790.jpg?resize=1920%2C1440",
+      "summary": "US President Trump compared the US Navy to pirates for enforcing the Iran blockade in the Strait of Hormuz. He said it was a profitable business. The US president says the ongoing naval blockade of the Strait of Hormuz is 'a very profitable business'.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Humpback whale 'Timmy' released in North Sea after weeks stranded off Germany",
+      "url": "https://www.thehindu.com/news/international/humpback-whale-timmy-released-in-north-sea-after-weeks-stranded-off-germany/article70931531.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-02T11:03:40+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ace/live/a02af470-4600-11f1-b55d-0f258dce1735.jpg",
-      "summary": "Thirteen people were killed in Israeli strikes on southern Lebanon. Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-02T11:17:19+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/6tckyq/article70931577.ece/alternates/LANDSCAPE_1200/APTOPIX_Germany_Whale_Rescue_44_64.jpg",
+      "summary": "A humpback whale named Timmy was released in the North Sea after being stranded off Germany. A GPS transmitter was attached to track its location. Before the release, a GPS transmitter was reportedly attached to track the whale's future location.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Zambia cancels world’s largest human rights and tech summit days before start",
-      "url": "https://www.theguardian.com/global-development/2026/may/02/zambia-cancels-rightscon-summit-largest-human-rights-technology-conference",
-      "source": "The Guardian",
+      "title": "OPEC+ agrees in principle on small oil output quota hike without UAE, sources say",
+      "url": "https://www.thehindu.com/news/international/opec-agrees-in-principle-on-small-oil-output-quota-hike-without-uae-sources-say/article70931514.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-02T11:00:24+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/6fabe623e836d0efa2c73039159dbccc5d3b9e9b/82_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4c00cd1ac475a00a7ef1f79c2ca1a0b8",
-      "summary": "Zambia cancelled the RightsCon 2026 conference citing non-alignment with national values.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVZSc2RUNmxMZU8wVUw4UEI0c0RfRHJKSDVZU1luX3o4NXNzeWJELV9rTlZNSVJabWNPRU1xRGNBR2MwLVExMXNpTnFlak5YWUpvWTBCSk9wNVFJc2ZfTzdwa2ItZUZvMVdrZy1jRGR4NEFjY2pRWTFlWTVDSExwWnVNR1ExZ2M1ek1PQW1iNHhnWXoxUXN0bmJvUHpTTVpJSmthUWdDODhWN0xFU2VJZ3J1MV96Z9IBuwFBVV95cUxNckVJUTY0ZjVYVC0xUlVNM1lrdnBKWFlTWTlFMndraDNOSWhUY04wVFVBLXZWVHFJZ2NiN0FTSDZ4eTc5Q0M4R2dOVEtteTJpdmJFQ0MtVXQ3WDVhSV95clNReFFPaGItY2hyQUk0SHpIdmZ6STdWTUI1aGZCWWlHTWtuaEpzQWxnY1MtZThFcmoxNUVvYm5JblhNWmozelJxcHRla0VPQkVvYV9Rc1BsUHdfUGVuZDRWdm5B?oc=5",
-      "source": "Google News (United Nations)",
-      "sources": [],
-      "published_at": "2026-05-02T10:00:57+00:00",
-      "image_url": "https://images.pexels.com/photos/32512900/pexels-photo-32512900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "China is urging the reversal of UNIFIL's planned departure from Lebanon as conflict escalates. The move is part of China's efforts to address the growing crisis in the region. China urges reversal of UNIFIL departure from Lebanon as conflict escalates Al Jazeera.",
+      "published_at": "2026-05-02T11:01:02+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/z6yhy3/article70931523.ece/alternates/LANDSCAPE_1200/2026-04-29T144258Z_787399775_RC2MZ7AZFGB2_RTRMADP_3_EMIRATES-GULF-OPEC-RUSSIA-KREMLIN.JPG",
+      "summary": "OPEC+ agreed to a small oil output quota hike without the UAE. The hikes are largely symbolic due to halted shipping through the Strait of Hormuz. The output hikes are largely ‌symbolic for now, with most shipping ​through the Strait of Hormuz halted by the ⁠U. S.-Israeli war against Iran.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -116,62 +200,63 @@
       "translations": {}
     },
     {
-      "title": "French Catholic nun assaulted in Jerusalem, video sparks outrage, Israeli police arrests the",
-      "url": "https://indianexpress.com/article/world/jerusalem-attack-french-nun-video-arrest-sectarian-violence-mount-zion-rfdc-data-10667228/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-02T09:40:18+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/East-Jerusalem-nun-attack.jpg",
-      "summary": "A French Catholic nun was assaulted in Jerusalem and Israeli police made an arrest. French Catholic nun assaulted in Jerusalem, video sparks outrage, Israeli police arrests the.",
+      "title": "Trump Warns Of More Oil Disruptions, US Aircraft Carrier Leaves Gulf",
+      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [
+        {
+          "url": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand",
+          "source": "NDTV World"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdV8tZ3RsM3pTTFJkdDdZSVpWczY2MDFzS2F6LVFlRF90enJtSVJ2RnlXN0hMcVBFSU5Ya09JMTA2ODN0Z3d0RGp2TWhaRzd3NGE1dVgtTFk1YVJxNEE3WjNERVYwaHNHUUZheXh1UTB1YWRzdGV3ZG9fLVBiajlTTW1SVXZvRE5QTXVTNDBXaFBMOXQxMUdwRTJDV1MzYUtVWWVCMjIzb3ZDRjZxSTAtZmZ3QmgweVd5a3NMNXlMM1VfSnJkV2RyVVJxTVVvQQ?oc=5",
+          "source": "Google News (war ceasefire)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdV8tZ3RsM3pTTFJkdDdZSVpWczY2MDFzS2F6LVFlRF90enJtSVJ2RnlXN0hMcVBFSU5Ya09JMTA2ODN0Z3d0RGp2TWhaRzd3NGE1dVgtTFk1YVJxNEE3WjNERVYwaHNHUUZheXh1UTB1YWRzdGV3ZG9fLVBiajlTTW1SVXZvRE5QTXVTNDBXaFBMOXQxMUdwRTJDV1MzYUtVWWVCMjIzb3ZDRjZxSTAtZmZ3QmgweVd5a3NMNXlMM1VfSnJkV2RyVVJxTVVvQQ?oc=5",
+          "source": "Google News (war ceasefire)"
+        }
+      ],
+      "published_at": "2026-05-02T09:41:42+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/h38j28d_us-iran_625x300_02_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "summary": "A US aircraft carrier left the Gulf as Trump warned of more oil disruptions. The US had been involved in a war against Iran with Israel. US Israel Iran War Ceasefire News LIVE Updates.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Spirit Airlines Begins 'Wind-down' After 34 Years In Business, Cancels All Flights",
-      "url": "https://www.ndtv.com/world-news/spirit-airlines-begins-wind-down-after-34-years-in-business-cancels-all-flights-11439038#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "After Assad's fall, Syria's Kurds are left in limbo, feeling abandoned by the U.S.",
+      "url": "https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us",
+      "source": "NPR World",
       "sources": [],
-      "published_at": "2026-05-02T09:37:08+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/p9lqss28_spirit-airlines_625x300_02_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Spirit Airlines cancelled all flights after a potential White House bailout fell through. The carrier announced it was ceasing operations after a potential White House bailout fell through. Spirit Airlines Begins 'Wind-down' After 34 Years In Business, Cancels All Flights.",
+      "published_at": "2026-05-02T09:02:00+00:00",
+      "image_url": "https://images.pexels.com/photos/34632813/pexels-photo-34632813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Kurdish families in Syria struggle with loss and uncertainty after Bashar al-Assad's fall. They feel abandoned by the US allies they once fought alongside. Caught in limbo after the fall of Syria's Bashar al-Assad, Kurdish families struggle with cold, loss and uncertainty.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Jordanians Struggle as Mideast Wars Scare Tourists Away",
+      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-02T09:00:56+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/28/multimedia/28Jordan-Tourism-01-qmcb/28Jordan-Tourism-01-qmcb-mediumSquareAt3X.jpg",
+      "summary": "Jordan's tourism high season was nearly wiped out as visitors canceled flights and tours. Though Jordan mostly sat out the conflicts, its tourism high season was nearly wiped out at popular sites.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "After Trump’s Ousting of Maduro, Little Has Changed for Most Venezuelans",
+      "url": "https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-02T09:00:14+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/29/world/00int-venezuela-mood-promo/00int-venezuela-mood-mediumSquareAt3X.jpg",
+      "summary": "US officials plan to take over Venezuela's oil industry to bring prosperity, but many in Caracas are skeptical. U. S. officials say they will “unleash prosperity” by commandeering the oil industry.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Germany urges stronger European defence after US announces troop drawdown",
-      "url": "https://www.channelnewsasia.com/world/germany-us-troop-reduce-stronger-european-defence-6095911",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-02T09:35:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--hV3BrvNI--/c_crop,h_449,w_799,x_1,y_40/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-02T090740Z_1_LYNXMPEM4104S_RTROPTP_3_USA-TRUMP-GERMANY.JPG?itok=DFUCGd7p",
-      "summary": "Germany's defence minister says Europeans must take on more responsibility for their own security after the US announced it would withdraw 5,000 soldiers. \"We Europeans must take on more responsibility for our own security,\" says Germany's defence minister after Washington announced it would withdraw 5,000 soldiers.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
-      "url": "https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-02T09:16:49+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260502__A9LJ6T9__v2__HighRes__VietnamJapanDiplomacy-1777711446.jpg?resize=1920%2C1440",
-      "summary": "Japan's Takaichi signs six agreements with Vietnam in Hanoi. Takaichi signs six agreements with Vietnam, including on technology, agriculture and space, during a trip to Hanoi. Japan’s Takaichi pledges deeper energy cooperation with Vietnam.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S. withdrawing 5,000 troops from Germany, U.S. officials say",
-      "url": "https://www.thehindu.com/news/international/us-withdrawing-5000-troops-from-germany-us-officials-say/article70930666.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-02T08:47:15+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/5ohbcl/article70930674.ece/alternates/LANDSCAPE_1200/2026-05-01T203004Z_74987678_RC24XJA1HHB0_RTRMADP_3_USA-TRUMP-EUROPE.JPG",
-      "summary": "U. S. officials announced the withdrawal of 5,000 troops from Germany. Germany's Defence Minister said the move had been expected and that Europe needed to do more to ensure its own security.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -188,76 +273,22 @@
       "translations": {}
     },
     {
-      "title": "Major Human Rights Event Cancelled After Chinese \"Pressure\" On Zambia Over Taiwan Attendees",
-      "url": "https://www.ndtv.com/world-news/rightscon-major-human-rights-event-cancelled-after-chinese-pressure-on-zambia-over-taiwan-attendees-11438214#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "बांग्लादेश सरकार ने भारतीय राजदूत को किया था तलब, अब पूर्व राजनयिकों ने समझा दी कूटनीति",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOcUJtbkVBVEhjSEY4TWhxSlZlYS1oV3FIa0h1NERwaWNibk9iVnQ5T0V0c01HSU9jcE93WGRuV2dpRmxYWU84dWZJNGhSZXBCREFOemt0eWx1RTFzYTZuSTV4bEs4clpjU24teV82MHNHa2lzYlpQdzlMaS10MWl3UjFEbGlIZmhHbUxIUlFVSU9LZldlNklwelU2YzlsdnhWdkF2MldZVGhnMWFXRElBbm42YmRxc2c5cEtCYTBEU2VRM1dZbEp0bmhlVm9mb1o3NjhZSUF4UWpYYndRRmNhMFFGQkhuYjNKeE9Qb2o0NDg2R2RNZGR4ZGdmX2ZpNlBYWGZKd1M4U2x2TzJHSEZXSjlmUzc2UFlVSmFRZlZiczVkWnlaOV9xLU8wUG5Ud2hqS2sxSmhZNkZwUC16ZXVwc1dzb0E2OFRtVFHSAc8CQVVfeXFMTy1FWDh4YzlFNHc1R3V4V08xUWlPY0tzRXVPVTJTTGhKWEV5SlFwdzFrRVpseXc0dHBrdFF6NF93WHAzRC12ZFYtbVpFRjdIcUowSnJLazBhY3ExejVTY0R0OXoxRHphQklaYUVqcTMwdmVYUG55OTdDWmFMelpKYzBiWHV4R2h1bmkxSTZMM1pSdUoxSTcwd2NxRnBtRzRxZUp5S09Bb1UxS2pJeXVuNFE4M3pUSm9MRVFCS25faFVvQ0F0MGVCMVBPR1pLeUdOWUkzZENzVkJiYkxvV1FPM1p0MTUya0pzSHJJWlZkaE1hMHpYc1RUTmtkR0xGVG5xUHFxNGJpUGF5R3VhUGtCYl8tX3dWSkhMZzJndnlhbnBOY1VSeWN4YXVxRkRRTERxeGRsMHFmX04tVTZQVEpxMXNKb3pfTEg1WklCVmFVaTA?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
       "sources": [],
-      "published_at": "2026-05-02T08:30:04+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/t3ngmka_rightscon_625x300_02_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Zambia cancelled a human rights event due to Chinese pressure over Taiwan attendees. RightsCon has grown into a key global forum on digital rights. Major Human Rights Event Cancelled After Chinese \"Pressure\" On Zambia Over Taiwan Attendees.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-      "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-02T08:14:09+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9794/live/527f9bf0-45c3-11f1-b55d-0f258dce1735.jpg",
-      "summary": "The US will cut troop levels in Germany by 5,000 amid a row over Iran. The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
-      "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-02T08:09:27+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69f5a04a-1777705034.jpg?resize=1920%2C1440",
-      "summary": "Spirit Airlines canceled all flights due to a fuel crisis. The US-based carrier's collapse will cost thousands of jobs after jet fuel prices doubled. The collapse of the US-based budget carrier due to a doubling in jet fuel prices will cost thousands of jobs.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "How the Iran war is hurting travelers, airline industry",
-      "url": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-02T07:57:00+00:00",
-      "image_url": "https://static.dw.com/image/72628325_6.jpg",
-      "summary": "A jet fuel shortage triggered by the blockade of the Strait of Hormuz may lead to higher ticket prices for European travelers. Europeans may have to reconsider their summer travel plans, as a jet fuel shortage triggered by the blockade of the Strait of Hormuz could lead airlines to set higher ticket prices.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UK’s Starmer eyes banning some pro-Palestine protests",
-      "url": "https://www.aljazeera.com/news/2026/5/2/uks-starmer-eyes-banning-some-pro-palestine-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-02T07:55:08+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-30T130732Z_44339800_RC2OZKAUHIUE_RTRMADP_3_BRITAIN-CRIME-1777703834.jpg?resize=1920%2C1440",
-      "summary": "UK PM Keir Starmer wants to ban some pro-Palestine protests. He says the phrase 'globalise the Intifada' should be completely off limits. PM Keir Starmer says the phrase 'globalise the Intifada' should be 'completely off limits'.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Kosovo to hold snap elections in June",
-      "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-02T07:46:00+00:00",
-      "image_url": "https://static.dw.com/image/76247848_6.jpg",
-      "summary": "Kosovo will hold snap elections in June due to political deadlock over the presidential election. This is the country's third parliamentary election in a year and a half. Kosovo will soon hold its third parliamentary election in a year and a half.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-02T12:16:42+00:00",
+      "image_url": "https://images.pexels.com/photos/36953647/pexels-photo-36953647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "बांग्लादेश सरकार ने भारतीय राजदूत को तलब किया था. पूर्व राजनयिकों ने कूटनीति की समझ दी. यह घटना भारत-बांग्लादेश संबंधों में तनाव की खबरों के बीच हुई. बांग्लादेश सरकार ने भारतीय राजदूत को किया था तलब, अब पूर्व राजनयिकों ने समझा दी कूटनीति Navbharat Times।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश सरकार ने भारतीय राजदूत को किया था तलब, अब पूर्व राजनयिकों ने समझा दी कूटनीति",
+          "summary": "बांग्लादेश सरकार ने भारतीय राजदूत को तलब किया था. पूर्व राजनयिकों ने कूटनीति की समझ दी. यह घटना भारत-बांग्लादेश संबंधों में तनाव की खबरों के बीच हुई. बांग्लादेश सरकार ने भारतीय राजदूत को किया था तलब, अब पूर्व राजनयिकों ने समझा दी कूटनीति Navbharat Times।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "यूएन सुरक्षा परिषद का अध्यक्ष देश बना चीन",
@@ -274,24 +305,6 @@
           "title": "यूएन सुरक्षा परिषद का अध्यक्ष देश बना चीन",
           "summary": "चीन यूएन सुरक्षा परिषद का अध्यक्ष देश बन गया है। यह पद एक महीने के लिए होता है और इसका चयन रोटेशन के आधार पर किया जाता है। यूएन सुरक्षा परिषद का अध्यक्ष देश बना चीन bhaskarhindi. com।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान के ख़िलाफ़ ट्रंप अब क्या क़दम उठाएंगे, अरब जगत के मीडिया में कैसी है चर्चा",
-      "url": "https://www.bbc.com/hindi/articles/cp8p1qpv4deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-02T09:25:02+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d1d3/live/d8ae8f30-4607-11f1-ac78-2112837ce2aa.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के ईरान के खिलाफ बयानबाजी पर अरब जगत के मीडिया में चर्चा हो रही है। उन्होंने ईरान को आत्मसमर्पण करने के लिए कहा और देश पर नाकाबंदी लगाने की चेतावनी दी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के ख़िलाफ़ ट्रंप अब क्या क़दम उठाएंगे, अरब जगत के मीडिया में कैसी है चर्चा",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के ईरान के खिलाफ बयानबाजी पर अरब जगत के मीडिया में चर्चा हो रही है। उन्होंने ईरान को आत्मसमर्पण करने के लिए कहा और देश पर नाकाबंदी लगाने की चेतावनी दी।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -314,6 +327,24 @@
       }
     },
     {
+      "title": "कनाडा ने खुफिया रिपोर्ट में माना- खालिस्तानियों से राष्ट्रीय सुरक्षा को खतरा; भारत पर फिर लगाया आरोप",
+      "url": "https://www.amarujala.com/world/canadian-intel-report-says-khalistani-elements-pose-national-security-threat-2026-05-02",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-02T05:07:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/canada_40d72beb980887609d54ffd01c7bc44e.jpeg?w=750&dpr=1.0",
+      "summary": "कनाडा ने खुफिया रिपोर्ट में माना कि खालिस्तानियों से राष्ट्रीय सुरक्षा को खतरा है. कनाडा ने फिर से भारत पर आरोप लगाया. यह रिपोर्ट कनाडा की सुरक्षा एजेंसियों द्वारा तैयार की गई थी.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कनाडा ने खुफिया रिपोर्ट में माना- खालिस्तानियों से राष्ट्रीय सुरक्षा को खतरा; भारत पर फिर लगाया आरोप",
+          "summary": "कनाडा ने खुफिया रिपोर्ट में माना कि खालिस्तानियों से राष्ट्रीय सुरक्षा को खतरा है. कनाडा ने फिर से भारत पर आरोप लगाया. यह रिपोर्ट कनाडा की सुरक्षा एजेंसियों द्वारा तैयार की गई थी.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "'ईरान के खिलाफ युद्ध खत्म हो चुका है', 60 दिन की समयसीमा पूरी होने पर ट्रंप ने संसद को दी जानकारी",
       "url": "https://www.amarujala.com/world/us-president-donald-trump-tells-lawmakers-war-against-iran-has-terminated-as-60-day-deadline-arrives-2026-05-02",
       "source": "Amar Ujala World",
@@ -332,19 +363,127 @@
       }
     },
     {
-      "title": "अरिजीत सिंहः मुर्शिदाबाद के जियागंज में लोग उन्हें कैसे देखते हैं?",
-      "url": "https://www.bbc.com/hindi/articles/czxrerzyd2no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "'नाकाबंदी से ईरान को हुआ 4.8 अरब डॉलर का नुकसान, जारी है कार्रवाई', अमेरिका के रक्षा मंत्रालय का",
+      "url": "https://www.amarujala.com/world/pentagon-claims-us-blockade-has-cost-iran-usd-4-8-bn-report-2026-05-02",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-02T03:06:31+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3335/live/48b20890-45cf-11f1-ac1d-7dfc1ffc7418.jpg",
-      "summary": "अरिजीत सिंह का प्रभाव उनके आसपास के लोगों, खासकर युवाओं पर कैसा होगा, यह उनके शहर के लोगों की नजर से देखा जा सकता है। उन्होंने करियर के शिखर पर कामयाबी के शोर से दूर रहने का फैसला किया।",
+      "published_at": "2026-05-02T03:14:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/11/02/us-announces-new-middle-east-deployments-includes-b-52-bombers-missile-destroyers_966271fba133ef9ea6c2f8ecf668f087.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका के रक्षा मंत्रालय ने दावा किया कि नाकाबंदी से ईरान को 4.8 अरब डॉलर का नुकसान हुआ है. कार्रवाई जारी है. यह दावा अमेरिकी रक्षा मंत्रालय के एक बयान में किया गया.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'नाकाबंदी से ईरान को हुआ 4.8 अरब डॉलर का नुकसान, जारी है कार्रवाई', अमेरिका के रक्षा मंत्रालय का",
+          "summary": "अमेरिका के रक्षा मंत्रालय ने दावा किया कि नाकाबंदी से ईरान को 4.8 अरब डॉलर का नुकसान हुआ है. कार्रवाई जारी है. यह दावा अमेरिकी रक्षा मंत्रालय के एक बयान में किया गया.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "शरीर में सोडियम लेवल कम होने से क्या होता है, क्या हैं लक्षण? यूपी कांग्रेस अध्यक्ष अस्पताल में",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/uttar-pradesh-congress-president-ajay-rai-hospitalized-due-to-low-sodium-how-it-affects-our-health-2026-05-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T02:41:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/low-sodium_e97b71b7adc1e7ff05a9b672e45c87ce.jpeg?w=750&dpr=1.0",
+      "summary": "उत्तर प्रदेश कांग्रेस अध्यक्ष अजय राय अस्पताल में भर्ती हुए. उनके शरीर में सोडियम लेवल कम था. यह घटना स्वास्थ्य संबंधी समस्या की खबरों के बीच हुई. उत्तर प्रदेश कांग्रेस अध्यक्ष अजय राय के लो सोडियम लेवल के कारण अस्पताल में भर्ती होने की खबर है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अरिजीत सिंहः मुर्शिदाबाद के जियागंज में लोग उन्हें कैसे देखते हैं?",
-          "summary": "अरिजीत सिंह का प्रभाव उनके आसपास के लोगों, खासकर युवाओं पर कैसा होगा, यह उनके शहर के लोगों की नजर से देखा जा सकता है। उन्होंने करियर के शिखर पर कामयाबी के शोर से दूर रहने का फैसला किया।",
+          "title": "शरीर में सोडियम लेवल कम होने से क्या होता है, क्या हैं लक्षण? यूपी कांग्रेस अध्यक्ष अस्पताल में",
+          "summary": "उत्तर प्रदेश कांग्रेस अध्यक्ष अजय राय अस्पताल में भर्ती हुए. उनके शरीर में सोडियम लेवल कम था. यह घटना स्वास्थ्य संबंधी समस्या की खबरों के बीच हुई. उत्तर प्रदेश कांग्रेस अध्यक्ष अजय राय के लो सोडियम लेवल के कारण अस्पताल में भर्ती होने की खबर है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पेशाब का रंग बताता है सेहत का हाल",
+      "url": "https://www.amarujala.com/web-stories/lifestyle/fitness/urine-colour-health-chart-know-urine-colour-means-in-hindi-2026-05-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T02:41:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/11/urine-color-urin_4126f3fa3ad12177f93b56129680b47e.jpeg?w=750&dpr=1.0",
+      "summary": "पेशाब का रंग शरीर की स्थिति का संकेत देता है. यह हाइड्रेशन और स्वास्थ्य की जानकारी देता है. डॉक्टरों ने इसके महत्व पर जोर दिया है. पेशाब का रंग आपके शरीर की स्थिति का सीधा संकेत देता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पेशाब का रंग बताता है सेहत का हाल",
+          "summary": "पेशाब का रंग शरीर की स्थिति का संकेत देता है. यह हाइड्रेशन और स्वास्थ्य की जानकारी देता है. डॉक्टरों ने इसके महत्व पर जोर दिया है. पेशाब का रंग आपके शरीर की स्थिति का सीधा संकेत देता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ये काम कर लिए तो दो तरह के कैंसर से हो सकता है बचाव, महिलाओं के लिए जरूरी खबर",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/breast-and-cervical-cancer-prevention-tips-know-cancer-se-bachne-ke-liye-kya-kare-2026-05-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T02:41:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/cancer_f9514f3f5bf7d7d66ca32e79e3e196cc.jpeg?w=750&dpr=1.0",
+      "summary": "ब्रेस्ट कैंसर और सर्वाइकल कैंसर दुनिया में महिलाओं के लिए आम और जानलेवा बीमारियां हैं। भारत में हर साल लाखों महिलाएं इन बीमारियों से प्रभावित होती हैं। इन दो प्रकार के कैंसर से बचाव के लिए जरूरी खबर महिलाओं के लिए महत्वपूर्ण है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ये काम कर लिए तो दो तरह के कैंसर से हो सकता है बचाव, महिलाओं के लिए जरूरी खबर",
+          "summary": "ब्रेस्ट कैंसर और सर्वाइकल कैंसर दुनिया में महिलाओं के लिए आम और जानलेवा बीमारियां हैं। भारत में हर साल लाखों महिलाएं इन बीमारियों से प्रभावित होती हैं। इन दो प्रकार के कैंसर से बचाव के लिए जरूरी खबर महिलाओं के लिए महत्वपूर्ण है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कहीं आपको भी तो नहीं है अस्थमा? सांस में दिक्कत के अलावा इन लक्षणों पर भी दें ध्यान",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/world-asthma-day-2026-root-cause-and-risk-factors-of-asthma-kyu-hota-hai-2026-05-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T02:41:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/asthma_edbcd3a40e1bb08ebb2760aa9a4aa397.jpeg?w=750&dpr=1.0",
+      "summary": "अस्थमा एक क्रॉनिक सांस की बीमारी है जिसमें श्वसन नलियां सूज जाती हैं और संकरी हो जाती हैं। इसके कारण सांस लेने में तकलीफ, सीने में जकड़न और खांसी की समस्या होती है। अस्थमा के लक्षणों पर ध्यान देना जरूरी है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कहीं आपको भी तो नहीं है अस्थमा? सांस में दिक्कत के अलावा इन लक्षणों पर भी दें ध्यान",
+          "summary": "अस्थमा एक क्रॉनिक सांस की बीमारी है जिसमें श्वसन नलियां सूज जाती हैं और संकरी हो जाती हैं। इसके कारण सांस लेने में तकलीफ, सीने में जकड़न और खांसी की समस्या होती है। अस्थमा के लक्षणों पर ध्यान देना जरूरी है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बार-बार जम्हाई क्यों आती है?",
+      "url": "https://www.amarujala.com/web-stories/lifestyle/fitness/yawning-too-much-means-know-frequent-yawning-reason-and-causes-2026-05-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T02:41:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/21/yawning_6daec87e455b8069781e2359d6549cd3.jpeg?w=750&dpr=1.0",
+      "summary": "जम्हाई को आमतौर पर नींद की कमी का संकेत माना जाता है। इसके कई और कारण भी हो सकते हैं। जम्हाई के कारणों को समझना जरूरी है। इसके कई और कारण हो सकते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बार-बार जम्हाई क्यों आती है?",
+          "summary": "जम्हाई को आमतौर पर नींद की कमी का संकेत माना जाता है। इसके कई और कारण भी हो सकते हैं। जम्हाई के कारणों को समझना जरूरी है। इसके कई और कारण हो सकते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "तेज गर्मी-लू से खुद को कैसे रखें सुरक्षित? जानिए एम्स की डायटीशियन की जरूरी सलाह",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/preventing-heatstroke-risk-what-to-eat-and-avoid-in-summer-aiims-dietitian-explain-2026-05-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T02:41:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/01/heatwave-heatstroke_2c845fd28be95ddeab7b873730f1cc69.jpeg?w=750&dpr=1.0",
+      "summary": "एम्स की डाइटिशियन ने सलाह दी है कि गर्मियों में शरीर को ठंडा रखने के लिए ऐसे खाद्य पदार्थों का सेवन करना चाहिए जिनमें पानी की मात्रा अधिक हो। ये खाद्य पदार्थ शरीर को हाइड्रेट रखते हैं और तापमान को नियंत्रित करते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेज गर्मी-लू से खुद को कैसे रखें सुरक्षित? जानिए एम्स की डायटीशियन की जरूरी सलाह",
+          "summary": "एम्स की डाइटिशियन ने सलाह दी है कि गर्मियों में शरीर को ठंडा रखने के लिए ऐसे खाद्य पदार्थों का सेवन करना चाहिए जिनमें पानी की मात्रा अधिक हो। ये खाद्य पदार्थ शरीर को हाइड्रेट रखते हैं और तापमान को नियंत्रित करते हैं।",
           "region": "दुनिया"
         }
       }
@@ -404,6 +543,24 @@
       }
     },
     {
+      "title": "लंदन हमले के बाद बढ़ी चिंता: गाजा प्रदर्शन पर सख्ती के संकेत, स्टार्मर बोले- उकसाने वाले नारों पर",
+      "url": "https://www.amarujala.com/world/starmer-urges-tougher-action-against-gaza-protests-in-uk-following-antisemitic-attacks-2026-05-02",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-02T02:20:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/starmer-urges-tougher-action-against-gaza-protests-in-uk-following-antisemitic-attacks_435be6895efc9dcde34c62d0066e3f43.jpeg?w=750&dpr=1.0",
+      "summary": "लंदन में हुए हमले के बाद, ब्रिटेन के नेता स्टार्मर ने गाजा प्रदर्शन पर सख्ती के संकेत दिए हैं। उन्होंने उकसाने वाले नारों पर कार्रवाई की बात कही है। स्टार्मर ने ऐसी घटनाओं को रोकने के लिए कड़े कदम उठाने की बात कही।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लंदन हमले के बाद बढ़ी चिंता: गाजा प्रदर्शन पर सख्ती के संकेत, स्टार्मर बोले- उकसाने वाले नारों पर",
+          "summary": "लंदन में हुए हमले के बाद, ब्रिटेन के नेता स्टार्मर ने गाजा प्रदर्शन पर सख्ती के संकेत दिए हैं। उन्होंने उकसाने वाले नारों पर कार्रवाई की बात कही है। स्टार्मर ने ऐसी घटनाओं को रोकने के लिए कड़े कदम उठाने की बात कही।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "अग्रणी कूटनीति से कोमल शक्ति का प्रसार होता है: जब वियतनाम की छवि रोजमर्रा के अनुभवों के माध्यम से",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHVXalY0bnQ5aFkzejZ2M0Z6UmNNcUhva0lMdVNyOW9qQ1pjU0xieGdGLTFVbU9iQjNZTTk4YTlFUnp0SEV2SDBTTmJPaW1qZDVrb2pkYVBMbkprTTZwM2ZnSXdlTmFHMURneloxNGtGSHFIYmtxWDY1cFY3NWNMUG0weEpJN3QzeUE5cElSa2cyTU1IM1V6M2NzbFlMT3dYdFBTUHNMemdFVmlxN1Bxc0JrTE1xSVpjZUJxZmxyaXJRM3g2aHA0N0dKWQ?oc=5",
       "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
@@ -422,128 +579,20 @@
       }
     },
     {
-      "title": "पश्चिम बंगालः मतदान के बाद भी क्यों जारी है सियासी घमासान, क्या है इसके पीछे की कहानी",
-      "url": "https://www.bbc.com/hindi/articles/c1w2jdvg41zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "इंडोनेशिया मूल्य विशेषज्ञ एशिया-यूरोप एजेंडा का चालक होना चाहिए",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5KMWMyWUpJY25oeDFqTVdGTnFGalJyOEhEWmxCNldSMHl1R21xazNGaHpjLWozNzEtQTZSaXRyZkxyVFXSAUJBVV95cUxPLWdHdUxrYlJTV0NqMFFUMnFvcHotNXFsMGZYZ3E2MG5xTGRwSnF5ZE1Ra2c5TjQ5a2k1aXo2MUhnZXc?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
       "sources": [],
-      "published_at": "2026-05-02T01:55:10+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8279/live/91719550-45c5-11f1-b4c5-2bacf4c43916.jpg",
-      "summary": "पश्चिम बंगाल में मतदान के बाद भी सियासी घमासान जारी है। आम तौर पर मतदान तक चुनावी घमासान जारी रहता है और उसके बाद शांति हो जाती है लेकिन इस बार के बंगाल चुनावों में ऐसा नहीं हो रहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पश्चिम बंगालः मतदान के बाद भी क्यों जारी है सियासी घमासान, क्या है इसके पीछे की कहानी",
-          "summary": "पश्चिम बंगाल में मतदान के बाद भी सियासी घमासान जारी है। आम तौर पर मतदान तक चुनावी घमासान जारी रहता है और उसके बाद शांति हो जाती है लेकिन इस बार के बंगाल चुनावों में ऐसा नहीं हो रहा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका ने ईरान के नेतृत्व को क्यों बताया 'गटर के चूहे'? तेहरान ने भी पलटवार किया",
-      "url": "https://www.amarujala.com/world/rats-in-sewer-pipe-us-treasury-chief-bessent-slams-iranian-leadership-2026-05-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-02T01:49:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/amaraka-vatata-matara-sakata-bsata_8b7958dd0368cd56b46b771c4658cf35.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिका ने ईरान के नेतृत्व को 'गटर के चूहे' कहा. तेहरान ने भी पलटवार किया. दोनों देशों के बीच तनाव बढ़ रहा है. पश्चिम एशिया संकट: अमेरिका ने ईरान के नेतृत्व को क्यों बताया 'गटर के चूहे'?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका ने ईरान के नेतृत्व को क्यों बताया 'गटर के चूहे'? तेहरान ने भी पलटवार किया",
-          "summary": "अमेरिका ने ईरान के नेतृत्व को 'गटर के चूहे' कहा. तेहरान ने भी पलटवार किया. दोनों देशों के बीच तनाव बढ़ रहा है. पश्चिम एशिया संकट: अमेरिका ने ईरान के नेतृत्व को क्यों बताया 'गटर के चूहे'?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "शिमला जाने के लिए पत्नी ने चलाया ऐसा दिमाग, जानकर ठहाके मारकर हंसने लगेंगे आप",
-      "url": "https://www.amarujala.com/photo-gallery/humour/hindi-jokes-husband-wife-jokes-in-hindi-viral-chutkule-in-hindi-jokes-for-whatsapp-2026-05-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T01:14:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/30/husband-wife-jokes-in-hindi_624ae18067dc322742a57c38137ba8e4.jpeg?w=750&dpr=1.0",
-      "summary": "एक महिला ने शिमला जाने के लिए अपनी योजना बनाने के लिए हास्य का सहारा लिया। इससे पता चलता है कि हंसने से जीवन की परेशानियां आसानी से हल हो सकती हैं और मन शांत रहता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शिमला जाने के लिए पत्नी ने चलाया ऐसा दिमाग, जानकर ठहाके मारकर हंसने लगेंगे आप",
-          "summary": "एक महिला ने शिमला जाने के लिए अपनी योजना बनाने के लिए हास्य का सहारा लिया। इससे पता चलता है कि हंसने से जीवन की परेशानियां आसानी से हल हो सकती हैं और मन शांत रहता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका पर बरसे ईरानी प्रतिनिधि इलाही: बोले- न युद्ध, न शांति जैसे हालात; भारत के साथ दोस्ती पर कही",
-      "url": "https://www.amarujala.com/india-news/west-asia-iran-representative-india-on-no-war-no-peace-situation-bengaluru-2026-05-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T01:10:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/bharata-ma-iirana-ka-paratanathha-abthal-majatha-hakama-ilha_abd4d849ff809ddf676d3c982e605caa.jpeg?w=750&dpr=1.0",
-      "summary": "ईरानी प्रतिनिधि ने अमेरिका के साथ वर्तमान स्थिति को \"न युद्ध, न शांति\" बताया। उन्होंने भारत के साथ दोस्ती के महत्व पर भी जोर दिया। यह बयान बेंगलुरु में एक कार्यक्रम में दिया गया था।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका पर बरसे ईरानी प्रतिनिधि इलाही: बोले- न युद्ध, न शांति जैसे हालात; भारत के साथ दोस्ती पर कही",
-          "summary": "ईरानी प्रतिनिधि ने अमेरिका के साथ वर्तमान स्थिति को \"न युद्ध, न शांति\" बताया। उन्होंने भारत के साथ दोस्ती के महत्व पर भी जोर दिया। यह बयान बेंगलुरु में एक कार्यक्रम में दिया गया था।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "15 बूथों पर दोबारा वोटिंग में भी बंपर मतदान; डायमंड हार्बर सीट मगराहट पश्चिम से आगे",
-      "url": "https://www.amarujala.com/india-news/west-bengal-vidhan-sabha-election-2026-re-polling-updates-15-booths-in-diamond-harbour-magrahat-paschim-2026-05-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T01:07:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/west-bengal-election-2026-repolls-live-15-booths-in-diamond-harbour-magrahat-paschim-vidhan-sabha-c_0a254fd8d339691ddcbeacebd7974e39.jpeg?w=750&dpr=1.0",
-      "summary": "पश्चिम बंगाल के 15 बूथों पर पुनर्मतदान में उच्च मतदान दर्ज किया गया। डायमंड हार्बर सीट पर मगराहट पश्चिम से आगे चल रही है। सुरक्षा व्यवस्था कड़ी कर दी गई थी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "15 बूथों पर दोबारा वोटिंग में भी बंपर मतदान; डायमंड हार्बर सीट मगराहट पश्चिम से आगे",
-          "summary": "पश्चिम बंगाल के 15 बूथों पर पुनर्मतदान में उच्च मतदान दर्ज किया गया। डायमंड हार्बर सीट पर मगराहट पश्चिम से आगे चल रही है। सुरक्षा व्यवस्था कड़ी कर दी गई थी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "वैश्विक अनिश्चितता को अवसर में बदलें, नड्डा बोले- 2047 तक विकसित भारत के लिए मजबूत सप्लाई चेन जरूरी",
-      "url": "https://www.amarujala.com/business/business-diary/india-must-turn-global-crises-into-opportunities-strengthen-supply-chains-nadda-2026-05-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T00:53:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/08/jp-nadda_40cc7a7db80198feef19fea490dc0a88.jpeg?w=750&dpr=1.0",
-      "summary": "भारतीय जनता पार्टी के अध्यक्ष जेपी नड्डा ने कहा कि 2047 तक विकसित भारत के लिए मजबूत सप्लाई चेन जरूरी है। उन्होंने वैश्विक अनिश्चितता को अवसर में बदलने की आवश्यकता पर जोर दिया।",
+      "published_at": "2026-05-02T01:38:20+00:00",
+      "image_url": "https://images.pexels.com/photos/4715441/pexels-photo-4715441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "इंडोनेशिया के मूल्य विशेषज्ञ ने कहा कि देश को एशिया-यूरोप एजेंडा का चालक होना चाहिए. यह बयान इंडोनेशिया के महत्व को बढ़ाने के लिए दिया गया है. देश की भूमिका को मजबूत करने के लिए विशेषज्ञ ने यह सुझाव दिया है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वैश्विक अनिश्चितता को अवसर में बदलें, नड्डा बोले- 2047 तक विकसित भारत के लिए मजबूत सप्लाई चेन जरूरी",
-          "summary": "भारतीय जनता पार्टी के अध्यक्ष जेपी नड्डा ने कहा कि 2047 तक विकसित भारत के लिए मजबूत सप्लाई चेन जरूरी है। उन्होंने वैश्विक अनिश्चितता को अवसर में बदलने की आवश्यकता पर जोर दिया।",
+          "title": "इंडोनेशिया मूल्य विशेषज्ञ एशिया-यूरोप एजेंडा का चालक होना चाहिए",
+          "summary": "इंडोनेशिया के मूल्य विशेषज्ञ ने कहा कि देश को एशिया-यूरोप एजेंडा का चालक होना चाहिए. यह बयान इंडोनेशिया के महत्व को बढ़ाने के लिए दिया गया है. देश की भूमिका को मजबूत करने के लिए विशेषज्ञ ने यह सुझाव दिया है.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "त्वचा पर दिख रहे हैं धब्बे? तुरंत करा लें जांच कहीं आपको डायबिटीज तो नहीं",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/dark-velvety-patches-on-the-skin-linked-to-prediabetes-know-diabetes-ki-kya-pahchan-hai-2026-05-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T00:52:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/diabetes_45626fdd0bdb9f358f4c21214ff9837c.jpeg?w=750&dpr=1.0",
-      "summary": "विश्व स्वास्थ्य संगठन के अनुसार, लाखों लोग प्रीडायबिटीज से जूझ रहे हैं, लेकिन अधिकांश को इसका पता नहीं होता। त्वचा पर धब्बे दिखने पर तुरंत जांच कराना चाहिए ताकि डायबिटीज का पता लगाया जा सके।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "त्वचा पर दिख रहे हैं धब्बे? तुरंत करा लें जांच कहीं आपको डायबिटीज तो नहीं",
-          "summary": "विश्व स्वास्थ्य संगठन के अनुसार, लाखों लोग प्रीडायबिटीज से जूझ रहे हैं, लेकिन अधिकांश को इसका पता नहीं होता। त्वचा पर धब्बे दिखने पर तुरंत जांच कराना चाहिए ताकि डायबिटीज का पता लगाया जा सके।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -598,42 +647,6 @@
           "title": "युद्ध के बीच इजरायल ने सैनिक और घातक लेजर हथियारों को UAE भेजा, ईरान के खिलाफ खड़ा किया रक्षा कवच",
           "summary": "इजरायल ने UAE को सैनिक और घातक लेजर हथियार भेजे हैं. इससे ईरान के खिलाफ रक्षा कवच मजबूत होगा. इजरायल ने UAE के साथ अपने संबंधों को मजबूत किया है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका-ईरान में कब खत्म होगा युद्ध? ट्रंप बोले- तेहरान के नए प्रस्ताव से खुश नहीं",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVmFOeTRPQ1hDOHlWajRLdEpwczhoUDV6aWllN0IwbjdQcS1raERqUFY3cWRtT1ZHTmZwVGYzZEtyb3pjbGJTazdfdjVCdUEtd2pNclZCY2dHLVlRa0ZxVk40RXR2Y3l5czhDeTZhWWxKSzFZbkhRNmlNSFZZeThMa2E3RGt3dTVSdHFydnFmOEtYZGNVb2NwdFBRcG8tNmMyUEgwNzFZWmZpZ1o4ZzJET1NvVTNSUmI5dG05VGNEQlhNVjRCaFpEbjBoeWotUDloUTVaWGV2ZDZSMmhuX3RRV0ZfWDfSAeoBQVVfeXFMTWpJbVdDTVVUeUE2NGwtWVJxbWFqTVpPeDNSTnVfTUp4azJkdkhsU003Z3Z2Rm5PTHhoMld3bzhNRnpQb19jXzlpMkhqcjdGWnRCVzcyUldmeXVpbkxONm9ZLVkzdWFfMjhYYlFScnkzMktnbmFldldlMlBTZGtwcXVJa1RZZ09tNU9SdERiQjFDcUNVYlVXeVJmNU43QWRvbU5zS3Z3RW1WVkVGeU9fMTNHOEcwS3dKMnExSElKdk5XZlpReVlMQ0ZzRVFkMlhRclAwaC0zdzdNQzFEUFhJc19LQ21ibEFoWGNR?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-01T16:45:00+00:00",
-      "image_url": "https://images.pexels.com/photos/8828624/pexels-photo-8828624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि तेहरान के नए प्रस्ताव से वह खुश नहीं हैं. अमेरिका और ईरान के बीच युद्ध कब खत्म होगा, यह अभी स्पष्ट नहीं है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका-ईरान में कब खत्म होगा युद्ध? ट्रंप बोले- तेहरान के नए प्रस्ताव से खुश नहीं",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि तेहरान के नए प्रस्ताव से वह खुश नहीं हैं. अमेरिका और ईरान के बीच युद्ध कब खत्म होगा, यह अभी स्पष्ट नहीं है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भूटान का विकास और ख़ुशहाली मॉडल, वैश्विक दक्षिण के लिए एक प्रेरणा",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sbzR6LWJOWHI3WWVFR1RsSGdQbnJPbEFjV2RoUGFxVk5GVlhQbDZPVGZmUk50bFZjQkN0SEtMYkhJTjA1NmZqZGw0SVlXVlFqMWJZY3gtQQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-01T15:32:03+00:00",
-      "image_url": "https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भूटान का विकास मॉडल वैश्विक दक्षिण के लिए प्रेरणा बन गया है। भूटान ने अपनी आर्थिक विकास और नागरिकों की खुशहाली पर ध्यान केंद्रित किया है। यह मॉडल अब दूसरे देशों के लिए एक उदाहरण बन गया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भूटान का विकास और ख़ुशहाली मॉडल, वैश्विक दक्षिण के लिए एक प्रेरणा",
-          "summary": "भूटान का विकास मॉडल वैश्विक दक्षिण के लिए प्रेरणा बन गया है। भूटान ने अपनी आर्थिक विकास और नागरिकों की खुशहाली पर ध्यान केंद्रित किया है। यह मॉडल अब दूसरे देशों के लिए एक उदाहरण बन गया है।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
