@@ -1,129 +1,80 @@
 {
-  "generated_at": "2026-05-03T10:07:45.372698+00:00",
+  "generated_at": "2026-05-03T11:45:29.384364+00:00",
   "article_count": 42,
-  "total_unique_count": 246,
+  "total_unique_count": 249,
   "digest": {
-    "en": "Israel issued new evacuation warnings in south Lebanon. Germany's troop cuts have drawn criticism from two top US Republicans, who say it sends the wrong signal to Russia. Iranian supertanker Dali loaded with $220m oil cargo recently slipped past the US blockade.",
-    "hi": "डच राजकुमारियों पर हमले की साजिश नाकाम हुई है। आरोपी अगले हफ्ते कोर्ट में पेश होगा। कुल्हाड़ियों पर खुदे नाम और पतों के साथ यह मामला सामने आया है।"
+    "en": "Iran has sent a 14-point plan to end the war to the US. The proposal comes as Trump made a fresh threat against Iran. Two killed and 16 injured in an attempted channel crossing from France to the U.K.",
+    "hi": "पश्चिम बंगाल में कल मतगणना होनी है। 285 बूथों पर फिर मतदान होगा। चुनाव आयोग ने यह फैसला लिया है। \nमतगणना से पहले सियासी हलचल जारी है। \nईरान और अमेरिका के बीच तनाव बढ़ रहा है।"
   },
   "articles": [
     {
-      "title": "Israel issues new evacuation warnings in south Lebanon beyond occupied area",
-      "url": "https://www.channelnewsasia.com/world/israel-lebanon-hezbollah-new-evacuation-warnings-6096816",
-      "source": "Channel News Asia",
-      "sources": [
-        {
-          "url": "https://www.channelnewsasia.com/world/israel-lebanon-hezbollah-new-evacuation-warnings-6096816",
-          "source": "Channel News Asia"
-        },
-        {
-          "url": "https://www.thehindu.com/news/international/israel-issues-new-evacuation-warnings-in-south-lebanon-beyond-occupied-area/article70934664.ece",
-          "source": "The Hindu (International)"
-        },
-        {
-          "url": "https://www.thehindu.com/news/international/israel-issues-new-evacuation-warnings-in-south-lebanon-beyond-occupied-area/article70934664.ece",
-          "source": "The Hindu (International)"
-        }
-      ],
-      "published_at": "2026-05-03T09:10:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--CALws6Uz--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/03/000_a9my7l9.jpg?itok=_UphC1oT",
-      "summary": "Israel's military issued new evacuation warnings in south Lebanon, beyond occupied areas, after threatening to strike Iran-backed Hezbollah. Israel's military chief of staff had earlier threatened to strike Iran-backed Hezbollah \"beyond the yellow line\", which marks the area of Israeli control.",
+      "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+      "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-03T11:10:48+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-29T174412Z_1117774340_RC21ZKAQXY3N_RTRMADP_3_IRAN-CRISIS-1777503392.jpg?resize=1920%2C1440",
+      "summary": "Iran has sent a 14-point proposal to end the war, but mistrust between the two sides is a significant obstacle. Trump is reviewing the proposal, but no decision has been made.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Iran sends 14-point plan to end war - as Trump makes fresh threat",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDNVeUExc1Z0TFppSTlyY0V5S29aRFpfeEswV1RiTHdhLTRmckN2eUw5SE9ZRmNhWVdKbEp6a0NaNHhoR0NCeXcxYmR6Qm1MT3Rwc000Vko5ZGtMLTZ2ZG1ib2dBMDFqV20zdU1ZOTluaXExRS1hUmo4QTRkdmNpUHRoT2pTNW56M0F3ZkJtMVJrRjNaTEE?oc=5",
+      "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-05-03T08:41:23+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a5/live/745df6a0-46c6-11f1-8675-51b72e8f4a66.jpg",
-      "summary": "Two US Republicans said Germany's plan to cut 5,000 troops sends the wrong signal to Russia, undermining deterrence. The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+      "published_at": "2026-05-03T10:24:14+00:00",
+      "image_url": "https://images.pexels.com/photos/32040770/pexels-photo-32040770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iran has submitted a 14-point plan to end the war, coinciding with Trump's fresh threat. The proposal's chances of success are uncertain due to the existing mistrust between the two nations.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Two killed and 16 injured in attempted channel crossing from France to U.K.",
+      "url": "https://www.thehindu.com/news/international/several-injured-killed-in-attempted-channel-crossing-from-france-to-uk-updates/article70934865.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-03T10:23:21+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/bkdu6r/article70934879.ece/alternates/LANDSCAPE_1200/2022-07-11T050025Z_666471803_RC2G9V9UXH5H_RTRMADP_3_SHIPPING-EMISSIONS.jpg",
+      "summary": "A makeshift boat carrying 65 people ran aground while attempting to cross the English Channel from France to the UK. Seventeen people were rescued by a French maritime gendarmerie vessel and brought to Boulogne-sur-Mer.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Israel issues new forced displacement orders in southern Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-03T08:35:43+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260503__A9MY7L7__v1__HighRes__LebanonIsraelIranUsWarHezbollah-1777798884.jpg?resize=1920%2C1440",
-      "summary": "Israel issued forced displacement orders in southern Lebanon, covering over 10 villages and towns, including those in Nabatieh district. Warning covers more than 10 villages and towns, including several in Nabatieh district that lie north of Litani River.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "BN 'almost certain' to go solo in contesting Malaysia's next general election, says DPM Zahid",
-      "url": "https://www.channelnewsasia.com/asia/bn-likely-solo-malaysia-ge16-election-zahid-6096776",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-03T08:07:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--vs6lHGRZ--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/03/689236758_1512217583617885_4776623494411383710_n.jpg?itok=1VQ5iKS4",
-      "summary": "Barisan Nasional chairman Ahmad Zahid Hamidi said the party is almost certain to contest Malaysia's next election solo. Barisan Nasional (BN)'s chairman and UMNO president Ahmad Zahid Hamidi however adds that there would still be a need to reach some understanding with other political blocs.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "South Korea holds pro-Palestine protest in solidarity with Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/south-korea-holds-pro-palestine-protest-in-solidarity-with-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-03T07:39:43+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777793967.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Protesters in Seoul held a pro-Palestine protest in solidarity with Gaza, condemning genocidal attacks on Palestinians. Protesters in South Korea’s capital, Seoul, were in solidarity with Palestinians in Gaza enduring genocidal attacks.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran executes man convicted over killing of security officer in 2022 unrest",
-      "url": "https://www.thehindu.com/news/international/iran-executes-man-convicted-over-killing-of-security-officer-in-2022-unrest/article70934654.ece",
+      "title": "Between a fatwa and war: how Iran makes sense of its nuclear capability",
+      "url": "https://www.thehindu.com/news/international/between-a-fatwa-and-war-how-iran-makes-sense-of-its-nuclear-capability/article70934543.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-03T07:38:41+00:00",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "summary": "Iran executed a man convicted of killing a security officer during 2022 unrest. The defendant had reportedly confessed to assaulting the officer. The defendant reportedly confessed ‌to assaulting the security officer.",
+      "published_at": "2026-05-03T10:16:18+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/gqtfkw/article70931014.ece/alternates/LANDSCAPE_1200/Iran_Daily_Life_35575.jpg",
+      "summary": "Iran has vowed to protect its nuclear stockpile despite Trump's threats. The country's former Ayatollah Ali Khamenei previously disapproved of using nuclear weapons on religious grounds. Iran has ‘vowed’ to protect its nuclear stockpile against Trump’s threats even as its former Ayatollah Ali Khamenei disapproved of using nuclear weapons on religious grounds.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Man charged with murder of five-year-old Australian Indigenous girl",
-      "url": "https://www.aljazeera.com/news/2026/5/3/man-charged-over-murder-of-australian-indigenous-girl-that-sparked-riots?traffic_source=rss",
+      "title": "Ukraine drone attack hits Russian Baltic port, governor says",
+      "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
       "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-03T07:34:26+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69f6e830-1777788976.jpg?resize=1200%2C675",
-      "summary": "A man is charged with murder and two other offences in Darwin, Australia, related to the death of a five-year-old Indigenous girl. He will appear in court on Tuesday. The man was also charged with two other offences and is to appear ​in court in Darwin on Tuesday, police said.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-03T09:57:31+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260323__A4DU69E__v3__HighRes__RussiaUkraineWarEnergyOil-1777798584.jpg?resize=1920%2C1440",
+      "summary": "Ukrainian forces have launched a drone attack on the Russian Baltic port, according to the governor. The attack also targeted two shadow fleet tankers near the port of Novorossiysk, President Volodymyr Zelenskyy said.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "India-linked LPG tanker makes rare Hormuz crossing amid US blockade: Report",
-      "url": "https://indianexpress.com/article/world/india-linked-lpg-tanker-makes-rare-hormuz-crossing-amid-us-blockade-report-10668578/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-03T07:15:48+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/US-6-1.jpg",
-      "summary": "An India-linked LPG tanker crossed the Strait of Hormuz, a rare move amid a US blockade. The tanker made the crossing without incident. India-linked LPG tanker makes rare Hormuz crossing amid US blockade: Report.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China blocks US sanctions against five ‘teapot’ refineries",
-      "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
+      "title": "Are Somali pirates on a comeback in 2026?",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/3/are-somali-pirates-on-a-comeback-in-2026?traffic_source=rss",
       "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-03T06:57:42+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-28T203520Z_217403289_RC2JYKA92A0D_RTRMADP_3_IRAN-CRISIS-USA-SANCTIONS-1777789437.jpg?resize=1920%2C1440",
-      "summary": "China blocked US sanctions against five refineries accused of importing Iranian oil, citing international law violations, according to the Ministry of Commerce. Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
+      "published_at": "2026-05-03T09:38:23+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/BTN_Thumbnail_Landscape_V07-1777801043.png?resize=1920%2C1008&quality=80",
+      "summary": "Somali pirates are back in 2026 after disappearing in 2013. Somali pirates peaked in 2010, vanished by 2013, and are back in 2026. Are Somali pirates on a comeback in 2026?",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -141,18 +92,6 @@
       "translations": {}
     },
     {
-      "title": "Nepal’s Army in spotlight as new government takes assertive turn",
-      "url": "https://www.thehindu.com/news/international/nepals-army-in-spotlight-as-new-government-takes-assertive-turn/article70934491.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-03T06:06:02+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/xvdspi/article70934499.ece/alternates/LANDSCAPE_1200/2026-03-04T040218Z_292889119_RC2FXJA7Z18N_RTRMADP_3_NEPAL-ELECTION.JPG",
-      "summary": "Nepal's new government has taken an assertive turn, raising concerns about civic space and democratic norms. The government has prioritized delivery and speed. Since the new government was formed a month ago, concerns have grown about Nepal’s civic space shrinking and democratic norms being undermined, as Mr.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Iranian supertanker carrying $220m oil cargo slips past US blockade",
       "url": "https://indianexpress.com/article/world/us-news/iranian-supertanker-huge-evades-us-blockade-oil-cargo-10668417/",
       "source": "Indian Express World",
@@ -165,6 +104,18 @@
       "translations": {}
     },
     {
+      "title": "A Perilous Train Ride Home in Pakistan on the Jaffer Express",
+      "url": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-jaffer-express-balochistan.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-03T06:01:11+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/03/multimedia/03int-pakistan-train-promo-vlhj/03int-pakistan-train-promo-vlhj-mediumSquareAt3X.jpg",
+      "summary": "The Jaffer Express train in Pakistan faces crossfire in Balochistan. We witnessed crossfire while waiting for the Jaffer Express, a vital lifeline through Balochistan. For many, it’s the only way home.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Trump administration approves $8.6 billion arms sales to Middle East amid Iran war deadlock",
       "url": "https://indianexpress.com/article/world/trump-administration-arms-sales-middle-east-iran-war-deadlock-10668393/",
       "source": "Indian Express World",
@@ -173,18 +124,6 @@
       "image_url": "https://images.indianexpress.com/2026/05/Photo-8.jpg",
       "summary": "The US approved $8.6 billion in arms sales to the Middle East. The sales come amid a deadlock in negotiations over Iran's nuclear program and rising tensions in the region.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
-      "url": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-03T05:52:09+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2466/live/843ef730-4690-11f1-b55d-0f258dce1735.jpg",
-      "summary": "A man is charged with murder and sexual assault of a five-year-old Australian girl, whose death sparked violence in her central Australian town. The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -209,6 +148,78 @@
       "image_url": "https://c.ndtvimg.com/2026-05/ud85e0ak_french-rave-afp_625x300_03_May_26.jpeg",
       "summary": "Forty thousand people attended an illegal rave party on a French military site, rooted in anti-establishment culture, as a free party. A free party is usually an illegal form of rave rooted in anti-establishment culture.",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘Direct, damning admission of their criminal acts’: Iran after Trump’s ‘pirates’ remark on seizure",
+      "url": "https://indianexpress.com/article/world/iran-donald-trump-pirates-remark-seizure-vessels-10668298/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-03T04:46:16+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/trump-esmail.jpg",
+      "summary": "Iran responded to Trump's remark on seizure as a criminal act. ‘Direct, damning admission of their criminal acts’: Iran after Trump’s ‘pirates’ remark on seizure.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran threatens to turn Strait of Hormuz into ‘graveyard’ of US forces",
+      "url": "https://indianexpress.com/article/world/us-news/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon-10668310/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-03T04:28:42+00:00",
+      "image_url": "https://images.indianexpress.com/2026/04/Photo-2026-04-22T144827.042.jpg",
+      "summary": "Iran threatened to turn the Strait of Hormuz into a graveyard. Iran threatens to turn Strait of Hormuz into ‘graveyard’ of US forces.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "North Korea rejects US cybercrime claims as 'absurd slander'",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG5sbWtDT2NCLXQyemhjdDM2SXFHMG1fUGFUcTM1YWFSNTN5MkpRZjMyYThFSFhxYWd5OHA4MzBRbDhzcWgzTm03dkFOSGZPeEs4WC01NDFpMlJlN09ZcDhXdFVkTVJVU2RqN00tZ1lpWUktazFzUjJhUVlMQWx3cHI0NThsSlBpRS1IVjZKLVpBelV1bXfSAZYBQVVfeXFMT011d3VuaUR0UnJuU28xSHlpaXhDWUhVdFVnTjdtNkI5YXRDQ05fSjZlejZsbXJrTFl5enRkTk9zanhZTjhzS2FycmhpaFdHVVpLQVRzYTVGcjhZMFdJeWpPRmRjakZ6R0lNSWtndEpXay1sYThpVzdKWmZrX0UyYlF3QUg5NHNCVWFwVmp1ejNJR3lSQW1B?oc=5",
+      "source": "Google News (United Nations)",
+      "sources": [],
+      "published_at": "2026-05-03T04:05:24+00:00",
+      "image_url": "https://images.pexels.com/photos/7362523/pexels-photo-7362523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "North Korea rejected US cybercrime claims as absurd slander. North Korea rejects US cybercrime claims as 'absurd slander' dw. com.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "DW News. . For decades, China kept its nuclear arsenal small. Under Xi Jinping, that’s changing",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeFNLSWV6UHdEeE14MjBzUXFkTHRtVHRWNHNpRDB5LUJPVU9OOVY4c0wtdkFaU3RxcjBHTFJHSVBUYkJKX0wwMFNaYVRXVzRRM0hweFpmYzJyWXMxWnl4UmQyWU1vdVFSRWRNaS01dWo3RVotWnRCbzJ6eEVob3A1T09hSktCNkQ1Q0t0QkFiQTFQTl8tMThZR2ROVGhCQ3FNMmdjMWl2ZWtRQ1cxVG4wYnBseWYtRGJ0NldhbjNJa202b1RPMkpvMkF0Wnd4bU93ZzhPYTB1dlRwS3JVaEFob3VB?oc=5",
+      "source": "Google News (global security)",
+      "sources": [],
+      "published_at": "2026-05-03T04:05:08+00:00",
+      "image_url": "https://images.pexels.com/photos/35285899/pexels-photo-35285899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "China is expanding its nuclear arsenal under Xi Jinping, changing its decades-long approach and impacting global security. DW News. For decades, China kept its nuclear arsenal small. Under Xi Jinping, that’s changing fast.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Norway’s Northern Lights Nightmare",
+      "url": "https://www.nytimes.com/2026/05/03/world/europe/norway-northern-lights-tromso.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-03T04:01:29+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/03/multimedia/03Norway-northernlights-01-ghfc/03Norway-northernlights-01-ghfc-mediumSquareAt3X.jpg",
+      "summary": "Norway's northern lights tourism boom has attracted scammers targeting visitors in the Arctic region. This Arctic region has seen a boom in tourism, but as tourists chase the northern lights, scammers chase their money.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "An Insurgency Threatens U.S. Mining Ambitions in Pakistan",
+      "url": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-03T04:01:15+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/04/03/multimedia/00int-pakistan-balochistan-promo-wfqh/00int-pakistan-balochistan-promo-wfqh-mediumSquareAt3X.jpg",
+      "summary": "The Baloch Liberation Army's attacks threaten a billion-dollar US-Pakistan mining deal in Pakistan. Attacks by the Baloch Liberation Army could derail Pakistan’s plans for a billion-dollar mining deal with the Trump administration.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -250,55 +261,67 @@
       "translations": {}
     },
     {
-      "title": "Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates",
-      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html",
-      "source": "NYT World",
+      "title": "Man Shares \"Humiliating\" Experience Of Getting Soaked By Unidentified Liquid During Flight, Video",
+      "url": "https://www.ndtv.com/world-news/man-shares-humiliating-experience-of-getting-soaked-by-unidentified-liquid-during-flight-video-viral-11441528#publisher=newsstand",
+      "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-05-03T02:19:25+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/06/02/multimedia/02int-somali-pirate-tanker-zhpl/02int-somali-pirate-tanker-zhpl-mediumSquareAt3X.jpg",
-      "summary": "A hijacked oil tanker raised concerns about potential links between Houthi rebels and Somali pirates, amid the Iran war, due to the attack's location and timing. The attack’s location and timing fueled concerns about potential collaboration between Somalia’s pirates and Yemen’s Houthi rebels amid the Iran war.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-03T03:31:33+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/6jh12s44_kevin-glover_625x300_03_May_26.jpeg",
+      "summary": "A man was soaked by an unidentified liquid on a flight, with the leak occurring multiple times. He said that the leak soaked him multiple times. Man Shares \"Humiliating\" Experience Of Getting Soaked By Unidentified Liquid During Flight, Video.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Trump's pirates remark direct admission of criminality: Iran demands UN action",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMjZZSXE1eWhHWnp5aFBabHlPdFp2U2FoZzVqWjFMc3ZnWEw1U3NEV0dqTXBGWUpMU3dyVzRqZy1MMEloWTdVR0Ywc1R5N2J3UEpSeFdfVGRmZThUS0VRdm56bHNvZlJuS1g0ZWpBaFkzNjRDMjNTa3RsemVjY3JZUENZek0xRThaX0FFZmhRQjIxbTJkUWk4TXc4ZXI0QUV1NlRDQUxnWU9UajYtQkdkbzlaYVhhUThzT0NVa290VVV2Mmw4SlRXdFJPVFo0N0hkbWlMRUtLWndSbXA2bnfSAeMBQVVfeXFMUDB5b25sUEE5VTZ0UnFKZXJMM3RTdHNWZmlJU3pnNW91VkVrSE5fa3NPMTlybmtYQzgtNlBZTnY2amRZanJPc0x0WVNWeG5jRnpuR3lUZzl1YUgzZ2M3X3ItaTZ0eW1JSTkxTlhuU3otUm9rdlpGRVhIcThqMXNqSlJaaENVajh3alU3c3JlSHdDd3pfZkpNMU4yMTFJZVBHcGpfckNZRUZNOTJKR0VHNFNwNWhQOUFHTjEybW1VSVl5WjgyNHVXSGlmUnd3X2pGZl9ZdVB2SHJxSV9pTENZU1JnTXM?oc=5",
-      "source": "Google News (United Nations)",
+      "title": "पश्चिम बंगाल में कल मतगणना लेकिन 285 बूथों पर फिर क्यों होगा मतदान",
+      "url": "https://www.bbc.com/hindi/articles/cwy2xjy9v4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-03T02:19:04+00:00",
-      "image_url": "https://images.pexels.com/photos/3660228/pexels-photo-3660228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "US President Donald Trump's comment comparing Iranian oil tankers to pirates prompted Iran to demand UN action, calling it a direct admission of criminality. The Iranian government accused Trump of violating international law and urged the UN to take immediate action against the US.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump issues stark warning to Iran over ‘Possibility’ of direct military strikes",
-      "url": "https://indianexpress.com/article/world/us-news/iran-military-strikes-warning-misbehave-tensions-escalation-10668228/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-03T01:24:45+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/US-2-2.jpg",
-      "summary": "US President Donald Trump warned Iran of the possibility of direct military strikes, escalating tensions between the two countries. Trump's statement came after a series of confrontations in the Middle East, including the seizure of Iranian oil tankers by the US.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "डच राजकुमारियों पर हमले की साजिश नाकाम: अगले हफ्ते कोर्ट में पेश होगा आरोपी; कुल्हाड़ियों पर खुदे",
-      "url": "https://www.amarujala.com/world/man-suspected-of-plotting-attack-on-dutch-princesses-to-appear-in-court-2026-05-03",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-03T06:42:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/amalya-elkasaya_9f0bb7e9633bdd1292817352db108562.jpeg?w=750&dpr=1.0",
-      "summary": "डच राजकुमारियों पर हमले की साजिश नाकाम कर दी गई है. आरोपी अगले हफ्ते कोर्ट में पेश होगा. कुल्हाड़ियों पर हमलावरों के नाम खुदे हुए थे. डच राजकुमारियों पर हमले की साजिश नाकाम: अगले हफ्ते कोर्ट में पेश होगा आरोपी; कुल्हाड़ियों पर खुदे हुए थे नाम।",
+      "published_at": "2026-05-03T10:41:52+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a80d/live/f7c46e20-46d5-11f1-a1bb-13ca62b3ded8.jpg",
+      "summary": "पश्चिम बंगाल में कल मतगणना होगी, लेकिन 285 बूथों पर फिर से मतदान होगा। चुनाव आयोग ने कहा है कि उसने मुख्य निर्वाचन अधिकारी, ज़िला निर्वाचन अधिकारी, रिटर्निंग ऑफ़िसर और अन्य फ़ील्ड अधिकारियों की रिपोर्ट, पर्यवेक्षकों की टिप्पणियों और उपलब्ध सभी रिकॉर्ड का गंभीरता से अध्ययन करने के बाद यह फ़ैसला किया है.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "डच राजकुमारियों पर हमले की साजिश नाकाम: अगले हफ्ते कोर्ट में पेश होगा आरोपी; कुल्हाड़ियों पर खुदे",
-          "summary": "डच राजकुमारियों पर हमले की साजिश नाकाम कर दी गई है. आरोपी अगले हफ्ते कोर्ट में पेश होगा. कुल्हाड़ियों पर हमलावरों के नाम खुदे हुए थे. डच राजकुमारियों पर हमले की साजिश नाकाम: अगले हफ्ते कोर्ट में पेश होगा आरोपी; कुल्हाड़ियों पर खुदे हुए थे नाम।",
+          "title": "पश्चिम बंगाल में कल मतगणना लेकिन 285 बूथों पर फिर क्यों होगा मतदान",
+          "summary": "पश्चिम बंगाल में कल मतगणना होगी, लेकिन 285 बूथों पर फिर से मतदान होगा। चुनाव आयोग ने कहा है कि उसने मुख्य निर्वाचन अधिकारी, ज़िला निर्वाचन अधिकारी, रिटर्निंग ऑफ़िसर और अन्य फ़ील्ड अधिकारियों की रिपोर्ट, पर्यवेक्षकों की टिप्पणियों और उपलब्ध सभी रिकॉर्ड का गंभीरता से अध्ययन करने के बाद यह फ़ैसला किया है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरानी अधिकारी - कूटनीति या टकराव चुनना अब अमरीका के हाथ में - nhk.or.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNlJ5VHRCS2pqXzBQb0lXaVpLT3ZCTFBiYW1rMENZczR6Z05yWDhCaXk2LVNtdlhEMDZ0V0k1ei11a3pHV00zV3N5MEE5WDExTDAzTnBxTklnQzg0WlRPWnNB?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-03T10:11:36+00:00",
+      "image_url": "https://images.pexels.com/photos/13062240/pexels-photo-13062240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरानी अधिकारी ने कहा कि कूटनीति या टकराव चुनना अब अमरीका के हाथ में। ईरानी अधिकारी - कूटनीति या टकराव चुनना अब अमरीका के हाथ में nhk. or. jp। ईरानी अधिकारी - कूटनीति या टकराव चुनना अब अमरीका के हाथ में - nhk. or. jp।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरानी अधिकारी - कूटनीति या टकराव चुनना अब अमरीका के हाथ में - nhk.or.jp",
+          "summary": "ईरानी अधिकारी ने कहा कि कूटनीति या टकराव चुनना अब अमरीका के हाथ में। ईरानी अधिकारी - कूटनीति या टकराव चुनना अब अमरीका के हाथ में nhk. or. jp। ईरानी अधिकारी - कूटनीति या टकराव चुनना अब अमरीका के हाथ में - nhk. or. jp।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पश्चिम बंगाल में मतगणना से पहले सियासी हलचल जारी, चुनाव आयोग ने लिया अहम फ़ैसला",
+      "url": "https://www.bbc.com/hindi/articles/c7v93ynm1pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-03T09:39:58+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d30/live/a6e28f40-4636-11f1-9cdd-6d38890cd031.png",
+      "summary": "पश्चिम बंगाल में मतगणना से पहले सियासी हलचल जारी, चुनाव आयोग ने अहम फ़ैसला लिया। पश्चिम बंगाल में शनिवार को बीजेपी और टीएमसी वोटों की गिनती के लिए सिर्फ़ केंद्र सरकार के कर्मचारियों को नियुक्त करने के मुद्दे पर आमने-सामने रहे.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पश्चिम बंगाल में मतगणना से पहले सियासी हलचल जारी, चुनाव आयोग ने लिया अहम फ़ैसला",
+          "summary": "पश्चिम बंगाल में मतगणना से पहले सियासी हलचल जारी, चुनाव आयोग ने अहम फ़ैसला लिया। पश्चिम बंगाल में शनिवार को बीजेपी और टीएमसी वोटों की गिनती के लिए सिर्फ़ केंद्र सरकार के कर्मचारियों को नियुक्त करने के मुद्दे पर आमने-सामने रहे.",
           "region": "दुनिया"
         }
       }
@@ -466,24 +489,6 @@
       }
     },
     {
-      "title": "'समुद्री डकैती को सामान्य बनाने की कोशिश', ईरान का अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप के बयान पर",
-      "url": "https://www.amarujala.com/world/damning-admission-of-criminal-nature-of-their-actions-iran-condemns-trump-s-pirate-remarks-on-seizure-of-2026-05-03",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-03T02:27:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/12/esmaeil-baghaei_e0fdaae01b4ed4db94f0ef7bfe9f8f01.jpeg?w=750&dpr=1.0",
-      "summary": "ईरान ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के बयान पर पलटवार किया है। ईरान ने कहा है कि वह समुद्री डकैती को सामान्य बनाने की कोशिश कर रहा है। ईरान के विदेश मंत्रालय ने कहा है कि ट्रंप के बयान से ईरान के सैन्य बलों की क्षमता बढ़ी है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'समुद्री डकैती को सामान्य बनाने की कोशिश', ईरान का अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप के बयान पर",
-          "summary": "ईरान ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के बयान पर पलटवार किया है। ईरान ने कहा है कि वह समुद्री डकैती को सामान्य बनाने की कोशिश कर रहा है। ईरान के विदेश मंत्रालय ने कहा है कि ट्रंप के बयान से ईरान के सैन्य बलों की क्षमता बढ़ी है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "सीरिया के इस प्लान में कितना दम, क्या भारत का मुक़ाबला कर पाएगा",
       "url": "https://www.bbc.com/hindi/articles/c78q9yv4e64o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -502,164 +507,146 @@
       }
     },
     {
-      "title": "केकेआर के खिलाफ हैदराबाद की बल्लेबाजी शुरू, अभिषेक-हेड क्रीज पर मौजूद",
+      "title": "कोलकाता में एक पुलिस स्टेशन को दो दिन में मिला दूसरा थाना प्रभारी, मतगणना से पहले ECI की सख्ती",
+      "url": "https://www.amarujala.com/india-news/wb-polls-police-station-in-kolkata-gets-second-oc-in-2-days-after-officer-benched-for-whatsapp-post-2026-05-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T23:44:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/wb-polls-police-station-in-kolkata-gets-second-oc-in-2-days-after-officer-benched-for-whatsapp-post_5311aa1739226a707b82b294c8812521.jpeg?w=750&dpr=1.0",
+      "summary": "कोलकाता में एक पुलिस स्टेशन को दो दिन में दूसरा थाना प्रभारी मिला, मतगणना से पहले ECI की सख्ती। कोलकाता में एक पुलिस स्टेशन को दो दिन में मिला दूसरा थाना प्रभारी, मतगणना से पहले ECI की सख्ती।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कोलकाता में एक पुलिस स्टेशन को दो दिन में मिला दूसरा थाना प्रभारी, मतगणना से पहले ECI की सख्ती",
+          "summary": "कोलकाता में एक पुलिस स्टेशन को दो दिन में दूसरा थाना प्रभारी मिला, मतगणना से पहले ECI की सख्ती। कोलकाता में एक पुलिस स्टेशन को दो दिन में मिला दूसरा थाना प्रभारी, मतगणना से पहले ECI की सख्ती।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "इन 5 राशि वालों के लिए लकी रहेगा दिन",
+      "url": "https://www.amarujala.com/web-stories/astrology/predictions/aaj-ka-rashifal-daily-horoscope-prediction-of-4-may-2026-2026-05-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T23:44:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/12/03/dal-rashafal_5ea5d3311332ee20af7c151827851bf0.jpeg?w=750&dpr=1.0",
+      "summary": "5 राशि वालों के लिए दिन लकी रहेगा, जिनमें उनके जीवन में सकारात्मक परिवर्तन हो सकते हैं। Rashifal 4 May: इन 5 राशि वालों के लिए लकी रहेगा दिन।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इन 5 राशि वालों के लिए लकी रहेगा दिन",
+          "summary": "5 राशि वालों के लिए दिन लकी रहेगा, जिनमें उनके जीवन में सकारात्मक परिवर्तन हो सकते हैं। Rashifal 4 May: इन 5 राशि वालों के लिए लकी रहेगा दिन।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "हैदराबाद ने केकेआर को दिया 166 रनों का लक्ष्य, हेड का पचासा; वरुण की शानदार गेंदबाजी",
       "url": "https://www.amarujala.com/live/cricket/cricket-news/srh-vs-kkr-live-cricket-score-sunrisers-hyderabad-vs-kolkata-knight-riders-ipl-2026-45th-match-updates-2026-05-03",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-02T22:04:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/ipl_d4d7115e91ab8faf65e9581834679622.jpeg?w=750&dpr=1.0",
+      "published_at": "2026-05-02T23:43:16+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/ipl_732b91ea557ffcc10769f0b9b88582f6.jpeg?w=750&dpr=1.0",
       "summary": "सनराइजर्स हैदराबाद और कोलकाता नाइट राइडर्स के बीच आईपीएल 2026 का मैच हो रहा है। अभिषेक और हेड हैदराबाद की ओर से बल्लेबाजी कर रहे हैं। मैच का परिणाम दोनों टीमों के लिए महत्वपूर्ण होगा।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "केकेआर के खिलाफ हैदराबाद की बल्लेबाजी शुरू, अभिषेक-हेड क्रीज पर मौजूद",
+          "title": "हैदराबाद ने केकेआर को दिया 166 रनों का लक्ष्य, हेड का पचासा; वरुण की शानदार गेंदबाजी",
           "summary": "सनराइजर्स हैदराबाद और कोलकाता नाइट राइडर्स के बीच आईपीएल 2026 का मैच हो रहा है। अभिषेक और हेड हैदराबाद की ओर से बल्लेबाजी कर रहे हैं। मैच का परिणाम दोनों टीमों के लिए महत्वपूर्ण होगा।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "माता-पिता का कलेजा फटा, बोले- जब तक हत्यारा फांसी पर न लटके, कोई नेता मेरे घर न आए",
-      "url": "https://www.amarujala.com/india-news/pune-minor-assault-murder-case-father-demands-death-penalty-no-politicians-allowed-2026-05-03",
+      "title": "अमनजोत कौर के टीम में नहीं होने से निराश कोच मजूमदार, बोले- उनकी जगह भरना मुश्किल",
+      "url": "https://www.amarujala.com/cricket/cricket-news/india-women-s-head-coach-amol-muzumdar-says-it-will-be-difficult-to-replace-amanjot-kaur-2026-05-03",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-02T21:58:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/lga-na-rasata-kaya-jama_bec968d9df36997e79a10b99da2df326.jpeg?w=750&dpr=1.0",
-      "summary": "पुणे में एक मासूम की हत्या के मामले में पीड़ित के माता-पिता ने हत्यारे को फांसी दिलाने की मांग की है। उन्होंने कहा कि जब तक हत्यारा फांसी पर नहीं लटकेगा, कोई नेता उनके घर नहीं आएगा। यह मामला पुणे में हुआ था।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "माता-पिता का कलेजा फटा, बोले- जब तक हत्यारा फांसी पर न लटके, कोई नेता मेरे घर न आए",
-          "summary": "पुणे में एक मासूम की हत्या के मामले में पीड़ित के माता-पिता ने हत्यारे को फांसी दिलाने की मांग की है। उन्होंने कहा कि जब तक हत्यारा फांसी पर नहीं लटकेगा, कोई नेता उनके घर नहीं आएगा। यह मामला पुणे में हुआ था।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सुवेंदु बोले- मतगणना से पहले अधिकारियों की ड्यूटी जानकारी लीक, आयोग से की कार्रवाई की मांग",
-      "url": "https://www.amarujala.com/india-news/suvendu-adhikari-claims-officer-sharing-counting-day-duty-details-urges-eci-action-2026-05-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T21:52:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/25/west-bengal-polls_cce195737c64edccd13506455d09f066.jpeg?w=750&dpr=1.0",
-      "summary": "बीजेपी नेता सुवेंदु अद्विकारी ने आरोप लगाया कि मतगणना से पहले अधिकारियों की ड्यूटी जानकारी लीक हुई है। उन्होंने चुनाव आयोग से कार्रवाई की मांग की है। यह आरोप सुवेंदु अद्विकारी ने लगाया था।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सुवेंदु बोले- मतगणना से पहले अधिकारियों की ड्यूटी जानकारी लीक, आयोग से की कार्रवाई की मांग",
-          "summary": "बीजेपी नेता सुवेंदु अद्विकारी ने आरोप लगाया कि मतगणना से पहले अधिकारियों की ड्यूटी जानकारी लीक हुई है। उन्होंने चुनाव आयोग से कार्रवाई की मांग की है। यह आरोप सुवेंदु अद्विकारी ने लगाया था।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जानिए Window और Split में से किसमें है जान का कम खतरा",
-      "url": "https://www.amarujala.com/photo-gallery/technology/tech-diary/window-vs-split-ac-which-is-more-safe-based-on-technical-specifications-2026-05-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T21:52:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/window-vs-split-ac-safety_79ac60ad56aa1c35382dd780e619e46a.jpeg?w=750&dpr=1.0",
-      "summary": "विंडो और स्प्लिट एसी में से कौन सा सुरक्षित है, यह एक महत्वपूर्ण सवाल है। इन दोनों की तकनीक और रखरखाव से जुड़ी बातें जानना जरूरी है। यह तुलना विंडो और स्प्लिट एसी के बीच की जा रही है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जानिए Window और Split में से किसमें है जान का कम खतरा",
-          "summary": "विंडो और स्प्लिट एसी में से कौन सा सुरक्षित है, यह एक महत्वपूर्ण सवाल है। इन दोनों की तकनीक और रखरखाव से जुड़ी बातें जानना जरूरी है। यह तुलना विंडो और स्प्लिट एसी के बीच की जा रही है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "टी20 विश्वकप टीम से चूकने वाली हरलीन देओल को मिली भारत ए की कमान, कब से शुरू होगी सीरीज?",
-      "url": "https://www.amarujala.com/cricket/cricket-news/ind-a-vs-eng-a-harleen-deol-who-missed-out-on-the-t20-world-cup-squad-handed-india-a-captaincy-2026-05-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T21:51:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/03/haralna-thaol_16a5bf5246b3fc060986c8fd4f7ab2f1.jpeg?w=750&dpr=1.0",
-      "summary": "टी20 विश्वकप टीम से चूकने वाली हरलीन देओल को भारत ए की कमान सौंपी गई है। यह सीरीज जल्द ही शुरू होगी। हरलीन देओल को यह जिम्मेदारी दी गई है।",
+      "published_at": "2026-05-02T23:36:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/01/amol-muzumdar-indian-womens-cricket-harmanpreet-kaur-jemimah-rodrigues-womens-world-cup-2025_b648e2ed9dea1a8f306708e700a0e7d0.jpeg?w=750&dpr=1.0",
+      "summary": "भारत ने महिला टी20 विश्व कप के लिए टीम घोषित की, जिसमें चोटिल अमनजोत कौर को जगह नहीं मिली। मुख्य कोच अमोल मजूमदार ने कहा कि अमनजोत की जगह भरना मुश्किल है। टीम की घोषणा शनिवार को की गई थी।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "टी20 विश्वकप टीम से चूकने वाली हरलीन देओल को मिली भारत ए की कमान, कब से शुरू होगी सीरीज?",
-          "summary": "टी20 विश्वकप टीम से चूकने वाली हरलीन देओल को भारत ए की कमान सौंपी गई है। यह सीरीज जल्द ही शुरू होगी। हरलीन देओल को यह जिम्मेदारी दी गई है।",
+          "title": "अमनजोत कौर के टीम में नहीं होने से निराश कोच मजूमदार, बोले- उनकी जगह भरना मुश्किल",
+          "summary": "भारत ने महिला टी20 विश्व कप के लिए टीम घोषित की, जिसमें चोटिल अमनजोत कौर को जगह नहीं मिली। मुख्य कोच अमोल मजूमदार ने कहा कि अमनजोत की जगह भरना मुश्किल है। टीम की घोषणा शनिवार को की गई थी।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "'विपक्ष भारतीय लोकतंत्र की बुनियाद पर हमला कर रहा', किरने रिजिजू बोले- जनता देगी करारा जवाब",
-      "url": "https://www.amarujala.com/india-news/kiren-rijiju-warns-opposition-parties-says-they-attacking-core-of-indian-democracy-people-give-befitting-reply-2026-05-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T21:44:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/04/bjp-secular-cong-communal-rijiju-slams-oppn-for-attacking-ecs-electoral-rolls-revision-in-bihar_1eb788007729c7825af488450e21dfe6.jpeg?w=750&dpr=1.0",
-      "summary": "केंद्रीय मंत्री किरेन रिजिजू ने कहा कि विपक्ष भारतीय लोकतंत्र की बुनियाद पर हमला कर रहा है। उन्होंने कहा कि जनता विपक्ष को करारा जवाब देगी। यह बयान किरेन रिजिजू ने दिया था।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'विपक्ष भारतीय लोकतंत्र की बुनियाद पर हमला कर रहा', किरने रिजिजू बोले- जनता देगी करारा जवाब",
-          "summary": "केंद्रीय मंत्री किरेन रिजिजू ने कहा कि विपक्ष भारतीय लोकतंत्र की बुनियाद पर हमला कर रहा है। उन्होंने कहा कि जनता विपक्ष को करारा जवाब देगी। यह बयान किरेन रिजिजू ने दिया था।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कल जारी होगा हिमाचल बोर्ड 12वीं का रिजल्ट, यहां कर सकेंगे चेक; पढ़ें ताजा अपडेट",
-      "url": "https://www.amarujala.com/live/education/hp-board-12th-result-2026-date-time-live-himachal-pradesh-hpbose-class-12th-result-link-hpbose-org-2026-05-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-02T21:43:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/hpbose-12th-result_8ae737d5885f05c979b1d375cb37ad67.jpeg?w=750&dpr=1.0",
-      "summary": "हिमाचल प्रदेश स्कूल शिक्षा बोर्ड 12वीं बोर्ड परीक्षा 2026 के रिजल्ट कल जारी करेगा। रिजल्ट की जांच बोर्ड की आधिकारिक वेबसाइट पर की जा सकती है। छात्रों को अपने परिणामों की प्रतीक्षा है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कल जारी होगा हिमाचल बोर्ड 12वीं का रिजल्ट, यहां कर सकेंगे चेक; पढ़ें ताजा अपडेट",
-          "summary": "हिमाचल प्रदेश स्कूल शिक्षा बोर्ड 12वीं बोर्ड परीक्षा 2026 के रिजल्ट कल जारी करेगा। रिजल्ट की जांच बोर्ड की आधिकारिक वेबसाइट पर की जा सकती है। छात्रों को अपने परिणामों की प्रतीक्षा है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बालेंद्र शाह सरकार का बड़ा फैसला, खत्म कीं 1500 से अधिक नियुक्तियां; खाली हुए कई सरकारी पद",
-      "url": "https://www.amarujala.com/world/nepal-government-cancels-more-than-1-500-politically-motivated-appointments-reports-2026-05-03",
+      "title": "इंग्लिश चैनल में दर्दनाक हादसा: नाव में दम घुटने से दो महिलाओं की मौत, 16 लोग घायल",
+      "url": "https://www.amarujala.com/world/english-channel-migrant-boat-accident-france-uk-border-deaths-sudan-women-news-2026-05-03",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-02T21:07:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/27/balendra-shah_6555793f7ab43a99c158794a89da92dc.jpeg?w=750&dpr=1.0",
-      "summary": "नेपाल में बालेंद्र शाह सरकार ने 1500 से अधिक नियुक्तियां समाप्त कर दी हैं। इस फैसले से कई सरकारी पद खाली हो गए हैं। सरकार के इस कदम से प्रशासनिक व्यवस्था पर असर पड़ सकता है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बालेंद्र शाह सरकार का बड़ा फैसला, खत्म कीं 1500 से अधिक नियुक्तियां; खाली हुए कई सरकारी पद",
-          "summary": "नेपाल में बालेंद्र शाह सरकार ने 1500 से अधिक नियुक्तियां समाप्त कर दी हैं। इस फैसले से कई सरकारी पद खाली हो गए हैं। सरकार के इस कदम से प्रशासनिक व्यवस्था पर असर पड़ सकता है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "इराक ने सीरिया के रास्ते शुरू किया तेल निर्यात, होर्मुज नाकाबंदी के बीच बड़ा कदम",
-      "url": "https://www.amarujala.com/world/world-news-updates-iran-iraq-us-donald-trump-oil-shipment-in-syria-hormuz-2026-05-03",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-02T20:47:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
-      "summary": "इराक ने सीरिया के रास्ते तेल निर्यात शुरू किया है। यह 14 वर्षों में पहला शिपमेंट है और होर्मुज नाकाबंदी के बीच एक महत्वपूर्ण कदम है। इराक की यह पहल उसकी ऊर्जा आवश्यकताओं को पूरा करने में मदद कर सकती है।",
+      "published_at": "2026-05-02T23:36:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/15/english-channel-uk-france-world-news-international-news_f5424592cb8245a156c94482bdc1a7c0.jpeg?w=750&dpr=1.0",
+      "summary": "इंग्लिश चैनल में एक नाव में दम घुटने से दो महिलाओं की मौत हो गई और 16 लोग घायल हो गए। यह हादसा फ्रांस और यूके की सीमा पर हुआ। घटना में कई लोगों की जान जोखिम में पड़ गई।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "इराक ने सीरिया के रास्ते शुरू किया तेल निर्यात, होर्मुज नाकाबंदी के बीच बड़ा कदम",
-          "summary": "इराक ने सीरिया के रास्ते तेल निर्यात शुरू किया है। यह 14 वर्षों में पहला शिपमेंट है और होर्मुज नाकाबंदी के बीच एक महत्वपूर्ण कदम है। इराक की यह पहल उसकी ऊर्जा आवश्यकताओं को पूरा करने में मदद कर सकती है।",
+          "title": "इंग्लिश चैनल में दर्दनाक हादसा: नाव में दम घुटने से दो महिलाओं की मौत, 16 लोग घायल",
+          "summary": "इंग्लिश चैनल में एक नाव में दम घुटने से दो महिलाओं की मौत हो गई और 16 लोग घायल हो गए। यह हादसा फ्रांस और यूके की सीमा पर हुआ। घटना में कई लोगों की जान जोखिम में पड़ गई।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्या आपकी गाड़ी के टायर 5 साल पुराने हैं? जान लें यह जरूरी नियम, सुरक्षा के लिए है बेहद खास",
+      "url": "https://www.amarujala.com/automobiles/tyre-safety-guide-why-5-year-rule-essential-your-vehicle-2026-05-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T23:33:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/paratakatamaka-tasavara_29ed94469843c419d58eb23ebb6940b9.png?w=750&dpr=1.0",
+      "summary": "पांच साल पुराने टायरों का उपयोग करना खतरनाक हो सकता है। सुरक्षा के लिए यह जरूरी नियम है कि पुराने टायरों को बदल दिया जाए। कार और बाइक के टायरों की जांच करना आवश्यक है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या आपकी गाड़ी के टायर 5 साल पुराने हैं? जान लें यह जरूरी नियम, सुरक्षा के लिए है बेहद खास",
+          "summary": "पांच साल पुराने टायरों का उपयोग करना खतरनाक हो सकता है। सुरक्षा के लिए यह जरूरी नियम है कि पुराने टायरों को बदल दिया जाए। कार और बाइक के टायरों की जांच करना आवश्यक है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मई की भीषण गर्मी में भी में लगा सकते हैं ये पेड़-पौधे",
+      "url": "https://www.amarujala.com/lifestyle/which-plants-grow-fast-in-summer-season-garmi-me-kaun-sa-paudha-lagana-chahiye-2026-05-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T23:29:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/plants-grow-fast-in-summer_10e393f1817907eeab3ae87f4a60694d.jpeg?w=750&dpr=1.0",
+      "summary": "गर्मी के मौसम में कुछ पेड़-पौधे लहराते रहते हैं। इनमें वे पौधे शामिल हैं जो चिलचिलाती धूप में भी अच्छी तरह से उगते हैं। गर्मी में पेड़-पौधों की देखभाल करना महत्वपूर्ण है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मई की भीषण गर्मी में भी में लगा सकते हैं ये पेड़-पौधे",
+          "summary": "गर्मी के मौसम में कुछ पेड़-पौधे लहराते रहते हैं। इनमें वे पौधे शामिल हैं जो चिलचिलाती धूप में भी अच्छी तरह से उगते हैं। गर्मी में पेड़-पौधों की देखभाल करना महत्वपूर्ण है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पिछले साल 12वीं में टॉपर ने हासिल किए थे इतने अंक, यहां जानें टॉप-3 स्टूडेंट्स का प्रतिशत",
+      "url": "https://www.amarujala.com/education/hpbose-12th-result-last-year-s-topper-scored-highest-marks-check-full-details-2026-05-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-02T23:24:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/07/27/hpbose_af051ec0ba483c950af3fbf5367b8475.jpeg?w=750&dpr=1.0",
+      "summary": "हिमाचल प्रदेश बोर्ड की 12वीं परीक्षा में टॉप करने के लिए बहुत ज्यादा अंक लाने पड़ते हैं। 2025 में महक ने 97.2% अंक लेकर पहला स्थान हासिल किया था। टॉप-3 स्टूडेंट्स के प्रतिशत की जानकारी उपलब्ध है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पिछले साल 12वीं में टॉपर ने हासिल किए थे इतने अंक, यहां जानें टॉप-3 स्टूडेंट्स का प्रतिशत",
+          "summary": "हिमाचल प्रदेश बोर्ड की 12वीं परीक्षा में टॉप करने के लिए बहुत ज्यादा अंक लाने पड़ते हैं। 2025 में महक ने 97.2% अंक लेकर पहला स्थान हासिल किया था। टॉप-3 स्टूडेंट्स के प्रतिशत की जानकारी उपलब्ध है।",
+          "region": "दुनिया"
         }
       }
     }
