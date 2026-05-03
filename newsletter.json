@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-03T22:45:02.365367+00:00",
+  "generated_at": "2026-05-03T23:50:17.302098+00:00",
   "article_count": 42,
-  "total_unique_count": 248,
+  "total_unique_count": 243,
   "digest": {
-    "en": "Tensions in the Strait of Hormuz dominate headlines. The US has responded to Iran's latest peace proposal. President Trump says the US will help guide ships safely out of the strait.",
-    "hi": "तेहरान के 14-सूत्रीय प्रस्ताव पर अमेरिका ने जवाब दिया है, जिसकी समीक्षा ईरान कर रहा है। स्ट्रेट ऑफ होर्मुज पर कूटनीति तेज हुई है, जिसमें ईरान ने अमेरिका को 30 दिन का अल्टीमेटम दिया है। इजरायल-हिजबुल्लाह संघर्ष फिर से तेज हो गया है।"
+    "en": "Tensions are escalating in the Strait of Hormuz as Iran warns that any US interference would be a ceasefire violation. The US and Iran are engaged in talks, with Trump announcing a plan to escort ships through the strait. Gas prices have surged over 30 cents a gallon in response.",
+    "hi": "होर्मुज में फंसे जहाजों के लिए 'प्रोजेक्ट फ्रीडम' का एलान किया गया है। ट्रंप ने कहा कि अगर दखल दिया गया तो पूरे दम से जवाब दिया जाएगा। तेहरान के 14-सूत्रीय प्रस्ताव पर अमेरिका का जवाब आया है, जिसकी समीक्षा ईरान कर रहा है।"
   },
   "articles": [
+    {
+      "title": "Any US \"Interference\" In Hormuz Would Be Ceasefire Violation, Warns Iran",
+      "url": "https://www.ndtv.com/world-news/any-us-interference-in-hormuz-would-be-ceasefire-violation-iran-official-11444295#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-03T23:45:59+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/dfmrgbjg_strait-of-hormuz-_625x300_04_May_26.jpeg",
+      "summary": "Iran warned the US that interfering in the Strait of Hormuz would breach the ceasefire. A senior Iranian official made the statement on Monday. A senior Iranian official warned on Monday that Tehran would consider any US attempt to interfere in the Strait of Hormuz a breach of the ceasefire.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates",
       "url": "https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html",
@@ -20,14 +32,50 @@
       "translations": {}
     },
     {
-      "title": "President Donald Trump Orders Troop Reduction, Tariff Hike Against NATO Allies - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0NoUWxLNWE1U1BsVVpXSmg5OGM3MlZJendGUlhsX0p0dWRSaWZqUWpLU0UzZXUxVUVQQkJ2bTUzUXQtUHplamFWaFY0VC1HTDVKVmVSLVF2aVpQZHd6aXZCU3JRWHFUTzBBUzFOb2gwNmRzV2laNVEtUFVBNjNFaDE2R04?oc=5",
-      "source": "Google News (global security)",
+      "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
+      "url": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
+      "source": "NPR World",
       "sources": [],
-      "published_at": "2026-05-03T21:50:17+00:00",
-      "image_url": "https://images.pexels.com/photos/30918022/pexels-photo-30918022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "President Donald Trump ordered troop reductions and tariff hikes against NATO allies. President Donald Trump Orders Troop Reduction, Tariff Hike Against NATO Allies 조선일보. President Donald Trump Orders Troop Reduction, Tariff Hike Against NATO Allies - 조선일보.",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-03T22:24:37+00:00",
+      "image_url": "https://images.pexels.com/photos/8266768/pexels-photo-8266768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "US gas prices rose over 30 cents a gallon last week. Prices were nearly $3 before the Iran war started. U. S. gas prices were nearly $3 an average prior to the start of the war in Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump says US and Iran in 'positive' talks, unveils plan to escort Hormuz ships",
+      "url": "https://www.channelnewsasia.com/world/iran-us-war-negotiations-strait-hormuz-trump-6097486",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-03T22:16:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--01Ztbvbf--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-03T212234Z_1_LYNXMPEM420DY_RTROPTP_3_IRAN-CRISIS-DAILYLIFE.JPG?itok=eSwDobxD",
+      "summary": "The US plans to escort ships in the Strait of Hormuz. Iran warned this could breach the ceasefire. A senior Iranian official warned, however, that Tehran would consider any US attempt to interfere in the Strait of Hormuz a breach of the ceasefire.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘Reset’ or ‘calculated stabilisation’? Why ties between China and the Philippines appear to be",
+      "url": "https://www.channelnewsasia.com/east-asia/china-philippines-bilateral-ties-tensions-south-china-sea-6096811",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-03T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--mWZvdjlM--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-07-18t151636z_1_lynxmpel6h0pj_rtroptp_3_china-philippines.jpg?itok=b-DqSjVt",
+      "summary": "China and the Philippines aim to improve ties after four years of tension. Analysts say domestic pressures may limit the thaw. After nearly four years of bilateral tensions, Beijing and Manila have signalled an intent to improve ties, but analysts say domestic and geopolitical pressures could limit how long the thaw lasts.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+      "url": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-03T21:59:20+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2017-07-06T234315Z_70732478_RC1D8FFAFA10_RTRMADP_3_WASHINGTON-HANTAVIRUS-1777842121.jpg?resize=1920%2C1440",
+      "summary": "Three passengers died from a suspected hantavirus outbreak on an Atlantic cruise ship. One is in intensive care. Three dead in suspected hantavirus outbreak on Atlantic cruise ship.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -56,6 +104,18 @@
       "translations": {}
     },
     {
+      "title": "Entrepreneurs fight pile-up of garbage in the West Bank",
+      "url": "https://www.npr.org/2026/05/03/nx-s1-5787449/entrepreneurs-fight-pile-up-of-garbage-in-the-west-bank",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-05-03T21:24:05+00:00",
+      "image_url": "https://images.pexels.com/photos/5424543/pexels-photo-5424543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Israeli restrictions impede garbage trucks in the West Bank, leaving trash mounds. Two Palestinian entrepreneurs are working to change this. Israeli restrictions on movement in the West Bank are impeding garbage trucks from reaching landfills, leaving Palestinians living amid mounds of trash.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Global Demand for Rare Earth Minerals Is Intensifying Criminal Threats in the Amazon Rainforest",
       "url": "https://www.nytimes.com/2026/05/03/world/americas/illegal-miners-amazon-rainforest-critical-minerals.html",
       "source": "NYT World",
@@ -68,18 +128,6 @@
       "translations": {}
     },
     {
-      "title": "Modern economic chokepoints in war and the impact on geopolitics",
-      "url": "https://www.npr.org/2026/05/03/nx-s1-5804691/modern-economic-chokepoints-in-war-and-the-impact-on-geopolitics",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-05-03T21:22:36+00:00",
-      "image_url": "https://images.pexels.com/photos/10932618/pexels-photo-10932618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The Iran war and the blockade of the Strait of Hormuz have exposed modern economic chokepoints, revealing new strategies in geopolitics and war. Hoover Institution fellow Eyck Freymann explains what the Iran war and the blockade of the Straight of Hormuz reveals about modern economic chokepoints, geopolitics and war strategies.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "How does diplomacy work during a military deadlock?",
       "url": "https://www.npr.org/2026/05/03/nx-s1-5789910/how-does-diplomacy-work-during-a-military-deadlock",
       "source": "NPR World",
@@ -88,6 +136,18 @@
       "image_url": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "Diplomatic efforts are underway during a military stalemate, with experts citing nuanced moves to de-escalate tensions and find a peaceful resolution. Suzanne DiMaggio, senior fellow at the Carnegie Endowment for International Peace, explains the nuances of diplomatic moves at a time of military stalemate.",
       "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S.-Iran ceasefire shaky as Trump announces operation to clear Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS1pueUJ3VmRRN0M3R1VLeHN2RW1FT0pLa01INm5XVHVGYzJDT3E0c21sTXU0NUY2eWpOcXVBZUZxYjlleWRweC1vQjVyRDZvOHRaTURiOGo2MTF6NVdmNlZnVUdVUXdvRWVnLU1PMWp3SzQ4VDIzOG1sc3hpR05FMldRM0pncjUyN0VJNEs3djdnMUVpam1RZw?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-03T20:59:20+00:00",
+      "image_url": "https://images.pexels.com/photos/208686/pexels-photo-208686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Trump announced an operation to clear the Strait of Hormuz, putting the U. S.-Iran ceasefire at risk. U. S.-Iran ceasefire shaky as Trump announces operation to clear Strait of Hormuz MS NOW.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -116,62 +176,14 @@
       "translations": {}
     },
     {
-      "title": "UN Chief Says US Unpaid Dues Worth Billions Are 'Non-Negotiable'",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qYlVrY25PY2FRNTBjb3FoS2V6ZXp4aEVCdEI2SkoyMU1UeHZjZXlxZ29ock96bk40VWVnUUdZYTBUY1BHY0FCTHNQX3g2OW9saThrU0xseHVyb29PT1dLeTJCR25qQTNmcGhUbGowR2xXQTlzWjdZU3RsSFQ4SXM?oc=5",
-      "source": "Google News (United Nations)",
+      "title": "Russia-NATO Conflict May Come Before 2029",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUlpxRi1kN0VjWWNXNUh2U1E5U2NnTXlwanZ2My1xR09kWHkxTjBtTDZhZTRfVWEyb0g1TmNtZnRmQ3EyRjhkTGJyYzJ3dU5SeEFwQmZWTWlySlNrM2E2N3FTOHNGbmlXUGxVSFI0bnU2Sm5NbXZYTzlQT3VSV2ZsNDduZjZ0M1VTTlJhSUNMd2VYbjTSAZcBQVVfeXFMTkZzSlZWWjBTVGhWZlQ2OFBXM29CVWRwSkhUVXVjNlROZkswMU9CSTktNVVQZVVnQkhzdWhNR19UeDdxeGcxYW9tWG54NV9RVmRSNVBmbV96ZEF1eUo4bUt1OHhoeEZNNF9YcE1kNnY5N21QWkYxWllIck45TWdaUnluVjhNVFJ5WnZ0cmNxd1AwMEtCZDluOA?oc=5",
+      "source": "Google News (NATO conflict)",
       "sources": [],
-      "published_at": "2026-05-03T20:31:05+00:00",
-      "image_url": "https://images.pexels.com/photos/30541596/pexels-photo-30541596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "UN Chief said the US owes billions in unpaid dues. The US unpaid dues are non-negotiable. UN Chief Says US Unpaid Dues Worth Billions Are 'Non-Negotiable' Yahoo.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "3 Die On Atlantic Cruise Ship From Suspected Hantavirus: WHO",
-      "url": "https://www.ndtv.com/world-news/3-die-on-atlantic-cruise-ship-from-suspected-hantavirus-who-11444086#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-03T20:26:51+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/m26e481k_mv-hondius_625x300_04_May_26.jpeg",
-      "summary": "Three people died from suspected hantavirus on the MV Hondius cruise ship. The outbreak occurred on the MV Hondius, travelling from Ushuaia in Argentina to Cape Verde. 3 Die On Atlantic Cruise Ship From Suspected Hantavirus: WHO.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Lai Ching-te reaffirms the right to international contacts",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQkVNM3Zwa0tzNEF2ci1uOVN4TUZKc1pRNnJHTm9fWWtpTjZpYVZTd0hPd1ZZQUN3b0lHdGk4NFpiMmhFTm9VWVQ3MjdYaTdPTnUyMmFLRzJLaExuaDRPeHUwUHBlZ2xQLWVNNkRZWERZaFRwR3N2dUFpMkFlZGVmamhnNnZKUUU0S1Jza2s0Ni1ZZEZNdUNOSzIxVVJLWUZFc0MyRQ?oc=5",
-      "source": "Google News (international relations)",
-      "sources": [],
-      "published_at": "2026-05-03T20:09:00+00:00",
-      "image_url": "https://images.pexels.com/photos/36766147/pexels-photo-36766147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Lai Ching-te reaffirmed Taiwan's right to international contacts. He made the statement in a recent address, highlighting the island nation's desire to engage with the global community. Taiwan: Lai Ching-te reaffirms the right to international contacts Table. Briefings.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Is Israel expanding into Gaza despite ceasefire?",
-      "url": "https://www.aljazeera.com/video/upfront/2026/5/3/is-israel-expanding-into-gaza-despite-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-03T19:55:02+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777838094.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Israel is expanding into Gaza despite a ceasefire. Forensic Architecture's Ray Adams Row Farr documented the expansion in a recent analysis. Redi Tlhabi speaks to Ray Adams Row Farr from Forensic Architecture about Israel’s expansion into Gaza post-ceasefire.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Germany’s Merz downplays rift with Washington despite US troop drawdown",
-      "url": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-03T19:42:55+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69a71ca3af79-1772559523.jpg?resize=1920%2C1440",
-      "summary": "Germany's Christian Democratic Union leader Friedrich Merz downplayed a rift with Washington. Merz said criticism of Trump's Iran strategy is unrelated to a US troop drawdown. German chancellor says criticism of Donald Trump's strategy in Iran unrelated to troop withdrawal announcement.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-03T20:03:02+00:00",
+      "image_url": "https://images.pexels.com/photos/11337820/pexels-photo-11337820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "A Russia-NATO conflict may occur before 2029, according to reports. Masala: Russia-NATO Conflict May Come Before 2029 Военное дело.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -188,14 +200,14 @@
       "translations": {}
     },
     {
-      "title": "How A.I. Is Transforming China’s Entertainment Industry",
-      "url": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html",
-      "source": "NYT World",
+      "title": "Bulk carrier reports 1st attack in weeks near Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3lZNjd6NWVNUWlvbUVLNlFyakY5YnZBNmJlMHpaeWJDX1JvNG1YY05sSjJzWVl5TTFzc0cxRDgtX3ltWWFKSDYzTTVoZ1l2elFaZ1pRZ3hoRFJybXNoNWs0UVA0ZFJ3bW1hdWp1MTVmTExnTlFKT1Bidk84T3RIaDcwQkw4NlFMQlUxeVo4ME4wT3FmWFV0MGh30gGfAUFVX3lxTFAtaE5xX242SDlkeW4yVl9Qd1hqaXAxN1RHOTVuUDZ2VThEczlHOG5KWFFwNFdtSnUwdUMzWXhFSHZYenlmci04ZzF3a1hWd3NGel9UV25QRTI2ZzhVckxLWDRCc2steVhJYUZaaGlQanp6b19jbm5iRGpmNXMzV2RGbEJXRGprZExGck1LQXlybjEyNlFUNmk2cVJjWEpmMA?oc=5",
+      "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-05-03T19:14:44+00:00",
-      "image_url": "https://images.pexels.com/photos/5346132/pexels-photo-5346132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "China's entertainment industry is experiencing disruption due to the rise of AI-generated microdramas, with celebrities threatening legal action and actors reporting job losses. A. I.-generated microdramas have taken off. Celebrities have threatened legal action against the use of their likeness, while actors say jobs have dried up.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-03T18:44:00+00:00",
+      "image_url": "https://images.pexels.com/photos/29792898/pexels-photo-29792898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "A bulk carrier reported an attack near the Strait of Hormuz, the first in weeks. Live Updates: Bulk carrier reports 1st attack in weeks near Strait of Hormuz CBS News.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -212,13 +224,25 @@
       "translations": {}
     },
     {
-      "title": "Paramilitary forces drone strike kills at least five near Sudan capital: rights group",
-      "url": "https://www.thehindu.com/news/international/paramilitary-forces-drone-strike-kills-at-least-five-near-sudan-capital-rights-group/article70936060.ece",
+      "title": "Two US service members reported missing in Morocco, officials say",
+      "url": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-03T17:27:21+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea27/live/573fd5e0-46f1-11f1-9217-a5b6a670d3f7.jpg",
+      "summary": "Two US service members are missing in Morocco after an accident, prompting a search and rescue operation. A search and rescue operation is underway for the service members, who are believed to have been involved in an accident, according to authorities.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nigerian, Beninese militias kill scores of herders",
+      "url": "https://www.thehindu.com/news/international/nigerian-beninese-militias-kill-scores-of-herders/article70936062.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-03T17:00:58+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/bk7kdq/article70936092.ece/alternates/LANDSCAPE_1200/AFP_A8ZT3TV.jpg",
-      "summary": "A drone strike by Sudan's Rapid Support Forces killed at least five people near the capital. The paramilitary group has been at war with the Sudanese Army for over three years.",
+      "published_at": "2026-05-03T16:56:51+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/nhmkti/article70936101.ece/alternates/LANDSCAPE_1200/AFP_33FU4ZQ.jpg",
+      "summary": "Militias from Nigeria and Benin killed scores of Fulani herders. Security personnel had been arresting young men in Fulani settlements suspected of being informants for the al-Qaeda-linked Ansaru group, and shot those who resisted. The violence occurred during a crackdown on suspected herder informants.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -236,28 +260,40 @@
       "translations": {}
     },
     {
-      "title": "Israel strikes southern Lebanon, kills one and wounds rescuers",
-      "url": "https://www.thehindu.com/news/international/israel-issues-new-evacuation-warnings-in-south-lebanon-beyond-occupied-area/article70934664.ece",
-      "source": "The Hindu (International)",
+      "title": "होर्मुज में फंसे जहाजों के लिए 'प्रोजेक्ट फ्रीडम' का एलान, ट्रंप बोले- दखल दिया तो पूरे दम से",
+      "url": "https://www.amarujala.com/world/donald-trump-announces-project-freedom-to-escort-stranded-ships-through-strait-of-hormuz-warns-on-interference-2026-05-04",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-03T16:35:48+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/uv5jxy/article70936055.ece/alternates/LANDSCAPE_1200/AFP_A9MY7L9.jpg",
-      "summary": "Israel launched a strike in southern Lebanon, killing one person and injuring rescuers. The warning covered over 10 villages and towns in the Nabatieh district, north of the Litani River, where Israeli troops are stationed.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-03T23:36:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/donald-trump_ac2d04f478d74d426c61ccbf0cccb8b6.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने होर्मुज जलडमरूमध्य में फंसे जहाजों के लिए 'प्रोजेक्ट फ्रीडम' की घोषणा की. उन्होंने चेतावनी दी कि यदि कोई दखल देता है, तो अमेरिका पूरे दम से निपटेगा.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज में फंसे जहाजों के लिए 'प्रोजेक्ट फ्रीडम' का एलान, ट्रंप बोले- दखल दिया तो पूरे दम से",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने होर्मुज जलडमरूमध्य में फंसे जहाजों के लिए 'प्रोजेक्ट फ्रीडम' की घोषणा की. उन्होंने चेतावनी दी कि यदि कोई दखल देता है, तो अमेरिका पूरे दम से निपटेगा.",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
-      "title": "A Perilous Train Ride Home in Pakistan on the Jaffer Express",
-      "url": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-jaffer-express-balochistan.html",
-      "source": "NYT World",
+      "title": "अटलांटिक महासागर में क्रूज शिप पर हंटावायरस फैलने की आशंका, तीन यात्रियों की मौत",
+      "url": "https://www.amarujala.com/world/world-updates-of-4-may-world-news-russia-ukraine-war-us-china-pakistan-nepal-news-in-hindi-2026-05-04",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-03T16:34:35+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/03/multimedia/03int-pakistan-train-promo-vlhj/03int-pakistan-train-promo-vlhj-mediumSquareAt3X.jpg",
-      "summary": "The Jaffer Express train is a vital lifeline through Pakistan's Balochistan. We witnessed crossfire while waiting for the Jaffer Express, a vital lifeline through Balochistan. For many, it’s the only way home.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-03T22:17:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=750&dpr=1.0",
+      "summary": "अटलांटिक महासागर में एक क्रूज शिप पर हंटावायरस फैलने की आशंका है. तीन यात्रियों की मौत हो गई है. अटलांटिक महासागर में क्रूज शिप पर हंटावायरस फैलने की आशंका, तीन यात्रियों की मौत।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अटलांटिक महासागर में क्रूज शिप पर हंटावायरस फैलने की आशंका, तीन यात्रियों की मौत",
+          "summary": "अटलांटिक महासागर में एक क्रूज शिप पर हंटावायरस फैलने की आशंका है. तीन यात्रियों की मौत हो गई है. अटलांटिक महासागर में क्रूज शिप पर हंटावायरस फैलने की आशंका, तीन यात्रियों की मौत।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "तेहरान के 14-सूत्रीय प्रस्ताव पर आया US का जवाब, ईरान कर रहा अमेरिकी प्रतिक्रिया की समीक्षा",
@@ -292,6 +328,114 @@
           "title": "स्ट्रेट ऑफ होर्मुज पर कूटनीति तेज, ईरान का 14 सूत्रीय प्रस्ताव; अमेरिका को दिया 30 दिन का अल्टीमेटम",
           "summary": "ईरान ने स्ट्रेट ऑफ होर्मुज के मुद्दे पर अमेरिका को 30 दिन का अल्टीमेटम दिया है. ईरान ने एक 14 सूत्रीय प्रस्ताव भी प्रस्तुत किया है. स्ट्रेट ऑफ होर्मुज पर कूटनीति तेज, ईरान का 14 सूत्रीय प्रस्ताव; अमेरिका को दिया 30 दिन का अल्टीमेटम Jagran।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर कूटनीति के अहम किरदार कैसे बनते जा रहे हैं?",
+      "url": "https://www.bbc.com/hindi/articles/c8xwe9kqwrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-03T15:10:03+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f3fa/live/53e0c510-43bf-11f1-a0e9-f392511be4c3.jpg",
+      "summary": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर भारत-पाकिस्तान संघर्ष के कारण न केवल पदोन्नत हुए, बल्कि अमेरिका और ईरान के बीच विवाद में भी एक महत्वपूर्ण मध्यस्थ बन गए. भारत-पाकिस्तान संघर्ष ने जनरल आसिम मुनीर को न केवल फ़ील्ड मार्शल बनाया बल्कि पिछले हफ़्तों के दौरान वह अमेरिका और ईरान के बीच विवाद में एक महत्वपूर्ण मध्यस्थ बनकर भी उभरे.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर कूटनीति के अहम किरदार कैसे बनते जा रहे हैं?",
+          "summary": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर भारत-पाकिस्तान संघर्ष के कारण न केवल पदोन्नत हुए, बल्कि अमेरिका और ईरान के बीच विवाद में भी एक महत्वपूर्ण मध्यस्थ बन गए. भारत-पाकिस्तान संघर्ष ने जनरल आसिम मुनीर को न केवल फ़ील्ड मार्शल बनाया बल्कि पिछले हफ़्तों के दौरान वह अमेरिका और ईरान के बीच विवाद में एक महत्वपूर्ण मध्यस्थ बनकर भी उभरे.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान के प्रतिनिधि की अपील: युद्ध रोकें, क्षेत्र में शांति बहाल करें",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSjNWQWk2akNLUnlxY3RoVE1nOWxGb0pKaEx2aUtoNERfSzJEWE5OTFJOSzh2TE9tOGg2XzllR0dRc0RwMWRUUFpRcFFCd0VkSms4Z3UzRVFPbWNaRnRZc2ZfcHZlakJpQnYwckZNRFVmdVpmWng2bTJOOWtrSkowNzVPU2NLS2YwX1Y4b0I5ZE1abTl1?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-03T11:22:57+00:00",
+      "image_url": "https://images.pexels.com/photos/16033963/pexels-photo-16033963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान के प्रतिनिधि ने युद्ध रोकने और क्षेत्र में शांति बहाल करने की अपील की. ईरान के प्रतिनिधि की अपील: युद्ध रोकें, क्षेत्र में शांति बहाल करें Webvarta News Agency।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के प्रतिनिधि की अपील: युद्ध रोकें, क्षेत्र में शांति बहाल करें",
+          "summary": "ईरान के प्रतिनिधि ने युद्ध रोकने और क्षेत्र में शांति बहाल करने की अपील की. ईरान के प्रतिनिधि की अपील: युद्ध रोकें, क्षेत्र में शांति बहाल करें Webvarta News Agency।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "नेतन्याहू के खिलाफ इजरायल की सड़कों पर उतरे लोग, देखें वर्ल्ड न्यूज",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWG1TZ01DYXlpWGNWcF9uV0phcjJKUGtLQXRwbEhSZjlrZ2Vib1ZzaUFGR0FPTXAtSUV1NzFqcUdDZ2ZLOW9yb1B6SzMwbTdmRnhSNjdoVjRiZkpZdTZhTFlzclFrZmVOWjFkM29tQ1NCdFhnOGxRNG5fNGxHY0duU1M5RG0yOWJOMEF3am9kN0dJXzFWV3RmTWdHOEg2SGNOMmFkUVo4cVhFU19fV0I5WVJCaUNXc3VUUTUwMdIBwgFBVV95cUxPbVRrTkVSSkROXzR2cXdVaFh2VFBleFZ3WU9iWUppSEJqTVcyS1hGS0lIWm5ETFVMTXNUak9wQy1IWDBJWVpKd1YzTV94b0F0ZkF3Q2Q1enJGSVlRSnNWNTBLbXpVV1hxTEs4R1NMQ2twQzFUVTZSQ0s1MjdvVnEybGMxS3JBTHBoRU9qOTRHc3B0ZGdMRXhPWGVhZ1VTdkxUdm9XNzJWLVlPcmNRTTFZNVBIMndzSzNXUUx0YUNRQm52Zw?oc=5",
+      "source": "Google News Hindi (विश्व समाचार)",
+      "sources": [],
+      "published_at": "2026-05-03T11:12:52+00:00",
+      "image_url": "https://images.pexels.com/photos/8343690/pexels-photo-8343690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "इजरायल में लोगों ने प्रधानमंत्री बेंजामिन नेतन्याहू के खिलाफ सड़कों पर प्रदर्शन किया. नेतन्याहू के खिलाफ इजरायल की सड़कों पर उतरे लोग, देखें वर्ल्ड न्यूज AajTak।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेतन्याहू के खिलाफ इजरायल की सड़कों पर उतरे लोग, देखें वर्ल्ड न्यूज",
+          "summary": "इजरायल में लोगों ने प्रधानमंत्री बेंजामिन नेतन्याहू के खिलाफ सड़कों पर प्रदर्शन किया. नेतन्याहू के खिलाफ इजरायल की सड़कों पर उतरे लोग, देखें वर्ल्ड न्यूज AajTak।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पश्चिम बंगाल में मतगणना से पहले 285 बूथों पर फिर मतदान का क्यों लिया गया फ़ैसला",
+      "url": "https://www.bbc.com/hindi/articles/cwy2xjy9v4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-03T10:41:52+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3560/live/08833900-46f7-11f1-b55d-0f258dce1735.jpg",
+      "summary": "चुनाव आयोग ने 285 बूथों पर फिर मतदान का फ़ैसला किया है। यह फ़ैसला मुख्य निर्वाचन अधिकारी और अन्य अधिकारियों की रिपोर्ट और पर्यवेक्षकों की टिप्पणियों के आधार पर लिया गया है। चुनाव आयोग ने सभी रिकॉर्ड का गंभीरता से अध्ययन किया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पश्चिम बंगाल में मतगणना से पहले 285 बूथों पर फिर मतदान का क्यों लिया गया फ़ैसला",
+          "summary": "चुनाव आयोग ने 285 बूथों पर फिर मतदान का फ़ैसला किया है। यह फ़ैसला मुख्य निर्वाचन अधिकारी और अन्य अधिकारियों की रिपोर्ट और पर्यवेक्षकों की टिप्पणियों के आधार पर लिया गया है। चुनाव आयोग ने सभी रिकॉर्ड का गंभीरता से अध्ययन किया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "एक ऐसा देश जो तेल से अरबों कमाता है लेकिन इस्तेमाल न के बराबर करता है",
+      "url": "https://www.bbc.com/hindi/articles/ce3pyrr945ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-03T09:27:05+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5520/live/3d274a10-46c6-11f1-acb0-3b11e83d8107.jpg",
+      "summary": "मध्य पूर्व में युद्ध और होर्मुज़ स्ट्रेट की नाकाबंदी से तेल की क़ीमतें बढ़ गई हैं। इस देश ने इस बढ़ोतरी से भारी लाभ कमाया है। तेल की बढ़ती क़ीमतें इस देश के लिए फ़ायदेमंद साबित हुई हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एक ऐसा देश जो तेल से अरबों कमाता है लेकिन इस्तेमाल न के बराबर करता है",
+          "summary": "मध्य पूर्व में युद्ध और होर्मुज़ स्ट्रेट की नाकाबंदी से तेल की क़ीमतें बढ़ गई हैं। इस देश ने इस बढ़ोतरी से भारी लाभ कमाया है। तेल की बढ़ती क़ीमतें इस देश के लिए फ़ायदेमंद साबित हुई हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "गर्मी में एसी फटने के मामले क्यों आते हैं, ऐसे हादसों से बचने के लिए क्या करें?",
+      "url": "https://www.bbc.com/hindi/articles/c4g0llg2nvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-03T06:53:04+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5816/live/b3fc49b0-46d5-11f1-bd52-e755d604ece4.jpg",
+      "summary": "भारत में ग्लोबल वॉर्मिंग के कारण गर्मी बढ़ रही है। शहरों में एसी का इस्तेमाल बढ़ रहा है, जिससे एसी फटने के मामले बढ़ रहे हैं। एसी फटने से बचने के लिए एसी की नियमित जांच और रखरखाव करना आवश्यक है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गर्मी में एसी फटने के मामले क्यों आते हैं, ऐसे हादसों से बचने के लिए क्या करें?",
+          "summary": "भारत में ग्लोबल वॉर्मिंग के कारण गर्मी बढ़ रही है। शहरों में एसी का इस्तेमाल बढ़ रहा है, जिससे एसी फटने के मामले बढ़ रहे हैं। एसी फटने से बचने के लिए एसी की नियमित जांच और रखरखाव करना आवश्यक है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -422,218 +566,74 @@
       }
     },
     {
-      "title": "परमाणु और होर्मुज पर अटकी डील: ईरान ने अमेरिका को सौंपा 14-प्वाइंट का शांति प्लान, लेकिन ट्रंप का",
-      "url": "https://www.amarujala.com/world/deal-stalled-over-nuclear-hormuz-issues-iran-hands-14-point-peace-plan-but-trump-maintains-hardline-stance-2026-05-03",
-      "source": "Amar Ujala World",
+      "title": "यूएनएसी अध्यक्ष बनते ही चीन ने छेड़ी जंग, पहले ही दिन भारत की टेंशन बढ़ाई",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSThZanpnZmdfWG9WbmJJY2twbnI2WTZldGwxczNfUl91MFl3Q045RldmY1IwdzFFdnhRZGdfSXB5TDF1OXdIODktWDlYdEVhdy1yTmRDZEY0LTBfRnE0QndTV1RrdmRBNkpGTTNvVFl4REQ0M1k0SW84TU0wRHhUSGtjY1U1dVA3dzVaYmVEOUFHemZ6WWxpZzVTRzgzcUZfZ3lRbV82MFJYWDFpd2ZWaldOTzAxVjFWSl9JN3VpQTg3ejIxVjJ0a0Q3aHVmemV5ajVfalRPbGI?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-03T01:57:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/deal-stalled-over-nuclear-hormuz-issues-iran-hands-14-point-peace-plan-but-trump-maintains-hardli_d4ea2135bb4e4289a22a3e9bec219116.jpeg?w=750&dpr=1.0",
-      "summary": "ईरान ने अमेरिका को 14-प्वाइंट का शांति प्लान सौंपा। लेकिन ट्रंप ने सख्त रुख बनाए रखा। परमाणु और होर्मुज मुद्दों पर डील अटकी हुई है। परमाणु और होर्मुज पर अटकी डील: ईरान ने अमेरिका को सौंपा 14-प्वाइंट का शांति प्लान, लेकिन ट्रंप का।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "परमाणु और होर्मुज पर अटकी डील: ईरान ने अमेरिका को सौंपा 14-प्वाइंट का शांति प्लान, लेकिन ट्रंप का",
-          "summary": "ईरान ने अमेरिका को 14-प्वाइंट का शांति प्लान सौंपा। लेकिन ट्रंप ने सख्त रुख बनाए रखा। परमाणु और होर्मुज मुद्दों पर डील अटकी हुई है। परमाणु और होर्मुज पर अटकी डील: ईरान ने अमेरिका को सौंपा 14-प्वाइंट का शांति प्लान, लेकिन ट्रंप का।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इस्राइल-US के बीच बड़ा रक्षा सौदा: अमेरिका से खरीदेगा F-35 और एफ-15आईए लड़ाकू विमान, डील को मंजूरी",
-      "url": "https://www.amarujala.com/world/israel-approves-purchase-of-fighter-jets-from-the-us-2026-05-03",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-03T01:44:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/03/iran-war_959853e28bfa14d56d246ff24658d127.jpeg?w=750&dpr=1.0",
-      "summary": "इस्राइल ने अमेरिका से एफ-35 और एफ-15आईए लड़ाकू विमान खरीदने के लिए एक बड़े रक्षा सौदे को मंजूरी दी है। यह सौदा अरबों डॉलर का है और इस्राइल की सैन्य क्षमता को बढ़ाने में मदद करेगा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस्राइल-US के बीच बड़ा रक्षा सौदा: अमेरिका से खरीदेगा F-35 और एफ-15आईए लड़ाकू विमान, डील को मंजूरी",
-          "summary": "इस्राइल ने अमेरिका से एफ-35 और एफ-15आईए लड़ाकू विमान खरीदने के लिए एक बड़े रक्षा सौदे को मंजूरी दी है। यह सौदा अरबों डॉलर का है और इस्राइल की सैन्य क्षमता को बढ़ाने में मदद करेगा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सीरिया में शिया धर्मगुरु की हत्या; बांग्लादेश में खसरा का कहर, बच्चों की मौत का आंकड़ा 280+",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2NOZDU4RHlxT3cxdnA4Y2lmNkdlR2lrbVJFWDdpUWstSUkzSnRmRV9TU2JTbHNaNGhnMUlxa3hBTHJIQ3ZBXzV0ZV9uQzZQZnI4RWwxMGZFenA0MEhsX2h3aC03aXEtTlNPaXBaRGNUZ0I3S29Ob0k1UGk4eE1FQ3V6OFA1REpoYWJSdzVpMHJOaHFCbDhPdzB0ODJwOURHU1V6cFQ2d29keWQ5cTQ0a0pCY2xVbkU3bmt0aHY2WXRwWk14ODRnS3dyVmNLZjNB0gHWAUFVX3lxTE01dWFwV1Yyc2YzWkNlSkhJcldwY1h5dFFuMjNQUDdlTEpzdG5VWElSVFZCMmhRRlROemFoOHVFOGxhOXZDcVVyRHlFNXFLMzRneXl3TWgyaU9QNkEtZmY1dng5b2RQM3YwWTd3emNfRXZSRWtvVVRVZWhJT2hOZDhOMTFYbDU3WnlEQ25DZF9pb2QxaVBIVGZlNnNaRnpCU0xvVGUzUDhEUWxLeEpTbjhldWItRFZHMVJTTmJweUVoV0V2NnA2QzgtRnhraXdqWW9xSGVJYnc?oc=5",
-      "source": "Google News Hindi (विश्व समाचार)",
-      "sources": [],
-      "published_at": "2026-05-02T09:45:00+00:00",
-      "image_url": "https://images.pexels.com/photos/15005485/pexels-photo-15005485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "सीरिया में एक शिया धर्मगुरु की हत्या कर दी गई. बांग्लादेश में खसरे के कारण 280 से अधिक बच्चों की मौत हो गई है. World Updates: सीरिया में शिया धर्मगुरु की हत्या; बांग्लादेश में खसरा का कहर, बच्चों की मौत का आंकड़ा 280+ Amar Ujala।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीरिया में शिया धर्मगुरु की हत्या; बांग्लादेश में खसरा का कहर, बच्चों की मौत का आंकड़ा 280+",
-          "summary": "सीरिया में एक शिया धर्मगुरु की हत्या कर दी गई. बांग्लादेश में खसरे के कारण 280 से अधिक बच्चों की मौत हो गई है. World Updates: सीरिया में शिया धर्मगुरु की हत्या; बांग्लादेश में खसरा का कहर, बच्चों की मौत का आंकड़ा 280+ Amar Ujala।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अग्रणी कूटनीति से कोमल शक्ति का प्रसार होता है: जब वियतनाम की छवि रोजमर्रा के अनुभवों के माध्यम से",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHVXalY0bnQ5aFkzejZ2M0Z6UmNNcUhva0lMdVNyOW9qQ1pjU0xieGdGLTFVbU9iQjNZTTk4YTlFUnp0SEV2SDBTTmJPaW1qZDVrb2pkYVBMbkprTTZwM2ZnSXdlTmFHMURneloxNGtGSHFIYmtxWDY1cFY3NWNMUG0weEpJN3QzeUE5cElSa2cyTU1IM1V6M2NzbFlMT3dYdFBTUHNMemdFVmlxN1Bxc0JrTE1xSVpjZUJxZmxyaXJRM3g2aHA0N0dKWQ?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-05-02T02:08:31+00:00",
-      "image_url": "https://images.pexels.com/photos/8576784/pexels-photo-8576784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "वियतनाम ने अपनी छवि को बढ़ावा देने के लिए एक नए तरीके का इस्तेमाल किया है, जिसमें रोजमर्रा के अनुभवों के माध्यम से अपनी संस्कृति और जीवनशैली को प्रदर्शित किया जा रहा है। यह पहल वियतनाम की सॉफ्ट पावर को बढ़ाने के लिए की गई है।",
+      "published_at": "2026-05-02T15:45:35+00:00",
+      "image_url": "https://images.pexels.com/photos/15470221/pexels-photo-15470221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "चीन ने यूएनएसी अध्यक्ष बनते ही जंग छेड़ दी है। पहले ही दिन भारत की टेंशन बढ़ गई है। चीन के इस कदम से भारत के साथ तनाव बढ़ गया है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अग्रणी कूटनीति से कोमल शक्ति का प्रसार होता है: जब वियतनाम की छवि रोजमर्रा के अनुभवों के माध्यम से",
-          "summary": "वियतनाम ने अपनी छवि को बढ़ावा देने के लिए एक नए तरीके का इस्तेमाल किया है, जिसमें रोजमर्रा के अनुभवों के माध्यम से अपनी संस्कृति और जीवनशैली को प्रदर्शित किया जा रहा है। यह पहल वियतनाम की सॉफ्ट पावर को बढ़ाने के लिए की गई है।",
+          "title": "यूएनएसी अध्यक्ष बनते ही चीन ने छेड़ी जंग, पहले ही दिन भारत की टेंशन बढ़ाई",
+          "summary": "चीन ने यूएनएसी अध्यक्ष बनते ही जंग छेड़ दी है। पहले ही दिन भारत की टेंशन बढ़ गई है। चीन के इस कदम से भारत के साथ तनाव बढ़ गया है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "युद्ध के बीच इजरायल ने सैनिक और घातक लेजर हथियारों को UAE भेजा, ईरान के खिलाफ खड़ा किया रक्षा कवच",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZTRMaW5zV1dVRFRNUVgxQ1VhZWFJeTdSSUhDTE9ITFVod1Bfak04c1l5NHpSeUdYZVczVF8waXRMLUpvdE5oZllsbTFDWXRJeTZ2UE9VTWhqcUE1YWxtTGtZeU4wdDZReUo5S0NBRGZPaUt5NmlWeDgzSzk4VTVWUmMzUHg5TmtPVDJyaUkyVFVndXdsZ1pUN04wVkk3SW5RdnVJQjQ4NzlfMEc4SEVpOTJMTlpkUGNuVjhUbDVHMFUwcFBmNmd4M1ktaDY0X2xYRGxOeUprSl9xVktBMlRJcU5HRU9kTlpoSmQxS3ctb9IB9AFBVV95cUxORzluX1FNUjZtdjBlSTdPME4zaGc3clV0SDZwSGR4cm5Ed0NqclhMalFJN190aUhfSnQyMFRaNDhiSnItc1U1dHFzUVFOYmRRU1hoX0pzdmp1MVBsMGNEN29XX2NJQmUtbUNnN0tfbDJkbXBWeXZuZFp6eVlydXJwb1VmNW5sdTFXNElVTnp5LV9zcUJ0R1M3amFidUFuSjNIOUxaRlBDVFk1UkVMZmFGQ3BDWGR3YXFJeFRlamY1T2FpNy1RaHFNeXhuMXd5V3BtcWxRb09zWFFZR3kyNFM3MzFkRDVRbXRFRUJzSnh4eThzZ05F?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-01T20:46:02+00:00",
-      "image_url": "https://images.pexels.com/photos/30831931/pexels-photo-30831931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "इजरायल ने युद्ध के बीच में सैनिक और घातक लेजर हथियारों को संयुक्त अरब अमीरात भेजा है. यह हथियार ईरान के खिलाफ रक्षा कवच के रूप में तैनात किए गए हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "युद्ध के बीच इजरायल ने सैनिक और घातक लेजर हथियारों को UAE भेजा, ईरान के खिलाफ खड़ा किया रक्षा कवच",
-          "summary": "इजरायल ने युद्ध के बीच में सैनिक और घातक लेजर हथियारों को संयुक्त अरब अमीरात भेजा है. यह हथियार ईरान के खिलाफ रक्षा कवच के रूप में तैनात किए गए हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भूटान का विकास और ख़ुशहाली मॉडल, वैश्विक दक्षिण के लिए एक प्रेरणा",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sbzR6LWJOWHI3WWVFR1RsSGdQbnJPbEFjV2RoUGFxVk5GVlhQbDZPVGZmUk50bFZjQkN0SEtMYkhJTjA1NmZqZGw0SVlXVlFqMWJZY3gtQQ?oc=5",
+      "title": "संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष बना चीन, पहले ही दिन दिखाया रंग, क्या बढ़ेगी भारत की टेंशन",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaUwtYmJWejRwLXJVOFN0VmRtcHUzQjJrLXhSOWh5Z1BFSThoblJWX1pJYlEtdDZ2Rm9jcGZLcU1NM3FjLVRLa3ROc3FmN1pBUzlyaDdEUU4xQmNVMnJ6SVBpc09PREVONEJ5cE1VMDM5M2ZRZVloeHJTT1AwYU13MGVXeUZteEI4cTE5aElFLVFTNURTYVZNSlhJVzJhcENPNXZVaWNGNVZKWTF3YTdUMF8wZ2I3MGlMdlJhUm50bFJnd1JyMUw2NEVIT1RjbTloV3FIQ1pNMUM5WFd6MEhVaFZKQmtNeTJFN3VNMFZ2SkNPaWtqUDlWNGprLTdwc2vSAYQCQVVfeXFMTWdlVTJVNmNDSF81ODVlR05vSFBJakVtMF9wZWEyN3h0XzVwXzlaa3hVQV9TRmNuN0ZyVXNiSklHR2ZFSWxTY3RQckZaazloR2V3VndDQnNFTlIwWWM2TE1fWTRMRFRnVFNHSkJpbThWTEt1UF9SZmVrbEw2ck5QNTBDZXJ4LU1xZ1pqOXdEXzV0Vmt5QnY5ZUtlOTI1bXdPWFJtSmJDelVzR3VfX0owbEJ4dUJoQ1JiYWJXNUVPaEdoTHJwdGY2U3JhNF9QT3p0eW5LaEhyVHEtUGtKSU1zaksxbVNNdEpQWG9BQTM1MUZabVBTVV9QVUFrLVZUSjVvc1UxeEc?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-01T15:32:03+00:00",
-      "image_url": "https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भूटान का विकास और खुशहाली मॉडल वैश्विक दक्षिण के लिए एक प्रेरणा बन गया है। भूटान की सकल राष्ट्रीय खुशी की अवधारणा ने दुनिया भर में ध्यान आकर्षित किया है और कई देशों को अपने विकास मॉडल को बदलने के लिए प्रेरित किया है।",
+      "published_at": "2026-05-02T15:11:41+00:00",
+      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "India UNSC China: संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष बना चीन, पहले ही दिन दिखाया रंग, क्या बढ़ेगी भारत की टेंशन Navbharat Times।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भूटान का विकास और ख़ुशहाली मॉडल, वैश्विक दक्षिण के लिए एक प्रेरणा",
-          "summary": "भूटान का विकास और खुशहाली मॉडल वैश्विक दक्षिण के लिए एक प्रेरणा बन गया है। भूटान की सकल राष्ट्रीय खुशी की अवधारणा ने दुनिया भर में ध्यान आकर्षित किया है और कई देशों को अपने विकास मॉडल को बदलने के लिए प्रेरित किया है।",
+          "title": "संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष बना चीन, पहले ही दिन दिखाया रंग, क्या बढ़ेगी भारत की टेंशन",
+          "summary": "India UNSC China: संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष बना चीन, पहले ही दिन दिखाया रंग, क्या बढ़ेगी भारत की टेंशन Navbharat Times।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "होर्मुज़ संकट से वैश्विक अर्थव्यवस्था का घुट रहा दम, गतिरोध दूर करने का आग्रह",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk93Mi1qLVk1RVhGTTJKVERTU2F1cm41M0dQTHJqVmZkakhlb2FrdmNwVHhLVzNJbzJhZ0k2cFR2RGxua1cwcEx0cVVoRGllaVV1Q1FsNnhrNVZ5N0ZtRFU0S2gyay1mRDhJTEVRaFdENkRzQzFRM1AxX1lSa1ptYjZ1ZUpDNUpOWlAyaS1mS04yYTZ2TlQtSll4WHUzSEVmRWJrZkFpRkJuNVJuQ1NpZHp1NkJNVzTSAcIBQVVfeXFMT2pPVlRXZGctZ0NzN0M2Vlc1enN5RkpaUWVaLVZnVllVbFowdWZ3eUZMOVBxMHJnVnBkSVRjTXUwZHRwUlpvUFZ2MVZQaTVnc0Nab1VBZGdLeHZCZ1FPalgzaGp5Rk83YTViZGxfUVJDRWxWclVQOG9nMDd0TzdUM2VUOE5jQlI2QnVBNjA1djdUbi0yNG1kN0g0em02Y1FfUTFCQXlTbExRZ2VvbmU1WXpHRk1YT0xwQjhGc1dHbWN5clE?oc=5",
+      "title": "पाकिस्तान अल्पसंख्यकों के लिए बना काल : 75% हिंदू लड़कियां जबरन मतांतरण का शिकार, UN की रिपोर्ट ने",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVpFYURFMVFKdmpoY0FZdHFEaUc2NHFGVnpJMDdYY0FQcjhVRDZqMlJ5NDhPMng5T1FfdTFHWjBJYmdjcmhXRnE3TlhMaFZKdF82X2hmM2NjYWJvcmsza2J0c29yUVgyU1dzZGNxRlNQQjYzZE5ILUQxRl9GTE1HRHBGc3lXcG1TRHowWnY4WE5Mb2U1c1BpS2xxd1FwbTVnVXFHb2JYN3lLemNKUGV4UjBWT2VjTjZwbFljWVJ3X05UN2E4MXpMTtIBzgFBVV95cUxOODE5dE5tc280NEFDWlhzYXQ5V1l3aGhMLTh3Z3RkR2RPQ3FFcjJncUU5Vk9LM0NaWEcybFFTb0JNRVBIak1iOVRFOVVFc0tyQnM1M2V6NVhhRTd1d1VmV1lvbnlQYXM1NHg2ck5qOTRjX01lYTNZVG9fcEZPX0d4R19ydGJjOE5vOXNYeEI3b2lXcm8yeFRTT3ZfOU90WmxVbDBvVE5GY2xvY3ZqUTQ0eW9KdnN4LUF6VVVlYXYtS0NEa1QxM2hzOXZ2cW1Udw?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-01T15:19:00+00:00",
-      "image_url": "https://images.pexels.com/photos/7020394/pexels-photo-7020394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "होर्मुज़ जलसंधि में संकट के कारण वैश्विक अर्थव्यवस्था पर दबाव बढ़ रहा है। कई देशों ने इस संकट को दूर करने के लिए आग्रह किया है और स्थिति को शांत करने के लिए प्रयास किए जा रहे हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज़ संकट से वैश्विक अर्थव्यवस्था का घुट रहा दम, गतिरोध दूर करने का आग्रह",
-          "summary": "होर्मुज़ जलसंधि में संकट के कारण वैश्विक अर्थव्यवस्था पर दबाव बढ़ रहा है। कई देशों ने इस संकट को दूर करने के लिए आग्रह किया है और स्थिति को शांत करने के लिए प्रयास किए जा रहे हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "एक ऐसा संघर्ष जिसने बदल दी दुनिया की सोच, राजनीति से संस्कृति तक पड़ा गहरा प्रभाव",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNk5kVEdFaElIb1U1Wi0xanBHMmh1MGYtWGplYWFMdUdWRFZnc1BOMmdCTVg5RXhfUklIbjZOQS1VWlBiT1ZmM3o3Xy1mRk4xY1dsTmFodDV6N0RSeTdkMW1vN0t3M2pOdXN3a2N4ZnlqZk9VUTFyeXRBRFpldDF5c3U5Nk5pSmNCeEpvM3FpN3lLeldUUm9XRVBoNXdpTlM4MnRBYV9JMEdnNTd5V3dxSUpQNDB5czFmeU5pZmNhdTZmOEFrblVVeGFOZ0swblYtLWotSkcxVQ?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-01T14:36:00+00:00",
-      "image_url": "https://images.pexels.com/photos/5483518/pexels-photo-5483518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "वियतनाम युद्ध ने दुनिया की सोच और राजनीति पर गहरा प्रभाव डाला है। इस युद्ध ने संस्कृति और समाज पर भी प्रभाव डाला है और इसकी विरासत आज भी महसूस की जा रही है।",
+      "published_at": "2026-05-02T12:45:00+00:00",
+      "image_url": "https://images.pexels.com/photos/8771003/pexels-photo-8771003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र की एक रिपोर्ट ने खुलासा किया कि पाकिस्तान में 75% हिंदू लड़कियों को जबरन मतांतरण का सामना करना पड़ता है। यह रिपोर्ट पाकिस्तान में अल्पसंख्यकों के साथ हो रहे व्यवहार की पोल खोलती है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "एक ऐसा संघर्ष जिसने बदल दी दुनिया की सोच, राजनीति से संस्कृति तक पड़ा गहरा प्रभाव",
-          "summary": "वियतनाम युद्ध ने दुनिया की सोच और राजनीति पर गहरा प्रभाव डाला है। इस युद्ध ने संस्कृति और समाज पर भी प्रभाव डाला है और इसकी विरासत आज भी महसूस की जा रही है।",
+          "title": "पाकिस्तान अल्पसंख्यकों के लिए बना काल : 75% हिंदू लड़कियां जबरन मतांतरण का शिकार, UN की रिपोर्ट ने",
+          "summary": "संयुक्त राष्ट्र की एक रिपोर्ट ने खुलासा किया कि पाकिस्तान में 75% हिंदू लड़कियों को जबरन मतांतरण का सामना करना पड़ता है। यह रिपोर्ट पाकिस्तान में अल्पसंख्यकों के साथ हो रहे व्यवहार की पोल खोलती है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "अमेरिका-ईरान संघर्ष में नया विवाद, अराघची ने पेंटागन पर युद्ध की लागत कम आंकने का लगाया आरोप",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRGhCZFlOWFlWVFFCYzBxdldfQXhLak8xYjZoS1h1YkZ1WHVLbnhyV05yLW1abGhtOUF5VjlIYkl1QmJaTVNXb1BTXzRTdkJidlFaX1VCazRQWUw2Q2hvR0xjVjdULXBodXQ0Rl9iQWpyMGh4TkZZS1lBTVdOMVVlaGNPREItYUV4aVJpeTh4WjUybkQtWFhCdU9nVE92MGVaNDZwdFJyNVFBbWlraTM3RzN2aEJpUkhMbFMzQ3Jlb0t1NUFyS21fM01iWkZlczhBUjJOSm5ZMmlrenpkN05xVi1TeTfSAeoBQVVfeXFMT19qSFo5THZXTzNSeWFjZGNqVzdiOUxLc3lhaVp1Z0lPQjlvVDlVanJtRlZzVEQzYnZkdVAtdkJBQmdiUDdtMHVpZC0yRTJZQkVKQ05rek1qQlRpWHVnYkZqbHdVaEFmaExPVUJRRU1xbDVEWnR5Nk1ZOE1RdFliM0F2Z3RQRUxzMGRvcVU3Zk5qZjdnSXd6alRqdE9PcS14Y2ltWXl0amhmTWlBTXlhX181Tkl6Mm9valdid2FBTE5td1lZYjc0NzF1VkFXUnRUM1JVUThiRFl1d0Z2c3J5LXZWYUFmcVlPOGVB?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-01T13:58:44+00:00",
-      "image_url": "https://images.pexels.com/photos/4386403/pexels-photo-4386403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान के विदेश मंत्रालय के प्रवक्ता अब्बास अराघची ने पेंटागन पर आरोप लगाया है कि उन्होंने अमेरिका-ईरान संघर्ष की लागत को कम आंका है। अराघची ने कहा कि पेंटागन ने संघर्ष की वास्तविक लागत को छुपाने की कोशिश की है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका-ईरान संघर्ष में नया विवाद, अराघची ने पेंटागन पर युद्ध की लागत कम आंकने का लगाया आरोप",
-          "summary": "ईरान के विदेश मंत्रालय के प्रवक्ता अब्बास अराघची ने पेंटागन पर आरोप लगाया है कि उन्होंने अमेरिका-ईरान संघर्ष की लागत को कम आंका है। अराघची ने कहा कि पेंटागन ने संघर्ष की वास्तविक लागत को छुपाने की कोशिश की है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका से बातचीत के लिए ईरान ने पाकिस्तान को सौंपा अपना नया प्लान, UN महासचिव से की पड़ोसी देशों",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWphLTNPSFpOaEJXTW9vMmd2TUQ0NE5aUzUzbDhQbGlQNUhtYjhrWlcwS2YzODdyZXBfeXc4cVRVR0NJRy0yX1pVaFBtYlJ4c1VMNFZraXpFMG4wcnJsdWd0bGVILTNoSG0xNDdkTkZsbDdjRVpacUxXbzEyaTdnODhBWG1GdjJtcjlWWFMyNE5KQTFPZUtGWWpB?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-01T13:03:22+00:00",
-      "image_url": "https://images.pexels.com/photos/1119118/pexels-photo-1119118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने पाकिस्तान को अपना नया प्लान सौंपा है ताकि अमेरिका से बातचीत हो सके। ईरान ने UN महासचिव से शिकायत की है कि पड़ोसी देश उसकी सुरक्षा के लिए खतरा हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका से बातचीत के लिए ईरान ने पाकिस्तान को सौंपा अपना नया प्लान, UN महासचिव से की पड़ोसी देशों",
-          "summary": "ईरान ने पाकिस्तान को अपना नया प्लान सौंपा है ताकि अमेरिका से बातचीत हो सके। ईरान ने UN महासचिव से शिकायत की है कि पड़ोसी देश उसकी सुरक्षा के लिए खतरा हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'यह युद्ध नहीं, सिर्फ एक संघर्ष है': ईरान हमलों पर डोनाल्ड ट्रंप का अजीबोगरीब दावा, भारत-पाक लड़ाई",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeS1xWlNiQUU3eE94ZEQ2VDNjdHdHa2t6b0pnZHpiSTFINUFRUEtMN1pLQ1NaQ3lTeE14dzZkazJwd0NhRkxFc1ljNmJtMjN5UmZfWngtYnRsYU5RTkFqenM4RmdkRV9Kb2FhaGtzZUxQeGptNnFpSkhkdlZySjFEVlNLSEZjZklxajV0SV9Bb3REMzlCYUE?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-01T12:59:55+00:00",
-      "image_url": "https://images.pexels.com/photos/5483517/pexels-photo-5483517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि ईरान पर हमले \"युद्ध नहीं, सिर्फ एक संघर्ष है\"। उन्होंने भारत और पाकिस्तान के बीच लड़ाई रुकवाने की बात फिर से कही। 'यह युद्ध नहीं, सिर्फ एक संघर्ष है': ईरान हमलों पर डोनाल्ड ट्रंप का अजीबोगरीब दावा, भारत-पाक लड़ाई रुकवाने का फिर किया जिक्र IND24।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'यह युद्ध नहीं, सिर्फ एक संघर्ष है': ईरान हमलों पर डोनाल्ड ट्रंप का अजीबोगरीब दावा, भारत-पाक लड़ाई",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि ईरान पर हमले \"युद्ध नहीं, सिर्फ एक संघर्ष है\"। उन्होंने भारत और पाकिस्तान के बीच लड़ाई रुकवाने की बात फिर से कही। 'यह युद्ध नहीं, सिर्फ एक संघर्ष है': ईरान हमलों पर डोनाल्ड ट्रंप का अजीबोगरीब दावा, भारत-पाक लड़ाई रुकवाने का फिर किया जिक्र IND24।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOXcwaGs4MHRrZ1pzU0w1WmpOa1dKWC1lc2cwMERvVF90VzNiN0tYTWotQXJYVmVidDd3dEt4N0xpbWxjeXFoWXAxVV85UGdlVzZ1eFRvUEFqLXlSMjdvUm5JMUh5U204a2xOYlBYdjBLc2tHbko0MHB1aDZUTHNuSS1kUzM4bExsbVQ4enNfRnVkZFZ4Q0NCR1c3QnNPam5NSS1MaUFCREFyVHgzY1NfVEh2cEt6TmtxZkZ5THN1SXRmc3lhSkN0d3VQZGg3OHp0dkdiSHpMb2FReTV5ZFBRbFYxcWRJN1p2ejFWbVlDaUNCMFNXal9nT2pyU3BLNFlKZlHSAYcCQVVfeXFMT3VEemgzRjFFU0VmeFV2VlVoeFZmSXBpVXFOUGFOSTNXRU4xQUZTcGJRUFd0b2syVzJhN1FteUpHeVk2MjdCLVA0QkRqcWRuUlZOT1lRSG5idVU5X0JfYlRQTnRHVUFHSFh2c2RsZ19VajhmdGdhcTQ4WGhOTXhmZ0VUT2FoS2p6UDFSWkE3LXlXeEM2RmMzM1ZPZGd6OHpaYTg1UDVYX1NDa1ZaZ2lBalYyeWplelRTZlc4LWdKMnIzWG9UUmwxVFFYMnc5aXlCUnkxRkdhak9vMEFZY2VybDkwNmtHM0dHTzRSUnNwX05Mbm9ncDV3dElwbU40YkhCLXJ5clFmbms?oc=5",
+      "title": "बांग्लादेश सरकार ने भारतीय राजदूत को किया था तलब, अब पूर्व राजनयिकों ने समझा दी कूटनीति",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOcUJtbkVBVEhjSEY4TWhxSlZlYS1oV3FIa0h1NERwaWNibk9iVnQ5T0V0c01HSU9jcE93WGRuV2dpRmxYWU84dWZJNGhSZXBCREFOemt0eWx1RTFzYTZuSTV4bEs4clpjU24teV82MHNHa2lzYlpQdzlMaS10MWl3UjFEbGlIZmhHbUxIUlFVSU9LZldlNklwelU2YzlsdnhWdkF2MldZVGhnMWFXRElBbm42YmRxc2c5cEtCYTBEU2VRM1dZbEp0bmhlVm9mb1o3NjhZSUF4UWpYYndRRmNhMFFGQkhuYjNKeE9Qb2o0NDg2R2RNZGR4ZGdmX2ZpNlBYWGZKd1M4U2x2TzJHSEZXSjlmUzc2UFlVSmFRZlZiczVkWnlaOV9xLU8wUG5Ud2hqS2sxSmhZNkZwUC16ZXVwc1dzb0E2OFRtVFHSAc8CQVVfeXFMTy1FWDh4YzlFNHc1R3V4V08xUWlPY0tzRXVPVTJTTGhKWEV5SlFwdzFrRVpseXc0dHBrdFF6NF93WHAzRC12ZFYtbVpFRjdIcUowSnJLazBhY3ExejVTY0R0OXoxRHphQklaYUVqcTMwdmVYUG55OTdDWmFMelpKYzBiWHV4R2h1bmkxSTZMM1pSdUoxSTcwd2NxRnBtRzRxZUp5S09Bb1UxS2pJeXVuNFE4M3pUSm9MRVFCS25faFVvQ0F0MGVCMVBPR1pLeUdOWUkzZENzVkJiYkxvV1FPM1p0MTUya0pzSHJJWlZkaE1hMHpYc1RUTmtkR0xGVG5xUHFxNGJpUGF5R3VhUGtCYl8tX3dWSkhMZzJndnlhbnBOY1VSeWN4YXVxRkRRTERxeGRsMHFmX04tVTZQVEpxMXNKb3pfTEg1WklCVmFVaTA?oc=5",
       "source": "Google News Hindi (कूटनीति)",
       "sources": [],
-      "published_at": "2026-05-01T09:23:13+00:00",
-      "image_url": "https://images.pexels.com/photos/36212636/pexels-photo-36212636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "मई भारत के लिए कूटनीति के मोर्चे पर निर्णायक होगा। प्रधानमंत्री मोदी यूरोप का दौरा करेंगे और अमेरिका-रूस के विदेश मंत्री दिल्ली में बैठक करेंगे। Diplomatic Month for India: कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे Navbharat Times।",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-02T12:16:42+00:00",
+      "image_url": "https://images.pexels.com/photos/36953647/pexels-photo-36953647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "बांग्लादेश सरकार ने भारतीय राजदूत को तलब किया था, जिसके बाद पूर्व राजनयिकों ने कूटनीति की समझ दी। यह घटना बांग्लादेश और भारत के बीच के संबंधों को प्रभावित कर सकती है।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री",
-          "summary": "मई भारत के लिए कूटनीति के मोर्चे पर निर्णायक होगा। प्रधानमंत्री मोदी यूरोप का दौरा करेंगे और अमेरिका-रूस के विदेश मंत्री दिल्ली में बैठक करेंगे। Diplomatic Month for India: कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे Navbharat Times।",
-          "region": "यूरोप और रूस"
+          "title": "बांग्लादेश सरकार ने भारतीय राजदूत को किया था तलब, अब पूर्व राजनयिकों ने समझा दी कूटनीति",
+          "summary": "बांग्लादेश सरकार ने भारतीय राजदूत को तलब किया था, जिसके बाद पूर्व राजनयिकों ने कूटनीति की समझ दी। यह घटना बांग्लादेश और भारत के बीच के संबंधों को प्रभावित कर सकती है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
