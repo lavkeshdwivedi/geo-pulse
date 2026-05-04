@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-05-04T18:18:33.723218+00:00",
+  "generated_at": "2026-05-04T20:18:32.932266+00:00",
   "article_count": 42,
-  "total_unique_count": 250,
+  "total_unique_count": 251,
   "digest": {
-    "en": "US and Gulf Arab nations are drafting a new UN resolution on the Strait of Hormuz. The UAE reports Iran has resumed attacks amid rising tensions. Modi's BJP party won the West Bengal state election for the first time.",
-    "hi": "पश्चिम बंगाल और असम में चुनाव नतीजे सामने आ रहे हैं। ममता बनर्जी के मज़बूत क़िले में बीजेपी की एंट्री हुई है। केरल में कांग्रेस को बहुमत मिला है, शशि थरूर ने सीएम फ़ेस और बीजेपी पर बयान दिया है।"
+    "en": "Pinterest forecasts upbeat quarterly revenue due to resilient advertiser spending. Palantir also reported strong first-quarter revenue estimates driven by US government demand. Russia offers Ukraine a May 8-9 ceasefire amid WWII anniversary celebrations.",
+    "hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है कि अगर उसने अमेरिकी जहाजों पर हमला किया तो वह दुनिया के नक्शे से मिटा दिया जाएगा। ट्रंप के इस बयान के बाद संयुक्त राष्ट्र सुरक्षा परिषद में ईरान के खिलाफ एक प्रस्ताव पेश किया गया है। होर्मुज जलडमरूमध्य में तनाव बढ़ गया है।"
   },
   "articles": [
+    {
+      "title": "Pinterest forecasts upbeat quarterly revenue on resilient advertiser spending",
+      "url": "https://www.channelnewsasia.com/business/pinterest-forecasts-upbeat-quarterly-revenue-resilient-advertiser-spending-6099381",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-04T20:08:39+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--qMkJ4_eG--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T200839Z_1_LYNXMPEM431A7_RTROPTP_3_PINTEREST-RESULTS.JPG?itok=Tbb0UR_p",
+      "summary": "Pinterest forecasts upbeat quarterly revenue due to resilient advertiser spending. The company expects a positive outlook for the quarter. Pinterest forecasts upbeat quarterly revenue on resilient advertiser spending.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Palantir tops first-quarter revenue estimates on strong US government demand",
+      "url": "https://www.channelnewsasia.com/business/palantir-tops-first-quarter-revenue-estimates-strong-us-government-demand-6099386",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-04T20:08:02+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Na_GoxcH--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T200802Z_1_LYNXMPEM431A3_RTROPTP_3_SWISS-SNB-SHAREHOLDERS-PALANTIR.JPG?itok=gcRs6xAE",
+      "summary": "Palantir's first-quarter revenue exceeded estimates, driven by strong demand from the US government. The company's revenue growth was fueled by government contracts. Palantir tops first-quarter revenue estimates on strong US government demand.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Attacks in Gulf Threaten to Reignite Conflict",
+      "url": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-04T20:05:05+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/live-blog-20260504-iran-hormuz-ships-navy-header-fmgb/live-blog-20260504-iran-hormuz-ships-navy-header-fmgb-mediumSquareAt3X.jpg",
+      "summary": "US warships shot down missiles and drones targeting ships in the Strait of Hormuz. The United Arab Emirates attributed a drone attack to Iran. U. S. warships shot down missiles and drones aimed at ships the Navy was guiding through the Strait of Hormuz, and the authorities in the United Arab Emirates blamed Iran for a drone attack.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in",
+      "url": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
+      "sources": [],
+      "published_at": "2026-05-04T19:31:00+00:00",
+      "image_url": "https://static.dw.com/image/72466617_6.jpg",
+      "summary": "Russia proposed a two-day ceasefire in Ukraine on May 8-9, amid World War II anniversary commemorations in Moscow. President Putin declared the truce unilaterally. President Putin has unilaterally declared a two-day truce amid commemorations of the end of World War II in Moscow.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UAE shoots down Iranian missiles for first time since ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSFZBbWp5YmhtN0JINER4Zk5Ib0Z6MmJGZDAwMWhKWFRSc2NTaE1MbW81cnZCb2ZHOTFTaE15dWp1bUR3Zy12MzdJbzRKdldvUFhzQV9LVEE2NFcyYnQxbGhxeFdxUFpNVHVwVHNTTG5vRi01TWdHeFhTc2VNOFg2cThMQ2VLWjk3UVVzbkg1Z1ZqWEtLeTN5Skhqd2VWVEpFNTIyUTlBWkFrM0JNWFM3c1VrVFJNZw?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-04T19:15:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14403532/pexels-photo-14403532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The UAE shot down Iranian missiles for the first time since a ceasefire, marking a significant escalation in the region's tensions. Iran latest: UAE shoots down Iranian missiles for first time since ceasefire The Times.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran-US clash over alleged warship attack in Strait of Hormuz",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-us-clash-over-alleged-warship-attack-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-04T19:02:46+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777921343.jpg?resize=1620%2C1080&quality=80",
+      "summary": "Iran claims its navy forced a US warship to retreat from the Strait of Hormuz. The US denied any clash occurred between the two navies. Iran claims its navy forced a US warship to turn back from the Strait of Hormuz as Washington denies any clash.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Zambia delaying US deals over minerals and data demands",
+      "url": "https://www.aljazeera.com/news/2026/5/4/zambia-delaying-us-deals-over-minerals-and-data-demands?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-04T18:50:52+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_69f8c1e097-1777910240.jpg?resize=1920%2C1440",
+      "summary": "Zambia is delaying US deals over demands for minerals and data, citing concerns over strategic autonomy. The government prefers partnerships over aid and has rejected US funds. Government calls for partnership not aid as it rejects US funds due to strategic autonomy concerns.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UN accuses Iran of executing dozens, arresting thousands for dissenting",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdjdDbWxmaTJqMEV6d3BYT0V2Ry01OUVlZzZIQTRuVmFoSmItbWhzX0FoVktFZndJTWwxWkVnSTVGNlJXS19qWXY0R20zYk1zVzUtSGg1cWNLZWpNZWF5d2dzcW91emdIdXhvX3BXc211ekhRQUJiVmZ1OW56QU1ZSTE5UFhNSTluQldaUndlSDR6dXRjVDFWTlpZSi11dFhoSG9kNEJhejY2cWc2Sk05WlYtYXhZVDhLQVcwTDd2SDM1MWxNLXhzWEpaZ3FzNHU1alJaY0RWYks0Zkstdl9maFpOM3UyQXUwRVBMNW9fWG1sbnNfTVhHSW9B?oc=5",
+      "source": "Google News (United Nations)",
+      "sources": [],
+      "published_at": "2026-05-04T18:44:49+00:00",
+      "image_url": "https://images.pexels.com/photos/30541596/pexels-photo-30541596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The UN accused Iran of executing dozens and arresting thousands of people for dissenting. The allegations were made by the UN's fact-checking team. Fact Check Team: UN accuses Iran of executing dozens, arresting thousands for dissenting KATU.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Mali junta leader names himself defence minister after predecessor killed",
+      "url": "https://www.bbc.com/news/articles/c8r8jr7x8mlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-04T18:31:38+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90f4/live/8072f230-47dc-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "Mali's junta leader appointed himself defence minister after his predecessor, Sadio Camara, was killed. Camara died in a jihadist and separatist forces attack. Former Defence Minister Sadio Camara was killed in a massive offensive by combined jihadist and separatist forces.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+      "url": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-04T18:03:03+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/04int-russia-attack-zgkl/04int-russia-attack-zgkl-mediumSquareAt3X.jpg",
+      "summary": "A drone hit a Moscow high-rise, breaching the city's air defenses, days before a major military parade. The incident occurred as Ukraine expands its long-range strikes. Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Europe, Canada pull together in Yerevan in Trump's shadow",
       "url": "https://www.thehindu.com/news/international/europe-canada-pull-together-in-yerevan-in-trumps-shadow/article70940279.ece",
@@ -32,6 +152,30 @@
       "translations": {}
     },
     {
+      "title": "Putin declares May 8-9 ceasefire with Ukraine to mark WWII anniversary, Defence Ministry says",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY25USlR0TC1kWDVRZk13TENhemM3cEZIWVgtUVpsZGxHc05uMzI1Tml2eXVYNFlmQkp0el80NDJnWFBlU3NuWVc1YUZJQkhxVHhac1Nwd0pWc3A3UHpFbDJQd3k0NmhwTFpqeXZGS0ZkbE9iMTFEN0dJZklwTm1yUW1zYkxmUUtDYV8wTVEzbVlDUDJKcE9Kam9sYzBScDhScmRsV3Y1cUQ1N09vbW9VRm1ic29lS1lKV1BNUGNTMA?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-04T17:56:05+00:00",
+      "image_url": "https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Putin declared a May 8-9 ceasefire with Ukraine to mark the WWII anniversary. Putin declares May 8-9 ceasefire with Ukraine to mark WWII anniversary, agencies say Reuters. Putin declares May 8-9 ceasefire with Ukraine to mark WWII anniversary, Defence Ministry says Reuters.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "3 Indians Injured In Drone Attack By Iran In UAE's Fujairah",
+      "url": "https://www.ndtv.com/world-news/3-indians-injured-in-drone-attack-by-iran-in-uaes-fujairah-11448868#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-04T17:52:03+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/7pk112t_uae-fujairah_625x300_04_May_26.jpg",
+      "summary": "Three Indians were injured in a drone attack by Iran in the UAE's Fujairah. The emirate's energy infrastructure has been targeted before. This is not the first time Fujairah's energy infrastructure has been targeted.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Modi’s B.J.P. Wins West Bengal State Election for the First Time",
       "url": "https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html",
       "source": "NYT World",
@@ -40,18 +184,6 @@
       "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/04INT-INDIA-ELECTIONS-01-zgwb/04INT-INDIA-ELECTIONS-01-zgwb-mediumSquareAt3X.jpg",
       "summary": "The B. J. P., led by Prime Minister Narendra Modi, won control of West Bengal for the first time in state elections. Its opponents accused the party of cheating. The party of Prime Minister Narendra Modi took control of West Bengal for the first time and made gains around the country.",
       "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UAE says Iran has resumed attacks as the US moves to reopen the Strait of Hormuz",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXUxRXhtVUx6WExNYkQ1QmxKMlI0S1I4bElVWF9JQTFUUGNGU1B6M0VreHFUN2MwZDNId1NiS3NGRTdqMjNUd3IzLUtCbWV3bXBrRVhQS2c1RGxYN1gwT1dxbmpLS0tJTTc5S0lUbFg3WjJ2LUdBV0djXzNzYVpOSGRycU5OZVVFaTVWV09YcER0YmpTTHB6ems1ZVRuSll4cWw0?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-05-04T17:43:00+00:00",
-      "image_url": "https://images.pexels.com/photos/32632513/pexels-photo-32632513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Iran resumed attacks as the US moved to reopen the Strait of Hormuz. UAE says Iran has resumed attacks as the US moves to reopen the Strait of Hormuz AP News.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -68,50 +200,26 @@
       "translations": {}
     },
     {
-      "title": "UAE shoots down Iranian missiles for first time since ceasefire",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSFZBbWp5YmhtN0JINER4Zk5Ib0Z6MmJGZDAwMWhKWFRSc2NTaE1MbW81cnZCb2ZHOTFTaE15dWp1bUR3Zy12MzdJbzRKdldvUFhzQV9LVEE2NFcyYnQxbGhxeFdxUFpNVHVwVHNTTG5vRi01TWdHeFhTc2VNOFg2cThMQ2VLWjk3UVVzbkg1Z1ZqWEtLeTN5Skhqd2VWVEpFNTIyUTlBWkFrM0JNWFM3c1VrVFJNZw?oc=5",
-      "source": "Google News (war ceasefire)",
+      "title": "Two killed after car hits bystanders in Leipzig driver arrested",
+      "url": "https://www.thehindu.com/news/international/two-killed-after-car-hits-bystanders-in-leipzig-driver-arrested/article70940207.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-04T17:31:05+00:00",
-      "image_url": "https://images.pexels.com/photos/14403532/pexels-photo-14403532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The UAE shot down Iranian missiles for the first time since a ceasefire, marking a significant escalation in the region's tensions. Iran latest: UAE shoots down Iranian missiles for first time since ceasefire The Times.",
+      "published_at": "2026-05-04T17:26:03+00:00",
+      "image_url": "https://th-i.thgim.com/public/latest-news/8wn1xh/article70940244.ece/alternates/LANDSCAPE_1200/AFP__20260504__A9RV243__v1__HighRes__GermanyPoliceCrime.jpg",
+      "summary": "Two people were seriously injured in Leipzig after a car hit bystanders. The driver was arrested. A city spokesperson confirmed the incident. A spokesperson for ⁠the city’s mayor said that two people were seriously injured.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "World Must Hold U.S. Responsible for Making Strait of Hormuz Unsafe",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS19jbkhDWXpXZ2RkV25HT3BpdnlNQ1U2MHBNQkJ1LUZJcUwxWl9NbzhGZFY3MUMteHE4a0RROE1QYlhMdmRzaEg2eGU0Y2VtNnV1Z3pLNUhqbTNLUUM1RWlldE5Zb0xYRHBGejJBdFBzUjdmWEpjQjRIeldrWXNYMzlnT2xnTjB2WHNYbVZZSU0xb0ZRWFdPbGI5RC1hcDF2RmxlUWhhTQ?oc=5",
+      "source": "Google News (global security)",
+      "sources": [],
+      "published_at": "2026-05-04T17:10:23+00:00",
+      "image_url": "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iran's government says the US is responsible for making the Strait of Hormuz unsafe. The statement was made in response to US naval activities in the region. Iran: World Must Hold U. S.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US Supreme Court temporarily lifts ban on abortion pill mail delivery",
-      "url": "https://www.aljazeera.com/news/2026/5/4/us-supreme-court-temporarily-lifts-ban-on-abortion-pill-mail-delivery?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-04T17:29:33+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP25241487853123-1777912792.jpg?resize=1200%2C675",
-      "summary": "The US Supreme Court lifted a ban on abortion pill mail delivery for at least one week. This restores telehealth access to mifepristone. Top court restores telehealth access to mifepristone for at least one week as legal challenges to medication play out.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Putin declares May 8-9 ceasefire with Ukraine to mark WWII anniversary, agencies say",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY25USlR0TC1kWDVRZk13TENhemM3cEZIWVgtUVpsZGxHc05uMzI1Tml2eXVYNFlmQkp0el80NDJnWFBlU3NuWVc1YUZJQkhxVHhac1Nwd0pWc3A3UHpFbDJQd3k0NmhwTFpqeXZGS0ZkbE9iMTFEN0dJZklwTm1yUW1zYkxmUUtDYV8wTVEzbVlDUDJKcE9Kam9sYzBScDhScmRsV3Y1cUQ1N09vbW9VRm1ic29lS1lKV1BNUGNTMA?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-05-04T17:28:42+00:00",
-      "image_url": "https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Putin declared a May 8-9 ceasefire with Ukraine to mark the WWII anniversary. Putin declares May 8-9 ceasefire with Ukraine to mark WWII anniversary, agencies say Reuters.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "LIV Golf hires investment bank to advise on new multi-partner model",
-      "url": "https://www.channelnewsasia.com/sport/liv-golf-hires-investment-bank-advise-new-multi-partner-model-6099121",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-04T16:54:03+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--kJmUiRbI--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T165403Z_1_LYNXMPEM4313Q_RTROPTP_3_GOLF-LIV.JPG?itok=NaawfR4r",
-      "summary": "LIV Golf hired an investment bank to advise on a new multi-partner model. LIV Golf hires investment bank to advise on new multi-partner model.",
-      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -152,112 +260,76 @@
       "translations": {}
     },
     {
-      "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-      "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "ट्रंप की ईरान को चेतावनी, कहा- अमेरिकी जहाजों पर किया हमला तो दुनिया के नक्शे से मिटा देंगे",
+      "url": "https://www.amarujala.com/world/donald-trump-iran-warning-strait-of-hormuz-us-navy-project-freedom-west-asia-tensions-2026-05-05",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-04T16:24:50+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1bb/live/46584a70-47da-11f1-906e-5bd3c4d4c16e.jpg",
-      "summary": "A car drove into a crowd in Leipzig, killing two and injuring many. Mayor Burkhard Jung said a suspect was detained. Two killed and many injured after car driven into crowd in German city of Leipzig.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-05T07:20:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/03/trump-keeps-us-up-in-the-air-with-his-hints-of-whats-coming-in-a-new-batch-of-ufo-files_55615c5244d4a6f6956f3fea645d41d6.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी कि अगर उसने अमेरिकी जहाजों पर हमला किया तो वह दुनिया के नक्शे से मिटा दिया जाएगा। यह बयान स्ट्रेट ऑफ होर्मुज में अमेरिकी नौसेना की उपस्थिति के बीच आया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की ईरान को चेतावनी, कहा- अमेरिकी जहाजों पर किया हमला तो दुनिया के नक्शे से मिटा देंगे",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी कि अगर उसने अमेरिकी जहाजों पर हमला किया तो वह दुनिया के नक्शे से मिटा दिया जाएगा। यह बयान स्ट्रेट ऑफ होर्मुज में अमेरिकी नौसेना की उपस्थिति के बीच आया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "GameStop targets eBay with unsolicited $56bn acquisition offer",
-      "url": "https://www.aljazeera.com/economy/2026/5/4/gamestop-targets-ebay-with-unsolicited-56bn-acquisition-offer?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "बंगाल-असम में चला भाजपा का जादू, तमिलनाडु में 'विजय'; केरल में UDF को जीत",
+      "url": "https://www.amarujala.com/live/india-news/assembly-election-result-live-bengal-assam-tamil-nadu-puducherry-kerala-vidhan-sabha-chunav-political-reaction-2026-05-05",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-04T16:23:41+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69f8b316-1777906454.jpg?resize=1920%2C1440",
-      "summary": "GameStop made a $56bn unsolicited acquisition offer to eBay. eBay confirmed receiving the offer with no prior discussions. eBay confirms receiving GameStop's offer, with no prior discussions between the companies.",
+      "published_at": "2026-05-04T19:39:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/05/assembly-election-result-2026_7d176039ce32a482aa3d8f4c9cbe8ba1.jpeg?w=750&dpr=1.0",
+      "summary": "भारतीय जनता पार्टी ने पश्चिम बंगाल और असम में अच्छा प्रदर्शन किया, जबकि तमिलनाडु में अन्नाद्रमुक को जीत मिली। केरल में यूनाइटेड डेमोक्रेटिक फ्रंट ने जीत हासिल की। पांचों राज्यों के विधानसभा चुनाव परिणाम घोषित किए गए।",
       "region": "World",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंगाल-असम में चला भाजपा का जादू, तमिलनाडु में 'विजय'; केरल में UDF को जीत",
+          "summary": "भारतीय जनता पार्टी ने पश्चिम बंगाल और असम में अच्छा प्रदर्शन किया, जबकि तमिलनाडु में अन्नाद्रमुक को जीत मिली। केरल में यूनाइटेड डेमोक्रेटिक फ्रंट ने जीत हासिल की। पांचों राज्यों के विधानसभा चुनाव परिणाम घोषित किए गए।",
+          "region": "दुनिया"
+        }
+      }
     },
     {
-      "title": "The UAE says Iran resumes attacks as the U.S. moves to reopen the Strait of Hormuz",
-      "url": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates",
-      "source": "NPR World",
+      "title": "चीन-रूस ने वीटो से किया था खेल, अब ईरान के खिलाफ ट्रंप ने बनाया नया प्‍लान, होर्मुज पर UNSC में जंग",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUVdUb2Zvc1U3UkpvSzdadERLb3NWVWdQQzZkMHF3bWllUjYwcnBwXzRrc19ZMkFYMjRHVEptaTZxVUdMR09kZ0txQU5uRWRzd21aaEJKVnlTakZjczhuZkFiTFRxMmVJbFlvVG1hdlp6TUFwdXgybUpDbkNiMVd0R2daeEh6RFVCWWdodGo5UV9BcUtBWFh1S3R3Q3RzTFBHMWU3WHV6S0NUNnZheXJFaHpOMEhzaGdQM3hGeVVYMEpVbjJtbE9JeEpmc0tJNE5Lbjg4bEZ1RzlRamZrS1NNbFBtTEtscGktaEdPMVFORzcwR3ZCcmI4dkV5eVE0d2xvSW13VUhR0gGGAkFVX3lxTFBRV1RvZm9zVTdSSm9LN1p0REtvc1ZVZ1BDNmQwcXdtaWVSNjBycHBfNGtzX1kyQVgyNEdUSm1pNnFVR0xHT2RnS3FBTm5FZHN3bVpoQkpWeVNqRmNzOG5mQWJMVHEyZUlsWW9UbWF2WnpNQXB1eDJtSkNuQ2IxV3RHZ1p4SHpEVUJZZ2h0ajlRX0FxS0FYWHVLdHdDdHNMUEcxZTdYdXpLQ1Q2dmF5ckVoek4wSHNoZ1AzeEZ5VVgwSlVuMm1sT0l4SmZzS0k0TktuODhsRnVHOVFqZmtLU01sUG1MS2xwaS1oR08xUU5HNzBHdkJyYjh2RXl5UTR3bG9JbXdVSFE?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-04T16:08:35+00:00",
-      "image_url": "https://images.pexels.com/photos/32632513/pexels-photo-32632513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The US helped two merchant ships transit the Strait of Hormuz. The U. S. military said it helped two merchant ships transit the Strait of Hormuz, and the United Arab Emirates said it was fending off Iranian missiles and drones.",
+      "published_at": "2026-05-04T18:29:42+00:00",
+      "image_url": "https://images.pexels.com/photos/404995/pexels-photo-404995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के खिलाफ एक नया प्लान बनाया है, जिसमें स्ट्रेट ऑफ होर्मुज पर संयुक्त राष्ट्र सुरक्षा परिषद में चर्चा की जाएगी। इससे पहले चीन और रूस ने ईरान के खिलाफ प्रस्तावों को वीटो कर दिया था।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन-रूस ने वीटो से किया था खेल, अब ईरान के खिलाफ ट्रंप ने बनाया नया प्‍लान, होर्मुज पर UNSC में जंग",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के खिलाफ एक नया प्लान बनाया है, जिसमें स्ट्रेट ऑफ होर्मुज पर संयुक्त राष्ट्र सुरक्षा परिषद में चर्चा की जाएगी। इससे पहले चीन और रूस ने ईरान के खिलाफ प्रस्तावों को वीटो कर दिया था।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
-      "url": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
-      "source": "The Guardian",
+      "title": "ममता बनर्जी को भवानीपुर में शुभेंदु अधिकारी ने हराया, बोले- ये हिंदुत्व की जीत",
+      "url": "https://www.bbc.com/hindi/articles/cp8p326r6pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-04T15:58:29+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/aba8b5e28f1aa86f821f6f11d8842b01d715a060/25_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=283717ee39d6d0a0dc0c0ab1119f040c",
-      "summary": "A Nigerian refinery, accused of sacking union members, is crucial to the UK's plan to address a jet fuel shortage. The UK government hopes to import more fuel from the US and West Africa to mitigate the crisis.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UAE reports missile and drone strikes incoming from Iran",
-      "url": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-04T15:37:11+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2020/07/13992a64785845d8a348139f54f4e9d3_18.jpeg?resize=1200%2C675",
-      "summary": "The UAE reported incoming missile and drone strikes from Iran, with no immediate reports of casualties. Iran has not commented on the incident, which raises concerns about the escalating tensions in the region.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran attacks UAE; U.S. says it sank boats in Strait of Hormuz",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByLV96V2VpZ1pqZDRiM0FacG1IZzQ5OUJ1ZTJIb3dRdXI5bzcyUUNJMkFfaWI2OXlzM2pjNTVRRkl6ekpCNmd1bzBGRUhNMWMyRzF4N1BZbTdITUpaU3E0RTk5NjdzbXZnUThsY2NuaFJ2YV9PNVV1U01zNS1BeEHSAYQBQVVfeXFMUDRJSFFQSmlJZGR5LW93VXZxUmRZMkZpV1dmWTJLSmFfMHRmdmwxQnJQM21xalJpSC00dVh1WDVXaUhrNDFqSXVoYW9yMS1vS2lwYTZhQjdVVUVaanMzYWJMX0ZiTzRqT3pUWThOQWRWSm9vYmdvRkdXNkE0ZXR5NkwtNDdR?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-05-04T15:21:26+00:00",
-      "image_url": "https://images.pexels.com/photos/16774829/pexels-photo-16774829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The UAE stated it was under attack from Iranian missiles and drones, despite a ceasefire. The incident highlights the ongoing security challenges in the region, with the UAE facing continued threats from Iranian actions.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran Fires 'Warning Shots' At US Warships In Strait Of Hormuz",
-      "url": "https://www.ndtv.com/world-news/iran-fires-warning-shots-at-us-warships-in-strait-of-hormuz-11448296#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-04T15:05:26+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-01/bohvqalc_uss-abraham-lincoln_625x300_27_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Iranian forces fired warning shots at US warships in the Strait of Hormuz, according to reports. The incident occurred amid heightened tensions between the two nations. The Fars news agency had earlier reported that Iran hit a US warship with missiles.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "South Korean Ship Targeted Amid Tensions In Hormuz",
-      "url": "https://www.ndtv.com/world-news/south-korean-cargo-vessel-targeted-amid-tensions-in-strait-of-hormuz-11448223#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-04T14:54:26+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/o52a7sdo_strait-of-hormuz-_625x300_18_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "A South Korean ship was targeted in the Strait of Hormuz. The 24 crew members on board reported no casualties. There had been \"no casualties to date\" among the 24 crew members on board (file image).",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "OCBC to buy HSBC wealth, premier banking portfolio in Indonesia",
-      "url": "https://www.channelnewsasia.com/business/ocbc-buy-hsbc-wealth-premier-banking-portfolio-indonesia-6098621",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-04T14:25:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--BeUmi2qD--/c_crop,h_449,w_799,x_1,y_45/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T133527Z_2_LYNXMPEM430QB_RTROPTP_3_OCBC-RESULTS.JPG?itok=ny7o00i0",
-      "summary": "OCBC will buy HSBC's wealth and premier banking portfolio in Indonesia, increasing its assets under management by 25 per cent. The deal will transfer HSBC Indonesia's International Wealth and Premier Banking portfolio to PT Bank OCBC NISP, or OCBC Indonesia, and is expected to increase OCBC Indonesia's assets under management by 25 per cent.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-04T16:24:08+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8344/live/0ffdfc80-47cc-11f1-b55d-0f258dce1735.jpg",
+      "summary": "पश्चिम बंगाल में भारतीय जनता पार्टी ने अच्छा प्रदर्शन किया और 200 से अधिक सीटों पर जीत दर्ज करने की ओर है। मुख्यमंत्री ममता बनर्जी को भवानीपुर में शुभेंदु अधिकारी ने हराया, जिन्होंने इसे हिंदुत्व की जीत बताया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ममता बनर्जी को भवानीपुर में शुभेंदु अधिकारी ने हराया, बोले- ये हिंदुत्व की जीत",
+          "summary": "पश्चिम बंगाल में भारतीय जनता पार्टी ने अच्छा प्रदर्शन किया और 200 से अधिक सीटों पर जीत दर्ज करने की ओर है। मुख्यमंत्री ममता बनर्जी को भवानीपुर में शुभेंदु अधिकारी ने हराया, जिन्होंने इसे हिंदुत्व की जीत बताया।",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "ममता बनर्जी, शुभेंदु अधिकारी और विजय के साथ-साथ चर्चित चेहरों की सीट का हाल जानिए",
@@ -314,6 +386,24 @@
       }
     },
     {
+      "title": "कूटनीति या टकराव, समाधान का रास्ता क्या है?",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RUUhzNGhDa1hqMmRneGVlNjhVUk02YWU4MF85RE9zTXVNVTg3MDJrc3hWdkFtYy16WGE2MHI1UXpHYUg5cDNfQS1tZktoT2dGMlY0azdR?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-04T15:22:10+00:00",
+      "image_url": "https://images.pexels.com/photos/13610375/pexels-photo-13610375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "नेपाल और चीन के बीच लिपुलेक विवाद को लेकर कूटनीतिक प्रयास जारी हैं। दोनों देशों के बीच सीमा विवाद को सुलझाने के लिए बातचीत हो रही है, लेकिन अभी तक कोई समाधान नहीं निकला है।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कूटनीति या टकराव, समाधान का रास्ता क्या है?",
+          "summary": "नेपाल और चीन के बीच लिपुलेक विवाद को लेकर कूटनीतिक प्रयास जारी हैं। दोनों देशों के बीच सीमा विवाद को सुलझाने के लिए बातचीत हो रही है, लेकिन अभी तक कोई समाधान नहीं निकला है।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
       "title": "केरल में कांग्रेस को बहुमत, सीएम फ़ेस और बीजेपी पर क्या बोले शशि थरूर?",
       "url": "https://www.bbc.com/hindi/articles/c4g0ln0r79qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -346,6 +436,24 @@
           "title": "पश्चिम बंगाल, असम चुनाव के नतीजों में एसआईआर की कितनी भूमिका",
           "summary": "पश्चिम बंगाल और असम चुनाव में एसआईआर की भूमिका महत्वपूर्ण थी. योगेंद्र यादव ने बताया कि एसआईआर के परिणामों पर कितना प्रभाव पड़ा. एसआईआर के बाद ये चुनाव हो रहे थे.",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बेसेंट ने चीन से होर्मुज जलडमरूमध्य पर ईरान के साथ कूटनीति बढ़ाने का आग्रह किया",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZRUhPNVBOWlRrQnB0bExTaEVyQi1NMmFYWGNBc0gwNF9pUnYwbnVobTFfX2JOeVQ5bldzemVTNy1nR1VzcnV6eTVQQ1c2S2lKWk9FZk1JYVNjenpZczRjNE9WcnNzQ2xTZ05zd21JSQ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-04T13:24:00+00:00",
+      "image_url": "https://images.pexels.com/photos/25310895/pexels-photo-25310895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज ने चीन से अनुरोध किया है कि वह ईरान के साथ होर्मुज जलडमरूमध्य पर कूटनीति बढ़ाए। अल्बनीज ने इस मुद्दे पर चर्चा के लिए चीन के साथ बातचीत की आवश्यकता पर जोर दिया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बेसेंट ने चीन से होर्मुज जलडमरूमध्य पर ईरान के साथ कूटनीति बढ़ाने का आग्रह किया",
+          "summary": "ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज ने चीन से अनुरोध किया है कि वह ईरान के साथ होर्मुज जलडमरूमध्य पर कूटनीति बढ़ाए। अल्बनीज ने इस मुद्दे पर चर्चा के लिए चीन के साथ बातचीत की आवश्यकता पर जोर दिया।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -440,114 +548,6 @@
       }
     },
     {
-      "title": "अखिल गोगोई बने विपक्ष का इकलौता प्रमुख चेहरा, शिवसागर सीट पर हासिल की बड़ी जीत",
-      "url": "https://www.amarujala.com/india-news/akhil-gogoi-lone-prominent-voice-in-opposition-camp-to-win-assam-assembly-polls-raijor-dal-bjp-2026-05-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-04T06:13:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/23/akhal-gagaii_2a5aa85993875b6dd059a87fa66e5588.jpeg?w=750&dpr=1.0",
-      "summary": "असम में विपक्ष के इकलौते प्रमुख चेहरे अखिल गोगोई ने शिवसागर सीट पर बड़ी जीत हासिल की है. उनकी पार्टी राजजोर दल ने अच्छा प्रदर्शन किया और उन्हें विधानसभा में मजबूत उपस्थिति मिली है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अखिल गोगोई बने विपक्ष का इकलौता प्रमुख चेहरा, शिवसागर सीट पर हासिल की बड़ी जीत",
-          "summary": "असम में विपक्ष के इकलौते प्रमुख चेहरे अखिल गोगोई ने शिवसागर सीट पर बड़ी जीत हासिल की है. उनकी पार्टी राजजोर दल ने अच्छा प्रदर्शन किया और उन्हें विधानसभा में मजबूत उपस्थिति मिली है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मुंबई इंडियंस का आईपीएल में सबसे बड़ा रन चेज, आठ गेंद शेष रहते लखनऊ को हराया; रोहित-रिकेल्टन चमके",
-      "url": "https://www.amarujala.com/cricket/cricket-news/ipl-2026-mi-vs-lsg-result-mumbai-indians-vs-lucknow-super-giants-key-highlights-analysis-points-table-update-2026-05-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-04T06:10:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/ipl_d188c4322c7f66d6a235e7a99b6426b4.jpeg?w=750&dpr=1.0",
-      "summary": "मुंबई इंडियंस ने लखनऊ सुपर जाएंट्स को हराकर आईपीएल में सबसे बड़ा रन चेज किया. रोहित शर्मा और रेयान रिकेल्टन के बीच हुई शानदार साझेदारी ने टीम को जीत दिलाई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुंबई इंडियंस का आईपीएल में सबसे बड़ा रन चेज, आठ गेंद शेष रहते लखनऊ को हराया; रोहित-रिकेल्टन चमके",
-          "summary": "मुंबई इंडियंस ने लखनऊ सुपर जाएंट्स को हराकर आईपीएल में सबसे बड़ा रन चेज किया. रोहित शर्मा और रेयान रिकेल्टन के बीच हुई शानदार साझेदारी ने टीम को जीत दिलाई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "विजय को फिल्म इंडस्ट्री से मिली बधाइयां; केरल में 1,23,067 लोगों ने चुना नोटा",
-      "url": "https://www.amarujala.com/live/india-news/assembly-election-result-live-assam-tamil-nadu-puducherry-kerala-vidhan-sabha-chunav-vote-counting-news-2026-05-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-04T06:03:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/assembly-election-result-live-assam-tamil-nadu-puducherry-kerala-vidhan-sabha-chunav-vote-counting-n_add755ef6d5e114173aaf75e1b66521c.jpeg?w=750&dpr=1.0",
-      "summary": "केरल में विधानसभा चुनावों में विजय को फिल्म इंडस्ट्री से बधाइयां मिली हैं. वहीं, 1,23,067 लोगों ने नोटा का विकल्प चुना, जो एक उच्च संख्या है. विजय को फिल्म इंडस्ट्री से मिली बधाइयां; केरल में 1,23,067 लोगों ने चुना नोटा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विजय को फिल्म इंडस्ट्री से मिली बधाइयां; केरल में 1,23,067 लोगों ने चुना नोटा",
-          "summary": "केरल में विधानसभा चुनावों में विजय को फिल्म इंडस्ट्री से बधाइयां मिली हैं. वहीं, 1,23,067 लोगों ने नोटा का विकल्प चुना, जो एक उच्च संख्या है. विजय को फिल्म इंडस्ट्री से मिली बधाइयां; केरल में 1,23,067 लोगों ने चुना नोटा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मुंबई इंडियंस ने लखनऊ को छह विकेट से हराया, रोहित-रिकेल्टन ने जड़े अर्धशतक",
-      "url": "https://www.amarujala.com/live/cricket/cricket-news/mi-vs-lsg-live-cricket-score-mumbai-indians-vs-lucknow-super-giants-ipl-2026-47th-match-updates-2026-05-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-04T05:50:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/ipl_ece034d5b02f9cc1833b427027e0d781.jpeg?w=750&dpr=1.0",
-      "summary": "मुंबई इंडियंस ने लखनऊ सुपर जाएंट्स को छह विकेट से हराया। रोहित शर्मा और रेयान रिकेल्टन ने अर्धशतक जड़े। इस जीत से मुंबई इंडियंस ने इंडियन प्रीमियर लीग 2026 में जीत की पटरी पर लौटने में सफलता पाई।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुंबई इंडियंस ने लखनऊ को छह विकेट से हराया, रोहित-रिकेल्टन ने जड़े अर्धशतक",
-          "summary": "मुंबई इंडियंस ने लखनऊ सुपर जाएंट्स को छह विकेट से हराया। रोहित शर्मा और रेयान रिकेल्टन ने अर्धशतक जड़े। इस जीत से मुंबई इंडियंस ने इंडियन प्रीमियर लीग 2026 में जीत की पटरी पर लौटने में सफलता पाई।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'भाजपा ने 'दीदीवाद' का पर्दाफाश किया'; पश्चिम बंगाल चुनाव परिणामों पर मुकेश खन्ना का रिएक्शन",
-      "url": "https://www.amarujala.com/entertainment/shaktimaan-fame-mukesh-khanna-reaction-on-west-bengal-election-results-defeating-tmc-bjp-victory-2026-05-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-04T05:39:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/makasha-khanana_bcd93571bc6b70eabab7bbc334c47e79.jpeg?w=750&dpr=1.0",
-      "summary": "भारतीय जनता पार्टी ने पश्चिम बंगाल विधानसभा चुनावों में जीत हासिल की। टीएमसी को हराकर बीजेपी ने बढ़त बनाई। मुकेश खन्ना ने कहा कि भाजपा ने 'दीदीवाद' का पर्दाफाश किया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'भाजपा ने 'दीदीवाद' का पर्दाफाश किया'; पश्चिम बंगाल चुनाव परिणामों पर मुकेश खन्ना का रिएक्शन",
-          "summary": "भारतीय जनता पार्टी ने पश्चिम बंगाल विधानसभा चुनावों में जीत हासिल की। टीएमसी को हराकर बीजेपी ने बढ़त बनाई। मुकेश खन्ना ने कहा कि भाजपा ने 'दीदीवाद' का पर्दाफाश किया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "निसान ग्रेवाइट का नया सीएनजी अवतार, 7-सीटर स्पेस से समझौता किए बिना अब बचाएं ईंधन का खर्च",
-      "url": "https://www.amarujala.com/automobiles/nissan-gravite-cng-launched-with-segment-first-twin-cylinder-kit-2026-05-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-04T05:36:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/17/nissan-gravite-mpv_0b61be01d5bf46f1baa19db99e6bf27b.jpeg?w=750&dpr=1.0",
-      "summary": "निसान ग्रेवाइट का नया सीएनजी अवतार लॉन्च हुआ है। यह 7-सीटर स्पेस के साथ आता है और ईंधन के खर्च को बचाने में मदद करता है। निसान ग्रेवाइट में ट्विन-सिलेंडर किट की सुविधा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "निसान ग्रेवाइट का नया सीएनजी अवतार, 7-सीटर स्पेस से समझौता किए बिना अब बचाएं ईंधन का खर्च",
-          "summary": "निसान ग्रेवाइट का नया सीएनजी अवतार लॉन्च हुआ है। यह 7-सीटर स्पेस के साथ आता है और ईंधन के खर्च को बचाने में मदद करता है। निसान ग्रेवाइट में ट्विन-सिलेंडर किट की सुविधा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "यूएई के फुजैराह तेल क्षेत्र में ईरान का ड्रोन हमला, तीन भारतीय नागरिक घायल",
       "url": "https://www.amarujala.com/world/three-indians-injured-in-iran-drone-attack-at-fujairah-oil-zone-uae-2026-05-04",
       "source": "Amar Ujala World",
@@ -566,60 +566,6 @@
       }
     },
     {
-      "title": "'ममता की राजनीतिक यात्रा का अंत', नंदीग्राम-भवानीपुर से जीत के बाद बोले शुभेंदु",
-      "url": "https://www.amarujala.com/live/india-news/west-bengal-election-result-2026-live-vote-counting-bengal-vidhan-sabha-chunav-293-seats-bjp-vs-tmc-win-lose-2026-05-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-04T05:11:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/pashacama-bgal-canava-paranaema-2026_2b6b56b9e46c1c981b75a53514f6bc1f.jpeg?w=750&dpr=1.0",
-      "summary": "शुभेंदु अधिकारी ने कहा कि ममता बनर्जी की राजनीतिक यात्रा का अंत हो गया है। यह बयान नंदीग्राम और भवानीपुर से जीत के बाद आया। ममता बनर्जी ने चुनाव परिणामों पर प्रतिक्रिया दी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ममता की राजनीतिक यात्रा का अंत', नंदीग्राम-भवानीपुर से जीत के बाद बोले शुभेंदु",
-          "summary": "शुभेंदु अधिकारी ने कहा कि ममता बनर्जी की राजनीतिक यात्रा का अंत हो गया है। यह बयान नंदीग्राम और भवानीपुर से जीत के बाद आया। ममता बनर्जी ने चुनाव परिणामों पर प्रतिक्रिया दी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सूर्य करेंगे वृषभ में प्रवेश, जानें किन राशियों को मिलेगी सफलता और किसे टेंशन",
-      "url": "https://www.amarujala.com/web-stories/astrology/predictions/surya-vrishabha-rashi-gochar-2026-date-and-impact-on-all-12-zodiac-sign-in-hindi-2026-05-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-04T05:09:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/surya-vrishabha-rashi-gochar-2026_3e1f8f6c9077d9a37332558157ea9cee.jpeg?w=750&dpr=1.0",
-      "summary": "सूर्य वृषभ राशि में प्रवेश करेंगे. इससे विभिन्न राशियों पर प्रभाव पड़ेगा, कुछ को सफलता मिलेगी और कुछ को समस्याओं का सामना करना पड़ सकता है. सूर्य करेंगे वृषभ में प्रवेश, जानें किन राशियों को मिलेगी सफलता और किसे टेंशन।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सूर्य करेंगे वृषभ में प्रवेश, जानें किन राशियों को मिलेगी सफलता और किसे टेंशन",
-          "summary": "सूर्य वृषभ राशि में प्रवेश करेंगे. इससे विभिन्न राशियों पर प्रभाव पड़ेगा, कुछ को सफलता मिलेगी और कुछ को समस्याओं का सामना करना पड़ सकता है. सूर्य करेंगे वृषभ में प्रवेश, जानें किन राशियों को मिलेगी सफलता और किसे टेंशन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'राजा शिवाजी' के आगे नहीं टिक पा रही 'एक दिन', सोमवार को लाखों में सिमटी आमिर के बेटे की फिल्म की",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/ek-din-box-office-collection-day-4-junaid-khan-film-total-earing-2026-05-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-04T04:59:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/eka-thana-kalkashana_819ca44a62c2e38e74d22c83325fe603.jpeg?w=750&dpr=1.0",
-      "summary": "आमिर खान के बेटे जुनैद खान की फिल्म 'एक दिन' एक मई को रिलीज़ हुई और सोमवार को इसके बॉक्स ऑफिस कलेक्शन में गिरावट आई, 'राजा शिवाजी' जैसी फिल्मों की तुलना में यह कम प्रदर्शन कर रही है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'राजा शिवाजी' के आगे नहीं टिक पा रही 'एक दिन', सोमवार को लाखों में सिमटी आमिर के बेटे की फिल्म की",
-          "summary": "आमिर खान के बेटे जुनैद खान की फिल्म 'एक दिन' एक मई को रिलीज़ हुई और सोमवार को इसके बॉक्स ऑफिस कलेक्शन में गिरावट आई, 'राजा शिवाजी' जैसी फिल्मों की तुलना में यह कम प्रदर्शन कर रही है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "होर्मुज जलडमरूमध्य में दोहरे हमले से बढ़ा तनाव, कुछ घंटों में दो जहाजों को बनाया गया निशाना",
       "url": "https://www.amarujala.com/world/a-double-attack-in-the-strait-of-hormuz-escalated-tensions-with-two-ships-targeted-within-hours-2026-05-04",
       "source": "Amar Ujala World",
@@ -634,6 +580,60 @@
           "title": "होर्मुज जलडमरूमध्य में दोहरे हमले से बढ़ा तनाव, कुछ घंटों में दो जहाजों को बनाया गया निशाना",
           "summary": "होर्मुज जलडमरूमध्य में दोहरे हमले से तनाव बढ़ गया। कुछ घंटों में दो जहाजों को निशाना बनाया गया। यह हमला क्षेत्र में तनाव को बढ़ा रहा है। होर्मुज जलडमरूमध्य में दोहरे हमले से बढ़ा तनाव, कुछ घंटों में दो जहाजों को बनाया गया निशाना।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "किसानों के लिए मुश्किल घड़ी, भूराजनीति और जलवायु परिवर्तन का सामना कर रहे हैं भारतीय किसान; ईरान",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOUV3S0Z1ai1IQklWMWpkMk5zVEF2bDdtWjdaNUFaVENJRXk0UHZDTnhLbHNwVnp3cTB0ZGtfb05oemRTbHo4dTgtMDA5Nzdwbm5GNjVGRlFoRXBlZ0VnZU9zT3NmdU9NNHFSdWJoMDgzMWR2SHZUalVYWndOYk9lM0RlYS1sODdwNGxrcV9ydVVxaVJGMFhMeTZHXzI3M0VXZEVKZUZEUHJDY19yMFdNemc2ZHl4eDM4Z3NpbkZza0RiU0FGdUlXa19VOXJuRkwzcFZmeGRFR0IwRjRmYm9lQ1VCNUlvUGhwQTB2NlpDNXbSAfYBQVVfeXFMT3c3RFh3UDBNNnVRMVJZYkFxdzlyQzZwSnBYMEFmcmZOYUJYZ0drd0R0UXQ3MlJxZEZsYS16WlhVdVFDeEE2LWttYnZxRjc1ZVlSUlNMMlpEeWVaaWtzQW1ublYtcTB2dGZWdFVRNnp3SUdXaWJfOVE1UWpCRDZTeTFNd2o5WGZoRGthNjA3akVTWm9wVnVEYUxvSTJfejlaeUdfckhqZ0R6MmNscWtLMUlDUWUxTUhfU2NnLWNBLUwwY2oxNy1mV2cxMkYtNUxNZGhmZDFGaTlMZXBvQU82NW9FUVZIeFB1MlNkbXlKcVM4SHB4ZWhB?oc=5",
+      "source": "Google News Hindi (भूराजनीति)",
+      "sources": [],
+      "published_at": "2026-05-04T03:14:32+00:00",
+      "image_url": "https://images.pexels.com/photos/35184089/pexels-photo-35184089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारतीय किसान भूराजनीति, जलवायु परिवर्तन और ईरान के साथ जंग के कारण मुश्किलों का सामना कर रहे हैं। इन चुनौतियों के कारण किसानों की स्थिति गंभीर हो गई है। सरकार और अन्य एजेंसियां उनकी मदद के लिए काम कर रही हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "किसानों के लिए मुश्किल घड़ी, भूराजनीति और जलवायु परिवर्तन का सामना कर रहे हैं भारतीय किसान; ईरान",
+          "summary": "भारतीय किसान भूराजनीति, जलवायु परिवर्तन और ईरान के साथ जंग के कारण मुश्किलों का सामना कर रहे हैं। इन चुनौतियों के कारण किसानों की स्थिति गंभीर हो गई है। सरकार और अन्य एजेंसियां उनकी मदद के लिए काम कर रही हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज में कोरियाई जहाज पर धमाका, लगी भीषण आग; 'प्रोजेक्ट फ्रीडम' के बीच बढ़ी रार",
+      "url": "https://www.amarujala.com/world/strait-of-hormuz-south-korean-vessel-attack-fire-news-updates-2026-05-04",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-04T03:12:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/19/strait-of-hormuz-closed_3c3b82301d156870d53b7493d65991d5.jpeg?w=750&dpr=1.0",
+      "summary": "होर्मुज जलडमरूमध्य में एक दक्षिण कोरियाई जहाज पर धमाका हुआ और उसमें भीषण आग लग गई। इस घटना ने क्षेत्र में तनाव बढ़ा दिया है, खासकर 'प्रोजेक्ट फ्रीडम' के बीच। घटना की जांच चल रही है और स्थिति पर नजर रखी जा रही है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज में कोरियाई जहाज पर धमाका, लगी भीषण आग; 'प्रोजेक्ट फ्रीडम' के बीच बढ़ी रार",
+          "summary": "होर्मुज जलडमरूमध्य में एक दक्षिण कोरियाई जहाज पर धमाका हुआ और उसमें भीषण आग लग गई। इस घटना ने क्षेत्र में तनाव बढ़ा दिया है, खासकर 'प्रोजेक्ट फ्रीडम' के बीच। घटना की जांच चल रही है और स्थिति पर नजर रखी जा रही है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप ने ईरान के साथ बातचीत को बताया सकारात्मक, कहा- निकल सकते हैं अच्छे नतीजे",
+      "url": "https://www.amarujala.com/world/trump-says-us-in-very-positive-discussions-with-iran-as-negotiations-continue-west-asia-conflict-2026-05-04",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-04T00:49:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/donald-trump_ac2d04f478d74d426c61ccbf0cccb8b6.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अमेरिका ईरान के साथ बहुत सकारात्मक चर्चा कर रहा है और अच्छे नतीजे निकल सकते हैं। ट्रंप ने बातचीत को सकारात्मक बताया और उम्मीद जताई कि इससे अच्छे परिणाम मिलेंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप ने ईरान के साथ बातचीत को बताया सकारात्मक, कहा- निकल सकते हैं अच्छे नतीजे",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अमेरिका ईरान के साथ बहुत सकारात्मक चर्चा कर रहा है और अच्छे नतीजे निकल सकते हैं। ट्रंप ने बातचीत को सकारात्मक बताया और उम्मीद जताई कि इससे अच्छे परिणाम मिलेंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
