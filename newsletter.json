@@ -1,21 +1,57 @@
 {
-  "generated_at": "2026-05-04T14:05:59.528377+00:00",
+  "generated_at": "2026-05-04T16:49:30.167522+00:00",
   "article_count": 42,
-  "total_unique_count": 252,
+  "total_unique_count": 250,
   "digest": {
-    "en": "A Russian missile attack on Ukraine's Kharkiv region killed five people. The incident comes as tensions escalate between Iran and the US in the Strait of Hormuz, with Iran claiming it struck a US warship and the US navy denying the charges. Iran's war preparations are underway amid rising tensions.",
-    "hi": "पश्चिम बंगाल में बीजेपी की बढ़त की चार बड़ी वजहें सामने आई हैं। असम और पश्चिम बंगाल के नतीजों से कुछ संकेत मिल रहे हैं। हिमंत बिस्वा सरमा ने असम में सियासी दिग्गजों को पीछे छोड़ दिया है।"
+    "en": "Tensions rise in the Strait of Hormuz as the U.S. and Iran exchange threats. The UAE reports missile and drone strikes incoming from Iran. US officials urge China to help open the strait, citing Chinese funding for Iran.",
+    "hi": "भवानीपुर में ममता बनर्जी चुनाव हार गई हैं। शुभेंदु अधिकारी ने उन्हें हराया। ममता बनर्जी की हार पर प्रतिक्रिया देते हुए शुभेंदु अधिकारी ने कहा कि ये हिंदुत्व की जीत है।"
   },
   "articles": [
     {
-      "title": "Five people killed in Russian missile attack on Ukraine’s Kharkiv region",
-      "url": "https://www.aljazeera.com/news/2026/5/4/five-people-killed-in-russian-missile-attack-on-ukraines-kharkiv-region?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Uncertainty Over Strait Escalates as U.S. and Iran Trade Threats",
+      "url": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
+      "source": "NYT World",
       "sources": [],
-      "published_at": "2026-05-04T13:41:50+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-04T092241Z_1741814112_RC292LA5K35S_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV-REGION-1777891917.jpg?resize=1920%2C1366",
-      "summary": "A Russian missile attack on Ukraine's Kharkiv region killed five people and injured several others. At least 10 houses were struck by the missiles. Local governor says several injured in the attack with at least 10 houses struck by Russian missiles.",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-04T16:42:46+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/04mideast-section-blog-promo-anfu/04mideast-section-blog-header-klfm-mediumSquareAt3X.jpg",
+      "summary": "The US and Iran traded threats over the Strait of Hormuz. Uncertainty Over Strait Escalates as U. S. and Iran Trade Threats.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UAE says Iran has resumed attacks as the US moves to reopen the Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXUxRXhtVUx6WExNYkQ1QmxKMlI0S1I4bElVWF9JQTFUUGNGU1B6M0VreHFUN2MwZDNId1NiS3NGRTdqMjNUd3IzLUtCbWV3bXBrRVhQS2c1RGxYN1gwT1dxbmpLS0tJTTc5S0lUbFg3WjJ2LUdBV0djXzNzYVpOSGRycU5OZVVFaTVWV09YcER0YmpTTHB6ems1ZVRuSll4cWw0?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-04T16:37:00+00:00",
+      "image_url": "https://images.pexels.com/photos/32632513/pexels-photo-32632513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iran resumed attacks as the US moved to reopen the Strait of Hormuz. UAE says Iran has resumed attacks as the US moves to reopen the Strait of Hormuz AP News.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UAE Defence Ministry says four cruise missiles fired from Iran",
+      "url": "https://www.thehindu.com/news/international/iran-missile-attacks-targeting-uae-fujairah/article70939998.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-04T16:33:24+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/5jdkr5/article70940042.ece/alternates/LANDSCAPE_1200/TH14-DEB-SHIP_GGFBFRK163.3.jpg.jpg",
+      "summary": "Four cruise missiles were fired from Iran at the UAE. Authorities ​in the ‌United Arab Emirates’ Fujairah ​said ⁠on May 4, that a ‌fire broke out ‌at ‌the Fujairah ⁠Oil ⁠Industry Zone following what they ​described ‌as a drone attack originating from ‌Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "The UAE says Iran resumes attacks as the U.S. moves to reopen the Strait of Hormuz",
+      "url": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-05-04T16:08:35+00:00",
+      "image_url": "https://images.pexels.com/photos/32632513/pexels-photo-32632513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US helped two merchant ships transit the Strait of Hormuz. The U. S. military said it helped two merchant ships transit the Strait of Hormuz, and the United Arab Emirates said it was fending off Iranian missiles and drones.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -24,292 +60,256 @@
       "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sources": [],
-      "published_at": "2026-05-04T13:29:22+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d141/live/9a7c9710-479d-11f1-970b-c9a1b7950074.jpg",
+      "published_at": "2026-05-04T16:07:57+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/537e/live/3549bda0-47d4-11f1-ac78-2112837ce2aa.jpg",
       "summary": "A suspected virus outbreak on an Atlantic cruise ship has resulted in three deaths. The World Health Organization confirmed one case of hantavirus infection and is investigating five more suspected cases.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "WEX board deal ends bitter proxy battle with activist Impactive",
-      "url": "https://www.channelnewsasia.com/business/wex-board-deal-ends-bitter-proxy-battle-activist-impactive-6098731",
+      "title": "Lebanon Latest",
+      "url": "https://www.aljazeera.com/video/2026/5/4/lebanon-latest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-04T16:05:40+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/with-Title-1777910434.png?resize=1920%2C1080&quality=80",
+      "summary": "Israel intensified airstrikes in Lebanon. Israel intensifies airstrikes. Lebanon Latest.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US releases Touska container ship crew: Why it matters",
+      "url": "https://www.aljazeera.com/news/2026/5/4/us-releases-touska-container-ship-crew-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-04T15:59:13+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69f894e1-1777898721.jpg?resize=1200%2C630",
+      "summary": "The US released the crew members of the Touska container ship. Pakistan views this as a 'confidence-building measure' between Tehran and Washington, indicating a potential easing of tensions between the two nations.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
+      "url": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-04T15:58:29+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/aba8b5e28f1aa86f821f6f11d8842b01d715a060/25_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=283717ee39d6d0a0dc0c0ab1119f040c",
+      "summary": "A Nigerian refinery, accused of sacking union members, is crucial to the UK's plan to address a jet fuel shortage. The UK government hopes to import more fuel from the US and West Africa to mitigate the crisis.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz",
+      "url": "https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-04T15:55:38+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-22T150252Z_890376893_RC2EUKABZX8O_RTRMADP_3_USA-TREASURY-CONGRESS-1777906738.jpg?resize=1920%2C1440",
+      "summary": "A US official stated that China is funding Iran and urged Beijing to help reopen the Strait of Hormuz through diplomacy. The US claims to have 'absolute control' of the strait, but seeks China's assistance.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UAE reports missile and drone strikes incoming from Iran",
+      "url": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-04T15:37:11+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2020/07/13992a64785845d8a348139f54f4e9d3_18.jpeg?resize=1200%2C675",
+      "summary": "The UAE reported incoming missile and drone strikes from Iran, with no immediate reports of casualties. Iran has not commented on the incident, which raises concerns about the escalating tensions in the region.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UAE says it's under attack from Iranian missiles and drones despite ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByLV96V2VpZ1pqZDRiM0FacG1IZzQ5OUJ1ZTJIb3dRdXI5bzcyUUNJMkFfaWI2OXlzM2pjNTVRRkl6ekpCNmd1bzBGRUhNMWMyRzF4N1BZbTdITUpaU3E0RTk5NjdzbXZnUThsY2NuaFJ2YV9PNVV1U01zNS1BeEHSAYQBQVVfeXFMUDRJSFFQSmlJZGR5LW93VXZxUmRZMkZpV1dmWTJLSmFfMHRmdmwxQnJQM21xalJpSC00dVh1WDVXaUhrNDFqSXVoYW9yMS1vS2lwYTZhQjdVVUVaanMzYWJMX0ZiTzRqT3pUWThOQWRWSm9vYmdvRkdXNkE0ZXR5NkwtNDdR?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-04T15:21:26+00:00",
+      "image_url": "https://images.pexels.com/photos/16774829/pexels-photo-16774829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The UAE stated it was under attack from Iranian missiles and drones, despite a ceasefire. The incident highlights the ongoing security challenges in the region, with the UAE facing continued threats from Iranian actions.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran Fires 'Warning Shots' At US Warships In Strait Of Hormuz",
+      "url": "https://www.ndtv.com/world-news/iran-fires-warning-shots-at-us-warships-in-strait-of-hormuz-11448296#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-04T15:05:26+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-01/bohvqalc_uss-abraham-lincoln_625x300_27_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Iranian forces fired warning shots at US warships in the Strait of Hormuz, according to reports. The incident occurred amid heightened tensions between the two nations. The Fars news agency had earlier reported that Iran hit a US warship with missiles.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Satellite imagery reveals how Sudan’s war scorched its ‘breadbasket’",
+      "url": "https://www.aljazeera.com/economy/2026/5/4/satellite-imagery-reveals-how-sudans-war-scorched-its-breadbasket?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-04T15:03:46+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/RS32646_DSC_0598-1776144358.jpg?resize=1920%2C1440",
+      "summary": "Satellite imagery reveals widespread destruction in Sudan's agricultural heartland, which was once the country's breadbasket. The war has triggered a severe hunger crisis in the region. Data from satellites shows how Sudan's war devastated its farming heartland, triggering a unprecedented hunger crisis.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Fire, explosion hit South Korean-run vessel in Strait of Hormuz, Seoul says",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-vessel-strait-hormuz-fire-explosion-6098746",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-05-04T13:14:42+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--t6rnFf8j--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T134921Z_3_LYNXMPEM430SI_RTROPTP_3_WEX-IMPACTIVE.JPG?itok=1vxSBKzy",
-      "summary": "WEX's board deal with activist Impactive ended a bitter proxy battle. Terms of the agreement were not disclosed. WEX board deal ends bitter proxy battle with activist Impactive.",
+      "published_at": "2026-05-04T15:03:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--i1l4ti5v--/c_crop,h_900,w_1600,x_0,y_165/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/04/2026-05-04t131617z_1128363165_rc262la79hjr_rtrmadp_3_iran-crisis.jpg?itok=ZGf8XKXI",
+      "summary": "A South Korean-run vessel caught fire and exploded in the Strait of Hormuz, authorities in Seoul reported. No casualties were reported in the incident, which is currently under investigation. There were no casualties reported and authorities were investigating what caused the blaze.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Atmosphere detected on celestial body in solar system's far reaches",
+      "url": "https://www.channelnewsasia.com/business/atmosphere-detected-celestial-body-in-solar-systems-far-reaches-6098861",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-04T15:02:09+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--JgKw9QTc--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T150625Z_1_LYNXMPEM430Z6_RTROPTP_3_SPACE-ATMOSPHERE.JPG?itok=TIQJBgHY",
+      "summary": "Astronomers detected an atmosphere on a celestial body in the outer reaches of the solar system. The discovery was made using advanced satellite data. Atmosphere detected on celestial body in solar system's far reaches.",
       "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Iran claims it struck US warship in Strait of Hormuz, American navy denies charges",
-      "url": "https://indianexpress.com/article/world/iran-us-strait-of-hormuz-missile-claims-trump-project-freedom-10672407/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-04T13:13:20+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/Iran-War-Strait-of-Hormuz-2.jpg",
-      "summary": "Iran claimed it struck a US warship in the Strait of Hormuz, but the American navy denied the charges. The incident escalated tensions between the two nations. Iran claims it struck US warship in Strait of Hormuz, American navy denies charges.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "War preparations under way in Iran as Hormuz tensions with US escalate",
-      "url": "https://www.aljazeera.com/news/2026/5/4/war-preparations-under-way-in-iran-as-hormuz-tensions-with-us-escalate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-04T13:12:52+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26122371681861-1777901011.jpg?resize=1920%2C1440",
-      "summary": "Iran began war preparations amid escalating tensions with the US over the Strait of Hormuz. Iranian media reported a US warship was struck, but Washington denied the incident. Amid stalled talks and sparring over key waterway, Iranian media say US warship struck, but Washington denies incident.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump’s ‘Project Freedom’: Can US navy ‘guide’ stuck ships out of Hormuz?",
-      "url": "https://www.aljazeera.com/news/2026/5/4/trumps-project-freedom-can-us-navy-guide-stuck-ships-out-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-04T13:10:17+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260428__A97J9XC__v2__HighRes__TopshotIranUsIsraelWarDailyLife-1777901197.jpg?resize=1920%2C1440",
-      "summary": "US President Trump announced 'Project Freedom' to guide stuck ships out of the Strait of Hormuz. The plan's implementation remains unclear. Trump says US navy will free up ships stranded in the Gulf, but it remains unclear how the campaign will be implemented.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade",
-      "url": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-05-04T13:07:06+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/04/multimedia/04-mideast-iran-jhmk/04-mideast-iran-jhmk-mediumSquareAt3X.jpg",
-      "summary": "Iranian military officials warned that ships attempting to cross the Strait of Hormuz without permission would be at risk, amid tensions over the US plan to break Iran's blockade. A senior Iranian military official warned that any vessel that tried to cross the Strait of Hormuz without permission would be “at risk.”.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Chile landfill tops global list of methane emitters in UN report",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVV2RldSY1h2eW4yMTN6ZWVXa2xXb3piaW5aYVJKSnY1dm5MZ2x6TXFKSHhfZnVhQkcxc2NCY2ZTQmp5VkZ6YVJiajhXZThIWnhVOWp2RHNkaGJiRmRfbmxSS0E4ZEpJamNLTHFYcG1vYzdUNlRlM0FIR3dNek1EbTJFUG9DeWt1d29jdkVKYTg2UE9KSXFTSUxWQlV6Q2prN0JVRFJUWkUwRndwbUZWcUVHeWFBZFAxQzZ4aVpIRXgxZw?oc=5",
-      "source": "Google News (United Nations)",
-      "sources": [],
-      "published_at": "2026-05-04T13:03:43+00:00",
-      "image_url": "https://images.pexels.com/photos/4454068/pexels-photo-4454068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "A Chilean landfill is the world's largest emitter of methane, according to a UN report. Chile landfill tops global list of methane emitters in UN report Reuters.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "GameStop's $56 billion eBay bid stokes investor doubts as shares lag offer",
-      "url": "https://www.channelnewsasia.com/business/gamestops-56-billion-ebay-bid-stokes-investor-doubts-shares-lag-offer-6098686",
+      "title": "Dollar edges up as US-Iran conflict keeps risk appetite in check",
+      "url": "https://www.channelnewsasia.com/business/dollar-edges-up-us-iran-conflict-keeps-risk-appetite-in-check-6097641",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-05-04T12:58:37+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--ERsRl1LM--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T130020Z_3_LYNXMPEM430KD_RTROPTP_3_EBAY-M-A-GAMESTOP.JPG?itok=RRlBWsHZ",
-      "summary": "GameStop's $56 billion bid for eBay has raised investor doubts, with the company's shares lagging the offer. GameStop's $56 billion eBay bid stokes investor doubts as shares lag offer.",
+      "published_at": "2026-05-04T14:59:22+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--OEObMLTk--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-04T044835Z_1_LYNXMPEM4307M_RTROPTP_3_JAPAN-YEN.JPG?itok=5mnxguB7",
+      "summary": "The US dollar edged up as investors remained cautious due to ongoing tensions between the US and Iran. The conflict has kept risk appetite in check, affecting global markets. Dollar edges up as US-Iran conflict keeps risk appetite in check.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Does Trump hold ‘all the cards’ against Iran in the Strait of Hormuz?",
+      "url": "https://www.aljazeera.com/news/2026/5/4/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-04T14:56:22+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26108447320171-1777883488.jpg?resize=1920%2C1440",
+      "summary": "US President Trump expressed confidence in the standoff with Iran in the Strait of Hormuz. Tensions rose in the region with Trump suggesting he holds the upper hand. Trump signals confidence in Iran standoff as tensions rise in the Strait of Hormuz.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "South Korean Ship Targeted Amid Tensions In Hormuz",
+      "url": "https://www.ndtv.com/world-news/south-korean-cargo-vessel-targeted-amid-tensions-in-strait-of-hormuz-11448223#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-04T14:54:26+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-04/o52a7sdo_strait-of-hormuz-_625x300_18_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "A South Korean ship was targeted in the Strait of Hormuz. The 24 crew members on board reported no casualties. There had been \"no casualties to date\" among the 24 crew members on board (file image).",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Collin Morikawa withdraws from Truist Championship",
+      "url": "https://www.channelnewsasia.com/sport/collin-morikawa-withdraws-truist-championship-6098846",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-04T14:51:03+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--mRTzig3B--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T145103Z_1_LYNXMPEM430Y4_RTROPTP_3_GOLF.JPG?itok=TU3ZmOtV",
+      "summary": "Collin Morikawa withdrew from the Truist Championship. No reason was given for his withdrawal. Collin Morikawa withdraws from Truist Championship.",
       "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "UAE Says Iran Launched Drone Attack on ADNOC Tanker In Strait of Hormuz",
-      "url": "https://www.ndtv.com/world-news/uae-says-iran-fired-drones-at-adnoc-oil-tanker-in-hormuz-11447012#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-04T12:50:07+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/gsiu2o58_dubai-attack_625x300_04_May_26.jpeg",
-      "summary": "Iran launched a drone attack on an ADNOC-affiliated tanker in the Strait of Hormuz, with no reported injuries. No injuries were reported in the drone attack on the ADNOC-affiliated tanker.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Singapore and New Zealand sign deal to keep supply chains open",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbTRXa29FTFpxM0JqcG5Dejk0V1ZrdWVVYlVPUEx4cUEyZEFjbUR2d21NVUtxRnBuZTZKdEFDOHNwcEl0VXhtTDNSUkt1UmFDbUxDRVllUkg0eTB2N3FlUUY4dVE2WXRUdEQyOEVGZzRFdUl6UkVIUTdONG9ZNENONEQtQV9ISGM3aXRvM0pDYmxqVGYwelBXWlBUV1NTRC1adUE4cFB0T0U0QVlIMUtuQUp4ZkZIVTJHajlN?oc=5",
-      "source": "Google News (international relations)",
-      "sources": [],
-      "published_at": "2026-05-04T12:45:00+00:00",
-      "image_url": "https://images.pexels.com/photos/344742/pexels-photo-344742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Singapore and New Zealand have signed a deal to maintain open supply chains, amid efforts to mitigate the impact of global disruptions. Singapore and New Zealand sign deal to keep supply chains open Nikkei Asia.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran Nobel laureate Mohammadi needs urgent heart treatment in Tehran, brother says",
-      "url": "https://www.channelnewsasia.com/world/iran-nobel-laureate-narges-mohammadi-brother-heart-treatment-6097111",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-04T12:20:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--c9Rd4jWT--/c_crop,h_449,w_799,x_1,y_1/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-12-15T084458Z_1_LYNXMPELBE0EW_RTROPTP_3_IRAN-WOMEN-MOHAMMADI.JPG?itok=X5LWuo-K",
-      "summary": "Iranian Nobel laureate Mohammadi requires urgent heart treatment in Tehran. His brother stated the need for medical attention. Iran Nobel laureate Mohammadi needs urgent heart treatment in Tehran, brother says.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Outgoing Indian envoy meets Bangladesh FM, discusses bilateral ties",
-      "url": "https://www.thehindu.com/news/national/outgoing-indian-envoy-meets-bangladesh-fm-discusses-bilateral-ties/article70938715.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-04T12:19:57+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/samxjx/article70664214.ece/alternates/LANDSCAPE_1200/TH06-Kallol-IndGCUF93KDB.4.jpg.jpg",
-      "summary": "Outgoing Indian envoy Mr. Verma met Bangladesh's Foreign Minister to discuss bilateral ties. He reaffirmed India's commitment to strengthening cooperation with Bangladesh. Mr. Verma reaffirmed India’s commitment to work closely with the people and government of Bangladesh to further strengthen people-centric cooperation across all sectors.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China invokes anti-sanctions law to counter US blacklisting of refiners",
-      "url": "https://www.channelnewsasia.com/east-asia/china-anti-sanctions-law-us-blacklist-oil-refineries-6098486",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-04T12:09:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--Z-tY4XwJ--/c_crop,h_449,w_799,x_1,y_57/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T110645Z_1_LYNXMPEM430MP_RTROPTP_3_IRAN-CRISIS-CHINA-HENGLI.JPG?itok=PM4qr91r",
-      "summary": "China invoked an anti-sanctions law to counter the US blacklisting of Chinese refiners. The law allows Beijing to retaliate against entities enforcing sanctions. China invokes anti-sanctions law to counter US blacklisting of refiners.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US Military Says No Navy Ships Have Been Hit In Strait Of Hormuz",
-      "url": "https://www.ndtv.com/world-news/us-military-denies-one-of-its-ships-hit-in-strait-of-hormuz-11447053#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-04T12:06:32+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/nnhsug9g_us-military-attacked-iranian-ship_625x300_20_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "summary": "The US military denied that any Navy ships were hit in the Strait of Hormuz. Iranian state media had reported that a US frigate was targeted by two missiles. Iranian state media reported a US frigate was targeted by two missiles (File).",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "2026 World Press Freedom Day",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167417",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-05-04T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/07-05-2025-UNESCO-Belarus-Darya-Burakina.jpg/image560x340cropped.jpg",
-      "summary": "The 2026 World Press Freedom Day event will highlight the importance of media freedom. UN agencies and war correspondents will share their perspectives on press freedom and its challenges. Media freedom is not a given and its absence frequently leaves communities and vulnerable individuals in danger.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
-      "url": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-04T11:59:58+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fbc/live/fb585db0-453d-11f1-be1a-bdd45fc37339.jpg",
-      "summary": "India's BJP, led by Modi, won in West Bengal, a key state. This victory could change the state's politics and the future of Modi's party. West Bengal’s verdict could reshape not just the state’s politics, but the future trajectory of Modi’s BJP.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Japan, Indonesia Seal Defence Pact, Upgrade Bilateral Ties",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2FVcGE5Rm1xajZ4TFRMVDZkSzE4N3h6TjNMOFZUckUwdnJ6MW01cFd6UFd6M28yYUVrNWwyYXl2NVMwX2Naei12RTFfREctYk1yZ2xxdWoxZ3gtR2x6QXNuUW84cHZmRFd1ZnFOQVd2UFI4TTJZQVlDU1F2dzhYZzN2aG9ZY0Y1WS11Q0FBeklBQzNfTE5zR29saGI?oc=5",
+      "title": "The Weekly Preflight: 5 Things I'm Watching in Global Security",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Qamw3bTd3ZThpdnZYeFVzS2d3VGhHZEhTZmFkWnY5OFZpOVdHNVV3YjRtRllZQjA2ZmYwSUgwa2x3akowMDhpQ3F5aGJVNmpTZjRNM2daRVRnOE40QzlYaFlsZ0szWEFWYmZoT19OVDVEd1JR?oc=5",
       "source": "Google News (global security)",
       "sources": [],
-      "published_at": "2026-05-04T11:57:42+00:00",
-      "image_url": "https://images.pexels.com/photos/31383613/pexels-photo-31383613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Japan and Indonesia upgraded their bilateral ties with a defence pact. The agreement aims to strengthen cooperation between the two nations. Japan, Indonesia Seal Defence Pact, Upgrade Bilateral Ties StratNews Global.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Coach Marcelino to leave Villarreal at end of season",
-      "url": "https://www.channelnewsasia.com/sport/coach-marcelino-leave-villarreal-end-season-6098551",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-04T11:45:58+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--lX_IcZdj--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T114558Z_1_LYNXMPEM430OG_RTROPTP_3_SOCCER-CHAMPIONS-TOT-VIL.JPG?itok=xWzyTccD",
-      "summary": "Villarreal's coach Marcelino will leave at the end of the season. His departure was announced by the club. Coach Marcelino to leave Villarreal at end of season.",
+      "published_at": "2026-05-04T14:36:20+00:00",
+      "image_url": "https://images.pexels.com/photos/6766540/pexels-photo-6766540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "NATO's top leader said allies are preparing for a possible support role in the Strait of Hormuz. The development comes amid rising tensions in the region. The Weekly Preflight: 5 Things I'm Watching in Global Security | Week of May 4, 2026 Eyes Only with Wes O'Donnell.",
       "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "‘Israel is not implementing the ceasefire agreement in Gaza’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/israel-is-not-implementing-the-ceasefire-agreement-in?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Allies preparing for possible help role in Strait of Hormuz, NATO’s top leader says",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1o4MF90ZGx5b1QxOThoMFAxb3c3Wi1Ha3BxdnRyc3EwdG0zcndaWUVhWXcwMlVrdEdTbmJsTmc3ZlJFQV9XdWViMDRaclVKQkVYLWpELU44SmdOR3RIbmV3bTNSVWFOcWlMNW5DamRUWHpoblRMQVBzWjlEaXhUb2F2aDdRSlBXcGdPU2xjU1pxbVU?oc=5",
+      "source": "Google News (NATO conflict)",
       "sources": [],
-      "published_at": "2026-05-04T11:44:25+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/Mustafa-Barghouti-Horizontal-thumb-1777894795.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Israel was accused of not implementing the Gaza ceasefire agreement. Tensions remain high in the region. ‘Israel is not implementing the ceasefire agreement in Gaza’.",
+      "published_at": "2026-05-04T14:35:31+00:00",
+      "image_url": "https://images.pexels.com/photos/6646940/pexels-photo-6646940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "US President Trump signaled confidence in handling the Iran situation. He suggested having the upper hand in the standoff. Allies preparing for possible help role in Strait of Hormuz, NATO’s top leader says Stars and Stripes.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "ममता बनर्जी को भवानीपुर में शुभेंदु अधिकारी ने हराया, बोले- ये हिंदुत्व की जीत",
+      "url": "https://www.bbc.com/hindi/articles/cp8p326r6pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-04T16:24:08+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8344/live/0ffdfc80-47cc-11f1-b55d-0f258dce1735.jpg",
+      "summary": "ममता बनर्जी को भवानीपुर में शुभेंदु अधिकारी ने हराया. ममता बनर्जी की हार के साथ ही बीजेपी 200 से अधिक सीटों पर जीत दर्ज करने की ओर बढ़ रही है. इस बार पश्चिम बंगाल में रिकॉर्ड तोड़ मतदान हुआ था.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ममता बनर्जी को भवानीपुर में शुभेंदु अधिकारी ने हराया, बोले- ये हिंदुत्व की जीत",
+          "summary": "ममता बनर्जी को भवानीपुर में शुभेंदु अधिकारी ने हराया. ममता बनर्जी की हार के साथ ही बीजेपी 200 से अधिक सीटों पर जीत दर्ज करने की ओर बढ़ रही है. इस बार पश्चिम बंगाल में रिकॉर्ड तोड़ मतदान हुआ था.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ममता बनर्जी, शुभेंदु अधिकारी और विजय के साथ-साथ चर्चित चेहरों की सीट का हाल जानिए",
+      "url": "https://www.bbc.com/hindi/articles/cqxp8gp2lv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-04T16:21:12+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3007/live/7a879a50-47a1-11f1-b55d-0f258dce1735.jpg",
+      "summary": "चार राज्यों और एक केंद्र शासित प्रदेश के विधानसभा चुनाव के परिणाम आ रहे हैं. इन जगहों पर चुनावी मैदान में उतरे चर्चित चेहरों की सीटों का फैसला हो रहा है. ममता बनर्जी, शुभेंदु अधिकारी और विजय के साथ-साथ अन्य चेहरों की सीटों का हाल जाना जा रहा है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ममता बनर्जी, शुभेंदु अधिकारी और विजय के साथ-साथ चर्चित चेहरों की सीट का हाल जानिए",
+          "summary": "चार राज्यों और एक केंद्र शासित प्रदेश के विधानसभा चुनाव के परिणाम आ रहे हैं. इन जगहों पर चुनावी मैदान में उतरे चर्चित चेहरों की सीटों का फैसला हो रहा है. ममता बनर्जी, शुभेंदु अधिकारी और विजय के साथ-साथ अन्य चेहरों की सीटों का हाल जाना जा रहा है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "संघर्ष थम गया, डर कायम है; UAE ने एक दिन में दो बार जारी किए अलर्ट",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRkQ2Q2FLcmJQU0lTTWxONlIwcnA0RnZBbVlvQm1CbVFOalp6TmFsN3ltdm1CMUpPYnZ6LTByTlBNbm1LR21PV0oxSlF6REJaeUM4YmhGQm5OTGZ3UkE5QlVqR0dybGVHcV9EcERIdkZFVk9RQzVWNEEyUVlMR29nQnBLNkNjSUx5YWF4ODk4SFl4LWp2dmFuNVlZUzhZMWFuOVVraUdvTnZjc2lXTmdjNWN2NXNYVmV4aGVHempSUXUxcTBCMFlGQWlOY2FsTHEydFlzRGdLNWVVc05vQjlYUGxWLWxKVHlQSTlz0gHwAUFVX3lxTE5XX0Q4RmVwb3FDc29qcEVPTGNORVAwVFQwMkc1bjlsMlhxUEt0b0l6Y3k5TWZWYzA4RmNrZnNxVDFpV2tsa0hzRjRwYVRWVXhoZ0t3dDF0WmtZc2FmQjVCTUhzZWw4VE5lRTlGQUNwRk5oWjJpWDFxNmkxTi1yYXcyQ1lmZ0tZOEJJWHdPRnJHSmpxeW9nZDAyLVBxWHJ6TUVFdl80U0dHVlVib2RReWtzdFhISHdKVWV1SnBJakNwakhaeFpsY1h3bmtmM2YtOF9sZ21sTkNzVW5oTGVlTVNvU3hZTm9SMzBoVDNwV3A5ZQ?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-04T16:07:52+00:00",
+      "image_url": "https://images.pexels.com/photos/3354024/pexels-photo-3354024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "UAE ने एक दिन में दो बार अलर्ट जारी किए. यह अलर्ट संघर्ष के बाद जारी किया गया है. संघर्ष थम गया है लेकिन डर कायम है. संघर्ष थम गया, डर कायम है; UAE ने एक दिन में दो बार जारी किए अलर्ट Zee News।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "WHO Says Risk To Public Is Low After Hantavirus Cases In Atlantic Ship",
-      "url": "https://www.ndtv.com/world-news/who-says-risk-to-public-is-low-after-suspected-hantavirus-outbreak-hits-ship-11446965#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-04T11:39:50+00:00",
-      "image_url": "https://c.ndtvimg.com/2025-04/m9jnpr8g_world-health-organisation_625x300_25_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "summary": "The WHO reported low public risk from hantavirus after cases on an Atlantic ship. Lab tests confirmed the virus in one of six people. Lab tests have confirmed hantavirus in one of the six people, according to WHO.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "पश्चिम बंगाल में बीजेपी की बढ़त की ये हैं चार बड़ी वजहें",
-      "url": "https://www.bbc.com/hindi/articles/ckgp3ezkqdwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-04T12:39:52+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c604/live/9b87ffb0-47b5-11f1-afe8-8f96a4407135.jpg",
-      "summary": "बीजेपी पहली बार पश्चिम बंगाल में सत्ता में आती दिख रही है. ममता बनर्जी की पार्टी टीएमसी को बीजेपी ने कड़ी टक्कर दी है. बीजेपी के लिए यह राह आसान नहीं थी लेकिन ममता बनर्जी कहाँ चूक गईं?",
-      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पश्चिम बंगाल में बीजेपी की बढ़त की ये हैं चार बड़ी वजहें",
-          "summary": "बीजेपी पहली बार पश्चिम बंगाल में सत्ता में आती दिख रही है. ममता बनर्जी की पार्टी टीएमसी को बीजेपी ने कड़ी टक्कर दी है. बीजेपी के लिए यह राह आसान नहीं थी लेकिन ममता बनर्जी कहाँ चूक गईं?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "असम, पश्चिम बंगाल से क्या संकेत मिल रहे हैं?",
-      "url": "https://www.bbc.com/hindi/articles/ce3p20qyvy9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-04T12:04:26+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26fc/live/88e7f3e0-47a3-11f1-ac78-2112837ce2aa.jpg",
-      "summary": "पश्चिम बंगाल में बीजेपी आगे चल रही है और टीएमसी पीछे है. असम में भी बीजेपी की स्थिति मजबूत दिख रही है. अभी तक के रुझान बताते हैं कि पश्चिम बंगाल में बीजेपी आगे चल रही है और टीएमसी पीछे.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "असम, पश्चिम बंगाल से क्या संकेत मिल रहे हैं?",
-          "summary": "पश्चिम बंगाल में बीजेपी आगे चल रही है और टीएमसी पीछे है. असम में भी बीजेपी की स्थिति मजबूत दिख रही है. अभी तक के रुझान बताते हैं कि पश्चिम बंगाल में बीजेपी आगे चल रही है और टीएमसी पीछे.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हिमंत बिस्वा सरमा फिर सत्ता की ओर, असम में सियासी दिग्गजों को कैसे छोड़ा पीछे",
-      "url": "https://www.bbc.com/hindi/articles/c242ny2e19jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-04T11:41:18+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8279/live/291e8e00-479a-11f1-970b-c9a1b7950074.jpg",
-      "summary": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा ने विधानसभा चुनावों में पार्टी को बड़ी जीत दिलाई है. उनकी इस जीत के पीछे की वजह उनके बयान और नेतृत्व क्षमता को माना जा रहा है. हिमंत बिस्वा सरमा ने सियासी दिग्गजों को पीछे छोड़ दिया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिमंत बिस्वा सरमा फिर सत्ता की ओर, असम में सियासी दिग्गजों को कैसे छोड़ा पीछे",
-          "summary": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा ने विधानसभा चुनावों में पार्टी को बड़ी जीत दिलाई है. उनकी इस जीत के पीछे की वजह उनके बयान और नेतृत्व क्षमता को माना जा रहा है. हिमंत बिस्वा सरमा ने सियासी दिग्गजों को पीछे छोड़ दिया है.",
-          "region": "दुनिया"
+          "title": "संघर्ष थम गया, डर कायम है; UAE ने एक दिन में दो बार जारी किए अलर्ट",
+          "summary": "UAE ने एक दिन में दो बार अलर्ट जारी किए. यह अलर्ट संघर्ष के बाद जारी किया गया है. संघर्ष थम गया है लेकिन डर कायम है. संघर्ष थम गया, डर कायम है; UAE ने एक दिन में दो बार जारी किए अलर्ट Zee News।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -327,42 +327,6 @@
         "hi": {
           "title": "होर्मुज में अमेरिकी युद्धपोत पर ईरान का मिसाइल हमला, टूट गया संघर्ष विराम, दहलेगा मिडिल ईस्ट",
           "summary": "ईरान ने होर्मुज में अमेरिकी युद्धपोत पर मिसाइल हमला किया है. इस हमले से संघर्ष विराम टूट गया है और मध्य पूर्व में स्थिति गंभीर हो गई है. अमेरिकी युद्धपोत पर हमले के बाद से स्थिति और भी खराब हो गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान-अमेरिका तनाव: चीन क्या सोच रहा है?",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Uc0xtdDB6UE1lTkgxOEEyeGlBWHJrU2R5TGwtNm5OWWM2Yms2WExkYUwzckQ3enVTUXBMZHdUWGlLMGNpRmROYnduQ0xKVzNmbXJWc1J6MUFvb1VzdlZVZ0s0WklQMWhYQ1JXOWVNQ2kyZm9uZ3BKU1lQdlQ?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-05-04T10:40:52+00:00",
-      "image_url": "https://images.pexels.com/photos/17415373/pexels-photo-17415373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "चीन ईरान-अमेरिका तनाव पर अपनी स्थिति स्पष्ट नहीं कर रहा है. चीन के विचारों को जानना मुश्किल है क्योंकि वह अपनी बात नहीं कह रहा है. इस तनाव के बीच चीन की भूमिका महत्वपूर्ण हो गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान-अमेरिका तनाव: चीन क्या सोच रहा है?",
-          "summary": "चीन ईरान-अमेरिका तनाव पर अपनी स्थिति स्पष्ट नहीं कर रहा है. चीन के विचारों को जानना मुश्किल है क्योंकि वह अपनी बात नहीं कह रहा है. इस तनाव के बीच चीन की भूमिका महत्वपूर्ण हो गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तेहरान के 14-सूत्रीय प्रस्ताव पर आया US का जवाब, ईरान कर रहा अमेरिकी प्रतिक्रिया की समीक्षा",
-      "url": "https://www.amarujala.com/live/world/west-asia-live-updates-us-iran-ceasefire-strait-of-hormuz-islamabad-talks-trump-israel-lebanon-news-in-hindi-2026-05-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-04T06:22:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/19/west-asia-crisis_a05b82ad2180021a19af5cc5a7e33eef.gif?w=750&dpr=1.0",
-      "summary": "अमेरिकी सरकार ने तेहरान के 14-सूत्रीय प्रस्ताव पर अपनी प्रतिक्रिया दी है। ईरान इस प्रतिक्रिया की समीक्षा कर रहा है। यह घटनाक्रम इस्लामाबाद में हुए वार्ता के बाद सामने आया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेहरान के 14-सूत्रीय प्रस्ताव पर आया US का जवाब, ईरान कर रहा अमेरिकी प्रतिक्रिया की समीक्षा",
-          "summary": "अमेरिकी सरकार ने तेहरान के 14-सूत्रीय प्रस्ताव पर अपनी प्रतिक्रिया दी है। ईरान इस प्रतिक्रिया की समीक्षा कर रहा है। यह घटनाक्रम इस्लामाबाद में हुए वार्ता के बाद सामने आया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -386,6 +350,24 @@
       }
     },
     {
+      "title": "होर्मुज में कोरियाई जहाज पर धमाका, लगी भीषण आग; 'प्रोजेक्ट फ्रीडम' के बीच बढ़ी रार",
+      "url": "https://www.amarujala.com/world/strait-of-hormuz-south-korean-vessel-attack-fire-news-updates-2026-05-04",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-04T03:12:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/19/strait-of-hormuz-closed_3c3b82301d156870d53b7493d65991d5.jpeg?w=750&dpr=1.0",
+      "summary": "होर्मुज में एक कोरियाई जहाज पर धमाका हुआ और भीषण आग लग गई. यह घटना 'प्रोजेक्ट फ्रीडम' के बीच हुई है. इससे पश्चिम एशिया में तनाव बढ़ गया है. होर्मुज में कोरियाई जहाज पर धमाका, लगी भीषण आग; 'प्रोजेक्ट फ्रीडम' के बीच बढ़ी रार।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज में कोरियाई जहाज पर धमाका, लगी भीषण आग; 'प्रोजेक्ट फ्रीडम' के बीच बढ़ी रार",
+          "summary": "होर्मुज में एक कोरियाई जहाज पर धमाका हुआ और भीषण आग लग गई. यह घटना 'प्रोजेक्ट फ्रीडम' के बीच हुई है. इससे पश्चिम एशिया में तनाव बढ़ गया है. होर्मुज में कोरियाई जहाज पर धमाका, लगी भीषण आग; 'प्रोजेक्ट फ्रीडम' के बीच बढ़ी रार।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "ट्रंप ने ईरान के साथ बातचीत को बताया सकारात्मक, कहा- निकल सकते हैं अच्छे नतीजे",
       "url": "https://www.amarujala.com/world/trump-says-us-in-very-positive-discussions-with-iran-as-negotiations-continue-west-asia-conflict-2026-05-04",
       "source": "Amar Ujala World",
@@ -400,6 +382,24 @@
           "title": "ट्रंप ने ईरान के साथ बातचीत को बताया सकारात्मक, कहा- निकल सकते हैं अच्छे नतीजे",
           "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अमेरिका ईरान के साथ बहुत सकारात्मक चर्चा कर रहा है और बातचीत से अच्छे नतीजे निकल सकते हैं। ट्रंप ने पश्चिम एशिया में जारी संघर्ष के बीच यह बयान दिया।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर का कूटनीति में क़द कैसे बढ़ता चला गया?",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSFhzdENOZzZtTW10Nm1EdE9EMEZodS1vd2R6U19QTWJSRmEtb0tmZmU4VFllTlc4d1phT0tYcGVKNnU0QkF6ZG9xVGVzYUt5ZHA3RWJwdzJpSVnSAWBBVV95cUxOSURWZ2ZuTGFISVNacnBmTkg5Q0N6MkVYZkpjakNadEM1STVPLTVRd2ZvY2tDMlFoYnRrMDJsektwZm5vRlVlNG1acVp5WGFkTFNNbG5raWlLRXhVMDZSZTU?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-04T00:26:29+00:00",
+      "image_url": "https://images.pexels.com/photos/12274042/pexels-photo-12274042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर का कूटनीति में क़द बढ़ता जा रहा है. उनकी भूमिका और प्रभाव के बारे में जानकारी सामने आ रही है. पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर का कूटनीति में क़द कैसे बढ़ता चला गया?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर का कूटनीति में क़द कैसे बढ़ता चला गया?",
+          "summary": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर का कूटनीति में क़द बढ़ता जा रहा है. उनकी भूमिका और प्रभाव के बारे में जानकारी सामने आ रही है. पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर का कूटनीति में क़द कैसे बढ़ता चला गया?",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -458,6 +458,24 @@
       }
     },
     {
+      "title": "'सैनिकों की कटौती के बाद भी अमेरिका के साथ जारी रखेंगे सहयोग', जर्मन चांसलर मर्ज का बयान",
+      "url": "https://www.amarujala.com/world/germany-will-continue-cooperation-with-us-despite-troop-reduction-chancellor-statement-2026-05-04",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-03T19:51:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/08/faradaraka-maraja_8ec28c5bb4dabee53d11a757725bbf86.jpeg?w=750&dpr=1.0",
+      "summary": "जर्मन चांसलर मर्ज ने कहा कि अमेरिका द्वारा सैनिकों की कटौती के बाद भी जर्मनी अमेरिका के साथ सहयोग जारी रखेगा. मर्ज का यह बयान अमेरिका द्वारा जर्मनी में सैनिकों की संख्या कम करने के फैसले के बाद आया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'सैनिकों की कटौती के बाद भी अमेरिका के साथ जारी रखेंगे सहयोग', जर्मन चांसलर मर्ज का बयान",
+          "summary": "जर्मन चांसलर मर्ज ने कहा कि अमेरिका द्वारा सैनिकों की कटौती के बाद भी जर्मनी अमेरिका के साथ सहयोग जारी रखेगा. मर्ज का यह बयान अमेरिका द्वारा जर्मनी में सैनिकों की संख्या कम करने के फैसले के बाद आया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "स्ट्रेट ऑफ होर्मुज पर कूटनीति तेज, ईरान का 14 सूत्रीय प्रस्ताव; अमेरिका को दिया 30 दिन का अल्टीमेटम",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjlRbEtoczl0YW5sT1FiNUd4Yy1oNklVQktGYUgzSm9jdWdxbGVVczNDZDlKQlhPZlY2dlN5N051ZkhheF9URnVwcl84elJoRE5IaVcwQ29fYk9Kb1c3QVJOMmQtb1R5RFVVUkRaa3FYRk1LWmJuQ1dWTFI4U1I5MVhWTkJJYkpnSGJGN1J1SWwza2p2TlgxX2wwcTQ4VzEzWFpfQXRIdjJjVWJpVFlOWm1NZExwRkhWTFFVTXNucWVobmRpY20xVzdGa2h2Zw?oc=5",
       "source": "Google News Hindi (कूटनीति)",
@@ -471,6 +489,24 @@
         "hi": {
           "title": "स्ट्रेट ऑफ होर्मुज पर कूटनीति तेज, ईरान का 14 सूत्रीय प्रस्ताव; अमेरिका को दिया 30 दिन का अल्टीमेटम",
           "summary": "ईरान ने स्ट्रेट ऑफ होर्मुज के मुद्दे पर अमेरिका को 30 दिन का अल्टीमेटम दिया है. ईरान ने एक 14 सूत्रीय प्रस्ताव भी प्रस्तुत किया है. स्ट्रेट ऑफ होर्मुज पर कूटनीति तेज, ईरान का 14 सूत्रीय प्रस्ताव; अमेरिका को दिया 30 दिन का अल्टीमेटम Jagran।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "नेतन्याहू के तेहरान दौरे पर ईरान का कड़ा ऐतराज़, कूटनीति के लिए बताया ‘खतरनाक’",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd2d2STlMNUxWaUhMVTFPeEpRaldGZUpIVkdsYl9JREpCajBXZ0VKZXBEOXY0UkNacEFFNnVSc0VZYUFGR1VUUXBoaFRNZFBsYzA0cWNrSzhLakpTWjFMTzBHOUVOMlFLSWd1bGVlZnBtS3hMUWZPeFB2QjRnNVN2eHBZNkItQUY2ZVdUMGlPVDRSRFltTElua25pMTVDN1BiNllxM2plYXp2UQ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-03T18:13:29+00:00",
+      "image_url": "https://images.pexels.com/photos/17718729/pexels-photo-17718729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान ने इजराइल के प्रधानमंत्री नेतन्याहू के तेहरान दौरे पर कड़ा ऐतराज जताया है. ईरान ने इसे कूटनीति के लिए खतरनाक बताया है और इस तरह के दौरे को भविष्य में नहीं दोहराने की सलाह दी है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेतन्याहू के तेहरान दौरे पर ईरान का कड़ा ऐतराज़, कूटनीति के लिए बताया ‘खतरनाक’",
+          "summary": "ईरान ने इजराइल के प्रधानमंत्री नेतन्याहू के तेहरान दौरे पर कड़ा ऐतराज जताया है. ईरान ने इसे कूटनीति के लिए खतरनाक बताया है और इस तरह के दौरे को भविष्य में नहीं दोहराने की सलाह दी है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -490,24 +526,6 @@
           "title": "अमेरिका क्या ईरान पर फिर करेगा हमला, ट्रंप ने क्या कहा",
           "summary": "अमेरिकी राष्ट्रपति ट्रंप के एक बयान ने ईरान पर फिर हमला करने की आशंका को बढ़ा दिया है। ईरान के नए प्रस्ताव पर चर्चा जारी है। ईरान के नए प्रस्ताव पर अभी चर्चा जारी है लेकिन इस बीच ट्रंप के एक बयान से तनाव बढ़ने की आशंका पैदा हो गई है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "चीन के विरोध के बावजूद ताइवान राष्ट्रपति का एस्वातिनी दौरा, दोस्ती और ताकत का संदेश",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmRJdVNUc1habXVKd21RRi1DZ3RmdUhkYzJTXzY4RG9IOXJoajFsQ19VLTFKYmc3ajJyRXkwSVptNWpLNHpNemNZcERCUmlRVFROdU1sSU1JMGxSeWxmUjg5WFhuR0ZXbUdza21BYlBhMVA1SG5CRl9YdzFMRUUxN05lMHl2WC1iam9JZjl5bjI2ZzlBRFRuQU42M1MwRldNbkJXYlM1MEVmRFNKWHZYOEIxbV9sRkFlcEcwR3hhZ2Rfa3hpTFQw0gG4AUFVX3lxTE5vdFI5OTNMRW15YmwtTjZzbUYxVGZLNVRLVzFyQzkwSFo0ckw1b3U2ME1WVllPdFQwTzh2V25odzFMZF9TMk5NUEcyRUZNRURTNGZybWZNYTNqTEkzdGplUlNyTjh4Nndya0V2QkE3Sko1bjFfOWJIdkhZdnBsLVFIUU81bU9uS1lVRlVvNEkwekdBRkRtM1NJUlNfNDh1UHFSNGNrVlhlcDFkaXBLdllhN2gtSWJDbVA?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-02T18:18:15+00:00",
-      "image_url": "https://images.pexels.com/photos/13874850/pexels-photo-13874850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ताइवान के राष्ट्रपति ने चीन के विरोध के बावजूद एस्वातिनी का दौरा किया. इस दौरे से ताइवान की दोस्ती और ताकत का संदेश मिला है. कूटनीति में नया अध्याय?: चीन के विरोध के बावजूद ताइवान राष्ट्रपति का एस्वातिनी दौरा, दोस्ती और ताकत का संदेश Amar Ujala।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन के विरोध के बावजूद ताइवान राष्ट्रपति का एस्वातिनी दौरा, दोस्ती और ताकत का संदेश",
-          "summary": "ताइवान के राष्ट्रपति ने चीन के विरोध के बावजूद एस्वातिनी का दौरा किया. इस दौरे से ताइवान की दोस्ती और ताकत का संदेश मिला है. कूटनीति में नया अध्याय?: चीन के विरोध के बावजूद ताइवान राष्ट्रपति का एस्वातिनी दौरा, दोस्ती और ताकत का संदेश Amar Ujala।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -548,20 +566,20 @@
       }
     },
     {
-      "title": "ईरान के नए प्रस्ताव पर ट्रंप ने कहा- शत्रुता समाप्त पर अमेरिका जल्द पीछे नहीं हटेगा",
-      "url": "https://www.bbc.com/hindi/articles/ce3pyx32575o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "यूएन सुरक्षा परिषद का अध्यक्ष देश बना चीन",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xZjBtc2VkRjNBdjVhRlZvT0tUNFMwS29wN3NKMmFzbFVROUx6R3ROSXNJUjdHXzJmWnpGcXl1Nl9DcW53VU9wVmk1VjdLYTRXdjJLVkxzdElNU2VQWHREMEhR?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-02T05:23:37+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5094/live/3aa55e30-45d6-11f1-bb3d-5b3a66a10ec6.jpg",
-      "summary": "ईरान ने अमेरिका के साथ समझौते के लिए नया प्रस्ताव दिया है. अमेरिकी राष्ट्रपति ट्रंप ने कहा है कि वे इससे संतुष्ट नहीं हैं और जल्द पीछे नहीं हटेंगे. ईरान ने अमेरिका के साथ समझौते को लेकर नया प्रस्ताव दिया है लेकिन अमेरिकी राष्ट्रपति ट्रंप ने कहा है कि वो इससे संतुष्ट नहीं हैं.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-01T17:04:00+00:00",
+      "image_url": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "चीन संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष देश बन गया है. यह पद एक महीने के लिए चीन को सौंपा गया है और इस दौरान चीन सुरक्षा परिषद की गतिविधियों का नेतृत्व करेगा.",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान के नए प्रस्ताव पर ट्रंप ने कहा- शत्रुता समाप्त पर अमेरिका जल्द पीछे नहीं हटेगा",
-          "summary": "ईरान ने अमेरिका के साथ समझौते के लिए नया प्रस्ताव दिया है. अमेरिकी राष्ट्रपति ट्रंप ने कहा है कि वे इससे संतुष्ट नहीं हैं और जल्द पीछे नहीं हटेंगे. ईरान ने अमेरिका के साथ समझौते को लेकर नया प्रस्ताव दिया है लेकिन अमेरिकी राष्ट्रपति ट्रंप ने कहा है कि वो इससे संतुष्ट नहीं हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "यूएन सुरक्षा परिषद का अध्यक्ष देश बना चीन",
+          "summary": "चीन संयुक्त राष्ट्र सुरक्षा परिषद का अध्यक्ष देश बन गया है. यह पद एक महीने के लिए चीन को सौंपा गया है और इस दौरान चीन सुरक्षा परिषद की गतिविधियों का नेतृत्व करेगा.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -629,24 +647,6 @@
           "title": "ईरान की संसद की राष्ट्रीय सुरक्षा समिति के अध्यक्ष: यदि दुश्मन कूटनीति की भाषा नहीं समझता, तो मैदान",
           "summary": "ईरान की संसद की राष्ट्रीय सुरक्षा समिति के अध्यक्ष ने कहा कि यदि दुश्मन कूटनीति की भाषा नहीं समझता, तो मैदान की भाषा समीकरण बदल देगी. ईरान की संसद की राष्ट्रीय सुरक्षा समिति के अध्यक्ष: यदि दुश्मन कूटनीति की भाषा नहीं समझता, तो मैदान की भाषा समीकरण बदल देगी Pars Today।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त राष्ट्र सुरक्षा परिषद में सीट पाना चाहता है जर्मनी",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVTR2UkJMZThubjRJNG5fRVFHUmZfWmFydERjVFB3QndQaG5NOTg2ZFFxSlJkbTlqT3J4aloyZ3lqOXdSM25UNVo4QmZLa2NnWGtUeGgwWmRrbk4tajBtS1hSYUE1YzNYLV9GdzJKYm5vTVdGWF9DNFhmbWEyNkY2SUwzdFRpYTVWbEI0etIBjAFBVV95cUxPQW5sMXFnN1JBb1JMZ1JMTzZjWmY2LUFwM25BZnFsMlFWT3hBWUhjNHZRMzN3VTlhQW9McXRwcEY3ZmRrUHNnOW5xM0FNWENKYjRjYjE1VEczajNqTVV1dy13blRqeElJQi1XWFZ2ZzE0WWluckNBTnZwQTIyVnJOV19tMnhOVVdObzc2VQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-01T13:21:11+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "जर्मनी संयुक्त राष्ट्र सुरक्षा परिषद में सीट पाना चाहता है. यह जानकारी जर्मनी के एक अधिकारी ने दी है. संयुक्त राष्ट्र सुरक्षा परिषद में सीट पाना चाहता है जर्मनी DW. com।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संयुक्त राष्ट्र सुरक्षा परिषद में सीट पाना चाहता है जर्मनी",
-          "summary": "जर्मनी संयुक्त राष्ट्र सुरक्षा परिषद में सीट पाना चाहता है. यह जानकारी जर्मनी के एक अधिकारी ने दी है. संयुक्त राष्ट्र सुरक्षा परिषद में सीट पाना चाहता है जर्मनी DW. com।",
-          "region": "यूरोप और रूस"
         }
       }
     }
