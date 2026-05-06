@@ -1,45 +1,33 @@
 {
-  "generated_at": "2026-05-06T14:16:30.461918+00:00",
+  "generated_at": "2026-05-06T16:31:28.774993+00:00",
   "article_count": 42,
-  "total_unique_count": 254,
+  "total_unique_count": 250,
   "digest": {
-    "en": "Oil prices dropped and stock markets rose after reports of a deal to end the Iran war. Tehran cast doubt on the deal as Trump made new threats. The US-Iran conflict continues to escalate with Trump threatening Iran with 'higher level' bombing if it doesn't reopen the Strait of Hormuz.",
-    "hi": "अमेरिका और ईरान के बीच तनाव कम होने का नाम नहीं ले रहा है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को धमकी दी है कि अगर वह उनकी बात नहीं मानता है, तो वह बमबारी के लिए तैयार है। ईरान के खिलाफ अमेरिका ने संयुक्त राष्ट्र में एक प्रस्ताव पेश किया है।"
+    "en": "Tensions between the US and Iran dominate headlines. The UN demands Israel release flotilla activists. Iran's Foreign Ministry spokesperson says ties with India are flourishing.",
+    "hi": "अमेरिका और ईरान के बीच तनाव कम होने के संकेत मिल रहे हैं। दोनों देशों के बीच 14 सूत्रीय मसौदा तैयार किया गया है। इस मसौदे के तहत ईरान को अपने परमाणु कार्यक्रम को सीमित करने की बात कही गई है।"
   },
   "articles": [
     {
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-06T14:03:53+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dd1/live/df595320-493a-11f1-861c-270dbba6d6ae.jpg",
-      "summary": "Oil prices dropped and stock markets rose after reports of a potential deal to end the Iran war, raising hopes of an agreement between the US and Iran. This development comes after days of escalation, with markets reacting positively to the possibility of reduced tensions.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Tehran Appears to Cast Doubt on a Deal as Trump Makes New Threats",
-      "url": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-05-06T13:58:52+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/06/multimedia/06mideast-blog-promo-vwkc/06mideast-blog-promo-vwkc-mediumSquareAt3X.jpg",
-      "summary": "Tehran cast doubt on a deal with the US as President Trump made new threats, adding uncertainty to the negotiations. The developments raised concerns about the prospects of an agreement, with Iran's stance and Trump's comments affecting the situation.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "How China could shape the direction of the US-Iran war",
-      "url": "https://www.aljazeera.com/news/2026/5/6/araghchi-in-beijing-how-china-could-shape-the-direction-of-the-us-iran-war?traffic_source=rss",
+      "title": "UN demands Israel immediately releases flotilla activists",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss",
       "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-06T13:47:54+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26126225540505-1-1778064409.jpg?resize=1200%2C675",
-      "summary": "Analysts suggest China could play a role in shaping the US-Iran conflict, citing shared interests in reopening the Strait of Hormuz. This could create a path towards peace, as both the US and China have a vested interest in the stability of the region.",
+      "published_at": "2026-05-06T16:09:39+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778083758.jpg?resize=1920%2C1080&quality=80",
+      "summary": "The United Nations has called on Israel to immediately release two activists detained on a flotilla bound for Gaza. Israel has not commented on the UN's demand. The activists were detained on a ship attempting to reach Gaza.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes",
+      "url": "https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-06T16:07:42+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/06/multimedia/06int-worldcup-tickets-mgvh/06int-worldcup-tickets-mgvh-mediumSquareAt3X.jpg",
+      "summary": "Argentina's soccer fans face high ticket prices at the World Cup due to dynamic pricing. The tournament has become the most expensive in history, prompting fans to seek extreme measures to obtain tickets. Many fans are struggling to afford tickets.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -61,7 +49,7 @@
           "source": "The Hindu (International)"
         }
       ],
-      "published_at": "2026-05-06T13:47:01+00:00",
+      "published_at": "2026-05-06T15:57:50+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/2dd436/article70947201.ece/alternates/LANDSCAPE_1200/Epstein_Congress_Lutnick_5_683.jpg",
       "summary": "Iran has expressed interest in a \"comprehensive agreement\" with the US. The Strait of Hormuz has been virtually shut since February 28, blocking about 20% of world oil supplies. The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U. S.",
       "region": "Middle East & Africa",
@@ -69,208 +57,238 @@
       "translations": {}
     },
     {
-      "title": "How close is the United Kingdom to breaking up?",
-      "url": "https://www.dw.com/en/how-close-is-the-united-kingdom-to-breaking-up/a-77062505?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
+      "title": "Iran is now a superpower; ties with India are flourishing: Iran Foreign Ministry spokesperson",
+      "url": "https://www.thehindu.com/news/international/iran-is-a-superpower-india-ties-us-proposal-esmail-baghaei-interview/article70947467.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-06T13:20:00+00:00",
-      "image_url": "https://static.dw.com/image/77064480_6.jpg",
-      "summary": "The UK's unity is being questioned ahead of the May 7 elections, which could see nationalist gains in Scotland and Wales. Sinn Fein already leads in Northern Ireland, adding to concerns about the potential risks to the UK's unity.",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-06T15:34:36+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/bzk0je/article70947540.ece/alternates/LANDSCAPE_1200/2024100814550488183546271.jpg",
+      "summary": "Iran's Foreign Ministry spokesperson, Mr. Baqaei, stated that Iran's ties with India are flourishing. He also mentioned that Tehran is reviewing America's response to its peace proposal. The proposal aims to improve relations between Iran and the US.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
-      "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
-      "source": "The Guardian",
+      "title": "CNN founder Ted Turner, a brash and outspoken television pioneer, has died at age 87",
+      "url": "https://www.thehindu.com/news/international/cnn-founder-ted-turner-a-brash-and-outspoken-television-pioneer-has-died-at-age-87/article70947841.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-06T13:13:47+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/12d0007b0cdde9ce822699f5116757ce9dab443c/983_0_5965_4772/master/5965.jpg?width=140&quality=85&auto=format&fit=max&s=2a40aa3401f83ab0b8ede67884cd1165",
-      "summary": "The US cancelled tourist visas for board members of Costa Rica's leading newspaper, La Nación, which has been critical of President Rodrigo Chaves, an ally of Donald Trump. La Nación called the move an \"indirect attack on press freedom,\" criticizing the US's actions.",
-      "region": "Americas",
+      "published_at": "2026-05-06T15:34:06+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/xsaf76/article70947956.ece/alternates/LANDSCAPE_1200/AFP__20110419__GYI0064393940__v1__HighRes__TBoonePickensAndTedTurnerSpeakOnRenewable.jpg",
+      "summary": "Ted Turner, the founder of CNN and a television pioneer, has died at the age of 87. He transformed an Atlanta TV station into a satellite-based \"superstation\" and founded the first 24-hour news network, CNN. Turner was known for his outspoken personality.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Prestianni could miss Argentina games as FIFA extends ban to World Cup",
-      "url": "https://www.aljazeera.com/sports/2026/5/6/prestianni-could-miss-argentina-games-as-fifa-extends-ban-to-world-cup?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "3 strokes of caning for bullying: Singapore’s radical new rule for boys",
+      "url": "https://indianexpress.com/article/world/singapore-school-bullying-guidelines-caning-punishment-desmond-lee-rules-10676358/",
+      "source": "Indian Express World",
       "sources": [],
-      "published_at": "2026-05-06T13:11:41+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-02-17T200855Z_331242010_UP1EM2H1JYTB6_RTRMADP_3_SOCCER-CHAMPIONS-SLB-RMA-1778072864.jpg?resize=1920%2C1440",
-      "summary": "Gianluca Prestianni's FIFA ban has been extended to the World Cup, potentially keeping him out of Argentina's first two group games if he is selected for the squad. Gianluca Prestianni could miss Argentina's first two group games if he is selected in their World Cup squad.",
+      "published_at": "2026-05-06T15:32:54+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/Singapore-three-caning-rule-for-bullying.jpg",
+      "summary": "Singapore has introduced a new rule imposing three strokes of caning for bullying. The rule specifically targets boys and aims to curb bullying behavior in schools. The punishment is part of a broader effort to maintain discipline and safety in Singapore's education system.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Jason Dresen readies for the Peace Corps and, hopefully, the Foreign Service",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdm1paEVvZjc3V19mbThVY1hSbC1wSmZuVkxXYms4anppaUFPS3dLajlQMXBNQ2hTcWR3OFNscmRHaGt1NnZnWnM5eEVaWS1CUVJwTXVVUjNFWmZEeWtxMzBReTdvU2k0OFk5R1BuOWdCTnE3VDNoNG9uT1hNTlo1M08xZFFuTEZheFNZaVR4RFBpS3FsUGktaFppcld4X3lMbWVMM19n?oc=5",
+      "title": "Iran war angle in White House dinner shooting? US probes motive behind Cole Tomas Allen’s attack",
+      "url": "https://indianexpress.com/article/world/us-cole-allen-trump-assassination-attempt-motive-iran-war-10676078/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-06T15:19:19+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/Cole-Allen-1.jpg",
+      "summary": "US authorities are investigating the motive behind Cole Tomas Allen's attack at a White House dinner, with some speculating about a possible Iran angle. Allen, a 29-year-old man, was shot by Secret Service agents after attempting to breach the event.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ceasefire in a page: US, Iran shrink war to a memo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEd1Ykk3UHhNbkV0OE5KWjVHcGFNSnRHajkybEFfXzg1aC1SclpBLUtkWGRvM1AtT1RuZHAtR3ZEOFp0b21GOGtRMEtHMHZwTWRfQWN3dEFEQzRGNzZWLTRnUWlJcmRqUGExd3dETlJ1WHc5cnRYOUhVdldOdXZjMG9FUktaaXE1clF5MG5aTzBxeEdxM1RDV0NYTWdWNmZRNDhSc0RrRlNOeGstWk5XdEdfQ1JhTEtCdVJr0gHAAUFVX3lxTE95bTZ0a2UxTFNpZGF4WE5RV0FxSDgtS0stRWsza2l3SDdPY2tMN1M5MTgzeDdFWjM4am0wcnhlTWtBX1BiaWIzSTNxZjRLNFRYcWwwRkFzdVpDYzlRWjdtd1c1ajBXM1EtT2FtTmNlX0RWQ2Z2cUF5OEM3eHZxd1h5Y2VqeUQ0UUVCbktCcE9lLXEzNllxejFaQWZMdVRDNmZtMHNzemVrUkY1QkRsOTR6OW5iNWRUQUg0SzFBZkNUaA?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-06T15:10:00+00:00",
+      "image_url": "https://images.pexels.com/photos/35710201/pexels-photo-35710201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US and Iran have agreed to a ceasefire, with the terms outlined in a single-page memo. The agreement marks a significant shift in the conflict, with both sides seeking to reduce tensions.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Four killed in post-election violence in India’s West Bengal",
+      "url": "https://www.aljazeera.com/news/2026/5/6/four-killed-in-post-election-violence-in-indias-west-bengal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-06T15:03:45+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fb4aa6287c-1778076326.jpg?resize=1920%2C1440",
+      "summary": "Four people were killed in post-election violence in India's West Bengal, where the ruling BJP won the state election for the first time. The unrest has gripped the key eastern state, with reports of clashes between supporters and opponents.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How I Got My Career in Foreign Policy: Liana Fix",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGNKcENKVDk4QjdQM09XN3BOZkdEZnpHdm8xcHdMZmxVbHd4SEVQS2ZpV2dLZkF1U1dLLWZicmZ6aHJ4LUtlS05yOGhOcnNNeThwMmJVNUN2SHlZOHVWV1hTcHAybnhnazZlVFRUaEQ0Q3BjRi1vamZmSkR5VHZ5anZn?oc=5",
       "source": "Google News (international relations)",
       "sources": [],
-      "published_at": "2026-05-06T13:00:44+00:00",
-      "image_url": "https://images.pexels.com/photos/5421779/pexels-photo-5421779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Jason Dresen is preparing to join the Peace Corps and potentially pursue a career in the Foreign Service after graduating from VCU in 2026. Class of 2026: Jason Dresen readies for the Peace Corps and, hopefully, the Foreign Service VCU News.",
+      "published_at": "2026-05-06T15:02:26+00:00",
+      "image_url": "https://images.pexels.com/photos/8761549/pexels-photo-8761549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Liana Fix, a foreign policy expert, has spoken about her career path in a recent interview. Fix, a Council on Foreign Relations fellow, has worked on various international projects and has written extensively on global issues.",
       "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "What happened to Trump’s ‘Project Freedom’?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-happened-to-trumps-project?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Leo XIV Is the First Pope From the U.S. He’s Making That an Asset.",
+      "url": "https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html",
+      "source": "NYT World",
       "sources": [],
-      "published_at": "2026-05-06T12:56:16+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778072157.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Donald Trump announced 'Project Freedom' to escort stranded ships through the strait, but the operation was paused without explanation. Donald Trump announced ‘Project Freedom’, an operation to escort stranded ships through the strait.",
+      "published_at": "2026-05-06T15:02:05+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/06/multimedia/06int-pope-america-01-tqck/06int-pope-america-01-tqck-mediumSquareAt3X.jpg",
+      "summary": "Pope Leo XIV, the first American pontiff, has used his papacy to challenge Washington, defying concerns about his election. A year into his role, Leo has shown a willingness to take a more assertive stance on global issues.",
       "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Venice Biennale in crisis: The controversies explained",
-      "url": "https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-06T12:52:00+00:00",
-      "image_url": "https://static.dw.com/image/77067012_6.jpg",
-      "summary": "The Venice Biennale jury resigned over disputes about Russia's and Israel's participation, resulting in the Golden Lion award being withheld this year. Following the resignation of the jury over Russia's and Israel's disputed participation, the traditional Golden Lion will not be awarded this year.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran says Strait of Hormuz passage to be ensured after US pauses operation",
-      "url": "https://www.aljazeera.com/news/2026/5/6/french-container-ship-struck-in-latest-escalation-at-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-06T12:41:46+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T055232Z_427656942_RC210LA8L9HZ_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1777880755.jpg?resize=1920%2C1440",
-      "summary": "Iran's Islamic Revolutionary Guard Corps says it will ensure safe passage through the Strait of Hormuz with new procedures in place after the US paused its operation. Navy of Iran's Islamic Revolutionary Guard Corps (IRGC) says safe transit will be ensured with new procedures in place.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What is the FDD, the pro-Israel think tank shaping Trump’s Iran policy?",
-      "url": "https://www.aljazeera.com/news/2026/5/6/what-is-the-fdd-the-pro-israel-think-tank-shaping-trumps-iran-policy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-06T12:39:22+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/epa_69faefcd6b9d-1778053069.jpg?resize=1920%2C1440",
-      "summary": "The Foundation for Defense of Democracies (FDD), a pro-Israel think tank, has influenced Trump's Iran policy with its talking points. The FDD's stance on US-Israel cooperation against Iran has been adopted by the Trump administration.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran says ships can pass Strait of Hormuz as Trump warns of bombings without a deal",
-      "url": "https://www.npr.org/2026/05/06/nx-s1-5813497/iran-war-strait-hormuz-updates",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-05-06T12:33:09+00:00",
-      "image_url": "https://images.pexels.com/photos/15904544/pexels-photo-15904544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Iran's Revolutionary Guard announced that ships can pass through the Strait of Hormuz under unspecified procedures. This came after President Trump paused a US military effort to escort vessels through the strait.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "'If They Don't Agree, Bombing Starts': Trump Threatens Iran Amid Deal Buzz",
-      "url": "https://www.ndtv.com/world-news/iran-war-if-they-dont-agree-bombing-starts-trump-threatens-iran-amid-deal-buzz-11457592#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-06T12:23:50+00:00",
-      "image_url": "https://c.ndtvimg.com/2o50stv8_donald-trump-reuters-650_625x300_27_July_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "President Trump threatened Iran, stating that bombing would start if they don't agree to a deal. The threat comes amid ongoing diplomatic efforts and rising tensions between the US and Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russia snubs Ukraine's unilateral ceasefire, firing dozens of drones",
-      "url": "https://www.thehindu.com/news/international/russia-snubs-ukraines-unilateral-ceasefire-firing-dozens-of-drones/article70946508.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-06T12:03:59+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/gmqxu9/article70946803.ece/alternates/LANDSCAPE_1200/2026-05-06T062238Z_74369764_RC2G3LA0PLZG_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV.JPG",
-      "summary": "Russia launched drone strikes on Ukraine, killing 27 civilians, despite Ukraine's unilateral ceasefire. The attack disregards ongoing peace efforts and escalates the conflict between Russia and Ukraine. Russia disregards Ukraine’s ceasefire, launching drone strikes that kill 27 civilians amid ongoing conflict and failed peace efforts.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
-      "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-06T11:53:20+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a8/live/3bc83270-493b-11f1-b55d-0f258dce1735.png",
-      "summary": "Russia attacked a kindergarten in Ukraine, prompting the Ukrainian president to state that Russia has \"spurned the ceasefire\". Kyiv is now deciding on further action to take in response to the Russian aggression.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Crocodile spotted in waters off Sentosa, water activities at beaches halted",
-      "url": "https://www.channelnewsasia.com/singapore/sentosa-crocodile-spotted-water-activities-siloso-palawan-tanjong-beach-6104051",
+      "title": "India's Paytm forecasts higher revenue growth in FY 2027",
+      "url": "https://www.channelnewsasia.com/business/indias-paytm-forecasts-higher-revenue-growth-in-fy-2027-6104526",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-05-06T11:53:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--lO1c2ArH--/c_crop,h_414,w_736,x_0,y_580/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/06/img_1051.png?itok=B4FeeU2h",
-      "summary": "A crocodile was spotted in waters off Sentosa, prompting a halt to water activities at beaches. This is the second reported sighting this year, following one in late January. Authorities have taken measures to ensure public safety.",
-      "region": "World",
+      "published_at": "2026-05-06T15:00:07+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--qTjSXSW4--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-06T150007Z_1_LYNXMPEM45152_RTROPTP_3_PAYTM-INDIA.JPG?itok=i4xp9NI9",
+      "summary": "The company expects an increase in revenue, though specific targets have not been disclosed, indicating a positive outlook for the financial year. India's Paytm forecasts higher revenue growth in FY 2027.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "German police raid neo-Nazi criminal youth groups",
-      "url": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Israeli strikes on Lebanon kill 4 despite ceasefire",
+      "url": "https://www.channelnewsasia.com/world/israeli-strikes-lebanon-kill-4-despite-ceasefire-6104516",
+      "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-05-06T11:34:56+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e57/live/335b21d0-4939-11f1-a36a-6bbcbd5b2296.jpg",
-      "summary": "German police raided locations in 12 states, mainly in the East and South, targeting neo-Nazi criminal youth groups. Prosecutors described the operation as a targeted raid. The searches aimed to disrupt the groups' activities.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Democrats gain midterm edge, NPR poll shows. And, U.S. pauses 'Project Freedom'",
-      "url": "https://www.npr.org/2026/05/06/g-s1-120384/up-first-newsletter-economy-democrats-poll-advantage-indiana-primary-project-freedom-paused",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-05-06T11:32:52+00:00",
-      "image_url": "https://images.pexels.com/photos/5926296/pexels-photo-5926296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Democrats have gained an edge over Republicans in voter enthusiasm for the midterm elections, according to an NPR poll. Meanwhile, Trump announced that \"Project Freedom\" is paused due to progress toward an Iran agreement.",
+      "published_at": "2026-05-06T14:54:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--1POGTXA7--/c_crop,h_576,w_1024,x_0,y_50/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/06/000_a9z97cq.jpg?itok=6cITrOwM",
+      "summary": "Israeli strikes on Lebanon killed four people, occurring despite a ceasefire. The strikes have resulted in casualties, highlighting the ongoing tensions in the region. Israeli strikes on Lebanon kill 4 despite ceasefire.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Hantavirus strain capable of human transmission found in 2 cruise ship passengers, officials say",
-      "url": "https://www.thehindu.com/news/international/hantavirus-strain-capable-of-human-transmission-found-in-2-cruise-ship-passengers-officials-say/article70946591.ece",
+      "title": "Indonesia’s new(ish) aircraft carrier: defence boost or expensive gamble?",
+      "url": "https://www.thehindu.com/news/international/indonesias-newish-aircraft-carrier-defence-boost-or-expensive-gamble/article70947582.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-06T10:34:19+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/40x6cz/article70946609.ece/alternates/LANDSCAPE_1200/2026-05-06T084118Z_139542630_RC2A3LAJADKJ_RTRMADP_3_CRUISESHIP-HANTAVIRUS.JPG",
-      "summary": "Two cruise ship passengers were found to have the Andes virus, a strain of hantavirus capable of human transmission. The World Health Organization says this virus is primarily found in Argentina and Chile.",
-      "region": "Americas",
+      "published_at": "2026-05-06T14:53:59+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/5qcird/article70947896.ece/alternates/LANDSCAPE_1200/2026-04-28T140503Z_828795662_RC2DYKANN6M3_RTRMADP_3_ITALY-INDONESIA-DEFENCE.JPG",
+      "summary": "Indonesia is set to acquire its first aircraft carrier, the Giuseppe Garibaldi. The Indonesian Naval Chief stated it will be used for non-war military operations, aiming to boost maritime capabilities.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "NATO in the Writers’ Room: Propaganda Play or Industry Partnership?",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODh2RV9oV2pkbk9rVlNueTVoLVp0OTBuZ2hVWGNNZGkyVFNMeGFSQXpTYkgtcjVTRkd0R0ZEcUVlcjRCMjRrMG9SVWp5amctbVNSc093dnVXUW9udWd0V0lVZF84c21DSnhiRGNZanl4bEpoT1E2bkM0aURkUjcwQVFYSHhxaUxLdHBCS05kX29qVnFIbWhDV05uZ0hoZWc?oc=5",
-      "source": "Google News (NATO conflict)",
+      "title": "CNN Founder And TV News Trailblazer Ted Turner Dies At 87",
+      "url": "https://www.ndtv.com/world-news/cnn-founder-and-tv-news-trailblazer-ted-turner-dies-at-87-11458353#publisher=newsstand",
+      "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-05-06T10:07:30+00:00",
-      "image_url": "https://images.pexels.com/photos/6039866/pexels-photo-6039866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "NATO's involvement in writers' rooms has raised questions about its intentions. The alliance's actions have sparked debate about whether it is engaging in propaganda or a legitimate industry partnership. Details about NATO's activities are limited.",
+      "published_at": "2026-05-06T14:50:31+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/sk87vqgk_s_625x300_06_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Ted Turner, founder of CNN and a pioneer in 24-hour cable news, has died at 87. CNN launched in 1980 under his leadership, revolutionizing news consumption. CNN launched in 1980 as the first 24-hour cable news network.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Pioneering CNN founder Ted Turner dies at 87",
+      "url": "https://www.channelnewsasia.com/world/ted-turner-founder-cnn-dies-87-6104506",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-06T14:50:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--jVFcyNHx--/c_crop,h_576,w_1024,x_0,y_16/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/06/000_a9zp263.jpg?itok=gqjwHDnT",
+      "summary": "Ted Turner, founder of CNN, died at 87. He launched CNN in 1980 as the first 24-hour news outlet, changing the landscape of news broadcasting. Ted Turner founded CNN as the first 24-hour news outlet in 1980.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Who is Zack Polanski, UK Greens leader and rising political star?",
+      "url": "https://www.aljazeera.com/news/2026/5/6/who-is-zack-polanski-uk-greens-leader-and-rising-political-star?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-06T14:47:33+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69fb3ec4-1778073284.jpg?resize=1920%2C1440",
+      "summary": "Zack Polanski, leader of the UK Greens, is gaining attention for his blend of environmental and socialist policies. He has drawn comparisons to Zohran Mamdani, a rising star in New York politics.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "Former PAP MP Ong Ah Heng dies aged 84",
+      "url": "https://www.channelnewsasia.com/singapore/ong-ah-heng-former-pap-mp-dies-aged-84-6104351",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-06T14:43:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--C3mOSc-8--/c_crop,h_759,w_1350,x_0,y_92/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/06/copy-of-54-hero-image-composites-1.jpg?itok=VuJbCZXv",
+      "summary": "Ong Ah Heng, a former PAP MP, has died at 84. He served three terms in Nee Soon Central SMC from 1997 to 2011. He was a three-term MP for Nee Soon Central SMC from 1997 to 2011.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Greetings from a sea village in Indonesia, where Indigenous fishing gets help from mangroves",
+      "url": "https://www.npr.org/2026/05/06/g-s1-119852/indonesia-mangrove-conservation-fishing-sulawesi-bajau",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-05-06T14:38:43+00:00",
+      "image_url": "https://images.pexels.com/photos/15647015/pexels-photo-15647015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The Indonesian village of Torosiaje is benefiting from mangroves to support Indigenous fishing. Colorful stilted houses in the village are perched over the Molucca Sea. As a water taxi rounded a corner at sunset, the village of Torosiaje came into view, with its colorful stilted houses perched over the Molucca Sea.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "F1 and Sky agree five-year extensions to UK and Italy broadcast deals",
+      "url": "https://www.channelnewsasia.com/sport/f1-and-sky-agree-five-year-extensions-uk-and-italy-broadcast-deals-6104466",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-06T14:38:24+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--QjErVMed--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-06T143824Z_2_LYNXMPEM4513U_RTROPTP_3_MOTOR-F1-AI.JPG?itok=IBi3WOqh",
+      "summary": "F1 and Sky have agreed to five-year extensions for UK and Italy broadcast deals. The terms of the agreements have not been disclosed. F1 and Sky agree five-year extensions to UK and Italy broadcast deals.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "The Lessons of the Long Confucian Peace",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WYXh2YVN5QTNlMnlzUDBpUG5sVjJ2NU5qZUN6anRMdzhSeU4xRlhaZEVNbi0zQUdqZXduOEVNV1lNNzYxWE5lNjVRZkVGY3ZwQllobUJ0UXUzY001a1p5M1BPTElQdnZXWmo2NGJsRHFJRVk?oc=5",
+      "source": "Google News (international relations)",
+      "sources": [],
+      "published_at": "2026-05-06T14:33:09+00:00",
+      "image_url": "https://images.pexels.com/photos/20753883/pexels-photo-20753883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The article \"The Lessons of the Long Confucian Peace\" appears in Foreign Affairs. No further details are available on the content or authorship of the piece. The Lessons of the Long Confucian Peace Foreign Affairs.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "विजय के साथ जाकर और डीएमके से गठबंधन तोड़कर कांग्रेस को आख़िर क्या हासिल होगा?",
+      "url": "https://www.bbc.com/hindi/articles/c1k2jeyg4ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-06T16:25:27+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/492e/live/c9cf4d50-4955-11f1-b55d-0f258dce1735.jpg",
+      "summary": "तमिलनाडु में कांग्रेस ने डीएमके से गठबंधन तोड़ दिया है और अभिनेता से नेता बने विजय का समर्थन किया है. विजय ने राज्यपाल से मिलकर सरकार बनाने का दावा पेश किया है. डीएमके ने कांग्रेस के इस फ़ैसले को ‘पीठ में छुरा घोंपने’ वाला बताया है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विजय के साथ जाकर और डीएमके से गठबंधन तोड़कर कांग्रेस को आख़िर क्या हासिल होगा?",
+          "summary": "तमिलनाडु में कांग्रेस ने डीएमके से गठबंधन तोड़ दिया है और अभिनेता से नेता बने विजय का समर्थन किया है. विजय ने राज्यपाल से मिलकर सरकार बनाने का दावा पेश किया है. डीएमके ने कांग्रेस के इस फ़ैसले को ‘पीठ में छुरा घोंपने’ वाला बताया है.",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "अभी नहीं तो कभी नहीं खत्म होगा अमेरिका-ईरान युद्ध... ट्रंप-खामेनेई का 14 सूत्रीय मसौदा तैयार; क्या",
@@ -286,42 +304,6 @@
         "hi": {
           "title": "अभी नहीं तो कभी नहीं खत्म होगा अमेरिका-ईरान युद्ध... ट्रंप-खामेनेई का 14 सूत्रीय मसौदा तैयार; क्या",
           "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और ईरान के सर्वोच्च नेता अली खामेनेई के बीच 14 सूत्रीय मसौदा तैयार किया गया है। इसका उद्देश्य अमेरिका और ईरान के बीच युद्ध को समाप्त करना है। दोनों देशों के बीच तनाव कम करने के लिए यह मसौदा महत्वपूर्ण हो सकता है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पश्चिम बंगाल में ममता की हार पर बांग्लादेश की ये टिप्पणी",
-      "url": "https://www.bbc.com/hindi/articles/cnvpq7ln3d6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-06T12:05:23+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6a4/live/1412be00-4867-11f1-804a-9d85b054b34f.jpg",
-      "summary": "पश्चिम बंगाल विधानसभा चुनाव में ममता बनर्जी की हार के बाद, बांग्लादेश में तीस्ता जल बँटवारा संधि को लेकर 관심이 बढ़ा है। ममता बनर्जी को इस संधि में बाधा के रूप में देखा जाता था, लेकिन अब बीजेपी के लिए इसे अंजाम तक पहुँचाना आसान हो सकता है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पश्चिम बंगाल में ममता की हार पर बांग्लादेश की ये टिप्पणी",
-          "summary": "पश्चिम बंगाल विधानसभा चुनाव में ममता बनर्जी की हार के बाद, बांग्लादेश में तीस्ता जल बँटवारा संधि को लेकर 관심이 बढ़ा है। ममता बनर्जी को इस संधि में बाधा के रूप में देखा जाता था, लेकिन अब बीजेपी के लिए इसे अंजाम तक पहुँचाना आसान हो सकता है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जैब अंसारी के अंतरराष्ट्रीय नेटवर्क और ISIS संबंधों की ATS जांच",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUp5TlBzX0xxZURBdHU5Z3FMYkgyUHBKb0V6ZlpDb2lTcFltZEdxdVhOU2tzdW14TG40Tk5UOWF1a3R1X0NYTEN3V0RTTExydmEyUjNNN09SRkNfb1RzaUctQWRJZ1NoMTJfeDU5RTZjenlUWVJ5dUJwcW1za3MtWExHTS15YkMtdGxXalp2OE1iQlVQc203dGdYT3VvWklza3ZpOF9GZFBERGM0WDNVenY3bXhXWS1HYk5vTEhDZmhZdmJH0gHKAUFVX3lxTE9MRVRucS1LSXp2YVEyaXd1Y05Gby0zY3ZsZXJwZnF4OHNJQUZxVDhWdXpmYklaRHZPbVROVFk5REpYWDBqTEJpVGRUWFI3bHJRc1dTNm1yUjR2ejQxYzE5YVNJQWJHd1luTDdfZXg0ODdlb3J0eW1YYmpPQlZwM1E2V1FCVXMyMWU0V3k4b1B4b09Zd1AxQ2dpUFYySDVFNEY5bDlaY0lVSVFEa0lrMVY0ajdlNFZBcmdoSmtWejhGaVhGT1pEbDJPdEE?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-05-06T11:48:59+00:00",
-      "image_url": "https://images.pexels.com/photos/11572425/pexels-photo-11572425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "मिरा रोड मामले में जैब अंसारी के अंतरराष्ट्रीय नेटवर्क और ISIS संबंधों की जांच आतंकवाद विरोधी स्क्वाड (ATS) कर रही है। यह जांच अंसारी के संबंधों और गतिविधियों के बारे में जानकारी इकट्ठा करने के लिए की जा रही है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जैब अंसारी के अंतरराष्ट्रीय नेटवर्क और ISIS संबंधों की ATS जांच",
-          "summary": "मिरा रोड मामले में जैब अंसारी के अंतरराष्ट्रीय नेटवर्क और ISIS संबंधों की जांच आतंकवाद विरोधी स्क्वाड (ATS) कर रही है। यह जांच अंसारी के संबंधों और गतिविधियों के बारे में जानकारी इकट्ठा करने के लिए की जा रही है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -345,38 +327,74 @@
       }
     },
     {
-      "title": "ईरान के खिलाफ अमेरिका ने संयुक्त राष्ट्र में पेश किया प्रस्ताव, रूस-चीन से की ये अपील",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNbmhqTUc5WmlOU2V4UlhEMWdqRVI3QUNhakQzZFFXYVNtaVFiLWl5Q0lzWUlNRGpDWERGeW5leWFvN2RUZko5Ym1IQWR6MGpBSTVuNlNjYkttNE1iaW5hcjExYU1LN2JtV3F0VENGeDlKbEROcm5JcTJOQmxoRGEwemhzQlAwSDZQTGZ6MjM0aVRjOFVzQm1ESWQ4TU5RRzJYeG9VOUNxTUhaVnlnUERpMFlhTlRQWm1hNmdXcVNYMUtLcVNhcXFTLTFfOXFsVHpVNnBaODdkNlU5azdQeEN5b0gzWkpKVElrMlY5a3Znc0ZsV3h0Q2hHRmdWZ215Tk9sQkdYQWJCcXZsbTlMTFN2c3ExaWxPSTdIdkVHNjdvQ3FWd9IBogJBVV95cUxNbmhqTUc5WmlOU2V4UlhEMWdqRVI3QUNhakQzZFFXYVNtaVFiLWl5Q0lzWUlNRGpDWERGeW5leWFvN2RUZko5Ym1IQWR6MGpBSTVuNlNjYkttNE1iaW5hcjExYU1LN2JtV3F0VENGeDlKbEROcm5JcTJOQmxoRGEwemhzQlAwSDZQTGZ6MjM0aVRjOFVzQm1ESWQ4TU5RRzJYeG9VOUNxTUhaVnlnUERpMFlhTlRQWm1hNmdXcVNYMUtLcVNhcXFTLTFfOXFsVHpVNnBaODdkNlU5azdQeEN5b0gzWkpKVElrMlY5a3Znc0ZsV3h0Q2hHRmdWZ215Tk9sQkdYQWJCcXZsbTlMTFN2c3ExaWxPSTdIdkVHNjdvQ3FWdw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "यूरोप में क्यों बढ़ रहे हैं अमेरिकी सैन्य अड्डे, क्या है उनकी भूमिका",
+      "url": "https://www.bbc.com/hindi/articles/cvgzn7ll74qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-06T09:29:39+00:00",
-      "image_url": "https://images.pexels.com/photos/36675779/pexels-photo-36675779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिका ने संयुक्त राष्ट्र में ईरान के खिलाफ एक प्रस्ताव पेश किया, जिसमें रूस और चीन से समर्थन की अपील की गई. यह प्रस्ताव ईरान के साथ अमेरिका के तनाव के बीच आया है.",
+      "published_at": "2026-05-06T09:05:38+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/45ee/live/7cec6fc0-492a-11f1-bd52-e755d604ece4.jpg",
+      "summary": "यूरोप में अमेरिकी सैन्य अड्डों की तैनाती शीत युद्ध के दौरान शुरू हुई थी और अब भी जारी है. इन अड्डों पर अधिकतर अमेरिकी सैनिक यूरोपीय सेनाओं को ट्रेनिंग में मदद देने और नेटो का सहयोग करने के लिए तैनात हैं.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान के खिलाफ अमेरिका ने संयुक्त राष्ट्र में पेश किया प्रस्ताव, रूस-चीन से की ये अपील",
-          "summary": "अमेरिका ने संयुक्त राष्ट्र में ईरान के खिलाफ एक प्रस्ताव पेश किया, जिसमें रूस और चीन से समर्थन की अपील की गई. यह प्रस्ताव ईरान के साथ अमेरिका के तनाव के बीच आया है.",
+          "title": "यूरोप में क्यों बढ़ रहे हैं अमेरिकी सैन्य अड्डे, क्या है उनकी भूमिका",
+          "summary": "यूरोप में अमेरिकी सैन्य अड्डों की तैनाती शीत युद्ध के दौरान शुरू हुई थी और अब भी जारी है. इन अड्डों पर अधिकतर अमेरिकी सैनिक यूरोपीय सेनाओं को ट्रेनिंग में मदद देने और नेटो का सहयोग करने के लिए तैनात हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "'भारत-पाकिस्तान में अगला संघर्ष होगा और खतरनाक', अमेरिकी एक्सपर्ट की चेतावनी, ट्रंप के क्रेडिट लेने",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQaUUtQXJtaG5jVzhWa25FYnZWUkF1d1JsQ2hsRzE1dmctZm1NbHdBOWE1MXFkMno1Wk0xVWhIU2lneHRHMXdudTFnRGxxSlBnWnJQYkVpN0lKZmozdmhXRVQzbXhWWC1CLUlzUkg2NjAza1RQa1hhR2dObWxELTFhLXZmVm5NU1R4T283SExGblpCRk9kakVTOEZaQXJ5VjczcTNFZDBjS0Z0NHhSTVE4R1p3TWc3enYta2l5T2Z6WlIxdmxrdU1iQXpwaktNQzBxYkllbUxJb0FaVTJZTTZ0cEtMZ21kMDBmTFQ2NC1zY2dBUm4wV1hXWDFaNEYzd01JMXpCUUQxUWR1clNNbG1oYkVYYXHSAZQCQVVfeXFMUGlFLUFybWhuY1c4VmtuRWJ2VlJBdXdSbENobEcxNXZnLWZtTWx3QTlhNTFxZDJ6NVpNMVVoSFNpZ3h0RzF3bnUxZ0RscUpQZ1pyUGJFaTdJSmZqM3ZoV0VUM214VlgtQi1Jc1JINjYwM2tUUGtYYUdnTm1sRC0xYS12ZlZuTVNUeE9vN0hMRm5aQkZPZGpFUzhGWkFyeVY3M3EzRWQwY0tGdDR4Uk1ROEdad01nN3p2LWtpeU9melpSMXZsa3VNYkF6cGpLTUMwcWJJZW1MSW9BWlUyWU02dHBLTGdtZDAwZkxUNjQtc2NnQVJuMFdYV1gxWjRGM3dNSTF6QlFEMVFkdXJTTWxtaGJFWGFx?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "title": "कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री",
+      "url": "https://news.google.com/rss/articles/CBMi0gdBVV95cUxOQjZwMmkyUUpCcVZtZ1ExQUNkWGJOYXhEZUdWOUQyenJwZmxvNGpWeHY3RE5qRWhiRWNITXJidktZeFBxRWFEM05Uc0F3U19tcUFsQnhUYl80QXViSklTQXVJa2FDY1h2U0pXRi1fSUdBT0hlbG1mVzdGMExRVjBFY0tYZXpXMmVWWGRrX0s0ODJvWlMzdW9TR0F1VU54RnBEcV9VbDNjeE91Wmhod25OUEFRQVB2MDU0N3E2N3Vjd083STNzYWtycUtKYTZTX01pQ1pMX3VCTlZSVHFOZkxZOURwMzNHaFM3RXNQdktPanZxQVQxOHlRT0VmNmJmcTRuSWJQMkhWdzZJemw5UzJjd3ZMWjJPSF9EenhzbGgydlQzc3lOQjc5UU1WamFHLWJ4ZWlBNFN4WnFWejl5UjEtRlVES1FIdUZOLVl0TGpFZjRsaHliSXdiVTIxMWxEU3lPdktNa2JnRHZqQTNaYVdEOHpKYmdmZUFudGV4Qy1naXJQSTZyS3duMXpndjczblQ4by1Zd0lXRkVuN2hnSExWcUZKSzJ6Z2RGUGJVcllTaDQ5WkRmbElfVmdzaWxGVzZabXgxMnBKaVVEQjlkemhZOFdwdFJYU2hQT01zLVUxMWExR002bFhNaE9IaFRVcFJMZ1A1aEh0OVE5azZpSXdzbTJIYkhLdllCVWRzOEVGUDRlUXA5eGJMbV9TQzNqMHQ5bVM2OGFXZHJNSGJmSkx4UHdaLTlEbi1aMDBOUTBMak9TdzMyVk82U1dBbG0wUXdZVm51eWhJRmNiMmRiSnRVWTg2T2Q3U1VPc3R4RGxvc0E5MnhTVzlDTEJhVGt4SzlDbDQtNlBPbnZualZONWZkMUZxLXBXMkpZRms0UTlnbjJCUms2NXpFM2ZGTXlQVlFuSmJmNWFXQmh5ZjEtem1yN25Bc2E5N2dlRGFNbVY5UnNPVGZBVWFZZDJ4aHQyejd2aWFWS213OHdDVWppV1J4NjdXb1JPeGFUZTJGTVB0a1FxaDVvREs3VlM2NXFNLTJYV2FEZDFmNkRlX2ZrRHg5NUxKanplWDZvNzJwbGNfTlRUVlMzT2tlTVh4Y05LS1ZuN29veDBteHgtNjg4NnltaGM2anEyZ3lZOTZ4SnB3ZE9HLUY1aEZZbWhwV3BXcEE3NEdWaU1wTDVoNlQ1eWNDX0pGY0Y5RElhYmtNMW51VkZuTWY0cXdXNjhNbUNUSFNTaDBBb09nS0xFSnpueV9DUDAzUmp1RElKbS1ZcGQ3emdtcHVXS3dPVTJ0X3NncDhRWGc?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
       "sources": [],
-      "published_at": "2026-05-06T04:58:48+00:00",
-      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी एक्सपर्ट ने चेतावनी दी है कि भारत और पाकिस्तान के बीच अगला संघर्ष और खतरनाक हो सकता है। उन्होंने कहा कि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के इस मुद्दे पर क्रेडिट लेने से मुश्किलें बढ़ सकती हैं।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-06T06:30:24+00:00",
+      "image_url": "https://images.pexels.com/photos/36212636/pexels-photo-36212636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "मई में भारत के लिए कूटनीति के मोर्चे पर कई महत्वपूर्ण घटनाएं होंगी. प्रधानमंत्री मोदी यूरोप का दौरा करेंगे और अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे. यह भारत के लिए एक निर्णायक समय होगा.",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'भारत-पाकिस्तान में अगला संघर्ष होगा और खतरनाक', अमेरिकी एक्सपर्ट की चेतावनी, ट्रंप के क्रेडिट लेने",
-          "summary": "अमेरिकी एक्सपर्ट ने चेतावनी दी है कि भारत और पाकिस्तान के बीच अगला संघर्ष और खतरनाक हो सकता है। उन्होंने कहा कि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के इस मुद्दे पर क्रेडिट लेने से मुश्किलें बढ़ सकती हैं।",
-          "region": "एशिया-प्रशांत"
+          "title": "कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री",
+          "summary": "मई में भारत के लिए कूटनीति के मोर्चे पर कई महत्वपूर्ण घटनाएं होंगी. प्रधानमंत्री मोदी यूरोप का दौरा करेंगे और अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे. यह भारत के लिए एक निर्णायक समय होगा.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "संयुक्त राष्ट्र सुरक्षा परिषद में US व खाड़ी देशों का प्रस्ताव, ईरान को चेतावनी- होर्मुज में हमले",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZGNYQlV1SDEwNndWcFprN2JkMmg4M0xQcWNlSmotVlczZ2stSVdES1FPdmRzeFhraVo0SnJhUmdWaExUVGZHMGE1SnpBQ2x0eEk5RGNyYVRvTUZwaTNRYVhXT2lzSnhxZU04ZVZpWVlEekZ3TFNTeklkeGw1ak9kN25PTTVFbjJyTExSSnlFRWJydXp1czB6ZmpTMkdZQTFCX3lzeXJzNEhfcHFUZkR1dFZxSGtCRUVnYVE5Q3FXZTFfMDBLMVVhbUZmaWNvOU5JU0xkYTdwanpGcm9ENWhnWUE0djFta1h0bVU3c2RrWkFEUmViQkNKM21MLWtUWkplUnFLVUJ6cG9xUC1xMjhz?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-06T05:14:51+00:00",
+      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र सुरक्षा परिषद में अमेरिका और खाड़ी देशों ने एक प्रस्ताव पेश किया है जिसमें ईरान को चेतावनी दी गई है. यदि ईरान होर्मुज में हमले नहीं रोकता है, तो उसे प्रतिबंधों का सामना करना पड़ेगा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संयुक्त राष्ट्र सुरक्षा परिषद में US व खाड़ी देशों का प्रस्ताव, ईरान को चेतावनी- होर्मुज में हमले",
+          "summary": "संयुक्त राष्ट्र सुरक्षा परिषद में अमेरिका और खाड़ी देशों ने एक प्रस्ताव पेश किया है जिसमें ईरान को चेतावनी दी गई है. यदि ईरान होर्मुज में हमले नहीं रोकता है, तो उसे प्रतिबंधों का सामना करना पड़ेगा.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हमारी क्षमता और इरादे दोनों का संकेत, कूटनीति का एक महत्वपूर्ण पाठ भी",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2pKNnFrU3RxWWo0ZkRRallPc25peXpBekV4dGs5YXFGNktFUXpCTU9McTI0UW5DbFVBQTdZZUdicVktN3BTbHRFT1lwcWdBeU90WHp6cUZhNktIS3lkWm56dzZNcHlrdW9lU3h0eFVYNnZQU0VQV2VIUUtXd2U2Z3VEa1hRMTlIMnk2SlpyLTlYY0xxaG1ZaXRpSWhuYzM5TkZab28ySnBuRDJRTFlZRWRCc3l6MHpSdUpPeTRkUDhTbjdhTHFFaDczZXZtQWYwUXNVeNIB2gFBVV95cUxONGxUZ3E2eHA1QjdmZmNyRVE3R1JGTU05eTN4VEJiU3RYT29zanZmM0FIM25hSXJ1ZUdWRjJBNTkzaXJEelZoNjQzSXhOcUtjQ2RzZHZMNUUwUERjVl9Ed3FKQnpFTnpIMjZIWE1vYnJZLVEyaThkUjdHV0ZQUkxtUTRWMEVjcFZyazREZ0F4WEdmYmlobVhzQkdiX0xrQXhBSFVaRFk4VEt3RXhBMlpWMjJyUHdpUGtWQ1YwQ1RHSU9DUUI0M3htbDhWemlYZ0VqZVZWSVRZeXhpdw?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-06T01:02:37+00:00",
+      "image_url": "https://images.pexels.com/photos/5425461/pexels-photo-5425461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ऑपरेशन सिंदूर ने भारत की क्षमता और इरादे दोनों का संकेत दिया है. यह कूटनीति का एक महत्वपूर्ण पाठ भी है. ऑपरेशन सिंदूर: हमारी क्षमता और इरादे दोनों का संकेत, कूटनीति का एक महत्वपूर्ण पाठ भी Amar Ujala।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हमारी क्षमता और इरादे दोनों का संकेत, कूटनीति का एक महत्वपूर्ण पाठ भी",
+          "summary": "ऑपरेशन सिंदूर ने भारत की क्षमता और इरादे दोनों का संकेत दिया है. यह कूटनीति का एक महत्वपूर्ण पाठ भी है. ऑपरेशन सिंदूर: हमारी क्षमता और इरादे दोनों का संकेत, कूटनीति का एक महत्वपूर्ण पाठ भी Amar Ujala।",
+          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     },
@@ -417,24 +435,6 @@
       }
     },
     {
-      "title": "प्रशांत महासागर में ट्रंप ने छेड़ दिया नया युद्ध?: फिर संदिग्ध ड्रग्स नाव अमेरिका ने किया हमला, तीन",
-      "url": "https://www.amarujala.com/world/donald-trump-sparked-a-new-war-in-the-pacific-us-attacks-another-suspected-drug-boat-three-dead-2026-05-06",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-05T21:04:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/06/tarapa_31845ae1ad110aed251d47c240bee701.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी नौसेना ने प्रशांत महासागर में एक संदिग्ध ड्रग्स नाव पर हमला किया, जिसमें तीन लोगों की मौत हो गई। यह घटना एक नए युद्ध की शुरुआत की आशंका को बढ़ा रही है। अमेरिकी प्रशासन की इस कार्रवाई से क्षेत्रीय तनाव बढ़ सकता है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रशांत महासागर में ट्रंप ने छेड़ दिया नया युद्ध?: फिर संदिग्ध ड्रग्स नाव अमेरिका ने किया हमला, तीन",
-          "summary": "अमेरिकी नौसेना ने प्रशांत महासागर में एक संदिग्ध ड्रग्स नाव पर हमला किया, जिसमें तीन लोगों की मौत हो गई। यह घटना एक नए युद्ध की शुरुआत की आशंका को बढ़ा रही है। अमेरिकी प्रशासन की इस कार्रवाई से क्षेत्रीय तनाव बढ़ सकता है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
       "title": "अमेरिकी विदेश मंत्री की चेतावनी- ईरान के फैसलों से वैश्विक अर्थव्यवस्था पर खतरा",
       "url": "https://www.amarujala.com/world/iran-israel-war-hormuj-strait-tension-marco-rubio-warns-tehran-2026-05-06",
       "source": "Amar Ujala World",
@@ -471,60 +471,6 @@
       }
     },
     {
-      "title": "UN में ईरान के खिलाफ कड़ा प्रस्ताव: जहाजों पर हमले रोकने की चेतावनी, नहीं माना तो भुगतने होंगे",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeWhUSVBsdExIa0VfWGFFeWZKcHljZ3VZdXBheTRJdHpjNTloNnU1MmJhT1hZbzA5ZEVfc2tnWFBNN0ZLYU1GaVc5c3JhX2J6TGhiMkZMUFVBMWtKX1hLdG1aREhiNEFla3hBa2tERkdqS3ZPTHpCNy10RC0zLTBDUFhaUUlhcm9XMVMtdXAyV2E2eVFTRFdIeW12Z25BWW13X3JVT0RSQjhTQ3V4OTBvdFZNU0o5Mzdwb0hNVDNuN1c1TGthdnhGUFlXWE42ZFBicHRia2hodTFwLUNrUHEzNTFKd9IB6AFBVV95cUxORWpCVTJraTQ1MUNZZm5pb3RNLXZIQlJuZGZYNjVOaVU0cXV5ZnVhRnVHSDgyWDY1Qmx3QzNHOTloRWlTbUVMU1ZTNHRuem1pU2xmLVJOM0NUNncyb3NCRDBXUGZhUTh3eWktUkdCZkIwSFE3QS1xdFhCZzMwdGlacnRKQUR5dTlscEhLNU1JOGVaSldRSEloX3FfMFZyM2h0OUQ1OUpwa0syRWpiaE05RjdPb25jWHNyQnFzc0hFNjlrWndGcUhkRDZBLWU1VzZPNEFUcC0tSnI2NXVIWjQ0cUNRRmMtM1U5?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-05T19:57:13+00:00",
-      "image_url": "https://images.pexels.com/photos/30541596/pexels-photo-30541596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने ईरान के खिलाफ एक कड़ा प्रस्ताव पारित किया है, जिसमें जहाजों पर हमले रोकने की चेतावनी दी गई है। यदि ईरान ने इस प्रस्ताव का पालन नहीं किया, तो उसे गंभीर नतीजों का सामना करना पड़ेगा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UN में ईरान के खिलाफ कड़ा प्रस्ताव: जहाजों पर हमले रोकने की चेतावनी, नहीं माना तो भुगतने होंगे",
-          "summary": "संयुक्त राष्ट्र ने ईरान के खिलाफ एक कड़ा प्रस्ताव पारित किया है, जिसमें जहाजों पर हमले रोकने की चेतावनी दी गई है। यदि ईरान ने इस प्रस्ताव का पालन नहीं किया, तो उसे गंभीर नतीजों का सामना करना पड़ेगा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज में हमले न रोके तो ईरान पर लगेगा प्रतिबंध: यूएन में प्रस्ताव",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVTM1bVZ1Z3ZLbjViZzVJS0lRdHRBdk9sbmJjYnEwY01FSEgxWmgyNEpTbWUzRnNacW9DUVBMeGpIOFpfeC05NVZpSW9WMzNTZDBXSTFFeUUyUGNPcC02MWo0OUpHdzNnbkhoSHpkNDI0eEU2M1dVR3lIbHppMDlTdlNvOVktb19qZEpkdVJpYjBUcDhnUzZZYzd5OHVidlFTSWNqNVVpQ0dUMUxvQVU5cUNwdWtIX2hMandLUE5EanF5elotWWNHTU1QRDdhZ20zaUQ3WEtHbGtSQ1Jodmt5M0p5X1VpZUNHdFhWdlFVUWY5UjTSAfgBQVVfeXFMTWxfVFEtTTEzZVBHV3FGUktneE1ZQ2dUdG9PTFdpbnlTNVZCQnE2TjZEY3Jtd195dmhQZjRjeG1hTlJBRVl0WHhuQUJKLWVrUU1VQ2VueWNtQmFnbHUwWkI3aDUtWGo2LTdkRThuWDBHYnVWbzhYZExUU1NydFJJY2JWRVNua3Eyb2w0bXlSbTREMkVKZlItWmtoREFTZ3BpV05QRDJDV19qZS14bFc0WFJFZmVYWDRvem1IUzdoTW1fa1FmaExhYW1oTDRSMlZnRVNVQUVYRUo4cDZITmdkci1DMXczZEh1NkJJdWp1NUU2TzJPNjhYS3A?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-05T17:36:26+00:00",
-      "image_url": "https://images.pexels.com/photos/5483517/pexels-photo-5483517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र में एक प्रस्ताव पेश किया गया है कि अगर ईरान होर्मुज जलडमरूमध्य में हमले नहीं रोकता है, तो उस पर प्रतिबंध लगाए जाएंगे। ईरान पैकेज:होर्मुज में हमले न रोके तो ईरान पर लगेगा प्रतिबंध: यूएन में प्रस्ताव Live Hindustan।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज में हमले न रोके तो ईरान पर लगेगा प्रतिबंध: यूएन में प्रस्ताव",
-          "summary": "संयुक्त राष्ट्र में एक प्रस्ताव पेश किया गया है कि अगर ईरान होर्मुज जलडमरूमध्य में हमले नहीं रोकता है, तो उस पर प्रतिबंध लगाए जाएंगे। ईरान पैकेज:होर्मुज में हमले न रोके तो ईरान पर लगेगा प्रतिबंध: यूएन में प्रस्ताव Live Hindustan।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत में संयुक्त राष्ट्र के स्थानीय समन्वयक ने ओडिशा के उपमुख्यमंत्री से मुलाक़ात की",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGlRd1B1R1R0WUh6WE9DLUh3N21KZ3hFdUpfcXJzSW5Ua0VQeU8ya095emE1dllwUFhZbjlYYUxsY2M1MlB4bk5kVVNMa244UHBpM1JhQzhJbHQ5V2x4cDhRaC1hN1cwQ0tvbk5MbXRXWjBYVURnX3Q3cThmS2hJdGIzY1BkV1Zmam00Umo0M2VMbzdIVmo0LVR2VjVXMzMtZDRMM3BDS09MUE3SAbABQVVfeXFMT2JmRDFZSjlldTdzQUJvOVI2NFo3X2VaMHc2NWpSMkRZVjVsR3hJZFhYdkFGc1ptQ3EySjBpUjBDYy1XSXZZQWI5cGZMdDZkRVg4NGRaR3VWel80WVI0NmNIbC1HeGxnajFtUlU2cWhlRDhEWFNZVnBhRW92VzB1NHRxTEVmb1VUczVRVDA3eF9sUDFoUjEwYkRaR2dsQWw0VG1DWXJsQ1o5U2FUZXZxb1I?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-05T17:04:47+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत में संयुक्त राष्ट्र के स्थानीय समन्वयक ने ओडिशा के उपमुख्यमंत्री से मुलाकात की। इस बैठक के दौरान दोनों पक्षों ने विकास और सहयोग के मुद्दों पर चर्चा की। यह मुलाकात भारत और संयुक्त राष्ट्र के बीच बढ़ते सहयोग का प्रतीक है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत में संयुक्त राष्ट्र के स्थानीय समन्वयक ने ओडिशा के उपमुख्यमंत्री से मुलाक़ात की",
-          "summary": "भारत में संयुक्त राष्ट्र के स्थानीय समन्वयक ने ओडिशा के उपमुख्यमंत्री से मुलाकात की। इस बैठक के दौरान दोनों पक्षों ने विकास और सहयोग के मुद्दों पर चर्चा की। यह मुलाकात भारत और संयुक्त राष्ट्र के बीच बढ़ते सहयोग का प्रतीक है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "होर्मुज खोलने के अमेरिकी प्रयास से संघर्ष विराम खतरे में",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMnZqZmtyTE05Q3lhUXNYdjhJZkIxQk1fTGlNcjNQVEU5blBHaEdpc0xMQlJ1a09VT2NCSUwxVWFtZDFZRzVFdU52YzIxM2ptTHRvLTNpZTh2QmZaNTluYkt4RUYya2xFVDV0ckdmQS1tclFjd3FKd0ZYZEk0RjBrWDd1Vmlzdm1KUVlLd2FzZEw4cUoyT2NRWEM2VUR5MWVmVFlUcGR1N21paW5NYlNXVm5hVmpqUXJxRDRCVmlJaXc0bjhKR1hrNjlOc0JnRENVU2VpWGQzZHd0NGJpa3fSAeMBQVVfeXFMT1dRa21NMXlyQW9LMkdNXzVlLTRyT0FESllKYVlxbTRlNkVxdUR3S3otbnhnTldXbmMzMTVPVFBCcjE0WUZhR2FmUWlNR1pYNHd3Z1hqdDRaSS1xYkg2Sk9qVGZKb2R0cTFmdTdRdEpqYXk4NjgwOGdmZFFqUzZuTTE0Q0gwcUp4d2lOWlgwQWNNQW1Jb2hlRzJQX1BUNGhlZHlTZmFXdkJpSTBnUjY4dzJscUh5RlU4eDljTl9YTTRwdE5HT3JfZ0FWNUJZaE1hTHk1TnJ2RlcyT002eTVGWnR2TDA?oc=5",
       "source": "Google News Hindi (युद्ध संघर्ष)",
@@ -539,24 +485,6 @@
           "title": "होर्मुज खोलने के अमेरिकी प्रयास से संघर्ष विराम खतरे में",
           "summary": "अमेरिकी प्रयासों से होर्मुज में संघर्ष विराम खतरे में पड़ गया है। ईरान और अमेरिका के बीच तनाव बढ़ने से क्षेत्रीय स्थिरता पर असर पड़ सकता है। इस स्थिति से वैश्विक अर्थव्यवस्था और सुरक्षा पर चिंता बढ़ रही है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "5 मई, 2026 को विश्व आर्थिक समाचारों की मुख्य बातें",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oZUtxSWt2SXFNOGRiOHBOdzlQak5JdnZEVFp4Ri1rQjZPVjlhcUR1VzFXcjRlTnZwWC1jLWQ1ZTBuMVExWXo4Y2J3ZU1GSDBZQ2FQbWNXWFVZeXJxaHQ4WC05Z2xGWEpqeHl1dVNELTM1MHlBaHl4T21KX1JGQQ?oc=5",
-      "source": "Google News Hindi (विश्व समाचार)",
-      "sources": [],
-      "published_at": "2026-05-05T13:55:27+00:00",
-      "image_url": "https://images.pexels.com/photos/15195541/pexels-photo-15195541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "5 मई, 2026 को विश्व आर्थिक समाचारों में कई महत्वपूर्ण घटनाएं हुईं। वैश्विक बाजारों में उतार-चढ़ाव देखा गया और कई देशों ने आर्थिक नीतियों में बदलाव किया। इन घटनाओं का प्रभाव वैश्विक अर्थव्यवस्था पर पड़ेगा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "5 मई, 2026 को विश्व आर्थिक समाचारों की मुख्य बातें",
-          "summary": "5 मई, 2026 को विश्व आर्थिक समाचारों में कई महत्वपूर्ण घटनाएं हुईं। वैश्विक बाजारों में उतार-चढ़ाव देखा गया और कई देशों ने आर्थिक नीतियों में बदलाव किया। इन घटनाओं का प्रभाव वैश्विक अर्थव्यवस्था पर पड़ेगा।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -597,6 +525,24 @@
       }
     },
     {
+      "title": "प्रधानमंत्री नरेंद्र मोदी की मई में चार यूरोपीय देशों की महत्वपूर्ण यात्रा",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RdTRzV2VMUGgtM3AtX0wzY3NYdXd0amVmX090R2RaeW9JRDNZNWVLaFJhLUFLRVI5RXRORncwOC1zX3ZTRUk2SXNfZDVUWFIyNUNyRzFBYWRnaXNmS1VjZnp3LUk0U2ZlUXV0SHFiZTUzbEpVWUVFMjd2ZUwza00?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-05-05T05:30:42+00:00",
+      "image_url": "https://images.pexels.com/photos/16457179/pexels-photo-16457179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी मई में चार यूरोपीय देशों की यात्रा पर जाएंगे। यह यात्रा महत्वपूर्ण मानी जा रही है। प्रधानमंत्री नरेंद्र मोदी की मई में चार यूरोपीय देशों की महत्वपूर्ण यात्रा The CSR Journal।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रधानमंत्री नरेंद्र मोदी की मई में चार यूरोपीय देशों की महत्वपूर्ण यात्रा",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी मई में चार यूरोपीय देशों की यात्रा पर जाएंगे। यह यात्रा महत्वपूर्ण मानी जा रही है। प्रधानमंत्री नरेंद्र मोदी की मई में चार यूरोपीय देशों की महत्वपूर्ण यात्रा The CSR Journal।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "अगले संयुक्त राष्ट्र प्रमुख के लिए महिला उम्मीदवार का चीन ने किया समर्थन, चयन प्रक्रिया शुरू",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3NhUGtNVVlycm5rd09aLWxQaXpvemxFRnN4VmlDX0pXczZEUnltUmdjZ21UbmFNYUFNRVlINlktZ2dCeGJ4ZGlzYllDUnFGZXFCQUNKa3E2SXptMmRheGNOZElRbndNNF9XOUpKYlJBWUNvNU9iMmxTYkI2V0ppV3QweGlFdnNxV0tqbkM3NjUxYjVxUTdRX1NGRG8zamNyMG5IWDd4bHBaRHctTFF0dVN1dmxGTzNi0gG-AUFVX3lxTE95eHVZSGhUUWZ0VzJlTGlmdlc5WjhpMWpsREJudWI1YkZuaE81V1VTWWd2YURrSzlvUEtIcFl5Y0szaTFBdGo4WllRQkMxeUlCbXM2YnhfN2tqRDlVSkZoV2Nwam1fRzlpSXRLVTZkVFBtUFh1X3RNSlp3a0hDUFJwa3ZZTEYwUG9KUFlxcHpXXzZrQjZPVVkyUV9LanRieUkwZ0lMa3oxOFlsRXdyTmVTNnd3RGNqWGxxNGFpSEE?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -615,38 +561,92 @@
       }
     },
     {
-      "title": "चीन-रूस ने वीटो से किया था खेल, अब ईरान के खिलाफ ट्रंप ने बनाया नया प्‍लान, होर्मुज पर UNSC में जंग",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSkVQVUR4RzhQRDI1SjFmbktQeFhlRVJjMFBXaHZZbzA1SHZqdmVzSlMweHN5aEdoRnUyeGJBM2lTcVlyTFE1UFRuZ3pYODRNWDNoeEZwRGF1TUFIYzloNlZuVFZ5eXJ4MmlET2otTzAwNDNPaXpva1l2aF81eFRBRG9GbTZaeGxDc3pJR3Y3NERMODQtc04zLXhVR0tHOUdIaDZWdWhwM2JEWV9OajJzV3pCY1VnQXQzSDhlZWV6OTdJOWtfbGNBU1ItRFVLcTVIazhWZ0ppNWpPMDVPNjFqTFAxemw4YURqWGhScDk5NE1aZGJ5Tlo0RnpIQkVuam110gGGAkFVX3lxTFBRV1RvZm9zVTdSSm9LN1p0REtvc1ZVZ1BDNmQwcXdtaWVSNjBycHBfNGtzX1kyQVgyNEdUSm1pNnFVR0xHT2RnS3FBTm5FZHN3bVpoQkpWeVNqRmNzOG5mQWJMVHEyZUlsWW9UbWF2WnpNQXB1eDJtSkNuQ2IxV3RHZ1p4SHpEVUJZZ2h0ajlRX0FxS0FYWHVLdHdDdHNMUEcxZTdYdXpLQ1Q2dmF5ckVoek4wSHNoZ1AzeEZ5VVgwSlVuMm1sT0l4SmZzS0k0TktuODhsRnVHOVFqZmtLU01sUG1MS2xwaS1oR08xUU5HNzBHdkJyYjh2RXl5UTR3bG9JbXdVSFE?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "गेंद अमेरिका के पाले में है कि वह कूटनीति या टकराव का रास्ता चुने\"",
+      "url": "https://news.google.com/rss/articles/CBMizwZBVV95cUxOTGFidmtmbjVTbk5sVWxRV3g4MFRFdTJPT2NmWVZDYW5QVnlsN3ZyUDNXY1B1bTVEQnBwSk55bnhNcUFkbHBPSFlad25wMnd3MnNWUXJmNjlza3RvRmNOLVJnakpTUjdNUUE2MlZRVTV1SWVVQ2lpanFRWlBEa0NCMXRMeGcxZVp1VmZxRzJVeGxVQ1ZZX0JCN2o2TUdLOWFkTFloTUZ1YVhXWHh3NE9Gc0xkR09pOG1pb1ZhSnFIMmNVNVByUWJyRW1PMk9YRGJUT1ZPUnFyazB3T2ZrOUg3UVI3SW9VcVNDSWNUVDdCajkwNzFRNGFIbUM1UEx2ZnBBVmhJQ09LOXBjSFQ1RG50dUsxblI3YzdOZi0tdFM0SHVCOWRnRVl6X3ctRzVqbklCZ1QxUFFZZ2o4YXkzSFN6TVBfbmFhX3JxM0d0TW9tWHpMeUk2Z1F6RjgwVzNWSGpzUlIwR0oyR1NnVDBlcFVnR0s0TTVpNVo2ZDFUeHBxRHlZVS00anV3NUI4VFp1YmdaV0E5eldFQ1llMTIxRVh1Ml9Wa19OVi1VRkRyRHBQclhyelhTUU13ZWkzLWNYSnpOd0hQenoydV94M2gzZVF0MEl5blpUVVRQbG80NGc1MHZIcjRUVjd4Y2ZNTkJTZmptN2R1R1RadU9ZdEFhOS1yaWlVb1Y0bDQybFJxWnRNSHVuZkEyMGZoOXVuYTMwSncwMjA1VDc2S0VuSWVSMmlJeTVIaE9FOUxJMFFvQWkxNG5UU0NUU0VOeFI4OEdDZVdiQmF0WjNLTTA5NU84dlQxYjU2WmpsNGZLYk9HX3RhQkRoVUNRTnBYZXd3TlBhS1RUbVptSlVwMjVOTzAxdjBMN0g1SWxESXVuLU8zeWFkc0tNT0xqR0F0cEtZQUE0Rlk0LTFkUUtSSXNoUnVxbElqLWk5cDJIRV8tdm1YX2RxN3ViTTROREpaNHlka0FoU0dtQ29zNzhHYXhwTVl6Y2liMTFWeGo1TlBKUDRsYmNRZjJodW84bDZLTk5oNFlyMGVuRTFRNk5vYUdYb0RxaHBZY1JkeXZYYW9rdlYtNzAxUExYbFdVRmNoNG1YbkZXUTVKM3lrWHFmckFaR2dYYVFV?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
       "sources": [],
-      "published_at": "2026-05-04T18:29:42+00:00",
-      "image_url": "https://images.pexels.com/photos/404995/pexels-photo-404995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी राष्ट्रपति ट्रम्प ने ईरान के खिलाफ एक नया प्लान बनाया है। यह प्लान होर्मुज जलडमरूमध्य में तनाव को कम करने के लिए है।",
+      "published_at": "2026-05-04T12:46:00+00:00",
+      "image_url": "https://images.pexels.com/photos/30401506/pexels-photo-30401506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान के एक वरिष्ठ अधिकारी ने कहा कि अमेरिका के पास कूटनीति या टकराव का विकल्प है। यह बयान ईरान और अमेरिका के बीच तनाव के बीच आया है। \"ग़रीबाबादी: गेंद अमेरिका के पाले में है कि वह कूटनीति या टकराव का रास्ता चुने\" Pars Today।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गेंद अमेरिका के पाले में है कि वह कूटनीति या टकराव का रास्ता चुने\"",
+          "summary": "ईरान के एक वरिष्ठ अधिकारी ने कहा कि अमेरिका के पास कूटनीति या टकराव का विकल्प है। यह बयान ईरान और अमेरिका के बीच तनाव के बीच आया है। \"ग़रीबाबादी: गेंद अमेरिका के पाले में है कि वह कूटनीति या टकराव का रास्ता चुने\" Pars Today।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर का कूटनीति में क़द कैसे बढ़ता चला गया?",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSFhzdENOZzZtTW10Nm1EdE9EMEZodS1vd2R6U19QTWJSRmEtb0tmZmU4VFllTlc4d1phT0tYcGVKNnU0QkF6ZG9xVGVzYUt5ZHA3RWJwdzJpSVnSAWBBVV95cUxOSURWZ2ZuTGFISVNacnBmTkg5Q0N6MkVYZkpjakNadEM1STVPLTVRd2ZvY2tDMlFoYnRrMDJsektwZm5vRlVlNG1acVp5WGFkTFNNbG5raWlLRXhVMDZSZTU?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-04T00:26:29+00:00",
+      "image_url": "https://images.pexels.com/photos/12274042/pexels-photo-12274042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर की कूटनीति में भूमिका बढ़ रही है। उनकी नियुक्ति ने पाकिस्तान की विदेश नीति में बदलाव लाने की उम्मीदें जगाई हैं। पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर का कूटनीति में क़द कैसे बढ़ता चला गया?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर का कूटनीति में क़द कैसे बढ़ता चला गया?",
+          "summary": "पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर की कूटनीति में भूमिका बढ़ रही है। उनकी नियुक्ति ने पाकिस्तान की विदेश नीति में बदलाव लाने की उम्मीदें जगाई हैं। पाकिस्तान के फ़ील्ड मार्शल आसिम मुनीर का कूटनीति में क़द कैसे बढ़ता चला गया?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नए युग में अंतर्राष्ट्रीय संबंध रणनीति",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IaS03NWs2YmFSak5vcTNIdXpJc2tTbGlzczUtTG1maGk0LXFDU0VKUEpfNlNsX1R4c09nZVJGZmExZHR6X3RndEptQ3ZqOGZ2M01lTjdDeXRZbVZtYWtBTW52aXlEY2MtQmFZSVRBOGI1c2xWQWI0MWZINUk?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-05-03T23:19:06+00:00",
+      "image_url": "https://images.pexels.com/photos/8770959/pexels-photo-8770959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "वियतनाम ने नए युग में अंतर्राष्ट्रीय संबंधों के लिए रणनीति बनाई है। यह रणनीति देश के हितों को बढ़ावा देने के लिए बनाई गई है। नए युग में अंतर्राष्ट्रीय संबंध रणनीति Vietnam. vn।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नए युग में अंतर्राष्ट्रीय संबंध रणनीति",
+          "summary": "वियतनाम ने नए युग में अंतर्राष्ट्रीय संबंधों के लिए रणनीति बनाई है। यह रणनीति देश के हितों को बढ़ावा देने के लिए बनाई गई है। नए युग में अंतर्राष्ट्रीय संबंध रणनीति Vietnam. vn।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "स्ट्रेट ऑफ होर्मुज पर कूटनीति तेज, ईरान का 14 सूत्रीय प्रस्ताव; अमेरिका को दिया 30 दिन का अल्टीमेटम",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjlRbEtoczl0YW5sT1FiNUd4Yy1oNklVQktGYUgzSm9jdWdxbGVVczNDZDlKQlhPZlY2dlN5N051ZkhheF9URnVwcl84elJoRE5IaVcwQ29fYk9Kb1c3QVJOMmQtb1R5RFVVUkRaa3FYRk1LWmJuQ1dWTFI4U1I5MVhWTkJJYkpnSGJGN1J1SWwza2p2TlgxX2wwcTQ4VzEzWFpfQXRIdjJjVWJpVFlOWm1NZExwRkhWTFFVTXNucWVobmRpY20xVzdGa2h2Zw?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-03T18:18:00+00:00",
+      "image_url": "https://images.pexels.com/photos/5238339/pexels-photo-5238339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान ने स्ट्रेट ऑफ होर्मुज पर तनाव कम करने के लिए 14 सूत्रीय प्रस्ताव दिया है। अमेरिका को 30 दिनों के भीतर जवाब देने के लिए कहा गया है। स्ट्रेट ऑफ होर्मुज पर कूटनीति तेज, ईरान का 14 सूत्रीय प्रस्ताव; अमेरिका को दिया 30 दिन का अल्टीमेटम Jagran।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चीन-रूस ने वीटो से किया था खेल, अब ईरान के खिलाफ ट्रंप ने बनाया नया प्‍लान, होर्मुज पर UNSC में जंग",
-          "summary": "अमेरिकी राष्ट्रपति ट्रम्प ने ईरान के खिलाफ एक नया प्लान बनाया है। यह प्लान होर्मुज जलडमरूमध्य में तनाव को कम करने के लिए है।",
+          "title": "स्ट्रेट ऑफ होर्मुज पर कूटनीति तेज, ईरान का 14 सूत्रीय प्रस्ताव; अमेरिका को दिया 30 दिन का अल्टीमेटम",
+          "summary": "ईरान ने स्ट्रेट ऑफ होर्मुज पर तनाव कम करने के लिए 14 सूत्रीय प्रस्ताव दिया है। अमेरिका को 30 दिनों के भीतर जवाब देने के लिए कहा गया है। स्ट्रेट ऑफ होर्मुज पर कूटनीति तेज, ईरान का 14 सूत्रीय प्रस्ताव; अमेरिका को दिया 30 दिन का अल्टीमेटम Jagran।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "4 मई, 2026 को विश्व आर्थिक समाचारों की मुख्य बातें",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11enFHVFlMcFdQdkFZTVZycml0X0hJdV9OTU1PaFRacnMtWVpqUzJKNTkzREN4QzhMZkQyWWV4N1h2eWlkMTdtUDRVQW81eHVhRmMxTG1UWG44WnA3RmRENzh2WElPd0JGMTY1YnNlRTctVVdCR2lXbEFfWnZmUQ?oc=5",
-      "source": "Google News Hindi (विश्व समाचार)",
+      "title": "अमेरिका क्या ईरान पर फिर करेगा हमला, ट्रंप ने क्या कहा",
+      "url": "https://www.bbc.com/hindi/articles/cn0p8dy4pwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-04T14:56:10+00:00",
-      "image_url": "https://images.pexels.com/photos/37266407/pexels-photo-37266407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "베트남 정부는 국내 반도체 산업 발전을 위해 2026년부터 2030년까지 10억 달러 투자 계획을 발표했다. 이는 글로벌 반도체 시장 경쟁력 강화와 국내 경제 성장 촉진을 목표로 한다. 베트남 정부는 이를 통해 새로운 성장 동력을 창출할 계획이다.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-03T05:06:56+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39c9/live/6167f1b0-46ab-11f1-bafe-a931222b670b.jpg",
+      "summary": "अमेरिकी राष्ट्रपति ट्रंप के बयान से ईरान पर हमला करने की आशंका बढ़ गई है. ईरान के नए प्रस्ताव पर चर्चा जारी है. ट्रंप के बयान से तनाव बढ़ने की संभावना है.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "4 मई, 2026 को विश्व आर्थिक समाचारों की मुख्य बातें",
-          "summary": "베트남 정부는 국내 반도체 산업 발전을 위해 2026년부터 2030년까지 10억 달러 투자 계획을 발표했다. 이는 글로벌 반도체 시장 경쟁력 강화와 국내 경제 성장 촉진을 목표로 한다. 베트남 정부는 이를 통해 새로운 성장 동력을 창출할 계획이다.",
-          "region": "एशिया-प्रशांत"
+          "title": "अमेरिका क्या ईरान पर फिर करेगा हमला, ट्रंप ने क्या कहा",
+          "summary": "अमेरिकी राष्ट्रपति ट्रंप के बयान से ईरान पर हमला करने की आशंका बढ़ गई है. ईरान के नए प्रस्ताव पर चर्चा जारी है. ट्रंप के बयान से तनाव बढ़ने की संभावना है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
