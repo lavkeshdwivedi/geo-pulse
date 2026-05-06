@@ -1,10 +1,32 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** May 07, 2026 04:30 IST
+**अपडेट:** May 07, 2026 05:29 IST
+
+---
+
+## वैश्विक / बहुपक्षीय
+
+### [त्वचा गोरी करने वाले उत्पाद सेहत के लिए बेहद खतरनाक, WHO बोला- खपत रोकने के लिए बदलनी होगी सोच](https://www.amarujala.com/world/skin-whitening-products-extremely-dangerous-for-health-who-said-thinking-will-have-to-change-to-stop-consumpti-2026-05-07)
+*Amar Ujala World* - May 07, 04:55 IST (iso: 2026-05-06T23:25:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/07/cosmetics-products_eefd335879f7298a40d340148a418fbd.jpeg?w=750&dpr=1.0 -->
+
+विश्व स्वास्थ्य संगठन ने त्वचा गोरी करने वाले उत्पादों को सेहत के लिए खतरनाक बताया है। इन उत्पादों की खपत रोकने के लिए सोच बदलनी होगी। WHO ने इस मुद्दे पर चिंता जताई है।
+
+### [ब्रिक्स रोजगार कार्य समूह की दूसरी बैठक का पहला दिन तिरुवनंतपुरम में संपन्न हुआ](https://news.google.com/rss/articles/CBMiaEFVX3lxTE42Z3lCd19vVW1QZGttSkVDZHlnUVdZQVB5S2J1eTcxZWpJblNubFhaQm5fbkdWbTljSlk4MWdZUTU1VjZySWVOcnFwYlRJTFZEa21kTnEzQllSOXR6UjdUbVRMbzRqbS1u?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - May 06, 21:11 IST (iso: 2026-05-06T15:41:42+00:00)
+<!-- image: https://images.pexels.com/photos/36570646/pexels-photo-36570646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+बैठक में रोजगार और आर्थिक विकास पर चर्चा हुई। ब्रिक्स देशों के प्रतिनिधियों ने बैठक में भाग लिया। ब्रिक्स रोजगार कार्य समूह की दूसरी बैठक का पहला दिन तिरुवनंतपुरम में संपन्न हुआ PIB।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [ईरान पर US के दो सुर: ट्रंप-रुबियो के विरोधाभासी बयानों से ईरान युद्ध पर बढ़ी अनिश्चितता, जानें](https://www.amarujala.com/world/us-iran-tensions-operation-epic-fury-trump-rubio-project-freedom-strait-of-hormuz-west-asia-war-2026-05-07)
+*Amar Ujala World* - May 07, 04:31 IST (iso: 2026-05-06T23:01:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/10/06/gaza-peace-plan-everybodys-pretty-much-agreed-to-it-trump-rubio-were-dealing-with-killers-ter_e5074c4cad5e1339d85157af87e971b1.jpeg?w=750&dpr=1.0 -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और सीनेटर मार्क रुबियो के ईरान पर विरोधाभासी बयानों से युद्ध की अनिश्चितता बढ़ गई है। उनके बयानों से स्थिति की गंभीरता बढ़ी है। ईरान पर US के दो सुर: ट्रंप-रुबियो के विरोधाभासी बयानों से ईरान युद्ध पर बढ़ी अनिश्चितता, जानें।
 
 ### [ईरान युद्ध से जुड़ रहे ट्रंप के हमलावर के तार, एफबीआई खंगाल रही आरोपी का डिजिटल रिकॉर्ड](https://www.amarujala.com/world/donald-trump-white-house-attack-plot-iran-war-motive-cole-allen-fbi-investigation-2026-05-07)
 *Amar Ujala World* - May 07, 04:05 IST (iso: 2026-05-06T22:35:34+00:00)
@@ -17,6 +39,12 @@
 <!-- image: https://staticimg.amarujala.com/assets/images/2025/08/24/nprsa-yakarana-yathathha_ff95c71ab0f358c3e0891ff201111929.jpeg?w=750&dpr=1.0 -->
 
 रूस और यूक्रेन के बीच तनाव फिर बढ़ गया है। एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई लोगों की मौत हो गई। रूसी राष्ट्रपति पुतिन और यूक्रेनी राष्ट्रपति ज़ेलेंस्की के बीच तनाव बढ़ रहा है।
+
+### [अमेरिका और UAE में हैं सबसे ज्यादा भारतीय प्रवासी: UN की वर्ल्ड माइग्रेशन रिपोर्ट 2026](https://news.google.com/rss/articles/CBMihgFBVV95cUxQM08xRVJzekpMMGpsXzJDUDJJNmJmdnc3TlRIbEpiSHEzaGQ1VkNTQ3N1UXBzbUU5TVdQVkpZS2QtX3FRSEhKcUowVmpxTEdtR2c4VWRSc2ZtaXlvQ1BWaGo0bmxYSDNpSTlESWIyeHozMFhIdmtjTlUyd2tlRmlELUw2dEdMUQ?oc=5)
+*Google News Hindi (संयुक्त राष्ट्र)* - May 07, 02:19 IST (iso: 2026-05-06T20:49:29+00:00)
+<!-- image: https://images.pexels.com/photos/29212684/pexels-photo-29212684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+संयुक्त राष्ट्र की वर्ल्ड माइग्रेशन रिपोर्ट 2026 के अनुसार, अमेरिका और UAE में सबसे ज्यादा भारतीय प्रवासी हैं। यह रिपोर्ट प्रवासियों की संख्या और उनके गंतव्यों के बारे में जानकारी प्रदान करती है।
 
 ### [शांतिवार्ता के बीच ट्रंप की ईरान को चेतावनी, कहा- नहीं बनने देंगे परमाणु हथियार](https://www.amarujala.com/world/west-asia-conflict-donald-trump-iran-warning-us-navy-blockade-nuclear-weapons-deal-2026-05-07)
 *Amar Ujala World* - May 07, 01:55 IST (iso: 2026-05-06T20:25:06+00:00)
@@ -56,12 +84,6 @@
 
 ## दुनिया
 
-### [टीवीके का विजय रथ रोकने की तैयारी: क्या हाथ मिलाएंगे डीएमके-AIADMK?, बड़े सियासी उलटफेर की अटकलें](https://www.amarujala.com/india-news/tamil-nadu-election-dmk-and-aiadmk-may-join-hands-to-prevent-tvk-from-forming-the-government-2026-05-07)
-*Amar Ujala National* - May 07, 01:12 IST (iso: 2026-05-06T19:42:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/11/21/ananatharamaka-paramakha-edapapatha-palnasavama-oura-tamalnada-ka-saema-emaka-satalna_b93c4deeee68c0f2c5b042d754e922ed.jpeg?w=750&dpr=1.0 -->
-
-तमिलनाडु में टीवीके की जीत को रोकने के लिए डीएमके और एआईएडीएमके के बीच हाथ मिलाने की चर्चा चल रही है। इस राजनीतिक उलटफेर से तमिलनाडु की राजनीति में बड़ा बदलाव आने की संभावना है।
-
 ### [विजय के साथ जाकर और डीएमके से गठबंधन तोड़कर कांग्रेस को आख़िर क्या हासिल होगा?](https://www.bbc.com/hindi/articles/c1k2jeyg4ejo?at_medium=RSS&at_campaign=rss)
 *BBC Hindi* - May 06, 21:55 IST (iso: 2026-05-06T16:25:27+00:00)
 <!-- image: https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/492e/live/c9cf4d50-4955-11f1-b55d-0f258dce1735.jpg -->
@@ -92,12 +114,6 @@
 
 बीजेपी ने हालिया विधानसभा चुनावों में मजबूत प्रदर्शन किया, असम में लगातार तीसरी बार जीत हासिल की और पश्चिम बंगाल में पहली बार बड़ी जीत दर्ज की. इस जीत का देश की राजनीति पर क्या असर पड़ेगा, यह देखा जाना बाकी है.
 
-### [ममता के इस्तीफ़े के बिना क्या बीजेपी की सरकार बन पाएगी, टीएमसी की आख़िर रणनीति क्या है?](https://www.bbc.com/hindi/articles/clyp544z5dyo?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - May 06, 13:32 IST (iso: 2026-05-06T08:02:28+00:00)
-<!-- image: https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/507a/live/14fc5aa0-492b-11f1-9546-d74beef04f02.jpg -->
-
-ममता बनर्जी ने विधानसभा चुनावों में हार के बावजूद इस्तीफ़े से इनकार कर दिया है. अगर वह इस्तीफ़ा नहीं देती हैं, तो राज्यपाल के पास विकल्प सीमित होंगे. ममता को इससे राजनीतिक लाभ हो सकता है. वह अपनी रणनीति के तहत काम कर रही हैं.
-
 ---
 
 ## एशिया-प्रशांत
@@ -114,23 +130,11 @@
 
 वियतनाम और भारत ने अपनी व्यापक रणनीतिक साझेदारी को उन्नत करने पर सहमति जताई है। दोनों देशों के बीच साझा दृष्टिकोण और समन्वित रणनीतियों पर चर्चा हुई। यह समझौता द्विपक्षीय संबंधों को मजबूत करने के लिए किया गया है।
 
-### [सिंदूर के बाद का भारत: हर मोड़ पर बढ़त](https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjQwVU4zWXZ6YzBzRG5KV2FlWjhHenNkSWotSGNkdnNxNUVPLWQtWFlwd2U3emtCOUVWeHRGOWYySlNlX09KRDlJNElvdzl1TnhDVVVOTGt6cGg4bFN2ZDNITFA1cllkcVk0UjZDSkN6Y3ZLOEk4T3Y3VGNjVkI1dGJVSXZmdl9wNTM5VGx3?oc=5)
-*Google News Hindi (युद्ध संघर्ष)* - May 06, 19:54 IST (iso: 2026-05-06T14:24:41+00:00)
-<!-- image: https://images.pexels.com/photos/37079434/pexels-photo-37079434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-भारत में सिंदूर की बढ़ती मांग ने बाजार में एक नई प्रवृत्ति को जन्म दिया है। हर मोड़ पर सिंदूर की बिक्री बढ़ रही है, जो महिलाओं के बीच इसकी लोकप्रियता को दर्शाता है। यह एक नए युग की शुरुआत है जहां सिंदूर एक महत्वपूर्ण उत्पाद बन गया है।
-
 ### [पश्चिम बंगाल में ममता की हार पर बांग्लादेश की ये टिप्पणी](https://www.bbc.com/hindi/articles/cnvpq7ln3d6o?at_medium=RSS&at_campaign=rss)
 *BBC Hindi* - May 06, 17:35 IST (iso: 2026-05-06T12:05:23+00:00)
 <!-- image: https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6a4/live/1412be00-4867-11f1-804a-9d85b054b34f.jpg -->
 
 ममता बनर्जी की पश्चिम बंगाल विधानसभा चुनाव में हार के बाद, बांग्लादेश में उनकी हार को लेकर टिप्पणी की गई है. ममता बनर्जी को तीस्ता जल बँटवारा संधि में बाधा के रूप में देखा जाता था.
-
-### [भारत-पाकिस्तान में अगला संघर्ष होगा और खतरनाक, अमेरिकी एक्सपर्ट की चेतावनी, ट्रंप के क्रेडिट लेने](https://news.google.com/rss/articles/CBMitwhBVV95cUxQOFB1OXJaTzg1c1hYeEdjS0dwaHRPYzN4blJwc01GRjJBcldGREZ6ZGVYWWVqN0c5NkR4SHg2RGZlMnNNcnVyQWdHUVMxS0pHN0E0NHNqbmo4UVBkYkIyYm9oMlZ0ZmNqd0t0WUNZTWhFQVZudHE3eUtwdGtsbkdlMkVLSUF5and0N2NtU25rblo4RkxzUGRNRVgyNDVST0IxQTF2M0ZuZjllR0pYeHNjb2pvY0o2azB2aUE0Ym9vQXp0Q2lPZjVsY1VYMFpJUFhaVE8wOFN2S0dmWmJpM21CdDBJOHo2OTFQZHBFUG1LUW9pSXktUWtZbVZpTWdOSDR4QkJNclYtY1hCUUVrWVAwTHVFc3k1N3NfTkxiLXpnSFh2bFVDU1Vfa1doX0Qyc3B0MFEtQlE1b3ZsSXMzTWVCYVo4QVZWdGlaU3Z3RnRqUTRFdThVckV3U29McmxDaTZDdm9kdTVLUkdBVG5WdGN1dzlRTDJMdVowWEltbU9vd21DTGV0Q3lzSjVVdjhRS25BOXVLVk5qRXI0RmZTU3pGRFhUR1VzbFpxajNEQURDd2xoQUNQZmFhMG9BLUpLVVMxMzFreVI2T00yQ0tVY2hPSnF6WjJ2UHJ3SUJVN2k0aEJrRHBYeGZ4VGNIRlRTT3E5eFFpV1paLThya2N0RUt3WXFvRXQzaUlLS2owOUdNMmRVR3VONXhQQXduMHVFTHo3Mm40QVZnejlPQ1RMcHlKdS1GbnVuR2UzQ1hEaGtucTdBRkpPaWJWZHRkb2NRUEE3UmRTeEJqSVB4UDFaUG1OX1JmUVYta3VTVDJXb19hQTJrTkVKT3ZsLWdyalF4TklXaDV2UnRCX1RtWm54NlB2Ml9MNzhKLXRBUC1Vc0d0QWZUNEtva0Z4LTJQcllDa3BaUHZ2VXoxQlcxOFN3dDV0bHRYbHhESzUtMTk4ZV9PekwtbkxESnBjOWVMZTdFSjl3bXFkUDVfSERTdVRmbnpYSHZJaTlEdmk0OF9OV1lMYmtMdFlULUdiMHdNVkw0eVRtN3g1NnVHMi1sMUJLekx6T2VYRkZ0T2dRWThPanVTZFFyWG1GOHFFRUMyRkVaWmNaMHJVS2lGVjNtaFR1Y1ZQYmhVMDZ0NHJ5U1NJQ0JXWXJET1lCeEsyYkNndjhHblhhUWs5eXc4ZFRSeFliY2tGeFBQNFR0Sm5ROEtHd1JmOXFPVEdEUERwVU8xSGNNbEplOG8xNG9GRjB5X3dJQVEtb1Y2c0xad3Njd0x6MFRkQjIzMzBOVFByZHozTWhQaTFJblFFakN4ajAtVnNPM3FTLTRKWDZVMk41Z2ZuMVF4MFdqQ0M1a2NkWE1BSmI3QkFrRUNyanFqeVNaM0F3Xzc4cFRaTS1RZmtQYkxBeDFyd2l3Z0NXSmRtZ2JLMWdxSnMzWGpBUHZYOA?oc=5)
-*Google News Hindi (युद्ध संघर्ष)* - May 06, 16:55 IST (iso: 2026-05-06T11:25:24+00:00)
-<!-- image: https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-अमेरिकी विशेषज्ञों ने चेतावनी दी है कि भारत और पाकिस्तान के बीच अगला संघर्ष और भी खतरनाक हो सकता है। उन्होंने कहा कि अमेरिकी राष्ट्रपति ट्रम्प के इस मुद्दे को अपने क्रेडिट में लेने से समस्या और जटिल हो गई है।
 
 ### [यूएन सुरक्षा परिषद सुधार पर बहस तेज, भारत समेत कई प्रस्तावों पर चर्चा : एनालेना](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYnN6b1ptQ2JsY0Y5WU4wdlR1ano1UVI2NTdGYmRDTGo2Q2tjT0FLZjVlb1NpWktjRk1ybDBqQ1k4eVlFcHkzcWt6YjkwZGh4UVE0YVRmZ0NKZ09WdlJ1cTJETl9CRVRhRXMtZGV2SHRQbzdDcExWNEpVZTFHNzZDYy1EWW5ncU9CQmVTRVJTd0pWckhqSzJ2YzlxZkdZZWZEVnFENWhlNjlZZFBacFRBdGRnWFRlaS1mS0dDV2FKalpMUQ?oc=5)
 *Google News Hindi (संयुक्त राष्ट्र)* - May 06, 16:17 IST (iso: 2026-05-06T10:47:58+00:00)
@@ -140,13 +144,13 @@
 
 ---
 
-## वैश्विक / बहुपक्षीय
+## यूरोप और रूस
 
-### [ब्रिक्स रोजगार कार्य समूह की दूसरी बैठक का पहला दिन तिरुवनंतपुरम में संपन्न हुआ](https://news.google.com/rss/articles/CBMiaEFVX3lxTE42Z3lCd19vVW1QZGttSkVDZHlnUVdZQVB5S2J1eTcxZWpJblNubFhaQm5fbkdWbTljSlk4MWdZUTU1VjZySWVOcnFwYlRJTFZEa21kTnEzQllSOXR6UjdUbVRMbzRqbS1u?oc=5)
-*Google News Hindi (संयुक्त राष्ट्र)* - May 06, 21:11 IST (iso: 2026-05-06T15:41:42+00:00)
-<!-- image: https://images.pexels.com/photos/36570646/pexels-photo-36570646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+### [कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री](https://news.google.com/rss/articles/CBMi0gdBVV95cUxOQjZwMmkyUUpCcVZtZ1ExQUNkWGJOYXhEZUdWOUQyenJwZmxvNGpWeHY3RE5qRWhiRWNITXJidktZeFBxRWFEM05Uc0F3U19tcUFsQnhUYl80QXViSklTQXVJa2FDY1h2U0pXRi1fSUdBT0hlbG1mVzdGMExRVjBFY0tYZXpXMmVWWGRrX0s0ODJvWlMzdW9TR0F1VU54RnBEcV9VbDNjeE91Wmhod25OUEFRQVB2MDU0N3E2N3Vjd083STNzYWtycUtKYTZTX01pQ1pMX3VCTlZSVHFOZkxZOURwMzNHaFM3RXNQdktPanZxQVQxOHlRT0VmNmJmcTRuSWJQMkhWdzZJemw5UzJjd3ZMWjJPSF9EenhzbGgydlQzc3lOQjc5UU1WamFHLWJ4ZWlBNFN4WnFWejl5UjEtRlVES1FIdUZOLVl0TGpFZjRsaHliSXdiVTIxMWxEU3lPdktNa2JnRHZqQTNaYVdEOHpKYmdmZUFudGV4Qy1naXJQSTZyS3duMXpndjczblQ4by1Zd0lXRkVuN2hnSExWcUZKSzJ6Z2RGUGJVcllTaDQ5WkRmbElfVmdzaWxGVzZabXgxMnBKaVVEQjlkemhZOFdwdFJYU2hQT01zLVUxMWExR002bFhNaE9IaFRVcFJMZ1A1aEh0OVE5azZpSXdzbTJIYkhLdllCVWRzOEVGUDRlUXA5eGJMbV9TQzNqMHQ5bVM2OGFXZHJNSGJmSkx4UHdaLTlEbi1aMDBOUTBMak9TdzMyVk82U1dBbG0wUXdZVm51eWhJRmNiMmRiSnRVWTg2T2Q3U1VPc3R4RGxvc0E5MnhTVzlDTEJhVGt4SzlDbDQtNlBPbnZualZONWZkMUZxLXBXMkpZRms0UTlnbjJCUms2NXpFM2ZGTXlQVlFuSmJmNWFXQmh5ZjEtem1yN25Bc2E5N2dlRGFNbVY5UnNPVGZBVWFZZDJ4aHQyejd2aWFWS213OHdDVWppV1J4NjdXb1JPeGFUZTJGTVB0a1FxaDVvREs3VlM2NXFNLTJYV2FEZDFmNkRlX2ZrRHg5NUxKanplWDZvNzJwbGNfTlRUVlMzT2tlTVh4Y05LS1ZuN29veDBteHgtNjg4NnltaGM2anEyZ3lZOTZ4SnB3ZE9HLUY1aEZZbWhwV3BXcEE3NEdWaU1wTDVoNlQ1eWNDX0pGY0Y5RElhYmtNMW51VkZuTWY0cXdXNjhNbUNUSFNTaDBBb09nS0xFSnpueV9DUDAzUmp1RElKbS1ZcGQ3emdtcHVXS3dPVTJ0X3NncDhRWGc?oc=5)
+*Google News Hindi (कूटनीति)* - May 06, 12:00 IST (iso: 2026-05-06T06:30:24+00:00)
+<!-- image: https://images.pexels.com/photos/36212636/pexels-photo-36212636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-बैठक में रोजगार और आर्थिक विकास पर चर्चा हुई। ब्रिक्स देशों के प्रतिनिधियों ने बैठक में भाग लिया। ब्रिक्स रोजगार कार्य समूह की दूसरी बैठक का पहला दिन तिरुवनंतपुरम में संपन्न हुआ PIB।
+मई भारत के लिए कूटनीति के मोर्चे पर निर्णायक होगा। प्रधानमंत्री नरेंद्र मोदी यूरोप की यात्रा पर हैं, जबकि अमेरिका और रूस के विदेश मंत्री दिल्ली में बैठक करेंगे। कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे MSN।
 
 ---
 
