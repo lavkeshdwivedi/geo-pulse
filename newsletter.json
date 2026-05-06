@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-05-06T23:00:01.682981+00:00",
+  "generated_at": "2026-05-06T23:59:09.522885+00:00",
   "article_count": 42,
-  "total_unique_count": 250,
+  "total_unique_count": 233,
   "digest": {
-    "en": "US and Iranian officials are exchanging conflicting messages on the state of nuclear negotiations. Meanwhile, violence escalates in Ukraine with Kyiv accusing Russia of fresh strikes. Tehran's review of a US proposal to end the war continues, with key demands still unaddressed.",
-    "hi": "ईरान के साथ बढ़ते तनाव के बीच, अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को परमाणु हथियार नहीं बनाने की चेतावनी दी। एफबीआई ने ट्रंप के हमलावर के डिजिटल रिकॉर्ड की जांच शुरू की। इस बीच, रूस और यूक्रेन के बीच तनाव फिर से बढ़ गया है।"
+    "en": "Israeli strikes killed five Palestinians in Gaza. The US fired on an Iranian oil tanker as Trump pressed Tehran for a deal to end the war. Iran is reviewing a US proposal to end the war, though key demands remain unaddressed.",
+    "hi": "विश्व स्वास्थ्य संगठन ने त्वचा गोरी करने वाले उत्पादों को सेहत के लिए खतरनाक बताया है। इन उत्पादों की खपत रोकने के लिए सोच बदलनी होगी। ईरान पर अमेरिका के दो सुरों ने युद्ध को लेकर अनिश्चितता बढ़ा दी है।"
   },
   "articles": [
     {
-      "title": "Tehran and U.S. Offer Conflicting Messages on State of Negotiations",
-      "url": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
-      "source": "NYT World",
+      "title": "Israeli strikes kill five Palestinians across Gaza in one day",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-06T22:47:31+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/06/multimedia/06mideast-trump-hkwt/06mideast-trump-hkwt-mediumSquareAt3X.jpg",
-      "summary": "President Trump said his administration had good talks with Tehran. An Iranian official confirmed review of a US plan to end the war. Israel struck targets near Beirut. President Trump said his administration had had “very good talks” with Tehran in the last 24 hours.",
+      "published_at": "2026-05-06T23:20:32+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-GAZA-5-KILLED-1778109522.jpg?resize=1920%2C1440",
+      "summary": "Israeli strikes killed five Palestinians in Gaza. The attacks occurred in one day across separate locations. Five Palestinians were killed in one day in separate Israeli strikes across Gaza. Israeli strikes kill five Palestinians across Gaza in one day.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Kyiv accuses Russia of violating ceasefire with fresh strikes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDVJTUlTOVBhTWliWXNPeHRFdjRIdlJMTFROeDZuTEJSX211ekVDYkJvci1ycWxsN0dPeUd3a2R5MWFKWHhCZ2dfOHNoYVhpeVlVOENRaGtSaDdRY0dJaDJkNW1IcUlUYUNvMXpiV0pYZFFlM2ZJVkVvSjBtYWtlSVBjSzRuWVNveEZPamptbC1LakRrQ2RWWGpGczVjbGlhTnJYTzBmWGZXRWRDMHoxb1p6aEc1NVBMTEE?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-05-06T22:29:46+00:00",
-      "image_url": "https://images.pexels.com/photos/11756413/pexels-photo-11756413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Kyiv accused Russia of violating a ceasefire with fresh strikes. Ukraine war live: Kyiv accuses Russia of violating ceasefire with fresh strikes The Independent.",
-      "region": "Europe & Russia",
+      "title": "U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+      "source": "The Hindu (International)",
+      "sources": [
+        {
+          "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://www.thehindu.com/news/international/us-fires-on-iranian-oil-tanker-as-trump-pressures-tehran-for-deal-to-end-war/article70948554.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://www.thehindu.com/news/international/us-fires-on-iranian-oil-tanker-as-trump-pressures-tehran-for-deal-to-end-war/article70948554.ece",
+          "source": "The Hindu (International)"
+        }
+      ],
+      "published_at": "2026-05-06T22:42:28+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/2dd436/article70947201.ece/alternates/LANDSCAPE_1200/Epstein_Congress_Lutnick_5_683.jpg",
+      "summary": "Trump threatened Iran with increased bombing if the Strait of Hormuz is not reopened. The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U. S.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -51,102 +64,6 @@
       "published_at": "2026-05-06T22:12:05+00:00",
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fbb8dbbbf8-1778104539.jpg?resize=1920%2C1440",
       "summary": "Argentina is investigating a link to a deadly hantavirus outbreak on a cruise ship. Three deaths were reported. Three deaths reported from South America-related hantavirus as cruise ship remains off Cape Verde coast.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
-      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-06T22:10:40+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca2/live/a4e50820-4984-11f1-93fe-cfc8bb3523fc.jpg",
-      "summary": "A hantavirus-hit cruise ship left Cape Verde after three people were evacuated to the Netherlands. A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
-      "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-06T22:05:28+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP25023646685318-1-1778100915.jpg?resize=1920%2C1440",
-      "summary": "US lawmakers have demanded greater transparency on Israel's nuclear capabilities, citing heightened risks amid the US-Israel war on Iran. The push for clarity comes as tensions escalate in the region.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "IDF attacks Beirut for first time since ceasefire agreed",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0xyTTFwTGpjV3lnbkhyaERGYjAwc2lzbGJRY3BpVldhcnJZYjJMMmp3bWxHbHJFNkdIU1VZWGxLaFV6MFY5UF9HRnNLY2ZSNUx6UE94MG11NVpBVkhGRHJGTUluVjZFODZYX2FMcVlrTVJGdFgzSV9Nd0Y2eVMxNGE3SDllNlFWSlo0TUwzbUkySXZNclpRYUN0S2JPMXFTbUgtWndMWjhOaXpLNFE?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-05-06T22:00:54+00:00",
-      "image_url": "https://images.pexels.com/photos/6462772/pexels-photo-6462772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Israel's military attacked Beirut for the first time since a ceasefire was agreed, escalating tensions in the region. The attack marks a significant escalation in the ongoing conflict between Israel and Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Anthropic’s Mythos AI marks a cybersecurity moment Singapore cannot ignore",
-      "url": "https://www.channelnewsasia.com/commentary/ai-anthropic-mythos-threat-cybersecurity-singapore-csa-6103386",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-06T22:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--b0BGa1-L--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-05T204019Z_3_LYNXMPEM441EF_RTROPTP_3_EUROPE-BANKS-MYTHOS.JPG?itok=Vb9TSh5L",
-      "summary": "Singapore's cybersecurity landscape has been put on high alert by Anthropic's new AI model, Mythos. The model's potential to compromise national security has prompted warnings from top cybersecurity officials in the country.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Deepening Iran war and Hormuz crisis have left India sidelined",
-      "url": "https://www.channelnewsasia.com/commentary/india-iran-war-us-middle-east-diplomacy-pakistan-6103116",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-06T21:59:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--wmURU0KU--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-04T202235Z_1_LYNXMPEM431AQ_RTROPTP_3_IRAN-CRISIS.JPG?itok=hlMQGm88",
-      "summary": "India's delicate balancing act in the Middle East has been disrupted by the deepening US-Israel war on Iran. The crisis has left New Delhi struggling to maintain its relationships with key regional players.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "The heat is on Thailand to not just muddle through",
-      "url": "https://www.channelnewsasia.com/commentary/thailand-heatwave-tourism-impact-economy-6103541",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-06T21:58:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--nGIu41XR--/c_crop,h_900,w_1600,x_0,y_38/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/04/thailand-tourists-bangkok-2.jpg?itok=E49o-oCk",
-      "summary": "Thailand's economy is facing mounting problems, including a slowdown in growth and rising debt. Decision-makers in the country are under pressure to address these issues and restore stability to the economy.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "This Singapore designer turns food scraps, glass and textile waste into beautiful objects",
-      "url": "https://www.channelnewsasia.com/people/singapore-designer-liu-tingzhi-wastd-sustainable-design-6100556",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-06T21:51:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--lcXF7xxe--/c_crop,h_843,w_1500,x_0,y_141/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/05/h1_singapore-designer-liu-tingzhi-wastd-sustainable-design.jpg?itok=-uHAiL6i",
-      "summary": "Liu Tingzhi transforms food scraps and waste into objects through her studio Wastd. She saw the scale of textile waste while working in fashion. Liu Tingzhi first saw the scale of textile waste while working in fashion.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Oil prices tumble, stocks rally on Mideast peace hopes",
-      "url": "https://www.channelnewsasia.com/world/us-stocks-oil-prices-trump-iran-war-middle-east-6105216",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-06T21:33:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--Lis40ddV--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/07/063_2274856428.jpg?itok=Ebg0udpp",
-      "summary": "US President Donald Trump said talks with Iran are progressing, leading to a drop in oil prices and a rise in global stocks.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -189,18 +106,6 @@
       "translations": {}
     },
     {
-      "title": "SpaceX backs Anthropic with data centre deal amidst Musk’s OpenAI lawsuit",
-      "url": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-06T21:26:12+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_69fb99f3d5a56-1778096627.jpg?resize=1920%2C1440",
-      "summary": "SpaceX signed a data centre deal with Anthropic, easing capacity constraints for the company. Deal gives IPO-bound SpaceX a marquee customer, while helping Anthropic ease capacity constraints. SpaceX backs Anthropic with data centre deal amidst Musk’s OpenAI lawsuit.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
       "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
       "source": "Al Jazeera",
@@ -208,54 +113,6 @@
       "published_at": "2026-05-06T21:17:47+00:00",
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260506__B22K32R__v1__HighRes__UsPoliticsTrump-1778097980.jpg?resize=1920%2C1440",
       "summary": "Trump had talks with Iran about a potential deal. Tehran is reviewing a US proposal that could end the war. Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Holders PSG beat Bayern Munich to reach Champions League final with Arsenal",
-      "url": "https://www.aljazeera.com/sports/2026/5/6/holders-psg-beat-bayern-munich-to-reach-champions-league-final-with-arsenal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-06T21:14:05+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/GettyImages-2274858941-1778101475.jpg?resize=1200%2C675",
-      "summary": "Paris Saint-Germain beat Bayern Munich to reach the Champions League final. They drew the second leg 1-1 in Germany. Paris Saint-Germain draw the second leg of their semifinal with Bayern Munich 1-1 in Germany to take the tie 6-4.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What’s behind the secessionist movement in the Canadian province Alberta?",
-      "url": "https://www.aljazeera.com/news/2026/5/6/whats-behind-the-secessionist-movement-in-the-canadian-province-alberta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-06T21:05:29+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fb8e21211e-1778093601.jpg?resize=1920%2C1440",
-      "summary": "Alberta, Canada's oil-rich western province, may hold an independence referendum as early as October. The secessionist movement faces a complicated process ahead. Oil-rich western province could see independence referendum as soon as October, but complicated process remains ahead.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israel bombs Beirut’s southern suburbs",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-06T21:01:40+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778100855.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Israel bombed Beirut's southern suburbs for the first time since a ceasefire took effect on April 17. The strike occurred in the area. Israel bombed Beirut’s southern suburbs for the first time since the ‘ceasefire’ took effect on April 17.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump threatens Iran with ‘higher level’ bombing if it doesn't reopen Strait of Hormuz",
-      "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-06T21:00:50+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/2dd436/article70947201.ece/alternates/LANDSCAPE_1200/Epstein_Congress_Lutnick_5_683.jpg",
-      "summary": "Trump threatened Iran with increased bombing if the Strait of Hormuz is not reopened. The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U. S.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -271,6 +128,198 @@
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-06T19:58:04+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1a/live/fc55db50-4981-11f1-b768-41eba02d8af8.jpg",
+      "summary": "Israel struck Beirut for the first time since mid-April. The target was a senior Hezbollah figure. Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Says Iran Deal \"Very Possible\" Following Latest Talks",
+      "url": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-iran-deal-very-possible-following-latest-talks-11459384#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-06T19:31:42+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/r4tipkug_donald-trump_625x300_06_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "US President Donald Trump said a deal with Iran is very possible. Talks between the US and Iran were held in the last 24 hours. US President Donald Trump on Wednesday told reporters that the U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US-Iran Ceasefire Live Updates: Iran, China Envoys Meet As Trump Pauses US Effort In Hormuz",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-ceasefire-donald-trump-hormuz-project-freedom-live-updates-ceasefire-on-brink-as-us-iran-trade-fire-uae-reports-attacks-11450031#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-06T19:15:38+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/lk9tqki_vessel-in-hormuz_625x300_05_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Iran and China envoys met as the US paused its effort in Hormuz. The meeting followed a US pause. US-Iran Ceasefire Live Updates.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China Rolls Out J-35AE Stealth Jet As F-35 Rival, Pak May Be First Buyer",
+      "url": "https://www.ndtv.com/world-news/china-rolls-out-j-35ae-stealth-jet-as-f-35-rival-pak-may-be-first-buyer-11459368#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-06T19:05:50+00:00",
+      "image_url": "https://c.ndtvimg.com/2025-06/nns07fpg_shenyang-j35-_625x300_20_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "China rolled out the J-35AE stealth jet as a rival to the F-35. Pakistan may be the first buyer of the export-focused jet. The export-focused J-35AE is expected to mirror the domestic version in performance.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Pentagon addresses claims of Iran’s ‘kamikaze dolphins’ in Hormuz",
+      "url": "https://indianexpress.com/article/world/pete-hegseth-pentagon-iran-kamikaze-dolphins-strait-of-hormuz-project-freedom-10676589/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-06T19:00:14+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/hegseth-caine.jpg",
+      "summary": "The Pentagon addressed claims of Iran's use of \"kamikaze dolphins\" in the Hormuz Strait, though details of their response were not provided. The US military has been scrutinizing such reports amid heightened tensions with Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Energy Security Returns To The Forefront As Prolonged U.S.-Iran War Forces A Global Energy Reset",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORmpQd1NVZnFGWWhOUmpYZ0pwT05TQV9YcGIzZ2xKNFhOWXpLQ29ubFZZOW1fWmYwRkY5TldLOGFmRmNpbDNMODY4cTFNeklWbmVLWFVEYlFjYVFzcU9OV1NNbDBkLXBQWndFNEIwUDVxdnlXUVVkMXFiS2ozWGJLcEg1VDBsem1QaDZuVE9Gd3VCU2NhNFpuTWpsRGpfVFVCZExPNDVqYXlpTUh1Q0lrLWd5T05hV2JKZUtmemliUEU5X2pjNE9LRUxaUjNtSU9SbjlSY192Zw?oc=5",
+      "source": "Google News (global security)",
+      "sources": [],
+      "published_at": "2026-05-06T18:01:52+00:00",
+      "image_url": "https://images.pexels.com/photos/4606713/pexels-photo-4606713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "A prolonged US-Iran war would force a global energy reset, prioritizing energy security. This scenario would likely have far-reaching implications for international relations and the global economy. Energy Security Returns To The Forefront As Prolonged U. S.-Iran War Forces A Global Energy Reset – OpEd Eurasia Review.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Vietnam major pillar of India’s Act East Policy, says Modi",
+      "url": "https://www.thehindu.com/news/international/vietnam-president-to-lam-accorded-ceremonial-welcome-at-rashtrapati-bhavan-on-his-maiden-visit-to-india/article70945979.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-06T17:29:38+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/eefc3u/article70946026.ece/alternates/LANDSCAPE_1200/India_Vietnam_26728.jpg",
+      "summary": "Indian Prime Minister Modi stated that Vietnam is a major pillar of India's Act East Policy. This was in a meeting with To Lam, General Secretary of the Communist Party of Vietnam and current Vietnamese President.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "India, Algeria hold first joint defence commission meet",
+      "url": "https://www.thehindu.com/news/national/india-algeria-hold-first-joint-defence-commission-meet/article70947397.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-06T17:15:57+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/8bndys/article70947618.ece/alternates/LANDSCAPE_1200/20260505406L.jpg",
+      "summary": "India and Algeria held their first joint defence commission meeting, signing the Rules of Procedure to guide their defence cooperation. This aims to streamline collaboration mechanisms between the two countries.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-06T16:11:44+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9c5/live/5a6e0e90-4966-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "Oil prices dropped and stock markets rose following reports of a potential deal to end the Iran war. These developments raised hopes of an agreement between the US and Iran after days of escalation.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Congress backs Vijay’s TVK; DMK terms it a ‘backstab’ | Above the Fold | 06.05.2026",
+      "url": "https://www.thehindu.com/videos/watch-congress-backs-vijays-tvk-dmk-terms-it-a-backstab-above-the-fold-06052026/article70948183.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-06T16:01:09+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/ksxn3k/article70948158.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-06%20at%2020.51.51.jpeg",
+      "summary": "Congress backed Vijay's TVK after breaking with the DMK, sparking DMK criticism of a \"backstab.\" Post-poll violence continues in West Bengal, amidst rising tensions in the region. In this episode: Congress backs Vijay’s TVK after breaking with the DMK, as post-poll violence grips West Bengal, alongside Iran–U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+      "url": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-06T15:46:06+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46ba/live/72ac4170-4957-11f1-91ca-0f2f4e61b132.jpg",
+      "summary": "Ted Turner, media mogul, died at 87. He pioneered modern 24-hour news culture with the launch of CNN in 1980, transforming the television news landscape. The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran bets on new maritime system for ships transiting Strait of Hormuz",
+      "url": "https://indianexpress.com/article/world/iran-strait-of-hormuz-new-transit-permit-rules-trump-bombing-warning-10676384/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-06T15:42:39+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/hormuz-strait-2.jpg",
+      "summary": "Iran is developing a new maritime system for ships passing through the Strait of Hormuz, a key waterway connecting the Persian Gulf to the Arabian Sea. Iran bets on new maritime system for ships transiting Strait of Hormuz.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbUlCZDBJamZiSWNVY2hkV0Y2QlJDRVVqbUZYZjVyZ0o0RTVMRzZ6UEpQcUN4N1R6anpJZTNwRzdmbDNRNWhyMmhQbUxuNzlYT0ZLcW1TR3laQ0c0ZS1CWUJibTVaaVJiMWxXSC1iSG9laTM0VF9sbmJKMXlZcWh0SHY3R2NnMTlPZGhrZmhVLUVQdWp6QlJKdU9LYzQ0N2JFQ3p6QVV4Ny10c0N3ZlHSAbMBQVVfeXFMUFo2Rll2V3BZc3pkNW50RnRvVVZYdjNxbVNwOFM3Y3hSbmR5b05sMFRvT3RyZ3RRdnJkNE81NVJNNTJxTFNIaU1uaktlb2J4QWRUX0xMMnZIWjFETmllTEh2TlNULTZCdGZoVmZVeUpHLTE4Nkg5c0lnTXBvR3dXUGVYbnpYRHhVWU01aDBmdWlPOW1RNkp6Qk5LaWZBRndhZVR1eGg0UGgzemEtczZCRnEya1k?oc=5",
+      "source": "Google News (international relations)",
+      "sources": [],
+      "published_at": "2026-05-06T15:36:37+00:00",
+      "image_url": "https://images.pexels.com/photos/14136510/pexels-photo-14136510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "China is increasing diplomatic efforts to prevent war in Iran ahead of a summit between Trump and Xi, as tensions between the US and Iran remain high. China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi PBS.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "त्वचा गोरी करने वाले उत्पाद सेहत के लिए बेहद खतरनाक, WHO बोला- खपत रोकने के लिए बदलनी होगी सोच",
+      "url": "https://www.amarujala.com/world/skin-whitening-products-extremely-dangerous-for-health-who-said-thinking-will-have-to-change-to-stop-consumpti-2026-05-07",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-06T23:25:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/07/cosmetics-products_eefd335879f7298a40d340148a418fbd.jpeg?w=750&dpr=1.0",
+      "summary": "विश्व स्वास्थ्य संगठन ने त्वचा गोरी करने वाले उत्पादों को सेहत के लिए खतरनाक बताया है। इन उत्पादों की खपत रोकने के लिए सोच बदलनी होगी। WHO ने इस मुद्दे पर चिंता जताई है।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "त्वचा गोरी करने वाले उत्पाद सेहत के लिए बेहद खतरनाक, WHO बोला- खपत रोकने के लिए बदलनी होगी सोच",
+          "summary": "विश्व स्वास्थ्य संगठन ने त्वचा गोरी करने वाले उत्पादों को सेहत के लिए खतरनाक बताया है। इन उत्पादों की खपत रोकने के लिए सोच बदलनी होगी। WHO ने इस मुद्दे पर चिंता जताई है।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "ईरान पर US के दो सुर: ट्रंप-रुबियो के विरोधाभासी बयानों से ईरान युद्ध पर बढ़ी अनिश्चितता, जानें",
+      "url": "https://www.amarujala.com/world/us-iran-tensions-operation-epic-fury-trump-rubio-project-freedom-strait-of-hormuz-west-asia-war-2026-05-07",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-06T23:01:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/06/gaza-peace-plan-everybodys-pretty-much-agreed-to-it-trump-rubio-were-dealing-with-killers-ter_e5074c4cad5e1339d85157af87e971b1.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और सीनेटर मार्क रुबियो के ईरान पर विरोधाभासी बयानों से युद्ध की अनिश्चितता बढ़ गई है। उनके बयानों से स्थिति की गंभीरता बढ़ी है। ईरान पर US के दो सुर: ट्रंप-रुबियो के विरोधाभासी बयानों से ईरान युद्ध पर बढ़ी अनिश्चितता, जानें।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान पर US के दो सुर: ट्रंप-रुबियो के विरोधाभासी बयानों से ईरान युद्ध पर बढ़ी अनिश्चितता, जानें",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और सीनेटर मार्क रुबियो के ईरान पर विरोधाभासी बयानों से युद्ध की अनिश्चितता बढ़ गई है। उनके बयानों से स्थिति की गंभीरता बढ़ी है। ईरान पर US के दो सुर: ट्रंप-रुबियो के विरोधाभासी बयानों से ईरान युद्ध पर बढ़ी अनिश्चितता, जानें।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "ईरान युद्ध से जुड़ रहे ट्रंप के हमलावर के तार, एफबीआई खंगाल रही आरोपी का डिजिटल रिकॉर्ड",
@@ -294,20 +343,7 @@
       "title": "रूस-यूक्रेन में फिर बढ़ा तनाव, एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई मौतें",
       "url": "https://www.amarujala.com/world/russia-ukraine-war-ceasefire-drone-attacks-putin-zelenskyy-crimea-europe-response-2026-05-07",
       "source": "Amar Ujala World",
-      "sources": [
-        {
-          "url": "https://www.amarujala.com/world/russia-ukraine-war-ceasefire-drone-attacks-putin-zelenskyy-crimea-europe-response-2026-05-07",
-          "source": "Amar Ujala World"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUZtSlh3MGlZRE5oa1hvNHNxTlVoNG9FWlItaHdtT2MyX19laUhrbXNDbWw0UkFOc0Nkd2F4aFQ5eXNxSGZHNVZCYVNRaGR5UXNMZzA1a0ZraGJZbW1keE5DU3JSOVVDRFJ0cXlGSk41aUhMeU9MX1c5X1R3MFN1SElERnFHNXlNelV4bXZBYTNTLWF0Yl9CWlNuNERMR3R2OGU4TDJLSXdkYVNmNEZXMnNmMVE4ZHVUOFNuTWxDaE5Md9IBxwFBVV95cUxPN3VOZHg2bnVtSUtvbGtiUlZVbmxWZjExNFp6a1VSbW1Vem9kMEdldWI5U1pWa1oyYmRMcGVaa1JMRndLMDV5bWxXQUVOc0MtVEJ1SjlVUHRNS2xaX0luVUNTM0M1OTh3c0hRWDlpZXJrWkRlLTNiSm40UVlXYURTb2oyNEJIcWdDbTBzbW5zUGJDMV9yRndpck9XdGRhMDRUaXJwZldILXlvUFFCdW5HZzlVWXNTRHdWbHdXU2FEOGRWRjFxSjY4?oc=5",
-          "source": "Google News Hindi (युद्ध संघर्ष)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUZtSlh3MGlZRE5oa1hvNHNxTlVoNG9FWlItaHdtT2MyX19laUhrbXNDbWw0UkFOc0Nkd2F4aFQ5eXNxSGZHNVZCYVNRaGR5UXNMZzA1a0ZraGJZbW1keE5DU3JSOVVDRFJ0cXlGSk41aUhMeU9MX1c5X1R3MFN1SElERnFHNXlNelV4bXZBYTNTLWF0Yl9CWlNuNERMR3R2OGU4TDJLSXdkYVNmNEZXMnNmMVE4ZHVUOFNuTWxDaE5Md9IBxwFBVV95cUxPN3VOZHg2bnVtSUtvbGtiUlZVbmxWZjExNFp6a1VSbW1Vem9kMEdldWI5U1pWa1oyYmRMcGVaa1JMRndLMDV5bWxXQUVOc0MtVEJ1SjlVUHRNS2xaX0luVUNTM0M1OTh3c0hRWDlpZXJrWkRlLTNiSm40UVlXYURTb2oyNEJIcWdDbTBzbW5zUGJDMV9yRndpck9XdGRhMDRUaXJwZldILXlvUFFCdW5HZzlVWXNTRHdWbHdXU2FEOGRWRjFxSjY4?oc=5",
-          "source": "Google News Hindi (युद्ध संघर्ष)"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-06T22:17:25+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/24/nprsa-yakarana-yathathha_ff95c71ab0f358c3e0891ff201111929.jpeg?w=750&dpr=1.0",
       "summary": "रूस और यूक्रेन के बीच तनाव फिर बढ़ गया है। एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई लोगों की मौत हो गई। रूसी राष्ट्रपति पुतिन और यूक्रेनी राष्ट्रपति ज़ेलेंस्की के बीच तनाव बढ़ रहा है।",
@@ -317,6 +353,24 @@
         "hi": {
           "title": "रूस-यूक्रेन में फिर बढ़ा तनाव, एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई मौतें",
           "summary": "रूस और यूक्रेन के बीच तनाव फिर बढ़ गया है। एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई लोगों की मौत हो गई। रूसी राष्ट्रपति पुतिन और यूक्रेनी राष्ट्रपति ज़ेलेंस्की के बीच तनाव बढ़ रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका और UAE में हैं सबसे ज्यादा भारतीय प्रवासी: UN की वर्ल्ड माइग्रेशन रिपोर्ट 2026",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM08xRVJzekpMMGpsXzJDUDJJNmJmdnc3TlRIbEpiSHEzaGQ1VkNTQ3N1UXBzbUU5TVdQVkpZS2QtX3FRSEhKcUowVmpxTEdtR2c4VWRSc2ZtaXlvQ1BWaGo0bmxYSDNpSTlESWIyeHozMFhIdmtjTlUyd2tlRmlELUw2dEdMUQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-06T20:49:29+00:00",
+      "image_url": "https://images.pexels.com/photos/29212684/pexels-photo-29212684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र की वर्ल्ड माइग्रेशन रिपोर्ट 2026 के अनुसार, अमेरिका और UAE में सबसे ज्यादा भारतीय प्रवासी हैं। यह रिपोर्ट प्रवासियों की संख्या और उनके गंतव्यों के बारे में जानकारी प्रदान करती है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका और UAE में हैं सबसे ज्यादा भारतीय प्रवासी: UN की वर्ल्ड माइग्रेशन रिपोर्ट 2026",
+          "summary": "संयुक्त राष्ट्र की वर्ल्ड माइग्रेशन रिपोर्ट 2026 के अनुसार, अमेरिका और UAE में सबसे ज्यादा भारतीय प्रवासी हैं। यह रिपोर्ट प्रवासियों की संख्या और उनके गंतव्यों के बारे में जानकारी प्रदान करती है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -354,24 +408,6 @@
           "title": "विदेश मंत्री जयशंकर ने सूरीनाम के राष्ट्रपति से की मुलाकात, द्विपक्षीय सहयोग को गहरा करने पर दिया",
           "summary": "विदेश मंत्री जयशंकर ने सूरीनाम के राष्ट्रपति जेनिफर गीरलिंग्स सिमन्स से मुलाकात की और द्विपक्षीय सहयोग को गहरा करने पर चर्चा की. इस मुलाकात का उद्देश्य दोनों देशों के बीच संबंधों को मजबूत करना था.",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "टीवीके का विजय रथ रोकने की तैयारी: क्या हाथ मिलाएंगे डीएमके-AIADMK?, बड़े सियासी उलटफेर की अटकलें",
-      "url": "https://www.amarujala.com/india-news/tamil-nadu-election-dmk-and-aiadmk-may-join-hands-to-prevent-tvk-from-forming-the-government-2026-05-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-06T19:42:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/11/21/ananatharamaka-paramakha-edapapatha-palnasavama-oura-tamalnada-ka-saema-emaka-satalna_b93c4deeee68c0f2c5b042d754e922ed.jpeg?w=750&dpr=1.0",
-      "summary": "तमिलनाडु में टीवीके की जीत को रोकने के लिए डीएमके और एआईएडीएमके के बीच हाथ मिलाने की चर्चा चल रही है। इस राजनीतिक उलटफेर से तमिलनाडु की राजनीति में बड़ा बदलाव आने की संभावना है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "टीवीके का विजय रथ रोकने की तैयारी: क्या हाथ मिलाएंगे डीएमके-AIADMK?, बड़े सियासी उलटफेर की अटकलें",
-          "summary": "तमिलनाडु में टीवीके की जीत को रोकने के लिए डीएमके और एआईएडीएमके के बीच हाथ मिलाने की चर्चा चल रही है। इस राजनीतिक उलटफेर से तमिलनाडु की राजनीति में बड़ा बदलाव आने की संभावना है।",
-          "region": "दुनिया"
         }
       }
     },
@@ -484,24 +520,6 @@
       }
     },
     {
-      "title": "सिंदूर के बाद का भारत: हर मोड़ पर बढ़त",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjQwVU4zWXZ6YzBzRG5KV2FlWjhHenNkSWotSGNkdnNxNUVPLWQtWFlwd2U3emtCOUVWeHRGOWYySlNlX09KRDlJNElvdzl1TnhDVVVOTGt6cGg4bFN2ZDNITFA1cllkcVk0UjZDSkN6Y3ZLOEk4T3Y3VGNjVkI1dGJVSXZmdl9wNTM5VGx3?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-06T14:24:41+00:00",
-      "image_url": "https://images.pexels.com/photos/37079434/pexels-photo-37079434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत में सिंदूर की बढ़ती मांग ने बाजार में एक नई प्रवृत्ति को जन्म दिया है। हर मोड़ पर सिंदूर की बिक्री बढ़ रही है, जो महिलाओं के बीच इसकी लोकप्रियता को दर्शाता है। यह एक नए युग की शुरुआत है जहां सिंदूर एक महत्वपूर्ण उत्पाद बन गया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंदूर के बाद का भारत: हर मोड़ पर बढ़त",
-          "summary": "भारत में सिंदूर की बढ़ती मांग ने बाजार में एक नई प्रवृत्ति को जन्म दिया है। हर मोड़ पर सिंदूर की बिक्री बढ़ रही है, जो महिलाओं के बीच इसकी लोकप्रियता को दर्शाता है। यह एक नए युग की शुरुआत है जहां सिंदूर एक महत्वपूर्ण उत्पाद बन गया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "ममता बनर्जी के इस्तीफ़ा न देने वाले बयान को कैसे देख रही हैं राजनीतिक पार्टियां",
       "url": "https://www.bbc.com/hindi/articles/cx218596l3jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -552,24 +570,6 @@
           "title": "जैब अंसारी के अंतरराष्ट्रीय नेटवर्क और ISIS संबंधों की ATS जांच",
           "summary": "जैब अंसारी के अंतरराष्ट्रीय नेटवर्क और ISIS संबंधों की जांच अहमदाबाद ATS कर रही है। मिरा रोड मामले में अंसारी की भूमिका की जांच चल रही है, जो एक बड़े नेटवर्क का हिस्सा हो सकता है। ATS इस मामले में और जानकारी इकट्ठा कर रही है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत-पाकिस्तान में अगला संघर्ष होगा और खतरनाक, अमेरिकी एक्सपर्ट की चेतावनी, ट्रंप के क्रेडिट लेने",
-      "url": "https://news.google.com/rss/articles/CBMitwhBVV95cUxQOFB1OXJaTzg1c1hYeEdjS0dwaHRPYzN4blJwc01GRjJBcldGREZ6ZGVYWWVqN0c5NkR4SHg2RGZlMnNNcnVyQWdHUVMxS0pHN0E0NHNqbmo4UVBkYkIyYm9oMlZ0ZmNqd0t0WUNZTWhFQVZudHE3eUtwdGtsbkdlMkVLSUF5and0N2NtU25rblo4RkxzUGRNRVgyNDVST0IxQTF2M0ZuZjllR0pYeHNjb2pvY0o2azB2aUE0Ym9vQXp0Q2lPZjVsY1VYMFpJUFhaVE8wOFN2S0dmWmJpM21CdDBJOHo2OTFQZHBFUG1LUW9pSXktUWtZbVZpTWdOSDR4QkJNclYtY1hCUUVrWVAwTHVFc3k1N3NfTkxiLXpnSFh2bFVDU1Vfa1doX0Qyc3B0MFEtQlE1b3ZsSXMzTWVCYVo4QVZWdGlaU3Z3RnRqUTRFdThVckV3U29McmxDaTZDdm9kdTVLUkdBVG5WdGN1dzlRTDJMdVowWEltbU9vd21DTGV0Q3lzSjVVdjhRS25BOXVLVk5qRXI0RmZTU3pGRFhUR1VzbFpxajNEQURDd2xoQUNQZmFhMG9BLUpLVVMxMzFreVI2T00yQ0tVY2hPSnF6WjJ2UHJ3SUJVN2k0aEJrRHBYeGZ4VGNIRlRTT3E5eFFpV1paLThya2N0RUt3WXFvRXQzaUlLS2owOUdNMmRVR3VONXhQQXduMHVFTHo3Mm40QVZnejlPQ1RMcHlKdS1GbnVuR2UzQ1hEaGtucTdBRkpPaWJWZHRkb2NRUEE3UmRTeEJqSVB4UDFaUG1OX1JmUVYta3VTVDJXb19hQTJrTkVKT3ZsLWdyalF4TklXaDV2UnRCX1RtWm54NlB2Ml9MNzhKLXRBUC1Vc0d0QWZUNEtva0Z4LTJQcllDa3BaUHZ2VXoxQlcxOFN3dDV0bHRYbHhESzUtMTk4ZV9PekwtbkxESnBjOWVMZTdFSjl3bXFkUDVfSERTdVRmbnpYSHZJaTlEdmk0OF9OV1lMYmtMdFlULUdiMHdNVkw0eVRtN3g1NnVHMi1sMUJLekx6T2VYRkZ0T2dRWThPanVTZFFyWG1GOHFFRUMyRkVaWmNaMHJVS2lGVjNtaFR1Y1ZQYmhVMDZ0NHJ5U1NJQ0JXWXJET1lCeEsyYkNndjhHblhhUWs5eXc4ZFRSeFliY2tGeFBQNFR0Sm5ROEtHd1JmOXFPVEdEUERwVU8xSGNNbEplOG8xNG9GRjB5X3dJQVEtb1Y2c0xad3Njd0x6MFRkQjIzMzBOVFByZHozTWhQaTFJblFFakN4ajAtVnNPM3FTLTRKWDZVMk41Z2ZuMVF4MFdqQ0M1a2NkWE1BSmI3QkFrRUNyanFqeVNaM0F3Xzc4cFRaTS1RZmtQYkxBeDFyd2l3Z0NXSmRtZ2JLMWdxSnMzWGpBUHZYOA?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-06T11:25:24+00:00",
-      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी विशेषज्ञों ने चेतावनी दी है कि भारत और पाकिस्तान के बीच अगला संघर्ष और भी खतरनाक हो सकता है। उन्होंने कहा कि अमेरिकी राष्ट्रपति ट्रम्प के इस मुद्दे को अपने क्रेडिट में लेने से समस्या और जटिल हो गई है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत-पाकिस्तान में अगला संघर्ष होगा और खतरनाक, अमेरिकी एक्सपर्ट की चेतावनी, ट्रंप के क्रेडिट लेने",
-          "summary": "अमेरिकी विशेषज्ञों ने चेतावनी दी है कि भारत और पाकिस्तान के बीच अगला संघर्ष और भी खतरनाक हो सकता है। उन्होंने कहा कि अमेरिकी राष्ट्रपति ट्रम्प के इस मुद्दे को अपने क्रेडिट में लेने से समस्या और जटिल हो गई है।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -646,20 +646,20 @@
       }
     },
     {
-      "title": "ममता के इस्तीफ़े के बिना क्या बीजेपी की सरकार बन पाएगी, टीएमसी की आख़िर रणनीति क्या है?",
-      "url": "https://www.bbc.com/hindi/articles/clyp544z5dyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री",
+      "url": "https://news.google.com/rss/articles/CBMi0gdBVV95cUxOQjZwMmkyUUpCcVZtZ1ExQUNkWGJOYXhEZUdWOUQyenJwZmxvNGpWeHY3RE5qRWhiRWNITXJidktZeFBxRWFEM05Uc0F3U19tcUFsQnhUYl80QXViSklTQXVJa2FDY1h2U0pXRi1fSUdBT0hlbG1mVzdGMExRVjBFY0tYZXpXMmVWWGRrX0s0ODJvWlMzdW9TR0F1VU54RnBEcV9VbDNjeE91Wmhod25OUEFRQVB2MDU0N3E2N3Vjd083STNzYWtycUtKYTZTX01pQ1pMX3VCTlZSVHFOZkxZOURwMzNHaFM3RXNQdktPanZxQVQxOHlRT0VmNmJmcTRuSWJQMkhWdzZJemw5UzJjd3ZMWjJPSF9EenhzbGgydlQzc3lOQjc5UU1WamFHLWJ4ZWlBNFN4WnFWejl5UjEtRlVES1FIdUZOLVl0TGpFZjRsaHliSXdiVTIxMWxEU3lPdktNa2JnRHZqQTNaYVdEOHpKYmdmZUFudGV4Qy1naXJQSTZyS3duMXpndjczblQ4by1Zd0lXRkVuN2hnSExWcUZKSzJ6Z2RGUGJVcllTaDQ5WkRmbElfVmdzaWxGVzZabXgxMnBKaVVEQjlkemhZOFdwdFJYU2hQT01zLVUxMWExR002bFhNaE9IaFRVcFJMZ1A1aEh0OVE5azZpSXdzbTJIYkhLdllCVWRzOEVGUDRlUXA5eGJMbV9TQzNqMHQ5bVM2OGFXZHJNSGJmSkx4UHdaLTlEbi1aMDBOUTBMak9TdzMyVk82U1dBbG0wUXdZVm51eWhJRmNiMmRiSnRVWTg2T2Q3U1VPc3R4RGxvc0E5MnhTVzlDTEJhVGt4SzlDbDQtNlBPbnZualZONWZkMUZxLXBXMkpZRms0UTlnbjJCUms2NXpFM2ZGTXlQVlFuSmJmNWFXQmh5ZjEtem1yN25Bc2E5N2dlRGFNbVY5UnNPVGZBVWFZZDJ4aHQyejd2aWFWS213OHdDVWppV1J4NjdXb1JPeGFUZTJGTVB0a1FxaDVvREs3VlM2NXFNLTJYV2FEZDFmNkRlX2ZrRHg5NUxKanplWDZvNzJwbGNfTlRUVlMzT2tlTVh4Y05LS1ZuN29veDBteHgtNjg4NnltaGM2anEyZ3lZOTZ4SnB3ZE9HLUY1aEZZbWhwV3BXcEE3NEdWaU1wTDVoNlQ1eWNDX0pGY0Y5RElhYmtNMW51VkZuTWY0cXdXNjhNbUNUSFNTaDBBb09nS0xFSnpueV9DUDAzUmp1RElKbS1ZcGQ3emdtcHVXS3dPVTJ0X3NncDhRWGc?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
       "sources": [],
-      "published_at": "2026-05-06T08:02:28+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/507a/live/14fc5aa0-492b-11f1-9546-d74beef04f02.jpg",
-      "summary": "ममता बनर्जी ने विधानसभा चुनावों में हार के बावजूद इस्तीफ़े से इनकार कर दिया है. अगर वह इस्तीफ़ा नहीं देती हैं, तो राज्यपाल के पास विकल्प सीमित होंगे. ममता को इससे राजनीतिक लाभ हो सकता है. वह अपनी रणनीति के तहत काम कर रही हैं.",
-      "region": "World",
+      "published_at": "2026-05-06T06:30:24+00:00",
+      "image_url": "https://images.pexels.com/photos/36212636/pexels-photo-36212636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "मई भारत के लिए कूटनीति के मोर्चे पर निर्णायक होगा। प्रधानमंत्री नरेंद्र मोदी यूरोप की यात्रा पर हैं, जबकि अमेरिका और रूस के विदेश मंत्री दिल्ली में बैठक करेंगे। कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे MSN।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ममता के इस्तीफ़े के बिना क्या बीजेपी की सरकार बन पाएगी, टीएमसी की आख़िर रणनीति क्या है?",
-          "summary": "ममता बनर्जी ने विधानसभा चुनावों में हार के बावजूद इस्तीफ़े से इनकार कर दिया है. अगर वह इस्तीफ़ा नहीं देती हैं, तो राज्यपाल के पास विकल्प सीमित होंगे. ममता को इससे राजनीतिक लाभ हो सकता है. वह अपनी रणनीति के तहत काम कर रही हैं.",
-          "region": "दुनिया"
+          "title": "कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री",
+          "summary": "मई भारत के लिए कूटनीति के मोर्चे पर निर्णायक होगा। प्रधानमंत्री नरेंद्र मोदी यूरोप की यात्रा पर हैं, जबकि अमेरिका और रूस के विदेश मंत्री दिल्ली में बैठक करेंगे। कूटनीति के मोर्चे पर भारत के लिए निर्णायक होगा मई; मोदी यूरोप में, अमेरिका-रूस के विदेश मंत्री दिल्ली में होंगे MSN।",
+          "region": "यूरोप और रूस"
         }
       }
     }
