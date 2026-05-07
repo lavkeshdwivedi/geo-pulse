@@ -1,44 +1,188 @@
 {
-  "generated_at": "2026-05-07T14:14:06.610187+00:00",
+  "generated_at": "2026-05-07T16:53:26.353481+00:00",
   "article_count": 42,
   "total_unique_count": 250,
   "digest": {
-    "en": "Drones crashed in a NATO country after crossing from Russia. \nThe incidents follow a tumultuous period for European nations. \nMultiple unrelated events are unfolding across the continent and beyond.",
-    "hi": "पश्चिम बंगाल के राज्यपाल ने विधानसभा को भंग कर दिया है। ममता बनर्जी ने अभी तक इस्तीफा नहीं दिया है। \n\nअमेरिकी सेना दूसरे देशों में तैनात रहती है और उनकी रक्षा करती है। \n\nईरान से सीखते हुए पाकिस्तान ने भारत को घेरने की तैयारी की है।"
+    "en": "The U.S. and Iran are locked in a high-stakes standoff over a proposed peace deal, with Tehran reviewing the latest offer as President Trump pressures the government to agree to an end to the war. Meanwhile, Israeli airstrikes continue to rock Beirut, with Lebanon's government pushing for de-escalation ahead of new talks.",
+    "hi": "ईरान ने होर्मुज पर अमेरिका के संयुक्त प्रस्ताव की आलोचना की। अमेरिका और ईरान के बीच तनाव कम होने के संकेत नहीं मिल रहे हैं। ईरान ने अमेरिका के 14 सूत्रीय प्रस्ताव को ठेंगा दिखाया है।"
   },
   "articles": [
     {
-      "title": "Two drones crash in Nato country after crossing from Russia",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanJoZUlFcU1uZnZNLTJOQ2pmLVkxc2Y3TFpkOE85LVdpa3NCdENpR2ExNDM5Vy1IYWlna0tlUnVmSVh0MnNGaUtBYUFOVVZGM3VadTJ2MkgzMVVXVFBieWl0c1dTdHp2TnlqNmJiMWhWTTlMbW5rSHhCaElVT3pwc0VBVWIwUUV2THVoMjcxY0VkSE80eGFhMXlaMGZNc29XbjlBSmdSR0VCV094b2lfcVlXMDRWc1hS?oc=5",
+      "title": "U.S. Awaits Tehran’s Response to Peace Proposal",
+      "url": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-07T16:45:44+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/07/multimedia/07mideast-blog-promo-bgtl/07mideast-blog-promo-bgtl-mediumSquareAt3X.jpg",
+      "summary": "Iran will respond to a US peace proposal through Pakistan. An Iranian official said that Tehran would convey its reply through Pakistan, a key mediator. Another Iranian official had earlier dismissed a reported proposal to end the war as a “list of American wishes.”.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israel kills Hezbollah commander in Beirut strike",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0IzZGxmaUR6QUlmTjF2ak5WUUhVc1BrcmRCbmJQQWg1cUF6b1V4TjJmX052cVBuN2tTUE93bFJmR2FYSjAzMk1oV3ltckVwZWU3UW9BdU1OT2xhRVA3T1FrV1ZId2t2RGFIZ095MnJFOHh4amFZUkY0YnpFdzFlYWdJMVdBdXQyVDc2THItT2hlbHZPQ1pkQXBYakxOM1lYRm9N?oc=5",
       "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-05-07T14:05:21+00:00",
-      "image_url": "https://images.pexels.com/photos/27636638/pexels-photo-27636638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Two drones crashed in a NATO country after crossing from Russia. The incident occurred amid ongoing tensions related to the Ukraine war. Authorities have not disclosed the exact location or cause of the crash.",
+      "published_at": "2026-05-07T16:41:05+00:00",
+      "image_url": "https://images.pexels.com/photos/4033852/pexels-photo-4033852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Israel killed a Hezbollah commander in a Beirut strike. Iran-US war latest: Israel kills Hezbollah commander in Beirut strike The Telegraph.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Indian sailors recount nights of missile attacks near Strait of Hormuz",
+      "url": "https://indianexpress.com/article/world/indian-sailors-stranded-iran-strait-of-hormuz-blockade-survival-stories-10678188/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-07T16:35:33+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/Iran-War-Strait-of-Hormuz-3.jpg",
+      "summary": "Indian sailors were attacked with missiles near the Strait of Hormuz. Indian sailors recount nights of missile attacks near Strait of Hormuz.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
+      "url": "https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-07T16:30:51+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/07/multimedia/07int-brazil-lula-trump-hzgt/07int-brazil-lula-trump-hzgt-mediumSquareAt3X.jpg",
+      "summary": "President Trump will meet Brazil's President Lula at the White House. President Trump and President Luiz Inácio Lula da Silva, who have had a rocky relationship, will meet on Thursday for talks on security, trade and critical minerals.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US pushing Israeli de-escalation ahead of new talks: Lebanese official",
+      "url": "https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-07T16:26:18+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-07T073306Z_1107362327_RC274LAWW3ZC_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1778156185.jpg?resize=1920%2C1440",
+      "summary": "The US is pushing Israel to de-escalate ahead of talks in Washington. Talks between Lebanese and Israeli delegations to be held in Washington, DC, next week, the official tells Al Jazeera.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Lebanon Latest Israeli strikes Beirut despite ‘ceasefire’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/lebanon-latest-israeli-strikes-beirut-despite?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-07T16:22:40+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778170941.jpg?resize=1920%2C1080&quality=80",
+      "summary": "Israel carried out an airstrike on Beirut's southern suburbs, despite a US-brokered ceasefire in place since April 16. The strike marks a new escalation in tensions. Israel has carried out its first airstrike on Beirut’s southern suburbs since the April 16 US-brokered ceasefire.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Rubio visits Vatican amid escalating tensions between Trump and Pope Leo",
+      "url": "https://www.npr.org/2026/05/07/g-s1-120813/rubio-visits-vatican-amid-escalating-tensions-between-trump-and-pope-leo",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-05-07T16:18:21+00:00",
+      "image_url": "https://images.pexels.com/photos/2235213/pexels-photo-2235213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "US Secretary of State Marco Rubio visited Rome to preserve the relationship between Washington and the Holy See amid escalating tensions between Trump and Pope Francis. Secretary of State Marco Rubio traveled to Rome in an effort to preserve a crucial relationship between Washington and the Holy See.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Jittery Milan host Atalanta with top-four spot under threat",
-      "url": "https://www.channelnewsasia.com/sport/jittery-milan-host-atalanta-top-four-spot-under-threat-6107436",
-      "source": "Channel News Asia",
+      "title": "Iran reviewing U.S. proposal as Trump pressures Tehran for agreement on deal to end war",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-donald-trump-iran-peace-deal-ceasefire-talks-strait-of-hormuz-issue-may-7-2026/article70949440.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-07T14:02:05+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--KGYXzGw_--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-07T140655Z_1_LYNXMPEM4612Q_RTROPTP_3_SOCCER-CHAMPIONS-MIL-NEW-REPORT.JPG?itok=IzkQFBC7",
-      "summary": "AC Milan hosts Atalanta with their top-four spot in the Serie A standings under threat. The match is crucial for Milan's position. A win would help secure their spot. Jittery Milan host Atalanta with top-four spot under threat.",
-      "region": "World",
+      "published_at": "2026-05-07T16:13:40+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/aiwq8e/article70949901.ece/alternates/LANDSCAPE_1200/2026-05-06T082445Z_1588296201_RC2TUIA1ON3A_RTRMADP_3_IRAN-CRISIS-SOUTHKOREA.JPG",
+      "summary": "Iran is reviewing a US proposal for a deal to end the war as Trump pressures Tehran for an agreement. Tehran denies allegations its forces were behind a blast on a Panama-flagged ship.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Australian Women and Children Linked to ISIS Fighters Return Home",
-      "url": "https://www.nytimes.com/2026/05/07/world/asia/australia-isis-women-children-syria.html",
-      "source": "NYT World",
+      "title": "Myanmar junta claims recapture of trade artery towards China",
+      "url": "https://www.thehindu.com/news/international/myanmar-junta-claims-recapture-of-trade-artery-towards-china/article70952338.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-07T13:54:05+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/07/multimedia/07int-oz-syria-pwqk/07int-oz-syria-pwqk-mediumSquareAt3X.jpg",
-      "summary": "Four Australian women and nine children linked to ISIS fighters returned home from detention camps in northeast Syria after a year-long controversy over their fate. The group's arrival marks the end of a long-standing debate over their repatriation.",
+      "published_at": "2026-05-07T16:13:29+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/g9ge2r/article70952373.ece/alternates/LANDSCAPE_1200/AFP_A4H62HP.jpg",
+      "summary": "Myanmar's military claims to have recaptured a trade artery to China, crushing \"terrorist insurgent groups\" along the route. The route links Mandalay to Myitkyina, near China's border.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-07T16:00:05+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5f/live/de8d56e0-4a06-11f1-9595-b54f38a93bc1.jpg",
+      "summary": "Russia's Victory Day parade in Moscow will feature soldiers but no military hardware, a first in nearly two decades. The absence of tanks is seen as a sign that the Ukraine war is not going as planned.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran’s President Pezeshkian seeks to quash divided leadership narrative",
+      "url": "https://www.aljazeera.com/news/2026/5/7/irans-president-pezeshkian-seeks-to-quash-divided-leadership-narrative?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-07T15:58:28+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-02T075710Z_692949232_RC27WJA20RG2_RTRMADP_3_IRAN-CRISIS-KHAMENEI-1773318386.jpg?resize=1200%2C630",
+      "summary": "Iran's President Pezeshkian has emphasized solidarity among top officials, countering a narrative of divided leadership. This comes as Washington pressures Iran over disputes in the Strait of Hormuz. Tehran emphasises solidarity among top officials as Washington pressures Iran during Strait of Hormuz disputes.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. Awaits Iran’s Response to Latest Peace-Talks Proposal",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0UDIzR2pMTTA1R1BpVmU1Z01nOWhlV0gtR1FwelV6WmxvYUlWR2NzY3IwZkNyT3ptcHJaRGRUSjdObmh4SWlsN0laZGdzOGs1a1gtTnV5SnRfTmhudzFGVFR1TmR4d2VF?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-07T15:51:00+00:00",
+      "image_url": "https://images.pexels.com/photos/208686/pexels-photo-208686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US is awaiting Iran's response to a latest peace-talks proposal. The development is part of ongoing diplomatic efforts to address tensions between the two nations. No details on Iran's stance have been released yet.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How CNN founder changed television news and kids’ entertainment in India",
+      "url": "https://indianexpress.com/article/world/us-news/ted-turner-cnn-founder-dead-impact-on-cartoon-network-india-gulf-war-coverage-10677813/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-07T15:46:15+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/IE-Image-2026-05-06T200223.049.jpg.jpeg",
+      "summary": "CNN founder Ted Turner's influence on Indian television and children's entertainment is being remembered. His network's entry into the Indian market helped shape the country's media landscape. How CNN founder changed television news and kids’ entertainment in India.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran ceasefire or fresh bombing? Inside the Trump administration’s contradictory signals",
+      "url": "https://indianexpress.com/article/world/us-news/us-iran-ceasefire-strait-of-hormuz-trump-project-freedom-pause-10677642/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-07T14:14:17+00:00",
+      "image_url": "https://images.indianexpress.com/2025/06/trump-strike-iran.jpg",
+      "summary": "The Trump administration sent mixed signals on Iran, suggesting both a ceasefire and fresh bombing. The conflicting messages have left Iran's situation uncertain. Iran ceasefire or fresh bombing? Inside the Trump administration’s contradictory signals.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US-Israel war on Iran leaves Jordan’s Petra nearly empty of tourists",
+      "url": "https://www.aljazeera.com/gallery/2026/5/7/us-israel-war-on-iran-leaves-jordans-petra-nearly-empty-of-tourists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-07T13:57:55+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260506__A9B78NQ__v1__HighRes__JordanIranUsIsraelWarTourism-1778142390.jpg?resize=1920%2C1440",
+      "summary": "The US-Israel war on Iran has severely impacted tourism in Jordan, leaving Petra nearly empty of tourists. This has resulted in significant losses for Jordanians who rely on tourism for income.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -48,45 +192,9 @@
       "url": "https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html",
       "source": "NYT World",
       "sources": [],
-      "published_at": "2026-05-07T13:48:16+00:00",
+      "published_at": "2026-05-07T13:48:17+00:00",
       "image_url": "https://static01.nyt.com/images/2026/05/07/multimedia/07int-uk-elections-preview-whcp/07int-uk-elections-preview-whcp-mediumSquareAt3X.jpg",
       "summary": "Prime Minister Keir Starmer's Labour Party faces predicted historic losses in local elections due to gains by Reform U. K. The results may signal a shift towards multiparty politics in the UK.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S. Awaits Iran’s Response to Latest Peace-Talks Proposal",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0UDIzR2pMTTA1R1BpVmU1Z01nOWhlV0gtR1FwelV6WmxvYUlWR2NzY3IwZkNyT3ptcHJaRGRUSjdObmh4SWlsN0laZGdzOGs1a1gtTnV5SnRfTmhudzFGVFR1TmR4d2VF?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-05-07T13:42:00+00:00",
-      "image_url": "https://images.pexels.com/photos/208686/pexels-photo-208686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The US is awaiting Iran's response to a latest peace-talks proposal. The development is part of ongoing diplomatic efforts to address tensions between the two nations. No details on Iran's stance have been released yet.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "PSG’s Champions League win marred by night of violence and riots in Paris",
-      "url": "https://www.aljazeera.com/sports/2026/5/7/psgs-champions-league-win-marred-by-night-of-violence-and-riots-in-paris?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-07T13:36:29+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-06T231645Z_2136482428_UP1EM561R0OL8_RTRMADP_3_SOCCER-CHAMPIONS-FCB-PSG-1778159504.jpg?resize=1920%2C1440",
-      "summary": "Paris Saint-Germain's 6-5 Champions League semifinal win over Bayern Munich was marred by violence and riots in Paris. The incident occurred after the match. Domestic trouble erupted in the city.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Police report 3 dead in shooting in Linz, say no further danger to public",
-      "url": "https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-07T13:32:00+00:00",
-      "image_url": "https://static.dw.com/image/77082358_6.jpg",
-      "summary": "Three people died in a shooting in Linz, Austria, according to police. The gunfire was reported in the north of the city. Police stated there was no ongoing threat to the public.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -104,194 +212,86 @@
       "translations": {}
     },
     {
-      "title": "Chad declares national mourning after deadly Boko Haram ambush",
-      "url": "https://www.aljazeera.com/news/2026/5/7/chad-declares-national-mourning-after-deadly-boko-haram-ambush?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Over 200 structures destroyed and a Navy HQ forced to flee",
+      "url": "https://indianexpress.com/article/world/investigation-us-iran-war-damage-5th-fleet-relocation-operation-epic-fury-10677838/",
+      "source": "Indian Express World",
       "sources": [],
-      "published_at": "2026-05-07T13:21:09+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20251201__86P84R4__v1__HighRes__ChadNigeriaCameroonArmyJihadismConflict-1777992690.jpg?resize=1920%2C1440",
-      "summary": "Chad has declared national mourning after a Boko Haram ambush near Lake Chad killed two generals. The attack follows a recent Boko Haram assault in the same region that left dozens dead.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russia To Enter New Conflict After Ukraine, Iran? NATO Nation Threatened",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOXlMY2pBQW85cGU2SjhPbUN6QTRSWC0wUEhhWDgxSWNnd2lSUVA1bHJlSWxYbzNmWG9JeGoyY094S21aZmEtRlhvbkFHaEJwOVJnOFBHdENlSGctRXJFaTZ6enpPVmpNdUJ4TFJGdzBQMGZZbmt3bXZSV1RxUlI5U3dEOWtxZEtkSTlKSjd4X0NhTF82LWJ3YWlKcmN4WVIzbnE3eHFGUEZKbWMyOWRNbFFwcmNiTkJ4TlV2amw0MC16c2EzYXJLUVZuRndVWV9HQzNudUdzd0VuSDVRQVROaVc4ODVUNjhtUlk1YkZDRWVRcmx6Yzd1RHNLLThoWURH0gGGAkFVX3lxTFByYTV2UmVUZWJnVDJqOGwwQUV4QlA3M3UtWWZENkl6eEliLVczWGhyd0hZbEpsTk1SWlJYSWhyc19ITTJTdmtGRlhxMzBmd3NvbnY2UkVtU1lOLU1TblhEMzZsME1wQ1JtUi11TmhBNjV2TUpaV2VwTWVOUWprVkduWjNTVzNtbWVuczJoa2pEaUU5d29PUzhzZlg3SGdKMFhEY19Nd3ZjbDZQV3ZON2JHSWZGQzREQ3F5WXFocEVIbDFuRmhrdzR2Z3RxVWF2R0U1SFNIWlN4a0J0dHdnemlGa3M0VFFqeER1R0F6bmhJQW1sT2ZsSGtiQjg5RlJtYWJkb3ZGS3c?oc=5",
-      "source": "Google News (NATO conflict)",
-      "sources": [],
-      "published_at": "2026-05-07T13:20:25+00:00",
-      "image_url": "https://images.pexels.com/photos/11302461/pexels-photo-11302461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Russia has threatened to enter a new conflict after Ukraine and Iran, warning it will not spare any NATO nation. The statement comes amid rising tensions in the region. ‘Won’t Spare Even One’: Russia To Enter New Conflict After Ukraine, Iran?",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Somali pirates abandon hijacked UAE dhow due to dwindling supplies",
-      "url": "https://www.aljazeera.com/news/2026/5/7/somali-pirates-abandon-hijacked-uae-dhow-due-to-dwindling-supplies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-07T13:16:42+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_69f61d8bcb23e-1777737099.jpg?resize=1920%2C1440",
-      "summary": "Somali pirates have abandoned a hijacked UAE dhow due to dwindling supplies. The Fahad-4, used as a mothership to attack other ships, was left adrift in the Indian Ocean. The lemon-laden Fahad-4, hijacked in late April, was used as a mothership to attack other ships.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Al-Qaeda-linked fighters in Mali set fire to food trucks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/al-qaeda-linked-fighters-in-mali-set-fire-to-food-trucks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-07T13:10:35+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778159253.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Al-Qaeda-linked fighters in Mali have set fire to food trucks as they continue to blockade roads around the capital Bamako. The blockade has disrupted food supplies in the city. Al-Qaeda-linked fighters have set fire to food trucks as they continue to blockade roads around the capital Bamako, cutt.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ivory Coast dissolves electoral body amid criticism",
-      "url": "https://www.aljazeera.com/news/2026/5/7/ivory-coast-dissolves-electoral-body-amid-criticism?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-07T13:09:35+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-19T163935Z_395551006_RC20FHA451TG_RTRMADP_3_IVORYCOAST-ELECTION-1761231268.jpg?resize=1920%2C1440",
-      "summary": "Ivory Coast has dissolved its electoral body amid criticism of its lack of independence. A new agency will oversee elections, but its name has yet to be announced. New agency yet to be named to oversee elections after disbanded commission accused of not being independent.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Amid Middle East conflict, ASEAN countries eye more coordinated response to future crises",
-      "url": "https://www.channelnewsasia.com/asia/asean-summit-iran-war-energy-crisis-economic-foreign-ministers-6106991",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-07T13:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--g1jjR74b--/c_crop,h_899,w_1599,x_1,y_111/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/07/dsc_1042.jpg?itok=az0BW5bu",
-      "summary": "ASEAN plans to launch a contingency plan for future crises, including emergency fuel sharing and upholding freedom of navigation. The move comes as the region monitors the Middle East conflict.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Parliament passes Bill to allow companies to dual list on SGX, Nasdaq at the same time",
-      "url": "https://www.channelnewsasia.com/singapore/sgx-nasdaq-dual-listing-markets-parliament-6107096",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-07T12:54:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--jXyaXhEo--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/11/19/sgx-nasdaq.png?itok=zGnY-0nm",
-      "summary": "Singapore's Parliament passed a Bill allowing companies to dual list on the SGX and Nasdaq. Members raised concerns about firms maintaining liquidity after listing on the Global Listing Board. Members of Parliament raised concerns on the ability for firms to maintain liquidity after listing on the Global Listing Board.",
+      "published_at": "2026-05-07T13:24:20+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/Lebanon-war-22.jpg.jpeg",
+      "summary": "Over 200 structures were destroyed and a Navy headquarters was forced to evacuate due to a recent attack. The extent of the damage and the identity of those responsible remain unclear.",
       "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Bangladesh seeks China’s support in Teesta river restoration project",
-      "url": "https://indianexpress.com/article/world/bangladesh-seeks-chinas-support-10677747/",
-      "source": "Indian Express World",
+      "title": "Why is the US seeking UN help to open Hormuz after undermining it?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnNmeWVfRWhKakJkeEowWDFoc1BCci1ManJMWkYtbVZoVHphV2xNaXd0NFVNNk5tZVlRZ25LVWNxTl9INXVYOVlRYkhGTDc3X1N3X2tRRWFWVDBzSmlJTGgzZkg0a09iR3ZuQmxDbFMtODV2VTJBUmhkUzhHX1Mya3dNT3R1aXh2Xy1vQkJUU3JhNGVmX09YclJIeTFTSzTSAaQBQVVfeXFMTzg4OTlOWGI4bWtkdjBNTUE2cDRrSmt1LUtIZGlWQmZQdGFGQ1BVdjcxSEl0Yk5hZjBLbk5EeFlLeGlBR01DaUdsQXdtd0ZLMFpvMVpHSWs1dG5uWXdXWW9WeURXWnhqOW1rVWxTZ1RXc2VyN3FjbG5ScmJ2YXU0dndsNUtKcUVfM0pPbFB3T1hQMkMxX2NTNFQtV0d0M1hUOHhHdk0?oc=5",
+      "source": "Google News (United Nations)",
       "sources": [],
-      "published_at": "2026-05-07T12:39:38+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/wang.jpg",
-      "summary": "Bangladesh seeks China's support for the Teesta river restoration project. Details of the proposed project and China's response are not specified. Bangladesh seeks China’s support in Teesta river restoration project.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-07T13:15:40+00:00",
+      "image_url": "https://images.pexels.com/photos/21939167/pexels-photo-21939167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US has sought UN help to ensure the free flow of shipping through the Strait of Hormuz. This move comes after the US undermined the Iranian nuclear deal and imposed sanctions on Tehran, which has led to increased tensions in the region.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "China announces suspended death sentences for former defence ministers",
-      "url": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-07T12:24:55+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92e4/live/bd58af30-49ff-11f1-a9e7-0f8f590f205b.jpg",
-      "summary": "China announced suspended death sentences for former defence ministers. The move follows the recent ousting of several top officials in China's military. The announcement follows recent ousting of several top officials in China's military.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
-      "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-07T12:23:45+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba4f/live/c30e7860-0c92-11f1-ab92-c5c4ffbfd0e0.jpg",
-      "summary": "Three women linked to the Islamic State were arrested in Australia after returning from Syria. They allegedly supported IS and were detained upon their first return to Australia in years.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Two Singapore Residents Isolated, Awaiting Hantavirus Test Results",
-      "url": "https://www.ndtv.com/health/two-singapore-residents-isolated-awaiting-hantavirus-test-results-11462468#publisher=newsstand",
+      "title": "EU Firms Generate 186 Billion Euros In India, Support 6 Million Jobs: Report",
+      "url": "https://www.ndtv.com/world-news/eu-firms-generate-186-billion-euros-in-india-support-6-million-jobs-report-11462829#publisher=newsstand",
       "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-05-07T12:23:43+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/dq2od3l8_hantavirus-singapore_625x300_07_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Two Singapore residents isolated with suspected hantavirus after being on a cruise ship with confirmed cases. They are awaiting test results for the rare respiratory disease at a Singapore facility.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russia says Ukraine launched a major drone attack after Moscow shunned ceasefire offer",
-      "url": "https://www.thehindu.com/news/international/russia-says-ukraine-launched-a-major-drone-attack-after-moscow-shunned-ceasefire-offer/article70951036.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-07T12:09:38+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/e13r6f/article70951105.ece/alternates/LANDSCAPE_1200/2026-05-07T091632Z_2077735342_RC274LAR3LN4_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV.JPG",
-      "summary": "Russia claims Ukraine launched a major drone attack after Moscow rejected a ceasefire offer. The incident increases tension as Russia's Victory Day celebrations near. Tension has grown as Russia's Victory Day celebrations approach and U. S.-led peace efforts gain no traction.",
+      "published_at": "2026-05-07T12:56:24+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/8kea0e4g_india-eu_625x300_07_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "EU firms have generated 186 billion euros in revenue in India and support 6 million jobs. The EU's relationship with India goes beyond commerce, according to EU Ambassador to India Herve Delphin.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Iran denies ship attack as Trump warns of renewed bombing, eyes deal",
-      "url": "https://www.thehindu.com/news/international/iran-denies-ship-attack-as-trump-warns-of-renewed-bombing-eyes-deal/article70949962.ece",
-      "source": "The Hindu (International)",
+      "title": "CFOs are worried about geopolitics and inflation. But they’re still chasing growth",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmxRQmc5VmkyTV9XUHZjR3dVY2ZHQWx6bVlvclMtWDY1cGhpUC1YakRhMmluS3ZJS2hrbUs2cDVBYU1nX2RfTndDWUI5X0Y1MTBXaFZXSUpHZ09zOU83c0lQOGI1VnZaMkxKNXlkMS1XNnBiRUR3SHZjVU01YW1aZGd4MWo2eDY2bjI3WlBUaw?oc=5",
+      "source": "Google News (geopolitics)",
       "sources": [],
-      "published_at": "2026-05-07T11:25:59+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/q9vwyi/article70950086.ece/alternates/LANDSCAPE_1200/Trump_75965.jpg",
-      "summary": "Iran denies involvement in the attack on the Panama-flagged HMM Namu, which caught fire on May 4. The denial comes as US President Trump warns of renewed bombing and seeks a deal with Tehran.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-07T12:40:00+00:00",
+      "image_url": "https://images.pexels.com/photos/335393/pexels-photo-335393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Chief Financial Officers are concerned about geopolitics and inflation but remain focused on growth. They are navigating these challenges while prioritizing expansion, according to a report by Fortune. CFOs are worried about geopolitics and inflation.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "पश्चिम बंगाल के राज्यपाल ने विधानसभा को किया भंग, ममता ने अब तक नहीं दिया है इस्तीफ़ा",
-      "url": "https://www.bbc.com/hindi/articles/clyp2z772q7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "ईरान ने होर्मुज पर अमेरिका के संयुक्त प्रस्ताव की आलोचना की",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjlmR0lubmQybnMxYnBJZnJCSXdyVUg0alZwV3N4bzY3RlBaUlFCQXZraVZRc3ZWTWFISHBRY1JmaHpXRzAwdnFUSHZIQ1prQUgzRTBpQlpNU2ctaXFWSnF2ck51X1dhM3diQng3aHR6ZENLVnh0cWc1enlETGhFRXhKVjM5OGlqSHRIeWRRWDJyNURWODY5Uks1QkhjU09Lb2o3Q1AyamZEU3ZHc2lOMF9mRFlHM0pjUGYtSUpLdGNlVDjSAcgBQVVfeXFMTmJ6RHBnaXJRWHc2NDFhUF9ReGxCQTVKVDl5bVU1cFdmNTVHUi0zWkRrakI4d2pwTk9KNmlzT1JjN0VPcl90VlNTeFA4Z2VSTmJuUU9jNVhQSWlOdXZpRW1feWVVb0F2dDRlTUR5RHdqOHNjdkNScmJnUzBHSXVEWS1oclZDOVpLWjNLMGFhckpiQ005M3BfeHVRRjhOSm8xbGNrMEo3V3pCeS1zd2pNR0x6MVpYM1d5alV1eGctc1Jmbk9BbzFaWmY?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-07T14:12:15+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/591b/live/78ffa450-4a1e-11f1-a7ce-b934bcb15ff4.jpg",
-      "summary": "पश्चिम बंगाल के राज्यपाल ने विधानसभा को भंग कर दिया है. ममता बनर्जी ने चुनाव हारने के बाद भी इस्तीफ़ा नहीं दिया है. बीजेपी शपथ की तैयारी कर रही है.",
-      "region": "World",
+      "published_at": "2026-05-07T15:35:46+00:00",
+      "image_url": "https://images.pexels.com/photos/16033963/pexels-photo-16033963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान ने अमेरिका के संयुक्त प्रस्ताव की आलोचना की, जिसे होर्मुज पर रखा गया था. ईरान की ओर से कोई आधिकारिक बयान नहीं आया है. ईरान पैकेज:ईरान ने होर्मुज पर अमेरिका के संयुक्त प्रस्ताव की आलोचना की Live Hindustan।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पश्चिम बंगाल के राज्यपाल ने विधानसभा को किया भंग, ममता ने अब तक नहीं दिया है इस्तीफ़ा",
-          "summary": "पश्चिम बंगाल के राज्यपाल ने विधानसभा को भंग कर दिया है. ममता बनर्जी ने चुनाव हारने के बाद भी इस्तीफ़ा नहीं दिया है. बीजेपी शपथ की तैयारी कर रही है.",
-          "region": "दुनिया"
+          "title": "ईरान ने होर्मुज पर अमेरिका के संयुक्त प्रस्ताव की आलोचना की",
+          "summary": "ईरान ने अमेरिका के संयुक्त प्रस्ताव की आलोचना की, जिसे होर्मुज पर रखा गया था. ईरान की ओर से कोई आधिकारिक बयान नहीं आया है. ईरान पैकेज:ईरान ने होर्मुज पर अमेरिका के संयुक्त प्रस्ताव की आलोचना की Live Hindustan।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "दूसरे देशों में क्यों तैनात रहती है अमेरिकी सेना, जानें वहां किसकी करती है रक्षा",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNalRxTWcxQUc2RkdZbld3T3VqaXBYNXNkQkdyMnhCY2VCQUFTTmtYZWxHLXhjenluTjVxOF9OSXR5TEZfVGk5dy03S0pYMXh2X3k5ai1Eb05oeFZFcXN6azlrTmdHVHBua0thcjhFM2t4LWhPVlBOWFB5QXIwcnFtVGVWREtrcnhvWU5hZ3BDc0wxU1dhLWNrcUdUeDFGQ3ZKMC12QmRNRGVFanR4RG9sbEFkdDA5dllXbEFIV2lYQzRsWjR2djlfNmVpYm_SAcwBQVVfeXFMTWpUcU1nMUFHNkZHWW5Xd091amlwWDVzZEJHcjJ4QmNlQkFBU05rWGVsRy14Y3p5bk41cThfTkl0eUxGX1RpOXctN0tKWDF4dl95OWotRG9OaHhWRXFzems5a05nR1RwbmtLYXI4RTNreC1oT1ZQTlhQeUFyMHJxbVRlVkRLa3J4b1lOYWdwQ3NMMVNXYS1ja3FHVHgxRkN2SjAtdkJkTURlRWp0eERvbGxBZHQwOXZZV2xBSFdpWEM0bFo0dnY5XzZlaWJv?oc=5",
-      "source": "Google News Hindi (भूराजनीति)",
+      "title": "आतंक के खिलाफ निर्णायक प्रहार",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXpOT29LcVhwNWp5SGhWVkhXTGY0YTNxQlpMZzZqLWkwbTI4bFY0LU00b3RGb28zRnk2bGdaX0JVOGVUZVNHVjViVHMwblUzT2twb1RkY0NEakRuTkFISmVCNHY2b19ISzdUVnhrU1A4WlFHYnVIUjhjY2RVVEJTUThDQ3M0Rnh0SGR0SWpSTU1DY1MxWDNyN1REdzBmMm1MWnpkcU1uT3pyclYzS1lSaA?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
-      "published_at": "2026-05-07T12:23:50+00:00",
-      "image_url": "https://images.pexels.com/photos/4308175/pexels-photo-4308175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी सेना दुनिया भर में तैनात है. यह सेना विभिन्न देशों की रक्षा के लिए जिम्मेदार है. अमेरिका की सेना कई देशों में मौजूद है. US Military: दूसरे देशों में क्यों तैनात रहती है अमेरिकी सेना, जानें वहां किसकी करती है रक्षा ABP News।",
-      "region": "Americas",
+      "published_at": "2026-05-07T15:28:00+00:00",
+      "image_url": "https://images.pexels.com/photos/5548249/pexels-photo-5548249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "कोई विशिष्ट घटना या बयान नहीं दिया गया है. विचार: आतंक के खिलाफ निर्णायक प्रहार Jagran।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दूसरे देशों में क्यों तैनात रहती है अमेरिकी सेना, जानें वहां किसकी करती है रक्षा",
-          "summary": "अमेरिकी सेना दुनिया भर में तैनात है. यह सेना विभिन्न देशों की रक्षा के लिए जिम्मेदार है. अमेरिका की सेना कई देशों में मौजूद है. US Military: दूसरे देशों में क्यों तैनात रहती है अमेरिकी सेना, जानें वहां किसकी करती है रक्षा ABP News।",
-          "region": "अमेरिका"
+          "title": "आतंक के खिलाफ निर्णायक प्रहार",
+          "summary": "कोई विशिष्ट घटना या बयान नहीं दिया गया है. विचार: आतंक के खिलाफ निर्णायक प्रहार Jagran।",
+          "region": "दुनिया"
         }
       }
     },
@@ -314,20 +314,20 @@
       }
     },
     {
-      "title": "नीतीश के बेटे निशांत कुमार को मंत्री बनाने के पीछे जेडीयू की रणनीति क्या है?",
-      "url": "https://www.bbc.com/hindi/articles/c78k9jllgl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "समझौते के बेहद करीब पहुंचे अमेरिका और ईरान, जल्द हो सकता है एलान- रिपोर्ट",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTJaOUNHa3dCNWtscFlBcnNnN2RlRkRWcG5jUHprYTNsUHc1SXR3WVh0enVXU0VlRng2WkY4SW1xd045b0ZUdWU2X2NseTg3SzRQU2hOMTllaFpibFpDOURRZTlsczZVV3dEVGtHNU5hSExaeUN5a012TFJEekZVSXBNNFZpampiVFd0VDlQLWpMREVfZHFIZW1kLW5mUWdObC1uT24wQ2ZUbENYQ28xTEFVa3N0V1JtVGFVemZNVi3SAcYBQVVfeXFMUDhZUU9LUm02SnJiZHNVcXNTMFJXU3dTaFBGYkg3M2MtbTl0MHVRalpFZDM3QkVrNU0wckRuVWozTEhkN0tiaVd4TXVLcU1iOGd0U01fcmxlMHZaMXJBdTd1U1RsVjZtdkVJdjc1OTc2ekZKNnhQR042NXQ2ZFk3bVlWS1NwTFhtNnVwdTBBMVhNQ2ttM3N0d1IxR3Z3ekl1RGRmZXZHajdmbnRtazkzUVBnLVB4X18tZVhHVTN6dEVCMElsUkRR?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
-      "published_at": "2026-05-07T11:04:35+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b1d0/live/e68bfc00-4a0d-11f1-ac78-2112837ce2aa.jpg",
-      "summary": "जेडीयू ने निशांत कुमार, नीतीश के बेटे, को मंत्री बनाया है. उनकी छवि राजनीति में अनिच्छुक व्यक्ति की थी. अब उनके राजनीति में आने के मायने हैं. निशांत कुमार की छवि राजनीति में अनिच्छुक व्यक्ति की रही है.",
-      "region": "World",
+      "published_at": "2026-05-07T10:56:08+00:00",
+      "image_url": "https://images.pexels.com/photos/10892569/pexels-photo-10892569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिका और ईरान एक समझौते के करीब पहुंच गए हैं और जल्द ही इसका एलान हो सकता है. यह जानकारी एक रिपोर्ट में दी गई थी. Iran War: समझौते के बेहद करीब पहुंचे अमेरिका और ईरान, जल्द हो सकता है एलान- रिपोर्ट CNBC TV18।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "नीतीश के बेटे निशांत कुमार को मंत्री बनाने के पीछे जेडीयू की रणनीति क्या है?",
-          "summary": "जेडीयू ने निशांत कुमार, नीतीश के बेटे, को मंत्री बनाया है. उनकी छवि राजनीति में अनिच्छुक व्यक्ति की थी. अब उनके राजनीति में आने के मायने हैं. निशांत कुमार की छवि राजनीति में अनिच्छुक व्यक्ति की रही है.",
-          "region": "दुनिया"
+          "title": "समझौते के बेहद करीब पहुंचे अमेरिका और ईरान, जल्द हो सकता है एलान- रिपोर्ट",
+          "summary": "अमेरिका और ईरान एक समझौते के करीब पहुंच गए हैं और जल्द ही इसका एलान हो सकता है. यह जानकारी एक रिपोर्ट में दी गई थी. Iran War: समझौते के बेहद करीब पहुंचे अमेरिका और ईरान, जल्द हो सकता है एलान- रिपोर्ट CNBC TV18।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -381,42 +381,6 @@
         "hi": {
           "title": "'ईरान पर हम हर स्थिति के लिए तैयार', इस्राइली पीएम नेतन्याहू बोले- ट्रंप से रोज हो रही बात",
           "summary": "इस्राइली पीएम नेतन्याहू ने कहा कि ईरान पर हम हर स्थिति के लिए तैयार हैं। वह अमेरिकी राष्ट्रपति ट्रंप से रोज बात कर रहे हैं। 'ईरान पर हम हर स्थिति के लिए तैयार', इस्राइली पीएम नेतन्याहू बोले- ट्रंप से रोज हो रही बात।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "क्या खत्म होने वाली है मिडिल ईस्ट जंग? ईरान ने अमेरिकी प्रस्ताव पर दिए बड़े संकेत",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUptQWFMVzhOT0NtUUxWRnZNamVGRlVTeGswSnU3Qi04MmZkellBVFV4ZWJJNGp0dDJWX0hOd2RFcmo5YWdkaFpFOEptQ0U4RGdyampZQkc4MkdqVktFTlZPWEhGYWVoYmZoaU5HRXlOYnVYWnpWWDEtYWF3REFOOXRZaFUwWFFWMzRHMGNwWldlU0VYeW9qU3lkcGZPYUVrUl9UUlNvVGpwSXAwUmFYd3prLWpXaG1IemM1YUxIcXhLcFRZeW5qLWNwZm5QcjNMUmhuWkZRYUZFQ29w0gHiAUFVX3lxTFBYcjlFandLUXNhUDFMRERhUzMtaEZ1WC1Jc0tVTnN5Y0NyX3dLV3JQaFNwZ2pkOE8xSjhKTnU5UERQOEEyZkJVN1BKUFhnUDlWTHNWTlFfbmNKa0MyUU5CSFJQcGpha2YwOG5seGpUektYUWlQRG9UdGJYbEY2WGF4T0VyaF82aWVtR2ZPdjAzcTdlMUZHRTdJYjc2bldoVlUtckJrckpOS1RqeUU3WEZfcWg5cVRmZmV0YWk2REdhakFrOWdTRjlnLWJ6UGFJOWtITWx1UXAwQ3l0cjM2a01GWEE?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-07T01:54:48+00:00",
-      "image_url": "https://images.pexels.com/photos/7278771/pexels-photo-7278771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने अमेरिकी प्रस्ताव पर संकेत दिए हैं कि मिडिल ईस्ट जंग समाप्त हो सकती है. ईरान की ओर से यह एक महत्वपूर्ण बयान है. क्या खत्म होने वाली है मिडिल ईस्ट जंग?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या खत्म होने वाली है मिडिल ईस्ट जंग? ईरान ने अमेरिकी प्रस्ताव पर दिए बड़े संकेत",
-          "summary": "ईरान ने अमेरिकी प्रस्ताव पर संकेत दिए हैं कि मिडिल ईस्ट जंग समाप्त हो सकती है. ईरान की ओर से यह एक महत्वपूर्ण बयान है. क्या खत्म होने वाली है मिडिल ईस्ट जंग?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पश्चिम एशिया में जंग खत्म करने की तैयारी?: आगे बढ़ी ईरान-अमेरिका वार्ता, युद्धविराम पर जल्द बन सकती",
-      "url": "https://www.amarujala.com/world/preparing-to-end-the-war-in-west-asia-iran-us-talks-progress-2026-05-07",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-07T01:51:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/09/majatab-khamanaii-oura-danalda-tarapa_aab75345ebaccb51d6d382972cc8bd06.jpeg?w=750&dpr=1.0",
-      "summary": "ईरान और अमेरिका के बीच वार्ता में прогресс हुआ है और जल्द ही युद्धविराम पर सहमति बन सकती है. इससे पश्चिम एशिया में जंग खत्म होने की उम्मीद है. पश्चिम एशिया में जंग खत्म करने की तैयारी?: आगे बढ़ी ईरान-अमेरिका वार्ता, युद्धविराम पर जल्द बन सकती।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पश्चिम एशिया में जंग खत्म करने की तैयारी?: आगे बढ़ी ईरान-अमेरिका वार्ता, युद्धविराम पर जल्द बन सकती",
-          "summary": "ईरान और अमेरिका के बीच वार्ता में прогресс हुआ है और जल्द ही युद्धविराम पर सहमति बन सकती है. इससे पश्चिम एशिया में जंग खत्म होने की उम्मीद है. पश्चिम एशिया में जंग खत्म करने की तैयारी?: आगे बढ़ी ईरान-अमेरिका वार्ता, युद्धविराम पर जल्द बन सकती।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -476,55 +440,19 @@
       }
     },
     {
-      "title": "सीरिया कैंप से ऑस्ट्रेलिया लौटे ISIS संदिग्ध परिवार, महिलाएं-बच्चे समेत कुल 13 लोग; पुलिस सतर्क",
-      "url": "https://www.amarujala.com/world/flights-carrying-women-and-children-linked-to-isis-arrive-in-australia-from-syria-camp-2026-05-07",
-      "source": "Amar Ujala World",
+      "title": "भारत और वियतनाम ने अपने द्विपक्षीय संबंधों का दर्जा बढ़ाकर \"विस्तारित व्यापक रणनीतिक साझेदारी\" किया",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVlJla2JhT21qOTlZcGdNTXNpNVo4a0xOamhBM2xQWWJrUnI0WTJ3Y2FUUDQwQURYaXVOd0hqOFFVZHRfc2xVZzd4WGlPenQ4SVhDaUR3U3ZXVEQxUjdpV2luVVJhMmVpeUNjaHk3ei1TYTRpaTlMVlB1NWcxWVV4NjBHaTU3a0NHUkpaR2hyT0pOQkk2Z292Z1pIa3pDWkVsTl9tRnNFM3BCcUQ4alU2NmtDUWpMVW5GTHZmb05mVU5BSk5UdEdMYTkzb2JoanpPa2pxVDh2VG9GYWpYM2tqTzRGZmxCeFpDTHRXSGxBNEYzbUtvQWtreFM0NGtHUk9vMEpodnRhQzVVQ21YOU1ZcEpOb1pzNXBWZlBiUU1Iclh0aTZVWHRrNTdXWUloYlhRaUQzOGJsa1E?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
       "sources": [],
-      "published_at": "2026-05-06T21:57:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/20/flight_f7a6f8c14f0b5a376d4ae621af383835.jpeg?w=750&dpr=1.0",
-      "summary": "ऑस्ट्रेलिया में एक परिवार सीरिया से लौटा है, जिसमें 13 लोग हैं - महिलाएं और बच्चे भी शामिल हैं - जिन्हें ISIS से जुड़े होने का संदेह है। पुलिस ने सुरक्षा के लिए अतिरिक्त सतर्कता बरती है। यह परिवार ऑस्ट्रेलिया के लिए एक महत्वपूर्ण सुरक्षा चुनौती है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीरिया कैंप से ऑस्ट्रेलिया लौटे ISIS संदिग्ध परिवार, महिलाएं-बच्चे समेत कुल 13 लोग; पुलिस सतर्क",
-          "summary": "ऑस्ट्रेलिया में एक परिवार सीरिया से लौटा है, जिसमें 13 लोग हैं - महिलाएं और बच्चे भी शामिल हैं - जिन्हें ISIS से जुड़े होने का संदेह है। पुलिस ने सुरक्षा के लिए अतिरिक्त सतर्कता बरती है। यह परिवार ऑस्ट्रेलिया के लिए एक महत्वपूर्ण सुरक्षा चुनौती है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान युद्ध के बीच बदलते गठबंधनों से भारत की कूटनीति पर बढ़ा दबाव - बिजनेस स्टैंडर्ड",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSy1XTmxmODU2OGNzSVBCY2xQUzVwZVNoZmlCeS1kY2NrQ3JOZ1pOOUpHUG8wampIMnFCRG8ycEhlRzJhYlhJZDhQbkQtMWlYMm4zMkp5QlVVSmd3ZnI4d20tYmNVcEpBQWxSc0hzSDBJbVluZ3l0Nkxja3lnUnRPbmFiMVBUbkVZSS1XWVMyY3dIQWE2Nkg4OEhsdW90blAzZWlydWk4c1loakNxNmZVeThyWWxqdkR0VlI3T3huSkLSAcYBQVVfeXFMUGRxTWhWTndKV0FQb2lMYkJFbnAwN3dsNTNVeXNVR013dEVUTnN5d01lbkJUVDZHZ1BPOGtPQXJDb1JCMmM2TzBZdG5nMi1MQ3REa1FvZzdBUlBubDdzMTBpVGFmTktkWTNZY0FhOEoxN2Z0MVJWUkxuSG9NNU5xZ3JVSnJ1a2ZxaGVNdkJMSzNLSlpDZEV6eWJwYV9jc0xtaFY3V01OdGdyQkZvWFBvb2lnbERFRmIycGgxenNkSHhkd19vdU53?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-06T16:08:29+00:00",
-      "image_url": "https://images.pexels.com/photos/5147810/pexels-photo-5147810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान युद्ध के बीच बदलते गठबंधनों से भारत की कूटनीति पर दबाव बढ़ा है. भारत को अपनी विदेश नीति को संभालने के लिए चुनौतियों का सामना करना पड़ रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान युद्ध के बीच बदलते गठबंधनों से भारत की कूटनीति पर बढ़ा दबाव - बिजनेस स्टैंडर्ड",
-          "summary": "ईरान युद्ध के बीच बदलते गठबंधनों से भारत की कूटनीति पर दबाव बढ़ा है. भारत को अपनी विदेश नीति को संभालने के लिए चुनौतियों का सामना करना पड़ रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सिंदूर के बाद का भारत: हर मोड़ पर बढ़त",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjQwVU4zWXZ6YzBzRG5KV2FlWjhHenNkSWotSGNkdnNxNUVPLWQtWFlwd2U3emtCOUVWeHRGOWYySlNlX09KRDlJNElvdzl1TnhDVVVOTGt6cGg4bFN2ZDNITFA1cllkcVk0UjZDSkN6Y3ZLOEk4T3Y3VGNjVkI1dGJVSXZmdl9wNTM5VGx3?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-06T14:24:41+00:00",
-      "image_url": "https://images.pexels.com/photos/37079434/pexels-photo-37079434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत हर मोड़ पर बढ़त बना रहा है. यह बात एक विश्लेषण में कही गई है. सिंदूर के बाद भारत की स्थिति मजबूत हुई है. सिंदूर के बाद का भारत: हर मोड़ पर बढ़त orfonline. org।",
+      "published_at": "2026-05-06T18:30:00+00:00",
+      "image_url": "https://images.pexels.com/photos/19447589/pexels-photo-19447589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत और वियतनाम ने अपने द्विपक्षीय संबंधों का दर्जा बढ़ाकर \"विस्तारित व्यापक रणनीतिक साझेदारी\" कर दिया है. यह जानकारी सामने आई थी. भारत और वियतनाम ने अपने द्विपक्षीय संबंधों का दर्जा बढ़ाकर \"विस्तारित व्यापक रणनीतिक साझेदारी\" किया Vision IAS।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सिंदूर के बाद का भारत: हर मोड़ पर बढ़त",
-          "summary": "भारत हर मोड़ पर बढ़त बना रहा है. यह बात एक विश्लेषण में कही गई है. सिंदूर के बाद भारत की स्थिति मजबूत हुई है. सिंदूर के बाद का भारत: हर मोड़ पर बढ़त orfonline. org।",
+          "title": "भारत और वियतनाम ने अपने द्विपक्षीय संबंधों का दर्जा बढ़ाकर \"विस्तारित व्यापक रणनीतिक साझेदारी\" किया",
+          "summary": "भारत और वियतनाम ने अपने द्विपक्षीय संबंधों का दर्जा बढ़ाकर \"विस्तारित व्यापक रणनीतिक साझेदारी\" कर दिया है. यह जानकारी सामने आई थी. भारत और वियतनाम ने अपने द्विपक्षीय संबंधों का दर्जा बढ़ाकर \"विस्तारित व्यापक रणनीतिक साझेदारी\" किया Vision IAS।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -625,7 +553,7 @@
       "source": "Google News Hindi (युद्ध संघर्ष)",
       "sources": [],
       "published_at": "2026-05-05T15:06:53+00:00",
-      "image_url": "https://images.pexels.com/photos/15976818/pexels-photo-15976818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_url": "https://images.pexels.com/photos/23224699/pexels-photo-23224699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "अमेरिकी प्रयास से ईरान और सऊदी अरब के बीच संघर्ष विराम खतरे में है। अमेरिका होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता सुनिश्चित करने के लिए एक नए पैकेज की घोषणा करने की तैयारी कर रहा है। इससे ईरान और सऊदी अरब के बीच तनाव बढ़ सकता है।",
       "region": "Middle East & Africa",
       "language": "hi",
@@ -633,6 +561,78 @@
         "hi": {
           "title": "होर्मुज खोलने के अमेरिकी प्रयास से संघर्ष विराम खतरे में",
           "summary": "अमेरिकी प्रयास से ईरान और सऊदी अरब के बीच संघर्ष विराम खतरे में है। अमेरिका होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता सुनिश्चित करने के लिए एक नए पैकेज की घोषणा करने की तैयारी कर रहा है। इससे ईरान और सऊदी अरब के बीच तनाव बढ़ सकता है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत UAE के साथ, भारतीय नागरिकों पर हमला अस्वीकार्य, कूटनीति और बातचीत से ही समाधान- होर्मुज संकट",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUDZYd0JQS2lRMFdZcXZKc0sxN0J5WGFBbGJYTUF6anZTNGU2OHN5UHFFVXdIU0F6QkFvUUdCYXVYWGk0eGNlZU92NGtITVVVNF95a2ZNYjk3djI0SU5yaG5GbXBBUlhwVkI0ckpEUUNNOTVURTc1UmNaQ09HMXZjYi1FemJSbW1Sem9Qb0ZETkh3ckdqQU4tZlItUWgwcXlUdDhUSlBjN1g5Y3BNQzlHcm1QVnE0OW45MWU5V2ZWaXllQ1BSazBlS0VHRkRhamMybkJwRkdNUDlVa1BXRnZ1RXhfNlBmSS00dXhHTzc0Um9LQdIB9wFBVV95cUxPeklxa1RBTjdJVGRRa3J1QWpzMTI4RXd3RDdtc3IyU3dZN0ozYnA2NkJSMXNNUEtTbDJJQ1YxVTFjR18teW9BVUNvRW1VUzRmVFVCeGlwTUZlSC1wbnJSb3ZwUUFzRVFpN25qaU9UdDJhbjFCNXl5ZGZ1MllGdUtoYnRXN3RvamZFZ2ZqZktOc2JORGgydU5mZHJyckJLUmdTX1R4MURjU3BBWmw0TU5yY0NJOEFVeEticnQyQUhYQ1UwcDl3aHEwdER0VTFGelpUSnZtOWxxeVpfMWhLejMtdklmVEZ4WEhUcDY2dFFMNFA1N1JJUHZz?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-05T06:46:43+00:00",
+      "image_url": "https://images.pexels.com/photos/29188670/pexels-photo-29188670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "पीएम मोदी ने कहा कि भारतीय नागरिकों पर हमला अस्वीकार्य है और होर्मुज संकट का समाधान कूटनीति और बातचीत से ही होगा. भारत UAE के साथ खड़ा है. भारत UAE के साथ, भारतीय नागरिकों पर हमला अस्वीकार्य, कूटनीति और बातचीत से ही समाधान- होर्मुज संकट पर पीएम मोदी Navbharat Times।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत UAE के साथ, भारतीय नागरिकों पर हमला अस्वीकार्य, कूटनीति और बातचीत से ही समाधान- होर्मुज संकट",
+          "summary": "पीएम मोदी ने कहा कि भारतीय नागरिकों पर हमला अस्वीकार्य है और होर्मुज संकट का समाधान कूटनीति और बातचीत से ही होगा. भारत UAE के साथ खड़ा है. भारत UAE के साथ, भारतीय नागरिकों पर हमला अस्वीकार्य, कूटनीति और बातचीत से ही समाधान- होर्मुज संकट पर पीएम मोदी Navbharat Times।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अगले संयुक्त राष्ट्र प्रमुख के लिए महिला उम्मीदवार का चीन ने किया समर्थन, चयन प्रक्रिया शुरू",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3NhUGtNVVlycm5rd09aLWxQaXpvemxFRnN4VmlDX0pXczZEUnltUmdjZ21UbmFNYUFNRVlINlktZ2dCeGJ4ZGlzYllDUnFGZXFCQUNKa3E2SXptMmRheGNOZElRbndNNF9XOUpKYlJBWUNvNU9iMmxTYkI2V0ppV3QweGlFdnNxV0tqbkM3NjUxYjVxUTdRX1NGRG8zamNyMG5IWDd4bHBaRHctTFF0dVN1dmxGTzNi0gG-AUFVX3lxTE95eHVZSGhUUWZ0VzJlTGlmdlc5WjhpMWpsREJudWI1YkZuaE81V1VTWWd2YURrSzlvUEtIcFl5Y0szaTFBdGo4WllRQkMxeUlCbXM2YnhfN2tqRDlVSkZoV2Nwam1fRzlpSXRLVTZkVFBtUFh1X3RNSlp3a0hDUFJwa3ZZTEYwUG9KUFlxcHpXXzZrQjZPVVkyUV9LanRieUkwZ0lMa3oxOFlsRXdyTmVTNnd3RGNqWGxxNGFpSEE?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-05T04:56:34+00:00",
+      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "चीन ने संयुक्त राष्ट्र प्रमुख के लिए एक महिला उम्मीदवार का समर्थन किया है। चयन प्रक्रिया शुरू हो गई है। यह जानकारी संयुक्त राष्ट्र से जुड़े एक समाचार में दी गई है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अगले संयुक्त राष्ट्र प्रमुख के लिए महिला उम्मीदवार का चीन ने किया समर्थन, चयन प्रक्रिया शुरू",
+          "summary": "चीन ने संयुक्त राष्ट्र प्रमुख के लिए एक महिला उम्मीदवार का समर्थन किया है। चयन प्रक्रिया शुरू हो गई है। यह जानकारी संयुक्त राष्ट्र से जुड़े एक समाचार में दी गई है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "गेंद अमेरिका के पाले में है कि वह कूटनीति या टकराव का रास्ता चुने\"",
+      "url": "https://news.google.com/rss/articles/CBMizwZBVV95cUxOTGFidmtmbjVTbk5sVWxRV3g4MFRFdTJPT2NmWVZDYW5QVnlsN3ZyUDNXY1B1bTVEQnBwSk55bnhNcUFkbHBPSFlad25wMnd3MnNWUXJmNjlza3RvRmNOLVJnakpTUjdNUUE2MlZRVTV1SWVVQ2lpanFRWlBEa0NCMXRMeGcxZVp1VmZxRzJVeGxVQ1ZZX0JCN2o2TUdLOWFkTFloTUZ1YVhXWHh3NE9Gc0xkR09pOG1pb1ZhSnFIMmNVNVByUWJyRW1PMk9YRGJUT1ZPUnFyazB3T2ZrOUg3UVI3SW9VcVNDSWNUVDdCajkwNzFRNGFIbUM1UEx2ZnBBVmhJQ09LOXBjSFQ1RG50dUsxblI3YzdOZi0tdFM0SHVCOWRnRVl6X3ctRzVqbklCZ1QxUFFZZ2o4YXkzSFN6TVBfbmFhX3JxM0d0TW9tWHpMeUk2Z1F6RjgwVzNWSGpzUlIwR0oyR1NnVDBlcFVnR0s0TTVpNVo2ZDFUeHBxRHlZVS00anV3NUI4VFp1YmdaV0E5eldFQ1llMTIxRVh1Ml9Wa19OVi1VRkRyRHBQclhyelhTUU13ZWkzLWNYSnpOd0hQenoydV94M2gzZVF0MEl5blpUVVRQbG80NGc1MHZIcjRUVjd4Y2ZNTkJTZmptN2R1R1RadU9ZdEFhOS1yaWlVb1Y0bDQybFJxWnRNSHVuZkEyMGZoOXVuYTMwSncwMjA1VDc2S0VuSWVSMmlJeTVIaE9FOUxJMFFvQWkxNG5UU0NUU0VOeFI4OEdDZVdiQmF0WjNLTTA5NU84dlQxYjU2WmpsNGZLYk9HX3RhQkRoVUNRTnBYZXd3TlBhS1RUbVptSlVwMjVOTzAxdjBMN0g1SWxESXVuLU8zeWFkc0tNT0xqR0F0cEtZQUE0Rlk0LTFkUUtSSXNoUnVxbElqLWk5cDJIRV8tdm1YX2RxN3ViTTROREpaNHlka0FoU0dtQ29zNzhHYXhwTVl6Y2liMTFWeGo1TlBKUDRsYmNRZjJodW84bDZLTk5oNFlyMGVuRTFRNk5vYUdYb0RxaHBZY1JkeXZYYW9rdlYtNzAxUExYbFdVRmNoNG1YbkZXUTVKM3lrWHFmckFaR2dYYVFV?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-04T12:46:00+00:00",
+      "image_url": "https://images.pexels.com/photos/30401506/pexels-photo-30401506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान के एक अधिकारी ने कहा कि अब अमेरिका की बारी है कि वह कूटनीति या टकराव का रास्ता चुने। यह बयान ईरान और अमेरिका के बीच बढ़ते तनाव के बीच आया है।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गेंद अमेरिका के पाले में है कि वह कूटनीति या टकराव का रास्ता चुने\"",
+          "summary": "ईरान के एक अधिकारी ने कहा कि अब अमेरिका की बारी है कि वह कूटनीति या टकराव का रास्ता चुने। यह बयान ईरान और अमेरिका के बीच बढ़ते तनाव के बीच आया है।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ईरान-अमेरिका तनाव: चीन क्या सोच रहा है?",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Uc0xtdDB6UE1lTkgxOEEyeGlBWHJrU2R5TGwtNm5OWWM2Yms2WExkYUwzckQ3enVTUXBMZHdUWGlLMGNpRmROYnduQ0xKVzNmbXJWc1J6MUFvb1VzdlZVZ0s0WklQMWhYQ1JXOWVNQ2kyZm9uZ3BKU1lQdlQ?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-05-04T10:40:52+00:00",
+      "image_url": "https://images.pexels.com/photos/17415373/pexels-photo-17415373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "चीन की स्थिति ईरान-अमेरिका तनाव पर स्पष्ट नहीं है। यह एक विश्लेषण में बताया गया है कि चीन इस मुद्दे पर क्या सोच रहा है। ईरान-अमेरिका तनाव: चीन क्या सोच रहा है?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान-अमेरिका तनाव: चीन क्या सोच रहा है?",
+          "summary": "चीन की स्थिति ईरान-अमेरिका तनाव पर स्पष्ट नहीं है। यह एक विश्लेषण में बताया गया है कि चीन इस मुद्दे पर क्या सोच रहा है। ईरान-अमेरिका तनाव: चीन क्या सोच रहा है?",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
