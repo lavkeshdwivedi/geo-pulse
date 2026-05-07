@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-05-07T06:37:38.315327+00:00",
+  "generated_at": "2026-05-07T09:35:45.542182+00:00",
   "article_count": 42,
-  "total_unique_count": 249,
+  "total_unique_count": 252,
   "digest": {
-    "en": "Israeli strikes hit Beirut, killing a senior Hezbollah commander, as US President Trump says a war with Iran would be 'over quickly'. India vows to crush terrorism a year after a conflict with Pakistan. Hantavirus patients are being evacuated from a cruise ship to Amsterdam.",
-    "hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अपने समर्थकों को भरोसा दिया कि ईरान विवाद जल्द सुलझ जाएगा। उन्होंने अमेरिकी कार्रवाई का बचाव किया। इस बीच, ईरान ने अमेरिका के 14 सूत्रीय प्रस्ताव को ठेंगा दिखाया।\n\nइस्राइली प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा कि वे ईरान पर हर स्थिति के लिए तैयार हैं। उनकी ट्रंप से रोज बात हो रही है। ईरान-अमेरिका वार्ता आगे बढ़ी है और युद्धविराम पर जल्द फैसला हो सकता है।\n\nअमेरिकी सीनेटर मार्को रुबियो के बयान ने ईरान युद्ध पर अनिश्चितता बढ़ा दी है। उनके बयान और ट्रंप के बयान में विरोधाभास है।"
+    "en": "Israel struck Beirut, killing a Hezbollah commander, in its first such action since a ceasefire. The US and Iran are engaged in talks over a potential deal to end the war. Shell reported a surge in profits due to the impact of the Iran war on oil markets.",
+    "hi": "सुप्रीम कोर्ट ने हेट स्पीच पर एक महत्वपूर्ण फ़ैसला सुनाया है। इसके साथ ही, विजय की पार्टी टीवीके को लेकर कई सवाल उठाए जा रहे हैं। बांग्लादेश की तीस्ता परियोजना में चीन की एंट्री से ढाका-बीजिंग की साझेदारी बढ़ रही है जिस पर भारत की नजर है।"
   },
   "articles": [
+    {
+      "title": "Israel says it killed Hezbollah commander in first strike on Beirut since ceasefire",
+      "url": "https://www.thehindu.com/news/international/israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-ceasefire/article70950517.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-07T09:30:27+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/y7azfp/article70950551.ece/alternates/LANDSCAPE_1200/Lebanon_Israel_Iran_War_4243_.jpg",
+      "summary": "Israel killed a Hezbollah commander in a strike on Beirut, the first since the ceasefire, prompting Hezbollah to fire and launch drones at Israeli soldiers. Iran ally Hezbollah has responded to those strikes by firing and launching armed drones towards Israeli soldiers.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Trump says war will be ‘over quickly’ as Israel hits Beirut for first time since ceasefire",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNEhvaTYwZkpyU0x6YnktYTJhTEhqenNxMFg1cm9qZmR0emEtYXE1UW1qSGc5UThwbG44N1hKaXEweW1jVkR3MVRVQXg4MzB2VDkxTHVBZzlTOWE0Q0lrTFRpaWVLX29FSWptMnFxcDRlcnVjZ0NmVVU2Nnh4Njl1MUJCbWlNNHlrVVhiWGV3dlh4YUx6U0l3akQtYktXVUszSklNWC1UV1lMUURZOUVJS240ZWw0WEUtZk5oUHl3?oc=5",
       "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-05-07T06:25:53+00:00",
+      "published_at": "2026-05-07T09:25:53+00:00",
       "image_url": "https://images.pexels.com/photos/30831931/pexels-photo-30831931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "US President Donald Trump said the war with Iran would be over quickly after Israel launched airstrikes on Beirut for the first time since the ceasefire. The attacks targeted Iranian-backed Hezbollah militants in the Lebanese capital.",
       "region": "Middle East & Africa",
@@ -20,386 +32,320 @@
       "translations": {}
     },
     {
-      "title": "India vows to crush terror 'ecosystem', a year after Pakistan conflict",
-      "url": "https://www.channelnewsasia.com/asia/india-vows-crush-terror-ecosystem-year-after-pakistan-conflict-6106211",
+      "title": "One year after India-Pakistan clash, a fragile truce holds amid rising risks",
+      "url": "https://www.channelnewsasia.com/asia/india-pakistan-military-confrontation-fragile-truce-kashmir-south-asia-6106611",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-05-07T06:24:51+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--4ITz3cln--/c_crop,h_449,w_799,x_1,y_85/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-17T163642Z_1_LYNXMPEM3G13D_RTROPTP_3_INDIA-POLITICS.JPG?itok=Ny8RY-7e",
-      "summary": "India's government vowed to dismantle the country's terror ecosystem, a year after the conflict with Pakistan. The pledge was made by Home Minister Amit Shah in a speech to parliament.",
+      "published_at": "2026-05-07T09:23:42+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--mNEfjuaK--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/india_pakistan_57086.jpg?itok=yFSkNNil",
+      "summary": "A fragile truce holds between India and Pakistan one year after their clash, with Kashmir remaining a key dispute hindering stability. At the heart of the dispute remains Kashmir, a flashpoint that continues to hinder long-term stability and economic potential in South Asia.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Moscow threatens to hit embassies if Kyiv disrupts Putin’s parade",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanJoZUlFcU1uZnZNLTJOQ2pmLVkxc2Y3TFpkOE85LVdpa3NCdENpR2ExNDM5Vy1IYWlna0tlUnVmSVh0MnNGaUtBYUFOVVZGM3VadTJ2MkgzMVVXVFBieWl0c1dTdHp2TnlqNmJiMWhWTTlMbW5rSHhCaElVT3pwc0VBVWIwUUV2THVoMjcxY0VkSE80eGFhMXlaMGZNc29XbjlBSmdSR0VCV094b2lfcVlXMDRWc1hS?oc=5",
-      "source": "Google News (war ceasefire)",
+      "title": "Two Singapore residents isolated at NCID after hantavirus exposure on cruise and flight, risk to",
+      "url": "https://www.channelnewsasia.com/singapore/hantavirus-mv-hondius-ncid-test-virus-isolated-cda-6106671",
+      "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-05-07T06:23:00+00:00",
-      "image_url": "https://images.pexels.com/photos/27358605/pexels-photo-27358605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Russia threatened to retaliate against Ukrainian embassies if Kyiv disrupts President Vladimir Putin's Victory Day parade in Moscow. The warning was issued by the Russian Foreign Ministry. Ukraine war live: Moscow threatens to hit embassies if Kyiv disrupts Putin’s parade The Independent.",
+      "published_at": "2026-05-07T09:19:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--774KR_Sw--/c_crop,h_562,w_1000,x_0,y_47/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Cape_Verde_Hantavirus_Ship_28911.jpg?itok=9aP1QTMU",
+      "summary": "Two Singapore residents were isolated after exposure to hantavirus on a flight and cruise. The two men were on the same flight as a confirmed hantavirus case who later died.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Venice Biennale Erupts in Protest as Russian Pavilion Locked by Sanctions",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSXVpbjI5U1RqVG9HT1MydGhRWjVVYlM4Ynk1UWtVT1RfMWt3Rm1KY0lvWHd3VkxPYnRYSnlYWHdlcV9yYUlJT1I0cWlqRmVjekJVV2tMNFRDTEloa1REX1F3b1VSdjVaMXJvcEFDZUNUR1MxdUQ1eWRjVVpvdGhmVG0wLS1xZk80N001ME5UOEpfcjR0QnBYeG9wVjB2Zw?oc=5",
+      "source": "Google News (diplomacy sanctions)",
+      "sources": [],
+      "published_at": "2026-05-07T09:18:07+00:00",
+      "image_url": "https://images.pexels.com/photos/36393800/pexels-photo-36393800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The Russian Pavilion at the Venice Biennale was locked due to sanctions, sparking protests. Venice Biennale Erupts in Protest as Russian Pavilion Locked by Sanctions Sri Lanka Guardian.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Man City manager Jeglertz always believed they could win WSL title",
-      "url": "https://www.channelnewsasia.com/sport/man-city-manager-jeglertz-always-believed-they-could-win-wsl-title-6106206",
+      "title": "Iran reviewing U.S. proposal as Trump pressures Tehran for agreement on deal to end war",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-donald-trump-iran-peace-deal-ceasefire-talks-strait-of-hormuz-issue-may-7-2026/article70949440.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-07T09:14:54+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/aiwq8e/article70949901.ece/alternates/LANDSCAPE_1200/2026-05-06T082445Z_1588296201_RC2TUIA1ON3A_RTRMADP_3_IRAN-CRISIS-SOUTHKOREA.JPG",
+      "summary": "Iran is reviewing a US proposal to end the war, while denying allegations of involvement in a blast on the HMM Namu ship. Tehran’s embassy in Seoul said it “firmly rejects and categorically denies” allegations that its armed forces were behind a blast aboard the Panama-flagged HMM Namu.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Shell latest oil giant to see profits surge due to Iran war impact",
+      "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-07T09:04:24+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d823/live/94684120-49d8-11f1-9acb-332348f2c41f.jpg",
+      "summary": "Shell's profits surged by nearly a quarter due to recent oil price volatility, benefiting from the impact of the Iran war. The energy giant's financial gain is a direct result of the current market fluctuations.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
+      "url": "https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-07T09:03:55+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/07/multimedia/07int-brazil-lula-trump-hzgt/07int-brazil-lula-trump-hzgt-mediumSquareAt3X.jpg",
+      "summary": "US President Trump will host Brazilian President Luiz Inácio Lula da Silva at the White House for talks on security, trade, and critical minerals. The meeting comes after a rocky relationship between the two leaders.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Malaysia seeks clarification from Norway after export control halts missile supply",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-clarify-norway-export-control-missile-supply-littoral-combat-ships-6106511",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-05-07T06:09:16+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--XhpQanMA--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-07T060916Z_1_LYNXMPEM460AV_RTROPTP_3_SOCCER-ENGLAND-MCI-LIV.JPG?itok=u3ltRRMl",
-      "summary": "Manchester City manager Gareth Taylor's assistant, Camilla Jeglertz, expressed confidence in the team's ability to win the Women's Super League title. Jeglertz cited the team's strong squad and recent form.",
+      "published_at": "2026-05-07T09:00:44+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--YKOqaiJl--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-07T080535Z_1_LYNXMPEM460IL_RTROPTP_3_ASEAN-DEFENCE.JPG?itok=ylb1M9iB",
+      "summary": "Malaysia is seeking clarification from Norway after an export control halted the supply of missiles. Norway banned the deliveries just days before the scheduled date, according to a Malaysian defence news portal.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "German Leaders Clash With Spy Chiefs Over Domestic Threat From Iran",
+      "url": "https://www.nytimes.com/2026/05/07/world/europe/germany-merz-iran-security-threat-spy.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-07T09:00:25+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/05/multimedia/00int-germany-security-02-lqbc/00int-germany-security-02-lqbc-mediumSquareAt3X.jpg",
+      "summary": "German leaders, including Chancellor Friedrich Merz, have publicly played down the domestic threat from Iran-linked groups. Intelligence agents had privately warned of potential hybrid attacks from these groups. Intelligence agents have privately warned of the potential of hybrid attacks from Iran-linked groups.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Japan, UAE agree to hold talks on expanded oil supply and joint stockpiles",
+      "url": "https://www.channelnewsasia.com/business/japan-uae-agree-hold-talks-expanded-oil-supply-and-joint-stockpiles-6106646",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-07T08:56:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--t_GCR4vp--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-07T085600Z_1_LYNXMPEM460KL_RTROPTP_3_IRAN-CRISIS-JAPAN-OIL.JPG?itok=sFqvogpf",
+      "summary": "Japan and the UAE have agreed to hold talks on expanded oil supply and joint stockpiles. The discussions aim to strengthen their cooperation in the energy sector, with details of the talks yet to be announced.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "French warship moves towards Hormuz for possible defensive mission",
+      "url": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-07T08:36:21+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fc34c71661-1778136263.jpg?resize=1920%2C1440",
+      "summary": "The French warship La Fayette is heading towards the Strait of Hormuz for a possible defensive mission. The move comes as Iran reviews a US proposal to end the war, which Donald Trump says could bring peace.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Security Analytics Market Surges as Cyber Threats and AI-Driven Defense Transform Cybersecurity -",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObl80QkhnWDBPNjZibUpGR3B0WDY1eW5UMm5IWDhVdXBKaVVNTmw5REpsb3ltUC1XcThGTVZlZWNqd19lZzdhVGt6aVJjbXZITFQ1WkJXNTVYTTNiMXo5aVZOemhrLUlCSE5vR3Z0VUdMdlpIcHR5ZGxCYk0xX3VTVzk1TVhuUG5HVWpGSG00V2tUY29pd2ppQ1FiMVF5VFhuTXBqZU40dUg3cDZhV3R1cHJENE03U0lJTHc?oc=5",
+      "source": "Google News (global security)",
+      "sources": [],
+      "published_at": "2026-05-07T08:21:00+00:00",
+      "image_url": "https://images.pexels.com/photos/31738798/pexels-photo-31738798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Cybersecurity threats are driving growth in the security analytics market. Companies are turning to AI-driven defense solutions to protect against attacks, with market revenue surging as a result. Security Analytics Market Surges as Cyber Threats and AI-Driven Defense Transform Cybersecurity vocal. media.",
       "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Malaysia’s SD Guthrie cautious on outlook after Q1 profit dips on weak palm prices",
-      "url": "https://www.channelnewsasia.com/business/malaysias-sd-guthrie-cautious-outlook-after-q1-profit-dips-weak-palm-prices-6106161",
-      "source": "Channel News Asia",
+      "title": "The Gaza journalist killed on the day his daughter was born",
+      "url": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-07T06:03:22+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--gQXhdBUy--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-07T060322Z_1_LYNXMPEM460AG_RTROPTP_3_MALAYSIA-SDGUTHRIE-RESULTS.JPG?itok=o6K3UpWV",
-      "summary": "Malaysia's SD Guthrie saw its first-quarter profit decline due to weak palm oil prices. The company's revenue fell 12% year-on-year, with palm oil contributing to the decline. Malaysia’s SD Guthrie cautious on outlook after Q1 profit dips on weak palm prices.",
+      "published_at": "2026-05-07T08:12:43+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/873A0074-1778119737.jpg?resize=1920%2C1440",
+      "summary": "Israeli forces killed Yahya Abu Arra in Gaza on the day his daughter Sana was born. Her first birthday is now shadowed by loss, with her father's death a tragic reminder of the conflict.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Judge Who Handed South Korea's Ex-First Lady 4-Year Jail Term Found Dead",
+      "url": "https://www.ndtv.com/world-news/judge-shin-jong-oh-who-handed-south-korea-s-ex-first-lady-4-year-jail-term-found-dead-11460536#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-07T08:07:46+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/ipdu8jqk_south-koreas-former-first-lady-kim-keon-hee_625x300_07_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "A judge who sentenced South Korea's former first lady Kim Keon Hee to four years in prison has been found dead. The judge's death raises questions about the case and its outcome.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "HSA takes down nearly 1,000 illegal health product listings; over 80% were for contact lenses",
-      "url": "https://www.channelnewsasia.com/singapore/hsa-interpol-contact-lens-illegal-listings-health-products-seized-6105696",
-      "source": "Channel News Asia",
+      "title": "EU reaches tentative deal on simpler AI rules, plans ban on 'nudifier' apps",
+      "url": "https://www.dw.com/en/eu-reaches-tentative-deal-on-simpler-ai-rules-plans-ban-on-nudifier-apps/a-77073411?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
       "sources": [],
-      "published_at": "2026-05-07T06:00:04+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--jH0XzpCA--/c_crop,h_603,w_1072,x_0,y_1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/07/picture1.png?itok=iPKkPYje",
-      "summary": "Health authorities seized over 6,600 items and took down nearly 1,000 illegal health product listings, mostly for contact lenses. More than 6,600 items were also seized during a two-week operation that was part of an Interpol-led global crackdown on illegal health products.",
-      "region": "World",
+      "published_at": "2026-05-07T08:07:00+00:00",
+      "image_url": "https://static.dw.com/image/69608949_6.jpg",
+      "summary": "The European Union has agreed to ban AI-powered 'nudifier' apps that create deepfakes and sexualized imagery. The move is part of a broader effort to regulate AI use within the EU.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Hazmat Suits On, Health Authorities Evacuate Suspected Hantavirus Patients From Cruise Ship",
-      "url": "https://www.ndtv.com/health/hazmat-suits-on-health-authorities-evacuate-suspected-hantavirus-patients-from-cruise-ship-11460641#publisher=newsstand",
+      "title": "WHO Updates Hantavirus Outbreak Toolbox: How These Protocols Save Lives",
+      "url": "https://www.ndtv.com/health/who-updates-hantavirus-outbreak-toolbox-how-these-protocols-save-lives-11461208#publisher=newsstand",
       "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-05-07T05:57:32+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/a37pl6jg_who-chief-evacuation-hantavirus_625x300_07_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Health authorities evacuated suspected hantavirus patients from a cruise ship, with the WHO chief posting images of the evacuations. The WHO chief, Tedros Adhanom Ghebreyesus, posted images of the evacuations.",
+      "published_at": "2026-05-07T08:06:31+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/lik3jj8_mouse_625x300_06_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "The World Health Organization updated its Hantavirus outbreak toolbox to combat the serious viral infection. The protocols aim to save lives by providing guidelines for diagnosis, treatment, and prevention. Hantavirus is a serious viral infection.",
       "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Senior Hezbollah Commander Killed In Israeli Strike On Beirut",
-      "url": "https://www.ndtv.com/world-news/senior-hezbollah-commander-malek-ballout-killed-by-israel-in-beirut-source-close-to-group-11460593#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "Sri Lanka’s former President Chandrika Kumaratunga wishes Vijay on ‘remarkable achievement’",
+      "url": "https://www.thehindu.com/news/international/sri-lankas-former-president-chandrika-kumaratunga-wishes-vijay-on-remarkable-achievement/article70950267.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-07T05:50:29+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/o2lsa94_lebanon-strike_625x300_10_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "summary": "An Israeli strike on Beirut killed a senior Hezbollah commander during a meeting in the Ghobeiri stronghold. The strike hit a meeting of Radwan leaders in Ghobeiri, a Hezbollah stronghold (Representational).",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-07T08:03:27+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/dhu816/article70950335.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UNR6LGGUU_R1572620342_2_292492c1-2071-4cbf-884f-0a323f1fa34c.jpg",
+      "summary": "Sri Lanka's former President Chandrika Kumaratunga congratulated Vijay on his achievement. She recalled the friendly ties between Tamil Nadu and Sri Lanka, looking forward to continued relations.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Hantavirus Has 38 Strains, Only 1 Spreads To Humans: New Updates In Atlantic Cruise Outbreak",
-      "url": "https://www.ndtv.com/health/atlantic-cruise-outbreak-update-hantavirus-has-38-strains-only-1-spreads-to-humans-11458365#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "New Zealand Sanctions 20 Russia-Linked Individuals and Entities",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjNqSHQ4ZkwyVEtMZldJR3dEWmZjU252Z2FmRlUzNFhNdWhPelF6MU4tMWxxcGNMSG1ZQTFvbjlPVVpGcjJIdzlNNTFEeXhvRk8wYk5ySU42TVFIZjdZVE50WW1vQ3lhaTdfNkxqX3ZLWktOam8ybEtiSGlVUE5yWnBiR05HWnZ6RjdCMUQ0c2p1b3d6aVpveWZ3TmtoZXk1UmhXTXducWFBdUVqeFQwLS14cXJaTlZ4SUZPbg?oc=5",
+      "source": "Google News (diplomacy sanctions)",
       "sources": [],
-      "published_at": "2026-05-07T05:37:04+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/s7ibkk6g_atlantic-cruise-ship_625x300_06_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The hantavirus has 38 strains, but only one spreads to humans, as seen in the Atlantic cruise outbreak. Atlantic cruise outbreak where one hantavirus strain is recorded to transmit from human to human.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned",
-      "url": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-05-07T05:19:09+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/06/multimedia/06int-cruise-virus-01-zghb/06int-cruise-virus-01-zghb-mediumSquareAt3X.jpg",
-      "summary": "Three people with possible hantavirus symptoms were evacuated from the MV Hondius cruise ship in Amsterdam. Three people with possible symptoms of the disease were evacuated on Wednesday morning from the MV Hondius before it headed to the Canary Islands.",
+      "published_at": "2026-05-07T08:00:36+00:00",
+      "image_url": "https://images.pexels.com/photos/11421036/pexels-photo-11421036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "New Zealand imposed sanctions on 20 Russia-linked individuals and entities. The move targets those connected to Russia, as reported by Odessa Journal. New Zealand Sanctions 20 Russia-Linked Individuals and Entities Odessa Journal.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "New York judge makes alleged Esptein suicide note public",
-      "url": "https://www.dw.com/en/us-new-york-judge-makes-alleged-esptein-suicide-note-public/a-77072765?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
+      "title": "U.S. conduct diverted path of diplomacy toward threats, pressure, and sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUhvVVIxTElQSm1Mb3RMRnN6UmNib0xiTlhlcGV2ZWtVSEtKTjRLX1JDTDZfQ3N6T3hVX001a2EzcDVfTDVpZEs5aHY5RTMwRnFTREJFN0hVUzVWX1RJRGhCQzVlMUNrSjZEUEpIQ3FUaHVvY1BFTUdGQzNXWTJGaTBkN2JId2owOUpjNjI2M3NSZFliWFU0ZUp6YVlvRXl4NFdkWGZOYzZEdjEzZS04QVM2MHlRNS1OclUzcUFtQ3ZxS2QwY1VmNGhB?oc=5",
+      "source": "Google News (diplomacy sanctions)",
       "sources": [],
-      "published_at": "2026-05-07T05:12:00+00:00",
-      "image_url": "https://static.dw.com/image/75975856_6.jpg",
-      "summary": "A New York judge made public a handwritten note allegedly written by Jeffrey Epstein, found after his first suicide attempt. The note's authenticity could not be verified. Epstein was a convicted sex offender.",
+      "published_at": "2026-05-07T07:57:00+00:00",
+      "image_url": "https://images.pexels.com/photos/12274282/pexels-photo-12274282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iranian President-elect Pezeshkian stated that US conduct shifted diplomacy towards threats, pressure, and sanctions. This approach altered the diplomatic path. Pezeshkian: U. S. conduct diverted path of diplomacy toward threats, pressure, and sanctions Pars Today.",
       "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Trump takes another U-turn on Iran",
-      "url": "https://www.thehindu.com/news/international/the-view-from-india-trump-takes-another-u-turn-on-iran/article70946072.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-07T05:05:05+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/y5fddf/article70945441.ece/alternates/LANDSCAPE_1200/2026-05-05T150241Z_727101349_RC233LAQYSY4_RTRMADP_3_USA-TRUMP.JPG",
-      "summary": "US President Trump eased sanctions on Iran, allowing American companies to sell food and medicine to the country. The move comes amid ongoing diplomatic efforts between the US and Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "\"Watcha Want Me To Do? Bust Out Crying\": Epstein Note Before Suicide Attempt",
-      "url": "https://www.ndtv.com/world-news/jeffrey-epsteins-note-before-suicide-attempt-watcha-want-me-to-do-bust-out-crying-11460431#publisher=newsstand",
+      "title": "WHO Chief Tells AFP Hantavirus Outbreak Not Like Start Of Covid Pandemic",
+      "url": "https://www.ndtv.com/health/who-chief-tells-afp-hantavirus-outbreak-not-like-start-of-covid-pandemic-11461033#publisher=newsstand",
       "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-05-07T04:56:44+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/sc3hh2io_epstein-suicide-note-afp_625x300_07_May_26.jpeg",
-      "summary": "A note allegedly written by Jeffrey Epstein before his suicide attempt was discovered by a fellow inmate. The note reads \"Watcha Want Me To Do? Bust Out Crying\". Epstein was found on the floor of their cell.",
+      "published_at": "2026-05-07T07:32:52+00:00",
+      "image_url": "https://c.ndtvimg.com/2024-01/lo91e72g_who-chief_625x300_22_January_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "WHO Chief told AFP that the hantavirus outbreak on a cruise ship is not comparable to the start of the Covid pandemic. The situation does not have similar characteristics. WHO chief told AFP Wednesday the cruise ship hantavirus outbreak isn't like Covid's early days.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "हेट स्पीच पर सुप्रीम कोर्ट का फ़ैसला क्या है और क्या होगा इसका असर",
+      "url": "https://www.bbc.com/hindi/articles/ce3p016v0w3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-07T09:15:32+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/015b/live/3b084950-49f5-11f1-a9e7-0f8f590f205b.jpg",
+      "summary": "सुप्रीम कोर्ट ने 29 अप्रैल 2026 को नफ़रती भाषण से जुड़ी कई याच‍िकाएँ खार‍िज कर दीं, केवल चार मामलों को छोड़कर. कोर्ट के इस फ़ैसले का सीधा असर हेट स्पीच पर होगा.",
       "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Bolivian police fire tear gas at protesting teachers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/bolivian-police-fire-tear-gas-at-protesting-teachers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-07T04:51:35+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778129485.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Bolivian police fired tear gas at protesters in La Paz, as teachers and other groups rallied against the government. The protests involved three separate groups. The police response was swift and forceful.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-07T04:48:38+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778123733.jpg?resize=1920%2C1078&quality=80",
-      "summary": "Israel's military launched an investigation after a photo showed an Israeli soldier desecrating a Virgin Mary statue in Lebanon. The soldier placed a cigarette into the statue's mouth. The incident sparked outrage and condemnation.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "How Hantavirus Usually Travels In Closed Spaces",
-      "url": "https://www.ndtv.com/health/from-rodents-to-humans-how-hantavirus-usually-travels-in-closed-spaces-11455696#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-07T04:35:39+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/lik3jj8_mouse_625x300_06_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Hantavirus typically spreads through contact with infected rodents or their droppings, and then to humans. In closed spaces, the virus can be transmitted through airborne particles, often resulting in severe respiratory symptoms. Early detection and treatment are crucial to prevent complications.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
-      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-07T03:55:13+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca2/live/a4e50820-4984-11f1-93fe-cfc8bb3523fc.jpg",
-      "summary": "The MV Hondius cruise ship, on which a British man and two others showed hantavirus symptoms, left Cape Verde after the patients were evacuated to the Netherlands. The ship had been docked in Cape Verde when the outbreak occurred. Authorities took swift action to contain the situation.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran-US-Israel War News Live Updates: Iran expected to respond to US war proposal after Trump hails",
-      "url": "https://indianexpress.com/article/world/iran-us-war-news-live-updates-trump-tehran-hormuz-ceasefire-proposal-10676935/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-07T03:20:57+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/Photo-2026-05-07T084547.767.jpg",
-      "summary": "Iran is expected to respond to a US war proposal after President Trump expressed optimism about a potential agreement. The situation remains tense as Iran considers the proposal. US officials are awaiting a response from their Iranian counterparts.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
-      "url": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-07T02:49:23+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/19b639/article70948553.ece/alternates/LANDSCAPE_1200/AP05_06_2026_000002A.jpg",
-      "summary": "Rubio will visit India for bilateral talks with Jaishankar, Doval, and Prime Minister Modi. Rubio will hold talks with Jaishankar and Ajit Doval, and call on Prime Minister Modi, in discussions that are expected to set the course for India-U. S.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers",
-      "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-07T01:53:51+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/981268b3c5c96853693afeeab94c8736e38b8d2c/565_0_3998_3198/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=cacd7f567ee80e57837172271f31c46e",
-      "summary": "Argentina is investigating the source of a hantavirus outbreak on the MV Hondius cruise ship, which departed from the country. Argentina has the highest incidence of hantavirus in the region, according to the WHO. Officials are working to determine if the country is the origin of the outbreak.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters",
-      "url": "https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-05-07T01:45:19+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/06/multimedia/06int-venezuela-hotel-dispatch-02-mjqw/06int-venezuela-hotel-dispatch-02-mjqw-mediumSquareAt3X.jpg",
-      "summary": "The J. W. Marriott hotel in Venezuela's capital has become a de facto headquarters for the US embassy, with diplomats, spies, and fortune seekers converging on the location. The unusual arrangement highlights the changing situation in the country. US officials are operating from the hotel.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "ट्रंप ने समर्थकों को दिया भरोसा, कहा- जल्द सुलझ जाएगा ईरान विवाद; US की कार्रवाई का किया बचाव",
-      "url": "https://www.amarujala.com/live/world/west-asia-live-updates-us-iran-ceasefire-strait-of-hormuz-islamabad-talks-trump-israel-lebanon-news-in-hindi-2026-05-07",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-07T06:31:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/20/west-asia-crisis-iran-war_67ef754ce190874b8d733e70f7ef2f39.gif?w=750&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने समर्थकों को भरोसा दिया है कि ईरान विवाद जल्द सुलझ जाएगा. उन्होंने अमेरिका की कार्रवाई का बचाव किया और कहा कि वह स्थिति पर नजर रख रहे हैं.",
-      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ट्रंप ने समर्थकों को दिया भरोसा, कहा- जल्द सुलझ जाएगा ईरान विवाद; US की कार्रवाई का किया बचाव",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने समर्थकों को भरोसा दिया है कि ईरान विवाद जल्द सुलझ जाएगा. उन्होंने अमेरिका की कार्रवाई का बचाव किया और कहा कि वह स्थिति पर नजर रख रहे हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "हेट स्पीच पर सुप्रीम कोर्ट का फ़ैसला क्या है और क्या होगा इसका असर",
+          "summary": "सुप्रीम कोर्ट ने 29 अप्रैल 2026 को नफ़रती भाषण से जुड़ी कई याच‍िकाएँ खार‍िज कर दीं, केवल चार मामलों को छोड़कर. कोर्ट के इस फ़ैसले का सीधा असर हेट स्पीच पर होगा.",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "Vivo X300 FE भारत में लॉन्च: आईफोन एयर जैसा लुक, ZEISS कैमरा और 6500mAh बैटरी; जानें कीमत और ऑफर्स",
-      "url": "https://www.amarujala.com/technology/gadgets/vivo-x300-fe-launched-in-india-compact-flagship-with-zeiss-camera-and-snapdragon-8-gen-5-2026-05-07",
-      "source": "Amar Ujala National",
+      "title": "विजय की पार्टी टीवीके को लेकर कौन से सवाल उठाए जा रहे हैं?",
+      "url": "https://www.bbc.com/hindi/articles/c8xw4dy7evzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-07T06:30:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/07/vivo-x300-fe_dcc3644322a05eaf690708df5bb4eac9.jpeg?w=750&dpr=1.0",
-      "summary": "विवो ने भारत में X300 FE लॉन्च किया, जिसमें ZEISS कैमरा और 6500mAh बैटरी है। फोन की कीमत और ऑफर्स जल्द ही जारी किए जाएंगे। यह फोन शानदार कैमरा और दमदार बैटरी के साथ आता है।",
+      "published_at": "2026-05-07T08:29:42+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb6d/live/967793f0-49ea-11f1-9921-0be54b6c608a.jpg",
+      "summary": "टीवीके की क़ाबिलियत और अनुभव को लेकर कई सवाल उठाए जा रहे हैं, राजनीतिक आंकड़ों के बावजूद. पार्टी के विजय की संभावना पर सवालिया निशान लगाए जा रहे हैं. राजनीतिक रूप से आंकड़ों के आधार पर पलड़ा टीवीके के पक्ष में झुका लगता है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विजय की पार्टी टीवीके को लेकर कौन से सवाल उठाए जा रहे हैं?",
+          "summary": "टीवीके की क़ाबिलियत और अनुभव को लेकर कई सवाल उठाए जा रहे हैं, राजनीतिक आंकड़ों के बावजूद. पार्टी के विजय की संभावना पर सवालिया निशान लगाए जा रहे हैं. राजनीतिक रूप से आंकड़ों के आधार पर पलड़ा टीवीके के पक्ष में झुका लगता है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बांग्लादेश की तीस्ता परियोजना में चीन की एंट्री, ढाका-बीजिंग की बढ़ती साझेदारी पर भारत की नजर",
+      "url": "https://www.amarujala.com/world/china-s-entry-into-bangladesh-s-teesta-project-india-eyes-growing-dhaka-beijing-partnership-2026-05-07",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-07T07:13:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/29/amid-fears-of-escalating-tensions-india-bangladesh-come-closer-tariq-rahmans-stance-differs-from_8ba6a931748ef6ccc712d6b53d470c08.jpeg?w=750&dpr=1.0",
+      "summary": "चीन ने बांग्लादेश की तीस्ता परियोजना में एंट्री की है, जिससे ढाका-बीजिंग की साझेदारी बढ़ रही है. भारत इस बढ़ती साझेदारी पर नजर रख रहा है. बांग्लादेश की तीस्ता परियोजना में चीन की एंट्री, ढाका-बीजिंग की बढ़ती साझेदारी पर भारत की नजर।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "Vivo X300 FE भारत में लॉन्च: आईफोन एयर जैसा लुक, ZEISS कैमरा और 6500mAh बैटरी; जानें कीमत और ऑफर्स",
-          "summary": "विवो ने भारत में X300 FE लॉन्च किया, जिसमें ZEISS कैमरा और 6500mAh बैटरी है। फोन की कीमत और ऑफर्स जल्द ही जारी किए जाएंगे। यह फोन शानदार कैमरा और दमदार बैटरी के साथ आता है।",
+          "title": "बांग्लादेश की तीस्ता परियोजना में चीन की एंट्री, ढाका-बीजिंग की बढ़ती साझेदारी पर भारत की नजर",
+          "summary": "चीन ने बांग्लादेश की तीस्ता परियोजना में एंट्री की है, जिससे ढाका-बीजिंग की साझेदारी बढ़ रही है. भारत इस बढ़ती साझेदारी पर नजर रख रहा है. बांग्लादेश की तीस्ता परियोजना में चीन की एंट्री, ढाका-बीजिंग की बढ़ती साझेदारी पर भारत की नजर।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "घर में शनिदेव की पूजा वर्जित क्यों मानी जाती है? पढ़ें पौराणिक मान्यताएं और नियम",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/shani-jayanti-2026-why-is-shanidev-not-worshipped-at-home-know-the-religious-belief-2026-05-07",
-      "source": "Amar Ujala National",
+      "title": "चंद्रनाथ रथ की मां ने कहा, 'दोषियों को फांसी नहीं उम्र क़ैद मिले': वो कैसे बने थे शुभेंदु अधिकारी",
+      "url": "https://www.bbc.com/hindi/articles/cm2pyl72nljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-07T06:28:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/23/shani-dev_a4c09847b0f2914f76b06c12de6e8bee.jpeg?w=750&dpr=1.0",
-      "summary": "हिंदू धर्म में शनिदेव की पूजा से जुड़े कई नियम और मान्यताएं हैं। घर में शनिदेव की पूजा वर्जित मानी जाती है, जिसके पीछे एक पौराणिक कथा जुड़ी है। इस कथा के अनुसार, शनिदेव की पूजा करने से घर में नकारात्मकता आती है।",
+      "published_at": "2026-05-07T07:00:28+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2668/live/0818c9e0-49d5-11f1-b2b7-3b4086c31533.jpg",
+      "summary": "पश्चिम बंगाल में बीजेपी नेता शुभेंदु अधिकारी के पीए चंद्रनाथ रथ की गोली मारकर हत्या कर दी गई. उनकी मां ने कहा कि दोषियों को उम्र क़ैद मिलनी चाहिए. पश्चिम बंगाल में बुधवार रात बीजेपी नेता शुभेंदु अधिकारी के पीए चंद्रनाथ रथ की गोली मारकर हत्या कर दी गई.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "घर में शनिदेव की पूजा वर्जित क्यों मानी जाती है? पढ़ें पौराणिक मान्यताएं और नियम",
-          "summary": "हिंदू धर्म में शनिदेव की पूजा से जुड़े कई नियम और मान्यताएं हैं। घर में शनिदेव की पूजा वर्जित मानी जाती है, जिसके पीछे एक पौराणिक कथा जुड़ी है। इस कथा के अनुसार, शनिदेव की पूजा करने से घर में नकारात्मकता आती है।",
+          "title": "चंद्रनाथ रथ की मां ने कहा, 'दोषियों को फांसी नहीं उम्र क़ैद मिले': वो कैसे बने थे शुभेंदु अधिकारी",
+          "summary": "पश्चिम बंगाल में बीजेपी नेता शुभेंदु अधिकारी के पीए चंद्रनाथ रथ की गोली मारकर हत्या कर दी गई. उनकी मां ने कहा कि दोषियों को उम्र क़ैद मिलनी चाहिए. पश्चिम बंगाल में बुधवार रात बीजेपी नेता शुभेंदु अधिकारी के पीए चंद्रनाथ रथ की गोली मारकर हत्या कर दी गई.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "कुकर में एक साथ बनाएं दाल-चावल, 15 मिनट में तैयार होगा पूरा खाना",
-      "url": "https://www.amarujala.com/lifestyle/healthy-food/time-saving-kitchen-hacks-one-pot-dal-rice-recipe-in-hindi-2026-05-07",
-      "source": "Amar Ujala National",
+      "title": "अमेरिकी अदालत से भारतीय मूल के विशेषज्ञ एशले को बड़ी राहत; जासूसी कानून का मामला खारिज, जानें सबकुछ",
+      "url": "https://www.amarujala.com/world/us-court-dismisses-espionage-law-case-for-indian-origin-expert-ashley-2026-05-07",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-07T06:26:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/07/quick-dal-chawal-recipe-gas-saving_b1d54693b0cd4a649c4fa07bdaaf1dd8.jpeg?w=750&dpr=1.0",
-      "summary": "कुकर में एक साथ दाल और चावल बनाने का आसान तरीका है। इस तरीके से कम गैस, कम समय और बिना मेहनत के स्वादिष्ट खाना तैयार किया जा सकता है। यह तरीका 15 मिनट में पूरा खाना तैयार करने में मदद करता है।",
-      "region": "World",
+      "published_at": "2026-05-07T05:51:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/15/only-15-judges-per-million-population-in-the-country-2025-india-justice-report_99d16cd534778eb401497f86013cdd7c.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी अदालत ने भारतीय मूल के विशेषज्ञ एशले के खिलाफ जासूसी कानून का मामला खारिज कर दिया. इससे एशले को बड़ी राहत मिली है. अमेरिकी अदालत से भारतीय मूल के विशेषज्ञ एशले को बड़ी राहत; जासूसी कानून का मामला खारिज, जानें सबकुछ।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कुकर में एक साथ बनाएं दाल-चावल, 15 मिनट में तैयार होगा पूरा खाना",
-          "summary": "कुकर में एक साथ दाल और चावल बनाने का आसान तरीका है। इस तरीके से कम गैस, कम समय और बिना मेहनत के स्वादिष्ट खाना तैयार किया जा सकता है। यह तरीका 15 मिनट में पूरा खाना तैयार करने में मदद करता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "तीन साल बाद लौटी सीरीज में छाईं प्रियंका चोपड़ा, ग्लैमर और स्टाइल के बीच कहां रह गई कमी?",
-      "url": "https://www.amarujala.com/entertainment/movie-review/citadel-season-2-review-in-hindi-priyanka-chopra-richard-madden-stanley-tucci-lesley-manville-gabriel-leone-2026-05-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-07T06:18:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/07/satadal-2-ravaya_343a845b497b71fe6039a8c6195d1d96.jpeg?w=750&dpr=1.0",
-      "summary": "प्रियंका चोपड़ा की लोकप्रिय हॉलीवुड सीरीज ‘सिटाडेल’ का दूसरा सीजन रिलीज हो चुका है। इस सीरीज में प्रियंका चोपड़ा ने ग्लैमर और स्टाइल के साथ अभिनय किया है। सात एपिसोड की सीरीज देखने से पहले पढ़िए ये रिव्यू और जानिए कैसा है शो।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तीन साल बाद लौटी सीरीज में छाईं प्रियंका चोपड़ा, ग्लैमर और स्टाइल के बीच कहां रह गई कमी?",
-          "summary": "प्रियंका चोपड़ा की लोकप्रिय हॉलीवुड सीरीज ‘सिटाडेल’ का दूसरा सीजन रिलीज हो चुका है। इस सीरीज में प्रियंका चोपड़ा ने ग्लैमर और स्टाइल के साथ अभिनय किया है। सात एपिसोड की सीरीज देखने से पहले पढ़िए ये रिव्यू और जानिए कैसा है शो।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बंगाल में चुनाव बाद हिंसा जारी, पानीहाटी में बम फेंका, पांच भाजपा कार्यकर्ता घायल",
-      "url": "https://www.amarujala.com/india-news/post-election-violence-continues-in-bengal-bomb-thrown-in-panihati-five-bjp-workers-injured-update-2026-05-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-07T06:18:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/31/west-bengal_7e465022f80730c827ffc657acbf403b.jpeg?w=750&dpr=1.0",
-      "summary": "बंगाल में चुनाव बाद हिंसा जारी है, जिसमें पानीहाटी में बम फेंका गया और पांच भाजपा कार्यकर्ता घायल हुए। यह हिंसा चुनाव परिणामों के बाद हुई है और पुलिस ने मामले की जांच शुरू कर दी है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बंगाल में चुनाव बाद हिंसा जारी, पानीहाटी में बम फेंका, पांच भाजपा कार्यकर्ता घायल",
-          "summary": "बंगाल में चुनाव बाद हिंसा जारी है, जिसमें पानीहाटी में बम फेंका गया और पांच भाजपा कार्यकर्ता घायल हुए। यह हिंसा चुनाव परिणामों के बाद हुई है और पुलिस ने मामले की जांच शुरू कर दी है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हॉलीवुड के दिग्गज अभिनेता के साथ अभिनय करेंगी देसी गर्ल, प्रियंका चोपड़ा ने खबर पर लगाई मुहर",
-      "url": "https://www.amarujala.com/entertainment/hollywood/priyanka-chopra-act-with-hollywood-actor-orlando-bloom-in-survival-thriller-movie-reset-2026-05-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-07T06:15:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/12/10/parayaka-capaugdha_00b65eb63c4628c5ee942a36ee5a7980.jpeg?w=750&dpr=1.0",
-      "summary": "प्रियंका चोपड़ा जल्द ही हॉलीवुड फिल्म 'रीसेट' में नजर आएंगी। इस फिल्म में उनके साथ एक दिग्गज हॉलीवुड एक्टर अभिनय करेंगे। प्रियंका चोपड़ा ने इस खबर की पुष्टि की है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हॉलीवुड के दिग्गज अभिनेता के साथ अभिनय करेंगी देसी गर्ल, प्रियंका चोपड़ा ने खबर पर लगाई मुहर",
-          "summary": "प्रियंका चोपड़ा जल्द ही हॉलीवुड फिल्म 'रीसेट' में नजर आएंगी। इस फिल्म में उनके साथ एक दिग्गज हॉलीवुड एक्टर अभिनय करेंगे। प्रियंका चोपड़ा ने इस खबर की पुष्टि की है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या शुगर के मरीज तरबूज खा सकते हैं? एक क्लिक में जानें सब-कुछ",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/can-diabetics-eat-watermelon-in-summer-season-can-i-eat-watermelon-if-i-have-diabetes-2026-05-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-07T06:15:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/07/can-diabetics-eat-watermelon_7fba2e7aaf97c67839c449472627a76c.jpeg?w=750&dpr=1.0",
-      "summary": "ब्लड शुगर के मरीजों को अपने खाने-पीने का खास ध्यान रखना पड़ता है। तरबूज की भरमार के बीच, यह जानना जरूरी है कि क्या डायबिटीज के मरीज इसे खा सकते हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या शुगर के मरीज तरबूज खा सकते हैं? एक क्लिक में जानें सब-कुछ",
-          "summary": "ब्लड शुगर के मरीजों को अपने खाने-पीने का खास ध्यान रखना पड़ता है। तरबूज की भरमार के बीच, यह जानना जरूरी है कि क्या डायबिटीज के मरीज इसे खा सकते हैं।",
-          "region": "दुनिया"
+          "title": "अमेरिकी अदालत से भारतीय मूल के विशेषज्ञ एशले को बड़ी राहत; जासूसी कानून का मामला खारिज, जानें सबकुछ",
+          "summary": "अमेरिकी अदालत ने भारतीय मूल के विशेषज्ञ एशले के खिलाफ जासूसी कानून का मामला खारिज कर दिया. इससे एशले को बड़ी राहत मिली है. अमेरिकी अदालत से भारतीय मूल के विशेषज्ञ एशले को बड़ी राहत; जासूसी कानून का मामला खारिज, जानें सबकुछ।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -422,6 +368,24 @@
       }
     },
     {
+      "title": "'स्ट्रीट फ़ाइटर' से सीएम के पद तक: ममता बनर्जी क्या अब पुराने तेवर बरक़रार रख पाएंगी?",
+      "url": "https://www.bbc.com/hindi/articles/c62xwppqx97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-07T05:31:46+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7a2/live/238c88f0-488c-11f1-bcab-efc229dd9518.jpg",
+      "summary": "ममता बनर्जी को 'स्ट्रीट फ़ाइटर' माना जाता है जो सड़क पर छात्र राजनीति से संघर्ष कर सत्ता की दहलीज़ चढ़ी हैं. अब विपक्ष में बैठना होगा तो यह सवाल है कि क्या उनके पुराने तेवर बरक़रार रहेंगे.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'स्ट्रीट फ़ाइटर' से सीएम के पद तक: ममता बनर्जी क्या अब पुराने तेवर बरक़रार रख पाएंगी?",
+          "summary": "ममता बनर्जी को 'स्ट्रीट फ़ाइटर' माना जाता है जो सड़क पर छात्र राजनीति से संघर्ष कर सत्ता की दहलीज़ चढ़ी हैं. अब विपक्ष में बैठना होगा तो यह सवाल है कि क्या उनके पुराने तेवर बरक़रार रहेंगे.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "'ईरान पर हम हर स्थिति के लिए तैयार', इस्राइली पीएम नेतन्याहू बोले- ट्रंप से रोज हो रही बात",
       "url": "https://www.amarujala.com/world/we-are-prepared-for-any-situation-on-iran-israeli-pm-netanyahu-said-speaking-with-trump-daily-2026-05-07",
       "source": "Amar Ujala World",
@@ -436,6 +400,60 @@
           "title": "'ईरान पर हम हर स्थिति के लिए तैयार', इस्राइली पीएम नेतन्याहू बोले- ट्रंप से रोज हो रही बात",
           "summary": "इस्राइली पीएम नेतन्याहू ने कहा कि ईरान पर हम हर स्थिति के लिए तैयार हैं। वह अमेरिकी राष्ट्रपति ट्रंप से रोज बात कर रहे हैं। 'ईरान पर हम हर स्थिति के लिए तैयार', इस्राइली पीएम नेतन्याहू बोले- ट्रंप से रोज हो रही बात।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "विजय को सरकार बनाने के लिए क्यों नहीं बुला रहे हैं राज्यपाल, क्या कहता है संविधान?",
+      "url": "https://www.bbc.com/hindi/articles/cvgze3pz03wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-07T03:04:01+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d03/live/2ae9e250-49c2-11f1-9739-d3421ea39759.jpg",
+      "summary": "तमिलनाडु में एक्टर विजय की पार्टी टीवीके ने सरकार बनाने का दावा पेश किया है, लेकिन राज्यपाल ने उन्हें सरकार बनाने का न्योता नहीं दिया है. टीवीके राज्य में सबसे बड़ी पार्टी है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विजय को सरकार बनाने के लिए क्यों नहीं बुला रहे हैं राज्यपाल, क्या कहता है संविधान?",
+          "summary": "तमिलनाडु में एक्टर विजय की पार्टी टीवीके ने सरकार बनाने का दावा पेश किया है, लेकिन राज्यपाल ने उन्हें सरकार बनाने का न्योता नहीं दिया है. टीवीके राज्य में सबसे बड़ी पार्टी है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शुभेंदु अधिकारी के पीए की हत्या: बीजेपी नेता ने कहा 'सुनियोजित साज़िश', टीएमसी क्या बोली?",
+      "url": "https://www.bbc.com/hindi/articles/cvgzwnydmwmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-07T02:23:05+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e34b/live/bdcddba0-49b1-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "बीजेपी नेता शुभेंदु अधिकारी के निजी सहायक चंद्रनाथ रथ की हत्या कर दी गई. बीजेपी ने इसे 'सुनियोजित साज़िश' बताया है. बुधवार रात भारतीय जनता पार्टी (बीजेपी) नेता शुभेंदु अधिकारी के निजी सहायक चंद्रनाथ रथ की हत्या कर दी गई.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शुभेंदु अधिकारी के पीए की हत्या: बीजेपी नेता ने कहा 'सुनियोजित साज़िश', टीएमसी क्या बोली?",
+          "summary": "बीजेपी नेता शुभेंदु अधिकारी के निजी सहायक चंद्रनाथ रथ की हत्या कर दी गई. बीजेपी ने इसे 'सुनियोजित साज़िश' बताया है. बुधवार रात भारतीय जनता पार्टी (बीजेपी) नेता शुभेंदु अधिकारी के निजी सहायक चंद्रनाथ रथ की हत्या कर दी गई.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'लेखिका को फिलहाल हर्जाने की राशि लेने से रोकें', ट्रंप की सुप्रीम कोर्ट में अपील",
+      "url": "https://www.amarujala.com/world/trump-hoping-for-eventual-supreme-court-victory-seeks-to-halt-usd-83m-payment-in-abuse-case-2026-05-07",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-07T02:15:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/donald-trump_ac2d04f478d74d426c61ccbf0cccb8b6.jpeg?w=750&dpr=1.0",
+      "summary": "यौन शोषण-मानहानि मामले में लेखिका को हर्जाने की राशि देने के खिलाफ ट्रंप ने सुप्रीम कोर्ट में अपील की है. यौन शोषण-मानहानि मामला: 'लेखिका को फिलहाल हर्जाने की राशि लेने से रोकें', ट्रंप की सुप्रीम कोर्ट में अपील।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'लेखिका को फिलहाल हर्जाने की राशि लेने से रोकें', ट्रंप की सुप्रीम कोर्ट में अपील",
+          "summary": "यौन शोषण-मानहानि मामले में लेखिका को हर्जाने की राशि देने के खिलाफ ट्रंप ने सुप्रीम कोर्ट में अपील की है. यौन शोषण-मानहानि मामला: 'लेखिका को फिलहाल हर्जाने की राशि लेने से रोकें', ट्रंप की सुप्रीम कोर्ट में अपील।",
+          "region": "अमेरिका"
         }
       }
     },
@@ -476,50 +494,37 @@
       }
     },
     {
-      "title": "ईरान युद्ध से जुड़ रहे ट्रंप के हमलावर के तार, एफबीआई खंगाल रही आरोपी का डिजिटल रिकॉर्ड",
-      "url": "https://www.amarujala.com/world/donald-trump-white-house-attack-plot-iran-war-motive-cole-allen-fbi-investigation-2026-05-07",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-06T22:35:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/donald-trump_7c7f9a405ddcd2ee2381dcf8f6958553.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी पूर्व राष्ट्रपति डोनाल्ड ट्रम्प के हमलावर के ईरान युद्ध से जुड़े तारों की जांच एफबीआई कर रही है। आरोपी का डिजिटल रिकॉर्ड खंगाला जा रहा है। हमलावर की पहचान कोल एलन के रूप में हुई है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान युद्ध से जुड़ रहे ट्रंप के हमलावर के तार, एफबीआई खंगाल रही आरोपी का डिजिटल रिकॉर्ड",
-          "summary": "अमेरिकी पूर्व राष्ट्रपति डोनाल्ड ट्रम्प के हमलावर के ईरान युद्ध से जुड़े तारों की जांच एफबीआई कर रही है। आरोपी का डिजिटल रिकॉर्ड खंगाला जा रहा है। हमलावर की पहचान कोल एलन के रूप में हुई है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "रूस-यूक्रेन में फिर बढ़ा तनाव, एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई मौतें",
-      "url": "https://www.amarujala.com/world/russia-ukraine-war-ceasefire-drone-attacks-putin-zelenskyy-crimea-europe-response-2026-05-07",
-      "source": "Amar Ujala World",
-      "sources": [
-        {
-          "url": "https://www.amarujala.com/world/russia-ukraine-war-ceasefire-drone-attacks-putin-zelenskyy-crimea-europe-response-2026-05-07",
-          "source": "Amar Ujala World"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUZtSlh3MGlZRE5oa1hvNHNxTlVoNG9FWlItaHdtT2MyX19laUhrbXNDbWw0UkFOc0Nkd2F4aFQ5eXNxSGZHNVZCYVNRaGR5UXNMZzA1a0ZraGJZbW1keE5DU3JSOVVDRFJ0cXlGSk41aUhMeU9MX1c5X1R3MFN1SElERnFHNXlNelV4bXZBYTNTLWF0Yl9CWlNuNERMR3R2OGU4TDJLSXdkYVNmNEZXMnNmMVE4ZHVUOFNuTWxDaE5Md9IBxwFBVV95cUxPN3VOZHg2bnVtSUtvbGtiUlZVbmxWZjExNFp6a1VSbW1Vem9kMEdldWI5U1pWa1oyYmRMcGVaa1JMRndLMDV5bWxXQUVOc0MtVEJ1SjlVUHRNS2xaX0luVUNTM0M1OTh3c0hRWDlpZXJrWkRlLTNiSm40UVlXYURTb2oyNEJIcWdDbTBzbW5zUGJDMV9yRndpck9XdGRhMDRUaXJwZldILXlvUFFCdW5HZzlVWXNTRHdWbHdXU2FEOGRWRjFxSjY4?oc=5",
-          "source": "Google News Hindi (युद्ध संघर्ष)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUZtSlh3MGlZRE5oa1hvNHNxTlVoNG9FWlItaHdtT2MyX19laUhrbXNDbWw0UkFOc0Nkd2F4aFQ5eXNxSGZHNVZCYVNRaGR5UXNMZzA1a0ZraGJZbW1keE5DU3JSOVVDRFJ0cXlGSk41aUhMeU9MX1c5X1R3MFN1SElERnFHNXlNelV4bXZBYTNTLWF0Yl9CWlNuNERMR3R2OGU4TDJLSXdkYVNmNEZXMnNmMVE4ZHVUOFNuTWxDaE5Md9IBxwFBVV95cUxPN3VOZHg2bnVtSUtvbGtiUlZVbmxWZjExNFp6a1VSbW1Vem9kMEdldWI5U1pWa1oyYmRMcGVaa1JMRndLMDV5bWxXQUVOc0MtVEJ1SjlVUHRNS2xaX0luVUNTM0M1OTh3c0hRWDlpZXJrWkRlLTNiSm40UVlXYURTb2oyNEJIcWdDbTBzbW5zUGJDMV9yRndpck9XdGRhMDRUaXJwZldILXlvUFFCdW5HZzlVWXNTRHdWbHdXU2FEOGRWRjFxSjY4?oc=5",
-          "source": "Google News Hindi (युद्ध संघर्ष)"
-        }
-      ],
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUZtSlh3MGlZRE5oa1hvNHNxTlVoNG9FWlItaHdtT2MyX19laUhrbXNDbWw0UkFOc0Nkd2F4aFQ5eXNxSGZHNVZCYVNRaGR5UXNMZzA1a0ZraGJZbW1keE5DU3JSOVVDRFJ0cXlGSk41aUhMeU9MX1c5X1R3MFN1SElERnFHNXlNelV4bXZBYTNTLWF0Yl9CWlNuNERMR3R2OGU4TDJLSXdkYVNmNEZXMnNmMVE4ZHVUOFNuTWxDaE5Md9IBxwFBVV95cUxPN3VOZHg2bnVtSUtvbGtiUlZVbmxWZjExNFp6a1VSbW1Vem9kMEdldWI5U1pWa1oyYmRMcGVaa1JMRndLMDV5bWxXQUVOc0MtVEJ1SjlVUHRNS2xaX0luVUNTM0M1OTh3c0hRWDlpZXJrWkRlLTNiSm40UVlXYURTb2oyNEJIcWdDbTBzbW5zUGJDMV9yRndpck9XdGRhMDRUaXJwZldILXlvUFFCdW5HZzlVWXNTRHdWbHdXU2FEOGRWRjFxSjY4?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
       "published_at": "2026-05-06T22:17:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/24/nprsa-yakarana-yathathha_ff95c71ab0f358c3e0891ff201111929.jpeg?w=750&dpr=1.0",
-      "summary": "रूस और यूक्रेन के बीच तनाव फिर बढ़ गया है। एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई लोगों की मौत हो गई। रूसी राष्ट्रपति पुतिन और यूक्रेनी राष्ट्रपति ज़ेलेंस्की के बीच तनाव बढ़ रहा है।",
+      "image_url": "https://images.pexels.com/photos/6286877/pexels-photo-6286877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "रूस-यूक्रेन में तनाव बढ़ा है, एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई मौतें हुई हैं. Russia Ukraine War: रूस-यूक्रेन में फिर बढ़ा तनाव, एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई मौतें Amar Ujala।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "रूस-यूक्रेन में फिर बढ़ा तनाव, एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई मौतें",
-          "summary": "रूस और यूक्रेन के बीच तनाव फिर बढ़ गया है। एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई लोगों की मौत हो गई। रूसी राष्ट्रपति पुतिन और यूक्रेनी राष्ट्रपति ज़ेलेंस्की के बीच तनाव बढ़ रहा है।",
+          "summary": "रूस-यूक्रेन में तनाव बढ़ा है, एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई मौतें हुई हैं. Russia Ukraine War: रूस-यूक्रेन में फिर बढ़ा तनाव, एकतरफा संघर्ष विराम के बीच रातभर हुए हमलों में कई मौतें Amar Ujala।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप ने समर्थकों को दिया भरोसा, कहा- जल्द सुलझ जाएगा ईरान विवाद; कुवैत में ड्रोन हमला",
+      "url": "https://www.amarujala.com/live/world/west-asia-live-updates-us-iran-ceasefire-strait-of-hormuz-islamabad-talks-trump-israel-lebanon-news-in-hindi-2026-05-07",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-06T20:13:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/20/west-asia-crisis-iran-war_67ef754ce190874b8d733e70f7ef2f39.gif?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने समर्थकों को भरोसा दिया है कि ईरान विवाद जल्द सुलझ जाएगा. उन्होंने अमेरिका की कार्रवाई का बचाव किया और कहा कि वह स्थिति पर नजर रख रहे हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप ने समर्थकों को दिया भरोसा, कहा- जल्द सुलझ जाएगा ईरान विवाद; कुवैत में ड्रोन हमला",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने समर्थकों को भरोसा दिया है कि ईरान विवाद जल्द सुलझ जाएगा. उन्होंने अमेरिका की कार्रवाई का बचाव किया और कहा कि वह स्थिति पर नजर रख रहे हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -538,24 +543,6 @@
         "hi": {
           "title": "ईरान युद्ध के बीच बदलते गठबंधनों से भारत की कूटनीति पर बढ़ा दबाव - बिजनेस स्टैंडर्ड",
           "summary": "ईरान युद्ध के बीच बदलते गठबंधनों से भारत की कूटनीति पर दबाव बढ़ा है. भारत को अपनी विदेश नीति को संभालने के लिए चुनौतियों का सामना करना पड़ रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान को ट्रंप की दो टूक- होर्मुज जलडमरुमध्य न खोला गया तो और बमबारी होगी",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYmtVd21XQzhqcnM5amdsTUExNTI5QjR3TGZadVJQbkFEMmVCazlCR3VDd0NVdFZIT08wSGV4ampVMkNqaE9WZ0pfNFJxUVJSSWpYdXdOTkN6bGhueURLRHcwNnAtTjFJcUo5RkloSEYxdHVDUmcybWlUWGpGZWVGcDlMVnZabWxmaTNGT28wYkhSN2REUDdXT0ItNWtpQUdPSzdjcUNfLWhDN1NXLTNVZm5ncjc5MHFtME5udnU0aVR3UW1UeEc1ek1IVHBBT3NJNTFKeFdqczVjMkZkWFlSNjBkUmNlZWFnc2l4U29n?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-06T14:04:49+00:00",
-      "image_url": "https://images.pexels.com/photos/14136542/pexels-photo-14136542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ट्रंप ने ईरान को होर्मुज जलडमरुमध्य खोलने की चेतावनी दी है। US-Iran Conflict: ईरान को ट्रंप की दो टूक- होर्मुज जलडमरुमध्य न खोला गया तो और बमबारी होगी Dainik Tribune।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान को ट्रंप की दो टूक- होर्मुज जलडमरुमध्य न खोला गया तो और बमबारी होगी",
-          "summary": "ट्रंप ने ईरान को होर्मुज जलडमरुमध्य खोलने की चेतावनी दी है। US-Iran Conflict: ईरान को ट्रंप की दो टूक- होर्मुज जलडमरुमध्य न खोला गया तो और बमबारी होगी Dainik Tribune।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -633,20 +620,20 @@
       }
     },
     {
-      "title": "अगले संयुक्त राष्ट्र प्रमुख के लिए महिला उम्मीदवार का चीन ने किया समर्थन, चयन प्रक्रिया शुरू",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3NhUGtNVVlycm5rd09aLWxQaXpvemxFRnN4VmlDX0pXczZEUnltUmdjZ21UbmFNYUFNRVlINlktZ2dCeGJ4ZGlzYllDUnFGZXFCQUNKa3E2SXptMmRheGNOZElRbndNNF9XOUpKYlJBWUNvNU9iMmxTYkI2V0ppV3QweGlFdnNxV0tqbkM3NjUxYjVxUTdRX1NGRG8zamNyMG5IWDd4bHBaRHctTFF0dVN1dmxGTzNi0gG-AUFVX3lxTE95eHVZSGhUUWZ0VzJlTGlmdlc5WjhpMWpsREJudWI1YkZuaE81V1VTWWd2YURrSzlvUEtIcFl5Y0szaTFBdGo4WllRQkMxeUlCbXM2YnhfN2tqRDlVSkZoV2Nwam1fRzlpSXRLVTZkVFBtUFh1X3RNSlp3a0hDUFJwa3ZZTEYwUG9KUFlxcHpXXzZrQjZPVVkyUV9LanRieUkwZ0lMa3oxOFlsRXdyTmVTNnd3RGNqWGxxNGFpSEE?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "हमारी क्षमता और इरादे दोनों का संकेत, कूटनीति का एक महत्वपूर्ण पाठ भी",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2pKNnFrU3RxWWo0ZkRRallPc25peXpBekV4dGs5YXFGNktFUXpCTU9McTI0UW5DbFVBQTdZZUdicVktN3BTbHRFT1lwcWdBeU90WHp6cUZhNktIS3lkWm56dzZNcHlrdW9lU3h0eFVYNnZQU0VQV2VIUUtXd2U2Z3VEa1hRMTlIMnk2SlpyLTlYY0xxaG1ZaXRpSWhuYzM5TkZab28ySnBuRDJRTFlZRWRCc3l6MHpSdUpPeTRkUDhTbjdhTHFFaDczZXZtQWYwUXNVeNIB2gFBVV95cUxONGxUZ3E2eHA1QjdmZmNyRVE3R1JGTU05eTN4VEJiU3RYT29zanZmM0FIM25hSXJ1ZUdWRjJBNTkzaXJEelZoNjQzSXhOcUtjQ2RzZHZMNUUwUERjVl9Ed3FKQnpFTnpIMjZIWE1vYnJZLVEyaThkUjdHV0ZQUkxtUTRWMEVjcFZyazREZ0F4WEdmYmlobVhzQkdiX0xrQXhBSFVaRFk4VEt3RXhBMlpWMjJyUHdpUGtWQ1YwQ1RHSU9DUUI0M3htbDhWemlYZ0VqZVZWSVRZeXhpdw?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
       "sources": [],
-      "published_at": "2026-05-05T04:56:34+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "चीन ने संयुक्त राष्ट्र प्रमुख के लिए एक महिला उम्मीदवार का समर्थन किया है। चयन प्रक्रिया शुरू हो गई है। UN: अगले संयुक्त राष्ट्र प्रमुख के लिए महिला उम्मीदवार का चीन ने किया समर्थन, चयन प्रक्रिया शुरू Amar Ujala।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-06T01:02:37+00:00",
+      "image_url": "https://images.pexels.com/photos/5425461/pexels-photo-5425461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत ने ऑपरेशन सिंदूर के माध्यम से अपनी सैन्य क्षमता और राजनीतिक इरादे का प्रदर्शन किया. यह घटना कूटनीतिक संबंधों में एक महत्वपूर्ण पाठ भी प्रदान करती है. ऑपरेशन सिंदूर भारत की शक्ति और जिम्मेदारी को दर्शाता है.",
+      "region": "Global / Multilateral",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अगले संयुक्त राष्ट्र प्रमुख के लिए महिला उम्मीदवार का चीन ने किया समर्थन, चयन प्रक्रिया शुरू",
-          "summary": "चीन ने संयुक्त राष्ट्र प्रमुख के लिए एक महिला उम्मीदवार का समर्थन किया है। चयन प्रक्रिया शुरू हो गई है। UN: अगले संयुक्त राष्ट्र प्रमुख के लिए महिला उम्मीदवार का चीन ने किया समर्थन, चयन प्रक्रिया शुरू Amar Ujala।",
-          "region": "एशिया-प्रशांत"
+          "title": "हमारी क्षमता और इरादे दोनों का संकेत, कूटनीति का एक महत्वपूर्ण पाठ भी",
+          "summary": "भारत ने ऑपरेशन सिंदूर के माध्यम से अपनी सैन्य क्षमता और राजनीतिक इरादे का प्रदर्शन किया. यह घटना कूटनीतिक संबंधों में एक महत्वपूर्ण पाठ भी प्रदान करती है. ऑपरेशन सिंदूर भारत की शक्ति और जिम्मेदारी को दर्शाता है.",
+          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     }
