@@ -1,34 +1,130 @@
 {
-  "generated_at": "2026-05-08T19:22:05.474186+00:00",
+  "generated_at": "2026-05-08T21:03:59.281447+00:00",
   "article_count": 42,
-  "total_unique_count": 246,
+  "total_unique_count": 249,
   "digest": {
-    "en": "US warships fired on tankers in the Middle East as Tehran accused Washington of 'reckless' attacks. A three-day Russia-Ukraine ceasefire was announced by Trump, starting immediately. Iran's seizure of an oil tanker in the Gulf of Oman added to regional tensions.",
-    "hi": "अमेरिका ने होर्मुज में ईरानी दादागिरी के खिलाफ कमर कस ली है। रुबियो ने इटली से समर्थन की अपील की है। ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया है।"
+    "en": "US President Trump says Russia and Ukraine have agreed to a three-day ceasefire and a prisoner swap. The development comes as NATO allies question US leadership after a recent war with Iran. US Secretary of State Mike Pompeo's counterpart in Italy is fielding questions on the topic.",
+    "hi": "पाकिस्तान को अंतर्राष्ट्रीय मुद्रा कोष (IMF) से ₹11 हजार करोड़ से अधिक का कर्ज मंजूर हुआ है। यह कर्ज विदेशी मुद्रा भंडार को बढ़ाने में मदद करेगा। रूस और यूक्रेन के बीच तीन दिन के युद्धविराम की घोषणा ट्रंप ने की है।"
   },
   "articles": [
     {
-      "title": "U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks",
-      "url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
-      "source": "NYT World",
+      "title": "Trump says Russia, Ukraine agree to his request for three-day ceasefire, prisoner swap",
+      "url": "https://www.thehindu.com/news/international/russia-ukraine-three-day-ceasefire-prisoner-swap-donald-trump-victory-day/article70957018.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-08T20:45:49+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/b3qia1/article70957021.ece/alternates/LANDSCAPE_1200/Russia_Victory_Day_Celebration__4579.jpg",
+      "summary": "President Donald Trump says Russia and Ukraine agreed to a three-day ceasefire and prisoner swap. President Donald Trump says the leaders of Russia and Ukraine have agreed to his request for a three-day ceasefire and an exchange of prisoners.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "NATO allies question US leadership after Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SNkIwOEc4TUVtdnlRZVAwTmhUVFRLN2NHMTU2SXZWSGNaWVZ0MnJBWEd5cW0wV0NxNHRtQmhzZnByS245d214VmNCaURMdEVzeTZrYV9lUlBFT3FteldxZGxnNzg5VmUtT2pWeEMzLXk3TW5kS0gyQmJR?oc=5",
+      "source": "Google News (NATO conflict)",
+      "sources": [],
+      "published_at": "2026-05-08T20:40:00+00:00",
+      "image_url": "https://images.pexels.com/photos/89112/pexels-photo-89112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "NATO allies question US leadership after the Iran war. NATO allies question US leadership after Iran war crypto. news.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Honeywell's Quantinuum makes US IPO filing public",
+      "url": "https://www.channelnewsasia.com/business/honeywells-quantinuum-makes-us-ipo-filing-public-6110451",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-08T20:16:27+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--4DU8TltP--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-08T201627Z_1_LYNXMPEM47197_RTROPTP_3_HONEYWELL-INTL-RESULTS.JPG?itok=LzXX5PMo",
+      "summary": "Quantinuum made its US IPO filing public. Honeywell's Quantinuum makes US IPO filing public.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. fires on 2 Iran-flagged tankers as Rubio says U.S. expects response on peace deal today",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmMzLVFDbWpCaVlOZFB6LUhDN3NMQl9hZ0VrRUxkRWRnWXZKbnBCR0FjZXRaUTBscDM3NnZaemdqcVMwYTFLa0ZvMVhOX202d2p1WWh5RUNMcEtEM1ozM1BVcE0wbENNd0pWeGItUUhwc1ktUElTNGZNMU1ZZGJqSWhXc2VnMEIzeEtVMDNQVdIBlAFBVV95cUxQU0xmeWl4aUpGZ0ROa2RLVkc0VmJia0tXczV0d0hrVXdfUVZ6ZEY2LWVmbFhVNUNwTlNvQ1lfanZ3aENZbmFUYzZvUERZQTJzN2JhNVhiQklzZTlXQW95T3d5anhybzdCVVFwTG00akM2bzJ0R0IwYk9rREJzTXNzVktLN0s1UjV6Q1FJZ09fZDNvVlJR?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-08T20:16:00+00:00",
+      "image_url": "https://images.pexels.com/photos/8553493/pexels-photo-8553493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US fired on two Iran-flagged tankers. Live Updates: U. S. fires on 2 Iran-flagged tankers as Rubio says U. S. expects response on peace deal today CBS News. U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tehran to respond to Trump’s peace plan as Vance holds urgent talks",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWttc0VTU2FsWGFXby1EakdDNHFTMHVJT2ZwaVBucDNtQ1IwRHBXTmJRMGZNQ3pFdllwcENaWUJlUWdPLTJfWDh2R09sQ0xpS0F0bko2bFdxWjBxVU8xdzRBSFVieVNqbGp5bkxNZy16R2x6MnZ2aldHTUlucHlDakFMODBGalp3eVNRVWZGdUpMOWd0dFhYdVQtc3kzZEFSSmdwTkQ4dFRvUlpsdGlCRVVVUTI0dnpVMXAxZFB4NXlla2VXU3c?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-08T19:57:35+00:00",
+      "image_url": "https://images.pexels.com/photos/16386082/pexels-photo-16386082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Tehran will respond to Trump's peace plan as Vance holds urgent talks. Iran-US war live: Tehran to respond to Trump’s peace plan as Vance holds urgent talks The Independent.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Drop in Gulf remittances puts families on edge",
+      "url": "https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
+      "sources": [],
+      "published_at": "2026-05-08T19:51:00+00:00",
+      "image_url": "https://static.dw.com/image/76258122_6.jpg",
+      "summary": "Pakistanis in the Gulf send money to support families with basic needs like food and education. For millions of households, money sent by Pakistani workers in the Gulf offers a lifeline, helping their families cover basic needs such as food and education.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US hopes for ‘serious offer’ from Iran today on latest proposal, despite exchange of strikes",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hY1V2RndJRnlvV0JZemVacUZmR3Q0dXY4U295YS1DS0VsNGcwYkxyelk4cTJfTzZsWjZ2ZnpMTG1oTWFlbUdRS2Rta3l0Sks3MlRYQXFEc0M2b3hlb3hZTnp3WktlZGdWZGtfZg?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-08T19:42:00+00:00",
+      "image_url": "https://images.pexels.com/photos/7468260/pexels-photo-7468260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "US President Trump confirmed a ceasefire with Iran remains in place following an exchange of fire between the two countries. The situation escalated tensions, but Trump maintained that the ceasefire agreement holds.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-08T19:20:23+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778267993.jpg?resize=1920%2C1080&quality=80",
+      "summary": "Al Jazeera's Obaida Hitto reports Israeli strikes on southern Lebanon from Tyre. Israel has increased its attacks across southern Lebanon. Al Jazeera’s Obaida Hitto reports from Tyre. Al Jazeera reporter witnesses Israeli strikes on Lebanon.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "sources": [
         {
-          "url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
-          "source": "NYT World"
+          "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDN1U0Q2SXBtOGNaeHpVc1BWQy1SMkdoNjJuSHRsdWM1bFJ3S3dYVk8xRkpqemtmZ3RwQUkzYlQ1RE9IUzlnSk5WTk55ekU3dlZrT1hJNlVSR09qR0JYZjdELWVDMk1ocks4SGZaWDJsZXRPU1JDM3I0U0NqcmV2dzhNVGVnSlJD?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TWFJhaWFrOW9JbEV1T0F2OTl5RW9tQTR1Ql9xX3hyTk5JbF85NGY4dlFPdS1lWDVFSG1ONGR3eGpXYjFjRDJxQ2pQSl9ZWDJteFZGQTVRSlc5Zw?oc=5",
           "source": "Google News (war ceasefire)"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDN1U0Q2SXBtOGNaeHpVc1BWQy1SMkdoNjJuSHRsdWM1bFJ3S3dYVk8xRkpqemtmZ3RwQUkzYlQ1RE9IUzlnSk5WTk55ekU3dlZrT1hJNlVSR09qR0JYZjdELWVDMk1ocks4SGZaWDJsZXRPU1JDM3I0U0NqcmV2dzhNVGVnSlJD?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TWFJhaWFrOW9JbEV1T0F2OTl5RW9tQTR1Ql9xX3hyTk5JbF85NGY4dlFPdS1lWDVFSG1ONGR3eGpXYjFjRDJxQ2pQSl9ZWDJteFZGQTVRSlc5Zw?oc=5",
           "source": "Google News (war ceasefire)"
         }
       ],
-      "published_at": "2026-05-08T19:08:50+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08live-mideast-header-vblw-promo/08live-mideast-header-vblw-mediumSquareAt3X.jpg",
-      "summary": "The United States attacked Iranian targets after strikes on American ships, despite a proposed peace plan. The United States said it had attacked Iranian military targets in response to strikes on American ships.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-08T18:59:58+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2140/live/997dd690-4ad0-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "Donald Trump announced a three-day ceasefire between Russia and Ukraine. It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -45,6 +141,18 @@
       "translations": {}
     },
     {
+      "title": "UAE Reports New Strikes As US-Iran Ceasefire Hangs By Thread",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-ceasefire-violation-donald-trump-abbas-araghchi-tehran-peace-proposal-strait-of-hormuz-11465293#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-08T18:31:46+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/q00m3e44_iran-war-news_625x300_08_May_26.jpeg",
+      "summary": "The UAE reported new strikes as a US-Iran ceasefire hangs in balance. US-Iran War Live Updates:. UAE Reports New Strikes As US-Iran Ceasefire Hangs By Thread.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Rubio questions allies' support on Iran following Italy talks",
       "url": "https://www.channelnewsasia.com/world/rubio-italy-meloni-europe-allies-iran-us-war-6110266",
       "source": "Channel News Asia",
@@ -57,23 +165,22 @@
       "translations": {}
     },
     {
+      "title": "US awaiting response from Iran over proposals for ceasefire deal, says Rubio",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVkwelMtbEU0cDlZQTdoZVBVRU5NSE5ta2JZejN3RlE1NU5IWE9fNTIwVXcxbWhSalJhRTlRMS1tMldva0xMRFF4SVZIMVJNamhaa2Zhd2o0WnhBZVJJc2I5bVhTeTVtR1MtUmpyZnhlX3NGbF9rWXBzblZ2YlFGSlFZZC1xMkNqY0VTRTBpOU9UMnVtdGcwLWVJcTE1NURt?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-08T18:16:00+00:00",
+      "image_url": "https://images.pexels.com/photos/35710201/pexels-photo-35710201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US awaits Iran's response to proposals for a ceasefire deal, says Rubio. US awaiting response from Iran over proposals for ceasefire deal, says Rubio The Guardian.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
       "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "sources": [
-        {
-          "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
-          "source": "Al Jazeera"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYThYU2s5TjRVLWdTU2YxYjVsenBIS05TNFBrbDBYTU5hOWYzMzhwUldpQkhLTXJNSkN1eTBPbWJ6NVpFbzNFOFRYMmNnLTRVT0l5Z1pUVUxYWjVtWUFkd3ZwSUpiVmM0U0h5d0d2OGc2bHpxalZJWXozUGo0NXFoN195aHhYUmNpb216eVpybDlleEZCeWN0dG9waHpGZw?oc=5",
-          "source": "Google News (war ceasefire)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYThYU2s5TjRVLWdTU2YxYjVsenBIS05TNFBrbDBYTU5hOWYzMzhwUldpQkhLTXJNSkN1eTBPbWJ6NVpFbzNFOFRYMmNnLTRVT0l5Z1pUVUxYWjVtWUFkd3ZwSUpiVmM0U0h5d0d2OGc2bHpxalZJWXozUGo0NXFoN195aHhYUmNpb216eVpybDlleEZCeWN0dG9waHpGZw?oc=5",
-          "source": "Google News (war ceasefire)"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-08T18:15:46+00:00",
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/08/AP25220769577011-1-1754901225.jpg?resize=1200%2C630",
       "summary": "US President Trump announced a three-day ceasefire in the Russia-Ukraine war, including a swap of 1,000 prisoners of war from each country. Truce will also include swap of 1,000 prisoners of war from each country, US president says.",
@@ -82,25 +189,61 @@
       "translations": {}
     },
     {
-      "title": "Amazon's Chile Data Centre To Be Built As Residents Lose Green Challenge",
-      "url": "https://www.ndtv.com/world-news/amazon-chile-data-centre-to-be-built-as-residents-lose-green-challenge-11469289#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
+      "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
       "sources": [],
-      "published_at": "2026-05-08T18:05:22+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/a9a9sbcc_aws_625x300_08_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "summary": "Amazon's data centre in Chile will proceed despite local residents' environmental concerns. AWS plans to invest over $4 billion in Chile over 15 years. In Chile overall, AWS has said it will invest more than $4 billion over the next 15 years.",
-      "region": "Americas",
+      "published_at": "2026-05-08T18:07:49+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fe1902695d-1778260226.jpg?resize=1920%2C1440",
+      "summary": "ASEAN leaders have adopted measures to ease economic pain caused by the Iran war. The bloc imports over half its crude oil from the Middle East, making it vulnerable to price shocks.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "US hopes for ‘serious offer’ from Iran today on latest proposal, despite exchange of strikes",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hY1V2RndJRnlvV0JZemVacUZmR3Q0dXY4U295YS1DS0VsNGcwYkxyelk4cTJfTzZsWjZ2ZnpMTG1oTWFlbUdRS2Rta3l0Sks3MlRYQXFEc0M2b3hlb3hZTnp3WktlZGdWZGtfZg?oc=5",
-      "source": "Google News (war ceasefire)",
+      "title": "Three hikers 'creating online content' killed on active volcano after 'ignoring safety warnings'",
+      "url": "https://news.sky.com/story/mount-dukono-erupts-three-hikers-creating-online-content-killed-on-indonesia-volcano-13541659",
+      "source": "Sky News World",
       "sources": [],
-      "published_at": "2026-05-08T18:05:00+00:00",
-      "image_url": "https://images.pexels.com/photos/7468260/pexels-photo-7468260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "US President Trump confirmed a ceasefire with Iran remains in place following an exchange of fire between the two countries. The situation escalated tensions, but Trump maintained that the ceasefire agreement holds.",
+      "published_at": "2026-05-08T17:59:00+00:00",
+      "image_url": "https://e3.365dm.com/26/05/1920x1080/skynews-volcano-indonesia_7242897.jpg?20260508185843",
+      "summary": "Three hikers were killed on an active volcano after ignoring safety warnings. They were attempting to create online content, despite clear warnings against the ascent. A volcanic eruption has killed three hikers \"driven by the desire to create online content\" after they defied safety warnings and attempted an ascent.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Greece examines mystery naval drone found in Ionian Sea",
+      "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-08T17:53:25+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b97/live/3324a260-4b03-11f1-b584-9d74bfad42dc.png",
+      "summary": "Greece is examining a mystery naval drone found in the Ionian Sea. The drone reportedly had explosives and could be linked to the Russia-Ukraine war or be of Ukrainian origin.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Before Hantavirus Outbreak, the MV Hondius Attracted ‘a Different Type of Traveler’",
+      "url": "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-08T17:43:11+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08int-cruise-travelers-kgbl/08int-cruise-travelers-kgbl-mediumSquareAt3X.jpg",
+      "summary": "The MV Hondius attracted a different type of traveler before the Hantavirus outbreak. Former passengers say the ship prioritized safety and was designed for wildlife expeditions. Former passengers on the MV Hondius say that the ship was made for wildlife expeditions and that the crew took safety very seriously.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Frustrated by Iran, Trump at last seizes enriched uranium – but from Venezuela",
+      "url": "https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-08T17:32:27+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/ba80fa731911031bf01ca9edea875a500b972e55/416_0_4165_3332/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=a029aa407695667bfbcea6590ec92dcc",
+      "summary": "The US has removed 13.5kg of uranium from a reactor in Caracas, Venezuela. This is a fraction of the 408kg held by Iran, and the move is seen as a response to Iran's nuclear activities.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -118,190 +261,16 @@
       "translations": {}
     },
     {
-      "title": "'Trying To Harm Our Exports': Iran Seizes Oil Tanker In Gulf Of Oman",
-      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-trying-to-harm-our-exports-iran-seizes-oil-tanker-in-gulf-of-oman-11468981#publisher=newsstand",
-      "source": "NDTV World",
+      "title": "Israeli airstrikes kill five in southern Lebanon as Hezbollah rockets hit open areas in Israel",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-08T16:43:40+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/ldmssr1s_hormuz-ships_625x300_24_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Iran seized an oil tanker in the Gulf of Oman, citing attempts to harm its exports. The seizure followed a clash between US and Iranian forces in the Strait of Hormuz.",
+      "published_at": "2026-05-08T16:33:57+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/6dzt3b/article70953663.ece/alternates/LANDSCAPE_1200/2026-04-08T172614Z_79253224_RC2PWJA4W5Y5_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS.JPG",
+      "summary": "Israeli airstrikes killed five people in southern Lebanon, while Hezbollah rockets hit open areas in Israel. Rubio says 'unacceptable' for Iran to control Hormuz. Israeli airstrikes kill five in southern Lebanon as Hezbollah rockets hit open areas in Israel.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
-    },
-    {
-      "title": "Iran turns bombed Karaj Bridge into a symbol of resistance",
-      "url": "https://www.thehindu.com/news/international/iran-turns-bombed-karaj-bridge-into-a-symbol-of-resistance/article70955647.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-08T16:21:29+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/6oqxzk/article70955726.ece/alternates/LANDSCAPE_1200/2026-04-03T084237Z_148671775_RC2IHKAK133G_RTRMADP_3_IRAN-CRISIS.JPG",
-      "summary": "Iran has transformed the bombed Karaj Bridge into a symbol of resistance. The bridge is on the B1 corridor, a key route through Tehran's northern and northwestern regions with large Azeri populations.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "6 killed, 13 injured as mortar shell hits civilian area in northwest Pakistan",
-      "url": "https://www.thehindu.com/news/international/6-killed-13-injured-as-mortar-shell-hits-civilian-area-in-northwest-pakistan/article70956699.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-08T16:20:45+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/muglcz/article70956741.ece/alternates/LANDSCAPE_1200/AFP_A6MX49F.jpg",
-      "summary": "A mortar shell hit a civilian area in northwest Pakistan's Hangu district, killing six and injuring 13 people. The incident occurred during a police operation against terrorists on May 7.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "No Symptomatic Hantavirus Cases On MV Hondius, Says Cruise Operator",
-      "url": "https://www.ndtv.com/health/exclusive-no-symptomatic-hantavirus-cases-on-mv-hondius-says-cruise-operator-11468847#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-08T16:11:53+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/3rq2sva8_mv-hondius_625x300_07_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The cruise operator of MV Hondius reported no symptomatic hantavirus cases on board. The ship had previously been affected by the virus. The hantavirus-stricken MV Hondius currently has no symptomatic patients.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "International cyber attack disrupts swathe of universities and schools",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "sources": [],
-      "published_at": "2026-05-08T16:04:01+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c9d/live/c19e8dd0-4ad1-11f1-92c1-4f69e4cb55db.jpg",
-      "summary": "A hacking group breached Canvas, academic software used by thousands of global schools and universities, disrupting operations. The cyber attack affected a swathe of educational institutions. A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "How real is a coup threat against Russia's president?",
-      "url": "https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-08T15:57:00+00:00",
-      "image_url": "https://static.dw.com/image/69061691_6.jpg",
-      "summary": "Vladimir Putin has increased security and reduced public appearances. Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.K. PM Starmer says he won’t step down after Labour’s losses",
-      "url": "https://www.thehindu.com/news/international/england-local-elections-labour-keir-starmer-reform-uk/article70954040.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-08T15:50:35+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/byd4/article70954725.ece/alternates/LANDSCAPE_1200/Britain_Elections_99_49.jpg",
-      "summary": "Keir Starmer refuses to step down after Labour's election losses. I’m not going to walk away and plunge the country into chaos, says Keir Starmer, as he acknowledged the results were ‘really tough’.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Canadian high school where deadly mass shooting occurred to be torn down",
-      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-08T15:40:07+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/0c892bf8b2cb3267e29cd3767fd18441133dd49b/125_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=6070020dc20ae06ae313f356a117b90d",
-      "summary": "The Tumbler Ridge secondary school in Canada, site of a February mass shooting that killed nine and injured dozens, will be torn down. Officials announced the decision after meetings with survivors, families, and community members.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Taiwan's Parliament approves $25 billion defence spending bill",
-      "url": "https://www.thehindu.com/news/international/taiwans-parliament-approves-25-billion-defence-spending-bill/article70956482.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-08T15:32:35+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/y7rfa6/article70956503.ece/alternates/LANDSCAPE_1200/2026-05-08T095533Z_38497732_RC2W4LATQAVP_RTRMADP_3_TAIWAN-DEFENCE.JPG",
-      "summary": "Taiwanese lawmakers approved a $25 billion defence spending bill, ending a long-standing dispute over how much to spend on improving capabilities against a potential attack by China, which claims Taiwan is part of its territory and has threatened to seize it forcibly.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Four Men Found Guilty of Haiti President’s Assassination",
-      "url": "https://www.nytimes.com/2026/05/08/world/americas/haiti-president-assassination-four-men-charged.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-05-08T15:14:15+00:00",
-      "image_url": "https://static01.nyt.com/images/2025/10/22/multimedia/00int-haiti-verdict-hfo-2/00int-haiti-verdict-hfo-2-mediumSquareAt3X.jpg",
-      "summary": "Four men have been found guilty of assassinating Haitian President Jovenel Moïse in July 2021. Moïse's killing sparked a years-long wave of gang violence and chaos in Haiti. President Jovenel Moïse, 53, was gunned down in his bedroom in July 2021.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US Releases Fresh UFO Evidence After Years Of Secrecy",
-      "url": "https://www.ndtv.com/world-news/new-ufo-files-released-by-pentagon-what-we-know-so-far-11468111#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-08T15:12:48+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/gf09om2g_ufo-files_625x300_08_May_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The US Department of War released fresh UFO evidence after years of secrecy, with additional files to be released on a rolling basis. Additional files will be released by the Department of War on a rolling basis.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Two Indian nationals onboard hantavirus-hit ship asymptomatic, under observation: Health Ministry",
-      "url": "https://www.thehindu.com/sci-tech/health/indian-nationals-part-of-crew-of-luxury-cruise-ship-that-reported-hantavirus-outbreak/article70954019.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-08T15:05:38+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/e6sw4d/article70956084.ece/alternates/LANDSCAPE_1200/AFP_A9X337Q.jpg",
-      "summary": "Two Indian nationals on a ship with hantavirus cases are asymptomatic and under observation. Eight probable cases of hantavirus infection have been reported onboard the vessel. According to WHO, the virus involved is the Andes strain of hantavirus, which is known to have limited capability of human-to-human transmission Three deaths have also been reported.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor",
-      "url": "https://www.ndtv.com/world-news/operation-sindoor-india-china-pakistan-for-1st-time-china-confesses-on-site-tech-support-to-pak-during-op-sindoor-11468095#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-08T15:03:13+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/b32mefpo_j10ce-fighter-jet-pakistan-_625x300_08_May_26.jpeg",
-      "summary": "China sent experts to Pakistani air bases during Operation Sindoor, with 81 per cent of Pakistan's military hardware being Chinese. An overwhelming 81 per cent of Pakistan's military hardware is of Chinese origin.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "No Russian Interest in Expanding the Confrontation with the West",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjNRZ01qZGlJZTVyeFF0YUlzXzFLbFFvMnFGLUp3dEs3aFRLRi14VHlpZDV2Q0xvOGs2VDkzYUlRSjR2dzRnMUJ4cmZjQWM3ZGh5N2tsTXNzLVRqd1dXUDJZdHVhLXVfSDExaVVtV1B4NnRQWC14R1BUQmJBd0xtMzdneG9CUngzaC16N3VsUk5JSVNOblc1RA?oc=5",
-      "source": "Google News (international relations)",
-      "sources": [],
-      "published_at": "2026-05-08T15:00:33+00:00",
-      "image_url": "https://images.pexels.com/photos/12900778/pexels-photo-12900778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Vasif Huseynov, a Hungarian Conservative, stated that Russia has no interest in expanding its confrontation with the West, in an interview. No Russian Interest in Expanding the Confrontation with the West.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "होर्मुज में ईरानी दादागिरी के खिलाफ अमेरिका ने कसी कमर, रुबियो ने इटली से की समर्थन की अपील",
-      "url": "https://www.amarujala.com/live/world/west-asia-war-live-updates-israel-iran-us-strait-of-hormuz-2026-05-09",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-09T07:09:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/west-asia-crisis_add79c931ed9c9e1fb53c750469f15b3.gif?w=750&dpr=1.0",
-      "summary": "अमेरिका ने होर्मुज में ईरानी गतिविधियों के खिलाफ कमर कस ली है। सीनेटर रुबियो ने इटली से सैन्य समर्थन की अपील की है। यह विकास पश्चिम एशिया में तनाव के बीच हुआ है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज में ईरानी दादागिरी के खिलाफ अमेरिका ने कसी कमर, रुबियो ने इटली से की समर्थन की अपील",
-          "summary": "अमेरिका ने होर्मुज में ईरानी गतिविधियों के खिलाफ कमर कस ली है। सीनेटर रुबियो ने इटली से सैन्य समर्थन की अपील की है। यह विकास पश्चिम एशिया में तनाव के बीच हुआ है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
     },
     {
       "title": "IMF ने पाकिस्तान को दी राहत: ₹11 हजार करोड़ से अधिक का कर्ज मंजूर, विदेशी मुद्रा भंडार को मिलेगा",
@@ -327,7 +296,7 @@
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-09T06:31:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/us-iran-israel-war-donald-trump_f72f7dd89ad1b3b3613d692c4632838f.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/russia-ukraine-war-trump-announce-3-day-ceasefire-between-russia-ukraine-1000-prisoners-each-to-be_e709a0dd13acccc0056053a2aeb24013.jpeg?w=750&dpr=1.0",
       "summary": "डोनाल्ड ट्रंप ने रूस-यूक्रेन के बीच तीन दिन के युद्धविराम की घोषणा की है। इसके तहत, दोनों पक्षों के 1000-1000 कैदियों की अदला-बदली होगी। रूस-यूक्रेन के बीच तीन दिन के युद्धविराम का ट्रंप ने किया एलान, 1000-1000 कैदियों की होगी अदला-बदली।",
       "region": "Europe & Russia",
       "language": "hi",
@@ -336,6 +305,24 @@
           "title": "रूस-यूक्रेन के बीच तीन दिन के युद्धविराम का ट्रंप ने किया एलान, 1000-1000 कैदियों की होगी अदला-बदली",
           "summary": "डोनाल्ड ट्रंप ने रूस-यूक्रेन के बीच तीन दिन के युद्धविराम की घोषणा की है। इसके तहत, दोनों पक्षों के 1000-1000 कैदियों की अदला-बदली होगी। रूस-यूक्रेन के बीच तीन दिन के युद्धविराम का ट्रंप ने किया एलान, 1000-1000 कैदियों की होगी अदला-बदली।",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज में ईरानी दादागिरी के खिलाफ अमेरिका ने कसी कमर; तेहरान में इंटरनेट बैन के 70 दिन पूरे",
+      "url": "https://www.amarujala.com/live/world/west-asia-war-live-updates-israel-iran-us-strait-of-hormuz-2026-05-09",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-08T20:49:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/west-asia-crisis_add79c931ed9c9e1fb53c750469f15b3.gif?w=750&dpr=1.0",
+      "summary": "अमेरिका ने होर्मुज में ईरानी गतिविधियों के खिलाफ कमर कस ली है। सीनेटर रुबियो ने इटली से सैन्य समर्थन की अपील की है। यह विकास पश्चिम एशिया में तनाव के बीच हुआ है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज में ईरानी दादागिरी के खिलाफ अमेरिका ने कसी कमर; तेहरान में इंटरनेट बैन के 70 दिन पूरे",
+          "summary": "अमेरिका ने होर्मुज में ईरानी गतिविधियों के खिलाफ कमर कस ली है। सीनेटर रुबियो ने इटली से सैन्य समर्थन की अपील की है। यह विकास पश्चिम एशिया में तनाव के बीच हुआ है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -358,20 +345,20 @@
       }
     },
     {
-      "title": "सिंधु संधि पर पाकिस्तान की नई पैंतरबाजी, संयुक्त राष्ट्र सुरक्षा परिषद में पहुंचा, जल संकट का हवाला",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYW50V0xMTnNWSkVOZ0Z0YThjUXZveU53UUl0aWJpeXhHRjM4ajQzSGlpZEptSG5UY21qMXhkdW1qeEVyU2w3QlB6ZW1keEtRaG5QNXNpTEhBTk1lbmVDa2p6Rjhmd1cyNE9lQVRSZ2dyamdFbmhQSUF4UFJheElvM1Y3ODVZZUxjdGlOZzRneWY3bEFNb3o3TkdldXR2LVFpZGlKLWg2dXhFUFl4Z2J2d0NIUlZGRl9zS3hKQW5QaWFkeUg0UzJDSmlGWVNEVzNkSUM2TmMtUHlRRUgyaGJ1eG9IRThZNU9HbDFuN0E2VkwxSXB2RzlsSDJNcWNpSnV3ajNidmNwWTTSAY4CQVVfeXFMTW5ldy1OTWg5bG1pZC0ta19EYW9qY0RhaWZSVVUwV3pQZ1pwblpNdUtrYWFmUG93QnJTM3dxTC1nRGswbzdvNGdLQ1RUOHpRdmFaenJxLUY3S3Fld080Ukt1NmNmS3JfSVRoeG9wVE8tRWdyOElyYm9ZMVQxbGxucGxqNS1qTlMzYmE4X3VlLXdRSGFsbjl1ZWRIc0JXUjhqZ3YySll0cjVTVXo3aHRlU2ZVQkF2eklVRWVhbGZFU0NmSG1QTDZrWGVDaDJzRUM5eEtYZE0yYU9mc1NSY05iVl9ualdyZ2FIUmV2VTdPdXlzMzVjVFhmaVR2SzJ5QUxZc3I0TEwybzVNYkFJRDNn?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "विजय ने राज्यपाल से तीसरी बार की मुलाक़ात, सरकार बनाने का दावा किया पेश",
+      "url": "https://www.bbc.com/hindi/articles/cy720g2j84po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-08T13:55:34+00:00",
-      "image_url": "https://images.pexels.com/photos/8771003/pexels-photo-8771003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पाकिस्तान ने सिंधु संधि पर संयुक्त राष्ट्र सुरक्षा परिषद में जल संकट का हवाला दिया। IWT: सिंधु संधि पर पाकिस्तान की नई पैंतरबाजी, संयुक्त राष्ट्र सुरक्षा परिषद में पहुंचा, जल संकट का हवाला देकर लगाई गुहार Navbharat Times।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-08T15:40:17+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d097/live/08b33470-4aee-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "तमिलनाडु में टीवीके चीफ़ विजय ने राज्यपाल राजेंद्र अर्लेकर से मुलाक़ात कर सरकार बनाने का दावा पेश किया. यह उनकी राज्यपाल से तीसरी मुलाक़ात थी. विजय की पार्टी ने सरकार बनाने के लिए दावा पेश किया है.",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सिंधु संधि पर पाकिस्तान की नई पैंतरबाजी, संयुक्त राष्ट्र सुरक्षा परिषद में पहुंचा, जल संकट का हवाला",
-          "summary": "पाकिस्तान ने सिंधु संधि पर संयुक्त राष्ट्र सुरक्षा परिषद में जल संकट का हवाला दिया। IWT: सिंधु संधि पर पाकिस्तान की नई पैंतरबाजी, संयुक्त राष्ट्र सुरक्षा परिषद में पहुंचा, जल संकट का हवाला देकर लगाई गुहार Navbharat Times।",
-          "region": "एशिया-प्रशांत"
+          "title": "विजय ने राज्यपाल से तीसरी बार की मुलाक़ात, सरकार बनाने का दावा किया पेश",
+          "summary": "तमिलनाडु में टीवीके चीफ़ विजय ने राज्यपाल राजेंद्र अर्लेकर से मुलाक़ात कर सरकार बनाने का दावा पेश किया. यह उनकी राज्यपाल से तीसरी मुलाक़ात थी. विजय की पार्टी ने सरकार बनाने के लिए दावा पेश किया है.",
+          "region": "दुनिया"
         }
       }
     },
@@ -394,6 +381,42 @@
       }
     },
     {
+      "title": "तुर्की और इसराइल के बीच क्या सीधी जंग का ख़तरा है?",
+      "url": "https://www.bbc.com/hindi/articles/c3w2xew2326o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-08T10:55:09+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63ea/live/a37ddce0-4aca-11f1-b55d-0f258dce1735.jpg",
+      "summary": "तुर्की और इसराइल के बीच सीधे सैन्य संघर्ष का ख़तरा है. दोनों देशों के नेताओं बिन्यामिन नेतन्याहू और रेचेप तैय्यप अर्दोआन के बीच कड़े आलोचक रहे हैं. उनके बयानों से संघर्ष की संभावना जताई गई है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तुर्की और इसराइल के बीच क्या सीधी जंग का ख़तरा है?",
+          "summary": "तुर्की और इसराइल के बीच सीधे सैन्य संघर्ष का ख़तरा है. दोनों देशों के नेताओं बिन्यामिन नेतन्याहू और रेचेप तैय्यप अर्दोआन के बीच कड़े आलोचक रहे हैं. उनके बयानों से संघर्ष की संभावना जताई गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सभी विदेश नीति गतिविधियाँ स्थानीय हितों की ओर उन्मुख होनी चाहिए।",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFAwa3B0NkY0Nm5yQ3FoUHhzUVRwWmE5eUNsSEZ3SlNSX1FMcVN1dzZTWmpaTFlxdW54YXNCZXB3dWw0SkF5am1TVjF1N2ZjMkJ5SGNUQTJadnphQkRwWklxS3Z1X2EyWmRtVVlFYzlSOFpWdk15aWRTU1E4dDA5aUFkdFJoZDlqT0dEczhSY0NzaWRLVjNGY3Rkc2drX3MyalBkRVBycUh1TzBwSEo5U0lfTQ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-08T10:33:27+00:00",
+      "image_url": "https://images.pexels.com/photos/25310895/pexels-photo-25310895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विदेश नीति गतिविधियाँ स्थानीय हितों की ओर उन्मुख होनी चाहिए. यह बयान विकास के लिए कूटनीति पर जोर देता है. सभी गतिविधियों का उद्देश्य स्थानीय हितों को बढ़ावा देना होना चाहिए.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सभी विदेश नीति गतिविधियाँ स्थानीय हितों की ओर उन्मुख होनी चाहिए।",
+          "summary": "विदेश नीति गतिविधियाँ स्थानीय हितों की ओर उन्मुख होनी चाहिए. यह बयान विकास के लिए कूटनीति पर जोर देता है. सभी गतिविधियों का उद्देश्य स्थानीय हितों को बढ़ावा देना होना चाहिए.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया, ट्रंप बोले- संघर्ष विराम जारी",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdnozZjlNNmhBM2cyTWVTZGMwMUprNHRXQlZjbE9hYkpSN0I4dXRJcUFKVG9qSWJCS3dYYnpXakZ4LVBtUmJ6cTdWUVVyRlNhMzFjNTdwUDhuTTJJQUFSS0lHMHg4TG1JVGZ0M2ZsUWdMUWU1QVpyZ2VjU0pZSTRqTVRhMTUzU1ItbVVrNE1vWjlSLTE1OWpNYzVhcmtPR2JNc3dWTnA1TTF5ZnFs0gGyAUFVX3lxTFB4a0xIcGNjREhZOURBdHV1RURMdUZ3b0EtWDdNRllWZlExOVdUUlRSOExGYXF0OUZqeUFFcXNEUVZySUtEN0FhSUZfZ21TeTItMHoxMDU5YVNqN091TGJ2a1NlelQ3bVRjU3RUUGN2ZGNzbjhYR3piN3VpQWZVTm1TS3R3NEZ1LVJBQnljMEtHMzIxanFXNzd5RERhbjNuSVo2MFZoTFpWQ1FSWlBVem9GbUE?oc=5",
       "source": "Google News Hindi (युद्ध संघर्ष)",
@@ -408,6 +431,96 @@
           "title": "ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया, ट्रंप बोले- संघर्ष विराम जारी",
           "summary": "ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया है। वहीं, अमेरिकी राष्ट्रपति ट्रंप ने संघर्ष विराम जारी रहने की बात कही है। US Iran war: ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया, ट्रंप बोले- संघर्ष विराम जारी Amar Ujala।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "यूनुस के खास तारिक रहमान के साथ, चीन अमेरिका भारत के बीच रहस्यमय कूटनीति, बांग्लादेश के चाणक्य हैं",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNc1JYUnBxbUg0dnZQVGZ2Q0ZmaE9QbHE1VHNRODZJdHhiTmQ5cnIzR1RwcHFJMTVSNVFsakdtd0VQcnpJaFhQNXgzTXZJek16elZCTEJNNDR0NHF6UVVDMlpjMFJIX281VWRUSE9HUnFFaEJINzZTMnJuWTN0V3MxZ2pqUU1LLVhpaEZUQ3hTNTFTSkxibFJoWk45eVVVd0xiVTJ2OXVEenE2RFRBZVg5aVV4TzF3cUhYMmZtbzVKMlpucUItNExOTmlFVDlLdXpZYVhpN1ZNeDNLQV9DdDdWN0dTNUdEV0QzUU42ZHdtSGJQMDI5ck82eGVPTHN0Y3JqQW5FN0gyVmE4WE1CSFBjSXZJcGjSAZoCQVVfeXFMT1QzdTRGenBKb2FTODBId25GYjVtNUFlX3JnOFlEakVjdGl2RmFaQVJLRlA0WVowSF9hckkza1dxZnVraVJ6SDRDaTFfWXFkRnV1cjdLWWFUTFRyMHhFeExRcEVKM25DcWRVOEhIOGpLdjhmMlhFeVE0TlI1djBTVzBPR3RoUnh3ZlN5NXhwMHpfaGZfblZzalFGXy13dVJPdEtqNzVoNmNvS21LcHNBVVFQTl8zdS1QQnYwTXZ0d05leVhQczhqX0hoWm05S3JweEY5NnRoTElxLXVwT1NLT2pkT3FxcjhLQ250T0plTXlxOHMzYWJRQkVXSXQ3ODdSbUxjNGFpUGxTdkV4dzJaQXpMcTlIQjlkMHhB?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-08T08:29:03+00:00",
+      "image_url": "https://images.pexels.com/photos/34481612/pexels-photo-34481612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "बांग्लादेश के नेता यूनुस के खास तारिक रहमान चीन, अमेरिका और भारत के बीच रहस्यमय कूटनीति में शामिल हैं. उन्हें बांग्लादेश का चाणक्य कहा जा रहा है. खलीलुर रहमान की भूमिका भी इसमें महत्वपूर्ण है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूनुस के खास तारिक रहमान के साथ, चीन अमेरिका भारत के बीच रहस्यमय कूटनीति, बांग्लादेश के चाणक्य हैं",
+          "summary": "बांग्लादेश के नेता यूनुस के खास तारिक रहमान चीन, अमेरिका और भारत के बीच रहस्यमय कूटनीति में शामिल हैं. उन्हें बांग्लादेश का चाणक्य कहा जा रहा है. खलीलुर रहमान की भूमिका भी इसमें महत्वपूर्ण है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "तमिलनाडु के राज्यपाल पर क्यों उठ रहे हैं सवाल?",
+      "url": "https://www.bbc.com/hindi/articles/c152v4lje2qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-08T08:00:04+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd0e/live/38822ce0-4ab4-11f1-bd52-e755d604ece4.jpg",
+      "summary": "तमिलनाडु के राज्यपाल राजेंद्र अर्लेकर पर सवाल उठ रहे हैं. उन्होंने सबसे बड़ी पार्टी के नेता एक्टर विजय को सरकार बनाने के लिए नहीं बुलाया. जानकारों का कहना है कि राज्यपाल नियमों को तोड़ रहे हैं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तमिलनाडु के राज्यपाल पर क्यों उठ रहे हैं सवाल?",
+          "summary": "तमिलनाडु के राज्यपाल राजेंद्र अर्लेकर पर सवाल उठ रहे हैं. उन्होंने सबसे बड़ी पार्टी के नेता एक्टर विजय को सरकार बनाने के लिए नहीं बुलाया. जानकारों का कहना है कि राज्यपाल नियमों को तोड़ रहे हैं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTi1jTThFNnVhMUp6ZzZ2NjVZNmNEMEF3WVBwUEwwOG9UMFA4NEtjQ3B5b1c5QlExMnNSdzdOcEI2eHh2QnZqYVY4Rm1HZHN2NHpCYnVIWkcwaGlhRDNhV1hIYTRmOXdSV0hoWHBNaWFCUzltdUw3RnpPWnFhM0pkb2lOMU16Vy1mZUZ2eWt5LVUzUVlNcXpVMWNLTmJfb2NaVTZhdHJGTkhiT3hzR0duX2RlUE5LbjVRVlVlNl9qWGV5Qi1tdXp2S3VUMWFDWDJYcWowa3lVOHRJUURq0gHiAUFVX3lxTFBmeDNoams3UFVrSW93eFVuNzBNUGl2R1JodVh6b19ZNU5SVXFtNEM2a2RsUWhCNHdmQzZROHIxbS15ODJwQm9DSXRSOXBWY3VnRG1FTkoyOVd4M3daWHhQRFBJRl8tM0I0UXhEYllBZ1dhcG1oRVY3S0szbFhxWVh5d2NLTm5sME94SmM4ZVVodThvVGw1SjNocTNob05lUUpsN1Vqb1d2Y1JBVUVvSWZIYjFfcmtmZDZzWHFPTnJPakNsUzM5LVVzTDVrTG5FMUJfUjZHWkRCRlMzdExpWHB2NVE?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-08T07:30:41+00:00",
+      "image_url": "https://images.pexels.com/photos/6085721/pexels-photo-6085721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ब्रह्मा चेलानी ने लिखा है कि कूटनीति और कारोबार के मेल की ट्रम्प-शैली अनुचित है. इस शैली में कूटनीति को व्यावसायिक हितों के लिए इस्तेमाल किया जाता है. ब्रह्मा चेलानी का कॉलम: कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है Dainik Bhaskar।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है",
+          "summary": "ब्रह्मा चेलानी ने लिखा है कि कूटनीति और कारोबार के मेल की ट्रम्प-शैली अनुचित है. इस शैली में कूटनीति को व्यावसायिक हितों के लिए इस्तेमाल किया जाता है. ब्रह्मा चेलानी का कॉलम: कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है Dainik Bhaskar।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "क्या होगा अगर टीवीके सरकार नहीं बना पाती है",
+      "url": "https://www.bbc.com/hindi/articles/cpdpzv8l1qeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-08T07:18:52+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3122/live/a8f2c220-4a8a-11f1-adfb-b387dc402556.jpg",
+      "summary": "तमिलनाडु विधानसभा चुनाव के नतीजे घोषित हुए चार दिन हो चुके हैं. अभी तक यह तय नहीं हो पाया है कि सरकार कौन बनाएगा अगर टीवीके नहीं बना पाती है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या होगा अगर टीवीके सरकार नहीं बना पाती है",
+          "summary": "तमिलनाडु विधानसभा चुनाव के नतीजे घोषित हुए चार दिन हो चुके हैं. अभी तक यह तय नहीं हो पाया है कि सरकार कौन बनाएगा अगर टीवीके नहीं बना पाती है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "केंद्रीय विदेश राज्यमंत्री कीर्ति वर्धन सिंह ने संरा महासचिव एंतोनियो गुतारेस से मुलाकात की",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeWw2aW54TG5nNmVwTmw3ZWJlMGY0T1NnZ0NUQzRQUGthcklCSC1YdVoxMnllQlR5TldqT0hKLWhIampOQXlGbzhYa0NuSXJJVjZOdkZkSEdlX0N2ZThhZUpnVVNxMnNWeHg5Q3J4QjFLYlpLbmRvY1NCeFNYdDVUZm9SdGZsV1U0NnYzUXFOVTlBZHdDUngwNS14Q1JtMVNPVks5Z0d5VnZRVXJ3YXRGczA3SENieUktLTROdmRuSDZ1M1lGVktkODMyZnlOamJXSnRxdDFyczhiOUMtQl800gHkAUFVX3lxTFB0aEVPaVpJWjNKbldzckxUS2JuT1NMY2o1aUNTTm1rd1kwc2pkZ0ZtYU9hcXdtVklFZzVIZ29uYnI0MHhaRDRsTXozemNIVDZCOXM1UU5sUFZTc1Y3RkFJOHBkdzhVRUFwbllyUEx5d3BYSXRNVXYwUEZvRm1MRWowQ1ZKaFlyUENPeWZZZGxNREVwLXBxTC1odG1nZkhvZHpaekFTZHM3N3NIZ2NVR083UWctazlqdEhZVnZGd1czdFZ5M08tQkdFcEN0Ry1BeHN5UEFXSXlMM0psUDVMckNHc1VCUg?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-08T07:03:46+00:00",
+      "image_url": "https://images.pexels.com/photos/15774367/pexels-photo-15774367.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "यह मुलाकात संयुक्त राष्ट्र में हुई. केंद्रीय विदेश राज्यमंत्री कीर्ति वर्धन सिंह ने संरा महासचिव एंतोनियो गुतारेस से मुलाकात की ThePrint Hindi।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "केंद्रीय विदेश राज्यमंत्री कीर्ति वर्धन सिंह ने संरा महासचिव एंतोनियो गुतारेस से मुलाकात की",
+          "summary": "यह मुलाकात संयुक्त राष्ट्र में हुई. केंद्रीय विदेश राज्यमंत्री कीर्ति वर्धन सिंह ने संरा महासचिव एंतोनियो गुतारेस से मुलाकात की ThePrint Hindi।",
+          "region": "दुनिया"
         }
       }
     },
@@ -448,20 +561,20 @@
       }
     },
     {
-      "title": "GDP को भूल जाइए! अब इन चीज़ों से तय होगी कंपनियों की 'असली' वैल्यू, निवेशकों के लिए बड़ी खबर",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2lZWWlNdENLWTR0NTkta0c4MVhjb1g1cThweTBzalNtb0Nqd0RPeU1ybnlDOUtWVUwyR0hvSkFGNEhVYll0Ykwyb1BKNDMyUHpyeVRRMDRJTDQxUVl6RHVUWUZDOGMxa193T3lFY2tTNXBMcHA1cDlJaUhhM25EZ2FTOGI1VWltSGllQ1FOYnY0SEt1U004eGZsT0FtbXN2RDhOSU5hSG9WbzRxaUVhRkZTVFFYNUZ1RzJGSlZSbUxYR0M2c0RueTFFNEpkVURNZm40U1lDY1NtQQ?oc=5",
+      "title": "'प्रवासन पर भारत का दृष्टिकोण समग्र और व्यावहारिक', संयुक्त राष्ट्र महासभा में बोले विदेश राज्य",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVQ4ZXZYM0FJVk5oWE14VGpKRVpkUkxqbjRWaWkyNmZQZmNKZ3BwZkZEeUlZSW1DWW9GY3dadnYtdlVLblBrc1BwMm45d2VaMXhOTHJsZVEzSFNEc2RoRWFtWGl3U18zUnlVNEFoTXVrTHpQUUJOaUlmODVNMThpNVJTM0M3NjNsOVhqdFR3R0pWbXdhOWFOTzlTYTB2YUNZNXQ0eHVZMGk3RWJ6bFhjX2dnYUwtQXhWU2fSAb8BQVVfeXFMTXBqR0hZU0pFTmw0MXd1VTRsXzZpUGJoaDU0Z0VRTXhCT1I3d0JhWi1PQjhRVjJnd09LRE55N0VhNGpqN2lXTUxIc1dzSUJtcWt0cEFTc2tCdXAtQml3VnhkdnlYNGgwNXN5bnJrQ1VVeTZJamhxVEh5Q2RYUHJwcktlQzlSV1JOdDVoRVhLcFhTZk5hZnhCLUlMM2YtZjk0OXQxSzNlcDZzeDJZNlBKQkN2Mks3bnljcFFiOHpnVEU?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-08T05:22:25+00:00",
-      "image_url": "https://images.pexels.com/photos/7887818/pexels-photo-7887818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने जीडीपी के बजाय नए मानकों को अपनाने का फैसला किया है, जो कंपनियों की वास्तविक मूल्य को निर्धारित करेंगे। यह निवेशकों के लिए एक बड़ी खबर है, जो अब नई मूल्यांकन प्रणाली का उपयोग करेंगे।",
-      "region": "Global / Multilateral",
+      "published_at": "2026-05-08T05:40:51+00:00",
+      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विदेश राज्य मंत्री ने संयुक्त राष्ट्र महासभा में कहा कि प्रवासन पर भारत का दृष्टिकोण समग्र और व्यावहारिक है. उन्होंने महासभा में भारत की स्थिति स्पष्ट की. UNGA: 'प्रवासन पर भारत का दृष्टिकोण समग्र और व्यावहारिक', संयुक्त राष्ट्र महासभा में बोले विदेश राज्य मंत्री Amar Ujala।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "GDP को भूल जाइए! अब इन चीज़ों से तय होगी कंपनियों की 'असली' वैल्यू, निवेशकों के लिए बड़ी खबर",
-          "summary": "संयुक्त राष्ट्र ने जीडीपी के बजाय नए मानकों को अपनाने का फैसला किया है, जो कंपनियों की वास्तविक मूल्य को निर्धारित करेंगे। यह निवेशकों के लिए एक बड़ी खबर है, जो अब नई मूल्यांकन प्रणाली का उपयोग करेंगे।",
-          "region": "वैश्विक / बहुपक्षीय"
+          "title": "'प्रवासन पर भारत का दृष्टिकोण समग्र और व्यावहारिक', संयुक्त राष्ट्र महासभा में बोले विदेश राज्य",
+          "summary": "विदेश राज्य मंत्री ने संयुक्त राष्ट्र महासभा में कहा कि प्रवासन पर भारत का दृष्टिकोण समग्र और व्यावहारिक है. उन्होंने महासभा में भारत की स्थिति स्पष्ट की. UNGA: 'प्रवासन पर भारत का दृष्टिकोण समग्र और व्यावहारिक', संयुक्त राष्ट्र महासभा में बोले विदेश राज्य मंत्री Amar Ujala।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -533,132 +646,6 @@
         "hi": {
           "title": "UN में फिर रूस-चीन ने बिगाड़ा खेल, ताल ठोककर आए ईरान के साथ, अमेरिका के लिए होर्मुज खुलना बन जाएगा",
           "summary": "रूस और चीन ने संयुक्त राष्ट्र में ईरान के साथ मिलकर अमेरिका के लिए मुश्किलें खड़ी की हैं। अमेरिका के लिए होर्मुज जलडमर्यादा खुलना मुश्किल हो गया है। UN में फिर रूस-चीन ने बिगाड़ा खेल, ताल ठोककर आए ईरान के साथ, अमेरिका के लिए होर्मुज खुलना बन जाएगा सपना?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत-PAK संघर्ष में चीन का कबूलनामा: नापाक साजिशों में दिया था साथ; बीजिंग ने ऑन-साइट सैन्य सपोर्ट",
-      "url": "https://www.amarujala.com/world/china-confirms-on-site-technical-support-to-pakistan-during-four-day-conflict-with-india-2026-05-08",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-08T02:12:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/08/india-pakisatan-china_d4a19c6a01e885e8c044b6733df8ce44.jpeg?w=750&dpr=1.0",
-      "summary": "चीन ने भारत-पाक संघर्ष में ऑन-साइट सैन्य सपोर्ट देने की बात मानी। भारत-PAK संघर्ष में चीन का कबूलनामा: नापाक साजिशों में दिया था साथ; बीजिंग ने ऑन-साइट सैन्य सपोर्ट।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत-PAK संघर्ष में चीन का कबूलनामा: नापाक साजिशों में दिया था साथ; बीजिंग ने ऑन-साइट सैन्य सपोर्ट",
-          "summary": "चीन ने भारत-पाक संघर्ष में ऑन-साइट सैन्य सपोर्ट देने की बात मानी। भारत-PAK संघर्ष में चीन का कबूलनामा: नापाक साजिशों में दिया था साथ; बीजिंग ने ऑन-साइट सैन्य सपोर्ट।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत और वियतनाम ने अपने द्विपक्षीय संबंधों का दर्जा बढ़ाकर \"विस्तारित व्यापक रणनीतिक साझेदारी\" किया",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVlJla2JhT21qOTlZcGdNTXNpNVo4a0xOamhBM2xQWWJrUnI0WTJ3Y2FUUDQwQURYaXVOd0hqOFFVZHRfc2xVZzd4WGlPenQ4SVhDaUR3U3ZXVEQxUjdpV2luVVJhMmVpeUNjaHk3ei1TYTRpaTlMVlB1NWcxWVV4NjBHaTU3a0NHUkpaR2hyT0pOQkk2Z292Z1pIa3pDWkVsTl9tRnNFM3BCcUQ4alU2NmtDUWpMVW5GTHZmb05mVU5BSk5UdEdMYTkzb2JoanpPa2pxVDh2VG9GYWpYM2tqTzRGZmxCeFpDTHRXSGxBNEYzbUtvQWtreFM0NGtHUk9vMEpodnRhQzVVQ21YOU1ZcEpOb1pzNXBWZlBiUU1Iclh0aTZVWHRrNTdXWUloYlhRaUQzOGJsa1E?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-05-06T18:30:00+00:00",
-      "image_url": "https://images.pexels.com/photos/19447589/pexels-photo-19447589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत और वियतनाम ने अपने द्विपक्षीय संबंधों को बढ़ावा देने का फैसला किया है। दोनों देशों ने अपने संबंधों का दर्जा \"विस्तारित व्यापक रणनीतिक साझेदारी\" तक बढ़ा दिया है। इससे दोनों देशों के बीच के आर्थिक और सुरक्षा संबंधों में वृद्धि होगी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत और वियतनाम ने अपने द्विपक्षीय संबंधों का दर्जा बढ़ाकर \"विस्तारित व्यापक रणनीतिक साझेदारी\" किया",
-          "summary": "भारत और वियतनाम ने अपने द्विपक्षीय संबंधों को बढ़ावा देने का फैसला किया है। दोनों देशों ने अपने संबंधों का दर्जा \"विस्तारित व्यापक रणनीतिक साझेदारी\" तक बढ़ा दिया है। इससे दोनों देशों के बीच के आर्थिक और सुरक्षा संबंधों में वृद्धि होगी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नए युग में वियतनाम और भारत के बीच उन्नत व्यापक रणनीतिक साझेदारी: साझा दृष्टिकोण, समन्वित रणनीतियाँ",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOGxmc0ZqQ3dMV0E2NTBuM3BTTXE4UW9IeVN1NU55a1NRZTY3ckdST29Xb3FBUExmRklTcnpFRXJWNUNPUzhEWkktcG03WnNtSllsdVZOeGtzUERKNnAzSnBDaDJFWVhDbmVmcVFqcDN3QUZwVDhtN0dnOWhCVmd3ZmdBZnM3bkdnVm0xQW5uX3d4VXlwODVXY1hjVzdvdjZ2Z09zNEtuVDhPUXNJdnNzVjhYQ1RkTUpvblZ5RGtkUkR3R0JBZVgwVUFHX0VoUlB1a0loRGRxLWZMV0pVZGcwWFZFNGN6V0NnQU50ai1JQmx3Q2c?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-05-06T14:43:59+00:00",
-      "image_url": "https://images.pexels.com/photos/1375151/pexels-photo-1375151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "वियतनाम और भारत ने अपनी व्यापक रणनीतिक साझेदारी को उन्नत करने पर सहमति जताई है। यह साझेदारी साझा दृष्टिकोण, समन्वित रणनीतियों और ठोस सहयोग पर आधारित होगी। दोनों देशों के बीच यह समझौता उनके द्विपक्षीय संबंधों को मजबूत करने में मदद करेगा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नए युग में वियतनाम और भारत के बीच उन्नत व्यापक रणनीतिक साझेदारी: साझा दृष्टिकोण, समन्वित रणनीतियाँ",
-          "summary": "वियतनाम और भारत ने अपनी व्यापक रणनीतिक साझेदारी को उन्नत करने पर सहमति जताई है। यह साझेदारी साझा दृष्टिकोण, समन्वित रणनीतियों और ठोस सहयोग पर आधारित होगी। दोनों देशों के बीच यह समझौता उनके द्विपक्षीय संबंधों को मजबूत करने में मदद करेगा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सिंदूर के बाद का भारत: हर मोड़ पर बढ़त",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjQwVU4zWXZ6YzBzRG5KV2FlWjhHenNkSWotSGNkdnNxNUVPLWQtWFlwd2U3emtCOUVWeHRGOWYySlNlX09KRDlJNElvdzl1TnhDVVVOTGt6cGg4bFN2ZDNITFA1cllkcVk0UjZDSkN6Y3ZLOEk4T3Y3VGNjVkI1dGJVSXZmdl9wNTM5VGx3?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-06T14:24:41+00:00",
-      "image_url": "https://images.pexels.com/photos/37079434/pexels-photo-37079434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत ने सिंदूर के बाद अपनी प्रगति जारी रखी है, हर मोड़ पर बढ़त हासिल की है। देश की अर्थव्यवस्था और राजनीति में सुधार हो रहा है, जिससे भारत की स्थिति मजबूत हो रही है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंदूर के बाद का भारत: हर मोड़ पर बढ़त",
-          "summary": "भारत ने सिंदूर के बाद अपनी प्रगति जारी रखी है, हर मोड़ पर बढ़त हासिल की है। देश की अर्थव्यवस्था और राजनीति में सुधार हो रहा है, जिससे भारत की स्थिति मजबूत हो रही है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "6 मई, 2026 को विश्व आर्थिक समाचारों की मुख्य बातें",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WQUNOZDRsWEFZQmZhbzBOZnZ5b1dnSUJ0MXlwVXZDTTFkWDdvRmUtdFZRQlZhOEUzS0pnX1RvVHNrdjFaeHhUdV9KbERCajVaNUU3bFgxYS1ZYzB5TG9yQ1dIMjlmUnBLLXNTeU9ZZnZwRUdCaFVFVGs4dExCQQ?oc=5",
-      "source": "Google News Hindi (विश्व समाचार)",
-      "sources": [],
-      "published_at": "2026-05-06T13:59:16+00:00",
-      "image_url": "https://images.pexels.com/photos/37037823/pexels-photo-37037823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "6 मई, 2026 को विश्व आर्थिक समाचारों में कई महत्वपूर्ण घटनाएं हुईं, जिनमें वैश्विक अर्थव्यवस्था की स्थिति और बाजार की गतिविधियों पर प्रभाव डालने वाले फैसले शामिल थे। इन घटनाओं ने वैश्विक अर्थव्यवस्था को आकार देने में महत्वपूर्ण भूमिका निभाई।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "6 मई, 2026 को विश्व आर्थिक समाचारों की मुख्य बातें",
-          "summary": "6 मई, 2026 को विश्व आर्थिक समाचारों में कई महत्वपूर्ण घटनाएं हुईं, जिनमें वैश्विक अर्थव्यवस्था की स्थिति और बाजार की गतिविधियों पर प्रभाव डालने वाले फैसले शामिल थे। इन घटनाओं ने वैश्विक अर्थव्यवस्था को आकार देने में महत्वपूर्ण भूमिका निभाई।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत-पाकिस्तान में अगला संघर्ष होगा और खतरनाक, अमेरिकी एक्सपर्ट की चेतावनी, ट्रंप के क्रेडिट लेने",
-      "url": "https://news.google.com/rss/articles/CBMitwhBVV95cUxQOFB1OXJaTzg1c1hYeEdjS0dwaHRPYzN4blJwc01GRjJBcldGREZ6ZGVYWWVqN0c5NkR4SHg2RGZlMnNNcnVyQWdHUVMxS0pHN0E0NHNqbmo4UVBkYkIyYm9oMlZ0ZmNqd0t0WUNZTWhFQVZudHE3eUtwdGtsbkdlMkVLSUF5and0N2NtU25rblo4RkxzUGRNRVgyNDVST0IxQTF2M0ZuZjllR0pYeHNjb2pvY0o2azB2aUE0Ym9vQXp0Q2lPZjVsY1VYMFpJUFhaVE8wOFN2S0dmWmJpM21CdDBJOHo2OTFQZHBFUG1LUW9pSXktUWtZbVZpTWdOSDR4QkJNclYtY1hCUUVrWVAwTHVFc3k1N3NfTkxiLXpnSFh2bFVDU1Vfa1doX0Qyc3B0MFEtQlE1b3ZsSXMzTWVCYVo4QVZWdGlaU3Z3RnRqUTRFdThVckV3U29McmxDaTZDdm9kdTVLUkdBVG5WdGN1dzlRTDJMdVowWEltbU9vd21DTGV0Q3lzSjVVdjhRS25BOXVLVk5qRXI0RmZTU3pGRFhUR1VzbFpxajNEQURDd2xoQUNQZmFhMG9BLUpLVVMxMzFreVI2T00yQ0tVY2hPSnF6WjJ2UHJ3SUJVN2k0aEJrRHBYeGZ4VGNIRlRTT3E5eFFpV1paLThya2N0RUt3WXFvRXQzaUlLS2owOUdNMmRVR3VONXhQQXduMHVFTHo3Mm40QVZnejlPQ1RMcHlKdS1GbnVuR2UzQ1hEaGtucTdBRkpPaWJWZHRkb2NRUEE3UmRTeEJqSVB4UDFaUG1OX1JmUVYta3VTVDJXb19hQTJrTkVKT3ZsLWdyalF4TklXaDV2UnRCX1RtWm54NlB2Ml9MNzhKLXRBUC1Vc0d0QWZUNEtva0Z4LTJQcllDa3BaUHZ2VXoxQlcxOFN3dDV0bHRYbHhESzUtMTk4ZV9PekwtbkxESnBjOWVMZTdFSjl3bXFkUDVfSERTdVRmbnpYSHZJaTlEdmk0OF9OV1lMYmtMdFlULUdiMHdNVkw0eVRtN3g1NnVHMi1sMUJLekx6T2VYRkZ0T2dRWThPanVTZFFyWG1GOHFFRUMyRkVaWmNaMHJVS2lGVjNtaFR1Y1ZQYmhVMDZ0NHJ5U1NJQ0JXWXJET1lCeEsyYkNndjhHblhhUWs5eXc4ZFRSeFliY2tGeFBQNFR0Sm5ROEtHd1JmOXFPVEdEUERwVU8xSGNNbEplOG8xNG9GRjB5X3dJQVEtb1Y2c0xad3Njd0x6MFRkQjIzMzBOVFByZHozTWhQaTFJblFFakN4ajAtVnNPM3FTLTRKWDZVMk41Z2ZuMVF4MFdqQ0M1a2NkWE1BSmI3QkFrRUNyanFqeVNaM0F3Xzc4cFRaTS1RZmtQYkxBeDFyd2l3Z0NXSmRtZ2JLMWdxSnMzWGpBUHZYOA?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-06T11:25:24+00:00",
-      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी विशेषज्ञों ने चेतावनी दी है कि भारत और पाकिस्तान के बीच अगला संघर्ष और भी खतरनाक हो सकता है. उन्होंने कहा कि अमेरिकी राष्ट्रपति ट्रम्प द्वारा इस मुद्दे का श्रेय लेने से समस्या और जटिल हो गई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत-पाकिस्तान में अगला संघर्ष होगा और खतरनाक, अमेरिकी एक्सपर्ट की चेतावनी, ट्रंप के क्रेडिट लेने",
-          "summary": "अमेरिकी विशेषज्ञों ने चेतावनी दी है कि भारत और पाकिस्तान के बीच अगला संघर्ष और भी खतरनाक हो सकता है. उन्होंने कहा कि अमेरिकी राष्ट्रपति ट्रम्प द्वारा इस मुद्दे का श्रेय लेने से समस्या और जटिल हो गई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नेतन्याहू के तेहरान दौरे पर ईरान का कड़ा ऐतराज़, कूटनीति के लिए बताया ‘खतरनाक’",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd2d2STlMNUxWaUhMVTFPeEpRaldGZUpIVkdsYl9JREpCajBXZ0VKZXBEOXY0UkNacEFFNnVSc0VZYUFGR1VUUXBoaFRNZFBsYzA0cWNrSzhLakpTWjFMTzBHOUVOMlFLSWd1bGVlZnBtS3hMUWZPeFB2QjRnNVN2eHBZNkItQUY2ZVdUMGlPVDRSRFltTElua25pMTVDN1BiNllxM2plYXp2UQ?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-06T10:19:47+00:00",
-      "image_url": "https://images.pexels.com/photos/17718729/pexels-photo-17718729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू के तेहरान दौरे पर कड़ा ऐतराज जताया है. ईरान ने इसे कूटनीति के लिए खतरनाक बताया है. नेतन्याहू के तेहरान दौरे पर ईरान का कड़ा ऐतराज़, कूटनीति के लिए बताया ‘खतरनाक’ DD News।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेतन्याहू के तेहरान दौरे पर ईरान का कड़ा ऐतराज़, कूटनीति के लिए बताया ‘खतरनाक’",
-          "summary": "ईरान ने इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू के तेहरान दौरे पर कड़ा ऐतराज जताया है. ईरान ने इसे कूटनीति के लिए खतरनाक बताया है. नेतन्याहू के तेहरान दौरे पर ईरान का कड़ा ऐतराज़, कूटनीति के लिए बताया ‘खतरनाक’ DD News।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
