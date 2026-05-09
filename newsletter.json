@@ -1,46 +1,81 @@
 {
-  "generated_at": "2026-05-08T22:57:58.430496+00:00",
+  "generated_at": "2026-05-08T23:59:45.756523+00:00",
   "article_count": 42,
-  "total_unique_count": 251,
+  "total_unique_count": 242,
   "digest": {
-    "en": "US President Trump says a ceasefire with Iran is holding despite recent tanker attacks. The US has fired on and disabled several Iranian-flagged tankers in the Strait of Hormuz. Global stocks are diverging with oil prices rising amid the renewed tensions.",
-    "hi": "पाकिस्तान को अंतर्राष्ट्रीय मुद्रा कोष (IMF) से ₹11 हजार करोड़ से अधिक का कर्ज मंजूर हुआ है। इससे विदेशी मुद्रा भंडार को मदद मिलेगी। दूसरी ओर, तमिलनाडु में विजय ने राज्यपाल से मुलाक़ात कर सरकार बनाने का दावा पेश किया।"
+    "en": "The World Health Organization reports six confirmed hantavirus cases tied to a Spain-bound cruise. Israeli airstrikes killed five in southern Lebanon as Hezbollah rockets hit open areas in Israel. The U.S. fired on two Iran-flagged tankers amid escalating tensions in the region.",
+    "hi": "पाकिस्तान को अंतर्राष्ट्रीय मुद्रा कोष (आईएमएफ) से ₹11 हजार करोड़ से अधिक का कर्ज मंजूर हुआ है। इससे देश के विदेशी मुद्रा भंडार को मदद मिलेगी। एआई डाटा सेंटर आसपास के क्षेत्रों में तापमान बढ़ा रहे हैं, एक रिपोर्ट में यह बात सामने आई है।"
   },
   "articles": [
     {
-      "title": "Trump says Iran war ceasefire holds, despite 'trifle' of attacks: Live",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmw4ZGlHekxHdUlFQWVramMtejA4WGItb3R0UTlIU0dNYU9PZFEyRXBPblpWOWktY0IweVJuTFdtT3BGWVVjYVZrSE5UY2ZTMjFCN2pkeGhHNGl6UjhZV1R2UU0yWndualBmbjZkeFRvMkxzX3o1NmtiZEdXZzU3TXI5WUFqeGFVcFhUN01ZMFROM0paNjJqUlNjdTEzalk3aFB2QnBEbw?oc=5",
-      "source": "Google News (war ceasefire)",
+      "title": "WHO reports six confirmed hantavirus cases tied to Spain-bound cruise",
+      "url": "https://indianexpress.com/article/world/who-hantavirus-outbreak-spain-cruise-ship-mv-hondius-deaths-evacuation-10680302/",
+      "source": "Indian Express World",
       "sources": [],
-      "published_at": "2026-05-08T22:33:00+00:00",
-      "image_url": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Trump stated the Iran war ceasefire holds despite minor attacks. Trump says Iran war ceasefire holds, despite 'trifle' of attacks: Live USA Today.",
+      "published_at": "2026-05-08T23:35:59+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/US-7-3.jpg",
+      "summary": "The World Health Organization reported six confirmed hantavirus cases linked to a Spain-bound cruise. WHO reports six confirmed hantavirus cases tied to Spain-bound cruise.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israeli airstrikes kill five in southern Lebanon as Hezbollah rockets hit open areas in Israel",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-08T23:16:50+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/6dzt3b/article70953663.ece/alternates/LANDSCAPE_1200/2026-04-08T172614Z_79253224_RC2PWJA4W5Y5_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS.JPG",
+      "summary": "Israeli airstrikes killed five people in southern Lebanon. Rubio says 'unacceptable' for Iran to control Hormuz. Israeli airstrikes kill five in southern Lebanon as Hezbollah rockets hit open areas in Israel.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks",
-      "url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
-      "source": "NYT World",
-      "sources": [
-        {
-          "url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
-          "source": "NYT World"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDN1U0Q2SXBtOGNaeHpVc1BWQy1SMkdoNjJuSHRsdWM1bFJ3S3dYVk8xRkpqemtmZ3RwQUkzYlQ1RE9IUzlnSk5WTk55ekU3dlZrT1hJNlVSR09qR0JYZjdELWVDMk1ocks4SGZaWDJsZXRPU1JDM3I0U0NqcmV2dzhNVGVnSlJD?oc=5",
-          "source": "Google News (war ceasefire)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDN1U0Q2SXBtOGNaeHpVc1BWQy1SMkdoNjJuSHRsdWM1bFJ3S3dYVk8xRkpqemtmZ3RwQUkzYlQ1RE9IUzlnSk5WTk55ekU3dlZrT1hJNlVSR09qR0JYZjdELWVDMk1ocks4SGZaWDJsZXRPU1JDM3I0U0NqcmV2dzhNVGVnSlJD?oc=5",
-          "source": "Google News (war ceasefire)"
-        }
-      ],
-      "published_at": "2026-05-08T22:31:39+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08mideast-promo330p/08cli-spill-kharg-plgm-mediumSquareAt3X.jpg",
-      "summary": "The US fired on Iranian tankers as Tehran accused Washington of reckless attacks. Iran’s foreign minister accused Washington of undermining diplomacy. Secretary of State Marco Rubio said the U. S. expected to hear from Tehran on Friday.",
+      "title": "U.S. fires on 2 Iran-flagged tankers as Rubio says U.S. expects response on peace deal today",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmMzLVFDbWpCaVlOZFB6LUhDN3NMQl9hZ0VrRUxkRWRnWXZKbnBCR0FjZXRaUTBscDM3NnZaemdqcVMwYTFLa0ZvMVhOX202d2p1WWh5RUNMcEtEM1ozM1BVcE0wbENNd0pWeGItUUhwc1ktUElTNGZNMU1ZZGJqSWhXc2VnMEIzeEtVMDNQVdIBlAFBVV95cUxQU0xmeWl4aUpGZ0ROa2RLVkc0VmJia0tXczV0d0hrVXdfUVZ6ZEY2LWVmbFhVNUNwTlNvQ1lfanZ3aENZbmFUYzZvUERZQTJzN2JhNVhiQklzZTlXQW95T3d5anhybzdCVVFwTG00akM2bzJ0R0IwYk9rREJzTXNzVktLN0s1UjV6Q1FJZ09fZDNvVlJR?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-08T23:14:00+00:00",
+      "image_url": "https://images.pexels.com/photos/8553493/pexels-photo-8553493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The US fired on two Iran-flagged tankers. Live Updates: U. S. fires on 2 Iran-flagged tankers as Rubio says U. expects response on peace deal today CBS News. U. U. S.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. imposes sanctions on 10 individuals, companies for aiding Iran’s weapons sector",
+      "url": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-10-individuals-companies-for-aiding-irans-weapons-sector/article70957188.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-08T22:58:32+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/mkfovc/article70957191.ece/alternates/LANDSCAPE_1200/2026-05-08T215802Z_964109797_RC2EUKA326BY_RTRMADP_3_IRAN-CRISIS-USA-SANCTIONS.JPG",
+      "summary": "The US imposed sanctions on 10 individuals and companies for aiding Iran's weapons sector. Treasury said it remains ready to ‌take economic action against Iran’s ​military industrial base so Tehran cannot reconstitute its production capacity ⁠and project power outside its borders.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tehran to respond to Trump’s peace plan as Vance holds urgent talks",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWttc0VTU2FsWGFXby1EakdDNHFTMHVJT2ZwaVBucDNtQ1IwRHBXTmJRMGZNQ3pFdllwcENaWUJlUWdPLTJfWDh2R09sQ0xpS0F0bko2bFdxWjBxVU8xdzRBSFVieVNqbGp5bkxNZy16R2x6MnZ2aldHTUlucHlDakFMODBGalp3eVNRVWZGdUpMOWd0dFhYdVQtc3kzZEFSSmdwTkQ4dFRvUlpsdGlCRVVVUTI0dnpVMXAxZFB4NXlla2VXU3c?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-08T22:57:36+00:00",
+      "image_url": "https://images.pexels.com/photos/16386082/pexels-photo-16386082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Tehran will respond to Trump's peace plan as Vance holds urgent talks. Iran-US war live: Tehran to respond to Trump’s peace plan as Vance holds urgent talks The Independent.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Opinion – Multipolarity and the End of Nuclear Stability - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTXdJNG9reDlfelR0V2tjUTY3NXRERGRCS3BGeXZ6UU5TZzFncV85b3V4UVd1MHZvYjJ0allram9KYXhENjhBRkZLQkZiMzZCSmhtbktnNzZPZWZ2VURJVHlVdnBhdVRxVzhWMnFrTVlaWDMwVUkzRi1vaGtlWXVSU3d6TkpWN3BTWTdkTDBIcnBjQQ?oc=5",
+      "source": "Google News (international relations)",
+      "sources": [],
+      "published_at": "2026-05-08T22:50:19+00:00",
+      "image_url": "https://images.pexels.com/photos/9703551/pexels-photo-9703551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "An opinion piece discussed the end of nuclear stability due to multipolarity. Opinion – Multipolarity and the End of Nuclear Stability E-International Relations. Opinion – Multipolarity and the End of Nuclear Stability - E-International Relations.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -57,38 +92,50 @@
       "translations": {}
     },
     {
-      "title": "U.S. fires on 2 Iran-flagged tankers as Rubio says U.S. expects response on peace deal today",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmMzLVFDbWpCaVlOZFB6LUhDN3NMQl9hZ0VrRUxkRWRnWXZKbnBCR0FjZXRaUTBscDM3NnZaemdqcVMwYTFLa0ZvMVhOX202d2p1WWh5RUNMcEtEM1ozM1BVcE0wbENNd0pWeGItUUhwc1ktUElTNGZNMU1ZZGJqSWhXc2VnMEIzeEtVMDNQVdIBlAFBVV95cUxQU0xmeWl4aUpGZ0ROa2RLVkc0VmJia0tXczV0d0hrVXdfUVZ6ZEY2LWVmbFhVNUNwTlNvQ1lfanZ3aENZbmFUYzZvUERZQTJzN2JhNVhiQklzZTlXQW95T3d5anhybzdCVVFwTG00akM2bzJ0R0IwYk9rREJzTXNzVktLN0s1UjV6Q1FJZ09fZDNvVlJR?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-05-08T22:03:00+00:00",
-      "image_url": "https://images.pexels.com/photos/8553493/pexels-photo-8553493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The US fired on two Iran-flagged tankers. Live Updates: U. S. fires on 2 Iran-flagged tankers as Rubio says U. expects response on peace deal today CBS News. U. U. S.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Global stocks diverge, oil rises as fresh US-Iran clashes hit peace hopes",
-      "url": "https://www.channelnewsasia.com/world/us-iran-war-hormuz-stocks-market-oil-us-jobs-6110491",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-08T21:23:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--DdriA2fG--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/09/ap26127600332675.jpg?itok=mgnXqTo3",
-      "summary": "Global stocks were mixed as oil rose due to US-Iran clashes. The US added 115,000 jobs in April, helping push stock markets higher. Global stocks diverge, oil rises as fresh US-Iran clashes hit peace hopes.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
-      "url": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
+      "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+      "url": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "sources": [],
-      "published_at": "2026-05-08T21:02:52+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da4f/live/28d9a370-4ad4-11f1-941e-d3689d7c57f6.jpg",
-      "summary": "At least five hantavirus cases were confirmed on the MV Hondius cruise ship. About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases.",
-      "region": "Global / Multilateral",
+      "published_at": "2026-05-08T22:04:55+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d2f/live/55b14d10-4b17-11f1-be9e-ad2f8d891a76.png",
+      "summary": "The US released transcripts and video clips about unidentified flying objects, also called unidentified anomalous phenomena. The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phenomena.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Even the world’s most powerful navy cannot simply restore safe passage in the Strait of Hormuz",
+      "url": "https://www.channelnewsasia.com/commentary/us-iran-war-strait-hormuz-safe-passage-toll-6109631",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-08T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--DgiXlE3h--/c_crop,h_562,w_1000,x_0,y_0/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Iran_War_Strait_of_Hormuz_48685.jpg?itok=q48aPqK0",
+      "summary": "The US navy's Project Freedom was paused after two days, undermining confidence in securing the Strait of Hormuz. The abrupt “pause” of Project Freedom after two days undermines confidence in the United States’ ability to secure the critical waterway, says defence professor and navy veteran Jennifer Parker.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Simone Inzaghi wins first trophy as Al Hilal claim Saudi Cup",
+      "url": "https://www.channelnewsasia.com/sport/simone-inzaghi-wins-first-trophy-al-hilal-claim-saudi-cup-6110561",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-08T21:52:51+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--NB3PJTN9--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-08T215251Z_1_LYNXMPEM471BW_RTROPTP_3_SOCCER-SAUDI-HIL-KHL.JPG?itok=EqSSauQ1",
+      "summary": "Al Hilal won the Saudi Cup under coach Simone Inzaghi. Simone Inzaghi wins first trophy as Al Hilal claim Saudi Cup.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Four south Florida men convicted in Haitian president’s assassination",
+      "url": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-08T21:35:15+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/976e259f6970c7efb4185034026779c50253e91c/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=975ca35f146c2e4f2c95e88608b1d977",
+      "summary": "Four men were convicted in Miami for plotting to kill Haitian president Jovenel Moïse in 2021.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -117,18 +164,6 @@
       "translations": {}
     },
     {
-      "title": "US strikes 2 Iranian-flagged oil tankers as ceasefire comes under new strains",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1dBZEs4RXhyV2Y2anczZE5hczVqSmg1VkE2YWtGMWNrQkdYNkJOVm1GRmFQVFBfNEZTX3RSVXJkQno0dTZpRngyZ25MNzhKSWxQOWZxNkl6Z1V0a3l2SExxWXFzTmFBV0dUdTRHNk1JSHB1WE94V1VhWVhDRFpSUnJuQ00?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-05-08T20:40:29+00:00",
-      "image_url": "https://images.pexels.com/photos/36675779/pexels-photo-36675779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The US struck 2 Iranian-flagged oil tankers as the ceasefire comes under strain. Middle East war: US strikes 2 Iranian-flagged oil tankers as ceasefire comes under new strains Financial Times.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "NATO allies question US leadership after Iran war",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SNkIwOEc4TUVtdnlRZVAwTmhUVFRLN2NHMTU2SXZWSGNaWVZ0MnJBWEd5cW0wV0NxNHRtQmhzZnByS245d214VmNCaURMdEVzeTZrYV9lUlBFT3FteldxZGxnNzg5VmUtT2pWeEMzLXk3TW5kS0gyQmJR?oc=5",
       "source": "Google News (NATO conflict)",
@@ -141,14 +176,50 @@
       "translations": {}
     },
     {
-      "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYThYU2s5TjRVLWdTU2YxYjVsenBIS05TNFBrbDBYTU5hOWYzMzhwUldpQkhLTXJNSkN1eTBPbWJ6NVpFbzNFOFRYMmNnLTRVT0l5Z1pUVUxYWjVtWUFkd3ZwSUpiVmM0U0h5d0d2OGc2bHpxalZJWXozUGo0NXFoN195aHhYUmNpb216eVpybDlleEZCeWN0dG9waHpGZ9IBowFBVV95cUxPSWdTYkNLSTk2dUxTQTQ4UTA0U21SckI5STgtV1hyS1VxaG9SVnE2QXNSYjFmWkVxczhPVngzYld2M1R1d0pENmo5VVNIeDF1eEFFNy1tZUhpWmdjYXkwTnVfSzlfMWE3cThhejVMbEk5aHc1YmtReXd2RmRCbjVCOVU4X0Z6bktTbHNKMkhqbHNjWGF4VndTOUljcWRjLUN5aGhF?oc=5",
-      "source": "Google News (war ceasefire)",
+      "title": "Google Settles Racial Discrimination Lawsuit For $50 Million",
+      "url": "https://www.ndtv.com/world-news/google-settles-racial-discrimination-lawsuit-for-50-million-11469573#publisher=newsstand",
+      "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-05-08T20:35:43+00:00",
-      "image_url": "https://images.pexels.com/photos/37477812/pexels-photo-37477812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Trump announced a three-day ceasefire in the Russia-Ukraine war. Trump announces three-day ceasefire in Russia-Ukraine war Al Jazeera.",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-08T20:34:47+00:00",
+      "image_url": "https://c.ndtvimg.com/2019-03/u7472hl8_google-office-california-pixabay-650_625x300_05_March_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Google settled a racial discrimination lawsuit for $50 million, addressing years of complaints from Black employees. The lawsuit, echoed years of complaints from Black employees at the company. Google Settles Racial Discrimination Lawsuit For $50 Million.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Four Men Found Guilty of Haiti President’s Assassination",
+      "url": "https://www.nytimes.com/2026/05/08/world/americas/haiti-president-assassination-four-men-charged.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-08T20:33:09+00:00",
+      "image_url": "https://static01.nyt.com/images/2025/10/22/multimedia/00int-haiti-verdict-hfo-2/00int-haiti-verdict-hfo-2-mediumSquareAt3X.jpg",
+      "summary": "Four men were found guilty of conspiring to assassinate Haitian President Jovenel Moïse, who was shot in his bedroom in July 2021. The convictions did not reveal who ordered the assassination.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Organizers of a canceled human rights conference in Zambia say China intervened",
+      "url": "https://www.npr.org/2026/05/08/nx-s1-5809455/organizers-of-a-canceled-human-rights-conference-in-zambia-say-china-intervened",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-05-08T20:30:29+00:00",
+      "image_url": "https://images.pexels.com/photos/8899175/pexels-photo-8899175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Zambia canceled Rights Con, the world's largest digital rights conference, citing Chinese pressure. Organizers blame China for the abrupt decision to cancel the event. Zambia was due to host Rights Con, the world's biggest digital rights gathering, this week -- but abruptly canceled the event.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Laura Fernandez sworn in as Costa Rica’s new president",
+      "url": "https://www.aljazeera.com/news/2026/5/8/laura-fernandez-sworn-in-as-costa-ricas-new-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sources": [],
+      "published_at": "2026-05-08T20:12:50+00:00",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fe3c6d90aa-1778269293.jpg?resize=1920%2C1440",
+      "summary": "Laura Fernandez was sworn in as Costa Rica's new president. Her right-wing party holds an absolute majority in the legislature. Fernandez enters office with her right-wing party holding an absolute majority in the legislature.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -165,18 +236,6 @@
       "translations": {}
     },
     {
-      "title": "New Initiative Connects Pomona Students and Faculty With China",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHNBdEJQUE1sbElVdUo2VVlkd1p3cjhnMG94cHhTcVRnTGhsenpUd3pvY1MtUzFIN2p0YXhUZW12SWRKNHROU2k2VnM3NkYtazZYcklWYTZGamt2X0lIaDdrb1ZzSmJlYzhBd1p0ZzRfZlhiZmg3c0NrVVFtTnI3cHkzX2J3TDBGaHpDSDZHU0w3OVZPMmhFVVhpcmI?oc=5",
-      "source": "Google News (international relations)",
-      "sources": [],
-      "published_at": "2026-05-08T19:57:53+00:00",
-      "image_url": "https://images.pexels.com/photos/7683626/pexels-photo-7683626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Pomona College launched an initiative connecting students and faculty with China. New Initiative Connects Pomona Students and Faculty With China Pomona College.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Venice Biennale: The Art of the Unseen",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/venice-biennale-the-art-of-the-unseen?traffic_source=rss",
       "source": "Al Jazeera",
@@ -189,18 +248,6 @@
       "translations": {}
     },
     {
-      "title": "Drop in Gulf remittances puts families on edge",
-      "url": "https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-08T19:51:00+00:00",
-      "image_url": "https://static.dw.com/image/76258122_6.jpg",
-      "summary": "Pakistanis in the Gulf send money to support families with basic needs like food and education. For millions of households, money sent by Pakistani workers in the Gulf offers a lifeline, helping their families cover basic needs such as food and education.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Court Revives ‘Farmgate’ Case Against South African President",
       "url": "https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html",
       "source": "NYT World",
@@ -208,66 +255,6 @@
       "published_at": "2026-05-08T19:49:08+00:00",
       "image_url": "https://static01.nyt.com/images/2026/05/08/multimedia/08int-safrica-impeachment-qvhm/08int-safrica-impeachment-qvhm-mediumSquareAt3X.jpg",
       "summary": "Britain's prime minister faces pressure to quit after huge local election losses. Judges ordered Parliament to convene a committee to consider removing President Cyril Ramaphosa over a case involving money stolen at his farm six years ago.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US hopes for ‘serious offer’ from Iran today on latest proposal, despite exchange of strikes",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hY1V2RndJRnlvV0JZemVacUZmR3Q0dXY4U295YS1DS0VsNGcwYkxyelk4cTJfTzZsWjZ2ZnpMTG1oTWFlbUdRS2Rta3l0Sks3MlRYQXFEc0M2b3hlb3hZTnp3WktlZGdWZGtfZg?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-05-08T19:42:00+00:00",
-      "image_url": "https://images.pexels.com/photos/7468260/pexels-photo-7468260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "US President Trump confirmed a ceasefire with Iran remains in place following an exchange of fire between the two countries. The situation escalated tensions, but Trump maintained that the ceasefire agreement holds.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Could Labour and Conservative party dominance in UK politics be ending?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/8/could-labours-and-the-conservatives-dominance-in-uk-politics-be-ending?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-08T19:21:35+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778263866.jpg?resize=1920%2C1080&quality=80",
-      "summary": "An Indian billionaire offered to relocate dozens of Colombia's invasive hippos to India's wildlife reserve. Britain's prime minister is under pressure to quit after huge losses in local elections. Could Labour and Conservative party dominance in UK politics be ending?",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-08T19:20:23+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778267993.jpg?resize=1920%2C1080&quality=80",
-      "summary": "Al Jazeera's Obaida Hitto reports Israeli strikes on southern Lebanon from Tyre. Israel has increased its attacks across southern Lebanon. Al Jazeera’s Obaida Hitto reports from Tyre. Al Jazeera reporter witnesses Israeli strikes on Lebanon.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Colombia's rogue hippos could find refuge in India",
-      "url": "https://www.npr.org/2026/05/08/nx-s1-5814169/cocaine-hippos-colombia-india",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-05-08T16:24:19+00:00",
-      "image_url": "https://images.pexels.com/photos/30041534/pexels-photo-30041534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Iran turned the bombed Karaj Bridge into a symbol of resistance in a region with a large Azeri population. In Colombia, a plan to cull Pablo Escobar's invasive hippos is challenged by an Indian billionaire's offer to relocate dozens of the animals to India's wildlife reserve instead.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran turns bombed Karaj Bridge into a symbol of resistance",
-      "url": "https://www.thehindu.com/news/international/iran-turns-bombed-karaj-bridge-into-a-symbol-of-resistance/article70955647.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-08T16:21:29+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/6oqxzk/article70955726.ece/alternates/LANDSCAPE_1200/2026-04-03T084237Z_148671775_RC2IHKAK133G_RTRMADP_3_IRAN-CRISIS.JPG",
-      "summary": "President Cyril Ramaphosa faces a revived case over money stolen at his farm six years ago. The B1 corridor connects Tehran with northern and northwestern regions that have large Azeri populations.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -291,74 +278,38 @@
       }
     },
     {
-      "title": "आरोपी ने लगाया जांच में पक्षपात का आरोप, जानें क्या है पूरा मामला",
-      "url": "https://www.amarujala.com/world/white-house-correspondents-dinner-attack-case-cole-allen-recusal-request-justice-department-officials-2026-05-09",
+      "title": "एआई डाटा सेंटर बना रहे हीट आइलैंड, आसपास पारा पहुंचा 16.4 डिग्री, इस रिपोर्ट में बड़ा खुलासा",
+      "url": "https://www.amarujala.com/world/ai-data-centers-heat-island-effect-environmental-risk-report-2026-05-09",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-08T20:55:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/donald-trump-us-president-white-house_d2cfc34eefbe7bd93910708d7743d43e.gif?w=750&dpr=1.0",
-      "summary": "व्हाइट हाउस के एक संवाददाता डिनर में हमला करने के आरोपी कोल एलन ने न्याय विभाग के अधिकारियों से जांच में पक्षपात के आरोप लगाए हैं और न्यायाधीश से मामले की सुनवाई करने से इनकार करने का अनुरोध किया है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आरोपी ने लगाया जांच में पक्षपात का आरोप, जानें क्या है पूरा मामला",
-          "summary": "व्हाइट हाउस के एक संवाददाता डिनर में हमला करने के आरोपी कोल एलन ने न्याय विभाग के अधिकारियों से जांच में पक्षपात के आरोप लगाए हैं और न्यायाधीश से मामले की सुनवाई करने से इनकार करने का अनुरोध किया है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "CM रंगासामी का इस्तीफा राष्ट्रपति ने किया मंजूर; तेलंगाना में अल्पसंख्यकों के लिए खुलेंगे विशेष",
-      "url": "https://www.amarujala.com/india-news/news-updates-of-09-may-govt-formation-in-puducherry-west-bengal-tamilnadu-telangana-govt-news-in-hindi-2026-05-09",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-08T20:44:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_16003c2ba7e0cb7e22366c606b634689.jpeg?w=750&dpr=1.0",
-      "summary": "राष्ट्रपति ने पुदुचेरी के मुख्यमंत्री एन रंगासामी का इस्तीफा मंजूर कर लिया है। इस बीच, तेलंगाना सरकार ने अल्पसंख्यकों के लिए विशेष कॉलेज खोलने का फैसला किया है। CM रंगासामी का इस्तीफा राष्ट्रपति ने किया मंजूर; तेलंगाना में अल्पसंख्यकों के लिए खुलेंगे विशेष।",
+      "published_at": "2026-05-08T23:38:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/1_58c420fd738508a1db95cc8f53142b87.jpeg?w=750&dpr=1.0",
+      "summary": "एआई डाटा सेंटर के कारण आसपास के क्षेत्रों में तापमान 16.4 डिग्री तक पहुंच गया है। एक रिपोर्ट में खुलासा हुआ है कि ये डाटा सेंटर हीट आइलैंड प्रभाव पैदा कर रहे हैं। इससे पर्यावरण को खतरा हो सकता है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "CM रंगासामी का इस्तीफा राष्ट्रपति ने किया मंजूर; तेलंगाना में अल्पसंख्यकों के लिए खुलेंगे विशेष",
-          "summary": "राष्ट्रपति ने पुदुचेरी के मुख्यमंत्री एन रंगासामी का इस्तीफा मंजूर कर लिया है। इस बीच, तेलंगाना सरकार ने अल्पसंख्यकों के लिए विशेष कॉलेज खोलने का फैसला किया है। CM रंगासामी का इस्तीफा राष्ट्रपति ने किया मंजूर; तेलंगाना में अल्पसंख्यकों के लिए खुलेंगे विशेष।",
+          "title": "एआई डाटा सेंटर बना रहे हीट आइलैंड, आसपास पारा पहुंचा 16.4 डिग्री, इस रिपोर्ट में बड़ा खुलासा",
+          "summary": "एआई डाटा सेंटर के कारण आसपास के क्षेत्रों में तापमान 16.4 डिग्री तक पहुंच गया है। एक रिपोर्ट में खुलासा हुआ है कि ये डाटा सेंटर हीट आइलैंड प्रभाव पैदा कर रहे हैं। इससे पर्यावरण को खतरा हो सकता है।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "तमिलनाडु में विजय की ताजपोशी पर संशय,दिनाकरन ने AIADMK को दिया समर्थन",
-      "url": "https://www.amarujala.com/video/india-news/vijay-thalapathy-tamil-nadu-doubts-over-vijay-s-coronation-in-tamil-nadu-dinakaran-extends-support-to-aiadmk-2026-05-09",
-      "source": "Amar Ujala National",
+      "title": "ईरान में इंटरनेट बैन के 70 दिन पूरे; रूस ने यूएई से की शांति वार्ता का समर्थन करने की अपील",
+      "url": "https://www.amarujala.com/live/world/west-asia-war-live-updates-israel-iran-us-strait-of-hormuz-2026-05-09",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-08T19:53:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/vijay-thalapathy-tamil-nadu_ce37c8ec3ada2978a981653d77a979f5.jpeg?w=750&dpr=1.0",
-      "summary": "तमिलनाडु में एडाप्पडी पलानीस्वामी के नेतृत्व वाली AIADMK सरकार के भविष्य पर संशय के बीच, एमजीआर के पोते दिनाकरन ने पार्टी को समर्थन देने की घोषणा की है। Vijay Thalapathy Tamil Nadu: तमिलनाडु में विजय की ताजपोशी पर संशय, दिनाकरन ने AIADMK को दिया समर्थन।",
-      "region": "World",
+      "published_at": "2026-05-08T22:25:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/22/west-asia-crisis_add79c931ed9c9e1fb53c750469f15b3.gif?w=750&dpr=1.0",
+      "summary": "ईरान में इंटरनेट बैन के 70 दिन पूरे हो गए हैं। रूस ने संयुक्त अरब अमीरात से शांति वार्ता का समर्थन करने की अपील की है। यह अपील पश्चिम एशिया में तनाव के बीच आई है।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "तमिलनाडु में विजय की ताजपोशी पर संशय,दिनाकरन ने AIADMK को दिया समर्थन",
-          "summary": "तमिलनाडु में एडाप्पडी पलानीस्वामी के नेतृत्व वाली AIADMK सरकार के भविष्य पर संशय के बीच, एमजीआर के पोते दिनाकरन ने पार्टी को समर्थन देने की घोषणा की है। Vijay Thalapathy Tamil Nadu: तमिलनाडु में विजय की ताजपोशी पर संशय, दिनाकरन ने AIADMK को दिया समर्थन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "विजय बने तमिलनाडु के नए ‘थलापति’; आज लेंगे CM पद की शपथ, ऐसा रहा टीवीके का 27 महीनों का सफर",
-      "url": "https://www.amarujala.com/entertainment/tamilaga-vettri-kazhagam-chief-chief-thalapathy-vijay-journey-from-the-world-of-acting-to-politics-2026-05-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-08T19:46:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/thalpata-vajaya_292594e524c214f8f259035a65a106e0.jpeg?w=750&dpr=1.0",
-      "summary": "सुपरस्टार विजय तमिलनाडु के नए 'थलापति' बन गए हैं और आज मुख्यमंत्री पद की शपथ लेंगे। उनकी पार्टी टीवीके ने 27 महीनों के भीतर पहली बार विधानसभा चुनाव लड़ा और विजय हासिल किया।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विजय बने तमिलनाडु के नए ‘थलापति’; आज लेंगे CM पद की शपथ, ऐसा रहा टीवीके का 27 महीनों का सफर",
-          "summary": "सुपरस्टार विजय तमिलनाडु के नए 'थलापति' बन गए हैं और आज मुख्यमंत्री पद की शपथ लेंगे। उनकी पार्टी टीवीके ने 27 महीनों के भीतर पहली बार विधानसभा चुनाव लड़ा और विजय हासिल किया।",
-          "region": "दुनिया"
+          "title": "ईरान में इंटरनेट बैन के 70 दिन पूरे; रूस ने यूएई से की शांति वार्ता का समर्थन करने की अपील",
+          "summary": "ईरान में इंटरनेट बैन के 70 दिन पूरे हो गए हैं। रूस ने संयुक्त अरब अमीरात से शांति वार्ता का समर्थन करने की अपील की है। यह अपील पश्चिम एशिया में तनाव के बीच आई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -394,60 +345,6 @@
         "hi": {
           "title": "विजय ने राज्यपाल से तीसरी बार की मुलाक़ात, सरकार बनाने का दावा किया पेश",
           "summary": "तमिलनाडु में टीवीके चीफ़ विजय ने राज्यपाल राजेंद्र अर्लेकर से मुलाक़ात कर सरकार बनाने का दावा पेश किया. यह उनकी राज्यपाल से तीसरी मुलाक़ात थी. विजय की पार्टी ने सरकार बनाने के लिए दावा पेश किया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सिंधु संधि पर पाकिस्तान की नई पैंतरबाजी, संयुक्त राष्ट्र सुरक्षा परिषद में पहुंचा, जल संकट का हवाला",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYW50V0xMTnNWSkVOZ0Z0YThjUXZveU53UUl0aWJpeXhHRjM4ajQzSGlpZEptSG5UY21qMXhkdW1qeEVyU2w3QlB6ZW1keEtRaG5QNXNpTEhBTk1lbmVDa2p6Rjhmd1cyNE9lQVRSZ2dyamdFbmhQSUF4UFJheElvM1Y3ODVZZUxjdGlOZzRneWY3bEFNb3o3TkdldXR2LVFpZGlKLWg2dXhFUFl4Z2J2d0NIUlZGRl9zS3hKQW5QaWFkeUg0UzJDSmlGWVNEVzNkSUM2TmMtUHlRRUgyaGJ1eG9IRThZNU9HbDFuN0E2VkwxSXB2RzlsSDJNcWNpSnV3ajNidmNwWTTSAY4CQVVfeXFMTW5ldy1OTWg5bG1pZC0ta19EYW9qY0RhaWZSVVUwV3pQZ1pwblpNdUtrYWFmUG93QnJTM3dxTC1nRGswbzdvNGdLQ1RUOHpRdmFaenJxLUY3S3Fld080Ukt1NmNmS3JfSVRoeG9wVE8tRWdyOElyYm9ZMVQxbGxucGxqNS1qTlMzYmE4X3VlLXdRSGFsbjl1ZWRIc0JXUjhqZ3YySll0cjVTVXo3aHRlU2ZVQkF2eklVRWVhbGZFU0NmSG1QTDZrWGVDaDJzRUM5eEtYZE0yYU9mc1NSY05iVl9ualdyZ2FIUmV2VTdPdXlzMzVjVFhmaVR2SzJ5QUxZc3I0TEwybzVNYkFJRDNn?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-08T13:55:34+00:00",
-      "image_url": "https://images.pexels.com/photos/8771003/pexels-photo-8771003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पाकिस्तान ने सिंधु जल संधि को लेकर नई पैंतरबाजी शुरू की है और जल संकट का हवाला देते हुए संयुक्त राष्ट्र सुरक्षा परिषद में मामला उठाया है। IWT: सिंधु संधि पर पाकिस्तान की नई पैंतरबाजी, संयुक्त राष्ट्र सुरक्षा परिषद में पहुंचा, जल संकट का हवाला देकर लगाई गुहार Navbharat Times।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंधु संधि पर पाकिस्तान की नई पैंतरबाजी, संयुक्त राष्ट्र सुरक्षा परिषद में पहुंचा, जल संकट का हवाला",
-          "summary": "पाकिस्तान ने सिंधु जल संधि को लेकर नई पैंतरबाजी शुरू की है और जल संकट का हवाला देते हुए संयुक्त राष्ट्र सुरक्षा परिषद में मामला उठाया है। IWT: सिंधु संधि पर पाकिस्तान की नई पैंतरबाजी, संयुक्त राष्ट्र सुरक्षा परिषद में पहुंचा, जल संकट का हवाला देकर लगाई गुहार Navbharat Times।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका के व्यवहार ने कूटनीति के मार्ग को धमकी, दबाव और प्रतिबंधों की ओर मोड़ दिया है",
-      "url": "https://news.google.com/rss/articles/CBMiqwhBVV95cUxNVlZvbjFWOUVUOW9nb0ktQk5KbVNxSmozTUdkUHNIbW5jQWRrVExrdDd3eWo0bEI1Y3BUVHdjeGNLOVFMMEtPZEVSdkszbjBsYXUybFRySHBxaXQwTE01MG15UHlQdzktRGxpbW8yVzFpSFhjel9XanhDSlRZZG45NnRyeVBXUTR6bHNldTB0M0dwZ1Y1Q3VMWml3SHlRX3pUVXhGc2I3dzZfbklKNmprdlZRUXFHQWxKbHBWNnJ4TGFIdDVMWlJNc2hKMU1TSXlhMlJiUHdOYXFXQlhNVkpENWN1WTQ2YUpwNVBmZ3I3NERHZnFYTDlwaVdIN1ljNFVkejhPZ0hIc0kzRm50eUhGLTVrTktZWjhWcjJKSnhWV2MwQXFHZWk3QTZpcE5aMGt0aW5JVXp4VnM3VmFRbHR0THpYMGNRbmgyUGpleC1pRGhlU19CbTJ4TVZhN3gwajR2elFkWnFyU2Y1RDM0NThVR3lndXhWdjFFUUdnY2VDTEYwSlZIMzhnQ2Y4X3ktM3VHOGtvQUJ3bkluMzhuMUNNMG9VUGdpUGxUd2pTaVlWa3I0aUd2U3AzN0F2LS01dFJjWG11M1lfM1Eycm51LXdwSXhmeWlsMDNLNnBLdEhPZ0FWb3NlclctM0FMWXpnRzRZVXpWaVZTTUI4TjJoNUFjUG9wYnhBZUNma29JTUJjU0NRc0ljbnFnTlppUGhPMnhuYnF4OXdmcmt0Y0h1X1Q3NFJsRUY5TEY1Rk1UWW12Xzg1SHE2czJzTnVsYmlFSmtNX2NwREhNS0lsSHR2clhEcWhHNHdqVHIzWnluQi0yY2tVOW5zT3k4OHhqWU1fMjdRdlZ5OWxKQWxzOFM3UXZmT0MyVWxHR19vYzEzS0pudkZGRDhLMDg0WXpBU0Y5YzFxX0VvOHFWelBLaS1aSWhodHhqazNEdFN5SGF3c1NBV3ZWczFPc1IwMV9KdFp5Um9VcWt0ZG83OXdtdzNHT3hIeG5UcmVJZFhJbExScmFNUlZoMWNjYm9aMXU3UmhHanY1ZjF5Z0EyMlZBN3lVYnZ4VndYSld4bjZEQWlRRDlGRy1nT0I1YUtxcWl5ZUhFdHdIeGwwNGo3OWQ2VEIyaUhZZUtZM2MxN2FqVTBidlZVb2tvQWpFZ0kxVlE0NnUzcktZZTBUYjNjWXNPOUs3X3dXNy1uLTV2WkcwSG11XzRXN1BQdlpMblBDMkN5NEFqM2xUeXZrWERBMHhIVVg3Q1NieHZ2ZkUzbU1NV1hGTWF4ZnUzbzlMQTVuYXhGc2FFVmx2X1RNS1VnRkJlXzhhLWRVbzlYOEo2ajhkdWxpTloyWmhLb2I1MzR0VnkxNVRqSUFSRGRteFZfajdkb1p3Y2ZfVjRRUWxRNTh5Z2xQTUEtX1RaeWdKVGJsT2VJTQ?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-08T12:03:00+00:00",
-      "image_url": "https://images.pexels.com/photos/1119118/pexels-photo-1119118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी कूटनीति का मार्ग बदल गया है। अमेरिका के व्यवहार ने कूटनीति को धमकी, दबाव और प्रतिबंधों की ओर मोड़ दिया है। पेज़ेश्कियान ने कहा है कि अमेरिका की नीतियां कूटनीति के मार्ग को बदल रही हैं।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका के व्यवहार ने कूटनीति के मार्ग को धमकी, दबाव और प्रतिबंधों की ओर मोड़ दिया है",
-          "summary": "अमेरिकी कूटनीति का मार्ग बदल गया है। अमेरिका के व्यवहार ने कूटनीति को धमकी, दबाव और प्रतिबंधों की ओर मोड़ दिया है। पेज़ेश्कियान ने कहा है कि अमेरिका की नीतियां कूटनीति के मार्ग को बदल रही हैं।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "शुभेंदु अधिकारी होंगे पश्चिम बंगाल के नए मुख्यमंत्री, अमित शाह ने किया एलान",
-      "url": "https://www.bbc.com/hindi/articles/cpdpn7d7vqqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-08T11:45:00+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9eea/live/5f35f590-4ad4-11f1-941e-d3689d7c57f6.jpg",
-      "summary": "पश्चिम बंगाल के नए मुख्यमंत्री शुभेंदु अधिकारी होंगे। अमित शाह ने उनकी नियुक्ति की घोषणा की है। शुभेंदु अधिकारी नंदीग्राम आंदोलन के रचयिता हैं और ममता बनर्जी को दो बार चुनाव हराने वाले हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शुभेंदु अधिकारी होंगे पश्चिम बंगाल के नए मुख्यमंत्री, अमित शाह ने किया एलान",
-          "summary": "पश्चिम बंगाल के नए मुख्यमंत्री शुभेंदु अधिकारी होंगे। अमित शाह ने उनकी नियुक्ति की घोषणा की है। शुभेंदु अधिकारी नंदीग्राम आंदोलन के रचयिता हैं और ममता बनर्जी को दो बार चुनाव हराने वाले हैं।",
           "region": "दुनिया"
         }
       }
@@ -489,20 +386,20 @@
       }
     },
     {
-      "title": "ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया, ट्रंप बोले- संघर्ष विराम जारी",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdnozZjlNNmhBM2cyTWVTZGMwMUprNHRXQlZjbE9hYkpSN0I4dXRJcUFKVG9qSWJCS3dYYnpXakZ4LVBtUmJ6cTdWUVVyRlNhMzFjNTdwUDhuTTJJQUFSS0lHMHg4TG1JVGZ0M2ZsUWdMUWU1QVpyZ2VjU0pZSTRqTVRhMTUzU1ItbVVrNE1vWjlSLTE1OWpNYzVhcmtPR2JNc3dWTnA1TTF5ZnFs0gGyAUFVX3lxTFB4a0xIcGNjREhZOURBdHV1RURMdUZ3b0EtWDdNRllWZlExOVdUUlRSOExGYXF0OUZqeUFFcXNEUVZySUtEN0FhSUZfZ21TeTItMHoxMDU5YVNqN091TGJ2a1NlelQ3bVRjU3RUUGN2ZGNzbjhYR3piN3VpQWZVTm1TS3R3NEZ1LVJBQnljMEtHMzIxanFXNzd5RERhbjNuSVo2MFZoTFpWQ1FSWlBVem9GbUE?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "title": "दूसरों के घरों में काम करने से लेकर विधायक बनने तक",
+      "url": "https://www.bbc.com/hindi/articles/cj3pn2r71z7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-08T08:39:55+00:00",
-      "image_url": "https://images.pexels.com/photos/4386403/pexels-photo-4386403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया है। वहीं, अमेरिकी राष्ट्रपति ट्रंप ने संघर्ष विराम जारी रहने की बात कही है। US Iran war: ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया, ट्रंप बोले- संघर्ष विराम जारी Amar Ujala।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-08T09:25:13+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/53a4/live/1c3b03e0-4a1e-11f1-a7ce-b934bcb15ff4.jpg",
+      "summary": "कलिता माझी ने घरों में काम करने से शुरुआत की थी और अब वह एक विधायक हैं। उन्हें बीजेपी ने विधानसभा का टिकट दिया था और उन्होंने चुनाव जीत लिया।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया, ट्रंप बोले- संघर्ष विराम जारी",
-          "summary": "ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया है। वहीं, अमेरिकी राष्ट्रपति ट्रंप ने संघर्ष विराम जारी रहने की बात कही है। US Iran war: ईरान ने अमेरिका के खिलाफ बड़ी जीत का दावा किया, ट्रंप बोले- संघर्ष विराम जारी Amar Ujala।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "दूसरों के घरों में काम करने से लेकर विधायक बनने तक",
+          "summary": "कलिता माझी ने घरों में काम करने से शुरुआत की थी और अब वह एक विधायक हैं। उन्हें बीजेपी ने विधानसभा का टिकट दिया था और उन्होंने चुनाव जीत लिया।",
+          "region": "दुनिया"
         }
       }
     },
@@ -538,42 +435,6 @@
         "hi": {
           "title": "तमिलनाडु के राज्यपाल पर क्यों उठ रहे हैं सवाल?",
           "summary": "तमिलनाडु के राज्यपाल राजेंद्र अर्लेकर पर सवाल उठ रहे हैं. उन्होंने सबसे बड़ी पार्टी के नेता एक्टर विजय को सरकार बनाने के लिए नहीं बुलाया. जानकारों का कहना है कि राज्यपाल नियमों को तोड़ रहे हैं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTi1jTThFNnVhMUp6ZzZ2NjVZNmNEMEF3WVBwUEwwOG9UMFA4NEtjQ3B5b1c5QlExMnNSdzdOcEI2eHh2QnZqYVY4Rm1HZHN2NHpCYnVIWkcwaGlhRDNhV1hIYTRmOXdSV0hoWHBNaWFCUzltdUw3RnpPWnFhM0pkb2lOMU16Vy1mZUZ2eWt5LVUzUVlNcXpVMWNLTmJfb2NaVTZhdHJGTkhiT3hzR0duX2RlUE5LbjVRVlVlNl9qWGV5Qi1tdXp2S3VUMWFDWDJYcWowa3lVOHRJUURq0gHiAUFVX3lxTFBmeDNoams3UFVrSW93eFVuNzBNUGl2R1JodVh6b19ZNU5SVXFtNEM2a2RsUWhCNHdmQzZROHIxbS15ODJwQm9DSXRSOXBWY3VnRG1FTkoyOVd4M3daWHhQRFBJRl8tM0I0UXhEYllBZ1dhcG1oRVY3S0szbFhxWVh5d2NLTm5sME94SmM4ZVVodThvVGw1SjNocTNob05lUUpsN1Vqb1d2Y1JBVUVvSWZIYjFfcmtmZDZzWHFPTnJPakNsUzM5LVVzTDVrTG5FMUJfUjZHWkRCRlMzdExpWHB2NVE?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-08T07:30:41+00:00",
-      "image_url": "https://images.pexels.com/photos/6085721/pexels-photo-6085721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ब्रह्मा चेलानी ने लिखा है कि कूटनीति और कारोबार के मेल की ट्रम्प-शैली अनुचित है. इस शैली में कूटनीति को व्यावसायिक हितों के लिए इस्तेमाल किया जाता है. ब्रह्मा चेलानी का कॉलम: कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है Dainik Bhaskar।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है",
-          "summary": "ब्रह्मा चेलानी ने लिखा है कि कूटनीति और कारोबार के मेल की ट्रम्प-शैली अनुचित है. इस शैली में कूटनीति को व्यावसायिक हितों के लिए इस्तेमाल किया जाता है. ब्रह्मा चेलानी का कॉलम: कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है Dainik Bhaskar।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "क्या होगा अगर टीवीके सरकार नहीं बना पाती है",
-      "url": "https://www.bbc.com/hindi/articles/cpdpzv8l1qeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-08T07:18:52+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3122/live/a8f2c220-4a8a-11f1-adfb-b387dc402556.jpg",
-      "summary": "तमिलनाडु विधानसभा चुनाव के नतीजे घोषित हुए चार दिन हो चुके हैं. अभी तक यह तय नहीं हो पाया है कि सरकार कौन बनाएगा अगर टीवीके नहीं बना पाती है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या होगा अगर टीवीके सरकार नहीं बना पाती है",
-          "summary": "तमिलनाडु विधानसभा चुनाव के नतीजे घोषित हुए चार दिन हो चुके हैं. अभी तक यह तय नहीं हो पाया है कि सरकार कौन बनाएगा अगर टीवीके नहीं बना पाती है.",
           "region": "दुनिया"
         }
       }
@@ -647,6 +508,132 @@
           "title": "'प्रवासन पर भारत का दृष्टिकोण समग्र और व्यावहारिक', संयुक्त राष्ट्र महासभा में बोले विदेश राज्य",
           "summary": "विदेश राज्य मंत्री ने संयुक्त राष्ट्र महासभा में कहा कि प्रवासन पर भारत का दृष्टिकोण समग्र और व्यावहारिक है. उन्होंने महासभा में भारत की स्थिति स्पष्ट की. UNGA: 'प्रवासन पर भारत का दृष्टिकोण समग्र और व्यावहारिक', संयुक्त राष्ट्र महासभा में बोले विदेश राज्य मंत्री Amar Ujala।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "GDP को भूल जाइए! अब इन चीज़ों से तय होगी कंपनियों की 'असली' वैल्यू, निवेशकों के लिए बड़ी खबर",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2lZWWlNdENLWTR0NTkta0c4MVhjb1g1cThweTBzalNtb0Nqd0RPeU1ybnlDOUtWVUwyR0hvSkFGNEhVYll0Ykwyb1BKNDMyUHpyeVRRMDRJTDQxUVl6RHVUWUZDOGMxa193T3lFY2tTNXBMcHA1cDlJaUhhM25EZ2FTOGI1VWltSGllQ1FOYnY0SEt1U004eGZsT0FtbXN2RDhOSU5hSG9WbzRxaUVhRkZTVFFYNUZ1RzJGSlZSbUxYR0M2c0RueTFFNEpkVURNZm40U1lDY1NtQQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-08T05:22:25+00:00",
+      "image_url": "https://images.pexels.com/photos/7887818/pexels-photo-7887818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने जीडीपी को भूलने की बात कही है। अब कंपनियों की 'असली' वैल्यू अन्य कारकों से तय होगी। यह निवेशकों के लिए एक बड़ी खबर है। संयुक्त राष्ट्र का बड़ा ऐलान: GDP को भूल जाइए!",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "GDP को भूल जाइए! अब इन चीज़ों से तय होगी कंपनियों की 'असली' वैल्यू, निवेशकों के लिए बड़ी खबर",
+          "summary": "संयुक्त राष्ट्र ने जीडीपी को भूलने की बात कही है। अब कंपनियों की 'असली' वैल्यू अन्य कारकों से तय होगी। यह निवेशकों के लिए एक बड़ी खबर है। संयुक्त राष्ट्र का बड़ा ऐलान: GDP को भूल जाइए!",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "यूएफओ फाइलों पर अमेरिका का बड़ा खुलासा: फाइलें सार्वजनिक करना शुरू; पेंटागन करेगा और",
+      "url": "https://www.amarujala.com/world/pentagon-begins-releasing-ufo-files-more-classified-documents-and-videos-to-follow-2026-05-08",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-08T04:43:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/11/us-pentagon_2070e5fda7a5c97e6daa2ff237e45d99.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका ने यूएफओ फाइलों को सार्वजनिक करना शुरू कर दिया है। पेंटागन और दस्तावेज-वीडियो जारी करेगा। यह अमेरिका का एक बड़ा खुलासा है। यूएफओ फाइलों पर अमेरिका का बड़ा खुलासा: फाइलें सार्वजनिक करना शुरू; पेंटागन करेगा और दस्तावेज-वीडियो जारी।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूएफओ फाइलों पर अमेरिका का बड़ा खुलासा: फाइलें सार्वजनिक करना शुरू; पेंटागन करेगा और",
+          "summary": "अमेरिका ने यूएफओ फाइलों को सार्वजनिक करना शुरू कर दिया है। पेंटागन और दस्तावेज-वीडियो जारी करेगा। यह अमेरिका का एक बड़ा खुलासा है। यूएफओ फाइलों पर अमेरिका का बड़ा खुलासा: फाइलें सार्वजनिक करना शुरू; पेंटागन करेगा और दस्तावेज-वीडियो जारी।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "‘एलओसी से ऑपरेशन सिंदूर तक’, भारत की 8 ऐतिहासिक कार्रवाइयां जिनसे कांप उठा पाकिस्तान",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGRSTElwRmJlOU9aQVdlSHlLb21GTFREai1WSGtfV0Q2TzZUa2FvNlMxZmk3NmVIcWZRSkhJZnRTbThCbTl2VkY5SHEyZXlaelUxQUdJRExfYy1qUDk3d2kybXRxczNlQ1JJZG5PcUx3elFzRTJzVTZtaDVVLUVORG9wUjE1S2hzNmVHX1BHY1RTeTdoVElqWDlIQzMxWnlnYV9peEUwbmhaSVVmRGViU9IBtgFBVV95cUxNTndiTDFZX2hxTWt3T3FzQk5mUVVKWHQ2aUd4eFVzTldXVEhYR1pQcWJKUHFkaG5yNm5CRkRscERmbVZCcV9ZOFU2UzZqdzFPWFVVSGF6N2U5QmhiM2NxaHphakxjZmppTmdBQVVJbmJvbjdXbnJ0M2pZTmlua0U5MEp1V3BFcjhycVpwbFhBdzBTR3hkOXNuNXlrR2pwc2NFcUVIWWJMamMyaW0yTmpjT0xjOXZQUQ?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-08T04:15:05+00:00",
+      "image_url": "https://images.pexels.com/photos/36180090/pexels-photo-36180090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारतीय सेना ने एलओसी पर कई कार्रवाइयों में पाकिस्तान को पराजित किया, जिनमें ऑपरेशन सिंदूर भी शामिल है। यह कार्रवाई 2019 में हुई थी। भारत ने पाकिस्तान के कई आतंकवादी ठिकानों को नष्ट किया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘एलओसी से ऑपरेशन सिंदूर तक’, भारत की 8 ऐतिहासिक कार्रवाइयां जिनसे कांप उठा पाकिस्तान",
+          "summary": "भारतीय सेना ने एलओसी पर कई कार्रवाइयों में पाकिस्तान को पराजित किया, जिनमें ऑपरेशन सिंदूर भी शामिल है। यह कार्रवाई 2019 में हुई थी। भारत ने पाकिस्तान के कई आतंकवादी ठिकानों को नष्ट किया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने किया तेल टैंकर जब्त, अमेरिका ने दो जहाज रोके; होर्मुज में तनाव बरकरार",
+      "url": "https://www.amarujala.com/world/iran-seizes-oil-tanker-us-naval-disables-two-vessels-amid-rising-strait-of-hormuz-2026-05-08",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-08T04:08:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/08/iran_a705952326920cf407ec677c70669b11.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान ने तेल टैंकर जब्त कर लिया है, जिसके बाद अमेरिका ने दो जहाजों को रोक दिया है। होर्मुज जलडमरूमध्य में तनाव बढ़ गया है। अमेरिका ने ईरान के खिलाफ प्रतिबंध लगाए हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने किया तेल टैंकर जब्त, अमेरिका ने दो जहाज रोके; होर्मुज में तनाव बरकरार",
+          "summary": "ईरान ने तेल टैंकर जब्त कर लिया है, जिसके बाद अमेरिका ने दो जहाजों को रोक दिया है। होर्मुज जलडमरूमध्य में तनाव बढ़ गया है। अमेरिका ने ईरान के खिलाफ प्रतिबंध लगाए हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'कठिन दौर में साझेदारी ही प्रगति का रास्ता', सूरीनाम में जयशंकर का वैश्विक संदर्भ में भारत की",
+      "url": "https://www.amarujala.com/world/eam-jaishankar-on-suriname-visit-says-partnerships-critical-for-progress-in-tough-world-praise-india-2026-05-08",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-08T04:01:53+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/08/s-jaishankar_f49a179c7ff5bcfd10e59e2ba5f9f2eb.jpeg?w=750&dpr=1.0",
+      "summary": "भारत के विदेश मंत्री एस जयशंकर ने सूरीनाम में कहा कि कठिन समय में साझेदारी ही प्रगति का रास्ता है। उन्होंने वैश्विक संदर्भ में भारत की भूमिका पर जोर दिया। जयशंकर ने भारत के साझेदारी के महत्व को उजागर किया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'कठिन दौर में साझेदारी ही प्रगति का रास्ता', सूरीनाम में जयशंकर का वैश्विक संदर्भ में भारत की",
+          "summary": "भारत के विदेश मंत्री एस जयशंकर ने सूरीनाम में कहा कि कठिन समय में साझेदारी ही प्रगति का रास्ता है। उन्होंने वैश्विक संदर्भ में भारत की भूमिका पर जोर दिया। जयशंकर ने भारत के साझेदारी के महत्व को उजागर किया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत-PAK संघर्ष में चीन का कबूलनामा: नापाक साजिशों में दिया था साथ; बीजिंग ने ऑन-साइट सैन्य सपोर्ट",
+      "url": "https://www.amarujala.com/world/china-confirms-on-site-technical-support-to-pakistan-during-four-day-conflict-with-india-2026-05-08",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-08T02:12:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/08/india-pakisatan-china_d4a19c6a01e885e8c044b6733df8ce44.jpeg?w=750&dpr=1.0",
+      "summary": "चीन ने भारत-PAK संघर्ष में अपनी भूमिका को स्वीकार किया है। उन्होंने कहा कि उन्होंने नापाक साजिशों में पाकिस्तान को सैन्य समर्थन दिया था। चीन ने ऑन-साइट सैन्य समर्थन की मानी बात की।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत-PAK संघर्ष में चीन का कबूलनामा: नापाक साजिशों में दिया था साथ; बीजिंग ने ऑन-साइट सैन्य सपोर्ट",
+          "summary": "चीन ने भारत-PAK संघर्ष में अपनी भूमिका को स्वीकार किया है। उन्होंने कहा कि उन्होंने नापाक साजिशों में पाकिस्तान को सैन्य समर्थन दिया था। चीन ने ऑन-साइट सैन्य समर्थन की मानी बात की।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कतर ने इटली फोरम में ईयू-जीसीसी संबंधों पर कूटनीति और सामूहिक सुरक्षा की अपील की",
+      "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxQVXVscmVxcVA0ZDJ4ajRHM0NhUlpENnhNSl9aMGJQY0doVlYwdDgxT1RnMllhbDBkUkJCcE9zMDQ0ODNBeExMTjNtbHdORzVNZURqRGdmMGZZZ0o0U1hsWnpqTEFZcmNOdGQxTVJTTHRfbWcyclhiMmRJSWJrRmxsMElTVlc1LW90MDhNdkZMRURabE5DbWZyNXBldXVCSlpaZk03VU92UnBmX0tHTnl3OXh4VzRfVFJDUG8tRngwOF9xWXpVWjltR0lIdmY5cVhkZE1yTko5Uk1OWE1VWlREenBGUWVQRndTS29vSDM1Nmh2dDkxT2FaWTV5cTQ4UjNSSGlObWk2NkRXTE5EUWU2Q0ZOX0dpUDJGLWhaSlpVaU5yNFFxMXZaYUNVOG1TSTdJRURiY004RUNhdHViOVpTbGNEaW5fOXM5Y2E1UDhlMjRhcEtBb1p5aUNPYnVVTzRNb0psRHJBdG1YRXY5TXJ0d0ZyX0s0Zjk4a2tvM0hPa1lxdWgzX0tmTHdJT3lXT2tvVlpaWHZ0Y3VYZHBIX1JvdTl2WGVzTVVSbVZKMHd6c3lPMzBSUmYyUGptMzdtLW8tcHJiaFlBMnpVZHpOeV92V0RPckxIZFFYOUE2RWFpTXZCaE8zU2E0R0JjbmV4SXhYeFM4NUgtenRxRWVSS01ZMlVsc1Z3T256SHE3QTBRR2Zyd0xnXzN3Q2NRLXhXaU9oelJPTHZWU3gwenpnSU1CRktBaUVuZUVSSlpsR2k0ZW5ic1lwczVjU2FYT0c4YVpDUXBLRkdPcFE?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-05-07T22:06:00+00:00",
+      "image_url": "https://images.pexels.com/photos/10807493/pexels-photo-10807493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "है। उन्होंने संबंधों को मजबूत करने और सामूहिक सुरक्षा को बढ़ावा देने का आह्वान किया। कतर ने इटली फोरम में ईयू-जीसीसी संबंधों पर कूटनीति और सामूहिक सुरक्षा की अपील की Qatar news agency।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कतर ने इटली फोरम में ईयू-जीसीसी संबंधों पर कूटनीति और सामूहिक सुरक्षा की अपील की",
+          "summary": "है। उन्होंने संबंधों को मजबूत करने और सामूहिक सुरक्षा को बढ़ावा देने का आह्वान किया। कतर ने इटली फोरम में ईयू-जीसीसी संबंधों पर कूटनीति और सामूहिक सुरक्षा की अपील की Qatar news agency।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
