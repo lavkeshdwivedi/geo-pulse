@@ -1,6 +1,18 @@
 # 🌍 GeoPulse
 
-GeoPulse is a self-running, hourly geopolitics newsletter that publishes to GitHub Pages with zero servers and zero upkeep. You fork it, fill in a few free API keys, flip on Pages, and a GitHub Actions workflow quietly does the rest every hour. Live demo at [pulse.lavkesh.com](https://pulse.lavkesh.com).
+GeoPulse is a self-running, hourly, bilingual (English + Hindi) geopolitics newsletter that publishes to GitHub Pages with zero servers and zero upkeep. A scheduled GitHub Actions workflow pulls global-affairs RSS feeds, ranks stories with a free-tier LLM, summarises the survivors, regenerates a static dashboard plus an RSS feed, and commits the result back to `main` — all on the GitHub free plan. You fork it, fill in a few free API keys, flip on Pages, and the pipeline takes over. Live demo at [pulse.lavkesh.com](https://pulse.lavkesh.com).
+
+## How it works
+
+Each hourly run executes the same pipeline inside `.github/workflows/newsletter.yml`:
+
+1. **Fetch** — `scripts/fetch_news.py` pulls English and Hindi RSS feeds (BBC, Al Jazeera, NYT, Guardian, NPR, DW, The Diplomat, UN News, BBC Hindi, DW Hindi, Amar Ujala, Patrika, etc.), Google News RSS queries, and optionally NewsAPI into `raw_news.json`.
+2. **Detect updates** — `scripts/detect_updates.py` compares fresh URLs against the last published edition. If nothing is new, the run short-circuits before spending any LLM quota.
+3. **Rank** — `scripts/rank_articles.py` makes one LLM call per language to keep the top-N most newsworthy items, so summarisation tokens are spent only on stories that matter.
+4. **Summarise** — `scripts/summarize.py` writes `newsletter.json`, `newsletter.md`, and `newsletter.hi.md` with LLM-written summaries (with graceful fallback to RSS blurbs when no key is configured).
+5. **Generate site** — `scripts/generate_site.py` rebuilds `site/index.html`, `site/hi/index.html`, the archive pages under `site/newsletters/`, and `site/feed.xml`.
+6. **Sync README** — `scripts/update_readme.py` refreshes the auto-managed status block below.
+7. **Commit & deploy** — the workflow commits generated files directly to `main` and uploads `site/` to GitHub Pages.
 
 ## Use this template
 
@@ -40,7 +52,15 @@ A few brand surfaces live outside the Python code and `config.yml`:
 
 ## Features
 
-Hourly geopolitics news aggregation. Smart update detection so it only publishes when fresh stories appear. Optional AI summaries with free-tier LLM providers. Completely automated via GitHub Actions with direct commits to `main`. Responsive dashboard with dark and light mode, thirteen accent colours, and a Hindi edition. RSS feed for subscribers. Every hourly edition kept forever as archived markdown under `newsletters/`.
+- Hourly geopolitics news aggregation from RSS, Google News, and optional NewsAPI.
+- Smart update detection so the pipeline only runs the expensive steps when fresh stories appear.
+- LLM-based ranker that picks the top stories per language before summarisation, keeping free-tier quota usable.
+- Optional AI summaries via Groq, Gemini, or HuggingFace free tiers, with graceful fallback to RSS blurbs.
+- Bilingual output: English at `/` and Hindi at `/hi`, sharing one config and one pipeline.
+- Responsive dashboard with dark and light mode, thirteen accent colours, region filters, and a PWA manifest.
+- RSS feed at `site/feed.xml` for subscribers.
+- Every hourly edition archived forever as markdown under `newsletters/` and as HTML under `site/newsletters/`.
+- Completely automated via GitHub Actions with direct commits to `main` — no servers, no databases, no scheduler to maintain.
 
 ## Live Site
 
@@ -84,35 +104,50 @@ To change the update frequency, edit the `cron` schedule in `.github/workflows/n
 
 ```
 geo-pulse/
-├── .github/workflows/newsletter.yml   # Scheduled workflow
+├── .github/workflows/newsletter.yml   # Scheduled hourly workflow
 ├── scripts/
-│   ├── fetch_news.py                  # News fetching (RSS + NewsAPI + Google News)
-│   ├── summarize.py                   # LLM summarization with graceful fallback
-│   ├── generate_site.py               # Static site + RSS feed generator
-│   └── update_readme.py               # Auto-sync README status block
+│   ├── fetch_news.py                  # News fetching (RSS + Google News + optional NewsAPI)
+│   ├── detect_updates.py              # Skip the run when no net-new URLs are found
+│   ├── rank_articles.py               # LLM ranker: trims raw_news.json to top-N per language
+│   ├── summarize.py                   # LLM summarisation with graceful fallback
+│   ├── generate_site.py               # Static site + RSS feed + archive generator
+│   ├── update_readme.py               # Auto-sync README status block
+│   ├── llm_client.py                  # Shared Groq / Gemini / HuggingFace client
+│   ├── languages.py                   # Central language registry (en, hi, ...)
+│   ├── voice.py                       # Editorial persona injected into LLM prompts
+│   └── reset_for_fork.sh              # Wipe archives so a fresh fork starts clean
 ├── site/
-│   ├── index.html                     # GitHub Pages dashboard (auto-generated)
+│   ├── index.html                     # English dashboard (auto-generated)
+│   ├── hi/index.html                  # Hindi dashboard (auto-generated)
 │   ├── styles.css                     # Responsive CSS with dark/light mode
 │   ├── feed.xml                       # RSS feed (auto-generated)
+│   ├── newsletters/                   # Per-edition archive HTML (auto-generated)
 │   ├── manifest.webmanifest           # PWA manifest (edit on fork)
 │   └── favicon.svg, logo.svg, ...     # Brand art (edit on fork)
-├── newsletters/                       # Auto-archived past editions (kept forever)
-├── newsletter.md                      # Latest newsletter (auto-generated)
+├── newsletters/                       # Per-edition archive markdown (kept forever)
+├── newsletter.md                      # Latest English edition (auto-generated)
+├── newsletter.hi.md                   # Latest Hindi edition (auto-generated)
+├── newsletter.json                    # Machine-readable last edition (auto-generated)
 ├── config.yml                         # Configuration (brand block at top)
+├── STYLE.md                           # Editorial voice guide read by the LLM each run
 └── requirements.txt                   # Python dependencies
 ```
 
 ## Local Development
 
+Run the same pipeline the workflow runs, in order:
+
 ```bash
 pip install -r requirements.txt
 python scripts/fetch_news.py     # raw_news.json
-python scripts/summarize.py      # newsletter.md
-python scripts/generate_site.py  # site/index.html + site/feed.xml
-python scripts/update_readme.py  # refresh auto-managed README status
+python scripts/detect_updates.py # exits non-zero output when no fresh URLs
+python scripts/rank_articles.py  # trims raw_news.json to top-N per language
+python scripts/summarize.py      # newsletter.json + newsletter.md + newsletter.hi.md
+python scripts/generate_site.py  # site/index.html, site/hi/index.html, site/feed.xml
+python scripts/update_readme.py  # refresh the auto-managed README status block
 ```
 
-Open `site/index.html` in your browser to preview the dashboard.
+Open `site/index.html` in your browser to preview the English dashboard, or `site/hi/index.html` for the Hindi edition.
 
 ## Linting Hook
 
