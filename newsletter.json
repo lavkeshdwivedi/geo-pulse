@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-05-09T10:08:10.872242+00:00",
+  "generated_at": "2026-05-09T11:54:01.076933+00:00",
   "article_count": 42,
-  "total_unique_count": 250,
+  "total_unique_count": 252,
   "digest": {
-    "en": "Russia's military losses in Ukraine are estimated to exceed 350,000 soldiers, according to a new report. Meanwhile, tensions between the US and Iran continue to escalate, with Washington striking two Iranian-flagged tankers in the Strait of Hormuz. Labour's loss of power in Wales marks a significant shift in UK politics.",
-    "hi": "भारत और अमेरिका एआई पर सहयोग बढ़ाने की तैयारी कर रहे हैं, जिससे चीन को घेरने की रणनीति के तहत यह कदम उठाया जा रहा है। इस बीच, इस्राइल और लेबनान के बीच 14-15 मई को अगले दौर की बातचीत होगी, जिसकी जानकारी अमेरिकी विदेश विभाग ने दी है।"
+    "en": "Iran is reviewing a US proposal at its own pace amid heightened tensions in the Strait of Hormuz. The US and Iran exchanged fire on tankers, with Tehran accusing Washington of \"reckless\" attacks. Moscow marked Victory Day with a Red Square parade under tight security.",
+    "hi": "तुर्किए के यूएन दूत ने फिलिस्तीन में इजरायल के 'औपनिवेशीकरण उपायों' की आलोचना की। रूस-यूक्रेन के बीच ट्रंप ने किया युद्धविराम का ऐलान। इस्राइल-लेबनान के बीच 14-15 मई को अगले दौर की बातचीत होगी।"
   },
   "articles": [
+    {
+      "title": "Iran reviewing U.S. proposal at 'own pace' as Trump awaits response, says report",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-09T11:12:35+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/pvwyqj/article70958460.ece/alternates/LANDSCAPE_1200/2026-05-08T101236Z_89698653_RC2W4LAISLGK_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+      "summary": "Iran is reviewing a U. S. proposal at its own pace, according to a report. U. Secretary of State Marco Rubio had indicated Washington expected a response from Iran, but no timeline has been set for a decision.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDN1U0Q2SXBtOGNaeHpVc1BWQy1SMkdoNjJuSHRsdWM1bFJ3S3dYVk8xRkpqemtmZ3RwQUkzYlQ1RE9IUzlnSk5WTk55ekU3dlZrT1hJNlVSR09qR0JYZjdELWVDMk1ocks4SGZaWDJsZXRPU1JDM3I0U0NqcmV2dzhNVGVnSlJD?oc=5",
+      "source": "Google News (war ceasefire)",
+      "sources": [],
+      "published_at": "2026-05-09T10:41:00+00:00",
+      "image_url": "https://images.pexels.com/photos/35817770/pexels-photo-35817770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "U. S. warships fired on Iranian tankers in the Gulf, prompting Tehran to accuse Washington of reckless attacks. The incident escalated tensions between the two nations, which have been at odds over Iran's nuclear program and regional influence.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Returns to Beijing: A New Opening for US–China Relations?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVJnQzJfbWFFREdIMnBFZWdIdkZwbnBqbWg2SkYxSjRQaUoxUmx4NlFWTDJTMkI4Y3lUOTRNMlNDVF9Ccmh3WEJLZWxXTm1iVEFna25EOFNNSlhTejh4V0xfZEEzNVN0YkJraFRRSXREdW5KZUFHTTh0R21UY3Z0WHJGR2Jka2dsd2JVWWJaTEt2OVVNWjhB?oc=5",
+      "source": "Google News (international relations)",
+      "sources": [],
+      "published_at": "2026-05-09T10:36:42+00:00",
+      "image_url": "https://images.pexels.com/photos/31427555/pexels-photo-31427555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Former U. S. President Donald Trump visited Beijing, sparking speculation about a new opening for US-China relations. Trump's meeting with Chinese leaders comes as the two nations seek to revive stalled trade talks and ease tensions over security and economic issues.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Russia Has Lost More Than 350,000 Soldiers, New Estimate Finds",
       "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html",
@@ -20,26 +56,14 @@
       "translations": {}
     },
     {
-      "title": "Hungary's new PM to be sworn in during 'regime change' party",
-      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Moscow marks Victory Day with a Red Square parade under tight security",
+      "url": "https://www.npr.org/2026/05/09/nx-s1-5816876/russia-victory-day",
+      "source": "NPR World",
       "sources": [],
-      "published_at": "2026-05-09T09:13:23+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891d/live/cd2bc300-4afb-11f1-b55d-0f258dce1735.jpg",
-      "summary": "Péter Magyar will be sworn in as Hungary's new PM after his Tisza party won a landslide victory. Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "published_at": "2026-05-09T09:24:45+00:00",
+      "image_url": "https://images.pexels.com/photos/8568229/pexels-photo-8568229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Moscow's Victory Day parade went ahead under tight security, despite a U. S.-brokered ceasefire in Ukraine. Russian President Putin and several foreign leaders attended the event, which marked the 77th anniversary of the Soviet Union's victory in World War II.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Beijing Xiangshan Forum 2026 focuses on global security hotspots",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTc1TXY0ZUhLd3A2aUVMVGZYTEtNLXNlazBHNDF1UlF2ZzZZOEh2RXZZWGhMVVhRTk5ycjU3ZElRWUpPOE1mam5DanlrOXRoZFFIQnd0UmFMdEZiaklhTEZDOUxqRGZTbTJHV0FVRXVTbmxud0xFTTRPbTZ3VHl5RUVJVFpLVFlsTWFxdXdKUDBuWThTcGhreHRnblBmc0dCQ3ZYTw?oc=5",
-      "source": "Google News (global security)",
-      "sources": [],
-      "published_at": "2026-05-09T09:13:00+00:00",
-      "image_url": "https://images.pexels.com/photos/16144416/pexels-photo-16144416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The Beijing Xiangshan Forum 2026 is discussing global security hotspots. Beijing Xiangshan Forum 2026 focuses on global security hotspots VOV World.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -51,114 +75,6 @@
       "published_at": "2026-05-09T09:12:34+00:00",
       "image_url": "https://images.indianexpress.com/2026/05/Iran-IRGC-1.jpg",
       "summary": "Iran is using small vessels to choke the Strait of Hormuz. ‘Mosquito fleet,’ ‘Midget submarines’: Iran’s swarm of small vessels choking the Strait of Hormuz.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
-      "url": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-05-09T09:08:25+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/07/multimedia/OakArticle-69fd448d-fbvp/OakArticle-69fd448d-fbvp-mediumSquareAt3X-v3.jpg",
-      "summary": "The Trump-Xi summit will discuss Iran, trade, and Taiwan. Expectations are modest despite the high-stakes agenda. The war in Iran, trade, artificial intelligence and Taiwan are expected to be on the agenda.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S. strikes two Iranian-flagged tankers as tensions continue amid ceasefire",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMElVeDRTT2w1dHJyNjc5TG5wNFd5SUVxdHVMdnJiMUhYSjhnYXRSRE1EcUZFYThPUE5sWWJCcTN0NkJYZk1Sd1E4QUxMaDNQSGs5NU9SY2lNS2wyMWlFV3B5Q0Q0djZkOXZQdlJFZ2cxdXE5cjcxN1pJVVc3cldVRWYyaWtjRng0cVRKc1EwWXdnYm92VUg2Rw?oc=5",
-      "source": "Google News (war ceasefire)",
-      "sources": [],
-      "published_at": "2026-05-09T09:07:20+00:00",
-      "image_url": "https://images.pexels.com/photos/36467876/pexels-photo-36467876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The US struck two Iranian-flagged vessels amid ongoing tensions. The incident occurred as a ceasefire was in place. The US action was reported by The Washington Post. U. S. strikes two Iranian-flagged vessels as tensions continue amid ceasefire The Washington Post.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Labour loses power in Wales for first time since 1999 devolution",
-      "url": "https://www.thehindu.com/news/international/labour-loses-power-in-wales-for-first-time-since-1999-devolution/article70958185.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-09T09:04:40+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/70ff2m/article70958211.ece/alternates/LANDSCAPE_1200/AFP_B2AB9L6.jpg",
-      "summary": "Labour has lost power in Wales for the first time since 1999, with Rhun ap Iorwerth's Plaid Cymru winning the election. Wales waves good-bye to Labour for first time since 1999 as the nationalist Plaid Cymru’s leader Rhun ap Iorwerth wins the election echoing its need for a ‘change of leadership’.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran",
-      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-05-09T09:01:26+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/09/multimedia/09int-iran-caspian-sea-01-kwbz/09int-iran-caspian-sea-01-kwbz-mediumSquareAt3X.jpg",
-      "summary": "Iran uses the Caspian Sea as a strategic trade route with Russia. The landlocked body of water has taken on new significance, with Russia shipping military and commercial goods to bolster Tehran’s ability to withstand the U. S.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hacked educational platform partially restored for millions of students",
-      "url": "https://www.aljazeera.com/news/2026/5/9/hacked-educational-platform-partially-restored-for-millions-of-students?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-09T09:01:16+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2022/06/2017-05-13T120000Z_1844840187_RC171E8E71D0_RTRMADP_3_CYBER-ATTACK.jpg?resize=1920%2C1440",
-      "summary": "ShinyHunters hacked Canvas, an educational platform, and threatened to leak data. The hacker group, ShinyHunters, threatened to leak student data after breaching the educational platform Canvas. Hacked educational platform partially restored for millions of students.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Mount Dukono eruption: 3 hikers killed, 17 rescued in Indonesia",
-      "url": "https://indianexpress.com/article/world/mount-dukono-eruption-3-hikers-killed-17-rescued-in-indonesia-10681004/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-09T08:48:11+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/Mount-Dukono.jpg",
-      "summary": "Mount Dukono eruption in Indonesia killed 3 hikers and rescued 17. Mount Dukono eruption: 3 hikers killed, 17 rescued in Indonesia.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hantavirus Cruise Ship Passengers To Evacuate At Canary Islands Soon: WHO Shares Screening, Contact",
-      "url": "https://www.ndtv.com/health/hantavirus-cruise-ship-passengers-to-evacuate-at-canary-islands-soon-who-shares-screening-contact-tracing-plans-11470796#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-09T08:44:51+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/v0ch9teg_hantavirus_625x300_08_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The WHO monitors a hantavirus outbreak on a cruise ship with 8 cases. The World Health Organization (WHO) is closely monitoring the hantavirus outbreak, with eight cases reported so far, including confirmed and suspected infections.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US, Iran no closer to ending war as Gulf clashes flare",
-      "url": "https://www.channelnewsasia.com/world/us-iran-no-closer-ending-war-gulf-clashes-flare-6110971",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-09T08:44:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--ocF3Creo--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-09T065843Z_1_LYNXMPEM4802Q_RTROPTP_3_IRAN-CRISIS-DAILY-LIFE.JPG?itok=pRUyNeSx",
-      "summary": "The US and Iran are no closer to ending the war amid Gulf clashes. Washington has been awaiting Tehran's response to a US proposal that would formally end the war before talks on more contentious issues, including Iran's nuclear programme.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran reviewing U.S. proposal at 'own pace' as Trump awaits response, says report",
-      "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-09T08:18:15+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/pvwyqj/article70958460.ece/alternates/LANDSCAPE_1200/2026-05-08T101236Z_89698653_RC2W4LAISLGK_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
-      "summary": "Iran is reviewing a U. S. proposal at its own pace, according to a report. U. S. Secretary of State Marco Rubio had indicated Washington expected a response from Iran, but no timeline has been set for a decision.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -176,12 +92,24 @@
       "translations": {}
     },
     {
+      "title": "WHO chief due in Canaries to coordinate hantavirus ship evacuation",
+      "url": "https://www.thehindu.com/news/international/who-chief-canaries-coordinate-hantavirus-cruise-ship-evacuation/article70958191.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-09T08:00:55+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/47zzrt/article70958212.ece/alternates/LANDSCAPE_1200/Switzerland_World_Health_Organization_56348.jpg",
+      "summary": "The World Health Organization's chief is traveling to the Canary Islands to coordinate the evacuation of a ship carrying passengers infected with the Andes virus. The virus, which can transmit from person to person, has raised international concern and prompted a swift response from health authorities.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Rescuers find body of first confirmed fatality from Mount Dukono eruption; believed to be",
       "url": "https://www.channelnewsasia.com/asia/indonesia-mount-dukono-volcano-eruption-hiker-death-confirmed-6110986",
       "source": "Channel News Asia",
       "sources": [],
       "published_at": "2026-05-09T08:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--fv_8huMw--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/09/indonesia_mount_dukono_eruption_search_rescue_operation_efforts.jpg?itok=SK_jRngu",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--azefzdol--/c_crop,h_720,w_1280,x_0,y_410/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/09/indo-first-body-recovered-edit-1.jpg?itok=WxowVJsv",
       "summary": "Rescuers found the body of the first confirmed fatality from the Mount Dukono eruption. Two Singaporean hikers remain missing despite their locations being identified. Two Singaporean hikers remain missing despite their locations having been identified.",
       "region": "Asia-Pacific",
       "language": "en",
@@ -200,80 +128,242 @@
       "translations": {}
     },
     {
-      "title": "Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship",
-      "url": "https://www.aljazeera.com/news/2026/5/9/spains-canary-islands-brace-for-incoming-hantavirus-stricken-cruise-ship?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "U.S. and Iran no closer to ending war as Gulf clashes test ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXRVdi1mQWI3b2MwX2d4RjdVN1BXYnV2TUhlYnB5dnFGa2Nuc1c1bF9CZGVDUncxUEp4T1V3X1Z3WVl3UFY1cDdLbmE4d0RxdTVlWTVJZWlXM0s1aDFNSnBPdk9XaUlGemN3XzVua3JBNW90RkNKU1BhMlJLNmplWmpLaWswcGszdGJ3aFRYTFBhQWZaSWJPNHIyRW96aXZIdThDUQ?oc=5",
+      "source": "Google News (war ceasefire)",
       "sources": [],
-      "published_at": "2026-05-09T07:42:06+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_69fedd1a90eed-1778310426.jpg?resize=1920%2C1440",
-      "summary": "Spain's Canary Islands are bracing for an incoming cruise ship with passengers and crew infected with hantavirus. 140 people will be isolated and evacuated, according to Spanish authorities. 140 passengers and crew on the MV Hondius vessel will be 'completely isolated' and evacuated, say Spanish authorities.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Magyar to become Hungary’s ‘regime change’ PM",
-      "url": "https://www.thehindu.com/news/international/peter-magyar-swearing-in-as-hungarys-prime-minister-on-may-9-2026/article70958357.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-09T07:35:06+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/71zy3x/article70958377.ece/alternates/LANDSCAPE_1200/2026-05-07T093943Z_1571433986_RC284LA46GIU_RTRMADP_3_ITALY-HUNGARY.JPG",
-      "summary": "Hungary's Magyar will become the country's new prime minister, following a landslide victory last month. Magyar, a former government insider-turned-critic, pledged wide-ranging reforms to fight corruption. The former government insider-turned-critic scored a landslide victory last month, pledging wide-ranging reforms to fight corruption.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israeli settlers set fire to homes and cars in violent West Bank raids",
-      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sources": [],
-      "published_at": "2026-05-09T07:18:27+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/02/AA-20260214-40556867-40556843-ISRAELI_ILLEGAL_SETTLERS_RAID_HEBRON_WEST_BANK_UNDER_PROTECTION_OF_ISRAELI_FORCES-1-1771167767.jpg?resize=1200%2C630",
-      "summary": "Israeli settlers set fire to homes and cars in the West Bank. Dozens of Israeli settlers stormed various areas of the West Bank, set cars on fire, and attacked Palestinians.",
+      "published_at": "2026-05-09T07:43:46+00:00",
+      "image_url": "https://images.pexels.com/photos/208686/pexels-photo-208686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Clashes in the Gulf have tested a ceasefire between the U. S. and Iran, with no signs of an end to the conflict in sight. The two nations have been at odds over Iran's nuclear program and regional influence, with tensions showing no signs of easing.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Two killed in latest US strike on alleged drug trafficking boat",
-      "url": "https://news.sky.com/story/two-killed-in-latest-us-strike-on-alleged-drug-trafficking-boat-in-pacific-13541796",
-      "source": "Sky News World",
+      "title": "Politics collide with a blockbuster show",
+      "url": "https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
       "sources": [],
-      "published_at": "2026-05-09T07:13:00+00:00",
-      "image_url": "https://e3.365dm.com/26/05/1920x1080/skynews-us-pacfic_7243236.png?20260509085406",
-      "summary": "A US military strike on an alleged drug trafficking boat in the Pacific Ocean killed two men. The incident occurred as part of ongoing efforts to disrupt drug trafficking operations.",
+      "published_at": "2026-05-09T07:28:00+00:00",
+      "image_url": "https://static.dw.com/image/77057683_6.jpg",
+      "summary": "Israel's participation in the Eurovision Song Contest sparks controversy and boycotts in Vienna. Controversy over Israel's participation and boycotts unprecedented in scale are already weighing on the Eurovision Song Contest before it even kicks off in Vienna.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Britain's First Openly Gay Surrogate Father Charged With Rape And Human Trafficking",
+      "url": "https://www.ndtv.com/world-news/britains-first-openly-gay-surrogate-father-charged-with-rape-and-human-trafficking-11470605#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-09T07:08:55+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/82gbdh9c_barrie-drewittbarlow_625x300_09_May_26.jpeg",
+      "summary": "Barrie Drewitt-Barlow, Britain's first openly gay surrogate father, faces rape and human trafficking charges. Barrie Drewitt-Barlow and his husband Scott took over Maldon and Tiptree FC in 2025. Britain's First Openly Gay Surrogate Father Charged With Rape And Human Trafficking.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "New UFO Files Detail Sightings, Leave Questions Unanswered",
+      "url": "https://www.ndtv.com/world-news/bright-lights-hot-orbs-new-pentagon-ufo-files-detail-sightings-leave-questions-unanswered-11470533#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-09T06:52:27+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/l58etk3k_ufo_625x300_09_May_26.jpeg",
+      "summary": "New UFO files detail hundreds of reported sightings since the 1940s, leaving questions unanswered. Among the files are hundreds of pages detailing reported sightings dating to the 1940s. New UFO Files Detail Sightings, Leave Questions Unanswered.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Focuses On Reopening Hormuz, Puts Iran Nuclear Talks On Hold",
+      "url": "https://www.ndtv.com/world-news/iran-us-war-president-donald-trump-focuses-on-reopening-hormuz-puts-iran-nuclear-talks-on-hold-11470467#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-09T06:51:35+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/8pjujslo_trump-afp_625x300_09_May_26.jpeg",
+      "summary": "Trump prioritizes reopening Hormuz over Iran nuclear talks, citing Iran's nuclear programme as a main conflict justification. Trump has said eliminating Iran's nuclear programme is main justification for conflict in Middle East.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Mexico Announces Early End To School Year Citing World Cup Preparations",
+      "url": "https://www.ndtv.com/world-news/mexico-announces-early-end-to-school-year-citing-world-cup-preparations-11470401#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-09T06:50:29+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/qbmpocro_mexico-afp_625x300_09_May_26.jpeg",
+      "summary": "Mexico ends the school year early to prepare for the World Cup, which kicks off on June 11. The tournament, hosted jointly by Mexico, US and Canada, kicks off on June 11.",
       "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Financial struggles burden Yemen’s army as soldiers wait for wages",
-      "url": "https://www.aljazeera.com/economy/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Thai police probe military-grade weapons cache at foreign man's home",
+      "url": "https://www.channelnewsasia.com/asia/thailand-police-sun-mingchen-weapons-cache-pattaya-6110956",
+      "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-05-09T07:11:53+00:00",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-04T145208Z_43020088_RC29UIAX6XAC_RTRMADP_3_YEMEN-SECURITY-1767687156.jpg?resize=1920%2C1440",
-      "summary": "Yemen's army faces financial struggles, with soldiers earning $38 to $116 monthly, but the unstable currency has significantly eroded the value of their salaries. This has created economic hardship for the soldiers.",
+      "published_at": "2026-05-09T06:41:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--_QRLwsQm--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/09/thai_police_chon_buri_pattaya_weapon_stash_1_0.jpg?itok=OvIf11qB",
+      "summary": "Thai police found assault rifles and explosives at a foreign man's home near Pattaya. They are investigating security implications. Local police are \"investigating security implications\" after assault rifles, explosives, grenades and anti-personnel mines were found at the man's home, near the beach resort of Pattaya.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "ASEAN discussions on regional fuel stockpile in very early stage, says PM Wong",
+      "url": "https://www.channelnewsasia.com/singapore/asean-regional-fuel-stockpile-summit-myanmar-6110856",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-09T06:32:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--97yRHxUN--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/09/lawrence_wong_3.jpeg?itok=jSiLW1Y6",
+      "summary": "Singapore's Prime Minister Wong said ASEAN discussions on a regional fuel stockpile are in the early stage. ASEAN already has a rice stockpile with China, Japan and Korea. The question is whether the region could pursue something similar for energy, says Singapore’s prime minister.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China emerging as a 'global security dividend,' Pakistani expert says",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWh5MUdpb001TDRoYU9STFB4YXFFYm02bzR4WktqU0swWkVOZS14LXdVbXR2WmVUbDJNZHJhOEZxdW9oYVVwZ2pGOHhmcXBaeDVHR3g2NEdWRDBydHNWM2NsY3pQT2hzUDdfdDYxT0xsQ0ZWNHVDbkxnM1pwUW5OZW1acjBYakYxV1VjeDJ5REROWnZwMkFLdkdQc2ZfcUFFXzBCcGlCbk1IQVNEclhTa0tVckhWclRkX2FEZWk1Yno?oc=5",
+      "source": "Google News (global security)",
+      "sources": [],
+      "published_at": "2026-05-09T06:27:03+00:00",
+      "image_url": "https://images.pexels.com/photos/6564828/pexels-photo-6564828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "A Pakistani expert said China is emerging as a global security dividend. China emerging as a 'global security dividend,' Pakistani expert says news. cgtn. com.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "American Passengers On Hantavirus-Hit Cruise Ship To Quarantine In Nebraska: Report",
+      "url": "https://www.ndtv.com/health/american-passengers-aboard-hantavirus-hit-cruise-ship-to-quarantine-in-nebraska-report-11470363#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-09T06:19:51+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/rlq96um8_hanta-virus-ship_625x300_07_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "American passengers on a hantavirus-hit cruise ship will quarantine in Nebraska upon arrival. Washington, May 9 (IANS) American passengers aboard the cruise ship at the centre of a hantavirus outbreak will be quarantined in Nebraska upon arrival in the United States, local media reported, citing an official from the US Centres for Disease Con.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "sources": [],
+      "published_at": "2026-05-09T06:13:30+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c78/live/9157bc30-4add-11f1-9eb0-1940b1e77213.jpg",
+      "summary": "Iran accused the US of a reckless military adventure, saying the US attacks when diplomatic solutions are possible. Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "एआई पर सहयोग बढ़ाएंगे भारत-अमेरिका; चीन को घेरने की है तैयारी, जानें सबकुछ",
-      "url": "https://www.amarujala.com/world/india-and-the-us-will-expand-cooperation-on-ai-preparations-are-underway-to-corner-china-2026-05-09",
+      "title": "तुर्किए के यूएन दूत ने फिलिस्तीन में इजरायल के 'औपनिवेशीकरण उपायों' की आलोचना की",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQm1QSGlTMk91eXB2YTNDcjdkaHNBanRmM3BZV3pNMFZLNEVON1FLZjBReDhrR1N6d2JkVW1sUDliV3V3VU5hcWFoUVNZTkEzd2FsZmZid0RZOUZYQlFGRXJ3ZDVETFpaMWp6R2xPYWp2Rl9OVjZEaEJQWklhMEhDV21rNVpYMkU1eFllb2JvRTFMVHc1LXEybUJWNW5DMVJpN1FzYTVUUEFjYmREWHVoRjN0UEN2QU14WFNjWk5pRnZSR2M?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-09T11:43:03+00:00",
+      "image_url": "https://images.pexels.com/photos/17697581/pexels-photo-17697581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "तुर्किए के यूएन दूत ने फिलिस्तीन में इजरायल के 'औपनिवेशीकरण उपायों' की आलोचना की।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तुर्किए के यूएन दूत ने फिलिस्तीन में इजरायल के 'औपनिवेशीकरण उपायों' की आलोचना की",
+          "summary": "तुर्किए के यूएन दूत ने फिलिस्तीन में इजरायल के 'औपनिवेशीकरण उपायों' की आलोचना की।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "रूस-यूक्रेन के बीच ट्रंप ने किया युद्धविराम का ऐलान, देखें वर्ल्ड न्यूज",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVGJfaWlvNGNCYkdubmNGTmtsem1aOUxUS1R0UWVVanA1aGhPYTBianFySXhrX1RwM1RkU1dfYTd0c25VVWh1RXFza0o5bzdWTUNtbk04b2p2TmNaM1pKOFVDaEo5VnUyaVpTNzdmQUo4c3BFZlBBUFJuUGRhdjlGTmZwLS1DOWoxaFdaS1JEX3NSS1hwNWlhd2dDNkw1LWw5enpILUNHRF9sQzdiLXpKX2hIb1Y3bVNaaGwxZHRzbjFZX0RNUVHSAcsBQVVfeXFMUEcxNVFDZGZYbFlzZzVySzhWcFhzU0E5UXVTYXVRUGdrcmQ2Q1RiSi01WVBVS3J1N2hFdlZjQmpzNkhiN1RSMFpNUklYamxNQ2VFLTBjMldnTklPZTdjNExKcmREYW5kS1A5Z21iamVVb1B4bm5mNjhTaFg4akJZMjdqZkU3WmVFQmZVZDlJdnY3TEtQdlBDRjdzY0J6djhpUFVsbjdfaEtrVXJoajh5eWhYZlJ3LVh0LW4zZFctRnc5OHlwaXJwUVh6N3c?oc=5",
+      "source": "Google News Hindi (विश्व समाचार)",
+      "sources": [],
+      "published_at": "2026-05-09T10:53:03+00:00",
+      "image_url": "https://images.pexels.com/photos/25310308/pexels-photo-25310308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ट्रंप ने रूस-यूक्रेन के बीच युद्धविराम का ऐलान किया। रूस-यूक्रेन के बीच ट्रंप ने किया युद्धविराम का ऐलान, देखें वर्ल्ड न्यूज AajTak।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस-यूक्रेन के बीच ट्रंप ने किया युद्धविराम का ऐलान, देखें वर्ल्ड न्यूज",
+          "summary": "ट्रंप ने रूस-यूक्रेन के बीच युद्धविराम का ऐलान किया। रूस-यूक्रेन के बीच ट्रंप ने किया युद्धविराम का ऐलान, देखें वर्ल्ड न्यूज AajTak।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज जलडमरूमध्य के पास हादसा: भारतीय चालक दल की नाव में लगी आग, एक की मौत",
+      "url": "https://www.amarujala.com/world/incident-near-strait-of-hormuz-indian-crew-s-boat-catches-fire-one-dead-2026-05-09",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-09T02:40:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/08/bharata-amaraka-sabthha_5866b416e7eb5b68e446e482c58b7137.jpeg?w=750&dpr=1.0",
-      "summary": "भारत और अमेरिका एआई पर सहयोग बढ़ाएंगे और चीन को घेरने की तैयारी कर रहे हैं। एआई पर सहयोग बढ़ाएंगे भारत-अमेरिका; चीन को घेरने की है तैयारी, जानें सबकुछ।",
+      "published_at": "2026-05-09T07:22:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/22/whats-happening-in-hormuz-irans-enemy-ships-to-japans-minesweepers-west-asia-crisis_67519adb86ac67ec5dedca13b739cf7d.jpeg?w=750&dpr=1.0",
+      "summary": "होर्मुज जलडमरूमध्य के पास भारतीय चालक दल की नाव में आग लगी, एक की मौत हुई। होर्मुज जलडमरूमध्य के पास हादसा: भारतीय चालक दल की नाव में लगी आग, एक की मौत।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "एआई पर सहयोग बढ़ाएंगे भारत-अमेरिका; चीन को घेरने की है तैयारी, जानें सबकुछ",
-          "summary": "भारत और अमेरिका एआई पर सहयोग बढ़ाएंगे और चीन को घेरने की तैयारी कर रहे हैं। एआई पर सहयोग बढ़ाएंगे भारत-अमेरिका; चीन को घेरने की है तैयारी, जानें सबकुछ।",
+          "title": "होर्मुज जलडमरूमध्य के पास हादसा: भारतीय चालक दल की नाव में लगी आग, एक की मौत",
+          "summary": "होर्मुज जलडमरूमध्य के पास भारतीय चालक दल की नाव में आग लगी, एक की मौत हुई। होर्मुज जलडमरूमध्य के पास हादसा: भारतीय चालक दल की नाव में लगी आग, एक की मौत।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "एक साल के बाद, पोप लियो युद्ध को समाप्त करने के लिए कहता है",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9rczZiTks1SzhiOGQ0eXJPaTlmRGxoTl9kX0ljUklQMnJmTkloSTA0Y2ZuNl9ZeTkwU3loeVowV3JzVk3SAUJBVV95cUxPUVNpeV9CVHFvQ1J1Z3lZQzV0QzJEdGk3al9CTV9IZHRNVTlkMjFlOXgtdkJ5WFdibUJ5eE9vNm1Jdmc?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-09T06:02:51+00:00",
+      "image_url": "https://images.pexels.com/photos/3693058/pexels-photo-3693058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "पोप लियो ने युद्ध को समाप्त करने के लिए कहा। एक साल के बाद, पोप लियो युद्ध को समाप्त करने के लिए कहता है VOI. id।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एक साल के बाद, पोप लियो युद्ध को समाप्त करने के लिए कहता है",
+          "summary": "पोप लियो ने युद्ध को समाप्त करने के लिए कहा। एक साल के बाद, पोप लियो युद्ध को समाप्त करने के लिए कहता है VOI. id।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारत-पाकिस्तान संघर्ष: एक साल बाद किन सवालों के जवाब मिले? द लेंस",
+      "url": "https://www.bbc.com/hindi/articles/c0q2n3780q9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-09T05:20:43+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f106/live/4779c380-4b5d-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "भारत-पाकिस्तान संघर्ष के एक साल बाद कई सवालों के जवाब मिले। भारत-पाकिस्तान के बीच बीते साल हुए संघर्ष से जुड़े हैं तीन अहम पहलू. पहला- सैन्य संघर्ष का भविष्य, दूसरा- पाकिस्तान की बीते एक साल की प्रतिक्रिया और तीसरा- भारतीय कूटनीति.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत-पाकिस्तान संघर्ष: एक साल बाद किन सवालों के जवाब मिले? द लेंस",
+          "summary": "भारत-पाकिस्तान संघर्ष के एक साल बाद कई सवालों के जवाब मिले। भारत-पाकिस्तान के बीच बीते साल हुए संघर्ष से जुड़े हैं तीन अहम पहलू. पहला- सैन्य संघर्ष का भविष्य, दूसरा- पाकिस्तान की बीते एक साल की प्रतिक्रिया और तीसरा- भारतीय कूटनीति.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रणथंभौर में ‘जंगल का युद्ध’! टेरिटरी और बाघिन के लिए खूनी संघर्ष, 9 साल में 9 बाघों की मौत",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaEdkeWotNUdnNTRycUFtSjNyQTlfTzc1RVFXb19qMmlQUS03OHRsT21RSE85NlBIalZpcTNfeUVmcTNUVFloaDRfSE45enI4ZEFIMG82LXBGM25VbVplZHhQYjhwanl5R2l0SVY3TmVfcmZ0aEszemF3b2NGMHl1Y3ZZZFl2djlJNTBZSU9ibzdIb0N2V2gtaUtNcjhVY3hkcXNlNm0tRW8yOVpOeG9Vam1GcXdyVUhQY2FZZTB0S09vOUw4UFd0TWMzTG5HQlFVOUdvMHhwQUZzY1QyaXJWTDNnMjloU1F2WUwtWE0yV1ZEelUtbDh3OXRsYjhoQzBW?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-09T04:54:47+00:00",
+      "image_url": "https://images.pexels.com/photos/15461442/pexels-photo-15461442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "रणथंभौर में टेरिटरी और बाघिन के लिए संघर्ष में 9 साल में 9 बाघों की मौत हुई है। यह संघर्ष जंगल में खूनी लड़ाई का रूप ले रहा है। बाघों की मौत से जंगल के संतुलन पर असर पड़ रहा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रणथंभौर में ‘जंगल का युद्ध’! टेरिटरी और बाघिन के लिए खूनी संघर्ष, 9 साल में 9 बाघों की मौत",
+          "summary": "रणथंभौर में टेरिटरी और बाघिन के लिए संघर्ष में 9 साल में 9 बाघों की मौत हुई है। यह संघर्ष जंगल में खूनी लड़ाई का रूप ले रहा है। बाघों की मौत से जंगल के संतुलन पर असर पड़ रहा है।",
+          "region": "दुनिया"
         }
       }
     },
@@ -296,6 +386,168 @@
       }
     },
     {
+      "title": "मोदी सरकार की ये है शानदार स्कीम, रोजाना 500 रुपये से लेकर मिलते हैं कई लाभ; यहां जानें",
+      "url": "https://www.amarujala.com/photo-gallery/utility/pm-vishwakarma-kaushal-samman-yojana-how-to-apply-for-pm-vishwakarma-yojana-mein-kaise-registration-karein-2026-05-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-08T23:43:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/08/kaya-ha-paema-vashavakarama-yajana-ka-fayatha_337cee5932902f4f61db2129a88838d7.jpeg?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री मोदी की पीएम विश्वकर्मा योजना में शामिल होकर लोग रोजाना 500 रुपये से कई लाभ उठा सकते हैं। योजना में ऑनलाइन और ऑफलाइन आवेदन किया जा सकता है। इसका उद्देश्य लोगों को आर्थिक रूप से सशक्त बनाना है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मोदी सरकार की ये है शानदार स्कीम, रोजाना 500 रुपये से लेकर मिलते हैं कई लाभ; यहां जानें",
+          "summary": "प्रधानमंत्री मोदी की पीएम विश्वकर्मा योजना में शामिल होकर लोग रोजाना 500 रुपये से कई लाभ उठा सकते हैं। योजना में ऑनलाइन और ऑफलाइन आवेदन किया जा सकता है। इसका उद्देश्य लोगों को आर्थिक रूप से सशक्त बनाना है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी ने वरिष्ठ भाजपा कार्यकर्ता के छुए पैर, परिवार को गर्व; निस्वार्थ भाव से किया काम",
+      "url": "https://www.amarujala.com/india-news/makhanlal-sarkar-pm-modi-touches-feet-of-senior-bjp-worker-family-filled-with-pride-over-his-selfless-service-2026-05-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-08T23:40:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/makhan-lal-sarkar_a8652e5d53d23a593440a7ba53087994.gif?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने मुख्यमंत्री शपथ समारोह में वरिष्ठ भाजपा कार्यकर्ता माखनलाल सरकार का आशीर्वाद लिया। परिवार ने इसे वर्षों की निस्वार्थ मेहनत का सम्मान बताया। मोदी ने कार्यकर्ता के पैर छुए और उनका आशीर्वाद लिया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी ने वरिष्ठ भाजपा कार्यकर्ता के छुए पैर, परिवार को गर्व; निस्वार्थ भाव से किया काम",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने मुख्यमंत्री शपथ समारोह में वरिष्ठ भाजपा कार्यकर्ता माखनलाल सरकार का आशीर्वाद लिया। परिवार ने इसे वर्षों की निस्वार्थ मेहनत का सम्मान बताया। मोदी ने कार्यकर्ता के पैर छुए और उनका आशीर्वाद लिया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आईपीएल में अब नहीं चलेगी मनमानी! खिलाड़ियों की रील्स, देर रात मुलाकातें और इन्फ्लुएंसर्स पर सख्ती",
+      "url": "https://www.amarujala.com/cricket/cricket-news/what-led-to-bccis-ipl-2026-crackdown-reels-in-restricted-zones-late-night-outings-among-reasons-know-details-2026-05-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-08T23:39:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/08/ipl-2026-bcci-devajit-saikia-ipl-guidelines-vaping-ban-honey-trap-alert-ipl-teams-protocol-br_d79a435254c07c04a8cb86c5889f2d1d.jpeg?w=750&dpr=1.0",
+      "summary": "बीसीसीआई ने आईपीएल में खिलाड़ियों की सोशल मीडिया गतिविधियों, देर रात आउटिंग और होटल में अनधिकृत मेहमानों को लेकर सख्त नियम लागू किए हैं। इसका उद्देश्य खिलाड़ियों की अनुशासन और खेल के प्रति समर्पण को बढ़ावा देना है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईपीएल में अब नहीं चलेगी मनमानी! खिलाड़ियों की रील्स, देर रात मुलाकातें और इन्फ्लुएंसर्स पर सख्ती",
+          "summary": "बीसीसीआई ने आईपीएल में खिलाड़ियों की सोशल मीडिया गतिविधियों, देर रात आउटिंग और होटल में अनधिकृत मेहमानों को लेकर सख्त नियम लागू किए हैं। इसका उद्देश्य खिलाड़ियों की अनुशासन और खेल के प्रति समर्पण को बढ़ावा देना है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "एआई डाटा सेंटर बना रहे हीट आइलैंड, आसपास पारा पहुंचा 16.4 डिग्री, इस रिपोर्ट में बड़ा खुलासा",
+      "url": "https://www.amarujala.com/world/ai-data-centers-heat-island-effect-environmental-risk-report-2026-05-09",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-08T23:38:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/1_58c420fd738508a1db95cc8f53142b87.jpeg?w=750&dpr=1.0",
+      "summary": "एआई डाटा सेंटर के कारण आसपास के क्षेत्रों में तापमान 16.4 डिग्री तक पहुंच गया है। एक रिपोर्ट में खुलासा हुआ है कि ये डाटा सेंटर हीट आइलैंड प्रभाव पैदा कर रहे हैं और पर्यावरण के लिए खतरा हैं। इससे पर्यावरण पर असर पड़ रहा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एआई डाटा सेंटर बना रहे हीट आइलैंड, आसपास पारा पहुंचा 16.4 डिग्री, इस रिपोर्ट में बड़ा खुलासा",
+          "summary": "एआई डाटा सेंटर के कारण आसपास के क्षेत्रों में तापमान 16.4 डिग्री तक पहुंच गया है। एक रिपोर्ट में खुलासा हुआ है कि ये डाटा सेंटर हीट आइलैंड प्रभाव पैदा कर रहे हैं और पर्यावरण के लिए खतरा हैं। इससे पर्यावरण पर असर पड़ रहा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मदर्स डे पर घर में बनाएं रेस्टोरेंट जैसा स्पेशल खाना, मां हो जाएंगी खुश",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/mothers-day-special-food-ideas-breakfast-lunch-dinner-menu-in-hindi-2026-05-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-08T23:29:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/mothers-day-special-menu_40333d8de37f83d5d9f8e78752e5fc22.jpeg?w=750&dpr=1.0",
+      "summary": "मदर्स डे पर विशेष भोजन बनाने के लिए रेसिपी आइडियाज साझा किए गए हैं। इनमें सुबह के नाश्ते से लेकर लंच और डिनर तक के विकल्प शामिल हैं। ये रेसिपी आसान और स्वादिष्ट हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मदर्स डे पर घर में बनाएं रेस्टोरेंट जैसा स्पेशल खाना, मां हो जाएंगी खुश",
+          "summary": "मदर्स डे पर विशेष भोजन बनाने के लिए रेसिपी आइडियाज साझा किए गए हैं। इनमें सुबह के नाश्ते से लेकर लंच और डिनर तक के विकल्प शामिल हैं। ये रेसिपी आसान और स्वादिष्ट हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "निदा खान मामले में हो रहे मीडिया ट्रायल की ओवैसी ने की निंदा, कहा- क्या बुर्का पहनना अपराध है?",
+      "url": "https://www.amarujala.com/india-news/tcs-case-owaisi-condemned-the-media-trial-in-the-nida-khan-case-asking-is-wearing-a-burqa-a-crime-2026-05-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-08T23:24:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/04/unmute-bharat-i-have-complete-faith-in-constitution-but-political-secularism-has-now-become-an-abus_294e495f07edfbe9aafcaecb07e82057.jpeg?w=750&dpr=1.0",
+      "summary": "ओवैसी ने निदा खान मामले में मीडिया ट्रायल की निंदा की। उन्होंने पूछा, \"क्या बुर्का पहनना अपराध है?\" यह मामला हाल ही में चर्चा में आया था। निदा खान मामले में हो रहे मीडिया ट्रायल की ओवैसी ने की निंदा, कहा- क्या बुर्का पहनना अपराध है?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "निदा खान मामले में हो रहे मीडिया ट्रायल की ओवैसी ने की निंदा, कहा- क्या बुर्का पहनना अपराध है?",
+          "summary": "ओवैसी ने निदा खान मामले में मीडिया ट्रायल की निंदा की। उन्होंने पूछा, \"क्या बुर्का पहनना अपराध है?\" यह मामला हाल ही में चर्चा में आया था। निदा खान मामले में हो रहे मीडिया ट्रायल की ओवैसी ने की निंदा, कहा- क्या बुर्का पहनना अपराध है?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अप्रिलिया ने भारत में बंद किए अपने तीन लोकप्रिय स्कूटर, नई SR 175 ने ली इनकी जगह",
+      "url": "https://www.amarujala.com/automobiles/aprilia-sr-160-sxr-125-and-sxr-160-discontinued-in-india-replaced-by-more-powerful-sr-175-2026-05-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-08T23:23:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/16/2025-aprilia-sr-125_d1b22615c1f565366b5c643db038f6cb.jpeg?w=750&dpr=1.0",
+      "summary": "अप्रिलिया ने भारत में अपने तीन लोकप्रिय स्कूटर बंद कर दिए हैं। इनकी जगह नई SR 175 ने ले ली है। यह स्कूटर अधिक शक्तिशाली है। अप्रिलिया ने भारत में बंद किए अपने तीन लोकप्रिय स्कूटर, नई SR 175 ने ली इनकी जगह।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अप्रिलिया ने भारत में बंद किए अपने तीन लोकप्रिय स्कूटर, नई SR 175 ने ली इनकी जगह",
+          "summary": "अप्रिलिया ने भारत में अपने तीन लोकप्रिय स्कूटर बंद कर दिए हैं। इनकी जगह नई SR 175 ने ले ली है। यह स्कूटर अधिक शक्तिशाली है। अप्रिलिया ने भारत में बंद किए अपने तीन लोकप्रिय स्कूटर, नई SR 175 ने ली इनकी जगह।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान और अमेरिका के बीच अगले हफ्ते पाकिस्तान में हो सकती है बातचीत, अमेरिकी मीडिया का दावा",
+      "url": "https://www.amarujala.com/world/american-media-reports-us-iran-talks-likely-in-pakistan-next-week-2026-05-09",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-08T22:11:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/25/iran-us-appear-ready-to-communicate-though-direct-talks-on-hold_4cab10bf0414ad9cd87084a6ab5aa78c.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी मीडिया का दावा है कि ईरान और अमेरिका के बीच अगले हफ्ते पाकिस्तान में बातचीत हो सकती है। यह बातचीत महत्वपूर्ण मानी जा रही है। ईरान और अमेरिका के बीच अगले हफ्ते पाकिस्तान में हो सकती है बातचीत, अमेरिकी मीडिया का दावा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान और अमेरिका के बीच अगले हफ्ते पाकिस्तान में हो सकती है बातचीत, अमेरिकी मीडिया का दावा",
+          "summary": "अमेरिकी मीडिया का दावा है कि ईरान और अमेरिका के बीच अगले हफ्ते पाकिस्तान में बातचीत हो सकती है। यह बातचीत महत्वपूर्ण मानी जा रही है। ईरान और अमेरिका के बीच अगले हफ्ते पाकिस्तान में हो सकती है बातचीत, अमेरिकी मीडिया का दावा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान में टीटीपी के पांच आतंकी ढेर, श्रीलंका में बौद्ध भिक्षु गिरफ्तार",
+      "url": "https://www.amarujala.com/world/world-updates-of-9-may-world-news-jaishankar-guyana-visit-google-indonesia-news-in-hindi-2026-05-09",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-08T22:08:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
+      "summary": "विदेश मंत्री एस जयशंकर त्रिनिदाद और टोबैगो के दौरे पर पहुंचे। इंडोनेशिया में निवेश घोटालों में 210 विदेशी गिरफ्तार किए गए। त्रिनिदाद और टोबैगो के दौरे पर पहुंचे जयशंकर; इंडोनेशिया में निवेश घोटालों में 210 विदेशी गिरफ्तार।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान में टीटीपी के पांच आतंकी ढेर, श्रीलंका में बौद्ध भिक्षु गिरफ्तार",
+          "summary": "विदेश मंत्री एस जयशंकर त्रिनिदाद और टोबैगो के दौरे पर पहुंचे। इंडोनेशिया में निवेश घोटालों में 210 विदेशी गिरफ्तार किए गए। त्रिनिदाद और टोबैगो के दौरे पर पहुंचे जयशंकर; इंडोनेशिया में निवेश घोटालों में 210 विदेशी गिरफ्तार।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "अमेरिका-ईरान के बीच बातचीत की नई तैयारी: अगले हफ्ते पाकिस्तान में सकती है बैठक, जानें कैसे खत्म",
       "url": "https://www.amarujala.com/world/us-iran-talks-new-preparations-meeting-possible-in-pakistan-how-war-could-end-2026-05-09",
       "source": "Amar Ujala World",
@@ -314,60 +566,6 @@
       }
     },
     {
-      "title": "दिल्ली कैपिटल्स के लगातार खराब प्रदर्शन से निराश हुए क्रिकेट निदेशक वेणुगोपाल, नाकामी के कारण बताए",
-      "url": "https://www.amarujala.com/cricket/cricket-news/delhi-capitals-director-of-cricket-venugopal-rao-admitted-the-franchise-failure-to-win-an-ipl-title-hurts-2026-05-09",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-08T22:03:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/ipl_af84b4ebb2dedd5ca9edb3cc6bc8f24c.jpeg?w=750&dpr=1.0",
-      "summary": "दिल्ली कैपिटल्स के क्रिकेट निदेशक वेणुगोपाल ने टीम के लगातार खराब प्रदर्शन पर निराशा व्यक्त की। टीम के नाकामी के कारणों की जांच की जा रही है। दिल्ली कैपिटल्स के लिए आईपीएल का एक और सीजन निराशाजनक रहा है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिल्ली कैपिटल्स के लगातार खराब प्रदर्शन से निराश हुए क्रिकेट निदेशक वेणुगोपाल, नाकामी के कारण बताए",
-          "summary": "दिल्ली कैपिटल्स के क्रिकेट निदेशक वेणुगोपाल ने टीम के लगातार खराब प्रदर्शन पर निराशा व्यक्त की। टीम के नाकामी के कारणों की जांच की जा रही है। दिल्ली कैपिटल्स के लिए आईपीएल का एक और सीजन निराशाजनक रहा है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "टीवीके को समर्थन देना है या नहीं, शाम 4 बजे प्रेस कॉन्फ्रेंस में बताएगी वीसीके",
-      "url": "https://www.amarujala.com/live/india-news/tamil-nadu-government-formation-live-updates-tvk-vijay-cm-post-dmk-aiadmk-2026-05-09",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-08T22:00:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/tamil-nadu-government-formation-live_af63fc296a70902794e7e55e21bf8d00.jpeg?w=750&dpr=1.0",
-      "summary": "वीसीके शाम 4 बजे प्रेस कॉन्फ्रेंस में बताएगी कि वह टीवीके को समर्थन देगी या नहीं। यह घोषणा तमिलनाडु सरकार के गठन के बीच हुई है। टीवीके को समर्थन देना है या नहीं, शाम 4 बजे प्रेस कॉन्फ्रेंस में बताएगी वीसीके।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "टीवीके को समर्थन देना है या नहीं, शाम 4 बजे प्रेस कॉन्फ्रेंस में बताएगी वीसीके",
-          "summary": "वीसीके शाम 4 बजे प्रेस कॉन्फ्रेंस में बताएगी कि वह टीवीके को समर्थन देगी या नहीं। यह घोषणा तमिलनाडु सरकार के गठन के बीच हुई है। टीवीके को समर्थन देना है या नहीं, शाम 4 बजे प्रेस कॉन्फ्रेंस में बताएगी वीसीके।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शपथ लेते ही एक्शन में शुभेंदु सरकार, डीजीपी समेत शीर्ष पुलिस अधिकारियों के साथ की बैठक",
-      "url": "https://www.amarujala.com/live/india-news/suvendu-adhikari-oath-live-west-bengal-chief-minister-swearing-in-ceremony-bjp-govt-formation-news-in-hindi-2026-05-09",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-08T21:58:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/west-bengal-cm-shubhendu-adhikari_63a567a3d9116c8bda7a7ba496aaf923.gif?w=750&dpr=1.0",
-      "summary": "शुभेंदु अधिकारी ने पश्चिम बंगाल के मुख्यमंत्री पद की शपथ ली। उन्होंने प्रधानमंत्री नरेंद्र मोदी के पैर छूकर आशीर्वाद लिया। यह बंगाल में भाजपा की पहली सरकार है। बंगाल के नए मुख्यमंत्री बने शुभेंदु अधिकारी, पीएम मोदी के पैर छूकर लिया आशीर्वाद।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शपथ लेते ही एक्शन में शुभेंदु सरकार, डीजीपी समेत शीर्ष पुलिस अधिकारियों के साथ की बैठक",
-          "summary": "शुभेंदु अधिकारी ने पश्चिम बंगाल के मुख्यमंत्री पद की शपथ ली। उन्होंने प्रधानमंत्री नरेंद्र मोदी के पैर छूकर आशीर्वाद लिया। यह बंगाल में भाजपा की पहली सरकार है। बंगाल के नए मुख्यमंत्री बने शुभेंदु अधिकारी, पीएम मोदी के पैर छूकर लिया आशीर्वाद।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "मॉस्को में कड़ी सुरक्षा के बीच निकाली गई विक्ट्री डे परेड, पहली बार बिना टैंक-मिसाइलों के हुई",
       "url": "https://www.amarujala.com/world/vladimir-putin-moscow-victory-day-parade-russia-ukraine-war-red-square-security-alert-2026-05-09",
       "source": "Amar Ujala World",
@@ -382,78 +580,6 @@
           "title": "मॉस्को में कड़ी सुरक्षा के बीच निकाली गई विक्ट्री डे परेड, पहली बार बिना टैंक-मिसाइलों के हुई",
           "summary": "मॉस्को में विक्ट्री डे परेड कड़ी सुरक्षा के बीच निकाली गई, जिसमें पहली बार टैंक और मिसाइल नहीं थे। यह परेड रूस और यूक्रेन के बीच चल रहे युद्ध के बीच हुई।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "कौन हैं माखनलाल,जिसके मंच पर PM ने छुए पैर,रो पड़े सरकार",
-      "url": "https://www.amarujala.com/video/india-news/bengal-cm-oath-ceremony-pm-modi-touches-makhanlal-s-feet-2026-05-09",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-08T21:47:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/makhanlal-sarkar_03969075bf4c2a8717970b70de7cef20.jpeg?w=750&dpr=1.0",
-      "summary": "98 वर्षीय माखनलाल सरकार पश्चिम बंगाल में भाजपा के वरिष्ठ कार्यकर्ता हैं और हाल ही में प्रधानमंत्री ने उनके मंच पर पैर छुए। इस घटना ने उन्हें चर्चा में ला दिया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कौन हैं माखनलाल,जिसके मंच पर PM ने छुए पैर,रो पड़े सरकार",
-          "summary": "98 वर्षीय माखनलाल सरकार पश्चिम बंगाल में भाजपा के वरिष्ठ कार्यकर्ता हैं और हाल ही में प्रधानमंत्री ने उनके मंच पर पैर छुए। इस घटना ने उन्हें चर्चा में ला दिया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "WhatsApp बिजनेस में आया नया AI टूल: अब मिनटों में तैयार होंगे प्रोडक्ट डिस्क्रिप्शन और इमेज; ऐसे",
-      "url": "https://www.amarujala.com/technology/mobile-apps/meta-launches-ai-business-assistant-whatsapp-create-product-descriptions-and-more-2026-05-09",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-08T21:43:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/vahatasaepa-bjanasa-ma-mata-na-naya-eaaii-bjanasa-asasatada-facara-jaugdha_5bb81b7d57e7607fc8a8bdb6e75fc037.png?w=750&dpr=1.0",
-      "summary": "मेटा ने व्हाट्सएप बिजनेस में मेटा एआई बिजनेस असिस्टेंट पेश किया है. यह टूल छोटे बिजनेस को डिजिटल ग्रोथ में मदद करेगा और मिनटों में प्रोडक्ट डिस्क्रिप्शन और इमेज तैयार करेगा.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "WhatsApp बिजनेस में आया नया AI टूल: अब मिनटों में तैयार होंगे प्रोडक्ट डिस्क्रिप्शन और इमेज; ऐसे",
-          "summary": "मेटा ने व्हाट्सएप बिजनेस में मेटा एआई बिजनेस असिस्टेंट पेश किया है. यह टूल छोटे बिजनेस को डिजिटल ग्रोथ में मदद करेगा और मिनटों में प्रोडक्ट डिस्क्रिप्शन और इमेज तैयार करेगा.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "विजय की जीत पर क्या बोलीं जेनेलिया डिसूजा? इन फिल्मों में साथ में कर चुकी हैं काम",
-      "url": "https://www.amarujala.com/entertainment/vijays-victory-is-a-win-for-the-people-of-tamil-nadu-genelia-dsouza-amid-oath-taking-suspense-2026-05-09",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-08T21:43:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/janalya-dasaja_de2e5bfd9367427a9bf0568000dec571.jpeg?w=750&dpr=1.0",
-      "summary": "जेनेलिया डिसूजा ने तमिलनाडु विधानसभा चुनावों में थलापति विजय की जीत पर अपनी बात रखी है. उन्होंने विजय के साथ काम करने वाली फिल्मों का जिक्र किया. विजय की जीत पर क्या बोलीं जेनेलिया डिसूजा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विजय की जीत पर क्या बोलीं जेनेलिया डिसूजा? इन फिल्मों में साथ में कर चुकी हैं काम",
-          "summary": "जेनेलिया डिसूजा ने तमिलनाडु विधानसभा चुनावों में थलापति विजय की जीत पर अपनी बात रखी है. उन्होंने विजय के साथ काम करने वाली फिल्मों का जिक्र किया. विजय की जीत पर क्या बोलीं जेनेलिया डिसूजा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "श्रीलंका के शीर्ष बौद्ध भिक्षु गिरफ्तार, नाबालिग लड़की के यौन शोषण का लगा गंभीर आरोप",
-      "url": "https://www.amarujala.com/world/world-updates-of-9-may-world-news-jaishankar-guyana-visit-google-indonesia-news-in-hindi-2026-05-09",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-08T21:07:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
-      "summary": "विदेश मंत्री एस जयशंकर त्रिनिदाद और टोबैगो के दौरे पर पहुंचे। इंडोनेशिया में निवेश घोटालों में 210 विदेशी गिरफ्तार किए गए। त्रिनिदाद और टोबैगो के दौरे पर पहुंचे जयशंकर; इंडोनेशिया में निवेश घोटालों में 210 विदेशी गिरफ्तार।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "श्रीलंका के शीर्ष बौद्ध भिक्षु गिरफ्तार, नाबालिग लड़की के यौन शोषण का लगा गंभीर आरोप",
-          "summary": "विदेश मंत्री एस जयशंकर त्रिनिदाद और टोबैगो के दौरे पर पहुंचे। इंडोनेशिया में निवेश घोटालों में 210 विदेशी गिरफ्तार किए गए। त्रिनिदाद और टोबैगो के दौरे पर पहुंचे जयशंकर; इंडोनेशिया में निवेश घोटालों में 210 विदेशी गिरफ्तार।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -507,145 +633,6 @@
         "hi": {
           "title": "होंडुरास-चीन समझौते की समीक्षा संबंधी रिपोर्ट भ्रामक और कलह पैदा करने वाली है",
           "summary": "चीनी विदेश मंत्रालय ने कहा कि होंडुरास-चीन समझौते की समीक्षा संबंधी रिपोर्ट भ्रामक और कलह पैदा करने वाली है. मंत्रालय ने ऐसी खबरों को खारिज कर दिया. चीनी विदेश मंत्रालय: होंडुरास-चीन समझौते की समीक्षा संबंधी रिपोर्ट भ्रामक और कलह पैदा करने वाली है CRI hindi।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मिलिए मुंह में कलम दबाकर लिखने वाले फ़ैज़ानउल्ला से, जो बने 10वीं बोर्ड के 'टॉपर'",
-      "url": "https://www.bbc.com/hindi/articles/ce3p0lgl4dvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-08T14:43:24+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96f8/live/1efc2620-4962-11f1-a87a-55dfd3c7a311.jpg",
-      "summary": "मोहम्मद फ़ैज़ानउल्ला, जो सेरेब्रल पाल्सी से पीड़ित हैं, ने 10वीं बोर्ड की परीक्षा में 93 फ़ीसदी अंक प्राप्त किए। उनके शिक्षक जितेंद्र कुमार भगत ने उनकी सफलता में महत्वपूर्ण भूमिका निभाई। फ़ैज़ानउल्ला ने अपनी मेहनत से यह उपलब्धि हासिल की।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिलिए मुंह में कलम दबाकर लिखने वाले फ़ैज़ानउल्ला से, जो बने 10वीं बोर्ड के 'टॉपर'",
-          "summary": "मोहम्मद फ़ैज़ानउल्ला, जो सेरेब्रल पाल्सी से पीड़ित हैं, ने 10वीं बोर्ड की परीक्षा में 93 फ़ीसदी अंक प्राप्त किए। उनके शिक्षक जितेंद्र कुमार भगत ने उनकी सफलता में महत्वपूर्ण भूमिका निभाई। फ़ैज़ानउल्ला ने अपनी मेहनत से यह उपलब्धि हासिल की।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सिंधु संधि पर पाकिस्तान की नई पैंतरबाजी, संयुक्त राष्ट्र सुरक्षा परिषद में पहुंचा, जल संकट का हवाला",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYW50V0xMTnNWSkVOZ0Z0YThjUXZveU53UUl0aWJpeXhHRjM4ajQzSGlpZEptSG5UY21qMXhkdW1qeEVyU2w3QlB6ZW1keEtRaG5QNXNpTEhBTk1lbmVDa2p6Rjhmd1cyNE9lQVRSZ2dyamdFbmhQSUF4UFJheElvM1Y3ODVZZUxjdGlOZzRneWY3bEFNb3o3TkdldXR2LVFpZGlKLWg2dXhFUFl4Z2J2d0NIUlZGRl9zS3hKQW5QaWFkeUg0UzJDSmlGWVNEVzNkSUM2TmMtUHlRRUgyaGJ1eG9IRThZNU9HbDFuN0E2VkwxSXB2RzlsSDJNcWNpSnV3ajNidmNwWTTSAY4CQVVfeXFMTW5ldy1OTWg5bG1pZC0ta19EYW9qY0RhaWZSVVUwV3pQZ1pwblpNdUtrYWFmUG93QnJTM3dxTC1nRGswbzdvNGdLQ1RUOHpRdmFaenJxLUY3S3Fld080Ukt1NmNmS3JfSVRoeG9wVE8tRWdyOElyYm9ZMVQxbGxucGxqNS1qTlMzYmE4X3VlLXdRSGFsbjl1ZWRIc0JXUjhqZ3YySll0cjVTVXo3aHRlU2ZVQkF2eklVRWVhbGZFU0NmSG1QTDZrWGVDaDJzRUM5eEtYZE0yYU9mc1NSY05iVl9ualdyZ2FIUmV2VTdPdXlzMzVjVFhmaVR2SzJ5QUxZc3I0TEwybzVNYkFJRDNn?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYW50V0xMTnNWSkVOZ0Z0YThjUXZveU53UUl0aWJpeXhHRjM4ajQzSGlpZEptSG5UY21qMXhkdW1qeEVyU2w3QlB6ZW1keEtRaG5QNXNpTEhBTk1lbmVDa2p6Rjhmd1cyNE9lQVRSZ2dyamdFbmhQSUF4UFJheElvM1Y3ODVZZUxjdGlOZzRneWY3bEFNb3o3TkdldXR2LVFpZGlKLWg2dXhFUFl4Z2J2d0NIUlZGRl9zS3hKQW5QaWFkeUg0UzJDSmlGWVNEVzNkSUM2TmMtUHlRRUgyaGJ1eG9IRThZNU9HbDFuN0E2VkwxSXB2RzlsSDJNcWNpSnV3ajNidmNwWTTSAY4CQVVfeXFMTW5ldy1OTWg5bG1pZC0ta19EYW9qY0RhaWZSVVUwV3pQZ1pwblpNdUtrYWFmUG93QnJTM3dxTC1nRGswbzdvNGdLQ1RUOHpRdmFaenJxLUY3S3Fld080Ukt1NmNmS3JfSVRoeG9wVE8tRWdyOElyYm9ZMVQxbGxucGxqNS1qTlMzYmE4X3VlLXdRSGFsbjl1ZWRIc0JXUjhqZ3YySll0cjVTVXo3aHRlU2ZVQkF2eklVRWVhbGZFU0NmSG1QTDZrWGVDaDJzRUM5eEtYZE0yYU9mc1NSY05iVl9ualdyZ2FIUmV2VTdPdXlzMzVjVFhmaVR2SzJ5QUxZc3I0TEwybzVNYkFJRDNn?oc=5",
-          "source": "Google News Hindi (संयुक्त राष्ट्र)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi7ghBVV95cUxORFRKdWN6QjRGTkFDUjdpa19JYXFmd2JjSjB6eVZ0SV9jRHJoRm1tVWlJZ0ZERFR6dkZXSjJ5a3FubmNiNGdTbmgxdDNBOTN2My1ldUFMWGhyVmhwMEgyM1pIbU9WYXNtNUlUSEZubXYyQTlZS0FqbVlrelBNMFd4Tmo1NzVFZ0R1Ulg1WkFtbXk1elBfZ18wR3FhWU1RSVg0M0Jqd1lpVkg3Yi11d19RYmFxM1ZseGkzcFV0cjJvcWlub3NfU2tOcXh3R0trLVpiZk5leTlRTmIyTDNfQUZKU09NT3RFNWJwTXJoQ2FGV1I4TkIyaWNQNXRwd3gtdUFRUnB1c0dsX0h5T0ZXUzVsc2lVa1IteUd6Q3lOSUVqbUV2YXc5Zjg1cF8zOUh1YWVuWU4taUJHZG03Y05tejBlZV93a2xuNGRFcEpaTkNfal9FMHpYY25wV3cxRC1pWUk2VUZjQm1vQ2lRTEhpMndaQ29HNHhWa29RX0hxTWRWOERZZFM5MkNQUFBUR25rUWFXSnJVci1iOUJLc0tabmtuVUVfRVpnLVowUUEwakFiWDZYVVQ2c3U3TjY3UzRKcDFYV2NVQlc4S0VUc3Y0UWM3blRWNmpKTEQxTzZmejRaY1dlV2dmSkhXeEN5dVVXcDVlUDluQW54ZjBPeXluZXNhV1Fnb2lQejA1MlRENTktNEk3bnNZc3JDN0NGQ0NwOUVrUnNrSzZ0RkhiM1B5TlZnTmxvWW5aUFJmVDh4Y0kzeDMzeVc2VlUybk9ld201cVFlVmdEM2xaYk9WUWt0MUJUQl83Tjk4Qjh1R0RuMjI0MnkzVkJmOUh4a19LZG5YLXNFSGNKTEpSakkweHU2Z21JaDc4RW4xTkExdmlFU052NTJGZm1ZU3dfbXYxVFAxdjdDN3JJSWhoUE12ejByYkF6c3NXdzZ0WWU4Z2ZaeWhVNUhyTHYwYmY3M1dubFl4TU1ZUnNlTmhlaXgySnZ1a3JJVFdOd2FncGxWZ05sYzVGMENDYjMxWkhPcnZsdzY1ZWp3U1JkX0xMeFhZQXZkTklKVDdWdERrOFowdGFzLWpidzRkbXkyNmR3enBpeFhRX081WC1femsyMjdKcEktSGd0TldVUlYzcm4tcG94TUsxblJWemdOQ0czTWd6NEFXV1BCNmZpc3M5WTMyUUJDVkNBVmRMVTNuVzF4bnBZOGdMZkptS3FKcTlIaFJmRGJQenIxR3pYci1wSG5rOUdrWExUS0lJTTljVzJhQ2kzYXJTTUJkNEtHX08tM1VRVDByZngtRkFrQ1FtUm5FOFhyR3FTNTBvQ1F5VVhGOHRwUF9uRFVkcW01YUlrU28yS3BzY1pSdG9UeEtLMDE3NFNyYjRkU25LTmtRN1hPUkE2WVBaRXViSnAyV21Rd2FYMTlRVF9CWjRxUU00dXB6MlJ3TVB1aTk3R29vN1AtS0ZxUnp6dUNvcUpCLW1sUi1JTUt1cU9GSUR6ZTFJM29BU0liM0E?oc=5",
-          "source": "Google News Hindi (संयुक्त राष्ट्र)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi7ghBVV95cUxORFRKdWN6QjRGTkFDUjdpa19JYXFmd2JjSjB6eVZ0SV9jRHJoRm1tVWlJZ0ZERFR6dkZXSjJ5a3FubmNiNGdTbmgxdDNBOTN2My1ldUFMWGhyVmhwMEgyM1pIbU9WYXNtNUlUSEZubXYyQTlZS0FqbVlrelBNMFd4Tmo1NzVFZ0R1Ulg1WkFtbXk1elBfZ18wR3FhWU1RSVg0M0Jqd1lpVkg3Yi11d19RYmFxM1ZseGkzcFV0cjJvcWlub3NfU2tOcXh3R0trLVpiZk5leTlRTmIyTDNfQUZKU09NT3RFNWJwTXJoQ2FGV1I4TkIyaWNQNXRwd3gtdUFRUnB1c0dsX0h5T0ZXUzVsc2lVa1IteUd6Q3lOSUVqbUV2YXc5Zjg1cF8zOUh1YWVuWU4taUJHZG03Y05tejBlZV93a2xuNGRFcEpaTkNfal9FMHpYY25wV3cxRC1pWUk2VUZjQm1vQ2lRTEhpMndaQ29HNHhWa29RX0hxTWRWOERZZFM5MkNQUFBUR25rUWFXSnJVci1iOUJLc0tabmtuVUVfRVpnLVowUUEwakFiWDZYVVQ2c3U3TjY3UzRKcDFYV2NVQlc4S0VUc3Y0UWM3blRWNmpKTEQxTzZmejRaY1dlV2dmSkhXeEN5dVVXcDVlUDluQW54ZjBPeXluZXNhV1Fnb2lQejA1MlRENTktNEk3bnNZc3JDN0NGQ0NwOUVrUnNrSzZ0RkhiM1B5TlZnTmxvWW5aUFJmVDh4Y0kzeDMzeVc2VlUybk9ld201cVFlVmdEM2xaYk9WUWt0MUJUQl83Tjk4Qjh1R0RuMjI0MnkzVkJmOUh4a19LZG5YLXNFSGNKTEpSakkweHU2Z21JaDc4RW4xTkExdmlFU052NTJGZm1ZU3dfbXYxVFAxdjdDN3JJSWhoUE12ejByYkF6c3NXdzZ0WWU4Z2ZaeWhVNUhyTHYwYmY3M1dubFl4TU1ZUnNlTmhlaXgySnZ1a3JJVFdOd2FncGxWZ05sYzVGMENDYjMxWkhPcnZsdzY1ZWp3U1JkX0xMeFhZQXZkTklKVDdWdERrOFowdGFzLWpidzRkbXkyNmR3enBpeFhRX081WC1femsyMjdKcEktSGd0TldVUlYzcm4tcG94TUsxblJWemdOQ0czTWd6NEFXV1BCNmZpc3M5WTMyUUJDVkNBVmRMVTNuVzF4bnBZOGdMZkptS3FKcTlIaFJmRGJQenIxR3pYci1wSG5rOUdrWExUS0lJTTljVzJhQ2kzYXJTTUJkNEtHX08tM1VRVDByZngtRkFrQ1FtUm5FOFhyR3FTNTBvQ1F5VVhGOHRwUF9uRFVkcW01YUlrU28yS3BzY1pSdG9UeEtLMDE3NFNyYjRkU25LTmtRN1hPUkE2WVBaRXViSnAyV21Rd2FYMTlRVF9CWjRxUU00dXB6MlJ3TVB1aTk3R29vN1AtS0ZxUnp6dUNvcUpCLW1sUi1JTUt1cU9GSUR6ZTFJM29BU0liM0E?oc=5",
-          "source": "Google News Hindi (संयुक्त राष्ट्र)"
-        }
-      ],
-      "published_at": "2026-05-08T13:55:34+00:00",
-      "image_url": "https://images.pexels.com/photos/8771003/pexels-photo-8771003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पाकिस्तान ने सिंधु संधि पर नई पैंतरबाजी की है और संयुक्त राष्ट्र सुरक्षा परिषद में जल संकट का हवाला देकर गुहार लगाई है। इससे भारत और पाकिस्तान के बीच जल विवाद और बढ़ सकता है। पाकिस्तान की इस कार्रवाई से तनाव बढ़ने की संभावना है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंधु संधि पर पाकिस्तान की नई पैंतरबाजी, संयुक्त राष्ट्र सुरक्षा परिषद में पहुंचा, जल संकट का हवाला",
-          "summary": "पाकिस्तान ने सिंधु संधि पर नई पैंतरबाजी की है और संयुक्त राष्ट्र सुरक्षा परिषद में जल संकट का हवाला देकर गुहार लगाई है। इससे भारत और पाकिस्तान के बीच जल विवाद और बढ़ सकता है। पाकिस्तान की इस कार्रवाई से तनाव बढ़ने की संभावना है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका के व्यवहार ने कूटनीति के मार्ग को धमकी, दबाव और प्रतिबंधों की ओर मोड़ दिया है",
-      "url": "https://news.google.com/rss/articles/CBMiqwhBVV95cUxNVlZvbjFWOUVUOW9nb0ktQk5KbVNxSmozTUdkUHNIbW5jQWRrVExrdDd3eWo0bEI1Y3BUVHdjeGNLOVFMMEtPZEVSdkszbjBsYXUybFRySHBxaXQwTE01MG15UHlQdzktRGxpbW8yVzFpSFhjel9XanhDSlRZZG45NnRyeVBXUTR6bHNldTB0M0dwZ1Y1Q3VMWml3SHlRX3pUVXhGc2I3dzZfbklKNmprdlZRUXFHQWxKbHBWNnJ4TGFIdDVMWlJNc2hKMU1TSXlhMlJiUHdOYXFXQlhNVkpENWN1WTQ2YUpwNVBmZ3I3NERHZnFYTDlwaVdIN1ljNFVkejhPZ0hIc0kzRm50eUhGLTVrTktZWjhWcjJKSnhWV2MwQXFHZWk3QTZpcE5aMGt0aW5JVXp4VnM3VmFRbHR0THpYMGNRbmgyUGpleC1pRGhlU19CbTJ4TVZhN3gwajR2elFkWnFyU2Y1RDM0NThVR3lndXhWdjFFUUdnY2VDTEYwSlZIMzhnQ2Y4X3ktM3VHOGtvQUJ3bkluMzhuMUNNMG9VUGdpUGxUd2pTaVlWa3I0aUd2U3AzN0F2LS01dFJjWG11M1lfM1Eycm51LXdwSXhmeWlsMDNLNnBLdEhPZ0FWb3NlclctM0FMWXpnRzRZVXpWaVZTTUI4TjJoNUFjUG9wYnhBZUNma29JTUJjU0NRc0ljbnFnTlppUGhPMnhuYnF4OXdmcmt0Y0h1X1Q3NFJsRUY5TEY1Rk1UWW12Xzg1SHE2czJzTnVsYmlFSmtNX2NwREhNS0lsSHR2clhEcWhHNHdqVHIzWnluQi0yY2tVOW5zT3k4OHhqWU1fMjdRdlZ5OWxKQWxzOFM3UXZmT0MyVWxHR19vYzEzS0pudkZGRDhLMDg0WXpBU0Y5YzFxX0VvOHFWelBLaS1aSWhodHhqazNEdFN5SGF3c1NBV3ZWczFPc1IwMV9KdFp5Um9VcWt0ZG83OXdtdzNHT3hIeG5UcmVJZFhJbExScmFNUlZoMWNjYm9aMXU3UmhHanY1ZjF5Z0EyMlZBN3lVYnZ4VndYSld4bjZEQWlRRDlGRy1nT0I1YUtxcWl5ZUhFdHdIeGwwNGo3OWQ2VEIyaUhZZUtZM2MxN2FqVTBidlZVb2tvQWpFZ0kxVlE0NnUzcktZZTBUYjNjWXNPOUs3X3dXNy1uLTV2WkcwSG11XzRXN1BQdlpMblBDMkN5NEFqM2xUeXZrWERBMHhIVVg3Q1NieHZ2ZkUzbU1NV1hGTWF4ZnUzbzlMQTVuYXhGc2FFVmx2X1RNS1VnRkJlXzhhLWRVbzlYOEo2ajhkdWxpTloyWmhLb2I1MzR0VnkxNVRqSUFSRGRteFZfajdkb1p3Y2ZfVjRRUWxRNTh5Z2xQTUEtX1RaeWdKVGJsT2VJTQ?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-08T12:03:00+00:00",
-      "image_url": "https://images.pexels.com/photos/1119118/pexels-photo-1119118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पेज़ेश्कियान ने कहा कि अमेरिका के व्यवहार ने कूटनीति के मार्ग को धमकी, दबाव और प्रतिबंधों की ओर मोड़ दिया है। इससे अंतरराष्ट्रीय संबंधों पर नकारात्मक प्रभाव पड़ सकता है। अमेरिका की नीतियों की आलोचना की जा रही है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका के व्यवहार ने कूटनीति के मार्ग को धमकी, दबाव और प्रतिबंधों की ओर मोड़ दिया है",
-          "summary": "पेज़ेश्कियान ने कहा कि अमेरिका के व्यवहार ने कूटनीति के मार्ग को धमकी, दबाव और प्रतिबंधों की ओर मोड़ दिया है। इससे अंतरराष्ट्रीय संबंधों पर नकारात्मक प्रभाव पड़ सकता है। अमेरिका की नीतियों की आलोचना की जा रही है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "इजरायल युद्ध नहीं चाहता लेकिन बहुत कुछ ईरान पर निर्भर; पश्चिम एशिया संघर्ष पर क्या बोले",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ3VUdFoyQ3F3aEo5QnJWRWJSd21SNFhiSEgxTF9qVksxRGZwRGFTc2pucVRhUFpxS3RmdF9qZG5KaFl0aTNRLXpqUUtrUEltTUtMb29iQzdYMHBlZy1tOXI4Smc0WlVfYnRsN0VPUTBjMGRoaTRDR3puYzhadDgwXzMtQzFhSGk2QUdvTzV2YVJXUEEweU9SdEFzQ1Rhb3dlMDlzaUtRRGd3V3QybHhKYW1ZSzlSUEhQXzlsbW4xbGJOWmR1Z2lwOElQWUtNVzRzM0VkaThIZWhRWkNtLU1CYWY2WdIB6AFBVV95cUxOS3JvbVRZdW5YLWJiNm5COXBRSHU0OEdFNXVmUjNxSDZoTms1X2R5N3J4RHJVV1JlczI5Tk1pWjU1a1dfbDcxaWZYREtMZ0Y4Q2k5MGhfMWJlYUV5ZlJiTDV3cUlKYWZsejIwRkF3UFg3XzRNS1lnU2o0YTNScmY4SUpVX19YZmFmWlNmOHVJUl83UTkwdDNtNVplYk9xcGxrS3BHUHhiZ21ETHpyUE5adUxUcExqNkZHbk50eXUxN3lMSFp3bWtDclZ1M1U1cXEyOHZ2Rk5Md3RJd1ZMMXFBRUxrdDZnaWpG?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-08T11:26:12+00:00",
-      "image_url": "https://images.pexels.com/photos/30831931/pexels-photo-30831931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "इजरायल के महावाणिज्यदूत यानिव रेवाच ने कहा कि इजरायल युद्ध नहीं चाहता लेकिन बहुत कुछ ईरान पर निर्भर है। पश्चिम एशिया में संघर्ष की स्थिति गंभीर बनी हुई है। इजरायल और ईरान के बीच तनाव कम होने की संभावना नहीं है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इजरायल युद्ध नहीं चाहता लेकिन बहुत कुछ ईरान पर निर्भर; पश्चिम एशिया संघर्ष पर क्या बोले",
-          "summary": "इजरायल के महावाणिज्यदूत यानिव रेवाच ने कहा कि इजरायल युद्ध नहीं चाहता लेकिन बहुत कुछ ईरान पर निर्भर है। पश्चिम एशिया में संघर्ष की स्थिति गंभीर बनी हुई है। इजरायल और ईरान के बीच तनाव कम होने की संभावना नहीं है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सभी विदेश नीति गतिविधियाँ स्थानीय हितों की ओर उन्मुख होनी चाहिए।",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFAwa3B0NkY0Nm5yQ3FoUHhzUVRwWmE5eUNsSEZ3SlNSX1FMcVN1dzZTWmpaTFlxdW54YXNCZXB3dWw0SkF5am1TVjF1N2ZjMkJ5SGNUQTJadnphQkRwWklxS3Z1X2EyWmRtVVlFYzlSOFpWdk15aWRTU1E4dDA5aUFkdFJoZDlqT0dEczhSY0NzaWRLVjNGY3Rkc2drX3MyalBkRVBycUh1TzBwSEo5U0lfTQ?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-08T10:33:27+00:00",
-      "image_url": "https://images.pexels.com/photos/25310895/pexels-photo-25310895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "एक अधिकारी ने कहा कि सभी विदेश नीति गतिविधियाँ स्थानीय हितों की ओर उन्मुख होनी चाहिए। इससे देश के विकास में मदद मिल सकती है। विदेश नीति को स्थानीय जरूरतों के अनुसार तैयार करना आवश्यक है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सभी विदेश नीति गतिविधियाँ स्थानीय हितों की ओर उन्मुख होनी चाहिए।",
-          "summary": "एक अधिकारी ने कहा कि सभी विदेश नीति गतिविधियाँ स्थानीय हितों की ओर उन्मुख होनी चाहिए। इससे देश के विकास में मदद मिल सकती है। विदेश नीति को स्थानीय जरूरतों के अनुसार तैयार करना आवश्यक है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जर्मनी में भारतीय कामगारों की मांग: UN में बोले जर्मन अधिकारी- स्किल्ड वर्कर्स के लिए भारत पसंदीदा",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHFpc0pERkd5c2YxQ2FwQnFfM1ZocV90ajk0YnpRSUxBc0FkZG9aTl9uZnlKZE9YRVVNZTY2WHBfdWRyVG5pUGRLbUYzNmRUWTNHTmN2MG02eWlNWVowNk1ITTdOdC0wX2ktQlpObmFKYl9UWHMxNmszU1BoQ3FGN255MThpWEJEWTA0VUNTMHhUX1J5OUUycnhoMjBQZHNaMVZEdG9MTUo0Q293Qjg5LXVSNVU0YXJjUUJrUnYyONIBxAFBVV95cUxOTjd6cHlDcGZOMnhYVmQ2WDZGWHZWNnhuU1R6dnFXT3U4NTNXcGdMdHBHcDVHUnRienQzdmZxZlVrbTNjWEhvY3p0Ujc2ajNDWnVDUHJoNXZCbWNhSEgxOFBJbHhDcjE5X0U3bHk1YkNRYU1TcUxwcGtGWWR2TGxUOGRmVjNiOENPdnFqcUVla0JZWWk5emVrUEI1alduNFJWUkc0S2xmczFrdHc4SkU4QnhNWjJsb0wzOXl3bXc5MUVDc2ph?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-08T08:33:53+00:00",
-      "image_url": "https://images.pexels.com/photos/28552099/pexels-photo-28552099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "जर्मन अधिकारी ने UN में कहा कि भारत स्किल्ड वर्कर्स के लिए पसंदीदा देश है। जर्मनी में भारतीय कामगारों की मांग बढ़ रही है। जर्मन अधिकारी ने भारत की तारीफ की और कहा कि भारत से कुशल श्रमिकों की जरूरत जर्मनी को है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जर्मनी में भारतीय कामगारों की मांग: UN में बोले जर्मन अधिकारी- स्किल्ड वर्कर्स के लिए भारत पसंदीदा",
-          "summary": "जर्मन अधिकारी ने UN में कहा कि भारत स्किल्ड वर्कर्स के लिए पसंदीदा देश है। जर्मनी में भारतीय कामगारों की मांग बढ़ रही है। जर्मन अधिकारी ने भारत की तारीफ की और कहा कि भारत से कुशल श्रमिकों की जरूरत जर्मनी को है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "यूनुस के खास तारिक रहमान के साथ, चीन अमेरिका भारत के बीच रहस्यमय कूटनीति, बांग्लादेश के चाणक्य हैं",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNc1JYUnBxbUg0dnZQVGZ2Q0ZmaE9QbHE1VHNRODZJdHhiTmQ5cnIzR1RwcHFJMTVSNVFsakdtd0VQcnpJaFhQNXgzTXZJek16elZCTEJNNDR0NHF6UVVDMlpjMFJIX281VWRUSE9HUnFFaEJINzZTMnJuWTN0V3MxZ2pqUU1LLVhpaEZUQ3hTNTFTSkxibFJoWk45eVVVd0xiVTJ2OXVEenE2RFRBZVg5aVV4TzF3cUhYMmZtbzVKMlpucUItNExOTmlFVDlLdXpZYVhpN1ZNeDNLQV9DdDdWN0dTNUdEV0QzUU42ZHdtSGJQMDI5ck82eGVPTHN0Y3JqQW5FN0gyVmE4WE1CSFBjSXZJcGjSAZoCQVVfeXFMT1QzdTRGenBKb2FTODBId25GYjVtNUFlX3JnOFlEakVjdGl2RmFaQVJLRlA0WVowSF9hckkza1dxZnVraVJ6SDRDaTFfWXFkRnV1cjdLWWFUTFRyMHhFeExRcEVKM25DcWRVOEhIOGpLdjhmMlhFeVE0TlI1djBTVzBPR3RoUnh3ZlN5NXhwMHpfaGZfblZzalFGXy13dVJPdEtqNzVoNmNvS21LcHNBVVFQTl8zdS1QQnYwTXZ0d05leVhQczhqX0hoWm05S3JweEY5NnRoTElxLXVwT1NLT2pkT3FxcjhLQ250T0plTXlxOHMzYWJRQkVXSXQ3ODdSbUxjNGFpUGxTdkV4dzJaQXpMcTlIQjlkMHhB?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-08T08:29:03+00:00",
-      "image_url": "https://images.pexels.com/photos/34481612/pexels-photo-34481612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "बांग्लादेश के नेता यूनुस के सलाहकार तारिक रहमान ने चीन, अमेरिका और भारत के बीच रहस्यमय कूटनीति की बात कही। तारिक रहमान को बांग्लादेश का चाणक्य कहा जाता है। उनकी बातों से यह पता चलता है कि बांग्लादेश की विदेश नीति में एक नया मोड़ आया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूनुस के खास तारिक रहमान के साथ, चीन अमेरिका भारत के बीच रहस्यमय कूटनीति, बांग्लादेश के चाणक्य हैं",
-          "summary": "बांग्लादेश के नेता यूनुस के सलाहकार तारिक रहमान ने चीन, अमेरिका और भारत के बीच रहस्यमय कूटनीति की बात कही। तारिक रहमान को बांग्लादेश का चाणक्य कहा जाता है। उनकी बातों से यह पता चलता है कि बांग्लादेश की विदेश नीति में एक नया मोड़ आया है।",
           "region": "एशिया-प्रशांत"
         }
       }
