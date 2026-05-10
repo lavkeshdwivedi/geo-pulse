@@ -13,8 +13,6 @@
   --accent: #e63946;
   --accent-dark: #ff7380;
   --accent-bg: rgba(230, 57, 70, 0.13);
-  --tag-bg: rgba(255, 255, 255, 0.05);
-  --tag-text: #c8c4bc;
   --header-bg: rgba(5, 7, 13, 0.92);
   --header-border: rgba(255, 255, 255, 0.08);
   --footer-bg: #02030a;
@@ -45,8 +43,6 @@
   --accent: #c0202e;
   --accent-dark: #9a1520;
   --accent-bg: rgba(192, 32, 46, 0.08);
-  --tag-bg: rgba(0, 0, 0, 0.05);
-  --tag-text: #3a3830;
   --header-bg: rgba(233, 229, 222, 0.94);
   --header-border: rgba(0, 0, 0, 0.09);
   --footer-bg: #05070d;
@@ -1040,13 +1036,11 @@ img {
     gap: 0.5rem;
   }
 
-  .header-link {
+  .header-link:not(.language-switch) {
     display: none;
   }
 
-  /* Language switch stays fully visible on all small phones */
   .language-switch {
-    display: inline-flex !important;
     padding: 0 0.75rem;
     min-height: 2.2rem;
     font-size: 0.73rem;
@@ -1085,7 +1079,6 @@ img {
 
   /* Keep the switch readable on the smallest phones (≤420px) */
   .language-switch {
-    display: inline-flex !important;
     padding: 0 0.65rem;
     min-height: 2rem;
     font-size: 0.68rem;
