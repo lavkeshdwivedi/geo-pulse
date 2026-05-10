@@ -1356,7 +1356,7 @@ def build_html(
   <meta name="description" content="{copy['site_desc']}" />
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
   <meta name="color-scheme" content="light dark" />
-  <meta property="og:title" content="{SITE_TITLE}" />
+  <meta property="og:title" content="{copy['page_title']}" />
   <meta property="og:description" content="{copy['site_desc']}" />
   <meta property="og:url" content="{page_url}" />
   <meta property="og:type" content="website" />
@@ -1367,12 +1367,12 @@ def build_html(
   <meta property="og:image:alt" content="{SITE_TITLE} logo" />
   <meta property="og:image:width" content="512" />
   <meta property="og:image:height" content="512" />
+  <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="{copy['page_title']}" />
   <meta name="twitter:description" content="{copy['site_desc']}" />
   <meta name="twitter:image" content="{og_image_url}" />
-  <meta name="twitter:card" content="summary_large_image" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; upgrade-insecure-requests" />
   <link rel="canonical" href="{page_url}" />
   <link rel="alternate" hreflang="{hreflang_self}" href="{page_url}" />
   <link rel="alternate" hreflang="{hreflang_alt}" href="{switch_url}" />
@@ -1422,7 +1422,7 @@ def build_html(
       <div class="header-right">
         <a class="header-link language-switch" href="{switch_url}">{switch_label}</a>
         <button type="button" id="theme-btn" class="theme-btn" aria-label="{copy['theme_aria']}">
-          <span class="light-icon">☀️</span><span class="dark-icon">🌙</span>
+          <span class="light-icon" aria-hidden="true">☀️</span><span class="dark-icon" aria-hidden="true">🌙</span>
         </button>
       </div>
     </div>
@@ -1564,8 +1564,9 @@ def build_html(
       if (feedSummary) {{
         if (filter === 'All') {{
           const tmpl = {json.dumps(copy['feed_summary_template'])};
-          const words = (count === 1 ? {json.dumps(copy['story_singular'])} : {json.dumps(copy['story_plural'])});
-          feedSummary.textContent = tmpl.replace('{{count}}', count).replace('{{words}}', words);
+          const n = visibleCards.length;
+          const words = (n === 1 ? {json.dumps(copy['story_singular'])} : {json.dumps(copy['story_plural'])});
+          feedSummary.textContent = tmpl.replace('{{count}}', n).replace('{{words}}', words);
         }} else {{
           feedSummary.textContent = {json.dumps(copy['showing_prefix'])} + ' ' + filter + ' · ' + countLabel;
         }}
@@ -1668,7 +1669,20 @@ _SECTION_PAGE_SKELETON = """<!DOCTYPE html>
   <meta name="description" content="{page_desc}" />
   <meta name="robots" content="{robots}" />
   <meta name="color-scheme" content="light dark" />
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests" />
+  <meta property="og:title" content="{page_title}" />
+  <meta property="og:description" content="{page_desc}" />
+  <meta property="og:url" content="{canonical}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="{site_title}" />
+  <meta property="og:image" content="{site_url}/icon-512.png" />
+  <meta property="og:image:alt" content="{site_title} logo" />
+  <meta property="og:image:width" content="512" />
+  <meta property="og:image:height" content="512" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{page_title}" />
+  <meta name="twitter:description" content="{page_desc}" />
+  <meta name="twitter:image" content="{site_url}/icon-512.png" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; upgrade-insecure-requests" />
   <link rel="canonical" href="{canonical}" />
   <link rel="alternate" type="application/rss+xml" title="{site_title} RSS" href="{site_url}/feed.xml" />
   <link rel="icon" type="image/svg+xml" href="{asset_prefix}favicon.svg" />
@@ -1702,7 +1716,7 @@ _SECTION_PAGE_SKELETON = """<!DOCTYPE html>
       <div class="header-right">
         <a class="header-link language-switch" href="{switch_url}">{switch_label}</a>
         <button type="button" id="theme-btn" class="theme-btn" aria-label="{theme_aria}">
-          <span class="light-icon">☀️</span><span class="dark-icon">🌙</span>
+          <span class="light-icon" aria-hidden="true">☀️</span><span class="dark-icon" aria-hidden="true">🌙</span>
         </button>
       </div>
     </div>
