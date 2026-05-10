@@ -1,68 +1,20 @@
 {
-  "generated_at": "2026-05-10T13:22:58.689542+00:00",
-  "article_count": 33,
-  "total_unique_count": 249,
+  "generated_at": "2026-05-10T14:56:12.219133+00:00",
+  "article_count": 14,
+  "total_unique_count": 251,
   "digest": {
-    "en": "French Grand Prix results and a Colombian mine explosion lead the news. Tensions in Gaza and internal Chinese military shifts also command attention. The fate of a detained Hindu monk in Bangladesh adds another layer.",
-    "hi": "भारत-पाकिस्तान सैन्य संघर्ष के एक साल बाद क्षेत्रीय पार्टियों की पहचान की राजनीति पर बीजेपी के उभार का असर प्रमुख है। बांग्लादेश के मीडिया में शुभेंदु अधिकारी के मुख्यमंत्री बनने पर चर्चा हो रही है। सी. जोसेफ विजय ने मुख्यमंत्री पद की शपथ लेते ही तीन फैसले लिए।"
+    "en": "Pakistan's northwest security crackdown dominates headlines. Meanwhile, a film imagines Brazil's rainforest lost and an Indian migrant joins Scotland's parliament. The hantavirus situation in the Canary Islands also requires attention.",
+    "hi": "बीजेपी के उभार ने क्षेत्रीय पार्टियों की पहचान की राजनीति को प्रभावित किया है। लखनऊ की प्लेऑफ की दौड़ से बाहर होने की संभावना सीएसके की जीत के साथ बढ़ी है।"
   },
   "articles": [
     {
-      "title": "Martin wins French Grand Prix as Aprilia secure podium lock-out",
-      "url": "https://www.channelnewsasia.com/sport/martin-wins-french-grand-prix-aprilia-secure-podium-lock-out-6112071",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-10T12:56:27+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--cGpN95Kt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-10T125627Z_1_LYNXMPEM4906C_RTROPTP_3_MOTOR-MOTOGP-FRANCE.JPG?itok=k8Rw84lQ",
-      "summary": "Martin secured victory at the French Grand Prix. Martin wins French Grand Prix as Aprilia secure podium lock-out.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Explosion at coal mine in Colombia, at least four trapped",
-      "url": "https://www.thehindu.com/news/international/several-trapped-rescue-explosion-at-coal-mine-in-colombia-updates/article70962356.ece",
+      "title": "15 security officials killed in militant attack in northwest Pakistan",
+      "url": "https://www.thehindu.com/news/international/15-security-officials-killed-in-militant-attack-in-northwest-pakistan/article70962458.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-10T12:50:22+00:00",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "summary": "An explosion occurred at the Las Quintas coal mine in Pueblo Viejo, Colombia on Saturday afternoon. Four miners are trapped underground. The incident took place in the municipality of Cucunuba. The explosion happened on Saturday (May 9) afternoon at the Las Quintas mine in Pueblo Viejo, a village in Cucunuba municipality, said Jorge Emilio Rey, governor of the department of Cundinamarca.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Bangladesh’s HC rejects detained Hindu monk’s bail petition",
-      "url": "https://www.thehindu.com/news/international/bangladeshs-hc-rejects-detained-hindu-monks-bail-petition/article70962198.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-10T12:39:14+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/9dlb4/article70962220.ece/alternates/LANDSCAPE_1200/2024-11-26T122835Z_47992185_RC2SCBAP88GF_RTRMADP_3_BANGLADESH-PROTESTS.JPG",
-      "summary": "The High Court of Bangladesh denied bail to a detained Hindu monk. He is accused in the 2021 murder of a lawyer in Chattogram. The Divisional Speedy Trial Tribunal indicted the former ISKCON leader and 38 others on January 19. A trial has commenced against him.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "After Capturing Maduro, Trump Celebrated Victory. Did It Bring Venezuelans Home?",
-      "url": "https://www.nytimes.com/2026/05/10/world/americas/venezuela-maduro-trump-migration.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-05-10T12:35:46+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/05/10/world/10int-Venez-Grid/10int-Venez-Grid-mediumSquareAt3X.jpg",
-      "summary": "Venezuela's dire conditions led to a large exodus. Dire conditions in Venezuela prompted an exodus. In the wake of the attack that ousted its top leader, the question is whether things have changed enough to make a return appealing. After Capturing Maduro, Trump Celebrated Victory.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "//news.sky.com/video/us-v-china-who-is-the-worlds-tech-superpower-13541958\">US v China: The Trump",
-      "url": "https://news.sky.com/story/us-v-china-the-trump-mistake-that-threatens-american-tech-supremacy-13542272",
-      "source": "Sky News World",
-      "sources": [],
-      "published_at": "2026-05-10T12:07:00+00:00",
-      "image_url": "https://e3.365dm.com/26/05/1920x1080/skynews-tech-china-us-trump_7243649.jpg?20260509164604",
-      "summary": "The United States and China are competing for global technological dominance. This competition spans artificial intelligence, semiconductors, and telecommunications. The outcome will shape future economic and military power balances. //news. sky. com/video/us-v-china-who-is-the-worlds-tech-superpower-13541958\">US v China: The Trump.",
+      "published_at": "2026-05-10T13:35:54+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/81gkn8/article70962546.ece/alternates/LANDSCAPE_1200/Pakistan_Suicide_Attack_1_748.jpg",
+      "summary": "Fifteen security officials died in a militant attack in northwest Pakistan The impact of the explosion led to the collapse of the roofs of several houses in the vicinity. The police post building was also razed to the ground, and several security personnel were buried under the rubble.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -80,18 +32,6 @@
       "translations": {}
     },
     {
-      "title": "How China’s Leader Lost Faith in His Generals",
-      "url": "https://www.nytimes.com/2026/05/09/world/asia/china-military-generals.html",
-      "source": "NYT World",
-      "sources": [],
-      "published_at": "2026-05-10T11:52:00+00:00",
-      "image_url": "https://static01.nyt.com/images/2026/04/29/multimedia/00int-china-xi-military-01-lbcv/00int-china-xi-military-01-lbcv-mediumSquareAt3X.jpg",
-      "summary": "Xi Jinping's efforts to modernize China's military have led to increased distrust of his handpicked generals. He spent 13 years building a force intended to rival that of the United States. As the military's strength grew, so did Xi's suspicion of its leadership. Xi Jinping spent 13 years building a military to rival that of the United States.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Non-binary Indian migrant elected member of Scottish Parliament",
       "url": "https://www.thehindu.com/news/international/non-binary-indian-migrant-elected-member-of-scottish-parliament/article70962137.ece",
       "source": "The Hindu (International)",
@@ -100,102 +40,6 @@
       "image_url": "https://th-i.thgim.com/public/news/national/zbs4zx/article70962154.ece/alternates/LANDSCAPE_1200/Dr%20Q%20Manivannan.jpg",
       "summary": "Manivannan, a non-binary Indian migrant, was “As a queer Tamil immigrant, I am standing to be an MSP to bring a politics of care and compassion to Holyrood, to fight for the radical change our working-class and marginalised communities need,\" says Manivannan in his poll pitch for the Scottish Greens.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hantavirus cruise ship crisis: What we know so far as MV Hondius evacuations gather pace",
-      "url": "https://indianexpress.com/article/world/hantavirus-outbreak-mv-hondius-cruise-ship-evacuation-tenerife-deaths-explained-10682045/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-10T11:22:33+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/MV-Hondius-1.jpg",
-      "summary": "A Hantavirus crisis is unfolding aboard the MV Hondius cruise ship Hantavirus cruise ship crisis: What we know so far as MV Hondius evacuations gather pace.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Indonesian rescuers find hikers' bodies after volcanic eruption",
-      "url": "https://www.thehindu.com/news/international/indonesian-rescuers-find-hikers-bodies-after-volcanic-eruption/article70962096.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-10T11:14:34+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/mdol19/article70962105.ece/alternates/LANDSCAPE_1200/Indonesia_Volcano_Hikers_Killed_369_3.jpg",
-      "summary": "Indonesian rescuers located the bodies of hikers near the site where another Their bodies were found not far from where the remains of an Indonesian hiker had been found a day earlier, says National Disaster Mitigation Agency spokesman Abdul Muhari in a statement. Indonesian rescuers find hikers' bodies after volcanic eruption.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israeli strikes in Gaza kill three, medics say, testing fragile ceasefire",
-      "url": "https://www.thehindu.com/news/international/israeli-strikes-in-gaza-kill-three-medics-say-testing-fragile-ceasefire/article70961991.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-10T10:12:57+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/maqmt8/article70962004.ece/alternates/LANDSCAPE_1200/2026-05-10T092834Z_301244681_RC286LA62VNK_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG",
-      "summary": "Israeli air strikes killed three people in the Gaza Strip. Medics said an air strike ‌killed one person in the Maghazi refugee camp in ‌the Gaza Strip, while ‌another ⁠killed the head of the ⁠criminal police force in Khan Younis, Wessam Abdel-Hadi, and his aide, according to ​Gaza’s Hamas-run ‌Interior Ministry.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Car bombing and shootout kills 14 Pakistani police officers",
-      "url": "https://www.channelnewsasia.com/asia/pakistan-car-bomb-attack-shootout-police-killed-6111816",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-10T08:07:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--AAqznfGR--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Pakistan_Suicide_Attack_911_.jpg?itok=fOWdFNz_",
-      "summary": "A car bombing and subsequent shootout killed 14 Pakistani police officers. Car bombing and shootout kills 14 Pakistani police officers.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Vladimir Putin suggests Russia’s war on Ukraine ‘coming to an end’",
-      "url": "https://indianexpress.com/article/world/putin-says-ukraine-war-coming-to-an-end-victory-day-parade-peace-talks-10682068/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-10T07:45:48+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/US-2-8.jpg",
-      "summary": "Vladimir Putin suggested Russia’s war in Ukraine is coming to an end. Vladimir Putin suggests Russia’s war on Ukraine ‘coming to an end’.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "How a rare bird search turned a Dutch birdwatcher into ‘patient zero’ of a deadly cruise outbreak",
-      "url": "https://indianexpress.com/article/world/dutch-birdwatcher-patient-zero-hantavirus-cruise-mv-hondius-ushuaia-landfill-10681812/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-10T06:55:19+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/US-19.jpg",
-      "summary": "A Dutch birdwatcher became patient zero in a deadly cruise outbreak. How a rare bird search turned a Dutch birdwatcher into ‘patient zero’ of a deadly cruise outbreak.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UK PM Keir Starmer faces leadership challenge after Labour’s crushing local poll defeat",
-      "url": "https://indianexpress.com/article/world/keir-starmer-leadership-threat-labour-local-poll-10681998/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-10T06:12:11+00:00",
-      "image_url": "https://images.indianexpress.com/2026/04/keir-starmer.jpg",
-      "summary": "UK Prime Minister Keir Starmer faces a leadership challenge after Labour' UK PM Keir Starmer faces leadership challenge after Labour’s crushing local poll defeat.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘Those 168 in Minab were children too’: Iran targets White House press secretary Karoline Leavitt",
-      "url": "https://indianexpress.com/article/world/us-news/iran-karoline-leavitt-newborn-baby-minab-school-10681935/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-10T06:00:42+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/Karoline-Leavitt-Iran.jpg",
-      "summary": "Iran targeted White House press secretary Karoline Leavitt. ‘Those 168 in Minab were children too’: Iran targets White House press secretary Karoline Leavitt.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -212,66 +56,6 @@
       "translations": {}
     },
     {
-      "title": "Indian-origin trans candidate without permanent UK visa elected to Scottish Parliament",
-      "url": "https://indianexpress.com/article/world/q-manivannan-indian-origin-trans-candidate-scottish-parliament-visa-controversy-10681871/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-10T05:44:34+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/US-1-9.jpg",
-      "summary": "An Indian-origin trans candidate was elected to the Scottish Parliament. Indian-origin trans candidate without permanent UK visa elected to Scottish Parliament.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "With closure of Strait of Hormuz, Caspian Sea is the alternative route between Russia and Iran",
-      "url": "https://indianexpress.com/article/world/strait-of-hormuz-russia-iran-war-caspian-sea-route-10681865/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-10T05:09:21+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/Iran-War-Strait-of-Hormuz-2.jpg",
-      "summary": "The Caspian Sea offers an alternative trade route between Russia and Iran. With closure of Strait of Hormuz, Caspian Sea is the alternative route between Russia and Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Sabalenka exits Rome with injury concern ahead of French Open",
-      "url": "https://www.channelnewsasia.com/sport/sabalenka-exits-rome-injury-concern-ahead-french-open-6111826",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-10T04:42:10+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s---Ai0SkJu--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-10T044210Z_1_LYNXMPEM4901T_RTROPTP_3_TENNIS-ROME.JPG?itok=zqOJbQ0C",
-      "summary": "Aryna Sabalenka exited the Rome tournament early due to an Sabalenka exits Rome with injury concern ahead of French Open.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "South Korea welcomes rare baby bump as population shrinks",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-rare-baby-bump-population-shrinks-6111811",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-10T04:40:01+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--9YMGZg5i--/c_crop,h_1124,w_1999,x_1,y_77/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/10/000_a9xm9t3_mod.jpg?itok=F6ZG0fVI",
-      "summary": "South Korea registered a rare increase in its birth rate. South Korea welcomes rare baby bump as population shrinks.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Rajasthan rue poor bowling as mid-season slump deepens in IPL",
-      "url": "https://www.channelnewsasia.com/sport/rajasthan-rue-poor-bowling-mid-season-slump-deepens-in-ipl-6111776",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-10T04:13:28+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--9gnHEwJZ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-10T041328Z_1_LYNXMPEM49018_RTROPTP_3_CRICKET-IPL-RR-GT.JPG?itok=NSE3J2iD",
-      "summary": "Rajasthan's bowling performance contributed to their deepening mid-season slump in the Indian Premier League. The team's performance has declined in recent matches. Rajasthan rue poor bowling as mid-season slump deepens in IPL.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Argentina in spotlight over hantavirus as authorities retrace footsteps of ship’s passengers",
       "url": "https://www.theguardian.com/world/2026/may/10/hantavirus-is-not-easily-spread-but-is-global-heating-upping-our-exposure",
       "source": "The Guardian",
@@ -284,25 +68,85 @@
       "translations": {}
     },
     {
-      "title": "Bodies of two killed Singaporean hikers evacuated as rescue operation ends",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-mount-dukono-singaporeans-dead-search-rescue-investigation-6111696",
-      "source": "Channel News Asia",
+      "title": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
+      "url": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-05-10T03:54:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--okWYFkXu--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/10/dsc_0368.jpg?itok=ISLyicvZ",
-      "summary": "Singaporean authorities confirmed the evacuation of the last two bodies of hikers killed in an Indonesian volcano eruption. The rescue operation faced challenges due to the victims being buried under thick volcanic debris. The operation has now concluded. The evacuation process of the last two bodies had encountered obstacles due to the victims' position \"being buried under volcanic materials of significant thickness and depth\", according to the authorities.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-09T13:00:57+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=140&quality=85&auto=format&fit=max&s=3d70a65ae48caabd14de7d15d1f9ca7d",
+      "summary": "Amahle-Imvelo Jaxa posted a TikTok video explaining a dispute between the South African and Rwandan presidents. She detailed the roles of various South African groups in a conflict. Jaxa's content focuses on current affairs for a South African audience. Africa is leading a change in news consumption habits – and transforming the lives of current affairs enthusiastsLast year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Who is Péter Magyar, the man who ended Viktor Orbán’s 16-year rule in Hungary",
-      "url": "https://indianexpress.com/article/world/who-is-peter-magyar-hungary-prime-minister-viktor-orban-defeat-tisza-party-10681745/",
-      "source": "Indian Express World",
+      "title": "Guardian reporter and colleagues detained and beaten by Somali police",
+      "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-05-10T02:37:34+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/US-13.jpg",
-      "summary": "Péter Magyar has emerged as a significant political figure in Hungary. He is credited with challenging and potentially ending Viktor Orbán's 16-year tenure as prime minister. Magyar's rise signals a notable shift in Hungarian politics. Who is Péter Magyar, the man who ended Viktor Orbán’s 16-year rule in Hungary.",
+      "published_at": "2026-05-09T12:27:59+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=c5604bd094625c43a7c8ea25bff35fc6",
+      "summary": "Guardian reporter Mohamed Bulbul was detained and beaten by Somali police in Mogadishu. He was arrested with two colleagues, Abdihafid Nor Barre and Abdishakur Mohamed Moh. The arrests followed Bulbul's reporting for the Guardian on the alleged torture of a woman in prison.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Revisiting Guy Goma's iconic accidental BBC interview 20 years ago this week",
+      "url": "https://www.npr.org/2026/05/09/nx-s1-5814110/revisiting-guy-gomas-iconic-accidental-bbc-interview-20-years-ago-this-week",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-05-09T11:43:00+00:00",
+      "image_url": "https://images.pexels.com/photos/3587145/pexels-photo-3587145.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Guy Goma appeared live on BBC News 20 years ago this NPR's Elissa Nadworny talks to Guy Goma who thought he was being interviewed for an IT job at the BBC but instead found himself live on air. His interview 20 years ago became a viral sensation.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Frustrated by Iran, Trump at last seizes enriched uranium – but from Venezuela",
+      "url": "https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-08T17:32:27+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/ba80fa731911031bf01ca9edea875a500b972e55/416_0_4165_3332/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=a029aa407695667bfbcea6590ec92dcc",
+      "summary": "The US Department of Energy announced 13. US energy department says 13.5kg of uranium taken from reactor in Caracas – a fraction of the 408kg held by TehranDonald Trump has succeeded in removing a country’s stash of highly enriched uranium – although that country is not Iran. On Friday, the US Department of Energy announced that “thanks to President Trump’s decisive leadership” 13.5kg (about 30 pounds) of uranium had been removed from a le.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Central African Republic: Funding cuts put humanitarian support at risk",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167474",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-08T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-05-2026-UNOCHA-CAR-Edem-Wosornu-02.jpg/image560x340cropped.jpg",
+      "summary": "Funding cuts threaten humanitarian operations in the Central African Republic. The Central African Republic (CAR) is making progress towards stability and security but major aid budget cuts threaten humanitarian operations there, a senior official with the UN aid coordination office OCHA said on Friday in New York.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Wider hantavirus outbreak risk is ‘absolutely low’, insists UN health agency",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167465",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-08T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/03/14670/image560x340cropped.jpg",
+      "summary": "The UN World Health Organization stated the hantavirus outbreak risk is absolutely The risk of hantavirus spreading to the general population is “absolutely low”, the UN World Health Organization (WHO) stressed on Friday, as a flight attendant tested negative for the disease after coming into contact with an infected passenger from the cruise ship at the centre of the outbreak, who later died.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
+      "url": "https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-06T21:51:37+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/5115906232c3b186f8cd57561a5bba1e52645d8f/175_0_2198_1758/master/2198.jpg?width=140&quality=85&auto=format&fit=max&s=708faef55ab2a79ba3a7845cb2bf1f57",
+      "summary": "Spain allowed the MV Hondius cruise ship to dock after three people British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary IslandsExplainer: What is hantavirus? Three people with suspected hantavirus have been medically evacuated from a cruise ship. They include a British man who was an expedition guide onboard the ship, the MV Hondius.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -326,141 +170,20 @@
       }
     },
     {
-      "title": "सी जोसेफ़ विजय ने मुख्यमंत्री पद की शपथ लेते ही लिए ये तीन फ़ैसले",
-      "url": "https://www.bbc.com/hindi/articles/c62x9lpq2r6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-10T04:52:30+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d66/live/a365c0b0-4c2d-11f1-b69a-3d2d5273e934.jpg",
-      "summary": "सी जोसेफ़ विजय ने तमिलनाडु के मुख्यमंत्री पद की शपथ ली। उनके साथ नौ अन्य लोगों ने भी मंत्री पद की शपथ ली। विजय का मुख्यमंत्री बनना राज्य की राजनीति में एक नया अध्याय शुरू करता है। विजय के मुख्यमंत्री बनते ही तमिलनाडु में लगभग छह दशकों से जारी दो प्रमुख द्रविड़ दलों डीएमके और एआईएडीएमके के बारी-बारी से सत्ता में आने का दौर समाप्त हो गया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सी जोसेफ़ विजय ने मुख्यमंत्री पद की शपथ लेते ही लिए ये तीन फ़ैसले",
-          "summary": "सी जोसेफ़ विजय ने तमिलनाडु के मुख्यमंत्री पद की शपथ ली। उनके साथ नौ अन्य लोगों ने भी मंत्री पद की शपथ ली। विजय का मुख्यमंत्री बनना राज्य की राजनीति में एक नया अध्याय शुरू करता है। विजय के मुख्यमंत्री बनते ही तमिलनाडु में लगभग छह दशकों से जारी दो प्रमुख द्रविड़ दलों डीएमके और एआईएडीएमके के बारी-बारी से सत्ता में आने का दौर समाप्त हो गया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बांग्लादेश के मीडिया में शुभेंदु अधिकारी के मुख्यमंत्री बनने पर हो रही है ऐसी चर्चा",
-      "url": "https://www.bbc.com/hindi/articles/cy725kz5r35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-10T03:48:44+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0402/live/97377210-4c1a-11f1-9065-fbc107ca5dc1.jpg",
-      "summary": "बांग्लादेशी मीडिया पश्चिम बंगाल के नेता शुभेंदु अधिकारी के संभावित मुख्यमंत्री बनने की खबरों पर बारीकी से नजर रख रहा है। भाजपा के घोषणापत्र में अप्रवासियों के प्रति 'डिटेक्ट, डिलीट और डिपोर्ट' नीति का उल्लेख किया गया है। पश्चिम बंगाल विधानसभा चुनाव में बीजेपी ने जो घोषणापत्र जारी किया था, उसमें बिना दस्तावेज़ वाले प्रवासियों से निपटने के लिए 'डिटेक्ट, डिलीट और डिपोर्ट' की नीति अपनाने की बात कही थी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेश के मीडिया में शुभेंदु अधिकारी के मुख्यमंत्री बनने पर हो रही है ऐसी चर्चा",
-          "summary": "बांग्लादेशी मीडिया पश्चिम बंगाल के नेता शुभेंदु अधिकारी के संभावित मुख्यमंत्री बनने की खबरों पर बारीकी से नजर रख रहा है। भाजपा के घोषणापत्र में अप्रवासियों के प्रति 'डिटेक्ट, डिलीट और डिपोर्ट' नीति का उल्लेख किया गया है। पश्चिम बंगाल विधानसभा चुनाव में बीजेपी ने जो घोषणापत्र जारी किया था, उसमें बिना दस्तावेज़ वाले प्रवासियों से निपटने के लिए 'डिटेक्ट, डिलीट और डिपोर्ट' की नीति अपनाने की बात कही थी.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत-पाकिस्तान में सैन्य संघर्ष के एक साल बाद चीज़ें कैसे बदलीं और क्या असर हुआ",
-      "url": "https://www.bbc.com/hindi/articles/c87qp95zndxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [
-        {
-          "url": "https://www.bbc.com/hindi/articles/c87qp95zndxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Hindi"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15cnZ3Q3QzQVl6WWNneGliRWhveFdkN2NSYTF5M1QyOXZ5dFdJdS14UV84SDYxNzNzYzJ0XzFDQnlBSWhhYTZiSktTY1Z6RG40QXd6Z0RWRlJHZk3SAWBBVV95cUxOOGhzTzZIZXlESG8ya0RXYzBHYlY3XzVybHUwbVVXaFY4Z2xSY0NuZXJQOEpyR01FNzFiZkc0dGRpOVRfMTczbzhsSkEyRGhmcURiN0UzdGJlUTViaHhsMXY?oc=5",
-          "source": "Google News Hindi (युद्ध संघर्ष)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15cnZ3Q3QzQVl6WWNneGliRWhveFdkN2NSYTF5M1QyOXZ5dFdJdS14UV84SDYxNzNzYzJ0XzFDQnlBSWhhYTZiSktTY1Z6RG40QXd6Z0RWRlJHZk3SAWBBVV95cUxOOGhzTzZIZXlESG8ya0RXYzBHYlY3XzVybHUwbVVXaFY4Z2xSY0NuZXJQOEpyR01FNzFiZkc0dGRpOVRfMTczbzhsSkEyRGhmcURiN0UzdGJlUTViaHhsMXY?oc=5",
-          "source": "Google News Hindi (युद्ध संघर्ष)"
-        }
-      ],
-      "published_at": "2026-05-10T02:21:52+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/97a0/live/809cfe60-4bcc-11f1-bd52-e755d604ece4.png",
-      "summary": "भारत और पाकिस्तान के बीच सैन्य संघर्ष के एक साल बाद, ऑपरेशन सिंदूर के भविष्य, पाकिस्तान की प्रतिक्रिया और भारतीय कूटनीति पर चर्चा हुई। इन घटनाओं ने दोनों देशों के संबंधों को प्रभावित किया है। द लेंस के नए एपिसोड में ऑपरेशन सिंदूर को लेकर तीन पहलुओं पर चर्चा की गई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत-पाकिस्तान में सैन्य संघर्ष के एक साल बाद चीज़ें कैसे बदलीं और क्या असर हुआ",
-          "summary": "भारत और पाकिस्तान के बीच सैन्य संघर्ष के एक साल बाद, ऑपरेशन सिंदूर के भविष्य, पाकिस्तान की प्रतिक्रिया और भारतीय कूटनीति पर चर्चा हुई। इन घटनाओं ने दोनों देशों के संबंधों को प्रभावित किया है। द लेंस के नए एपिसोड में ऑपरेशन सिंदूर को लेकर तीन पहलुओं पर चर्चा की गई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अनिल कपूर ने 'द कपिल शर्मा शो' पर सुनाया पुराना किस्सा, फैंस ने भेजी ऑटो रिक्शा की तस्वीरें, लिखा",
-      "url": "https://www.amarujala.com/entertainment/bollywood/anil-kapoor-recalls-fans-sending-auto-rickshaw-photos-featuring-his-jhakaas-dialogues-on-the-kapil-sharma-sho-2026-05-10",
+      "title": "2019 के बाद पहली बार सीएसके ने 180+ रनों का लक्ष्य हासिल किया, प्लेऑफ की दौड़ से लखनऊ लगभग बाहर",
+      "url": "https://www.amarujala.com/cricket/cricket-news/ipl-2026-csk-vs-lsg-result-chennai-super-kings-vs-lucknow-super-giants-key-highlights-analysis-points-table-2026-05-10",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-10T00:58:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/25/anal-kapara_5a87682ae793fc81888ca98becd77553.jpeg?w=750&dpr=1.0",
-      "summary": "अनिल कपूर 'द कपिल शर्मा शो' में अपनी बेटी सोनम कपूर और राजकुमार राव के साथ आए थे। उन्होंने अपने 'झकास' डायलॉग से जुड़ा एक किस्सा सुनाया। शो के बाद प्रशंसकों ने उन्हें ऑटो रिक्शा की तस्वीरें भेजीं। दिग्गज अभिनेता अनिल कपूर अपने मशहूर डायलॉग 'झकास' के लिए बहुत प्रसिद्ध हैं।",
-      "region": "World",
+      "published_at": "2026-05-10T02:34:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/10/ipl_960958a2e9f34b0b21c5421ca13957b8.jpeg?w=750&dpr=1.0",
+      "summary": "सीएसके ने आईपीएल 2026 में लखनऊ को हराकर जीत की सीएसके ने आईपीएल 2026 में जीत की हैट्रिक लगाते हुए लखनऊ को एकतरफा अंदाज में हराया। इस हार से जहां लखनऊ का सफर लगभग समाप्त हो गया वहीं, सीएसके ने प्लेऑफ की उम्मीदें जीवंत रखी हैं।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अनिल कपूर ने 'द कपिल शर्मा शो' पर सुनाया पुराना किस्सा, फैंस ने भेजी ऑटो रिक्शा की तस्वीरें, लिखा",
-          "summary": "अनिल कपूर 'द कपिल शर्मा शो' में अपनी बेटी सोनम कपूर और राजकुमार राव के साथ आए थे। उन्होंने अपने 'झकास' डायलॉग से जुड़ा एक किस्सा सुनाया। शो के बाद प्रशंसकों ने उन्हें ऑटो रिक्शा की तस्वीरें भेजीं। दिग्गज अभिनेता अनिल कपूर अपने मशहूर डायलॉग 'झकास' के लिए बहुत प्रसिद्ध हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "10 मई 1857 को मेरठ से उठी थी क्रांति की चिंगारी",
-      "url": "https://www.amarujala.com/columns/blog/10-may-1857-first-war-of-indian-independence-against-british-east-india-company-2026-05-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-10T00:47:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/03/18/fata-02-parathama-savatatarata-sagarama-ka-nayaka-rava-tal-rama-ka-paratama-savatha_17b844fb6c845218a59c60d0cd6c1cf2.jpeg?w=750&dpr=1.0",
-      "summary": "10 मई 1857 को मेरठ से 1857 की क्रांति की शुरुआत हुई। यह क्रांति लंबे समय से जमा हो रहे असंतोष का परिणाम थी। चर्बी लगे कारतूसों ने सैनिकों की धार्मिक भावनाओं को आहत किया। 1857 की क्रांति अचानक नहीं हुई थी। यह लंबे समय से जमा होते आ रहे आक्रोश का परिणाम थी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "10 मई 1857 को मेरठ से उठी थी क्रांति की चिंगारी",
-          "summary": "10 मई 1857 को मेरठ से 1857 की क्रांति की शुरुआत हुई। यह क्रांति लंबे समय से जमा हो रहे असंतोष का परिणाम थी। चर्बी लगे कारतूसों ने सैनिकों की धार्मिक भावनाओं को आहत किया। 1857 की क्रांति अचानक नहीं हुई थी। यह लंबे समय से जमा होते आ रहे आक्रोश का परिणाम थी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जब कमेंट्स पढ़कर हिल गई थीं कियारा आडवाणी, ट्रोल्स की बातों पर करने लगी थीं यकीन; बताया चौंकाने",
-      "url": "https://www.amarujala.com/entertainment/bollywood/when-kiara-advani-almost-believed-the-plastic-surgery-rumours-about-her-after-reading-comments-2026-05-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-10T00:43:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/31/kiara-advani_123528deb10d1aae22032fbd19795486.jpeg?w=750&dpr=1.0",
-      "summary": "कियारा आडवाणी ने प्लास्टिक सर्जरी की अफवाहों पर बात की। उन्होंने बताया कि ट्रोल्स की बातों पर यकीन करने के कारण वह परेशान हो गई थीं। इन अफवाहों ने उन्हें काफी प्रभावित किया था। एक्ट्रेस ने कुछ साल पहले प्लास्टिक सर्जरी की अफवाहों पर खुलकर बात की थी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जब कमेंट्स पढ़कर हिल गई थीं कियारा आडवाणी, ट्रोल्स की बातों पर करने लगी थीं यकीन; बताया चौंकाने",
-          "summary": "कियारा आडवाणी ने प्लास्टिक सर्जरी की अफवाहों पर बात की। उन्होंने बताया कि ट्रोल्स की बातों पर यकीन करने के कारण वह परेशान हो गई थीं। इन अफवाहों ने उन्हें काफी प्रभावित किया था। एक्ट्रेस ने कुछ साल पहले प्लास्टिक सर्जरी की अफवाहों पर खुलकर बात की थी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सीएसके के खिलाफ जोश इंग्लिस ने मचाया धमाल, चेपॉक पर लगाया सबसे तेज अर्धशतक; पूरा नहीं कर सके शतक",
-      "url": "https://www.amarujala.com/cricket/cricket-news/csk-vs-lsg-ipl-2026-chennai-super-kings-vs-lucknow-super-giants-stats-josh-inglis-records-2026-05-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-10T00:39:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/10/ipl_c8c6700b1e21871ce594cb8de5d90ade.jpeg?w=750&dpr=1.0",
-      "summary": "लखनऊ सुपर जाएंट्स के जोश इंग्लिस ने चेन्नई सुपर किंग्स के खिलाफ चेपॉक में सबसे तेज अर्धशतक लगाया। चोट से वापसी कर रहे इंग्लिस ने 23 गेंदों में अपना अर्धशतक पूरा किया। वह शतक पूरा नहीं कर सके। लखनऊ सुपर जाएंट्स के सलामी बल्लेबाज जोश इंग्लिस ने सीएसके के खिलाफ दमदार बल्लेबाजी की।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीएसके के खिलाफ जोश इंग्लिस ने मचाया धमाल, चेपॉक पर लगाया सबसे तेज अर्धशतक; पूरा नहीं कर सके शतक",
-          "summary": "लखनऊ सुपर जाएंट्स के जोश इंग्लिस ने चेन्नई सुपर किंग्स के खिलाफ चेपॉक में सबसे तेज अर्धशतक लगाया। चोट से वापसी कर रहे इंग्लिस ने 23 गेंदों में अपना अर्धशतक पूरा किया। वह शतक पूरा नहीं कर सके। लखनऊ सुपर जाएंट्स के सलामी बल्लेबाज जोश इंग्लिस ने सीएसके के खिलाफ दमदार बल्लेबाजी की।",
-          "region": "दुनिया"
+          "title": "2019 के बाद पहली बार सीएसके ने 180+ रनों का लक्ष्य हासिल किया, प्लेऑफ की दौड़ से लखनऊ लगभग बाहर",
+          "summary": "सीएसके ने आईपीएल 2026 में लखनऊ को हराकर जीत की सीएसके ने आईपीएल 2026 में जीत की हैट्रिक लगाते हुए लखनऊ को एकतरफा अंदाज में हराया। इस हार से जहां लखनऊ का सफर लगभग समाप्त हो गया वहीं, सीएसके ने प्लेऑफ की उम्मीदें जीवंत रखी हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
