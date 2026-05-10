@@ -57,8 +57,8 @@ log = logging.getLogger("rank_articles")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INPUT_PATH = os.path.join(ROOT, "raw_news.json")
 
-KEEP_TOP_DEFAULT = int(os.environ.get("RANKER_KEEP_TOP", "30"))
-MAX_INPUT_DEFAULT = int(os.environ.get("RANKER_MAX_INPUT", "60"))
+KEEP_TOP_DEFAULT = int(os.environ.get("RANKER_KEEP_TOP", "45"))
+MAX_INPUT_DEFAULT = int(os.environ.get("RANKER_MAX_INPUT", "80"))
 DISABLED = os.environ.get("RANKER_DISABLE") == "1"
 
 

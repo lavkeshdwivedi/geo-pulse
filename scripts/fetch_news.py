@@ -1023,7 +1023,7 @@ def main() -> None:
     # ── English: Primary RSS ──────────────────────────────────────────────────
     if "rss" in sources:
         en_feeds = cfg.get("english_rss_feeds", cfg.get("rss_feeds", []))
-        en_articles.extend(_tag_language(fetch_rss(en_feeds, max_per_feed=10, language="en"), "en"))
+        en_articles.extend(_tag_language(fetch_rss(en_feeds, max_per_feed=15, language="en"), "en"))
 
     # ── English: NewsAPI (optional, key required) ─────────────────────────────
     if "newsapi" in sources:
@@ -1044,18 +1044,18 @@ def main() -> None:
     # ── English: Google News RSS ──────────────────────────────────────────────
     en_gnews = cfg.get("english_gnews_queries", cfg.get("gnews_rss_queries", []))
     if en_gnews:
-        en_articles.extend(_tag_language(fetch_gnews_rss(en_gnews, max_per_query=8), "en"))
+        en_articles.extend(_tag_language(fetch_gnews_rss(en_gnews, max_per_query=12), "en"))
 
     # ── Hindi: Primary RSS ────────────────────────────────────────────────────
     if "rss" in sources:
         hi_feeds = cfg.get("hindi_rss_feeds", [])
         if hi_feeds:
-            hi_articles.extend(_tag_language(fetch_rss(hi_feeds, max_per_feed=10, language="hi"), "hi"))
+            hi_articles.extend(_tag_language(fetch_rss(hi_feeds, max_per_feed=15, language="hi"), "hi"))
 
     # ── Hindi: Google News RSS ────────────────────────────────────────────────
     hi_gnews = cfg.get("hindi_gnews_queries", [])
     if hi_gnews:
-        hi_articles.extend(_tag_language(fetch_gnews_rss_hindi(hi_gnews, max_per_query=8), "hi"))
+        hi_articles.extend(_tag_language(fetch_gnews_rss_hindi(hi_gnews, max_per_query=12), "hi"))
 
     # ── English fallback (only triggers if primary set is very thin) ──────────
     unique_en = deduplicate(en_articles)
@@ -1066,7 +1066,7 @@ def main() -> None:
                 "English: only %d unique articles (threshold %d); pulling fallback feeds…",
                 len(unique_en), low_water_mark,
             )
-            en_articles.extend(_tag_language(fetch_rss(en_fallback, max_per_feed=10, language="en"), "en"))
+            en_articles.extend(_tag_language(fetch_rss(en_fallback, max_per_feed=15, language="en"), "en"))
 
     # ── Hindi fallback (only triggers if primary set is very thin) ────────────
     unique_hi = deduplicate(hi_articles)
@@ -1077,7 +1077,7 @@ def main() -> None:
                 "Hindi: only %d unique articles (threshold %d); pulling fallback feeds…",
                 len(unique_hi), low_water_mark,
             )
-            hi_articles.extend(_tag_language(fetch_rss(hi_fallback, max_per_feed=10, language="hi"), "hi"))
+            hi_articles.extend(_tag_language(fetch_rss(hi_fallback, max_per_feed=15, language="hi"), "hi"))
 
     # ── Combine and deduplicate (within-language dedup already done above) ────
     all_articles = en_articles + hi_articles
