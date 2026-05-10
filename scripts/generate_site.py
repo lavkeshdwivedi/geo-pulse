@@ -1146,12 +1146,12 @@ def build_html(
             })
         articles = localized_articles
 
-    # Defensive floor: catch genuinely broken summariser outputs (single-clause
-    # one-liners like "Martin secured victory at the French Grand Prix.") but
-    # leave marginally short cards alone — the rank filter at MIN_DESC_WORDS=35
-    # already does the bulk of the gating, and a 25-word cut here was tossing
-    # eight otherwise-fine articles per edition. 15 is the obvious-failure mark.
-    MIN_RENDER_SUMMARY_WORDS = 15
+    # Prefer bigger contexts and drop smaller ones. The summariser targets
+    # 45-90 words, so anything below 25 is the under-cooked tail — a one- or
+    # two-sentence card that looks empty next to a fat neighbour. Drop it.
+    # Compensated upstream by widening the rank cap so the grid still has
+    # enough fat candidates.
+    MIN_RENDER_SUMMARY_WORDS = 25
     articles = [
         article for article in articles
         if len((article.get("summary") or "").split()) >= MIN_RENDER_SUMMARY_WORDS
