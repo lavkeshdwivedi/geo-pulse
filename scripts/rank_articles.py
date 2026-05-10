@@ -189,6 +189,24 @@ def main():
         log.info("raw_news.json is empty, nothing to rank")
         return
 
+    # Drop articles whose description is too thin to produce a useful summary.
+    # A description under 30 words (roughly one sentence) gives the summariser
+    # almost nothing beyond the title, so the card ends up as a one-liner.
+    # Keep the article if it has no description at all — summarize.py falls
+    # back to the title, which is at least a complete sentence.
+    MIN_DESC_WORDS = 30
+    def _has_enough_content(a: dict) -> bool:
+        desc = (a.get("description") or "").strip()
+        if not desc:
+            return True   # no description → let summarize.py handle it
+        return len(desc.split()) >= MIN_DESC_WORDS
+
+    before = len(articles)
+    articles = [a for a in articles if _has_enough_content(a)]
+    dropped = before - len(articles)
+    if dropped:
+        log.info("Dropped %d thin-description articles (< %d words)", dropped, MIN_DESC_WORDS)
+
     en_pool = [a for a in articles if a.get("language", "en") != "hi"]
     hi_pool = [a for a in articles if a.get("language") == "hi"]
     log.info(
