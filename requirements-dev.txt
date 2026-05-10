@@ -1,0 +1,4 @@
+-r requirements.txt
+python-dotenv>=1.0.1
+pre-commit>=3.7.0
+ruff>=0.6.0
