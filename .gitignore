@@ -31,6 +31,11 @@ raw_news.json
 *.rej
 *.bak
 
+# CI run logs (local debug artefacts, never commit these)
+_run_*.log
+_val_fail.log
+*.log
+
 site/_probe.txt
 
 # Local-only helper scripts (session artefacts, not part of the repo)
