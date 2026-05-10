@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-05-10T06:35:24.103522+00:00",
-  "article_count": 37,
+  "generated_at": "2026-05-10T08:56:39.605152+00:00",
+  "article_count": 33,
   "total_unique_count": 250,
   "digest": {
-    "en": "UK Prime Minister Keir Starmer faces a leadership challenge after local election losses. Iran targets a White House press secretary amid regional tensions. South Korea celebrates a rare birth as its population declines.",
-    "hi": "तमिलनाडु के मुख्यमंत्री सी जोसेफ़ विजय ने पदभार ग्रहण करते ही तीन फ़ैसले लिए। यह निर्णय पश्चिम बंगाल के नए मुख्यमंत्री के सामने आने वाली चुनौतियों के बीच आया है। भारत-पाकिस्तान सैन्य संघर्ष के एक साल बाद भी एशिया-प्रशांत क्षेत्र में तनाव बना हुआ है।"
+    "en": "Pakistan's police force faces a deadly car bombing. Vladimir Putin signals an end to Russia's war in Ukraine. South Korea welcomes a rare baby bump amid a shrinking population.",
+    "hi": "पश्चिम बंगाल में बीजेपी की जीत क्षेत्रीय पार्टियों की पहचान की राजनीति पर असर डाल रही है। तमिलनाडु के मुख्यमंत्री एम.के. स्टालिन का मोदी सरकार के प्रति रुख़ महत्वपूर्ण है। भारत-पाकिस्तान के बीच सैन्य संघर्ष के एक साल बाद चीजें बदल गई हैं।"
   },
   "articles": [
+    {
+      "title": "Car bombing and shootout kills 14 Pakistani police officers",
+      "url": "https://www.channelnewsasia.com/asia/pakistan-car-bomb-attack-shootout-police-killed-6111816",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-10T08:07:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--AAqznfGR--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Pakistan_Suicide_Attack_911_.jpg?itok=fOWdFNz_",
+      "summary": "A car bombing and subsequent shootout killed 14 Pakistani police officers. Car bombing and shootout kills 14 Pakistani police officers.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Vladimir Putin suggests Russia’s war on Ukraine ‘coming to an end’",
+      "url": "https://indianexpress.com/article/world/putin-says-ukraine-war-coming-to-an-end-victory-day-parade-peace-talks-10682068/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-10T07:45:48+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/US-2-8.jpg",
+      "summary": "Vladimir Putin suggested Russia’s war in Ukraine is coming to an end. Vladimir Putin suggests Russia’s war on Ukraine ‘coming to an end’.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How a rare bird search turned a Dutch birdwatcher into ‘patient zero’ of a deadly cruise outbreak",
+      "url": "https://indianexpress.com/article/world/dutch-birdwatcher-patient-zero-hantavirus-cruise-mv-hondius-ushuaia-landfill-10681812/",
+      "source": "Indian Express World",
+      "sources": [],
+      "published_at": "2026-05-10T06:55:19+00:00",
+      "image_url": "https://images.indianexpress.com/2026/05/US-19.jpg",
+      "summary": "A Dutch birdwatcher became patient zero in a deadly cruise outbreak. How a rare bird search turned a Dutch birdwatcher into ‘patient zero’ of a deadly cruise outbreak.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "UK PM Keir Starmer faces leadership challenge after Labour’s crushing local poll defeat",
       "url": "https://indianexpress.com/article/world/keir-starmer-leadership-threat-labour-local-poll-10681998/",
@@ -164,18 +200,6 @@
       "translations": {}
     },
     {
-      "title": "From baby carriers to Tamil books: How 4 Singapore mums built businesses for children",
-      "url": "https://www.channelnewsasia.com/women/singapore-mums-businesses-kids-6085171",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-09T23:53:38+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--VMpspu4M--/c_crop,h_678,w_1206,x_2,y_917/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/28/hero-mumpreneurs.jpg?itok=o9nlP9O-",
-      "summary": "Four mothers in Singapore launched businesses catering to children. Their ventures include baby carriers, Tamil books, reusable dining mats, and sustainable clothing. These enterprises were inspired by their children and motherhood experiences. From babywearing products and Tamil learning tools to reusable dining mats for screen-free mealtimes and sustainable clothing, four Singapore mums have built businesses inspired by their children and experiences of motherhood – while balancing the demands of work and family.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Greek minister says mystery drone from a 'foreign state'",
       "url": "https://www.dw.com/en/greek-minister-says-mystery-drone-from-a-foreign-state/a-77107116?maca=en-rss-en-world-4025-xml-mrss",
       "source": "DW World (English)",
@@ -206,7 +230,7 @@
       "sources": [],
       "published_at": "2026-05-09T17:09:52+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/m9ze9b/article70960220.ece/alternates/LANDSCAPE_1200/Italy_US_511_8.jpg",
-      "summary": "Senator Marco Rubio defended new United States sanctions against Cuba. The sanctions target GAESA, a conglomerate run by the Cuban military. GAESA was created in the 1990s to counter economic collapse and U. S. sanctions. Established in the 1990s under military control, GAESA was the Cuban Armed Forces' strategic response to the economic collapse that followed the Soviet Union's fall and the tightening of U. S.",
+      "summary": "Senator Marco Rubio defended new United States sanctions against Cuba. The sanctions target GAESA, a conglomerate run by the Cuban military. GAESA was created in the 1990s to counter economic collapse and U. S. sanctions. Established in the 1990s under military control, GAESA was the Cuban Armed Forces' strategic response to the economic collapse that followed the Soviet Union's fall and the tightening of U.",
       "region": "Americas",
       "language": "en",
       "translations": {}
@@ -231,30 +255,6 @@
       "published_at": "2026-05-09T16:32:20+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/u8keui/article70960144.ece/alternates/LANDSCAPE_1200/Lebanon_Israel_Iran_War_64_23.jpg",
       "summary": "Israeli drone strikes near Beirut killed four people. Southern airstrikes resulted in at least 13 additional fatalities. Hezbollah had previously fired explosive drones into Israel, wounding three soldiers. The Israeli military said Hezbollah fired explosive drones into Israel near the border with Lebanon adding that three soldiers were wounded, one of them seriously, in one of the attacks.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Frontier plane kills pedestrian during takeoff, passengers evacuated after engine fire",
-      "url": "https://indianexpress.com/article/world/us-news/frontline-airlines-jet-hits-pedestrian-denver-airport-runway-engine-fire-evacuation-10681528/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-09T15:40:51+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/denver-airport.jpg",
-      "summary": "A Frontier Airlines plane struck and killed a pedestrian during takeoff. The aircraft experienced an engine fire. Passengers were evacuated from the plane following the incident. Frontier plane kills pedestrian during takeoff, passengers evacuated after engine fire.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What is a power nap? Why South Korea held a nap contest amid sleep crisis",
-      "url": "https://indianexpress.com/article/world/what-is-power-nap-south-korea-seoul-nap-contest-sleep-crisis-10681425/",
-      "source": "Indian Express World",
-      "sources": [],
-      "published_at": "2026-05-09T14:52:24+00:00",
-      "image_url": "https://images.indianexpress.com/2026/05/US-7-4.jpg",
-      "summary": "South Korea hosted a nap contest. This event highlighted a national sleep crisis. The contest explored the concept and benefits of power naps. What is a power nap? Why South Korea held a nap contest amid sleep crisis.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -308,60 +308,6 @@
       "translations": {}
     },
     {
-      "title": "पिछले वर्ष से 4.79 फीसदी बढ़कर 83.87% हुआ उत्तीर्ण प्रतिशत, अनमोल ने किया टॉप",
-      "url": "https://www.amarujala.com/education/hpbose-hp-board-10th-result-2026-out-now-check-pass-percentage-and-topper-list-2026-05-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-10T06:26:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/30/laptop-using_26e719e6ed130c9d8733267c8f78ea6d.jpeg?w=750&dpr=1.0",
-      "summary": "हिमाचल प्रदेश स्कूल शिक्षा बोर्ड ने कक्षा 10वीं के नतीजे जारी किए। इस वर्ष 83.87% छात्रों ने परीक्षा उत्तीर्ण की, जो पिछले वर्ष से 4.79% अधिक है। अनमोल ने परीक्षा में टॉप किया। HPBOSE HP Board 10th Result 2026: हिमाचल प्रदेश स्कूल शिक्षा बोर्ड ने कक्षा 10वीं के नतीजे जारी कर दिेए हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पिछले वर्ष से 4.79 फीसदी बढ़कर 83.87% हुआ उत्तीर्ण प्रतिशत, अनमोल ने किया टॉप",
-          "summary": "हिमाचल प्रदेश स्कूल शिक्षा बोर्ड ने कक्षा 10वीं के नतीजे जारी किए। इस वर्ष 83.87% छात्रों ने परीक्षा उत्तीर्ण की, जो पिछले वर्ष से 4.79% अधिक है। अनमोल ने परीक्षा में टॉप किया। HPBOSE HP Board 10th Result 2026: हिमाचल प्रदेश स्कूल शिक्षा बोर्ड ने कक्षा 10वीं के नतीजे जारी कर दिेए हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "699 अंक लाकर कांगड़ा की अनमोल ने किया टॉप, दूसरे नंबर पर तीन संयुक्त टॉपर",
-      "url": "https://www.amarujala.com/live/education/hpbose-class-10th-result-2026-live-himachal-pradesh-hp-board-10th-result-download-link-hpbose-org-2026-05-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-10T06:13:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/10/hpbose-10th-result-2026_e5fc9b32f73ae9a97786e4e7003d05f3.jpeg?w=750&dpr=1.0",
-      "summary": "हिमाचल प्रदेश स्कूल शिक्षा बोर्ड आज कक्षा 10वीं के नतीजे जारी करेगा. रिजल्ट सुबह 11 बजे जारी होगा. रिजल्ट सुबह 11 बजे जारी कर दिया जाएगा। आज 11 बजे जारी होगा एचपी बोर्ड 10वीं का रिजल्ट, सबसे पहले अमर उजाला पर करें चेक। रोल नंबर लेकर रहें तैयार, थोड़ी देर में आएगा रिजल्ट, अमर उजाला पर कर सकेंगे चेक।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "699 अंक लाकर कांगड़ा की अनमोल ने किया टॉप, दूसरे नंबर पर तीन संयुक्त टॉपर",
-          "summary": "हिमाचल प्रदेश स्कूल शिक्षा बोर्ड आज कक्षा 10वीं के नतीजे जारी करेगा. रिजल्ट सुबह 11 बजे जारी होगा. रिजल्ट सुबह 11 बजे जारी कर दिया जाएगा। आज 11 बजे जारी होगा एचपी बोर्ड 10वीं का रिजल्ट, सबसे पहले अमर उजाला पर करें चेक। रोल नंबर लेकर रहें तैयार, थोड़ी देर में आएगा रिजल्ट, अमर उजाला पर कर सकेंगे चेक।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मां बनने का फैसला लेने से पहले खुद से पूछें ये 4 जरूरी सवाल",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/relationship/how-to-handle-pressure-to-become-mother-in-hindi-2026-05-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-10T06:11:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/10/pressure-to-become-a-mother_514292a1ca96076039cb62e020074419.jpeg?w=750&dpr=1.0",
-      "summary": "शादी के बाद मां बनने के दबाव का सामना करने वाली महिलाओं को जल्दबाजी में निर्णय लेने से पहले खुद से चार महत्वपूर्ण सवाल पूछने चाहिए। यह निर्णय व्यक्तिगत और पारिवारिक भविष्य को प्रभावित करता है। Pressure to Become a Mother: अगर आप की शादी को भी समय हो गया है और घरवाले आपपर मां बनने का प्रेशर बना रहे हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मां बनने का फैसला लेने से पहले खुद से पूछें ये 4 जरूरी सवाल",
-          "summary": "शादी के बाद मां बनने के दबाव का सामना करने वाली महिलाओं को जल्दबाजी में निर्णय लेने से पहले खुद से चार महत्वपूर्ण सवाल पूछने चाहिए। यह निर्णय व्यक्तिगत और पारिवारिक भविष्य को प्रभावित करता है। Pressure to Become a Mother: अगर आप की शादी को भी समय हो गया है और घरवाले आपपर मां बनने का प्रेशर बना रहे हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "बीजेपी के उभार से क्षेत्रीय पार्टियों की पहचान की राजनीति पर कैसा असर",
       "url": "https://www.bbc.com/hindi/articles/cdrpgg6zl06o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -380,24 +326,6 @@
       }
     },
     {
-      "title": "15 मई से इन राशि वालों का बढ़ेगा मान-सम्मान, घर-वाहन खरीदने के बनेंगे योग",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/surya-gochar-2026-in-vrisabha-these-zodiac-will-get-success-and-respect-2026-05-08",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-10T05:50:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/08/surya-gochar-2026_4f3e5c0ad00b4773fb98ea8f109ab3dd.jpeg?w=750&dpr=1.0",
-      "summary": "15 मई से सूर्य के राशि परिवर्तन से कुछ राशियों का मान-सम्मान बढ़ेगा। नेतृत्व क्षमता में सुधार होगा और रुके हुए कार्य गति पकड़ेंगे। घर और वाहन खरीदने के योग भी बनेंगे। Surya Gochar 2026: सूर्य के राशि परिवर्तन से कुछ जातकों की नेतृत्व क्षमता बेहतर हो सकती हैं और उनके फैसलों में मजबूती आएगी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "15 मई से इन राशि वालों का बढ़ेगा मान-सम्मान, घर-वाहन खरीदने के बनेंगे योग",
-          "summary": "15 मई से सूर्य के राशि परिवर्तन से कुछ राशियों का मान-सम्मान बढ़ेगा। नेतृत्व क्षमता में सुधार होगा और रुके हुए कार्य गति पकड़ेंगे। घर और वाहन खरीदने के योग भी बनेंगे। Surya Gochar 2026: सूर्य के राशि परिवर्तन से कुछ जातकों की नेतृत्व क्षमता बेहतर हो सकती हैं और उनके फैसलों में मजबूती आएगी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "तमिलनाडु के मुख्यमंत्री बनने के बाद विजय का मोदी सरकार को लेकर रुख़ क्या होगा?",
       "url": "https://www.bbc.com/hindi/articles/cn8pv0g1gvqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -411,24 +339,6 @@
         "hi": {
           "title": "तमिलनाडु के मुख्यमंत्री बनने के बाद विजय का मोदी सरकार को लेकर रुख़ क्या होगा?",
           "summary": "तमिलनाडु के मुख्यमंत्री विजय को केंद्र सरकार की नीतियों पर खुलकर राय रखनी होगी। उनकी गठबंधन सरकार को भाजपा की नीतियों पर भी विचार करना होगा, जो पिछली सरकार के साथ टकराव से अलग है। तमिलनाडु में स्टालिन की सरकार में केंद्र सरकार से टकराव की स्थिति रहती थी.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कुछ दिनों में शनि होंगे वक्री, इन 5 राशि वालों के जीवन में हो सकती हैं उथल-पुथल",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/shani-vakri-2026-impact-on-nation-world-and-horoscope-in-hindi-2026-05-08",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-10T05:48:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/08/shani-vakri-2026_3081792583852342203e1da6089efdc5.jpeg?w=750&dpr=1.0",
-      "summary": "27 जुलाई 2026 को शनि वक्री होंगे और 11 दिसंबर तक 138 दिनों तक उल्टी चाल चलेंगे। इस गोचर का 12 राशियों के जीवन पर प्रभाव पड़ेगा, जिससे कुछ के जीवन में उथल-पुथल आ सकती है। Shani Vakri 2026: शनि 27 जुलाई 2026 को वक्री होने जा रहे हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कुछ दिनों में शनि होंगे वक्री, इन 5 राशि वालों के जीवन में हो सकती हैं उथल-पुथल",
-          "summary": "27 जुलाई 2026 को शनि वक्री होंगे और 11 दिसंबर तक 138 दिनों तक उल्टी चाल चलेंगे। इस गोचर का 12 राशियों के जीवन पर प्रभाव पड़ेगा, जिससे कुछ के जीवन में उथल-पुथल आ सकती है। Shani Vakri 2026: शनि 27 जुलाई 2026 को वक्री होने जा रहे हैं।",
           "region": "दुनिया"
         }
       }
@@ -488,6 +398,42 @@
       }
     },
     {
+      "title": "सास- शादी से पहले मायके से खाना बनाना सीख कर नहीं आ सकती थी? बहू ने दिया गजब का जवाब",
+      "url": "https://www.amarujala.com/photo-gallery/humour/saas-bahu-funny-chutkule-in-hindi-pati-patni-new-jokes-jija-sali-viral-jokes-devar-bhabhi-comedy-jokes-2026-05-10",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-09T20:48:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/12/15/saas-bahu-jokes_acf0ddc0d980078a40554dfad78f5468.jpeg?w=750&dpr=1.0",
+      "summary": "यह सामग्री भू-राजनीति से संबंधित नहीं है। बड़े-बड़े डॉक्टर और एक्सपर्ट्स भी इंसान को थोड़ी देर हंसने का सुझाव देते हैं कि हर इंसान को थोड़ी देर रोज जरूर हंसना चाहिए। ऐसे में हम आपके लिए कुछ धमाकेदार चुटकुले लेकर आए हैं, जिसे पढ़कर आपका मन खुश हो जाएगा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सास- शादी से पहले मायके से खाना बनाना सीख कर नहीं आ सकती थी? बहू ने दिया गजब का जवाब",
+          "summary": "यह सामग्री भू-राजनीति से संबंधित नहीं है। बड़े-बड़े डॉक्टर और एक्सपर्ट्स भी इंसान को थोड़ी देर हंसने का सुझाव देते हैं कि हर इंसान को थोड़ी देर रोज जरूर हंसना चाहिए। ऐसे में हम आपके लिए कुछ धमाकेदार चुटकुले लेकर आए हैं, जिसे पढ़कर आपका मन खुश हो जाएगा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "1977 के बाद जो बंगाल की सत्ता से गया वो दल कभी लौटकर नहीं आया, टीएमसी का क्या होगा?",
+      "url": "https://www.amarujala.com/india-news/west-bengal-assembly-election-results-trinamool-congress-tmc-mamata-banerjee-know-political-history-comeback-2026-05-10",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-09T20:28:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/10/west-bengal-electoral-history-mamata-banerjee-tmc_f9f2d55e5b83e6107a2aaa974744dfbe.jpeg?w=750&dpr=1.0",
+      "summary": "पश्चिम बंगाल में छोटी अवधि की सरकारें और मुख्यमंत्री कम रहे हैं। बंगाल में छोटे या कम अवधि की सरकारें और मुख्यमंत्री दोनों की ही काफी कमी रही है। इसी का नतीजा है कि राज्य में शुभेंदु से पहले तक बंगाल के पूरे इतिहास में सिर्फ आठ मुख्यमंत्री ही रहे हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "1977 के बाद जो बंगाल की सत्ता से गया वो दल कभी लौटकर नहीं आया, टीएमसी का क्या होगा?",
+          "summary": "पश्चिम बंगाल में छोटी अवधि की सरकारें और मुख्यमंत्री कम रहे हैं। बंगाल में छोटे या कम अवधि की सरकारें और मुख्यमंत्री दोनों की ही काफी कमी रही है। इसी का नतीजा है कि राज्य में शुभेंदु से पहले तक बंगाल के पूरे इतिहास में सिर्फ आठ मुख्यमंत्री ही रहे हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "पश्चिम बंगाल के नए मुख्यमंत्री के आगे होंगी ये बड़ी चुनौतियाँ",
       "url": "https://www.bbc.com/hindi/articles/cgmp8p3x988o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -502,24 +448,6 @@
           "title": "पश्चिम बंगाल के नए मुख्यमंत्री के आगे होंगी ये बड़ी चुनौतियाँ",
           "summary": "पश्चिम बंगाल में भारतीय जनता पार्टी की सरकार बनने के बाद भ्रष्टाचार मुक्त शासन देना एक प्रमुख चुनौती है. विपक्षी दल इस मुद्दे पर सरकार पर दबाव बना रहे हैं. पार्टी ने चुनाव पूर्व अपने वादों को पूरा करने का लक्ष्य रखा है. पश्चिम बंगाल में बीजेपी की सरकार बन गई है.",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'उड़न तश्तरी और रहस्यमय घटनाओं' पर अमेरिका ने पहली बार ख़ुफ़िया दस्तावेज़ किए जारी",
-      "url": "https://www.bbc.com/hindi/articles/cgqpvd181jno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-09T15:57:42+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40cc/live/6366b2a0-4bb3-11f1-a339-0992e1239801.jpg",
-      "summary": "अमेरिकी रक्षा विभाग ने कई वर्षों से चले आ रहे उड़न तश्तरी और रहस्यमय घटनाओं से संबंधित खुफिया दस्तावेज जारी किए हैं. ये दस्तावेज अंतरिक्ष में देखी गई अज्ञात वस्तुओं के दावों से जुड़े हैं. अंतरिक्ष के बारे में सालों से कई तरह के दावे किए जाते रहे हैं.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'उड़न तश्तरी और रहस्यमय घटनाओं' पर अमेरिका ने पहली बार ख़ुफ़िया दस्तावेज़ किए जारी",
-          "summary": "अमेरिकी रक्षा विभाग ने कई वर्षों से चले आ रहे उड़न तश्तरी और रहस्यमय घटनाओं से संबंधित खुफिया दस्तावेज जारी किए हैं. ये दस्तावेज अंतरिक्ष में देखी गई अज्ञात वस्तुओं के दावों से जुड़े हैं. अंतरिक्ष के बारे में सालों से कई तरह के दावे किए जाते रहे हैं.",
-          "region": "अमेरिका"
         }
       }
     }
