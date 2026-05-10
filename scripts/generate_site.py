@@ -1015,8 +1015,9 @@ def render_card(art: dict, featured: bool = False, language: str = "en") -> str:
     safe_img = html.escape(effective_image)
     img_alt = html.escape(raw_title or "Story image")
     region_js_attr = html.escape(json.dumps(region_key), quote=True)
+    loading_attrs = 'loading="eager" fetchpriority="high"' if featured else 'loading="lazy"'
     img_html = (
-        f'<img class="card-img" src="{safe_img}" alt="{img_alt}" loading="lazy" '
+        f'<img class="card-img" src="{safe_img}" alt="{img_alt}" {loading_attrs} '
         f'onerror="gpPH(this,{region_js_attr})">'
     )
 
@@ -1270,7 +1271,7 @@ def build_html(
     alt_locale = "hi_IN" if language == "en" else "en_US"
     hreflang_self = "en" if language == "en" else "hi"
     hreflang_alt = "hi" if language == "en" else "en"
-    og_image_url = f"{SITE_URL}/logo.svg"
+    og_image_url = f"{SITE_URL}/icon-512.png"
     structured_data = {
       "@context": "https://schema.org",
       "@graph": [
@@ -1364,10 +1365,12 @@ def build_html(
   <meta property="og:locale:alternate" content="{alt_locale}" />
   <meta property="og:image" content="{og_image_url}" />
   <meta property="og:image:alt" content="{SITE_TITLE} logo" />
+  <meta property="og:image:width" content="512" />
+  <meta property="og:image:height" content="512" />
   <meta name="twitter:title" content="{copy['page_title']}" />
   <meta name="twitter:description" content="{copy['site_desc']}" />
   <meta name="twitter:image" content="{og_image_url}" />
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests" />
   <link rel="canonical" href="{page_url}" />
@@ -1477,11 +1480,11 @@ def build_html(
 
   <!-- ── Footer ─────────────────────────────────────────────────── -->
   <footer class="app-footer">
-    <p class="footer-nav" aria-label="Site sections">
+    <nav class="footer-nav" aria-label="Site sections">
       <a class="footer-nav-link" href="{about_path}">{copy['footer_about_label']}</a>
       <span class="footer-nav-sep" aria-hidden="true">·</span>
       <a class="footer-nav-link" href="{archive_path}">{copy['footer_archive_label']}</a>
-    </p>
+    </nav>
     <p class="footer-credit">© {footer_year} {footer_editor} · <a href="{BRAND['editor_website']}" target="_blank" rel="noopener">{_EDITOR_WEBSITE_DISPLAY}</a> · <a class="footer-rss" href="{SITE_URL}/feed.xml" target="_blank" rel="noopener noreferrer">RSS</a></p>
     <p class="footer-social-links" aria-label="Social links">{_FOOTER_SOCIAL_HTML}
     </p>
@@ -2115,11 +2118,11 @@ _SECTION_PAGE_SKELETON = """<!DOCTYPE html>
     {body_html}
   </main>
   <footer class="app-footer">
-    <p class="footer-nav" aria-label="Site sections">
+    <nav class="footer-nav" aria-label="Site sections">
       <a class="footer-nav-link" href="{about_path}">{footer_about_label}</a>
       <span class="footer-nav-sep" aria-hidden="true">·</span>
       <a class="footer-nav-link" href="{archive_path}">{footer_archive_label}</a>
-    </p>
+    </nav>
     <p class="footer-credit">© {footer_year} {footer_editor} · <a href="{editor_website}" target="_blank" rel="noopener">{editor_website_display}</a> · <a class="footer-rss" href="{site_url}/feed.xml" target="_blank" rel="noopener noreferrer">RSS</a></p>
     <p class="footer-social-links" aria-label="Social links">{footer_social_html}
     </p>
