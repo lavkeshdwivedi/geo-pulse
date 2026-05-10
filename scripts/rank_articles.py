@@ -195,17 +195,34 @@ def main():
     # Keep the article if it has no description at all — summarize.py falls
     # back to the title, which is at least a complete sentence.
     MIN_DESC_WORDS = 30
+
+    def _normalise(text: str) -> str:
+        """Lowercase, collapse whitespace, strip punctuation for comparison."""
+        import re
+        return re.sub(r"[^\w\s]", "", text.lower()).split()
+
     def _has_enough_content(a: dict) -> bool:
         desc = (a.get("description") or "").strip()
         if not desc:
             return True   # no description → let summarize.py handle it
-        return len(desc.split()) >= MIN_DESC_WORDS
+        if len(desc.split()) < MIN_DESC_WORDS:
+            return False
+        # Skip when description is just a restatement of the title — the
+        # summariser would produce nothing beyond what the card title says.
+        title_words = _normalise(a.get("title") or "")
+        desc_words  = _normalise(desc)
+        if title_words and len(title_words) >= 4:
+            title_set = set(title_words)
+            overlap = sum(1 for w in desc_words if w in title_set)
+            if overlap / len(title_words) >= 0.85:
+                return False
+        return True
 
     before = len(articles)
     articles = [a for a in articles if _has_enough_content(a)]
     dropped = before - len(articles)
     if dropped:
-        log.info("Dropped %d thin-description articles (< %d words)", dropped, MIN_DESC_WORDS)
+        log.info("Dropped %d thin/duplicate-title articles", dropped)
 
     en_pool = [a for a in articles if a.get("language", "en") != "hi"]
     hi_pool = [a for a in articles if a.get("language") == "hi"]
