@@ -380,24 +380,18 @@ def archive_newsletter_variant(cfg: dict, display_tz, source_md: str, archive_di
 
   archives.sort(key=lambda x: x["filename"], reverse=True)
 
+  # The deployed site only routes through the rendered per-edition pages
+  # under site_archive_dir/<edition_id>/index.html — nothing links to a raw
+  # .md, so copying every archived markdown into site_archive_dir was just
+  # doubling the deploy size with no consumer. Keep the cleanup pass so any
+  # leftovers from the old behaviour get swept on the next run.
   for old in glob.glob(os.path.join(site_archive_dir, "????-??-??-??.md")):
     try:
       os.remove(old)
     except OSError:
       continue
 
-  published_archives: list[dict] = []
-  for a in archives:
-    src = os.path.join(archive_dir, a["filename"])
-    dst = os.path.join(site_archive_dir, a["filename"])
-    try:
-      shutil.copy2(src, dst)
-      if os.path.exists(dst):
-        published_archives.append(a)
-    except OSError as exc:
-      log.warning("Failed to publish archive %s: %s", a["filename"], exc)
-
-  return published_archives
+  return archives
 
 
 def archive_newsletter(cfg: dict, display_tz, language: str = "en") -> list[dict]:
