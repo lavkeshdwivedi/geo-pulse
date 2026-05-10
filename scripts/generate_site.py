@@ -2658,9 +2658,9 @@ def main() -> None:
     # Sort newest-first so the latest stories always appear at the top.
     articles.sort(key=lambda a: a.get("published_at", ""), reverse=True)
 
-    # Per-edition cap. Config sets max_articles to 20, but we enforce the
-    # same ceiling here so the site never drifts out of sync with summarize.py.
-    per_edition_cap = int(cfg.get("max_articles", 20) or 20)
+    # Per-edition cap mirrors config.yml max_articles so the site never drifts
+    # out of sync with summarize.py.
+    per_edition_cap = int(cfg.get("max_articles", 25) or 25)
 
     def _title_of(a: dict, lang: str) -> str:
         if lang == "hi":

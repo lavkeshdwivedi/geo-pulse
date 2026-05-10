@@ -73,11 +73,11 @@ llm_provider: "groq"
 # gemini best free options: gemini-2.0-flash-lite (fastest/free), gemini-1.5-flash (higher quality)
 llm_model: "llama-3.1-8b-instant"
 
-# Maximum number of stories published per language per run. 21 gives us one
-# featured lead plus a 20-card grid, which lines up cleanly on common column
-# counts so the last row never looks lopsided. Per-edition cap is also
-# enforced in generate_site.py.
-max_articles: 21
+# Maximum number of stories published per language per run. 25 gives us one
+# featured lead plus a 24-card grid, which lines up cleanly on common column
+# counts (2, 3, 4, 6, 8) so the last row never looks lopsided. Per-edition
+# cap is also enforced in generate_site.py.
+max_articles: 25
 
 # Archive pruning is disabled — every hourly edition is kept forever. Archive
 # markdown at /newsletters/ remains indexed by search engines even though the
