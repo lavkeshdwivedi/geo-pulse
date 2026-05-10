@@ -999,7 +999,6 @@ def render_card(art: dict, featured: bool = False, language: str = "en") -> str:
     safe_url_raw = _safe_external_url(art.get("url", ""))
     url          = html.escape(safe_url_raw or "")
     region    = html.escape(art.get("region", "World"))
-    source    = html.escape(re.sub(r"\s*\(.*?\)\s*$", "", art.get("source", "")).strip())
     pub       = art.get("published_at", "")
     ago       = time_ago(pub, language)
     image_url = _safe_external_url(_upgrade_image_url(art.get("image_url", "")))
@@ -1067,7 +1066,6 @@ def render_card(art: dict, featured: bool = False, language: str = "en") -> str:
       {featured_kicker}
       {title_html}
       <p class="card-summary">{summary}</p>
-      {"" if not source else f'<div class="card-footer"><div class="card-sources"><span class="card-source-chip">{source}</span></div></div>'}
     </div>
   </article>"""
 
@@ -1132,13 +1130,30 @@ def build_html(
     featured_article = None
     ordered_articles = articles
     if articles:
+        # The lead slot uses the largest type and the widest image, so a
+        # thin-content article looks awkwardly empty up there. Require both
+        # an image and a substantive summary; fall back to image-only, then
+        # to the first article if neither pool has anything.
+        LEAD_MIN_SUMMARY_WORDS = 45
+
+        def _has_image(article: dict) -> bool:
+            return bool(_safe_external_url(_upgrade_image_url(article.get("image_url", ""))))
+
+        def _summary_word_count(article: dict) -> int:
+            return len((article.get("summary") or "").split())
+
         featured_article = next(
             (
                 article for article in articles
-                if _safe_external_url(_upgrade_image_url(article.get("image_url", "")))
+                if _has_image(article) and _summary_word_count(article) >= LEAD_MIN_SUMMARY_WORDS
             ),
-            articles[0],
+            None,
         )
+        if featured_article is None:
+            featured_article = next(
+                (article for article in articles if _has_image(article)),
+                articles[0],
+            )
         ordered_articles = [featured_article] + [
             article for article in articles if article is not featured_article
         ]
