@@ -1,4 +1,11 @@
 repos:
+  # Secret scanning — must run before code quality checks so a leaked key
+  # is caught even if the file also has linting errors.
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.18.4
+    hooks:
+      - id: gitleaks
+
   - repo: local
     hooks:
       - id: ruff-check
