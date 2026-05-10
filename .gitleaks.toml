@@ -1,0 +1,30 @@
+[extend]
+# Use gitleaks' built-in ruleset as the base.
+useDefault = true
+
+[allowlist]
+description = "False-positive suppressions for GeoPulse"
+
+# Generated newsletter archives are public RSS content. Article URLs and
+# body text routinely contain words like "token", "key", "apikey" as query
+# params or in headlines — none of these are credentials.
+paths = [
+    "newsletters/",
+    "site/newsletters/",
+    "newsletter.json",
+    "newsletter.md",
+    "newsletter.hi.md",
+]
+
+# Patterns that look like secrets but are not in this codebase:
+# - os.environ.get("…KEY") calls in Python scripts
+# - secrets.GROQ_API_KEY / secrets.GEMINI_API_KEY references in workflow YAML
+# - User-Agent strings and brand URLs in config.yml
+regexes = [
+    # Python env lookups — not hardcoded values
+    '''os\.environ\.get\(["'][A-Z_]+["']''',
+    # GitHub Actions secrets context
+    '''\$\{\{\s*secrets\.[A-Z_]+\s*\}\}''',
+    # GitHub Actions vars context
+    '''\$\{\{\s*vars\.[A-Z_]+\s*\}\}''',
+]
