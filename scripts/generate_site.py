@@ -1127,6 +1127,17 @@ def build_html(
             })
         articles = localized_articles
 
+    # Defensive floor: the summariser's fallback paths can occasionally produce
+    # a one-sentence summary when the description was thin or post-processing
+    # over-trimmed. Drop those before they hit the grid — the rank filter
+    # catches thin descriptions, but only the rendered `summary` decides what
+    # the reader actually sees, so this is the last gate.
+    MIN_RENDER_SUMMARY_WORDS = 25
+    articles = [
+        article for article in articles
+        if len((article.get("summary") or "").split()) >= MIN_RENDER_SUMMARY_WORDS
+    ]
+
     featured_article = None
     ordered_articles = articles
     if articles:
