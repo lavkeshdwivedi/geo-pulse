@@ -378,12 +378,6 @@ img {
   box-shadow: 0 18px 40px rgba(230, 57, 70, 0.22);
 }
 
-.hero-action-secondary {
-  border-color: var(--border-strong);
-  background: rgba(255, 255, 255, 0.4);
-  color: var(--text);
-}
-
 .hero-meta {
   display: flex;
   flex-wrap: wrap;
@@ -780,12 +774,6 @@ img {
   gap: 1rem;
 }
 
-.no-image-card {
-  background:
-    linear-gradient(145deg, rgba(255, 255, 255, 0.22), transparent 55%),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.42), rgba(255, 255, 255, 0.06)),
-    var(--surface);
-}
 
 .placeholder-card {
   background:
@@ -1155,12 +1143,6 @@ img {
   max-width: 34rem;
 }
 
-/* Keep the local-tz line in the hero panel subtle. */
-.hero-panel-localtz {
-  display: inline-block;
-  margin-left: 0.2rem;
-  color: var(--text-muted);
-}
 
 /* ── Hidden attribute honours itself across all components ──────────── */
 [hidden] { display: none !important; }
@@ -1398,22 +1380,6 @@ html[lang="hi"] .editor-note-body,
   border-bottom-color: currentColor;
   outline: none;
 }
-.sidebar-cta {
-  margin-top: 0.75rem;
-  font-family: var(--font-mono, "JetBrains Mono", ui-monospace, monospace);
-  font-size: 0.82rem;
-}
-.sidebar-link {
-  color: var(--accent, #e63946);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color 0.18s ease;
-}
-.sidebar-link:hover,
-.sidebar-link:focus-visible {
-  border-bottom-color: currentColor;
-  outline: none;
-}
 
 /* Archive listing page ------------------------------------------------ */
 .archive-entry-list {
@@ -1533,11 +1499,6 @@ html[lang="hi"] .editor-note-body,
   background: var(--accent-bg);
   color: var(--accent-dark);
   border-color: var(--accent);
-}
-[data-theme="dark"] .hero-action-secondary {
-  background: rgba(255, 255, 255, 0.06);
-  color: var(--text);
-  border-color: var(--border-strong);
 }
 [data-theme="dark"] .card-source-chip {
   background: rgba(255, 255, 255, 0.05);
