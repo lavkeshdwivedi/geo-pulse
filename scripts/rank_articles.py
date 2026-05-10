@@ -190,11 +190,12 @@ def main():
         return
 
     # Drop articles whose description is too thin to produce a useful summary.
-    # A description under 30 words (roughly one sentence) gives the summariser
-    # almost nothing beyond the title, so the card ends up as a one-liner.
-    # Keep the article if it has no description at all — summarize.py falls
-    # back to the title, which is at least a complete sentence.
-    MIN_DESC_WORDS = 30
+    # The summariser targets 45+ words, so anything under 35 forces it to pad
+    # from the title and the card lands as a one-liner. Articles with no
+    # description at all get dropped too — they used to slip through, but
+    # summarize.py can only echo the title and the result is exactly the
+    # under-content card we want to keep out of the lead slot and the grid.
+    MIN_DESC_WORDS = 35
 
     def _normalise(text: str) -> str:
         """Lowercase, collapse whitespace, strip punctuation for comparison."""
@@ -203,8 +204,6 @@ def main():
 
     def _has_enough_content(a: dict) -> bool:
         desc = (a.get("description") or "").strip()
-        if not desc:
-            return True   # no description → let summarize.py handle it
         if len(desc.split()) < MIN_DESC_WORDS:
             return False
         # Skip when description is just a restatement of the title — the
@@ -214,7 +213,7 @@ def main():
         if title_words and len(title_words) >= 4:
             title_set = set(title_words)
             overlap = sum(1 for w in desc_words if w in title_set)
-            if overlap / len(title_words) >= 0.85:
+            if overlap / len(title_words) >= 0.75:
                 return False
         return True
 

@@ -698,42 +698,6 @@ img {
   font-weight: 500;
 }
 
-.card-footer {
-  display: flex;
-  flex-direction: column;
-  gap: 0.8rem;
-  margin-top: auto;
-  padding-top: 0.65rem;
-  border-top: 1px solid var(--border);
-}
-
-.card-sources {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.card-source-chip {
-  display: inline-flex;
-  align-items: center;
-  min-height: 1.9rem;
-  padding: 0 0.8rem;
-  border-radius: 999px;
-  border: 1px solid var(--border);
-  background: rgba(255, 255, 255, 0.48);
-  color: var(--text-sub);
-  font-size: 0.74rem;
-  font-weight: 700;
-  transition: color 0.18s ease, border-color 0.18s ease, background 0.18s ease;
-}
-
-.card-source-chip:hover {
-  color: var(--accent);
-  border-color: var(--accent);
-  background: var(--accent-bg);
-  text-decoration: none;
-}
-
 .featured-card {
   grid-column: 1 / -1;
   display: grid;
@@ -766,14 +730,6 @@ img {
   -webkit-box-orient: initial;
   overflow: visible;
 }
-
-.featured-card .card-footer {
-  flex-direction: row;
-  align-items: end;
-  justify-content: space-between;
-  gap: 1rem;
-}
-
 
 .placeholder-card {
   background:
@@ -1052,11 +1008,6 @@ img {
     font-size: 1.7rem;
   }
 
-  .featured-card .card-footer {
-    flex-direction: column;
-    align-items: start;
-  }
-
 }
 
 @media (max-width: 420px) {
@@ -1200,7 +1151,6 @@ img {
   .featured-card { grid-template-columns: 1fr; }
   .featured-card .card-title { font-size: 1.55rem; line-clamp: unset; -webkit-line-clamp: unset; }
   .featured-card .card-img-wrap { aspect-ratio: 16 / 10; min-height: 0; }
-  .featured-card .card-footer { flex-direction: column; align-items: flex-start; gap: 0.6rem; }
 
   /* Footer: tidy, not cramped. */
   .app-footer { padding: 1.5rem 1rem 1.9rem; font-size: 0.82rem; }
@@ -1499,11 +1449,6 @@ html[lang="hi"] .editor-note-body,
   background: var(--accent-bg);
   color: var(--accent-dark);
   border-color: var(--accent);
-}
-[data-theme="dark"] .card-source-chip {
-  background: rgba(255, 255, 255, 0.05);
-  color: var(--text);
-  border-color: var(--border);
 }
 [data-theme="dark"] .editor-note {
   background: rgba(255, 255, 255, 0.04);
