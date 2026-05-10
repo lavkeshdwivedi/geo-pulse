@@ -975,7 +975,7 @@ def _apply_card_length_caps(title: str, summary: str, featured: bool, language: 
     if featured:
         summary_words = 110
     else:
-        summary_words = 80
+        summary_words = 100
     summary_cut = _cap_words(summary, summary_words)
     return title.strip(), summary_cut
 
@@ -999,6 +999,7 @@ def render_card(art: dict, featured: bool = False, language: str = "en") -> str:
     safe_url_raw = _safe_external_url(art.get("url", ""))
     url          = html.escape(safe_url_raw or "")
     region    = html.escape(art.get("region", "World"))
+    source    = html.escape(re.sub(r"\s*\(.*?\)\s*$", "", art.get("source", "")).strip())
     pub       = art.get("published_at", "")
     ago       = time_ago(pub, language)
     image_url = _safe_external_url(_upgrade_image_url(art.get("image_url", "")))
@@ -1065,6 +1066,7 @@ def render_card(art: dict, featured: bool = False, language: str = "en") -> str:
       {featured_kicker}
       {title_html}
       <p class="card-summary">{summary}</p>
+      {"" if not source else f'<div class="card-footer"><div class="card-sources"><span class="card-source-chip">{source}</span></div></div>'}
     </div>
   </article>"""
 
