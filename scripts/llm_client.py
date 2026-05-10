@@ -41,11 +41,13 @@ import json
 import logging
 import os
 import random
+import re
 import socket
 import sys
 import time
 import urllib.error
 import urllib.request
+from typing import Any
 
 log = logging.getLogger(__name__)
 
@@ -584,12 +586,16 @@ def llm_complete(
     max_tokens=400,
     temperature=0.25,
     preferred=None,
+    providers=None,
 ):
     """Run a prompt through the free-tier provider chain."""
     start = time.time()
     deadline = start + OVERALL_TIMEOUT_SECONDS
 
     chain = list(_DEFAULT_CHAIN)
+    if providers:
+        wanted = {p.lower() for p in providers}
+        chain = [c for c in chain if c[0] in wanted]
     if preferred:
         chain.sort(key=lambda item: 0 if item[0] == preferred else 1)
 
@@ -617,6 +623,129 @@ def _has_key(provider):
 def any_key_present():
     """Quick check for callers that want to decide the strategy upfront."""
     return any(_has_key(p) for p, _ in _DEFAULT_CHAIN)
+
+
+# ── JSON helpers ─────────────────────────────────────────────────────────────
+
+_JSON_FENCE_RE = re.compile(r"^\s*```(?:json)?\s*\n(.*?)\n```\s*$", re.DOTALL | re.IGNORECASE)
+_TRAILING_COMMA_RE = re.compile(r",(\s*[}\]])")
+
+
+def llm_json(
+    system_prompt: str,
+    user_prompt: str,
+    max_tokens: int = 800,
+    temperature: float = 0.2,
+    providers: list[str] | None = None,
+) -> dict[str, Any]:
+    """Same as llm_complete but parses the first JSON object in the output.
+
+    Tolerant of markdown fences, trailing commas, smart quotes, and
+    unescaped newlines. Raises RuntimeError if every provider fails or
+    no valid JSON can be salvaged.
+    """
+    text = llm_complete(system_prompt, user_prompt, max_tokens=max_tokens,
+                        temperature=temperature, providers=providers)
+    if not text:
+        raise RuntimeError("LLM chain returned no text for JSON request")
+    try:
+        return _parse_llm_json(text)
+    except ValueError as exc:
+        log.info("[LLM] json parse failed (%s), retrying with strict prompt", exc)
+        strict_system = (
+            system_prompt.rstrip()
+            + "\n\nReturn a single valid JSON object only. No prose, no markdown "
+            "fences, no comments. All string values must have newlines escaped "
+            "as \\n and any literal double quote escaped as \\\"."
+        )
+        retry_text = llm_complete(strict_system, user_prompt, max_tokens=max_tokens,
+                                  temperature=min(temperature, 0.3), providers=providers)
+        if not retry_text:
+            raise RuntimeError(f"LLM JSON parse failed and retry returned nothing: {exc}") from exc
+        try:
+            return _parse_llm_json(retry_text)
+        except ValueError as exc2:
+            snippet = (retry_text or text)[:400].replace("\n", "\\n")
+            raise RuntimeError(
+                f"LLM JSON parse failed after retry: {exc2}. First 400 chars: {snippet!r}"
+            ) from exc2
+
+
+def _parse_llm_json(text: str) -> dict[str, Any]:
+    candidates: list[str] = []
+    stripped = text.strip()
+    fence = _JSON_FENCE_RE.match(stripped)
+    if fence:
+        stripped = fence.group(1).strip()
+    candidates.append(stripped)
+    balanced = _extract_balanced_object(stripped)
+    if balanced and balanced != stripped:
+        candidates.append(balanced)
+    last_error: Exception | None = None
+    for candidate in candidates:
+        for attempt in (candidate, _repair_json(candidate)):
+            try:
+                result = json.loads(attempt)
+            except json.JSONDecodeError as exc:
+                last_error = exc
+                continue
+            if isinstance(result, dict):
+                return result
+            last_error = ValueError(f"JSON root was {type(result).__name__}, expected object")
+    raise ValueError(f"Could not parse JSON from LLM output: {last_error}")
+
+
+def _extract_balanced_object(text: str) -> str | None:
+    start = text.find("{")
+    if start == -1:
+        return None
+    depth, in_string, escape = 0, False, False
+    for i in range(start, len(text)):
+        ch = text[i]
+        if in_string:
+            if escape:
+                escape = False
+            elif ch == "\\":
+                escape = True
+            elif ch == '"':
+                in_string = False
+            continue
+        if ch == '"':
+            in_string = True
+        elif ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return text[start: i + 1]
+    return None
+
+
+def _repair_json(text: str) -> str:
+    repaired = (text.replace("“", '"').replace("”", '"')
+                    .replace("‘", "'").replace("’", "'"))
+    out: list[str] = []
+    in_string, escape = False, False
+    for ch in repaired:
+        if in_string:
+            if escape:
+                out.append(ch); escape = False; continue
+            if ch == "\\":
+                out.append(ch); escape = True; continue
+            if ch == '"':
+                out.append(ch); in_string = False; continue
+            if ch == "\n":
+                out.append("\\n"); continue
+            if ch == "\r":
+                out.append("\\r"); continue
+            if ch == "\t":
+                out.append("\\t"); continue
+            out.append(ch)
+        else:
+            if ch == '"':
+                in_string = True
+            out.append(ch)
+    return _TRAILING_COMMA_RE.sub(r"\1", "".join(out))
 
 
 if __name__ == "__main__":

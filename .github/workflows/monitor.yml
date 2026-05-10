@@ -1,0 +1,51 @@
+name: Workflow Monitor (auto-repair)
+
+on:
+  workflow_run:
+    workflows:
+      - "GeoPulse Newsletter"
+    types: [completed]
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  monitor:
+    # Only fire on genuine failures. Blocks self-triggered retries from looping
+    # back in: github-actions[bot] is always the triggering_actor when this
+    # workflow itself calls gh workflow run, so that bot-sourced failure never
+    # reaches this job.
+    if: >
+      github.event.workflow_run.conclusion == 'failure' &&
+      github.event.workflow_run.triggering_actor.login != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_API_KEY_2: ${{ secrets.GROQ_API_KEY_2 }}
+          GROQ_API_KEY_3: ${{ secrets.GROQ_API_KEY_3 }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          FAILING_RUN_ID: ${{ github.event.workflow_run.id }}
+          FAILING_WORKFLOW_NAME: ${{ github.event.workflow_run.name }}
+          FAILING_WORKFLOW_FILE: ${{ github.event.workflow_run.path }}
+        run: python3 scripts/monitor.py
