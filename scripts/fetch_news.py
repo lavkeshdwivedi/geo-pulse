@@ -310,7 +310,11 @@ def _get_with_retry(
 
 
 def _decode_entities(text: str) -> str:
-    """Decode HTML entities, including double-encoded sequences."""
+    """Decode HTML entities (handles double-encoding) and strip any tags
+    that were hiding behind them. Decoding has to come first so half-encoded
+    feeds like `&lt;a href="..."&gt;Headline&lt;/a&gt;` reveal their real tags
+    before the regex strip runs — otherwise the strip is a no-op and the raw
+    `<a href="...">` leaks into the title or summary."""
     if not text:
         return ""
     current = text
@@ -319,6 +323,7 @@ def _decode_entities(text: str) -> str:
         if decoded == current:
             break
         current = decoded
+    current = re.sub(r"<[^>]+>", "", current)
     return re.sub(r"\s+", " ", current).strip()
 
 
