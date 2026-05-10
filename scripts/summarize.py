@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 """
 summarize.py — Reads raw_news.json and writes:
-  - newsletter.json  (structured per-article data with 40-50 word summaries,
-                      capped at 60)
+  - newsletter.json  (structured per-article data with 60-80 word summaries,
+                      capped at 90)
   - newsletter.md    (markdown archive copy)
 
 Each article gets a summary that ends when the story is complete. Target is
-40 to 50 words, hard ceiling is 60. That range delivers a tight two-sentence
-brief that fits the card grid without being truncated by the CSS line-clamp
-on mobile.
+60 to 80 words, hard ceiling is 90. That range delivers a solid three-sentence
+brief that gives each card enough reading content without overwhelming the grid.
 
 LLM providers: see scripts/llm_client.py. The default chain is free-tier
 only, Groq then Gemini, each with a small model pool. Set GROQ_API_KEY or
@@ -527,7 +526,7 @@ def classify_region(article: dict) -> str:
     return "World"
 
 
-def truncate_words(text: str, limit: int = 60) -> str:
+def truncate_words(text: str, limit: int = 90) -> str:
     """Keep whole sentences up to `limit` words. Stop when the story is done.
 
     If the first sentence alone exceeds `limit`, we do NOT hard-cut mid-word.
@@ -651,8 +650,8 @@ def _strip_leading_title(summary: str, title: str) -> str:
 def ensure_summary_constraints(
     summary: str,
     article: dict,
-    min_words: int = 30,
-    max_words: int = 60,
+    min_words: int = 45,
+    max_words: int = 90,
     min_chars: int = 50,
 ) -> str:
     """Keep summaries concise, readable, and distinct from repeated title text."""
@@ -942,11 +941,11 @@ _STORY_RULES_EN = (
     "Write an original news summary in your own words. This is a summary, "
     "not a quote. Do not copy phrases or clauses from the source verbatim. "
     "Rewrite, compress, and lead with the consequence.\n\n"
-    "Length: 40 to 50 words, 60 max. Never exceed 60. Two sentences ideal, "
-    "three max.\n\n"
+    "Length: 60 to 80 words, 90 max. Never exceed 90. Three sentences ideal, "
+    "four max.\n\n"
     "Every sentence must end on a period. Never stop mid-word or mid-clause. "
     "If you are near the word limit, close the current sentence early on a "
-    "period and stop. It is better to finish at 42 words than to run to 60 "
+    "period and stop. It is better to finish at 62 words than to run to 90 "
     "with a dangling clause.\n\n"
     "Lead with the key fact (who, what, where, impact). Do not restate the "
     "title. Use concrete names, places, numbers. If the source is thin, use "
@@ -964,11 +963,11 @@ _STORY_RULES_HI = (
     "अपने शब्दों में मौलिक समाचार सारांश लिखें। यह सारांश है, उद्धरण नहीं। "
     "स्रोत से वाक्य या वाक्यांश हूबहू न उठाएं। दोबारा लिखें, संक्षेप करें, "
     "परिणाम से शुरू करें।\n\n"
-    "लंबाई: 40 से 50 शब्द, अधिकतम 60। 60 से ऊपर कभी नहीं। दो वाक्य आदर्श, "
-    "तीन अधिकतम।\n\n"
+    "लंबाई: 60 से 80 शब्द, अधिकतम 90। 90 से ऊपर कभी नहीं। तीन वाक्य आदर्श, "
+    "चार अधिकतम।\n\n"
     "हर वाक्य पूर्णविराम (।) पर खत्म हो। शब्द या उपवाक्य के बीच कभी न रुकें। "
     "यदि शब्द सीमा के पास हों तो चालू वाक्य पहले बंद करें और वहीं रुकें। "
-    "42 शब्दों पर पूर्ण वाक्य के साथ खत्म होना 60 शब्दों पर अधूरे वाक्य से "
+    "62 शब्दों पर पूर्ण वाक्य के साथ खत्म होना 90 शब्दों पर अधूरे वाक्य से "
     "हमेशा बेहतर है।\n\n"
     "मुख्य तथ्य से शुरू करें (कौन, क्या, कहां, असर)। शीर्षक दोबारा न कहें। "
     "ठोस नाम, जगह, संख्या रखें। स्रोत पतला हो तो शीर्षक और ज्ञात संदर्भ से "
