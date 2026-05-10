@@ -1,68 +1,26 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** May 10, 2026 18:52 IST
+**Updated:** May 10, 2026 20:26 IST
 
 ---
 
-## Europe & Russia
+## Asia-Pacific
 
-### [Martin wins French Grand Prix as Aprilia secure podium lock-out](https://www.channelnewsasia.com/sport/martin-wins-french-grand-prix-aprilia-secure-podium-lock-out-6112071)
-*Channel News Asia* - May 10, 18:26 IST (iso: 2026-05-10T12:56:27+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--cGpN95Kt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-10T125627Z_1_LYNXMPEM4906C_RTROPTP_3_MOTOR-MOTOGP-FRANCE.JPG?itok=k8Rw84lQ -->
+### [15 security officials killed in militant attack in northwest Pakistan](https://www.thehindu.com/news/international/15-security-officials-killed-in-militant-attack-in-northwest-pakistan/article70962458.ece)
+*The Hindu (International)* - May 10, 19:05 IST (iso: 2026-05-10T13:35:54+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/81gkn8/article70962546.ece/alternates/LANDSCAPE_1200/Pakistan_Suicide_Attack_1_748.jpg -->
 
-Martin secured victory at the French Grand Prix. Martin wins French Grand Prix as Aprilia secure podium lock-out.
+Fifteen security officials died in a militant attack in northwest Pakistan The impact of the explosion led to the collapse of the roofs of several houses in the vicinity. The police post building was also razed to the ground, and several security personnel were buried under the rubble.
 
-### [Vladimir Putin suggests Russia’s war on Ukraine ‘coming to an end’](https://indianexpress.com/article/world/putin-says-ukraine-war-coming-to-an-end-victory-day-parade-peace-talks-10682068/)
-*Indian Express World* - May 10, 13:15 IST (iso: 2026-05-10T07:45:48+00:00)
-<!-- image: https://images.indianexpress.com/2026/05/US-2-8.jpg -->
+### [Non-binary Indian migrant elected member of Scottish Parliament](https://www.thehindu.com/news/international/non-binary-indian-migrant-elected-member-of-scottish-parliament/article70962137.ece)
+*The Hindu (International)* - May 10, 16:58 IST (iso: 2026-05-10T11:28:51+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/zbs4zx/article70962154.ece/alternates/LANDSCAPE_1200/Dr%20Q%20Manivannan.jpg -->
 
-Vladimir Putin suggested Russia’s war in Ukraine is coming to an end. Vladimir Putin suggests Russia’s war on Ukraine ‘coming to an end’.
-
-### [How a rare bird search turned a Dutch birdwatcher into ‘patient zero’ of a deadly cruise outbreak](https://indianexpress.com/article/world/dutch-birdwatcher-patient-zero-hantavirus-cruise-mv-hondius-ushuaia-landfill-10681812/)
-*Indian Express World* - May 10, 12:25 IST (iso: 2026-05-10T06:55:19+00:00)
-<!-- image: https://images.indianexpress.com/2026/05/US-19.jpg -->
-
-A Dutch birdwatcher became patient zero in a deadly cruise outbreak. How a rare bird search turned a Dutch birdwatcher into ‘patient zero’ of a deadly cruise outbreak.
-
-### [Evacuation of hantavirus-hit ship begins in Canary Islands](https://www.channelnewsasia.com/world/hantavirus-cruise-ship-evacuations-begin-spains-canary-islands-6111876)
-*Channel News Asia* - May 10, 11:24 IST (iso: 2026-05-10T05:54:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--5iyC-iiU--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-10T085651Z_2_LYNXMPEM49030_RTROPTP_3_CRUISESHIP-HANTAVIRUS-TENERIFE.JPG?itok=1ezvX9Xt -->
-
-Spanish Health Minister Monica Garcia confirmed the evacuation of a hantavirus- The final flight to evacuate most of the ship's nearly 150 passengers and crew will leave for Australia on Monday (May 11), before the ship continues to the Netherlands, Spanish Health Minister Monica Garcia said.
-
-### [Indian-origin trans candidate without permanent UK visa elected to Scottish Parliament](https://indianexpress.com/article/world/q-manivannan-indian-origin-trans-candidate-scottish-parliament-visa-controversy-10681871/)
-*Indian Express World* - May 10, 11:14 IST (iso: 2026-05-10T05:44:34+00:00)
-<!-- image: https://images.indianexpress.com/2026/05/US-1-9.jpg -->
-
-An Indian-origin trans candidate was elected to the Scottish Parliament. Indian-origin trans candidate without permanent UK visa elected to Scottish Parliament.
-
-### [Sabalenka exits Rome with injury concern ahead of French Open](https://www.channelnewsasia.com/sport/sabalenka-exits-rome-injury-concern-ahead-french-open-6111826)
-*Channel News Asia* - May 10, 10:12 IST (iso: 2026-05-10T04:42:10+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s---Ai0SkJu--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-10T044210Z_1_LYNXMPEM4901T_RTROPTP_3_TENNIS-ROME.JPG?itok=zqOJbQ0C -->
-
-Aryna Sabalenka exited the Rome tournament early due to an Sabalenka exits Rome with injury concern ahead of French Open.
-
-### [Who is Péter Magyar, the man who ended Viktor Orbán’s 16-year rule in Hungary](https://indianexpress.com/article/world/who-is-peter-magyar-hungary-prime-minister-viktor-orban-defeat-tisza-party-10681745/)
-*Indian Express World* - May 10, 08:07 IST (iso: 2026-05-10T02:37:34+00:00)
-<!-- image: https://images.indianexpress.com/2026/05/US-13.jpg -->
-
-Péter Magyar has emerged as a significant political figure in Hungary. He is credited with challenging and potentially ending Viktor Orbán's 16-year tenure as prime minister. Magyar's rise signals a notable shift in Hungarian politics. Who is Péter Magyar, the man who ended Viktor Orbán’s 16-year rule in Hungary.
+Manivannan, a non-binary Indian migrant, was “As a queer Tamil immigrant, I am standing to be an MSP to bring a politics of care and compassion to Holyrood, to fight for the radical change our working-class and marginalised communities need," says Manivannan in his poll pitch for the Scottish Greens.
 
 ---
 
 ## Americas
-
-### [Explosion at coal mine in Colombia, at least four trapped](https://www.thehindu.com/news/international/several-trapped-rescue-explosion-at-coal-mine-in-colombia-updates/article70962356.ece)
-*The Hindu (International)* - May 10, 18:20 IST (iso: 2026-05-10T12:50:22+00:00)
-<!-- image: https://www.thehindu.com/theme/images/og-image.png -->
-
-An explosion occurred at the Las Quintas coal mine in Pueblo Viejo, Colombia on Saturday afternoon. Four miners are trapped underground. The incident took place in the municipality of Cucunuba. The explosion happened on Saturday (May 9) afternoon at the Las Quintas mine in Pueblo Viejo, a village in Cucunuba municipality, said Jorge Emilio Rey, governor of the department of Cundinamarca.
-
-### [After Capturing Maduro, Trump Celebrated Victory. Did It Bring Venezuelans Home?](https://www.nytimes.com/2026/05/10/world/americas/venezuela-maduro-trump-migration.html)
-*NYT World* - May 10, 18:05 IST (iso: 2026-05-10T12:35:46+00:00)
-<!-- image: https://static01.nyt.com/images/2026/05/10/world/10int-Venez-Grid/10int-Venez-Grid-mediumSquareAt3X.jpg -->
-
-Venezuela's dire conditions led to a large exodus. Dire conditions in Venezuela prompted an exodus. In the wake of the attack that ousted its top leader, the question is whether things have changed enough to make a return appealing. After Capturing Maduro, Trump Celebrated Victory.
 
 ### [Film paints vision of a post-coup Brazil giving up rainforest](https://www.theguardian.com/world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest)
 *The Guardian* - May 10, 17:30 IST (iso: 2026-05-10T12:00:25+00:00)
@@ -78,99 +36,63 @@ Argentina is under scrutiny for hantavirus after authorities began tracing passe
 
 ---
 
-## Asia-Pacific
+## Europe & Russia
 
-### [Bangladesh’s HC rejects detained Hindu monk’s bail petition](https://www.thehindu.com/news/international/bangladeshs-hc-rejects-detained-hindu-monks-bail-petition/article70962198.ece)
-*The Hindu (International)* - May 10, 18:09 IST (iso: 2026-05-10T12:39:14+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/9dlb4/article70962220.ece/alternates/LANDSCAPE_1200/2024-11-26T122835Z_47992185_RC2SCBAP88GF_RTRMADP_3_BANGLADESH-PROTESTS.JPG -->
+### [Evacuation of hantavirus-hit ship begins in Canary Islands](https://www.channelnewsasia.com/world/hantavirus-cruise-ship-evacuations-begin-spains-canary-islands-6111876)
+*Channel News Asia* - May 10, 11:24 IST (iso: 2026-05-10T05:54:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--5iyC-iiU--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-10T085651Z_2_LYNXMPEM49030_RTROPTP_3_CRUISESHIP-HANTAVIRUS-TENERIFE.JPG?itok=1ezvX9Xt -->
 
-The High Court of Bangladesh denied bail to a detained Hindu monk. He is accused in the 2021 murder of a lawyer in Chattogram. The Divisional Speedy Trial Tribunal indicted the former ISKCON leader and 38 others on January 19. A trial has commenced against him.
+Spanish Health Minister Monica Garcia confirmed the evacuation of a hantavirus- The final flight to evacuate most of the ship's nearly 150 passengers and crew will leave for Australia on Monday (May 11), before the ship continues to the Netherlands, Spanish Health Minister Monica Garcia said.
 
-### [//news.sky.com/video/us-v-china-who-is-the-worlds-tech-superpower-13541958">US v China: The Trump](https://news.sky.com/story/us-v-china-the-trump-mistake-that-threatens-american-tech-supremacy-13542272)
-*Sky News World* - May 10, 17:37 IST (iso: 2026-05-10T12:07:00+00:00)
-<!-- image: https://e3.365dm.com/26/05/1920x1080/skynews-tech-china-us-trump_7243649.jpg?20260509164604 -->
+### [Three evacuated from hantavirus-hit ship as Spain says vessel can dock](https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa)
+*The Guardian* - May 07, 03:21 IST (iso: 2026-05-06T21:51:37+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5115906232c3b186f8cd57561a5bba1e52645d8f/175_0_2198_1758/master/2198.jpg?width=140&quality=85&auto=format&fit=max&s=708faef55ab2a79ba3a7845cb2bf1f57 -->
 
-The United States and China are competing for global technological dominance. This competition spans artificial intelligence, semiconductors, and telecommunications. The outcome will shape future economic and military power balances. //news. sky. com/video/us-v-china-who-is-the-worlds-tech-superpower-13541958">US v China: The Trump.
-
-### [How China’s Leader Lost Faith in His Generals](https://www.nytimes.com/2026/05/09/world/asia/china-military-generals.html)
-*NYT World* - May 10, 17:22 IST (iso: 2026-05-10T11:52:00+00:00)
-<!-- image: https://static01.nyt.com/images/2026/04/29/multimedia/00int-china-xi-military-01-lbcv/00int-china-xi-military-01-lbcv-mediumSquareAt3X.jpg -->
-
-Xi Jinping's efforts to modernize China's military have led to increased distrust of his handpicked generals. He spent 13 years building a force intended to rival that of the United States. As the military's strength grew, so did Xi's suspicion of its leadership. Xi Jinping spent 13 years building a military to rival that of the United States.
-
-### [Non-binary Indian migrant elected member of Scottish Parliament](https://www.thehindu.com/news/international/non-binary-indian-migrant-elected-member-of-scottish-parliament/article70962137.ece)
-*The Hindu (International)* - May 10, 16:58 IST (iso: 2026-05-10T11:28:51+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/zbs4zx/article70962154.ece/alternates/LANDSCAPE_1200/Dr%20Q%20Manivannan.jpg -->
-
-Manivannan, a non-binary Indian migrant, was “As a queer Tamil immigrant, I am standing to be an MSP to bring a politics of care and compassion to Holyrood, to fight for the radical change our working-class and marginalised communities need," says Manivannan in his poll pitch for the Scottish Greens.
-
-### [Indonesian rescuers find hikers' bodies after volcanic eruption](https://www.thehindu.com/news/international/indonesian-rescuers-find-hikers-bodies-after-volcanic-eruption/article70962096.ece)
-*The Hindu (International)* - May 10, 16:44 IST (iso: 2026-05-10T11:14:34+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/mdol19/article70962105.ece/alternates/LANDSCAPE_1200/Indonesia_Volcano_Hikers_Killed_369_3.jpg -->
-
-Indonesian rescuers located the bodies of hikers near the site where another Their bodies were found not far from where the remains of an Indonesian hiker had been found a day earlier, says National Disaster Mitigation Agency spokesman Abdul Muhari in a statement. Indonesian rescuers find hikers' bodies after volcanic eruption.
-
-### [Car bombing and shootout kills 14 Pakistani police officers](https://www.channelnewsasia.com/asia/pakistan-car-bomb-attack-shootout-police-killed-6111816)
-*Channel News Asia* - May 10, 13:37 IST (iso: 2026-05-10T08:07:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--AAqznfGR--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Pakistan_Suicide_Attack_911_.jpg?itok=fOWdFNz_ -->
-
-A car bombing and subsequent shootout killed 14 Pakistani police officers. Car bombing and shootout kills 14 Pakistani police officers.
-
-### [South Korea welcomes rare baby bump as population shrinks](https://www.channelnewsasia.com/east-asia/south-korea-rare-baby-bump-population-shrinks-6111811)
-*Channel News Asia* - May 10, 10:10 IST (iso: 2026-05-10T04:40:01+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--9YMGZg5i--/c_crop,h_1124,w_1999,x_1,y_77/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/10/000_a9xm9t3_mod.jpg?itok=F6ZG0fVI -->
-
-South Korea registered a rare increase in its birth rate. South Korea welcomes rare baby bump as population shrinks.
-
-### [Bodies of two killed Singaporean hikers evacuated as rescue operation ends](https://www.channelnewsasia.com/asia/indonesia-mount-dukono-singaporeans-dead-search-rescue-investigation-6111696)
-*Channel News Asia* - May 10, 09:24 IST (iso: 2026-05-10T03:54:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--okWYFkXu--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/10/dsc_0368.jpg?itok=ISLyicvZ -->
-
-Singaporean authorities confirmed the evacuation of the last two bodies of hikers killed in an Indonesian volcano eruption. The rescue operation faced challenges due to the victims being buried under thick volcanic debris. The operation has now concluded. The evacuation process of the last two bodies had encountered obstacles due to the victims' position "being buried under volcanic materials of significant thickness and depth", according to the authorities.
+Spain allowed the MV Hondius cruise ship to dock after three people British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary IslandsExplainer: What is hantavirus? Three people with suspected hantavirus have been medically evacuated from a cruise ship. They include a British man who was an expedition guide onboard the ship, the MV Hondius.
 
 ---
 
 ## Middle East & Africa
 
-### [Hantavirus cruise ship crisis: What we know so far as MV Hondius evacuations gather pace](https://indianexpress.com/article/world/hantavirus-outbreak-mv-hondius-cruise-ship-evacuation-tenerife-deaths-explained-10682045/)
-*Indian Express World* - May 10, 16:52 IST (iso: 2026-05-10T11:22:33+00:00)
-<!-- image: https://images.indianexpress.com/2026/05/MV-Hondius-1.jpg -->
+### [‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere](https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media)
+*The Guardian* - May 09, 18:30 IST (iso: 2026-05-09T13:00:57+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=140&quality=85&auto=format&fit=max&s=3d70a65ae48caabd14de7d15d1f9ca7d -->
 
-A Hantavirus crisis is unfolding aboard the MV Hondius cruise ship Hantavirus cruise ship crisis: What we know so far as MV Hondius evacuations gather pace.
+Amahle-Imvelo Jaxa posted a TikTok video explaining a dispute between the South African and Rwandan presidents. She detailed the roles of various South African groups in a conflict. Jaxa's content focuses on current affairs for a South African audience. Africa is leading a change in news consumption habits – and transforming the lives of current affairs enthusiastsLast year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo.
 
-### [Israeli strikes in Gaza kill three, medics say, testing fragile ceasefire](https://www.thehindu.com/news/international/israeli-strikes-in-gaza-kill-three-medics-say-testing-fragile-ceasefire/article70961991.ece)
-*The Hindu (International)* - May 10, 15:42 IST (iso: 2026-05-10T10:12:57+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/maqmt8/article70962004.ece/alternates/LANDSCAPE_1200/2026-05-10T092834Z_301244681_RC286LA62VNK_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG -->
+### [Guardian reporter and colleagues detained and beaten by Somali police](https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police)
+*The Guardian* - May 09, 17:57 IST (iso: 2026-05-09T12:27:59+00:00)
+<!-- image: https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=c5604bd094625c43a7c8ea25bff35fc6 -->
 
-Israeli air strikes killed three people in the Gaza Strip. Medics said an air strike ‌killed one person in the Maghazi refugee camp in ‌the Gaza Strip, while ‌another ⁠killed the head of the ⁠criminal police force in Khan Younis, Wessam Abdel-Hadi, and his aide, according to ​Gaza’s Hamas-run ‌Interior Ministry.
+Guardian reporter Mohamed Bulbul was detained and beaten by Somali police in Mogadishu. He was arrested with two colleagues, Abdihafid Nor Barre and Abdishakur Mohamed Moh. The arrests followed Bulbul's reporting for the Guardian on the alleged torture of a woman in prison.
 
-### [‘Those 168 in Minab were children too’: Iran targets White House press secretary Karoline Leavitt](https://indianexpress.com/article/world/us-news/iran-karoline-leavitt-newborn-baby-minab-school-10681935/)
-*Indian Express World* - May 10, 11:30 IST (iso: 2026-05-10T06:00:42+00:00)
-<!-- image: https://images.indianexpress.com/2026/05/Karoline-Leavitt-Iran.jpg -->
+### [Frustrated by Iran, Trump at last seizes enriched uranium – but from Venezuela](https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump)
+*The Guardian* - May 08, 23:02 IST (iso: 2026-05-08T17:32:27+00:00)
+<!-- image: https://i.guim.co.uk/img/media/ba80fa731911031bf01ca9edea875a500b972e55/416_0_4165_3332/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=a029aa407695667bfbcea6590ec92dcc -->
 
-Iran targeted White House press secretary Karoline Leavitt. ‘Those 168 in Minab were children too’: Iran targets White House press secretary Karoline Leavitt.
+The US Department of Energy announced 13. US energy department says 13.5kg of uranium taken from reactor in Caracas – a fraction of the 408kg held by TehranDonald Trump has succeeded in removing a country’s stash of highly enriched uranium – although that country is not Iran. On Friday, the US Department of Energy announced that “thanks to President Trump’s decisive leadership” 13.5kg (about 30 pounds) of uranium had been removed from a le.
 
-### [With closure of Strait of Hormuz, Caspian Sea is the alternative route between Russia and Iran](https://indianexpress.com/article/world/strait-of-hormuz-russia-iran-war-caspian-sea-route-10681865/)
-*Indian Express World* - May 10, 10:39 IST (iso: 2026-05-10T05:09:21+00:00)
-<!-- image: https://images.indianexpress.com/2026/05/Iran-War-Strait-of-Hormuz-2.jpg -->
+### [Central African Republic: Funding cuts put humanitarian support at risk](https://news.un.org/feed/view/en/story/2026/05/1167474)
+*UN News* - May 08, 17:30 IST (iso: 2026-05-08T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-05-2026-UNOCHA-CAR-Edem-Wosornu-02.jpg/image560x340cropped.jpg -->
 
-The Caspian Sea offers an alternative trade route between Russia and Iran. With closure of Strait of Hormuz, Caspian Sea is the alternative route between Russia and Iran.
+Funding cuts threaten humanitarian operations in the Central African Republic. The Central African Republic (CAR) is making progress towards stability and security but major aid budget cuts threaten humanitarian operations there, a senior official with the UN aid coordination office OCHA said on Friday in New York.
 
 ---
 
-## World
+## Global / Multilateral
 
-### [UK PM Keir Starmer faces leadership challenge after Labour’s crushing local poll defeat](https://indianexpress.com/article/world/keir-starmer-leadership-threat-labour-local-poll-10681998/)
-*Indian Express World* - May 10, 11:42 IST (iso: 2026-05-10T06:12:11+00:00)
-<!-- image: https://images.indianexpress.com/2026/04/keir-starmer.jpg -->
+### [Revisiting Guy Goma's iconic accidental BBC interview 20 years ago this week](https://www.npr.org/2026/05/09/nx-s1-5814110/revisiting-guy-gomas-iconic-accidental-bbc-interview-20-years-ago-this-week)
+*NPR World* - May 09, 17:13 IST (iso: 2026-05-09T11:43:00+00:00)
+<!-- image: https://images.pexels.com/photos/3587145/pexels-photo-3587145.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-UK Prime Minister Keir Starmer faces a leadership challenge after Labour' UK PM Keir Starmer faces leadership challenge after Labour’s crushing local poll defeat.
+Guy Goma appeared live on BBC News 20 years ago this NPR's Elissa Nadworny talks to Guy Goma who thought he was being interviewed for an IT job at the BBC but instead found himself live on air. His interview 20 years ago became a viral sensation.
 
-### [Rajasthan rue poor bowling as mid-season slump deepens in IPL](https://www.channelnewsasia.com/sport/rajasthan-rue-poor-bowling-mid-season-slump-deepens-in-ipl-6111776)
-*Channel News Asia* - May 10, 09:43 IST (iso: 2026-05-10T04:13:28+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--9gnHEwJZ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-10T041328Z_1_LYNXMPEM49018_RTROPTP_3_CRICKET-IPL-RR-GT.JPG?itok=NSE3J2iD -->
+### [Wider hantavirus outbreak risk is ‘absolutely low’, insists UN health agency](https://news.un.org/feed/view/en/story/2026/05/1167465)
+*UN News* - May 08, 17:30 IST (iso: 2026-05-08T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/03/14670/image560x340cropped.jpg -->
 
-Rajasthan's bowling performance contributed to their deepening mid-season slump in the Indian Premier League. The team's performance has declined in recent matches. Rajasthan rue poor bowling as mid-season slump deepens in IPL.
+The UN World Health Organization stated the hantavirus outbreak risk is absolutely The risk of hantavirus spreading to the general population is “absolutely low”, the UN World Health Organization (WHO) stressed on Friday, as a flight attendant tested negative for the disease after coming into contact with an infected passenger from the cruise ship at the centre of the outbreak, who later died.
 
 ---
 
