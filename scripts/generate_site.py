@@ -1372,7 +1372,7 @@ def build_html(
   <meta name="twitter:image" content="{og_image_url}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests" />
   <link rel="canonical" href="{page_url}" />
   <link rel="alternate" hreflang="{hreflang_self}" href="{page_url}" />
   <link rel="alternate" hreflang="{hreflang_alt}" href="{switch_url}" />
@@ -1668,6 +1668,7 @@ _SECTION_PAGE_SKELETON = """<!DOCTYPE html>
   <meta name="description" content="{page_desc}" />
   <meta name="robots" content="{robots}" />
   <meta name="color-scheme" content="light dark" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests" />
   <link rel="canonical" href="{canonical}" />
   <link rel="alternate" type="application/rss+xml" title="{site_title} RSS" href="{site_url}/feed.xml" />
   <link rel="icon" type="image/svg+xml" href="{asset_prefix}favicon.svg" />
