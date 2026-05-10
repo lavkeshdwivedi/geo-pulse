@@ -1,13 +1,13 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** May 10, 2026 22:29 IST
+**Updated:** May 10, 2026 23:29 IST
 
 ---
 
 ## Asia-Pacific
 
 ### [15 security officials killed in militant attack in northwest Pakistan](https://www.thehindu.com/news/international/15-security-officials-killed-in-militant-attack-in-northwest-pakistan/article70962458.ece)
-*The Hindu (International)* - May 10, 19:05 IST (iso: 2026-05-10T13:35:54+00:00)
+*The Hindu (International)* - May 10, 19:34 IST (iso: 2026-05-10T14:04:33+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/81gkn8/article70962546.ece/alternates/LANDSCAPE_1200/Pakistan_Suicide_Attack_1_748.jpg -->
 
 Fifteen security officials died in a militant attack in northwest Pakistan The impact of the explosion led to the collapse of the roofs of several houses in the vicinity. The police post building was also razed to the ground, and several security personnel were buried under the rubble.
