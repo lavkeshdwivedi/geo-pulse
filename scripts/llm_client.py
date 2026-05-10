@@ -8,9 +8,9 @@ cost/latency order. Inside each provider we walk a sizeable model pool and
 retry transient failures with exponential backoff, so one rate-limited model
 should not kill the whole run.
 
-Provider chain (free tier only):
-  1. Groq      (fastest, generous free tier)        GROQ_API_KEY[_N]
-  2. Gemini    (Google AI Studio free tier)         GEMINI_API_KEY[_N]
+Provider chain (free tier only, best quality first):
+  1. Gemini    (Google AI Studio free tier)         GEMINI_API_KEY[_N]
+  2. Groq      (fastest fallback, generous quota)   GROQ_API_KEY[_N]
 
 Multi-key support. Free tiers enforce per-account rate limits, so adding a
 second account key doubles your effective throughput. Set the primary as
@@ -92,54 +92,46 @@ _dead_models: set[str] = set()
 
 # ── Model pools, fastest / highest daily quota first ────────────────────────
 
-# Groq free tier, ordered so the cheapest and most generous-quota models go
-# first, and reasoning-heavy models last. Reasoning models (gpt-oss, qwen3)
-# tend to emit <think>...</think> or <सोचें>...</सोचें> blocks that leak
-# into the summary. Summarize.py strips them, but it is cheaper and more
-# reliable to try a non-reasoning model first. If you hit a 429 on one we
-# fall through to the next immediately.
-#
-# Models decommissioned on Groq's free tier (confirmed 404/400 in prod
-# logs, April 2026): llama-4-maverick-17b-128e-instruct, kimi-k2-instruct-0905,
-# deepseek-r1-distill-llama-70b. Leaving them in the pool just wastes
-# attempts on every call, so they are removed here.
-_GROQ_MODELS = [
-    # Small, fast, instruction-tuned non-reasoning models first. These
-    # produce clean summaries and never leak <think> blocks.
-    "llama-3.1-8b-instant",
-    "llama-3.3-70b-versatile",
-    "meta-llama/llama-4-scout-17b-16e-instruct",
-    # Reasoning-capable models next. Output may include <think> blocks,
-    # callers sanitise and reasoning_format=hidden is also sent server-side.
-    "qwen/qwen3-32b",
-    "openai/gpt-oss-20b",
-    "openai/gpt-oss-120b",
-]
-# Previously included but confirmed decommissioned in prod logs (April 2026):
-#   gemma2-9b-it, llama-3.2-11b-vision-preview, llama-3.2-90b-vision-preview.
-# Dropped so the pool stops wasting one attempt per run on each.
-
-# Model substrings whose APIs accept the Groq-specific `reasoning_format`
-# field. Setting it to "hidden" asks the backend to strip chain-of-thought
-# before returning the response, which saves both tokens and post-processing.
-# For models that do not recognise the field, we simply do not send it.
-_GROQ_REASONING_MODEL_HINTS = ("deepseek-r1", "gpt-oss", "qwen3")
-
-# Gemini free tier on AI Studio. 2.0-flash-lite has the highest RPD quota,
-# so it leads. 2.5 models are stronger but more rate limited on free tier.
+# Gemini free tier on AI Studio. Best quality first — 2.5-flash leads, then
+# lighter 2.5, then 2.0 variants as speed-oriented fallbacks.
+# reasoning_format is not needed; Gemini does not emit <think> blocks.
 #
 # gemini-1.5-flash and gemini-1.5-flash-8b were deprecated on AI Studio's
 # free tier in early 2026 and now 404. Dropped from the pool.
 _GEMINI_MODELS = [
-    "gemini-2.0-flash-lite",
-    "gemini-2.0-flash",
-    "gemini-2.5-flash-lite",
-    "gemini-2.5-flash",
+    "gemini-2.5-flash",          # best quality, generous free tier
+    "gemini-2.5-flash-lite",     # lighter 2.5, still strong
+    "gemini-2.0-flash",          # solid mid-tier fallback
+    "gemini-2.0-flash-lite",     # fastest, use last
     # Speculative tail. Experimental endpoints that may have free-tier
     # quota on AI Studio. Retired automatically if they 404.
     "gemini-2.0-flash-exp",
     "gemini-exp-1206",
 ]
+
+# Groq free tier. Best quality first — 70b leads, then newer scout, then 8b
+# as fast fallback. Reasoning models (gpt-oss, qwen3) go last because they
+# tend to emit <think>...</think> blocks; reasoning_format=hidden suppresses
+# them server-side but it's still cheaper to avoid those models first.
+#
+# Decommissioned on Groq free tier (confirmed 404/400, April 2026):
+#   llama-4-maverick-17b-128e-instruct, kimi-k2-instruct-0905,
+#   deepseek-r1-distill-llama-70b, gemma2-9b-it,
+#   llama-3.2-11b-vision-preview, llama-3.2-90b-vision-preview.
+_GROQ_MODELS = [
+    "llama-3.3-70b-versatile",                    # highest quality
+    "meta-llama/llama-4-scout-17b-16e-instruct",  # newer, capable
+    "llama-3.1-8b-instant",                        # fast fallback
+    # Reasoning models last — may emit <think> blocks despite hidden mode.
+    "qwen/qwen3-32b",
+    "openai/gpt-oss-20b",
+    "openai/gpt-oss-120b",
+]
+
+# Model substrings whose APIs accept the Groq-specific `reasoning_format`
+# field. Setting it to "hidden" asks the backend to strip chain-of-thought
+# before returning the response, which saves both tokens and post-processing.
+_GROQ_REASONING_MODEL_HINTS = ("deepseek-r1", "gpt-oss", "qwen3")
 
 
 # Shared User-Agent for every outbound HTTP call so providers can identify us
@@ -581,8 +573,8 @@ def _try_gemini(system_prompt, user_prompt, max_tokens, temperature, deadline):
 
 
 _DEFAULT_CHAIN = [
-    ("groq", _try_groq),
     ("gemini", _try_gemini),
+    ("groq", _try_groq),
 ]
 
 

@@ -58,32 +58,26 @@ news_sources:
 news_query: "geopolitics OR diplomacy OR sanctions OR conflict OR NATO OR United Nations OR international relations"
 
 # LLM provider for summarization. Free tier only.
+# Chain tries best-quality provider first and falls back automatically.
 # Options:
-#   groq        — FREE. Llama 3.1 8B Instant via Groq. Needs GROQ_API_KEY secret.
-#                 Get a free key at console.groq.com. 14,400 req/day, 500k tok/day.
-#   gemini      — FREE. Gemini 2.0 Flash Lite via Google AI Studio. Needs GEMINI_API_KEY.
+#   gemini      — FREE. Gemini 2.5 Flash via Google AI Studio. Needs GEMINI_API_KEY.
 #                 Get a free key at aistudio.google.com. 1,500 req/day, 1M tok/day.
-#   huggingface — FREE (anonymous). Mistral-7B-Instruct. Slow but no key needed.
-#                 Add HF_API_KEY secret for better rate limits.
+#   groq        — FREE. Llama 3.3 70B via Groq. Needs GROQ_API_KEY secret.
+#                 Get a free key at console.groq.com. 14,400 req/day, 500k tok/day.
 #   none        — No AI. Falls back to RSS description truncation.
-llm_provider: "groq"
+llm_provider: "gemini"
 
-# LLM model to use (only relevant when llm_provider != "none")
-# groq best free options: llama-3.1-8b-instant (fastest), llama-3.3-70b-versatile (higher quality, 100k tok/day limit)
-# gemini best free options: gemini-2.0-flash-lite (fastest/free), gemini-1.5-flash (higher quality)
-llm_model: "llama-3.1-8b-instant"
+# Primary LLM model (informational — actual model pool is managed in llm_client.py,
+# best quality model is tried first and falls back through the pool on rate limits).
+# gemini best free: gemini-2.5-flash (best), gemini-2.5-flash-lite, gemini-2.0-flash
+# groq best free:   llama-3.3-70b-versatile (best), llama-3.1-8b-instant (fast fallback)
+llm_model: "gemini-2.5-flash"
 
 # Maximum number of stories published per language per run. 25 gives us one
 # featured lead plus a 24-card grid, which lines up cleanly on common column
 # counts (2, 3, 4, 6, 8) so the last row never looks lopsided. Per-edition
 # cap is also enforced in generate_site.py.
 max_articles: 25
-
-# Archive pruning is disabled — every hourly edition is kept forever. Archive
-# markdown at /newsletters/ remains indexed by search engines even though the
-# homepage UI focuses on the latest edition only. Retained for backwards
-# compatibility with older generator versions; the current code ignores it.
-archive_days: 0
 
 # ---------------------------------------------------------------------------
 # English RSS feeds — reliable, English-language sources only.

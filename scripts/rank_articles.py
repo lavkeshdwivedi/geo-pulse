@@ -35,9 +35,9 @@ Falls back gracefully
 
 Tunables (env)
 --------------
-RANKER_KEEP_TOP    int, default 35. How many articles per language to keep.
+RANKER_KEEP_TOP    int, default 30. How many articles per language to keep.
 RANKER_DISABLE     "1" to skip ranking entirely (date sort + trim only)
-RANKER_MAX_INPUT   int, default 80. Cap raw input fed to the LLM per call.
+RANKER_MAX_INPUT   int, default 60. Cap raw input fed to the LLM per call.
 """
 
 import json
@@ -57,8 +57,8 @@ log = logging.getLogger("rank_articles")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INPUT_PATH = os.path.join(ROOT, "raw_news.json")
 
-KEEP_TOP_DEFAULT = int(os.environ.get("RANKER_KEEP_TOP", "35"))
-MAX_INPUT_DEFAULT = int(os.environ.get("RANKER_MAX_INPUT", "80"))
+KEEP_TOP_DEFAULT = int(os.environ.get("RANKER_KEEP_TOP", "30"))
+MAX_INPUT_DEFAULT = int(os.environ.get("RANKER_MAX_INPUT", "60"))
 DISABLED = os.environ.get("RANKER_DISABLE") == "1"
 
 
