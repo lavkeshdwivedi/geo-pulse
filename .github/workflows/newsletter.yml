@@ -45,6 +45,7 @@ jobs:
         uses: astral-sh/setup-uv@v4
         with:
           enable-cache: true
+          cache-dependency-glob: "**/requirements*.txt"
 
       # ── 3. Install dependencies ──────────────────────────────────────────
       - name: Install Python dependencies
