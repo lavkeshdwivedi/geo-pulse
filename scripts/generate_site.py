@@ -576,9 +576,28 @@ def _collapse_repeated_words(text: str) -> str:
     return out
 
 
+# Catches an orphaned anchor URL fragment that some feeds leak into titles or
+# summaries when the leading `<` of an `<a href="...">` tag is already stripped
+# upstream — the URL plus the closing `">` survive. Anchored on `//` (with an
+# optional `http(s):` prefix) and walks to the next `">`, allowing internal
+# whitespace because the LLM occasionally re-spaces the URL when echoing it
+# ("//news. sky. com/..."). Tag-stripping in fetch_news handles the
+# well-formed case; this is for the malformed leftover.
+_ANCHOR_JUNK_RE = re.compile(
+    r'(?:https?:)?/{1,2}[\w./:?&=#%\-\s]+?"\s*>\s*',
+    re.IGNORECASE,
+)
+
+
+def _strip_anchor_junk(text: str) -> str:
+    if not text or '">' not in text:
+        return text
+    return _ANCHOR_JUNK_RE.sub("", text)
+
+
 def _clean_summary_for_display(summary: str, title: str, language: str = "en") -> str:
     """Remove title duplication, normalise punctuation, and guarantee a clean ending."""
-    summary_text = html.unescape(summary or "").strip()
+    summary_text = _strip_anchor_junk(html.unescape(summary or "")).strip()
     title_text = html.unescape(title or "").strip()
     if not summary_text:
         return ""
@@ -982,7 +1001,7 @@ def _apply_card_length_caps(title: str, summary: str, featured: bool, language: 
 
 def render_card(art: dict, featured: bool = False, language: str = "en") -> str:
     copy = SITE_COPY.get(language, SITE_COPY["en"])
-    raw_title = art.get("title", "")
+    raw_title = _strip_anchor_junk(art.get("title", "")).strip()
     raw_summary = art.get("summary", "")
     cleaned_summary = _clean_summary_for_display(raw_summary, raw_title, language=language)
 
@@ -1127,12 +1146,12 @@ def build_html(
             })
         articles = localized_articles
 
-    # Defensive floor: the summariser's fallback paths can occasionally produce
-    # a one-sentence summary when the description was thin or post-processing
-    # over-trimmed. Drop those before they hit the grid — the rank filter
-    # catches thin descriptions, but only the rendered `summary` decides what
-    # the reader actually sees, so this is the last gate.
-    MIN_RENDER_SUMMARY_WORDS = 25
+    # Defensive floor: catch genuinely broken summariser outputs (single-clause
+    # one-liners like "Martin secured victory at the French Grand Prix.") but
+    # leave marginally short cards alone — the rank filter at MIN_DESC_WORDS=35
+    # already does the bulk of the gating, and a 25-word cut here was tossing
+    # eight otherwise-fine articles per edition. 15 is the obvious-failure mark.
+    MIN_RENDER_SUMMARY_WORDS = 15
     articles = [
         article for article in articles
         if len((article.get("summary") or "").split()) >= MIN_RENDER_SUMMARY_WORDS
