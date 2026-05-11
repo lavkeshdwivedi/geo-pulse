@@ -157,8 +157,13 @@ jobs:
               raise SystemExit("article_count is 0; homepage would have no news")
           if '<article class="card"' not in index_html:
               raise SystemExit("No story cards found in EN homepage")
+          # HI homepage can legitimately be empty when the cron run pulled no
+          # Hindi-language articles. EN articles aren't translated to HI by
+          # design (see summarize.py "Intentionally do NOT translate..." block),
+          # so HI supply is bounded by what Hindi feeds return. Warn but don't
+          # fail — letting the EN page deploy is better than blocking everything.
           if '<article class="card"' not in hi_index_html:
-              raise SystemExit("No story cards found in HI homepage")
+              print("WARNING: HI homepage has no cards (no Hindi-language articles this run)")
 
           # Cross-check: every region that appears in newsletter.json HI
           # articles must also appear in site/hi/index.html, and the same
