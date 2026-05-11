@@ -143,6 +143,7 @@ import logging
 import os
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlencode
 
@@ -655,67 +656,81 @@ def ensure_image_url(entry_image: str, article_url: str, title: str = "") -> str
     return fetch_stock_image(title)
 
 
+def _fetch_one_feed(
+    feed_cfg: dict, max_per_feed: int, language: str
+) -> list[dict]:
+    url = feed_cfg["url"]
+    source = _decode_entities(feed_cfg.get("source", url))
+    out: list[dict] = []
+    try:
+        resp = _get_with_retry(url, timeout=15)
+        parsed = feedparser.parse(resp.content)
+        count = 0
+        skipped = 0
+        for entry in parsed.entries:
+            if count >= max_per_feed:
+                break
+            title = truncate_title(_decode_entities(entry.get("title", "")))
+            link = entry.get("link", "")
+            summary = entry.get("summary", entry.get("description", ""))
+            published_at = ""
+            if hasattr(entry, "published_parsed") and entry.published_parsed:
+                try:
+                    dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+                    published_at = dt.isoformat()
+                except Exception:
+                    published_at = entry.get("published", "")
+            else:
+                published_at = entry.get("published", "")
+
+            image_url = _extract_image_url(entry)
+
+            if title and link:
+                if language and not _matches_language(title, language):
+                    skipped += 1
+                    continue
+                if not image_url:
+                    image_url = ensure_image_url("", link, title=title)
+                out.append(
+                    {
+                        "title": title,
+                        "url": link,
+                        "source": source,
+                        "published_at": published_at,
+                        "description": _decode_entities(_strip_html(summary))[:400],
+                        "image_url": image_url,
+                    }
+                )
+                count += 1
+        if skipped:
+            log.info("  %s: %d articles (%d skipped — wrong script)", source, count, skipped)
+        else:
+            log.info("  %s: %d articles", source, count)
+    except Exception as exc:
+        log.warning("RSS feed %s failed: %s", url, exc)
+    return out
+
+
 def fetch_rss(feeds: list[dict], max_per_feed: int = 10, language: str = "") -> list[dict]:
     """Fetch from a list of RSS feed URLs.
 
-    If *language* is "en" or "hi", articles whose title script does not match
-    are silently skipped so English feeds never carry Hindi stories and vice
-    versa.
+    Each feed is processed in its own worker thread. The bottleneck is the
+    per-article og:image scrape inside `_fetch_one_feed`, so running ~12 feeds
+    concurrently turns a multi-minute serial pass into ~one slow-feed worth
+    of wall time.
     """
     log.info("Fetching from %d RSS feeds...", len(feeds))
-    articles = []
-    for feed_cfg in feeds:
-        url = feed_cfg["url"]
-        source = _decode_entities(feed_cfg.get("source", url))
-        try:
-            resp = _get_with_retry(url, timeout=15)
-            parsed = feedparser.parse(resp.content)
-            count = 0
-            skipped = 0
-            for entry in parsed.entries:
-                if count >= max_per_feed:
-                    break
-                title = truncate_title(_decode_entities(entry.get("title", "")))
-                link = entry.get("link", "")
-                summary = entry.get("summary", entry.get("description", ""))
-                published_at = ""
-                if hasattr(entry, "published_parsed") and entry.published_parsed:
-                    try:
-                        dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-                        published_at = dt.isoformat()
-                    except Exception:
-                        published_at = entry.get("published", "")
-                else:
-                    published_at = entry.get("published", "")
-
-                image_url = _extract_image_url(entry)
-
-                if title and link:
-                    if language and not _matches_language(title, language):
-                        skipped += 1
-                        continue
-                    # Backfill missing images. First try og:image on the
-                    # article page, then Pexels/Unsplash stock photos keyed on
-                    # the title so every card has something to show.
-                    if not image_url:
-                        image_url = ensure_image_url("", link, title=title)
-                    articles.append(
-                        {
-                            "title": title,
-                            "url": link,
-                            "source": source,
-                            "published_at": published_at,
-                            "description": _decode_entities(_strip_html(summary))[:400],
-                            "image_url": image_url,
-                        }
-                    )
-                    count += 1
-            if skipped:
-                log.info("  %s: %d articles (%d skipped — wrong script)", source, count, skipped)
-            else:
-                log.info("  %s: %d articles", source, count)
-        except Exception as exc:
-            log.warning("RSS feed %s failed: %s", url, exc)
+    if not feeds:
+        return []
+    workers = min(12, len(feeds))
+    articles: list[dict] = []
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = [
+            pool.submit(_fetch_one_feed, cfg, max_per_feed, language)
+            for cfg in feeds
+        ]
+        for fut in as_completed(futures):
+            articles.extend(fut.result())
     return articles
 
 
