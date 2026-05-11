@@ -116,23 +116,33 @@ english_rss_feeds:
 # ---------------------------------------------------------------------------
 # Hindi RSS feeds — verified working, Hindi-language sources only.
 # Used exclusively for the Hindi newsletter. No translation needed.
+#
+# Health snapshot from cron run 25648935832 (May 11, 2026):
+#   BBC Hindi              15 articles ✓
+#   Amar Ujala National    15 articles ✓
+#   Amar Ujala World       15 articles ✓
+#   Navbharat Times        ~15 (was fallback, promoted)
+#   Live Hindustan         ~15 (was fallback, promoted)
+#   Amar Ujala Breaking    ~15 (was fallback, promoted)
+#   DW Hindi                0 articles ✗ (feed empty for weeks, removed)
+#   Patrika World           0 articles ✗ (feed dead, removed)
+#   Rajasthan Patrika       0 articles ✗ (feed dead, removed)
 # ---------------------------------------------------------------------------
 hindi_rss_feeds:
   - url: "https://www.bbc.com/hindi/index.xml"
     source: "BBC Hindi"
-  - url: "https://rss.dw.com/xml/rss-hi-all"
-    source: "DW Hindi"
   - url: "https://www.amarujala.com/rss/world-news.xml"
     source: "Amar Ujala World"
   - url: "https://www.amarujala.com/rss/national-news.xml"
     source: "Amar Ujala National"
-  - url: "https://www.patrika.com/rss/world-news.xml"
-    source: "Patrika World"
-  - url: "https://www.patrika.com/rss/national-news.xml"
-    source: "Rajasthan Patrika"
+  - url: "https://www.amarujala.com/rss/breaking-news.xml"
+    source: "Amar Ujala Breaking"
+  - url: "https://navbharattimes.indiatimes.com/rss.cms"
+    source: "Navbharat Times"
+  - url: "https://www.livehindustan.com/rss/national.xml"
+    source: "Live Hindustan"
   # ABP Live removed: news.abplive.com/news/india/feed serves English content
   # despite the "Hindi" label in their CMS, so every item gets script-rejected.
-  # The six feeds above plus the fallbacks cover the Hindi set well enough.
 # ---------------------------------------------------------------------------
 # Fallback RSS feeds — only pulled when primary set yields too few articles.
 # Separate per language so English fallbacks never appear in Hindi and vice versa.
@@ -150,13 +160,12 @@ english_fallback_rss_feeds:
   - url: "https://feeds.feedburner.com/ndtvnews-india-news"
     source: "NDTV India"
 
-hindi_fallback_rss_feeds:
-  - url: "https://navbharattimes.indiatimes.com/rss.cms"
-    source: "Navbharat Times"
-  - url: "https://www.livehindustan.com/rss/national.xml"
-    source: "Live Hindustan"
-  - url: "https://www.amarujala.com/rss/breaking-news.xml"
-    source: "Amar Ujala Breaking"
+# Hindi fallback list is currently empty — the three previously-fallback
+# sources (Navbharat Times, Live Hindustan, Amar Ujala Breaking) have been
+# promoted into the primary set since the three dead feeds (DW Hindi,
+# Patrika World, Rajasthan Patrika) were removed. Add candidates here if
+# the primary set goes thin in production.
+hindi_fallback_rss_feeds: []
 
 # ---------------------------------------------------------------------------
 # Google News RSS queries — fetched on every run, no API key required.
