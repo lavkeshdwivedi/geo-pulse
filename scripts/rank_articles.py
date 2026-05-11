@@ -195,7 +195,15 @@ def main():
     # description at all get dropped too — they used to slip through, but
     # summarize.py can only echo the title and the result is exactly the
     # under-content card we want to keep out of the lead slot and the grid.
-    MIN_DESC_WORDS = 35
+    #
+    # Hindi feeds (BBC Hindi, Amar Ujala, Patrika) routinely ship empty or
+    # title-only descriptions even on substantive stories — that's a Hindi RSS
+    # convention, not a thinness signal. Applying the 35-word EN floor to HI
+    # dropped 100% of Hindi articles in production. Use a much looser floor
+    # for HI and trust the LLM summariser + render-time 25-word floor to cull
+    # pure-title-echo cards downstream.
+    MIN_DESC_WORDS_EN = 35
+    MIN_DESC_WORDS_HI = 5
 
     def _normalise(text: str) -> str:
         """Lowercase, collapse whitespace, strip punctuation for comparison."""
@@ -203,9 +211,15 @@ def main():
         return re.sub(r"[^\w\s]", "", text.lower()).split()
 
     def _has_enough_content(a: dict) -> bool:
+        is_hi = a.get("language") == "hi"
+        floor = MIN_DESC_WORDS_HI if is_hi else MIN_DESC_WORDS_EN
         desc = (a.get("description") or "").strip()
-        if len(desc.split()) < MIN_DESC_WORDS:
+        if len(desc.split()) < floor:
             return False
+        # Title-overlap dedupe is meaningful only for EN; HI feeds frequently
+        # repeat the title in the description body and that's not a regression.
+        if is_hi:
+            return True
         # Skip when description is just a restatement of the title — the
         # summariser would produce nothing beyond what the card title says.
         title_words = _normalise(a.get("title") or "")
@@ -217,11 +231,18 @@ def main():
                 return False
         return True
 
-    before = len(articles)
+    def _is_hi(a):
+        return a.get("language") == "hi"
+    before_en = sum(1 for a in articles if not _is_hi(a))
+    before_hi = sum(1 for a in articles if _is_hi(a))
     articles = [a for a in articles if _has_enough_content(a)]
-    dropped = before - len(articles)
-    if dropped:
-        log.info("Dropped %d thin/duplicate-title articles", dropped)
+    after_en = sum(1 for a in articles if not _is_hi(a))
+    after_hi = sum(1 for a in articles if _is_hi(a))
+    log.info(
+        "Thin-content filter: EN %d -> %d (dropped %d), HI %d -> %d (dropped %d)",
+        before_en, after_en, before_en - after_en,
+        before_hi, after_hi, before_hi - after_hi,
+    )
 
     en_pool = [a for a in articles if a.get("language", "en") != "hi"]
     hi_pool = [a for a in articles if a.get("language") == "hi"]
