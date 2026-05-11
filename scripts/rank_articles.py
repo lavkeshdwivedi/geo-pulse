@@ -196,14 +196,16 @@ def main():
     # summarize.py can only echo the title and the result is exactly the
     # under-content card we want to keep out of the lead slot and the grid.
     #
-    # Hindi feeds (BBC Hindi, Amar Ujala, Patrika) routinely ship empty or
-    # title-only descriptions even on substantive stories — that's a Hindi RSS
-    # convention, not a thinness signal. Applying the 35-word EN floor to HI
-    # dropped 100% of Hindi articles in production. Use a much looser floor
-    # for HI and trust the LLM summariser + render-time 25-word floor to cull
-    # pure-title-echo cards downstream.
+    # Hindi feeds (BBC Hindi, Amar Ujala, Navbharat Times) routinely ship
+    # EMPTY <description> tags even on substantive stories. The previous
+    # iteration dropped HI floor to 5 words, but empty-description articles
+    # still failed that gate and HI cards stayed at zero in production. Skip
+    # the rank-time content filter entirely for HI — the LLM summariser will
+    # take the title (plus URL for context) and produce a real summary, and
+    # the render-time 25-word floor in generate_site.py still culls pure
+    # title-echo cards. Net effect: HI articles get a fair shot, junk still
+    # filtered out, just one stage later.
     MIN_DESC_WORDS_EN = 35
-    MIN_DESC_WORDS_HI = 5
 
     def _normalise(text: str) -> str:
         """Lowercase, collapse whitespace, strip punctuation for comparison."""
@@ -211,15 +213,12 @@ def main():
         return re.sub(r"[^\w\s]", "", text.lower()).split()
 
     def _has_enough_content(a: dict) -> bool:
-        is_hi = a.get("language") == "hi"
-        floor = MIN_DESC_WORDS_HI if is_hi else MIN_DESC_WORDS_EN
-        desc = (a.get("description") or "").strip()
-        if len(desc.split()) < floor:
-            return False
-        # Title-overlap dedupe is meaningful only for EN; HI feeds frequently
-        # repeat the title in the description body and that's not a regression.
-        if is_hi:
+        # HI passes the rank-time gate unconditionally; render-floor catches junk.
+        if a.get("language") == "hi":
             return True
+        desc = (a.get("description") or "").strip()
+        if len(desc.split()) < MIN_DESC_WORDS_EN:
+            return False
         # Skip when description is just a restatement of the title — the
         # summariser would produce nothing beyond what the card title says.
         title_words = _normalise(a.get("title") or "")
