@@ -1,12 +1,97 @@
 {
-  "generated_at": "2026-05-11T11:24:18.134615+00:00",
+  "generated_at": "2026-05-11T14:56:18.105339+00:00",
   "article_count": 40,
-  "total_unique_count": 377,
+  "total_unique_count": 375,
   "digest": {
-    "en": "Ukraine's battlefield clashes and disease outbreaks on cruise ships dominate headlines. Meanwhile, extreme weather events are impacting both South Africa and the Americas. Online creators are also reshaping news in Africa.",
-    "hi": "एशिया-प्रशांत में ड्रोन युद्ध रणनीतियों को नया आकार दे रहे हैं। भारत और पाकिस्तान के बीच सैन्य संबंध बदल रहे हैं। यह क्षेत्र में भू-राजनीतिक गतिशीलता को प्रभावित करता है।"
+    "en": "Iran's internal situation and nuclear program dominate headlines. Regional tensions in the Strait of Hormuz also demand attention. These stories highlight ongoing geopolitical friction points.",
+    "hi": "होर्मुज जलडमरूमध्य में तनाव और ईरान-अमेरिका के बीच शांति समझौते की विफलता पर संयुक्त राष्ट्र की चेतावनी प्रमुख है। एशिया-प्रशांत क्षेत्र में, विनेश फोगाट का गोंडा दौरा और उपग्रहों से जलवायु समाधान की खोज भी महत्वपूर्ण है। भारत की 'बिग कैट डिप्लोमेसी' की चर्चा भी चल रही है।"
   },
   "articles": [
+    {
+      "title": "Jailed Iranian Nobel Peace Prize Winner Is Transferred to Tehran Hospital",
+      "url": "https://www.nytimes.com/2026/05/11/world/middleeast/narges-mohammadi-iran-nobel-hospital-tehran.html",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-11T14:13:57+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/05/11/multimedia/11mideast-activist-arch-lpwq/11mideast-activist-arch-lpwq-mediumSquareAt3X.jpg",
+      "summary": "Narges Mohammadi, the jailed Iranian Nobel Peace Prize Narges Mohammadi, a prominent human rights activist who has spent much of her adult life in and out of prison, will undergo treatment in Tehran after collapsing earlier this month, a foundation run by her family said.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "What will happen to Iran's nuclear material?",
+      "url": "https://www.dw.com/en/what-will-happen-to-iran-s-nuclear-material/a-77122353?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
+      "sources": [],
+      "published_at": "2026-05-11T13:02:00+00:00",
+      "image_url": "https://static.dw.com/image/72996945_6.jpg",
+      "summary": "Iran holds over 440 kilograms of enriched uranium, material that Iran is believed to have over 440 kilograms of enriched uranium, which could be turned into weapons-grade nuclear material. Despite Trump's pledge to get the \"nuclear dust,\" Tehran has kept it out of US reach.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Philippine presidential hopeful Sara Duterte impeached for second time",
+      "url": "https://www.theguardian.com/world/2026/may/11/philippine-vice-president-sara-duterte-impeached-ferdinand-marcos-jr-wife",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-11T12:17:53+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/5ab38ae67aa23d300c64092fc7ab4ae91fa4f9cf/539_0_5368_4297/master/5368.jpg?width=140&quality=85&auto=format&fit=max&s=b9a631ea1ab9fa312360b4100dbf973e",
+      "summary": "Philippine Vice-President Sara Duterte was impeached. Vice-president is accused of misusing public funds and threatening the lives of President Marcos Jr and his wifeThe Philippine vice-president, Sara Duterte, has been impeached over allegations she misused public funds, amassed unexplained wealth and threatened the lives of President Ferdinand Marcos Jr and his wife, in a case that could complicate her presidential ambitions. Duterte, the daughter o.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Sharp drop in ‘forever chemicals’ in seabird eggs hailed as win for regulation",
+      "url": "https://www.theguardian.com/environment/2026/may/11/pfas-seabird-eggs-forever-chemicals",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-11T12:00:54+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/447640957b482ce8438c953a29ba9af0b20802d3/410_0_4108_3288/master/4108.jpg?width=140&quality=85&auto=format&fit=max&s=e05a0db8d1e2d68aa19134d6e21f1e5f",
+      "summary": "PFAS levels in northern gannet eggs in Canada' Levels of Pfas in northern gannet eggs in Canada fell up to 74% over 55-year period of studyLevels of some of the most dangerous Pfas compounds have dramatically fallen in Canadian seabird eggs, which the authors of a new peer-reviewed study say illustrates how regulations are effective. Researchers looked at Pfas levels in the eggs of northern gannets in the St Lawrence Seaway basin over a 55-year.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Strait of Hormuz de-escalation is urgent, says UN chief",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167478",
+      "source": "UN News",
+      "sources": [
+        {
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167478",
+          "source": "UN News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83TjhhZ2RZYVFrRldfNVVQZ3B3cm52R0xwSDJ4VElhTk41MEdlZml2ODJ6eEVzem9YdFUxUVh2ZmVLRUVCeU1qdVJ0c052VzFtdW81NEJMVQ?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83TjhhZ2RZYVFrRldfNVVQZ3B3cm52R0xwSDJ4VElhTk41MEdlZml2ODJ6eEVzem9YdFUxUVh2ZmVLRUVCeU1qdVJ0c052VzFtdW81NEJMVQ?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
+      "published_at": "2026-05-11T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-03-2026-NASA-Hormuz-01.jpg/image560x340cropped.jpg",
+      "summary": "The UN Secretary-General called for urgent de-escalation in the Strait As the Strait of Hormuz crisis deepens and tensions between Iran and the United States remain unresolved, oil prices rose again early Monday, prompting the UN Secretary-General to call for a peaceful resolution and warn of the widening fallout across Africa and beyond.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Russia, Ukraine trade blame for continued fighting as U.S.-brokered ceasefire nears its end",
+      "url": "https://www.thehindu.com/news/international/ukraine-reports-russian-attacks-and-battlefield-clashes-despite-ceasefire/article70964916.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-11T11:25:04+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/e13r6f/article70951105.ece/alternates/LANDSCAPE_1200/2026-05-07T091632Z_2077735342_RC274LAR3LN4_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV.JPG",
+      "summary": "Ukraine reported Russian attacks and battlefield clashes. Ukraine and ‌Russia agreed on May 8 to a ​ceasefire from May 9 to May 11 ⁠as part of a U. S.-led push for peace under President Donald Trump to end more than four years ‌of war since Russia’s full-scale invasion in 2022.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
       "url": "https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-world-4025-xml-mrss",
@@ -20,30 +105,6 @@
       "translations": {}
     },
     {
-      "title": "Ukraine reports Russian attacks and battlefield clashes despite ceasefire",
-      "url": "https://www.thehindu.com/news/international/ukraine-reports-russian-attacks-and-battlefield-clashes-despite-ceasefire/article70964916.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-11T09:25:27+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/e13r6f/article70951105.ece/alternates/LANDSCAPE_1200/2026-05-07T091632Z_2077735342_RC274LAR3LN4_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV.JPG",
-      "summary": "Ukraine reported Russian attacks and battlefield clashes. Ukraine and ‌Russia agreed on May 8 to a ​ceasefire from May 9 to May 11 ⁠as part of a U. S.-led push for peace under President Donald Trump to end more than four years ‌of war since Russia’s full-scale invasion in 2022.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hantavirus, Covid, Norovirus, Legionnaires': Why Are Cruise Ships So Prone To Disease Outbreaks?",
-      "url": "https://www.ndtv.com/health/hantavirus-covid-norovirus-legionnaires-why-are-cruise-ships-so-prone-to-disease-outbreaks-11477403#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-11T08:35:02+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/vr3fk0o4_hantavirus-cruise-ship_625x300_10_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Cruise ships are designed environments where many people live, eat, Cruises are sold as floating holidays, but they are also useful for understanding public health. Cruise ships are carefully designed places where many people live, eat, relax and move through the same shared spaces for days at a time.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "US and Mexico brace for heatwave as deadly floods hit South Africa",
       "url": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
       "source": "The Guardian",
@@ -52,42 +113,6 @@
       "image_url": "https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=140&quality=85&auto=format&fit=max&s=d19a9c185d1ded7c39262f1c1baac579",
       "summary": "A heatwave is expected to intensify across the western United States and Mexico this Temperatures soar in California and Arizona, while deluge continues across Western and Northern CapeHeat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well above the seasonal norm.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Pakistan PM announces to celebrate May 10 as ‘Marka-e-Haq Day’ every year",
-      "url": "https://www.thehindu.com/news/international/pakistan-pm-announces-to-celebrate-may-10-as-marka-e-haq-day-every-year/article70964431.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-11T06:26:19+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/q13zqv/article70964453.ece/alternates/LANDSCAPE_1200/2026-03-09T173537Z_1272462960_RC2WEIAEPOLW_RTRMADP_3_IRAN-CRISIS-PAKISTAN-AUSTERITY.JPG",
-      "summary": "Pakistan Prime Minister Shehbaz Sharif announced May 10 Pakistan PM Shehbaz Sharif claimed that Pakistani armed forces gave a \"historic and befitting response\" to the enemy, he said while addressing a ceremony on May 10, 2026, to mark the first anniversary of 'Marka-e-Haq'. Pakistan PM announces to celebrate May 10 as ‘Marka-e-Haq Day’ every year.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Film paints vision of a post-coup Brazil giving up rainforest",
-      "url": "https://www.theguardian.com/world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-10T12:00:25+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/b5132bd78ca48b4ff60b663feef93036d9c88015/591_0_1213_970/master/1213.jpg?width=140&quality=85&auto=format&fit=max&s=d115e7064de6f4e539fa1af2f8ad4717",
-      "summary": "A fictional film depicts Brazil in 2025 following a successful rightwing coup. The plot shows the assassination of the president and the closure of congress. The new government then cedes control of the Amazon rainforest to the United States. The film highlights threats to Indigenous peoples.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Argentina in spotlight over hantavirus as authorities retrace footsteps of ship’s passengers",
-      "url": "https://www.theguardian.com/world/2026/may/10/hantavirus-is-not-easily-spread-but-is-global-heating-upping-our-exposure",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-10T04:00:15+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/a5e0a723827abaa2179cb5da6d07388d553947fe/365_0_4157_3327/master/4157.jpg?width=140&quality=85&auto=format&fit=max&s=c1a5a2eb4ecd8703efa65e4bc970a595",
-      "summary": "Argentina is under scrutiny for hantavirus after authorities began tracing passengers from a Thirty years after first person-to-person transmission was documented in Patagonia, scientists say global heating could increase world’s exposureAn outbreak in rural communities 30 years ago in the Patagonia area of Argentina led scientists, for the first time, to document person-to-person transmission of hantavirus, which until then had been known only to spread through contact with rodents. Nearl.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -176,16 +201,130 @@
       "translations": {}
     },
     {
-      "title": "Hong Kong dissident Nathan Law on China spies in UK: ‘We’re not surprised’",
-      "url": "https://www.theguardian.com/world/2026/may/08/hong-kong-dissident-nathan-law-china-spies-spying-uk",
-      "source": "The Guardian",
+      "title": "कुश्ती महासंघ से तकरार के बीच गोंडा पहुँचीं विनेश फोगाट, बोलीं - 'वे चाहते हैं कि मैं संन्यास ले",
+      "url": "https://www.bbc.com/hindi/articles/cj4pexkyqlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-08T09:00:41+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/623ce535795acec692a6b0aa3ac3242f2d555679/407_0_4020_3216/master/4020.jpg?width=140&quality=85&auto=format&fit=max&s=0f7f3515c09b8569ae146b59e53c42d9",
-      "summary": "Hong Kong dissident Nathan Law stated he was unsurprised by reports of Chinese spies in the UK. The conviction of two men for spying, who had photographed Law, raises serious concerns about their access to sensitive information. Law lives with a bounty from Chinese authorities.",
+      "published_at": "2026-05-11T14:42:07+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35dc/live/5492ba20-4d3a-11f1-bd52-e755d604ece4.jpg",
+      "summary": "विनेश फोगाट ने भारतीय कुश्ती महासंघ पर उन्हें खेल से बाहर करने की कोशिश का आरोप लगाया है। उन्होंने कहा कि महासंघ के अधिकारी चाहते थे कि वह संन्यास ले लें। फोगाट ने कहा कि वह हार नहीं मानेंगी और उनके इरादों को सफल नहीं होने देंगी।",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कुश्ती महासंघ से तकरार के बीच गोंडा पहुँचीं विनेश फोगाट, बोलीं - 'वे चाहते हैं कि मैं संन्यास ले",
+          "summary": "विनेश फोगाट ने भारतीय कुश्ती महासंघ पर उन्हें खेल से बाहर करने की कोशिश का आरोप लगाया है। उन्होंने कहा कि महासंघ के अधिकारी चाहते थे कि वह संन्यास ले लें। फोगाट ने कहा कि वह हार नहीं मानेंगी और उनके इरादों को सफल नहीं होने देंगी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘स्ट्रेट ऑफ़ होर्मुज़’ जलक्षेत्र में पसरी तनातनी तुरन्त दूर करने का आग्रह",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83eWJRVXR2ZW9EcFBwcEhNOGNJTERvVGFPY3VORlMxamM3YkhsX0hEM2ozRTl3N2JVNGpZdy1ka3ZNNVgtMGFFVHRleXJQb2djY3VEUnl0dw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-11T14:27:12+00:00",
+      "image_url": "https://images.pexels.com/photos/28214965/pexels-photo-28214965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस ने होर्मुज जलडमरूमध्य में बढ़ते तनाव पर चिंता व्यक्त की है। उन्होंने सभी पक्षों से तत्काल संयम बरतने और कूटनीतिक समाधान खोजने का आग्रह किया है। गुटेरेस ने क्षेत्र में शांति और स्थिरता बनाए रखने के महत्व पर जोर दिया।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘स्ट्रेट ऑफ़ होर्मुज़’ जलक्षेत्र में पसरी तनातनी तुरन्त दूर करने का आग्रह",
+          "summary": "संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस ने होर्मुज जलडमरूमध्य में बढ़ते तनाव पर चिंता व्यक्त की है। उन्होंने सभी पक्षों से तत्काल संयम बरतने और कूटनीतिक समाधान खोजने का आग्रह किया है। गुटेरेस ने क्षेत्र में शांति और स्थिरता बनाए रखने के महत्व पर जोर दिया।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "ईरान-अमेरिका में शांति समझौते पर नहीं बनी बात तो होर्मुज को लेकर UN टास्क फोर्स ने दी चेतावनी",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkpoSXV4dzZMRnRQNG1lQ2dZRXhaNGtJY3JCZnR2Q3Zzdkp4TWR3d3NZM25EWFl1TnFia3J5S1YzNnpKWHF2cTk2WUtidHJNV0E2U05XbjdzRXdzQWYtQWFrSWhBZzRlZVZVZmJPMGppZUVZVldPZFRNRXZfbXN1b0dvN09LenZuVzVzbFhmQld4cHVrN0swb25GbEV0R1U?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-11T14:22:16+00:00",
+      "image_url": "https://images.pexels.com/photos/4386403/pexels-photo-4386403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र की एक टास्क फोर्स ने होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता बनाए रखने के लिए एक अंतरराष्ट्रीय तंत्र का प्रस्ताव दिया है। यह प्रस्ताव ईरान और संयुक्त राज्य अमेरिका के बीच तनाव के बीच आया है। ईरान ने कहा है कि वह जलडमरूमध्य में किसी भी सैन्य हस्तक्षेप का जवाब देगा। टास्क फोर्स ने दोनों देशों से संयम बरतने का आग्रह किया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान-अमेरिका में शांति समझौते पर नहीं बनी बात तो होर्मुज को लेकर UN टास्क फोर्स ने दी चेतावनी",
+          "summary": "संयुक्त राष्ट्र की एक टास्क फोर्स ने होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता बनाए रखने के लिए एक अंतरराष्ट्रीय तंत्र का प्रस्ताव दिया है। यह प्रस्ताव ईरान और संयुक्त राज्य अमेरिका के बीच तनाव के बीच आया है। ईरान ने कहा है कि वह जलडमरूमध्य में किसी भी सैन्य हस्तक्षेप का जवाब देगा। टास्क फोर्स ने दोनों देशों से संयम बरतने का आग्रह किया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "उपग्रह से धान के खेतों में नज़र आता जलवायु समाधान",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLN3haM1Npclc3T09td05USlQ3WkdlYWhPUzBVdDVDQ3NWNFBod3JGSDlCdGkzVFhFeEhvOGNraXp0WkcxTGdPYTQycW1QQ2o1SG55cThUTQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-11T13:33:29+00:00",
+      "image_url": "https://images.pexels.com/photos/17718729/pexels-photo-17718729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत में, संयुक्त राष्ट्र खाद्य और कृषि संगठन (एफएओ) भारत: उपग्रह से धान के खेतों में नज़र आता जलवायु समाधान Welcome to the United Nations।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उपग्रह से धान के खेतों में नज़र आता जलवायु समाधान",
+          "summary": "भारत में, संयुक्त राष्ट्र खाद्य और कृषि संगठन (एफएओ) भारत: उपग्रह से धान के खेतों में नज़र आता जलवायु समाधान Welcome to the United Nations।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सैन्य उपलब्धियों को कूटनीति के जरिए और मजबूत करने की जरूरत पेजेश्कियन",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXBjVnRvV2hzX0RtUkYxS3I1clYwOTktY0VRcHBjWWZEeUpMUEFfVzI5eTFPOHdqX1ZWVXlud0U0NmJTTFlEN1JNcEh1M0F5ZGxybTBseWNoM0ZlMExOMUtsVnhhOTRITnlVc21yWHEwNmlHQkpCMXVwRXpFSjllekRVN2JoQk1nQVl6WTdCMElZVmJFQnRiaTFuNU5iNW9YTWhHZjNBekdGYXNKZkVsbENETmpVeWs4TEJ3b1B0UQ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-11T13:09:13+00:00",
+      "image_url": "https://images.pexels.com/photos/15519579/pexels-photo-15519579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "पेजेश्कियन ने कहा कि सैन्य उपलब्धियों को सैन्य उपलब्धियों को कूटनीति के जरिए और मजबूत करने की जरूरत पेजेश्कियन bhaskarhindi. com।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सैन्य उपलब्धियों को कूटनीति के जरिए और मजबूत करने की जरूरत पेजेश्कियन",
+          "summary": "पेजेश्कियन ने कहा कि सैन्य उपलब्धियों को सैन्य उपलब्धियों को कूटनीति के जरिए और मजबूत करने की जरूरत पेजेश्कियन bhaskarhindi. com।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी के 'तेल बचाने' की अपील के एक दिन बाद पेट्रोलियम मंत्रालय ने क्या कहा",
+      "url": "https://www.bbc.com/hindi/articles/cm2p62jg21yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-11T12:29:27+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83c8/live/a787b0e0-4d31-11f1-87e0-250b0c741d1e.jpg",
+      "summary": "Prime Minister Narendra Modi appealed to save oil. प्रधानमंत्री नरेंद्र मोदी के बयान के बाद सोमवार को पेट्रोलियम मंत्रालय का बयान आया. केंद्रीय मंत्रियों की एक बैठक भी हुई जिसमें मौजूदा हालात के बारे में जानकारी दी गई. पीएम मोदी के 'तेल बचाने' की अपील के एक दिन बाद पेट्रोलियम मंत्रालय ने क्या कहा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी के 'तेल बचाने' की अपील के एक दिन बाद पेट्रोलियम मंत्रालय ने क्या कहा",
+          "summary": "Prime Minister Narendra Modi appealed to save oil. प्रधानमंत्री नरेंद्र मोदी के बयान के बाद सोमवार को पेट्रोलियम मंत्रालय का बयान आया. केंद्रीय मंत्रियों की एक बैठक भी हुई जिसमें मौजूदा हालात के बारे में जानकारी दी गई. पीएम मोदी के 'तेल बचाने' की अपील के एक दिन बाद पेट्रोलियम मंत्रालय ने क्या कहा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "Big Cat Diplomacy के जरिए विश्व का नेतृत्व करेगा भारत? कभी पांडा डिप्लोमेसी हुआ था पॉपुलर",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnUyRzFPbGItZEZiOE9ITjJQTFgxT2dxRkEtRjBTajU1TnBMZUVOSnpQZGxaQlBLdndBOW9RZWtHQTJCVmI2clJ5d2g0aE95YzlWODI1N2hjODFSWWFUTHBoYk5tN3cwUXJBckRzVjNNLXNCb2VEUTlFUWc0VklNRk1TbXNOdF9ERGJLSUoyaENVZFhxb005UVMtS0tzbmIyVXN2U0ZkY0F2VHZHQjB0NGZxYW_SAboBQVVfeXFMUC1YZjBhelBWNGVPS1lBNHlxUEZqMFgxVEJmVXVWLUI1OVhNelZjczNVVnpPaFZObFMtZ1pkMWhxXzFxeGZfeFJGNnlWcUxDTXd6UGlhTVV1WlRmNEhCeFNUMlJXUWZRTUljTjFEdGlub29VUnI0a0YwbVA1UGpNT3RiQTZ3TmM1QXdrejZVUDN1WHRKTE9nRUNvODV2eHVZUk9peHNod0JiYm8tc0pKckJZOUtDcDkwU2F3?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-11T11:53:39+00:00",
+      "image_url": "https://images.pexels.com/photos/34582686/pexels-photo-34582686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत बिग कैट डिप्लोमेसी के माध्यम से वैश्विक नेतृत्व की संभावना Big Cat Diplomacy के जरिए विश्व का नेतृत्व करेगा भारत? कभी पांडा डिप्लोमेसी हुआ था पॉपुलर Patrika News।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Big Cat Diplomacy के जरिए विश्व का नेतृत्व करेगा भारत? कभी पांडा डिप्लोमेसी हुआ था पॉपुलर",
+          "summary": "भारत बिग कैट डिप्लोमेसी के माध्यम से वैश्विक नेतृत्व की संभावना Big Cat Diplomacy के जरिए विश्व का नेतृत्व करेगा भारत? कभी पांडा डिप्लोमेसी हुआ था पॉपुलर Patrika News।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "जन-जन कूटनीति को व्यापक और आधुनिक कूटनीति के एक प्रमुख स्तंभ के रूप में स्थापित करना।",
@@ -201,6 +340,24 @@
         "hi": {
           "title": "जन-जन कूटनीति को व्यापक और आधुनिक कूटनीति के एक प्रमुख स्तंभ के रूप में स्थापित करना।",
           "summary": "वियतनाम ने जन-जन कूटनीति को आधुनिक कूटनीति का एक महत्वपूर्ण स्तंभ बनाने का लक्ष्य रखा है। यह पहल देशों के बीच संबंधों को मजबूत करने और सांस्कृतिक आदान-प्रदान को बढ़ावा देने पर केंद्रित है। इसका उद्देश्य पारंपरिक कूटनीति से परे जाकर लोगों के बीच सीधे संपर्क स्थापित करना है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत-पाकिस्तान में सैन्य संघर्ष के एक साल बाद चीज़ें कैसे बदलीं और क्या असर हुआ- द लेंस",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15cnZ3Q3QzQVl6WWNneGliRWhveFdkN2NSYTF5M1QyOXZ5dFdJdS14UV84SDYxNzNzYzJ0XzFDQnlBSWhhYTZiSktTY1Z6RG40QXd6Z0RWRlJHZk3SAWBBVV95cUxOOGhzTzZIZXlESG8ya0RXYzBHYlY3XzVybHUwbVVXaFY4Z2xSY0NuZXJQOEpyR01FNzFiZkc0dGRpOVRfMTczbzhsSkEyRGhmcURiN0UzdGJlUTViaHhsMXY?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-11T10:46:21+00:00",
+      "image_url": "https://images.pexels.com/photos/28588983/pexels-photo-28588983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत और पाकिस्तान के बीच सैन्य संघर्ष को एक साल पूरा हो गया है। भारत-पाकिस्तान में सैन्य संघर्ष के एक साल बाद चीज़ें कैसे बदलीं और क्या असर हुआ- द लेंस BBC।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत-पाकिस्तान में सैन्य संघर्ष के एक साल बाद चीज़ें कैसे बदलीं और क्या असर हुआ- द लेंस",
+          "summary": "भारत और पाकिस्तान के बीच सैन्य संघर्ष को एक साल पूरा हो गया है। भारत-पाकिस्तान में सैन्य संघर्ष के एक साल बाद चीज़ें कैसे बदलीं और क्या असर हुआ- द लेंस BBC।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -314,24 +471,6 @@
       }
     },
     {
-      "title": "बलिया का राज सिंह अरेस्ट, चुनाव लड़ चुका है आरोपी; मां बोली- वह अपराधी नहीं",
-      "url": "https://www.amarujala.com/uttar-pradesh/varanasi/suvendu-adhikari-pa-murder-case-bengal-police-arrests-raj-singh-in-ballia-security-forces-arrive-neighborhood-2026-05-11",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-11T06:34:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/blya-sa-garafatara-haaa-raja-saha_a5afad57545f496e6760b3ae611d7329.jpeg?w=750&dpr=1.0",
-      "summary": "बलिया में राज सिंह को गिरफ्तार किया गया है। वह पश्चिम बंगाल के शुभेंदु अधिकारी के पीए हत्याकांड में आरोपी है। उसकी मां ने कहा कि वह अपराधी नहीं है। बलिया का नाम पश्चिम बंगाल के चर्चित शुभेंदु अधिकारी के पीए हत्याकांड से जुड़ने के बाद इलाके में सनसनी फैल गई है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बलिया का राज सिंह अरेस्ट, चुनाव लड़ चुका है आरोपी; मां बोली- वह अपराधी नहीं",
-          "summary": "बलिया में राज सिंह को गिरफ्तार किया गया है। वह पश्चिम बंगाल के शुभेंदु अधिकारी के पीए हत्याकांड में आरोपी है। उसकी मां ने कहा कि वह अपराधी नहीं है। बलिया का नाम पश्चिम बंगाल के चर्चित शुभेंदु अधिकारी के पीए हत्याकांड से जुड़ने के बाद इलाके में सनसनी फैल गई है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "भारत क्यों प्रवासी संबंधों के जरिए कैरिबियन और दक्षिण अमेरिका की ओर रुख कर रहा है?",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdGdNWjZWUUVWeEhYVXYtdWRLajNabEdTWXBQekZKYkVlWUNJbGNnbWFOSS1lcVVrOS1XTFZ6YUd1UDVMV3QwNEVYR1ZoV1hmcTAta2dNYUVhTUFmWl9DOG8wYzVLNkk3RkZZazVEdElJOUtBYmJvV3ZMWmRWRG5TU1NvT0hrdFVKNmZ1U1VHcXFMQXlXdTNveXBMN2F4T1lhMmtaa0FKRWVzU1ZwazBDdl8tckdLczF4b2ZQVXBONDhoeFQ3VHBLY1o5YzMtOUFRa2E1b01NSUhkNmFXdkRF0gHkAUFVX3lxTFBHNGlpSDRtZjdRLU5Pd3FsMHJ0aXp5bDhJc2pwdVoySkFzWFJtTVNQU1g3MFBoN2ZweXYtSTJVdVdXSF9yNmdOSHUtOHNoMU5Cbl8tM0tqQ2JkWkJ5N1BQel9oLXg5Z0ZOQ29zaTNjTDZKaUdDeERqRkJqYnEyNUhNNl9QWFUtR3FndXBkdTBvSnRXS0kxWjMtbTRxRm9YYk1nLTZUN1RUMnNZUUwtM1UwVlhJTHhTQV9Cck1wa0lRY0kyQkRJWDZKcld5UmpBcFFrT3QyVFQ1ZDhfeXlwVnRFMnl3LQ?oc=5",
       "source": "Google News Hindi (कूटनीति)",
@@ -404,24 +543,6 @@
       }
     },
     {
-      "title": "गणित के क्षेत्र में भारत का योगदान दर्शाने वाली प्रदर्शनी का उद्घाटन करेंगे जयशंकर",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNzJIa2NQQVRwNEtZTi1rWWdDLVRDZkN1VV92LVZzWVhSZjB2NW5WeFJtTi10RmtkSUotbjVaYnRWTVNlaHJzTGh0azFEb280OGV0dEFXTVBwVnBfdUVqMEJSUnZnbkRZSmdXbGJnSGVLQjdGS1JhRGFQOTZtdWFBWTQ0T3VITUVaSzh1RmhhRlR3RDZBRWxoMElTMjQ0NDdqdFhZc1BhTUVwSWdVNmdkOGhhM3M3aWNCTmI3T3NIRWhOM3BseHVudGNKSG5nUGPSAdQBQVVfeXFMTUhJaGNsNm45bUN6TFlHb1ZzclBBR1BRbzh0SXJVLTJTVi1relgxVGdsUm8yYlRQMFRxSE82LWxxZUp3NFh0NzJHVjFkNG1KZ2VVZ0MtZGF5SFN1dUxldGtHWGdJZ29zZmZVWDhBbEg3ekdmaFpBWWQ2MmN5RWxialpYVWJoNGR4WEJNN1ZmUWRzN1R3S1F4WVgzckVuMEdwdnVoYUxCRV82RXR0Q25iLWo2emhMZmJnTm9PNzQ4S2ZjNUNQNF9XZmRYVEFjSGdueVVGN3g?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-11T03:33:03+00:00",
-      "image_url": "https://images.pexels.com/photos/5412435/pexels-photo-5412435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "विदेश मंत्री एस. जयशंकर गणित के क्षेत्र में भारत के योगदान को प्रदर्शित करने वाली एक प्रदर्शनी का उद्घाटन करेंगे। गणित के क्षेत्र में भारत का योगदान दर्शाने वाली प्रदर्शनी का उद्घाटन करेंगे जयशंकर ThePrint Hindi।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गणित के क्षेत्र में भारत का योगदान दर्शाने वाली प्रदर्शनी का उद्घाटन करेंगे जयशंकर",
-          "summary": "विदेश मंत्री एस. जयशंकर गणित के क्षेत्र में भारत के योगदान को प्रदर्शित करने वाली एक प्रदर्शनी का उद्घाटन करेंगे। गणित के क्षेत्र में भारत का योगदान दर्शाने वाली प्रदर्शनी का उद्घाटन करेंगे जयशंकर ThePrint Hindi।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "नौ साल बाद चीन जाएंगे अमेरिकी राष्ट्रपति, व्यापार और ताइवान पर होगी बड़ी बातचीत",
       "url": "https://www.amarujala.com/world/us-president-to-visit-china-after-nine-years-major-talks-to-be-held-on-trade-and-taiwan-2026-05-11",
       "source": "Amar Ujala World",
@@ -476,24 +597,6 @@
       }
     },
     {
-      "title": "वो कंपनियां जिन्हें ईरान युद्ध की वजह से हुआ अरबों का मुनाफ़ा",
-      "url": "https://www.bbc.com/hindi/articles/cr5p8rz9rdqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-11T03:09:47+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4cf/live/d2e2e430-4ce6-11f1-81c9-7bf76cddc2b7.jpg",
-      "summary": "ईरान युद्ध के कारण वैश्विक महंगाई बढ़ी है। इससे कई देशों की अर्थव्यवस्था प्रभावित हुई है। हालांकि, कुछ कंपनियों ने इस दौरान रिकॉर्ड मुनाफा कमाया है। ईरान युद्ध की वजह से बढ़ी महंगाई से एक तरफ दुनिया भर में कई देशों की अर्थव्यवस्था पर बुरा असर पड़ा है, वहीं कई कंपनियों को इस दौरान रिकॉर्ड मुनाफ़ा भी हुआ है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वो कंपनियां जिन्हें ईरान युद्ध की वजह से हुआ अरबों का मुनाफ़ा",
-          "summary": "ईरान युद्ध के कारण वैश्विक महंगाई बढ़ी है। इससे कई देशों की अर्थव्यवस्था प्रभावित हुई है। हालांकि, कुछ कंपनियों ने इस दौरान रिकॉर्ड मुनाफा कमाया है। ईरान युद्ध की वजह से बढ़ी महंगाई से एक तरफ दुनिया भर में कई देशों की अर्थव्यवस्था पर बुरा असर पड़ा है, वहीं कई कंपनियों को इस दौरान रिकॉर्ड मुनाफ़ा भी हुआ है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "ईरान के समुद्र में फैला हजारों बैरल तेल, रिसाव पर UN ने दी चेतावनी, कतर-UAE को भी खतरा",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0JvcU92a1NVdzhJdzZ0VnFfRkJWYmtQYUxYSlFpWXZ0b2x6cnl6LWw1M2VfRzU0MlRoSk04a1ZMUlNpa1lFM2NQTEg5bDc4TkdVQTJZQ0pkMUxhSmxMdGdKOEpHT05uY2FtdmVrRFhNUU9ISEJwdWhTVGc2ZVA0ZXpadHV0U1FfcmRYbzdqdFZFNnY1M1hFQ3ZXU2xxZTVlc1RLVEp3Wl9mTnN0UWE1eTZ3SkrSAboBQVVfeXFMUDNBLVpYQzZ4TlJFWk14RGRreUs0VUd3NzVTYjBYZVBJdEJqcGNqci15SkhCNkFxZGZBdjZVMExwTUpvclVpc0pacE85YzJpUF9nN3FibUFxd1ZUdWNLTnQ1MlpiZjJ0NFdGbWhGVGJPNzFqMlNFbTcyTDJPeFVKcHVlZEs3UFhnb0RPQTYwZ1BrQ293YVFYb2p2NkdqS3AtbXJRY094bk5mSzdZNXpPMnhrVEE2d19aSmdn?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -512,128 +615,38 @@
       }
     },
     {
-      "title": "थरूर बोले- आबादी के आधार पर हुआ परिसीमन तो दक्षिण भारत के अधिकारों पर होगा असर; अन्नामलाई ने किया",
-      "url": "https://www.amarujala.com/world/shashi-tharoor-vs-annamalai-over-delimitation-and-north-south-representation-2026-05-11",
-      "source": "Amar Ujala World",
+      "title": "राम चरण-जान्हवी की 'पेद्दी' का ट्रेलर कब होगा रिलीज? निर्माताओं ने जारी किया दमदार नया पोस्टर",
+      "url": "https://www.amarujala.com/entertainment/south-cinema/peddi-ram-charan-jahnvi-kapoor-film-trailer-date-revealed-with-rugged-new-poster-2026-05-11",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-11T02:48:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/shashi-tharoor-k-annamalai_03823bb81f04c9fddbb40b410c593f4f.jpeg?w=750&dpr=1.0",
-      "summary": "शशि थरूर ने कहा कि आबादी के आधार पर परिसीमन होने से दक्षिण भारत के अधिकारों पर असर पड़ेगा। के. अन्नामलाई ने इस पर पलटवार किया है। US: थरूर बोले- आबादी के आधार पर हुआ परिसीमन तो दक्षिण भारत के अधिकारों पर होगा असर; अन्नामलाई ने किया पलटवार।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "थरूर बोले- आबादी के आधार पर हुआ परिसीमन तो दक्षिण भारत के अधिकारों पर होगा असर; अन्नामलाई ने किया",
-          "summary": "शशि थरूर ने कहा कि आबादी के आधार पर परिसीमन होने से दक्षिण भारत के अधिकारों पर असर पड़ेगा। के. अन्नामलाई ने इस पर पलटवार किया है। US: थरूर बोले- आबादी के आधार पर हुआ परिसीमन तो दक्षिण भारत के अधिकारों पर होगा असर; अन्नामलाई ने किया पलटवार।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'SIR से बंगाल में भाजपा की जीत और केरल में कांग्रेस को हुआ फायदा', शशि थरूर का चौंकाने वाला दावा",
-      "url": "https://www.amarujala.com/world/shashi-tharoor-questions-west-bengal-voter-list-revision-at-stanford-india-conference-hindi-news-2026-05-11",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-11T02:33:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/07/02/shashi-tharoor_c21ff43c018e90a531c3fd830caa46af.jpeg?w=750&dpr=1.0",
-      "summary": "शशि थरूर ने स्टैनफोर्ड इंडिया कॉन्फ्रेंस में दावा किया कि पश्चिम बंगाल में भाजपा की जीत और केरल में कांग्रेस को फायदा हुआ। उन्होंने इसे एक चौंकाने वाला बयान बताया। 'SIR से बंगाल में भाजपा की जीत और केरल में कांग्रेस को हुआ फायदा', शशि थरूर का चौंकाने वाला दावा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'SIR से बंगाल में भाजपा की जीत और केरल में कांग्रेस को हुआ फायदा', शशि थरूर का चौंकाने वाला दावा",
-          "summary": "शशि थरूर ने स्टैनफोर्ड इंडिया कॉन्फ्रेंस में दावा किया कि पश्चिम बंगाल में भाजपा की जीत और केरल में कांग्रेस को फायदा हुआ। उन्होंने इसे एक चौंकाने वाला बयान बताया। 'SIR से बंगाल में भाजपा की जीत और केरल में कांग्रेस को हुआ फायदा', शशि थरूर का चौंकाने वाला दावा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ब्रह्मांड की एक और गुत्थी सुलझी: ब्लैक होल की टक्करों से हो रहा पिंडों का जन्म, सितारों की टक्कर से",
-      "url": "https://www.amarujala.com/world/black-hole-merger-mystery-solved-gravitational-waves-nature-astronomy-2026-05-11",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-11T02:12:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/26/mysterious-secrets-of-universe-that-still-baffle-scientists-brahmand-ke-ansuljhe-rahasya_8d87f42d8a4033f8b36e9558336443e9.jpeg?w=750&dpr=1.0",
-      "summary": "खगोलविदों ने ब्लैक होल के विलय से उत्पन्न गुरुत्वाकर्षण तरंगों का विश्लेषण किया। उन्होंने पाया कि ये विलय नए पिंडों को जन्म दे सकते हैं। यह खोज ब्रह्मांड में पिंडों की उत्पत्ति को समझने में मदद करती है। ब्रह्मांड की एक और गुत्थी सुलझी: ब्लैक होल की टक्करों से हो रहा पिंडों का जन्म, सितारों की टक्कर से।",
+      "published_at": "2026-05-11T02:49:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/falma-pathatha_4d50892f417adb8268fc403877297293.jpeg?w=750&dpr=1.0",
+      "summary": "राम चरण और जान्हवी कपूर अभिनीत फिल्म 'पेद्दी राम चरण और जान्हवी कपूर की फिल्म 'पेद्दी' का ट्रेलर किस तारीख को रिलीज किया जाएगा। फिल्म का विश्वव्यापी प्रीमियर 3 जून को होगा और यह फिल्म 4 जून 2026 को सिनेमाघरों में रिलीज होगी। राम चरण-जान्हवी की 'पेद्दी' का ट्रेलर कब होगा रिलीज?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ब्रह्मांड की एक और गुत्थी सुलझी: ब्लैक होल की टक्करों से हो रहा पिंडों का जन्म, सितारों की टक्कर से",
-          "summary": "खगोलविदों ने ब्लैक होल के विलय से उत्पन्न गुरुत्वाकर्षण तरंगों का विश्लेषण किया। उन्होंने पाया कि ये विलय नए पिंडों को जन्म दे सकते हैं। यह खोज ब्रह्मांड में पिंडों की उत्पत्ति को समझने में मदद करती है। ब्रह्मांड की एक और गुत्थी सुलझी: ब्लैक होल की टक्करों से हो रहा पिंडों का जन्म, सितारों की टक्कर से।",
+          "title": "राम चरण-जान्हवी की 'पेद्दी' का ट्रेलर कब होगा रिलीज? निर्माताओं ने जारी किया दमदार नया पोस्टर",
+          "summary": "राम चरण और जान्हवी कपूर अभिनीत फिल्म 'पेद्दी राम चरण और जान्हवी कपूर की फिल्म 'पेद्दी' का ट्रेलर किस तारीख को रिलीज किया जाएगा। फिल्म का विश्वव्यापी प्रीमियर 3 जून को होगा और यह फिल्म 4 जून 2026 को सिनेमाघरों में रिलीज होगी। राम चरण-जान्हवी की 'पेद्दी' का ट्रेलर कब होगा रिलीज?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "बीजेपी की जीत में आरएसएस का क्या रोल?",
-      "url": "https://www.bbc.com/hindi/articles/cdrp5zmnp4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "सीएम विजय के साथ डीएमके नेता उदयनिधि स्टालिन की पुरानी फोटो वायरल, जानें दोनों के बीच है क्या खास",
+      "url": "https://www.amarujala.com/entertainment/south-cinema/cm-joseph-vijay-and-udhayanidhi-stalin-old-photos-viral-on-social-media-2026-05-11",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-11T02:00:40+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3634/live/733a25b0-4cdd-11f1-8f69-d5ae74dfd37e.jpg",
-      "summary": "भारतीय जनता पार्टी की हालिया जीत में राष्ट्रीय स्वयंसेवक संघ की भूमिका पर सवाल उठ रहे हैं। आलोचकों का मानना है कि आरएसएस ने चुनाव को हिंदू समाज के अस्तित्व की लड़ाई के रूप में प्रस्तुत कर धार्मिक ध्रुवीकरण को बढ़ावा दिया। आलोचकों का कहना है कि आरएसएस ने चुनाव को हिंदू समाज के 'अस्तित्व' की लड़ाई के रूप में पेश कर धार्मिक ध्रुवीकरण को तेज़ किया.",
+      "published_at": "2026-05-11T02:48:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/vajaya-thalpata-uthayanathha-satalna_1397296ce5d60c945960d2aefb42f8e8.jpeg?w=750&dpr=1.0",
+      "summary": "सीएम थलापति विजय और डीएमके नेता उदयनिधि स्टाल सीएम थलापति विजय और डीएमके के नेता उदयनिधि स्टालिन की पुरानी तस्वीर वायरल हो रही है। जिसमें वह और उदयनिधि काफी कम उम्र के दिखाई दे रहे हैं। सीएम विजय के साथ डीएमके नेता उदयनिधि स्टालिन की पुरानी फोटो वायरल, जानें दोनों के बीच है क्या खास।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बीजेपी की जीत में आरएसएस का क्या रोल?",
-          "summary": "भारतीय जनता पार्टी की हालिया जीत में राष्ट्रीय स्वयंसेवक संघ की भूमिका पर सवाल उठ रहे हैं। आलोचकों का मानना है कि आरएसएस ने चुनाव को हिंदू समाज के अस्तित्व की लड़ाई के रूप में प्रस्तुत कर धार्मिक ध्रुवीकरण को बढ़ावा दिया। आलोचकों का कहना है कि आरएसएस ने चुनाव को हिंदू समाज के 'अस्तित्व' की लड़ाई के रूप में पेश कर धार्मिक ध्रुवीकरण को तेज़ किया.",
+          "title": "सीएम विजय के साथ डीएमके नेता उदयनिधि स्टालिन की पुरानी फोटो वायरल, जानें दोनों के बीच है क्या खास",
+          "summary": "सीएम थलापति विजय और डीएमके नेता उदयनिधि स्टाल सीएम थलापति विजय और डीएमके के नेता उदयनिधि स्टालिन की पुरानी तस्वीर वायरल हो रही है। जिसमें वह और उदयनिधि काफी कम उम्र के दिखाई दे रहे हैं। सीएम विजय के साथ डीएमके नेता उदयनिधि स्टालिन की पुरानी फोटो वायरल, जानें दोनों के बीच है क्या खास।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "परमाणु परीक्षण के बावजूद भारत की कूटनीति ने कैसे खुद को ईरान जैसे हालात से बचाया?",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlpVNTdMZ19wcmdlLWNmalJ3YU9sU2pTbmhZX0VadkNpTEhFQlZiemVtbjlMblJJcXV3Q1F1YThib1ktSVM0RGJscnhZbklUT0pnV0J5clY1RXNoQk03NXdER2FSQWVMazFvcUU3RWkxdnpScXMtRW5zZW9TUHNaWm9xZTA5LXhRVVhpSU11MjlzNjRxS3V3emNyRHhyWDNQNUhINExUZw?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-11T02:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/73909/nuclear-weapons-test-nuclear-weapon-weapons-test-explosion-73909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत ने पोखरण परमाणु परीक्षण के बाद अपनी कूटनीति से ईरान जैसे अंतरराष्ट्रीय दबाव से बचाव किया। यह कूटनीतिक सफलता भारत की विदेश नीति की परिपक्वता को दर्शाती है। पोखरण एनीवर्सरी: परमाणु परीक्षण के बावजूद भारत की कूटनीति ने कैसे खुद को ईरान जैसे हालात से बचाया?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "परमाणु परीक्षण के बावजूद भारत की कूटनीति ने कैसे खुद को ईरान जैसे हालात से बचाया?",
-          "summary": "भारत ने पोखरण परमाणु परीक्षण के बाद अपनी कूटनीति से ईरान जैसे अंतरराष्ट्रीय दबाव से बचाव किया। यह कूटनीतिक सफलता भारत की विदेश नीति की परिपक्वता को दर्शाती है। पोखरण एनीवर्सरी: परमाणु परीक्षण के बावजूद भारत की कूटनीति ने कैसे खुद को ईरान जैसे हालात से बचाया?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जापान ने अंतरिक्ष में उड़ाया नई पीढ़ी का इंजन, घटाया जा सकता है भविष्य के अभियानों की लागत",
-      "url": "https://www.amarujala.com/world/jaxa-japan-tests-next-gen-rotating-detonation-engine-for-mars-missions-2026-05-11",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-11T01:58:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/18/mars_ca9dc289dc75323cf6ecba7a4007e395.jpeg?w=750&dpr=1.0",
-      "summary": "जापान एयरोस्पेस एक्सप्लोरेशन एजेंसी ने मंगल मिशन के लिए एक नई पीढ़ी के रोटेटिंग डेटोनेशन इंजन का सफलतापूर्वक परीक्षण किया। यह इंजन भविष्य के अंतरिक्ष अभियानों की लागत को कम कर सकता है। जापान ने अंतरिक्ष में उड़ाया नई पीढ़ी का इंजन, घटाया जा सकता है भविष्य के अभियानों की लागत।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जापान ने अंतरिक्ष में उड़ाया नई पीढ़ी का इंजन, घटाया जा सकता है भविष्य के अभियानों की लागत",
-          "summary": "जापान एयरोस्पेस एक्सप्लोरेशन एजेंसी ने मंगल मिशन के लिए एक नई पीढ़ी के रोटेटिंग डेटोनेशन इंजन का सफलतापूर्वक परीक्षण किया। यह इंजन भविष्य के अंतरिक्ष अभियानों की लागत को कम कर सकता है। जापान ने अंतरिक्ष में उड़ाया नई पीढ़ी का इंजन, घटाया जा सकता है भविष्य के अभियानों की लागत।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "लोकसभा की सीटें 850 करने पर बहस, थरूर ने बताया मजाक; भाजपा ने कहा- जरूरी",
-      "url": "https://www.amarujala.com/world/shashi-tharoor-tejasvi-surya-debate-on-lok-sabha-seats-delimitation-stanford-india-conference-hindi-news-2026-05-11",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-11T01:56:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/11/shashi-tharoor_16819c595bb8fb752e2e7ecd86b20e40.jpeg?w=750&dpr=1.0",
-      "summary": "लोकसभा सीटों की संख्या बढ़ाकर 850 करने के प्रस्ताव पर बहस छिड़ गई है। शशि थरूर ने इसे मजाक बताया, जबकि भाजपा ने इसे आवश्यक बताया। यह प्रस्ताव परिसीमन प्रक्रिया से जुड़ा है। लोकसभा की सीटें 850 करने पर बहस, थरूर ने बताया मजाक; भाजपा ने कहा- जरूरी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लोकसभा की सीटें 850 करने पर बहस, थरूर ने बताया मजाक; भाजपा ने कहा- जरूरी",
-          "summary": "लोकसभा सीटों की संख्या बढ़ाकर 850 करने के प्रस्ताव पर बहस छिड़ गई है। शशि थरूर ने इसे मजाक बताया, जबकि भाजपा ने इसे आवश्यक बताया। यह प्रस्ताव परिसीमन प्रक्रिया से जुड़ा है। लोकसभा की सीटें 850 करने पर बहस, थरूर ने बताया मजाक; भाजपा ने कहा- जरूरी।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
