@@ -1066,11 +1066,13 @@ def main() -> None:
         hi_feeds = cfg.get("hindi_rss_feeds", [])
         if hi_feeds:
             hi_articles.extend(_tag_language(fetch_rss(hi_feeds, max_per_feed=15, language="hi"), "hi"))
+    hi_after_primary = len(hi_articles)
 
     # ── Hindi: Google News RSS ────────────────────────────────────────────────
     hi_gnews = cfg.get("hindi_gnews_queries", [])
     if hi_gnews:
         hi_articles.extend(_tag_language(fetch_gnews_rss_hindi(hi_gnews, max_per_query=12), "hi"))
+    hi_after_gnews = len(hi_articles)
 
     # ── English fallback (only triggers if primary set is very thin) ──────────
     unique_en = deduplicate(en_articles)
@@ -1085,6 +1087,7 @@ def main() -> None:
 
     # ── Hindi fallback (only triggers if primary set is very thin) ────────────
     unique_hi = deduplicate(hi_articles)
+    hi_fallback_pulled = False
     if len(unique_hi) < low_water_mark:
         hi_fallback = cfg.get("hindi_fallback_rss_feeds", [])
         if hi_fallback:
@@ -1093,6 +1096,22 @@ def main() -> None:
                 len(unique_hi), low_water_mark,
             )
             hi_articles.extend(_tag_language(fetch_rss(hi_fallback, max_per_feed=15, language="hi"), "hi"))
+            hi_fallback_pulled = True
+    hi_after_fallback = len(hi_articles)
+
+    # HI supply funnel — surfaces where the Hindi pool collapses on a given run.
+    # Each stage shows the cumulative raw count after that source contributed.
+    # "unique" reflects within-language dedup (URL + title hash). Read top-down:
+    # if "primary" is already small, Hindi feeds returned little; if "gnews"
+    # barely moves the number, the Google-News Hindi queries are returning
+    # English (script-filter rejected) or hitting cached duplicates.
+    log.info(
+        "HI fetch funnel: primary=%d +gnews=%d %sunique_after_dedup=%d",
+        hi_after_primary,
+        hi_after_gnews,
+        f"+fallback={hi_after_fallback} " if hi_fallback_pulled else "",
+        len(deduplicate(hi_articles)),
+    )
 
     # ── Combine and deduplicate (within-language dedup already done above) ────
     all_articles = en_articles + hi_articles
@@ -1114,9 +1133,11 @@ def main() -> None:
     }
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
+    en_final = sum(1 for a in published_articles if a.get("language", "en") != "hi")
+    hi_final = sum(1 for a in published_articles if a.get("language") == "hi")
     log.info(
-        "Wrote %s (article_count=%d, total_unique_count=%d)",
-        OUTPUT_PATH, len(published_articles), total_unique_count,
+        "Wrote %s (article_count=%d, total_unique_count=%d, en=%d, hi=%d)",
+        OUTPUT_PATH, len(published_articles), total_unique_count, en_final, hi_final,
     )
 
 

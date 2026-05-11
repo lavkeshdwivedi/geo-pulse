@@ -1146,10 +1146,15 @@ def build_html(
     # Compensated upstream by widening the rank cap so the grid still has
     # enough fat candidates.
     MIN_RENDER_SUMMARY_WORDS = 25
+    before_floor = len(articles)
     articles = [
         article for article in articles
         if len((article.get("summary") or "").split()) >= MIN_RENDER_SUMMARY_WORDS
     ]
+    log.info(
+        "Render %s homepage: %d articles in -> %d after %d-word floor",
+        language, before_floor, len(articles), MIN_RENDER_SUMMARY_WORDS,
+    )
 
     featured_article = None
     ordered_articles = articles
