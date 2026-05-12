@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-12T09:42:28.525075+00:00",
-  "article_count": 40,
-  "total_unique_count": 371,
+  "generated_at": "2026-05-12T11:59:36.895554+00:00",
+  "article_count": 39,
+  "total_unique_count": 368,
   "digest": {
-    "en": "The Strait of Hormuz de-escalation dominates headlines. Armed drones are the leading cause of civilian death in Sudan. The UN launches a major Nairobi expansion.",
-    "hi": "नीट यूजी परीक्षा रद्द होना इस समय की प्रमुख खबर है। यह शिक्षा प्रणाली में विश्वास के संकट को दर्शाता है। संयुक्त राष्ट्र वनों की रक्षा के लिए वैश्विक कार्रवाई का आह्वान कर रहा है।"
+    "en": "The Strait of Hormuz and Sudan dominate Middle East and Africa coverage. Asia-Pacific news focuses on the Philippines and Solomon Islands. Global attention is split between regulatory wins and public health emergencies.",
+    "hi": "यूरोप और रूस की आर्थिक स्थिति पर ध्यान केंद्रित है। मध्य पूर्व और अफ्रीका में संघर्ष और राजनीतिक तनाव जारी है। भारत में नीट परीक्षा रद्द होने से छात्रों के भविष्य पर सवाल उठ रहे हैं।"
   },
   "articles": [
     {
@@ -28,18 +28,6 @@
       "image_url": "https://i.guim.co.uk/img/media/58a00fbc0f7869d1efb348b652066cbb0bbe0d8e/603_0_6033_4827/master/6033.jpg?width=140&quality=85&auto=format&fit=max&s=746263dc5a15befb6e6b3715b2ad3a0a",
       "summary": "Ronald dela Rosa, a former police chief and ally of Rodrigo Duterte, took Former police chief Ronald dela Rosa spends night at senate office after another Duterte ally offers protective custodyThe unusual pursuit was captured on CCTV cameras inside the Philippine senate. Ronald dela Rosa, a longtime ally of the former president Rodrigo Duterte, raced along the hallways of the upper house complex, stumbling on the staircase, as he fled government agents.“They want to for.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Dutch Hospital Quarantines 12 Healthcare Workers As Precaution",
-      "url": "https://www.ndtv.com/health/dutch-hospital-quarantines-12-staff-over-hantavirus-exposure-precautions-11481904#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-12T05:42:55+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/pr9pcfu8_hantavirus-quarantine_625x300_12_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Radboud University Medical Center in the Netherlands quarantined 12 employees for six weeks. This action followed incorrect procedures used while caring for a patient infected with hantavirus. The Hague, May 12 (IANS) Radboud University Medical Center (Radboudumc) in the Netherlands has placed 12 employees in quarantine for six weeks as a precaution after incorrect procedures were followed while caring for a patient infected with hantaviru.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -132,7 +120,20 @@
       "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167479",
       "source": "UN News",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167479",
+          "source": "UN News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yRXFqVlh2cVdWMXRNcUFVMEFtRXhEdDU0Ml96RVF5Ql9pdS0zY1VlVzlJOGNDOFNUNmdHcFpudk9sMjBRUmZkaWZvcGw0dlNEMWhld0ZYQQ?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yRXFqVlh2cVdWMXRNcUFVMEFtRXhEdDU0Ml96RVF5Ql9pdS0zY1VlVzlJOGNDOFNUNmdHcFpudk9sMjBRUmZkaWZvcGw0dlNEMWhld0ZYQQ?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
       "published_at": "2026-05-11T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-UNOCHA-Sudan-Darfur-04.jpg/image560x340cropped.jpg",
       "summary": "Armed drones caused over 80 percent of civilian deaths in Sudan during the Drones caused more than 80 per cent of civilian deaths in Sudan’s war during the first four months of 2026, killing at least 880 people, the UN human rights chief said on Monday, warning that escalating drone warfare could push the conflict into an even deadlier phase.",
@@ -201,18 +202,72 @@
       "translations": {}
     },
     {
-      "title": "नीट यूजी की परीक्षा एनटीए ने रद्द की, राहुल गांधी बोले- यह अब नीलामी बन गई है",
+      "title": "मोदी की अपील में क्या किसी गहरे आर्थिक संकट की आहट है?",
+      "url": "https://www.bbc.com/hindi/articles/c5yrpq6ey9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-12T11:28:45+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dcf2/live/9d24ffd0-4df5-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने एक साल तक सोना नहीं खरीदने, घर से काम करने प्रधानमंत्री नरेंद्र मोदी ने सोना ख़रीद एक साल तक बंद करने, वर्क फ्रोम होम और सार्वजनिक वाहनों के इस्तेमाल की अपील की है. इस अपील में भारत के कितने गहरे आर्थिक संकट का संकेत है?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मोदी की अपील में क्या किसी गहरे आर्थिक संकट की आहट है?",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने एक साल तक सोना नहीं खरीदने, घर से काम करने प्रधानमंत्री नरेंद्र मोदी ने सोना ख़रीद एक साल तक बंद करने, वर्क फ्रोम होम और सार्वजनिक वाहनों के इस्तेमाल की अपील की है. इस अपील में भारत के कितने गहरे आर्थिक संकट का संकेत है?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "10 लाख बेघर, 6% जमीन पर कब्जा,फिर भी झुका नहीं हिजबुल्लाह, इजरायल को दी ‘नरक’ में झोंकने की धमकी!",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb0dlbWNsSGVzNVJJbDVYdnZCZzRHV0RNZG1yaUE2dUUtNUFQWG1TRTNPZ3V4Z09YSUNpZ1BDdHZaSy12cFpJMWRjVTY3SWcyVVVwYlhEalJjYTRDTTJkS1lxVUZRVUYwT3piUFJvZVlMckhRbGpMbVZhSHBlT1VfSFZJTUZ3eTFGS01IRkxCbzRqbTJ1eHpfNDdvSkcxU0VJdDJSYm5Ccnc0SVpnbFRLQTU5YmNPM3QzcWpfTkRyajVkOVQzQzZDb0dxUUZjYWQxSERlbjdKU2MzQ3hqdHpz0gHkAUFVX3lxTE0tQmxhQ3hQS2MweVByOW84RTRtV08tMFVvZm5hNTc2N3I0NF84X2hQZ3ZoLWE0T0hYZWJQSXhjUTFQamVrSmRWR1JkRVRGRDF0cFJhZWxrQ0FPWGhtMkZLNEhkSHhzTk1rejM1VkNkMFBNekRoNzZ4WUQzSHhYd05QZkhrTER6aDR3ck9oMnJxV2NhYWN5X3YtM2RwY0xTWC1qTFNvbFpuaVNvT0RybDd6QVhOQmlKa3pWTFJqNmpiTFVQLUxVS01WQ1pvenZVZHA4YXZENDdYY1lxYjRBNVhNQUFZNQ?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-12T11:15:35+00:00",
+      "image_url": "https://images.pexels.com/photos/30385027/pexels-photo-30385027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "हिजबुल्लाह ने इजरायल को धमकी दी है कि वह उसे \" 10 लाख बेघर, 6% जमीन पर कब्जा, फिर भी झुका नहीं हिजबुल्लाह, इजरायल को दी ‘नरक’ में झोंकने की धमकी!",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "10 लाख बेघर, 6% जमीन पर कब्जा,फिर भी झुका नहीं हिजबुल्लाह, इजरायल को दी ‘नरक’ में झोंकने की धमकी!",
+          "summary": "हिजबुल्लाह ने इजरायल को धमकी दी है कि वह उसे \" 10 लाख बेघर, 6% जमीन पर कब्जा, फिर भी झुका नहीं हिजबुल्लाह, इजरायल को दी ‘नरक’ में झोंकने की धमकी!",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "इम्यूनोथेरेपी क्या है और कैंसर के इलाज में कितनी असरदार है?",
+      "url": "https://www.bbc.com/hindi/articles/cpwp7vxrdkpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-12T10:33:16+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c77/live/70d134f0-4dee-11f1-8191-8bac3ae59130.jpg",
+      "summary": "इम्यूनोथेरेपी कैंसर के इलाज का एक महत्वपूर्ण विकल्प सर्जरी, कीमोथेरेपी और रेडियोथेरेपी के बाद अब इम्यूनोथेरेपी कैंसर इलाज का एक अहम विकल्प बनकर उभरी है. इम्यूनोथेरेपी क्या है और कैंसर के इलाज में कितनी असरदार है?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इम्यूनोथेरेपी क्या है और कैंसर के इलाज में कितनी असरदार है?",
+          "summary": "इम्यूनोथेरेपी कैंसर के इलाज का एक महत्वपूर्ण विकल्प सर्जरी, कीमोथेरेपी और रेडियोथेरेपी के बाद अब इम्यूनोथेरेपी कैंसर इलाज का एक अहम विकल्प बनकर उभरी है. इम्यूनोथेरेपी क्या है और कैंसर के इलाज में कितनी असरदार है?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "नीट यूजी की परीक्षा एनटीए ने रद्द की, राहुल गांधी बोले- युवाओं के भविष्य के साथ अपराध है",
       "url": "https://www.bbc.com/hindi/articles/c9we1v7dd0eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "sources": [],
       "published_at": "2026-05-12T09:21:56+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e6bb/live/f08eee90-4de3-11f1-9cc8-93479330ab4b.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfdc/live/9d6c7c00-4de8-11f1-ac78-2112837ce2aa.jpg",
       "summary": "नेशनल टेस्टिंग एजेंसी ने 3 मई को आयोजित हुई नीट (यूजी) 2026 की परीक्षा रद्द कर दी है। परीक्षा के दौरान पेपर लीक होने के आरोप लगे थे। इस मामले की जांच केंद्रीय अन्वेषण ब्यूरो (सीबीआई) को सौंपी गई है। नेशनल टेस्टिंग एजेंसी ने 3 मई को आयोजित हुई नीट (यूजी) 2026 की परीक्षा को पेपर लीक के आरोपों के बीच रद्द कर दिया है.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "नीट यूजी की परीक्षा एनटीए ने रद्द की, राहुल गांधी बोले- यह अब नीलामी बन गई है",
+          "title": "नीट यूजी की परीक्षा एनटीए ने रद्द की, राहुल गांधी बोले- युवाओं के भविष्य के साथ अपराध है",
           "summary": "नेशनल टेस्टिंग एजेंसी ने 3 मई को आयोजित हुई नीट (यूजी) 2026 की परीक्षा रद्द कर दी है। परीक्षा के दौरान पेपर लीक होने के आरोप लगे थे। इस मामले की जांच केंद्रीय अन्वेषण ब्यूरो (सीबीआई) को सौंपी गई है। नेशनल टेस्टिंग एजेंसी ने 3 मई को आयोजित हुई नीट (यूजी) 2026 की परीक्षा को पेपर लीक के आरोपों के बीच रद्द कर दिया है.",
           "region": "दुनिया"
         }
@@ -309,78 +364,6 @@
       }
     },
     {
-      "title": "भगवान शिव की भूमिका निभाएंगे रणवीर सिंह? जानिए किस किताब पर आधारित होगी फिल्म",
-      "url": "https://www.amarujala.com/entertainment/bollywood/ranveer-singh-to-play-lord-shiva-in-trilogy-on-bestseller-the-immortals-of-meluha-as-per-report-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T07:29:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/29/ranaevara-saha_9b9428fe7e24c837f24fb29a92108ff2.jpeg?w=750&dpr=1.0",
-      "summary": "रणवीर सिंह एक नई फिल्म में भगवान शिव की भूमिका निभाएंगे। यह फिल्म लेखक अमीश त्रिपाठी की 'शिव त्रयी' पर आधारित होगी। यह उनके करियर में एक महत्वपूर्ण बदलाव होगा। रणवीर सिंह अपनी फिल्मों में एक बड़ा बदलाव करने जा रहे हैं। वह एक प्रसिद्ध लेखक की शिव त्रयी (मेलुहा के अमर श्रृंखला) पर बनी फिल्म में नजर आएंगे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भगवान शिव की भूमिका निभाएंगे रणवीर सिंह? जानिए किस किताब पर आधारित होगी फिल्म",
-          "summary": "रणवीर सिंह एक नई फिल्म में भगवान शिव की भूमिका निभाएंगे। यह फिल्म लेखक अमीश त्रिपाठी की 'शिव त्रयी' पर आधारित होगी। यह उनके करियर में एक महत्वपूर्ण बदलाव होगा। रणवीर सिंह अपनी फिल्मों में एक बड़ा बदलाव करने जा रहे हैं। वह एक प्रसिद्ध लेखक की शिव त्रयी (मेलुहा के अमर श्रृंखला) पर बनी फिल्म में नजर आएंगे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरानी विमान उसके एयरबेस पर मौजूद, अमेरिका ने मध्यस्थ की भूमिका पर उठाए सवाल",
-      "url": "https://www.amarujala.com/world/pakistan-makes-a-major-confession-iranian-aircraft-are-present-at-its-airbase-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T07:11:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/pakasatana_9d404aa2df7ed26396b7791544bf5eb0.jpeg?w=750&dpr=1.0",
-      "summary": "पाकिस्तान ने स्वीकार किया है कि ईरानी विमान उसके एयरबेस पर मौजूद थे। अमेरिका ने इस मामले में पाकिस्तान की मध्यस्थता की भूमिका पर सवाल उठाए हैं। पाकिस्तान का बड़ा कबूलनामा!: ईरानी विमान उसके एयरबेस पर मौजूद, अमेरिका ने मध्यस्थ की भूमिका पर उठाए सवाल Pakistan makes a major confession!",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरानी विमान उसके एयरबेस पर मौजूद, अमेरिका ने मध्यस्थ की भूमिका पर उठाए सवाल",
-          "summary": "पाकिस्तान ने स्वीकार किया है कि ईरानी विमान उसके एयरबेस पर मौजूद थे। अमेरिका ने इस मामले में पाकिस्तान की मध्यस्थता की भूमिका पर सवाल उठाए हैं। पाकिस्तान का बड़ा कबूलनामा!: ईरानी विमान उसके एयरबेस पर मौजूद, अमेरिका ने मध्यस्थ की भूमिका पर उठाए सवाल Pakistan makes a major confession!",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हिमंत के साथ मंत्री पद की शपथ लेने वाले नेता कौन?: अतुल बोरा सबसे अमीर, छह बार की महिला विधायक सबसे",
-      "url": "https://www.amarujala.com/india-news/assam-cabinet-oath-taking-chief-minister-himanta-biswa-sarma-and-his-ministers-from-atul-bora-to-ajanta-neog-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T06:57:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/himanata-biswa-sarma-cabinet_4668acf54efb3d058d23e22c3731028a.jpeg?w=750&dpr=1.0",
-      "summary": "हिमंत बिस्व सरमा के साथ असम में चार अन्य नेताओं ने मंत्री पद की शपथ ली। इनमें अतुल बोरा, चरण बोरो, रामेश्वर तेली और अजंता न्योग शामिल हैं। सभी के पास लंबा राजनीतिक अनुभव है। असम में मंगलवार को हिमंत बिस्व सरमा ने मुख्यमंत्री पद की शपथ ली।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिमंत के साथ मंत्री पद की शपथ लेने वाले नेता कौन?: अतुल बोरा सबसे अमीर, छह बार की महिला विधायक सबसे",
-          "summary": "हिमंत बिस्व सरमा के साथ असम में चार अन्य नेताओं ने मंत्री पद की शपथ ली। इनमें अतुल बोरा, चरण बोरो, रामेश्वर तेली और अजंता न्योग शामिल हैं। सभी के पास लंबा राजनीतिक अनुभव है। असम में मंगलवार को हिमंत बिस्व सरमा ने मुख्यमंत्री पद की शपथ ली।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'मच्छरदानी हटा दो... तुम्हारे हिस्से के मच्छर मुझे काटते हैं', एसएस नार्थ हॉल में कश्मीरी छात्र की",
-      "url": "https://www.amarujala.com/uttar-pradesh/aligarh/kashmiri-student-beaten-up-at-ss-north-hall-in-aligarh-muslim-university-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T06:47:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/11/08/amu_2530178c2a5f982bddb2e5dbbb6a4b47.jpeg?w=750&dpr=1.0",
-      "summary": "एसएस नॉर्थ हॉल में एक कश्मीरी छात्र ने मच्छरदानी हटाने को लेकर शिकायत की। उसने कहा कि मच्छरदानी हटने से उसे मच्छर काट रहे हैं। गर्मी बढ़ी, मच्छर बढ़े और अब हॉस्टल में मच्छर और मच्छरदानी कूटनीति भी शुरू हो गई। 'मच्छरदानी हटा दो तुम्हारे हिस्से के मच्छर मुझे काटते हैं', एसएस नार्थ हॉल में कश्मीरी छात्र की।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मच्छरदानी हटा दो... तुम्हारे हिस्से के मच्छर मुझे काटते हैं', एसएस नार्थ हॉल में कश्मीरी छात्र की",
-          "summary": "एसएस नॉर्थ हॉल में एक कश्मीरी छात्र ने मच्छरदानी हटाने को लेकर शिकायत की। उसने कहा कि मच्छरदानी हटने से उसे मच्छर काट रहे हैं। गर्मी बढ़ी, मच्छर बढ़े और अब हॉस्टल में मच्छर और मच्छरदानी कूटनीति भी शुरू हो गई। 'मच्छरदानी हटा दो तुम्हारे हिस्से के मच्छर मुझे काटते हैं', एसएस नार्थ हॉल में कश्मीरी छात्र की।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
       "title": "क्या गुपचुप तरीके से ईरान के साथ युद्ध में शामिल हो गया UAE? रिपोर्ट में चौंकाने वाला दावा",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQnpIUDdtaGtwamhTRGJibDZFWnJ1bjBFdzNpOWt1OWNkWnM0RzJSMm4zVlJXb2dEX0xPaWNKaWVwLVYtcGNNMnlNMmpvWTZ0Mk85a2RaVTBhZ3BiNFlIT0pTRG12ajBEMklvRVlER09KeHAtWm1KMnR1ZTZVOGFwZ1R0NXNnNFVfZmtpTldNZm05LTMzc0ZDcXlzX1d2VHJVTkl3Nk0yMTlHVWVJNDhtTThrMlJub0tUNXhuNlhuN3RReGQ0bkVXbV8xb0x3QQ?oc=5",
       "source": "Google News Hindi (युद्ध संघर्ष)",
@@ -413,60 +396,6 @@
           "title": "क्या ट्रंप के दबाव का पड़ा असर?: ब्रिटेन ने ईरान के प्रॉक्सी नेटवर्क पर लगाया प्रतिबंध, बताई ये वजह",
           "summary": "ब्रिटेन ने ईरान के प्रॉक्सी नेटवर्क पर प्रतिबंध लगाए हैं। यह फैसला होरमुज़ जलडमरूमध्य की सुरक्षा चिंताओं के बीच आया है। ब्रिटेन ने कहा है कि यह कदम पश्चिम एशिया में स्थिरता बढ़ाने के लिए उठाया गया है। क्या ट्रंप के दबाव का पड़ा असर?: ब्रिटेन ने ईरान के प्रॉक्सी नेटवर्क पर लगाया प्रतिबंध, बताई ये वजह।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'सनातन को खत्म कर देना चाहिए': उदयनिधि के फिर विवादित बोल, कहा- समाज को बांटने वाली सोच को न मिले",
-      "url": "https://www.amarujala.com/india-news/sanatan-should-be-eradicated-udhayanidhi-stalin-once-again-attacks-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T06:22:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/uthayanathha-satalna_8990fc91a3c726f2b01f943313b710eb.jpeg?w=750&dpr=1.0",
-      "summary": "उदयनिधि ने सनातन को समाज को बांटने वाली सोच कहा। 'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न। 'सनातन को खत्म कर देना चाहिए': उदयनिधि के फिर विवादित बोल, कहा- समाज को बांटने वाली सोच को न मिले।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'सनातन को खत्म कर देना चाहिए': उदयनिधि के फिर विवादित बोल, कहा- समाज को बांटने वाली सोच को न मिले",
-          "summary": "उदयनिधि ने सनातन को समाज को बांटने वाली सोच कहा। 'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न। 'सनातन को खत्म कर देना चाहिए': उदयनिधि के फिर विवादित बोल, कहा- समाज को बांटने वाली सोच को न मिले।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "चार हार से पंजाब की राह मुश्किल? दिल्ली की उम्मीदें अभी भी जिंदा; पढ़ें पूरा समीकरण",
-      "url": "https://www.amarujala.com/cricket/ipl-2026-playoff-race-heats-up-csk-rr-alive-as-three-teams-cross-80-qualification-chance-pbks-vs-dc-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T05:49:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/ipl-2026-ipl-playoffs-csk-playoff-chances-rajasthan-royals-vaibhav-sooryavanshi-rcb-gt-srh_deaf22e5ce390fea8413ac4fb7c5ccda.jpeg?w=750&dpr=1.0",
-      "summary": "इंडियन प्रीमियर लीग (IPL) 2026 में पंजाब किंग्स की प्लेऑफ में पहुंचने की उम्मीदें कम हो गई हैं। चार हार के बाद उनकी राह मुश्किल हो गई है। दिल्ली कैपिटल्स की उम्मीदें अभी भी बनी हुई हैं। आईपीएल 2026 अपने निर्णायक मोड़ पर पहुंच चुका है और प्लेऑफ की जंग बेहद रोमांचक हो गई है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चार हार से पंजाब की राह मुश्किल? दिल्ली की उम्मीदें अभी भी जिंदा; पढ़ें पूरा समीकरण",
-          "summary": "इंडियन प्रीमियर लीग (IPL) 2026 में पंजाब किंग्स की प्लेऑफ में पहुंचने की उम्मीदें कम हो गई हैं। चार हार के बाद उनकी राह मुश्किल हो गई है। दिल्ली कैपिटल्स की उम्मीदें अभी भी बनी हुई हैं। आईपीएल 2026 अपने निर्णायक मोड़ पर पहुंच चुका है और प्लेऑफ की जंग बेहद रोमांचक हो गई है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मेटा में 8000 कर्मचारियों की छंटनी: एआई पर फोकस और रिकॉर्ड खर्च के बीच मार्क जुकरबर्ग का सख्त कदम",
-      "url": "https://www.amarujala.com/business/business-diary/balancing-record-ai-capex-meta-to-slash-8-000-jobs-as-cfo-highlights-spending-imbalance-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T05:48:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/meta-ai_eaaf50bdcb4a1b4dcca73b6b3cd8e8b5.jpeg?w=750&dpr=1.0",
-      "summary": "मेटा 8,000 कर्मचारियों की छंटनी करने जा रहा है। मार्क जुकरबर्ग का फोकस अब छोटी टीमों और एआई पर है। यह छंटनी 20 मई को होगी। मेटा 20 मई को 8,000 कर्मचारियों की छंटनी करने जा रहा है। कंपनी के इस बड़े बदलाव और रिकॉर्ड खर्च के बारे में विस्तार से जानने के लिए पूरी खबर पढ़ें।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मेटा में 8000 कर्मचारियों की छंटनी: एआई पर फोकस और रिकॉर्ड खर्च के बीच मार्क जुकरबर्ग का सख्त कदम",
-          "summary": "मेटा 8,000 कर्मचारियों की छंटनी करने जा रहा है। मार्क जुकरबर्ग का फोकस अब छोटी टीमों और एआई पर है। यह छंटनी 20 मई को होगी। मेटा 20 मई को 8,000 कर्मचारियों की छंटनी करने जा रहा है। कंपनी के इस बड़े बदलाव और रिकॉर्ड खर्च के बारे में विस्तार से जानने के लिए पूरी खबर पढ़ें।",
-          "region": "दुनिया"
         }
       }
     },
@@ -596,24 +525,6 @@
       }
     },
     {
-      "title": "हिमंत बिस्वा सरमा क्या अब योगी आदित्यनाथ और फडणवीस की बराबरी पर आ गए हैं?",
-      "url": "https://www.bbc.com/hindi/articles/c8jv093xl93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-12T04:40:27+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/38b3/live/26914100-4dbc-11f1-b55d-0f258dce1735.jpg",
-      "summary": "हिमंत बिस्वा सरमा के बढ़ते राजनीतिक क़द को लेकर चर्चाएं हो रही हैं कि वे योगी आदित्यनाथ और फडणवीस की बराबरी पर आ गए हैं। बीते 4 मई को असम में एनडीए गठबंधन की जीत के बाद गुवाहाटी स्थित बीजेपी दफ़्तर में सिर्फ़ जश्न नहीं दिखा, बल्कि हिमंत बिस्वा सरमा के बढ़ते राजनीतिक क़द को लेकर चर्चाएं भी सुनाई दीं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिमंत बिस्वा सरमा क्या अब योगी आदित्यनाथ और फडणवीस की बराबरी पर आ गए हैं?",
-          "summary": "हिमंत बिस्वा सरमा के बढ़ते राजनीतिक क़द को लेकर चर्चाएं हो रही हैं कि वे योगी आदित्यनाथ और फडणवीस की बराबरी पर आ गए हैं। बीते 4 मई को असम में एनडीए गठबंधन की जीत के बाद गुवाहाटी स्थित बीजेपी दफ़्तर में सिर्फ़ जश्न नहीं दिखा, बल्कि हिमंत बिस्वा सरमा के बढ़ते राजनीतिक क़द को लेकर चर्चाएं भी सुनाई दीं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "2028 में कौन होगा राष्ट्रपति पद का उम्मीदवार? जेडी वेंस और मार्को रुबियो पर ट्रंप ने क्या कहा",
       "url": "https://www.amarujala.com/world/vance-or-rubio-trump-polls-white-house-dinner-attendees-on-2028-race-2026-05-12",
       "source": "Amar Ujala World",
@@ -632,24 +543,6 @@
       }
     },
     {
-      "title": "एक छोटा टीका, हर बच्चे के लिए बड़ा वादा",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52WGtQSVJsczl1VTFkcnZ4MGJJUHNBMGh3MFFsYU5yZmF0MjRYSEM5Q3d2YkhlcW1pa2JHamgwellDYjNTTW41MEhnc2FsR1hGa0NUa3EyWQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-12T04:10:00+00:00",
-      "image_url": "https://images.pexels.com/photos/17219719/pexels-photo-17219719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने भारत में एक छोटे टीके के महत्व पर प्रकाश डाला है। यह टीका हर बच्चे के लिए एक बड़ा वादा रखता है। एक छोटा टीका, हर बच्चे के लिए बड़ा वादा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक छोटा टीका, हर बच्चे के लिए बड़ा वादा",
-          "summary": "संयुक्त राष्ट्र ने भारत में एक छोटे टीके के महत्व पर प्रकाश डाला है। यह टीका हर बच्चे के लिए एक बड़ा वादा रखता है। एक छोटा टीका, हर बच्चे के लिए बड़ा वादा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "मुख्य निर्वाचन अधिकारी रहे मनोज अग्रवाल को मुख्य सचिव बनाने पर उठ रहे हैं सवाल",
       "url": "https://www.bbc.com/hindi/articles/c74dzze8pyko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -663,6 +556,114 @@
         "hi": {
           "title": "मुख्य निर्वाचन अधिकारी रहे मनोज अग्रवाल को मुख्य सचिव बनाने पर उठ रहे हैं सवाल",
           "summary": "पश्चिम बंगाल में मुख्य निर्वाचन अधिकारी रहे मनोज अग्रवाल को मुख्य सचिव बनाने पर सवाल उठ रहे हैं। उनके कार्यकाल में मतदाता सूची से 91 लाख नाम हटाए गए थे। मनोज अग्रवाल के कार्यकाल के दौरान पश्चिम बंगाल में स्पेशल इंटेसिव रिविजन यानी एसआईआर अभियान चलाया गया, जिसमें लगभग 91 लाख मतदाताओं के नाम मतदाता सूची से हटाए गए.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पश्चिम एशिया संकट भारत की कूटनीति के लिए एक बड़ी परीक्षा क्यों?",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWVuNUdZUkhKMTlZOG5FX0EtT3hReDJrZHhuTkFMWGczenotWXhHWUhZcmFrc1FSYnBGOEdCdzVWa1VGY2ExcGozVkpFbENPUmxVY1R0M250UjRYYUN5T1VPNVBnZElNdHZEMTFyMFh6bWJvcllydXhNdFFiLXBMOGhTWkZ0MGg4NzhpY1hfQ25ERDFaUW5OZTk2NXpqUnpMNHFKMEQ0TlFWb1REY2JVMXdfZw?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-12T03:04:19+00:00",
+      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत पश्चिम एशिया में इजरायल-हमास संघर्ष के बीच अपनी Explainer: पश्चिम एशिया संकट भारत की कूटनीति के लिए एक बड़ी परीक्षा क्यों? NDTV. in।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पश्चिम एशिया संकट भारत की कूटनीति के लिए एक बड़ी परीक्षा क्यों?",
+          "summary": "भारत पश्चिम एशिया में इजरायल-हमास संघर्ष के बीच अपनी Explainer: पश्चिम एशिया संकट भारत की कूटनीति के लिए एक बड़ी परीक्षा क्यों? NDTV. in।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "चीन के लिए जासूसी कर रहीं थी कैलिफोर्निया के आर्केडिया शहर की मेयर, FBI की जांच में चौंकाने वाले",
+      "url": "https://www.amarujala.com/world/fbi-charges-arcadia-mayor-eileen-wang-as-chinese-agent-california-espionage-case-us-national-security-2026-05-12",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-12T02:57:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/kalfaranaya-ka-mayara-iilga-vaga_942727a1679ce60f3371f839af4b2661.jpeg?w=750&dpr=1.0",
+      "summary": "कैलिफोर्निया के आर्केडिया शहर की मेयर ईलीन वांग पर एफबीआई ने चीन के लिए जासूसी करने का आरोप लगाया है। जांच में पता चला है कि वांग ने चीन के सरकारी अधिकारियों के साथ मिलकर अमेरिका में चीन के हितों को बढ़ावा दिया। उन्होंने चीनी सरकार को संवेदनशील जानकारी भी लीक की। एफबीआई ने वांग को गिरफ्तार कर लिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन के लिए जासूसी कर रहीं थी कैलिफोर्निया के आर्केडिया शहर की मेयर, FBI की जांच में चौंकाने वाले",
+          "summary": "कैलिफोर्निया के आर्केडिया शहर की मेयर ईलीन वांग पर एफबीआई ने चीन के लिए जासूसी करने का आरोप लगाया है। जांच में पता चला है कि वांग ने चीन के सरकारी अधिकारियों के साथ मिलकर अमेरिका में चीन के हितों को बढ़ावा दिया। उन्होंने चीनी सरकार को संवेदनशील जानकारी भी लीक की। एफबीआई ने वांग को गिरफ्तार कर लिया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अफ्रीका शिखर सम्मेलन में बिना बुलाए मंच पर पहुंचे मैक्रों, अपमान पर भड़के; लोगों को लगा दी डांट",
+      "url": "https://www.amarujala.com/world/france-president-emmanuel-macron-scold-crowd-in-africa-summit-for-lack-of-respect-2026-05-12",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-12T02:35:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/france-emmanuel-macron_aeefa2ea23e452b3f7a6273d01bc87e3.jpeg?w=750&dpr=1.0",
+      "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अफ्रीका शिखर सम्मेलन में बिना बुलाए मंच पर पहुंचकर उपस्थित लोगों को फटकार लगाई। उन्होंने आयोजकों द्वारा उन्हें आमंत्रित न किए जाने पर नाराजगी व्यक्त की। अफ्रीका शिखर सम्मेलन में बिना बुलाए मंच पर पहुंचे मैक्रों, अपमान पर भड़के; लोगों को लगा दी डांट।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अफ्रीका शिखर सम्मेलन में बिना बुलाए मंच पर पहुंचे मैक्रों, अपमान पर भड़के; लोगों को लगा दी डांट",
+          "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अफ्रीका शिखर सम्मेलन में बिना बुलाए मंच पर पहुंचकर उपस्थित लोगों को फटकार लगाई। उन्होंने आयोजकों द्वारा उन्हें आमंत्रित न किए जाने पर नाराजगी व्यक्त की। अफ्रीका शिखर सम्मेलन में बिना बुलाए मंच पर पहुंचे मैक्रों, अपमान पर भड़के; लोगों को लगा दी डांट।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पेट्रोल बचाने, सोना नहीं खरीदने की अपील के बाद प्रधानमंत्री मोदी पर उठ रहे हैं ये सवाल",
+      "url": "https://www.bbc.com/hindi/articles/cgqp7vxjedxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-12T02:32:21+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a34f/live/063f1e00-4d9d-11f1-9784-7393ddbc41db.jpg",
+      "summary": "प्रधानमंत्री मोदी ने पेट्रोल बचाने, सोना न खरीदने और डेस्टिनेशन वेडिंग से बचने की अपील की है। कई लोग इसे संभावित आर्थिक संकट का संकेत मान रहे हैं। तेल की बचत, सोना अस्थाई रूप से नहीं खरीदने, वर्क फ्रॉम होम और डेस्टिनेशन वेडिंग से बचने की प्रधानमंत्री की अपील को कई लोग संभावित आर्थिक संकट के संकेत के रूप में देख रहे हैं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पेट्रोल बचाने, सोना नहीं खरीदने की अपील के बाद प्रधानमंत्री मोदी पर उठ रहे हैं ये सवाल",
+          "summary": "प्रधानमंत्री मोदी ने पेट्रोल बचाने, सोना न खरीदने और डेस्टिनेशन वेडिंग से बचने की अपील की है। कई लोग इसे संभावित आर्थिक संकट का संकेत मान रहे हैं। तेल की बचत, सोना अस्थाई रूप से नहीं खरीदने, वर्क फ्रॉम होम और डेस्टिनेशन वेडिंग से बचने की प्रधानमंत्री की अपील को कई लोग संभावित आर्थिक संकट के संकेत के रूप में देख रहे हैं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "टाटा पावर का मुनाफा 4 प्रतिशत घटकर 996 करोड़ हुआ, राजस्व का भी नुकसान",
+      "url": "https://www.amarujala.com/business/business-diary/q4-results-tata-power-profit-slips-4-to-996-crore-revenue-falls-13-corporates-financial-results-2026-05-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-11T23:54:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/12/indian-economy_c2d158c896129fc392f7743ace0f85f9.jpeg?w=750&dpr=1.0",
+      "summary": "टाटा पावर का वित्तीय वर्ष 2025-26 की चौथी तिमाही का मुनाफा चार प्रतिशत घटकर 996 करोड़ रुपये हो गया। कंपनी के राजस्व में भी गिरावट दर्ज की गई है। वित्तीय वर्ष 2025-26 की आखिरी तिमाही में टाटा पावर के समेकित मुनाफे में चार प्रतिशत की गिरावट दर्ज की गई है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "टाटा पावर का मुनाफा 4 प्रतिशत घटकर 996 करोड़ हुआ, राजस्व का भी नुकसान",
+          "summary": "टाटा पावर का वित्तीय वर्ष 2025-26 की चौथी तिमाही का मुनाफा चार प्रतिशत घटकर 996 करोड़ रुपये हो गया। कंपनी के राजस्व में भी गिरावट दर्ज की गई है। वित्तीय वर्ष 2025-26 की आखिरी तिमाही में टाटा पावर के समेकित मुनाफे में चार प्रतिशत की गिरावट दर्ज की गई है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "वित्तीय धोखाधड़ी से निपटने के लिए 'एआई' की लेंगे मदद, अब नपेंगे म्यूल खाता धारक, एमएचए और आरबीआई की",
+      "url": "https://www.amarujala.com/india-news/ai-will-be-used-to-tackle-financial-fraud-now-mule-account-holders-will-be-tracked-initiative-by-mha-and-rbi-2026-05-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-11T23:52:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/vatataya-thhakhathhaugdha-sa-napatana-ka-le-eaaii-ka-lga-mathatha_7832e8f1a87453fea36bc0d28f534163.jpeg?w=750&dpr=1.0",
+      "summary": "वित्तीय धोखाधड़ी से निपटने के लिए भारत सरकार और आरबीआई मिलकर आर्टिफिशियल इंटेलिजेंस का उपयोग करेंगे। इससे म्यूल खाताधारकों की पहचान और उन पर कार्रवाई की जाएगी। वित्तीय धोखाधड़ी से निपटने के लिए 'एआई' की लेंगे मदद, अब नपेंगे म्यूल खाता धारक, एमएचए और आरबीआई की।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वित्तीय धोखाधड़ी से निपटने के लिए 'एआई' की लेंगे मदद, अब नपेंगे म्यूल खाता धारक, एमएचए और आरबीआई की",
+          "summary": "वित्तीय धोखाधड़ी से निपटने के लिए भारत सरकार और आरबीआई मिलकर आर्टिफिशियल इंटेलिजेंस का उपयोग करेंगे। इससे म्यूल खाताधारकों की पहचान और उन पर कार्रवाई की जाएगी। वित्तीय धोखाधड़ी से निपटने के लिए 'एआई' की लेंगे मदद, अब नपेंगे म्यूल खाता धारक, एमएचए और आरबीआई की।",
           "region": "दुनिया"
         }
       }
