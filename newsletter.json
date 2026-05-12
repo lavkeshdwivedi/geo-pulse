@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-05-12T04:01:23.331545+00:00",
-  "article_count": 37,
-  "total_unique_count": 373,
+  "generated_at": "2026-05-12T06:46:00.693255+00:00",
+  "article_count": 42,
+  "total_unique_count": 372,
   "digest": {
-    "en": "Trump-Xi meeting in China dominates headlines. Philippine presidential hopeful Sara Duterte faces impeachment. Sudan war sees armed drones as leading cause of civilian death.",
-    "hi": "शेयर बाजार में कमजोरी का सिलसिला बरकरार है। सेंसेक्स 400 अंक गिरा और निफ्टी 23750 से फिसला। तमिलनाडु में विजय सरकार ने स्कूलों और पूजा स्थलों के पास की 717 शराब दुकानें बंद करने का फैसला किया।"
+    "en": "Dutch hospital quarantines 12 healthcare workers. UAE reportedly attacked Iran last month. UN chief calls for de-escalation in the Strait of Hormuz.",
+    "hi": "असम के मुख्यमंत्री हिमंत बिस्व सरमा ने लगातार दूसरी बार सीएम पद की शपथ ली। पीएम मोदी भी इस मौके पर मौजूद रहे। उनके साथ चार नवनिर्वाचित विधायकों ने भी मंत्री पद की शपथ ली।"
   },
   "articles": [
+    {
+      "title": "Dutch Hospital Quarantines 12 Healthcare Workers As Precaution",
+      "url": "https://www.ndtv.com/health/dutch-hospital-quarantines-12-staff-over-hantavirus-exposure-precautions-11481904#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-12T05:42:55+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/pr9pcfu8_hantavirus-quarantine_625x300_12_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Radboud University Medical Center in the Netherlands quarantined 12 employees for six weeks. This action followed incorrect procedures used while caring for a patient infected with hantavirus. The Hague, May 12 (IANS) Radboud University Medical Center (Radboudumc) in the Netherlands has placed 12 employees in quarantine for six weeks as a precaution after incorrect procedures were followed while caring for a patient infected with hantaviru.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "LA area mayor to plead guilty to acting as Chinese agent",
+      "url": "https://www.dw.com/en/us-la-area-mayor-to-plead-guilty-to-acting-as-chinese-agent/a-77126713?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
+      "sources": [],
+      "published_at": "2026-05-12T05:39:00+00:00",
+      "image_url": "https://static.dw.com/image/67049580_6.jpg",
+      "summary": "The mayor of a Los Angeles suburb resigned after admitting to acting as a Chinese propaganda agent. Eileen Wang faces up to 10 years in prison. The mayor of a Los Angeles suburb with a heavy Chinese-American presence has resigned after admitting to acting as a Chinese propaganda agent.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UAE attacked Iran last month: WSJ",
+      "url": "https://www.thehindu.com/news/international/uae-attacked-iran-last-month-wsj/article70968355.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-12T05:22:08+00:00",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "summary": "The Wall Street Journal reported the UAE attacked an Iranian refinery on Lavan Island last month. The strikes occurred around the time President Trump announced a ceasefire. An American newspaper said the UAE's attacks targeted a refinery located on Iran's Lavan Island and took place \"around the time\" U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "The big questions hanging over the Trump-Xi meeting in China",
       "url": "https://www.theguardian.com/world/2026/may/12/the-big-questions-hanging-over-the-trump-xi-meeting-in-china",
@@ -40,6 +76,30 @@
       "image_url": "https://i.guim.co.uk/img/media/447640957b482ce8438c953a29ba9af0b20802d3/410_0_4108_3288/master/4108.jpg?width=140&quality=85&auto=format&fit=max&s=e05a0db8d1e2d68aa19134d6e21f1e5f",
       "summary": "PFAS levels in northern gannet eggs in Canada' Levels of Pfas in northern gannet eggs in Canada fell up to 74% over 55-year period of studyLevels of some of the most dangerous Pfas compounds have dramatically fallen in Canadian seabird eggs, which the authors of a new peer-reviewed study say illustrates how regulations are effective. Researchers looked at Pfas levels in the eggs of northern gannets in the St Lawrence Seaway basin over a 55-year.",
       "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Hantavirus-hit ship evacuation completed as quarantines begin",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167487",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-11T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/11-05-2026-WHO-Hantavirus.jpg/image560x340cropped.jpg",
+      "summary": "Passengers and crew from the hantavirus-affected cruise ship MV Hondius have disembarked in Tenerife. The World Health Organization called the evacuation a \"triumph of solidarity.\" The passengers and crew have disembarked from the hantavirus-hit cruise ship MV Hondius in Tenerife and many have returned to their home countries, as the UN World Health Organization (WHO) said the operation demonstrated a “triumph of solidarity”.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UN launches major Nairobi expansion as Guterres highlights Africa’s growing global role",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167486",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-11T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/11-05-2026-UN-Nairobi-Guterres-02.jpg/image560x340cropped.jpg",
+      "summary": "The United Nations launched a major expansion of its Nairobi headquarters. Secretary-General António Guterres and Kenyan President William Ruto marked the milestone for UN presence in Africa. The United Nations on Monday launched a major expansion of its Nairobi headquarters, with Secretary-General António Guterres and Kenyan President William Ruto marking what officials described as a significant milestone for the Organization’s presence in Africa.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -165,451 +225,468 @@
       "translations": {}
     },
     {
-      "title": "शेयर बाजार में कमजोरी का सिलसिला बरकरार; सेंसेक्स 400 अंक गिरा, निफ्टी 23750 से फिसला",
-      "url": "https://www.amarujala.com/business/business-diary/sensex-closing-bell-share-market-closing-sensex-nifty-share-market-news-and-updates-2026-05-12",
+      "title": "सीएम विजय का बड़ा एक्शन, बंद करवा दी शराब की दुकाने",
+      "url": "https://www.amarujala.com/video/india-news/cm-vijay-thalapathy-takes-action-on-tamil-nadu-liquor-shop-closure-order-2026-05-12",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-12T03:59:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/22/share-market-sensex-nifty_6673ed3c47f7273c291045e0f9485834.jpeg?w=750&dpr=1.0",
-      "summary": "भारतीय शेयर बाजार में गिरावट जारी रही. बॉम्बे स्टॉक एक्सचेंज का सेंसेक्स 400 अंक गिरकर 77,000 के स्तर पर आ गया. नेशनल स्टॉक एक्सचेंज का निफ्टी 23,750 के स्तर से नीचे फिसल गया. यह गिरावट वैश्विक बाजारों में अनिश्चितता और घरेलू संस्थागत निवेशकों की बिकवाली के कारण हुई.",
+      "published_at": "2026-05-12T06:40:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/thalapathy-vijay_800ce855776f410e76fff1dbfcdd8e3c.jpeg?w=750&dpr=1.0",
+      "summary": "तमिलनाडु के मुख्यमंत्री थलपति विजय ने 717 शराब की दुकानों को बंद करने का आदेश दिया है। यह कदम उनके चुनावी वादे को पूरा करने की दिशा में उठाया गया है। इन दुकानों को तत्काल प्रभाव से बंद कर दिया जाएगा। तमिलनाडु के नए मुख्यमंत्री थलपति विजय ने बड़ा आदेश दिया है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "शेयर बाजार में कमजोरी का सिलसिला बरकरार; सेंसेक्स 400 अंक गिरा, निफ्टी 23750 से फिसला",
-          "summary": "भारतीय शेयर बाजार में गिरावट जारी रही. बॉम्बे स्टॉक एक्सचेंज का सेंसेक्स 400 अंक गिरकर 77,000 के स्तर पर आ गया. नेशनल स्टॉक एक्सचेंज का निफ्टी 23,750 के स्तर से नीचे फिसल गया. यह गिरावट वैश्विक बाजारों में अनिश्चितता और घरेलू संस्थागत निवेशकों की बिकवाली के कारण हुई.",
+          "title": "सीएम विजय का बड़ा एक्शन, बंद करवा दी शराब की दुकाने",
+          "summary": "तमिलनाडु के मुख्यमंत्री थलपति विजय ने 717 शराब की दुकानों को बंद करने का आदेश दिया है। यह कदम उनके चुनावी वादे को पूरा करने की दिशा में उठाया गया है। इन दुकानों को तत्काल प्रभाव से बंद कर दिया जाएगा। तमिलनाडु के नए मुख्यमंत्री थलपति विजय ने बड़ा आदेश दिया है।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "शपथ ग्रहण समारोह की तैयारी, कई राज्यों के मुख्यमंत्री गुवाहाटी पहुंचे; पीएम भी होंगे शामिल",
-      "url": "https://www.amarujala.com/india-news/himanta-biswa-sarma-oath-live-assam-chief-minister-swearing-in-ceremony-bjp-govt-formation-news-in-hindi-2026-05-12",
-      "source": "Amar Ujala Breaking",
+      "title": "Himanta Biswa Sarma ने ली CM पद की शपथ, पीएम मोदी भी मौजूद",
+      "url": "https://www.amarujala.com/video/india-news/assam-cm-oath-ceremony-himanta-biswa-sarma-took-oath-as-cm-pm-modi-also-present-assam-new-cm-2026-05-12",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-12T03:50:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/asama-makhayamatara-shapatha-garahanae-samaraha-2026_bd7ba07ab8576e04658fffeeb6489502.jpeg?w=750&dpr=1.0",
+      "published_at": "2026-05-12T06:36:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/assam_b390c441b6bc8f2056d6310f0878eebc.jpeg?w=750&dpr=1.0",
+      "summary": "हिमंता बिस्वा सरमा ने असम के मुख्यमंत्री पद की शपथ ली। प्रधानमंत्री नरेंद्र मोदी भी इस समारोह में मौजूद थे। सरमा को भारतीय जनता पार्टी ने मुख्यमंत्री पद के लिए चुना था।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Himanta Biswa Sarma ने ली CM पद की शपथ, पीएम मोदी भी मौजूद",
+          "summary": "हिमंता बिस्वा सरमा ने असम के मुख्यमंत्री पद की शपथ ली। प्रधानमंत्री नरेंद्र मोदी भी इस समारोह में मौजूद थे। सरमा को भारतीय जनता पार्टी ने मुख्यमंत्री पद के लिए चुना था।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हिमंत के साथ चार मंत्रियों ने ली शपथ, सीएम की नई टीम तैयार, स्पीकर के नाम का भी हुआ एलान",
+      "url": "https://www.amarujala.com/india-news/assam-new-government-swearing-in-ceremony-cabinet-ministers-list-chief-minister-himanta-biswa-sarma-2026-05-11",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-12T06:28:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/20/himanta-biswa-sarma-roadshow_4a8ad56e2371938fa7ea89acaa2d7e0c.gif?w=750&dpr=1.0",
+      "summary": "हिमंत बिस्वा सरमा के साथ चार मंत्रियों ने असम में शपथ ली। सीएम की नई टीम तैयार हो गई है। स्पीकर के नाम का भी एलान हुआ है। हिमंत के साथ चार मंत्रियों ने ली शपथ, सीएम की नई टीम तैयार, स्पीकर के नाम का भी हुआ एलान।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिमंत के साथ चार मंत्रियों ने ली शपथ, सीएम की नई टीम तैयार, स्पीकर के नाम का भी हुआ एलान",
+          "summary": "हिमंत बिस्वा सरमा के साथ चार मंत्रियों ने असम में शपथ ली। सीएम की नई टीम तैयार हो गई है। स्पीकर के नाम का भी एलान हुआ है। हिमंत के साथ चार मंत्रियों ने ली शपथ, सीएम की नई टीम तैयार, स्पीकर के नाम का भी हुआ एलान।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "16 मई को वट सावित्री व्रत, जानें किस समय होगी पूजा और क्या रहेगी विधि",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/vat-savitri-vrat-2026-date-and-subh-muhurat-puja-vidhi-know-kab-hai-vat-savitri-vrat-2026-05-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-12T06:28:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/vat-savitri-vrat-2026_8d5055e5686823449679c2fb3845696d.jpeg?w=750&dpr=1.0",
+      "summary": "16 मई को वट सावित्री व्रत है। वट वृक्ष की पूजा को पुण्यदायी माना जाता है। इस दिन पूजा करने से पति की आयु लंबी होती है और वैवाहिक जीवन में प्रेम व सौभाग्य बना रहता है। Vat Savitri Vrat 2026: वट सावित्री व्रत में वट वृक्ष की पूजा को बेहद पुण्यदायी माना जाता है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "16 मई को वट सावित्री व्रत, जानें किस समय होगी पूजा और क्या रहेगी विधि",
+          "summary": "16 मई को वट सावित्री व्रत है। वट वृक्ष की पूजा को पुण्यदायी माना जाता है। इस दिन पूजा करने से पति की आयु लंबी होती है और वैवाहिक जीवन में प्रेम व सौभाग्य बना रहता है। Vat Savitri Vrat 2026: वट सावित्री व्रत में वट वृक्ष की पूजा को बेहद पुण्यदायी माना जाता है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "क्या ट्रंप के दबाव का पड़ा असर?: ब्रिटेन ने ईरान के प्रॉक्सी नेटवर्क पर लगाया प्रतिबंध, बताई ये वजह",
+      "url": "https://www.amarujala.com/world/uk-imposes-new-sanctions-on-iran-proxy-networks-strait-of-hormuz-global-security-concerns-west-asia-crisis-2026-05-12",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-12T06:23:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/25/bratana_354c14962fbff4db9963f9bd8890142d.jpeg?w=750&dpr=1.0",
+      "summary": "ब्रिटेन ने ईरान के प्रॉक्सी नेटवर्क पर प्रतिबंध लगाए हैं। यह फैसला होरमुज़ जलडमरूमध्य की सुरक्षा चिंताओं के बीच आया है। ब्रिटेन ने कहा है कि यह कदम पश्चिम एशिया में स्थिरता बढ़ाने के लिए उठाया गया है। क्या ट्रंप के दबाव का पड़ा असर?: ब्रिटेन ने ईरान के प्रॉक्सी नेटवर्क पर लगाया प्रतिबंध, बताई ये वजह।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या ट्रंप के दबाव का पड़ा असर?: ब्रिटेन ने ईरान के प्रॉक्सी नेटवर्क पर लगाया प्रतिबंध, बताई ये वजह",
+          "summary": "ब्रिटेन ने ईरान के प्रॉक्सी नेटवर्क पर प्रतिबंध लगाए हैं। यह फैसला होरमुज़ जलडमरूमध्य की सुरक्षा चिंताओं के बीच आया है। ब्रिटेन ने कहा है कि यह कदम पश्चिम एशिया में स्थिरता बढ़ाने के लिए उठाया गया है। क्या ट्रंप के दबाव का पड़ा असर?: ब्रिटेन ने ईरान के प्रॉक्सी नेटवर्क पर लगाया प्रतिबंध, बताई ये वजह।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न",
+      "url": "https://www.amarujala.com/india-news/sanatan-should-be-eradicated-udhayanidhi-stalin-once-again-attacks-2026-05-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-12T06:22:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/21/udayanidhi-stalin_bf942369377991a02d24507e2de4f1f7.jpeg?w=750&dpr=1.0",
+      "summary": "उदयनिधि ने सनातन को समाज को बांटने वाली सोच कहा। 'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न",
+          "summary": "उदयनिधि ने सनातन को समाज को बांटने वाली सोच कहा। 'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हिमंत बिस्व सरमा लगातार दूसरी बार बने असम के सीएम; चार नवनिर्वाचित विधायक मंत्री बने",
+      "url": "https://www.amarujala.com/india-news/himanta-biswa-sarma-oath-live-assam-chief-minister-swearing-in-ceremony-bjp-govt-formation-news-in-hindi-2026-05-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-12T06:21:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/makhayamatara-patha-ka-shapatha-lna-ka-btha-paema-matha-ka-satha-hamata-bsava-sarama_e7c4359c56651d962d211c228d2b9c1c.jpeg?w=750&dpr=1.0",
       "summary": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा दूसरी बार पद की शपथ लेंगे। गुवाहाटी में एक भव्य समारोह आयोजित किया जा रहा है। यह समारोह उनके नेतृत्व और राज्य की राजनीतिक स्थिति को दर्शाता है। Assam CM Oath LIVE: हिमंत बिस्वा सरमा दूसरी बार संभालेंगे कमान, गुवाहाटी में भव्य शपथ ग्रहण समारोह की तैयारी।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "शपथ ग्रहण समारोह की तैयारी, कई राज्यों के मुख्यमंत्री गुवाहाटी पहुंचे; पीएम भी होंगे शामिल",
+          "title": "हिमंत बिस्व सरमा लगातार दूसरी बार बने असम के सीएम; चार नवनिर्वाचित विधायक मंत्री बने",
           "summary": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा दूसरी बार पद की शपथ लेंगे। गुवाहाटी में एक भव्य समारोह आयोजित किया जा रहा है। यह समारोह उनके नेतृत्व और राज्य की राजनीतिक स्थिति को दर्शाता है। Assam CM Oath LIVE: हिमंत बिस्वा सरमा दूसरी बार संभालेंगे कमान, गुवाहाटी में भव्य शपथ ग्रहण समारोह की तैयारी।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "तमिलनाडु में विजय सरकार का बड़ा एक्शन: स्कूलों-पूजा स्थलों के पास की 717 शराब दुकानें होंगी बंद",
-      "url": "https://www.amarujala.com/india-news/tamil-nadu-cm-c-joseph-vijay-orders-closure-of-717-tasmac-liquor-shops-near-public-places-2026-05-12",
+      "title": "दुनिया का अनोखा शहर जहां सूरज भूल जाता है ब्रेक लेना, कई हफ्तों तक नहीं होती रात",
+      "url": "https://www.amarujala.com/photo-gallery/bizarre-news/city-where-sun-does-not-set-midnight-sun-alaska-story-tourist-attraction-no-darkness-2026-05-12",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-12T03:46:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/10/vijay_859d8c15be1c4cd546c0ce52ed310621.jpeg?w=750&dpr=1.0",
-      "summary": "तमिलनाडु के मुख्यमंत्री एम. के. स्टालिन ने 717 टीएएसएमएसी शराब की दुकानों को बंद करने का आदेश दिया है। ये दुकानें स्कूलों और पूजा स्थलों के 100 मीटर के दायरे में स्थित हैं। यह निर्णय सार्वजनिक स्थानों के पास शराब की उपलब्धता को कम करने के प्रयास का हिस्सा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तमिलनाडु में विजय सरकार का बड़ा एक्शन: स्कूलों-पूजा स्थलों के पास की 717 शराब दुकानें होंगी बंद",
-          "summary": "तमिलनाडु के मुख्यमंत्री एम. के. स्टालिन ने 717 टीएएसएमएसी शराब की दुकानों को बंद करने का आदेश दिया है। ये दुकानें स्कूलों और पूजा स्थलों के 100 मीटर के दायरे में स्थित हैं। यह निर्णय सार्वजनिक स्थानों के पास शराब की उपलब्धता को कम करने के प्रयास का हिस्सा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "यूरोप की नई टी20 लीग में भारतीय जलवा; राहुल द्रविड़ बने टीम मालिक, अश्विन संभालेंगे कप्तानी",
-      "url": "https://www.amarujala.com/cricket/rahul-dravid-buys-dublin-franchise-in-etpl-ravichandran-ashwin-named-captain-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T03:45:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/rahul-dravid-ravichandran-ashwin-etpl-european-t20-premier-league-dublin-guardians-cricket-euro_7e84d47c3aa5170fd1154344c3822128.jpeg?w=750&dpr=1.0",
-      "summary": "राहुल द्रविड़ यूरोपियन टी20 प्रीमियर लीग में डबलिन गार्डियंस के मालिक बन गए हैं। रविचंद्रन अश्विन को इसी टीम का कप्तान नियुक्त किया गया है। यह लीग यूरोपीय क्रिकेट में एक नया अध्याय शुरू कर रही है। यूरोपियन टी20 प्रीमियर लीग (ETPL) के आगाज से पहले भारतीय क्रिकेट के दो बड़े नाम चर्चा में हैं।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूरोप की नई टी20 लीग में भारतीय जलवा; राहुल द्रविड़ बने टीम मालिक, अश्विन संभालेंगे कप्तानी",
-          "summary": "राहुल द्रविड़ यूरोपियन टी20 प्रीमियर लीग में डबलिन गार्डियंस के मालिक बन गए हैं। रविचंद्रन अश्विन को इसी टीम का कप्तान नियुक्त किया गया है। यह लीग यूरोपीय क्रिकेट में एक नया अध्याय शुरू कर रही है। यूरोपियन टी20 प्रीमियर लीग (ETPL) के आगाज से पहले भारतीय क्रिकेट के दो बड़े नाम चर्चा में हैं।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मौनी रॉय का होने वाला है तलाक? पति सूरज नांबियार से अलग होने की चर्चाएं; क्यों लग रहे ये कयास; फैंस",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/all-is-not-well-between-mouni-roy-and-husband-suraj-nambiar-both-unfollow-each-other-deleted-wedding-photos-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T03:41:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/mana-raya-oura-saraja-nabyara_898a31c4ca0d73274e7f37991366091c.jpeg?w=750&dpr=1.0",
-      "summary": "अभिनेत्री मौनी रॉय और उनके पति सूरज नांबियार के Mouni Roy: मौनी रॉय की शादी में सबकुछ ठीक नहीं चल रहा है। क्या वो जल्द ही अपने पति से सूरज नांबियार से तलाक लेने वाली हैं? जानिए आखिर क्यों हो रहीं ऐसी चर्चाएं और क्या है सच्चाई.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मौनी रॉय का होने वाला है तलाक? पति सूरज नांबियार से अलग होने की चर्चाएं; क्यों लग रहे ये कयास; फैंस",
-          "summary": "अभिनेत्री मौनी रॉय और उनके पति सूरज नांबियार के Mouni Roy: मौनी रॉय की शादी में सबकुछ ठीक नहीं चल रहा है। क्या वो जल्द ही अपने पति से सूरज नांबियार से तलाक लेने वाली हैं? जानिए आखिर क्यों हो रहीं ऐसी चर्चाएं और क्या है सच्चाई.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "केरल के मुख्यमंत्री पर कब लगेगी मुहर?: आज दिल्ली में कांग्रेस की बड़ी बैठक; जल्द हो सकता है एलान",
-      "url": "https://www.amarujala.com/india-news/when-will-the-kerala-chief-minister-be-finalized-a-major-congress-meeting-is-scheduled-for-delhi-today-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T03:27:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/karal_61082d0d4fb631e4a1280d365236882e.jpeg?w=750&dpr=1.0",
-      "summary": "नई दिल्ली में कांग्रेस की बैठक में केरल के मुख्यमंत्री के नाम पर मुहर लग सकती है। पार्टी आलाकमान ने इस संबंध में अंतिम निर्णय लेने के लिए चर्चा की। जल्द ही नए मुख्यमंत्री के नाम का एलान होने की उम्मीद है। केरल के मुख्यमंत्री पर कब लगेगी मुहर?: आज दिल्ली में कांग्रेस की बड़ी बैठक; जल्द हो सकता है एलान, जानें सबकुछ।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केरल के मुख्यमंत्री पर कब लगेगी मुहर?: आज दिल्ली में कांग्रेस की बड़ी बैठक; जल्द हो सकता है एलान",
-          "summary": "नई दिल्ली में कांग्रेस की बैठक में केरल के मुख्यमंत्री के नाम पर मुहर लग सकती है। पार्टी आलाकमान ने इस संबंध में अंतिम निर्णय लेने के लिए चर्चा की। जल्द ही नए मुख्यमंत्री के नाम का एलान होने की उम्मीद है। केरल के मुख्यमंत्री पर कब लगेगी मुहर?: आज दिल्ली में कांग्रेस की बड़ी बैठक; जल्द हो सकता है एलान, जानें सबकुछ।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मुख्य निर्वाचन अधिकारी रहे मनोज अग्रवाल को मुख्य सचिव बनाने पर उठ रहे हैं सवाल",
-      "url": "https://www.bbc.com/hindi/articles/c74dzze8pyko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-12T03:25:51+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a1e1/live/ae6f5230-4db0-11f1-bd30-a574c830d75d.jpg",
-      "summary": "पश्चिम बंगाल में मुख्य निर्वाचन अधिकारी मनोज अग्रवाल को मुख्य सचिव नियुक्त करने पर सवाल उठ रहे हैं। उनके कार्यकाल में 91 लाख मतदाताओं के नाम मतदाता सूची से हटा दिए गए थे। मनोज अग्रवाल के कार्यकाल के दौरान पश्चिम बंगाल में स्पेशल इंटेसिव रिविजन यानी एसआईआर अभियान चलाया गया, जिसमें लगभग 91 लाख मतदाताओं के नाम मतदाता सूची से हटाए गए.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुख्य निर्वाचन अधिकारी रहे मनोज अग्रवाल को मुख्य सचिव बनाने पर उठ रहे हैं सवाल",
-          "summary": "पश्चिम बंगाल में मुख्य निर्वाचन अधिकारी मनोज अग्रवाल को मुख्य सचिव नियुक्त करने पर सवाल उठ रहे हैं। उनके कार्यकाल में 91 लाख मतदाताओं के नाम मतदाता सूची से हटा दिए गए थे। मनोज अग्रवाल के कार्यकाल के दौरान पश्चिम बंगाल में स्पेशल इंटेसिव रिविजन यानी एसआईआर अभियान चलाया गया, जिसमें लगभग 91 लाख मतदाताओं के नाम मतदाता सूची से हटाए गए.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पश्चिम एशिया संकट भारत की कूटनीति के लिए एक बड़ी परीक्षा क्यों?",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWVuNUdZUkhKMTlZOG5FX0EtT3hReDJrZHhuTkFMWGczenotWXhHWUhZcmFrc1FSYnBGOEdCdzVWa1VGY2ExcGozVkpFbENPUmxVY1R0M250UjRYYUN5T1VPNVBnZElNdHZEMTFyMFh6bWJvcllydXhNdFFiLXBMOGhTWkZ0MGg4NzhpY1hfQ25ERDFaUW5OZTk2NXpqUnpMNHFKMEQ0TlFWb1REY2JVMXdfZw?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-12T03:04:19+00:00",
-      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "पश्चिम एशिया में चल रहा संकट भारत के लिए एक महत्वपूर्ण कूटनीतिक चुनौती पेश कर रहा है। यह क्षेत्र भारत के लिए सामरिक रूप से महत्वपूर्ण है। Explainer: पश्चिम एशिया संकट भारत की कूटनीति के लिए एक बड़ी परीक्षा क्यों? NDTV. in।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पश्चिम एशिया संकट भारत की कूटनीति के लिए एक बड़ी परीक्षा क्यों?",
-          "summary": "पश्चिम एशिया में चल रहा संकट भारत के लिए एक महत्वपूर्ण कूटनीतिक चुनौती पेश कर रहा है। यह क्षेत्र भारत के लिए सामरिक रूप से महत्वपूर्ण है। Explainer: पश्चिम एशिया संकट भारत की कूटनीति के लिए एक बड़ी परीक्षा क्यों? NDTV. in।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मंत्री-विधायक और कई बड़े नेताओं संग माफिया से संपर्क; बंगाल सीएम के PA की हत्या में गिरफ्तार राज की",
-      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/ballia/bengal-cm-suvendu-adhikari-pa-murder-raj-singh-has-connections-with-numerous-leaders-and-members-of-mafia-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T03:01:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/suvendu-adhikari-pa-murder_c842d23e2e5ddd9cab5d551b9f9dd685.jpeg?w=750&dpr=1.0",
-      "summary": "पश्चिम बंगाल के मुख्यमंत्री के निजी सहायक की हत्या के आरोप में गिरफ्तार राज सिंह के माफिया से संबंध सामने आए हैं। वह मंत्री-विधायकों और बड़े नेताओं के संपर्क में था। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी के निजी सहायक चंद्रनाथ रथ की हत्या के मामले में अयोध्या से गिरफ्तार राज सिंह खुद को लेकर चौंकाने वाली जानकारी सामने आई है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मंत्री-विधायक और कई बड़े नेताओं संग माफिया से संपर्क; बंगाल सीएम के PA की हत्या में गिरफ्तार राज की",
-          "summary": "पश्चिम बंगाल के मुख्यमंत्री के निजी सहायक की हत्या के आरोप में गिरफ्तार राज सिंह के माफिया से संबंध सामने आए हैं। वह मंत्री-विधायकों और बड़े नेताओं के संपर्क में था। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी के निजी सहायक चंद्रनाथ रथ की हत्या के मामले में अयोध्या से गिरफ्तार राज सिंह खुद को लेकर चौंकाने वाली जानकारी सामने आई है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "चीन के लिए जासूसी कर रहीं थी कैलिफोर्निया शहर की मेयर, FBI की जांच में चौंकाने वाले खुलासे",
-      "url": "https://www.amarujala.com/world/fbi-charges-arcadia-mayor-eileen-wang-as-chinese-agent-california-espionage-case-us-national-security-2026-05-12",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-12T02:57:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/kalfaranaya-ka-mayara-aailna-vaga_d7fe8434665c805b46844a187a2e7b53.jpeg?w=750&dpr=1.0",
-      "summary": "कैलिफोर्निया के आर्केडिया शहर की मेयर ईलीन वांग पर एफबीआई ने चीन के लिए जासूसी करने का आरोप लगाया है। यह मामला राष्ट्रीय सुरक्षा से जुड़ा है। चीन के लिए जासूसी कर रहीं थी कैलिफोर्निया शहर की मेयर, FBI की जांच में चौंकाने वाले खुलासे।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन के लिए जासूसी कर रहीं थी कैलिफोर्निया शहर की मेयर, FBI की जांच में चौंकाने वाले खुलासे",
-          "summary": "कैलिफोर्निया के आर्केडिया शहर की मेयर ईलीन वांग पर एफबीआई ने चीन के लिए जासूसी करने का आरोप लगाया है। यह मामला राष्ट्रीय सुरक्षा से जुड़ा है। चीन के लिए जासूसी कर रहीं थी कैलिफोर्निया शहर की मेयर, FBI की जांच में चौंकाने वाले खुलासे।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी पर सपा सांसद की टिप्पणी पर भड़के सीएम योगी, बोले- ये न केवल अशोभनीय, बल्कि वैचारिक",
-      "url": "https://www.amarujala.com/lucknow/cm-yogi-says-this-is-ideological-bankruptcy-on-sp-mp-remarks-regarding-pm-modi-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T02:53:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/30/vathhanasabha-sathana-ma-saema-yaga_6929b4a17215fa7478f06a1d0287c8ec.jpeg?w=750&dpr=1.0",
-      "summary": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने सपा सांसद द्वारा प्रधानमंत्री मोदी पर की गई टिप्पणी की निंदा की। उन्होंने इसे अशोभनीय और वैचारिक रूप से गलत बताया। उत्तर प्रदेश में सपा सांसद अजेंद्र सिंह लोधी द्वारा पीएम मोदी पर की गई अमर्यादित टिप्पणी पर सीएम योगी आदित्यनाथ भड़क गए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी पर सपा सांसद की टिप्पणी पर भड़के सीएम योगी, बोले- ये न केवल अशोभनीय, बल्कि वैचारिक",
-          "summary": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने सपा सांसद द्वारा प्रधानमंत्री मोदी पर की गई टिप्पणी की निंदा की। उन्होंने इसे अशोभनीय और वैचारिक रूप से गलत बताया। उत्तर प्रदेश में सपा सांसद अजेंद्र सिंह लोधी द्वारा पीएम मोदी पर की गई अमर्यादित टिप्पणी पर सीएम योगी आदित्यनाथ भड़क गए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बंगाल के लोगों ने बदलाव को चुना है: कभी नवजागरण की दिशा दिखाई, अब सत्ता परिवर्तन के साथ नई उम्मीदें",
-      "url": "https://www.amarujala.com/columns/opinion/people-of-bengal-have-chosen-change-once-guiding-a-renaissance-now-raising-new-hopes-with-a-change-in-power-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T02:51:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/18/mamata-banerjee_a44ebc4ef1c15e85221eda7c1833eb2a.jpeg?w=750&dpr=1.0",
-      "summary": "बंगाल के लोगों ने बदलाव को चुना है और नई उम्मीदें जगाई हैं। बंगाल के लोगों ने बदलाव को चुना है: कभी नवजागरण की दिशा दिखाई, अब सत्ता परिवर्तन के साथ नई उम्मीदें।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बंगाल के लोगों ने बदलाव को चुना है: कभी नवजागरण की दिशा दिखाई, अब सत्ता परिवर्तन के साथ नई उम्मीदें",
-          "summary": "बंगाल के लोगों ने बदलाव को चुना है और नई उम्मीदें जगाई हैं। बंगाल के लोगों ने बदलाव को चुना है: कभी नवजागरण की दिशा दिखाई, अब सत्ता परिवर्तन के साथ नई उम्मीदें।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अब बाजार का अनुभव बदल गया है; घर पर मिनटों में पहुंच रहा जरूरी सामान",
-      "url": "https://www.amarujala.com/columns/opinion/commerce-the-market-experience-has-changed-essential-goods-are-delivered-to-homes-within-minutes-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T02:50:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/1_9e808df252e8d4988b3afcb99ef3fb33.jpeg?w=750&dpr=1.0",
-      "summary": "घर पर मिनटों में जरूरी सामान पहुंच रहा है और बाजार का अनुभव बदल गया है। अब बाजार का अनुभव बदल गया है; घर पर मिनटों में पहुंच रहा जरूरी सामान।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब बाजार का अनुभव बदल गया है; घर पर मिनटों में पहुंच रहा जरूरी सामान",
-          "summary": "घर पर मिनटों में जरूरी सामान पहुंच रहा है और बाजार का अनुभव बदल गया है। अब बाजार का अनुभव बदल गया है; घर पर मिनटों में पहुंच रहा जरूरी सामान।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "वीकेंड के बाद क्या रहा ‘कृष्णावतारम’ और ‘दादी की शादी’ का हाल? जानें ‘राजा शिवाजी’ समेत बाकी",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/box-office-collection-krishnavataram-part-1-vs-daadi-ki-shaadi-raja-shivaji-bhooth-bangla-dhurandhar-2-ek-din-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T02:48:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/bkasa-oifasa-kalkashana_9a4d3b64484766aa5073e55e64151fac.jpeg?w=750&dpr=1.0",
-      "summary": "‘कृष्णावतारम’ और ‘दादी की शादी’ का सोमवार को सिनेमाघरों में प्रदर्शन हुआ। Box Office Collection: सिनेमाघरों में बनीं ‘कृष्णावतारम’, ‘दादी की शादी’ और ‘राजा शिवाजी’ का सोमवार को कैसा रहा प्रदर्शन और हुई कितनी कमाई? यहां जानें बॉक्स ऑफिस की पूरी रिपोर्ट। वीकेंड के बाद क्या रहा ‘कृष्णावतारम’ और ‘दादी की शादी’ का हाल?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वीकेंड के बाद क्या रहा ‘कृष्णावतारम’ और ‘दादी की शादी’ का हाल? जानें ‘राजा शिवाजी’ समेत बाकी",
-          "summary": "‘कृष्णावतारम’ और ‘दादी की शादी’ का सोमवार को सिनेमाघरों में प्रदर्शन हुआ। Box Office Collection: सिनेमाघरों में बनीं ‘कृष्णावतारम’, ‘दादी की शादी’ और ‘राजा शिवाजी’ का सोमवार को कैसा रहा प्रदर्शन और हुई कितनी कमाई? यहां जानें बॉक्स ऑफिस की पूरी रिपोर्ट। वीकेंड के बाद क्या रहा ‘कृष्णावतारम’ और ‘दादी की शादी’ का हाल?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या वाकई फल और सब्जियों में कैंसर छिपा है",
-      "url": "https://www.amarujala.com/columns/blog/other-perspective-are-fruits-and-vegetables-causing-cancer-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T02:46:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/04/vatamana-sa-sa-bharapara-fal-oura-sabjaya_e60eae670e0b83b2d297d7cfd631af8d.jpeg?w=750&dpr=1.0",
-      "summary": "फल और सब्जियों में कैंसर होने की बात कही जा रही है। दूसरा पहलू: क्या वाकई फल और सब्जियों में कैंसर छिपा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या वाकई फल और सब्जियों में कैंसर छिपा है",
-          "summary": "फल और सब्जियों में कैंसर होने की बात कही जा रही है। दूसरा पहलू: क्या वाकई फल और सब्जियों में कैंसर छिपा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "स्वार्थ और सुख एक साथ नहीं रह सकते",
-      "url": "https://www.amarujala.com/columns/blog/jeevan-dhara-selfishness-and-happiness-cannot-coexist-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T02:40:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/1_e18a8b9d8f4ed19fa79ef9e395c8effd.jpeg?w=750&dpr=1.0",
-      "summary": "हैं। जीवन धारा: स्वार्थ और सुख एक साथ नहीं रह सकते।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्वार्थ और सुख एक साथ नहीं रह सकते",
-          "summary": "हैं। जीवन धारा: स्वार्थ और सुख एक साथ नहीं रह सकते।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शिक्षा के असल उद्देश्य तभी पूरे होंगे, जब बीच में स्कूल छोड़ने पर मजबूर न हों बच्चे",
-      "url": "https://www.amarujala.com/columns/opinion/true-objectives-of-education-will-be-achieved-only-when-children-are-not-forced-to-drop-out-of-school-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T02:37:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/1_3a607bba279c678c2a2f5966b09bc380.jpeg?w=750&dpr=1.0",
-      "summary": "शिक्षा के असल उद्देश्य तभी पूरे होंगे जब बच्चे स्कूल छोड़ने पर मजबूर न हों. शिक्षा के असल उद्देश्य तभी पूरे होंगे, जब बीच में स्कूल छोड़ने पर मजबूर न हों बच्चे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शिक्षा के असल उद्देश्य तभी पूरे होंगे, जब बीच में स्कूल छोड़ने पर मजबूर न हों बच्चे",
-          "summary": "शिक्षा के असल उद्देश्य तभी पूरे होंगे जब बच्चे स्कूल छोड़ने पर मजबूर न हों. शिक्षा के असल उद्देश्य तभी पूरे होंगे, जब बीच में स्कूल छोड़ने पर मजबूर न हों बच्चे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अफ्रीका शिखर सम्मेलन में बिना बुलाए मंच पर पहुंचे मैक्रों, अपमान पर भड़के; लोगों को लगा दी डांट",
-      "url": "https://www.amarujala.com/world/france-president-emmanuel-macron-scold-crowd-in-africa-summit-for-lack-of-respect-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T02:35:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/france-emmanuel-macron_aeefa2ea23e452b3f7a6273d01bc87e3.jpeg?w=750&dpr=1.0",
-      "summary": "अफ्रीका शिखर सम्मेलन में फ्रांस के राष्ट्रपति मैक्रों मंच पर पहुंचे और अपमान पर भड़के. अफ्रीका शिखर सम्मेलन में बिना बुलाए मंच पर पहुंचे मैक्रों, अपमान पर भड़के; लोगों को लगा दी डांट।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अफ्रीका शिखर सम्मेलन में बिना बुलाए मंच पर पहुंचे मैक्रों, अपमान पर भड़के; लोगों को लगा दी डांट",
-          "summary": "अफ्रीका शिखर सम्मेलन में फ्रांस के राष्ट्रपति मैक्रों मंच पर पहुंचे और अपमान पर भड़के. अफ्रीका शिखर सम्मेलन में बिना बुलाए मंच पर पहुंचे मैक्रों, अपमान पर भड़के; लोगों को लगा दी डांट।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "की ये गलती तो कंफर्म ट्रेन टिकट के बाद भी लग सकता है जुर्माना, महिला को भरने पड़े ₹2560; नियम जानें",
-      "url": "https://www.amarujala.com/photo-gallery/utility/indian-railways-rules-woman-fined-rs-2560-for-having-confirmed-train-ticket-check-railway-rules-2026-05-11",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T02:33:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/bradaga-satashana-bthalna-para-kaya-jaramana-lga-sakata-ha_6f3924bfdf482b1aeb73055658fc6b92.jpeg?w=750&dpr=1.0",
-      "summary": "कंफर्म ट्रेन टिकट के बाद भी एक छोटी सी गलती जुर्माना लगा सकती है, एक महिला को 2560 रुपये भरने पड़े. क्या आप जानते हैं कि आपके पास कंफर्म ट्रेन टिकट है, लेकिन आपकी एक छोटी सी गलती आपसे आपकी सीट छीन सकती है? चलिए जानते हैं ये गलती क्या है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "की ये गलती तो कंफर्म ट्रेन टिकट के बाद भी लग सकता है जुर्माना, महिला को भरने पड़े ₹2560; नियम जानें",
-          "summary": "कंफर्म ट्रेन टिकट के बाद भी एक छोटी सी गलती जुर्माना लगा सकती है, एक महिला को 2560 रुपये भरने पड़े. क्या आप जानते हैं कि आपके पास कंफर्म ट्रेन टिकट है, लेकिन आपकी एक छोटी सी गलती आपसे आपकी सीट छीन सकती है? चलिए जानते हैं ये गलती क्या है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पेट्रोल बचाने, सोना नहीं खरीदने की अपील के बाद प्रधानमंत्री मोदी पर उठ रहे हैं ये सवाल",
-      "url": "https://www.bbc.com/hindi/articles/cgqp7vxjedxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-12T02:32:21+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a34f/live/063f1e00-4d9d-11f1-9784-7393ddbc41db.jpg",
-      "summary": "प्रधानमंत्री मोदी ने पेट्रोल बचाने और सोना नहीं खरीदने की अपील की है, जिसके बाद उन पर सवाल उठ रहे हैं. तेल की बचत, सोना अस्थाई रूप से नहीं खरीदने, वर्क फ्रॉम होम और डेस्टिनेशन वेडिंग से बचने की प्रधानमंत्री की अपील को कई लोग संभावित आर्थिक संकट के संकेत के रूप में देख रहे हैं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पेट्रोल बचाने, सोना नहीं खरीदने की अपील के बाद प्रधानमंत्री मोदी पर उठ रहे हैं ये सवाल",
-          "summary": "प्रधानमंत्री मोदी ने पेट्रोल बचाने और सोना नहीं खरीदने की अपील की है, जिसके बाद उन पर सवाल उठ रहे हैं. तेल की बचत, सोना अस्थाई रूप से नहीं खरीदने, वर्क फ्रॉम होम और डेस्टिनेशन वेडिंग से बचने की प्रधानमंत्री की अपील को कई लोग संभावित आर्थिक संकट के संकेत के रूप में देख रहे हैं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "एड़ियों में दर्द क्यों होता है?",
-      "url": "https://www.amarujala.com/web-stories/lifestyle/fitness/heel-pain-reason-in-hindi-plantar-fasciitis-ediyo-me-dard-ke-karan-2026-05-11",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T02:30:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/03/diabetic-foot-feet-leg_a89a7f0fcf24b3eb482097c10fef56f7.jpeg?w=750&dpr=1.0",
-      "summary": "एड़ियों में दर्द प्लांटर फैसीआइटिस के कारण होता है, जिसमें एड़ी के नीचे टिशू में सूजन आ जाती है. प्लांटर फैसीआइटिस इस समस्या का सबसे सामान्य कारण है। इसमें एड़ी के नीचे टिशू में सूजन आ जाती है, जिससे सुबह उठते ही एड़ी में तेज दर्द होता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एड़ियों में दर्द क्यों होता है?",
-          "summary": "एड़ियों में दर्द प्लांटर फैसीआइटिस के कारण होता है, जिसमें एड़ी के नीचे टिशू में सूजन आ जाती है. प्लांटर फैसीआइटिस इस समस्या का सबसे सामान्य कारण है। इसमें एड़ी के नीचे टिशू में सूजन आ जाती है, जिससे सुबह उठते ही एड़ी में तेज दर्द होता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गर्म समुद्री पानी तेजी से पिघला रहा बर्फ, स्तर बढ़ने की चेतावनी",
-      "url": "https://www.amarujala.com/world/antarctica-ice-shelf-melting-fast-due-to-trapped-warm-ocean-water-study-2026-05-12",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-12T02:22:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/19/where-photosynthesis-occurs-without-water-plants-and-algae-die-here-but-life-does-not-stop_c198bb5dd33cd4f28cf99ca994d33bd5.jpeg?w=750&dpr=1.0",
-      "summary": "अंटार्कटिका में गर्म समुद्री पानी बर्फ पिघला रहा है, समुद्री स्तर बढ़ने की चेतावनी दी गई है। गर्म समुद्री पानी तेजी से पिघला रहा बर्फ, स्तर बढ़ने की चेतावनी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गर्म समुद्री पानी तेजी से पिघला रहा बर्फ, स्तर बढ़ने की चेतावनी",
-          "summary": "अंटार्कटिका में गर्म समुद्री पानी बर्फ पिघला रहा है, समुद्री स्तर बढ़ने की चेतावनी दी गई है। गर्म समुद्री पानी तेजी से पिघला रहा बर्फ, स्तर बढ़ने की चेतावनी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का दावा- टैरिफ की धमकी से माने देश, प्रवासियों को लेने को हुए तैयार",
-      "url": "https://www.amarujala.com/world/trump-says-tariff-threats-made-countries-accept-deported-migrants-claims-sharp-fall-in-fentanyl-smuggling-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T02:15:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/donald-trump_f49b5121c9fc25412db687dc47c45454.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि टैरिफ की धमकी से देश प्रवासियों को लेने को तैयार हो गए हैं। US: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का दावा- टैरिफ की धमकी से माने देश, प्रवासियों को लेने को हुए तैयार।",
+      "published_at": "2026-05-12T06:19:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/alaska_411ee48ec49b1f76cdf62b061d4f2b10.jpeg?w=750&dpr=1.0",
+      "summary": "अलास्का के उत्कियागविक शहर में कई हफ्तों तक सूरज नहीं डूबता। अमेरिका के अलास्का राज्य में बसा छोटा सा शहर उत्कियागविक अपनी एक खासियत की वजह से जाना जाता है। यहां साल का एक ऐसा समय आता है जब सूरज कई हफ्तों तक डूबता ही नहीं।",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का दावा- टैरिफ की धमकी से माने देश, प्रवासियों को लेने को हुए तैयार",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि टैरिफ की धमकी से देश प्रवासियों को लेने को तैयार हो गए हैं। US: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का दावा- टैरिफ की धमकी से माने देश, प्रवासियों को लेने को हुए तैयार।",
+          "title": "दुनिया का अनोखा शहर जहां सूरज भूल जाता है ब्रेक लेना, कई हफ्तों तक नहीं होती रात",
+          "summary": "अलास्का के उत्कियागविक शहर में कई हफ्तों तक सूरज नहीं डूबता। अमेरिका के अलास्का राज्य में बसा छोटा सा शहर उत्कियागविक अपनी एक खासियत की वजह से जाना जाता है। यहां साल का एक ऐसा समय आता है जब सूरज कई हफ्तों तक डूबता ही नहीं।",
           "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "स्कॉटलैंड में भारतीय ने रचा इतिहास: छात्र वीजा पर पहुंचे क्यू मणिवन्नन बने संसद सदस्य, पहचान पर",
-      "url": "https://www.amarujala.com/world/indian-student-q-manivannan-elected-to-scottish-parliament-msp-controversy-2026-05-12",
-      "source": "Amar Ujala World",
+      "title": "बाल छोटे कराने को लेकर चिंटू ने नाई से कही ऐसी बात, पढिए धमाकेदार चुटकुले",
+      "url": "https://www.amarujala.com/photo-gallery/humour/funny-hindi-jokes-husband-wife-jokes-in-hindi-whatsapp-new-jokes-jija-sali-chutkule-latest-jokes-in-hindi-2026-05-12",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-12T02:07:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/q-manivannan_3538ffd1025f344e6f2f020bba63ccb4.jpeg?w=750&dpr=1.0",
-      "summary": "स्कॉटलैंड में क्यू मणिवन्नन छात्र वीजा पर पहुंचकर संसद सदस्य बने हैं, उनकी पहचान पर बहस छिड़ी है। स्कॉटलैंड में भारतीय ने रचा इतिहास: छात्र वीजा पर पहुंचे क्यू मणिवन्नन बने संसद सदस्य, पहचान पर।",
+      "published_at": "2026-05-12T06:18:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/funny-jokes_2633f40a4f41ecce972f1c776d8e1bf2.jpeg?w=750&dpr=1.0",
+      "summary": "चिंटू ने बाल छोटे कराने को लेकर नाई से मजाक किया। अच्छे खान पान के साथ ही सेहतमंद रहने के लिए हंसना भी बेहद जरूरी है। शरीर को स्वस्थ रखने के लिए हर दिन चाहिए। हंसने से मानसिक तनाव और चिंता हमसे दूर रहती है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बाल छोटे कराने को लेकर चिंटू ने नाई से कही ऐसी बात, पढिए धमाकेदार चुटकुले",
+          "summary": "चिंटू ने बाल छोटे कराने को लेकर नाई से मजाक किया। अच्छे खान पान के साथ ही सेहतमंद रहने के लिए हंसना भी बेहद जरूरी है। शरीर को स्वस्थ रखने के लिए हर दिन चाहिए। हंसने से मानसिक तनाव और चिंता हमसे दूर रहती है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "CM पद की शपथ लेने पहुंचे Himanta Biswa, भीड़ से घिरे",
+      "url": "https://www.amarujala.com/video/india-news/assam-cm-oath-ceremony-himanta-biswa-arrives-to-take-oath-as-cm-surrounded-by-crowd-assam-new-cm-oath-2026-05-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-12T06:14:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/assam_6eab6c2665cb542bebcd5796c3a36ccb.jpeg?w=750&dpr=1.0",
+      "summary": "हिमंता बिस्वा ने असम के मुख्यमंत्री पद की शपथ ली। CM पद की शपथ लेने पहुंचे Himanta Biswa, भीड़ से घिरे।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "CM पद की शपथ लेने पहुंचे Himanta Biswa, भीड़ से घिरे",
+          "summary": "हिमंता बिस्वा ने असम के मुख्यमंत्री पद की शपथ ली। CM पद की शपथ लेने पहुंचे Himanta Biswa, भीड़ से घिरे।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बच्चों की आंखें रखना चाहते हैं हेल्दी? रोज कराएं ये आसान योगासन",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/kids-eye-care-yoga-for-eyesight-bachchon-ke-liye-yogasan-2026-05-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-12T06:08:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/yoga-for-eyesight-improvement_126efd1a4b6176da78123f405b9ad68e.jpeg?w=750&dpr=1.0",
+      "summary": "त्राटक और भ्रामरी जैसे योगासन बच्चों की आंखों को हेल्दी रखते हैं। Yoga For Eyesight: बच्चों की आंखों को हेल्दी रखने और आंखों की थकान कम करने के लिए त्राटक, पामिंग और भ्रामरी जैसे आसान योगासन फायदेमंद माने जाते हैं। जानिए पूरी जानकारी। बच्चों की आंखें रखना चाहते हैं हेल्दी?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बच्चों की आंखें रखना चाहते हैं हेल्दी? रोज कराएं ये आसान योगासन",
+          "summary": "त्राटक और भ्रामरी जैसे योगासन बच्चों की आंखों को हेल्दी रखते हैं। Yoga For Eyesight: बच्चों की आंखों को हेल्दी रखने और आंखों की थकान कम करने के लिए त्राटक, पामिंग और भ्रामरी जैसे आसान योगासन फायदेमंद माने जाते हैं। जानिए पूरी जानकारी। बच्चों की आंखें रखना चाहते हैं हेल्दी?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'वन लाइफ टू लिव' की जेनिफर हरमन का हुआ निधन, 82 साल की उम्र में ली अंतिम सांस",
+      "url": "https://www.amarujala.com/entertainment/hollywood/jennifer-harmon-passes-away-at-the-age-of-82-famous-for-film-one-life-to-live-and-how-to-survive-a-marriage-2026-05-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-12T06:07:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/janafara-haramana_1e43f7d0f15cb2ee5884b4ac9f22e541.jpeg?w=750&dpr=1.0",
+      "summary": "अभिनेत्री जेनिफर हरमन का 82 साल की उम्र में निधन हो गया। वह 'वन लाइफ टू लिव' और 'हाउ टू सरवाइव अ मैरिज' जैसी फिल्मों के लिए प्रसिद्ध थीं। उनके परिवार ने उनके निधन की जानकारी दी। 'वन लाइफ टू लिव' और 'हाउ टू सरवाइव अ मैरिज' जैसी फिल्मों के लिए प्रसिद्ध अभिनेत्री जेनिफर हरमन का निधन हो गया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'वन लाइफ टू लिव' की जेनिफर हरमन का हुआ निधन, 82 साल की उम्र में ली अंतिम सांस",
+          "summary": "अभिनेत्री जेनिफर हरमन का 82 साल की उम्र में निधन हो गया। वह 'वन लाइफ टू लिव' और 'हाउ टू सरवाइव अ मैरिज' जैसी फिल्मों के लिए प्रसिद्ध थीं। उनके परिवार ने उनके निधन की जानकारी दी। 'वन लाइफ टू लिव' और 'हाउ टू सरवाइव अ मैरिज' जैसी फिल्मों के लिए प्रसिद्ध अभिनेत्री जेनिफर हरमन का निधन हो गया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बंगाल में आयुष्मान भारत योजना लागू होने पर PM ने जताई खुशी, कहा- हर घर तक पहुंचेगी केंद्र की योजना",
+      "url": "https://www.amarujala.com/india-news/pm-expressed-happiness-over-the-implementation-of-ayushman-bharat-scheme-in-bengal-2026-05-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-12T06:02:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/10/pm-modi-to-visit-karnataka-telangana-on-may-10-to-unveil-rs-9400-crore-development-projects-in-hy_6a732f8edd29ce7e00070cd84f0826a5.jpeg?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री ने बंगाल में आयुष्मान भारत योजना लागू होने पर खुशी जताई। उन्होंने कहा कि केंद्र की योजनाएं हर घर तक पहुंचेंगी। यह योजना बंगाल में लागू हो गई है। Bengal: बंगाल में आयुष्मान भारत योजना लागू होने पर PM ने जताई खुशी, कहा- हर घर तक पहुंचेगी केंद्र की योजना।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "स्कॉटलैंड में भारतीय ने रचा इतिहास: छात्र वीजा पर पहुंचे क्यू मणिवन्नन बने संसद सदस्य, पहचान पर",
-          "summary": "स्कॉटलैंड में क्यू मणिवन्नन छात्र वीजा पर पहुंचकर संसद सदस्य बने हैं, उनकी पहचान पर बहस छिड़ी है। स्कॉटलैंड में भारतीय ने रचा इतिहास: छात्र वीजा पर पहुंचे क्यू मणिवन्नन बने संसद सदस्य, पहचान पर।",
+          "title": "बंगाल में आयुष्मान भारत योजना लागू होने पर PM ने जताई खुशी, कहा- हर घर तक पहुंचेगी केंद्र की योजना",
+          "summary": "प्रधानमंत्री ने बंगाल में आयुष्मान भारत योजना लागू होने पर खुशी जताई। उन्होंने कहा कि केंद्र की योजनाएं हर घर तक पहुंचेंगी। यह योजना बंगाल में लागू हो गई है। Bengal: बंगाल में आयुष्मान भारत योजना लागू होने पर PM ने जताई खुशी, कहा- हर घर तक पहुंचेगी केंद्र की योजना।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "बंगाल-असम में घुसपैठिये और कट्टरपंथी रडार पर, 450KM सीमा की होगी बाड़बंदी; सख्त होगा पहरा",
-      "url": "https://www.amarujala.com/india-news/new-security-blueprint-infiltrators-radicals-on-radar-in-west-bengal-assam-450km-border-to-be-fenced-2026-05-12",
+      "title": "रोल नंबर लेकर रहें तैयार, जल्द आ रहा रिजल्ट, उमंग और डिजिलॉकर ने साझा किया अपडेट",
+      "url": "https://www.amarujala.com/live/education/cbse-class-12th-result-2026-date-time-live-how-to-check-stream-wise-result-at-results-cbse-nic-in-digilocker-2026-05-11",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-12T02:05:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/new-security-blueprint-infiltrators-radicals-on-radar-in-west-bengal-assam-450km-border-to-be-fenc_f5aa18d1efe5bb67837f089529434231.jpeg?w=750&dpr=1.0",
-      "summary": "बंगाल-असम में 450किमी सीमा की बाड़बंदी होगी, घुसपैठियों और कट्टरपंथियों पर नजर रखी जाएगी। बंगाल-असम में घुसपैठिये और कट्टरपंथी रडार पर, 450KM सीमा की होगी बाड़बंदी; सख्त होगा पहरा।",
+      "published_at": "2026-05-12T05:56:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/cbse-12th-result-2026_4b19fb8f3b768a08296bb46efd371e0a.jpeg?w=750&dpr=1.0",
+      "summary": "सीबीएसई बोर्ड कक्षा 12वीं के रिजल्ट का इंतजार कर रहे विद्यार्थियों के लिए जानकारी सामने आई। रिजल्ट जल्द जारी किया जाएगा। उमंग और डिजिलॉकर ने अपडेट साझा किया है। रोल नंबर लेकर रहें तैयार, जल्द आ रहा रिजल्ट, उमंग और डिजिलॉकर ने साझा किया अपडेट।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बंगाल-असम में घुसपैठिये और कट्टरपंथी रडार पर, 450KM सीमा की होगी बाड़बंदी; सख्त होगा पहरा",
-          "summary": "बंगाल-असम में 450किमी सीमा की बाड़बंदी होगी, घुसपैठियों और कट्टरपंथियों पर नजर रखी जाएगी। बंगाल-असम में घुसपैठिये और कट्टरपंथी रडार पर, 450KM सीमा की होगी बाड़बंदी; सख्त होगा पहरा।",
+          "title": "रोल नंबर लेकर रहें तैयार, जल्द आ रहा रिजल्ट, उमंग और डिजिलॉकर ने साझा किया अपडेट",
+          "summary": "सीबीएसई बोर्ड कक्षा 12वीं के रिजल्ट का इंतजार कर रहे विद्यार्थियों के लिए जानकारी सामने आई। रिजल्ट जल्द जारी किया जाएगा। उमंग और डिजिलॉकर ने अपडेट साझा किया है। रोल नंबर लेकर रहें तैयार, जल्द आ रहा रिजल्ट, उमंग और डिजिलॉकर ने साझा किया अपडेट।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मर्सिडीज GLS को टक्कर देने आ रही है ऑडी की यह SUV: प्रीमियम फीचर्स और नए डिजाइन का हुआ खुलासा, कब",
+      "url": "https://www.amarujala.com/automobiles/audi-q9-teased-flagship-electric-doors-4d-sound-panoramic-sunroof-reveale-2026-05-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-12T05:56:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/audi-q9-paratakatamaka-tasavara_6897b11a6d21339d1c0c84549bdfcdce.jpeg?w=750&dpr=1.0",
+      "summary": "ऑडी ने अपनी अपकमिंग फ्लैगशिप SUV Q9 के इंटीरियर की पहली झलक दिखाई। इसमें टेक्नोलॉजी और लग्जरी का जबरदस्त कॉम्बिनेशन है। यह SUV मर्सिडीज GLS को टक्कर देने आ रही है। मर्सिडीज GLS को टक्कर देने आ रही है ऑडी की यह SUV: प्रीमियम फीचर्स और नए डिजाइन का हुआ खुलासा, कब।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मर्सिडीज GLS को टक्कर देने आ रही है ऑडी की यह SUV: प्रीमियम फीचर्स और नए डिजाइन का हुआ खुलासा, कब",
+          "summary": "ऑडी ने अपनी अपकमिंग फ्लैगशिप SUV Q9 के इंटीरियर की पहली झलक दिखाई। इसमें टेक्नोलॉजी और लग्जरी का जबरदस्त कॉम्बिनेशन है। यह SUV मर्सिडीज GLS को टक्कर देने आ रही है। मर्सिडीज GLS को टक्कर देने आ रही है ऑडी की यह SUV: प्रीमियम फीचर्स और नए डिजाइन का हुआ खुलासा, कब।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मेटा में 8000 कर्मचारियों की छंटनी: एआई पर फोकस और रिकॉर्ड खर्च के बीच मार्क जुकरबर्ग का सख्त कदम",
+      "url": "https://www.amarujala.com/business/business-diary/balancing-record-ai-capex-meta-to-slash-8-000-jobs-as-cfo-highlights-spending-imbalance-2026-05-12",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-12T05:48:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/06/meta-piracy-lawsuit-usa_0ebdabf4ef69d7dff7629d64bf86461c.jpeg?w=750&dpr=1.0",
+      "summary": "मेटा 8,000 कर्मचारियों की छंटनी करने जा रहा है। मार्क जुकरबर्ग का फोकस अब छोटी टीमों और एआई पर है। यह छंटनी 20 मई को होगी। मेटा 20 मई को 8,000 कर्मचारियों की छंटनी करने जा रहा है। कंपनी के इस बड़े बदलाव और रिकॉर्ड खर्च के बारे में विस्तार से जानने के लिए पूरी खबर पढ़ें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मेटा में 8000 कर्मचारियों की छंटनी: एआई पर फोकस और रिकॉर्ड खर्च के बीच मार्क जुकरबर्ग का सख्त कदम",
+          "summary": "मेटा 8,000 कर्मचारियों की छंटनी करने जा रहा है। मार्क जुकरबर्ग का फोकस अब छोटी टीमों और एआई पर है। यह छंटनी 20 मई को होगी। मेटा 20 मई को 8,000 कर्मचारियों की छंटनी करने जा रहा है। कंपनी के इस बड़े बदलाव और रिकॉर्ड खर्च के बारे में विस्तार से जानने के लिए पूरी खबर पढ़ें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पेट्रोल-डीजल बचाने के लिए बढ़ाई सख्ती, जनता के सामने गिड़गिड़ाई शहबाज सरकार",
+      "url": "https://www.amarujala.com/world/pakistan-battered-by-iran-war-increased-strictness-to-save-petrol-and-diesel-2026-05-12",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-12T05:46:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/07/shehbaz-sharif_bed2b34b219d5148ff3fbc374250a1f4.jpeg?w=750&dpr=1.0",
+      "summary": "पाकिस्तान में ईरान युद्ध के कारण पेट्रोल-डीजल की कमी हो रही है, जिससे सरकार ने सख्ती बढ़ा दी है. शहबाज सरकार ने जनता से अपील की है कि वे पेट्रोल-डीजल की बचत करें. इससे आम लोगों पर इसका असर पड़ रहा है. पेट्रोल-डीजल बचाने के लिए बढ़ाई सख्ती, जनता के सामने गिड़गिड़ाई शहबाज सरकार।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पेट्रोल-डीजल बचाने के लिए बढ़ाई सख्ती, जनता के सामने गिड़गिड़ाई शहबाज सरकार",
+          "summary": "पाकिस्तान में ईरान युद्ध के कारण पेट्रोल-डीजल की कमी हो रही है, जिससे सरकार ने सख्ती बढ़ा दी है. शहबाज सरकार ने जनता से अपील की है कि वे पेट्रोल-डीजल की बचत करें. इससे आम लोगों पर इसका असर पड़ रहा है. पेट्रोल-डीजल बचाने के लिए बढ़ाई सख्ती, जनता के सामने गिड़गिड़ाई शहबाज सरकार।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "राजस्थानी भाषा पर आज सुप्रीम कोर्ट का बड़ा फैसला! स्कूलों से लेकर सरकारी भर्तियों तक पड़ेगा असर",
+      "url": "https://www.amarujala.com/rajasthan/jaipur/supreme-court-to-deliver-key-verdict-on-rajasthani-language-recognition-in-schools-jaipur-news-c-1-1-noi1422-4270025-2026-05-12",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-12T05:44:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/02/sc-directs-centre-to-set-up-tribunal-for-sharing-of-pennaiyar-river-waters_03003f9fccdaebac1e8ae4401e90eba7.jpeg?w=750&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट आज राजस्थानी भाषा को शैक्षणिक मान्यता देने की मांग पर फैसला सुनाएगा. यह फैसला स्कूलों में राजस्थानी भाषा की पढ़ाई और शिक्षकों की भर्ती पर असर डालेगा. प्रदेशभर में लोग इस फैसले का इंतजार कर रहे हैं. Rajasthan: राजस्थानी भाषा को शैक्षणिक मान्यता देने की मांग पर सुप्रीम कोर्ट आज अहम फैसला सुनाने जा रहा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राजस्थानी भाषा पर आज सुप्रीम कोर्ट का बड़ा फैसला! स्कूलों से लेकर सरकारी भर्तियों तक पड़ेगा असर",
+          "summary": "सुप्रीम कोर्ट आज राजस्थानी भाषा को शैक्षणिक मान्यता देने की मांग पर फैसला सुनाएगा. यह फैसला स्कूलों में राजस्थानी भाषा की पढ़ाई और शिक्षकों की भर्ती पर असर डालेगा. प्रदेशभर में लोग इस फैसले का इंतजार कर रहे हैं. Rajasthan: राजस्थानी भाषा को शैक्षणिक मान्यता देने की मांग पर सुप्रीम कोर्ट आज अहम फैसला सुनाने जा रहा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "विजय लंबे-चौड़े वादे कर क्या ख़ुद को मुश्किल में डाल चुके हैं?",
+      "url": "https://www.bbc.com/hindi/articles/c8xwvg10jlgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-12T05:34:32+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3edf/live/be249a20-4dc2-11f1-b55d-c1ad870278f3.jpg",
+      "summary": "तमिलनाडु में विजय ने लगभग छह दशकों से चली आ रही डीएमके और एआईएडीएमके की बारी-बारी से सत्ता की स्थिति को बदल दिया है. अब उन्हें अपने चुनावी वादों को पूरा करने की चुनौती का सामना करना पड़ेगा. लगभग छह दशकों से डीएमके और एआईएडीएमके बारी-बारी से सत्ता में आती रही हैं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विजय लंबे-चौड़े वादे कर क्या ख़ुद को मुश्किल में डाल चुके हैं?",
+          "summary": "तमिलनाडु में विजय ने लगभग छह दशकों से चली आ रही डीएमके और एआईएडीएमके की बारी-बारी से सत्ता की स्थिति को बदल दिया है. अब उन्हें अपने चुनावी वादों को पूरा करने की चुनौती का सामना करना पड़ेगा. लगभग छह दशकों से डीएमके और एआईएडीएमके बारी-बारी से सत्ता में आती रही हैं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "वैज्ञानिक प्रगति के वैश्विक विमर्श को ‘संकीर्ण नजरिए’ से देखा गया: जयशंकर",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSjVrQkpwS1JOVWpwd2I0UHRfNTdMdjA0VjAwYndfUzhvNXhlc1J1dnd6Uk1pckViNGVVZ2l0Y3dDRFhIS21XdWxsZkxMVXlmMklLVVVsSUJRWVQxVmIxUU9ZOExuNUJPTTJDU2JiMFV5bVBJTVpLZmVnNTBNS1FXU2p2a3FhNk83cG9zSHZjSTJKOG43MWxMLXc0S0ZUMUlPRVdqT1NlVC11YUZBVllScnE5WEJCUGJOWXlsWjJySzVUamvSAcgBQVVfeXFMTUJUN3FFdUw5TjRzMjVYdzNScldsQUVrYWdYSllFRE12cF82N3c4UEpRX3JJQlNPczRtZXV1R1Y3ZjFHWmN2cnRiSTlJLUt4OWprWDJVcmpaMW1nTUsxZmE5VXJDZWZZVFdwU1J6eDhya1I1TkxqdmFOZjJVblBLWEhSSDhlejNjTWcyTENHZUtkMDgzZmt1Q3JlZGpEMnV3OUs0UmJCUGRSY3BOQ2tEZHliZVZwdWh5MFFqbEFJcWFBTjBPSUE2THY?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-12T05:18:26+00:00",
+      "image_url": "https://images.pexels.com/photos/5427864/pexels-photo-5427864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विदेश मंत्री जयशंकर ने कहा है कि वैज्ञानिक प्रगति के वैश्विक विमर्श को एक संकीर्ण नजरिए से देखा जा रहा है. उन्होंने इस मुद्दे पर चिंता जताई है. जयशंकर का यह बयान महत्वपूर्ण माना जा रहा है. वैज्ञानिक प्रगति के वैश्विक विमर्श को ‘संकीर्ण नजरिए’ से देखा गया: जयशंकर ThePrint Hindi।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वैज्ञानिक प्रगति के वैश्विक विमर्श को ‘संकीर्ण नजरिए’ से देखा गया: जयशंकर",
+          "summary": "विदेश मंत्री जयशंकर ने कहा है कि वैज्ञानिक प्रगति के वैश्विक विमर्श को एक संकीर्ण नजरिए से देखा जा रहा है. उन्होंने इस मुद्दे पर चिंता जताई है. जयशंकर का यह बयान महत्वपूर्ण माना जा रहा है. वैज्ञानिक प्रगति के वैश्विक विमर्श को ‘संकीर्ण नजरिए’ से देखा गया: जयशंकर ThePrint Hindi।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पाचन सुधारने से लेकर हड्डियों तक को मजबूत बनाता है ये देसी प्रोटीन ड्रिंक",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/how-to-make-protein-powder-at-home-protein-powder-khane-ke-fayde-2026-05-12",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-12T05:01:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/homemade-protein-powder_c8ff8728adf26791015e251cfb6be592.jpeg?w=750&dpr=1.0",
+      "summary": "एक देसी प्रोटीन ड्रिंक पाचन सुधारने से लेकर हड्डियों को मजबूत बनाने में मदद कर सकता है. यह प्रोटीन पाउडर महंगा नहीं है और घर पर भी बनाया जा सकता है. युवा अपने स्वास्थ्य को बनाए रखने के लिए इसका उपयोग कर सकते हैं. Homemade Protein Powder: आजकल के युवा अपने शरीर को स्वस्थ रखने के लिए प्रोटीन का इस्तेमाल करते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाचन सुधारने से लेकर हड्डियों तक को मजबूत बनाता है ये देसी प्रोटीन ड्रिंक",
+          "summary": "एक देसी प्रोटीन ड्रिंक पाचन सुधारने से लेकर हड्डियों को मजबूत बनाने में मदद कर सकता है. यह प्रोटीन पाउडर महंगा नहीं है और घर पर भी बनाया जा सकता है. युवा अपने स्वास्थ्य को बनाए रखने के लिए इसका उपयोग कर सकते हैं. Homemade Protein Powder: आजकल के युवा अपने शरीर को स्वस्थ रखने के लिए प्रोटीन का इस्तेमाल करते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "' विचारों की हर सप्लाई-चेन की शुरुआत भारत से'...जयशंकर ने संयुक्त राष्ट्र में सबको यूं समझा दिया",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPX3pFSVRCYW96NkludlRueW9oMDBLYkUyN19yMmpUQXlIZUtLRFFRQ1h4WjB1SDdRcjRmZG9ETHlOR2EtcWxoQzI4THp1SHlBUmxzQ3NNMTg5VVdKaG5yckluZERYMzlYa2czYlNJX1gwNHJ6VUVOVV9icWFKMmZZRU1wWU1KUjJOYVB1WmNMQWZIbDZiRVlhelRRQXpocUpIVHlyQlJPeTFYYks3aU1kSXFTZE9KUTNfRFJESFB5MENycXg2WnFqUU1IQzBWOUlaODAtOXk2Q2hBZ1lfSHBMclJuMjFZTl9SX3Q2YU1CN2x6M3hocVVkOFRTR1R3N01LbXVWdkxOcFc3T2pvNmVoc2dfX2VVMjJTcl8zT3pqVnhlMDRxVlE00gGsAkFVX3lxTE5WOHBzN01lcm95WXBUR19xRy11aFdHQ2lhRjFwYUMycy1BT1lKWXhDRW1fSGhfdjBIY0ZWU29keTlwUmM2OFNRMGp0MEpwN09Dek0wSl9CY0NXTlRYbGNqUGg0UGRtampCY0tmUEY4X1RMZFBfVjhwOWRIcmI2TzVuaEFMZGNmemZyZ1dlVW42XzJrdG0yMlcxT1dEV3BhSU5HY09aTF9tZEk4RGIyQUFhdDhIZ1dybG9HTDE3NDZkWGQ0M0VoMzA3dVFuZHd6VzN0ZFVUeWRfQWJWRTk2SFpzbmxHbmtkR2k2ZmJjTy1iZUViTTJmLVIxR0tEdktRZFRKYVhZa2lYVlhFNEFpaEhVRXQ3WVBvSmxqdzROTldjdGxkZkdCc1BxYjdvZg?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-12T04:48:42+00:00",
+      "image_url": "https://images.pexels.com/photos/4308166/pexels-photo-4308166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "जयशंकर ने संयुक्त राष्ट्र में कहा कि विचारों की हर सप्लाई-चेन की शुरुआत भारत से। India in UN: ' विचारों की हर सप्लाई-चेन की शुरुआत भारत से' जयशंकर ने संयुक्त राष्ट्र में सबको यूं समझा दिया 'गणित' Navbharat Times।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "' विचारों की हर सप्लाई-चेन की शुरुआत भारत से'...जयशंकर ने संयुक्त राष्ट्र में सबको यूं समझा दिया",
+          "summary": "जयशंकर ने संयुक्त राष्ट्र में कहा कि विचारों की हर सप्लाई-चेन की शुरुआत भारत से। India in UN: ' विचारों की हर सप्लाई-चेन की शुरुआत भारत से' जयशंकर ने संयुक्त राष्ट्र में सबको यूं समझा दिया 'गणित' Navbharat Times।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान के प्रस्ताव न मानने से अमेरिका नाराज, फिर हमले का आदेश दे सकते हैं राष्ट्रपति",
+      "url": "https://www.amarujala.com/world/america-is-angry-with-iran-for-not-accepting-its-proposal-president-may-order-attack-again-2026-05-12",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-12T04:48:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/danalda-tarapa_96d66854bd54375bcbfb9edf463b53f9.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका ईरान के प्रस्ताव न मानने से नाराज है, राष्ट्रपति हमले का आदेश दे सकते हैं। ईरान के प्रस्ताव न मानने से अमेरिका नाराज, फिर हमले का आदेश दे सकते हैं राष्ट्रपति।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के प्रस्ताव न मानने से अमेरिका नाराज, फिर हमले का आदेश दे सकते हैं राष्ट्रपति",
+          "summary": "अमेरिका ईरान के प्रस्ताव न मानने से नाराज है, राष्ट्रपति हमले का आदेश दे सकते हैं। ईरान के प्रस्ताव न मानने से अमेरिका नाराज, फिर हमले का आदेश दे सकते हैं राष्ट्रपति।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्या दोहरा गेम खेल रहा पाकिस्तान? ईरान युद्ध में PAK की मध्यस्थता पर अमेरिका को भी शक",
+      "url": "https://www.amarujala.com/world/pakistan-mediation-under-us-scrutiny-trump-rejects-iran-peace-proposal-west-asia-conflict-2026-05-12",
+      "source": "Amar Ujala World",
+      "sources": [
+        {
+          "url": "https://www.amarujala.com/world/pakistan-mediation-under-us-scrutiny-trump-rejects-iran-peace-proposal-west-asia-conflict-2026-05-12",
+          "source": "Amar Ujala World"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVRmZWROQ3hVQ0M1R1RkMVc5YmhSOHVLZWh5M0U3Q3A5Zjl5MkxlRUlxMVBEVWxiWFBQZEQwVUhyNTU3cGJvLWZfeGhCdVdGaXdkVTBaS1QtUmRuSkc4c1YyU2twWkI0TVlmZkNuZVlsMlhCYTcwd1hmMlF1TjY0Nko0czZaZ2ZkbFhKb1A3OEJ1aWNlczZYV09ucVY2eVpkb1hjT2NZNDJXd3dBRjVHbkM5Z1hoVW4wRGcyMV9XU0VVb3lHNllValAtUTHSAdIBQVVfeXFMT2NueXVwWWRIUmxVQmYwYzFCMy1wemlXN0pXWEpWY0hwSkZkUG1uVFM5eEMzLVdCWmp3OEJyNzRMRUxxSW5qRzZHM3k1THlhV2hJSHdIVXAwekU1blVLYm16QUU1WkdFY0tfVEpERGZBQWJxOXdqMC1TVkpZTFpaODFnVzN2UGVLM3lZVDFwVmhKWHk2ZDloa1VHOTBrOXhrOGc5V1Q0dlE0Z1ZBMWhmdkhtWmtyWHJkVTgyMnc3SnRSeTRtdDZPbWxXVEU1OU9fR1B3?oc=5",
+          "source": "Google News Hindi (युद्ध संघर्ष)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVRmZWROQ3hVQ0M1R1RkMVc5YmhSOHVLZWh5M0U3Q3A5Zjl5MkxlRUlxMVBEVWxiWFBQZEQwVUhyNTU3cGJvLWZfeGhCdVdGaXdkVTBaS1QtUmRuSkc4c1YyU2twWkI0TVlmZkNuZVlsMlhCYTcwd1hmMlF1TjY0Nko0czZaZ2ZkbFhKb1A3OEJ1aWNlczZYV09ucVY2eVpkb1hjT2NZNDJXd3dBRjVHbkM5Z1hoVW4wRGcyMV9XU0VVb3lHNllValAtUTHSAdIBQVVfeXFMT2NueXVwWWRIUmxVQmYwYzFCMy1wemlXN0pXWEpWY0hwSkZkUG1uVFM5eEMzLVdCWmp3OEJyNzRMRUxxSW5qRzZHM3k1THlhV2hJSHdIVXAwekU1blVLYm16QUU1WkdFY0tfVEpERGZBQWJxOXdqMC1TVkpZTFpaODFnVzN2UGVLM3lZVDFwVmhKWHk2ZDloa1VHOTBrOXhrOGc5V1Q0dlE0Z1ZBMWhmdkhtWmtyWHJkVTgyMnc3SnRSeTRtdDZPbWxXVEU1OU9fR1B3?oc=5",
+          "source": "Google News Hindi (युद्ध संघर्ष)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVRmZWROQ3hVQ0M1R1RkMVc5YmhSOHVLZWh5M0U3Q3A5Zjl5MkxlRUlxMVBEVWxiWFBQZEQwVUhyNTU3cGJvLWZfeGhCdVdGaXdkVTBaS1QtUmRuSkc4c1YyU2twWkI0TVlmZkNuZVlsMlhCYTcwd1hmMlF1TjY0Nko0czZaZ2ZkbFhKb1A3OEJ1aWNlczZYV09ucVY2eVpkb1hjT2NZNDJXd3dBRjVHbkM5Z1hoVW4wRGcyMV9XU0VVb3lHNllValAtUTHSAdIBQVVfeXFMT2NueXVwWWRIUmxVQmYwYzFCMy1wemlXN0pXWEpWY0hwSkZkUG1uVFM5eEMzLVdCWmp3OEJyNzRMRUxxSW5qRzZHM3k1THlhV2hJSHdIVXAwekU1blVLYm16QUU1WkdFY0tfVEpERGZBQWJxOXdqMC1TVkpZTFpaODFnVzN2UGVLM3lZVDFwVmhKWHk2ZDloa1VHOTBrOXhrOGc5V1Q0dlE0Z1ZBMWhmdkhtWmtyWHJkVTgyMnc3SnRSeTRtdDZPbWxXVEU1OU9fR1B3?oc=5",
+          "source": "Google News Hindi (युद्ध संघर्ष)"
+        }
+      ],
+      "published_at": "2026-05-12T04:44:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/12/04/amaraka-iirana-jhada_beb00802b614c3c81904cd7c879951a0.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका को शक है कि पाकिस्तान ईरान युद्ध में मध्यस्थता के नाम पर दोहरा गेम खेल रहा है। ईरान युद्ध में PAK की मध्यस्थता पर अमेरिका को भी शक। क्या दोहरा गेम खेल रहा पाकिस्तान?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या दोहरा गेम खेल रहा पाकिस्तान? ईरान युद्ध में PAK की मध्यस्थता पर अमेरिका को भी शक",
+          "summary": "अमेरिका को शक है कि पाकिस्तान ईरान युद्ध में मध्यस्थता के नाम पर दोहरा गेम खेल रहा है। ईरान युद्ध में PAK की मध्यस्थता पर अमेरिका को भी शक। क्या दोहरा गेम खेल रहा पाकिस्तान?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हिमंत बिस्वा सरमा क्या अब योगी आदित्यनाथ और फडणवीस की बराबरी पर आ गए हैं?",
+      "url": "https://www.bbc.com/hindi/articles/c8jv093xl93o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-12T04:40:27+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/38b3/live/26914100-4dbc-11f1-b55d-0f258dce1735.jpg",
+      "summary": "हिमंत बिस्वा सरमा के बढ़ते राजनीतिक क़द को लेकर चर्चाएं हो रही हैं कि वे योगी आदित्यनाथ और फडणवीस की बराबरी पर आ गए हैं। बीते 4 मई को असम में एनडीए गठबंधन की जीत के बाद गुवाहाटी स्थित बीजेपी दफ़्तर में सिर्फ़ जश्न नहीं दिखा, बल्कि हिमंत बिस्वा सरमा के बढ़ते राजनीतिक क़द को लेकर चर्चाएं भी सुनाई दीं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिमंत बिस्वा सरमा क्या अब योगी आदित्यनाथ और फडणवीस की बराबरी पर आ गए हैं?",
+          "summary": "हिमंत बिस्वा सरमा के बढ़ते राजनीतिक क़द को लेकर चर्चाएं हो रही हैं कि वे योगी आदित्यनाथ और फडणवीस की बराबरी पर आ गए हैं। बीते 4 मई को असम में एनडीए गठबंधन की जीत के बाद गुवाहाटी स्थित बीजेपी दफ़्तर में सिर्फ़ जश्न नहीं दिखा, बल्कि हिमंत बिस्वा सरमा के बढ़ते राजनीतिक क़द को लेकर चर्चाएं भी सुनाई दीं.",
           "region": "दुनिया"
         }
       }
