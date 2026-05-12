@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-05-12T06:46:00.693255+00:00",
-  "article_count": 42,
-  "total_unique_count": 372,
+  "generated_at": "2026-05-12T09:42:28.525075+00:00",
+  "article_count": 40,
+  "total_unique_count": 371,
   "digest": {
-    "en": "Dutch hospital quarantines 12 healthcare workers. UAE reportedly attacked Iran last month. UN chief calls for de-escalation in the Strait of Hormuz.",
-    "hi": "असम के मुख्यमंत्री हिमंत बिस्व सरमा ने लगातार दूसरी बार सीएम पद की शपथ ली। पीएम मोदी भी इस मौके पर मौजूद रहे। उनके साथ चार नवनिर्वाचित विधायकों ने भी मंत्री पद की शपथ ली।"
+    "en": "The Strait of Hormuz de-escalation dominates headlines. Armed drones are the leading cause of civilian death in Sudan. The UN launches a major Nairobi expansion.",
+    "hi": "नीट यूजी परीक्षा रद्द होना इस समय की प्रमुख खबर है। यह शिक्षा प्रणाली में विश्वास के संकट को दर्शाता है। संयुक्त राष्ट्र वनों की रक्षा के लिए वैश्विक कार्रवाई का आह्वान कर रहा है।"
   },
   "articles": [
+    {
+      "title": "UAE's main gas complex to resume full capacity next year after attacks",
+      "url": "https://www.thehindu.com/news/international/uaes-main-gas-complex-to-resume-full-capacity-next-year-after-attacks/article70968997.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-12T09:38:32+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/fiecba/article70969156.ece/alternates/LANDSCAPE_1200/iStock-502090275.jpg",
+      "summary": "ADNOC Gas expects its Habshan gas complex in Abu Dhabi to reach full ADNOC Gas said the Habshan site in the capital Abu Dhabi, which supplies gas across the UAE, was operating at 60% and \"the company is currently working towards achieving 80% restoration by the end of 2026, with full capacity restored in 2027\".",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Chaos in Philippines as Duterte ally wanted by ICC takes refuge in senate to avoid arrest",
+      "url": "https://www.theguardian.com/world/2026/may/12/ronald-dela-rosa-icc-arrest-warrant-philippines-senate-refuge",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-12T08:20:37+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/58a00fbc0f7869d1efb348b652066cbb0bbe0d8e/603_0_6033_4827/master/6033.jpg?width=140&quality=85&auto=format&fit=max&s=746263dc5a15befb6e6b3715b2ad3a0a",
+      "summary": "Ronald dela Rosa, a former police chief and ally of Rodrigo Duterte, took Former police chief Ronald dela Rosa spends night at senate office after another Duterte ally offers protective custodyThe unusual pursuit was captured on CCTV cameras inside the Philippine senate. Ronald dela Rosa, a longtime ally of the former president Rodrigo Duterte, raced along the hallways of the upper house complex, stumbling on the staircase, as he fled government agents.“They want to for.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Dutch Hospital Quarantines 12 Healthcare Workers As Precaution",
       "url": "https://www.ndtv.com/health/dutch-hospital-quarantines-12-staff-over-hantavirus-exposure-precautions-11481904#publisher=newsstand",
@@ -16,30 +40,6 @@
       "image_url": "https://c.ndtvimg.com/2026-05/pr9pcfu8_hantavirus-quarantine_625x300_12_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
       "summary": "Radboud University Medical Center in the Netherlands quarantined 12 employees for six weeks. This action followed incorrect procedures used while caring for a patient infected with hantavirus. The Hague, May 12 (IANS) Radboud University Medical Center (Radboudumc) in the Netherlands has placed 12 employees in quarantine for six weeks as a precaution after incorrect procedures were followed while caring for a patient infected with hantaviru.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "LA area mayor to plead guilty to acting as Chinese agent",
-      "url": "https://www.dw.com/en/us-la-area-mayor-to-plead-guilty-to-acting-as-chinese-agent/a-77126713?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-12T05:39:00+00:00",
-      "image_url": "https://static.dw.com/image/67049580_6.jpg",
-      "summary": "The mayor of a Los Angeles suburb resigned after admitting to acting as a Chinese propaganda agent. Eileen Wang faces up to 10 years in prison. The mayor of a Los Angeles suburb with a heavy Chinese-American presence has resigned after admitting to acting as a Chinese propaganda agent.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UAE attacked Iran last month: WSJ",
-      "url": "https://www.thehindu.com/news/international/uae-attacked-iran-last-month-wsj/article70968355.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-12T05:22:08+00:00",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "summary": "The Wall Street Journal reported the UAE attacked an Iranian refinery on Lavan Island last month. The strikes occurred around the time President Trump announced a ceasefire. An American newspaper said the UAE's attacks targeted a refinery located on Iran's Lavan Island and took place \"around the time\" U. S.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -95,7 +95,20 @@
       "title": "UN launches major Nairobi expansion as Guterres highlights Africa’s growing global role",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167486",
       "source": "UN News",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167486",
+          "source": "UN News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EZF9kM18zOXpIY01kZDRYNnNsdzAxN3RONkJZdE9YTkFEZUdpbnNBeklGNmJxR1k3OUFob2J4RUdOOG8tQXFjQzFrc2FQWDloMTE0S295aw?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EZF9kM18zOXpIY01kZDRYNnNsdzAxN3RONkJZdE9YTkFEZUdpbnNBeklGNmJxR1k3OUFob2J4RUdOOG8tQXFjQzFrc2FQWDloMTE0S295aw?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
       "published_at": "2026-05-11T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/11-05-2026-UN-Nairobi-Guterres-02.jpg/image560x340cropped.jpg",
       "summary": "The United Nations launched a major expansion of its Nairobi headquarters. Secretary-General António Guterres and Kenyan President William Ruto marked the milestone for UN presence in Africa. The United Nations on Monday launched a major expansion of its Nairobi headquarters, with Secretary-General António Guterres and Kenyan President William Ruto marking what officials described as a significant milestone for the Organization’s presence in Africa.",
@@ -119,20 +132,7 @@
       "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167479",
       "source": "UN News",
-      "sources": [
-        {
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167479",
-          "source": "UN News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yRXFqVlh2cVdWMXRNcUFVMEFtRXhEdDU0Ml96RVF5Ql9pdS0zY1VlVzlJOGNDOFNUNmdHcFpudk9sMjBRUmZkaWZvcGw0dlNEMWhld0ZYQQ?oc=5",
-          "source": "Google News (United Nations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yRXFqVlh2cVdWMXRNcUFVMEFtRXhEdDU0Ml96RVF5Ql9pdS0zY1VlVzlJOGNDOFNUNmdHcFpudk9sMjBRUmZkaWZvcGw0dlNEMWhld0ZYQQ?oc=5",
-          "source": "Google News (United Nations)"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-11T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-UNOCHA-Sudan-Darfur-04.jpg/image560x340cropped.jpg",
       "summary": "Armed drones caused over 80 percent of civilian deaths in Sudan during the Drones caused more than 80 per cent of civilian deaths in Sudan’s war during the first four months of 2026, killing at least 880 people, the UN human rights chief said on Monday, warning that escalating drone warfare could push the conflict into an even deadlier phase.",
@@ -177,18 +177,6 @@
       "translations": {}
     },
     {
-      "title": "Indonesian rescuers retrieve body from Mount Dukono as search continues",
-      "url": "https://www.theguardian.com/world/2026/may/09/indonesia-volcano-mount-dukono-search-bodies-recovered",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-09T13:08:30+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/7a20fc1a8c875ac8d5ab6039ec9bbf5ea858ae4d/0_376_1070_855/master/1070.jpg?width=140&quality=85&auto=format&fit=max&s=91648440b88e4ac568ade9c3b8e4b753",
-      "summary": "Indonesian rescuers recovered the body of a woman after a volcanic eruption on Mount Woman recovered after volcanic eruption on remote island, while operation to find two missing Singaporeans goes onRescuers have recovered the body of an Indonesian woman who was caught in a volcanic eruption on Mount Dukono on Indonesia’s remote island of Halmahera, officials have said. Search operations continued on Saturday for the bodies of two Singaporeans.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
       "url": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
       "source": "The Guardian",
@@ -196,18 +184,6 @@
       "published_at": "2026-05-09T13:00:57+00:00",
       "image_url": "https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=140&quality=85&auto=format&fit=max&s=3d70a65ae48caabd14de7d15d1f9ca7d",
       "summary": "Amahle-Imvelo Jaxa posted a TikTok video explaining a dispute between the South African and Rwandan presidents. She detailed the roles of various South African groups in a conflict. Jaxa's content focuses on current affairs for a South African audience. Africa is leading a change in news consumption habits – and transforming the lives of current affairs enthusiastsLast year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Guardian reporter and colleagues detained and beaten by Somali police",
-      "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-09T12:27:59+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=c5604bd094625c43a7c8ea25bff35fc6",
-      "summary": "Guardian reporter Mohamed Bulbul was detained and beaten by Somali police in Mogadishu. He was arrested with two colleagues, Abdihafid Nor Barre and Abdishakur Mohamed Moh. The arrests followed Bulbul's reporting for the Guardian on the alleged torture of a woman in prison.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -225,74 +201,200 @@
       "translations": {}
     },
     {
-      "title": "सीएम विजय का बड़ा एक्शन, बंद करवा दी शराब की दुकाने",
-      "url": "https://www.amarujala.com/video/india-news/cm-vijay-thalapathy-takes-action-on-tamil-nadu-liquor-shop-closure-order-2026-05-12",
-      "source": "Amar Ujala National",
+      "title": "नीट यूजी की परीक्षा एनटीए ने रद्द की, राहुल गांधी बोले- यह अब नीलामी बन गई है",
+      "url": "https://www.bbc.com/hindi/articles/c9we1v7dd0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-12T06:40:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/thalapathy-vijay_800ce855776f410e76fff1dbfcdd8e3c.jpeg?w=750&dpr=1.0",
-      "summary": "तमिलनाडु के मुख्यमंत्री थलपति विजय ने 717 शराब की दुकानों को बंद करने का आदेश दिया है। यह कदम उनके चुनावी वादे को पूरा करने की दिशा में उठाया गया है। इन दुकानों को तत्काल प्रभाव से बंद कर दिया जाएगा। तमिलनाडु के नए मुख्यमंत्री थलपति विजय ने बड़ा आदेश दिया है।",
+      "published_at": "2026-05-12T09:21:56+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e6bb/live/f08eee90-4de3-11f1-9cc8-93479330ab4b.jpg",
+      "summary": "नेशनल टेस्टिंग एजेंसी ने 3 मई को आयोजित हुई नीट (यूजी) 2026 की परीक्षा रद्द कर दी है। परीक्षा के दौरान पेपर लीक होने के आरोप लगे थे। इस मामले की जांच केंद्रीय अन्वेषण ब्यूरो (सीबीआई) को सौंपी गई है। नेशनल टेस्टिंग एजेंसी ने 3 मई को आयोजित हुई नीट (यूजी) 2026 की परीक्षा को पेपर लीक के आरोपों के बीच रद्द कर दिया है.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सीएम विजय का बड़ा एक्शन, बंद करवा दी शराब की दुकाने",
-          "summary": "तमिलनाडु के मुख्यमंत्री थलपति विजय ने 717 शराब की दुकानों को बंद करने का आदेश दिया है। यह कदम उनके चुनावी वादे को पूरा करने की दिशा में उठाया गया है। इन दुकानों को तत्काल प्रभाव से बंद कर दिया जाएगा। तमिलनाडु के नए मुख्यमंत्री थलपति विजय ने बड़ा आदेश दिया है।",
+          "title": "नीट यूजी की परीक्षा एनटीए ने रद्द की, राहुल गांधी बोले- यह अब नीलामी बन गई है",
+          "summary": "नेशनल टेस्टिंग एजेंसी ने 3 मई को आयोजित हुई नीट (यूजी) 2026 की परीक्षा रद्द कर दी है। परीक्षा के दौरान पेपर लीक होने के आरोप लगे थे। इस मामले की जांच केंद्रीय अन्वेषण ब्यूरो (सीबीआई) को सौंपी गई है। नेशनल टेस्टिंग एजेंसी ने 3 मई को आयोजित हुई नीट (यूजी) 2026 की परीक्षा को पेपर लीक के आरोपों के बीच रद्द कर दिया है.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "Himanta Biswa Sarma ने ली CM पद की शपथ, पीएम मोदी भी मौजूद",
-      "url": "https://www.amarujala.com/video/india-news/assam-cm-oath-ceremony-himanta-biswa-sarma-took-oath-as-cm-pm-modi-also-present-assam-new-cm-2026-05-12",
-      "source": "Amar Ujala National",
+      "title": "एकीकरण के युग में विदेश संबंधों, संचार और भाषा शिक्षा को बढ़ावा देना।",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlJIR0RWTVNTM040OWtsYzJBVUhOUldWbGxYZWh3UU9hU2xpZWUzN1FoTVRPMmROOW4zbFdfSmtwRXFycEtEcW9HanVqX3ZDOFlSc0NvSDdkb1ptb2pxMDNUTjRPbTNOTDFfMnNWdkFNNk56WWRhV2pidXhWNFppN0czc3VzSUZNTEI1ZFUxaWl5UG9SRU5PQThZMmU4OGxNMGtDX2xB?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
       "sources": [],
-      "published_at": "2026-05-12T06:36:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/assam_b390c441b6bc8f2056d6310f0878eebc.jpeg?w=750&dpr=1.0",
-      "summary": "हिमंता बिस्वा सरमा ने असम के मुख्यमंत्री पद की शपथ ली। प्रधानमंत्री नरेंद्र मोदी भी इस समारोह में मौजूद थे। सरमा को भारतीय जनता पार्टी ने मुख्यमंत्री पद के लिए चुना था।",
+      "published_at": "2026-05-12T08:15:13+00:00",
+      "image_url": "https://images.pexels.com/photos/37348778/pexels-photo-37348778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "वियतनाम के विदेश मंत्रालय ने विदेश संबंधों, संचार और भाषा शिक्षा को बढ़ावा देने के लिए एक राष्ट्रीय सम्मेलन आयोजित किया। यह सम्मेलन विदेश मंत्रालय के भीतर और बाहर दोनों जगह से 100 से अधिक प्रतिनिधियों को एक साथ लाया। सम्मेलन का उद्देश्य वियतनाम के विदेश संबंधों को मजबूत करने के लिए एक एकीकृत दृष्टिकोण को बढ़ावा देना था।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एकीकरण के युग में विदेश संबंधों, संचार और भाषा शिक्षा को बढ़ावा देना।",
+          "summary": "वियतनाम के विदेश मंत्रालय ने विदेश संबंधों, संचार और भाषा शिक्षा को बढ़ावा देने के लिए एक राष्ट्रीय सम्मेलन आयोजित किया। यह सम्मेलन विदेश मंत्रालय के भीतर और बाहर दोनों जगह से 100 से अधिक प्रतिनिधियों को एक साथ लाया। सम्मेलन का उद्देश्य वियतनाम के विदेश संबंधों को मजबूत करने के लिए एक एकीकृत दृष्टिकोण को बढ़ावा देना था।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "विध्वंस, स्मृति और राजनीति के हज़ार साल",
+      "url": "https://www.bbc.com/hindi/articles/c3r29x1y8n7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-12T08:15:09+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd1d/live/b68c7170-4ddb-11f1-b2c8-65f42a4a3cfa.jpg",
+      "summary": "सोमनाथ मंदिर का इतिहास आस्था, स्मृति और राजनीति का संगम रहा है. यह मंदिर कई हमलों और पुनर्निर्माण का साक्षी रहा है. इसका इतिहास एक हजार साल पुराना है. हज़ार साल, कई हमले, कई पुनर्निर्माण. सोमनाथ मंदिर का इतिहास आस्था, स्मृति और राजनीति, तीनों का गवाह रहा है.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "Himanta Biswa Sarma ने ली CM पद की शपथ, पीएम मोदी भी मौजूद",
-          "summary": "हिमंता बिस्वा सरमा ने असम के मुख्यमंत्री पद की शपथ ली। प्रधानमंत्री नरेंद्र मोदी भी इस समारोह में मौजूद थे। सरमा को भारतीय जनता पार्टी ने मुख्यमंत्री पद के लिए चुना था।",
+          "title": "विध्वंस, स्मृति और राजनीति के हज़ार साल",
+          "summary": "सोमनाथ मंदिर का इतिहास आस्था, स्मृति और राजनीति का संगम रहा है. यह मंदिर कई हमलों और पुनर्निर्माण का साक्षी रहा है. इसका इतिहास एक हजार साल पुराना है. हज़ार साल, कई हमले, कई पुनर्निर्माण. सोमनाथ मंदिर का इतिहास आस्था, स्मृति और राजनीति, तीनों का गवाह रहा है.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "हिमंत के साथ चार मंत्रियों ने ली शपथ, सीएम की नई टीम तैयार, स्पीकर के नाम का भी हुआ एलान",
-      "url": "https://www.amarujala.com/india-news/assam-new-government-swearing-in-ceremony-cabinet-ministers-list-chief-minister-himanta-biswa-sarma-2026-05-11",
-      "source": "Amar Ujala National",
+      "title": "पाकिस्तान ने ईरानी सैन्य विमानों को पनाह देने वाली रिपोर्ट पर दी ये प्रतिक्रिया",
+      "url": "https://www.bbc.com/hindi/articles/cpdp19927g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-12T06:28:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/20/himanta-biswa-sarma-roadshow_4a8ad56e2371938fa7ea89acaa2d7e0c.gif?w=750&dpr=1.0",
-      "summary": "हिमंत बिस्वा सरमा के साथ चार मंत्रियों ने असम में शपथ ली। सीएम की नई टीम तैयार हो गई है। स्पीकर के नाम का भी एलान हुआ है। हिमंत के साथ चार मंत्रियों ने ली शपथ, सीएम की नई टीम तैयार, स्पीकर के नाम का भी हुआ एलान।",
+      "published_at": "2026-05-12T08:09:46+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb77/live/8b1c3350-4dd5-11f1-b2c8-65f42a4a3cfa.jpg",
+      "summary": "पाकिस्तान ने सीबीएस न्यूज़ की उस रिपोर्ट का खंडन किया है जिसमें दावा किया गया था कि ईरानी सैन्य विमानों को उसके यहां पनाह दी गई थी। पाकिस्तान के विदेश मंत्रालय ने कहा कि ऐसी रिपोर्टें निराधार हैं। यह बयान ऐसे समय आया है जब पाकिस्तान अमेरिका और ईरान के बीच शांति वार्ता में मध्यस्थता कर रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान ने ईरानी सैन्य विमानों को पनाह देने वाली रिपोर्ट पर दी ये प्रतिक्रिया",
+          "summary": "पाकिस्तान ने सीबीएस न्यूज़ की उस रिपोर्ट का खंडन किया है जिसमें दावा किया गया था कि ईरानी सैन्य विमानों को उसके यहां पनाह दी गई थी। पाकिस्तान के विदेश मंत्रालय ने कहा कि ऐसी रिपोर्टें निराधार हैं। यह बयान ऐसे समय आया है जब पाकिस्तान अमेरिका और ईरान के बीच शांति वार्ता में मध्यस्थता कर रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "संयुक्त राष्ट्र ने वनों की रक्षा के लिए वैश्विक कार्रवाई में तेजी लाने का आह्वान किया है।",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVBpamhjVk40T3Rlc2JiT2RDdU82blExRWlRb2dRNEZmYnl0elBoaGo1dW1QLVhiQUlvUFZCdTYteEpxQWp1SkQycnB0cWFNbS0yNnhvVTczTGdoN29fQW51ZGd2NkxMdEtoNFluVUZCdHc5UEJRcTI1MERrS1FtR2QyVXFaMU9EQW9zU3pNNTI?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-12T07:52:26+00:00",
+      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने वनों की रक्षा के लिए तत्काल वैश्विक कार्रवाई का आह्वान किया है। यह अपील वनों की कटाई और गिरावट को रोकने के लिए देशों को अपनी प्रतिबद्धताओं को तेज करने के महत्व पर जोर देती है। वनों का संरक्षण जैव विविधता बनाए रखने और जलवायु परिवर्तन से निपटने के लिए महत्वपूर्ण है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संयुक्त राष्ट्र ने वनों की रक्षा के लिए वैश्विक कार्रवाई में तेजी लाने का आह्वान किया है।",
+          "summary": "संयुक्त राष्ट्र ने वनों की रक्षा के लिए तत्काल वैश्विक कार्रवाई का आह्वान किया है। यह अपील वनों की कटाई और गिरावट को रोकने के लिए देशों को अपनी प्रतिबद्धताओं को तेज करने के महत्व पर जोर देती है। वनों का संरक्षण जैव विविधता बनाए रखने और जलवायु परिवर्तन से निपटने के लिए महत्वपूर्ण है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मिडिल-ईस्ट संघर्ष में नया मोड़? यूएई पर ईरान के भीतर गुप्त हमलों में शामिल होने का सनसनीखेज दावा",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjBrczh5Tmx4OGZCeDluMFNLVFlDcm9kT2tzejFsempmSFpvTGdLT1lUTVpCY0JRS3lyc3pzQlE3T3J2T1BScDNqdzRUVmhNcHNqZlpLNFJwZEtFd3VzRFBXdXZ0U0Q5ZGhWTHJCMWlVYVE1ZEIzRVFZaGFTemdnZVBmbUlwaDhOaWYwdUR4MDg?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-12T07:41:31+00:00",
+      "image_url": "https://images.pexels.com/photos/35172557/pexels-photo-35172557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "यूएई पर ईरान के भीतर गुप्त हमलों में शामिल होने का दावा किया गया है। यह आरोप एक अज्ञात स्रोत द्वारा लगाया गया है। इस दावे से मध्य पूर्व में तनाव बढ़ने की आशंका है। मिडिल-ईस्ट संघर्ष में नया मोड़? यूएई पर ईरान के भीतर गुप्त हमलों में शामिल होने का सनसनीखेज दावा IND24।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मिडिल-ईस्ट संघर्ष में नया मोड़? यूएई पर ईरान के भीतर गुप्त हमलों में शामिल होने का सनसनीखेज दावा",
+          "summary": "यूएई पर ईरान के भीतर गुप्त हमलों में शामिल होने का दावा किया गया है। यह आरोप एक अज्ञात स्रोत द्वारा लगाया गया है। इस दावे से मध्य पूर्व में तनाव बढ़ने की आशंका है। मिडिल-ईस्ट संघर्ष में नया मोड़? यूएई पर ईरान के भीतर गुप्त हमलों में शामिल होने का सनसनीखेज दावा IND24।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भगवान शिव की भूमिका निभाएंगे रणवीर सिंह? जानिए किस किताब पर आधारित होगी फिल्म",
+      "url": "https://www.amarujala.com/entertainment/bollywood/ranveer-singh-to-play-lord-shiva-in-trilogy-on-bestseller-the-immortals-of-meluha-as-per-report-2026-05-12",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-12T07:29:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/29/ranaevara-saha_9b9428fe7e24c837f24fb29a92108ff2.jpeg?w=750&dpr=1.0",
+      "summary": "रणवीर सिंह एक नई फिल्म में भगवान शिव की भूमिका निभाएंगे। यह फिल्म लेखक अमीश त्रिपाठी की 'शिव त्रयी' पर आधारित होगी। यह उनके करियर में एक महत्वपूर्ण बदलाव होगा। रणवीर सिंह अपनी फिल्मों में एक बड़ा बदलाव करने जा रहे हैं। वह एक प्रसिद्ध लेखक की शिव त्रयी (मेलुहा के अमर श्रृंखला) पर बनी फिल्म में नजर आएंगे।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हिमंत के साथ चार मंत्रियों ने ली शपथ, सीएम की नई टीम तैयार, स्पीकर के नाम का भी हुआ एलान",
-          "summary": "हिमंत बिस्वा सरमा के साथ चार मंत्रियों ने असम में शपथ ली। सीएम की नई टीम तैयार हो गई है। स्पीकर के नाम का भी एलान हुआ है। हिमंत के साथ चार मंत्रियों ने ली शपथ, सीएम की नई टीम तैयार, स्पीकर के नाम का भी हुआ एलान।",
+          "title": "भगवान शिव की भूमिका निभाएंगे रणवीर सिंह? जानिए किस किताब पर आधारित होगी फिल्म",
+          "summary": "रणवीर सिंह एक नई फिल्म में भगवान शिव की भूमिका निभाएंगे। यह फिल्म लेखक अमीश त्रिपाठी की 'शिव त्रयी' पर आधारित होगी। यह उनके करियर में एक महत्वपूर्ण बदलाव होगा। रणवीर सिंह अपनी फिल्मों में एक बड़ा बदलाव करने जा रहे हैं। वह एक प्रसिद्ध लेखक की शिव त्रयी (मेलुहा के अमर श्रृंखला) पर बनी फिल्म में नजर आएंगे।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "16 मई को वट सावित्री व्रत, जानें किस समय होगी पूजा और क्या रहेगी विधि",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/vat-savitri-vrat-2026-date-and-subh-muhurat-puja-vidhi-know-kab-hai-vat-savitri-vrat-2026-05-12",
-      "source": "Amar Ujala National",
+      "title": "ईरानी विमान उसके एयरबेस पर मौजूद, अमेरिका ने मध्यस्थ की भूमिका पर उठाए सवाल",
+      "url": "https://www.amarujala.com/world/pakistan-makes-a-major-confession-iranian-aircraft-are-present-at-its-airbase-2026-05-12",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-12T06:28:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/vat-savitri-vrat-2026_8d5055e5686823449679c2fb3845696d.jpeg?w=750&dpr=1.0",
-      "summary": "16 मई को वट सावित्री व्रत है। वट वृक्ष की पूजा को पुण्यदायी माना जाता है। इस दिन पूजा करने से पति की आयु लंबी होती है और वैवाहिक जीवन में प्रेम व सौभाग्य बना रहता है। Vat Savitri Vrat 2026: वट सावित्री व्रत में वट वृक्ष की पूजा को बेहद पुण्यदायी माना जाता है।",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-12T07:11:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/pakasatana_9d404aa2df7ed26396b7791544bf5eb0.jpeg?w=750&dpr=1.0",
+      "summary": "पाकिस्तान ने स्वीकार किया है कि ईरानी विमान उसके एयरबेस पर मौजूद थे। अमेरिका ने इस मामले में पाकिस्तान की मध्यस्थता की भूमिका पर सवाल उठाए हैं। पाकिस्तान का बड़ा कबूलनामा!: ईरानी विमान उसके एयरबेस पर मौजूद, अमेरिका ने मध्यस्थ की भूमिका पर उठाए सवाल Pakistan makes a major confession!",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "16 मई को वट सावित्री व्रत, जानें किस समय होगी पूजा और क्या रहेगी विधि",
-          "summary": "16 मई को वट सावित्री व्रत है। वट वृक्ष की पूजा को पुण्यदायी माना जाता है। इस दिन पूजा करने से पति की आयु लंबी होती है और वैवाहिक जीवन में प्रेम व सौभाग्य बना रहता है। Vat Savitri Vrat 2026: वट सावित्री व्रत में वट वृक्ष की पूजा को बेहद पुण्यदायी माना जाता है।",
-          "region": "यूरोप और रूस"
+          "title": "ईरानी विमान उसके एयरबेस पर मौजूद, अमेरिका ने मध्यस्थ की भूमिका पर उठाए सवाल",
+          "summary": "पाकिस्तान ने स्वीकार किया है कि ईरानी विमान उसके एयरबेस पर मौजूद थे। अमेरिका ने इस मामले में पाकिस्तान की मध्यस्थता की भूमिका पर सवाल उठाए हैं। पाकिस्तान का बड़ा कबूलनामा!: ईरानी विमान उसके एयरबेस पर मौजूद, अमेरिका ने मध्यस्थ की भूमिका पर उठाए सवाल Pakistan makes a major confession!",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हिमंत के साथ मंत्री पद की शपथ लेने वाले नेता कौन?: अतुल बोरा सबसे अमीर, छह बार की महिला विधायक सबसे",
+      "url": "https://www.amarujala.com/india-news/assam-cabinet-oath-taking-chief-minister-himanta-biswa-sarma-and-his-ministers-from-atul-bora-to-ajanta-neog-2026-05-12",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-12T06:57:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/himanata-biswa-sarma-cabinet_4668acf54efb3d058d23e22c3731028a.jpeg?w=750&dpr=1.0",
+      "summary": "हिमंत बिस्व सरमा के साथ असम में चार अन्य नेताओं ने मंत्री पद की शपथ ली। इनमें अतुल बोरा, चरण बोरो, रामेश्वर तेली और अजंता न्योग शामिल हैं। सभी के पास लंबा राजनीतिक अनुभव है। असम में मंगलवार को हिमंत बिस्व सरमा ने मुख्यमंत्री पद की शपथ ली।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिमंत के साथ मंत्री पद की शपथ लेने वाले नेता कौन?: अतुल बोरा सबसे अमीर, छह बार की महिला विधायक सबसे",
+          "summary": "हिमंत बिस्व सरमा के साथ असम में चार अन्य नेताओं ने मंत्री पद की शपथ ली। इनमें अतुल बोरा, चरण बोरो, रामेश्वर तेली और अजंता न्योग शामिल हैं। सभी के पास लंबा राजनीतिक अनुभव है। असम में मंगलवार को हिमंत बिस्व सरमा ने मुख्यमंत्री पद की शपथ ली।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'मच्छरदानी हटा दो... तुम्हारे हिस्से के मच्छर मुझे काटते हैं', एसएस नार्थ हॉल में कश्मीरी छात्र की",
+      "url": "https://www.amarujala.com/uttar-pradesh/aligarh/kashmiri-student-beaten-up-at-ss-north-hall-in-aligarh-muslim-university-2026-05-12",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-12T06:47:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/11/08/amu_2530178c2a5f982bddb2e5dbbb6a4b47.jpeg?w=750&dpr=1.0",
+      "summary": "एसएस नॉर्थ हॉल में एक कश्मीरी छात्र ने मच्छरदानी हटाने को लेकर शिकायत की। उसने कहा कि मच्छरदानी हटने से उसे मच्छर काट रहे हैं। गर्मी बढ़ी, मच्छर बढ़े और अब हॉस्टल में मच्छर और मच्छरदानी कूटनीति भी शुरू हो गई। 'मच्छरदानी हटा दो तुम्हारे हिस्से के मच्छर मुझे काटते हैं', एसएस नार्थ हॉल में कश्मीरी छात्र की।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मच्छरदानी हटा दो... तुम्हारे हिस्से के मच्छर मुझे काटते हैं', एसएस नार्थ हॉल में कश्मीरी छात्र की",
+          "summary": "एसएस नॉर्थ हॉल में एक कश्मीरी छात्र ने मच्छरदानी हटाने को लेकर शिकायत की। उसने कहा कि मच्छरदानी हटने से उसे मच्छर काट रहे हैं। गर्मी बढ़ी, मच्छर बढ़े और अब हॉस्टल में मच्छर और मच्छरदानी कूटनीति भी शुरू हो गई। 'मच्छरदानी हटा दो तुम्हारे हिस्से के मच्छर मुझे काटते हैं', एसएस नार्थ हॉल में कश्मीरी छात्र की।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "क्या गुपचुप तरीके से ईरान के साथ युद्ध में शामिल हो गया UAE? रिपोर्ट में चौंकाने वाला दावा",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQnpIUDdtaGtwamhTRGJibDZFWnJ1bjBFdzNpOWt1OWNkWnM0RzJSMm4zVlJXb2dEX0xPaWNKaWVwLVYtcGNNMnlNMmpvWTZ0Mk85a2RaVTBhZ3BiNFlIT0pTRG12ajBEMklvRVlER09KeHAtWm1KMnR1ZTZVOGFwZ1R0NXNnNFVfZmtpTldNZm05LTMzc0ZDcXlzX1d2VHJVTkl3Nk0yMTlHVWVJNDhtTThrMlJub0tUNXhuNlhuN3RReGQ0bkVXbV8xb0x3QQ?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-12T06:27:00+00:00",
+      "image_url": "https://images.pexels.com/photos/10801143/pexels-photo-10801143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "एक रिपोर्ट में दावा किया गया है कि संयुक्त अरब अमीरात (UAE) ईरान के साथ गुप्त रूप से युद्ध में शामिल हो गया है। रिपोर्ट में इस बात का कोई सबूत नहीं दिया गया है कि UAE ने ईरान के खिलाफ सैन्य कार्रवाई की है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या गुपचुप तरीके से ईरान के साथ युद्ध में शामिल हो गया UAE? रिपोर्ट में चौंकाने वाला दावा",
+          "summary": "एक रिपोर्ट में दावा किया गया है कि संयुक्त अरब अमीरात (UAE) ईरान के साथ गुप्त रूप से युद्ध में शामिल हो गया है। रिपोर्ट में इस बात का कोई सबूत नहीं दिया गया है कि UAE ने ईरान के खिलाफ सैन्य कार्रवाई की है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -315,182 +417,38 @@
       }
     },
     {
-      "title": "'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न",
+      "title": "'सनातन को खत्म कर देना चाहिए': उदयनिधि के फिर विवादित बोल, कहा- समाज को बांटने वाली सोच को न मिले",
       "url": "https://www.amarujala.com/india-news/sanatan-should-be-eradicated-udhayanidhi-stalin-once-again-attacks-2026-05-12",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-12T06:22:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/21/udayanidhi-stalin_bf942369377991a02d24507e2de4f1f7.jpeg?w=750&dpr=1.0",
-      "summary": "उदयनिधि ने सनातन को समाज को बांटने वाली सोच कहा। 'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न।",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/uthayanathha-satalna_8990fc91a3c726f2b01f943313b710eb.jpeg?w=750&dpr=1.0",
+      "summary": "उदयनिधि ने सनातन को समाज को बांटने वाली सोच कहा। 'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न। 'सनातन को खत्म कर देना चाहिए': उदयनिधि के फिर विवादित बोल, कहा- समाज को बांटने वाली सोच को न मिले।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न",
-          "summary": "उदयनिधि ने सनातन को समाज को बांटने वाली सोच कहा। 'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न।",
+          "title": "'सनातन को खत्म कर देना चाहिए': उदयनिधि के फिर विवादित बोल, कहा- समाज को बांटने वाली सोच को न मिले",
+          "summary": "उदयनिधि ने सनातन को समाज को बांटने वाली सोच कहा। 'सनातन को खत्म कर देना चाहिए': उदयनिधि ने एक बार फिर बोला हमला, कहा- समाज को बांटने वाली सोच को न। 'सनातन को खत्म कर देना चाहिए': उदयनिधि के फिर विवादित बोल, कहा- समाज को बांटने वाली सोच को न मिले।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "हिमंत बिस्व सरमा लगातार दूसरी बार बने असम के सीएम; चार नवनिर्वाचित विधायक मंत्री बने",
-      "url": "https://www.amarujala.com/india-news/himanta-biswa-sarma-oath-live-assam-chief-minister-swearing-in-ceremony-bjp-govt-formation-news-in-hindi-2026-05-12",
-      "source": "Amar Ujala National",
+      "title": "चार हार से पंजाब की राह मुश्किल? दिल्ली की उम्मीदें अभी भी जिंदा; पढ़ें पूरा समीकरण",
+      "url": "https://www.amarujala.com/cricket/ipl-2026-playoff-race-heats-up-csk-rr-alive-as-three-teams-cross-80-qualification-chance-pbks-vs-dc-2026-05-12",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-12T06:21:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/makhayamatara-patha-ka-shapatha-lna-ka-btha-paema-matha-ka-satha-hamata-bsava-sarama_e7c4359c56651d962d211c228d2b9c1c.jpeg?w=750&dpr=1.0",
-      "summary": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा दूसरी बार पद की शपथ लेंगे। गुवाहाटी में एक भव्य समारोह आयोजित किया जा रहा है। यह समारोह उनके नेतृत्व और राज्य की राजनीतिक स्थिति को दर्शाता है। Assam CM Oath LIVE: हिमंत बिस्वा सरमा दूसरी बार संभालेंगे कमान, गुवाहाटी में भव्य शपथ ग्रहण समारोह की तैयारी।",
-      "region": "World",
+      "published_at": "2026-05-12T05:49:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/ipl-2026-ipl-playoffs-csk-playoff-chances-rajasthan-royals-vaibhav-sooryavanshi-rcb-gt-srh_deaf22e5ce390fea8413ac4fb7c5ccda.jpeg?w=750&dpr=1.0",
+      "summary": "इंडियन प्रीमियर लीग (IPL) 2026 में पंजाब किंग्स की प्लेऑफ में पहुंचने की उम्मीदें कम हो गई हैं। चार हार के बाद उनकी राह मुश्किल हो गई है। दिल्ली कैपिटल्स की उम्मीदें अभी भी बनी हुई हैं। आईपीएल 2026 अपने निर्णायक मोड़ पर पहुंच चुका है और प्लेऑफ की जंग बेहद रोमांचक हो गई है।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हिमंत बिस्व सरमा लगातार दूसरी बार बने असम के सीएम; चार नवनिर्वाचित विधायक मंत्री बने",
-          "summary": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा दूसरी बार पद की शपथ लेंगे। गुवाहाटी में एक भव्य समारोह आयोजित किया जा रहा है। यह समारोह उनके नेतृत्व और राज्य की राजनीतिक स्थिति को दर्शाता है। Assam CM Oath LIVE: हिमंत बिस्वा सरमा दूसरी बार संभालेंगे कमान, गुवाहाटी में भव्य शपथ ग्रहण समारोह की तैयारी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दुनिया का अनोखा शहर जहां सूरज भूल जाता है ब्रेक लेना, कई हफ्तों तक नहीं होती रात",
-      "url": "https://www.amarujala.com/photo-gallery/bizarre-news/city-where-sun-does-not-set-midnight-sun-alaska-story-tourist-attraction-no-darkness-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T06:19:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/alaska_411ee48ec49b1f76cdf62b061d4f2b10.jpeg?w=750&dpr=1.0",
-      "summary": "अलास्का के उत्कियागविक शहर में कई हफ्तों तक सूरज नहीं डूबता। अमेरिका के अलास्का राज्य में बसा छोटा सा शहर उत्कियागविक अपनी एक खासियत की वजह से जाना जाता है। यहां साल का एक ऐसा समय आता है जब सूरज कई हफ्तों तक डूबता ही नहीं।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुनिया का अनोखा शहर जहां सूरज भूल जाता है ब्रेक लेना, कई हफ्तों तक नहीं होती रात",
-          "summary": "अलास्का के उत्कियागविक शहर में कई हफ्तों तक सूरज नहीं डूबता। अमेरिका के अलास्का राज्य में बसा छोटा सा शहर उत्कियागविक अपनी एक खासियत की वजह से जाना जाता है। यहां साल का एक ऐसा समय आता है जब सूरज कई हफ्तों तक डूबता ही नहीं।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "बाल छोटे कराने को लेकर चिंटू ने नाई से कही ऐसी बात, पढिए धमाकेदार चुटकुले",
-      "url": "https://www.amarujala.com/photo-gallery/humour/funny-hindi-jokes-husband-wife-jokes-in-hindi-whatsapp-new-jokes-jija-sali-chutkule-latest-jokes-in-hindi-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T06:18:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/funny-jokes_2633f40a4f41ecce972f1c776d8e1bf2.jpeg?w=750&dpr=1.0",
-      "summary": "चिंटू ने बाल छोटे कराने को लेकर नाई से मजाक किया। अच्छे खान पान के साथ ही सेहतमंद रहने के लिए हंसना भी बेहद जरूरी है। शरीर को स्वस्थ रखने के लिए हर दिन चाहिए। हंसने से मानसिक तनाव और चिंता हमसे दूर रहती है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बाल छोटे कराने को लेकर चिंटू ने नाई से कही ऐसी बात, पढिए धमाकेदार चुटकुले",
-          "summary": "चिंटू ने बाल छोटे कराने को लेकर नाई से मजाक किया। अच्छे खान पान के साथ ही सेहतमंद रहने के लिए हंसना भी बेहद जरूरी है। शरीर को स्वस्थ रखने के लिए हर दिन चाहिए। हंसने से मानसिक तनाव और चिंता हमसे दूर रहती है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "CM पद की शपथ लेने पहुंचे Himanta Biswa, भीड़ से घिरे",
-      "url": "https://www.amarujala.com/video/india-news/assam-cm-oath-ceremony-himanta-biswa-arrives-to-take-oath-as-cm-surrounded-by-crowd-assam-new-cm-oath-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T06:14:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/assam_6eab6c2665cb542bebcd5796c3a36ccb.jpeg?w=750&dpr=1.0",
-      "summary": "हिमंता बिस्वा ने असम के मुख्यमंत्री पद की शपथ ली। CM पद की शपथ लेने पहुंचे Himanta Biswa, भीड़ से घिरे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "CM पद की शपथ लेने पहुंचे Himanta Biswa, भीड़ से घिरे",
-          "summary": "हिमंता बिस्वा ने असम के मुख्यमंत्री पद की शपथ ली। CM पद की शपथ लेने पहुंचे Himanta Biswa, भीड़ से घिरे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बच्चों की आंखें रखना चाहते हैं हेल्दी? रोज कराएं ये आसान योगासन",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/kids-eye-care-yoga-for-eyesight-bachchon-ke-liye-yogasan-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T06:08:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/yoga-for-eyesight-improvement_126efd1a4b6176da78123f405b9ad68e.jpeg?w=750&dpr=1.0",
-      "summary": "त्राटक और भ्रामरी जैसे योगासन बच्चों की आंखों को हेल्दी रखते हैं। Yoga For Eyesight: बच्चों की आंखों को हेल्दी रखने और आंखों की थकान कम करने के लिए त्राटक, पामिंग और भ्रामरी जैसे आसान योगासन फायदेमंद माने जाते हैं। जानिए पूरी जानकारी। बच्चों की आंखें रखना चाहते हैं हेल्दी?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बच्चों की आंखें रखना चाहते हैं हेल्दी? रोज कराएं ये आसान योगासन",
-          "summary": "त्राटक और भ्रामरी जैसे योगासन बच्चों की आंखों को हेल्दी रखते हैं। Yoga For Eyesight: बच्चों की आंखों को हेल्दी रखने और आंखों की थकान कम करने के लिए त्राटक, पामिंग और भ्रामरी जैसे आसान योगासन फायदेमंद माने जाते हैं। जानिए पूरी जानकारी। बच्चों की आंखें रखना चाहते हैं हेल्दी?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'वन लाइफ टू लिव' की जेनिफर हरमन का हुआ निधन, 82 साल की उम्र में ली अंतिम सांस",
-      "url": "https://www.amarujala.com/entertainment/hollywood/jennifer-harmon-passes-away-at-the-age-of-82-famous-for-film-one-life-to-live-and-how-to-survive-a-marriage-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T06:07:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/janafara-haramana_1e43f7d0f15cb2ee5884b4ac9f22e541.jpeg?w=750&dpr=1.0",
-      "summary": "अभिनेत्री जेनिफर हरमन का 82 साल की उम्र में निधन हो गया। वह 'वन लाइफ टू लिव' और 'हाउ टू सरवाइव अ मैरिज' जैसी फिल्मों के लिए प्रसिद्ध थीं। उनके परिवार ने उनके निधन की जानकारी दी। 'वन लाइफ टू लिव' और 'हाउ टू सरवाइव अ मैरिज' जैसी फिल्मों के लिए प्रसिद्ध अभिनेत्री जेनिफर हरमन का निधन हो गया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'वन लाइफ टू लिव' की जेनिफर हरमन का हुआ निधन, 82 साल की उम्र में ली अंतिम सांस",
-          "summary": "अभिनेत्री जेनिफर हरमन का 82 साल की उम्र में निधन हो गया। वह 'वन लाइफ टू लिव' और 'हाउ टू सरवाइव अ मैरिज' जैसी फिल्मों के लिए प्रसिद्ध थीं। उनके परिवार ने उनके निधन की जानकारी दी। 'वन लाइफ टू लिव' और 'हाउ टू सरवाइव अ मैरिज' जैसी फिल्मों के लिए प्रसिद्ध अभिनेत्री जेनिफर हरमन का निधन हो गया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बंगाल में आयुष्मान भारत योजना लागू होने पर PM ने जताई खुशी, कहा- हर घर तक पहुंचेगी केंद्र की योजना",
-      "url": "https://www.amarujala.com/india-news/pm-expressed-happiness-over-the-implementation-of-ayushman-bharat-scheme-in-bengal-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T06:02:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/10/pm-modi-to-visit-karnataka-telangana-on-may-10-to-unveil-rs-9400-crore-development-projects-in-hy_6a732f8edd29ce7e00070cd84f0826a5.jpeg?w=750&dpr=1.0",
-      "summary": "प्रधानमंत्री ने बंगाल में आयुष्मान भारत योजना लागू होने पर खुशी जताई। उन्होंने कहा कि केंद्र की योजनाएं हर घर तक पहुंचेंगी। यह योजना बंगाल में लागू हो गई है। Bengal: बंगाल में आयुष्मान भारत योजना लागू होने पर PM ने जताई खुशी, कहा- हर घर तक पहुंचेगी केंद्र की योजना।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बंगाल में आयुष्मान भारत योजना लागू होने पर PM ने जताई खुशी, कहा- हर घर तक पहुंचेगी केंद्र की योजना",
-          "summary": "प्रधानमंत्री ने बंगाल में आयुष्मान भारत योजना लागू होने पर खुशी जताई। उन्होंने कहा कि केंद्र की योजनाएं हर घर तक पहुंचेंगी। यह योजना बंगाल में लागू हो गई है। Bengal: बंगाल में आयुष्मान भारत योजना लागू होने पर PM ने जताई खुशी, कहा- हर घर तक पहुंचेगी केंद्र की योजना।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रोल नंबर लेकर रहें तैयार, जल्द आ रहा रिजल्ट, उमंग और डिजिलॉकर ने साझा किया अपडेट",
-      "url": "https://www.amarujala.com/live/education/cbse-class-12th-result-2026-date-time-live-how-to-check-stream-wise-result-at-results-cbse-nic-in-digilocker-2026-05-11",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T05:56:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/cbse-12th-result-2026_4b19fb8f3b768a08296bb46efd371e0a.jpeg?w=750&dpr=1.0",
-      "summary": "सीबीएसई बोर्ड कक्षा 12वीं के रिजल्ट का इंतजार कर रहे विद्यार्थियों के लिए जानकारी सामने आई। रिजल्ट जल्द जारी किया जाएगा। उमंग और डिजिलॉकर ने अपडेट साझा किया है। रोल नंबर लेकर रहें तैयार, जल्द आ रहा रिजल्ट, उमंग और डिजिलॉकर ने साझा किया अपडेट।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रोल नंबर लेकर रहें तैयार, जल्द आ रहा रिजल्ट, उमंग और डिजिलॉकर ने साझा किया अपडेट",
-          "summary": "सीबीएसई बोर्ड कक्षा 12वीं के रिजल्ट का इंतजार कर रहे विद्यार्थियों के लिए जानकारी सामने आई। रिजल्ट जल्द जारी किया जाएगा। उमंग और डिजिलॉकर ने अपडेट साझा किया है। रोल नंबर लेकर रहें तैयार, जल्द आ रहा रिजल्ट, उमंग और डिजिलॉकर ने साझा किया अपडेट।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मर्सिडीज GLS को टक्कर देने आ रही है ऑडी की यह SUV: प्रीमियम फीचर्स और नए डिजाइन का हुआ खुलासा, कब",
-      "url": "https://www.amarujala.com/automobiles/audi-q9-teased-flagship-electric-doors-4d-sound-panoramic-sunroof-reveale-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-12T05:56:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/audi-q9-paratakatamaka-tasavara_6897b11a6d21339d1c0c84549bdfcdce.jpeg?w=750&dpr=1.0",
-      "summary": "ऑडी ने अपनी अपकमिंग फ्लैगशिप SUV Q9 के इंटीरियर की पहली झलक दिखाई। इसमें टेक्नोलॉजी और लग्जरी का जबरदस्त कॉम्बिनेशन है। यह SUV मर्सिडीज GLS को टक्कर देने आ रही है। मर्सिडीज GLS को टक्कर देने आ रही है ऑडी की यह SUV: प्रीमियम फीचर्स और नए डिजाइन का हुआ खुलासा, कब।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मर्सिडीज GLS को टक्कर देने आ रही है ऑडी की यह SUV: प्रीमियम फीचर्स और नए डिजाइन का हुआ खुलासा, कब",
-          "summary": "ऑडी ने अपनी अपकमिंग फ्लैगशिप SUV Q9 के इंटीरियर की पहली झलक दिखाई। इसमें टेक्नोलॉजी और लग्जरी का जबरदस्त कॉम्बिनेशन है। यह SUV मर्सिडीज GLS को टक्कर देने आ रही है। मर्सिडीज GLS को टक्कर देने आ रही है ऑडी की यह SUV: प्रीमियम फीचर्स और नए डिजाइन का हुआ खुलासा, कब।",
-          "region": "दुनिया"
+          "title": "चार हार से पंजाब की राह मुश्किल? दिल्ली की उम्मीदें अभी भी जिंदा; पढ़ें पूरा समीकरण",
+          "summary": "इंडियन प्रीमियर लीग (IPL) 2026 में पंजाब किंग्स की प्लेऑफ में पहुंचने की उम्मीदें कम हो गई हैं। चार हार के बाद उनकी राह मुश्किल हो गई है। दिल्ली कैपिटल्स की उम्मीदें अभी भी बनी हुई हैं। आईपीएल 2026 अपने निर्णायक मोड़ पर पहुंच चुका है और प्लेऑफ की जंग बेहद रोमांचक हो गई है।",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -500,7 +458,7 @@
       "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-12T05:48:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/06/meta-piracy-lawsuit-usa_0ebdabf4ef69d7dff7629d64bf86461c.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/meta-ai_eaaf50bdcb4a1b4dcca73b6b3cd8e8b5.jpeg?w=750&dpr=1.0",
       "summary": "मेटा 8,000 कर्मचारियों की छंटनी करने जा रहा है। मार्क जुकरबर्ग का फोकस अब छोटी टीमों और एआई पर है। यह छंटनी 20 मई को होगी। मेटा 20 मई को 8,000 कर्मचारियों की छंटनी करने जा रहा है। कंपनी के इस बड़े बदलाव और रिकॉर्ड खर्च के बारे में विस्तार से जानने के लिए पूरी खबर पढ़ें।",
       "region": "World",
       "language": "hi",
@@ -531,25 +489,7 @@
       }
     },
     {
-      "title": "राजस्थानी भाषा पर आज सुप्रीम कोर्ट का बड़ा फैसला! स्कूलों से लेकर सरकारी भर्तियों तक पड़ेगा असर",
-      "url": "https://www.amarujala.com/rajasthan/jaipur/supreme-court-to-deliver-key-verdict-on-rajasthani-language-recognition-in-schools-jaipur-news-c-1-1-noi1422-4270025-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T05:44:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/02/sc-directs-centre-to-set-up-tribunal-for-sharing-of-pennaiyar-river-waters_03003f9fccdaebac1e8ae4401e90eba7.jpeg?w=750&dpr=1.0",
-      "summary": "सुप्रीम कोर्ट आज राजस्थानी भाषा को शैक्षणिक मान्यता देने की मांग पर फैसला सुनाएगा. यह फैसला स्कूलों में राजस्थानी भाषा की पढ़ाई और शिक्षकों की भर्ती पर असर डालेगा. प्रदेशभर में लोग इस फैसले का इंतजार कर रहे हैं. Rajasthan: राजस्थानी भाषा को शैक्षणिक मान्यता देने की मांग पर सुप्रीम कोर्ट आज अहम फैसला सुनाने जा रहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राजस्थानी भाषा पर आज सुप्रीम कोर्ट का बड़ा फैसला! स्कूलों से लेकर सरकारी भर्तियों तक पड़ेगा असर",
-          "summary": "सुप्रीम कोर्ट आज राजस्थानी भाषा को शैक्षणिक मान्यता देने की मांग पर फैसला सुनाएगा. यह फैसला स्कूलों में राजस्थानी भाषा की पढ़ाई और शिक्षकों की भर्ती पर असर डालेगा. प्रदेशभर में लोग इस फैसले का इंतजार कर रहे हैं. Rajasthan: राजस्थानी भाषा को शैक्षणिक मान्यता देने की मांग पर सुप्रीम कोर्ट आज अहम फैसला सुनाने जा रहा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "विजय लंबे-चौड़े वादे कर क्या ख़ुद को मुश्किल में डाल चुके हैं?",
+      "title": "विजय बड़े वादे कर क्या ख़ुद को मुश्किल में डाल चुके हैं?",
       "url": "https://www.bbc.com/hindi/articles/c8xwvg10jlgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "sources": [],
@@ -560,7 +500,7 @@
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "विजय लंबे-चौड़े वादे कर क्या ख़ुद को मुश्किल में डाल चुके हैं?",
+          "title": "विजय बड़े वादे कर क्या ख़ुद को मुश्किल में डाल चुके हैं?",
           "summary": "तमिलनाडु में विजय ने लगभग छह दशकों से चली आ रही डीएमके और एआईएडीएमके की बारी-बारी से सत्ता की स्थिति को बदल दिया है. अब उन्हें अपने चुनावी वादों को पूरा करने की चुनौती का सामना करना पड़ेगा. लगभग छह दशकों से डीएमके और एआईएडीएमके बारी-बारी से सत्ता में आती रही हैं.",
           "region": "दुनिया"
         }
@@ -580,24 +520,6 @@
         "hi": {
           "title": "वैज्ञानिक प्रगति के वैश्विक विमर्श को ‘संकीर्ण नजरिए’ से देखा गया: जयशंकर",
           "summary": "विदेश मंत्री जयशंकर ने कहा है कि वैज्ञानिक प्रगति के वैश्विक विमर्श को एक संकीर्ण नजरिए से देखा जा रहा है. उन्होंने इस मुद्दे पर चिंता जताई है. जयशंकर का यह बयान महत्वपूर्ण माना जा रहा है. वैज्ञानिक प्रगति के वैश्विक विमर्श को ‘संकीर्ण नजरिए’ से देखा गया: जयशंकर ThePrint Hindi।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पाचन सुधारने से लेकर हड्डियों तक को मजबूत बनाता है ये देसी प्रोटीन ड्रिंक",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/how-to-make-protein-powder-at-home-protein-powder-khane-ke-fayde-2026-05-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-12T05:01:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/homemade-protein-powder_c8ff8728adf26791015e251cfb6be592.jpeg?w=750&dpr=1.0",
-      "summary": "एक देसी प्रोटीन ड्रिंक पाचन सुधारने से लेकर हड्डियों को मजबूत बनाने में मदद कर सकता है. यह प्रोटीन पाउडर महंगा नहीं है और घर पर भी बनाया जा सकता है. युवा अपने स्वास्थ्य को बनाए रखने के लिए इसका उपयोग कर सकते हैं. Homemade Protein Powder: आजकल के युवा अपने शरीर को स्वस्थ रखने के लिए प्रोटीन का इस्तेमाल करते हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाचन सुधारने से लेकर हड्डियों तक को मजबूत बनाता है ये देसी प्रोटीन ड्रिंक",
-          "summary": "एक देसी प्रोटीन ड्रिंक पाचन सुधारने से लेकर हड्डियों को मजबूत बनाने में मदद कर सकता है. यह प्रोटीन पाउडर महंगा नहीं है और घर पर भी बनाया जा सकता है. युवा अपने स्वास्थ्य को बनाए रखने के लिए इसका उपयोग कर सकते हैं. Homemade Protein Powder: आजकल के युवा अपने शरीर को स्वस्थ रखने के लिए प्रोटीन का इस्तेमाल करते हैं।",
           "region": "दुनिया"
         }
       }
@@ -623,7 +545,7 @@
     {
       "title": "ईरान के प्रस्ताव न मानने से अमेरिका नाराज, फिर हमले का आदेश दे सकते हैं राष्ट्रपति",
       "url": "https://www.amarujala.com/world/america-is-angry-with-iran-for-not-accepting-its-proposal-president-may-order-attack-again-2026-05-12",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-12T04:48:28+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/danalda-tarapa_96d66854bd54375bcbfb9edf463b53f9.jpeg?w=750&dpr=1.0",
@@ -687,6 +609,60 @@
         "hi": {
           "title": "हिमंत बिस्वा सरमा क्या अब योगी आदित्यनाथ और फडणवीस की बराबरी पर आ गए हैं?",
           "summary": "हिमंत बिस्वा सरमा के बढ़ते राजनीतिक क़द को लेकर चर्चाएं हो रही हैं कि वे योगी आदित्यनाथ और फडणवीस की बराबरी पर आ गए हैं। बीते 4 मई को असम में एनडीए गठबंधन की जीत के बाद गुवाहाटी स्थित बीजेपी दफ़्तर में सिर्फ़ जश्न नहीं दिखा, बल्कि हिमंत बिस्वा सरमा के बढ़ते राजनीतिक क़द को लेकर चर्चाएं भी सुनाई दीं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "2028 में कौन होगा राष्ट्रपति पद का उम्मीदवार? जेडी वेंस और मार्को रुबियो पर ट्रंप ने क्या कहा",
+      "url": "https://www.amarujala.com/world/vance-or-rubio-trump-polls-white-house-dinner-attendees-on-2028-race-2026-05-12",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-12T04:18:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/24/donald-trump_f3f4a4e33a6b9f917ec544334ed31a10.jpeg?w=750&dpr=1.0",
+      "summary": "डोनाल्ड ट्रंप ने 2028 के राष्ट्रपति चुनाव के लिए जेडी वेंस और मार्को रुबियो को संभावित उम्मीदवार बताया है। उन्होंने कहा कि दोनों ही अच्छे विकल्प हो सकते हैं। अमेरिका: 2028 में कौन होगा राष्ट्रपति पद का उम्मीदवार? जेडी वेंस और मार्को रुबियो पर ट्रंप ने क्या कहा।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "2028 में कौन होगा राष्ट्रपति पद का उम्मीदवार? जेडी वेंस और मार्को रुबियो पर ट्रंप ने क्या कहा",
+          "summary": "डोनाल्ड ट्रंप ने 2028 के राष्ट्रपति चुनाव के लिए जेडी वेंस और मार्को रुबियो को संभावित उम्मीदवार बताया है। उन्होंने कहा कि दोनों ही अच्छे विकल्प हो सकते हैं। अमेरिका: 2028 में कौन होगा राष्ट्रपति पद का उम्मीदवार? जेडी वेंस और मार्को रुबियो पर ट्रंप ने क्या कहा।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "एक छोटा टीका, हर बच्चे के लिए बड़ा वादा",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52WGtQSVJsczl1VTFkcnZ4MGJJUHNBMGh3MFFsYU5yZmF0MjRYSEM5Q3d2YkhlcW1pa2JHamgwellDYjNTTW41MEhnc2FsR1hGa0NUa3EyWQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-12T04:10:00+00:00",
+      "image_url": "https://images.pexels.com/photos/17219719/pexels-photo-17219719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने भारत में एक छोटे टीके के महत्व पर प्रकाश डाला है। यह टीका हर बच्चे के लिए एक बड़ा वादा रखता है। एक छोटा टीका, हर बच्चे के लिए बड़ा वादा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एक छोटा टीका, हर बच्चे के लिए बड़ा वादा",
+          "summary": "संयुक्त राष्ट्र ने भारत में एक छोटे टीके के महत्व पर प्रकाश डाला है। यह टीका हर बच्चे के लिए एक बड़ा वादा रखता है। एक छोटा टीका, हर बच्चे के लिए बड़ा वादा।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मुख्य निर्वाचन अधिकारी रहे मनोज अग्रवाल को मुख्य सचिव बनाने पर उठ रहे हैं सवाल",
+      "url": "https://www.bbc.com/hindi/articles/c74dzze8pyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-12T03:25:51+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a1e1/live/ae6f5230-4db0-11f1-bd30-a574c830d75d.jpg",
+      "summary": "पश्चिम बंगाल में मुख्य निर्वाचन अधिकारी रहे मनोज अग्रवाल को मुख्य सचिव बनाने पर सवाल उठ रहे हैं। उनके कार्यकाल में मतदाता सूची से 91 लाख नाम हटाए गए थे। मनोज अग्रवाल के कार्यकाल के दौरान पश्चिम बंगाल में स्पेशल इंटेसिव रिविजन यानी एसआईआर अभियान चलाया गया, जिसमें लगभग 91 लाख मतदाताओं के नाम मतदाता सूची से हटाए गए.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मुख्य निर्वाचन अधिकारी रहे मनोज अग्रवाल को मुख्य सचिव बनाने पर उठ रहे हैं सवाल",
+          "summary": "पश्चिम बंगाल में मुख्य निर्वाचन अधिकारी रहे मनोज अग्रवाल को मुख्य सचिव बनाने पर सवाल उठ रहे हैं। उनके कार्यकाल में मतदाता सूची से 91 लाख नाम हटाए गए थे। मनोज अग्रवाल के कार्यकाल के दौरान पश्चिम बंगाल में स्पेशल इंटेसिव रिविजन यानी एसआईआर अभियान चलाया गया, जिसमें लगभग 91 लाख मतदाताओं के नाम मतदाता सूची से हटाए गए.",
           "region": "दुनिया"
         }
       }
