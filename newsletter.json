@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-05-13T15:45:57.358861+00:00",
+  "generated_at": "2026-05-13T18:04:11.506865+00:00",
   "article_count": 43,
   "total_unique_count": 374,
   "digest": {
-    "en": "Beijing's engagement with Washington tops headlines, from trade talks to security concerns. Meanwhile, the Middle East grapples with escalating drone threats and social media restrictions. Elsewhere, Brazil begins marking land for uncontacted tribes after decades.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, नीट परीक्षा कराने में क्या कोई ख़ामी है और कहाँ हो सकता है पेपर लीक? मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "The Seville caracol season and India's doubled gold duties lead the news. Beijing braces for a Trump visit amid AI worker compensation rulings. UN peacekeepers warn of drone risks near their positions.",
+    "hi": "ईरान के बढ़ते रक्षा बजट और UNIFIL पर हमलों से मध्य पूर्व में तनाव बढ़ रहा है। अफ़ग़ानिस्तान में सूखे और सहायता कटौती के कारण लौटे नागरिकों का संकट गहरा रहा है। भारत में नीट परीक्षा की शुचिता पर सवाल उठ रहे हैं।"
   },
   "articles": [
+    {
+      "title": "Greetings from Seville, where springtime means caracoles",
+      "url": "https://www.npr.org/2026/05/13/g-s1-121409/seville-spain-snails-caracoles",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-05-13T17:16:10+00:00",
+      "image_url": "https://images.pexels.com/photos/28989038/pexels-photo-28989038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Seville marks springtime with caracoles, a local snail delicacy. Spring is snail season in Seville. Caracoles in southern Spain differ from the well-known French escargot. they're smaller and eaten directly from the shell. And everyone has a favorite tapas bar that serves them. Greetings from Seville, where springtime means caracoles.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Gold and silver import duties doubled following Modi’s appeal | Above the Fold | 13.05.2026",
+      "url": "https://www.thehindu.com/videos/watch-gold-and-silver-import-duties-doubled-following-modis-appeal-above-the-fold-13052026/article70975199.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-13T15:39:35+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/jq832u/article70975239.ece/alternates/LANDSCAPE_1200/MAY%2013%20THUMB.png",
+      "summary": "India's Union government doubled import duties on gold and silver. In today’s episode Union government steps up austerity measures as the West Asia crisis deepens, with the Centre doubling gold and silver import duty and BJP leaders cutting convoy sizes, U. S. President Donald Trump’s China visit, and more.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Chinese court awards compensation to sacked worker replaced by AI",
       "url": "https://www.theguardian.com/world/2026/may/13/china-court-awards-compensation-sacked-worker-replaced-by-ai",
@@ -15,18 +39,6 @@
       "published_at": "2026-05-13T14:58:57+00:00",
       "image_url": "https://i.guim.co.uk/img/media/13a6102d7aa5db9a583656d45a2598be578f4cc8/913_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cbdc302557b2aa13927fa6d91a65b4f3",
       "summary": "A Chinese court awarded over £28,000 Case attracts widespread attention as example of China balancing enthusiastic adoption of AI with job securityA court in China has ruled in favour of a worker whose company replaced him with artificial intelligence (AI), awarding him more than £28,000 in compensation. The worker, whose surname is Zhou, joined a tech company in the eastern city of Hangzhou in 2022 as a quality assurance supervisor o.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Rule of law boosts Singapore's social fabric; government's job is to reflect social values in law",
-      "url": "https://www.channelnewsasia.com/singapore/edwin-tong-rule-law-social-fabric-values-6118586",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-13T13:37:53+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--iiS-YcbN--/c_crop,h_2451,w_4358,x_0,y_67/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/13/ayt_2807.jpg?itok=bKK1EKFU",
-      "summary": "Singapore's Law Minister K Shanmugam stated the rule of law strengthens the nation's social fabric. He was speaking at the SGLaw200 Youth Forum. The minister emphasized the government's role in reflecting societal values within the legal framework. The law minister was speaking on a panel about the rule of law and Singapore's social fabric at the SGLaw200 Youth Forum, together with High Court Judge Mohamed Faizal Mohamed Abdul Kadir and Deputy Attorney-General Goh Yihan.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -59,20 +71,7 @@
       "title": "UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167496",
       "source": "UN News",
-      "sources": [
-        {
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167496",
-          "source": "UN News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSTJncW5jNHVVVGFiazNISV9oek1aX2t4SnQtNEd0X1pwdUxPZXU1ZW1DVTF4Szlma0VPRmNDelpFQUUxR3JHU0kxRjc2c2ZuUEdFcjlyTQ?oc=5",
-          "source": "Google News (United Nations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSTJncW5jNHVVVGFiazNISV9oek1aX2t4SnQtNEd0X1pwdUxPZXU1ZW1DVTF4Szlma0VPRmNDelpFQUUxR3JHU0kxRjc2c2ZuUEdFcjlyTQ?oc=5",
-          "source": "Google News (United Nations)"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-13T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/13-05-2026-UNIFIL-Lebanon.jpg/image560x340cropped.jpg",
       "summary": "UNIFIL reported increased drone activity and explosions near its positions in southern Lebanon. The peacekeeping force stated this escalation, involving suspected Hezbollah drones and Israeli forces, is endangering personnel. The incidents also threaten stability in the region. The UN Interim Force in Lebanon (UNIFIL) said on Wednesday that escalating drone activity and nearby explosions involving suspected Hezbollah drones and Israeli forces are endangering its personnel and threatening already fragile stability in southern Lebanon.",
@@ -113,18 +112,6 @@
       "image_url": "https://images.pexels.com/photos/33892274/pexels-photo-33892274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "A French woman infected with hantavirus from a cruise ship is critically ill A French woman infected in the deadly hantavirus outbreak on a cruise ship is critically ill and being treated with an artificial lung. The outbreak has now reached 11 total reported cases, 9 of which have been confirmed.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Opinion | The Beijing Visit: Why Does Trump Suddenly Need Xi Jinping?",
-      "url": "https://www.ndtv.com/opinion/trump-visits-china-why-does-trump-suddenly-need-xi-jinping-11487792#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-13T06:14:13+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/p93c3fqc_trump-xi-afp_625x300_13_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "summary": "China is assessing the potential for Donald Trump to become a lame-duck president China will factor in the real possibility that in the mid-term elections in November, Trump may lose the House of Representatives and may become a lame-duck president. How far should it invest in an agreement with Trump is the question.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -237,19 +224,73 @@
       "translations": {}
     },
     {
+      "title": "ईरान संघर्ष में भारी कीमत चुका रहा अमेरिका, एक खरब डॉलर तक पहुंचेगा पेंटागन का रक्षा बजट",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2x2aWVDV2pKM0tCV19FT251RF96SHlWSkFrVWNZR1hnSHJLZnBKcjlmT2FneDRidEd3ZURkSnVXR0NvSzRfck9DR3pTa0wtVVRhTWtMaE5DUXFrNVNabEM0cFk4aWtuMG9YVHIzMjRNVVh3T1c2STdqWlR3a2tCOThHN1JGV1Y2LXhrRnJ1WXFjUDlSazFMdVUwV0pVZWlrUW9hVlh5TzdMZUQzYlJXMUlUbGdZZFZWUWFnaTdwMjFnUkRuaktiV3Rn?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-13T17:56:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14136542/pexels-photo-14136542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिका ईरान संघर्ष में बड़ी वित्तीय लागत वहन कर रहा है. ईरान संघर्ष में भारी कीमत चुका रहा अमेरिका, एक खरब डॉलर तक पहुंचेगा पेंटागन का रक्षा बजट Jagran।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान संघर्ष में भारी कीमत चुका रहा अमेरिका, एक खरब डॉलर तक पहुंचेगा पेंटागन का रक्षा बजट",
+          "summary": "अमेरिका ईरान संघर्ष में बड़ी वित्तीय लागत वहन कर रहा है. ईरान संघर्ष में भारी कीमत चुका रहा अमेरिका, एक खरब डॉलर तक पहुंचेगा पेंटागन का रक्षा बजट Jagran।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "लेबनान में यूएन शान्ति बल - UNIFIL पर हमलों से चिन्ता, शान्ति की अपील",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNUTBRS0VzUG1JajdtSG9IV3ZrWVlTZ3FESUdWaTFtaVhpOHFLNmxROG0zc0RaV2pQaVZoRmNPdUZLQ2ttRXRhX09ORlFvSFJjWUdIYzU3cw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-13T16:55:14+00:00",
+      "image_url": "https://images.pexels.com/photos/10100077/pexels-photo-10100077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने लेबनान में अपनी अंतरिम सेना (UNIF लेबनान में यूएन शान्ति बल - UNIFIL पर हमलों से चिन्ता, शान्ति की अपील।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लेबनान में यूएन शान्ति बल - UNIFIL पर हमलों से चिन्ता, शान्ति की अपील",
+          "summary": "संयुक्त राष्ट्र ने लेबनान में अपनी अंतरिम सेना (UNIF लेबनान में यूएन शान्ति बल - UNIFIL पर हमलों से चिन्ता, शान्ति की अपील।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "देश वापिस आए अफ़ग़ान नागरिकों की रिकॉर्ड संख्या, सूखे व सहायता कटौती ने बढ़ाया संकट",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPR2ZMeDdiWVAxYy1PVTY5R3hqNFRTd2FzM21PNnZtbGo0YVdrd3pWRmhCMkIzRmxUaHFFaWliYXU0MHFYVmFtVGljeFNCbi11ZkdNSE45aw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-13T16:00:40+00:00",
+      "image_url": "https://images.pexels.com/photos/20673985/pexels-photo-20673985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अफ़ग़ानिस्तान में सूखे और सहायता कटौती के कारण रिकॉर्ड संख्या देश वापिस आए अफ़ग़ान नागरिकों की रिकॉर्ड संख्या, सूखे व सहायता कटौती ने बढ़ाया संकट Welcome to the United Nations।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "देश वापिस आए अफ़ग़ान नागरिकों की रिकॉर्ड संख्या, सूखे व सहायता कटौती ने बढ़ाया संकट",
+          "summary": "अफ़ग़ानिस्तान में सूखे और सहायता कटौती के कारण रिकॉर्ड संख्या देश वापिस आए अफ़ग़ान नागरिकों की रिकॉर्ड संख्या, सूखे व सहायता कटौती ने बढ़ाया संकट Welcome to the United Nations।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
       "title": "नीट परीक्षा कराने में क्या कोई ख़ामी है और कहाँ हो सकता है पेपर लीक?",
       "url": "https://www.bbc.com/hindi/articles/c0l26zwn6plo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "sources": [],
       "published_at": "2026-05-13T14:15:26+00:00",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8813/live/d7ac1530-4ecc-11f1-9212-dfb4afb0b88f.jpg",
-      "summary": "3 मई 2026 को देशभर में 2 नीट परीक्षा कराने में क्या कोई ख़ामी है और कहाँ हो सकता है पेपर लीक?",
+      "summary": "3 मई 2026 को देशभर में 2 नीट परीक्षा कराने में क्या कोई ख़ामी है और कहाँ हो सकता है पेपर लीक? 3 मई 2026 को देशभर में 22 लाख से अधिक स्टूडेंट्स उस परीक्षा में शामिल हुए, जिससे उन्हें उम्मीद थी कि वह उनकी ज़िंदगी बदल देगी.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "नीट परीक्षा कराने में क्या कोई ख़ामी है और कहाँ हो सकता है पेपर लीक?",
-          "summary": "3 मई 2026 को देशभर में 2 नीट परीक्षा कराने में क्या कोई ख़ामी है और कहाँ हो सकता है पेपर लीक?",
+          "summary": "3 मई 2026 को देशभर में 2 नीट परीक्षा कराने में क्या कोई ख़ामी है और कहाँ हो सकता है पेपर लीक? 3 मई 2026 को देशभर में 22 लाख से अधिक स्टूडेंट्स उस परीक्षा में शामिल हुए, जिससे उन्हें उम्मीद थी कि वह उनकी ज़िंदगी बदल देगी.",
           "region": "दुनिया"
         }
       }
@@ -308,7 +349,7 @@
       }
     },
     {
-      "title": "'अच्छा मदरसा यहीं मिल जाए तो वहां क्यों जाएंगे': उन परिवारों की कहानी जिनके बच्चों को मदरसा जाने से",
+      "title": "'हमारे पास पैसा नहीं है, मज़बूरी में भेजते हैं मदरसा' : उन परिवारों की कहानी जिनके बच्चों को मदरसा",
       "url": "https://www.bbc.com/hindi/articles/ce3pw5448k3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "sources": [],
@@ -319,7 +360,7 @@
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'अच्छा मदरसा यहीं मिल जाए तो वहां क्यों जाएंगे': उन परिवारों की कहानी जिनके बच्चों को मदरसा जाने से",
+          "title": "'हमारे पास पैसा नहीं है, मज़बूरी में भेजते हैं मदरसा' : उन परिवारों की कहानी जिनके बच्चों को मदरसा",
           "summary": "मध्य प्रदेश के कटनी में 163 मुस्लिम बच्चों को ट्रेन बिहार से हर साल मुस्लिम बच्चे महाराष्ट्र, कर्नाटक, यूपी, पश्चिम बंगाल, ओडिशा सहित कई राज्यों के मदरसों में पढ़ने जाते हैं. मध्य प्रदेश के कटनी में ऐसे ही 163 बच्चों को मानव तस्करी की आशंका में ट्रेन से उतार लिया गया था.",
           "region": "दुनिया"
         }
@@ -434,271 +475,217 @@
       }
     },
     {
-      "title": "संयुक्त राष्ट्र ने हर हफ्ते एक बच्चे की मौत के लिए वेस्ट बैंक में इजरायल के अभियान की निंदा की",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5lemZpYXRlVjVBQ3pqa24tSlNsVTBwYkdIRnN6X0xVdjFCeVB0UGZpV3pBdTBTTXlUdWRfOGQ0eG9Ba0XSAUJBVV95cUxNVHBvTjh3ZDdtUnVTdWRoN2diVzNDWURITVVWU1NvWGdWc2VXdFozRFk1clFkLXp1Vm12elBDSngtYVE?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-13T05:04:29+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने वेस्ट बैंक में इजरायल के अभियान की निंदा की। संयुक्त राष्ट्र ने हर हफ्ते एक बच्चे की मौत के लिए वेस्ट बैंक में इजरायल के अभियान की निंदा की VOI. id।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संयुक्त राष्ट्र ने हर हफ्ते एक बच्चे की मौत के लिए वेस्ट बैंक में इजरायल के अभियान की निंदा की",
-          "summary": "संयुक्त राष्ट्र ने वेस्ट बैंक में इजरायल के अभियान की निंदा की। संयुक्त राष्ट्र ने हर हफ्ते एक बच्चे की मौत के लिए वेस्ट बैंक में इजरायल के अभियान की निंदा की VOI. id।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "आरबीआई इस साल दे सकता है अपना सबसे बड़ा डिविडेंड, अमेरिका में थोक महंगाई ने तोड़ा रिकॉर्ड",
-      "url": "https://www.amarujala.com/business/business-diary/business-updates-noida-airport-railways-andhra-pradesh-sebi-share-mkt-trade-usd-inr-value-import-export-news-2026-05-13",
+      "title": "वृषभ संक्रांति पर मिलेगा दोगुना पुण्य, इन गलतियों से दूरी बनाकर रखें",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/vrishabha-sankranti-2026-highly-auspicious-transit-these-3-mistakes-can-ruin-its-benefits-2026-05-13",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-13T03:44:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/12/bjanasa-nayaja-eda-apadatasa_7f2f68f2e5b4d9ee8db3f982d3b51abb.jpeg?w=750&dpr=1.0",
-      "summary": "भारतीय रिजर्व बैंक इस साल अपना सबसे बड़ा लाभांश दे सकता है. Biz Updates: आंध्र में ₹2,816 करोड़ की रेलवे लाइन परियोजना को हरी झंडी; NOIDA एयरपोर्ट पर UDF की दरें जारी। आरबीआई इस साल दे सकता है अपना सबसे बड़ा डिविडेंड, अमेरिका में थोक महंगाई ने तोड़ा रिकॉर्ड।",
-      "region": "Americas",
+      "published_at": "2026-05-13T05:57:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/07/vashhabha-sakarata-2026_8f76434123f9998c9d971a846aa56392.jpeg?w=750&dpr=1.0",
+      "summary": "वृषभ संक्रांति का पर्व 15 मई 2 वृषभ संक्रांति 2026 का पर्व 15 मई को मनाया जाएगा। जानें इस दिन सूर्य उपासना, दान-पुण्य का महत्व और कौन-से कार्य करने से बचना चाहिए, ताकि शुभ फलों की प्राप्ति हो सके। वृषभ संक्रांति पर मिलेगा दोगुना पुण्य, इन गलतियों से दूरी बनाकर रखें।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आरबीआई इस साल दे सकता है अपना सबसे बड़ा डिविडेंड, अमेरिका में थोक महंगाई ने तोड़ा रिकॉर्ड",
-          "summary": "भारतीय रिजर्व बैंक इस साल अपना सबसे बड़ा लाभांश दे सकता है. Biz Updates: आंध्र में ₹2,816 करोड़ की रेलवे लाइन परियोजना को हरी झंडी; NOIDA एयरपोर्ट पर UDF की दरें जारी। आरबीआई इस साल दे सकता है अपना सबसे बड़ा डिविडेंड, अमेरिका में थोक महंगाई ने तोड़ा रिकॉर्ड।",
-          "region": "अमेरिका"
+          "title": "वृषभ संक्रांति पर मिलेगा दोगुना पुण्य, इन गलतियों से दूरी बनाकर रखें",
+          "summary": "वृषभ संक्रांति का पर्व 15 मई 2 वृषभ संक्रांति 2026 का पर्व 15 मई को मनाया जाएगा। जानें इस दिन सूर्य उपासना, दान-पुण्य का महत्व और कौन-से कार्य करने से बचना चाहिए, ताकि शुभ फलों की प्राप्ति हो सके। वृषभ संक्रांति पर मिलेगा दोगुना पुण्य, इन गलतियों से दूरी बनाकर रखें।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "आरबीआई गवर्नर ने चेताया, स्थिति न सुधरी तो पेट्रोल-डीजल की कीमतों में बढ़ोतरी तय",
-      "url": "https://www.amarujala.com/business/business-diary/rbi-governor-warns-of-fuel-price-hike-if-west-asia-crisis-persists-2026-05-13",
-      "source": "Amar Ujala Breaking",
+      "title": "कर्नाटक में बिहार के मासूमों पर जुल्म: मदरसा संचालक ने 24 बच्चों को बनाया बंधक, कराया जा रहा था",
+      "url": "https://www.amarujala.com/india-news/karnataka-madrasa-preacher-booked-child-abuse-forced-labour-tumakuru-bihar-children-news-2026-05-13",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-13T03:42:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/petrol-diesel-price_22ed2b4045ad1c857b49628ec8b04076.jpeg?w=750&dpr=1.0",
-      "summary": "आरबीआई गवर्नर संजय मल्होत्रा ने पश्चिम एशिया संकट के कारण भारत में पश्चिम एशिया संकट के कारण भारत में पेट्रोल-डीजल की कीमतों में बढ़ोतरी संभव है, आरबीआई गवर्नर संजय मल्होत्रा ने इसकी आशंका जताई है। क्रूड की बढ़ती कीमतों और भारतीय अर्थव्यवस्था पर इसके असर को समझाती यह रिपोर्ट पढ़ें।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-13T05:56:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/14/crime-news-demo_3fd1919862c85cd966160aa3ed23ab5e.jpeg?w=750&dpr=1.0",
+      "summary": "कर्नाटक के तुमकुरु में एक मदरसा संचालक ने बिहार के कर्नाटक में बिहार के मासूमों पर जुल्म: मदरसा संचालक ने 24 बच्चों को बनाया बंधक, कराया जा रहा था।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आरबीआई गवर्नर ने चेताया, स्थिति न सुधरी तो पेट्रोल-डीजल की कीमतों में बढ़ोतरी तय",
-          "summary": "आरबीआई गवर्नर संजय मल्होत्रा ने पश्चिम एशिया संकट के कारण भारत में पश्चिम एशिया संकट के कारण भारत में पेट्रोल-डीजल की कीमतों में बढ़ोतरी संभव है, आरबीआई गवर्नर संजय मल्होत्रा ने इसकी आशंका जताई है। क्रूड की बढ़ती कीमतों और भारतीय अर्थव्यवस्था पर इसके असर को समझाती यह रिपोर्ट पढ़ें।",
-          "region": "एशिया-प्रशांत"
+          "title": "कर्नाटक में बिहार के मासूमों पर जुल्म: मदरसा संचालक ने 24 बच्चों को बनाया बंधक, कराया जा रहा था",
+          "summary": "कर्नाटक के तुमकुरु में एक मदरसा संचालक ने बिहार के कर्नाटक में बिहार के मासूमों पर जुल्म: मदरसा संचालक ने 24 बच्चों को बनाया बंधक, कराया जा रहा था।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "केकेआर को दूसरा झटका, रहाणे 19 रन बनाकर आउट; हेजलवुड को मिली सफलता",
+      "title": "विराट कोहली का अर्धशतक, पडिक्कल के साथ 60+ रन की साझेदारी; स्कोर 100 के पार",
       "url": "https://www.amarujala.com/live/cricket/cricket-news/rcb-vs-kkr-live-cricket-score-royal-challengers-bengaluru-vs-kolkata-knight-riders-ipl-2026-57th-match-updates-2026-05-13",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-13T03:40:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/19/ajakaya-rahanae_aa7986562b5a82864b41a6812196d677.jpeg?w=750&dpr=1.0",
-      "summary": "कोलकाता नाइट राइडर्स को दूसरा झटका लगा। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। केकेआर को दूसरा झटका, रहाणे 19 रन बनाकर आउट; हेजलवुड को मिली सफलता।",
+      "published_at": "2026-05-13T05:56:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/30/ipl_5ee39d7094c0471360d73b56499e6310.jpeg?w=750&dpr=1.0",
+      "summary": "कोलकाता नाइट राइडर्स को दूसरा झटका लगा। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। केकेआर को दूसरा झटका, रहाणे 19 रन बनाकर आउट; हेजलवुड को मिली सफलता। विराट कोहली का अर्धशतक, पडिक्कल के साथ 60+ रन की साझेदारी; स्कोर 100 के पार।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "केकेआर को दूसरा झटका, रहाणे 19 रन बनाकर आउट; हेजलवुड को मिली सफलता",
-          "summary": "कोलकाता नाइट राइडर्स को दूसरा झटका लगा। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। केकेआर को दूसरा झटका, रहाणे 19 रन बनाकर आउट; हेजलवुड को मिली सफलता।",
+          "title": "विराट कोहली का अर्धशतक, पडिक्कल के साथ 60+ रन की साझेदारी; स्कोर 100 के पार",
+          "summary": "कोलकाता नाइट राइडर्स को दूसरा झटका लगा। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। केकेआर को दूसरा झटका, रहाणे 19 रन बनाकर आउट; हेजलवुड को मिली सफलता। विराट कोहली का अर्धशतक, पडिक्कल के साथ 60+ रन की साझेदारी; स्कोर 100 के पार।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "यूपी दारोगा भर्ती का फिजिकल जून में, UPPRPB ने जारी की नई तिथि, कैलेंडर में कर लें नोट",
-      "url": "https://www.amarujala.com/jobs/government-jobs/up-police-si-recruitment-2025-dv-pst-dates-announced-verification-to-begin-from-june-15-2026-2026-05-13",
+      "title": "दुबई में पहली मुलाकात... गोवा में शादी; मोहब्बत से विवाह बंधन में बंधने तक ऐसा रहा मौनी और सूरज का",
+      "url": "https://www.amarujala.com/entertainment/first-meeting-to-goa-wedding-mouni-roy-and-suraj-nambiar-relationship-timeline-amid-separation-rumors-2026-05-13",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-13T03:35:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/12/21/up-police-yapa-palsa_6857d42401a6a29159a447ce0f0552ac.jpeg?w=750&dpr=1.0",
-      "summary": "उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड ने उपनिरीक्षक भर्ती के डीवी/पीएसटी चरण के लिए नई तारीखें घोषित की हैं। अभिलेखों की जांच और शारीरिक मानक परीक्षण अब 15, 16 और 17 जून 2026 को प्रदेश की रिजर्व पुलिस लाइनों में होंगे। UP Police SI: उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड ने एसआई भर्ती के डीवी/पीएसटी चरण की नई तिथियां जारी की हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपी दारोगा भर्ती का फिजिकल जून में, UPPRPB ने जारी की नई तिथि, कैलेंडर में कर लें नोट",
-          "summary": "उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड ने उपनिरीक्षक भर्ती के डीवी/पीएसटी चरण के लिए नई तारीखें घोषित की हैं। अभिलेखों की जांच और शारीरिक मानक परीक्षण अब 15, 16 और 17 जून 2026 को प्रदेश की रिजर्व पुलिस लाइनों में होंगे। UP Police SI: उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड ने एसआई भर्ती के डीवी/पीएसटी चरण की नई तिथियां जारी की हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सेलिब्रिटी चैट शो 'डबल डेट' होस्ट करेंगे नेहा धूपिया-अंगद; हर्ष-भारती और करण-तेजस्वी सहित ये",
-      "url": "https://www.amarujala.com/entertainment/neha-dhupia-and-angad-bedi-to-host-new-show-double-date-a-celebrity-led-non-fiction-series-trailer-unveiled-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T03:29:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/naha-thhapaya-agatha-btha_60f9638f04bc059c1b38a22b5067a923.jpeg?w=750&dpr=1.0",
-      "summary": "नेहा धूपिया और अंगद बेदी 'डबल डेट' नामक एक नए चैट शो की मेजबानी करेंगे। इस शो में हर्ष लिंबाचिया और भारती सिंह, करण कुंद्रा और तेजस्वी प्रकाश जैसे अन्य सेलिब्रिटी जोड़े भी शामिल होंगे। यह शो मनोरंजन, हास्य और व्यक्तिगत कहानियों का मिश्रण पेश करेगा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सेलिब्रिटी चैट शो 'डबल डेट' होस्ट करेंगे नेहा धूपिया-अंगद; हर्ष-भारती और करण-तेजस्वी सहित ये",
-          "summary": "नेहा धूपिया और अंगद बेदी 'डबल डेट' नामक एक नए चैट शो की मेजबानी करेंगे। इस शो में हर्ष लिंबाचिया और भारती सिंह, करण कुंद्रा और तेजस्वी प्रकाश जैसे अन्य सेलिब्रिटी जोड़े भी शामिल होंगे। यह शो मनोरंजन, हास्य और व्यक्तिगत कहानियों का मिश्रण पेश करेगा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "केंद्र के कर्मचारियों की सरकार से मांग- लागू करें WFH और ऑनलाइन मीटिंग; समर्थन में कई संगठन",
-      "url": "https://www.amarujala.com/india-news/central-government-employees-body-seeks-work-from-home-online-meetings-after-pm-modi-appeal-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T03:28:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/10/paema-matha_7db4869b466b41e72e211aaac104f5f3.jpeg?w=750&dpr=1.0",
-      "summary": "केंद्र सरकार के कर्मचारियों ने प्रधानमंत्री के अपील के बाद वर्क फ्रॉम होम और ऑनलाइन मीटिंग की मांग की है। कई कर्मचारी संगठनों ने इस मांग का समर्थन किया है। यह मांग कोरोना महामारी के दौरान अपनाई गई कार्यप्रणाली को स्थायी बनाने के लिए की जा रही है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केंद्र के कर्मचारियों की सरकार से मांग- लागू करें WFH और ऑनलाइन मीटिंग; समर्थन में कई संगठन",
-          "summary": "केंद्र सरकार के कर्मचारियों ने प्रधानमंत्री के अपील के बाद वर्क फ्रॉम होम और ऑनलाइन मीटिंग की मांग की है। कई कर्मचारी संगठनों ने इस मांग का समर्थन किया है। यह मांग कोरोना महामारी के दौरान अपनाई गई कार्यप्रणाली को स्थायी बनाने के लिए की जा रही है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सिद्धारमैया ने पलटा पिछली सरकार का फैसला; स्कूलों-कॉलेजों में हिजाब, पगड़ी और जनेऊ पहनने की दी",
-      "url": "https://www.amarujala.com/india-news/karnataka-allows-faith-based-symbols-like-hijab-janeu-with-uniform-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T03:22:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/17/siddaramiah_50582e81e0ca9cf0362d074f75852001.jpeg?w=750&dpr=1.0",
-      "summary": "कर्नाटक सरकार ने स्कूलों और कॉलेजों में हिजाब, पगड़ी और जनेऊ पहनने की अनुमति दी है। यह निर्णय पिछली भाजपा सरकार के उस फैसले को पलटता है जिसमें शैक्षणिक संस्थानों में धार्मिक प्रतीकों पर प्रतिबंध लगा दिया गया था। मुख्यमंत्री सिद्धारमैया के नेतृत्व वाली कांग्रेस सरकार ने इस कदम को समानता और धार्मिक स्वतंत्रता के प्रति अपनी प्रतिबद्धता के रूप में प्रस्तुत किया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिद्धारमैया ने पलटा पिछली सरकार का फैसला; स्कूलों-कॉलेजों में हिजाब, पगड़ी और जनेऊ पहनने की दी",
-          "summary": "कर्नाटक सरकार ने स्कूलों और कॉलेजों में हिजाब, पगड़ी और जनेऊ पहनने की अनुमति दी है। यह निर्णय पिछली भाजपा सरकार के उस फैसले को पलटता है जिसमें शैक्षणिक संस्थानों में धार्मिक प्रतीकों पर प्रतिबंध लगा दिया गया था। मुख्यमंत्री सिद्धारमैया के नेतृत्व वाली कांग्रेस सरकार ने इस कदम को समानता और धार्मिक स्वतंत्रता के प्रति अपनी प्रतिबद्धता के रूप में प्रस्तुत किया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जसप्रीत बुमराह जैसे टी-20 स्टार आईपीएल में असफल क्यों रहे? ये है वजह",
-      "url": "https://www.amarujala.com/video/india-news/why-did-t-20-stars-like-jaspreet-bumrah-fail-in-ipl-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T03:22:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/ipl-2026_deb1c454173b5202fd14aa40b701ebaa.jpeg?w=750&dpr=1.0",
-      "summary": "कई टी-20 विश्व कप स्टार खिलाड़ी इंडियन प्रीमियर लीग में उम्मीद के मुताबिक प्रदर्शन नहीं कर पा रहे हैं। यह विसंगति प्रशंसकों के लिए निराशा का कारण बनी हुई है। ऐसे तमाम क्रिकेट खिलाड़ी हैं, जिन्होंने टी-20 विश्व कप में शानदार प्रदर्शन किया था, लेकिन वे आईपीएल में फिसड्डी साबित हो रहे हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जसप्रीत बुमराह जैसे टी-20 स्टार आईपीएल में असफल क्यों रहे? ये है वजह",
-          "summary": "कई टी-20 विश्व कप स्टार खिलाड़ी इंडियन प्रीमियर लीग में उम्मीद के मुताबिक प्रदर्शन नहीं कर पा रहे हैं। यह विसंगति प्रशंसकों के लिए निराशा का कारण बनी हुई है। ऐसे तमाम क्रिकेट खिलाड़ी हैं, जिन्होंने टी-20 विश्व कप में शानदार प्रदर्शन किया था, लेकिन वे आईपीएल में फिसड्डी साबित हो रहे हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप के रक्षा बजट पर बवाल: ईरान युद्ध पर अमेरिकी संसद में घमासान, हेगसेथ बोले- अब भी हमारे हाथ में",
-      "url": "https://www.amarujala.com/world/uproar-in-us-parliament-over-iran-war-hegseth-says-we-still-have-all-the-cards-in-our-hands-2026-05-13",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-13T03:20:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/05/hegseth-says-us-cant-stop-everything-that-iran-fires-even-as-he-asserts-air-dominance_87684e37dfd783ec5d84f0ac626eea37.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी संसद में राष्ट्रपति ट्रंप के रक्षा बजट पर बहस हुई। ईरान युद्ध के संदर्भ में यह चर्चा हुई। एक अधिकारी ने कहा कि स्थिति अभी भी नियंत्रण में है। ट्रंप के रक्षा बजट पर बवाल: ईरान युद्ध पर अमेरिकी संसद में घमासान, हेगसेथ बोले- अब भी हमारे हाथ में।",
+      "published_at": "2026-05-13T05:42:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/mana-raya-saraja_3a3ea32f3dff6eda9494decec59345ae.jpeg?w=750&dpr=1.0",
+      "summary": "नागिन फेम मौनी रॉय और सूरज नांबियार की प्रेम कहानी अलगाव की अफवाहों के बीच चर्चा में है। दोनों की मुलाकात दुबई में हुई थी और उन्होंने गोवा में शादी की थी। Mouni Roy-Suraj Nambiar: नागिन फेम मौनी रॉय और सूरज नांबियार की लव स्टोरी अब कथित अलगाव की खबरों को लेकर सुर्खियों में है।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ट्रंप के रक्षा बजट पर बवाल: ईरान युद्ध पर अमेरिकी संसद में घमासान, हेगसेथ बोले- अब भी हमारे हाथ में",
-          "summary": "अमेरिकी संसद में राष्ट्रपति ट्रंप के रक्षा बजट पर बहस हुई। ईरान युद्ध के संदर्भ में यह चर्चा हुई। एक अधिकारी ने कहा कि स्थिति अभी भी नियंत्रण में है। ट्रंप के रक्षा बजट पर बवाल: ईरान युद्ध पर अमेरिकी संसद में घमासान, हेगसेथ बोले- अब भी हमारे हाथ में।",
+          "title": "दुबई में पहली मुलाकात... गोवा में शादी; मोहब्बत से विवाह बंधन में बंधने तक ऐसा रहा मौनी और सूरज का",
+          "summary": "नागिन फेम मौनी रॉय और सूरज नांबियार की प्रेम कहानी अलगाव की अफवाहों के बीच चर्चा में है। दोनों की मुलाकात दुबई में हुई थी और उन्होंने गोवा में शादी की थी। Mouni Roy-Suraj Nambiar: नागिन फेम मौनी रॉय और सूरज नांबियार की लव स्टोरी अब कथित अलगाव की खबरों को लेकर सुर्खियों में है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "पाकिस्तान टीम में फिर होगा बदलाव: शान मसूद से छिन सकती है टेस्ट कप्तानी, बाबर आजम पर भरोसा जता सकता",
-      "url": "https://www.amarujala.com/cricket/cricket-news/pakistan-preparing-to-bring-babar-azam-back-as-test-captain-know-details-2026-05-13",
+      "title": "पवन खेड़ा की गुवाहाटी क्राइम ब्रांच में कल फिर होगी पेशी, हिमंत सरमा बोले- कानून अपना काम करेगा",
+      "url": "https://www.amarujala.com/india-news/pawan-khera-will-appear-before-guwahati-crime-branch-again-tomorrow-himanta-biswa-sarma-statement-2026-05-13",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-13T03:15:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/bbra-aajama_a77567b0f61c3f7614de2af0fc5aaac3.jpeg?w=750&dpr=1.0",
-      "summary": "पाकिस्तान क्रिकेट टीम बांग्लादेश के खिलाफ दूसरे टेस्ट से पहले कप्तानी में बदलाव कर सकती है। प्रबंधन शान मसूद की जगह बाबर आजम को टेस्ट कप्तानी सौंपने पर विचार कर रहा है। बांग्लादेश के खिलाफ दूसरे टेस्ट से पहले पाकिस्तान टीम की कप्तानी में बदलाव हो सकता है।",
+      "published_at": "2026-05-13T05:33:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/07/kagarasa-nata-pavana-khaugdha-pawan-khera_12c65311735f3deb1d2d420d8ca37500.jpeg?w=750&dpr=1.0",
+      "summary": "पवन खेड़ा को गुवाहाटी क्राइम ब्रांच में फिर से पेश होना है। असम के मुख्यमंत्री हिमंत बिस्वा सरमा ने कहा कि कानून अपना काम करेगा। पवन खेड़ा की गुवाहाटी क्राइम ब्रांच में कल फिर होगी पेशी, हिमंत सरमा बोले- कानून अपना काम करेगा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पवन खेड़ा की गुवाहाटी क्राइम ब्रांच में कल फिर होगी पेशी, हिमंत सरमा बोले- कानून अपना काम करेगा",
+          "summary": "पवन खेड़ा को गुवाहाटी क्राइम ब्रांच में फिर से पेश होना है। असम के मुख्यमंत्री हिमंत बिस्वा सरमा ने कहा कि कानून अपना काम करेगा। पवन खेड़ा की गुवाहाटी क्राइम ब्रांच में कल फिर होगी पेशी, हिमंत सरमा बोले- कानून अपना काम करेगा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "Senior Open Ranking Tournament 2026: सीनियर ओपन रैंकिंग टूर्नामेंट का समापन, महिलाओं की फाइनल",
+      "url": "https://www.amarujala.com/sports/senior-open-ranking-tournament-concludes-women-s-final-rankings-announced-2026-05-13",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-13T05:26:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/sanayara-opana-rakaga-taranamata_800f3d2b9428cd4621bb1e2d7746f0bd.jpeg?w=750&dpr=1.0",
+      "summary": "सीनियर ओपन रैंकिंग टूर्नामेंट 2026 में महिलाओं की कुश्ती प्रतियोगिताओं का समापन हो गया है। दस भार वर्गों की पहलवानों ने अपनी घरेलू रैंकिंग पक्की की। Senior Open Ranking Tournament 2026: सीनियर ओपन रैंकिंग टूर्नामेंट का समापन, महिलाओं की फाइनल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Senior Open Ranking Tournament 2026: सीनियर ओपन रैंकिंग टूर्नामेंट का समापन, महिलाओं की फाइनल",
+          "summary": "सीनियर ओपन रैंकिंग टूर्नामेंट 2026 में महिलाओं की कुश्ती प्रतियोगिताओं का समापन हो गया है। दस भार वर्गों की पहलवानों ने अपनी घरेलू रैंकिंग पक्की की। Senior Open Ranking Tournament 2026: सीनियर ओपन रैंकिंग टूर्नामेंट का समापन, महिलाओं की फाइनल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "18-19 मई को सिनेमा और राजनीति के दिग्गजों का होगा जुटान, रजिस्ट्रेशन कर ऐसे पाएं फ्री एंट्री",
+      "url": "https://www.amarujala.com/lucknow/amar-ujala-sanwad-on-may-18-and-19-big-names-from-cinema-and-politics-will-gather-register-and-get-free-ent-2026-05-13",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-13T05:19:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/amara-ujal-savatha_2a21c60c4bc2de28b519a07fd358ff49.jpeg?w=750&dpr=1.0",
+      "summary": "लखनऊ में 18-19 मई को अमर उजाला संवाद का आयोजन होगा। सुशांत गोल्फ सिटी में होने वाले इस कार्यक्रम में सिनेमा और राजनीति के दिग्गज शामिल होंगे। Amar Ujala samwad: अमर उजाला संवाद कार्यक्रम 18 और 19 मई को लखनऊ के सुशांत गोल्फ सिटी में आयोजित होगा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "18-19 मई को सिनेमा और राजनीति के दिग्गजों का होगा जुटान, रजिस्ट्रेशन कर ऐसे पाएं फ्री एंट्री",
+          "summary": "लखनऊ में 18-19 मई को अमर उजाला संवाद का आयोजन होगा। सुशांत गोल्फ सिटी में होने वाले इस कार्यक्रम में सिनेमा और राजनीति के दिग्गज शामिल होंगे। Amar Ujala samwad: अमर उजाला संवाद कार्यक्रम 18 और 19 मई को लखनऊ के सुशांत गोल्फ सिटी में आयोजित होगा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सीएम योगी के निर्देश, छह महीने तक विदेश यात्रा से परहेज करें मंत्री-अधिकारी; कार पूलिंग पर जोर",
+      "url": "https://www.amarujala.com/lucknow/impact-of-oil-crisis-cm-yogi-orders-ministers-and-officials-to-refrain-from-foreign-travel-for-six-months-em-2026-05-13",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-13T05:05:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/saema-yaga-ka-narathasha_0f2b9889268ffb4da60db9d4bb439f21.jpeg?w=750&dpr=1.0",
+      "summary": "मुख्यमंत्री योगी आदित्यनाथ ने मंत्रियों और अधिकारियों को छह महीने तक विदेश यात्रा से बचने का निर्देश दिया है। उन्होंने सप्ताह में एक दिन सार्वजनिक परिवहन का उपयोग करने को भी कहा। Yogi Adityanath: मंत्रियों के साथ हुई बैठक में मुख्यमंत्री ने मंत्रियों से सप्ताह में कम से कम एक दिन सार्वजनिक परिवहन का उपयोग करने का आग्रह किया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीएम योगी के निर्देश, छह महीने तक विदेश यात्रा से परहेज करें मंत्री-अधिकारी; कार पूलिंग पर जोर",
+          "summary": "मुख्यमंत्री योगी आदित्यनाथ ने मंत्रियों और अधिकारियों को छह महीने तक विदेश यात्रा से बचने का निर्देश दिया है। उन्होंने सप्ताह में एक दिन सार्वजनिक परिवहन का उपयोग करने को भी कहा। Yogi Adityanath: मंत्रियों के साथ हुई बैठक में मुख्यमंत्री ने मंत्रियों से सप्ताह में कम से कम एक दिन सार्वजनिक परिवहन का उपयोग करने का आग्रह किया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "काला चश्मा...ऑफ शोल्डर ड्रेस; कान फिल्म फेस्टिवल में तारा सुतारिया ने लगाया बोल्डनेस का तड़का",
+      "url": "https://www.amarujala.com/entertainment/cannes-film-festival-2026-tara-sutaria-bold-and-vintage-glamorous-look-in-off-shoulder-dress-at-79th-cannes-2026-05-13",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-13T05:03:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/tara-sataraya_7bd897f5f55cc9d887033c2a2a25ee3b.jpeg?w=750&dpr=1.0",
+      "summary": "कान फिल्म फेस्टिवल के दूसरे दिन अभिनेत्री तारा सुतारिया पहुंचीं। उन्होंने ऑफ-शोल्डर ड्रेस पहनी थी। Tara Sutaria at Cannes 2026: कान फिल्म फेस्टिवल के दूसरे दिन आज बुधवार को तारा सुतारिया भी पहुंचीं। वे ऑफ शोल्डर ड्रेस में नजर आईं। काला चश्मा ऑफ शोल्डर ड्रेस; कान फिल्म फेस्टिवल में तारा सुतारिया ने लगाया बोल्डनेस का तड़का।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "काला चश्मा...ऑफ शोल्डर ड्रेस; कान फिल्म फेस्टिवल में तारा सुतारिया ने लगाया बोल्डनेस का तड़का",
+          "summary": "कान फिल्म फेस्टिवल के दूसरे दिन अभिनेत्री तारा सुतारिया पहुंचीं। उन्होंने ऑफ-शोल्डर ड्रेस पहनी थी। Tara Sutaria at Cannes 2026: कान फिल्म फेस्टिवल के दूसरे दिन आज बुधवार को तारा सुतारिया भी पहुंचीं। वे ऑफ शोल्डर ड्रेस में नजर आईं। काला चश्मा ऑफ शोल्डर ड्रेस; कान फिल्म फेस्टिवल में तारा सुतारिया ने लगाया बोल्डनेस का तड़का।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पांच टूर्नामेंट, पांच मेडल फिर भी बाहर: श्रीजेश बोले- विदेशी कोच के लिए हटाया गया, हॉकी इंडिया ने",
+      "url": "https://www.amarujala.com/sports/sreejesh-questions-preference-for-foreign-coach-after-exiting-as-india-jr-coach-hockey-india-rejects-claim-2026-05-13",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-13T05:03:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/paaara-sharajasha-thalpa-taraka_57a4d7fdfe0cc330fb134ad95a7859b2.jpeg?w=750&dpr=1.0",
+      "summary": "हॉकी इंडिया ने श्रीजेश के आरोपों का खंडन किया। श्रीजेश ने कहा कि उन्हें विदेशी कोच के लिए हटाया गया। पांच टूर्नामेंट, पांच मेडल फिर भी बाहर: श्रीजेश बोले- विदेशी कोच के लिए हटाया गया, हॉकी इंडिया ने किया खंडन।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पांच टूर्नामेंट, पांच मेडल फिर भी बाहर: श्रीजेश बोले- विदेशी कोच के लिए हटाया गया, हॉकी इंडिया ने",
+          "summary": "हॉकी इंडिया ने श्रीजेश के आरोपों का खंडन किया। श्रीजेश ने कहा कि उन्हें विदेशी कोच के लिए हटाया गया। पांच टूर्नामेंट, पांच मेडल फिर भी बाहर: श्रीजेश बोले- विदेशी कोच के लिए हटाया गया, हॉकी इंडिया ने किया खंडन।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज पार कर भारत की ओर बढ़ा 15वां LPG टैंकर एमवी सनशाइन, भारतीय नौसेना बनी सुरक्षा कवच",
+      "url": "https://www.amarujala.com/india-news/lpg-tanker-mv-sunshine-safely-crosses-strait-of-hormuz-indian-navy-assists-ship-bound-for-india-2026-05-13",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-13T05:00:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/16/shavalka_fc8f7d99f09958289f085192c6356ab5.jpeg?w=750&dpr=1.0",
+      "summary": "भारतीय नौसेना ने एमवी सनशाइन टैंकर को सुरक्षा प्रदान की। यह टैंकर होर्मुज जलडमरूमध्य से भारत की ओर बढ़ रहा है। संकट के बीच राहत: होर्मुज पार कर भारत की ओर बढ़ा 15वां LPG टैंकर एमवी सनशाइन, भारतीय नौसेना बनी सुरक्षा कवच।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पाकिस्तान टीम में फिर होगा बदलाव: शान मसूद से छिन सकती है टेस्ट कप्तानी, बाबर आजम पर भरोसा जता सकता",
-          "summary": "पाकिस्तान क्रिकेट टीम बांग्लादेश के खिलाफ दूसरे टेस्ट से पहले कप्तानी में बदलाव कर सकती है। प्रबंधन शान मसूद की जगह बाबर आजम को टेस्ट कप्तानी सौंपने पर विचार कर रहा है। बांग्लादेश के खिलाफ दूसरे टेस्ट से पहले पाकिस्तान टीम की कप्तानी में बदलाव हो सकता है।",
+          "title": "होर्मुज पार कर भारत की ओर बढ़ा 15वां LPG टैंकर एमवी सनशाइन, भारतीय नौसेना बनी सुरक्षा कवच",
+          "summary": "भारतीय नौसेना ने एमवी सनशाइन टैंकर को सुरक्षा प्रदान की। यह टैंकर होर्मुज जलडमरूमध्य से भारत की ओर बढ़ रहा है। संकट के बीच राहत: होर्मुज पार कर भारत की ओर बढ़ा 15वां LPG टैंकर एमवी सनशाइन, भारतीय नौसेना बनी सुरक्षा कवच।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "तीसरी बार पिता बनने वाला है 'द अमेजिंग स्पाइडरमैन' फेम यह एक्टर, गर्लफ्रेंड एलिस के साथ करेंगे",
-      "url": "https://www.amarujala.com/entertainment/hollywood/jamie-foxx-alyce-huckstepp-set-to-welcome-first-child-together-2026-05-13",
+      "title": "गुरु प्रदोष पर शिव तांडव स्तोत्र का पाठ दिलाएगा धन लाभ और शत्रुओं से मुक्ति",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/guru-pradosh-vrat-remedy-recite-shiv-tandav-stotram-for-wealth-in-hindi-2026-05-13",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-13T03:15:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/jama-fakasa-oura-elsa-hakasatapa_3f565550e5399f3839f917833bdafed2.jpeg?w=750&dpr=1.0",
-      "summary": "'द अमेजिंग स्पाइडरमैन' फेम अभिनेता जेमी फॉक्स तीसरी बार पिता बनने वाले हैं। उनकी गर्लफ्रेंड एलिस हक्सटेप गर्भवती हैं और वे अपने पहले बच्चे का इंतजार कर रहे हैं। जेमी फॉक्स जल्द ही तीसरी बार पिता बनने वाले हैं। मीडिया रिपोर्ट्स के मुताबिक, उनकी गर्लफ्रेंड एलिस हक्सटेप प्रेग्नेंट हैं और दोनों अपने पहले बच्चे का स्वागत करने की तैयारी कर रहे हैं।",
+      "published_at": "2026-05-13T04:57:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/07/10/pradosh-vrat-in-july-2024_2da320bb12f2547e2e7af41bd61ff1ed.jpeg?w=750&dpr=1.0",
+      "summary": "14 मई 2026 को गुरु प्रदोष व्रत है। इस दिन शिव तांडव स्तोत्र का पाठ करने से धन लाभ और शत्रुओं से मुक्ति मिलती है। गुरु प्रदोष व्रत 2026 14 मई को मनाया जाएगा। जानें शुभ मुहूर्त, पूजा विधि और शिव तांडव स्तोत्र पाठ के लाभ।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "तीसरी बार पिता बनने वाला है 'द अमेजिंग स्पाइडरमैन' फेम यह एक्टर, गर्लफ्रेंड एलिस के साथ करेंगे",
-          "summary": "'द अमेजिंग स्पाइडरमैन' फेम अभिनेता जेमी फॉक्स तीसरी बार पिता बनने वाले हैं। उनकी गर्लफ्रेंड एलिस हक्सटेप गर्भवती हैं और वे अपने पहले बच्चे का इंतजार कर रहे हैं। जेमी फॉक्स जल्द ही तीसरी बार पिता बनने वाले हैं। मीडिया रिपोर्ट्स के मुताबिक, उनकी गर्लफ्रेंड एलिस हक्सटेप प्रेग्नेंट हैं और दोनों अपने पहले बच्चे का स्वागत करने की तैयारी कर रहे हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कान के रेड कारपेट पर उतरीं सलमान की रूमर्ड गर्लफ्रेंड यूलिया वंतूर, समारोह में प्रदर्शित होगी ‘इकोज",
-      "url": "https://www.amarujala.com/entertainment/bollywood/iulia-vantur-walks-the-cannes-red-carpet-blows-flying-kisses-premiere-of-echoes-of-us-2026-05-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-13T03:13:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/yalya-vatara-kana-2026_a45728184c07e996dee66e515b3a7d76.gif?w=750&dpr=1.0",
-      "summary": "यूलिया वंतूर ने 79वें कान फिल्म फेस्टिवल के रेड कार्पेट पर शिरकत की। समारोह में उनकी फिल्म ‘इकोज’ प्रदर्शित की जाएगी। सोमवार को 79वें कान फिल्म फेस्टिवल की शुरुआत हो चुकी है। आज सलमान की रूमर्ड गर्लफ्रेंड यूलिया वंतूर ने भी रेड कार्पेट पर शिरकत की है, जिसके कई वीडियो अब सोशल मीडिया पर जमकर वायरल हो रहे हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कान के रेड कारपेट पर उतरीं सलमान की रूमर्ड गर्लफ्रेंड यूलिया वंतूर, समारोह में प्रदर्शित होगी ‘इकोज",
-          "summary": "यूलिया वंतूर ने 79वें कान फिल्म फेस्टिवल के रेड कार्पेट पर शिरकत की। समारोह में उनकी फिल्म ‘इकोज’ प्रदर्शित की जाएगी। सोमवार को 79वें कान फिल्म फेस्टिवल की शुरुआत हो चुकी है। आज सलमान की रूमर्ड गर्लफ्रेंड यूलिया वंतूर ने भी रेड कार्पेट पर शिरकत की है, जिसके कई वीडियो अब सोशल मीडिया पर जमकर वायरल हो रहे हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "केवीएस-एनवीएस टियर-2 परीक्षा की उत्तर कुंजी जारी, 17 मई तक दर्ज करा सकेंगे आपत्ति",
-      "url": "https://www.amarujala.com/jobs/government-jobs/kvs-nvs-tier-2-answer-key-2026-released-candidates-can-raise-objections-till-may-17-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T03:12:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/20/exam-answer-key_299f5b5b79fe64af8cd8dc9653361e08.jpeg?w=750&dpr=1.0",
-      "summary": "केंद्रीय विद्यालय संगठन और नवोदय विद्यालय समिति ने टीयर-2 भर्ती परीक्षा 2026 की प्रोविजनल उत्तर कुंजी जारी कर दी है। उम्मीदवार 17 मई तक ऑनलाइन आपत्ति दर्ज करा सकते हैं। KVS NVS Tier-2 Answer Key 2026: केवीएस और एनवीएस ने टियर-2 भर्ती परीक्षा 2026 की प्रोविजनल आंसर की और ओएमआर शीट जारी कर दी है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केवीएस-एनवीएस टियर-2 परीक्षा की उत्तर कुंजी जारी, 17 मई तक दर्ज करा सकेंगे आपत्ति",
-          "summary": "केंद्रीय विद्यालय संगठन और नवोदय विद्यालय समिति ने टीयर-2 भर्ती परीक्षा 2026 की प्रोविजनल उत्तर कुंजी जारी कर दी है। उम्मीदवार 17 मई तक ऑनलाइन आपत्ति दर्ज करा सकते हैं। KVS NVS Tier-2 Answer Key 2026: केवीएस और एनवीएस ने टियर-2 भर्ती परीक्षा 2026 की प्रोविजनल आंसर की और ओएमआर शीट जारी कर दी है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "छात्रों के भविष्य के साथ खिलवाड़ और परीक्षा व्यवस्था पर सवाल !",
-      "url": "https://www.amarujala.com/columns/blog/neet-ug-2026-paper-leak-exam-cancelled-lakhs-of-medical-aspirants-left-in-uncertainty-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T03:09:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/neet-ug-paper-leak_c126d561856c6127f3ca3227c110eebc.jpeg?w=750&dpr=1.0",
-      "summary": "नीट यूजी 2026 परीक्षा रद्द होने के बाद लाखों छात्रों की मेहनत, समय और भविष्य पर पड़े इस संकट ने एक बार फिर परीक्षा प्रणाली की कमजोरियों को उजागर करने का काम किया है। छात्रों के भविष्य के साथ खिलवाड़ और परीक्षा व्यवस्था पर सवाल!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "छात्रों के भविष्य के साथ खिलवाड़ और परीक्षा व्यवस्था पर सवाल !",
-          "summary": "नीट यूजी 2026 परीक्षा रद्द होने के बाद लाखों छात्रों की मेहनत, समय और भविष्य पर पड़े इस संकट ने एक बार फिर परीक्षा प्रणाली की कमजोरियों को उजागर करने का काम किया है। छात्रों के भविष्य के साथ खिलवाड़ और परीक्षा व्यवस्था पर सवाल!",
+          "title": "गुरु प्रदोष पर शिव तांडव स्तोत्र का पाठ दिलाएगा धन लाभ और शत्रुओं से मुक्ति",
+          "summary": "14 मई 2026 को गुरु प्रदोष व्रत है। इस दिन शिव तांडव स्तोत्र का पाठ करने से धन लाभ और शत्रुओं से मुक्ति मिलती है। गुरु प्रदोष व्रत 2026 14 मई को मनाया जाएगा। जानें शुभ मुहूर्त, पूजा विधि और शिव तांडव स्तोत्र पाठ के लाभ।",
           "region": "दुनिया"
         }
       }
