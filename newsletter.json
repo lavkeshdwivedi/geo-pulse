@@ -1,18 +1,66 @@
 {
-  "generated_at": "2026-05-13T06:50:31.949821+00:00",
-  "article_count": 41,
-  "total_unique_count": 374,
+  "generated_at": "2026-05-13T09:47:12.185456+00:00",
+  "article_count": 44,
+  "total_unique_count": 377,
   "digest": {
-    "en": "The Trump-Xi meeting in China dominates headlines. Concern grows over Gabon's social media clampdown. The UN warns of Chad's refugee crisis overwhelming maternity care.",
-    "hi": "पुतिन ने मिसाइल परीक्षण पर बात की। उन्होंने कहा कि यह दुनिया में सबसे ताकतवर है। परमाणु आधुनिकीकरण की कोशिश तेज है।"
+    "en": "Portugal seeks EU fiscal independence. The U.S. appeals court decision on Trump's tariffs adds a layer of uncertainty. Meanwhile, Jensen Huang's presence at a Trump event highlights tech's geopolitical role.",
+    "hi": "ईरान के पिस्ते पर होर्मुज़ संकट का असर दिख रहा है। संयुक्त राष्ट्र ने वेस्ट बैंक में इजरायल के अभियान की निंदा की है।"
   },
   "articles": [
+    {
+      "title": "Portugal aims to stop relying on EU funds; seeks to become net EU contributor: PM Luis Montenegro",
+      "url": "https://www.thehindu.com/news/international/portugal-aims-to-stop-relying-on-eu-funds-seeks-to-become-net-eu-contributor-pm-luis-montenegro/article70973175.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-13T09:36:54+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/dov9md/article70973244.ece/alternates/LANDSCAPE_1200/2026-04-23T163706Z_1658546889_RC24VKAJVH55_RTRMADP_3_IRAN-CRISIS-EU.JPG",
+      "summary": "Portuguese Prime Minister Luis Montenegro stated Portugal aims to become a net contributor to the \"We are mobilising Portugal to ‌be prepared, not to stand with an outstretched hand asking, ‌but to present credible, ambitious, strong ‌projects ⁠that can be selected ⁠on the basis of their merit,\" PM Luis Montenegro said.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. appeals court halts order declaring Trump’s global 10% tariff illegal",
+      "url": "https://www.thehindu.com/news/international/us-appeals-court-halts-order-declaring-trumps-global-10-tariff-illegal/article70973205.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-13T08:25:21+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/wldat/article70973229.ece/alternates/LANDSCAPE_1200/China_Trump_54278.jpg",
+      "summary": "The U. S. Court of Appeals for the Federal Circuit on May 12 issued a brief order that included an administrative stay on the CIT’s order, setting a schedule for both sides to file briefs on the matter. U. S. appeals court halts order declaring Trump’s global 10% tariff illegal.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nvidia’s Jensen Huang joins Trump as tech dominates China trip",
+      "url": "https://www.theguardian.com/technology/2026/may/13/nvidia-jensen-huang-joins-trump-as-tech-dominates-china-trip",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-13T07:41:26+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/09e8ebedefc1bb9bac94ec3c7c55104f1079452e/1585_596_4221_3379/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=56ea027d4471a9d0ecf4ab2e18de80fb",
+      "summary": "Nvidia CEO Jensen Huang joined Donald Trump's delegation to China. Invitation to be part of group including Elon Musk and Tim Cook highlights American AI and tech ambitionsThe billionaire chief executive of the chipmaker Nvidia, Jensen Huang, has joined Donald Trump’s China delegation after a reported last-minute invitation, highlighting the US’s AI and tech ambitions. Huang will join a roster of US bosses including the Tesla chief executive and X owner, Elon Musk.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "French hantavirus patient is critically ill as outbreak grows to 11",
+      "url": "https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-05-13T07:31:20+00:00",
+      "image_url": "https://images.pexels.com/photos/33892274/pexels-photo-33892274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "A French woman infected with hantavirus from a cruise ship is critically ill A French woman infected in the deadly hantavirus outbreak on a cruise ship is critically ill and being treated with an artificial lung. The outbreak has now reached 11 total reported cases, 9 of which have been confirmed.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Opinion | The Beijing Visit: Why Does Trump Suddenly Need Xi Jinping?",
       "url": "https://www.ndtv.com/opinion/trump-visits-china-why-does-trump-suddenly-need-xi-jinping-11487792#publisher=newsstand",
       "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-05-13T06:01:46+00:00",
+      "published_at": "2026-05-13T06:14:13+00:00",
       "image_url": "https://c.ndtvimg.com/2026-05/p93c3fqc_trump-xi-afp_625x300_13_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
       "summary": "China is assessing the potential for Donald Trump to become a lame-duck president China will factor in the real possibility that in the mid-term elections in November, Trump may lose the House of Representatives and may become a lame-duck president. How far should it invest in an agreement with Trump is the question.",
       "region": "Asia-Pacific",
@@ -47,7 +95,20 @@
       "title": "Chad’s refugee crisis overwhelms maternity care in east, UN agency warns",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167494",
       "source": "UN News",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167494",
+          "source": "UN News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Fd1VNcWlYbG95azJuNWc3OHRHTFRmOEZPZTdQSkRkVC1PSEE4QnE3akhXS3p5Zy04RnpmaFo4MGJNc0pTVkowVmdKa3VSUFdvdGJnaVJTQQ?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Fd1VNcWlYbG95azJuNWc3OHRHTFRmOEZPZTdQSkRkVC1PSEE4QnE3akhXS3p5Zy04RnpmaFo4MGJNc0pTVkowVmdKa3VSUFdvdGJnaVJTQQ?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
       "published_at": "2026-05-12T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-02-2026-UNICEF-Chad.jpg/image560x340cropped.jpg",
       "summary": "Chad's refugee crisis is overwhelming maternity care in the country's east Many women in eastern Chad are being forced to give birth in overcrowded clinics with limited medicine, minimal equipment and severe shortages of anesthesia, as a worsening humanitarian crisis overwhelms the country’s fragile healthcare system, the UN reproductive health agency, UNFPA, warned on Tuesday.",
@@ -131,20 +192,7 @@
       "title": "UN launches major Nairobi expansion as Guterres highlights Africa’s growing global role",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167486",
       "source": "UN News",
-      "sources": [
-        {
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167486",
-          "source": "UN News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EZF9kM18zOXpIY01kZDRYNnNsdzAxN3RONkJZdE9YTkFEZUdpbnNBeklGNmJxR1k3OUFob2J4RUdOOG8tQXFjQzFrc2FQWDloMTE0S295aw?oc=5",
-          "source": "Google News (United Nations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EZF9kM18zOXpIY01kZDRYNnNsdzAxN3RONkJZdE9YTkFEZUdpbnNBeklGNmJxR1k3OUFob2J4RUdOOG8tQXFjQzFrc2FQWDloMTE0S295aw?oc=5",
-          "source": "Google News (United Nations)"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-11T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/11-05-2026-UN-Nairobi-Guterres-02.jpg/image560x340cropped.jpg",
       "summary": "The United Nations launched a major expansion of its Nairobi headquarters. Secretary-General António Guterres and Kenyan President William Ruto marked the milestone for UN presence in Africa. The United Nations on Monday launched a major expansion of its Nairobi headquarters, with Secretary-General António Guterres and Kenyan President William Ruto marking what officials described as a significant milestone for the Organization’s presence in Africa.",
@@ -201,96 +249,102 @@
       "translations": {}
     },
     {
-      "title": "Tehran, Taiwan, trade … what are the hazards facing Trump on Xi summit tightrope?",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/may/10/tehran-taiwan-trade-donald-trump-xi-jinping-us-china-summit",
-      "source": "The Guardian",
+      "title": "ईरानी पिस्ते पर होर्मुज़ संकट की मार, कौन उठा रहा है फ़ायदा?",
+      "url": "https://www.bbc.com/hindi/articles/clyp21jw8n0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-10T04:00:15+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/259f659263c47d09c2500112ff0d5656fdb3ca2b/0_0_2997_2397/master/2997.jpg?width=140&quality=85&auto=format&fit=max&s=c7240d5e54fc52980b9f5636e55176d5",
-      "summary": "Donald Trump will arrive in Beijing on Wednesday for a summit with Chinese US leader enters talks with superpower rival from vulnerable position, but will be hoping for economic wins amid turbulent backdropIf all goes to plan over the next few days – and that is a big if – Donald Trump will arrive in Beijing on Wednesday for a highly anticipated summit with Xi Jinping, China’s leader. The trip will mark the first time a US president has visited China in nearly a decade.",
+      "published_at": "2026-05-13T09:29:25+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/246c/live/94826e00-4df8-11f1-aa1a-0d2841b91bc2.jpg",
+      "summary": "ईरान से जुड़े व्यापार मार्गों में रुकावट के कारण ईरानी पिस्ते की कीमतें लगभग 15% बढ़ गई हैं. होर्मुज़ जलडमरूमध्य में संकट का असर कच्चे माल के बाजारों में महसूस किया जा रहा है. होर्मुज़ स्ट्रेट संकट का असली असर कच्चे माल के बाज़ार में महसूस किया जा रहा है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरानी पिस्ते पर होर्मुज़ संकट की मार, कौन उठा रहा है फ़ायदा?",
+          "summary": "ईरान से जुड़े व्यापार मार्गों में रुकावट के कारण ईरानी पिस्ते की कीमतें लगभग 15% बढ़ गई हैं. होर्मुज़ जलडमरूमध्य में संकट का असर कच्चे माल के बाजारों में महसूस किया जा रहा है. होर्मुज़ स्ट्रेट संकट का असली असर कच्चे माल के बाज़ार में महसूस किया जा रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "मिसाइल परीक्षण पर बोले पुतिन- ये दुनिया में सबसे ताकतवर, परमाणु आधुनिकीकरण की कोशिश तेज",
-      "url": "https://www.amarujala.com/world/russian-president-putin-the-worlds-most-powerful-sarmat-missile-test-news-in-hindi-2026-05-13",
+      "title": "राजनीति से दूर रियल एस्टेट कारोबारी, अखिलेश से कैसे थे रिश्ते",
+      "url": "https://www.bbc.com/hindi/articles/cy420lg7znjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-13T08:03:32+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0baa/live/094f4250-4e9c-11f1-b092-4797e4fbbf94.jpg",
+      "summary": "प्रतीक यादव, रियल एस्टेट व्यवसायी और मुलायम सिंह यादव के सौतेले बेटे, का निधन हो गया. वह अपने निजी जीवन के कारण अक्सर चर्चा में रहते थे. उनकी पत्नी अपर्णा यादव भारतीय जनता पार्टी की नेता और उत्तर प्रदेश राज्य महिला आयोग की उपाध्यक्ष हैं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राजनीति से दूर रियल एस्टेट कारोबारी, अखिलेश से कैसे थे रिश्ते",
+          "summary": "प्रतीक यादव, रियल एस्टेट व्यवसायी और मुलायम सिंह यादव के सौतेले बेटे, का निधन हो गया. वह अपने निजी जीवन के कारण अक्सर चर्चा में रहते थे. उनकी पत्नी अपर्णा यादव भारतीय जनता पार्टी की नेता और उत्तर प्रदेश राज्य महिला आयोग की उपाध्यक्ष हैं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "विदेश मंत्री हवास ने निवेश, व्यापार और अंतरराष्ट्रीय आर्थिक संबंधों को कूटनीति का एक महत्वपूर्ण",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5OWGRFbzFvWTg4VER4YzR0MlFmV3ZvTWtQc3pzc2hfb1p0eWtEY2xSOFV1MXRLaGVlS19jeU42SWNxY0E?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-13T07:53:19+00:00",
+      "image_url": "https://images.pexels.com/photos/25310895/pexels-photo-25310895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "हिस्सा बताया। उन्होंने कहा कि ये तत्व देशों के बीच संबंधों को मजबूत करने में मदद करते हैं। हवास ने इन क्षेत्रों में सहयोग बढ़ाने पर जोर दिया। विदेश मंत्री हवास ने निवेश, व्यापार और अंतरराष्ट्रीय आर्थिक संबंधों को कूटनीति का एक महत्वपूर्ण।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विदेश मंत्री हवास ने निवेश, व्यापार और अंतरराष्ट्रीय आर्थिक संबंधों को कूटनीति का एक महत्वपूर्ण",
+          "summary": "हिस्सा बताया। उन्होंने कहा कि ये तत्व देशों के बीच संबंधों को मजबूत करने में मदद करते हैं। हवास ने इन क्षेत्रों में सहयोग बढ़ाने पर जोर दिया। विदेश मंत्री हवास ने निवेश, व्यापार और अंतरराष्ट्रीय आर्थिक संबंधों को कूटनीति का एक महत्वपूर्ण।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "विदेशी मुद्रा भंडार के लिहाज़ से ये 10 बड़े देश, भारत के अरबों डॉलर भी काफ़ी क्यों नहीं",
+      "url": "https://www.bbc.com/hindi/articles/cp3pedxkdr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-13T07:23:42+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64a6/live/7b6e0ee0-4e95-11f1-b092-4797e4fbbf94.jpg",
+      "summary": "भारत ने विदेशी मुद्रा भंडार पर दबाव कम करने के लिए नागरिकों से खर्च में कटौती करने की अपील की है। चीन के पास 3.2 ट्रिलियन डॉलर का सबसे बड़ा विदेशी मुद्रा भंडार है। इसके बाद जापान और स्विट्जरलैंड का स्थान आता है। भारत का विदेशी मुद्रा भंडार 600 अरब डॉलर से अधिक है, जो इन देशों की तुलना में काफी कम है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विदेशी मुद्रा भंडार के लिहाज़ से ये 10 बड़े देश, भारत के अरबों डॉलर भी काफ़ी क्यों नहीं",
+          "summary": "भारत ने विदेशी मुद्रा भंडार पर दबाव कम करने के लिए नागरिकों से खर्च में कटौती करने की अपील की है। चीन के पास 3.2 ट्रिलियन डॉलर का सबसे बड़ा विदेशी मुद्रा भंडार है। इसके बाद जापान और स्विट्जरलैंड का स्थान आता है। भारत का विदेशी मुद्रा भंडार 600 अरब डॉलर से अधिक है, जो इन देशों की तुलना में काफी कम है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी राष्ट्रपति की मेजबानी के लिए बीजिंग तैयार, दोनों देशों की क्या हैं उम्मीदें?",
+      "url": "https://www.amarujala.com/world/trump-to-land-in-beijing-on-wednesday-for-talks-with-xi-2026-05-13",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-13T06:58:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/valthamara-patana-nprsa-rashhatarapata_1161e0a89cfcb970a5e3b41284138680.jpeg?w=750&dpr=1.0",
-      "summary": "व्लादिमीर पुतिन ने सरमत मिसाइल का मिसाइल परीक्षण पर बोले पुतिन- ये दुनिया में सबसे ताकतवर, परमाणु आधुनिकीकरण की कोशिश तेज।",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-13T07:14:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/donald-trump_82845d8efba1bd5ada5383358abd8ac9.jpeg?w=750&dpr=1.0",
+      "summary": "बीजिंग अमेरिकी राष्ट्रपति की मेजबानी के लिए तैयार है। दोनों देशों के बीच व्यापार असंतुलन और उत्तर कोरिया के परमाणु कार्यक्रम पर चर्चा की उम्मीद है। चीन अमेरिकी कंपनियों के लिए अपने बाजार को और खोलने पर विचार कर सकता है। अमेरिका चीन से बौद्धिक संपदा की चोरी रोकने और अनुचित व्यापार प्रथाओं को समाप्त करने का आग्रह करेगा।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मिसाइल परीक्षण पर बोले पुतिन- ये दुनिया में सबसे ताकतवर, परमाणु आधुनिकीकरण की कोशिश तेज",
-          "summary": "व्लादिमीर पुतिन ने सरमत मिसाइल का मिसाइल परीक्षण पर बोले पुतिन- ये दुनिया में सबसे ताकतवर, परमाणु आधुनिकीकरण की कोशिश तेज।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "कार के आगे वाला शीशा झुका हुआ क्यों होता है? जानें इसके पीछे का विज्ञान",
-      "url": "https://www.amarujala.com/photo-gallery/bizarre-news/why-car-windshields-are-slanted-know-reasons-explained-in-hindi-amazing-car-facts-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:46:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/car_4ea867d102cf50e1f3be71279ebc8193.jpeg?w=750&dpr=1.0",
-      "summary": "कार का आगे का शीशा हवा के प्रतिरोध को कम करने के लिए झुका हुआ होता है। यह डिजाइन वायुगतिकी में सुधार करता है, जिससे कार की गति और ईंधन दक्षता बढ़ती है। यह झुकाव हवा को कार के ऊपर से आसानी से प्रवाहित करने में मदद करता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कार के आगे वाला शीशा झुका हुआ क्यों होता है? जानें इसके पीछे का विज्ञान",
-          "summary": "कार का आगे का शीशा हवा के प्रतिरोध को कम करने के लिए झुका हुआ होता है। यह डिजाइन वायुगतिकी में सुधार करता है, जिससे कार की गति और ईंधन दक्षता बढ़ती है। यह झुकाव हवा को कार के ऊपर से आसानी से प्रवाहित करने में मदद करता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "धीरे-धीरे लोगों के मन को भा रही ‘कृष्णावतारम पार्ट 1’, छह दिनों में कुल इतना हुआ कलेक्शन",
-      "url": "https://www.amarujala.com/web-stories/entertainment/bollywood/krishnavataram-part-1-box-office-collection-day-6-vs-raja-shivaji-film-collect-decent-number-in-week-days-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:44:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/kashhanaevatarama-parata-1-hathayama_86edb91541b62c81a6c25408a4f25d41.jpeg?w=750&dpr=1.0",
-      "summary": "फिल्म ‘कृष्णावतारम पार्ट 1’ दर्शकों को पसंद आ रही है। रिलीज के छह दिनों में फिल्म ने अच्छा कलेक्शन किया है। यह फिल्म धीरे-धीरे लोगों के दिलों में जगह बना रही है। धीरे-धीरे लोगों के मन को भा रही ‘कृष्णावतारम पार्ट 1’, छह दिनों में कुल इतना हुआ कलेक्शन।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "धीरे-धीरे लोगों के मन को भा रही ‘कृष्णावतारम पार्ट 1’, छह दिनों में कुल इतना हुआ कलेक्शन",
-          "summary": "फिल्म ‘कृष्णावतारम पार्ट 1’ दर्शकों को पसंद आ रही है। रिलीज के छह दिनों में फिल्म ने अच्छा कलेक्शन किया है। यह फिल्म धीरे-धीरे लोगों के दिलों में जगह बना रही है। धीरे-धीरे लोगों के मन को भा रही ‘कृष्णावतारम पार्ट 1’, छह दिनों में कुल इतना हुआ कलेक्शन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रोल नंबर रखें तैयार, कुछ ही देर में जारी होगा पंजाब बोर्ड 12वीं का रिजल्ट; ऐसे कर सकेंगे चेक",
-      "url": "https://www.amarujala.com/education/pseb-12th-result-2026-to-be-announced-at-12-30-pm-today-check-details-here-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:29:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/08/14/pseb-2024-supplementary-result-2024_6b3908aa3f543cd5e3f28b3b3e75fb56.jpeg?w=750&dpr=1.0",
-      "summary": "पंजाब स्कूल शिक्षा बोर्ड आज कक्षा 12वीं का रिजल्ट जारी करेगा। छात्र अपना रोल नंबर तैयार रखें। रिजल्ट कभी भी घोषित हो सकता है और इसे ऑनलाइन चेक किया जा सकेगा। PSEB 12th Result 2026: पंजाब स्कूल शिक्षा बोर्ड आज कक्षा 12वीं का रिजल्ट जारी करने वाला है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रोल नंबर रखें तैयार, कुछ ही देर में जारी होगा पंजाब बोर्ड 12वीं का रिजल्ट; ऐसे कर सकेंगे चेक",
-          "summary": "पंजाब स्कूल शिक्षा बोर्ड आज कक्षा 12वीं का रिजल्ट जारी करेगा। छात्र अपना रोल नंबर तैयार रखें। रिजल्ट कभी भी घोषित हो सकता है और इसे ऑनलाइन चेक किया जा सकेगा। PSEB 12th Result 2026: पंजाब स्कूल शिक्षा बोर्ड आज कक्षा 12वीं का रिजल्ट जारी करने वाला है।",
-          "region": "यूरोप और रूस"
+          "title": "अमेरिकी राष्ट्रपति की मेजबानी के लिए बीजिंग तैयार, दोनों देशों की क्या हैं उम्मीदें?",
+          "summary": "बीजिंग अमेरिकी राष्ट्रपति की मेजबानी के लिए तैयार है। दोनों देशों के बीच व्यापार असंतुलन और उत्तर कोरिया के परमाणु कार्यक्रम पर चर्चा की उम्मीद है। चीन अमेरिकी कंपनियों के लिए अपने बाजार को और खोलने पर विचार कर सकता है। अमेरिका चीन से बौद्धिक संपदा की चोरी रोकने और अनुचित व्यापार प्रथाओं को समाप्त करने का आग्रह करेगा।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
     {
       "title": "फ्लोर टेस्ट में थलापति को मिली 'विजय', टीवीके को मिला 144 विधायकों का समर्थन, भाजपा-PMK का वॉकआउट",
       "url": "https://www.amarujala.com/india-news/floor-test-continues-in-the-tn-assembly-vijay-govt-gets-support-from-these-parties-including-congress-cpi-2026-05-13",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-13T06:26:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/falra-tasata-ma-vajaya-hae-pasa_998f63f0cbe00d7fae84f2e71d8daf74.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/falra-tasata-ma-vajaya-hae-pasa_04ae3ae58574da156134082a407e6e08.jpeg?w=750&dpr=1.0",
       "summary": "तमिलनाडु विधानसभा में फ्लोर टेस्ट के दौरान विजय सरकार ने बहुमत साबित किया। उन्हें 144 विधायकों का समर्थन मिला। भाजपा और पीएमके ने सदन से वॉकआउट किया। फ्लोर टेस्ट में थलापति को मिली 'विजय', टीवीके को मिला 144 विधायकों का समर्थन, भाजपा-PMK का वॉकआउट।",
       "region": "World",
       "language": "hi",
@@ -303,200 +357,20 @@
       }
     },
     {
-      "title": "‘आपका कंटेंट कितना घटिया है’, इस साउथ एक्टर ने फिल्ममेकर्स की लगाई क्लास; कहा- दर्शकों को हल्के में",
-      "url": "https://www.amarujala.com/entertainment/south-cinema/rahul-ramakrishna-on-movies-failure-don-t-underestimate-audience-say-if-you-make-bad-film-who-come-to-theaters-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:26:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/rahal-ramakashhanae-oura-vajaya-thavarakada_7cbd37ee9a32314ba9ee3dac44dffc6c.jpeg?w=750&dpr=1.0",
-      "summary": "एक साउथ अभिनेता ने फिल्म निर्माताओं की आलोचना की है। उन्होंने कहा कि दर्शक घटिया कंटेंट को स्वीकार नहीं करेंगे। अभिनेता ने फिल्म निर्माताओं को दर्शकों को गंभीरता से लेने की सलाह दी। बॉक्स ऑफिस पर लगातार फ्लॉप हो रहीं फिल्मों और सिनेमाघरों में दर्शको की घटती संख्या पर साउथ अभिनेता ने नाराजगी जताई है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘आपका कंटेंट कितना घटिया है’, इस साउथ एक्टर ने फिल्ममेकर्स की लगाई क्लास; कहा- दर्शकों को हल्के में",
-          "summary": "एक साउथ अभिनेता ने फिल्म निर्माताओं की आलोचना की है। उन्होंने कहा कि दर्शक घटिया कंटेंट को स्वीकार नहीं करेंगे। अभिनेता ने फिल्म निर्माताओं को दर्शकों को गंभीरता से लेने की सलाह दी। बॉक्स ऑफिस पर लगातार फ्लॉप हो रहीं फिल्मों और सिनेमाघरों में दर्शको की घटती संख्या पर साउथ अभिनेता ने नाराजगी जताई है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "एक्सपर्ट्स का दावा- ईरान युद्ध में एक ट्रिलियन डॉलर फूंक चुके ट्रंप, बताया सिर्फ 29 बिलियन",
+      "title": "एक्सपर्ट्स का दावा- ईरान युद्ध में ₹95 लाख करोड़ फूंक चुके ट्रंप, बताया सिर्फ ₹2.77 लाख करोड़",
       "url": "https://www.amarujala.com/world/questions-on-war-spending-experts-claim-trump-spent-1-trillion-on-the-iran-war-only-29-billion-2026-05-13",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-13T06:24:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/12/us-iran-war_20b220cfbfa9ac73f8442a1db5b31793.jpeg?w=750&dpr=1.0",
-      "summary": "विशेषज्ञों ने दावा किया कि डोनाल्ड ट्रंप प्रशासन ने ईरान से संबंधित सैन्य एक्सपर्ट्स का दावा- ईरान युद्ध में एक ट्रिलियन डॉलर फूंक चुके ट्रंप, बताया सिर्फ 29 बिलियन।",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/iirana-yathathha-ka-lkara-patagana-na-kaya-kaha_a3ac2e18a8046d3b7aa7eacc2e0ab61f.jpeg?w=750&dpr=1.0",
+      "summary": "विशेषज्ञों ने दावा किया कि डोनाल्ड ट्रंप प्रशासन ने ईरान से संबंधित सैन्य एक्सपर्ट्स का दावा- ईरान युद्ध में एक ट्रिलियन डॉलर फूंक चुके ट्रंप, बताया सिर्फ 29 बिलियन। खर्च पर सवाल: एक्सपर्ट्स का दावा- ईरान युद्ध में ₹95 लाख करोड़ फूंक चुके ट्रंप, बताया सिर्फ ₹2.77 लाख करोड़।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "एक्सपर्ट्स का दावा- ईरान युद्ध में एक ट्रिलियन डॉलर फूंक चुके ट्रंप, बताया सिर्फ 29 बिलियन",
-          "summary": "विशेषज्ञों ने दावा किया कि डोनाल्ड ट्रंप प्रशासन ने ईरान से संबंधित सैन्य एक्सपर्ट्स का दावा- ईरान युद्ध में एक ट्रिलियन डॉलर फूंक चुके ट्रंप, बताया सिर्फ 29 बिलियन।",
+          "title": "एक्सपर्ट्स का दावा- ईरान युद्ध में ₹95 लाख करोड़ फूंक चुके ट्रंप, बताया सिर्फ ₹2.77 लाख करोड़",
+          "summary": "विशेषज्ञों ने दावा किया कि डोनाल्ड ट्रंप प्रशासन ने ईरान से संबंधित सैन्य एक्सपर्ट्स का दावा- ईरान युद्ध में एक ट्रिलियन डॉलर फूंक चुके ट्रंप, बताया सिर्फ 29 बिलियन। खर्च पर सवाल: एक्सपर्ट्स का दावा- ईरान युद्ध में ₹95 लाख करोड़ फूंक चुके ट्रंप, बताया सिर्फ ₹2.77 लाख करोड़।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भगवान पर से भरोसा उठने को लेकर पप्पू ने पंडित जी से कही ऐसी बात, पढ़कर नहीं रुकेगी हंसी",
-      "url": "https://www.amarujala.com/photo-gallery/humour/man-pandit-jokes-in-hindi-mahila-baba-comedy-jokes-pati-patni-funny-chutkule-in-hindi-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:18:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/funny-hindi-jokes_d652b23930c349f84d24c9bfa07bdf1d.jpeg?w=750&dpr=1.0",
-      "summary": "पप्पू ने पंडित जी से कहा कि भगवान पर से उनका भरोसा उठ गया है। उन्होंने कहा कि जब भी कोई समस्या आती है तो वह भगवान को याद करते हैं। लेकिन भगवान उनकी नहीं सुनते। पप्पू ने कहा कि वह अब भगवान पर भरोसा नहीं करते।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भगवान पर से भरोसा उठने को लेकर पप्पू ने पंडित जी से कही ऐसी बात, पढ़कर नहीं रुकेगी हंसी",
-          "summary": "पप्पू ने पंडित जी से कहा कि भगवान पर से उनका भरोसा उठ गया है। उन्होंने कहा कि जब भी कोई समस्या आती है तो वह भगवान को याद करते हैं। लेकिन भगवान उनकी नहीं सुनते। पप्पू ने कहा कि वह अब भगवान पर भरोसा नहीं करते।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्याें हॉरर फिल्में नहीं करते सुपरस्टार्स? विक्रम भट्ट ने खोली पोल; बोले- ‘हॉरर में डरना ...'",
-      "url": "https://www.amarujala.com/entertainment/celebs-interviews/vikram-bhatt-exclusive-interview-about-his-upcoming-film-haunted-3d-echoes-of-the-past-2026-05-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:15:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/vakarama-bhatata-falma-makara_feb777ca40cad00fdb1e9eb65db2b3d1.jpeg?w=750&dpr=1.0",
-      "summary": "विक्रम भट्ट ने बताया कि बॉलीवुड के बड़े सितारे हॉरर फिल्में नहीं करना चाहते. उन्होंने कहा कि हॉरर फिल्मों में एक्टर्स को डरना पड़ता है. यह उनके स्टारडम के लिए ठीक नहीं है. भट्ट ने '1920' और 'हॉन्टेड' जैसी सफल हॉरर फिल्में बनाई हैं. उन्होंने बॉलीवुड के हॉरर फिल्मों के प्रति रवैये पर भी बात की.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्याें हॉरर फिल्में नहीं करते सुपरस्टार्स? विक्रम भट्ट ने खोली पोल; बोले- ‘हॉरर में डरना ...'",
-          "summary": "विक्रम भट्ट ने बताया कि बॉलीवुड के बड़े सितारे हॉरर फिल्में नहीं करना चाहते. उन्होंने कहा कि हॉरर फिल्मों में एक्टर्स को डरना पड़ता है. यह उनके स्टारडम के लिए ठीक नहीं है. भट्ट ने '1920' और 'हॉन्टेड' जैसी सफल हॉरर फिल्में बनाई हैं. उन्होंने बॉलीवुड के हॉरर फिल्मों के प्रति रवैये पर भी बात की.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राजनीति से दूर रहकर भी करोड़ों कमाते थे प्रतीक यादव, जानिए किस बिजनेस में थे शामिल",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/mulayam-singh-son-and-akhilesh-yadav-brother-prateek-yadav-net-worth-income-source-business-property-in-hindi-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:12:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/prateek-yadav-income_6b30124096e2abf8eed45943328340f4.jpeg?w=750&dpr=1.0",
-      "summary": "प्रतीक यादव राजनीति से दूर रहकर फिटनेस और रियल एस्टेट के कारोबार में सक्रिय थे। उनकी संपत्ति, आय के स्रोत और जीवनशैली के बारे में जानकारी उपलब्ध है। वह इन व्यवसायों के माध्यम से करोड़ों की कमाई करते थे। Prateek Yadav Income Source: प्रतीक यादव राजनीति से दूर रहकर फिटनेस और रियल एस्टेट बिजनेस से जुड़े थे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राजनीति से दूर रहकर भी करोड़ों कमाते थे प्रतीक यादव, जानिए किस बिजनेस में थे शामिल",
-          "summary": "प्रतीक यादव राजनीति से दूर रहकर फिटनेस और रियल एस्टेट के कारोबार में सक्रिय थे। उनकी संपत्ति, आय के स्रोत और जीवनशैली के बारे में जानकारी उपलब्ध है। वह इन व्यवसायों के माध्यम से करोड़ों की कमाई करते थे। Prateek Yadav Income Source: प्रतीक यादव राजनीति से दूर रहकर फिटनेस और रियल एस्टेट बिजनेस से जुड़े थे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मंगलवार को बढ़ी ‘राजा शिवाजी’ की कमाई, जानें 12वें दिन का कलेक्शन?",
-      "url": "https://www.amarujala.com/web-stories/entertainment/bollywood/raja-shivaji-day-12-starring-riteish-deshmukh-movie-box-office-collection-total-earning-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:10:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/falma-raja-shavaja_5a6d48b4fee935c7095dbd23b66be1d1.jpeg?w=750&dpr=1.0",
-      "summary": "मंगलवार को फिल्म राजा शिवाजी की कमाई बढ़ी। 12वें दिन फिल्म ने अच्छा कलेक्शन किया। मंगलवार को बढ़ी ‘राजा शिवाजी’ की कमाई, जानें 12वें दिन का कलेक्शन?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मंगलवार को बढ़ी ‘राजा शिवाजी’ की कमाई, जानें 12वें दिन का कलेक्शन?",
-          "summary": "मंगलवार को फिल्म राजा शिवाजी की कमाई बढ़ी। 12वें दिन फिल्म ने अच्छा कलेक्शन किया। मंगलवार को बढ़ी ‘राजा शिवाजी’ की कमाई, जानें 12वें दिन का कलेक्शन?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गृह मंत्री अमित शाह ने घटाया काफिले का आकार, PM की अपील के बाद आधे से भी कम किए वाहन",
-      "url": "https://www.amarujala.com/india-news/amit-shah-convoy-reduction-fuel-saving-campaign-india-ev-vehicles-government-resource-management-pm-modi-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:09:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/15/amata-shaha_1518aa0c8595db1f956106258102c30e.jpeg?w=750&dpr=1.0",
-      "summary": "गृह मंत्री अमित शाह ने अपने काफिले का आकार घटाया है, प्रधानमंत्री की अपील के बाद वाहनों की संख्या आधे से कम हो गई है। गृह मंत्री अमित शाह ने घटाया काफिले का आकार, PM की अपील के बाद आधे से भी कम किए वाहन।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गृह मंत्री अमित शाह ने घटाया काफिले का आकार, PM की अपील के बाद आधे से भी कम किए वाहन",
-          "summary": "गृह मंत्री अमित शाह ने अपने काफिले का आकार घटाया है, प्रधानमंत्री की अपील के बाद वाहनों की संख्या आधे से कम हो गई है। गृह मंत्री अमित शाह ने घटाया काफिले का आकार, PM की अपील के बाद आधे से भी कम किए वाहन।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "तेज खर्राटे से लेकर पेट में गुड़गुड़ाहट तक, शरीर की ये 7 आवाजें न करें नजरअंदाज",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/body-warning-signs-weird-noises-your-body-makes-and-what-to-do-about-it-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:07:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/weird-noises_8fb09de7e89abbaf319ea9f5c54b18ba.jpeg?w=750&dpr=1.0",
-      "summary": "शरीर की कुछ आवाजें सामान्य नहीं होती, बल्कि कई बीमारियों का संकेत हो सकती हैं। बल्कि ये आवाजें कई बीमारियों का संकेत हो सकती हैं। इस लेख में जानिए शरीर की इन चेतावनी देने वाली आवाजों के बारे में। तेज खर्राटे से लेकर पेट में गुड़गुड़ाहट तक, शरीर की ये 7 आवाजें न करें नजरअंदाज।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेज खर्राटे से लेकर पेट में गुड़गुड़ाहट तक, शरीर की ये 7 आवाजें न करें नजरअंदाज",
-          "summary": "शरीर की कुछ आवाजें सामान्य नहीं होती, बल्कि कई बीमारियों का संकेत हो सकती हैं। बल्कि ये आवाजें कई बीमारियों का संकेत हो सकती हैं। इस लेख में जानिए शरीर की इन चेतावनी देने वाली आवाजों के बारे में। तेज खर्राटे से लेकर पेट में गुड़गुड़ाहट तक, शरीर की ये 7 आवाजें न करें नजरअंदाज।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान से जुड़े गैंगस्टर नेटवर्क पर राज्यभर में छापेमारी, कई संदिग्धों से पूछताछ",
-      "url": "https://www.amarujala.com/india-news/maharashtra-ats-conducts-raids-across-the-state-against-gangster-network-linked-to-pakistan-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:06:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/ats_4c7bc9275ea168b6b7244da8a1799b42.jpeg?w=750&dpr=1.0",
-      "summary": "महाराष्ट्र एटीएस ने पाकिस्तान से जुड़े गैंगस्टर नेटवर्क पर राज्यभर में छापेमारी की है, कई संदिग्धों से पूछताछ की जा रही है। पाकिस्तान से जुड़े गैंगस्टर नेटवर्क पर राज्यभर में छापेमारी, कई संदिग्धों से पूछताछ।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान से जुड़े गैंगस्टर नेटवर्क पर राज्यभर में छापेमारी, कई संदिग्धों से पूछताछ",
-          "summary": "महाराष्ट्र एटीएस ने पाकिस्तान से जुड़े गैंगस्टर नेटवर्क पर राज्यभर में छापेमारी की है, कई संदिग्धों से पूछताछ की जा रही है। पाकिस्तान से जुड़े गैंगस्टर नेटवर्क पर राज्यभर में छापेमारी, कई संदिग्धों से पूछताछ।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "एंड्रॉयड 17 में आ रहे हैं ये 5 कमाल के फीचर्स! जानें आपके फोन में कब आएगा अपडेट?",
-      "url": "https://www.amarujala.com/technology/tech-diary/5-amazing-features-coming-to-android-17-when-will-your-phone-get-the-update-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-13T06:05:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/android-17_a018ab2f3e553f6445a0bfc06796ba5a.jpeg?w=750&dpr=1.0",
-      "summary": "एंड्रॉयड 17 में कई नए फीचर्स आ रहे हैं, गूगल ने एंड्रॉयड शो 2026 में इनका अनावरण किया है। Android 17 Update: गूगल ने एंड्रॉयड शो 2026 के दौरान एंड्रॉयड 17 के कई बड़े फीचर्स पेश किए हैं। एंड्रॉयड 17 में आ रहे हैं ये 5 कमाल के फीचर्स!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एंड्रॉयड 17 में आ रहे हैं ये 5 कमाल के फीचर्स! जानें आपके फोन में कब आएगा अपडेट?",
-          "summary": "एंड्रॉयड 17 में कई नए फीचर्स आ रहे हैं, गूगल ने एंड्रॉयड शो 2026 में इनका अनावरण किया है। Android 17 Update: गूगल ने एंड्रॉयड शो 2026 के दौरान एंड्रॉयड 17 के कई बड़े फीचर्स पेश किए हैं। एंड्रॉयड 17 में आ रहे हैं ये 5 कमाल के फीचर्स!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मंत्रिमंडल विस्तार के बाद पहली कैबिनेट में 18 एजेंडे पास, बिहार में महंगाई भत्ते पर बड़ा फैसला",
-      "url": "https://www.amarujala.com/bihar/bihar-cabinet-first-cabinet-meeting-after-cabinet-expansion-cm-samrat-chaudhary-important-proposals-2026-05-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-13T06:04:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/cm-samrat-choudhary-bihar-cabinet_1264b6fe0325af7288a47b234d34756e.jpeg?w=750&dpr=1.0",
-      "summary": "बिहार कैबिनेट ने महंगाई भत्ते पर बड़ा फैसला किया है, मंत्रिमंडल विस्तार के बाद पहली कैबिनेट बैठक में 18 एजेंडे पास किए गए हैं। Bihar News: मुख्यमंत्री सम्राट चौधरी ने मंत्रिपरिषद् विस्तार के बाद आज पहली बार कैबिनेट बैठक की। इस बैठक में 18 प्रस्तावों पर मुहर लगाई गई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मंत्रिमंडल विस्तार के बाद पहली कैबिनेट में 18 एजेंडे पास, बिहार में महंगाई भत्ते पर बड़ा फैसला",
-          "summary": "बिहार कैबिनेट ने महंगाई भत्ते पर बड़ा फैसला किया है, मंत्रिमंडल विस्तार के बाद पहली कैबिनेट बैठक में 18 एजेंडे पास किए गए हैं। Bihar News: मुख्यमंत्री सम्राट चौधरी ने मंत्रिपरिषद् विस्तार के बाद आज पहली बार कैबिनेट बैठक की। इस बैठक में 18 प्रस्तावों पर मुहर लगाई गई।",
-          "region": "दुनिया"
         }
       }
     },
@@ -514,42 +388,6 @@
         "hi": {
           "title": "पाकिस्तान में बांग्लादेश से मिली हार के बाद फूटा ग़ुस्सा, क्या बोले पूर्व क्रिकेटर",
           "summary": "पाकिस्तान बांग्लादेश से हार गया, यह उनकी लगातार तीसरी हार है. बांग्लादेश के ख़िलाफ़ यह पाकिस्तान की लगातार तीसरी और बांग्लादेश की धरती पर पहली हार है. जुलाई 2023 में श्रीलंका में टेस्ट सिरीज़ जीतने के बाद से अब तक पाकिस्तान टीम देश के बाहर एक भी टेस्ट जीतने में सफल नहीं हो सकी है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'अमेरिका दौरे का असर', PAK से बातचीत जारी रखने वाले बयान को लेकर कांग्रेस का होसबाले और RSS पर तंज",
-      "url": "https://www.amarujala.com/india-news/seems-hosabale-s-recent-us-trip-impacted-him-as-well-as-rss-cong-s-dig-over-pak-remarks-2026-05-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-13T05:55:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/jairam-ramesh_109218153ed05a31d51c6e3a8d741755.jpeg?w=750&dpr=1.0",
-      "summary": "कांग्रेस ने होसबाले और आरएसएस पर तंज कसा, अमेरिका दौरे का असर बताया. Congress: 'अमेरिका दौरे का असर', PAK से बातचीत जारी रखने वाले बयान को लेकर कांग्रेस का होसबाले और RSS पर तंज।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'अमेरिका दौरे का असर', PAK से बातचीत जारी रखने वाले बयान को लेकर कांग्रेस का होसबाले और RSS पर तंज",
-          "summary": "कांग्रेस ने होसबाले और आरएसएस पर तंज कसा, अमेरिका दौरे का असर बताया. Congress: 'अमेरिका दौरे का असर', PAK से बातचीत जारी रखने वाले बयान को लेकर कांग्रेस का होसबाले और RSS पर तंज।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "सोनिया गांधी को पेट की तकलीफ के चलते मेदांता अस्पताल में भर्ती कराया गया, चार घंटे बाद दिल्ली लौटीं",
-      "url": "https://www.amarujala.com/delhi-ncr/gurgaon/sonia-gandhi-admitted-to-medanta-hospital-in-gurugram-2026-05-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-13T05:27:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/02/constitution-under-siege-bjp-doing-ideological-coup-to-replace-republic-with-theocratic-state-soni_7b0dfab1dbb3315a0303844bb0b32ff0.jpeg?w=750&dpr=1.0",
-      "summary": "सोनिया गांधी को पेट की तकलीफ के चलते मेदांता अस्पताल में भर्ती कराया गया. कांग्रेस की वरिष्ठ नेता सोनिया गांधी को बुधवार को गुरुग्राम के मेदांता अस्पताल में भर्ती कराया गया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सोनिया गांधी को पेट की तकलीफ के चलते मेदांता अस्पताल में भर्ती कराया गया, चार घंटे बाद दिल्ली लौटीं",
-          "summary": "सोनिया गांधी को पेट की तकलीफ के चलते मेदांता अस्पताल में भर्ती कराया गया. कांग्रेस की वरिष्ठ नेता सोनिया गांधी को बुधवार को गुरुग्राम के मेदांता अस्पताल में भर्ती कराया गया है।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -573,42 +411,6 @@
       }
     },
     {
-      "title": "GT vs SRH मैच के बाद प्लेऑफ का समीकरण; सीएसके की उम्मीदें बढ़ीं; अब ऑरेंज और पर्पल कैप किसके पास?",
-      "url": "https://www.amarujala.com/cricket/ipl-2026-playoff-scenario-after-gt-vs-srh-match-which-team-has-high-percentage-and-high-qualification-chances-2026-05-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-13T05:24:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/27/ipl_f6fe71b5ae1d33c36c9c128e922185e4.jpeg?w=750&dpr=1.0",
-      "summary": "गुजरात टाइटंस 12 मैचों से 16 अंक लेकर पहले स्थान पर है, आरसीबी दूसरे स्थान पर है. गुजरात टाइटंस 12 मैचों से 16 अंक लेकर पहले, रॉयल चैलेंजर्स बेंगलुरु 11 मैचों से 14 अंक लेकर दूसरे, सनराइजर्स हैदराबाद 12 मैचों से 14 अंक लेकर तीसरे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "GT vs SRH मैच के बाद प्लेऑफ का समीकरण; सीएसके की उम्मीदें बढ़ीं; अब ऑरेंज और पर्पल कैप किसके पास?",
-          "summary": "गुजरात टाइटंस 12 मैचों से 16 अंक लेकर पहले स्थान पर है, आरसीबी दूसरे स्थान पर है. गुजरात टाइटंस 12 मैचों से 16 अंक लेकर पहले, रॉयल चैलेंजर्स बेंगलुरु 11 मैचों से 14 अंक लेकर दूसरे, सनराइजर्स हैदराबाद 12 मैचों से 14 अंक लेकर तीसरे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘लॉर्ड ऑफ द रिंग्स’ के निर्देशक पीटर जैक्सन को मिला पाम डी’ओर अवॉर्ड, बोले- मैं यह सम्मान पाने वाला",
-      "url": "https://www.amarujala.com/entertainment/hollywood/lord-of-the-rings-director-peter-jackson-honored-with-palme-d-or-award-at-cannes-2026-says-this-is-miraculous-2026-05-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-13T05:19:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/patara-jakasana-ka-mal-pama-daora_6a6ab39f2ccea72b10fa348b67d5ee8c.jpeg?w=750&dpr=1.0",
-      "summary": "पीटर जैक्सन को पाम डी’ओर अवॉर्ड मिला। Peter Jackson: दिग्गज निर्माता-निर्देशक पीटर जैक्सन को पाम डी’ओर अवॉर्ड से सम्मानित किया गया है। जानिए इस मौके पर उन्होंने क्या कुछ कहा और किसने दिया उन्हें ये सम्मान। ‘लॉर्ड ऑफ द रिंग्स’ के निर्देशक पीटर जैक्सन को मिला पाम डी’ओर अवॉर्ड, बोले- मैं यह सम्मान पाने वाला।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘लॉर्ड ऑफ द रिंग्स’ के निर्देशक पीटर जैक्सन को मिला पाम डी’ओर अवॉर्ड, बोले- मैं यह सम्मान पाने वाला",
-          "summary": "पीटर जैक्सन को पाम डी’ओर अवॉर्ड मिला। Peter Jackson: दिग्गज निर्माता-निर्देशक पीटर जैक्सन को पाम डी’ओर अवॉर्ड से सम्मानित किया गया है। जानिए इस मौके पर उन्होंने क्या कुछ कहा और किसने दिया उन्हें ये सम्मान। ‘लॉर्ड ऑफ द रिंग्स’ के निर्देशक पीटर जैक्सन को मिला पाम डी’ओर अवॉर्ड, बोले- मैं यह सम्मान पाने वाला।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "संयुक्त राष्ट्र ने हर हफ्ते एक बच्चे की मौत के लिए वेस्ट बैंक में इजरायल के अभियान की निंदा की",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5lemZpYXRlVjVBQ3pqa24tSlNsVTBwYkdIRnN6X0xVdjFCeVB0UGZpV3pBdTBTTXlUdWRfOGQ0eG9Ba0XSAUJBVV95cUxNVHBvTjh3ZDdtUnVTdWRoN2diVzNDWURITVVWU1NvWGdWc2VXdFozRFk1clFkLXp1Vm12elBDSngtYVE?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -627,24 +429,6 @@
       }
     },
     {
-      "title": "एन रंगासामी ने ली पुदुचेरी के सीएम पद की शपथ, ए नमस्सिवयम और मल्लादी कृष्ण राव बने मंत्री",
-      "url": "https://www.amarujala.com/india-news/n-rangasamy-sworn-in-as-puducherry-cm-namassivayam-malladi-krishna-rao-become-ministers-2026-05-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-13T04:46:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/ena-ragasama-pathacara-saema_67db3de4c3b7b8e807219623b85599b2.jpeg?w=750&dpr=1.0",
-      "summary": "एन रंगासामी पुदुचेरी के सीएम बने। N. एन रंगासामी ने ली पुदुचेरी के सीएम पद की शपथ, ए नमस्सिवयम और मल्लादी कृष्ण राव बने मंत्री।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एन रंगासामी ने ली पुदुचेरी के सीएम पद की शपथ, ए नमस्सिवयम और मल्लादी कृष्ण राव बने मंत्री",
-          "summary": "एन रंगासामी पुदुचेरी के सीएम बने। N. एन रंगासामी ने ली पुदुचेरी के सीएम पद की शपथ, ए नमस्सिवयम और मल्लादी कृष्ण राव बने मंत्री।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "भाई प्रतीक यादव की मौत पर ये बोले अखिलेश यादव, डॉक्टर ने क्या बताया?",
       "url": "https://www.bbc.com/hindi/articles/c78qn2e1v7go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -659,6 +443,258 @@
           "title": "भाई प्रतीक यादव की मौत पर ये बोले अखिलेश यादव, डॉक्टर ने क्या बताया?",
           "summary": "समाजवादी पार्टी के नेता अखिलेश यादव के छोटे भाई प्रतीक यादव का निधन हो गया है. पार्टी ने एक्स पर उन्हें श्रद्धांजलि दी. प्रतीक यादव भारतीय जनता पार्टी की नेता अपर्णा यादव के पति थे. समाजवादी पार्टी (सपा) ने अपने एक्स हैंडल पर उन्हें श्रद्धांजलि दी.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप के रक्षा बजट पर बवाल: ईरान युद्ध पर अमेरिकी संसद में घमासान, हेगसेथ बोले- अब भी हमारे हाथ में",
+      "url": "https://www.amarujala.com/world/uproar-in-us-parliament-over-iran-war-hegseth-says-we-still-have-all-the-cards-in-our-hands-2026-05-13",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-13T03:20:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/05/hegseth-says-us-cant-stop-everything-that-iran-fires-even-as-he-asserts-air-dominance_87684e37dfd783ec5d84f0ac626eea37.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी संसद में राष्ट्रपति ट्रंप के रक्षा बजट पर बहस हुई। ईरान युद्ध के संदर्भ में यह चर्चा हुई। एक अधिकारी ने कहा कि स्थिति अभी भी नियंत्रण में है। ट्रंप के रक्षा बजट पर बवाल: ईरान युद्ध पर अमेरिकी संसद में घमासान, हेगसेथ बोले- अब भी हमारे हाथ में।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप के रक्षा बजट पर बवाल: ईरान युद्ध पर अमेरिकी संसद में घमासान, हेगसेथ बोले- अब भी हमारे हाथ में",
+          "summary": "अमेरिकी संसद में राष्ट्रपति ट्रंप के रक्षा बजट पर बहस हुई। ईरान युद्ध के संदर्भ में यह चर्चा हुई। एक अधिकारी ने कहा कि स्थिति अभी भी नियंत्रण में है। ट्रंप के रक्षा बजट पर बवाल: ईरान युद्ध पर अमेरिकी संसद में घमासान, हेगसेथ बोले- अब भी हमारे हाथ में।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "गोल्ड-सिल्वर पर इंपोर्ट ड्यूटी बढ़ी, कितनी महंगी हो जाएगी ज्वैलरी",
+      "url": "https://www.bbc.com/hindi/articles/cy82g6q2wl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-13T03:03:38+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/117a/live/2b0adbd0-4e78-11f1-bd52-e755d604ece4.jpg",
+      "summary": "भारत सरकार ने सोना और चांदी पर आयात शुल्क बढ़ा दिया है। यह घोषणा प्रधानमंत्री की नागरिकों से एक साल तक सोना न खरीदने की अपील के दो दिन बाद आई। प्रधानमंत्री नरेंद्र मोदी की देशवासियों से एक साल तक सोना ना ख़रीदने की अपील के दो दिन बाद ही गोल्ड-सिल्वर पर इंपोर्ट ड्यूटी बढ़ाने का एलान किया गया है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गोल्ड-सिल्वर पर इंपोर्ट ड्यूटी बढ़ी, कितनी महंगी हो जाएगी ज्वैलरी",
+          "summary": "भारत सरकार ने सोना और चांदी पर आयात शुल्क बढ़ा दिया है। यह घोषणा प्रधानमंत्री की नागरिकों से एक साल तक सोना न खरीदने की अपील के दो दिन बाद आई। प्रधानमंत्री नरेंद्र मोदी की देशवासियों से एक साल तक सोना ना ख़रीदने की अपील के दो दिन बाद ही गोल्ड-सिल्वर पर इंपोर्ट ड्यूटी बढ़ाने का एलान किया गया है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मीडिया पर भड़के राष्ट्रपति डोनाल्ड ट्रंप, ईरान को झूठी उम्मीद देने और मदद करने का आरोप लगाया",
+      "url": "https://www.amarujala.com/world/virtual-treason-trump-takes-dig-at-media-over-iran-war-coverage-2026-05-13",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-13T03:00:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/danalda-tarapa-amaraka-rashhatarapata_b924c2c68a311071c0e4cee5e88e7d46.jpeg?w=750&dpr=1.0",
+      "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने मीडिया पर ईरान को झूठी उम्मीद देने और सहायता करने का आरोप लगाया। उन्होंने मीडिया की आलोचना की। अमेरिका: मीडिया पर भड़के राष्ट्रपति डोनाल्ड ट्रंप, ईरान को झूठी उम्मीद देने और मदद करने का आरोप लगाया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मीडिया पर भड़के राष्ट्रपति डोनाल्ड ट्रंप, ईरान को झूठी उम्मीद देने और मदद करने का आरोप लगाया",
+          "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने मीडिया पर ईरान को झूठी उम्मीद देने और सहायता करने का आरोप लगाया। उन्होंने मीडिया की आलोचना की। अमेरिका: मीडिया पर भड़के राष्ट्रपति डोनाल्ड ट्रंप, ईरान को झूठी उम्मीद देने और मदद करने का आरोप लगाया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'अमेरिका के कदम शांति कायम होने में सबसे बड़ी बाधा', ईरान ने वाशिंगटन पर साधा निशाना",
+      "url": "https://www.amarujala.com/world/lack-of-good-faith-dishonesty-by-us-significant-obstacle-to-end-war-iranian-fm-araghchi-2026-05-13",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-13T02:11:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/abbas-aragchi_287ef5eeb795e76b7fe2d47ef5e23e7f.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान ने वाशिंगटन पर निशाना साधा। ईरान का कहना है कि अमेरिका के कदम शांति स्थापित करने में सबसे बड़ी बाधा हैं। पश्चिम एशिया संकट: 'अमेरिका के कदम शांति कायम होने में सबसे बड़ी बाधा', ईरान ने वाशिंगटन पर साधा निशाना।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'अमेरिका के कदम शांति कायम होने में सबसे बड़ी बाधा', ईरान ने वाशिंगटन पर साधा निशाना",
+          "summary": "ईरान ने वाशिंगटन पर निशाना साधा। ईरान का कहना है कि अमेरिका के कदम शांति स्थापित करने में सबसे बड़ी बाधा हैं। पश्चिम एशिया संकट: 'अमेरिका के कदम शांति कायम होने में सबसे बड़ी बाधा', ईरान ने वाशिंगटन पर साधा निशाना।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरानी हमलों का सऊदी ने दिया था करारा जवाब, कई इलाकों पर किए थे हवाई हमले; रिपोर्ट में खुलासा",
+      "url": "https://www.amarujala.com/world/saudi-arabia-secret-airstrikes-on-iran-mark-first-direct-military-action-amid-west-asia-conflict-2026-05-13",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-13T02:06:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/eara-sataraika_84a9444ae8f96858949fc0aaf64ee18e.jpeg?w=750&dpr=1.0",
+      "summary": "एक रिपोर्ट के अनुसार, सऊदी अरब ने ईरानी हमलों के जवाब में हवाई हमले किए थे। यह पश्चिम एशिया संघर्ष के बीच सीधी सैन्य कार्रवाई थी। ईरानी हमलों का सऊदी ने दिया था करारा जवाब, कई इलाकों पर किए थे हवाई हमले; रिपोर्ट में खुलासा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरानी हमलों का सऊदी ने दिया था करारा जवाब, कई इलाकों पर किए थे हवाई हमले; रिपोर्ट में खुलासा",
+          "summary": "एक रिपोर्ट के अनुसार, सऊदी अरब ने ईरानी हमलों के जवाब में हवाई हमले किए थे। यह पश्चिम एशिया संघर्ष के बीच सीधी सैन्य कार्रवाई थी। ईरानी हमलों का सऊदी ने दिया था करारा जवाब, कई इलाकों पर किए थे हवाई हमले; रिपोर्ट में खुलासा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने अमेरिका को दी परमाणु हथियारों की धमकी, शांति प्रस्ताव खारिज होने के बाद बढ़ा तनाव",
+      "url": "https://www.amarujala.com/world/iran-threatens-90-percent-uranium-enrichment-trump-considers-military-action-us-war-cost-2026-05-13",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-13T02:00:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/22/west-asia-crisis_65914daa8e2a15de0804abaf13d2180b.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान ने अमेरिका को परमाणु हथियार बनाने की धमकी दी है। यह तब हुआ जब शांति प्रस्ताव खारिज हो गया। ईरान 90 प्रतिशत यूरेनियम संवर्धन पर विचार कर रहा है। ईरान ने अमेरिका को दी परमाणु हथियारों की धमकी, शांति प्रस्ताव खारिज होने के बाद बढ़ा तनाव।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने अमेरिका को दी परमाणु हथियारों की धमकी, शांति प्रस्ताव खारिज होने के बाद बढ़ा तनाव",
+          "summary": "ईरान ने अमेरिका को परमाणु हथियार बनाने की धमकी दी है। यह तब हुआ जब शांति प्रस्ताव खारिज हो गया। ईरान 90 प्रतिशत यूरेनियम संवर्धन पर विचार कर रहा है। ईरान ने अमेरिका को दी परमाणु हथियारों की धमकी, शांति प्रस्ताव खारिज होने के बाद बढ़ा तनाव।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "डोनाल्ड ट्रंप की चीन यात्रा: इस बार कौन होगा मज़बूत स्थिति में?",
+      "url": "https://www.bbc.com/hindi/articles/ce8p2831zz4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-13T01:58:01+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ce3/live/b238cdf0-15e4-11f1-b7f0-993273cb922a.jpg",
+      "summary": "डोनाल्ड ट्रंप की चीन यात्रा दोनों देशों के बीच संबंधों के एक महत्वपूर्ण मोड़ पर हो रही है। चीन के निर्यात रिकॉर्ड स्तर पर हैं, भले ही अमेरिका के साथ उसके संबंध कमजोर हुए हैं। यह यात्रा दुनिया की दो सबसे बड़ी अर्थव्यवस्थाओं के बीच संबंधों के निर्णायक मोड़ पर हो रही है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डोनाल्ड ट्रंप की चीन यात्रा: इस बार कौन होगा मज़बूत स्थिति में?",
+          "summary": "डोनाल्ड ट्रंप की चीन यात्रा दोनों देशों के बीच संबंधों के एक महत्वपूर्ण मोड़ पर हो रही है। चीन के निर्यात रिकॉर्ड स्तर पर हैं, भले ही अमेरिका के साथ उसके संबंध कमजोर हुए हैं। यह यात्रा दुनिया की दो सबसे बड़ी अर्थव्यवस्थाओं के बीच संबंधों के निर्णायक मोड़ पर हो रही है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नैरोबी स्थित यूएन मुख्यालय का विस्तार, अफ़्रीका की बढ़ती वैश्विक भूमिका पर बल",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tanlrekRZTVBZRzRXZXJMdTlGamlBanVldEJtbWgtb2thSjVuZ1hheUt0UW1hSzVlenZRNks4VEhPTE5PN2t5aDNvYjFEY3d6SG1Rc1p3QQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-13T01:46:40+00:00",
+      "image_url": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "नैरोबी में संयुक्त राष्ट्र मुख्यालय का विस्तार किया गया है। यह विस्तार अफ्रीका की बढ़ती वैश्विक भूमिका को दर्शाता है। नैरोबी स्थित यूएन मुख्यालय का विस्तार, अफ़्रीका की बढ़ती वैश्विक भूमिका पर बल Welcome to the United Nations।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नैरोबी स्थित यूएन मुख्यालय का विस्तार, अफ़्रीका की बढ़ती वैश्विक भूमिका पर बल",
+          "summary": "नैरोबी में संयुक्त राष्ट्र मुख्यालय का विस्तार किया गया है। यह विस्तार अफ्रीका की बढ़ती वैश्विक भूमिका को दर्शाता है। नैरोबी स्थित यूएन मुख्यालय का विस्तार, अफ़्रीका की बढ़ती वैश्विक भूमिका पर बल Welcome to the United Nations।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "युद्ध और हिंसा ने दुनिया में मचाई तबाही, अपने ही देश में बेघर हुए 8.2 करोड़ लोग",
+      "url": "https://www.amarujala.com/world/global-report-internal-displacement-2026-war-violence-displace-82-million-people-2026-05-13",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-13T01:45:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/20/west-asia-crisis-iran-war_67ef754ce190874b8d733e70f7ef2f39.gif?w=750&dpr=1.0",
+      "summary": "युद्ध और हिंसा के कारण दुनिया भर में 8.2 करोड़ लोग अपने ही देशों में विस्थापित हुए हैं। यह जानकारी IDMC की एक रिपोर्ट में सामने आई है। IDMC रिपोर्ट में खुलासा: युद्ध और हिंसा ने दुनिया में मचाई तबाही, अपने ही देश में बेघर हुए 8.2 करोड़ लोग।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "युद्ध और हिंसा ने दुनिया में मचाई तबाही, अपने ही देश में बेघर हुए 8.2 करोड़ लोग",
+          "summary": "युद्ध और हिंसा के कारण दुनिया भर में 8.2 करोड़ लोग अपने ही देशों में विस्थापित हुए हैं। यह जानकारी IDMC की एक रिपोर्ट में सामने आई है। IDMC रिपोर्ट में खुलासा: युद्ध और हिंसा ने दुनिया में मचाई तबाही, अपने ही देश में बेघर हुए 8.2 करोड़ लोग।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हो ची मिन्ह की कूटनीतिक संस्कृति - वियतनाम की ताकत और स्थिति की नींव।",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPck9lc1Q2NVJKdkgzcHpVeUlERFZRaGFIT0U5bjk0aXJZVGNnZ1EzOUxBSE1aWlczQUVyV3ZEaC1OSjNuODd1bEotcWgwQW1oWFpxaExDaGY3MFpiOGNVM1ZpXzlYYy1GLXJrc3hNczNRWXp6SC04YkVkd18tejhnS1JxdEMzNmpPOFkySjI5OENfZlpnUVJqb083eEhyZw?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-05-13T01:18:29+00:00",
+      "image_url": "https://images.pexels.com/photos/12654331/pexels-photo-12654331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "हो ची मिन्ह की कूटनीतिक संस्कृति वियतनाम की ताकत और अंतरराष्ट्रीय स्थिति की नींव है। यह कूटनीति देश की वर्तमान स्थिति को आकार देती है। हो ची मिन्ह की कूटनीतिक संस्कृति - वियतनाम की ताकत और स्थिति की नींव।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हो ची मिन्ह की कूटनीतिक संस्कृति - वियतनाम की ताकत और स्थिति की नींव।",
+          "summary": "हो ची मिन्ह की कूटनीतिक संस्कृति वियतनाम की ताकत और अंतरराष्ट्रीय स्थिति की नींव है। यह कूटनीति देश की वर्तमान स्थिति को आकार देती है। हो ची मिन्ह की कूटनीतिक संस्कृति - वियतनाम की ताकत और स्थिति की नींव।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "गणित के क्षेत्र में भारतीय सभ्यता का योगदान, जयशंकर ने UN में किया प्रदर्शनी का उद्घाटन",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczBwUUNodkNRZ3hwVlN5a0VPek5WSjdQT2xBN2VIbVRGVVpxS3lGR1MtaGlZeF9sNkJZNkhNcl9rTWtsVnFQU2k4Ny1RNnhEaTFlN25OY3hkZUV5aGxOVlQwUUdfMEZ3dlZ3dV9fbEtDSGczUTdOcGQ0NXdPU0pFaFNfUjRzSTRubTVERGFRLWpqV0pWeXczQWZDRVVkSWVySGlnUmZ0bXlCNHFzX01XTkZHR1B6VVhNWDBFbUJ5Rm01OWVqOUUxaFYzWXI0U3ZVYzA5SjZYNWlWRnNpOVHSAeMBQVVfeXFMTXBqU2t5NS0yb25pQ0drQTh2M0hrSHZkVjF5T3ZmQUt1SzRGQk04N3hHWHdFcS11a1liTHVrZ2FIZEhwMHZmYnR6bkJKZGV0SXRjM2RPek5YcEpaNDZ1ckoza3hWbmFXRGJydlpvc2M5Sjd0QlZyMldCck82Y2xmaTNLVU54SDVRM2pMd1hXcXZuZElRWHBWbThDaGNqTHF1WFplMldnQV9BMWU5UWNMb01Ha3A0SVhycENpRWRjajVBbng4aWV3cWFLNGlwaXpxVm1PVGc5Y005amxaYjFsQkI1Zms?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-13T00:56:39+00:00",
+      "image_url": "https://images.pexels.com/photos/5412435/pexels-photo-5412435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विदेश मंत्री एस. जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र मुख्यालय में गणित के क्षेत्र में भारतीय सभ्यता के योगदान पर एक प्रदर्शनी का उद्घाटन किया। यह प्रदर्शनी भारत के प्राचीन गणितीय ज्ञान और उसके वैश्विक प्रभाव को प्रदर्शित करती है। गणित के क्षेत्र में भारतीय सभ्यता का योगदान, जयशंकर ने UN में किया प्रदर्शनी का उद्घाटन TV9 Bharatvarsh।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गणित के क्षेत्र में भारतीय सभ्यता का योगदान, जयशंकर ने UN में किया प्रदर्शनी का उद्घाटन",
+          "summary": "विदेश मंत्री एस. जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र मुख्यालय में गणित के क्षेत्र में भारतीय सभ्यता के योगदान पर एक प्रदर्शनी का उद्घाटन किया। यह प्रदर्शनी भारत के प्राचीन गणितीय ज्ञान और उसके वैश्विक प्रभाव को प्रदर्शित करती है। गणित के क्षेत्र में भारतीय सभ्यता का योगदान, जयशंकर ने UN में किया प्रदर्शनी का उद्घाटन TV9 Bharatvarsh।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "राजदूत डो हंग वियत ने 11वें एनपीटी सम्मेलन में संयुक्त राष्ट्र महासभा के अध्यक्ष के साथ काम किया।",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPakVFdkNPRHJrTTA3ckN2M3k0aTM2eXNob21pTmV2RzVDbll5bzVtTXR3VE1UYzRObXQxVDBmbDNhd3hJS3lSMk1vTHdZMEMzVy1HS01faGI1SEVfR0VBeGV6akdyN2xlX1NBZXgxWG5nUGZ2Qm9KWTdlOEZVb2RDT2REcFYyMUNDbF9XanpLQW8zNUhNbFFiTVNIS0xsQzlsYU5NRHdqazE3OU5kSG5qNU11ZE5qSXhaSE5ocnJn?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-13T00:39:23+00:00",
+      "image_url": "https://images.pexels.com/photos/28962155/pexels-photo-28962155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "राजदूत डो हंग वियत ने 11वें परमाणु अप्रसार संधि (NPT) सम्मेलन में संयुक्त राष्ट्र महासभा के अध्यक्ष के साथ मिलकर काम किया। उन्होंने सम्मेलन के उद्देश्यों को आगे बढ़ाने में सहयोग किया। राजदूत डो हंग वियत ने 11वें एनपीटी सम्मेलन में संयुक्त राष्ट्र महासभा के अध्यक्ष के साथ काम किया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राजदूत डो हंग वियत ने 11वें एनपीटी सम्मेलन में संयुक्त राष्ट्र महासभा के अध्यक्ष के साथ काम किया।",
+          "summary": "राजदूत डो हंग वियत ने 11वें परमाणु अप्रसार संधि (NPT) सम्मेलन में संयुक्त राष्ट्र महासभा के अध्यक्ष के साथ मिलकर काम किया। उन्होंने सम्मेलन के उद्देश्यों को आगे बढ़ाने में सहयोग किया। राजदूत डो हंग वियत ने 11वें एनपीटी सम्मेलन में संयुक्त राष्ट्र महासभा के अध्यक्ष के साथ काम किया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप चीन दौरे पर, जिनपिंग से होगी मुलाकात; एक्शन में हंगरी की नई सरकार, मंत्रियों ने पद संभाले",
+      "url": "https://www.amarujala.com/world/world-updates-trump-china-visit-hungary-new-ministers-assume-office-russia-ukraine-iran-us-west-asia-tension-2026-05-13",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-13T00:36:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_ada29d0698ac05730f42b55e98101cbe.jpeg?w=750&dpr=1.0",
+      "summary": "डोनाल्ड ट्रंप चीन के दौरे पर हैं जहां उनकी मुलाकात राष्ट्रपति शी जिनपिंग से होगी। इस बीच, हंगरी की नई सरकार ने पदभार संभाला और मंत्रियों ने अपने कार्यभार ग्रहण किए। World News: ट्रंप चीन दौरे पर, जिनपिंग से होगी मुलाकात; एक्शन में हंगरी की नई सरकार, मंत्रियों ने पद संभाले।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप चीन दौरे पर, जिनपिंग से होगी मुलाकात; एक्शन में हंगरी की नई सरकार, मंत्रियों ने पद संभाले",
+          "summary": "डोनाल्ड ट्रंप चीन के दौरे पर हैं जहां उनकी मुलाकात राष्ट्रपति शी जिनपिंग से होगी। इस बीच, हंगरी की नई सरकार ने पदभार संभाला और मंत्रियों ने अपने कार्यभार ग्रहण किए। World News: ट्रंप चीन दौरे पर, जिनपिंग से होगी मुलाकात; एक्शन में हंगरी की नई सरकार, मंत्रियों ने पद संभाले।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप से टकराव के कारण छिनी कुर्सी: अमेरिका में FDA प्रमुख डॉ मकरी का इस्तीफा, काइल को कमान; क्या",
+      "url": "https://www.amarujala.com/world/us-fda-commissioner-marty-makary-resigns-trump-administration-vaping-controversy-kyle-diamantas-new-head-2026-05-13",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-12T23:30:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/18/trump-martymakary-us-fda_1a6ba4d5e296ecbf61f50556d71069f1.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका में खाद्य एवं औषधि प्रशासन (FDA) के प्रमुख डॉ. मकरी ने इस्तीफा दे दिया है। यह इस्तीफा ट्रंप प्रशासन के साथ उनके टकराव का परिणाम बताया जा रहा है। काइल को नई कमान सौंपी गई है। ट्रंप से टकराव के कारण छिनी कुर्सी: अमेरिका में FDA प्रमुख डॉक्टर मैकरी का इस्तीफा, काइल को कमान; क्या है विवाद?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप से टकराव के कारण छिनी कुर्सी: अमेरिका में FDA प्रमुख डॉ मकरी का इस्तीफा, काइल को कमान; क्या",
+          "summary": "अमेरिका में खाद्य एवं औषधि प्रशासन (FDA) के प्रमुख डॉ. मकरी ने इस्तीफा दे दिया है। यह इस्तीफा ट्रंप प्रशासन के साथ उनके टकराव का परिणाम बताया जा रहा है। काइल को नई कमान सौंपी गई है। ट्रंप से टकराव के कारण छिनी कुर्सी: अमेरिका में FDA प्रमुख डॉक्टर मैकरी का इस्तीफा, काइल को कमान; क्या है विवाद?",
+          "region": "अमेरिका"
         }
       }
     }
