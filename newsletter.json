@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-14T19:48:45.273425+00:00",
-  "article_count": 39,
+  "generated_at": "2026-05-14T21:12:47.995892+00:00",
+  "article_count": 41,
   "total_unique_count": 375,
   "digest": {
-    "en": "US-China relations and EU defense spending dominate global headlines. Iran’s Hormuz Strait access for Chinese ships and cartel corruption claims near the US-Mexico border also command attention. Yemen detainee releases and UN pleas for Equatorial Guinea add further complexity.",
-    "hi": "गंगा एक्सप्रेसवे पर टोल वसूली शुरू हो गई है। दिल्ली में ई-रिक्शा के नए नियम लागू हुए हैं। ईरान ने संयुक्त अरब अमीरात पर गंभीर आरोप लगाए हैं।"
+    "en": "Oversight Democrats are demanding Commerce Secretary Wilbur Ross's resignation. Iran has allowed Chinese ships passage through the Strait of Hormuz. The UN is mediating detainee releases in Yemen.",
+    "hi": "गंगा एक्सप्रेसवे पर टोल वसूली शुरू हो गई है। दिल्ली में ई-रिक्शा के नए नियम लागू हुए हैं। अमेरिका ने वैश्विक राहत के लिए $1.8 अरब देने की घोषणा की है।"
   },
   "articles": [
     {
@@ -12,10 +12,22 @@
       "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-05-14T19:03:45+00:00",
+      "published_at": "2026-05-14T20:53:26+00:00",
       "image_url": "https://i.guim.co.uk/img/media/8030c9206b7e85575112cf3ba3102ee0a2418611/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=4cd767324948dc98ca9628fe26a443fc",
       "summary": "U. S. President Trump arrived in Beijing for high-stakes talks with Xi Jinping. Security is heightened as trade, AI, and the war in Iran are set to dominate the summit. The leaders aim to improve the bilateral relationship.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How international student tuition fees vary across Europe",
+      "url": "https://www.dw.com/en/how-international-student-tuition-fees-vary-across-europe/a-77146306?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
+      "sources": [],
+      "published_at": "2026-05-14T19:52:00+00:00",
+      "image_url": "https://static.dw.com/image/74001491_6.jpg",
+      "summary": "France plans to increase tuition fees for non-EU students by 16 times. This move prompts comparisons across European nations. Fees for international students vary significantly, with some countries offering free or low-cost education while others charge substantial amounts. The cost often depends on the student's country of origin and the specific institution.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -56,6 +68,18 @@
       "translations": {}
     },
     {
+      "title": "UN welcomes $1.8 billion US boost for humanitarian operations",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167513",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-14T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UN-Photo-Fletcher-Waltz.jpg/image560x340cropped.jpg",
+      "summary": "The United States announced $1.8 billion in new humanitarian funding. This boost will support United Nations and partner aid operations globally. The funding arrives as rising needs and shortfalls force agencies to reduce assistance. An additional $1.8 billion in US humanitarian funding will allow the United Nations and its partners to expand emergency relief operations reaching millions of people worldwide, as rising global needs and funding shortfalls force aid agencies to scale back assistance.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Yemen parties agree under UN mediation to release 1,600 detainees",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167511",
       "source": "UN News",
@@ -71,20 +95,7 @@
       "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life",
       "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
       "source": "The Guardian",
-      "sources": [
-        {
-          "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
-          "source": "The Guardian"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1dmVVlTaDA3dGpQSGdXQTVnNlZMWExOQXh3TXlSU2ZhdWZROFF6cVZueHZQN0poS0lub0RuWWlxUjRQQkl4a3R5NlJQbXl4Ny1YZWVKTkhGdlhoR2lrTm90a2FCek4wMk93UHdtUmVhS01udm96a2lOS3FrREdpWlBTVkZMdw?oc=5",
-          "source": "Google News (United Nations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1dmVVlTaDA3dGpQSGdXQTVnNlZMWExOQXh3TXlSU2ZhdWZROFF6cVZueHZQN0poS0lub0RuWWlxUjRQQkl4a3R5NlJQbXl4Ny1YZWVKTkhGdlhoR2lrTm90a2FCek4wMk93UHdtUmVhS01udm96a2lOS3FrREdpWlBTVkZMdw?oc=5",
-          "source": "Google News (United Nations)"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-14T11:00:25+00:00",
       "image_url": "https://i.guim.co.uk/img/media/8b16c976f04e2ef07186becf8de728c6c5757d81/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=7a13c63192468ff848a158f81874d6eb",
       "summary": "United Nations human rights experts publicly urged Equatorial Guinea to stop returning US deportees. The experts cited reports of political violence, torture, and death faced by individuals sent back to their home countries. Deportees described being held in prison-like conditions.",
@@ -132,7 +143,20 @@
       "title": "In Addis Ababa, Guterres urges reforms to give Africa stronger global voice",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167503",
       "source": "UN News",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167503",
+          "source": "UN News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPaFYxWDZvREZIUWJybjN2YTRYUk5oaEpfMmYwV2ZfQTR4NmVUUTVkSVVhVlhydXBDTmtjb1ZEQl9tMzB2Y2t3VmpDWFR6dWMwcmhURlR3dw?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPaFYxWDZvREZIUWJybjN2YTRYUk5oaEpfMmYwV2ZfQTR4NmVUUTVkSVVhVlhydXBDTmtjb1ZEQl9tMzB2Y2t3VmpDWFR6dWMwcmhURlR3dw?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
       "published_at": "2026-05-13T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-02-2025_UNECA_Ethiopia_HQ.jpg/image560x340cropped.jpg",
       "summary": "United Nations Secretary-General António Guterres stated in Addis Ababa that Africa's growing influence is hampered by outdated global institutions and costly borrowing. He spoke as the UN and the African Union renewed their strategic partnership. Guterres called for reforms to ensure Africa has a more significant voice on the global stage.",
@@ -281,7 +305,7 @@
     {
       "title": "आज से दिल्ली में नए ई-रिक्शा नियम लागू; कौन से बदलाव होंगे, परिवहन विभाग की नई शर्तें क्या?",
       "url": "https://www.amarujala.com/automobiles/new-e-rickshaw-registration-rules-in-delhi-one-license-one-vehicle-policy-starts-from-15-may-2026-05-14",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-05-15T06:53:51+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2024/11/22/e-rickshaw_1ade233226786cdf473a2a92f9bacaf2.jpeg?w=750&dpr=1.0",
@@ -333,9 +357,153 @@
       }
     },
     {
+      "title": "अमेरिका-चीन व्यापार संबंधों में नया मोड़: ट्रंप का दावा- चीन 200 बोइंग जेट खरीदेगा, खबर के बाद शेयर",
+      "url": "https://www.amarujala.com/world/us-china-trade-relations-trump-claims-china-will-buy-200-boeing-jets-shares-drop-after-news-know-deal-details-2026-05-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-14T21:02:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/us-president-trump-china-visit-live-chinese-president-xi-jinping-us-china-relations-trump-jinping_e44d582ecf49419fd8a3b0cf19a3cca7.gif?w=750&dpr=1.0",
+      "summary": "डोनाल्ड ट्रंप ने दावा किया कि चीन 200 बोइंग जेट खरीदेगा। यह घोषणा अमेरिका-चीन व्यापार संबंधों में एक नए मोड़ का संकेत देती है। इस खबर के बाद बोइंग के शेयर 4% गिर गए। अमेरिका-चीन व्यापार संबंधों में नया मोड़: ट्रंप का दावा- चीन 200 बोइंग जेट खरीदेगा, खबर के बाद शेयर 4% गिरे।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-चीन व्यापार संबंधों में नया मोड़: ट्रंप का दावा- चीन 200 बोइंग जेट खरीदेगा, खबर के बाद शेयर",
+          "summary": "डोनाल्ड ट्रंप ने दावा किया कि चीन 200 बोइंग जेट खरीदेगा। यह घोषणा अमेरिका-चीन व्यापार संबंधों में एक नए मोड़ का संकेत देती है। इस खबर के बाद बोइंग के शेयर 4% गिर गए। अमेरिका-चीन व्यापार संबंधों में नया मोड़: ट्रंप का दावा- चीन 200 बोइंग जेट खरीदेगा, खबर के बाद शेयर 4% गिरे।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "यूएई ने कहा- ओमान में जहाज पर आतंकी हमला चिंताजनक; रूबियो बोले- ताइवान पर चीनी सैन्य कार्रवाई भूल",
+      "url": "https://www.amarujala.com/world/world-news-updates-un-rubio-taiwan-china-uae-west-asia-iran-us-russia-ukraine-politics-crime-and-global-events-2026-05-15",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-14T20:37:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=750&dpr=1.0",
+      "summary": "संयुक्त अरब अमीरात ने ओमान के तट पर एक जहाज पर हुए हमले को चिंताजनक बताया है। यह घटना ऐसे समय हुई है जब क्षेत्र में तनाव बना हुआ है। इस बीच, अमेरिकी सीनेटर मार्को रूबियो ने कहा कि ताइवान पर चीन की कोई भी सैन्य कार्रवाई एक बड़ी भूल होगी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूएई ने कहा- ओमान में जहाज पर आतंकी हमला चिंताजनक; रूबियो बोले- ताइवान पर चीनी सैन्य कार्रवाई भूल",
+          "summary": "संयुक्त अरब अमीरात ने ओमान के तट पर एक जहाज पर हुए हमले को चिंताजनक बताया है। यह घटना ऐसे समय हुई है जब क्षेत्र में तनाव बना हुआ है। इस बीच, अमेरिकी सीनेटर मार्को रूबियो ने कहा कि ताइवान पर चीन की कोई भी सैन्य कार्रवाई एक बड़ी भूल होगी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी नागरिकों से 85 लाख डॉलर की ठगी, CBI ने मुख्य आरोपी को गिरफ्तार किया",
+      "url": "https://www.amarujala.com/india-news/national-news-updates-15th-may-north-east-west-south-india-politics-cbi-ed-crime-news-in-hindi-2026-05-15",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-14T20:37:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=750&dpr=1.0",
+      "summary": "केंद्रीय जांच ब्यूरो (CBI) ने अमेरिका के नागरिकों से 85 लाख डॉलर की ठगी के मामले में मुख्य आरोपी को गिरफ्तार किया है। यह गिरफ्तारी दिल्ली में हुई। आरोपी एक अंतरराष्ट्रीय कॉल सेंटर चलाता था। यह कॉल सेंटर अमेरिका के नागरिकों को निशाना बनाता था।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी नागरिकों से 85 लाख डॉलर की ठगी, CBI ने मुख्य आरोपी को गिरफ्तार किया",
+          "summary": "केंद्रीय जांच ब्यूरो (CBI) ने अमेरिका के नागरिकों से 85 लाख डॉलर की ठगी के मामले में मुख्य आरोपी को गिरफ्तार किया है। यह गिरफ्तारी दिल्ली में हुई। आरोपी एक अंतरराष्ट्रीय कॉल सेंटर चलाता था। यह कॉल सेंटर अमेरिका के नागरिकों को निशाना बनाता था।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "वैश्विक राहत के लिए अमेरिका की $1.8 अरब धनराशि देने की घोषणा का स्वागत",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0UjBiTjhpYm9LcVdkRXRZTmp1SlZ4VzB5Y1ppVnNsNkhaeW9vdk9mTTBqdExac1J5UjdaNllLZHEwX1BFUXRMd2NpR0dBOGJOdUtpSUNKNA?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-14T20:33:08+00:00",
+      "image_url": "https://images.pexels.com/photos/20356790/pexels-photo-20356790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने वैश्विक मानवीय सहायता के लिए संयुक्त राज्य अमेरिका द्वारा $1.8 अरब की नई धनराशि देने की घोषणा का स्वागत किया है। यह सहायता उन देशों को मिलेगी जो संघर्ष, जलवायु परिवर्तन और आर्थिक संकटों से प्रभावित हैं। यह घोषणा न्यूयॉर्क में संयुक्त राष्ट्र मुख्यालय में हुई।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वैश्विक राहत के लिए अमेरिका की $1.8 अरब धनराशि देने की घोषणा का स्वागत",
+          "summary": "संयुक्त राष्ट्र ने वैश्विक मानवीय सहायता के लिए संयुक्त राज्य अमेरिका द्वारा $1.8 अरब की नई धनराशि देने की घोषणा का स्वागत किया है। यह सहायता उन देशों को मिलेगी जो संघर्ष, जलवायु परिवर्तन और आर्थिक संकटों से प्रभावित हैं। यह घोषणा न्यूयॉर्क में संयुक्त राष्ट्र मुख्यालय में हुई।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "लिंगायत मठ के वचनानंद स्वामीजी पर पॉक्सो एक्ट में केस दर्ज, नाबालिग से यौन उत्पीड़न का आरोप",
+      "url": "https://www.amarujala.com/india-news/karnataka-case-registered-against-lingayat-mutts-vachananand-swamiji-under-pocso-act-accused-of-abusing-minor-2026-05-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-14T20:27:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/05/aparathha_b036215027346c0efa4a8c1e10b04a88.jpeg?w=750&dpr=1.0",
+      "summary": "लिंगायत मठ के वचनानंद स्वामीजी के खिलाफ पॉक्सो अधिनियम के तहत मामला दर्ज किया गया है। उन पर एक नाबालिग से यौन उत्पीड़न का आरोप है। पुलिस मामले की जांच कर रही है। Karnataka: लिंगायत मठ के वचनानंद स्वामीजी पर पॉक्सो एक्ट में केस दर्ज, नाबालिग से यौन उत्पीड़न का आरोप।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लिंगायत मठ के वचनानंद स्वामीजी पर पॉक्सो एक्ट में केस दर्ज, नाबालिग से यौन उत्पीड़न का आरोप",
+          "summary": "लिंगायत मठ के वचनानंद स्वामीजी के खिलाफ पॉक्सो अधिनियम के तहत मामला दर्ज किया गया है। उन पर एक नाबालिग से यौन उत्पीड़न का आरोप है। पुलिस मामले की जांच कर रही है। Karnataka: लिंगायत मठ के वचनानंद स्वामीजी पर पॉक्सो एक्ट में केस दर्ज, नाबालिग से यौन उत्पीड़न का आरोप।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "डीडीए के किसी भी पार्क में सुबह 10 बजे तक एंट्री फ्री, एलजी संधू के निर्देश से कई लोगों को राहत",
+      "url": "https://www.amarujala.com/delhi-ncr/entry-to-any-dda-park-is-free-till-10-am-2026-05-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-14T20:26:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/07/health-morning-walk_3dedfed3f1217702990b9326fad6fa9a.jpeg?w=750&dpr=1.0",
+      "summary": "दिल्ली विकास प्राधिकरण के पार्कों में सुबह 10 बजे तक प्रवेश निःशुल्क होगा। उपराज्यपाल वी. के. सक्सेना ने यह निर्देश दिया है। इसका उद्देश्य दिल्लीवासियों को मॉर्निंग वॉक और अन्य फिटनेस गतिविधियों के लिए प्रोत्साहित करना है। दिल्ली में मॉर्निंग वॉक और फिटनेस गतिविधियों को बढ़ावा देने के लिए डीडीए के किसी भी पार्क में सुबह 10 बजे तक फ्री एंट्री मिलेगी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डीडीए के किसी भी पार्क में सुबह 10 बजे तक एंट्री फ्री, एलजी संधू के निर्देश से कई लोगों को राहत",
+          "summary": "दिल्ली विकास प्राधिकरण के पार्कों में सुबह 10 बजे तक प्रवेश निःशुल्क होगा। उपराज्यपाल वी. के. सक्सेना ने यह निर्देश दिया है। इसका उद्देश्य दिल्लीवासियों को मॉर्निंग वॉक और अन्य फिटनेस गतिविधियों के लिए प्रोत्साहित करना है। दिल्ली में मॉर्निंग वॉक और फिटनेस गतिविधियों को बढ़ावा देने के लिए डीडीए के किसी भी पार्क में सुबह 10 बजे तक फ्री एंट्री मिलेगी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत में भिड़ गए ईरान और यूएई के विदेश मंत्री, ब्रिक्स बैठक में पश्चिम एशिया संकट पर हुआ भारी विवाद",
+      "url": "https://www.amarujala.com/india-news/brics-meeting-heated-talks-bw-iranian-foreign-minister-abbas-araghchi-uaes-minister-khalifa-shaheen-al-marar-2026-05-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-14T20:21:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/28/abbas-araghchi_34b286175bbdfced0f575d88e967b14a.jpeg?w=750&dpr=1.0",
+      "summary": "भारत में ब्रिक्स विदेश मंत्रियों की बैठक के दौरान ईरान और संयुक्त अरब अमीरात के विदेश मंत्रियों के बीच पश्चिम एशिया संकट को लेकर तीखी बहस हुई। दोनों देशों के बीच इस मुद्दे पर गंभीर मतभेद सामने आए। Iran-UAE: भारत में भिड़ गए ईरान और यूएई के विदेश मंत्री, ब्रिक्स बैठक में पश्चिम एशिया संकट पर हुआ भारी विवाद।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत में भिड़ गए ईरान और यूएई के विदेश मंत्री, ब्रिक्स बैठक में पश्चिम एशिया संकट पर हुआ भारी विवाद",
+          "summary": "भारत में ब्रिक्स विदेश मंत्रियों की बैठक के दौरान ईरान और संयुक्त अरब अमीरात के विदेश मंत्रियों के बीच पश्चिम एशिया संकट को लेकर तीखी बहस हुई। दोनों देशों के बीच इस मुद्दे पर गंभीर मतभेद सामने आए। Iran-UAE: भारत में भिड़ गए ईरान और यूएई के विदेश मंत्री, ब्रिक्स बैठक में पश्चिम एशिया संकट पर हुआ भारी विवाद।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "केजरीवाल, सिसोदिया समेत 6 नेताओं पर होगी अवमानना की कार्यवाही,बढ़ी मुश्किलें!",
+      "url": "https://www.amarujala.com/video/india-news/delhi-high-court-contempt-proceedings-will-be-initiated-against-6-leaders-including-kejriwal-and-sisodia-pro-2026-05-15",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-14T20:15:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/delhi-high-court_315c9d35902b7ad585c9da612b80a7c9.jpeg?w=750&dpr=1.0",
+      "summary": "दिल्ली उच्च न्यायालय ने मुख्यमंत्री अरविंद केजरीवाल और उपमुख्यमंत्री मनीष सिसोदिया सहित छह नेताओं के खिलाफ अवमानना कार्यवाही का आदेश दिया है। इस फैसले से उनकी मुश्किलें बढ़ गई हैं। Delhi High Court: केजरीवाल, सिसोदिया समेत 6 नेताओं पर होगी अवमानना की कार्यवाही, बढ़ी मुश्किलें!",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "केजरीवाल, सिसोदिया समेत 6 नेताओं पर होगी अवमानना की कार्यवाही,बढ़ी मुश्किलें!",
+          "summary": "दिल्ली उच्च न्यायालय ने मुख्यमंत्री अरविंद केजरीवाल और उपमुख्यमंत्री मनीष सिसोदिया सहित छह नेताओं के खिलाफ अवमानना कार्यवाही का आदेश दिया है। इस फैसले से उनकी मुश्किलें बढ़ गई हैं। Delhi High Court: केजरीवाल, सिसोदिया समेत 6 नेताओं पर होगी अवमानना की कार्यवाही, बढ़ी मुश्किलें!",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "ईरान ने UAE पर लगाए गंभीर आरोप, कहा- ये मददगार नहीं बल्कि खुद एक हमलावर",
       "url": "https://www.amarujala.com/india-news/iran-levels-serious-allegations-against-uae-says-they-sheltered-attackers-not-a-helper-attack-itself-2026-05-15",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-14T19:41:00+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/kajama-garabbtha-iirana-ka-upa-vathasha-matara_ac79cb8f326702c444134c5895da8131.jpeg?w=750&dpr=1.0",
@@ -491,150 +659,6 @@
           "title": "ओमान के पास हमले के बाद डूबा भारतीय जहाज़, अब तक क्या पता है?",
           "summary": "ओमान के तट के पास एक भारतीय जहाज पर हमले के बाद वह डूब गया। जहाज पर सवार सभी 14 चालक दल के सदस्यों को ओमान के तटरक्षक बल ने बचा लिया है। हमले के कारणों की जांच जारी है। भारत ने कहा है कि जहाज़ पर सवार सभी 14 चालक दल के सदस्यों को ओमान कोस्ट गार्ड ने सुरक्षित बचा लिया है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'हम मर जाएंगे लेकिन भागेंगे नहीं'- केन बेतवा प्रोजेक्ट में मुआवज़े और पुनर्वास को लेकर क्यों है",
-      "url": "https://www.bbc.com/hindi/articles/cqxpgpnx2e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-14T13:34:51+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f05/live/c7acc6b0-4f90-11f1-b8b4-e39ec910efe3.jpg",
-      "summary": "केन-बेतवा परियोजना स्थल पर ग्रामीणों ने प्रशासन द्वारा घर गिराने का विरोध किया है। उनका कहना है कि उचित मुआवजा और पुनर्वास के बिना यह कदम उठाया जा रहा है। ग्रामीण अपनी मांगों पर अड़े हैं। केन बेतवा परियोजना साइट पर प्रशासन की ओर से लोगों के घर गिराने का विरोध हो रहा है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'हम मर जाएंगे लेकिन भागेंगे नहीं'- केन बेतवा प्रोजेक्ट में मुआवज़े और पुनर्वास को लेकर क्यों है",
-          "summary": "केन-बेतवा परियोजना स्थल पर ग्रामीणों ने प्रशासन द्वारा घर गिराने का विरोध किया है। उनका कहना है कि उचित मुआवजा और पुनर्वास के बिना यह कदम उठाया जा रहा है। ग्रामीण अपनी मांगों पर अड़े हैं। केन बेतवा परियोजना साइट पर प्रशासन की ओर से लोगों के घर गिराने का विरोध हो रहा है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ऑपरेशन सिंदूर में भारत का कमाल: चार दिन के संघर्ष में हर मोर्चे पर दबदबा; CDS अनिल चौहान ने किया",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOWppWDRiUlVNTUpzYm9HM0R6ZDlNbHNWQ3VxR3YxeVNNMHVVTXV4VDE0bkprb2F4eDNLNjdnWlNTLS1iUTFOUnlKLXdEdUtsb2lXUHhRQlhGVk4tNWhlN21mYXpQQV84dnRpUXZXQW1ZdUw2QnYxOXgzcTVqeEFlVzV4M0h2R0dGM24tZ0lzLXc5bGtTVHotYklnd09xV0dMXzVJaUM0ZWtFUTFhcnNDZTVYUTVZZ2s3SUduRnFWemNGcUZVVkIydVhTYjA4UFByajVPOWIyUXM4dWpranNYZ2xvWXJHSUp1RkdCM3d0LXZUdzEySmlFQkZWYlN4eEww?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-14T13:33:58+00:00",
-      "image_url": "https://images.pexels.com/photos/13072338/pexels-photo-13072338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत ने ऑपरेशन सिंदूर में चार दिवसीय सैन्य अभ्यास सफलतापूर्वक पूरा किया। चीफ ऑफ डिफेंस स्टाफ जनरल अनिल चौहान ने अभ्यास की समीक्षा की। इसमें सभी मोर्चों पर भारतीय सेना का दबदबा दिखा। ऑपरेशन सिंदूर में भारत का कमाल: चार दिन के संघर्ष में हर मोर्चे पर दबदबा; CDS अनिल चौहान ने किया बड़ा खुलासा Amar Ujala।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ऑपरेशन सिंदूर में भारत का कमाल: चार दिन के संघर्ष में हर मोर्चे पर दबदबा; CDS अनिल चौहान ने किया",
-          "summary": "भारत ने ऑपरेशन सिंदूर में चार दिवसीय सैन्य अभ्यास सफलतापूर्वक पूरा किया। चीफ ऑफ डिफेंस स्टाफ जनरल अनिल चौहान ने अभ्यास की समीक्षा की। इसमें सभी मोर्चों पर भारतीय सेना का दबदबा दिखा। ऑपरेशन सिंदूर में भारत का कमाल: चार दिन के संघर्ष में हर मोर्चे पर दबदबा; CDS अनिल चौहान ने किया बड़ा खुलासा Amar Ujala।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "स्थानीय कार्रवाई से सतत विकास लक्ष्यों को गति",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92U3NJWDZ3aGRuLW5pSnpZUlptVUk4WnhuVTZtM0VqS0twSVV0Rk9JVE82TURGaHZvNWxRTk9LUmdvTHdFNlZRLWI3M1pxNnNQSUFTYXJ6QQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-14T12:55:19+00:00",
-      "image_url": "https://images.pexels.com/photos/5483517/pexels-photo-5483517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने भारत में स्थानीय कार्रवाई को सतत विकास लक्ष्यों को प्राप्त करने में महत्वपूर्ण बताया। जमीनी स्तर पर किए गए प्रयास इन वैश्विक लक्ष्यों को गति दे रहे हैं। इससे विकास को बढ़ावा मिल रहा है। भारत: स्थानीय कार्रवाई से सतत विकास लक्ष्यों को गति Welcome to the United Nations।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्थानीय कार्रवाई से सतत विकास लक्ष्यों को गति",
-          "summary": "संयुक्त राष्ट्र ने भारत में स्थानीय कार्रवाई को सतत विकास लक्ष्यों को प्राप्त करने में महत्वपूर्ण बताया। जमीनी स्तर पर किए गए प्रयास इन वैश्विक लक्ष्यों को गति दे रहे हैं। इससे विकास को बढ़ावा मिल रहा है। भारत: स्थानीय कार्रवाई से सतत विकास लक्ष्यों को गति Welcome to the United Nations।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "केरल में मुख्यमंत्री पद के लिए कैसे बने कांग्रेस की पसंद",
-      "url": "https://www.bbc.com/hindi/articles/cpqpvp14xz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-14T12:07:30+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14e5/live/1ffe92c0-4f88-11f1-9047-c9775177a8ab.jpg",
-      "summary": "केरल में कांग्रेस ने वी. डी. सतीशन को विधायक दल का नेता चुना है. सतीशन ने जाति और धर्म की राजनीति पर स्पष्ट रुख अपनाया है. यह निर्णय राज्य में पार्टी की भविष्य की रणनीति को दर्शाता है. जाति और धर्म की राजनीति को लेकर सतीशन ने कई बार दो टूक बयान दिए हैं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केरल में मुख्यमंत्री पद के लिए कैसे बने कांग्रेस की पसंद",
-          "summary": "केरल में कांग्रेस ने वी. डी. सतीशन को विधायक दल का नेता चुना है. सतीशन ने जाति और धर्म की राजनीति पर स्पष्ट रुख अपनाया है. यह निर्णय राज्य में पार्टी की भविष्य की रणनीति को दर्शाता है. जाति और धर्म की राजनीति को लेकर सतीशन ने कई बार दो टूक बयान दिए हैं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारत ने जिनेवा में आईटीयू परिषद 2026 में वैश्विक दूरसंचार नेतृत्व को मजबूत किया",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CWmZONnlmWlgya2hoRE4wdGhUT0NDVEtNQjl0QUtsNkFscFVqMEJQV3FvRnUyeHNod08wa282UGVoOUhrVmxLZk9LcjVlOV9IU1RHcTdCTEltR3VwSVIyOTdkVTA4QWts?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-05-14T12:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत ने जिनेवा में अंतर्राष्ट्रीय दूरसंचार संघ (आईटीयू) परिषद 2026 में वैश्विक दूरसंचार नेतृत्व में अपनी स्थिति मजबूत की। भारत ने इस मंच पर अपनी विशेषज्ञता और प्रतिबद्धता का प्रदर्शन किया। भारत ने जिनेवा में आईटीयू परिषद 2026 में वैश्विक दूरसंचार नेतृत्व को मजबूत किया PIB।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत ने जिनेवा में आईटीयू परिषद 2026 में वैश्विक दूरसंचार नेतृत्व को मजबूत किया",
-          "summary": "भारत ने जिनेवा में अंतर्राष्ट्रीय दूरसंचार संघ (आईटीयू) परिषद 2026 में वैश्विक दूरसंचार नेतृत्व में अपनी स्थिति मजबूत की। भारत ने इस मंच पर अपनी विशेषज्ञता और प्रतिबद्धता का प्रदर्शन किया। भारत ने जिनेवा में आईटीयू परिषद 2026 में वैश्विक दूरसंचार नेतृत्व को मजबूत किया PIB।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "डॉनल्ड ट्रंप और शी जिनफिंग की मुलाकात के कूटनीतिक मायने",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZC1ueHdqajhjYXJJbF8xamtvTjl4dWpsUmUzdkN6aW9QTUcyRWRyNHdDNkhHcmtRSUFUc01IUUZfRnhhWC0zUHRaMm1oOTdlWmc5Ry1qQndOYkNmUi1FOXZYQkYzZmIxbFNtcjdoOUpTLVFUX1JFNk1wUDBOYXhwRlZDR1ZaNWJpeDctUlR2MDBjZUpZSjZuUjByQVRDbmZ0eWFzVGtGUQ?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-14T11:44:52+00:00",
-      "image_url": "https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "डोनाल्ड ट्रंप और शी जिनफिंग ने ओसाका में जी20 शिखर सम्मेलन के दौरान मुलाकात की। दोनों नेताओं ने व्यापार युद्ध को रोकने के लिए बातचीत जारी रखने पर सहमति व्यक्त की। अमेरिका ने चीन के खिलाफ नए टैरिफ लगाने से परहेज किया। यह मुलाकात दोनों देशों के बीच बढ़ते तनाव के बीच हुई।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डॉनल्ड ट्रंप और शी जिनफिंग की मुलाकात के कूटनीतिक मायने",
-          "summary": "डोनाल्ड ट्रंप और शी जिनफिंग ने ओसाका में जी20 शिखर सम्मेलन के दौरान मुलाकात की। दोनों नेताओं ने व्यापार युद्ध को रोकने के लिए बातचीत जारी रखने पर सहमति व्यक्त की। अमेरिका ने चीन के खिलाफ नए टैरिफ लगाने से परहेज किया। यह मुलाकात दोनों देशों के बीच बढ़ते तनाव के बीच हुई।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "प्रतीक यादव की पोस्टमार्टम रिपोर्ट पर क्यों उठ रहे हैं सवाल, क्या कह रहे हैं विशेषज्ञ",
-      "url": "https://www.bbc.com/hindi/articles/ce9p3mr8gddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-14T10:22:58+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3406/live/eafb9ed0-4f76-11f1-8b8c-6d33e1d5abb6.jpg",
-      "summary": "प्रतीक यादव की मौत की पोस्टमार्टम रिपोर्ट में छह चोटों का उल्लेख है. इस रिपोर्ट पर सोशल मीडिया पर सवाल उठाए जा रहे हैं. विशेषज्ञ इस मामले में आगे की जांच की मांग कर रहे हैं. प्रतीक यादव की मौत को कुछ लोग संदिग्ध मान रहे हैं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रतीक यादव की पोस्टमार्टम रिपोर्ट पर क्यों उठ रहे हैं सवाल, क्या कह रहे हैं विशेषज्ञ",
-          "summary": "प्रतीक यादव की मौत की पोस्टमार्टम रिपोर्ट में छह चोटों का उल्लेख है. इस रिपोर्ट पर सोशल मीडिया पर सवाल उठाए जा रहे हैं. विशेषज्ञ इस मामले में आगे की जांच की मांग कर रहे हैं. प्रतीक यादव की मौत को कुछ लोग संदिग्ध मान रहे हैं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "BRICS समिट में कूटनीतिक मुलाकात: प्रधानमंत्री मोदी ने विदेश मंत्रियों से की बातचीत",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUYzY016U050TjNVdHo1X0JpZThoYnZuTWN3cGhmVUFzeWFDS0ZfX1AzVE51QTFjY0lNN3pMNG9zV3BrZEV0YnhGM1JsMlNUVE9ZYXlEZGp3R3AtelUyRHhuQ0EyUWJxbm9heUNVaFF6ZXVjOGt2enRVc2R1b0N3c2lEcDFmTE9hM0xTNGdEUW9HQVRDNVJGcGxXYW45Y2xNMGg0NW5OM1BxcHA1Uy1YTFZuN0NxRlU?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-14T10:04:01+00:00",
-      "image_url": "https://images.pexels.com/photos/31035096/pexels-photo-31035096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी ने जोहान्सबर्ग में ब्रिक्स शिखर सम्मेलन के इतर ब्राजील, दक्षिण अफ्रीका और मिस्र के विदेश मंत्रियों से मुलाकात की। उन्होंने चीन के विदेश मंत्री वांग यी से भी बातचीत की। यह मुलाकातें ब्रिक्स समूह के विस्तार और वैश्विक कूटनीति पर केंद्रित रहीं।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "BRICS समिट में कूटनीतिक मुलाकात: प्रधानमंत्री मोदी ने विदेश मंत्रियों से की बातचीत",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी ने जोहान्सबर्ग में ब्रिक्स शिखर सम्मेलन के इतर ब्राजील, दक्षिण अफ्रीका और मिस्र के विदेश मंत्रियों से मुलाकात की। उन्होंने चीन के विदेश मंत्री वांग यी से भी बातचीत की। यह मुलाकातें ब्रिक्स समूह के विस्तार और वैश्विक कूटनीति पर केंद्रित रहीं।",
-          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     }
