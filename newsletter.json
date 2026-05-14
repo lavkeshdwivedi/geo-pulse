@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-14T15:22:07.414110+00:00",
-  "article_count": 38,
-  "total_unique_count": 378,
+  "generated_at": "2026-05-14T17:52:47.201310+00:00",
+  "article_count": 39,
+  "total_unique_count": 379,
   "digest": {
-    "en": "Xi Jinping's meetings with Donald Trump in Beijing and his call for partnership with the US set the stage. Meanwhile, Pope Leo's criticism of European military spending offers a counterpoint to rising tensions. Iran's facilitation of Chinese ship passage through the Strait of Hormuz adds another layer.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, पाकिस्तान स्थित वियतनामी दूतावास नए क्षेत्रीय संदर्भ में आर्थिक कूटनीति को जोरदार तरीके से बढ़ावा मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Xi Jinping’s overtures to the US and China’s naval presence in the Strait of Hormuz dominate headlines. Meanwhile, Pope Leo’s critique of European military budgets and cartel corruption straining US-Mexico ties offer counterpoints. UN calls for reforms in Africa and aid cuts in Syria also register.",
+    "hi": "भारत पश्चिम एशिया संकट और एकतरफा प्रतिबंधों पर चिंता व्यक्त करता है। पाकिस्तान स्थित वियतनामी दूतावास आर्थिक कूटनीति को बढ़ावा देता है। सीडीएस अनिल चौहान संघर्ष में लंबे समय तक फंसे रहने की गलती न करने की सलाह देते हैं।"
   },
   "articles": [
     {
@@ -12,10 +12,22 @@
       "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-05-14T14:47:20+00:00",
+      "published_at": "2026-05-14T17:42:27+00:00",
       "image_url": "https://i.guim.co.uk/img/media/b3babd09263bda1c598d30aac45d6bff09c14eda/253_0_3723_2979/master/3723.jpg?width=140&quality=85&auto=format&fit=max&s=6b6084b38cbb2786a18a3df1db4d7661",
       "summary": "U. S. President Trump arrived in Beijing for high-stakes talks with Xi Jinping. Security is heightened as trade, AI, and the war in Iran are set to dominate the summit. The leaders aim to improve the bilateral relationship.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Congress ends suspense: V. D. Satheesan to be next Kerala CM | Above the Fold | 14.05.2026",
+      "url": "https://www.thehindu.com/videos/watch-congress-ends-suspense-v-d-satheesan-to-be-next-kerala-cm-above-the-fold-14052026/article70979266.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-14T15:21:50+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/qdz1l4/article70979689.ece/alternates/LANDSCAPE_1200/MAY%2014%20THUMB.png",
+      "summary": "The Congress party named V. D. In today’s episode: Kerala finally gets its next Chief Minister as the Congress names V. D. Satheesan for the top post after weeks of suspense and internal discussions. We also track the BRICS Foreign Ministers’ meeting hosted by India in New Delhi, where External Affairs Minister S.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -24,7 +36,7 @@
       "url": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-netanyahu-uae-secret-visit-tehran-strait-of-hormuz/article70976779.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-14T13:30:37+00:00",
+      "published_at": "2026-05-14T14:42:57+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/d1ry0u/article70978084.ece/alternates/LANDSCAPE_1200/AFP__20241013__36JX4FJ__v1__HighRes__IraqIranDiplomacy.jpg",
       "summary": "Iran's Foreign Minister Araghchi called the United Arab Emirates an \" Iran's Foreign Minister Araghchi also referred to what Israel described as a \"secret\" meeting between Prime Minister Benjamin Netanyahu and UAE President Mohammed bin Zayed Al Nahyan in the UAE -- a visit that Abu Dhabi has denied took place.",
       "region": "Middle East & Africa",
@@ -40,6 +52,31 @@
       "image_url": "https://th-i.thgim.com/public/incoming/s0nl57/article70978441.ece/alternates/LANDSCAPE_1200/2026-05-14T094037Z_17937105_RC2X8LADLNZ5_RTRMADP_3_POPE-ITALY-UNIVERSITY.JPG",
       "summary": "Pope Leo criticized European military spending. “Let us not call ‘defence’ a rearmament that increases tensions and insecurity, impoverishes investments in education and health, betrays trust ​in diplomacy, and enriches ‌elites who care nothing for the common good,” said the pontiff. Pope Leo decries European military spending as ‘betrayal’ of diplomacy.",
       "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life",
+      "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
+      "source": "The Guardian",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
+          "source": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1dmVVlTaDA3dGpQSGdXQTVnNlZMWExOQXh3TXlSU2ZhdWZROFF6cVZueHZQN0poS0lub0RuWWlxUjRQQkl4a3R5NlJQbXl4Ny1YZWVKTkhGdlhoR2lrTm90a2FCek4wMk93UHdtUmVhS01udm96a2lOS3FrREdpWlBTVkZMdw?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1dmVVlTaDA3dGpQSGdXQTVnNlZMWExOQXh3TXlSU2ZhdWZROFF6cVZueHZQN0poS0lub0RuWWlxUjRQQkl4a3R5NlJQbXl4Ny1YZWVKTkhGdlhoR2lrTm90a2FCek4wMk93UHdtUmVhS01udm96a2lOS3FrREdpWlBTVkZMdw?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
+      "published_at": "2026-05-14T11:00:25+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/8b16c976f04e2ef07186becf8de728c6c5757d81/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=7a13c63192468ff848a158f81874d6eb",
+      "summary": "United Nations human rights experts publicly urged Equatorial Guinea to stop returning US deportees. The experts cited reports of political violence, torture, and death faced by individuals sent back to their home countries. Deportees described being held in prison-like conditions.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -152,16 +189,22 @@
       "translations": {}
     },
     {
-      "title": "Hantavirus-hit ship evacuation completed as quarantines begin",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167487",
-      "source": "UN News",
+      "title": "भारत ने पश्चिम एशिया संकट और एकतरफा प्रतिबंधों पर गंभीर चिंता जताई",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZG5MVGs4dEh1UTlaWWdybmhjZmd4QjAyNTNFRE00YTUzYUw1am1BMmFvYV9zSDBsZTM5M2JUYkNpNnlTS1dTUUgxU0JKTFJvcFdsQVFYd1Q1T0l4RFdob3F2a1VPS3lmSnRabHBwN2tUekhtOTFyNmc0STdmWXdwU2lXMTdYYzFwZUR6RkNNZDMtbjdzRG1ERDdkZjhJVjltaXdBSDJVT2lOQ2dUSVNSYmM2X3hWWS1LMFHSAb8BQVVfeXFMTlJOeHZpakxJMjRZQ19PQ0R1SFJ2aTVRa1BUQ2h3S0IyUVpEZmpDMjZha0dDQ0M0bExJVkJfOUNWTHozem1kZ3RUMENPd0ZmX1ZmV0tzMjRQUHZzWW1SSE00WERyRHMzbHV4d2plVUFfZVp1cVh4Q05DUkUwQjJFRUhsTVpWbzk5OVBrLXNtVmwwckhCQTJKbEJnTXFCa0lrc1JBRTlWc3daOW1RdzFUQUxhV01FLUJtd2hHNHNRbEU?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
       "sources": [],
-      "published_at": "2026-05-11T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/11-05-2026-WHO-Hantavirus.jpg/image560x340cropped.jpg",
-      "summary": "Passengers and crew from the hantavirus-affected cruise ship MV Hondius have disembarked in Tenerife. The World Health Organization called the evacuation a \"triumph of solidarity.\" The passengers and crew have disembarked from the hantavirus-hit cruise ship MV Hondius in Tenerife and many have returned to their home countries, as the UN World Health Organization (WHO) said the operation demonstrated a “triumph of solidarity”.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-14T16:48:48+00:00",
+      "image_url": "https://images.pexels.com/photos/19447589/pexels-photo-19447589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत ने पश्चिम एशिया में जारी संकट और एकतरफा प्रतिबंधों पर भारत ने पश्चिम एशिया संकट और एकतरफा प्रतिबंधों पर गंभीर चिंता जताई ThePrint Hindi।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत ने पश्चिम एशिया संकट और एकतरफा प्रतिबंधों पर गंभीर चिंता जताई",
+          "summary": "भारत ने पश्चिम एशिया में जारी संकट और एकतरफा प्रतिबंधों पर भारत ने पश्चिम एशिया संकट और एकतरफा प्रतिबंधों पर गंभीर चिंता जताई ThePrint Hindi।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "पाकिस्तान स्थित वियतनामी दूतावास नए क्षेत्रीय संदर्भ में आर्थिक कूटनीति को जोरदार तरीके से बढ़ावा",
@@ -178,24 +221,6 @@
           "title": "पाकिस्तान स्थित वियतनामी दूतावास नए क्षेत्रीय संदर्भ में आर्थिक कूटनीति को जोरदार तरीके से बढ़ावा",
           "summary": "पाकिस्तान में वियतनामी दूतावास आर्थिक कूटनीति को बढ़ावा दे रहा है। यह कदम नए क्षेत्रीय संदर्भ में उठाया गया है। दूतावास व्यापार और निवेश संबंधों को मजबूत करने पर ध्यान केंद्रित कर रहा है। पाकिस्तान स्थित वियतनामी दूतावास नए क्षेत्रीय संदर्भ में आर्थिक कूटनीति को जोरदार तरीके से बढ़ावा दे रहा है।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पुनर्निर्माण में मलबे से द्वीप बनाने पर विचार, मगर तकनीकी व पर्यावरणीय चिन्ता भी",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15dF82MFVLMXFlLVozekdwNG05TDJPSHZ4ZlpJaF8zbHRLOFRkd0JfUWh5NnlMU1hqai1EUDdhNmtYS0VPNThpTkg4T3FKLWF0b2RYeGVLaw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-14T14:55:53+00:00",
-      "image_url": "https://images.pexels.com/photos/25310909/pexels-photo-25310909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "गाजा में पुनर्निर्माण के लिए मलबे से एक कृत्रिम द्वीप बनाने का प्रस्ताव है। इस विचार पर तकनीकी और पर्यावरणीय चिंताएं व्यक्त की गई हैं। इस परियोजना के कार्यान्वयन पर अभी भी विचार किया जा रहा है। ग़ाज़ा: पुनर्निर्माण में मलबे से द्वीप बनाने पर विचार, मगर तकनीकी व पर्यावरणीय चिन्ता भी Welcome to the United Nations।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पुनर्निर्माण में मलबे से द्वीप बनाने पर विचार, मगर तकनीकी व पर्यावरणीय चिन्ता भी",
-          "summary": "गाजा में पुनर्निर्माण के लिए मलबे से एक कृत्रिम द्वीप बनाने का प्रस्ताव है। इस विचार पर तकनीकी और पर्यावरणीय चिंताएं व्यक्त की गई हैं। इस परियोजना के कार्यान्वयन पर अभी भी विचार किया जा रहा है। ग़ाज़ा: पुनर्निर्माण में मलबे से द्वीप बनाने पर विचार, मगर तकनीकी व पर्यावरणीय चिन्ता भी Welcome to the United Nations।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -268,24 +293,6 @@
           "title": "ऑपरेशन सिंदूर में भारत का कमाल: चार दिन के संघर्ष में हर मोर्चे पर दबदबा; CDS अनिल चौहान ने किया",
           "summary": "भारत ने ऑपरेशन सिंदूर में चार दिवसीय सैन्य अभ्यास सफलतापूर्वक पूरा किया। चीफ ऑफ डिफेंस स्टाफ जनरल अनिल चौहान ने अभ्यास की समीक्षा की। इसमें सभी मोर्चों पर भारतीय सेना का दबदबा दिखा। ऑपरेशन सिंदूर में भारत का कमाल: चार दिन के संघर्ष में हर मोर्चे पर दबदबा; CDS अनिल चौहान ने किया बड़ा खुलासा Amar Ujala।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "विदेश मंत्री जयशंकर ने एकतरफा प्रतिबंधों पर उठाए सवाल, बोले- डायलॉग ही एकमात्र रास्ता",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbDdFRGw4YThFVG53Mm1iSXI3RW9WYmFIRzRMT2s2Si1aUklkaUc4ZGtaZk9hOWtzeElvVnRTV0dETnAyRDRzaDl4OC1lVzJVaTA2b011NEdEcDFwU2NLSmFpU1BVS244aDg4dnhfYUMyb2x6WmtzbXdWTHJZM3BVcElKaGJ6V2RCRnRyam4tQjlXRlViZDlfZVFNX05OdmFZanhEellCcUhDbXBwV0RjUkNNeFpBTWEwMGpITDBadGhGMjVqaENPMUt1Nklvcms?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-14T13:29:00+00:00",
-      "image_url": "https://images.pexels.com/photos/25310897/pexels-photo-25310897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "विदेश मंत्री एस. जयशंकर ने ब्रिक्स 2026 बैठक में एकतरफा प्रतिबंधों की आलोचना की। उन्होंने कहा कि संवाद ही समस्याओं का एकमात्र समाधान है। उन्होंने अंतरराष्ट्रीय सहयोग पर जोर दिया। BRICS 2026: विदेश मंत्री जयशंकर ने एकतरफा प्रतिबंधों पर उठाए सवाल, बोले- डायलॉग ही एकमात्र रास्ता Jagran।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विदेश मंत्री जयशंकर ने एकतरफा प्रतिबंधों पर उठाए सवाल, बोले- डायलॉग ही एकमात्र रास्ता",
-          "summary": "विदेश मंत्री एस. जयशंकर ने ब्रिक्स 2026 बैठक में एकतरफा प्रतिबंधों की आलोचना की। उन्होंने कहा कि संवाद ही समस्याओं का एकमात्र समाधान है। उन्होंने अंतरराष्ट्रीय सहयोग पर जोर दिया। BRICS 2026: विदेश मंत्री जयशंकर ने एकतरफा प्रतिबंधों पर उठाए सवाल, बोले- डायलॉग ही एकमात्र रास्ता Jagran।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -542,74 +549,92 @@
       }
     },
     {
-      "title": "ताइवान पर चीन की अमेरिका को सख्त चेतावनी, शी जिनपिंग बोले- गलत कदम से छिड़ सकता है संघर्ष",
-      "url": "https://www.amarujala.com/world/china-issues-stern-warning-to-us-on-taiwan-xi-jinping-says-wrong-move-could-trigger-conflict-2026-05-14",
-      "source": "Amar Ujala World",
+      "title": "इंदौर से नेपाल तक आस्था का सफर: आईआरसीटीसी ने शुरू की पशुपतिनाथ दर्शन यात्रा, 62 हजार में करें पूरी",
+      "url": "https://www.amarujala.com/india-news/irctc-tour-package-price-bharat-gaurav-train-indore-to-nepal-pashupatinath-yatra-national-park-safari-2026-05-14",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-14T05:10:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/danalda-tarapa-oura-sha-janapaga_593c885f6c4b4cfedb0db60aa502edeb.jpeg?w=750&dpr=1.0",
-      "summary": "राष्ट्रपति शी जिनपिंग ने ताइवान को लेकर अमेरिका को चेतावनी दी। उन्होंने कहा कि कोई भी गलत कदम संघर्ष को जन्म दे सकता है। चीन ताइवान को अपना हिस्सा मानता है। Trump China Visit: ताइवान पर चीन की अमेरिका को सख्त चेतावनी, शी जिनपिंग बोले- गलत कदम से छिड़ सकता है संघर्ष।",
+      "published_at": "2026-05-14T05:52:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/20/bharata-garava-yatara-tarana_0df3207916af4514bbf0178dc161a9bb.jpeg?w=750&dpr=1.0",
+      "summary": "आईआरसीटीसी ने इंदौर से नेपाल के लिए पशुपति इंदौर से नेपाल तक आस्था का सफर: आईआरसीटीसी ने शुरू की पशुपतिनाथ दर्शन यात्रा, 62 हजार में करें पूरी सैर।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ताइवान पर चीन की अमेरिका को सख्त चेतावनी, शी जिनपिंग बोले- गलत कदम से छिड़ सकता है संघर्ष",
-          "summary": "राष्ट्रपति शी जिनपिंग ने ताइवान को लेकर अमेरिका को चेतावनी दी। उन्होंने कहा कि कोई भी गलत कदम संघर्ष को जन्म दे सकता है। चीन ताइवान को अपना हिस्सा मानता है। Trump China Visit: ताइवान पर चीन की अमेरिका को सख्त चेतावनी, शी जिनपिंग बोले- गलत कदम से छिड़ सकता है संघर्ष।",
+          "title": "इंदौर से नेपाल तक आस्था का सफर: आईआरसीटीसी ने शुरू की पशुपतिनाथ दर्शन यात्रा, 62 हजार में करें पूरी",
+          "summary": "आईआरसीटीसी ने इंदौर से नेपाल के लिए पशुपति इंदौर से नेपाल तक आस्था का सफर: आईआरसीटीसी ने शुरू की पशुपतिनाथ दर्शन यात्रा, 62 हजार में करें पूरी सैर।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "राष्ट्रपति शी ने चीन-अमेरिका संबंधों के लिए साल 2026 को ऐतिहासिक, मील का पत्थर साबित होने की उम्मीद",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWQ1QVJueWJJM1YzSEJkcjAycEx5ZWtJUnhSa0o1dVYwdWd3Y0N3a2l2Q2dRZ0YybmhqT2l3Q0NjRXNRWnpuNWVVMUxtbjBqaVZjMjRlUXpvV2ZFbnVGazJyWFZ2NTlNdkZnTTZHNl9SVEZiMWxfTW4telZrMzZwY2xXbnlnY0t3SDZDMjFDZ2ZWaGZoOURSQkZQY2R5LVNLZjdPekZISV9TQXQwc3JMbWMyNmEyVGp3Vl90WFlZZElRcWhIdVFhMEdn?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "title": "तिलक वर्मा का अर्धशतक, मुंबई का स्कोर चार विकेट पर 160 के पार; विल जैक्स क्रीज पर",
+      "url": "https://www.amarujala.com/live/cricket/cricket-news/pbks-vs-mi-live-cricket-score-punjab-kings-vs-mumbai-indians-ipl-2026-58th-match-updates-2026-05-14",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-14T05:09:00+00:00",
-      "image_url": "https://images.pexels.com/photos/31286072/pexels-photo-31286072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "राष्ट्रपति शी जिनपिंग ने उम्मीद जताई कि 2026 चीन-अमेरिका संबंधों के लिए एक ऐतिहासिक वर्ष होगा। उन्होंने इसे संबंधों में एक मील का पत्थर बताया। यह बयान दोनों देशों के बीच चल रही बातचीत के बीच आया है। राष्ट्रपति शी ने चीन-अमेरिका संबंधों के लिए साल 2026 को ऐतिहासिक, मील का पत्थर साबित होने की उम्मीद जताई IANS LIVE।",
+      "published_at": "2026-05-14T05:35:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/29/rahata-sharama-rayana-rakaltana_e3875c46c366947a4c4f36fb5fd60235.jpeg?w=750&dpr=1.0",
+      "summary": "तिलक वर्मा ने इंडियन प्रीमियर लीग 2026 में अर्ध अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। तिलक वर्मा का अर्धशतक, मुंबई का स्कोर चार विकेट पर 160 के पार; विल जैक्स क्रीज पर।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "राष्ट्रपति शी ने चीन-अमेरिका संबंधों के लिए साल 2026 को ऐतिहासिक, मील का पत्थर साबित होने की उम्मीद",
-          "summary": "राष्ट्रपति शी जिनपिंग ने उम्मीद जताई कि 2026 चीन-अमेरिका संबंधों के लिए एक ऐतिहासिक वर्ष होगा। उन्होंने इसे संबंधों में एक मील का पत्थर बताया। यह बयान दोनों देशों के बीच चल रही बातचीत के बीच आया है। राष्ट्रपति शी ने चीन-अमेरिका संबंधों के लिए साल 2026 को ऐतिहासिक, मील का पत्थर साबित होने की उम्मीद जताई IANS LIVE।",
+          "title": "तिलक वर्मा का अर्धशतक, मुंबई का स्कोर चार विकेट पर 160 के पार; विल जैक्स क्रीज पर",
+          "summary": "तिलक वर्मा ने इंडियन प्रीमियर लीग 2026 में अर्ध अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। तिलक वर्मा का अर्धशतक, मुंबई का स्कोर चार विकेट पर 160 के पार; विल जैक्स क्रीज पर।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "अचानक वियतनाम, दक्षिण कोरिया क्यों जा रहे राजनाथ सिंह, पश्चिम एशिया संकट और भारत की कूटनीति",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVEo0QWtqelNrNGFIR3hNU3FKNDFtcURlc0ctSmFjaFJTTHU1OGtpSUwzazRiWl9OZjFldS1qRWV1enhnVXVRakhXOFk4Sy1OZFBMeHN5eVJNX3haS2FnNkVqSlU3NmpTVmZNeURZSGpORDRHVFhSZ1FETXlqRUowdVNYaU1tRWZVcEhzZmRPcU53TEFyUTlRZ2E0Ukk1VFpTVTUxQllpQ2pybnc3OWRtcVVpUW8wc1RnbjZKUTFXM010R0Y0SDhDRURCalRFNlpyS29feVFBNEdiZVAyUk1YVkthUDNDMHNtemM4VFAyMNIB9AFBVV95cUxObzVfRDhrWVB0VmtXTTN3RkFGZVNPNDRfaDhtV0YtZk9NS3A0ek5Yc0RQdGk2ZnBMcktnaHFjMUduSlBlbmUwa1I5elJ5dHZldHpjWXB2S25pWkxzdnJqUF9GVVdscEZLeXl2TkhITUVwLWVTUldPSjNqUUtlbXJxRE9kaVlEWTllMGJxaXNsa0tQM1d5LTNvblJ6bGtyNlhCV2dEQWhsWXhuVi1YZnl0bDJ0TmRkTVJLMEd3bFRiZmhCOGllVGF4ODFPMTV6dmdCWmhCRlc5Z1Y5RTEwS0hLc094bzNQal9KamRYQkIyakp4V0Rl?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
+      "title": "एमएलसी अक्षय प्रताप सिंह पर प्राथमिकी दर्ज, राजा भैया की पत्नी भानवी की अर्जी पर कोर्ट ने दिया था",
+      "url": "https://www.amarujala.com/lucknow/up-fir-registered-against-mlc-akshay-pratap-singh-court-issued-order-based-on-petition-by-raja-bhaiya-s-wife-2026-05-14",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-14T04:57:23+00:00",
-      "image_url": "https://images.pexels.com/photos/7362523/pexels-photo-7362523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "रक्षा मंत्री राजनाथ सिंह वियतनाम और दक्षिण कोरिया की यात्रा पर हैं। यह यात्रा पश्चिम एशिया संकट के बीच भारत की कूटनीति का हिस्सा है। यात्रा का उद्देश्य द्विपक्षीय संबंधों को मजबूत करना है। Indian Diplomacy: अचानक वियतनाम, दक्षिण कोरिया क्यों जा रहे राजनाथ सिंह, पश्चिम एशिया संकट और भारत की कूटनीति Navbharat Times।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-05-14T05:33:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/emaelsa-akashhaya-paratapa-saha-para-parathamaka-tharaja_5e59d6bc5ce6c3631872dc7250eebc06.jpeg?w=750&dpr=1.0",
+      "summary": "एमएलसी अक्षय प्रताप सिंह के खिलाफ धोखाधड़ी और फर्जी दस्तावेजों Akshay Pratap Singh के खिलाफ धोखाधड़ी और फर्जी दस्तावेजों के जरिए कंपनी हड़पने के आरोप में प्राथमिकी दर्ज हुई है। यह कार्रवाई Bhanvi Singh की अर्जी पर कोर्ट के आदेश के बाद की गई। पुलिस मामले की जांच कर रही है।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अचानक वियतनाम, दक्षिण कोरिया क्यों जा रहे राजनाथ सिंह, पश्चिम एशिया संकट और भारत की कूटनीति",
-          "summary": "रक्षा मंत्री राजनाथ सिंह वियतनाम और दक्षिण कोरिया की यात्रा पर हैं। यह यात्रा पश्चिम एशिया संकट के बीच भारत की कूटनीति का हिस्सा है। यात्रा का उद्देश्य द्विपक्षीय संबंधों को मजबूत करना है। Indian Diplomacy: अचानक वियतनाम, दक्षिण कोरिया क्यों जा रहे राजनाथ सिंह, पश्चिम एशिया संकट और भारत की कूटनीति Navbharat Times।",
-          "region": "एशिया-प्रशांत"
+          "title": "एमएलसी अक्षय प्रताप सिंह पर प्राथमिकी दर्ज, राजा भैया की पत्नी भानवी की अर्जी पर कोर्ट ने दिया था",
+          "summary": "एमएलसी अक्षय प्रताप सिंह के खिलाफ धोखाधड़ी और फर्जी दस्तावेजों Akshay Pratap Singh के खिलाफ धोखाधड़ी और फर्जी दस्तावेजों के जरिए कंपनी हड़पने के आरोप में प्राथमिकी दर्ज हुई है। यह कार्रवाई Bhanvi Singh की अर्जी पर कोर्ट के आदेश के बाद की गई। पुलिस मामले की जांच कर रही है।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNE8yeHF1WDVXXzJhOHlLOW9qRW9NNEdLdFd2Uno4aDVySGo4RXV5bngtZDdBWUpGRGVhZWJ4amNHUEplMnVKb21kX29WX2diQU9rZDV4TnVuWnJkOGZabS1oVkJrdWdXN3BiLTVDV0VZeXJiV3pWMnBTM1VxSHVtX0hFSzF2dEhleW9nb0NTckpvc2lxTW5sZEJsczJBQTFILVQ3ZnpoY09DMTJsb3hUYktqNHdsdHgtNXczdG5HTV9ST3FHVjZJT2c4QnRsb2RzSHQteElpQWN3RXZhdk5KVkFPMmE4VjRxaEZ4NUw4X0Q0WjDSAfgBQVVfeXFMUDFkUXRsVXl3cnc0aTc2MWpybmNYZ3JTdmNhRHp1dXhiOUV1X2ZFLUNHVXkxazl6VlY2VkhiLVVfeFI5OTdKaVVPdVkzOGU0Tjh0MXhJa2dIUUJYVTVfaEFWdng3Z0Qtd2l1V1IzSGFpbjJPWE5oMHF6Z2Nub0xHQTdWNVQ1V1AwT3VfUXBqelZNaGhndER2UlVNZlZNY1RnbWJCZ1JFTDZOeUJ2WUNWZTh3d0F3ZlVNYkhNV1J1aFU3QURybnBNZnA4djZjbC1YM3dWaE90SXp6bmRKZkd0YmNEVkR0eDRybkV1UzBkMDNOdERZY1M1UEk?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "सरसों तेल, काले तिल और दीपक के बिना अधूरी मानी जाती है पूजा, जानें इन चीजों का महत्व",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/shani-jayanti-special-significance-of-mustard-oil-black-sesame-and-diyas-on-shani-jayanti-2026-05-14",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-14T04:37:01+00:00",
-      "image_url": "https://images.pexels.com/photos/30541596/pexels-photo-30541596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र में अमेरिका ने होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता पर जोर दिया। 113 देशों ने इसका समर्थन किया। भारत ने इस पर कोई टिप्पणी नहीं की। Iran-US War: UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया ABP News।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-14T05:33:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/05/shani-jayanti-2026_bb218f3977613e011c097dcc1d134d19.jpeg?w=750&dpr=1.0",
+      "summary": "शनि जयंती पर सरसों का तेल, काले तिल और दीपक का विशेष शनि जयंती पर सरसों तेल, काले तिल और दीपक का विशेष महत्व माना जाता है। ये उपाय नकारात्मक ऊर्जा को दूर कर शनि देव की कृपा, शांति, सुख और समृद्धि प्राप्त करने में सहायक माने जाते हैं।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया",
-          "summary": "संयुक्त राष्ट्र में अमेरिका ने होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता पर जोर दिया। 113 देशों ने इसका समर्थन किया। भारत ने इस पर कोई टिप्पणी नहीं की। Iran-US War: UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया ABP News।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "सरसों तेल, काले तिल और दीपक के बिना अधूरी मानी जाती है पूजा, जानें इन चीजों का महत्व",
+          "summary": "शनि जयंती पर सरसों का तेल, काले तिल और दीपक का विशेष शनि जयंती पर सरसों तेल, काले तिल और दीपक का विशेष महत्व माना जाता है। ये उपाय नकारात्मक ऊर्जा को दूर कर शनि देव की कृपा, शांति, सुख और समृद्धि प्राप्त करने में सहायक माने जाते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'इंटरनेशनल बेज्जती'; क्या कान फिल्म फेस्टिवल में आलिया भट्ट को फोटोग्राफर्स ने वाकई किया नजरअंदाज?",
+      "url": "https://www.amarujala.com/entertainment/cannes-2026-mother-soni-razdan-praising-alia-bhatt-after-trolling-for-her-look-at-79th-cannes-film-festival-2026-05-14",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-14T05:33:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/aalya-bhatata_b7faf36a6623b7eeb618a49a94d86867.jpeg?w=750&dpr=1.0",
+      "summary": "कान फिल्म फेस्टिवल में आलिया भट्ट ने रेड कार्पेट पर अपनी उपस्थिति दर्ज कराई। उनके लुक ने ध्यान खींचा। हालांकि, कुछ इंटरनेट उपयोगकर्ताओं ने उन्हें ट्रोल किया। वे फोटोग्राफरों द्वारा नजरअंदाज किए जाने का दावा कर रहे हैं। 79th Cannes Film Festival: कान फिल्म फेस्टिवल के पहले ही दिन आलिया भट्ट वहां पहुंचीं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'इंटरनेशनल बेज्जती'; क्या कान फिल्म फेस्टिवल में आलिया भट्ट को फोटोग्राफर्स ने वाकई किया नजरअंदाज?",
+          "summary": "कान फिल्म फेस्टिवल में आलिया भट्ट ने रेड कार्पेट पर अपनी उपस्थिति दर्ज कराई। उनके लुक ने ध्यान खींचा। हालांकि, कुछ इंटरनेट उपयोगकर्ताओं ने उन्हें ट्रोल किया। वे फोटोग्राफरों द्वारा नजरअंदाज किए जाने का दावा कर रहे हैं। 79th Cannes Film Festival: कान फिल्म फेस्टिवल के पहले ही दिन आलिया भट्ट वहां पहुंचीं।",
+          "region": "दुनिया"
         }
       }
     }
