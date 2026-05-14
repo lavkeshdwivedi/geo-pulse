@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-05-14T12:27:49.257412+00:00",
-  "article_count": 40,
+  "generated_at": "2026-05-14T15:22:07.414110+00:00",
+  "article_count": 38,
   "total_unique_count": 378,
   "digest": {
-    "en": "Americas leads the board this hour with Pope Leo decries European military spending as ‘betrayal’ of diplomacy. Middle East & Africa carries the next thread. 15 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, केरल में मुख्यमंत्री पद के लिए कैसे बने कांग्रेस की पसंद मुख्य खबर है। साथ ही अमेरिका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Xi Jinping's meetings with Donald Trump in Beijing and his call for partnership with the US set the stage. Meanwhile, Pope Leo's criticism of European military spending offers a counterpoint to rising tensions. Iran's facilitation of Chinese ship passage through the Strait of Hormuz adds another layer.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, पाकिस्तान स्थित वियतनामी दूतावास नए क्षेत्रीय संदर्भ में आर्थिक कूटनीति को जोरदार तरीके से बढ़ावा मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-14T14:47:20+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/b3babd09263bda1c598d30aac45d6bff09c14eda/253_0_3723_2979/master/3723.jpg?width=140&quality=85&auto=format&fit=max&s=6b6084b38cbb2786a18a3df1db4d7661",
+      "summary": "U. S. President Trump arrived in Beijing for high-stakes talks with Xi Jinping. Security is heightened as trade, AI, and the war in Iran are set to dominate the summit. The leaders aim to improve the bilateral relationship.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran allows Chinese ships to pass Hormuz since May 13, reports Iranian media",
+      "url": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-netanyahu-uae-secret-visit-tehran-strait-of-hormuz/article70976779.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-14T13:30:37+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/d1ry0u/article70978084.ece/alternates/LANDSCAPE_1200/AFP__20241013__36JX4FJ__v1__HighRes__IraqIranDiplomacy.jpg",
+      "summary": "Iran's Foreign Minister Araghchi called the United Arab Emirates an \" Iran's Foreign Minister Araghchi also referred to what Israel described as a \"secret\" meeting between Prime Minister Benjamin Netanyahu and UAE President Mohammed bin Zayed Al Nahyan in the UAE -- a visit that Abu Dhabi has denied took place.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Pope Leo decries European military spending as ‘betrayal’ of diplomacy",
       "url": "https://www.thehindu.com/news/international/pope-leo-decries-european-military-spending-as-betrayal-of-diplomacy/article70978332.ece",
@@ -16,42 +40,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/s0nl57/article70978441.ece/alternates/LANDSCAPE_1200/2026-05-14T094037Z_17937105_RC2X8LADLNZ5_RTRMADP_3_POPE-ITALY-UNIVERSITY.JPG",
       "summary": "Pope Leo criticized European military spending. “Let us not call ‘defence’ a rearmament that increases tensions and insecurity, impoverishes investments in education and health, betrays trust ​in diplomacy, and enriches ‌elites who care nothing for the common good,” said the pontiff. Pope Leo decries European military spending as ‘betrayal’ of diplomacy.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan",
-      "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-14T11:55:25+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/b3babd09263bda1c598d30aac45d6bff09c14eda/253_0_3723_2979/master/3723.jpg?width=140&quality=85&auto=format&fit=max&s=6b6084b38cbb2786a18a3df1db4d7661",
-      "summary": "U. S. President Trump arrived in Beijing for high-stakes talks with Xi Jinping. Security is heightened as trade, AI, and the war in Iran are set to dominate the summit. The leaders aim to improve the bilateral relationship.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What is Trump’s Project Vault?",
-      "url": "https://www.thehindu.com/news/international/what-is-trumps-project-vault/article70643464.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-14T11:22:28+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/29mt30/article70645096.ece/alternates/LANDSCAPE_1200/Trump_45749.jpg",
-      "summary": "The Trump administration initiated Project Vault. The Trump administration’s initiative aims to create a reserve of critical minerals to protect its domestic industries from any disruption, as witnessed when China restricted export of rare earth magnets to retaliate against U. S. tariffs, causing a near shutdown of car manufacturing operations in the U. S.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israel-Iran war LIVE: Iran calls UAE 'active partner' in war",
-      "url": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-netanyahu-uae-secret-visit-tehran-strait-of-hormuz/article70976779.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-14T10:34:18+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/d1ry0u/article70978084.ece/alternates/LANDSCAPE_1200/AFP__20241013__36JX4FJ__v1__HighRes__IraqIranDiplomacy.jpg",
-      "summary": "Iran's Foreign Minister Araghchi called the United Arab Emirates an \" Iran's Foreign Minister Araghchi also referred to what Israel described as a \"secret\" meeting between Prime Minister Benjamin Netanyahu and UAE President Mohammed bin Zayed Al Nahyan in the UAE -- a visit that Abu Dhabi has denied took place.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -176,16 +164,148 @@
       "translations": {}
     },
     {
-      "title": "UN launches major Nairobi expansion as Guterres highlights Africa’s growing global role",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167486",
-      "source": "UN News",
+      "title": "पाकिस्तान स्थित वियतनामी दूतावास नए क्षेत्रीय संदर्भ में आर्थिक कूटनीति को जोरदार तरीके से बढ़ावा",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT1FNaElhMlVCam9lSnRZVDY3ZzViNVJPQzk2aHQ3NkdiSVJQN1Z3aExFTFhoOXk4UXJ4ejAzanRFSURGc2NVaEVfTVJuWUNxZTBrU2h0VTRQSzEwZ1Y1UEFleFhPTjk5dVhlYmJ1TnJpdzVpT25WUnZLejR4LVpFZWdaVFUwNGhBaVdsX2FTQ0Zzc0FMWXBuV2l2ZnlhWXphajliaGdNVS1qZHpUSzhiX0NfdlhNcTN1dDJLMHl4WVMxeHNNUlFnN2dPUDcxWkRFT0E?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
       "sources": [],
-      "published_at": "2026-05-11T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/11-05-2026-UN-Nairobi-Guterres-02.jpg/image560x340cropped.jpg",
-      "summary": "The United Nations launched a major expansion of its Nairobi headquarters. Secretary-General António Guterres and Kenyan President William Ruto marked the milestone for UN presence in Africa. The United Nations on Monday launched a major expansion of its Nairobi headquarters, with Secretary-General António Guterres and Kenyan President William Ruto marking what officials described as a significant milestone for the Organization’s presence in Africa.",
+      "published_at": "2026-05-14T14:56:59+00:00",
+      "image_url": "https://images.pexels.com/photos/13659051/pexels-photo-13659051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "पाकिस्तान में वियतनामी दूतावास आर्थिक कूटनीति को बढ़ावा दे रहा है। यह कदम नए क्षेत्रीय संदर्भ में उठाया गया है। दूतावास व्यापार और निवेश संबंधों को मजबूत करने पर ध्यान केंद्रित कर रहा है। पाकिस्तान स्थित वियतनामी दूतावास नए क्षेत्रीय संदर्भ में आर्थिक कूटनीति को जोरदार तरीके से बढ़ावा दे रहा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान स्थित वियतनामी दूतावास नए क्षेत्रीय संदर्भ में आर्थिक कूटनीति को जोरदार तरीके से बढ़ावा",
+          "summary": "पाकिस्तान में वियतनामी दूतावास आर्थिक कूटनीति को बढ़ावा दे रहा है। यह कदम नए क्षेत्रीय संदर्भ में उठाया गया है। दूतावास व्यापार और निवेश संबंधों को मजबूत करने पर ध्यान केंद्रित कर रहा है। पाकिस्तान स्थित वियतनामी दूतावास नए क्षेत्रीय संदर्भ में आर्थिक कूटनीति को जोरदार तरीके से बढ़ावा दे रहा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पुनर्निर्माण में मलबे से द्वीप बनाने पर विचार, मगर तकनीकी व पर्यावरणीय चिन्ता भी",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15dF82MFVLMXFlLVozekdwNG05TDJPSHZ4ZlpJaF8zbHRLOFRkd0JfUWh5NnlMU1hqai1EUDdhNmtYS0VPNThpTkg4T3FKLWF0b2RYeGVLaw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-14T14:55:53+00:00",
+      "image_url": "https://images.pexels.com/photos/25310909/pexels-photo-25310909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "गाजा में पुनर्निर्माण के लिए मलबे से एक कृत्रिम द्वीप बनाने का प्रस्ताव है। इस विचार पर तकनीकी और पर्यावरणीय चिंताएं व्यक्त की गई हैं। इस परियोजना के कार्यान्वयन पर अभी भी विचार किया जा रहा है। ग़ाज़ा: पुनर्निर्माण में मलबे से द्वीप बनाने पर विचार, मगर तकनीकी व पर्यावरणीय चिन्ता भी Welcome to the United Nations।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पुनर्निर्माण में मलबे से द्वीप बनाने पर विचार, मगर तकनीकी व पर्यावरणीय चिन्ता भी",
+          "summary": "गाजा में पुनर्निर्माण के लिए मलबे से एक कृत्रिम द्वीप बनाने का प्रस्ताव है। इस विचार पर तकनीकी और पर्यावरणीय चिंताएं व्यक्त की गई हैं। इस परियोजना के कार्यान्वयन पर अभी भी विचार किया जा रहा है। ग़ाज़ा: पुनर्निर्माण में मलबे से द्वीप बनाने पर विचार, मगर तकनीकी व पर्यावरणीय चिन्ता भी Welcome to the United Nations।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "लंबे वक्त तक संघर्ष में फंसे रहने की गलती नहीं करनी चाहिए : सीडीएस अनिल चौहान",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaDR2eW9LbVNQVGFsVjR0bVBmdXB6TE5nVVhZZF9wSXp3RlVha254QldJVXBNU0g5MVpyMzJBUXg0VWNIb1AtSHdjTzc4SFZtdEM1Z3FUX0Q3Qk53T2VjWXZXSGJzV1RDTnZmeEhfRHZEaEVEOF9wWTQ1a2sza1NhZml1SlA0d1hjY1J6VnZkQW9KWWFuZG9OdlVYUHFHTS1mYUs4ZDJCODY2SlN1UFdHT2otQmdrSFZLdVR0Z1VUaUkzUk8wdWNFcnJiMTB1SW5PLUV3ME00V3AxZFlramhwdnZxSDNaNkJwamMzQW5fM2t2XzNOb0NXc3VYZGV5ZFBLNVAw0gGIAkFVX3lxTE1JMUhROC1WWHliemVNSGV5MXhINE91NnljSTU0c0gzMFdIN3JjSlZucGItc2Z2YlJqVVk1eEp5ZmNYR1NzZmlCei1SQTE0cHM3NGFXbUYtWkF5cHdaUVAxYmZXSG1hTFNRQURmR3JlNHBvNm9mejFUT3djLW1PMU5rOERoLVBQaFJjYVhsaVp4VWJtdkMyZDI5VzVUMWd2VVhuZlNzUXI3bFdNVFVfRElKb3g5dW1wdXkxVDlaSi1LY1ZCdlVyTUtjaTNTYUtQaHMzMGZub3pHSi05WEdFbk5ZbUtMUFE3YWpGVFprQ2wwM2JMd0RzeTFrdUJzRThlSDF6dlltN1lGNQ?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-14T14:49:03+00:00",
+      "image_url": "https://images.pexels.com/photos/7736144/pexels-photo-7736144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "चीफ ऑफ डिफेंस स्टाफ अनिल चौहान ने कहा कि लंबे समय तक संघर्ष में फंसे रहने से बचना चाहिए। उन्होंने इस बात पर जोर दिया कि ऐसे हालात से बचना महत्वपूर्ण है। यह टिप्पणी वर्तमान भू-राजनीतिक परिदृश्य पर की गई है। लंबे वक्त तक संघर्ष में फंसे रहने की गलती नहीं करनी चाहिए: सीडीएस अनिल चौहान Navbharat Times।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लंबे वक्त तक संघर्ष में फंसे रहने की गलती नहीं करनी चाहिए : सीडीएस अनिल चौहान",
+          "summary": "चीफ ऑफ डिफेंस स्टाफ अनिल चौहान ने कहा कि लंबे समय तक संघर्ष में फंसे रहने से बचना चाहिए। उन्होंने इस बात पर जोर दिया कि ऐसे हालात से बचना महत्वपूर्ण है। यह टिप्पणी वर्तमान भू-राजनीतिक परिदृश्य पर की गई है। लंबे वक्त तक संघर्ष में फंसे रहने की गलती नहीं करनी चाहिए: सीडीएस अनिल चौहान Navbharat Times।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ओमान के पास हमले के बाद डूबा भारतीय जहाज़, अब तक क्या पता है?",
+      "url": "https://www.bbc.com/hindi/articles/cvgzneg2ydyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-14T14:43:14+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e575/live/be3146c0-4fa3-11f1-8b8c-6d33e1d5abb6.jpg",
+      "summary": "ओमान के तट के पास एक भारतीय जहाज पर हमले के बाद वह डूब गया। जहाज पर सवार सभी 14 चालक दल के सदस्यों को ओमान के तटरक्षक बल ने बचा लिया है। हमले के कारणों की जांच जारी है। भारत ने कहा है कि जहाज़ पर सवार सभी 14 चालक दल के सदस्यों को ओमान कोस्ट गार्ड ने सुरक्षित बचा लिया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ओमान के पास हमले के बाद डूबा भारतीय जहाज़, अब तक क्या पता है?",
+          "summary": "ओमान के तट के पास एक भारतीय जहाज पर हमले के बाद वह डूब गया। जहाज पर सवार सभी 14 चालक दल के सदस्यों को ओमान के तटरक्षक बल ने बचा लिया है। हमले के कारणों की जांच जारी है। भारत ने कहा है कि जहाज़ पर सवार सभी 14 चालक दल के सदस्यों को ओमान कोस्ट गार्ड ने सुरक्षित बचा लिया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'हम मर जाएंगे लेकिन भागेंगे नहीं'- केन बेतवा प्रोजेक्ट में मुआवज़े और पुनर्वास को लेकर क्यों है",
+      "url": "https://www.bbc.com/hindi/articles/cqxpgpnx2e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-14T13:34:51+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f05/live/c7acc6b0-4f90-11f1-b8b4-e39ec910efe3.jpg",
+      "summary": "केन-बेतवा परियोजना स्थल पर ग्रामीणों ने प्रशासन द्वारा घर गिराने का विरोध किया है। उनका कहना है कि उचित मुआवजा और पुनर्वास के बिना यह कदम उठाया जा रहा है। ग्रामीण अपनी मांगों पर अड़े हैं। केन बेतवा परियोजना साइट पर प्रशासन की ओर से लोगों के घर गिराने का विरोध हो रहा है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'हम मर जाएंगे लेकिन भागेंगे नहीं'- केन बेतवा प्रोजेक्ट में मुआवज़े और पुनर्वास को लेकर क्यों है",
+          "summary": "केन-बेतवा परियोजना स्थल पर ग्रामीणों ने प्रशासन द्वारा घर गिराने का विरोध किया है। उनका कहना है कि उचित मुआवजा और पुनर्वास के बिना यह कदम उठाया जा रहा है। ग्रामीण अपनी मांगों पर अड़े हैं। केन बेतवा परियोजना साइट पर प्रशासन की ओर से लोगों के घर गिराने का विरोध हो रहा है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ऑपरेशन सिंदूर में भारत का कमाल: चार दिन के संघर्ष में हर मोर्चे पर दबदबा; CDS अनिल चौहान ने किया",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOWppWDRiUlVNTUpzYm9HM0R6ZDlNbHNWQ3VxR3YxeVNNMHVVTXV4VDE0bkprb2F4eDNLNjdnWlNTLS1iUTFOUnlKLXdEdUtsb2lXUHhRQlhGVk4tNWhlN21mYXpQQV84dnRpUXZXQW1ZdUw2QnYxOXgzcTVqeEFlVzV4M0h2R0dGM24tZ0lzLXc5bGtTVHotYklnd09xV0dMXzVJaUM0ZWtFUTFhcnNDZTVYUTVZZ2s3SUduRnFWemNGcUZVVkIydVhTYjA4UFByajVPOWIyUXM4dWpranNYZ2xvWXJHSUp1RkdCM3d0LXZUdzEySmlFQkZWYlN4eEww?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-14T13:33:58+00:00",
+      "image_url": "https://images.pexels.com/photos/13072338/pexels-photo-13072338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत ने ऑपरेशन सिंदूर में चार दिवसीय सैन्य अभ्यास सफलतापूर्वक पूरा किया। चीफ ऑफ डिफेंस स्टाफ जनरल अनिल चौहान ने अभ्यास की समीक्षा की। इसमें सभी मोर्चों पर भारतीय सेना का दबदबा दिखा। ऑपरेशन सिंदूर में भारत का कमाल: चार दिन के संघर्ष में हर मोर्चे पर दबदबा; CDS अनिल चौहान ने किया बड़ा खुलासा Amar Ujala।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ऑपरेशन सिंदूर में भारत का कमाल: चार दिन के संघर्ष में हर मोर्चे पर दबदबा; CDS अनिल चौहान ने किया",
+          "summary": "भारत ने ऑपरेशन सिंदूर में चार दिवसीय सैन्य अभ्यास सफलतापूर्वक पूरा किया। चीफ ऑफ डिफेंस स्टाफ जनरल अनिल चौहान ने अभ्यास की समीक्षा की। इसमें सभी मोर्चों पर भारतीय सेना का दबदबा दिखा। ऑपरेशन सिंदूर में भारत का कमाल: चार दिन के संघर्ष में हर मोर्चे पर दबदबा; CDS अनिल चौहान ने किया बड़ा खुलासा Amar Ujala।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "विदेश मंत्री जयशंकर ने एकतरफा प्रतिबंधों पर उठाए सवाल, बोले- डायलॉग ही एकमात्र रास्ता",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbDdFRGw4YThFVG53Mm1iSXI3RW9WYmFIRzRMT2s2Si1aUklkaUc4ZGtaZk9hOWtzeElvVnRTV0dETnAyRDRzaDl4OC1lVzJVaTA2b011NEdEcDFwU2NLSmFpU1BVS244aDg4dnhfYUMyb2x6WmtzbXdWTHJZM3BVcElKaGJ6V2RCRnRyam4tQjlXRlViZDlfZVFNX05OdmFZanhEellCcUhDbXBwV0RjUkNNeFpBTWEwMGpITDBadGhGMjVqaENPMUt1Nklvcms?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-14T13:29:00+00:00",
+      "image_url": "https://images.pexels.com/photos/25310897/pexels-photo-25310897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विदेश मंत्री एस. जयशंकर ने ब्रिक्स 2026 बैठक में एकतरफा प्रतिबंधों की आलोचना की। उन्होंने कहा कि संवाद ही समस्याओं का एकमात्र समाधान है। उन्होंने अंतरराष्ट्रीय सहयोग पर जोर दिया। BRICS 2026: विदेश मंत्री जयशंकर ने एकतरफा प्रतिबंधों पर उठाए सवाल, बोले- डायलॉग ही एकमात्र रास्ता Jagran।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विदेश मंत्री जयशंकर ने एकतरफा प्रतिबंधों पर उठाए सवाल, बोले- डायलॉग ही एकमात्र रास्ता",
+          "summary": "विदेश मंत्री एस. जयशंकर ने ब्रिक्स 2026 बैठक में एकतरफा प्रतिबंधों की आलोचना की। उन्होंने कहा कि संवाद ही समस्याओं का एकमात्र समाधान है। उन्होंने अंतरराष्ट्रीय सहयोग पर जोर दिया। BRICS 2026: विदेश मंत्री जयशंकर ने एकतरफा प्रतिबंधों पर उठाए सवाल, बोले- डायलॉग ही एकमात्र रास्ता Jagran।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "स्थानीय कार्रवाई से सतत विकास लक्ष्यों को गति",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92U3NJWDZ3aGRuLW5pSnpZUlptVUk4WnhuVTZtM0VqS0twSVV0Rk9JVE82TURGaHZvNWxRTk9LUmdvTHdFNlZRLWI3M1pxNnNQSUFTYXJ6QQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-14T12:55:19+00:00",
+      "image_url": "https://images.pexels.com/photos/5483517/pexels-photo-5483517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने भारत में स्थानीय कार्रवाई को सतत विकास लक्ष्यों को प्राप्त करने में महत्वपूर्ण बताया। जमीनी स्तर पर किए गए प्रयास इन वैश्विक लक्ष्यों को गति दे रहे हैं। इससे विकास को बढ़ावा मिल रहा है। भारत: स्थानीय कार्रवाई से सतत विकास लक्ष्यों को गति Welcome to the United Nations।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्थानीय कार्रवाई से सतत विकास लक्ष्यों को गति",
+          "summary": "संयुक्त राष्ट्र ने भारत में स्थानीय कार्रवाई को सतत विकास लक्ष्यों को प्राप्त करने में महत्वपूर्ण बताया। जमीनी स्तर पर किए गए प्रयास इन वैश्विक लक्ष्यों को गति दे रहे हैं। इससे विकास को बढ़ावा मिल रहा है। भारत: स्थानीय कार्रवाई से सतत विकास लक्ष्यों को गति Welcome to the United Nations।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "केरल में मुख्यमंत्री पद के लिए कैसे बने कांग्रेस की पसंद",
@@ -206,12 +326,30 @@
       }
     },
     {
+      "title": "भारत ने जिनेवा में आईटीयू परिषद 2026 में वैश्विक दूरसंचार नेतृत्व को मजबूत किया",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CWmZONnlmWlgya2hoRE4wdGhUT0NDVEtNQjl0QUtsNkFscFVqMEJQV3FvRnUyeHNod08wa282UGVoOUhrVmxLZk9LcjVlOV9IU1RHcTdCTEltR3VwSVIyOTdkVTA4QWts?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-05-14T12:00:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत ने जिनेवा में अंतर्राष्ट्रीय दूरसंचार संघ (आईटीयू) परिषद 2026 में वैश्विक दूरसंचार नेतृत्व में अपनी स्थिति मजबूत की। भारत ने इस मंच पर अपनी विशेषज्ञता और प्रतिबद्धता का प्रदर्शन किया। भारत ने जिनेवा में आईटीयू परिषद 2026 में वैश्विक दूरसंचार नेतृत्व को मजबूत किया PIB।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत ने जिनेवा में आईटीयू परिषद 2026 में वैश्विक दूरसंचार नेतृत्व को मजबूत किया",
+          "summary": "भारत ने जिनेवा में अंतर्राष्ट्रीय दूरसंचार संघ (आईटीयू) परिषद 2026 में वैश्विक दूरसंचार नेतृत्व में अपनी स्थिति मजबूत की। भारत ने इस मंच पर अपनी विशेषज्ञता और प्रतिबद्धता का प्रदर्शन किया। भारत ने जिनेवा में आईटीयू परिषद 2026 में वैश्विक दूरसंचार नेतृत्व को मजबूत किया PIB।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "डॉनल्ड ट्रंप और शी जिनफिंग की मुलाकात के कूटनीतिक मायने",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZC1ueHdqajhjYXJJbF8xamtvTjl4dWpsUmUzdkN6aW9QTUcyRWRyNHdDNkhHcmtRSUFUc01IUUZfRnhhWC0zUHRaMm1oOTdlWmc5Ry1qQndOYkNmUi1FOXZYQkYzZmIxbFNtcjdoOUpTLVFUX1JFNk1wUDBOYXhwRlZDR1ZaNWJpeDctUlR2MDBjZUpZSjZuUjByQVRDbmZ0eWFzVGtGUQ?oc=5",
       "source": "Google News Hindi (कूटनीति)",
       "sources": [],
       "published_at": "2026-05-14T11:44:52+00:00",
-      "image_url": "https://images.pexels.com/photos/34355523/pexels-photo-34355523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_url": "https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "डोनाल्ड ट्रंप और शी जिनफिंग ने ओसाका में जी20 शिखर सम्मेलन के दौरान मुलाकात की। दोनों नेताओं ने व्यापार युद्ध को रोकने के लिए बातचीत जारी रखने पर सहमति व्यक्त की। अमेरिका ने चीन के खिलाफ नए टैरिफ लगाने से परहेज किया। यह मुलाकात दोनों देशों के बीच बढ़ते तनाव के बीच हुई।",
       "region": "Americas",
       "language": "hi",
@@ -314,24 +452,6 @@
       }
     },
     {
-      "title": "दीपिका 499 अंक लाकर बनीं टॉपर, भिवानी का नाम किया रोशन; 16 बच्चों ने टॉप-3 में बनाई जगह",
-      "url": "https://www.amarujala.com/education/hbse-class-10-result-2026-deepika-tops-with-499-marks-brings-glory-to-bhiwani-2026-05-14",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-14T07:24:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/hbse-10th-result-2026_62e276504bf0ff74e59689d8715c841a.jpeg?w=750&dpr=1.0",
-      "summary": "भिवानी की दीपिका ने 499 अंक प्राप्त कर हरियाणा बोर्ड की 10वीं कक्षा की परीक्षा में प्रथम स्थान हासिल किया। इस वर्ष कुल 16 छात्रों ने परीक्षा के टॉप-3 में अपनी जगह बनाई है। हरियाणा विद्यालय शिक्षा बोर्ड ने परिणाम घोषित कर दिया है। HBSE 10th Result OUT: हरियाणा विद्यालय शिक्षा बोर्ड द्वारा घोषित 10वीं कक्षा के परिणाम में इस वर्ष कई छात्रों ने बेहतरीन प्रदर्शन किया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दीपिका 499 अंक लाकर बनीं टॉपर, भिवानी का नाम किया रोशन; 16 बच्चों ने टॉप-3 में बनाई जगह",
-          "summary": "भिवानी की दीपिका ने 499 अंक प्राप्त कर हरियाणा बोर्ड की 10वीं कक्षा की परीक्षा में प्रथम स्थान हासिल किया। इस वर्ष कुल 16 छात्रों ने परीक्षा के टॉप-3 में अपनी जगह बनाई है। हरियाणा विद्यालय शिक्षा बोर्ड ने परिणाम घोषित कर दिया है। HBSE 10th Result OUT: हरियाणा विद्यालय शिक्षा बोर्ड द्वारा घोषित 10वीं कक्षा के परिणाम में इस वर्ष कई छात्रों ने बेहतरीन प्रदर्शन किया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "क्या ईरान और इसराइल के बीच फंस गया है भारत?",
       "url": "https://www.bbc.com/hindi/articles/cgqpne01jelo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -350,24 +470,6 @@
       }
     },
     {
-      "title": "वैश्विक उथल-पुथल के बीच प्रधानमंत्री की अहम यात्रा",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWVtdUtFeThtNkg1RXh2QlMyLXFieWZHQ3dMWGhrNlFaWThNMmp6ZHFiOUlWbTRmLUtzVUNzdW1ya2FKcnY2SEc0TXE4cUpkbXJoV0k1ZmlkN2dxMHk1RFcxSzFIVmVza1ZBVWliblhOR210VXhnMDFNZ0ZvRXNFUW1BV0V1RklNUk5PejEtMXp2V1R3anRCdA?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-14T06:59:44+00:00",
-      "image_url": "https://images.pexels.com/photos/10346682/pexels-photo-10346682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "प्रधानमंत्री ने वैश्विक उथल-पुथल के बीच एक महत्वपूर्ण यात्रा की वैश्विक उथल-पुथल के बीच प्रधानमंत्री की अहम यात्रा orfonline. org।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वैश्विक उथल-पुथल के बीच प्रधानमंत्री की अहम यात्रा",
-          "summary": "प्रधानमंत्री ने वैश्विक उथल-पुथल के बीच एक महत्वपूर्ण यात्रा की वैश्विक उथल-पुथल के बीच प्रधानमंत्री की अहम यात्रा orfonline. org।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "भारत-ऑस्ट्रेलिया की वायु सेनाओं की बैठक: एयरोस्पेस सहयोग पर चर्चा, MQ-28 घोस्ट बैट लड़ाकू विमान भी",
       "url": "https://www.amarujala.com/world/mq-28-ghost-bat-makes-appearance-during-india-australia-12th-air-staff-talks-on-future-aerospace-collaboration-2026-05-14",
       "source": "Amar Ujala World",
@@ -382,24 +484,6 @@
           "title": "भारत-ऑस्ट्रेलिया की वायु सेनाओं की बैठक: एयरोस्पेस सहयोग पर चर्चा, MQ-28 घोस्ट बैट लड़ाकू विमान भी",
           "summary": "भारत और ऑस्ट्रेलिया की वायु सेनाओं ने एक बैठक की. दोनों देशों ने एयरोस्पेस सहयोग पर चर्चा की. बैठक में MQ-28 घोस्ट बैट लड़ाकू विमान भी प्रदर्शित किया गया. भारत-ऑस्ट्रेलिया की वायु सेनाओं की बैठक: एयरोस्पेस सहयोग पर चर्चा, MQ-28 घोस्ट बैट लड़ाकू विमान भी दिखा।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "100 से कम सीट आने पर किया था राजनीति छोड़ने का एलान, दावा सच हुआ, अब बनेंगे केरल के नए CM",
-      "url": "https://www.amarujala.com/india-news/who-is-kerala-new-chief-minister-designate-vd-satheesan-congress-leader-and-ex-lop-of-assembly-profile-explain-2026-05-14",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-14T06:49:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/kerala-new-cm-vd-satheesan-kerala-cm-designate_f3893a061693126cda466ca99b6fe31b.jpeg?w=750&dpr=1.0",
-      "summary": "कांग्रेस ने चुनाव नतीजों के 10 दिन बाद केरल में कांग्रेस ने आखिरकार चुनाव नतीजों के 10 दिन बाद केरल में विधायक दल के नए नेता के तौर पर वीडी सतीशन के नाम का एलान किया है। 100 से कम सीट आने पर किया था राजनीति छोड़ने का एलान, दावा सच हुआ, अब बनेंगे केरल के नए CM।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "100 से कम सीट आने पर किया था राजनीति छोड़ने का एलान, दावा सच हुआ, अब बनेंगे केरल के नए CM",
-          "summary": "कांग्रेस ने चुनाव नतीजों के 10 दिन बाद केरल में कांग्रेस ने आखिरकार चुनाव नतीजों के 10 दिन बाद केरल में विधायक दल के नए नेता के तौर पर वीडी सतीशन के नाम का एलान किया है। 100 से कम सीट आने पर किया था राजनीति छोड़ने का एलान, दावा सच हुआ, अब बनेंगे केरल के नए CM।",
-          "region": "दुनिया"
         }
       }
     },
@@ -436,24 +520,6 @@
           "title": "वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें : जयशंकर",
           "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि वैश्विक अनिश्चितता के दौर में ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की उम्मीदें बढ़ रही हैं। वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें: जयशंकर IANS LIVE। वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें: जयशंकर IANS LIVE।",
           "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "भोपाल में जय श्रीराम के नारों के बीच मुस्लिम युवक की पिटाई, दो गिरफ़्तार",
-      "url": "https://www.bbc.com/hindi/articles/cr5prdejym0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-14T06:13:06+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fe2f/live/c9e59ff0-4ef1-11f1-8524-d1d9574d35b5.png",
-      "summary": "भोपाल में जय श्रीराम के नारों के बीच एक मुस्लिम युवक की पिटाई के मामले में दो लोगों को गिरफ्तार किया गया है। वीडियो वायरल होने के बाद एफआईआर दर्ज हुई। शुरुआत में कोई औपचारिक शिकायत दर्ज नहीं हुई थी. लेकिन वीडियो के वायरल होने और कई संगठनों की शिकायतों के बाद भोपाल के गोविंदपुरा थाने में एफ़आईआर दर्ज की गई.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भोपाल में जय श्रीराम के नारों के बीच मुस्लिम युवक की पिटाई, दो गिरफ़्तार",
-          "summary": "भोपाल में जय श्रीराम के नारों के बीच एक मुस्लिम युवक की पिटाई के मामले में दो लोगों को गिरफ्तार किया गया है। वीडियो वायरल होने के बाद एफआईआर दर्ज हुई। शुरुआत में कोई औपचारिक शिकायत दर्ज नहीं हुई थी. लेकिन वीडियो के वायरल होने और कई संगठनों की शिकायतों के बाद भोपाल के गोविंदपुरा थाने में एफ़आईआर दर्ज की गई.",
-          "region": "दुनिया"
         }
       }
     },
@@ -544,96 +610,6 @@
           "title": "UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया",
           "summary": "संयुक्त राष्ट्र में अमेरिका ने होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता पर जोर दिया। 113 देशों ने इसका समर्थन किया। भारत ने इस पर कोई टिप्पणी नहीं की। Iran-US War: UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया ABP News।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमर उजाला संवाद उत्तर प्रदेश 2026 में जुटेंगे राजनीति से सिनेमा तक देश के चर्चित चेहरे",
-      "url": "https://www.amarujala.com/lucknow/amar-ujala-samvad-famous-faces-from-politics-to-cinema-will-gather-in-uttar-pradesh-2026-2026-05-14",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-14T04:25:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/amara-ujal-savatha_3e8c56619ea932dccc115609aa71a1aa.jpeg?w=750&dpr=1.0",
-      "summary": "अमर उजाला समूह 18 और 19 मई को 'अमर उजाला संवाद उत्तर प्रदेश 2026' का आयोजन कर रहा है। यह आयोजन राजनीति, सिनेमा और अन्य क्षेत्रों के चर्चित चेहरों को एक साथ लाएगा। यह समूह के 78 वर्षों के इतिहास का एक महत्वपूर्ण पड़ाव होगा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमर उजाला संवाद उत्तर प्रदेश 2026 में जुटेंगे राजनीति से सिनेमा तक देश के चर्चित चेहरे",
-          "summary": "अमर उजाला समूह 18 और 19 मई को 'अमर उजाला संवाद उत्तर प्रदेश 2026' का आयोजन कर रहा है। यह आयोजन राजनीति, सिनेमा और अन्य क्षेत्रों के चर्चित चेहरों को एक साथ लाएगा। यह समूह के 78 वर्षों के इतिहास का एक महत्वपूर्ण पड़ाव होगा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच मुठभेड़, मेजर समेत पांच सैनिकों की मौत",
-      "url": "https://www.amarujala.com/world/soldiers-including-a-major-were-killed-in-an-encounter-between-pakistani-forces-and-militants-in-balochistan-2026-05-14",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-14T03:24:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/08/pakistan-pakistan-army_08ab40ccdc622e161744f690e42300f9.jpeg?w=750&dpr=1.0",
-      "summary": "बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच हुई मुठभेड़ में एक मेजर सहित पांच सैनिक मारे गए। यह घटना क्षेत्र में जारी संघर्ष को दर्शाती है। बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच मुठभेड़, मेजर समेत पांच सैनिकों की मौत।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच मुठभेड़, मेजर समेत पांच सैनिकों की मौत",
-          "summary": "बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच हुई मुठभेड़ में एक मेजर सहित पांच सैनिक मारे गए। यह घटना क्षेत्र में जारी संघर्ष को दर्शाती है। बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच मुठभेड़, मेजर समेत पांच सैनिकों की मौत।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "35 साल की महिला ने पति को जहर देकर मारा: बच्चों के लिए किताब भी लिखी, अब अदालत से आजीवन कारावास",
-      "url": "https://www.amarujala.com/world/kouri-richins-who-wrote-a-children-s-book-on-grief-after-her-husband-s-death-gets-life-sentence-2026-05-14",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-14T03:02:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/kara-racanasa_e541209ce701d9b4085ddaae998bc3b4.jpeg?w=750&dpr=1.0",
-      "summary": "एक 35 वर्षीय महिला को अपने पति की हत्या के आरोप में आजीवन कारावास की सजा सुनाई गई है। महिला ने पति को जहर देकर मार डाला था। उसने बच्चों के लिए एक किताब भी लिखी थी। 35 साल की महिला ने पति को जहर देकर मारा: बच्चों के लिए किताब भी लिखी, अब अदालत से आजीवन कारावास।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "35 साल की महिला ने पति को जहर देकर मारा: बच्चों के लिए किताब भी लिखी, अब अदालत से आजीवन कारावास",
-          "summary": "एक 35 वर्षीय महिला को अपने पति की हत्या के आरोप में आजीवन कारावास की सजा सुनाई गई है। महिला ने पति को जहर देकर मार डाला था। उसने बच्चों के लिए एक किताब भी लिखी थी। 35 साल की महिला ने पति को जहर देकर मारा: बच्चों के लिए किताब भी लिखी, अब अदालत से आजीवन कारावास।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रूस बोला, 'भारत तेल की चिंता बिल्कुल ना करे', क्या रूस से तेल ख़रीदना जारी रख पाएगा भारत?",
-      "url": "https://www.bbc.com/hindi/articles/cn0p247lzj3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-14T02:51:04+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a776/live/5c980050-4f41-11f1-9f5f-135aae2f430d.jpg",
-      "summary": "भारत के कच्चे तेल आयात में रूस की हिस्सेदारी जुलाई 2024 में 44.6% थी। अमेरिकी दबाव के कारण जनवरी 2026 तक यह घटकर 20.6% रह गई। रूस ने भारत को तेल की चिंता न करने का आश्वासन दिया है। जुलाई 2024 तक भारत के कच्चे तेल आयात में रूस की हिस्सेदारी बढ़कर 44.6 फ़ीसदी तक पहुंच गई थी.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस बोला, 'भारत तेल की चिंता बिल्कुल ना करे', क्या रूस से तेल ख़रीदना जारी रख पाएगा भारत?",
-          "summary": "भारत के कच्चे तेल आयात में रूस की हिस्सेदारी जुलाई 2024 में 44.6% थी। अमेरिकी दबाव के कारण जनवरी 2026 तक यह घटकर 20.6% रह गई। रूस ने भारत को तेल की चिंता न करने का आश्वासन दिया है। जुलाई 2024 तक भारत के कच्चे तेल आयात में रूस की हिस्सेदारी बढ़कर 44.6 फ़ीसदी तक पहुंच गई थी.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "चीन गए ट्रंप, वेंस को याद आई 36 साल पुरानी फिल्म: प्रोटोकॉल से बंधे हैं अमेरिकी उपराष्ट्रपति; क्या",
-      "url": "https://www.amarujala.com/world/feel-like-macaulay-culkin-in-home-alone-says-jd-vance-as-donald-trump-visits-china-2026-05-14",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-14T02:05:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/donald-trump_9f1a7ef34b901b6379a3bfeeec2e75ef.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिका के उपराष्ट्रपति जे. डी. वेंस ने चीन की यात्रा के दौरान डोनाल्ड ट्रंप के साथ अपनी तुलना 1990 की फिल्म 'होम अलोन' के एक दृश्य से की। उन्होंने अमेरिकी उपराष्ट्रपति के प्रोटोकॉल का उल्लेख किया। चीन गए ट्रंप, वेंस को याद आई 36 साल पुरानी फिल्म: प्रोटोकॉल से बंधे हैं अमेरिकी उपराष्ट्रपति; क्या।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन गए ट्रंप, वेंस को याद आई 36 साल पुरानी फिल्म: प्रोटोकॉल से बंधे हैं अमेरिकी उपराष्ट्रपति; क्या",
-          "summary": "अमेरिका के उपराष्ट्रपति जे. डी. वेंस ने चीन की यात्रा के दौरान डोनाल्ड ट्रंप के साथ अपनी तुलना 1990 की फिल्म 'होम अलोन' के एक दृश्य से की। उन्होंने अमेरिकी उपराष्ट्रपति के प्रोटोकॉल का उल्लेख किया। चीन गए ट्रंप, वेंस को याद आई 36 साल पुरानी फिल्म: प्रोटोकॉल से बंधे हैं अमेरिकी उपराष्ट्रपति; क्या।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
