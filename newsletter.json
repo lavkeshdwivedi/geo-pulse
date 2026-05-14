@@ -1,19 +1,31 @@
 {
-  "generated_at": "2026-05-14T07:44:42.336987+00:00",
-  "article_count": 44,
-  "total_unique_count": 378,
+  "generated_at": "2026-05-14T10:19:07.612360+00:00",
+  "article_count": 40,
+  "total_unique_count": 376,
   "digest": {
-    "en": "Xi Jinping's warnings to Donald Trump about Taiwan dominate headlines. Tensions between the US and China are high. Meanwhile, UN peacekeeping forces in Africa report increased drone incidents.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, बंगाल के स्कूलों में वंदे मातरम गीत गाना अनिवार्य: सीएम शुभेंदु का बड़ा कदम, सख्ती से पालन करने का मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Xi Jinping's meetings with Donald Trump in Beijing dominate headlines. Tensions over Taiwan and trade are central. Elsewhere, a US soldier's remains were recovered in Morocco, and cartel corruption strains US-Mexico ties.",
+    "hi": "एशिया-प्रशांत में अमेरिकी पूर्व मेयर का चीनी जासूसी का मामला प्रमुख है। भारत-ऑस्ट्रेलिया वायु सेनाओं की बैठक एयरोस्पेस सहयोग पर केंद्रित है। वैश्विक मंच पर, ब्रिक्स से रचनात्मक भूमिका की उम्मीदें बढ़ रही हैं।"
   },
   "articles": [
     {
-      "title": "Xi Jinping warns US and China could ‘come into conflict’ if Taiwan issue mishandled, state media",
+      "title": "Xi Warns Trump on Taiwan at Beijing Summit",
+      "url": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-14T10:13:33+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/06/13/multimedia/13trump-xi-promo-0300-qgmh/13trump-xi-promo-0300-qgmh-mediumSquareAt3X.jpg",
+      "summary": "China's leader Xi Jinping warned US President Trump at the Beijing Summit that Xi Jinping, China’s leader, told President Trump that if the Taiwan issue were handled poorly, it could lead to a clash with the United States. It was a reminder of longstanding tensions on a day laden with pageantry.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Xi Jinping warns US and China could ‘come into conflict’ if Taiwan issue mishandled",
       "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-05-14T07:22:03+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/73cf02a2904557f5327bfe2f3245f02a97fd772b/1196_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=dc87004ed8919b19c8d63965e9a973ce",
+      "published_at": "2026-05-14T10:02:55+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/eda6ad47a93c76c406fbb27a4c171a29f3d4a922/208_403_6137_4910/master/6137.jpg?width=140&quality=85&auto=format&fit=max&s=d75c936a31d4e143d1c1f199925c5b09",
       "summary": "U. S. President Trump arrived in Beijing for high-stakes talks with Xi Jinping. Security is heightened as trade, AI, and the war in Iran are set to dominate the summit. The leaders aim to improve the bilateral relationship.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -28,54 +40,6 @@
       "image_url": "https://i.guim.co.uk/img/media/39233ac0de30e4dbf9ac8dbf77ee70e9bd593816/699_0_4503_3602/master/4503.jpg?width=140&quality=85&auto=format&fit=max&s=b1a532c5365a12f12254d45d4f814cb5",
       "summary": "Beijing is preparing for Donald Trump's visit with tight security and public scepticism. Chinese nationalism has grown as the US's global standing appears to decline. Trump's previous visits no longer hold the same novelty for the Chinese public. The visit is expected to focus on key issues between the two nations.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Taiwan issue could lead to ‘conflict’, Xi warns Trump",
-      "url": "https://www.thehindu.com/news/international/xi-warns-trump-taiwan-issue-could-lead-to-conflict-as-us-china-summit-starts/article70976999.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-14T05:39:32+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/n2sg60/article70977026.ece/alternates/LANDSCAPE_1200/China_Trump_16977.jpg",
-      "summary": "President Xi Jinping warned President Trump about Taiwan. But beyond the pomp as he welcomed President Trump, President Xi used less effusive tones, saying the two sides “should be partners and not rivals” and highlighting the issue of self-ruled democratic Taiwan. which Beijing claims as its territory.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Philippines authorities investigating reports lawmaker wanted by ICC has fled after taking refuge",
-      "url": "https://www.theguardian.com/world/2026/may/14/philippines-senator-ronald-dela-rosa-wanted-by-icc-fled",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-14T05:33:20+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/2e5a1891519f706db683f1b26212d5b7a2a47493/676_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=733693a7efa7106d557418ffaa0d2137",
-      "summary": "Philippine authorities are investigating reports Senator Ronald dela Rosa has fled the Senate Senator Ronald dela Rosa is wanted by the ICC for his alleged role in country’s deadly anti-drug crackdown that saw thousands killed Philippine authorities are seeking to confirm reports that a lawmaker wanted by the international criminal court (ICC) secretly left the Senate premises where he had spent days evading arrest, an official said. Presidential communications undersecretary Clare Castro t.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UAE 'denies reports' of secret Netanyahu visit",
-      "url": "https://www.thehindu.com/news/international/uae-denies-reports-of-secret-netanyahu-visit/article70976820.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-14T05:31:58+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/kapekd/article70976848.ece/alternates/LANDSCAPE_1200/2026-04-29T173821Z_1557763317_RC2XYKACKS7K_RTRMADP_3_EMIRATES-GULF-SAUDI.JPG",
-      "summary": "The UAE denied reports of a secret visit by Israeli Prime Minister Netanyahu. This follows an announcement that Israel sent Iron Dome systems to the UAE during the war with Iran. The announcement came a day after U. S. Ambassador to Israel Mike Huckabee announced that Israel had sent its Iron Dome air defence systems, plus personnel to operate them, to the UAE during the war with Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "JD Vance Announces Major Crackdown On Healthcare Fraud",
-      "url": "https://www.ndtv.com/world-news/jd-vance-announces-major-crackdown-on-healthcare-fraud-11492555#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-14T05:20:15+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-04/bp571oj8_jd-vance_625x300_21_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Vice President J. D. Vance announced a sweeping crackdown on alleged Medicaid and Medicare fraud, accusing several Democratic-led states -- particularly California, New York and Hawaii -- of failing to police abuse in federal. JD Vance Announces Major Crackdown On Healthcare Fraud.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -100,18 +64,6 @@
       "image_url": "https://i.guim.co.uk/img/media/a60be11aba9aefbb78c3e89b65c593f4ebee043e/332_0_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=6482580b885f2bf7ece81626a827522e",
       "summary": "United States accusations of Mexican officials colluding with drug traffickers are straining With Mexico under pressure from Trump to tackle drug trafficking groups, analysts say ‘it’s the most tense situation since the 1980s’Relations between Mexico and the United States are being pushed to breaking point amid accusations by Washington that Mexican officials have been “in bed for years” with drug traffickers, and reports of CIA agents freely operating south of the border.“There are many.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Greetings from Seville, where springtime means caracoles",
-      "url": "https://www.npr.org/2026/05/13/g-s1-121409/seville-spain-snails-caracoles",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-05-13T17:16:10+00:00",
-      "image_url": "https://images.pexels.com/photos/28989038/pexels-photo-28989038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Seville marks springtime with caracoles, a local snail delicacy. Spring is snail season in Seville. Caracoles in southern Spain differ from the well-known French escargot. they're smaller and eaten directly from the shell. And everyone has a favorite tapas bar that serves them. Greetings from Seville, where springtime means caracoles.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -249,91 +201,73 @@
       "translations": {}
     },
     {
-      "title": "बंगाल के स्कूलों में वंदे मातरम गीत गाना अनिवार्य: सीएम शुभेंदु का बड़ा कदम, सख्ती से पालन करने का",
-      "url": "https://www.amarujala.com/india-news/singing-of-vande-mataram-song-mandatory-in-bengal-schools-shubhendu-government-s-big-move-2026-05-14",
-      "source": "Amar Ujala National",
+      "title": "अमेरिका की पूर्व मेयर चीनी जासूस निकली, गैरकानूनी तरीके से चीन के लिए काम करने की बात मानी",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZmU4cFV2eU5KVTFKaG93ZFlCcnVVLU1JZ1BxVDM0Tm9LRmNqM0RCZENqUnNoYnNOUXBzV0JNSF9FcFptamIzQVgtSEF3TVNoU0EwOEYzZzlXSFY4RXZHS2RqMXhWTDNEa2ZlRmhlZl9CbW5nb0pvMG1abzM0eDZHMDRsSkpBUVc3Znk1akluZFkxVDBUaWc2VUpQeG9kYzVmLVNRRENKS1NOTFJmYlFNNG9ad1dRYlFWUGJyODJGWWR6S03SAcgBQVVfeXFMTkNGSEozd3p4aFlyQmhtOFdfcU1OS1NKV1dJaGN4cV9GZFk0b0JGaWJKUXlkMllVWU9rVG94NXdPTWlaS2ZrRmptajVyZDhMTFdpVkJ2VUlKU2hQbGlSQ0xSLWdPRk1TSTlnWUNJOU9xaVVrd2oyZ1JOejk0ek1LZWJKSnVXbGlQWVVsYWQ5UHJ0XzlUZjlVYTZESWdnaTh1TWJOZUppWVlOdFcxcVJ1bWplaG9DY1ZoS2Q3SEtXelBSb1BKZnVsRzI?oc=5",
+      "source": "Google News Hindi (विश्व समाचार)",
       "sources": [],
-      "published_at": "2026-05-14T07:29:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/09/shubhendu-adhikari-west-bengal_d5c7282edcbede91a2b56dbda4edc349.jpeg?w=750&dpr=1.0",
-      "summary": "पश्चिम बंगाल के स्कूलों में अब वंदे मातरम का गायन अनिवार्य होगा। मुख्यमंत्री शुभेंदु अधिकारी ने इस संबंध में निर्देश जारी किए हैं। सभी स्कूलों को इस आदेश का सख्ती से पालन करने को कहा गया है। यह कदम राज्य में देशभक्ति की भावना को बढ़ावा देने के उद्देश्य से उठाया गया है।",
+      "published_at": "2026-05-14T09:57:20+00:00",
+      "image_url": "https://images.pexels.com/photos/4676402/pexels-photo-4676402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिका की एक पूर्व मेयर ने चीन के लिए अवैध रूप से काम वर्ल्ड अपडेट्स: अमेरिका की पूर्व मेयर चीनी जासूस निकली, गैरकानूनी तरीके से चीन के लिए काम करने की बात मानी Dainik Bhaskar।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका की पूर्व मेयर चीनी जासूस निकली, गैरकानूनी तरीके से चीन के लिए काम करने की बात मानी",
+          "summary": "अमेरिका की एक पूर्व मेयर ने चीन के लिए अवैध रूप से काम वर्ल्ड अपडेट्स: अमेरिका की पूर्व मेयर चीनी जासूस निकली, गैरकानूनी तरीके से चीन के लिए काम करने की बात मानी Dainik Bhaskar।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ममता बनर्जी क्या वापसी कर पाएंगी?",
+      "url": "https://www.bbc.com/hindi/articles/ce3pn84n232o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-14T09:41:41+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68c2/live/7e2d8580-4f70-11f1-b797-599076ff87aa.jpg",
+      "summary": "ममता बनर्जी 15 साल सत्ता में रहने के बाद अपने सबसे कठिन 15 साल सत्ता में रहने के बाद ममता बनर्जी अब अपने सबसे कठिन राजनीतिक दौर का सामना कर रही हैं. पार्टी में असंतोष, बीजेपी का दबाव और नेतृत्व पर सवालों ने ममता बनर्जी की मुश्किलें कितनी बढ़ा दी हैं?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बंगाल के स्कूलों में वंदे मातरम गीत गाना अनिवार्य: सीएम शुभेंदु का बड़ा कदम, सख्ती से पालन करने का",
-          "summary": "पश्चिम बंगाल के स्कूलों में अब वंदे मातरम का गायन अनिवार्य होगा। मुख्यमंत्री शुभेंदु अधिकारी ने इस संबंध में निर्देश जारी किए हैं। सभी स्कूलों को इस आदेश का सख्ती से पालन करने को कहा गया है। यह कदम राज्य में देशभक्ति की भावना को बढ़ावा देने के उद्देश्य से उठाया गया है।",
+          "title": "ममता बनर्जी क्या वापसी कर पाएंगी?",
+          "summary": "ममता बनर्जी 15 साल सत्ता में रहने के बाद अपने सबसे कठिन 15 साल सत्ता में रहने के बाद ममता बनर्जी अब अपने सबसे कठिन राजनीतिक दौर का सामना कर रही हैं. पार्टी में असंतोष, बीजेपी का दबाव और नेतृत्व पर सवालों ने ममता बनर्जी की मुश्किलें कितनी बढ़ा दी हैं?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "दीपिका ने 499 अंक के साथ किया टॉप, भिवानी का नाम किया रोशन; 16 बच्चों ने टॉप-3 में बनाई जगह",
+      "title": "कर्नाटक में स्कूलों और कॉलेजों में हिजाब, जनेऊ पहनने की अनुमति पर कैसी है चर्चा",
+      "url": "https://www.bbc.com/hindi/articles/cn0prypyv19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-14T08:00:23+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/22a0/live/9917b7d0-4f5c-11f1-9cce-1bf97f24920c.jpg",
+      "summary": "कर्नाटक में बसवराज बोम्मई के नेतृत्व वाली भाजपा बसवराज बोम्मई के नेतृत्व वाली बीजेपी सरकार ने हिजाब पर प्रतिबंध लगा दिया था. इसके बाद सरकार के आदेश को कर्नाटक हाई कोर्ट में चुनौती दी गई थी और अब मामला सुप्रीम कोर्ट में है. कर्नाटक में स्कूलों और कॉलेजों में हिजाब, जनेऊ पहनने की अनुमति पर कैसी है चर्चा।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कर्नाटक में स्कूलों और कॉलेजों में हिजाब, जनेऊ पहनने की अनुमति पर कैसी है चर्चा",
+          "summary": "कर्नाटक में बसवराज बोम्मई के नेतृत्व वाली भाजपा बसवराज बोम्मई के नेतृत्व वाली बीजेपी सरकार ने हिजाब पर प्रतिबंध लगा दिया था. इसके बाद सरकार के आदेश को कर्नाटक हाई कोर्ट में चुनौती दी गई थी और अब मामला सुप्रीम कोर्ट में है. कर्नाटक में स्कूलों और कॉलेजों में हिजाब, जनेऊ पहनने की अनुमति पर कैसी है चर्चा।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "दीपिका 499 अंक लाकर बनीं टॉपर, भिवानी का नाम किया रोशन; 16 बच्चों ने टॉप-3 में बनाई जगह",
       "url": "https://www.amarujala.com/education/hbse-class-10-result-2026-deepika-tops-with-499-marks-brings-glory-to-bhiwani-2026-05-14",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-14T07:24:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/haryana-board-results_d2cf0761916749af4be277199c62eb5d.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/haryana-board-10th-result-2026_350dac0dde20e88a32f8d303fb721d00.jpeg?w=750&dpr=1.0",
       "summary": "भिवानी की दीपिका ने 499 अंक प्राप्त कर हरियाणा बोर्ड की 10वीं कक्षा की परीक्षा में प्रथम स्थान हासिल किया। इस वर्ष कुल 16 छात्रों ने परीक्षा के टॉप-3 में अपनी जगह बनाई है। हरियाणा विद्यालय शिक्षा बोर्ड ने परिणाम घोषित कर दिया है। HBSE 10th Result OUT: हरियाणा विद्यालय शिक्षा बोर्ड द्वारा घोषित 10वीं कक्षा के परिणाम में इस वर्ष कई छात्रों ने बेहतरीन प्रदर्शन किया है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दीपिका ने 499 अंक के साथ किया टॉप, भिवानी का नाम किया रोशन; 16 बच्चों ने टॉप-3 में बनाई जगह",
+          "title": "दीपिका 499 अंक लाकर बनीं टॉपर, भिवानी का नाम किया रोशन; 16 बच्चों ने टॉप-3 में बनाई जगह",
           "summary": "भिवानी की दीपिका ने 499 अंक प्राप्त कर हरियाणा बोर्ड की 10वीं कक्षा की परीक्षा में प्रथम स्थान हासिल किया। इस वर्ष कुल 16 छात्रों ने परीक्षा के टॉप-3 में अपनी जगह बनाई है। हरियाणा विद्यालय शिक्षा बोर्ड ने परिणाम घोषित कर दिया है। HBSE 10th Result OUT: हरियाणा विद्यालय शिक्षा बोर्ड द्वारा घोषित 10वीं कक्षा के परिणाम में इस वर्ष कई छात्रों ने बेहतरीन प्रदर्शन किया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "तुम्हें मुझमें सबसे अच्छी बात क्या लगती है? पत्नी का जवाब सुनकर पति के उड़ गए होश",
-      "url": "https://www.amarujala.com/photo-gallery/humour/jokes-in-hindi-pati-patni-jokes-whatsapp-new-jokes-social-media-viral-jokes-and-meems-comedy-jokes-2026-2026-05-14",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-14T07:24:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/funny-jokes_816ecda0db2aac6c1476c650071bd984.jpeg?w=750&dpr=1.0",
-      "summary": "यह एक हास्यप्रद लेख है जो बताता है कि हँसी और मुस्कुराहट स्वास्थ्य के लिए कितनी फायदेमंद हैं। यह लेख बताता है कि कैसे हँसी हमें मानसिक तनाव और गंभीर बीमारियों से बचाती है। यह लेख हमें हँसने और मुस्कुराने के लिए प्रोत्साहित करता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तुम्हें मुझमें सबसे अच्छी बात क्या लगती है? पत्नी का जवाब सुनकर पति के उड़ गए होश",
-          "summary": "यह एक हास्यप्रद लेख है जो बताता है कि हँसी और मुस्कुराहट स्वास्थ्य के लिए कितनी फायदेमंद हैं। यह लेख बताता है कि कैसे हँसी हमें मानसिक तनाव और गंभीर बीमारियों से बचाती है। यह लेख हमें हँसने और मुस्कुराने के लिए प्रोत्साहित करता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘बस हो गया…’, कान फिल्म फेस्टिवल में भीड़ का शिकार हुईं आलिया भट्ट; पैप्स पर भड़कीं",
-      "url": "https://www.amarujala.com/entertainment/bollywood/alia-bhatt-snaps-after-being-mobbed-by-fans-and-photographers-at-cannes-film-festival-she-upset-says-enough-2026-05-14",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-14T07:22:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/aalya-bhatata_84d37d4392ee5c5a5e22deb2aa0b24e9.jpeg?w=750&dpr=1.0",
-      "summary": "कान फिल्म फेस्टिवल में आलिया भट्ट भीड़ का शिकार हुईं। पैपराजी के अत्यधिक शोर और धक्का-मुक्की से वह परेशान दिखीं। उन्होंने भीड़ को शांत रहने का इशारा किया। यह घटना उनके रेड कार्पेट वॉक के दौरान हुई। आलिया भट्ट का कान फिल्म फेस्टिवल से एक वीडियो तेजी से वायरल हो रहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘बस हो गया…’, कान फिल्म फेस्टिवल में भीड़ का शिकार हुईं आलिया भट्ट; पैप्स पर भड़कीं",
-          "summary": "कान फिल्म फेस्टिवल में आलिया भट्ट भीड़ का शिकार हुईं। पैपराजी के अत्यधिक शोर और धक्का-मुक्की से वह परेशान दिखीं। उन्होंने भीड़ को शांत रहने का इशारा किया। यह घटना उनके रेड कार्पेट वॉक के दौरान हुई। आलिया भट्ट का कान फिल्म फेस्टिवल से एक वीडियो तेजी से वायरल हो रहा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हरियाणा बोर्ड 10वीं का परिणाम घोषित; चरखी दादरी जिला टॉप, नूंह सबसे नीचले पायदान पर",
-      "url": "https://www.amarujala.com/live/education/haryana-board-class-10-result-kab-ayega-live-check-hbse-matric-result-date-time-bseh-org-in-digilocker-2026-05-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-14T07:19:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/haryana-board-10th-result-2026_7e59bd8571e41ea2da95b4224e1e0acc.jpeg?w=750&dpr=1.0",
-      "summary": "हरियाणा विद्यालय शिक्षा बोर्ड ने 10वीं कक्षा का परिणाम जारी कर दिया है। चरखी दादरी जिला परीक्षा में अव्वल रहा। नूंह जिला सबसे निचले पायदान पर रहा। HBSE 10th Result OUT: हरियाणा विद्यालय शिक्षा बोर्ड ने 10वीं कक्षा का परीक्षा परिणाम अपनी आधिकारिक वेबसाइट पर जारी कर दिया।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हरियाणा बोर्ड 10वीं का परिणाम घोषित; चरखी दादरी जिला टॉप, नूंह सबसे नीचले पायदान पर",
-          "summary": "हरियाणा विद्यालय शिक्षा बोर्ड ने 10वीं कक्षा का परिणाम जारी कर दिया है। चरखी दादरी जिला परीक्षा में अव्वल रहा। नूंह जिला सबसे निचले पायदान पर रहा। HBSE 10th Result OUT: हरियाणा विद्यालय शिक्षा बोर्ड ने 10वीं कक्षा का परीक्षा परिणाम अपनी आधिकारिक वेबसाइट पर जारी कर दिया।",
           "region": "दुनिया"
         }
       }
@@ -357,30 +291,12 @@
       }
     },
     {
-      "title": "वाशु भगनानी के इंटेलेक्चुअल प्रॉपर्टी राइट्स केस पर टिप्स म्यूजिक की तीखी प्रतिक्रिया, कहा- ‘दावे",
-      "url": "https://www.amarujala.com/entertainment/bollywood/tips-music-issues-sharp-response-to-vashu-bhagnani-intellectual-property-rights-case-says-claims-misleading-2026-05-14",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-14T07:13:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/25/vasha-bhaganana_06c0c79ff0c21e2db5fa8c90b66fd6ca.jpeg?w=750&dpr=1.0",
-      "summary": "टिप्स म्यूजिक ने वाशु भगनानी के बौद्धिक संपदा अधिकार मामले पर तीखी प्रतिक्रिया दी है. कोर्ट ने भगनानी को अंतरिम सुरक्षा प्रदान की है. यह मामला पूजा एंटरटेनमेंट और टिप्स म्यूजिक के बीच चल रहा है. पिछले दिनों टिप्स म्यूजिक और वाशु भगनानी की पूजा एंटरटेनमेंट के बीच का एक लीगल मामला चर्चा में रहा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वाशु भगनानी के इंटेलेक्चुअल प्रॉपर्टी राइट्स केस पर टिप्स म्यूजिक की तीखी प्रतिक्रिया, कहा- ‘दावे",
-          "summary": "टिप्स म्यूजिक ने वाशु भगनानी के बौद्धिक संपदा अधिकार मामले पर तीखी प्रतिक्रिया दी है. कोर्ट ने भगनानी को अंतरिम सुरक्षा प्रदान की है. यह मामला पूजा एंटरटेनमेंट और टिप्स म्यूजिक के बीच चल रहा है. पिछले दिनों टिप्स म्यूजिक और वाशु भगनानी की पूजा एंटरटेनमेंट के बीच का एक लीगल मामला चर्चा में रहा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "बाइक से विधान भवन पहुंचे सीएम फडणवीस, आंध्र प्रदेश के मंत्रियों ने छोटा किया काफिला",
       "url": "https://www.amarujala.com/india-news/pm-s-appeal-pays-off-cm-fadnavis-rides-bike-to-vidhan-bhavan-andhra-pradesh-ministers-shorten-convoy-2026-05-14",
       "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-14T07:12:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/28/devendra-fadnavis_fc62380caa4bd2557d487784ec284c99.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/matarasaikal-sa-vathhanasabha-pahaca-saema-fadanaevasa_95bd18556b0448838ece05ca68422703.jpeg?w=750&dpr=1.0",
       "summary": "महाराष्ट्र के मुख्यमंत्री फडणवीस ने प्रधानमंत्री की अपील का पालन करते हुए बाइक से विधान भवन पहुंचे. आंध्र प्रदेश के मंत्रियों ने भी अपने काफिले को छोटा कर लिया. यह कदम वीआईपी संस्कृति को कम करने के प्रयास का हिस्सा है. बाइक से विधान भवन पहुंचे सीएम फडणवीस, आंध्र प्रदेश के मंत्रियों ने छोटा किया काफिला।",
       "region": "World",
       "language": "hi",
@@ -398,7 +314,7 @@
       "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-14T07:10:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/patakha-fakatara-vasafata-sa-thahal-ilka_59b9dc1ca8df464aaf0e4004f7f9df0d.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/patakha-fakatara-vasafata-sa-thahal-ilka_4a7141138dcad940a08378b1fc35b07b.jpeg?w=750&dpr=1.0",
       "summary": "मध्य प्रदेश के देवास जिले में एक पटाखा फैक्ट्री में भीषण विस्फोट हुआ. इस घटना में दो मजदूरों की मौत हो गई और कई अन्य घायल हो गए. धमाके की आवाज इतनी तेज थी कि आसपास के मकानों की दीवारें हिल गईं. मध्य प्रदेश के देवास जिले के एबी रोड स्थित टोंककला क्षेत्र में एक पटाखा फैक्टरी में भीषण विस्फोट हो गया, जिससे पूरे इलाके में हड़कंप मच गया।",
       "region": "World",
       "language": "hi",
@@ -429,20 +345,38 @@
       }
     },
     {
-      "title": "क्या नेतन्याहू-अल नाहयान की हुई गुप्त मुलाकात?: इस्राइल ने बताया ऐतिहासिक सफलता, अब यूएई ने किया",
-      "url": "https://www.amarujala.com/world/israel-prime-minister-netanyahu-secret-uae-visit-operation-roaring-lion-diplomatic-shift-2026-05-14",
-      "source": "Amar Ujala World",
+      "title": "100 से कम सीट आने पर किया था राजनीति छोड़ने का एलान, दावा सच हुआ, अब बनेंगे केरल के नए CM",
+      "url": "https://www.amarujala.com/india-news/who-is-kerala-new-chief-minister-designate-vd-satheesan-congress-leader-and-ex-lop-of-assembly-profile-explain-2026-05-14",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-14T06:45:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/isarail-ka-parathhanamatara-bjamana-natanayaha_f48c43d483c7dcceaeaa23a028b29816.jpeg?w=750&dpr=1.0",
-      "summary": "इजराइल के प्रधानमंत्री नेतन्याहू ने संयुक्त अरब अमीरात की गुप्त यात्रा की। यह यात्रा 'ऑपरेशन रोरिंग लायन' के बीच हुई और एक बड़ी सुरक्षा डील की उम्मीद जगाती है। कूटनीतिक बदलाव का संकेत, ऑपरेशन रोरिंग लायन के बीच बड़ी सुरक्षा डील की उम्मीद। क्या नेतन्याहू-अल नाहयान की हुई गुप्त मुलाकात?: इस्राइल ने बताया ऐतिहासिक सफलता, अब यूएई ने किया।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-14T06:49:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/kerala-new-cm-vd-satheesan-kerala-cm-designate_f3893a061693126cda466ca99b6fe31b.jpeg?w=750&dpr=1.0",
+      "summary": "कांग्रेस ने चुनाव नतीजों के 10 दिन बाद केरल में कांग्रेस ने आखिरकार चुनाव नतीजों के 10 दिन बाद केरल में विधायक दल के नए नेता के तौर पर वीडी सतीशन के नाम का एलान किया है। 100 से कम सीट आने पर किया था राजनीति छोड़ने का एलान, दावा सच हुआ, अब बनेंगे केरल के नए CM।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्या नेतन्याहू-अल नाहयान की हुई गुप्त मुलाकात?: इस्राइल ने बताया ऐतिहासिक सफलता, अब यूएई ने किया",
-          "summary": "इजराइल के प्रधानमंत्री नेतन्याहू ने संयुक्त अरब अमीरात की गुप्त यात्रा की। यह यात्रा 'ऑपरेशन रोरिंग लायन' के बीच हुई और एक बड़ी सुरक्षा डील की उम्मीद जगाती है। कूटनीतिक बदलाव का संकेत, ऑपरेशन रोरिंग लायन के बीच बड़ी सुरक्षा डील की उम्मीद। क्या नेतन्याहू-अल नाहयान की हुई गुप्त मुलाकात?: इस्राइल ने बताया ऐतिहासिक सफलता, अब यूएई ने किया।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "100 से कम सीट आने पर किया था राजनीति छोड़ने का एलान, दावा सच हुआ, अब बनेंगे केरल के नए CM",
+          "summary": "कांग्रेस ने चुनाव नतीजों के 10 दिन बाद केरल में कांग्रेस ने आखिरकार चुनाव नतीजों के 10 दिन बाद केरल में विधायक दल के नए नेता के तौर पर वीडी सतीशन के नाम का एलान किया है। 100 से कम सीट आने पर किया था राजनीति छोड़ने का एलान, दावा सच हुआ, अब बनेंगे केरल के नए CM।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "10वीं में 16 परीक्षार्थियों ने प्रथम 3 स्थान हासिल किया, तीन साल में सबसे खराब प्रदर्शन",
+      "url": "https://www.amarujala.com/live/haryana/bhiwani/board-of-school-education-haryana-class-10-exam-results-to-be-released-2026-05-14",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-14T06:49:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/fatahabtha-ma-harayanae-vathayalya-shakashha-brada-ka-paranaema-jara-hana-ka-btha-khasha-manata-hae-vathayaratha_486204b78829c5a9f61f0188cd1b8e4b.jpeg?w=750&dpr=1.0",
+      "summary": "हरियाणा विद्यालय शिक्षा बोर्ड ने वीरवार दोपहर एक बजे दसवीं कक्षा का परीक्षा परिणाम जारी किया। इस वर्ष 16 परीक्षार्थियों ने प्रथम तीन स्थानों पर कब्जा किया। यह पिछले तीन वर्षों में बोर्ड का सबसे खराब प्रदर्शन है। हरियाणा विद्यालय शिक्षा बोर्ड द्वारा वीरवार दोपहर एक बजे दसवीं कक्षा का परीक्षा परिणाम बोर्ड की आधिकारिक वेबसाइट पर जारी कर दिया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "10वीं में 16 परीक्षार्थियों ने प्रथम 3 स्थान हासिल किया, तीन साल में सबसे खराब प्रदर्शन",
+          "summary": "हरियाणा विद्यालय शिक्षा बोर्ड ने वीरवार दोपहर एक बजे दसवीं कक्षा का परीक्षा परिणाम जारी किया। इस वर्ष 16 परीक्षार्थियों ने प्रथम तीन स्थानों पर कब्जा किया। यह पिछले तीन वर्षों में बोर्ड का सबसे खराब प्रदर्शन है। हरियाणा विद्यालय शिक्षा बोर्ड द्वारा वीरवार दोपहर एक बजे दसवीं कक्षा का परीक्षा परिणाम बोर्ड की आधिकारिक वेबसाइट पर जारी कर दिया है।",
+          "region": "दुनिया"
         }
       }
     },
@@ -471,32 +405,14 @@
       "sources": [],
       "published_at": "2026-05-14T06:28:00+00:00",
       "image_url": "https://images.pexels.com/photos/8850837/pexels-photo-8850837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि वैश्विक अनिश्चितता के दौर में ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की उम्मीदें बढ़ रही हैं। वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें: जयशंकर IANS LIVE।",
+      "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि वैश्विक अनिश्चितता के दौर में ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की उम्मीदें बढ़ रही हैं। वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें: जयशंकर IANS LIVE। वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें: जयशंकर IANS LIVE।",
       "region": "Global / Multilateral",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें : जयशंकर",
-          "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि वैश्विक अनिश्चितता के दौर में ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की उम्मीदें बढ़ रही हैं। वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें: जयशंकर IANS LIVE।",
+          "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि वैश्विक अनिश्चितता के दौर में ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की उम्मीदें बढ़ रही हैं। वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें: जयशंकर IANS LIVE। वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें: जयशंकर IANS LIVE।",
           "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "एनआईए ने कोर्ट में दाखिल की चार्जशीट, 10 आरोपियों के खिलाफ 7500 पन्नों में आरोपपत्र",
-      "url": "https://www.amarujala.com/delhi-ncr/delhi-red-fort-blast-case-update-nia-files-charge-sheet-in-delhi-blast-case-2026-05-14",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-14T06:25:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/12/delhi-blast_b2ba5e0638c042f7dbb60fb4c14c094d.jpeg?w=750&dpr=1.0",
-      "summary": "एनआईए ने नवंबर 2025 में दिल्ली के लाल किले इलाके में हुए कार बम धमाके के मामले में 10 आरोपियों के खिलाफ 7500 पन्नों की चार्जशीट कोर्ट में दाखिल की। दिल्ली के लाल किले इलाके में नवंबर 2025 में हुए कार बम धमाके मामले में एनआईए ने 10 आरोपियों के खिलाफ चार्जशीट दाखिल की है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एनआईए ने कोर्ट में दाखिल की चार्जशीट, 10 आरोपियों के खिलाफ 7500 पन्नों में आरोपपत्र",
-          "summary": "एनआईए ने नवंबर 2025 में दिल्ली के लाल किले इलाके में हुए कार बम धमाके के मामले में 10 आरोपियों के खिलाफ 7500 पन्नों की चार्जशीट कोर्ट में दाखिल की। दिल्ली के लाल किले इलाके में नवंबर 2025 में हुए कार बम धमाके मामले में एनआईए ने 10 आरोपियों के खिलाफ चार्जशीट दाखिल की है।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -519,42 +435,6 @@
       }
     },
     {
-      "title": "वकील के अवतार में दिखीं ममता बनर्जी: कलकत्ता हाई कोर्ट पहुंचीं पूर्व सीएम, चुनाव के बाद हिंसा मामले",
-      "url": "https://www.amarujala.com/india-news/former-cm-mamata-banerjee-arrives-at-hc-in-a-lawyer-s-attire-in-connection-with-post-poll-violence-pil-case-2026-05-14",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-14T06:04:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/former-cm-mamata-banerjee-arrives-at-hc-in-a-lawyers-attire-in-connection-with-post-poll-violence_7ccd5fe0283f83068fbde00af2e87393.jpeg?w=750&dpr=1.0",
-      "summary": "पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी चुनाव के बाद हुई हिंसा से संबंधित एक मामले में वकील के लिबास में कलकत्ता हाई कोर्ट पहुंचीं। वकील के अवतार में दिखीं ममता बनर्जी: कलकत्ता हाई कोर्ट पहुंचीं पूर्व सीएम, चुनाव के बाद हिंसा मामले।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वकील के अवतार में दिखीं ममता बनर्जी: कलकत्ता हाई कोर्ट पहुंचीं पूर्व सीएम, चुनाव के बाद हिंसा मामले",
-          "summary": "पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी चुनाव के बाद हुई हिंसा से संबंधित एक मामले में वकील के लिबास में कलकत्ता हाई कोर्ट पहुंचीं। वकील के अवतार में दिखीं ममता बनर्जी: कलकत्ता हाई कोर्ट पहुंचीं पूर्व सीएम, चुनाव के बाद हिंसा मामले।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'बदलती विश्व व्यवस्था के बीच ब्रिक्स पर टिकी दुनिया की नजर', एस जयशंकर बोले- वैश्विक स्थिरता के लिए",
-      "url": "https://www.amarujala.com/india-news/eam-s-jaishankar-brics-foreign-ministers-meetings-new-delhi-dialogue-framework-updates-hindi-news-2026-05-14",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-14T06:02:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/brics_2f9b18c26ed9b772857a19955aa12ee0.jpeg?w=750&dpr=1.0",
-      "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि ब्रिक्स समूह वैश्विक स्थिरता के लिए महत्वपूर्ण है। उन्होंने नई दिल्ली में ब्रिक्स विदेश मंत्रियों की बैठक में सहयोग और सहमति पर जोर दिया। 80 से अधिक ब्रिक्स बैठकें सफल रही हैं। 'बदलती विश्व व्यवस्था के बीच ब्रिक्स पर टिकी दुनिया की नजर', एस जयशंकर बोले- वैश्विक स्थिरता के लिए।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'बदलती विश्व व्यवस्था के बीच ब्रिक्स पर टिकी दुनिया की नजर', एस जयशंकर बोले- वैश्विक स्थिरता के लिए",
-          "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि ब्रिक्स समूह वैश्विक स्थिरता के लिए महत्वपूर्ण है। उन्होंने नई दिल्ली में ब्रिक्स विदेश मंत्रियों की बैठक में सहयोग और सहमति पर जोर दिया। 80 से अधिक ब्रिक्स बैठकें सफल रही हैं। 'बदलती विश्व व्यवस्था के बीच ब्रिक्स पर टिकी दुनिया की नजर', एस जयशंकर बोले- वैश्विक स्थिरता के लिए।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "क्या ईरान समुद्र में बिछा रहा माइन? UN में अमेरिका का बड़ा आरोप, समर्थन में आए 113 देश",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTd2R3BfY3pYVEJ3RHVCNTdKS01WaUxlTWFRYUJKSmJ2Ymo2aW9EbUsySV8zUzl0Y1M1TmdnOXlFSE1QU0N0N2t0NVFJaURvdGV2QVg1QXVMZk11T1FtUURfVlV4MEJ1U0JJaHJreHR4YzhvVkk5WDN1elVYU2w0X3A4QUNrdHQ3TFJTTmdmYzBfWHh1T1U3aW5YYWdFOERzNXFlLTlhRkx0a0lRdDZj?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -573,27 +453,9 @@
       }
     },
     {
-      "title": "व्हाइट हाउस बोला- सिर्फ औपचारिकता निभाने नहीं गए हैं ट्रंप; ताइवान मुद्दा सबसे अहम",
-      "url": "https://www.amarujala.com/live/world/us-president-trump-china-visit-live-chinese-president-xi-jinping-us-china-relations-trump-jinping-meeting-2026-05-14",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-14T05:35:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/us-president-trump-china-visit-live-chinese-president-xi-jinping-us-china-relations-trump-jinping_e44d582ecf49419fd8a3b0cf19a3cca7.gif?w=750&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति ट्रंप ने चीनी राष्ट्रपति जिनपिंग को महान नेता बताया। जिनपिंग ने कहा कि वे साझेदार हैं, प्रतिद्वंद्वी नहीं। बीजिंग में ट्रंप का औपचारिक स्वागत हुआ। ट्रंप ने चीनी राष्ट्रपति को बताया महान नेता; जिनपिंग बोले- हम साझेदार, प्रतिद्वंद्वी नहीं। व्हाइट हाउस बोला- सिर्फ औपचारिकता निभाने नहीं गए हैं ट्रंप; ताइवान मुद्दा सबसे अहम।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "व्हाइट हाउस बोला- सिर्फ औपचारिकता निभाने नहीं गए हैं ट्रंप; ताइवान मुद्दा सबसे अहम",
-          "summary": "अमेरिकी राष्ट्रपति ट्रंप ने चीनी राष्ट्रपति जिनपिंग को महान नेता बताया। जिनपिंग ने कहा कि वे साझेदार हैं, प्रतिद्वंद्वी नहीं। बीजिंग में ट्रंप का औपचारिक स्वागत हुआ। ट्रंप ने चीनी राष्ट्रपति को बताया महान नेता; जिनपिंग बोले- हम साझेदार, प्रतिद्वंद्वी नहीं। व्हाइट हाउस बोला- सिर्फ औपचारिकता निभाने नहीं गए हैं ट्रंप; ताइवान मुद्दा सबसे अहम।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "ताइवान पर चीन की अमेरिका को सख्त चेतावनी, शी जिनपिंग बोले- गलत कदम से छिड़ सकता है संघर्ष",
       "url": "https://www.amarujala.com/world/china-issues-stern-warning-to-us-on-taiwan-xi-jinping-says-wrong-move-could-trigger-conflict-2026-05-14",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-14T05:10:48+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/danalda-tarapa-oura-sha-janapaga_593c885f6c4b4cfedb0db60aa502edeb.jpeg?w=750&dpr=1.0",
@@ -645,24 +507,6 @@
       }
     },
     {
-      "title": "'नाकामी वापसी का रास्ता दिखाती है', शतक के बाद विराट कोहली का दिल जीतने वाला बयान",
-      "url": "https://www.amarujala.com/cricket/failures-put-you-in-a-place-to-come-back-virat-kohli-after-stunning-century-rcb-vs-kkr-ipl-2026-2026-05-14",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-14T04:47:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/virat-kohli-kohli-century-rcb-vs-kkr-ipl-2026-virat-kohli-statement-kohli-records-rajat-patid_7666f5e4476ed9917d28370210757720.jpeg?w=750&dpr=1.0",
-      "summary": "विराट कोहली ने केकेआर के खिलाफ नाबाद 100 रन बनाए। आरसीबी ने यह मैच छह विकेट से जीता। कोहली ने कहा कि असफलताएं वापसी का रास्ता दिखाती हैं। विराट कोहली ने लगातार दो शून्य के बाद शानदार नाबाद शतक लगाकर आरसीबी को केकेआर पर छह विकेट से जीत दिलाई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'नाकामी वापसी का रास्ता दिखाती है', शतक के बाद विराट कोहली का दिल जीतने वाला बयान",
-          "summary": "विराट कोहली ने केकेआर के खिलाफ नाबाद 100 रन बनाए। आरसीबी ने यह मैच छह विकेट से जीता। कोहली ने कहा कि असफलताएं वापसी का रास्ता दिखाती हैं। विराट कोहली ने लगातार दो शून्य के बाद शानदार नाबाद शतक लगाकर आरसीबी को केकेआर पर छह विकेट से जीत दिलाई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNE8yeHF1WDVXXzJhOHlLOW9qRW9NNEdLdFd2Uno4aDVySGo4RXV5bngtZDdBWUpGRGVhZWJ4amNHUEplMnVKb21kX29WX2diQU9rZDV4TnVuWnJkOGZabS1oVkJrdWdXN3BiLTVDV0VZeXJiV3pWMnBTM1VxSHVtX0hFSzF2dEhleW9nb0NTckpvc2lxTW5sZEJsczJBQTFILVQ3ZnpoY09DMTJsb3hUYktqNHdsdHgtNXczdG5HTV9ST3FHVjZJT2c4QnRsb2RzSHQteElpQWN3RXZhdk5KVkFPMmE4VjRxaEZ4NUw4X0Q0WjDSAfgBQVVfeXFMUDFkUXRsVXl3cnc0aTc2MWpybmNYZ3JTdmNhRHp1dXhiOUV1X2ZFLUNHVXkxazl6VlY2VkhiLVVfeFI5OTdKaVVPdVkzOGU0Tjh0MXhJa2dIUUJYVTVfaEFWdng3Z0Qtd2l1V1IzSGFpbjJPWE5oMHF6Z2Nub0xHQTdWNVQ1V1AwT3VfUXBqelZNaGhndER2UlVNZlZNY1RnbWJCZ1JFTDZOeUJ2WUNWZTh3d0F3ZlVNYkhNV1J1aFU3QURybnBNZnA4djZjbC1YM3dWaE90SXp6bmRKZkd0YmNEVkR0eDRybkV1UzBkMDNOdERZY1M1UEk?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -681,20 +525,128 @@
       }
     },
     {
-      "title": "बीएसएफ मुख्यालय ब्लास्ट का आरोपी गिरफ्तार, गैंगस्टर शहजाद भट्टी के इशारे पर किया था धमाका",
-      "url": "https://www.amarujala.com/punjab/jalandhar/crime/accused-of-attack-on-jalandhar-bsf-headquarters-arrested-all-update-2026-05-14",
+      "title": "अमर उजाला संवाद उत्तर प्रदेश 2026 में जुटेंगे राजनीति से सिनेमा तक देश के चर्चित चेहरे",
+      "url": "https://www.amarujala.com/lucknow/amar-ujala-samvad-famous-faces-from-politics-to-cinema-will-gather-in-uttar-pradesh-2026-2026-05-14",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-14T04:36:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/06/jalandhar-blast_2cd31e15bf1935695716c67917ed452b.jpeg?w=750&dpr=1.0",
-      "summary": "जालंधर में सीमा सुरक्षा बल मुख्यालय के बाहर हुए विस्फोट के एक आरोपी को गिरफ्तार किया गया है। पुलिस के अनुसार, उसने गैंगस्टर शहजाद भट्टी के निर्देश पर यह धमाका किया था। जालंधर में बीएसएफ मुख्यालय के बाहर ब्लास्ट के आरोपी को पुलिस ने गिरफ्तार कर लिया है।",
+      "published_at": "2026-05-14T04:25:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/amara-ujal-savatha_3e8c56619ea932dccc115609aa71a1aa.jpeg?w=750&dpr=1.0",
+      "summary": "अमर उजाला समूह 18 और 19 मई को 'अमर उजाला संवाद उत्तर प्रदेश 2026' का आयोजन कर रहा है। यह आयोजन राजनीति, सिनेमा और अन्य क्षेत्रों के चर्चित चेहरों को एक साथ लाएगा। यह समूह के 78 वर्षों के इतिहास का एक महत्वपूर्ण पड़ाव होगा।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बीएसएफ मुख्यालय ब्लास्ट का आरोपी गिरफ्तार, गैंगस्टर शहजाद भट्टी के इशारे पर किया था धमाका",
-          "summary": "जालंधर में सीमा सुरक्षा बल मुख्यालय के बाहर हुए विस्फोट के एक आरोपी को गिरफ्तार किया गया है। पुलिस के अनुसार, उसने गैंगस्टर शहजाद भट्टी के निर्देश पर यह धमाका किया था। जालंधर में बीएसएफ मुख्यालय के बाहर ब्लास्ट के आरोपी को पुलिस ने गिरफ्तार कर लिया है।",
+          "title": "अमर उजाला संवाद उत्तर प्रदेश 2026 में जुटेंगे राजनीति से सिनेमा तक देश के चर्चित चेहरे",
+          "summary": "अमर उजाला समूह 18 और 19 मई को 'अमर उजाला संवाद उत्तर प्रदेश 2026' का आयोजन कर रहा है। यह आयोजन राजनीति, सिनेमा और अन्य क्षेत्रों के चर्चित चेहरों को एक साथ लाएगा। यह समूह के 78 वर्षों के इतिहास का एक महत्वपूर्ण पड़ाव होगा।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच मुठभेड़, मेजर समेत पांच सैनिकों की मौत",
+      "url": "https://www.amarujala.com/world/soldiers-including-a-major-were-killed-in-an-encounter-between-pakistani-forces-and-militants-in-balochistan-2026-05-14",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-14T03:24:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/08/pakistan-pakistan-army_08ab40ccdc622e161744f690e42300f9.jpeg?w=750&dpr=1.0",
+      "summary": "बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच हुई मुठभेड़ में एक मेजर सहित पांच सैनिक मारे गए। यह घटना क्षेत्र में जारी संघर्ष को दर्शाती है। बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच मुठभेड़, मेजर समेत पांच सैनिकों की मौत।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच मुठभेड़, मेजर समेत पांच सैनिकों की मौत",
+          "summary": "बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच हुई मुठभेड़ में एक मेजर सहित पांच सैनिक मारे गए। यह घटना क्षेत्र में जारी संघर्ष को दर्शाती है। बलूचिस्तान में पाकिस्तानी सेना और लड़ाकों के बीच मुठभेड़, मेजर समेत पांच सैनिकों की मौत।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "35 साल की महिला ने पति को जहर देकर मारा: बच्चों के लिए किताब भी लिखी, अब अदालत से आजीवन कारावास",
+      "url": "https://www.amarujala.com/world/kouri-richins-who-wrote-a-children-s-book-on-grief-after-her-husband-s-death-gets-life-sentence-2026-05-14",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-14T03:02:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/kara-racanasa_e541209ce701d9b4085ddaae998bc3b4.jpeg?w=750&dpr=1.0",
+      "summary": "एक 35 वर्षीय महिला को अपने पति की हत्या के आरोप में आजीवन कारावास की सजा सुनाई गई है। महिला ने पति को जहर देकर मार डाला था। उसने बच्चों के लिए एक किताब भी लिखी थी। 35 साल की महिला ने पति को जहर देकर मारा: बच्चों के लिए किताब भी लिखी, अब अदालत से आजीवन कारावास।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "35 साल की महिला ने पति को जहर देकर मारा: बच्चों के लिए किताब भी लिखी, अब अदालत से आजीवन कारावास",
+          "summary": "एक 35 वर्षीय महिला को अपने पति की हत्या के आरोप में आजीवन कारावास की सजा सुनाई गई है। महिला ने पति को जहर देकर मार डाला था। उसने बच्चों के लिए एक किताब भी लिखी थी। 35 साल की महिला ने पति को जहर देकर मारा: बच्चों के लिए किताब भी लिखी, अब अदालत से आजीवन कारावास।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रूस बोला, 'भारत तेल की चिंता बिल्कुल ना करे', क्या रूस से तेल ख़रीदना जारी रख पाएगा भारत?",
+      "url": "https://www.bbc.com/hindi/articles/cn0p247lzj3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-14T02:51:04+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a776/live/5c980050-4f41-11f1-9f5f-135aae2f430d.jpg",
+      "summary": "भारत के कच्चे तेल आयात में रूस की हिस्सेदारी जुलाई 2024 में 44.6% थी। अमेरिकी दबाव के कारण जनवरी 2026 तक यह घटकर 20.6% रह गई। रूस ने भारत को तेल की चिंता न करने का आश्वासन दिया है। जुलाई 2024 तक भारत के कच्चे तेल आयात में रूस की हिस्सेदारी बढ़कर 44.6 फ़ीसदी तक पहुंच गई थी.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस बोला, 'भारत तेल की चिंता बिल्कुल ना करे', क्या रूस से तेल ख़रीदना जारी रख पाएगा भारत?",
+          "summary": "भारत के कच्चे तेल आयात में रूस की हिस्सेदारी जुलाई 2024 में 44.6% थी। अमेरिकी दबाव के कारण जनवरी 2026 तक यह घटकर 20.6% रह गई। रूस ने भारत को तेल की चिंता न करने का आश्वासन दिया है। जुलाई 2024 तक भारत के कच्चे तेल आयात में रूस की हिस्सेदारी बढ़कर 44.6 फ़ीसदी तक पहुंच गई थी.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "चीन गए ट्रंप, वेंस को याद आई 36 साल पुरानी फिल्म: प्रोटोकॉल से बंधे हैं अमेरिकी उपराष्ट्रपति; क्या",
+      "url": "https://www.amarujala.com/world/feel-like-macaulay-culkin-in-home-alone-says-jd-vance-as-donald-trump-visits-china-2026-05-14",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-14T02:05:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/donald-trump_9f1a7ef34b901b6379a3bfeeec2e75ef.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका के उपराष्ट्रपति जे. डी. वेंस ने चीन की यात्रा के दौरान डोनाल्ड ट्रंप के साथ अपनी तुलना 1990 की फिल्म 'होम अलोन' के एक दृश्य से की। उन्होंने अमेरिकी उपराष्ट्रपति के प्रोटोकॉल का उल्लेख किया। चीन गए ट्रंप, वेंस को याद आई 36 साल पुरानी फिल्म: प्रोटोकॉल से बंधे हैं अमेरिकी उपराष्ट्रपति; क्या।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन गए ट्रंप, वेंस को याद आई 36 साल पुरानी फिल्म: प्रोटोकॉल से बंधे हैं अमेरिकी उपराष्ट्रपति; क्या",
+          "summary": "अमेरिका के उपराष्ट्रपति जे. डी. वेंस ने चीन की यात्रा के दौरान डोनाल्ड ट्रंप के साथ अपनी तुलना 1990 की फिल्म 'होम अलोन' के एक दृश्य से की। उन्होंने अमेरिकी उपराष्ट्रपति के प्रोटोकॉल का उल्लेख किया। चीन गए ट्रंप, वेंस को याद आई 36 साल पुरानी फिल्म: प्रोटोकॉल से बंधे हैं अमेरिकी उपराष्ट्रपति; क्या।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप-शी समिट से लेकर भारत में 45°C हीटवेव अलर्ट तक, सुबह ताजा अपडेट",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbkwtNXJxbkIyLVlLS054cVlYWXkyMDRKN2RSdDhsdWk0VTlXeGRfZHV3UGh4RXVYNm1KNVpXdjJXX0NSMTNEaTNOTWFqeVQ3Nl9GeHJ6NGVLTzFqcTVnVkRTV1ZzUjA1cWtmeWNqUzBqMlQzay0wZGtfcXFYM0FnNS00UUNYdm9LY3hKc0ZaaVlVVW9kd1Bya0o5aEVyeGZ3ODdWenZsTkFvZFJ5ZWw4S1c3UzRPVGhjTzEzNzh3a1ZYdTFISl9UbGNfNVBtSkpJQ25JV0ROblY1Szl2cm56UGJKME4tZGhXMklFOUZONWtQd9IB9wFBVV95cUxObWVOMUc4UElBYlBEWXpaLTJXZ01udENvSXhVaUdYUTlWc0RmemJuSnYtWGNmWTVNZjJ2Xzd4OVRPMzJOS0NSWlhRVGN3UUNhR2ltcEZjcXBCNGRLVGhKeXhXdGFmUm1IMjB5a250Qk1VaEFTbUNVQm9BcFpfTEJ6dFpkV0lkc0d4Z2RVWjFVUlQtR0dIdmFVN1N5RnoyMnl1NzU3ZGoyb1VyY0J6UF9yVWdaeUJWUEoyTHJNZnNUbWI2MjhPcGVUMEU1TE1tWUtkTTVacE5mdnlGRmVOUGQ0Wk1PdzZBbDJ1d0dOUG9FSV9JbE5FYkc4?oc=5",
+      "source": "Google News Hindi (विश्व समाचार)",
+      "sources": [],
+      "published_at": "2026-05-14T01:41:46+00:00",
+      "image_url": "https://images.pexels.com/photos/5650636/pexels-photo-5650636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत के कई हिस्सों में तापमान 45 डिग्री सेल्सियस तक पहुंचने के साथ भीषण गर्मी की चेतावनी जारी की गई है। इस बीच, अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप और चीन के राष्ट्रपति शी जिनपिंग के बीच एक संभावित शिखर सम्मेलन की खबरें भी सामने आई हैं। ये दोनों घटनाएं वैश्विक और क्षेत्रीय स्तर पर महत्वपूर्ण घटनाक्रमों को दर्शाती हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप-शी समिट से लेकर भारत में 45°C हीटवेव अलर्ट तक, सुबह ताजा अपडेट",
+          "summary": "भारत के कई हिस्सों में तापमान 45 डिग्री सेल्सियस तक पहुंचने के साथ भीषण गर्मी की चेतावनी जारी की गई है। इस बीच, अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप और चीन के राष्ट्रपति शी जिनपिंग के बीच एक संभावित शिखर सम्मेलन की खबरें भी सामने आई हैं। ये दोनों घटनाएं वैश्विक और क्षेत्रीय स्तर पर महत्वपूर्ण घटनाक्रमों को दर्शाती हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अराघची बोले- इस्राइल से साठगांठ पड़ेगी महंगी, अरब ने नेतन्याहू के दावों को नकारा",
+      "url": "https://www.amarujala.com/world/iran-warns-against-collusion-with-israel-after-netanyahus-claim-of-uae-visit-2026-05-14",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-14T01:38:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/09/abbas-araghchi_11b65d345a1e6fd14056d671b266c7f4.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान के विदेश मंत्रालय के सलाहकार ने संयुक्त अरब अमीरात को इस्राइल के साथ संबंध बनाने के खिलाफ चेतावनी दी है। उन्होंने कहा कि इस तरह की साठगांठ महंगी पड़ेगी। यह बयान इस्राइल के प्रधानमंत्री बेंजामिन नेतन्याहू के यूएई दौरे के दावों के बाद आया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अराघची बोले- इस्राइल से साठगांठ पड़ेगी महंगी, अरब ने नेतन्याहू के दावों को नकारा",
+          "summary": "ईरान के विदेश मंत्रालय के सलाहकार ने संयुक्त अरब अमीरात को इस्राइल के साथ संबंध बनाने के खिलाफ चेतावनी दी है। उन्होंने कहा कि इस तरह की साठगांठ महंगी पड़ेगी। यह बयान इस्राइल के प्रधानमंत्री बेंजामिन नेतन्याहू के यूएई दौरे के दावों के बाद आया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
