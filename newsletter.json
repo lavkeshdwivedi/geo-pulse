@@ -1,21 +1,45 @@
 {
-  "generated_at": "2026-05-15T22:57:12.678087+00:00",
-  "article_count": 44,
-  "total_unique_count": 364,
+  "generated_at": "2026-05-15T23:57:51.003610+00:00",
+  "article_count": 45,
+  "total_unique_count": 360,
   "digest": {
-    "en": "Tina Peters' commutation dominates US news. CIA director's Cuba visit sparks Latin America memories. European countries sign up to prosecute Russia.",
-    "hi": "हाईकोर्ट के फैसले का काशी में स्वागत हुआ। संतों ने सत्य की विजय बताया। क्रूज जहाज के यात्री ऑस्ट्रेलिया में क्वारंटीन हैं।"
+    "en": "Trump and Xi's summit in Beijing dominates the headlines. The meeting yielded no major breakthroughs on Iran, Taiwan, or AI. Tensions in the Middle East and Africa also draw attention.",
+    "hi": "उत्तर प्रदेश के काशी में एक हाईकोर्ट के फैसले का स्वागत किया गया, संतों ने इसे सत्य की विजय बताया। इस फैसले से सनातन को मजबूती मिलने की बात कही जा रही है। फैसले के बाद काशी में संतों ने जश्न मनाया।"
   },
   "articles": [
+    {
+      "title": "Trump’s lack of focus on human rights in China is big departure for US diplomacy",
+      "url": "https://www.theguardian.com/world/2026/may/16/trumps-lack-of-focus-on-human-rights-in-china-is-big-departure-for-us-diplomacy",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-15T23:30:53+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/3536c46bf5604c5fa8d0d69efc3e07f3301c3a98/134_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=02856792827fe5332a5f1d6b92f67bcf",
+      "summary": "Donald Trump did not raise the case of jailed activist Jimmy Lai with Chinese President Xi Jinping in Beijing. Trump stated he would bring up Lai's case before his departure. He then compared it to asking if he would let former FBI Director James Comey out of jail.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Democratic Colorado governor hopefuls condemn commutation of Tina Peters’ election interference",
       "url": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-05-15T22:38:00+00:00",
+      "published_at": "2026-05-15T23:22:40+00:00",
       "image_url": "https://i.guim.co.uk/img/media/e135f473f2a261ef932d49d4d31d442bb1716f19/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=11a45a815ed2a6309cbfe8eab063332e",
       "summary": "Steve Cohen will not seek re-election to the U. S. House of Representatives. Tennessee's Republican-controlled legislature redrew his Memphis-based district. Cohen stated the new map was designed to defeat him. He has represented the ninth congressional district since 2007.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Where is Dela Rosa? Philippine senator outmanoeuvres president in evading arrest",
+      "url": "https://www.theguardian.com/world/2026/may/16/dela-rosa-week-chaos-philippines",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-15T23:01:53+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/27cdc4abe33f967cc09c8399af2eee8c0f9afc0b/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ef76a131a04f42f0db51441be1ffdfe0",
+      "summary": "Senator Ronald dela Rosa evaded arrest at the Philippine Senate building. Chaotic week in which enforcer of ‘war on drugs’ flees senate building leaves government looking ‘incompetent’The wanted man outran security agents, rallied protesters and even serenaded the media with a military hymn. Then, after a sudden exchange of gunfire, the Philippines’ most controversial lawmaker slipped out of the heavily guarded senate building in the middle of the night. Senator Ronald d.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -104,18 +128,6 @@
       "translations": {}
     },
     {
-      "title": "Trump and Xi’s suits put ‘chameleon effect’ to test in Beijing",
-      "url": "https://www.theguardian.com/us-news/2026/may/15/trump-xi-put-mirroring-suits-beijing",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-15T12:00:39+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/881191cc0e277367a684d63754c390c7eb518976/329_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e2ac0342b8c896ea1e436481f8c459a7",
-      "summary": "Donald Trump and Xi Jinping wore strikingly similar blue suits during their Mirroring of each other’s attire may signal alignment – though the look wasn’t a huge departure for either leaderWhen Donald Trump and Xi Jinping met for a welcome ceremony in Tiananmen Square this week with the world’s gaze on them, they mirrored one another in strikingly similar suits. Both were blue, single-breasted with flap pockets.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Somalia at ‘real risk of famine’ as Middle East war fallout continues",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167516",
       "source": "UN News",
@@ -152,6 +164,18 @@
       "translations": {}
     },
     {
+      "title": "Death toll in attack on Kyiv apartment building now stands at 24",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24",
+      "source": "NPR World",
+      "sources": [],
+      "published_at": "2026-05-15T09:28:02+00:00",
+      "image_url": "https://images.pexels.com/photos/11734701/pexels-photo-11734701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The death toll from a Russian cruise missile strike on a Kyiv Ukrainian President Volodymyr Zelenskyy led an official day of mourning in Kyiv a day after a Russian cruise missile flattened an apartment building. It was one of the deadliest attacks on the capital in the 4-year-old war.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "CIA director has met officials in Havana for talks, Cuba claims",
       "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
       "source": "The Guardian",
@@ -160,18 +184,6 @@
       "image_url": "https://i.guim.co.uk/img/media/a8bcf3fbaa3398e63d08522202b9f6c167d23861/634_0_5413_4333/master/5413.jpg?width=140&quality=85&auto=format&fit=max&s=199dc0397fd2cfebc0b6bfa1e52a9ba2",
       "summary": "CIA Director John Ratcliffe met Cuban officials in Havana. The Cuban government stated the meeting aimed to improve dialogue. This occurred amid complex bilateral relations between the two countries. CIA director has met officials in Havana for talks, Cuba claims.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Newsom condemns GOP redistricting efforts; Louisiana approves plan to erase majority-Black district",
-      "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-14T23:26:27+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/371836fe8d37e507d7a9f53539b8ab7892ed5d2a/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=69238167a415139440e0af13e93b227f",
-      "summary": "U. S. President Trump arrived in Beijing for high-stakes talks with Xi Jinping. Security is heightened as trade, AI, and the war in Iran are set to dominate the summit. The leaders aim to improve the bilateral relationship.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -267,9 +279,63 @@
       }
     },
     {
+      "title": "होर्मुज पर भारत का रुख क्या?: मुश्किल वैश्विक हालात में UAE के साथ समझौते, विशेषज्ञ बोले- होंगे",
+      "url": "https://www.amarujala.com/world/india-on-hormuz-agreements-with-uae-amid-challenging-global-conditions-experts-say-far-reaching-implications-2026-05-16",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-15T23:53:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/pm-modi-uae-visit-pm-modi-arrives-on-a-visit-to-the-united-arab-emirates-will-meet-president-al-na_74b493b96daf51779d7dd99e7e0d7762.jpeg?w=750&dpr=1.0",
+      "summary": "भारत ने संयुक्त अरब अमीरात के साथ एक मुक्त व्यापार समझौते पर हस्ताक्षर किए हैं। यह समझौता होर्मुज जलडमरूमध्य के पास भारत के बढ़ते भू-राजनीतिक हितों को दर्शाता है। विशेषज्ञ इस समझौते के दूरगामी प्रभावों की उम्मीद कर रहे हैं। होर्मुज पर भारत का रुख क्या?: मुश्किल वैश्विक हालात में UAE के साथ समझौते, विशेषज्ञ बोले- होंगे दूरगामी प्रभाव।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज पर भारत का रुख क्या?: मुश्किल वैश्विक हालात में UAE के साथ समझौते, विशेषज्ञ बोले- होंगे",
+          "summary": "भारत ने संयुक्त अरब अमीरात के साथ एक मुक्त व्यापार समझौते पर हस्ताक्षर किए हैं। यह समझौता होर्मुज जलडमरूमध्य के पास भारत के बढ़ते भू-राजनीतिक हितों को दर्शाता है। विशेषज्ञ इस समझौते के दूरगामी प्रभावों की उम्मीद कर रहे हैं। होर्मुज पर भारत का रुख क्या?: मुश्किल वैश्विक हालात में UAE के साथ समझौते, विशेषज्ञ बोले- होंगे दूरगामी प्रभाव।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "श्रीश्री रवि शंकर का 70वां जन्मोत्सव: CM फडणवीस ने बताया आध्यात्मिक दूत, जुटीं देश-दुनिया की कई",
+      "url": "https://www.amarujala.com/india-news/sri-sri-ravi-shankars-70th-birthday-celebration-cm-fadnavis-hails-him-spiritual-ambassador-prominent-figures-2026-05-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-15T23:48:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/janamathana-para-pahaca-saema-fadanaevasa_ce400c00cdcaf698f85f730d65356b0d.gif?w=750&dpr=1.0",
+      "summary": "महाराष्ट्र के मुख्यमंत्री देवेंद्र फडणवीस ने श्रीश्री रविशंकर को आध्यात्मिक दूत बताया। यह उनके 70वें जन्मदिन के अवसर पर हुआ। इस समारोह में देश और दुनिया की कई बड़ी हस्तियां शामिल हुईं। श्रीश्री रवि शंकर का 70वां जन्मोत्सव: CM फडणवीस ने बताया आध्यात्मिक दूत, जुटीं देश-दुनिया की कई बड़ी हस्तियां।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "श्रीश्री रवि शंकर का 70वां जन्मोत्सव: CM फडणवीस ने बताया आध्यात्मिक दूत, जुटीं देश-दुनिया की कई",
+          "summary": "महाराष्ट्र के मुख्यमंत्री देवेंद्र फडणवीस ने श्रीश्री रविशंकर को आध्यात्मिक दूत बताया। यह उनके 70वें जन्मदिन के अवसर पर हुआ। इस समारोह में देश और दुनिया की कई बड़ी हस्तियां शामिल हुईं। श्रीश्री रवि शंकर का 70वां जन्मोत्सव: CM फडणवीस ने बताया आध्यात्मिक दूत, जुटीं देश-दुनिया की कई बड़ी हस्तियां।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "घटिया अंडे बेचने के आरोप पर एफएसएसएआई सख्त; भ्रामक दावों पर सीसीपीए ने दो कोचिंग पर ठोका जुर्माना",
+      "url": "https://www.amarujala.com/business/business-diary/business-updates-fssai-egg-blinkit-notice-sebi-share-mkt-usd-inr-value-commerce-trade-import-export-hindi-news-2026-05-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-15T23:17:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/12/bjanasa-nayaja-eda-apadatasa_7f2f68f2e5b4d9ee8db3f982d3b51abb.jpeg?w=750&dpr=1.0",
+      "summary": "एफएसएसएआई ने घटिया अंडे बेचने के आरोप पर सख्ती दिखाई. सीसीपीए ने दो कोचिंग पर भ्रामक दावों के लिए जुर्माना लगाया. Biz Updates: घटिया अंडे बेचने के आरोप पर एफएसएसएआई सख्त; भ्रामक दावों पर सीसीपीए ने दो कोचिंग पर ठोका जुर्माना।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "घटिया अंडे बेचने के आरोप पर एफएसएसएआई सख्त; भ्रामक दावों पर सीसीपीए ने दो कोचिंग पर ठोका जुर्माना",
+          "summary": "एफएसएसएआई ने घटिया अंडे बेचने के आरोप पर सख्ती दिखाई. सीसीपीए ने दो कोचिंग पर भ्रामक दावों के लिए जुर्माना लगाया. Biz Updates: घटिया अंडे बेचने के आरोप पर एफएसएसएआई सख्त; भ्रामक दावों पर सीसीपीए ने दो कोचिंग पर ठोका जुर्माना।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "क्रूज जहाज के छह यात्री ऑस्ट्रेलिया में तीन सप्ताह के लिए क्वारंटीन, अब तक कितनी मौतें?",
       "url": "https://www.amarujala.com/world/hantavirus-outbreak-cruise-ship-passengers-quarantine-in-australia-how-many-deaths-so-far-who-advisory-news-2026-05-16",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-15T22:55:01+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/hantavirus_b60830056124c20d84b72591b1aa86d6.jpeg?w=750&dpr=1.0",
@@ -287,7 +353,7 @@
     {
       "title": "गाजा में हमास का बड़ा हवाई हमला, निशाने पर हमास का सबसे बड़ा कमांडर; कई लोगों की मौत",
       "url": "https://www.amarujala.com/world/israeli-airstrike-in-gaza-hamas-top-commander-targeted-several-killed-2026-05-16",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-15T22:38:41+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/14/isarail-ka-parathhanamatara-bjamana-natanayaha_5e476d6645dc2b580260525982417c3d.jpeg?w=750&dpr=1.0",
@@ -339,7 +405,7 @@
       }
     },
     {
-      "title": "नाइजीरिया में स्कूल पर जिहादी हमला, कई छात्र लापता; गाजा में हमास के सैन्य प्रमुख को निशाना बनाकर",
+      "title": "नाइजीरियाई स्कूल पर जिहादी हमला, कई छात्र लापता; श्रीलंका में वीजा नियम उल्लंघन पर तीन भारतीय",
       "url": "https://www.amarujala.com/world/world-news-updates-nigeria-school-attack-hamas-military-chief-in-gaza-west-asia-un-nepal-china-russia-ukraine-2026-05-16",
       "source": "Amar Ujala World",
       "sources": [],
@@ -350,99 +416,9 @@
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "नाइजीरिया में स्कूल पर जिहादी हमला, कई छात्र लापता; गाजा में हमास के सैन्य प्रमुख को निशाना बनाकर",
+          "title": "नाइजीरियाई स्कूल पर जिहादी हमला, कई छात्र लापता; श्रीलंका में वीजा नियम उल्लंघन पर तीन भारतीय",
           "summary": "नाइजीरिया में एक स्कूल पर जिहादी हमला हुआ, जिसमें कई छात्र लापता हो गए। इसी बीच, गाजा में हमास के सैन्य प्रमुख को निशाना बनाकर हमला किया गया। World: नाइजीरिया में स्कूल पर जिहादी हमला, कई छात्र लापता; गाजा में हमास के सैन्य प्रमुख को निशाना बनाकर हमला।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भोजशाला के फैसले पर भड़के ओवैसी,बाबरी विवाद से तुलना कर कही दी ये बड़ी बात!",
-      "url": "https://www.amarujala.com/video/india-news/dhar-bhojshala-verdict-owaisi-gets-angry-over-bhojshala-verdict-compares-it-to-babri-dispute-and-says-this-b-2026-05-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-15T22:00:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/dhar-bhojshala-verdict_4bbb151f2675d3a0711f1a4262dc8a91.jpeg?w=750&dpr=1.0",
-      "summary": "असदुद्दीन ओवैसी ने धार भोजशाला के फैसले पर प्रतिक्रिया दी Dhar Bhojshala Verdict:भोजशाला के फैसले पर भड़के ओवैसी, बाबरी विवाद से तुलना कर कही दी ये बड़ी बात!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भोजशाला के फैसले पर भड़के ओवैसी,बाबरी विवाद से तुलना कर कही दी ये बड़ी बात!",
-          "summary": "असदुद्दीन ओवैसी ने धार भोजशाला के फैसले पर प्रतिक्रिया दी Dhar Bhojshala Verdict:भोजशाला के फैसले पर भड़के ओवैसी, बाबरी विवाद से तुलना कर कही दी ये बड़ी बात!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राजस्थान में NEET अभ्यर्थी ने दी जान; दिग्विजय सिंह बोले- धार भोजशाला पर सुप्रीम कोर्ट करे अंतिम",
-      "url": "https://www.amarujala.com/india-news/national-news-updates-16th-may-north-east-west-south-india-neet-2026-politics-crime-hindi-samachar-2026-05-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-15T21:52:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_bc25c16d5cf7783ca896c1749fa5ceab.jpeg?w=750&dpr=1.0",
-      "summary": "राजस्थान के हनुमानगढ़ में एक NEET अभ्यर्थी ने परीक्षा में कथित तौर पर कम अंक आने के कारण आत्महत्या कर ली। इस घटना के बाद कांग्रेस नेता दिग्विजय सिंह ने कहा कि धार की भोजशाला पर सुप्रीम कोर्ट को अंतिम फैसला सुनाना चाहिए। उन्होंने परीक्षा प्रणाली पर भी सवाल उठाए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राजस्थान में NEET अभ्यर्थी ने दी जान; दिग्विजय सिंह बोले- धार भोजशाला पर सुप्रीम कोर्ट करे अंतिम",
-          "summary": "राजस्थान के हनुमानगढ़ में एक NEET अभ्यर्थी ने परीक्षा में कथित तौर पर कम अंक आने के कारण आत्महत्या कर ली। इस घटना के बाद कांग्रेस नेता दिग्विजय सिंह ने कहा कि धार की भोजशाला पर सुप्रीम कोर्ट को अंतिम फैसला सुनाना चाहिए। उन्होंने परीक्षा प्रणाली पर भी सवाल उठाए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पालघर सड़क हादसे में दो की मौत, चांदी की ईंटें ले जा रही वैन ट्रेलर से टकराई",
-      "url": "https://www.amarujala.com/india-news/maharashtra-updates-palghar-road-accident-mumbai-pune-nagpur-bjp-sena-politics-crime-and-other-hindi-news-2026-05-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-15T21:40:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=750&dpr=1.0",
-      "summary": "पालघर में एक ट्रेलर से टकराने के बाद चांदी की ईंटें ले जा रही एक वैन में सवार दो लोगों की मौत हो गई। यह घटना मुंबई-अहमदाबाद राजमार्ग पर हुई। पुलिस ने मामला दर्ज कर लिया है और आगे की जांच कर रही है। Maharashtra Updates: पालघर सड़क हादसे में दो की मौत, चांदी की ईंटें ले जा रही वैन ट्रेलर से टकराई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पालघर सड़क हादसे में दो की मौत, चांदी की ईंटें ले जा रही वैन ट्रेलर से टकराई",
-          "summary": "पालघर में एक ट्रेलर से टकराने के बाद चांदी की ईंटें ले जा रही एक वैन में सवार दो लोगों की मौत हो गई। यह घटना मुंबई-अहमदाबाद राजमार्ग पर हुई। पुलिस ने मामला दर्ज कर लिया है और आगे की जांच कर रही है। Maharashtra Updates: पालघर सड़क हादसे में दो की मौत, चांदी की ईंटें ले जा रही वैन ट्रेलर से टकराई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जानें शनि देव की पूजा में किन चीजों का होना माना जाता है शुभ",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/shani-jayanti-2026-puja-these-auspicious-items-are-considered-important-for-worshipping-shani-dev-2026-05-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-15T21:17:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/shani-jayanti_c0d251b8034c7fc591fe83681a92ab87.jpeg?w=750&dpr=1.0",
-      "summary": "शनि जयंती पर शनिदेव की विशेष पूजा का महत्व बताया गया शनि जयंती पर शनिदेव को प्रसन्न करने के लिए विशेष पूजा का महत्व है। जानें शनि पूजा में कौन-सी सामग्री सबसे जरूरी मानी जाती है और किन चीजों के बिना अधूरी रहती है पूजा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जानें शनि देव की पूजा में किन चीजों का होना माना जाता है शुभ",
-          "summary": "शनि जयंती पर शनिदेव की विशेष पूजा का महत्व बताया गया शनि जयंती पर शनिदेव को प्रसन्न करने के लिए विशेष पूजा का महत्व है। जानें शनि पूजा में कौन-सी सामग्री सबसे जरूरी मानी जाती है और किन चीजों के बिना अधूरी रहती है पूजा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ज्येष्ठ अमावस्या पर जरूर करें इन पितृ मंत्रों का जाप, जीवन से दूर होगा आर्थिक संकट",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/yeshtha-amavasya-2026-mantras-powerful-chants-to-remove-pitru-dosha-and-stop-financial-problems-2026-05-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-15T21:17:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/jayashhatha-maha-matara-japa_2fad185511ac967db6f63868ed284ee9.jpeg?w=750&dpr=1.0",
-      "summary": "ज्येष्ठ अमावस्या पर पितृ मंत्रों का जाप करने से पितरों का आशीर्वाद मिलता है। यह पितृ दोष दूर करने और धन हानि रोकने में मदद करता है। पितृ तर्पण करने से भी पितरों को प्रसन्न किया जा सकता है। ज्येष्ठ अमावस्या पर इन विशेष मंत्रों का जाप और पितृ तर्पण करने से पितरों का आशीर्वाद प्राप्त होता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ज्येष्ठ अमावस्या पर जरूर करें इन पितृ मंत्रों का जाप, जीवन से दूर होगा आर्थिक संकट",
-          "summary": "ज्येष्ठ अमावस्या पर पितृ मंत्रों का जाप करने से पितरों का आशीर्वाद मिलता है। यह पितृ दोष दूर करने और धन हानि रोकने में मदद करता है। पितृ तर्पण करने से भी पितरों को प्रसन्न किया जा सकता है। ज्येष्ठ अमावस्या पर इन विशेष मंत्रों का जाप और पितृ तर्पण करने से पितरों का आशीर्वाद प्राप्त होता है।",
-          "region": "दुनिया"
         }
       }
     },
@@ -465,24 +441,6 @@
       }
     },
     {
-      "title": "MSCC ने कहा- शिकायत में गंभीर मुद्दे; कंपनी बोली- चैरिटी आयुक्त का आदेश एकतरफा",
-      "url": "https://www.amarujala.com/business/business-diary/tata-trusts-meeting-postponed-mscc-cites-serious-issues-in-complaint-know-charity-commissioner-order-details-2026-05-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-15T21:07:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/08/tata-trust_9eb05f6494bce710ede46bce81a2d229.jpeg?w=750&dpr=1.0",
-      "summary": "टाटा ट्रस्ट्स की बैठक स्थगित हो गई। MSCC ने शिकायत में गंभीर मुद्दे बताए। टाटा ट्रस्ट्स की बैठक स्थगित: MSCC ने कहा- शिकायत में गंभीर मुद्दे; कंपनी बोली- चैरिटी आयुक्त का आदेश एकतरफा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "MSCC ने कहा- शिकायत में गंभीर मुद्दे; कंपनी बोली- चैरिटी आयुक्त का आदेश एकतरफा",
-          "summary": "टाटा ट्रस्ट्स की बैठक स्थगित हो गई। MSCC ने शिकायत में गंभीर मुद्दे बताए। टाटा ट्रस्ट्स की बैठक स्थगित: MSCC ने कहा- शिकायत में गंभीर मुद्दे; कंपनी बोली- चैरिटी आयुक्त का आदेश एकतरफा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "'हमें अभी किसी युद्ध की जरूरत नहीं', ताइवान-चीन विवाद पर बोले राष्ट्रपति ट्रंप",
       "url": "https://www.amarujala.com/world/trump-on-taiwan-china-issue-says-last-thing-we-need-right-now-is-a-war-2026-05-16",
       "source": "Amar Ujala Breaking",
@@ -497,24 +455,6 @@
           "title": "'हमें अभी किसी युद्ध की जरूरत नहीं', ताइवान-चीन विवाद पर बोले राष्ट्रपति ट्रंप",
           "summary": "ताइवान-चीन विवाद पर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि उन्हें अभी किसी युद्ध की आवश्यकता नहीं है। उन्होंने यह टिप्पणी तब की जब उनसे ताइवान जलडमरूमध्य में बढ़ते तनाव के बारे में पूछा गया। ट्रंप ने कहा कि वह इस मामले को देख रहे हैं।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पॉक्सो मामले में मंत्री बंडी संजय कुमार के बेटे को हाई कोर्ट से झटका, गिरफ्तारी पर नहीं लगी रोक",
-      "url": "https://www.amarujala.com/india-news/pocso-case-union-minister-bandi-sanjay-kumars-son-fails-to-get-interim-relief-in-high-court-2026-05-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-15T20:33:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/25/bandi-sanjay-kumar_baafd9a14263cd6261c16f4c229788dc.jpeg?w=750&dpr=1.0",
-      "summary": "मंत्री बंडी संजय कुमार के बेटे को हाई कोर्ट से झटका लगा है POCSO Case: पॉक्सो मामले में मंत्री बंडी संजय कुमार के बेटे को हाई कोर्ट से झटका, गिरफ्तारी पर नहीं लगी रोक।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पॉक्सो मामले में मंत्री बंडी संजय कुमार के बेटे को हाई कोर्ट से झटका, गिरफ्तारी पर नहीं लगी रोक",
-          "summary": "मंत्री बंडी संजय कुमार के बेटे को हाई कोर्ट से झटका लगा है POCSO Case: पॉक्सो मामले में मंत्री बंडी संजय कुमार के बेटे को हाई कोर्ट से झटका, गिरफ्तारी पर नहीं लगी रोक।",
-          "region": "दुनिया"
         }
       }
     },
@@ -695,6 +635,78 @@
           "title": "सुधारों के अभाव में संयुक्त राष्ट्र की प्रभावशीलता सीमित : जयशंकर",
           "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि संयुक्त राष्ट्र की प्रभावशीलता सुधारों की कमी के कारण सीमित है। उन्होंने कहा कि आज की भू-राजनीतिक वास्तविकताओं को दर्शाने के लिए संयुक्त राष्ट्र सुरक्षा परिषद में सुधार आवश्यक हैं। जयशंकर ने कहा कि इन सुधारों के बिना, संयुक्त राष्ट्र वैश्विक मुद्दों पर प्रभावी ढंग से कार्य करने में असमर्थ रहेगा।",
           "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "ईरान के खिलाफ क्या अमेरिका शुरू करने वाला है नया ऑपरेशन?",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTVk5TnRhUU9rRmlxSURLaGFZV3Y0bkFHdGs2cUpuTjVwOVFZc0dtall4SXZwallaekVoa3lLaTdwWTNLYVRyQnhVVzByaVFUY0NkQ0tnNktKYWFBM3hqTXBrSllCLThLVERNV0hsRGRrWTk1bFZOLVdBN0JWT3FWUUhzS1VnWVRDTjA5MFpaRlVlcUE3ZFNfNmV2SWo0VjJJX19uX3lyeC1TMFRXNFVKZU43Qk1fNC1TUzNxeTU5NEhGb3FZcWw0UjdiY1JRMGV3RHfSAdcBQVVfeXFMUHRCbzFKalh6YllDdVRkLUZYU29NcGUzeTNOaEJQdEVScTk1ZllpaFljNmQzUE9PTkd5bmQwRk11TXBCNy11M21iXzBsSDRSTUxFaVpDUEdkaUU2eXR4WXFDN0NTSUhSM0tlbXZ0TFdpR3FRQ1U0UUo1aHU5RHN6NGFXMWo5OGtzdHA2YWdMeV9zWk9wQW5oY0cwTGEzczA5RXhuWWwtQjVlR3Y5Q3QtNzgteUhxUEFqMWVwNS10RFN5UXlUbzRLZjhHUTYyY3c2TTRNdHNsazQ?oc=5",
+      "source": "Google News Hindi (विश्व समाचार)",
+      "sources": [],
+      "published_at": "2026-05-15T12:21:19+00:00",
+      "image_url": "https://images.pexels.com/photos/8828624/pexels-photo-8828624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिका ईरान के खिलाफ नया ऑपरेशन शुरू करने की तैयारी कर रहा है। अमेरिकी सेना मध्य पूर्व में अपनी सैन्य उपस्थिति बढ़ा रही है। ईरान के साथ तनाव बढ़ने के बाद यह कदम उठाया जा रहा है। ईरान के खिलाफ क्या अमेरिका शुरू करने वाला है नया ऑपरेशन?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के खिलाफ क्या अमेरिका शुरू करने वाला है नया ऑपरेशन?",
+          "summary": "अमेरिका ईरान के खिलाफ नया ऑपरेशन शुरू करने की तैयारी कर रहा है। अमेरिकी सेना मध्य पूर्व में अपनी सैन्य उपस्थिति बढ़ा रही है। ईरान के साथ तनाव बढ़ने के बाद यह कदम उठाया जा रहा है। ईरान के खिलाफ क्या अमेरिका शुरू करने वाला है नया ऑपरेशन?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका-ईरान वार्ता में बढ़ा अविश्वास, ईरान ने चीन की ओर बढ़ाया कूटनीतिक रुख",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVo1bG1Lblk4NjlGamRwdmFBYi1RMTZ2Zmc1V0JCbXFnWlZpUVhkUkREdlhJTHlYOV9HOU5pT0UzdjV3M3ZGc3RJeUk3UE05NlB6OEJCd3BTRWZ3N3VXRzlwYUtMSWhUVzBfRXdhZzBfTU1nWmFfUGJsT1F0d3pCZG9ETVhnSDR0dzBnQV9mS1RRYVlRS0ViX1NSUU1kMi1vbDloTTJvUmFRbkwxcEo2TXNMTQ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-15T12:09:15+00:00",
+      "image_url": "https://images.pexels.com/photos/4386403/pexels-photo-4386403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिका और ईरान के बीच वार्ता में अविश्वास बढ़ गया है। ईरान ने चीन की ओर कूटनीतिक रुख बढ़ाया है। ईरान के इस कदम से अमेरिका और ईरान के बीच तनाव बढ़ने की संभावना है। अमेरिका-ईरान वार्ता में बढ़ा अविश्वास, ईरान ने चीन की ओर बढ़ाया कूटनीतिक रुख ChiniMandi।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-ईरान वार्ता में बढ़ा अविश्वास, ईरान ने चीन की ओर बढ़ाया कूटनीतिक रुख",
+          "summary": "अमेरिका और ईरान के बीच वार्ता में अविश्वास बढ़ गया है। ईरान ने चीन की ओर कूटनीतिक रुख बढ़ाया है। ईरान के इस कदम से अमेरिका और ईरान के बीच तनाव बढ़ने की संभावना है। अमेरिका-ईरान वार्ता में बढ़ा अविश्वास, ईरान ने चीन की ओर बढ़ाया कूटनीतिक रुख ChiniMandi।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अदानी परिवार अमेरिका में 1.80 करोड़ डॉलर जुर्माना भरने को तैयार, सिविल धोखाधड़ी का है केस",
+      "url": "https://www.bbc.com/hindi/articles/cx210q4wex2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-15T12:01:36+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a37/live/8dcbec30-5055-11f1-82d0-dba52fc3f32a.jpg",
+      "summary": "अदानी परिवार अमेरिका में 1.80 करोड़ डॉलर जुर्माना भरने को तैयार है, सिविल धोखाधड़ी का मामला है। अदानी परिवार पर आरोप है कि उसने हाई प्रोफ़ाइल रिन्युबल एनर्जी प्रोजेक्ट के लिए पैसे जुटाने के समय अमेरिकी निवेशकों को गुमराह किया. अदानी परिवार अमेरिका में 1.80 करोड़ डॉलर जुर्माना भरने को तैयार, सिविल धोखाधड़ी का है केस।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अदानी परिवार अमेरिका में 1.80 करोड़ डॉलर जुर्माना भरने को तैयार, सिविल धोखाधड़ी का है केस",
+          "summary": "अदानी परिवार अमेरिका में 1.80 करोड़ डॉलर जुर्माना भरने को तैयार है, सिविल धोखाधड़ी का मामला है। अदानी परिवार पर आरोप है कि उसने हाई प्रोफ़ाइल रिन्युबल एनर्जी प्रोजेक्ट के लिए पैसे जुटाने के समय अमेरिकी निवेशकों को गुमराह किया. अदानी परिवार अमेरिका में 1.80 करोड़ डॉलर जुर्माना भरने को तैयार, सिविल धोखाधड़ी का है केस।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1EzZ1RLdUNwZGZHNGJxMGJ4a044dTdDa1RKaHJUUmVrTV9oLWtoQ2FQbTh3QVhMTlJhODlSOGRtR1ZGdVYzSnptSjZGT3Q0eHY3eEJCTTlCZ1BVbWZDUU9IYWRBZUFvUmhHWm9RM1BzU194a3VqSU50MFJJamMycHJnVVU1RXo3VXItOHdMWGNlczdVMWoyanhUVnEySjN2bXo0?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-15T11:47:42+00:00",
+      "image_url": "https://images.pexels.com/photos/1464194/pexels-photo-1464194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "माइली की ‘Trump स्टाइल’ कूटनीति अर्जेंटीना में बहस का कारण बनी है। ‘WHO-Exit’: माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस Tehelka Hindi।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस",
+          "summary": "माइली की ‘Trump स्टाइल’ कूटनीति अर्जेंटीना में बहस का कारण बनी है। ‘WHO-Exit’: माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस Tehelka Hindi।",
+          "region": "अमेरिका"
         }
       }
     }
