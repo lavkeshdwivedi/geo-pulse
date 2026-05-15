@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-05-15T10:26:24.862106+00:00",
-  "article_count": 41,
-  "total_unique_count": 382,
+  "generated_at": "2026-05-15T12:55:49.764738+00:00",
+  "article_count": 42,
+  "total_unique_count": 377,
   "digest": {
-    "en": "The US military boat strikes in the Americas and the UNAIDS warning on HIV services dominate headlines. Taiwan's anxious wait for Trump's comments and the Yemen detainee release also capture attention. Extreme weather events in Asia-Pacific add another layer.",
-    "hi": "मध्यप्रदेश हाईकोर्ट का भोजशाला पर फ़ैसला और ब्रिक्स देशों का संयुक्त राष्ट्र पर ज़ोर आज की प्रमुख ख़बरें हैं। यूएई पर हमले और भारत की कूटनीति, तथा भारत-चीन संबंधों पर विशेषज्ञों की राय दूसरी बड़ी ख़बरें हैं। पेट्रोल-डीज़ल की कीमतों में वृद्धि और अग्निवीर योजना पर सरकारी पक्ष भी चर्चा में हैं।"
+    "en": "The China-US summit in Beijing and the ongoing conflict fallout in the Middle East dominate this hour. Extreme weather events across the globe and humanitarian crises in Somalia and DR Congo also register. These stories highlight interconnected challenges from diplomacy to climate.",
+    "hi": "संयुक्त राष्ट्र की प्रभावशीलता पर जयशंकर की टिप्पणी और ब्रिक्स की बैठक में इसकी भूमिका पर जोर, वैश्विक कूटनीति में बहुपक्षीय संस्थानों की निरंतर प्रासंगिकता को रेखांकित करता है। अदानी परिवार द्वारा अमेरिकी जुर्माना भरने की तैयारी और माइली की कूटनीति अर्जेंटीना में क्षेत्रीय तनाव को दर्शाती है।"
   },
   "articles": [
+    {
+      "title": "Trump and Xi’s suits put ‘chameleon effect’ to test in Beijing",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/trump-xi-put-mirroring-suits-beijing",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-15T12:00:39+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/881191cc0e277367a684d63754c390c7eb518976/329_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e2ac0342b8c896ea1e436481f8c459a7",
+      "summary": "Donald Trump and Xi Jinping wore strikingly similar blue suits during their Mirroring of each other’s attire may signal alignment – though the look wasn’t a huge departure for either leaderWhen Donald Trump and Xi Jinping met for a welcome ceremony in Tiananmen Square this week with the world’s gaze on them, they mirrored one another in strikingly similar suits. Both were blue, single-breasted with flap pockets.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Somalia at ‘real risk of famine’ as Middle East war fallout continues",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167516",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-15T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-04-2024-UNICEF-Somalia.jpg/image560x340cropped.jpg",
+      "summary": "UN aid teams warned Somalia faces a real risk of famine. At least six million people in Somalia are going days without enough food, UN aid teams warned on Friday, highlighting that nearly two million of this number are young children “at high risk of illness or death”.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump-Xi accord on Iran elusive as US president’s China trip winds down",
+      "url": "https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-15T10:24:20+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/0e32019caf163081a99e8527f3036af18ac1769a/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=49002016963db1e6797885410f04be95",
+      "summary": "Donald Trump stated the US and China share similar views on ending the war in China calls for ceasefire and opening of seaway, while Donald Trump says Xi feels ‘very similar’ about ending the war in IranTrump in China – latest updatesDonald Trump has claimed that the US and China “feel very similar” about ending the war in Iran but offered no details about a possible breakthrough. The US president was speaking alongside Xi Jinping of China at the Zhongnanhai garden in Beijin.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Furnace Creek sizzles as snow sweeps Siberia in a week of extremes",
       "url": "https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes",
@@ -68,18 +104,6 @@
       "translations": {}
     },
     {
-      "title": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome",
-      "url": "https://www.theguardian.com/world/2026/may/14/taiwan-trump-silence-xi-meeting-best-outcome",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-14T16:24:05+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/ff745b987e37d26eaa31ba369243113b1e426106/445_17_2394_1916/master/2394.jpg?width=140&quality=85&auto=format&fit=max&s=9740e50581030f947cebd2b2c9cfafdc",
-      "summary": "Taiwan's government expressed relief following the summit between Chinese and US presidents. Fears had circulated that Donald Trump might alter United States policy toward the island. The outcome avoided any significant shift in American support.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "HIV prevention and treatment services faltering, warns UNAIDS",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167515",
       "source": "UN News",
@@ -107,7 +131,20 @@
       "title": "UN welcomes $1.8 billion US boost for humanitarian operations",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167513",
       "source": "UN News",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167513",
+          "source": "UN News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnalBlZ0tPU1JPTG5hd1hVanB0WGt2MTR3WEEzeV9qeWtwT1lRT0FBUFBnYnUtelE4MDRKdUdGcEh5SDU4UjZhWlEtX25LV3p5LWZWTEljQQ?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnalBlZ0tPU1JPTG5hd1hVanB0WGt2MTR3WEEzeV9qeWtwT1lRT0FBUFBnYnUtelE4MDRKdUdGcEh5SDU4UjZhWlEtX25LV3p5LWZWTEljQQ?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
       "published_at": "2026-05-14T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UN-Photo-Fletcher-Waltz.jpg/image560x340cropped.jpg",
       "summary": "The United States announced $1.8 billion in new humanitarian funding. This boost will support United Nations and partner aid operations globally. The funding arrives as rising needs and shortfalls force agencies to reduce assistance. An additional $1.8 billion in US humanitarian funding will allow the United Nations and its partners to expand emergency relief operations reaching millions of people worldwide, as rising global needs and funding shortfalls force aid agencies to scale back assistance.",
@@ -131,7 +168,20 @@
       "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life",
       "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
       "source": "The Guardian",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
+          "source": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1dmVVlTaDA3dGpQSGdXQTVnNlZMWExOQXh3TXlSU2ZhdWZROFF6cVZueHZQN0poS0lub0RuWWlxUjRQQkl4a3R5NlJQbXl4Ny1YZWVKTkhGdlhoR2lrTm90a2FCek4wMk93UHdtUmVhS01udm96a2lOS3FrREdpWlBTVkZMdw?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1dmVVlTaDA3dGpQSGdXQTVnNlZMWExOQXh3TXlSU2ZhdWZROFF6cVZueHZQN0poS0lub0RuWWlxUjRQQkl4a3R5NlJQbXl4Ny1YZWVKTkhGdlhoR2lrTm90a2FCek4wMk93UHdtUmVhS01udm96a2lOS3FrREdpWlBTVkZMdw?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
       "published_at": "2026-05-14T11:00:25+00:00",
       "image_url": "https://i.guim.co.uk/img/media/8b16c976f04e2ef07186becf8de728c6c5757d81/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=7a13c63192468ff848a158f81874d6eb",
       "summary": "United Nations human rights experts publicly urged Equatorial Guinea to stop returning US deportees. The experts cited reports of political violence, torture, and death faced by individuals sent back to their home countries. Deportees described being held in prison-like conditions.",
@@ -176,18 +226,6 @@
       "translations": {}
     },
     {
-      "title": "UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167496",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-05-13T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/13-05-2026-UNIFIL-Lebanon.jpg/image560x340cropped.jpg",
-      "summary": "UNIFIL reported increased drone activity and explosions near its positions in southern Lebanon. The peacekeeping force stated this escalation, involving suspected Hezbollah drones and Israeli forces, is endangering personnel. The incidents also threaten stability in the region. The UN Interim Force in Lebanon (UNIFIL) said on Wednesday that escalating drone activity and nearby explosions involving suspected Hezbollah drones and Israeli forces are endangering its personnel and threatening already fragile stability in southern Lebanon.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
       "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
       "source": "The Guardian",
@@ -200,12 +238,138 @@
       "translations": {}
     },
     {
+      "title": "सुधारों के अभाव में संयुक्त राष्ट्र की प्रभावशीलता सीमित : जयशंकर",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOWNVcF9Dd2RkdU84cmxCOTJVQ21WX1pOYl82THc1bndpdWJ3Q1hCbjducTFia0IwT2FvOE00QkpfS0JqZmRqNEZORkVwbHBRRktVbHMwSk9RQ0l0ajVjbHI1SEZudk1tcGlDdDljSlNMYl9OSzdmLTU1WndQUFZPcHRHZndPVXN2bC1uRVo3am1Kd1ZmMVhwSUJFU0JrVzdVTEdPd0d6eDdaRDhJVm9URnljTjBxWDlaWThmVFZBbjMxWDBUaTJzcmFyWkNFZFJ5OWVHQ2pIMmR3OTBZRTZV0gHkAUFVX3lxTE9fQy1oRVk3Nm1FSkw0VmpPVklSN1lqTUhKc05BVFV1aGdpQUZrNkZUekxPRmRLN3ZEMXg1T09JRVZMQXlEQ0U3ZlhiNGRuNXNoSVEyQTZfU1FteHpwcUEwWnZ1dUgzNmVfaFpmRjlwellfTE4zcVlENWFYTFNYWkVrX0ktd2N1WndsdmVhd1J3bVR2ZGhSRV9Hczlya1FrZGVxQVE4OVRwY1Y2Ulp6RmxWVEtEcVVHRTVVRXQ5ckU5elY2UlVJSjB1Zm5YQXpPUG9qY1RFSWF5RDdtajZ2bVQ2dnkzSQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-15T12:27:03+00:00",
+      "image_url": "https://images.pexels.com/photos/17718729/pexels-photo-17718729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि संयुक्त राष्ट्र की प्रभावशीलता सुधारों की कमी के कारण सीमित है। उन्होंने कहा कि आज की भू-राजनीतिक वास्तविकताओं को दर्शाने के लिए संयुक्त राष्ट्र सुरक्षा परिषद में सुधार आवश्यक हैं। जयशंकर ने कहा कि इन सुधारों के बिना, संयुक्त राष्ट्र वैश्विक मुद्दों पर प्रभावी ढंग से कार्य करने में असमर्थ रहेगा।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुधारों के अभाव में संयुक्त राष्ट्र की प्रभावशीलता सीमित : जयशंकर",
+          "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि संयुक्त राष्ट्र की प्रभावशीलता सुधारों की कमी के कारण सीमित है। उन्होंने कहा कि आज की भू-राजनीतिक वास्तविकताओं को दर्शाने के लिए संयुक्त राष्ट्र सुरक्षा परिषद में सुधार आवश्यक हैं। जयशंकर ने कहा कि इन सुधारों के बिना, संयुक्त राष्ट्र वैश्विक मुद्दों पर प्रभावी ढंग से कार्य करने में असमर्थ रहेगा।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "अदानी परिवार अमेरिका में 1.80 करोड़ डॉलर जुर्माना भरने को तैयार, सिविल धोखाधड़ी का है केस",
+      "url": "https://www.bbc.com/hindi/articles/cx210q4wex2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-15T12:01:36+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a37/live/8dcbec30-5055-11f1-82d0-dba52fc3f32a.jpg",
+      "summary": "अदानी परिवार ने अमेरिका में 1.80 करोड़ डॉलर का जुर्माना भरने पर सहमति जताई है। यह राशि सिविल धोखाधड़ी के एक मामले में तय हुई है। परिवार पर आरोप है कि उसने एक नवीकरणीय ऊर्जा परियोजना के लिए धन जुटाते समय अमेरिकी निवेशकों को गुमराह किया।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अदानी परिवार अमेरिका में 1.80 करोड़ डॉलर जुर्माना भरने को तैयार, सिविल धोखाधड़ी का है केस",
+          "summary": "अदानी परिवार ने अमेरिका में 1.80 करोड़ डॉलर का जुर्माना भरने पर सहमति जताई है। यह राशि सिविल धोखाधड़ी के एक मामले में तय हुई है। परिवार पर आरोप है कि उसने एक नवीकरणीय ऊर्जा परियोजना के लिए धन जुटाते समय अमेरिकी निवेशकों को गुमराह किया।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQakd3QVYwZExRRUZIUUs2bUlDZDF2U09PQTJEakRqM1BIc1hsZ1czWktXbnNVcGtHcG1RT1l3cHlHd1FlS18tdFVmR2p4YmEwempZZUxtNWZSc1JLalY4WlhFTHkwNGoxNkpubXYzMW51dEU5a09VR0xtYkdYNHNkM2l0NVlHSjFmV2tuS09MRUhrX2tUVl9UbTFpbm9YWEdvcTRaVW5KY01pbG9xdWVWTEYxRmJ4NG5ybHU1UzFmdEVsYTB3TjZiS2NhM0NZZzUyUV9WMzRGa1p6MW1NaHAwd1ZsWHRvYy15YTVJd0VrNzZxOXBpQnBPRGVFZzFXdDVzMzU3bktFdjJGU1VaTE1PWURHNzV4MzBQVTl2OW5VWkhUUXNxRVhaZnI1R0w1UWxvOGJyODlwOXlLMEk?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-15T11:47:42+00:00",
+      "image_url": "https://images.pexels.com/photos/1464194/pexels-photo-1464194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अर्जेंटीना के राष्ट्रपति जेवियर माइली ने विश्व स्वास्थ्य संगठन (WHO) से देश के बाहर निकलने की घोषणा की है। उन्होंने कहा कि WHO एक वामपंथी वैश्विक षड्यंत्र है। यह निर्णय अर्जेंटीना में राजनीतिक बहस को तेज कर रहा है। ‘WHO-Exit’: माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस Tehelka Hindi।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस",
+          "summary": "अर्जेंटीना के राष्ट्रपति जेवियर माइली ने विश्व स्वास्थ्य संगठन (WHO) से देश के बाहर निकलने की घोषणा की है। उन्होंने कहा कि WHO एक वामपंथी वैश्विक षड्यंत्र है। यह निर्णय अर्जेंटीना में राजनीतिक बहस को तेज कर रहा है। ‘WHO-Exit’: माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस Tehelka Hindi।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "परमाणु आतंकवाद का ख़तरा ‘पहले कभी इतना अधिक नहीं रहा’",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84aEYtTkZkV0VHTFlGbTlpaUtWRjZsc0R1bmdkYm5RZ3Z0NGctQ21ObEVaTlItbUJXb0FlZUtiS1Nrd3pWWFhCQXAtM3dURmQ0UXh1elRPMA?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-15T11:42:15+00:00",
+      "image_url": "https://images.pexels.com/photos/35982142/pexels-photo-35982142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र आतंकवाद निरोधक कार्यालय (UNCCT) के अनुसार, परमाणु आतंकवाद का खतरा पहले कभी इतना अधिक नहीं रहा। यह खतरा परमाणु सामग्री की चोरी, अवैध व्यापार और आतंकवादी समूहों द्वारा इसके उपयोग की संभावना से उत्पन्न होता है। UNCCT इस खतरे से निपटने के लिए सदस्य देशों के बीच सहयोग और क्षमता निर्माण पर जोर देता है।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "परमाणु आतंकवाद का ख़तरा ‘पहले कभी इतना अधिक नहीं रहा’",
+          "summary": "संयुक्त राष्ट्र आतंकवाद निरोधक कार्यालय (UNCCT) के अनुसार, परमाणु आतंकवाद का खतरा पहले कभी इतना अधिक नहीं रहा। यह खतरा परमाणु सामग्री की चोरी, अवैध व्यापार और आतंकवादी समूहों द्वारा इसके उपयोग की संभावना से उत्पन्न होता है। UNCCT इस खतरे से निपटने के लिए सदस्य देशों के बीच सहयोग और क्षमता निर्माण पर जोर देता है।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "पार्टी के दिशा-निर्देशों से लेकर अभूतपूर्व समाधानों और बेहतर व्यावहारिक प्रभावशीलता तक।",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLThvWFlMSjZ6RDFKOV9IR295Z3cwSUc4MmJadE9Sb1NGdDVIWE1IUmV4Y0dFd3hsTGVtdFpMR2g3TG5sTV85VTZ4eno0UlRQQlZtUWJjczlEbUUtenlvM2RMUHBiN3JIWEhDbFFXdlh0ajJVRXctX19sZ1B4ano5Nkh5eXhkS3F1RGFHbjk0ZlB4NEVTZWkzOGNjZzItLTNkZWo5a29lMmwwMVNMWWY4QURsN0wzZnV6MlJ6MXQ1MGlXSFN1aEVwYndoY2tnenowblJ3?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-15T11:41:16+00:00",
+      "image_url": "https://images.pexels.com/photos/5716259/pexels-photo-5716259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "वियतनाम की कम्युनिस्ट पार्टी ने जन-जन कूटनीति को मजबूत करने के लिए नए दिशा-निर्देश जारी किए हैं। इन निर्देशों का उद्देश्य देश की विदेश नीति को अधिक प्रभावी बनाना है। पार्टी ने जमीनी स्तर पर कूटनीतिक प्रयासों को बढ़ाने और व्यावहारिक समाधान खोजने पर जोर दिया है। यह कदम वियतनाम की अंतरराष्ट्रीय उपस्थिति को मजबूत करने की दिशा में एक महत्वपूर्ण प्रयास है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पार्टी के दिशा-निर्देशों से लेकर अभूतपूर्व समाधानों और बेहतर व्यावहारिक प्रभावशीलता तक।",
+          "summary": "वियतनाम की कम्युनिस्ट पार्टी ने जन-जन कूटनीति को मजबूत करने के लिए नए दिशा-निर्देश जारी किए हैं। इन निर्देशों का उद्देश्य देश की विदेश नीति को अधिक प्रभावी बनाना है। पार्टी ने जमीनी स्तर पर कूटनीतिक प्रयासों को बढ़ाने और व्यावहारिक समाधान खोजने पर जोर दिया है। यह कदम वियतनाम की अंतरराष्ट्रीय उपस्थिति को मजबूत करने की दिशा में एक महत्वपूर्ण प्रयास है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मुलायम के छोटे बेटे प्रतीक यादव राजनीत‍ि से दूर क्‍यों थे, भाई अखिलेश से कैसे थे रिश्ते",
+      "url": "https://www.bbc.com/hindi/articles/cr5pq2ye7rjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-15T10:51:54+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a63d/live/cc893770-504b-11f1-a712-bdb9a88fa140.jpg",
+      "summary": "वरिष्ठ पत्रकार के अनुसार, समाजवादी पार्टी के कार्यकर्ताओं ने एक वरिष्ठ पत्रकार के मुताबिक़ समाजवादी पार्टी के कुछ कार्यकर्ताओं ने 2014 लोकसभा चुनाव में प्रतीक यादव को टिकट देने की मांग की थी. लेकिन राजनीति में उनकी दिलचस्पी न होने से बात आगे नहीं बढ़ सकी.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मुलायम के छोटे बेटे प्रतीक यादव राजनीत‍ि से दूर क्‍यों थे, भाई अखिलेश से कैसे थे रिश्ते",
+          "summary": "वरिष्ठ पत्रकार के अनुसार, समाजवादी पार्टी के कार्यकर्ताओं ने एक वरिष्ठ पत्रकार के मुताबिक़ समाजवादी पार्टी के कुछ कार्यकर्ताओं ने 2014 लोकसभा चुनाव में प्रतीक यादव को टिकट देने की मांग की थी. लेकिन राजनीति में उनकी दिलचस्पी न होने से बात आगे नहीं बढ़ सकी.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अद्भुत! भारत के हाथ लगा 'जियोपॉलिटकल बटन', रूस, अमेरिका, चीन को भी यूं ही नहीं दिख रही उम्मीद",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYWFiVmdLQVlLZ05PaDgyMzNmUVhMYUJpdnBFME9CWHN0NE1mWlFzWGpHakIxMjFGVExfdlNJLVFOcjd6SlN1TVU5YmVpMndyc0dpVEpqNUJ5cWluYkpuRkJvZGlId0t4dmF6WjdjNGpzcksyUW5CajU5dS1pRWJfYWpIcERLWHBHRXZvZm1TV25BemJIbDVrQXhaSGtQMXp3bEh2b2tnS1FSUjBkTzU5ZzdyS1c1c0l3amhSWk9OV1NGcTdiczFHeE42S2ZnQlFCMGVfSkxQaTh4bmJpOG4wV083aVl6Uk1wbk9TSHpOQVFKSDht0gH6AUFVX3lxTE5zSng5NDFZeHh5aWZ1Zkw4NGhtX0wyTGd1T21kRl9peTdPTlNfVmJTMlBHVTI2TnVRejVsN2R1TEJXRFlIZ2pBS1JPOUxkdU96aUFZRFFIQktPNUx3dXA1bWoyeFdzOXhiVFJhTnBvcHVTN3lhRzl3SGpRekdZcGZGTHpqVHZvejJhV0xPa21mekMyOEthSUVxa19hSlVGVzIzTGFzYVU5djhWaFgtWHNwcHltVnVXRUx6MFZxajJMMkEtamdNVi1WTmN2WlcxemVXNXdKRUFpNEZTTVl6REEtZmFnMWY5TEU5VlNZWUdSN1gta2VVWHk0V1E?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-15T10:31:29+00:00",
+      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत ने एक 'जियोपॉलिटकल बटन' हासिल किया है भारत के हाथ लगा 'जियोपॉलिटकल बटन', रूस, अमेरिका, चीन को भी यूं ही नहीं दिख रही उम्मीद Navbharat Times। अद्भुत!",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अद्भुत! भारत के हाथ लगा 'जियोपॉलिटकल बटन', रूस, अमेरिका, चीन को भी यूं ही नहीं दिख रही उम्मीद",
+          "summary": "भारत ने एक 'जियोपॉलिटकल बटन' हासिल किया है भारत के हाथ लगा 'जियोपॉलिटकल बटन', रूस, अमेरिका, चीन को भी यूं ही नहीं दिख रही उम्मीद Navbharat Times। अद्भुत!",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "मध्यप्रदेश हाईकोर्ट का फ़ैसला, विवादित भोजशाला प्रांगण माँ वाग्देवी मंदिर",
       "url": "https://www.bbc.com/hindi/articles/cwy2d7p8847o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "sources": [],
       "published_at": "2026-05-15T10:06:57+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e931/live/981de410-5044-11f1-b682-cf91850925ea.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d86/live/33376f00-5051-11f1-a5f3-5f5ecc46603b.jpg",
       "summary": "मध्य प्रदेश हाईकोर्ट की डबल बेंच ने भोजशाला को सरस्वती या मां वा मध्य प्रदेश हाईकोर्ट की डबल बेंच ने हिंदू समुदाय के पक्ष में फैसला सुनाते हुए भोजशाला को सरस्वती या मां वाग्देवी का मंदिर माना है. मध्यप्रदेश हाईकोर्ट का फ़ैसला, विवादित भोजशाला प्रांगण माँ वाग्देवी मंदिर।",
       "region": "World",
       "language": "hi",
@@ -309,73 +473,37 @@
     },
     {
       "title": "भारतीय विदेश मंत्री जयशंकर ने की ईरानी विदेश मंत्री अराघची से मुलाकात, मिडिल ईस्ट समेत द्विपक्षीय",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSVNoem5rUmY5QmdxenVTQXZzWHJyTzgxS3FXVEVHcUxfbmRRUzFhcW5MVVZMUUFkMHE3bWlwV01ib25IU3hpYURwMVl1SXFFUlMtV2xLbkVWRTl0M2JrSzdfUkxiYmtlWVhRVC1IcVhBUUJJTVFqcldfZ0Y1TWZINXBNWEd5VGJtY25CallxSDVCcUxoNENmak5RaWVZX1YycVl3d3NORkhEclJLNU02aUVLNG1TRTRvREs4R2FzZzgxeFVQdEtHSVRtV1lPenY2dXJ4TGM0LXhnNm8zbDZNSzRFTXdKeENlN09nT19MM1JyTXdUUnJBdA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSVNoem5rUmY5QmdxenVTQXZzWHJyTzgxS3FXVEVHcUxfbmRRUzFhcW5MVVZMUUFkMHE3bWlwV01ib25IU3hpYURwMVl1SXFFUlMtV2xLbkVWRTl0M2JrSzdfUkxiYmtlWVhRVC1IcVhBUUJJTVFqcldfZ0Y1TWZINXBNWEd5VGJtY25CallxSDVCcUxoNENmak5RaWVZX1YycVl3d3NORkhEclJLNU02aUVLNG1TRTRvREs4R2FzZzgxeFVQdEtHSVRtV1lPenY2dXJ4TGM0LXhnNm8zbDZNSzRFTXdKeENlN09nT19MM1JyTXdUUnJBdNIB_gFBVV95cUxOUy1HcUFtQ2ZsZEhOZ3M3Mk9WNXk1cWQzd3FzTEotZ0tKU1JKZTJDVkFrdFNZQ0JZSFhLQnp3NzhmXzRBOXAyVGJOOEFtdWVxRWF4bkdtT1J4dlJkdWU0OGphT2NodUROU2FpNUZQcjRCamNOZ0czTlhsVkt6WUdwQ0JFZUhpY0hWQnktdmEzZTkybVBHeXF5UGpqcG80UHJaTThMZ1MySUU2Q25GX1pZTXM2UGVLUjRYNUw2ZXhFRjU0eEQxOFNvVk5VemExUUpIZFRDT1psR3BxMUVyY2JiQlN3clJzTE0zYmd5RndobzdyeG9DeTZTYWxoR3FvUQ?oc=5",
       "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
       "sources": [],
       "published_at": "2026-05-15T07:52:21+00:00",
       "image_url": "https://images.pexels.com/photos/15470124/pexels-photo-15470124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारतीय विदेश मंत्री एस. जयशंकर ने तेहरान में ईरानी विदेश मंत्री अब्बास अराघची से मुलाकात की। दोनों नेताओं ने द्विपक्षीय संबंधों और मध्य पूर्व की स्थिति पर चर्चा की। भारतीय विदेश मंत्री जयशंकर ने की ईरानी विदेश मंत्री अराघची से मुलाकात, मिडिल ईस्ट समेत द्विपक्षीय।",
+      "summary": "भारतीय विदेश मंत्री एस जयशंकर ने ईरानी विदेश मंत्री अराघची से भारतीय विदेश मंत्री जयशंकर ने की ईरानी विदेश मंत्री अराघची से मुलाकात, मिडिल ईस्ट समेत द्विपक्षीय संबंधों पर हुई बातचीत Patrika News।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "भारतीय विदेश मंत्री जयशंकर ने की ईरानी विदेश मंत्री अराघची से मुलाकात, मिडिल ईस्ट समेत द्विपक्षीय",
-          "summary": "भारतीय विदेश मंत्री एस. जयशंकर ने तेहरान में ईरानी विदेश मंत्री अब्बास अराघची से मुलाकात की। दोनों नेताओं ने द्विपक्षीय संबंधों और मध्य पूर्व की स्थिति पर चर्चा की। भारतीय विदेश मंत्री जयशंकर ने की ईरानी विदेश मंत्री अराघची से मुलाकात, मिडिल ईस्ट समेत द्विपक्षीय।",
+          "summary": "भारतीय विदेश मंत्री एस जयशंकर ने ईरानी विदेश मंत्री अराघची से भारतीय विदेश मंत्री जयशंकर ने की ईरानी विदेश मंत्री अराघची से मुलाकात, मिडिल ईस्ट समेत द्विपक्षीय संबंधों पर हुई बातचीत Patrika News।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "व्यापक, आधुनिक कूटनीति का एक महत्वपूर्ण स्तंभ।",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWkzeG9ORGE0cnlPX1k2VmYwN0lvNVdlR2VsR245Znc3dEtxMjJid2VQWUJuZUxEaWhlbEF6b2FCVmhhUkp2YW80VUZaMzhKRHl2VzNQSUQ4NDQ4bF91andFcmlPTTllZ09OQ21tRjZVeUZIbzNRU1AzUERUUHNGaGU5aG5MRWd2cUhRNDctWm9kOHB3WGp1b2dZaTdiWjRYN1JJ?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
+      "title": "सुधारों के अभाव में संयुक्त राष्ट्र की प्रभावशीलता सीमित, भारत का सुरक्षा परिषद के विस्तार पर जोर",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTmlQS3NtU2JPRTNGUVhCNG84M3otNkxuZkJlWTIyZHhpT3hFSnI1REdUb1NCUU9KbVNpdFhKN3NsSnFlRGJtUERWZGY1QkcwMnVIemFpWE5teTRDTzYycDlZTktmTEZTeVM2QXNGaDJ3QmV1SHNjZmhTS2hEcmpENjAtd1RldmpJRlBGUXpXeWZRai0xbHhUMVdTSWoxOEYtZW9YNnpjVWx1OUV0S3hJNUdpUFF1V052cmw0MENIOFRBa0QyeXprUUdwRGNsVG1WZW9lMTl4TGtIWW91bDNhcVN6eElIVW8?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-15T07:35:56+00:00",
-      "image_url": "https://images.pexels.com/photos/20575283/pexels-photo-20575283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "वियतनाम ने जन-जन कूटनीति को अपनी जन-जन कूटनीति: व्यापक, आधुनिक कूटनीति का एक महत्वपूर्ण स्तंभ।",
+      "published_at": "2026-05-15T07:50:17+00:00",
+      "image_url": "https://images.pexels.com/photos/17718729/pexels-photo-17718729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "एस जयशंकर ने ब्रिक्स बैठक में कहा कि संयुक्त राष्ट्र की प्रभावशीलता Jaishankar In BRICS: सुधारों के अभाव में संयुक्त राष्ट्र की प्रभावशीलता सीमित, भारत का सुरक्षा परिषद के विस्तार पर जोर Dainik Tribune।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "व्यापक, आधुनिक कूटनीति का एक महत्वपूर्ण स्तंभ।",
-          "summary": "वियतनाम ने जन-जन कूटनीति को अपनी जन-जन कूटनीति: व्यापक, आधुनिक कूटनीति का एक महत्वपूर्ण स्तंभ।",
+          "title": "सुधारों के अभाव में संयुक्त राष्ट्र की प्रभावशीलता सीमित, भारत का सुरक्षा परिषद के विस्तार पर जोर",
+          "summary": "एस जयशंकर ने ब्रिक्स बैठक में कहा कि संयुक्त राष्ट्र की प्रभावशीलता Jaishankar In BRICS: सुधारों के अभाव में संयुक्त राष्ट्र की प्रभावशीलता सीमित, भारत का सुरक्षा परिषद के विस्तार पर जोर Dainik Tribune।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या सस्ता-क्या महंगा? जानें पेट्रोल-डीजल के दाम बढ़ने से किन चीजों पर पड़ेगा असर",
-      "url": "https://www.amarujala.com/photo-gallery/utility/petrol-diesel-price-hike-how-today-s-3-rise-will-impact-your-monthly-budget-and-essential-goods-2026-05-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-15T06:46:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/petrol-price-hike_687af92407d6f6ef8fd4eeae73210f00.jpeg?w=750&dpr=1.0",
-      "summary": "पेट्रोल और डीजल की कीमतों में वृद्धि से भारत में आम आदमी की चिंताएं बढ़ गई हैं। इस बढ़ोतरी का असर रोजमर्रा की आवश्यक वस्तुओं की कीमतों पर पड़ेगा। पेट्रोल-डीजल की कीमतों में भारी बढ़ोतरी के बाद से ही देशभर में लोगों की चिंताएं बढ़ गई हैं कि अब इसका असर सभी की जेब पड़ने वाला है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या सस्ता-क्या महंगा? जानें पेट्रोल-डीजल के दाम बढ़ने से किन चीजों पर पड़ेगा असर",
-          "summary": "पेट्रोल और डीजल की कीमतों में वृद्धि से भारत में आम आदमी की चिंताएं बढ़ गई हैं। इस बढ़ोतरी का असर रोजमर्रा की आवश्यक वस्तुओं की कीमतों पर पड़ेगा। पेट्रोल-डीजल की कीमतों में भारी बढ़ोतरी के बाद से ही देशभर में लोगों की चिंताएं बढ़ गई हैं कि अब इसका असर सभी की जेब पड़ने वाला है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "नीट यूजी 2026 की नई तारीख़ घोषित, परीक्षा के बारे में और क्या-क्या बोले धर्मेंद्र प्रधान",
-      "url": "https://www.bbc.com/hindi/articles/c0l26zwn6plo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-15T06:35:42+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8230/live/2c90ff50-5028-11f1-b671-e9f5d6b2697c.jpg",
-      "summary": "केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान ने स्वीकार किया कि नीट यूजी परीक्षा के प्रश्न 'गेस पेपर' के रूप में लीक हुए थे। यह परीक्षा 3 मई को आयोजित की गई थी। केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान ने शुक्रवार को माना कि 'गेस पेपर' के नाम पर असली सवाल लीक हुए थे.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नीट यूजी 2026 की नई तारीख़ घोषित, परीक्षा के बारे में और क्या-क्या बोले धर्मेंद्र प्रधान",
-          "summary": "केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान ने स्वीकार किया कि नीट यूजी परीक्षा के प्रश्न 'गेस पेपर' के रूप में लीक हुए थे। यह परीक्षा 3 मई को आयोजित की गई थी। केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान ने शुक्रवार को माना कि 'गेस पेपर' के नाम पर असली सवाल लीक हुए थे.",
-          "region": "दुनिया"
         }
       }
     },
@@ -416,42 +544,6 @@
       }
     },
     {
-      "title": "6 माह, 5 बार भर्ती, जिम में घंटों बिताने वाले प्रतीक की फिटनेस के पीछे छिपी थी ये गंभीर बीमारी",
-      "url": "https://www.amarujala.com/photo-gallery/lucknow/prateek-yadav-death-serious-illness-lay-hidden-behind-pratik-fitness-admitted-to-hospital-5-times-in-6-months-2026-05-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-15T05:44:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/prateek-yadav-death_8a86083e2d43504578d534a47b606cdc.jpeg?w=750&dpr=1.0",
-      "summary": "प्रतीक यादव, जो नियमित रूप से जिम में घंटों बिताते थे और अपनी फिटनेस के लिए जाने जाते थे, एक गंभीर बीमारी से पीड़ित थे। उनकी मजबूत शारीरिक बनावट स्वस्थ हृदय का संकेत नहीं थी। नियमित तौर पर जिम में घंटों बिताना, वर्जिश करना प्रतीक यादव का शौक था।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "6 माह, 5 बार भर्ती, जिम में घंटों बिताने वाले प्रतीक की फिटनेस के पीछे छिपी थी ये गंभीर बीमारी",
-          "summary": "प्रतीक यादव, जो नियमित रूप से जिम में घंटों बिताते थे और अपनी फिटनेस के लिए जाने जाते थे, एक गंभीर बीमारी से पीड़ित थे। उनकी मजबूत शारीरिक बनावट स्वस्थ हृदय का संकेत नहीं थी। नियमित तौर पर जिम में घंटों बिताना, वर्जिश करना प्रतीक यादव का शौक था।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अगस्त में खुलेगा अखिलेश यादव का मेरठ कार्ड, सर्वे बनेगा टिकट का आधार; एक-दो सीट पर हो सकते हैं नए",
-      "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-assembly-seats-sp-intensifies-strategy-akhilesh-yadav-to-announce-candidates-based-on-survey-2026-05-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-15T05:41:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/meerut-assembly_f207699d3f18bc8b432db8d97e9d6797.jpeg?w=750&dpr=1.0",
-      "summary": "समाजवादी पार्टी अगस्त में मेरठ में अपनी चुनावी रणनीति का खुलासा करेगी। पार्टी टिकटों के लिए सर्वे का उपयोग करेगी, और एक या दो सीटों पर नए उम्मीदवार हो सकते हैं। उत्तर प्रदेश की सियासत में क्रांतिधरा मेरठ हमेशा से सत्ता की चाबी माना जाता रहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अगस्त में खुलेगा अखिलेश यादव का मेरठ कार्ड, सर्वे बनेगा टिकट का आधार; एक-दो सीट पर हो सकते हैं नए",
-          "summary": "समाजवादी पार्टी अगस्त में मेरठ में अपनी चुनावी रणनीति का खुलासा करेगी। पार्टी टिकटों के लिए सर्वे का उपयोग करेगी, और एक या दो सीटों पर नए उम्मीदवार हो सकते हैं। उत्तर प्रदेश की सियासत में क्रांतिधरा मेरठ हमेशा से सत्ता की चाबी माना जाता रहा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "'शी और ट्रंप के बीच बनी नई सहमतियां', चीनी विदेश मंत्रालय ने बताया रिश्तों के लिए अहम कदम",
       "url": "https://www.amarujala.com/world/xi-and-trump-reach-new-agreements-chinese-foreign-ministry-says-important-step-for-relations-2026-05-15",
       "source": "Amar Ujala World",
@@ -466,6 +558,24 @@
           "title": "'शी और ट्रंप के बीच बनी नई सहमतियां', चीनी विदेश मंत्रालय ने बताया रिश्तों के लिए अहम कदम",
           "summary": "चीन के विदेश मंत्रालय ने बताया कि शी जिनपिंग और डोनाल्ड ट्रंप के बीच नई सहमति बनी है। यह चीन-अमेरिका संबंधों के लिए एक महत्वपूर्ण कदम है। दोनों नेताओं ने द्विपक्षीय संबंधों को स्थिर करने पर जोर दिया। 'शी और ट्रंप के बीच बनी नई सहमतियां', चीनी विदेश मंत्रालय ने बताया रिश्तों के लिए अहम कदम।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "धार की भोजशाला में क्या थी विवाद की जड़? जानिए इतिहास से हाईकोर्ट तक की पूरी कहानी",
+      "url": "https://www.amarujala.com/madhya-pradesh/dhar/dhar-bhojshala-dispute-history-high-court-verdict-asi-report-temple-mosque-case-full-story-2026-05-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-15T04:46:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/bhajashal-vavatha-ka-para-kahana_ad682f554924b282edbf58f91520356a.jpeg?w=750&dpr=1.0",
+      "summary": "धार की भोजशाला में हिंदू और मुस्लिम पक्ष के बीच विवाद गहरा हिंदू और मुस्लिम पक्ष कब-कब आमने-सामने आए? यह मामला राजनीति का बड़ा मुद्दा कैसे बना? एएसआई की रिपोर्ट में क्या सामने आया और कोर्ट में अब तक क्या-क्या हुआ?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धार की भोजशाला में क्या थी विवाद की जड़? जानिए इतिहास से हाईकोर्ट तक की पूरी कहानी",
+          "summary": "धार की भोजशाला में हिंदू और मुस्लिम पक्ष के बीच विवाद गहरा हिंदू और मुस्लिम पक्ष कब-कब आमने-सामने आए? यह मामला राजनीति का बड़ा मुद्दा कैसे बना? एएसआई की रिपोर्ट में क्या सामने आया और कोर्ट में अब तक क्या-क्या हुआ?",
+          "region": "दुनिया"
         }
       }
     },
@@ -574,78 +684,6 @@
           "title": "भारतीय जहाज पर हमले की UAE ने की निंदा: PM मोदी के दौरे से पहले कहा- समुद्री सुरक्षा से खिलवाड़",
           "summary": "संयुक्त अरब अमीरात ने भारतीय जहाज पर हुए आतंकवादी हमले की निंदा की है। यूएई ने कहा कि समुद्री सुरक्षा के साथ खिलवाड़ बर्दाश्त नहीं किया जाएगा। भारतीय जहाज पर हमले की UAE ने की निंदा: PM मोदी के दौरे से पहले कहा- समुद्री सुरक्षा से खिलवाड़।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज़ में भारतीय जहाज़ डूबने से गुजरात के एक नाविक की मौत, जहाज़ के मालिक ने क्या बताया",
-      "url": "https://www.bbc.com/hindi/articles/cd0pvrzldj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-15T02:39:10+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/beb1/live/398e3380-4dc6-11f1-bd52-e755d604ece4.jpg",
-      "summary": "दुबई से यमन जा रहा एक भारतीय लकड़ी का जहाज़ होर्मुज़ जलडमरूमध्य में डूब गया. जहाज़ के मालिक के अनुसार, जहाज़ पर हमला हुआ था. इस घटना में गुजरात के एक नाविक की मौत हो गई. गुजरात के एक व्यवसायी का लकड़ी का यह जहाज़ दुबई बंदरगाह से यमन के अल मकाला बंदरगाह के लिए रवाना हुआ था.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज़ में भारतीय जहाज़ डूबने से गुजरात के एक नाविक की मौत, जहाज़ के मालिक ने क्या बताया",
-          "summary": "दुबई से यमन जा रहा एक भारतीय लकड़ी का जहाज़ होर्मुज़ जलडमरूमध्य में डूब गया. जहाज़ के मालिक के अनुसार, जहाज़ पर हमला हुआ था. इस घटना में गुजरात के एक नाविक की मौत हो गई. गुजरात के एक व्यवसायी का लकड़ी का यह जहाज़ दुबई बंदरगाह से यमन के अल मकाला बंदरगाह के लिए रवाना हुआ था.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने बाइडन पर साधा निशाना, जिनपिंग की बात का समर्थन किया; कहा- पतन की ओर बढ़ रहा था अमेरिका",
-      "url": "https://www.amarujala.com/world/agree-100-per-cent-with-xi-that-us-was-on-decline-but-under-biden-trump-2026-05-15",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-15T02:17:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/donald-trump-us-president_23dd1c8ec0d07faba828a2978b68061b.jpeg?w=750&dpr=1.0",
-      "summary": "पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीन के राष्ट्रपति शी जिनपिंग की बात का समर्थन किया. ट्रंप ने कहा कि अमेरिका राष्ट्रपति बाइडन के नेतृत्व में पतन की ओर बढ़ रहा था. US: ट्रंप ने बाइडन पर साधा निशाना, जिनपिंग की बात का समर्थन किया; कहा- पतन की ओर बढ़ रहा था अमेरिका।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने बाइडन पर साधा निशाना, जिनपिंग की बात का समर्थन किया; कहा- पतन की ओर बढ़ रहा था अमेरिका",
-          "summary": "पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीन के राष्ट्रपति शी जिनपिंग की बात का समर्थन किया. ट्रंप ने कहा कि अमेरिका राष्ट्रपति बाइडन के नेतृत्व में पतन की ओर बढ़ रहा था. US: ट्रंप ने बाइडन पर साधा निशाना, जिनपिंग की बात का समर्थन किया; कहा- पतन की ओर बढ़ रहा था अमेरिका।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "हथियार तस्करी के मामले में भारतीय मूल के युवक को सजा, पांच साल से ज्यादा वक्त की जेल; जानें पूरा",
-      "url": "https://www.amarujala.com/world/us-indian-origin-founder-of-outlaw-biker-gang-punjabi-devils-sentenced-for-gun-trafficking-2026-05-15",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-15T02:01:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/29/us-fbi-searches-georgia-elections-office-for-records-linked-to-2020-polls_8f682501d5c382c0f915bf9ddef3f16c.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिका में भारतीय मूल के एक युवक को हथियार तस्करी के मामले में पांच साल से अधिक की जेल की सजा सुनाई गई. वह 'पंजाबी डेविल्स' नामक गिरोह का संस्थापक था. हथियार तस्करी के मामले में भारतीय मूल के युवक को सजा, पांच साल से ज्यादा वक्त की जेल; जानें पूरा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हथियार तस्करी के मामले में भारतीय मूल के युवक को सजा, पांच साल से ज्यादा वक्त की जेल; जानें पूरा",
-          "summary": "अमेरिका में भारतीय मूल के एक युवक को हथियार तस्करी के मामले में पांच साल से अधिक की जेल की सजा सुनाई गई. वह 'पंजाबी डेविल्स' नामक गिरोह का संस्थापक था. हथियार तस्करी के मामले में भारतीय मूल के युवक को सजा, पांच साल से ज्यादा वक्त की जेल; जानें पूरा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पेट्रोल और डीज़ल की क़ीमतों में प्रति लीटर तीन-तीन रुपए की बढ़ोतरी, सीएनजी भी महंगी",
-      "url": "https://www.bbc.com/hindi/articles/c626l5l7q0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-15T01:49:38+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b0ed/live/b3663990-4ffc-11f1-a146-2110df55ffde.jpg",
-      "summary": "भारत में पेट्रोल और डीज़ल की कीमतों में प्रति लीटर तीन रुपये की वृद्धि हुई है. सीएनजी भी महंगी हो गई है. यह बढ़ोतरी प्रधानमंत्री की खर्चों में कटौती की अपील के चार दिन बाद हुई है. प्रधानमंत्री नरेंद्र मोदी ने भारतीयों से ख़र्चों में कटौती की अपील की थी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पेट्रोल और डीज़ल की क़ीमतों में प्रति लीटर तीन-तीन रुपए की बढ़ोतरी, सीएनजी भी महंगी",
-          "summary": "भारत में पेट्रोल और डीज़ल की कीमतों में प्रति लीटर तीन रुपये की वृद्धि हुई है. सीएनजी भी महंगी हो गई है. यह बढ़ोतरी प्रधानमंत्री की खर्चों में कटौती की अपील के चार दिन बाद हुई है. प्रधानमंत्री नरेंद्र मोदी ने भारतीयों से ख़र्चों में कटौती की अपील की थी.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
