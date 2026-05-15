@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-14T22:59:19.034947+00:00",
-  "article_count": 41,
-  "total_unique_count": 376,
+  "generated_at": "2026-05-15T00:03:50.860581+00:00",
+  "article_count": 42,
+  "total_unique_count": 369,
   "digest": {
-    "en": "US-Cuba talks and Iran's Hormuz Strait access dominate headlines. European student fees and Taiwan's geopolitical position offer contrasting regional focuses. The UN's humanitarian funding and diplomatic efforts in Yemen and Equatorial Guinea show ongoing international engagement.",
-    "hi": "गंगा एक्सप्रेसवे पर टोल वसूली शुरू हो गई है। वहीं, 150 एनबीएफसी कंपनियों के लाइसेंस रद्द कर दिए गए हैं। महाराष्ट्र विधान परिषद में 10 नए सदस्यों ने शपथ ली।"
+    "en": "Newsom condemns GOP redistricting efforts in the US. CIA director met officials in Havana for talks. Iran allows Chinese ships to pass Hormuz since May 13.",
+    "hi": "भारत और यूएई के संबंध नई ऊंचाइयां छू रहे हैं। UAE के मंत्री ने इंसानी नातों का जिक्र किया है। भारत और यूएई के बीच आर्थिक और राजनीतिक संबंध मजबूत हो रहे है।"
   },
   "articles": [
+    {
+      "title": "Newsom condemns GOP redistricting efforts; Louisiana approves plan to erase majority-Black district",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-14T23:26:27+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/371836fe8d37e507d7a9f53539b8ab7892ed5d2a/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=69238167a415139440e0af13e93b227f",
+      "summary": "U. S. President Trump arrived in Beijing for high-stakes talks with Xi Jinping. Security is heightened as trade, AI, and the war in Iran are set to dominate the summit. The leaders aim to improve the bilateral relationship.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "CIA director has met officials in Havana for talks, Cuba claims",
       "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
@@ -16,18 +28,6 @@
       "image_url": "https://i.guim.co.uk/img/media/7af07e105849a6d3126b60ea6197afa023f107aa/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=07b0544f0dd6ad0fa9268ddb3ecaf46f",
       "summary": "CIA Director John Ratcliffe met Cuban officials in Havana. The Cuban government stated the meeting aimed to improve dialogue. This occurred amid complex bilateral relations between the two countries. CIA director has met officials in Havana for talks, Cuba claims.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Newsom condemns GOP redistricting efforts; Louisiana approves plan to erase majority-Black district",
-      "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-14T21:48:50+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/371836fe8d37e507d7a9f53539b8ab7892ed5d2a/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=69238167a415139440e0af13e93b227f",
-      "summary": "U. S. President Trump arrived in Beijing for high-stakes talks with Xi Jinping. Security is heightened as trade, AI, and the war in Iran are set to dominate the summit. The leaders aim to improve the bilateral relationship.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -92,10 +92,47 @@
       "translations": {}
     },
     {
+      "title": "HIV prevention and treatment services faltering, warns UNAIDS",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167515",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-14T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2025-UNAIDS-Tajikistan-01.jpg/image560x340cropped.jpg",
+      "summary": "UNAIDS warned that HIV prevention and treatment services are faltering. Decades of gains in the fight against AIDS are under growing threat as donor funding declines and community-based health services collapse in some of the world’s most vulnerable countries, the head of the joint UN programme on HIV/AIDS warned on Thursday.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167514",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-14T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-11-2025-UNICEF-Somalia-Drought.jpg/image560x340cropped.jpg",
+      "summary": "UN-backed food security experts warned nearly six million people in Nearly six million people in Somalia – almost a third of the population analysed – are projected to face acute hunger between April and June, with 1.9 million expected to experience emergency levels, UN-backed food security experts warned on Thursday.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "UN welcomes $1.8 billion US boost for humanitarian operations",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167513",
       "source": "UN News",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167513",
+          "source": "UN News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnalBlZ0tPU1JPTG5hd1hVanB0WGt2MTR3WEEzeV9qeWtwT1lRT0FBUFBnYnUtelE4MDRKdUdGcEh5SDU4UjZhWlEtX25LV3p5LWZWTEljQQ?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnalBlZ0tPU1JPTG5hd1hVanB0WGt2MTR3WEEzeV9qeWtwT1lRT0FBUFBnYnUtelE4MDRKdUdGcEh5SDU4UjZhWlEtX25LV3p5LWZWTEljQQ?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
       "published_at": "2026-05-14T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UN-Photo-Fletcher-Waltz.jpg/image560x340cropped.jpg",
       "summary": "The United States announced $1.8 billion in new humanitarian funding. This boost will support United Nations and partner aid operations globally. The funding arrives as rising needs and shortfalls force agencies to reduce assistance. An additional $1.8 billion in US humanitarian funding will allow the United Nations and its partners to expand emergency relief operations reaching millions of people worldwide, as rising global needs and funding shortfalls force aid agencies to scale back assistance.",
@@ -201,147 +238,9 @@
       "translations": {}
     },
     {
-      "title": "Chad’s refugee crisis overwhelms maternity care in east, UN agency warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167494",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-05-12T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-02-2026-UNICEF-Chad.jpg/image560x340cropped.jpg",
-      "summary": "Chad's refugee crisis is overwhelming maternity care in the country's east Many women in eastern Chad are being forced to give birth in overcrowded clinics with limited medicine, minimal equipment and severe shortages of anesthesia, as a worsening humanitarian crisis overwhelms the country’s fragile healthcare system, the UN reproductive health agency, UNFPA, warned on Tuesday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "सरसों तेल, काले तिल और दीपक के बिना अधूरी मानी जाती है पूजा, जानें इन चीजों का महत्व",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/shani-jayanti-special-significance-of-mustard-oil-black-sesame-and-diyas-on-shani-jayanti-2026-05-14",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-15T07:28:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/05/shani-jayanti-2026_bb218f3977613e011c097dcc1d134d19.jpeg?w=750&dpr=1.0",
-      "summary": "शनि जयंती पर सरसों का तेल, काले तिल और दीपक का विशेष शनि जयंती पर सरसों तेल, काले तिल और दीपक का विशेष महत्व माना जाता है। ये उपाय नकारात्मक ऊर्जा को दूर कर शनि देव की कृपा, शांति, सुख और समृद्धि प्राप्त करने में सहायक माने जाते हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सरसों तेल, काले तिल और दीपक के बिना अधूरी मानी जाती है पूजा, जानें इन चीजों का महत्व",
-          "summary": "शनि जयंती पर सरसों का तेल, काले तिल और दीपक का विशेष शनि जयंती पर सरसों तेल, काले तिल और दीपक का विशेष महत्व माना जाता है। ये उपाय नकारात्मक ऊर्जा को दूर कर शनि देव की कृपा, शांति, सुख और समृद्धि प्राप्त करने में सहायक माने जाते हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शुभ संयोग में शनि जयंती, जानें कैसे करें शनिदेव की पूजा जिससे दूर होंगे दोष",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/shani-dev-puja-vidhi-niyam-and-importance-in-hindi-2026-05-14",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-15T07:28:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/shani-jayanti-2026_62658216780297cea95deb4e966eb3c1.jpeg?w=750&dpr=1.0",
-      "summary": "16 मई 2026 को शनि जयंती मनाई जाएगी। इस दिन सच्चे मन से पूजा और दान-पुण्य करने से शनि देव की कृपा प्राप्त होती है और दोष दूर होते हैं। Shani Jayanti 2026: इस साल शनि जयंती 16 मई 2026, शनिवार के दिन मनाई जाएगी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शुभ संयोग में शनि जयंती, जानें कैसे करें शनिदेव की पूजा जिससे दूर होंगे दोष",
-          "summary": "16 मई 2026 को शनि जयंती मनाई जाएगी। इस दिन सच्चे मन से पूजा और दान-पुण्य करने से शनि देव की कृपा प्राप्त होती है और दोष दूर होते हैं। Shani Jayanti 2026: इस साल शनि जयंती 16 मई 2026, शनिवार के दिन मनाई जाएगी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मुश्किल समय में इंसान को मजबूत बनाती हैं गीता की ये बातें, हमेशा रखें इनका ध्यान",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/wellness/shree-krishna-quotes-for-decision-making-in-difficult-times-2026-05-14",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-15T07:28:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/26/geeta-ke-updesh_a8cd4d07c974691e1996e3b0a3443ac0.jpeg?w=750&dpr=1.0",
-      "summary": "गीता के उपदेश सफलता का मार्ग दिखाते हैं। यह मानसिक शांति, आत्मविश्वास बढ़ाते हैं और जीवन में सही निर्णय लेने की शक्ति प्रदान करते हैं। Geeta Updesh In Hindi: माना जाता है कि, गीता न केवल सफलता का मार्ग दिखाती हैं, बल्कि मानसिक शांति और व्यक्ति के आत्मविश्वास को भी बढ़ाती हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुश्किल समय में इंसान को मजबूत बनाती हैं गीता की ये बातें, हमेशा रखें इनका ध्यान",
-          "summary": "गीता के उपदेश सफलता का मार्ग दिखाते हैं। यह मानसिक शांति, आत्मविश्वास बढ़ाते हैं और जीवन में सही निर्णय लेने की शक्ति प्रदान करते हैं। Geeta Updesh In Hindi: माना जाता है कि, गीता न केवल सफलता का मार्ग दिखाती हैं, बल्कि मानसिक शांति और व्यक्ति के आत्मविश्वास को भी बढ़ाती हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गंगा एक्सप्रेसवे पर मुफ्त यात्रा खत्म, टोल वसूली शुरू; यहां जानें किस वाहन को कितना देना होगा शुल्क",
-      "url": "https://www.amarujala.com/lucknow/lucknow-free-travel-on-ganga-expressway-ends-toll-collection-begins-from-midnight-2026-05-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-15T07:21:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/30/gaga-ekasaparasava_6c1c6b03b4e1772fba988522806288ff.jpeg?w=750&dpr=1.0",
-      "summary": "594 किलोमीटर लंबे गंगा एक्सप्रेसवे पर टोल वसूली शुरू हो गई है। अब इस मार्ग पर मुफ्त यात्रा की सुविधा समाप्त हो गई है। प्रदेश के सबसे लंबे (594 किमी) गंगा एक्सप्रेसवे पर अब मुफ्त सफर का दौर खत्म हो गया है। गंगा एक्सप्रेसवे पर मुफ्त यात्रा खत्म, टोल वसूली शुरू; यहां जानें किस वाहन को कितना देना होगा शुल्क।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गंगा एक्सप्रेसवे पर मुफ्त यात्रा खत्म, टोल वसूली शुरू; यहां जानें किस वाहन को कितना देना होगा शुल्क",
-          "summary": "594 किलोमीटर लंबे गंगा एक्सप्रेसवे पर टोल वसूली शुरू हो गई है। अब इस मार्ग पर मुफ्त यात्रा की सुविधा समाप्त हो गई है। प्रदेश के सबसे लंबे (594 किमी) गंगा एक्सप्रेसवे पर अब मुफ्त सफर का दौर खत्म हो गया है। गंगा एक्सप्रेसवे पर मुफ्त यात्रा खत्म, टोल वसूली शुरू; यहां जानें किस वाहन को कितना देना होगा शुल्क।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "150 एनबीएफसी कंपनियों के लाइसेंस रद्द, अब नहीं कर पाएंगी पैसों का लेन-देन",
-      "url": "https://www.amarujala.com/business/business-diary/rbi-takes-major-action-licenses-of-150-nbfcs-cancelled-they-can-no-longer-conduct-financial-transactions-2026-05-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-14T22:53:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/09/rbi-mpc-updates_8f724e92ee9931f6d664856266603768.jpeg?w=750&dpr=1.0",
-      "summary": "भारतीय रिजर्व बैंक ने 150 गैर-बैंकिंग वित्तीय कंपनियों आरबीआई का बड़ा एक्शन: 150 एनबीएफसी कंपनियों के लाइसेंस रद्द, अब नहीं कर पाएंगी पैसों का लेन-देन।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "150 एनबीएफसी कंपनियों के लाइसेंस रद्द, अब नहीं कर पाएंगी पैसों का लेन-देन",
-          "summary": "भारतीय रिजर्व बैंक ने 150 गैर-बैंकिंग वित्तीय कंपनियों आरबीआई का बड़ा एक्शन: 150 एनबीएफसी कंपनियों के लाइसेंस रद्द, अब नहीं कर पाएंगी पैसों का लेन-देन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "महाराष्ट्र विधान परिषद में 10 नए सदस्यों ने ली शपथ; AIMIM ने SIR के तीसरे चरण का स्वागत किया",
-      "url": "https://www.amarujala.com/india-news/maharashtra-updates-sir-phase-3-vidhan-parishad-oath-mumbai-nagpur-pune-politics-crime-and-other-hindi-news-2026-05-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-14T22:46:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=750&dpr=1.0",
-      "summary": "महाराष्ट्र विधान परिषद में 10 नए सदस्यों ने शपथ ली। इनमें भारतीय जनता पार्टी के चार, शिवसेना के दो, राष्ट्रवादी कांग्रेस पार्टी के दो और कांग्रेस के दो सदस्य शामिल हैं। इस बीच, ऑल इंडिया मजलिस-ए-इत्तेहादुल मुस्लिमीन (AIMIM) ने महाराष्ट्र सरकार के 'सरल' (SIR) योजना के तीसरे चरण के शुभारंभ का स्वागत किया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "महाराष्ट्र विधान परिषद में 10 नए सदस्यों ने ली शपथ; AIMIM ने SIR के तीसरे चरण का स्वागत किया",
-          "summary": "महाराष्ट्र विधान परिषद में 10 नए सदस्यों ने शपथ ली। इनमें भारतीय जनता पार्टी के चार, शिवसेना के दो, राष्ट्रवादी कांग्रेस पार्टी के दो और कांग्रेस के दो सदस्य शामिल हैं। इस बीच, ऑल इंडिया मजलिस-ए-इत्तेहादुल मुस्लिमीन (AIMIM) ने महाराष्ट्र सरकार के 'सरल' (SIR) योजना के तीसरे चरण के शुभारंभ का स्वागत किया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरान-यूएई के बीच बहस से साझा घोषणापत्र पर मंडराया संकट, विवादों ने बढ़ाई कड़वाहट",
-      "url": "https://www.amarujala.com/india-news/brics-summit-iran-uae-dispute-casts-shadow-over-joint-declaration-controversies-heighten-bitterness-2026-05-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-14T22:45:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/02/iran-fm-says-tehran-lost-trust-with-us-as-negotiating-partner-seeks-fair-and-equitable-deal_ab586f4af0ac3ba07db26310aeaffb48.jpeg?w=750&dpr=1.0",
-      "summary": "ईरान और संयुक्त अरब अमीरात के बीच ब्रिक्स सम्मेलन में हुई बहस ने साझा घोषणापत्र को खतरे में डाल दिया। दोनों देशों के बीच विवादों ने कड़वाहट बढ़ा दी। यह घटनाक्रम सम्मेलन के दौरान दोनों देशों के प्रतिनिधियों के बीच हुई तीखी नोकझोंक के बाद सामने आया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान-यूएई के बीच बहस से साझा घोषणापत्र पर मंडराया संकट, विवादों ने बढ़ाई कड़वाहट",
-          "summary": "ईरान और संयुक्त अरब अमीरात के बीच ब्रिक्स सम्मेलन में हुई बहस ने साझा घोषणापत्र को खतरे में डाल दिया। दोनों देशों के बीच विवादों ने कड़वाहट बढ़ा दी। यह घटनाक्रम सम्मेलन के दौरान दोनों देशों के प्रतिनिधियों के बीच हुई तीखी नोकझोंक के बाद सामने आया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "'PM मोदी अमीरात के लिए अनमोल': इंसानी नातों का जिक्र कर बोलीं मंत्री- UAE-भारत संबंध नई ऊंचाइयां",
       "url": "https://www.amarujala.com/india-news/uae-minister-reem-al-hashimy-ahead-of-pm-modis-visit-bilateral-trade-200-billion-india-ai-cooperation-2026-05-15",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-14T22:27:48+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/yaeii-ka-matara_337db0922378c85d2daa19d4f5029f74.jpeg?w=750&dpr=1.0",
@@ -353,24 +252,6 @@
           "title": "'PM मोदी अमीरात के लिए अनमोल': इंसानी नातों का जिक्र कर बोलीं मंत्री- UAE-भारत संबंध नई ऊंचाइयां",
           "summary": "प्रधानमंत्री मोदी की संयुक्त अरब अमीरात यात्रा से पहले, देश की अंतर्राष्ट्रीय सहयोग मंत्री रीम अल हेशेमी ने कहा कि मोदी देश के लिए अनमोल हैं। उन्होंने दोनों देशों के बीच बढ़ते संबंधों का उल्लेख किया। अल हेशेमी ने कहा कि भारत और यूएई के बीच द्विपक्षीय व्यापार 200 अरब डॉलर तक पहुंच गया है। दोनों देश आर्टिफिशियल इंटेलिजेंस में सहयोग बढ़ा रहे हैं।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "SIR के तीसरे चरण की हुई घोषणा, भड़के विपक्षी नेताओं ने दागे सवाल",
-      "url": "https://www.amarujala.com/video/india-news/eci-on-sir-phase-3-third-phase-of-sir-announced-enraged-opposition-leaders-questioned-2026-05-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-14T22:15:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/eci-on-sir-phase-3_f8005b1ab5a4adbb4add5a8200c822ce.jpeg?w=750&dpr=1.0",
-      "summary": "भारत निर्वाचन आयोग ने 'सुरक्षित, सुगम और उत्तरदायी' (SIR) पहल के तीसरे चरण की घोषणा की है। इस चरण में मतदाता पंजीकरण और चुनावी प्रक्रिया में सुधार पर ध्यान केंद्रित किया जाएगा। विपक्षी नेताओं ने इस घोषणा पर चिंता व्यक्त की है। उन्होंने आयोग से पारदर्शिता और निष्पक्षता सुनिश्चित करने के लिए अतिरिक्त उपायों की मांग की है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "SIR के तीसरे चरण की हुई घोषणा, भड़के विपक्षी नेताओं ने दागे सवाल",
-          "summary": "भारत निर्वाचन आयोग ने 'सुरक्षित, सुगम और उत्तरदायी' (SIR) पहल के तीसरे चरण की घोषणा की है। इस चरण में मतदाता पंजीकरण और चुनावी प्रक्रिया में सुधार पर ध्यान केंद्रित किया जाएगा। विपक्षी नेताओं ने इस घोषणा पर चिंता व्यक्त की है। उन्होंने आयोग से पारदर्शिता और निष्पक्षता सुनिश्चित करने के लिए अतिरिक्त उपायों की मांग की है।",
-          "region": "दुनिया"
         }
       }
     },
@@ -396,7 +277,24 @@
       "title": "यूएई ने कहा- ओमान में जहाज पर आतंकी हमला चिंताजनक; रूबियो बोले- ताइवान पर चीनी सैन्य कार्रवाई भूल",
       "url": "https://www.amarujala.com/world/world-news-updates-un-rubio-taiwan-china-uae-west-asia-iran-us-russia-ukraine-politics-crime-and-global-events-2026-05-15",
       "source": "Amar Ujala World",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://www.amarujala.com/world/world-news-updates-un-rubio-taiwan-china-uae-west-asia-iran-us-russia-ukraine-politics-crime-and-global-events-2026-05-15",
+          "source": "Amar Ujala World"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY3dmLUE0aDNuR2xrUUZ4TG54Q1h1ZUNSeWVZWmpXaWVxSzhqenZNSzFUUzBfcGlZZTFlS2QxWjhSRk9fZGZSQklvRlFjSnlLdXdFU3pCMk8xZ0FSaWhtdGh4dTVtQ3p6N01aZXV5Z1g0c2VXNnFOalk1M0RtRXBhYUlRckFFZllVa0NVWjRsNnNQQ2pBWnJkdEFCX2s3VWR5Y0lUQm95U1k4ZXkzXzFad0JKX2VVbmdDcGxRYjhWYUdOakFaUkV5dVF1RnlyTlVlU092ZGh4eXVWbzdKeHFsSkZqdFpsTUh60gHuAUFVX3lxTFA0aGFMU2tjaWFZLVRTUW1iekZCS0NuVktYYlZ3RDhnVlpUVE1wN1YzZzcxb2hLeFdDSEp0UEw3SnNCZXZjNGNrQ0FJU2JTVWtTWW51c2MtcXpyQnJWWUljc2VubFpPYV9mQVpocDJIeHM3U2Y2QjRxNXVKaWVLTHp5eTFCNERKMnFqd3NGWkNodHVhVzJoNDFVUEF5dEZyLU9HNXA0emRXWjRQOUxuZVE5OUhKbFU2cXFWMGhFeGFLSDN1M1ROSDhhNlVVVV9oZUpwWU5vZXp0YWYtaWd3NHg4bUttNHQzQ1djbHd3cWc?oc=5",
+          "source": "Google News Hindi (संयुक्त राष्ट्र)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY3dmLUE0aDNuR2xrUUZ4TG54Q1h1ZUNSeWVZWmpXaWVxSzhqenZNSzFUUzBfcGlZZTFlS2QxWjhSRk9fZGZSQklvRlFjSnlLdXdFU3pCMk8xZ0FSaWhtdGh4dTVtQ3p6N01aZXV5Z1g0c2VXNnFOalk1M0RtRXBhYUlRckFFZllVa0NVWjRsNnNQQ2pBWnJkdEFCX2s3VWR5Y0lUQm95U1k4ZXkzXzFad0JKX2VVbmdDcGxRYjhWYUdOakFaUkV5dVF1RnlyTlVlU092ZGh4eXVWbzdKeHFsSkZqdFpsTUh60gHuAUFVX3lxTFA0aGFMU2tjaWFZLVRTUW1iekZCS0NuVktYYlZ3RDhnVlpUVE1wN1YzZzcxb2hLeFdDSEp0UEw3SnNCZXZjNGNrQ0FJU2JTVWtTWW51c2MtcXpyQnJWWUljc2VubFpPYV9mQVpocDJIeHM3U2Y2QjRxNXVKaWVLTHp5eTFCNERKMnFqd3NGWkNodHVhVzJoNDFVUEF5dEZyLU9HNXA0emRXWjRQOUxuZVE5OUhKbFU2cXFWMGhFeGFLSDN1M1ROSDhhNlVVVV9oZUpwWU5vZXp0YWYtaWd3NHg4bUttNHQzQ1djbHd3cWc?oc=5",
+          "source": "Google News Hindi (संयुक्त राष्ट्र)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY3dmLUE0aDNuR2xrUUZ4TG54Q1h1ZUNSeWVZWmpXaWVxSzhqenZNSzFUUzBfcGlZZTFlS2QxWjhSRk9fZGZSQklvRlFjSnlLdXdFU3pCMk8xZ0FSaWhtdGh4dTVtQ3p6N01aZXV5Z1g0c2VXNnFOalk1M0RtRXBhYUlRckFFZllVa0NVWjRsNnNQQ2pBWnJkdEFCX2s3VWR5Y0lUQm95U1k4ZXkzXzFad0JKX2VVbmdDcGxRYjhWYUdOakFaUkV5dVF1RnlyTlVlU092ZGh4eXVWbzdKeHFsSkZqdFpsTUh60gHuAUFVX3lxTFA0aGFMU2tjaWFZLVRTUW1iekZCS0NuVktYYlZ3RDhnVlpUVE1wN1YzZzcxb2hLeFdDSEp0UEw3SnNCZXZjNGNrQ0FJU2JTVWtTWW51c2MtcXpyQnJWWUljc2VubFpPYV9mQVpocDJIeHM3U2Y2QjRxNXVKaWVLTHp5eTFCNERKMnFqd3NGWkNodHVhVzJoNDFVUEF5dEZyLU9HNXA0emRXWjRQOUxuZVE5OUhKbFU2cXFWMGhFeGFLSDN1M1ROSDhhNlVVVV9oZUpwWU5vZXp0YWYtaWd3NHg4bUttNHQzQ1djbHd3cWc?oc=5",
+          "source": "Google News Hindi (संयुक्त राष्ट्र)"
+        }
+      ],
       "published_at": "2026-05-14T20:37:32+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=750&dpr=1.0",
       "summary": "संयुक्त अरब अमीरात ने ओमान के तट पर एक जहाज पर हुए हमले को चिंताजनक बताया है। यह घटना ऐसे समय हुई है जब क्षेत्र में तनाव बना हुआ है। इस बीच, अमेरिकी सीनेटर मार्को रूबियो ने कहा कि ताइवान पर चीन की कोई भी सैन्य कार्रवाई एक बड़ी भूल होगी।",
@@ -407,78 +305,6 @@
           "title": "यूएई ने कहा- ओमान में जहाज पर आतंकी हमला चिंताजनक; रूबियो बोले- ताइवान पर चीनी सैन्य कार्रवाई भूल",
           "summary": "संयुक्त अरब अमीरात ने ओमान के तट पर एक जहाज पर हुए हमले को चिंताजनक बताया है। यह घटना ऐसे समय हुई है जब क्षेत्र में तनाव बना हुआ है। इस बीच, अमेरिकी सीनेटर मार्को रूबियो ने कहा कि ताइवान पर चीन की कोई भी सैन्य कार्रवाई एक बड़ी भूल होगी।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी नागरिकों से 85 लाख डॉलर की ठगी, CBI ने मुख्य आरोपी को गिरफ्तार किया",
-      "url": "https://www.amarujala.com/india-news/national-news-updates-15th-may-north-east-west-south-india-politics-cbi-ed-crime-news-in-hindi-2026-05-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-14T20:37:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=750&dpr=1.0",
-      "summary": "केंद्रीय जांच ब्यूरो (CBI) ने अमेरिका के नागरिकों से 85 लाख डॉलर की ठगी के मामले में मुख्य आरोपी को गिरफ्तार किया है। यह गिरफ्तारी दिल्ली में हुई। आरोपी एक अंतरराष्ट्रीय कॉल सेंटर चलाता था। यह कॉल सेंटर अमेरिका के नागरिकों को निशाना बनाता था।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी नागरिकों से 85 लाख डॉलर की ठगी, CBI ने मुख्य आरोपी को गिरफ्तार किया",
-          "summary": "केंद्रीय जांच ब्यूरो (CBI) ने अमेरिका के नागरिकों से 85 लाख डॉलर की ठगी के मामले में मुख्य आरोपी को गिरफ्तार किया है। यह गिरफ्तारी दिल्ली में हुई। आरोपी एक अंतरराष्ट्रीय कॉल सेंटर चलाता था। यह कॉल सेंटर अमेरिका के नागरिकों को निशाना बनाता था।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "वैश्विक राहत के लिए अमेरिका की $1.8 अरब धनराशि देने की घोषणा का स्वागत",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0UjBiTjhpYm9LcVdkRXRZTmp1SlZ4VzB5Y1ppVnNsNkhaeW9vdk9mTTBqdExac1J5UjdaNllLZHEwX1BFUXRMd2NpR0dBOGJOdUtpSUNKNA?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-14T20:33:08+00:00",
-      "image_url": "https://images.pexels.com/photos/20356790/pexels-photo-20356790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने वैश्विक मानवीय सहायता के लिए संयुक्त राज्य अमेरिका द्वारा $1.8 अरब की नई धनराशि देने की घोषणा का स्वागत किया है। यह सहायता उन देशों को मिलेगी जो संघर्ष, जलवायु परिवर्तन और आर्थिक संकटों से प्रभावित हैं। यह घोषणा न्यूयॉर्क में संयुक्त राष्ट्र मुख्यालय में हुई।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वैश्विक राहत के लिए अमेरिका की $1.8 अरब धनराशि देने की घोषणा का स्वागत",
-          "summary": "संयुक्त राष्ट्र ने वैश्विक मानवीय सहायता के लिए संयुक्त राज्य अमेरिका द्वारा $1.8 अरब की नई धनराशि देने की घोषणा का स्वागत किया है। यह सहायता उन देशों को मिलेगी जो संघर्ष, जलवायु परिवर्तन और आर्थिक संकटों से प्रभावित हैं। यह घोषणा न्यूयॉर्क में संयुक्त राष्ट्र मुख्यालय में हुई।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "लिंगायत मठ के वचनानंद स्वामीजी पर पॉक्सो एक्ट में केस दर्ज, नाबालिग से यौन उत्पीड़न का आरोप",
-      "url": "https://www.amarujala.com/india-news/karnataka-case-registered-against-lingayat-mutts-vachananand-swamiji-under-pocso-act-accused-of-abusing-minor-2026-05-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-14T20:27:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/05/aparathha_b036215027346c0efa4a8c1e10b04a88.jpeg?w=750&dpr=1.0",
-      "summary": "लिंगायत मठ के वचनानंद स्वामीजी के खिलाफ पॉक्सो अधिनियम के तहत मामला दर्ज किया गया है। उन पर एक नाबालिग से यौन उत्पीड़न का आरोप है। पुलिस मामले की जांच कर रही है। Karnataka: लिंगायत मठ के वचनानंद स्वामीजी पर पॉक्सो एक्ट में केस दर्ज, नाबालिग से यौन उत्पीड़न का आरोप।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लिंगायत मठ के वचनानंद स्वामीजी पर पॉक्सो एक्ट में केस दर्ज, नाबालिग से यौन उत्पीड़न का आरोप",
-          "summary": "लिंगायत मठ के वचनानंद स्वामीजी के खिलाफ पॉक्सो अधिनियम के तहत मामला दर्ज किया गया है। उन पर एक नाबालिग से यौन उत्पीड़न का आरोप है। पुलिस मामले की जांच कर रही है। Karnataka: लिंगायत मठ के वचनानंद स्वामीजी पर पॉक्सो एक्ट में केस दर्ज, नाबालिग से यौन उत्पीड़न का आरोप।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "डीडीए के किसी भी पार्क में सुबह 10 बजे तक एंट्री फ्री, एलजी संधू के निर्देश से कई लोगों को राहत",
-      "url": "https://www.amarujala.com/delhi-ncr/entry-to-any-dda-park-is-free-till-10-am-2026-05-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-14T20:26:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/07/health-morning-walk_3dedfed3f1217702990b9326fad6fa9a.jpeg?w=750&dpr=1.0",
-      "summary": "दिल्ली विकास प्राधिकरण के पार्कों में सुबह 10 बजे तक प्रवेश निःशुल्क होगा। उपराज्यपाल वी. के. सक्सेना ने यह निर्देश दिया है। इसका उद्देश्य दिल्लीवासियों को मॉर्निंग वॉक और अन्य फिटनेस गतिविधियों के लिए प्रोत्साहित करना है। दिल्ली में मॉर्निंग वॉक और फिटनेस गतिविधियों को बढ़ावा देने के लिए डीडीए के किसी भी पार्क में सुबह 10 बजे तक फ्री एंट्री मिलेगी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डीडीए के किसी भी पार्क में सुबह 10 बजे तक एंट्री फ्री, एलजी संधू के निर्देश से कई लोगों को राहत",
-          "summary": "दिल्ली विकास प्राधिकरण के पार्कों में सुबह 10 बजे तक प्रवेश निःशुल्क होगा। उपराज्यपाल वी. के. सक्सेना ने यह निर्देश दिया है। इसका उद्देश्य दिल्लीवासियों को मॉर्निंग वॉक और अन्य फिटनेस गतिविधियों के लिए प्रोत्साहित करना है। दिल्ली में मॉर्निंग वॉक और फिटनेस गतिविधियों को बढ़ावा देने के लिए डीडीए के किसी भी पार्क में सुबह 10 बजे तक फ्री एंट्री मिलेगी।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -501,24 +327,6 @@
       }
     },
     {
-      "title": "केजरीवाल, सिसोदिया समेत 6 नेताओं पर होगी अवमानना की कार्यवाही,बढ़ी मुश्किलें!",
-      "url": "https://www.amarujala.com/video/india-news/delhi-high-court-contempt-proceedings-will-be-initiated-against-6-leaders-including-kejriwal-and-sisodia-pro-2026-05-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-14T20:15:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/delhi-high-court_315c9d35902b7ad585c9da612b80a7c9.jpeg?w=750&dpr=1.0",
-      "summary": "दिल्ली उच्च न्यायालय ने मुख्यमंत्री अरविंद केजरीवाल और उपमुख्यमंत्री मनीष सिसोदिया सहित छह नेताओं के खिलाफ अवमानना कार्यवाही का आदेश दिया है। इस फैसले से उनकी मुश्किलें बढ़ गई हैं। Delhi High Court: केजरीवाल, सिसोदिया समेत 6 नेताओं पर होगी अवमानना की कार्यवाही, बढ़ी मुश्किलें!",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केजरीवाल, सिसोदिया समेत 6 नेताओं पर होगी अवमानना की कार्यवाही,बढ़ी मुश्किलें!",
-          "summary": "दिल्ली उच्च न्यायालय ने मुख्यमंत्री अरविंद केजरीवाल और उपमुख्यमंत्री मनीष सिसोदिया सहित छह नेताओं के खिलाफ अवमानना कार्यवाही का आदेश दिया है। इस फैसले से उनकी मुश्किलें बढ़ गई हैं। Delhi High Court: केजरीवाल, सिसोदिया समेत 6 नेताओं पर होगी अवमानना की कार्यवाही, बढ़ी मुश्किलें!",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "ईरान ने UAE पर लगाए गंभीर आरोप, कहा- ये मददगार नहीं बल्कि खुद एक हमलावर",
       "url": "https://www.amarujala.com/india-news/iran-levels-serious-allegations-against-uae-says-they-sheltered-attackers-not-a-helper-attack-itself-2026-05-15",
       "source": "Amar Ujala Breaking",
@@ -537,60 +345,6 @@
       }
     },
     {
-      "title": "अफ़ग़ानिस्तान में पत्रकारों की गिरफ़्तारी पर गम्भीर चिन्ता",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5na05rck5NcEZpcjhMVW12ckp2Sm5yRDFaVS1oV1RNQmpLNzR6eTlJaThSb0pMcngwLXd2TkhGeGxGMGZyRVlOUVhWdGhkNjNGRnh2TVRJcw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-14T19:25:02+00:00",
-      "image_url": "https://images.pexels.com/photos/7155432/pexels-photo-7155432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने अफगानिस्तान में पत्रकारों की गिरफ्तारी पर गंभीर चिंता व्यक्त की है। यह घटनाक्रम देश में मीडिया की स्वतंत्रता पर सवाल उठाता है। अफ़ग़ानिस्तान में पत्रकारों की गिरफ़्तारी पर गम्भीर चिन्ता Welcome to the United Nations।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अफ़ग़ानिस्तान में पत्रकारों की गिरफ़्तारी पर गम्भीर चिन्ता",
-          "summary": "संयुक्त राष्ट्र ने अफगानिस्तान में पत्रकारों की गिरफ्तारी पर गंभीर चिंता व्यक्त की है। यह घटनाक्रम देश में मीडिया की स्वतंत्रता पर सवाल उठाता है। अफ़ग़ानिस्तान में पत्रकारों की गिरफ़्तारी पर गम्भीर चिन्ता Welcome to the United Nations।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यूएन मध्यस्थता के फलस्वरूप, 1,600 बन्दियों को रिहा किए जाने पर सहमति",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQ211QkUwNG02bHV6SVhXWUlSVjYxM0NLRUxIdVRyaEtnMGN2S3dvVTM0bUdNVk56Z250bXNIUjRQZklsVEpNQjNGR3ZvQ3NHcnV3QUtfUQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-14T19:22:52+00:00",
-      "image_url": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र की मध्यस्थता के बाद यमन में 1,600 बंदियों को रिहा करने पर सहमति बनी है। यह समझौता शांति प्रक्रिया की दिशा में एक कदम है। यमन: यूएन मध्यस्थता के फलस्वरूप, 1,600 बन्दियों को रिहा किए जाने पर सहमति Welcome to the United Nations।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूएन मध्यस्थता के फलस्वरूप, 1,600 बन्दियों को रिहा किए जाने पर सहमति",
-          "summary": "संयुक्त राष्ट्र की मध्यस्थता के बाद यमन में 1,600 बंदियों को रिहा करने पर सहमति बनी है। यह समझौता शांति प्रक्रिया की दिशा में एक कदम है। यमन: यूएन मध्यस्थता के फलस्वरूप, 1,600 बन्दियों को रिहा किए जाने पर सहमति Welcome to the United Nations।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmxVQVQ3cV9tR25aeEVXWWM1U0NiSFI3TUJ1TEU5VFVzN0x3NlJxZ01NUEptYlVqQmJJWUx5cmZlNDduUVZCZTRQVnRIWXFxRzVvWGJDYXJ2YTVRRlFsYk11MF9aazl2WVNUSXM3RTQ2cGRlRWQ4WWFlSmlaMThSVlFVdWNLOG1fRjNkUktCdHlkV0VkZ2FRR2huLXFfUXg1YmpjRTlrcWh2dGJMa1dXOGR3WnBfZTFwOWVZ?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-05-14T18:31:40+00:00",
-      "image_url": "https://images.pexels.com/photos/34653644/pexels-photo-34653644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने 15 मई को अंतरराष्ट्रीय परिवार दिवस मनाया। यह दिन परिवार के महत्व और सामाजिक एकता में उसकी भूमिका पर प्रकाश डालता है। यह परिवारों के प्रति जागरूकता बढ़ाने और उनकी सुरक्षा को बढ़ावा देने का अवसर है। अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार DD News।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार",
-          "summary": "संयुक्त राष्ट्र ने 15 मई को अंतरराष्ट्रीय परिवार दिवस मनाया। यह दिन परिवार के महत्व और सामाजिक एकता में उसकी भूमिका पर प्रकाश डालता है। यह परिवारों के प्रति जागरूकता बढ़ाने और उनकी सुरक्षा को बढ़ावा देने का अवसर है। अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार DD News।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
       "title": "भारत ने पश्चिम एशिया संकट और एकतरफा प्रतिबंधों पर गंभीर चिंता जताई",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZG5MVGs4dEh1UTlaWWdybmhjZmd4QjAyNTNFRE00YTUzYUw1am1BMmFvYV9zSDBsZTM5M2JUYkNpNnlTS1dTUUgxU0JKTFJvcFdsQVFYd1Q1T0l4RFdob3F2a1VPS3lmSnRabHBwN2tUekhtOTFyNmc0STdmWXdwU2lXMTdYYzFwZUR6RkNNZDMtbjdzRG1ERDdkZjhJVjltaXdBSDJVT2lOQ2dUSVNSYmM2X3hWWS1LMFHSAb8BQVVfeXFMTlJOeHZpakxJMjRZQ19PQ0R1SFJ2aTVRa1BUQ2h3S0IyUVpEZmpDMjZha0dDQ0M0bExJVkJfOUNWTHozem1kZ3RUMENPd0ZmX1ZmV0tzMjRQUHZzWW1SSE00WERyRHMzbHV4d2plVUFfZVp1cVh4Q05DUkUwQjJFRUhsTVpWbzk5OVBrLXNtVmwwckhCQTJKbEJnTXFCa0lrc1JBRTlWc3daOW1RdzFUQUxhV01FLUJtd2hHNHNRbEU?oc=5",
       "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
@@ -605,24 +359,6 @@
           "title": "भारत ने पश्चिम एशिया संकट और एकतरफा प्रतिबंधों पर गंभीर चिंता जताई",
           "summary": "भारत ने पश्चिम एशिया में जारी संकट और एकतरफा प्रतिबंधों पर भारत ने पश्चिम एशिया संकट और एकतरफा प्रतिबंधों पर गंभीर चिंता जताई ThePrint Hindi।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'अकड़ ले डूबती है कूटनीति', नेपाल के लिए संकट कैसे पैदा कर हैं बालेन शाह?",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRGtocV9jNk1MWkU2QmVUTWRkdjJUM3dySnZpY2NCR0ROajFQcEliZnl2UDcwSjdRT3VXWmdRcVZDTllrVTJEM1c4ZG9jUG5pOEdPVDZRalJvd19UNWJ3R3dUYkRobFVlSzNfUjFSVHhkV2FVSEFWdXludWdiaWphbEUxQXRGdW9acERVZUN6YkRCU2xqaUJHUC1oaW0xVlRvNjZZT1ZCSy1XRG92RXdnM2VoZzJNZEt4TzQxWjh4MVpodjUyTGM0UzRPSGZjd1Q2eTB5SzRtOEtnYkl0Ymw2djZSZHhmckpXYUJVQVpRcGx3X3NBdmc0?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-14T15:54:35+00:00",
-      "image_url": "https://images.pexels.com/photos/3651632/pexels-photo-3651632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "काठमांडू के मेयर बालेन शाह की कूटनीतिक बयानबाजी ने नेपाल के लिए मुश्किलें खड़ी कर दी हैं। उनके बयानों से पड़ोसी देशों के साथ संबंध तनावपूर्ण हो गए हैं। यह स्थिति नेपाल की विदेश नीति के लिए चिंता का विषय है। 'अकड़ ले डूबती है कूटनीति', नेपाल के लिए संकट कैसे पैदा कर हैं बालेन शाह?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'अकड़ ले डूबती है कूटनीति', नेपाल के लिए संकट कैसे पैदा कर हैं बालेन शाह?",
-          "summary": "काठमांडू के मेयर बालेन शाह की कूटनीतिक बयानबाजी ने नेपाल के लिए मुश्किलें खड़ी कर दी हैं। उनके बयानों से पड़ोसी देशों के साथ संबंध तनावपूर्ण हो गए हैं। यह स्थिति नेपाल की विदेश नीति के लिए चिंता का विषय है। 'अकड़ ले डूबती है कूटनीति', नेपाल के लिए संकट कैसे पैदा कर हैं बालेन शाह?",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -659,6 +395,312 @@
           "title": "लंबे वक्त तक संघर्ष में फंसे रहने की गलती नहीं करनी चाहिए : सीडीएस अनिल चौहान",
           "summary": "चीफ ऑफ डिफेंस स्टाफ अनिल चौहान ने कहा कि लंबे समय तक संघर्ष में फंसे रहने से बचना चाहिए। उन्होंने इस बात पर जोर दिया कि ऐसे हालात से बचना महत्वपूर्ण है। यह टिप्पणी वर्तमान भू-राजनीतिक परिदृश्य पर की गई है। लंबे वक्त तक संघर्ष में फंसे रहने की गलती नहीं करनी चाहिए: सीडीएस अनिल चौहान Navbharat Times।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "डॉनल्ड ट्रंप और शी जिनफिंग की मुलाकात के कूटनीतिक मायने",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZC1ueHdqajhjYXJJbF8xamtvTjl4dWpsUmUzdkN6aW9QTUcyRWRyNHdDNkhHcmtRSUFUc01IUUZfRnhhWC0zUHRaMm1oOTdlWmc5Ry1qQndOYkNmUi1FOXZYQkYzZmIxbFNtcjdoOUpTLVFUX1JFNk1wUDBOYXhwRlZDR1ZaNWJpeDctUlR2MDBjZUpZSjZuUjByQVRDbmZ0eWFzVGtGUQ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-14T11:44:52+00:00",
+      "image_url": "https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "डॉनल्ड ट्रंप और शी जिनफिंग ने सैन फ्रांसिस्को में मुलाकात की। दोनों नेताओं ने द्विपक्षीय संबंधों पर चर्चा की। यह मुलाकात अमेरिका-चीन संबंधों में तनाव के बीच हुई। डॉनल्ड ट्रंप और शी जिनफिंग की मुलाकात के कूटनीतिक मायने Pravakta. Com।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डॉनल्ड ट्रंप और शी जिनफिंग की मुलाकात के कूटनीतिक मायने",
+          "summary": "डॉनल्ड ट्रंप और शी जिनफिंग ने सैन फ्रांसिस्को में मुलाकात की। दोनों नेताओं ने द्विपक्षीय संबंधों पर चर्चा की। यह मुलाकात अमेरिका-चीन संबंधों में तनाव के बीच हुई। डॉनल्ड ट्रंप और शी जिनफिंग की मुलाकात के कूटनीतिक मायने Pravakta. Com।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "BRICS समिट में कूटनीतिक मुलाकात: प्रधानमंत्री मोदी ने विदेश मंत्रियों से की बातचीत",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUYzY016U050TjNVdHo1X0JpZThoYnZuTWN3cGhmVUFzeWFDS0ZfX1AzVE51QTFjY0lNN3pMNG9zV3BrZEV0YnhGM1JsMlNUVE9ZYXlEZGp3R3AtelUyRHhuQ0EyUWJxbm9heUNVaFF6ZXVjOGt2enRVc2R1b0N3c2lEcDFmTE9hM0xTNGdEUW9HQVRDNVJGcGxXYW45Y2xNMGg0NW5OM1BxcHA1Uy1YTFZuN0NxRlU?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-14T10:04:01+00:00",
+      "image_url": "https://images.pexels.com/photos/31035096/pexels-photo-31035096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "प्रधानमंत्री मोदी ने जोहान्सबर्ग में ब्रिक्स शिखर सम्मेलन के दौरान विदेश मंत्रियों से मुलाकात की। उन्होंने विभिन्न देशों के विदेश मंत्रियों के साथ द्विपक्षीय संबंधों पर बातचीत की। BRICS समिट में कूटनीतिक मुलाकात: प्रधानमंत्री मोदी ने विदेश मंत्रियों से की बातचीत DD News।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "BRICS समिट में कूटनीतिक मुलाकात: प्रधानमंत्री मोदी ने विदेश मंत्रियों से की बातचीत",
+          "summary": "प्रधानमंत्री मोदी ने जोहान्सबर्ग में ब्रिक्स शिखर सम्मेलन के दौरान विदेश मंत्रियों से मुलाकात की। उन्होंने विभिन्न देशों के विदेश मंत्रियों के साथ द्विपक्षीय संबंधों पर बातचीत की। BRICS समिट में कूटनीतिक मुलाकात: प्रधानमंत्री मोदी ने विदेश मंत्रियों से की बातचीत DD News।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी की कूटनीति की दुनिया में सराहना, फिनलैंड के राष्ट्रपति बोले दुनिया को भारत से सीखना चाहिए",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVEydkpNenZmd082VDA5RTB2bGRRWnBTUVZEczJQenJCaFdsaXA2TW40RDhIQXlfYnN6LWxTM1pXYUw4UXpMZmptdm9QV3M5ckJVMnVHdUxuaTl1VmVHeTBQbmhXMkdLUFRlVzlKMWx3QnZTY2hYYW1RcGp4TVZ3THBKVFg3c2xad3QtaDBheWVNZEFZbnNVUXBaNGJPUmpJTnRJMjFpcFdQRlR2MEZLNlJxaGJIakJUaV9rbkgwczEzUQ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-14T10:00:55+00:00",
+      "image_url": "https://images.pexels.com/photos/16457179/pexels-photo-16457179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "फिनलैंड के राष्ट्रपति सौली नीनिस्तो ने कहा कि दुनिया को भारत की कूटनीति से सीखना चाहिए। उन्होंने भारत की विदेश नीति की सराहना की। पीएम मोदी की कूटनीति की दुनिया में सराहना, फिनलैंड के राष्ट्रपति बोले दुनिया को भारत से सीखना चाहिए DD News।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी की कूटनीति की दुनिया में सराहना, फिनलैंड के राष्ट्रपति बोले दुनिया को भारत से सीखना चाहिए",
+          "summary": "फिनलैंड के राष्ट्रपति सौली नीनिस्तो ने कहा कि दुनिया को भारत की कूटनीति से सीखना चाहिए। उन्होंने भारत की विदेश नीति की सराहना की। पीएम मोदी की कूटनीति की दुनिया में सराहना, फिनलैंड के राष्ट्रपति बोले दुनिया को भारत से सीखना चाहिए DD News।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "क्या ईरान और इसराइल के बीच फंस गया है भारत?",
+      "url": "https://www.bbc.com/hindi/articles/cgqpne01jelo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-14T07:15:18+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68f3/live/9a4e1b50-4f64-11f1-bd52-e755d604ece4.jpg",
+      "summary": "ईरान के विदेश मंत्री दिल्ली में हैं और प्रधानमंत्री मोदी यूएई की यात्रा पर जा रहे हैं। इसराइल ने बिन्यामिन नेतन्याहू के यूएई दौरे का दावा किया जिसे यूएई ने खारिज कर दिया। भारत को विदेश नीति में संतुलन साधना पड़ रहा है। इसराइल ने बिन्यामिन नेतन्याहू के यूएई के गोपनीय दौरे का दावा किया और यूएई ने इसे ख़ारिज कर दिया.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या ईरान और इसराइल के बीच फंस गया है भारत?",
+          "summary": "ईरान के विदेश मंत्री दिल्ली में हैं और प्रधानमंत्री मोदी यूएई की यात्रा पर जा रहे हैं। इसराइल ने बिन्यामिन नेतन्याहू के यूएई दौरे का दावा किया जिसे यूएई ने खारिज कर दिया। भारत को विदेश नीति में संतुलन साधना पड़ रहा है। इसराइल ने बिन्यामिन नेतन्याहू के यूएई के गोपनीय दौरे का दावा किया और यूएई ने इसे ख़ारिज कर दिया.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप और शी जिनपिंग ने की मुलाकात",
+      "url": "https://www.bbc.com/hindi/articles/c5yxp9nz01zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-14T06:39:54+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f128/live/86cd8570-4f50-11f1-ac78-2112837ce2aa.jpg",
+      "summary": "डॉनल्ड ट्रंप और शी जिनपिंग ने सैन फ्रांसिस्को में मुलाकात की। दोनों नेताओं ने द्विपक्षीय संबंधों पर चर्चा की। ट्रंप और शी जिनपिंग ने मिलाया हाथ। ट्रंप और शी जिनपिंग ने की मुलाकात।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप और शी जिनपिंग ने की मुलाकात",
+          "summary": "डॉनल्ड ट्रंप और शी जिनपिंग ने सैन फ्रांसिस्को में मुलाकात की। दोनों नेताओं ने द्विपक्षीय संबंधों पर चर्चा की। ट्रंप और शी जिनपिंग ने मिलाया हाथ। ट्रंप और शी जिनपिंग ने की मुलाकात।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें : जयशंकर",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVm9MT2RYNW05X3VTdlBucmNyNnZZazljNG5kMGFYSEx5XzV4bFc2UURMZzVWcUpMT0Y4V29fQlNtM0prMzJuZVBmTTViZkM2WDBuRnN1RHF5amhLUGtuMktBenhraGptejRGTjk1Q05SaVctMWE4OHFlLTUwRmRQWnhnMl8xUUlLT0dGMnBvM3MtR19ibmlrVnMtWjZyQ0pjRHp5djZEU1NtYUJiVVdmUzZKcnp4S3JOR2pLeG9Ydy0wNElwT2FJZzJJSjRaZHpmZ045Z1JWNlVWZGhrSHFzMU1EeDZhY3dCWWgwODBYVkR6bWlvUThOb01qQ05tSGtLVHhpVA?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-05-14T06:28:00+00:00",
+      "image_url": "https://images.pexels.com/photos/8850837/pexels-photo-8850837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि वैश्विक अनिश्चितता के बीच ब्रिक्स समूह से रचनात्मक और स्थिर भूमिका की उम्मीदें बढ़ रही हैं। उन्होंने कहा कि ब्रिक्स का विस्तार हो रहा है और यह वैश्विक शासन में एक महत्वपूर्ण आवाज बन रहा है। वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें: जयशंकर IANS LIVE।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें : जयशंकर",
+          "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि वैश्विक अनिश्चितता के बीच ब्रिक्स समूह से रचनात्मक और स्थिर भूमिका की उम्मीदें बढ़ रही हैं। उन्होंने कहा कि ब्रिक्स का विस्तार हो रहा है और यह वैश्विक शासन में एक महत्वपूर्ण आवाज बन रहा है। वैश्विक अनिश्चितता के बीच ब्रिक्स से रचनात्मक और स्थिर करने वाली भूमिका की बढ़ रही उम्मीदें: जयशंकर IANS LIVE।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "क्या ईरान समुद्र में बिछा रहा माइन? UN में अमेरिका का बड़ा आरोप, समर्थन में आए 113 देश",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTd2R3BfY3pYVEJ3RHVCNTdKS01WaUxlTWFRYUJKSmJ2Ymo2aW9EbUsySV8zUzl0Y1M1TmdnOXlFSE1QU0N0N2t0NVFJaURvdGV2QVg1QXVMZk11T1FtUURfVlV4MEJ1U0JJaHJreHR4YzhvVkk5WDN1elVYU2w0X3A4QUNrdHQ3TFJTTmdmYzBfWHh1T1U3aW5YYWdFOERzNXFlLTlhRkx0a0lRdDZj?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-14T06:00:12+00:00",
+      "image_url": "https://images.pexels.com/photos/30889867/pexels-photo-30889867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र में अमेरिका ने ईरान पर समुद्र में माइन बिछाने का आरोप लगाया। अमेरिका को 113 देशों का समर्थन मिला। यह आरोप पश्चिम एशिया में बढ़ते तनाव के बीच आया है। Middle East Tension: क्या ईरान समुद्र में बिछा रहा माइन? UN में अमेरिका का बड़ा आरोप, समर्थन में आए 113 देश bhaskarhindi. com।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या ईरान समुद्र में बिछा रहा माइन? UN में अमेरिका का बड़ा आरोप, समर्थन में आए 113 देश",
+          "summary": "संयुक्त राष्ट्र में अमेरिका ने ईरान पर समुद्र में माइन बिछाने का आरोप लगाया। अमेरिका को 113 देशों का समर्थन मिला। यह आरोप पश्चिम एशिया में बढ़ते तनाव के बीच आया है। Middle East Tension: क्या ईरान समुद्र में बिछा रहा माइन? UN में अमेरिका का बड़ा आरोप, समर्थन में आए 113 देश bhaskarhindi. com।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "राष्ट्रपति शी ने चीन-अमेरिका संबंधों के लिए साल 2026 को ऐतिहासिक, मील का पत्थर साबित होने की उम्मीद",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWQ1QVJueWJJM1YzSEJkcjAycEx5ZWtJUnhSa0o1dVYwdWd3Y0N3a2l2Q2dRZ0YybmhqT2l3Q0NjRXNRWnpuNWVVMUxtbjBqaVZjMjRlUXpvV2ZFbnVGazJyWFZ2NTlNdkZnTTZHNl9SVEZiMWxfTW4telZrMzZwY2xXbnlnY0t3SDZDMjFDZ2ZWaGZoOURSQkZQY2R5LVNLZjdPekZISV9TQXQwc3JMbWMyNmEyVGp3Vl90WFlZZElRcWhIdVFhMEdn?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-05-14T05:09:00+00:00",
+      "image_url": "https://images.pexels.com/photos/31286072/pexels-photo-31286072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "राष्ट्रपति शी जिनपिंग ने कहा कि वे उम्मीद करते हैं कि 2026 चीन-अमेरिका संबंधों के लिए एक ऐतिहासिक वर्ष होगा। उन्होंने कहा कि दोनों देशों को मतभेदों को प्रबंधित करना चाहिए और सहयोग के क्षेत्रों का विस्तार करना चाहिए। राष्ट्रपति शी ने चीन-अमेरिका संबंधों के लिए साल 2026 को ऐतिहासिक, मील का पत्थर साबित होने की उम्मीद जताई IANS LIVE।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राष्ट्रपति शी ने चीन-अमेरिका संबंधों के लिए साल 2026 को ऐतिहासिक, मील का पत्थर साबित होने की उम्मीद",
+          "summary": "राष्ट्रपति शी जिनपिंग ने कहा कि वे उम्मीद करते हैं कि 2026 चीन-अमेरिका संबंधों के लिए एक ऐतिहासिक वर्ष होगा। उन्होंने कहा कि दोनों देशों को मतभेदों को प्रबंधित करना चाहिए और सहयोग के क्षेत्रों का विस्तार करना चाहिए। राष्ट्रपति शी ने चीन-अमेरिका संबंधों के लिए साल 2026 को ऐतिहासिक, मील का पत्थर साबित होने की उम्मीद जताई IANS LIVE।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अचानक वियतनाम, दक्षिण कोरिया क्यों जा रहे राजनाथ सिंह, पश्चिम एशिया संकट और भारत की कूटनीति",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVEo0QWtqelNrNGFIR3hNU3FKNDFtcURlc0ctSmFjaFJTTHU1OGtpSUwzazRiWl9OZjFldS1qRWV1enhnVXVRakhXOFk4Sy1OZFBMeHN5eVJNX3haS2FnNkVqSlU3NmpTVmZNeURZSGpORDRHVFhSZ1FETXlqRUowdVNYaU1tRWZVcEhzZmRPcU53TEFyUTlRZ2E0Ukk1VFpTVTUxQllpQ2pybnc3OWRtcVVpUW8wc1RnbjZKUTFXM010R0Y0SDhDRURCalRFNlpyS29feVFBNEdiZVAyUk1YVkthUDNDMHNtemM4VFAyMNIB9AFBVV95cUxObzVfRDhrWVB0VmtXTTN3RkFGZVNPNDRfaDhtV0YtZk9NS3A0ek5Yc0RQdGk2ZnBMcktnaHFjMUduSlBlbmUwa1I5elJ5dHZldHpjWXB2S25pWkxzdnJqUF9GVVdscEZLeXl2TkhITUVwLWVTUldPSjNqUUtlbXJxRE9kaVlEWTllMGJxaXNsa0tQM1d5LTNvblJ6bGtyNlhCV2dEQWhsWXhuVi1YZnl0bDJ0TmRkTVJLMEd3bFRiZmhCOGllVGF4ODFPMTV6dmdCWmhCRlc5Z1Y5RTEwS0hLc094bzNQal9KamRYQkIyakp4V0Rl?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-14T04:57:23+00:00",
+      "image_url": "https://images.pexels.com/photos/7362523/pexels-photo-7362523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "रक्षा मंत्री राजनाथ सिंह वियतनाम और दक्षिण कोरिया की यात्रा पर हैं। यह यात्रा पश्चिम एशिया में बढ़ते संकट और भारत की कूटनीति के बीच हो रही है। यात्रा का उद्देश्य द्विपक्षीय संबंधों को मजबूत करना है। Indian Diplomacy: अचानक वियतनाम, दक्षिण कोरिया क्यों जा रहे राजनाथ सिंह, पश्चिम एशिया संकट और भारत की कूटनीति Navbharat Times।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अचानक वियतनाम, दक्षिण कोरिया क्यों जा रहे राजनाथ सिंह, पश्चिम एशिया संकट और भारत की कूटनीति",
+          "summary": "रक्षा मंत्री राजनाथ सिंह वियतनाम और दक्षिण कोरिया की यात्रा पर हैं। यह यात्रा पश्चिम एशिया में बढ़ते संकट और भारत की कूटनीति के बीच हो रही है। यात्रा का उद्देश्य द्विपक्षीय संबंधों को मजबूत करना है। Indian Diplomacy: अचानक वियतनाम, दक्षिण कोरिया क्यों जा रहे राजनाथ सिंह, पश्चिम एशिया संकट और भारत की कूटनीति Navbharat Times।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNE8yeHF1WDVXXzJhOHlLOW9qRW9NNEdLdFd2Uno4aDVySGo4RXV5bngtZDdBWUpGRGVhZWJ4amNHUEplMnVKb21kX29WX2diQU9rZDV4TnVuWnJkOGZabS1oVkJrdWdXN3BiLTVDV0VZeXJiV3pWMnBTM1VxSHVtX0hFSzF2dEhleW9nb0NTckpvc2lxTW5sZEJsczJBQTFILVQ3ZnpoY09DMTJsb3hUYktqNHdsdHgtNXczdG5HTV9ST3FHVjZJT2c4QnRsb2RzSHQteElpQWN3RXZhdk5KVkFPMmE4VjRxaEZ4NUw4X0Q0WjDSAfgBQVVfeXFMUDFkUXRsVXl3cnc0aTc2MWpybmNYZ3JTdmNhRHp1dXhiOUV1X2ZFLUNHVXkxazl6VlY2VkhiLVVfeFI5OTdKaVVPdVkzOGU0Tjh0MXhJa2dIUUJYVTVfaEFWdng3Z0Qtd2l1V1IzSGFpbjJPWE5oMHF6Z2Nub0xHQTdWNVQ1V1AwT3VfUXBqelZNaGhndER2UlVNZlZNY1RnbWJCZ1JFTDZOeUJ2WUNWZTh3d0F3ZlVNYkhNV1J1aFU3QURybnBNZnA4djZjbC1YM3dWaE90SXp6bmRKZkd0YmNEVkR0eDRybkV1UzBkMDNOdERZY1M1UEk?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-14T04:37:01+00:00",
+      "image_url": "https://images.pexels.com/photos/30541596/pexels-photo-30541596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र में अमेरिका ने ईरान पर होर्मुज जलडमरूमध्य में माइन बिछाने का आरोप लगाया। 113 देशों ने अमेरिका का समर्थन किया। भारत ने इस मुद्दे पर अभी तक कोई सार्वजनिक बयान नहीं दिया है। Iran-US War: UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया ABP News।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया",
+          "summary": "संयुक्त राष्ट्र में अमेरिका ने ईरान पर होर्मुज जलडमरूमध्य में माइन बिछाने का आरोप लगाया। 113 देशों ने अमेरिका का समर्थन किया। भारत ने इस मुद्दे पर अभी तक कोई सार्वजनिक बयान नहीं दिया है। Iran-US War: UN में अमेरिका ने होर्मुज को लेकर ऐसा क्या कहा, साथ आए 113 देश, क्या भारत ने किया ABP News।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने चीनी जहाजों के लिए खोला होर्मुज, जिनपिंग ने ट्रंप के जलडमरूमध्य खोलने की मांग का समर्थन किया",
+      "url": "https://www.amarujala.com/world/iran-allows-chinese-ships-strait-of-hormuz-donald-trump-xi-jinping-global-oil-crisis-west-asia-tension-2026-05-14",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-14T04:13:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/01/strait-of-hormuz-traffic-drops-by-over-90-fewer-than-10-ships-daily-amid-west-asia-tensions_cdaf068fa590a14ced4bf4887f4168ae.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान ने चीनी जहाजों के लिए होर्मुज जलडमरूमध्य खोल दिया है, जिनपिंग ने ट्रंप के जलडमरूमध्य खोलने की मांग का समर्थन किया है। ईरान ने चीनी जहाजों के लिए खोला होर्मुज, जिनपिंग ने ट्रंप के जलडमरूमध्य खोलने की मांग का समर्थन किया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने चीनी जहाजों के लिए खोला होर्मुज, जिनपिंग ने ट्रंप के जलडमरूमध्य खोलने की मांग का समर्थन किया",
+          "summary": "ईरान ने चीनी जहाजों के लिए होर्मुज जलडमरूमध्य खोल दिया है, जिनपिंग ने ट्रंप के जलडमरूमध्य खोलने की मांग का समर्थन किया है। ईरान ने चीनी जहाजों के लिए खोला होर्मुज, जिनपिंग ने ट्रंप के जलडमरूमध्य खोलने की मांग का समर्थन किया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "शी जिनपिंग ने राष्ट्रपति ट्रंप को दी सीधी चेतावनी, कहा,सोच-समझकर बढ़ें आगे",
+      "url": "https://www.amarujala.com/video/world/trump-china-visit-xi-jinping-gives-direct-warning-to-donald-trump-says-move-forward-carefully-2026-05-14",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-14T01:01:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/trump-xi-summit_6806a9e0c0c02a9810e30e77eb8b14ea.jpeg?w=750&dpr=1.0",
+      "summary": "शी जिनपिंग ने राष्ट्रपति ट्रंप को सीधी चेतावनी दी है, कहा कि सोच-समझकर आगे बढ़ें। अमेरिकी राष्ट्रपति Donald Trump अपनी चीन यात्रा पर हैं और यह दौरा ऐसे वक्त हो रहा है, जब दुनिया की दो सबसे बड़ी ताकतों के बीच रिश्ते नाजुक दौर से गुजर रहे हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शी जिनपिंग ने राष्ट्रपति ट्रंप को दी सीधी चेतावनी, कहा,सोच-समझकर बढ़ें आगे",
+          "summary": "शी जिनपिंग ने राष्ट्रपति ट्रंप को सीधी चेतावनी दी है, कहा कि सोच-समझकर आगे बढ़ें। अमेरिकी राष्ट्रपति Donald Trump अपनी चीन यात्रा पर हैं और यह दौरा ऐसे वक्त हो रहा है, जब दुनिया की दो सबसे बड़ी ताकतों के बीच रिश्ते नाजुक दौर से गुजर रहे हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने UAE तट के पास एक जहाज को किया जब्त, ओमान में भारतीय झंडा लगा जहाज हमले के बाद डूबा",
+      "url": "https://www.amarujala.com/world/ship-seized-near-uae-coast-headed-toward-iran-amid-rising-tensions-in-strait-of-hormuz-says-uk-military-2026-05-14",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-14T00:23:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/strait-of-hormuz_3ae191d4faee945157daeedd6603e722.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान ने UAE तट के पास एक जहाज को जब्त किया है, ओमान में भारतीय झंडा लगा जहाज हमले के बाद डूब गया। West Asia Crisis: ईरान ने UAE तट के पास एक जहाज को किया जब्त, ओमान में भारतीय झंडा लगा जहाज हमले के बाद डूबा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने UAE तट के पास एक जहाज को किया जब्त, ओमान में भारतीय झंडा लगा जहाज हमले के बाद डूबा",
+          "summary": "ईरान ने UAE तट के पास एक जहाज को जब्त किया है, ओमान में भारतीय झंडा लगा जहाज हमले के बाद डूब गया। West Asia Crisis: ईरान ने UAE तट के पास एक जहाज को किया जब्त, ओमान में भारतीय झंडा लगा जहाज हमले के बाद डूबा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "शी जिनपिंग को व्हाइट हाउस आने का न्योता: ट्रंप बोले- US-चीन संबंध साझेदारी नहीं, वैश्विक शक्ति",
+      "url": "https://www.amarujala.com/world/donald-trump-praises-us-china-relations-calls-ties-one-of-the-most-consequential-in-world-history-2026-05-14",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-13T23:00:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/danalda-tarapa_b358a31ea9237bd2ed15da82e0c4b8f2.jpeg?w=750&dpr=1.0",
+      "summary": "ट्रंप ने शी जिनपिंग को व्हाइट हाउस आने का न्योता दिया है, कहा कि US-चीन संबंध साझेदारी नहीं, वैश्विक शक्ति संतुलन की रीढ़ है। शी जिनपिंग को व्हाइट हाउस आने का न्योता: ट्रंप बोले- US-चीन संबंध साझेदारी नहीं, वैश्विक शक्ति संतुलन की रीढ़।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शी जिनपिंग को व्हाइट हाउस आने का न्योता: ट्रंप बोले- US-चीन संबंध साझेदारी नहीं, वैश्विक शक्ति",
+          "summary": "ट्रंप ने शी जिनपिंग को व्हाइट हाउस आने का न्योता दिया है, कहा कि US-चीन संबंध साझेदारी नहीं, वैश्विक शक्ति संतुलन की रीढ़ है। शी जिनपिंग को व्हाइट हाउस आने का न्योता: ट्रंप बोले- US-चीन संबंध साझेदारी नहीं, वैश्विक शक्ति संतुलन की रीढ़।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "चीन-अमेरिका संवाद से वैश्विक स्थिरता को मिलेगा लाभ : संयुक्त राष्ट्र",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONVdfWFRTeVpDbDBJTWFWanNNRTBqMzJXSlJqT0lpczkzTTR1TEhmUWNxWmZZOWlPa0pRTF9hU1Z3WXctUWNiN1BqbzMtZ2EySHd2MlBYRzFRblJjamVNcENRbndLdmx4WmJrSFExQU1CN0R5QWZ4VTRmOEViRXNiVFRERXBUcDJiNEw3dEh6d3V3VTlRb1JKdVE2bktBUDZuQ3Jxa1VTTElYQjNyWDVwSmZSbGtvQzB4dnl4bkZETmhBRXRGLWRoazRxRXZDeE1k0gHQAUFVX3lxTE41V19YVFN5WkNsMElNYVZqc01FMGozMldKUmpPSWlzOTNNNHVMSGZRY3FaZlk5aU9rSlFMX2FTVndZdy1RY2I3UGpvMy1nYTJId3YyUFhHMVFuUmNqZU1wQ1Fud0t2bHhaYmtIUTFBTUI3RHlBZnhVNGY4RWJFc2JUVERFcFRwMmI0TDd0SHp3dXdVOVFvUkp1UTZuS0FQNm5DcnFrVVNMSVhCM3JYNXBKZlJsa29DMHh2eXhuRkROaEFFdEYtZGhrNHFFdkN4TWQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-12T16:10:14+00:00",
+      "image_url": "https://images.pexels.com/photos/4386371/pexels-photo-4386371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र का कहना है कि चीन-अमेरिका संवाद से वैश्विक स्थिरता को लाभ मिलेगा। चीन-अमेरिका संवाद से वैश्विक स्थिरता को मिलेगा लाभ: संयुक्त राष्ट्र News Nation TV।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन-अमेरिका संवाद से वैश्विक स्थिरता को मिलेगा लाभ : संयुक्त राष्ट्र",
+          "summary": "संयुक्त राष्ट्र का कहना है कि चीन-अमेरिका संवाद से वैश्विक स्थिरता को लाभ मिलेगा। चीन-अमेरिका संवाद से वैश्विक स्थिरता को मिलेगा लाभ: संयुक्त राष्ट्र News Nation TV।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान युद्ध पर घिरी ट्रंप सरकार: सांसदों ने पूछा- कब खत्म होगा संघर्ष? हथियारों की कमी और खर्च पर भी",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ0hKRXlmaWhzYUNDLUxrTXJqNUJ2WXhBTVVfSjBlLTdXOFJUa3UxbGUwdDI4bGtrc2toMGl5WUVRZnB5SFBZRHZYMHhWSU51aExfTF9FR2xjb0VYWWJ6NE04VHU3MWFQTE5kX0dvT09CaU5BRnBwY3RTRWFnR28yTk1URWNncV9wRkFJMWVVSjNvRU51dkNmaHlSVlZMRlNBcXV3TE9ySjZrM2lHbmxXYjRxRzhsVlB3cVF3VU9WcTUtMUx0QV9uLTRNQU1aY2vSAdQBQVVfeXFMT1YzTVUtTmFaNUEyN0Q0dkYySmdmcXJhOG5YeUNZVU1qRVBEMW9FWHRqNGZod0hSZDJhdE9VaFV5Z1JZeGRQYW00TWNNU2xiWjJrcTdNbDhtTFNFN056MnJHZDdrQW9mSnZqQzFZTnpkQ1dvNi1hWnhvS1FLX2o1U1Z4MUtLNXhJU2ktU205QUNUU0w0bEQyamg4eEFFOUlBNkdNSHdVVkhVZnNjVjlRSUZISlZHdUpvQXhJZ0RwWnFKTHZwSW9yS3lOc2xLWml3R040clk?oc=5",
+      "source": "Google News Hindi (युद्ध संघर्ष)",
+      "sources": [],
+      "published_at": "2026-05-12T15:56:27+00:00",
+      "image_url": "https://images.pexels.com/photos/5147810/pexels-photo-5147810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिकी सांसदों ने ईरान युद्ध पर ट्रंप सरकार से पूछा कि संघर्ष कब खत्म होगा और हथियारों की कमी पर चिंता जताई। ईरान युद्ध पर घिरी ट्रंप सरकार: सांसदों ने पूछा- कब खत्म होगा संघर्ष? हथियारों की कमी और खर्च पर भी तीखे सवाल Amar Ujala।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान युद्ध पर घिरी ट्रंप सरकार: सांसदों ने पूछा- कब खत्म होगा संघर्ष? हथियारों की कमी और खर्च पर भी",
+          "summary": "अमेरिकी सांसदों ने ईरान युद्ध पर ट्रंप सरकार से पूछा कि संघर्ष कब खत्म होगा और हथियारों की कमी पर चिंता जताई। ईरान युद्ध पर घिरी ट्रंप सरकार: सांसदों ने पूछा- कब खत्म होगा संघर्ष? हथियारों की कमी और खर्च पर भी तीखे सवाल Amar Ujala।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान युद्ध क्या खाड़ी के देशों और अमेरिका के बीच के गठबंधन का अंत कर देगा?",
+      "url": "https://www.bbc.com/hindi/articles/c5yrp21n79go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-12T13:14:31+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b13/live/b462de10-4e04-11f1-aa37-6b8846c2f74e.jpg",
+      "summary": "ईरान युद्ध ने अमेरिका और गल्फ़ कोऑपरेशन काउंसिल देशों के बीच सुरक्षा साझेदारी पर सवाल खड़े किए हैं। ईरान युद्ध ने अमेरिका और गल्फ़ कोऑपरेशन काउंसिल (जीसीसी) देशों के बीच सिक्योरिटी पार्टनरशिप पर सवाल खड़े कर दिए हैं. क्या मौजूदा युद्ध इस पार्टनरशिप के समीकरणों को बदल सकता है?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान युद्ध क्या खाड़ी के देशों और अमेरिका के बीच के गठबंधन का अंत कर देगा?",
+          "summary": "ईरान युद्ध ने अमेरिका और गल्फ़ कोऑपरेशन काउंसिल देशों के बीच सुरक्षा साझेदारी पर सवाल खड़े किए हैं। ईरान युद्ध ने अमेरिका और गल्फ़ कोऑपरेशन काउंसिल (जीसीसी) देशों के बीच सिक्योरिटी पार्टनरशिप पर सवाल खड़े कर दिए हैं. क्या मौजूदा युद्ध इस पार्टनरशिप के समीकरणों को बदल सकता है?",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
