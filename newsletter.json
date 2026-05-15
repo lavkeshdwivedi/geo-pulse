@@ -1,12 +1,120 @@
 {
-  "generated_at": "2026-05-15T12:55:49.764738+00:00",
-  "article_count": 42,
-  "total_unique_count": 377,
+  "generated_at": "2026-05-15T15:15:39.136095+00:00",
+  "article_count": 48,
+  "total_unique_count": 381,
   "digest": {
-    "en": "The China-US summit in Beijing and the ongoing conflict fallout in the Middle East dominate this hour. Extreme weather events across the globe and humanitarian crises in Somalia and DR Congo also register. These stories highlight interconnected challenges from diplomacy to climate.",
-    "hi": "संयुक्त राष्ट्र की प्रभावशीलता पर जयशंकर की टिप्पणी और ब्रिक्स की बैठक में इसकी भूमिका पर जोर, वैश्विक कूटनीति में बहुपक्षीय संस्थानों की निरंतर प्रासंगिकता को रेखांकित करता है। अदानी परिवार द्वारा अमेरिकी जुर्माना भरने की तैयारी और माइली की कूटनीति अर्जेंटीना में क्षेत्रीय तनाव को दर्शाती है।"
+    "en": "The Trump-Xi summit in Beijing dominates headlines, revealing limited progress on Taiwan and Iran. Meanwhile, Mali's junta faces rebel alliances as Pakistan's mediation role in the Iran war comes under scrutiny.",
+    "hi": "नेटफ्लिक्स पर जासूसी के आरोपों ने अमेरिका में मुकदमेबाजी को जन्म दिया है। ब्रिक्स देशों ने कूटनीतिक समाधानों पर जोर दिया है। सोमालिया में खाद्य असुरक्षा मध्य पूर्व में संघर्ष से बढ़ रही है।"
   },
   "articles": [
+    {
+      "title": "Trump Says He and Xi Talked Extensively About Taiwan",
+      "url": "https://www.nytimes.com/live/2026/05/14/world/trump-xi-summit-beijing",
+      "source": "NYT World",
+      "sources": [],
+      "published_at": "2026-05-15T15:00:09+00:00",
+      "image_url": "https://static01.nyt.com/images/2026/06/14/multimedia/14trump-xi-promo0445-jbth/14trump-xi-promo0445-jbth-mediumSquareAt3X.jpg",
+      "summary": "President Trump stated he and Chinese leader Xi Jinping discussed Taiwan extensively during his visit to Beijing. The two leaders emphasized stability upon Trump's departure. No significant agreements were reached on Taiwan, the war in Iran, or other contentious issues. As President Trump left Beijing, he and Xi Jinping, China’s leader, played up stability.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
+      "url": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-15T14:57:35+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/e6d26af1123d872554af9a427c5d33abf01bc499/650_22_3090_2473/master/3090.jpg?width=140&quality=85&auto=format&fit=max&s=5c5697857eb11313597cbb9d8a1145ab",
+      "summary": "Mali's armed forces, aided by Russian mercenaries, conducted airstrikes against a coalition of Islamist extremists and Tuareg separatists. This offensive follows an advance by the rebel alliance. The junta is working to retain control amid the ongoing conflict in the west African nation.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Pakistan faces pressure over mediator role in Iran war",
+      "url": "https://www.dw.com/en/pakistan-faces-pressure-over-mediator-role-in-iran-war/a-77174786?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
+      "sources": [],
+      "published_at": "2026-05-15T14:20:00+00:00",
+      "image_url": "https://static.dw.com/image/76935957_6.jpg",
+      "summary": "Pakistan is mediating between Iran and Israel. This role places Islamabad in a difficult position. It must balance relations with the United States, Iran, China, and Gulf states. A recent US media report has increased scrutiny on Pakistan's involvement. With Pakistan stepping in the middle of a major geopolitical conflict, Islamabad is forced to balance between Washington, Tehran, Beijing and key Gulf allies.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How Starmer survives as Farage waits in wings",
+      "url": "https://www.dw.com/en/uk-politics-how-starmer-survives-as-farage-waits-in-wings/a-77170215?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
+      "sources": [],
+      "published_at": "2026-05-15T14:09:00+00:00",
+      "image_url": "https://static.dw.com/image/76863372_6.jpg",
+      "summary": "United Kingdom politics faces instability with high-profile resignations and a High profile resignations, a prime minister on the edge and populists on the up. UK politics is far from dull. DW explains what's going on in Keir Starmer's Labour party and with Nigel Farage.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-15T13:37:46+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/2ef66b1554633256a71f05bd85dfb9f018d708b1/459_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=5c7dffb3ddf3b18e4e42275b52d035af",
+      "summary": "Donald Trump concluded his Beijing visit with Chinese leader Xi Jinping. US president has said he and Chinese leader ‘settled a lot of different problems’ but has given little detail on solutionsTrump China visit live – latest updatesDonald Trump’s whirlwind trip to Beijing – the first US presidential visit in nearly a decade – wrapped up with much fanfare but little clarity about what was actually achieved. Trump said on Friday he and Xi Jinping, China’s leader, “settl.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'Everything was in greyscale': What it is like to survive a suicide attempt and recover",
+      "url": "https://www.channelnewsasia.com/today/ground-up/suicide-prevention-awareness-ideation-self-harm-survival-mental-health-crisis-6120351",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-15T13:30:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--FTYzTn73--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/15/20260513_bk_gu_adoncia_ng_4a.jpg?itok=lB3aQFio",
+      "summary": "Recovering from a suicide attempt is a complex process. The path of recovering after once thinking of ending one's life is rarely straightforward. But for those who have lived through such a crisis, and the caregivers who walked beside them, they hope no one has to face it alone.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'Museum-style memoir' unveiled on Goh Keng Swee's interactions with China leaders",
+      "url": "https://www.channelnewsasia.com/singapore/museum-style-memoir-unveiled-goh-keng-swees-interactions-china-leaders-6123651",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-15T13:19:53+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--s3ox_MdE--/c_crop,h_899,w_1599,x_1,y_19/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/15/20260515_bk_goh_keng_swee_book_launch_6.jpg?itok=Fqxx9vG7",
+      "summary": "Dr. The 244-page book was put together by Dr Goh's wife, Dr Phua Swee Liang, based on photographs, gifts, travel itineraries and personal records from his stint as an economic adviser to China between 1985 and 1990. 'Museum-style memoir' unveiled on Goh Keng Swee's interactions with China leaders.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US-China summit exposes Trump's limits on Iran war, Taiwan",
+      "url": "https://www.dw.com/en/us-china-summit-exposes-trump-s-limits-on-iran-war-taiwan/a-77171942?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "DW World (English)",
+      "sources": [],
+      "published_at": "2026-05-15T13:12:00+00:00",
+      "image_url": "https://static.dw.com/image/77162018_6.jpg",
+      "summary": "Donald Trump concluded a two-day visit to Beijing. Donald Trump hopes to have China help him end the war in Iran, but this goal seemed far from guaranteed as he wrapped up his two-day visit to Beijing. Xi Jinping, in turn, took the chance to warn the US over Taiwan.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump leaves China without breakthroughs on Iran, Taiwan or AI",
+      "url": "https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-15T12:48:47+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/0e32019caf163081a99e8527f3036af18ac1769a/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=49002016963db1e6797885410f04be95",
+      "summary": "Donald Trump stated the US and China share similar views on ending the war in China calls for ceasefire and opening of seaway, while Donald Trump says Xi feels ‘very similar’ about ending the war in IranTrump in China – latest updatesDonald Trump has claimed that the US and China “feel very similar” about ending the war in Iran but offered no details about a possible breakthrough. The US president was speaking alongside Xi Jinping of China at the Zhongnanhai garden in Beijin.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Trump and Xi’s suits put ‘chameleon effect’ to test in Beijing",
       "url": "https://www.theguardian.com/us-news/2026/may/15/trump-xi-put-mirroring-suits-beijing",
@@ -27,18 +135,6 @@
       "published_at": "2026-05-15T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-04-2024-UNICEF-Somalia.jpg/image560x340cropped.jpg",
       "summary": "UN aid teams warned Somalia faces a real risk of famine. At least six million people in Somalia are going days without enough food, UN aid teams warned on Friday, highlighting that nearly two million of this number are young children “at high risk of illness or death”.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump-Xi accord on Iran elusive as US president’s China trip winds down",
-      "url": "https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-15T10:24:20+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/0e32019caf163081a99e8527f3036af18ac1769a/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=49002016963db1e6797885410f04be95",
-      "summary": "Donald Trump stated the US and China share similar views on ending the war in China calls for ceasefire and opening of seaway, while Donald Trump says Xi feels ‘very similar’ about ending the war in IranTrump in China – latest updatesDonald Trump has claimed that the US and China “feel very similar” about ending the war in Iran but offered no details about a possible breakthrough. The US president was speaking alongside Xi Jinping of China at the Zhongnanhai garden in Beijin.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -88,18 +184,6 @@
       "image_url": "https://i.guim.co.uk/img/media/371836fe8d37e507d7a9f53539b8ab7892ed5d2a/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=69238167a415139440e0af13e93b227f",
       "summary": "U. S. President Trump arrived in Beijing for high-stakes talks with Xi Jinping. Security is heightened as trade, AI, and the war in Iran are set to dominate the summit. The leaders aim to improve the bilateral relationship.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Foreign student fee hikes in France trigger backlash",
-      "url": "https://www.dw.com/en/foreign-student-fee-hikes-in-france-trigger-backlash/a-77146306?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-14T19:52:00+00:00",
-      "image_url": "https://static.dw.com/image/74001491_6.jpg",
-      "summary": "France's government will increase university tuition fees for students from A French government plan to charge students from outside the EU 16 times more than previously have stoked discontent. But how does this compare to the rest of Europe, both inside the EU and out?",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -168,20 +252,7 @@
       "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life",
       "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
       "source": "The Guardian",
-      "sources": [
-        {
-          "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
-          "source": "The Guardian"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1dmVVlTaDA3dGpQSGdXQTVnNlZMWExOQXh3TXlSU2ZhdWZROFF6cVZueHZQN0poS0lub0RuWWlxUjRQQkl4a3R5NlJQbXl4Ny1YZWVKTkhGdlhoR2lrTm90a2FCek4wMk93UHdtUmVhS01udm96a2lOS3FrREdpWlBTVkZMdw?oc=5",
-          "source": "Google News (United Nations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1dmVVlTaDA3dGpQSGdXQTVnNlZMWExOQXh3TXlSU2ZhdWZROFF6cVZueHZQN0poS0lub0RuWWlxUjRQQkl4a3R5NlJQbXl4Ny1YZWVKTkhGdlhoR2lrTm90a2FCek4wMk93UHdtUmVhS01udm96a2lOS3FrREdpWlBTVkZMdw?oc=5",
-          "source": "Google News (United Nations)"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-14T11:00:25+00:00",
       "image_url": "https://i.guim.co.uk/img/media/8b16c976f04e2ef07186becf8de728c6c5757d81/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=7a13c63192468ff848a158f81874d6eb",
       "summary": "United Nations human rights experts publicly urged Equatorial Guinea to stop returning US deportees. The experts cited reports of political violence, torture, and death faced by individuals sent back to their home countries. Deportees described being held in prison-like conditions.",
@@ -226,16 +297,112 @@
       "translations": {}
     },
     {
-      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
-      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-      "source": "The Guardian",
+      "title": "नेटफ़्लिक्स पर यूजर्स की जासूसी के आरोप, अमेरिका में मुक़दमे के बाद उठे सवाल",
+      "url": "https://www.bbc.com/hindi/articles/c4g4lye87w2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-13T04:00:20+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/4e12c8f3bf0f3d8afcf7718347f97201ebd63135/234_0_3933_3144/master/3933.jpg?width=140&quality=85&auto=format&fit=max&s=4b0b6710e88da8afb87b8769dad27b12",
-      "summary": "Gabon's media regulator suspended major social media platforms indefinitely in February. The regulator cited security concerns during anti-government protests. This action has led to increased use of Virtual Private Networks (VPNs) to bypass restrictions. Activists claim these laws curtail internet freedoms. This is part of a history of cracking down on dissent.",
+      "published_at": "2026-05-15T14:48:24+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/afdd/live/76216450-4f94-11f1-ae5f-a305ea7a8cfb.jpg",
+      "summary": "टेक्सास में नेटफ़्लिक्स के खिलाफ़ एक मुकदमा दायर किया गया है. इसमें आरोप है कि कंपनी अपने प्लेटफ़ॉर्म पर यूज़र्स के व्यवहार की अरबों जानकारियाँ रिकॉर्ड करती है और उनसे कमाई करती है. टेक्सास में दायर किए गए मुक़दमे में कहा गया है कि नेटफ़्लिक्स कंपनी अपने प्लेटफ़ॉर्म पर यूज़र्स बिहेवियर के बारे में 'अरबों' जानकारियों रिकॉर्ड करती है और उनसे कमाई करती है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेटफ़्लिक्स पर यूजर्स की जासूसी के आरोप, अमेरिका में मुक़दमे के बाद उठे सवाल",
+          "summary": "टेक्सास में नेटफ़्लिक्स के खिलाफ़ एक मुकदमा दायर किया गया है. इसमें आरोप है कि कंपनी अपने प्लेटफ़ॉर्म पर यूज़र्स के व्यवहार की अरबों जानकारियाँ रिकॉर्ड करती है और उनसे कमाई करती है. टेक्सास में दायर किए गए मुक़दमे में कहा गया है कि नेटफ़्लिक्स कंपनी अपने प्लेटफ़ॉर्म पर यूज़र्स बिहेवियर के बारे में 'अरबों' जानकारियों रिकॉर्ड करती है और उनसे कमाई करती है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "कूटनीतिक उपायों से विवादों का जड़ से हो समाधान: ब्रिक्स",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUp5ZUhVT0Rkc2ZJdVhyejlZRzE1Z3NBQnhha255el9SZllfWlN2enlRLWE3VDFpbkNSWjBybmxFa1BuTVZ0aGp2WGhwbFVUQ2tPYzRuVncyY3NXZjFwWU1ZbHAxeEk5WExwZEVCdnZ5STdTVDdBU2JjSXNwVnNLQXhudW5tbnRKczdxUW1LM1p5Z2I3ckJEQ3VpLVhEY0tiYkFCOGpLUjVJeUNqNVl0ZjVTTUVlOUJYWHJmdmZrUWhlQWxzdFFhdzZpa3DSAdIBQVVfeXFMTVR5YmxHUy12TGV1VVFDajc3aW5fSlFuVVUySU1tNlNya0NYNGJXX05NbnA5SEQ2NlhkX0MzSHNlQUFRSnF5U0tnbXFveTgzR25xOEwtb0s3dkpVRjRibjY1eDItbWNIRHFsOXNfNmdXN0pNUE1QdkRVQUE2b1dlNjE2Uml6SEFPLUVzV3JVUlpTUXdpblBHY3VsOERmZURGS3lfSVRCemtDZU9HdHBfMXR1T1ZPaTJ2NTF3TE9qVzNUel9PLUplTjRzSXZqTEpsaS13?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-15T14:32:16+00:00",
+      "image_url": "https://images.pexels.com/photos/37547715/pexels-photo-37547715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ब्रिक्स देशों ने विवादों के समाधान के लिए कूटनीतिक उपायों पर ज़ोर दिया है. उन्होंने कहा कि समस्याओं को जड़ से खत्म करने के लिए बातचीत और कूटनीति ही सबसे प्रभावी तरीके हैं. कूटनीतिक उपायों से विवादों का जड़ से हो समाधान: ब्रिक्स Hindustan Hindi News।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कूटनीतिक उपायों से विवादों का जड़ से हो समाधान: ब्रिक्स",
+          "summary": "ब्रिक्स देशों ने विवादों के समाधान के लिए कूटनीतिक उपायों पर ज़ोर दिया है. उन्होंने कहा कि समस्याओं को जड़ से खत्म करने के लिए बातचीत और कूटनीति ही सबसे प्रभावी तरीके हैं. कूटनीतिक उपायों से विवादों का जड़ से हो समाधान: ब्रिक्स Hindustan Hindi News।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "मध्य पूर्व हिंसक टकराव का असर, सोमालिया में खाद्य असुरक्षा का गहराता साया",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HeGVCQ3FqUDY2cEJQTmhLdlBXTUhFeHdpdTJFQlFQbVJic25kU29GcDhNdDRzWFVxWXEzQ3BfRU15N1FGRUplUDdNeE1QVnZBOXdVV0JHQQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-15T14:25:24+00:00",
+      "image_url": "https://images.pexels.com/photos/7806165/pexels-photo-7806165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "मध्य पूर्व में हिंसक टकराव के कारण सोमालिया में खाद्य असुरक्षा बढ़ गई है. यह संघर्ष क्षेत्र में मानवीय संकट को और गहरा रहा है. मध्य पूर्व हिंसक टकराव का असर, सोमालिया में खाद्य असुरक्षा का गहराता साया Welcome to the United Nations।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मध्य पूर्व हिंसक टकराव का असर, सोमालिया में खाद्य असुरक्षा का गहराता साया",
+          "summary": "मध्य पूर्व में हिंसक टकराव के कारण सोमालिया में खाद्य असुरक्षा बढ़ गई है. यह संघर्ष क्षेत्र में मानवीय संकट को और गहरा रहा है. मध्य पूर्व हिंसक टकराव का असर, सोमालिया में खाद्य असुरक्षा का गहराता साया Welcome to the United Nations।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "तेल और एलपीजी से लेकर रणनीतिक साझेदारी तक, पीएम मोदी के यूएई दौरे पर और क्या हुआ?",
+      "url": "https://www.bbc.com/hindi/articles/c1j2zwpwr31o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-15T14:18:33+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/46c9/live/74cd44f0-5063-11f1-b5fd-657572a40ad0.jpg",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी की यूएई यात्रा के दौरान भारत और यूएई ने रणनीतिक साझेदारी पर समझौता किया. यूएई ने भारत में पाँच अरब अमेरिकी डॉलर के निवेश का भी वादा किया है. प्रधानमंत्री नरेंद्र मोदी की यूएई यात्रा के दौरान भारत और यूएई के बीच रणनीतिक साझेदारी के ढांचे पर समझौता हुआ है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेल और एलपीजी से लेकर रणनीतिक साझेदारी तक, पीएम मोदी के यूएई दौरे पर और क्या हुआ?",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी की यूएई यात्रा के दौरान भारत और यूएई ने रणनीतिक साझेदारी पर समझौता किया. यूएई ने भारत में पाँच अरब अमेरिकी डॉलर के निवेश का भी वादा किया है. प्रधानमंत्री नरेंद्र मोदी की यूएई यात्रा के दौरान भारत और यूएई के बीच रणनीतिक साझेदारी के ढांचे पर समझौता हुआ है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कूटनीतिक मुस्कान के पीछे छिपा 'महायुद्ध', क्या ताइवान पर झुकेगा वॉशिंगटन?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWltNGU5eTY0RzRNMk1YTHZka0xJc3hmM2NhWFNYNUVnQ1I2cFAzZG9IRTZjN0t3Vmwwb2pDbVJnZVI5R2ZoMkpjOTRVVEFYb0VMQzhXYnZWNFFORUpMMDhWNk9VSkZiM2dJMXZVcHdxSXhTOHZfTDM0Y0ZaT3JiekwySVNtNjYyZGRsNHpPV3pwODlqLWxLS0M0WHFBYUFYOE5uSE05WTNXMUdG?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-15T13:53:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14363094/pexels-photo-14363094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिका और चीन के शिखर सम्मेलन के दौरान ताइवान का मुद्दा छाया रहा. यह बैठक दोनों देशों के बीच बढ़ते तनाव को दर्शाती है. अमेरिका-चीन शिखर सम्मेलन: कूटनीतिक मुस्कान के पीछे छिपा 'महायुद्ध', क्या ताइवान पर झुकेगा वॉशिंगटन?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कूटनीतिक मुस्कान के पीछे छिपा 'महायुद्ध', क्या ताइवान पर झुकेगा वॉशिंगटन?",
+          "summary": "अमेरिका और चीन के शिखर सम्मेलन के दौरान ताइवान का मुद्दा छाया रहा. यह बैठक दोनों देशों के बीच बढ़ते तनाव को दर्शाती है. अमेरिका-चीन शिखर सम्मेलन: कूटनीतिक मुस्कान के पीछे छिपा 'महायुद्ध', क्या ताइवान पर झुकेगा वॉशिंगटन?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1EzZ1RLdUNwZGZHNGJxMGJ4a044dTdDa1RKaHJUUmVrTV9oLWtoQ2FQbTh3QVhMTlJhODlSOGRtR1ZGdVYzSnptSjZGT3Q0eHY3eEJCTTlCZ1BVbWZDUU9IYWRBZUFvUmhHWm9RM1BzU194a3VqSU50MFJJamMycHJnVVU1RXo3VXItOHdMWGNlczdVMWoyanhUVnEySjN2bXo0?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-15T13:01:18+00:00",
+      "image_url": "https://images.pexels.com/photos/1464194/pexels-photo-1464194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अर्जेंटीना के राष्ट्रपति जेवियर माइली ने अमेरिका और इजरायल की यात्रा की। उन्होंने अमेरिकी डॉलर को अपनी राष्ट्रीय मुद्रा के रूप में अपनाने और विश्व बैंक से दूरी बनाने की बात कही। यह नीतियां पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प की \"अमेरिका फर्स्ट\" कूटनीति से मिलती-जुलती हैं।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस",
+          "summary": "अर्जेंटीना के राष्ट्रपति जेवियर माइली ने अमेरिका और इजरायल की यात्रा की। उन्होंने अमेरिकी डॉलर को अपनी राष्ट्रीय मुद्रा के रूप में अपनाने और विश्व बैंक से दूरी बनाने की बात कही। यह नीतियां पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प की \"अमेरिका फर्स्ट\" कूटनीति से मिलती-जुलती हैं।",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
       "title": "सुधारों के अभाव में संयुक्त राष्ट्र की प्रभावशीलता सीमित : जयशंकर",
@@ -256,6 +423,24 @@
       }
     },
     {
+      "title": "अमेरिका-ईरान वार्ता में बढ़ा अविश्वास, ईरान ने चीन की ओर बढ़ाया कूटनीतिक रुख",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVo1bG1Lblk4NjlGamRwdmFBYi1RMTZ2Zmc1V0JCbXFnWlZpUVhkUkREdlhJTHlYOV9HOU5pT0UzdjV3M3ZGc3RJeUk3UE05NlB6OEJCd3BTRWZ3N3VXRzlwYUtMSWhUVzBfRXdhZzBfTU1nWmFfUGJsT1F0d3pCZG9ETVhnSDR0dzBnQV9mS1RRYVlRS0ViX1NSUU1kMi1vbDloTTJvUmFRbkwxcEo2TXNMTQ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-15T12:09:15+00:00",
+      "image_url": "https://images.pexels.com/photos/4386403/pexels-photo-4386403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिका और ईरान के बीच परमाणु वार्ता में अविश्वास बढ़ा है। ईरान ने संयुक्त राज्य अमेरिका के बजाय चीन के साथ अपने कूटनीतिक संबंधों को मजबूत करने पर ध्यान केंद्रित किया है। यह बदलाव दोनों देशों के बीच मौजूदा तनाव को दर्शाता है। अमेरिका-ईरान वार्ता में बढ़ा अविश्वास, ईरान ने चीन की ओर बढ़ाया कूटनीतिक रुख ChiniMandi।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-ईरान वार्ता में बढ़ा अविश्वास, ईरान ने चीन की ओर बढ़ाया कूटनीतिक रुख",
+          "summary": "अमेरिका और ईरान के बीच परमाणु वार्ता में अविश्वास बढ़ा है। ईरान ने संयुक्त राज्य अमेरिका के बजाय चीन के साथ अपने कूटनीतिक संबंधों को मजबूत करने पर ध्यान केंद्रित किया है। यह बदलाव दोनों देशों के बीच मौजूदा तनाव को दर्शाता है। अमेरिका-ईरान वार्ता में बढ़ा अविश्वास, ईरान ने चीन की ओर बढ़ाया कूटनीतिक रुख ChiniMandi।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "अदानी परिवार अमेरिका में 1.80 करोड़ डॉलर जुर्माना भरने को तैयार, सिविल धोखाधड़ी का है केस",
       "url": "https://www.bbc.com/hindi/articles/cx210q4wex2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -270,42 +455,6 @@
           "title": "अदानी परिवार अमेरिका में 1.80 करोड़ डॉलर जुर्माना भरने को तैयार, सिविल धोखाधड़ी का है केस",
           "summary": "अदानी परिवार ने अमेरिका में 1.80 करोड़ डॉलर का जुर्माना भरने पर सहमति जताई है। यह राशि सिविल धोखाधड़ी के एक मामले में तय हुई है। परिवार पर आरोप है कि उसने एक नवीकरणीय ऊर्जा परियोजना के लिए धन जुटाते समय अमेरिकी निवेशकों को गुमराह किया।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQakd3QVYwZExRRUZIUUs2bUlDZDF2U09PQTJEakRqM1BIc1hsZ1czWktXbnNVcGtHcG1RT1l3cHlHd1FlS18tdFVmR2p4YmEwempZZUxtNWZSc1JLalY4WlhFTHkwNGoxNkpubXYzMW51dEU5a09VR0xtYkdYNHNkM2l0NVlHSjFmV2tuS09MRUhrX2tUVl9UbTFpbm9YWEdvcTRaVW5KY01pbG9xdWVWTEYxRmJ4NG5ybHU1UzFmdEVsYTB3TjZiS2NhM0NZZzUyUV9WMzRGa1p6MW1NaHAwd1ZsWHRvYy15YTVJd0VrNzZxOXBpQnBPRGVFZzFXdDVzMzU3bktFdjJGU1VaTE1PWURHNzV4MzBQVTl2OW5VWkhUUXNxRVhaZnI1R0w1UWxvOGJyODlwOXlLMEk?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-15T11:47:42+00:00",
-      "image_url": "https://images.pexels.com/photos/1464194/pexels-photo-1464194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अर्जेंटीना के राष्ट्रपति जेवियर माइली ने विश्व स्वास्थ्य संगठन (WHO) से देश के बाहर निकलने की घोषणा की है। उन्होंने कहा कि WHO एक वामपंथी वैश्विक षड्यंत्र है। यह निर्णय अर्जेंटीना में राजनीतिक बहस को तेज कर रहा है। ‘WHO-Exit’: माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस Tehelka Hindi।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस",
-          "summary": "अर्जेंटीना के राष्ट्रपति जेवियर माइली ने विश्व स्वास्थ्य संगठन (WHO) से देश के बाहर निकलने की घोषणा की है। उन्होंने कहा कि WHO एक वामपंथी वैश्विक षड्यंत्र है। यह निर्णय अर्जेंटीना में राजनीतिक बहस को तेज कर रहा है। ‘WHO-Exit’: माइली की ‘Trump स्टाइल’ कूटनीति और अर्जेंटीना में सुलगती बहस Tehelka Hindi।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "परमाणु आतंकवाद का ख़तरा ‘पहले कभी इतना अधिक नहीं रहा’",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84aEYtTkZkV0VHTFlGbTlpaUtWRjZsc0R1bmdkYm5RZ3Z0NGctQ21ObEVaTlItbUJXb0FlZUtiS1Nrd3pWWFhCQXAtM3dURmQ0UXh1elRPMA?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-15T11:42:15+00:00",
-      "image_url": "https://images.pexels.com/photos/35982142/pexels-photo-35982142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र आतंकवाद निरोधक कार्यालय (UNCCT) के अनुसार, परमाणु आतंकवाद का खतरा पहले कभी इतना अधिक नहीं रहा। यह खतरा परमाणु सामग्री की चोरी, अवैध व्यापार और आतंकवादी समूहों द्वारा इसके उपयोग की संभावना से उत्पन्न होता है। UNCCT इस खतरे से निपटने के लिए सदस्य देशों के बीच सहयोग और क्षमता निर्माण पर जोर देता है।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "परमाणु आतंकवाद का ख़तरा ‘पहले कभी इतना अधिक नहीं रहा’",
-          "summary": "संयुक्त राष्ट्र आतंकवाद निरोधक कार्यालय (UNCCT) के अनुसार, परमाणु आतंकवाद का खतरा पहले कभी इतना अधिक नहीं रहा। यह खतरा परमाणु सामग्री की चोरी, अवैध व्यापार और आतंकवादी समूहों द्वारा इसके उपयोग की संभावना से उत्पन्न होता है। UNCCT इस खतरे से निपटने के लिए सदस्य देशों के बीच सहयोग और क्षमता निर्माण पर जोर देता है।",
-          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     },
@@ -382,24 +531,6 @@
       }
     },
     {
-      "title": "प्रधानमंत्री ने यूएई पर हमलों की निंदा की, स्वतंत्र होर्मुज के लिए संवाद और कूटनीति पर जोर -",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWVA2OE1US01iYjhhWlo4VGZxNTJ6dEZtWUpkN3JRWjFZcHBYWEhwT1V5ZVQ0STl6SnpkWldGNkNWSXVSLU83b3ZFb0Y4eDV5X0VBbGtTamF1bi1OSXdPMGlqcjJXb1hsdmYybk1QVFE4SnR5OWhma0RGSmUtZWtFODJtcGdWTFk?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-15T09:38:21+00:00",
-      "image_url": "https://images.pexels.com/photos/5587294/pexels-photo-5587294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "प्रधानमंत्री ने संयुक्त अरब अमीरात पर हुए हमलों की निंदा की। प्रधानमंत्री ने यूएई पर हमलों की निंदा की, स्वतंत्र होर्मुज के लिए संवाद और कूटनीति पर जोर हिन्दुस्थान समाचार। प्रधानमंत्री ने यूएई पर हमलों की निंदा की, स्वतंत्र होर्मुज के लिए संवाद और कूटनीति पर जोर -।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रधानमंत्री ने यूएई पर हमलों की निंदा की, स्वतंत्र होर्मुज के लिए संवाद और कूटनीति पर जोर -",
-          "summary": "प्रधानमंत्री ने संयुक्त अरब अमीरात पर हुए हमलों की निंदा की। प्रधानमंत्री ने यूएई पर हमलों की निंदा की, स्वतंत्र होर्मुज के लिए संवाद और कूटनीति पर जोर हिन्दुस्थान समाचार। प्रधानमंत्री ने यूएई पर हमलों की निंदा की, स्वतंत्र होर्मुज के लिए संवाद और कूटनीति पर जोर -।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "ब्रिक्स की बैठक में कई अहम मुद्दों पर हुई चर्चा, संयुक्त राष्ट्र की भूमिका पर सभी देशों ने दिया जोर",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYWpJSDdjdTJDV0NjRkpkdnpXUWNvenBRQjY0UUlLU2kza0xNS1Y1M0ZPREV2MkpQVm9DVDAtMjJtZzNoN2RDa0MtY2hXaUxMRmVOeEZpREY3d05PMHR1M3BNQllFbGZPWEtPQUI4NmxWcjlBeFdxSEREejRyd0w1QWprOEVqNW01bm4ybWxScnRkVDNuTE9iTmc1MHBtTTAxMm1tUFFqR1VyT241VlVtLXRfRWM5RnRMRXVxQXY1dWJLZEwzaHRFeXhmMGlIQk9BQzEyTUlqdlI5b0pmN1NoSVlYR1JfcmV0czZDczF4QWFIaG5WV1FJLVBRX2IxOXEwckhQb3FXZkJXQy1mcmRYcmhGY2dKTF800gGeAkFVX3lxTE5CTnNVSzMxT2dfcThrSkVlSjUzbVJjNGx5MExvbktRN1d1QVpmWm1xbEZiSEtKMnBhV1g0d3dmNnJtd0x0Z1ZsSGczNkdNQ3BTYWFoUGM4WDdhM1hhc2ZzV2tTc0FZZTZKbW1EelA2OXdFbUttNGgydFcycXJxZTVYdnpDMmhrd0UyYXpyOGdKQ3BSdDNuSmdqOXQwdm9VZVVTZWM5QmJUTWJyT1Z4X0puSTdtYkR4dDVQZWVjM28zdGhFR1JqZ3VQbFlLMjh3RXA0b243OEdUU0Rob2RwVmIxN3REQ3dxX0tmQnZQMFZXVHc5OXgwa2F5R05TV0w4OTd1LUlJWGNacmtkc09oc0tzNUh3RWlaTEF1bzhKZHc?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -432,6 +563,24 @@
           "title": "पीएम मोदी का यूएई दौरा: अमेरिका-ईरान तनाव के बीच भारत की कूटनीति",
           "summary": "प्रधानमंत्री नरेंद्र मोदी ने संयुक्त अरब अमीरात का दौरा किया। यह दौरा अमेरिका और ईरान के बीच बढ़ते तनाव के बीच हुआ। मोदी ने अबू धाबी के क्राउन प्रिंस शेख मोहम्मद बिन जायद अल नाहयान से मुलाकात की। दोनों नेताओं ने द्विपक्षीय संबंधों को मजबूत करने पर चर्चा की। यह यात्रा भारत की स्वतंत्र विदेश नीति को दर्शाती है।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "UNSC के विस्तार पर भारत का जोर, जयशंकर ने सुधारों की उठाई मांग - बिजनेस स्टैंडर्ड",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZkZMSUI0Q2RBMGdPeGQ4MTR6WTI4b0xaWWpxS2NtTmdlUnRjd0pRdTlueDZVdjBHTVZWaFZsck91NXV0S2JYSjNKNG9rZHpNUWhhVExQQVhJdi1aazFPb2ZCY0gxZ1RTM2tHSEIzRmtiRjVUYnJQVGkwelhiREhYSE5kRUR6VU93U3BUSHFpckxrZ1ZFbFp1NWdRVmVrNUpEaGtwZXpfQXRRTFZoY29ra0cxVjdUek9kQ1FNZGVXTGtTVWQ5dG54aW9CSzJzVzFUc2daSklB0gHbAUFVX3lxTFB5VXllWkw4bGEtNTdVYmlMbEtoR0tvbkQyZXM0dFR3WlBqamVUQWh2QjhJWWxTVzZncG81LUFCNVV4TGxsaUZ6VUNXLXM0bVJicVVFeWRaS3M2Ny1UNGhfai13TGV1bTBkS0JCT0FpaU1RT2dSOFVSZmN0ZTFETm0yMkhZd1pLU3RkQlM4ZzZmWWlIYkdDWWxEUV9icWNWVkRMODRielRWcmczRkttQmFJOXZ0SWUzckFkOUctX0RmbFRjd0JQdHFRNmR0QkNpWXRCbTFoSm1aclJfYw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-15T08:29:53+00:00",
+      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) के विस्तार की मांग की है। विदेश मंत्री एस. जयशंकर ने कहा कि परिषद को समकालीन वैश्विक वास्तविकताओं को प्रतिबिंबित करने के लिए सुधारों की आवश्यकता है। उन्होंने परिषद को अधिक समावेशी बनाने पर जोर दिया। UNSC के विस्तार पर भारत का जोर, जयशंकर ने सुधारों की उठाई मांग बिजनेस स्टैंडर्ड।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UNSC के विस्तार पर भारत का जोर, जयशंकर ने सुधारों की उठाई मांग - बिजनेस स्टैंडर्ड",
+          "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) के विस्तार की मांग की है। विदेश मंत्री एस. जयशंकर ने कहा कि परिषद को समकालीन वैश्विक वास्तविकताओं को प्रतिबिंबित करने के लिए सुधारों की आवश्यकता है। उन्होंने परिषद को अधिक समावेशी बनाने पर जोर दिया। UNSC के विस्तार पर भारत का जोर, जयशंकर ने सुधारों की उठाई मांग बिजनेस स्टैंडर्ड।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -526,24 +675,6 @@
       }
     },
     {
-      "title": "पहली बार दिल्ली में हाइड्रोजन बसें, जानें कहां से कहां तक चलेंगी, कितना होगा किराया?",
-      "url": "https://www.amarujala.com/delhi-ncr/operations-of-a-hydrogen-powered-bus-have-begun-in-delhi-2026-05-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-15T05:47:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/hydrogen-bus-in-delhi_014fd2c9c8b599a6e9d811793e4b279a.jpeg?w=750&dpr=1.0",
-      "summary": "दिल्ली में पहली बार हाइड्रोजन गैस से चलने वाली बसों का संचालन शुरू हो गया है। इन बसों के मार्ग और किराए के बारे में जानकारी दी गई है। राजधानी दिल्ली में पहली बार, हाइड्रोजन गैस से चलने वाली बसों का संचालन शुरू हो गया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पहली बार दिल्ली में हाइड्रोजन बसें, जानें कहां से कहां तक चलेंगी, कितना होगा किराया?",
-          "summary": "दिल्ली में पहली बार हाइड्रोजन गैस से चलने वाली बसों का संचालन शुरू हो गया है। इन बसों के मार्ग और किराए के बारे में जानकारी दी गई है। राजधानी दिल्ली में पहली बार, हाइड्रोजन गैस से चलने वाली बसों का संचालन शुरू हो गया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "'शी और ट्रंप के बीच बनी नई सहमतियां', चीनी विदेश मंत्रालय ने बताया रिश्तों के लिए अहम कदम",
       "url": "https://www.amarujala.com/world/xi-and-trump-reach-new-agreements-chinese-foreign-ministry-says-important-step-for-relations-2026-05-15",
       "source": "Amar Ujala World",
@@ -558,24 +689,6 @@
           "title": "'शी और ट्रंप के बीच बनी नई सहमतियां', चीनी विदेश मंत्रालय ने बताया रिश्तों के लिए अहम कदम",
           "summary": "चीन के विदेश मंत्रालय ने बताया कि शी जिनपिंग और डोनाल्ड ट्रंप के बीच नई सहमति बनी है। यह चीन-अमेरिका संबंधों के लिए एक महत्वपूर्ण कदम है। दोनों नेताओं ने द्विपक्षीय संबंधों को स्थिर करने पर जोर दिया। 'शी और ट्रंप के बीच बनी नई सहमतियां', चीनी विदेश मंत्रालय ने बताया रिश्तों के लिए अहम कदम।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "धार की भोजशाला में क्या थी विवाद की जड़? जानिए इतिहास से हाईकोर्ट तक की पूरी कहानी",
-      "url": "https://www.amarujala.com/madhya-pradesh/dhar/dhar-bhojshala-dispute-history-high-court-verdict-asi-report-temple-mosque-case-full-story-2026-05-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-15T04:46:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/bhajashal-vavatha-ka-para-kahana_ad682f554924b282edbf58f91520356a.jpeg?w=750&dpr=1.0",
-      "summary": "धार की भोजशाला में हिंदू और मुस्लिम पक्ष के बीच विवाद गहरा हिंदू और मुस्लिम पक्ष कब-कब आमने-सामने आए? यह मामला राजनीति का बड़ा मुद्दा कैसे बना? एएसआई की रिपोर्ट में क्या सामने आया और कोर्ट में अब तक क्या-क्या हुआ?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "धार की भोजशाला में क्या थी विवाद की जड़? जानिए इतिहास से हाईकोर्ट तक की पूरी कहानी",
-          "summary": "धार की भोजशाला में हिंदू और मुस्लिम पक्ष के बीच विवाद गहरा हिंदू और मुस्लिम पक्ष कब-कब आमने-सामने आए? यह मामला राजनीति का बड़ा मुद्दा कैसे बना? एएसआई की रिपोर्ट में क्या सामने आया और कोर्ट में अब तक क्या-क्या हुआ?",
-          "region": "दुनिया"
         }
       }
     },
@@ -629,60 +742,6 @@
         "hi": {
           "title": "'चीन भी नहीं चाहता कि ईरान बने परमाणु ताकत': डोनाल्ड ट्रंप का बड़ा दावा, बोले- शी जिनपिंग ने मदद की",
           "summary": "डोनाल्ड ट्रंप ने दावा किया कि चीन भी नहीं चाहता कि ईरान परमाणु ताकत बने। उन्होंने कहा कि शी जिनपिंग ने ईरान के परमाणु कार्यक्रम को रोकने में मदद की पेशकश की। ट्रंप ने यह दावा किया। 'चीन भी नहीं चाहता कि ईरान बने परमाणु ताकत': डोनाल्ड ट्रंप का बड़ा दावा, बोले- शी जिनपिंग ने मदद की।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यूएई और ईरान के मंत्री नई दिल्ली में बैठक के दौरान आपस में भिड़े, जानिए पूरा मामला",
-      "url": "https://www.bbc.com/hindi/articles/cr7p0nn0jv5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-15T03:23:34+00:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edc5/live/c8e59130-5006-11f1-bb2b-c50e3ba6a287.jpg",
-      "summary": "नई दिल्ली में ब्रिक्स विदेश मंत्रियों की बैठक के दौरान ईरान और संयुक्त अरब अमीरात के मंत्रियों के बीच तीखी बहस हुई। यह घटनाक्रम तब हुआ जब इजरायल ने नेतन्याहू के यूएई दौरे की घोषणा की। नई दिल्ली में ईरान और यूएई के मंत्री ब्रिक्स देशों के विदेश मंत्रियों की बैठक के दौरान आपस में भिड़ गए.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूएई और ईरान के मंत्री नई दिल्ली में बैठक के दौरान आपस में भिड़े, जानिए पूरा मामला",
-          "summary": "नई दिल्ली में ब्रिक्स विदेश मंत्रियों की बैठक के दौरान ईरान और संयुक्त अरब अमीरात के मंत्रियों के बीच तीखी बहस हुई। यह घटनाक्रम तब हुआ जब इजरायल ने नेतन्याहू के यूएई दौरे की घोषणा की। नई दिल्ली में ईरान और यूएई के मंत्री ब्रिक्स देशों के विदेश मंत्रियों की बैठक के दौरान आपस में भिड़ गए.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "स्ट्रक्चरल पेस्ट कंट्रोल बोर्ड में शामिल हुए भारतीय मूल के योगेश चुघ, कैलिफोर्निया के गवर्नर ने की",
-      "url": "https://www.amarujala.com/world/california-governor-appoints-indian-american-to-structural-pest-control-board-2026-05-15",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-15T03:18:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/yogesh-yogi-chugh_b93b391d022ef1f9bca0c70073ba93e2.jpeg?w=750&dpr=1.0",
-      "summary": "कैलिफोर्निया के गवर्नर ने भारतीय मूल के योगेश चुघ को स्ट्रक्चरल पेस्ट कंट्रोल बोर्ड में नियुक्त किया है। यह नियुक्ति राज्य के पर्यावरण नियमों के प्रवर्तन में योगदान देगी। US: स्ट्रक्चरल पेस्ट कंट्रोल बोर्ड में शामिल हुए भारतीय मूल के योगेश चुघ, कैलिफोर्निया के गवर्नर ने की घोषणा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्ट्रक्चरल पेस्ट कंट्रोल बोर्ड में शामिल हुए भारतीय मूल के योगेश चुघ, कैलिफोर्निया के गवर्नर ने की",
-          "summary": "कैलिफोर्निया के गवर्नर ने भारतीय मूल के योगेश चुघ को स्ट्रक्चरल पेस्ट कंट्रोल बोर्ड में नियुक्त किया है। यह नियुक्ति राज्य के पर्यावरण नियमों के प्रवर्तन में योगदान देगी। US: स्ट्रक्चरल पेस्ट कंट्रोल बोर्ड में शामिल हुए भारतीय मूल के योगेश चुघ, कैलिफोर्निया के गवर्नर ने की घोषणा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारतीय जहाज पर हमले की UAE ने की निंदा: PM मोदी के दौरे से पहले कहा- समुद्री सुरक्षा से खिलवाड़",
-      "url": "https://www.amarujala.com/world/uae-condemns-terrorist-attack-on-indian-vessel-as-pm-modi-heads-to-abu-dhabi-2026-05-15",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-15T02:48:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/uae-condemns-terrorist-attack-on-indian-vessel-as-pm-modi-heads-to-abu-dhabi_70769aeb5399da3f8c54e3c373e3d6dc.jpeg?w=750&dpr=1.0",
-      "summary": "संयुक्त अरब अमीरात ने भारतीय जहाज पर हुए आतंकवादी हमले की निंदा की है। यूएई ने कहा कि समुद्री सुरक्षा के साथ खिलवाड़ बर्दाश्त नहीं किया जाएगा। भारतीय जहाज पर हमले की UAE ने की निंदा: PM मोदी के दौरे से पहले कहा- समुद्री सुरक्षा से खिलवाड़।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतीय जहाज पर हमले की UAE ने की निंदा: PM मोदी के दौरे से पहले कहा- समुद्री सुरक्षा से खिलवाड़",
-          "summary": "संयुक्त अरब अमीरात ने भारतीय जहाज पर हुए आतंकवादी हमले की निंदा की है। यूएई ने कहा कि समुद्री सुरक्षा के साथ खिलवाड़ बर्दाश्त नहीं किया जाएगा। भारतीय जहाज पर हमले की UAE ने की निंदा: PM मोदी के दौरे से पहले कहा- समुद्री सुरक्षा से खिलवाड़।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
