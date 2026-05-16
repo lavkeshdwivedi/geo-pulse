@@ -640,19 +640,24 @@ def fetch_stock_image(title: str) -> str:
 
 
 def ensure_image_url(entry_image: str, article_url: str, title: str = "") -> str:
-    """Return a non-empty image URL.
+    """Return a non-empty image URL, preferring the publisher's HD image.
 
     Order of preference:
-    1. Image already attached by the feed entry.
-    2. og:image / twitter:image on the article page.
+    1. og:image / twitter:image on the article page — the publisher's
+       intended share image, almost always HD (~1200x630). This is what a
+       reader sees when the story is shared on social, so it is the highest
+       quality image the source offers.
+    2. Image attached by the feed entry — RSS `media:thumbnail` tags are
+       frequently tiny crops (144-240px), so this is a fallback only, used
+       when og:image scraping misses.
     3. Pexels stock photo keyed on the article title.
     4. Unsplash stock photo keyed on the article title.
     """
-    if entry_image:
-        return entry_image
     scraped = fetch_og_image(article_url)
     if scraped:
         return scraped
+    if entry_image:
+        return entry_image
     return fetch_stock_image(title)
 
 
@@ -683,14 +688,15 @@ def _fetch_one_feed(
             else:
                 published_at = entry.get("published", "")
 
-            image_url = _extract_image_url(entry)
+            rss_image = _extract_image_url(entry)
 
             if title and link:
                 if language and not _matches_language(title, language):
                     skipped += 1
                     continue
-                if not image_url:
-                    image_url = ensure_image_url("", link, title=title)
+                # Always resolve through ensure_image_url so the article's
+                # HD og:image wins over the feed's low-res thumbnail.
+                image_url = ensure_image_url(rss_image, link, title=title)
                 out.append(
                     {
                         "title": title,
