@@ -1,32 +1,56 @@
 {
-  "generated_at": "2026-05-16T08:49:38.157621+00:00",
-  "article_count": 46,
-  "total_unique_count": 374,
+  "generated_at": "2026-05-16T10:18:17.078506+00:00",
+  "article_count": 47,
+  "total_unique_count": 379,
   "digest": {
-    "en": "Trump's statements on ISIS and China dominate headlines. European nations are moving to establish a special tribunal for Russia. Mali's forces are targeting rebel alliances.",
-    "hi": "अंतर्राष्ट्रीय परिवार दिवस ने मानवीय संबंधों और सामाजिक एकता पर प्रकाश डाला। पाकिस्तान के सेना प्रमुख ने देश के भविष्य पर चेतावनी दी। सूडान में 1.95 करोड़ लोग गंभीर खाद्य संकट का सामना कर रहे हैं।"
+    "en": "The Israel-Lebanon ceasefire extension dominates headlines. This is contrasted by ongoing strikes and concerns. Sri Lanka's currency protection measures also warrant attention.",
+    "hi": "भारत का चीनी निर्यात पर प्रतिबंध इस समय प्रमुख है। यह वैश्विक खाद्य आपूर्ति और मुद्रास्फीति पर असर डालता है। सूडान में खाद्य संकट और ट्रंप पर इनाम की खबरें भी महत्वपूर्ण हैं।"
   },
   "articles": [
     {
-      "title": "Trump says ISIS second-in-command eliminated",
+      "title": "Israel-Lebanon ceasefire extended by 45 days, but fresh strikes raise concerns",
+      "url": "https://www.thehindu.com/videos/israel-lebanon-ceasefire-extended-by-45-days-but-fresh-strikes-raise-concerns/article70986586.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-16T09:41:58+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/nyhv9o/article70986582.ece/alternates/LANDSCAPE_1200/fuel%205.png",
+      "summary": "Israel and Lebanon extended their ceasefire by 45 days. Israel and Lebanon have agreed to extend their fragile ceasefire by 45 days, with the United States pushing for a long-term solution. However, fresh Israeli strikes and ongoing tensions with Hezbollah are raising concerns about how stable the truce really is.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "\"Felt Like Being In India\": PM Modi praises Indians In Netherlands",
+      "url": "https://www.ndtv.com/world-news/pm-modi-netherlands-visit-live-updates-modi-five-nation-tour-netherlands-sweden-norway-italy-uae-energy-trade-updates-pm-narendra-modi-praises-indians-11504070#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-16T09:25:34+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/2pqt0a6_narendra-modi-ani_625x300_16_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "summary": "Prime Minister Narendra Modi visited the Netherlands and praised the Indian diaspora. PM Modi in Netherlands LIVE Updates: Prime Minister Narendra Modi is on a five-nation tour from May 15 to 20, during which he visited the United Arab Emirates as part of the first leg of the visit.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Sri Lanka imposes 50% surcharge on car imports to protect currency from further slide",
+      "url": "https://www.thehindu.com/news/international/sri-lanka-imposes-50-surcharge-on-car-imports-to-protect-currency-from-further-slide/article70986477.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-16T09:21:18+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/iuh37p/article70986527.ece/alternates/LANDSCAPE_1200/UN_General_Assembly_Sri_Lanka_56363.jpg",
+      "summary": "Sri Lanka imposed a 50% surcharge on car imports The rupee has seen over 3% depreciation against the dollar by mid this month due to prevailing external pressures. primarily the Iran war. which has led to a massive surge in fuel import bill.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump says ISIS second-in-command Abu-Bilal al-Minuki killed by US and Nigerian forces",
       "url": "https://www.channelnewsasia.com/world/trump-isis-second-in-command-abu-bilal-al-minuki-eliminated-6125356",
       "source": "Channel News Asia",
       "sources": [],
       "published_at": "2026-05-16T04:22:00+00:00",
       "image_url": "https://dam.mediacorp.sg/image/upload/s--ulh3uHo4--/c_crop,h_450,w_800,x_0,y_99/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-01-13T142816Z_2_LYNXMPEM0C0UX_RTROPTP_3_USA-TRUMP-NIGERIA.JPG?itok=a0Hk2sn2",
       "summary": "United States President Donald Trump announced the elimination of Abu-Bilal al-Minuki, identified as the second-in-command of ISIS. Trump stated al-Minuki believed he could evade detection in Africa. The operation relied on intelligence from sources providing information on al-Minuki's activities. \"Abu-Bilal al-Minuki, second in command of ISIS globally, thought he could hide in Africa, but little did he know we had sources who kept us informed on what he was doing,\" Donald Trump said in a post on Truth Social.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ukrainian plane carrying explosives grounded in Trinidad and Tobago",
-      "url": "https://www.thehindu.com/news/international/ukrainian-plane-carrying-explosives-grounded-in-trinidad-and-tobago/article70985935.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-16T04:05:10+00:00",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "summary": "A Ukrainian cargo plane was grounded in Trinidad and Tobago. The aircraft landed at Piarco International Airport in Port of Spain for refueling. It was en route from the Bahamas to Libya via Cape Verde. Police became suspicious of the plane's cargo. The plane, coming from the Bahamas, landed on Thursday (May 14) at Piarco International Airport in Port of Spain to refuel and was then due to fly on to Libya via Cape Verde, raising police suspicions.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -116,18 +140,6 @@
       "translations": {}
     },
     {
-      "title": "Pakistan faces pressure over mediator role in Iran war",
-      "url": "https://www.dw.com/en/pakistan-faces-pressure-over-mediator-role-in-iran-war/a-77174786?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-15T14:20:00+00:00",
-      "image_url": "https://static.dw.com/image/76935957_6.jpg",
-      "summary": "Pakistan is mediating between Iran and Israel. This role places Islamabad in a difficult position. It must balance relations with the United States, Iran, China, and Gulf states. A recent US media report has increased scrutiny on Pakistan's involvement. With Pakistan stepping in the middle of a major geopolitical conflict, Islamabad is forced to balance between Washington, Tehran, Beijing and key Gulf allies.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
       "url": "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
       "source": "The Guardian",
@@ -136,6 +148,18 @@
       "image_url": "https://i.guim.co.uk/img/media/2ef66b1554633256a71f05bd85dfb9f018d708b1/459_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=5c7dffb3ddf3b18e4e42275b52d035af",
       "summary": "Donald Trump concluded his Beijing visit with Chinese leader Xi Jinping. US president has said he and Chinese leader ‘settled a lot of different problems’ but has given little detail on solutionsTrump China visit live – latest updatesDonald Trump’s whirlwind trip to Beijing – the first US presidential visit in nearly a decade – wrapped up with much fanfare but little clarity about what was actually achieved. Trump said on Friday he and Xi Jinping, China’s leader, “settl.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "As war displaces millions in DR Congo, new schools offer children hope beyond violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167527",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-15T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-05-2026-UNICEF-DR-Congo-01.jpg/image560x340cropped.jpg",
+      "summary": "New schools are opening in eastern Democratic Republic of the Congo. Ten-year-old Shadrac Anyazaka does not hesitate when asked about his future. “After finishing my studies, I would like to become President of the Republic one day,” he tells visitors to his school in eastern Democratic Republic of the Congo (DRC).",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -172,18 +196,6 @@
       "image_url": "https://i.guim.co.uk/img/media/4a18beef4ee363a916282e3263701bf595683afe/100_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=17cc5dddd98526925abbfccb03a944c7",
       "summary": "A five-month investigation identified 13 previously unnamed victims of US All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communitiesSign up for the Breaking News US newsletter emailA five-month investigation has named 13 previously unidentified victims of US attacks on boats allegedly carrying narcotics in a campaign that has killed nearly 200 people in the Caribbean and the eastern Pacific. It is unclear if the.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Death toll in attack on Kyiv apartment building now stands at 24",
-      "url": "https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-05-15T09:28:02+00:00",
-      "image_url": "https://images.pexels.com/photos/11734701/pexels-photo-11734701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The death toll from a Russian cruise missile strike on a Kyiv Ukrainian President Volodymyr Zelenskyy led an official day of mourning in Kyiv a day after a Russian cruise missile flattened an apartment building. It was one of the deadliest attacks on the capital in the 4-year-old war.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -260,6 +272,24 @@
       "translations": {}
     },
     {
+      "title": "जब भारत को ज़्यादा विदेशी मुद्रा की ज़रूरत है, तब उसने चीनी के निर्यात पर प्रतिबंध क्यों लगाया?",
+      "url": "https://www.bbc.com/hindi/articles/cjwp7nqg1g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-16T09:28:40+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bb43/live/7c5f73c0-5106-11f1-bf8a-7bfb1962eee4.jpg",
+      "summary": "भारत ने घरेलू आपूर्ति को स्थिर करने के लिए चीनी निर्यात पर प्रतिबंध लगा दिया है। यह निर्णय ऐसे समय में आया है जब देश को विदेशी मुद्रा की सख्त आवश्यकता है। इस प्रतिबंध से अफ़्रीकी देशों को अपनी चीनी की ज़रूरतों को पूरा करने के लिए ब्राज़ील या थाईलैंड जैसे अन्य आपूर्तिकर्ताओं की ओर देखना पड़ सकता है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जब भारत को ज़्यादा विदेशी मुद्रा की ज़रूरत है, तब उसने चीनी के निर्यात पर प्रतिबंध क्यों लगाया?",
+          "summary": "भारत ने घरेलू आपूर्ति को स्थिर करने के लिए चीनी निर्यात पर प्रतिबंध लगा दिया है। यह निर्णय ऐसे समय में आया है जब देश को विदेशी मुद्रा की सख्त आवश्यकता है। इस प्रतिबंध से अफ़्रीकी देशों को अपनी चीनी की ज़रूरतों को पूरा करने के लिए ब्राज़ील या थाईलैंड जैसे अन्य आपूर्तिकर्ताओं की ओर देखना पड़ सकता है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmxVQVQ3cV9tR25aeEVXWWM1U0NiSFI3TUJ1TEU5VFVzN0x3NlJxZ01NUEptYlVqQmJJWUx5cmZlNDduUVZCZTRQVnRIWXFxRzVvWGJDYXJ2YTVRRlFsYk11MF9aazl2WVNUSXM3RTQ2cGRlRWQ4WWFlSmlaMThSVlFVdWNLOG1fRjNkUktCdHlkV0VkZ2FRR2huLXFfUXg1YmpjRTlrcWh2dGJMa1dXOGR3WnBfZTFwOWVZ?oc=5",
       "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
@@ -274,60 +304,6 @@
           "title": "अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार",
           "summary": "अंतरराष्ट्रीय परिवार दिवस पर, परिवारों के महत्व पर जोर दिया जाता है। यह दिवस मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार है। अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार DD News।",
           "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "प्रदेश के श्रमिकों को बड़ी राहत, धामी सरकार ने न्यूनतम वेतन बढ़ाया, एक अप्रैल 2026 से होगा लागू",
-      "url": "https://www.amarujala.com/dehradun/major-relief-for-workers-in-uttarakhand-dhami-government-hikes-minimum-wage-read-all-updates-in-hindi-2026-05-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-16T07:19:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/23/cm-dhami_dd12f8f57a73f726b09d9a91909332d2.jpeg?w=750&dpr=1.0",
-      "summary": "धामी सरकार ने उत्तराखंड में श्रमिकों का न्यूनतम वेतन बढ़ाया है उत्तराखंड में श्रमिकों के लिए बड़ी राहत की खबर है। धामी सरकार ने श्रमिकों का न्यूनतम वेतन बढ़ाया है। प्रदेश के श्रमिकों को बड़ी राहत, धामी सरकार ने न्यूनतम वेतन बढ़ाया, एक अप्रैल 2026 से होगा लागू।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रदेश के श्रमिकों को बड़ी राहत, धामी सरकार ने न्यूनतम वेतन बढ़ाया, एक अप्रैल 2026 से होगा लागू",
-          "summary": "धामी सरकार ने उत्तराखंड में श्रमिकों का न्यूनतम वेतन बढ़ाया है उत्तराखंड में श्रमिकों के लिए बड़ी राहत की खबर है। धामी सरकार ने श्रमिकों का न्यूनतम वेतन बढ़ाया है। प्रदेश के श्रमिकों को बड़ी राहत, धामी सरकार ने न्यूनतम वेतन बढ़ाया, एक अप्रैल 2026 से होगा लागू।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कॉपियों की डिजिटल जांच विवाद क्यों? इसपर सीबीएसई का क्या पक्ष? समझें पूरा मामला",
-      "url": "https://www.amarujala.com/education/cbse-osm-system-2026-why-students-and-parents-are-questioning-digital-answer-sheet-evaluation-2026-05-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-16T07:17:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/cbse-12th-digital-evaluation-2026_a8b24dbc0974b3d262aa87610201947b.jpeg?w=750&dpr=1.0",
-      "summary": "केंद्रीय माध्यमिक शिक्षा बोर्ड ने इस साल कक्षा 12वीं की CBSE 12th Digital Evaluation 2026: केंद्रीय माध्यमिक शिक्षा बोर्ड ने इस साल ने कक्षा 12वीं की कॉपियों की पूर्ण डिजिटल जांच शुरू की। कॉपियां स्कैन होकर टीचर्स कंप्यूटर पर चेक करते हैं। लेकिन इसे लेकर सोशल मीडिया पर बच्चों और।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कॉपियों की डिजिटल जांच विवाद क्यों? इसपर सीबीएसई का क्या पक्ष? समझें पूरा मामला",
-          "summary": "केंद्रीय माध्यमिक शिक्षा बोर्ड ने इस साल कक्षा 12वीं की CBSE 12th Digital Evaluation 2026: केंद्रीय माध्यमिक शिक्षा बोर्ड ने इस साल ने कक्षा 12वीं की कॉपियों की पूर्ण डिजिटल जांच शुरू की। कॉपियां स्कैन होकर टीचर्स कंप्यूटर पर चेक करते हैं। लेकिन इसे लेकर सोशल मीडिया पर बच्चों और।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "'पाकिस्तान तय करे वो भूगोल का हिस्सा बनना चाहता है या इतिहास का', सेना प्रमुख की PAK को चेतावनी",
-      "url": "https://www.amarujala.com/india-news/army-chief-warning-to-pakistan-pakistan-must-decide-whether-it-wants-to-be-a-part-of-geography-or-history-2026-05-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-16T07:13:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/sana-paramakha-janaral-upathara-thavavatha_d088689f5db8070f4c7f903b3abd0309.jpeg?w=750&dpr=1.0",
-      "summary": "भारतीय सेना प्रमुख ने पाकिस्तान को चेतावनी दी है. 'पाकिस्तान तय करे वो भूगोल का हिस्सा बनना चाहता है या इतिहास का', सेना प्रमुख की PAK को चेतावनी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'पाकिस्तान तय करे वो भूगोल का हिस्सा बनना चाहता है या इतिहास का', सेना प्रमुख की PAK को चेतावनी",
-          "summary": "भारतीय सेना प्रमुख ने पाकिस्तान को चेतावनी दी है. 'पाकिस्तान तय करे वो भूगोल का हिस्सा बनना चाहता है या इतिहास का', सेना प्रमुख की PAK को चेतावनी।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -422,27 +398,9 @@
       }
     },
     {
-      "title": "कान फिल्म फेस्टिवल में बनारसी साड़ी पहन इठलाईं हुमा कुरैशी; तस्वीरों में देखिए अलहदा अंदाज",
-      "url": "https://www.amarujala.com/entertainment/huma-qureshi-stunning-and-stylish-look-in-gorgeous-benarasi-saree-at-79th-cannes-film-festival-2026-05-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-16T06:24:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/hama-karasha_18cee2f5fd0ac3db8f787b3787f7f179.jpeg?w=750&dpr=1.0",
-      "summary": "अभिनेत्री हुमा कुरैशी कान फिल्म फेस्टिवल में बनारसी साड़ी में पहुंचीं। उन्होंने अपने खास अंदाज से सबका ध्यान खींचा। Huma Qureshi at Cannes 2026: अभिनेत्री हुमा कुरैशी कान फिल्म फेस्टिवल में शिरकत करने पहुंची हैं। उनका खूबसूरत लुक सामने आया है। एक्ट्रेस बनारसी साड़ी पहने दिखी हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कान फिल्म फेस्टिवल में बनारसी साड़ी पहन इठलाईं हुमा कुरैशी; तस्वीरों में देखिए अलहदा अंदाज",
-          "summary": "अभिनेत्री हुमा कुरैशी कान फिल्म फेस्टिवल में बनारसी साड़ी में पहुंचीं। उन्होंने अपने खास अंदाज से सबका ध्यान खींचा। Huma Qureshi at Cannes 2026: अभिनेत्री हुमा कुरैशी कान फिल्म फेस्टिवल में शिरकत करने पहुंची हैं। उनका खूबसूरत लुक सामने आया है। एक्ट्रेस बनारसी साड़ी पहने दिखी हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "डोनाल्ड ट्रंप की हत्या पर ₹558 करोड़ का इनाम, ईरानी संसद में पेश किया जाएगा प्रस्ताव",
       "url": "https://www.amarujala.com/world/us-iran-conflict-50mn-bounty-for-trump-s-assassination-proposal-to-be-presented-in-iranian-parliament-2026-05-16",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-16T06:17:47+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/us-iran-conflict-eur50mn-bounty-for-trumps-assassination-proposal-to-be-presented-in-iranian-parlia_4991abd309438a580b17e241e99e7377.jpeg?w=750&dpr=1.0",
@@ -454,24 +412,6 @@
           "title": "डोनाल्ड ट्रंप की हत्या पर ₹558 करोड़ का इनाम, ईरानी संसद में पेश किया जाएगा प्रस्ताव",
           "summary": "ईरानी संसद में एक प्रस्ताव पेश किया जाएगा जिसमें डोनाल्ड ट्रंप की हत्या पर 50 मिलियन यूरो का इनाम रखा जाएगा। यह प्रस्ताव ईरान और अमेरिका के बीच बढ़ते तनाव के बीच आया है। ईरानी सांसदों ने इस प्रस्ताव को पेश करने का फैसला किया है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "चीन में ट्रंप का शाही स्वागत, रोस्ट डक-आइसक्रीम के साथ स्टेट डिनर; देखें तस्वीरें",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMWN4TmFKQWl3UDNnbm1jeUkxcmpVZThPbHF5bWp2dVhkTzNFV0FQaGN1TTI4RFVKeUtOcHdZNjBxOXFkZ2tEX3UxRW1kV25zd0l0eC13LUJHQXdLNlJQS0FXVzkzclYtRTl0Uk1obmVpV1ZDcWI2UXFMLWlsb0twN3lmaWpZUFF1Q05ZREs4NEJwZkJuS2wtSmxHSTdnOW82aGx3bg?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-16T06:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/30869078/pexels-photo-30869078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का चीन में शाही स्वागत किया गया, जिसमें रोस्ट डक और आइसक्रीम के साथ स्टेट डिनर आयोजित किया गया। इस दौरान कई तस्वीरें भी खींची गईं। चीनी राष्ट्रपति शी जिनपिंग ने ट्रंप का स्वागत किया। चीन में ट्रंप का शाही स्वागत, रोस्ट डक-आइसक्रीम के साथ स्टेट डिनर; देखें तस्वीरें Jagran।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन में ट्रंप का शाही स्वागत, रोस्ट डक-आइसक्रीम के साथ स्टेट डिनर; देखें तस्वीरें",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का चीन में शाही स्वागत किया गया, जिसमें रोस्ट डक और आइसक्रीम के साथ स्टेट डिनर आयोजित किया गया। इस दौरान कई तस्वीरें भी खींची गईं। चीनी राष्ट्रपति शी जिनपिंग ने ट्रंप का स्वागत किया। चीन में ट्रंप का शाही स्वागत, रोस्ट डक-आइसक्रीम के साथ स्टेट डिनर; देखें तस्वीरें Jagran।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -705,6 +645,78 @@
         "hi": {
           "title": "ट्रंप बोले- जिनपिंग से मुलाकात 'G-2'; नौ साल बाद की यात्रा से अमेरिका को क्या मिला?",
           "summary": "डोनाल्ड ट्रंप ने चीन के राष्ट्रपति शी जिनपिंग के साथ अपनी मुलाकात को 'जी-2' बताया। नौ साल बाद हुई इस यात्रा से अमेरिका को क्या हासिल हुआ, इसका विश्लेषण किया जा रहा है। Trump China Trip Analysis: ट्रंप बोले- जिनपिंग से मुलाकात 'G-2'; नौ साल बाद की यात्रा से अमेरिका को क्या मिला?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आरएसएस नेता के 'पाकिस्तान के साथ संवाद' वाले बयान पर पाकिस्तान में ऐसी प्रतिक्रिया",
+      "url": "https://www.bbc.com/hindi/articles/c8xwrr822j8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-16T01:24:49+00:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df9f/live/fcf5e520-5082-11f1-b65e-7792809e12cc.jpg",
+      "summary": "राष्ट्रीय स्वयंसेवक संघ (आरएसएस) के एक वरिष्ठ नेता ने कहा कि पाकिस्तान के साथ बातचीत के दरवाजे पूरी तरह बंद नहीं होने चाहिए. पाकिस्तान में इस बयान पर मिश्रित प्रतिक्रियाएं आई हैं. कुछ लोगों ने इसे सकारात्मक संकेत माना है. वहीं, अन्य ने इसे भारत की ओर से द्विपक्षीय संबंधों को सामान्य करने के प्रयास के रूप में देखा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आरएसएस नेता के 'पाकिस्तान के साथ संवाद' वाले बयान पर पाकिस्तान में ऐसी प्रतिक्रिया",
+          "summary": "राष्ट्रीय स्वयंसेवक संघ (आरएसएस) के एक वरिष्ठ नेता ने कहा कि पाकिस्तान के साथ बातचीत के दरवाजे पूरी तरह बंद नहीं होने चाहिए. पाकिस्तान में इस बयान पर मिश्रित प्रतिक्रियाएं आई हैं. कुछ लोगों ने इसे सकारात्मक संकेत माना है. वहीं, अन्य ने इसे भारत की ओर से द्विपक्षीय संबंधों को सामान्य करने के प्रयास के रूप में देखा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "वैचारिक मंथन से यूपी के विकास को लगेंगे पंख, स्वर्णिम शताब्दी की राह दिखाएगी चर्चा",
+      "url": "https://www.amarujala.com/lucknow/amar-ujala-samvad-2026-ideational-brainstorming-will-give-wings-to-up-s-development-2026-05-16",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-16T00:58:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/amara-ujal-savatha_2a21c60c4bc2de28b519a07fd358ff49.jpeg?w=750&dpr=1.0",
+      "summary": "उत्तर प्रदेश की राजधानी लखनऊ में संवाद उत्तर प्रदेश 2026 का आयोजन किया जाएगा। यह कार्यक्रम राज्य के विकास पर केंद्रित होगा। चर्चाओं के माध्यम से उत्तर प्रदेश के स्वर्णिम शताब्दी की राह प्रशस्त करने का लक्ष्य है। अमर उजाला समूह उत्तर प्रदेश की राजधानी में संवाद उत्तर प्रदेश 2026 का आयोजन करने जा रहा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वैचारिक मंथन से यूपी के विकास को लगेंगे पंख, स्वर्णिम शताब्दी की राह दिखाएगी चर्चा",
+          "summary": "उत्तर प्रदेश की राजधानी लखनऊ में संवाद उत्तर प्रदेश 2026 का आयोजन किया जाएगा। यह कार्यक्रम राज्य के विकास पर केंद्रित होगा। चर्चाओं के माध्यम से उत्तर प्रदेश के स्वर्णिम शताब्दी की राह प्रशस्त करने का लक्ष्य है। अमर उजाला समूह उत्तर प्रदेश की राजधानी में संवाद उत्तर प्रदेश 2026 का आयोजन करने जा रहा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज पर भारत का रुख क्या?: मुश्किल वैश्विक हालात में UAE के साथ समझौते, विशेषज्ञ बोले- होंगे",
+      "url": "https://www.amarujala.com/world/india-on-hormuz-agreements-with-uae-amid-challenging-global-conditions-experts-say-far-reaching-implications-2026-05-16",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-15T23:53:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/15/pm-modi-uae-visit-pm-modi-arrives-on-a-visit-to-the-united-arab-emirates-will-meet-president-al-na_74b493b96daf51779d7dd99e7e0d7762.jpeg?w=750&dpr=1.0",
+      "summary": "भारत ने संयुक्त अरब अमीरात के साथ एक मुक्त व्यापार समझौते पर हस्ताक्षर किए हैं। यह समझौता ऐसे समय में हुआ है जब वैश्विक आपूर्ति श्रृंखलाएं बाधित हैं। विशेषज्ञ इस समझौते को भारत के लिए दूरगामी प्रभाव वाला मानते हैं। होर्मुज पर भारत का रुख क्या?: मुश्किल वैश्विक हालात में UAE के साथ समझौते, विशेषज्ञ बोले- होंगे दूरगामी प्रभाव।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज पर भारत का रुख क्या?: मुश्किल वैश्विक हालात में UAE के साथ समझौते, विशेषज्ञ बोले- होंगे",
+          "summary": "भारत ने संयुक्त अरब अमीरात के साथ एक मुक्त व्यापार समझौते पर हस्ताक्षर किए हैं। यह समझौता ऐसे समय में हुआ है जब वैश्विक आपूर्ति श्रृंखलाएं बाधित हैं। विशेषज्ञ इस समझौते को भारत के लिए दूरगामी प्रभाव वाला मानते हैं। होर्मुज पर भारत का रुख क्या?: मुश्किल वैश्विक हालात में UAE के साथ समझौते, विशेषज्ञ बोले- होंगे दूरगामी प्रभाव।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्रूज जहाज के छह यात्री ऑस्ट्रेलिया में तीन सप्ताह के लिए क्वारंटीन, अब तक कितनी मौतें?",
+      "url": "https://www.amarujala.com/world/hantavirus-outbreak-cruise-ship-passengers-quarantine-in-australia-how-many-deaths-so-far-who-advisory-news-2026-05-16",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-15T22:55:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/hantavirus_b60830056124c20d84b72591b1aa86d6.jpeg?w=750&dpr=1.0",
+      "summary": "ऑस्ट्रेलिया में तीन हफ़्तों के लिए क्वारंटीन किए गए क्रूज जहाज के छह यात्रियों में हंतावायरस के लक्षण पाए गए हैं। यह वायरस चूहों से फैलता है और गंभीर श्वसन बीमारी का कारण बन सकता है। अब तक किसी भी यात्री की मौत की खबर नहीं है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्रूज जहाज के छह यात्री ऑस्ट्रेलिया में तीन सप्ताह के लिए क्वारंटीन, अब तक कितनी मौतें?",
+          "summary": "ऑस्ट्रेलिया में तीन हफ़्तों के लिए क्वारंटीन किए गए क्रूज जहाज के छह यात्रियों में हंतावायरस के लक्षण पाए गए हैं। यह वायरस चूहों से फैलता है और गंभीर श्वसन बीमारी का कारण बन सकता है। अब तक किसी भी यात्री की मौत की खबर नहीं है।",
           "region": "एशिया-प्रशांत"
         }
       }
