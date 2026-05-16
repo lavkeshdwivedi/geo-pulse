@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-16T17:57:33.041289+00:00",
+  "generated_at": "2026-05-16T19:10:00.932425+00:00",
   "article_count": 42,
   "total_unique_count": 376,
   "digest": {
     "en": "Middle East & Africa leads the board this hour with \"Felt Like Being In India\": PM Modi praises Indians In Netherlands. Europe & Russia carries the next thread. 17 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर वैश्विक / बहुपक्षीय की अगुवाई है, अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, एनटीए से जुड़े सरकारी अधिकारी तक पहुंची सीबीआई जांच की आंच, लाखों रुपये में बंटे थे सवाल मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -191,20 +191,7 @@
       "title": "UN welcomes $1.8 billion US boost for humanitarian operations",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167513",
       "source": "UN News",
-      "sources": [
-        {
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167513",
-          "source": "UN News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnalBlZ0tPU1JPTG5hd1hVanB0WGt2MTR3WEEzeV9qeWtwT1lRT0FBUFBnYnUtelE4MDRKdUdGcEh5SDU4UjZhWlEtX25LV3p5LWZWTEljQQ?oc=5",
-          "source": "Google News (United Nations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnalBlZ0tPU1JPTG5hd1hVanB0WGt2MTR3WEEzeV9qeWtwT1lRT0FBUFBnYnUtelE4MDRKdUdGcEh5SDU4UjZhWlEtX25LV3p5LWZWTEljQQ?oc=5",
-          "source": "Google News (United Nations)"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-14T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UN-Photo-Fletcher-Waltz.jpg/image770x420cropped.jpg",
       "summary": "The United States announced $1.8 billion in new humanitarian funding. This boost will support United Nations and partner aid operations globally. The funding arrives as rising needs and shortfalls force agencies to reduce assistance. An additional $1.8 billion in US humanitarian funding will allow the United Nations and its partners to expand emergency relief operations reaching millions of people worldwide, as rising global needs and funding shortfalls force aid agencies to scale back assistance.",
@@ -223,6 +210,42 @@
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "एनटीए से जुड़े सरकारी अधिकारी तक पहुंची सीबीआई जांच की आंच, लाखों रुपये में बंटे थे सवाल",
+      "url": "https://www.amarujala.com/india-news/neet-ug-leak-cbi-probing-role-of-nta-linked-public-servant-2026-05-17",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-17T06:58:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/13/cbi_bedc7fdc00ec3a5d18ad2a2fa68f32be.jpeg?w=750&dpr=1.0",
+      "summary": "सीबीआई जांच नीट-यूजी पेपर लीक मामले में राष्ट्रीय परीक्षण एजेंसी से नीट-यूजी पेपर लीक: एनटीए से जुड़े सरकारी अधिकारी तक पहुंची सीबीआई जांच की आंच, लाखों रुपये में बंटे थे सवाल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एनटीए से जुड़े सरकारी अधिकारी तक पहुंची सीबीआई जांच की आंच, लाखों रुपये में बंटे थे सवाल",
+          "summary": "सीबीआई जांच नीट-यूजी पेपर लीक मामले में राष्ट्रीय परीक्षण एजेंसी से नीट-यूजी पेपर लीक: एनटीए से जुड़े सरकारी अधिकारी तक पहुंची सीबीआई जांच की आंच, लाखों रुपये में बंटे थे सवाल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'गोलमाल 5' को लेकर तुषार कपूर ने दी बड़ी अपडेट, शेयर की सेल्फी; आफताब ने किया कमेंट",
+      "url": "https://www.amarujala.com/entertainment/bollywood/tusshar-kapoor-wraps-golmaal-5-shoot-schedule-says-picture-abhi-baaki-hai-2026-05-17",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-17T06:49:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/apana-tama-ka-satha-aafatab_c4e35c21a72328bebf7e97bb1f464e53.jpeg?w=750&dpr=1.0",
+      "summary": "एक्टर तुषार कपूर ने अपनी आगामी फिल्म 'गोलमाल 5' के बारे में एक अपडेट साझा की है। उन्होंने सोशल मीडिया पर एक सेल्फी पोस्ट की, जिस पर एक्टर आफताब शिवदासानी ने टिप्पणी की। यह फिल्म रोहित शेट्टी द्वारा निर्देशित है और इसमें कई जाने-माने कलाकार नजर आएंगे।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'गोलमाल 5' को लेकर तुषार कपूर ने दी बड़ी अपडेट, शेयर की सेल्फी; आफताब ने किया कमेंट",
+          "summary": "एक्टर तुषार कपूर ने अपनी आगामी फिल्म 'गोलमाल 5' के बारे में एक अपडेट साझा की है। उन्होंने सोशल मीडिया पर एक सेल्फी पोस्ट की, जिस पर एक्टर आफताब शिवदासानी ने टिप्पणी की। यह फिल्म रोहित शेट्टी द्वारा निर्देशित है और इसमें कई जाने-माने कलाकार नजर आएंगे।",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार",
@@ -405,24 +428,6 @@
       }
     },
     {
-      "title": "कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTi1jTThFNnVhMUp6ZzZ2NjVZNmNEMEF3WVBwUEwwOG9UMFA4NEtjQ3B5b1c5QlExMnNSdzdOcEI2eHh2QnZqYVY4Rm1HZHN2NHpCYnVIWkcwaGlhRDNhV1hIYTRmOXdSV0hoWHBNaWFCUzltdUw3RnpPWnFhM0pkb2lOMU16Vy1mZUZ2eWt5LVUzUVlNcXpVMWNLTmJfb2NaVTZhdHJGTkhiT3hzR0duX2RlUE5LbjVRVlVlNl9qWGV5Qi1tdXp2S3VUMWFDWDJYcWowa3lVOHRJUURq0gHiAUFVX3lxTFBmeDNoams3UFVrSW93eFVuNzBNUGl2R1JodVh6b19ZNU5SVXFtNEM2a2RsUWhCNHdmQzZROHIxbS15ODJwQm9DSXRSOXBWY3VnRG1FTkoyOVd4M3daWHhQRFBJRl8tM0I0UXhEYllBZ1dhcG1oRVY3S0szbFhxWVh5d2NLTm5sME94SmM4ZVVodThvVGw1SjNocTNob05lUUpsN1Vqb1d2Y1JBVUVvSWZIYjFfcmtmZDZzWHFPTnJPakNsUzM5LVVzTDVrTG5FMUJfUjZHWkRCRlMzdExpWHB2NVE?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-16T12:18:24+00:00",
-      "image_url": "https://images.pexels.com/photos/6085721/pexels-photo-6085721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ब्रह्मा चेलानी ने लिखा कि कूटनीति और व्यापार को मिलाने की ट्रम्प की शैली अनुचित है. यह कूटनीतिक संबंधों को नुकसान पहुंचा सकती है. ब्रह्मा चेलानी का कॉलम: कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है Dainik Bhaskar।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है",
-          "summary": "ब्रह्मा चेलानी ने लिखा कि कूटनीति और व्यापार को मिलाने की ट्रम्प की शैली अनुचित है. यह कूटनीतिक संबंधों को नुकसान पहुंचा सकती है. ब्रह्मा चेलानी का कॉलम: कूटनीति से कारोबार के मेल की ट्रम्प-शैली अनुचित है Dainik Bhaskar।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
       "title": "शी जिनपिंग से मुलाक़ात के बाद ट्रंप ने अमेरिका के दोस्त ताइवान को किस बात के लिए चेताया?",
       "url": "https://www.bbc.com/hindi/articles/c7v9148plr9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -585,6 +590,24 @@
       }
     },
     {
+      "title": "पॉश कमेटी मेंबर पर लगा अपराध में साथ देने का आरोप, कोर्ट ने खारिज की जमानत याचिका",
+      "url": "https://www.amarujala.com/india-news/tcs-harassment-case-posh-committee-member-accused-of-abetting-the-crime-court-rejects-bail-plea-2026-05-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-16T06:24:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/05/tasaesa_66df38717b90ac7a3bcbeda5b0c73b90.jpeg?w=750&dpr=1.0",
+      "summary": "टी. सी. एस. यौन उत्पीड़न मामले में, पॉश समिति की सदस्य पर अपराध में सहायता करने का आरोप लगा है। दिल्ली की एक अदालत ने आरोपी की जमानत याचिका खारिज कर दी है। अदालत ने कहा कि प्रथम दृष्टया आरोप गंभीर हैं और जांच जारी है। टीसीएस यौन उत्पीड़न मामला: पॉश कमेटी मेंबर पर लगा अपराध में साथ देने का आरोप, कोर्ट ने खारिज की जमानत याचिका।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पॉश कमेटी मेंबर पर लगा अपराध में साथ देने का आरोप, कोर्ट ने खारिज की जमानत याचिका",
+          "summary": "टी. सी. एस. यौन उत्पीड़न मामले में, पॉश समिति की सदस्य पर अपराध में सहायता करने का आरोप लगा है। दिल्ली की एक अदालत ने आरोपी की जमानत याचिका खारिज कर दी है। अदालत ने कहा कि प्रथम दृष्टया आरोप गंभीर हैं और जांच जारी है। टीसीएस यौन उत्पीड़न मामला: पॉश कमेटी मेंबर पर लगा अपराध में साथ देने का आरोप, कोर्ट ने खारिज की जमानत याचिका।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "डोनाल्ड ट्रंप की हत्या पर ₹558 करोड़ का इनाम, ईरानी संसद में पेश किया जाएगा प्रस्ताव",
       "url": "https://www.amarujala.com/world/us-iran-conflict-50mn-bounty-for-trump-s-assassination-proposal-to-be-presented-in-iranian-parliament-2026-05-16",
       "source": "Amar Ujala World",
@@ -603,74 +626,38 @@
       }
     },
     {
-      "title": "वीकएंड पर फिर चमकी 'कृष्णावतारम', जानें 'राजा शिवाजी' ने 16वें दिन कितना किया कलेक्शन",
-      "url": "https://www.amarujala.com/entertainment/krishnavataram-part-1-and-raja-shivaji-box-office-collection-on-saturday-2026-05-16",
+      "title": "कोलकाता ने प्लेऑफ के लिए बढ़ाए मजबूत कदम, टूटा गुजरात की जीत का सिलसिला; अंक तालिका में हुआ बदलाव",
+      "url": "https://www.amarujala.com/cricket/cricket-news/ipl-2026-kkr-vs-gt-result-kolkata-knight-riders-vs-gujarat-titans-key-highlights-analysis-points-table-update-2026-05-16",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-16T05:56:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/bkasa-oifasa-kalkashana_69613f76fc9604f89ab4777e7814d795.jpeg?w=750&dpr=1.0",
-      "summary": "फिल्म 'राजा शिवाजी' ने अपने 16वें दिन बॉक्स ऑफिस पर अच्छी कमाई की. यह फिल्म वीकेंड पर दर्शकों को आकर्षित करने में सफल रही. सिनेमाघरों में हाल ही में कई फिल्में रिलीज हुई हैं। हालांकि नई फिल्मों के बीच कुछ पुरानी फिल्में भी दर्शकों को सिनेमाघरों तक लाने में कामयाब हैं।",
+      "published_at": "2026-05-16T06:15:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/kalkata-na-gajarata-ka-haraya_d7047e74eb38ff22e0a05ad4161b4332.jpeg?w=750&dpr=1.0",
+      "summary": "कोलकाता नाइट राइडर्स ने गुजरात टाइटन्स को 29 रनों से हराकर इंडियन प्रीमियर लीग के प्लेऑफ में अपनी जगह पक्की कर ली है। यह जीत गुजरात की लगातार जीत की लय को तोड़ती है। इस हार के साथ गुजरात टाइटन्स अंक तालिका में दूसरे स्थान पर खिसक गई है, जबकि कोलकाता शीर्ष पर बना हुआ है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वीकएंड पर फिर चमकी 'कृष्णावतारम', जानें 'राजा शिवाजी' ने 16वें दिन कितना किया कलेक्शन",
-          "summary": "फिल्म 'राजा शिवाजी' ने अपने 16वें दिन बॉक्स ऑफिस पर अच्छी कमाई की. यह फिल्म वीकेंड पर दर्शकों को आकर्षित करने में सफल रही. सिनेमाघरों में हाल ही में कई फिल्में रिलीज हुई हैं। हालांकि नई फिल्मों के बीच कुछ पुरानी फिल्में भी दर्शकों को सिनेमाघरों तक लाने में कामयाब हैं।",
+          "title": "कोलकाता ने प्लेऑफ के लिए बढ़ाए मजबूत कदम, टूटा गुजरात की जीत का सिलसिला; अंक तालिका में हुआ बदलाव",
+          "summary": "कोलकाता नाइट राइडर्स ने गुजरात टाइटन्स को 29 रनों से हराकर इंडियन प्रीमियर लीग के प्लेऑफ में अपनी जगह पक्की कर ली है। यह जीत गुजरात की लगातार जीत की लय को तोड़ती है। इस हार के साथ गुजरात टाइटन्स अंक तालिका में दूसरे स्थान पर खिसक गई है, जबकि कोलकाता शीर्ष पर बना हुआ है।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "'आज का भारत इनोवेशन पॉवर है', नीदरलैंड में प्रवासी भारतीयों से PM मोदी का संवाद",
+      "title": "नीदरलैंड में समकक्ष रॉब से मिले PM मोदी, प्रवासियों से बोले- अब भारत इनोवेशन पावर",
       "url": "https://www.amarujala.com/live/world/pm-modi-europe-visit-live-updates-arrival-in-netherlands-meeting-king-willem-and-queen-bilateral-talks-news-2026-05-16",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-16T05:55:17+00:00",
+      "published_at": "2026-05-16T06:09:44+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/pm-modi-netherlands-visit-live-updates-five-nation-europe-tour-key-diplomatic-meeting-king-willem-q_d8fe20210a58525b2c7c4bad2e7b4f0c.gif?w=750&dpr=1.0",
       "summary": "नीदरलैंड में प्रवासी भारतीयों से संवाद करते हुए प्रधानमंत्री मोदी ने कहा कि भारत आज नवाचार की शक्ति है। उन्होंने राजा विलियम और रानी से द्विपक्षीय वार्ता की। यह यात्रा यूरोपीय देशों के साथ भारत के संबंधों को मजबूत करने के उद्देश्य से की गई।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'आज का भारत इनोवेशन पॉवर है', नीदरलैंड में प्रवासी भारतीयों से PM मोदी का संवाद",
+          "title": "नीदरलैंड में समकक्ष रॉब से मिले PM मोदी, प्रवासियों से बोले- अब भारत इनोवेशन पावर",
           "summary": "नीदरलैंड में प्रवासी भारतीयों से संवाद करते हुए प्रधानमंत्री मोदी ने कहा कि भारत आज नवाचार की शक्ति है। उन्होंने राजा विलियम और रानी से द्विपक्षीय वार्ता की। यह यात्रा यूरोपीय देशों के साथ भारत के संबंधों को मजबूत करने के उद्देश्य से की गई।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "आखिर ट्रंप ने जिनपिंग की क्यों की तारीफ? Boeing की डील को लेकर क्या बताया?",
-      "url": "https://www.amarujala.com/video/world/donald-trump-why-did-trump-praise-xi-jinping-what-did-he-say-about-the-boeing-deal-2026-05-16",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-16T05:50:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/16/trump-xi-summit_512e1cc8ff43b8a063de5da55bd376be.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीनी राष्ट्रपति शी जिनपिंग की तारीफ की और उन्हें एक 'महान नेता' और 'दोस्त' बताया। उन्होंने बोइंग की डील को लेकर भी बात की। यह बयान चीन के बीजिंग में आयोजित यूएस-चाइना समिट के समापन पर दिया गया। चीन के बीजिंग में आयोजित हाई-स्टेक्स समिट (US-China Summit 2026) के समापन पर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीनी राष्ट्रपति शी जिनपिंग को एक 'महान नेता' और 'दोस्त' बताते हुए उनकी जमकर तारीफ की है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आखिर ट्रंप ने जिनपिंग की क्यों की तारीफ? Boeing की डील को लेकर क्या बताया?",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीनी राष्ट्रपति शी जिनपिंग की तारीफ की और उन्हें एक 'महान नेता' और 'दोस्त' बताया। उन्होंने बोइंग की डील को लेकर भी बात की। यह बयान चीन के बीजिंग में आयोजित यूएस-चाइना समिट के समापन पर दिया गया। चीन के बीजिंग में आयोजित हाई-स्टेक्स समिट (US-China Summit 2026) के समापन पर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीनी राष्ट्रपति शी जिनपिंग को एक 'महान नेता' और 'दोस्त' बताते हुए उनकी जमकर तारीफ की है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'गांधीनगर में पौधरोपण से तापमान में आई गिरावट': अमित शाह बोले- पिछले तीन वर्षों में लगाए गए 1.5",
-      "url": "https://www.amarujala.com/world/amit-shah-gandhinagar-tree-plantation-drive-gujarat-temperature-drop-green-lok-sabha-sankalp-2026-05-16",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-16T05:46:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/30/amit-shah_7709beeb94e086465f3b0e8950073a5a.jpeg?w=750&dpr=1.0",
-      "summary": "केंद्रीय गृहमंत्री अमित शाह ने गांधीनगर में पौधरोपण अभियान की सराहना की। उन्होंने कहा कि पिछले तीन वर्षों में लगाए गए 1.5 करोड़ से अधिक पौधों से तापमान में गिरावट आई है। उन्होंने नशीले पदार्थों की तस्करी रोकने के प्रयासों की भी तारीफ की। जिहादी ड्रग्स की पहली बड़ी खेप बरामद: एक सीरियाई नागरिक गिरफ्तार, गृहमंत्री अमित शाह ने की एनसीबी की तारीफ।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'गांधीनगर में पौधरोपण से तापमान में आई गिरावट': अमित शाह बोले- पिछले तीन वर्षों में लगाए गए 1.5",
-          "summary": "केंद्रीय गृहमंत्री अमित शाह ने गांधीनगर में पौधरोपण अभियान की सराहना की। उन्होंने कहा कि पिछले तीन वर्षों में लगाए गए 1.5 करोड़ से अधिक पौधों से तापमान में गिरावट आई है। उन्होंने नशीले पदार्थों की तस्करी रोकने के प्रयासों की भी तारीफ की। जिहादी ड्रग्स की पहली बड़ी खेप बरामद: एक सीरियाई नागरिक गिरफ्तार, गृहमंत्री अमित शाह ने की एनसीबी की तारीफ।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
