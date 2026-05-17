@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-05-17T09:07:51.180575+00:00",
-  "article_count": 42,
-  "total_unique_count": 370,
+  "generated_at": "2026-05-17T13:24:02.643151+00:00",
+  "article_count": 43,
+  "total_unique_count": 372,
   "digest": {
-    "en": "North Korea's arrival in Seoul leads the news cycle. India's concerns over the Strait of Hormuz and Venezuela's new era follow closely. Extreme weather events in Siberia and Furnace Creek also register.",
-    "hi": "यूरोप में पुतिन की चीन यात्रा पर चर्चा हावी है। वहीं, होर्मुज जलडमरूमध्य में जहाजों पर हमलों को लेकर भारत संयुक्त राष्ट्र में आवाज उठा रहा है।"
+    "en": "Trump's US voter eligibility program and China human rights stance dominate. North Korean footballers in Seoul signal a thaw. Mali's forces target rebels while Sudan faces a deepening hunger crisis.",
+    "hi": "पाकिस्तान की परमाणु शक्ति की बात जनरल द्विवेदी की चेतावनी के बाद आई। होर्मुज में जहाजों पर हमले की भारत ने संयुक्त राष्ट्र में निंदा की। अंतरराष्ट्रीय परिवार दिवस मानवीय संबंधों पर केंद्रित रहा।"
   },
   "articles": [
+    {
+      "title": "Trump administration promotes program to check voter eligibility; critics fear a midterm purge",
+      "url": "https://www.thehindu.com/news/international/trump-administration-promote-program-to-check-voter-eligibility-critics-fear-a-midterm-purge/article70990206.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-17T12:50:04+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/imlith/article70990266.ece/alternates/LANDSCAPE_1200/Trump_41361.jpg",
+      "summary": "The Trump administration promotes a national program to scan state voter rolls. The scanning of state voter rolls at the national level is part of a broader effort by Republican President Donald Trump to federalise certain election functions and promote his messaging that elections are marred by noncitizen voting, even though instances of that are rare.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Anwar says ready to call GE and ‘fight’ BN after it signals intent to go solo in Johor",
+      "url": "https://www.channelnewsasia.com/asia/anwar-ph-general-election-johor-bn-6126706",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-17T12:34:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--S7Xu432k--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/17/dsc_6825-12.jpg?itok=eEB7Mau3",
+      "summary": "Prime Minister Anwar Ibrahim stated he is prepared to call a general election and contest against Barisan Nasional. This comes after Barisan Nasional signaled its intent to contest the Johor state polls independently. Anwar described this move as a potential betrayal of their unity government partnership.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "North Korean footballers arrive in Seoul for first time in eight years",
       "url": "https://www.theguardian.com/world/2026/may/17/afc-women-champions-league-north-korea-south-korea-naegohyang-fc-suwon",
@@ -16,18 +40,6 @@
       "image_url": "https://i.guim.co.uk/img/media/6f769ac63c0a6ee3860ce41c5ee9a6141d0dad8c/724_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dda6c16dace4e11c35ae8c4552f9f495",
       "summary": "North Korean women's football club Naegohyang FC arrived Naegohyang FC due to play Suwon FC in semi-final of Asian Women’s Champions League on WednesdayA North Korean women’s football club has arrived in South Korea for an AFC Women’s Champions League semi-final, marking the first visit by athletes from the isolated state to the South in eight years. The delegation of 27 players and 12 staff entered the country on Sunday before Wednesday’s match between.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "At UN, India flags concerns over targeting of vessels in Strait of Hormuz",
-      "url": "https://www.thehindu.com/news/national/at-un-india-flags-concerns-over-targeting-of-vessels-in-strait-of-hormuz/article70989596.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-17T05:21:09+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/5db7ns/article70989611.ece/alternates/LANDSCAPE_1200/20260516385L_8vCEvJD.jpg",
-      "summary": "India raised concerns at the United Nations Economic and Social Council about the Mr. Harish's remarks at a special meeting of the United Nations Economic and Social Council (UNECOSOC) on safeguarding energy and supply flows came days after an India-flagged commercial vessel came under attack off the coast of Oman.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -107,7 +119,20 @@
       "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167528",
       "source": "UN News",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167528",
+          "source": "UN News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50U045Q0tlUHdJMU54VWlBWTNkR0pBVmotQlFyVzhyZlRzOGdrS1lIRDU2bk92allGZHVGdG4yNjcyamlhaHRJb1dTd0xVcnNzdXNNVnZGYw?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50U045Q0tlUHdJMU54VWlBWTNkR0pBVmotQlFyVzhyZlRzOGdrS1lIRDU2bk92allGZHVGdG4yNjcyamlhaHRJb1dTd0xVcnNzdXNNVnZGYw?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
       "published_at": "2026-05-15T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-05-2024-UNICEF-Sudan-UNI518587.jpeg/image770x420cropped.jpg",
       "summary": "The United Nations warned that nearly 20 million people in Sudan face acute hunger. Over 800,000 children risk severe malnutrition this year. Civil war, displacement, and collapsing systems are deepening the humanitarian crisis. Parts of the country are nearing famine conditions.",
@@ -225,6 +250,114 @@
       "translations": {}
     },
     {
+      "title": "जनरल द्विवेदी की 'भूगोल-इतिहास' वाली चेतावनी पर पाकिस्तान ने परमाणु ताक़त की कही बात",
+      "url": "https://www.bbc.com/hindi/articles/c62x07dr704o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-17T12:25:32+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/0617/live/71156cf0-51eb-11f1-8b8c-6d33e1d5abb6.jpg",
+      "summary": "भारतीय सेना प्रमुख जनरल उपेंद्र द्विवेदी के बयान के जवाब में, पाकिस्तान ने परमाणु हथियारों का उल्लेख किया। जनरल द्विवेदी ने कहा था कि भारत किसी भी स्थिति में पाक अधिकृत कश्मीर को वापस लेने के लिए तैयार है। भारतीय सेना प्रमुख जनरल उपेंद्र द्विवेदी ने शनिवार को पाकिस्तान को लेकर एक बयान दिया था जिस पर अब पाकिस्तानी सेना ने प्रतिक्रिया दी है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जनरल द्विवेदी की 'भूगोल-इतिहास' वाली चेतावनी पर पाकिस्तान ने परमाणु ताक़त की कही बात",
+          "summary": "भारतीय सेना प्रमुख जनरल उपेंद्र द्विवेदी के बयान के जवाब में, पाकिस्तान ने परमाणु हथियारों का उल्लेख किया। जनरल द्विवेदी ने कहा था कि भारत किसी भी स्थिति में पाक अधिकृत कश्मीर को वापस लेने के लिए तैयार है। भारतीय सेना प्रमुख जनरल उपेंद्र द्विवेदी ने शनिवार को पाकिस्तान को लेकर एक बयान दिया था जिस पर अब पाकिस्तानी सेना ने प्रतिक्रिया दी है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmxVQVQ3cV9tR25aeEVXWWM1U0NiSFI3TUJ1TEU5VFVzN0x3NlJxZ01NUEptYlVqQmJJWUx5cmZlNDduUVZCZTRQVnRIWXFxRzVvWGJDYXJ2YTVRRlFsYk11MF9aazl2WVNUSXM3RTQ2cGRlRWQ4WWFlSmlaMThSVlFVdWNLOG1fRjNkUktCdHlkV0VkZ2FRR2huLXFfUXg1YmpjRTlrcWh2dGJMa1dXOGR3WnBfZTFwOWVZ?oc=5",
+      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "sources": [],
+      "published_at": "2026-05-17T12:25:19+00:00",
+      "image_url": "https://images.pexels.com/photos/34653644/pexels-photo-34653644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अंतरराष्ट्रीय परिवार दिवस पर, डीडी न्यूज़ ने मानवीय संबंधों और सामाजिक एकता में परिवारों की भूमिका पर प्रकाश डाला। यह दिन परिवारों के महत्व को रेखांकित करता है। अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार DD News।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार",
+          "summary": "अंतरराष्ट्रीय परिवार दिवस पर, डीडी न्यूज़ ने मानवीय संबंधों और सामाजिक एकता में परिवारों की भूमिका पर प्रकाश डाला। यह दिन परिवारों के महत्व को रेखांकित करता है। अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार DD News।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "विजय से क्या जलते हैं रजनीकांत? हर सवाल का प्रेस कॉन्फ़्रेंस में ख़ुद दिया जवाब",
+      "url": "https://www.bbc.com/hindi/articles/cd7pr2xw4nwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-17T12:04:32+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/d7fa/live/73703590-51da-11f1-8d79-4731acfb89e0.jpg",
+      "summary": "अभिनेता रजनीकांत ने एक प्रेस कॉन्फ्रेंस में चुनाव परिणामों पर अपनी प्रतिक्रिया दी। उन्होंने कहा कि विजय के साथ उनके रिश्ते को लेकर चल रही अफवाहों का खंडन करना आवश्यक है। तमिल सिनेमा के सुपरस्टार रजनीकांत ने एक प्रेस कॉन्फ़्रेंस कर कहा है कि इस चुनाव में विजय और उनके रिश्ते को लेकर कई तरह की बातें हो रही हैं, अगर वो इनका खंडन नहीं करेंगे तो ये बातें सच मानी जाएंगी.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विजय से क्या जलते हैं रजनीकांत? हर सवाल का प्रेस कॉन्फ़्रेंस में ख़ुद दिया जवाब",
+          "summary": "अभिनेता रजनीकांत ने एक प्रेस कॉन्फ्रेंस में चुनाव परिणामों पर अपनी प्रतिक्रिया दी। उन्होंने कहा कि विजय के साथ उनके रिश्ते को लेकर चल रही अफवाहों का खंडन करना आवश्यक है। तमिल सिनेमा के सुपरस्टार रजनीकांत ने एक प्रेस कॉन्फ़्रेंस कर कहा है कि इस चुनाव में विजय और उनके रिश्ते को लेकर कई तरह की बातें हो रही हैं, अगर वो इनका खंडन नहीं करेंगे तो ये बातें सच मानी जाएंगी.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'अस्वीकार्य', भारत ने UN में होर्मुज में जहाजों पर हुए हमलों की निंदा की",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOG8zb3p4M0xENXh3YUNSYjU2WEIyUVdIMlU4UzczMTVjeTd1ZnZNNnFuT0pUR25feGZ3d0IzVVV1b09Vdl9EQ21tUFVWQW5yOGJLUU9nWDhfeDljLVFtVjR5cVB1Mjg3Q1ZTTzRIbm4xbHVrWWRnY2YzUXhJbFhERnVKc3QzcVBRSzZrb0Q3QkVaS0dKYkJTX3VKS3VYTlk1OWNndWlqYWg3VUVILUdDSQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-17T09:30:00+00:00",
+      "image_url": "https://images.pexels.com/photos/15405989/pexels-photo-15405989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत ने संयुक्त राष्ट्र में होर्मुज जलडमरूमध्य में जहाजों पर हुए हमलों की निंदा की। भारत ने इन हमलों को अस्वीकार्य बताया। 'अस्वीकार्य', भारत ने UN में होर्मुज में जहाजों पर हुए हमलों की निंदा की Jagran।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'अस्वीकार्य', भारत ने UN में होर्मुज में जहाजों पर हुए हमलों की निंदा की",
+          "summary": "भारत ने संयुक्त राष्ट्र में होर्मुज जलडमरूमध्य में जहाजों पर हुए हमलों की निंदा की। भारत ने इन हमलों को अस्वीकार्य बताया। 'अस्वीकार्य', भारत ने UN में होर्मुज में जहाजों पर हुए हमलों की निंदा की Jagran।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सेंट जेवियर्स कॉलेज में कूटनीति थीम पर हुआ मॉडल यूनाइटेड नेशंस, महत्वपूर्ण विषयों पर",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNTEJ5cTFfR0ktNkcybllwdDlTQjd6Y0htTHBSNENUZGR6RVM3SDJ1NEU1aDZwUXcxQ3pQMGVUNVFUS0Vma24yTGFXcTdqM2E4VElPSzNzUkhjT0xqamdiNWloaXZONHFiWmVkdFlOV0RydkgzXzVRZWowYm1wWWJrbmpoY3B1djVqcGpieFJpbzN5UF9vci1DbUtBZTNKckoxaEVsRDVxOGxicG1ubThybGFNeVFSQlQ2RjV2WFBVeUxRNDgydVp2Y29BZEEwTGxuemNoOXMyajFkS01YUmVudDJoTllrSVlIZ3ZXQkl1VkJfRmM2YUo4ajQyRkl0Tm0wWjRzSkVLQm9jeGU3S3lnMktybnFFRW1hVGtzNnBta19zcWxX?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-17T09:16:51+00:00",
+      "image_url": "https://images.pexels.com/photos/33772005/pexels-photo-33772005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "सेंट जेवियर्स कॉलेज ने कूटनीति पर एक मॉडल संयुक्त राष्ट्र का आयोजन किया। छात्रों ने महत्वपूर्ण वैश्विक मुद्दों पर विचार-विमर्श किया। सेंट जेवियर्स कॉलेज में कूटनीति थीम पर हुआ मॉडल यूनाइटेड नेशंस, महत्वपूर्ण विषयों पर कियाविचार-विमर्श Dailyhunt।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सेंट जेवियर्स कॉलेज में कूटनीति थीम पर हुआ मॉडल यूनाइटेड नेशंस, महत्वपूर्ण विषयों पर",
+          "summary": "सेंट जेवियर्स कॉलेज ने कूटनीति पर एक मॉडल संयुक्त राष्ट्र का आयोजन किया। छात्रों ने महत्वपूर्ण वैश्विक मुद्दों पर विचार-विमर्श किया। सेंट जेवियर्स कॉलेज में कूटनीति थीम पर हुआ मॉडल यूनाइटेड नेशंस, महत्वपूर्ण विषयों पर कियाविचार-विमर्श Dailyhunt।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "चांदी के आयात को लेकर सरकार का बड़ा फ़ैसला, लेकिन सोने के लिए नहीं कोई शर्त",
+      "url": "https://www.bbc.com/hindi/articles/cpdp24xjd7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-17T09:11:45+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/d2c4/live/51309310-51be-11f1-a61d-97b09d8870ae.jpg",
+      "summary": "भारत सरकार ने चांदी के आयात के लिए विशेष अनुमति की आवश्यकता को अनिवार्य कर दिया है। यह नीतिगत बदलाव सोने के आयात पर लागू नहीं होता है। चांदी की इम्पोर्ट पॉलिसी में बदलाव के बाद अब चांदी आयात करने के लिए ख़ास अनुमति लेनी होगी.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चांदी के आयात को लेकर सरकार का बड़ा फ़ैसला, लेकिन सोने के लिए नहीं कोई शर्त",
+          "summary": "भारत सरकार ने चांदी के आयात के लिए विशेष अनुमति की आवश्यकता को अनिवार्य कर दिया है। यह नीतिगत बदलाव सोने के आयात पर लागू नहीं होता है। चांदी की इम्पोर्ट पॉलिसी में बदलाव के बाद अब चांदी आयात करने के लिए ख़ास अनुमति लेनी होगी.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "भारत के प्रधानमंत्री की नीदरलैंड यात्रा पर भारत-नीदरलैंड संयुक्त वक्तव्य",
       "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNaHFoT2tDc0o0dXRMSm5MNmdwRzhNSzBMRlI2aVJBaWhVMXV2YmVnamNNNVA2UkpTNlR2VlUwczFaVjBodzdNZ3Z3UmxNYUotNElldnFzRWMxY2llWk1ZelZDYnhBVkpYUWFqSzlxOTVmVG5SYnZQU2RMaEMyRmxjYkNuYTBrYzl3M2RmN0ZuTjU3bkhoSTRxMUNFRFFZU2Q2Ny1QdDNFdm42aXNqUDF6VU0xZXB0Ymt4QVN6aEx3MmNMQXp0ZWh0SXhhSW1DTzZKdjluZGFKRG5Hc0JLbTQ2MjRXQXVrSnVfS3hjYUE3UUxSbVhsNy11U1IxUmhOU3lIZTdQM3ZkVEwxeFNkOVZFQTBsTTM3V3MxdFVTa016WmFmeHd2cEtUU0Q3N01lX3dDODBiV29BcFdNYldFQmRpVFBmWU9IUXlxem5kSGtjc0kwNmROLXM4NC1iVDkxazljN2JUTjZYN3llcE85ZWdiTQ?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -261,24 +394,6 @@
       }
     },
     {
-      "title": "जहाज पर अटैक होते ही भारत ने तरेरी आंखें, UN में दहाड़ा- समंदर में दादागिरी नहीं चलेगी",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSEN5cTlzTk9Dejl5aEJDUG5vTTRhZGViZlM1a0ZWZW5Va1BySGFSQnNUWkNOYm1rSmVMS3duR1BZeEhFSU93TjM3ODRBMlB5N0hFMkN3Y0xqVHllWjBNX3VZLV9JYkZaTU9OaXdBZzNiUXlMR2pXOE8tc0ZYdGxOdkYwQ3JpeTFpR0tQelphaHRZUWlGR3Ezd3Z2YnppQ3E5ZHJDV0VUNVY0YTBEWEFDS0lEYVI4cHljUFN1T1pBS2NyeXQ3cHExWnhNR1Z6dHBob2JuM2NGY9IB3AFBVV95cUxNQWlzRzVDblB3dGN4NTJuZUdhRE5PNE5LbWt4SjJldnF4Uy12d2hBVDBDS0l0bFZOdUlONjA1UHJaNGNtLWFTZGFfVE93U0hEVVk4WUFibW5OaHRZeS1Tb05oTVlxa0RMaE1YYTF2bU9tMEpqVjB2enBNS053N2lzV1NzSkQ1OEtUY3V4aHpCRnhyQTdNajQzLXRPT0k0dzQ4SVdGdTZZRURUT1FQM1FsMHRIdGRkWjUtSDJMclNKYi1QX1ZaZGhoV0dVbmpKdjRNcjRhWUYyMW4yM05C?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-17T07:40:50+00:00",
-      "image_url": "https://images.pexels.com/photos/32429516/pexels-photo-32429516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत ने संयुक्त राष्ट्र में समुद्री सुरक्षा पर अपनी चिंता व्यक्त की। India Ship: जहाज पर अटैक होते ही भारत ने तरेरी आंखें, UN में दहाड़ा- समंदर में दादागिरी नहीं चलेगी News18 Hindi।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जहाज पर अटैक होते ही भारत ने तरेरी आंखें, UN में दहाड़ा- समंदर में दादागिरी नहीं चलेगी",
-          "summary": "भारत ने संयुक्त राष्ट्र में समुद्री सुरक्षा पर अपनी चिंता व्यक्त की। India Ship: जहाज पर अटैक होते ही भारत ने तरेरी आंखें, UN में दहाड़ा- समंदर में दादागिरी नहीं चलेगी News18 Hindi।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "होर्मुज़ स्ट्रेट से 'एक्सिस ऑफ़ रेज़िस्टेंस' तक, ईरान और अमेरिका के बीच किन 5 मुद्दों पर बात अटकी है",
       "url": "https://www.bbc.com/hindi/articles/cvgzm64jkg3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -293,24 +408,6 @@
           "title": "होर्मुज़ स्ट्रेट से 'एक्सिस ऑफ़ रेज़िस्टेंस' तक, ईरान और अमेरिका के बीच किन 5 मुद्दों पर बात अटकी है",
           "summary": "ईरान और अमेरिका के बीच पांच प्रमुख मुद्दों पर बातचीत रुकी हुई है. यह गतिरोध वैश्विक ऊर्जा सुरक्षा, तेल की कीमतों और मध्य पूर्व की स्थिरता को प्रभावित कर रहा है. होर्मुज़ जलडमरूमध्य से लेकर 'एक्सिस ऑफ़ रेज़िस्टेंस' तक, दोनों देशों के बीच तनाव बना हुआ है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कार से मारी टक्कर, फिर गोलियों से भूना, बाबा के भेष में लाठी ले घूमता था हिस्ट्रीशीटर नीरज",
-      "url": "https://www.amarujala.com/photo-gallery/haryana/sonipat/gangster-neeraj-shot-dead-outside-court-complex-in-sonipat-2026-05-17",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-17T07:28:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/gangster-neeraj_2d018dfcd76012bba40e2eb05cbcab16.jpeg?w=750&dpr=1.0",
-      "summary": "सोनीपत रोड स्थित कोर्ट परिसर के बाहर शनिवार को गैंगस्टर नीरज उर्फ कातिया की अज्ञात हमलावरों ने गोली मारकर हत्या कर दी। हमलावरों ने पहले उसे कार से टक्कर मारी। इसके बाद गोलियों से उसकी हत्या कर दी। नीरज बाबा के भेष में लाठी लेकर घूमता था।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कार से मारी टक्कर, फिर गोलियों से भूना, बाबा के भेष में लाठी ले घूमता था हिस्ट्रीशीटर नीरज",
-          "summary": "सोनीपत रोड स्थित कोर्ट परिसर के बाहर शनिवार को गैंगस्टर नीरज उर्फ कातिया की अज्ञात हमलावरों ने गोली मारकर हत्या कर दी। हमलावरों ने पहले उसे कार से टक्कर मारी। इसके बाद गोलियों से उसकी हत्या कर दी। नीरज बाबा के भेष में लाठी लेकर घूमता था।",
-          "region": "दुनिया"
         }
       }
     },
@@ -351,27 +448,9 @@
       }
     },
     {
-      "title": "'कोच के नीचे से उठा धुआं, फिर भड़की आग'; रेलवे स्टाफ की सूझबूझ से बचीं 68 यात्रियों की जान; टला",
-      "url": "https://www.amarujala.com/india-news/68-passengers-rescued-after-fire-breaks-out-in-rajdhani-express-coach-near-ratlam-madhya-pradesh-2026-05-17",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-17T07:04:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/rajdhani-express-fire_8fbbd145e121fa5f51716c55a499f02f.gif?w=750&dpr=1.0",
-      "summary": "तिरुवनंतपुरम-हज़रत निज़ामुद्दीन राजधानी एक्सप्रेस के एसी कोच में आग लग गई. रेलवे कर्मचारियों की त्वरित कार्रवाई से 68 यात्री सुरक्षित बच गए. आग कोच के निचले हिस्से से शुरू हुई थी. Ratlam: 'कोच के नीचे से उठा धुआं, फिर भड़की आग'; रेलवे स्टाफ की सूझबूझ से बचीं 68 यात्रियों की जान; टला हादसा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'कोच के नीचे से उठा धुआं, फिर भड़की आग'; रेलवे स्टाफ की सूझबूझ से बचीं 68 यात्रियों की जान; टला",
-          "summary": "तिरुवनंतपुरम-हज़रत निज़ामुद्दीन राजधानी एक्सप्रेस के एसी कोच में आग लग गई. रेलवे कर्मचारियों की त्वरित कार्रवाई से 68 यात्री सुरक्षित बच गए. आग कोच के निचले हिस्से से शुरू हुई थी. Ratlam: 'कोच के नीचे से उठा धुआं, फिर भड़की आग'; रेलवे स्टाफ की सूझबूझ से बचीं 68 यात्रियों की जान; टला हादसा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "ट्रंप के दौरे के बाद अब पुतिन जाएंगे चीन, जिनपिंग के साथ रणनीतिक साझेदारी पर होगी बात",
       "url": "https://www.amarujala.com/world/vladimir-putin-china-visit-xi-jinping-russia-china-relations-strategic-partnership-global-diplomacy-hindi-news-2026-05-17",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-17T06:57:25+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/valthamara-patana-oura-sha-janapaga_32a65b9b6d368b3ab8320d072ac6054d.jpeg?w=750&dpr=1.0",
@@ -387,27 +466,9 @@
       }
     },
     {
-      "title": "'रजनी कोई घटिया इंसान नहीं है'; विजय थलापति के मुख्यमंत्री बनने पर ऐसा क्यों बोले थलाइवा? रखी प्रेस",
-      "url": "https://www.amarujala.com/entertainment/rajinikanth-response-on-vijay-becoming-tamil-nadu-cm-clears-that-he-is-not-jealous-speaks-on-kamal-haasan-2026-05-17",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-17T06:24:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/rajanakata-vajaya-thalpata_30b840c636e7342dc8b75548d0a3d8e9.jpeg?w=750&dpr=1.0",
-      "summary": "थलापति विजय के तमिलनाडु के मुख्यमंत्री बनने पर रजनीकांत ने प्रतिक्रिया दी है। विजय की पार्टी टीवीके ने दो प्रमुख गठबंधनों को हराकर बहुमत हासिल किया है। रजनीकांत ने कमल हासन का भी उल्लेख किया। विजय की पार्टी टीवीके ने दो मजबूत गंठबंधनों को हराकर राज्य में बहुमत हासिल किया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'रजनी कोई घटिया इंसान नहीं है'; विजय थलापति के मुख्यमंत्री बनने पर ऐसा क्यों बोले थलाइवा? रखी प्रेस",
-          "summary": "थलापति विजय के तमिलनाडु के मुख्यमंत्री बनने पर रजनीकांत ने प्रतिक्रिया दी है। विजय की पार्टी टीवीके ने दो प्रमुख गठबंधनों को हराकर बहुमत हासिल किया है। रजनीकांत ने कमल हासन का भी उल्लेख किया। विजय की पार्टी टीवीके ने दो मजबूत गंठबंधनों को हराकर राज्य में बहुमत हासिल किया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "कांगो और युगांडा में इबोला वायरस का कहर, WHO ने वैश्विक स्वास्थ्य आपातकाल किया घोषित",
       "url": "https://www.amarujala.com/world/ebola-virus-who-declares-global-health-emergency-over-ebola-outbreaks-in-congo-uganda-2026-05-17",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-17T06:03:16+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/ebola-virus-who-declares-global-health-emergency-over-ebola-outbreaks-in-congo-uganda_1bba639cd3f0530044f8520655ad27ec.jpeg?w=750&dpr=1.0",
@@ -419,42 +480,6 @@
           "title": "कांगो और युगांडा में इबोला वायरस का कहर, WHO ने वैश्विक स्वास्थ्य आपातकाल किया घोषित",
           "summary": "विश्व स्वास्थ्य संगठन ने कांगो और युगांडा में इबोला वायरस के प्रकोप को वैश्विक स्वास्थ्य आपातकाल घोषित किया है। कांगो और युगांडा में इबोला वायरस का कहर, WHO ने वैश्विक स्वास्थ्य आपातकाल किया घोषित।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमर उजाला संवाद का हिस्सा बनेंगे स्वामी चिदानंद सरस्वती, 'सार्थक जीवन' पर करेंगे बात",
-      "url": "https://www.amarujala.com/spirituality/wellness/amar-ujala-samwad-2026-chidanand-saraswati-motivation-and-spiritual-journey-2026-05-17",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-17T05:53:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/amara-ujal-savatha-2026_afb33fabe888e197a64388dd97fd1872.jpeg?w=750&dpr=1.0",
-      "summary": "स्वामी चिदानंद सरस्वती 18 और 19 मई 2026 को लखनऊ में 'अमर उजाला संवाद उत्तर प्रदेश 2026' में भाग लेंगे. वे 'सार्थक जीवन' विषय पर अपने विचार रखेंगे. Amar Ujala Samwad 2026: 18 और 19 मई 2026 को अमर उजाला समूह उत्तर प्रदेश के लखनऊ में 'संवाद उत्तर प्रदेश 2026' का भव्य आयोजन करने जा रहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमर उजाला संवाद का हिस्सा बनेंगे स्वामी चिदानंद सरस्वती, 'सार्थक जीवन' पर करेंगे बात",
-          "summary": "स्वामी चिदानंद सरस्वती 18 और 19 मई 2026 को लखनऊ में 'अमर उजाला संवाद उत्तर प्रदेश 2026' में भाग लेंगे. वे 'सार्थक जीवन' विषय पर अपने विचार रखेंगे. Amar Ujala Samwad 2026: 18 और 19 मई 2026 को अमर उजाला समूह उत्तर प्रदेश के लखनऊ में 'संवाद उत्तर प्रदेश 2026' का भव्य आयोजन करने जा रहा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "विदेश दौरे के तीसरे चरण में आज स्वीडन पहुंचेंगे पीएम मोदी, आठ साल बाद हो रहा दौरा",
-      "url": "https://www.amarujala.com/live/world/pm-modi-sweden-visit-live-pm-modi-will-hold-bilateral-talks-with-pm-ulf-kristersson-headquarters-of-volvo-2026-05-17",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-17T05:28:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/pm-modi-sweden-visit-live-pm-modi-will-hold-bilateral-talks-with-pm-ulf-kristersson-headquarters-o_c603753189bf3c46b02f64a3accc14d4.jpeg?w=750&dpr=1.0",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी आज स्वीडन पहुंचेंगे। यह आठ साल बाद किसी भारतीय प्रधानमंत्री का स्वीडन दौरा है। वह स्वीडिश प्रधानमंत्री उल्फ क्रिस्टर्सन के साथ द्विपक्षीय वार्ता करेंगे। इस दौरान वह वोल्वो के मुख्यालय का भी दौरा करेंगे। विदेश दौरे के तीसरे चरण में आज स्वीडन पहुंचेंगे पीएम मोदी, आठ साल बाद हो रहा दौरा।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विदेश दौरे के तीसरे चरण में आज स्वीडन पहुंचेंगे पीएम मोदी, आठ साल बाद हो रहा दौरा",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी आज स्वीडन पहुंचेंगे। यह आठ साल बाद किसी भारतीय प्रधानमंत्री का स्वीडन दौरा है। वह स्वीडिश प्रधानमंत्री उल्फ क्रिस्टर्सन के साथ द्विपक्षीय वार्ता करेंगे। इस दौरान वह वोल्वो के मुख्यालय का भी दौरा करेंगे। विदेश दौरे के तीसरे चरण में आज स्वीडन पहुंचेंगे पीएम मोदी, आठ साल बाद हो रहा दौरा।",
-          "region": "यूरोप और रूस"
         }
       }
     },
@@ -508,24 +533,6 @@
           "title": "'होर्मुज में जहाजों पर हमले और आवाजाही बाधित करना अस्वीकार्य', संयुक्त राष्ट्र में भारत की खरी-खरी",
           "summary": "भारत ने संयुक्त राष्ट्र में कहा कि होर्मुज जलडमरूमध्य 'होर्मुज में जहाजों पर हमले और आवाजाही बाधित करना अस्वीकार्य', संयुक्त राष्ट्र में भारत की खरी-खरी।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जय श्रीराम और शंखध्वनि से गूंजी भोजशाला: गोमूत्र से शुद्धिकरण और गर्भगृह में अखंड ज्योत, देखें",
-      "url": "https://www.amarujala.com/madhya-pradesh/dhar/bhojshala-worship-celebration-after-asi-guidelines-and-high-court-verdict-in-dhar-2026-05-17",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-17T05:04:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/bhajashal-ma-gaja-jayakara_c0c9ee05284688cfa420598d8699df77.jpeg?w=750&dpr=1.0",
-      "summary": "धार की भोजशाला में मध्य प्रदेश उच्च न्यायालय के फैसले के बाद पहली बार हिंदू समाज ने पूजा-अर्चना की। भारतीय पुरातत्व सर्वेक्षण की नई गाइडलाइन के अनुसार, गोमूत्र से शुद्धिकरण के बाद गर्भगृह में अखंड ज्योत प्रज्वलित की गई। जय श्रीराम के नारे और शंखध्वनि के साथ उत्सव मनाया गया।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जय श्रीराम और शंखध्वनि से गूंजी भोजशाला: गोमूत्र से शुद्धिकरण और गर्भगृह में अखंड ज्योत, देखें",
-          "summary": "धार की भोजशाला में मध्य प्रदेश उच्च न्यायालय के फैसले के बाद पहली बार हिंदू समाज ने पूजा-अर्चना की। भारतीय पुरातत्व सर्वेक्षण की नई गाइडलाइन के अनुसार, गोमूत्र से शुद्धिकरण के बाद गर्भगृह में अखंड ज्योत प्रज्वलित की गई। जय श्रीराम के नारे और शंखध्वनि के साथ उत्सव मनाया गया।",
-          "region": "दुनिया"
         }
       }
     },
@@ -638,6 +645,24 @@
       }
     },
     {
+      "title": "होर्मुज में तनाव पर भारत का बड़ा संदेश, UN में साफ कहा- जहाजों को निशाना बनाना बर्दाश्त नहीं",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWphY2hFOG9Ja3FJY0FscUFQZkx1cDFUUTUxTTk0aFg1elRzX2s2OXB1eWVzS1BaUDJFN0VLMFRwdG5rbVNoaGxvNV9SZWl0SjZMZW9aa0dqeWh4c0piZUhTbXlIc0Z5WGJfa3pOaHpLcHRaODF0ZTlHdy1JZkU4NG1iZ2Y4YzA2djI5Q3Awa0NwYjVONmpONENZQTViSWZ3Z1hlTNIBqgFBVV95cUxPRDltMWFWWkFXZV96YjRVY3hEOFhfdk9YTHZLM3lKZXlxRUJsRko1dHRIUE1vc2NpVVRkOUJaVGJDYVVmdXVKd211SkdRZUt2TUt4M3gwQ1RqOE93R1JJLTZLb00tQVdoZS1ncUo1R0p2Y2p3cGtRY0FlUFY1LWNYZE5iVmJGS21qV0lWSW5BNzBidWVSel9adEE1WVJXM0xxUWo5cHlUejZHZw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-17T02:41:28+00:00",
+      "image_url": "https://images.pexels.com/photos/7278771/pexels-photo-7278771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "भारत ने संयुक्त राष्ट्र में होर्मुज जलडमरूमध्य में जहाजों को निशाना बनाने की निंदा की। नई दिल्ली ने कहा कि इस तरह की कार्रवाइयां अस्वीकार्य हैं। होर्मुज में तनाव पर भारत का बड़ा संदेश, UN में साफ कहा- जहाजों को निशाना बनाना बर्दाश्त नहीं Patrika News।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज में तनाव पर भारत का बड़ा संदेश, UN में साफ कहा- जहाजों को निशाना बनाना बर्दाश्त नहीं",
+          "summary": "भारत ने संयुक्त राष्ट्र में होर्मुज जलडमरूमध्य में जहाजों को निशाना बनाने की निंदा की। नई दिल्ली ने कहा कि इस तरह की कार्रवाइयां अस्वीकार्य हैं। होर्मुज में तनाव पर भारत का बड़ा संदेश, UN में साफ कहा- जहाजों को निशाना बनाना बर्दाश्त नहीं Patrika News।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "US-EU से लेकर ईरान-तुर्किये में कैसा माहौल, संदेश में प्रधानमंत्री मोदी क्या बोले?",
       "url": "https://www.amarujala.com/world/pm-modi-congratulates-ali-falih-kadhim-al-zaidi-on-assuming-office-as-iraq-prime-minister-2026-05-17",
       "source": "Amar Ujala World",
@@ -656,20 +681,20 @@
       }
     },
     {
-      "title": "राष्ट्रपति चुनाव से पहले कोलंबिया में हिंसा, पूर्व मेयर और उनके सहयोगी की गोली मारकर हत्या",
-      "url": "https://www.amarujala.com/world/colombia-election-rogers-davia-killed-former-mayor-shot-dead-political-violence-presidential-campaign-news-2026-05-17",
-      "source": "Amar Ujala World",
+      "title": "सीएम धामी ने किया मेधावियों को सम्मानित, कहा- सफलता का कोई शॉर्टकट नहीं",
+      "url": "https://www.amarujala.com/dehradun/amar-ujala-medhavi-chhatra-samman-2026-cm-dhami-honored-meritorious-students-of-uk-board-2026-05-17",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-17T02:10:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/01/crime-demo_983edcd4d66455f263704b33c81c7a0d.jpeg?w=750&dpr=1.0",
-      "summary": "कोलंबिया में राष्ट्रपति चुनाव से पहले राजनीतिक हिंसा बढ़ी है। पूर्व मेयर रोजर्स डेविया और उनके सहयोगी की गोली मारकर हत्या कर दी गई। यह घटना देश में बढ़ते तनाव और अस्थिरता को दर्शाती है। राष्ट्रपति चुनाव से पहले कोलंबिया में हिंसा, पूर्व मेयर और उनके सहयोगी की गोली मारकर हत्या।",
-      "region": "Americas",
+      "published_at": "2026-05-17T02:11:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/amara-ujal-mathhava-chhatara-samamana-samaraha_68a9458aae39a0edde0091594c73ca2a.jpeg?w=750&dpr=1.0",
+      "summary": "उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी ने राज्य बोर्ड के शीर्ष छात्रों को सम्मानित किया। उन्होंने कहा कि सफलता के लिए कड़ी मेहनत और कोई शॉर्टकट नहीं है। अमर उजाला की ओर से आज उत्तराखंड बोर्ड के 10वीं-12वीं के टॉपर्स को सम्मानित किया जाएगा। मुख्यमंत्री आवास स्थित मुख्य सेवक सदन में मुख्यमंत्री पुष्कर सिंह धामी के हाथों मेधावियों को सम्मान दिया जाएगा।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "राष्ट्रपति चुनाव से पहले कोलंबिया में हिंसा, पूर्व मेयर और उनके सहयोगी की गोली मारकर हत्या",
-          "summary": "कोलंबिया में राष्ट्रपति चुनाव से पहले राजनीतिक हिंसा बढ़ी है। पूर्व मेयर रोजर्स डेविया और उनके सहयोगी की गोली मारकर हत्या कर दी गई। यह घटना देश में बढ़ते तनाव और अस्थिरता को दर्शाती है। राष्ट्रपति चुनाव से पहले कोलंबिया में हिंसा, पूर्व मेयर और उनके सहयोगी की गोली मारकर हत्या।",
-          "region": "अमेरिका"
+          "title": "सीएम धामी ने किया मेधावियों को सम्मानित, कहा- सफलता का कोई शॉर्टकट नहीं",
+          "summary": "उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी ने राज्य बोर्ड के शीर्ष छात्रों को सम्मानित किया। उन्होंने कहा कि सफलता के लिए कड़ी मेहनत और कोई शॉर्टकट नहीं है। अमर उजाला की ओर से आज उत्तराखंड बोर्ड के 10वीं-12वीं के टॉपर्स को सम्मानित किया जाएगा। मुख्यमंत्री आवास स्थित मुख्य सेवक सदन में मुख्यमंत्री पुष्कर सिंह धामी के हाथों मेधावियों को सम्मान दिया जाएगा।",
+          "region": "दुनिया"
         }
       }
     },
