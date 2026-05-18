@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-05-18T08:47:04.111651+00:00",
-  "article_count": 39,
-  "total_unique_count": 376,
+  "generated_at": "2026-05-18T12:34:11.633989+00:00",
+  "article_count": 42,
+  "total_unique_count": 375,
   "digest": {
-    "en": "Xi Jinping's meetings with Vladimir Putin and Donald Trump dominate headlines. North Korean footballers arriving in Seoul offer a different signal. The global hunger crisis in Sudan and DR Congo continues to unfold.",
-    "hi": "वियतनाम और दक्षिण कोरिया की राजनाथ सिंह की यात्रा भारत की रक्षा साझेदारी को मजबूत करती है। वहीं, होर्मुज में जहाजों को निशाना बनाए जाने पर भारत ने संयुक्त राष्ट्र में नाराजगी जताई है।"
+    "en": "Americas leads the board this hour with Gold edges higher from over one-and-a-half-month low but higher yields cap gains. Asia-Pacific carries the next thread. 17 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, गिरफ़्तार शिवराज मोटेगांवकर कौन हैं और कौन-सा कोचिंग इंस्टिट्यूट चलाते हैं? मुख्य खबर है। साथ ही यूरोप और रूस से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "Gold edges higher from over one-and-a-half-month low but higher yields cap gains",
+      "url": "https://www.thehindu.com/news/international/gold-edges-higher-from-over-one-and-a-half-month-low-but-higher-yields-cap-gains/article70993443.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-18T12:11:55+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/lpwv5u/article70993604.ece/alternates/LANDSCAPE_1200/2025-07-08T163004Z_778578156_RC2FIFAV4329_RTRMADP_3_GOLD-DEMAND-ETF.JPG",
+      "summary": "Spot gold rose 0. Spot gold was up ‌0.2% at $4,546.04 per ounce, as of 09:07 GMT (Greenwich Mean Time), after hitting its lowest level since March 30 earlier in ‌the session. U. S. gold futures for June delivery lost 0.3% ‌to $4,549.70. Gold edges higher from over one-and-a-half-month low but higher yields cap gains.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Opinion | PNS Hangor: Inside The $5 Billion Submarine Fleet Pakistan Is Buying From China",
+      "url": "https://www.ndtv.com/opinion/hangor-inside-the-5-billion-submarine-set-china-is-making-for-pakistan-11511860#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-18T10:50:50+00:00",
+      "image_url": "https://c.ndtvimg.com/2025-08/0nj0no6o_hangor-class-submarine_625x300_17_August_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "summary": "Pakistan commissioned PNS Hangor, a submarine acquired from China. With the commissioning of PNS Hangor, what is no longer open to debate is the proposition that any future India-Pakistan conflict, in terms of force composition, will be a proxy engagement involving Chinese military technology. Opinion | PNS Hangor: Inside The $5 Billion Submarine Fleet Pakistan Is Buying From China.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "PM Modi woos Swedish companies to invest in India, says 'reform express' going at full speed",
+      "url": "https://www.thehindu.com/news/national/pm-modi-woos-swedish-companies-to-invest-in-india-says-reform-express-going-at-full-speed/article70992630.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-18T09:56:28+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/z3oxm3/article70992750.ece/alternates/LANDSCAPE_1200/PTI05_18_2026_000002B.jpg",
+      "summary": "Prime Minister Narendra Modi invited Swedish companies to invest in India. “In the last 12 years, India has been working on the basic mantra of reforms, performance, and transformation. And with the government’s political will, this Reform Express is moving forward at full speed,” Mr.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Drones reshape war in Colombia as deaths and injuries mount",
+      "url": "https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-18T09:00:04+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/1fb9cb3ff660558ec9d56b48e85793dd2c4ec39c/1619_720_2513_2011/master/2513.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd0aadc314a87ae58b947aca082cd104",
+      "summary": "A drone dropped a grenade on a children's football match in Civilians left increasingly exposed as a dangerous new front opens up in the country’s decades-old conflictAs night fell over southern Colombia, and a group of children began their weekly Tuesday football match, a drone appeared overhead. The children looked up, and the drone dropped a grenade, its blast killing a 10-year-old boy and injuring 12 more civilians.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Doctor suspended after diabetic patient with infected foot had leg amputated",
       "url": "https://www.channelnewsasia.com/singapore/doctor-suspended-diabetic-patient-foot-infection-gangrene-amputation-6127856",
@@ -165,18 +213,6 @@
       "translations": {}
     },
     {
-      "title": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
-      "url": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-15T10:00:37+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/4a18beef4ee363a916282e3263701bf595683afe/100_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c12ad6f193f9030184a72fe60d82dd56",
-      "summary": "A five-month investigation identified 13 previously unnamed victims of US All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communitiesSign up for the Breaking News US newsletter emailA five-month investigation has named 13 previously unidentified victims of US attacks on boats allegedly carrying narcotics in a campaign that has killed nearly 200 people in the Caribbean and the eastern Pacific. It is unclear if the.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life",
       "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
       "source": "The Guardian",
@@ -187,6 +223,114 @@
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "गिरफ़्तार शिवराज मोटेगांवकर कौन हैं और कौन-सा कोचिंग इंस्टिट्यूट चलाते हैं?",
+      "url": "https://www.bbc.com/hindi/articles/c74r19zwpz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-18T12:28:06+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/8358/live/525a8120-528f-11f1-b682-cf91850925ea.png",
+      "summary": "सीबीआई ने नीट (यूजी) 2026 पेपर लीक मामले में शिवराज मोटेगांवकर को गिरफ्तार किया है। वह लातूर स्थित एक कोचिंग संस्थान के निदेशक हैं। यह गिरफ्तारी मामले में दसवें अभियुक्त की है। नीट (यूजी) 2026 पेपर लीक मामले में सीबीआई ने 10वें अभियुक्त को गिरफ़्तार किया है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गिरफ़्तार शिवराज मोटेगांवकर कौन हैं और कौन-सा कोचिंग इंस्टिट्यूट चलाते हैं?",
+          "summary": "सीबीआई ने नीट (यूजी) 2026 पेपर लीक मामले में शिवराज मोटेगांवकर को गिरफ्तार किया है। वह लातूर स्थित एक कोचिंग संस्थान के निदेशक हैं। यह गिरफ्तारी मामले में दसवें अभियुक्त की है। नीट (यूजी) 2026 पेपर लीक मामले में सीबीआई ने 10वें अभियुक्त को गिरफ़्तार किया है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी मियाद ख़त्म होने के बाद भी रूसी तेल ख़रीद रहा है भारत, पेट्रोलियम मंत्रालय ने बताया",
+      "url": "https://www.bbc.com/hindi/articles/cjdpr5393y7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-18T11:53:58+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/f61a/live/122818b0-52b2-11f1-9ab8-af14435162fc.jpg",
+      "summary": "भारत रूसी तेल का आयात जारी रखे हुए है. अमेरिका ने पिछले महीने भारत सहित कई देशों को रूसी कच्चा तेल खरीदने की अनुमति दी थी. यह अनुमति एक महीने के लिए थी और अब समाप्त हो चुकी है. पेट्रोलियम मंत्रालय ने इस पर प्रतिक्रिया दी है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी मियाद ख़त्म होने के बाद भी रूसी तेल ख़रीद रहा है भारत, पेट्रोलियम मंत्रालय ने बताया",
+          "summary": "भारत रूसी तेल का आयात जारी रखे हुए है. अमेरिका ने पिछले महीने भारत सहित कई देशों को रूसी कच्चा तेल खरीदने की अनुमति दी थी. यह अनुमति एक महीने के लिए थी और अब समाप्त हो चुकी है. पेट्रोलियम मंत्रालय ने इस पर प्रतिक्रिया दी है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "रायपुर में दीमक चाट गई म्यूज़ियम के रिकॉर्ड, हज़ारों साल पुरानी चीज़ों की सुरक्षा ख़तरे में",
+      "url": "https://www.bbc.com/hindi/articles/clypvepzry3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-18T10:18:05+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/a6a6/live/4f2424d0-4f9b-11f1-b852-ddfe433c92ff.png",
+      "summary": "रायपुर के एक संग्रहालय में छह में से पांच रजिस्टरों को दीमक खा गई है. इससे संग्रहालय में मौजूद वस्तुओं की गिनती और उनकी पहचान करना मुश्किल हो गया है. हजारों साल पुरानी कलाकृतियों की सुरक्षा पर सवाल खड़े हो गए हैं. संग्रहालय में छह में से पांचों रजिस्टरों को दीमक खा चुकी है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रायपुर में दीमक चाट गई म्यूज़ियम के रिकॉर्ड, हज़ारों साल पुरानी चीज़ों की सुरक्षा ख़तरे में",
+          "summary": "रायपुर के एक संग्रहालय में छह में से पांच रजिस्टरों को दीमक खा गई है. इससे संग्रहालय में मौजूद वस्तुओं की गिनती और उनकी पहचान करना मुश्किल हो गया है. हजारों साल पुरानी कलाकृतियों की सुरक्षा पर सवाल खड़े हो गए हैं. संग्रहालय में छह में से पांचों रजिस्टरों को दीमक खा चुकी है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में हवा में टकराए दो फाइटर जेट, देखें वर्ल्ड न्यूज",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdnZZOW9VQnhzd2dRbmg4R1I0MjFyNnFnR1pqTGlQbHlzdkt4azlPR0dLWUhldXRXd1dXZlQ0dm5Fcm5taVRQaDBRQUxUVl9XcDVLblZJYVhmVzdCMXZvTEx0SjlfTzdPY2VLSFZWem02a3FjRndsU04zZlhJTzJLclhHcF8tREVfSkU2UUtsX2c0bHpBZS0xOU5GbFBvTVFpcUZab1VzeVlqVjkwVzdla29hRkpfamd2dDhobWx4N0N4SDZUd19pSEVn0gHPAUFVX3lxTE54Z3VmaDA5a0dmUlNZWkJhWjk3cGRKRE5aS1psbVZyVmpYTEg0WFV3TjEyZWUtbVVkLW03TmlkcmlHSGxleVktd1hYb1pWVF9oWnR3WU5hWm1abXA2YVoyNVpranlPY1k0THBETHJjanRtRzA2dkJ1N0g5X18yV3ljOER6aExVS1BUaGgzc29sWG1zdnY5cW1HUGdhVGRxZzViMU5sRjl6VFBySUhpWUtJLVFEV0o0MVdycUFwY3hETXh5ZXRfSFByNnduZ3ZVSQ?oc=5",
+      "source": "Google News Hindi (विश्व समाचार)",
+      "sources": [],
+      "published_at": "2026-05-18T10:13:26+00:00",
+      "image_url": "https://images.pexels.com/photos/35422450/pexels-photo-35422450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अमेरिका के अलास्का में दो एफ-16 फाइटर जेट हवा में टकरा गए। यह घटना एंकरेज के पास हुई। दोनों विमानों के पायलट सुरक्षित बाहर निकल आए। विमानों के मलबे की तलाश जारी है। अमेरिका में हवा में टकराए दो फाइटर जेट, देखें वर्ल्ड न्यूज AajTak।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में हवा में टकराए दो फाइटर जेट, देखें वर्ल्ड न्यूज",
+          "summary": "अमेरिका के अलास्का में दो एफ-16 फाइटर जेट हवा में टकरा गए। यह घटना एंकरेज के पास हुई। दोनों विमानों के पायलट सुरक्षित बाहर निकल आए। विमानों के मलबे की तलाश जारी है। अमेरिका में हवा में टकराए दो फाइटर जेट, देखें वर्ल्ड न्यूज AajTak।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "उमर ख़ालिद को ज़मानत न देने वाले अपने ही फ़ैसले पर सुप्रीम कोर्ट ने क्यों उठाए सवाल",
+      "url": "https://www.bbc.com/hindi/articles/czx2kx4k1yqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-18T09:27:45+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/066a/live/5a477960-529e-11f1-b682-cf91850925ea.jpg",
+      "summary": "सुप्रीम कोर्ट ने दिल्ली दंगों के मामले में उमर ख़ालिद को ज़मानत न देने के अपने ही फ़ैसले पर सवाल उठाए हैं. ख़ालिद 2020 से जेल में हैं. जनवरी में सुप्रीम कोर्ट ने उनकी ज़मानत अर्ज़ी ख़ारिज कर दी थी. दिल्ली दंगा मामले में उमर ख़ालिद और शरजील इमाम 2020 से ही जेल में बंद हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उमर ख़ालिद को ज़मानत न देने वाले अपने ही फ़ैसले पर सुप्रीम कोर्ट ने क्यों उठाए सवाल",
+          "summary": "सुप्रीम कोर्ट ने दिल्ली दंगों के मामले में उमर ख़ालिद को ज़मानत न देने के अपने ही फ़ैसले पर सवाल उठाए हैं. ख़ालिद 2020 से जेल में हैं. जनवरी में सुप्रीम कोर्ट ने उनकी ज़मानत अर्ज़ी ख़ारिज कर दी थी. दिल्ली दंगा मामले में उमर ख़ालिद और शरजील इमाम 2020 से ही जेल में बंद हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने ट्रंप और जिनपिंग की मीटिंग का बनाया मजाक, AI वीडियो से US कूटनीति पर साधा निशाना",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnVJdlZxMGhOdEpTc2VKUFgtUXMwdEEtUFNsc3hQTVVudWloUXRzRHZJWm5abU5zNlpnUXhwaUcwZXlVMGVxbERIdW5YbzJpRzhhZ0lOcEF2RVVXRElvdkt5aWF4dGNLWm50TU9JaEtoWk9wNWdPc2xQMF82b2xqdVpYdDhhMVpxYVVmaXNFNXBDM0cxSllfYTVVV0RXaWxTdzZ4MDlpX1RoemlzdVdDMzczTDFNTWVNRndxNklYTk5oSXZIQkdYSGpJeXdNRFN4UjNMaVJ30gHbAUFVX3lxTE5NenJUM1ptNUM2UW5rQUk3eGdDcGt5TU11LTNMTzVQbXE3ZlZHcWZKSlR5b1hPd2ZoMG1Dd2dXdjZ3eXo3enVWNUh5UzdWaVBrcWI1TWc0Rzh2aWlMT19EQzB1UXU2NHI1ZWFIVlBmcXFJdm5qWG45ckVOSEV5VTdWR0RXVldJWnVuN0lYQ0FCT1kyNHlteGUxS1hwR2c0Vy16aFAwek1mRGJUNXJwZmVFNzc2VmFuQ3BTYjA3aXlSNEZvY19wei1FU1R3Vk5XVDhlbklBQjNndjhoRQ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-18T08:59:48+00:00",
+      "image_url": "https://images.pexels.com/photos/14136859/pexels-photo-14136859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान ने कृत्रिम बुद्धिमत्ता (AI) का उपयोग करके एक वीडियो जारी किया। इसमें अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग की बैठक का उपहास उड़ाया गया। यह वीडियो अमेरिकी कूटनीति पर एक व्यंग्य है। ईरान ने ट्रंप और जिनपिंग की मीटिंग का बनाया मजाक, AI वीडियो से US कूटनीति पर साधा निशाना AajTak।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने ट्रंप और जिनपिंग की मीटिंग का बनाया मजाक, AI वीडियो से US कूटनीति पर साधा निशाना",
+          "summary": "ईरान ने कृत्रिम बुद्धिमत्ता (AI) का उपयोग करके एक वीडियो जारी किया। इसमें अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग की बैठक का उपहास उड़ाया गया। यह वीडियो अमेरिकी कूटनीति पर एक व्यंग्य है। ईरान ने ट्रंप और जिनपिंग की मीटिंग का बनाया मजाक, AI वीडियो से US कूटनीति पर साधा निशाना AajTak।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "वीजा नहीं बना, अब वर्चुअली अमेरिका में भारत का प्रतिनिधित्व करेंगे झारखंड के संजय - dumka sanjay",
@@ -243,78 +387,6 @@
       }
     },
     {
-      "title": "ट्विशा मौत केस में बड़ा मोड़! रिटायर्ड जज सास को अग्रिम जमानत, बहू पर लगाए सनसनीखेज आरोप",
-      "url": "https://www.amarujala.com/madhya-pradesh/bhopal/retired-judge-biribala-singh-wrote-in-the-bail-application-that-twisha-was-a-drug-user-had-a-history-of-irritability-and-was-being-treated-by-a-psychiatrist-bhopal-news-c-1-1-noi1404-4295245-2026-05-18",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-18T07:29:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/bhapal-ka-haiiparafail-mata-ka-rahasaya-gaharaya_6a6b8770514383335935b3a1ab24ffb0.jpeg?w=750&dpr=1.0",
-      "summary": "ट्विशा मौत मामले में, सेवानिवृत्त न्यायाधीश सास गिरिबाला सिंह को अग्रिम जमानत मिल गई है। पुलिस ने गिरिबाला और पति समर्थ सिंह के खिलाफ दहेज हत्या का मामला दर्ज किया था। जमानत याचिका में गिरिबाला ने ट्विशा को ड्रग्स की लत और मानसिक बीमारी का आरोप लगाया। उन्होंने कहा कि ट्विशा का इलाज चल रहा था।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्विशा मौत केस में बड़ा मोड़! रिटायर्ड जज सास को अग्रिम जमानत, बहू पर लगाए सनसनीखेज आरोप",
-          "summary": "ट्विशा मौत मामले में, सेवानिवृत्त न्यायाधीश सास गिरिबाला सिंह को अग्रिम जमानत मिल गई है। पुलिस ने गिरिबाला और पति समर्थ सिंह के खिलाफ दहेज हत्या का मामला दर्ज किया था। जमानत याचिका में गिरिबाला ने ट्विशा को ड्रग्स की लत और मानसिक बीमारी का आरोप लगाया। उन्होंने कहा कि ट्विशा का इलाज चल रहा था।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पेपर लीक मामले में 10वीं गिरफ्तारी, CBI ने लातूर में कोचिंग संचालक को पकड़ा, मोबाइल पर मिला",
-      "url": "https://www.amarujala.com/education/cbi-arrests-maharashtra-coaching-owner-in-neet-ug-2026-paper-leak-case-after-question-paper-recovery-2026-05-18",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-18T07:25:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/13/cbi_bedc7fdc00ec3a5d18ad2a2fa68f32be.jpeg?w=750&dpr=1.0",
-      "summary": "सीबीआई ने नीट यूजी परीक्षा पेपर लीक मामले में महाराष्ट्र के लातूर से कोचिंग संचालक शिवराज मोटेगांवकर को गिरफ्तार किया है। यह इस मामले में दसवीं गिरफ्तारी है। जांचकर्ताओं का दावा है कि मोटेगांवकर के मोबाइल फोन पर लीक हुए प्रश्नपत्र मिले हैं। NEET UG 2026: सीबीआई ने नीट यूजी पेपर लीक मामले में महाराष्ट्र के लातूर स्थित आरसीसी कोचिंग संचालक शिवराज मोटेगांवकर को गिरफ्तार किया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पेपर लीक मामले में 10वीं गिरफ्तारी, CBI ने लातूर में कोचिंग संचालक को पकड़ा, मोबाइल पर मिला",
-          "summary": "सीबीआई ने नीट यूजी परीक्षा पेपर लीक मामले में महाराष्ट्र के लातूर से कोचिंग संचालक शिवराज मोटेगांवकर को गिरफ्तार किया है। यह इस मामले में दसवीं गिरफ्तारी है। जांचकर्ताओं का दावा है कि मोटेगांवकर के मोबाइल फोन पर लीक हुए प्रश्नपत्र मिले हैं। NEET UG 2026: सीबीआई ने नीट यूजी पेपर लीक मामले में महाराष्ट्र के लातूर स्थित आरसीसी कोचिंग संचालक शिवराज मोटेगांवकर को गिरफ्तार किया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "NCP में सियासी खींचतान, अनुभवी नेताओं और युवा गुट के बीच फंसीं सुनेत्रा पवार; जानें पूरा मामला",
-      "url": "https://www.amarujala.com/india-news/sunetra-pawar-faces-internal-power-struggle-in-ncp-youth-vs-veteran-leaders-maharashtra-politics-hindi-news-2026-05-18",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-18T07:03:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/09/sunetra-pawar_0d4b423555dc8b15c098209f7cec4420.jpeg?w=750&dpr=1.0",
-      "summary": "महाराष्ट्र में राष्ट्रवादी कांग्रेस पार्टी (NCP) के भीतर नेतृत्व को लेकर खींचतान चल रही है। पार्टी में अनुभवी नेताओं और युवा गुट के बीच सुनेत्रा पवार की स्थिति अनिश्चित है। यह आंतरिक संघर्ष पार्टी की भविष्य की दिशा को प्रभावित कर सकता है। NCP में सियासी खींचतान, अनुभवी नेताओं और युवा गुट के बीच फंसीं सुनेत्रा पवार; जानें पूरा मामला।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "NCP में सियासी खींचतान, अनुभवी नेताओं और युवा गुट के बीच फंसीं सुनेत्रा पवार; जानें पूरा मामला",
-          "summary": "महाराष्ट्र में राष्ट्रवादी कांग्रेस पार्टी (NCP) के भीतर नेतृत्व को लेकर खींचतान चल रही है। पार्टी में अनुभवी नेताओं और युवा गुट के बीच सुनेत्रा पवार की स्थिति अनिश्चित है। यह आंतरिक संघर्ष पार्टी की भविष्य की दिशा को प्रभावित कर सकता है। NCP में सियासी खींचतान, अनुभवी नेताओं और युवा गुट के बीच फंसीं सुनेत्रा पवार; जानें पूरा मामला।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "वियतनाम और दक्षिण कोरिया दौरे पर राजनाथ सिंह, भारत की रक्षा साझेदारी को मिलेगी नई मजबूती",
-      "url": "https://www.amarujala.com/india-news/rajnath-singh-vietnam-and-south-korea-visit-to-strengthen-defence-ties-and-indo-pacific-cooperation-2026-05-18",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-18T07:00:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/rajnath-singh-foreign-visit_89b8dbd1e9b95274cb41ef80207c9fe9.png?w=750&dpr=1.0",
-      "summary": "रक्षा मंत्री राजनाथ सिंह वियतनाम और दक्षिण कोरिया की यात्रा पर हैं। इस यात्रा का उद्देश्य भारत की रक्षा साझेदारी को मजबूत करना है। दोनों देशों के साथ द्विपक्षीय संबंधों में यह एक महत्वपूर्ण कदम है। Rajnath Singh: वियतनाम और दक्षिण कोरिया दौरे पर राजनाथ सिंह, भारत की रक्षा साझेदारी को मिलेगी नई मजबूती।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वियतनाम और दक्षिण कोरिया दौरे पर राजनाथ सिंह, भारत की रक्षा साझेदारी को मिलेगी नई मजबूती",
-          "summary": "रक्षा मंत्री राजनाथ सिंह वियतनाम और दक्षिण कोरिया की यात्रा पर हैं। इस यात्रा का उद्देश्य भारत की रक्षा साझेदारी को मजबूत करना है। दोनों देशों के साथ द्विपक्षीय संबंधों में यह एक महत्वपूर्ण कदम है। Rajnath Singh: वियतनाम और दक्षिण कोरिया दौरे पर राजनाथ सिंह, भारत की रक्षा साझेदारी को मिलेगी नई मजबूती।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmxVQVQ3cV9tR25aeEVXWWM1U0NiSFI3TUJ1TEU5VFVzN0x3NlJxZ01NUEptYlVqQmJJWUx5cmZlNDduUVZCZTRQVnRIWXFxRzVvWGJDYXJ2YTVRRlFsYk11MF9aazl2WVNUSXM3RTQ2cGRlRWQ4WWFlSmlaMThSVlFVdWNLOG1fRjNkUktCdHlkV0VkZ2FRR2huLXFfUXg1YmpjRTlrcWh2dGJMa1dXOGR3WnBfZTFwOWVZ?oc=5",
       "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
@@ -351,24 +423,6 @@
       }
     },
     {
-      "title": "कान फेस्टिवल में डायना पेंटी का ट्रेडिशनल लुक, मनीष मल्होत्रा की डिजाइनर साड़ी में अप्सरा सी नजर आईं",
-      "url": "https://www.amarujala.com/entertainment/bollywood/diana-penty-cannes-film-festival-look-wear-fashion-designer-manish-malhotra-design-saree-2026-05-18",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-18T06:18:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/kana-falma-fasataval-ma-dayana-pata_7a3e83e196412ee7250bee8941c156d2.gif?w=750&dpr=1.0",
-      "summary": "अभिनेत्री डायना पेंटी ने कान फिल्म फेस्टिवल में मनीष मल्होत्रा द्वारा डिजाइन की गई साड़ी पहनी। उनका पारंपरिक भारतीय परिधान चर्चा का विषय बना। उन्होंने इस कार्यक्रम में भारतीय संस्कृति का प्रतिनिधित्व किया। आलिया भट्ट, हुमा कुरैशी और अदिति राव हैदरी के बाद अब डायना पेंटी ने भी कान फिल्म फेस्टिवल में शिरकत की है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कान फेस्टिवल में डायना पेंटी का ट्रेडिशनल लुक, मनीष मल्होत्रा की डिजाइनर साड़ी में अप्सरा सी नजर आईं",
-          "summary": "अभिनेत्री डायना पेंटी ने कान फिल्म फेस्टिवल में मनीष मल्होत्रा द्वारा डिजाइन की गई साड़ी पहनी। उनका पारंपरिक भारतीय परिधान चर्चा का विषय बना। उन्होंने इस कार्यक्रम में भारतीय संस्कृति का प्रतिनिधित्व किया। आलिया भट्ट, हुमा कुरैशी और अदिति राव हैदरी के बाद अब डायना पेंटी ने भी कान फिल्म फेस्टिवल में शिरकत की है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "ट्रंप के रवाना होने के फ़ौरन बाद पुतिन भी जा रहे हैं शी जिनपिंग से मिलने, क्या चीन नए वर्ल्ड ऑर्डर",
       "url": "https://www.bbc.com/hindi/articles/c75910320n6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -387,37 +441,19 @@
       }
     },
     {
-      "title": "होर्मुज में जहाजों को निशाना बनाए जाने पर भारत ने जताई नाराजगी, संयुक्त राष्ट में दिया क्लियरकट जवाब",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeUVPYk5EQ1pTbUNGWWtpYnJGemJneUYtdlFVSl9YS2tLX1NxV1pzSDR1QTFQbGdBLTFVSkZESnJUUEZOTTBIUTg4RDl0bEtoU2ItQkxfYlU3czdXQXRPLTZFSGhCUGduSXFTd29meHRRbnd0NEJpNjM5VkFUcDFrRDRrM29hRGZqUmN2QkpGbnlpaGxEaE1CT2cyT0ZLVlZFbHl5SGI3OHBiWEJwaEYzbWxDaVFvWVhLd2xZNEJ3T2Z6NWZ6WlpfcC1Kb21IdXQ3Zjc0ZUNDbG9LWDRaVUxYUl92UnhpZlQ2R3Vka192Qld2bFp1WldIUkltc0llRU9sM05aWjVla1N5MHR3SGo4WUp4ZFdrR1dSRGtiMNIBogJBVV95cUxNdEtWQVhkanlXWHJVeGxrZ1hpb3B1bTNFWERzUVVtbHFSQmpSRjdXTDVzcWdtS0d3Yk9kajVfMVZnLXdjY0VzaTFFbE02RGFOM1o0N2dmcFY3LUszRzF3cnhHV3U2MW9QZFBEd2lDOW5ldU5NRjNob2lQMGIxY1pNc1Q0YWI3Rm9FT0ZEZHFxei01d3dBUUUwYmlxZWFjbWNLUkhKX0Z3a3p5eTNoT0lHY1NnZXAydkItMTRtcWhFV2dzZzVRNjZJdGsyT3Y2UzBPNG5FdEpFQlFnRENlS0E4dXBsYm83VTVOcW0wTW5GOFRIMGdzNVJYaUJNMGdrYklMYW13Q3RObkszb3oxSVNJWkUxajVuMjVSenIzUG41Z1FEUQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-18T05:24:45+00:00",
-      "image_url": "https://images.pexels.com/photos/12795508/pexels-photo-12795508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत ने होर्मुज जलडमरूमध्य में जहाजों को निशाना बनाए जाने की घटनाओं पर संयुक्त राष्ट्र में चिंता व्यक्त की। भारत ने अंतरराष्ट्रीय समुद्री मार्गों की सुरक्षा सुनिश्चित करने की आवश्यकता पर जोर दिया। यह घटना अंतरराष्ट्रीय शिपिंग के लिए एक महत्वपूर्ण मार्ग पर सुरक्षा को लेकर चिंता पैदा करती है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज में जहाजों को निशाना बनाए जाने पर भारत ने जताई नाराजगी, संयुक्त राष्ट में दिया क्लियरकट जवाब",
-          "summary": "भारत ने होर्मुज जलडमरूमध्य में जहाजों को निशाना बनाए जाने की घटनाओं पर संयुक्त राष्ट्र में चिंता व्यक्त की। भारत ने अंतरराष्ट्रीय समुद्री मार्गों की सुरक्षा सुनिश्चित करने की आवश्यकता पर जोर दिया। यह घटना अंतरराष्ट्रीय शिपिंग के लिए एक महत्वपूर्ण मार्ग पर सुरक्षा को लेकर चिंता पैदा करती है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या पार्टी की यही नियती है?: एआईएडीएमके में टूट का असर, वरिष्ठ नेता एस सेम्मालाई ने दिया इस्तीफा",
-      "url": "https://www.amarujala.com/india-news/tamil-nadu-aiadmk-leader-s-semmalai-resign-from-party-e-palaniswami-2026-05-18",
+      "title": "लगातार छह हार ने बिगाड़ा पंजाब किंग्स का खेल, अकेले बैठे रिकी पोंटिंग की तस्वीर देख भावुक हुए अश्विन",
+      "url": "https://www.amarujala.com/cricket/r-ashwin-heartbroken-after-seeing-ricky-ponting-alone-following-pbks-sixth-straight-defeat-2026-05-18",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-18T05:24:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/15/aiadmk-edapadi-palaniswami_1e76f4577d12ba2b1ccc2dfb45a4f7a9.jpeg?w=750&dpr=1.0",
-      "summary": "अन्नाद्रमुक के वरिष्ठ नेता एस सेम्मालाई ने पार्टी से इस्तीफा दे दिया है। यह इस्तीफा पार्टी में चल रही आंतरिक कलह के बीच आया है। पार्टी के भीतर नेतृत्व को लेकर मतभेद बने हुए हैं। क्या पार्टी की यही नियती है?: एआईएडीएमके में टूट का असर, वरिष्ठ नेता एस सेम्मालाई ने दिया इस्तीफा।",
+      "published_at": "2026-05-18T06:13:16+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/punjab-kings-ricky-ponting-ravichandran-ashwin-shreyas-iyer-ipl-2026-pbks-vs-rcb-dharamshala_88fecb19a65f1bf6507aa46c5408201e.jpeg?w=750&dpr=1.0",
+      "summary": "पंजाब किंग्स को रॉयल चैलेंजर्स बैंगलोर के खिलाफ लगातार छठी हार मिली। टीम का प्लेऑफ में पहुंचने का सपना लगभग समाप्त हो गया है। हेड कोच रिकी पोंटिंग की अकेले बैठे तस्वीर वायरल हुई। पंजाब किंग्स की लगातार छठी हार के बाद टीम का प्लेऑफ सपना लगभग टूटता नजर आ रहा है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्या पार्टी की यही नियती है?: एआईएडीएमके में टूट का असर, वरिष्ठ नेता एस सेम्मालाई ने दिया इस्तीफा",
-          "summary": "अन्नाद्रमुक के वरिष्ठ नेता एस सेम्मालाई ने पार्टी से इस्तीफा दे दिया है। यह इस्तीफा पार्टी में चल रही आंतरिक कलह के बीच आया है। पार्टी के भीतर नेतृत्व को लेकर मतभेद बने हुए हैं। क्या पार्टी की यही नियती है?: एआईएडीएमके में टूट का असर, वरिष्ठ नेता एस सेम्मालाई ने दिया इस्तीफा।",
+          "title": "लगातार छह हार ने बिगाड़ा पंजाब किंग्स का खेल, अकेले बैठे रिकी पोंटिंग की तस्वीर देख भावुक हुए अश्विन",
+          "summary": "पंजाब किंग्स को रॉयल चैलेंजर्स बैंगलोर के खिलाफ लगातार छठी हार मिली। टीम का प्लेऑफ में पहुंचने का सपना लगभग समाप्त हो गया है। हेड कोच रिकी पोंटिंग की अकेले बैठे तस्वीर वायरल हुई। पंजाब किंग्स की लगातार छठी हार के बाद टीम का प्लेऑफ सपना लगभग टूटता नजर आ रहा है।",
           "region": "दुनिया"
         }
       }
@@ -477,42 +513,6 @@
       }
     },
     {
-      "title": "वीडी सतीशन बने केरल के मुख्यमंत्री: 60 साल में पहली बार पूरी कैबिनेट की शपथ, छह पार्टियों के 21",
-      "url": "https://www.amarujala.com/india-news/kerala-vd-satheesan-take-oath-cm-posy-with-ministers-rahul-gandhi-priyanka-gandhi-2026-05-18",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-18T04:58:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/vd-satheesan-kerala_723234f0202195ed171a81d5c3f08b88.jpeg?w=750&dpr=1.0",
-      "summary": "वीडी सतीशन ने केरल के मुख्यमंत्री के रूप में शपथ ली। उनके साथ छह पार्टियों के 21 मंत्रियों ने भी शपथ ली। यह 60 साल में पहली बार है जब पूरी कैबिनेट ने एक साथ शपथ ली है। वीडी सतीशन बने केरल के मुख्यमंत्री: 60 साल में पहली बार पूरी कैबिनेट की शपथ, छह पार्टियों के 21।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वीडी सतीशन बने केरल के मुख्यमंत्री: 60 साल में पहली बार पूरी कैबिनेट की शपथ, छह पार्टियों के 21",
-          "summary": "वीडी सतीशन ने केरल के मुख्यमंत्री के रूप में शपथ ली। उनके साथ छह पार्टियों के 21 मंत्रियों ने भी शपथ ली। यह 60 साल में पहली बार है जब पूरी कैबिनेट ने एक साथ शपथ ली है। वीडी सतीशन बने केरल के मुख्यमंत्री: 60 साल में पहली बार पूरी कैबिनेट की शपथ, छह पार्टियों के 21।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "100 से कम सीट आने पर किया था राजनीति छोड़ने का एलान, दावा सच हुआ, अब बने केरल के नए CM",
-      "url": "https://www.amarujala.com/india-news/who-is-kerala-new-chief-minister-designate-vd-satheesan-congress-leader-and-ex-lop-of-assembly-profile-explain-2026-05-14",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-18T04:56:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/kerala-new-cm-vd-satheesan-kerala-cm-designate_0ce4aeac20b5631ec4b18d84c3701ddd.jpeg?w=750&dpr=1.0",
-      "summary": "वीडी सतीशन ने केरल के नए मुख्यमंत्री के तौर पर शपथ ली। उन्होंने चुनाव से पहले कहा था कि यदि कांग्रेस 100 से कम सीटें जीतती है तो वे राजनीति छोड़ देंगे। कांग्रेस ने चुनाव के 10 दिन बाद उन्हें विधायक दल का नेता चुना।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "100 से कम सीट आने पर किया था राजनीति छोड़ने का एलान, दावा सच हुआ, अब बने केरल के नए CM",
-          "summary": "वीडी सतीशन ने केरल के नए मुख्यमंत्री के तौर पर शपथ ली। उन्होंने चुनाव से पहले कहा था कि यदि कांग्रेस 100 से कम सीटें जीतती है तो वे राजनीति छोड़ देंगे। कांग्रेस ने चुनाव के 10 दिन बाद उन्हें विधायक दल का नेता चुना।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "बराकाह परमाणु संयंत्र क्यों है इतना अहम? जिस पर हमले से पश्चिम एशिया में फिर शुरू हो सकता है युद्ध",
       "url": "https://www.amarujala.com/world/why-uae-barakah-nuclear-power-plant-is-very-important-for-west-asia-world-could-escalate-war-2026-05-18",
       "source": "Amar Ujala World",
@@ -527,24 +527,6 @@
           "title": "बराकाह परमाणु संयंत्र क्यों है इतना अहम? जिस पर हमले से पश्चिम एशिया में फिर शुरू हो सकता है युद्ध",
           "summary": "संयुक्त अरब अमीरात का बराकाह परमाणु संयंत्र पश्चिम एशिया में अपनी तरह का पहला संयंत्र है। यह संयंत्र चार रिएक्टरों से बना है, जिनमें से दो पहले से ही चालू हैं और दो निर्माणाधीन हैं। इस संयंत्र की क्षमता 5,400 मेगावाट है, जो संयुक्त अरब अमीरात की बिजली की मांग का लगभग 25% पूरा कर सकती है। इस संयंत्र पर किसी भी हमले से पश्चिम एशिया में युद्ध फिर से शुरू हो सकता है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हाईवे पर ट्रक और मैजिक की भिड़ंत, दो भाइयों समेत 10 लोगों की मौत",
-      "url": "https://www.amarujala.com/uttar-pradesh/lakhimpur-kheri/eight-people-dies-in-horrific-road-accident-in-lakhimpur-kheri-2026-05-18",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-18T03:48:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/road-accident_6e198ae71a1a1481a4adf135f05af0a7.jpeg?w=750&dpr=1.0",
-      "summary": "लखीमपुर खीरी में ट्रक और मैजिक की भिड़ंत में आठ लोगों की मौत हो गई। लखीमपुर खीरी के ईसानगर थाना क्षेत्र में सोमवार सुबह भीषण सड़क हादसा हुआ। जिसमें आठ लोगों की मौत हो गई। हाईवे पर ट्रक और मैजिक की भिड़ंत, आठ लोगों की मौत, दो से अधिक घायल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हाईवे पर ट्रक और मैजिक की भिड़ंत, दो भाइयों समेत 10 लोगों की मौत",
-          "summary": "लखीमपुर खीरी में ट्रक और मैजिक की भिड़ंत में आठ लोगों की मौत हो गई। लखीमपुर खीरी के ईसानगर थाना क्षेत्र में सोमवार सुबह भीषण सड़क हादसा हुआ। जिसमें आठ लोगों की मौत हो गई। हाईवे पर ट्रक और मैजिक की भिड़ंत, आठ लोगों की मौत, दो से अधिक घायल।",
-          "region": "दुनिया"
         }
       }
     },
@@ -585,24 +567,6 @@
       }
     },
     {
-      "title": "PM मोदी का पांच देशों का दौरा, वैश्विक संकट के बीच भारत की नई कूटनीति",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMEl2anB0SmI2OFF0RXUwODA0ZVFjOFBjVVJGYWhYTkF1ckNZeFJJbVNkNHFwUXpEOXZiZFR1OXZwUGZoNVdxa2dCbzFmZS01a2lmZGZFc3VjQU9BV3R3UTNZQ0tUVFR4RkFtQlh0bVpRR0M1WVVfNW1uc2VybVdBRExBMlZCaGtfbUFFLTBPS2xfVTdiQUZCeFdQNHMyZGlfN0JoamowY2duZkll0gGyAUFVX3lxTFByUnBQN0NnRnl3elFFY2tmc0R2TXU2TF9wclYtRVVqTTBsb2hwQS1iTTZ0cW43b3JRVkVobExjdUhXZ282THUtRkl2bkItT2pDSjRYWlZXQWF3cDJRVE5NVGJ2aEZ4UTNDZjlMUFQ5NEUzNlVfSXBuYThDVUFRa2I0TUFqZF85ZEdyMkpObzItSTczQmRtbEtNMDVVOXJScnh0V0NMUHhMdWlGZGRNZHcyeGc?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-18T02:49:25+00:00",
-      "image_url": "https://images.pexels.com/photos/12019622/pexels-photo-12019622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "प्रधानमंत्री मोदी ने वैश्विक संकट के बीच नई कूटनीति के तहत पांच देशों का दौरा किया. इस दौरे का उद्देश्य भारत के रणनीतिक संबंधों को मजबूत करना था. मोदी के इस दौरे से भारत की वैश्विक स्थिति में सुधार होने की उम्मीद है. PM मोदी का पांच देशों का दौरा, वैश्विक संकट के बीच भारत की नई कूटनीति TV9 Bharatvarsh।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PM मोदी का पांच देशों का दौरा, वैश्विक संकट के बीच भारत की नई कूटनीति",
-          "summary": "प्रधानमंत्री मोदी ने वैश्विक संकट के बीच नई कूटनीति के तहत पांच देशों का दौरा किया. इस दौरे का उद्देश्य भारत के रणनीतिक संबंधों को मजबूत करना था. मोदी के इस दौरे से भारत की वैश्विक स्थिति में सुधार होने की उम्मीद है. PM मोदी का पांच देशों का दौरा, वैश्विक संकट के बीच भारत की नई कूटनीति TV9 Bharatvarsh।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "हिजाब और जनेऊ जैसे धार्मिक प्रतीकों पर छूट के बाद अब क्या हैं चुनौतियाँ",
       "url": "https://www.bbc.com/hindi/articles/cd0p4znljj0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -635,6 +599,78 @@
           "title": "'ईरान को मदद नहीं देगा चीन, उन्होंने भरोसा दिया है', अमेरिकी व्यापार प्रतिनिधि का बड़ा दावा",
           "summary": "अमेरिकी व्यापार प्रतिनिधि ने दावा किया है कि चीन ईरान को सैन्य मदद नहीं देगा। उन्होंने कहा कि चीन ने अमेरिका को इस संबंध में भरोसा दिलाया है। यह बयान अमेरिका-चीन व्यापार युद्ध के बीच आया है। 'ईरान को मदद नहीं देगा चीन, उन्होंने भरोसा दिया है', अमेरिकी व्यापार प्रतिनिधि का बड़ा दावा।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चीन में आया 5.2 तीव्रता का भूकंप, कई इमारतें तबाह हुईं; दो की मौत, कई लापता",
+      "url": "https://www.amarujala.com/world/china-guangxi-zhuang-region-hit-by-earthquake-many-dead-missing-2026-05-18",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-18T02:44:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/china-earthquake_177874c126f5b31c2b20427dca2d021b.png?w=750&dpr=1.0",
+      "summary": "चीन के गुआंग्शी क्षेत्र में 5.2 तीव्रता का भूकंप आया। इस भूकंप से कई इमारतें तबाह हो गईं। दो लोगों की मौत हो गई और कई अन्य लापता हैं। चीन में आया 5.2 तीव्रता का भूकंप, कई इमारतें तबाह हुईं; दो की मौत, कई लापता।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन में आया 5.2 तीव्रता का भूकंप, कई इमारतें तबाह हुईं; दो की मौत, कई लापता",
+          "summary": "चीन के गुआंग्शी क्षेत्र में 5.2 तीव्रता का भूकंप आया। इस भूकंप से कई इमारतें तबाह हो गईं। दो लोगों की मौत हो गई और कई अन्य लापता हैं। चीन में आया 5.2 तीव्रता का भूकंप, कई इमारतें तबाह हुईं; दो की मौत, कई लापता।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कनाडा में मिला पहला हंता वायरस संक्रमित मरीज, यात्री आइसोलेशन में; अलर्ट पर स्वास्थ्य एजेंसियां",
+      "url": "https://www.amarujala.com/world/canada-confirms-first-hantavirus-case-after-deadly-cruise-ship-outbreak-2026-05-18",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-18T02:30:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/08/hantavirus_dbeac305ec73c7ea29e27c9d14253efd.jpeg?w=750&dpr=1.0",
+      "summary": "कनाडा में हंता वायरस का पहला मामला सामने आया है। संक्रमित यात्री को आइसोलेशन में रखा गया है। देश की स्वास्थ्य एजेंसियां सतर्क हो गई हैं। Hantavirus: कनाडा में मिला पहला हंता वायरस संक्रमित मरीज, यात्री आइसोलेशन में; अलर्ट पर स्वास्थ्य एजेंसियां।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कनाडा में मिला पहला हंता वायरस संक्रमित मरीज, यात्री आइसोलेशन में; अलर्ट पर स्वास्थ्य एजेंसियां",
+          "summary": "कनाडा में हंता वायरस का पहला मामला सामने आया है। संक्रमित यात्री को आइसोलेशन में रखा गया है। देश की स्वास्थ्य एजेंसियां सतर्क हो गई हैं। Hantavirus: कनाडा में मिला पहला हंता वायरस संक्रमित मरीज, यात्री आइसोलेशन में; अलर्ट पर स्वास्थ्य एजेंसियां।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "चीन की अकड़, ट्रंप की लाचारी, भारत को अब बदलनी होगी अपनी कूटनीतिक रणनीति",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUW8waXhwenpfNURfOEFQei1rc0ExblFrVjl5aXF1UnNEdjlGY0NqZlBPWERDbUNEcEFYbUZyd1hpSk53TW9oVW1SQW05Tk5IdFo3cC10bEx2Mm4zS0J1WGRJNVJBbnNiZzVYOFdXcENuTWZpNHZuajBpbmpJMDkzNXExem8xa2pUZVRVampzUHdnMGE0YllsYWM5dFlTckxSTXNUbzV1N2puLWRYaEVaSklLUGFKcEc2R0dBakY3dE1OdnhCLW5xSWItaUJjdVhWQXFzS1Rqd0ItVXRDOHprd9IB5gFBVV95cUxNdHhtT1BBRFdaUVlIcDVwUWRCVTd4Y18xZUhaTTBoV2p2dC1pYkFyLW11TWdHZUhWVjd6MGJxbVNocVFqUUNIRllGWTdtVkZrNHpVQVpFeWRhaXBaM1Q5eUdqaVdudDY2d19qMGlCZFVaLTVCZ2x1R2xEZXQtc1Z5bk5Sd1ZhU1pCbG9jc2p2cUU5Ti13Ym5oT3F6NlBDb25ZLUFpRk12VXBmNmJUR3QydnRUSUN0czlNWWo0UzFlalJyeGs3LUVueXlXTVZwNFRZV3hBWi1zdE15XzM0SEtfdFFlNTFzZw?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-18T02:29:14+00:00",
+      "image_url": "https://images.pexels.com/photos/28396975/pexels-photo-28396975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "चीन की आक्रामक कूटनीति और अमेरिकी राष्ट्रपति की प्रतिक्रिया के बीच भारत को अपनी रणनीति पर पुनर्विचार करना होगा। यह स्थिति भारत के लिए नई कूटनीतिक चुनौतियों का संकेत देती है। Opinion: चीन की अकड़, ट्रंप की लाचारी, भारत को अब बदलनी होगी अपनी कूटनीतिक रणनीति Navbharat Times।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन की अकड़, ट्रंप की लाचारी, भारत को अब बदलनी होगी अपनी कूटनीतिक रणनीति",
+          "summary": "चीन की आक्रामक कूटनीति और अमेरिकी राष्ट्रपति की प्रतिक्रिया के बीच भारत को अपनी रणनीति पर पुनर्विचार करना होगा। यह स्थिति भारत के लिए नई कूटनीतिक चुनौतियों का संकेत देती है। Opinion: चीन की अकड़, ट्रंप की लाचारी, भारत को अब बदलनी होगी अपनी कूटनीतिक रणनीति Navbharat Times।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बलूचिस्तान में पाकिस्तानी सेना का बड़ा ऑपरेशन, 35 आतंकवादी ढेर, तीन सीनियर कमांडर गिरफ्तार",
+      "url": "https://www.amarujala.com/world/pakistan-forces-kill-35-terrorists-in-balochistan-operation-capture-3-high-profile-2026-05-18",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-18T01:55:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/blcasatana-ma-35-aataka-dhara_8d334cfbab9fa4ed610d9b5f23eb97c3.png?w=750&dpr=1.0",
+      "summary": "पाकिस्तानी सेना ने बलूचिस्तान में एक बड़ा अभियान चलाया। इस दौरान 35 आतंकवादियों को मार गिराया गया। तीन वरिष्ठ कमांडरों को गिरफ्तार किया गया। सेना ने दावा किया कि यह ऑपरेशन आतंकवाद के खिलाफ एक महत्वपूर्ण कदम है। बलूचिस्तान में पाकिस्तानी सेना का बड़ा ऑपरेशन, 35 आतंकवादी ढेर, तीन सीनियर कमांडर गिरफ्तार।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बलूचिस्तान में पाकिस्तानी सेना का बड़ा ऑपरेशन, 35 आतंकवादी ढेर, तीन सीनियर कमांडर गिरफ्तार",
+          "summary": "पाकिस्तानी सेना ने बलूचिस्तान में एक बड़ा अभियान चलाया। इस दौरान 35 आतंकवादियों को मार गिराया गया। तीन वरिष्ठ कमांडरों को गिरफ्तार किया गया। सेना ने दावा किया कि यह ऑपरेशन आतंकवाद के खिलाफ एक महत्वपूर्ण कदम है। बलूचिस्तान में पाकिस्तानी सेना का बड़ा ऑपरेशन, 35 आतंकवादी ढेर, तीन सीनियर कमांडर गिरफ्तार।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
