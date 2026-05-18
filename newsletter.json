@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-05-18T18:54:06.187624+00:00",
-  "article_count": 45,
+  "generated_at": "2026-05-18T20:27:11.300256+00:00",
+  "article_count": 49,
   "total_unique_count": 369,
   "digest": {
-    "en": "US pressure on Mexico over cartel ties dominates headlines. Starbucks Korea’s CEO resignation over a controversial ad offers a contrasting corporate story. Ebola outbreaks in the DR Congo highlight ongoing health and humanitarian concerns.",
-    "hi": "दिल्ली क्वाड विदेश मंत्रियों की बैठक की मेजबानी करती है। यह बैठक इंडो-पैसिफिक में बढ़ते भू-राजनीतिक तनाव के बीच हो रही है। रूस के तेल पर अमेरिकी छूट और भारत के लिए इसके निहितार्थ भी महत्वपूर्ण हैं।"
+    "en": "Trump's Iran stance dominates headlines, with Gulf leaders reportedly influencing his decisions. Mexico faces scrutiny over cartel ties, while Starbucks Korea navigates a leadership change after a controversial ad. Infectious disease concerns also emerge.",
+    "hi": "महेंद्र सिंह धोनी का 'लैप ऑफ ऑनर' और राहुल गांधी का पीएम मोदी पर तंज आज की प्रमुख खबरें हैं। केन्या में ईंधन की कीमतों के खिलाफ हिंसक विरोध प्रदर्शन और केरल में बिना बिल के पैसे निकालने की जांच भी चर्चा में है।"
   },
   "articles": [
+    {
+      "title": "Trump says delaying Iran attack at request of Gulf leaders",
+      "url": "https://www.thehindu.com/news/international/trump-says-delaying-iran-attack-at-request-of-gulf-leaders/article70995563.ece",
+      "source": "The Hindu (International)",
+      "sources": [
+        {
+          "url": "https://www.thehindu.com/news/international/trump-says-delaying-iran-attack-at-request-of-gulf-leaders/article70995563.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://www.thehindu.com/news/international/iran-israel-war-live-may-18-2026/article70992340.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://www.thehindu.com/news/international/iran-israel-war-live-may-18-2026/article70992340.ece",
+          "source": "The Hindu (International)"
+        }
+      ],
+      "published_at": "2026-05-18T20:18:14+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/w9jqup/article70995561.ece/alternates/LANDSCAPE_1200/Trump-Nigeria-G0NG0A4R0.3.jpg.jpg",
+      "summary": "Donald Trump stated he delayed a strike on Iran at the request of Gulf leaders. He had previously instructed military action to be ready for a large-scale assault. This decision came as negotiations for an acceptable deal continued. Donald Trump said he had “further instructed them to be prepared to go forward with a full, large scale assault of Iran, on a moment’s notice, in the event that an acceptable Deal is not reached”.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
       "url": "https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties",
@@ -28,6 +53,18 @@
       "image_url": "https://i.guim.co.uk/img/media/0b1155ff1abba2f4441791cd4ae4e52cf20f34e7/231_0_4573_3660/master/4573.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e86d062f13decf107427c7834ff9d9c6",
       "summary": "Starbucks Korea CEO resigned after a promotional campaign evoked the 1980 Gwangju massacre. The \"Tank Day\" event used slogans that mocked the military crackdown on pro-democracy protesters. The campaign sparked widespread outrage and calls for boycotts in South Korea.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran submits new proposal, says U.S. open to sanctions relief",
+      "url": "https://www.thehindu.com/news/international/iran-submits-new-proposal-says-us-open-to-sanctions-relief/article70995124.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-18T16:14:41+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/u7qa1r/article70995206.ece/alternates/LANDSCAPE_1200/2026-05-18T022541Z_238514796_RC25BLA82DY1_RTRMADP_3_IRAN-CRISIS-PAKISTAN.JPG",
+      "summary": "Iran established the Persian Gulf Strait Authority to control maritime traffic. All ships transiting the Strait must obtain confirmation from the PSGA regarding its rules. This move asserts Iranian control over a vital global shipping lane. On May 17, Iran unveiled a new body, the Persian Gulf Strait Authority (PSGA), to control the Strait; according to the new mechanism, all ships seeking to transit the Strait should get a confirmation message, about “ruled and regulations” from the PGSA.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -104,14 +141,38 @@
       "translations": {}
     },
     {
-      "title": "Can a women's football team reconnect North and South Korea?",
-      "url": "https://www.dw.com/en/can-a-women-s-football-team-reconnect-north-and-south-korea/a-77198739?maca=en-rss-en-world-4025-xml-mrss",
+      "title": "Can women's football help reconnect North and South Korea?",
+      "url": "https://www.dw.com/en/can-women-s-football-help-reconnect-north-and-south-korea/a-77198739?maca=en-rss-en-world-4025-xml-mrss",
       "source": "DW World (English)",
       "sources": [],
       "published_at": "2026-05-18T13:58:00+00:00",
       "image_url": "https://static.dw.com/image/77186386_6.jpg",
-      "summary": "North Korean athletes will compete in South Korea for the first time in more than For the first time in more than seven years, North Korean athletes will compete in the South. Analysts are divided on whether it is a clever propaganda move by Pyongyang or a genuine step towards detente.",
+      "summary": "North Korea sent athletes to the South Korean capital for the first time in over seven years. The delegation will participate in the AFC U-17 Women's Asian Cup qualifiers. Analysts debate whether this signals a genuine move toward detente or a strategic propaganda effort by Pyongyang.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167540",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-18T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/18-05-2026-Adobe-UAE-Barakah.jpg/image770x420cropped.jpg",
+      "summary": "The UN atomic watchdog chief emphasized nuclear security in wartime. The head of the UN atomic watchdog on Monday underscored the need to safeguard nuclear security in wartime, a day after a drone strike near the sole nuclear power plant in the United Arab Emirates (UAE).",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "WHO assembly opens under shadow of Ebola, hantavirus and funding cuts",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167539",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-18T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/18-05-2026-WHO-hantavirus.jpg/image770x420cropped.jpg",
+      "summary": "The UN World Health Organization opened its annual assembly on Monday. From Ebola outbreaks in Central Africa to the complex evacuation of passengers aboard a hantavirus-stricken cruise ship, the UN World Health Organization (WHO) opened its annual assembly on Monday as countries grapple with disease outbreaks, deep funding cuts and growing geopolitical tension.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -261,27 +322,99 @@
       "translations": {}
     },
     {
-      "title": "पहली बार मैदान पर दिखे धोनी, चेपॉक में टीम के साथ लिया 'लैप ऑफ ऑनर', फैंस गदगद हुए",
+      "title": "महेंद्र सिंह धोनी ने लिया 'लैप ऑफ ऑनर', सुरेश रैना संग फैंस का किया अभिवादन; वीडियो",
+      "url": "https://www.amarujala.com/cricket/cricket-news/ipl-2026-emotional-moment-at-chepauk-ms-dhoni-takes-lap-of-honour-greets-fans-alongside-suresh-raina-video-2026-05-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-19T07:16:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/pata-kamasa-thhana_d81b9455d5458c418d96ae1b8e23430e.jpeg?w=750&dpr=1.0",
+      "summary": "महेंद्र सिंह धोनी ने चेपॉक में सीजन के अंतिम मुकाबले महेंद्र सिंह धोनी ने चेपॉक में सीजन के आखिरी मुकाबले के बाद भावुक 'लैप ऑफ ऑनर' लेकर फैंस का अभिवादन किया, जहां उनके साथ सुरेश रैना भी मौजूद रहे। महेंद्र सिंह धोनी ने लिया 'लैप ऑफ ऑनर', सुरेश रैना संग फैंस का किया अभिवादन; वीडियो।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महेंद्र सिंह धोनी ने लिया 'लैप ऑफ ऑनर', सुरेश रैना संग फैंस का किया अभिवादन; वीडियो",
+          "summary": "महेंद्र सिंह धोनी ने चेपॉक में सीजन के अंतिम मुकाबले महेंद्र सिंह धोनी ने चेपॉक में सीजन के आखिरी मुकाबले के बाद भावुक 'लैप ऑफ ऑनर' लेकर फैंस का अभिवादन किया, जहां उनके साथ सुरेश रैना भी मौजूद रहे। महेंद्र सिंह धोनी ने लिया 'लैप ऑफ ऑनर', सुरेश रैना संग फैंस का किया अभिवादन; वीडियो।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पहली बार मैदान पर दिखे धोनी, चेपॉक में टीम के साथ लिया 'लैप ऑफ ऑनर', सीएसके हारी मैच",
       "url": "https://www.amarujala.com/live/cricket/cricket-news/csk-vs-srh-live-cricket-score-chennai-super-kings-vs-sunrisers-hyderabad-ipl-2026-63th-match-updates-2026-05-18",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-19T06:48:25+00:00",
+      "published_at": "2026-05-19T07:09:15+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/thhana_2896c6046f8002cb02e75e9ede1de9d4.jpeg?w=750&dpr=1.0",
-      "summary": "महेंद्र सिंह धोनी पहली बार चेपॉक मैदान पर दिखे अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। पहली बार मैदान पर दिखे धोनी, चेपॉक में टीम के साथ लिया 'लैप ऑफ ऑनर', फैंस गदगद हुए।",
+      "summary": "महेंद्र सिंह धोनी पहली बार चेपॉक मैदान पर दिखे अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। पहली बार मैदान पर दिखे धोनी, चेपॉक में टीम के साथ लिया 'लैप ऑफ ऑनर', फैंस गदगद हुए। पहली बार मैदान पर दिखे धोनी, चेपॉक में टीम के साथ लिया 'लैप ऑफ ऑनर', सीएसके हारी मैच।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पहली बार मैदान पर दिखे धोनी, चेपॉक में टीम के साथ लिया 'लैप ऑफ ऑनर', फैंस गदगद हुए",
-          "summary": "महेंद्र सिंह धोनी पहली बार चेपॉक मैदान पर दिखे अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। पहली बार मैदान पर दिखे धोनी, चेपॉक में टीम के साथ लिया 'लैप ऑफ ऑनर', फैंस गदगद हुए।",
+          "title": "पहली बार मैदान पर दिखे धोनी, चेपॉक में टीम के साथ लिया 'लैप ऑफ ऑनर', सीएसके हारी मैच",
+          "summary": "महेंद्र सिंह धोनी पहली बार चेपॉक मैदान पर दिखे अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। पहली बार मैदान पर दिखे धोनी, चेपॉक में टीम के साथ लिया 'लैप ऑफ ऑनर', फैंस गदगद हुए। पहली बार मैदान पर दिखे धोनी, चेपॉक में टीम के साथ लिया 'लैप ऑफ ऑनर', सीएसके हारी मैच।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'दुनिया देख रही घबराए हुए PM को', राहुल गांधी ने नार्वे की पत्रकार के वीडियो पर पीएम मोदी को घेरा",
+      "url": "https://www.amarujala.com/india-news/rahul-gandhi-targets-pm-modi-over-video-by-norwegian-journalist-says-world-sees-compromised-pm-panic-2026-05-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-19T07:09:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/rahal-gathha-kagarasa-nata_60c592145436dca94dcd5c6592919b31.png?w=750&dpr=1.0",
+      "summary": "राहुल गांधी ने नॉर्वे की एक पत्रकार द्वारा साझा किए गए वीडियो पर प्रधानमंत्री नरेंद्र मोदी पर निशाना साधा। वीडियो में प्रधानमंत्री को कथित तौर पर घबराया हुआ दिखाया गया है। गांधी ने कहा कि दुनिया भारत के प्रधानमंत्री को इस तरह देख रही है। यह टिप्पणी उस समय आई जब प्रधानमंत्री मोदी विदेश यात्रा पर थे।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'दुनिया देख रही घबराए हुए PM को', राहुल गांधी ने नार्वे की पत्रकार के वीडियो पर पीएम मोदी को घेरा",
+          "summary": "राहुल गांधी ने नॉर्वे की एक पत्रकार द्वारा साझा किए गए वीडियो पर प्रधानमंत्री नरेंद्र मोदी पर निशाना साधा। वीडियो में प्रधानमंत्री को कथित तौर पर घबराया हुआ दिखाया गया है। गांधी ने कहा कि दुनिया भारत के प्रधानमंत्री को इस तरह देख रही है। यह टिप्पणी उस समय आई जब प्रधानमंत्री मोदी विदेश यात्रा पर थे।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सलमान खान के गैलेक्सी अपार्टमेंट में मिला सांप, मचा हड़कंप; रेस्क्यू टीम ने पकड़ा",
+      "url": "https://www.amarujala.com/entertainment/bollywood/snake-rescued-at-salman-khans-galaxy-apartment-in-mumbai-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T07:00:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/salmana-khana-sapa-pakaugdhata-haaa-sapa-pakaugdhana-val_b677089e06e9115e04a887a7fd21c437.jpeg?w=750&dpr=1.0",
+      "summary": "सोमवार को मुंबई में सलमान खान के गैलेक्सी अपार्टमेंट से एक सांप को बचाया गया। एक रेस्क्यू टीम ने सांप को पकड़ा। इस घटना से अपार्टमेंट में हड़कंप मच गया। सोमवार को मुंबई में सुपरस्टार सलमान खान के गैलेक्सी अपार्टमेंट से एक सांप को बचाया गया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सलमान खान के गैलेक्सी अपार्टमेंट में मिला सांप, मचा हड़कंप; रेस्क्यू टीम ने पकड़ा",
+          "summary": "सोमवार को मुंबई में सलमान खान के गैलेक्सी अपार्टमेंट से एक सांप को बचाया गया। एक रेस्क्यू टीम ने सांप को पकड़ा। इस घटना से अपार्टमेंट में हड़कंप मच गया। सोमवार को मुंबई में सुपरस्टार सलमान खान के गैलेक्सी अपार्टमेंट से एक सांप को बचाया गया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बिना बिल वर्षों से निकाले जा रहे थे पैसे, अब केरल हाईकोर्ट ने दिए जांच के आदेश",
+      "url": "https://www.amarujala.com/india-news/sabarimala-temple-scam-worship-funds-were-being-withdrawn-without-bills-kerala-high-court-order-investigation-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T06:57:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/karal-haiikarata_b8710495f1b5de0b2121f806261c81f4.png?w=750&dpr=1.0",
+      "summary": "केरल उच्च न्यायालय ने सबरीमाला मंदिर के खातों की जांच का आदेश दिया है। यह आदेश तब आया जब पता चला कि मंदिर से वर्षों से बिना बिल के पैसे निकाले जा रहे थे। अदालत ने इस मामले में विस्तृत जांच की मांग की है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बिना बिल वर्षों से निकाले जा रहे थे पैसे, अब केरल हाईकोर्ट ने दिए जांच के आदेश",
+          "summary": "केरल उच्च न्यायालय ने सबरीमाला मंदिर के खातों की जांच का आदेश दिया है। यह आदेश तब आया जब पता चला कि मंदिर से वर्षों से बिना बिल के पैसे निकाले जा रहे थे। अदालत ने इस मामले में विस्तृत जांच की मांग की है।",
+          "region": "दुनिया"
         }
       }
     },
     {
       "title": "रूसी तेल खरीद पर अमेरिका ने फिर दी बड़ी राहत, प्रतिबंधों में 30 दिन की छूट; जानें भारत पर इसका असर",
       "url": "https://www.amarujala.com/world/us-extends-waiver-on-russian-oil-stranded-at-sea-for-30-days-to-aid-vulnerable-nations-know-impact-on-india-2026-05-19",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-19T06:48:16+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/russian-oil-india-purchase_878bb20ada54d9764e9506ac1a75d321.png?w=750&dpr=1.0",
@@ -329,6 +462,114 @@
           "title": "राम चरण ने सलमान और आमिर खान को क्यों कहा शुक्रिया? फिल्म 'पेद्दी' से जुड़ा है मामला",
           "summary": "अभिनेता राम चरण ने सलमान खान और आमिर खान को धन्यवाद दिया। साउथ के एक्टर राम चरण की अपकमिंग फिल्म 'पेद्दी' का ट्रेलर रिलीज हो गया है। राम चरण ने सलमान और आमिर खान को क्यों कहा शुक्रिया? फिल्म 'पेद्दी' से जुड़ा है मामला।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "केन्या में ईंधन कीमतों के खिलाफ हिंसक विरोध प्रदर्शन, चार लोगों की मौत; दर्जनों घायल",
+      "url": "https://www.amarujala.com/world/world-news-updates-hindi-kenya-oil-crisis-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-2026-05-19",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-18T20:17:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=750&dpr=1.0",
+      "summary": "केन्या में ईंधन की बढ़ती कीमतों के विरोध में हिंसक प्रदर्शन हुए। नैरोबी में प्रदर्शनकारियों और पुलिस के बीच झड़पें हुईं। इन झड़पों में कम से कम चार लोगों की मौत हो गई और दर्जनों घायल हो गए। प्रदर्शनकारियों ने कई वाहनों को आग लगा दी और दुकानों में तोड़फोड़ की। पुलिस ने भीड़ को तितर-बितर करने के लिए आंसू गैस और पानी की बौछारों का इस्तेमाल किया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "केन्या में ईंधन कीमतों के खिलाफ हिंसक विरोध प्रदर्शन, चार लोगों की मौत; दर्जनों घायल",
+          "summary": "केन्या में ईंधन की बढ़ती कीमतों के विरोध में हिंसक प्रदर्शन हुए। नैरोबी में प्रदर्शनकारियों और पुलिस के बीच झड़पें हुईं। इन झड़पों में कम से कम चार लोगों की मौत हो गई और दर्जनों घायल हो गए। प्रदर्शनकारियों ने कई वाहनों को आग लगा दी और दुकानों में तोड़फोड़ की। पुलिस ने भीड़ को तितर-बितर करने के लिए आंसू गैस और पानी की बौछारों का इस्तेमाल किया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मौतों, विध्वंस, इसराइली बस्तियों के विस्तार का सिलसिला जारी",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SZGNSYUVXVWN5Njd4aWxYR2dXUEd1RFI3Ymt2UmlEVmpmdUNjSkhELUFLVDY0YjBpdlNIR1ZvaHZEdTlaemtObmJDbUtySDZqNng4VENXaw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-18T19:54:46+00:00",
+      "image_url": "https://images.pexels.com/photos/18068044/pexels-photo-18068044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र ने कहा कि इसराइल द्वारा फ़िलिस्तीनी क्षेत्रों में बस्तियों का विस्तार जारी है। इससे मौतों और विध्वंस का सिलसिला भी बढ़ा है। यह स्थिति क़ाबिज़ फ़लस्तीनी इलाक़ों में बनी हुई है। क़ाबिज़ फ़लस्तीनी इलाक़े: मौतों, विध्वंस, इसराइली बस्तियों के विस्तार का सिलसिला जारी UN News।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मौतों, विध्वंस, इसराइली बस्तियों के विस्तार का सिलसिला जारी",
+          "summary": "संयुक्त राष्ट्र ने कहा कि इसराइल द्वारा फ़िलिस्तीनी क्षेत्रों में बस्तियों का विस्तार जारी है। इससे मौतों और विध्वंस का सिलसिला भी बढ़ा है। यह स्थिति क़ाबिज़ फ़लस्तीनी इलाक़ों में बनी हुई है। क़ाबिज़ फ़लस्तीनी इलाक़े: मौतों, विध्वंस, इसराइली बस्तियों के विस्तार का सिलसिला जारी UN News।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "'इस बार खाड़ी देशों की अपील पर रुके': ट्रंप ने टाला ईरान पर हमला, कहा- समझौता करो वरना हमले के लिए",
+      "url": "https://www.amarujala.com/world/donald-trump-on-iran-military-strike-west-asia-crisis-allies-qatar-saudi-arabia-uae-2026-05-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-18T19:47:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/rashhatarapata-tarapa_a97b61d5a98e9e46697f600e4bfe7b8f.png?w=750&dpr=1.0",
+      "summary": "राष्ट्रपति ट्रंप ने खाड़ी देशों के कहने पर ईरान पर हमला टाल दिया। उन्होंने कहा कि ईरान को समझौता करना चाहिए। अन्यथा, अमेरिका पल भर में भीषण हमला कर सकता है। 'खाड़ी देशों की अपील पर रुके': ट्रंप ने टाला ईरान पर हमला, कहा- समझौता करो वरना पल भर में होगा भीषण हमला।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'इस बार खाड़ी देशों की अपील पर रुके': ट्रंप ने टाला ईरान पर हमला, कहा- समझौता करो वरना हमले के लिए",
+          "summary": "राष्ट्रपति ट्रंप ने खाड़ी देशों के कहने पर ईरान पर हमला टाल दिया। उन्होंने कहा कि ईरान को समझौता करना चाहिए। अन्यथा, अमेरिका पल भर में भीषण हमला कर सकता है। 'खाड़ी देशों की अपील पर रुके': ट्रंप ने टाला ईरान पर हमला, कहा- समझौता करो वरना पल भर में होगा भीषण हमला।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बंगाल में इमामों-मुअज्जिनों का भत्ता बंद, शुभेंदु अधिकारी की सरकार का बड़ा फैसला!",
+      "url": "https://www.amarujala.com/video/india-news/west-bengal-govt-decisions-allowances-of-imams-and-muezzins-stopped-in-bengal-a-big-decision-of-shubhendu-ad-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-18T19:38:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/west-bengal-govt-decisions_2f2f5a94a89c985752bc15773579fe87.jpeg?w=750&dpr=1.0",
+      "summary": "पश्चिम बंगाल सरकार ने इमामों और मुअज्जिनों को मिलने वाला भत्ता बंद कर दिया है। यह निर्णय शुभेंदु अधिकारी की सरकार ने लिया है। West Bengal govt decisions: बंगाल में इमामों-मुअज्जिनों का भत्ता बंद, शुभेंदु अधिकारी की सरकार का बड़ा फैसला!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंगाल में इमामों-मुअज्जिनों का भत्ता बंद, शुभेंदु अधिकारी की सरकार का बड़ा फैसला!",
+          "summary": "पश्चिम बंगाल सरकार ने इमामों और मुअज्जिनों को मिलने वाला भत्ता बंद कर दिया है। यह निर्णय शुभेंदु अधिकारी की सरकार ने लिया है। West Bengal govt decisions: बंगाल में इमामों-मुअज्जिनों का भत्ता बंद, शुभेंदु अधिकारी की सरकार का बड़ा फैसला!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शांतनु सिन्हा के बाद अब ईडी ने सोना पप्पू को किया गिरफ्तार, मनी लॉन्ड्रिंग मामले में नौ घंटे की",
+      "url": "https://www.amarujala.com/india-news/west-bengal-ed-makes-third-arrest-biswajit-poddar-alias-sona-pappu-in-land-grabbing-extortion-case-2026-05-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-18T19:32:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/ed_2ce248bc0a81803910dc5be1197382e8.png?w=750&dpr=1.0",
+      "summary": "प्रवर्तन निदेशालय ने विश्वजीत पोद्दार को गिरफ्तार किया है। वह मनी लॉन्ड्रिंग मामले में तीसरी गिरफ्तारी है। इससे पहले शांतनु सिन्हा को भी गिरफ्तार किया गया था। शांतनु सिन्हा के बाद अब ईडी ने सोना पप्पू को किया गिरफ्तार, मनी लॉन्ड्रिंग मामले में नौ घंटे की।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शांतनु सिन्हा के बाद अब ईडी ने सोना पप्पू को किया गिरफ्तार, मनी लॉन्ड्रिंग मामले में नौ घंटे की",
+          "summary": "प्रवर्तन निदेशालय ने विश्वजीत पोद्दार को गिरफ्तार किया है। वह मनी लॉन्ड्रिंग मामले में तीसरी गिरफ्तारी है। इससे पहले शांतनु सिन्हा को भी गिरफ्तार किया गया था। शांतनु सिन्हा के बाद अब ईडी ने सोना पप्पू को किया गिरफ्तार, मनी लॉन्ड्रिंग मामले में नौ घंटे की।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "संयुक्त राष्ट्र में भारत का पक्ष रखेंगी फतेहगढ़ की बेटी रजनी चौहान",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQUpkR3JfeHJmckZFVXNrS2FsYW8zUF9sQVpndUwwb1ZnZ3NDOTBKUzQtN1dSU1JyQ0JaSGJWMzg4TWVoU09RSXhpTjBROWpyc0NvM3BhOE82MS1sRGxRazNMU0w0RUFRT0hYNVowaF9PR2RPcG5GM3ZjTEZudUlCTk4xd3AxRTMtOW9vTEVkUUhrMlVvOElOajRTTGhJejNkSzR5TGY0c0xlOUNpaW0yTnFndklqa0Z0Y1FyVzdwSXJEVXh2RG1YVk5zMlRlZ09na3NIMi1uc1B3aHh4YW9pZEJ0TENCc2N4ZWxYaVhGUjRmQnN5cnhJRm93d29wWDM0Yy1fRFZDTDZ4V3fSAZACQVVfeXFMTkQ2VUZORlpkOEFuSllqcjI4MXlMM25jcWQwN2hGaWFiZk9EVTJ3NXdnYThkMXM1VC1vejU5Qnpsa0w2X1ZScFU3NVhQOVNSclFDM3FLR1QzT3JEWjZ5SVo3YnVhV0Mtd3E2cG95enpIaWM0N2RzeS1JT3NZb0VKcFpjb0dSR3ZnblprVU1sSW1HcGNoLXh4d0c3QUJ3UlVPaVlJUzl5SlNvNnNOUGdFVnBPcnVtT1lDSHR0cERmQTZiVF9PRWRaUEc4amFqa0VxNFNELXJUQU83cmtQeWhsZzdCZWpqa3BnX0NXd2NJNXIyQWNrT3FKeDhMTlh0eng5ZExucHQxWXY1SWJobkdhZXE?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-18T19:17:16+00:00",
+      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "फतेहगढ़ की रजनी चौहान संयुक्त राष्ट्र में भारत का पक्ष रखेंगी। वह अंतरराष्ट्रीय मंच पर देश का प्रतिनिधित्व करेंगी। Farrukhabad News: संयुक्त राष्ट्र में भारत का पक्ष रखेंगी फतेहगढ़ की बेटी रजनी चौहान Amar Ujala।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संयुक्त राष्ट्र में भारत का पक्ष रखेंगी फतेहगढ़ की बेटी रजनी चौहान",
+          "summary": "फतेहगढ़ की रजनी चौहान संयुक्त राष्ट्र में भारत का पक्ष रखेंगी। वह अंतरराष्ट्रीय मंच पर देश का प्रतिनिधित्व करेंगी। Farrukhabad News: संयुक्त राष्ट्र में भारत का पक्ष रखेंगी फतेहगढ़ की बेटी रजनी चौहान Amar Ujala।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -405,24 +646,6 @@
       }
     },
     {
-      "title": "रेत के बढ़ते दोहन से पारिस्थितिकी तंत्र और विकास को ख़तरा",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPcDlEMjV2U3BQWVpIUzJSWmJuVEQxVnRBZXJWNjFrRUhWdmlrbzEtSWItYUlRbDRqLUx2elZUeXJXNHBvbTdtVTJkaWZiMlBDTGh4YVppbw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-18T14:42:18+00:00",
-      "image_url": "https://images.pexels.com/photos/17718729/pexels-photo-17718729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र की रिपोर्ट के अनुसार, रेत के अनियंत्रित खनन से पारिस्थितिकी तंत्र को गंभीर खतरा है। यह अनियंत्रित दोहन विकास परियोजनाओं को भी बाधित कर रहा है। समस्या के समाधान के लिए तत्काल उपायों की आवश्यकता है। रेत के बढ़ते दोहन से पारिस्थितिकी तंत्र और विकास को ख़तरा UN News।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रेत के बढ़ते दोहन से पारिस्थितिकी तंत्र और विकास को ख़तरा",
-          "summary": "संयुक्त राष्ट्र की रिपोर्ट के अनुसार, रेत के अनियंत्रित खनन से पारिस्थितिकी तंत्र को गंभीर खतरा है। यह अनियंत्रित दोहन विकास परियोजनाओं को भी बाधित कर रहा है। समस्या के समाधान के लिए तत्काल उपायों की आवश्यकता है। रेत के बढ़ते दोहन से पारिस्थितिकी तंत्र और विकास को ख़तरा UN News।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
       "title": "LGBTIQ+ समुदाय के ख़िलाफ़ बढ़ती हिंसा व भेदभाव पर गहरी चिन्ता",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1YW5CWGNqZW0wMHVuOXJKUTNneHFsY21mem1hbklGeVg2bnlrRk5oTWdiSEl3NElIbEwxZHVjSE5qT1RHYThIQWdUOXlmM0d4UE0tUTY3NA?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -437,6 +660,24 @@
           "title": "LGBTIQ+ समुदाय के ख़िलाफ़ बढ़ती हिंसा व भेदभाव पर गहरी चिन्ता",
           "summary": "संयुक्त राष्ट्र ने एलजीबीटीआईक्यू+ समुदाय के खिलाफ बढ़ती हिंसा और भेदभाव पर चिंता व्यक्त की है। यह समुदाय दुनिया भर में उत्पीड़न और असमानता का सामना कर रहा है। इस मुद्दे पर तत्काल ध्यान देने की आवश्यकता है। LGBTIQ+ समुदाय के ख़िलाफ़ बढ़ती हिंसा व भेदभाव पर गहरी चिन्ता UN News।",
           "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "18 मई, 2026 को विश्व आर्थिक समाचारों की मुख्य बातें",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01VUhaLWFlemRfcHJCR29ISGtHVUwxQy1BRHY3QUpqRjgyM2pTaldod2VvMkdGTTV3OFZaYlZFM0Joa0RNNkRaYUxBa05yM0xaQWRaZWpaMnBKTFE4Rkh1WnNWbkZYeWRlSm5zazB1Z2p3dlhRc1Y1SXlqM3lsV0U?oc=5",
+      "source": "Google News Hindi (विश्व समाचार)",
+      "sources": [],
+      "published_at": "2026-05-18T13:50:35+00:00",
+      "image_url": "https://images.pexels.com/photos/37266407/pexels-photo-37266407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "वियतनाम ने 18 मई, 2026 को घोषणा की कि वह 2027 तक अपनी राष्ट्रीय डिजिटल मुद्रा लॉन्च करेगा। यह कदम देश की अर्थव्यवस्था को आधुनिक बनाने और डिजिटल भुगतान को बढ़ावा देने के प्रयासों का हिस्सा है। इस नई मुद्रा से वित्तीय समावेशन में वृद्धि और सीमा पार लेनदेन में आसानी की उम्मीद है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "18 मई, 2026 को विश्व आर्थिक समाचारों की मुख्य बातें",
+          "summary": "वियतनाम ने 18 मई, 2026 को घोषणा की कि वह 2027 तक अपनी राष्ट्रीय डिजिटल मुद्रा लॉन्च करेगा। यह कदम देश की अर्थव्यवस्था को आधुनिक बनाने और डिजिटल भुगतान को बढ़ावा देने के प्रयासों का हिस्सा है। इस नई मुद्रा से वित्तीय समावेशन में वृद्धि और सीमा पार लेनदेन में आसानी की उम्मीद है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -463,7 +704,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNZ3VEQ2NtaHZoNi1Femlxc1JmUUs5UUtITUJNUFpfeHVLaERKSWQyM3ZybGdGTGd2VlIyYWtUMU41THM1d3lsRmk5a0NwMW9QeVdVcG9FWV8td3FJNTBtSlhYZ2xBMkh3QXZjbGdreEI0ZDlELWZ6MHk0ck1DcEJyTkVDYUQtRDdRdEZpamRndWVzSERweHpidGpnVDhRdWZVQWpxdXZ5eTQ1V3FiSGlZekR3M1dTY3Z2UjJjOGs0bldMVkxfLWs5TGJrMUVwNEtUNVBmcVdGdUVNbElTd3hELVQ3aEEzdWtJYS1jS2NnbW5zeUc2TnVKb0l5ZnpzYmlXOXloeFExQURXc21iV25fOEZlMDNOMVFZT0xfRzd3OW5POVUyWmZ5c2lLQ0pyRXN2VlRwcS13dkJjOHllT01wLWszbXdsZw?oc=5",
       "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
       "sources": [],
-      "published_at": "2026-05-18T13:30:27+00:00",
+      "published_at": "2026-05-18T13:32:40+00:00",
       "image_url": "https://images.pexels.com/photos/16457179/pexels-photo-16457179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "प्रदान किया गया है। यह सम्मान उन्हें उनके नेतृत्व और वैश्विक योगदान के लिए दिया गया है। यह भारत के लिए एक महत्वपूर्ण उपलब्धि है। प्रधानमंत्री नरेंद्र मोदी को नॉर्वे का सर्वोच्च नागरिक सम्मान GK Today।",
       "region": "Europe & Russia",
@@ -527,186 +768,6 @@
           "title": "अमेरिकी मियाद ख़त्म होने के बाद भी रूसी तेल ख़रीद रहा है भारत, पेट्रोलियम मंत्रालय ने बताया",
           "summary": "भारत रूसी तेल का आयात जारी रखे हुए है. अमेरिका ने पिछले महीने भारत सहित कई देशों को रूसी कच्चा तेल खरीदने की अनुमति दी थी. यह अनुमति एक महीने के लिए थी और अब समाप्त हो चुकी है. पेट्रोलियम मंत्रालय ने इस पर प्रतिक्रिया दी है.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "रायपुर में दीमक चाट गई म्यूज़ियम के रिकॉर्ड, हज़ारों साल पुरानी चीज़ों की सुरक्षा ख़तरे में",
-      "url": "https://www.bbc.com/hindi/articles/clypvepzry3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-18T10:18:05+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/a6a6/live/4f2424d0-4f9b-11f1-b852-ddfe433c92ff.png",
-      "summary": "रायपुर के एक संग्रहालय में छह में से पांच रजिस्टरों को दीमक खा गई है. इससे संग्रहालय में मौजूद वस्तुओं की गिनती और उनकी पहचान करना मुश्किल हो गया है. हजारों साल पुरानी कलाकृतियों की सुरक्षा पर सवाल खड़े हो गए हैं. संग्रहालय में छह में से पांचों रजिस्टरों को दीमक खा चुकी है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रायपुर में दीमक चाट गई म्यूज़ियम के रिकॉर्ड, हज़ारों साल पुरानी चीज़ों की सुरक्षा ख़तरे में",
-          "summary": "रायपुर के एक संग्रहालय में छह में से पांच रजिस्टरों को दीमक खा गई है. इससे संग्रहालय में मौजूद वस्तुओं की गिनती और उनकी पहचान करना मुश्किल हो गया है. हजारों साल पुरानी कलाकृतियों की सुरक्षा पर सवाल खड़े हो गए हैं. संग्रहालय में छह में से पांचों रजिस्टरों को दीमक खा चुकी है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में हवा में टकराए दो फाइटर जेट, देखें वर्ल्ड न्यूज",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdnZZOW9VQnhzd2dRbmg4R1I0MjFyNnFnR1pqTGlQbHlzdkt4azlPR0dLWUhldXRXd1dXZlQ0dm5Fcm5taVRQaDBRQUxUVl9XcDVLblZJYVhmVzdCMXZvTEx0SjlfTzdPY2VLSFZWem02a3FjRndsU04zZlhJTzJLclhHcF8tREVfSkU2UUtsX2c0bHpBZS0xOU5GbFBvTVFpcUZab1VzeVlqVjkwVzdla29hRkpfamd2dDhobWx4N0N4SDZUd19pSEVn0gHPAUFVX3lxTE54Z3VmaDA5a0dmUlNZWkJhWjk3cGRKRE5aS1psbVZyVmpYTEg0WFV3TjEyZWUtbVVkLW03TmlkcmlHSGxleVktd1hYb1pWVF9oWnR3WU5hWm1abXA2YVoyNVpranlPY1k0THBETHJjanRtRzA2dkJ1N0g5X18yV3ljOER6aExVS1BUaGgzc29sWG1zdnY5cW1HUGdhVGRxZzViMU5sRjl6VFBySUhpWUtJLVFEV0o0MVdycUFwY3hETXh5ZXRfSFByNnduZ3ZVSQ?oc=5",
-      "source": "Google News Hindi (विश्व समाचार)",
-      "sources": [],
-      "published_at": "2026-05-18T10:13:26+00:00",
-      "image_url": "https://images.pexels.com/photos/35422450/pexels-photo-35422450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अमेरिका के अलास्का में दो एफ-16 फाइटर जेट हवा में टकरा गए। यह घटना एंकरेज के पास हुई। दोनों विमानों के पायलट सुरक्षित बाहर निकल आए। विमानों के मलबे की तलाश जारी है। अमेरिका में हवा में टकराए दो फाइटर जेट, देखें वर्ल्ड न्यूज AajTak।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में हवा में टकराए दो फाइटर जेट, देखें वर्ल्ड न्यूज",
-          "summary": "अमेरिका के अलास्का में दो एफ-16 फाइटर जेट हवा में टकरा गए। यह घटना एंकरेज के पास हुई। दोनों विमानों के पायलट सुरक्षित बाहर निकल आए। विमानों के मलबे की तलाश जारी है। अमेरिका में हवा में टकराए दो फाइटर जेट, देखें वर्ल्ड न्यूज AajTak।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmxVQVQ3cV9tR25aeEVXWWM1U0NiSFI3TUJ1TEU5VFVzN0x3NlJxZ01NUEptYlVqQmJJWUx5cmZlNDduUVZCZTRQVnRIWXFxRzVvWGJDYXJ2YTVRRlFsYk11MF9aazl2WVNUSXM3RTQ2cGRlRWQ4WWFlSmlaMThSVlFVdWNLOG1fRjNkUktCdHlkV0VkZ2FRR2huLXFfUXg1YmpjRTlrcWh2dGJMa1dXOGR3WnBfZTFwOWVZ?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
-      "sources": [],
-      "published_at": "2026-05-18T09:48:35+00:00",
-      "image_url": "https://images.pexels.com/photos/34653644/pexels-photo-34653644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "अंतरराष्ट्रीय परिवार दिवस मनाया गया। यह मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार है। अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार DD News।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार",
-          "summary": "अंतरराष्ट्रीय परिवार दिवस मनाया गया। यह मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार है। अंतरराष्ट्रीय परिवार दिवस: मानवीय संबंधों की आत्मा और सामाजिक एकता का आधार DD News।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "उमर ख़ालिद को ज़मानत न देने वाले अपने ही फ़ैसले पर सुप्रीम कोर्ट ने क्यों उठाए सवाल",
-      "url": "https://www.bbc.com/hindi/articles/czx2kx4k1yqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-18T09:27:45+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/066a/live/5a477960-529e-11f1-b682-cf91850925ea.jpg",
-      "summary": "सुप्रीम कोर्ट ने दिल्ली दंगों के मामले में उमर ख़ालिद को ज़मानत न देने के अपने ही फ़ैसले पर सवाल उठाए हैं. ख़ालिद 2020 से जेल में हैं. जनवरी में सुप्रीम कोर्ट ने उनकी ज़मानत अर्ज़ी ख़ारिज कर दी थी. दिल्ली दंगा मामले में उमर ख़ालिद और शरजील इमाम 2020 से ही जेल में बंद हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उमर ख़ालिद को ज़मानत न देने वाले अपने ही फ़ैसले पर सुप्रीम कोर्ट ने क्यों उठाए सवाल",
-          "summary": "सुप्रीम कोर्ट ने दिल्ली दंगों के मामले में उमर ख़ालिद को ज़मानत न देने के अपने ही फ़ैसले पर सवाल उठाए हैं. ख़ालिद 2020 से जेल में हैं. जनवरी में सुप्रीम कोर्ट ने उनकी ज़मानत अर्ज़ी ख़ारिज कर दी थी. दिल्ली दंगा मामले में उमर ख़ालिद और शरजील इमाम 2020 से ही जेल में बंद हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने ट्रंप और जिनपिंग की मीटिंग का बनाया मजाक, AI वीडियो से US कूटनीति पर साधा निशाना",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnVJdlZxMGhOdEpTc2VKUFgtUXMwdEEtUFNsc3hQTVVudWloUXRzRHZJWm5abU5zNlpnUXhwaUcwZXlVMGVxbERIdW5YbzJpRzhhZ0lOcEF2RVVXRElvdkt5aWF4dGNLWm50TU9JaEtoWk9wNWdPc2xQMF82b2xqdVpYdDhhMVpxYVVmaXNFNXBDM0cxSllfYTVVV0RXaWxTdzZ4MDlpX1RoemlzdVdDMzczTDFNTWVNRndxNklYTk5oSXZIQkdYSGpJeXdNRFN4UjNMaVJ30gHbAUFVX3lxTE5NenJUM1ptNUM2UW5rQUk3eGdDcGt5TU11LTNMTzVQbXE3ZlZHcWZKSlR5b1hPd2ZoMG1Dd2dXdjZ3eXo3enVWNUh5UzdWaVBrcWI1TWc0Rzh2aWlMT19EQzB1UXU2NHI1ZWFIVlBmcXFJdm5qWG45ckVOSEV5VTdWR0RXVldJWnVuN0lYQ0FCT1kyNHlteGUxS1hwR2c0Vy16aFAwek1mRGJUNXJwZmVFNzc2VmFuQ3BTYjA3aXlSNEZvY19wei1FU1R3Vk5XVDhlbklBQjNndjhoRQ?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-18T08:59:48+00:00",
-      "image_url": "https://images.pexels.com/photos/14136859/pexels-photo-14136859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान ने कृत्रिम बुद्धिमत्ता (AI) का उपयोग करके एक वीडियो जारी किया। इसमें अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग की बैठक का उपहास उड़ाया गया। यह वीडियो अमेरिकी कूटनीति पर एक व्यंग्य है। ईरान ने ट्रंप और जिनपिंग की मीटिंग का बनाया मजाक, AI वीडियो से US कूटनीति पर साधा निशाना AajTak।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने ट्रंप और जिनपिंग की मीटिंग का बनाया मजाक, AI वीडियो से US कूटनीति पर साधा निशाना",
-          "summary": "ईरान ने कृत्रिम बुद्धिमत्ता (AI) का उपयोग करके एक वीडियो जारी किया। इसमें अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग की बैठक का उपहास उड़ाया गया। यह वीडियो अमेरिकी कूटनीति पर एक व्यंग्य है। ईरान ने ट्रंप और जिनपिंग की मीटिंग का बनाया मजाक, AI वीडियो से US कूटनीति पर साधा निशाना AajTak।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "वीजा नहीं बना, अब वर्चुअली अमेरिका में भारत का प्रतिनिधित्व करेंगे झारखंड के संजय - dumka sanjay",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNk9ZVy12cG1TUU9SeG1nemhweVNjOEV2UExjNG9vaUJCc1FHZWtVcGs5Qm9RRElzZlVJMVlWQUNRc0dqVFJGeHpsc3d0SXhYa0xSRXcxNmdoSHgtdDVmTlFRZzZQN290NlBIalcwRXlBMGJhZ1BpR0pyTkJXbUdkUm1BLTVocVg5cklsdFhuNVo3MmQza0FtWW0wOUpLcTd2UHU3M3RCUUlxTGE2dmR5QkJTR0d5bEpBQkZwQzVn?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-18T08:31:00+00:00",
-      "image_url": "https://images.pexels.com/photos/5483517/pexels-photo-5483517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "झारखंड के दुमका से संजय पाल संयुक्त राष्ट्र युवा वीजा नहीं बना, अब वर्चुअली अमेरिका में भारत का प्रतिनिधित्व करेंगे झारखंड के संजय - dumka sanjay।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वीजा नहीं बना, अब वर्चुअली अमेरिका में भारत का प्रतिनिधित्व करेंगे झारखंड के संजय - dumka sanjay",
-          "summary": "झारखंड के दुमका से संजय पाल संयुक्त राष्ट्र युवा वीजा नहीं बना, अब वर्चुअली अमेरिका में भारत का प्रतिनिधित्व करेंगे झारखंड के संजय - dumka sanjay।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत के साथ कूटनीति की राह पर आएगा पाकिस्तान? RSS नेता के बयान के बाद क्या कह रहे एक्सपर्ट, जानें",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUU83MEo2M1FLZ3JFQ2c2SmFNb0xfR21GSC04MXR2UG1fYjQwSWU3WDBIUXdIdHVCNE9QS0V0SlpxZTBtM2lSakg5VXRTTEJidjRxMnBNRlA5VTMyQTdWeEZCTUJRb2Y2NElheHR4NHNGUFRubEExZi0yTUpUZ04zS0lCdVhaN2ZyTVdiejNiQ2R1X2pHdVVlcElxWXg2clVxQWFFMjhhV2pBejNoMEY1UGx0WDRFWm1HdG5jSGVwLUhMcXlqdHhmZXFWV0pOcjdxSmxzZjR3Y2pPQnBsNFEzam13MDktWkVUaVozMUpNOERGbVh4cVEyWl82ZEhZbHfSAYQCQVVfeXFMTkpEVkhfRG5OQWhXNElwR1Z6SUFvU0hXMXo0VHFoWEgzay00bi1Ick0tb04yekczMWUzZHgtMzg3a0M0RVJFTnZaRXFYNk9HdzN6YUV5SlVMTVFnWDQ2MVRVQ0o2UHhmUmVhQl9kbXhzX0hrN2ZHVkM1M19STGJocGlGd2JuZUVFSno5akt2QWV6NVdSR09FTUxxam5hVmRiX2d1ZjhrcWpkQnNyR202ZnBaSFlXa3gzb3ktQXJBTkViYnJodktoMVppalVTcUJ5X0JDcFhJanQ5ZzJJNjVfTGE2Tm5HMmt0MmVadWFxT1lrYUhEcjhGSEpSVk1yNFdQMXNmQXM?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-18T08:21:54+00:00",
-      "image_url": "https://images.pexels.com/photos/19447589/pexels-photo-19447589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "राष्ट्रीय स्वयंसेवक संघ के एक नेता के बयान के बाद भारत और पाकिस्तान भारत के साथ कूटनीति की राह पर आएगा पाकिस्तान? RSS नेता के बयान के बाद क्या कह रहे एक्सपर्ट, जानें Navbharat Times।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत के साथ कूटनीति की राह पर आएगा पाकिस्तान? RSS नेता के बयान के बाद क्या कह रहे एक्सपर्ट, जानें",
-          "summary": "राष्ट्रीय स्वयंसेवक संघ के एक नेता के बयान के बाद भारत और पाकिस्तान भारत के साथ कूटनीति की राह पर आएगा पाकिस्तान? RSS नेता के बयान के बाद क्या कह रहे एक्सपर्ट, जानें Navbharat Times।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत में मीडिया और अल्पसंख्यकों पर डच पीएम की 'चिंता' का मोदी सरकार ने दिया ये जवाब",
-      "url": "https://www.bbc.com/hindi/articles/c172p4wx8pvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-18T08:19:10+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/8716/live/28bec5d0-5292-11f1-8a13-e989d3b4b6c8.jpg",
-      "summary": "नीदरलैंड्स के प्रधानमंत्री ने भारत में मीडिया और अल्प प्रधानमंत्री नरेंद्र मोदी अपनी मौजूदा पांच देशों की यात्रा के दौरान शनिवार को नीदरलैंड्स का दौरा कर चुके थे. कथित तौर पर नीदरलैंड्स के प्रधानमंत्री ने दौरे से ठीक पहले भारत को लेकर टिप्पणी की थी.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत में मीडिया और अल्पसंख्यकों पर डच पीएम की 'चिंता' का मोदी सरकार ने दिया ये जवाब",
-          "summary": "नीदरलैंड्स के प्रधानमंत्री ने भारत में मीडिया और अल्प प्रधानमंत्री नरेंद्र मोदी अपनी मौजूदा पांच देशों की यात्रा के दौरान शनिवार को नीदरलैंड्स का दौरा कर चुके थे. कथित तौर पर नीदरलैंड्स के प्रधानमंत्री ने दौरे से ठीक पहले भारत को लेकर टिप्पणी की थी.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "क्या ईरान पर हमला करने जा रहा अमेरिका? ट्रंप के ‘लाल तीर’ वाले नक्शे ने बढ़ाई दुनिया की टेंशन",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2JOU283aHFTYzBDd3pZczd0Qi13YThOSzF1WU1rX2lqbHRQZDlLZ2ZzV0NoS0FNUm96ZFhZZndWMEtROFVaT3JrcmhJSTJZSHVaaEtBVXM3Y0JRLV9lcVlWOGM2c3p3em5fZE5ZQ25jODhET3FJRDBpTG01VmV6dmU4Vnh1N3Z0RXgxZ0hJUG9SQ3NKUFR5Q2JtUUp4MmJMZjU1ZjI1LU9hYzNKTW82TjBTRHd2blIxcnNZZnVB0gHDAUFVX3lxTE5vUlNMTmhhMVJhS3NRMFZDM2NFaEV2SEMxN3V4ZWFFc3dkb21sTGhQRFNKRXBCaFJCbElnVnRvSmM1WUZPZHBvbktKcDZCSEJwRFVjclgwMV84bDB3Uk1LOFlnNTJIeUc2Yk9FQ1liNVlmSDFndlBQbWZrdEZ6dUowTFhiSU9hR0VRejFqX0pzamZtVEpBNnBwcldiZWpiSlF4WG1aVVpRUkhHRXZtMEFxODdCNEtuMlpzWjFNRVhEVkMzZw?oc=5",
-      "source": "Google News Hindi (युद्ध संघर्ष)",
-      "sources": [],
-      "published_at": "2026-05-18T06:52:38+00:00",
-      "image_url": "https://images.pexels.com/photos/8828624/pexels-photo-8828624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "डोनाल्ड ट्रंप ने एक नक्शा ट्वीट किया जिसमें ईरान पर लाल तीर का निशान था। यह नक्शा 2020 में इराक में एक ड्रोन हमले में ईरानी जनरल कासिम सुलेमानी की मौत के बाद पोस्ट किया गया था। इस पोस्ट ने ईरान और अमेरिका के बीच तनाव को और बढ़ा दिया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या ईरान पर हमला करने जा रहा अमेरिका? ट्रंप के ‘लाल तीर’ वाले नक्शे ने बढ़ाई दुनिया की टेंशन",
-          "summary": "डोनाल्ड ट्रंप ने एक नक्शा ट्वीट किया जिसमें ईरान पर लाल तीर का निशान था। यह नक्शा 2020 में इराक में एक ड्रोन हमले में ईरानी जनरल कासिम सुलेमानी की मौत के बाद पोस्ट किया गया था। इस पोस्ट ने ईरान और अमेरिका के बीच तनाव को और बढ़ा दिया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सीएम विजय की नई रणनीति, मुख्यमंत्री कार्यालय करेगा अब हर विभाग की निगरानी",
-      "url": "https://www.amarujala.com/india-news/tamil-nadu-cm-c-joseph-vijay-cmo-officials-government-department-senthilkumar-lakshmi-priya-chennai-news-2026-05-18",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-18T06:28:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/makhayamatara-vajaya-khatha-karaga-hara-vabhaga-ka-nagarana_9c8047bc8eebf0e9f6060b6a815f1107.png?w=750&dpr=1.0",
-      "summary": "मुख्यमंत्री एम. के. स्टालिन ने तमिलनाडु में सभी सरकारी विभागों की निगरानी के लिए एक नई प्रणाली शुरू की है। मुख्यमंत्री कार्यालय अब सीधे तौर पर प्रत्येक विभाग के प्रदर्शन और प्रगति की समीक्षा करेगा। इस कदम का उद्देश्य सरकारी योजनाओं के कार्यान्वयन में तेजी लाना और जवाबदेही बढ़ाना है। यह नई व्यवस्था विभागों के बीच समन्वय को भी बेहतर बनाएगी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीएम विजय की नई रणनीति, मुख्यमंत्री कार्यालय करेगा अब हर विभाग की निगरानी",
-          "summary": "मुख्यमंत्री एम. के. स्टालिन ने तमिलनाडु में सभी सरकारी विभागों की निगरानी के लिए एक नई प्रणाली शुरू की है। मुख्यमंत्री कार्यालय अब सीधे तौर पर प्रत्येक विभाग के प्रदर्शन और प्रगति की समीक्षा करेगा। इस कदम का उद्देश्य सरकारी योजनाओं के कार्यान्वयन में तेजी लाना और जवाबदेही बढ़ाना है। यह नई व्यवस्था विभागों के बीच समन्वय को भी बेहतर बनाएगी।",
-          "region": "दुनिया"
         }
       }
     }
