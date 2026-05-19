@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-05-19T00:09:29.711838+00:00",
-  "article_count": 50,
-  "total_unique_count": 357,
+  "generated_at": "2026-05-19T05:03:38.213458+00:00",
+  "article_count": 47,
+  "total_unique_count": 374,
   "digest": {
-    "en": "The Iran nuclear program and its regional implications dominate headlines. U.S. airport screenings for Ebola and infectious disease warnings add a public health dimension. Mexico faces pressure over cartel ties.",
-    "hi": "नार्वे की पत्रकार ने राहुल गांधी से सवाल पूछा। रूसी तेल खरीद पर अमेरिका ने बड़ी राहत दी। UAE के परमाणु संयंत्र पर ड्रोन हमले के बाद सुरक्षा पर ज़ोर है।"
+    "en": "The US has tightened curbs after a citizen tested positive for an unspecified illness. Trump delayed an attack on Iran at the request of Gulf leaders. The WHO assembly opened under the shadow of Ebola, hantavirus, and funding cuts.",
+    "hi": "रूसी तेल खरीद पर अमेरिका ने फिर दी बड़ी राहत। प्रतिबंधों में 30 दिन की छूट दी गई है। भारत पर इसका असर देखा जा रहा है।"
   },
   "articles": [
     {
-      "title": "U.S. to screen for Ebola at airports, one American in Democratic Republic of Congo infected",
-      "url": "https://www.thehindu.com/news/international/us-to-screen-for-ebola-at-airports-one-american-in-democratic-republic-of-congo-infected/article70995744.ece",
-      "source": "The Hindu (International)",
+      "title": "US Tightens Curbs After Citizen Tests Positive",
+      "url": "https://www.ndtv.com/health/us-tightens-curbs-after-american-citizen-tests-positive-for-ebola-11514906#publisher=newsstand",
+      "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-05-18T23:31:35+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/3hqj1m/article70995745.ece/alternates/LANDSCAPE_1200/2026-05-18T183425Z_1449638038_RC2QBLA07G6L_RTRMADP_3_HEALTH-EBOLA.JPG",
-      "summary": "The United States Centers for Disease Control and Prevention will screen for Ebola at airports The measures shared by the U. S. Centers for Disease Control and Prevention (CDC) come as the World Health Organisation has declared the deadly Ebola outbreak in the Democratic Republic of Congo (DRC) an international health emergency.",
+      "published_at": "2026-05-19T04:48:36+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/bjs0v108_ebola_625x300_18_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "The Trump administration imposed new travel restrictions and emergency measures. Washington, May 19 (IANS) The Trump administration announced new travel restrictions and emergency measures after an American citizen tested positive for a strain of Ebola in Africa, even as officials stressed there were currently no cases inside the.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -37,9 +37,33 @@
           "source": "The Hindu (International)"
         }
       ],
-      "published_at": "2026-05-18T20:18:14+00:00",
+      "published_at": "2026-05-19T02:23:14+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/w9jqup/article70995561.ece/alternates/LANDSCAPE_1200/Trump-Nigeria-G0NG0A4R0.3.jpg.jpg",
       "summary": "Donald Trump stated he delayed a strike on Iran at the request of Gulf leaders. He had previously instructed military action to be ready for a large-scale assault. This decision came as negotiations for an acceptable deal continued. Donald Trump said he had “further instructed them to be prepared to go forward with a full, large scale assault of Iran, on a moment’s notice, in the event that an acceptable Deal is not reached”.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump’s shifting remarks on Taiwan are perfect for China to exploit",
+      "url": "https://www.theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-19T00:22:53+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/ae774700c4fa9de0d4e52cd846d8da726ed23ccd/283_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfffd0bed05d8aeab64e0193bd95f152",
+      "summary": "Donald Trump stated that arms deals with Taiwan were a \"negotiating chip\" with Beijing. Chinese state media has amplified these remarks. Taiwan's government has expressed concern over the unpredictable US leader's stance. President’s remarks about Taiwan arms deals being a ‘negotiating chip’ with Beijing have been seized on by Chinese state mediaIt has been an unsettling few days for Taiwan’s government.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. to screen for Ebola at airports, one American in Democratic Republic of Congo infected",
+      "url": "https://www.thehindu.com/news/international/us-to-screen-for-ebola-at-airports-one-american-in-democratic-republic-of-congo-infected/article70995744.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-18T23:31:35+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/3hqj1m/article70995745.ece/alternates/LANDSCAPE_1200/2026-05-18T183425Z_1449638038_RC2QBLA07G6L_RTRMADP_3_HEALTH-EBOLA.JPG",
+      "summary": "The United States Centers for Disease Control and Prevention will screen for Ebola at airports The measures shared by the U. S. Centers for Disease Control and Prevention (CDC) come as the World Health Organisation has declared the deadly Ebola outbreak in the Democratic Republic of Congo (DRC) an international health emergency.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -53,42 +77,6 @@
       "image_url": "https://i.guim.co.uk/img/media/e4bd6c0f89583f7db93d2b85f6663a53c5a9f69f/490_0_3298_2638/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=234bcf49363cdd2c47055b4f73f3316c",
       "summary": "Two former Sinaloa state officials surrendered to US authorities over alleged ties to the Sinaloa cartel. Gerardo Mérida Sánchez, the state's former security minister, and another ex-official are now in US custody. Mexican president Claudia Sheinbaum denies any links between her Morena party and organized crime.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Starbucks Korea CEO resigns over ad evoking massacre of pro-democracy protesters",
-      "url": "https://www.theguardian.com/business/2026/may/18/ceo-starbucks-in-south-korea-fired-over-controversial-ad-campaign",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-18T16:50:11+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/0b1155ff1abba2f4441791cd4ae4e52cf20f34e7/231_0_4573_3660/master/4573.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e86d062f13decf107427c7834ff9d9c6",
-      "summary": "Starbucks Korea CEO resigned after a promotional campaign evoked the 1980 Gwangju massacre. The \"Tank Day\" event used slogans that mocked the military crackdown on pro-democracy protesters. The campaign sparked widespread outrage and calls for boycotts in South Korea.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran submits new proposal, says U.S. open to sanctions relief",
-      "url": "https://www.thehindu.com/news/international/iran-submits-new-proposal-says-us-open-to-sanctions-relief/article70995124.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-18T16:14:41+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/u7qa1r/article70995206.ece/alternates/LANDSCAPE_1200/2026-05-18T022541Z_238514796_RC25BLA82DY1_RTRMADP_3_IRAN-CRISIS-PAKISTAN.JPG",
-      "summary": "Iran established the Persian Gulf Strait Authority to control maritime traffic. All ships transiting the Strait must obtain confirmation from the PSGA regarding its rules. This move asserts Iranian control over a vital global shipping lane. On May 17, Iran unveiled a new body, the Persian Gulf Strait Authority (PSGA), to control the Strait; according to the new mechanism, all ships seeking to transit the Strait should get a confirmation message, about “ruled and regulations” from the PGSA.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Clock is ticking for Iran, says Trump | Above the Fold | 18.05.2026",
-      "url": "https://www.thehindu.com/videos/watch-clock-is-ticking-for-iran-says-trump-above-the-fold-18052026/article70995080.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-18T15:35:47+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/national/teg3e3/article70995069.ece/alternates/LANDSCAPE_1200/MAY%2018%20THUMB%20FINAL.png",
-      "summary": "President Trump issued a new warning to Iran, increasing fears of U. S. military action. Tensions in West Asia remain elevated following the statement. The report also touched on other international and domestic news. In today’s episode: Trump’s latest warning raises fears of new U. strikes on Iran and escalating tensions in West Asia.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -113,18 +101,6 @@
       "image_url": "https://i.guim.co.uk/img/media/35e7634a622949564880471c6984935380e5e17e/259_0_2596_2076/master/2596.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d20c4d2df022e88399849f2113fcd968",
       "summary": "Cuban President Miguel Díaz-Canel warned of a \"bloodbath\" if the U. S. takes military action. This statement follows reports of over 300 drones. Díaz-Canel stated Cuba does not pose a threat. Cuba’s president, Miguel Díaz-Canel, says any US strike would be catastrophic after reports of 300+ dronesCuba’s president, Miguel Díaz-Canel, has warned that any US military action against his country would lead to a “bloodbath” with incalculable consequences for regional peace and stability.“Cuba does not represent a threat,” Díaz-Canel said in a post on X.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "No Ebola Case In India, Airports Put On Alert After WHO Warning",
-      "url": "https://www.ndtv.com/health/no-ebola-case-in-india-airports-put-on-alert-after-who-warning-11513225#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-18T14:38:39+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/bjs0v108_ebola_625x300_18_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "India has reviewed airport screening and surveillance protocols. This action follows a World Health Organization warning regarding Ebola. The National Institute of Virology in Pune is prepared for testing. The Centre has reviewed standard operating procedures for screening, surveillance, quarantine and case management, while laboratory preparedness is also being ramped up.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -168,7 +144,20 @@
       "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167540",
       "source": "UN News",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167540",
+          "source": "UN News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEZ3IteTFXWW52RVJ6Wm1sTFhTYW1qdm04cUt6d0R5ZEdUNDBNX2tjZjZYTnp2N25KVExKZ1d2aENlMDkzY3o2Sk53UmxnTE5sZ0JudWVFSQ?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEZ3IteTFXWW52RVJ6Wm1sTFhTYW1qdm04cUt6d0R5ZEdUNDBNX2tjZjZYTnp2N25KVExKZ1d2aENlMDkzY3o2Sk53UmxnTE5sZ0JudWVFSQ?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
       "published_at": "2026-05-18T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/25-07-2025_Unsplash_Abu-Dhabi.jpg/image770x420cropped.jpg",
       "summary": "The UN atomic watchdog chief emphasized nuclear security in wartime. The head of the UN atomic watchdog on Monday underscored the need to safeguard nuclear security in wartime, a day after a drone strike near the sole nuclear power plant in the United Arab Emirates (UAE).",
@@ -298,18 +287,6 @@
       "translations": {}
     },
     {
-      "title": "Donald Trump does ‘not feel optimistic’ for Jimmy Lai after speaking with Xi Jinping",
-      "url": "https://www.theguardian.com/world/2026/may/16/trump-not-optimistic-jimmy-lai-release-xi-jinping",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-16T03:28:49+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/d0229e9ef43e81b30efe42a7ae32185391d7d6b4/155_0_2313_1850/master/2313.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2080b733243caa45db5a7ef6ba89cc8",
-      "summary": "United States President Donald Trump spoke with Chinese leader Xi Jinping about jailed Hong Kong activist Jimmy Lai. Trump raised Lai's case during their talks. Xi Jinping described the situation as \"a tough one.\" Lai's family had hoped for his release.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167528",
       "source": "UN News",
@@ -334,24 +311,6 @@
       "translations": {}
     },
     {
-      "title": "नार्वे की पत्रकार के सवाल पर राहुल गांधी का PM पर तंज, दूतावास बोला- प्रेस वार्ता में आइए, स्वागत है",
-      "url": "https://www.amarujala.com/india-news/rahul-gandhi-targets-pm-modi-over-video-by-norwegian-journalist-says-world-sees-compromised-pm-panic-2026-05-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-19T07:09:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/rahal-gathha-kagarasa-nata_60c592145436dca94dcd5c6592919b31.png?w=750&dpr=1.0",
-      "summary": "राहुल गांधी ने नॉर्वे की एक पत्रकार द्वारा साझा किए गए वीडियो पर प्रधानमंत्री नरेंद्र मोदी पर निशाना साधा। वीडियो में प्रधानमंत्री को कथित तौर पर घबराया हुआ दिखाया गया है। गांधी ने कहा कि दुनिया भारत के प्रधानमंत्री को इस तरह देख रही है। यह टिप्पणी उस समय आई जब प्रधानमंत्री मोदी विदेश यात्रा पर थे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नार्वे की पत्रकार के सवाल पर राहुल गांधी का PM पर तंज, दूतावास बोला- प्रेस वार्ता में आइए, स्वागत है",
-          "summary": "राहुल गांधी ने नॉर्वे की एक पत्रकार द्वारा साझा किए गए वीडियो पर प्रधानमंत्री नरेंद्र मोदी पर निशाना साधा। वीडियो में प्रधानमंत्री को कथित तौर पर घबराया हुआ दिखाया गया है। गांधी ने कहा कि दुनिया भारत के प्रधानमंत्री को इस तरह देख रही है। यह टिप्पणी उस समय आई जब प्रधानमंत्री मोदी विदेश यात्रा पर थे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "रूसी तेल खरीद पर अमेरिका ने फिर दी बड़ी राहत, प्रतिबंधों में 30 दिन की छूट; जानें भारत पर इसका असर",
       "url": "https://www.amarujala.com/world/us-extends-waiver-on-russian-oil-stranded-at-sea-for-30-days-to-aid-vulnerable-nations-know-impact-on-india-2026-05-19",
       "source": "Amar Ujala World",
@@ -370,433 +329,451 @@
       }
     },
     {
-      "title": "UAE के परमाणु संयंत्र पर ड्रोन हमले के बाद परमाणु स्थलों की सुरक्षा पर ज़ोर",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4ZU9jTHJtR0w3eEVncjVWRTZzUTRkbXl0QVZIS19MUl9RSWthel9ZZTUwd1c1Yl9uOXlsb3N5NW9LbEJXS3lwcXpXcWF5YnZRdzB2UjNsRQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "title": "संवाद में शिरकत करेंगे आईआईएम के निदेशक, एआई कैंपसेस समेत इन मुद्दों पर होगी बात",
+      "url": "https://www.amarujala.com/education/amar-ujala-samwad-2026-iim-director-to-join-discussion-on-ai-campuses-and-key-education-issues-2026-05-17",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-18T23:59:54+00:00",
-      "image_url": "https://images.pexels.com/photos/29212692/pexels-photo-29212692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त अरब अमीरात के परमाणु ऊर्जा संयंत्र पर ड्रोन हमले के बाद, संयुक्त राष्ट्र ने परमाणु स्थलों की सुरक्षा को मजबूत करने का आह्वान किया है। यह घटना परमाणु ऊर्जा के शांतिपूर्ण उपयोग के लिए अंतरराष्ट्रीय सुरक्षा मानकों को बनाए रखने के महत्व को रेखांकित करती है। संयुक्त राष्ट्र इस मुद्दे पर सदस्य देशों के साथ मिलकर काम करने के लिए प्रतिबद्ध है।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-19T05:01:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/amar-ujala-samwad-2026_9970da09c9c1c62cb28d989d242277dd.jpeg?w=750&dpr=1.0",
+      "summary": "अमर उजाला समूह 19 मई को उत्तर प्रदेश Amar Ujala Samwad 2026: अमर उजाला समूह उत्तर प्रदेश की राजधानी में संवाद उत्तर प्रदेश 2026 का आयोजन करने जा रहा है, जो 19 मई को होगा। इस महामंथन में आईआईएम के निदेशक प्रो. मनमोहन प्रसाद गुप्ता भी शिरकत करेंगे।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "UAE के परमाणु संयंत्र पर ड्रोन हमले के बाद परमाणु स्थलों की सुरक्षा पर ज़ोर",
-          "summary": "संयुक्त अरब अमीरात के परमाणु ऊर्जा संयंत्र पर ड्रोन हमले के बाद, संयुक्त राष्ट्र ने परमाणु स्थलों की सुरक्षा को मजबूत करने का आह्वान किया है। यह घटना परमाणु ऊर्जा के शांतिपूर्ण उपयोग के लिए अंतरराष्ट्रीय सुरक्षा मानकों को बनाए रखने के महत्व को रेखांकित करती है। संयुक्त राष्ट्र इस मुद्दे पर सदस्य देशों के साथ मिलकर काम करने के लिए प्रतिबद्ध है।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "संवाद में शिरकत करेंगे आईआईएम के निदेशक, एआई कैंपसेस समेत इन मुद्दों पर होगी बात",
+          "summary": "अमर उजाला समूह 19 मई को उत्तर प्रदेश Amar Ujala Samwad 2026: अमर उजाला समूह उत्तर प्रदेश की राजधानी में संवाद उत्तर प्रदेश 2026 का आयोजन करने जा रहा है, जो 19 मई को होगा। इस महामंथन में आईआईएम के निदेशक प्रो. मनमोहन प्रसाद गुप्ता भी शिरकत करेंगे।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "अमेरिकी राष्ट्रपति ट्रंप की ईरान को चेतावनी से उछला कच्चा तेल, बढ़ी महंगाई की आशंका",
-      "url": "https://www.amarujala.com/world/donald-trump-warning-to-iran-pushes-crude-oil-prices-higher-inflation-fears-rise-2026-05-19",
-      "source": "Amar Ujala World",
+      "title": "मृणाल और जैकलीन के साथ नुसरत ने मनाया 41वें जन्मदिन का जश्न, साझा की तस्वीरें; पार्टी में शामिल हुए",
+      "url": "https://www.amarujala.com/entertainment/bollywood/nusrat-bharuccha-shared-her-birthday-inside-photos-with-mrunal-thakur-and-rakulpreet-singh-on-social-media-2026-05-19",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-18T23:47:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/donald-trump_3a8440bf3141af8a22161c8e9f6bf5c5.png?w=750&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है। इसके बाद कच्चे तेल की कीमतों में वृद्धि हुई है। इससे वैश्विक स्तर पर महंगाई बढ़ने की आशंका है। अमेरिकी राष्ट्रपति ट्रंप की ईरान को चेतावनी से उछला कच्चा तेल, बढ़ी महंगाई की आशंका।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-19T04:59:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/nasarata-bhanprca_d4046c3880886a12abed5ad3369d8b58.jpeg?w=750&dpr=1.0",
+      "summary": "नुसरत भरूचा ने अपना 41वां जन्मदिन मनाया। नुसरत भरूचा ने अपने जन्मदिन की शानदार पार्टी रखी जिसमें उनके करीबी दोस्त और फिल्मी दुनिया के कई सितारे भी शामिल हुए। देखें पार्टी के इनसाइड फोटोज-। मृणाल और जैकलीन के साथ नुसरत ने मनाया 41वें जन्मदिन का जश्न, साझा की तस्वीरें; पार्टी में शामिल हुए।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिकी राष्ट्रपति ट्रंप की ईरान को चेतावनी से उछला कच्चा तेल, बढ़ी महंगाई की आशंका",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है। इसके बाद कच्चे तेल की कीमतों में वृद्धि हुई है। इससे वैश्विक स्तर पर महंगाई बढ़ने की आशंका है। अमेरिकी राष्ट्रपति ट्रंप की ईरान को चेतावनी से उछला कच्चा तेल, बढ़ी महंगाई की आशंका।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "मृणाल और जैकलीन के साथ नुसरत ने मनाया 41वें जन्मदिन का जश्न, साझा की तस्वीरें; पार्टी में शामिल हुए",
+          "summary": "नुसरत भरूचा ने अपना 41वां जन्मदिन मनाया। नुसरत भरूचा ने अपने जन्मदिन की शानदार पार्टी रखी जिसमें उनके करीबी दोस्त और फिल्मी दुनिया के कई सितारे भी शामिल हुए। देखें पार्टी के इनसाइड फोटोज-। मृणाल और जैकलीन के साथ नुसरत ने मनाया 41वें जन्मदिन का जश्न, साझा की तस्वीरें; पार्टी में शामिल हुए।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "'भारत पर दुनिया भरोसा क्यों करे?' नॉर्वे की पत्रकार के तीखे सवाल पर सिबी जॉर्ज का करारा जवाब",
-      "url": "https://www.amarujala.com/world/pms-norway-visit-why-should-world-trust-india-sibi-georges-sharp-reply-to-norwegian-journalists-point-question-2026-05-19",
-      "source": "Amar Ujala World",
+      "title": "रूस से तेल खरीदता रहेगा भारत,एमईए ने दे दिया ट्रंप को तीखा जवाब",
+      "url": "https://www.amarujala.com/video/india-news/india-imports-oil-from-russia-india-will-continue-to-buy-oil-from-russia-mea-gives-a-sharp-reply-to-trump-2026-05-19",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-18T23:23:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/sab-jaraja_045f42369e29fcbcbb7d3b7ab067eab4.png?w=750&dpr=1.0",
-      "summary": "भारत के विदेश सचिव सिबी जॉर्ज ने नॉर्वे की एक पत्रकार PM Norway Visit: 'भारत पर दुनिया भरोसा क्यों करे?' नॉर्वे की पत्रकार के तीखे सवाल पर सिबी जॉर्ज का करारा जवाब।",
+      "published_at": "2026-05-19T04:59:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/russia-india-oil-trade_f11f28d82a4679b95d963dccb396adf9.jpeg?w=750&dpr=1.0",
+      "summary": "भारत रूस से तेल खरीदना जारी रखेगा। विदेश मंत्रालय ने इस संबंध में अपना रुख स्पष्ट किया है। यह निर्णय अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप की ओर से भारत को रूस से तेल न खरीदने की सलाह के बाद आया है। भारत अपनी ऊर्जा सुरक्षा को प्राथमिकता देता है।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'भारत पर दुनिया भरोसा क्यों करे?' नॉर्वे की पत्रकार के तीखे सवाल पर सिबी जॉर्ज का करारा जवाब",
-          "summary": "भारत के विदेश सचिव सिबी जॉर्ज ने नॉर्वे की एक पत्रकार PM Norway Visit: 'भारत पर दुनिया भरोसा क्यों करे?' नॉर्वे की पत्रकार के तीखे सवाल पर सिबी जॉर्ज का करारा जवाब।",
+          "title": "रूस से तेल खरीदता रहेगा भारत,एमईए ने दे दिया ट्रंप को तीखा जवाब",
+          "summary": "भारत रूस से तेल खरीदना जारी रखेगा। विदेश मंत्रालय ने इस संबंध में अपना रुख स्पष्ट किया है। यह निर्णय अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप की ओर से भारत को रूस से तेल न खरीदने की सलाह के बाद आया है। भारत अपनी ऊर्जा सुरक्षा को प्राथमिकता देता है।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "उत्तर भारत में लू का प्रहार तेज, सात दिन में पारा पहुंचेगा 45 डिग्री के पार; मौसम का असामान्य रुख",
-      "url": "https://www.amarujala.com/india-news/heatwave-intensifies-north-india-temperature-likely-to-cross-45-degree-in-seven-days-unusual-weather-patterns-2026-05-19",
-      "source": "Amar Ujala Breaking",
+      "title": "23वीं किस्त किसे मिलेगी और किसे नहीं? यहां जानें किसान",
+      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-yojana-23rd-installment-who-is-eligible-for-23th-installment-check-here-2026-05-19",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-18T23:23:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/weather-updates_917ec34c2d965d2d529f63dc8c0f0b7b.png?w=750&dpr=1.0",
-      "summary": "उत्तर भारत में लू का प्रकोप बढ़ गया है। उत्तर भारत में लू का प्रहार तेज, सात दिन में पारा पहुंचेगा 45 डिग्री के पार; मौसम का असामान्य रुख।",
+      "published_at": "2026-05-19T04:58:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/paema-kasana-yajana-ka-le-faramara-aaiida-kaya-janprra-ha_437b2217ffd81159199751d44eb69b9d.jpeg?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री किसान सम्मान निधि योजना के तहत 23वीं किस्त का लाभ लेने के लिए लाभार्थियों को कुछ पात्रता मानदंडों को पूरा करना होगा। यह सुनिश्चित करने के लिए कि आपको अगली किस्त मिले, आपको योजना के दिशानिर्देशों की जांच करनी चाहिए। योजना के तहत लाभ केवल उन्हीं किसानों को मिलेगा जो निर्धारित शर्तों को पूरा करते हैं।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "23वीं किस्त किसे मिलेगी और किसे नहीं? यहां जानें किसान",
+          "summary": "प्रधानमंत्री किसान सम्मान निधि योजना के तहत 23वीं किस्त का लाभ लेने के लिए लाभार्थियों को कुछ पात्रता मानदंडों को पूरा करना होगा। यह सुनिश्चित करने के लिए कि आपको अगली किस्त मिले, आपको योजना के दिशानिर्देशों की जांच करनी चाहिए। योजना के तहत लाभ केवल उन्हीं किसानों को मिलेगा जो निर्धारित शर्तों को पूरा करते हैं।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "दीमक ने कर दिया फर्नीचर खराब? ये ट्रिक मिनटों में दिखाएगी असर",
+      "url": "https://www.amarujala.com/lifestyle/how-to-remove-termites-naturally-from-wood-furniture-dimak-bhagane-ke-gharelu-upay-2026-05-18",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T04:55:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/dimak-se-kaise-furniture-bachayen_549000ad7171213f38e526121d973d80.jpeg?w=750&dpr=1.0",
+      "summary": "दीमक से खराब हुए फर्नीचर को बचाने के लिए घरेलू नुस्खे अपनाए जा सकते हैं। नींबू और नमक का घोल दीमक को भगाने में मदद कर सकता है। जानिए दीमक भगाने के आसान घरेलू नुस्खे, बचाव के तरीके और लकड़ी के फर्नीचर को सुरक्षित रखने के टिप्स।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दीमक ने कर दिया फर्नीचर खराब? ये ट्रिक मिनटों में दिखाएगी असर",
+          "summary": "दीमक से खराब हुए फर्नीचर को बचाने के लिए घरेलू नुस्खे अपनाए जा सकते हैं। नींबू और नमक का घोल दीमक को भगाने में मदद कर सकता है। जानिए दीमक भगाने के आसान घरेलू नुस्खे, बचाव के तरीके और लकड़ी के फर्नीचर को सुरक्षित रखने के टिप्स।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आज से तुम ससुर को पिता और मुझे मां कहना, बहू का जवाब सुनकर सास के होश उड़ गए",
+      "url": "https://www.amarujala.com/photo-gallery/humour/saas-bahu-funny-chutkule-in-hindi-saas-damad-viral-jokes-whatsapp-new-jokes-2026-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T04:54:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/12/15/saas-bahu-jokes_acf0ddc0d980078a40554dfad78f5468.jpeg?w=750&dpr=1.0",
+      "summary": "भारतीय राजदूत क्वात्रा ने कहा कि 2014 के बाद भारत में आर्थिक बदलाव भारत-अमेरिका संबंधों की नींव बने। हंसने से इंसान को मानसिक तनाव और चिंता जैसी समस्याएं नहीं होती हैं। स्वस्थ रहने के लिए सुबह और शाम हंसने की आदत डाल लेनी चाहिए। ऐसे में अगर आप हर दिन नियमित रूप से हंसते हैं, तो सेहत को काफी फायदा होता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज से तुम ससुर को पिता और मुझे मां कहना, बहू का जवाब सुनकर सास के होश उड़ गए",
+          "summary": "भारतीय राजदूत क्वात्रा ने कहा कि 2014 के बाद भारत में आर्थिक बदलाव भारत-अमेरिका संबंधों की नींव बने। हंसने से इंसान को मानसिक तनाव और चिंता जैसी समस्याएं नहीं होती हैं। स्वस्थ रहने के लिए सुबह और शाम हंसने की आदत डाल लेनी चाहिए। ऐसे में अगर आप हर दिन नियमित रूप से हंसते हैं, तो सेहत को काफी फायदा होता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'2014 के बाद हुए आर्थिक बदलाव बने भारत-अमेरिका संबंधों की नींव', भारतीय राजदूत क्वात्रा का बयान",
+      "url": "https://www.amarujala.com/india-news/india-economic-transformation-post-2014-anchor-point-of-ties-with-us-claim-india-us-ambassador-kwatra-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T04:50:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/10/vinay-mohan-kwatra_8798a015841f88aac6593f8db02c1f22.jpeg?w=750&dpr=1.0",
+      "summary": "मुख्यमंत्री विजय ने तृषा कृष्णन की फिल्म ‘करुप्पु’ की सफलता पर बधाई दी। '2014 के बाद हुए आर्थिक बदलाव बने भारत-अमेरिका संबंधों की नींव', भारतीय राजदूत क्वात्रा का बयान।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "उत्तर भारत में लू का प्रहार तेज, सात दिन में पारा पहुंचेगा 45 डिग्री के पार; मौसम का असामान्य रुख",
-          "summary": "उत्तर भारत में लू का प्रकोप बढ़ गया है। उत्तर भारत में लू का प्रहार तेज, सात दिन में पारा पहुंचेगा 45 डिग्री के पार; मौसम का असामान्य रुख।",
+          "title": "'2014 के बाद हुए आर्थिक बदलाव बने भारत-अमेरिका संबंधों की नींव', भारतीय राजदूत क्वात्रा का बयान",
+          "summary": "मुख्यमंत्री विजय ने तृषा कृष्णन की फिल्म ‘करुप्पु’ की सफलता पर बधाई दी। '2014 के बाद हुए आर्थिक बदलाव बने भारत-अमेरिका संबंधों की नींव', भारतीय राजदूत क्वात्रा का बयान।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "सेहत, सियासत और मनोरंजन के रंगों से सजेगा मंच, अखिलेश यादव समेत ये दिग्गज करेंगे शिरकत",
-      "url": "https://www.amarujala.com/lucknow/day-2-of-amar-ujala-samwad-2026-several-stalwarts-including-akhilesh-yadav-to-participate-today-2026-05-19",
-      "source": "Amar Ujala Breaking",
+      "title": "तृषा की फिल्म ‘करुप्पु’ की सफलता पर सीएम विजय ने दी बधाई, मेकर्स ने जताई खुशी; कही ये बात",
+      "url": "https://www.amarujala.com/entertainment/south-cinema/cm-vijay-wishes-and-congratulate-suriya-and-trisha-krishnan-starrer-karuppu-on-box-office-success-strong-2026-05-19",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-18T23:18:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/amara-ujal-savatha-2026_28afeef0df797dc67a47ff305eb2ec31.png?w=750&dpr=1.0",
-      "summary": "केंद्रीय स्वास्थ्य और परिवार कल्याण राज्य मंत्री अनुप्रिया पटेल मंगलवार को अमर उजाला संवाद के दूसरे दिन चर्चा करेंगी। यह कार्यक्रम सेहत, सियासत और मनोरंजन के विषयों पर केंद्रित होगा। इसमें अखिलेश यादव सहित कई अन्य प्रमुख हस्तियां भी भाग लेंगी। अमर उजाला संवाद का दूसरा दिन मंगलवार को सेहत, सियासत और मनोरंजन के रंगों से सजा नजर आएगा।",
+      "published_at": "2026-05-19T04:45:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/saema-vajaya-na-tha-karapapa-ka-tama-ka-bthhaii_8a3c4ec98f12936ddb004da3840df330.jpeg?w=750&dpr=1.0",
+      "summary": "अभिनेता माइकल केली ने ‘जैक रायन घोस्ट वॉर’ फिल्म के बारे में जानकारी साझा की। मुख्यमंत्री विजय ने तृषा कृष्णन की फिल्म ‘करुप्पु’ की सफलता के लिए बधाई दी है। जानिए सीएम ने फिल्म को लेकर क्या कहा, जिस पर मेकर्स ने दिया आभार। तृषा की फिल्म ‘करुप्पु’ की सफलता पर सीएम विजय ने दी बधाई, मेकर्स ने जताई खुशी; कही ये बात।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सेहत, सियासत और मनोरंजन के रंगों से सजेगा मंच, अखिलेश यादव समेत ये दिग्गज करेंगे शिरकत",
-          "summary": "केंद्रीय स्वास्थ्य और परिवार कल्याण राज्य मंत्री अनुप्रिया पटेल मंगलवार को अमर उजाला संवाद के दूसरे दिन चर्चा करेंगी। यह कार्यक्रम सेहत, सियासत और मनोरंजन के विषयों पर केंद्रित होगा। इसमें अखिलेश यादव सहित कई अन्य प्रमुख हस्तियां भी भाग लेंगी। अमर उजाला संवाद का दूसरा दिन मंगलवार को सेहत, सियासत और मनोरंजन के रंगों से सजा नजर आएगा।",
+          "title": "तृषा की फिल्म ‘करुप्पु’ की सफलता पर सीएम विजय ने दी बधाई, मेकर्स ने जताई खुशी; कही ये बात",
+          "summary": "अभिनेता माइकल केली ने ‘जैक रायन घोस्ट वॉर’ फिल्म के बारे में जानकारी साझा की। मुख्यमंत्री विजय ने तृषा कृष्णन की फिल्म ‘करुप्पु’ की सफलता के लिए बधाई दी है। जानिए सीएम ने फिल्म को लेकर क्या कहा, जिस पर मेकर्स ने दिया आभार। तृषा की फिल्म ‘करुप्पु’ की सफलता पर सीएम विजय ने दी बधाई, मेकर्स ने जताई खुशी; कही ये बात।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "देश के कई बांध सूखे,13 बड़े जलाशयों में पानी आधे से कम; केंद्रीय आयोग की रिपोर्ट ने बढ़ाई चिंता",
-      "url": "https://www.amarujala.com/india-news/water-crisis-in-india-many-dams-dry-13-major-reservoirs-less-than-half-water-level-report-raises-concerns-2026-05-19",
-      "source": "Amar Ujala Breaking",
+      "title": "‘जैक रायन घोस्ट वॉर’ फिल्म फैंस को करेगी हैरान, अभिनेता माइकल केली ने साझा की खास जानकारी",
+      "url": "https://www.amarujala.com/entertainment/bollywood/tom-clancy-jack-ryan-ghost-war-actor-michael-kelly-says-fans-going-to-get-freaked-after-watch-movie-2026-05-19",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-18T22:50:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/reservoir_4e2308a2590e9bd430b116289ccffdf7.png?w=750&dpr=1.0",
-      "summary": "भारत के 13 प्रमुख जलाशयों में जलस्तर आधे से भी कम है। केंद्रीय जल आयोग की रिपोर्ट के अनुसार, कई बांध सूखे पड़े हैं। यह स्थिति देश में जल संकट की चिंता बढ़ा रही है। देश के कई बांध सूखे,13 बड़े जलाशयों में पानी आधे से कम; केंद्रीय आयोग की रिपोर्ट ने बढ़ाई चिंता।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "देश के कई बांध सूखे,13 बड़े जलाशयों में पानी आधे से कम; केंद्रीय आयोग की रिपोर्ट ने बढ़ाई चिंता",
-          "summary": "भारत के 13 प्रमुख जलाशयों में जलस्तर आधे से भी कम है। केंद्रीय जल आयोग की रिपोर्ट के अनुसार, कई बांध सूखे पड़े हैं। यह स्थिति देश में जल संकट की चिंता बढ़ा रही है। देश के कई बांध सूखे,13 बड़े जलाशयों में पानी आधे से कम; केंद्रीय आयोग की रिपोर्ट ने बढ़ाई चिंता।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'सर जो 101 सवाल बताए, वही आए': वायरल वीडियो से खुले कई राज, नीट पेपर लीक मामले में महाराष्ट्र से",
-      "url": "https://www.amarujala.com/india-news/neet-paper-leak-case-sixth-arrest-made-in-maharashtra-viral-video-exposes-secrets-2026-05-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-18T22:24:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/sabaaii-ka-jaca-ma-khalsa_e5a3c1bafcdb6426d615e8736795a2fa.png?w=750&dpr=1.0",
-      "summary": "नीट परीक्षा पेपर लीक मामले में महाराष्ट्र से छठी गिरफ्तारी हुई है। एक वायरल वीडियो से पता चला है कि परीक्षा से पहले ही छात्रों को प्रश्न बताए गए थे। 'सर जो 101 सवाल बताए, वही आए': वायरल वीडियो से खुले कई राज, नीट पेपर लीक मामले में महाराष्ट्र से छठी गिरफ्तारी।",
+      "published_at": "2026-05-19T04:43:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/ekatara-maikal-kal-oura-jana-karasasaka_8e3620eaff9a6ca0c621096af9949c9c.jpeg?w=750&dpr=1.0",
+      "summary": "ममता बनर्जी ने नवनिर्वाचित TMC विधायकों की बैठक बुलाई। इन दिनों ‘जैक रायन घोस्ट वॉर’ नाम की हॉलीवुड फिल्म चर्चा में है। यह फिल्म जल्द ही ओटीटी पर रिलीज होगी। हाल ही में फिल्म के कलाकारों ने कहानी को लेकर खास जानकारी साझा की है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'सर जो 101 सवाल बताए, वही आए': वायरल वीडियो से खुले कई राज, नीट पेपर लीक मामले में महाराष्ट्र से",
-          "summary": "नीट परीक्षा पेपर लीक मामले में महाराष्ट्र से छठी गिरफ्तारी हुई है। एक वायरल वीडियो से पता चला है कि परीक्षा से पहले ही छात्रों को प्रश्न बताए गए थे। 'सर जो 101 सवाल बताए, वही आए': वायरल वीडियो से खुले कई राज, नीट पेपर लीक मामले में महाराष्ट्र से छठी गिरफ्तारी।",
+          "title": "‘जैक रायन घोस्ट वॉर’ फिल्म फैंस को करेगी हैरान, अभिनेता माइकल केली ने साझा की खास जानकारी",
+          "summary": "ममता बनर्जी ने नवनिर्वाचित TMC विधायकों की बैठक बुलाई। इन दिनों ‘जैक रायन घोस्ट वॉर’ नाम की हॉलीवुड फिल्म चर्चा में है। यह फिल्म जल्द ही ओटीटी पर रिलीज होगी। हाल ही में फिल्म के कलाकारों ने कहानी को लेकर खास जानकारी साझा की है।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "अमर उजाला संवाद में अनुप्रिया पटेल से अखिलेश यादव तक जुड़ेंगे, PM मोदी नॉर्वे से इटली रवाना होंगे",
-      "url": "https://www.amarujala.com/india-news/aaj-ke-din-from-amar-ujala-samwad-up-samwad-2026-to-pm-narendra-modi-europe-visit-and-amit-shah-bastar-meet-2026-05-19",
+      "title": "ममता बनर्जी ने बुलाई नवनिर्वाचित TMC विधायकों की बैठक, विपक्षी रणनीति पर होगी चर्चा",
+      "url": "https://www.amarujala.com/india-news/mamata-banerjee-has-convened-a-tmc-meeting-today-she-will-meet-with-party-mlas-to-formulate-future-strategy-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T04:42:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/mamata-bnaraja-bgal-ka-parava-makhayamatara_8402254d2d367c542d2d96bca0c55ade.png?w=750&dpr=1.0",
+      "summary": "भारत-अमेरिका संबंधों में आर्थिक बदलाव महत्वपूर्ण भूमिका निभा रहे हैं। ममता बनर्जी ने बुलाई नवनिर्वाचित TMC विधायकों की बैठक, विपक्षी रणनीति पर होगी चर्चा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ममता बनर्जी ने बुलाई नवनिर्वाचित TMC विधायकों की बैठक, विपक्षी रणनीति पर होगी चर्चा",
+          "summary": "भारत-अमेरिका संबंधों में आर्थिक बदलाव महत्वपूर्ण भूमिका निभा रहे हैं। ममता बनर्जी ने बुलाई नवनिर्वाचित TMC विधायकों की बैठक, विपक्षी रणनीति पर होगी चर्चा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कॅरिअर ब्रेक के बाद वापसी का बढ़ा ट्रेंड, नई स्किल्स और आत्मविश्वास बन रहे सफलता की कुंजी",
+      "url": "https://www.amarujala.com/education/restarting-careers-after-a-break-learning-opens-new-doors-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T04:38:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/11/sakataka-tasavara_ad4c1fca9d20e9db3495f665328c707f.jpeg?w=750&dpr=1.0",
+      "summary": "करिअर ब्रेक के बाद वापसी का ट्रेंड बढ़ रहा है, नई स्किल्स और आत्मविश्वास सफलता की कुंजी बन रहे हैं। Harvard Business Review: करिअर में ब्रेक लेना अंत नहीं, बल्कि नई शुरुआत का मौका भी हो सकता है। बदलते समय में लोग नई स्किल्स सीखकर और आत्मविश्वास के साथ दोबारा अपने करिअर की शुरुआत कर रहे हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कॅरिअर ब्रेक के बाद वापसी का बढ़ा ट्रेंड, नई स्किल्स और आत्मविश्वास बन रहे सफलता की कुंजी",
+          "summary": "करिअर ब्रेक के बाद वापसी का ट्रेंड बढ़ रहा है, नई स्किल्स और आत्मविश्वास सफलता की कुंजी बन रहे हैं। Harvard Business Review: करिअर में ब्रेक लेना अंत नहीं, बल्कि नई शुरुआत का मौका भी हो सकता है। बदलते समय में लोग नई स्किल्स सीखकर और आत्मविश्वास के साथ दोबारा अपने करिअर की शुरुआत कर रहे हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "नागरिकता नियम में हुआ संशोधन, पाकिस्तान समेत इन देशों के आवेदकों के लिए नया नियम लागू",
+      "url": "https://www.amarujala.com/india-news/mha-amend-citizenship-rules-2009-new-passport-disclosure-norms-for-applicants-from-pak-afghanistan-bangladesh-2026-05-19",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-18T22:16:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/aaj-ke-din-19th-may-2026_82d30d2a20dd2822750a4647880c14a4.gif?w=750&dpr=1.0",
-      "summary": "आज, 19 मई को, अनुप्रिया पटेल और अखिलेश यादव अमर उजाला संवाद में भाग लेंगे। प्रधानमंत्री नरेंद्र मोदी नॉर्वे से इटली के लिए रवाना होंगे। नमस्कार! आज है मंगलवार, 19 मई। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमर उजाला संवाद में अनुप्रिया पटेल से अखिलेश यादव तक जुड़ेंगे, PM मोदी नॉर्वे से इटली रवाना होंगे",
-          "summary": "आज, 19 मई को, अनुप्रिया पटेल और अखिलेश यादव अमर उजाला संवाद में भाग लेंगे। प्रधानमंत्री नरेंद्र मोदी नॉर्वे से इटली के लिए रवाना होंगे। नमस्कार! आज है मंगलवार, 19 मई। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "प्रारंभिक परीक्षा के बाद जारी होगी प्रोविजनल आंसर की, अभ्यर्थियों की पुरानी मांग पूरी",
-      "url": "https://www.amarujala.com/india-news/upsc-prelims-2026-provisional-answer-key-released-after-preliminary-examination-demand-of-candidates-fulfilled-2026-05-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-18T22:03:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/abhayarathaya-ka-parana-maga-para_553243e40a4dcc6b1662b393037723b0.png?w=750&dpr=1.0",
-      "summary": "यूपीएससी प्रारंभिक परीक्षा 2026 के बाद प्रोविजनल आंसर की जारी की जाएगी। यह कदम अभ्यर्थियों की लंबे समय से चली आ रही मांग को पूरा करता है। UPSC Prelims 2026: प्रारंभिक परीक्षा के बाद जारी होगी प्रोविजनल आंसर की, अभ्यर्थियों की पुरानी मांग पूरी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रारंभिक परीक्षा के बाद जारी होगी प्रोविजनल आंसर की, अभ्यर्थियों की पुरानी मांग पूरी",
-          "summary": "यूपीएससी प्रारंभिक परीक्षा 2026 के बाद प्रोविजनल आंसर की जारी की जाएगी। यह कदम अभ्यर्थियों की लंबे समय से चली आ रही मांग को पूरा करता है। UPSC Prelims 2026: प्रारंभिक परीक्षा के बाद जारी होगी प्रोविजनल आंसर की, अभ्यर्थियों की पुरानी मांग पूरी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सैन डिएगो की मस्जिद में गोलीबारी, पुलिस बोली- दो संदिग्धों समेत तीन की मौत",
-      "url": "https://www.amarujala.com/world/san-diego-mosque-shooting-many-dead-including-suspects-in-police-us-2026-05-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-18T21:52:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/san-diego-mosque-shooting_0209787b5d4a91e4a1a4e2fec0511f0c.png?w=750&dpr=1.0",
-      "summary": "सैन डिएगो की एक मस्जिद में गोलीबारी की घटना में दो संदिग्धों सहित तीन लोगों की मौत हो गई। पुलिस मामले की जांच कर रही है। सैन डिएगो की मस्जिद में गोलीबारी, पुलिस बोली- दो संदिग्धों समेत तीन की मौत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सैन डिएगो की मस्जिद में गोलीबारी, पुलिस बोली- दो संदिग्धों समेत तीन की मौत",
-          "summary": "सैन डिएगो की एक मस्जिद में गोलीबारी की घटना में दो संदिग्धों सहित तीन लोगों की मौत हो गई। पुलिस मामले की जांच कर रही है। सैन डिएगो की मस्जिद में गोलीबारी, पुलिस बोली- दो संदिग्धों समेत तीन की मौत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ओपनएआई के खिलाफ एलन मस्क की बड़ी हार, कोर्ट ने खारिज किया मुकदमा; जानिए क्या है पूरा मामला",
-      "url": "https://www.amarujala.com/world/openai-controversy-elon-musk-suffers-major-defeat-against-chat-gpt-court-dismisses-lawsuit-2026-05-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-18T21:03:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/masaka-ka-bugdha-hara_d74c80972f0c38876bcb8f750f917aec.png?w=750&dpr=1.0",
-      "summary": "कोर्ट ने एलन मस्क द्वारा ओपनएआई के खिलाफ दायर मुकदमा खारिज कर दिया है। मस्क ने कंपनी पर जनहित के बजाय लाभ को प्राथमिकता देने का आरोप लगाया था। OpenAI Controversy: ओपनएआई के खिलाफ एलन मस्क की बड़ी हार, कोर्ट ने खारिज किया मुकदमा; जानिए क्या है पूरा मामला।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ओपनएआई के खिलाफ एलन मस्क की बड़ी हार, कोर्ट ने खारिज किया मुकदमा; जानिए क्या है पूरा मामला",
-          "summary": "कोर्ट ने एलन मस्क द्वारा ओपनएआई के खिलाफ दायर मुकदमा खारिज कर दिया है। मस्क ने कंपनी पर जनहित के बजाय लाभ को प्राथमिकता देने का आरोप लगाया था। OpenAI Controversy: ओपनएआई के खिलाफ एलन मस्क की बड़ी हार, कोर्ट ने खारिज किया मुकदमा; जानिए क्या है पूरा मामला।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "केन्या में ईंधन कीमतों के खिलाफ हिंसक विरोध प्रदर्शन, चार लोगों की मौत; दर्जनों घायल",
-      "url": "https://www.amarujala.com/world/world-news-updates-hindi-kenya-oil-crisis-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-2026-05-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-18T20:17:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=750&dpr=1.0",
-      "summary": "केन्या में ईंधन की बढ़ती कीमतों के विरोध में हिंसक प्रदर्शन हुए। नैरोबी में प्रदर्शनकारियों और पुलिस के बीच झड़पें हुईं। इन झड़पों में कम से कम चार लोगों की मौत हो गई और दर्जनों घायल हो गए। प्रदर्शनकारियों ने कई वाहनों को आग लगा दी और दुकानों में तोड़फोड़ की। पुलिस ने भीड़ को तितर-बितर करने के लिए आंसू गैस और पानी की बौछारों का इस्तेमाल किया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केन्या में ईंधन कीमतों के खिलाफ हिंसक विरोध प्रदर्शन, चार लोगों की मौत; दर्जनों घायल",
-          "summary": "केन्या में ईंधन की बढ़ती कीमतों के विरोध में हिंसक प्रदर्शन हुए। नैरोबी में प्रदर्शनकारियों और पुलिस के बीच झड़पें हुईं। इन झड़पों में कम से कम चार लोगों की मौत हो गई और दर्जनों घायल हो गए। प्रदर्शनकारियों ने कई वाहनों को आग लगा दी और दुकानों में तोड़फोड़ की। पुलिस ने भीड़ को तितर-बितर करने के लिए आंसू गैस और पानी की बौछारों का इस्तेमाल किया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'इस बार खाड़ी देशों की अपील पर रुके': ट्रंप ने टाला ईरान पर हमला, कहा- समझौता करो वरना हमले के लिए",
-      "url": "https://www.amarujala.com/world/donald-trump-on-iran-military-strike-west-asia-crisis-allies-qatar-saudi-arabia-uae-2026-05-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-18T19:47:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/rashhatarapata-tarapa_a97b61d5a98e9e46697f600e4bfe7b8f.png?w=750&dpr=1.0",
-      "summary": "राष्ट्रपति ट्रंप ने खाड़ी देशों के कहने पर ईरान पर हमला टाल दिया। उन्होंने कहा कि ईरान को समझौता करना चाहिए। अन्यथा, अमेरिका पल भर में भीषण हमला कर सकता है। 'खाड़ी देशों की अपील पर रुके': ट्रंप ने टाला ईरान पर हमला, कहा- समझौता करो वरना पल भर में होगा भीषण हमला।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'इस बार खाड़ी देशों की अपील पर रुके': ट्रंप ने टाला ईरान पर हमला, कहा- समझौता करो वरना हमले के लिए",
-          "summary": "राष्ट्रपति ट्रंप ने खाड़ी देशों के कहने पर ईरान पर हमला टाल दिया। उन्होंने कहा कि ईरान को समझौता करना चाहिए। अन्यथा, अमेरिका पल भर में भीषण हमला कर सकता है। 'खाड़ी देशों की अपील पर रुके': ट्रंप ने टाला ईरान पर हमला, कहा- समझौता करो वरना पल भर में होगा भीषण हमला।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त राष्ट्र में भारत का पक्ष रखेंगी फतेहगढ़ की बेटी रजनी चौहान",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQUpkR3JfeHJmckZFVXNrS2FsYW8zUF9sQVpndUwwb1ZnZ3NDOTBKUzQtN1dSU1JyQ0JaSGJWMzg4TWVoU09RSXhpTjBROWpyc0NvM3BhOE82MS1sRGxRazNMU0w0RUFRT0hYNVowaF9PR2RPcG5GM3ZjTEZudUlCTk4xd3AxRTMtOW9vTEVkUUhrMlVvOElOajRTTGhJejNkSzR5TGY0c0xlOUNpaW0yTnFndklqa0Z0Y1FyVzdwSXJEVXh2RG1YVk5zMlRlZ09na3NIMi1uc1B3aHh4YW9pZEJ0TENCc2N4ZWxYaVhGUjRmQnN5cnhJRm93d29wWDM0Yy1fRFZDTDZ4V3fSAZACQVVfeXFMTkQ2VUZORlpkOEFuSllqcjI4MXlMM25jcWQwN2hGaWFiZk9EVTJ3NXdnYThkMXM1VC1vejU5Qnpsa0w2X1ZScFU3NVhQOVNSclFDM3FLR1QzT3JEWjZ5SVo3YnVhV0Mtd3E2cG95enpIaWM0N2RzeS1JT3NZb0VKcFpjb0dSR3ZnblprVU1sSW1HcGNoLXh4d0c3QUJ3UlVPaVlJUzl5SlNvNnNOUGdFVnBPcnVtT1lDSHR0cERmQTZiVF9PRWRaUEc4amFqa0VxNFNELXJUQU83cmtQeWhsZzdCZWpqa3BnX0NXd2NJNXIyQWNrT3FKeDhMTlh0eng5ZExucHQxWXY1SWJobkdhZXE?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-18T19:17:16+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "फतेहगढ़ की रजनी चौहान संयुक्त राष्ट्र में भारत का पक्ष रखेंगी। वह अंतरराष्ट्रीय मंच पर देश का प्रतिनिधित्व करेंगी। Farrukhabad News: संयुक्त राष्ट्र में भारत का पक्ष रखेंगी फतेहगढ़ की बेटी रजनी चौहान Amar Ujala।",
+      "published_at": "2026-05-19T04:33:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/katharaya-gaha-mataralya_97671871d1d3a3d5c06899f30c8f2f33.png?w=750&dpr=1.0",
+      "summary": "नागरिकता नियम में संशोधन हुआ, पाकिस्तान समेत कुछ देशों के आवेदकों के लिए नया नियम लागू हुआ। गृह मंत्रालय का फैसला: नागरिकता नियम में हुआ संशोधन, पाकिस्तान समेत इन देशों के आवेदकों के लिए नया नियम लागू।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "संयुक्त राष्ट्र में भारत का पक्ष रखेंगी फतेहगढ़ की बेटी रजनी चौहान",
-          "summary": "फतेहगढ़ की रजनी चौहान संयुक्त राष्ट्र में भारत का पक्ष रखेंगी। वह अंतरराष्ट्रीय मंच पर देश का प्रतिनिधित्व करेंगी। Farrukhabad News: संयुक्त राष्ट्र में भारत का पक्ष रखेंगी फतेहगढ़ की बेटी रजनी चौहान Amar Ujala।",
+          "title": "नागरिकता नियम में हुआ संशोधन, पाकिस्तान समेत इन देशों के आवेदकों के लिए नया नियम लागू",
+          "summary": "नागरिकता नियम में संशोधन हुआ, पाकिस्तान समेत कुछ देशों के आवेदकों के लिए नया नियम लागू हुआ। गृह मंत्रालय का फैसला: नागरिकता नियम में हुआ संशोधन, पाकिस्तान समेत इन देशों के आवेदकों के लिए नया नियम लागू।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "दिल्ली बनेगी ‘क्वाड’ कूटनीति का केंद्र, जयशंकर की मेजबानी में अगले हफ्ते जुटेंगे विदेश मंत्री",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUGVfNk53cmFQdjI5R3ktcXNtcHNDaDNEclZpcW9BSGRRSV9hYTZINzdrdEpBdVo5NnNFN05mMUEzXzlwYVVJdTBvSldCRkdkd0hxZnNrOWxrQU9ZMkpucFpXRXM4ZkNKclBqOEhGeDdLdXJpSmJNdExHYUJONzhNUk5PWnNsRmRCRkp5Wm1MQ29MNkVGMlpaY09JZzhQTTRGWHoyUUdfMi1mODlTd2NLcHM3S3MxOWxFRmhMWFpVZjdRZHAteUhySzUtZFJET1NCaG52bkltMlpRWW8tSEpkQnlDMnZMbU1jaVFmTy1qdzRzOFdZUUtB0gH8AUFVX3lxTE1vVHZRLTIzVzBGdzJURU41OVNHNUx5RTl2SDhPNWZzZUl2M05DeS1rMXRaNTR1NjJpVGc5bk9kYXhfbWtFNUlTdUJrdW5xaThESmNtRzdHY2NZOXJFcmNMYkFJOE0tRzJ0UWhBd1JXZF9HVmlMWklJWVZTdzNqcEZES1NmVUItM2ZJblE0b2dLUUpETE02R3EwLW9TS1V4dEtza3l1ZmhacEt0T2RBb19uc2NjTXFFOWtFcXYzWUtjSmRXUThWTHlmaGQwMXNGbnJreUNETE1Eajl0bWZJUWJYS25vdTNLZGVlaTVtcXZwS0VuV1BxV1IydW1pYQ?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
+      "title": "रेलवे ट्रैक पर दो किमी तक दौड़ाया ट्रक, रुक गईं ट्रेनें; गिट्टी में फंसने पर छोड़कर भाग गया चालक",
+      "url": "https://www.amarujala.com/uttar-pradesh/allahabad/up-news-truck-runs-on-railway-track-for-2-km-several-trains-halted-2026-05-19",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-18T18:06:04+00:00",
-      "image_url": "https://images.pexels.com/photos/37266423/pexels-photo-37266423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "दिल्ली अगले हफ्ते क्वाड कूटनीति का केंद्र बनेगी. दिल्ली बनेगी ‘क्वाड’ कूटनीति का केंद्र, जयशंकर की मेजबानी में अगले हफ्ते जुटेंगे विदेश मंत्री Navbharat Times।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिल्ली बनेगी ‘क्वाड’ कूटनीति का केंद्र, जयशंकर की मेजबानी में अगले हफ्ते जुटेंगे विदेश मंत्री",
-          "summary": "दिल्ली अगले हफ्ते क्वाड कूटनीति का केंद्र बनेगी. दिल्ली बनेगी ‘क्वाड’ कूटनीति का केंद्र, जयशंकर की मेजबानी में अगले हफ्ते जुटेंगे विदेश मंत्री Navbharat Times।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "वर्ष 2026 यूएन स्वयंसेवा (UNV) को सतत विकास की स्थाई शक्ति बनाने का अवसर",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yeng5NVVOclpIRXdlVHU4WWtVbFdoTlFvaGdsU2JJWG40NkdhTVRCbHhGWEFvTk1PV29YM1FiSW5kcFhJMW9oaV9LbUE1SHRJQ1hoYlFoTU5rdDI3?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-18T17:21:54+00:00",
-      "image_url": "https://images.pexels.com/photos/32417524/pexels-photo-32417524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र स्वयंसेवा (UNV) 2026 को सतत विकास के लिए एक स्थायी शक्ति बनाने का लक्ष्य रखता है। यह वर्ष स्वयंसेवकों के योगदान को मान्यता देने और बढ़ाने का अवसर प्रदान करता है। UNV दुनिया भर में शांति और विकास के लिए काम करने वाले लाखों लोगों को संगठित करता है।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वर्ष 2026 यूएन स्वयंसेवा (UNV) को सतत विकास की स्थाई शक्ति बनाने का अवसर",
-          "summary": "संयुक्त राष्ट्र स्वयंसेवा (UNV) 2026 को सतत विकास के लिए एक स्थायी शक्ति बनाने का लक्ष्य रखता है। यह वर्ष स्वयंसेवकों के योगदान को मान्यता देने और बढ़ाने का अवसर प्रदान करता है। UNV दुनिया भर में शांति और विकास के लिए काम करने वाले लाखों लोगों को संगठित करता है।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "केंद्रीय मंत्री बंडी संजय के बेटे ने सरेंडर किया या उन्हें गिरफ़्तार किया गया, पुलिस का क्या है",
-      "url": "https://www.bbc.com/hindi/articles/c3w27e1enpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-18T15:26:39+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/af82/live/0b6eef40-52d4-11f1-b007-610198cfc259.jpg",
-      "summary": "तेलंगाना पुलिस ने केंद्रीय मंत्री बंडी संजय के बेटे बंडी भगीरथ को गिरफ्तार करने की पुष्टि की है। मंत्री संजय ने दावा किया कि उनके बेटे ने आत्मसमर्पण किया था। यह घटनाक्रम पुलिस और मंत्री के बयानों में भिन्नता को दर्शाता है। तेलंगाना पुलिस ने कहा है कि अभियुक्त बंडी भगीरथ को गिरफ़्तार किया गया है.",
+      "published_at": "2026-05-19T04:32:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/truck-runs-on-railway-track_3498a354b3270f97035f43043493361a.jpeg?w=750&dpr=1.0",
+      "summary": "प्रतापगढ़ में एक ट्रक चालक ने रेलवे ट्रैक पर दो किमी तक ट्रक दौड़ाया, जिससे ट्रेनें रुक गईं। प्रतापगढ़ के आसपुर देवसरा क्षेत्र के नीमा गोपालपुर हॉल्ट स्थित रेलवे फाटक बंद होने पर चालक ट्रक लेकर रेलवे ट्रैक पर चला गया। करीब दो किमी तक वह सुल्तानपुर-जौनपुर रेलवे ट्रैक पर ट्रक लेकर दौड़ता रहा।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "केंद्रीय मंत्री बंडी संजय के बेटे ने सरेंडर किया या उन्हें गिरफ़्तार किया गया, पुलिस का क्या है",
-          "summary": "तेलंगाना पुलिस ने केंद्रीय मंत्री बंडी संजय के बेटे बंडी भगीरथ को गिरफ्तार करने की पुष्टि की है। मंत्री संजय ने दावा किया कि उनके बेटे ने आत्मसमर्पण किया था। यह घटनाक्रम पुलिस और मंत्री के बयानों में भिन्नता को दर्शाता है। तेलंगाना पुलिस ने कहा है कि अभियुक्त बंडी भगीरथ को गिरफ़्तार किया गया है.",
+          "title": "रेलवे ट्रैक पर दो किमी तक दौड़ाया ट्रक, रुक गईं ट्रेनें; गिट्टी में फंसने पर छोड़कर भाग गया चालक",
+          "summary": "प्रतापगढ़ में एक ट्रक चालक ने रेलवे ट्रैक पर दो किमी तक ट्रक दौड़ाया, जिससे ट्रेनें रुक गईं। प्रतापगढ़ के आसपुर देवसरा क्षेत्र के नीमा गोपालपुर हॉल्ट स्थित रेलवे फाटक बंद होने पर चालक ट्रक लेकर रेलवे ट्रैक पर चला गया। करीब दो किमी तक वह सुल्तानपुर-जौनपुर रेलवे ट्रैक पर ट्रक लेकर दौड़ता रहा।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "सर्वाइवर का सवाल, 'मैं सेक्स वर्कर हूँ, क्या इसका मतलब यह है कि वे मेरा गैंगरेप करेंगे'",
-      "url": "https://www.bbc.com/hindi/articles/cy427ggx2e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "पेट्रोल खर्च से परेशान? एक लाख रुपये से कम में मिलेंगी ये बाइक्स, देंगी जबरदस्त माइलेज",
+      "url": "https://www.amarujala.com/automobiles/bikes-under-1-lakh-these-budget-bikes-deliver-up-to-80-kmpl-2026-05-19",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-18T13:38:11+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/1cfe/live/d9764ec0-52ba-11f1-8340-4151f348d713.jpg",
-      "summary": "दिल्ली में एक महिला ने सामूहिक बलात्कार की घटना पर सवाल उठाया है। उसने पूछा कि क्या उसका सेक्स वर्कर होना उसके साथ बलात्कार का कारण बन सकता है। 11-12 मई की दरमियानी रात दिल्ली में एक बस में सामूहिक बलात्कार का मामला सामने आया.",
+      "published_at": "2026-05-19T04:30:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/paratakatamaka-tasavara_c13126742f2072ce64f44429507c0ce2.jpeg?w=750&dpr=1.0",
+      "summary": "एक लाख रुपये से कम में कई बाइक्स उपलब्ध हैं जो अच्छा माइलेज देती हैं। Best Mileage Bikes Under 1 Lakh India:भारत में पेट्रोल की बढ़ती कीमतों ने लोगों का ध्यान फिर से हाई माइलेज की तरफ खींच दिया है। पेट्रोल खर्च से परेशान? एक लाख रुपये से कम में मिलेंगी ये बाइक्स, देंगी जबरदस्त माइलेज।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सर्वाइवर का सवाल, 'मैं सेक्स वर्कर हूँ, क्या इसका मतलब यह है कि वे मेरा गैंगरेप करेंगे'",
-          "summary": "दिल्ली में एक महिला ने सामूहिक बलात्कार की घटना पर सवाल उठाया है। उसने पूछा कि क्या उसका सेक्स वर्कर होना उसके साथ बलात्कार का कारण बन सकता है। 11-12 मई की दरमियानी रात दिल्ली में एक बस में सामूहिक बलात्कार का मामला सामने आया.",
+          "title": "पेट्रोल खर्च से परेशान? एक लाख रुपये से कम में मिलेंगी ये बाइक्स, देंगी जबरदस्त माइलेज",
+          "summary": "एक लाख रुपये से कम में कई बाइक्स उपलब्ध हैं जो अच्छा माइलेज देती हैं। Best Mileage Bikes Under 1 Lakh India:भारत में पेट्रोल की बढ़ती कीमतों ने लोगों का ध्यान फिर से हाई माइलेज की तरफ खींच दिया है। पेट्रोल खर्च से परेशान? एक लाख रुपये से कम में मिलेंगी ये बाइक्स, देंगी जबरदस्त माइलेज।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "प्रधानमंत्री नरेंद्र मोदी को नॉर्वे का सर्वोच्च नागरिक सम्मान",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNZ3VEQ2NtaHZoNi1Femlxc1JmUUs5UUtITUJNUFpfeHVLaERKSWQyM3ZybGdGTGd2VlIyYWtUMU41THM1d3lsRmk5a0NwMW9QeVdVcG9FWV8td3FJNTBtSlhYZ2xBMkh3QXZjbGdreEI0ZDlELWZ6MHk0ck1DcEJyTkVDYUQtRDdRdEZpamRndWVzSERweHpidGpnVDhRdWZVQWpxdXZ5eTQ1V3FiSGlZekR3M1dTY3Z2UjJjOGs0bldMVkxfLWs5TGJrMUVwNEtUNVBmcVdGdUVNbElTd3hELVQ3aEEzdWtJYS1jS2NnbW5zeUc2TnVKb0l5ZnpzYmlXOXloeFExQURXc21iV25fOEZlMDNOMVFZT0xfRzd3OW5POVUyWmZ5c2lLQ0pyRXN2VlRwcS13dkJjOHllT01wLWszbXdsZw?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "title": "ट्रंप प्रशासन का क्यूबा के खिलाफ बड़ा एक्शन, 11 अधिकारियों और तीन सरकारी संगठनों पर लगाए नए प्रतिबंध",
+      "url": "https://www.amarujala.com/world/trump-administration-takes-major-action-against-cuba-imposes-new-sanctions-on-11-officials-2026-05-19",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-18T13:32:40+00:00",
-      "image_url": "https://images.pexels.com/photos/16457179/pexels-photo-16457179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "मिला। यह सम्मान ओस्लो में राजा हाराल्ड पंचम द्वारा प्रदान किया गया। प्रधानमंत्री नरेंद्र मोदी को नॉर्वे का सर्वोच्च नागरिक सम्मान GK Today।",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-19T04:27:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/14/rubio-expresses-desire-to-maintain-trans-atlantic-relations-despite-increasing-rift_e4d799cf224fb615e177662853e513a1.jpeg?w=750&dpr=1.0",
+      "summary": "ट्रंप प्रशासन ने क्यूबा के 11 अधिकारियों और तीन सरकारी संगठनों पर नए प्रतिबंध लगाए हैं। US-Cuba: ट्रंप प्रशासन का क्यूबा के खिलाफ बड़ा एक्शन, 11 अधिकारियों और तीन सरकारी संगठनों पर लगाए नए प्रतिबंध।",
+      "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "प्रधानमंत्री नरेंद्र मोदी को नॉर्वे का सर्वोच्च नागरिक सम्मान",
-          "summary": "मिला। यह सम्मान ओस्लो में राजा हाराल्ड पंचम द्वारा प्रदान किया गया। प्रधानमंत्री नरेंद्र मोदी को नॉर्वे का सर्वोच्च नागरिक सम्मान GK Today।",
-          "region": "यूरोप और रूस"
+          "title": "ट्रंप प्रशासन का क्यूबा के खिलाफ बड़ा एक्शन, 11 अधिकारियों और तीन सरकारी संगठनों पर लगाए नए प्रतिबंध",
+          "summary": "ट्रंप प्रशासन ने क्यूबा के 11 अधिकारियों और तीन सरकारी संगठनों पर नए प्रतिबंध लगाए हैं। US-Cuba: ट्रंप प्रशासन का क्यूबा के खिलाफ बड़ा एक्शन, 11 अधिकारियों और तीन सरकारी संगठनों पर लगाए नए प्रतिबंध।",
+          "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "नॉर्वे ने पीएम मोदी को दिया सर्वोच्च सम्मान, ओस्लो में राजा हाराल्ड व ने किया सम्मानित",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWY0WVVmRi1UcWF1SGVqZWYtQzJSTjBtZjVkNDRjY01XVnRvQ1NBUUhoeGJtYXNvVFVFc09fMnJNdjlfa3YtbXVDbGxiWEQwckJQcjVUTEJmdkJjQzMza21JY3NQTzdCdUI2R0FBbnMyMTRGaE9seGZlNEYtVm84bW9WSEJQcTNUUGJ1RmRQVXNxOGtmRDNPVlBXSE1UbFN5b2FHNUZRbTFCNDRlTDV0QmozajVnUVAzanlmdzN2Yk5FanE4YVMwWFpXWVJlRFHSAdQBQVVfeXFMTUlyNlZxaTdRMEdKendnWUdWaXE5dlNoY1ptWHBidEotd05iYTFUckpyaW1WUTZUZ0hNazRSa211aHIzWFdvdUpmM1piMkFIRzhWakZEdVVGa2JnUlNveVZnVmpzRUZEcmNtS1hqUWJKUXoxenByV1h5Vks4R05vREMtTWhJeDJYM05hWVNIZDREcjJXcU5fellSNFVOdUhONzgtSVhVZ1dJZXhmT3ZqV2p5cjFSR1B1TDg1YUJMUXBPcXBmZjJYeGxrNmhJMEhobEtJUXc?oc=5",
-      "source": "Google News Hindi (अंतरराष्ट्रीय संबंध)",
+      "title": "जून में इन 4 राशि वालों को मिलेगी कामयाबी, जानें इनके नाम",
+      "url": "https://www.amarujala.com/web-stories/astrology/predictions/dashank-yog-2026-opens-doors-to-success-prosperity-of-these-zodiac-2026-05-18",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-18T13:23:42+00:00",
-      "image_url": "https://images.pexels.com/photos/32161486/pexels-photo-32161486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "नॉर्वे के राजा हाराल्ड पंचम ने ओस्लो में प्रधानमंत्री नरेंद्र मोदी को देश का सर्वोच्च नागरिक सम्मान प्रदान किया। नॉर्वे ने पीएम मोदी को दिया सर्वोच्च सम्मान, ओस्लो में राजा हाराल्ड व ने किया सम्मानित ETV Bharat।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नॉर्वे ने पीएम मोदी को दिया सर्वोच्च सम्मान, ओस्लो में राजा हाराल्ड व ने किया सम्मानित",
-          "summary": "नॉर्वे के राजा हाराल्ड पंचम ने ओस्लो में प्रधानमंत्री नरेंद्र मोदी को देश का सर्वोच्च नागरिक सम्मान प्रदान किया। नॉर्वे ने पीएम मोदी को दिया सर्वोच्च सम्मान, ओस्लो में राजा हाराल्ड व ने किया सम्मानित ETV Bharat।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "गिरफ़्तार शिवराज मोटेगांवकर कौन हैं और कौन-सा कोचिंग इंस्टिट्यूट चलाते हैं?",
-      "url": "https://www.bbc.com/hindi/articles/c74r19zwpz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-18T12:28:06+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/8358/live/525a8120-528f-11f1-b682-cf91850925ea.png",
-      "summary": "नीट (यूजी) 2026 पेपर लीक मामले में सीबीआई ने शिवराज मोटेगांवकर को गिरफ्तार किया। वह लातूर के एक कोचिंग संस्थान के निदेशक हैं। नीट (यूजी) 2026 पेपर लीक मामले में सीबीआई ने 10वें अभियुक्त को गिरफ़्तार किया है. गिरफ़्तार शिवराज मोटेगांवकर लातूर के एक प्रसिद्ध कोचिंग संस्थान के निदेशक हैं.",
+      "published_at": "2026-05-19T04:24:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/thashaka-yaga_1d7319fa1f2d18855a7029eec772b7eb.jpeg?w=750&dpr=1.0",
+      "summary": "दशांक योग के अनुसार जून में चार राशि वालों को कामयाबी मिलेगी। दशांक योग। जून में इन 4 राशि वालों को मिलेगी कामयाबी, जानें इनके नाम।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "गिरफ़्तार शिवराज मोटेगांवकर कौन हैं और कौन-सा कोचिंग इंस्टिट्यूट चलाते हैं?",
-          "summary": "नीट (यूजी) 2026 पेपर लीक मामले में सीबीआई ने शिवराज मोटेगांवकर को गिरफ्तार किया। वह लातूर के एक कोचिंग संस्थान के निदेशक हैं। नीट (यूजी) 2026 पेपर लीक मामले में सीबीआई ने 10वें अभियुक्त को गिरफ़्तार किया है. गिरफ़्तार शिवराज मोटेगांवकर लातूर के एक प्रसिद्ध कोचिंग संस्थान के निदेशक हैं.",
+          "title": "जून में इन 4 राशि वालों को मिलेगी कामयाबी, जानें इनके नाम",
+          "summary": "दशांक योग के अनुसार जून में चार राशि वालों को कामयाबी मिलेगी। दशांक योग। जून में इन 4 राशि वालों को मिलेगी कामयाबी, जानें इनके नाम।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "अमेरिकी मियाद ख़त्म होने के बाद भी रूसी तेल ख़रीद रहा है भारत, पेट्रोलियम मंत्रालय ने बताया",
-      "url": "https://www.bbc.com/hindi/articles/cjdpr5393y7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-18T11:53:58+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/f61a/live/122818b0-52b2-11f1-9ab8-af14435162fc.jpg",
-      "summary": "अमेरिका की मियाद समाप्त होने के बाद भी भारत रूसी तेल खरीद रहा है। पेट्रोलियम मंत्रालय ने इस खरीद की पुष्टि की है। अमेरिका ने बीते महीने भारत समेत दुनिया के देशों को समुद्र में मौजूद रूस का कच्चा तेल ख़रीदने की अनुमति दी थी.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी मियाद ख़त्म होने के बाद भी रूसी तेल ख़रीद रहा है भारत, पेट्रोलियम मंत्रालय ने बताया",
-          "summary": "अमेरिका की मियाद समाप्त होने के बाद भी भारत रूसी तेल खरीद रहा है। पेट्रोलियम मंत्रालय ने इस खरीद की पुष्टि की है। अमेरिका ने बीते महीने भारत समेत दुनिया के देशों को समुद्र में मौजूद रूस का कच्चा तेल ख़रीदने की अनुमति दी थी.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "भारत के साथ कूटनीति की राह पर आएगा पाकिस्तान? RSS नेता के बयान के बाद क्या कह रहे एक्सपर्ट, जानें",
-      "url": "https://news.google.com/rss/articles/CBMiwAZBVV95cUxNN3gwTlo1anN6R2l6LXh2MU5LVmp0TEhTeGc5YUxRZEJnWkJUMjZ1TERCSGxLUzRERklZNkFRT2VhRUQxbTF0RHA3U1dSbGNQMF95S3RjQU9fSTc2RVh2akNoa0E4MC0tSEVPaXBDRm5NOTc4SUExOXVaWmE0YUc0cmhiOWZrUUhvSWJGZ1d0RlB6V2h0Zk9QMFRzbEwxelJiWjQ0N2luVUVvdmpPcnk2bEQzVS1DWWdvemFSMW9ER3Q5SHdJNGJ4YldoYWw4N3hSd0tmWFkzMTdGX2N6d09vV19LdGt0MVNZMHZEc3J4b0JiTjhxYzdIbjNTTldXR2U2YmJYaFdFWXYybU5JQlUwS0hHTFVJblFoMVgzNHAyUWlBdVJjNzBYNWcwYy1WVllveHQ0M2JlTE5TbFJXdFIzR1R4OHFLRHQxUlV6UVloNllOQlRsTzIxUjBJWGlKN2M5ZThxUmlrcHBBY2k3bDhCQ0c4Q2JXX09LVWlOcW01UllIX3hKYUdWV1c1WGlJNmZnUlJXd2lUU3F6ZEJMaDBjVzgzRG5Sb3l3U2hJT1k1RkNZUUItMElJMjQ2anlrTE5UVEN0YklLek5tNXdVVkJGbDZxcWZ1RFpMdzVKTmI0MEEyd0xTS3Z3aTloNG9ROHJRRjJQRGhNdXpVMG85T21YeDAzMlpIVjRWSDZJS1pDSjlRQURJQXhhQTVuMHk1LWctTURnbzhGQ3J5WFhCWFBETXRzZ2Z0QTJWMU1sbkROR2wta2JBMFVRNExpc0V6V1FTbkRYa2pnc1ByMmdqQlU1YWZjMnJNQ2tncmtZc29SQXpWdV82MU5rY2VYd2ZEMWpVVmVTU1pVQ3JDdTNsMjNSN3B4M3VHQXp6R29PRXMtR0gwT3dWY20yLVc2Vkh6TzJZaUZ1YnFXck5ONzA1dV9CR2NkMWlaQ0dTT2g2ckNwTmJhUG9Id3hMVGxlOFN6SkxpSktiVklIcl9PeTduTWdkUDZVSmM1ZFR5d3B1aVlsZjFWOHlGQ2Zoc1FmZnhmZ19GaXJ4LTZUTHRxeW8tbU9UaUxocGJ2WVRNZk9JcmFIcWxpZmdHZjJROG1KQ0Vxcmln?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
+      "title": "UNSC में आज हो सकती है आपात बैठक: अमेरिका-बहरीन के प्रस्ताव पर दुनिया एकजुट, होर्मुज जलमार्ग की",
+      "url": "https://www.amarujala.com/world/unsc-emergency-meeting-on-the-strait-of-hormuz-over-hundred-countries-support-us-and-bahrain-proposals-2026-05-19",
+      "source": "Amar Ujala World",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiwAZBVV95cUxNN3gwTlo1anN6R2l6LXh2MU5LVmp0TEhTeGc5YUxRZEJnWkJUMjZ1TERCSGxLUzRERklZNkFRT2VhRUQxbTF0RHA3U1dSbGNQMF95S3RjQU9fSTc2RVh2akNoa0E4MC0tSEVPaXBDRm5NOTc4SUExOXVaWmE0YUc0cmhiOWZrUUhvSWJGZ1d0RlB6V2h0Zk9QMFRzbEwxelJiWjQ0N2luVUVvdmpPcnk2bEQzVS1DWWdvemFSMW9ER3Q5SHdJNGJ4YldoYWw4N3hSd0tmWFkzMTdGX2N6d09vV19LdGt0MVNZMHZEc3J4b0JiTjhxYzdIbjNTTldXR2U2YmJYaFdFWXYybU5JQlUwS0hHTFVJblFoMVgzNHAyUWlBdVJjNzBYNWcwYy1WVllveHQ0M2JlTE5TbFJXdFIzR1R4OHFLRHQxUlV6UVloNllOQlRsTzIxUjBJWGlKN2M5ZThxUmlrcHBBY2k3bDhCQ0c4Q2JXX09LVWlOcW01UllIX3hKYUdWV1c1WGlJNmZnUlJXd2lUU3F6ZEJMaDBjVzgzRG5Sb3l3U2hJT1k1RkNZUUItMElJMjQ2anlrTE5UVEN0YklLek5tNXdVVkJGbDZxcWZ1RFpMdzVKTmI0MEEyd0xTS3Z3aTloNG9ROHJRRjJQRGhNdXpVMG85T21YeDAzMlpIVjRWSDZJS1pDSjlRQURJQXhhQTVuMHk1LWctTURnbzhGQ3J5WFhCWFBETXRzZ2Z0QTJWMU1sbkROR2wta2JBMFVRNExpc0V6V1FTbkRYa2pnc1ByMmdqQlU1YWZjMnJNQ2tncmtZc29SQXpWdV82MU5rY2VYd2ZEMWpVVmVTU1pVQ3JDdTNsMjNSN3B4M3VHQXp6R29PRXMtR0gwT3dWY20yLVc2Vkh6TzJZaUZ1YnFXck5ONzA1dV9CR2NkMWlaQ0dTT2g2ckNwTmJhUG9Id3hMVGxlOFN6SkxpSktiVklIcl9PeTduTWdkUDZVSmM1ZFR5d3B1aVlsZjFWOHlGQ2Zoc1FmZnhmZ19GaXJ4LTZUTHRxeW8tbU9UaUxocGJ2WVRNZk9JcmFIcWxpZmdHZjJROG1KQ0Vxcmln?oc=5",
-          "source": "Google News Hindi (कूटनीति)"
+          "url": "https://www.amarujala.com/world/unsc-emergency-meeting-on-the-strait-of-hormuz-over-hundred-countries-support-us-and-bahrain-proposals-2026-05-19",
+          "source": "Amar Ujala World"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUU83MEo2M1FLZ3JFQ2c2SmFNb0xfR21GSC04MXR2UG1fYjQwSWU3WDBIUXdIdHVCNE9QS0V0SlpxZTBtM2lSakg5VXRTTEJidjRxMnBNRlA5VTMyQTdWeEZCTUJRb2Y2NElheHR4NHNGUFRubEExZi0yTUpUZ04zS0lCdVhaN2ZyTVdiejNiQ2R1X2pHdVVlcElxWXg2clVxQWFFMjhhV2pBejNoMEY1UGx0WDRFWm1HdG5jSGVwLUhMcXlqdHhmZXFWV0pOcjdxSmxzZjR3Y2pPQnBsNFEzam13MDktWkVUaVozMUpNOERGbVh4cVEyWl82ZEhZbHfSAYQCQVVfeXFMTkpEVkhfRG5OQWhXNElwR1Z6SUFvU0hXMXo0VHFoWEgzay00bi1Ick0tb04yekczMWUzZHgtMzg3a0M0RVJFTnZaRXFYNk9HdzN6YUV5SlVMTVFnWDQ2MVRVQ0o2UHhmUmVhQl9kbXhzX0hrN2ZHVkM1M19STGJocGlGd2JuZUVFSno5akt2QWV6NVdSR09FTUxxam5hVmRiX2d1ZjhrcWpkQnNyR202ZnBaSFlXa3gzb3ktQXJBTkViYnJodktoMVppalVTcUJ5X0JDcFhJanQ5ZzJJNjVfTGE2Tm5HMmt0MmVadWFxT1lrYUhEcjhGSEpSVk1yNFdQMXNmQXM?oc=5",
-          "source": "Google News Hindi (कूटनीति)"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON24zUzFoMmVJS3dmdFM2dWVYTlpqTG14RERUeE15cVA5azREOVlHZ2E1M2RzQlN0MHhsbDNmUzhCNXBSdzBZVmQ2a2dCdXduT0dfaUpVbG1fYjVWb2FQbDJvdldWSXd0QkZLUWhKMVAzOWx2MmR3UVBCWDhaa2NBdXpwejlCQ2NmSkdDeFR4bWQ1bFpTQVhLWmhnd3VfaXl2M3NMT3RpVzdXS1JPVnpENkpOcDYtcHNaRlUxenZZaG9Lc1pNSml4YnJOSHBuVGN1a1YxZThiUzBrZ3ptLWfSAeMBQVVfeXFMUDBrUWFsdXBxTlp2OFFKdzJzUWl1a3RSbFU0d0lEdTF1a3BMQktsNEN4Y2daMlR2dDI4bGpJZUl2N0ZxcjlTMGtTRmQ1MGU5YXU3WGxqcWR4T2NGam5qaHQxT2V2dHVwdG9VQ2xRZVhaSG9SQUF3LTY1d2N2TUpjVExLWklXamVFQmdQR3BkV1RvNjl3MDh5RjhSTUR0VVpIamt6UGdJSFpldFRZOExWTlYwMnRocWNDUUJVRURDQ2Yzd21ZZHJ1RndYNnJGYlVaa0R0Sk1mcFEyUDczS1VrZVhhMjQ?oc=5",
+          "source": "Google News Hindi (संयुक्त राष्ट्र)"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUU83MEo2M1FLZ3JFQ2c2SmFNb0xfR21GSC04MXR2UG1fYjQwSWU3WDBIUXdIdHVCNE9QS0V0SlpxZTBtM2lSakg5VXRTTEJidjRxMnBNRlA5VTMyQTdWeEZCTUJRb2Y2NElheHR4NHNGUFRubEExZi0yTUpUZ04zS0lCdVhaN2ZyTVdiejNiQ2R1X2pHdVVlcElxWXg2clVxQWFFMjhhV2pBejNoMEY1UGx0WDRFWm1HdG5jSGVwLUhMcXlqdHhmZXFWV0pOcjdxSmxzZjR3Y2pPQnBsNFEzam13MDktWkVUaVozMUpNOERGbVh4cVEyWl82ZEhZbHfSAYQCQVVfeXFMTkpEVkhfRG5OQWhXNElwR1Z6SUFvU0hXMXo0VHFoWEgzay00bi1Ick0tb04yekczMWUzZHgtMzg3a0M0RVJFTnZaRXFYNk9HdzN6YUV5SlVMTVFnWDQ2MVRVQ0o2UHhmUmVhQl9kbXhzX0hrN2ZHVkM1M19STGJocGlGd2JuZUVFSno5akt2QWV6NVdSR09FTUxxam5hVmRiX2d1ZjhrcWpkQnNyR202ZnBaSFlXa3gzb3ktQXJBTkViYnJodktoMVppalVTcUJ5X0JDcFhJanQ5ZzJJNjVfTGE2Tm5HMmt0MmVadWFxT1lrYUhEcjhGSEpSVk1yNFdQMXNmQXM?oc=5",
-          "source": "Google News Hindi (कूटनीति)"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON24zUzFoMmVJS3dmdFM2dWVYTlpqTG14RERUeE15cVA5azREOVlHZ2E1M2RzQlN0MHhsbDNmUzhCNXBSdzBZVmQ2a2dCdXduT0dfaUpVbG1fYjVWb2FQbDJvdldWSXd0QkZLUWhKMVAzOWx2MmR3UVBCWDhaa2NBdXpwejlCQ2NmSkdDeFR4bWQ1bFpTQVhLWmhnd3VfaXl2M3NMT3RpVzdXS1JPVnpENkpOcDYtcHNaRlUxenZZaG9Lc1pNSml4YnJOSHBuVGN1a1YxZThiUzBrZ3ptLWfSAeMBQVVfeXFMUDBrUWFsdXBxTlp2OFFKdzJzUWl1a3RSbFU0d0lEdTF1a3BMQktsNEN4Y2daMlR2dDI4bGpJZUl2N0ZxcjlTMGtTRmQ1MGU5YXU3WGxqcWR4T2NGam5qaHQxT2V2dHVwdG9VQ2xRZVhaSG9SQUF3LTY1d2N2TUpjVExLWklXamVFQmdQR3BkV1RvNjl3MDh5RjhSTUR0VVpIamt6UGdJSFpldFRZOExWTlYwMnRocWNDUUJVRURDQ2Yzd21ZZHJ1RndYNnJGYlVaa0R0Sk1mcFEyUDczS1VrZVhhMjQ?oc=5",
+          "source": "Google News Hindi (संयुक्त राष्ट्र)"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUU83MEo2M1FLZ3JFQ2c2SmFNb0xfR21GSC04MXR2UG1fYjQwSWU3WDBIUXdIdHVCNE9QS0V0SlpxZTBtM2lSakg5VXRTTEJidjRxMnBNRlA5VTMyQTdWeEZCTUJRb2Y2NElheHR4NHNGUFRubEExZi0yTUpUZ04zS0lCdVhaN2ZyTVdiejNiQ2R1X2pHdVVlcElxWXg2clVxQWFFMjhhV2pBejNoMEY1UGx0WDRFWm1HdG5jSGVwLUhMcXlqdHhmZXFWV0pOcjdxSmxzZjR3Y2pPQnBsNFEzam13MDktWkVUaVozMUpNOERGbVh4cVEyWl82ZEhZbHfSAYQCQVVfeXFMTkpEVkhfRG5OQWhXNElwR1Z6SUFvU0hXMXo0VHFoWEgzay00bi1Ick0tb04yekczMWUzZHgtMzg3a0M0RVJFTnZaRXFYNk9HdzN6YUV5SlVMTVFnWDQ2MVRVQ0o2UHhmUmVhQl9kbXhzX0hrN2ZHVkM1M19STGJocGlGd2JuZUVFSno5akt2QWV6NVdSR09FTUxxam5hVmRiX2d1ZjhrcWpkQnNyR202ZnBaSFlXa3gzb3ktQXJBTkViYnJodktoMVppalVTcUJ5X0JDcFhJanQ5ZzJJNjVfTGE2Tm5HMmt0MmVadWFxT1lrYUhEcjhGSEpSVk1yNFdQMXNmQXM?oc=5",
-          "source": "Google News Hindi (कूटनीति)"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON24zUzFoMmVJS3dmdFM2dWVYTlpqTG14RERUeE15cVA5azREOVlHZ2E1M2RzQlN0MHhsbDNmUzhCNXBSdzBZVmQ2a2dCdXduT0dfaUpVbG1fYjVWb2FQbDJvdldWSXd0QkZLUWhKMVAzOWx2MmR3UVBCWDhaa2NBdXpwejlCQ2NmSkdDeFR4bWQ1bFpTQVhLWmhnd3VfaXl2M3NMT3RpVzdXS1JPVnpENkpOcDYtcHNaRlUxenZZaG9Lc1pNSml4YnJOSHBuVGN1a1YxZThiUzBrZ3ptLWfSAeMBQVVfeXFMUDBrUWFsdXBxTlp2OFFKdzJzUWl1a3RSbFU0d0lEdTF1a3BMQktsNEN4Y2daMlR2dDI4bGpJZUl2N0ZxcjlTMGtTRmQ1MGU5YXU3WGxqcWR4T2NGam5qaHQxT2V2dHVwdG9VQ2xRZVhaSG9SQUF3LTY1d2N2TUpjVExLWklXamVFQmdQR3BkV1RvNjl3MDh5RjhSTUR0VVpIamt6UGdJSFpldFRZOExWTlYwMnRocWNDUUJVRURDQ2Yzd21ZZHJ1RndYNnJGYlVaa0R0Sk1mcFEyUDczS1VrZVhhMjQ?oc=5",
+          "source": "Google News Hindi (संयुक्त राष्ट्र)"
         }
       ],
-      "published_at": "2026-05-18T11:20:45+00:00",
-      "image_url": "https://images.pexels.com/photos/19447589/pexels-photo-19447589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "आर. एस. एस. नेता के बयान के बाद भारत के साथ पाकिस्तान की कूटनीति पर विशेषज्ञों की राय सामने आई है। भारत के साथ कूटनीति की राह पर आएगा पाकिस्तान? RSS नेता के बयान के बाद क्या कह रहे एक्सपर्ट, जानें MSN।",
+      "published_at": "2026-05-19T04:05:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/01/unsc-india-britain_38854f0a391880b3b30be18f7152d032.jpeg?w=750&dpr=1.0",
+      "summary": "UNSC में अमेरिका और बहरीन के प्रस्ताव पर दुनिया एकजुट हो सकती है। UNSC में आज हो सकती है आपात बैठक: अमेरिका-बहरीन के प्रस्ताव पर दुनिया एकजुट, होर्मुज जलमार्ग की।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UNSC में आज हो सकती है आपात बैठक: अमेरिका-बहरीन के प्रस्ताव पर दुनिया एकजुट, होर्मुज जलमार्ग की",
+          "summary": "UNSC में अमेरिका और बहरीन के प्रस्ताव पर दुनिया एकजुट हो सकती है। UNSC में आज हो सकती है आपात बैठक: अमेरिका-बहरीन के प्रस्ताव पर दुनिया एकजुट, होर्मुज जलमार्ग की।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "धोनी के फेयरवेल के बीच चेपॉक में बवाल! ईशान किशन की इस शर्मनाक हरकत से भड़के CSK फैंस; तस्वीर वायरल",
+      "url": "https://www.amarujala.com/cricket/ishan-kishan-faces-backlash-over-gesture-towards-csk-fans-during-dhoni-farewell-ipl-2026-2026-05-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-19T04:04:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/ishan-kishan-ms-dhoni-farewell-csk-fans-srh-vs-csk-ipl-2026-ishan-kishan-controversy-heinrich_5b73c3fbccfd439c222ca695d7eed182.gif?w=750&dpr=1.0",
+      "summary": "ईशान किशन की एक शर्मनाक हरकत से CSK फैंस भड़क गए। आईपीएल 2026 में सनराइजर्स हैदराबाद की जीत के बाद ईशान किशन का एक वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। धोनी के फेयरवेल के बीच चेपॉक में बवाल! ईशान किशन की इस शर्मनाक हरकत से भड़के CSK फैंस; तस्वीर वायरल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धोनी के फेयरवेल के बीच चेपॉक में बवाल! ईशान किशन की इस शर्मनाक हरकत से भड़के CSK फैंस; तस्वीर वायरल",
+          "summary": "ईशान किशन की एक शर्मनाक हरकत से CSK फैंस भड़क गए। आईपीएल 2026 में सनराइजर्स हैदराबाद की जीत के बाद ईशान किशन का एक वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। धोनी के फेयरवेल के बीच चेपॉक में बवाल! ईशान किशन की इस शर्मनाक हरकत से भड़के CSK फैंस; तस्वीर वायरल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शेयर बाजार में हरियाली, सेंसेक्स 350 अंक चढ़ा, निफ्टी 23700 के पार",
+      "url": "https://www.amarujala.com/business/bazaar/sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-05-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-19T03:57:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/03/share-market_1ec3e7ee196577eeb856cf221c11d8cf.jpeg?w=750&dpr=1.0",
+      "summary": "शेयर बाजार में हरियाली दिखी, सेंसेक्स 350 अंक चढ़ा। The Bonus Market Update: शेयर बाजार में हरियाली, सेंसेक्स 350 अंक चढ़ा, निफ्टी 23700 के पार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शेयर बाजार में हरियाली, सेंसेक्स 350 अंक चढ़ा, निफ्टी 23700 के पार",
+          "summary": "शेयर बाजार में हरियाली दिखी, सेंसेक्स 350 अंक चढ़ा। The Bonus Market Update: शेयर बाजार में हरियाली, सेंसेक्स 350 अंक चढ़ा, निफ्टी 23700 के पार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हो ची मिन्ह को राजनाथ सिंह ने दी श्रद्धांजलि, ब्रह्मोस पर हो सकती है अहम बातचीत",
+      "url": "https://www.amarujala.com/world/rajnath-singh-pays-tribute-to-ho-chi-minh-in-vietnam-focus-on-defence-cooperation-2026-05-19",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-19T03:44:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/rajnath-singh-vietnam-visit_866a0e4c3fb37ff9872d365f6335131d.gif?w=750&dpr=1.0",
+      "summary": "राजनाथ सिंह ने हो ची मिन्ह को श्रद्धांजलि दी, ब्रह्मोस पर बातचीत हो सकती है। Rajnath Singh Vietnam Visit: हो ची मिन्ह को राजनाथ सिंह ने दी श्रद्धांजलि, ब्रह्मोस पर हो सकती है अहम बातचीत।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत के साथ कूटनीति की राह पर आएगा पाकिस्तान? RSS नेता के बयान के बाद क्या कह रहे एक्सपर्ट, जानें",
-          "summary": "आर. एस. एस. नेता के बयान के बाद भारत के साथ पाकिस्तान की कूटनीति पर विशेषज्ञों की राय सामने आई है। भारत के साथ कूटनीति की राह पर आएगा पाकिस्तान? RSS नेता के बयान के बाद क्या कह रहे एक्सपर्ट, जानें MSN।",
+          "title": "हो ची मिन्ह को राजनाथ सिंह ने दी श्रद्धांजलि, ब्रह्मोस पर हो सकती है अहम बातचीत",
+          "summary": "राजनाथ सिंह ने हो ची मिन्ह को श्रद्धांजलि दी, ब्रह्मोस पर बातचीत हो सकती है। Rajnath Singh Vietnam Visit: हो ची मिन्ह को राजनाथ सिंह ने दी श्रद्धांजलि, ब्रह्मोस पर हो सकती है अहम बातचीत।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘मुझे बहुत घुटन हो रही है मां’, ट्विशा की संदिग्ध मौत मामले में वायरल चैट में एक और नया खुलासा",
+      "url": "https://www.amarujala.com/madhya-pradesh/twisha-sharma-suspicious-death-mother-sister-chat-revealed-2026-05-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-19T03:37:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/tavasha-sharama-fail_bb5c3fcd0bf752ad0083c71226a6e938.jpeg?w=750&dpr=1.0",
+      "summary": "भोपाल में ट्विशा शर्मा की संदिग्ध मौत के मामले में एक नया खुलासा हुआ है। ट्विशा ने अपनी मां, बहन और पिता के साथ हुई चैट में खुद को मानसिक रूप से परेशान और घुटन में बताया था। भोपाल में ट्विशा शर्मा की संदिग्ध मौत का मामला लगातार चर्चा में बना हुआ है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘मुझे बहुत घुटन हो रही है मां’, ट्विशा की संदिग्ध मौत मामले में वायरल चैट में एक और नया खुलासा",
+          "summary": "भोपाल में ट्विशा शर्मा की संदिग्ध मौत के मामले में एक नया खुलासा हुआ है। ट्विशा ने अपनी मां, बहन और पिता के साथ हुई चैट में खुद को मानसिक रूप से परेशान और घुटन में बताया था। भोपाल में ट्विशा शर्मा की संदिग्ध मौत का मामला लगातार चर्चा में बना हुआ है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने जताया दुख, बोले- यह एक भयावह घटना, गहराई से होगी जांच",
+      "url": "https://www.amarujala.com/world/deadly-shooting-outside-islamic-center-of-san-diego-hate-crime-donald-trump-us-mosque-shooting-incident-2026-05-19",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-19T03:17:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/donald-trump_5d5e4fba85cc33296393177a6afab736.jpeg?w=750&dpr=1.0",
+      "summary": "सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने दुख जताया और कहा कि यह एक भयावह घटना है जिसकी गहराई से जांच की जाएगी। यह घटना एक हेट क्राइम के रूप में दर्ज की गई है। सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने जताया दुख, बोले- यह एक भयावह घटना, गहराई से होगी जांच।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने जताया दुख, बोले- यह एक भयावह घटना, गहराई से होगी जांच",
+          "summary": "सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने दुख जताया और कहा कि यह एक भयावह घटना है जिसकी गहराई से जांच की जाएगी। यह घटना एक हेट क्राइम के रूप में दर्ज की गई है। सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने जताया दुख, बोले- यह एक भयावह घटना, गहराई से होगी जांच।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी वित्त मंत्रालय से सेटलमेंट के बाद गौतम अदानी पर लगे सभी आरोप वापस होंगे",
+      "url": "https://www.bbc.com/hindi/articles/cy42xyk2n2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-19T03:16:50+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/afcf/live/9d055850-5323-11f1-91ea-351dddbd7b96.jpg",
+      "summary": "अमेरिकी वित्त मंत्रालय ने अदानी एंटरप्राइज़ेज़ लिमिटेड के साथ समझौता किया, जिसके बाद गौतम अदानी पर लगे सभी आरोप वापस लिए जाएंगे। समझौते की राशि ने दिखाया कि अदानी की कंपनी के संभावित उल्लंघन गंभीर थे। अमेरिकी वित्त मंत्रालय ने अदानी एंटरप्राइज़ेज़ लिमिटेड के साथ समझौते की जानकारी दी.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी वित्त मंत्रालय से सेटलमेंट के बाद गौतम अदानी पर लगे सभी आरोप वापस होंगे",
+          "summary": "अमेरिकी वित्त मंत्रालय ने अदानी एंटरप्राइज़ेज़ लिमिटेड के साथ समझौता किया, जिसके बाद गौतम अदानी पर लगे सभी आरोप वापस लिए जाएंगे। समझौते की राशि ने दिखाया कि अदानी की कंपनी के संभावित उल्लंघन गंभीर थे। अमेरिकी वित्त मंत्रालय ने अदानी एंटरप्राइज़ेज़ लिमिटेड के साथ समझौते की जानकारी दी.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "आज ओस्लो में तीसरे इंडिया-नॉर्डिक समिट में शामिल होंगे पीएम मोदी, इन मुद्दों पर फोकस",
+      "url": "https://www.amarujala.com/live/world/pm-narendra-modi-norway-visit-live-attends-3rd-india-nordic-summit-hindi-news-2026-05-19",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-19T02:57:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/pm-modi-norway-visit_646cefc987058198ad003b6b0ad05751.jpeg?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री मोदी आज ओस्लो में तीसरे इंडिया-नॉर्डिक समिट में शामिल होंगे, जहां वे कई महत्वपूर्ण मुद्दों पर चर्चा करेंगे। इस समिट में पीएम मोदी की नॉर्डिक देशों के साथ बातचीत होगी। आज ओस्लो में तीसरे इंडिया-नॉर्डिक समिट में शामिल होंगे पीएम मोदी, इन मुद्दों पर फोकस।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज ओस्लो में तीसरे इंडिया-नॉर्डिक समिट में शामिल होंगे पीएम मोदी, इन मुद्दों पर फोकस",
+          "summary": "प्रधानमंत्री मोदी आज ओस्लो में तीसरे इंडिया-नॉर्डिक समिट में शामिल होंगे, जहां वे कई महत्वपूर्ण मुद्दों पर चर्चा करेंगे। इस समिट में पीएम मोदी की नॉर्डिक देशों के साथ बातचीत होगी। आज ओस्लो में तीसरे इंडिया-नॉर्डिक समिट में शामिल होंगे पीएम मोदी, इन मुद्दों पर फोकस।",
+          "region": "यूरोप और रूस"
         }
       }
     }
