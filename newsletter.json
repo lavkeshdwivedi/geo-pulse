@@ -1,21 +1,57 @@
 {
-  "generated_at": "2026-05-19T12:41:29.986842+00:00",
-  "article_count": 49,
+  "generated_at": "2026-05-19T16:22:51.247702+00:00",
+  "article_count": 44,
   "total_unique_count": 375,
   "digest": {
-    "en": "Europe & Russia leads the board this hour with PM Modi holds bilateral talks with Finland PM Petteri Orpo. Asia-Pacific carries the next thread. 24 fresh dispatches in this edition.",
-    "hi": "भारतीय शेयर बाज़ार से विदेशी निवेशकों का पलायन प्रमुखता से दिख रहा है। वहीं, पड़ोसी देशों में भुखमरी की खबरें चिंताजनक हैं। राहुल गांधी के रायबरेली दौरे और ईरान में राजनीतिक फांसियों के मामले भी चर्चा में हैं।"
+    "en": "US defense inquiries and Pakistan's Taliban blowback dominate headlines. The WHO's Ebola alarm in the DRC and EU industry's China reliance add to the global tension. Singapore's nuclear readiness assessment offers a different focus.",
+    "hi": "विश्व स्वास्थ्य सभा इबोला और हंटावायरस के बीच शुरू हुई। वित्तीय कटौतियों के बीच यह बैठक वैश्विक स्वास्थ्य सुरक्षा पर केंद्रित है। भारत की कूटनीति की फिनलैंड के राष्ट्रपति ने सराहना की।"
   },
   "articles": [
     {
-      "title": "PM Modi holds bilateral talks with Finland PM Petteri Orpo",
-      "url": "https://www.thehindu.com/news/national/narendra-modi-five-nation-tour-india-nordic-summit-live-updates/article70996679.ece",
-      "source": "The Hindu (International)",
+      "title": "Defense department watchdog opens inquiry into US airstrikes on alleged drug boats",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/defense-department-inquiry-airstrikes-alleged-drug-boats",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-05-19T11:48:31+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/s27o2n/article70997308.ece/alternates/LANDSCAPE_1200/2026-05-19T083207Z_1711194372_RC28CLAMYLTS_RTRMADP_3_NORWAY-INDIA.JPG",
-      "summary": "Prime Minister Narendra Modi held bilateral talks with Finland Prime Minister Petteri President of the European Commission Ursula von der Leyen once again called for an investment agreement between India and the European Union (EU) as India-EU free trade agreement will be discussed again in the summit.",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-19T15:53:27+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/8da35984d572ab77fa6f76bd55ed5e17985c613e/459_803_3579_2863/master/3579.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f01431e448b8c375f4dd9e11aea0802",
+      "summary": "The Pentagon's inspector general is investigating US military airstrikes on alleged drug boats. The inquiry will determine if commanders followed standard procedures before conducting lethal strikes in the Caribbean and eastern Pacific. The investigation focuses on the process followed by military leadership.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
+      "url": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-19T12:51:20+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/4951899b40f161a933703119be1c10a7571c8105/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=485a6d9a2bc6e75ae9440b2ca5d969e3",
+      "summary": "The World Health Organization has raised concerns about an Ebola outbreak in the Democratic Republic of Congo. The Bundibugyo variant is present. Previous outbreaks show that conflict, mistrust, and delayed detection can complicate response efforts. Chlorine disinfection and temperature screenings are standard containment measures. Conflict, mistrust and delayed detection could complicate response to emergency caused by Bundibugyo variantTo be around the centre of an Ebola outbreak is to become used to the smell of chlorine.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "From favelas to informal settlements, new UN report points to housing solutions that work",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167543",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-19T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-05-2026-UN-Habitat-Afghanistan-02.jpg/image560x340cropped.jpg",
+      "summary": "The United Nations reports new housing solutions are emerging globally. Informal settlements in Brazil are being upgraded instead of demolished. Refugees and host communities in Jordan are reclaiming neglected spaces, making them greener. Thailand is developing new approaches to housing. From Thailand to Jordan, from Brazil to Germany, new approaches to housing are quietly taking shape.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Hundreds of suspected cases, no vaccine",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167542",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-19T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/20-09-2022_WHO_Africa_Uganda_Ebola_Sudan.jpg/image770x420cropped.jpg",
+      "summary": "A fast-spreading Ebola outbreak in the Democratic Republic of the Congo has hundreds of suspected cases. Health workers are rushing to stop transmission. A vaccine roll out is months away, the UN World Health Organization said on Tuesday. A fast-spreading Ebola outbreak in the Democratic Republic of the Congo (DRC) has health workers rushing to stop transmission while the roll out of any potential vaccine is months away, the UN World Health Organization (WHO) said on Tuesday.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -32,50 +68,26 @@
       "translations": {}
     },
     {
-      "title": "Uproar over Sudeten German gathering in Brno",
-      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-19T11:02:00+00:00",
-      "image_url": "https://static.dw.com/image/77171363_6.jpg",
-      "summary": "Sudeten Germans will hold their first gathering in Brno, Czechia, since World War II this weekend. The event has prompted a political backlash. It highlights ongoing tensions regarding the expulsion of Germans from Czechoslovakia after the war. The first gathering of Sudeten Germans in Czechia since World War II is set to go ahead this weekend despite a political backlash that has exposed tensions over one of Central Europe's most painful historical legacies.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "WHO official warns Ebola outbreak unlikely to be over in two months as cases and deaths rise in DRC",
-      "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-19T11:00:58+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/b64caeb89836e5395c6168367a7028aee7960092/513_0_3467_2773/master/3467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91911bf297e2fdf2adff753b887a8482",
-      "summary": "The World Health Organization Director General Tedros Adhanom Ghe At least 130 people thought to have been killed, says Tedros Adhanom Ghebreyesus before emergency meeting‘It’s heartbreaking’: panic in eastern DRC over return of EbolaThe director general of the World Health Organization has said he is deeply concerned about the scale and the speed of the Ebola outbreak in the Democratic Republic of the Congo. Dr Tedros Adhanom Ghebreyesus said there had been at l.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Sweden orders 4 frigates from French company Naval Group",
-      "url": "https://www.dw.com/en/sweden-orders-4-frigates-from-french-company-naval-group/a-77208762?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "DW World (English)",
-      "sources": [],
-      "published_at": "2026-05-19T08:52:00+00:00",
-      "image_url": "https://static.dw.com/image/77208999_6.jpg",
-      "summary": "Sweden ordered four frigates from French company Naval Group. These will be the largest surface warships in Sweden's navy. The acquisition starts in 2030. Sweden plans to acquire four new frigates starting in 2030 in a deal worth billions. They will be the largest surface warships in Sweden's navy.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Expert Says Not To Panic, But Surveillance Is Crucial",
-      "url": "https://www.ndtv.com/health/no-reason-to-panic-but-surveillance-is-crucial-says-top-expert-on-ebola-outbreak-11513582#publisher=newsstand",
+      "title": "Air India On London-Delhi Boeing 787 Fuel Switch Test",
+      "url": "https://www.ndtv.com/world-news/fully-functional-air-india-on-london-delhi-boeing-787-fuel-switch-test-11517164#publisher=newsstand",
       "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-05-19T06:07:18+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/dh4m9emc_ebola_625x300_18_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "Dr NK Arora stated there is no reason for panic in India regarding the Ebola outbreak in eastern Congo. The outbreak in Ituri province has resulted in nearly 100 deaths. Surveillance remains crucial. Amid the Ebola outbreak that resulted in nearly 100 deaths in eastern Congo's Ituri province with several suspected, Dr NK Arora, AIIMS Bilaspur President, urged calm to the citizens, saying there is no reason to panic in India.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-19T11:12:38+00:00",
+      "image_url": "https://c.ndtvimg.com/2025-07/10aofjvk_boeing-787-dreamliner_625x300_31_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Air India issued a statement regarding a Boeing 787 fuel switch The Air India statement was in response to a Reuters report that said officials from the national regulator - the DGCA - were planning to travel to Boeing's head office in the US to observe the manufacture testing the recovered panel.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Opinion | 3 Blasts In A Week: Pakistan's Taliban Blowback Is Entering A Dangerous New Phase",
+      "url": "https://www.ndtv.com/opinion/pakistans-taliban-blowback-is-entering-a-dangerous-new-phase-11517107#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-05-19T11:00:37+00:00",
+      "image_url": "https://c.ndtvimg.com/2021-12/4cv2tjk8_pakistan-police-karachi-afp-file-photo_625x300_11_December_21.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "summary": "Pakistan's Balochistan and Khyber Pakhtunk Last week, multiple terror attacks rocked the restive provinces of Balochistan and Khyber Pakhtunkhwa. First came an IED attack, then a suicide blast, with militants taking weapons and police personnel from the site, then a bomb blast. Opinion | 3 Blasts In A Week: Pakistan's Taliban Blowback Is Entering A Dangerous New Phase.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -88,18 +100,6 @@
       "image_url": "https://i.guim.co.uk/img/media/e7dbf85178ee5894eff2d5ed76b744d593c1b44a/0_0_6261_5011/master/6261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d734d4d2979b56acf195ba6affadc618",
       "summary": "European industries face a potential \"China shock\" due to increasing reliance on imported components. Trade analysts warn this could lead to job losses and the cannibalization of local factories by Beijing. Rising volume of components imported from China prompts warning of cannibalisation of European industriesEurope is facing a fresh China shock that threatens to cannibalise local factories, leading to job losses and de facto colonisation of industry by Beijing, trade analysts and representatives have said.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US Tightens Curbs After Citizen Tests Positive",
-      "url": "https://www.ndtv.com/health/us-tightens-curbs-after-american-citizen-tests-positive-for-ebola-11514906#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-05-19T04:48:36+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-05/bjs0v108_ebola_625x300_18_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "The Trump administration imposed new travel restrictions and emergency measures. Washington, May 19 (IANS) The Trump administration announced new travel restrictions and emergency measures after an American citizen tested positive for a strain of Ebola in Africa, even as officials stressed there were currently no cases inside the.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -179,20 +179,7 @@
       "title": "Killings, destruction and settler encroachment continues",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167538",
       "source": "UN News",
-      "sources": [
-        {
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167538",
-          "source": "UN News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jbmVVMmJZSy1TZTB1bjJKekJpb3Rnbkdrbi1WczN2b0RZeGdDeUpUb2RNc284dEtKNDVid215ZlY1T283OEFyWXcwRWxNTGdVQUd5Umo5SQ?oc=5",
-          "source": "Google News (United Nations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jbmVVMmJZSy1TZTB1bjJKekJpb3Rnbkdrbi1WczN2b0RZeGdDeUpUb2RNc284dEtKNDVid215ZlY1T283OEFyWXcwRWxNTGdVQUd5Umo5SQ?oc=5",
-          "source": "Google News (United Nations)"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-18T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/18-05-2026-Adobe-Israeli-wall.jpg/image770x420cropped.jpg",
       "summary": "Forced displacement in the occupied West Bank has reached a rate unseen in decades. This comes as killings and destruction continue despite a ceasefire between Israel and Hamas reducing violence in Gaza. A senior official with the UN human rights office reported these findings in Geneva.",
@@ -237,35 +224,10 @@
       "translations": {}
     },
     {
-      "title": "North Korea is relieved its nuclear weapons have prevented a fate like Iran's",
-      "url": "https://www.npr.org/2026/05/18/nx-s1-5820631/trump-north-korea-nuclear",
-      "source": "NPR World",
-      "sources": [],
-      "published_at": "2026-05-18T08:47:07+00:00",
-      "image_url": "https://images.pexels.com/photos/6795499/pexels-photo-6795499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "North Korea's Kim Jong Un views Iran's recent presidential helicopter crash as validation of his nuclear weapons program. He believes his arsenal has protected him from a similar fate. The U. S. had previously urged both nations to abandon their nuclear ambitions. long pushed for both Iran and North Korea to quit their nuclear plans.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "1.1 billion people live in slums. Can they be housed in dignity?",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167530",
       "source": "UN News",
-      "sources": [
-        {
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167530",
-          "source": "UN News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aaFg2bDR4bGFFZkdxd2lkWjNSLW94cHpzb3F2emRGOUpFN290ZTlpR0ZsdjRkT1VzcEtfSFNxbXRYQ2ZrNHMyMERhRGlhZll0cERkN0dfaw?oc=5",
-          "source": "Google News (United Nations)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aaFg2bDR4bGFFZkdxd2lkWjNSLW94cHpzb3F2emRGOUpFN290ZTlpR0ZsdjRkT1VzcEtfSFNxbXRYQ2ZrNHMyMERhRGlhZll0cERkN0dfaw?oc=5",
-          "source": "Google News (United Nations)"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-17T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-10-2024-UNICEF-Lebanon.jpg/image770x420cropped.jpg",
       "summary": "Ministers, mayors, and experts are meeting in Baku, Azerbaijan, to Ministers, mayors, international organisations, urban planners and experts are in Baku, Azerbaijan, to tackle one of the world’s fastest-growing challenges: the global housing crisis, which, according to the United Nations, affects nearly 2.8 billion people worldwide.",
@@ -274,52 +236,112 @@
       "translations": {}
     },
     {
-      "title": "North Korean footballers arrive in Seoul for first time in eight years",
-      "url": "https://www.theguardian.com/world/2026/may/17/afc-women-champions-league-north-korea-south-korea-naegohyang-fc-suwon",
-      "source": "The Guardian",
+      "title": "बाल विवाह से बचकर निकलने से लेकर सिएरा लियोन की 'फ़र्स्ट लेडी' बनने तक",
+      "url": "https://www.bbc.com/hindi/articles/c142v8rz6l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-17T08:56:35+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/6f769ac63c0a6ee3860ce41c5ee9a6141d0dad8c/724_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dda6c16dace4e11c35ae8c4552f9f495",
-      "summary": "North Korean women's football club Naegohyang FC arrived Naegohyang FC due to play Suwon FC in semi-final of Asian Women’s Champions League on WednesdayA North Korean women’s football club has arrived in South Korea for an AFC Women’s Champions League semi-final, marking the first visit by athletes from the isolated state to the South in eight years. The delegation of 27 players and 12 staff entered the country on Sunday before Wednesday’s match between.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-19T15:32:37+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/7b44/live/f6937f10-4eb3-11f1-bd52-e755d604ece4.jpg",
+      "summary": "सिएरा लियोन की भावी 'फर्स्ट शादी से ठीक पहले जब साल 1996 में वह 16 वर्ष की हुईं तो सिएरा लियोन में छिड़े गृहयुद्ध की वजह से उन्हें वहां से भाग निकलने का मौक़ा मिल गया. रिश्तेदारों की मदद से वह वहां से निकलकर ब्रिटेन में शरण लेने में कामयाब रहीं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बाल विवाह से बचकर निकलने से लेकर सिएरा लियोन की 'फ़र्स्ट लेडी' बनने तक",
+          "summary": "सिएरा लियोन की भावी 'फर्स्ट शादी से ठीक पहले जब साल 1996 में वह 16 वर्ष की हुईं तो सिएरा लियोन में छिड़े गृहयुद्ध की वजह से उन्हें वहां से भाग निकलने का मौक़ा मिल गया. रिश्तेदारों की मदद से वह वहां से निकलकर ब्रिटेन में शरण लेने में कामयाब रहीं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Inside post-Maduro Venezuela’s bewildering new era",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
-      "source": "The Guardian",
+      "title": "रिटायर्ड जज की बहू की मौत पर उठते सवाल: ट्विशा शर्मा के परिवार ने पूछा पुलिस को कॉल क्यों नहीं किया?",
+      "url": "https://www.bbc.com/hindi/articles/ckgp9ew6k3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-17T05:00:29+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/9f7760b79293f5981959de75c3f0925bef2686af/495_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b049c27ed131198a8fb406af59fb0224",
-      "summary": "Despite US efforts under the Trump administration to pressure Nicolás Maduro, little Some feel optimistic change will come, but for many it’s business as usual for the movement Hugo Chávez startedWhen Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours were setting off fireworks to celebrate the new year. Then his windows shattered, the building’s walls shook and its facade was ripped off, sending him flying on to the ground of an apar.",
+      "published_at": "2026-05-19T15:25:28+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/1b67/live/45c6d8c0-5373-11f1-89a3-d1f559421220.jpg",
+      "summary": "भोपाल में ट्विशा शर्मा की मौत के मामले में परिवार ने हत्या का आरोप लगाया है। ससुराल पक्ष ने इसे मानसिक बीमारी बताया है। पुलिस ने पति पर इनाम घोषित किया है। ट्विशा शर्मा के पिता ने ससुराल पक्ष पर उत्पीड़न का आरोप लगाया है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रिटायर्ड जज की बहू की मौत पर उठते सवाल: ट्विशा शर्मा के परिवार ने पूछा पुलिस को कॉल क्यों नहीं किया?",
+          "summary": "भोपाल में ट्विशा शर्मा की मौत के मामले में परिवार ने हत्या का आरोप लगाया है। ससुराल पक्ष ने इसे मानसिक बीमारी बताया है। पुलिस ने पति पर इनाम घोषित किया है। ट्विशा शर्मा के पिता ने ससुराल पक्ष पर उत्पीड़न का आरोप लगाया है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका का विरोधाभासी रवैया कूटनीति में बड़ी बाधा: अराघची",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRk1PVGhXc2c2TTdzUzBPbkliOXdQTGJYc3AwYWZNcGR5bmJKZ2FhS0tRNUY3UTBrdTZ4RXJHclZId2ZKM2ZyM0FsQTVmQ2J3eGVRRnVoWXlRY1ExLUxtMUhoNGpYLTBtTzBTZnluSmVqb29FT19JQk5ONXI5QnN6Sjh2NXhZQ0hfbXQxeFlvSGF5N3RSaEx2TEduSkFmcDQzSzVoV2xBd2E0S3NMWkEtWWhnUjRHNlg0MEdsSmxDNW12ZG5XZVBjVUlNLWpzR3JsWko1ZERtbXJwVFBzMFFMc0JRRTJ5M3BiRWV4ZXBkRzE0a1R10gH6AUFVX3lxTFBmeXc2aHdBSVpEdVgxNm51R0stbjMxMkYtdi1EQWtzVm5fdlduNFUwaHljN2VURWxuWkljTE91OHN5Z1lvLV84M1JsS0taN2puby1Pakp5dmFpRWVZR1F6Y2hSdzc1czNDeVFXaTRlMkY3eFgyTW1EVnhpWmNLRkVpeW8zOFZJUkV0U3JZUktYOHJVaWk3V1JITVcwR0pGb0wxaUY4b01sWkt2SEtYYVg5YTZMMWcxUUVucnM4ampxN3dzOUduWGxhU0p4Q0w0NUxJS0tERGJ3S1BrUkk4UzVBalJGU1ZmbzZCX3IzeC1UcUxCelVLNjhhNlE?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-19T14:07:53+00:00",
+      "image_url": "https://images.pexels.com/photos/1119118/pexels-photo-1119118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "अराघची ने कहा कि अमेरिका का विरोधाभासी रव अमेरिका का विरोधाभासी रवैया कूटनीति में बड़ी बाधा: अराघची Hindustan Hindi News।",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका का विरोधाभासी रवैया कूटनीति में बड़ी बाधा: अराघची",
+          "summary": "अराघची ने कहा कि अमेरिका का विरोधाभासी रव अमेरिका का विरोधाभासी रवैया कूटनीति में बड़ी बाधा: अराघची Hindustan Hindi News।",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
-      "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167528",
-      "source": "UN News",
+      "title": "नॉर्वे की पत्रकार ने बताया उन्होंने पीएम मोदी से सवाल पूछने की क्यों की थी कोशिश",
+      "url": "https://www.bbc.com/hindi/articles/cn7pk8ex8d0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
       "sources": [],
-      "published_at": "2026-05-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-05-2024-UNICEF-Sudan-UNI518587.jpeg/image770x420cropped.jpg",
-      "summary": "The United Nations warned that nearly 20 million people in Sudan face acute hunger. Over 800,000 children risk severe malnutrition this year. Civil war, displacement, and collapsing systems are deepening the humanitarian crisis. Parts of the country are nearing famine conditions.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-19T13:39:28+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/603b/live/1226d290-5396-11f1-89a3-d1f559421220.jpg",
+      "summary": "सोमवार को सोशल मीडिया पर एक वीडियो वायरल हुआ. सोशल मीडिया पर सोमवार को एक वीडियो वायरल हुआ जिसमें ओस्लो में एक महिला पत्रकार प्रधानमंत्री नरेंद्र मोदी से सवाल पूछना चाहती हैं. नॉर्वे की पत्रकार ने बताया उन्होंने पीएम मोदी से सवाल पूछने की क्यों की थी कोशिश।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नॉर्वे की पत्रकार ने बताया उन्होंने पीएम मोदी से सवाल पूछने की क्यों की थी कोशिश",
+          "summary": "सोमवार को सोशल मीडिया पर एक वीडियो वायरल हुआ. सोशल मीडिया पर सोमवार को एक वीडियो वायरल हुआ जिसमें ओस्लो में एक महिला पत्रकार प्रधानमंत्री नरेंद्र मोदी से सवाल पूछना चाहती हैं. नॉर्वे की पत्रकार ने बताया उन्होंने पीएम मोदी से सवाल पूछने की क्यों की थी कोशिश।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
-      "title": "As war displaces millions in DR Congo, new schools offer children hope beyond violence",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167527",
-      "source": "UN News",
+      "title": "'रूस-चीन रिश्ते दुनिया में स्थिरता लाने वाली शक्ति', पुतिन ने ब्रिक्स की बात कर अमेरिका की बढ़ाई",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxONUF0bWlrTGdsOUt4c1Bqc2lXY0ZOTWU5cGZDNWZoRHJCZ2NSSTlDOWVzTXZOQ0RvM08yN3FrZnVrcTNQSGxwZEpsSEFFb1V3cDFEN1hDZEhHSm9ic3Y2Q2lnOXg0M2QySC1FcC1qTGFza1hUWk5VdmN1MlRHd2sxRENJdGtJUEdCSy1WMXJkeC0zRVEyRlFxRW52ZEVTMkNrUnJLZzQySjZFbXp0T3hmckxweEVvR0RoeG9vSnVrd0dSaURrakFGUXpxRE5VM2lSZ0JWMkQxc3dfUDk2S2FkQnBGTEtHb2RPS2U3a1RHckYwN0IzUGdldjVvYml0akYzdVJrLWRwQ1lOa2NDSWtnQ213WURvT0M5YTNpLWhKamRPMkN3cGVvZ29iaE1ORE5tLU42cmV5dFQ0cFFkWFVGVXJ3RnU5a0lGbjJnd1lvZ2VGeXF5dEF0VkE0YXnSAeICQVVfeXFMTWFhM0h2cE9ndEpaWVNyQ2YyTkRWOC1BUFV4SXhyaVg1VW0wbkMwTHp2Vk4wQ0FJS1dxRGwwNVRfOWdxdGtxMmQ3UnFIR0pwdlJ1U19LQzdYYW1nd25RLVFaUmVpSVJaVVlPT3V3WUJKNXN6R09uWkE3XzJTb3RWc0x5RHVoMmJUQ2M1VzRwZnByaElveEdMOG9LZVVnNk9iYzdYSGRSWjNKaXZmRDR3SDdQSUhCRVJlYXFQUUJlQTZQaVpnM0hZU21SOFNwRzR2czlKLXc2dWw0d01aTy1oMjJtM3VNTk5SNmFPZ0FobHBOU3BxZkhTbktDQllZU0daYVgtOHVSXzNHNGxzbVFQRU05TlB5LU96TWtqMktoNmhJZVpDdjdhT2FWbC1LNWFlYl9qSXhiNEFvbTdYZzdYUWE4di13ZFdqRkRzQ1A1N1h1MkFWNm5lSGRqeWc2UXpfaVNB?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-05-2026-UNICEF-DR-Congo-01.jpg/image770x420cropped.jpg",
-      "summary": "New schools are opening in eastern Democratic Republic of the Congo. Ten-year-old Shadrac Anyazaka does not hesitate when asked about his future. “After finishing my studies, I would like to become President of the Republic one day,” he tells visitors to his school in eastern Democratic Republic of the Congo (DRC).",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-19T13:14:36+00:00",
+      "image_url": "https://images.pexels.com/photos/12069847/pexels-photo-12069847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "व्लादिमीर पुतिन ने चीन की यात्रा के दौरान रूस- Putin visit to China: 'रूस-चीन रिश्ते दुनिया में स्थिरता लाने वाली शक्ति', पुतिन ने ब्रिक्स की बात कर अमेरिका की बढ़ाई चिंता, भारत बनेगा बड़ी ताकत!",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'रूस-चीन रिश्ते दुनिया में स्थिरता लाने वाली शक्ति', पुतिन ने ब्रिक्स की बात कर अमेरिका की बढ़ाई",
+          "summary": "व्लादिमीर पुतिन ने चीन की यात्रा के दौरान रूस- Putin visit to China: 'रूस-चीन रिश्ते दुनिया में स्थिरता लाने वाली शक्ति', पुतिन ने ब्रिक्स की बात कर अमेरिका की बढ़ाई चिंता, भारत बनेगा बड़ी ताकत!",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "क्या ट्रांसजेंडर संशोधन क़ानून ने ट्रांस पुरुषों को इसके दायरे से बाहर कर दिया?",
+      "url": "https://www.bbc.com/hindi/articles/czx2kwwpepro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-19T12:45:24+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/f2c3/live/c1cb1ee0-51de-11f1-8d79-4731acfb89e0.jpg",
+      "summary": "केंद्र सरकार ने संसद में ट्रांसजेंडर व्यक्ति (अधिकारों का संरक्षण) संशोधन विधेयक पारित किया है. इस विधेयक में ट्रांसजेंडर व्यक्तियों को परिभाषित करने के तरीके पर सवाल उठ रहे हैं. कुछ लोगों का मानना है कि यह परिभाषा ट्रांसजेंडर पुरुषों को इसके दायरे से बाहर कर सकती है. इस पर अभी और स्पष्टीकरण की आवश्यकता है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या ट्रांसजेंडर संशोधन क़ानून ने ट्रांस पुरुषों को इसके दायरे से बाहर कर दिया?",
+          "summary": "केंद्र सरकार ने संसद में ट्रांसजेंडर व्यक्ति (अधिकारों का संरक्षण) संशोधन विधेयक पारित किया है. इस विधेयक में ट्रांसजेंडर व्यक्तियों को परिभाषित करने के तरीके पर सवाल उठ रहे हैं. कुछ लोगों का मानना है कि यह परिभाषा ट्रांसजेंडर पुरुषों को इसके दायरे से बाहर कर सकती है. इस पर अभी और स्पष्टीकरण की आवश्यकता है.",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "भारतीय शेयर बाज़ार से विदेशी निवेशक क्यों भाग रहे हैं, जानिए क्यों बढ़ा है अविश्वास",
@@ -340,24 +362,6 @@
       }
     },
     {
-      "title": "ट्विशा शर्मा की सास के मानसिक बीमारी के दावे के बाद, भाई और पिता ने की प्रेस कॉन्फ़्रेंस",
-      "url": "https://www.bbc.com/hindi/articles/ckgp9ew6k3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-19T10:58:02+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/1b67/live/45c6d8c0-5373-11f1-89a3-d1f559421220.jpg",
-      "summary": "भोपाल में ट्विशा शर्मा की मौत के मामले में परिवार ने हत्या का आरोप लगाया है। ससुराल पक्ष ने इसे मानसिक बीमारी बताया है। पुलिस ने पति पर इनाम घोषित किया है। ट्विशा शर्मा के पिता ने ससुराल पक्ष पर उत्पीड़न का आरोप लगाया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्विशा शर्मा की सास के मानसिक बीमारी के दावे के बाद, भाई और पिता ने की प्रेस कॉन्फ़्रेंस",
-          "summary": "भोपाल में ट्विशा शर्मा की मौत के मामले में परिवार ने हत्या का आरोप लगाया है। ससुराल पक्ष ने इसे मानसिक बीमारी बताया है। पुलिस ने पति पर इनाम घोषित किया है। ट्विशा शर्मा के पिता ने ससुराल पक्ष पर उत्पीड़न का आरोप लगाया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "फाल्टा सीट पर होने वाले चुनाव से पीछे हटे तृणमूल कांग्रेस के जहांगीर ख़ान, शुभेंदु अधिकारी ने क्या",
       "url": "https://www.bbc.com/hindi/articles/c86d5v6l6xgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -372,24 +376,6 @@
           "title": "फाल्टा सीट पर होने वाले चुनाव से पीछे हटे तृणमूल कांग्रेस के जहांगीर ख़ान, शुभेंदु अधिकारी ने क्या",
           "summary": "फाल्टा सीट पर दोबारा मतदान से पहले तृणमूल कांग्रेस के उम्मीदवार जहांगीर खान ने खुद को चुनावी प्रक्रिया से अलग कर लिया है. टीएमसी और शुभेंदु अधिकारी ने इस पर प्रतिक्रिया दी है. फाल्टा सीट पर गुरुवार को दोबारा होने जा रहे मतदान से पहले टीएमसी उम्मीदवार जहांगीर ख़ान ने घोषणा की है कि उन्होंने ख़ुद को चुनावी प्रक्रिया से अलग कर लिया है.",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारत के पड़ोसी देश में भुखमरी से मचा हाहाकार! 47 लाख लोग एक वक्त के खाने को भी तरसे, बच्चे बेचने को",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQmlDM080dWRzYng4S01YQlF0d1pPekhlUFc5UGZRUlJKUmg4OXgyd2JMWmRFd0hRTm9TTGlrRFJQRTVfelpCdF9XN3M3T1gwNlEzaTMwYUFwM2RoTlc5ZVJ4SlJUNlZNaVpCTDRKSkx6WmZwOFFUQTlNNkhSTUUtalBvQ1U1V20tdk1CTVZoS3hxUkx3MXFPalg0TGRYaW4tR3VKbFp6MklBb3NpLXRHUERrYWtGcUw1RTNpaDNHRGxfY1VWOEtpVy1fUDJBSTVzVThuVnYxLUJ2ak5yZVlFRnBnVzM4RVJJNDduaHBYOERyN2VFOTFKWGtNcFhwZkZKQjdyeEJxcjIxWW8?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-19T09:47:00+00:00",
-      "image_url": "https://images.pexels.com/photos/36739282/pexels-photo-36739282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत के पड़ोसी देश में भुखमरी की स्थिति गंभीर है. 47 लाख लोग भोजन के लिए संघर्ष कर रहे हैं और कुछ लोग बच्चे बेचने को मजबूर हैं. भारत के पड़ोसी देश में भुखमरी से मचा हाहाकार! 47 लाख लोग एक वक्त के खाने को भी तरसे, बच्चे बेचने को मजबूर DNA India।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत के पड़ोसी देश में भुखमरी से मचा हाहाकार! 47 लाख लोग एक वक्त के खाने को भी तरसे, बच्चे बेचने को",
-          "summary": "भारत के पड़ोसी देश में भुखमरी की स्थिति गंभीर है. 47 लाख लोग भोजन के लिए संघर्ष कर रहे हैं और कुछ लोग बच्चे बेचने को मजबूर हैं. भारत के पड़ोसी देश में भुखमरी से मचा हाहाकार! 47 लाख लोग एक वक्त के खाने को भी तरसे, बच्चे बेचने को मजबूर DNA India।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -430,6 +416,42 @@
       }
     },
     {
+      "title": "इबोला, हंटावायरस और वित्तीय कटौतियों के बीच शुरू हुई विश्व स्वास्थ्य सभा",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hMlFWMG96UjVvNWU1S0EwZXhvQmpZcV9ZWVdPS21XNTZMWlJlUzg2UVRLZERRYUJPdVBnRDhBT0g0QVhEMkhDbWJnT1ZPNUZaUmF3OV9nSQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-19T07:52:21+00:00",
+      "image_url": "https://images.pexels.com/photos/6289066/pexels-photo-6289066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "विश्व स्वास्थ्य सभा जिनेवा में शुरू हुई। इबोला और हंटावायरस के प्रकोपों के बीच यह बैठक हो रही है। सदस्य देशों के बीच वित्तीय कटौतियों पर भी चर्चा होगी। इबोला, हंटावायरस और वित्तीय कटौतियों के बीच शुरू हुई विश्व स्वास्थ्य सभा UN News।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इबोला, हंटावायरस और वित्तीय कटौतियों के बीच शुरू हुई विश्व स्वास्थ्य सभा",
+          "summary": "विश्व स्वास्थ्य सभा जिनेवा में शुरू हुई। इबोला और हंटावायरस के प्रकोपों के बीच यह बैठक हो रही है। सदस्य देशों के बीच वित्तीय कटौतियों पर भी चर्चा होगी। इबोला, हंटावायरस और वित्तीय कटौतियों के बीच शुरू हुई विश्व स्वास्थ्य सभा UN News।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी की कूटनीति की दुनिया में सराहना, फिनलैंड के राष्ट्रपति बोले दुनिया को भारत से सीखना चाहिए",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVEydkpNenZmd082VDA5RTB2bGRRWnBTUVZEczJQenJCaFdsaXA2TW40RDhIQXlfYnN6LWxTM1pXYUw4UXpMZmptdm9QV3M5ckJVMnVHdUxuaTl1VmVHeTBQbmhXMkdLUFRlVzlKMWx3QnZTY2hYYW1RcGp4TVZ3THBKVFg3c2xad3QtaDBheWVNZEFZbnNVUXBaNGJPUmpJTnRJMjFpcFdQRlR2MEZLNlJxaGJIakJUaV9rbkgwczEzUQ?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-19T07:39:04+00:00",
+      "image_url": "https://images.pexels.com/photos/16457179/pexels-photo-16457179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "फिनलैंड के राष्ट्रपति सौली नीनिस्टो ने कहा कि दुनिया को भारत से सीखना चाहिए। उन्होंने यह बात नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी के साथ मुलाकात के बाद कही। नीनिस्टो ने भारत की विदेश नीति और वैश्विक मंच पर उसकी भूमिका की प्रशंसा की। उन्होंने कहा कि भारत का दृष्टिकोण शांति और स्थिरता के लिए महत्वपूर्ण है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी की कूटनीति की दुनिया में सराहना, फिनलैंड के राष्ट्रपति बोले दुनिया को भारत से सीखना चाहिए",
+          "summary": "फिनलैंड के राष्ट्रपति सौली नीनिस्टो ने कहा कि दुनिया को भारत से सीखना चाहिए। उन्होंने यह बात नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी के साथ मुलाकात के बाद कही। नीनिस्टो ने भारत की विदेश नीति और वैश्विक मंच पर उसकी भूमिका की प्रशंसा की। उन्होंने कहा कि भारत का दृष्टिकोण शांति और स्थिरता के लिए महत्वपूर्ण है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "आवारा कुत्तों पर सुप्रीम कोर्ट का बेहद सख़्त रवैया, कहा 'कुत्तों के डर के बिना जीना सबका हक़'",
       "url": "https://www.bbc.com/hindi/articles/c172xp9r8zno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -444,24 +466,6 @@
           "title": "आवारा कुत्तों पर सुप्रीम कोर्ट का बेहद सख़्त रवैया, कहा 'कुत्तों के डर के बिना जीना सबका हक़'",
           "summary": "सुप्रीम कोर्ट ने आवारा कुत्तों के हमलों की चिंताजनक घटनाओं पर सख्त रुख अपनाया है। अदालत ने कहा कि कुत्तों के डर के बिना जीना हर नागरिक का अधिकार है। इस मामले में आगे की सुनवाई की जाएगी। मंगलवार को सुनाए गए फ़ैसले में अदालत ने बच्चों पर कुत्तों के हमलों की \"बेहद चिंताजनक घटनाओं\" से जुड़ी रिपोर्टों का उल्लेख किया.",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "इटली में ₹96000 महीना स्टाइपेंड वाली इंटर्नशिप, देखें आपको मिल सकती है या नहीं",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQYlU1VTN3WGJndVR1TkRXblRydDNSZGJaaDJHQWZReVpqQTdHd1ZNcmt1aXQtZVd5M1BUdVl2cHpRMnFLQm9QeXFCaHp2UzA5OUFEUl9WcnhwV0NOTUFVeVljcTBZZ2NsMC1aZlNqMmcxYzN6U2NPMXhsd191VnNhSlZDSTRuMHZHRUZxZHJDcjJEdHJkVXdyc1pabXdxQ3pMWllWUlVTcEp5WEJwZVBZVXpFYWQybV80amJJdXVjdnZzcHNIblJsUGJ1NUdUQklMSWstT0RSaTVHampKM0FEenk4Smltc1RIeEN0enlvSVpvYU9JSnpsSmRjVV9KX2RiLTB1QVVuc25zSXA1WGprWWJUbG9aZnBoZnp2S3hnZXBfUTNBZzhwSdIBrgJBVV95cUxOMWJ5WFIxU3gtZEtNVXE2VEVIem1LLXMxTHRkdWRRSktRRGRVd0I0UTl6UGlmZTZMLWdOQllKNUtlWUhCZkUxaERTSl9vMUxtemVsWlZERjlETG5KOU9oeHVQcUhOLThrSzh2aDVOQ1RFemR0R25objNxMjR0ZnJrdXhYNTdQOEVSZm9qUjhXSDdudXBWRWptSFpsRHFSVzBWZTdtQXZEeXdWQmZKTWdXQl9CTjZlczZFeFNJUmE2MThtWkpkWnVmN1VZaWVPemZoOTRJOUxpdTBnRjNHd3hlUFYzTVFKZDRzeWpmbURLcGNGcW56UTR4Yzg3VTM3UFNGY0RRU2ZKNWRjV0l0UUFqS0o1R0o5OWh2bnM1b1hQMmduN0p0cG9OR0Y2c3dwUQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-19T06:02:26+00:00",
-      "image_url": "https://images.pexels.com/photos/30173987/pexels-photo-30173987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "इटली में विश्व खाद्य कार्यक्रम (WFP) द्वारा ₹96000 मासिक स्टाइपेंड वाली इंटर्नशिप की पेशकश की गई है। इच्छुक उम्मीदवार पात्रता मानदंडों की जांच कर सकते हैं। WFP Internship 2026: इटली में ₹96000 महीना स्टाइपेंड वाली इंटर्नशिप, देखें आपको मिल सकती है या नहीं Navbharat Times।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इटली में ₹96000 महीना स्टाइपेंड वाली इंटर्नशिप, देखें आपको मिल सकती है या नहीं",
-          "summary": "इटली में विश्व खाद्य कार्यक्रम (WFP) द्वारा ₹96000 मासिक स्टाइपेंड वाली इंटर्नशिप की पेशकश की गई है। इच्छुक उम्मीदवार पात्रता मानदंडों की जांच कर सकते हैं। WFP Internship 2026: इटली में ₹96000 महीना स्टाइपेंड वाली इंटर्नशिप, देखें आपको मिल सकती है या नहीं Navbharat Times।",
-          "region": "यूरोप और रूस"
         }
       }
     },
@@ -520,6 +524,42 @@
       }
     },
     {
+      "title": "राजस्थान रॉयल्स की बल्लेबाजी शुरू, यशस्वी-वैभव क्रीज पर; लखनऊ ने दिया 221 रन का लक्ष्य",
+      "url": "https://www.amarujala.com/live/cricket/cricket-news/rr-vs-lsg-live-cricket-score-rajasthan-royals-vs-lucknow-super-giants-ipl-2026-64th-match-updates-2026-05-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-19T04:13:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/ipl_79e270cda6f6f529f7e4a0485e31dff9.jpeg?w=750&dpr=1.0",
+      "summary": "लखनऊ सुपर जायंट्स ने राजस्थान रॉयल्स के खिलाफ 221 रन का लक्ष्य रखा है। राजस्थान रॉयल्स की बल्लेबाजी शुरू हो चुकी है। यशस्वी जायसवाल और वैभव अरोड़ा क्रीज पर मौजूद हैं। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। आईपीएल 2026 में आज राजस्थान रॉयल्स का सामना लखनऊ सुपर जाएंट्स से हो रहा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राजस्थान रॉयल्स की बल्लेबाजी शुरू, यशस्वी-वैभव क्रीज पर; लखनऊ ने दिया 221 रन का लक्ष्य",
+          "summary": "लखनऊ सुपर जायंट्स ने राजस्थान रॉयल्स के खिलाफ 221 रन का लक्ष्य रखा है। राजस्थान रॉयल्स की बल्लेबाजी शुरू हो चुकी है। यशस्वी जायसवाल और वैभव अरोड़ा क्रीज पर मौजूद हैं। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। आईपीएल 2026 में आज राजस्थान रॉयल्स का सामना लखनऊ सुपर जाएंट्स से हो रहा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "100 करोड़ी कल्ब के करीब 'करुप्पु'? जानें 5वें दिन का बॉक्स ऑफिस कलेक्शन",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/south-cinema/karuppu-2026-box-office-collection-day-5-suriya-and-trisha-action-drama-film-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T04:05:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/falma-karapapa-ka-kalkashana_08b8eab658cef8139b647488b7e13fec.jpeg?w=750&dpr=1.0",
+      "summary": "सूर्या अभिनीत फिल्म 'करुप्पु' ने पांच दिन में 95 करोड़ रुपये का कारोबार किया है। मंगलवार को फिल्म ने 12 करोड़ रुपये का कारोबार किया। आरजे बालाजी द्वारा निर्देशित फिल्म 'करुप्पु' में साउथ अभिनेता सूर्या ने मुख्य भूमिका निभाई है। इस फिल्म की रिलीज को आज पूरे पांच दिन हो चुके हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "100 करोड़ी कल्ब के करीब 'करुप्पु'? जानें 5वें दिन का बॉक्स ऑफिस कलेक्शन",
+          "summary": "सूर्या अभिनीत फिल्म 'करुप्पु' ने पांच दिन में 95 करोड़ रुपये का कारोबार किया है। मंगलवार को फिल्म ने 12 करोड़ रुपये का कारोबार किया। आरजे बालाजी द्वारा निर्देशित फिल्म 'करुप्पु' में साउथ अभिनेता सूर्या ने मुख्य भूमिका निभाई है। इस फिल्म की रिलीज को आज पूरे पांच दिन हो चुके हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "UNSC में आज हो सकती है आपात बैठक: अमेरिका-बहरीन के प्रस्ताव पर दुनिया एकजुट, होर्मुज जलमार्ग की",
       "url": "https://www.amarujala.com/world/unsc-emergency-meeting-on-the-strait-of-hormuz-over-hundred-countries-support-us-and-bahrain-proposals-2026-05-19",
       "source": "Amar Ujala World",
@@ -555,6 +595,60 @@
       }
     },
     {
+      "title": "बंगाल में सत्ता बदलते ही एक्शन में निगम: अभिषेक बनर्जी पर शिकंजा कसने की तैयारी, 21 संपत्तियों के",
+      "url": "https://www.amarujala.com/india-news/bengal-kmc-issues-notice-to-tmc-leader-abhishek-banerjee-properties-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T03:55:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/01/abhishek-accuses-bjp-of-hypocrisy-over-party-mps-comment-on-india-bangladesh-border_ccff748a1b68d5aa5ec826d2efa0d96b.jpeg?w=750&dpr=1.0",
+      "summary": "कोलकाता नगर निगम ने तृणमूल कांग्रेस नेता अभिषेक बनर्जी की 21 संपत्तियों के खिलाफ नोटिस जारी किया है। यह कार्रवाई पश्चिम बंगाल में सत्ता परिवर्तन के बाद हुई है। निगम ने इन संपत्तियों के संबंध में विस्तृत जानकारी मांगी है। बंगाल में सत्ता बदलते ही एक्शन में निगम: अभिषेक बनर्जी पर शिकंजा कसने की तैयारी, 21 संपत्तियों के।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंगाल में सत्ता बदलते ही एक्शन में निगम: अभिषेक बनर्जी पर शिकंजा कसने की तैयारी, 21 संपत्तियों के",
+          "summary": "कोलकाता नगर निगम ने तृणमूल कांग्रेस नेता अभिषेक बनर्जी की 21 संपत्तियों के खिलाफ नोटिस जारी किया है। यह कार्रवाई पश्चिम बंगाल में सत्ता परिवर्तन के बाद हुई है। निगम ने इन संपत्तियों के संबंध में विस्तृत जानकारी मांगी है। बंगाल में सत्ता बदलते ही एक्शन में निगम: अभिषेक बनर्जी पर शिकंजा कसने की तैयारी, 21 संपत्तियों के।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लड़की ने चिलचिलाती गर्मी में पिलाया ठंडा, तो रोने लगा कैब ड्राइवर, कही ऐसी बात कि दिल को छू लेगी",
+      "url": "https://www.amarujala.com/bizarre-news/girl-offers-cold-drink-to-rapido-driver-in-scorching-heat-emotional-story-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T03:50:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/girl-offers-cold-drink-to-rapido-driver-in-scorching-heat-emotional-story_590e7bf60288a1fe0b2cf4f65a94fe7a.jpeg?w=750&dpr=1.0",
+      "summary": "एक लड़की ने चिलचिलाती गर्मी में कैब ड्राइवर को अपनी कोल्ड ड्रिंक पीने के लिए दी। इस भावुक पल ने ड्राइवर की आँखों में आंसू ला दिए। यह घटना गर्मी के मौसम में मानवीय संवेदनाओं को दर्शाती है। एक लड़की ने चिलचिलाती धूप में अपने कैब ड्राइवर को अपनी कोल्ड ड्रिंक पीने के लिए दी, जिसके बाद ड्राइवर भावुक हो गया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लड़की ने चिलचिलाती गर्मी में पिलाया ठंडा, तो रोने लगा कैब ड्राइवर, कही ऐसी बात कि दिल को छू लेगी",
+          "summary": "एक लड़की ने चिलचिलाती गर्मी में कैब ड्राइवर को अपनी कोल्ड ड्रिंक पीने के लिए दी। इस भावुक पल ने ड्राइवर की आँखों में आंसू ला दिए। यह घटना गर्मी के मौसम में मानवीय संवेदनाओं को दर्शाती है। एक लड़की ने चिलचिलाती धूप में अपने कैब ड्राइवर को अपनी कोल्ड ड्रिंक पीने के लिए दी, जिसके बाद ड्राइवर भावुक हो गया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "विराट कोहली आईपीएल इतिहास में सबसे ज्यादा कमाई करने वाले खिलाड़ी, ये फ्रेंचाइजी है सबसे ज्यादा कीमती",
+      "url": "https://www.amarujala.com/cricket/cricket-news/virat-kohli-has-emerged-highest-grosser-in-ipl-history-kkr-most-valuable-franchise-report-revealed-2026-05-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-19T03:46:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/ipl_36743e1ff2ad6f561b5fa33a2693991e.jpeg?w=750&dpr=1.0",
+      "summary": "रॉयल चैलेंजर्स बेंगलुरु के विराट कोहली आईपीएल इतिहास में सबसे अधिक कमाई करने वाले खिलाड़ी बन गए हैं। कोलकाता नाइट राइडर्स को टूर्नामेंट की सबसे मूल्यवान फ्रेंचाइजी के रूप में पहचाना गया है। रॉयल चैलेंजर्स बेंगलुरु (आरसीबी) के बल्लेबाज विराट कोहली आईपीएल में सबसे ज्यादा कमाई करने वाले खिलाड़ी हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विराट कोहली आईपीएल इतिहास में सबसे ज्यादा कमाई करने वाले खिलाड़ी, ये फ्रेंचाइजी है सबसे ज्यादा कीमती",
+          "summary": "रॉयल चैलेंजर्स बेंगलुरु के विराट कोहली आईपीएल इतिहास में सबसे अधिक कमाई करने वाले खिलाड़ी बन गए हैं। कोलकाता नाइट राइडर्स को टूर्नामेंट की सबसे मूल्यवान फ्रेंचाइजी के रूप में पहचाना गया है। रॉयल चैलेंजर्स बेंगलुरु (आरसीबी) के बल्लेबाज विराट कोहली आईपीएल में सबसे ज्यादा कमाई करने वाले खिलाड़ी हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "हो ची मिन्ह को राजनाथ सिंह ने दी श्रद्धांजलि, ब्रह्मोस पर हो सकती है अहम बातचीत",
       "url": "https://www.amarujala.com/world/rajnath-singh-pays-tribute-to-ho-chi-minh-in-vietnam-focus-on-defence-cooperation-2026-05-19",
       "source": "Amar Ujala World",
@@ -573,217 +667,37 @@
       }
     },
     {
-      "title": "सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने जताया दुख, बोले- यह एक भयावह घटना, गहराई से होगी जांच",
-      "url": "https://www.amarujala.com/world/deadly-shooting-outside-islamic-center-of-san-diego-hate-crime-donald-trump-us-mosque-shooting-incident-2026-05-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-19T03:17:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/donald-trump_5d5e4fba85cc33296393177a6afab736.jpeg?w=750&dpr=1.0",
-      "summary": "सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने दुख जताया और कहा कि यह एक भयावह घटना है जिसकी गहराई से जांच की जाएगी। यह घटना एक हेट क्राइम के रूप में दर्ज की गई है। सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने जताया दुख, बोले- यह एक भयावह घटना, गहराई से होगी जांच।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने जताया दुख, बोले- यह एक भयावह घटना, गहराई से होगी जांच",
-          "summary": "सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने दुख जताया और कहा कि यह एक भयावह घटना है जिसकी गहराई से जांच की जाएगी। यह घटना एक हेट क्राइम के रूप में दर्ज की गई है। सैन डिएगो मस्जिद हमले पर राष्ट्रपति ट्रंप ने जताया दुख, बोले- यह एक भयावह घटना, गहराई से होगी जांच।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "गौतम अदानी ने क्या सेटलमेंट किया जिसके बाद उन पर लगे आरोप हुए वापस",
-      "url": "https://www.bbc.com/hindi/articles/cy42xyk2n2vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-19T03:16:50+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/afcf/live/9d055850-5323-11f1-91ea-351dddbd7b96.jpg",
-      "summary": "अमेरिकी वित्त मंत्रालय ने अदानी एंटरप्राइज़ेज़ लिमिटेड के साथ समझौता किया, जिसके बाद गौतम अदानी पर लगे सभी आरोप वापस लिए जाएंगे। समझौते की राशि ने दिखाया कि अदानी की कंपनी के संभावित उल्लंघन गंभीर थे। अमेरिकी वित्त मंत्रालय ने अदानी एंटरप्राइज़ेज़ लिमिटेड के साथ समझौते की जानकारी दी.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गौतम अदानी ने क्या सेटलमेंट किया जिसके बाद उन पर लगे आरोप हुए वापस",
-          "summary": "अमेरिकी वित्त मंत्रालय ने अदानी एंटरप्राइज़ेज़ लिमिटेड के साथ समझौता किया, जिसके बाद गौतम अदानी पर लगे सभी आरोप वापस लिए जाएंगे। समझौते की राशि ने दिखाया कि अदानी की कंपनी के संभावित उल्लंघन गंभीर थे। अमेरिकी वित्त मंत्रालय ने अदानी एंटरप्राइज़ेज़ लिमिटेड के साथ समझौते की जानकारी दी.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका ने अपाचे हेलीकॉप्टर और M777 तोपों की सपोर्ट डील को दी मंजूरी, सैन्य ताकत होगी और मजबूत",
-      "url": "https://www.amarujala.com/world/us-approves-apache-helicopter-and-m777-howitzer-support-deal-for-india-2026-05-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-19T02:36:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/apaca-halkapatara_105ce61c8c98c5e4350d50b2b61e3d46.png?w=750&dpr=1.0",
-      "summary": "अमेरिका ने भारत को अपाचे हेलीकॉप्टर और M77 US-India Deal: अपाचे हेलीकॉप्टर-M777 तोपों की सपोर्ट सर्विस के लिए अमेरिका ने दी मंजूरी, सेना को मिलेगी ताकत। अमेरिका ने अपाचे हेलीकॉप्टर और M777 तोपों की सपोर्ट डील को दी मंजूरी, सैन्य ताकत होगी और मजबूत।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका ने अपाचे हेलीकॉप्टर और M777 तोपों की सपोर्ट डील को दी मंजूरी, सैन्य ताकत होगी और मजबूत",
-          "summary": "अमेरिका ने भारत को अपाचे हेलीकॉप्टर और M77 US-India Deal: अपाचे हेलीकॉप्टर-M777 तोपों की सपोर्ट सर्विस के लिए अमेरिका ने दी मंजूरी, सेना को मिलेगी ताकत। अमेरिका ने अपाचे हेलीकॉप्टर और M777 तोपों की सपोर्ट डील को दी मंजूरी, सैन्य ताकत होगी और मजबूत।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नॉर्वे की पत्रकार ने पूछा, 'आपके प्रधानमंत्री मुश्किल सवालों के जवाब कब देंगे', भारत ने दिया ये जवाब",
-      "url": "https://www.bbc.com/hindi/articles/cz02nynedlyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-19T02:34:07+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/00d8/live/2b982880-532a-11f1-9c13-5d0b58370758.jpg",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी नॉर्वे की यात्रा के दौरान एक पत्रकार के सवाल का जवाब नॉर्वे की यात्रा पर गए प्रधानमंत्री नरेंद्र मोदी वहां की एक पत्रकार के सवाल का जवाब दिए बिना वहां से जाते दिखे. इसके बाद भारतीय विदेश मंत्रालय ने एक प्रेस कॉन्फ़्रेंस का आयोजन किया, जिसमें एक अन्य पत्रकार और मंत्रालय के प्रवक्ता के बीच तीखी नोकझोंक हुई.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नॉर्वे की पत्रकार ने पूछा, 'आपके प्रधानमंत्री मुश्किल सवालों के जवाब कब देंगे', भारत ने दिया ये जवाब",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी नॉर्वे की यात्रा के दौरान एक पत्रकार के सवाल का जवाब नॉर्वे की यात्रा पर गए प्रधानमंत्री नरेंद्र मोदी वहां की एक पत्रकार के सवाल का जवाब दिए बिना वहां से जाते दिखे. इसके बाद भारतीय विदेश मंत्रालय ने एक प्रेस कॉन्फ़्रेंस का आयोजन किया, जिसमें एक अन्य पत्रकार और मंत्रालय के प्रवक्ता के बीच तीखी नोकझोंक हुई.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "43 साल बाद PM मोदी की नॉर्वे यात्रा इतनी ऐतिहासिक क्यों? देखें कूटनीति में",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVpwUnR4dUh2OWRnMk8ySURpSzkySlEwNzNVVUFUYXBIVEJOVGViQ2w3TXF6cm0xdkc4NEctWndvTld5VWNOajJpNUFxVUdVSmVoOFRqUm1VUGhOR0RhZHFlYW5BYnpkV19yQlFMR1R6WjhieE1jamgzMU1wZml5U0JyYVd1N0s1dERTendIeUJ2QWY2Q1FKOXFuVkplSWJEZmNHQ2h3dzEwTDNqbjlxX3k4Nl9iRlZYTFlyel8xdUZIZkdDWE5BU3pMTkNlZUNKRmVv0gHYAUFVX3lxTE1vTVZETkVWRGI2ZV9FbnRwMWVheTBpMl9mZVRTcmdlTzc5ZnpCOGsxTmZNblpFX203Y2hiX1VENmhiUVZFUHl6QmVab2FSbGlzSWhmeTZrZ1VLNHpCY1B5dnVkbWQ1WTlWWk1WTmw5UjlFUE90Y19PLU15QW1aal9kVmhBN3FETUJyZGlZbnFYMWNmdTVGcFBZQ0hYNmVjX1Y0Y0h6Z0loYmRldWpXZDBTWWFWeVZPdUczd2pPV085cW1TWWZmVHFFdE5uN2NmUDN1QVV0dFB1ag?oc=5",
-      "source": "Google News Hindi (कूटनीति)",
-      "sources": [],
-      "published_at": "2026-05-19T02:20:49+00:00",
-      "image_url": "https://images.pexels.com/photos/16457179/pexels-photo-16457179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी ने 43 साल बाद नॉर्वे की यात्रा की. 43 साल बाद PM मोदी की नॉर्वे यात्रा इतनी ऐतिहासिक क्यों? देखें कूटनीति में AajTak।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "43 साल बाद PM मोदी की नॉर्वे यात्रा इतनी ऐतिहासिक क्यों? देखें कूटनीति में",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी ने 43 साल बाद नॉर्वे की यात्रा की. 43 साल बाद PM मोदी की नॉर्वे यात्रा इतनी ऐतिहासिक क्यों? देखें कूटनीति में AajTak।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पुल के ऊपर नहीं नीचे से पार की नदी, शख्स का कमाल का स्टंट देखकर होगी हैरानी",
-      "url": "https://www.amarujala.com/bizarre-news/stunt-video-man-crosses-bridge-while-dangling-beneath-it-video-goes-viral-2026-05-19",
+      "title": "Amar Ujala Samwad Lucknow 2026: अखिलेश यादव पर जमकर भड़के डिप्टी सीएम बृजेश पाठक",
+      "url": "https://www.amarujala.com/video/india-news/amar-ujala-samwad-lucknow-2026-deputy-cm-brajesh-pathak-lashes-out-at-akhilesh-yadav-2026-05-19",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-19T00:39:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/viral-video_2315569d3a33bdd99f4c4c064df8cfaf.jpeg?w=750&dpr=1.0",
-      "summary": "एक व्यक्ति ने नदी पार करने के लिए पुल के ऊपर से जाने के बजाय नीचे से जाने का अनोखा तरीका अपनाया. इस स्टंट का वीडियो वायरल हो रहा है. इस हैरान कर देने वाले वीडियो में एक शख्स ने पुल पार करने के लिए बिल्कुल अनोखा रास्ता चुना।",
+      "published_at": "2026-05-19T03:40:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/amar-ujala-samwad-lucknow-2026_a578dc5ac7e20af57b12b3f8124c2f75.jpeg?w=750&dpr=1.0",
+      "summary": "उपमुख्यमंत्री बृजेश पाठक ने लखनऊ में अखिलेश यादव पर निशाना साधा। उन्होंने कहा कि 2012 से 2017 तक \"वन डिस्ट्रिक्ट वन माफिया\" का राज था। पाठक ने ठेके-पट्टी में बंदूकें भरे जाने का आरोप लगाया। Amar Ujala Samwad Lucknow 2026: अखिलेश यादव पर निशाना साधते हुए डिप्टी सीएम बृजेश पाठक ने कहा कि, 2012 से 2017 तक वन डिस्ट्रिक्ट वन माफिया था।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पुल के ऊपर नहीं नीचे से पार की नदी, शख्स का कमाल का स्टंट देखकर होगी हैरानी",
-          "summary": "एक व्यक्ति ने नदी पार करने के लिए पुल के ऊपर से जाने के बजाय नीचे से जाने का अनोखा तरीका अपनाया. इस स्टंट का वीडियो वायरल हो रहा है. इस हैरान कर देने वाले वीडियो में एक शख्स ने पुल पार करने के लिए बिल्कुल अनोखा रास्ता चुना।",
+          "title": "Amar Ujala Samwad Lucknow 2026: अखिलेश यादव पर जमकर भड़के डिप्टी सीएम बृजेश पाठक",
+          "summary": "उपमुख्यमंत्री बृजेश पाठक ने लखनऊ में अखिलेश यादव पर निशाना साधा। उन्होंने कहा कि 2012 से 2017 तक \"वन डिस्ट्रिक्ट वन माफिया\" का राज था। पाठक ने ठेके-पट्टी में बंदूकें भरे जाने का आरोप लगाया। Amar Ujala Samwad Lucknow 2026: अखिलेश यादव पर निशाना साधते हुए डिप्टी सीएम बृजेश पाठक ने कहा कि, 2012 से 2017 तक वन डिस्ट्रिक्ट वन माफिया था।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "‘कॉकटेल 2’ का नया गाना हुआ रिलीज, स्टाइलिश और ग्लैमरस अंदाज में नजर आए शाहिद और कृति सेनन; फैंस हुए",
-      "url": "https://www.amarujala.com/entertainment/bollywood/kriti-sanon-brings-playful-charm-alongside-shahid-kapoor-in-mashooqa-from-cocktail-2-2026-05-19",
+      "title": "Amar Ujala Samwad Lucknow 2026: क्या AI की लिखावट में इंसान की भावनाएँ झलक सकती हैं?",
+      "url": "https://www.amarujala.com/video/india-news/amar-ujala-samwad-lucknow-2026-can-human-emotions-be-reflected-in-ai-generated-writing-2026-05-19",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-19T00:39:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/kakatal-2-naya-gana_050b2d9e3c2f727543386fe63504bd5f.jpeg?w=750&dpr=1.0",
-      "summary": "फिल्म 'कॉकटेल 2' का नया गाना रिलीज हो गया है. गाने में शाहिद कपूर और कृति सेनन स्टाइलिश अंदाज में नजर आ रहे हैं. एक्टर शाहिद कपूर, कृति सेनन और रश्मिका मंदाना की फिल्म ‘कॉकटेल 2’ जल्द रिलीज होने वाली है। आज इसका नया गाना रिलीज हो गया है, जिसके बाद से ही फैंस की एक्साइटमेंट और बढ़ गई है।",
+      "published_at": "2026-05-19T03:39:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/amar-ujala-samwad-lucknow-2026-kaya-ai-ka-lkhavata-ma-isana-ka-bhavanae-jhalka-sakata-ha_2c773d630d40f72e9a07def7a91131f8.jpeg?w=750&dpr=1.0",
+      "summary": "लखनऊ में आयोजित अमर उजाला संवाद में यह सवाल उठाया गया कि क्या कृत्रिम बुद्धिमत्ता (AI) द्वारा लिखी गई सामग्री में मानवीय भावनाओं को दर्शाया जा सकता है। इस पर चर्चा की गई।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘कॉकटेल 2’ का नया गाना हुआ रिलीज, स्टाइलिश और ग्लैमरस अंदाज में नजर आए शाहिद और कृति सेनन; फैंस हुए",
-          "summary": "फिल्म 'कॉकटेल 2' का नया गाना रिलीज हो गया है. गाने में शाहिद कपूर और कृति सेनन स्टाइलिश अंदाज में नजर आ रहे हैं. एक्टर शाहिद कपूर, कृति सेनन और रश्मिका मंदाना की फिल्म ‘कॉकटेल 2’ जल्द रिलीज होने वाली है। आज इसका नया गाना रिलीज हो गया है, जिसके बाद से ही फैंस की एक्साइटमेंट और बढ़ गई है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘बॉक्सर के रोल के लिए वैसी ही जिंदगी जीनी पड़ती है’, पुलकित सम्राट ने ‘ग्लोरी’ को बताया गेम चेंजिंग",
-      "url": "https://www.amarujala.com/entertainment/celebs-interviews/pulkit-samrat-exclusive-interview-says-glory-is-career-changing-for-me-talk-about-preparation-training-fitness-2026-05-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-19T00:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/palkata-samarata_fef581871f18e0ad44f4a076aa4c5dbb.jpeg?w=750&dpr=1.0",
-      "summary": "पुलकित सम्राट ने ‘ग्लोरी’ में एक बॉक्सर का किरदार निभाया है। उन्होंने कहा कि इस रोल के लिए उन्हें वैसी ही जिंदगी जीनी पड़ी। यह फिल्म उनके लिए गेम चेंजर साबित हुई। Pulkit Samrat Interview: पुलकित सम्राट पहली बार ‘ग्लोरी’ में एक अलग तरह के किरदार में नजर आए हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘बॉक्सर के रोल के लिए वैसी ही जिंदगी जीनी पड़ती है’, पुलकित सम्राट ने ‘ग्लोरी’ को बताया गेम चेंजिंग",
-          "summary": "पुलकित सम्राट ने ‘ग्लोरी’ में एक बॉक्सर का किरदार निभाया है। उन्होंने कहा कि इस रोल के लिए उन्हें वैसी ही जिंदगी जीनी पड़ी। यह फिल्म उनके लिए गेम चेंजर साबित हुई। Pulkit Samrat Interview: पुलकित सम्राट पहली बार ‘ग्लोरी’ में एक अलग तरह के किरदार में नजर आए हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सीबीएसई ने बताया कैसे हुई 12वीं की कॉपियों की जांच; दिए विद्यार्थियों के मन में उठ रहे 27 सवालों के",
-      "url": "https://www.amarujala.com/education/cbse-explains-on-screen-marking-system-amid-concerns-over-class-12-result-evaluation-process-2026-05-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-19T00:29:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/25/cbse-sugar-boards_9002c5f98a7de122ca2cc89aca1fc831.jpeg?w=750&dpr=1.0",
-      "summary": "सीबीएसई ने 12वीं कक्षा की उत्तर पुस्तिकाओं के मूल्यांकन CBSE: सीबीएसई ने 12वीं रिजल्ट में ओएसएम सिस्टम को लेकर उठे सवालों पर सफाई दी है। बोर्ड ने बताया कि डिजिटल मूल्यांकन प्रक्रिया में स्कैनिंग, क्वालिटी चेक, शिक्षक प्रशिक्षण और मार्किंग सिस्टम को पारंपरिक तरीके जैसा बनाया गया था।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीबीएसई ने बताया कैसे हुई 12वीं की कॉपियों की जांच; दिए विद्यार्थियों के मन में उठ रहे 27 सवालों के",
-          "summary": "सीबीएसई ने 12वीं कक्षा की उत्तर पुस्तिकाओं के मूल्यांकन CBSE: सीबीएसई ने 12वीं रिजल्ट में ओएसएम सिस्टम को लेकर उठे सवालों पर सफाई दी है। बोर्ड ने बताया कि डिजिटल मूल्यांकन प्रक्रिया में स्कैनिंग, क्वालिटी चेक, शिक्षक प्रशिक्षण और मार्किंग सिस्टम को पारंपरिक तरीके जैसा बनाया गया था।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "इस दिन भूलकर भी पीपल पर न चढ़ाएं जल",
-      "url": "https://www.amarujala.com/web-stories/spirituality/religion/peepal-me-jal-chadhane-ke-fayde-know-peepal-par-kab-jal-nhi-chadhana-chahiye-2026-05-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-19T00:29:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/papal-para-jal-caugdhhana-ka-nayama_da27790bef55ef31c5e95f962ff63b9b.jpeg?w=750&dpr=1.0",
-      "summary": "पीपल के पेड़ पर जल चढ़ाने के कुछ विशेष नियम हैं। रविवार को पीपल पर जल नहीं चढ़ाना चाहिए। ऐसा माना जाता है कि रविवार को पीपल पर जल चढ़ाने से दुर्भाग्य आता है। इसके अलावा, अमावस्या और चतुर्दशी को भी पीपल पर जल चढ़ाना वर्जित है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस दिन भूलकर भी पीपल पर न चढ़ाएं जल",
-          "summary": "पीपल के पेड़ पर जल चढ़ाने के कुछ विशेष नियम हैं। रविवार को पीपल पर जल नहीं चढ़ाना चाहिए। ऐसा माना जाता है कि रविवार को पीपल पर जल चढ़ाने से दुर्भाग्य आता है। इसके अलावा, अमावस्या और चतुर्दशी को भी पीपल पर जल चढ़ाना वर्जित है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "यूपी में कैसे आठ साल में ढाई गुना बढ़ी महिला वर्कफोर्स, जानें सरकार ने क्या उठाए कदम",
-      "url": "https://www.amarujala.com/events-coverage/uttar-pradesh-employment-and-labour-women-workforce-increase-in-years-up-govt-news-and-updates-2026-05-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-19T00:25:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/up-women-empowerment_6e8301af9813870d55739b5905c6c87c.jpeg?w=750&dpr=1.0",
-      "summary": "उत्तर प्रदेश में महिला श्रम भागीदारी दर 2017-18 उत्तर प्रदेश में महिला कामगारों (महिला श्रम भागीदारी दर - एफएलपीआर) की स्थिति में ऐतिहासिक और ढांचागत सुधार हुआ है, जिसके तहत महिला वर्कफोर्स की भागीदारी 2017-18 के 14.2% से तीन गुना बढ़कर 36% से ज्यादा हो गई है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपी में कैसे आठ साल में ढाई गुना बढ़ी महिला वर्कफोर्स, जानें सरकार ने क्या उठाए कदम",
-          "summary": "उत्तर प्रदेश में महिला श्रम भागीदारी दर 2017-18 उत्तर प्रदेश में महिला कामगारों (महिला श्रम भागीदारी दर - एफएलपीआर) की स्थिति में ऐतिहासिक और ढांचागत सुधार हुआ है, जिसके तहत महिला वर्कफोर्स की भागीदारी 2017-18 के 14.2% से तीन गुना बढ़कर 36% से ज्यादा हो गई है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या एआई के पास होगी इंसानों जैसी भावनाएं? कैसा होगा भविष्य, संवाद में हुई चर्चा",
-      "url": "https://www.amarujala.com/technology/tech-diary/amarujala-samvad-2026-future-with-ai-and-humans-topic-discussed-2026-05-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-19T00:24:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/aus-ai-2026_884422976bc0d8ac3f3e3089dc8369cb.jpeg?w=750&dpr=1.0",
-      "summary": "लखनऊ में 'अमर उजाला संवाद उत्तर प्रदेश 2026 लखनऊ में आयोजित 'अमर उजाला संवाद उत्तर प्रदेश 2026' के दूसरे दिन \"भविष्य की दुनिया: एआई और इंसान\" विषय पर चर्चा करने के लिए कवि और फिल्म गीतकार आलोक श्रीवास्तव, S45 एआई के फाउंडर अमन सिंह और इंटेलिमो एआई के फाउंडर सौरव शामिल हुए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या एआई के पास होगी इंसानों जैसी भावनाएं? कैसा होगा भविष्य, संवाद में हुई चर्चा",
-          "summary": "लखनऊ में 'अमर उजाला संवाद उत्तर प्रदेश 2026 लखनऊ में आयोजित 'अमर उजाला संवाद उत्तर प्रदेश 2026' के दूसरे दिन \"भविष्य की दुनिया: एआई और इंसान\" विषय पर चर्चा करने के लिए कवि और फिल्म गीतकार आलोक श्रीवास्तव, S45 एआई के फाउंडर अमन सिंह और इंटेलिमो एआई के फाउंडर सौरव शामिल हुए।",
+          "title": "Amar Ujala Samwad Lucknow 2026: क्या AI की लिखावट में इंसान की भावनाएँ झलक सकती हैं?",
+          "summary": "लखनऊ में आयोजित अमर उजाला संवाद में यह सवाल उठाया गया कि क्या कृत्रिम बुद्धिमत्ता (AI) द्वारा लिखी गई सामग्री में मानवीय भावनाओं को दर्शाया जा सकता है। इस पर चर्चा की गई।",
           "region": "दुनिया"
         }
       }
