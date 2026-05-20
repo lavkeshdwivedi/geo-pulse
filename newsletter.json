@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-05-20T13:41:27.960869+00:00",
-  "article_count": 43,
-  "total_unique_count": 379,
+  "generated_at": "2026-05-20T16:54:34.843379+00:00",
+  "article_count": 44,
+  "total_unique_count": 371,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Ebola risk is high inside DR Congo but it’s no pandemic emergency: WHO. 18 fresh dispatches in this edition.",
-    "hi": "संयुक्त राष्ट्र द्वारा भारत के विकास अनुमान को घटाना वैश्विक आर्थिक मंदी के बढ़ते खतरे को दर्शाता है। इसके बावजूद, भारत की अर्थव्यवस्था के मजबूत बने रहने की उम्मीद है। यह स्थिति वैश्विक अनिश्चितताओं के बीच एक विरोधाभास प्रस्तुत करती है।"
+    "en": "Bolivia's protests and Iran's forceful response dominate headlines. The WHO's Ebola assessment in DR Congo offers a contrasting public health signal. Singapore's National AI Missions also signal a focus on future technology.",
+    "hi": "इस घंटे बोर्ड पर वैश्विक / बहुपक्षीय की अगुवाई है, सशस्त्र टकरावों में हर 14 मिनट में एक आम नागरिक ने गँवाई जान मुख्य खबर है। साथ ही यूरोप और रूस से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
+      "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-20T16:23:25+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/93b903de5e560b1248bb63863effa0c14c5289e0/150_0_1502_1201/master/1502.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a356d37baf855ad699c36dab09cbfcf",
+      "summary": "Protests blocking roads in La Paz, Bolivia, have entered their second week. Demonstrators and police have clashed in the capital. The unrest marks a turbulent period for President Rodrigo Paz Pereira's six-month administration.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why WHO is worried about Ebola outbreak | Above the Fold | 20.05.2026",
+      "url": "https://www.thehindu.com/videos/watch-why-who-is-worried-about-ebola-outbreak-above-the-fold-20052026/article71003008.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-20T16:17:12+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/yaphar/article71002996.ece/alternates/LANDSCAPE_1200/MAY%2020%20THUMB%20FINAL.png",
+      "summary": "The World Health Organization has issued its highest alert for an Ebola outbreak in Central Africa. This alert is part of a broader discussion on global health concerns. In today’s episode, we look at the WHO’s highest-level alert over the Ebola outbreak in Central Africa, PM Modi’s meetings with Giorgia Meloni, Vladimir Putin’s high-stakes Beijing visit, the Supreme Court’s remarks backing caste enumeration in Census 2027, and Kerala’s decision on K-Rail SilverLine project and more.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Alleged child abuse survivor takes on Albanese government over $2.5bn Nauru deal",
+      "url": "https://www.theguardian.com/australia-news/2026/may/21/indefensible-alleged-child-abuse-survivor-takes-on-albanese-government-over-25bn-nauru-deal",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-20T15:00:46+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/6c2533f90218e2e8f311e2b336a4e2f478c7e821/95_0_1875_1500/master/1875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3b70d00dd467aac323a8d3089ad772c",
+      "summary": "Lawyers representing an alleged child abuse survivor are challenging the Australian government's $2.5 billion deal with Nauru. The legal bid aims to prevent the deportation of non-citizens to the Pacific island.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran chief negotiator says preparing 'forceful response' to potential attacks",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-strait-of-hormuz-updates-us-putin-trump-may-20-2026/article71000732.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-20T14:44:12+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/h9h7cx/article71002360.ece/alternates/LANDSCAPE_1200/Lebanon_Israel_Iran_War_69684.jpg",
+      "summary": "Iran's chief negotiator stated that preparations are underway for a forceful response to potential attacks. He emphasized that Iran will not yield to intimidation. \"We must strengthen our preparations for an effective and forceful response to any potential attacks,\" said Mr. Ghalibaf in an audio message on his website, adding that \"Iran will never give in to intimidation, under any circumstances.\".",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'Work has already begun,' says Josephine Teo in outlining National AI Missions",
+      "url": "https://www.channelnewsasia.com/singapore/mddi-josephine-teo-ai-missions-atxsummit-2026-6131816",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-20T13:53:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--ZGwfzSTR--/c_crop,h_1109,w_1972,x_0,y_163/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/31/20260327_bk_jo_teo_media_interview_on_ai_3.jpg?itok=9GTm01Kc",
+      "summary": "Singapore's Minister for Digital Development and Information, Josephine Teo, announced that work has begun on National AI Missions. These missions will focus on solving global problems. Speaking at the ATxSummit 2026, Minister for Digital Development and Information Josephine Teo said that the National AI Missions would be driven by \"problem statements worth solving, not just for Singapore but for the world\".",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Ebola risk is high inside DR Congo but it’s no pandemic emergency: WHO",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167553",
@@ -92,18 +152,6 @@
       "translations": {}
     },
     {
-      "title": "Defense department watchdog opens inquiry into US airstrikes on alleged drug boats",
-      "url": "https://www.theguardian.com/us-news/2026/may/19/defense-department-inquiry-airstrikes-alleged-drug-boats",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-19T15:53:27+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/8da35984d572ab77fa6f76bd55ed5e17985c613e/459_803_3579_2863/master/3579.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f01431e448b8c375f4dd9e11aea0802",
-      "summary": "The Pentagon's inspector general is investigating US military airstrikes on alleged drug boats. The inquiry will determine if commanders followed standard procedures before conducting lethal strikes in the Caribbean and eastern Pacific. The investigation focuses on the process followed by military leadership.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
       "url": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again",
       "source": "The Guardian",
@@ -152,30 +200,6 @@
       "translations": {}
     },
     {
-      "title": "Fears of new China shock as EU industry’s reliance on imports grows",
-      "url": "https://www.theguardian.com/business/2026/may/19/china-shock-eu-european-union-industry-imports",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-19T06:00:02+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/e7dbf85178ee5894eff2d5ed76b744d593c1b44a/0_0_6261_5011/master/6261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d734d4d2979b56acf195ba6affadc618",
-      "summary": "European industries face a potential \"China shock\" due to increasing reliance on imported components. Trade analysts warn this could lead to job losses and the cannibalization of local factories by Beijing. Rising volume of components imported from China prompts warning of cannibalisation of European industriesEurope is facing a fresh China shock that threatens to cannibalise local factories, leading to job losses and de facto colonisation of industry by Beijing, trade analysts and representatives have said.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump’s shifting remarks on Taiwan are perfect for China to exploit",
-      "url": "https://www.theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-19T00:22:53+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/ae774700c4fa9de0d4e52cd846d8da726ed23ccd/283_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfffd0bed05d8aeab64e0193bd95f152",
-      "summary": "Donald Trump stated that arms deals with Taiwan were a \"negotiating chip\" with Beijing. Chinese state media has amplified these remarks. Taiwan's government has expressed concern over the unpredictable US leader's stance. President’s remarks about Taiwan arms deals being a ‘negotiating chip’ with Beijing have been seized on by Chinese state mediaIt has been an unsettling few days for Taiwan’s government.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167540",
       "source": "UN News",
@@ -212,16 +236,94 @@
       "translations": {}
     },
     {
-      "title": "Housing crisis takes centre stage at World Urban Forum in Baku",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167533",
-      "source": "UN News",
+      "title": "सशस्त्र टकरावों में हर 14 मिनट में एक आम नागरिक ने गँवाई जान",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XNmtPVHNUYU1sYWd3NWwzUFUyVnFmVk5DMjNPQ1VVeG5WV0JzeHRjZnU0N2NsMERXUm5hYlJfT1FYbzRnZHBDUGdJMkVjYkVhTXY5YUNTcw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-18T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-09-2023-UN-Habitat-Bangladesh.jpg/image770x420cropped.jpg",
-      "summary": "UN Secretary General António Guterres urged participants at a global forum in Baku Now is the time to place housing at the heart of sustainable development. That was the message delivered on Monday by UN Secretary General António Guterres to participants at a global forum on urban sustainability under way this week in Baku.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-20T16:07:35+00:00",
+      "image_url": "https://images.pexels.com/photos/19550558/pexels-photo-19550558.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र समाचार के अनुसार, सशस्त्र संघर्षों में हर 14 मिनट में एक नागरिक की मौत हो रही है। यह आंकड़ा संघर्षों की भयावहता को दर्शाता है। सुरक्षा परिषद: सशस्त्र टकरावों में हर 14 मिनट में एक आम नागरिक ने गँवाई जान UN News।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सशस्त्र टकरावों में हर 14 मिनट में एक आम नागरिक ने गँवाई जान",
+          "summary": "संयुक्त राष्ट्र समाचार के अनुसार, सशस्त्र संघर्षों में हर 14 मिनट में एक नागरिक की मौत हो रही है। यह आंकड़ा संघर्षों की भयावहता को दर्शाता है। सुरक्षा परिषद: सशस्त्र टकरावों में हर 14 मिनट में एक आम नागरिक ने गँवाई जान UN News।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "टॉफी के बहाने कूटनीति की मिठास, पीएम मोदी का इटली में स्वदेशी ब्रांड का मास्टरस्ट्रोक!",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObmtOaXE3ZFFrcWc1NlkyelVxc3R4YjllU29hN1hyTmZCdzgtRHpYX002VktPZUlUaVkyZDJndWhiREJkalMwYTRJQk8ycVU0Z3FRSG9hMk51dnpZU3FBQkVXQ1BPMU5zQ25JSVF0ZUplbjViZW4wZkJpVGktemduZGZtQjNVSHJzUHN4NDBYbVhWY05YQVY2OUdmLVdrX2x5VnZpeno5dTdLdGZ3SGZRZ3BDOUlubnhnVnhqaGVreGVhZzdwLWdVd0xWY3hCZVk3TlFDS3FqQnpqRndRZmVIS0RhNWbSAeoBQVVfeXFMTWFoYVFpdnRuemtmRmt2NUkxaW5jVFpWZlFNU2J2aVV3ZXJkMmlJckg0cktkRHZmOHBxTTUxSnY2SXF4alZlZzB4VzFGY2lfZlVMMFRIYXdKWTJsM1RidjlHYXVtdnROekRWVlpRbExyNmJKT1pMVFoxenNRZk9JMGV4em9DZTUxdmstQlY1bURDT0FJcFk0QmJFR2tUX1F6cmNOR0xDaFdWQjdwaFIzWDFoY1N1eXhkWTlNbFBDZ3FFaDhYOERyZW5sNUxRTHhGdFN5bk9HVzgxSS1FaWFETW1BYmZ0QnV0Rk9B?oc=5",
+      "source": "Google News Hindi (कूटनीति)",
+      "sources": [],
+      "published_at": "2026-05-20T15:51:00+00:00",
+      "image_url": "https://images.pexels.com/photos/2231611/pexels-photo-2231611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "प्रधानमंत्री मोदी ने इटली में प्रधानमंत्री मेलोनी से मुलाकात के दौरान एक भारतीय स्वदेशी टॉफी ब्रांड का उपहार दिया। यह कूटनीतिक पहल का हिस्सा था। मेलोनी से ‘मेलोडी’ तक: टॉफी के बहाने कूटनीति की मिठास, पीएम मोदी का इटली में स्वदेशी ब्रांड का मास्टरस्ट्रोक!",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "टॉफी के बहाने कूटनीति की मिठास, पीएम मोदी का इटली में स्वदेशी ब्रांड का मास्टरस्ट्रोक!",
+          "summary": "प्रधानमंत्री मोदी ने इटली में प्रधानमंत्री मेलोनी से मुलाकात के दौरान एक भारतीय स्वदेशी टॉफी ब्रांड का उपहार दिया। यह कूटनीतिक पहल का हिस्सा था। मेलोनी से ‘मेलोडी’ तक: टॉफी के बहाने कूटनीति की मिठास, पीएम मोदी का इटली में स्वदेशी ब्रांड का मास्टरस्ट्रोक!",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "त्विषा शर्मा के शव का दोबारा नहीं होगा पोस्टमार्टम, भोपाल पुलिस ने बताया ख़ुदकुशी का मामला",
+      "url": "https://www.bbc.com/hindi/articles/ce3pkl75q2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-20T15:32:45+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/da32/live/cad63db0-5424-11f1-9a06-e9b999966857.jpg",
+      "summary": "भोपाल पुलिस ने पोस्टमार्टम रिपोर्ट का हवाला देते हुए कहा कि त्विषा शर्मा की मौत आत्महत्या से हुई है. परिवार ने शरीर पर चोट के निशान मिलने का दावा करते हुए पुलिस के बयान पर सवाल उठाए हैं. पुलिस ने कहा कि चोट के निशान पहले से थे.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "त्विषा शर्मा के शव का दोबारा नहीं होगा पोस्टमार्टम, भोपाल पुलिस ने बताया ख़ुदकुशी का मामला",
+          "summary": "भोपाल पुलिस ने पोस्टमार्टम रिपोर्ट का हवाला देते हुए कहा कि त्विषा शर्मा की मौत आत्महत्या से हुई है. परिवार ने शरीर पर चोट के निशान मिलने का दावा करते हुए पुलिस के बयान पर सवाल उठाए हैं. पुलिस ने कहा कि चोट के निशान पहले से थे.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सांसद इक़रा हसन की यूपी पुलिस से तक़रार, क्या है पूरा मामला",
+      "url": "https://www.bbc.com/hindi/articles/c5y7v2wq72xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-20T14:55:59+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/f819/live/b33c30b0-544c-11f1-b682-cf91850925ea.jpg",
+      "summary": "कैराना की सांसद इक़रा हसन ने यूपी पुलिस पर उन्हें हिरासत में लेने का आरोप लगाया। सहारनपुर पुलिस ने कहा कि कार्रवाई शांति भंग करने वालों पर हुई। कैराना से समाजवादी पार्टी सांसद इक़रा हसन ने पुलिस पर हिरासत में लेने के आरोप लगाए. वहीं सहारनपुर पुलिस ने कहा है कि शांति व्यवस्था भंग करने वाले और यातायात बाधित करने वाले व्यक्तियों पर कार्रवाई की गई.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सांसद इक़रा हसन की यूपी पुलिस से तक़रार, क्या है पूरा मामला",
+          "summary": "कैराना की सांसद इक़रा हसन ने यूपी पुलिस पर उन्हें हिरासत में लेने का आरोप लगाया। सहारनपुर पुलिस ने कहा कि कार्रवाई शांति भंग करने वालों पर हुई। कैराना से समाजवादी पार्टी सांसद इक़रा हसन ने पुलिस पर हिरासत में लेने के आरोप लगाए. वहीं सहारनपुर पुलिस ने कहा है कि शांति व्यवस्था भंग करने वाले और यातायात बाधित करने वाले व्यक्तियों पर कार्रवाई की गई.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी विदेश दौरे पर पत्रकारों के सवाल क्यों नहीं लेते हैं, जानिए पूरा विवाद",
+      "url": "https://www.bbc.com/hindi/articles/c1w2zer90yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-20T14:11:17+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/942b/live/52874670-5450-11f1-bc99-1d37de959855.jpg",
+      "summary": "प्रधानमंत्री मोदी के यूरोप दौरे पर पत्रकारों के सवाल न लेने को लेकर विवाद हुआ। विदेश मंत्रालय को इस पर दो बार स्पष्टीकरण देना पड़ा। प्रधानमंत्री नरेंद्र मोदी का यूरोप दौरा प्रेस कॉन्फ़्रेंस में सवाल नहीं लेने के कारण विवादों में है. विदेश मंत्रालय को दो बार सफ़ाई देनी पड़ी.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी विदेश दौरे पर पत्रकारों के सवाल क्यों नहीं लेते हैं, जानिए पूरा विवाद",
+          "summary": "प्रधानमंत्री मोदी के यूरोप दौरे पर पत्रकारों के सवाल न लेने को लेकर विवाद हुआ। विदेश मंत्रालय को इस पर दो बार स्पष्टीकरण देना पड़ा। प्रधानमंत्री नरेंद्र मोदी का यूरोप दौरा प्रेस कॉन्फ़्रेंस में सवाल नहीं लेने के कारण विवादों में है. विदेश मंत्रालय को दो बार सफ़ाई देनी पड़ी.",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "इजरायल के सैन्य द्वारा पकड़े गए एनआरआई की सुरक्षा कूटनीति के माध्यम से की जाती है",
@@ -274,24 +376,6 @@
           "title": "जहाँगीर ख़ान मामले को टीएमसी के बड़े संकट के तौर पर क्यों देखा जा रहा है?",
           "summary": "पश्चिम बंगाल के फाल्टा विधानसभा क्षेत्र में तृणमूल कांग्रेस के उम्मीदवार जहाँगीर ख़ान ने मतदान से दो दिन पहले चुनाव से हटने का फैसला किया है। यह निर्णय पार्टी के लिए एक बड़ा झटका माना जा रहा है। ख़ान का यह कदम पार्टी के भीतर चल रही अंदरूनी कलह की ओर इशारा करता है।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त राष्ट्र ने वृद्धि का अनुमान घटाया",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUFpvU1lCSDZUTTZ6ZERRT2lSZzlfS04zUmtYczdBTnpWdkI2ZlNXUVVVMFg3VVIwSXZyWENIVGwzUGF6U3BmRF9TVnUyV1JuVVBSMy1YUWdPckkwLWVMdU5NZXJpVE9LYXZWWkVINjM5SV92czJjbEh0ZElPcWdvT2JxVFZvM29WdXZVcGhPeU9GQS13SjRKNU9sYjhIcllDLWtoaHdPdk90Sm5JTElCQWJIX0JCRnN6RVpvRUhyTTJhbjZQZDdDWTJaRmFpMHRIZUtiNlY1LTk2MFJySlY2a9IB5gFBVV95cUxPNHZzSkNSUDRDNFdKZ0Y3Y29WaEthU3hhX3lOaWNiV3ctTnJzdWtsSEdrVTFweVJFMmgyQjB0ZFNRWi1UYVpqcllaVUo0NHJLeGZUSDRpc3lyekY1XzFtNXBkMnZmNkZYaWN0Ulo0SlpQcE9zZ3FuNERqRXhZWmVkVnRtcW14ZkNQcUstNG5MT2NYVzM0RGdyd2ZIeE1iLVlidWRBbEhwdFVLZzNHMWE3WC1fSkZXOFRfQ3dGSXdRbzdPZ3VQQ04wNHFJTU04czhlNVE0em1sWm9mTE4ySnFZVUpGSkFOUQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-20T11:53:27+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र ने 2024 के लिए वैश्विक आर्थिक वृद्धि का अनुमान घटाकर 2.7% कर दिया है। यह पिछले वर्ष के 3% अनुमान से कम है। यह कटौती उच्च मुद्रास्फीति, बढ़ती ब्याज दरों और भू-राजनीतिक तनावों के कारण की गई है। संयुक्त राष्ट्र ने वृद्धि का अनुमान घटाया Hindustan Hindi News।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संयुक्त राष्ट्र ने वृद्धि का अनुमान घटाया",
-          "summary": "संयुक्त राष्ट्र ने 2024 के लिए वैश्विक आर्थिक वृद्धि का अनुमान घटाकर 2.7% कर दिया है। यह पिछले वर्ष के 3% अनुमान से कम है। यह कटौती उच्च मुद्रास्फीति, बढ़ती ब्याज दरों और भू-राजनीतिक तनावों के कारण की गई है। संयुक्त राष्ट्र ने वृद्धि का अनुमान घटाया Hindustan Hindi News।",
-          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     },
@@ -386,20 +470,20 @@
       }
     },
     {
-      "title": "भोपाल पुलिस का दावा, 'त्विषा ने ख़ुदकुशी की', परिवार का सवाल- शरीर पर चोट के निशान क्यों?",
-      "url": "https://www.bbc.com/hindi/articles/ce3pkl75q2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
+      "title": "भारत पर पश्चिम एशिया संकट का बुरा असर, UN ने 2026 के लिए GDP वृद्धि का अनुमान घटाकर 6.4% किया",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSmc1STJmbEZFZnROUnNvVVdfenVJTzZsbmotU0l5SnBUV1VETzBxSDJqVHNSTGd0ZEkydjVkRF96RG1xUE9ZM0NDamR2cnJ1aWEwZ0NaRHgta3BvbkNEeVBXOG5oSkY4SlZnOTRKT0dwdHhOS2F3NVhqd0lFQUpEMzZ2b25mUGNyRDcydDJMNXhCVDlYTE5RYTVubjlLOGhrcjRQSFhJaWF4NEd2YnBOWGJTdWVEcURYZjE1bjluZVNWamkyT2I0cEZTSWp0M2hiRVFZ0gHYAUFVX3lxTE1JdlBjeF9jVlQwNjNtclhFbl9kV0xEQ2h2U2tMV3dxenJCamZ0MER6Sjk3T0Rzb0NCVWdHeHdMa2MxQXdvZFlnN2VabFB1Y24tNGZkMF93bUtCbWdKR2x3bnNyWkJLbzI2NUFJYWU2SVFQNXFhbDNZbmt4ZWdxeW0yS0piRkRFRkRrWVZoLTVzUVZkY0E3M19JZ1U1Qkt1SEczeWc2NlBLenM1MmxLbWNlMHVTektQSmFGRFRHU00yZkd6ZW1mZUNOLWd4TDNWYWpvZ25wemwtdQ?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-20T10:00:32+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/da32/live/cad63db0-5424-11f1-9a06-e9b999966857.jpg",
-      "summary": "भोपाल पुलिस ने पोस्टमार्टम रिपोर्ट का हवाला देते हुए कहा कि त्विषा शर्मा की मौत आत्महत्या से हुई है. परिवार ने शरीर पर चोट के निशान मिलने का दावा करते हुए पुलिस के बयान पर सवाल उठाए हैं. पुलिस ने कहा कि चोट के निशान पहले से थे.",
-      "region": "World",
+      "published_at": "2026-05-20T09:17:44+00:00",
+      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "पश्चिम एशिया संकट के कारण संयुक्त राष्ट्र ने 2026 के लिए भारत की जीडीपी वृद्धि का अनुमान घटाकर 6.4% कर दिया है। इसका असर भारतीय अर्थव्यवस्था पर पड़ेगा। भारत पर पश्चिम एशिया संकट का बुरा असर, UN ने 2026 के लिए GDP वृद्धि का अनुमान घटाकर 6.4% किया India TV Hindi।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भोपाल पुलिस का दावा, 'त्विषा ने ख़ुदकुशी की', परिवार का सवाल- शरीर पर चोट के निशान क्यों?",
-          "summary": "भोपाल पुलिस ने पोस्टमार्टम रिपोर्ट का हवाला देते हुए कहा कि त्विषा शर्मा की मौत आत्महत्या से हुई है. परिवार ने शरीर पर चोट के निशान मिलने का दावा करते हुए पुलिस के बयान पर सवाल उठाए हैं. पुलिस ने कहा कि चोट के निशान पहले से थे.",
-          "region": "दुनिया"
+          "title": "भारत पर पश्चिम एशिया संकट का बुरा असर, UN ने 2026 के लिए GDP वृद्धि का अनुमान घटाकर 6.4% किया",
+          "summary": "पश्चिम एशिया संकट के कारण संयुक्त राष्ट्र ने 2026 के लिए भारत की जीडीपी वृद्धि का अनुमान घटाकर 6.4% कर दिया है। इसका असर भारतीय अर्थव्यवस्था पर पड़ेगा। भारत पर पश्चिम एशिया संकट का बुरा असर, UN ने 2026 के लिए GDP वृद्धि का अनुमान घटाकर 6.4% किया India TV Hindi।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -422,24 +506,6 @@
       }
     },
     {
-      "title": "ईरान-अमेरिका तनाव से वैश्विक अर्थव्यवस्था पर बड़ा खतरा, 100 साल का टूटेगा रिकॉर्ड?",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUptNnpyNEloOG5WYURJclp6YWFXZEJpa2lBNmI0S2YtYWRwdFhJUzNJMEhfZWEzZUFZZDZGTVlUU1UwNTJHZXlDOHljeEwxNVFELWRCS1dwRkppYVdraUhFV2lTdmJROUg0dkRvM2NubnpKVGVSOHRuWVJWaFlWT25XQzczMnVxQkxvSGJRQkZzTm5QcWNzSVQ4OHBHZVBKUDB0UmZ3VFBHLUxmSUlNWEFqSdIBtgFBVV95cUxNTzRVZEZvVEZZckNoOFVsdFJoLVA0bjRMWHpCRjFvcEdITW9MRXkxYzJzQlZsc1ZROElqQjhIUURlbGxSQ1VmQW9VNk84bU81NnRaSDdQQWR6MUwtMUdmVHVzbFl1R2NLMEpHSkltTjFOa0xZWTFQZGZTZnYtWHVTT3cyRHJVSHZGdWRQS3NpaGJWdjFJTUVQaExXd0pXN1pUY1BaZENuS2l0U0U1ZXJjNEFESGxMUQ?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-20T08:31:55+00:00",
-      "image_url": "https://images.pexels.com/photos/36675779/pexels-photo-36675779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान और अमेरिका के बीच बढ़ते तनाव ने वैश्विक अर्थव्यवस्था के लिए गंभीर खतरा पैदा कर दिया है। यह स्थिति पिछले 100 वर्षों के रिकॉर्ड को तोड़ सकती है। UN Warning: ईरान-अमेरिका तनाव से वैश्विक अर्थव्यवस्था पर बड़ा खतरा, 100 साल का टूटेगा रिकॉर्ड?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान-अमेरिका तनाव से वैश्विक अर्थव्यवस्था पर बड़ा खतरा, 100 साल का टूटेगा रिकॉर्ड?",
-          "summary": "ईरान और अमेरिका के बीच बढ़ते तनाव ने वैश्विक अर्थव्यवस्था के लिए गंभीर खतरा पैदा कर दिया है। यह स्थिति पिछले 100 वर्षों के रिकॉर्ड को तोड़ सकती है। UN Warning: ईरान-अमेरिका तनाव से वैश्विक अर्थव्यवस्था पर बड़ा खतरा, 100 साल का टूटेगा रिकॉर्ड?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "पेट्रोल-डीज़ल के बढ़ते दाम, आपकी जेब पर कितना होगा असर",
       "url": "https://www.bbc.com/hindi/articles/c87ql251n2wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
@@ -453,24 +519,6 @@
         "hi": {
           "title": "पेट्रोल-डीज़ल के बढ़ते दाम, आपकी जेब पर कितना होगा असर",
           "summary": "भारत में सात दिनों के भीतर तेल की कीमतों में दो बार वृद्धि हुई है। भविष्य में तेल संकट बढ़ने पर भारतीय अर्थव्यवस्था पर इसका महत्वपूर्ण प्रभाव पड़ सकता है। भारत में सात दिनों के भीतर दो बार तेल के दाम बढ़े हैं, भविष्य में तेल संकट बढ़ा तो कैसे हो सकते हैं हालात?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत ने सुरक्षा परिषद की सुधार प्रक्रिया पर उठाए सवाल, बहुमत की राय को दबाने का आरोप",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3RtSVloRzg5RHdOazB3WFF6TGN5RkNBSVZqZVktRWY1NWRIZUc1ODhEUVNheXYzdXlNdU1BTF9NOGlDb3lmSGtNLVhWcUJDY29sZ196WUpka3RHS2RsTDZiendCVWpLQTFoTUVGRXlUNWxFYUVIak82c0NYZmVnV3dBcEt2MTUxR1hrcjNhU1htdEtQMWo5RGlLVlpHWVB6cDcyUnRrS292aXJDV3RkRk9PRjVSMWpJT1BQU3VEb2w3M0NxVnc?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-20T08:12:41+00:00",
-      "image_url": "https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद की सुधार प्रक्रिया पर सवाल उठाए हैं भारत ने सुरक्षा परिषद की सुधार प्रक्रिया पर उठाए सवाल, बहुमत की राय को दबाने का आरोप bhaskarhindi. com।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत ने सुरक्षा परिषद की सुधार प्रक्रिया पर उठाए सवाल, बहुमत की राय को दबाने का आरोप",
-          "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद की सुधार प्रक्रिया पर सवाल उठाए हैं भारत ने सुरक्षा परिषद की सुधार प्रक्रिया पर उठाए सवाल, बहुमत की राय को दबाने का आरोप bhaskarhindi. com।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -544,24 +592,6 @@
           "title": "कार में सफर, साथ में डिनर फिर गिफ्ट में टॉफी, रोम में दिखी भारत और इटली की खास दोस्ती",
           "summary": "प्रधानमंत्री मोदी ने इटली की प्रधानमंत्री जॉर्जिया मेलोनी को भारत की मेलोडी टॉफी उपहार में दी। मेलोनी ने सोशल मीडिया पर इस उपहार के लिए धन्यवाद व्यक्त किया। पीएम मोदी ने दिया खास गिफ्ट: भारत की मेलोडी टॉफी पहुंची इटली, मेलोनी ने सोशल मीडिया पर किया शुक्रिया अदा।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "इसे कहते हैं-दो के झगड़े में सबका नुकसान! युद्ध लड़ रहे ईरान और अमेरिका, रेंगती नजर आएगी दुनिया",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSktqc0VlZjBGMlF3N0YwUnU0M3lSUW9QOTNkcnZwS1RCTDd3MzdxcXphRENzQ3B4azIzUEdobVY1VU5kVW5qRUM1SXVjOVlvWTBfNnB4bHMxYkJWYVFyU3I1SWxiLTlrcXpRRHJoQXhqZTVpUGh2enRPeVJhbHdBd0prTXFoN2V6WHdmNVVpUjlNVHpod3pISWhHWVAzWnhFNjdUb0dkZHhCcVdPV195RkpfdFFlVWJuREJFQUZ6cWZiT01mdkMxckwybG9pMUpCUVFLQmxkMkYwM2FXN2cxa0NZOUNQUFdTYWZNblVoMNIB9AFBVV95cUxPek1laUdhQ0xiOF9QNVFMam10VUpHLTdIQjNhaU1hRzN2VFpqUC14YlVsS1pfV3lRUHRxNl91enF2VzhNM3N2b1pFTl8zRTlNS09kM0ZWZHJXV0xZYXZNSUhuaFhpX0FoNmNZTnczR0hvX0poVG91ZDFHVjVWU29ubjdHSC1jYjFuWE9UWjJtcU1CdFIzR092REpFY2xLUTVxdDZqX1ViM0taQ1hQSXN6SEF3UnVDLUpLMTdFY1JfM1FHVjZDZDB3SDEwOUNmNTZ5Znk0NDB4V0tOcVk0cFdpU3U5Vno2TGkxbzFZQzYybHJfSlU3?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-20T06:36:53+00:00",
-      "image_url": "https://images.pexels.com/photos/37416558/pexels-photo-37416558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "ईरान और अमेरिका के बीच युद्ध की स्थिति बनी हुई है। इस संघर्ष का वैश्विक अर्थव्यवस्था पर नकारात्मक प्रभाव पड़ने की आशंका है। इसे कहते हैं-दो के झगड़े में सबका नुकसान!",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इसे कहते हैं-दो के झगड़े में सबका नुकसान! युद्ध लड़ रहे ईरान और अमेरिका, रेंगती नजर आएगी दुनिया",
-          "summary": "ईरान और अमेरिका के बीच युद्ध की स्थिति बनी हुई है। इस संघर्ष का वैश्विक अर्थव्यवस्था पर नकारात्मक प्रभाव पड़ने की आशंका है। इसे कहते हैं-दो के झगड़े में सबका नुकसान!",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -652,24 +682,6 @@
           "title": "पूर्वी चीन सागर में 6.0 तीव्रता का भूकंप, स्थानीय प्रशासन सूनामी को लेकर अलर्ट",
           "summary": "पूर्वी चीन सागर में 6.0 तीव्रता का भूकंप आया। स्थानीय प्रशासन ने सुनामी की चेतावनी जारी की है और सतर्कता बरती जा रही है। पूर्वी चीन सागर में 6.0 तीव्रता का भूकंप, स्थानीय प्रशासन सूनामी को लेकर अलर्ट।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "PM मोदी से मेलोनी की मुलाकात: साथ में डिनर से लेकर कोलोसियम दर्शन, इटली में पीएम के दौरे की खास",
-      "url": "https://www.amarujala.com/world/from-dinner-to-the-colosseum-pm-modi-and-meloni-discussed-key-issues-and-shared-special-moments-2026-05-20",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-20T04:37:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/parathhanamatara-matha-oura-ital-ka-paema-jarajaya-malna-ka-malkata_609ee4042123c65c96f80f6f5d2fd8c9.gif?w=750&dpr=1.0",
-      "summary": "प्रधानमंत्री मोदी ने इटली में प्रधानमंत्री मेलोनी के साथ मुलाकात की। दोनों नेताओं ने डिनर किया और कोलोसियम का दौरा किया। उन्होंने कई महत्वपूर्ण मुद्दों पर चर्चा की। Italy: डिनर से कोलोसियम तक साथ दिखे पीएम मोदी और मेलोनी; कई अहम मुद्दों पर हुई चर्चा, साझा की खास तस्वीरें।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PM मोदी से मेलोनी की मुलाकात: साथ में डिनर से लेकर कोलोसियम दर्शन, इटली में पीएम के दौरे की खास",
-          "summary": "प्रधानमंत्री मोदी ने इटली में प्रधानमंत्री मेलोनी के साथ मुलाकात की। दोनों नेताओं ने डिनर किया और कोलोसियम का दौरा किया। उन्होंने कई महत्वपूर्ण मुद्दों पर चर्चा की। Italy: डिनर से कोलोसियम तक साथ दिखे पीएम मोदी और मेलोनी; कई अहम मुद्दों पर हुई चर्चा, साझा की खास तस्वीरें।",
-          "region": "यूरोप और रूस"
         }
       }
     }
