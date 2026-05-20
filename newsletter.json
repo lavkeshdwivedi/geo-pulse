@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-20T21:56:38.731851+00:00",
-  "article_count": 45,
-  "total_unique_count": 368,
+  "generated_at": "2026-05-20T23:16:03.994511+00:00",
+  "article_count": 44,
+  "total_unique_count": 365,
   "digest": {
-    "en": "Bolivia's protests and Iran's nuclear talks dominate headlines. US actions in Cuba and Haiti's hunger crisis also demand attention. Regional tensions persist across the Middle East and Africa.",
-    "hi": "बंगाल में कुर्बानी को लेकर जुबानी जंग छिड़ी है। मंत्री अग्निमित्रा पॉल ने सरकार की स्थिति स्पष्ट की है। ट्रांसपोर्टरों की हड़ताल से दैनिक सेवाएं प्रभावित हो सकती हैं।"
+    "en": "US indicts former Cuban president Raúl Castro. Bolivia faces protests as the US warns of a potential coup. Iran examines a US proposal amid ongoing talks.",
+    "hi": "बंगाल में कुर्बानी को लेकर जुबानी जंग छिड़ी है। मंत्री अग्निमित्रा पॉल ने सरकार की स्थिति स्पष्ट की है। ट्रांसपोर्टरों की हड़ताल दैनिक सेवाओं को प्रभावित कर सकती है।"
   },
   "articles": [
+    {
+      "title": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
+      "url": "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-20T22:40:24+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/9760f9dade46512972889809a66ebc356af9c30c/250_0_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b5de8a4734b1d6e53bce3d08ae2515a",
+      "summary": "The United States indicted Raúl Castro, Cuba’s former president, Charges filed in Miami against 94-year-old for allegedly shooting down exiles’ planes in 1996The United States issued a federal criminal indictment against Raúl Castro, Cuba’s former president, and five others on Wednesday in a significant escalation of the Trump administration’s campaign to oust the country’s six-decades-old communist regime. The 94-year-old political figurehead was charged in Mia.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
       "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
@@ -40,18 +52,6 @@
       "image_url": "https://static01.nyt.com/images/2026/05/20/multimedia/20int-israel-flotilla-photo-htwl/20int-israel-flotilla-photo-htwl-facebookJumbo.jpg",
       "summary": "National security minister Itamar Ben-Gvir posted a video. The national security minister, Itamar Ben-Gvir, posted a video in which he is seen with handcuffed activists forced to kneel on the deck of a ship. It drew a rebuke from Prime Minister Benjamin Netanyahu. Video Shows Itamar Ben-Gvir Taunting Pro-Palestinian Activists.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
-      "url": "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-20T17:08:57+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/9760f9dade46512972889809a66ebc356af9c30c/250_0_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b5de8a4734b1d6e53bce3d08ae2515a",
-      "summary": "The United States indicted Raúl Castro, Cuba’s former president, Charges filed in Miami against 94-year-old for allegedly shooting down exiles’ planes in 1996The United States issued a federal criminal indictment against Raúl Castro, Cuba’s former president, and five others on Wednesday in a significant escalation of the Trump administration’s campaign to oust the country’s six-decades-old communist regime. The 94-year-old political figurehead was charged in Mia.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -99,18 +99,6 @@
       "published_at": "2026-05-20T15:00:46+00:00",
       "image_url": "https://i.guim.co.uk/img/media/6c2533f90218e2e8f311e2b336a4e2f478c7e821/95_0_1875_1500/master/1875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3b70d00dd467aac323a8d3089ad772c",
       "summary": "Lawyers representing an alleged child abuse survivor are challenging the Australian government's $2.5 billion deal with Nauru. The legal bid aims to prevent the deportation of non-citizens to the Pacific island.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "'Work has already begun,' says Josephine Teo in outlining National AI Missions",
-      "url": "https://www.channelnewsasia.com/singapore/mddi-josephine-teo-ai-missions-atxsummit-2026-6131816",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-20T13:53:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--ZGwfzSTR--/c_crop,h_1109,w_1972,x_0,y_163/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/31/20260327_bk_jo_teo_media_interview_on_ai_3.jpg?itok=9GTm01Kc",
-      "summary": "Singapore's Minister for Digital Development and Information, Josephine Teo, announced that work has begun on National AI Missions. These missions will focus on solving global problems. Speaking at the ATxSummit 2026, Minister for Digital Development and Information Josephine Teo said that the National AI Missions would be driven by \"problem statements worth solving, not just for Singapore but for the world\".",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -356,63 +344,153 @@
       }
     },
     {
-      "title": "इबोला वायरस को लेकर केंद्र अलर्ट, सूत्रों का दावा- भारत में अब तक कोई मामला नहीं",
-      "url": "https://www.amarujala.com/india-news/no-ebola-case-in-india-government-strengthens-alert-and-preparedness-2026-05-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-21T06:56:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/ebola-virus_da641058faedc903be7f5558509f1ed6.png?w=750&dpr=1.0",
-      "summary": "भारत सरकार इबोला वायरस के खतरे को लेकर सतर्क है। सूत्रों के अनुसार, देश में अब तक इबोला का कोई मामला सामने नहीं आया है। एहतियात के तौर पर, सरकार ने अलर्ट और तैयारियों को मजबूत किया है। इबोला वायरस को लेकर केंद्र अलर्ट, सूत्रों का दावा- भारत में अब तक कोई मामला नहीं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इबोला वायरस को लेकर केंद्र अलर्ट, सूत्रों का दावा- भारत में अब तक कोई मामला नहीं",
-          "summary": "भारत सरकार इबोला वायरस के खतरे को लेकर सतर्क है। सूत्रों के अनुसार, देश में अब तक इबोला का कोई मामला सामने नहीं आया है। एहतियात के तौर पर, सरकार ने अलर्ट और तैयारियों को मजबूत किया है। इबोला वायरस को लेकर केंद्र अलर्ट, सूत्रों का दावा- भारत में अब तक कोई मामला नहीं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कोलकाता ने मुंबई को चार विकेट से हराया, प्लेऑफ की उम्मीदें अब भी जीवित",
-      "url": "https://www.amarujala.com/live/cricket/cricket-news/kkr-vs-mi-live-cricket-score-kolkata-knight-riders-vs-mumbai-indians-ipl-2026-65th-match-updates-2026-05-20",
+      "title": "ममता बनर्जी की पार्टी में सब ठीक?: टीएमसी में बढ़ी टूट की अटकलें, विरोध प्रदर्शन में पहुंचे सिर्फ",
+      "url": "https://www.amarujala.com/india-news/tmc-faces-internal-rift-buzz-as-only-35-mlas-attend-protest-after-bengal-poll-defeat-2026-05-21",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-21T06:52:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/manashha-pada_8e0510cc57c6516db1e697b2c0c28398.jpeg?w=750&dpr=1.0",
-      "summary": "कोलकाता ने मुंबई को चार विकेट से हराकर इंडियन प्रीमियर लीग में अपनी जीत दर्ज की। इस जीत के साथ कोलकाता की टीम ने प्लेऑफ में पहुंचने की अपनी उम्मीदों को जीवित रखा है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। कोलकाता ने मुंबई को चार विकेट से हराया, प्लेऑफ की उम्मीदें अब भी जीवित।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कोलकाता ने मुंबई को चार विकेट से हराया, प्लेऑफ की उम्मीदें अब भी जीवित",
-          "summary": "कोलकाता ने मुंबई को चार विकेट से हराकर इंडियन प्रीमियर लीग में अपनी जीत दर्ज की। इस जीत के साथ कोलकाता की टीम ने प्लेऑफ में पहुंचने की अपनी उम्मीदों को जीवित रखा है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। कोलकाता ने मुंबई को चार विकेट से हराया, प्लेऑफ की उम्मीदें अब भी जीवित।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सलमान की फटकार के बाद बदले पैपराजी के सुर, भाईजान को देखते ही मांगने लगे माफी",
-      "url": "https://www.amarujala.com/entertainment/bollywood/salman-khan-happy-give-pose-paparazzi-say-sorry-to-bhai-jaan-video-goes-viral-2026-05-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-21T06:36:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/salmana-khana_129fa0ba09b7889072bcb3b92374b372.jpeg?w=750&dpr=1.0",
-      "summary": "सलमान खान की फटकार के बाद पैपराजी का रवैया बदल गया है। अब वे सलमान खान को देखते ही उनसे माफी मांगने लगे हैं। यह घटना उनके सोशल मीडिया पोस्ट के बाद हुई। बुधवार को सलमान खान अपनी सोशल मीडिया पोस्ट के जरिए दिन भर सोशल मीडिया पर छाए रहे।",
+      "published_at": "2026-05-20T23:10:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/tmc-faces-internal-rift_a8d739376a02f19d7813fefad40442d3.png?w=750&dpr=1.0",
+      "summary": "तृणमूल कांग्रेस में विधायक दल की बैठक में केवल 35 विधायक उपस्थित हुए। यह घटना ममता बनर्जी की पार्टी में आंतरिक कलह और संभावित टूट की अटकलों को हवा देती है। पार्टी के भीतर असंतोष के संकेत मिले हैं। ममता बनर्जी की पार्टी में सब ठीक?: टीएमसी में बढ़ी टूट की अटकलें, विरोध प्रदर्शन में पहुंचे सिर्फ 35 विधायक।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सलमान की फटकार के बाद बदले पैपराजी के सुर, भाईजान को देखते ही मांगने लगे माफी",
-          "summary": "सलमान खान की फटकार के बाद पैपराजी का रवैया बदल गया है। अब वे सलमान खान को देखते ही उनसे माफी मांगने लगे हैं। यह घटना उनके सोशल मीडिया पोस्ट के बाद हुई। बुधवार को सलमान खान अपनी सोशल मीडिया पोस्ट के जरिए दिन भर सोशल मीडिया पर छाए रहे।",
+          "title": "ममता बनर्जी की पार्टी में सब ठीक?: टीएमसी में बढ़ी टूट की अटकलें, विरोध प्रदर्शन में पहुंचे सिर्फ",
+          "summary": "तृणमूल कांग्रेस में विधायक दल की बैठक में केवल 35 विधायक उपस्थित हुए। यह घटना ममता बनर्जी की पार्टी में आंतरिक कलह और संभावित टूट की अटकलों को हवा देती है। पार्टी के भीतर असंतोष के संकेत मिले हैं। ममता बनर्जी की पार्टी में सब ठीक?: टीएमसी में बढ़ी टूट की अटकलें, विरोध प्रदर्शन में पहुंचे सिर्फ 35 विधायक।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ग्रीनलैंड में पहाड़ टूटने से उठी सुनामी तरंगों ने नौ दिन हिलाई थी धरती, वैज्ञानिकों ने सुलझाया रहस्य",
+      "url": "https://www.amarujala.com/world/greenland-mega-tsunami-shook-earth-for-nine-days-scientists-reveal-cause-2026-05-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-20T23:08:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/tsunami_a9015a7d5db87afc92e036607028470c.png?w=750&dpr=1.0",
+      "summary": "ग्रीनलैंड में 2017 में एक विशाल हिमस्खलन के कारण आई सुनामी ने नौ दिनों तक पृथ्वी को हिलाया था। वैज्ञानिकों ने अब इस घटना के पीछे के कारणों का पता लगा लिया है। यह हिमस्खलन एक बड़े हिमशैल के टूटने से हुआ था। ग्रीनलैंड में पहाड़ टूटने से उठी सुनामी तरंगों ने नौ दिन हिलाई थी धरती, वैज्ञानिकों ने सुलझाया रहस्य।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ग्रीनलैंड में पहाड़ टूटने से उठी सुनामी तरंगों ने नौ दिन हिलाई थी धरती, वैज्ञानिकों ने सुलझाया रहस्य",
+          "summary": "ग्रीनलैंड में 2017 में एक विशाल हिमस्खलन के कारण आई सुनामी ने नौ दिनों तक पृथ्वी को हिलाया था। वैज्ञानिकों ने अब इस घटना के पीछे के कारणों का पता लगा लिया है। यह हिमस्खलन एक बड़े हिमशैल के टूटने से हुआ था। ग्रीनलैंड में पहाड़ टूटने से उठी सुनामी तरंगों ने नौ दिन हिलाई थी धरती, वैज्ञानिकों ने सुलझाया रहस्य।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की नीतियों के खिलाफ चीन-रूस मुखर, कहा- दुनिया बहुध्रुवीय हो रही है; गोल्डन डोम की भी निंदा",
+      "url": "https://www.amarujala.com/world/china-russia-criticize-trump-dominance-policies-denounce-golden-dome-plan-amid-multipolar-world-order-2026-05-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-20T23:02:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/04/nprsa-ka-rashhatarapata-valthamara-patana-cana-ka-rashhatarapata-sha-janapaga-oura-amaraka-ka-rashhatarapata-danalda-tara_a7c3a0b5561eac3aa5073eb752cf155c.jpeg?w=750&dpr=1.0",
+      "summary": "चीन और रूस ने डोनाल्ड ट्रंप की नीतियों की आलोचना की है। दोनों देशों ने कहा कि दुनिया बहुध्रुवीय बन रही है। उन्होंने \"गोल्डन डोम\" की भी निंदा की। China-Russia: ट्रंप की नीतियों के खिलाफ चीन-रूस मुखर, कहा- दुनिया बहुध्रुवीय हो रही है; गोल्डन डोम की भी निंदा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की नीतियों के खिलाफ चीन-रूस मुखर, कहा- दुनिया बहुध्रुवीय हो रही है; गोल्डन डोम की भी निंदा",
+          "summary": "चीन और रूस ने डोनाल्ड ट्रंप की नीतियों की आलोचना की है। दोनों देशों ने कहा कि दुनिया बहुध्रुवीय बन रही है। उन्होंने \"गोल्डन डोम\" की भी निंदा की। China-Russia: ट्रंप की नीतियों के खिलाफ चीन-रूस मुखर, कहा- दुनिया बहुध्रुवीय हो रही है; गोल्डन डोम की भी निंदा।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "इंटरनेट सुरक्षा पर मंडरा रहा अब तक का सबसे बड़ा साइबर खतरा, 2029 तक टूट सकती है सुरक्षा प्रणाली",
+      "url": "https://www.amarujala.com/world/biggest-cyber-threat-to-internet-security-quantum-computing-risk-online-banking-cryptocurrency-2026-05-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-20T22:52:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/cyber-threat_ddae4c3617d64cb9df5e8cbfeaa7d078.png?w=750&dpr=1.0",
+      "summary": "क्वांटम कंप्यूटिंग के विकास से 2029 तक इंटरनेट सुरक्षा प्रणाली के टूटने का खतरा है। यह साइबर सुरक्षा के लिए अब तक का सबसे बड़ा खतरा माना जा रहा है। इससे ऑनलाइन बैंकिंग और क्रिप्टोकरेंसी प्रभावित हो सकती है। इंटरनेट सुरक्षा पर मंडरा रहा अब तक का सबसे बड़ा साइबर खतरा, 2029 तक टूट सकती है सुरक्षा प्रणाली।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इंटरनेट सुरक्षा पर मंडरा रहा अब तक का सबसे बड़ा साइबर खतरा, 2029 तक टूट सकती है सुरक्षा प्रणाली",
+          "summary": "क्वांटम कंप्यूटिंग के विकास से 2029 तक इंटरनेट सुरक्षा प्रणाली के टूटने का खतरा है। यह साइबर सुरक्षा के लिए अब तक का सबसे बड़ा खतरा माना जा रहा है। इससे ऑनलाइन बैंकिंग और क्रिप्टोकरेंसी प्रभावित हो सकती है। इंटरनेट सुरक्षा पर मंडरा रहा अब तक का सबसे बड़ा साइबर खतरा, 2029 तक टूट सकती है सुरक्षा प्रणाली।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "खपत की रफ्तार थामी तो विकास दर को लग सकता है झटका; FMCG मांग में सुस्ती की आशंका ने बढ़ाई चिंता",
+      "url": "https://www.amarujala.com/business/bonus/inflation-and-weak-consumption-slow-india-growth-momentum-raising-economic-concerns-2026-05-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-20T22:33:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/01/inflation_a909c6a8c7b6f15cb390c7bd8afe0b12.jpeg?w=750&dpr=1.0",
+      "summary": "उपभोक्ता मांग में सुस्ती की आशंका से चिंता बढ़ गई है। यदि खपत की गति धीमी होती है, तो विकास दर पर नकारात्मक प्रभाव पड़ सकता है। यह एफएमसीजी क्षेत्र के लिए एक प्रमुख चिंता का विषय है। महंगाई का असर: खपत की रफ्तार थामी तो विकास दर को लग सकता है झटका; FMCG मांग में सुस्ती की आशंका ने बढ़ाई चिंता।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खपत की रफ्तार थामी तो विकास दर को लग सकता है झटका; FMCG मांग में सुस्ती की आशंका ने बढ़ाई चिंता",
+          "summary": "उपभोक्ता मांग में सुस्ती की आशंका से चिंता बढ़ गई है। यदि खपत की गति धीमी होती है, तो विकास दर पर नकारात्मक प्रभाव पड़ सकता है। यह एफएमसीजी क्षेत्र के लिए एक प्रमुख चिंता का विषय है। महंगाई का असर: खपत की रफ्तार थामी तो विकास दर को लग सकता है झटका; FMCG मांग में सुस्ती की आशंका ने बढ़ाई चिंता।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "नौसेना को मिला अगली पीढ़ी का पहला गश्ती पोत संघमित्रा, कोलकाता में हुआ युद्धपोत का जलावतरण",
+      "url": "https://www.amarujala.com/india-news/indian-navy-launches-first-next-generation-offshore-patrol-vessel-sanghamitra-boosts-maritime-power-2026-05-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T22:09:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/indian-navy-ngopv-sanghamitra-launch_bfbb0b4f2ae6be703ddcc62602e462a2.png?w=750&dpr=1.0",
+      "summary": "कोलकाता में भारतीय नौसेना के लिए अगली पीढ़ी का पहला गश्ती पोत संघमित्रा लॉन्च किया गया। यह पोत भारतीय नौसेना की समुद्री क्षमता को बढ़ाएगा। इसका निर्माण गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स लिमिटेड ने किया है। समुद्री ताकत बढ़ी: नौसेना को मिला अगली पीढ़ी का पहला गश्ती पोत संघमित्रा, कोलकाता में हुआ युद्धपोत का जलावतरण।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नौसेना को मिला अगली पीढ़ी का पहला गश्ती पोत संघमित्रा, कोलकाता में हुआ युद्धपोत का जलावतरण",
+          "summary": "कोलकाता में भारतीय नौसेना के लिए अगली पीढ़ी का पहला गश्ती पोत संघमित्रा लॉन्च किया गया। यह पोत भारतीय नौसेना की समुद्री क्षमता को बढ़ाएगा। इसका निर्माण गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स लिमिटेड ने किया है। समुद्री ताकत बढ़ी: नौसेना को मिला अगली पीढ़ी का पहला गश्ती पोत संघमित्रा, कोलकाता में हुआ युद्धपोत का जलावतरण।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी की अध्यक्षता में कैबिनेट बैठक आज, मंत्री देंगे दो साल का रिपोर्ट कार्ड",
+      "url": "https://www.amarujala.com/india-news/union-cabinet-meeting-today-ministers-to-present-two-year-report-card-pm-modi-2026-05-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-20T22:02:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/pm-modi-cabinet-meeting_46d6426677122c3977c8b533f08614cb.png?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता में आज केंद्रीय कैबिनेट की बैठक हुई। इस बैठक में मंत्रियों ने पिछले दो वर्षों के अपने कार्यकाल का रिपोर्ट कार्ड प्रस्तुत किया। यह बैठक सरकार के प्रदर्शन की समीक्षा के लिए आयोजित की गई थी। पीएम मोदी की अध्यक्षता में कैबिनेट बैठक आज, मंत्री देंगे दो साल का रिपोर्ट कार्ड।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी की अध्यक्षता में कैबिनेट बैठक आज, मंत्री देंगे दो साल का रिपोर्ट कार्ड",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता में आज केंद्रीय कैबिनेट की बैठक हुई। इस बैठक में मंत्रियों ने पिछले दो वर्षों के अपने कार्यकाल का रिपोर्ट कार्ड प्रस्तुत किया। यह बैठक सरकार के प्रदर्शन की समीक्षा के लिए आयोजित की गई थी। पीएम मोदी की अध्यक्षता में कैबिनेट बैठक आज, मंत्री देंगे दो साल का रिपोर्ट कार्ड।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बंगाल में घुसपैठिए पर शुभेंदु सरकर का बड़ा एक्शन, फेंसिंग का काम होगा शुरू!",
+      "url": "https://www.amarujala.com/video/india-news/india-bangladesh-border-fencing-shubhendu-government-takes-major-action-against-infiltrators-in-bengal-fenci-2026-05-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T22:00:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/india-bangladesh-border-fencing_0c25f1d9c8544ee6852507be8e9d11bc.jpeg?w=750&dpr=1.0",
+      "summary": "पश्चिम बंगाल सरकार ने बांग्लादेश सीमा पर फेंसिंग का काम शुरू करने का आदेश दिया है। यह कदम सीमा पार से घुसपैठ रोकने के उद्देश्य से उठाया गया है। इस परियोजना के तहत संवेदनशील इलाकों में बाड़ लगाई जाएगी। India-Bangladesh Border Fencing: बंगाल में घुसपैठिए पर शुभेंदु सरकर का बड़ा एक्शन, फेंसिंग का काम होगा शुरू!",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंगाल में घुसपैठिए पर शुभेंदु सरकर का बड़ा एक्शन, फेंसिंग का काम होगा शुरू!",
+          "summary": "पश्चिम बंगाल सरकार ने बांग्लादेश सीमा पर फेंसिंग का काम शुरू करने का आदेश दिया है। यह कदम सीमा पार से घुसपैठ रोकने के उद्देश्य से उठाया गया है। इस परियोजना के तहत संवेदनशील इलाकों में बाड़ लगाई जाएगी। India-Bangladesh Border Fencing: बंगाल में घुसपैठिए पर शुभेंदु सरकर का बड़ा एक्शन, फेंसिंग का काम होगा शुरू!",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
     {
       "title": "'समझौता नहीं तो अमेरिका की कड़ी कार्रवाई तय', ट्रंप का ईरान को अल्टीमेटम; बातचीत अंतिम चरण में",
       "url": "https://www.amarujala.com/world/trump-warns-iran-deal-or-we-will-do-something-nasty-final-stage-talks-with-us-2026-05-21",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-20T21:51:44+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/danalda-tarapa-amaraka-rashhatarapata_34c26268ba352984ec287c265dbe6898.jpeg?w=750&dpr=1.0",
@@ -428,38 +506,20 @@
       }
     },
     {
-      "title": "अहमदाबाद विमान हादसे की गुत्थी और उलझी, पीड़ित के रिश्तेदार ने किया चौंकाने वाला दावा",
-      "url": "https://www.amarujala.com/india-news/ahmedabad-plane-crash-air-india-crash-victim-relative-makes-shocking-claim-about-pilot-body-2026-05-21",
-      "source": "Amar Ujala National",
+      "title": "ई-फार्मेसी के विरोध में हड़ताल से ढाई हजार करोड़ का कारोबार ठप, दिल्ली में 90 फीसदी दुकानें रहीं बंद",
+      "url": "https://www.amarujala.com/delhi-ncr/strike-business-worth-rs-2500-crore-stalled-due-to-strike-against-e-pharmacy-90-shops-closed-in-delhi-2026-05-21",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-20T21:49:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/ahmedabad-plane-crash_54cb117d11c18daf279db26a35d6b968.png?w=750&dpr=1.0",
-      "summary": "अहमदाबाद में एक विमान के दुर्घटनाग्रस्त होने के बाद, पीड़ित के एक रिश्तेदार ने पायलट के बारे में एक नया दावा किया है। यह दावा दुर्घटना की जांच को और जटिल बना सकता है। अहमदाबाद विमान हादसे की गुत्थी और उलझी, पीड़ित के रिश्तेदार ने किया चौंकाने वाला दावा।",
+      "published_at": "2026-05-20T21:34:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/12/ii-faramasa_cd90d248a63a5adaeadf928d9758dcaa.jpeg?w=750&dpr=1.0",
+      "summary": "ऑल इंडिया ऑर्गनाइजेशन ऑफ केमिस्ट्स एंड ड्रगिस्ट्स के आह्वान पर देशभर में एक दिवसीय हड़ताल हुई। इस हड़ताल से ढाई हजार करोड़ का कारोबार ठप हो गया। दिल्ली में 90 फीसदी दुकानें बंद रहीं। दवाओं की अवैध ऑनलाइन बिक्री, बिना नुस्खे के होम डिलीवरी और भारी छूट के विरोध में ऑल इंडिया ऑर्गनाइजेशन ऑफ केमिस्ट्स एंड ड्रगिस्ट्स (एआईओसीडी) के आह्वान पर बुधवार को देशभर में एक दिवसीय सांकेतिक हड़ताल सफल रही।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अहमदाबाद विमान हादसे की गुत्थी और उलझी, पीड़ित के रिश्तेदार ने किया चौंकाने वाला दावा",
-          "summary": "अहमदाबाद में एक विमान के दुर्घटनाग्रस्त होने के बाद, पीड़ित के एक रिश्तेदार ने पायलट के बारे में एक नया दावा किया है। यह दावा दुर्घटना की जांच को और जटिल बना सकता है। अहमदाबाद विमान हादसे की गुत्थी और उलझी, पीड़ित के रिश्तेदार ने किया चौंकाने वाला दावा।",
+          "title": "ई-फार्मेसी के विरोध में हड़ताल से ढाई हजार करोड़ का कारोबार ठप, दिल्ली में 90 फीसदी दुकानें रहीं बंद",
+          "summary": "ऑल इंडिया ऑर्गनाइजेशन ऑफ केमिस्ट्स एंड ड्रगिस्ट्स के आह्वान पर देशभर में एक दिवसीय हड़ताल हुई। इस हड़ताल से ढाई हजार करोड़ का कारोबार ठप हो गया। दिल्ली में 90 फीसदी दुकानें बंद रहीं। दवाओं की अवैध ऑनलाइन बिक्री, बिना नुस्खे के होम डिलीवरी और भारी छूट के विरोध में ऑल इंडिया ऑर्गनाइजेशन ऑफ केमिस्ट्स एंड ड्रगिस्ट्स (एआईओसीडी) के आह्वान पर बुधवार को देशभर में एक दिवसीय सांकेतिक हड़ताल सफल रही।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मां से झगड़ा किया तो बेटे ने दो किशोरों को मार डाला, खूनी झड़प में एक घायल; क्रॉस एफआईआर",
-      "url": "https://www.amarujala.com/delhi-ncr/delhi-son-kills-two-teenagers-after-quarrel-with-mother-2026-05-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-20T20:39:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/06/minor-gang-abused-in-moving-car-similar-delhi-nirbhaya-case-in-patna-bihar-police-bihar-news_c191830eb0cbea4a8d3d7070fff71212.jpeg?w=750&dpr=1.0",
-      "summary": "दिल्ली के अमन विहार इलाके में मां से झगड़े के बाद एक बेटे ने दो किशोरों की हत्या कर दी। इस घटना में एक अन्य व्यक्ति घायल हो गया। पुलिस ने दोनों पक्षों की शिकायत पर क्रॉस एफआईआर दर्ज की है। रोहिणी जिले के अमन विहार इलाके में बुधवार शाम मामूली विवाद खूनी संघर्ष में बदल गया।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मां से झगड़ा किया तो बेटे ने दो किशोरों को मार डाला, खूनी झड़प में एक घायल; क्रॉस एफआईआर",
-          "summary": "दिल्ली के अमन विहार इलाके में मां से झगड़े के बाद एक बेटे ने दो किशोरों की हत्या कर दी। इस घटना में एक अन्य व्यक्ति घायल हो गया। पुलिस ने दोनों पक्षों की शिकायत पर क्रॉस एफआईआर दर्ज की है। रोहिणी जिले के अमन विहार इलाके में बुधवार शाम मामूली विवाद खूनी संघर्ष में बदल गया।",
-          "region": "दुनिया"
         }
       }
     },
@@ -482,7 +542,7 @@
       }
     },
     {
-      "title": "क्यूबा के पूर्व राष्ट्रपति राउल कास्त्रो पर US ने दर्ज किया आपराधिक मामला, ट्रंप बोले- लोग कर रहे",
+      "title": "पूर्व राष्ट्रपति राउल कास्त्रो पर US ने दर्ज किया आपराधिक मामला, ट्रंप बोले- हम क्यूबा को आजाद करा",
       "url": "https://www.amarujala.com/world/us-announces-criminal-case-against-former-cuban-president-raul-castro-donald-trump-praise-order-2026-05-21",
       "source": "Amar Ujala Breaking",
       "sources": [],
@@ -493,7 +553,7 @@
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्यूबा के पूर्व राष्ट्रपति राउल कास्त्रो पर US ने दर्ज किया आपराधिक मामला, ट्रंप बोले- लोग कर रहे",
+          "title": "पूर्व राष्ट्रपति राउल कास्त्रो पर US ने दर्ज किया आपराधिक मामला, ट्रंप बोले- हम क्यूबा को आजाद करा",
           "summary": "संयुक्त राज्य अमेरिका ने क्यूबा के पूर्व राष्ट्रपति राउल कास्त्रो के खिलाफ एक आपराधिक मामला दर्ज किया है। पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने इस कार्रवाई की सराहना की है। क्यूबा के पूर्व राष्ट्रपति राउल कास्त्रो पर US ने दर्ज किया आपराधिक मामला, ट्रंप बोले- लोग कर रहे।",
           "region": "अमेरिका"
         }
@@ -502,11 +562,11 @@
     {
       "title": "'युद्ध नहीं, सम्मानजनक कूटनीति ही बेहतर रास्ता'; ईरान के राष्ट्रपति पेजेशकियन ने फिर दोहराया अपना",
       "url": "https://www.amarujala.com/world/iran-president-masoud-pezeshkian-emphasizes-diplomacy-rejects-war-and-coercion-2026-05-21",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [
         {
           "url": "https://www.amarujala.com/world/iran-president-masoud-pezeshkian-emphasizes-diplomacy-rejects-war-and-coercion-2026-05-21",
-          "source": "Amar Ujala Breaking"
+          "source": "Amar Ujala World"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2tmaXpJWVZQdVdEbGxhX0QyX0d1RTZ0T21mRDRlSHVGczZWQW16YnN6LUZBOG1EZFZLd3ZZbTZUUjBmdmg2dGFKT3RiSTJqX3dCaXlGSTVnTGVWRmRZYVF6R3pBZDFfZ1BLcWp0OUcxbVJES016czh1QmNfNmRLRE5MUkpPZDZuNjV0Y08wbHlHUkZILXF3V0VpMnV5aFRiaVkybXR6NC1ETWFxX0cwT3AyelA0eTlXVGxkdnlR0gHDAUFVX3lxTE5GRFptVjU2Ykl3WWtPRlgtaXNCNkdiaTd5R1JwVG0zbGFJZ1hweDV1aVExR2kySjhpeTNHWkNhOC1JcEZYemlZYW14LW9oVEg4bWxCQWJmVkg4bkxRQjFUcHMyRWxyRERJVXcyZy1vSzdwVkdiSy1NdEh0eHVWaVp6el9OWDRhN0JXS2FIaTRDTmdYeWlYMWlFSG1uWWxsbklIRFYzMURCYlBVYXFhYlJHZ2V5a3hNWWY4cE9YQmZZOFZRYw?oc=5",
@@ -531,24 +591,6 @@
           "title": "'युद्ध नहीं, सम्मानजनक कूटनीति ही बेहतर रास्ता'; ईरान के राष्ट्रपति पेजेशकियन ने फिर दोहराया अपना",
           "summary": "ईरान के राष्ट्रपति पेजेशकियन ने एक बार फिर जोर देकर कहा है कि युद्ध के बजाय सम्मानजनक कूटनीति ही आगे बढ़ने का सबसे अच्छा मार्ग है। उन्होंने अपने इस रुख को दोहराया। Iran: 'युद्ध नहीं, सम्मानजनक कूटनीति ही बेहतर रास्ता'; ईरान के राष्ट्रपति पेजेशकियन ने फिर दोहराया अपना रुख।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "स्वगणना का आज अंतिम दिन, कल से घर-घर जाएंगे जनगणना कर्मी; प्रदेश में करीब 44 लाख लोगों ने भरे हैं",
-      "url": "https://www.amarujala.com/uttar-pradesh/up-tomorrow-is-the-last-day-for-self-enumeration-4-3-million-people-have-filled-out-forms-in-the-state-cens-2026-05-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-20T20:02:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2026/05/11/ganaesha-sata-ma-savaganaena-ka-janakaraya-bharata-paravara-ka-lga-savatha_2a641f8d412c36f06b12f9548c966fc3.jpeg?w=750&dpr=1.0",
-      "summary": "उत्तर प्रदेश में जनगणना के पहले चरण के तहत स्वगणना आज समाप्त हो रही है। 22 मई से, जनगणना कर्मी घर-घर जाकर शेष लगभग 44 लाख लोगों का डेटा एकत्र करेंगे। Population in UP: यूपी में जनगणना के पहले फेज के तहत स्वगणना हो रही थी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्वगणना का आज अंतिम दिन, कल से घर-घर जाएंगे जनगणना कर्मी; प्रदेश में करीब 44 लाख लोगों ने भरे हैं",
-          "summary": "उत्तर प्रदेश में जनगणना के पहले चरण के तहत स्वगणना आज समाप्त हो रही है। 22 मई से, जनगणना कर्मी घर-घर जाकर शेष लगभग 44 लाख लोगों का डेटा एकत्र करेंगे। Population in UP: यूपी में जनगणना के पहले फेज के तहत स्वगणना हो रही थी।",
-          "region": "दुनिया"
         }
       }
     },
@@ -589,6 +631,24 @@
       }
     },
     {
+      "title": "संयुक्त राष्ट्र सुरक्षा परिषद का विस्तार किया जाना परम आवश्यक है - महासचिव",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWdEEyM2hlWlh5OTY2TlVLUGNxZ0xXS1VLNk1KNzNXQUxGbDdmQ1VzbWwtZlRvSjFPd0hwNk96ZlZzSGh3ZnM5ZHB5QlM1c1ZxbENhOENjYw?oc=5",
+      "source": "Google News Hindi (संयुक्त राष्ट्र)",
+      "sources": [],
+      "published_at": "2026-05-20T17:21:09+00:00",
+      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "संयुक्त राष्ट्र महासचिव ने सुरक्षा परिषद का विस्तार करने की आवश्यकता पर जोर दिया। उन्होंने कहा कि यह विस्तार आवश्यक है। संयुक्त राष्ट्र सुरक्षा परिषद की वर्तमान संरचना को अद्यतन करने की आवश्यकता है। संयुक्त राष्ट्र सुरक्षा परिषद का विस्तार किया जाना परम आवश्यक है - महासचिव UN News।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संयुक्त राष्ट्र सुरक्षा परिषद का विस्तार किया जाना परम आवश्यक है - महासचिव",
+          "summary": "संयुक्त राष्ट्र महासचिव ने सुरक्षा परिषद का विस्तार करने की आवश्यकता पर जोर दिया। उन्होंने कहा कि यह विस्तार आवश्यक है। संयुक्त राष्ट्र सुरक्षा परिषद की वर्तमान संरचना को अद्यतन करने की आवश्यकता है। संयुक्त राष्ट्र सुरक्षा परिषद का विस्तार किया जाना परम आवश्यक है - महासचिव UN News।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
       "title": "‘डिजिटल महामारी’ का मुक़ाबला करने के लिए वैश्विक तैयारी ज़रूरी, कमल किशोर",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14UjJjM1NHaHE5WF9TclFDTTB3UUEyQjg1SzRLdXB0WTlfWnpjel9VeUNWTkxnNmlDVDIwbGdaWkZlWlhlVmtLNjl6RmtBdmFqOHRoRVdwSQ?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
@@ -602,24 +662,6 @@
         "hi": {
           "title": "‘डिजिटल महामारी’ का मुक़ाबला करने के लिए वैश्विक तैयारी ज़रूरी, कमल किशोर",
           "summary": "संयुक्त राष्ट्र समाचार के अनुसार, कमल किशोर ने कहा कि 'डिजिटल महामारी' से निपटने के लिए वैश्विक स्तर पर तैयारी आवश्यक है। ‘डिजिटल महामारी’ का मुक़ाबला करने के लिए वैश्विक तैयारी ज़रूरी, कमल किशोर UN News।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "सशस्त्र टकरावों में हर 14 मिनट में एक आम नागरिक ने गँवाई जान",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XNmtPVHNUYU1sYWd3NWwzUFUyVnFmVk5DMjNPQ1VVeG5WV0JzeHRjZnU0N2NsMERXUm5hYlJfT1FYbzRnZHBDUGdJMkVjYkVhTXY5YUNTcw?oc=5",
-      "source": "Google News Hindi (संयुक्त राष्ट्र)",
-      "sources": [],
-      "published_at": "2026-05-20T16:07:35+00:00",
-      "image_url": "https://images.pexels.com/photos/19550558/pexels-photo-19550558.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "संयुक्त राष्ट्र सुरक्षा परिषद की रिपोर्ट के अनुसार, सशस्त्र संघर्षों में हर 14 मिनट में एक आम नागरिक की मृत्यु हो रही है। सुरक्षा परिषद: सशस्त्र टकरावों में हर 14 मिनट में एक आम नागरिक ने गँवाई जान UN News।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सशस्त्र टकरावों में हर 14 मिनट में एक आम नागरिक ने गँवाई जान",
-          "summary": "संयुक्त राष्ट्र सुरक्षा परिषद की रिपोर्ट के अनुसार, सशस्त्र संघर्षों में हर 14 मिनट में एक आम नागरिक की मृत्यु हो रही है। सुरक्षा परिषद: सशस्त्र टकरावों में हर 14 मिनट में एक आम नागरिक ने गँवाई जान UN News।",
           "region": "वैश्विक / बहुपक्षीय"
         }
       }
@@ -656,60 +698,6 @@
         "hi": {
           "title": "त्विषा शर्मा के शव का दोबारा नहीं होगा पोस्टमार्टम, भोपाल पुलिस ने बताया ख़ुदकुशी का मामला",
           "summary": "भोपाल पुलिस ने अभिनेत्री त्विषा शर्मा की मौत को आत्महत्या बताया है। पुलिस ने पोस्टमार्टम रिपोर्ट का हवाला देते हुए कहा कि मौत का कारण फांसी लगाना है। परिवार ने रिपोर्ट पर सवाल उठाए हैं। त्विषा शर्मा की मौत के मामले में भोपाल पुलिस ने पोस्टमार्टम रिपोर्ट का हवाला देकर कई बातें कही हैं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सांसद इक़रा हसन की यूपी पुलिस से तक़रार, क्या है पूरा मामला",
-      "url": "https://www.bbc.com/hindi/articles/c5y7v2wq72xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-20T14:55:59+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/f819/live/b33c30b0-544c-11f1-b682-cf91850925ea.jpg",
-      "summary": "कैराना से समाजवादी पार्टी की सांसद इक़रा हसन ने उत्तर प्रदेश पुलिस पर उन्हें हिरासत में लेने का आरोप लगाया। सहारनपुर पुलिस ने कहा कि यातायात बाधित करने और शांति भंग करने वालों के खिलाफ कार्रवाई की गई। कैराना से समाजवादी पार्टी सांसद इक़रा हसन ने पुलिस पर हिरासत में लेने के आरोप लगाए.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सांसद इक़रा हसन की यूपी पुलिस से तक़रार, क्या है पूरा मामला",
-          "summary": "कैराना से समाजवादी पार्टी की सांसद इक़रा हसन ने उत्तर प्रदेश पुलिस पर उन्हें हिरासत में लेने का आरोप लगाया। सहारनपुर पुलिस ने कहा कि यातायात बाधित करने और शांति भंग करने वालों के खिलाफ कार्रवाई की गई। कैराना से समाजवादी पार्टी सांसद इक़रा हसन ने पुलिस पर हिरासत में लेने के आरोप लगाए.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी विदेश दौरे पर पत्रकारों के सवाल क्यों नहीं लेते हैं, जानिए पूरा विवाद",
-      "url": "https://www.bbc.com/hindi/articles/c1w2zer90yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-20T14:11:17+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/942b/live/52874670-5450-11f1-bc99-1d37de959855.jpg",
-      "summary": "प्रधानमंत्री मोदी के यूरोप दौरे पर पत्रकारों के सवाल न लेने को लेकर विवाद हुआ। विदेश मंत्रालय को इस पर दो बार स्पष्टीकरण देना पड़ा। प्रधानमंत्री नरेंद्र मोदी का यूरोप दौरा प्रेस कॉन्फ़्रेंस में सवाल नहीं लेने के कारण विवादों में है. विदेश मंत्रालय को दो बार सफ़ाई देनी पड़ी.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी विदेश दौरे पर पत्रकारों के सवाल क्यों नहीं लेते हैं, जानिए पूरा विवाद",
-          "summary": "प्रधानमंत्री मोदी के यूरोप दौरे पर पत्रकारों के सवाल न लेने को लेकर विवाद हुआ। विदेश मंत्रालय को इस पर दो बार स्पष्टीकरण देना पड़ा। प्रधानमंत्री नरेंद्र मोदी का यूरोप दौरा प्रेस कॉन्फ़्रेंस में सवाल नहीं लेने के कारण विवादों में है. विदेश मंत्रालय को दो बार सफ़ाई देनी पड़ी.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राहुल गांधी ने पीएम मोदी, अमित शाह और आरएसएस को कहा- 'ग़द्दार', बीजेपी ने बताया 140 करोड़ जनता का",
-      "url": "https://www.bbc.com/hindi/articles/cp8p0lr9gw7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-20T13:04:54+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/6409/live/79b7c060-5448-11f1-be9a-315565996c62.jpg",
-      "summary": "राहुल गांधी ने रायबरेली में प्रधानमंत्री नरेंद्र मोदी, अमित शाह और आरएस एक ओर प्रधानमंत्री नरेंद्र मोदी पांच देशों के दौरे पर गए हुए हैं. वहीं दूसरी ओर कांग्रेस नेता और लोकसभा में नेता प्रतिपक्ष राहुल गांधी अपने संसदीय क्षेत्र रायबरेली के दौरे पर हैं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राहुल गांधी ने पीएम मोदी, अमित शाह और आरएसएस को कहा- 'ग़द्दार', बीजेपी ने बताया 140 करोड़ जनता का",
-          "summary": "राहुल गांधी ने रायबरेली में प्रधानमंत्री नरेंद्र मोदी, अमित शाह और आरएस एक ओर प्रधानमंत्री नरेंद्र मोदी पांच देशों के दौरे पर गए हुए हैं. वहीं दूसरी ओर कांग्रेस नेता और लोकसभा में नेता प्रतिपक्ष राहुल गांधी अपने संसदीय क्षेत्र रायबरेली के दौरे पर हैं.",
           "region": "दुनिया"
         }
       }
