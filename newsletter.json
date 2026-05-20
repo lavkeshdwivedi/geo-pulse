@@ -1,18 +1,66 @@
 {
-  "generated_at": "2026-05-20T03:41:02.615545+00:00",
-  "article_count": 45,
-  "total_unique_count": 369,
+  "generated_at": "2026-05-20T07:45:34.013278+00:00",
+  "article_count": 50,
+  "total_unique_count": 371,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Rubio says WHO was 'a little late' on identifying Ebola outbreak. Europe & Russia carries the next thread. 20 fresh dispatches in this edition.",
-    "hi": "इटली में प्रधानमंत्री मोदी का दौरा आज से शुरू हो रहा है। व्यापार और रक्षा समेत कई मुद्दों पर चर्चा होने वाली है। पीएम मोदी को रोम में शानदार स्वागत मिला, मेलोनी ने लिखा 'रोम में आपका स्वागत है मेरे दोस्त'।"
+    "en": "The US charging Malaysian officials and Vance's comments on Iran dominate headlines. Thailand's visa tightening and Argentina's hantavirus hunt offer contrasting regional concerns. The WHO's Ebola response draws continued scrutiny.",
+    "hi": "इस घंटे बोर्ड पर यूरोप और रूस की अगुवाई है, नॉर्वे भारत को लोकतंत्र क्यों मानता है? इस सवाल पर क्या बोले वहां के प्रधानमंत्री मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "‘I worked as if my life depended on it’: The forgotten pioneers of South Korea’s economic miracle",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-miners-nurses-germany-forgotten-pioneers-6131391",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-20T07:27:38+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--SicLo95r--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/20/screenshot_2026-05-20_144821.png?itok=-QWbh7rL",
+      "summary": "South Korea dispatched 20,000 miners and nurses In the 1960s and 70s, South Korea sent 20,000 miners and nurses to West Germany in exchange for loans to rebuild its economy devastated by the Korean War. CNA traces these workers’ journeys across both nations. ‘I worked as if my life depended on it’: The forgotten pioneers of South Korea’s economic miracle.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US charges three Malaysian state telecoms officials for multimillion-dollar fraud",
+      "url": "https://www.channelnewsasia.com/asia/united-states-malaysian-state-telco-officials-over-20-million-fraud-6131601",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-20T07:05:12+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--uXF4LaVh--/c_crop,h_449,w_799,x_1,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-04T163633Z_2_LYNXMPEM4311R_RTROPTP_3_USA-TRUMP-IRS-LAWSUIT.JPG?itok=vqSqxzNF",
+      "summary": "The US charged three Malaysian state telecoms officials. Three senior executives at the US subsidiary of Telekom Malaysia allegedly misappropriated over US$20 million from the state telecommunications firm through false statements and forged records on various occasions between July 2020 and February 2026. US charges three Malaysian state telecoms officials for multimillion-dollar fraud.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "At White House briefing, Vance says Iran war won’t be 'forever'",
+      "url": "https://www.thehindu.com/news/international/at-white-house-briefing-vance-says-iran-war-wont-be-forever/article71000848.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-20T05:45:04+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/z8a9g8/article71000880.ece/alternates/LANDSCAPE_1200/2026-05-19T180215Z_1382488188_RC2HCLAL8SN0_RTRMADP_3_USA-TRUMP.JPG",
+      "summary": "J. D. Vance appeared at a White House briefing. The White House briefing room has emerged this ‌month as an informal audition stage in the race to succeed President Donald Trump in 2028. Mr. Vance's appearance ‌at ⁠the podium came about two weeks after Secretary of State Marco Rubio, his possible future rival, drew ⁠wide attention for his debut briefing.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Venezuela to release 300 prisoners under amnesty law",
+      "url": "https://www.thehindu.com/news/international/venezuela-to-release-300-prisoners-under-amnesty-law/article71000796.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-20T05:23:53+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/d4nmku/article71000823.ece/alternates/LANDSCAPE_1200/Venezuela_Prisoners_Death_33178.jpg",
+      "summary": "Venezuela will release 300 prisoners under an amnesty law. Between yesterday and this Friday, 300 people will be released, some involved in acts in proven crimes but (others) who are minors, over 70 years old or suffering from a medical condition, says National Assembly Chief Jorge Rodriguez.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Rubio says WHO was 'a little late' on identifying Ebola outbreak",
       "url": "https://www.thehindu.com/news/international/rubio-says-who-was-a-little-late-on-identifying-ebola-outbreak/article71000587.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-20T03:19:40+00:00",
+      "published_at": "2026-05-20T05:18:04+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/ha26yl/article71000614.ece/alternates/LANDSCAPE_1200/2026-05-14T124212Z_79009800_RC209LASLS23_RTRMADP_3_CHINA-USA.JPG",
       "summary": "The State Department will fund up to 50 Ebola treatment centers in the Democratic Republic of Congo or Uganda. This initiative is backed by an initial U. S. investment of approximately $13 million. Senator Marco Rubio stated the World Health Organization was slow to identify the Ebola outbreak.",
       "region": "Middle East & Africa",
@@ -20,14 +68,26 @@
       "translations": {}
     },
     {
-      "title": "London’s luxury hotel showdown: Raffles at The OWO versus The Chancery Rosewood",
-      "url": "https://www.channelnewsasia.com/experiences/luxury-hotels-london-chancery-rosewood-raffles-owo-6123556",
-      "source": "Channel News Asia",
+      "title": "Argentina Authorities Trap Rats In Ushuaia, Hunt For Hantavirus Outbreak Source",
+      "url": "https://www.ndtv.com/health/argentines-hunting-for-source-of-hantavirus-outbreak-trap-rats-in-southernmost-city-11519903#publisher=newsstand",
+      "source": "NDTV World",
       "sources": [],
-      "published_at": "2026-05-20T03:00:39+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--Al5bC2Io--/c_crop,h_843,w_1500,x_0,y_97/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2024/11/05/hero-raffles-london_staircase_dscf1361-2.jpg?itok=Lqwa7rFg",
-      "summary": "London's luxury hotel scene features two new contenders: Raffles at The OWO and The Chancery Rosewood. Both hotels are situated in historically significant former government buildings. One occupies the Old War Office, the other the former U. S. Embassy. Two of London’s most talked-about new luxury hotels occupy storied addresses – one in the former Old War Office, the other in the former US Embassy.",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-20T04:35:02+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-05/bqhui7o8_hantavirus-rats_625x300_06_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Argentine authorities are trapping rats in Ushuaia to investigate a hantavirus outbreak. Scientists set 150 traps overnight. Captured rats are bagged and taken to a lab for analysis. The goal is to identify the source of the virus. The scientists, wearing bright blue gloves and surgical masks, checked the 150 box traps they had set out the previous night, dropping dead rats into black plastic bags that they hoisted into pickup trucks bound for a makeshift lab where they said th.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘How are we going to survive this?’ Wellington faces six-month wait to halt sewage spill",
+      "url": "https://www.theguardian.com/world/2026/may/20/wellington-sewage-spill-moa-point-update-six-month-wait",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-20T03:44:43+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/5d326c19140f3d70f9493a3a49c4fdb2a8e1c26e/426_83_3637_2910/master/3637.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abec16480c7883b4c160dcca205ac651",
+      "summary": "Wellington faces a six-month wait to stop millions of litres of sewage spilling into its waters. The Moa Point wastewater plant failed catastrophically in February. A temporary fix is expected by November. Full repairs will cost NZ$53.5 million and are scheduled for late next year.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -215,9 +275,22 @@
       "title": "Killings, destruction and settler encroachment continues",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167538",
       "source": "UN News",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167538",
+          "source": "UN News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jbmVVMmJZSy1TZTB1bjJKekJpb3Rnbkdrbi1WczN2b0RZeGdDeUpUb2RNc284dEtKNDVid215ZlY1T283OEFyWXcwRWxNTGdVQUd5Umo5SQ?oc=5",
+          "source": "Google News (United Nations)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jbmVVMmJZSy1TZTB1bjJKekJpb3Rnbkdrbi1WczN2b0RZeGdDeUpUb2RNc284dEtKNDVid215ZlY1T283OEFyWXcwRWxNTGdVQUd5Umo5SQ?oc=5",
+          "source": "Google News (United Nations)"
+        }
+      ],
       "published_at": "2026-05-18T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/18-05-2026-Adobe-Israeli-wall.jpg/image560x340cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/18-05-2026-Adobe-Israeli-wall.jpg/image770x420cropped.jpg",
       "summary": "Forced displacement in the occupied West Bank has reached a rate unseen in decades. This comes as killings and destruction continue despite a ceasefire between Israel and Hamas reducing violence in Gaza. A senior official with the UN human rights office reported these findings in Geneva.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -248,452 +321,452 @@
       "translations": {}
     },
     {
-      "title": "इटली में प्रधानमंत्री मोदी का दौरा, व्यापार-रक्षा समेत कई मुद्दों पर होगी अहम चर्चा",
+      "title": "नॉर्वे भारत को लोकतंत्र क्यों मानता है? इस सवाल पर क्या बोले वहां के प्रधानमंत्री",
+      "url": "https://www.bbc.com/hindi/articles/ce8prdd4gyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-20T07:29:28+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/a5cd/live/0022ce80-541a-11f1-9a06-e9b999966857.jpg",
+      "summary": "नॉर्वे के प्रधानमंत्री योनास गार स्टोरे ने भारत को एक जीवंत लोकतंत्र बताया। उन्होंने कहा कि भारत में विभिन्न प्रकार की राजनीतिक प्रतिस्पर्धाएं हैं। स्टोरे ने यह टिप्पणी तब की जब एक पत्रकार ने प्रधानमंत्री मोदी द्वारा प्रेस कॉन्फ्रेंस न करने पर सवाल पूछा। नॉर्वे की पत्रकार हेला लेंग ने भारत के प्रधानमंत्री नरेंद्र मोदी के सवाल ना लेने और प्रेस कॉन्फ़्रेंस ना करने पर नॉर्वे के प्रधानमंत्री योनास गार स्टोरे की प्रतिक्रिया जाननी चाही.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नॉर्वे भारत को लोकतंत्र क्यों मानता है? इस सवाल पर क्या बोले वहां के प्रधानमंत्री",
+          "summary": "नॉर्वे के प्रधानमंत्री योनास गार स्टोरे ने भारत को एक जीवंत लोकतंत्र बताया। उन्होंने कहा कि भारत में विभिन्न प्रकार की राजनीतिक प्रतिस्पर्धाएं हैं। स्टोरे ने यह टिप्पणी तब की जब एक पत्रकार ने प्रधानमंत्री मोदी द्वारा प्रेस कॉन्फ्रेंस न करने पर सवाल पूछा। नॉर्वे की पत्रकार हेला लेंग ने भारत के प्रधानमंत्री नरेंद्र मोदी के सवाल ना लेने और प्रेस कॉन्फ़्रेंस ना करने पर नॉर्वे के प्रधानमंत्री योनास गार स्टोरे की प्रतिक्रिया जाननी चाही.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "शरद पवार ने कही पीएम मोदी की तारीफ, बोले- वे भारत का मान बढ़ाने में जुटे",
+      "url": "https://www.amarujala.com/india-news/sharad-pawar-praise-pm-modi-said-he-is-working-to-protect-india-prestige-on-global-stage-2026-05-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T07:28:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/22/pm-modi-sharad-pawar_02ec2f26060645ad36fe710de9fbf363.jpeg?w=750&dpr=1.0",
+      "summary": "राष्ट्रवादी कांग्रेस पार्टी के प्रमुख शरद पवार ने प्रधानमंत्री नरेंद्र मोदी की प्रशंसा की। पवार ने कहा कि मोदी वैश्विक मंच पर भारत की प्रतिष्ठा बढ़ाने के लिए काम कर रहे हैं। उन्होंने यह टिप्पणी एक सार्वजनिक कार्यक्रम में की। शरद पवार ने कही पीएम मोदी की तारीफ, बोले- वे भारत का मान बढ़ाने में जुटे।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शरद पवार ने कही पीएम मोदी की तारीफ, बोले- वे भारत का मान बढ़ाने में जुटे",
+          "summary": "राष्ट्रवादी कांग्रेस पार्टी के प्रमुख शरद पवार ने प्रधानमंत्री नरेंद्र मोदी की प्रशंसा की। पवार ने कहा कि मोदी वैश्विक मंच पर भारत की प्रतिष्ठा बढ़ाने के लिए काम कर रहे हैं। उन्होंने यह टिप्पणी एक सार्वजनिक कार्यक्रम में की। शरद पवार ने कही पीएम मोदी की तारीफ, बोले- वे भारत का मान बढ़ाने में जुटे।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पति को वश में करने के लिए तीन साल से हाथ में बांधे रखी प्लास्टिक, हथेली का हाल देख डॉक्टर भी चौंक गए",
+      "url": "https://www.amarujala.com/bizarre-news/woman-kept-hundreds-of-plastic-bag-tied-on-her-hand-for-three-years-to-control-her-husband-mental-distress-2026-05-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T07:25:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/viral-video_5f4df13214c42eb019acc6dc0ddc34e3.jpeg?w=750&dpr=1.0",
+      "summary": "एक महिला ने अपने पति को वश में करने के लिए लगभग तीन साल तक अपनी हथेली पर प्लास्टिक की थैलियां बांधे रखीं। इससे उसकी हथेली की त्वचा मोटी और सख्त हो गई थी। डॉक्टरों ने सर्जरी कर थैलियों को हटाया। इस वीडियो में एक महिला के हाथ से सैकड़ों प्लास्टिक की थैलियां हटाई जा रही हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पति को वश में करने के लिए तीन साल से हाथ में बांधे रखी प्लास्टिक, हथेली का हाल देख डॉक्टर भी चौंक गए",
+          "summary": "एक महिला ने अपने पति को वश में करने के लिए लगभग तीन साल तक अपनी हथेली पर प्लास्टिक की थैलियां बांधे रखीं। इससे उसकी हथेली की त्वचा मोटी और सख्त हो गई थी। डॉक्टरों ने सर्जरी कर थैलियों को हटाया। इस वीडियो में एक महिला के हाथ से सैकड़ों प्लास्टिक की थैलियां हटाई जा रही हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अपने ही सुरक्षा कर्मियों पर भड़के जूनियर एनटीआर; जन्मदिन पर बेकाबू हुए फैंस तो बोले -'यह सारा",
+      "url": "https://www.amarujala.com/entertainment/south-cinema/junior-ntr-celebrates-his-43rd-birthday-security-team-misbehaves-with-fans-gather-outside-his-home-2026-05-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T07:25:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/janayara-enataaara_3aefe54a434a7cdaa36b3fa242394f6e.jpeg?w=750&dpr=1.0",
+      "summary": "अभिनेता जूनियर एनटीआर अपने जन्मदिन पर बेकाबू प्रशंसकों के बीच पहुंचे। भीड़ को नियंत्रित करने में विफल रहने पर वह अपने सुरक्षा कर्मियों पर भड़क गए। उन्होंने प्रशंसकों के बीच सुरक्षा घेरा तोड़कर जाने का प्रयास किया। जूनियर एनटीआर के जन्मदिन पर घर के बाहर फैंस की भीड़ उमड़ पड़ी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अपने ही सुरक्षा कर्मियों पर भड़के जूनियर एनटीआर; जन्मदिन पर बेकाबू हुए फैंस तो बोले -'यह सारा",
+          "summary": "अभिनेता जूनियर एनटीआर अपने जन्मदिन पर बेकाबू प्रशंसकों के बीच पहुंचे। भीड़ को नियंत्रित करने में विफल रहने पर वह अपने सुरक्षा कर्मियों पर भड़क गए। उन्होंने प्रशंसकों के बीच सुरक्षा घेरा तोड़कर जाने का प्रयास किया। जूनियर एनटीआर के जन्मदिन पर घर के बाहर फैंस की भीड़ उमड़ पड़ी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी-मेलोनी ने पेश किया विजन, दोनों देशों के बीच 20 अरब यूरो व्यापार का लक्ष्य",
       "url": "https://www.amarujala.com/live/world/pm-narendra-modi-italy-visit-live-five-nation-tour-india-rome-relations-giorgia-meloni-2026-05-19",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-20T03:31:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/paema-matha_229dacf44bb89ec3b3841de9a0d33c61.jpeg?w=750&dpr=1.0",
+      "published_at": "2026-05-20T07:22:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/parathhanamatara-matha-oura-ital-ka-paema-jarajaya-malna-ka-malkata_f47ad2834c0523fb7e0c6bd0b2c83b39.jpeg?w=750&dpr=1.0",
       "summary": "प्रधानमंत्री मोदी नॉर्वे का दौरा पूरा कर इटली पहुंचे। इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने उन्हें स्वागत किया। यह पांच देशों के दौरे का आखिरी पड़ाव है। PM Modi Italy Visit LIVE: पांच देशों के दौरे का आखिरी पड़ाव, नॉर्वे का सफल दौरा पूरा कर इटली पहुंचे पीएम मोदी।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "इटली में प्रधानमंत्री मोदी का दौरा, व्यापार-रक्षा समेत कई मुद्दों पर होगी अहम चर्चा",
+          "title": "पीएम मोदी-मेलोनी ने पेश किया विजन, दोनों देशों के बीच 20 अरब यूरो व्यापार का लक्ष्य",
           "summary": "प्रधानमंत्री मोदी नॉर्वे का दौरा पूरा कर इटली पहुंचे। इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने उन्हें स्वागत किया। यह पांच देशों के दौरे का आखिरी पड़ाव है। PM Modi Italy Visit LIVE: पांच देशों के दौरे का आखिरी पड़ाव, नॉर्वे का सफल दौरा पूरा कर इटली पहुंचे पीएम मोदी।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "पीएम मोदी का रोम में शानदार स्वागत, मेलोनी ने लिखा 'रोम में आपका स्वागत है मेरे दोस्त'",
-      "url": "https://www.amarujala.com/video/india-news/pm-modi-receives-a-grand-welcome-in-rome-meloni-writes-welcome-to-rome-my-friend-2026-05-20",
+      "title": "केरल में सतीशन सरकार का बड़ा एक्शन: सिल्वरलाइन प्रोजेक्ट पर लगाई रोक, पहले से रहा विवादों में",
+      "url": "https://www.amarujala.com/india-news/satheesan-gov-takes-major-action-kerala-silverline-project-put-on-hold-a-project-already-mired-in-controversy-2026-05-20",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-20T03:31:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/paema-matha-ka-rama-ma-shanathara-savagata-malna-na-lkha-rama-ma-aapaka-savagata-ha-mara-thasata_a9ae3ccfe4c95f83d63371323c61f2c5.jpeg?w=750&dpr=1.0",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी इटली के रोम पहुंचे। प्रधानमंत्री जॉर्जिया मेलोनी ने उनका स्वागत किया। मेलोनी ने उन्हें 'मेरे दोस्त' कहकर संबोधित किया। प्रधानमंत्री नरेंद्र मोदी अपने पांच देशों के दौरे के अंतिम चरण में इटली पहुंच चुके हैं, जहां उनका बेहद गर्मजोशी से स्वागत किया गया।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी का रोम में शानदार स्वागत, मेलोनी ने लिखा 'रोम में आपका स्वागत है मेरे दोस्त'",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी इटली के रोम पहुंचे। प्रधानमंत्री जॉर्जिया मेलोनी ने उनका स्वागत किया। मेलोनी ने उन्हें 'मेरे दोस्त' कहकर संबोधित किया। प्रधानमंत्री नरेंद्र मोदी अपने पांच देशों के दौरे के अंतिम चरण में इटली पहुंच चुके हैं, जहां उनका बेहद गर्मजोशी से स्वागत किया गया।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी को नॉर्वे के अख़बार ने 'सपेरे' के रूप में दिखाया और क्या-क्या लिखा?",
-      "url": "https://www.bbc.com/hindi/articles/c707l36k338o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-20T03:28:52+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/e088/live/99bff6a0-53fa-11f1-b9b2-1d37a6a80c5b.jpg",
-      "summary": "नॉर्वे के एक समाचार पत्र ने प्रधानमंत्री नरेंद्र मोदी का कार्टून प्रकाशित किया। इसमें उन्हें 'सपेरा' बताया गया है। लेख में उन्हें 'चालाक और खीज दिलाने वाला आदमी' कहा गया है। नॉर्वे के एक अख़बार में प्रधानमंत्री नरेंद्र मोदी का जो कार्टून छापा गया है उस पर सोशल मीडिया में काफ़ी चर्चा हो रही है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी को नॉर्वे के अख़बार ने 'सपेरे' के रूप में दिखाया और क्या-क्या लिखा?",
-          "summary": "नॉर्वे के एक समाचार पत्र ने प्रधानमंत्री नरेंद्र मोदी का कार्टून प्रकाशित किया। इसमें उन्हें 'सपेरा' बताया गया है। लेख में उन्हें 'चालाक और खीज दिलाने वाला आदमी' कहा गया है। नॉर्वे के एक अख़बार में प्रधानमंत्री नरेंद्र मोदी का जो कार्टून छापा गया है उस पर सोशल मीडिया में काफ़ी चर्चा हो रही है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पूर्व सीएम खंडूड़ी के निधन पर उपराष्ट्रपति ने जताया शोक, श्रद्धांजलि देने आवास पर पहुंचे",
-      "url": "https://www.amarujala.com/dehradun/vice-president-radhakrishnan-expressed-grief-over-demise-of-former-cm-khanduri-arrived-to-pay-tribute-dehradun-2026-05-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-20T03:23:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/bc-khanduri_dd1814c91ff76a683a2994848e3a1393.jpeg?w=750&dpr=1.0",
-      "summary": "उपराष्ट्रपति सीपी राधाकृष्णन ने पूर्व मुख्यमंत्री मेजर जनरल बीसी खंडूड़ी के निधन पर शोक व्यक्त किया। उन्होंने खंडूड़ी के आवास पर जाकर श्रद्धांजलि दी। उपराष्ट्रपति सीपी राधाकृष्णन ने पूर्व सीएम मेजर जनरल बीसी खंडूड़ी (सेनि.) के निधन पर गहरा शोक प्रकट किया है। पूर्व सीएम खंडूड़ी के निधन पर उपराष्ट्रपति ने जताया शोक, श्रद्धांजलि देने आवास पर पहुंचे।",
+      "published_at": "2026-05-20T07:17:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/vada-satashana-karal-ka-makhayamatara_e265b105fc9f36658ee1bc8d5d4de846.jpeg?w=750&dpr=1.0",
+      "summary": "केरल सरकार ने विवादास्पद सिल्वरलाइन परियोजना पर रोक लगा दी है। मुख्यमंत्री पिनाराई विजयन के नेतृत्व वाली सरकार ने इस परियोजना को आगे बढ़ाने के बजाय फिलहाल रोक दिया है। यह परियोजना पहले से ही विरोध का सामना कर रही थी। केरल में सतीशन सरकार का बड़ा एक्शन: सिल्वरलाइन प्रोजेक्ट पर लगाई रोक, पहले से रहा विवादों में।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पूर्व सीएम खंडूड़ी के निधन पर उपराष्ट्रपति ने जताया शोक, श्रद्धांजलि देने आवास पर पहुंचे",
-          "summary": "उपराष्ट्रपति सीपी राधाकृष्णन ने पूर्व मुख्यमंत्री मेजर जनरल बीसी खंडूड़ी के निधन पर शोक व्यक्त किया। उन्होंने खंडूड़ी के आवास पर जाकर श्रद्धांजलि दी। उपराष्ट्रपति सीपी राधाकृष्णन ने पूर्व सीएम मेजर जनरल बीसी खंडूड़ी (सेनि.) के निधन पर गहरा शोक प्रकट किया है। पूर्व सीएम खंडूड़ी के निधन पर उपराष्ट्रपति ने जताया शोक, श्रद्धांजलि देने आवास पर पहुंचे।",
+          "title": "केरल में सतीशन सरकार का बड़ा एक्शन: सिल्वरलाइन प्रोजेक्ट पर लगाई रोक, पहले से रहा विवादों में",
+          "summary": "केरल सरकार ने विवादास्पद सिल्वरलाइन परियोजना पर रोक लगा दी है। मुख्यमंत्री पिनाराई विजयन के नेतृत्व वाली सरकार ने इस परियोजना को आगे बढ़ाने के बजाय फिलहाल रोक दिया है। यह परियोजना पहले से ही विरोध का सामना कर रही थी। केरल में सतीशन सरकार का बड़ा एक्शन: सिल्वरलाइन प्रोजेक्ट पर लगाई रोक, पहले से रहा विवादों में।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "जीत के बावजूद रियान क्यों हुए गुस्सा?: कमेंटेटर्स को दी नसीहत; बोले- क्रिकेट पर बात करें, निजी",
-      "url": "https://www.amarujala.com/cricket/riyan-parag-slams-ipl-commentators-urges-them-to-talk-about-cricket-rr-vs-lsg-ipl-2026-2026-05-20",
-      "source": "Amar Ujala Breaking",
+      "title": "‘5 करोड़ रुपये बड़ी रकम नहीं’, चेक बाउंस मामले पर फिर बोले राजपाल यादव; कहा- इसे बेवजह सनसनीखेज",
+      "url": "https://www.amarujala.com/entertainment/bollywood/rajpal-yadav-again-breaks-silence-on-rs-5-crore-fraud-allegations-says-if-it-was-loan-then-why-call-it-fraud-2026-05-20",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-20T03:19:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/rajasthan-royals-ipl-2026-ipl-commentators-vaibhav-sooryavanshi-rr-vs-lsg-riyan-parag-stateme_65ff771564826b45f426208e85362f7b.jpeg?w=750&dpr=1.0",
-      "summary": "लखनऊ सुपर जायंट्स पर जीत के बाद राजस्थान रॉयल्स के कप्तान रियान पराग ने कमेंटेटर्स को नसीहत दी। उन्होंने कहा कि वे क्रिकेट पर ध्यान दें, निजी बातों पर नहीं। आईपीएल 2026 में लखनऊ सुपर जायंट्स पर मिली रोमांचक जीत के बाद राजस्थान रॉयल्स के कप्तान Riyan Parag ने कमेंटेटर्स और आलोचकों पर जमकर निशाना साधा।",
+      "published_at": "2026-05-20T07:08:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/rajapal-yathava_8b4a4758b67b7823337c9c786767c023.jpeg?w=750&dpr=1.0",
+      "summary": "अभिनेता राजपाल यादव ने पांच करोड़ रुपये के चेक बाउंस मामले पर फिर से बात की। उन्होंने कहा कि यह रकम बहुत बड़ी नहीं है। यादव ने इस मामले को बेवजह सनसनीखेज बनाने का आरोप लगाया। Rajpal Yadav: राजपाल यादव ने एक बार फिर अपने पांच करोड़ रुपए के कथित धोखाधड़ी व चेक बाउंस मामले पर अपनी बात रखी।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जीत के बावजूद रियान क्यों हुए गुस्सा?: कमेंटेटर्स को दी नसीहत; बोले- क्रिकेट पर बात करें, निजी",
-          "summary": "लखनऊ सुपर जायंट्स पर जीत के बाद राजस्थान रॉयल्स के कप्तान रियान पराग ने कमेंटेटर्स को नसीहत दी। उन्होंने कहा कि वे क्रिकेट पर ध्यान दें, निजी बातों पर नहीं। आईपीएल 2026 में लखनऊ सुपर जायंट्स पर मिली रोमांचक जीत के बाद राजस्थान रॉयल्स के कप्तान Riyan Parag ने कमेंटेटर्स और आलोचकों पर जमकर निशाना साधा।",
+          "title": "‘5 करोड़ रुपये बड़ी रकम नहीं’, चेक बाउंस मामले पर फिर बोले राजपाल यादव; कहा- इसे बेवजह सनसनीखेज",
+          "summary": "अभिनेता राजपाल यादव ने पांच करोड़ रुपये के चेक बाउंस मामले पर फिर से बात की। उन्होंने कहा कि यह रकम बहुत बड़ी नहीं है। यादव ने इस मामले को बेवजह सनसनीखेज बनाने का आरोप लगाया। Rajpal Yadav: राजपाल यादव ने एक बार फिर अपने पांच करोड़ रुपए के कथित धोखाधड़ी व चेक बाउंस मामले पर अपनी बात रखी।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "ईरान के खिलाफ युद्ध में अमेरिका को हुआ भारी नुकसान, 42 विमान और ड्रोन तबाह होने का दावा",
-      "url": "https://www.amarujala.com/world/the-us-suffered-heavy-losses-in-the-war-against-iran-claiming-42-aircraft-and-drones-were-destroyed-2026-05-20",
+      "title": "राशा ने आजादू के साथ शेयर कीं प्यारी तस्वीरें",
+      "url": "https://www.amarujala.com/web-stories/entertainment/rasha-thadani-shares-cute-and-adorable-photos-with-her-pet-puppy-azaadu-2026-05-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T07:08:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/rasha-thadana_40fef2f3ab9b5d534594ebd348251dad.jpeg?w=750&dpr=1.0",
+      "summary": "राशा थडानी ने अपने पालतू कुत्ते आजादू के साथ तस्वीरें साझा कीं। इन तस्वीरों में दोनों को साथ में समय बिताते हुए देखा जा सकता है। राशा ने आजादू के साथ शेयर कीं प्यारी तस्वीरें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राशा ने आजादू के साथ शेयर कीं प्यारी तस्वीरें",
+          "summary": "राशा थडानी ने अपने पालतू कुत्ते आजादू के साथ तस्वीरें साझा कीं। इन तस्वीरों में दोनों को साथ में समय बिताते हुए देखा जा सकता है। राशा ने आजादू के साथ शेयर कीं प्यारी तस्वीरें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पेट्रोल में और बढ़ेगी इथेनॉल की मात्रा, BIS ने E22-E30 फ्यूल को दी हरी झंडी",
+      "url": "https://www.amarujala.com/automobiles/india-approves-new-e22-e25-e27-and-e30-fuel-standards-to-boost-green-mobility-2026-05-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T07:08:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/ethanol-blending_124d0dac110d97aec7a25e4b432c5b85.jpeg?w=750&dpr=1.0",
+      "summary": "भारतीय मानक ब्यूरो (BIS) ने पेट्रोल में इथेनॉल की मात्रा E22 से E30 तक बढ़ाने को मंजूरी दे दी है। यह कदम ग्रीन मोबिलिटी और स्वच्छ ईंधन की ओर एक बड़ा कदम है। E20 Fuel India: भारत अब ग्रीन मोबिलिटी और साफ ईंधन की दिशा में एक और बड़ा कदम बढ़ा चुका है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पेट्रोल में और बढ़ेगी इथेनॉल की मात्रा, BIS ने E22-E30 फ्यूल को दी हरी झंडी",
+          "summary": "भारतीय मानक ब्यूरो (BIS) ने पेट्रोल में इथेनॉल की मात्रा E22 से E30 तक बढ़ाने को मंजूरी दे दी है। यह कदम ग्रीन मोबिलिटी और स्वच्छ ईंधन की ओर एक बड़ा कदम है। E20 Fuel India: भारत अब ग्रीन मोबिलिटी और साफ ईंधन की दिशा में एक और बड़ा कदम बढ़ा चुका है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "Amar Ujala Samwad Lucknow 2026: यूपी में कब होंगे पंचायत चुनाव?अनुप्रिया पटेल ने बताया",
+      "url": "https://www.amarujala.com/video/india-news/amar-ujala-samwad-lucknow-2026-when-will-the-panchayat-elections-be-held-in-up-anupriya-patel-reveals-2026-05-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T07:05:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/anupriya-patel_31b775cbd507307f5e44a5f481c0dfdf.jpeg?w=750&dpr=1.0",
+      "summary": "अपना दल (एस) की नेता अनुप्रिया पटेल ने लखनऊ में कहा कि उत्तर प्रदेश में पंचायत चुनाव की तारीखों पर अभी कोई निर्णय नहीं हुआ है। उन्होंने कहा कि चुनाव समय पर होंगे। Amar Ujala Samwad Lucknow 2026: यूपी में कब होंगे पंचायत चुनाव? अनुप्रिया पटेल ने बताया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Amar Ujala Samwad Lucknow 2026: यूपी में कब होंगे पंचायत चुनाव?अनुप्रिया पटेल ने बताया",
+          "summary": "अपना दल (एस) की नेता अनुप्रिया पटेल ने लखनऊ में कहा कि उत्तर प्रदेश में पंचायत चुनाव की तारीखों पर अभी कोई निर्णय नहीं हुआ है। उन्होंने कहा कि चुनाव समय पर होंगे। Amar Ujala Samwad Lucknow 2026: यूपी में कब होंगे पंचायत चुनाव? अनुप्रिया पटेल ने बताया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "फिटनेस के चक्कर में गलती न करें, ज्यादा प्रोटीन से बिगड़ सकती है हेल्थ",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/disadvantage-of-consuming-high-protein-what-are-the-side-effects-of-high-protein-diet-2026-05-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T07:01:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/high-protein_e0f9dfb31dbcdb67642df8764ca44647.jpeg?w=750&dpr=1.0",
+      "summary": "अत्यधिक प्रोटीन का सेवन स्वास्थ्य के लिए हानिकारक हो सकता है। जिस प्रकार प्रोटीन की कमी से समस्याएं होती हैं, उसी प्रकार अधिक मात्रा में सेवन करने से शरीर को नुकसान पहुंच सकता है। Disadvantage of Consuming High Protein: प्रोटीन की कमी से जिस तरह से शरीर में काफी दिक्कतें हो सकती हैं, ठीक उसी तरह से हाई प्रोटीन आपके शरीर को नुकसान भी पहुंचा सकता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फिटनेस के चक्कर में गलती न करें, ज्यादा प्रोटीन से बिगड़ सकती है हेल्थ",
+          "summary": "अत्यधिक प्रोटीन का सेवन स्वास्थ्य के लिए हानिकारक हो सकता है। जिस प्रकार प्रोटीन की कमी से समस्याएं होती हैं, उसी प्रकार अधिक मात्रा में सेवन करने से शरीर को नुकसान पहुंच सकता है। Disadvantage of Consuming High Protein: प्रोटीन की कमी से जिस तरह से शरीर में काफी दिक्कतें हो सकती हैं, ठीक उसी तरह से हाई प्रोटीन आपके शरीर को नुकसान भी पहुंचा सकता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कैलिफोर्निया मस्जिद हमले में तीन की मौत, हमलावरों ने ऑनलाइन दिए कट्टरपंथी बयान",
+      "url": "https://www.amarujala.com/world/us-san-diego-mosque-attack-three-dead-in-california-mosque-attack-attackers-made-radical-statements-online-2026-05-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T06:58:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/san-diego-mosque-attack_d07e89ecc71e801c0a9e9225b5089efb.jpeg?w=750&dpr=1.0",
+      "summary": "कैलिफोर्निया की एक मस्जिद में दो युवकों ने हमला किया। इसमें तीन लोगों की मौत हो गई। सुरक्षा गार्ड अमीन अब्दुल्ला ने हमलावरों को रोका और 140 बच्चों की जान बचाई। कैलिफोर्निया की एक मस्जिद पर दो युवकों ने हमला कर दिया। इस हमले में तीन लोगों के मौत की खबर है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कैलिफोर्निया मस्जिद हमले में तीन की मौत, हमलावरों ने ऑनलाइन दिए कट्टरपंथी बयान",
+          "summary": "कैलिफोर्निया की एक मस्जिद में दो युवकों ने हमला किया। इसमें तीन लोगों की मौत हो गई। सुरक्षा गार्ड अमीन अब्दुल्ला ने हमलावरों को रोका और 140 बच्चों की जान बचाई। कैलिफोर्निया की एक मस्जिद पर दो युवकों ने हमला कर दिया। इस हमले में तीन लोगों के मौत की खबर है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कार में सफर, साथ में डिनर फिर गिफ्ट में टॉफी, रोम में दिखी भारत और इटली की खास दोस्ती",
+      "url": "https://www.amarujala.com/world/pm-modi-gave-a-special-gift-india-s-melody-toffee-reached-italy-meloni-thanked-on-social-media-2026-05-20",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-20T03:12:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/crs-ka-raparata-ma-bugdha-thava_f23c225179a627709b27d28bc5753bae.jpeg?w=750&dpr=1.0",
-      "summary": "ईरान ने दावा किया है कि अमेरिका को उसके खिलाफ युद्ध में भारी नुकसान हुआ है। ईरान के अनुसार, 42 अमेरिकी विमान और ड्रोन नष्ट कर दिए गए। ईरान के खिलाफ युद्ध में अमेरिका को हुआ भारी नुकसान, 42 विमान और ड्रोन तबाह होने का दावा।",
+      "published_at": "2026-05-20T06:49:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/paema-matha-oura-ital-ka-paema-malna_1214f94b6cd2b65a61e9083acb112514.jpeg?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री मोदी ने इटली की प्रधानमंत्री जॉर्जिया मेलोनी को भारत की मेलोडी टॉफी उपहार में दी। मेलोनी ने सोशल मीडिया पर इस उपहार के लिए धन्यवाद व्यक्त किया। पीएम मोदी ने दिया खास गिफ्ट: भारत की मेलोडी टॉफी पहुंची इटली, मेलोनी ने सोशल मीडिया पर किया शुक्रिया अदा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कार में सफर, साथ में डिनर फिर गिफ्ट में टॉफी, रोम में दिखी भारत और इटली की खास दोस्ती",
+          "summary": "प्रधानमंत्री मोदी ने इटली की प्रधानमंत्री जॉर्जिया मेलोनी को भारत की मेलोडी टॉफी उपहार में दी। मेलोनी ने सोशल मीडिया पर इस उपहार के लिए धन्यवाद व्यक्त किया। पीएम मोदी ने दिया खास गिफ्ट: भारत की मेलोडी टॉफी पहुंची इटली, मेलोनी ने सोशल मीडिया पर किया शुक्रिया अदा।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "आपकी गाड़ी के नाम पर कोई और भी बनवा सकता है फास्टैग? इस घटना ने उठाए सुरक्षा पर सवाल, कैसे बचें?",
+      "url": "https://www.amarujala.com/automobiles/security-breach-warning-anyone-generate-new-fastag-your-car-2026-05-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-20T06:42:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/fasataga-ka-sarakashha-para-utha-saval_f780c9283685241b5049fc9563670565.jpeg?w=750&dpr=1.0",
+      "summary": "मुंबई में एक घटना ने फास्टैग की सुरक्षा पर सवाल उठाए हैं। यह घटना दर्शाती है कि किसी और की गाड़ी के नाम पर भी फास्टैग सक्रिय किया जा सकता है। FASTag Security Loophole: क्या आपकी गाड़ी का फास्टैग कोई दूसरा भी एक्टिव कर सकता है?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आपकी गाड़ी के नाम पर कोई और भी बनवा सकता है फास्टैग? इस घटना ने उठाए सुरक्षा पर सवाल, कैसे बचें?",
+          "summary": "मुंबई में एक घटना ने फास्टैग की सुरक्षा पर सवाल उठाए हैं। यह घटना दर्शाती है कि किसी और की गाड़ी के नाम पर भी फास्टैग सक्रिय किया जा सकता है। FASTag Security Loophole: क्या आपकी गाड़ी का फास्टैग कोई दूसरा भी एक्टिव कर सकता है?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पंजाबी सिंगर के अफेयर और कत्ल की स्टोरी: कनाडा से आया 'आशिक' बना कातिल, इंदर जान गई थी प्रेमी का ये",
+      "url": "https://www.amarujala.com/photo-gallery/punjab/ludhiana/punjabi-singer-affair-and-murder-story-lover-who-come-from-canada-he-murder-and-threw-body-into-canal-2026-05-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-20T06:39:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/punjabi-singer-affair-and-murder_f487b336184f0565c99be5043e4fd345.jpeg?w=750&dpr=1.0",
+      "summary": "कनाडा से आए एक युवक ने एकतरफा प्यार में पंजाबी गायिका यशइंदर कौर उर्फ इंदर कौर की हत्या कर दी। गायिका का शव नीलो नहर से बरामद हुआ। एकतरफा प्यार में एनआरआई युवक ने पंजाबी गायिका यशइंदर कौर उर्फ इंदर कौर की हत्या कर दी।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान के खिलाफ युद्ध में अमेरिका को हुआ भारी नुकसान, 42 विमान और ड्रोन तबाह होने का दावा",
-          "summary": "ईरान ने दावा किया है कि अमेरिका को उसके खिलाफ युद्ध में भारी नुकसान हुआ है। ईरान के अनुसार, 42 अमेरिकी विमान और ड्रोन नष्ट कर दिए गए। ईरान के खिलाफ युद्ध में अमेरिका को हुआ भारी नुकसान, 42 विमान और ड्रोन तबाह होने का दावा।",
+          "title": "पंजाबी सिंगर के अफेयर और कत्ल की स्टोरी: कनाडा से आया 'आशिक' बना कातिल, इंदर जान गई थी प्रेमी का ये",
+          "summary": "कनाडा से आए एक युवक ने एकतरफा प्यार में पंजाबी गायिका यशइंदर कौर उर्फ इंदर कौर की हत्या कर दी। गायिका का शव नीलो नहर से बरामद हुआ। एकतरफा प्यार में एनआरआई युवक ने पंजाबी गायिका यशइंदर कौर उर्फ इंदर कौर की हत्या कर दी।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "अगले महीने हो सकती है पीएम मोदी-राष्ट्रपति ट्रंप की मुलाकात, मैक्रों के निमंत्रण से चर्चाएं तेज",
-      "url": "https://www.amarujala.com/world/pm-modi-and-donald-trump-are-likely-to-meet-next-month-during-the-g7-summit-in-france-2026-05-20",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-20T03:12:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/23/modi-trump_e166b49156e666d7cb35841ad2a056ca.jpeg?w=750&dpr=1.0",
-      "summary": "फ्रांस में अगले महीने जी7 शिखर सम्मेलन के दौरान प्रधानमंत्री मोदी और राष्ट्रपति ट्रंप की मुलाकात हो सकती है। फ्रांसीसी राष्ट्रपति मैक्रों ने यह निमंत्रण दिया है। इस संभावित बैठक से दोनों नेताओं के बीच द्विपक्षीय संबंधों पर चर्चा की उम्मीद है। अगले महीने हो सकती है पीएम मोदी-राष्ट्रपति ट्रंप की मुलाकात, मैक्रों के निमंत्रण से चर्चाएं तेज।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अगले महीने हो सकती है पीएम मोदी-राष्ट्रपति ट्रंप की मुलाकात, मैक्रों के निमंत्रण से चर्चाएं तेज",
-          "summary": "फ्रांस में अगले महीने जी7 शिखर सम्मेलन के दौरान प्रधानमंत्री मोदी और राष्ट्रपति ट्रंप की मुलाकात हो सकती है। फ्रांसीसी राष्ट्रपति मैक्रों ने यह निमंत्रण दिया है। इस संभावित बैठक से दोनों नेताओं के बीच द्विपक्षीय संबंधों पर चर्चा की उम्मीद है। अगले महीने हो सकती है पीएम मोदी-राष्ट्रपति ट्रंप की मुलाकात, मैक्रों के निमंत्रण से चर्चाएं तेज।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मजबूती से आगे बढ़ रही ‘पति पत्नी और वो दो’, पांच दिनों में ही पस्त हुई ‘आखिरी सवाल’; जानें बाकी",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/box-office-collection-pati-patni-aur-woh-do-vs-aakhri-sawal-karuppu-raja-shivaji-and-krishnavataram-part-1-2026-05-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-20T03:08:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/bkasa-oifasa-kalkashana_85739f046e116042c3bf974c96ca88ef.jpeg?w=750&dpr=1.0",
-      "summary": "'पति पत्नी और वो दो' ने बॉक्स ऑफिस पर अच्छी शुरुआत की है। फिल्म ने पांच दिनों में अच्छी कमाई की है। वहीं, 'आखिरी सवाल' फिल्म पांच दिनों में ही कमजोर पड़ गई। अन्य फिल्में भी सिनेमाघरों में लगी हैं। Box Office Collection: सिनेमाघरों में इन दिनों दर्शकों के लिए भरपूर मनोरंजन उपलब्ध है, क्योंकि बॉक्स ऑफिस पर इन दिनों कई फिल्में चल रही हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मजबूती से आगे बढ़ रही ‘पति पत्नी और वो दो’, पांच दिनों में ही पस्त हुई ‘आखिरी सवाल’; जानें बाकी",
-          "summary": "'पति पत्नी और वो दो' ने बॉक्स ऑफिस पर अच्छी शुरुआत की है। फिल्म ने पांच दिनों में अच्छी कमाई की है। वहीं, 'आखिरी सवाल' फिल्म पांच दिनों में ही कमजोर पड़ गई। अन्य फिल्में भी सिनेमाघरों में लगी हैं। Box Office Collection: सिनेमाघरों में इन दिनों दर्शकों के लिए भरपूर मनोरंजन उपलब्ध है, क्योंकि बॉक्स ऑफिस पर इन दिनों कई फिल्में चल रही हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या आपकी कार जासूसी कर रही है, जानिए यह कैसे आपके लिए महंगा पड़ सकता है",
-      "url": "https://www.bbc.com/hindi/articles/cddp50vjv04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-20T03:07:38+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/8511/live/6c86b900-52db-11f1-89a3-d1f559421220.jpg",
-      "summary": "आपकी कार यात्रा के दौरान डेटा एकत्र कर सकती है। यह डेटा आपकी निजता के लिए खतरा हो सकता है। कार निर्माता इस डेटा का उपयोग कैसे करते हैं, इसकी जानकारी रखना महत्वपूर्ण है। अगर आप समझते हैं कि अपनी कार में आप आज़ाद और सुरक्षित हैं तो सावधान हो जाइए.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या आपकी कार जासूसी कर रही है, जानिए यह कैसे आपके लिए महंगा पड़ सकता है",
-          "summary": "आपकी कार यात्रा के दौरान डेटा एकत्र कर सकती है। यह डेटा आपकी निजता के लिए खतरा हो सकता है। कार निर्माता इस डेटा का उपयोग कैसे करते हैं, इसकी जानकारी रखना महत्वपूर्ण है। अगर आप समझते हैं कि अपनी कार में आप आज़ाद और सुरक्षित हैं तो सावधान हो जाइए.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ऑनलाइन दवा बिक्री के खिलाफ गुस्से में केमिस्ट, हड़ताल के चलते मेडिकल स्टोर बंद",
-      "url": "https://www.amarujala.com/video/india-news/chemists-protest-online-drug-sales-medical-stores-shut-due-to-strike-2026-05-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-20T03:00:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/oinalina-thava-bkara-ka-khalfa-gasasa-ma-kamasata-haugdhatal-ka-calta-madakal-satara-btha_15fea9e63083d5076394c12557618a2b.jpeg?w=750&dpr=1.0",
-      "summary": "ऑनलाइन दवा बिक्री के विरोध में देशभर के केमिस्ट हड़ताल पर हैं। इस हड़ताल के कारण मेडिकल स्टोर बंद हैं। दवा खरीदने के इच्छुक लोगों को इससे असुविधा हो सकती है। आज अगर आप दवाई खरीदने के लिए मेडिकल स्टोर जाने की सोच रहे हैं, तो पहले ये खबर जरूर जान लीजिए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ऑनलाइन दवा बिक्री के खिलाफ गुस्से में केमिस्ट, हड़ताल के चलते मेडिकल स्टोर बंद",
-          "summary": "ऑनलाइन दवा बिक्री के विरोध में देशभर के केमिस्ट हड़ताल पर हैं। इस हड़ताल के कारण मेडिकल स्टोर बंद हैं। दवा खरीदने के इच्छुक लोगों को इससे असुविधा हो सकती है। आज अगर आप दवाई खरीदने के लिए मेडिकल स्टोर जाने की सोच रहे हैं, तो पहले ये खबर जरूर जान लीजिए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "किस तारीख को आपके बैंक खाते में आ सकती है 23वीं किस्त? जानें लेटेस्ट अपडेट",
-      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-yojana-23rd-installment-on-which-date-can-the-23rd-installment-be-released-2026-05-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-20T02:52:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/23va-kasata-kab-ralja-haga_517883941c0117f55ae3205bf5b40ec2.jpeg?w=750&dpr=1.0",
-      "summary": "पीएम किसान योजना की 23वीं किस्त जल्द ही जारी होने की उम्मीद है। किसान इस किस्त का बेसब्री से इंतजार कर रहे हैं। योजना से जुड़े किसानों के खातों में यह राशि डाली जाएगी। क्या आप जानते हैं कि पीएम किसान योजना की 23वीं किस्त तारीख को रिलीज होगी?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "किस तारीख को आपके बैंक खाते में आ सकती है 23वीं किस्त? जानें लेटेस्ट अपडेट",
-          "summary": "पीएम किसान योजना की 23वीं किस्त जल्द ही जारी होने की उम्मीद है। किसान इस किस्त का बेसब्री से इंतजार कर रहे हैं। योजना से जुड़े किसानों के खातों में यह राशि डाली जाएगी। क्या आप जानते हैं कि पीएम किसान योजना की 23वीं किस्त तारीख को रिलीज होगी?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या चप्पल पहनकर बाइक-कार चलाने पर कट सकता है चालान? यहां दूर करें कंफ्यूजन",
-      "url": "https://www.amarujala.com/photo-gallery/utility/driving-challan-rule-can-a-challan-be-issued-for-driving-a-bike-or-car-while-wearing-slippers-2026-05-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-20T02:39:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/kaya-capapal-pahanakara-bika-cal-sakata-ha_fb7d043137561186ddeac420b9143017.jpeg?w=750&dpr=1.0",
-      "summary": "चप्पल पहनकर बाइक या कार चलाने पर चालान कट सकता है या नहीं, इसके नियम जानने की जरूरत है। क्या अगर आप बाइक या कार चप्पल पहनकर चलाते हैं, तो क्या ट्रैफिक पुलिस आपका चालान काट सकती है? चलिए नियम जानते हैं। क्या चप्पल पहनकर बाइक-कार चलाने पर कट सकता है चालान?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या चप्पल पहनकर बाइक-कार चलाने पर कट सकता है चालान? यहां दूर करें कंफ्यूजन",
-          "summary": "चप्पल पहनकर बाइक या कार चलाने पर चालान कट सकता है या नहीं, इसके नियम जानने की जरूरत है। क्या अगर आप बाइक या कार चप्पल पहनकर चलाते हैं, तो क्या ट्रैफिक पुलिस आपका चालान काट सकती है? चलिए नियम जानते हैं। क्या चप्पल पहनकर बाइक-कार चलाने पर कट सकता है चालान?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राजनाथ सिंह ने शहीद सैनिकों को दी श्रद्धांजलि, भारत-दक्षिण कोरिया रक्षा सहयोग बढ़ाने पर फोकस",
-      "url": "https://www.amarujala.com/world/rajnath-singh-pays-tribute-to-martyred-soldiers-in-seoul-focus-on-defence-cooperation-updates-hindi-2026-05-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-20T02:38:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/rajanatha-saha-na-sayal-rashhataraya-samaraka-ma-sharathathhajal-arapata-ka_6e565bcf7ba70700c3c74eea497aaf54.jpeg?w=750&dpr=1.0",
-      "summary": "राजनाथ सिंह ने शहीद सैनिकों को श्रद्धांजलि दी और भारत-दक्षिण कोरिया रक्षा सहयोग बढ़ाने पर फोकस किया। राजनाथ सिंह ने शहीद सैनिकों को दी श्रद्धांजलि, भारत-दक्षिण कोरिया रक्षा सहयोग बढ़ाने पर फोकस।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राजनाथ सिंह ने शहीद सैनिकों को दी श्रद्धांजलि, भारत-दक्षिण कोरिया रक्षा सहयोग बढ़ाने पर फोकस",
-          "summary": "राजनाथ सिंह ने शहीद सैनिकों को श्रद्धांजलि दी और भारत-दक्षिण कोरिया रक्षा सहयोग बढ़ाने पर फोकस किया। राजनाथ सिंह ने शहीद सैनिकों को दी श्रद्धांजलि, भारत-दक्षिण कोरिया रक्षा सहयोग बढ़ाने पर फोकस।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘60 का हुआ हूं, लेकिन लड़ना नहीं भूला’, आखिर किस पर भड़के सलमान खान? बोले- पिक्चर से ज्यादा जिंदगी",
-      "url": "https://www.amarujala.com/entertainment/bollywood/salman-khan-angry-on-paparazzi-warns-after-hospital-incident-viral-video-says-not-forgotten-how-to-fight-at-60-2026-05-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-20T02:30:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/salmana-khana_9b6a035cfdb95b86ac5b3ddd1f8f6c21.jpeg?w=750&dpr=1.0",
-      "summary": "सलमान खान ने सोशल मीडिया पर अपना गुस्सा जाहिर किया और कहा कि जिंदगी पिक्चर से ज्यादा महत्वपूर्ण है। Salman Khan: आखिर किस पर आधी रात को सलमान को आया गुस्सा? सोशल मीडिया पर ही सुना डाली खरी-खोटी, अपनी फिल्म तक की नहीं की परवाह।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘60 का हुआ हूं, लेकिन लड़ना नहीं भूला’, आखिर किस पर भड़के सलमान खान? बोले- पिक्चर से ज्यादा जिंदगी",
-          "summary": "सलमान खान ने सोशल मीडिया पर अपना गुस्सा जाहिर किया और कहा कि जिंदगी पिक्चर से ज्यादा महत्वपूर्ण है। Salman Khan: आखिर किस पर आधी रात को सलमान को आया गुस्सा? सोशल मीडिया पर ही सुना डाली खरी-खोटी, अपनी फिल्म तक की नहीं की परवाह।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "झरने में डूबा IIT रुड़की का छात्र; बिहार में कैसे-कहां हुआ हादसा?",
-      "url": "https://www.amarujala.com/bihar/gaya/iit-roorkee-student-drowns-in-amjhar-waterfall-near-kakolat-in-nawada-gaya-news-c-1-1-noi1516-4302286-2026-05-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-20T02:24:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2026/05/20/mataka-chhatara-thharamaraja-ka-fail-fata_251e00a084feacc1ff316813c0283663.jpeg?w=750&dpr=1.0",
-      "summary": "नवादा जिले में आईआईटी रुड़की के छात्र धर्मराज की अमझर झरना में डूबने से मौत हो गई। नवादा जिले के ककोलत जलप्रपात के पास स्थित अमझर झरना में स्नान के दौरान आईआईटी रुड़की के छात्र धर्मराज की डूबने से मौत हो गई। धर्मराज वारिसलीगंज थाना क्षेत्र के बेलधा गांव का रहने वाला था और छुट्टी में घर आया हुआ था।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "झरने में डूबा IIT रुड़की का छात्र; बिहार में कैसे-कहां हुआ हादसा?",
-          "summary": "नवादा जिले में आईआईटी रुड़की के छात्र धर्मराज की अमझर झरना में डूबने से मौत हो गई। नवादा जिले के ककोलत जलप्रपात के पास स्थित अमझर झरना में स्नान के दौरान आईआईटी रुड़की के छात्र धर्मराज की डूबने से मौत हो गई। धर्मराज वारिसलीगंज थाना क्षेत्र के बेलधा गांव का रहने वाला था और छुट्टी में घर आया हुआ था।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जिन एयरबेस को तबाह करने का किया दावा, भारत में उनका वजूद ही नही; हो रही फजीहत",
-      "url": "https://www.amarujala.com/world/pakistani-officer-viral-video-claiming-strike-on-non-existent-indian-airbases-sparks-online-mockery-2026-05-20",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-20T02:10:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/pakasatana-sana_2a38f1b8c1cf787ad251268788c0dbef.png?w=750&dpr=1.0",
-      "summary": "पाकिस्तानी सैन्य अधिकारी ने भारतीय एयरबेस को तबाह करने का दावा किया, लेकिन वे एयरबेस भारत में नहीं हैं। जिन एयरबेस को तबाह करने का किया दावा, भारत में उनका वजूद ही नही; हो रही फजीहत।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जिन एयरबेस को तबाह करने का किया दावा, भारत में उनका वजूद ही नही; हो रही फजीहत",
-          "summary": "पाकिस्तानी सैन्य अधिकारी ने भारतीय एयरबेस को तबाह करने का दावा किया, लेकिन वे एयरबेस भारत में नहीं हैं। जिन एयरबेस को तबाह करने का किया दावा, भारत में उनका वजूद ही नही; हो रही फजीहत।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चीन और रूस के बीच नज़दीकियों की वजह क्या है?",
-      "url": "https://www.bbc.com/hindi/articles/cglp6dgj6j7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-20T02:05:31+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/38bb/live/203a0310-5383-11f1-b17f-2b9f9e9ed95d.jpg",
-      "summary": "चीन और रूस के बीच नज़दीकियों की वजह स्पष्ट नहीं है, लेकिन ट्रंप की उम्मीदें अब महज़ कल्पना लगती हैं। वॉशिंगटन में कुछ लोग यह उम्मीद कर रहे थे कि ट्रंप चीन को रूस से दूर कर सकते हैं, लेकिन ऐसी उम्मीदें अब महज़ कल्पना लगती हैं.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन और रूस के बीच नज़दीकियों की वजह क्या है?",
-          "summary": "चीन और रूस के बीच नज़दीकियों की वजह स्पष्ट नहीं है, लेकिन ट्रंप की उम्मीदें अब महज़ कल्पना लगती हैं। वॉशिंगटन में कुछ लोग यह उम्मीद कर रहे थे कि ट्रंप चीन को रूस से दूर कर सकते हैं, लेकिन ऐसी उम्मीदें अब महज़ कल्पना लगती हैं.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी का रोम में भव्य स्वागत, इटली की प्रधानमंत्री मेलोनी बोलीं- रोम में आपका स्वागत है मेरे",
-      "url": "https://www.amarujala.com/world/narendra-modi-gets-grand-welcome-in-rome-giorgia-meloni-says-welcome-to-rome-my-friend-2026-05-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-20T02:03:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/paema-narathara-matha-oura-ital-ka-parathhanamatara-jarajaya-malna_5317cf02d3d7d7ace049d453a98124dc.jpeg?w=750&dpr=1.0",
-      "summary": "पीएम मोदी का रोम में भव्य स्वागत हुआ, इटली की प्रधानमंत्री मेलोनी ने उन्हें स्वागत किया। पीएम मोदी का रोम में भव्य स्वागत, इटली की प्रधानमंत्री मेलोनी बोलीं- रोम में आपका स्वागत है मेरे।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी का रोम में भव्य स्वागत, इटली की प्रधानमंत्री मेलोनी बोलीं- रोम में आपका स्वागत है मेरे",
-          "summary": "पीएम मोदी का रोम में भव्य स्वागत हुआ, इटली की प्रधानमंत्री मेलोनी ने उन्हें स्वागत किया। पीएम मोदी का रोम में भव्य स्वागत, इटली की प्रधानमंत्री मेलोनी बोलीं- रोम में आपका स्वागत है मेरे।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त राष्ट्र सुरक्षा परिषद में बिना वीटो पावर सुधार के लिए तैयार हुए भारत समेत G-4 देश, स्थायी",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY05QVnhEOHNQM3VxOVVZYUJ6MFF4SmZyWDZJakR6RFpJaHlSaEFNdzJBYWxvRjRscjZqTDhJWXhQM2MtYjN3UEFYNXVtLWt6MmZIZXFFQVJIWml5Vm5OLWxyVXpnNjZqbnRQRkZNMS14elRBenNXaTlVTG9VaGlvbmVaRTVrVm1DblU0R240YjFjS0hHUF9Rb2FRbm1pbGh5QVl0MEVBU29pOHhjZVBqaUZkWXhyUWwtUFpFaGZiak9oYXNHNXVsOFA4Q2F5U1I2V1BrM1M4azVNOVMwUjRPWlM0RkQ4TXp0aHJ2MDl5cFhCYUJCV2p4Q2Vrb27SAYICQVVfeXFMTnRmS0E0ZmtxSTJydlJ1M1prQnUxcm5fdW5ZRnFlY28tOU0yMHBPMzVIUlNKZ0xzdTk2UGdZcWNrVFVHdGctY1pIQlo0WHRFeDRJakFoc1FyQWMwbFVaeWxiS2RoOFAyMWJDSV81c1NhZHl0WXdHS2tUX1ZyQmRSbXdBX3Z5ZEU3TnVYNUwteHRpSTVYZzdKUkJsVUM4b2o0TGt1X1NkVXhzMFBJd2Jzek1oandub19FWjVYN1phVzBDS3M1cGNLMHpnamJ6Q3RyM2VuTUY5LV92SnFpMlU5RGtCeVQ3b0xqV2s0TVAtOUZWUlFxbDZuWXhSbUlGdzJreFJ3?oc=5",
+      "title": "इसे कहते हैं-दो के झगड़े में सबका नुकसान! युद्ध लड़ रहे ईरान और अमेरिका, रेंगती नजर आएगी दुनिया",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSktqc0VlZjBGMlF3N0YwUnU0M3lSUW9QOTNkcnZwS1RCTDd3MzdxcXphRENzQ3B4azIzUEdobVY1VU5kVW5qRUM1SXVjOVlvWTBfNnB4bHMxYkJWYVFyU3I1SWxiLTlrcXpRRHJoQXhqZTVpUGh2enRPeVJhbHdBd0prTXFoN2V6WHdmNVVpUjlNVHpod3pISWhHWVAzWnhFNjdUb0dkZHhCcVdPV195RkpfdFFlVWJuREJFQUZ6cWZiT01mdkMxckwybG9pMUpCUVFLQmxkMkYwM2FXN2cxa0NZOUNQUFdTYWZNblVoMNIB9AFBVV95cUxPek1laUdhQ0xiOF9QNVFMam10VUpHLTdIQjNhaU1hRzN2VFpqUC14YlVsS1pfV3lRUHRxNl91enF2VzhNM3N2b1pFTl8zRTlNS09kM0ZWZHJXV0xZYXZNSUhuaFhpX0FoNmNZTnczR0hvX0poVG91ZDFHVjVWU29ubjdHSC1jYjFuWE9UWjJtcU1CdFIzR092REpFY2xLUTVxdDZqX1ViM0taQ1hQSXN6SEF3UnVDLUpLMTdFY1JfM1FHVjZDZDB3SDEwOUNmNTZ5Znk0NDB4V0tOcVk0cFdpU3U5Vno2TGkxbzFZQzYybHJfSlU3?oc=5",
       "source": "Google News Hindi (संयुक्त राष्ट्र)",
       "sources": [],
-      "published_at": "2026-05-20T01:44:37+00:00",
-      "image_url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "भारत समेत G-4 देश संयुक्त राष्ट्र सुरक्षा परिषद में सुधार के लिए तैयार हुए। संयुक्त राष्ट्र सुरक्षा परिषद में बिना वीटो पावर सुधार के लिए तैयार हुए भारत समेत G-4 देश, स्थायी सदस्यता के लिए रखा प्रस्ताव, जानें Navbharat Times।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संयुक्त राष्ट्र सुरक्षा परिषद में बिना वीटो पावर सुधार के लिए तैयार हुए भारत समेत G-4 देश, स्थायी",
-          "summary": "भारत समेत G-4 देश संयुक्त राष्ट्र सुरक्षा परिषद में सुधार के लिए तैयार हुए। संयुक्त राष्ट्र सुरक्षा परिषद में बिना वीटो पावर सुधार के लिए तैयार हुए भारत समेत G-4 देश, स्थायी सदस्यता के लिए रखा प्रस्ताव, जानें Navbharat Times।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी से सवाल पूछने वाली पत्रकार हेला लेंग का दावा- इंस्टाग्राम और फ़ेसबुक अकाउंट सस्पेंड किए गए",
-      "url": "https://www.bbc.com/hindi/articles/cz02nynedlyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "sources": [],
-      "published_at": "2026-05-20T01:40:55+00:00",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/f228/live/34d88b70-53ec-11f1-b682-cf91850925ea.png",
-      "summary": "पीएम मोदी से सवाल पूछने वाली पत्रकार हेला लेंग का दावा है कि उनके इंस्टाग्राम और फ़ेसबुक अकाउंट सस्पेंड किए गए। नॉर्वे की यात्रा पर गए प्रधानमंत्री नरेंद्र मोदी वहां की एक पत्रकार के सवाल का जवाब दिए बिना वहां से जाते दिखे. इसके बाद भारतीय विदेश मंत्रालय ने एक प्रेस कॉन्फ़्रेंस का आयोजन किया, जिसमें एक अन्य पत्रकार और मंत्रालय के प्रवक्ता के बीच तीखी नोकझोंक हुई.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी से सवाल पूछने वाली पत्रकार हेला लेंग का दावा- इंस्टाग्राम और फ़ेसबुक अकाउंट सस्पेंड किए गए",
-          "summary": "पीएम मोदी से सवाल पूछने वाली पत्रकार हेला लेंग का दावा है कि उनके इंस्टाग्राम और फ़ेसबुक अकाउंट सस्पेंड किए गए। नॉर्वे की यात्रा पर गए प्रधानमंत्री नरेंद्र मोदी वहां की एक पत्रकार के सवाल का जवाब दिए बिना वहां से जाते दिखे. इसके बाद भारतीय विदेश मंत्रालय ने एक प्रेस कॉन्फ़्रेंस का आयोजन किया, जिसमें एक अन्य पत्रकार और मंत्रालय के प्रवक्ता के बीच तीखी नोकझोंक हुई.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बसपा से गठबंधन करना चाहते हैं राहुल गांधी, मायावती के घर भेजे अपने दूत; बसपा सुप्रीमो ने वापस लौटाए",
-      "url": "https://www.amarujala.com/lucknow/up-rahul-gandhi-wants-to-form-an-alliance-with-the-bsp-sends-emissaries-to-mayawati-s-house-bsp-supremo-tur-2026-05-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-20T01:39:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/rahul-gandhi_0252cb2a8a5e429a9a40c3ea0f91c76a.jpeg?w=750&dpr=1.0",
-      "summary": "राहुल गांधी बसपा से गठबंधन करना चाहते हैं, लेकिन मायावती ने उनके दूतों को वापस लौटा दिया। BSP-Congress alliance: राहुल गांधी आने वाले चुनावों में बसपा ने गठबंधन करना चाहते हैं। इस बारे में बातचीत करने के लिए उन्होंने बाराबंकी सांसद सहित कई लोगों को उनके घर भेजा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बसपा से गठबंधन करना चाहते हैं राहुल गांधी, मायावती के घर भेजे अपने दूत; बसपा सुप्रीमो ने वापस लौटाए",
-          "summary": "राहुल गांधी बसपा से गठबंधन करना चाहते हैं, लेकिन मायावती ने उनके दूतों को वापस लौटा दिया। BSP-Congress alliance: राहुल गांधी आने वाले चुनावों में बसपा ने गठबंधन करना चाहते हैं। इस बारे में बातचीत करने के लिए उन्होंने बाराबंकी सांसद सहित कई लोगों को उनके घर भेजा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'ईरान हर हाल में चाहता है समझौता', ट्रंप बोले- जल्द खत्म होगी जंग; तेल की कीमतों पर भी कह दी ये",
-      "url": "https://www.amarujala.com/world/trump-says-us-iran-wants-a-deal-at-any-cost-makes-a-major-statement-regarding-oil-prices-as-well-2026-05-20",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-20T01:37:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/tal-ka-kamata-para-kaya-bl-tarapa_0a22789c9786f1154905a5c84b509d2f.png?w=750&dpr=1.0",
-      "summary": "ट्रंप ने कहा ईरान हर हाल में समझौता चाहता है और जल्द जंग खत्म होगी। US: 'ईरान हर हाल में चाहता है समझौता', ट्रंप बोले- जल्द खत्म होगी जंग; तेल की कीमतों पर भी कह दी ये बड़ी बात।",
+      "published_at": "2026-05-20T06:36:53+00:00",
+      "image_url": "https://images.pexels.com/photos/37416558/pexels-photo-37416558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "ईरान और अमेरिका के बीच युद्ध की स्थिति बनी हुई है। इस संघर्ष का वैश्विक अर्थव्यवस्था पर नकारात्मक प्रभाव पड़ने की आशंका है। इसे कहते हैं-दो के झगड़े में सबका नुकसान!",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'ईरान हर हाल में चाहता है समझौता', ट्रंप बोले- जल्द खत्म होगी जंग; तेल की कीमतों पर भी कह दी ये",
-          "summary": "ट्रंप ने कहा ईरान हर हाल में समझौता चाहता है और जल्द जंग खत्म होगी। US: 'ईरान हर हाल में चाहता है समझौता', ट्रंप बोले- जल्द खत्म होगी जंग; तेल की कीमतों पर भी कह दी ये बड़ी बात।",
+          "title": "इसे कहते हैं-दो के झगड़े में सबका नुकसान! युद्ध लड़ रहे ईरान और अमेरिका, रेंगती नजर आएगी दुनिया",
+          "summary": "ईरान और अमेरिका के बीच युद्ध की स्थिति बनी हुई है। इस संघर्ष का वैश्विक अर्थव्यवस्था पर नकारात्मक प्रभाव पड़ने की आशंका है। इसे कहते हैं-दो के झगड़े में सबका नुकसान!",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "48 डिग्री पारे के साथ यूपी का यह जिला एशिया में सबसे गर्म, आज गर्मी और लू का रेड अलर्ट; जानिए",
-      "url": "https://www.amarujala.com/lucknow/up-with-a-temperature-of-48-degrees-celsius-this-district-in-up-is-the-hottest-in-asia-a-red-alert-has-be-2026-05-20",
+      "title": "हारा पाकिस्तान, पर नुकसान भारत को हुआ! टेस्ट सीरीज में बांग्लादेश ने PAK का किया सूपड़ा साफ",
+      "url": "https://www.amarujala.com/cricket/wtc-points-table-bangladesh-whitewash-pakistan-2-0-india-slip-further-in-standings-2026-05-20",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-20T01:33:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/28/yapa-ma-paracada-garama_6d58c4ead8267ca8dc42d5ea046adf3a.jpeg?w=750&dpr=1.0",
-      "summary": "यूपी का बांदा जिला 48 डिग्री पारे के साथ एशिया में सबसे गर्म रहा। Weather in UP: यूपी में गर्मी अपने चरम पर है। प्रदेश का बांदा जिला देश ही नहीं एशिया में सबसे गर्म रहा। 19 मई को यहां पारा 48 डिग्री के ऊपर चला गया।",
+      "published_at": "2026-05-20T06:30:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/wtc-points-table-bangladesh-vs-pakistan-bangladesh-clean-sweep-pakistan-world-test-championship_41e023a424981dbdab85451a8b546d15.jpeg?w=750&dpr=1.0",
+      "summary": "बांग्लादेश ने पाकिस्तान को टेस्ट सीरीज में 2-0 से हराया। सिलहट में 78 रन की जीत के साथ बांग्लादेश ने यह सीरीज अपने नाम की। बांग्लादेश ने पाकिस्तान को टेस्ट सीरीज में 2-0 से हराकर इतिहास रच दिया। सिलहट टेस्ट में 78 रन की जीत के साथ बांग्लादेश ने पाकिस्तान का सूपड़ा साफ किया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हारा पाकिस्तान, पर नुकसान भारत को हुआ! टेस्ट सीरीज में बांग्लादेश ने PAK का किया सूपड़ा साफ",
+          "summary": "बांग्लादेश ने पाकिस्तान को टेस्ट सीरीज में 2-0 से हराया। सिलहट में 78 रन की जीत के साथ बांग्लादेश ने यह सीरीज अपने नाम की। बांग्लादेश ने पाकिस्तान को टेस्ट सीरीज में 2-0 से हराकर इतिहास रच दिया। सिलहट टेस्ट में 78 रन की जीत के साथ बांग्लादेश ने पाकिस्तान का सूपड़ा साफ किया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "चीन में बारिश और बाढ़ से भारी तबाही मची, 12 लोगों की मौत, हजारों लोग घर छोड़ने पर मजबूर",
+      "url": "https://www.amarujala.com/world/rain-and-floods-wreak-havoc-in-china-killing-12-people-and-forcing-thousands-to-flee-their-homes-2026-05-20",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-20T06:26:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/bugdhha-sakataka-tasavara_1ad3f5dd23f3fdc3ec409376964586be.jpeg?w=750&dpr=1.0",
+      "summary": "चीन में भारी बारिश और बाढ़ से 12 लोगों की मौत हो गई। हजारों लोगों को अपने घर छोड़कर सुरक्षित स्थानों पर जाना पड़ा। China: चीन में बारिश और बाढ़ से भारी तबाही मची, 12 लोगों की मौत, हजारों लोग घर छोड़ने पर मजबूर।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन में बारिश और बाढ़ से भारी तबाही मची, 12 लोगों की मौत, हजारों लोग घर छोड़ने पर मजबूर",
+          "summary": "चीन में भारी बारिश और बाढ़ से 12 लोगों की मौत हो गई। हजारों लोगों को अपने घर छोड़कर सुरक्षित स्थानों पर जाना पड़ा। China: चीन में बारिश और बाढ़ से भारी तबाही मची, 12 लोगों की मौत, हजारों लोग घर छोड़ने पर मजबूर।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप के दौरे के बाद बीजिंग में शी-पुतिन की अहम बैठक, ईरान से लेकर यूक्रेन युद्ध तक कई मुद्दों पर",
+      "url": "https://www.amarujala.com/world/xi-jinping-vladimir-putin-hold-key-beijing-talks-after-trump-visit-iran-ukraine-war-among-top-agenda-items-2026-05-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-20T06:21:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/17/sha-janapaga-oura-valthamara-patana_4d0eb0807dfc0a2a686e5569d0d5ae1b.jpeg?w=750&dpr=1.0",
+      "summary": "बीजिंग में शी जिनपिंग और व्लादिमीर पुतिन ने मुलाकात की। दोनों नेताओं ने ईरान और यूक्रेन युद्ध सहित कई महत्वपूर्ण मुद्दों पर चर्चा की। ट्रंप के दौरे के बाद बीजिंग में शी-पुतिन की अहम बैठक, ईरान से लेकर यूक्रेन युद्ध तक कई मुद्दों पर।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप के दौरे के बाद बीजिंग में शी-पुतिन की अहम बैठक, ईरान से लेकर यूक्रेन युद्ध तक कई मुद्दों पर",
+          "summary": "बीजिंग में शी जिनपिंग और व्लादिमीर पुतिन ने मुलाकात की। दोनों नेताओं ने ईरान और यूक्रेन युद्ध सहित कई महत्वपूर्ण मुद्दों पर चर्चा की। ट्रंप के दौरे के बाद बीजिंग में शी-पुतिन की अहम बैठक, ईरान से लेकर यूक्रेन युद्ध तक कई मुद्दों पर।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "लू कब बन जाती है जानलेवा, जानिए इससे बचने के क्या हैं तरीके",
+      "url": "https://www.bbc.com/hindi/articles/c9we729lnjjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "sources": [],
+      "published_at": "2026-05-20T06:20:58+00:00",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_hindi/e209/live/84da3200-5413-11f1-8e76-013556ab836b.jpg",
+      "summary": "कोल्ड ड्रिंक पीने से शरीर में पानी की कमी हो सकती है। अधिक चीनी के कारण यह डिहाइड्रेशन का कारण बन सकता है। कुछ लोगों को लगता है कि कोल्ड ड्रिंक उन्हें ठंडा रखेगी लेकिन जानकार कहते हैं कि इनमें शुगर ज़्यादा होती है, जो शरीर से पानी को बाहर निकालती हैं इससे डी-हाइड्रेशन होता है.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "48 डिग्री पारे के साथ यूपी का यह जिला एशिया में सबसे गर्म, आज गर्मी और लू का रेड अलर्ट; जानिए",
-          "summary": "यूपी का बांदा जिला 48 डिग्री पारे के साथ एशिया में सबसे गर्म रहा। Weather in UP: यूपी में गर्मी अपने चरम पर है। प्रदेश का बांदा जिला देश ही नहीं एशिया में सबसे गर्म रहा। 19 मई को यहां पारा 48 डिग्री के ऊपर चला गया।",
+          "title": "लू कब बन जाती है जानलेवा, जानिए इससे बचने के क्या हैं तरीके",
+          "summary": "कोल्ड ड्रिंक पीने से शरीर में पानी की कमी हो सकती है। अधिक चीनी के कारण यह डिहाइड्रेशन का कारण बन सकता है। कुछ लोगों को लगता है कि कोल्ड ड्रिंक उन्हें ठंडा रखेगी लेकिन जानकार कहते हैं कि इनमें शुगर ज़्यादा होती है, जो शरीर से पानी को बाहर निकालती हैं इससे डी-हाइड्रेशन होता है.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "गूगल ने पेश किया एजेंटिक जेमिनी एरा, जानें आपके स्मार्टफोन से लेकर यूट्यूब तक क्या बदलेगा",
-      "url": "https://www.amarujala.com/technology/google-i-o-2026-sundar-pichai-unveils-agentic-gemini-era-ai-2026-05-20",
-      "source": "Amar Ujala National",
+      "title": "मां का कटा हाथ लेकर घूम रहा जवान: बिलखते हुए पुलिस आयुक्त से मांगा इंसाफ, कहा-जिससे बचपन में खाना",
+      "url": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-news-itbp-jawan-reaches-police-office-carrying-mother-severed-hand-in-ice-box-full-details-in-hindi-2026-05-20",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-20T01:26:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/google-io-2026_6547e9db91d50f386041ce3bdfd0a46f.png?w=750&dpr=1.0",
-      "summary": "गूगल ने एजेंटिक जेमिनी एरा पेश किया जो स्मार्टफोन से लेकर यूट्यूब तक बदलेगा। Google AI Updates: गूगल I/O 2026 में सुंदर पिचाई ने एजेंटिक जेमिनी एरा का एलान करते हुए एआई का नया विजन पेश किया है। गूगल ने पेश किया एजेंटिक जेमिनी एरा, जानें आपके स्मार्टफोन से लेकर यूट्यूब तक क्या बदलेगा।",
+      "published_at": "2026-05-20T05:48:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/kanpur-police_ff6edd8a0250a967ae09024992c1fdff.jpeg?w=750&dpr=1.0",
+      "summary": "आईटीबीपी जवान विकास सिंह अपनी मां का कटा हुआ हाथ लेकर कानपुर पुलिस कमिश्नर कार्यालय पहुंचे। उन्होंने न्याय की गुहार लगाई। कानपुर में आईटीबीपी जवान विकास सिंह मंगलवार दोपहर आइस बॉक्स में अपनी मां का कटा हुआ हाथ लेकर पुलिस कमिश्नर कार्यालय पहुंच गए। इससे पुलिस ऑफिस में सनसनी फैल गई।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मां का कटा हाथ लेकर घूम रहा जवान: बिलखते हुए पुलिस आयुक्त से मांगा इंसाफ, कहा-जिससे बचपन में खाना",
+          "summary": "आईटीबीपी जवान विकास सिंह अपनी मां का कटा हुआ हाथ लेकर कानपुर पुलिस कमिश्नर कार्यालय पहुंचे। उन्होंने न्याय की गुहार लगाई। कानपुर में आईटीबीपी जवान विकास सिंह मंगलवार दोपहर आइस बॉक्स में अपनी मां का कटा हुआ हाथ लेकर पुलिस कमिश्नर कार्यालय पहुंच गए। इससे पुलिस ऑफिस में सनसनी फैल गई।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हेलिकॉप्टर की खेतों में इमरजेंसी लैंडिंग, हाईटेंशन विद्युत लाइन के संपर्क में आया, छह यात्री थे सवार",
+      "url": "https://www.amarujala.com/dehradun/helicopter-emergency-landing-in-fields-after-contact-with-high-tension-power-line-badrinath-pilgrimage-tehri-2026-05-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-20T05:45:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/heli_50ae488dc1256022314e2969fd49d19b.jpeg?w=750&dpr=1.0",
+      "summary": "ट्रांस भारत एविएशन का एक हेलिकॉप्टर तकनीकी खराबी के कारण चंबा-आराकोट के खेतों में उतरा। हाईटेंशन तार से संपर्क के बावजूद छह यात्री सुरक्षित रहे। चंबा-आराकोट क्षेत्र के ऊपर उड़ान के दौरान ट्रांस भारत एविएशन कंपनी के एक हेलिकॉप्टर को तकनीकी समस्या होने पर सत्यो-सकलाना क्षेत्र के खेतों में सुरक्षित इमरजेंसी लैंडिंग करानी पड़ी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हेलिकॉप्टर की खेतों में इमरजेंसी लैंडिंग, हाईटेंशन विद्युत लाइन के संपर्क में आया, छह यात्री थे सवार",
+          "summary": "ट्रांस भारत एविएशन का एक हेलिकॉप्टर तकनीकी खराबी के कारण चंबा-आराकोट के खेतों में उतरा। हाईटेंशन तार से संपर्क के बावजूद छह यात्री सुरक्षित रहे। चंबा-आराकोट क्षेत्र के ऊपर उड़ान के दौरान ट्रांस भारत एविएशन कंपनी के एक हेलिकॉप्टर को तकनीकी समस्या होने पर सत्यो-सकलाना क्षेत्र के खेतों में सुरक्षित इमरजेंसी लैंडिंग करानी पड़ी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सोनप्रयाग-गौरीकुंड मार्ग पर भूस्खलन, रातभर चला रेस्क्यू अभियान, फंसे हजारों श्रद्धालु निकाले",
+      "url": "https://www.amarujala.com/dehradun/kedarnath-yatra-landslides-at-sonprayag-gaurikund-route-thousands-of-stranded-devotees-evacuated-2026-05-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-20T05:43:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/kedarnath-yatra_261532014a70101a7c72856ccc0ab3f5.jpeg?w=750&dpr=1.0",
+      "summary": "सोनप्रयाग-गौरीकुंड मार्ग पर भूस्खलन के कारण केदारनाथ यात्रा बाधित हुई। रातभर चले बचाव अभियान के बाद हजारों फंसे हुए तीर्थयात्रियों को निकाला गया। केदारनाथ यात्रा के दौरान बीती रात्रि हुई तेज बारिश के कारण सोनप्रयाग–गौरीकुंड मार्ग पर तीन स्थानों पर भूस्खलन होने से यात्रा मार्ग अवरुद्ध हो गया।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "गूगल ने पेश किया एजेंटिक जेमिनी एरा, जानें आपके स्मार्टफोन से लेकर यूट्यूब तक क्या बदलेगा",
-          "summary": "गूगल ने एजेंटिक जेमिनी एरा पेश किया जो स्मार्टफोन से लेकर यूट्यूब तक बदलेगा। Google AI Updates: गूगल I/O 2026 में सुंदर पिचाई ने एजेंटिक जेमिनी एरा का एलान करते हुए एआई का नया विजन पेश किया है। गूगल ने पेश किया एजेंटिक जेमिनी एरा, जानें आपके स्मार्टफोन से लेकर यूट्यूब तक क्या बदलेगा।",
+          "title": "सोनप्रयाग-गौरीकुंड मार्ग पर भूस्खलन, रातभर चला रेस्क्यू अभियान, फंसे हजारों श्रद्धालु निकाले",
+          "summary": "सोनप्रयाग-गौरीकुंड मार्ग पर भूस्खलन के कारण केदारनाथ यात्रा बाधित हुई। रातभर चले बचाव अभियान के बाद हजारों फंसे हुए तीर्थयात्रियों को निकाला गया। केदारनाथ यात्रा के दौरान बीती रात्रि हुई तेज बारिश के कारण सोनप्रयाग–गौरीकुंड मार्ग पर तीन स्थानों पर भूस्खलन होने से यात्रा मार्ग अवरुद्ध हो गया।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "चुनौतियां हमारे रास्ते की दीवार नहीं, जीवन को निखारती हैं",
-      "url": "https://www.amarujala.com/columns/blog/challenges-are-not-barriers-they-shape-and-refine-life-2026-05-20",
-      "source": "Amar Ujala National",
+      "title": "अमेरिका-इस्राइल ने अहमदीनेजाद को ईरान की सत्ता सौंपने पर किया था विचार, बड़ा खुलासा",
+      "url": "https://www.amarujala.com/world/regime-change-plot-us-israel-considered-handing-iran-s-power-to-ahmadinejad-big-reveal-2026-05-20",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-20T01:20:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/jeevan-dhara_a9f60e16f0b692af44938f18cd317e6f.jpeg?w=750&dpr=1.0",
-      "summary": "चुनौतियां जीवन को निखारती हैं और रास्ते की दीवार नहीं हैं। चुनौतियां हमारे रास्ते की दीवार नहीं, जीवन को निखारती हैं।",
-      "region": "World",
+      "published_at": "2026-05-20T05:40:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/raparata-ma-bugdha-khalsa_3afc24d01919587cf4fd3fbbaccb25dc.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका और इस्राइल ने ईरान के पूर्व राष्ट्रपति अहमदीनेजाद को सत्ता सौंपने पर विचार किया था। यह खुलासा एक बड़ी साजिश की ओर इशारा करता है। सत्ता बदलने की थी साजिश?: अमेरिका-इस्राइल ने अहमदीनेजाद को ईरान की सत्ता सौंपने पर किया था विचार, बड़ा खुलासा।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चुनौतियां हमारे रास्ते की दीवार नहीं, जीवन को निखारती हैं",
-          "summary": "चुनौतियां जीवन को निखारती हैं और रास्ते की दीवार नहीं हैं। चुनौतियां हमारे रास्ते की दीवार नहीं, जीवन को निखारती हैं।",
-          "region": "दुनिया"
+          "title": "अमेरिका-इस्राइल ने अहमदीनेजाद को ईरान की सत्ता सौंपने पर किया था विचार, बड़ा खुलासा",
+          "summary": "अमेरिका और इस्राइल ने ईरान के पूर्व राष्ट्रपति अहमदीनेजाद को सत्ता सौंपने पर विचार किया था। यह खुलासा एक बड़ी साजिश की ओर इशारा करता है। सत्ता बदलने की थी साजिश?: अमेरिका-इस्राइल ने अहमदीनेजाद को ईरान की सत्ता सौंपने पर किया था विचार, बड़ा खुलासा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पूर्वी चीन सागर में 6.0 तीव्रता का भूकंप, स्थानीय प्रशासन सूनामी को लेकर अलर्ट",
+      "url": "https://www.amarujala.com/world/6-0-magnitude-earthquake-hits-east-china-sea-local-administration-on-tsunami-alert-2026-05-20",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-20T05:32:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/03/earthquake-bhakapa_d3fe9f8dee64c71c33dcebdca85e219f.jpeg?w=750&dpr=1.0",
+      "summary": "पूर्वी चीन सागर में 6.0 तीव्रता का भूकंप आया। स्थानीय प्रशासन ने सुनामी की चेतावनी जारी की है और सतर्कता बरती जा रही है। पूर्वी चीन सागर में 6.0 तीव्रता का भूकंप, स्थानीय प्रशासन सूनामी को लेकर अलर्ट।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पूर्वी चीन सागर में 6.0 तीव्रता का भूकंप, स्थानीय प्रशासन सूनामी को लेकर अलर्ट",
+          "summary": "पूर्वी चीन सागर में 6.0 तीव्रता का भूकंप आया। स्थानीय प्रशासन ने सुनामी की चेतावनी जारी की है और सतर्कता बरती जा रही है। पूर्वी चीन सागर में 6.0 तीव्रता का भूकंप, स्थानीय प्रशासन सूनामी को लेकर अलर्ट।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
