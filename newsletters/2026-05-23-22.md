@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** May 24, 2026 04:10 IST
+**Updated:** May 24, 2026 04:27 IST
 
 ---
 
@@ -82,7 +82,7 @@ The World Health Organization revised its Ebola outbreak threat assessment to "v
 
 ### [Two-state Israel-Palestine solution is Washington’s empty liturgy](https://asiatimes.com/2026/05/two-state-israel-palestine-solution-is-washingtons-empty-liturgy/)
 *Asia Times* - May 22, 20:37 IST (iso: 2026-05-22T15:07:26+00:00)
-<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/05/Bill_Clinton_Yitzhak_Rabin_Yasser_Arafat_at_the_White_House_1993-09-13.jpg?fit=1024%2C683&amp;quality=89&amp;ssl=1 -->
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/05/Bill_Clinton_Yitzhak_Rabin_Yasser_Arafat_at_the_White_House_1993-09-13.jpg -->
 
 United Nations Secretary-General António Guterres repeated support for a two-state Israel-Palestine solution. The statement was routine and sparked little reaction. When the United Nations Secretary-General António Guterres declares, once again, that “the only way” out of the Israeli-Palestinian impasse runs through two states, one is reminded less of a policy proposal than of a Latin Mass. The words are sacred.
 
@@ -121,12 +121,6 @@ A senior UN envoy told the Security Council that delays in Gaza's transition As 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/01-05-2026-WFP-Gaza-01.jpg/image770x420cropped.jpg -->
 
 The Security Council debated Gaza's future amid stalled peace progress. Discussions focused on governance and recovery. Conditions in the West Bank continue to deteriorate with mounting civilian casualties. The Security Council is discussing the stalled progress in Gaza as the fragile ceasefire there limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs.
-
-### [FIFA's Reported Ban On Iran's Pre-1979 Flag At World Cup Stirs Controversy](https://www.rferl.org/a/iran-opposition-flag-fifa-world-cup/33761265.html)
-*Radio Free Europe / Liberty* - May 21, 04:16 IST (iso: 2026-05-20T22:46:37+00:00)
-<!-- image: https://gdb.rferl.org/874a97b9-88d1-479b-0a4b-08de3c642a38_w1200_h630.jpg -->
-
-FIFA plans to ban Iran's pre-1979 flag at the World Cup. Iranian monarchist groups are voicing anger over reports that FIFA intends to ban the so-called Lion and Sun flag, often used as a symbol of resistance to the theocratic rule that took over the country in 1979. The soccer association says the flag is a "political" symbol and is therefore forbidden.
 
 ---
 
