@@ -6,6 +6,21 @@ update_schedule: "0 * * * *"
 
 
 # ---------------------------------------------------------------------------
+# Editor's note — a one-off announcement card rendered under the hero, above
+# the story feed. Leave the body empty to hide the card. Both languages must
+# be set if you want the card to appear in both editions.
+# ---------------------------------------------------------------------------
+editor_note:
+  title: "Android beta is live"
+  title_hi: "Android बीटा शुरू हो गया"
+  body: "I just shipped the first GeoPulse Android beta to Google Play, with the same hourly news you read here, plus push notifications when a new edition lands. I need a dozen testers to clear Google's two-week beta gate before the app can go public. If you have an Android phone and thirty seconds to spare, drop me a line and I'll add you to the list."
+  body_hi: "GeoPulse का पहला Android बीटा अभी Google Play पर भेजा है। यहाँ जो खबरें पढ़ते हैं वही ऐप में मिलेंगी, साथ में नई एडिशन आने पर पुश नोटिफिकेशन। ऐप को सार्वजनिक करने से पहले Google की दो-हफ्ते की बीटा शर्त के लिए मुझे एक दर्जन टेस्टर चाहिए। अगर आपके पास Android फ़ोन है, तो मेल कर दीजिए, मैं जोड़ दूँगा।"
+  cta_label: "Email me to join"
+  cta_label_hi: "जुड़ने के लिए मेल करें"
+  cta_href: "mailto:shiveshsolutions@gmail.com?subject=GeoPulse%20Android%20tester&body=Hi%20Lav%2C%20please%20add%20my%20Gmail%20to%20the%20GeoPulse%20Android%20closed%20beta.%20My%20address%20is%3A%20"
+
+
+# ---------------------------------------------------------------------------
 # Brand & ownership — the bits a forker almost certainly wants to change.
 # These values are swapped into generated HTML, RSS metadata, and outbound
 # HTTP headers. Edit these once and the whole site rebrands.
@@ -57,6 +72,12 @@ news_sources:
 # Keywords used to filter/query geopolitics news (English, used by GDELT and NewsAPI)
 news_query: "geopolitics OR diplomacy OR sanctions OR conflict OR NATO OR United Nations OR international relations"
 
+# Translation backend for Hindi edition.
+# Default: MyMemory API (free, no key, commercial use permitted, 1000 req/day).
+# Optional: set DEEPL_API_KEY secret for higher quality (DeepL Free = 500k chars/month).
+#   Free-tier DeepL keys end with ':fx' — get one at deepl.com/en/pro#developer.
+# Do NOT use deep-translator's GoogleTranslator — it scrapes google.com and violates ToS.
+
 # LLM provider for summarization. Free tier only.
 # Chain tries best-quality provider first and falls back automatically.
 # Options:
@@ -85,17 +106,11 @@ max_articles: 25
 #          SCMP (paywalled/unreliable). Fixed duplicate source key on The Hindu.
 # ---------------------------------------------------------------------------
 english_rss_feeds:
-  # Global affairs
-  - url: "https://feeds.bbci.co.uk/news/world/rss.xml"
-    source: "BBC World"
+  # Global affairs — sources with permissive or public-interest RSS ToS
   - url: "https://www.aljazeera.com/xml/rss/all.xml"
     source: "Al Jazeera"
-  - url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
-    source: "NYT World"
   - url: "https://www.theguardian.com/world/rss"
     source: "The Guardian"
-  - url: "https://feeds.npr.org/1004/rss.xml"
-    source: "NPR World"
   - url: "https://www.dw.com/en/top-stories/s-9097?maca=en-rss-en-top-1022-rdf"
     source: "DW (English)"
   - url: "https://thediplomat.com/feed/"
@@ -106,6 +121,28 @@ english_rss_feeds:
     source: "Sky News World"
   - url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"
     source: "Channel News Asia"
+  # US-government-funded international broadcasters (public domain content)
+  - url: "https://www.rferl.org/api/"
+    source: "Radio Free Europe / Liberty"
+  # French state international broadcasters (explicitly publish RSS for third-party use)
+  - url: "https://www.france24.com/en/rss"
+    source: "France 24"
+  - url: "https://www.rfi.fr/en/international/rss"
+    source: "RFI English"
+  # Regional geopolitics (Africa focus)
+  - url: "https://www.france24.com/en/africa/rss"
+    source: "France 24 Africa"
+  # Nonprofit / think-tank sources (no commercial RSS restrictions)
+  - url: "https://www.crisisgroup.org/rss"
+    source: "International Crisis Group"
+  - url: "https://globalvoices.org/feed/"
+    source: "Global Voices"
+  # Washington Post — one of the few major outlets with explicitly commercial-OK RSS ToS
+  - url: "https://feeds.washingtonpost.com/rss/world"
+    source: "Washington Post (World)"
+  # Independent Asia-focused outlet
+  - url: "https://asiatimes.com/feed/"
+    source: "Asia Times"
   # South Asian perspective (English)
   - url: "https://www.thehindu.com/news/international/feeder/default.rss"
     source: "The Hindu (International)"
@@ -129,20 +166,27 @@ english_rss_feeds:
 #   Rajasthan Patrika       0 articles ✗ (feed dead, removed)
 # ---------------------------------------------------------------------------
 hindi_rss_feeds:
-  - url: "https://www.bbc.com/hindi/index.xml"
-    source: "BBC Hindi"
   - url: "https://www.amarujala.com/rss/world-news.xml"
     source: "Amar Ujala World"
   - url: "https://www.amarujala.com/rss/national-news.xml"
     source: "Amar Ujala National"
   - url: "https://www.amarujala.com/rss/breaking-news.xml"
     source: "Amar Ujala Breaking"
-  - url: "https://navbharattimes.indiatimes.com/rss.cms"
+  - url: "https://feeds.feedburner.com/NavBharatTimes"
     source: "Navbharat Times"
-  - url: "https://www.livehindustan.com/rss/national.xml"
-    source: "Live Hindustan"
-  # ABP Live removed: news.abplive.com/news/india/feed serves English content
-  # despite the "Hindi" label in their CMS, so every item gets script-rejected.
+  # Live Hindustan removed — all rss.livehindustan.com paths returning 503 as of May 2026
+  # ABP Live world — verified Hindi-language, confirmed live May 2026
+  - url: "https://www.abplive.com/world/feed"
+    source: "ABP Live (World)"
+  # ABP Live India domestic — covers India's geopolitical role, Hindi-language
+  - url: "https://www.abplive.com/news/india/feed"
+    source: "ABP Live (India)"
+  # News18 Hindi — verified live May 2026, confirmed Hindi, current world articles
+  - url: "https://hindi.news18.com/commonfeeds/v1/hin/rss/world.xml"
+    source: "News18 Hindi (World)"
+  # Patrika World — verified live May 2026, Hindi, Atom/Google News format
+  - url: "https://cms.patrika.com/googlefeed/blog/category/world-news"
+    source: "Patrika (World)"
 # ---------------------------------------------------------------------------
 # Fallback RSS feeds — only pulled when primary set yields too few articles.
 # Separate per language so English fallbacks never appear in Hindi and vice versa.
@@ -159,47 +203,8 @@ english_fallback_rss_feeds:
     source: "Economic Times"
   - url: "https://feeds.feedburner.com/ndtvnews-india-news"
     source: "NDTV India"
-
-# Hindi fallback list is currently empty — the three previously-fallback
-# sources (Navbharat Times, Live Hindustan, Amar Ujala Breaking) have been
-# promoted into the primary set since the three dead feeds (DW Hindi,
-# Patrika World, Rajasthan Patrika) were removed. Add candidates here if
-# the primary set goes thin in production.
-hindi_fallback_rss_feeds: []
-
-# ---------------------------------------------------------------------------
-# Google News RSS queries — fetched on every run, no API key required.
-# Separate lists per language to ensure correct results.
-# ---------------------------------------------------------------------------
-english_gnews_queries:
-  - "geopolitics"
-  - "international relations"
-  - "diplomacy sanctions"
-  - "NATO conflict"
-  - "United Nations"
-  - "war ceasefire"
-  - "global security"
-
-hindi_gnews_queries:
-  - "भूराजनीति"
-  - "अंतरराष्ट्रीय संबंध"
-  - "युद्ध संघर्ष"
-  - "संयुक्त राष्ट्र"
-  - "कूटनीति"
-  - "विश्व समाचार"
-
-# Optional audience hooks to broaden English discovery.
-audience_hooks_enabled: true
-audience_hooks_max_per_feed: 3
-
-audience_hook_feeds:
-  # Different sources from primary list so hooks add new signal rather than duplicates.
-  # France 24 removed — feed consistently empty in practice.
-  - url: "https://rss.dw.com/xml/rss-en-world"
-    source: "DW World (English)"
-
-# geopulse-compatible hooks via Google News RSS search (English only).
-geopulse_hook_queries:
-  - "geopolitics"
-  - "world"
-  - "international relations"
+  - url: "https://www.france24.com/en/asia-pacific/rss"
+    source: "France 24 Asia-Pacific"
+  - url: "https://www.indiatvnews.com/rssnews/topstory-world.xml"
+    source: "India TV News (World)"
+  # Euronews: ToS says "no commercial exploitation witho

@@ -526,7 +526,7 @@ def classify_region(article: dict) -> str:
     return "World"
 
 
-def truncate_words(text: str, limit: int = 90) -> str:
+def truncate_words(text: str, limit: int = 130) -> str:
     """Keep whole sentences up to `limit` words. Stop when the story is done.
 
     If the first sentence alone exceeds `limit`, we do NOT hard-cut mid-word.
@@ -650,8 +650,8 @@ def _strip_leading_title(summary: str, title: str) -> str:
 def ensure_summary_constraints(
     summary: str,
     article: dict,
-    min_words: int = 45,
-    max_words: int = 90,
+    min_words: int = 60,
+    max_words: int = 130,
     min_chars: int = 50,
 ) -> str:
     """Keep summaries concise, readable, and distinct from repeated title text."""
@@ -941,12 +941,13 @@ _STORY_RULES_EN = (
     "Write an original news summary in your own words. This is a summary, "
     "not a quote. Do not copy phrases or clauses from the source verbatim. "
     "Rewrite, compress, and lead with the consequence.\n\n"
-    "Length: 60 to 80 words, 90 max. Never exceed 90. Three sentences ideal, "
-    "four max.\n\n"
+    "Length: 80 to 120 words, 130 max. Never exceed 130. Four sentences ideal, "
+    "five max.\n\n"
     "Every sentence must end on a period. Never stop mid-word or mid-clause. "
+    "Never use ellipsis (...) or trailing dots. "
     "If you are near the word limit, close the current sentence early on a "
-    "period and stop. It is better to finish at 62 words than to run to 90 "
-    "with a dangling clause.\n\n"
+    "period and stop. It is better to finish at 85 words cleanly than to run "
+    "to 130 with a dangling clause.\n\n"
     "Lead with the key fact (who, what, where, impact). Do not restate the "
     "title. Use concrete names, places, numbers. If the source is thin, use "
     "the title plus known context, do not invent. Stop when the facts end, "
@@ -963,11 +964,12 @@ _STORY_RULES_HI = (
     "अपने शब्दों में मौलिक समाचार सारांश लिखें। यह सारांश है, उद्धरण नहीं। "
     "स्रोत से वाक्य या वाक्यांश हूबहू न उठाएं। दोबारा लिखें, संक्षेप करें, "
     "परिणाम से शुरू करें।\n\n"
-    "लंबाई: 60 से 80 शब्द, अधिकतम 90। 90 से ऊपर कभी नहीं। तीन वाक्य आदर्श, "
-    "चार अधिकतम।\n\n"
+    "लंबाई: 80 से 120 शब्द, अधिकतम 130। 130 से ऊपर कभी नहीं। चार वाक्य आदर्श, "
+    "पांच अधिकतम।\n\n"
     "हर वाक्य पूर्णविराम (।) पर खत्म हो। शब्द या उपवाक्य के बीच कभी न रुकें। "
+    "कभी भी तीन बिंदु (...) या ellipsis का उपयोग न करें। "
     "यदि शब्द सीमा के पास हों तो चालू वाक्य पहले बंद करें और वहीं रुकें। "
-    "62 शब्दों पर पूर्ण वाक्य के साथ खत्म होना 90 शब्दों पर अधूरे वाक्य से "
+    "85 शब्दों पर पूर्ण वाक्य के साथ खत्म होना 130 शब्दों पर अधूरे वाक्य से "
     "हमेशा बेहतर है।\n\n"
     "मुख्य तथ्य से शुरू करें (कौन, क्या, कहां, असर)। शीर्षक दोबारा न कहें। "
     "ठोस नाम, जगह, संख्या रखें। स्रोत पतला हो तो शीर्षक और ज्ञात संदर्भ से "
@@ -1117,12 +1119,13 @@ def _batch_summarise(
             parts.append(item_fmt.format(i=i, title=title, desc=desc))
         user = header + "\n\n".join(parts)
 
-        # 120 tokens per summary is generous (60 words ~ 90 tokens) and
-        # leaves headroom for numbering overhead.
+        # Hindi uses ~2.5 tokens/word vs ~1.5 for English, so scale budgets
+        # accordingly. 200 tokens per summary for Hindi, 160 for English.
+        tokens_per_item = 200 if language == "hi" else 160
         text = _llm_complete(
             system,
             user,
-            max_tokens=max(360, 120 * n),
+            max_tokens=max(500, tokens_per_item * n),
             temperature=0.25,
             preferred=preferred,
         )
@@ -1186,15 +1189,14 @@ def _chain_summarise(
     for art in articles:
         title = decode_entities(art.get("title", ""))
         desc = decode_entities(art.get("description") or "")
-        # 60 words is roughly 90 BPE tokens. 360 gives the model so much
-        # headroom it will always finish a clean sentence well before the
-        # ceiling. Any earlier run-to-ceiling was either a cost mistake or
-        # a prompt that invited rambling. We would rather pay a few extra
-        # tokens than ship a half sentence.
+        # Hindi uses ~2.5 tokens/word vs ~1.5 for English. 130-word target
+        # needs ~325 Hindi tokens or ~200 English tokens; add headroom for
+        # preamble the scrubber strips.
+        single_max = 700 if language == "hi" else 450
         text = _llm_complete(
             system,
             user_builder(title, desc),
-            max_tokens=360,
+            max_tokens=single_max,
             temperature=0.25,
             preferred=preferred,
         )
@@ -1215,7 +1217,7 @@ def _chain_summarise(
                 system,
                 user_builder(title, desc)
                 + "\n\nReturn only the summary paragraph. No thinking tags.",
-                max_tokens=360,
+                max_tokens=single_max,
                 temperature=0.25,
                 preferred=preferred,
             )
@@ -1233,7 +1235,7 @@ def _chain_summarise(
                 user_builder(title, desc)
                 + "\n\nThe last draft copied the source text. Rewrite it in "
                 "your own words as a genuine summary.",
-                max_tokens=360,
+                max_tokens=single_max,
                 temperature=0.3,
                 preferred=preferred,
             )

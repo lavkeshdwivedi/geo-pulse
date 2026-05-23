@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>GeoPulse</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400&family=JetBrains+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&display=swap" />
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="appbar">
+    <div class="appbar-left">
+      <span class="logo">GeoPulse</span>
+      <span id="age" class="age"></span>
+    </div>
+    <div class="actions">
+      <button id="btn-lang" class="btn-lang">हिंदी</button>
+      <button id="btn-theme" class="btn-theme" aria-label="Toggle theme"></button>
+      <button id="btn-more" class="btn-more" aria-label="More options">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="5" r="1.5"/><circle cx="12" cy="12" r="1.5"/><circle cx="12" cy="19" r="1.5"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <nav id="region-nav" class="region-nav"></nav>
+
+  <main id="feed" class="feed"></main>
+
+  <div id="ptr" class="ptr" aria-hidden="true">
+    <div class="ptr-ring"></div>
+  </div>
+
+  <div id="sheet-bg" class="sheet-bg"></div>
+
+  <div id="sheet" class="sheet" role="dialog" aria-modal="true">
+    <div class="sheet-handle"></div>
+
+    <div class="sheet-row sheet-title-row">
+      <div class="sheet-app-info">
+        <span class="sheet-app-name">GeoPulse</span>
+        <span class="sheet-app-sub">Geopolitics · Hourly</span>
+      </div>
+      <button id="sheet-close" class="sheet-close-btn" aria-label="Close">
+        <svg viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+
+    <div class="sheet-divider"></div>
+
+    <button id="sheet-refresh" class="sheet-action">
+      <svg viewBox="0 0 24 24"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
+      <span>Check for updates</span>
+      <span class="sheet-age" id="sheet-age"></span>
+    </button>
+
+    <div class="sheet-divider"></div>
+
+    <div class="sheet-about">
+      <p>A signal-first front page for global affairs. Every hour it pulls the top stories from around the world, strips the drama, and keeps the facts on one page you can finish in five minutes.</p>
+
+      <div class="sheet-editor">
+        <div class="sheet-editor-meta">
+          <span class="sheet-editor-label">Built and curated by</span>
+          <a class="sheet-editor-name" href="https://lavkesh.com" onclick="window.open(this.href,'_blank');return false;">Lavkesh Dwivedi</a>
+        </div>
+      </div>
+
+      <a class="sheet-link" href="https://pulse.lavkesh.com" onclick="window.open(this.href,'_blank');return false;">pulse.lavkesh.com ↗</a>
+    </div>
+  </div>
+
+  <script src="cordova.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

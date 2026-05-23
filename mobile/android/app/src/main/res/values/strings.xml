@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GeoPulse</string>
+    <string name="title_activity_main">GeoPulse</string>
+    <string name="package_name">com.lavkesh.geopulse</string>
+    <string name="custom_url_scheme">com.lavkesh.geopulse</string>
+</resources>

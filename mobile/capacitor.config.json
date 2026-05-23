@@ -1,0 +1,23 @@
+{
+  "appId": "com.lavkesh.geopulse",
+  "appName": "GeoPulse",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0,
+      "launchAutoHide": true,
+      "backgroundColor": "#0F1117"
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#0F1117",
+      "overlaysWebView": false
+    },
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  }
+}
