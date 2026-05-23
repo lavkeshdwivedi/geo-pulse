@@ -53,14 +53,6 @@ _BRAND_DEFAULTS = {
     "language_switch_path": "/hi",
     "user_agent": "GeoPulseTemplate/1.0",
     "custom_domain": "",
-    "social": {
-        "linkedin": "",
-        "x": "",
-        "github": "",
-        "instagram": "",
-        "facebook": "",
-        "topmate": "",
-    },
 }
 
 
@@ -74,11 +66,6 @@ def _load_brand_from_config() -> dict:
     except Exception:
         data = {}
     brand = data.get("brand") or {}
-    social_in = brand.get("social") or {}
-    social_out = {
-        k: social_in.get(k, _BRAND_DEFAULTS["social"][k])
-        for k in _BRAND_DEFAULTS["social"]
-    }
     return {
         "editor_name": brand.get("editor_name", _BRAND_DEFAULTS["editor_name"]),
         "editor_name_hi": brand.get("editor_name_hi", _BRAND_DEFAULTS["editor_name_hi"]),
@@ -90,7 +77,6 @@ def _load_brand_from_config() -> dict:
         ),
         "custom_domain": (brand.get("custom_domain") or "").strip(),
         "user_agent": brand.get("user_agent", _BRAND_DEFAULTS["user_agent"]),
-        "social": social_out,
     }
 
 
@@ -98,50 +84,6 @@ BRAND = _load_brand_from_config()
 _EDITOR_WEBSITE_DISPLAY = re.sub(r"^https?://", "", BRAND["editor_website"]).rstrip("/")
 
 
-# Inline SVG marks for footer socials. Paths taken from Simple Icons, each
-# sitting on a 24x24 viewBox and filled with currentColor so they pick up the
-# footer text colour and react to theme toggles without extra CSS.
-_FOOTER_ICONS = {
-    "linkedin": '<path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.063 2.063 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>',
-    "x": '<path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>',
-    "github": '<path d="M12 .297C5.37.297 0 5.67 0 12.297c0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.385-1.335-1.755-1.335-1.755-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23a11.52 11.52 0 016 0c2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>',
-    "instagram": '<path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/>',
-    "facebook": '<path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>',
-    # Topmate has no Simple Icons entry; use a mentor/chat glyph.
-    "topmate": '<path d="M12 2a10 10 0 00-8.66 15l-1.2 4.2a.75.75 0 00.93.93L7.27 21A10 10 0 1012 2zm-3.5 9.25a1.25 1.25 0 112.5 0 1.25 1.25 0 01-2.5 0zm3.5 0a1.25 1.25 0 112.5 0 1.25 1.25 0 01-2.5 0zm3.5 0a1.25 1.25 0 112.5 0 1.25 1.25 0 01-2.5 0z"/>',
-}
-
-
-def _build_footer_social_html() -> str:
-    """Render the footer social strip from BRAND.social as inline SVG icons.
-    Empty URLs are skipped so a forker can drop a network by blanking its key.
-    aria-label carries the network name for screen readers."""
-    order = [
-        ("linkedin", "LinkedIn"),
-        ("x", "X"),
-        ("github", "GitHub"),
-        ("instagram", "Instagram"),
-        ("facebook", "Facebook"),
-        ("topmate", "Topmate"),
-    ]
-    parts = []
-    for key, label in order:
-        url = (BRAND["social"].get(key) or "").strip()
-        if not url:
-            continue
-        icon = _FOOTER_ICONS.get(key, "")
-        parts.append(
-            f'<a class="footer-social-icon" href="{url}" target="_blank" '
-            f'rel="noopener noreferrer" aria-label="{label}">'
-            f'<svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" '
-            f'aria-hidden="true" focusable="false">{icon}</svg></a>'
-        )
-    if not parts:
-        return ""
-    return "\n      " + "\n      ".join(parts)
-
-
-_FOOTER_SOCIAL_HTML = _build_footer_social_html()
 
 
 SITE_URL     = BRAND["site_url"].rstrip("/")
@@ -1528,10 +1470,12 @@ def build_html(
       <a class="footer-nav-link" href="{about_path}">{copy['footer_about_label']}</a>
       <span class="footer-nav-sep" aria-hidden="true">·</span>
       <a class="footer-nav-link" href="{archive_path}">{copy['footer_archive_label']}</a>
+      <span class="footer-nav-sep" aria-hidden="true">·</span>
+      <a class="footer-nav-link" href="{SITE_URL}/terms/">Terms</a>
+      <span class="footer-nav-sep" aria-hidden="true">·</span>
+      <a class="footer-nav-link" href="{SITE_URL}/privacy/">Privacy</a>
     </nav>
-    <p class="footer-credit">© {footer_year} {footer_editor} · <a href="{BRAND['editor_website']}" target="_blank" rel="noopener">{_EDITOR_WEBSITE_DISPLAY}</a> · <a class="footer-rss" href="{SITE_URL}/feed.xml" target="_blank" rel="noopener noreferrer">RSS</a></p>
-    <p class="footer-social-links" aria-label="Social links">{_FOOTER_SOCIAL_HTML}
-    </p>
+    <p class="footer-credit">Built by <a href="{BRAND['editor_website']}" target="_blank" rel="noopener">Lavkesh Dwivedi</a> · <a class="footer-rss" href="{SITE_URL}/feed.xml" target="_blank" rel="noopener noreferrer">RSS</a></p>
   </footer>
 
   <script>
@@ -1773,10 +1717,12 @@ _SECTION_PAGE_SKELETON = """<!DOCTYPE html>
       <a class="footer-nav-link" href="{about_path}">{footer_about_label}</a>
       <span class="footer-nav-sep" aria-hidden="true">·</span>
       <a class="footer-nav-link" href="{archive_path}">{footer_archive_label}</a>
+      <span class="footer-nav-sep" aria-hidden="true">·</span>
+      <a class="footer-nav-link" href="{site_url}/terms/">Terms</a>
+      <span class="footer-nav-sep" aria-hidden="true">·</span>
+      <a class="footer-nav-link" href="{site_url}/privacy/">Privacy</a>
     </nav>
-    <p class="footer-credit">© {footer_year} {footer_editor} · <a href="{editor_website}" target="_blank" rel="noopener">{editor_website_display}</a> · <a class="footer-rss" href="{site_url}/feed.xml" target="_blank" rel="noopener noreferrer">RSS</a></p>
-    <p class="footer-social-links" aria-label="Social links">{footer_social_html}
-    </p>
+    <p class="footer-credit">Built by <a href="{editor_website}" target="_blank" rel="noopener">Lavkesh Dwivedi</a> · <a class="footer-rss" href="{site_url}/feed.xml" target="_blank" rel="noopener noreferrer">RSS</a></p>
   </footer>
   <script>
     var html = document.documentElement;
@@ -1873,7 +1819,6 @@ def _section_page_defaults(language: str, generated_at: str, depth: int = 1) -> 
         "footer_archive_label": html.escape(copy.get("footer_archive_label", "Archive")),
         "editor_website": BRAND["editor_website"],
         "editor_website_display": _EDITOR_WEBSITE_DISPLAY,
-        "footer_social_html": _FOOTER_SOCIAL_HTML,
         "tagline": copy.get("tagline", SITE_TAGLINE),
     }
 
@@ -1907,7 +1852,6 @@ def _render_skeleton(base: dict, *, page_title: str, page_desc: str, robots: str
         footer_archive_label=base["footer_archive_label"],
         editor_website=base["editor_website"],
         editor_website_display=base["editor_website_display"],
-        footer_social_html=base["footer_social_html"],
         tagline=base["tagline"],
     )
 
@@ -2133,6 +2077,86 @@ def build_edition_html(edition_id: str, archive_meta: dict, stories: list[dict],
     )
 
 
+def build_terms_html(generated_at: str) -> str:
+    """Render the Terms of Service page (English only)."""
+    base = _section_page_defaults("en", generated_at, depth=1)
+    effective_date = "1 January 2026"
+    body_html = (
+        '<section class="section-shell about-page">'
+        '<p class="section-eyebrow">Legal</p>'
+        '<h1 class="section-heading">Terms of Service</h1>'
+        '<div class="section-body">'
+        f'<p><strong>Effective date:</strong> {effective_date}</p>'
+        '<p>GeoPulse is a free, automated news aggregation service that curates geopolitics headlines from publicly available RSS feeds and third-party news sources. By using this site or the GeoPulse mobile application, you agree to these terms.</p>'
+        '<h2>1. Content and Sources</h2>'
+        '<p>GeoPulse does not produce original journalism. All article titles, summaries, and links belong to their respective publishers. Summaries are generated by AI and may contain errors or omissions. Always follow the source link for the full, authoritative article.</p>'
+        '<h2>2. No Warranties</h2>'
+        '<p>GeoPulse is provided "as is" without warranties of any kind. We make no guarantee of accuracy, completeness, or timeliness. News information changes rapidly; use your judgement before acting on anything you read here.</p>'
+        '<h2>3. Third-Party Links</h2>'
+        '<p>This service links to third-party websites. We are not responsible for the content, privacy practices, or availability of those sites.</p>'
+        '<h2>4. Acceptable Use</h2>'
+        '<p>You may use GeoPulse for personal, non-commercial purposes. You may not scrape, redistribute, or commercialise the aggregated content in bulk without permission from the original publishers.</p>'
+        '<h2>5. Changes</h2>'
+        '<p>We may update these terms at any time. Continued use of the service after changes constitutes acceptance of the revised terms.</p>'
+        '<h2>6. Governing Law</h2>'
+        '<p>These terms are governed by the laws of India. Any disputes shall be subject to the exclusive jurisdiction of the courts of Mumbai, Maharashtra.</p>'
+        '<h2>Contact</h2>'
+        f'<p>Questions? Reach the editor at <a href="{BRAND["editor_website"]}" target="_blank" rel="noopener">{_EDITOR_WEBSITE_DISPLAY}</a>.</p>'
+        '</div>'
+        f'<p class="section-back"><a class="section-back-link" href="{base["home_url"]}">← Back to the front page</a></p>'
+        '</section>'
+    )
+    return _render_skeleton(
+        base,
+        page_title=html.escape(f"Terms of Service · {SITE_TITLE}"),
+        page_desc="Terms of Service for the GeoPulse geopolitics news aggregator.",
+        robots="index,follow",
+        canonical=f"{SITE_URL}/terms/",
+        body_class="about-section-page",
+        body_html=body_html,
+    )
+
+
+def build_privacy_html(generated_at: str) -> str:
+    """Render the Privacy Policy page (English only)."""
+    base = _section_page_defaults("en", generated_at, depth=1)
+    effective_date = "1 January 2026"
+    body_html = (
+        '<section class="section-shell about-page">'
+        '<p class="section-eyebrow">Legal</p>'
+        '<h1 class="section-heading">Privacy Policy</h1>'
+        '<div class="section-body">'
+        f'<p><strong>Effective date:</strong> {effective_date}</p>'
+        '<p>GeoPulse respects your privacy. This policy explains what data is collected when you use the GeoPulse website and mobile application.</p>'
+        '<h2>1. Data We Do Not Collect</h2>'
+        '<p>GeoPulse does not require account registration. We do not collect your name, email address, location, or any personally identifiable information through the website.</p>'
+        '<h2>2. Analytics</h2>'
+        '<p>The website is hosted on GitHub Pages. GitHub may collect standard server logs (IP address, browser type, referring URL) as described in the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer">GitHub Privacy Statement</a>. GeoPulse itself does not run additional analytics scripts.</p>'
+        '<h2>3. Mobile App</h2>'
+        '<p>The GeoPulse mobile app fetches publicly available news data from our feed. If push notifications are enabled, your device token is used solely to deliver news alerts and is not shared with third parties. We use Firebase Cloud Messaging (Google) to send notifications; see the <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener noreferrer">Firebase Privacy Policy</a> for details.</p>'
+        '<h2>4. Cookies and Local Storage</h2>'
+        '<p>The website uses browser localStorage only to remember your theme preference (dark/light mode). No tracking cookies are set.</p>'
+        '<h2>5. Third-Party Content</h2>'
+        '<p>Articles link to third-party news sites. Those sites have their own privacy policies which we do not control.</p>'
+        '<h2>6. Changes</h2>'
+        '<p>We may update this policy. The effective date above reflects the most recent revision.</p>'
+        '<h2>Contact</h2>'
+        f'<p>Privacy questions? Contact the editor at <a href="{BRAND["editor_website"]}" target="_blank" rel="noopener">{_EDITOR_WEBSITE_DISPLAY}</a>.</p>'
+        '</div>'
+        f'<p class="section-back"><a class="section-back-link" href="{base["home_url"]}">← Back to the front page</a></p>'
+        '</section>'
+    )
+    return _render_skeleton(
+        base,
+        page_title=html.escape(f"Privacy Policy · {SITE_TITLE}"),
+        page_desc="Privacy Policy for the GeoPulse geopolitics news aggregator.",
+        robots="index,follow",
+        canonical=f"{SITE_URL}/privacy/",
+        body_class="about-section-page",
+        body_html=body_html,
+    )
+
+
 def write_section_pages(archives: list[dict], generated_at: str, language: str = "en") -> None:
     """Write the About, Archive index, and per-edition HTML files to disk."""
     if language == "hi":
@@ -2155,6 +2179,19 @@ def write_section_pages(archives: list[dict], generated_at: str, language: str =
     with open(os.path.join(archive_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(build_archive_html(archives, generated_at, language=language))
     log.info("Wrote %s", os.path.join(archive_dir, "index.html"))
+
+    if language == "en":
+        terms_dir = os.path.join(SITE_DIR, "terms")
+        os.makedirs(terms_dir, exist_ok=True)
+        with open(os.path.join(terms_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(build_terms_html(generated_at))
+        log.info("Wrote %s", os.path.join(terms_dir, "index.html"))
+
+        privacy_dir = os.path.join(SITE_DIR, "privacy")
+        os.makedirs(privacy_dir, exist_ok=True)
+        with open(os.path.join(privacy_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(build_privacy_html(generated_at))
+        log.info("Wrote %s", os.path.join(privacy_dir, "index.html"))
 
     edition_id_re = re.compile(r"^\d{4}-\d{2}-\d{2}-\d{2}$")
     if os.path.isdir(edition_root):
@@ -2392,6 +2429,12 @@ def main() -> None:
     log.info("Wrote %s", NOJEKYLL_PATH)
 
     sync_cname_from_brand()
+
+    # Copy newsletter.json into site/ so the mobile app can fetch it directly
+    # from the same domain (pulse.lavkesh.com/newsletter.json).
+    site_json_path = os.path.join(SITE_DIR, "newsletter.json")
+    shutil.copy2(JSON_PATH, site_json_path)
+    log.info("Copied newsletter.json → %s", site_json_path)
 
     write_directory_guards()
     log.info("Wrote directory index guards for archive paths")
