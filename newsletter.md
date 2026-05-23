@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** May 24, 2026 01:37 IST
+**Updated:** May 24, 2026 04:10 IST
 
 ---
 
@@ -10,7 +10,7 @@
 *The Hindu (International)* - May 24, 00:22 IST (iso: 2026-05-23T18:52:58+00:00)
 <!-- image: https://th-i.thgim.com/public/news/national/fnqe6t/article71015483.ece/alternates/LANDSCAPE_1200/Raul_Castro_Art.jpg -->
 
-The Trump administration indicted Raul Castro, Cuba's 94-year-old The Trump administration, which has imposed a punishing blockade on Cuba, has indicted the 94-year old former revolutionary leader and President, in a replay of the farcical accusations that led to the U. S. abduction of Venezuelan President Nicolas Maduro early this year. Raul Castro.
+The Trump administration indicted Raul Castro, Cuba's 94-year-old The Trump administration, which has imposed a punishing blockade on Cuba, has indicted the 94-year old former revolutionary leader and President, in a replay of the farcical accusations that led to the U. S. abduction of Venezuelan President Nicolas Maduro early this year. Raul Castro. The Trump administration, which has imposed a punishing blockade on Cuba, has indicted the 94-year old former revolutionary leader and President, in a replay of the farcical accusations that led to the U. S.
 
 ### [‘Canada is handing people over to ICE’: refugees rejected at border face US detention](https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention)
 *The Guardian* - May 23, 16:30 IST (iso: 2026-05-23T11:00:28+00:00)
@@ -32,13 +32,41 @@ Marco Rubio expressed doubt about diplomatic solutions with Cuba. He stated the 
 
 ---
 
+## Asia-Pacific
+
+### [China mine death toll at least 82 after gas blast](https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping)
+*The Guardian* - May 23, 21:28 IST (iso: 2026-05-23T15:58:40+00:00)
+<!-- image: https://i.guim.co.uk/img/media/44074292c9e48848ab52f5a98ef7cbb764a1fcf8/66_0_3317_2654/master/3317.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15983ec159eb23e1fed5e278b2b52864 -->
+
+A gas explosion at the Liushenyu coalmine in China's northern Shanxi Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after explosion in northern Shanxi provinceAt least 90 people have been killed in a gas explosion at a coalmine in China’s northern Shanxi province, making it the country’s deadliest mining accident since at least 2009. The gas explosion occurred late on Friday at the Liushenyu coalmine in Qinyuan county, with 247 workers on duty.
+
+### [Taliban Welcomes Female Tourists Even As Afghan Women Face Harsher Restrictions](https://www.rferl.org/a/taliban-welcomes-female-tourists-as-afghan-women-face-harsher-restrictions/33762706.html)
+*Radio Free Europe / Liberty* - May 23, 08:28 IST (iso: 2026-05-23T02:58:00+00:00)
+<!-- image: https://gdb.rferl.org/2b26ef0c-cbc4-432f-4471-08de3be37656_w1200_h630.jpg -->
+
+The Taliban government is encouraging foreign tourism, with travel influencers visiting Afghanistan and sharing positive experiences. These influencers often highlight the country's scenery and the hospitality they receive. However, this outreach occurs while Afghan women face severe restrictions. They are banned from education, most forms of employment, and public life. Critics argue that the focus on tourism downplays these human rights issues.
+
+### [Xi Jinping’s praise of ‘Make America Great Again’ a major signal](https://asiatimes.com/2026/05/xi-jinpings-praise-of-make-america-great-again-a-major-signal/)
+*Asia Times* - May 23, 03:33 IST (iso: 2026-05-22T22:03:00+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/05/LDfPd82RM9Q4gVG7Z936jY-1250-80.jpg-copy-e1779487341999.jpg -->
+
+Xi Jinping praised the Make America Great Again slogan during the Trump-Xi summit in Beijing. China hawks Jake Sullivan and Aaron Friedberg downplayed the summit. Sullivan and Friedberg come from different political backgrounds. The praise is seen as a significant signal by Xi Jinping. Western mainstream media and podcasters have dismissed the Trump-Xi summit in Beijing. When you listen to Jake Sullivan and Aaron Friedberg, China hawks from diagonally opposite political background – the liberal elite of the Democratic party and the Republican neoconservative camp – they are competing with each other to disparage the summit as “much ado [] The post Xi Jinping’s praise of ‘Make A.
+
+### [Bangladesh’s paramilitary problem cannot be rebranded](https://asiatimes.com/2026/05/bangladeshs-paramilitary-problem-cannot-be-rebranded/)
+*Asia Times* - May 23, 00:21 IST (iso: 2026-05-22T18:51:08+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/05/7140628-Large-copy.jpg -->
+
+Bangladesh's government is rebranding the Rapid Action Battalion, a paramilitary force, due to its controversial history. The force has been renamed to distance itself from past actions. This move follows a pattern of renaming institutions in Bangladesh to deflect criticism. The rebranding is unlikely to address the underlying issues with the force. Bangladesh’s rulers have a habit of renaming institutions when they become politically radioactive.
+
+### [Beijing bans Nvidia’s top graphics card to back domestic rivals](https://asiatimes.com/2026/05/beijing-bans-nvidias-top-graphics-card-to-back-domestic-rivals/)
+*Asia Times* - May 22, 04:04 IST (iso: 2026-05-21T22:34:35+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/05/geforce-rtx-5090-bm-xl770-d.jpg -->
+
+Beijing banned Nvidia's GeForce RTX 5090D V2 graphics card to support domestic rivals. The card was engineered for the Chinese market. Chinese online gamers and hobbyist artificial intelligence (AI) developers have been dealt a setback as Beijing banned the import of Nvidia’s GeForce RTX 5090D V2, a graphics card specifically engineered for the Chinese market to comply with United States export rules, dealing another blow to the country’s technology community already caught in escalating chip-war tensions.
+
+---
+
 ## Middle East & Africa
-
-### [US and Iran report progress on talks ending war, looking to next few days](https://www.channelnewsasia.com/asia/us-and-iran-report-progress-talks-ending-war-looking-next-few-days-6138096)
-*Channel News Asia* - May 24, 00:11 IST (iso: 2026-05-23T18:41:38+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--PUlWXd98--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-23T101655Z_2_LYNXMPEM4M068_RTROPTP_3_USA-TRUMP.JPG?itok=HOmWYPGj -->
-
-The United States and Iran reported progress on talks aimed at ending nearly three months of war. President Donald Trump stated they were "getting a lot closer" to an agreement. Mediator Pakistan also confirmed progress had been made. Discussions are expected to continue over the next few days. Iran, the United States and ​mediator Pakistan all said on Saturday (May 23) that progress had been made in talks on ending almost three months of war, with President Donald Trump saying they are "getting a lot closer" to an agreement.
 
 ### [‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC](https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo)
 *The Guardian* - May 23, 18:47 IST (iso: 2026-05-23T13:17:08+00:00)
@@ -52,11 +80,35 @@ Ebola is spreading rapidly in the Democratic Republic of the Congo, overwhelming
 
 The World Health Organization revised its Ebola outbreak threat assessment to "very high" in the Democratic Republic of the Congo. Suspected cases nearly tripled in a week to almost 750. The outbreak has caused 177 suspected deaths. Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede respondersThe Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization said on Friday, revising its threat assessment upwards. The outbreak is spreading rapidly, WHO leaders said, with almost 750 suspected cases and 177 suspected death.
 
+### [Two-state Israel-Palestine solution is Washington’s empty liturgy](https://asiatimes.com/2026/05/two-state-israel-palestine-solution-is-washingtons-empty-liturgy/)
+*Asia Times* - May 22, 20:37 IST (iso: 2026-05-22T15:07:26+00:00)
+<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/05/Bill_Clinton_Yitzhak_Rabin_Yasser_Arafat_at_the_White_House_1993-09-13.jpg?fit=1024%2C683&amp;quality=89&amp;ssl=1 -->
+
+United Nations Secretary-General António Guterres repeated support for a two-state Israel-Palestine solution. The statement was routine and sparked little reaction. When the United Nations Secretary-General António Guterres declares, once again, that “the only way” out of the Israeli-Palestinian impasse runs through two states, one is reminded less of a policy proposal than of a Latin Mass. The words are sacred.
+
 ### [UN’s climate crisis vote shows political momentum is growing, say experts](https://www.theguardian.com/environment/2026/may/22/un-climate-crisis-vote-shows-political-momentum-growing-experts)
 *The Guardian* - May 22, 15:57 IST (iso: 2026-05-22T10:27:07+00:00)
 <!-- image: https://i.guim.co.uk/img/media/68c4a5c5da0d791d448c13550737b4561489b7d2/501_0_4383_3506/master/4383.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d6e36dd8a689c91a7e68740e379a506 -->
 
 The UN General Assembly overwhelmingly voted for a landmark climate crisis ruling. Resolution backed by 141 states hailed as ‘new chapter’ that could improve climate diplomacy and litigation effortsWhen the UN general assembly voted overwhelmingly in favour of a landmark climate crisis ruling on Wednesday, the Pacific island of Vanuatu’s prime minister hailed the result as the start of “a new chapter” in climate action.“The task before all of us now is to translate legal clarity.
+
+### [Iranian State Media's Foster Child Story Lands Editor In Court -- Over A Head Scarf](https://www.rferl.org/a/iran-foster-child-hijab-woman-irna-censor/33761942.html)
+*Radio Free Europe / Liberty* - May 22, 14:05 IST (iso: 2026-05-22T08:35:41+00:00)
+<!-- image: https://gdb.rferl.org/738cfc1b-6406-487b-63f1-08de3c91433d_w1200_h630.jpg -->
+
+An Iranian state media editor was summoned to court over a photo story showing a woman unveiled at home. The photos were deleted within hours. A state-approved photo story intended to celebrate motherhood and volunteerism became a political controversy in Iran because the images used showed a woman unveiled at home. Iranian State Media's Foster Child Story Lands Editor In Court -- Over A Head Scarf.
+
+### [Iran Talks See 'Slight Progress,' Says Rubio, Warns Against Toll For Hormuz Strait](https://www.rferl.org/a/trump-rubio-iran-ceasefire-hormuz-uranium/33762051.html)
+*Radio Free Europe / Liberty* - May 22, 03:30 IST (iso: 2026-05-21T22:00:42+00:00)
+<!-- image: https://gdb.rferl.org/a4c2bd8b-ba06-44cf-8309-294c30025989_w1200_h630.jpg -->
+
+US Secretary of State Marco Rubio reported slight progress in Pakistan-mediated Iran talks. He warned against Tehran's attempt to establish a toll in the Strait of Hormuz. US Secretary of State Marco Rubio said there has been "slight progress" in Pakistan-mediated talks to end the Iran war, while warning against what he described as Tehran's attempt to establish a tolling system in the Strait of Hormuz, which he said no country should accept.
+
+### [Perfidious empire](https://asiatimes.com/2026/05/perfidious-empire/)
+*Asia Times* - May 22, 01:16 IST (iso: 2026-05-21T19:46:10+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/05/1_YwojKb2GTukvlfVEnVVrpA-copy.jpg -->
+
+Iran's leadership was assassinated during negotiations. Tell me lies, tell me sweet little lies Tell me lies Tell me, tell me lies Oh no-no, you can’t disguise – Fleetwood Mac Perfidy. There is no other word to describe the assassination of Iran’s leadership while negotiations were ongoing. It does not matter how evil they were, nor how juicy the window of opportunity [] The post Perfidious empire appeared first on Asia Times.
 
 ### [Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears](https://news.un.org/feed/view/en/story/2026/05/1167568)
 *UN News* - May 21, 17:30 IST (iso: 2026-05-21T12:00:00+00:00)
@@ -70,25 +122,49 @@ A senior UN envoy told the Security Council that delays in Gaza's transition As 
 
 The Security Council debated Gaza's future amid stalled peace progress. Discussions focused on governance and recovery. Conditions in the West Bank continue to deteriorate with mounting civilian casualties. The Security Council is discussing the stalled progress in Gaza as the fragile ceasefire there limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs.
 
----
+### [FIFA's Reported Ban On Iran's Pre-1979 Flag At World Cup Stirs Controversy](https://www.rferl.org/a/iran-opposition-flag-fifa-world-cup/33761265.html)
+*Radio Free Europe / Liberty* - May 21, 04:16 IST (iso: 2026-05-20T22:46:37+00:00)
+<!-- image: https://gdb.rferl.org/874a97b9-88d1-479b-0a4b-08de3c642a38_w1200_h630.jpg -->
 
-## Asia-Pacific
-
-### [China mine death toll at least 82 after gas blast](https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping)
-*The Guardian* - May 23, 21:28 IST (iso: 2026-05-23T15:58:40+00:00)
-<!-- image: https://i.guim.co.uk/img/media/44074292c9e48848ab52f5a98ef7cbb764a1fcf8/66_0_3317_2654/master/3317.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15983ec159eb23e1fed5e278b2b52864 -->
-
-A gas explosion at the Liushenyu coalmine in China's northern Shanxi Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after explosion in northern Shanxi provinceAt least 90 people have been killed in a gas explosion at a coalmine in China’s northern Shanxi province, making it the country’s deadliest mining accident since at least 2009. The gas explosion occurred late on Friday at the Liushenyu coalmine in Qinyuan county, with 247 workers on duty.
+FIFA plans to ban Iran's pre-1979 flag at the World Cup. Iranian monarchist groups are voicing anger over reports that FIFA intends to ban the so-called Lion and Sun flag, often used as a symbol of resistance to the theocratic rule that took over the country in 1979. The soccer association says the flag is a "political" symbol and is therefore forbidden.
 
 ---
 
 ## Europe & Russia
+
+### [From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do](https://news.un.org/feed/view/en/story/2026/05/1167569)
+*UN News* - May 23, 17:30 IST (iso: 2026-05-23T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-05-2026_UNHCR_Ukraine-02.jpg/image770x420cropped.jpg -->
+
+Dr. Inna Soldatenko fled Kharkiv, Ukraine, on 24 February 2022, after waking to explosions. She arrived in the United Kingdom with her daughter. Soldatenko is now working as a general practitioner in the UK's National Health Service. She is helping other Ukrainian refugees navigate the healthcare system. On 23 February 2022, in her home city of Kharkiv, Dr Inna Soldatenko finished work, collected her daughter from school, cooked dinner and prepared a lecture for her students.
+
+### [US Asks Lithuania, Poland, Ukraine To Allow Belarusian Fertilizer Exports](https://www.rferl.org/a/belarus-fertilizer-potash-exports-us-sanctions-eu/33762526.html)
+*Radio Free Europe / Liberty* - May 22, 18:33 IST (iso: 2026-05-22T13:03:29+00:00)
+<!-- image: https://gdb.rferl.org/CE1BD66B-4E17-4993-A0BE-AA1E6D6E4302.jpg -->
+
+US officials asked Lithuania, Poland, and Ukraine to lift sanctions on Belarusian potash exports. This would allow the product to transit through their territories. US officials have proposed that Lithuania, Poland, and Ukraine lift sanctions on Belarusian potash to allow the transit of the agricultural product – a major source of hard currency revenue for Minsk --- through their territories.
 
 ### [Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official](https://news.un.org/feed/view/en/story/2026/05/1167578)
 *UN News* - May 22, 17:30 IST (iso: 2026-05-22T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/22-05-2026-UN-Photo-SC-wideview-01.jpg/image770x420cropped.jpg -->
 
 A senior United Nations aid official stated the human cost of the Ukraine war defies international law. Russia accused Ukraine of targeting a student dormitory in Luhansk, reportedly killing six people including children. Kyiv denied targeting the civilian building, stating it struck a Russian military drone command headquarters. The Security Council is meeting at the request of Russia which on Friday accused Ukraine of targeting a student dormitory overnight in the occupied Luhansk region, reportedly killing six people – including children – and injuring dozens.
+
+### [Attacked By The State And Fractured Within, Belarus Opposition Struggles In Exile](https://www.rferl.org/a/belarus-exiled-opposition-bleak-shadow-election/33760941.html)
+*Radio Free Europe / Liberty* - May 21, 12:40 IST (iso: 2026-05-21T07:10:21+00:00)
+<!-- image: https://gdb.rferl.org/22DA5F49-DDB2-44B4-BD83-57A4AF7AA62A.jpg -->
+
+Belarus opposition struggles in exile six years after protests. Poor turnout for an online election underscores the daunting challenges faced by the largely exiled Belarusian democratic opposition six years after a groundswell of popular protests raised hopes for change in a country ruled by authoritarian leader Aleksandr Lukashenko since 1994. Attacked By The State And Fractured Within, Belarus Opposition Struggles In Exile.
+
+---
+
+## World
+
+### [In Central Asia, Pressure To Bear Sons Drives Sex-Selective Abortions](https://www.rferl.org/a/tajikistan-uzbekistan-sex-selective-abortion-demographics/33762791.html)
+*Radio Free Europe / Liberty* - May 23, 00:17 IST (iso: 2026-05-22T18:47:04+00:00)
+<!-- image: https://gdb.rferl.org/fc354757-40e5-4b0d-6277-08de3c91433d_w1200_h630.jpg -->
+
+In Central Asia, newborn boys outnumber girls due to sex-selective abortions. Families terminate pregnancies when a daughter is expected, driven by pressure to bear sons. This practice has led to a skewed birth ratio, with boys outnumbering girls at a rate higher than the global average. Pregnant women often do not make this choice freely. In Central Asia, newborn boys outnumber girls at a rate well beyond the worldwide average.
 
 ---
 
