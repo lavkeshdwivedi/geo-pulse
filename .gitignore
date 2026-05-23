@@ -45,3 +45,19 @@ do_push.ps1
 # Windows helper scripts
 *.bat
 *.ps1
+
+# Release signing — never commit
+mobile/android/keystore.properties
+*.jks
+*.keystore
+
+# Mobile / Capacitor
+mobile/node_modules/
+mobile/.gradle/
+mobile/android/.gradle/
+mobile/android/app/build/
+mobile/android/local.properties
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/build/

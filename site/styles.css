@@ -140,6 +140,138 @@ img {
   box-shadow: 0 10px 30px rgba(29, 39, 56, 0.06);
 }
 
+/* ── Android closed beta banner ───────────────────────────────── */
+.beta-banner {
+  width: min(1240px, calc(100% - 32px));
+  margin: 0.9rem auto 0;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-left: 3px solid var(--accent, #e63946);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text-sub);
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+[data-theme="light"] .beta-banner {
+  border-color: rgba(0, 0, 0, 0.08);
+  border-left-color: var(--accent, #e63946);
+}
+.beta-banner[hidden] { display: none; }
+.beta-banner-text {
+  margin: 0;
+  flex: 1;
+}
+.beta-banner-emoji {
+  margin-right: 0.4rem;
+}
+.beta-banner-link {
+  color: var(--accent, #e63946);
+  text-decoration: none;
+  font-weight: 600;
+  white-space: nowrap;
+  margin-left: 0.35rem;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.18s ease;
+}
+.beta-banner-link:hover,
+.beta-banner-link:focus-visible {
+  border-bottom-color: currentColor;
+  outline: none;
+}
+.beta-banner-close {
+  background: transparent;
+  border: 0;
+  color: var(--text-muted);
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 0.35rem;
+  border-radius: 4px;
+  transition: color 0.18s ease, background 0.18s ease;
+}
+.beta-banner-close:hover,
+.beta-banner-close:focus-visible {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.06);
+  outline: none;
+}
+[data-theme="light"] .beta-banner-close:hover,
+[data-theme="light"] .beta-banner-close:focus-visible {
+  background: rgba(0, 0, 0, 0.05);
+}
+@media (max-width: 640px) {
+  .beta-banner {
+    font-size: 0.78rem;
+    padding: 0.55rem 0.7rem;
+    align-items: flex-start;
+  }
+  .beta-banner-link {
+    display: inline-block;
+    margin-top: 0.15rem;
+  }
+}
+
+/* ── Release / editor note card (one-off announcement under hero) ─ */
+.release-note {
+  width: min(1240px, calc(100% - 32px));
+  margin: 1.4rem auto 0.6rem;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-left: 3px solid var(--accent, #e63946);
+  border-radius: 10px;
+  background: linear-gradient(180deg, var(--surface), var(--bg-alt));
+  padding: 1rem 1.25rem;
+  color: var(--text);
+  font-family: var(--font-serif, "Fraunces", Georgia, serif);
+}
+[data-theme="light"] .release-note {
+  border-color: rgba(0, 0, 0, 0.06);
+  border-left-color: var(--accent, #e63946);
+}
+.release-note-inner {
+  max-width: 760px;
+}
+.release-note-title {
+  margin: 0 0 0.35rem;
+  font-family: var(--font-serif, "Fraunces", Georgia, serif);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent, #e63946);
+  font-weight: 600;
+}
+.release-note-body {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--text-sub);
+}
+.release-note-cta {
+  color: var(--accent, #e63946);
+  text-decoration: none;
+  font-weight: 600;
+  white-space: nowrap;
+  margin-left: 0.35rem;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.18s ease;
+}
+.release-note-cta:hover,
+.release-note-cta:focus-visible {
+  border-bottom-color: currentColor;
+  outline: none;
+}
+@media (max-width: 640px) {
+  .release-note {
+    padding: 0.85rem 1rem;
+  }
+  .release-note-body {
+    font-size: 0.88rem;
+  }
+}
+
 .header-inner,
 .hero-shell,
 .filter-inner,

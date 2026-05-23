@@ -136,6 +136,9 @@ SITE_COPY = {
     "hero_primary": "Read the latest",
     "hero_secondary_archive": "Browse archive",
     "hero_secondary_rss": "Follow via RSS",
+    "beta_banner_text": "GeoPulse for Android is in closed beta. I need a dozen testers held for two weeks before Google will unlock the public Play Store release.",
+    "beta_banner_cta": "Become a tester",
+    "beta_banner_dismiss_aria": "Dismiss this notice",
     "coverage_map": "Coverage map",
     "latest_story_landed": "Latest story landed",
     "edition_stamped_in": "edition stamped in",
@@ -206,6 +209,9 @@ SITE_COPY = {
     "hero_primary": "ताज़ा पढ़ें",
     "hero_secondary_archive": "आर्काइव देखें",
     "hero_secondary_rss": "RSS से फ़ॉलो करें",
+    "beta_banner_text": "GeoPulse का Android ऐप क्लोज़्ड बीटा में है। पब्लिक प्ले स्टोर रिलीज़ अनलॉक करने के लिए मुझे दो हफ्तों तक एक दर्जन टेस्टर चाहिए।",
+    "beta_banner_cta": "टेस्टर बनें",
+    "beta_banner_dismiss_aria": "यह सूचना हटाएँ",
     "coverage_map": "कवरेज मैप",
     "latest_story_landed": "ताज़ा स्टोरी आई",
     "edition_stamped_in": "संस्करण समय क्षेत्र",
@@ -1045,6 +1051,7 @@ def build_html(
     display_tz,
     language: str = "en",
     digest: str = "",
+    editor_note: dict | None = None,
 ) -> str:
     copy = SITE_COPY.get(language, SITE_COPY["en"])
     page_url = SITE_URL if language == "en" else HI_SITE_URL
@@ -1245,6 +1252,37 @@ def build_html(
         )
 
     install_label = "Install app" if language == "en" else "ऐप इंस्टॉल करें"
+
+    # Editor's note (one-off announcement card under the hero). Renders only
+    # when config.yml has editor_note.body for this language. Card auto-hides
+    # on the empty case so removing the announcement is just a config edit.
+    editor_note_html = ""
+    if editor_note:
+        body_key = "body_hi" if language == "hi" else "body"
+        title_key = "title_hi" if language == "hi" else "title"
+        cta_label_key = "cta_label_hi" if language == "hi" else "cta_label"
+        note_body = (editor_note.get(body_key) or "").strip()
+        note_title = (editor_note.get(title_key) or "").strip()
+        note_cta_label = (editor_note.get(cta_label_key) or "").strip()
+        note_cta_href = (editor_note.get("cta_href") or "").strip()
+        if note_body:
+            cta_html = ""
+            if note_cta_label and note_cta_href:
+                cta_html = (
+                    f' <a class="release-note-cta" href="{html.escape(note_cta_href, quote=True)}">'
+                    f'{html.escape(note_cta_label)} <span aria-hidden="true">→</span></a>'
+                )
+            title_html = ""
+            if note_title:
+                title_html = f'<p class="release-note-title">{html.escape(note_title)}</p>'
+            editor_note_html = (
+                '<aside class="release-note" aria-label="Note from the editor">'
+                '<div class="release-note-inner">'
+                f'{title_html}'
+                f'<p class="release-note-body">{html.escape(note_body)}{cta_html}</p>'
+                '</div>'
+                '</aside>'
+            )
     install_hint = (
         "On iPhone, open in Safari and tap Share → Add to Home Screen."
         if language == "en"
@@ -1414,6 +1452,15 @@ def build_html(
     </div>
   </header>
 
+  <aside class="beta-banner" id="beta-banner" hidden>
+    <p class="beta-banner-text">
+      <span class="beta-banner-emoji" aria-hidden="true">📱</span>
+      {copy['beta_banner_text']}
+      <a class="beta-banner-link" href="mailto:shiveshsolutions@gmail.com?subject=GeoPulse%20Android%20tester&amp;body=Hi%20Lav%2C%20please%20add%20my%20Gmail%20to%20the%20GeoPulse%20Android%20closed%20beta.%20My%20address%20is%3A%20">{copy['beta_banner_cta']} →</a>
+    </p>
+    <button type="button" class="beta-banner-close" id="beta-banner-close" aria-label="{copy['beta_banner_dismiss_aria']}">×</button>
+  </aside>
+
   <main id="main-content">
 
   <section class="hero-shell">
@@ -1431,6 +1478,8 @@ def build_html(
       </div>
     </div>
   </section>
+
+    {editor_note_html}
 
     <!-- ── Filter tabs ──────────────────────────────────────────── -->
     <nav class="filter-bar" aria-label="{copy['filter_aria']}">
@@ -1503,6 +1552,24 @@ def build_html(
       html.dataset.theme = next;
       localStorage.setItem('gp-theme', next);
     }});
+
+
+    // ── Android beta banner ────────────────────────────
+    // Hidden by default; reveal unless the reader has dismissed it.
+    // Swap in the public Play opt-in link once the AAB lands on the
+    // Closed testing track, then this whole block becomes a clickthrough.
+    (function() {{
+      const banner = document.getElementById('beta-banner');
+      const close  = document.getElementById('beta-banner-close');
+      if (!banner) return;
+      let dismissed = false;
+      try {{ dismissed = localStorage.getItem('gp-beta-banner-dismissed') === '1'; }} catch (_) {{}}
+      if (!dismissed) banner.hidden = false;
+      if (close) close.addEventListener('click', () => {{
+        banner.hidden = true;
+        try {{ localStorage.setItem('gp-beta-banner-dismissed', '1'); }} catch (_) {{}}
+      }});
+    }})();
 
     // ── Edition timestamp in hero ────────────────────────────────
     (function() {{
@@ -2410,12 +2477,12 @@ def main() -> None:
     archives = archive_newsletter(cfg, display_tz, language="en")
     archives_hi = archive_newsletter(cfg, display_tz, language="hi")
 
-    html_out = build_html(en_articles, generated_at, archives, display_tz, language="en", digest=digest.get("en", ""))
+    html_out = build_html(en_articles, generated_at, archives, display_tz, language="en", digest=digest.get("en", ""), editor_note=cfg.get("editor_note"))
     with open(INDEX_PATH, "w", encoding="utf-8") as f:
         f.write(html_out)
     log.info("Wrote %s", INDEX_PATH)
 
-    html_hi_out = build_html(hi_articles, generated_at, archives_hi, display_tz, language="hi", digest=digest.get("hi", ""))
+    html_hi_out = build_html(hi_articles, generated_at, archives_hi, display_tz, language="hi", digest=digest.get("hi", ""), editor_note=cfg.get("editor_note"))
     with open(HI_INDEX_PATH, "w", encoding="utf-8") as f:
         f.write(html_hi_out)
     log.info("Wrote %s", HI_INDEX_PATH)

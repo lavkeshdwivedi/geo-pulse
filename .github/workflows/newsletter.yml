@@ -266,7 +266,57 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      # ── 9. Notify on failure ──────────────────────────────────────────────
+      # ── 9. Send FCM push notification to mobile subscribers ──────────────
+      - name: Push notification to mobile app
+        if: steps.detect_updates.outputs.has_news == 'true' && steps.commit_generated.outputs.committed == 'true'
+        continue-on-error: true
+        env:
+          FIREBASE_PROJECT_ID: geo-pulse-cd4c1
+          GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          python3 - <<'PYEOF'
+          import json, os, urllib.request, urllib.error
+
+          creds_json = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS_JSON", "")
+          if not creds_json:
+              print("FIREBASE_SERVICE_ACCOUNT secret not set — skipping FCM push")
+              raise SystemExit(0)
+
+          # Get an OAuth2 access token using the service account
+          import google.auth
+          import google.auth.transport.requests
+          from google.oauth2 import service_account
+
+          sa = json.loads(creds_json)
+          scopes = ["https://www.googleapis.com/auth/firebase.messaging"]
+          credentials = service_account.Credentials.from_service_account_info(sa, scopes=scopes)
+          credentials.refresh(google.auth.transport.requests.Request())
+          token = credentials.token
+
+          project_id = os.environ["FIREBASE_PROJECT_ID"]
+          url = f"https://fcm.googleapis.com/v1/projects/{project_id}/messages:send"
+          payload = json.dumps({
+              "message": {
+                  "topic": "newsletter",
+                  "notification": {
+                      "title": "GeoPulse",
+                      "body": "New edition published"
+                  },
+                  "data": {"action": "refresh"}
+              }
+          }).encode()
+          req = urllib.request.Request(url, data=payload, method="POST", headers={
+              "Authorization": f"Bearer {token}",
+              "Content-Type": "application/json"
+          })
+          try:
+              with urllib.request.urlopen(req) as resp:
+                  print("FCM sent:", resp.read().decode())
+          except urllib.error.HTTPError as e:
+              print("FCM error:", e.code, e.read().decode())
+          PYEOF
+
+      # ── 10. Notify on failure ─────────────────────────────────────────────
       - name: Create issue on failure
         if: failure()
         continue-on-error: true

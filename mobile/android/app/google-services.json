@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056715941396",
+    "project_id": "geo-pulse-cd4c1",
+    "storage_bucket": "geo-pulse-cd4c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056715941396:android:bb4c1686e92c303ffae901",
+        "android_client_info": {
+          "package_name": "com.lavkesh.geopulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIs2f4OULthJrLl2LFlbYUPCOm4GAjVvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
