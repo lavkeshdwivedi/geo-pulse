@@ -1,6 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** May 24, 2026 01:37 IST
+**अपडेट:** May 24, 2026 04:10 IST
 
 ---
 
@@ -30,17 +30,11 @@
 
 पंजाब के कप्तान श्रेयस अय्यर ने लखनऊ के खिलाफ 11 चौकों और 5 छक्कों की मदद से 100 रन बनाए। उनकी शतकीय पारी ने पंजाब को जीत दिलाई और प्लेऑफ की उम्मीदें कायम रखीं। यह टी20 क्रिकेट में उनकी एक महत्वपूर्ण उपलब्धि है। लखनऊ के खिलाफ पंजाब के कप्तान श्रेयस अय्यर का बल्ला जमकर गरजा। उन्होंने शानदार शतकीय पारी खेलकर न सिर्फ टीम को जीत दिलाई बल्कि उसकी प्लेऑफ की उम्मीदों को भी जीवित रखने में अहम भूमिका निभाई।
 
-### [त्विषा शर्मा केस में सुप्रीम कोर्ट ने लिया संज्ञान,25 मई को होगी सुनवाई](https://www.amarujala.com/video/india-news/sc-on-twisha-sharma-case-supreme-court-takes-cognizance-of-twisha-sharma-case-hearing-to-be-held-on-may-25-2026-05-24)
-*Amar Ujala National* - May 24, 12:15 IST (iso: 2026-05-24T06:45:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/24/twisha_3f17bfe122ff1382efb4698a77c12f09.jpeg?w=750&dpr=1.0 -->
+### [Punjab Kings vs LSG Match Highlights: श्रेयस अय्यर और प्रभसिमरन की धमाकेदार जोड़ी ने दी लखनऊ को मात](https://www.amarujala.com/video/india-news/punjab-kings-vs-lsg-match-highlights-shreyas-iyer-and-prabhsimran-sharma-s-explosive-pair-defeated-lucknow-2026-05-24)
+*Amar Ujala National* - May 24, 01:55 IST (iso: 2026-05-23T20:25:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/24/ipl-2026_8160a7f5514b234e9a299fda6500374d.jpeg?w=750&dpr=1.0 -->
 
-सुप्रीम कोर्ट ने भोपाल की त्विषा शर्मा की संदिग्ध मौत के मामले में संज्ञान लिया है। यह मामला अब राष्ट्रीय स्तर पर विचाराधीन है। मामले की अगली सुनवाई 25 मई को निर्धारित की गई है। मध्य प्रदेश की राजधानी भोपाल का चर्चित त्विषा शर्मा संदिग्ध मौत मामला अब देश की सर्वोच्च अदालत तक पहुंच चुका है। त्विषा शर्मा केस में सुप्रीम कोर्ट ने लिया संज्ञान,25 मई को होगी सुनवाई।
-
-### [IPhone यूजर्स सावधान, खोए फोन को ढूंढने के चक्कर में खाली हो सकता है बैंक अकाउंट; ऐसे बचें आप](https://www.amarujala.com/technology/mobile-apps/alert-i4c-warns-iphone-users-about-fake-apple-support-messages-stealing-apple-ids-2026-05-24)
-*Amar Ujala National* - May 24, 12:03 IST (iso: 2026-05-24T06:33:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/24/apple-support-bnakara-iphone-yajarasa-ka-nashana-bna-raha-saibra-thaga_53ce908ee7e6344344f895de4a8f0546.jpeg?w=750&dpr=1.0 -->
-
-आईफोन खोने पर एपल सपोर्ट के नाम पर आने वाले फर्जी मैसेज से सावधान रहें। ये मैसेज आपके बैंक खाते खाली कर सकते हैं। ऐसे किसी भी संदेश पर प्रतिक्रिया न दें। I4C fake Apple support warning: अगर आपका आईफोन (iPhone) खो गया है या चोरी हो गया है, तो एपल सपोर्ट के नाम पर आने वाले मैसेज से सावधान हो जाइए।
+आईपीएल के एक अहम मुकाबले में पंजाब किंग्स ने लखनऊ सुपर जाएंट्स को सात विकेट से हरा दिया। श्रेयस अय्यर और प्रभसिमरन की जोड़ी ने शानदार प्रदर्शन किया। आईपीएल के बेहद अहम मुकाबले में पंजाब किंग्स ने शानदार प्रदर्शन करते हुए लखनऊ सुपर जाएंट्स को सात विकेट से हरा दिया। Punjab Kings vs LSG Match Highlights: श्रेयस अय्यर और प्रभसिमरन की धमाकेदार जोड़ी ने दी लखनऊ को मात।
 
 ### [यूजीसी नेट जून के लिए आवेदन का एक और मौका, अंतिम तिथि आज; रात 11:50 बजे से पहले भरें फॉर्म](https://www.amarujala.com/education/ugc-net-june-2026-last-date-extended-till-24-may-check-revised-schedule-here-2026-05-23)
 *Amar Ujala National* - May 24, 01:20 IST (iso: 2026-05-23T19:50:56+00:00)
@@ -49,132 +43,134 @@
 यूजीसी नेट जून 2026 परीक्षा के लिए आवेदन करने का एक और मौका है। आवेदन की अंतिम तिथि आज है। इच्छुक उम्मीदवार रात 11:50 बजे से पहले अपना फॉर्म जमा कर सकते हैं। UGC NET June 2026: यूजीसी नेट जून के लिए आवेदन का एक और मौका, अंतिम तिथि आज; रात 11:50 बजे से पहले भरें फॉर्म।
 
 ### [राहुल गांधी का मुस्लिम नेताओं को सीधा संदेश, बोले- मुस्लिम शब्द बोलने से न हिचके कांग्रेस](https://www.amarujala.com/india-news/rahul-gandhi-congress-minority-department-muslim-statement-leaders-meeting-vote-theft-issue-representation-2026-05-24)
-*Amar Ujala National* - May 24, 01:09 IST (iso: 2026-05-23T19:39:07+00:00)
+*Amar Ujala Breaking* - May 24, 01:09 IST (iso: 2026-05-23T19:39:07+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/04/14/rahul-gandhi-noida-protest_613b5c779010008d96e25644cb7db6ae.jpeg?w=750&dpr=1.0 -->
 
 राहुल गांधी ने कांग्रेस के मुस्लिम नेताओं को सीधा संदेश दिया है। उन्होंने कहा कि कांग्रेस को 'मुस्लिम' शब्द बोलने से नहीं हिचकिचाना चाहिए। यह बयान पार्टी की अल्पसंख्यक रणनीति पर केंद्रित है। Rahul Gandhi: राहुल गांधी का मुस्लिम नेताओं को सीधा संदेश, बोले- मुस्लिम शब्द बोलने से न हिचके कांग्रेस।
 
-### ['मेलोडी' नहीं पीएम मोदी की 'गिफ्ट डिप्लोमेसी' में खास है 'भगवद गीता', 2014 से कई राष्ट्राध्यक्षों](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUTV4ZkRZZk5VQmh0NGIyR3oxcFktTm5SM09XR00zWWFDYlpWM0ZVMFpEZEtkVWV0cmxpOXozZFNlQmJOb3NGbjEtVWhWQzNSdWI3YWoxb2J1ZElpWWJQUFhoNTBkY3JXQmdLaUcxNW81QzdwT2pFYU4wZ19GM0RBSERybno0STQ2NGFDcHZzakN3SF9xbUNRRHZSZXRPOG5MNXoteE52b2Q5OVFGd3NWX01oS1BCaTcwcmw3QmRTVmRZWmNyVWJxaUpwTlQxejJrM0lJcWcxUnhJaUVJUVpZTUtiTS0?oc=5)
-*Google News Hindi (कूटनीति)* - May 23, 17:09 IST (iso: 2026-05-23T11:39:10+00:00)
-<!-- image: https://images.pexels.com/photos/16457179/pexels-photo-16457179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+---
 
-प्रधानमंत्री मोदी की 'गिफ्ट डिप्लोमेसी' में 'भगवद गीता' एक महत्वपूर्ण भेंट रही है. 2014 से कई राष्ट्राध्यक्षों को यह भेंट दी गई है. 'मेलोडी' नहीं पीएम मोदी की 'गिफ्ट डिप्लोमेसी' में खास है 'भगवद गीता', 2014 से कई राष्ट्राध्यक्षों को की भेंट bhaskarhindi. com।
+## एशिया-प्रशांत
 
-### [बेल मिलते ही जेल के बाहर रेप अभियुक्त के स्वागत पर एफ़आईआर दर्ज, क्या है पूरा मामला](https://www.bbc.com/hindi/articles/cj4pz1x4z07o?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - May 23, 16:20 IST (iso: 2026-05-23T10:50:50+00:00)
-<!-- image: https://ichef.bbci.co.uk/news/1024/branded_hindi/1906/live/79496370-5693-11f1-9615-e14e530a4b81.jpg -->
+### [कठुआ की बेटी ने माउंट एवरेस्ट पर फहराया तिरंगा, ये मुकाम हासिल करने वाली जिले की पहली महिला बनीं](https://www.amarujala.com/jammu-and-kashmir/kathua/daughter-of-kathua-hoists-tricolor-on-mount-everest-anju-becomes-the-first-woman-district-to-achieve-this-fea-2026-05-24)
+*Amar Ujala Breaking* - May 24, 12:23 IST (iso: 2026-05-24T06:53:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/24/aja-na-mauta-evarasata-para-faharaya-taraga_a8703692d613232eac2a983c198d14aa.png?w=750&dpr=1.0 -->
 
-रेप के एक अभियुक्त की जेल से रिहाई के बाद हुए स्वागत पर पुलिस ने एफ़आईआर दर्ज की है. रेप अभियुक्त की जेल से रिहाई के बाद हुआ स्वागत अब विवादों में है. वीडियो वायरल होने पर पुलिस ने मामले में एफ़आईआर दर्ज की है. बेल मिलते ही जेल के बाहर रेप अभियुक्त के स्वागत पर एफ़आईआर दर्ज, क्या है पूरा मामला।
+कठुआ की अंजू राजपूत ने माउंट एवरेस्ट पर तिरंगा फहराया, जिले की पहली महिला बनीं जिन्होंने यह मुकाम हासिल किया। कठुआ की बेटी ने दुनिया में भारत का नाम रोशन किया है। डिंगाअंब ब्लॉक की कटली पंचायत के सुंखल गांव की अंजू राजपूत ने दुनिया की सबसे ऊंची चोटी माउंट एवरेस्ट पर सफलतापूर्वक तिरंगा फहराया है। कठुआ की बेटी ने माउंट एवरेस्ट पर फहराया तिरंगा, ये मुकाम हासिल करने वाली जिले की पहली महिला बनीं।
 
-### ['काश मैंने ये सर्जरी पहले कराई होती', ब्रेस्ट रिडक्शन सर्जरी के ट्रेंड बढ़ने की कहानी](https://www.bbc.com/hindi/articles/cx214zgkjvgo?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - May 23, 13:04 IST (iso: 2026-05-23T07:34:03+00:00)
-<!-- image: https://ichef.bbci.co.uk/news/1024/branded_hindi/d147/live/21c2e530-5671-11f1-8b8c-6d33e1d5abb6.jpg -->
+### [भारत-अमेरिका परमाणु साझेदारी को मिल सकती है नई रफ्तार, न्यूक्लियर सेक्टर पर बढ़ा फोकस](https://www.patrika.com/world-news/marco-rubio-india-visit-nuclear-energy-deal-shanti-act-updates-20604693)
+*Patrika (World)* - May 24, 02:36 IST (iso: 2026-05-23T21:06:30+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/05/Marco-Rubio-India-Visit-2026.webp -->
 
-ब्रेस्ट रिडक्शन सर्जरी की मांग बढ़ रही है। इसे कॉस्मेटिक के बजाय फंक्शनल सर्जरी के तौर पर देखा जा रहा है। यह उन महिलाओं के लिए है जिन्हें बड़े स्तनों के कारण शारीरिक परेशानी होती है। यह ऐसी सर्जरी है, जिसे कॉस्मेटिक नहीं बल्कि फंक्शनल सर्जरी के रूप में देखा जा रहा है. 'काश मैंने ये सर्जरी पहले कराई होती', ब्रेस्ट रिडक्शन सर्जरी के ट्रेंड बढ़ने की कहानी।
+अमेरिकी विदेश मंत्री मार्को रूबियो ने कोलकाता में मदर टेरेसा के मदर हाउस का दौरा किया। इसके बाद वह नई दिल्ली पहुंचे। उनकी इस यात्रा से भारत-अमेरिका परमाणु ऊर्जा सहयोग को नई गति मिलने के संकेत हैं। Marco Rubio India Visit 2026: अमेरिकी विदेश मंत्री मार्को रूबियो शनिवार को अपनी भारत यात्रा के पहले चरण में कोलकाता पहुंचे। यहां उन्होंने मदर टेरेसा से जुड़े मदर हाउस और उससे जुड़े चिल्ड्रंस होम का दौरा किया।
+
+### [क्या अगले कुछ महीनों में भारत-अमेरिका के बीच होने वाली हैं बड़ी घोषणाएं? रूबियो ने दिए बड़े संकेत](https://www.patrika.com/national-news/marco-rubio-india-visit-trump-white-house-invitation-to-pm-modi-20604674)
+*Patrika (World)* - May 24, 01:04 IST (iso: 2026-05-23T19:34:21+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/05/Marco-Rubio-India-Visit.webp -->
+
+अमेरिकी विदेश मंत्री मार्को रूबियो ने कहा कि भारत-अमेरिका के बीच आर्थिक सहयोग बढ़ रहा है। आने वाले महीनों में दोनों देशों के संबंध मजबूत बनाने के लिए कुछ बड़ी घोषणाएं की जा सकती हैं। Marco Rubio India Visit: व्यापार संबंधों को लेकर चल रहे तनाव के बीच भारत दौरे पर आए अमेरिकी विदेश मंत्री मार्को रूबियो ने शनिवार को कहा कि प्रधानमंत्री नरेंद्र मोदी और राष्ट्रपति डोनाल्ड ट्रंप के बीच व्यक्तिगत संबंध मजबूत हैं और वह लंबी सोच पर आधारित हैं।
+
+### [भारत ने ‘नेकलेस ऑफ डायमंड्स’ रणनीति से हिंद-प्रशांत महासागर में बनाया दबदबा, जानें चीन का कैसे बन](https://www.patrika.com/world-news/india-emerges-as-key-maritime-power-shaping-security-in-indo-pacific-region-20604547)
+*Patrika (World)* - May 23, 22:19 IST (iso: 2026-05-23T16:49:10+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/05/indopacificnews.webp -->
+
+भारत ने हिंद-प्रशांत महासागर में अपनी उपस्थिति बढ़ाई है। भारत की 'नेकलेस ऑफ डायमंड्स' रणनीति चीन की समुद्री घुसपैठ के खिलाफ प्रभावी साबित हो रही है। इस रणनीति से भारत इस क्षेत्र में एक महत्वपूर्ण खिलाड़ी बन गया है। भारत अब हिंद-प्रशांत क्षेत्र की सुरक्षा का अहम खिलाड़ी बन चुका है। चीन की बढ़ती समुद्री घुसपैठ के खिलाफ भारत का ‘नेकलेस ऑफ डायमंड्स’ रणनीति और अन्य कदम अब सबसे प्रभावी जवाब साबित हो रहे हैं।
+
+### [मकराना मार्बल और जालीदार कंक्रीट से बना, अमेरिकी राजदूत के इस आलीशान बंगले का क्या है इतिहास?](https://hindi.news18.com/news/nation/roosevelt-house-new-delhi-history-us-ambassador-residence-marco-rubio-dinner-edward-durell-stone-architecture-india-us-ties-10504905.html)
+*News18 Hindi (World)* - May 23, 21:58 IST (iso: 2026-05-23T16:28:36+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/05/Roosevelt-House-2026-05-e466d0b683433cb30a1ce522e8b4ecc2-1200x800.jpg -->
+
+अमेरिकी राजदूत सर्जियो गोर का आधिकारिक निवास 'रूजवेल्ट हाउस' 28 एकड़ में फैला है, जो मकराना संगमरमर और जालीदार कंक्रीट से बना है। यह भारत में अमेरिकी राजदूत का निवास है और भारत-अमेरिका के दशकों पुराने कूटनीतिक रिश्तों का प्रतीक है। नई दिल्ली स्थित 28 एकड़ में फैला 'रूजवेल्ट हाउस' सिर्फ एक इमारत नहीं, बल्कि भारत और अमेरिका के बीच दशकों पुराने कूटनीतिक रिश्तों का जीता-जागता गवाह है.
+
+### [मार्को रुबियो ने भारत में QUAD पर किया जो ऐलान, चीन के अभी से छूटने लगे पसीने, पाकिस्तान तो थर-थर](https://hindi.news18.com/news/nation/marco-rubio-exclusive-quad-summit-2026-defence-cooperation-india-us-ties-indo-pacific-strategy-china-pakistan-message-10504733.html)
+*News18 Hindi (World)* - May 23, 21:01 IST (iso: 2026-05-23T15:31:04+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/05/Marco-Rubio-1-2026-05-2c3f34f89465cece65d872e1538252c1-1200x800.jpg -->
+
+अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत दौरे पर कहा कि अमेरिका इसी साल 'क्वाड लीडर्स समिट' का आयोजन करना चाहता है। उन्होंने भारत-अमेरिका रक्षा उत्पादन और इंडो-पैसिफिक क्षेत्र में चीन की बढ़ती आक्रामकता के मुद्दों पर बात की। अमेरिकी विदेश मंत्री मार्को रुबियो भारत दौरे पर आए हैं. इस दौरान उन्होंने सीएनएन-न्यूज18 से क्वाड समिट और भारत-अमेरिका रक्षा पर एक्सक्लूसिव बात की.
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [60 दिन के लिए बढ़ेगा अमेरिका-ईरान युद्धविराम?: होर्मुज खोलने पर सहमति के संकेत, अमेरिकी प्रतिबंधों](https://www.amarujala.com/world/us-iran-ceasefire-be-extended-for-60-days-signs-of-agreement-to-reopen-hormuz-easing-of-us-sanctions-possible-2026-05-24)
+*Amar Ujala National* - May 24, 03:55 IST (iso: 2026-05-23T22:25:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/24/pashacama-eshaya-ma-tanava-kama-karana-ka-kashasha-taja_2505434d12b0854be6686f073e6de4b4.png?w=750&dpr=1.0 -->
+
+अमेरिका और ईरान के बीच 60 दिन के लिए युद्धविराम बढ़ने की संभावना है, होर्मुज खोलने पर सहमति के संकेत मिले हैं। 60 दिन के लिए बढ़ेगा अमेरिका-ईरान युद्धविराम?: होर्मुज खोलने पर सहमति के संकेत, अमेरिकी प्रतिबंधों पर ढील संभव।
+
+### [कांगो में इबोला का खतरा बढ़ा: इलाज केंद्र में आगजनी के बाद 18 संदिग्ध मरीज लापता, WHO ने क्या](https://www.amarujala.com/world/congo-ebola-outbreak-ebola-treatment-centre-mongbwalu-who-warning-protest-red-cross-2026-05-24)
+*Amar Ujala National* - May 24, 03:38 IST (iso: 2026-05-23T22:08:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/24/kaga-ma-eka-hafata-ma-thasara-hamal_ca063614b0ea83f717b04b86890e21dd.png?w=750&dpr=1.0 -->
+
+कांगो में इबोला का खतरा बढ़ा, इलाज केंद्र में आगजनी के बाद 18 संदिग्ध मरीज लापता हो गए हैं। कांगो में इबोला का खतरा बढ़ा: इलाज केंद्र में आगजनी के बाद 18 संदिग्ध मरीज लापता, WHO ने क्या चेतावनी दी?
+
+### [ईरान पर शांति समझौते की तैयारी, नेतन्याहू से की बात; होर्मुज जलडमरूमध्य खोलने पर भी चर्चा](https://www.amarujala.com/world/trumps-major-claim-preparations-underway-for-peace-deal-with-iran-discussions-on-opening-strait-of-hormuz-2026-05-24)
+*Amar Ujala Breaking* - May 24, 03:05 IST (iso: 2026-05-23T21:35:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/24/iirana-oura-isarail-ka-lkara-tarapa-na-kaya-kaha_cb41914b4794b63a4b96704eae9c2c42.png?w=750&dpr=1.0 -->
+
+ट्रंप ने ईरान पर शांति समझौते की तैयारी का दावा किया, नेतन्याहू से बात की और होर्मुज जलडमरूमध्य खोलने पर चर्चा हुई। ट्रंप का बड़ा दावा: ईरान पर शांति समझौते की तैयारी, होर्मुज जलडमरूमध्य खोलने पर भी चर्चा। ईरान पर शांति समझौते की तैयारी, नेतन्याहू से की बात; होर्मुज जलडमरूमध्य खोलने पर भी चर्चा।
+
+### [कहीं फुके ट्रांसफॉर्मर तो कई जिलों में गुल रही बिजली; भीषण गर्मी से ओडिशा में जनजीवन बेहाल](https://www.amarujala.com/india-news/odisha-electricity-crisis-blown-transformers-widespread-power-outages-across-many-districts-intense-heat-2026-05-24)
+*Amar Ujala Breaking* - May 24, 03:03 IST (iso: 2026-05-23T21:33:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/24/odasha-ma-caramaraii-bjal-vayavasatha_65aa3e6f5b3a2ac074e3656166a439b4.png?w=750&dpr=1.0 -->
+
+ओडिशा में भीषण गर्मी के कारण जनजीवन बेहाल है। कई जिलों में बिजली गुल है, जबकि कई जगहों पर ट्रांसफॉर्मर फुके हुए हैं। इससे लोगों को परेशानी हो रही है। Electricity Crisis: कहीं फुके ट्रांसफॉर्मर तो कई जिलों में गुल रही बिजली; भीषण गर्मी से ओडिशा में जनजीवन बेहाल।
+
+### [ईरान-अमेरिका समझौते के लिए तेहरान पहुंचे आसिम मुनीर, फिर भी नहीं बनी सहमति](https://www.patrika.com/world-news/iran-us-talk-pakistan-army-chief-asim-munir-tehran-visit-updates-20604679)
+*Patrika (World)* - May 24, 01:46 IST (iso: 2026-05-23T20:16:07+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/05/latest-on-iran-us-talks.webp -->
+
+पाक सेना प्रमुख आसिम मुनीर तेहरान पहुंचे और ईरान के राष्ट्रपति मसूद पेजेशकियान से मुलाकात की। उन्होंने अमेरिका के साथ शांति समझौते के लिए चर्चा की, लेकिन अभी तक सहमति नहीं बनी है। Iran US Talk Update: ईरान के राष्ट्रपति मसूद पेजेशकियान और विदेश मंत्री अब्बास अराघची ने शनिवार को तेहरान पहुंचे पाक सेना प्रमुख आसिम मुनीर से मुलाकात की।
+
+### [ईरान की अगली रणनीति तैयार कर रहा अमेरिका का मोस्ट वांटेड दुश्मन, जानिए कौन है अहमद वहीदी?](https://www.patrika.com/world-news/who-is-ahmad-vahidi-new-irgc-commander-us-sanctions-interpol-wanted-20604661)
+*Patrika (World)* - May 24, 00:12 IST (iso: 2026-05-23T18:42:57+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/05/Who-is-Ahmad-Vahidi.webp -->
+
+अहमद वहीदी ईरान की सैन्य रणनीति के एक महत्वपूर्ण व्यक्ति हैं। वह अमेरिका के प्रतिबंधों का सामना कर रहे हैं और इंटरपोल की वांटेड सूची में शामिल हैं। वहीदी की भूमिका ईरान और अमेरिका के बीच जारी तनाव में महत्वपूर्ण हो गई है। Who is Ahmad Vahidi: ईरान और अमेरिका के बीच जारी तनाव के बीच एक नाम तेजी से वैश्विक सुर्खियों में है, वह नाम ब्रिगेडियर जनरल अहमद वहीदी है।
+
+### [24 घंटों में हो जाएगा ऐलान! ट्रंप का गल्फ देशों को इमरजेंसी कॉल, कुछ ही घंटों में बड़ा ऐलान](https://hindi.news18.com/world/middle-east-donald-trump-to-hold-emergency-call-with-gulf-leaders-to-discuss-final-decision-at-1-pm-est-iran-us-peace-deal-major-announcement-10504901.html)
+*News18 Hindi (World)* - May 23, 23:39 IST (iso: 2026-05-23T18:09:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/05/trump-2026-05-e3721308a585d2bbda43c1454db189c8-1200x800.jpg -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने खाड़ी देशों के शीर्ष नेताओं के साथ एक इमरजेंसी कॉल किया। इस कॉल के दौरान ट्रंप एक बड़ा ऐलान करने वाले हैं। यह ऐलान अमेरिका और ईरान के बीच जारी तनाव के बीच आया है। Iran US Peace Deal Live: पश्चिम एशिया में जारी भारी तनाव के बीच अमेरिका और ईरान के महासंग्राम का 'क्लाइमेक्स' करीब आता दिख रहा है, जहां अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप आज दोपहर ठीक 1:00 बजे (1 PM ET) खाड़ी देशों के शीर्ष नेताओं के साथ एक इमरजेंसी और सीक्रेट कॉन्फ्रेंस कॉल करने जा रहे हैं.
+
+### [अमेरिका और ईरान के बीच जल्द हो सकता है समझौता, ट्रंप ने दिए बड़े संकेत](https://www.patrika.com/world-news/trump-hints-at-a-deal-between-the-us-and-iran-soon-20604575)
+*Patrika (World)* - May 23, 22:52 IST (iso: 2026-05-23T17:22:39+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/04/trump-on-phone.webp -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि अमेरिका और ईरान के बीच समझौता होने की संभावना पहले से कहीं ज्यादा बढ़ गई है। ट्रंप के मुताबिक दोनों देश एक डील को अंतिम रूप देने के बहुत करीब पहुंच चुके हैं। US-Iran War Update: मिडिल ईस्ट में लंबे समय से जारी तनाव के बीच अब एक बड़ी कूटनीतिक हलचल देखने को मिली है।
+
+### [अमेरिका व ईरान के बीच सीजफायर पर बड़ी खबर, मार्को रूबियो के खुलासे से मची हलचल](https://www.patrika.com/world-news/ran-peace-deal-us-secretary-of-state-marco-rubio-india-visit-middle-east-conflict-updates-in-hindi-20604432)
+*Patrika (World)* - May 23, 21:44 IST (iso: 2026-05-23T16:14:22+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/05/Marco-Rubio-said-Progress-being-made-toward-peace-deal-with-Iran.webp -->
+
+अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत दौरे के दौरान दावा किया कि अमेरिका और ईरान के बीच शांति समझौते की बातचीत सही दिशा में आगे बढ़ रही है। यह मध्य पूर्व में महीनों से जारी तनाव के बीच एक राहत भरी खबर है। Marco Rubio: अमेरिका और ईरान के बीच शांति समझौते की ओर कदम आगे बढ़े हैं। भारत दौरे के दौरान मार्को रुबियो ने बड़ा दावा किया है।
+
+---
+
+## यूरोप और रूस
+
+### [सर्बिया में सरकार विरोधी प्रदर्शन तेज, बेलग्रेड में प्रदर्शनकारियों और पुलिस के बीच हिंसक झड़प](https://www.amarujala.com/world/serbia-anti-government-protests-intensify-violent-clashes-between-police-in-belgrade-2026-05-24)
+*Amar Ujala Breaking* - May 24, 03:13 IST (iso: 2026-05-23T21:43:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/06/08/brakaga-nayaja_753feb8eaa2a72af84971f67a261b775.jpeg?w=750&dpr=1.0 -->
+
+सर्बिया में सरकार विरोधी प्रदर्शन तेज हो गए, बेलग्रेड में प्रदर्शनकारियों और पुलिस के बीच हिंसक झड़प हुई। Serbia Protest: सर्बिया में सरकार विरोधी प्रदर्शन तेज, बेलग्रेड में प्रदर्शनकारियों और पुलिस के बीच हिंसक झड़प।
+
+### [भड़का रूस…यूक्रेन के हमले में 18 की मौत के बाद पुतिन ने दिए जवाबी कार्रवाई के आदेश](https://www.patrika.com/world-news/putin-orders-retaliatory-strikes-after-ukraine-attack-kills-18-20604633)
+*Patrika (World)* - May 23, 23:22 IST (iso: 2026-05-23T17:52:10+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/05/Russia-Ukraine-Conflict-1.webp -->
+
+रूसी राष्ट्रपति व्लादिमीर पुतिन ने यूक्रेन के हमले में 18 लोगों की मौत के बाद जवाबी कार्रवाई के आदेश दिए। रूस ने आरोप लगाया है कि यूक्रेन ने उसके कब्जे वाले क्षेत्र में एक कॉलेज डॉरमेट्री पर ड्रोन हमला किया। Russia-Ukraine Conflict: रूस और यूक्रेन के बीच जारी युद्ध एक बार फिर बेहद खतरनाक मोड़ पर पहुंच गया है। रूस ने आरोप लगाया है कि यूक्रेन ने उसके कब्जे वाले पूर्वी लुहान्स्क क्षेत्र के स्टारोबिल्स्क शहर में एक कॉलेज डॉरमेट्री पर ड्रोन हमला किया, जिसमें कम से कम 18 लोगों की मौत हो गई।
 
 ---
 
 ## अमेरिका
 
 ### [रुबियो के सम्मान में स्वागत समारोह, जयशंकर-मिसरी समेत कई अतिथि शामिल; देखें तस्वीर](https://www.amarujala.com/india-news/roosevelt-house-reception-at-us-embassy-us-sec-of-state-marco-rubio-sergio-gor-s-jaishankar-vikram-misri-2026-05-24)
-*Amar Ujala Breaking* - May 24, 01:00 IST (iso: 2026-05-23T19:30:03+00:00)
+*Amar Ujala Breaking* - May 24, 01:56 IST (iso: 2026-05-23T20:26:33+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/05/24/roosevelt-house-reception-at-us-embassy-us-sec-of-state-marco-rubio-sergio-gor-s-jaishankar-vikr_b1c4ae537d1184a97720664b7be3cd96.jpeg?w=750&dpr=1.0 -->
 
 अमेरिकी विदेश सचिव मार्को रुबियो के सम्मान में अमेरिकी दूतावास में एक स्वागत समारोह आयोजित किया गया। इसमें एस जयशंकर और विक्रम मिसरी सहित कई गणमान्य व्यक्ति शामिल हुए। रुबियो के सम्मान में स्वागत समारोह, जयशंकर-मिसरी समेत कई अतिथि शामिल; देखें तस्वीर।
-
-### [क्यूबा के पूर्व राष्ट्रपति राउल कास्त्रो का हाल भी क्या मादुरो जैसा होगा](https://www.bbc.com/hindi/articles/c1w25dp04qyo?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - May 23, 14:58 IST (iso: 2026-05-23T09:28:43+00:00)
-<!-- image: https://ichef.bbci.co.uk/news/1024/branded_hindi/66f5/live/bee2f6f0-55ab-11f1-9f36-1dfd3d7f0f3a.jpg -->
-
-विशेषज्ञों का मानना है कि अमेरिका वेनेजुएला की तरह क्यूबा में हस्तक्षेप कर सकता है. वेनेजुएला में अमेरिका ने प्रतिबंधों और राजनयिक दबाव के जरिए निकोलस मादुरो को सत्ता से हटाने की कोशिश की. हालांकि, यह प्रयास सफल नहीं हुआ. क्यूबा के मामले में, अमेरिका के पास तीन संभावित रास्ते हैं. इनमें से प्रत्येक रास्ते के अपने फायदे और नुकसान हैं.
-
----
-
-## एशिया-प्रशांत
-
-### [चीन 26 मई को यूएन सुरक्षा परिषद की उच्च स्तरीय बैठक की मेजबानी करेगा](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmo1aG11MHBFeXAwSUlyNEVDSm5YWVJ3YWQtck94ZjlicENrdnlJeHNOLW4xam1WSy1VcFl0Qm54T2VtM2N4TmpSU2tCb01QSEExSGhXaGRucG9LaVRZdDFuMlllRE5jUlBhWlJOQmRQc3QwSXp5bl9oM3ZfcDltYVAtWGxDMVBXbzNnZzRqQ25oTEE3eXZOSmgtWER1Ym5zLU9DYXVxTnB2MFhSTXhKU3MtWmRoZ2dwXzFFZi1R?oc=5)
-*Google News Hindi (संयुक्त राष्ट्र)* - May 23, 22:13 IST (iso: 2026-05-23T16:43:56+00:00)
-<!-- image: https://images.pexels.com/photos/33229791/pexels-photo-33229791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-चीन 26 मई को संयुक्त राष्ट्र सुरक्षा परिषद की एक उच्च स्तरीय बैठक की मेजबानी करेगा। यह बैठक न्यूयॉर्क में होगी। चीन 26 मई को यूएन सुरक्षा परिषद की उच्च स्तरीय बैठक की मेजबानी करेगा bhaskarhindi. com।
-
-### [अमेरिका के इस फ़ैसले का भारतीय युवाओं पर क्या होगा असर](https://www.bbc.com/hindi/articles/c8e8jll7gxwo?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - May 23, 21:55 IST (iso: 2026-05-23T16:25:38+00:00)
-<!-- image: https://ichef.bbci.co.uk/news/1024/branded_hindi/23bf/live/696133c0-56c5-11f1-89a3-d1f559421220.png -->
-
-अमेरिका ने शुक्रवार को एक अधिसूचना जारी की है। यह अधिसूचना भारत सहित कई देशों के लोगों को प्रभावित करेगी। अधिसूचना में वीज़ा नियमों में बदलाव का उल्लेख है। इन बदलावों का भारतीय युवाओं पर महत्वपूर्ण प्रभाव पड़ने की उम्मीद है। अमेरिका ने शुक्रवार को एक नोटिफ़िकेश जारी किया जिसका भारत समेत कई देशों के लोगों पर असर पड़ने वाला है.
-
-### [हैदराबाद के साथ मैच में कोहली ने ऐसा क्या किया जिसकी पाकिस्तान में हो रही चर्चा](https://www.bbc.com/hindi/articles/c2d28grxndxo?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - May 23, 19:36 IST (iso: 2026-05-23T14:06:50+00:00)
-<!-- image: https://ichef.bbci.co.uk/news/1024/branded_hindi/de71/live/629a2ca0-56b0-11f1-b682-cf91850925ea.jpg -->
-
-हैदराबाद में सनराइज़र्स हैदराबाद के खिलाफ रॉयल चैलेंजर्स बेंगलुरु की हार के बाद विराट कोहली की 15 रन की पारी की पाकिस्तान में चर्चा हो रही है. शुक्रवार को हैदराबाद में सनराइज़र्स हैदराबाद और रॉयल चैलेंजर्स बेंगलुरु के बीच मैच था जिसमें रॉयल चैलेंजर्स की टीम हार गई. कोहली सिर्फ 15 रन बना सके. हैदराबाद के साथ मैच में कोहली ने ऐसा क्या किया जिसकी पाकिस्तान में हो रही चर्चा।
-
-### [भारतीय मेजर अभिलाषा बराक को संयुक्त राष्ट्र का बड़ा सम्मान, मिला 'मिलिट्री जेंडर एडवोकेट' अवार्ड](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZlRLTXF5aGlUR3pZeW5fdmdkT0hnWHlub283U3FWU1A0WUQ3VFNUV3BZYmtQOS1na2t5ZmVWbUpqdWNBMFk0X1JhbDNxOEVUMTRVNm10U2IwajdQVnlFdkQ2WjZvQ00weDJLbHZJSGRxTzR5ekE3eVpGMlNFVXRoZ29KZEVHazBJS255azhtOFdGRXlBdFhGY2R4OWJtYXFpbnBCdENOOXJWcm41ZVBfREJCYmFDal9wa1drUzRmWElpOWxDc3VGSzdpTUhESUNTYURFTXNnREFDUQ?oc=5)
-*Google News Hindi (संयुक्त राष्ट्र)* - May 23, 19:04 IST (iso: 2026-05-23T13:34:00+00:00)
-<!-- image: https://images.pexels.com/photos/29290227/pexels-photo-29290227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-भारतीय सेना की मेजर अभिलाषा बराक को संयुक्त राष्ट्र ने 'मिलिट्री जेंडर एडवोकेट' अवार्ड से सम्मानित किया है. भारतीय मेजर अभिलाषा बराक को संयुक्त राष्ट्र का बड़ा सम्मान, मिला 'मिलिट्री जेंडर एडवोकेट' अवार्ड Jagran।
-
-### [रूबियो का भारत दौरा: रणनीतिक संतुलन की नई तस्वीर](https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjZTcWU4djVNRlZaTkd3X2hFb1h0UHhsTEFDTWM1R0ZzYTdTMS1iUUdBRFhYYjJORWxHVFd3TkxlOHNOd3ZOMHBEOXVaMUdRZVlEdlVXMHdPa0VmaTlSSTM4ZFNKQnFXekp3V2g3X1dOb2JrUXZXSE9GMnhlWGtsM1dGQTJ4Y0R6eEtaUVZmVkJ2U1lrZmtKOHg4OA?oc=5)
-*Google News Hindi (कूटनीति)* - May 23, 16:05 IST (iso: 2026-05-23T10:35:16+00:00)
-<!-- image: https://images.pexels.com/photos/14758773/pexels-photo-14758773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-अमेरिकी सीनेटर रूबियो ने भारत का दौरा किया। इस यात्रा ने रणनीतिक संतुलन की एक नई तस्वीर पेश की। रूबियो का भारत दौरा: रणनीतिक संतुलन की नई तस्वीर orfonline. org।
-
-### [पुलवामा हमले का मास्टरमाइंड हमजा बुरहान सुपुर्द-ए-खाक, जनाजे में शामिल हुए खूंखार आतंकी](https://www.amarujala.com/world/pulwama-attack-mastermind-hamza-burhan-laid-to-rest-dreaded-terrorists-attend-funeral-2026-05-23)
-*Amar Ujala World* - May 23, 12:41 IST (iso: 2026-05-23T07:11:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/23/palvama-hamal-ka-masataramaida-brahana_0e1a0fb8afe203061e919d0ed5229970.png?w=750&dpr=1.0 -->
-
-पुलवामा हमले का मास्टरमाइंड हमजा बुरहान पाकिस्तान में दफनाया गया। उसके जनाजे में कई खूंखार आतंकी शामिल हुए। यह घटना पाकिस्तान में आतंकवादियों की मौजूदगी को दर्शाती है। पुलवामा हमले का मास्टरमाइंड हमजा बुरहान सुपुर्द-ए-खाक, जनाजे में शामिल हुए खूंखार आतंकी।
-
----
-
-## यूरोप और रूस
-
-### [Italy की पहली महिला प्रधानमंत्री Godzilla Meloni का बारटेंडर से सत्ता तक का सफर और भारत के साथ](https://news.google.com/rss/articles/CBMipAJBVV95cUxPMXFxV2VCRy0zMkR5Z2NRNEZVY09jeW96Z2lUZFRfdWlzRS16YUJIUjNNRW5EVnlGTktaS0N4RlFvMlhFc29ueng2dGFIcU5ScEpFZG9fS282UWh3T3Y1YUxMMFRDSjlkTWVNM3oxME9FMTBlb3Yyd3huMTF2Ml80QUluZlFKMW40WUN3S0hZdEp0dGdGM0x1TVo0TmhvNGtfV25OdmkzTi15ZjJVb1NXY0FlYnd4cFdVTmctOFVreGxBalowaVFDanJ0cnZLNU13RXNqUmwzNEozTUdKU21uejhfa3N2NjltdlFkdnFXT016OFdSYzdGQ0FnR1h5Sk9EZzR2XzhOc09WaEZucEs5bWExbnVNY2tiUk5ScFowbENZZjdB0gGqAkFVX3lxTE5CTk5KMmtaLXBfVUlpYkZwNU9zNkFMZFphcURyNWpmYmpNMnFsWXVFNjM1U3JJWGdIcEZSSndiR2tjVkJrNUszTVhqaWtQYmg4eVEybl9Mc0QwSWRiaURHLTRSYmtiNDdRNVFzNVZEa3ZvTjNmc1pqT3VIQ3AyVENjX2drSGhsSkN3TUR0YnlyOUlibUQtb2VTaW85QTRGTTV3dGFBY09CTU5MRW1mOVhPX0FKZE9wYkFYMFFVc2ZmTkptM1pVTzZVZXdtV3pKbExpZkE1dWttZWJfNG01Wk85cEtFNWdEaXhETWJLRmtWOGJGOVl4c3U4bHJ1amhxRFNXVkVjY0NwbVZDRW1Eb0c0RzllcWplT2JkQWlNTzlKRG5Ic0ZacjVoc2c?oc=5)
-*Google News Hindi (कूटनीति)* - May 23, 21:29 IST (iso: 2026-05-23T15:59:02+00:00)
-<!-- image: https://images.pexels.com/photos/13025991/pexels-photo-13025991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-इटली की पहली महिला प्रधानमंत्री जॉर्जिया मेलोनी ने बारटेंडर से लेकर सत्ता तक का सफर तय किया है। वह भारत के साथ कूटनीति में सक्रिय रही हैं। Italy की पहली महिला प्रधानमंत्री Godzilla Meloni का बारटेंडर से सत्ता तक का सफर और भारत के साथ कूटनीति gnttv. com।
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [अमेरिका के खिलाफ जंग को लेकर ईरान की बड़ी तैयारी, पश्चिमी क्षेत्र के एयरपोर्ट किए बंद](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGJDempxMUFXcDRuUlN0eWR0bFFfdkVTNDNjNjE1NTMtTDd4anFSZG1FQ0Qwbm1WYTFqQmdvalBKa2ZVLVk0bzhsSUZqLTNya0dpeTR2ODJxdGRmdTJRN3dMQll6V3VRcEdZaWlGTzZGbDlNZHhTZUVpTnFPbzd2eHctallubGF0WDJvWEwyNUxhQVVBNDJ5eGtiOTBLMHhQVmNLekI4R0NkdWlqaDVITUJZR0pZbHRGNUYwNzFB0gHDAUFVX3lxTE91amZUOUhQWHdCR1dxSHcxcVRpR05DLVUzd2dHdGNHLWtYNWROeS04STFvOUs2NzRnTmtCdFF6ci1OczAyNDI3cGJFeFVHQ2c0RHo5WWlsdWVmT20xSi1iQ2tNMFA5WlVsMTFyTHg3eTlyZGpGRlFmUVZwZEhiemw4b1p3X0V2MEJxb3pRbVJDUDc0dndNdFdkUVk1Z1J6dDJsSTg5dVAtUU1kQV9LMTBiYVFJSTdpZXpzdzBmR3JOZmtuYw?oc=5)
-*Google News Hindi (विश्व समाचार)* - May 23, 20:23 IST (iso: 2026-05-23T14:53:34+00:00)
-<!-- image: https://images.pexels.com/photos/11572425/pexels-photo-11572425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-ईरान ने अमेरिका के साथ संभावित जंग की तैयारी के तहत अपने पश्चिमी क्षेत्र के हवाई अड्डों को बंद कर दिया है। यह कदम तनाव बढ़ने के संकेत दे रहा है। अमेरिका के खिलाफ जंग को लेकर ईरान की बड़ी तैयारी, पश्चिमी क्षेत्र के एयरपोर्ट किए बंद AajTak।
-
-### [क्राउडफ़ंडिंग के 34 करोड़ रुपये से केरल के एक व्यक्ति की सऊदी अरब में मौत की सज़ा कैसे माफ़ हुई](https://www.bbc.com/hindi/articles/c0r2jr21el1o?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - May 23, 20:18 IST (iso: 2026-05-23T14:48:03+00:00)
-<!-- image: https://ichef.bbci.co.uk/news/1024/branded_hindi/a661/live/52e9b4c0-56a0-11f1-b682-cf91850925ea.jpg -->
-
-सऊदी अरब में मौत की सज़ा का सामना कर रहे अब्दुल रहीम की रिहाई के लिए क्राउडफंडिंग के ज़रिए 34 करोड़ रुपये जुटाए गए. यह राशि मुख्य रूप से केरल के लोगों ने 'ब्लड मनी' के तौर पर दान की थी. अब्दुल रहीम वो शख़्स हैं जिनके लिए दुनिया भर से, ख़ासकर केरल के लोगों ने 'ब्लड मनी' के तौर पर 34 करोड़ रुपये क्राउड सोर्सिंग ऐप के ज़रिए इकट्ठा किए थे.
-
-### [अमेरिकी आक्रामकता से कमजोर हो रही कूटनीति : ईरान](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNDd3d0pNUTNFbnB1eEVUMHNpakRJMEh3N29qVFAybmpBOWZBUHZjWWdlSTd1ZElWaFlVNmRQckNyUm1sQ2RqWUZEU1ZTYnRHV0xOSzhqNXBIRU1BbzVjMVZnMm03LS01dWNpM3RBV0RwUUw5WEo3cE1vZGwwZE5DVGY3TTRZRGpQaWZjRmpGTF9CMnhJckptOVZGNFpycjNnR1ZrUlZWSVVrclVzWldZN0pwZ3oyekFicXQ2aWZhYTlKYlllMV9RV29hM0tNbTlTRmFzatIB2gFBVV95cUxOMWtRNHBSdGFUSTRkbWVVcDFtaE50V0l4UkQxdUtSZjdOZFFzSU9TamQxZHhFRXpiVWVJdTMtdjAwTlYxSlVyRHRHdFNaSFBodjZYRE55SWpxbzd0YlJ1dlNGSmdWVHdBVEVGbVNxbW4yTTFPZ3M5MjVaSm1vV0xQZDZyYnQ2UjNoWXRVVWtyb1pCQ0tQZGk2NjRYekwzSUFXcm82c0ZLU01kUENsY1VpLWZXbGdmbkVEZHJUN0NWRmIxV2ZvT08yQ1NEc08yeExOODVaLXREX2hfUQ?oc=5)
-*Google News Hindi (कूटनीति)* - May 23, 19:04 IST (iso: 2026-05-23T13:34:16+00:00)
-<!-- image: https://images.pexels.com/photos/4386444/pexels-photo-4386444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-ईरान ने कहा है कि अमेरिकी आक्रामकता कूटनीति को कमजोर कर रही है. अमेरिकी आक्रामकता से कमजोर हो रही कूटनीति: ईरान Hindustan Hindi News। अमेरिकी आक्रामकता से कमजोर हो रही कूटनीति: ईरान Hindustan Hindi News।
-
-### [समझौते की कोशिशों के बीच क्या अमेरिका, ईरान पर दोबारा हमला करने वाला था?](https://www.bbc.com/hindi/articles/c86dy8d9y1xo?at_medium=RSS&at_campaign=rss)
-*BBC Hindi* - May 23, 17:36 IST (iso: 2026-05-23T12:06:07+00:00)
-<!-- image: https://ichef.bbci.co.uk/news/1024/branded_hindi/4250/live/2f0c4a50-5690-11f1-9615-e14e530a4b81.jpg -->
-
-डोनाल्ड ट्रंप ने सोशल मीडिया पर बताया कि एक 'सरकारी काम' के कारण वह अपने बेटे डोनाल्ड ट्रंप जूनियर की शादी में ट्रंप ने सोशल मीडिया पर कहा था कि एक 'सरकारी काम' की वजह से वह शनिवार को अपने बेटे डोनाल्ड ट्रंप जूनियर की शादी में शामिल नहीं हो पाएंगे. समझौते की कोशिशों के बीच क्या अमेरिका, ईरान पर दोबारा हमला करने वाला था?
-
----
-
-## वैश्विक / बहुपक्षीय
-
-### [बातचीत और कूटनीति से हो विवादों का समाधान; मार्को रूबियो के सामने PM मोदी ने कह दी बड़ी बात](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNGE1SWZQZ2JoZm1xVVhaTGdBRXRCN092WUgxNXFiQVp4WExPTXFpTk9MbkF4dkVRcUFicHF5R1ZNOEdaNGhNOE5WSHFGVHkzQ00wcUUtXzFSMjg5TVYtS1Y4QTlkb3l4aWtVNlBLdG1Ddmk1Z2xNR3l1aVZXS1RRamZuVkZhYkVPVkZFdmRocWtYMnlnTEF4blBVcnRPZlRmVW9tR2JiRlRKYnNOSzJDMWFtRWRSMFJMSkU3ZVIzV1EtamVIclp6aDE5eHpkNzFKb3B2b3dTVFJnNC1QMWdxcNIB5gFBVV95cUxOVjE4WDFNclBjUjAwSHlrZnNlbXpWa3phVDdEbXJnMVlKSFBtVG54ZkZnR3ViMW9YbWtYZ196VV93OXBZb1lnWWg5RFB6eEo0b3A3ZVJPZHhBeW1xRTZsYk1NQ3dGXzE5eENVdE15NmtSRHh1Q3BDRm5VRGY3a2pUR3dCTHlXZ1RnUF9YS2JqT05zWVhDcDNBWDdZOHA0a1Z6NXJjR3pqSHotUUJrSVBYNFV0MHFPcnZ1S3oyT1J6OW5Rd2oxdHhkUk5kU0NBU1FQcjZRd1JNdW9odzZlZjNYVnQ3UFRUdw?oc=5)
-*Google News Hindi (कूटनीति)* - May 23, 20:23 IST (iso: 2026-05-23T14:53:11+00:00)
-<!-- image: https://images.pexels.com/photos/29543012/pexels-photo-29543012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-प्रधानमंत्री नरेंद्र मोदी ने मार्को रूबियो से मुलाकात के दौरान कहा कि विवादों का समाधान बातचीत और कूटनीति के बातचीत और कूटनीति से हो विवादों का समाधान; मार्को रूबियो के सामने PM मोदी ने कह दी बड़ी बात Navbharat Times।
 
 ---
 
