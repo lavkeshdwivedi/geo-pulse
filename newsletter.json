@@ -1,33 +1,69 @@
 {
-  "generated_at": "2026-05-26T03:39:09.476780+00:00",
-  "article_count": 49,
-  "total_unique_count": 268,
+  "generated_at": "2026-05-26T07:51:31.169598+00:00",
+  "article_count": 50,
+  "total_unique_count": 270,
   "digest": {
-    "en": "Iran's internet throttling plans and Russia's military moves in Ukraine dominate headlines. The Pope's apology for the Holy See's role in slavery offers a historical counterpoint. Resource competition between the US and China also draws attention.",
-    "hi": "बांग्लादेश में खसरे का प्रकोप और भारत-कनाडा के बीच संभावित फ्री ट्रेड एग्रीमेंट आज की प्रमुख खबरें हैं। ईरान और अमेरिका के बीच होर्मुज जलडमरूमध्य के पास तनाव के बावजूद, कतर में वार्ता जारी है।"
+    "en": "Kyrgyzstan's high-profile trial and North Korea's nuclear vows dominate headlines. Indonesia's commodity export logic and Iran's internet throttling plans offer contrasting regional signals. The AI boom's impact on real yields adds a distinct economic thread.",
+    "hi": "क्वाड देशों के बीच भारत-अमेरिका का क्रिटिकल मिनरल्स समझौता एशिया-प्रशांत में चीन पर निर्भरता कम करने के प्रयासों को दर्शाता है। यह कदम मध्य पूर्व में ईरान और अमेरिका के बीच तनाव के बीच आया है।"
   },
   "articles": [
     {
-      "title": "Jailed Kurdish leader says 'no time to lose' for Turkey peace process",
-      "url": "https://www.thehindu.com/news/international/jailed-kurdish-leader-says-no-time-to-lose-for-turkey-peace-process/article71022483.ece",
+      "title": "High-Profile Trial Highlights Bitter Political Fight In Kyrgyzstan",
+      "url": "https://www.rferl.org/a/kyrgyzstan-tashiev-coup-trial-japarov-power-struggle-rivalry/33764407.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-05-26T06:41:00+00:00",
+      "image_url": "https://gdb.rferl.org/c71bbdd6-eef3-499a-f14e-08de3c642a37_cx0_cy4_cw0_w1200_h630.jpg",
+      "summary": "Kyrgyzstan's former security chief Kamchybek Tashiev faces a coup trial The coup trial of former security chief Kamchybek Tashiev signals a major shift in Kyrgyzstan’s political system. More than a criminal case, it reflects President Sadyr Japarov’s effort to eliminate his last major rival within the ruling elite and consolidate centralized presidential power. High-Profile Trial Highlights Bitter Political Fight In Kyrgyzstan.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Perilous logic behind Indonesia’s commodity export funnel",
+      "url": "https://asiatimes.com/2026/05/perilous-logic-behind-indonesias-commodity-export-funnel/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-05-26T05:53:39+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2025/11/Indonesia-Prabowo-Subianto-.jpg",
+      "summary": "President Prabowo Subianto announced a major restructuring of Indonesia's commodity export JAKARTA – When President Prabowo Subianto rose before Indonesia’s plenary parliamentary session on May 20, 2026, few foresaw that he would deliver an address that will inevitably shift the world’s fourth most populous nation’s economic destiny. In the speech, the leader announced the most consequential restructuring of the country’s commodity export architecture in a generation [] The post Perilo.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Kim vows to ’irreversibly’ cement North Korea’s nuclear status, calls South ’most hostile’",
+      "url": "https://www.thehindu.com/news/international/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status-calls-south-most-hostile/article70778208.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-25T16:56:43+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/r1b350/article71022511.ece/alternates/LANDSCAPE_1200/EUROPEAN_COURT_OCALAN_FRA101.JPG",
-      "summary": "Jailed Kurdish leader Abdullah Ocalan stated \"no time to lose\" for a Turkey peace process. He sent the message via a delegation of pro-Kurdish DEM party lawmakers who visited him on Imrali prison island on May 24. In a message published by a delegation of lawmakers from the pro-Kurdish DEM party, who visited him on Imrali prison island on May 24, Mr.",
+      "published_at": "2026-05-26T05:21:57+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/74krji/article70778211.ece/alternates/LANDSCAPE_1200/North_Korea_04711.jpg",
+      "summary": "Kim Jong Un vowed to irreversibly cement North Korea's nuclear status. Analysts say Mr. Kim’s vilification of South Korea reflects his view that Seoul, which helped arrange his first meetings with Trump in 2018 and 2019, is no longer a useful intermediary with Washington but an obstacle to his push for a more assertive regional role. Kim vows to ’irreversibly’ cement North Korea’s nuclear status, calls South ’most hostile’.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump demands widespread sign-up to Abraham Accords as part of Iran peace deal",
+      "url": "https://www.thehindu.com/news/international/trump-demands-widespread-sign-up-to-abraham-accords-as-part-of-iran-peace-deal/article71021478.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-26T03:57:49+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/yg2qhr/article71021555.ece/alternates/LANDSCAPE_1200/Israel_UAE_Explainer_42463.jpg",
+      "summary": "Donald Trump demanded widespread sign-up to the Abraham Accords. “After all the work done by the United States to try and pull this very complex puzzle together, it should be mandatory that all of these Countries, at a minimum, simultaneously, sign onto the Abraham Accords”. Trump demands widespread sign-up to Abraham Accords as part of Iran peace deal.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Pope Leo XIV makes historic apology for Holy See's own role in legitimising slavery",
-      "url": "https://www.thehindu.com/news/international/pope-leo-xiv-makes-historic-apology-for-holy-sees-own-role-in-legitimising-slavery/article71022196.ece",
-      "source": "The Hindu (International)",
+      "title": "China’s nuclear carrier fast-forged to face down the US",
+      "url": "https://asiatimes.com/2026/05/type-004-chinas-nuclear-carrier-fast-forged-to-face-down-the-us/",
+      "source": "Asia Times",
       "sources": [],
-      "published_at": "2026-05-25T16:38:40+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/51y31j/article71022455.ece/alternates/LANDSCAPE_1200/Vatican_Pope_Encyclical_8_718.jpg",
-      "summary": "Pope Leo XIV issued an apology for the Holy See's historical role in legitimizing slavery. This marks the first time a Pope has publicly acknowledged the Church's own involvement. Past pontiffs had apologized for Christians participating in the trans-Atlantic slave trade. Leo XIV's statement specifically addresses papal bulls that granted European rulers authority to enslave non-Christians. Past Popes have apologised for Christians' involvement in the trans-Atlantic slave trade.",
-      "region": "Europe & Russia",
+      "published_at": "2026-05-26T03:46:11+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/05/China-PLA-Navy-Type-004-Carrier.jpg",
+      "summary": "China is rapidly building its fourth aircraft carrier, the Type 004. This vessel may be nuclear-powered. Its development signals a shift from regional sea denial to sustained blue-water power projection across the Indo-Pacific. A CSIS report this month detailed the rapid build. As China rapidly builds its largest and potentially first nuclear-powered aircraft carrier, the Type 004 may mark a decisive shift from regional sea denial toward sustained blue-water power projection across the Indo-Pacific.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -224,18 +260,6 @@
       "translations": {}
     },
     {
-      "title": "Taliban Welcomes Female Tourists Even As Afghan Women Face Harsher Restrictions",
-      "url": "https://www.rferl.org/a/taliban-welcomes-female-tourists-as-afghan-women-face-harsher-restrictions/33762706.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-05-23T02:58:00+00:00",
-      "image_url": "https://gdb.rferl.org/2b26ef0c-cbc4-432f-4471-08de3be37656_w1200_h630.jpg",
-      "summary": "The Taliban government is encouraging foreign tourism, with travel influencers visiting Afghanistan and sharing positive experiences. These influencers often highlight the country's scenery and the hospitality they receive. However, this outreach occurs while Afghan women face severe restrictions. They are banned from education, most forms of employment, and public life. Critics argue that the focus on tourism downplays these human rights issues.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
       "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
       "source": "The Guardian",
@@ -284,50 +308,56 @@
       "translations": {}
     },
     {
-      "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
-      "source": "UN News",
+      "title": "जब धधकते ज्वालामुखी से टकराया एस्टेरॉयड, कैमरे में कैद हुआ अद्भुत नजारा, देखकर फटी रह जाएंगी आंखें",
+      "url": "https://hindi.news18.com/world/south-asia-meteor-bumped-into-active-volcano-on-earth-video-captured-in-camera-watch-amazing-video-ws-l-10512507.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-21T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-05-2026_Gaza_Pestiside_Campaign4.jpg/image770x420cropped.jpg",
-      "summary": "A senior UN envoy warned the Security Council that delays in Gaza’s transition plan risk a permanent state of limbo. The envoy stated that continued delays will increase suffering and undermine recovery efforts. This warning comes as Gaza’s ceasefire frays and humanitarian conditions deteriorate. The transition plan was previously backed by the Security Council. As Gaza’s fragile ceasefire frays and humanitarian conditions deteriorate, a senior UN envoy warned the Security Council on Thursday that delays in implementing the Council-backed transition plan for the enclave will only increase suffering and undermine recovery.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "बांग्लादेश में बढ़ा खसरे का प्रकोप, आवामी लीग का आरोप; पूर्व यूनुस सरकार की लापरवाही से बढ़ा संकट",
-      "url": "https://www.amarujala.com/world/measles-awami-league-alleges-measles-outbreak-in-bangladesh-negligence-by-yunus-govt-exacerbated-the-crisis-2026-05-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-26T07:10:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/awami-league-alleges-measles-outbreak-in-bangladesh-negligence-by-yunus-govt-exacerbated-the-crisis_1e77575296ebe8fc865e760d3446737c.png?w=750&dpr=1.0",
-      "summary": "बांग्लादेश में खसरे का प्रकोप बढ़ गया है। आवामी लीग ने पूर्व यूनुस सरकार की लापरवाही को इसका कारण बताया है। बांग्लादेश में बढ़ा खसरे का प्रकोप, आवामी लीग का आरोप; पूर्व यूनुस सरकार की लापरवाही से बढ़ा संकट।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेश में बढ़ा खसरे का प्रकोप, आवामी लीग का आरोप; पूर्व यूनुस सरकार की लापरवाही से बढ़ा संकट",
-          "summary": "बांग्लादेश में खसरे का प्रकोप बढ़ गया है। आवामी लीग ने पूर्व यूनुस सरकार की लापरवाही को इसका कारण बताया है। बांग्लादेश में बढ़ा खसरे का प्रकोप, आवामी लीग का आरोप; पूर्व यूनुस सरकार की लापरवाही से बढ़ा संकट।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत-कनाडा के बीच हो सकता है ‘फ्री ट्रेड एग्रीमेंट’, पीएम मार्क कार्नी ने बताया ‘गेम चेंजर’",
-      "url": "https://www.patrika.com/world-news/india-and-canada-negotiating-free-trade-agreement-mark-carney-calls-it-game-changer-for-canadians-20610935",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-05-26T03:24:15+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/goyal-carney.webp",
-      "summary": "भारत और कनाडा के बीच मुक्त व्यापार समझौता हो सकता है। मार्क कार्नी के प्रधानमंत्री बनने के बाद से दोनों देशों के संबंध सुधरे हैं। यह समझौता निज्जर की हत्या के बाद आई खटास को दूर कर सकता है। भारत (India) और कनाडा (Canada) के संबंधों में मार्क कार्नी (Mark Carney) के पीएम बनने के बाद से ही सुधार हुआ है।",
+      "published_at": "2026-05-26T07:50:06+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/volcano-meteor-2026-05-7bef195b97868338dec4fcfd40dc1899-1200x800.jpg",
+      "summary": "फिलीपींस में एक सक्रिय ज्वालामुखी से एक उल्कापिंड टकराया। यह घटना कैमरे में कैद हुई। यह नजारा खतरनाक था क्योंकि दोनों ही आग के गोले थे। Meteor-Active Volcano Crash: कभी सोचा है कि जब दो टक्कर की आफत एक जगह एक-दूसरे से टकरा जाएं, तो कैसा नजारा होगा? कुछ ऐसा ही देखने को मिला फिलीपींस में, जब यहां एक एक्टिव ज्वालामुखी से आसमान से गिर रहा उल्कापिंड टकरा गया.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत-कनाडा के बीच हो सकता है ‘फ्री ट्रेड एग्रीमेंट’, पीएम मार्क कार्नी ने बताया ‘गेम चेंजर’",
-          "summary": "भारत और कनाडा के बीच मुक्त व्यापार समझौता हो सकता है। मार्क कार्नी के प्रधानमंत्री बनने के बाद से दोनों देशों के संबंध सुधरे हैं। यह समझौता निज्जर की हत्या के बाद आई खटास को दूर कर सकता है। भारत (India) और कनाडा (Canada) के संबंधों में मार्क कार्नी (Mark Carney) के पीएम बनने के बाद से ही सुधार हुआ है।",
+          "title": "जब धधकते ज्वालामुखी से टकराया एस्टेरॉयड, कैमरे में कैद हुआ अद्भुत नजारा, देखकर फटी रह जाएंगी आंखें",
+          "summary": "फिलीपींस में एक सक्रिय ज्वालामुखी से एक उल्कापिंड टकराया। यह घटना कैमरे में कैद हुई। यह नजारा खतरनाक था क्योंकि दोनों ही आग के गोले थे। Meteor-Active Volcano Crash: कभी सोचा है कि जब दो टक्कर की आफत एक जगह एक-दूसरे से टकरा जाएं, तो कैसा नजारा होगा? कुछ ऐसा ही देखने को मिला फिलीपींस में, जब यहां एक एक्टिव ज्वालामुखी से आसमान से गिर रहा उल्कापिंड टकरा गया.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आखिर क्या है क्वाड, कौन से देश हैं शामिल, भारत की भूमिका क्यों है अहम?",
+      "url": "https://hindi.news18.com/news/career/education-what-is-quad-full-form-of-quad-foreign-ministers-meeting-general-knowledge-trending-gk-quiz-what-does-quad-mean-10512294.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-26T07:34:10+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/NEET-PAPER-LEAK-92-2026-05-fbe7c872ba68c8f65c32959857284cd4-1200x800.jpg",
+      "summary": "क्वाड देशों के विदेश मंत्रियों की बैठक हो रही है। क्वाड एक समूह है जिसमें भारत, जापान, ऑस्ट्रेलिया और संयुक्त राज्य अमेरिका शामिल हैं। Quad foreign ministers, QUAD Meeting:क्‍वाड देशों के विदेश मंत्रियों की बैठक हो रही है. इस पर पूरी दुनिया की नजरें टिकी हुई हैं. जिसके बाद क्‍वाड एक बार फ‍िर चर्चा में है. ऐसे में आइए जानते हैं कि क्‍वाड क्‍या है?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आखिर क्या है क्वाड, कौन से देश हैं शामिल, भारत की भूमिका क्यों है अहम?",
+          "summary": "क्वाड देशों के विदेश मंत्रियों की बैठक हो रही है। क्वाड एक समूह है जिसमें भारत, जापान, ऑस्ट्रेलिया और संयुक्त राज्य अमेरिका शामिल हैं। Quad foreign ministers, QUAD Meeting:क्‍वाड देशों के विदेश मंत्रियों की बैठक हो रही है. इस पर पूरी दुनिया की नजरें टिकी हुई हैं. जिसके बाद क्‍वाड एक बार फ‍िर चर्चा में है. ऐसे में आइए जानते हैं कि क्‍वाड क्‍या है?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इज़रायली सेना ने मचाया कत्लेआम, लेबनान में 12 लोगों की हुई मौत",
+      "url": "https://www.patrika.com/world-news/israel-attacks-lebanese-town-mashghara-12-people-killed-20611966",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-05-26T07:33:46+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/israel-strikes-lebanon.webp",
+      "summary": "इज़राइली सेना ने दक्षिणी लेबनान के मशघारा शहर पर हमला किया। इस हमले में 12 लोगों की मौत हो गई। इज़रायल (Israel) और लेबनान (Lebanon) के आतंकी संगठन हिज़बुल्लाह (Hezbollah) के बीच लंबे समय से युद्ध चल रहा है। 2 मार्च से इज़रायली सेना ने लेबनान पर हमले बढ़ा दिए, जिससे देश में तबाही मच गई है। इज़रायली सेना साउथ लेबनान में लगातार हमले कर रही है, जिससे जान-माल का भारी नुकसान हो रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इज़रायली सेना ने मचाया कत्लेआम, लेबनान में 12 लोगों की हुई मौत",
+          "summary": "इज़राइली सेना ने दक्षिणी लेबनान के मशघारा शहर पर हमला किया। इस हमले में 12 लोगों की मौत हो गई। इज़रायल (Israel) और लेबनान (Lebanon) के आतंकी संगठन हिज़बुल्लाह (Hezbollah) के बीच लंबे समय से युद्ध चल रहा है। 2 मार्च से इज़रायली सेना ने लेबनान पर हमले बढ़ा दिए, जिससे देश में तबाही मच गई है। इज़रायली सेना साउथ लेबनान में लगातार हमले कर रही है, जिससे जान-माल का भारी नुकसान हो रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -336,7 +366,7 @@
       "url": "https://hindi.news18.com/world/middle-east-iran-us-tension-news-live-update-middle-east-conflict-us-strikes-near-strait-of-hormuz-bandar-abbas-donald-trump-2-livenews-10511389.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-26T03:18:56+00:00",
+      "published_at": "2026-05-26T07:26:21+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/donald-trump-28-2026-05-fae6a371efd6065360d7131dda824ad0-1200x800.jpg",
       "summary": "अमेरिका ने दक्षिणी ईरान में मिसाइल ठिकानों पर हमला किया है। यह हमला कतर में ईरान के साथ युद्धविराम वार्ता के बीच हुआ। ईरान के वरिष्ठ नेता दोहा में फ्रोजेन असेट्स और संघर्ष रोकने पर चर्चा कर रहे हैं। US Strikes on Southern Iran: अमेरिका ने दक्षिणी ईरान में मिसाइल ठिकानों और नौसैनिक जहाजों पर आत्मरक्षा के तहत हमला किया है.",
       "region": "Middle East & Africa",
@@ -350,398 +380,380 @@
       }
     },
     {
-      "title": "नहीं बदला बांग्लादेश, भारत का न्यौता ठुकरा चीन जाएंगे तारिक रहमान, क्यों दिल्ली से लिए सिरदर्द",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-pm-tarique-rahman-set-for-first-foreighn-visit-to-china-not-india-10511555.html",
-      "source": "News18 Hindi (World)",
+      "title": "यूजीसी नेट जून परीक्षा के लिए खुली आवेदन सुधार विंडो, इन विवरणों में कर सकते हैं सुधार",
+      "url": "https://www.amarujala.com/education/ugc-net-june-2026-correction-window-opens-for-applicants-check-details-here-2026-05-26",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-26T03:16:39+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/modi-rehman-2-2026-05-de78882b4f2383f0d7cbeda9ba5f428e-1200x800.jpg",
-      "summary": "बांग्लादेश के प्रधानमंत्री तारिक रहमान जून में अपनी पहली विदेश यात्रा पर चीन जाएंगे। उन्होंने भारत के निमंत्रण को अस्वीकार कर दिया है। यह निर्णय नई दिल्ली के लिए चिंता का विषय है। Bangladesh-China Relation: बांग्लादेश के पीएम तारिक रहमान अपनी पहली विदेश यात्रा के तौर पर जून में चीन जाएंगे. भारत की ओर से भी उन्हें निमंत्रण मिला था, लेकिन शेख हसीना के मुद्दे की वजह से उन्होंने चीन को प्राथमिकता दी थी, जो निश्चित तौर पर नई दिल्ली के लिए चिंता का विषय है.",
+      "published_at": "2026-05-26T07:25:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/01/new-year-2025-january-exams_ae751b444dfcd0b330302c59b554b5a9.jpeg?w=750&dpr=1.0",
+      "summary": "यूजीसी नेट जून परीक्षा 2026 के लिए आवेदन सुधार विंडो खोली गई है। उम्मीदवार अपने आवेदन फॉर्म में आवश्यक सुधार कर सकते हैं। UGC NET June Exam 2026: यूजीसी नेट जून परीक्षा 2026 के लिए आवेदन सुधार विंडो खोल दी गई है। उम्मीदवार निर्धारित समय के भीतर अपने आवेदन फॉर्म में आवश्यक सुधार कर सकते हैं। एनटीए ने यह सुविधा अभ्यर्थियों की सुविधा के लिए शुरू की है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूजीसी नेट जून परीक्षा के लिए खुली आवेदन सुधार विंडो, इन विवरणों में कर सकते हैं सुधार",
+          "summary": "यूजीसी नेट जून परीक्षा 2026 के लिए आवेदन सुधार विंडो खोली गई है। उम्मीदवार अपने आवेदन फॉर्म में आवश्यक सुधार कर सकते हैं। UGC NET June Exam 2026: यूजीसी नेट जून परीक्षा 2026 के लिए आवेदन सुधार विंडो खोल दी गई है। उम्मीदवार निर्धारित समय के भीतर अपने आवेदन फॉर्म में आवश्यक सुधार कर सकते हैं। एनटीए ने यह सुविधा अभ्यर्थियों की सुविधा के लिए शुरू की है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "घर बैठे गाड़ी का चालान कैसे भरें?",
+      "url": "https://www.amarujala.com/web-stories/utility/how-to-pay-car-or-bike-challan-online-kaise-bhare-2026-05-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-26T07:24:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/17/challan_b2d33992d04dfe39c19efaf12592a9e7.jpeg?w=750&dpr=1.0",
+      "summary": "आप अपनी गाड़ी का चालान घर बैठे ऑनलाइन भर सकते हैं। अगर आपको भी अपनी गाड़ी का चालान भरना है तो आप इसे घर बैठे ऑनलाइन भर सकते हैं। घर बैठे गाड़ी का चालान कैसे भरें?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "घर बैठे गाड़ी का चालान कैसे भरें?",
+          "summary": "आप अपनी गाड़ी का चालान घर बैठे ऑनलाइन भर सकते हैं। अगर आपको भी अपनी गाड़ी का चालान भरना है तो आप इसे घर बैठे ऑनलाइन भर सकते हैं। घर बैठे गाड़ी का चालान कैसे भरें?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "एयरटेल 'प्रायोरिटी पोस्टपेड' पर सवाल: कंपनी ने DoT को दी सफाई, कहा- 'प्रीपेड यूजर्स को नहीं होगा",
+      "url": "https://www.amarujala.com/technology/tech-diary/airtel-priority-postpaid-defense-dot-panel-net-neutrality-prepaid-users-hindi-2026-05-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-26T07:23:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/airtel-priority-postpaid_2eaf7940536360d065cbac157c8b9cfe.jpeg?w=750&dpr=1.0",
+      "summary": "भारती एयरटेल ने दूरसंचार विभाग को स्पष्ट किया कि उसकी 'प्रायोरिटी पोस्टपेड' सेवा नेट न्यूट्रैलिटी का उल्लंघन नहीं करती है। यह सेवा 5G नेटवर्क स्लाइसिंग पर आधारित है और प्रीपेड उपयोगकर्ताओं को प्रभावित नहीं करेगी। Airtel Priority Postpaid: भारती एयरटेल ने अपनी नई 'प्रायोरिटी पोस्टपेड' सर्विस का दूरसंचार विभाग (DoT) के पैनल के सामने बचाव किया है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "नहीं बदला बांग्लादेश, भारत का न्यौता ठुकरा चीन जाएंगे तारिक रहमान, क्यों दिल्ली से लिए सिरदर्द",
-          "summary": "बांग्लादेश के प्रधानमंत्री तारिक रहमान जून में अपनी पहली विदेश यात्रा पर चीन जाएंगे। उन्होंने भारत के निमंत्रण को अस्वीकार कर दिया है। यह निर्णय नई दिल्ली के लिए चिंता का विषय है। Bangladesh-China Relation: बांग्लादेश के पीएम तारिक रहमान अपनी पहली विदेश यात्रा के तौर पर जून में चीन जाएंगे. भारत की ओर से भी उन्हें निमंत्रण मिला था, लेकिन शेख हसीना के मुद्दे की वजह से उन्होंने चीन को प्राथमिकता दी थी, जो निश्चित तौर पर नई दिल्ली के लिए चिंता का विषय है.",
+          "title": "एयरटेल 'प्रायोरिटी पोस्टपेड' पर सवाल: कंपनी ने DoT को दी सफाई, कहा- 'प्रीपेड यूजर्स को नहीं होगा",
+          "summary": "भारती एयरटेल ने दूरसंचार विभाग को स्पष्ट किया कि उसकी 'प्रायोरिटी पोस्टपेड' सेवा नेट न्यूट्रैलिटी का उल्लंघन नहीं करती है। यह सेवा 5G नेटवर्क स्लाइसिंग पर आधारित है और प्रीपेड उपयोगकर्ताओं को प्रभावित नहीं करेगी। Airtel Priority Postpaid: भारती एयरटेल ने अपनी नई 'प्रायोरिटी पोस्टपेड' सर्विस का दूरसंचार विभाग (DoT) के पैनल के सामने बचाव किया है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "बठिंडा में मतदान से पहले फायरिंग, आजाद उम्मीदवार ने लगाया आरोप; कतारों में लगे मतदाता",
+      "title": "AIADMK के चौथे विधायक का इस्तीफा, पलानीस्वामी गुट बोला- विधायकों का इस्तीफा ना मंजूर करें स्पीकर",
+      "url": "https://www.amarujala.com/india-news/tamil-nadu-aiadmk-rift-leader-resigns-palaniswami-faction-petition-tn-assembly-speaker-hindi-news-updates-2026-05-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-26T07:22:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/eaaiiedaemaka-ka-eka-oura-vathhayaka-na-isatafa-thaya_8820137914b0baa5cd1c8b39adae84aa.png?w=750&dpr=1.0",
+      "summary": "अन्नाद्रमुक के चौथे विधायक ने इस्तीफा दे दिया है। ई. के. पलानीस्वामी गुट ने विधानसभा अध्यक्ष से विधायकों के इस्तीफे स्वीकार न करने का अनुरोध किया है। AIADMK के चौथे विधायक का इस्तीफा, पलानीस्वामी गुट बोला- विधायकों का इस्तीफा ना मंजूर करें स्पीकर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "AIADMK के चौथे विधायक का इस्तीफा, पलानीस्वामी गुट बोला- विधायकों का इस्तीफा ना मंजूर करें स्पीकर",
+          "summary": "अन्नाद्रमुक के चौथे विधायक ने इस्तीफा दे दिया है। ई. के. पलानीस्वामी गुट ने विधानसभा अध्यक्ष से विधायकों के इस्तीफे स्वीकार न करने का अनुरोध किया है। AIADMK के चौथे विधायक का इस्तीफा, पलानीस्वामी गुट बोला- विधायकों का इस्तीफा ना मंजूर करें स्पीकर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सीएम के पूर्व ओएसडी को हिरासत में लिया, दोपहर 12 बजे तक 31.6 फीसदी मतदान",
       "url": "https://www.amarujala.com/live/punjab/chandigarh-punjab/punjab-civic-body-election-2026-polling-today-live-update-in-hindi-2026-05-26",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-26T03:15:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/election_1aa7dfed843197291f40b928d63052ea.jpeg?w=750&dpr=1.0",
-      "summary": "पंजाब के बठिंडा में नगर निकाय चुनावों से पहले फायरिंग की घटना हुई है। एक आजाद उम्मीदवार ने आरोप लगाया है। मतदाता कतारों में खड़े होकर मतदान का इंतजार कर रहे हैं। पंजाब के 105 नगर निकायों के लिए आज मतदान है। बठिंडा में मतदान से पहले फायरिंग, आजाद उम्मीदवार ने लगाया आरोप; कतारों में लगे मतदाता।",
+      "published_at": "2026-05-26T07:22:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/voting-election_63472182376b56c28aa602284d6f0449.jpeg?w=750&dpr=1.0",
+      "summary": "पंजाब के बठिंडा में नगर निकाय चुनावों से पहले फायरिंग की घटना हुई है। एक आजाद उम्मीदवार ने आरोप लगाया है। मतदाता कतारों में खड़े होकर मतदान का इंतजार कर रहे हैं। पंजाब के 105 नगर निकायों के लिए आज मतदान है। बठिंडा में मतदान से पहले फायरिंग, आजाद उम्मीदवार ने लगाया आरोप; कतारों में लगे मतदाता। सीएम के पूर्व ओएसडी को हिरासत में लिया, दोपहर 12 बजे तक 31.6 फीसदी मतदान।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बठिंडा में मतदान से पहले फायरिंग, आजाद उम्मीदवार ने लगाया आरोप; कतारों में लगे मतदाता",
-          "summary": "पंजाब के बठिंडा में नगर निकाय चुनावों से पहले फायरिंग की घटना हुई है। एक आजाद उम्मीदवार ने आरोप लगाया है। मतदाता कतारों में खड़े होकर मतदान का इंतजार कर रहे हैं। पंजाब के 105 नगर निकायों के लिए आज मतदान है। बठिंडा में मतदान से पहले फायरिंग, आजाद उम्मीदवार ने लगाया आरोप; कतारों में लगे मतदाता।",
+          "title": "सीएम के पूर्व ओएसडी को हिरासत में लिया, दोपहर 12 बजे तक 31.6 फीसदी मतदान",
+          "summary": "पंजाब के बठिंडा में नगर निकाय चुनावों से पहले फायरिंग की घटना हुई है। एक आजाद उम्मीदवार ने आरोप लगाया है। मतदाता कतारों में खड़े होकर मतदान का इंतजार कर रहे हैं। पंजाब के 105 नगर निकायों के लिए आज मतदान है। बठिंडा में मतदान से पहले फायरिंग, आजाद उम्मीदवार ने लगाया आरोप; कतारों में लगे मतदाता। सीएम के पूर्व ओएसडी को हिरासत में लिया, दोपहर 12 बजे तक 31.6 फीसदी मतदान।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "गुजरात और आरसीबी के बीच पहला क्वालिफायर, कब-कहां और कैसे देखें मुकाबला? जानिए",
-      "url": "https://www.amarujala.com/sports/rcb-vs-gt-ipl-2026-play-off-live-streaming-when-where-and-how-to-watch-ipl-match-online-2026-05-25",
-      "source": "Amar Ujala Breaking",
+      "title": "पाकिस्तानी क्रिकेटर का किरदार निभाएंगे फरहान अख्तर! ‘डॉन 3’ विवाद के बीच शुरू करेंगे अगली फिल्म पर",
+      "url": "https://www.amarujala.com/entertainment/bollywood/farhan-akhtar-can-play-pakistani-cricketer-in-ashutosh-gowariker-film-lala-amarnath-biopic-2026-05-26",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-26T03:11:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/25/gajarata-bnama-aarasab_2b5c4dfd151c17da4a1c0f21e6fbc699.jpeg?w=750&dpr=1.0",
-      "summary": "आईपीएल 2026 का पहला क्वालिफायर रॉयल चैलेंजर्स बेंगलुरु और गुजरात टाइटंस के बीच धर्मशाला में खेला जाएगा। यह मुकाबला मंगलवार को हिमाचल प्रदेश क्रिकेट एसोसिएशन स्टेडियम में होगा। आईपीएल 2026 का क्वालिफायर-1 मुकाबला रॉयल चैलेंजर्स बेंगलुरु (आरसीबी) और गुजरात टाइटंस (जीटी) के बीच मंगलवार को खेला जाना है। इस मुकाबले की मेजबानी धर्मशाला का हिमाचल प्रदरेश क्रिकेट एसोसिएशन क्रिकेट स्टेडियम करेगा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गुजरात और आरसीबी के बीच पहला क्वालिफायर, कब-कहां और कैसे देखें मुकाबला? जानिए",
-          "summary": "आईपीएल 2026 का पहला क्वालिफायर रॉयल चैलेंजर्स बेंगलुरु और गुजरात टाइटंस के बीच धर्मशाला में खेला जाएगा। यह मुकाबला मंगलवार को हिमाचल प्रदेश क्रिकेट एसोसिएशन स्टेडियम में होगा। आईपीएल 2026 का क्वालिफायर-1 मुकाबला रॉयल चैलेंजर्स बेंगलुरु (आरसीबी) और गुजरात टाइटंस (जीटी) के बीच मंगलवार को खेला जाना है। इस मुकाबले की मेजबानी धर्मशाला का हिमाचल प्रदरेश क्रिकेट एसोसिएशन क्रिकेट स्टेडियम करेगा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "लखनऊ-आगरा एक्सप्रेसवे पर पलटी बस, छह की मौत और 24 यात्री घायल",
-      "url": "https://www.amarujala.com/uttar-pradesh/kanpur/big-road-accident-in-unnao-of-up-many-people-died-bus-overturns-on-lucknow-agra-expressway-2026-05-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-26T02:54:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/unnao-bus-accident_f10b20b4db94e3268d6f47f7cac1c1ec.jpeg?w=750&dpr=1.0",
-      "summary": "लखनऊ-आगरा एक्सप्रेसवे पर एक बस पलट गई। इस हादसे में छह यात्रियों की मौत हो गई। 24 अन्य घायल हुए हैं। पुलिस ने शवों को कब्जे में ले लिया है। घायलों को अस्पताल में भर्ती कराया गया है। उत्तर प्रदेश में बड़ा सड़क हादसा हुआ है। हादसे में छह लोगों की मौत हो गई है। जबकि 24 यात्री घायल हुए हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लखनऊ-आगरा एक्सप्रेसवे पर पलटी बस, छह की मौत और 24 यात्री घायल",
-          "summary": "लखनऊ-आगरा एक्सप्रेसवे पर एक बस पलट गई। इस हादसे में छह यात्रियों की मौत हो गई। 24 अन्य घायल हुए हैं। पुलिस ने शवों को कब्जे में ले लिया है। घायलों को अस्पताल में भर्ती कराया गया है। उत्तर प्रदेश में बड़ा सड़क हादसा हुआ है। हादसे में छह लोगों की मौत हो गई है। जबकि 24 यात्री घायल हुए हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "एशिया से यूरोप तक गर्मी की मार: ब्रिटेन, फ्रांस और स्पेन जैसे देशों में लू का कहर; किस देश में",
-      "url": "https://www.amarujala.com/world/heatwaves-sweep-across-asia-and-europe-what-are-the-temperatures-in-each-country-2026-05-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-26T02:46:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/kaii-thasha-ma-bhashhanae-garama-ka-kahara_3c78208fc08f5eb8b71c8aaed0721185.jpeg?w=750&dpr=1.0",
-      "summary": "ब्रिटेन, फ्रांस और स्पेन सहित कई यूरोपीय देशों में भीषण गर्मी पड़ रही है। एशिया में भी तापमान बढ़ रहा है। इन क्षेत्रों में लू का प्रकोप जारी है। एशिया से यूरोप तक गर्मी की मार: ब्रिटेन, फ्रांस और स्पेन जैसे देशों में लू का कहर; किस देश में कितना तापमान?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एशिया से यूरोप तक गर्मी की मार: ब्रिटेन, फ्रांस और स्पेन जैसे देशों में लू का कहर; किस देश में",
-          "summary": "ब्रिटेन, फ्रांस और स्पेन सहित कई यूरोपीय देशों में भीषण गर्मी पड़ रही है। एशिया में भी तापमान बढ़ रहा है। इन क्षेत्रों में लू का प्रकोप जारी है। एशिया से यूरोप तक गर्मी की मार: ब्रिटेन, फ्रांस और स्पेन जैसे देशों में लू का कहर; किस देश में कितना तापमान?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "दिव्यांग सिक्योरिटी गार्ड को एसयूवी से कुचल तड़पा-तड़पाकर मार डाला, पुलिस ने आरोपियों को पकड़ा",
-      "url": "https://www.amarujala.com/delhi-ncr/peeragarhi-murder-case-of-60-yrs-old-security-guard-vijender-solved-2026-05-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-26T02:44:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/delhi-murder_505f810c4589f36fa86076a8a829aaf6.png?w=750&dpr=1.0",
-      "summary": "दिल्ली के पीरागढ़ी गांव में 60 वर्षीय दिव्यांग सिक्योरिटी गार्ड विजेंद्र की एसयूवी से कुचलकर हत्या कर दी गई थी। दिल्ली पुलिस ने इस मामले में आरोपियों को गिरफ्तार कर लिया है। दिल्ली के पश्चिम विहार थाने स्थित पीरागढ़ी गांव में पीरागढ़ी में 60 साल के सिक्योरिटी गार्ड विजेंद्र की हत्या का मामला दिल्ली पुलिस ने सुलझा लिया है। दिव्यांग सिक्योरिटी गार्ड को एसयूवी से कुचल तड़पा-तड़पाकर मार डाला, पुलिस ने आरोपियों को पकड़ा।",
+      "published_at": "2026-05-26T07:22:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/aashatashha-gavarakara-farahana-akhatara_6021e0b9ce399bbefe21d5a169bd0335.jpeg?w=750&dpr=1.0",
+      "summary": "फरहान अख्तर 'डॉन 3' की चर्चाओं के बीच आशुतोष गोवारिकर की अगली फिल्म में पाकिस्तानी क्रिकेटर की भूमिका निभाएंगे। 'डॉन 3' के लेकर चल रही सुर्खियों के बीच फरहान अख्तर का नाम सुर्खियों में चल रहा है। मगर अब फरहान से जुड़ी एक और खबर सामने आई। वह जल्द ही आशुतोष गोवारिकर की फिल्म में नजर आ सकते हैं।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दिव्यांग सिक्योरिटी गार्ड को एसयूवी से कुचल तड़पा-तड़पाकर मार डाला, पुलिस ने आरोपियों को पकड़ा",
-          "summary": "दिल्ली के पीरागढ़ी गांव में 60 वर्षीय दिव्यांग सिक्योरिटी गार्ड विजेंद्र की एसयूवी से कुचलकर हत्या कर दी गई थी। दिल्ली पुलिस ने इस मामले में आरोपियों को गिरफ्तार कर लिया है। दिल्ली के पश्चिम विहार थाने स्थित पीरागढ़ी गांव में पीरागढ़ी में 60 साल के सिक्योरिटी गार्ड विजेंद्र की हत्या का मामला दिल्ली पुलिस ने सुलझा लिया है। दिव्यांग सिक्योरिटी गार्ड को एसयूवी से कुचल तड़पा-तड़पाकर मार डाला, पुलिस ने आरोपियों को पकड़ा।",
+          "title": "पाकिस्तानी क्रिकेटर का किरदार निभाएंगे फरहान अख्तर! ‘डॉन 3’ विवाद के बीच शुरू करेंगे अगली फिल्म पर",
+          "summary": "फरहान अख्तर 'डॉन 3' की चर्चाओं के बीच आशुतोष गोवारिकर की अगली फिल्म में पाकिस्तानी क्रिकेटर की भूमिका निभाएंगे। 'डॉन 3' के लेकर चल रही सुर्खियों के बीच फरहान अख्तर का नाम सुर्खियों में चल रहा है। मगर अब फरहान से जुड़ी एक और खबर सामने आई। वह जल्द ही आशुतोष गोवारिकर की फिल्म में नजर आ सकते हैं।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "क्या मृत व्यक्ति के एटीएम कार्ड से पैसे निकालने पर जेल हो सकती है? नियम जान लें",
-      "url": "https://www.amarujala.com/photo-gallery/utility/can-i-not-withdraw-money-from-a-deceased-person-s-bank-account-or-atm-2026-05-25",
+      "title": "चीन पर निर्भरता कम करने की दिशा में भारत-अमेरिका का बड़ा कदम, क्रिटिकल मिनरल्स पर हुआ समझौता",
+      "url": "https://www.patrika.com/world-news/india-us-landmark-deal-critical-minerals-rare-earth-supply-chains-20611859",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-05-26T07:18:10+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/Marco-Rubio-and-S-Jaishankar.webp",
+      "summary": "भारत और अमेरिका ने महत्वपूर्ण खनिजों और दुर्लभ पृथ्वी तत्वों की आपूर्ति श्रृंखला को सुरक्षित करने के लिए एक समझौता किया है। यह कदम चीन पर निर्भरता कम करेगा। India-US critical minerals: भारत और अमेरिका ने मिलकर क्रिटिकल मिनरल्स और रेयर अर्थ एलिमेंट्स की सप्लाई, खनन और प्रोसेसिंग को सुरक्षित करने के लिए एक अहम समझौता किया है। इस कदम को चीन पर निर्भरता कम करने और सप्लाई चेन को मजबूत बनाने की दिशा में एक बड़ा रणनीतिक प्रयास माना जा रहा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन पर निर्भरता कम करने की दिशा में भारत-अमेरिका का बड़ा कदम, क्रिटिकल मिनरल्स पर हुआ समझौता",
+          "summary": "भारत और अमेरिका ने महत्वपूर्ण खनिजों और दुर्लभ पृथ्वी तत्वों की आपूर्ति श्रृंखला को सुरक्षित करने के लिए एक समझौता किया है। यह कदम चीन पर निर्भरता कम करेगा। India-US critical minerals: भारत और अमेरिका ने मिलकर क्रिटिकल मिनरल्स और रेयर अर्थ एलिमेंट्स की सप्लाई, खनन और प्रोसेसिंग को सुरक्षित करने के लिए एक अहम समझौता किया है। इस कदम को चीन पर निर्भरता कम करने और सप्लाई चेन को मजबूत बनाने की दिशा में एक बड़ा रणनीतिक प्रयास माना जा रहा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "27 या 28 मई कब रखा जाएगा अधिकमास का पहला प्रदोष व्रत? जानें तिथि और पूजा विधि",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/first-pradosh-vrat-adhik-maas-2026-date-and-benefits-in-hindi-2026-05-26",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-26T02:40:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/25/kaya-mata-vayakata-ka-etaema-sa-pasa-naha-nakalna-cahae_905e1c7d8949540c8dc6079aa0624825.jpeg?w=750&dpr=1.0",
-      "summary": "किसी मृत व्यक्ति के एटीएम कार्ड से पैसे निकालने पर कानूनी कार्रवाई हो सकती है। बैंक को सूचित किए बिना ऐसे पैसे निकालना आपको मुश्किल में डाल सकता है। अगर आप भी बिना बैंक को जानकारी दिए अपने किसी मृत व्यक्ति के बैंक खाते से पैसे निकालते हैं, तो आप दिक्कत में पड़ सकते हैं। इसके लिए बैंक के नियम पहले से तय है।",
+      "published_at": "2026-05-26T07:14:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/12/bhadrapad-pradosh-vrat_fcfc1523661fe84b1eb812e38684b32f.jpeg?w=750&dpr=1.0",
+      "summary": "अधिकमास का पहला प्रदोष व्रत 27 या 28 मई को रखा जाएगा। यह व्रत भगवान शिव को समर्पित है। Pradosh Vrat Adhik Maas 2026: प्रदोष व्रत भगवान शिव को समर्पित है। कहा जाता है कि, इस दिन श्रद्धा भाव से शिव पूजा करने पर करियर, शिक्षा, विवाह और आर्थिक जीवन से जुड़ी परेशानियों में राहत मिल सकती है। 27 या 28 मई कब रखा जाएगा अधिकमास का पहला प्रदोष व्रत?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्या मृत व्यक्ति के एटीएम कार्ड से पैसे निकालने पर जेल हो सकती है? नियम जान लें",
-          "summary": "किसी मृत व्यक्ति के एटीएम कार्ड से पैसे निकालने पर कानूनी कार्रवाई हो सकती है। बैंक को सूचित किए बिना ऐसे पैसे निकालना आपको मुश्किल में डाल सकता है। अगर आप भी बिना बैंक को जानकारी दिए अपने किसी मृत व्यक्ति के बैंक खाते से पैसे निकालते हैं, तो आप दिक्कत में पड़ सकते हैं। इसके लिए बैंक के नियम पहले से तय है।",
+          "title": "27 या 28 मई कब रखा जाएगा अधिकमास का पहला प्रदोष व्रत? जानें तिथि और पूजा विधि",
+          "summary": "अधिकमास का पहला प्रदोष व्रत 27 या 28 मई को रखा जाएगा। यह व्रत भगवान शिव को समर्पित है। Pradosh Vrat Adhik Maas 2026: प्रदोष व्रत भगवान शिव को समर्पित है। कहा जाता है कि, इस दिन श्रद्धा भाव से शिव पूजा करने पर करियर, शिक्षा, विवाह और आर्थिक जीवन से जुड़ी परेशानियों में राहत मिल सकती है। 27 या 28 मई कब रखा जाएगा अधिकमास का पहला प्रदोष व्रत?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "वीकएंड के बाद भी बॉक्स ऑफिस पर 'दृश्यम 3' का जलवा बरकरार, जानें 'चांद मेरा दिल' समेत बाकी फिल्मों",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/chand-mera-dil-drishyam-3-pati-patni-aur-woh-do-karuppu-box-office-collection-2026-05-26",
-      "source": "Amar Ujala National",
+      "title": "विधानसभा के पहले ही सत्र में UCC बिल पेश, CM सरमा बोले- महिलाओं के अधिकारों की रक्षा हमारी",
+      "url": "https://www.amarujala.com/india-news/ucc-bill-introduced-in-the-first-assembly-session-protecting-women-s-rights-is-our-priority-cm-sarma-2026-05-26",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-26T02:39:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/bkasa-oifasa-kalkashana_11dc130679a7caae307e73fcb56e9e62.jpeg?w=750&dpr=1.0",
-      "summary": "'दृश्यम 3' और 'करुप्पु' जैसी दक्षिण भारतीय फिल्में बॉक्स ऑफिस पर अच्छा प्रदर्शन कर रही हैं। ये फिल्में 'चांद मेरा दिल' और 'पति पत्नी और वो दो' जैसी बॉलीवुड फिल्मों से आगे निकल गई हैं। सिनेमाघरों में इन दिनों साउथ के साथ बॉलीवुड फिल्में लगी हैं। बॉलीवुड फिल्मों 'चांद मेरा दिल' और 'पति पत्नी और वो दो' पर साउथ की 'दृश्यम 3' और 'करुप्पु' भारी पड़ रही हैं।",
+      "published_at": "2026-05-26T07:12:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/asama-ka-makhayamatara-hamata-bsava-sarama_ead5212d414e940b0ad6e7a73aae0098.jpeg?w=750&dpr=1.0",
+      "summary": "असम विधानसभा ने पहले सत्र में समान नागरिक संहिता (UCC) विधेयक पेश किया। मुख्यमंत्री हिमंत बिस्वा सरमा ने कहा कि यह विधेयक महिलाओं के अधिकारों की रक्षा करेगा। यह विधेयक राज्य में विवाह, तलाक और विरासत से संबंधित कानूनों को सुसंगत बनाने का प्रयास करता है। Assam: विधानसभा के पहले ही सत्र में UCC बिल पेश, CM सरमा बोले- महिलाओं के अधिकारों की रक्षा हमारी प्राथमिकता।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वीकएंड के बाद भी बॉक्स ऑफिस पर 'दृश्यम 3' का जलवा बरकरार, जानें 'चांद मेरा दिल' समेत बाकी फिल्मों",
-          "summary": "'दृश्यम 3' और 'करुप्पु' जैसी दक्षिण भारतीय फिल्में बॉक्स ऑफिस पर अच्छा प्रदर्शन कर रही हैं। ये फिल्में 'चांद मेरा दिल' और 'पति पत्नी और वो दो' जैसी बॉलीवुड फिल्मों से आगे निकल गई हैं। सिनेमाघरों में इन दिनों साउथ के साथ बॉलीवुड फिल्में लगी हैं। बॉलीवुड फिल्मों 'चांद मेरा दिल' और 'पति पत्नी और वो दो' पर साउथ की 'दृश्यम 3' और 'करुप्पु' भारी पड़ रही हैं।",
+          "title": "विधानसभा के पहले ही सत्र में UCC बिल पेश, CM सरमा बोले- महिलाओं के अधिकारों की रक्षा हमारी",
+          "summary": "असम विधानसभा ने पहले सत्र में समान नागरिक संहिता (UCC) विधेयक पेश किया। मुख्यमंत्री हिमंत बिस्वा सरमा ने कहा कि यह विधेयक महिलाओं के अधिकारों की रक्षा करेगा। यह विधेयक राज्य में विवाह, तलाक और विरासत से संबंधित कानूनों को सुसंगत बनाने का प्रयास करता है। Assam: विधानसभा के पहले ही सत्र में UCC बिल पेश, CM सरमा बोले- महिलाओं के अधिकारों की रक्षा हमारी प्राथमिकता।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "ईरान-अमेरिका डील से बाहर हुआ पाकिस्तान, नए मुस्लिम देश की एंट्री, हाथ से गया जंग बंद कराने का मेडल",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-ceasefire-talks-qatar-emerges-as-key-mediator-in-frozen-assets-dispute-strait-of-hormuz-10511490.html",
+      "title": "महिला के मायके दोस्तों संग गया था युवक, विवाद के बाद हत्या; बैग में ब्लाउज के साथ मिला ये सामान",
+      "url": "https://www.amarujala.com/photo-gallery/gorakhpur/young-man-murdered-in-gorakhpur-body-stuffed-in-sack-and-thrown-into-river-he-was-having-an-affair-with-woman-2026-05-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-26T07:12:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/gorakhpur-murder_cdb438bf17c7dac0834a5f722e6ce4b3.jpeg?w=750&dpr=1.0",
+      "summary": "गोरखपुर के गीडा थाना इलाके में एक युवक का शव आमी नदी में मिला। युवक महिला के मायके दोस्तों के साथ गया था। विवाद के बाद उसकी हत्या कर दी गई। शव के पास से एक ब्लाउज सहित अन्य सामान बरामद हुआ। गोरखपुर के गीडा थाना इलाके के अड़िलापार गांव स्थित सेमरहवां बाबा स्थान के पास सोमवार सुबह आमी नदी में युवक का शव मिलने से सनसनी फैल गई।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महिला के मायके दोस्तों संग गया था युवक, विवाद के बाद हत्या; बैग में ब्लाउज के साथ मिला ये सामान",
+          "summary": "गोरखपुर के गीडा थाना इलाके में एक युवक का शव आमी नदी में मिला। युवक महिला के मायके दोस्तों के साथ गया था। विवाद के बाद उसकी हत्या कर दी गई। शव के पास से एक ब्लाउज सहित अन्य सामान बरामद हुआ। गोरखपुर के गीडा थाना इलाके के अड़िलापार गांव स्थित सेमरहवां बाबा स्थान के पास सोमवार सुबह आमी नदी में युवक का शव मिलने से सनसनी फैल गई।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "त्विषा की सास गिरिबाला के घर पहुंची CBI, समर्थ का रिमांड भी मांग सकती है; जल्द खुलेगा राज",
+      "url": "https://www.amarujala.com/madhya-pradesh/twisha-sharma-case-cbi-investigation-bhopal-samarth-singh-giribala-singh-mp-bhopal-news-2026-05-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-26T07:08:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/tavashha-sharama-kasa-ka-sabaaii-jaca-shanpr_ded2ee6f73fdbefc5f1914ec19ae4398.jpeg?w=750&dpr=1.0",
+      "summary": "सीबीआई ने भोपाल के त्विषा शर्मा मामले की जांच अपने हाथ में ले ली है। एजेंसी ने त्विषा की सास गिरिबाला सिंह और समर्थ सिंह के खिलाफ मामला दर्ज किया है। सीबीआई समर्थ सिंह के लिए रिमांड की मांग कर सकती है। भोपाल के चर्चित त्विषा शर्मा मामले की जांच अब सीबीआई ने संभाल ली है। सीबीआई ने गिरिबाला सिंह और समर्थ सिंह के खिलाफ मामला दर्ज कर जांच शुरू कर दी है, जबकि परिजनों ने सीडीआर और सीसीटीवी फुटेज सुरक्षित रखने की मांग अदालत से की है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "त्विषा की सास गिरिबाला के घर पहुंची CBI, समर्थ का रिमांड भी मांग सकती है; जल्द खुलेगा राज",
+          "summary": "सीबीआई ने भोपाल के त्विषा शर्मा मामले की जांच अपने हाथ में ले ली है। एजेंसी ने त्विषा की सास गिरिबाला सिंह और समर्थ सिंह के खिलाफ मामला दर्ज किया है। सीबीआई समर्थ सिंह के लिए रिमांड की मांग कर सकती है। भोपाल के चर्चित त्विषा शर्मा मामले की जांच अब सीबीआई ने संभाल ली है। सीबीआई ने गिरिबाला सिंह और समर्थ सिंह के खिलाफ मामला दर्ज कर जांच शुरू कर दी है, जबकि परिजनों ने सीडीआर और सीसीटीवी फुटेज सुरक्षित रखने की मांग अदालत से की है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ऐसा कोई सगा नहीं, जिसे पाकिस्तान ने ठगा नहीं! व्हाइट हाउस का हलाल खाया, फिर दौड़कर लग गया चीन के गले",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-ditches-donald-trump-again-on-abraham-accords-after-iran-war-gaza-stabilization-force-ws-l-10512316.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-26T02:37:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/trump-shehbaz-3-2026-05-dfc373a069995d70eb7604af7b030db4-1200x800.jpg",
-      "summary": "कतर ईरान और अमेरिका के बीच समझौते की बातचीत में मध्यस्थता कर रहा है। Iran-US Talks in Qatar: जिस काम का क्रेडिट पाकिस्तान लेने में जुटा हुआ था, जिस जंग को बंद कराने का मेडल वो पहनना चाहता था, उसमें एक नए मीडिएटर की एंट्री हो गई है. खाड़ी देश कतर ईरान-अमेरिका के बीच समझौते की बात कर रहा है और उम्मीद है कि इससे एक बड़ी डील जल्द हो सकती है.",
+      "published_at": "2026-05-26T06:50:25+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/TRUMP-SHEHBAZ-4-2026-05-495069c3ae489d590fb83d28b114248a-1200x800.jpg",
+      "summary": "पाकिस्तान और अमेरिका के संबंधों में खटास आ गई है। पिछले डेढ़ साल में बदले समीकरणों के बीच अमेरिका का मोहभंग पाकिस्तान से हुआ है। ईरान वार्ता में मध्यस्थता से भी अमेरिका पाकिस्तान को धीरे-धीरे किनारे कर रहा है। Pakistan-US Relations: पिछले डेढ़ सालों में दुनिया के अंदर जितनी हलचल हुई है और जितने समीकरण बदले हैं, उसने साबित कर दिया है कि कुछ भी स्थायी नहीं होता.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान-अमेरिका डील से बाहर हुआ पाकिस्तान, नए मुस्लिम देश की एंट्री, हाथ से गया जंग बंद कराने का मेडल",
-          "summary": "कतर ईरान और अमेरिका के बीच समझौते की बातचीत में मध्यस्थता कर रहा है। Iran-US Talks in Qatar: जिस काम का क्रेडिट पाकिस्तान लेने में जुटा हुआ था, जिस जंग को बंद कराने का मेडल वो पहनना चाहता था, उसमें एक नए मीडिएटर की एंट्री हो गई है. खाड़ी देश कतर ईरान-अमेरिका के बीच समझौते की बात कर रहा है और उम्मीद है कि इससे एक बड़ी डील जल्द हो सकती है.",
+          "title": "ऐसा कोई सगा नहीं, जिसे पाकिस्तान ने ठगा नहीं! व्हाइट हाउस का हलाल खाया, फिर दौड़कर लग गया चीन के गले",
+          "summary": "पाकिस्तान और अमेरिका के संबंधों में खटास आ गई है। पिछले डेढ़ साल में बदले समीकरणों के बीच अमेरिका का मोहभंग पाकिस्तान से हुआ है। ईरान वार्ता में मध्यस्थता से भी अमेरिका पाकिस्तान को धीरे-धीरे किनारे कर रहा है। Pakistan-US Relations: पिछले डेढ़ सालों में दुनिया के अंदर जितनी हलचल हुई है और जितने समीकरण बदले हैं, उसने साबित कर दिया है कि कुछ भी स्थायी नहीं होता.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "स्टारबक्स कोरिया के खिलाफ क्यों भड़का गुस्सा?, तीन बार सिर झुकाकर मांगी माफी; मालिक ने दी सफाई",
-      "url": "https://www.amarujala.com/world/south-korean-starbucks-boss-apologises-for-ad-campaign-that-evoked-massacre-2026-05-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-26T02:36:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/starbucks_1f74e71b7817b13e399dc3807e786b01.png?w=750&dpr=1.0",
-      "summary": "स्टारबक्स कोरिया के सीईओ सोन जियोंग-ह्यून ने एक विज्ञापन अभियान के लिए माफी मांगी। स्टारबक्स कोरिया के खिलाफ क्यों भड़का गुस्सा?, तीन बार सिर झुकाकर मांगी माफी; मालिक ने दी सफाई।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्टारबक्स कोरिया के खिलाफ क्यों भड़का गुस्सा?, तीन बार सिर झुकाकर मांगी माफी; मालिक ने दी सफाई",
-          "summary": "स्टारबक्स कोरिया के सीईओ सोन जियोंग-ह्यून ने एक विज्ञापन अभियान के लिए माफी मांगी। स्टारबक्स कोरिया के खिलाफ क्यों भड़का गुस्सा?, तीन बार सिर झुकाकर मांगी माफी; मालिक ने दी सफाई।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बैन लगने के बाद एयरपोर्ट पर दिखे रणवीर सिंह, ‘धुरंधर’ स्टाइल में ली एंट्री; यूजर्स बोले- टारगेट",
-      "url": "https://www.amarujala.com/entertainment/bollywood/ranveer-singh-spotted-at-airport-amid-don-3-controversy-and-ban-makes-dhurandhar-style-entry-2026-05-26",
+      "title": "ब्रिटेन में बजा हरियाणा का डंका: एक साथ मेयर बने मां-बेटे, 23 साल के तुषार कुमार ने रचा इतिहास",
+      "url": "https://www.amarujala.com/world/indian-origin-mother-son-tushar-kumar-parveen-rani-duo-elected-mayors-uk-haryana-2026-05-26",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-26T02:34:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/bna-lgana-ka-btha-ranaevara-saha-pahal-bra-pablka-palsa-para-thakha_745fb04145d468f769762faa86fe7674.jpeg?w=750&dpr=1.0",
-      "summary": "रणवीर सिंह को फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज (FWICE) द्वारा 'डॉन 3' छोड़ने के बाद बैन किए जाने के बीच मुंबई एयरपोर्ट पर देखा गया। उन्होंने 'धुरंधर' फिल्म के अपने स्टाइल में एंट्री ली। सोशल मीडिया यूजर्स ने उनके एयरपोर्ट लुक पर प्रतिक्रिया दी और बैन का जिक्र किया। अचानक फिल्म 'डॉन 3' छोड़ने पर फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज (FWICE) ने ‘धुरंधर’ फेम अभिनेता रणवीर सिंह पर बैन लगा दिया।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बैन लगने के बाद एयरपोर्ट पर दिखे रणवीर सिंह, ‘धुरंधर’ स्टाइल में ली एंट्री; यूजर्स बोले- टारगेट",
-          "summary": "रणवीर सिंह को फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज (FWICE) द्वारा 'डॉन 3' छोड़ने के बाद बैन किए जाने के बीच मुंबई एयरपोर्ट पर देखा गया। उन्होंने 'धुरंधर' फिल्म के अपने स्टाइल में एंट्री ली। सोशल मीडिया यूजर्स ने उनके एयरपोर्ट लुक पर प्रतिक्रिया दी और बैन का जिक्र किया। अचानक फिल्म 'डॉन 3' छोड़ने पर फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज (FWICE) ने ‘धुरंधर’ फेम अभिनेता रणवीर सिंह पर बैन लगा दिया।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मूंगफली खाने से पहले जान लीजिए ये बातें",
-      "url": "https://www.amarujala.com/web-stories/lifestyle/fitness/peanuts-soaked-or-roasted-moongfali-khane-ke-fayde-or-nuksan-2026-05-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-26T02:30:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/17/peanuts_44333c0cf3ff945805b2caf301959003.jpeg?w=750&dpr=1.0",
-      "summary": "मूंगफली को रात भर भिगोकर खाने से प्रोटीन का अवशोषण बेहतर होता है। इसमें मौजूद फाइबर और प्रोटीन पेट को लंबे समय तक भरा रखते हैं। यह अधिक खाने की प्रवृत्ति को कम करता है। मूंगफली को रातभर भिगोकर खाने से इसमें मौजूद प्रोटीन का अवशोषण और बेहतर तरीके से होता है। इसमें मौजूद फाइबर और प्रोटीन लंबे समय तक पेट भरा रखते हैं, जिससे ओवरईटिंग कम होती है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मूंगफली खाने से पहले जान लीजिए ये बातें",
-          "summary": "मूंगफली को रात भर भिगोकर खाने से प्रोटीन का अवशोषण बेहतर होता है। इसमें मौजूद फाइबर और प्रोटीन पेट को लंबे समय तक भरा रखते हैं। यह अधिक खाने की प्रवृत्ति को कम करता है। मूंगफली को रातभर भिगोकर खाने से इसमें मौजूद प्रोटीन का अवशोषण और बेहतर तरीके से होता है। इसमें मौजूद फाइबर और प्रोटीन लंबे समय तक पेट भरा रखते हैं, जिससे ओवरईटिंग कम होती है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जीवन को समझना है तो नदी के पास जाओ; सूत्र- परिवर्तन को स्वीकार करें",
-      "url": "https://www.amarujala.com/columns/blog/life-stream-if-you-want-to-understand-life-go-to-the-river-the-motto-embrace-change-2026-05-26",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-26T02:16:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/1_e6250028ae0f8677e411f6621c6a0b58.jpeg?w=750&dpr=1.0",
-      "summary": "जीवन को समझने के लिए नदी के पास जाना एक रूपक है। यह सिखाता है कि जीवन में परिवर्तन को स्वीकार करना महत्वपूर्ण है। नदी निरंतर बहती रहती है, कभी एक जैसी नहीं रहती। इसी तरह, जीवन भी बदलता रहता है। इन बदलावों को स्वीकार करने से हम अधिक शांति और संतोष प्राप्त कर सकते हैं। नदी की तरह बहते रहना और बदलते रहना ही जीवन का सार है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जीवन को समझना है तो नदी के पास जाओ; सूत्र- परिवर्तन को स्वीकार करें",
-          "summary": "जीवन को समझने के लिए नदी के पास जाना एक रूपक है। यह सिखाता है कि जीवन में परिवर्तन को स्वीकार करना महत्वपूर्ण है। नदी निरंतर बहती रहती है, कभी एक जैसी नहीं रहती। इसी तरह, जीवन भी बदलता रहता है। इन बदलावों को स्वीकार करने से हम अधिक शांति और संतोष प्राप्त कर सकते हैं। नदी की तरह बहते रहना और बदलते रहना ही जीवन का सार है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फोटोग्राफिक मेमोरी का अनूठा राज, भूलना भी इंसानी दिमाग की जरूरी क्षमता",
-      "url": "https://www.amarujala.com/columns/blog/the-unique-secret-of-photographic-memory-forgetting-is-also-an-essential-ability-of-the-human-brain-2026-05-26",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-26T02:16:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/1_e3838b771f7c48dafac2db9a9595be55.jpeg?w=750&dpr=1.0",
-      "summary": "फोटोग्राफिक मेमोरी वाले लोग चीजों को याद रखने में माहिर होते हैं। लेकिन शोधकर्ताओं ने पाया कि भूलने की क्षमता भी उतनी ही महत्वपूर्ण है। यह क्षमता दिमाग को नई जानकारी के लिए जगह बनाने में मदद करती है। फोटोग्राफिक मेमोरी का अनूठा राज, भूलना भी इंसानी दिमाग की जरूरी क्षमता।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फोटोग्राफिक मेमोरी का अनूठा राज, भूलना भी इंसानी दिमाग की जरूरी क्षमता",
-          "summary": "फोटोग्राफिक मेमोरी वाले लोग चीजों को याद रखने में माहिर होते हैं। लेकिन शोधकर्ताओं ने पाया कि भूलने की क्षमता भी उतनी ही महत्वपूर्ण है। यह क्षमता दिमाग को नई जानकारी के लिए जगह बनाने में मदद करती है। फोटोग्राफिक मेमोरी का अनूठा राज, भूलना भी इंसानी दिमाग की जरूरी क्षमता।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कोटा में प्रसूताओं की मौत के बाद बड़ा खुलासा, जांच में फेल निकला इंजेक्शन, प्रदेश भर में अलर्ट",
-      "url": "https://www.amarujala.com/rajasthan/jaipur/oxytocin-injection-fails-quality-test-after-maternal-deaths-in-kota-2026-05-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-26T02:13:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/rajasathana_c556e9dff509bfd83e6d3df1b1aa1549.jpeg?w=750&dpr=1.0",
-      "summary": "कोटा में प्रसूताओं की मौत के बाद जांच में भेजे गए ऑक्सीटोसिन इंजेक्शन के सैंपल अमानक पाए गए। ड्रग विभाग ने संबंधित बैच की बिक्री और उपयोग पर रोक लगा दी है। मौतों का सीधा संबंध अभी स्पष्ट नहीं है। कोटा में प्रसूताओं की मौत के बाद जांच के लिए भेजे गए ऑक्सीटोसिन इंजेक्शन के सैंपल अमानक पाए गए हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कोटा में प्रसूताओं की मौत के बाद बड़ा खुलासा, जांच में फेल निकला इंजेक्शन, प्रदेश भर में अलर्ट",
-          "summary": "कोटा में प्रसूताओं की मौत के बाद जांच में भेजे गए ऑक्सीटोसिन इंजेक्शन के सैंपल अमानक पाए गए। ड्रग विभाग ने संबंधित बैच की बिक्री और उपयोग पर रोक लगा दी है। मौतों का सीधा संबंध अभी स्पष्ट नहीं है। कोटा में प्रसूताओं की मौत के बाद जांच के लिए भेजे गए ऑक्सीटोसिन इंजेक्शन के सैंपल अमानक पाए गए हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दिल्ली-एनसीआर में CNG के दाम फिर बढ़े, इतने रुपये हुई महंगी; 12 दिन में चौथी बार बढ़ोतरी",
-      "url": "https://www.amarujala.com/delhi-ncr/cng-prices-have-been-increased-again-in-delhi-ncr-rates-hiked-by-rs-2-2026-05-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-26T02:06:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/cng_6dbc34a94817a20d11bc3ba924538f65.jpeg?w=750&dpr=1.0",
-      "summary": "दिल्ली-एनसीआर में सीएनजी के दाम दो रुपये प्रति किलोग्राम बढ़ाए गए हैं। यह पिछले 12 दिनों में चौथी बढ़ोतरी है। इससे पहले 12 अप्रैल, 14 अप्रैल और 16 अप्रैल को भी दाम बढ़ाए गए थे। देश की राजधानी दिल्ली-एनसीआर में एक बार फिर महंगाई का झटका लगा है। मंगलवार को सीएनजी की दरों में दो रुपये की बढ़ोतरी की गई है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिल्ली-एनसीआर में CNG के दाम फिर बढ़े, इतने रुपये हुई महंगी; 12 दिन में चौथी बार बढ़ोतरी",
-          "summary": "दिल्ली-एनसीआर में सीएनजी के दाम दो रुपये प्रति किलोग्राम बढ़ाए गए हैं। यह पिछले 12 दिनों में चौथी बढ़ोतरी है। इससे पहले 12 अप्रैल, 14 अप्रैल और 16 अप्रैल को भी दाम बढ़ाए गए थे। देश की राजधानी दिल्ली-एनसीआर में एक बार फिर महंगाई का झटका लगा है। मंगलवार को सीएनजी की दरों में दो रुपये की बढ़ोतरी की गई है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पीयूष गोयल बोले- PM कार्नी के भारत दौरे से रिश्ते का नया अध्याय हुआ शुरू, संबंध होंगे मजबूत",
-      "url": "https://www.amarujala.com/world/warmth-returns-to-india-canada-relations-goyal-said-now-there-will-be-a-complete-reset-of-relations-2026-05-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-26T01:57:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/payashha-gayal-oura-kanada-ka-paema-maraka-karana_57bd001cd827d245a6e67b424d940040.jpeg?w=750&dpr=1.0",
-      "summary": "केंद्रीय मंत्री पीयूष गोयल ने कहा कि कनाडा के उप प्रधानमंत्री और वित्त मंत्री के भारत दौरे से दोनों देशों के संबंधों में नया अध्याय शुरू हुआ है। उन्होंने व्यापारिक साझेदारी को मजबूत करने पर जोर दिया। पीयूष गोयल बोले- PM कार्नी के भारत दौरे से रिश्ते का नया अध्याय हुआ शुरू, संबंध होंगे मजबूत।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीयूष गोयल बोले- PM कार्नी के भारत दौरे से रिश्ते का नया अध्याय हुआ शुरू, संबंध होंगे मजबूत",
-          "summary": "केंद्रीय मंत्री पीयूष गोयल ने कहा कि कनाडा के उप प्रधानमंत्री और वित्त मंत्री के भारत दौरे से दोनों देशों के संबंधों में नया अध्याय शुरू हुआ है। उन्होंने व्यापारिक साझेदारी को मजबूत करने पर जोर दिया। पीयूष गोयल बोले- PM कार्नी के भारत दौरे से रिश्ते का नया अध्याय हुआ शुरू, संबंध होंगे मजबूत।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन के ड्रोन हमलों से भड़का रूस, दे डाली कीव पर भीषण हमले की धमकी; नागरिकों से बोला- खाली कर दो",
-      "url": "https://www.amarujala.com/world/russia-threatens-systematic-strikes-on-kyiv-after-ukraine-drone-attack-urges-people-evacuation-2026-05-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-26T01:56:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/russia-ukraine-war_abbcd4c405b322980abd0560ecc47a05.png?w=750&dpr=1.0",
-      "summary": "यूक्रेन द्वारा ड्रोन हमलों के जवाब में रूस ने कीव पर भीषण हमले की धमकी दी है। रूसी अधिकारियों ने नागरिकों से शहर खाली करने का आग्रह किया है। यूक्रेन के ड्रोन हमलों से भड़का रूस, दे डाली कीव पर भीषण हमले की धमकी; नागरिकों से बोला- खाली कर दो।",
+      "published_at": "2026-05-26T06:31:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/tashhara-kamara-oura-paravana-rana_1d871a3be21942411f7a1dbd509100cf.jpeg?w=750&dpr=1.0",
+      "summary": "ब्रिटेन में हरियाणा मूल के मां-बेटे प्रवीण रानी और तुषार कुमार मेयर चुने गए हैं। 23 वर्षीय तुषार कुमार ने यह उपलब्धि हासिल कर इतिहास रचा है। यह ब्रिटेन में भारतीय मूल के नेताओं के बढ़ते प्रभाव को दर्शाता है। ब्रिटेन में बजा हरियाणा का डंका: एक साथ मेयर बने मां-बेटे, 23 साल के तुषार कुमार ने रचा इतिहास।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यूक्रेन के ड्रोन हमलों से भड़का रूस, दे डाली कीव पर भीषण हमले की धमकी; नागरिकों से बोला- खाली कर दो",
-          "summary": "यूक्रेन द्वारा ड्रोन हमलों के जवाब में रूस ने कीव पर भीषण हमले की धमकी दी है। रूसी अधिकारियों ने नागरिकों से शहर खाली करने का आग्रह किया है। यूक्रेन के ड्रोन हमलों से भड़का रूस, दे डाली कीव पर भीषण हमले की धमकी; नागरिकों से बोला- खाली कर दो।",
+          "title": "ब्रिटेन में बजा हरियाणा का डंका: एक साथ मेयर बने मां-बेटे, 23 साल के तुषार कुमार ने रचा इतिहास",
+          "summary": "ब्रिटेन में हरियाणा मूल के मां-बेटे प्रवीण रानी और तुषार कुमार मेयर चुने गए हैं। 23 वर्षीय तुषार कुमार ने यह उपलब्धि हासिल कर इतिहास रचा है। यह ब्रिटेन में भारतीय मूल के नेताओं के बढ़ते प्रभाव को दर्शाता है। ब्रिटेन में बजा हरियाणा का डंका: एक साथ मेयर बने मां-बेटे, 23 साल के तुषार कुमार ने रचा इतिहास।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "राम रहीम को मिली 30 दिन की फरलो, 16वीं बार आया जेल से बाहर; दो गाड़ी लेकर सुनारिया जेल आई हनीप्रीत",
-      "url": "https://www.amarujala.com/haryana/rohtak/baba-ram-rahim-granted-30-day-furlough-steps-out-of-jail-for-the-16th-time-2026-05-26",
+      "title": "प्रधानों को प्रशासक बना भाजपा ने बिछाई चुनावी बिसात; सीएम योगी का मास्टर स्ट्रोक",
+      "url": "https://www.amarujala.com/gorakhpur/up-panchayat-election-government-appoints-gram-pradhans-as-administrators-ahead-of-panchayat-polls-2026-05-26",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-26T01:55:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/08/13/gurumeet-ram-rahim_c4a88d1c4a706255eca5c51f3ad7bf65.jpeg?w=750&dpr=1.0",
-      "summary": "डेरा सच्चा सौदा प्रमुख गुरमीत राम रहीम को 30 दिन की फरलो मिली है। वह 16वीं बार जेल से बाहर आया है। हनीप्रीत दो गाड़ियों के साथ उसे लेने सुनारिया जेल पहुंची थी। वे सिरसा डेरे के लिए रवाना हो गए। रोहतक की सुनारिया जेल में सजा काट रहा राम रहीम मंगलवार सुबह 16वीं बार 30 दिन की फरलो पर बाहर आया।",
+      "published_at": "2026-05-26T06:29:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/up-panchayat-election_a9efa90125bf7679c4630d47838d7adb.jpeg?w=750&dpr=1.0",
+      "summary": "उत्तर प्रदेश में, भाजपा ने पंचायत चुनाव से पहले एक चुनावी चाल चली है। राज्य सरकार ने प्रधानों को प्रशासक नियुक्त किया है। इस कदम को चुनावी जीत के लिए एक महत्वपूर्ण रणनीति माना जा रहा है। पंचायत चुनाव की लेटलतीफी के बीच भाजपा ने पहली बार प्रधानों को ही प्रशासक बनाकर चुनावी बिसात बिछा दी है। योगी सरकार के इस फैसले को चुनावी दृष्टिकोण से बेहद अहम माना जा रहा है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "राम रहीम को मिली 30 दिन की फरलो, 16वीं बार आया जेल से बाहर; दो गाड़ी लेकर सुनारिया जेल आई हनीप्रीत",
-          "summary": "डेरा सच्चा सौदा प्रमुख गुरमीत राम रहीम को 30 दिन की फरलो मिली है। वह 16वीं बार जेल से बाहर आया है। हनीप्रीत दो गाड़ियों के साथ उसे लेने सुनारिया जेल पहुंची थी। वे सिरसा डेरे के लिए रवाना हो गए। रोहतक की सुनारिया जेल में सजा काट रहा राम रहीम मंगलवार सुबह 16वीं बार 30 दिन की फरलो पर बाहर आया।",
+          "title": "प्रधानों को प्रशासक बना भाजपा ने बिछाई चुनावी बिसात; सीएम योगी का मास्टर स्ट्रोक",
+          "summary": "उत्तर प्रदेश में, भाजपा ने पंचायत चुनाव से पहले एक चुनावी चाल चली है। राज्य सरकार ने प्रधानों को प्रशासक नियुक्त किया है। इस कदम को चुनावी जीत के लिए एक महत्वपूर्ण रणनीति माना जा रहा है। पंचायत चुनाव की लेटलतीफी के बीच भाजपा ने पहली बार प्रधानों को ही प्रशासक बनाकर चुनावी बिसात बिछा दी है। योगी सरकार के इस फैसले को चुनावी दृष्टिकोण से बेहद अहम माना जा रहा है।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "हिजबुल्ला के 70 ठिकानों पर बमबारी, सीमाई इलाकों में स्कूल बंद, सात लोगों की मौत",
-      "url": "https://www.amarujala.com/world/israel-ramps-up-lebanon-strikes-hezbollah-targets-schools-closed-2026-05-26",
-      "source": "Amar Ujala World",
+      "title": "पाकिस्तानी शिया मुस्लिमों की बढ़ी मुश्किलें, यूएई से रातों-रात किया जा रहा डिपोर्ट",
+      "url": "https://www.patrika.com/world-news/pakistani-shia-muslims-being-deported-from-uae-20611363",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-05-26T01:54:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/hajabll-ka-khalfa-isarail-ka-kararavaii_7d43df71c0ad862120da306e9365879b.jpeg?w=750&dpr=1.0",
-      "summary": "इस्राइल ने लेबनान में हिजबुल्ला के 70 ठिकानों पर बमबारी की है। सीमाई इलाकों में स्कूलों को बंद कर दिया गया है। इस हमले में सात लोगों की मौत हुई है। हिजबुल्ला के 70 ठिकानों पर बमबारी, सीमाई इलाकों में स्कूल बंद, सात लोगों की मौत।",
+      "published_at": "2026-05-26T05:55:05+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/uae-deports-pakistani-shia-muslims.webp",
+      "summary": "संयुक्त अरब अमीरात ने बड़ी संख्या में पाकिस्तानी शिया मुसलमानों को निर्वासित करना शुरू कर दिया है। कई वर्षों से यूएई में रह रहे लोग अचानक अपनी नौकरी, सामान और बचत खोकर पाकिस्तान लौटने को मजबूर हैं। संयुक्त अरब अमीरात – यूएई (United Arab Emirates – UAE) से बड़ी तादाद में पाकिस्तानी शिया मुस्लिमों (Shia Muslims) को डिपोर्ट किया जा रहा है।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हिजबुल्ला के 70 ठिकानों पर बमबारी, सीमाई इलाकों में स्कूल बंद, सात लोगों की मौत",
-          "summary": "इस्राइल ने लेबनान में हिजबुल्ला के 70 ठिकानों पर बमबारी की है। सीमाई इलाकों में स्कूलों को बंद कर दिया गया है। इस हमले में सात लोगों की मौत हुई है। हिजबुल्ला के 70 ठिकानों पर बमबारी, सीमाई इलाकों में स्कूल बंद, सात लोगों की मौत।",
+          "title": "पाकिस्तानी शिया मुस्लिमों की बढ़ी मुश्किलें, यूएई से रातों-रात किया जा रहा डिपोर्ट",
+          "summary": "संयुक्त अरब अमीरात ने बड़ी संख्या में पाकिस्तानी शिया मुसलमानों को निर्वासित करना शुरू कर दिया है। कई वर्षों से यूएई में रह रहे लोग अचानक अपनी नौकरी, सामान और बचत खोकर पाकिस्तान लौटने को मजबूर हैं। संयुक्त अरब अमीरात – यूएई (United Arab Emirates – UAE) से बड़ी तादाद में पाकिस्तानी शिया मुस्लिमों (Shia Muslims) को डिपोर्ट किया जा रहा है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "रूबियो ने रूस के विदेश मंत्री से की बात, कैलिफोर्निया के रासायनिक टैंक में विस्फोट का खतरा टला",
-      "url": "https://www.amarujala.com/world/world-updates-iran-us-deal-amazon-wildlife-brazil-investment-threat-of-explosion-at-california-chemical-tank-2026-05-26",
+      "title": "प्रधानमंत्री नेतन्याहू अचानक अस्पताल में भर्ती; पहले से कई बीमारी से हैं पीड़ित",
+      "url": "https://www.amarujala.com/world/concern-grows-in-israel-prime-minister-netanyahu-suddenly-hospitalized-2026-05-26",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-05-26T01:53:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी सीनेटर मार्को रुबियो ने रूस के विदेश मंत्री से बात की। कैलिफोर्निया में एक रासायनिक टैंक में विस्फोट का खतरा टल गया है। सेनेगल को नया प्रधानमंत्री मिला है। World Updates: कैलिफोर्निया के रासायनिक टैंक में विस्फोट का खतरा टला, सेनेगल को मिला नया प्रधानमंत्री। रूबियो ने रूस के विदेश मंत्री से की बात, कैलिफोर्निया के रासायनिक टैंक में विस्फोट का खतरा टला।",
+      "published_at": "2026-05-26T05:51:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/isarail-parathhanamatara-bjamana-natanayaha_42b5a399a88d96c112d5037fa6cbf559.png?w=750&dpr=1.0",
+      "summary": "इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू को अस्पताल में भर्ती कराया गया है। वह पहले से ही कई स्वास्थ्य समस्याओं से पीड़ित हैं। उनकी अचानक भर्ती से देश में चिंता बढ़ गई है। इस्राइल में बढ़ी चिंता: प्रधानमंत्री नेतन्याहू अचानक अस्पताल में भर्ती; पहले से कई बीमारी से हैं पीड़ित।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रधानमंत्री नेतन्याहू अचानक अस्पताल में भर्ती; पहले से कई बीमारी से हैं पीड़ित",
+          "summary": "इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू को अस्पताल में भर्ती कराया गया है। वह पहले से ही कई स्वास्थ्य समस्याओं से पीड़ित हैं। उनकी अचानक भर्ती से देश में चिंता बढ़ गई है। इस्राइल में बढ़ी चिंता: प्रधानमंत्री नेतन्याहू अचानक अस्पताल में भर्ती; पहले से कई बीमारी से हैं पीड़ित।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "इतिहास पढ़ लेते, तो चिलचिलाती गर्मी में ताजमहल न जाते मार्को रुबियो, ईरान ने मारा गजब का ताना",
+      "url": "https://hindi.news18.com/world/south-asia-iran-slams-us-foreign-minister-marco-rubio-after-taj-mahal-visit-in-india-10511793.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-26T05:47:17+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Marco-rubio-3-2026-05-111ba2ba4bf0d638e3af35f433f35471-1200x800.jpg",
+      "summary": "ईरान ने अमेरिकी सीनेटर मार्को रुबियो की ताजमहल यात्रा पर तंज कसा है। ईरान ने कहा कि अगर रुबियो इतिहास पढ़ लेते तो वे चिलचिलाती गर्मी में वहां नहीं जाते। Iran Slams Maro Rubio Agra Visit: अमेरिका से ईरान सिर्फ जमीन पर ही लड़ाई नहीं लड़ रहा है बल्कि उसे सोशल मीडिया पर भी जमकर ट्रोल कर रहा है. चाहे वो होर्मुज का मुद्दा हो या किसी अमेरिकी नेता की कोई गतिविधि, ईरान की नजर हर कहीं है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रूबियो ने रूस के विदेश मंत्री से की बात, कैलिफोर्निया के रासायनिक टैंक में विस्फोट का खतरा टला",
-          "summary": "अमेरिकी सीनेटर मार्को रुबियो ने रूस के विदेश मंत्री से बात की। कैलिफोर्निया में एक रासायनिक टैंक में विस्फोट का खतरा टल गया है। सेनेगल को नया प्रधानमंत्री मिला है। World Updates: कैलिफोर्निया के रासायनिक टैंक में विस्फोट का खतरा टला, सेनेगल को मिला नया प्रधानमंत्री। रूबियो ने रूस के विदेश मंत्री से की बात, कैलिफोर्निया के रासायनिक टैंक में विस्फोट का खतरा टला।",
+          "title": "इतिहास पढ़ लेते, तो चिलचिलाती गर्मी में ताजमहल न जाते मार्को रुबियो, ईरान ने मारा गजब का ताना",
+          "summary": "ईरान ने अमेरिकी सीनेटर मार्को रुबियो की ताजमहल यात्रा पर तंज कसा है। ईरान ने कहा कि अगर रुबियो इतिहास पढ़ लेते तो वे चिलचिलाती गर्मी में वहां नहीं जाते। Iran Slams Maro Rubio Agra Visit: अमेरिका से ईरान सिर्फ जमीन पर ही लड़ाई नहीं लड़ रहा है बल्कि उसे सोशल मीडिया पर भी जमकर ट्रोल कर रहा है. चाहे वो होर्मुज का मुद्दा हो या किसी अमेरिकी नेता की कोई गतिविधि, ईरान की नजर हर कहीं है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "दिल्ली-NCR में CNG दो रुपये और महंगी, नई कीमत ₹83 के पार; पेट्रोल-डीजल के दाम क्या?",
-      "url": "https://www.amarujala.com/business/business-diary/price-hike-updates-cng-petrol-diesel-and-lpg-energy-expensive-delhi-and-big-cities-new-price-today-hindi-news-2026-05-26",
-      "source": "Amar Ujala National",
+      "title": "बीजद छोड़ भाजपा सदस्य बने ओडिशा के पूर्व सांसद देबाशीष सामंतराय, बंगाल में भी हलचल",
+      "url": "https://www.amarujala.com/india-news/anil-baluni-eminent-person-bjp-membership-updates-debashish-samantaray-bjd-odisha-bengal-tmc-mamata-hindi-news-2026-05-26",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-26T01:52:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/saenaja-ka-kamata-bugdhha_377eb4bb5e3d228c347bcb37eb6b706e.jpeg?w=750&dpr=1.0",
-      "summary": "दिल्ली-एनसीआर में सीएनजी की कीमत दो रुपये बढ़ गई है। अब सीएनजी की नई कीमत 83 रुपये प्रति किलोग्राम से अधिक हो गई है। पेट्रोल और डीजल की कीमतों में कोई बदलाव नहीं हुआ है। Price Hike Updates: दिल्ली-NCR में CNG दो रुपये और महंगी, नई की कीमत ₹83 के पार; अलग-अलग शहरों में दाम क्या? दिल्ली-NCR में CNG दो रुपये और महंगी, नई कीमत ₹83 के पार; पेट्रोल-डीजल के दाम क्या?",
+      "published_at": "2026-05-26T05:39:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/bjp-odisha_11e50c8cf5c8381eb90263829ae703ea.gif?w=750&dpr=1.0",
+      "summary": "ओडिशा के पूर्व सांसद देबाशीष सामंतराय बीजद छोड़कर भाजपा में शामिल हो गए हैं। इस घटना से पश्चिम बंगाल और ओडिशा दोनों राज्यों में राजनीतिक हलचल मच गई है। भाजपा में नई सियासी हस्ती: अनिल बलूनी बोले- मशहूर शख्स को दिलाई जाएगी सदस्यता, बंगाल से ओडिशा तक हलचल। बीजद छोड़ भाजपा सदस्य बने ओडिशा के पूर्व सांसद देबाशीष सामंतराय, बंगाल में भी हलचल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बीजद छोड़ भाजपा सदस्य बने ओडिशा के पूर्व सांसद देबाशीष सामंतराय, बंगाल में भी हलचल",
+          "summary": "ओडिशा के पूर्व सांसद देबाशीष सामंतराय बीजद छोड़कर भाजपा में शामिल हो गए हैं। इस घटना से पश्चिम बंगाल और ओडिशा दोनों राज्यों में राजनीतिक हलचल मच गई है। भाजपा में नई सियासी हस्ती: अनिल बलूनी बोले- मशहूर शख्स को दिलाई जाएगी सदस्यता, बंगाल से ओडिशा तक हलचल। बीजद छोड़ भाजपा सदस्य बने ओडिशा के पूर्व सांसद देबाशीष सामंतराय, बंगाल में भी हलचल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शांति की तरफ बढ़ रहे ईरान-अमेरिका के बीच फिर बढ़ा टकराव, PAK-UAE के तेवरों से भी चिंता बढ़ी",
+      "url": "https://www.amarujala.com/live/world/west-asia-crisis-us-strike-on-iran-peace-deal-trump-pakistan-today-live-updates-2026-05-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-26T05:29:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/19/west-asia-crisis_a05b82ad2180021a19af5cc5a7e33eef.gif?w=750&dpr=1.0",
+      "summary": "ईरान और अमेरिका के बीच तनाव बढ़ गया है। पाकिस्तान और संयुक्त अरब अमीरात के रुख ने चिंताएं बढ़ा दी हैं। यह स्थिति पश्चिम एशिया में शांति प्रयासों को प्रभावित कर सकती है। शांति की तरफ बढ़ रहे ईरान-अमेरिका के बीच फिर बढ़ा टकराव, PAK-UAE के तेवरों से भी चिंता बढ़ी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शांति की तरफ बढ़ रहे ईरान-अमेरिका के बीच फिर बढ़ा टकराव, PAK-UAE के तेवरों से भी चिंता बढ़ी",
+          "summary": "ईरान और अमेरिका के बीच तनाव बढ़ गया है। पाकिस्तान और संयुक्त अरब अमीरात के रुख ने चिंताएं बढ़ा दी हैं। यह स्थिति पश्चिम एशिया में शांति प्रयासों को प्रभावित कर सकती है। शांति की तरफ बढ़ रहे ईरान-अमेरिका के बीच फिर बढ़ा टकराव, PAK-UAE के तेवरों से भी चिंता बढ़ी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जिनपिंग से दोस्ती का वादा कर लौटे ट्रंप, इधर क्वाड की बैठक में मार्को रुबियो ने कर दी चीन की",
+      "url": "https://hindi.news18.com/world/america-donald-trump-promising-friendship-with-jinping-will-marco-rubio-focus-on-containing-china-at-quad-meeting-10511970.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-26T05:10:14+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/QUAD-1-2026-05-38fef34b67c412954d3fe06b5ca268b4-1200x800.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने हाल ही में चीन के राष्ट्रपति शी जिनपिंग से मुलाकात की थी। इसके बावजूद, क्वाड मंच पर मार्को रुबियो ने चीन की बढ़ती शक्ति पर चिंता व्यक्त की। यह इंडो-पैसिफिक क्षेत्र में तनाव को दर्शाता है। Marco Rubio on China: एक तरफ अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप हाल ही में चीन के राष्ट्रपति शी जिनपिंग से मुलाकात कर रिश्तों को बेहतर बनाने की बात कह चुके हैं, वहीं दूसरी तरफ क्वाड मंच पर अमेरिकी विदेश मंत्री मार्को रुबियो का बयान साफ संकेत दे रहा है कि इंडो-पैसिफिक क्षेत्र में चीन की बढ़ती ताकत अब भी अमेरिका और उसके सहयोगियों के लिए बड़ी चिंता बनी हुई है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दिल्ली-NCR में CNG दो रुपये और महंगी, नई कीमत ₹83 के पार; पेट्रोल-डीजल के दाम क्या?",
-          "summary": "दिल्ली-एनसीआर में सीएनजी की कीमत दो रुपये बढ़ गई है। अब सीएनजी की नई कीमत 83 रुपये प्रति किलोग्राम से अधिक हो गई है। पेट्रोल और डीजल की कीमतों में कोई बदलाव नहीं हुआ है। Price Hike Updates: दिल्ली-NCR में CNG दो रुपये और महंगी, नई की कीमत ₹83 के पार; अलग-अलग शहरों में दाम क्या? दिल्ली-NCR में CNG दो रुपये और महंगी, नई कीमत ₹83 के पार; पेट्रोल-डीजल के दाम क्या?",
+          "title": "जिनपिंग से दोस्ती का वादा कर लौटे ट्रंप, इधर क्वाड की बैठक में मार्को रुबियो ने कर दी चीन की",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने हाल ही में चीन के राष्ट्रपति शी जिनपिंग से मुलाकात की थी। इसके बावजूद, क्वाड मंच पर मार्को रुबियो ने चीन की बढ़ती शक्ति पर चिंता व्यक्त की। यह इंडो-पैसिफिक क्षेत्र में तनाव को दर्शाता है। Marco Rubio on China: एक तरफ अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप हाल ही में चीन के राष्ट्रपति शी जिनपिंग से मुलाकात कर रिश्तों को बेहतर बनाने की बात कह चुके हैं, वहीं दूसरी तरफ क्वाड मंच पर अमेरिकी विदेश मंत्री मार्को रुबियो का बयान साफ संकेत दे रहा है कि इंडो-पैसिफिक क्षेत्र में चीन की बढ़ती ताकत अब भी अमेरिका और उसके सहयोगियों के लिए बड़ी चिंता बनी हुई है.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘हर घर जल’ के दावों पर सवाल? 25 फीट गहरे कुएं में उतरकर पानी भर रहे मासूम; गंदे पानी पर निर्भर 45",
+      "url": "https://www.amarujala.com/madhya-pradesh/burhanpur-dhulkot-tribal-village-water-crisis-jal-jeevan-mission-ground-reality-2026-05-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-26T05:05:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/yaha-bcaca-jana-jakhama-ma-dalkara-25-fata-gahara-kae-ma-utarakara-pana-bharana-ka-majabra-ha_8d7be29a2c1352f19752871b6aac97c2.jpeg?w=750&dpr=1.0",
+      "summary": "बुरहानपुर के धूलकोट क्षेत्र में जल जीवन मिशन के दावों पर सवाल उठ रहे हैं। रेखालिया झिरा फालिया के 45 आदिवासी परिवार गंदे कुएं के पानी पर निर्भर हैं। बच्चे जान जोखिम में डालकर 25 फीट गहरे कुएं से पानी भर रहे हैं। बुरहानपुर के धूलकोट क्षेत्र में जल जीवन मिशन के दावों की हकीकत सामने आई है। ‘हर घर जल’ के दावों पर सवाल?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘हर घर जल’ के दावों पर सवाल? 25 फीट गहरे कुएं में उतरकर पानी भर रहे मासूम; गंदे पानी पर निर्भर 45",
+          "summary": "बुरहानपुर के धूलकोट क्षेत्र में जल जीवन मिशन के दावों पर सवाल उठ रहे हैं। रेखालिया झिरा फालिया के 45 आदिवासी परिवार गंदे कुएं के पानी पर निर्भर हैं। बच्चे जान जोखिम में डालकर 25 फीट गहरे कुएं से पानी भर रहे हैं। बुरहानपुर के धूलकोट क्षेत्र में जल जीवन मिशन के दावों की हकीकत सामने आई है। ‘हर घर जल’ के दावों पर सवाल?",
+          "region": "दुनिया"
         }
       }
     }
