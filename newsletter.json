@@ -1,12 +1,120 @@
 {
-  "generated_at": "2026-05-28T11:49:36.640155+00:00",
+  "generated_at": "2026-05-28T15:59:28.486756+00:00",
   "article_count": 50,
-  "total_unique_count": 272,
+  "total_unique_count": 270,
   "digest": {
-    "en": "Ukraine's air defense needs dominate headlines. China's agricultural trade rule changes offer a contrasting economic signal. The US president's comments on Oman add another layer of regional tension.",
-    "hi": "नेपाल में राजशाही का अंत और चीन-भारत के बीच LAC पर बातचीत प्रमुख खबरें हैं। यूक्रेन युद्ध में रूसी सैनिकों की मौत के आंकड़े और आर्मेनिया की सैन्य परेड में भारतीय हथियारों का प्रदर्शन भी ध्यान आकर्षित कर रहा है।"
+    "en": "The U.S. reimposing sanctions on a UN expert on Palestinians and Israeli strikes in Lebanon dominate headlines. China's support for Cuba against power politics offers a counterpoint. Ukraine's urgent appeal for Patriot missiles highlights ongoing conflict.",
+    "hi": "सऊदी अरब और पाकिस्तान के बीच रक्षा सौदे पर रिपोर्टिंग हावी है। ईरान और इजरायल के बीच तनाव बढ़ रहा है।"
   },
   "articles": [
+    {
+      "title": "U.S. reimposes sanctions on UN expert on Palestinians",
+      "url": "https://www.thehindu.com/news/international/us-reimposes-sanctions-on-un-expert-on-palestinians/article71034468.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-28T15:44:32+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/9hglnw/article71034479.ece/alternates/LANDSCAPE_1200/Palestinian_Investigator_Sanctions_09204.jpg",
+      "summary": "The U. S. Treasury Department reimposed sanctions on Ms. A notice on the Treasury Department's website showed that it had reimposed a sanctions designation on Ms. Albanese that blacklists her globally, making it impossible for her to use major credit cards or carry out bank transactions. U. S. reimposes sanctions on UN expert on Palestinians.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. treasury officials moot $250 note featuring Trump",
+      "url": "https://www.thehindu.com/news/international/us-treasury-officials-moot-250-note-featuring-trump/article71034328.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-28T15:31:17+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/xrdpja/article71034400.ece/alternates/LANDSCAPE_1200/2026-05-28T054422Z_1227286113_RC2SHLA97VYW_RTRMADP_3_USA-TRUMP-EPSTEIN-DEFAMATION.JPG",
+      "summary": "U. S. Treasury officials are considering a $250 note featuring former President Donald Trump. Federal law currently requires individuals to be deceased to appear on U. S. currency. Congress would need to pass a new law to permit Trump's portrait on a note. According to the U. S. federal law, only deceased persons can be featured on currency notes; the U. S. Congress will have to pass a new law to allow Trump’s portrait to feature on a currency note.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "South Korea’s Starbucks furor revives an illiberal habit",
+      "url": "https://asiatimes.com/2026/05/south-koreas-starbucks-furor-revives-an-illiberal-habit/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-05-28T15:18:31+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/05/20260526092111847968-copy.jpeg",
+      "summary": "Starbucks Korea faced public backlash over a marketing campaign. Critics argued the campaign promoted a harmful stereotype. The incident sparked debate about public outrage and due process in South Korea. Some observers noted a pattern of collective denunciation replacing formal judgment. This has led to discussions about fairness and accountability in public discourse. South Korea’s latest Starbucks controversy is not only about a badly judged marketing campaign.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China vows to support Cuba against 'power politics and bullying'",
+      "url": "https://www.thehindu.com/news/international/china-vows-to-support-cuba-against-power-politics-and-bullying/article71034291.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-28T15:08:59+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/oek01v/article71034325.ece/alternates/LANDSCAPE_1200/UN_China_66478.jpg",
+      "summary": "China's Foreign Minister Wang Yi pledged support for Cuba against \"power politics and bullying.\" He stated China will continue to speak out on Cuba's behalf and support its people's just cause. China will also contribute to Cuba's economic development and the improvement of its people's livelihoods. China will continue to uphold justice and speak out on Cuba's behalf, support the just cause of the Cuban people, and contribute to the development of Cuba's economy and the improvement of its people's livelihoods, says China's Foreign Minister Wang Yi.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Kyiv’s Envoy Says Patriot Missiles Are Critical As Zelenskyy Appeals To Trump",
+      "url": "https://www.rferl.org/a/ukraine-us-patriot-missiles-zelenskyy-appeal-trump-congress/33767500.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-05-28T14:09:07+00:00",
+      "image_url": "https://gdb.rferl.org/058a0000-0aff-0242-d7c7-08dae369865f_w1200_h630.jpg",
+      "summary": "Ukraine’s ambassador to the United States Oksana Markarova stated that Patriot missile systems are critical for Ukraine’s defense. President Volodymyr Zelenskyy directly appealed to former President Donald Trump and the US Congress. He warned that Ukraine urgently requires more Patriot missile systems. Russia has increased its ballistic missile attacks on Ukrainian cities. Ukrainian President Volodymyr Zelenskyy has issued an unusually direct appeal to President Donald Trump and the US Congress, warning that Ukraine urgently needs additional Patriot missile systems as Russia intensifies ballistic missile attacks on Ukrainian cities.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israeli strikes kill at least 14 across southern Lebanon ahead of Washington talks",
+      "url": "https://www.thehindu.com/news/international/israeli-strikes-kill-at-least-14-across-southern-lebanon-ahead-of-washington-talks/article71033349.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-28T12:15:14+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/4lur9s/article71033419.ece/alternates/LANDSCAPE_1200/Lebanon_Israel_Iran_War_19567.jpg",
+      "summary": "Israeli forces conducted strikes across southern Lebanon. At least 14 people were killed. This occurred ahead of security talks scheduled between Lebanese and Israeli military officials in Washington. The nominal ceasefire of April 17 has seen intensified attacks. Lebanese and Israeli military officials are set to hold their first security talks on Friday in the U. S. capital; the talks have extended a nominal ceasefire that went into effect April 17, although the attacks have since intensified, while sparing the Lebanese capital Beirut.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Argentina’s ‘European’ self-image under renewed scrutiny after racist incidents in Brazil",
+      "url": "https://www.theguardian.com/world/2026/may/28/argentina-european-self-image-racist-incidents-brazil",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-28T12:04:59+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/99b3f4cc4764d2fc79b8a0857a235287b267fedd/317_0_3239_2592/master/3239.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=681485354aab87c1b0933e734fc9fece",
+      "summary": "Racist incidents in Brazil have renewed scrutiny of Argentina's self-image. A woman was filmed on a train. This event is the latest flashpoint in discussions about race relations in Latin America. Argentina faces debate over its perceived European identity. Case involving seven-year-old boy is latest flashpoint in debate over race relations in Latin America‘Argentina needs to end its fantasy of being a European country’: Lucrecia Martel on the story of a killingA woman celebrating her 32nd birthday on a train journey in the Brazilian state of Minas Gerais was horrified when a fellow passenger alerted her that an unknown man had been secretly filming.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Will Jamaica be the next country to drill and what does that mean for its green pledges?",
+      "url": "https://www.theguardian.com/global-development/2026/may/28/the-race-for-oil-will-jamaica-be-the-next-country-to-drill-and-what-does-that-mean-for-its-green-pledges",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-28T12:00:20+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/9bb1954856fe6f8ad123b72a4c01f5dc7b75c417/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f16b605818541d151b2d3e0df39fb80",
+      "summary": "Jamaica is considering oil production after seabed tests indicated crude oil presence. The Caribbean island imports all its fuel. This potential shift raises questions about its existing green pledges. Early tests suggest hydrocarbons off the south coast. With early tests suggesting the presence of crude oil, the Caribbean island has begun to debate whether it could justify becoming a producerJamaica is closer than ever to drilling for oil.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran-US Talks 'A Dangerous Game,' Says Ex-Pentagon Official Michael Patrick Mulroy",
+      "url": "https://www.rferl.org/a/mulroy-warns-iran-us-conflict-could-restart/33767525.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-05-28T11:51:40+00:00",
+      "image_url": "https://gdb.rferl.org/9592ec93-ba4e-4653-a4a1-af18138abadc_cx0_cy3_cw0_w1200_h630.jpg",
+      "summary": "Former Pentagon official Michael Patrick Mulroy described Iran-US talks as a dangerous game. He stated both Washington and Tehran have reasons to avoid renewed conflict. The Strait of Hormuz remains a long-term pressure point, even if an agreement is reached. Former Pentagon official Michael Patrick Mulroy says both Washington and Tehran have incentives to avoid renewed war, but warns the Strait of Hormuz will remain a long-term pressure point even if an agreement is reached.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "‘I felt my humanity was bastardised’: Cynthia Erivo says reaction to Ariana Grande red carpet",
       "url": "https://www.theguardian.com/film/2026/may/28/cynthia-erivo-ariana-grande-red-carpet-incident-racism",
@@ -32,18 +140,6 @@
       "translations": {}
     },
     {
-      "title": "One Sri Lankan officer’s transformative train adventure through India",
-      "url": "https://www.thehindu.com/life-and-style/travel/a-journey-of-the-heart-one-sri-lankan-officers-transformative-train-adventure-through-india/article70897052.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-28T09:26:29+00:00",
-      "image_url": "https://th-i.thgim.com/public/life-and-style/u25yrv/article70897067.ece/alternates/LANDSCAPE_1200/Howrah%204.JPG",
-      "summary": "Saman Athaudahetti completed a 40-day, 13,000-kilometer train journey across India. He traveled on 24 different trains between February and March. The trip fulfilled his long-held desire to explore the country via its railway system. Forty days, some 13,000 kilometres, km, and 24 trains crisscrossing India. that sums up Saman Athaudahetti’s February and March, as he chased his long-held dream of exploring this neighbouring country through its railway network.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Belgrade bets on Beijing as Budapest pivots to Brussels",
       "url": "https://asiatimes.com/2026/05/belgrade-bets-on-beijing-as-budapest-pivots-to-brussels/",
       "source": "Asia Times",
@@ -52,18 +148,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/05/China-Serbia-Vucic-Xi-Jinping.jpg",
       "summary": "Serbian President Aleksandar Vucic visited China on May 25, 2026, signing over 20 bilateral agreements. The deals cover infrastructure and artificial intelligence. This visit signals Belgrade's deepening ties with Beijing. It occurs as the international system fragments into competing power blocs. Hungary's recent pivot towards Brussels is noted in this context. Serbian President Aleksandar Vucic’s state visit to China on May 25, 2026, sent a major geopolitical and geoeconomic signal at a moment when the international system is becoming increasingly fragmented between competing power blocs.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump appears to threaten to ‘blow up’ ally Oman over Strait of Hormuz control",
-      "url": "https://www.thehindu.com/news/international/trump-appears-to-threaten-to-blow-up-ally-oman-over-strait-of-hormuz-control/article71032429.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-28T08:24:21+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/pphwm5/article71032439.ece/alternates/LANDSCAPE_1200/2026-05-28T054422Z_1227286113_RC2SHLA97VYW_RTRMADP_3_USA-TRUMP-EPSTEIN-DEFAMATION.JPG",
-      "summary": "The U. S. President, Donald Trump, threatened to \"blow up\" Oman. President said Oman must \"behave\" or he would \"blow them up,\" when he was asked if he would accept a short-term deal to allow Iran and the Gulf state to control the Strait of Hormuz. Trump appears to threaten to ‘blow up’ ally Oman over Strait of Hormuz control.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -152,30 +236,6 @@
       "translations": {}
     },
     {
-      "title": "Trump’s $1.5 trillion military splurge destined to backfire",
-      "url": "https://asiatimes.com/2026/05/trumps-1-5-trillion-military-splurge-destined-to-backfire/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-05-27T04:31:33+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/05/US-Military-Soldiers-.jpg",
-      "summary": "U. S. Defense Secretary Pete Hegseth defended a proposed $1.5 trillion military budget for FY2027 before Congress. The White House stated this 66% increase signals a commitment to defeating adversaries. The proposal aims to deliver on President Trump's defense objectives. Earlier this month, US Defense Secretary Pete Hegseth stood in front of the House and Senate Appropriations Committees to defend the Trump administration’s record-breaking US$1.5 trillion military budget proposal for FY2027.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Rubio Voices Support For Armenia's Pashinian Ahead Of June 7 Elections",
-      "url": "https://www.rferl.org/a/rubio-support-armenia-pashinian-june-elections/33766035.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-05-26T15:12:58+00:00",
-      "image_url": "https://gdb.rferl.org/af575908-2884-428b-b0a8-5bf1adac370f_w1200_h630.jpg",
-      "summary": "US Secretary of State Marco Rubio voiced support for Armenian Prime Minister Nikol Pashinian. US Secretary of State Marco Rubio expressed support for Armenian Prime Minister Nikol Pashinian during a short stopover at Yerevan's Zvartnots airport on May 26, less than two weeks before parliamentary elections in the Caucasus nation. Rubio Voices Support For Armenia's Pashinian Ahead Of June 7 Elections.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Wars and geopolitical divisions constitute ‘dangerous erosion’ of world order, warns UN chief",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167589",
       "source": "UN News",
@@ -224,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
-      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-25T06:20:46+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/eb2e41792438c6717a26045db70d8e8d1ba1d4c5/0_0_4432_3545/master/4432.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cda35988567089809294c847e01fb516",
-      "summary": "Inmates at Venezuela's Barinas prison occupied the facility's roof on Sunday Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some woundedInmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunday, piling flaming mattresses and calling for the removal of the facility’s director, who they accused of overseeing guards as they shot unarmed prisoners.“We want justice.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "The couple seeking to legalise same-sex marriage in Botswana",
       "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
       "source": "The Guardian",
@@ -260,52 +308,112 @@
       "translations": {}
     },
     {
-      "title": "Massive Russian strike on Kyiv: ‘I hope my friends are alive’",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167583",
-      "source": "UN News",
+      "title": "जेब तो कटती रहेगी, अगर भारत के 'दोस्त' ने नहीं निकाला रास्ता, डील करके आए हैं पीएम मोदी",
+      "url": "https://hindi.news18.com/world/middle-east-crude-oil-supply-crisis-india-uae-energy-deal-to-shield-petrol-cng-prices-hike-iran-us-war-permanent-damage-10520388.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-24T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/24-05-2026-kyiv.jpg/image770x420cropped.jpg",
-      "summary": "Russia launched a large overnight attack on Kyiv, Ukraine. The overnight Russian attack on Ukraine, which centred on the capital, Kyiv, reportedly involved some 90 missiles, including a powerful hypersonic ballistic missile and 60 drones. The senior UN official in the country called for an end to civilian harm. Massive Russian strike on Kyiv: ‘I hope my friends are alive’.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-28T15:48:01+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Global-Crude-Oil-Supply-Crisis-2026-05-973084ec33b64ae729704a9e1ae21b42-1200x800.jpg",
+      "summary": "ईरान-अमेरिका तनाव के कारण कच्चे तेल की आपूर्ति बाधित हो गई है। इससे पेट्रोल, डीजल और सीएनजी की कीमतें बढ़ गई हैं। अंतर्राष्ट्रीय ऊर्जा एजेंसी के अनुसार, तेल आपूर्ति का वैश्विक नक्शा बदल रहा है और कीमतें लंबे समय तक ऊंची रहेंगी। ईरान-अमेरिका के महायुद्ध के कारण दुनिया भर में कच्चे तेल की भारी किल्लत हो गई है, जिससे पेट्रोल, डीजल और सीएनजी की आसमान छूती कीमतें आम जनता की जेबें बुरी तरह जला रही हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जेब तो कटती रहेगी, अगर भारत के 'दोस्त' ने नहीं निकाला रास्ता, डील करके आए हैं पीएम मोदी",
+          "summary": "ईरान-अमेरिका तनाव के कारण कच्चे तेल की आपूर्ति बाधित हो गई है। इससे पेट्रोल, डीजल और सीएनजी की कीमतें बढ़ गई हैं। अंतर्राष्ट्रीय ऊर्जा एजेंसी के अनुसार, तेल आपूर्ति का वैश्विक नक्शा बदल रहा है और कीमतें लंबे समय तक ऊंची रहेंगी। ईरान-अमेरिका के महायुद्ध के कारण दुनिया भर में कच्चे तेल की भारी किल्लत हो गई है, जिससे पेट्रोल, डीजल और सीएनजी की आसमान छूती कीमतें आम जनता की जेबें बुरी तरह जला रही हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "WHO chief calls for urgent Ebola action and pandemic preparedness",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167581",
-      "source": "UN News",
+      "title": "पाकिस्तान-सऊदी अरब की डिफेंस डील कैसे बनी आतंकियों का हथियार? लश्कर के गुर्गे ने लीक कर दी अंदर की",
+      "url": "https://hindi.news18.com/world/pakistan-explainer-pakistan-saudi-arabia-defense-deal-exploited-by-terrorist-let-threatens-pm-shehbaz-munir-over-israel-abraham-accords-10520049.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-23T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/04-07-2022_WHO_Africa_DRC_Ebola.jpg/image770x420cropped.jpg",
-      "summary": "The World Health Organization chief warned of global vulnerability to infectious diseases following recent Ebola and hantavirus outbreaks. He called for urgent action and improved pandemic preparedness at the close of the 79th World Health Assembly in Geneva. The recent Ebola and hantavirus outbreaks demonstrate that the world is still vulnerable to rapidly spreading infectious diseases, Tedros Ghebreyesus, the head of the World Health Organization (WHO), warned on Saturday at the close of the 79th World Health Assembly in Geneva.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-28T14:43:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Pakistan-Saudi-Defence-Deal-2026-05-2db4b22c7e47671be49c25d8624ba498-1200x800.jpg",
+      "summary": "पाकिस्तान की सऊदी अरब के साथ रक्षा सौदा आतंकवाद फैलाने के लिए इस्तेमाल की जा रही है। लश्कर-ए-तैयबा के उप प्रमुख ने प्रधानमंत्री शहबाज शरीफ और सेना प्रमुख आसिम मुनीर को धमकी देते हुए इस सौदे का सच उजागर किया। पाकिस्तान जिस सऊदी अरब के साथ हुई अपनी डिफेंस डील पर फूले नहीं समा रहा था, उसी डील को आतंकवाद फैलाने के लिए इस्तेमाल करने की प्लानिंग चल रही है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान-सऊदी अरब की डिफेंस डील कैसे बनी आतंकियों का हथियार? लश्कर के गुर्गे ने लीक कर दी अंदर की",
+          "summary": "पाकिस्तान की सऊदी अरब के साथ रक्षा सौदा आतंकवाद फैलाने के लिए इस्तेमाल की जा रही है। लश्कर-ए-तैयबा के उप प्रमुख ने प्रधानमंत्री शहबाज शरीफ और सेना प्रमुख आसिम मुनीर को धमकी देते हुए इस सौदे का सच उजागर किया। पाकिस्तान जिस सऊदी अरब के साथ हुई अपनी डिफेंस डील पर फूले नहीं समा रहा था, उसी डील को आतंकवाद फैलाने के लिए इस्तेमाल करने की प्लानिंग चल रही है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167569",
-      "source": "UN News",
+      "title": "'इजरायल का नामो-निशान मिटा देंगे', IRGC ने आग में डाला घी, अमेरिका को लताड़ दिया",
+      "url": "https://hindi.news18.com/world/middle-east-irgc-says-no-peace-until-israel-destroyed-slams-us-donald-trump-after-israeli-airstrike-in-gaza-10520136.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-23T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-05-2026_UNHCR_Ukraine-02.jpg/image770x420cropped.jpg",
-      "summary": "Ukrainian doctor Inna Soldatenko fled her home in Kharkiv on February 24, 2022, after waking to explosions. She now works within the United Kingdom's National Health Service, assisting other refugees. On 23 February 2022, in her home city of Kharkiv, Dr Inna Soldatenko finished work, collected her daughter from school, cooked dinner and prepared a lecture for her students. The next morning, she awoke to explosions.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-28T14:42:00+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/IRGC-Warns-Israel-2026-05-55edc7ad014c0fffc8c09755d19c1722-1200x800.jpg",
+      "summary": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड्स कॉर्प्स (IRGC) ने इजरायल को मिटाने की कसम खाई है। गाजा में हमास कमांडरों के मारे जाने के बाद ईरान ने अमेरिकी शांति प्रस्ताव को खारिज कर दिया है। ईरान की ताकतवर और खूंखार सेना 'इस्लामिक रिवोल्यूशनरी गार्ड्स कॉर्प्स' (IRGC) ने इजरायल को दुनिया के नक्शे से मिटाने की कसम खा ली है. गाजा पट्टी में एक भीषण इजरायली हवाई हमले में हमास के दो टॉप मिलिट्री कमांडरों के मारे जाने से तिलमिलाए ईरान ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के शांति प्रस्ताव को 'कत्लेआम, मर्डर और आतंक का एजेंडा' बताते हुए सिरे से खारिज कर दिया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'इजरायल का नामो-निशान मिटा देंगे', IRGC ने आग में डाला घी, अमेरिका को लताड़ दिया",
+          "summary": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड्स कॉर्प्स (IRGC) ने इजरायल को मिटाने की कसम खाई है। गाजा में हमास कमांडरों के मारे जाने के बाद ईरान ने अमेरिकी शांति प्रस्ताव को खारिज कर दिया है। ईरान की ताकतवर और खूंखार सेना 'इस्लामिक रिवोल्यूशनरी गार्ड्स कॉर्प्स' (IRGC) ने इजरायल को दुनिया के नक्शे से मिटाने की कसम खा ली है. गाजा पट्टी में एक भीषण इजरायली हवाई हमले में हमास के दो टॉप मिलिट्री कमांडरों के मारे जाने से तिलमिलाए ईरान ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के शांति प्रस्ताव को 'कत्लेआम, मर्डर और आतंक का एजेंडा' बताते हुए सिरे से खारिज कर दिया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
-      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
-      "source": "The Guardian",
+      "title": "भारत में 48 डिग्री, उधर ब्रिटेन में 35 डिग्री में ही मच गया हाहाकार, तौलिया क्यों फ्रीज करने लगे",
+      "url": "https://hindi.news18.com/world/britain-united-kingdom-heatwave-viral-dog-video-frozen-towel-cooling-trick-10520048.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-23T11:00:28+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/6aaabf80a4075cfe9a8b3f7b50f84bc9267d3562/300_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ca869d8a14f2e9be7c87dadfc9c9e99",
-      "summary": "Canada is handing asylum seekers rejected at its border to US Immigration and Customs Enforcement (ICE). As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claimsAs each day in US detention passes, Markens Appolon can feel the life he had dreamed of slipping away. The 25-year-old fled Haiti to escape the rampant gang violence that upended his university studies in economics, and planned to join family in Montreal.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-28T12:40:04+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/uk-2026-05-e57f6d2bd75c90ff4eaabc5b3eae75bd-1200x800.jpg",
+      "summary": "भारत में तापमान 48°C तक पहुंच गया है, जबकि ब्रिटेन में 35°C की गर्मी में एक महिला ने कुत्ते को राहत देने के लिए फ्रीज किया हुआ तौलिया इस्तेमाल किया। यह तरीका सोशल मीडिया पर वायरल हो रहा है। भारत में जहां कई राज्यों में तापमान 48°C तक पहुंच चुका है और लोग भीषण गर्मी से परेशान हैं, वहीं UK में 35°C की गर्मी के बीच एक महिला अपने Labrador कुत्ते को राहत देने के लिए फ्रीज किया हुआ तौलिया इस्तेमाल करती नजर आई.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत में 48 डिग्री, उधर ब्रिटेन में 35 डिग्री में ही मच गया हाहाकार, तौलिया क्यों फ्रीज करने लगे",
+          "summary": "भारत में तापमान 48°C तक पहुंच गया है, जबकि ब्रिटेन में 35°C की गर्मी में एक महिला ने कुत्ते को राहत देने के लिए फ्रीज किया हुआ तौलिया इस्तेमाल किया। यह तरीका सोशल मीडिया पर वायरल हो रहा है। भारत में जहां कई राज्यों में तापमान 48°C तक पहुंच चुका है और लोग भीषण गर्मी से परेशान हैं, वहीं UK में 35°C की गर्मी के बीच एक महिला अपने Labrador कुत्ते को राहत देने के लिए फ्रीज किया हुआ तौलिया इस्तेमाल करती नजर आई.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "व्हाइट हाउस में गलत लोग, ट्रंप 2.0 में कमजोर पड़े भारत-अमेरिका रिश्ते? रुबियो की यात्रा भी नहीं पाट",
+      "url": "https://hindi.news18.com/world/america-even-marco-rubio-visit-failed-to-bridge-india-us-divide-mary-millben-reveal-white-house-inside-story-10519847.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-28T12:33:17+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Narendra-Modi-Donald-Trump-2026-05-388634591d3a7e7b999fd6485d1f9506-1200x800.jpg",
+      "summary": "मैरी मिलबेन ने कहा कि भारत-अमेरिका संबंध सुधरने में अगला चुनाव चक्र लगेगा। उन्होंने भारत के नेतृत्व और लोगों की प्रशंसा की। दुनिया की नजरें अमेरिका के चुनाव पर टिकी हैं। मैरी मिलबेन हमेशा ही भारत और पीएम मोदी के सपोर्ट में बोलती हैं. मिलबेन ने कहा, 'पीएम मोदी बहुत ही शालीन और विनम्र हैं'. भारत का नेतृत्व शानदार है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "व्हाइट हाउस में गलत लोग, ट्रंप 2.0 में कमजोर पड़े भारत-अमेरिका रिश्ते? रुबियो की यात्रा भी नहीं पाट",
+          "summary": "मैरी मिलबेन ने कहा कि भारत-अमेरिका संबंध सुधरने में अगला चुनाव चक्र लगेगा। उन्होंने भारत के नेतृत्व और लोगों की प्रशंसा की। दुनिया की नजरें अमेरिका के चुनाव पर टिकी हैं। मैरी मिलबेन हमेशा ही भारत और पीएम मोदी के सपोर्ट में बोलती हैं. मिलबेन ने कहा, 'पीएम मोदी बहुत ही शालीन और विनम्र हैं'. भारत का नेतृत्व शानदार है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कनाडा में भारतीय छात्रा को चाकुओं से गोदा, घर से निकलते ही विधि पर टूट पड़ा हैवान, हालत देख",
+      "url": "https://hindi.news18.com/world/rest-of-world-indian-student-stabbed-to-death-in-canada-gujarat-girl-vidhi-meghani-brutally-attacked-outside-her-house-in-niagara-10519900.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-28T11:55:41+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Canada-Indian-Woman-Killed-2026-05-cbb9065c77ad721c1ea43e28384bfd19-1200x800.jpg",
+      "summary": "गुजरात के आनंद जिले की 22 वर्षीय भारतीय छात्रा विधि कल्पेशभाई मेघानी की कनाडा में 15 मई को चाकू मारकर गुजरात के आनंद जिले की रहने वाली 22 वर्षीय भारतीय छात्रा विधि कल्पेशभाई मेघानी कनाडा में करियर बनाने गई थी. जहां उसकी 15 मई को उसकी चाकुओं से गोद कर हत्या कर दी गई है. बताया जा रहा है कि वो घर से निकली थी कि अटैकर ने इस पर चाकुओं से ताबड़तोड़ वार शुरू कर दिए.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कनाडा में भारतीय छात्रा को चाकुओं से गोदा, घर से निकलते ही विधि पर टूट पड़ा हैवान, हालत देख",
+          "summary": "गुजरात के आनंद जिले की 22 वर्षीय भारतीय छात्रा विधि कल्पेशभाई मेघानी की कनाडा में 15 मई को चाकू मारकर गुजरात के आनंद जिले की रहने वाली 22 वर्षीय भारतीय छात्रा विधि कल्पेशभाई मेघानी कनाडा में करियर बनाने गई थी. जहां उसकी 15 मई को उसकी चाकुओं से गोद कर हत्या कर दी गई है. बताया जा रहा है कि वो घर से निकली थी कि अटैकर ने इस पर चाकुओं से ताबड़तोड़ वार शुरू कर दिए.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "कैसे खत्म हुई नेपाल में 240 साल पुरानी राजशाही? जानिए राजा ज्ञानेन्द्र से गणतंत्र तक की पूरी कहानी",
@@ -560,24 +668,6 @@
       }
     },
     {
-      "title": "ब्रह्मोस की नोक पर इस्‍लामिक NATO का खलीफा, तीन तरफ से घेरेबंदी देख बेदम, 'ब्रह्मास्‍त्र' पहुंचने",
-      "url": "https://hindi.news18.com/news/nation/cyprus-armenia-greece-keen-interest-in-brahmos-cruise-missile-india-string-of-pearls-in-turkey-backyard-islamic-nato-caliph-10518575.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-28T07:31:37+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/brahmos-2026-05-bfed137cca87665346696face3c9a689-1200x800.jpg",
-      "summary": "भारत ने तुर्की के पड़ोस में कूटनीतिक कदम उठाए हैं। इससे तुर्की पर दबाव बढ़ा है। यह कदम बदलते सामरिक माहौल में भारत की अंतरराष्ट्रीय स्थिति को मजबूत करने की दिशा में है। India Brahmos Diplomacy: बदलते सामरिक माहौल को देखते हुए भारत इंटरनेशनल लेवल पर अपने पैर मजबूती से जमाने की दिशा में लगातार आगे बढ़ रहा है. इस्‍लामिक NATO बनाकर जिस तुर्की ने ऑपरेशन सिंदूर के दौरान पाकिस्‍तान की मदद की थी, अब उसका अपने ही आवोहवा में दम घुटने लगा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ब्रह्मोस की नोक पर इस्‍लामिक NATO का खलीफा, तीन तरफ से घेरेबंदी देख बेदम, 'ब्रह्मास्‍त्र' पहुंचने",
-          "summary": "भारत ने तुर्की के पड़ोस में कूटनीतिक कदम उठाए हैं। इससे तुर्की पर दबाव बढ़ा है। यह कदम बदलते सामरिक माहौल में भारत की अंतरराष्ट्रीय स्थिति को मजबूत करने की दिशा में है। India Brahmos Diplomacy: बदलते सामरिक माहौल को देखते हुए भारत इंटरनेशनल लेवल पर अपने पैर मजबूती से जमाने की दिशा में लगातार आगे बढ़ रहा है. इस्‍लामिक NATO बनाकर जिस तुर्की ने ऑपरेशन सिंदूर के दौरान पाकिस्‍तान की मदद की थी, अब उसका अपने ही आवोहवा में दम घुटने लगा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "'डोनाल्ड ट्रंप' नाम के भैंसे की कुर्बानी पर लगी रोक, ईरान ने उड़ाया मजाक; जानिए क्या है पूरा मामला",
       "url": "https://www.amarujala.com/world/bangladesh-viral-donald-trump-nicknamed-buffalo-spared-from-sacrifice-iran-mocks-us-president-2026-05-28",
       "source": "Amar Ujala World",
@@ -592,78 +682,6 @@
           "title": "'डोनाल्ड ट्रंप' नाम के भैंसे की कुर्बानी पर लगी रोक, ईरान ने उड़ाया मजाक; जानिए क्या है पूरा मामला",
           "summary": "बांग्लादेश में 'डोनाल्ड ट्रंप' नाम के भैंस की कुर्बानी पर रोक लगा दी गई है। इस घटना पर ईरान ने मजाक उड़ाया है। 'डोनाल्ड ट्रंप' नाम के भैंस की कुर्बानी पर लगी रोक, ईरान ने उड़ाया मजाक; जानिए क्या है पूरा मामला। 'डोनाल्ड ट्रंप' नाम के भैंसे की कुर्बानी पर लगी रोक, ईरान ने उड़ाया मजाक; जानिए क्या है पूरा मामला।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दिल्ली में एक घर में मिलीं दो लाशें: बुजुर्ग महिलाओं के हैं दोनों शव, मौत की वजह स्पष्ट नहीं",
-      "url": "https://www.amarujala.com/delhi-ncr/bodies-of-two-elderly-women-found-in-a-house-in-delhi-2026-05-28",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-28T07:23:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/28/maka-para-majatha-palsa-oura-lga_4d25a42e50d78464320c0830dcc7173c.png?w=750&dpr=1.0",
-      "summary": "दिल्ली के राजेंद्र नगर इलाके में एक घर से दो बुजुर्ग महिलाओं के शव मिले हैं। पुलिस मामले की जांच कर रही है और मौत की वजह अभी स्पष्ट नहीं है। दिल्ली के राजेंद्र नगर इलाके में गुरुवार को सनसनीखेज मामला सामने आया है। दिल्ली में एक घर में मिलीं दो लाशें: बुजुर्ग महिलाओं के हैं दोनों शव, मौत की वजह स्पष्ट नहीं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिल्ली में एक घर में मिलीं दो लाशें: बुजुर्ग महिलाओं के हैं दोनों शव, मौत की वजह स्पष्ट नहीं",
-          "summary": "दिल्ली के राजेंद्र नगर इलाके में एक घर से दो बुजुर्ग महिलाओं के शव मिले हैं। पुलिस मामले की जांच कर रही है और मौत की वजह अभी स्पष्ट नहीं है। दिल्ली के राजेंद्र नगर इलाके में गुरुवार को सनसनीखेज मामला सामने आया है। दिल्ली में एक घर में मिलीं दो लाशें: बुजुर्ग महिलाओं के हैं दोनों शव, मौत की वजह स्पष्ट नहीं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान के साथ कौन-कौन से मुस्लिम देश खड़े होंगे? मेजर गौरव आर्य ने बताया पूरा गेम",
-      "url": "https://hindi.news18.com/world/middle-east-iran-middle-east-crisis-muslim-countries-support-us-role-trump-geopolitics-major-gaurav-arya-analysis-videos-10518768.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-28T07:09:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/war-2026-05-64fcaa237a36ec8fb9b04ff6d325df9d-1200x800.jpg",
-      "summary": "ईरान और मुस्लिम देशों के बीच संभावित गठबंधन पर मेजर गौरव आर्य ने विश्लेषण किया है। पश्चिम एशिया की राजनीति में बड़े बदलाव के संकेत मिल रहे हैं। ईरान की रणनीति और क्षेत्रीय ताकतों की भूमिका पर चर्चा हुई। Iran War: पश्चिम एशिया की राजनीति एक बार फिर बड़े बदलाव के संकेत दे रही है और इस बार सवाल बेहद अहम है क्या ईरान के साथ मुस्लिम देश खुलकर खड़े होंगे?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के साथ कौन-कौन से मुस्लिम देश खड़े होंगे? मेजर गौरव आर्य ने बताया पूरा गेम",
-          "summary": "ईरान और मुस्लिम देशों के बीच संभावित गठबंधन पर मेजर गौरव आर्य ने विश्लेषण किया है। पश्चिम एशिया की राजनीति में बड़े बदलाव के संकेत मिल रहे हैं। ईरान की रणनीति और क्षेत्रीय ताकतों की भूमिका पर चर्चा हुई। Iran War: पश्चिम एशिया की राजनीति एक बार फिर बड़े बदलाव के संकेत दे रही है और इस बार सवाल बेहद अहम है क्या ईरान के साथ मुस्लिम देश खुलकर खड़े होंगे?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज पर कोई 'गुंडा टैक्स' नहीं वसूल पाएगा ईरान, अमेरिका ने लगाई नई पाबंदी, लपेटे में आया ओमान भी",
-      "url": "https://hindi.news18.com/world/middle-east-strait-of-hormuz-crisis-us-sanctions-iran-official-body-to-manage-strait-with-oman-iran-us-ceasefire-update-10518678.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-28T06:55:19+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/TRUMP-ARAGHCHI-2026-05-5f5f5cf5625847dedeb6102e29655767-1200x800.jpg",
-      "summary": "अमेरिका ने ईरान पर नई पाबंदियां लगाई हैं। इसका उद्देश्य होर्मुज जलडमरूमध्य पर ईरान द्वारा 'गुंडा टैक्स' वसूलने से रोकना है। ओमान भी इन पाबंदियों से प्रभावित हुआ है। US Sanctions Iran Body to Manage Hormuz: पश्चिम एशिया में मचे हुए घमासान के बीच कुल दो ही मुद्दे हैं, जिन पर ईरान-अमेरिका के बीच बात नहीं बन पा रही. एक मसला है- परमाणु हथियार और दूसरा मसला है - स्ट्रेट ऑफ होर्मुज.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज पर कोई 'गुंडा टैक्स' नहीं वसूल पाएगा ईरान, अमेरिका ने लगाई नई पाबंदी, लपेटे में आया ओमान भी",
-          "summary": "अमेरिका ने ईरान पर नई पाबंदियां लगाई हैं। इसका उद्देश्य होर्मुज जलडमरूमध्य पर ईरान द्वारा 'गुंडा टैक्स' वसूलने से रोकना है। ओमान भी इन पाबंदियों से प्रभावित हुआ है। US Sanctions Iran Body to Manage Hormuz: पश्चिम एशिया में मचे हुए घमासान के बीच कुल दो ही मुद्दे हैं, जिन पर ईरान-अमेरिका के बीच बात नहीं बन पा रही. एक मसला है- परमाणु हथियार और दूसरा मसला है - स्ट्रेट ऑफ होर्मुज.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "चीन में परीक्षा से पहले 'हॉटपॉट पार्टी', भारत में पेपर लीक का घमासान, क्यों अलग हैं दोनों देश?",
-      "url": "https://hindi.news18.com/news/career/education-china-gaokao-exam-vs-india-neet-system-differences-viral-hotpot-video-on-social-media-10518555.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-28T06:39:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Gaokao-vs-NEET-Exam-System-2026-05-a90827804950ef26453262021d595d56-1200x800.jpg",
-      "summary": "चीन में गाओकाओ परीक्षा से पहले शिक्षकों ने छात्रों को हॉटपॉट पार्टी दी। भारत में नीट परीक्षा पेपर लीक और विवादों से घिरी रही। दोनों देशों की परीक्षा प्रणालियों में यह एक प्रमुख अंतर है। China Gaokao Exam vs India NEET: चीन की सबसे कठिन परीक्षा 'गाओकाओ' से ठीक 10 दिन पहले एक टीचर ने स्टूडेंट्स को हॉटपॉट पार्टी दी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन में परीक्षा से पहले 'हॉटपॉट पार्टी', भारत में पेपर लीक का घमासान, क्यों अलग हैं दोनों देश?",
-          "summary": "चीन में गाओकाओ परीक्षा से पहले शिक्षकों ने छात्रों को हॉटपॉट पार्टी दी। भारत में नीट परीक्षा पेपर लीक और विवादों से घिरी रही। दोनों देशों की परीक्षा प्रणालियों में यह एक प्रमुख अंतर है। China Gaokao Exam vs India NEET: चीन की सबसे कठिन परीक्षा 'गाओकाओ' से ठीक 10 दिन पहले एक टीचर ने स्टूडेंट्स को हॉटपॉट पार्टी दी.",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -722,38 +740,20 @@
       }
     },
     {
-      "title": "इंजीनियरिंग के साथ टहला रहे कुत्ते! पार्ट टाइम बिजनेस से हर महीने होती है लाखों की छप्परफाड़ कमाई",
-      "url": "https://hindi.news18.com/news/career/jobs-new-york-techie-coby-goodhart-earns-lakhs-monthly-walking-dogs-high-paying-side-hustle-10518357.html",
-      "source": "News18 Hindi (World)",
+      "title": "ईरान ने कुवैत पर दागे ड्रोन्स और मिसाइलें, अमेरिकी हमले का दिया जवाब",
+      "url": "https://www.patrika.com/world-news/iran-launches-drones-and-missiles-on-kuwait-20617758",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-05-28T05:48:40+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Coby-Goodhart-Dog-Walking-Income-2026-05-c6f3c9ea70cb9f18a053d1c4e13a7eb7-1200x800.jpg",
-      "summary": "सॉफ्टवेयर इंजीनियर कोबी गुडहार्ट ने अपने कुत्ते प्रेम को एक सफल व्यवसाय में बदला है। वह अपनी पूर्णकालिक नौकरी के साथ-साथ डॉग वॉकिंग करके प्रति माह लगभग 5.72 लाख रुपये कमाते हैं। Dog Walking Side Hustle: न्यूयार्क के 28 वर्षीय सॉफ्टवेयर इंजीनियर कोबी गुडहार्ट ने पेट्स के प्रति अपने प्यार को शानदार बिजनेस आइडिया में बदल दिया है. कोबी गुडहार्ट फुल-टाइम जॉब के साथ डॉग वॉकिंग का साइड हसल कर हर महीने करीब 5.72 लाख रुपये कमा रहे हैं.",
-      "region": "World",
+      "published_at": "2026-05-28T04:55:21+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/iran-attacks-kuwait.webp",
+      "summary": "ईरान ने होर्मुज स्ट्रेट में वाणिज्यिक जहाजों पर चार ड्रोन दागे. अमेरिका (United States of America) और ईरान (Iran) के बीच जल्द ही डील होने के विषय में बातचीत जारी है और जल्द ही इस पर मुहर लग सकती है। हालांकि इस बीच ईरान ने होर्मुज स्ट्रेट (Strait of Hormuz) में कुछ वाणिज्यिक जहाजों पर 4 ड्रोन्स दागे, जिन्हें अमेरिकी सेना ने मार गिराया।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "इंजीनियरिंग के साथ टहला रहे कुत्ते! पार्ट टाइम बिजनेस से हर महीने होती है लाखों की छप्परफाड़ कमाई",
-          "summary": "सॉफ्टवेयर इंजीनियर कोबी गुडहार्ट ने अपने कुत्ते प्रेम को एक सफल व्यवसाय में बदला है। वह अपनी पूर्णकालिक नौकरी के साथ-साथ डॉग वॉकिंग करके प्रति माह लगभग 5.72 लाख रुपये कमाते हैं। Dog Walking Side Hustle: न्यूयार्क के 28 वर्षीय सॉफ्टवेयर इंजीनियर कोबी गुडहार्ट ने पेट्स के प्रति अपने प्यार को शानदार बिजनेस आइडिया में बदल दिया है. कोबी गुडहार्ट फुल-टाइम जॉब के साथ डॉग वॉकिंग का साइड हसल कर हर महीने करीब 5.72 लाख रुपये कमा रहे हैं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बार-बार हो रही शिकायतों पर एक्शन ले लेते, तो न होती 11 लोगों की मौत, जानें वॉशिंगटन टैंक हादसे का",
-      "url": "https://hindi.news18.com/world/america-what-is-behind-washington-deadliest-tank-rupture-tragedy-know-how-negligence-plays-part-ws-l-10518450.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-28T05:29:15+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/tank-washington-2026-05-e40235e04311b00e50a56aa6a1111484-1200x800.jpg",
-      "summary": "वॉशिंगटन में एक केमिकल फैक्ट्री में हुए हादसे में 11 लोगों की मौत हो गई। यह घटना तब हुई जब प्लांट से संबंधित शिकायतों को नजरअंदाज किया गया। Washington Deadliest Tank Rupture: अमेरिका में राजनीतिक और युद्ध से जुड़ी हुई उठापटक के साथ-साथ एक और घटना सुर्खियां बटोर रही है और वो है वॉशिंगटन और कैलिफोर्निया की कैमिकल फैक्ट्री में हुए धमाके और रिसाव.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बार-बार हो रही शिकायतों पर एक्शन ले लेते, तो न होती 11 लोगों की मौत, जानें वॉशिंगटन टैंक हादसे का",
-          "summary": "वॉशिंगटन में एक केमिकल फैक्ट्री में हुए हादसे में 11 लोगों की मौत हो गई। यह घटना तब हुई जब प्लांट से संबंधित शिकायतों को नजरअंदाज किया गया। Washington Deadliest Tank Rupture: अमेरिका में राजनीतिक और युद्ध से जुड़ी हुई उठापटक के साथ-साथ एक और घटना सुर्खियां बटोर रही है और वो है वॉशिंगटन और कैलिफोर्निया की कैमिकल फैक्ट्री में हुए धमाके और रिसाव.",
-          "region": "अमेरिका"
+          "title": "ईरान ने कुवैत पर दागे ड्रोन्स और मिसाइलें, अमेरिकी हमले का दिया जवाब",
+          "summary": "ईरान ने होर्मुज स्ट्रेट में वाणिज्यिक जहाजों पर चार ड्रोन दागे. अमेरिका (United States of America) और ईरान (Iran) के बीच जल्द ही डील होने के विषय में बातचीत जारी है और जल्द ही इस पर मुहर लग सकती है। हालांकि इस बीच ईरान ने होर्मुज स्ट्रेट (Strait of Hormuz) में कुछ वाणिज्यिक जहाजों पर 4 ड्रोन्स दागे, जिन्हें अमेरिकी सेना ने मार गिराया।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
