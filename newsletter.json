@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-05-29T15:36:02.824378+00:00",
+  "generated_at": "2026-05-29T18:34:52.683967+00:00",
   "article_count": 50,
-  "total_unique_count": 269,
+  "total_unique_count": 266,
   "digest": {
-    "en": "The Shangri-La Dialogue opens as Asia seeks alternatives to the US security umbrella. Meanwhile, Iran faces communication limits after an internet blackout. The WHO reports a high death rate for the Ebola outbreak in the DRC.",
-    "hi": "हॉर्मुज स्ट्रेट पर अमेरिकी सैनिकों की वापसी और ईरान के साथ गुप्त समझौते की खबरें प्रमुख हैं। सूडान में हिंसा जारी है, जबकि कनाडा में लॉरेंस बिश्नोई गिरोह की गतिविधियों से तनाव बढ़ा है।"
+    "en": "Mexico's election annulment bill and Lula's pushback against US influence dominate Americas headlines. The WHO's Ebola warning in the DRC and the Shangri-La Dialogue's focus on Asian security alternatives also command attention. Iran's communications blackout and tentative US-Iran deal signal ongoing regional tensions.",
+    "hi": "पाकिस्तान के इजरायल को मान्यता देने के सवाल पर इशाक डार और रुबियो के बीच हुई बातचीत चर्चा में रही। वहीं, भारत ने कजाकिस्तान के यूरेनियम को लेकर मिडिल ईस्ट में चीन की स्थिति को प्रभावित किया। टेक्सास में आठ छात्रों को बचाए जाने की घटना ने भी ध्यान खींचा।"
   },
   "articles": [
+    {
+      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
+      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-29T17:33:35+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/f57dace0c464fe8d31c0b823933d50e4d04a4384/301_0_6422_5136/master/6422.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2ada5bac441009988146f277bfa0955",
+      "summary": "Mexico's senate passed a constitutional amendment allowing election results to be annulled due Opposition says constitutional amendment would give bill ruling party carte blanche to overturn will of votersSign up for the Breaking News US newsletter emailAmid fierce criticism from opposition groups, Mexico’s senate has passed ‌a constitutional amendment to include “foreign interference” as grounds to annul election results in the country. The bill, which was presented by the country’s preside.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Lula says Brazil will not be treated like ‘tinpot country’ after US designates gangs as terrorists",
+      "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-29T17:13:27+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/00450ce2d8c25bfb9d10a3042ca91bd95cd29342/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=304cc779d1be3bc8951e896ecaec924f",
+      "summary": "Brazil's President Luiz Inácio da Silva stated Brazil will not be treated like a Marco Rubio made announcement after meeting president’s far-right challenger Flávio BolsonaroBrazil will not be treated as a “tinpot country,” the country’s president, Luiz Inácio da Silva, said on Friday after the United States designated Brazil’s two largest criminal gangs, the First Capital Command (PCC) and the Red Command, as foreign terrorist organisations. The announcement, made by Marco Rub.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
+      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-29T16:38:47+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/18afdea08970aaf951de9e441e5d2ec2361a4144/262_0_5758_4609/master/5758.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e27314276dc19ab5f7b04ba0d1c13366",
+      "summary": "Tedros Adhanom Ghebreyesus, head of the World Health Organization, arrived Tedros Adhanom Ghebreyesus calls for ceasefire, saying no conflict is worth condemning people to death from preventable diseaseThe deadly Ebola outbreak in the Democratic Republic of the Congo can be stopped, the head of the World Health Organization has said, as he arrived in the country to support efforts to contain the disease. Tedros Adhanom Ghebreyesus arrived in Kinsasha on Thursday and was d.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Anger at decision not to extradite Canadian suicide kit supplier to face UK justice",
       "url": "https://www.theguardian.com/technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice",
@@ -32,37 +68,13 @@
       "translations": {}
     },
     {
-      "title": "Many put off dental treatments due to costs, but it could mean a high price to pay for an ageing",
-      "url": "https://www.channelnewsasia.com/today/big-read/dental-care-treatments-expensive-financing-support-6148861",
-      "source": "Channel News Asia",
+      "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167603",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-05-29T13:30:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--GjcSFO8U--/c_crop,h_900,w_1600,x_0,y_139/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/29/dental-tooth-prices-affordable-expensive-singapore-gfx-cna-today-big-read-54.png?itok=VGK6P7FW",
-      "summary": "Many individuals delay dental treatments because of costs. With research increasingly linking poor oral health and gum disease to broader conditions such as cardiovascular disease, diabetes and osteoporosis, experts say it's worth strengthening financial support for dental care, especially in an ageing society. Many put off dental treatments due to costs, but it could mean a high price to pay for an ageing.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Whether by cane or feather duster, adults recall the fear of being caned as kids but not the lessons",
-      "url": "https://www.channelnewsasia.com/today/ground-up/caning-children-parenting-school-discipline-6145621",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-29T13:30:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--K2vnXaO2--/c_crop,h_729,w_1296,x_0,y_42/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/29/caning_feather_duster_discipline.jpg?itok=TRDcL4Xx",
-      "summary": "Adults who experienced caning in Singaporean schools recall the fear but not the lessons learned. The Ministry of Education's announcement of a stricter discipline framework has reignited discussions about corporal punishment. Many adults remember the physical pain and humiliation. They report that the punishment did not teach them right from wrong. Instead, it fostered resentment and a desire to avoid getting caught. The long-term impact on their behavior and moral development is questioned.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
-      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-29T12:03:51+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/18afdea08970aaf951de9e441e5d2ec2361a4144/262_0_5758_4609/master/5758.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e27314276dc19ab5f7b04ba0d1c13366",
-      "summary": "Tedros Adhanom Ghebreyesus, head of the World Health Organization, arrived Tedros Adhanom Ghebreyesus calls for ceasefire, saying no conflict is worth condemning people to death from preventable diseaseThe deadly Ebola outbreak in the Democratic Republic of the Congo can be stopped, the head of the World Health Organization has said, as he arrived in the country to support efforts to contain the disease. Tedros Adhanom Ghebreyesus arrived in Kinsasha on Thursday and was d.",
+      "published_at": "2026-05-29T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-05-2026-UNCIEF-SVC.jpg/image770x420cropped.jpg",
+      "summary": "The United Nations reported nearly 10,000 cases of conflict-related sexual violence globally in 2025. This figure more than doubled from the previous year. Rape, sexual slavery, and abduction were used as weapons of war. These acts occurred across Africa, the Middle East, Europe, and the Caribbean. Nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year – more than double the previous year's figure – as rape, sexual slavery and abduction were deployed as weapons of war across Africa, the Middle East, Europe and the Caribbean.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -296,23 +308,173 @@
       "translations": {}
     },
     {
-      "title": "International airlines urged to stick to safety measures in wake of Ebola outbreak",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167587",
-      "source": "UN News",
+      "title": "पाकिस्तान इजरायल को मान्यता देगा? सवाल पर देखने लायक था इशाक डार-रूबियो का मुंह",
+      "url": "https://hindi.news18.com/world/america-will-pakistan-recognize-israel-ishaq-dar-marco-rubio-shocking-reaction-to-abraham-accords-question-goes-viral-10523526.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-26T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/26-05-2026-WFP-DR-Congo.jpg/image770x420cropped.jpg",
-      "summary": "The UN aviation agency urged governments and flight operators to follow post-COVID safety guidelines. As a deadly Ebola strain continues to spread in the Democratic Republic of the Congo (DRC), with cases confirmed in neighbouring Uganda, the UN aviation agency is urging governments and flight operators to closely follow guidelines put in place following the COVID-19 pandemic. International airlines urged to stick to safety measures in wake of Ebola outbreak.",
+      "published_at": "2026-05-29T18:16:07+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Pakistan-Israel-Abraham-Accords-2026-05-2d93fc2687c3370f11801d24d10becb0-1200x800.jpg",
+      "summary": "वॉशिंगटन में एक पत्रकार ने पाकिस्तान के उप प्रधानमंत्री इशाक डार से अब्राहम एकॉर्ड और इजरायल को मान्यता देने पर सवाल पूछा. मार्को रूबियो से मिलने के बाद डार ने इस सवाल का कोई जवाब नहीं दिया. अमेरिका के सामने हमेशा गिड़गिड़ाने वाले पाकिस्तान के हुक्मरानों की सिट्टी-पिट्टी उस वक्त पूरी तरह गुल हो गई, जब वॉशिंगटन में एक पत्रकार ने सीधे अब्राहम एकॉर्ड और इजरायल को मान्यता देने पर चुभता हुआ सवाल दाग दिया.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान इजरायल को मान्यता देगा? सवाल पर देखने लायक था इशाक डार-रूबियो का मुंह",
+          "summary": "वॉशिंगटन में एक पत्रकार ने पाकिस्तान के उप प्रधानमंत्री इशाक डार से अब्राहम एकॉर्ड और इजरायल को मान्यता देने पर सवाल पूछा. मार्को रूबियो से मिलने के बाद डार ने इस सवाल का कोई जवाब नहीं दिया. अमेरिका के सामने हमेशा गिड़गिड़ाने वाले पाकिस्तान के हुक्मरानों की सिट्टी-पिट्टी उस वक्त पूरी तरह गुल हो गई, जब वॉशिंगटन में एक पत्रकार ने सीधे अब्राहम एकॉर्ड और इजरायल को मान्यता देने पर चुभता हुआ सवाल दाग दिया.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत ने मिडिल ईस्ट में चीन का सारा गेम ही पलट दिया! कजाकिस्तान का यूरेनियम बनेगा सुपरपावर बनने की",
+      "url": "https://hindi.news18.com/news/nation/india-turn-tables-on-china-in-middle-east-kazakhstan-uranium-true-fuel-for-become-superpower-10523477.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-29T18:00:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/India-Nuclear-Power-2026-05-5cac783dc37017c29d5b9c4f6cf8270c-1200x800.jpg",
+      "summary": "भारत और कजाकिस्तान ने 4 बिलियन डॉलर के यूरेनियम आपूर्ति समझौते पर हस्ताक्षर किए. यह डील 2026 से प्रभावी होगी. इस समझौते से दोनों देशों के बीच रणनीतिक साझेदारी मजबूत होगी. भारत और कजाकिस्तान के बीच एक एग्रीमेंट हुआ है. कजाटोमप्रोम और परमाणु ऊर्जा विभाग में डील हुई. यूरेनियम सप्लाई के लिए 4 बिलियन डॉलर का खेला हुआ है. 2026 के लिए यह कांट्रैक्ट साइन हुआ है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत ने मिडिल ईस्ट में चीन का सारा गेम ही पलट दिया! कजाकिस्तान का यूरेनियम बनेगा सुपरपावर बनने की",
+          "summary": "भारत और कजाकिस्तान ने 4 बिलियन डॉलर के यूरेनियम आपूर्ति समझौते पर हस्ताक्षर किए. यह डील 2026 से प्रभावी होगी. इस समझौते से दोनों देशों के बीच रणनीतिक साझेदारी मजबूत होगी. भारत और कजाकिस्तान के बीच एक एग्रीमेंट हुआ है. कजाटोमप्रोम और परमाणु ऊर्जा विभाग में डील हुई. यूरेनियम सप्लाई के लिए 4 बिलियन डॉलर का खेला हुआ है. 2026 के लिए यह कांट्रैक्ट साइन हुआ है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "टेक्सास में आसमान में लटके रहे 8 छात्र, 4 घंटे तक चलती रही जिंदगी की जंग, थम गई थीं सबकी सांसें",
+      "url": "https://hindi.news18.com/world/america-texas-roller-coaster-stuck-8-students-hung-in-air-for-4-hours-rescue-operation-galveston-iron-shark-hindi-news-10523541.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-29T17:58:20+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/ride-2026-05-2d0ffc13d09215dfab5bb6ef2fc6ceb0-1200x800.jpg",
+      "summary": "टेक्सास के गैल्वेस्टन में एक रोलर कोस्टर पर 8 छात्र 4 घंटे तक फंसे रहे. तेज धूप में हवा में लटके छात्रों को दमकल विभाग ने सुरक्षित नीचे उतारा. अमेरिका के टेक्सास में एक रोलर कोस्टर राइड अचानक खराब हो गई, जिससे 8 छात्र जमीन से काफी ऊंचाई पर फंस गए. गैल्वेस्टन के प्लेजर पियर में हुई इस घटना के बाद करीब 4 घंटे तक रेस्क्यू ऑपरेशन चला.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "टेक्सास में आसमान में लटके रहे 8 छात्र, 4 घंटे तक चलती रही जिंदगी की जंग, थम गई थीं सबकी सांसें",
+          "summary": "टेक्सास के गैल्वेस्टन में एक रोलर कोस्टर पर 8 छात्र 4 घंटे तक फंसे रहे. तेज धूप में हवा में लटके छात्रों को दमकल विभाग ने सुरक्षित नीचे उतारा. अमेरिका के टेक्सास में एक रोलर कोस्टर राइड अचानक खराब हो गई, जिससे 8 छात्र जमीन से काफी ऊंचाई पर फंस गए. गैल्वेस्टन के प्लेजर पियर में हुई इस घटना के बाद करीब 4 घंटे तक रेस्क्यू ऑपरेशन चला.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान के पास खाने को दाना नहीं, अमेरिका की 'बूट-पॉलिश' में लुटाएगा 12 लाख डॉलर, अब किससे",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-to-spend-12-lakh-dollar-us-lobbying-deal-amid-severe-economic-crisis-and-imf-bailout-10523419.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-29T17:23:05+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Shehbaz-Sharif-Donald-Trump-2026-05-7a91e774c797623f394138733b08eb67-1200x800.jpg",
+      "summary": "पाकिस्तान आर्थिक तंगी से जूझ रहा है. इसके बावजूद वह अपनी छवि सुधारने के लिए एक अमेरिकी फर्म को हर महीने 12 लाख डॉलर देगा. एक तरफ पाकिस्तान दाने-दाने को तरस रहा है और जनता बुनियादी चीजों के लिए तरस रही है, वहीं दूसरी तरफ अमेरिका को खुश करने के लिए शहबाज-मुनीर लाखों डॉलर लुटाने जा रहे हैं. पाकिस्तान हर महीने अमेरिका के एक फर्म को पैसे देगा, ताकि इंटरनेशनल मंच पर उसकी इमेज चमक चुके.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान के पास खाने को दाना नहीं, अमेरिका की 'बूट-पॉलिश' में लुटाएगा 12 लाख डॉलर, अब किससे",
+          "summary": "पाकिस्तान आर्थिक तंगी से जूझ रहा है. इसके बावजूद वह अपनी छवि सुधारने के लिए एक अमेरिकी फर्म को हर महीने 12 लाख डॉलर देगा. एक तरफ पाकिस्तान दाने-दाने को तरस रहा है और जनता बुनियादी चीजों के लिए तरस रही है, वहीं दूसरी तरफ अमेरिका को खुश करने के लिए शहबाज-मुनीर लाखों डॉलर लुटाने जा रहे हैं. पाकिस्तान हर महीने अमेरिका के एक फर्म को पैसे देगा, ताकि इंटरनेशनल मंच पर उसकी इमेज चमक चुके.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान समझौते पर आखिरी फैसला आज, ट्रंप ने बुलाई व्हाइट हाउस सिचुएशन रूम की अहम बैठक",
+      "url": "https://www.patrika.com/world-news/us-iran-deal-trump-situation-room-meeting-final-determination-20623320",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-05-29T17:18:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/US-Iran-Deal-Update-2.webp",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान समझौते पर अंतिम निर्णय लेने के लिए व्हाइट हाउस में राष्ट्रीय सुरक्षा और सैन्य अधिकारियों के साथ बैठक बुलाई. यह बैठक पश्चिम एशिया की सुरक्षा को प्रभावित कर सकती है. US Iran Deal Update: अमेरिका और ईरान के बीच संभावित शांति समझौते को लेकर दुनिया की नजरें अब व्हाइट हाउस पर टिकी हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने शुक्रवार को घोषणा की कि वह व्हाइट हाउस के सिचुएशन रूम में राष्ट्रीय सुरक्षा और सैन्य अधिकारियों के साथ बैठक कर समझौते पर अंतिम फैसला लेंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान समझौते पर आखिरी फैसला आज, ट्रंप ने बुलाई व्हाइट हाउस सिचुएशन रूम की अहम बैठक",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान समझौते पर अंतिम निर्णय लेने के लिए व्हाइट हाउस में राष्ट्रीय सुरक्षा और सैन्य अधिकारियों के साथ बैठक बुलाई. यह बैठक पश्चिम एशिया की सुरक्षा को प्रभावित कर सकती है. US Iran Deal Update: अमेरिका और ईरान के बीच संभावित शांति समझौते को लेकर दुनिया की नजरें अब व्हाइट हाउस पर टिकी हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने शुक्रवार को घोषणा की कि वह व्हाइट हाउस के सिचुएशन रूम में राष्ट्रीय सुरक्षा और सैन्य अधिकारियों के साथ बैठक कर समझौते पर अंतिम फैसला लेंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘थप्पड़ मारे, कपड़े उतरवाए…’ फ्रांसीसी नागरिकों से कथित बर्बरता पर भड़के विदेश मंत्री, इजरायल के",
+      "url": "https://www.patrika.com/world-news/gaza-flotilla-row-french-prosecutors-to-probe-israel-treatment-of-activists-20623291",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-05-29T16:58:12+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/Gaza-Flotilla-Row-.webp",
+      "summary": "फ्रांस और इजरायल के बीच तनाव उत्पन्न हुआ है। Gaza Flotilla Row: गाजा के लिए राहत सामग्री लेकर जा रहे ‘ग्लोबल सुमूद फ्लोटिला’ पर इजरायली सैन्य कार्रवाई को लेकर फ्रांस और इजरायल के बीच तनाव बढ़ गया है। फ्रांस के विदेश मंत्री जीन-नोएल बैरो ने फ्रांसीसी नागरिकों के साथ कथित दुर्व्यवहार, मारपीट, यौन हिंसा और अपमानजनक व्यवहार के आरोपों की जांच के आदेश दिए हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘थप्पड़ मारे, कपड़े उतरवाए…’ फ्रांसीसी नागरिकों से कथित बर्बरता पर भड़के विदेश मंत्री, इजरायल के",
+          "summary": "फ्रांस और इजरायल के बीच तनाव उत्पन्न हुआ है। Gaza Flotilla Row: गाजा के लिए राहत सामग्री लेकर जा रहे ‘ग्लोबल सुमूद फ्लोटिला’ पर इजरायली सैन्य कार्रवाई को लेकर फ्रांस और इजरायल के बीच तनाव बढ़ गया है। फ्रांस के विदेश मंत्री जीन-नोएल बैरो ने फ्रांसीसी नागरिकों के साथ कथित दुर्व्यवहार, मारपीट, यौन हिंसा और अपमानजनक व्यवहार के आरोपों की जांच के आदेश दिए हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान से तनाव के बीच डोनाल्ड ट्रंप का बड़ा ऐलान, कहा- अब होर्मुज से नाकाबंदी हटा ली जाएगी",
+      "url": "https://www.patrika.com/world-news/donald-trump-says-blockade-on-hormuz-will-be-lifted-amid-tensions-with-iran-20623236",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-05-29T16:50:19+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/IRAN-US-WAR-.webp",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने होर्मुज स्ट्रेट से अमेरिकी नौसैनिक नाकाबंदी हटाने की घोषणा की। Middle East tension: ईरान-अमेरिका के बढ़ते तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बड़ा ऐलान किया है। यूएस प्रेसिडेंट ट्रंप ने कि होर्मुज स्ट्रेट पर लगाया गया अमेरिकी नेवल ब्लॉकेड अब हटाया जाएगा, जिससे वहां फंसे जहाज दोबारा अपने देशों की ओर लौट सकेंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान से तनाव के बीच डोनाल्ड ट्रंप का बड़ा ऐलान, कहा- अब होर्मुज से नाकाबंदी हटा ली जाएगी",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने होर्मुज स्ट्रेट से अमेरिकी नौसैनिक नाकाबंदी हटाने की घोषणा की। Middle East tension: ईरान-अमेरिका के बढ़ते तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बड़ा ऐलान किया है। यूएस प्रेसिडेंट ट्रंप ने कि होर्मुज स्ट्रेट पर लगाया गया अमेरिकी नेवल ब्लॉकेड अब हटाया जाएगा, जिससे वहां फंसे जहाज दोबारा अपने देशों की ओर लौट सकेंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘ऑपरेशन सिंदूर’ के समय पाक का साथ देने वाले तुर्की की हवा टाइट, समुद्र में रूस ने जहाज को किया तबाह",
+      "url": "https://www.patrika.com/world-news/russia-attack-on-turkey-vessel-in-black-sea-operation-sindoor-pakistan-support-here-all-details-20623189",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-05-29T16:17:00+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/Turkeyshiprussiaattak.webp",
+      "summary": "ऑपरेशन सिंदूर के दौरान तुर्की ने भारत के खिलाफ पाकिस्तान का समर्थन किया था। ‘ऑपरेशन सिंदूर‘ के दौरान भारत के खिलाफ पाकिस्तान को ‘तुर्की’ ने खुलकर सपोर्ट किया था। उसने सीधे तौर पाकिस्तान को आक्रामक हथियार, ड्रोन और तकनीकी सहायता प्रदान की थी। अब वह आफत में पड़ गया है। ‘ऑपरेशन सिंदूर’ के समय पाक का साथ देने वाले तुर्की की हवा टाइट, समुद्र में रूस ने जहाज को किया तबाह।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘ऑपरेशन सिंदूर’ के समय पाक का साथ देने वाले तुर्की की हवा टाइट, समुद्र में रूस ने जहाज को किया तबाह",
+          "summary": "ऑपरेशन सिंदूर के दौरान तुर्की ने भारत के खिलाफ पाकिस्तान का समर्थन किया था। ‘ऑपरेशन सिंदूर‘ के दौरान भारत के खिलाफ पाकिस्तान को ‘तुर्की’ ने खुलकर सपोर्ट किया था। उसने सीधे तौर पाकिस्तान को आक्रामक हथियार, ड्रोन और तकनीकी सहायता प्रदान की थी। अब वह आफत में पड़ गया है। ‘ऑपरेशन सिंदूर’ के समय पाक का साथ देने वाले तुर्की की हवा टाइट, समुद्र में रूस ने जहाज को किया तबाह।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "440KG यूरेनियम से कितने न्यूक्लियर बम बना सकता है ईरान? सही है ट्रंप-नेतन्याहू का डर",
+      "url": "https://hindi.news18.com/world/middle-east-how-many-nuclear-bombs-can-iran-make-with-440kg-uranium-why-trump-and-netanyahu-are-terrified-10523322.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-29T16:12:26+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Iran-Nuclear-Bomb-2026-05-3a62b17e817ac9d33c0baaf674931228-1200x800.jpg",
+      "summary": "ईरान के पास 440 किलोग्राम यूरेनियम है, जिसे 60 प्रतिशत तक शुद्ध किया गया है। इसे हथियार-ग्रेड तक पहुंचाने में केवल एक सप्ताह लगेगा। पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प और इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू को चिंता है कि ईरान कभी भी परमाणु हथियार बना सकता है। ईरान के पास इस वक्त 440 किलोग्राम यूरेनियम बन गया है, जिसे 60 परसेंट तक शुद्धता लेवल तक पहुंचा दिया गया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "440KG यूरेनियम से कितने न्यूक्लियर बम बना सकता है ईरान? सही है ट्रंप-नेतन्याहू का डर",
+          "summary": "ईरान के पास 440 किलोग्राम यूरेनियम है, जिसे 60 प्रतिशत तक शुद्ध किया गया है। इसे हथियार-ग्रेड तक पहुंचाने में केवल एक सप्ताह लगेगा। पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प और इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू को चिंता है कि ईरान कभी भी परमाणु हथियार बना सकता है। ईरान के पास इस वक्त 440 किलोग्राम यूरेनियम बन गया है, जिसे 60 परसेंट तक शुद्धता लेवल तक पहुंचा दिया गया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "ट्रंप का बड़ा ऐलान- 'हटा दिया होर्मुज ब्लॉकेड, घर लौट रहे US सैनिक', अब धड़ाधड़ निकलेंगे फंसे तेल",
       "url": "https://hindi.news18.com/world/middle-east-trump-ends-strait-of-hormuz-blockade-us-troops-to-return-home-as-stranded-oil-tankers-cleared-for-passage-iran-us-peace-talk-10523280.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-29T15:28:02+00:00",
+      "published_at": "2026-05-29T15:44:35+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/donald-trump-oman-2026-05-d68e726ada3324723a8b9915b451396b-1200x800.jpg",
       "summary": "अमेरिका ने होर्मुज जलडमरूमध्य से नौसैनिक नाकेबंदी हटा ली है। अमेरिकी सैनिक घर लौट रहे हैं। इस फैसले से फंसे तेल टैंकरों और मालवाहक जहाजों को बड़ी राहत मिलेगी। ईरान के लिए कड़े नियम तय किए गए हैं। ट्रंप ने होर्मुज से नौसैनिक नाकेबंदी को पूरी तरह हटाने का एक बहुत बड़ा ऐलान किया है, जिसके बाद वहां लंबे समय से तैनात अमेरिकी सैनिक अब अपने घर लौट रहे हैं.",
       "region": "Middle East & Africa",
@@ -322,6 +484,24 @@
           "title": "ट्रंप का बड़ा ऐलान- 'हटा दिया होर्मुज ब्लॉकेड, घर लौट रहे US सैनिक', अब धड़ाधड़ निकलेंगे फंसे तेल",
           "summary": "अमेरिका ने होर्मुज जलडमरूमध्य से नौसैनिक नाकेबंदी हटा ली है। अमेरिकी सैनिक घर लौट रहे हैं। इस फैसले से फंसे तेल टैंकरों और मालवाहक जहाजों को बड़ी राहत मिलेगी। ईरान के लिए कड़े नियम तय किए गए हैं। ट्रंप ने होर्मुज से नौसैनिक नाकेबंदी को पूरी तरह हटाने का एक बहुत बड़ा ऐलान किया है, जिसके बाद वहां लंबे समय से तैनात अमेरिकी सैनिक अब अपने घर लौट रहे हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "रुपया टूटा, सपनों पर पड़ा असर, अमेरिका में पढ़ाई कर रहे भारतीय छात्रों पर अचानक बढ़ा आर्थिक बोझ",
+      "url": "https://www.patrika.com/national-news/indian-students-us-education-rupee-fall-study-abroad-cost-crisis-dollar-impact-tuition-fees-foreign-challenges-india-learning-situation-20622947",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-05-29T15:36:08+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/Indian-students.webp",
+      "summary": "रुपये में आई रिकॉर्ड गिरावट ने अमेरिका में पढ़ाई कर रहे भारतीय छात्रों पर आर्थिक बोझ बढ़ा दिया है। विदेश मंत्रालय के अनुसार 12 लाख से अधिक भारतीय छात्र विदेशों में उच्च शिक्षा प्राप्त कर रहे हैं। इनमें से बड़ी संख्या टियर-2 और टियर-3 शहरों के छात्रों की है। हवाई टिकटों की बढ़ती कीमतें और वीजा संबंधी अनिश्चितताएं भी इस समस्या को बढ़ा रही हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रुपया टूटा, सपनों पर पड़ा असर, अमेरिका में पढ़ाई कर रहे भारतीय छात्रों पर अचानक बढ़ा आर्थिक बोझ",
+          "summary": "रुपये में आई रिकॉर्ड गिरावट ने अमेरिका में पढ़ाई कर रहे भारतीय छात्रों पर आर्थिक बोझ बढ़ा दिया है। विदेश मंत्रालय के अनुसार 12 लाख से अधिक भारतीय छात्र विदेशों में उच्च शिक्षा प्राप्त कर रहे हैं। इनमें से बड़ी संख्या टियर-2 और टियर-3 शहरों के छात्रों की है। हवाई टिकटों की बढ़ती कीमतें और वीजा संबंधी अनिश्चितताएं भी इस समस्या को बढ़ा रही हैं।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -560,60 +740,6 @@
       }
     },
     {
-      "title": "कनाडा में भारतीय युवक की भालू अटैक में मौत, UFC फाइटर बनने का सपना रह गया अधूरा",
-      "url": "https://hindi.news18.com/world/rest-of-world-kerala-mma-fighter-hrishikesh-koloth-killed-in-canada-bear-attack-ufc-dream-tragedy-10522250.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-29T08:53:18+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/ufc-fighter-2026-05-53c3a9cb9890ce24921bd2a94470fe4d-1200x800.jpg",
-      "summary": "कनाडा में केरल के 27 वर्षीय ऋषिकेश कोलोथ की भालू के हमले में मौत हो गई। वह उत्तरी सस्केचेवान में एक यूरेनियम परियोजना पर काम कर रहे थे। ऋषिकेश का UFC फाइटर बनने का सपना था। भालू को भी मार गिराया गया। Canada News: केरल के 27 वर्षीय ऋषिकेश कोलोथ की कनाडा में भालू के हमले में मौत हो गई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कनाडा में भारतीय युवक की भालू अटैक में मौत, UFC फाइटर बनने का सपना रह गया अधूरा",
-          "summary": "कनाडा में केरल के 27 वर्षीय ऋषिकेश कोलोथ की भालू के हमले में मौत हो गई। वह उत्तरी सस्केचेवान में एक यूरेनियम परियोजना पर काम कर रहे थे। ऋषिकेश का UFC फाइटर बनने का सपना था। भालू को भी मार गिराया गया। Canada News: केरल के 27 वर्षीय ऋषिकेश कोलोथ की कनाडा में भालू के हमले में मौत हो गई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सऊदी की कुर्बानी चाहता है पाकिस्तान! ट्रंप ने अब्राहम अकॉर्ड में ऐसा फंसाया, इजरायल पर डरे मुनीर",
-      "url": "https://hindi.news18.com/world/pakistan-israel-relations-abraham-accords-trump-shehbaz-sharif-asim-munir-saudi-arabia-debate-pakistan-news-10521720.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-29T08:12:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/pakistan-29-2026-05-aba5e0f20016ed436bf3e9aa9569d5c0-1200x800.jpg",
-      "summary": "पाकिस्तान में इजरायल को मान्यता देने पर नई बहस छिड़ गई है। यह चर्चा अब्राहम अकॉर्ड्स के विस्तार की अमेरिकी चर्चाओं के बीच हुई है। प्रधानमंत्री शहबाज शरीफ और फील्ड मार्शल आसिम मुनीर इस मुद्दे पर सऊदी अरब का दौरा कर सकते हैं। Pakistan Israel Relations: अमेरिका की ओर से अब्राहम अकॉर्ड्स के विस्तार की चर्चा के बीच पाकिस्तान की सत्ता में इजरायल को मान्यता देने के मुद्दे पर नई बहस शुरू हो गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी की कुर्बानी चाहता है पाकिस्तान! ट्रंप ने अब्राहम अकॉर्ड में ऐसा फंसाया, इजरायल पर डरे मुनीर",
-          "summary": "पाकिस्तान में इजरायल को मान्यता देने पर नई बहस छिड़ गई है। यह चर्चा अब्राहम अकॉर्ड्स के विस्तार की अमेरिकी चर्चाओं के बीच हुई है। प्रधानमंत्री शहबाज शरीफ और फील्ड मार्शल आसिम मुनीर इस मुद्दे पर सऊदी अरब का दौरा कर सकते हैं। Pakistan Israel Relations: अमेरिका की ओर से अब्राहम अकॉर्ड्स के विस्तार की चर्चा के बीच पाकिस्तान की सत्ता में इजरायल को मान्यता देने के मुद्दे पर नई बहस शुरू हो गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अरबों डॉलर का रॉकेट एक पल में बन गया आग का गोला, अब कैसे देंगे एलन मस्क को टक्कर",
-      "url": "https://hindi.news18.com/world/america-blue-origin-new-glenn-rocket-destroyed-in-explosion-during-hot-fire-test-in-florida-setback-for-company-dream-ws-l-10521694.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-29T07:55:34+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/florida-rocket-hot-fire-test-explosion-2026-05-a8b17d3d6f5cc0520879135b2ac06aee-1200x800.jpg",
-      "summary": "फ्लोरिडा में जेफ बेजोस की कंपनी ब्लू ओरिजिन को एक बड़ा झटका लगा है। फ्लोरिडा में जेफ बेजोस की ब्लू ओरिजिन कंपनी को बड़ा झटका लगा है. न्यू ग्लेन रॉकेट टेस्ट के दौरान लॉन्च पैड पर धमाके से आग लग गई. हालांक‍ि इसमें कोई घायल नहीं हुआ लेक‍िन कंपनी को अरबों डॉलर के नुकसान के साथ ही 10 साल की मेहनत पर भी पानी फि‍र गया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अरबों डॉलर का रॉकेट एक पल में बन गया आग का गोला, अब कैसे देंगे एलन मस्क को टक्कर",
-          "summary": "फ्लोरिडा में जेफ बेजोस की कंपनी ब्लू ओरिजिन को एक बड़ा झटका लगा है। फ्लोरिडा में जेफ बेजोस की ब्लू ओरिजिन कंपनी को बड़ा झटका लगा है. न्यू ग्लेन रॉकेट टेस्ट के दौरान लॉन्च पैड पर धमाके से आग लग गई. हालांक‍ि इसमें कोई घायल नहीं हुआ लेक‍िन कंपनी को अरबों डॉलर के नुकसान के साथ ही 10 साल की मेहनत पर भी पानी फि‍र गया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "भारत आ रहे तेल टैंकर ने होर्मुज जलडमरूमध्य को किया पार, ट्रंप ने क्यों दी ओमान को हमले की धमकी ?",
       "url": "https://www.patrika.com/world-news/oil-tanker-bound-for-india-crosses-strait-of-hormuz-why-did-trump-threaten-oman-with-an-attack-20621534",
       "source": "Patrika (World)",
@@ -628,132 +754,6 @@
           "title": "भारत आ रहे तेल टैंकर ने होर्मुज जलडमरूमध्य को किया पार, ट्रंप ने क्यों दी ओमान को हमले की धमकी ?",
           "summary": "भारत के लिए तेल ले जा रहा निसोस केरोस नामक एक टैंकर होर्मुज जलडमरूमध्य को पार कर चुका है। यह जहाज 21 मई को शारजाह से रवाना हुआ था और तीन जून को विशाखापत्तनम पहुंचेगा। इसे उत्तरी अरब सागर में देखा गया। इस घटना के बीच, संयुक्त राज्य अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ओमान को हमले की धमकी दी।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ओले, आंधी, तूफान और बारिश, देश पर चौतरफा मानसूनी अटैक, मौसम विभाग की डरावनी चेतावनी",
-      "url": "https://www.abplive.com/news/india/aaj-ka-mausam-29-may-2026-imd-rain-heatwave-alert-india-el-nino-forecast-weather-news-3137042",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-05-29T06:48:29+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/29/9ba8ae9cc8c3989b4f9ac4037e11e3c917800350195471431_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारत के मौसम विभाग ने अगले 24 से 48 घंटों के लिए गंभीर मौसम चेतावनी जारी की है. देश के कई हिस्सों में मानसून अभी पूरी तरह नहीं पहुंचा है, लेकिन मौसम विभाग (IMD) ने अगले 24 से 48 घंटों के लेकर गंभीर चेतावनी जारी की है. IMD के अनुसार दक्षिण-पश्चिम मानसून लगातार आगे बढ़ रहा है और आने वाले दो से तीन दिनों में इसके अरब सागर, लक्षद्वीप और बंगाल की खाड़ी के कुछ और इलाकों तक पहुंचने की संभावना है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ओले, आंधी, तूफान और बारिश, देश पर चौतरफा मानसूनी अटैक, मौसम विभाग की डरावनी चेतावनी",
-          "summary": "भारत के मौसम विभाग ने अगले 24 से 48 घंटों के लिए गंभीर मौसम चेतावनी जारी की है. देश के कई हिस्सों में मानसून अभी पूरी तरह नहीं पहुंचा है, लेकिन मौसम विभाग (IMD) ने अगले 24 से 48 घंटों के लेकर गंभीर चेतावनी जारी की है. IMD के अनुसार दक्षिण-पश्चिम मानसून लगातार आगे बढ़ रहा है और आने वाले दो से तीन दिनों में इसके अरब सागर, लक्षद्वीप और बंगाल की खाड़ी के कुछ और इलाकों तक पहुंचने की संभावना है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चीन में क्यों जगह जगह तैयार हो रही है लाखों-करोड़ों कॉकरोचों की फौज, वजह क्या है",
-      "url": "https://hindi.news18.com/photogallery/knowledge/why-is-army-of-millions-of-cockroaches-being-raised-breed-across-china-reason-ws-el-10521749.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-29T06:37:25+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/image-2026-05-ebc604925f29a97df98c2cfd0ec8aeef-1200x800.jpg",
-      "summary": "चीन में लाखों-करोड़ों कॉकरोचों की बड़े पैमाने पर फार्मिंग हो रही है। यह एक बड़ा उद्योग बन गया है, जहां इन कॉकरोचों को हर दिन भारी मात्रा में भोजन खिलाया जाता है। चीन में करीब दर्जन भर जगहों पर बड़े पैमाने पर कॉकरोचों की फार्मिंग होती है. इनमें कई अरब कॉकरोच पाले जाते हैं. उन्हें रोज खाने में कई लाख टन वजन खाना दिया जाता है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन में क्यों जगह जगह तैयार हो रही है लाखों-करोड़ों कॉकरोचों की फौज, वजह क्या है",
-          "summary": "चीन में लाखों-करोड़ों कॉकरोचों की बड़े पैमाने पर फार्मिंग हो रही है। यह एक बड़ा उद्योग बन गया है, जहां इन कॉकरोचों को हर दिन भारी मात्रा में भोजन खिलाया जाता है। चीन में करीब दर्जन भर जगहों पर बड़े पैमाने पर कॉकरोचों की फार्मिंग होती है. इनमें कई अरब कॉकरोच पाले जाते हैं. उन्हें रोज खाने में कई लाख टन वजन खाना दिया जाता है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "उत्तर प्रदेश, हरियाणा, पंजाब, बिहार, झारखंड...गर्मी के कहर से कोई नहीं बचेगा, IMD की रिपोर्ट ने",
-      "url": "https://www.abplive.com/news/india/imd-alert-monsoon-in-india-below-normal-several-states-experience-less-rainfall-more-heatwave-effects-3137011",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-05-29T06:36:40+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/29/22ed1d7aead0e564d1f43967b134966817800323784301115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारत के मौसम विभाग (IMD) ने शुक्रवार, 29 मई 2026 को मॉनसून वर्षा का अनुमान मौसम विभाग (IMD) ने शुक्रवार (29 मई 2026) को जारी नए अनुमान में कहा है कि इस साल देश में मॉनसून की बारिश सामान्य से कम रह सकती है. विभाग के मुताबिक, पूरे देश में इस बार मॉनसून की बारिश लॉन्ग पीरियड एवरेज (LPA) का करीब 90 प्रतिशत रहने की संभावना है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उत्तर प्रदेश, हरियाणा, पंजाब, बिहार, झारखंड...गर्मी के कहर से कोई नहीं बचेगा, IMD की रिपोर्ट ने",
-          "summary": "भारत के मौसम विभाग (IMD) ने शुक्रवार, 29 मई 2026 को मॉनसून वर्षा का अनुमान मौसम विभाग (IMD) ने शुक्रवार (29 मई 2026) को जारी नए अनुमान में कहा है कि इस साल देश में मॉनसून की बारिश सामान्य से कम रह सकती है. विभाग के मुताबिक, पूरे देश में इस बार मॉनसून की बारिश लॉन्ग पीरियड एवरेज (LPA) का करीब 90 प्रतिशत रहने की संभावना है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कॉकरोच जनता पार्टी को बड़ा झटका, दिल्ली हाईकोर्ट ने एक्स अकाउंट को तुरंत बहाल करने से किया इनकार",
-      "url": "https://www.abplive.com/news/india/delhi-high-court-refuses-to-restore-x-account-of-cockroach-janata-party-3137057",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-05-29T06:13:01+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/29/e1716cd485e949c2af16afc3bdab1ded17800354634951368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "दिल्ली हाईकोर्ट ने कॉकरोच जनता पार्टी (CJP) के एक्स अकाउंट को तुरंत बहाल करने से इनकार कर दिया है कॉकरोच जनता पार्टी को दिल्ली हाईकोर्ट से बड़ा झटका लगा है. कोर्ट ने शुक्रवार (29 मई) को अभिजीत दीपके की अगुवाई वाली कॉकरोच जनता पार्टी (CJP) के सोशल मीडिया एक्स अकाउंट को फौरन बहाल करने का निर्देश देने से इनकार कर दिया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कॉकरोच जनता पार्टी को बड़ा झटका, दिल्ली हाईकोर्ट ने एक्स अकाउंट को तुरंत बहाल करने से किया इनकार",
-          "summary": "दिल्ली हाईकोर्ट ने कॉकरोच जनता पार्टी (CJP) के एक्स अकाउंट को तुरंत बहाल करने से इनकार कर दिया है कॉकरोच जनता पार्टी को दिल्ली हाईकोर्ट से बड़ा झटका लगा है. कोर्ट ने शुक्रवार (29 मई) को अभिजीत दीपके की अगुवाई वाली कॉकरोच जनता पार्टी (CJP) के सोशल मीडिया एक्स अकाउंट को फौरन बहाल करने का निर्देश देने से इनकार कर दिया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यूरेनियम, परमाणु हथियार और होर्मुज स्ट्रेट... समझौते के लिए ट्रंप ने ईरान के सामने रख दीं कौन सी",
-      "url": "https://www.abplive.com/news/world/donald-trump-three-conditions-for-us-iran-agreement-on-uranium-enrichment-atom-bomb-howmuz-strait-3137046",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-05-29T06:06:49+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/26/0dd02208ae4ab145383a0f4a4d126b1217772263509011324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने ईरान के साथ किसी भी समझौते के लिए ट्रंप प्रशासन की तीन शर्तें बताईं। अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने कहा कि ट्रंप प्रशासन ने ईरान के साथ किसी भी समझौते के लिए तीन बड़ी शर्तें रखी हैं. तेहरान को अपना अत्यधिक समृद्ध यूरेनियम सौंपना होगा, परमाणु हथियार बनाने की किसी भी कोशिश को छोड़ना होगा और होर्मुज जलडमरूमध्य से निर्बाध नौवहन बहाल करना होगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूरेनियम, परमाणु हथियार और होर्मुज स्ट्रेट... समझौते के लिए ट्रंप ने ईरान के सामने रख दीं कौन सी",
-          "summary": "अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने ईरान के साथ किसी भी समझौते के लिए ट्रंप प्रशासन की तीन शर्तें बताईं। अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने कहा कि ट्रंप प्रशासन ने ईरान के साथ किसी भी समझौते के लिए तीन बड़ी शर्तें रखी हैं. तेहरान को अपना अत्यधिक समृद्ध यूरेनियम सौंपना होगा, परमाणु हथियार बनाने की किसी भी कोशिश को छोड़ना होगा और होर्मुज जलडमरूमध्य से निर्बाध नौवहन बहाल करना होगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'थलापति' को देख खुद को नहीं रोक पाई एयर होस्टेस', ऐसा क्या लिखा, रातोंरात वायरल हो गई",
-      "url": "https://www.abplive.com/news/india/air-hostess-uma-meenakshi-met-tamil-nadu-cm-joseph-vijay-on-flight-3137038",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-05-29T06:06:45+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/29/da490fc024f190fa58f8ed7e5816eca917800342803531200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तमिलनाडु के मुख्यमंत्री सी. जोसेफ विजय ने नई दिल्ली से चेन्नई लौटते समय एक घरेलू उड़ान में एयर होस्टेस उमा मीनाक्षी से मुलाकात की. मीनाक्षी ने मुख्यमंत्री के साथ अपनी तस्वीर इंस्टाग्राम पर साझा की. तस्वीर में विजय काले और सफेद कपड़ों में फ्लाइट के अंदर दिखाई दे रहे हैं. यह पोस्ट सोशल मीडिया पर वायरल हो गई. तमिलनाडु के नए मुख्यमंत्री सी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'थलापति' को देख खुद को नहीं रोक पाई एयर होस्टेस', ऐसा क्या लिखा, रातोंरात वायरल हो गई",
-          "summary": "तमिलनाडु के मुख्यमंत्री सी. जोसेफ विजय ने नई दिल्ली से चेन्नई लौटते समय एक घरेलू उड़ान में एयर होस्टेस उमा मीनाक्षी से मुलाकात की. मीनाक्षी ने मुख्यमंत्री के साथ अपनी तस्वीर इंस्टाग्राम पर साझा की. तस्वीर में विजय काले और सफेद कपड़ों में फ्लाइट के अंदर दिखाई दे रहे हैं. यह पोस्ट सोशल मीडिया पर वायरल हो गई. तमिलनाडु के नए मुख्यमंत्री सी.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘अगले 5 साल में टूटेगा गर्मी का रिकॉर्ड’, WMO ने दी भीषण सूखे और धरती के ‘आग’ उगलने की चेतावनी",
-      "url": "https://www.patrika.com/world-news/wmo-warns-of-next-5-years-will-break-heat-record-20620891",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-05-29T06:06:32+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/heating-earth.webp",
-      "summary": "विश्व मौसम विज्ञान संगठन (WMO) ने चेतावनी दी है कि 2026-2030 के बीच वैश्विक तापमान पूर्व-औद्योगिक स्तर से 1.3 से 1.9 डिग्री सेल्सियस अधिक रहेगा। यह अगले पांच वर्षों में गर्मी के रिकॉर्ड को तोड़ने का संकेत देता है। विश्व मौसम विज्ञान संगठन (WMO) ने हाल ही में एक नई रिपोर्ट जारी की है। इस रिपोर्ट में विश्व मौसम विज्ञान संगठन ने गंभीर चेतावनी दी है कि अगले 5 साल वैश्विक तापमान तेज़ी से बढ़ेगा और गर्मी का रिकॉर्ड टूट जाएगा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘अगले 5 साल में टूटेगा गर्मी का रिकॉर्ड’, WMO ने दी भीषण सूखे और धरती के ‘आग’ उगलने की चेतावनी",
-          "summary": "विश्व मौसम विज्ञान संगठन (WMO) ने चेतावनी दी है कि 2026-2030 के बीच वैश्विक तापमान पूर्व-औद्योगिक स्तर से 1.3 से 1.9 डिग्री सेल्सियस अधिक रहेगा। यह अगले पांच वर्षों में गर्मी के रिकॉर्ड को तोड़ने का संकेत देता है। विश्व मौसम विज्ञान संगठन (WMO) ने हाल ही में एक नई रिपोर्ट जारी की है। इस रिपोर्ट में विश्व मौसम विज्ञान संगठन ने गंभीर चेतावनी दी है कि अगले 5 साल वैश्विक तापमान तेज़ी से बढ़ेगा और गर्मी का रिकॉर्ड टूट जाएगा।",
-          "region": "दुनिया"
         }
       }
     }
