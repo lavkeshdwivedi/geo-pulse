@@ -1,18 +1,66 @@
 {
-  "generated_at": "2026-05-30T06:47:17.311273+00:00",
-  "article_count": 49,
-  "total_unique_count": 265,
+  "generated_at": "2026-05-30T09:19:36.941709+00:00",
+  "article_count": 50,
+  "total_unique_count": 271,
   "digest": {
-    "en": "India reaffirmed its commitment to UN peacekeeping on International Peacekeepers Day. The UN Security Council race is heating up with an Indo-Pacific versus Eurasia divide. The US-Iran talks are stalled due to fundamentally different ideas, according to a former senior US diplomat.",
-    "hi": "कर्नाटक में सरकार गठन की चर्चा तेज हो गई है। डीके शिवकुमार का सीएम बनना लगभग तय है और उन्होंने राज्यपाल से मुलाकात कर सरकार बनाने पर चर्चा की। शपथ ग्रहण समारोह 3 जून को हो सकता है।"
+    "en": "China's green transition dominates headlines. This is contrasted by ongoing political violence in Colombia and the UN's warnings on child safety on social media. International peacekeeping commitments also feature prominently.",
+    "hi": "ईरान के होर्मुज में समुद्री माइंस बिछाने के अमेरिकी दावों पर सवाल उठ रहे हैं। वहीं, सिंधु जल संधि पर भारत-पाकिस्तान के बीच तनाव कराची में जल संकट को बढ़ा रहा है। जापान और फिलीपींस के बीच बढ़ता सहयोग चीन के लिए चिंता का विषय है।"
   },
   "articles": [
+    {
+      "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
+      "url": "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-30T09:00:14+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/c1579ea8824fb84ec2c453a6b0b76108341221aa/281_0_5839_4672/master/5839.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b6c8c9b427fbf361d736535ee01f543",
+      "summary": "Colombia will hold its presidential election on Sunday. Sunday’s presidential vote is contest between left and right – and between contradictory proposals for dealing with the decades-long armed conflictMateo Pérez Rueda was one internship away from completing a degree in political science. The 24-year-old also worked as a bicycle delivery rider and sold fruit salads and juice to finance his passion: the Colombian independent digital magazine El Confid.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Kremlin-Backed Disinformation Unit Tied To Zelenskyy Dubai Apartment Hoax",
+      "url": "https://www.rferl.org/a/russia-fake-news-zelenskyy-claim-dubai-kremlin/33768433.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-05-30T08:55:48+00:00",
+      "image_url": "https://gdb.rferl.org/9833dced-869f-4b95-88ff-08dde5383204_w1200_h630.jpeg",
+      "summary": "Leaked documents examined by Schemes link a debunked report about Ukrainian President Volodymyr Zelensky Leaked documents examined by Schemes link a debunked report that claimed Ukrainian President Volodymyr Zelenskyy bought a $3.2 million apartment in Dubai for his mother to a Kremlin-backed disinformation outfit hit with sanctions by the US, the EU, and the UK. Kremlin-Backed Disinformation Unit Tied To Zelenskyy Dubai Apartment Hoax.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Moana Pasifika sign off from Super Rugby with a win and emotionally charged hymn",
+      "url": "https://www.theguardian.com/sport/2026/may/30/moana-pasifika-sign-off-super-rugby-pacific-hymn-win",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-30T08:31:53+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/69665241b65ac9a02d97c93ce82515ac0a764594/124_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ca3ced79b60566ae9711f2fb673ebff",
+      "summary": "Moana Pasifika defeated the finals-bound ACT Brumbies 21 Undermanned side upsets finals-bound ACT Brumbies 21-19Players come together to mark victory and club’s expected demiseAn undermanned Moana Pasifika have capped off their potential final match with a stirring victory, upsetting the finals-bound ACT Brumbies 21-19. But there were mixed feelings as players celebrated a rare win before coming together with staff to mark the occasion of the club’s fare.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Inside China’s green transition",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/inside-chinas-green-transition/article71037848.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-05-30T07:21:28+00:00",
+      "image_url": "https://th-i.thgim.com/public/latest-news/ayno98/article71039033.ece/alternates/LANDSCAPE_1200/Zhejiang.jpg",
+      "summary": "Ningbo, China, has become a central hub for the country's green industrial push. The city focuses on electric vehicles, advanced manufacturing, and integrated supply chains. This effort aims to secure China's global leadership in future technologies. Ningbo, in southern Zhejiang Province of China, was once a historic maritime hub shaped by Buddhist culture and trade. It has now emerged as a key hub for showcasing China’s green industrial push, where electric vehicles, advanced manufacturing, and tightly integrated supply chains are powering the country’s bid for global leadership in the technologies of the future.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "International Peacekeepers Day: India underscores unflinching commitment to UN peacekeeping",
       "url": "https://www.thehindu.com/news/national/international-peacekeepers-day-india-underscores-unflinching-commitment-to-un-peacekeeping/article71040321.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-05-30T05:55:48+00:00",
+      "published_at": "2026-05-30T06:45:12+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/cyktg5/article68224990.ece/alternates/LANDSCAPE_1200/2019-08-14T204851Z_1801210560_RC13E2D7BAD0_RTRMADP_3_INDIA-KASHMIR-CHINA-UN.JPG",
       "summary": "India marked International Peacekeepers Day on May 29. The International Day of United Nations Peacekeepers is marked annually on May 29, and India is among the largest troop-contributing countries which has deployed nearly three lakh troops in more than 50 UN Peacekeeping Missions since 1948. International Peacekeepers Day: India underscores unflinching commitment to UN peacekeeping.",
       "region": "Asia-Pacific",
@@ -75,18 +123,6 @@
       "published_at": "2026-05-29T16:38:47+00:00",
       "image_url": "https://i.guim.co.uk/img/media/18afdea08970aaf951de9e441e5d2ec2361a4144/262_0_5758_4609/master/5758.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e27314276dc19ab5f7b04ba0d1c13366",
       "summary": "Tedros Adhanom Ghebreyesus, head of the World Health Organization, arrived Tedros Adhanom Ghebreyesus calls for ceasefire, saying no conflict is worth condemning people to death from preventable diseaseThe deadly Ebola outbreak in the Democratic Republic of the Congo can be stopped, the head of the World Health Organization has said, as he arrived in the country to support efforts to contain the disease. Tedros Adhanom Ghebreyesus arrived in Kinsasha on Thursday and was d.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Fear Of Iran And Public Backlash Stall Trump's Push For Abraham Accords",
-      "url": "https://www.rferl.org/a/iran-abraham-accords-trump-saudi-pakistan/33768416.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-05-29T14:41:31+00:00",
-      "image_url": "https://gdb.rferl.org/7af8a2c3-333c-4e2f-8cef-08ddfa9117a6_cx0_cy3_cw0_w1200_h630.jpg",
-      "summary": "US President Donald Trump urged Muslim-majority states to join the Abraham Accords via When US President Donald Trump unexpectedly called on a number of Muslim-majority states to join the Abraham Accords in a social media post suggesting the move could pave the way for a broader peace arrangement with Iran, many responded with uneasy silence. Fear Of Iran And Public Backlash Stall Trump's Push For Abraham Accords.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -171,18 +207,6 @@
       "published_at": "2026-05-28T17:10:53+00:00",
       "image_url": "https://gdb.rferl.org/8b1e1106-89ba-4738-c23c-08debadc7311_w1200_h630.jpg",
       "summary": "Internet access has been partially restored in Iran. The government had shut down communications in late February. This occurred at the start of the US-Israeli bombing campaign. Iranians reported being unable to check on loved ones during months of air strikes. Internet access in Iran has been partially restored after the government shut down communications at the start of the US-Israeli bombing campaign in late February.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake",
-      "url": "https://www.theguardian.com/technology/2026/may/28/image-of-thai-police-in-sparkly-dresses-with-handcuffed-suspect-turns-out-to-be-ai-fake",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-28T16:05:33+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/d3633cb48472a736251988a520826f730d063d9b/257_0_2318_1855/master/2318.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cf0d74a84acf134a14c5d460cee57fa",
-      "summary": "An image showing Thai police in sparkly dresses with a handcuffed suspect was an AI fake. Picture was created by administrator in charge of station’s Facebook account who wanted to create ‘friendlier image’It was an arresting image and an irresistible story. A group of tough Thai police officers – five men and one woman – all wearing elaborate festival-style dresses, surrounding a drug dealer they had caught while undercover. The image, released by local police, was so compelling that i.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -284,49 +308,145 @@
       "translations": {}
     },
     {
-      "title": "Ukrainian Ambassador To US: Kyiv Needs 'Surge' Of Air Defense",
-      "url": "https://www.rferl.org/a/ukraine-air-defense-us-military-support/33767483.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "क्या ईरान ने होर्मुज में समुद्री माइंस नहीं बिछाई? अमेरिकी सेना को नहीं मिले सबूत",
+      "url": "https://hindi.news18.com/world/middle-east-us-iran-war-live-news-donald-trump-hormuz-strait-nuclear-program-ceasefire-us-iran-talks-livenews-10523655.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-28T11:21:01+00:00",
-      "image_url": "https://gdb.rferl.org/9b45da89-78d0-42c4-7496-08debadc3b87_cx7_cy3_cw92_w1200_h630.jpg",
-      "summary": "Ukraine's ambassador to the United States, Olha Stefanishyna, stated Kyiv needs a surge of air defense systems to intercept ballistic missiles from Russia. She told RFE/RL that Ukraine is prepared to finance these additional systems. The ambassador described the need as desperate. Ukraine’s ambassador to the United States, Olha Stefanishyna, told RFE/RL that Ukraine is \"desperate\" to strike an agreement with the United States on military support to intercept ballistic missiles launched from Russia, adding that Ukraine is prepared to finance the additional systems.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-05-30T09:05:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/us-pakistan-2026-05-194a8a16ad0d3017c58e2993de589eb0-1200x800.jpg",
+      "summary": "अमेरिका को ईरान द्वारा होर्मुज जलडमरूमध्य में समुद्री माइंस बिछाने के सबूत नहीं मिले हैं। दोनों देशों के बीच सीजफायर विस्तार पर बातचीत जारी है। US-Iran Tension News: अमेरिका और ईरान के बीच 60 दिन के सीजफायर विस्तार और भविष्य की वार्ता को लेकर बातचीत जारी है, लेकिन अंतिम समझौता अभी नहीं हुआ है. डोनाल्ड ट्रंप ने व्हाइट हाउस के सिचुएशन रूम में बैठक कर साफ किया कि ईरान को परमाणु हथियार छोड़ने, होर्मुज जलडमरूमध्य खोलने और एनरिच्ड यूरेनियम खत्म करने जैसी शर्तें माननी होंगी.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या ईरान ने होर्मुज में समुद्री माइंस नहीं बिछाई? अमेरिकी सेना को नहीं मिले सबूत",
+          "summary": "अमेरिका को ईरान द्वारा होर्मुज जलडमरूमध्य में समुद्री माइंस बिछाने के सबूत नहीं मिले हैं। दोनों देशों के बीच सीजफायर विस्तार पर बातचीत जारी है। US-Iran Tension News: अमेरिका और ईरान के बीच 60 दिन के सीजफायर विस्तार और भविष्य की वार्ता को लेकर बातचीत जारी है, लेकिन अंतिम समझौता अभी नहीं हुआ है. डोनाल्ड ट्रंप ने व्हाइट हाउस के सिचुएशन रूम में बैठक कर साफ किया कि ईरान को परमाणु हथियार छोड़ने, होर्मुज जलडमरूमध्य खोलने और एनरिच्ड यूरेनियम खत्म करने जैसी शर्तें माननी होंगी.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "डीके शिवकुमार का सीएम बनना तय, राज्यपाल से मिल की सरकार गठन पर चर्चा, 3 जून को शपथ संभव",
-      "url": "https://www.amarujala.com/live/india-news/karnataka-cm-live-updates-congress-dk-shivakumar-siddaramaiah-governor-thawarchand-gehlot-2026-05-30",
-      "source": "Amar Ujala National",
+      "title": "सिंधु जल संधि रद्द होने का असर, कराची में भीषण जल संकट, बूंद-बूंद के लिए तरस रहे 3 करोड़ लोग",
+      "url": "https://hindi.news18.com/world/pakistan-is-pakistan-feeling-heat-of-indus-treaty-standoff-karachi-reels-under-water-crisis-ws-l-10524943.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-30T06:38:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/29/karanataka-ka-saema-haga-daka-shavakamara_bfaee75686c14ebd6249d1821643b5aa.png?w=750&dpr=1.0",
-      "summary": "कर्नाटक के उपमुख्यमंत्री डीके शिवकुमार ने राज्यपाल से मिलकर सरकार गठन पर चर्चा की। वे 3 जून को मुख्यमंत्री पद की शपथ ले सकते हैं। यह निर्णय कांग्रेस पार्टी के भीतर हुआ। Karnataka CM LIVE: नई सरकार के गठन पर चर्चा, राज्यपाल से मिले डीके शिवकुमार; 3 जून को ले सकते हैं सीएम पद की शपथ। डीके शिवकुमार का सीएम बनना तय, राज्यपाल से मिल की सरकार गठन पर चर्चा, 3 जून को शपथ संभव।",
+      "published_at": "2026-05-30T08:48:31+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/water-crisis-2026-05-51e4b1020fae8a854ce3ade3b8124292-1200x800.jpg",
+      "summary": "कराची की 70% आबादी भीषण जल संकट का सामना कर रही है. भारत द्वारा सिंधु जल संधि रद्द करने को इसका एक कारण बताया जा रहा है. हालांकि, स्थानीय प्रशासन की जल प्रबंधन में विफलता मुख्य समस्या है. Pakistan Water Crisis: कराची में भीषण गर्मी के बीच 70 फीसदी आबादी जल संकट से जूझ रही है. इसका एक कारण भारत द्वारा सिंधु जल संधि का रद्द करना बताया जा रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सिंधु जल संधि रद्द होने का असर, कराची में भीषण जल संकट, बूंद-बूंद के लिए तरस रहे 3 करोड़ लोग",
+          "summary": "कराची की 70% आबादी भीषण जल संकट का सामना कर रही है. भारत द्वारा सिंधु जल संधि रद्द करने को इसका एक कारण बताया जा रहा है. हालांकि, स्थानीय प्रशासन की जल प्रबंधन में विफलता मुख्य समस्या है. Pakistan Water Crisis: कराची में भीषण गर्मी के बीच 70 फीसदी आबादी जल संकट से जूझ रही है. इसका एक कारण भारत द्वारा सिंधु जल संधि का रद्द करना बताया जा रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जापान-फिलीपींस ने मिलाया हाथ तो बौखलाया चीन, समंदर पर ठोक दिया दावा, बोला- ये सागर हमारा",
+      "url": "https://hindi.news18.com/world/china-angry-over-japan-philippines-maritime-boundary-talks-south-china-sea-dispute-10524688.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-30T08:31:30+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/jinping-6-2026-05-34c1ad7aafe853d797d50e1423179535-1200x800.jpg",
+      "summary": "जापान और फिलीपींस ने समुद्री सीमा पर बातचीत शुरू की. चीन ने इस कदम को अवैध बताया. उसने संबंधित समुद्री क्षेत्र पर अपना विशेष अधिकार होने का दावा किया और दोनों देशों के समक्ष विरोध दर्ज कराया. China News: जापान और फिलीपींस ने समुद्री सीमा तय करने के लिए औपचारिक बातचीत शुरू करने का ऐलान किया है. इसके बाद चीन भड़क गया है और उसने इन वार्ताओं को 'अवैध' करार देते हुए संबंधित समुद्री क्षेत्र पर अपना विशेष अधिकार होने का दावा किया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जापान-फिलीपींस ने मिलाया हाथ तो बौखलाया चीन, समंदर पर ठोक दिया दावा, बोला- ये सागर हमारा",
+          "summary": "जापान और फिलीपींस ने समुद्री सीमा पर बातचीत शुरू की. चीन ने इस कदम को अवैध बताया. उसने संबंधित समुद्री क्षेत्र पर अपना विशेष अधिकार होने का दावा किया और दोनों देशों के समक्ष विरोध दर्ज कराया. China News: जापान और फिलीपींस ने समुद्री सीमा तय करने के लिए औपचारिक बातचीत शुरू करने का ऐलान किया है. इसके बाद चीन भड़क गया है और उसने इन वार्ताओं को 'अवैध' करार देते हुए संबंधित समुद्री क्षेत्र पर अपना विशेष अधिकार होने का दावा किया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की 'फाइनल डील' मीटिंग से पहले ईरान का हमला, कुवैत में अमेरिकी बेस पर बरसी मिसाइल, US के ड्रोन",
+      "url": "https://hindi.news18.com/world/middle-east-iran-missile-strike-kuwait-airbase-mq9-reaper-drone-destroyed-trump-iran-deal-analysis-10524508.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-30T07:16:17+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/mq-9-drone-2026-05-739e4879b86cf7c25ebd09cc321a3925-1200x800.jpg",
+      "summary": "कुवैत के अली अल सलेम एयरबेस पर ईरानी मिसाइल गिरी. इससे अमेरिकी कर्मी घायल हुए और एक MQ-9 ड्रोन नष्ट हो गया. यह घटना ईरान और अमेरिका के बीच संभावित समझौते की चर्चाओं के बीच हुई. Iran MQ9 Drone: ईरान और अमेरिका के बीच संभावित समझौते पर चर्चा जारी है, लेकिन जमीन पर तनाव कम नहीं हुआ है. कुवैत के अली अल सलेम एयरबेस पर ईरानी फतेह-110 बैलिस्टिक मिसाइल के मलबे के गिरने से कई अमेरिकी कर्मी घायल हो गए.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की 'फाइनल डील' मीटिंग से पहले ईरान का हमला, कुवैत में अमेरिकी बेस पर बरसी मिसाइल, US के ड्रोन",
+          "summary": "कुवैत के अली अल सलेम एयरबेस पर ईरानी मिसाइल गिरी. इससे अमेरिकी कर्मी घायल हुए और एक MQ-9 ड्रोन नष्ट हो गया. यह घटना ईरान और अमेरिका के बीच संभावित समझौते की चर्चाओं के बीच हुई. Iran MQ9 Drone: ईरान और अमेरिका के बीच संभावित समझौते पर चर्चा जारी है, लेकिन जमीन पर तनाव कम नहीं हुआ है. कुवैत के अली अल सलेम एयरबेस पर ईरानी फतेह-110 बैलिस्टिक मिसाइल के मलबे के गिरने से कई अमेरिकी कर्मी घायल हो गए.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "फर्जी मुकदमों पर सुप्रीम सख्ती, पति पर लगे दुष्कर्म समेत 10 केस किए खारिज; की ये अहम टिप्पणी",
+      "url": "https://www.amarujala.com/india-news/supreme-court-cracks-down-on-false-cases-dismisses-10-cases-against-husband-makes-important-remarks-2026-05-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-30T07:06:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/supreme-court_79f844ee913ddb646137f042af10f77c.jpeg?w=750&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट ने फर्जी मुकदमों पर सख्त रुख अपनाया. इसने पति के खिलाफ दुष्कर्म सहित 10 मामले खारिज कर दिए. अदालत ने इस संबंध में महत्वपूर्ण टिप्पणी की. फर्जी मुकदमों पर सुप्रीम सख्ती, पति पर लगे दुष्कर्म समेत 10 केस किए खारिज; की ये अहम टिप्पणी।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "डीके शिवकुमार का सीएम बनना तय, राज्यपाल से मिल की सरकार गठन पर चर्चा, 3 जून को शपथ संभव",
-          "summary": "कर्नाटक के उपमुख्यमंत्री डीके शिवकुमार ने राज्यपाल से मिलकर सरकार गठन पर चर्चा की। वे 3 जून को मुख्यमंत्री पद की शपथ ले सकते हैं। यह निर्णय कांग्रेस पार्टी के भीतर हुआ। Karnataka CM LIVE: नई सरकार के गठन पर चर्चा, राज्यपाल से मिले डीके शिवकुमार; 3 जून को ले सकते हैं सीएम पद की शपथ। डीके शिवकुमार का सीएम बनना तय, राज्यपाल से मिल की सरकार गठन पर चर्चा, 3 जून को शपथ संभव।",
+          "title": "फर्जी मुकदमों पर सुप्रीम सख्ती, पति पर लगे दुष्कर्म समेत 10 केस किए खारिज; की ये अहम टिप्पणी",
+          "summary": "सुप्रीम कोर्ट ने फर्जी मुकदमों पर सख्त रुख अपनाया. इसने पति के खिलाफ दुष्कर्म सहित 10 मामले खारिज कर दिए. अदालत ने इस संबंध में महत्वपूर्ण टिप्पणी की. फर्जी मुकदमों पर सुप्रीम सख्ती, पति पर लगे दुष्कर्म समेत 10 केस किए खारिज; की ये अहम टिप्पणी।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "खत्म हो रहा है मई का महीना, सरकार कब जारी करेगी 23वीं किस्त जारी करने की तारीख?",
-      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-yojana-when-will-the-government-release-the-23rd-installment-release-date-2026-05-30",
+      "title": "ईरान बोला- पहले हमारे अरबों डॉलर लौटाओ! क्या यहीं फंस गई ट्रंप की डील?",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-60-day-ceasefire-deal-hormuz-strait-uranium-talks-trump-major-gaurav-arya-analysis-videos-10524535.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-30T06:56:13+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/war-2026-05-05ef9972dbe0daac3ace75a35671ec5f-1200x800.jpg",
+      "summary": "ईरान ने अमेरिका से अपने अरबों डॉलर वापस मांगे. यह मांग ट्रंप की संभावित डील के बीच आई है. दोनों देशों के बीच 60 दिन के युद्धविराम पर बातचीत चल रही है. Iran-US War: ईरान और अमेरिका के बीच 60 दिन के सीजफायर को लेकर बड़ा दावा सामने आया है. रिपोर्ट्स के मुताबिक दोनों देशों के बीच जंग रोकने का नया फॉर्मूला लगभग तैयार हो चुका है और अब सिर्फ ट्रंप की अंतिम मंजूरी बाकी बताई जा रही है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान बोला- पहले हमारे अरबों डॉलर लौटाओ! क्या यहीं फंस गई ट्रंप की डील?",
+          "summary": "ईरान ने अमेरिका से अपने अरबों डॉलर वापस मांगे. यह मांग ट्रंप की संभावित डील के बीच आई है. दोनों देशों के बीच 60 दिन के युद्धविराम पर बातचीत चल रही है. Iran-US War: ईरान और अमेरिका के बीच 60 दिन के सीजफायर को लेकर बड़ा दावा सामने आया है. रिपोर्ट्स के मुताबिक दोनों देशों के बीच जंग रोकने का नया फॉर्मूला लगभग तैयार हो चुका है और अब सिर्फ ट्रंप की अंतिम मंजूरी बाकी बताई जा रही है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "प्रदेश में इस महीने ज्यादा आएगा बिजली बिल, फ्यूल सरचार्ज 10% तक बढ़ेगा; जानें विभाग का नया फैसला",
+      "url": "https://www.amarujala.com/lucknow/up-electricity-bills-to-rise-this-month-fuel-surcharge-to-increase-by-up-to-10-know-the-department-s-new-de-2026-05-30",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-30T06:36:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/23va-kasata-kasa-tarakha-ka-aa-sakata-ha_1d54a403c9f6a5eaa384e1b3f6cfad36.jpeg?w=750&dpr=1.0",
-      "summary": "मई का महीना समाप्त हो रहा है। किसान प्रधानमंत्री किसान योजना की 23वीं किस्त जारी होने की तारीख का इंतजार कर रहे हैं। सरकार ने अभी तक कोई आधिकारिक घोषणा नहीं की है। पीएम किसान योजना की इस बार 23वीं किस्त जारी होगी, लेकिन क्या आप जानते हैं कि ये किस्त किस तारीख को जारी हो सकती है? खत्म हो रहा है मई का महीना, सरकार कब जारी करेगी 23वीं किस्त जारी करने की तारीख?",
+      "published_at": "2026-05-30T06:56:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/bjal-bl-bugdhhaga_7e0d87dff4e03c6cc12089fde178b033.jpeg?w=750&dpr=1.0",
+      "summary": "उत्तर प्रदेश पावर कॉर्पोरेशन लिमिटेड ने जून 2026 के बिजली बिलों में 10 प्रतिशत तक ईंधन और बिजली खरीद समायोजन अधिभार लगाने का फैसला किया है। मार्च में बिजली खरीद और ट्रांसमिशन पर बढ़ी लागत की भरपाई उपभोक्ताओं से की जाएगी। Uttar Pradesh Power Corporation Limited ने जून 2026 के बिजली बिलों में 10 प्रतिशत तक ईंधन और बिजली खरीद समायोजन अधिभार लगाने का फैसला किया है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "खत्म हो रहा है मई का महीना, सरकार कब जारी करेगी 23वीं किस्त जारी करने की तारीख?",
-          "summary": "मई का महीना समाप्त हो रहा है। किसान प्रधानमंत्री किसान योजना की 23वीं किस्त जारी होने की तारीख का इंतजार कर रहे हैं। सरकार ने अभी तक कोई आधिकारिक घोषणा नहीं की है। पीएम किसान योजना की इस बार 23वीं किस्त जारी होगी, लेकिन क्या आप जानते हैं कि ये किस्त किस तारीख को जारी हो सकती है? खत्म हो रहा है मई का महीना, सरकार कब जारी करेगी 23वीं किस्त जारी करने की तारीख?",
+          "title": "प्रदेश में इस महीने ज्यादा आएगा बिजली बिल, फ्यूल सरचार्ज 10% तक बढ़ेगा; जानें विभाग का नया फैसला",
+          "summary": "उत्तर प्रदेश पावर कॉर्पोरेशन लिमिटेड ने जून 2026 के बिजली बिलों में 10 प्रतिशत तक ईंधन और बिजली खरीद समायोजन अधिभार लगाने का फैसला किया है। मार्च में बिजली खरीद और ट्रांसमिशन पर बढ़ी लागत की भरपाई उपभोक्ताओं से की जाएगी। Uttar Pradesh Power Corporation Limited ने जून 2026 के बिजली बिलों में 10 प्रतिशत तक ईंधन और बिजली खरीद समायोजन अधिभार लगाने का फैसला किया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "15 साल के बच्चे ने IPL 2026 में तोड़े कितने रिकॉर्ड? आंकड़ों में सूर्यवंशी का वैभव",
+      "url": "https://www.amarujala.com/cricket/vaibhav-sooryavanshi-ipl-2026-stats-graphics-from-powerplay-to-playoffs-season-that-rewrote-the-record-books-2026-05-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-30T06:42:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/vaibhav-sooryavanshi-ipl-2026-rajasthan-royals-ipl-records-orange-cap-t20-cricket-powerplay-re_653b902a89b2ded1cfe20ec628790407.jpeg?w=750&dpr=1.0",
+      "summary": "आईपीएल 2026 वैभव सूर्यवंशी के नाम रहा। 15 साल की उम्र में राजस्थान रॉयल्स के इस बल्लेबाज ने 16 मैचों में 776 रन, 72 छक्के और 237.30 के स्ट्राइक रेट के साथ रिकॉर्ड बनाए। महज 15 साल की उम्र में राजस्थान रॉयल्स के इस बल्लेबाज ने 16 मैचों में 776 रन, 72 छक्के और 237.30 के स्ट्राइक रेट के साथ ऐसे रिकॉर्ड बनाए, जिन्हें पहले असंभव माना जाता था।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "15 साल के बच्चे ने IPL 2026 में तोड़े कितने रिकॉर्ड? आंकड़ों में सूर्यवंशी का वैभव",
+          "summary": "आईपीएल 2026 वैभव सूर्यवंशी के नाम रहा। 15 साल की उम्र में राजस्थान रॉयल्स के इस बल्लेबाज ने 16 मैचों में 776 रन, 72 छक्के और 237.30 के स्ट्राइक रेट के साथ रिकॉर्ड बनाए। महज 15 साल की उम्र में राजस्थान रॉयल्स के इस बल्लेबाज ने 16 मैचों में 776 रन, 72 छक्के और 237.30 के स्ट्राइक रेट के साथ ऐसे रिकॉर्ड बनाए, जिन्हें पहले असंभव माना जाता था।",
           "region": "दुनिया"
         }
       }
@@ -334,7 +454,7 @@
     {
       "title": "चीन के परमाणु हथियार अब US की पहुंच से दूर, सैटेलाइट से खुलासा; रेगिस्तान में तैयार किया तबाही का",
       "url": "https://www.amarujala.com/world/china-increasing-nuclear-stockpile-satellite-reveals-launch-pads-near-missile-silos-secretly-us-2026-05-30",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-30T06:21:44+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/china-nuclear-power_1ef8aad65279632ed6c5cd0b691258e7.jpeg?w=750&dpr=1.0",
@@ -350,30 +470,12 @@
       }
     },
     {
-      "title": "कॉकरोच जनता पार्टी का नया कैंपेन: GEN-Z से मांगी गड्ढे-कूड़ा, खराब स्ट्रीट लाइट की फोटो; बोले- हम",
-      "url": "https://www.amarujala.com/india-news/send-pictures-of-potholes-garbage-and-faulty-streetlights-cockroach-janta-party-will-press-for-action-2026-05-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-30T06:18:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/21/what-is-the-cockroach-janta-party-viral-on-internet-who-is-the-abhijeet-dipke_11436ff8b85695fcfb7773a96fb2199c.jpeg?w=750&dpr=1.0",
-      "summary": "कॉकरोच जनता पार्टी ने एक नया अभियान शुरू किया है। वे जेन-जेड से गड्ढों, कूड़े और खराब स्ट्रीट लाइट की तस्वीरें भेजने का आग्रह कर रहे हैं। पार्टी इन मुद्दों पर कार्रवाई के लिए दबाव बनाएगी। कॉकरोच जनता पार्टी का नया कैंपेन: GEN-Z से मांगी गड्ढे-कूड़ा, खराब स्ट्रीट लाइट की फोटो; बोले- हम।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कॉकरोच जनता पार्टी का नया कैंपेन: GEN-Z से मांगी गड्ढे-कूड़ा, खराब स्ट्रीट लाइट की फोटो; बोले- हम",
-          "summary": "कॉकरोच जनता पार्टी ने एक नया अभियान शुरू किया है। वे जेन-जेड से गड्ढों, कूड़े और खराब स्ट्रीट लाइट की तस्वीरें भेजने का आग्रह कर रहे हैं। पार्टी इन मुद्दों पर कार्रवाई के लिए दबाव बनाएगी। कॉकरोच जनता पार्टी का नया कैंपेन: GEN-Z से मांगी गड्ढे-कूड़ा, खराब स्ट्रीट लाइट की फोटो; बोले- हम।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "‘पीठ में छुरा घोंप देंगे’, बॉलीवुड के टॉक्सिक माहौल की शेखर सुमन ने खोली पोल; बोले- लोगों में यहां",
       "url": "https://www.amarujala.com/entertainment/bollywood/shekhar-suman-talk-about-bollywood-toxic-and-jealousy-behaviour-says-the-stab-each-other-back-2026-05-30",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-30T06:18:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/17/shakhara-samana_ddccfba12ac7460c76ddd2414f3556bd.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/shakhara-samana_f4beacf4dedab4e1b4673dd628354c2a.jpeg?w=750&dpr=1.0",
       "summary": "अभिनेता शेखर सुमन ने बॉलीवुड के विषाक्त माहौल पर बात की। उन्होंने कहा कि लोग पीठ में छुरा घोंप सकते हैं। सुमन अपने शो में बॉलीवुड हस्तियों के साथ बातचीत करते हैं। इस शो में वह बॉलीवुड सेलेब्स से बातचीत करते हैं। अपने एक हालिया इंटरव्यू में शेखर सुमन ने बॉलीवुड के सेलेब्स की पोल खोल दी है। ‘पीठ में छुरा घोंप देंगे’, बॉलीवुड के टॉक्सिक माहौल की शेखर सुमन ने खोली पोल; बोले- लोगों में यहां।",
       "region": "World",
       "language": "hi",
@@ -386,146 +488,20 @@
       }
     },
     {
-      "title": "बारिश के बीच 11 बजे तक 41 फीसदी से अधिक मतदान, इस बूथ पर कुछ देर रुकी रही वोटिंग",
-      "url": "https://www.amarujala.com/live/shimla/hp-panchayat-election-final-phase-polls-live-updates-results-for-pradhan-vice-pradhan-wm-will-announced-2026-05-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-30T06:18:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/himachal-panchayat-election_5648e1aea1424492ad64480df50e391e.jpeg?w=750&dpr=1.0",
-      "summary": "हिमाचल प्रदेश में पंचायतीराज संस्थाओं के तीसरे और अंतिम चरण में आज मतदान हो रहा है। सुबह 11 बजे तक 41 फीसदी से अधिक मतदान दर्ज किया गया। कुछ मतदान केंद्रों पर बारिश के कारण वोटिंग में देरी हुई। हिमाचल प्रदेश में पंचायतीराज संस्थाओं के तीसरे और अंतिम चरण का मतदान आज हो रहा है। बारिश के बीच 11 बजे तक 41 फीसदी से अधिक मतदान, इस बूथ पर कुछ देर रुकी रही वोटिंग।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बारिश के बीच 11 बजे तक 41 फीसदी से अधिक मतदान, इस बूथ पर कुछ देर रुकी रही वोटिंग",
-          "summary": "हिमाचल प्रदेश में पंचायतीराज संस्थाओं के तीसरे और अंतिम चरण में आज मतदान हो रहा है। सुबह 11 बजे तक 41 फीसदी से अधिक मतदान दर्ज किया गया। कुछ मतदान केंद्रों पर बारिश के कारण वोटिंग में देरी हुई। हिमाचल प्रदेश में पंचायतीराज संस्थाओं के तीसरे और अंतिम चरण का मतदान आज हो रहा है। बारिश के बीच 11 बजे तक 41 फीसदी से अधिक मतदान, इस बूथ पर कुछ देर रुकी रही वोटिंग।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘राष्ट्रपति पद के लिए पूरी तरह से फिट’, डोनाल्ड ट्रंप की मेडिकल रिपोर्ट पर बोले डॉक्टर",
+      "title": "पैरों में सूजन और हाथों पर निशान, ट्रंप की मेडिकल रिपोर्ट पर बोले डॉक्टर- राष्ट्रपति पूरी तरह से फिट",
       "url": "https://www.amarujala.com/world/doctors-say-donald-trump-s-medical-report-shows-he-s-fit-to-run-for-president-2026-05-30",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-30T06:15:56+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/23/danalda-tarapa-amaraka-rashhatarapata_1fd4e5cd5f720d67520ecb83769bece3.jpeg?w=750&dpr=1.0",
-      "summary": "डॉक्टरों ने कहा कि डोनाल्ड ट्रंप की मेडिकल रिपोर्ट से पता चलता है कि वह राष्ट्रपति पद के लिए पूरी तरह से फिट हैं। उनके डॉक्टर ने यह जानकारी दी। डोनाल्ड ट्रंप ने अपनी मेडिकल रिपोर्ट जारी की थी। ‘राष्ट्रपति पद के लिए पूरी तरह से फिट’, डोनाल्ड ट्रंप की मेडिकल रिपोर्ट पर बोले डॉक्टर।",
+      "summary": "डॉक्टरों ने कहा कि डोनाल्ड ट्रंप की मेडिकल रिपोर्ट से पता चलता है कि वह राष्ट्रपति पद के लिए पूरी तरह से फिट हैं। उनके डॉक्टर ने यह जानकारी दी। डोनाल्ड ट्रंप ने अपनी मेडिकल रिपोर्ट जारी की थी। ‘राष्ट्रपति पद के लिए पूरी तरह से फिट’, डोनाल्ड ट्रंप की मेडिकल रिपोर्ट पर बोले डॉक्टर। पैरों में सूजन और हाथों पर निशान, ट्रंप की मेडिकल रिपोर्ट पर बोले डॉक्टर- राष्ट्रपति पूरी तरह से फिट।",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘राष्ट्रपति पद के लिए पूरी तरह से फिट’, डोनाल्ड ट्रंप की मेडिकल रिपोर्ट पर बोले डॉक्टर",
-          "summary": "डॉक्टरों ने कहा कि डोनाल्ड ट्रंप की मेडिकल रिपोर्ट से पता चलता है कि वह राष्ट्रपति पद के लिए पूरी तरह से फिट हैं। उनके डॉक्टर ने यह जानकारी दी। डोनाल्ड ट्रंप ने अपनी मेडिकल रिपोर्ट जारी की थी। ‘राष्ट्रपति पद के लिए पूरी तरह से फिट’, डोनाल्ड ट्रंप की मेडिकल रिपोर्ट पर बोले डॉक्टर।",
+          "title": "पैरों में सूजन और हाथों पर निशान, ट्रंप की मेडिकल रिपोर्ट पर बोले डॉक्टर- राष्ट्रपति पूरी तरह से फिट",
+          "summary": "डॉक्टरों ने कहा कि डोनाल्ड ट्रंप की मेडिकल रिपोर्ट से पता चलता है कि वह राष्ट्रपति पद के लिए पूरी तरह से फिट हैं। उनके डॉक्टर ने यह जानकारी दी। डोनाल्ड ट्रंप ने अपनी मेडिकल रिपोर्ट जारी की थी। ‘राष्ट्रपति पद के लिए पूरी तरह से फिट’, डोनाल्ड ट्रंप की मेडिकल रिपोर्ट पर बोले डॉक्टर। पैरों में सूजन और हाथों पर निशान, ट्रंप की मेडिकल रिपोर्ट पर बोले डॉक्टर- राष्ट्रपति पूरी तरह से फिट।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "राजस्थान बोर्ड ने जारी किया सप्लीमेंट्री परीक्षा का परिणाम, 10वीं-12वीं के छात्र ऐसे करें चेक",
-      "url": "https://www.amarujala.com/education/rbse-supplementary-result-2026-declared-for-class-10-and-12-at-rajresults-nic-in-2026-05-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-30T06:13:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2026/03/29/31-maraca-ka-aa-sakata-ha-rbse-12va-ka-rajalta_074748a48cdec2457bea668a0eb29d57.jpeg?w=750&dpr=1.0",
-      "summary": "राजस्थान बोर्ड ने 10वीं और 12वीं सप्लीमेंट्री परीक्षा के परिणाम जारी किए हैं। छात्र rajeduboard. rajasthan. gov. in और rajresults. nic. in पर अपना रिजल्ट देख सकते हैं। रोल नंबर की मदद से वे अपना रिजल्ट और मार्कशीट डाउनलोड कर सकते हैं। RBSE Supplementary Result 2026: राजस्थान बोर्ड ने 10वीं और 12वीं सप्लीमेंट्री रिजल्ट 2026 जारी कर दिए हैं। छात्र rajeduboard. rajasthan. gov. in और rajresults. nic. in पर रोल नंबर की मदद से अपना रिजल्ट और मार्कशीट डाउनलोड कर सकते हैं।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राजस्थान बोर्ड ने जारी किया सप्लीमेंट्री परीक्षा का परिणाम, 10वीं-12वीं के छात्र ऐसे करें चेक",
-          "summary": "राजस्थान बोर्ड ने 10वीं और 12वीं सप्लीमेंट्री परीक्षा के परिणाम जारी किए हैं। छात्र rajeduboard. rajasthan. gov. in और rajresults. nic. in पर अपना रिजल्ट देख सकते हैं। रोल नंबर की मदद से वे अपना रिजल्ट और मार्कशीट डाउनलोड कर सकते हैं। RBSE Supplementary Result 2026: राजस्थान बोर्ड ने 10वीं और 12वीं सप्लीमेंट्री रिजल्ट 2026 जारी कर दिए हैं। छात्र rajeduboard. rajasthan. gov. in और rajresults. nic. in पर रोल नंबर की मदद से अपना रिजल्ट और मार्कशीट डाउनलोड कर सकते हैं।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "45°C पार पारे में दम तोड़ रही इलेक्ट्रिक गाड़ियों की रेंज, क्यों इतनी जल्दी डाउन होती है बैटरी?",
-      "url": "https://www.amarujala.com/automobiles/ev-driving-range-drops-temperature-crosses-45-c-why-battery-drains-fast-2026-05-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-30T06:12:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/paratakatamaka-tasavara_46439269af8a6c5d096eaead3b333388.jpeg?w=750&dpr=1.0",
-      "summary": "भारत में बढ़ती गर्मी के कारण इलेक्ट्रिक वाहनों की बैटरी की रेंज में कमी आ रही है। 45°C तापमान में इलेक्ट्रिक गाड़ियों की रेंज प्रभावित हो रही है। गर्मी के कारण बैटरी की क्षमता कम हो जाती है, जिससे वाहन की रेंज कम हो जाती है। EV Battery Range Drop Summer India: देशभर में बढ़ती गर्मी का असर अब इलेक्ट्रिक वाहनों पर भी पड़ने लगा है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "45°C पार पारे में दम तोड़ रही इलेक्ट्रिक गाड़ियों की रेंज, क्यों इतनी जल्दी डाउन होती है बैटरी?",
-          "summary": "भारत में बढ़ती गर्मी के कारण इलेक्ट्रिक वाहनों की बैटरी की रेंज में कमी आ रही है। 45°C तापमान में इलेक्ट्रिक गाड़ियों की रेंज प्रभावित हो रही है। गर्मी के कारण बैटरी की क्षमता कम हो जाती है, जिससे वाहन की रेंज कम हो जाती है। EV Battery Range Drop Summer India: देशभर में बढ़ती गर्मी का असर अब इलेक्ट्रिक वाहनों पर भी पड़ने लगा है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या ईरान ने होर्मुज में समुद्री माइंस नहीं बिछाई? अमेरिकी सेना को नहीं मिले सबूत",
-      "url": "https://hindi.news18.com/world/middle-east-us-iran-war-live-news-donald-trump-hormuz-strait-nuclear-program-ceasefire-us-iran-talks-livenews-10523655.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-30T06:08:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/us-pakistan-2026-05-194a8a16ad0d3017c58e2993de589eb0-1200x800.jpg",
-      "summary": "अमेरिका को ईरान द्वारा होर्मुज जलडमरूमध्य में समुद्री माइंस बिछाने के सबूत नहीं मिले हैं। दोनों देशों के बीच सीजफायर विस्तार पर बातचीत जारी है। US-Iran Tension News: अमेरिका और ईरान के बीच 60 दिन के सीजफायर विस्तार और भविष्य की वार्ता को लेकर बातचीत जारी है, लेकिन अंतिम समझौता अभी नहीं हुआ है. डोनाल्ड ट्रंप ने व्हाइट हाउस के सिचुएशन रूम में बैठक कर साफ किया कि ईरान को परमाणु हथियार छोड़ने, होर्मुज जलडमरूमध्य खोलने और एनरिच्ड यूरेनियम खत्म करने जैसी शर्तें माननी होंगी.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या ईरान ने होर्मुज में समुद्री माइंस नहीं बिछाई? अमेरिकी सेना को नहीं मिले सबूत",
-          "summary": "अमेरिका को ईरान द्वारा होर्मुज जलडमरूमध्य में समुद्री माइंस बिछाने के सबूत नहीं मिले हैं। दोनों देशों के बीच सीजफायर विस्तार पर बातचीत जारी है। US-Iran Tension News: अमेरिका और ईरान के बीच 60 दिन के सीजफायर विस्तार और भविष्य की वार्ता को लेकर बातचीत जारी है, लेकिन अंतिम समझौता अभी नहीं हुआ है. डोनाल्ड ट्रंप ने व्हाइट हाउस के सिचुएशन रूम में बैठक कर साफ किया कि ईरान को परमाणु हथियार छोड़ने, होर्मुज जलडमरूमध्य खोलने और एनरिच्ड यूरेनियम खत्म करने जैसी शर्तें माननी होंगी.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "क्या जून में नई कार लेने का है इरादा? यहां देखें अगले महीने आ रहीं टॉप 5 कारों की लिस्ट!",
-      "url": "https://www.amarujala.com/automobiles/upcoming-cars-in-india-june-2026-evs-suvs-and-luxury-sedans-2026-05-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-30T06:06:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/jana-ma-lnaca-ha-raha-ha-ya-jabrathasata-gaugdhaya_f7b3a46187fb3814a9efbf105cb92a6d.jpeg?w=750&dpr=1.0",
-      "summary": "जून 2026 में कई नई कारें भारतीय बाजार में आने वाली हैं। इस महीने में कई टॉप कारें लॉन्च होने वाली हैं। जून में नई कार खरीदने का प्लान बना रहे लोगों के लिए यह महीना रोमांचक होने वाला है। Upcoming Cars India June 2026: अगर आप नई कार खरीदने का प्लान बना रहे हैं तो जून 2026 का महीना आपके लिए बेहद रोमांचक होने वाला है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या जून में नई कार लेने का है इरादा? यहां देखें अगले महीने आ रहीं टॉप 5 कारों की लिस्ट!",
-          "summary": "जून 2026 में कई नई कारें भारतीय बाजार में आने वाली हैं। इस महीने में कई टॉप कारें लॉन्च होने वाली हैं। जून में नई कार खरीदने का प्लान बना रहे लोगों के लिए यह महीना रोमांचक होने वाला है। Upcoming Cars India June 2026: अगर आप नई कार खरीदने का प्लान बना रहे हैं तो जून 2026 का महीना आपके लिए बेहद रोमांचक होने वाला है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "कम तेल में भी बनेगा स्वादिष्ट खाना! जानिए हेल्दी कुकिंग के आसान तरीके",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/oil-prices-are-rising-5-easy-ways-to-cook-delicious-and-healthy-meals-with-less-oil-2026-05-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-30T06:04:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/less-oil-cooking-benefits_77c7cbcaef0de66acdf1abd306fddc70.jpeg?w=750&dpr=1.0",
-      "summary": "लोगों का स्वास्थ्य बेहतर बनाने और देश की आर्थिक बचत के लिए, तेल की खपत कम करना आवश्यक है। अधिक तेल में बना भोजन मोटापा, हाई ब्लड प्रेशर, डायबिटीज और हृदय रोग जैसी समस्याओं को बढ़ाता है। इससे लोगों को हेल्दी कुकिंग के आसान तरीके अपनाने चाहिए। यदि इस युद्ध जैसी स्थितियों में लोग तेल की खपत कम करें, तो इससे देश की आर्थिक बचत के साथ ही लोगों का स्वास्थ्य भी बेहतर बनेगा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कम तेल में भी बनेगा स्वादिष्ट खाना! जानिए हेल्दी कुकिंग के आसान तरीके",
-          "summary": "लोगों का स्वास्थ्य बेहतर बनाने और देश की आर्थिक बचत के लिए, तेल की खपत कम करना आवश्यक है। अधिक तेल में बना भोजन मोटापा, हाई ब्लड प्रेशर, डायबिटीज और हृदय रोग जैसी समस्याओं को बढ़ाता है। इससे लोगों को हेल्दी कुकिंग के आसान तरीके अपनाने चाहिए। यदि इस युद्ध जैसी स्थितियों में लोग तेल की खपत कम करें, तो इससे देश की आर्थिक बचत के साथ ही लोगों का स्वास्थ्य भी बेहतर बनेगा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हिन्दुस्तान कॉपर लिमिटेड में 70 पदों पर भर्ती, मैनेजर और डेप्यूटी मैनेजर बनने का मौका",
-      "url": "https://www.amarujala.com/jobs/hcl-executive-recruitment-2026-apply-online-for-70-manager-and-deputy-manager-posts-2026-05-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-30T05:57:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/23/jobs-sarakara-nakara-govt-jobs_5b71ac8c533b666ebebbcf3249be72ad.jpeg?w=750&dpr=1.0",
-      "summary": "हिन्दुस्तान कॉपर लिमिटेड ने 2025-26 के लिए एग्जीक्यूटिव पदों पर भर्ती निकाली है। आवेदन 5 जून से 25 जून 2026 तक होंगे। चयन इंटरव्यू के आधार पर होगा और उम्मीदवार एचसीएल की आधिकारिक वेबसाइट पर ऑनलाइन आवेदन कर सकते हैं। हिन्दुस्तान कॉपर लिमिटेड में 70 पदों पर भर्ती, मैनेजर और डेप्यूटी मैनेजर बनने का मौका।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिन्दुस्तान कॉपर लिमिटेड में 70 पदों पर भर्ती, मैनेजर और डेप्यूटी मैनेजर बनने का मौका",
-          "summary": "हिन्दुस्तान कॉपर लिमिटेड ने 2025-26 के लिए एग्जीक्यूटिव पदों पर भर्ती निकाली है। आवेदन 5 जून से 25 जून 2026 तक होंगे। चयन इंटरव्यू के आधार पर होगा और उम्मीदवार एचसीएल की आधिकारिक वेबसाइट पर ऑनलाइन आवेदन कर सकते हैं। हिन्दुस्तान कॉपर लिमिटेड में 70 पदों पर भर्ती, मैनेजर और डेप्यूटी मैनेजर बनने का मौका।",
-          "region": "दुनिया"
         }
       }
     },
@@ -548,55 +524,19 @@
       }
     },
     {
-      "title": "7,200mAh बैटरी और 100x जूम! क्या वीवो का ये स्मार्टफोन है इस साल का बेस्ट मिडरेंज फोन?",
-      "url": "https://www.amarujala.com/technology/gadgets/vivo-introduces-s60-series-with-large-battery-and-high-refresh-rate-display-2026-05-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-30T05:36:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/vivo-s60-series_a6acacbebbbb30c366d9b702c25172a9.jpeg?w=750&dpr=1.0",
-      "summary": "वीवो ने मिडरेंज सेगमेंट के तहत अपनी नई 'Vivo S60 सीरीज' लॉन्च की है, जिसमें Vivo S60 और Vivo S60 Vitality Edition शामिल हैं। इस सीरीज में 7,200mAh बैटरी और 100x जूम की सुविधा है। क्या वीवो का ये स्मार्टफोन है इस साल का बेस्ट मिडरेंज फोन?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "7,200mAh बैटरी और 100x जूम! क्या वीवो का ये स्मार्टफोन है इस साल का बेस्ट मिडरेंज फोन?",
-          "summary": "वीवो ने मिडरेंज सेगमेंट के तहत अपनी नई 'Vivo S60 सीरीज' लॉन्च की है, जिसमें Vivo S60 और Vivo S60 Vitality Edition शामिल हैं। इस सीरीज में 7,200mAh बैटरी और 100x जूम की सुविधा है। क्या वीवो का ये स्मार्टफोन है इस साल का बेस्ट मिडरेंज फोन?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "महाराष्ट्र में भीषण सड़क हादसा, बस-बाइक की टक्कर में चार लोगों की मौत",
-      "url": "https://www.amarujala.com/india-news/horrific-road-accident-in-maharashtra-four-people-killed-in-bus-bike-collision-2026-05-30",
+      "title": "पंत के कप्तानी छोड़ते ही क्यों ट्रोल हुए संजीव गोयनका? पुराना वीडियो हो रहा वायरल, लोग उड़ा रहे मजाक",
+      "url": "https://www.amarujala.com/cricket/why-is-sanjiv-goenka-being-trolled-after-rishabh-pant-lsg-captaincy-exit-old-videos-go-viral-ipl-2026-2026-05-30",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-30T05:36:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/09/saugdhaka-hathasa-sakataka-tasavara_a8d5289f3f6a1d4ba2fee9b5c615b656.jpeg?w=750&dpr=1.0",
-      "summary": "महाराष्ट्र में एक भीषण सड़क हादसा हुआ, जिसमें बस-बाइक की टक्कर में चार लोगों की मौत हो गई। यह हादसा महाराष्ट्र में हुआ और पुलिस ने इसकी जांच शुरू कर दी है। महाराष्ट्र में भीषण सड़क हादसा, बस-बाइक की टक्कर में चार लोगों की मौत।",
+      "published_at": "2026-05-30T05:27:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/rishabh-pant-sanjiv-goenka-lucknow-super-giants-lsg-ipl-2026-ipl-captaincy-rishabh-pant-capta_b6c046c0ca04c875bf1d186b46ad0d79.jpeg?w=750&dpr=1.0",
+      "summary": "ऋषभ पंत के लखनऊ सुपर जाएंट्स की कप्तानी छोड़ने के बाद टीम मालिक संजीव गोयनका सोशल मीडिया पर ट्रोल हो रहे हैं। उनके पुराने वीडियो वायरल हो रहे हैं, जिनमें उन्होंने पंत को 10-15 साल का कप्तान बताया था। वजह उनके पुराने वीडियो हैं, जिनमें उन्होंने पंत को 10-15 साल का कप्तान और धोनी-रोहित जैसी सफलता हासिल करने वाला खिलाड़ी बताया था।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "महाराष्ट्र में भीषण सड़क हादसा, बस-बाइक की टक्कर में चार लोगों की मौत",
-          "summary": "महाराष्ट्र में एक भीषण सड़क हादसा हुआ, जिसमें बस-बाइक की टक्कर में चार लोगों की मौत हो गई। यह हादसा महाराष्ट्र में हुआ और पुलिस ने इसकी जांच शुरू कर दी है। महाराष्ट्र में भीषण सड़क हादसा, बस-बाइक की टक्कर में चार लोगों की मौत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "नकाबपोश गिरोह ने दलित समुदाय पर किया हमला, सात लोग घायल; पुलिस कर रही जांच",
-      "url": "https://www.amarujala.com/india-news/caste-violence-in-tamil-nadu-masked-gang-attacks-dalit-community-police-investigating-2026-05-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-30T05:24:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/09/crime_a75e0d0c69f8e4d6bb3d9218f259b76d.jpeg?w=750&dpr=1.0",
-      "summary": "तमिलनाडु में नकाबपोश गिरोह ने दलित समुदाय पर हमला किया, सात लोग घायल हुए। नकाबपोश गिरोह ने दलित समुदाय पर किया हमला, सात लोग घायल; पुलिस कर रही जांच।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नकाबपोश गिरोह ने दलित समुदाय पर किया हमला, सात लोग घायल; पुलिस कर रही जांच",
-          "summary": "तमिलनाडु में नकाबपोश गिरोह ने दलित समुदाय पर हमला किया, सात लोग घायल हुए। नकाबपोश गिरोह ने दलित समुदाय पर किया हमला, सात लोग घायल; पुलिस कर रही जांच।",
+          "title": "पंत के कप्तानी छोड़ते ही क्यों ट्रोल हुए संजीव गोयनका? पुराना वीडियो हो रहा वायरल, लोग उड़ा रहे मजाक",
+          "summary": "ऋषभ पंत के लखनऊ सुपर जाएंट्स की कप्तानी छोड़ने के बाद टीम मालिक संजीव गोयनका सोशल मीडिया पर ट्रोल हो रहे हैं। उनके पुराने वीडियो वायरल हो रहे हैं, जिनमें उन्होंने पंत को 10-15 साल का कप्तान बताया था। वजह उनके पुराने वीडियो हैं, जिनमें उन्होंने पंत को 10-15 साल का कप्तान और धोनी-रोहित जैसी सफलता हासिल करने वाला खिलाड़ी बताया था।",
           "region": "दुनिया"
         }
       }
@@ -620,27 +560,9 @@
       }
     },
     {
-      "title": "बिना AC के भी किचन रहेगा ठंडा, बस करें ये काम",
-      "url": "https://www.amarujala.com/lifestyle/summer-kitchen-cooling-tips-heat-solutions-in-hindi-kitchen-ko-thanda-kaise-rakhe-2026-05-29",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-30T05:04:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/29/kitchen-cooling-hacks_c3a25fef1ea1c907671d9e3e652b5778.jpeg?w=750&dpr=1.0",
-      "summary": "गर्मियों में किचन को ठंडा रखने के लिए एग्जॉस्ट फैन और वेंटिलेशन का उपयोग किया जा सकता है। Summer Kitchen Hacks: गर्मियों में किचन को ठंडा रखने के आसान तरीके जानिए। एग्जॉस्ट फैन, सही वेंटिलेशन, इनडोर प्लांट्स और स्मार्ट किचन टिप्स से खाना बनाना होगा आसान। बिना AC के भी किचन रहेगा ठंडा, बस करें ये काम।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बिना AC के भी किचन रहेगा ठंडा, बस करें ये काम",
-          "summary": "गर्मियों में किचन को ठंडा रखने के लिए एग्जॉस्ट फैन और वेंटिलेशन का उपयोग किया जा सकता है। Summer Kitchen Hacks: गर्मियों में किचन को ठंडा रखने के आसान तरीके जानिए। एग्जॉस्ट फैन, सही वेंटिलेशन, इनडोर प्लांट्स और स्मार्ट किचन टिप्स से खाना बनाना होगा आसान। बिना AC के भी किचन रहेगा ठंडा, बस करें ये काम।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "पाकिस्तानी रिपोर्टर के सवाल पर इशाक डार का चौंकाने वाला रिएक्शन, वीडियो वायरल",
       "url": "https://www.amarujala.com/world/pakistani-reporter-asks-will-recognize-israel-ishaq-dar-and-marco-rubio-do-not-answer-question-video-2026-05-30",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-30T05:02:15+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/pakistan-on-israel_74c93f292c66761d08974e8da37fbf25.png?w=750&dpr=1.0",
@@ -674,27 +596,9 @@
       }
     },
     {
-      "title": "अंधेरी रात, आंधी-तूफान और नीचे बिछी लाशें, शोर में दब गईं आखिरी चीखें तक, रुला देंगी ये तस्वीरें",
-      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/kanpur/hamirpur-bridge-accident-pitch-black-night-raging-storm-and-bodies-strewn-below-final-screams-were-drowned-ou-2026-05-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-30T04:23:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/kanpur_5aa4e6aa5c469442257455c7477dd237.jpeg?w=750&dpr=1.0",
-      "summary": "हमीरपुर जिले में बेतवा नदी पर निर्माणाधीन पुल हादसे में कई परिवारों को जिंदगीभर का दर्द मिला। स्वासा गांव निवासी राजेंद्र सिंह अपने बेटे पुष्पेंद्र की आखिरी चीख तक नहीं सुन सके। तेज आंधी और बारिश के बीच यह हादसा हुआ। हमीरपुर जिले में बेतवा नदी पर निर्माणाधीन पुल हादसे ने कई परिवारों को जिंदगीभर का दर्द दे दिया। स्वासा गांव निवासी राजेंद्र सिंह के लिए यह कभी न भरने वाला जख्म बन गया।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अंधेरी रात, आंधी-तूफान और नीचे बिछी लाशें, शोर में दब गईं आखिरी चीखें तक, रुला देंगी ये तस्वीरें",
-          "summary": "हमीरपुर जिले में बेतवा नदी पर निर्माणाधीन पुल हादसे में कई परिवारों को जिंदगीभर का दर्द मिला। स्वासा गांव निवासी राजेंद्र सिंह अपने बेटे पुष्पेंद्र की आखिरी चीख तक नहीं सुन सके। तेज आंधी और बारिश के बीच यह हादसा हुआ। हमीरपुर जिले में बेतवा नदी पर निर्माणाधीन पुल हादसे ने कई परिवारों को जिंदगीभर का दर्द दे दिया। स्वासा गांव निवासी राजेंद्र सिंह के लिए यह कभी न भरने वाला जख्म बन गया।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "'कोई देश नहीं थोप सकता अपना वर्चस्व':अमेरिका की चीन को दो टूक, पीट हेगसेथ ने भारत को बताया ताकतवर",
       "url": "https://www.amarujala.com/world/us-defence-chief-pete-hegseth-draws-red-line-on-china-says-no-country-can-impose-hegemony-calls-india-powerful-2026-05-30",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-30T04:15:04+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/pete-hegseth_27eb1ced331de6e4b87a956657535972.jpeg?w=750&dpr=1.0",
@@ -706,24 +610,6 @@
           "title": "'कोई देश नहीं थोप सकता अपना वर्चस्व':अमेरिका की चीन को दो टूक, पीट हेगसेथ ने भारत को बताया ताकतवर",
           "summary": "अमेरिका के रक्षा प्रमुख पीट हेगसेथ ने कहा कि कोई देश अपना वर्चस्व थोप नहीं सकता। उन्होंने भारत को एक ताकतवर देश बताया और चीन को एक स्पष्ट संदेश दिया। यह बयान अमेरिका की विदेश नीति में एक महत्वपूर्ण बदलाव को दर्शाता है। 'कोई देश नहीं थोप सकता अपना वर्चस्व':अमेरिका की चीन को दो टूक, पीट हेगसेथ ने भारत को बताया ताकतवर।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "प्रदेश में कहर बनकर टूटी आंधी-बारिश, 28 लोगों की दर्दनाक मौत; कई इलाकों में खंभे गिरने से बिजली",
-      "url": "https://www.amarujala.com/lucknow/up-storm-and-rain-wreak-havoc-in-the-state-tragically-killing-28-people-power-supply-disrupted-in-several-a-2026-05-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-30T04:00:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/yapa-ma-aathha-oura-brasha-ka-kahara_5b8501a91993d0dc9d661205f174c451.jpeg?w=750&dpr=1.0",
-      "summary": "उत्तर प्रदेश में आंधी-बारिश से 28 लोगों की मौत हो गई। कई इलाकों में खंभे गिरने से बिजली की आपूर्ति बाधित हुई। बारिश और तूफान से गर्मी से राहत मिली लेकिन इसके चलते कई लोगों की जान चली गई। Weather in UP: यूपी में शुक्रवार को हुई बारिश और चले तूफान से गर्मी से तो राहत मिली है लेकिन इसके चलते अलग-अलग जिलों में 28 लोगों की मौत हो गई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रदेश में कहर बनकर टूटी आंधी-बारिश, 28 लोगों की दर्दनाक मौत; कई इलाकों में खंभे गिरने से बिजली",
-          "summary": "उत्तर प्रदेश में आंधी-बारिश से 28 लोगों की मौत हो गई। कई इलाकों में खंभे गिरने से बिजली की आपूर्ति बाधित हुई। बारिश और तूफान से गर्मी से राहत मिली लेकिन इसके चलते कई लोगों की जान चली गई। Weather in UP: यूपी में शुक्रवार को हुई बारिश और चले तूफान से गर्मी से तो राहत मिली है लेकिन इसके चलते अलग-अलग जिलों में 28 लोगों की मौत हो गई।",
-          "region": "दुनिया"
         }
       }
     },
@@ -741,6 +627,132 @@
         "hi": {
           "title": "इराक में ईसाई समुदाय को मिले नए धर्मगुरु, अलास्का की पहाड़ियों में बड़ा हादसा,तीन लोगों की मौत",
           "summary": "इराक में ईसाई समुदाय को नए धर्मगुरु मिले हैं। अलास्का की पहाड़ियों में एक हादसे में तीन लोगों की मौत हो गई। इराक में ईसाई समुदाय को मिले नए धर्मगुरु, अलास्का की पहाड़ियों में बड़ा हादसा, तीन लोगों की मौत। इराक में ईसाई समुदाय को मिले नए धर्मगुरु, अलास्का की पहाड़ियों में बड़ा हादसा, तीन लोगों की मौत।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'आज तक किसी राष्ट्रपति के साथ ऐसा नहीं हुआ', ट्रंप का दिल क्यों हुआ ब्रेक, एकदम से जजसाहब पर भड़क गए",
+      "url": "https://hindi.news18.com/world/america-donald-trump-angry-on-judge-kennedy-center-name-removal-court-ruling-10523644.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-30T03:27:46+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Donald-Trump-Slams-Judge-2026-05-10a9f57f8714c54cf7e1e8688d230dc8-1200x800.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप संघीय जज क्रिस्टोफर कूपर के फैसले पर भड़क गए हैं। जज ने जॉन एफ. केनेडी सेंटर से ट्रंप का नाम जोड़ने और मरम्मत योजना पर रोक लगा दी थी। केनेडी सेंटर फॉर द परफॉर्मिंग आर्ट्स से ट्रंप का नाम जोड़ने के फैसले को रद्द कर दिया और संस्थान को दो साल के लिए बंद कर बड़े पैमाने पर मरम्मत करने की योजना पर भी रोक लगा दी.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'आज तक किसी राष्ट्रपति के साथ ऐसा नहीं हुआ', ट्रंप का दिल क्यों हुआ ब्रेक, एकदम से जजसाहब पर भड़क गए",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप संघीय जज क्रिस्टोफर कूपर के फैसले पर भड़क गए हैं। जज ने जॉन एफ. केनेडी सेंटर से ट्रंप का नाम जोड़ने और मरम्मत योजना पर रोक लगा दी थी। केनेडी सेंटर फॉर द परफॉर्मिंग आर्ट्स से ट्रंप का नाम जोड़ने के फैसले को रद्द कर दिया और संस्थान को दो साल के लिए बंद कर बड़े पैमाने पर मरम्मत करने की योजना पर भी रोक लगा दी.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ईरान पर फिर फंसा पेच, ट्रंप ने डील पर अंतिम फैसला टाला, 2 घंटे माथापच्ची के बाद भी नहीं निकला हल",
+      "url": "https://hindi.news18.com/world/america-donald-trump-iran-deal-nuclear-dust-kazakhstan-uranium-stockpile-iaea-hormuz-talks-10523913.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-30T03:02:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/donald-2026-05-2d30e917cb60bb1dfee6e17984e72bb4-1200x800.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ संभावित समझौते पर अंतिम फैसला फिलहाल टाल दिया है। दो घंटे की बैठक के बाद भी कोई निर्णय नहीं लिया गया। व्हाइट हाउस के सिचुएशन रूम में दो घंटे चली बैठक के बाद भी कोई निर्णय नहीं लिया गया. रिपोर्ट्स के मुताबिक सबसे बड़ा विवाद ईरान के संवर्धित यूरेनियम भंडार को लेकर है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान पर फिर फंसा पेच, ट्रंप ने डील पर अंतिम फैसला टाला, 2 घंटे माथापच्ची के बाद भी नहीं निकला हल",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ संभावित समझौते पर अंतिम फैसला फिलहाल टाल दिया है। दो घंटे की बैठक के बाद भी कोई निर्णय नहीं लिया गया। व्हाइट हाउस के सिचुएशन रूम में दो घंटे चली बैठक के बाद भी कोई निर्णय नहीं लिया गया. रिपोर्ट्स के मुताबिक सबसे बड़ा विवाद ईरान के संवर्धित यूरेनियम भंडार को लेकर है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ड्रग तस्करी के शक में अमेरिका ने नाव पर किया हमला: तीन की मौत, सैन्य अभियान में हताहतों का आंकड़ा",
+      "url": "https://www.amarujala.com/world/us-attacks-boat-suspected-of-drug-smuggling-three-killed-military-operation-casualties-exceed-200-2026-05-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-30T02:46:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/us-attack_b498338ff30ebf0f444047d42d07e16c.png?w=750&dpr=1.0",
+      "summary": "अमेरिकी नौसेना ने ड्रग तस्करी के संदेह में एक नाव पर हमला किया। इस कार्रवाई में तीन लोगों की मौत हो गई। यह घटना सैन्य अभियान में हताहतों की संख्या 200 से अधिक होने के बीच हुई। ड्रग तस्करी के शक में अमेरिका ने नाव पर किया हमला: तीन की मौत, सैन्य अभियान में हताहतों का आंकड़ा।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ड्रग तस्करी के शक में अमेरिका ने नाव पर किया हमला: तीन की मौत, सैन्य अभियान में हताहतों का आंकड़ा",
+          "summary": "अमेरिकी नौसेना ने ड्रग तस्करी के संदेह में एक नाव पर हमला किया। इस कार्रवाई में तीन लोगों की मौत हो गई। यह घटना सैन्य अभियान में हताहतों की संख्या 200 से अधिक होने के बीच हुई। ड्रग तस्करी के शक में अमेरिका ने नाव पर किया हमला: तीन की मौत, सैन्य अभियान में हताहतों का आंकड़ा।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप ने रूस-चीन को दिखाया ठेंगा, अब ईरान का खतरनाक यूरेनियम जाएगा इस मुस्लिम देश में?",
+      "url": "https://hindi.news18.com/world/rest-of-world-iran-uranium-stockpile-kazakhstan-donald-trump-iaea-nuclear-deal-russia-china-analysis-10523834.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-30T02:24:41+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/iran-22-2026-05-5c1e9c6f58d6beca1eee160fd74e6139-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने रूस और चीन को ईरान के 60% संवर्धित यूरेनियम को संभालने से रोका। कजाकिस्तान ने संकेत दिया है कि वह अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी की निगरानी में इस स्टॉक को रखने को तैयार है। ईरान और अमेरिका के बीच संभावित परमाणु समझौते में सबसे बड़ा विवाद 60% तक संवर्धित करीब 440 किलो यूरेनियम को लेकर है. डोनाल्ड ट्रंप पहले ही साफ कर चुके हैं कि वह नहीं चाहते कि यह सामग्री रूस या चीन को सौंपी जाए.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप ने रूस-चीन को दिखाया ठेंगा, अब ईरान का खतरनाक यूरेनियम जाएगा इस मुस्लिम देश में?",
+          "summary": "डोनाल्ड ट्रंप ने रूस और चीन को ईरान के 60% संवर्धित यूरेनियम को संभालने से रोका। कजाकिस्तान ने संकेत दिया है कि वह अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी की निगरानी में इस स्टॉक को रखने को तैयार है। ईरान और अमेरिका के बीच संभावित परमाणु समझौते में सबसे बड़ा विवाद 60% तक संवर्धित करीब 440 किलो यूरेनियम को लेकर है. डोनाल्ड ट्रंप पहले ही साफ कर चुके हैं कि वह नहीं चाहते कि यह सामग्री रूस या चीन को सौंपी जाए.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "दशकों बाद इस्राइल-लेबनान की सीधी सैन्य वार्ता, पेंटागन में शांति प्रयासों पर चर्चा",
+      "url": "https://www.amarujala.com/world/israel-lebanon-hold-direct-military-talks-after-decades-with-pentagon-discussing-peace-efforts-2026-05-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-30T02:06:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/isarail-oura-lbnana_b5dd7cca93e5b1cbb89707f6c19a762a.png?w=750&dpr=1.0",
+      "summary": "दशकों के अंतराल के बाद, इज़राइल और लेबनान ने पेंटागन में सीधी सैन्य वार्ता की। दोनों देशों के प्रतिनिधियों ने शांति प्रयासों पर चर्चा की। दशकों बाद इस्राइल-लेबनान की सीधी सैन्य वार्ता, पेंटागन में शांति प्रयासों पर चर्चा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दशकों बाद इस्राइल-लेबनान की सीधी सैन्य वार्ता, पेंटागन में शांति प्रयासों पर चर्चा",
+          "summary": "दशकों के अंतराल के बाद, इज़राइल और लेबनान ने पेंटागन में सीधी सैन्य वार्ता की। दोनों देशों के प्रतिनिधियों ने शांति प्रयासों पर चर्चा की। दशकों बाद इस्राइल-लेबनान की सीधी सैन्य वार्ता, पेंटागन में शांति प्रयासों पर चर्चा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अरबों की यारी पर भारी ईरानी खौफ? इजरायल को मान्यता देने से क्यों घबरा रहा पाकिस्तान, समझें इसके",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-israel-recognition-abraham-accords-iran-factor-saudi-donald-trump-america-pressure-explainer-10523642.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-30T01:50:29+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/pakistan-israel-recognition-2026-05-05cc5d8654b96c98bed31c85fd34ba50-1200x800.jpg",
+      "summary": "पाकिस्तान ने इज़राइल को मान्यता देने से परहेज किया है। फिलिस्तीन मुद्दा, ईरान के साथ संबंध, कश्मीर और घरेलू राजनीति जैसे कारक इस फैसले को प्रभावित कर रहे हैं। Pakistan Israel Recognition: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के अब्राहम एकॉर्ड्स को आगे बढ़ाने की अपील के बाद पाकिस्तान की इजरायल नीति फिर चर्चा में है. जहां यूएई, बहरीन और मोरक्को जैसे कई अरब देश इजरायल के साथ संबंध सामान्य कर चुके हैं, वहीं पाकिस्तान अब भी अपने पुराने रुख पर कायम है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अरबों की यारी पर भारी ईरानी खौफ? इजरायल को मान्यता देने से क्यों घबरा रहा पाकिस्तान, समझें इसके",
+          "summary": "पाकिस्तान ने इज़राइल को मान्यता देने से परहेज किया है। फिलिस्तीन मुद्दा, ईरान के साथ संबंध, कश्मीर और घरेलू राजनीति जैसे कारक इस फैसले को प्रभावित कर रहे हैं। Pakistan Israel Recognition: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के अब्राहम एकॉर्ड्स को आगे बढ़ाने की अपील के बाद पाकिस्तान की इजरायल नीति फिर चर्चा में है. जहां यूएई, बहरीन और मोरक्को जैसे कई अरब देश इजरायल के साथ संबंध सामान्य कर चुके हैं, वहीं पाकिस्तान अब भी अपने पुराने रुख पर कायम है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान से डील को लेकर दुविधा में ट्रंप: परमाणु और होर्मुज संकट पर टली बड़ी घोषणा, अंतिम फैसले का अब",
+      "url": "https://www.amarujala.com/world/us-iran-strait-of-hormuz-dead-lock-ceasefire-agreement-uranium-enrichment-2026-05-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-30T01:48:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/danalda-tarapa-amaraka-rashhatarapata_c10f259cee6af7d77a99e80d831902f5.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान के परमाणु कार्यक्रम और होर्मुज जलडमरूमध्य संकट पर अंतिम निर्णय टल गया है। डोनाल्ड ट्रंप इस मामले पर दुविधा में हैं और बड़ी घोषणा का इंतजार है। ईरान से डील को लेकर दुविधा में ट्रंप: परमाणु और होर्मुज संकट पर टली बड़ी घोषणा, अंतिम फैसले का अब।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान से डील को लेकर दुविधा में ट्रंप: परमाणु और होर्मुज संकट पर टली बड़ी घोषणा, अंतिम फैसले का अब",
+          "summary": "ईरान के परमाणु कार्यक्रम और होर्मुज जलडमरूमध्य संकट पर अंतिम निर्णय टल गया है। डोनाल्ड ट्रंप इस मामले पर दुविधा में हैं और बड़ी घोषणा का इंतजार है। ईरान से डील को लेकर दुविधा में ट्रंप: परमाणु और होर्मुज संकट पर टली बड़ी घोषणा, अंतिम फैसले का अब।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
