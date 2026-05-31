@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-05-31T14:46:51.535784+00:00",
+  "generated_at": "2026-05-31T16:10:28.332939+00:00",
   "article_count": 50,
-  "total_unique_count": 272,
+  "total_unique_count": 269,
   "digest": {
-    "en": "Ebola cases in Congo and Uganda dominate headlines. Israel’s offensive in Lebanon and AUKUS undersea drone development also command attention. Colombia’s election offers a different regional focus.",
-    "hi": "पाकिस्तान का 62 अरब डॉलर का कर्ज एक बड़ा बोझ बन गया है। वहीं, नेपाल भारत के साथ सीमा विवाद को कूटनीतिक रूप से सुलझाने की बात कर रहा है।"
+    "en": "The DRC Ebola outbreak dominates headlines with WHO calls for cooperation. Meanwhile, the Philippines signals support for increased US military spending. Japan rebuffs Chinese claims of renewed militarism.",
+    "hi": "नेपाल के प्रधानमंत्री के सीमा विवाद पर बयान ने भारत के साथ तनाव बढ़ाया है। वहीं, पाकिस्तान को चीन से 62 अरब डॉलर का कर्ज मिलने की खबर है। इसके अतिरिक्त, इजरायल और हिजबुल्लाह के बीच संघर्ष जारी है।"
   },
   "articles": [
+    {
+      "title": "WHO calls for community cooperation to contain DRC Ebola outbreak",
+      "url": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-31T15:49:47+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/3fa5549e324cf27a4b2597905a7f1e3c3b9b825f/763_0_4105_3286/master/4105.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f59d41300469d55c45dca58f0737b7a",
+      "summary": "The World Health Organization called for community cooperation to contain the Ebola outbreak in the Democratic Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling bodies in Ituri province Containing the Ebola outbreak in the Democratic Republic of Congo requires community cooperation and is “everybody’s business”, the World Health Organization has said. Tedros Adhanom Ghebreyesus, the organisation’s director general, made the plea on Sunday during a visit to eastern Congo w.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Philippines defence chief backs US calls for higher military spending, says allies must pull their",
+      "url": "https://www.channelnewsasia.com/asia/philippines-defence-secretary-gilberto-teodoro-shangri-la-dialogue-interview-6152541",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-31T15:16:21+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--_bNBmRC9--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/31/philippine_defence_secretary_gilberto_teodoro_jr_shangri_la_dialogue_singapore.jpg?itok=OvhX5HHk",
+      "summary": "Philippine Defence Secretary Gilberto Teodoro Jr. supports increased military spending by allies. He stated this on the sidelines of the Shangri-La Dialogue. Teodoro also defended recent military exercises with allied nations. He attributed rising tensions in the South China Sea to China's expansionism. Philippines defence chief backs US calls for higher military spending, says allies must pull their.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Congo and Uganda report 263 confirmed Ebola cases with 43 deaths, Africa CDC says",
       "url": "https://www.thehindu.com/news/international/congo-and-uganda-report-263-confirmed-ebola-cases-with-43-deaths-africa-cdc-says/article71045060.ece",
@@ -56,18 +80,6 @@
       "translations": {}
     },
     {
-      "title": "AUKUS undersea drones development boosts regional security: Australia deputy PM",
-      "url": "https://www.channelnewsasia.com/asia/australia-richard-marles-dpm-defence-minister-interview-aukus-undersea-unmanned-vehicle-shangri-la-dialogue-6152321",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-05-31T10:40:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--pI5aTLei--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/31/australias_deputy_prime_minister_defence_minister_richard_marles_shangri_la_dialogue_0.jpg?itok=sBZT1g_Q",
-      "summary": "Australia's Deputy Prime Minister Richard Marles discussed AUKUS undersea drone development at Growing threats to critical underwater infrastructure, such as telecommunications cables and energy pipelines, underscore the need for stronger maritime defence capabilities, Australia's Deputy Prime Minister Richard Marles told CNA's Tan Qiuyi on the sidelines of the Shangri-La Dialogue. AUKUS undersea drones development boosts regional security: Australia deputy PM.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "From Battlefield To Racecourse: Ukraine’s Drone Pilots Compete Far From The Front Lines",
       "url": "https://www.rferl.org/a/from-battlefield-to-racecourse-ukraine-s-drone-pilots-compete-far-from-the-front-lines/33768356.html",
       "source": "Radio Free Europe / Liberty",
@@ -88,18 +100,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/stenci/article71043793.ece/alternates/LANDSCAPE_1200/2026-05-30T075752Z_968363709_RC2JJLAKKRZQ_RTRMADP_3_IRAN-CRISIS.JPG",
       "summary": "Iran has effectively taken control of the Strait of Hormuz. This waterway connects the Persian Gulf to the Arabian Sea. It is now the most consequential battleground of the U. S.-Israeli war on Iran. Tehran's actions are rattling energy markets and the global economy. The waterway connecting the Persian Gulf to the Arabian Sea has emerged as the most consequential battleground of the U.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Japan Defence Chief takes swipe at China at security meet",
-      "url": "https://www.thehindu.com/news/international/japan-defence-chief-takes-swipe-at-china-at-security-meet/article71043857.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-05-31T07:10:20+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/sz6xh8/article71043880.ece/alternates/LANDSCAPE_1200/2026-05-31T031145Z_2096339371_RC21KLAF39E8_RTRMADP_3_ASIA-SECURITY.JPG",
-      "summary": "Japan's Defence Minister Sanae Takaichi stated the nation is adopting a more proactive defence policy. This shift moves Japan away from its post-World War II pacifist stance. The United States has encouraged this change. Under Prime Minister Sanae Takaichi, Japan has quickened its pivot towards a more proactive defence policy, further shaking off. with U. S. encouragement. its pacifist outlook in place since the end of World War II.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -308,6 +308,42 @@
       "translations": {}
     },
     {
+      "title": "भारत नेपाल सीमा विवाद पर नेपाल की सफाई, पीएम बालेन शाह के बयान को लेकर विदेश मंत्रालय ने दी स्पष्टता",
+      "url": "https://www.patrika.com/world-news/india-nepal-border-dispute-foreign-ministry-provides-clarity-regarding-pm-balen-shah-statement-20627969",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-05-31T16:07:25+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/India-Nepal-Border-Dispute.webp",
+      "summary": "नेपाल के विदेश मंत्रालय ने प्रधानमंत्री बलेंद्र शाह के संसदीय बयान पर स्पष्टीकरण जारी किया है। India-Nepal Border Dispute: नेपाल के प्रधानमंत्री बलेंद्र शाह के हालिया संसदीय बयान को लेकर पैदा हुए विवाद के बीच नेपाल के विदेश मंत्रालय ने सफाई जारी की है। मंत्रालय ने स्पष्ट किया है कि प्रधानमंत्री की ओर से इस्तेमाल किया गया ‘क्रॉस-बॉर्डर ऑक्युपेशन’ शब्द किसी नए क्षेत्रीय अतिक्रमण के आरोप से जुड़ा नहीं था, बल्कि सीमा से लगे ‘नो-मैन्स लैंड’ यानी दशगजा क्षेत्र में मौजूद पुराने विवादों की ओर इशारा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत नेपाल सीमा विवाद पर नेपाल की सफाई, पीएम बालेन शाह के बयान को लेकर विदेश मंत्रालय ने दी स्पष्टता",
+          "summary": "नेपाल के विदेश मंत्रालय ने प्रधानमंत्री बलेंद्र शाह के संसदीय बयान पर स्पष्टीकरण जारी किया है। India-Nepal Border Dispute: नेपाल के प्रधानमंत्री बलेंद्र शाह के हालिया संसदीय बयान को लेकर पैदा हुए विवाद के बीच नेपाल के विदेश मंत्रालय ने सफाई जारी की है। मंत्रालय ने स्पष्ट किया है कि प्रधानमंत्री की ओर से इस्तेमाल किया गया ‘क्रॉस-बॉर्डर ऑक्युपेशन’ शब्द किसी नए क्षेत्रीय अतिक्रमण के आरोप से जुड़ा नहीं था, बल्कि सीमा से लगे ‘नो-मैन्स लैंड’ यानी दशगजा क्षेत्र में मौजूद पुराने विवादों की ओर इशारा।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "24 घंटों के भीतर ही रास्ते पर आया नेपाल! लिपुलेख और कालापानी को लेकर साफ किया रुख",
+      "url": "https://hindi.news18.com/world/south-asia-nepal-within-24-hours-clarifies-stance-on-lipulekh-and-kalapani-after-pm-balen-shah-speech-10528256.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-31T15:19:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Balen-Shah-2026-05-db40a0798a544277d10bc5ede1db81e9-1200x800.jpg",
+      "summary": "नेपाल ने लिपुलेख, कालापानी और लिम्पियाधुरा जैसे सीमा क्षेत्रों के अंतिम नक्शे को लेकर अपना रुख नेपाल ने कहा कि लिपुलेख, कालापानी और लिम्पियाधुरा जैसे कुछ सीमा क्षेत्रों का अंतिम नक्शा अभी बाकी है. इसके अलावा कई जगहों पर दसगजा क्षेत्र में अतिक्रमण और सीमा पार भूमि इस्तेमाल से जुड़े मुद्दे भी मौजूद हैं. 24 घंटों के भीतर ही रास्ते पर आया नेपाल!",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "24 घंटों के भीतर ही रास्ते पर आया नेपाल! लिपुलेख और कालापानी को लेकर साफ किया रुख",
+          "summary": "नेपाल ने लिपुलेख, कालापानी और लिम्पियाधुरा जैसे सीमा क्षेत्रों के अंतिम नक्शे को लेकर अपना रुख नेपाल ने कहा कि लिपुलेख, कालापानी और लिम्पियाधुरा जैसे कुछ सीमा क्षेत्रों का अंतिम नक्शा अभी बाकी है. इसके अलावा कई जगहों पर दसगजा क्षेत्र में अतिक्रमण और सीमा पार भूमि इस्तेमाल से जुड़े मुद्दे भी मौजूद हैं. 24 घंटों के भीतर ही रास्ते पर आया नेपाल!",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "62 अरब डॉलर का सपना बना बोझ, दोस्त ने ही पाकिस्तान को कर्ज के दलदल में धकेला, चीन का मेगा दांव पड़",
       "url": "https://hindi.news18.com/world/pakistan-cpec-reality-china-billions-dollars-stuck-pakistan-in-debt-trap-10528102.html",
       "source": "News18 Hindi (World)",
@@ -340,6 +376,24 @@
           "title": "लिपुलेख और कालापानी बॉर्डर विवाद में आखिर क्यों ब्रिटेन को बीच में लाना चाहते हैं नेपाल के पीएम?",
           "summary": "भारत ने लिपुलेख और कालापानी क्षेत्रों को अपना बताया है. भारत ने हमेशा यह रुख बनाए रखा है कि ये क्षेत्र भारत के हैं और लगातार कहा है कि सभी बकाया सीमा मुद्दों को मौजूदा द्विपक्षीय तंत्र और राजनयिक बातचीत के माध्यम से संबोधित किया जाना चाहिए. लिपुलेख और कालापानी बॉर्डर विवाद में आखिर क्यों ब्रिटेन को बीच में लाना चाहते हैं नेपाल के पीएम?",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "इजराइल ने हिजबुल्लाह पर बरसाए बम, कई ठिकाने तबाह",
+      "url": "https://www.patrika.com/world-news/israel-bombs-hezbollah-destroying-several-hideouts-20627607",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-05-31T14:03:05+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/Israel-Hezbollah-Attack-Video.webp",
+      "summary": "इजराइल ने दक्षिणी लेबनान में हिजबुल्लाह के ठिकानों पर बड़े पैमाने पर हवाई हमले किए। Israel Hezbollah Attack Video: इजराइल ने दक्षिणी लेबनान में हिजबुल्लाह के ठिकानों पर बड़े पैमाने पर कार्रवाई करते हुए कई जगहों पर एयर स्ट्राइक की है। इजराइली सेना का दावा है कि इस अभियान के दौरान उसे हिजबुल्लाह के हथियारों का जखीरा मिला है, जो आम नागरिकों के इलाकों में छिपाकर रखा गया था।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजराइल ने हिजबुल्लाह पर बरसाए बम, कई ठिकाने तबाह",
+          "summary": "इजराइल ने दक्षिणी लेबनान में हिजबुल्लाह के ठिकानों पर बड़े पैमाने पर हवाई हमले किए। Israel Hezbollah Attack Video: इजराइल ने दक्षिणी लेबनान में हिजबुल्लाह के ठिकानों पर बड़े पैमाने पर कार्रवाई करते हुए कई जगहों पर एयर स्ट्राइक की है। इजराइली सेना का दावा है कि इस अभियान के दौरान उसे हिजबुल्लाह के हथियारों का जखीरा मिला है, जो आम नागरिकों के इलाकों में छिपाकर रखा गया था।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -614,145 +668,91 @@
       }
     },
     {
-      "title": "ईरान नहीं बनाएगा परमाणु हथियार न ही खरीदेगा, ट्रंप का दावा- होने की वाला है समझौता, तेहरान चुप",
-      "url": "https://hindi.news18.com/world/middle-east-donald-trump-claims-deal-is-almost-done-iran-ready-not-to-develop-or-buy-nuclear-weapon-ws-l-10527052.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-31T06:31:17+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/donald-trump-oman-2026-05-836fd57e421ea2d61daace025d8810be-1200x800.jpg",
-      "summary": "डोनाल्ड ट्रंप ने दावा किया कि ईरान परमाणु हथियार नहीं बनाएगा या खरीदेगा। उन्होंने कहा कि ईरान एक समझौते के करीब है। तेहरान ने इस पर कोई पुष्टि नहीं की है। उनका कहना है कि वो इस बात पर राजी भी हो चुका है कि भविष्य में न तो परमाणु हथियार बनाएगा और न ही किसी से खरीदेगा. हालांकि ईरान की ओर से इस पर कोई पुष्टि नहीं हुई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान नहीं बनाएगा परमाणु हथियार न ही खरीदेगा, ट्रंप का दावा- होने की वाला है समझौता, तेहरान चुप",
-          "summary": "डोनाल्ड ट्रंप ने दावा किया कि ईरान परमाणु हथियार नहीं बनाएगा या खरीदेगा। उन्होंने कहा कि ईरान एक समझौते के करीब है। तेहरान ने इस पर कोई पुष्टि नहीं की है। उनका कहना है कि वो इस बात पर राजी भी हो चुका है कि भविष्य में न तो परमाणु हथियार बनाएगा और न ही किसी से खरीदेगा. हालांकि ईरान की ओर से इस पर कोई पुष्टि नहीं हुई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "PSG की जीत के जश्न में हिंसा-आगजनी, पुलिस ने दर्जनों लोगों को हिरासत में लिया",
-      "url": "https://www.amarujala.com/world/paris-police-detain-dozens-after-violence-erupts-during-celebrations-of-psg-win-2026-05-31",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-31T03:15:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/paris-violence_fe7a44a0dbccf6efc8c26f47f3ed0a9a.png?w=750&dpr=1.0",
-      "summary": "पेरिस में फुटबॉल क्लब PSG की जीत का जश्न हिंसक हो गया. जश्न मना रहे लोगों ने आगजनी की. पुलिस ने स्थिति को नियंत्रित करने के लिए दर्जनों लोगों को हिरासत में लिया. PSG की जीत के जश्न में हिंसा-आगजनी, पुलिस ने दर्जनों लोगों को हिरासत में लिया।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PSG की जीत के जश्न में हिंसा-आगजनी, पुलिस ने दर्जनों लोगों को हिरासत में लिया",
-          "summary": "पेरिस में फुटबॉल क्लब PSG की जीत का जश्न हिंसक हो गया. जश्न मना रहे लोगों ने आगजनी की. पुलिस ने स्थिति को नियंत्रित करने के लिए दर्जनों लोगों को हिरासत में लिया. PSG की जीत के जश्न में हिंसा-आगजनी, पुलिस ने दर्जनों लोगों को हिरासत में लिया।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "जापोरिज्जिया परमाणु संयंत्र पर यूक्रेन का ड्रोन हमला: आईएईए ने दी चेतावनी, कहा- 'यह आग से खेलने",
-      "url": "https://www.amarujala.com/world/iaea-warns-after-drone-attack-on-zaporizhzhia-nuclear-power-plant-nuclear-safety-russia-ukraine-war-2026-05-31",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-05-31T03:14:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/paramanae-uuraja-sayatara_fc9115c928eb61b22b6618ac0936b50b.png?w=750&dpr=1.0",
-      "summary": "यूक्रेन ने जापोरिज्जिया परमाणु संयंत्र पर ड्रोन से हमला किया. अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) ने इस हमले की निंदा की. एजेंसी ने कहा कि यह आग से खेलने जैसा खतरनाक कृत्य है. जापोरिज्जिया परमाणु संयंत्र पर यूक्रेन का ड्रोन हमला: आईएईए ने दी चेतावनी, कहा- 'यह आग से खेलने।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जापोरिज्जिया परमाणु संयंत्र पर यूक्रेन का ड्रोन हमला: आईएईए ने दी चेतावनी, कहा- 'यह आग से खेलने",
-          "summary": "यूक्रेन ने जापोरिज्जिया परमाणु संयंत्र पर ड्रोन से हमला किया. अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) ने इस हमले की निंदा की. एजेंसी ने कहा कि यह आग से खेलने जैसा खतरनाक कृत्य है. जापोरिज्जिया परमाणु संयंत्र पर यूक्रेन का ड्रोन हमला: आईएईए ने दी चेतावनी, कहा- 'यह आग से खेलने।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "रसिख ने दिलाई आरसीबी को तीसरी सफलता, पडिक्कल ने लपका निशांत सिंधू का कैच; स्कोर 55/3",
-      "url": "https://www.amarujala.com/live/cricket/cricket-news/rcb-vs-gt-live-cricket-score-royal-challengers-bengaluru-vs-gujarat-titans-final-ipl-2026-74th-match-updates-2026-05-31",
+      "title": "शीर्ष तीन बल्लेबाज फ्लॉप, सुंदर ने जीवनदान का उठाया फायदा; 13वें ओवर में लगा पहला छक्का",
+      "url": "https://www.amarujala.com/cricket/cricket-news/ipl-2026-rcb-vs-gt-final-analysis-innings-wise-gujarat-titans-batting-to-banglore-bowling-highlights-2026-05-31",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-31T02:44:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/aarasab-bnama-gajarata_4113748c5b99a7b09bd6e7ae09f29df3.jpeg?w=750&dpr=1.0",
-      "summary": "इंडियन प्रीमियर लीग फाइनल में रॉयल चैलेंजर्स बैंगलोर ने गुजरात टाइटन्स के खिलाफ तीसरा विकेट लिया। रसिख ने निशांत सिंधू को आउट किया। स्कोर 55/3 हो गया। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। रसिख ने दिलाई आरसीबी को तीसरी सफलता, पडिक्कल ने लपका निशांत सिंधू का कैच; स्कोर 55/3।",
+      "published_at": "2026-05-31T03:53:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/ipl_471e6c8e248044c29caa3d5ba5771ef9.jpeg?w=750&dpr=1.0",
+      "summary": "आईपीएल 2026 के फाइनल में गुजरात टाइटंस ने रॉयल चैलेंजर्स बैंगलोर के खिलाफ आठ विकेट पर आरसीबी के खिलाफ गुजरात टाइटंस ने आईपीएल 2026 के फाइनल में आठ विकेट पर 155 रन बनाए। गुजरात के लिए सबसे ज्यादा रन वाशिंगटन सुंदर ने बनाए जो 37 गेंदों पर पांच चौकों की मदद से 50 रन बनाकर नाबाद रहे। शीर्ष तीन बल्लेबाज फ्लॉप, सुंदर ने जीवनदान का उठाया फायदा; 13वें ओवर में लगा पहला छक्का।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शीर्ष तीन बल्लेबाज फ्लॉप, सुंदर ने जीवनदान का उठाया फायदा; 13वें ओवर में लगा पहला छक्का",
+          "summary": "आईपीएल 2026 के फाइनल में गुजरात टाइटंस ने रॉयल चैलेंजर्स बैंगलोर के खिलाफ आठ विकेट पर आरसीबी के खिलाफ गुजरात टाइटंस ने आईपीएल 2026 के फाइनल में आठ विकेट पर 155 रन बनाए। गुजरात के लिए सबसे ज्यादा रन वाशिंगटन सुंदर ने बनाए जो 37 गेंदों पर पांच चौकों की मदद से 50 रन बनाकर नाबाद रहे। शीर्ष तीन बल्लेबाज फ्लॉप, सुंदर ने जीवनदान का उठाया फायदा; 13वें ओवर में लगा पहला छक्का।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "व्हाइट साड़ी में चित्रांगदा सिंह ने बिखेरा जलवा, दिल बार बैठे फैंस",
+      "url": "https://www.amarujala.com/web-stories/entertainment/bollywood/matrubhoomi-movie-actress-chitrangda-singh-share-beautiful-pics-on-social-media-2026-05-31",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-31T03:51:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/cataragatha-saha_62fb6a77e05d7bf8369ef5ab6fb30c18.jpeg?w=750&dpr=1.0",
+      "summary": "अभिनेत्री चित्रांगदा सिंह ने सफेद साड़ी पहनी। उनकी उपस्थिति ने प्रशंसकों को आकर्षित किया। व्हाइट साड़ी में चित्रांगदा सिंह ने बिखेरा जलवा, दिल बार बैठे फैंस।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रसिख ने दिलाई आरसीबी को तीसरी सफलता, पडिक्कल ने लपका निशांत सिंधू का कैच; स्कोर 55/3",
-          "summary": "इंडियन प्रीमियर लीग फाइनल में रॉयल चैलेंजर्स बैंगलोर ने गुजरात टाइटन्स के खिलाफ तीसरा विकेट लिया। रसिख ने निशांत सिंधू को आउट किया। स्कोर 55/3 हो गया। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। रसिख ने दिलाई आरसीबी को तीसरी सफलता, पडिक्कल ने लपका निशांत सिंधू का कैच; स्कोर 55/3।",
+          "title": "व्हाइट साड़ी में चित्रांगदा सिंह ने बिखेरा जलवा, दिल बार बैठे फैंस",
+          "summary": "अभिनेत्री चित्रांगदा सिंह ने सफेद साड़ी पहनी। उनकी उपस्थिति ने प्रशंसकों को आकर्षित किया। व्हाइट साड़ी में चित्रांगदा सिंह ने बिखेरा जलवा, दिल बार बैठे फैंस।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "विटामिन-सी या फिर विटामिन-डी? इम्युनिटी बढ़ाने के लिए कौन सबसे ज्यादा जरूरी",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/vitamin-c-or-vitamin-d-which-one-is-best-for-good-immune-system-2026-05-31",
+      "title": "‘करुप्पु’ की सफला के बाद सूर्या ने सिनेमैटोग्राफर को गिफ्ट की कार, संगीतकार को भी दिया ये बेशकीमती",
+      "url": "https://www.amarujala.com/entertainment/bollywood/suriya-gifts-new-car-to-karuppu-cinematographer-gk-vishnu-music-composer-sai-abhyankkar-as-film-blockbuster-2026-05-31",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-31T02:42:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/immunity_c6dab934f4695c1f3b8f260a37e05403.jpeg?w=750&dpr=1.0",
-      "summary": "शरीर की रोग प्रतिरोधक क्षमता को मजबूत करने के लिए विटामिन-सी और विटामिन-डी दोनों महत्वपूर्ण हैं। विटामिन-सी एक एंटीऑक्सीडेंट है जो प्रतिरक्षा कोशिकाओं के कार्य को बढ़ाता है। विटामिन-डी प्रतिरक्षा प्रणाली को विनियमित करने में मदद करता है। दोनों का संतुलित सेवन आवश्यक है। शरीर की रोग प्रतिरोधक क्षमता को मजबूत करने के लिए कौन सा विटामिन सबसे जरूरी है?",
+      "published_at": "2026-05-31T03:49:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/saraya_7b0bf2b9b7ec974baf4053fe79b30375.jpeg?w=750&dpr=1.0",
+      "summary": "अभिनेता सूर्या ने अपनी फिल्म 'करुप्पु' की सफलता के बाद टीम के सदस्यों को उपहार दिए। Suriya: सूर्या ने ‘करुप्पु’ की सफलता से खुश होकर अब अपनी फिल्म के लोगों को कीमती तोहफा दिया है। जानिए किसे दिया क्या तोहफा। ‘करुप्पु’ की सफला के बाद सूर्या ने सिनेमैटोग्राफर को गिफ्ट की कार, संगीतकार को भी दिया ये बेशकीमती।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "विटामिन-सी या फिर विटामिन-डी? इम्युनिटी बढ़ाने के लिए कौन सबसे ज्यादा जरूरी",
-          "summary": "शरीर की रोग प्रतिरोधक क्षमता को मजबूत करने के लिए विटामिन-सी और विटामिन-डी दोनों महत्वपूर्ण हैं। विटामिन-सी एक एंटीऑक्सीडेंट है जो प्रतिरक्षा कोशिकाओं के कार्य को बढ़ाता है। विटामिन-डी प्रतिरक्षा प्रणाली को विनियमित करने में मदद करता है। दोनों का संतुलित सेवन आवश्यक है। शरीर की रोग प्रतिरोधक क्षमता को मजबूत करने के लिए कौन सा विटामिन सबसे जरूरी है?",
+          "title": "‘करुप्पु’ की सफला के बाद सूर्या ने सिनेमैटोग्राफर को गिफ्ट की कार, संगीतकार को भी दिया ये बेशकीमती",
+          "summary": "अभिनेता सूर्या ने अपनी फिल्म 'करुप्पु' की सफलता के बाद टीम के सदस्यों को उपहार दिए। Suriya: सूर्या ने ‘करुप्पु’ की सफलता से खुश होकर अब अपनी फिल्म के लोगों को कीमती तोहफा दिया है। जानिए किसे दिया क्या तोहफा। ‘करुप्पु’ की सफला के बाद सूर्या ने सिनेमैटोग्राफर को गिफ्ट की कार, संगीतकार को भी दिया ये बेशकीमती।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "पहली बार इंसान के शरीर में एकसाथ ट्रांसप्लांट हुआ सुअर का लिवर-किडनी, जानिए पूरा मामला",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/world-first-simultaneous-transplant-of-pigs-kidney-and-a-liver-in-human-2026-05-31",
-      "source": "Amar Ujala National",
+      "title": "‘जिन्होंने विधानसभा भेजा, उनके लिए आखिरी सांस तक लड़ूंगा’: रविंद्र भाटी ने भरी हुंकार; अब क्या होगा",
+      "url": "https://www.amarujala.com/rajasthan/barmer/mla-ravindra-singh-bhati-stated-laborers-have-been-on-the-streets-for-45-days-yet-the-government-shows-no-concern-barmer-news-c-1-1-noi1403-4343959-2026-05-31",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-05-31T02:42:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/organ-transplantation_5b4f923291495ac12d29f7480b68a690.jpeg?w=750&dpr=1.0",
-      "summary": "चीन के चिकित्सकों ने पहली बार एक व्यक्ति में आनुवंशिक रूप से संशोधित सुअर का पूरा लिवर और दोनों किडनी प्रत्यारोपित किया है। यह अंग प्रत्यारोपण के क्षेत्र में एक महत्वपूर्ण उपलब्धि है। अंग प्रत्यारोपण विज्ञान में एक महत्वपूर्ण उपलब्धि हासिल करते हुए चीन के चिकित्सकों ने पहली बार एक व्यक्ति के शरीर में जेनेटिक रूप से संशोधित सुअर का पूरा लिवर व दोनों किडनी प्रत्यारोपित की हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पहली बार इंसान के शरीर में एकसाथ ट्रांसप्लांट हुआ सुअर का लिवर-किडनी, जानिए पूरा मामला",
-          "summary": "चीन के चिकित्सकों ने पहली बार एक व्यक्ति में आनुवंशिक रूप से संशोधित सुअर का पूरा लिवर और दोनों किडनी प्रत्यारोपित किया है। यह अंग प्रत्यारोपण के क्षेत्र में एक महत्वपूर्ण उपलब्धि है। अंग प्रत्यारोपण विज्ञान में एक महत्वपूर्ण उपलब्धि हासिल करते हुए चीन के चिकित्सकों ने पहली बार एक व्यक्ति के शरीर में जेनेटिक रूप से संशोधित सुअर का पूरा लिवर व दोनों किडनी प्रत्यारोपित की हैं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सिगरेट-तंबाकू का लिवर-किडनी, ब्रेन पर क्या होता है असर? आपको भी है लत को जान लीजिए ये बातें",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/world-no-tobacco-day-2026-how-tobacco-smoking-affects-liver-kidney-brain-and-heart-health-2026-05-31",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-31T02:41:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/smoking_9cd6d36ad5c014c013fe49f1d57e14d3.jpeg?w=750&dpr=1.0",
-      "summary": "धूम्रपान से हृदय रोग और स्ट्रोक का खतरा बढ़ जाता है। यह मस्तिष्क की रक्त वाहिकाओं को नुकसान पहुंचाकर याददाश्त, एकाग्रता और मानसिक कार्यक्षमता को भी प्रभावित कर सकता है। धूम्रपान करने वाले लोगों में हार्ट अटैक और स्ट्रोक का खतरा कई गुना बढ़ जाता है। वहीं मस्तिष्क की रक्त वाहिकाओं को नुकसान पहुंचने से याददाश्त, एकाग्रता और मानसिक कार्यक्षमता प्रभावित हो सकती है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिगरेट-तंबाकू का लिवर-किडनी, ब्रेन पर क्या होता है असर? आपको भी है लत को जान लीजिए ये बातें",
-          "summary": "धूम्रपान से हृदय रोग और स्ट्रोक का खतरा बढ़ जाता है। यह मस्तिष्क की रक्त वाहिकाओं को नुकसान पहुंचाकर याददाश्त, एकाग्रता और मानसिक कार्यक्षमता को भी प्रभावित कर सकता है। धूम्रपान करने वाले लोगों में हार्ट अटैक और स्ट्रोक का खतरा कई गुना बढ़ जाता है। वहीं मस्तिष्क की रक्त वाहिकाओं को नुकसान पहुंचने से याददाश्त, एकाग्रता और मानसिक कार्यक्षमता प्रभावित हो सकती है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "एलडीएल कोलेस्ट्रॉल के क्या-क्या नुकसान हैं?",
-      "url": "https://www.amarujala.com/web-stories/lifestyle/fitness/ldl-low-density-lipoprotein-risk-know-bad-cholesterol-side-effects-2026-05-31",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-31T02:41:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/16/cholesterol-heart_b7cbb05884a6dcea522d60aaa523fc35.jpeg?w=750&dpr=1.0",
-      "summary": "एलडीएल कोलेस्ट्रॉल, जिसे बैड कोलेस्ट्रॉल भी कहा जाता है, धमनियों में वसा जमा कर सकता है। इससे रक्त प्रवाह बाधित होता है और हृदय रोग का खतरा बढ़ जाता है। एलडीएल (लो-डेंसिटी लिपोप्रोटीन) को बैड कोलेस्ट्रॉल कहा जाता है। इसकी मात्रा बढ़ने पर धमनियों में फैट जमा होने लगता है, जिससे रक्त प्रवाह बाधित हो सकता है। एलडीएल कोलेस्ट्रॉल के क्या-क्या नुकसान हैं?",
+      "published_at": "2026-05-31T03:41:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/rajasthan-news_4445d742ea67ba6c21684703881697a8.jpeg?w=750&dpr=1.0",
+      "summary": "शिव विधायक रविन्द्र सिंह भाटी बाड़मेर के गिरल लिग्नाइट माइंस आंदोलन में श्रमिकों के समर्थन में 27वें दिन भी धरने पर बैठे रहे। उन्होंने कहा कि मजदूर 45 दिनों से न्याय की प्रतीक्षा कर रहे हैं। भाटी ने घोषणा की कि जिन्होंने उन्हें विधानसभा भेजा है, उनके लिए वे आखिरी सांस तक लड़ेंगे। बाड़मेर के गिरल लिग्नाइट माइंस आंदोलन में श्रमिकों के समर्थन में शिव विधायक रविन्द्र सिंह भाटी लगातार 27वें दिन भी धरने पर डटे रहे।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "एलडीएल कोलेस्ट्रॉल के क्या-क्या नुकसान हैं?",
-          "summary": "एलडीएल कोलेस्ट्रॉल, जिसे बैड कोलेस्ट्रॉल भी कहा जाता है, धमनियों में वसा जमा कर सकता है। इससे रक्त प्रवाह बाधित होता है और हृदय रोग का खतरा बढ़ जाता है। एलडीएल (लो-डेंसिटी लिपोप्रोटीन) को बैड कोलेस्ट्रॉल कहा जाता है। इसकी मात्रा बढ़ने पर धमनियों में फैट जमा होने लगता है, जिससे रक्त प्रवाह बाधित हो सकता है। एलडीएल कोलेस्ट्रॉल के क्या-क्या नुकसान हैं?",
+          "title": "‘जिन्होंने विधानसभा भेजा, उनके लिए आखिरी सांस तक लड़ूंगा’: रविंद्र भाटी ने भरी हुंकार; अब क्या होगा",
+          "summary": "शिव विधायक रविन्द्र सिंह भाटी बाड़मेर के गिरल लिग्नाइट माइंस आंदोलन में श्रमिकों के समर्थन में 27वें दिन भी धरने पर बैठे रहे। उन्होंने कहा कि मजदूर 45 दिनों से न्याय की प्रतीक्षा कर रहे हैं। भाटी ने घोषणा की कि जिन्होंने उन्हें विधानसभा भेजा है, उनके लिए वे आखिरी सांस तक लड़ेंगे। बाड़मेर के गिरल लिग्नाइट माइंस आंदोलन में श्रमिकों के समर्थन में शिव विधायक रविन्द्र सिंह भाटी लगातार 27वें दिन भी धरने पर डटे रहे।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "वीकेंड पर कैसा रहा ‘चांद मेरा दिल’ और ‘पति पत्नी और वो दो’ का हाल, जानें फिल्मों का कलेक्शन",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/chand-mera-dil-vs-pati-patni-aur-woh-do-box-office-collection-movie-earnings-2026-05-31",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-31T03:39:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/catha-mara-thal-oura-pata-patana-oura-va-tha_a7b977d2fba185964d4a783f5502f520.jpeg?w=750&dpr=1.0",
+      "summary": "अनन्या पांडे अभिनीत ‘चांद मेरा दिल’ और आयुष्मान खुराना की ‘पति पत्नी और वो दो’ के बीच बॉक्स ऑफिस पर कड़ी टक्कर जारी है। दोनों फिल्मों ने वीकेंड पर अच्छा प्रदर्शन किया है। रविवार को ‘पति पत्नी और वो दो’ ने लगभग ₹14.53 करोड़ का कलेक्शन किया। वहीं ‘चांद मेरा दिल’ ने ₹7.21 करोड़ कमाए। अनन्या पांडे और लक्ष्य की फिल्म‘चांद मेरा दिल’ और आयुष्मान खुराना की फिल्म ‘पति पत्नी और वो दो’ के बीच कड़ी टक्कर देखने को मिल रही है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वीकेंड पर कैसा रहा ‘चांद मेरा दिल’ और ‘पति पत्नी और वो दो’ का हाल, जानें फिल्मों का कलेक्शन",
+          "summary": "अनन्या पांडे अभिनीत ‘चांद मेरा दिल’ और आयुष्मान खुराना की ‘पति पत्नी और वो दो’ के बीच बॉक्स ऑफिस पर कड़ी टक्कर जारी है। दोनों फिल्मों ने वीकेंड पर अच्छा प्रदर्शन किया है। रविवार को ‘पति पत्नी और वो दो’ ने लगभग ₹14.53 करोड़ का कलेक्शन किया। वहीं ‘चांद मेरा दिल’ ने ₹7.21 करोड़ कमाए। अनन्या पांडे और लक्ष्य की फिल्म‘चांद मेरा दिल’ और आयुष्मान खुराना की फिल्म ‘पति पत्नी और वो दो’ के बीच कड़ी टक्कर देखने को मिल रही है।",
           "region": "दुनिया"
         }
       }
