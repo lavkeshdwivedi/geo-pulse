@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-31T10:59:21.322876+00:00",
+  "generated_at": "2026-05-31T12:17:16.592104+00:00",
   "article_count": 50,
   "total_unique_count": 268,
   "digest": {
-    "en": "AUKUS undersea drone development and Japan's defense posture dominate Asia-Pacific headlines. Middle East reports focus on conflict in Lebanon and Gaza. Ukraine's drone pilots are also featured.",
-    "hi": "इजरायल ने लेबनान के ब्यूफोर्ट किले पर कब्जा कर लिया है, जिससे मध्य पूर्व में तनाव बढ़ गया है। वहीं, नेपाल के प्रधानमंत्री भारत के साथ सीमा विवाद को कूटनीतिक रूप से सुलझाने की बात कर रहे हैं।"
+    "en": "Colombia's election dominates headlines, a contrast to AUKUS undersea drone development in the Asia-Pacific. Japan's defense minister also addressed regional security concerns. These stories highlight shifting geopolitical and security priorities.",
+    "hi": "पाकिस्तान में बकरीद पर गैस और बिजली की कमी ने लोगों को परेशान किया। वहीं, अमेरिका को चीन के 'मृत्युलोक' उपग्रहों से चिंता है। लेबनान में इजरायल ने ब्यूफोर्ट किले पर कब्जा कर लिया है।"
   },
   "articles": [
+    {
+      "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
+      "url": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-31T11:23:36+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/a5d4393b66b82047707dfe0eaeba3f9f3d0c50f9/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bde9d485f194bf7b004c3bd282a97a4",
+      "summary": "Colombians cast ballots in the first round of the nation's presidential election on Ballots are being cast in the first round of the South American nation’s presidential electionsColombians are casting ballots in the first round of the South American nation’s presidential election, choosing between candidates with radically diverging visions for the future of peace in a country haunted by decades of armed conflict. The vote on Sunday, seen as a referendum on outgoing President Gus.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "AUKUS undersea drones development boosts regional security: Australia deputy PM",
       "url": "https://www.channelnewsasia.com/asia/australia-richard-marles-dpm-defence-minister-interview-aukus-undersea-unmanned-vehicle-shangri-la-dialogue-6152321",
@@ -296,16 +308,58 @@
       "translations": {}
     },
     {
-      "title": "UN warns Ukraine war risks spiralling ‘out of control’",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167599",
-      "source": "UN News",
+      "title": "वाह रे पाकिस्तान, बूंद-बूंद को तरस रही अवाम, बकरीद पर न गैस न बिजली, त्योहार पर निकले आंसू",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-big-city-karachi-hit-by-utility-collapse-no-water-gas-power-on-bakreed-ws-l-10527923.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-28T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/11-03-2026-UNOCHA-Ukraine-01.jpg/image770x420cropped.jpg",
-      "summary": "The United Nations warned of a dangerous escalation in the Ukraine war. The United Nations on Thursday warned of a dangerous escalation in the war in Ukraine after a wave of large-scale Russian strikes and threats of further attacks, with Secretary-General António Guterres saying “the death spiral must stop.”. UN warns Ukraine war risks spiralling ‘out of control’.",
+      "published_at": "2026-05-31T12:08:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/petrol-crisis-2026-05-1735ebde35e3d0ae1532d036e38fe712-1200x800.jpg",
+      "summary": "पाकिस्तान के सबसे बड़े शहर कराची में बकरीद के त्योहार पर पानी, बिजली और गैस की कमी रही। Pakistan Water Gas Power Crisis: पाकिस्तान आंतरिक असुरक्षा का ठींकरा तो भारत और अफगानिस्तान के सिर पर फोड़ देता है लेकिन उसकी अवाम जो बिजली-पानी की क्राइसिस झेल रही है, उसका जिम्मेदार कौन है? हालात ये हैं कि देश के सबसे बड़े शहर कराची में त्यौहार के मौके पर भी लोगों को पानी नहीं मिल रहा है, बिजली और गैस की तो बात ही छोड़िए.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वाह रे पाकिस्तान, बूंद-बूंद को तरस रही अवाम, बकरीद पर न गैस न बिजली, त्योहार पर निकले आंसू",
+          "summary": "पाकिस्तान के सबसे बड़े शहर कराची में बकरीद के त्योहार पर पानी, बिजली और गैस की कमी रही। Pakistan Water Gas Power Crisis: पाकिस्तान आंतरिक असुरक्षा का ठींकरा तो भारत और अफगानिस्तान के सिर पर फोड़ देता है लेकिन उसकी अवाम जो बिजली-पानी की क्राइसिस झेल रही है, उसका जिम्मेदार कौन है? हालात ये हैं कि देश के सबसे बड़े शहर कराची में त्यौहार के मौके पर भी लोगों को पानी नहीं मिल रहा है, बिजली और गैस की तो बात ही छोड़िए.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चीनी 'मृत्युलोक' में घिरा अमेरिका, सैटेलाइट तस्वीरें पेंटागन को डाल रहीं सदमे में, मौत का",
+      "url": "https://hindi.news18.com/world/china-china-strategic-chokehold-building-launch-pads-near-its-nuclear-missile-silos-biggest-threat-to-us-2-photogallery-ws-l-10527818.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-31T11:17:32+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/China-Satellite-pic-2026-05-63c76366a7ce6bd55c12bcd4e59b0499-1200x800.jpg",
+      "summary": "चीन ने उत्तर-पश्चिमी रेगिस्तान में हामी न्यूक्लियर साइलो फील्ड के पास एक विशाल तीन-स्तरीय सैन्य परिसर बनाया China Chokehold Strategy for US: चीन इस वक्त दुनिया में वो देश बन चुका है, जो कहीं भी मौका देखकर वहां अपना किला तैयार कर लेता है. कुछ ऐसा ही किया है उसने ने उत्तर-पश्चिमी रेगिस्तान में हामी न्यूक्लियर साइलो फील्ड के पास.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीनी 'मृत्युलोक' में घिरा अमेरिका, सैटेलाइट तस्वीरें पेंटागन को डाल रहीं सदमे में, मौत का",
+          "summary": "चीन ने उत्तर-पश्चिमी रेगिस्तान में हामी न्यूक्लियर साइलो फील्ड के पास एक विशाल तीन-स्तरीय सैन्य परिसर बनाया China Chokehold Strategy for US: चीन इस वक्त दुनिया में वो देश बन चुका है, जो कहीं भी मौका देखकर वहां अपना किला तैयार कर लेता है. कुछ ऐसा ही किया है उसने ने उत्तर-पश्चिमी रेगिस्तान में हामी न्यूक्लियर साइलो फील्ड के पास.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'पेरिस में क्यों मचा कोहराम? 20000 लोगों के सामने खड़े हो गए 22000 पुलिसवाले, जंग का मैदान बना शहर",
+      "url": "https://hindi.news18.com/world/europe-psg-champions-league-win-2026-sparks-massive-paris-riots-400-arrested-after-final-against-arsenal-10527759.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-31T11:12:44+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Champions-League-1-2026-05-ae8ee2594d884b79286a4095b979880d-1200x800.jpg",
+      "summary": "पेरिस सेंट-जर्मेन ने आर्सेनल को हराकर चैंपियंस लीग फाइनल जीता. आर्सेनल पर पेरिस सेंट-जर्मेन (पीएसजी) ने रोमांचक जीत दर्ज की. पीएसजी की जीत के बाद पूरा फ्रांस जश्न में डूब गया. लेकिन यह जश्न जल्द ही हिंसक दंगों में बदल गया. पेरिस सहित करीब 15 शहरों में PSG फैंस ने जमकर बवाल काटा. पुलिस पर आतिशबाजी फेंकी गई, दुकानें तोड़ी गईं और गाड़ियों में आग लगा दी गई.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'पेरिस में क्यों मचा कोहराम? 20000 लोगों के सामने खड़े हो गए 22000 पुलिसवाले, जंग का मैदान बना शहर",
+          "summary": "पेरिस सेंट-जर्मेन ने आर्सेनल को हराकर चैंपियंस लीग फाइनल जीता. आर्सेनल पर पेरिस सेंट-जर्मेन (पीएसजी) ने रोमांचक जीत दर्ज की. पीएसजी की जीत के बाद पूरा फ्रांस जश्न में डूब गया. लेकिन यह जश्न जल्द ही हिंसक दंगों में बदल गया. पेरिस सहित करीब 15 शहरों में PSG फैंस ने जमकर बवाल काटा. पुलिस पर आतिशबाजी फेंकी गई, दुकानें तोड़ी गईं और गाड़ियों में आग लगा दी गई.",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "इजरायल ने लेबनान के ब्यूफोर्ट किले पर किया कब्जा, युद्ध में अब तक 3,350 से ज्यादा मौतें",
@@ -470,24 +524,6 @@
       }
     },
     {
-      "title": "प्राइवेट स्कूलों को नोटिस बोर्ड पर लिखनी होगी ट्यूशन फीस, तय सीमा से ज्यादा वसूली पर मान्यता रद्द",
-      "url": "https://www.amarujala.com/india-news/tn-private-schools-must-display-tuition-fee-on-notice-board-government-cracks-down-on-overcharging-schools-2026-05-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-31T07:28:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/vajaya-tamalnada-ka-makhayamatara_a22207206a9e70f9a66b25d874f51dd3.jpeg?w=750&dpr=1.0",
-      "summary": "तमिलनाडु सरकार ने निजी स्कूलों को नोटिस बोर्ड पर अपनी ट्यूशन फीस प्रदर्शित करने का आदेश दिया है। सरकार ने यह भी स्पष्ट किया है कि तय सीमा से अधिक शुल्क वसूलने वाले स्कूलों की मान्यता रद्द कर दी जाएगी। प्राइवेट स्कूलों को नोटिस बोर्ड पर लिखनी होगी ट्यूशन फीस, तय सीमा से ज्यादा वसूली पर मान्यता रद्द।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्राइवेट स्कूलों को नोटिस बोर्ड पर लिखनी होगी ट्यूशन फीस, तय सीमा से ज्यादा वसूली पर मान्यता रद्द",
-          "summary": "तमिलनाडु सरकार ने निजी स्कूलों को नोटिस बोर्ड पर अपनी ट्यूशन फीस प्रदर्शित करने का आदेश दिया है। सरकार ने यह भी स्पष्ट किया है कि तय सीमा से अधिक शुल्क वसूलने वाले स्कूलों की मान्यता रद्द कर दी जाएगी। प्राइवेट स्कूलों को नोटिस बोर्ड पर लिखनी होगी ट्यूशन फीस, तय सीमा से ज्यादा वसूली पर मान्यता रद्द।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "ईरान का दावा- मार गिराया अमेरिका का एमक्यू-1 ड्रोन; ट्रंप बोले- मुझे समझौते की जल्दी नहीं",
       "url": "https://www.amarujala.com/live/world/iran-israel-war-live-update-west-asia-crisis-irgc-us-strike-iran-peace-deal-donald-trump-pakistan-2026-05-31",
       "source": "Amar Ujala World",
@@ -538,24 +574,6 @@
           "title": "ईरान नहीं बनाएगा परमाणु हथियार न ही खरीदेगा, ट्रंप का दावा- होने की वाला है समझौता, तेहरान चुप",
           "summary": "डोनाल्ड ट्रंप ने दावा किया कि ईरान परमाणु हथियार नहीं बनाएगा या खरीदेगा। उन्होंने कहा कि ईरान एक समझौते के करीब है। तेहरान ने इस पर कोई पुष्टि नहीं की है। उनका कहना है कि वो इस बात पर राजी भी हो चुका है कि भविष्य में न तो परमाणु हथियार बनाएगा और न ही किसी से खरीदेगा. हालांकि ईरान की ओर से इस पर कोई पुष्टि नहीं हुई है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "महुआ मोइत्रा ने BJP को कहा- गंदी जंगली पार्टी; भाजपा बोली- ये टीएमसी के अत्याचारों का नतीजा",
-      "url": "https://www.amarujala.com/india-news/mahua-moitra-attacks-bjp-over-abhishek-banerjee-sonarpur-attack-tmc-bjp-clash-west-bengal-politics-latest-news-2026-05-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-31T06:31:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/aganamatara-pal-mahaaa-maitara_c6243ff161780319c656f1cd8578c41b.jpeg?w=750&dpr=1.0",
-      "summary": "महुआ मोइत्रा ने अभिषेक बनर्जी पर हमले के बाद भाजपा को \"गंदी जंगली पार्टी\" कहा। भाजपा ने जवाब दिया कि यह तृणमूल कांग्रेस के अत्याचारों का परिणाम है। महुआ मोइत्रा ने BJP को कहा- गंदी जंगली पार्टी; भाजपा बोली- ये टीएमसी के अत्याचारों का नतीजा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "महुआ मोइत्रा ने BJP को कहा- गंदी जंगली पार्टी; भाजपा बोली- ये टीएमसी के अत्याचारों का नतीजा",
-          "summary": "महुआ मोइत्रा ने अभिषेक बनर्जी पर हमले के बाद भाजपा को \"गंदी जंगली पार्टी\" कहा। भाजपा ने जवाब दिया कि यह तृणमूल कांग्रेस के अत्याचारों का परिणाम है। महुआ मोइत्रा ने BJP को कहा- गंदी जंगली पार्टी; भाजपा बोली- ये टीएमसी के अत्याचारों का नतीजा।",
-          "region": "दुनिया"
         }
       }
     },
@@ -668,42 +686,6 @@
       }
     },
     {
-      "title": "चीन का सपना चकनाचूर! अमेरिका का बाप बनने की चाहत रह जाएगी अधूरी, क्या भारत ने बिगाड़ दिया पूरा खेल?",
-      "url": "https://hindi.news18.com/world/china-china-not-overtake-america-till-2060-beijing-dream-to-become-superpower-fall-short-india-role-imf-world-bank-10526364.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-31T02:27:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/trump-xi-2026-05-328b3cb96bb197cd9ac0d2a1b3d34403-1200x800.jpg",
-      "summary": "चीन के अमेरिका को पीछे छोड़ने के अनुमानों पर सवाल उठ रहे हैं. विशेषज्ञों का मानना था कि चीन 2030 तक वैश्विक महाशक्ति बन जाएगा. हालांकि, वर्तमान विकास दर और भू-राजनीतिक स्थितियां इस भविष्यवाणी को अनिश्चित बना रही हैं. सामाजिक, आर्थिक और सैन्‍य दृष्टिकोण से बीजिंग अमेरिका को टक्‍कर देने लगा है. पिछले दिनों चीन के राष्‍ट्रपति शी जिनपिंग ने USA को डिक्‍लाइनिंग पावर कहा था.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन का सपना चकनाचूर! अमेरिका का बाप बनने की चाहत रह जाएगी अधूरी, क्या भारत ने बिगाड़ दिया पूरा खेल?",
-          "summary": "चीन के अमेरिका को पीछे छोड़ने के अनुमानों पर सवाल उठ रहे हैं. विशेषज्ञों का मानना था कि चीन 2030 तक वैश्विक महाशक्ति बन जाएगा. हालांकि, वर्तमान विकास दर और भू-राजनीतिक स्थितियां इस भविष्यवाणी को अनिश्चित बना रही हैं. सामाजिक, आर्थिक और सैन्‍य दृष्टिकोण से बीजिंग अमेरिका को टक्‍कर देने लगा है. पिछले दिनों चीन के राष्‍ट्रपति शी जिनपिंग ने USA को डिक्‍लाइनिंग पावर कहा था.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज का झमेला नहीं हुआ खत्म, फिर गरजा अमेरिका, ईरान जा रहे जहाज पर हेलफायर मिसाइल दागी",
-      "url": "https://hindi.news18.com/world/middle-east-strait-of-hormuz-us-navy-attack-on-a-ship-with-hellfire-missile-what-is-it-10526334.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-31T02:26:22+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/iran-attack-5-2026-05-140378254de17597d42e96d8e9fa1634-1200x800.jpg",
-      "summary": "अमेरिकी नौसेना ने होर्मुज जलडमरूमध्य में ईरान जा रहे एक जहाज पर हेलफायर मिसाइल दागी. नौसेना का कहना है कि जहाज को कई बार चेतावनी दी गई थी, लेकिन वह नहीं रुका. Hormuz Crisis News: अमेरिकी नेवी क ब्लॉकेड अभी भी होर्मुज में जारी है. स्थिति ये है कि अमेरिका ने ईरान के एक जहाज को रोकने के लिए मिसाइल तक चला दी.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज का झमेला नहीं हुआ खत्म, फिर गरजा अमेरिका, ईरान जा रहे जहाज पर हेलफायर मिसाइल दागी",
-          "summary": "अमेरिकी नौसेना ने होर्मुज जलडमरूमध्य में ईरान जा रहे एक जहाज पर हेलफायर मिसाइल दागी. नौसेना का कहना है कि जहाज को कई बार चेतावनी दी गई थी, लेकिन वह नहीं रुका. Hormuz Crisis News: अमेरिकी नेवी क ब्लॉकेड अभी भी होर्मुज में जारी है. स्थिति ये है कि अमेरिका ने ईरान के एक जहाज को रोकने के लिए मिसाइल तक चला दी.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "ईरान ने मार गिराया अमेरिका का एक और ड्रोन, शांति समझौते की अटकलों के बीच नया बवाल",
       "url": "https://www.patrika.com/world-news/iran-irgc-says-it-shot-down-a-us-mq-1-drone-20626095",
       "source": "Patrika (World)",
@@ -717,6 +699,24 @@
         "hi": {
           "title": "ईरान ने मार गिराया अमेरिका का एक और ड्रोन, शांति समझौते की अटकलों के बीच नया बवाल",
           "summary": "ईरान के इस्लामिक रिवोल्यूशन गार्ड कॉर्प्स ने रविवार को अमेरिका का एक MQ-1 ड्रोन मार गिराने की घोषणा की। यह घटना शांति समझौते की अटकलों के बीच हुई। ईरान के इस्लामिक रिवोल्यूशन गार्ड कॉर्प्स (आईआरजीसी) ने अमेरिका के एक और ड्रोन को मार गिराया है। ईरान सेना ने रविवार को इस बात की जानकारी दी। सेना ने बताया कि उसने अमेरका का MQ-1 ड्रोन मार गिराया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'प्रोटोकॉल का सख्ती से पालन न करने पर...', होर्मुज से गुजरने वाले जहाजों को ईरान ने फिर दी धमकी",
+      "url": "https://www.abplive.com/news/world/iran-strait-of-hormuz-irgc-warning-mercantile-and-naval-vessels-strictly-shipping-protocols-3137811",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-05-31T02:17:48+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/31/10fa729b8cd9082f0c81f81d798b49dd17801933223761200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ईरान ने होर्मुज स्ट्रेट पर अपनी संप्रभुता का दावा करते हुए जहाजों को चेतावनी दी है। ईरान ने होर्मुज स्ट्रेट पर अपनी संप्रभुता की पुष्टि करते हुए कड़ी चेतावनी जारी की है. तेहरान का कहना है कि व्यापारिक और नौसैनिक दोनों प्रकार के जहाजों को इस महत्वपूर्ण समुद्री गलियारे में जहाजरानी प्रोटोकॉल का सख्ती से पालन करना होगा अन्यथा उन्हें गंभीर परिणाम भुगतने पड़ सकते हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'प्रोटोकॉल का सख्ती से पालन न करने पर...', होर्मुज से गुजरने वाले जहाजों को ईरान ने फिर दी धमकी",
+          "summary": "ईरान ने होर्मुज स्ट्रेट पर अपनी संप्रभुता का दावा करते हुए जहाजों को चेतावनी दी है। ईरान ने होर्मुज स्ट्रेट पर अपनी संप्रभुता की पुष्टि करते हुए कड़ी चेतावनी जारी की है. तेहरान का कहना है कि व्यापारिक और नौसैनिक दोनों प्रकार के जहाजों को इस महत्वपूर्ण समुद्री गलियारे में जहाजरानी प्रोटोकॉल का सख्ती से पालन करना होगा अन्यथा उन्हें गंभीर परिणाम भुगतने पड़ सकते हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
