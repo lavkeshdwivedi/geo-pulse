@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-30T22:09:28.526391+00:00",
+  "generated_at": "2026-05-31T00:03:05.485651+00:00",
   "article_count": 50,
-  "total_unique_count": 264,
+  "total_unique_count": 257,
   "digest": {
-    "en": "Lebanon's Prime Minister denounces Israeli strikes in the south. Meanwhile, a Kremlin-backed disinformation unit is tied to a Zelenskyy Dubai apartment hoax. The UN Security Council race sets the Indo-Pacific against Eurasia.",
-    "hi": "नौसेना की पनडुब्बी क्षमता में वृद्धि और होर्मुज जलडमरूमध्य में अमेरिकी नाकेबंदी आज की प्रमुख खबरें हैं। भारत की सामरिक स्वायत्तता और वैश्विक तेल बाजारों में तनाव इन घटनाओं को रेखांकित करते हैं।"
+    "en": "The UN Security Council race dominates headlines. Middle East tensions remain high with reports from Lebanon and Iran. Gaza football camps offer a different perspective.",
+    "hi": "चंबा में कार खाई में गिरने से आठ पर्यटकों की मौत हुई। वहीं, दक्षिण चीन सागर में चीन की बढ़ती सैन्य गतिविधियों से हिंद-प्रशांत क्षेत्र में तनाव बढ़ा है।"
   },
   "articles": [
     {
@@ -16,6 +16,30 @@
       "image_url": "https://dam.mediacorp.sg/image/upload/s--jcWxtB3u--/c_crop,h_897,w_1596,x_1,y_-1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/28/istock-1157947031.jpg?itok=6w1NQrut",
       "summary": "Some working adults push themselves to the limit pursuing health. From packed workout schedules to expensive classes to social media pressure, some working adults are pushing themselves to the limit in the pursuit of health, which in turn causes more stress on their bodies and in their daily lives than necessary. Rushing from pilates to spin? Exercise doesn't have to be exhausting or pricey.",
       "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "World Awaits Trump Decision On Negotiated Framework",
+      "url": "https://www.rferl.org/a/trump-iran-ceasefire-framework-hesgeth-uranium/33769107.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-05-30T22:00:58+00:00",
+      "image_url": "https://gdb.rferl.org/47d50352-0bd1-4278-b168-7617ad338895_w1200_h630.jpg",
+      "summary": "The United States awaits President Donald Trump's decision on a proposed framework to extend the current cease-fire with Iran. Threats to resume air strikes and naval interdiction actions in the Persian Gulf region continue. The framework aims to de-escalate tensions. Trump's response will determine the next steps. The world continues to await US President Donald Trump’s reaction to a proposed framework to extend the current cease-fire with Iran, even as threats to resume US air strikes and American naval forces’ interdiction actions in the Persian Gulf region persist.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Malaysia’s LGBTQ groups tread more carefully amid recent enforcement, ministers’ rhetoric",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-lgbtq-enforcement-rhetoric-pushback-6051601",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-05-30T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--AncGdvGD--/c_crop,h_670,w_1191,x_89,y_172/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/25/anti-lgbt-fb-pekida-daerah-putrajaya.jpg?itok=YbefJPVv",
+      "summary": "Malaysian authorities have increased enforcement actions against LGBTQ individuals and groups. This follows a period of heightened rhetoric from government ministers concerning LGBTQ rights. Analysts suggest this shift is partly driven by political competition and the visibility of certain LGBTQ-related events. LGBTQ organizations are now operating with greater caution. Recent moves by the Malaysian authorities point to a more restrictive climate for LGBTQ people in the country, analysts say, and this could be due to political competition as well as the visibility of some events.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -248,18 +272,6 @@
       "translations": {}
     },
     {
-      "title": "Kyiv’s Envoy Says Patriot Missiles Are Critical As Zelenskyy Appeals To Trump",
-      "url": "https://www.rferl.org/a/ukraine-us-patriot-missiles-zelenskyy-appeal-trump-congress/33767500.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-05-28T14:09:07+00:00",
-      "image_url": "https://gdb.rferl.org/058a0000-0aff-0242-d7c7-08dae369865f_w1200_h630.jpg",
-      "summary": "Ukraine’s ambassador to the United States Oksana Markarova stated that Patriot missile systems are critical for Ukraine’s defense. President Volodymyr Zelenskyy directly appealed to former President Donald Trump and the US Congress. He warned that Ukraine urgently requires more Patriot missile systems. Russia has increased its ballistic missile attacks on Ukrainian cities. Ukrainian President Volodymyr Zelenskyy has issued an unusually direct appeal to President Donald Trump and the US Congress, warning that Ukraine urgently needs additional Patriot missile systems as Russia intensifies ballistic missile attacks on Ukrainian cities.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "UN warns Ukraine war risks spiralling ‘out of control’",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167599",
       "source": "UN News",
@@ -296,36 +308,6 @@
       "translations": {}
     },
     {
-      "title": "WHO chief calls for ceasefire amid DR Congo Ebola outbreak",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167594",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-05-28T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/28-05-2026-UNICEF-DR-Congo-ebola-01.jpg/image770x420cropped.jpg",
-      "summary": "The WHO Director-General called for a ceasefire in the Democratic Republic of the Congo. The Director-General of the World Health Organization (WHO) headed to the Democratic Republic of the Congo (DRC) on Thursday as the country continues to combat a deadly resurgence of Ebola in its volatile eastern region where instability is rife. WHO chief calls for ceasefire amid DR Congo Ebola outbreak.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "2033 तक नौसेना को मिलेगी स्वदेशी पनडुब्बी: US-जर्मनी के साथ बढ़ रहा सहयोग, सामरिक मोर्चे पर भारत",
-      "url": "https://www.amarujala.com/india-news/navy-chief-dinesh-tripathi-on-third-aircraft-carrier-project-75i-submarine-roadmap-2026-05-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-31T07:14:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/nasana-ka-tayara_142c97f33a6ae58a7606e745f963c58e.png?w=750&dpr=1.0",
-      "summary": "भारत 2033 तक अपनी नौसेना के लिए स्वदेशी पनडुब्बियों का निर्माण करेगा। इस परियोजना में संयुक्त राज्य अमेरिका और जर्मनी के साथ सहयोग शामिल है। यह कदम भारत की सामरिक क्षमताओं को मजबूत करेगा। 2033 तक नौसेना को मिलेगी स्वदेशी पनडुब्बी: US-जर्मनी के साथ बढ़ रहा सहयोग, सामरिक मोर्चे पर भारत कितना तैयार?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "2033 तक नौसेना को मिलेगी स्वदेशी पनडुब्बी: US-जर्मनी के साथ बढ़ रहा सहयोग, सामरिक मोर्चे पर भारत",
-          "summary": "भारत 2033 तक अपनी नौसेना के लिए स्वदेशी पनडुब्बियों का निर्माण करेगा। इस परियोजना में संयुक्त राज्य अमेरिका और जर्मनी के साथ सहयोग शामिल है। यह कदम भारत की सामरिक क्षमताओं को मजबूत करेगा। 2033 तक नौसेना को मिलेगी स्वदेशी पनडुब्बी: US-जर्मनी के साथ बढ़ रहा सहयोग, सामरिक मोर्चे पर भारत कितना तैयार?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "चंबा में बड़ा हादसा, 500 मीटर गहरी खाई में गिरी कार, दो बच्चों समेत आठ पर्यटकों की मौत",
       "url": "https://www.amarujala.com/shimla/eight-tourists-including-two-children-and-the-driver-are-missing-after-their-vehicle-falls-into-a-ditch-in-d-2026-05-31",
       "source": "Amar Ujala Breaking",
@@ -340,42 +322,6 @@
           "title": "चंबा में बड़ा हादसा, 500 मीटर गहरी खाई में गिरी कार, दो बच्चों समेत आठ पर्यटकों की मौत",
           "summary": "हिमाचल प्रदेश के चंबा जिले में एक कार 500 मीटर गहरी खाई में गिर गई। इस दुर्घटना में दो बच्चों सहित आठ पर्यटकों की मृत्यु हो गई। हिमाचल प्रदेश के चंबा जिले में बड़ा हादसा हुआ है। चंबा में बड़ा हादसा, 500 मीटर गहरी खाई में गिरी कार, दो बच्चों समेत आठ पर्यटकों की मौत।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पनडुब्बी-रोधी और निगरानी क्षमता बढ़ा रही नौसेना; रिटायरमेंट से पहले बोले नेवी चीफ एडमिरल त्रिपाठी",
-      "url": "https://www.amarujala.com/india-news/indian-navy-enhanc-anti-submarine-surveillance-capabilities-navy-chief-admiral-tripathi-ahead-of-retirement-2026-05-31",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-31T06:43:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/edamaral-tarapatha-nasana-paramakha_c9b134bddc53977327468ee0b28c5c9d.jpeg?w=750&dpr=1.0",
-      "summary": "नौसेना प्रमुख एडमिरल त्रिपाठी ने कहा कि नौसेना अपनी पनडुब्बी-रोधी और निगरानी क्षमताओं को बढ़ा रही है। यह कदम सेवानिवृत्ति से पहले नौसेना की ताकत को मजबूत करेगा। Indian Navy: पनडुब्बी-रोधी और निगरानी क्षमता बढ़ा रही नौसेना; रिटायरमेंट से पहले बोले नेवी चीफ एडमिरल त्रिपाठी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पनडुब्बी-रोधी और निगरानी क्षमता बढ़ा रही नौसेना; रिटायरमेंट से पहले बोले नेवी चीफ एडमिरल त्रिपाठी",
-          "summary": "नौसेना प्रमुख एडमिरल त्रिपाठी ने कहा कि नौसेना अपनी पनडुब्बी-रोधी और निगरानी क्षमताओं को बढ़ा रही है। यह कदम सेवानिवृत्ति से पहले नौसेना की ताकत को मजबूत करेगा। Indian Navy: पनडुब्बी-रोधी और निगरानी क्षमता बढ़ा रही नौसेना; रिटायरमेंट से पहले बोले नेवी चीफ एडमिरल त्रिपाठी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "दक्षिण दिल्ली के साकेत में बड़ा हादसा, पांच मंजिला इमारत गिरी कई लोग दबे!",
-      "url": "https://www.amarujala.com/video/india-news/delhi-saket-building-collapsed-major-accident-in-saket-south-delhi-five-storey-building-collapses-many-peo-2026-05-31",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-31T06:41:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/delhi-saket-building-collapsed_f5d563dfa2b4ae4043470caf77bbde79.jpeg?w=750&dpr=1.0",
-      "summary": "दक्षिण दिल्ली के साकेत में पांच मंजिला इमारत ढह गई। कई लोग मलबे में दब गए। बचाव अभियान जारी है। Delhi Saket Building Collapsed:दक्षिण दिल्ली के साकेत में बड़ा हादसा, पांच मंजिला इमारत गिरी कई लोग दबे!",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दक्षिण दिल्ली के साकेत में बड़ा हादसा, पांच मंजिला इमारत गिरी कई लोग दबे!",
-          "summary": "दक्षिण दिल्ली के साकेत में पांच मंजिला इमारत ढह गई। कई लोग मलबे में दब गए। बचाव अभियान जारी है। Delhi Saket Building Collapsed:दक्षिण दिल्ली के साकेत में बड़ा हादसा, पांच मंजिला इमारत गिरी कई लोग दबे!",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -398,27 +344,207 @@
       }
     },
     {
-      "title": "राजस्थान के चूरू में दोपहर में छाया रात जैसा अंधेरा, रेतीले तूफान से राजस्थान में मचा ह",
-      "url": "https://www.amarujala.com/video/india-news/rajasthan-dust-storm-churu-in-rajasthan-was-plunged-into-darkness-in-the-afternoon-with-a-sandstorm-creating-2026-05-31",
+      "title": "टॉप-3 चैंपियंस को मिलेगा यूरो स्पेस सेंटर जाने का मौका, लकी ड्रॉ से होगी विजेताओं की घोषणा",
+      "url": "https://www.amarujala.com/india-news/national-olympiads-top-3-champions-will-get-a-chance-to-visit-eurospace-centre-winners-by-lucky-draw-2026-05-31",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-05-30T22:00:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/rajasthan-dust-storm_f5a34bb0d58abc8b1dab700cc1594a33.jpeg?w=750&dpr=1.0",
-      "summary": "चूरू, राजस्थान में दोपहर के समय एक भीषण रेतीले तूफान ने रात जैसा अंधेरा कर दिया। इस घटना से स्थानीय निवासियों में हड़कंप मच गया। Rajasthan Dust Storm: राजस्थान के चूरू में दोपहर में छाया रात जैसा अंधेरा, रेतीले तूफान से राजस्थान में मचा हड़कंप।",
+      "published_at": "2026-05-31T00:00:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/amar-ujala-national-olympiad_1166247a08f49194b522fde5025daf4c.jpeg?w=750&dpr=1.0",
+      "summary": "राष्ट्रीय ओलंपियाड के शीर्ष तीन विजेताओं को यूरोस्पेस सेंटर जाने का अवसर मिलेगा। विजेताओं का चयन लकी ड्रॉ के माध्यम से किया जाएगा। यह घोषणा राष्ट्रीय ओलंपियाड के आयोजकों द्वारा की गई है। टॉप-3 चैंपियंस को मिलेगा यूरो स्पेस सेंटर जाने का मौका, लकी ड्रॉ से होगी विजेताओं की घोषणा।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "राजस्थान के चूरू में दोपहर में छाया रात जैसा अंधेरा, रेतीले तूफान से राजस्थान में मचा ह",
-          "summary": "चूरू, राजस्थान में दोपहर के समय एक भीषण रेतीले तूफान ने रात जैसा अंधेरा कर दिया। इस घटना से स्थानीय निवासियों में हड़कंप मच गया। Rajasthan Dust Storm: राजस्थान के चूरू में दोपहर में छाया रात जैसा अंधेरा, रेतीले तूफान से राजस्थान में मचा हड़कंप।",
+          "title": "टॉप-3 चैंपियंस को मिलेगा यूरो स्पेस सेंटर जाने का मौका, लकी ड्रॉ से होगी विजेताओं की घोषणा",
+          "summary": "राष्ट्रीय ओलंपियाड के शीर्ष तीन विजेताओं को यूरोस्पेस सेंटर जाने का अवसर मिलेगा। विजेताओं का चयन लकी ड्रॉ के माध्यम से किया जाएगा। यह घोषणा राष्ट्रीय ओलंपियाड के आयोजकों द्वारा की गई है। टॉप-3 चैंपियंस को मिलेगा यूरो स्पेस सेंटर जाने का मौका, लकी ड्रॉ से होगी विजेताओं की घोषणा।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "यूएन शांतिरक्षकों की याद में कार्यक्रम; मेजर अभिलाषा बराक को मिला खास सम्मान",
+      "url": "https://www.amarujala.com/world/world-updates-un-peacekeepers-day-india-austria-event-meteor-over-massachusetts-causes-explosion-2026-05-31",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-30T23:55:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/thanaya-ka-ahama-khabra_0d2d2ad921551174e53bfcb98e4ab8b9.jpeg?w=750&dpr=1.0",
+      "summary": "संयुक्त राष्ट्र शांतिरक्षकों की स्मृति में एक कार्यक्रम आयोजित किया गया। इस दौरान मेजर अभिलाषा बराक को विशेष सम्मान से नवाजा गया। यह कार्यक्रम भारत और ऑस्ट्रिया द्वारा आयोजित किया गया था। यूएन शांतिरक्षकों की याद में कार्यक्रम; मेजर अभिलाषा बराक को मिला खास सम्मान।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूएन शांतिरक्षकों की याद में कार्यक्रम; मेजर अभिलाषा बराक को मिला खास सम्मान",
+          "summary": "संयुक्त राष्ट्र शांतिरक्षकों की स्मृति में एक कार्यक्रम आयोजित किया गया। इस दौरान मेजर अभिलाषा बराक को विशेष सम्मान से नवाजा गया। यह कार्यक्रम भारत और ऑस्ट्रिया द्वारा आयोजित किया गया था। यूएन शांतिरक्षकों की याद में कार्यक्रम; मेजर अभिलाषा बराक को मिला खास सम्मान।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "छह मंजिला इमारत ढही, 15 निकाले गए; 80 से ज्यादा के मलबे में दबे होने की आशंका",
+      "url": "https://www.amarujala.com/live/delhi-ncr/saket-building-collapse-news-live-updates-south-delhi-multi-storey-building-mishap-casualties-rescue-2026-05-31",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-30T23:36:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/thall-ka-sakata-ma-paca-majal-imarata-gara_067e3afd36d3ee1ce8e1d3b692473fa4.gif?w=750&dpr=1.0",
+      "summary": "दक्षिण दिल्ली के साकेत में एक बहुमंजिला इमारत ढह गई। इस हादसे में एक व्यक्ति की मौत हो गई। बचाव कार्य के लिए ग्रीन कॉरिडोर बनाया गया। दक्षिण दिल्ली के साकेत में शनिवार शाम एक बहुमंजिला इमारत ढह गई। दिल्ली में गिरी बहुमंजिला इमारत, एक की मौत, रेस्क्यू के लिए बना ग्रीन कॉरिडोर। छह मंजिला इमारत ढही, 15 निकाले गए; 60 से ज्यादा लोगों के दबे होने की आशंका।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "छह मंजिला इमारत ढही, 15 निकाले गए; 80 से ज्यादा के मलबे में दबे होने की आशंका",
+          "summary": "दक्षिण दिल्ली के साकेत में एक बहुमंजिला इमारत ढह गई। इस हादसे में एक व्यक्ति की मौत हो गई। बचाव कार्य के लिए ग्रीन कॉरिडोर बनाया गया। दक्षिण दिल्ली के साकेत में शनिवार शाम एक बहुमंजिला इमारत ढह गई। दिल्ली में गिरी बहुमंजिला इमारत, एक की मौत, रेस्क्यू के लिए बना ग्रीन कॉरिडोर। छह मंजिला इमारत ढही, 15 निकाले गए; 60 से ज्यादा लोगों के दबे होने की आशंका।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "हिंद-प्रशांत में अब ड्रैगन राज? दक्षिण चीन सागर को किला बनाने की तैयारी, चीन के परमाणु दैत्य से खौफ",
+      "url": "https://hindi.news18.com/world/china-dragon-warship-south-china-sea-to-indo-pacific-fujian-nuclear-carrier-heightens-global-tension-10525840.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-30T23:31:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Fujian-Nuclear-Carrier-2026-05-e3adb72e693894e0dda4319ab6e823f7-1200x800.jpg",
+      "summary": "चीन दक्षिण चीन सागर को एक सैन्य अड्डा बनाने की तैयारी कर रहा है। फुजियान सुपरकैरियर, जो नवंबर 2025 में नौसेना में शामिल हुआ, इस क्षेत्र में चीन की बढ़ती सैन्य शक्ति का प्रतीक है। फुजियान सुपरकैरियर चीन का पहला स्वदेशी सुपर एयरक्राफ्ट कैरियर है, जिसे नवंबर 2025 में आधिकारिक तौर पर नौसेना में शामिल किया गया. यह लगभग 80,000 टन से अधिक वजन वाला विशाल युद्धपोत है और इसमें अत्याधुनिक इलेक्ट्रोमैग्नेटिक कैटापल्ट तकनीक का उपयोग किया गया है, जिससे लड़ाकू विमानों को तेजी से लॉन्च किया जा सकता है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिंद-प्रशांत में अब ड्रैगन राज? दक्षिण चीन सागर को किला बनाने की तैयारी, चीन के परमाणु दैत्य से खौफ",
+          "summary": "चीन दक्षिण चीन सागर को एक सैन्य अड्डा बनाने की तैयारी कर रहा है। फुजियान सुपरकैरियर, जो नवंबर 2025 में नौसेना में शामिल हुआ, इस क्षेत्र में चीन की बढ़ती सैन्य शक्ति का प्रतीक है। फुजियान सुपरकैरियर चीन का पहला स्वदेशी सुपर एयरक्राफ्ट कैरियर है, जिसे नवंबर 2025 में आधिकारिक तौर पर नौसेना में शामिल किया गया. यह लगभग 80,000 टन से अधिक वजन वाला विशाल युद्धपोत है और इसमें अत्याधुनिक इलेक्ट्रोमैग्नेटिक कैटापल्ट तकनीक का उपयोग किया गया है, जिससे लड़ाकू विमानों को तेजी से लॉन्च किया जा सकता है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "विवादों में घिरी अमेरिकी आजादी की 250वीं वर्षगांठ: कई बड़े कलाकारों ने छोड़ा साथ, ट्रंप खुद",
+      "url": "https://www.amarujala.com/world/donald-trump-to-headline-great-american-state-fair-after-artists-drop-out-2026-05-31",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-05-30T23:28:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/danalda-tarapa-amaraka-rashhatarapata_cf4d5e2d20d711ce2860514bd91db1bf.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी स्वतंत्रता की 250वीं वर्षगांठ से जुड़े कार्यक्रम विवादों में घिर गए हैं। कई प्रमुख कलाकारों ने इन आयोजनों से अपना नाम वापस ले लिया है। डोनाल्ड ट्रंप अब इन कार्यक्रमों की कमान संभालेंगे। विवादों में घिरी अमेरिकी आजादी की 250वीं वर्षगांठ: कई बड़े कलाकारों ने छोड़ा साथ, ट्रंप खुद।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विवादों में घिरी अमेरिकी आजादी की 250वीं वर्षगांठ: कई बड़े कलाकारों ने छोड़ा साथ, ट्रंप खुद",
+          "summary": "अमेरिकी स्वतंत्रता की 250वीं वर्षगांठ से जुड़े कार्यक्रम विवादों में घिर गए हैं। कई प्रमुख कलाकारों ने इन आयोजनों से अपना नाम वापस ले लिया है। डोनाल्ड ट्रंप अब इन कार्यक्रमों की कमान संभालेंगे। विवादों में घिरी अमेरिकी आजादी की 250वीं वर्षगांठ: कई बड़े कलाकारों ने छोड़ा साथ, ट्रंप खुद।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "क्या गत विजेता आरसीबी कर पाएगी खिताब का बचाव? गुजरात के गढ़ में पेश करनी होगी चुनौती",
+      "url": "https://www.amarujala.com/cricket/cricket-news/rcb-vs-gt-ipl-2026-final-live-streaming-when-where-and-how-to-watch-ipl-match-online-2026-05-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-05-30T23:22:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/gajarata-bnama-aarasab_d04b02fc8b560a19c8b24e7e4b6f33e8.jpeg?w=750&dpr=1.0",
+      "summary": "इंडियन प्रीमियर लीग 2026 का फाइनल गुजरात टाइटंस और रॉयल चैलेंजर्स बेंगलुरु के बीच खेला जाएगा। गत विजेता आरसीबी को गुजरात के घरेलू मैदान पर खिताब बचाने की चुनौती का सामना करना पड़ेगा। आईपीएल 2026 का रोमांच अपने अंतिम पड़ाव पर पहुंच चुका है। 70 लीग मुकाबलों, एलिमिनेटर और दो क्वालिफायर मैचों के बाद अब फाइनल में गुजरात टाइटंस और रॉयल चैलेंजर्स बेंगलुरु (आरसीबी) आमने-सामने होंगी।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या गत विजेता आरसीबी कर पाएगी खिताब का बचाव? गुजरात के गढ़ में पेश करनी होगी चुनौती",
+          "summary": "इंडियन प्रीमियर लीग 2026 का फाइनल गुजरात टाइटंस और रॉयल चैलेंजर्स बेंगलुरु के बीच खेला जाएगा। गत विजेता आरसीबी को गुजरात के घरेलू मैदान पर खिताब बचाने की चुनौती का सामना करना पड़ेगा। आईपीएल 2026 का रोमांच अपने अंतिम पड़ाव पर पहुंच चुका है। 70 लीग मुकाबलों, एलिमिनेटर और दो क्वालिफायर मैचों के बाद अब फाइनल में गुजरात टाइटंस और रॉयल चैलेंजर्स बेंगलुरु (आरसीबी) आमने-सामने होंगी।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "क्या आईपीएल फाइनल के लिए रखा गया है रिजर्व डे? जानें अहमदाबाद में कैसा रहेगा मौसम",
+      "url": "https://www.amarujala.com/cricket/cricket-news/ipl-2026-final-rcb-vs-gt-weather-forecast-ahmedabad-pitch-report-narendra-modi-stadium-news-in-hindi-2026-05-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-30T23:21:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/ipl_586aa113b94c0783a5298680ed731cd4.jpeg?w=750&dpr=1.0",
+      "summary": "अहमदाबाद का नरेंद्र मोदी स्टेडियम आईपीएल फाइनल की मेजबानी के लिए तैयार है। आरसीबी और गुजरात के बीच होने वाले इस खिताबी मुकाबले की सभी तैयारियां हो गई हैं। क्या आईपीएल फाइनल के लिए रखा गया है रिजर्व डे? जानें अहमदाबाद में कैसा रहेगा मौसम।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या आईपीएल फाइनल के लिए रखा गया है रिजर्व डे? जानें अहमदाबाद में कैसा रहेगा मौसम",
+          "summary": "अहमदाबाद का नरेंद्र मोदी स्टेडियम आईपीएल फाइनल की मेजबानी के लिए तैयार है। आरसीबी और गुजरात के बीच होने वाले इस खिताबी मुकाबले की सभी तैयारियां हो गई हैं। क्या आईपीएल फाइनल के लिए रखा गया है रिजर्व डे? जानें अहमदाबाद में कैसा रहेगा मौसम।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "राडार भी फेल, एयर डिफेंस भी लाचार! चीन के नए इंजन ने ड्रोन्स को बनाया 'काल', थर-थर कांपी दुनिया",
+      "url": "https://hindi.news18.com/world/china-china-tests-deadly-f406-turbofan-engine-for-high-altitude-drones-sending-a-chilling-warning-to-global-aviation-competitors-10526084.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-05-30T23:17:03+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/F406-Turbofan-Engine-2026-05-438f3b0124443e2e14ac9cebe096d8b0-1200x800.jpg",
+      "summary": "चीन ने अपने स्वदेशी F406 एडवांस्ड टर्बोफैन इंजन का सफल उड़ान परीक्षण किया है. यह 600 किलोग्राम थ्रस्ट-क्लास का इंजन है. परीक्षण इनर मंगोलिया में स्टॉर्म-4 ड्रोन पर हुआ. इस कदम से चीन छोटे और मध्यम थ्रस्ट वाले हाई-एंड एविएशन सेक्टर में अपनी क्षमता बढ़ा रहा है. China Deadly F406 Turbofan Engine: चीन ने आसमान में अपना खौफनाक दबदबा बनाने की दिशा में एक और आक्रामक कदम उठा लिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राडार भी फेल, एयर डिफेंस भी लाचार! चीन के नए इंजन ने ड्रोन्स को बनाया 'काल', थर-थर कांपी दुनिया",
+          "summary": "चीन ने अपने स्वदेशी F406 एडवांस्ड टर्बोफैन इंजन का सफल उड़ान परीक्षण किया है. यह 600 किलोग्राम थ्रस्ट-क्लास का इंजन है. परीक्षण इनर मंगोलिया में स्टॉर्म-4 ड्रोन पर हुआ. इस कदम से चीन छोटे और मध्यम थ्रस्ट वाले हाई-एंड एविएशन सेक्टर में अपनी क्षमता बढ़ा रहा है. China Deadly F406 Turbofan Engine: चीन ने आसमान में अपना खौफनाक दबदबा बनाने की दिशा में एक और आक्रामक कदम उठा लिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज में बढ़ा तनाव, अमेरिकी सेना ने हेलफायर मिसाइल से ईरान जा रहे मालवाहक जहाज को रोका",
+      "url": "https://www.amarujala.com/world/us-iran-tensions-us-military-disables-commercial-ship-heading-to-iran-with-hellfire-missile-2026-05-31",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-30T23:17:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/us-military-disables-commercial-ship-heading-to-iran-with-hellfire-missile_e09f66a304f9616d310df6ee9b1ba46b.png?w=750&dpr=1.0",
+      "summary": "**Analysis of the source:** The title states: \"होर्मुज में बढ़ा तनाव, अमेरिकी सेना ने हेलफायर मिसाइल से ईरान जा रहे मालवाहक जहाज को रोका\" (Tensions rise in Hormuz, US military stops cargo ship going to Iran with Hellfire missile). The source is a news report about the US military stopping a cargo ship heading to Iran in the Strait of Hormuz. The method mentioned is a \"Hellfire missile\" which is unusual for stopping a ship. It's more likely the missile was used to disable the ship's propulsion or steering, or perhaps it was a warning shot or a specific operation. The key elements are: US military action, stopping a cargo ship, destination Iran, location Strait of Hormuz, and the use of a Hellfire missile. **Drafting the summary (Hindi):** 1.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज में बढ़ा तनाव, अमेरिकी सेना ने हेलफायर मिसाइल से ईरान जा रहे मालवाहक जहाज को रोका",
+          "summary": "**Analysis of the source:** The title states: \"होर्मुज में बढ़ा तनाव, अमेरिकी सेना ने हेलफायर मिसाइल से ईरान जा रहे मालवाहक जहाज को रोका\" (Tensions rise in Hormuz, US military stops cargo ship going to Iran with Hellfire missile). The source is a news report about the US military stopping a cargo ship heading to Iran in the Strait of Hormuz. The method mentioned is a \"Hellfire missile\" which is unusual for stopping a ship. It's more likely the missile was used to disable the ship's propulsion or steering, or perhaps it was a warning shot or a specific operation. The key elements are: US military action, stopping a cargo ship, destination Iran, location Strait of Hormuz, and the use of a Hellfire missile. **Drafting the summary (Hindi):** 1.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सीबीएसई 12वीं की कॉपियों के पुनर्मूल्यांकन के नाम पर गोरखधंधा, नंबर बढ़वाने वाले दलाल सक्रिय",
+      "url": "https://www.amarujala.com/chandigarh/amar-ujala-sting-scam-in-the-name-of-re-evaluation-of-cbse-12th-answer-sheet-2026-05-31",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-30T23:11:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/1_737f4daa7e7d8deb3467b139d296f896.png?w=750&dpr=1.0",
+      "summary": "सीबीएसई 12वीं के परिणाम घोषित होने के बाद, पुनर्मूल्यांकन के नाम पर नंबर बढ़वाने वाले दलालों का एक नेटवर्क सक्रिय हो गया है। ये दलाल छात्रों और अभिभावकों से संपर्क कर रहे हैं। वे कथित तौर पर कुछ राशि लेकर उत्तर पुस्तिकाओं में नंबर बढ़वाने का दावा कर रहे हैं। यह गोरखधंधा छात्रों के भविष्य के साथ खिलवाड़ कर रहा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीबीएसई 12वीं की कॉपियों के पुनर्मूल्यांकन के नाम पर गोरखधंधा, नंबर बढ़वाने वाले दलाल सक्रिय",
+          "summary": "सीबीएसई 12वीं के परिणाम घोषित होने के बाद, पुनर्मूल्यांकन के नाम पर नंबर बढ़वाने वाले दलालों का एक नेटवर्क सक्रिय हो गया है। ये दलाल छात्रों और अभिभावकों से संपर्क कर रहे हैं। वे कथित तौर पर कुछ राशि लेकर उत्तर पुस्तिकाओं में नंबर बढ़वाने का दावा कर रहे हैं। यह गोरखधंधा छात्रों के भविष्य के साथ खिलवाड़ कर रहा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज पर स्थायी टोल का कतर ने किया विरोध, कहा-बढ़ेगी महंगाई; अस्थायी शुल्क पर बातचीत को तैयार",
+      "url": "https://www.amarujala.com/world/qatar-opposes-permanent-hormuz-shipping-tolls-but-says-temporary-fees-are-negotiable-2026-05-31",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-05-30T23:01:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/qatar-opposes-permanent-hormuz-shipping-tolls-but-says-temporary-fees-are-negotiable_594e08c7dba609f02785a0813c23fad9.png?w=750&dpr=1.0",
+      "summary": "कतर ने होर्मुज जलडमरूमध्य पर स्थायी शिपिंग टोल लगाने के प्रस्ताव का विरोध किया है। देश का कहना है कि इससे महंगाई बढ़ेगी। कतर ने कहा कि वह अस्थायी शुल्क पर बातचीत के लिए तैयार है। यह कदम ईरान और अन्य क्षेत्रीय शक्तियों के बीच बढ़ते तनाव के बीच आया है। होर्मुज पर स्थायी टोल का कतर ने किया विरोध, कहा-बढ़ेगी महंगाई; अस्थायी शुल्क पर बातचीत को तैयार।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज पर स्थायी टोल का कतर ने किया विरोध, कहा-बढ़ेगी महंगाई; अस्थायी शुल्क पर बातचीत को तैयार",
+          "summary": "कतर ने होर्मुज जलडमरूमध्य पर स्थायी शिपिंग टोल लगाने के प्रस्ताव का विरोध किया है। देश का कहना है कि इससे महंगाई बढ़ेगी। कतर ने कहा कि वह अस्थायी शुल्क पर बातचीत के लिए तैयार है। यह कदम ईरान और अन्य क्षेत्रीय शक्तियों के बीच बढ़ते तनाव के बीच आया है। होर्मुज पर स्थायी टोल का कतर ने किया विरोध, कहा-बढ़ेगी महंगाई; अस्थायी शुल्क पर बातचीत को तैयार।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
       "title": "होर्मुज में अमेरिकी नाकेबंदी बरकरार, ईरान से सीजफायर पर भी सस्पेंस; वैश्विक बाजार में बढ़ा तनाव",
       "url": "https://www.amarujala.com/world/us-blockade-in-strait-of-hormuz-remains-active-as-iran-ceasefire-talks-stall-2026-05-31",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-30T21:53:06+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/22/haramaja-ka-rasata_172d58edc679ca81c0b581e479f27f08.jpeg?w=750&dpr=1.0",
@@ -436,7 +562,7 @@
     {
       "title": "जापोरिज्जिया परमाणु प्लांट पर ड्रोन हमला: रूस ने मढ़ा आरोप तो यूक्रेन ने किया इनकार, कहा- यह सिर्फ",
       "url": "https://www.amarujala.com/world/russia-says-ukrainian-drone-struck-zaporizhzhia-nuclear-plant-kyiv-denies-2026-05-31",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-05-30T21:13:34+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/paramanae-sarakashha_3d8c6365fdafef51c383f6b37856175c.png?w=750&dpr=1.0",
@@ -448,42 +574,6 @@
           "title": "जापोरिज्जिया परमाणु प्लांट पर ड्रोन हमला: रूस ने मढ़ा आरोप तो यूक्रेन ने किया इनकार, कहा- यह सिर्फ",
           "summary": "रूस ने जापोरिज्जिया परमाणु ऊर्जा संयंत्र पर यूक्रेनी ड्रोन हमले का आरोप लगाया है। यूक्रेन ने इन आरोपों से इनकार किया है और इसे रूसी दुष्प्रचार बताया है। जापोरिज्जिया परमाणु प्लांट पर ड्रोन हमला: रूस ने मढ़ा आरोप तो यूक्रेन ने किया इनकार, कहा- यह सिर्फ।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "तरंग ऑडिटोरियम में 'हमारे राम' शो के दौरान लगी आग, बड़ा हादसा टला; सभी कलाकार और दर्शक सुरक्षित",
-      "url": "https://www.amarujala.com/india-news/jabalpur-fire-breaks-out-during-humare-ram-show-at-tarang-auditorium-tragedy-averted-cast-audience-safe-2026-05-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-30T21:13:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/jabalpur-fire-breaks-out-during-humare-ram-show-at-tarang-auditorium-tragedy-averted-cast-audie_49871149eace6f5c2e48c12e0d219587.png?w=750&dpr=1.0",
-      "summary": "जबलपुर के तरंग ऑडिटोरियम में 'हमारे राम' शो के दौरान आग लग गई। आग पर काबू पा लिया गया और सभी कलाकार व दर्शक सुरक्षित बाहर निकल गए। तरंग ऑडिटोरियम में 'हमारे राम' शो के दौरान लगी आग, बड़ा हादसा टला; सभी कलाकार और दर्शक सुरक्षित।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तरंग ऑडिटोरियम में 'हमारे राम' शो के दौरान लगी आग, बड़ा हादसा टला; सभी कलाकार और दर्शक सुरक्षित",
-          "summary": "जबलपुर के तरंग ऑडिटोरियम में 'हमारे राम' शो के दौरान आग लग गई। आग पर काबू पा लिया गया और सभी कलाकार व दर्शक सुरक्षित बाहर निकल गए। तरंग ऑडिटोरियम में 'हमारे राम' शो के दौरान लगी आग, बड़ा हादसा टला; सभी कलाकार और दर्शक सुरक्षित।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "छह मंजिला इमारत ढही, 15 निकाले गए; 60 से ज्यादा लोगों के दबे होने की आशंका",
-      "url": "https://www.amarujala.com/live/delhi-ncr/saket-building-collapse-news-live-updates-south-delhi-multi-storey-building-mishap-casualties-rescue-2026-05-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-30T20:53:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/thall-ka-sakata-ma-paca-majal-imarata-gara_067e3afd36d3ee1ce8e1d3b692473fa4.gif?w=750&dpr=1.0",
-      "summary": "दक्षिण दिल्ली के साकेत में एक बहुमंजिला इमारत ढह गई। इस हादसे में एक व्यक्ति की मौत हो गई। बचाव कार्य के लिए ग्रीन कॉरिडोर बनाया गया। दक्षिण दिल्ली के साकेत में शनिवार शाम एक बहुमंजिला इमारत ढह गई। दिल्ली में गिरी बहुमंजिला इमारत, एक की मौत, रेस्क्यू के लिए बना ग्रीन कॉरिडोर। छह मंजिला इमारत ढही, 15 निकाले गए; 60 से ज्यादा लोगों के दबे होने की आशंका।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "छह मंजिला इमारत ढही, 15 निकाले गए; 60 से ज्यादा लोगों के दबे होने की आशंका",
-          "summary": "दक्षिण दिल्ली के साकेत में एक बहुमंजिला इमारत ढह गई। इस हादसे में एक व्यक्ति की मौत हो गई। बचाव कार्य के लिए ग्रीन कॉरिडोर बनाया गया। दक्षिण दिल्ली के साकेत में शनिवार शाम एक बहुमंजिला इमारत ढह गई। दिल्ली में गिरी बहुमंजिला इमारत, एक की मौत, रेस्क्यू के लिए बना ग्रीन कॉरिडोर। छह मंजिला इमारत ढही, 15 निकाले गए; 60 से ज्यादा लोगों के दबे होने की आशंका।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -508,7 +598,7 @@
     {
       "title": "नाम हटाने के आदेश पर फूटा राष्ट्रपति ट्रंप का गुस्सा, जज पर लगाया पक्षपात का आरोप",
       "url": "https://www.amarujala.com/world/donald-trump-fumes-over-kennedy-center-court-ruling-and-legal-setbacks-2026-05-31",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-05-30T20:36:27+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/danalda-tarapa-amaraka-rashhatarapata_789ee0c3c02ee453ad6404166af38d47.png?w=750&dpr=1.0",
@@ -520,60 +610,6 @@
           "title": "नाम हटाने के आदेश पर फूटा राष्ट्रपति ट्रंप का गुस्सा, जज पर लगाया पक्षपात का आरोप",
           "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने केनेडी सेंटर नवीनीकरण मामले में अपना नाम हटाने के अदालत के आदेश पर नाराजगी जताई। नाम हटाने के आदेश पर फूटा राष्ट्रपति ट्रंप का गुस्सा, जज पर लगाया पक्षपात का आरोप।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "गिरीश महाजन बोले- पुणे जहरीली शराब कांड को लेकर सरकार गंभीर; पिता ने बेटे को उतारा मौत के घाट",
-      "url": "https://www.amarujala.com/india-news/maharashtra-updates-of-31-may-maharashtra-news-mumbai-politics-crime-pune-thane-news-in-hindi-2026-05-31",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-30T20:35:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/maharashtra-updates_2cdc8fbb718cf089d733a622216956ed.jpeg?w=750&dpr=1.0",
-      "summary": "गिरीश महाजन ने पुणे जहरीली शराब कांड पर सरकार की गंभीरता बताई। गिरीश महाजन बोले- पुणे जहरीली शराब कांड को लेकर सरकार गंभीर; पिता ने बेटे को उतारा मौत के घाट।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गिरीश महाजन बोले- पुणे जहरीली शराब कांड को लेकर सरकार गंभीर; पिता ने बेटे को उतारा मौत के घाट",
-          "summary": "गिरीश महाजन ने पुणे जहरीली शराब कांड पर सरकार की गंभीरता बताई। गिरीश महाजन बोले- पुणे जहरीली शराब कांड को लेकर सरकार गंभीर; पिता ने बेटे को उतारा मौत के घाट।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आज भी बरसेंगे दिल्ली-NCR में बदरा, मौसम विभाग ने जारी किया अलर्ट; तेज हवाओं से मिलेगी राहत",
-      "url": "https://www.amarujala.com/photo-gallery/delhi-ncr/clouds-to-bring-rain-to-delhi-ncr-on-sunday-as-well-issues-alert-2026-05-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-30T20:34:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/08/08/thall-ma-tana-thana-brasha-ka-alrata_737758242f366bdafce2151d196d14eb.jpeg?w=750&dpr=1.0",
-      "summary": "दिल्ली और राष्ट्रीय राजधानी क्षेत्र में शनिवार शाम को तेज हवाएं चलीं और बादल छा गए। मौसम विभाग ने आगे भी बारिश की चेतावनी जारी की है। दिल्ली-एनसीआर में शनिवार शाम मौसम ने अचानक करवट ली। शाम ढलते ही तेज हवाएं चलने लगीं और आसमान घने बादलों से ढक गया। आज भी बरसेंगे दिल्ली-NCR में बदरा, मौसम विभाग ने जारी किया अलर्ट; तेज हवाओं से मिलेगी राहत।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज भी बरसेंगे दिल्ली-NCR में बदरा, मौसम विभाग ने जारी किया अलर्ट; तेज हवाओं से मिलेगी राहत",
-          "summary": "दिल्ली और राष्ट्रीय राजधानी क्षेत्र में शनिवार शाम को तेज हवाएं चलीं और बादल छा गए। मौसम विभाग ने आगे भी बारिश की चेतावनी जारी की है। दिल्ली-एनसीआर में शनिवार शाम मौसम ने अचानक करवट ली। शाम ढलते ही तेज हवाएं चलने लगीं और आसमान घने बादलों से ढक गया। आज भी बरसेंगे दिल्ली-NCR में बदरा, मौसम विभाग ने जारी किया अलर्ट; तेज हवाओं से मिलेगी राहत।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आठवें दिन सेना को मिला आतंकी ठिकाना, सुरक्षा एजेंसियों ने बरामद सामग्री जांच के लिए भेजी",
-      "url": "https://www.amarujala.com/jammu/operation-sheruwali-army-found-terrorist-hideout-on-the-eighth-day-2026-05-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-05-30T20:19:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/1_1ad0072829141e92f59bafa245358dcb.png?w=750&dpr=1.0",
-      "summary": "भारतीय सेना को ऑपरेशन शेरूवाली के आठवें दिन बड़ी सफलता मिली। लश्कर-ए-तैयबा और पीएएफएफ से जुड़े पाकिस्तानी आतंकियों की तलाश में मंजाकोट क्षेत्र के डोरिमल जंगल में जुटी सेना को ऑपरेशन शेरूवाली के तहत शनिवार को आठवें दिन बड़ी सफलता मिली। आठवें दिन सेना को मिला आतंकी ठिकाना, सुरक्षा एजेंसियों ने बरामद सामग्री जांच के लिए भेजी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आठवें दिन सेना को मिला आतंकी ठिकाना, सुरक्षा एजेंसियों ने बरामद सामग्री जांच के लिए भेजी",
-          "summary": "भारतीय सेना को ऑपरेशन शेरूवाली के आठवें दिन बड़ी सफलता मिली। लश्कर-ए-तैयबा और पीएएफएफ से जुड़े पाकिस्तानी आतंकियों की तलाश में मंजाकोट क्षेत्र के डोरिमल जंगल में जुटी सेना को ऑपरेशन शेरूवाली के तहत शनिवार को आठवें दिन बड़ी सफलता मिली। आठवें दिन सेना को मिला आतंकी ठिकाना, सुरक्षा एजेंसियों ने बरामद सामग्री जांच के लिए भेजी।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -596,45 +632,10 @@
       }
     },
     {
-      "title": "एशियन गेम्स की टीम से कटा सूर्यकुमार का पत्ता?,15 साल के वैभव को मिला मौका!",
-      "url": "https://www.amarujala.com/video/india-news/asian-games-2026-suryakumar-dropped-from-asian-games-squad-15-year-old-vaibhav-gets-chance-2026-05-31",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-05-30T19:37:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/asian-games-2026_ea08e352181602a3f5363ced8d9d9419.jpeg?w=750&dpr=1.0",
-      "summary": "एशियन गेम्स की टीम चयन को लेकर खबरें सामने आई हैं. भारतीय क्रिकेट टीम में कुछ बदलावों की संभावना जताई जा रही है. Asian Games 2026: एशियन गेम्स की टीम से कटा सूर्यकुमार का पत्ता?,15 साल के वैभव को मिला मौका!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एशियन गेम्स की टीम से कटा सूर्यकुमार का पत्ता?,15 साल के वैभव को मिला मौका!",
-          "summary": "एशियन गेम्स की टीम चयन को लेकर खबरें सामने आई हैं. भारतीय क्रिकेट टीम में कुछ बदलावों की संभावना जताई जा रही है. Asian Games 2026: एशियन गेम्स की टीम से कटा सूर्यकुमार का पत्ता?,15 साल के वैभव को मिला मौका!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "पेट्रोल, डीजल और ATF के निर्यात पर केंद्र ने लगाया नया शुल्क, 1 जून से प्रभावी होंगी नई दरें",
       "url": "https://www.amarujala.com/business/business-diary/central-govt-notifies-export-levies-on-exports-of-petrol-diesel-and-atf-for-fortnight-beginning-1-june-2026-2026-05-31",
       "source": "Amar Ujala Breaking",
-      "sources": [
-        {
-          "url": "https://www.amarujala.com/business/business-diary/central-govt-notifies-export-levies-on-exports-of-petrol-diesel-and-atf-for-fortnight-beginning-1-june-2026-2026-05-31",
-          "source": "Amar Ujala Breaking"
-        },
-        {
-          "url": "https://www.amarujala.com/video-shots/short-videos/export-levies-centre-imposes-new-levies-on-export-of-petrol-diesel-and-atf-new-rates-applicable-from-june-1-2026-05-31",
-          "source": "Amar Ujala National"
-        },
-        {
-          "url": "https://www.amarujala.com/video-shots/short-videos/export-levies-centre-imposes-new-levies-on-export-of-petrol-diesel-and-atf-new-rates-applicable-from-june-1-2026-05-31",
-          "source": "Amar Ujala National"
-        },
-        {
-          "url": "https://www.amarujala.com/video-shots/short-videos/export-levies-centre-imposes-new-levies-on-export-of-petrol-diesel-and-atf-new-rates-applicable-from-june-1-2026-05-31",
-          "source": "Amar Ujala National"
-        }
-      ],
+      "sources": [],
       "published_at": "2026-05-30T19:31:01+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/central-govt-notifies-export-levies-on-exports-of-petrol-diesel-and-atf-for-fortnight-beginning-1-j_d93de3e80e1cbf6de23063be8ff78a3d.jpeg?w=750&dpr=1.0",
       "summary": "केंद्र सरकार ने पेट्रोल, डीजल और विमानन टरबाइन ईंधन (ATF) के निर्यात पर विशेष अतिरिक्त उत्पाद शुल्क (SAED) लगाया है। यह शुल्क 1 जून, 2026 से पखवाड़े के लिए प्रभावी होगा। नई दरों के अनुसार, पेट्रोल और ATF के निर्यात पर 1 रुपये प्रति लीटर का शुल्क लगेगा। डीजल के निर्यात पर 2 रुपये प्रति लीटर का शुल्क लगाया गया है। यह कदम घरेलू आपूर्ति सुनिश्चित करने और मूल्य स्थिरता बनाए रखने के उद्देश्य से उठाया गया है।",
@@ -752,24 +753,6 @@
         "hi": {
           "title": "AI वाले अंडरवाटर ड्रोन्स… इंडो-पैसिफिक में ड्रैगन को घेरेंगे AUKUS के सबसे घातक हथियार, चीन की अभी",
           "summary": "अमेरिका, ब्रिटेन और ऑस्ट्रेलिया ने ऑकस रक्षा साझेदारी के तहत 2027 से हिंद-प्रशांत क्षेत्र में एआई-स AUKUS Undersea Drones: अमेरिका, ब्रिटेन और ऑस्ट्रेलिया ने ऑकस डिफेंस पार्टनरशिप के तहत बड़ा ऐलान किया है. ये तीनों देश 2027 से इंडो-पैसिफिक रीजन में अंडरवाटर ड्रोन तैनात करेंगे. इस कदम का मकसद समंदर के अंदर चीन की बढ़ती ताकत को रोकना है. सिंगापुर में शंगरी-ला डायलॉग के दौरान यह जानकारी दी गई.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "इटली के इस खूबसूरत शहर में मोरों ने मचा दिया बवाल, सड़कों पर किया कब्जा, कारों के शीशे तोड़ रहे",
-      "url": "https://hindi.news18.com/world/europe-peacock-escaped-fathered-so-many-offspring-people-became-exasperated-traffic-jams-are-occurring-10525641.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-05-30T15:13:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Peacock-Pixel-2026-05-f139b8516f4f2a749f5f3aad1649ccc7-1200x800.jpg",
-      "summary": "इटली के एक शहर में मोरों की संख्या लगातार बढ़ रही है। इटली के इस शहर में इन दिन मोरों की गिनती लगातार बढ़ रही है. आसपास रहने वाले कुछ इसे बेकाबू बताते हुए इन पक्षियों को यहाँ से हटाने या उनको को नियंत्रित करने की मांग कर रहे हैं. ये मोर अब शहर की सड़कों, बगीचों और छतों पर खुलेआम घूमते हैं.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इटली के इस खूबसूरत शहर में मोरों ने मचा दिया बवाल, सड़कों पर किया कब्जा, कारों के शीशे तोड़ रहे",
-          "summary": "इटली के एक शहर में मोरों की संख्या लगातार बढ़ रही है। इटली के इस शहर में इन दिन मोरों की गिनती लगातार बढ़ रही है. आसपास रहने वाले कुछ इसे बेकाबू बताते हुए इन पक्षियों को यहाँ से हटाने या उनको को नियंत्रित करने की मांग कर रहे हैं. ये मोर अब शहर की सड़कों, बगीचों और छतों पर खुलेआम घूमते हैं.",
           "region": "यूरोप और रूस"
         }
       }
