@@ -1,21 +1,106 @@
 {
-  "generated_at": "2026-06-01T12:38:36.636280+00:00",
+  "generated_at": "2026-06-01T18:39:25.277458+00:00",
   "article_count": 50,
   "total_unique_count": 270,
   "digest": {
-    "en": "Myanmar's assurances to India on security interests lead the news. Ghana's new LGBTQ+ law and the interception of a sanctioned Russian tanker by France and the UK follow closely. Global markets are also watching Nvidia's latest moves.",
-    "hi": "यूक्रेन में फरीदाबाद के रमनदीप का काम प्रमुखता से दिख रहा है। वहीं, नेपाल में बालेन शाह के बयान पर बवाल मचा है।"
+    "en": "Myanmar's stance on anti-India elements dominates headlines. Iran's actions in the Middle East, including executions and suspended talks, present a stark contrast. Europe sees shifts in Colombia and naval interceptions.",
+    "hi": "ईरान के होर्मुज जलडमरूमध्य को बंद करने की धमकी ने वैश्विक तेल बाजारों को हिला दिया है। अमेरिका और ईरान के बीच तनाव बढ़ने से मध्य पूर्व में अस्थिरता बढ़ गई है। मलेशिया ने 16 साल से कम उम्र के बच्चों के लिए सोशल मीडिया पर प्रतिबंध लगा दिया है।"
   },
   "articles": [
     {
-      "title": "Myanmar assures India its territory won’t be used against New Delhi’s security interests",
+      "title": "Myanmar not to allow use of its territory by anti-India elements: President Min Aung Hlaing",
       "url": "https://www.thehindu.com/news/national/myanmar-assures-india-its-territory-wont-be-used-against-new-delhis-security-interests/article71048243.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-06-01T12:23:58+00:00",
+      "published_at": "2026-06-01T17:38:39+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/c97q7j/article71048438.ece/alternates/LANDSCAPE_1200/20260601107L.jpg",
       "summary": "Myanmar assured India its territory will not be used against New Delhi's security Foreign Secretary Vikram Misri said the talks between the two sides focused on the entire gamut of bilateral issues that included trade and economic ties, defence and security related issues, border management, development assistance as well as the regional situation. Myanmar assures India its territory won’t be used against New Delhi’s security interests.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran Executes 2 More Over January Protests, Jails Man 10 Years For Filming",
+      "url": "https://www.rferl.org/a/iran-execution-protest-prisoners-human-rights-video-sentence/33770259.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-06-01T16:42:38+00:00",
+      "image_url": "https://gdb.rferl.org/7dec82ef-f579-4791-a40e-08debadd8a36_cx4_cy3_cw87_w1200_h630.jpg",
+      "summary": "Iran executed two more men linked to the January protests. Two more men have been executed in Iran in connection with the January protests with human rights groups condemning growing repression in the country. An Iranian man was also sentenced to 10 years in prison for simply shooting video of protests that first erupted in December 2025. Iran Executes 2 More Over January Protests, Jails Man 10 Years For Filming.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran suspends talks as Israel widens Lebanon offensive | Above the Fold | 01.06.2026",
+      "url": "https://www.thehindu.com/videos/watch-iran-suspends-talks-as-israel-widens-lebanon-offensive-above-the-fold-01062026/article71049667.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-01T16:16:40+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/ga4mx7/article71049664.ece/alternates/LANDSCAPE_1200/June%201%20THUMB.png",
+      "summary": "Iran suspended talks. This decision followed Israel's widened military offensive into Lebanon. From West Bengal’s cabinet expansion to while Israel’s military pushes deeper into Lebanon amid ceasefire talks, we look at the major stories of the day. We also look at key changes to UPI and LPG distribution, the hostage crisis in Manipur, the start of SIR enumeration in four States, and actor-turned-politician Vijay’s first major public address.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran suspends talks with U.S. over Israel’s Lebanon strikes",
+      "url": "https://www.thehindu.com/news/international/iran-us-israel-war-strait-of-hormuz-blockade/article71049122.ece",
+      "source": "The Hindu (International)",
+      "sources": [
+        {
+          "url": "https://www.thehindu.com/news/international/iran-us-israel-war-strait-of-hormuz-blockade/article71049122.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
+          "source": "The Hindu (International)"
+        }
+      ],
+      "published_at": "2026-06-01T15:59:08+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/tzbzvu/article71049148.ece/alternates/LANDSCAPE_1200/2026-05-15T104631Z_170516312_RC2L9LAFNNRX_RTRMADP_3_INDIA-BRICS-ARAQCHI.JPG",
+      "summary": "Iran suspended talks with the United States. This followed Israeli strikes in Lebanon. If the Houthis, Iran’s allies in Yemen, open a new front in the conflict, one obvious target would be ​the Bab El Mandeb ‌Strait off the coast of Yemen, a key shipping chokepoint and narrow passageway that controls sea traffic towards the Suez Canal. Iran suspends talks with U. S.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump admirer’s surprise first-round win is a blow to Colombia’s traditional conservatives",
+      "url": "https://www.theguardian.com/world/2026/jun/01/trump-admirer-abelardo-de-la-espriella-election-win-blow-to-colombia-conservatives",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-01T14:44:45+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/38d056e77382f6cbe29f5abaac86e143aacf33b9/341_38_4503_3602/master/4503.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c55c0fbfbfaea8b3cf1fff9e8e7d9d2a",
+      "summary": "Abelardo de la Espriella, a far-right lawyer, secured Success of far-right presidential candidate, Abelardo de la Espriella, suggests some voters are ‘fed up with politics’The far-right lawyer Abelardo de la Espriella and the leftwing senator Iván Cepeda have just under three weeks to compete for the roughly 3.6m votes that did not go to either of them in the first round of Colombia’s presidential election. That is no insignificant number, given that.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "As Trump attacks anew, Iran says Europe’s ‘appeasing aggressors’",
+      "url": "https://asiatimes.com/2026/06/as-trump-attacks-anew-iran-says-europes-appeasing-aggressors/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-06-01T14:44:07+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/2024100814550488183546271-copy.jpg",
+      "summary": "Iran’s government condemned the European Union’s response to Iranian attacks on US military installations. A Foreign Ministry spokesperson called the EU’s reaction “a masterclass in selective moral outrage.” This statement followed new US strikes against Iran over the weekend. Peace talks between the nations remain at an impasse. Iran’s government on Monday condemned the European Union’s response to Iranian attacks on US military installations in the Middle East as “a masterclass in selective moral outrage” after the Trump administration launched new strikes against Iran over the weekend, with peace talks still at an impasse.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "French Navy, backed by U.K., intercepted sanctioned tanker from Russia: French President Emmanuel",
+      "url": "https://www.thehindu.com/news/international/france-intercepts-russian-oil-tanker-shadow-fleet-sanctions/article71048086.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-01T12:43:59+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/zh3yok/article71048125.ece/alternates/LANDSCAPE_1200/France_Russia_Tanker_Intercepted_39961.jpg",
+      "summary": "France, with support from the United Kingdom, intercepted a Russian-linked oil tanker in the France, with support from the U. K., intercepted a Russian-linked oil tanker in the Atlantic Ocean, stepping up efforts to enforce sanctions and disrupt the “shadow fleet” used by Moscow to sustain oil exports and finance its war in Ukraine. French Navy, backed by U. K., intercepted sanctioned tanker from Russia: French President Emmanuel.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -32,13 +117,13 @@
       "translations": {}
     },
     {
-      "title": "French Navy, backed by U.K., intercepted sanctioned tanker from Russia: French President Emmanuel",
-      "url": "https://www.thehindu.com/news/international/france-intercepts-russian-oil-tanker-shadow-fleet-sanctions/article71048086.ece",
-      "source": "The Hindu (International)",
+      "title": "Colombia’s far-right presidential candidate De la Espriella wins first round of vote ahead of runoff",
+      "url": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-06-01T11:54:46+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/zh3yok/article71048125.ece/alternates/LANDSCAPE_1200/France_Russia_Tanker_Intercepted_39961.jpg",
-      "summary": "France, with support from the United Kingdom, intercepted a Russian-linked oil tanker in the France, with support from the U. K., intercepted a Russian-linked oil tanker in the Atlantic Ocean, stepping up efforts to enforce sanctions and disrupt the “shadow fleet” used by Moscow to sustain oil exports and finance its war in Ukraine. French Navy, backed by U. K., intercepted sanctioned tanker from Russia: French President Emmanuel.",
+      "published_at": "2026-06-01T10:35:40+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/ac6203f659b9261a77dff96e57f14d772b348e8f/154_0_1542_1233/master/1542.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e49c1798afbc97985122a5a31a764cc",
+      "summary": "Abelardo de la Espriella won the first round of Colombia’s presidential election. The far-right lawyer and Donald Trump admirer secured 43 percent of the vote. He will face leftwing senator Iván Cepeda in a runoff election in three weeks. De la Espriella’s rise in the polls was rapid. Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeksA far-right lawyer and Donald Trump admirer will go head-to-head against leftwing senator Iván Cepeda in the race to be Colombia’s next president after he won a surprise victory in the first round of voting. With 100% of ballots counted, the outsider Abelardo de la Espriella secured 43.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -64,18 +149,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/Jensen-Huang-Nvidia-Nvidia-PC.jpg",
       "summary": "Nvidia built the chips for artificial intelligence. Investors have spent the last three years asking who will build artificial intelligence (AI). Nvidia built the chips, Microsoft built the platforms, Amazon, Google and Meta built the infrastructure. Investors rewarded them accordingly, creating trillions of dollars in market value along the way. This phase of the AI revolution is well understood; the next phase [] The post Markets are misreading.",
       "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Blog | 'I Lost 10 Kilos': Indian Student On Falling Rupee And The Reality Of Life Abroad",
-      "url": "https://www.ndtv.com/opinion/empty-stomach-waiter-jobs-an-indian-students-story-of-the-falling-rupee-11574827#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-06-01T08:28:45+00:00",
-      "image_url": "https://c.ndtvimg.com/2023-04/d167t2jg_student-generic-unsplash_625x300_20_April_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-      "summary": "An Indian student in the United Kingdom reported losing 10 kilograms due to the financial strain of the falling rupee. The student paid tuition fees in installments, noting the conversion rate rose from Rs 118 to Rs 125 per pound between October 2025 and January 2026. This currency depreciation significantly increased the cost of living and education expenses for international students.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -236,18 +309,6 @@
       "translations": {}
     },
     {
-      "title": "'Fundamentally Different Ideas' Cloud US-Iran Talks, Former Senior US Diplomat Says",
-      "url": "https://www.rferl.org/a/trump-ceasefire-framework-goldrich-nuclear-hormuz/33768612.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-05-29T20:44:41+00:00",
-      "image_url": "https://gdb.rferl.org/3DFF7350-B6C6-4571-B23F-E1089B31E506_w1200_h630.jpg",
-      "summary": "Ethan A. Goldrich, former deputy assistant secretary of state for Near Eastern affairs, stated that fundamentally different ideas about the region are hindering US-Iran talks. He spoke with RFE/RL about the current state of negotiations. Goldrich’s comments suggest diplomacy faces significant obstacles in preventing escalation. To understand where Iran negotiations stand and whether diplomacy can still prevent escalation, RFE/RL spoke with Ethan A.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
       "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
       "source": "The Guardian",
@@ -260,52 +321,238 @@
       "translations": {}
     },
     {
-      "title": "Lula says Brazil will not be treated like ‘tinpot country’ after US designates gangs as terrorists",
-      "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
-      "source": "The Guardian",
+      "title": "डोनाल्ड ट्रंप को तगड़ा झटका, कोर्ट ने पलटा ट्रांसजेंडर सैनिकों पर बैन, कहा-यह सिर्फ नुकसान पहुंचाने",
+      "url": "https://hindi.news18.com/world/america-court-rejects-trump-government-transgender-military-ban-ws-l-10531526.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-29T17:13:27+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/00450ce2d8c25bfb9d10a3042ca91bd95cd29342/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=304cc779d1be3bc8951e896ecaec924f",
-      "summary": "Brazil's President Luiz Inácio da Silva stated Brazil will not be treated like a Marco Rubio made announcement after meeting president’s far-right challenger Flávio BolsonaroBrazil will not be treated as a “tinpot country,” the country’s president, Luiz Inácio da Silva, said on Friday after the United States designated Brazil’s two largest criminal gangs, the First Capital Command (PCC) and the Red Command, as foreign terrorist organisations. The announcement, made by Marco Rub.",
+      "published_at": "2026-06-01T18:32:20+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/TRump-17-2026-06-6cd20cc424d19dc499e406308a8b66db-1200x800.jpg",
+      "summary": "अमेरिकी अदालत ने सेना में ट्रांसजेंडर सैनिकों पर डोनाल्ड ट्रंप के प्रतिबंध को पलट दिया है। न्यायाधीश ने कहा कि यह निर्णय सेना के हित में नहीं था। यह एक विशिष्ट समूह को नुकसान पहुंचाने के लिए लिया गया था। डोनाल्ड ट्रंप को अमेरिकी अदालत से करारा झटका लगा है! कोर्ट ने सेना में ट्रांसजेंडर सैनिकों पर लगाए बैन को पलटते हुए ट्रंप सरकार को जमकर लताड़ा है.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डोनाल्ड ट्रंप को तगड़ा झटका, कोर्ट ने पलटा ट्रांसजेंडर सैनिकों पर बैन, कहा-यह सिर्फ नुकसान पहुंचाने",
+          "summary": "अमेरिकी अदालत ने सेना में ट्रांसजेंडर सैनिकों पर डोनाल्ड ट्रंप के प्रतिबंध को पलट दिया है। न्यायाधीश ने कहा कि यह निर्णय सेना के हित में नहीं था। यह एक विशिष्ट समूह को नुकसान पहुंचाने के लिए लिया गया था। डोनाल्ड ट्रंप को अमेरिकी अदालत से करारा झटका लगा है! कोर्ट ने सेना में ट्रांसजेंडर सैनिकों पर लगाए बैन को पलटते हुए ट्रंप सरकार को जमकर लताड़ा है.",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
-      "title": "Banning children from social media is not enough, UN warns – platforms must be made safe by design",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167608",
-      "source": "UN News",
+      "title": "ईरान ने ललकारा तो नरम हुए ट्रंप के तेवर, नेतन्‍याहू को लगाया फोन, ह‍िजबुल्‍लाह से भी बात",
+      "url": "https://hindi.news18.com/world/middle-east-stops-bombing-continues-trump-reveals-new-us-game-plan-after-tehran-halts-ceasefire-talks-ws-l-10531420.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-01-2024-UNICEF-Macedonia.jpg/image770x420cropped.jpg",
-      "summary": "The UN human rights office stated that blocking children from social media is insufficient. It issued a 10-point framework on Friday. The framework urges governments and tech companies to increase efforts to protect children online. Platforms must be made safe by design. Blocking children from social media is no substitute for making platforms safe in the first place, the UN human rights office warned Friday, as it issued a 10-point framework urging governments and tech companies to go further and faster to protect children online.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167603",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-05-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-05-2026-UNCIEF-SVC.jpg/image770x420cropped.jpg",
-      "summary": "The United Nations reported nearly 10,000 cases of conflict-related sexual violence globally in 2025. This figure more than doubled from the previous year. Rape, sexual slavery, and abduction were used as weapons of war. These acts occurred across Africa, the Middle East, Europe, and the Caribbean. Nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year – more than double the previous year's figure – as rape, sexual slavery and abduction were deployed as weapons of war across Africa, the Middle East, Europe and the Caribbean.",
+      "published_at": "2026-06-01T18:05:10+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/TRump-18-2026-06-b2e54b27cb9695e34cb179b8448338a0-1200x800.jpg",
+      "summary": "ईरान के बातचीत से हटने के बाद डोनाल्ड ट्रंप ने अपना रुख नरम कर लिया है। अमेरिका अब ईरान पर तत्काल सैन्य कार्रवाई नहीं करेगा। ट्रंप ने नेतन्याहू और हिजबुल्लाह से भी बात की। ईरान ने बातचीत की मेज से उठकर ऐसा दांव चला कि वॉशिंगटन के तेवर अचानक बदल गए. जिस अमेरिका से दुनिया सख्त जवाब की उम्मीद कर रही थी, उसी के राष्ट्रपति डोनाल्ड ट्रंप अब कह रहे हैं कि अभी बम नहीं गिराएंगे.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने ललकारा तो नरम हुए ट्रंप के तेवर, नेतन्‍याहू को लगाया फोन, ह‍िजबुल्‍लाह से भी बात",
+          "summary": "ईरान के बातचीत से हटने के बाद डोनाल्ड ट्रंप ने अपना रुख नरम कर लिया है। अमेरिका अब ईरान पर तत्काल सैन्य कार्रवाई नहीं करेगा। ट्रंप ने नेतन्याहू और हिजबुल्लाह से भी बात की। ईरान ने बातचीत की मेज से उठकर ऐसा दांव चला कि वॉशिंगटन के तेवर अचानक बदल गए. जिस अमेरिका से दुनिया सख्त जवाब की उम्मीद कर रही थी, उसी के राष्ट्रपति डोनाल्ड ट्रंप अब कह रहे हैं कि अभी बम नहीं गिराएंगे.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "UN warns Ukraine war risks spiralling ‘out of control’",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167599",
-      "source": "UN News",
+      "title": "यूक्रेन में बमों की तबाही के बीच भारत का बेटा बना मसीहा, फिर बसा रहा खंडहर घर",
+      "url": "https://hindi.news18.com/world/europe-amidst-devastation-of-bombs-in-ukraine-a-son-of-india-emerges-as-a-savior-rebuilding-ruined-homes-10531392.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-28T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/11-03-2026-UNOCHA-Ukraine-01.jpg/image770x420cropped.jpg",
-      "summary": "The United Nations warned of a dangerous escalation in the Ukraine war. This follows a wave of large-scale Russian strikes and threats of further attacks. Secretary-General António Guterres stated the \"death spiral must stop. The United Nations on Thursday warned of a dangerous escalation in the war in Ukraine after a wave of large-scale Russian strikes and threats of further attacks, with Secretary-General António Guterres saying “the death spiral must stop.”.",
+      "published_at": "2026-06-01T17:56:43+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Ramandeep-Ukrain-2026-06-ab236e96aeadc3a583a42c09d6afc683-1200x800.jpg",
+      "summary": "यूक्रेन में बमबारी के बीच भारतीय नागरिक रमनदीप सिंह लोगों के घरों को फिर से बनाने में मदद कर रहे हैं। उनका मानना है कि दया और करुणा की कोई सीमा नहीं होती। मुश्किल समय में दूसरों का साथ देना सबसे बड़ा धर्म है। रमनदीप का कहना है कि भारत की सेवा और मानवता की भावना ने उन्हें यह राह चुनने के लिए आगे बढ़ाया.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेन में बमों की तबाही के बीच भारत का बेटा बना मसीहा, फिर बसा रहा खंडहर घर",
+          "summary": "यूक्रेन में बमबारी के बीच भारतीय नागरिक रमनदीप सिंह लोगों के घरों को फिर से बनाने में मदद कर रहे हैं। उनका मानना है कि दया और करुणा की कोई सीमा नहीं होती। मुश्किल समय में दूसरों का साथ देना सबसे बड़ा धर्म है। रमनदीप का कहना है कि भारत की सेवा और मानवता की भावना ने उन्हें यह राह चुनने के लिए आगे बढ़ाया.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "16 साल से कम उम्र के बच्चों के लिए सोशल मीडिया बैन, मलेशिया सरकार ने लागू किए नए नियम",
+      "url": "https://www.patrika.com/world-news/malaysia-new-social-media-law-for-children-under-16-20631223",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-01T17:52:21+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/social-media.webp",
+      "summary": "मलेशिया सरकार ने 16 साल से कम उम्र के बच्चों के लिए सोशल मीडिया पर प्रतिबंध लगा दिया है। यह कानून बच्चों के मानसिक स्वास्थ्य और साइबरबुलिंग को रोकने के लिए है। यह नियम फेसबुक, इंस्टाग्राम और टिकटॉक जैसे प्लेटफॉर्म पर लागू होगा। Malaysia social media law: बच्चों के मानसिक स्वास्थ्य, साइबर बुलिंग और इंटरनेट की खतरनाक लत पर लगाम लगाने के लिए मलेशिया सरकार ने सोमवार से ऐतिहासिक कानून लागू कर दिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "16 साल से कम उम्र के बच्चों के लिए सोशल मीडिया बैन, मलेशिया सरकार ने लागू किए नए नियम",
+          "summary": "मलेशिया सरकार ने 16 साल से कम उम्र के बच्चों के लिए सोशल मीडिया पर प्रतिबंध लगा दिया है। यह कानून बच्चों के मानसिक स्वास्थ्य और साइबरबुलिंग को रोकने के लिए है। यह नियम फेसबुक, इंस्टाग्राम और टिकटॉक जैसे प्लेटफॉर्म पर लागू होगा। Malaysia social media law: बच्चों के मानसिक स्वास्थ्य, साइबर बुलिंग और इंटरनेट की खतरनाक लत पर लगाम लगाने के लिए मलेशिया सरकार ने सोमवार से ऐतिहासिक कानून लागू कर दिया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज के बाद अब ये रास्ता भी होगा बंद, अमेरिका से बातचीत रोकने के बाद ईरान का ये प्लान, खोलेगा नए",
+      "url": "https://hindi.news18.com/world/middle-east-after-the-strait-of-hormuz-bab-el-mandeb-strait-will-blocked-iran-s-plan-halt-talks-with-us-10531147.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-01T16:41:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Strait-of-hormuz-Reuters-2026-06-b75142e19026fba23859134205b07b69-1200x800.jpg",
+      "summary": "ईरान होर्मुज के बाद बाब अल-मंडेब जलडमरूमध्य में भी बाधा उत्पन्न कर सकता है। इससे वैश्विक व्यापार और तेल आपूर्ति प्रभावित हो सकती है। मध्य पूर्व में संकट गहरा सकता है और भारत पर भी इसका असर पड़ सकता है। ईरान ने होर्मुज के बाद बाब अल-मंडेब स्ट्रेट में भी अड़गा लगा सकता है. इसका असर पूरी दुनिया पर देखने को मिल सकता है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज के बाद अब ये रास्ता भी होगा बंद, अमेरिका से बातचीत रोकने के बाद ईरान का ये प्लान, खोलेगा नए",
+          "summary": "ईरान होर्मुज के बाद बाब अल-मंडेब जलडमरूमध्य में भी बाधा उत्पन्न कर सकता है। इससे वैश्विक व्यापार और तेल आपूर्ति प्रभावित हो सकती है। मध्य पूर्व में संकट गहरा सकता है और भारत पर भी इसका असर पड़ सकता है। ईरान ने होर्मुज के बाद बाब अल-मंडेब स्ट्रेट में भी अड़गा लगा सकता है. इसका असर पूरी दुनिया पर देखने को मिल सकता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "डी-कंपनी का सीक्रेट मैन! जिसके पास दाऊद इब्राहिम और ISI के कई राज, मिली थी छोटा राजन की सुपारी",
+      "url": "https://hindi.news18.com/news/nation/d-company-secret-man-holds-secret-of-dawood-ibrahim-isi-munna-jhingada-attack-chhota-rajan-10531045.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-01T16:06:33+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Dawood-Ibrahim-2026-06-de29bf21574ea06e271ce93456a479dc-1200x800.jpg",
+      "summary": "मुन्ना झिंगड़ा का नाम अंडरवर्ल्ड में दाऊद इब्राहिम के नेटवर्क से जोड़ा जाता रहा है. उसने स्थानीय और अंतरराष्ट्रीय अपराध सिंडिकेट तक पहुंच बनाने की कोशिश की. उसे छोटा राजन की सुपारी भी मिली थी. अंडरवर्ल्ड की दुनिया में मुन्ना झिंगड़ा का नाम इसलिए भी चर्चित रहा क्योंकि उसने स्थानीय गैंगस्टर से लेकर अंतरराष्ट्रीय अपराध सिंडिकेट तक अपनी पहुंच बनाने की कोशिश की.",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डी-कंपनी का सीक्रेट मैन! जिसके पास दाऊद इब्राहिम और ISI के कई राज, मिली थी छोटा राजन की सुपारी",
+          "summary": "मुन्ना झिंगड़ा का नाम अंडरवर्ल्ड में दाऊद इब्राहिम के नेटवर्क से जोड़ा जाता रहा है. उसने स्थानीय और अंतरराष्ट्रीय अपराध सिंडिकेट तक पहुंच बनाने की कोशिश की. उसे छोटा राजन की सुपारी भी मिली थी. अंडरवर्ल्ड की दुनिया में मुन्ना झिंगड़ा का नाम इसलिए भी चर्चित रहा क्योंकि उसने स्थानीय गैंगस्टर से लेकर अंतरराष्ट्रीय अपराध सिंडिकेट तक अपनी पहुंच बनाने की कोशिश की.",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "नहीं खुलेगा होर्मुज, इजराइल ने किया कांड, तो ईरान ने कर दिया एलान, अमेरिका से बातचीत अटकी",
+      "url": "https://hindi.news18.com/world/middle-east-iran-halt-talks-with-us-stalled-strait-of-hormuz-remain-close-10531048.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-01T14:58:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Iran-US-Talks-2026-06-5d308a9d32b6fc23eff0cf377098c514-1200x800.jpg",
+      "summary": "ईरान ने अमेरिका के साथ बातचीत रोक दी है. यह फैसला लेबनान पर इजराइल के लगातार हमलों को देखते हुए लिया गया है. ईरान ने अमेरिका के साथ बातचीत बंद करने की घोषणा की है. लेबनान पर इजरायल के लगातार हमले को देखते हुए ईरान ने ये कदम उठाया है. नहीं खुलेगा होर्मुज, इजराइल ने किया कांड, तो ईरान ने कर दिया एलान, अमेरिका से बातचीत अटकी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नहीं खुलेगा होर्मुज, इजराइल ने किया कांड, तो ईरान ने कर दिया एलान, अमेरिका से बातचीत अटकी",
+          "summary": "ईरान ने अमेरिका के साथ बातचीत रोक दी है. यह फैसला लेबनान पर इजराइल के लगातार हमलों को देखते हुए लिया गया है. ईरान ने अमेरिका के साथ बातचीत बंद करने की घोषणा की है. लेबनान पर इजरायल के लगातार हमले को देखते हुए ईरान ने ये कदम उठाया है. नहीं खुलेगा होर्मुज, इजराइल ने किया कांड, तो ईरान ने कर दिया एलान, अमेरिका से बातचीत अटकी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "2400 नागरिक सुरक्षित भारत लौटे, 150 अभी भी बंधक बने हुए !",
+      "url": "https://www.patrika.com/world-news/myanmar-cyber-scam-2400-indians-rescued-from-kk-park-human-trafficking-mea-latest-update-20630918",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-01T14:47:49+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Myanmar-cyber-scam.webp",
+      "summary": "भारत सरकार ने पिछले डेढ़ साल में म्यांमार के साइबर धोखाधड़ी अड्डों से 2,411 भारतीयों को सुरक्षित वापस लाया है. अभी भी 150 से अधिक भारतीय इन अड्डों में फंसे हुए हैं. Human Trafficking: भारत सरकार ने विदेशों में फंसे अपने नागरिकों को बचाने के लिए एक बड़ा और सफल अभियान चलाया है। पिछले डेढ़ साल में, म्यांमार में खतरनाक साइबर धोखाधड़ी के अड्डों में फंसे 2,411 भारतीयों को सुरक्षित वापस भारत लाया जा चुका है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "2400 नागरिक सुरक्षित भारत लौटे, 150 अभी भी बंधक बने हुए !",
+          "summary": "भारत सरकार ने पिछले डेढ़ साल में म्यांमार के साइबर धोखाधड़ी अड्डों से 2,411 भारतीयों को सुरक्षित वापस लाया है. अभी भी 150 से अधिक भारतीय इन अड्डों में फंसे हुए हैं. Human Trafficking: भारत सरकार ने विदेशों में फंसे अपने नागरिकों को बचाने के लिए एक बड़ा और सफल अभियान चलाया है। पिछले डेढ़ साल में, म्यांमार में खतरनाक साइबर धोखाधड़ी के अड्डों में फंसे 2,411 भारतीयों को सुरक्षित वापस भारत लाया जा चुका है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "लेबनान में तबाही के बाद ईरान का बड़ा फैसला, अमेरिका के साथ ‘सस्पेंड’ किए सारे रणनीतिक संबंध",
+      "url": "https://www.patrika.com/world-news/iran-suspends-indirect-talks-with-us-over-israeli-attacks-in-lebanon-oman-backchannel-diplomacy-20630926",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-01T14:38:10+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/iran-0.webp",
+      "summary": "ईरान ने अमेरिका के साथ अप्रत्यक्ष संदेशों के आदान-प्रदान पर रोक लगा दी है. यह फैसला गाजा और लेबनान में इजराइल की सैन्य कार्रवाई के बीच लिया गया है. Iran Suspends Indirect Talks US: गाजा और लेबनान में इजराइल की चल रही सैन्य कार्रवाई के बीच ईरान ने बड़ा फैसला लेते हुए अमेरिका के साथ अप्रत्यक्ष संदेशों के आदान-प्रदान पर रोक लगा दी है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लेबनान में तबाही के बाद ईरान का बड़ा फैसला, अमेरिका के साथ ‘सस्पेंड’ किए सारे रणनीतिक संबंध",
+          "summary": "ईरान ने अमेरिका के साथ अप्रत्यक्ष संदेशों के आदान-प्रदान पर रोक लगा दी है. यह फैसला गाजा और लेबनान में इजराइल की सैन्य कार्रवाई के बीच लिया गया है. Iran Suspends Indirect Talks US: गाजा और लेबनान में इजराइल की चल रही सैन्य कार्रवाई के बीच ईरान ने बड़ा फैसला लेते हुए अमेरिका के साथ अप्रत्यक्ष संदेशों के आदान-प्रदान पर रोक लगा दी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्यों खास है बोफोर्ट कैसल, हिजबुल्लाह से पहले किसके पास था ये किला, इजराइल को क्या इससे मिलेगी जीत",
+      "url": "https://hindi.news18.com/world/middle-east-who-held-beaufort-castle-before-hezbollah-will-israel-achieve-victory-10530693.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-01T13:13:05+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Beaufort-Castle-Reuters-2026-06-5748c9d43b7613afbb3a07e5b34a5e06-1200x800.jpg",
+      "summary": "बोफोर्ट कैसल दक्षिणी लेबनान और उत्तरी इजराइल के बड़े हिस्सों पर नजर रखता है. यह किला अपनी सामरिक ऊंचाई के कारण सदियों से महत्वपूर्ण सैन्य भूमिका निभाता रहा है. बोफोर्ट कैसल मध्यकालीन किला है. इसने अपनी लोकेशन के कारण सदियों से अहम सैन्य भूमिका निभाई है. यह किला दक्षिणी लेबनान के बड़े हिस्सों और उत्तरी इजरायल के कुछ हिस्सों पर नजर रखता है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्यों खास है बोफोर्ट कैसल, हिजबुल्लाह से पहले किसके पास था ये किला, इजराइल को क्या इससे मिलेगी जीत",
+          "summary": "बोफोर्ट कैसल दक्षिणी लेबनान और उत्तरी इजराइल के बड़े हिस्सों पर नजर रखता है. यह किला अपनी सामरिक ऊंचाई के कारण सदियों से महत्वपूर्ण सैन्य भूमिका निभाता रहा है. बोफोर्ट कैसल मध्यकालीन किला है. इसने अपनी लोकेशन के कारण सदियों से अहम सैन्य भूमिका निभाई है. यह किला दक्षिणी लेबनान के बड़े हिस्सों और उत्तरी इजरायल के कुछ हिस्सों पर नजर रखता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जंग के बीच मिला भरोसा, म्यांमार में फिर शुरू होंगे भारत के रुके हुए प्रोजेक्ट्स",
+      "url": "https://www.patrika.com/world-news/india-myanmar-connectivity-projects-stalled-due-to-hostilities-resume-soon-latest-diplomacy-news-20630553",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-01T13:01:01+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Myanmar-assures-India-to-push-connectivity-projects.webp",
+      "summary": "म्यांमार सरकार ने भारत को आश्वासन दिया है कि देश में चल रहे संघर्ष के बावजूद भारत के कनेक्टिविटी प्रोजेक्ट्स को तेजी से पूरा किया जाएगा। यह निर्णय दोनों देशों के बीच कूटनीतिक संबंधों में एक सकारात्मक कदम है। Hostilities: म्यांमार में चल रहे भारी संघर्ष और के बीच भारत के लिए एक बहुत ही सकारात्मक और राहत भरी खबर आई है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जंग के बीच मिला भरोसा, म्यांमार में फिर शुरू होंगे भारत के रुके हुए प्रोजेक्ट्स",
+          "summary": "म्यांमार सरकार ने भारत को आश्वासन दिया है कि देश में चल रहे संघर्ष के बावजूद भारत के कनेक्टिविटी प्रोजेक्ट्स को तेजी से पूरा किया जाएगा। यह निर्णय दोनों देशों के बीच कूटनीतिक संबंधों में एक सकारात्मक कदम है। Hostilities: म्यांमार में चल रहे भारी संघर्ष और के बीच भारत के लिए एक बहुत ही सकारात्मक और राहत भरी खबर आई है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "यूक्रेन में अजनबियों के आंसू पोंछ रहा फरीदाबाद का छोरा, मलबे से चमका रहा स्कूल-आशियाने; रमनदीप का",
+      "url": "https://hindi.news18.com/world/europe-indian-youth-raman-deep-singh-bhamra-serves-war-victims-in-ukraine-rebuilding-houses-and-lives-globally-photogallery-ws-n-10530424.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-01T12:48:53+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Ukrain-War-Faridabad-Boy-2026-06-0d918aadf6603f327566e3d50c0b0747-1200x800.jpg",
+      "summary": "फरीदाबाद के रमनदीप सिंह भामरा यूक्रेन में युद्ध पीड़ितों की मदद कर रहे हैं. वह बमबारी से तबाह हुए घरों और स्कूलों के पुनर्निर्माण में जुटे हैं. वह 'Brave to Rebuild' संगठन के साथ काम कर रहे हैं. यूक्रेन और रूस के बीच जारी भीषण जंग और तबाही के बीच फरीदाबाद (हरियाणा) का एक जांबाज युवक इंसानियत की अनूठी मिसाल बनकर उभरा है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेन में अजनबियों के आंसू पोंछ रहा फरीदाबाद का छोरा, मलबे से चमका रहा स्कूल-आशियाने; रमनदीप का",
+          "summary": "फरीदाबाद के रमनदीप सिंह भामरा यूक्रेन में युद्ध पीड़ितों की मदद कर रहे हैं. वह बमबारी से तबाह हुए घरों और स्कूलों के पुनर्निर्माण में जुटे हैं. वह 'Brave to Rebuild' संगठन के साथ काम कर रहे हैं. यूक्रेन और रूस के बीच जारी भीषण जंग और तबाही के बीच फरीदाबाद (हरियाणा) का एक जांबाज युवक इंसानियत की अनूठी मिसाल बनकर उभरा है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "उमर 16 साल तो 'सबसे प्‍यारी चीज' छोड़नी होगी, सरकार ने चला द‍िया चाबुक, लेकिन कहां?",
+      "url": "https://hindi.news18.com/world/south-asia-social-media-ban-for-children-under-16-in-malaysia-after-australia-brazil-indonesia-ws-l-10530805.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-01T12:43:59+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/social-media-2026-06-f84abf6faa3bbdc4d35b179ced0bc0bc-1200x800.jpg",
+      "summary": "मलेशिया ने 16 साल से कम उम्र के बच्चों के लिए सभी सोशल मीडिया प्लेटफॉर्म पर अकाउंट बनाने पर प्रतिबंध लगा दिया है। यह नियम बच्चों की सुरक्षा को ध्यान में रखते हुए तुरंत लागू किया गया है। Social Media Ban in Malaysia: मलेशिया सरकार ने बच्चों की सुरक्षा के लिए एक बड़ा और सख्त कदम उठाते हुए ऐलान कर दिया है कि 16 साल से कम उम्र के कोई भी बच्चा अब फेसबुक, इंस्टाग्राम, टिकटॉक, यूट्यूब या किसी भी सोशल मीडिया प्लेटफॉर्म पर अकाउंट नहीं बना सकेगा.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उमर 16 साल तो 'सबसे प्‍यारी चीज' छोड़नी होगी, सरकार ने चला द‍िया चाबुक, लेकिन कहां?",
+          "summary": "मलेशिया ने 16 साल से कम उम्र के बच्चों के लिए सभी सोशल मीडिया प्लेटफॉर्म पर अकाउंट बनाने पर प्रतिबंध लगा दिया है। यह नियम बच्चों की सुरक्षा को ध्यान में रखते हुए तुरंत लागू किया गया है। Social Media Ban in Malaysia: मलेशिया सरकार ने बच्चों की सुरक्षा के लिए एक बड़ा और सख्त कदम उठाते हुए ऐलान कर दिया है कि 16 साल से कम उम्र के कोई भी बच्चा अब फेसबुक, इंस्टाग्राम, टिकटॉक, यूट्यूब या किसी भी सोशल मीडिया प्लेटफॉर्म पर अकाउंट नहीं बना सकेगा.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "25 करोड़ का घर 'बिना कैश' लिए बेच रहा मालिक, 1200 साल पुरानी आलीशान हवेली में है सब कुछ, मॉडर्न",
@@ -376,24 +623,6 @@
           "title": "अमेरिका में 3.2 करोड़ मच्छर छोड़ने की तैयारी में क्यों है गूगल? लैब में हो रहे तैयार",
           "summary": "गूगल अमेरिका में 3.2 करोड़ नर मच्छर छोड़ने की योजना बना रहा है. ये मच्छर 'वोलबाचिया पिपिएंटिस' बैक्टीरिया से संक्रमित होंगे. गूगल ने दिसंबर 2025 के लिए एक एक्सपेरिमेंटल यूज़ परमिट दायर किया है. इस प्रोजेक्ट के काम करने के लिए गूगल की साइंस आर्म नर मच्छरों को 'वोलबाचिया पिपिएंटिस' बैक्टीरिया के एक खास स्ट्रेन से संक्रमित करने की योजना बना रही है.",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन में अजनबियों के आंसू पोंछ रहा फरीदाबाद का छोरा, मलबे से चमका रहा स्कूल-आशियाने; रमनदीप का",
-      "url": "https://hindi.news18.com/world/europe-indian-youth-raman-deep-singh-bhamra-serves-war-victims-in-ukraine-rebuilding-houses-and-lives-globally-photogallery-ws-n-10530424.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-01T11:09:55+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Ukrain-War-Faridabad-Boy-2026-06-0d918aadf6603f327566e3d50c0b0747-1200x800.jpg",
-      "summary": "फरीदाबाद के रमनदीप सिंह भामरा यूक्रेन में युद्ध पीड़ितों की मदद कर रहे हैं. वह बमबारी से तबाह हुए घरों और स्कूलों के पुनर्निर्माण में जुटे हैं. वह 'Brave to Rebuild' संगठन के साथ काम कर रहे हैं. यूक्रेन और रूस के बीच जारी भीषण जंग और तबाही के बीच फरीदाबाद (हरियाणा) का एक जांबाज युवक इंसानियत की अनूठी मिसाल बनकर उभरा है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन में अजनबियों के आंसू पोंछ रहा फरीदाबाद का छोरा, मलबे से चमका रहा स्कूल-आशियाने; रमनदीप का",
-          "summary": "फरीदाबाद के रमनदीप सिंह भामरा यूक्रेन में युद्ध पीड़ितों की मदद कर रहे हैं. वह बमबारी से तबाह हुए घरों और स्कूलों के पुनर्निर्माण में जुटे हैं. वह 'Brave to Rebuild' संगठन के साथ काम कर रहे हैं. यूक्रेन और रूस के बीच जारी भीषण जंग और तबाही के बीच फरीदाबाद (हरियाणा) का एक जांबाज युवक इंसानियत की अनूठी मिसाल बनकर उभरा है.",
-          "region": "यूरोप और रूस"
         }
       }
     },
@@ -524,96 +753,6 @@
       }
     },
     {
-      "title": "'तुमसे नहीं हो रहा, लाइसेंस दो हम बनाएंगे मिसाइलें', जेलेंस्की ने अमेरिका से ये क्या कह दिया?",
-      "url": "https://hindi.news18.com/world/europe-ukraine-zelensky-demands-license-to-make-patriot-missiles-donald-trump-2-10530161.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-01T09:21:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Zelensky-Trump-2026-05-fa4f08c02b295d8c4fd06ee854565f72-1200x800.jpg",
-      "summary": "यूक्रेन के राष्ट्रपति व्लोदिमीर जेलेंस्की ने अमेरिका से पैट्रियट मिसाइलों के उत्पादन का लाइसेंस मांगा है। उन्होंने कहा कि रूस अपनी मिसाइल क्षमता तेजी से बढ़ा रहा है। यूक्रेन खुद मिसाइलें बनाना चाहता है। Ukraine Wants License for Making Missiles: यूक्रेन के राष्ट्रपति व्लोदिमीर जेलेंस्की ने अमेरिका से पैट्रियट एंटी-बैलिस्टिक मिसाइलों का उत्पादन लाइसेंस मांगा है. उन्होंने कहा कि अमेरिका में इन मिसाइलों का उत्पादन बहुत कम है, जबकि रूस अपनी मिसाइल क्षमता तेजी से बढ़ा रहा है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'तुमसे नहीं हो रहा, लाइसेंस दो हम बनाएंगे मिसाइलें', जेलेंस्की ने अमेरिका से ये क्या कह दिया?",
-          "summary": "यूक्रेन के राष्ट्रपति व्लोदिमीर जेलेंस्की ने अमेरिका से पैट्रियट मिसाइलों के उत्पादन का लाइसेंस मांगा है। उन्होंने कहा कि रूस अपनी मिसाइल क्षमता तेजी से बढ़ा रहा है। यूक्रेन खुद मिसाइलें बनाना चाहता है। Ukraine Wants License for Making Missiles: यूक्रेन के राष्ट्रपति व्लोदिमीर जेलेंस्की ने अमेरिका से पैट्रियट एंटी-बैलिस्टिक मिसाइलों का उत्पादन लाइसेंस मांगा है. उन्होंने कहा कि अमेरिका में इन मिसाइलों का उत्पादन बहुत कम है, जबकि रूस अपनी मिसाइल क्षमता तेजी से बढ़ा रहा है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "दक्षिण कोरिया डिफेंस कंपनी की फैक्ट्री में धमाका, 4 की मौत 2 घायल, पीएम ने बुलाई हाई लेवल मीटिंग",
-      "url": "https://hindi.news18.com/world/rest-of-world-south-korea-aerospace-plant-explosion-4-dead-2-injured-pm-calls-high-level-meeting-ws-l-10529973.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-01T08:16:51+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/skorea-factory-2026-06-61e0fa3f83421ce7df862dabece4f2af-1200x800.jpg",
-      "summary": "दक्षिण कोरिया के डेजॉन शहर में एक प्रमुख रक्षा कंपनी की फैक्ट्री में धमाका हुआ। इस घटना में चार लोगों की मौत हो गई। प्रधानमंत्री ने उच्च स्तरीय बैठक बुलाई और कारणों की समीक्षा की जा रही है। South Korea Aerospace Plant Explosion: दक्षिण कोरिया के डेजॉन शहर में मौजूद देश की प्रमुख डिफेंस कंपनी की फैक्ट्री में धमाका हो गया, जिसके बाद यहां आग लग गई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दक्षिण कोरिया डिफेंस कंपनी की फैक्ट्री में धमाका, 4 की मौत 2 घायल, पीएम ने बुलाई हाई लेवल मीटिंग",
-          "summary": "दक्षिण कोरिया के डेजॉन शहर में एक प्रमुख रक्षा कंपनी की फैक्ट्री में धमाका हुआ। इस घटना में चार लोगों की मौत हो गई। प्रधानमंत्री ने उच्च स्तरीय बैठक बुलाई और कारणों की समीक्षा की जा रही है। South Korea Aerospace Plant Explosion: दक्षिण कोरिया के डेजॉन शहर में मौजूद देश की प्रमुख डिफेंस कंपनी की फैक्ट्री में धमाका हो गया, जिसके बाद यहां आग लग गई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान ने भी चली भारत वाली चाल, होर्मुज का झंझट खत्म करने की तैयारी, शहबाज का मास्टर स्ट्रोक",
-      "url": "https://hindi.news18.com/world/pakistan-strategic-petroleum-reserve-plan-on-gwadar-port-after-iran-war-hormuz-crisis-india-uae-deal-10529873.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-01T08:14:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/balochistan-2026-06-81c3ce3d67091743806a6604bed10d75-1200x800.jpg",
-      "summary": "पाकिस्तान अपनी ऊर्जा सुरक्षा के लिए ग्वादर तट पर तेल भंडार बनाना चाहता है। वर्तमान में उसका 90% तेल और गैस होर्मुज के रास्ते आता है। इसके बंद होने से पाकिस्तान में ऊर्जा संकट देखा गया। ईरान युद्ध के कारण पाकिस्तान को समझ आ गया है कि उसके पास एनर्जी रिजर्व न के बराबर है. पाकिस्तान अब अपनी ऊर्जा की जरूरतों के लिए एक बड़ा कदम उठाने वाला है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान ने भी चली भारत वाली चाल, होर्मुज का झंझट खत्म करने की तैयारी, शहबाज का मास्टर स्ट्रोक",
-          "summary": "पाकिस्तान अपनी ऊर्जा सुरक्षा के लिए ग्वादर तट पर तेल भंडार बनाना चाहता है। वर्तमान में उसका 90% तेल और गैस होर्मुज के रास्ते आता है। इसके बंद होने से पाकिस्तान में ऊर्जा संकट देखा गया। ईरान युद्ध के कारण पाकिस्तान को समझ आ गया है कि उसके पास एनर्जी रिजर्व न के बराबर है. पाकिस्तान अब अपनी ऊर्जा की जरूरतों के लिए एक बड़ा कदम उठाने वाला है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "शादी के चंद घंटे में हुई दूल्हे की मौत, हनीमून जा रहा हेलीकॉप्टर क्रैश, टूट गईं सात जन्म की कस्में",
-      "url": "https://hindi.news18.com/world/america-indian-origin-pilot-groom-dies-in-helicopter-crash-just-hours-after-wedding-bride-survived-accident-2-10529866.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-01T07:56:00+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/groom-killed-2026-06-561fad30fcee70257a248242a09e3e18-1200x800.jpg",
-      "summary": "अमेरिका के जार्जिया में शादी के कुछ घंटे बाद एक पायलट की हेलीकॉप्टर दुर्घटना में मौत हो गई. पायलट अपनी पत्नी के साथ हनीमून के लिए जा रहा था. यह घटना शादी की खुशियों को मातम में बदल गई. Groom Killed in Helicopter Crash Hours After Wedding: अमेरिका में एक दर्दनाक घटना सामने आई, जब एक पायलट की उसकी शादी के तुरंत बाद ही मौत हो गई.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शादी के चंद घंटे में हुई दूल्हे की मौत, हनीमून जा रहा हेलीकॉप्टर क्रैश, टूट गईं सात जन्म की कस्में",
-          "summary": "अमेरिका के जार्जिया में शादी के कुछ घंटे बाद एक पायलट की हेलीकॉप्टर दुर्घटना में मौत हो गई. पायलट अपनी पत्नी के साथ हनीमून के लिए जा रहा था. यह घटना शादी की खुशियों को मातम में बदल गई. Groom Killed in Helicopter Crash Hours After Wedding: अमेरिका में एक दर्दनाक घटना सामने आई, जब एक पायलट की उसकी शादी के तुरंत बाद ही मौत हो गई.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप फिट हैं तो हेल्थ की इतनी जांच क्यों? मेडिकल रिपोर्ट देख डॉक्टरों का माथा भन्नाया, कौन सा सवाल",
-      "url": "https://hindi.news18.com/world/america-donald-trump-health-report-weight-gain-doctors-raise-questions-over-medical-checkup-10529395.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-01T07:39:03+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/donald-trumphealth-2026-06-4e01b2eec27ecec763e63919aa2640c6-1200x800.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नई मेडिकल रिपोर्ट में उन्हें फिट बताया गया है। हालांकि, रिपोर्ट में उनके वजन में वृद्धि और डॉक्टरों की सलाह पर सवाल उठाए गए हैं। Donald Trump Health News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नई मेडिकल रिपोर्ट में उन्हें 'पूरी तरह फिट' बताया गया है, लेकिन रिपोर्ट ने कई नए सवाल भी खड़े कर दिए हैं.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप फिट हैं तो हेल्थ की इतनी जांच क्यों? मेडिकल रिपोर्ट देख डॉक्टरों का माथा भन्नाया, कौन सा सवाल",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नई मेडिकल रिपोर्ट में उन्हें फिट बताया गया है। हालांकि, रिपोर्ट में उनके वजन में वृद्धि और डॉक्टरों की सलाह पर सवाल उठाए गए हैं। Donald Trump Health News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नई मेडिकल रिपोर्ट में उन्हें 'पूरी तरह फिट' बताया गया है, लेकिन रिपोर्ट ने कई नए सवाल भी खड़े कर दिए हैं.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
       "title": "भारतीय मूल के पायलट की अमेरिका में हेलीकॉप्टर क्रैश में मौत, घंटों पहले हुई थी शादी",
       "url": "https://www.patrika.com/world-news/indian-origin-pilot-dies-in-helicopter-crash-in-us-hours-after-marriage-20628872",
       "source": "Patrika (World)",
@@ -628,132 +767,6 @@
           "title": "भारतीय मूल के पायलट की अमेरिका में हेलीकॉप्टर क्रैश में मौत, घंटों पहले हुई थी शादी",
           "summary": "जार्जिया, अमेरिका में 26 वर्षीय भारतीय मूल के पायलट डेव फिजी की शादी के कुछ घंटों बाद हेलीकॉप्टर दुर्घटना में मौत हो गई. वह डेल्टा एयर लाइन्स में फर्स्ट ऑफिसर थे. उनकी पत्नी के साथ वह हनीमून के लिए जा रहे थे. अमेरिका के जार्जिया से एक दुखद खबर सामने आई है। यहां एक विमान हादसे के चलते शादी की खुशियां मातम में बदल गई।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका-इजरायल से तनाव के बीच क्या ईरान के राष्ट्रपति ने दिया इस्तीफा? ईरानी सरकार ने दिया जवाब",
-      "url": "https://www.patrika.com/world-news/iran-president-masoud-pezeshkian-resigns-amid-tensions-with-us-and-israel-20628944",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-01T07:13:17+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Masoud-Pezeshkian.webp",
-      "summary": "ईरान के राष्ट्रपति मसूद पेजेश्कियान के इस्तीफे की खबरें भ्रामक बताई गई हैं. अमेरिका के साथ बढ़ते तनाव के बीच यह दावा किया गया था कि उन्होंने पद छोड़ दिया है. ईरानी सरकार ने इन दावों को खारिज कर दिया है. Iranian President Masoud Pezeshkian: अमेरिका के साथ बढ़ते तनाव और संभावित सीजफायर वार्ताओं के बीच ईरान की राजनीति को लेकर एक बड़ी खबर सामने आई, जिसमें दावा किया गया कि ईरान के राष्ट्रपति मसूद पेजेश्कियान (Masoud Pezeshkian) ने अपने पद से इस्तीफा दे दिया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका-इजरायल से तनाव के बीच क्या ईरान के राष्ट्रपति ने दिया इस्तीफा? ईरानी सरकार ने दिया जवाब",
-          "summary": "ईरान के राष्ट्रपति मसूद पेजेश्कियान के इस्तीफे की खबरें भ्रामक बताई गई हैं. अमेरिका के साथ बढ़ते तनाव के बीच यह दावा किया गया था कि उन्होंने पद छोड़ दिया है. ईरानी सरकार ने इन दावों को खारिज कर दिया है. Iranian President Masoud Pezeshkian: अमेरिका के साथ बढ़ते तनाव और संभावित सीजफायर वार्ताओं के बीच ईरान की राजनीति को लेकर एक बड़ी खबर सामने आई, जिसमें दावा किया गया कि ईरान के राष्ट्रपति मसूद पेजेश्कियान (Masoud Pezeshkian) ने अपने पद से इस्तीफा दे दिया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "स्ट्रेट ऑफ होर्मुज पर नाकेबंदी कहां है? चुपचाप अंधेरे में गुजर जाते हैं जहाज, ईरान को भनक तक नहीं",
-      "url": "https://hindi.news18.com/world/middle-east-strait-of-hormuz-how-ships-oil-tankers-are-secretly-sailing-through-waterway-under-us-coordination-ws-l-10529591.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-01T06:35:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/hormuz-crisis-2026-05-1e5b771c381e1fad33e7100f219daf08-1200x800.jpg",
-      "summary": "स्ट्रेट ऑफ होर्मुज पर जहाज अमेरिकी सेना की निगरानी में डार्क मोड में गुजर रहे हैं. अमेरिका और ईरान के बीच इस जलमार्ग को लेकर कोई समझौता नहीं हुआ है. यह जानकारी सामने आई है कि अमेरिकी सेना इन जहाजों को सुरक्षा प्रदान कर रही है. Strait of Hormuz Crisis: एक तरफ तो स्ट्रेट ऑफ होर्मुज पर अमेरिका-ईरान में कोई समझौता नहीं हो पा रहा है, वहीं दूसरी ओर खबरें ये भी आ रही हैं कि इस जलमार्ग से कई जहाज डार्क मोड में गुजर रहे हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्ट्रेट ऑफ होर्मुज पर नाकेबंदी कहां है? चुपचाप अंधेरे में गुजर जाते हैं जहाज, ईरान को भनक तक नहीं",
-          "summary": "स्ट्रेट ऑफ होर्मुज पर जहाज अमेरिकी सेना की निगरानी में डार्क मोड में गुजर रहे हैं. अमेरिका और ईरान के बीच इस जलमार्ग को लेकर कोई समझौता नहीं हुआ है. यह जानकारी सामने आई है कि अमेरिकी सेना इन जहाजों को सुरक्षा प्रदान कर रही है. Strait of Hormuz Crisis: एक तरफ तो स्ट्रेट ऑफ होर्मुज पर अमेरिका-ईरान में कोई समझौता नहीं हो पा रहा है, वहीं दूसरी ओर खबरें ये भी आ रही हैं कि इस जलमार्ग से कई जहाज डार्क मोड में गुजर रहे हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मिडिल ईस्ट में फिर होगी जंग? अमेरिका ने ईरान के दो द्वीपों पर बरसाए बम, भड़के ईरान ने की जवाबी",
-      "url": "https://www.abplive.com/news/world/middle-east-war-resume-us-bombed-two-iranian-islands-prompting-an-enraged-iran-to-retaliate-3138342",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-01T06:30:55+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/29/7be60f03dc0000fb1f749a35e8b4efc01780021077631233_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिका ने ईरान के गोरुक और केशम द्वीपों पर स्थित रडार और ड्रोन कंट्रोल साइट्स पर हमला किया. यूएस सेंटकॉम ने इसकी पुष्टि की. ईरान की IRGC एयरोस्पेस फोर्स ने जवाबी कार्रवाई करते हुए अमेरिकी एयरबेस को निशाना बनाया. अमेरिका और ईरान की डील पर बातचीत के बीच एक बार फिर युद्ध शुरू होने की आशंका जताई जा रही है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिडिल ईस्ट में फिर होगी जंग? अमेरिका ने ईरान के दो द्वीपों पर बरसाए बम, भड़के ईरान ने की जवाबी",
-          "summary": "अमेरिका ने ईरान के गोरुक और केशम द्वीपों पर स्थित रडार और ड्रोन कंट्रोल साइट्स पर हमला किया. यूएस सेंटकॉम ने इसकी पुष्टि की. ईरान की IRGC एयरोस्पेस फोर्स ने जवाबी कार्रवाई करते हुए अमेरिकी एयरबेस को निशाना बनाया. अमेरिका और ईरान की डील पर बातचीत के बीच एक बार फिर युद्ध शुरू होने की आशंका जताई जा रही है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान से खरीदे गए थे 2 मोबाइल फोन, 4 साल तक रहे बंद... पहलगाम आतंकी हमले में चौंकाने वाला खुलासा",
-      "url": "https://www.abplive.com/news/world/pahalgam-terror-attack-nia-jammu-and-kashmir-police-investigation-revelations-mobile-phone-pakistan-connection-3138410",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-01T06:28:08+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/01/512f284726f80f7ee4de067d0907111e17802952451051368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पहलगाम आतंकी हमले में इस्तेमाल किए गए दो मोबाइल फोन पाकिस्तान से खरीदे गए थे. राष्ट्रीय जांच एजेंसी और जम्मू कश्मीर पुलिस को जांच में यह सबूत मिला है. ये फोन चार साल से बंद थे. पहलगाम में बीते साल हुए आतंकी हमले की जांच में चौंकाने वाला खुलासा हुआ है. मामले की जांच में जुटी राष्ट्रीय जांच एजेंसी (NIA) और जम्मू कश्मीर पुलिस के हाथ ऐसा सबूत लगा है, जिससे पाकिस्तान का नापाक चेहरा फिर बेनकाब हुआ है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान से खरीदे गए थे 2 मोबाइल फोन, 4 साल तक रहे बंद... पहलगाम आतंकी हमले में चौंकाने वाला खुलासा",
-          "summary": "पहलगाम आतंकी हमले में इस्तेमाल किए गए दो मोबाइल फोन पाकिस्तान से खरीदे गए थे. राष्ट्रीय जांच एजेंसी और जम्मू कश्मीर पुलिस को जांच में यह सबूत मिला है. ये फोन चार साल से बंद थे. पहलगाम में बीते साल हुए आतंकी हमले की जांच में चौंकाने वाला खुलासा हुआ है. मामले की जांच में जुटी राष्ट्रीय जांच एजेंसी (NIA) और जम्मू कश्मीर पुलिस के हाथ ऐसा सबूत लगा है, जिससे पाकिस्तान का नापाक चेहरा फिर बेनकाब हुआ है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "टीएमसी सांसद पर हमले का मामला, लोकसभा अध्यक्ष से शिकायत करेंगे अभिषेक बनर्जी",
-      "url": "https://www.abplive.com/news/india/tmc-mp-abhishek-banerjee-complaint-lok-sabha-attack-in-sonarpur-west-bengal-3138403",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-01T06:17:45+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/01/3a767974104e5a5d258ea9cfe20055fa17802981552261189_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तृणमूल कांग्रेस सांसद अभिषेक बनर्जी सोनारपुर में हुए हमले के संबंध में लोकसभा अध्यक्ष ओम बिरला से शिकायत करेंगे. उन्होंने इस मामले में अदालत जाने की भी बात कही है. पश्चिम बंगाल के दक्षिण 24 परगना के सोनारपुर में हुए हमले को लेकर अब टीएमसी सांसद अभिषेक बनर्जी अब लोकसभा में इसकी जानकारी देंगे. न्यूज एजेंसी एएनआई के मुताबिक टीएमसी नेता लोकसभा अध्यक्ष को अपने ऊपर हुए हमले की पूरी जानकारी देंगे.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "टीएमसी सांसद पर हमले का मामला, लोकसभा अध्यक्ष से शिकायत करेंगे अभिषेक बनर्जी",
-          "summary": "तृणमूल कांग्रेस सांसद अभिषेक बनर्जी सोनारपुर में हुए हमले के संबंध में लोकसभा अध्यक्ष ओम बिरला से शिकायत करेंगे. उन्होंने इस मामले में अदालत जाने की भी बात कही है. पश्चिम बंगाल के दक्षिण 24 परगना के सोनारपुर में हुए हमले को लेकर अब टीएमसी सांसद अभिषेक बनर्जी अब लोकसभा में इसकी जानकारी देंगे. न्यूज एजेंसी एएनआई के मुताबिक टीएमसी नेता लोकसभा अध्यक्ष को अपने ऊपर हुए हमले की पूरी जानकारी देंगे.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "13 कैबिनेट और 22 राज्य मंत्रियों ने ली शपथ, शुभेंदु अधिकारी की टीम में किस-किस को मिली जगह? देखें",
-      "url": "https://www.abplive.com/news/india/west-bengal-cabinet-expansion-cm-suvendu-adhikari-35-ministers-take-oath-bengal-government-new-ministers-list-3138393",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-01T06:08:02+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/01/86d3cb24178fc02722a0081a44ac4b731780295962830628_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पश्चिम बंगाल में मुख्यमंत्री शुभेंदु अधिकारी के नेतृत्व में कैबिनेट विस्तार हुआ. राज्यपाल आर. एन. रवि ने 13 कैबिनेट मंत्रियों और 22 राज्य मंत्रियों को पद की शपथ दिलाई. मुख्यमंत्री शुभेंदु अधिकारी के नेतृत्व में सोमवार (1 जून, 2026) को पश्चिम बंगाल में कैबिनेट विस्तार हुआ. रवि ने यहां लोक भवन में 35 और मंत्रियों को पद की शपथ दिलाई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "13 कैबिनेट और 22 राज्य मंत्रियों ने ली शपथ, शुभेंदु अधिकारी की टीम में किस-किस को मिली जगह? देखें",
-          "summary": "पश्चिम बंगाल में मुख्यमंत्री शुभेंदु अधिकारी के नेतृत्व में कैबिनेट विस्तार हुआ. राज्यपाल आर. एन. रवि ने 13 कैबिनेट मंत्रियों और 22 राज्य मंत्रियों को पद की शपथ दिलाई. मुख्यमंत्री शुभेंदु अधिकारी के नेतृत्व में सोमवार (1 जून, 2026) को पश्चिम बंगाल में कैबिनेट विस्तार हुआ. रवि ने यहां लोक भवन में 35 और मंत्रियों को पद की शपथ दिलाई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान के दो ठिकानों पर अमेरिका का बड़ा हमला, ड्रोन-रडार साइट तबाह, सेना ने कहा- हमारा बदला पूरा हुआ",
-      "url": "https://www.patrika.com/world-news/us-launches-major-attack-on-two-iranian-bases-drone-and-radar-sites-destroyed-20628767",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-01T06:01:32+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-Military-Action-Iran.webp",
-      "summary": "ईरान द्वारा अमेरिकी ड्रोन गिराए जाने के जवाब में अमेरिकी सेना ने ईरान के दो ठिकानों गोरुक और केशम पर हमला किया. इस हमले में ड्रोन और रडार साइट तबाह हो गईं. ईरानी सेना द्वारा अमेरिकी MQ-1 ड्रोन को मार गिराए जाने के जवाब में अमेरिकी सेना ने ईरान के दो अहम ठिकानों गोरुक और केशम पर जोरदार हमले किए।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के दो ठिकानों पर अमेरिका का बड़ा हमला, ड्रोन-रडार साइट तबाह, सेना ने कहा- हमारा बदला पूरा हुआ",
-          "summary": "ईरान द्वारा अमेरिकी ड्रोन गिराए जाने के जवाब में अमेरिकी सेना ने ईरान के दो ठिकानों गोरुक और केशम पर हमला किया. इस हमले में ड्रोन और रडार साइट तबाह हो गईं. ईरानी सेना द्वारा अमेरिकी MQ-1 ड्रोन को मार गिराए जाने के जवाब में अमेरिकी सेना ने ईरान के दो अहम ठिकानों गोरुक और केशम पर जोरदार हमले किए।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
