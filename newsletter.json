@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-02T00:15:27.475877+00:00",
+  "generated_at": "2026-06-02T05:49:44.776427+00:00",
   "article_count": 50,
-  "total_unique_count": 258,
+  "total_unique_count": 268,
   "digest": {
-    "en": "Americas leads the board this hour with U.S. court blocks Pentagon from removing transgender troops, for now. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर अमेरिका की अगुवाई है, ट्रांसजेंडर सैनिकों पर प्रतिबंध को अदालत ने बताया अवैध, रक्षा नीति की नीयत पर उठे सवाल मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Reports from the Middle East dominate this hour, with developments in Lebanon and Iran. The US court ruling on transgender troops offers a counterpoint from the Americas. Markets are also watching Nvidia's strategic decisions closely.",
+    "hi": "ईरान को लेकर अमेरिका और इजरायल के बीच तनाव बढ़ रहा है। वहीं, भारत में मेटा के फैसले पर विरोध और सुप्रीम कोर्ट में जजों की नियुक्ति सुर्खियां बटोर रही है।"
   },
   "articles": [
+    {
+      "title": "Trump says Netanyahu agreed not to send troops to Beirut",
+      "url": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-02T01:33:50+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/6nq7i9/article71050026.ece/alternates/LANDSCAPE_1200/2026-05-30T173718Z_1450490897_RC2ZFKAMUTM3_RTRMADP_3_USA-JUSTICE-TRUMP-FUND.JPG",
+      "summary": "Donald Trump stated Benjamin Netanyahu agreed not to send Israeli troops into Beirut. Likewise, through highly placed Representatives, I had a very good call with Hezbollah, and they agreed that all shooting will stop -- That Israel will not attack them, and they will not attack Israel, says U. S. President Donald Trump. Trump says Netanyahu agreed not to send troops to Beirut.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "U.S. court blocks Pentagon from removing transgender troops, for now",
       "url": "https://www.thehindu.com/news/international/us-court-blocks-pentagon-from-removing-transgender-troops-for-now/article71050242.ece",
@@ -14,20 +26,8 @@
       "sources": [],
       "published_at": "2026-06-01T23:24:27+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/600b30/article71050244.ece/alternates/LANDSCAPE_1200/Trump_Transgender_Troops_43717.jpg",
-      "summary": "A U. S. appeals court blocked the Pentagon from removing transgender troops. The court ruled 2-1 that the 2025 policy was unlawfully motivated. It was driven by the \"bare desire to harm a politically unpopular group.\" The ruling is temporary. A panel ⁠of the U. S. Court of Appeals for the District of Columbia Circuit in a 2-1 ruling said the 2025 policy was unlawfully motivated “by the bare desire to harm a politically unpopular group.”.",
+      "summary": "A U. S. appeals court blocked the Pentagon from removing transgender troops. The court ruled 2-1 that the 2025 policy was unlawfully motivated. It was driven by the \"bare desire to harm a politically unpopular group.\" The ruling is temporary. A panel ⁠of the U. Court of Appeals for the District of Columbia Circuit in a 2-1 ruling said the 2025 policy was unlawfully motivated “by the bare desire to harm a politically unpopular group.”.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A close-up look at scam compounds along Cambodia's border with Vietnam",
-      "url": "https://www.channelnewsasia.com/asia/cambodia-scamming-crimes-vietnam-crackdown-6149366",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-06-01T22:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--ji4s_1_H--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/29/cambodia_scamming.jpg?itok=03XZLWxT",
-      "summary": "New roads and casino zones have transformed agricultural land along Cambodia's eastern border with Vietnam. These areas now host guarded compounds operating as online scam centers. This shift has turned the frontier into a hub for illicit digital operations. In the second of a two-part series that looks into scam operations in Cambodia, CNA travels along the country’s eastern border with Vietnam, where new roads, casino zones and guarded compounds have transformed agricultural land into a frontier for online scams.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -39,30 +39,6 @@
       "published_at": "2026-06-01T20:35:09+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/hd2-Lebanon.jpg",
       "summary": "President Donald Trump claimed Israeli forces headed toward Beirut turned back. Shortly after reporting emerged Monday that Iran was suspending talks with the United States over Israel’s ramped up assault on Lebanon, President Donald Trump claimed that Israeli forces headed toward Beirut have “turned back” and that Hezbollah has agreed that “all shooting will stop” following separate phone calls with representatives from the two warring sides.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump says Netanyahu agreed not to send troops to Beirut",
-      "url": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-01T20:02:39+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/6nq7i9/article71050026.ece/alternates/LANDSCAPE_1200/2026-05-30T173718Z_1450490897_RC2ZFKAMUTM3_RTRMADP_3_USA-JUSTICE-TRUMP-FUND.JPG",
-      "summary": "Donald Trump stated Benjamin Netanyahu agreed not to send Israeli troops into Beirut. Likewise, through highly placed Representatives, I had a very good call with Hezbollah, and they agreed that all shooting will stop -- That Israel will not attack them, and they will not attack Israel, says U. S. President Donald Trump. Trump says Netanyahu agreed not to send troops to Beirut.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran suspends talks with U.S. over Israel’s Lebanon strikes",
-      "url": "https://www.thehindu.com/news/international/iran-us-israel-war-strait-of-hormuz-blockade/article71049122.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-01T18:41:59+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/tzbzvu/article71049148.ece/alternates/LANDSCAPE_1200/2026-05-15T104631Z_170516312_RC2L9LAFNNRX_RTRMADP_3_INDIA-BRICS-ARAQCHI.JPG",
-      "summary": "Iran suspended talks with the United States. This followed Israeli strikes in Lebanon. If the Houthis, Iran’s allies in Yemen, open a new front in the conflict, one obvious target would be ​the Bab El Mandeb ‌Strait off the coast of Yemen, a key shipping chokepoint and narrow passageway that controls sea traffic towards the Suez Canal. Iran suspends talks with U. S.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -80,18 +56,6 @@
       "translations": {}
     },
     {
-      "title": "Myanmar not to allow use of its territory by anti-India elements: President Min Aung Hlaing",
-      "url": "https://www.thehindu.com/news/national/myanmar-assures-india-its-territory-wont-be-used-against-new-delhis-security-interests/article71048243.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-01T17:38:39+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/c97q7j/article71048438.ece/alternates/LANDSCAPE_1200/20260601107L.jpg",
-      "summary": "Myanmar assured India its territory will not be used against New Delhi's security Foreign Secretary Vikram Misri said the talks between the two sides focused on the entire gamut of bilateral issues that included trade and economic ties, defence and security related issues, border management, development assistance as well as the regional situation. Myanmar assures India its territory won’t be used against New Delhi’s security interests.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Iran Executes 2 More Over January Protests, Jails Man 10 Years For Filming",
       "url": "https://www.rferl.org/a/iran-execution-protest-prisoners-human-rights-video-sentence/33770259.html",
       "source": "Radio Free Europe / Liberty",
@@ -99,18 +63,6 @@
       "published_at": "2026-06-01T16:42:38+00:00",
       "image_url": "https://gdb.rferl.org/7dec82ef-f579-4791-a40e-08debadd8a36_cx4_cy3_cw87_w1200_h630.jpg",
       "summary": "Iran executed two more men linked to the January protests. Two more men have been executed in Iran in connection with the January protests with human rights groups condemning growing repression in the country. An Iranian man was also sentenced to 10 years in prison for simply shooting video of protests that first erupted in December 2025. Iran Executes 2 More Over January Protests, Jails Man 10 Years For Filming.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran suspends talks as Israel widens Lebanon offensive | Above the Fold | 01.06.2026",
-      "url": "https://www.thehindu.com/videos/watch-iran-suspends-talks-as-israel-widens-lebanon-offensive-above-the-fold-01062026/article71049667.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-01T16:16:40+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/national/ga4mx7/article71049664.ece/alternates/LANDSCAPE_1200/June%201%20THUMB.png",
-      "summary": "Iran suspended talks. This decision followed Israel's widened military offensive into Lebanon. From West Bengal’s cabinet expansion to while Israel’s military pushes deeper into Lebanon amid ceasefire talks, we look at the major stories of the day. We also look at key changes to UPI and LPG distribution, the hostage crisis in Manipur, the start of SIR enumeration in four States, and actor-turned-politician Vijay’s first major public address.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -124,18 +76,6 @@
       "image_url": "https://i.guim.co.uk/img/media/38d056e77382f6cbe29f5abaac86e143aacf33b9/341_38_4503_3602/master/4503.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c55c0fbfbfaea8b3cf1fff9e8e7d9d2a",
       "summary": "Abelardo de la Espriella, a far-right lawyer, secured Success of far-right presidential candidate, Abelardo de la Espriella, suggests some voters are ‘fed up with politics’The far-right lawyer Abelardo de la Espriella and the leftwing senator Iván Cepeda have just under three weeks to compete for the roughly 3.6m votes that did not go to either of them in the first round of Colombia’s presidential election. That is no insignificant number, given that.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "As Trump attacks anew, Iran says Europe’s ‘appeasing aggressors’",
-      "url": "https://asiatimes.com/2026/06/as-trump-attacks-anew-iran-says-europes-appeasing-aggressors/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-06-01T14:44:07+00:00",
-      "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/06/2024100814550488183546271-copy.jpg?fit=1024%2C682&amp;quality=89&amp;ssl=1",
-      "summary": "Iran’s government condemned the European Union’s response to Iranian attacks on US military installations. A Foreign Ministry spokesperson called the EU’s reaction “a masterclass in selective moral outrage.” This statement followed new US strikes against Iran over the weekend. Peace talks between the nations remain at an impasse. Iran’s government on Monday condemned the European Union’s response to Iranian attacks on US military installations in the Middle East as “a masterclass in selective moral outrage” after the Trump administration launched new strikes against Iran over the weekend, with peace talks still at an impasse.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -205,7 +145,7 @@
       "source": "Asia Times",
       "sources": [],
       "published_at": "2026-06-01T10:14:13+00:00",
-      "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/06/Jensen-Huang-Nvidia-Nvidia-PC.jpg?fit=1024%2C685&amp;quality=89&amp;ssl=1",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/Jensen-Huang-Nvidia-Nvidia-PC.jpg",
       "summary": "Nvidia built the chips for artificial intelligence. Investors have spent the last three years asking who will build artificial intelligence (AI). Nvidia built the chips, Microsoft built the platforms, Amazon, Google and Meta built the infrastructure. Investors rewarded them accordingly, creating trillions of dollars in market value along the way. This phase of the AI revolution is well understood; the next phase [] The post Markets are misreading.",
       "region": "Global / Multilateral",
       "language": "en",
@@ -308,452 +248,512 @@
       "translations": {}
     },
     {
-      "title": "ट्रांसजेंडर सैनिकों पर प्रतिबंध को अदालत ने बताया अवैध, रक्षा नीति की नीयत पर उठे सवाल",
-      "url": "https://www.amarujala.com/world/us-court-rules-transgender-military-ban-illegal-donald-trump-2026-06-02",
-      "source": "Amar Ujala World",
+      "title": "WHO chief vows to stand with DR Congo through Ebola outbreak",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167612",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-06-02T07:25:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/danalda-tarapa-amaraka-rashhatarapata_021a92dae9893a6b4f437e07511f4162.png?w=750&dpr=1.0",
-      "summary": "एक अमेरिकी अदालत ने ट्रांसजेंडर सैनिकों पर प्रतिबंध को अवैध करार दिया है। इस फैसले ने रक्षा नीति की मंशा पर सवाल खड़े कर दिए हैं। ट्रांसजेंडर सैनिकों पर प्रतिबंध को अदालत ने बताया अवैध, रक्षा नीति की नीयत पर उठे सवाल।",
+      "published_at": "2026-05-30T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/28-05-2026-WHO-DR-Congo-ebola-04.jpg/image770x420cropped.jpg",
+      "summary": "The World Health Organization will support the Democratic Republic of Congo through its current Ebola outbreak. WHO Director-General Tedros Adhanom Ghebreyesus stated that community trust is crucial for containment. Health teams are working to control the outbreak. It has spread across several provinces and into Uganda. Community trust will be decisive in bringing the rapidly evolving Ebola outbreak in eastern Democratic Republic of the Congo under control, WHO Director-General Tedros Adhanom Ghebreyesus said on Saturday, as health teams race to contain the emergency that has spread across multiple provinces and into neighbouring Uganda.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Borrowed boots, borrowed joy: Football thrives in Gaza camps",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167606",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-05-30T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-05-2026-UN-News-Gaza-soccer-02.jpg/image770x420cropped.jpg",
+      "summary": "A former professional player organises football matches in Gaza. Matches organised by a former professional player are providing a brief respite from the harsh reality of life for the thousands living in overcrowded tents, schools or damaged buildings in the shattered Occupied Palestinian Territory of Gaza. Borrowed boots, borrowed joy: Football thrives in Gaza camps.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
+      "url": "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-05-30T09:00:14+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/c1579ea8824fb84ec2c453a6b0b76108341221aa/281_0_5839_4672/master/5839.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b6c8c9b427fbf361d736535ee01f543",
+      "summary": "Colombia will hold its presidential election on Sunday. Sunday’s presidential vote is contest between left and right – and between contradictory proposals for dealing with the decades-long armed conflictMateo Pérez Rueda was one internship away from completing a degree in political science. The 24-year-old also worked as a bicycle delivery rider and sold fruit salads and juice to finance his passion: the Colombian independent digital magazine El Confid.",
       "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रांसजेंडर सैनिकों पर प्रतिबंध को अदालत ने बताया अवैध, रक्षा नीति की नीयत पर उठे सवाल",
-          "summary": "एक अमेरिकी अदालत ने ट्रांसजेंडर सैनिकों पर प्रतिबंध को अवैध करार दिया है। इस फैसले ने रक्षा नीति की मंशा पर सवाल खड़े कर दिए हैं। ट्रांसजेंडर सैनिकों पर प्रतिबंध को अदालत ने बताया अवैध, रक्षा नीति की नीयत पर उठे सवाल।",
-          "region": "अमेरिका"
-        }
-      }
+      "language": "en",
+      "translations": {}
     },
     {
-      "title": "18 साल बाद भेजी सरकारी नौकरी की चिट्ठी, पर तब तक आ चुकी थी रिटायरमेंट की उम्र",
-      "url": "https://www.amarujala.com/india-news/kerala-psc-delayed-appointment-order-after-18-years-candidate-crosses-retirementage-2026-06-02",
-      "source": "Amar Ujala Breaking",
+      "title": "Kremlin-Backed Disinformation Unit Tied To Zelenskyy Dubai Apartment Hoax",
+      "url": "https://www.rferl.org/a/russia-fake-news-zelenskyy-claim-dubai-kremlin/33768433.html",
+      "source": "Radio Free Europe / Liberty",
       "sources": [],
-      "published_at": "2026-06-02T06:59:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/karal-ka-mamal_f741dc21f66c2c90786c1a3d723b2c67.png?w=750&dpr=1.0",
-      "summary": "केरल लोक सेवा आयोग ने 18 साल बाद एक उम्मीदवार को सरकारी नौकरी का नियुक्ति पत्र भेजा। तब तक वह व्यक्ति सेवानिवृत्ति की आयु पार कर चुका था। 18 साल बाद भेजी सरकारी नौकरी की चिट्ठी, पर तब तक आ चुकी थी रिटायरमेंट की उम्र।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "18 साल बाद भेजी सरकारी नौकरी की चिट्ठी, पर तब तक आ चुकी थी रिटायरमेंट की उम्र",
-          "summary": "केरल लोक सेवा आयोग ने 18 साल बाद एक उम्मीदवार को सरकारी नौकरी का नियुक्ति पत्र भेजा। तब तक वह व्यक्ति सेवानिवृत्ति की आयु पार कर चुका था। 18 साल बाद भेजी सरकारी नौकरी की चिट्ठी, पर तब तक आ चुकी थी रिटायरमेंट की उम्र।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'ईरान से तेजी से बातचीत जारी'; ट्रंप का दावा- इस्राइल और हिजबुल्ला एक-दूसरे पर हमला न करने पर सहमत",
-      "url": "https://www.amarujala.com/world/west-asia-crisis-talks-with-iran-continuing-at-rapid-pace-us-president-donald-trump-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-02T06:55:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/west-asia-crisis-talks-with-iran-continuing-at-rapid-pace-us-president-donald-trump_82a1c9067efb8b986fc6832e9c3b878d.png?w=750&dpr=1.0",
-      "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि ईरान के साथ बातचीत तेजी से जारी है। उन्होंने यह भी दावा किया कि इजरायल और हिजबुल्ला एक-दूसरे पर हमला नहीं करने पर सहमत हुए हैं। 'ईरान से तेजी से बातचीत जारी'; ट्रंप का दावा- इस्राइल और हिजबुल्ला एक-दूसरे पर हमला न करने पर सहमत।",
+      "published_at": "2026-05-30T08:55:48+00:00",
+      "image_url": "https://gdb.rferl.org/9833dced-869f-4b95-88ff-08dde5383204_w1200_h630.jpeg",
+      "summary": "Leaked documents examined by Schemes link a debunked report about Ukrainian President Volodymyr Zelensky Leaked documents examined by Schemes link a debunked report that claimed Ukrainian President Volodymyr Zelenskyy bought a $3.2 million apartment in Dubai for his mother to a Kremlin-backed disinformation outfit hit with sanctions by the US, the EU, and the UK. Kremlin-Backed Disinformation Unit Tied To Zelenskyy Dubai Apartment Hoax.",
       "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ईरान से तेजी से बातचीत जारी'; ट्रंप का दावा- इस्राइल और हिजबुल्ला एक-दूसरे पर हमला न करने पर सहमत",
-          "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि ईरान के साथ बातचीत तेजी से जारी है। उन्होंने यह भी दावा किया कि इजरायल और हिजबुल्ला एक-दूसरे पर हमला नहीं करने पर सहमत हुए हैं। 'ईरान से तेजी से बातचीत जारी'; ट्रंप का दावा- इस्राइल और हिजबुल्ला एक-दूसरे पर हमला न करने पर सहमत।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
+      "language": "en",
+      "translations": {}
     },
     {
-      "title": "कंप और त्रिलोचन की कविता- बढ़ती हुई पदचाप",
-      "url": "https://www.amarujala.com/kavya/shabd-sangrah/aaj-ka-shabd-kamp-trilochan-ki-kavita-badhti-hui-padchap-2026-06-01",
-      "source": "Amar Ujala Breaking",
+      "title": "Banning children from social media is not the answer, UN warns – platforms must be made safe by",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167608",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-06-02T00:12:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/01/aaj-ka-shabd_0f80e13b55180a1493407b231e96ff5d.jpeg?w=750&dpr=1.0",
-      "summary": "कंप और त्रिलोचन की कविताएँ एक साथ प्रस्तुत की गईं। यह आयोजन उनकी साहित्यिक कृतियों पर केंद्रित था। आज का शब्द: कंप और त्रिलोचन की कविता- बढ़ती हुई पदचाप।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कंप और त्रिलोचन की कविता- बढ़ती हुई पदचाप",
-          "summary": "कंप और त्रिलोचन की कविताएँ एक साथ प्रस्तुत की गईं। यह आयोजन उनकी साहित्यिक कृतियों पर केंद्रित था। आज का शब्द: कंप और त्रिलोचन की कविता- बढ़ती हुई पदचाप।",
-          "region": "दुनिया"
-        }
-      }
+      "published_at": "2026-05-29T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-01-2024-UNICEF-Macedonia.jpg/image770x420cropped.jpg",
+      "summary": "The UN human rights office warned against banning children from social media. Blocking children from social media is no substitute for making platforms safe in the first place, the UN human rights office warned Friday, as it issued a 10-point framework urging governments and tech companies to go further and faster to protect children online. Banning children from social media is not the answer, UN warns – platforms must be made safe by.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
     },
     {
-      "title": "सर्वोच्च न्यायालय को आज मिलेंगे पांच नए जज, मुख्य न्यायाधीश सूर्यकांत दिलाएंगे पद की शपथ",
-      "url": "https://www.amarujala.com/india-news/five-newly-appointed-judges-to-the-supreme-court-will-take-the-oath-on-tuesday-2026-06-01",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-02T00:11:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/12/03/restrict-arguments-to-15-minutes-sc-to-accused-in-delhi-riots-case_ca06120159e5e2e6b0a3052936a4cc7c.jpeg?w=750&dpr=1.0",
-      "summary": "पांच नए न्यायाधीश मंगलवार को सर्वोच्च न्यायालय में पद की शपथ लेंगे। मुख्य न्यायाधीश सूर्यकांत उन्हें शपथ दिलाएंगे। सर्वोच्च न्यायालय को आज मिलेंगे पांच नए जज, मुख्य न्यायाधीश सूर्यकांत दिलाएंगे पद की शपथ।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सर्वोच्च न्यायालय को आज मिलेंगे पांच नए जज, मुख्य न्यायाधीश सूर्यकांत दिलाएंगे पद की शपथ",
-          "summary": "पांच नए न्यायाधीश मंगलवार को सर्वोच्च न्यायालय में पद की शपथ लेंगे। मुख्य न्यायाधीश सूर्यकांत उन्हें शपथ दिलाएंगे। सर्वोच्च न्यायालय को आज मिलेंगे पांच नए जज, मुख्य न्यायाधीश सूर्यकांत दिलाएंगे पद की शपथ।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अगले सप्ताह खुलेगा होर्मुज, ईरान संग होगी बड़ी डील; सीजफायर पर डोनाल्ड ट्रंप ने किया बड़ा ऐलान",
-      "url": "https://hindi.news18.com/world/middle-east-donald-trump-says-us-thinks-deal-with-iran-reopen-hormuz-could-happen-over-the-next-week-10531587.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-02T00:11:04+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/donald-trump-2026-05-28T132243.824-2026-05-353de2a8736a0380aab00b36214b5b0f-1200x800.jpg",
-      "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने संकेत दिया कि ईरान के साथ युद्धविराम और होर्मुज जलडमरूमध्य को फिर से खोलने का समझौता अगले सप्ताह हो सकता है। उन्होंने बेंजामिन नेतन्याहू से भी इस बारे में बात की। Donald Trump On Iran Hormuz News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने संकेत दिया है कि ईरान के साथ युद्धविराम बढ़ाने और होर्मुज जलडमरूमध्य को फिर से खोलने का समझौता अगले हफ्ते के भीतर हो सकता है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अगले सप्ताह खुलेगा होर्मुज, ईरान संग होगी बड़ी डील; सीजफायर पर डोनाल्ड ट्रंप ने किया बड़ा ऐलान",
-          "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने संकेत दिया कि ईरान के साथ युद्धविराम और होर्मुज जलडमरूमध्य को फिर से खोलने का समझौता अगले सप्ताह हो सकता है। उन्होंने बेंजामिन नेतन्याहू से भी इस बारे में बात की। Donald Trump On Iran Hormuz News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने संकेत दिया है कि ईरान के साथ युद्धविराम बढ़ाने और होर्मुज जलडमरूमध्य को फिर से खोलने का समझौता अगले हफ्ते के भीतर हो सकता है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप की कड़ी शर्तों की वजह से ईरान वार्ता टूटी, नेतन्याहू बोले- लेबनान में जारी रहेगी जंग",
-      "url": "https://www.amarujala.com/live/world/west-asia-cricis-israel-lebanon-war-iran-threat-donald-trump-ceasefire-proposal-live-updates-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-02T00:08:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/02/iirana-sakata_f3a4e5f36dc3223f30f04a4395b1121b.gif?w=750&dpr=1.0",
-      "summary": "राष्ट्रपति ट्रंप की सख्त शर्तों के कारण ईरान के साथ वार्ता टूट गई। इजरायल के प्रधानमंत्री नेतन्याहू ने कहा कि लेबनान में जंग जारी रहेगी। ट्रंप की कड़ी शर्तों की वजह से ईरान वार्ता टूटी, नेतन्याहू बोले- लेबनान में जारी रहेगी जंग।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की कड़ी शर्तों की वजह से ईरान वार्ता टूटी, नेतन्याहू बोले- लेबनान में जारी रहेगी जंग",
-          "summary": "राष्ट्रपति ट्रंप की सख्त शर्तों के कारण ईरान के साथ वार्ता टूट गई। इजरायल के प्रधानमंत्री नेतन्याहू ने कहा कि लेबनान में जंग जारी रहेगी। ट्रंप की कड़ी शर्तों की वजह से ईरान वार्ता टूटी, नेतन्याहू बोले- लेबनान में जारी रहेगी जंग।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अफ्रीका में अमेरिकी वीजा दूतावासों में भारी कटौती, पाकिस्तान में सुरक्षाकर्मी की हत्या",
-      "url": "https://www.amarujala.com/world/world-updates-soldier-killed-in-pakistan-us-donald-trump-embassies-in-africa-2026-06-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-01T23:46:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
-      "summary": "अफ्रीका में अमेरिकी दूतावासों में वीजा सेवाओं में बड़ी कटौती की गई है। पाकिस्तान में एक सुरक्षाकर्मी की हत्या कर दी गई। अफ्रीका में अमेरिकी वीजा दूतावासों में भारी कटौती, पाकिस्तान में सुरक्षाकर्मी की हत्या।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अफ्रीका में अमेरिकी वीजा दूतावासों में भारी कटौती, पाकिस्तान में सुरक्षाकर्मी की हत्या",
-          "summary": "अफ्रीका में अमेरिकी दूतावासों में वीजा सेवाओं में बड़ी कटौती की गई है। पाकिस्तान में एक सुरक्षाकर्मी की हत्या कर दी गई। अफ्रीका में अमेरिकी वीजा दूतावासों में भारी कटौती, पाकिस्तान में सुरक्षाकर्मी की हत्या।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप के संघर्ष विराम दावे के बीच नेतन्याहू ने दी ये चेतावनी, हिजबुल्ला ने हमले रोकने पर जताई सहमति",
-      "url": "https://www.amarujala.com/world/netanyahu-breaks-silence-after-trump-truce-vows-strike-on-beirut-if-attacks-persis-hezbollah-agrees-lebanon-2026-06-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-01T23:43:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/netanyahu-breaks-silence-after-trump-truce-vows-strike-on-beirut-if-attacks-persis-hezbollah-agree_5b33088574026b68497afe83d08495b2.jpeg?w=750&dpr=1.0",
-      "summary": "राष्ट्रपति ट्रंप के युद्धविराम के दावे के बीच, बेंजामिन नेतन्याहू ने चेतावनी दी कि यदि हमले जारी रहे तो वे बैरूत पर हमला करेंगे। हिजबुल्ला ने हमले रोकने पर सहमति व्यक्त की। ट्रंप के संघर्ष विराम दावे के बीच नेतन्याहू ने दी ये चेतावनी, हिजबुल्ला ने हमले रोकने पर जताई सहमति।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप के संघर्ष विराम दावे के बीच नेतन्याहू ने दी ये चेतावनी, हिजबुल्ला ने हमले रोकने पर जताई सहमति",
-          "summary": "राष्ट्रपति ट्रंप के युद्धविराम के दावे के बीच, बेंजामिन नेतन्याहू ने चेतावनी दी कि यदि हमले जारी रहे तो वे बैरूत पर हमला करेंगे। हिजबुल्ला ने हमले रोकने पर सहमति व्यक्त की। ट्रंप के संघर्ष विराम दावे के बीच नेतन्याहू ने दी ये चेतावनी, हिजबुल्ला ने हमले रोकने पर जताई सहमति।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पानी के लिए जूझ रहे हजारों परिवार, खानपुर और मदनगीर समेत कई इलाकों में बिगड़े हालात",
-      "url": "https://www.amarujala.com/delhi/water-crisis-in-south-delhi-thousands-of-families-struggle-for-water-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-01T23:40:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/09/thall-ma-pana-ka-kallta_82b93179d0d6879674535e8dccf5ddf1.jpeg?w=750&dpr=1.0",
-      "summary": "दक्षिण दिल्ली के खानपुर, मदनगीर, देवली और संगम विहार में पानी की गंभीर कमी है। जलापूर्ति प्रभावित होने से हजारों परिवार रोजमर्रा की जरूरतों के लिए संघर्ष कर रहे हैं। दक्षिण दिल्ली के खानपुर, मदनगीर, देवली और संगम विहार समेत कई इलाकों में पानी की कमी ने लोगों का जीवन मुश्किल बना दिया है। जलापूर्ति प्रभावित होने के कारण हजारों परिवार रोजमर्रा की जरूरतों को पूरा करने के लिए संघर्ष कर रहे हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पानी के लिए जूझ रहे हजारों परिवार, खानपुर और मदनगीर समेत कई इलाकों में बिगड़े हालात",
-          "summary": "दक्षिण दिल्ली के खानपुर, मदनगीर, देवली और संगम विहार में पानी की गंभीर कमी है। जलापूर्ति प्रभावित होने से हजारों परिवार रोजमर्रा की जरूरतों के लिए संघर्ष कर रहे हैं। दक्षिण दिल्ली के खानपुर, मदनगीर, देवली और संगम विहार समेत कई इलाकों में पानी की कमी ने लोगों का जीवन मुश्किल बना दिया है। जलापूर्ति प्रभावित होने के कारण हजारों परिवार रोजमर्रा की जरूरतों को पूरा करने के लिए संघर्ष कर रहे हैं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जनवरी से मई में पिछले आठ साल का सबसे बेहतर एक्यूआई, औसत एक्यूआई 211 किया गया दर्ज",
-      "url": "https://www.amarujala.com/delhi/best-aqi-in-the-january-to-may-period-in-the-last-eight-years-average-aqi-recorded-at-211-in-delhi-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-01T23:32:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/aatha-sal-ka-sabsa-bhatara-ekayaaaii_05573072d6e787b5928cd8e282ad2975.png?w=750&dpr=1.0",
-      "summary": "जनवरी से मई 2026 के बीच दिल्ली का औसत वायु गुणवत्ता सूचकांक (एक्यूआई) 211 दर्ज किया गया। यह पिछले आठ वर्षों में इसी अवधि के लिए सबसे बेहतर वायु गुणवत्ता है। दिल्ली की हवा इस साल पहले के मुकाबले और साफ हुई है। वायु गुणवत्ता प्रबंधन आयोग (सीएक्यूएम) के अनुसार, जनवरी से मई 2026 के बीच राजधानी का औसत एयर क्वालिटी इंडेक्स (एक्यूआई) 211 दर्ज किया गया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जनवरी से मई में पिछले आठ साल का सबसे बेहतर एक्यूआई, औसत एक्यूआई 211 किया गया दर्ज",
-          "summary": "जनवरी से मई 2026 के बीच दिल्ली का औसत वायु गुणवत्ता सूचकांक (एक्यूआई) 211 दर्ज किया गया। यह पिछले आठ वर्षों में इसी अवधि के लिए सबसे बेहतर वायु गुणवत्ता है। दिल्ली की हवा इस साल पहले के मुकाबले और साफ हुई है। वायु गुणवत्ता प्रबंधन आयोग (सीएक्यूएम) के अनुसार, जनवरी से मई 2026 के बीच राजधानी का औसत एयर क्वालिटी इंडेक्स (एक्यूआई) 211 दर्ज किया गया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "दिग्विजय सिंह ने PM मोदी के जवाबदेही मॉडल को सराहा, संसदीय समिति के सामने पेश हुए NTA अफसर",
-      "url": "https://www.amarujala.com/india-news/digvijaya-singh-praises-pm-modi-accountability-on-neet-while-rahul-gandhi-attacks-cbse-fees-2026-06-02",
+      "title": "सरकार के फैसले का मेटा ने किया विरोध, विशेषज्ञ बोले- हो सकता है निजता को खतरा!",
+      "url": "https://www.amarujala.com/technology/tech-diary/meta-opposes-malaysia-s-under-16-social-media-ban-raises-safety-concerns-2026-06-02",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-01T23:31:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/05/pm-modi-hindi-news_2a3a2a02f156f33d08e767f6cf8b7002.jpeg?w=750&dpr=1.0",
-      "summary": "कांग्रेस नेता दिग्विजय सिंह ने प्रधानमंत्री मोदी के जवाबदेही मॉडल की प्रशंसा की। यह टिप्पणी NEET विवाद पर संसदीय समिति के सामने राष्ट्रीय परीक्षा एजेंसी (NTA) के अधिकारियों की पेशी के दौरान आई। दिग्विजय सिंह ने PM मोदी के जवाबदेही मॉडल को सराहा, संसदीय समिति के सामने पेश हुए NTA अफसर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिग्विजय सिंह ने PM मोदी के जवाबदेही मॉडल को सराहा, संसदीय समिति के सामने पेश हुए NTA अफसर",
-          "summary": "कांग्रेस नेता दिग्विजय सिंह ने प्रधानमंत्री मोदी के जवाबदेही मॉडल की प्रशंसा की। यह टिप्पणी NEET विवाद पर संसदीय समिति के सामने राष्ट्रीय परीक्षा एजेंसी (NTA) के अधिकारियों की पेशी के दौरान आई। दिग्विजय सिंह ने PM मोदी के जवाबदेही मॉडल को सराहा, संसदीय समिति के सामने पेश हुए NTA अफसर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "US-ईरान के बीच वो ल‍िम‍िटेड डील, ज‍िस पर चल रही बात, रोक देगी जंग",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-limited-deal-strait-of-hormuz-global-oil-market-price-latest-update-10531555.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-01T23:31:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/US-iran-Deal-3-2026-06-e77742c737c734dc30055607d7d4e2e1-1200x800.jpg",
-      "summary": "ईरान अपने परमाणु कार्यक्रम पर समझौता किए बिना आर्थिक संकट से उबरना चाहता है। अमेरिकी राष्ट्रपति ट्रंप बिना युद्ध के तेल आपूर्ति सामान्य करना चाहते हैं। दोनों देशों के हित इस बिंदु पर मिल रहे हैं। ईरान बिना अपने परमाणु कार्यक्रम से समझौता किए आर्थिक संकट से उबरना चाहता है, और ट्रंप बिना किसी बड़े युद्ध में फंसे तेल की सप्लाई को नॉर्मल करना चाहते हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "US-ईरान के बीच वो ल‍िम‍िटेड डील, ज‍िस पर चल रही बात, रोक देगी जंग",
-          "summary": "ईरान अपने परमाणु कार्यक्रम पर समझौता किए बिना आर्थिक संकट से उबरना चाहता है। अमेरिकी राष्ट्रपति ट्रंप बिना युद्ध के तेल आपूर्ति सामान्य करना चाहते हैं। दोनों देशों के हित इस बिंदु पर मिल रहे हैं। ईरान बिना अपने परमाणु कार्यक्रम से समझौता किए आर्थिक संकट से उबरना चाहता है, और ट्रंप बिना किसी बड़े युद्ध में फंसे तेल की सप्लाई को नॉर्मल करना चाहते हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावों को नकारा, बोले- ईरान से वार्ता जारी; हिज्बुल्लाह पर हमला",
-      "url": "https://www.patrika.com/world-news/donald-trump-claims-talks-with-iran-on-and-israel-will-not-attack-hezbollah-20631319",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-01T23:12:16+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/donald-trump_.webp",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ वार्ता जारी रहने का दावा किया है। उन्होंने ईरानी मीडिया के उन दावों को खारिज किया जिनमें कहा गया था कि बातचीत बंद हो गई है। Middle East Peace Talks: मिडल ईस्ट में जारी भारी तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का एक बड़ा बयान सामने आया है। ईरानी मीडिया के दावों को खारिज करते हुए ट्रंप ने साफ किया है कि अमेरिका और ईरान के बीच बातचीत पूरी तरह बंद नहीं हुई है, बल्कि यह प्रक्रिया अभी भी तेजी से आगे बढ़ रही है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावों को नकारा, बोले- ईरान से वार्ता जारी; हिज्बुल्लाह पर हमला",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ वार्ता जारी रहने का दावा किया है। उन्होंने ईरानी मीडिया के उन दावों को खारिज किया जिनमें कहा गया था कि बातचीत बंद हो गई है। Middle East Peace Talks: मिडल ईस्ट में जारी भारी तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का एक बड़ा बयान सामने आया है। ईरानी मीडिया के दावों को खारिज करते हुए ट्रंप ने साफ किया है कि अमेरिका और ईरान के बीच बातचीत पूरी तरह बंद नहीं हुई है, बल्कि यह प्रक्रिया अभी भी तेजी से आगे बढ़ रही है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "लू से मिली राहत, अगले 2-3 दिनों में केरल पहुंचेगा मानसून; यूपी-राजस्थान में धूल भरी आंधी",
-      "url": "https://www.amarujala.com/india-news/kerala-monsoon-arrival-dates-weather-forecast-delhi-up-rain-alert-imd-updates-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-01T22:52:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/masama-apadata_1eb925fb546a9d2e4c754f5be631716c.png?w=750&dpr=1.0",
-      "summary": "भारत मौसम विज्ञान विभाग ने अगले दो से तीन दिनों में मानसून के केरल पहुंचने लू से मिली राहत, अगले 2-3 दिनों में केरल पहुंचेगा मानसून; यूपी-राजस्थान में धूल भरी आंधी।",
+      "published_at": "2026-06-02T05:47:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/01/malyashaya-ma-bcaca-ka-le-sashal-madaya-bna-sakataka-tasavara_12937edaccce21b5f61b94a7d2f05569.jpeg?w=750&dpr=1.0",
+      "summary": "मेटा ने मलेशिया में 16 साल से कम उम्र के बच्चों पर सोशल मीडिया प्रतिबंध का विरोध किया है। Malaysia Social Media Ban: मलयेशिया में 16 साल से कम उम्र के बच्चों पर सोशल मीडिया बैन का मेटा ने विरोध जताया है। सरकार के फैसले का मेटा ने किया विरोध, विशेषज्ञ बोले- हो सकता है निजता को खतरा!",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "लू से मिली राहत, अगले 2-3 दिनों में केरल पहुंचेगा मानसून; यूपी-राजस्थान में धूल भरी आंधी",
-          "summary": "भारत मौसम विज्ञान विभाग ने अगले दो से तीन दिनों में मानसून के केरल पहुंचने लू से मिली राहत, अगले 2-3 दिनों में केरल पहुंचेगा मानसून; यूपी-राजस्थान में धूल भरी आंधी।",
+          "title": "सरकार के फैसले का मेटा ने किया विरोध, विशेषज्ञ बोले- हो सकता है निजता को खतरा!",
+          "summary": "मेटा ने मलेशिया में 16 साल से कम उम्र के बच्चों पर सोशल मीडिया प्रतिबंध का विरोध किया है। Malaysia Social Media Ban: मलयेशिया में 16 साल से कम उम्र के बच्चों पर सोशल मीडिया बैन का मेटा ने विरोध जताया है। सरकार के फैसले का मेटा ने किया विरोध, विशेषज्ञ बोले- हो सकता है निजता को खतरा!",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "ऊर्जा संकट के बीच रूस का बड़ा फैसला, एविएशन फ्यूल के निर्यात पर 30 नवंबर तक लगाई रोक",
-      "url": "https://www.patrika.com/world-news/russia-bans-aviation-fuel-export-till-november-30-20631306",
-      "source": "Patrika (World)",
+      "title": "ईरान से डील के बीच 'भारत के दोस्त' पर क्यों भड़का अमेरिका? तटस्थ बनने पर हड़काया- 'तेहरान छोड़ो",
+      "url": "https://hindi.news18.com/world/middle-east-donald-trump-warns-oman-to-choose-one-side-fire-on-neutral-position-asks-to-cut-ties-with-iran-ws-l-10532297.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-01T22:12:17+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/Russian-President-Vladimir-Putin.webp",
-      "summary": "रूस ने ऊर्जा संकट के बीच 30 नवंबर तक एविएशन फ्यूल के निर्यात पर रोक लगा दी है। यह कदम घरेलू बाजार में ईंधन की आपूर्ति सुनिश्चित करने के लिए उठाया गया है। Aviation fuel: यूक्रेन के साथ जारी युद्ध के बीच रूस ने अपने घरेलू बाजार को बचाने के लिए एक बहुत बड़ा कदम उठाया है। क्रेमलिन ने देश से एविएशन फ्यूल (विमानन ईंधन) के एक्सपोर्ट पर पूरी तरह से पाबंदी लगा दी है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ऊर्जा संकट के बीच रूस का बड़ा फैसला, एविएशन फ्यूल के निर्यात पर 30 नवंबर तक लगाई रोक",
-          "summary": "रूस ने ऊर्जा संकट के बीच 30 नवंबर तक एविएशन फ्यूल के निर्यात पर रोक लगा दी है। यह कदम घरेलू बाजार में ईंधन की आपूर्ति सुनिश्चित करने के लिए उठाया गया है। Aviation fuel: यूक्रेन के साथ जारी युद्ध के बीच रूस ने अपने घरेलू बाजार को बचाने के लिए एक बहुत बड़ा कदम उठाया है। क्रेमलिन ने देश से एविएशन फ्यूल (विमानन ईंधन) के एक्सपोर्ट पर पूरी तरह से पाबंदी लगा दी है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "विमानन ईंधन के निर्यात पर लगाई रोक, 30 नवंबर तक लागू रहेगा प्रतिबंध",
-      "url": "https://www.amarujala.com/world/russia-bans-aviation-fuel-export-till-november-30-amid-refinery-crisis-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-01T21:30:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/nprsa-ka-bugdha-fasal_3dc16dc567dc072a66500a420bcccd12.png?w=750&dpr=1.0",
-      "summary": "रूस ने विमानन ईंधन के निर्यात पर प्रतिबंध लगा दिया है. विमानन ईंधन के निर्यात पर लगाई रोक, 30 नवंबर तक लागू रहेगा प्रतिबंध।",
+      "published_at": "2026-06-02T05:46:31+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/oman-trump-2026-06-fed60de0654a72b3bf28033359c1dad7-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने ओमान को ईरान के साथ अपने संबंधों पर एक पक्ष चुनने की चेतावनी दी है। ट्रंप का मानना है कि ओमान ईरान के साथ एक तटस्थ रुख अपनाकर अपना हित साध रहा है। उन्होंने ओमान से कहा कि वह इस मामले में एक पक्ष चुने। Donald Trump Warning Oman: ईरान से समझौता न होने पाने की वजह से भड़के डोनाल्ड ट्रंप अब अपने ही दोस्तों को खरी-खोटी सुना रहे हैं, पहले तो उन्होंने नेतन्याहू को सुनाया और अब वो दोनों देशों के बीच तटस्थ बनकर अपना काम निकाल रहे ओमान पर भड़क गए हैं.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "विमानन ईंधन के निर्यात पर लगाई रोक, 30 नवंबर तक लागू रहेगा प्रतिबंध",
-          "summary": "रूस ने विमानन ईंधन के निर्यात पर प्रतिबंध लगा दिया है. विमानन ईंधन के निर्यात पर लगाई रोक, 30 नवंबर तक लागू रहेगा प्रतिबंध।",
+          "title": "ईरान से डील के बीच 'भारत के दोस्त' पर क्यों भड़का अमेरिका? तटस्थ बनने पर हड़काया- 'तेहरान छोड़ो",
+          "summary": "डोनाल्ड ट्रंप ने ओमान को ईरान के साथ अपने संबंधों पर एक पक्ष चुनने की चेतावनी दी है। ट्रंप का मानना है कि ओमान ईरान के साथ एक तटस्थ रुख अपनाकर अपना हित साध रहा है। उन्होंने ओमान से कहा कि वह इस मामले में एक पक्ष चुने। Donald Trump Warning Oman: ईरान से समझौता न होने पाने की वजह से भड़के डोनाल्ड ट्रंप अब अपने ही दोस्तों को खरी-खोटी सुना रहे हैं, पहले तो उन्होंने नेतन्याहू को सुनाया और अब वो दोनों देशों के बीच तटस्थ बनकर अपना काम निकाल रहे ओमान पर भड़क गए हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "5 से 21 जून तक BJP चलाएगी देशव्यापी जनसंपर्क अभियान; केंद्र की उपलब्धियां गिनाएंगे नेता",
-      "url": "https://www.amarujala.com/india-news/bjp-to-launch-15-day-grassroots-blitz-as-modi-govt-completes-12-yrs-in-office-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-01T20:59:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/bjp-to-launch-15-day-grassroots-blitz-as-modi-govt-completes-12-yrs-in-office_e71f19bb86252e47e69e394fd26666a6.png?w=750&dpr=1.0",
-      "summary": "भारतीय जनता पार्टी 5 जून से 21 जून तक देशव्यापी जनसंपर्क अभियान चलाएगी। 5 से 21 जून तक BJP चलाएगी देशव्यापी जनसंपर्क अभियान; केंद्र की उपलब्धियां गिनाएंगे नेता।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "5 से 21 जून तक BJP चलाएगी देशव्यापी जनसंपर्क अभियान; केंद्र की उपलब्धियां गिनाएंगे नेता",
-          "summary": "भारतीय जनता पार्टी 5 जून से 21 जून तक देशव्यापी जनसंपर्क अभियान चलाएगी। 5 से 21 जून तक BJP चलाएगी देशव्यापी जनसंपर्क अभियान; केंद्र की उपलब्धियां गिनाएंगे नेता।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "लूला की कमजोर नस पर वार, राष्ट्रपति ट्रंप की चाल पर विशेषज्ञों ने उठाए सवाल",
-      "url": "https://www.amarujala.com/world/us-designates-brazil-gangs-terrorists-sway-october-election-2026-06-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-01T20:54:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/danalda-tarapa-amaraka-rashhatarapata_0541271732297379ae14b4066213f9d8.png?w=750&dpr=1.0",
-      "summary": "ब्राजील के चुनाव में अमेरिकी दखल की बात सामने आई। राष्ट्रपति ट्रंप की रणनीति ने लूला की कमजोर नस पर वार किया। ब्राजील चुनाव में अमेरिकी दखल: लूला की कमजोर नस पर वार, राष्ट्रपति ट्रंप की चाल पर विशेषज्ञों ने उठाए सवाल।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लूला की कमजोर नस पर वार, राष्ट्रपति ट्रंप की चाल पर विशेषज्ञों ने उठाए सवाल",
-          "summary": "ब्राजील के चुनाव में अमेरिकी दखल की बात सामने आई। राष्ट्रपति ट्रंप की रणनीति ने लूला की कमजोर नस पर वार किया। ब्राजील चुनाव में अमेरिकी दखल: लूला की कमजोर नस पर वार, राष्ट्रपति ट्रंप की चाल पर विशेषज्ञों ने उठाए सवाल।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "पीटर मैंडेलसन का दावा पड़ा भारी: प्रधानमंत्री कीर स्टार्मर की कुर्सी पर संकट, लेबर पार्टी में",
-      "url": "https://www.amarujala.com/world/uk-politics-pm-keir-starmer-peter-mandelson-files-leak-2026-06-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-01T20:10:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/06/kara-sataramara_7a15f8ca135beb83948a2402a98886d7.jpeg?w=750&dpr=1.0",
-      "summary": "पीटर मैंडेलसन के एक दावे ने प्रधानमंत्री कीर स्टार्मर की स्थिति को संकट में डाल दिया है। पीटर मैंडेलसन का दावा पड़ा भारी: प्रधानमंत्री कीर स्टार्मर की कुर्सी पर संकट, लेबर पार्टी में सिरफुटौव्वल uk politics pm keir starmer peter mandelson files leak।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीटर मैंडेलसन का दावा पड़ा भारी: प्रधानमंत्री कीर स्टार्मर की कुर्सी पर संकट, लेबर पार्टी में",
-          "summary": "पीटर मैंडेलसन के एक दावे ने प्रधानमंत्री कीर स्टार्मर की स्थिति को संकट में डाल दिया है। पीटर मैंडेलसन का दावा पड़ा भारी: प्रधानमंत्री कीर स्टार्मर की कुर्सी पर संकट, लेबर पार्टी में सिरफुटौव्वल uk politics pm keir starmer peter mandelson files leak।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मच्छरों का खात्मा करेंगे ‘विशेष’ मच्छर: गूगल करेगी अमेरिका इतिहास का सबसे बड़ा प्रयोग",
-      "url": "https://www.patrika.com/world-news/google-plans-largest-us-mosquito-control-experiment-with-wolbachia-mosquitoes-20631286",
+      "title": "आप पागल हैं, मैं बचा रहा हूं, वरना जेल में होते- इजरायली PM नेतन्याहू पर जम कर बरसे डोनाल्ड ट्रंप!",
+      "url": "https://www.patrika.com/world-news/donald-trump-slams-benjamin-netanyahu-says-i-saved-you-from-jail-20632010",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-01T20:09:20+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Mosquito.webp",
-      "summary": "गूगल की एक सहायक कंपनी अमेरिका में अब तक का सबसे बड़ा मच्छर-नियंत्रण प्रयोग करने की तैयारी में है। Wolbachia mosquitoes: मच्छरों से छुटकारा पाने के लिए करोड़ों नए मच्छर छोड़ने का विचार पहली नजर में अजीब लग सकता है, लेकिन वैज्ञानिकों का मानना है कि यही रणनीति भविष्य में डेंगू और अन्य मच्छरजनित बीमारियों के खिलाफ सबसे प्रभावी हथियार बन सकती है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मच्छरों का खात्मा करेंगे ‘विशेष’ मच्छर: गूगल करेगी अमेरिका इतिहास का सबसे बड़ा प्रयोग",
-          "summary": "गूगल की एक सहायक कंपनी अमेरिका में अब तक का सबसे बड़ा मच्छर-नियंत्रण प्रयोग करने की तैयारी में है। Wolbachia mosquitoes: मच्छरों से छुटकारा पाने के लिए करोड़ों नए मच्छर छोड़ने का विचार पहली नजर में अजीब लग सकता है, लेकिन वैज्ञानिकों का मानना है कि यही रणनीति भविष्य में डेंगू और अन्य मच्छरजनित बीमारियों के खिलाफ सबसे प्रभावी हथियार बन सकती है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'फसल खरीद नहीं हुई तो 15 जून के बाद केंद्र के खिलाफ युद्ध छेड़ेंगे', सीएम रेवंत रेड्डी का बड़ा एलान",
-      "url": "https://www.amarujala.com/india-news/will-announce-war-on-centre-if-it-fails-to-purchase-paddy-other-crops-from-telangana-cm-reddy-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-01T20:01:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/will-announce-war-on-centre-if-it-fails-to-purchase-paddy-other-crops-from-telangana-cm-reddy_c7026ebaf4d6d129f01b5290100d80fe.png?w=750&dpr=1.0",
-      "summary": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी ने केंद्र सरकार के खिलाफ आंदोलन शुरू करने की घोषणा की है। 'फसल खरीद नहीं हुई तो 15 जून के बाद केंद्र के खिलाफ युद्ध छेड़ेंगे', सीएम रेवंत रेड्डी का बड़ा एलान।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'फसल खरीद नहीं हुई तो 15 जून के बाद केंद्र के खिलाफ युद्ध छेड़ेंगे', सीएम रेवंत रेड्डी का बड़ा एलान",
-          "summary": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी ने केंद्र सरकार के खिलाफ आंदोलन शुरू करने की घोषणा की है। 'फसल खरीद नहीं हुई तो 15 जून के बाद केंद्र के खिलाफ युद्ध छेड़ेंगे', सीएम रेवंत रेड्डी का बड़ा एलान।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज के बाद अब ये रास्ता भी होगा बंद, अमेरिका से बातचीत रोकने के बाद ईरान का ये प्लान, खोलेगा नए",
-      "url": "https://hindi.news18.com/world/middle-east-after-the-strait-of-hormuz-bab-el-mandeb-strait-will-blocked-iran-s-plan-halt-talks-with-us-10531147.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-01T19:53:41+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Strait-of-hormuz-Reuters-2026-06-b75142e19026fba23859134205b07b69-1200x800.jpg",
-      "summary": "ईरान होर्मुज के बाद बाब अल-मंडेब जलडमरूमध्य में भी बाधा उत्पन्न कर सकता है। इससे वैश्विक व्यापार और तेल आपूर्ति प्रभावित हो सकती है। मध्य पूर्व में संकट गहरा सकता है और भारत पर भी इसका असर पड़ सकता है। ईरान ने होर्मुज के बाद बाब अल-मंडेब स्ट्रेट में भी अड़गा लगा सकता है. इसका असर पूरी दुनिया पर देखने को मिल सकता है.",
+      "published_at": "2026-06-02T05:39:10+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Trump-Netanyahu-call.webp",
+      "summary": "डोनाल्ड ट्रंप ने इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू को फोन पर फटकार लगाई। ट्रंप ने कहा कि अगर वह (नेतन्याहू) उनकी सलाह मानते तो जेल में होते। यह बातचीत अमेरिका-इजरायल संबंधों के संदर्भ में हुई। US-Israel Relations: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच हुई फोन पर बातचीत सुर्खियों में है। मीडिया रिपोर्ट्स के मुताबिक, ट्रंप ने इजरायल के प्रधानमंत्री नेतन्याहू को फोन पर कड़ी फटकार लगा दी।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "होर्मुज के बाद अब ये रास्ता भी होगा बंद, अमेरिका से बातचीत रोकने के बाद ईरान का ये प्लान, खोलेगा नए",
-          "summary": "ईरान होर्मुज के बाद बाब अल-मंडेब जलडमरूमध्य में भी बाधा उत्पन्न कर सकता है। इससे वैश्विक व्यापार और तेल आपूर्ति प्रभावित हो सकती है। मध्य पूर्व में संकट गहरा सकता है और भारत पर भी इसका असर पड़ सकता है। ईरान ने होर्मुज के बाद बाब अल-मंडेब स्ट्रेट में भी अड़गा लगा सकता है. इसका असर पूरी दुनिया पर देखने को मिल सकता है.",
+          "title": "आप पागल हैं, मैं बचा रहा हूं, वरना जेल में होते- इजरायली PM नेतन्याहू पर जम कर बरसे डोनाल्ड ट्रंप!",
+          "summary": "डोनाल्ड ट्रंप ने इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू को फोन पर फटकार लगाई। ट्रंप ने कहा कि अगर वह (नेतन्याहू) उनकी सलाह मानते तो जेल में होते। यह बातचीत अमेरिका-इजरायल संबंधों के संदर्भ में हुई। US-Israel Relations: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच हुई फोन पर बातचीत सुर्खियों में है। मीडिया रिपोर्ट्स के मुताबिक, ट्रंप ने इजरायल के प्रधानमंत्री नेतन्याहू को फोन पर कड़ी फटकार लगा दी।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "तेल लेकर गुजर रहा था जहाज, बीच समंदर कमांडोज ने घेरा, भारत के दोस्त पर मढ़े आरोप",
-      "url": "https://hindi.news18.com/world/europe-ship-carrying-oil-intercepted-mid-sea-by-france-commandos-allegations-leveled-against-russia-10531507.html",
+      "title": "सुप्रीम कोर्ट में पांच नए जज: सीजेआई सूर्यकांत ने दिलाई शपथ, पहली बार न्यायाधीशों की संख्या बढ़कर",
+      "url": "https://www.amarujala.com/india-news/cji-surya-kant-supreme-court-justices-oath-of-office-sheel-nagu-shree-chandrashekhar-and-others-hindi-news-2026-06-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-02T05:36:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/01/supreme-court_2595a7fda120cd484573e22507e0fed1.jpeg?w=750&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट में पांच नए न्यायाधीशों ने शपथ ली। मुख्य न्यायाधीश सूर्यकांत ने उन्हें पद की शपथ दिलाई। इसके साथ ही सुप्रीम कोर्ट में न्यायाधीशों की कुल संख्या बढ़कर 37 हो गई है। यह पहली बार है जब सुप्रीम कोर्ट में न्यायाधीशों की संख्या पूर्ण क्षमता तक पहुंची है। सुप्रीम कोर्ट में पांच नए जज: सीजेआई सूर्यकांत ने दिलाई शपथ, पहली बार न्यायाधीशों की संख्या बढ़कर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुप्रीम कोर्ट में पांच नए जज: सीजेआई सूर्यकांत ने दिलाई शपथ, पहली बार न्यायाधीशों की संख्या बढ़कर",
+          "summary": "सुप्रीम कोर्ट में पांच नए न्यायाधीशों ने शपथ ली। मुख्य न्यायाधीश सूर्यकांत ने उन्हें पद की शपथ दिलाई। इसके साथ ही सुप्रीम कोर्ट में न्यायाधीशों की कुल संख्या बढ़कर 37 हो गई है। यह पहली बार है जब सुप्रीम कोर्ट में न्यायाधीशों की संख्या पूर्ण क्षमता तक पहुंची है। सुप्रीम कोर्ट में पांच नए जज: सीजेआई सूर्यकांत ने दिलाई शपथ, पहली बार न्यायाधीशों की संख्या बढ़कर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "स्नातक के साथ कंप्यूटर में है डिप्लोमा? इलाहाबाद हाई कोर्ट में RO-ARO की 543 नौकरियां",
+      "url": "https://www.amarujala.com/jobs/government-jobs/allahabad-hc-recruitment-2026-543-vacancies-for-ro-aro-and-computer-assistant-posts-2026-06-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-02T05:36:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/12/allahabad-high-court_e77a7a9e1660c508d5c7bedc101daaa0.jpeg?w=750&dpr=1.0",
+      "summary": "इलाहाबाद उच्च न्यायालय ने समीक्षा अधिकारी, सहायक समीक्षा अधिकारी और कंप्यूटर सहायक के 543 पदों के लिए भर्ती प्रक्रिया शुरू की है। इन पदों के लिए आवेदन करने हेतु उम्मीदवारों के पास कंप्यूटर में डिप्लोमा के साथ स्नातक की डिग्री होना आवश्यक है। यह भर्ती प्रक्रिया योग्य उम्मीदवारों को सरकारी नौकरी का अवसर प्रदान करती है। Allahabad HC RO-ARO Recruitment: इलाहाबाद उच्च न्यायालय ने समीक्षा अधिकारी, सहायक समीक्षा अधिकारी और कंप्यूटर सहायक के 543 पदों पर भर्ती के लिए आवेदन प्रक्रिया शुरू कर दी है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्नातक के साथ कंप्यूटर में है डिप्लोमा? इलाहाबाद हाई कोर्ट में RO-ARO की 543 नौकरियां",
+          "summary": "इलाहाबाद उच्च न्यायालय ने समीक्षा अधिकारी, सहायक समीक्षा अधिकारी और कंप्यूटर सहायक के 543 पदों के लिए भर्ती प्रक्रिया शुरू की है। इन पदों के लिए आवेदन करने हेतु उम्मीदवारों के पास कंप्यूटर में डिप्लोमा के साथ स्नातक की डिग्री होना आवश्यक है। यह भर्ती प्रक्रिया योग्य उम्मीदवारों को सरकारी नौकरी का अवसर प्रदान करती है। Allahabad HC RO-ARO Recruitment: इलाहाबाद उच्च न्यायालय ने समीक्षा अधिकारी, सहायक समीक्षा अधिकारी और कंप्यूटर सहायक के 543 पदों पर भर्ती के लिए आवेदन प्रक्रिया शुरू कर दी है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'एक समय था जब...', 'है जवानी तो इश्क होना है' बनाते वक्त कैसी थी डेविड धवन की तबीयत; वरुण धवन ने दी",
+      "url": "https://www.amarujala.com/entertainment/bollywood/hai-jawani-toh-ishq-hona-hai-actor-varun-dhawan-recalls-father-david-health-struggles-during-film-making-2026-06-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-02T05:33:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/varanae-thhavana_7b2f3f5ce48ca1491cc80d753f0b6daf.jpeg?w=750&dpr=1.0",
+      "summary": "वरुण धवन ने बताया कि 'है जवानी तो इश्क होना है' की शूटिंग के दौरान उनके पिता डेविड धवन की तबीयत ठीक नहीं थी। उन्होंने कहा कि यह फिल्म उनके पिता के लिए बहुत खास है। वरुण धवन अपनी अपकमिंग फिल्म 'है जवानी तो इश्क होना है' को लेकर चर्चा में हैं। 'एक समय था जब ', 'है जवानी तो इश्क होना है' बनाते वक्त कैसी थी डेविड धवन की तबीयत; वरुण धवन ने दी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'एक समय था जब...', 'है जवानी तो इश्क होना है' बनाते वक्त कैसी थी डेविड धवन की तबीयत; वरुण धवन ने दी",
+          "summary": "वरुण धवन ने बताया कि 'है जवानी तो इश्क होना है' की शूटिंग के दौरान उनके पिता डेविड धवन की तबीयत ठीक नहीं थी। उन्होंने कहा कि यह फिल्म उनके पिता के लिए बहुत खास है। वरुण धवन अपनी अपकमिंग फिल्म 'है जवानी तो इश्क होना है' को लेकर चर्चा में हैं। 'एक समय था जब ', 'है जवानी तो इश्क होना है' बनाते वक्त कैसी थी डेविड धवन की तबीयत; वरुण धवन ने दी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "चना और दही मिलाकर बनाएं ऐसी रोटियां, सुधरेगा पाचन और तेजी से घटेगा वजन",
+      "url": "https://www.amarujala.com/lifestyle/healthy-food/high-protein-roti-recipe-in-hindi-healthy-weight-loss-chana-dahi-roti-ke-fayde-2026-06-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-02T05:31:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/high-protein-roti-for-weight-loss_a166c1875d1530ce1752488ac5d8da20.jpeg?w=750&dpr=1.0",
+      "summary": "चना और दही से बनी रोटियां पाचन सुधारने और वजन घटाने में मदद कर सकती हैं। यह रेसिपी पेट को लंबे समय तक भरा रखती है। Healthy Weight Loss Roti Recipe: चना और दही मिलाकर बनाई गई हेल्दी रोटियां पाचन सुधारने, वजन नियंत्रित करने और लंबे समय तक पेट भरा रखने में मदद कर सकती हैं। जानिए इसकी आसान रेसिपी, फायदे और खाने का सही तरीका।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चना और दही मिलाकर बनाएं ऐसी रोटियां, सुधरेगा पाचन और तेजी से घटेगा वजन",
+          "summary": "चना और दही से बनी रोटियां पाचन सुधारने और वजन घटाने में मदद कर सकती हैं। यह रेसिपी पेट को लंबे समय तक भरा रखती है। Healthy Weight Loss Roti Recipe: चना और दही मिलाकर बनाई गई हेल्दी रोटियां पाचन सुधारने, वजन नियंत्रित करने और लंबे समय तक पेट भरा रखने में मदद कर सकती हैं। जानिए इसकी आसान रेसिपी, फायदे और खाने का सही तरीका।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मगरमच्छ और हिप्पो के बीच हुई जबरदस्त लड़ाई देख खड़े हो जाएंगे रोंगटे, वायरल हुआ खौफनाक वीडियो",
+      "url": "https://www.amarujala.com/bizarre-news/fight-broke-out-between-crocodile-and-hippo-video-goes-viral-on-social-media-2026-06-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-02T05:20:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/crocodile-hippo-fight-video_3c09950cc11181e612fd20e4f4c2b9f9.jpeg?w=750&dpr=1.0",
+      "summary": "सोशल मीडिया पर मगरमच्छ और दरियाई घोड़े के बीच हुई लड़ाई का एक वीडियो वायरल हो रहा है। यह वीडियो काफी खौफनाक है। सोशल मीडिया पर मगरमच्छ और दरियाई घोड़े की भयानक लड़ाई का एक वीडियो वायरल हो रहा है। जिसे देखने के बाद आपके भी होश उड़ जाएंगे। मगरमच्छ और हिप्पो के बीच हुई जबरदस्त लड़ाई देख खड़े हो जाएंगे रोंगटे, वायरल हुआ खौफनाक वीडियो।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मगरमच्छ और हिप्पो के बीच हुई जबरदस्त लड़ाई देख खड़े हो जाएंगे रोंगटे, वायरल हुआ खौफनाक वीडियो",
+          "summary": "सोशल मीडिया पर मगरमच्छ और दरियाई घोड़े के बीच हुई लड़ाई का एक वीडियो वायरल हो रहा है। यह वीडियो काफी खौफनाक है। सोशल मीडिया पर मगरमच्छ और दरियाई घोड़े की भयानक लड़ाई का एक वीडियो वायरल हो रहा है। जिसे देखने के बाद आपके भी होश उड़ जाएंगे। मगरमच्छ और हिप्पो के बीच हुई जबरदस्त लड़ाई देख खड़े हो जाएंगे रोंगटे, वायरल हुआ खौफनाक वीडियो।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मणिपुर में रंगदारी वसूली के आरोप में तीन उग्रवादी गिरफ्तार; सिक्किम की संस्कृति सीखेंगे ITBP जवान",
+      "url": "https://www.amarujala.com/india-news/news-updates-of-2-june-india-news-odisha-west-bengal-politics-crime-news-in-hindi-2026-06-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-02T05:19:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_f989854be53005d7e8cde31bdce9e126.jpeg?w=750&dpr=1.0",
+      "summary": "मणिपुर में रंगदारी वसूली के आरोप में तीन उग्रवादियों को गिरफ्तार किया गया। आईटीबीपी के जवान सिक्किम की संस्कृति सीखेंगे। मणिपुर में रंगदारी वसूली के आरोप में तीन उग्रवादी गिरफ्तार; सिक्किम की संस्कृति सीखेंगे ITBP जवान।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मणिपुर में रंगदारी वसूली के आरोप में तीन उग्रवादी गिरफ्तार; सिक्किम की संस्कृति सीखेंगे ITBP जवान",
+          "summary": "मणिपुर में रंगदारी वसूली के आरोप में तीन उग्रवादियों को गिरफ्तार किया गया। आईटीबीपी के जवान सिक्किम की संस्कृति सीखेंगे। मणिपुर में रंगदारी वसूली के आरोप में तीन उग्रवादी गिरफ्तार; सिक्किम की संस्कृति सीखेंगे ITBP जवान।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "वायरल वीडियो पर पुलिस का दावा: व्यक्ति अकेला कर रहा था यात्रा , ट्रैफिक जाम में नहीं फंसी थी कोई",
+      "url": "https://www.amarujala.com/india-news/police-claim-on-viral-video-man-was-travelling-alone-no-pregnant-woman-was-stuck-in-traffic-jam-2026-06-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-02T05:17:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/sakataka-tasavara_09cbddfb4a52048c2c27c83ebde3585b.jpeg?w=750&dpr=1.0",
+      "summary": "पुलिस ने वायरल वीडियो पर दावा किया कि एक व्यक्ति अकेले यात्रा कर रहा था। वीडियो में दिख रहा व्यक्ति ट्रैफिक जाम में फंसा नहीं था। वायरल वीडियो पर पुलिस का दावा: व्यक्ति अकेला कर रहा था यात्रा, ट्रैफिक जाम में नहीं फंसी थी कोई गर्भवती महिला।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वायरल वीडियो पर पुलिस का दावा: व्यक्ति अकेला कर रहा था यात्रा , ट्रैफिक जाम में नहीं फंसी थी कोई",
+          "summary": "पुलिस ने वायरल वीडियो पर दावा किया कि एक व्यक्ति अकेले यात्रा कर रहा था। वीडियो में दिख रहा व्यक्ति ट्रैफिक जाम में फंसा नहीं था। वायरल वीडियो पर पुलिस का दावा: व्यक्ति अकेला कर रहा था यात्रा, ट्रैफिक जाम में नहीं फंसी थी कोई गर्भवती महिला।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दोस्त-दोस्त न रहा? नेतन्याहू से अचानक 'रूठ' क्यों गए डोनाल्ड ट्रंप, ईरान के चलते इजरायल को क्यों",
+      "url": "https://hindi.news18.com/world/america-everyone-hates-you-why-donald-trump-suddenly-called-netanyahu-crazy-on-phone-over-middle-east-clash-between-us-israel-ws-l-10532203.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-01T19:29:38+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Emmanuel-Macron-X-Photo-2026-06-ff651a074c6a9532fbf567a33da5d478-1200x800.jpg",
-      "summary": "राष्ट्रपति मैक्रॉन ने बताया कि रविवार को अटलांटिक में टैगोर नामक एक टैंकर पर फ्रांसीसी नौसेना के कमांडो राष्ट्रपति मैक्रॉन ने कहा कि टैगोर नाम का ये जहाज पर रविवार को अटलांटिक में सैनिक सवार हुए थे. एचएमएस समरसेट पर सवार एक हेलीकॉप्टर से ब्रिटिश सेना ने फ्रांसीसी नौसेना को टैंकर पर सवार होने से पहले उसकी निगरानी और ट्रैकिंग में मदद की.",
+      "published_at": "2026-06-02T05:14:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/donald-trump-and-benjamin-netanyahu-clash-2026-06-f4c1472e48e08106f46b1ff2b504d87a-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप और बेंजामिन नेतन्याहू के बीच ईरान नीति पर मतभेद के चलते तल्खी आ गई है. 1 जून को फोन पर हुई तीखी बहस के बाद ट्रंप ने इजरायल की सैन्य कार्रवाई पर कड़ा विरोध जताया. डोनाल्ड ट्रंप और बेंजामिन नेतन्याहू के बीच तल्‍खी की खबरें सामने आ रही हैं. 1 जून को दोनों दोस्‍तों के बीच में हुई फोन पर तीखी बहस के बाद दोस्‍ती में दरार के साथ ही डोनाल्‍ड ट्रंप के रूठने को लेकर अटकलें लगाई जा रही हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दोस्त-दोस्त न रहा? नेतन्याहू से अचानक 'रूठ' क्यों गए डोनाल्ड ट्रंप, ईरान के चलते इजरायल को क्यों",
+          "summary": "डोनाल्ड ट्रंप और बेंजामिन नेतन्याहू के बीच ईरान नीति पर मतभेद के चलते तल्खी आ गई है. 1 जून को फोन पर हुई तीखी बहस के बाद ट्रंप ने इजरायल की सैन्य कार्रवाई पर कड़ा विरोध जताया. डोनाल्ड ट्रंप और बेंजामिन नेतन्याहू के बीच तल्‍खी की खबरें सामने आ रही हैं. 1 जून को दोनों दोस्‍तों के बीच में हुई फोन पर तीखी बहस के बाद दोस्‍ती में दरार के साथ ही डोनाल्‍ड ट्रंप के रूठने को लेकर अटकलें लगाई जा रही हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान को लेकर भिड़ गए ट्रंप-नेतन्याहू, जमकर कहासुनी के बाद माना इजरायल, हिजबुल्ला का क्या?",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-news-update-donald-trump-netanyahu-altercation-on-lebanon-middle-east-conflict-livenews-10531746.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-02T05:12:18+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/israel-us-2026-06-a5beee7ea756aa4a358566dd4132b97f-1200x800.jpg",
+      "summary": "अमेरिका-ईरान समझौते पर बात के बीच ट्रंप को लगा कि इजरायल रोड़ा बन रहा है. उन्होंने नेतन्याहू से हमले रोकने को कहा. इसके बावजूद इजरायल ने हिजबुल्ला पर हमले जारी रखे. US-Israel Disagreement over Iran Issue: अमेरिका-ईरान के बीच समझौते को लेकर लगातार बात चल रही है लेकिन इसी बीच पारा तब और गरमा गया, जब ट्रंप को लगने लगा कि इजरायल ही वो रोड़ा है, जो दोनों देशों के बीच डील नहीं होने दे रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान को लेकर भिड़ गए ट्रंप-नेतन्याहू, जमकर कहासुनी के बाद माना इजरायल, हिजबुल्ला का क्या?",
+          "summary": "अमेरिका-ईरान समझौते पर बात के बीच ट्रंप को लगा कि इजरायल रोड़ा बन रहा है. उन्होंने नेतन्याहू से हमले रोकने को कहा. इसके बावजूद इजरायल ने हिजबुल्ला पर हमले जारी रखे. US-Israel Disagreement over Iran Issue: अमेरिका-ईरान के बीच समझौते को लेकर लगातार बात चल रही है लेकिन इसी बीच पारा तब और गरमा गया, जब ट्रंप को लगने लगा कि इजरायल ही वो रोड़ा है, जो दोनों देशों के बीच डील नहीं होने दे रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हेल्दी समझकर खा रहे हैं स्प्राउट्स? जानिए कब ये बन सकते हैं बीमारी की वजह",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/side-effects-of-eating-sprouts-daily-right-way-to-eat-sprouts-2026-06-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-02T05:08:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/sprouts_73943c419bf2d0720287533fb005d1cb.jpeg?w=750&dpr=1.0",
+      "summary": "स्प्राउट्स खाने का गलत तरीका आपको बीमार कर सकता है. हर रोज स्प्राउट्स खाने से आप हमेशा स्वस्थ रहें, यह जरूरी नहीं है. Right Way To Eat Sprouts: अगर आपको भी लगता कि हर रोज स्प्राउट्स खाकर आप हेल्दी रह सकते हैं तो ये खबर आपके लिए है। हेल्दी समझकर खा रहे हैं स्प्राउट्स? जानिए कब ये बन सकते हैं बीमारी की वजह।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हेल्दी समझकर खा रहे हैं स्प्राउट्स? जानिए कब ये बन सकते हैं बीमारी की वजह",
+          "summary": "स्प्राउट्स खाने का गलत तरीका आपको बीमार कर सकता है. हर रोज स्प्राउट्स खाने से आप हमेशा स्वस्थ रहें, यह जरूरी नहीं है. Right Way To Eat Sprouts: अगर आपको भी लगता कि हर रोज स्प्राउट्स खाकर आप हेल्दी रह सकते हैं तो ये खबर आपके लिए है। हेल्दी समझकर खा रहे हैं स्प्राउट्स? जानिए कब ये बन सकते हैं बीमारी की वजह।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कोबरा कमांडो दुनिया की टॉप कमांडो फोर्सेज को देते हैं टक्कर, 'जंगल युद्ध' में हैं पारंगत; खासियत",
+      "url": "https://www.amarujala.com/india-news/manipur-s-cobra-commandos-take-on-the-world-s-top-commando-forces-know-about-their-specialties-2026-06-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-02T05:07:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/kabra-ikaii_be3f8f1dfb04c38fbba12a84285b93b8.jpeg?w=750&dpr=1.0",
+      "summary": "मणिपुर के कोबरा कमांडो 'जंगल युद्ध' में पारंगत हैं. वे दुनिया की शीर्ष कमांडो फौजों को टक्कर देते हैं. कोबरा कमांडो दुनिया की टॉप कमांडो फोर्सेज को देते हैं टक्कर, 'जंगल युद्ध' में हैं पारंगत; खासियत।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कोबरा कमांडो दुनिया की टॉप कमांडो फोर्सेज को देते हैं टक्कर, 'जंगल युद्ध' में हैं पारंगत; खासियत",
+          "summary": "मणिपुर के कोबरा कमांडो 'जंगल युद्ध' में पारंगत हैं. वे दुनिया की शीर्ष कमांडो फौजों को टक्कर देते हैं. कोबरा कमांडो दुनिया की टॉप कमांडो फोर्सेज को देते हैं टक्कर, 'जंगल युद्ध' में हैं पारंगत; खासियत।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "इलेक्ट्रॉनिक्स क्षेत्र में नौकरियां बेशुमार, 12वीं के बाद तुरंत बनाएं करियर; लाखों में मिलेगी सैलरी",
+      "url": "https://www.amarujala.com/photo-gallery/jobs/electronics-industry-offers-endless-job-opportunities-after-class-12-2026-06-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-02T05:05:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/18/career-tips_760a3f79a6a3e998232438818bc9f188.jpeg?w=750&dpr=1.0",
+      "summary": "इलेक्ट्रॉनिक्स क्षेत्र तेजी से बढ़ रहा है और कुशल युवाओं की मांग है. 12वीं के बाद डिप्लोमा या सर्टिफिकेट कोर्स करके इसमें करियर बनाया जा सकता है. Electronics Career: इलेक्ट्रॉनिक्स क्षेत्र आज देश के सबसे तेजी से बढ़ते उद्योगों में शामिल है, जहां कुशल युवाओं की लगातार मांग बनी हुई है। 12वीं के बाद डिप्लोमा या सर्टिफिकेट कोर्स करके छात्र कम समय में इस क्षेत्र में प्रवेश कर सकते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इलेक्ट्रॉनिक्स क्षेत्र में नौकरियां बेशुमार, 12वीं के बाद तुरंत बनाएं करियर; लाखों में मिलेगी सैलरी",
+          "summary": "इलेक्ट्रॉनिक्स क्षेत्र तेजी से बढ़ रहा है और कुशल युवाओं की मांग है. 12वीं के बाद डिप्लोमा या सर्टिफिकेट कोर्स करके इसमें करियर बनाया जा सकता है. Electronics Career: इलेक्ट्रॉनिक्स क्षेत्र आज देश के सबसे तेजी से बढ़ते उद्योगों में शामिल है, जहां कुशल युवाओं की लगातार मांग बनी हुई है। 12वीं के बाद डिप्लोमा या सर्टिफिकेट कोर्स करके छात्र कम समय में इस क्षेत्र में प्रवेश कर सकते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "27 सेकंड में 8 बार पटका: आरव का कत्ल कर ये काम करने वाला था 'कातिल', फिर बदला प्लान; विराज का एक और",
+      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/agra/firozabad-aarav-murder-case-accused-killer-viraj-intended-to-commit-suicide-after-murder-of-an-innocent-2026-06-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-02T04:59:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/firozabad-aarav-murder_78bf1e13bc1b664c083b207b1126cd5e.jpeg?w=750&dpr=1.0",
+      "summary": "फिरोजाबाद के शिकोहाबाद में डेढ़ साल के आरव की आठ बार जमीन पर पटक कर हत्या करने के आरोपी विराज उर्फ जितेंद्र पाठक ने पुलिस पूछताछ में नए खुलासे किए हैं। वह बच्चे की हत्या के बाद कुछ और करने की योजना बना रहा था। फिरोजाबाद के शिकोहाबाद की यादव कॉलोनी में शनिवार को डेढ साल के मासूम आरव की आठ बार जमीन पर पटक कर हत्या करने का आरोपी विराज उर्फ जितेंद्र पाठक पुलिस पूछताछ में हर दिन नए और चौंकाने वाले खुलासे कर रहा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "27 सेकंड में 8 बार पटका: आरव का कत्ल कर ये काम करने वाला था 'कातिल', फिर बदला प्लान; विराज का एक और",
+          "summary": "फिरोजाबाद के शिकोहाबाद में डेढ़ साल के आरव की आठ बार जमीन पर पटक कर हत्या करने के आरोपी विराज उर्फ जितेंद्र पाठक ने पुलिस पूछताछ में नए खुलासे किए हैं। वह बच्चे की हत्या के बाद कुछ और करने की योजना बना रहा था। फिरोजाबाद के शिकोहाबाद की यादव कॉलोनी में शनिवार को डेढ साल के मासूम आरव की आठ बार जमीन पर पटक कर हत्या करने का आरोपी विराज उर्फ जितेंद्र पाठक पुलिस पूछताछ में हर दिन नए और चौंकाने वाले खुलासे कर रहा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान खो रहा बलूचिस्तान? बलोच लड़ाकों का दावा, मई में आसिम मुनीर के 65 सैनिक किए ढेर",
+      "url": "https://hindi.news18.com/world/pakistan-is-pakistan-losing-balochistan-bla-claims-49-attacks-65-pak-soldiers-killed-in-may-2026-is-balochistan-moving-towards-liberation-ws-l-10516349.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-02T04:57:23+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Your-paragraph-text-1600-x-900-px-19-2026-06-a1558ff528b97eea5e71d03f061e423f-1200x800.jpg",
+      "summary": "बलोच लिबरेशन आर्मी (BLA) ने मई 2026 में पाकिस्तान में 49 हमले करने का दावा किया है। BLA के अनुसार, इन हमलों में 65 पाकिस्तानी सैनिक मारे गए और 25 से अधिक क्षेत्रों में विद्रोह फैला। मई 2026 में BLA ने पाकिस्तान में 49 हमलों, 65 पाक सैनिकों के मारे जाने और 25 से ज्यादा इलाकों में फैले विद्रोह का दावा किया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान खो रहा बलूचिस्तान? बलोच लड़ाकों का दावा, मई में आसिम मुनीर के 65 सैनिक किए ढेर",
+          "summary": "बलोच लिबरेशन आर्मी (BLA) ने मई 2026 में पाकिस्तान में 49 हमले करने का दावा किया है। BLA के अनुसार, इन हमलों में 65 पाकिस्तानी सैनिक मारे गए और 25 से अधिक क्षेत्रों में विद्रोह फैला। मई 2026 में BLA ने पाकिस्तान में 49 हमलों, 65 पाक सैनिकों के मारे जाने और 25 से ज्यादा इलाकों में फैले विद्रोह का दावा किया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इस्राइल-लेबनान संघर्ष पर कांग्रेस ने सरकार को घेरा, जयराम रमेश बोले- PM मोदी की चुप्पी पर गंभीर सवाल",
+      "url": "https://www.amarujala.com/india-news/congress-targets-govt-over-israel-lebanon-conflict-jairam-ramesh-raises-questions-on-pm-modi-s-silence-2026-06-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-02T04:56:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/kaya-bl-jayarama-ramasha_7fc59ce354e594ee034d41a971fcfd5c.jpeg?w=750&dpr=1.0",
+      "summary": "कांग्रेस ने इस्राइल-लेबनान संघर्ष पर भारत सरकार की प्रतिक्रिया पर सवाल उठाए हैं। जयराम रमेश ने प्रधानमंत्री मोदी की चुप्पी को लेकर गंभीर चिंता व्यक्त की है। Congress: इस्राइल-लेबनान संघर्ष पर कांग्रेस ने सरकार को घेरा, जयराम रमेश बोले- PM मोदी की चुप्पी पर गंभीर सवाल।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इस्राइल-लेबनान संघर्ष पर कांग्रेस ने सरकार को घेरा, जयराम रमेश बोले- PM मोदी की चुप्पी पर गंभीर सवाल",
+          "summary": "कांग्रेस ने इस्राइल-लेबनान संघर्ष पर भारत सरकार की प्रतिक्रिया पर सवाल उठाए हैं। जयराम रमेश ने प्रधानमंत्री मोदी की चुप्पी को लेकर गंभीर चिंता व्यक्त की है। Congress: इस्राइल-लेबनान संघर्ष पर कांग्रेस ने सरकार को घेरा, जयराम रमेश बोले- PM मोदी की चुप्पी पर गंभीर सवाल।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "राजधानी में बड़ा हादसा, जोरदार धमाके के बाद गिरा मकान, तीन लोग मलबे से निकाले",
+      "url": "https://www.amarujala.com/delhi-ncr/noida/building-collapses-in-delhi-s-mukundpur-several-people-trapped-under-the-rubble-2026-06-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-02T04:56:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/makathapara-ilka-ma-gara-makana_a10102d48fa89ddb0098e0eeac6dc970.png?w=750&dpr=1.0",
+      "summary": "दिल्ली के मुकुंदपुर इलाके में एक मकान में जोरदार धमाका हुआ। धमाके के बाद मकान गिर गया। मलबे से तीन लोगों को सुरक्षित निकाला गया है। दिल्ली के मुकुंदपुर इलाके में आज सुबह एक बड़े हादसे की खबर सामने आई है। यहां एक जोरदार धमाके के बाद एक मकान गिर गया। राजधानी में बड़ा हादसा, जोरदार धमाके के बाद गिरा मकान, तीन लोग मलबे से निकाले।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राजधानी में बड़ा हादसा, जोरदार धमाके के बाद गिरा मकान, तीन लोग मलबे से निकाले",
+          "summary": "दिल्ली के मुकुंदपुर इलाके में एक मकान में जोरदार धमाका हुआ। धमाके के बाद मकान गिर गया। मलबे से तीन लोगों को सुरक्षित निकाला गया है। दिल्ली के मुकुंदपुर इलाके में आज सुबह एक बड़े हादसे की खबर सामने आई है। यहां एक जोरदार धमाके के बाद एक मकान गिर गया। राजधानी में बड़ा हादसा, जोरदार धमाके के बाद गिरा मकान, तीन लोग मलबे से निकाले।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की नाराजगी के बाद पीछे हटे नेतन्याहू, अमेरिकी राष्ट्रपति का दावा- अब लेबनान पर नहीं करेंगे",
+      "url": "https://www.amarujala.com/world/israel-pm-benjamin-netanyahu-calls-off-lebanon-raid-after-heated-call-with-donald-trump-2026-06-02",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-02T04:55:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/donald-trump-israel_c1afbdb18ef117d3a706b61c4b8fe692.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के साथ फोन पर हुई बातचीत के बाद इस्राइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने लेबनान पर हमले की योजना रद्द कर दी है। ट्रंप ने इस बात की पुष्टि की है। ट्रंप की नाराजगी के बाद पीछे हटे नेतन्याहू, अमेरिकी राष्ट्रपति का दावा- अब लेबनान पर नहीं करेंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की नाराजगी के बाद पीछे हटे नेतन्याहू, अमेरिकी राष्ट्रपति का दावा- अब लेबनान पर नहीं करेंगे",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के साथ फोन पर हुई बातचीत के बाद इस्राइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने लेबनान पर हमले की योजना रद्द कर दी है। ट्रंप ने इस बात की पुष्टि की है। ट्रंप की नाराजगी के बाद पीछे हटे नेतन्याहू, अमेरिकी राष्ट्रपति का दावा- अब लेबनान पर नहीं करेंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सलमान खान को आया गुस्सा! भाईजान की लीगल टीम ने 'काला हिरण' के निर्माता-निर्देशक को भेजा नोटिस; दी",
+      "url": "https://www.amarujala.com/entertainment/bollywood/salman-khan-sends-legal-notice-to-makers-of-kala-hiran-film-allegedly-inspired-by-his-blackbuck-case-2026-06-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-02T04:48:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/salmana-khana_8adb2247a3483061be3af1ca9a3655a9.jpeg?w=750&dpr=1.0",
+      "summary": "सलमान खान की लीगल टीम ने 'काला हिरण' के निर्माता-निर्देशक को नोटिस भेजा है। यह कार्रवाई सलमान खान और लॉरेंस बिश्नोई के बीच चल रहे विवाद के संदर्भ में हुई है। बॉलीवुड के सुपरस्टार सलमान खान और लॉरेंस बिश्नोई के बीच का विवाद चर्चा में है। सलमान खान को आया गुस्सा! भाईजान की लीगल टीम ने 'काला हिरण' के निर्माता-निर्देशक को भेजा नोटिस; दी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सलमान खान को आया गुस्सा! भाईजान की लीगल टीम ने 'काला हिरण' के निर्माता-निर्देशक को भेजा नोटिस; दी",
+          "summary": "सलमान खान की लीगल टीम ने 'काला हिरण' के निर्माता-निर्देशक को नोटिस भेजा है। यह कार्रवाई सलमान खान और लॉरेंस बिश्नोई के बीच चल रहे विवाद के संदर्भ में हुई है। बॉलीवुड के सुपरस्टार सलमान खान और लॉरेंस बिश्नोई के बीच का विवाद चर्चा में है। सलमान खान को आया गुस्सा! भाईजान की लीगल टीम ने 'काला हिरण' के निर्माता-निर्देशक को भेजा नोटिस; दी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अनिल अग्रवाल के वेदांता समूह पर ईडी की छापेमारी, FEMA उल्लंघन के मामले में तलाशी अभियान जारी",
+      "url": "https://www.amarujala.com/business/business-diary/ed-raids-anil-agarwal-s-vedanta-group-search-operation-underway-in-fema-violation-case-2026-06-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-02T04:46:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/vedanta-group-ed_32367f6e3c0497d2e5d1997d122c4abd.jpeg?w=750&dpr=1.0",
+      "summary": "प्रवर्तन निदेशालय (ईडी) ने अनिल अग्रवाल के वेदांता समूह के खिलाफ फेमा उल्लंघन के मामले में तलाशी अभियान शुरू किया है। यह छापेमारी समूह के खिलाफ चल रही जांच का हिस्सा है। अनिल अग्रवाल के वेदांता समूह पर ईडी की छापेमारी, FEMA उल्लंघन के मामले में तलाशी अभियान जारी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अनिल अग्रवाल के वेदांता समूह पर ईडी की छापेमारी, FEMA उल्लंघन के मामले में तलाशी अभियान जारी",
+          "summary": "प्रवर्तन निदेशालय (ईडी) ने अनिल अग्रवाल के वेदांता समूह के खिलाफ फेमा उल्लंघन के मामले में तलाशी अभियान शुरू किया है। यह छापेमारी समूह के खिलाफ चल रही जांच का हिस्सा है। अनिल अग्रवाल के वेदांता समूह पर ईडी की छापेमारी, FEMA उल्लंघन के मामले में तलाशी अभियान जारी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में गोलीबारी से 7 लोगों की मौत, घरेलू विवाद से जुड़ा मामला",
+      "url": "https://www.patrika.com/world-news/america-iowa-shooting-over-domestic-dispute-7-dead-20631694",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-02T04:39:49+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/America-Iowa-Shooting.webp",
+      "summary": "आयोवा के मस्कटाइन शहर में एक घरेलू विवाद के कारण हुई गोलीबारी में छह लोगों की मौत हो गई। हमलावर ने तीन अलग-अलग जगहों पर गोली चलाई और बाद में आत्महत्या कर ली। America Iowa shooting: अमेरिका के आयोवा राज्य के मस्कटाइन शहर में सोमवार को घरेलू विवाद को लेकर हुई गोलीबारी में छह लोगों की मौत हो गई। पुलिस के अनुसार, 52 साल का रयान विलिस मैकफार्लैंड नामक व्यक्ति ने तीन अलग-अलग स्थानों पर गोली चलाकर छह लोगों की हत्या की और बाद में खुद को गोली मारकर आत्महत्या कर ली।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में गोलीबारी से 7 लोगों की मौत, घरेलू विवाद से जुड़ा मामला",
+          "summary": "आयोवा के मस्कटाइन शहर में एक घरेलू विवाद के कारण हुई गोलीबारी में छह लोगों की मौत हो गई। हमलावर ने तीन अलग-अलग जगहों पर गोली चलाई और बाद में आत्महत्या कर ली। America Iowa shooting: अमेरिका के आयोवा राज्य के मस्कटाइन शहर में सोमवार को घरेलू विवाद को लेकर हुई गोलीबारी में छह लोगों की मौत हो गई। पुलिस के अनुसार, 52 साल का रयान विलिस मैकफार्लैंड नामक व्यक्ति ने तीन अलग-अलग स्थानों पर गोली चलाकर छह लोगों की हत्या की और बाद में खुद को गोली मारकर आत्महत्या कर ली।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "हादसे में बेटे को खोने वाली माँ का छलका दर्द, कहा – ‘वह हर जगह मेरे साथ रहता है’",
+      "url": "https://www.patrika.com/national-news/ahmedabad-plane-crash-victim-javed-ali-mother-farida-bano-says-son-follows-her-everywhere-20631589",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-02T04:37:56+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/air-india-plane-crash-in-ahmedabad.webp",
+      "summary": "अहमदाबाद में 12 जून 2025 को एयर इंडिया के बोइंग ड्रीमलाइनर 787-8 विमान के दुर्घटनाग्रस्त होने के बाद एक माँ ने अपने बेटे को खोने का दर्द बयां किया। अहमदाबाद विमान हादसा (Ahmedabad Plane Crash) दुनिया के सबसे भीषण विमान हादसों में से एक है। 12 जून 2025 को हुए इस हादसे ने पूरी देश को ही नहीं, बल्कि पूरी दुनिया को झकझोर दिया था।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "तेल लेकर गुजर रहा था जहाज, बीच समंदर कमांडोज ने घेरा, भारत के दोस्त पर मढ़े आरोप",
-          "summary": "राष्ट्रपति मैक्रॉन ने बताया कि रविवार को अटलांटिक में टैगोर नामक एक टैंकर पर फ्रांसीसी नौसेना के कमांडो राष्ट्रपति मैक्रॉन ने कहा कि टैगोर नाम का ये जहाज पर रविवार को अटलांटिक में सैनिक सवार हुए थे. एचएमएस समरसेट पर सवार एक हेलीकॉप्टर से ब्रिटिश सेना ने फ्रांसीसी नौसेना को टैंकर पर सवार होने से पहले उसकी निगरानी और ट्रैकिंग में मदद की.",
+          "title": "हादसे में बेटे को खोने वाली माँ का छलका दर्द, कहा – ‘वह हर जगह मेरे साथ रहता है’",
+          "summary": "अहमदाबाद में 12 जून 2025 को एयर इंडिया के बोइंग ड्रीमलाइनर 787-8 विमान के दुर्घटनाग्रस्त होने के बाद एक माँ ने अपने बेटे को खोने का दर्द बयां किया। अहमदाबाद विमान हादसा (Ahmedabad Plane Crash) दुनिया के सबसे भीषण विमान हादसों में से एक है। 12 जून 2025 को हुए इस हादसे ने पूरी देश को ही नहीं, बल्कि पूरी दुनिया को झकझोर दिया था।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "डोनाल्ड ट्रंप को तगड़ा झटका, कोर्ट ने पलटा ट्रांसजेंडर सैनिकों पर बैन, कहा-यह सिर्फ नुकसान पहुंचाने",
-      "url": "https://hindi.news18.com/world/america-court-rejects-trump-government-transgender-military-ban-ws-l-10531526.html",
+      "title": "न नौकरी बची, न अमेरिका में रहने का हक... 30 भारतीयों पर गिरी ट्रंप प्रशासन की गाज, वापस भेजे जाएंगे",
+      "url": "https://hindi.news18.com/world/america-30-indian-truck-drivers-held-during-operation-checkmate-for-illegally-working-in-us-likely-to-be-deported-to-india-10532099.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-01T18:32:20+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/TRump-17-2026-06-6cd20cc424d19dc499e406308a8b66db-1200x800.jpg",
-      "summary": "अमेरिकी अदालत ने सेना में ट्रांसजेंडर सैनिकों पर डोनाल्ड ट्रंप के प्रतिबंध को पलट दिया है। न्यायाधीश ने कहा कि यह निर्णय सेना के हित में नहीं था। यह एक विशिष्ट समूह को नुकसान पहुंचाने के लिए लिया गया था। डोनाल्ड ट्रंप को अमेरिकी अदालत से करारा झटका लगा है! कोर्ट ने सेना में ट्रांसजेंडर सैनिकों पर लगाए बैन को पलटते हुए ट्रंप सरकार को जमकर लताड़ा है.",
-      "region": "Americas",
+      "published_at": "2026-06-02T04:37:05+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Truck-Drivers-2026-06-1394caf43a6fb7f270365c592b184f5c-1200x800.jpg",
+      "summary": "एरिजोना में 'ऑपरेशन चेकमेट' के दौरान 30 भारतीय नागरिकों सहित 36 अवैध अप्रवासियों को हिरासत में लिया गया। इन भारतीयों को अमेरिका से निर्वासित कर भारत वापस भेजा जाएगा। Indian in US: एरिजोना के युमा सेक्टर में चलाए गए 'ऑपरेशन चेकमेट' के दौरान कुल 52 लोगों को हिरासत में लिया गया. इनमें 36 लोग ऐसे पाए गए जो अमेरिका में अवैध रूप से रह रहे थे और कमर्शियल ट्रक ड्राइवर के रूप में काम कर रहे थे.",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "डोनाल्ड ट्रंप को तगड़ा झटका, कोर्ट ने पलटा ट्रांसजेंडर सैनिकों पर बैन, कहा-यह सिर्फ नुकसान पहुंचाने",
-          "summary": "अमेरिकी अदालत ने सेना में ट्रांसजेंडर सैनिकों पर डोनाल्ड ट्रंप के प्रतिबंध को पलट दिया है। न्यायाधीश ने कहा कि यह निर्णय सेना के हित में नहीं था। यह एक विशिष्ट समूह को नुकसान पहुंचाने के लिए लिया गया था। डोनाल्ड ट्रंप को अमेरिकी अदालत से करारा झटका लगा है! कोर्ट ने सेना में ट्रांसजेंडर सैनिकों पर लगाए बैन को पलटते हुए ट्रंप सरकार को जमकर लताड़ा है.",
-          "region": "अमेरिका"
+          "title": "न नौकरी बची, न अमेरिका में रहने का हक... 30 भारतीयों पर गिरी ट्रंप प्रशासन की गाज, वापस भेजे जाएंगे",
+          "summary": "एरिजोना में 'ऑपरेशन चेकमेट' के दौरान 30 भारतीय नागरिकों सहित 36 अवैध अप्रवासियों को हिरासत में लिया गया। इन भारतीयों को अमेरिका से निर्वासित कर भारत वापस भेजा जाएगा। Indian in US: एरिजोना के युमा सेक्टर में चलाए गए 'ऑपरेशन चेकमेट' के दौरान कुल 52 लोगों को हिरासत में लिया गया. इनमें 36 लोग ऐसे पाए गए जो अमेरिका में अवैध रूप से रह रहे थे और कमर्शियल ट्रक ड्राइवर के रूप में काम कर रहे थे.",
+          "region": "यूरोप और रूस"
         }
       }
     }
