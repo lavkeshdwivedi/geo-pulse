@@ -1,21 +1,57 @@
 {
-  "generated_at": "2026-06-02T10:26:08.400238+00:00",
-  "article_count": 48,
-  "total_unique_count": 272,
+  "generated_at": "2026-06-02T14:53:54.543563+00:00",
+  "article_count": 50,
+  "total_unique_count": 271,
   "digest": {
-    "en": "Cambodia's UN maritime dispute with Thailand leads the news. The Houthis and Al-Shabaab's Red Sea plotting runs a close second. Markets are also misreading Nvidia's latest move.",
-    "hi": "मध्य पूर्व में इजरायल और ईरान के बीच तनाव बढ़ रहा है। अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने इजरायल के प्रधानमंत्री नेतन्याहू के साथ बातचीत की। भारत ने म्यांमार और नेपाल के साथ कूटनीतिक संबंध मजबूत किए हैं।"
+    "en": "The Red Sea shipping routes face new threats from Houthi and Al-Shabaab coordination. Meanwhile, Türkiye and Singapore are resisting global strategic realignments. Extreme weather events are also escalating with El Niño's confirmation.",
+    "hi": "लाल सागर में चीन और अमेरिका की सेनाएं आमने-सामने हैं। ईरान ने अमेरिका से बातचीत रोकी, जबकि पाकिस्तान को फरमान जारी हुआ। भारत ने अफ्रीका को इबोला से लड़ने के लिए मेडिकल किट भेजे।"
   },
   "articles": [
     {
-      "title": "Cambodia begins UN process to resolve maritime dispute with Thailand",
-      "url": "https://www.thehindu.com/news/international/cambodia-begins-un-process-to-resolve-maritime-dispute-with-thailand/article71051359.ece",
+      "title": "Türkiye, Singapore among countries rejecting ‘strategic resignation’ amid global disorder, says",
+      "url": "https://www.channelnewsasia.com/singapore/turkiye-foreign-minister-hakan-fidan-southeast-asia-6156586",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-02T14:24:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--DPuDymkS--/c_crop,h_900,w_1600,x_0,y_39/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/02/ayt_6915.jpg?itok=MVkG0Jkd",
+      "summary": "Turkish Minister Hakan Fidan spoke in Singapore, outlining Türkiye's rejection of \"strategic Speaking at a special lecture in Singapore, Minister Hakan Fidan touched on Israel and the Middle East conflict, finding alternative connectivity routes to the Straits of Hormuz and Ankara’s foreign policy approach in Southeast Asia. Türkiye, Singapore among countries rejecting ‘strategic resignation’ amid global disorder, says.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "South African ‘xenophobic’ attacks: Five citizens killed, says Mozambique",
+      "url": "https://www.thehindu.com/news/international/mozambique-says-people-killed-in-south-africa-xenophobic-attacks/article71051282.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-06-02T07:03:06+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/1gwztc/article71051528.ece/alternates/LANDSCAPE_1200/Cambodia_Thailand_02717.jpg",
-      "summary": "Cambodia began a United Nations mediation process to resolve its maritime dispute with Thailand. This followed Thailand's cancellation last month of a 2001 bilateral agreement. That agreement covered overlapping maritime claims and energy exploration. The move by Cambodia to begin the mediation process under the United Nations Convention on the Law of the Sea, followed Thailand’s cancellation last month of a 2001 bilateral agreement on overlapping maritime claims and energy exploration.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-06-02T12:29:25+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/tt1euz/article71051305.ece/alternates/LANDSCAPE_1200/iStock-1481903146.jpg",
+      "summary": "Mozambique reported five citizens killed in South Africa. The South African police only confirmed two Mozambicans had died in violence in the southern coastal town of Mossel Bay, the first killings to be officially linked to a new wave of anti-migrant protests sweeping the country. South African ‘xenophobic’ attacks: Five citizens killed, says Mozambique.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "El Niño confirmed, set to fuel more extreme weather, says WMO",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167620",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-02T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/04/24255/image770x420cropped.jpg",
+      "summary": "The UN confirmed El Niño's onset on Tuesday. The UN urged all countries on Tuesday to bolster early warning systems after confirming the onset of El Niño, warning that the Pacific Ocean-warming phenomenon will bring above-average temperatures “nearly everywhere” and fuel more extreme weather. El Niño confirmed, set to fuel more extreme weather, says WMO.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Massive Russian Strike On Ukraine Kills Civilians, Injures Dozens",
+      "url": "https://www.rferl.org/a/massive-russian-strike-on-ukraine-kills-civilians/33770894.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-06-02T10:32:49+00:00",
+      "image_url": "https://gdb.rferl.org/82fd5975-6e4c-4f8a-8e1a-08debadc418c_w1200_h630.jpg",
+      "summary": "Russia launched a massive drone and missile attack across Ukraine on June 2. Russia launched one of its largest drone-and-missile attacks on Ukraine, striking cities across the country. At least four people were killed in Kyiv and at least nine in Dnipro, with dozens more injured. Ukraine's Air Force said Russia fired 73 missiles and 656 drones overnight on June 2.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -272,16 +308,364 @@
       "translations": {}
     },
     {
-      "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167603",
-      "source": "UN News",
+      "title": "तालिबान के साये में बीता बचपन, भारत से है कनेक्शन, अब बनीं माउंट एवरेस्ट फतह करने वाली पहली अफगानी",
+      "url": "https://hindi.news18.com/news/lifestyle/trends-zakia-ahmad-becomes-first-afghan-woman-to-climb-mount-everest-worlds-highest-peak-indian-connection-ws-l-10534194.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-05-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-05-2026-UNCIEF-SVC.jpg/image770x420cropped.jpg",
-      "summary": "The United Nations reported nearly 10,000 cases of conflict-related sexual violence worldwide in 2025. This figure more than doubled from the previous year. Rape, sexual slavery, and abduction were used as weapons across Africa, the Middle East, Europe, and the Caribbean. Nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year – more than double the previous year's figure – as rape, sexual slavery and abduction were deployed as weapons of war across Africa, the Middle East, Europe and the Caribbean.",
+      "published_at": "2026-06-02T14:49:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Mount-everest-2026-06-ca250bd5a6eafd251c183f0c4ad0ad72-1200x800.jpg",
+      "summary": "जाकिया अहमद माउंट एवरेस्ट फतह करने वाली पहली अफगानी महिला बन गई हैं। अफगानिस्तान की जाकिया अहमद ने माउंट एवरेस्ट फतह कर इतिहास रच दिया है. तालिबान के साये में बचपन बिताने वाली जाकिया भारत में पढ़ाई भी कर चुकी हैं और अब एवरेस्ट पर पहुंचने वाली पहली अफगानी महिला बन गई हैं. उनकी यह उपलब्धि दुनिया भर में चर्चा का विषय बनी हुई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तालिबान के साये में बीता बचपन, भारत से है कनेक्शन, अब बनीं माउंट एवरेस्ट फतह करने वाली पहली अफगानी",
+          "summary": "जाकिया अहमद माउंट एवरेस्ट फतह करने वाली पहली अफगानी महिला बन गई हैं। अफगानिस्तान की जाकिया अहमद ने माउंट एवरेस्ट फतह कर इतिहास रच दिया है. तालिबान के साये में बचपन बिताने वाली जाकिया भारत में पढ़ाई भी कर चुकी हैं और अब एवरेस्ट पर पहुंचने वाली पहली अफगानी महिला बन गई हैं. उनकी यह उपलब्धि दुनिया भर में चर्चा का विषय बनी हुई है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "43 साल का इंतजार खत्म! PM मोदी के नॉर्वे दौरे से भारत को मिला 100 अरब डॉलर का जैकपॉट, अब बदलेगी देश",
+      "url": "https://www.patrika.com/world-news/pm-modi-norway-visit-india-efta-tepa-agreement-100-billion-dollars-investment-green-strategic-partnership-20634176",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-02T14:44:24+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/PM-Modis-Norway-visit.webp",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी के नॉर्वे दौरे के बाद भारत और नॉर्वे के बीच ग्रीन स्ट्रेटेजिक पार्टनरशिप के तहत कूटनीतिक और आर्थिक संबंध मजबूत हुए हैं। भारत में नॉर्वे की राजदूत मे-एलिन स्टेनर ने इस दौरे को ऐतिहासिक बताया है। यह साझेदारी दोनों देशों के बीच 43 साल के संबंधों में एक नया अध्याय जोड़ती है। Green Strategic Partnership: भारत और नॉर्वे के बीच कूटनीतिक और आर्थिक संबंधों में एक नया स्वर्णिम अध्याय जुड़ गया है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "43 साल का इंतजार खत्म! PM मोदी के नॉर्वे दौरे से भारत को मिला 100 अरब डॉलर का जैकपॉट, अब बदलेगी देश",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी के नॉर्वे दौरे के बाद भारत और नॉर्वे के बीच ग्रीन स्ट्रेटेजिक पार्टनरशिप के तहत कूटनीतिक और आर्थिक संबंध मजबूत हुए हैं। भारत में नॉर्वे की राजदूत मे-एलिन स्टेनर ने इस दौरे को ऐतिहासिक बताया है। यह साझेदारी दोनों देशों के बीच 43 साल के संबंधों में एक नया अध्याय जोड़ती है। Green Strategic Partnership: भारत और नॉर्वे के बीच कूटनीतिक और आर्थिक संबंधों में एक नया स्वर्णिम अध्याय जुड़ गया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "लाल सागर का वो चोक प्वाइंट, जहां आमने-सामने खड़ी हैं चीन-अमेरिका की सेनाएं, होर्मुज से भी ज्यादा",
+      "url": "https://hindi.news18.com/world/rest-of-world-red-sea-choke-point-where-us-and-china-military-bases-face-off-djibouti-geopolitics-tense-after-hormuz-10534092.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-02T14:34:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Djibouti-US-China-Cokepoint-2026-06-225df88feeef491544c5f19e5ce54f29-1200x800.jpg",
+      "summary": "जिबूती के 30 किलोमीटर चौड़े चोकपॉइंट पर चीन और अमेरिका की सेनाएं आमने-सामने हैं। अमेरिका का 'कैंप लेमोनियर' बेस यहां स्थित है। कुछ मील की दूरी पर चीन ने अपना सैन्य बेस और डॉकयार्ड बनाया है। यहां चीनी विमानवाहक पोत और परमाणु पनडुब्बियां तैनात हैं। अफ्रीकी देश जिबूती वो इकलौती लोकेशन है जहां महज 30 किलोमीटर चौड़े चोकप्वाइंट पर दादागीरी जमाने के लिए चीन और अमेरिका दोनों सुपरपावर आमने-सामने खड़े हैं.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लाल सागर का वो चोक प्वाइंट, जहां आमने-सामने खड़ी हैं चीन-अमेरिका की सेनाएं, होर्मुज से भी ज्यादा",
+          "summary": "जिबूती के 30 किलोमीटर चौड़े चोकपॉइंट पर चीन और अमेरिका की सेनाएं आमने-सामने हैं। अमेरिका का 'कैंप लेमोनियर' बेस यहां स्थित है। कुछ मील की दूरी पर चीन ने अपना सैन्य बेस और डॉकयार्ड बनाया है। यहां चीनी विमानवाहक पोत और परमाणु पनडुब्बियां तैनात हैं। अफ्रीकी देश जिबूती वो इकलौती लोकेशन है जहां महज 30 किलोमीटर चौड़े चोकप्वाइंट पर दादागीरी जमाने के लिए चीन और अमेरिका दोनों सुपरपावर आमने-सामने खड़े हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बंद करो.. बंद करो… इधर ईरान ने US से रोकी बात, वहां पाकिस्तान की निकल गई जान, इस्लामाबाद में फरमान",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-issued-orders-to-close-shopping-malls-to-restaurants-early-due-to-energy-crisis-10533912.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-02T14:06:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Pakistan-File-Photo-Reuters-2026-06-abeca026a60bed0227531f7697f6ed4b-1200x800.jpg",
+      "summary": "ईरान के साथ बातचीत रोकने के बाद पाकिस्तान ने ऊर्जा संकट से निपटने के लिए नए नियम लागू किए हैं। इस्लामाबाद में मैरिज हॉल, मार्की और अन्य कार्यक्रम स्थलों को रात 10 बजे तक बंद करना होगा। बाजारों, दुकानों और शॉपिंग मॉल को रात 8 बजे तक बंद करने के आदेश दिए गए हैं। अस्पतालों, फार्मेसियों, पेट्रोल पंपों और डेयरी की दुकानों को इन नियमों से छूट दी गई है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंद करो.. बंद करो… इधर ईरान ने US से रोकी बात, वहां पाकिस्तान की निकल गई जान, इस्लामाबाद में फरमान",
+          "summary": "ईरान के साथ बातचीत रोकने के बाद पाकिस्तान ने ऊर्जा संकट से निपटने के लिए नए नियम लागू किए हैं। इस्लामाबाद में मैरिज हॉल, मार्की और अन्य कार्यक्रम स्थलों को रात 10 बजे तक बंद करना होगा। बाजारों, दुकानों और शॉपिंग मॉल को रात 8 बजे तक बंद करने के आदेश दिए गए हैं। अस्पतालों, फार्मेसियों, पेट्रोल पंपों और डेयरी की दुकानों को इन नियमों से छूट दी गई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "दुनिया के 5 सबसे सस्ते देश, जहां लग्जरी रिटायरमेंट के लिए जाते हैं लोग, आखिरी वाले में मिलता है VIP",
+      "url": "https://hindi.news18.com/world/rest-of-world-5-cheapest-countries-for-a-luxury-retirement-lifetime-portugal-spain-malasiya-costa-rica-panama-offers-tax-free-living-vip-status-10533774.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-02T13:13:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Countries-retirement-plan-2026-06-bd1195f8509b7f0fe0243294a794e2ce-1200x800.jpg",
+      "summary": "दुनिया भर से लोग लग्जरी रिटायरमेंट के लिए पांच देशों का रुख कर रहे हैं। इन देशों में प्रवासियों को टैक्स में छूट, अच्छी सरकारी स्वास्थ्य सेवाएं और कम लागत में शानदार जीवन जीने का अवसर मिलता है। आखिरी देश में 'पेंशनैडो वीजा' धारकों को हवाई टिकट, होटल और रेस्तरां के बिल पर 25 से 30 प्रतिशत तक की छूट मिलती है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुनिया के 5 सबसे सस्ते देश, जहां लग्जरी रिटायरमेंट के लिए जाते हैं लोग, आखिरी वाले में मिलता है VIP",
+          "summary": "दुनिया भर से लोग लग्जरी रिटायरमेंट के लिए पांच देशों का रुख कर रहे हैं। इन देशों में प्रवासियों को टैक्स में छूट, अच्छी सरकारी स्वास्थ्य सेवाएं और कम लागत में शानदार जीवन जीने का अवसर मिलता है। आखिरी देश में 'पेंशनैडो वीजा' धारकों को हवाई टिकट, होटल और रेस्तरां के बिल पर 25 से 30 प्रतिशत तक की छूट मिलती है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रूस का यूक्रेन पर बड़ा हमला: 656 ड्रोन और 73 मिसाइलें दागीं, 18 लोगों की मौत, 100 से अधिक घायल",
+      "url": "https://www.patrika.com/world-news/russia-ukraine-war-attack-kyiv-air-raid-dnipro-drone-strike-zelensky-missile-and-drone-attack-20633827",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-02T13:06:22+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Russia-Ukraine.webp",
+      "summary": "रूस ने मंगलवार को यूक्रेन पर बड़े पैमाने पर मिसाइल और ड्रोन से हमला किया। इस हमले में कम से कम 18 लोगों की मौत हुई और 100 से अधिक घायल हुए। दो बच्चे भी मारे गए। कई इमारतें बुरी तरह क्षतिग्रस्त हो गईं। Russia Ukraine war: रूस और यूक्रेन के बीच जारी युद्ध एक बार फिर खतरनाक मोड़ पर पहुंच गया है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस का यूक्रेन पर बड़ा हमला: 656 ड्रोन और 73 मिसाइलें दागीं, 18 लोगों की मौत, 100 से अधिक घायल",
+          "summary": "रूस ने मंगलवार को यूक्रेन पर बड़े पैमाने पर मिसाइल और ड्रोन से हमला किया। इस हमले में कम से कम 18 लोगों की मौत हुई और 100 से अधिक घायल हुए। दो बच्चे भी मारे गए। कई इमारतें बुरी तरह क्षतिग्रस्त हो गईं। Russia Ukraine war: रूस और यूक्रेन के बीच जारी युद्ध एक बार फिर खतरनाक मोड़ पर पहुंच गया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका को खुश करने के लिए युद्ध भड़का रही यूरोपियन यूनियन, ईरान का गुस्सा उबला",
+      "url": "https://www.patrika.com/world-news/iran-us-conflict-tehran-slams-eu-kaja-kallas-over-nuclear-deal-jcpoa-sanctions-and-ceasefire-talks-20633773",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-02T12:47:03+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Iran-said-EU-should-prove-its-impartiality.webp",
+      "summary": "ईरान ने यूरोपीय संघ पर अमेरिका के हितों को साधने का आरोप लगाया है। फिनलैंड में ईरानी दूतावास ने परमाणु समझौते पर यूरोपीय संघ के रवैये की आलोचना की। ईरान का कहना है कि यूरोपीय संघ ने अपनी स्वतंत्रता खो दी है। Iran-US Conflict: अमेरिका और ईरान के बीच तनाव के चलते यूरोपियन यूनियन की भूमिका शक के दायरे में आ गई है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका को खुश करने के लिए युद्ध भड़का रही यूरोपियन यूनियन, ईरान का गुस्सा उबला",
+          "summary": "ईरान ने यूरोपीय संघ पर अमेरिका के हितों को साधने का आरोप लगाया है। फिनलैंड में ईरानी दूतावास ने परमाणु समझौते पर यूरोपीय संघ के रवैये की आलोचना की। ईरान का कहना है कि यूरोपीय संघ ने अपनी स्वतंत्रता खो दी है। Iran-US Conflict: अमेरिका और ईरान के बीच तनाव के चलते यूरोपियन यूनियन की भूमिका शक के दायरे में आ गई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कोर्ट के बाहर रोती रहीं 8 बेटियां, दूसरे पति के साथ चली गई मां, पाकिस्तान का वीडियो वायरल",
+      "url": "https://hindi.news18.com/world/pakistan-8-daughters-weep-outside-court-as-mother-leaves-with-second-husband-video-from-pakistan-goes-viral-10533717.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-02T12:13:30+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/pakistan-court-viral-video-photo-2026-06-e18a12a1bce7bb5cd5d62a873a4e1c6d-1200x800.jpg",
+      "summary": "पाकिस्तान में एक मां ने अपनी आठ बेटियों को छोड़कर दूसरे पति के साथ जाने का फैसला किया। अदालत ने महिला को उसके बयान के आधार पर उसके दूसरे पति के साथ जाने की अनुमति दी। यह घटना कोर्ट के बाहर हुई। कोर्ट में एक मामले की सुनवाई के दौरान शबनम ने कोर्ट को बताया कि उसने अपनी मर्जी से हुसैन से शादी की थी.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कोर्ट के बाहर रोती रहीं 8 बेटियां, दूसरे पति के साथ चली गई मां, पाकिस्तान का वीडियो वायरल",
+          "summary": "पाकिस्तान में एक मां ने अपनी आठ बेटियों को छोड़कर दूसरे पति के साथ जाने का फैसला किया। अदालत ने महिला को उसके बयान के आधार पर उसके दूसरे पति के साथ जाने की अनुमति दी। यह घटना कोर्ट के बाहर हुई। कोर्ट में एक मामले की सुनवाई के दौरान शबनम ने कोर्ट को बताया कि उसने अपनी मर्जी से हुसैन से शादी की थी.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इबोला से लड़ाई में भारत का बड़ा कदम: अफ्रीका को सौंपे 43 टन इमरजेंसी मेडिकल किट",
+      "url": "https://www.patrika.com/world-news/india-sends-43-tonnes-medical-aid-to-africa-cdc-for-ebola-outbreak-response-2026-10293847-20633633",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-02T12:07:17+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/India-sends-Ebola-medical-kits-to-Africa.webp",
+      "summary": "भारत ने अफ्रीका रोग नियंत्रण और रोकथाम केंद्र को 43 टन आपातकालीन चिकित्सा किट सौंपी हैं। यह कदम इबोला महामारी के खिलाफ लड़ाई में सहायता के लिए उठाया गया है। इससे अफ्रीका के प्रभावित क्षेत्रों में इबोला के प्रसार को रोकने में मदद मिलेगी। India Supports Africa: अफ्रीकी संघ आयोग की अपील पर त्वरित कदम उठाते हुए भारत ने इबोला महामारी के खिलाफ जंग में अफ्रीका रोग नियंत्रण और रोकथाम केंद्र को आपातकालीन चिकित्सा सहायता उपलब्ध कराई है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इबोला से लड़ाई में भारत का बड़ा कदम: अफ्रीका को सौंपे 43 टन इमरजेंसी मेडिकल किट",
+          "summary": "भारत ने अफ्रीका रोग नियंत्रण और रोकथाम केंद्र को 43 टन आपातकालीन चिकित्सा किट सौंपी हैं। यह कदम इबोला महामारी के खिलाफ लड़ाई में सहायता के लिए उठाया गया है। इससे अफ्रीका के प्रभावित क्षेत्रों में इबोला के प्रसार को रोकने में मदद मिलेगी। India Supports Africa: अफ्रीकी संघ आयोग की अपील पर त्वरित कदम उठाते हुए भारत ने इबोला महामारी के खिलाफ जंग में अफ्रीका रोग नियंत्रण और रोकथाम केंद्र को आपातकालीन चिकित्सा सहायता उपलब्ध कराई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "साउथ चाइना सी में दो तरफा घिरा चीन, भारत ने डराया, फिर ताइवान ने छोड़े खास प्रजाति के 3 'कुत्ते'",
+      "url": "https://hindi.news18.com/world/china-china-cornered-in-south-china-sea-taiwan-deploys-armed-robot-dogs-india-tightens-brahmos-naval-noose-around-beijing-10533629.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-02T11:50:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Taiwan-Robot-Dogs-In-South-China-Sea-2026-06-2f6b042ae3452f23c9f2c85e9a6a9525-1200x800.jpg",
+      "summary": "ताइवान ने साउथ चाइना सी में चीन की गतिविधियों पर नजर रखने के लिए तीन रोबोटिक कुत्तों को तैनात किया है। ये रोबोटिक कुत्ते रिमोट-कंट्रोल गन और जासूसी कैमरों से लैस हैं। इन्हें अमेरिकी कंपनी 'घोस्ट रोबोटिक्स' से प्राप्त किया गया है। साउथ चाइना सी में चीन की मनमानी और दादागीरी को रोकने के लिए ताइवान ने अमेरिकी कंपनी 'घोस्ट रोबोटिक्स' से मिले चार पैरों वाले तीन खतरनाक रोबोटिक कुत्तों को मैदान में उतारा है, जो रीमोट-कंट्रोल गन और आधुनिक जासूसी कैमरों से लैस होकर समंदर के प्रतास और स्प्रैटली द्वीपों पर ड्रैगन की हर हरकत का ऑन-स्पॉट इलाज करेंगे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "साउथ चाइना सी में दो तरफा घिरा चीन, भारत ने डराया, फिर ताइवान ने छोड़े खास प्रजाति के 3 'कुत्ते'",
+          "summary": "ताइवान ने साउथ चाइना सी में चीन की गतिविधियों पर नजर रखने के लिए तीन रोबोटिक कुत्तों को तैनात किया है। ये रोबोटिक कुत्ते रिमोट-कंट्रोल गन और जासूसी कैमरों से लैस हैं। इन्हें अमेरिकी कंपनी 'घोस्ट रोबोटिक्स' से प्राप्त किया गया है। साउथ चाइना सी में चीन की मनमानी और दादागीरी को रोकने के लिए ताइवान ने अमेरिकी कंपनी 'घोस्ट रोबोटिक्स' से मिले चार पैरों वाले तीन खतरनाक रोबोटिक कुत्तों को मैदान में उतारा है, जो रीमोट-कंट्रोल गन और आधुनिक जासूसी कैमरों से लैस होकर समंदर के प्रतास और स्प्रैटली द्वीपों पर ड्रैगन की हर हरकत का ऑन-स्पॉट इलाज करेंगे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "17 साल के सार्थक सिद्धांत ने CBSE के OSM प्रक्रिया में खोजी कई खामियां, संसदीय समिति के सामने दिया",
+      "url": "https://www.abplive.com/news/india/17-years-old-sarthak-sidhant-gave-presentation-before-parliamentary-committee-amid-probe-on-cbse-osm-process-3139110",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-02T11:48:58+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/02/b18ae3398e4e31523a75c9d270260fd517803959722281126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "17 वर्षीय सार्थक सिद्धांत ने 2 जून, 2026 को संसदीय समिति के सामने सीबीएसई की ऑन-स्क्रीन मार्किंग (OSM) प्रक्रिया में पाई गई खामियों पर प्रस्तुति दी। उन्हें शिक्षा, महिला, बच्चे, युवा और खेल से संबंधित संसदीय स्थायी समिति के समक्ष बुलाया गया था। CBSE परीक्षा, रिजल्ट और ऑन-स्क्रीन मार्किंग (OSM) पोर्टल को लेकर जारी विवाद के बीच 17 वर्षीय छात्र सार्थक सिद्धांत मंगलवार (2 जून, 2026) को संसदीय समिति के सामने पेश हुए, जहां उन्हें शिक्षा, महिला, बच्चे, युवा और खेल से संबंधित संसदीय स्थायी समिति के सामने प्रेजेंटेशन देने के लिए बुलाया गया था.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "17 साल के सार्थक सिद्धांत ने CBSE के OSM प्रक्रिया में खोजी कई खामियां, संसदीय समिति के सामने दिया",
+          "summary": "17 वर्षीय सार्थक सिद्धांत ने 2 जून, 2026 को संसदीय समिति के सामने सीबीएसई की ऑन-स्क्रीन मार्किंग (OSM) प्रक्रिया में पाई गई खामियों पर प्रस्तुति दी। उन्हें शिक्षा, महिला, बच्चे, युवा और खेल से संबंधित संसदीय स्थायी समिति के समक्ष बुलाया गया था। CBSE परीक्षा, रिजल्ट और ऑन-स्क्रीन मार्किंग (OSM) पोर्टल को लेकर जारी विवाद के बीच 17 वर्षीय छात्र सार्थक सिद्धांत मंगलवार (2 जून, 2026) को संसदीय समिति के सामने पेश हुए, जहां उन्हें शिक्षा, महिला, बच्चे, युवा और खेल से संबंधित संसदीय स्थायी समिति के सामने प्रेजेंटेशन देने के लिए बुलाया गया था.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान वॉर के बीच इस महीने से लगने जा रही तेल में भीषण आग, होर्मुज खुला तो जानें क्या होंगे आगे हालात",
+      "url": "https://www.abplive.com/news/world/uae-abu-dhabi-warn-petrol-diesel-crude-oil-price-hike-from-august-strait-of-hormuz-reopens-us-iran-war-3139154",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-02T11:35:45+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/02/9e06cb3bd44d4f95fa6b1767437c38721780400035926708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "2 जून, 2026 को अबू धाबी की सरकारी तेल कंपनी (ADNOC) ने ईरान और अमेरिका के बीच तनाव के बीच तेल आपूर्ति में बाधा की चेतावनी दी। होर्मुज जलडमरूमध्य पर अनिश्चितता के कारण वैश्विक ऊर्जा संकट गहरा सकता है। मिडिल ईस्ट में अमेरिका और ईरान के बीच फिर से बन रही जंग की स्थिति और स्ट्रेट ऑफ होर्मुज पर अनिश्चिता के बाद दुनिया एनर्जी संकट से जूझ रही है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान वॉर के बीच इस महीने से लगने जा रही तेल में भीषण आग, होर्मुज खुला तो जानें क्या होंगे आगे हालात",
+          "summary": "2 जून, 2026 को अबू धाबी की सरकारी तेल कंपनी (ADNOC) ने ईरान और अमेरिका के बीच तनाव के बीच तेल आपूर्ति में बाधा की चेतावनी दी। होर्मुज जलडमरूमध्य पर अनिश्चितता के कारण वैश्विक ऊर्जा संकट गहरा सकता है। मिडिल ईस्ट में अमेरिका और ईरान के बीच फिर से बन रही जंग की स्थिति और स्ट्रेट ऑफ होर्मुज पर अनिश्चिता के बाद दुनिया एनर्जी संकट से जूझ रही है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हैदराबाद में जन सेना कार्यक्रम पर बड़ा विवाद! अनुमति, अदालत और पवन कल्याण के बयान से गरमाई राजनीति",
+      "url": "https://www.abplive.com/news/india/hyderabad-political-controversy-jana-sena-event-pawan-kalyan-statement-telangana-formation-day-3139128",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-02T11:32:19+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/02/fdb0295bb57177c18998dbf7e25192ac17803970783451115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "हैदराबाद में जन सेना के एक कार्यक्रम को लेकर राजनीतिक विवाद बढ़ गया है। अनुमति, कानूनी कार्यवाही और विरोधी नेताओं के बयानों पर असहमति ने तेलंगाना स्थापना दिवस के दौरान राजनीतिक भागीदारी पर सवाल खड़े कर दिए हैं। हैदराबाद में जन सेना के एक प्रस्तावित कार्यक्रम को लेकर राजनीतिक विवाद तब और गहरा गया, जब अनुमति, कानूनी कार्यवाही और विरोधी राजनीतिक नेताओं के सार्वजनिक बयानों पर असहमति के चलते यह मुद्दा सुर्खियों में आ गया.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हैदराबाद में जन सेना कार्यक्रम पर बड़ा विवाद! अनुमति, अदालत और पवन कल्याण के बयान से गरमाई राजनीति",
+          "summary": "हैदराबाद में जन सेना के एक कार्यक्रम को लेकर राजनीतिक विवाद बढ़ गया है। अनुमति, कानूनी कार्यवाही और विरोधी नेताओं के बयानों पर असहमति ने तेलंगाना स्थापना दिवस के दौरान राजनीतिक भागीदारी पर सवाल खड़े कर दिए हैं। हैदराबाद में जन सेना के एक प्रस्तावित कार्यक्रम को लेकर राजनीतिक विवाद तब और गहरा गया, जब अनुमति, कानूनी कार्यवाही और विरोधी राजनीतिक नेताओं के सार्वजनिक बयानों पर असहमति के चलते यह मुद्दा सुर्खियों में आ गया.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पांच पन्नों का इस्तीफा सौंपा.. क्या अन्नामलाई ने सच में कर लिया बीजेपी से किनारा, गृहमंत्री अमित",
+      "url": "https://www.abplive.com/news/india/tamilnadu-bjp-leader-k-annamalai-submits-five-page-resignation-meeting-with-national-president-nitin-nabin-and-amit-shah-3139148",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-02T11:30:30+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/02/a6d42cbad3a923aae6e25c011535be5717803994643721324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "तमिलनाडु के पूर्व बीजेपी अध्यक्ष के. अन्नामलाई ने 2 जून, 2026 को राष्ट्रीय अध्यक्ष नितिन नबीन और महासचिव बीएल संतोष को पांच पन्नों का इस्तीफा सौंपा। उन्होंने गृहमंत्री अमित शाह से भी मुलाकात की। BJP Tamil Nadu Ex President K Annamalai Left Party: तमिलनाडु के बीजेपी के पूर्व अध्यक्ष के अन्नामलाई ने मंगलवार को राष्ट्रीय अध्यक्ष नितिन नबीन और पार्टी के राष्ट्रीय महासचिव बीएल संतोष से मुलाकात की है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पांच पन्नों का इस्तीफा सौंपा.. क्या अन्नामलाई ने सच में कर लिया बीजेपी से किनारा, गृहमंत्री अमित",
+          "summary": "तमिलनाडु के पूर्व बीजेपी अध्यक्ष के. अन्नामलाई ने 2 जून, 2026 को राष्ट्रीय अध्यक्ष नितिन नबीन और महासचिव बीएल संतोष को पांच पन्नों का इस्तीफा सौंपा। उन्होंने गृहमंत्री अमित शाह से भी मुलाकात की। BJP Tamil Nadu Ex President K Annamalai Left Party: तमिलनाडु के बीजेपी के पूर्व अध्यक्ष के अन्नामलाई ने मंगलवार को राष्ट्रीय अध्यक्ष नितिन नबीन और पार्टी के राष्ट्रीय महासचिव बीएल संतोष से मुलाकात की है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "डोनाल्ड ट्रंप का बड़ा फैसला!, अमेरिका में रह रहे 30 भारतीय ट्रक ड्राइवर गिरफ्तार, जल्द होगी भारत",
+      "url": "https://www.patrika.com/national-news/donald-trump-big-decision-30-indian-truck-drivers-arrested-in-america-india-deportation-20633425",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-02T11:30:07+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US.webp",
+      "summary": "अमेरिकी अधिकारियों ने अवैध रूप से रह रहे 30 भारतीय ट्रक ड्राइवरों को गिरफ्तार किया है। इन ड्राइवरों पर बिना वैध कानूनी दर्जे के काम करने का आरोप है और उन्हें जल्द ही भारत वापस भेजा जाएगा। 30 Indian Drivers Arrested: अमेरिका में अवैध रूप से रह रहे भारतीयों के खिलाफ बड़ी कार्रवाई की गई है। अमेरिकी अधिकारियों ने ऐसे 30 भारतीय नागरिकों को गिरफ्तार किया है, जो कथित तौर पर बिना वैध कानूनी दर्जे के अमेरिका में रह रहे थे और कमर्शियल ट्रक ड्राइवर के तौर पर काम कर रहे थे।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डोनाल्ड ट्रंप का बड़ा फैसला!, अमेरिका में रह रहे 30 भारतीय ट्रक ड्राइवर गिरफ्तार, जल्द होगी भारत",
+          "summary": "अमेरिकी अधिकारियों ने अवैध रूप से रह रहे 30 भारतीय ट्रक ड्राइवरों को गिरफ्तार किया है। इन ड्राइवरों पर बिना वैध कानूनी दर्जे के काम करने का आरोप है और उन्हें जल्द ही भारत वापस भेजा जाएगा। 30 Indian Drivers Arrested: अमेरिका में अवैध रूप से रह रहे भारतीयों के खिलाफ बड़ी कार्रवाई की गई है। अमेरिकी अधिकारियों ने ऐसे 30 भारतीय नागरिकों को गिरफ्तार किया है, जो कथित तौर पर बिना वैध कानूनी दर्जे के अमेरिका में रह रहे थे और कमर्शियल ट्रक ड्राइवर के तौर पर काम कर रहे थे।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "77 सालों का संघर्ष, 2.5 लाख मौतें, 40 हजार अगवा, 10 लाख विस्थापित",
+      "url": "https://hindi.news18.com/news/knowledge/balochistan-77-years-conflict-2-5-lakh-deaths-40-thousand-abducted-10-lakh-displaced-ws-l-10530299.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-02T11:07:18+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Your-paragraph-text-1600-x-900-px-21-2026-06-a15c12c6b86cb37c2a1eeb38b8588e0e-1200x800.jpg",
+      "summary": "बलूचिस्तान में 77 वर्षों से संघर्ष जारी है. इस दौरान 2.5 लाख लोगों की मौत हुई है, 40 हजार लोग अगवा हुए और 10 लाख विस्थापित हुए. हजारों परिवार आज भी अपने प्रियजनों के जीवित होने या न होने की जानकारी नहीं रखते. हजारों परिवार आज भी यह नहीं जानते कि उनके बेटे, भाई या पिता जिंदा हैं या नहीं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "77 सालों का संघर्ष, 2.5 लाख मौतें, 40 हजार अगवा, 10 लाख विस्थापित",
+          "summary": "बलूचिस्तान में 77 वर्षों से संघर्ष जारी है. इस दौरान 2.5 लाख लोगों की मौत हुई है, 40 हजार लोग अगवा हुए और 10 लाख विस्थापित हुए. हजारों परिवार आज भी अपने प्रियजनों के जीवित होने या न होने की जानकारी नहीं रखते. हजारों परिवार आज भी यह नहीं जानते कि उनके बेटे, भाई या पिता जिंदा हैं या नहीं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "18 साल से पहले शादी जायज, चुप्पी लड़की की मर्जी... तालिबान के ऐसे कानूनों पर भड़का UN, बोला- ये",
+      "url": "https://www.abplive.com/news/world/united-nations-criticizes-taliban-rules-on-girls-early-marriage-after-puberty-3139077",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-02T10:32:08+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/02/3b21dd2400fbd1f7978eaa75e20030fd1780392324754628_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "संयुक्त राष्ट्र की बाल अधिकार समिति ने अफगानिस्तान में तालिबान के नए फरमान की निंदा की है. इस फरमान में 18 साल से कम उम्र की लड़कियों के विवाह को जायज ठहराया गया है. समिति ने इसे अंतरराष्ट्रीय मानवाधिकार कानून का उल्लंघन बताया है. संयुक्त राष्ट्र की बाल अधिकार समिति (CRC) ने अफगानिस्तान में तालिबान की ओर से जारी एक नए फरमान की सख्त शब्दों में निंदा की है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "18 साल से पहले शादी जायज, चुप्पी लड़की की मर्जी... तालिबान के ऐसे कानूनों पर भड़का UN, बोला- ये",
+          "summary": "संयुक्त राष्ट्र की बाल अधिकार समिति ने अफगानिस्तान में तालिबान के नए फरमान की निंदा की है. इस फरमान में 18 साल से कम उम्र की लड़कियों के विवाह को जायज ठहराया गया है. समिति ने इसे अंतरराष्ट्रीय मानवाधिकार कानून का उल्लंघन बताया है. संयुक्त राष्ट्र की बाल अधिकार समिति (CRC) ने अफगानिस्तान में तालिबान की ओर से जारी एक नए फरमान की सख्त शब्दों में निंदा की है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'लड़ेंगे या मरेंगे', बंगाल पुलिस को ममता का ठेंगा, अभिषेक की पिटाई के खिलाफ बिना इजाजत धरने पर बैठीं",
+      "url": "https://www.abplive.com/news/india/mamata-banerjee-protest-tmc-crisis-without-permission-from-kolkata-police-attack-on-abhishek-banerjee-west-bengal-3139118",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-02T10:30:36+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/02/2d59e5ecea765c4d4c5dc26e0ebcb41d1780396046743708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पश्चिम बंगाल की मुख्यमंत्री ममता बनर्जी ने पुलिस की अनुमति के बिना कोलकाता में धरना दिया. यह धरना अभिषेक बनर्जी की पिटाई के विरोध में था. तृणमूल कांग्रेस में आंतरिक कलह और नेताओं पर हमले के बाद यह घटनाक्रम सामने आया है. पश्चिम बंगाल में सत्ता बदलने के बाद ममता बनर्जी की तृणमूल कांग्रेस (TMC) के भीतर अंदरूनी कलह और पार्टी नेताओं पर हुए हमले के बाद सियासी पारा चढ़ गया है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'लड़ेंगे या मरेंगे', बंगाल पुलिस को ममता का ठेंगा, अभिषेक की पिटाई के खिलाफ बिना इजाजत धरने पर बैठीं",
+          "summary": "पश्चिम बंगाल की मुख्यमंत्री ममता बनर्जी ने पुलिस की अनुमति के बिना कोलकाता में धरना दिया. यह धरना अभिषेक बनर्जी की पिटाई के विरोध में था. तृणमूल कांग्रेस में आंतरिक कलह और नेताओं पर हमले के बाद यह घटनाक्रम सामने आया है. पश्चिम बंगाल में सत्ता बदलने के बाद ममता बनर्जी की तृणमूल कांग्रेस (TMC) के भीतर अंदरूनी कलह और पार्टी नेताओं पर हुए हमले के बाद सियासी पारा चढ़ गया है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अपने ही देश के नेताओं पर भड़के डोनाल्ड ट्रंप, बोले-‘ईरान झुक जाए, फिर भी डेमोक्रेट्स और मीडिया सच",
+      "url": "https://www.patrika.com/world-news/donald-trump-slams-democrats-and-media-over-iran-surrender-remarks-20633382",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-02T10:29:50+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/donald-trump_.webp",
+      "summary": "पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने डेमोक्रेट्स और मीडिया पर निशाना साधा है. उन्होंने कहा कि अगर ईरान अमेरिका के सामने पूरी तरह झुक भी जाए, तब भी वे सच को अलग तरीके से पेश करेंगे. US Iran Tensions: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने अपने राजनीतिक विरोधियों और मीडिया पर निशाना साधा है। ट्रंप का कहना है कि अगर ईरान पूरी तरह अमेरिका के सामने झुक जाए और सैन्य रूप से सरेंडर भी कर दे, तब भी डेमोक्रेटिक पार्टी और कुछ मीडिया संस्थान सच्चाई को अलग तरीके से पेश करेंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अपने ही देश के नेताओं पर भड़के डोनाल्ड ट्रंप, बोले-‘ईरान झुक जाए, फिर भी डेमोक्रेट्स और मीडिया सच",
+          "summary": "पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने डेमोक्रेट्स और मीडिया पर निशाना साधा है. उन्होंने कहा कि अगर ईरान अमेरिका के सामने पूरी तरह झुक भी जाए, तब भी वे सच को अलग तरीके से पेश करेंगे. US Iran Tensions: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने अपने राजनीतिक विरोधियों और मीडिया पर निशाना साधा है। ट्रंप का कहना है कि अगर ईरान पूरी तरह अमेरिका के सामने झुक जाए और सैन्य रूप से सरेंडर भी कर दे, तब भी डेमोक्रेटिक पार्टी और कुछ मीडिया संस्थान सच्चाई को अलग तरीके से पेश करेंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "9-0 से चीनी J-10C फाइटर जेट से यूरोफाइटर को शिकस्त मिलने का दावा, ड्रैगन फिर फैला रहा झूठ, पढ़ें",
+      "url": "https://www.abplive.com/news/world/chinese-j-10c-fighter-jets-claim-eurofighter-fighter-defeated-them-qatar-air-force-3139072",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-02T10:23:14+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/02/a4d6c1d3abc260ab3e96ba05c4e09bf517803930359361200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "चीनी सरकारी मीडिया ने दावा किया है कि चीन के जे-10सी फाइटर जेट ने कतर के यूरोफाइटर जेट को 9-0 से हराया है. इससे पहले पाकिस्तानी मीडिया ने भी इसी तरह का दावा किया था. चीन के जे-10सी फाइटर जेट ने कतर एयरफोर्स के यूरोफाइटर जेट को 9-0 से शिकस्त दी. चीनी सरकारी न्यूज चैनल सीसीटीवी ने ये दावा किया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "9-0 से चीनी J-10C फाइटर जेट से यूरोफाइटर को शिकस्त मिलने का दावा, ड्रैगन फिर फैला रहा झूठ, पढ़ें",
+          "summary": "चीनी सरकारी मीडिया ने दावा किया है कि चीन के जे-10सी फाइटर जेट ने कतर के यूरोफाइटर जेट को 9-0 से हराया है. इससे पहले पाकिस्तानी मीडिया ने भी इसी तरह का दावा किया था. चीन के जे-10सी फाइटर जेट ने कतर एयरफोर्स के यूरोफाइटर जेट को 9-0 से शिकस्त दी. चीनी सरकारी न्यूज चैनल सीसीटीवी ने ये दावा किया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "डोनाल्ड ट्रंप की ‘नो वार’ थ्योरी फेल ? इजरायल ने किए भीषण हवाई हमले",
@@ -298,6 +682,24 @@
           "title": "डोनाल्ड ट्रंप की ‘नो वार’ थ्योरी फेल ? इजरायल ने किए भीषण हवाई हमले",
           "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के पश्चिम एशिया में गोलीबारी और युद्ध रोकने के बड़े दावों के ठीक बाद, इजरायली सेना ने लेब Geopolitics: वैश्विक भू-राजनीति में जब शांति के कयास लगाए जा रहे थे, ठीक उसी समय मिडिल ईस्ट से एक बहुत डरावनी खबर सामने आई है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की ओर से पश्चिम एशिया में ‘गोलीबारी और युद्ध’ रोकने के बड़े दावे के ठीक बाद, इजरायली सेना ने लेबनान पर भीषण हवाई हमले शुरू कर दिए हैं।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बुढ़ापे पर कंट्रोल और सुअर के अंदर इंसानी अंगों की खेती! जवानी और ताकत के लिए पुतिन का नया",
+      "url": "https://www.abplive.com/news/world/putin-longevity-antiaging-vaccine-project-new-health-preservation-technologies-human-organs-growth-in-pigs-russia-explained-3139090",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-02T10:10:53+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/02/b28c3327ef66b77c8158f3358b72963b17803950409531317_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "रूस के राष्ट्रपति व्लादिमीर पुतिन ने 26 अरब डॉलर की एक परियोजना शुरू की है। इसका लक्ष्य बुढ़ापे को एक बीमारी के रूप में देखना है। इस परियोजना के तहत जीन थेरेपी का उपयोग करके मानव अंगों को युवा बनाए रखने पर काम किया जाएगा। एक ऐसी दुनिया का तसव्वुर कीजिए जहां बुढ़ापा बस एक बीमारी बनकर रह जाए. उम्र के 60-70 पड़ाव पर भी इंसान का दिल, लीवर और किडनी बिल्कुल जवान बना रहे.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बुढ़ापे पर कंट्रोल और सुअर के अंदर इंसानी अंगों की खेती! जवानी और ताकत के लिए पुतिन का नया",
+          "summary": "रूस के राष्ट्रपति व्लादिमीर पुतिन ने 26 अरब डॉलर की एक परियोजना शुरू की है। इसका लक्ष्य बुढ़ापे को एक बीमारी के रूप में देखना है। इस परियोजना के तहत जीन थेरेपी का उपयोग करके मानव अंगों को युवा बनाए रखने पर काम किया जाएगा। एक ऐसी दुनिया का तसव्वुर कीजिए जहां बुढ़ापा बस एक बीमारी बनकर रह जाए. उम्र के 60-70 पड़ाव पर भी इंसान का दिल, लीवर और किडनी बिल्कुल जवान बना रहे.",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -338,398 +740,20 @@
       }
     },
     {
-      "title": "भारत ने म्यांमार-नेपाल के साथ मिल कर की जुगलबंदी! जानिए क्या है मोदी की ‘चाय कूटनीति’?",
-      "url": "https://www.patrika.com/world-news/geopolitics-modi-government-neighborhood-first-policy-myanmar-nepal-china-pakistan-masterstroke-diplomacy-2026-20632709",
-      "source": "Patrika (World)",
+      "title": "इमारतें धराशायी, जिंदगी का नामोनिशां नहीं...इजरायल के हवाई हमलों में दक्षिणी लेबनान में तबाही, सहमे",
+      "url": "https://www.abplive.com/news/big-update-middle-east-conflict-multiple-israeli-strikes-major-city-southern-lebanon-3139097",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-06-02T09:00:40+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Indias-friendship-with-its-neighbouring-countries-1.webp",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी ने म्यांमार और नेपाल के शीर्ष नेताओं के साथ बैठकें कीं। इन मुलाकातों का उद्देश्य पड़ोसियों के साथ भारत के संबंधों को मजबूत करना है। मोदी का मानना है कि उपमहाद्वीप में मजबूत संबंधों के बिना भारत वैश्विक शक्ति नहीं बन सकता। विदेश मंत्रालय का पूरा ध्यान अब पड़ोसी देशों पर केंद्रित होगा। Modi Diplomacy: भारत ने म्यांमार और नेपाल के शीर्ष नेताओं के दौरों के जरिए अपने पड़ोसियों के साथ फिर से रिश्ते मजबूत करने का स्पष्ट संदेश दिया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत ने म्यांमार-नेपाल के साथ मिल कर की जुगलबंदी! जानिए क्या है मोदी की ‘चाय कूटनीति’?",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी ने म्यांमार और नेपाल के शीर्ष नेताओं के साथ बैठकें कीं। इन मुलाकातों का उद्देश्य पड़ोसियों के साथ भारत के संबंधों को मजबूत करना है। मोदी का मानना है कि उपमहाद्वीप में मजबूत संबंधों के बिना भारत वैश्विक शक्ति नहीं बन सकता। विदेश मंत्रालय का पूरा ध्यान अब पड़ोसी देशों पर केंद्रित होगा। Modi Diplomacy: भारत ने म्यांमार और नेपाल के शीर्ष नेताओं के दौरों के जरिए अपने पड़ोसियों के साथ फिर से रिश्ते मजबूत करने का स्पष्ट संदेश दिया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "तेज हवाएं, मूसलाधार बारिश और समंदर में उठेगा तूफान, मौसम विभाग की खतरनाक चेतावनी",
-      "url": "https://hindi.news18.com/world/rest-of-world-weather-alert-jangami-cyclone-with-heavy-rain-strong-winds-tropical-storm-injured-9-in-japan-10533016.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-02T08:46:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/heavy-storm-2026-06-bcdc6f728e27c279323985ca87bae2dc-1200x800.jpg",
-      "summary": "जापान में तूफान जांगमी 25 किलोमीटर प्रति घंटे की रफ्तार से आगे बढ़ रहा है। इसके साथ तेज हवाएं और मूसलाधार बारिश की चेतावनी जारी की गई है। स्थानीय निवासी आवश्यक सामग्री जुटाकर घरों में शरण लेने की तैयारी कर रहे हैं। Cyclone with Strong Winds Heavy Rain: गर्मियां आते ही समंदर से उठने वाले तूफान और भी ज्यादा शक्तिशाली हो जाते हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेज हवाएं, मूसलाधार बारिश और समंदर में उठेगा तूफान, मौसम विभाग की खतरनाक चेतावनी",
-          "summary": "जापान में तूफान जांगमी 25 किलोमीटर प्रति घंटे की रफ्तार से आगे बढ़ रहा है। इसके साथ तेज हवाएं और मूसलाधार बारिश की चेतावनी जारी की गई है। स्थानीय निवासी आवश्यक सामग्री जुटाकर घरों में शरण लेने की तैयारी कर रहे हैं। Cyclone with Strong Winds Heavy Rain: गर्मियां आते ही समंदर से उठने वाले तूफान और भी ज्यादा शक्तिशाली हो जाते हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका ने किया वार, ईरान ने दिया जवाब... क्या अब शुरू होगा महायुद्ध का राउंड-2?",
-      "url": "https://hindi.news18.com/world/middle-east-us-iran-conflict-middle-east-war-fears-missile-drone-attacks-global-tensions-major-gaura-arya-analysis-videos-10533020.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-02T08:40:12+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/war-2026-06-fdb0031a55dc71213953d45bfb2d2157-1200x800.jpg",
-      "summary": "अमेरिका ने ईरान की ड्रोन और रडार साइट्स पर कार्रवाई की। जवाब में ईरान ने मिसाइल और ड्रोन हमले किए। कुवैत में एयर डिफेंस सिस्टम अलर्ट पर है। लेबनान में हिजबुल्लाह से जुड़े इलाकों में हलचल बढ़ी है। Iran-America War Update: मिडिल ईस्ट में हालात एक बार फिर बेहद तनावपूर्ण होते जा रहे हैं. अमेरिका द्वारा ईरान की ड्रोन और रडार साइट्स पर कार्रवाई के बाद क्षेत्र में सैन्य गतिविधियां तेज हो गई हैं.",
+      "published_at": "2026-06-02T10:01:01+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/02/911f23921e890b8d5930f5257f22a22917803970487971324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "इजरायल ने दक्षिणी लेबनान के प्रमुख शहरों पर हवाई हमले किए हैं। इन हमलों में आवासीय इमारतें ध्वस्त हो गई हैं। मलबे में कई लोगों के फंसे होने की खबर है। यह मध्य पूर्व में जारी तनाव के बीच हुआ है। Multiple Israeli strikes in southern Lebanon: एक तरफ मिडिल ईस्ट में तनाव जारी है, तो वहीं दूसरी तरफ से खाड़ी देशों पर इजरायल में शांति स्थिरता लाने के लिए किए जा रहे अब्राहम समझौते में शामिल होने के अमेरिकी दबाव के बीच, अब इजरायल ने ही दक्षिणी लेबनान के प्रमुख शहरों पर ताबड़तोड़ हमले किए हैं.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिका ने किया वार, ईरान ने दिया जवाब... क्या अब शुरू होगा महायुद्ध का राउंड-2?",
-          "summary": "अमेरिका ने ईरान की ड्रोन और रडार साइट्स पर कार्रवाई की। जवाब में ईरान ने मिसाइल और ड्रोन हमले किए। कुवैत में एयर डिफेंस सिस्टम अलर्ट पर है। लेबनान में हिजबुल्लाह से जुड़े इलाकों में हलचल बढ़ी है। Iran-America War Update: मिडिल ईस्ट में हालात एक बार फिर बेहद तनावपूर्ण होते जा रहे हैं. अमेरिका द्वारा ईरान की ड्रोन और रडार साइट्स पर कार्रवाई के बाद क्षेत्र में सैन्य गतिविधियां तेज हो गई हैं.",
+          "title": "इमारतें धराशायी, जिंदगी का नामोनिशां नहीं...इजरायल के हवाई हमलों में दक्षिणी लेबनान में तबाही, सहमे",
+          "summary": "इजरायल ने दक्षिणी लेबनान के प्रमुख शहरों पर हवाई हमले किए हैं। इन हमलों में आवासीय इमारतें ध्वस्त हो गई हैं। मलबे में कई लोगों के फंसे होने की खबर है। यह मध्य पूर्व में जारी तनाव के बीच हुआ है। Multiple Israeli strikes in southern Lebanon: एक तरफ मिडिल ईस्ट में तनाव जारी है, तो वहीं दूसरी तरफ से खाड़ी देशों पर इजरायल में शांति स्थिरता लाने के लिए किए जा रहे अब्राहम समझौते में शामिल होने के अमेरिकी दबाव के बीच, अब इजरायल ने ही दक्षिणी लेबनान के प्रमुख शहरों पर ताबड़तोड़ हमले किए हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप ने की बेंजामिन नेतन्याहू और हिज़बुल्लाह से बात, हमले रोकने पर बनी सहमति",
-      "url": "https://www.patrika.com/world-news/donald-trump-talks-to-benjamin-netanyahu-and-hezbollah-both-agreed-to-stop-attacks-20631343",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-02T08:23:23+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/trump-with-netanyahu.webp",
-      "summary": "डोनाल्ड ट्रंप ने बेंजामिन नेतन्याहू और हिजबुल्लाह से बात की। इजरायल और हिजबुल्लाह के बीच युद्ध जारी है। दक्षिणी लेबनान में भारी नुकसान हुआ है। हिजबुल्लाह इजरायल के खिलाफ जवाबी कार्रवाई कर रहा है। इज़रायल (Israel) और लेबनान (Lebanon) के आतंकी संगठन हिज़बुल्लाह (Hezbollah) के बीच युद्ध की वजह से तबाही मचने का सिलसिला जारी है। हिज़बुल्लाह को पूरी तरह से खत्म करने के लिए इज़रायली सेना के लगातार हमलों की वजह से साउथ लेबनान में जान-माल का भारी नुकसान हो रहा है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप ने की बेंजामिन नेतन्याहू और हिज़बुल्लाह से बात, हमले रोकने पर बनी सहमति",
-          "summary": "डोनाल्ड ट्रंप ने बेंजामिन नेतन्याहू और हिजबुल्लाह से बात की। इजरायल और हिजबुल्लाह के बीच युद्ध जारी है। दक्षिणी लेबनान में भारी नुकसान हुआ है। हिजबुल्लाह इजरायल के खिलाफ जवाबी कार्रवाई कर रहा है। इज़रायल (Israel) और लेबनान (Lebanon) के आतंकी संगठन हिज़बुल्लाह (Hezbollah) के बीच युद्ध की वजह से तबाही मचने का सिलसिला जारी है। हिज़बुल्लाह को पूरी तरह से खत्म करने के लिए इज़रायली सेना के लगातार हमलों की वजह से साउथ लेबनान में जान-माल का भारी नुकसान हो रहा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अफगानिस्तान में 4.9 मैग्नीट्यूड तीव्रता का भूकंप, सुबह-सुबह डगमगा गई धरती, कितना नुकसान?",
-      "url": "https://hindi.news18.com/world/south-asia-earthquake-in-afghanistan-5-magnitude-on-richter-scale-no-major-damage-aftershocks-ws-l-10532858.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-02T07:50:39+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/afghanistan-quake-2-2026-06-963a3b0425bf889715c52063fe20adfc-1200x800.jpg",
-      "summary": "अफगानिस्तान में 4.9 तीव्रता का भूकंप आया। सुबह-सुबह धरती डगमगाने से लोग सहम गए। भूकंप की तीव्रता कम होने के कारण ज्यादा नुकसान नहीं हुआ। किसी के घायल होने की खबर नहीं है। Earthquake in Afghanistan: पाकिस्तान के पड़ोसी देश अफगानिस्तान में आज सुबह लोगों ने जैसे ही अपने रोजमर्रा के कामकाज शुरू किए, यहां की धरती डगमगाने लगी. राहत इस बात की रही कि अफगानिस्तान में आया ये भूकंप 4.8 मैग्नीट्यूड तक ही था, जिसकी वजह से ज्यादा नुकसान नहीं हुआ न ही किसी के जख्मी होने की खबर है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अफगानिस्तान में 4.9 मैग्नीट्यूड तीव्रता का भूकंप, सुबह-सुबह डगमगा गई धरती, कितना नुकसान?",
-          "summary": "अफगानिस्तान में 4.9 तीव्रता का भूकंप आया। सुबह-सुबह धरती डगमगाने से लोग सहम गए। भूकंप की तीव्रता कम होने के कारण ज्यादा नुकसान नहीं हुआ। किसी के घायल होने की खबर नहीं है। Earthquake in Afghanistan: पाकिस्तान के पड़ोसी देश अफगानिस्तान में आज सुबह लोगों ने जैसे ही अपने रोजमर्रा के कामकाज शुरू किए, यहां की धरती डगमगाने लगी. राहत इस बात की रही कि अफगानिस्तान में आया ये भूकंप 4.8 मैग्नीट्यूड तक ही था, जिसकी वजह से ज्यादा नुकसान नहीं हुआ न ही किसी के जख्मी होने की खबर है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रूस ने यूक्रेन को दहलाया, हवाई हमलों में 10 लोगों की हुई मौत और 100 से ज़्यादा घायल",
-      "url": "https://www.patrika.com/world-news/russian-strikes-killed-10-people-and-injured-over-100-others-in-ukraine-capital-kyiv-20632330",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-02T07:30:12+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/russian-strikes-in-kyiv.webp",
-      "summary": "रूस ने यूक्रेन पर हवाई हमले किए। इन हमलों में 10 लोगों की मौत हो गई। 100 से अधिक लोग घायल हुए हैं। यह हमला रूस-यूक्रेन युद्ध के दौरान हुआ है। रूस-यूक्रेन युद्ध (Russia-Ukraine War) 4 साल से ज़्यादा समय बीतने के बावजूद जारी है। रूसी राष्ट्रपति व्लादिमीर पुतिन (Vladimir Putin) के आदेश पर उनकी सेना ने 24 फरवरी, 2022 को यूक्रेन को घेरते हुए उस पर हमला कर दिया।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस ने यूक्रेन को दहलाया, हवाई हमलों में 10 लोगों की हुई मौत और 100 से ज़्यादा घायल",
-          "summary": "रूस ने यूक्रेन पर हवाई हमले किए। इन हमलों में 10 लोगों की मौत हो गई। 100 से अधिक लोग घायल हुए हैं। यह हमला रूस-यूक्रेन युद्ध के दौरान हुआ है। रूस-यूक्रेन युद्ध (Russia-Ukraine War) 4 साल से ज़्यादा समय बीतने के बावजूद जारी है। रूसी राष्ट्रपति व्लादिमीर पुतिन (Vladimir Putin) के आदेश पर उनकी सेना ने 24 फरवरी, 2022 को यूक्रेन को घेरते हुए उस पर हमला कर दिया।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "BJP प्रमुख नितिन नवीन से अन्नामलाई की मुलाकात, तमिलनाडु में मनभेद के कयासों के बीच दिल्ली आए पूर्व",
-      "url": "https://www.amarujala.com/india-news/tamil-nadu-politics-annamalai-bjp-chief-nitin-naveen-meeting-in-delhi-former-ips-officer-in-delhi-amid-dissent-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-02T07:24:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/ka-ananamalii-fail_bf1abf33646239d7f0e9d6aecdb78222.png?w=750&dpr=1.0",
-      "summary": "तमिलनाडु भाजपा प्रमुख अन्नामलाई दिल्ली आए। उन्होंने भाजपा प्रमुख नितिन नवीन से मुलाकात की। यह मुलाकात तमिलनाडु में पार्टी के भीतर मनभेद की अटकलों के बीच हुई। सियासत: BJP प्रमुख नितिन नवीन से अन्नामलाई की मुलाकात, तमिलनाडु में मनभेद के कयासों के बीच दिल्ली आए पूर्व IPS।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "BJP प्रमुख नितिन नवीन से अन्नामलाई की मुलाकात, तमिलनाडु में मनभेद के कयासों के बीच दिल्ली आए पूर्व",
-          "summary": "तमिलनाडु भाजपा प्रमुख अन्नामलाई दिल्ली आए। उन्होंने भाजपा प्रमुख नितिन नवीन से मुलाकात की। यह मुलाकात तमिलनाडु में पार्टी के भीतर मनभेद की अटकलों के बीच हुई। सियासत: BJP प्रमुख नितिन नवीन से अन्नामलाई की मुलाकात, तमिलनाडु में मनभेद के कयासों के बीच दिल्ली आए पूर्व IPS।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आप पागल हैं, मैं बचा रहा हूं, वरना जेल में होते- इजरायली PM नेतन्याहू पर जम कर बरसे डोनाल्ड ट्रंप!",
-      "url": "https://www.patrika.com/world-news/donald-trump-slams-benjamin-netanyahu-says-i-saved-you-from-jail-20632010",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-02T06:53:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Trump-Netanyahu-call.webp",
-      "summary": "डोनाल्ड ट्रंप ने इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू को फोन पर फटकार लगाई। ट्रंप ने कहा कि अगर वह (नेतन्याहू) उनकी सलाह मानते तो जेल में होते। यह बातचीत अमेरिका-इजरायल संबंधों के संदर्भ में हुई। US-Israel Relations: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच हुई फोन पर बातचीत सुर्खियों में है। मीडिया रिपोर्ट्स के मुताबिक, ट्रंप ने इजरायल के प्रधानमंत्री नेतन्याहू को फोन पर कड़ी फटकार लगा दी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आप पागल हैं, मैं बचा रहा हूं, वरना जेल में होते- इजरायली PM नेतन्याहू पर जम कर बरसे डोनाल्ड ट्रंप!",
-          "summary": "डोनाल्ड ट्रंप ने इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू को फोन पर फटकार लगाई। ट्रंप ने कहा कि अगर वह (नेतन्याहू) उनकी सलाह मानते तो जेल में होते। यह बातचीत अमेरिका-इजरायल संबंधों के संदर्भ में हुई। US-Israel Relations: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच हुई फोन पर बातचीत सुर्खियों में है। मीडिया रिपोर्ट्स के मुताबिक, ट्रंप ने इजरायल के प्रधानमंत्री नेतन्याहू को फोन पर कड़ी फटकार लगा दी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हिंदूफोबिया और मंदिरों पर हमलों की निंदा का प्रस्ताव, भारतीय मूल के अमेरिकी सांसद रो खन्ना ने किया",
-      "url": "https://www.amarujala.com/world/us-indian-american-congressman-ro-khanna-supports-resolution-condemning-hinduphobia-and-attacks-on-temples-2026-06-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-02T06:51:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/ro-khanna_b547ef0e0ad263bb40cb0c038727e96d.png?w=750&dpr=1.0",
-      "summary": "अमेरिकी सांसद रो खन्ना ने हिंदूफोबिया और मंदिरों पर हमलों की निंदा करने वाले प्रस्ताव का समर्थन किया। यह प्रस्ताव अमेरिका में हिंदू समुदाय के खिलाफ बढ़ती नफरत और हिंसा की घटनाओं पर चिंता व्यक्त करता है। हिंदूफोबिया और मंदिरों पर हमलों की निंदा का प्रस्ताव, भारतीय मूल के अमेरिकी सांसद रो खन्ना ने किया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिंदूफोबिया और मंदिरों पर हमलों की निंदा का प्रस्ताव, भारतीय मूल के अमेरिकी सांसद रो खन्ना ने किया",
-          "summary": "अमेरिकी सांसद रो खन्ना ने हिंदूफोबिया और मंदिरों पर हमलों की निंदा करने वाले प्रस्ताव का समर्थन किया। यह प्रस्ताव अमेरिका में हिंदू समुदाय के खिलाफ बढ़ती नफरत और हिंसा की घटनाओं पर चिंता व्यक्त करता है। हिंदूफोबिया और मंदिरों पर हमलों की निंदा का प्रस्ताव, भारतीय मूल के अमेरिकी सांसद रो खन्ना ने किया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "स्टोर के नीचे छिपा था 'पाताललोक', 1933 फीट लंबा रहस्यमयी तहखाना, टॉर्च मारा तो अंदर निकला 375 करोड़",
-      "url": "https://hindi.news18.com/world/rest-of-world-us-discovers-55-feet-inside-mexico-california-mysterious-drug-tunnel-seizes-45-million-worth-of-drugs-10532493.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-02T06:42:40+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/us-tunnel-2026-06-c981cbb2cfbb8c191fb2362840bf66c0-1200x800.jpg",
-      "summary": "एक अमेरिकी स्टोर के नीचे 1933 फीट लंबा रहस्यमयी तहखाना मिला। इस गुप्त स्थान का उपयोग अपराधों के लिए किया जाता था। इसकी कीमत 375 करोड़ रुपये आंकी गई है। US Discovers Mysterious Tunnel Used for Crime: कई बार ऐसा होता है कि हम जो देखते हैं, वो साफ झूठ होता है और असली सच्चाई नजरों से छिपी रह जाती है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्टोर के नीचे छिपा था 'पाताललोक', 1933 फीट लंबा रहस्यमयी तहखाना, टॉर्च मारा तो अंदर निकला 375 करोड़",
-          "summary": "एक अमेरिकी स्टोर के नीचे 1933 फीट लंबा रहस्यमयी तहखाना मिला। इस गुप्त स्थान का उपयोग अपराधों के लिए किया जाता था। इसकी कीमत 375 करोड़ रुपये आंकी गई है। US Discovers Mysterious Tunnel Used for Crime: कई बार ऐसा होता है कि हम जो देखते हैं, वो साफ झूठ होता है और असली सच्चाई नजरों से छिपी रह जाती है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "12वीं की कॉपियों पर नंबर का विवाद हाईकोर्ट पहुंचा, NSUI की अपील- मामले की स्वतंत्र जांच हो",
-      "url": "https://www.amarujala.com/education/cbse-osm-row-reaches-delhi-high-court-nsui-seeks-independent-probe-into-class-12-evaluation-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-02T06:40:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/cbse_23f99edcdf93ffc5f442ec0d922f5888.jpeg?w=750&dpr=1.0",
-      "summary": "12वीं की कॉपियों पर नंबरों के विवाद को लेकर एनएसयूआई ने दिल्ली हाईकोर्ट में अपील की है। संगठन ने सीबीएसई की ऑन-स्क्रीन मार्किंग प्रणाली में कथित अनियमितताओं की स्वतंत्र जांच की मांग की है। CBSE OSM Row: सीबीएसई की ऑन-स्क्रीन मार्किंग प्रणाली को लेकर उठे विवाद ने अब कानूनी रूप ले लिया है। एनएसयूआई ने दिल्ली हाईकोर्ट में याचिका दायर कर 12वीं की उत्तर पुस्तिकाओं के मूल्यांकन में कथित अनियमितताओं की स्वतंत्र जांच।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "12वीं की कॉपियों पर नंबर का विवाद हाईकोर्ट पहुंचा, NSUI की अपील- मामले की स्वतंत्र जांच हो",
-          "summary": "12वीं की कॉपियों पर नंबरों के विवाद को लेकर एनएसयूआई ने दिल्ली हाईकोर्ट में अपील की है। संगठन ने सीबीएसई की ऑन-स्क्रीन मार्किंग प्रणाली में कथित अनियमितताओं की स्वतंत्र जांच की मांग की है। CBSE OSM Row: सीबीएसई की ऑन-स्क्रीन मार्किंग प्रणाली को लेकर उठे विवाद ने अब कानूनी रूप ले लिया है। एनएसयूआई ने दिल्ली हाईकोर्ट में याचिका दायर कर 12वीं की उत्तर पुस्तिकाओं के मूल्यांकन में कथित अनियमितताओं की स्वतंत्र जांच।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या शशि थरूर और IPL को बेनकाब करने वाली थीं सुनंदा पुष्कर? ललित मोदी का बड़ा खुलासा; राहुल गांधी",
-      "url": "https://www.amarujala.com/cricket/lalit-modi-revives-shashi-tharoor-sunanda-pushkar-controversy-makes-explosive-claims-on-congress-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-02T06:25:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/lalit-modi-shashi-tharoor-sunanda-pushkar-ipl-congress-karishma-mehta-humans-of-bombay-rahul_3bbb3b850cd9724716de301e81593aca.jpeg?w=750&dpr=1.0",
-      "summary": "आईपीएल के संस्थापक ललित मोदी ने एक साक्षात्कार में दावा किया कि सुनंदा पुष्कर शशि थरूर और आईपीएल से जुड़े विवादों को उजागर करने वाली थीं। उन्होंने कांग्रेस और राहुल गांधी का भी जिक्र किया। ह्यूमैन्स ऑफ बॉम्बे शो में करिश्मा मेहता को दिए इंटरव्यू में आईपीएल के संस्थापक ललित मोदी ने कांग्रेस, शशि थरूर और सुनंदा पुष्कर से जुड़े पुराने विवादों पर कई बड़े दावे किए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या शशि थरूर और IPL को बेनकाब करने वाली थीं सुनंदा पुष्कर? ललित मोदी का बड़ा खुलासा; राहुल गांधी",
-          "summary": "आईपीएल के संस्थापक ललित मोदी ने एक साक्षात्कार में दावा किया कि सुनंदा पुष्कर शशि थरूर और आईपीएल से जुड़े विवादों को उजागर करने वाली थीं। उन्होंने कांग्रेस और राहुल गांधी का भी जिक्र किया। ह्यूमैन्स ऑफ बॉम्बे शो में करिश्मा मेहता को दिए इंटरव्यू में आईपीएल के संस्थापक ललित मोदी ने कांग्रेस, शशि थरूर और सुनंदा पुष्कर से जुड़े पुराने विवादों पर कई बड़े दावे किए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "वैश्विक व्यापार पर गहराया संकट, ईरान ने दी बाब अल-मंदेब बंद करने की धमकी",
-      "url": "https://www.patrika.com/world-news/iran-threatens-to-close-bab-al-mandeb-after-strait-of-hormuz-middle-east-tension-20632078",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-02T06:05:07+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/bab-al-mandab-strait.webp",
-      "summary": "ईरान ने बाब अल-मंदेब जलडमरूमध्य को बंद करने की धमकी दी है। मध्य पूर्व में बढ़ते भू-राजनीतिक तनाव के बीच यह चेतावनी वैश्विक व्यापार और ऊर्जा आपूर्ति के लिए संकट पैदा कर सकती है। ईरान की ओर से हाल ही में दिए गए बयान ने अंतरराष्ट्रीय समुदाय की चिंता बढ़ा दी है। रिपोर्ट्स के अनुसार, ईरान ने इजरायल-लेबनान संघर्ष के बीच रणनीतिक समुद्री मार्ग बाब अल-मंदेब को बाधित करने की चेतावनी दी है, जिससे वैश्विक व्यापार और ऊर्जा आपूर्ति श्रृंखला पर गंभीर प्रभाव पड़ने की आशंका जताई जा रही ह।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वैश्विक व्यापार पर गहराया संकट, ईरान ने दी बाब अल-मंदेब बंद करने की धमकी",
-          "summary": "ईरान ने बाब अल-मंदेब जलडमरूमध्य को बंद करने की धमकी दी है। मध्य पूर्व में बढ़ते भू-राजनीतिक तनाव के बीच यह चेतावनी वैश्विक व्यापार और ऊर्जा आपूर्ति के लिए संकट पैदा कर सकती है। ईरान की ओर से हाल ही में दिए गए बयान ने अंतरराष्ट्रीय समुदाय की चिंता बढ़ा दी है। रिपोर्ट्स के अनुसार, ईरान ने इजरायल-लेबनान संघर्ष के बीच रणनीतिक समुद्री मार्ग बाब अल-मंदेब को बाधित करने की चेतावनी दी है, जिससे वैश्विक व्यापार और ऊर्जा आपूर्ति श्रृंखला पर गंभीर प्रभाव पड़ने की आशंका जताई जा रही ह।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान से डील के बीच 'भारत के दोस्त' पर क्यों भड़का अमेरिका? तटस्थ बनने पर हड़काया- 'तेहरान छोड़ो",
-      "url": "https://hindi.news18.com/world/middle-east-donald-trump-warns-oman-to-choose-one-side-fire-on-neutral-position-asks-to-cut-ties-with-iran-ws-l-10532297.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-02T05:46:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/oman-trump-2026-06-fed60de0654a72b3bf28033359c1dad7-1200x800.jpg",
-      "summary": "डोनाल्ड ट्रंप ने ओमान को ईरान के साथ अपने संबंधों पर एक पक्ष चुनने की चेतावनी दी है। ट्रंप का मानना है कि ओमान ईरान के साथ एक तटस्थ रुख अपनाकर अपना हित साध रहा है। उन्होंने ओमान से कहा कि वह इस मामले में एक पक्ष चुने। Donald Trump Warning Oman: ईरान से समझौता न होने पाने की वजह से भड़के डोनाल्ड ट्रंप अब अपने ही दोस्तों को खरी-खोटी सुना रहे हैं, पहले तो उन्होंने नेतन्याहू को सुनाया और अब वो दोनों देशों के बीच तटस्थ बनकर अपना काम निकाल रहे ओमान पर भड़क गए हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान से डील के बीच 'भारत के दोस्त' पर क्यों भड़का अमेरिका? तटस्थ बनने पर हड़काया- 'तेहरान छोड़ो",
-          "summary": "डोनाल्ड ट्रंप ने ओमान को ईरान के साथ अपने संबंधों पर एक पक्ष चुनने की चेतावनी दी है। ट्रंप का मानना है कि ओमान ईरान के साथ एक तटस्थ रुख अपनाकर अपना हित साध रहा है। उन्होंने ओमान से कहा कि वह इस मामले में एक पक्ष चुने। Donald Trump Warning Oman: ईरान से समझौता न होने पाने की वजह से भड़के डोनाल्ड ट्रंप अब अपने ही दोस्तों को खरी-खोटी सुना रहे हैं, पहले तो उन्होंने नेतन्याहू को सुनाया और अब वो दोनों देशों के बीच तटस्थ बनकर अपना काम निकाल रहे ओमान पर भड़क गए हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमजोत से निजी काम करवाती थी प्रिंसिपल, इनकार करने पर मिलती थी धमकियां; अब एक्शन में सरकार",
-      "url": "https://www.amarujala.com/punjab/amritsar/girl-student-suicide-case-registered-for-abetment-to-suicide-education-minister-harjot-bains-2026-06-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-02T05:45:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/punjab_6946a6df7b59990068eac25a727671f5.jpeg?w=750&dpr=1.0",
-      "summary": "अमृतसर में 12वीं की छात्रा ने प्रिंसिपल द्वारा कथित तौर पर निजी काम करवाने और इनकार करने पर मिली धमकियों के बाद आत्महत्या कर ली। सरकार ने इस मामले में संज्ञान लिया है और कार्रवाई शुरू कर दी है। अमृतसर में 12वीं कक्षा की छात्रा के आत्महत्या करने के मामले में सरकार एक्शन में आ गई है। अमजोत से निजी काम करवाती थी प्रिंसिपल, इनकार करने पर मिलती थी धमकियां; अब एक्शन में सरकार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमजोत से निजी काम करवाती थी प्रिंसिपल, इनकार करने पर मिलती थी धमकियां; अब एक्शन में सरकार",
-          "summary": "अमृतसर में 12वीं की छात्रा ने प्रिंसिपल द्वारा कथित तौर पर निजी काम करवाने और इनकार करने पर मिली धमकियों के बाद आत्महत्या कर ली। सरकार ने इस मामले में संज्ञान लिया है और कार्रवाई शुरू कर दी है। अमृतसर में 12वीं कक्षा की छात्रा के आत्महत्या करने के मामले में सरकार एक्शन में आ गई है। अमजोत से निजी काम करवाती थी प्रिंसिपल, इनकार करने पर मिलती थी धमकियां; अब एक्शन में सरकार।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दोस्त-दोस्त न रहा? नेतन्याहू से अचानक 'रूठ' क्यों गए डोनाल्ड ट्रंप, ईरान के चलते इजरायल को क्यों",
-      "url": "https://hindi.news18.com/world/america-everyone-hates-you-why-donald-trump-suddenly-called-netanyahu-crazy-on-phone-over-middle-east-clash-between-us-israel-ws-l-10532203.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-02T05:14:16+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/donald-trump-and-benjamin-netanyahu-clash-2026-06-f4c1472e48e08106f46b1ff2b504d87a-1200x800.jpg",
-      "summary": "डोनाल्ड ट्रंप और बेंजामिन नेतन्याहू के बीच ईरान नीति पर मतभेद के चलते तल्खी आ गई है. 1 जून को फोन पर हुई तीखी बहस के बाद ट्रंप ने इजरायल की सैन्य कार्रवाई पर कड़ा विरोध जताया. डोनाल्ड ट्रंप और बेंजामिन नेतन्याहू के बीच तल्‍खी की खबरें सामने आ रही हैं. 1 जून को दोनों दोस्‍तों के बीच में हुई फोन पर तीखी बहस के बाद दोस्‍ती में दरार के साथ ही डोनाल्‍ड ट्रंप के रूठने को लेकर अटकलें लगाई जा रही हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दोस्त-दोस्त न रहा? नेतन्याहू से अचानक 'रूठ' क्यों गए डोनाल्ड ट्रंप, ईरान के चलते इजरायल को क्यों",
-          "summary": "डोनाल्ड ट्रंप और बेंजामिन नेतन्याहू के बीच ईरान नीति पर मतभेद के चलते तल्खी आ गई है. 1 जून को फोन पर हुई तीखी बहस के बाद ट्रंप ने इजरायल की सैन्य कार्रवाई पर कड़ा विरोध जताया. डोनाल्ड ट्रंप और बेंजामिन नेतन्याहू के बीच तल्‍खी की खबरें सामने आ रही हैं. 1 जून को दोनों दोस्‍तों के बीच में हुई फोन पर तीखी बहस के बाद दोस्‍ती में दरार के साथ ही डोनाल्‍ड ट्रंप के रूठने को लेकर अटकलें लगाई जा रही हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान खो रहा बलूचिस्तान? बलोच लड़ाकों का दावा, मई में आसिम मुनीर के 65 सैनिक किए ढेर",
-      "url": "https://hindi.news18.com/world/pakistan-is-pakistan-losing-balochistan-bla-claims-49-attacks-65-pak-soldiers-killed-in-may-2026-is-balochistan-moving-towards-liberation-ws-l-10516349.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-02T04:57:23+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Your-paragraph-text-1600-x-900-px-19-2026-06-a1558ff528b97eea5e71d03f061e423f-1200x800.jpg",
-      "summary": "बलोच लिबरेशन आर्मी (BLA) ने मई 2026 में पाकिस्तान में 49 हमले करने का दावा किया है। BLA के अनुसार, इन हमलों में 65 पाकिस्तानी सैनिक मारे गए और 25 से अधिक क्षेत्रों में विद्रोह फैला। मई 2026 में BLA ने पाकिस्तान में 49 हमलों, 65 पाक सैनिकों के मारे जाने और 25 से ज्यादा इलाकों में फैले विद्रोह का दावा किया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान खो रहा बलूचिस्तान? बलोच लड़ाकों का दावा, मई में आसिम मुनीर के 65 सैनिक किए ढेर",
-          "summary": "बलोच लिबरेशन आर्मी (BLA) ने मई 2026 में पाकिस्तान में 49 हमले करने का दावा किया है। BLA के अनुसार, इन हमलों में 65 पाकिस्तानी सैनिक मारे गए और 25 से अधिक क्षेत्रों में विद्रोह फैला। मई 2026 में BLA ने पाकिस्तान में 49 हमलों, 65 पाक सैनिकों के मारे जाने और 25 से ज्यादा इलाकों में फैले विद्रोह का दावा किया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप की नाराजगी के बाद पीछे हटे नेतन्याहू, अमेरिकी राष्ट्रपति का दावा- अब लेबनान पर नहीं करेंगे",
-      "url": "https://www.amarujala.com/world/israel-pm-benjamin-netanyahu-calls-off-lebanon-raid-after-heated-call-with-donald-trump-2026-06-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-02T04:55:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/donald-trump-israel_c1afbdb18ef117d3a706b61c4b8fe692.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के साथ फोन पर हुई बातचीत के बाद इस्राइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने लेबनान पर हमले की योजना रद्द कर दी है। ट्रंप ने इस बात की पुष्टि की है। ट्रंप की नाराजगी के बाद पीछे हटे नेतन्याहू, अमेरिकी राष्ट्रपति का दावा- अब लेबनान पर नहीं करेंगे।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की नाराजगी के बाद पीछे हटे नेतन्याहू, अमेरिकी राष्ट्रपति का दावा- अब लेबनान पर नहीं करेंगे",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के साथ फोन पर हुई बातचीत के बाद इस्राइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने लेबनान पर हमले की योजना रद्द कर दी है। ट्रंप ने इस बात की पुष्टि की है। ट्रंप की नाराजगी के बाद पीछे हटे नेतन्याहू, अमेरिकी राष्ट्रपति का दावा- अब लेबनान पर नहीं करेंगे।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में गोलीबारी से 7 लोगों की मौत, घरेलू विवाद से जुड़ा मामला",
-      "url": "https://www.patrika.com/world-news/america-iowa-shooting-over-domestic-dispute-7-dead-20631694",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-02T04:39:49+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/America-Iowa-Shooting.webp",
-      "summary": "आयोवा के मस्कटाइन शहर में एक घरेलू विवाद के कारण हुई गोलीबारी में छह लोगों की मौत हो गई। हमलावर ने तीन अलग-अलग जगहों पर गोली चलाई और बाद में आत्महत्या कर ली। America Iowa shooting: अमेरिका के आयोवा राज्य के मस्कटाइन शहर में सोमवार को घरेलू विवाद को लेकर हुई गोलीबारी में छह लोगों की मौत हो गई। पुलिस के अनुसार, 52 साल का रयान विलिस मैकफार्लैंड नामक व्यक्ति ने तीन अलग-अलग स्थानों पर गोली चलाकर छह लोगों की हत्या की और बाद में खुद को गोली मारकर आत्महत्या कर ली।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में गोलीबारी से 7 लोगों की मौत, घरेलू विवाद से जुड़ा मामला",
-          "summary": "आयोवा के मस्कटाइन शहर में एक घरेलू विवाद के कारण हुई गोलीबारी में छह लोगों की मौत हो गई। हमलावर ने तीन अलग-अलग जगहों पर गोली चलाई और बाद में आत्महत्या कर ली। America Iowa shooting: अमेरिका के आयोवा राज्य के मस्कटाइन शहर में सोमवार को घरेलू विवाद को लेकर हुई गोलीबारी में छह लोगों की मौत हो गई। पुलिस के अनुसार, 52 साल का रयान विलिस मैकफार्लैंड नामक व्यक्ति ने तीन अलग-अलग स्थानों पर गोली चलाकर छह लोगों की हत्या की और बाद में खुद को गोली मारकर आत्महत्या कर ली।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "हादसे में बेटे को खोने वाली माँ का छलका दर्द, कहा – ‘वह हर जगह मेरे साथ रहता है’",
-      "url": "https://www.patrika.com/national-news/ahmedabad-plane-crash-victim-javed-ali-mother-farida-bano-says-son-follows-her-everywhere-20631589",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-02T04:37:56+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/air-india-plane-crash-in-ahmedabad.webp",
-      "summary": "अहमदाबाद में 12 जून 2025 को एयर इंडिया के बोइंग ड्रीमलाइनर 787-8 विमान के दुर्घटनाग्रस्त होने के बाद एक माँ ने अपने बेटे को खोने का दर्द बयां किया। अहमदाबाद विमान हादसा (Ahmedabad Plane Crash) दुनिया के सबसे भीषण विमान हादसों में से एक है। 12 जून 2025 को हुए इस हादसे ने पूरी देश को ही नहीं, बल्कि पूरी दुनिया को झकझोर दिया था।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हादसे में बेटे को खोने वाली माँ का छलका दर्द, कहा – ‘वह हर जगह मेरे साथ रहता है’",
-          "summary": "अहमदाबाद में 12 जून 2025 को एयर इंडिया के बोइंग ड्रीमलाइनर 787-8 विमान के दुर्घटनाग्रस्त होने के बाद एक माँ ने अपने बेटे को खोने का दर्द बयां किया। अहमदाबाद विमान हादसा (Ahmedabad Plane Crash) दुनिया के सबसे भीषण विमान हादसों में से एक है। 12 जून 2025 को हुए इस हादसे ने पूरी देश को ही नहीं, बल्कि पूरी दुनिया को झकझोर दिया था।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "न नौकरी बची, न अमेरिका में रहने का हक... 30 भारतीयों पर गिरी ट्रंप प्रशासन की गाज, वापस भेजे जाएंगे",
-      "url": "https://hindi.news18.com/world/america-30-indian-truck-drivers-held-during-operation-checkmate-for-illegally-working-in-us-likely-to-be-deported-to-india-10532099.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-02T04:37:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Truck-Drivers-2026-06-1394caf43a6fb7f270365c592b184f5c-1200x800.jpg",
-      "summary": "एरिजोना में 'ऑपरेशन चेकमेट' के दौरान 30 भारतीय नागरिकों सहित 36 अवैध अप्रवासियों को हिरासत में लिया गया। इन भारतीयों को अमेरिका से निर्वासित कर भारत वापस भेजा जाएगा। Indian in US: एरिजोना के युमा सेक्टर में चलाए गए 'ऑपरेशन चेकमेट' के दौरान कुल 52 लोगों को हिरासत में लिया गया. इनमें 36 लोग ऐसे पाए गए जो अमेरिका में अवैध रूप से रह रहे थे और कमर्शियल ट्रक ड्राइवर के रूप में काम कर रहे थे.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "न नौकरी बची, न अमेरिका में रहने का हक... 30 भारतीयों पर गिरी ट्रंप प्रशासन की गाज, वापस भेजे जाएंगे",
-          "summary": "एरिजोना में 'ऑपरेशन चेकमेट' के दौरान 30 भारतीय नागरिकों सहित 36 अवैध अप्रवासियों को हिरासत में लिया गया। इन भारतीयों को अमेरिका से निर्वासित कर भारत वापस भेजा जाएगा। Indian in US: एरिजोना के युमा सेक्टर में चलाए गए 'ऑपरेशन चेकमेट' के दौरान कुल 52 लोगों को हिरासत में लिया गया. इनमें 36 लोग ऐसे पाए गए जो अमेरिका में अवैध रूप से रह रहे थे और कमर्शियल ट्रक ड्राइवर के रूप में काम कर रहे थे.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "नेपाली प्रतिनिधि सभा में हंगामा क्यों है बरपा? सीमा विवाद पर दिया बयान बना PM बालेन की गले की फांस",
-      "url": "https://www.patrika.com/world-news/impact-nepal-pm-balen-shah-encroachment-statement-on-relations-with-india-expailner-20631712",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-02T04:33:20+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/03/nepalprotestnews.webp",
-      "summary": "नेपाल के प्रधानमंत्री बालेन शाह ने प्रतिनिधि सभा में भारत के साथ सीमा विवाद पर बयान दिया। उन्होंने कहा कि लिपुलेख और कालापानी पर बातचीत से हल निकलेगा। उन्होंने यह भी कहा कि नेपाल ने भी भारत की जमीन पर अतिक्रमण किया है। नेपाल के प्रधानमंत्री बालेन शाह (Nepal PM Balen Shah Encroachment Statement) ने लिपुलेख और कालापानी को लेकर भारत के जारी सीमा विवाद पर पहली बार प्रतिक्रिया दी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाली प्रतिनिधि सभा में हंगामा क्यों है बरपा? सीमा विवाद पर दिया बयान बना PM बालेन की गले की फांस",
-          "summary": "नेपाल के प्रधानमंत्री बालेन शाह ने प्रतिनिधि सभा में भारत के साथ सीमा विवाद पर बयान दिया। उन्होंने कहा कि लिपुलेख और कालापानी पर बातचीत से हल निकलेगा। उन्होंने यह भी कहा कि नेपाल ने भी भारत की जमीन पर अतिक्रमण किया है। नेपाल के प्रधानमंत्री बालेन शाह (Nepal PM Balen Shah Encroachment Statement) ने लिपुलेख और कालापानी को लेकर भारत के जारी सीमा विवाद पर पहली बार प्रतिक्रिया दी।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
