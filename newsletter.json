@@ -1,12 +1,96 @@
 {
-  "generated_at": "2026-06-03T21:51:23.937630+00:00",
+  "generated_at": "2026-06-03T23:45:38.418731+00:00",
   "article_count": 50,
-  "total_unique_count": 259,
+  "total_unique_count": 258,
   "digest": {
-    "en": "SpaceX's potential IPO dominates headlines. Satellite imagery suggests Israel's territorial ambitions in Gaza. Meanwhile, the UN reports on the Ukraine war's toll on children.",
-    "hi": "निर्जला एकादशी पर 3 शुभ संयोगों का संयोग बना है। जर्मनी संयुक्त राष्ट्र सुरक्षा परिषद से बाहर हो गया है। अंगोला में जीवों की दर्जनों नई प्रजातियां मिली हैं।"
+    "en": "North Korea's nuclear ambitions and the US House advancing Ukraine aid dominate headlines. Meanwhile, satellite imagery suggests Israel's territorial goals in Gaza. Nvidia's GPU restrictions are also impacting data centers in Southeast Asia.",
+    "hi": "ईरान से समझौते की उम्मीद और होर्मुज जलडमरूमध्य के खुलने का दावा प्रमुख है। वहीं, लेबनान में युद्धविराम पर इस्राइल का सख्त रुख संघर्ष की निरंतरता को दर्शाता है।"
   },
   "articles": [
+    {
+      "title": "Warm compress, cold packs, Epsom salt bath: How to do 6 home therapies properly according to physios",
+      "url": "https://www.channelnewsasia.com/wellness/home-therapy-sitz-bath-warm-compress-gel-pack-guide-6131681",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-03T23:27:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Gmo_hkNW--/c_crop,h_900,w_1600,x_0,y_150/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/20/home-therapy-sitz-bath-warm-compress-gel-pack-guide_3.jpg?itok=QsRVQslC",
+      "summary": "Physiotherapists provided guidance on proper application of home therapies for pain and recovery. They seem easy to prep but how hot should the water be and how long do you use these home therapies for pain, swelling or recovery? Physiotherapists explain what works and what to avoid doing. Warm compress, cold packs, Epsom salt bath: How to do 6 home therapies properly according to physios.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "North Korea's Kim vows 'exponential' boost in nuclear forces",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-nuclear-exponential-boost-6160921",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-03T23:15:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--twRFV728--/c_crop,h_576,w_1024,x_0,y_149/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/04/000_a4g77cq.jpg?itok=uw3hvW3L",
+      "summary": "North Korean leader Kim Jong Un pledged an \"exponential\" increase in the country's nuclear Of the planned increase, North Korean leader Kim Jong Un said: \"This signifies an amazing, successful change that is beyond rhetorical description, a historic event that has set up an epochal milestone in rapidly upgrading our nuclear capabilities.\". North Korea's Kim vows 'exponential' boost in nuclear forces.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US House Advances Ukraine Aid Bill as Rubio Says Russia Failing to Meet War Goals",
+      "url": "https://www.rferl.org/a/33772022.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-06-03T22:54:29+00:00",
+      "image_url": "https://gdb.rferl.org/058a0000-0aff-0242-d7c7-08dae369865f_w1200_h630.jpg",
+      "summary": "The US House of Representatives voted on June 3 to advance new military assistance The US House of Representatives voted on June 3 to advance legislation providing new military assistance to Ukraine, overcoming opposition from the administration and marking the first major Ukraine support measure to gain traction in Congress since Donald Trump's return to office. The House approved a procedural motion by a vote of 218-204, clearing the way for a final vote on the Ukraine Support.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Rubio warns of Ukraine war 'escalation' risk",
+      "url": "https://www.thehindu.com/news/international/rubio-warns-of-ukraine-war-escalation-risk/article71058737.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-03T22:47:26+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/pihsqa/article71058739.ece/alternates/LANDSCAPE_1200/Senate_Appropriations_84_35.jpg",
+      "summary": "Ukrainian drones struck energy infrastructure in St. Petersburg. Kyiv called this retaliation for Russian strikes that killed 23 people. Senator Marco Rubio warned of escalation risk in the Ukraine war. The remarks came after Ukrainian drones struck energy infrastructure in Russia's second-largest city, St. Petersburg, an attack Kyiv called retaliation for a mass wave of Russian strikes on Tuesday that killed at least 23 people.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "It may be time to rethink Singapore’s Foreign Sports Talent Scheme and its future",
+      "url": "https://www.channelnewsasia.com/commentary/singapore-rethink-foreign-sports-talent-scheme-team-singapore-6155756",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-03T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--qGmPELp1--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/12/20/jer_2257.jpg?itok=LBiKlQHX",
+      "summary": "RSIS' Lam Teng Si suggests Singapore should re-evaluate its Foreign Sports If the Foreign Sports Talent Scheme is to play a continued role, looking only at short-term achievements - specifically in securing medals - risks missing the larger picture, says RSIS’ Lam Teng Si who was a former national youth table tennis player. It may be time to rethink Singapore’s Foreign Sports Talent Scheme and its future.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran FM says 'no tangible progress' in talks but Trump says deal close",
+      "url": "https://www.channelnewsasia.com/world/iran-no-tangible-progress-talks-trump-deal-close-6160831",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-03T21:59:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--sjfcYrP---/c_crop,h_449,w_799,x_1,y_30/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-03T124702Z_1_LYNXMPEM520ZM_RTROPTP_3_IRAN-CRISIS-DAILY-LIFE.JPG?itok=vAE8hUbJ",
+      "summary": "Iran's foreign minister Abbas Araghchi reported no tangible progress in ongoing talks Despite comments by Iran's foreign minister Abbas Araghchi that \"no tangible progress\" had been made in negotiations, US President Donald Trump told reporters at the White House that the Iran talks could yield a result \"over the weekend\". Iran FM says 'no tangible progress' in talks but Trump says deal close.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nvidia GPU crackdown hits China-linked Southeast Asia data centers",
+      "url": "https://asiatimes.com/2026/06/nvidia-gpu-crackdown-hits-china-linked-southeast-asia-data-centers/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-06-03T21:50:22+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/DGX-Station.jpg",
+      "summary": "Washington closed a loophole allowing Chinese firms to acquire banned Nvidia GPUs through Singapore and Malaysia subsidiaries. Washington has moved to close a one-year-old loophole that allowed Chinese technology companies to acquire banned high-end Nvidia graphics processing units (GPUs) by routing purchases through subsidiaries based in Singapore and Malaysia. The US Commerce Department’s Bureau of Industry and Security (BIS) issued guidance on May 31 clarifying that export licenses are required for advanced [] The pos.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "SpaceX’s IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
       "url": "https://www.thehindu.com/news/international/spacexs-ipo-is-set-to-be-the-biggest-ever-and-could-make-elon-musk-a-trillionaire/article71058600.ece",
@@ -38,7 +122,7 @@
       "sources": [],
       "published_at": "2026-06-03T18:26:20+00:00",
       "image_url": "https://th-i.thgim.com/public/news/national/gwkgn1/article71058531.ece/alternates/LANDSCAPE_1200/2023-04-28T153209Z_1988354959_RC2QN0A7P2GW_RTRMADP_3_USA-BONDS-REFUNDING.jpg",
-      "summary": "The U. S. The sanctions target Gustave Kubwayo, alleged to be the commander of FDLR, and John Imani Nzenze, alleged to be the March 23 (M23) commander and chief of intelligence, says the U. S. Treasury in a statement. U. S. sanctions alleged rebel commanders in DR Congo.",
+      "summary": "The U. S. The sanctions target Gustave Kubwayo, alleged to be the commander of FDLR, and John Imani Nzenze, alleged to be the March 23 (M23) commander and chief of intelligence, says the U. Treasury in a statement. U. sanctions alleged rebel commanders in DR Congo. U. S.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -200,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "The Lockheed-Tanaka bagman",
-      "url": "https://asiatimes.com/2026/06/the-lockheed-tanaka-bagman/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-06-02T15:20:41+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/lockheed-kakuei.jpg",
-      "summary": "The provided source text is an excerpt from a blog post, not a news report. It contains a quote from John le Carré and a personal reflection from the author. It does not contain factual reporting of events, decisions, or consequences suitable for a news summary. Therefore, I cannot generate a GeoPulse summary from this input. ‘In every trouble spot I have cautiously visited, there has always been one watering hole where, as if by secret rite, hacks, spies, aid workers and carpetbaggers converge.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Russia Bets On Education To Sustain Influence In Central Asia",
       "url": "https://www.rferl.org/a/russia-schools-central-asia-kyrgyzstan-tajikistan-kazakhstan-uzbekistan/33771019.html",
       "source": "Radio Free Europe / Liberty",
@@ -236,199 +308,55 @@
       "translations": {}
     },
     {
-      "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167626",
-      "source": "UN News",
+      "title": "ईरान से समझौते की उम्मीद, होर्मुज जल्द खुलने का दावा; यूरेनियम पर भी ट्रंप का बड़ा बयान",
+      "url": "https://www.amarujala.com/world/strait-of-hormuz-to-reopen-immediately-upon-signing-mou-with-iran-negotiations-going-very-well-trump-2026-06-04",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-06-02T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-UN-Photo-Khalilur-Rahman.jpg/image770x420cropped.jpg",
-      "summary": "Bangladeshi Foreign Minister Khalilur Rahman was elected President of the UN General Assembly's 81st session. He defeated Andreas Kakouris of Cyprus. Rahman will lead the UN through a year of global crises and reform efforts. Bangladeshi Foreign Minister Khalilur Rahman was elected President of the UN General Assembly’s 81st session on Tuesday after defeating Andreas Kakouris of Cyprus in a closely contested vote, positioning himself to steer the world body through a pivotal year marked by intensifying global crises, UN reform efforts and major leadership transitions.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UN urges world not to forget Rohingya refugees as aid cuts threaten vital support",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167623",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-02T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-03-2025_UNICEF_Rohingya.jpg/image770x420cropped.jpg",
-      "summary": "The UN refugee agency appealed to the international community not to abandon 1. As the world approaches nine years since the mass displacement of Rohingya refugees from Myanmar into Bangladesh, the UN refugee agency (UNHCR) has appealed to the international community not to abandon the 1.2 million refugees living in the country, most of them in camps in Cox’s Bazar.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Massive Russian Strike On Ukraine Kills Civilians, Injures Dozens",
-      "url": "https://www.rferl.org/a/massive-russian-strike-on-ukraine-kills-civilians/33770894.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-02T10:32:49+00:00",
-      "image_url": "https://gdb.rferl.org/82fd5975-6e4c-4f8a-8e1a-08debadc418c_w1200_h630.jpg",
-      "summary": "Russia launched a massive drone and missile attack across Ukraine on June 2. Russia launched one of its largest drone-and-missile attacks on Ukraine, striking cities across the country. At least four people were killed in Kyiv and at least nine in Dnipro, with dozens more injured. Ukraine's Air Force said Russia fired 73 missiles and 656 drones overnight on June 2.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
-      "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-01T11:59:11+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/14d5a2332c838f6d5787e4e6c210d3dd7a02ac7c/761_0_3892_3113/master/3892.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3d14a14f27927e6308a3e577da17dbb",
-      "summary": "Ghana's parliament approved a bill criminalizing the promotion of LGBTQ+ activities and Community groups say some fear they could lose homes, jobs and access to healthcare if the new law is ratified by President John Dramani MahamaGhana’s LGBTQ community is living in fear after the country’s parliament approved a sweeping bill that criminalises the promotion of LGBTQ+ activities and identifying as lesbian, gay, bisexual, transgender or queer, rights groups have warned. The legislation.",
+      "published_at": "2026-06-03T23:38:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/strait-of-hormuz-to-reopen-immediately-upon-signing-mou-with-iran-negotiations-going-very-well-tru_f46604fd2694c8b085ab8e0821644e37.jpeg?w=750&dpr=1.0",
+      "summary": "राष्ट्रपति ट्रंप ने कहा कि ईरान के साथ समझौता होने पर होर्मुज जलडमरूमध्य तुरंत खुल जाएगा। उन्होंने यूरेनियम पर भी बयान दिया। ईरान से समझौते की उम्मीद, होर्मुज जल्द खुलने का दावा; यूरेनियम पर भी ट्रंप का बड़ा बयान।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Japan defence minister rebuffs claims of ‘new militarism’ levelled by China",
-      "url": "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-31T05:02:39+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/02d774e13d041f094f583254b13136c5a354374e/846_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0c519ad695a6feff1b056c8689ab4e0",
-      "summary": "Japan's Defence Minister Shinjiro Koizumi rejected claims of \"new militarism.\" He stated Japan values its reputation as a peace-loving nation. This comes as China expands its military capabilities without sufficient transparency. Shinjiro Koizumi says Japan valued as a ‘peace-loving’ nation while China expands military capabilities ‘without sufficient transparency’Japan’s defence minister took a veiled swipe at China on Sunday, pledging to keep strengthening the military despite Beijing’s criticism of Tokyo’s increasingly muscular security stance. Under the prime minister, Sanae Takaichi, Japan has quickened its pivot to a.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "New Aukus drone tech to protect critical undersea cables as Marles warns: ‘seabed is a battlefield’",
-      "url": "https://www.theguardian.com/australia-news/2026/may/31/richard-marles-defence-summit-singapore-china-transparency-pete-hegseth",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-30T22:10:04+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/917f0fa443ec17af52ca5112d26b4bb4010b7b3a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bd1273951d62673e27506a27e64511a",
-      "summary": "Australia’s defence minister, Richard Marles, declared the \"seabed is a Minister at Singapore defence summit also reveals Australia to buy only secondhand Aukus submarines from USFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe defence minister, Richard Marles, has said the “seabed is a battlefield” in a combative speech urging Beijing to be more transparent about its maritime operations, and taking a.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "3 बड़े शुभ संयोग में मनाई जाएगी निर्जला एकादशी, ये काम करने से मिलेंगे मनचाहे फल",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/nirjala-ekadashi-vrat-2026-date-and-shubh-yog-remedies-in-hindi-2026-06-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-04T07:28:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/10/nirjala-ekadashi-2024_9254f273a30f090950de7abcd5f1f70f.jpeg?w=750&dpr=1.0",
-      "summary": "25 जून 2026 को निर्जला एकादशी का व्रत रखा जाएगा। यह व्रत सभी एकादशी व्रतों में सबसे कठिन माना जाता है। इस वर्ष तीन बड़े शुभ संयोगों में यह व्रत मनाया जाएगा। इन संयोगों में व्रत रखने और कुछ विशेष कार्य करने से मनचाहे फल प्राप्त हो सकते हैं। Nirjala Ekadashi Vrat 2026: हिंदू धर्म में निर्जला एकादशी का व्रत सभी एकादशी व्रतों में सबसे कठिन माना जाता है।",
-      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "3 बड़े शुभ संयोग में मनाई जाएगी निर्जला एकादशी, ये काम करने से मिलेंगे मनचाहे फल",
-          "summary": "25 जून 2026 को निर्जला एकादशी का व्रत रखा जाएगा। यह व्रत सभी एकादशी व्रतों में सबसे कठिन माना जाता है। इस वर्ष तीन बड़े शुभ संयोगों में यह व्रत मनाया जाएगा। इन संयोगों में व्रत रखने और कुछ विशेष कार्य करने से मनचाहे फल प्राप्त हो सकते हैं। Nirjala Ekadashi Vrat 2026: हिंदू धर्म में निर्जला एकादशी का व्रत सभी एकादशी व्रतों में सबसे कठिन माना जाता है।",
-          "region": "दुनिया"
+          "title": "ईरान से समझौते की उम्मीद, होर्मुज जल्द खुलने का दावा; यूरेनियम पर भी ट्रंप का बड़ा बयान",
+          "summary": "राष्ट्रपति ट्रंप ने कहा कि ईरान के साथ समझौता होने पर होर्मुज जलडमरूमध्य तुरंत खुल जाएगा। उन्होंने यूरेनियम पर भी बयान दिया। ईरान से समझौते की उम्मीद, होर्मुज जल्द खुलने का दावा; यूरेनियम पर भी ट्रंप का बड़ा बयान।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "UN सुरक्षा परिषद से जर्मनी बाहर: पुर्तगाल-ऑस्ट्रिया ने जीती सीटें; पहली बार UNSC में पहुंचेगा",
-      "url": "https://www.amarujala.com/world/portugal-and-austria-win-un-security-council-seats-germany-misses-out-in-closely-watched-election-2026-06-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-04T07:19:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/sayakata-rashhatara-sarakashha-parashhatha_99aefca06cdaf306fe555d9f705ab676.jpeg?w=750&dpr=1.0",
-      "summary": "जर्मनी संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में अपना कार्यकाल पूरा करने के बाद बाहर हो गया है। पुर्तगाल और ऑस्ट्रिया ने परिषद में सीटें जीती हैं। किर्गिस्तान पहली बार सुरक्षा परिषद में पहुंचेगा। UN सुरक्षा परिषद से जर्मनी बाहर: पुर्तगाल-ऑस्ट्रिया ने जीती सीटें; पहली बार UNSC में पहुंचेगा किर्गिस्तान।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UN सुरक्षा परिषद से जर्मनी बाहर: पुर्तगाल-ऑस्ट्रिया ने जीती सीटें; पहली बार UNSC में पहुंचेगा",
-          "summary": "जर्मनी संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में अपना कार्यकाल पूरा करने के बाद बाहर हो गया है। पुर्तगाल और ऑस्ट्रिया ने परिषद में सीटें जीती हैं। किर्गिस्तान पहली बार सुरक्षा परिषद में पहुंचेगा। UN सुरक्षा परिषद से जर्मनी बाहर: पुर्तगाल-ऑस्ट्रिया ने जीती सीटें; पहली बार UNSC में पहुंचेगा किर्गिस्तान।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पुणे में भ्रूण लिंग जांच गिरोह का भंडाफोड़: 12वीं पास शख्स चला रहा था रैकेट, आयुर्वेद डॉक्टर समेत",
-      "url": "https://www.amarujala.com/india-news/pune-fetal-determination-racket-busted-man-used-portable-ultrasound-device-for-illegal-gender-testing-2026-06-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-04T06:48:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/pune_f716435602aeba854cfc444d3ec79e8a.png?w=750&dpr=1.0",
-      "summary": "पुणे पुलिस ने एक भ्रूण लिंग जांच गिरोह का भंडाफोड़ किया है। पुलिस ने इस मामले में एक 12वीं पास व्यक्ति को मुख्य सरगना बनाया है। उसके साथ एक आयुर्वेद डॉक्टर और एक अन्य व्यक्ति को गिरफ्तार किया गया है। यह गिरोह अवैध रूप से लिंग जांच करता था। पुणे में भ्रूण लिंग जांच गिरोह का भंडाफोड़: 12वीं पास शख्स चला रहा था रैकेट, आयुर्वेद डॉक्टर समेत दो गिरफ्तार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पुणे में भ्रूण लिंग जांच गिरोह का भंडाफोड़: 12वीं पास शख्स चला रहा था रैकेट, आयुर्वेद डॉक्टर समेत",
-          "summary": "पुणे पुलिस ने एक भ्रूण लिंग जांच गिरोह का भंडाफोड़ किया है। पुलिस ने इस मामले में एक 12वीं पास व्यक्ति को मुख्य सरगना बनाया है। उसके साथ एक आयुर्वेद डॉक्टर और एक अन्य व्यक्ति को गिरफ्तार किया गया है। यह गिरोह अवैध रूप से लिंग जांच करता था। पुणे में भ्रूण लिंग जांच गिरोह का भंडाफोड़: 12वीं पास शख्स चला रहा था रैकेट, आयुर्वेद डॉक्टर समेत दो गिरफ्तार।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कलकत्ता हाईकोर्ट का आदेश, TMC सांसद अभिषेक बनर्जी के परिजन और कंपनी को फिर से नोटिस भेजेगा केएमसी",
-      "url": "https://www.amarujala.com/india-news/hc-directs-kmc-to-serve-fresh-notices-to-abhishek-banerjee-s-family-member-leaps-and-bounds-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-04T06:45:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/hc-directs-kmc-to-serve-fresh-notices-to-abhishek-banerjees-family-member-leaps-and-bounds_9d43e6b2e56c72278941aaea37228f04.png?w=750&dpr=1.0",
-      "summary": "कलकत्ता उच्च न्यायालय ने कोलकाता नगर निगम (केएमसी) को तृणमूल कांग्रेस सांसद अभिषेक बनर्जी के परिवार के सदस्य और उनकी कंपनी लीप्‍स एंड बाउंड्स को फिर से नोटिस भेजने का निर्देश दिया है। यह आदेश एक भूमि आवंटन मामले में आया है। अदालत ने केएमसी को यह सुनिश्चित करने का निर्देश दिया कि नोटिस उचित तरीके से तामील हो। यह मामला बनर्जी के परिवार से जुड़ी एक कंपनी को भूमि आवंटन से संबंधित है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कलकत्ता हाईकोर्ट का आदेश, TMC सांसद अभिषेक बनर्जी के परिजन और कंपनी को फिर से नोटिस भेजेगा केएमसी",
-          "summary": "कलकत्ता उच्च न्यायालय ने कोलकाता नगर निगम (केएमसी) को तृणमूल कांग्रेस सांसद अभिषेक बनर्जी के परिवार के सदस्य और उनकी कंपनी लीप्‍स एंड बाउंड्स को फिर से नोटिस भेजने का निर्देश दिया है। यह आदेश एक भूमि आवंटन मामले में आया है। अदालत ने केएमसी को यह सुनिश्चित करने का निर्देश दिया कि नोटिस उचित तरीके से तामील हो। यह मामला बनर्जी के परिवार से जुड़ी एक कंपनी को भूमि आवंटन से संबंधित है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप को IRS ऑडिट से छूट मिली या नहीं? सवाल पर चुप्पी; अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने टाला",
-      "url": "https://www.amarujala.com/world/scott-bessent-refuses-to-confirm-irs-audit-immunity-status-for-donald-trump-amid-legal-controversy-2026-06-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-03T21:49:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/26/scott-bessent_b46baa37ae5ef2b03bfeaf2280a1e6cc.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने इस बात पर टिप्पणी करने से इनकार कर दिया कि क्या पूर्व राष्ट्रपति डोनाल्ड ट्रंप को आंतरिक राजस्व सेवा (IRS) ऑडिट से छूट मिली थी। बेसेंट ने कहा कि वह व्यक्तिगत कर मामलों पर चर्चा नहीं कर सकते। यह जवाब तब आया जब उनसे पूछा गया कि क्या ट्रंप को IRS के सामान्य ऑडिट से छूट दी गई थी।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप को IRS ऑडिट से छूट मिली या नहीं? सवाल पर चुप्पी; अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने टाला",
-          "summary": "अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने इस बात पर टिप्पणी करने से इनकार कर दिया कि क्या पूर्व राष्ट्रपति डोनाल्ड ट्रंप को आंतरिक राजस्व सेवा (IRS) ऑडिट से छूट मिली थी। बेसेंट ने कहा कि वह व्यक्तिगत कर मामलों पर चर्चा नहीं कर सकते। यह जवाब तब आया जब उनसे पूछा गया कि क्या ट्रंप को IRS के सामान्य ऑडिट से छूट दी गई थी।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "कुवैत एयरपोर्ट हमले पर ईरान का दावा, IRGC ने अमेरिका के पैट्रियट सिस्टम को बताया जिम्मेदार",
+      "title": "लेबनान में युद्धविराम पर इस्राइल का सख्त रुख, सेना प्रमुख बोले- हालात अब भी संघर्ष जैसे",
       "url": "https://www.amarujala.com/live/world/west-asia-war-live-updates-donald-trump-iran-ceasefire-strait-of-hormuz-israel-lebanon-news-in-hindi-2026-06-04",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-06-03T21:20:22+00:00",
+      "published_at": "2026-06-03T23:38:49+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/12/us-iran-war_20b220cfbfa9ac73f8442a1db5b31793.jpeg?w=750&dpr=1.0",
       "summary": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने कुवैत अंतरराष्ट्रीय हवाई अड्डे पर हुए हमले की जिम्मेदारी ली है। IRGC ने दावा किया कि हमले में अमेरिकी पैट्रियट मिसाइल रक्षा प्रणाली का इस्तेमाल किया गया था। यह घटना कुवैत के लिए एक महत्वपूर्ण सुरक्षा चिंता का विषय है। West Asia War LIVE: कुवैत एयरपोर्ट हमले पर ईरान का दावा, IRGC ने अमेरिका के पैट्रियट सिस्टम को बताया जिम्मेदार।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कुवैत एयरपोर्ट हमले पर ईरान का दावा, IRGC ने अमेरिका के पैट्रियट सिस्टम को बताया जिम्मेदार",
+          "title": "लेबनान में युद्धविराम पर इस्राइल का सख्त रुख, सेना प्रमुख बोले- हालात अब भी संघर्ष जैसे",
           "summary": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने कुवैत अंतरराष्ट्रीय हवाई अड्डे पर हुए हमले की जिम्मेदारी ली है। IRGC ने दावा किया कि हमले में अमेरिकी पैट्रियट मिसाइल रक्षा प्रणाली का इस्तेमाल किया गया था। यह घटना कुवैत के लिए एक महत्वपूर्ण सुरक्षा चिंता का विषय है। West Asia War LIVE: कुवैत एयरपोर्ट हमले पर ईरान का दावा, IRGC ने अमेरिका के पैट्रियट सिस्टम को बताया जिम्मेदार।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "अंगोला में मिलीं जीवों की दर्जनों नई प्रजातियां, नीली चमक छोड़ने वाली मकड़ी भी मिली",
-      "url": "https://www.patrika.com/world-news/angola-new-species-discovered-glowing-blue-spider-found-20637699",
-      "source": "Patrika (World)",
+      "title": "ईरान युद्ध पर ट्रंप को झटका: अमेरिकी संसद से सैन्य कार्रवाई रोकने का प्रस्ताव पारित, रिपब्लिकन ने",
+      "url": "https://www.amarujala.com/world/west-asia-crisis-house-approves-war-powers-resolution-to-halt-military-action-against-iran-2026-06-04",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-03T20:49:06+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/spider.webp",
-      "summary": "अंगोला के पूर्वी लिसिमा पठार में वैज्ञानिकों ने जीवों की दर्जनों नई प्रजातियों की खोज की है। इस अभियान में एक नीली चमक छोड़ने वाली मकड़ी भी शामिल है। यह खोज ऐसे समय में हुई है जब दुनिया भर में जैव विविधता तेजी से घट रही है। Angola New Species Discovery: दुनियाभर में जैव विविधता तेजी से घट रही है, फिर भी वैज्ञानिक पहले से कहीं अधिक तेजी से नई प्रजातियों की खोज कर रहे हैं।",
+      "published_at": "2026-06-03T22:54:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/west-asia-crisis-house-approves-war-powers-resolution-to-halt-military-action-against-iran_795a87efcddbd10d8bb1993715dcf28d.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी प्रतिनिधि सभा ने ईरान के खिलाफ सैन्य कार्रवाई रोकने के लिए एक प्रस्ताव पारित किया। इसमें रिपब्लिकन सदस्यों का भी समर्थन मिला। ईरान युद्ध पर ट्रंप को झटका: अमेरिकी संसद से सैन्य कार्रवाई रोकने का प्रस्ताव पारित, रिपब्लिकन ने।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अंगोला में मिलीं जीवों की दर्जनों नई प्रजातियां, नीली चमक छोड़ने वाली मकड़ी भी मिली",
-          "summary": "अंगोला के पूर्वी लिसिमा पठार में वैज्ञानिकों ने जीवों की दर्जनों नई प्रजातियों की खोज की है। इस अभियान में एक नीली चमक छोड़ने वाली मकड़ी भी शामिल है। यह खोज ऐसे समय में हुई है जब दुनिया भर में जैव विविधता तेजी से घट रही है। Angola New Species Discovery: दुनियाभर में जैव विविधता तेजी से घट रही है, फिर भी वैज्ञानिक पहले से कहीं अधिक तेजी से नई प्रजातियों की खोज कर रहे हैं।",
+          "title": "ईरान युद्ध पर ट्रंप को झटका: अमेरिकी संसद से सैन्य कार्रवाई रोकने का प्रस्ताव पारित, रिपब्लिकन ने",
+          "summary": "अमेरिकी प्रतिनिधि सभा ने ईरान के खिलाफ सैन्य कार्रवाई रोकने के लिए एक प्रस्ताव पारित किया। इसमें रिपब्लिकन सदस्यों का भी समर्थन मिला। ईरान युद्ध पर ट्रंप को झटका: अमेरिकी संसद से सैन्य कार्रवाई रोकने का प्रस्ताव पारित, रिपब्लिकन ने।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -470,96 +398,6 @@
       }
     },
     {
-      "title": "अवैध बेड एंड ब्रेकफास्ट अब नहीं चलेंगे, मंत्री का आदेश-24 घंटे में सर्वे कर सील करो",
-      "url": "https://www.amarujala.com/delhi-ncr/delhi-fire-illegal-bed-and-breakfasts-will-no-longer-operate-minister-orders-survey-and-seal-within-24-hours-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-03T20:41:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/07/thall-ka-shakashha-matara-aashashha-satha_1eb05b238b3cddf5ed5447e63f306c23.jpeg?w=750&dpr=1.0",
-      "summary": "दिल्ली में अवैध बेड एंड ब्रेकफास्ट और गेस्ट हाउस पर कार्रवाई तेज हो गई है। एक मंत्री के आदेश के बाद, अधिकारियों को 24 घंटे के भीतर ऐसे प्रतिष्ठानों का सर्वे कर उन्हें सील करने का निर्देश दिया गया है। यह कदम मालवीय नगर की आग के बाद उठाया गया है। मालवीय नगर के हौजरानी इलाके में बुधवार सुबह लगी भीषण आग के बाद दिल्ली में चल रहे अवैध गेस्ट हाउस और होम स्टे संचालन पर बड़ा प्रशासनिक एक्शन शुरू हो गया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अवैध बेड एंड ब्रेकफास्ट अब नहीं चलेंगे, मंत्री का आदेश-24 घंटे में सर्वे कर सील करो",
-          "summary": "दिल्ली में अवैध बेड एंड ब्रेकफास्ट और गेस्ट हाउस पर कार्रवाई तेज हो गई है। एक मंत्री के आदेश के बाद, अधिकारियों को 24 घंटे के भीतर ऐसे प्रतिष्ठानों का सर्वे कर उन्हें सील करने का निर्देश दिया गया है। यह कदम मालवीय नगर की आग के बाद उठाया गया है। मालवीय नगर के हौजरानी इलाके में बुधवार सुबह लगी भीषण आग के बाद दिल्ली में चल रहे अवैध गेस्ट हाउस और होम स्टे संचालन पर बड़ा प्रशासनिक एक्शन शुरू हो गया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मालवीय नगर अग्निकांड पर दिल्ली सरकार का एक्शन, सील होंगी सारे अवैध होटल- गेस्ट हाउस!",
-      "url": "https://www.amarujala.com/video/india-news/delhi-malviya-nagar-fire-delhi-government-takes-action-on-malviya-nagar-fire-incident-all-illegal-hotels-and-2026-06-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-03T20:24:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/delhi-malviya-nagar-fire_56a79300a4b8e1d67ed63189df251e95.jpeg?w=750&dpr=1.0",
-      "summary": "मालवीय नगर अग्निकांड के बाद दिल्ली सरकार ने अवैध होटलों और गेस्ट हाउसों पर कार्रवाई शुरू की है। इन प्रतिष्ठानों को सील किया जाएगा। यह निर्णय आग लगने की घटना के बाद लिया गया है। Delhi Malviya Nagar Fire: मालवीय नगर अग्निकांड पर दिल्ली सरकार का एक्शन, सील होंगी सारे अवैध होटल- गेस्ट हाउस!",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मालवीय नगर अग्निकांड पर दिल्ली सरकार का एक्शन, सील होंगी सारे अवैध होटल- गेस्ट हाउस!",
-          "summary": "मालवीय नगर अग्निकांड के बाद दिल्ली सरकार ने अवैध होटलों और गेस्ट हाउसों पर कार्रवाई शुरू की है। इन प्रतिष्ठानों को सील किया जाएगा। यह निर्णय आग लगने की घटना के बाद लिया गया है। Delhi Malviya Nagar Fire: मालवीय नगर अग्निकांड पर दिल्ली सरकार का एक्शन, सील होंगी सारे अवैध होटल- गेस्ट हाउस!",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कैलिफोर्निया में 10 लोगों को बंधक बनाने का मामला, एफबीआई की कार्रवाई में मारा गया संदिग्ध",
-      "url": "https://www.amarujala.com/world/world-updates-of-4-june-world-news-us-iran-israel-pakistan-china-news-in-hindi-2026-06-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-03T20:24:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
-      "summary": "कैलिफोर्निया में 10 लोगों को बंधक बनाने की घटना के बाद एफबीआई ने कार्रवाई की। इस कार्रवाई में संदिग्ध मारा गया। घटना के विवरण अभी सामने आ रहे हैं। कैलिफोर्निया में 10 लोगों को बंधक बनाने का मामला, एफबीआई की कार्रवाई में मारा गया संदिग्ध।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैलिफोर्निया में 10 लोगों को बंधक बनाने का मामला, एफबीआई की कार्रवाई में मारा गया संदिग्ध",
-          "summary": "कैलिफोर्निया में 10 लोगों को बंधक बनाने की घटना के बाद एफबीआई ने कार्रवाई की। इस कार्रवाई में संदिग्ध मारा गया। घटना के विवरण अभी सामने आ रहे हैं। कैलिफोर्निया में 10 लोगों को बंधक बनाने का मामला, एफबीआई की कार्रवाई में मारा गया संदिग्ध।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "आज से दो दिन बरसेंगे बदरा, यलो अलर्ट जारी; दिल्ली में सक्रिय हो चुका है एक नया पश्चिमी विक्षोभ",
-      "url": "https://www.amarujala.com/delhi-ncr/delhi-weather-rain-will-likely-occur-for-two-days-starting-today-with-a-yellow-alert-issued-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-03T20:17:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/10/delhi-weather-delhi-rain-delhi-ncr-weather_c647b691ff8e6c393e973e34549f646f.jpeg?w=750&dpr=1.0",
-      "summary": "दिल्ली में एक नया पश्चिमी विक्षोभ सक्रिय हो गया है। मौसम विभाग ने अगले दो दिनों के लिए यलो अलर्ट जारी किया है। इस दौरान बारिश की संभावना है। जून के पहले सप्ताह में दिल्ली पर मौसम की मेहरबानी की संभावना है। आज से दो दिन बरसेंगे बदरा, यलो अलर्ट जारी; दिल्ली में सक्रिय हो चुका है एक नया पश्चिमी विक्षोभ।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज से दो दिन बरसेंगे बदरा, यलो अलर्ट जारी; दिल्ली में सक्रिय हो चुका है एक नया पश्चिमी विक्षोभ",
-          "summary": "दिल्ली में एक नया पश्चिमी विक्षोभ सक्रिय हो गया है। मौसम विभाग ने अगले दो दिनों के लिए यलो अलर्ट जारी किया है। इस दौरान बारिश की संभावना है। जून के पहले सप्ताह में दिल्ली पर मौसम की मेहरबानी की संभावना है। आज से दो दिन बरसेंगे बदरा, यलो अलर्ट जारी; दिल्ली में सक्रिय हो चुका है एक नया पश्चिमी विक्षोभ।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "5,300 साल पुरानी ओत्जी ममी में जिंदा मिले सूक्ष्मजीव, नई स्टडी में खुलासा",
-      "url": "https://www.patrika.com/world-news/otzi-ice-man-mummy-living-microbes-discovery-5300-year-old-study-20637695",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-03T20:03:20+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/iceman-mummy-1.webp",
-      "summary": "5,300 साल पुरानी ओत्जी ममी में जीवित सूक्ष्मजीव पाए गए हैं। यह खोज इटैलियन आल्प्स में मिली ममी पर किए गए एक नए अध्ययन में सामने आई है। Otzi the Iceman: इटैलियन आल्प्स की बर्फीली पहाड़ियों में 5,300 वर्ष पहले तीर से मारे गए गए प्रागैतिहासिक मानव ‘ओत्जी द आइसमैन’ को लेकर एक नई खोज ने वैज्ञानिकों को चौंका दिया है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "5,300 साल पुरानी ओत्जी ममी में जिंदा मिले सूक्ष्मजीव, नई स्टडी में खुलासा",
-          "summary": "5,300 साल पुरानी ओत्जी ममी में जीवित सूक्ष्मजीव पाए गए हैं। यह खोज इटैलियन आल्प्स में मिली ममी पर किए गए एक नए अध्ययन में सामने आई है। Otzi the Iceman: इटैलियन आल्प्स की बर्फीली पहाड़ियों में 5,300 वर्ष पहले तीर से मारे गए गए प्रागैतिहासिक मानव ‘ओत्जी द आइसमैन’ को लेकर एक नई खोज ने वैज्ञानिकों को चौंका दिया है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "रूबियो बोले- क्वाड नेताओं की बैठक इस साल होने की उम्मीद; अमेरिका ने भारत को बताया अहम रणनीतिक",
       "url": "https://www.amarujala.com/world/hoping-for-quad-leaders-meeting-this-year-on-sidelines-of-global-meet-marco-rubio-2026-06-04",
       "source": "Amar Ujala World",
@@ -574,60 +412,6 @@
           "title": "रूबियो बोले- क्वाड नेताओं की बैठक इस साल होने की उम्मीद; अमेरिका ने भारत को बताया अहम रणनीतिक",
           "summary": "सीनेटर मार्को रूबियो ने कहा कि क्वाड नेताओं की बैठक इस साल होने की उम्मीद है। अमेरिका ने भारत को एक महत्वपूर्ण रणनीतिक साझेदार बताया है। रूबियो बोले- क्वाड नेताओं की बैठक इस साल होने की उम्मीद; अमेरिका ने भारत को बताया अहम रणनीतिक।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "साइबर हमलों के बीच भी जारी रही सीबीएसई की सेवाएं, री-इवैल्यूएशन पोर्टल पर अब तक 56 हजार से अधिक",
-      "url": "https://www.amarujala.com/india-news/cbse-thwarts-massive-cyberattack-on-re-evaluation-portal-over-56000-applications-received-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-03T19:51:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/22/cbse_795729242c4992690bb995aa95f73509.jpeg?w=750&dpr=1.0",
-      "summary": "केंद्रीय माध्यमिक शिक्षा बोर्ड (सीबीएसई) ने साइबर हमलों के बावजूद अपनी सेवाएं जारी रखीं। बोर्ड के पुनर्मूल्यांकन पोर्टल पर अब तक 56,000 से अधिक आवेदन प्राप्त हुए हैं। CBSE: साइबर हमलों के बीच भी जारी रही सीबीएसई की सेवाएं, री-इवैल्यूएशन पोर्टल पर अब तक 56 हजार से अधिक आवेदन।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "साइबर हमलों के बीच भी जारी रही सीबीएसई की सेवाएं, री-इवैल्यूएशन पोर्टल पर अब तक 56 हजार से अधिक",
-          "summary": "केंद्रीय माध्यमिक शिक्षा बोर्ड (सीबीएसई) ने साइबर हमलों के बावजूद अपनी सेवाएं जारी रखीं। बोर्ड के पुनर्मूल्यांकन पोर्टल पर अब तक 56,000 से अधिक आवेदन प्राप्त हुए हैं। CBSE: साइबर हमलों के बीच भी जारी रही सीबीएसई की सेवाएं, री-इवैल्यूएशन पोर्टल पर अब तक 56 हजार से अधिक आवेदन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सरकार ने की आपात बैठक, फायर सेफ्टी के लिए बड़ा अभियान आज से; अवैध निर्माण पर गिरेगी गाज",
-      "url": "https://www.amarujala.com/delhi-ncr/following-devastating-fire-tragedy-in-malviya-nagar-lieutenant-governor-convened-an-emergency-meeting-2026-06-03",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-03T19:34:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/03/bthaka-karata-elja-oura-matara-afasara_2f73f46fd0b113bfe8dc97054cbb4e42.jpeg?w=750&dpr=1.0",
-      "summary": "मालवीय नगर की आग की घटना के बाद सरकार ने आपात बैठक बुलाई। आज से फायर सेफ्टी के लिए एक बड़ा अभियान शुरू होगा। अवैध निर्माणों पर कार्रवाई की जाएगी। मालवीय नगर में हुई भीषण अग्नि त्रासदी ने प्रशासन को हिलाकर रख दिया है। सरकार ने की आपात बैठक, फायर सेफ्टी के लिए बड़ा अभियान आज से; अवैध निर्माण पर गिरेगी गाज।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सरकार ने की आपात बैठक, फायर सेफ्टी के लिए बड़ा अभियान आज से; अवैध निर्माण पर गिरेगी गाज",
-          "summary": "मालवीय नगर की आग की घटना के बाद सरकार ने आपात बैठक बुलाई। आज से फायर सेफ्टी के लिए एक बड़ा अभियान शुरू होगा। अवैध निर्माणों पर कार्रवाई की जाएगी। मालवीय नगर में हुई भीषण अग्नि त्रासदी ने प्रशासन को हिलाकर रख दिया है। सरकार ने की आपात बैठक, फायर सेफ्टी के लिए बड़ा अभियान आज से; अवैध निर्माण पर गिरेगी गाज।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "14 या 15 जून कब है सोमवती अमावस्या 2026? जानें सही तिथि और स्नान-दान का शुभ समय",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/somvati-amavasya-2026-date-15-june-shubh-muhurat-puja-vidhi-and-significance-2026-06-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-03T19:31:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/03/somvati-amavasya-2026_eddb3bbe28f41da08ba84fd4733b373b.jpeg?w=750&dpr=1.0",
-      "summary": "जून 2026 में सोमवती अमावस्या 14 या 15 जून को पड़ सकती है। इस दिन स्नान और दान के शुभ मुहूर्त का निर्धारण किया जाएगा। हिंदू धर्म में अमावस्या तिथि को बेहद पवित्र और प्रभावशाली दिन माना जाता है, लेकिन जून में पड़ने वाली अमावस्या बेहद खास मानी जा रही है. क्योंकि इस दिन एक साथ कई संयोग बन रहे हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "14 या 15 जून कब है सोमवती अमावस्या 2026? जानें सही तिथि और स्नान-दान का शुभ समय",
-          "summary": "जून 2026 में सोमवती अमावस्या 14 या 15 जून को पड़ सकती है। इस दिन स्नान और दान के शुभ मुहूर्त का निर्धारण किया जाएगा। हिंदू धर्म में अमावस्या तिथि को बेहद पवित्र और प्रभावशाली दिन माना जाता है, लेकिन जून में पड़ने वाली अमावस्या बेहद खास मानी जा रही है. क्योंकि इस दिन एक साथ कई संयोग बन रहे हैं।",
-          "region": "दुनिया"
         }
       }
     },
@@ -722,38 +506,254 @@
       }
     },
     {
-      "title": "पहली बार दिल खोलकर हंसा खूंखार तानाशाह किम जोंग उन? देखते ही रोने लगी नॉर्थ कोरिया की जनता",
-      "url": "https://hindi.news18.com/world/rest-of-world-north-korea-kim-jong-un-rare-public-laugh-sparks-internet-frenzy-as-female-football-stars-weep-video-viral-10537708.html",
+      "title": "नेतन्याहू ने ट्रंप को हल्के में ले लिया! 'पागल' वाले कमेंट पर मुस्कुराते हुए किया रिप्लाई",
+      "url": "https://hindi.news18.com/world/middle-east-netanyahu-breaks-silence-on-donald-trump-calling-him-crazy-israeli-pm-says-us-president-is-like-best-of-families-10537636.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-03T17:02:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Kim-Jong-Un-Smiling-Video-2026-06-ce75fbf044a926a97ec9956287ac3aa2-1200x800.jpg",
-      "summary": "उत्तर कोरिया के सुप्रीम लीडर किम जोंग उन एक फुटबॉल मैच के दौरान खुलकर हंसते हुए देखे गए. उन्होंने 'एएफसी वीमेंस चैंपियंस लीग' के फाइनल में प्रोटोकॉल तोड़ा. उनका यह अप्रत्याशित व्यवहार देखकर वहां मौजूद जनता भावुक हो गई. नॉर्थ कोरिया के सुप्रीम लीडर किम जोंग उन का एक चौंकाने वाला वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें वो अपने सारे दांत दिखाते हुए हंस रहे हैं.",
+      "published_at": "2026-06-03T16:17:18+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Netanyahu-Reply-To-Trump-Crazy-Statement-2026-06-39409742a34a4397efc0b1307905bf4d-1200x800.jpg",
+      "summary": "बेंजामिन नेतन्याहू ने डोनाल्ड ट्रंप के 'पागल' वाले बयान पर मुस्कुराते हुए जवाब दिया। नेतन्याहू ने कहा कि वह ट्रंप के साथ काम करते हैं। डोनाल्ड ट्रंप और इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू का आपसी विवाद जबरदस्त वायरल हो रहा है. मीडिया रिपोर्ट्स के मुताबिक, एक प्राइवेट फोन कॉल के दौरान ट्रंप ने नेतन्याहू को सीधे 'पागल' कह दिया था और बाद में कैमरे के सामने आकर दावा किया कि आज मेरी ही वजह से इजरायल का वजूद बचा हुआ है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेतन्याहू ने ट्रंप को हल्के में ले लिया! 'पागल' वाले कमेंट पर मुस्कुराते हुए किया रिप्लाई",
+          "summary": "बेंजामिन नेतन्याहू ने डोनाल्ड ट्रंप के 'पागल' वाले बयान पर मुस्कुराते हुए जवाब दिया। नेतन्याहू ने कहा कि वह ट्रंप के साथ काम करते हैं। डोनाल्ड ट्रंप और इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू का आपसी विवाद जबरदस्त वायरल हो रहा है. मीडिया रिपोर्ट्स के मुताबिक, एक प्राइवेट फोन कॉल के दौरान ट्रंप ने नेतन्याहू को सीधे 'पागल' कह दिया था और बाद में कैमरे के सामने आकर दावा किया कि आज मेरी ही वजह से इजरायल का वजूद बचा हुआ है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "नेतन्याहू के साथ फोन पर गर्मागरम बहस के बाद बोले ट्रंप- ईरान के नए सुप्रीम लीडर मोज्तबा से चाहता",
+      "url": "https://www.abplive.com/news/india/donald-trump-want-to-meet-supreme-leader-mojtaba-khamenei-amid-iran-us-war-nuclear-weapons-talk-3139745",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-03T15:10:10+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/03/5a0b655530f5a1ee1861bae62c4506df1780498423716708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "डोनाल्ड ट्रंप ने कहा कि वह ईरान के सुप्रीम लीडर मोज्तबा खामेनेई से मिलना चाहते हैं। ट्रंप ने दावा किया कि ईरान परमाणु हथियार नहीं बनाएगा। मिडिल ईस्ट में अमेरिका और ईरान के बीच स्थाई शांति के लेकर अभी तक कोई समझौता नहीं हो पाया है. हालांकि आए दिन दोनों देशों की तरफ संभावित डील को लेकर अलग-अलग दावे किए जाते हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेतन्याहू के साथ फोन पर गर्मागरम बहस के बाद बोले ट्रंप- ईरान के नए सुप्रीम लीडर मोज्तबा से चाहता",
+          "summary": "डोनाल्ड ट्रंप ने कहा कि वह ईरान के सुप्रीम लीडर मोज्तबा खामेनेई से मिलना चाहते हैं। ट्रंप ने दावा किया कि ईरान परमाणु हथियार नहीं बनाएगा। मिडिल ईस्ट में अमेरिका और ईरान के बीच स्थाई शांति के लेकर अभी तक कोई समझौता नहीं हो पाया है. हालांकि आए दिन दोनों देशों की तरफ संभावित डील को लेकर अलग-अलग दावे किए जाते हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका से 11000 KM दूर किसकी कब्र खोद रहे ट्रंप? मजे के लिए हो रहा टॉर्चर, चीख पड़े परिवार",
+      "url": "https://hindi.news18.com/world/middle-east-donald-trump-luxury-golf-course-resort-in-vietnam-local-graves-dug-up-outraging-farmers-and-families-10537515.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-03T15:03:00+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/TRump-18-2026-06-b2e54b27cb9695e34cb179b8448338a0-1200x800.jpg",
+      "summary": "ट्रंप ऑर्गेनाइजेशन वियतनाम में एक लग्जरी गोल्फ रिजॉर्ट बना रहा है। इस परियोजना के लिए 2,446 एकड़ जमीन पर कब्जा किया जा रहा है, जिससे 4,000 किसान परिवार बेघर हो रहे हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का 'ट्रंप ऑर्गेनाइजेशन' वियतनाम की राजधानी हनोई के पास एक विशालकाय लग्जरी गोल्फ रिजॉर्ट बनाने जा रहा है, जिसकी वजह से वहां एक दर्दनाक विवाद खड़ा हो गया है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पहली बार दिल खोलकर हंसा खूंखार तानाशाह किम जोंग उन? देखते ही रोने लगी नॉर्थ कोरिया की जनता",
-          "summary": "उत्तर कोरिया के सुप्रीम लीडर किम जोंग उन एक फुटबॉल मैच के दौरान खुलकर हंसते हुए देखे गए. उन्होंने 'एएफसी वीमेंस चैंपियंस लीग' के फाइनल में प्रोटोकॉल तोड़ा. उनका यह अप्रत्याशित व्यवहार देखकर वहां मौजूद जनता भावुक हो गई. नॉर्थ कोरिया के सुप्रीम लीडर किम जोंग उन का एक चौंकाने वाला वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें वो अपने सारे दांत दिखाते हुए हंस रहे हैं.",
+          "title": "अमेरिका से 11000 KM दूर किसकी कब्र खोद रहे ट्रंप? मजे के लिए हो रहा टॉर्चर, चीख पड़े परिवार",
+          "summary": "ट्रंप ऑर्गेनाइजेशन वियतनाम में एक लग्जरी गोल्फ रिजॉर्ट बना रहा है। इस परियोजना के लिए 2,446 एकड़ जमीन पर कब्जा किया जा रहा है, जिससे 4,000 किसान परिवार बेघर हो रहे हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का 'ट्रंप ऑर्गेनाइजेशन' वियतनाम की राजधानी हनोई के पास एक विशालकाय लग्जरी गोल्फ रिजॉर्ट बनाने जा रहा है, जिसकी वजह से वहां एक दर्दनाक विवाद खड़ा हो गया है.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "पेरिस में चल रही थी खुदाई, अचानक लोगों को आई टन्न-टन्न की आवाज, गड़ा मिला 2000 साल पुराना खजाना!",
-      "url": "https://hindi.news18.com/news/knowledge/notredame-cathedral-paris-archaeological-dig-roman-history-uncovered-10537547.html",
-      "source": "News18 Hindi (World)",
+      "title": "भारत यात्रा पर दिल्ली पहुंचीं वेनेजुएला की प्रेसिडेंट, कल PM मोदी से मुलाकात, क्यों ट्रंप की है नजर?",
+      "url": "https://www.abplive.com/news/world/venezuelan-president-arrives-in-india-will-meet-pm-modi-and-visit-rajghat-delhi-world-news-3139735",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-06-03T16:22:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Notre_Dame_Underground-AP3-2026-06-649d2b43aeae3bc60c3b8a81e544b0f8-1200x800.jpg",
-      "summary": "पेरिस में नोट्रे डेम कैथेड्रल के नीचे पुरातत्वविदों को एक प्राचीन दुनिया मिली। Notre Dame Cathedral: पेरिस के मशहूर नोट्रे डेम चर्च के नीचे पुरातत्वविदों को एक पूरी प्राचीन दुनिया मिली है. यहां चल रही खुदाई में 2000 साल पुराना इतिहास सामने आया है. जमीन के नीचे रोमन काल के सिक्के और रहस्यमयी निशानों वाले बर्तन मिले हैं. इसे सदी की सबसे बड़ी खोज कहा जा रहा है.",
+      "published_at": "2026-06-03T14:55:24+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/03/c934f2d9e99878266238ce9a5d14913e17804971338921324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "वेनेजुएला की राष्ट्रपति भारत पहुंचीं। वह प्रधानमंत्री नरेंद्र मोदी और विदेश मंत्री एस जयशंकर से मुलाकात करेंगी। यह यात्रा द्विपक्षीय संबंधों पर केंद्रित है। ऊर्जा क्षेत्र में सहयोग पर चर्चा होने की संभावना है। Venezuela President India Visit: वेनेजुएला की राष्ट्रपति अपने भारत दौरे पर बुधवार को पहुंची है. उनकी यह यात्रा द्विपक्षीय संबंधो पर आधारित है. ऐसे में एनर्जी सेक्टर पर बातचीत संभव बताई जा रही है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत यात्रा पर दिल्ली पहुंचीं वेनेजुएला की प्रेसिडेंट, कल PM मोदी से मुलाकात, क्यों ट्रंप की है नजर?",
+          "summary": "वेनेजुएला की राष्ट्रपति भारत पहुंचीं। वह प्रधानमंत्री नरेंद्र मोदी और विदेश मंत्री एस जयशंकर से मुलाकात करेंगी। यह यात्रा द्विपक्षीय संबंधों पर केंद्रित है। ऊर्जा क्षेत्र में सहयोग पर चर्चा होने की संभावना है। Venezuela President India Visit: वेनेजुएला की राष्ट्रपति अपने भारत दौरे पर बुधवार को पहुंची है. उनकी यह यात्रा द्विपक्षीय संबंधो पर आधारित है. ऐसे में एनर्जी सेक्टर पर बातचीत संभव बताई जा रही है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "स्ट्रैट ऑफ मलक्का में चीन के खतरों को देखते हुए क्या बोले शिपिंग मंत्री, मैरिटाइम को लेकर ये है",
+      "url": "https://www.abplive.com/news/india/india-at-2047-conclave-shipping-minister-sarbananda-sonowal-regard-threats-posed-china-strait-of-malacca-india-strategy-concern-maritime-sector-3139643",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-03T14:26:53+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/03/d78de293b769da897608e161c423d0a017804840396021324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "केंद्रीय मंत्री सर्बानंद सोनोवाल ने कहा कि भारत का समुद्री विजन स्पष्ट है। उन्होंने मलक्का जलडमरूमध्य में चीन की गतिविधियों के संदर्भ में भारत की समुद्री रणनीति पर बात की। सरकार समुद्री क्षेत्र में अपनी स्थिति मजबूत करने के लिए कदम उठा रही है। ABP नेटवर्क के India@2047 कॉन्क्लेव में असम के पूर्व मुख्यमंत्री और केंद्रीय मंत्री सर्बानंद सोनोवाल ने शिरकत की.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पेरिस में चल रही थी खुदाई, अचानक लोगों को आई टन्न-टन्न की आवाज, गड़ा मिला 2000 साल पुराना खजाना!",
-          "summary": "पेरिस में नोट्रे डेम कैथेड्रल के नीचे पुरातत्वविदों को एक प्राचीन दुनिया मिली। Notre Dame Cathedral: पेरिस के मशहूर नोट्रे डेम चर्च के नीचे पुरातत्वविदों को एक पूरी प्राचीन दुनिया मिली है. यहां चल रही खुदाई में 2000 साल पुराना इतिहास सामने आया है. जमीन के नीचे रोमन काल के सिक्के और रहस्यमयी निशानों वाले बर्तन मिले हैं. इसे सदी की सबसे बड़ी खोज कहा जा रहा है.",
+          "title": "स्ट्रैट ऑफ मलक्का में चीन के खतरों को देखते हुए क्या बोले शिपिंग मंत्री, मैरिटाइम को लेकर ये है",
+          "summary": "केंद्रीय मंत्री सर्बानंद सोनोवाल ने कहा कि भारत का समुद्री विजन स्पष्ट है। उन्होंने मलक्का जलडमरूमध्य में चीन की गतिविधियों के संदर्भ में भारत की समुद्री रणनीति पर बात की। सरकार समुद्री क्षेत्र में अपनी स्थिति मजबूत करने के लिए कदम उठा रही है। ABP नेटवर्क के India@2047 कॉन्क्लेव में असम के पूर्व मुख्यमंत्री और केंद्रीय मंत्री सर्बानंद सोनोवाल ने शिरकत की.",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "वॉटर मेट्रो की सुविधा जल्द, ग्लोबल मैरिटाइम पावर बनने की राह पर भारत, 2047 तक टॉप-5 शिपबिल्डिंग",
+      "url": "https://www.abplive.com/news/india/india-at-2047-water-metro-services-come-soon-india-path-become-global-maritime-power-aim-top-five-2047-3139666",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-03T14:21:32+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/03/302beacb5a0d058612f70c162c6c110b17804867341271324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "केंद्रीय मंत्री सर्बानंद सोनोवाल ने कहा कि भारत 2047 तक शीर्ष पांच शिपबिल्डिंग शक्तियों में शामिल होने का लक्ष्य रखता है। उन्होंने जलमार्गों को देश की नई आर्थिक ताकत बताया। सरकार इस लक्ष्य को प्राप्त करने के लिए काम कर रही है। India at 2047: केंद्रीय पोर्ट, शिपिंग और जलमार्ग मंत्री Sarbananda Sonowal ने कहा है कि गंगा समेत देश के जलमार्ग भारत की नई आर्थिक ताकत बनकर उभर रहे हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वॉटर मेट्रो की सुविधा जल्द, ग्लोबल मैरिटाइम पावर बनने की राह पर भारत, 2047 तक टॉप-5 शिपबिल्डिंग",
+          "summary": "केंद्रीय मंत्री सर्बानंद सोनोवाल ने कहा कि भारत 2047 तक शीर्ष पांच शिपबिल्डिंग शक्तियों में शामिल होने का लक्ष्य रखता है। उन्होंने जलमार्गों को देश की नई आर्थिक ताकत बताया। सरकार इस लक्ष्य को प्राप्त करने के लिए काम कर रही है। India at 2047: केंद्रीय पोर्ट, शिपिंग और जलमार्ग मंत्री Sarbananda Sonowal ने कहा है कि गंगा समेत देश के जलमार्ग भारत की नई आर्थिक ताकत बनकर उभर रहे हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कुवैत एयरपोर्ट अटैक में भारतीय की मौत पर बवाल, MEA ने कहा 'बंद करो ये सब'",
+      "url": "https://hindi.news18.com/world/middle-east-kuwait-airport-attack-india-condemns-striking-civilian-areas-after-indian-national-killed-in-missile-strike-iran-us-war-10537326.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-03T14:18:10+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/MEA-On-Indian-Killed-In-Kuwait-Attack-By-Iran-2026-06-0c09d9a5cecf44558ac693308e162c14-1200x800.jpg",
+      "summary": "कुवैत अंतरराष्ट्रीय हवाई अड्डे पर मिसाइल हमले में एक भारतीय नागरिक की मौत हो गई। भारत के विदेश मंत्रालय ने हमले की निंदा की है। मंत्रालय ने इस तरह की घटनाओं को तुरंत बंद करने की चेतावनी दी है। कुवैत इंटरनेशनल एयरपोर्ट पर हुए ईरान के एक बड़े मिसाइल हमले में एक बेगुनाह भारतीय नागरिक की दर्दनाक मौत हो गई है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कुवैत एयरपोर्ट अटैक में भारतीय की मौत पर बवाल, MEA ने कहा 'बंद करो ये सब'",
+          "summary": "कुवैत अंतरराष्ट्रीय हवाई अड्डे पर मिसाइल हमले में एक भारतीय नागरिक की मौत हो गई। भारत के विदेश मंत्रालय ने हमले की निंदा की है। मंत्रालय ने इस तरह की घटनाओं को तुरंत बंद करने की चेतावनी दी है। कुवैत इंटरनेशनल एयरपोर्ट पर हुए ईरान के एक बड़े मिसाइल हमले में एक बेगुनाह भारतीय नागरिक की दर्दनाक मौत हो गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की एक गलती ने भारत को कराया अरबों का फायदा, साउथ चाइना सी में एक तीर से लगे 2 निशाने",
+      "url": "https://hindi.news18.com/news/nation/south-china-sea-dispute-how-donald-trump-mistake-opened-billion-dollar-brahmos-missile-defense-market-for-india-10537082.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-03T13:11:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/South-China-Sea-India-Defence-Deal-2026-06-fb5cf1a9a04e046a110910c69b76ce1c-1200x800.jpg",
+      "summary": "अमेरिका के रुख से परेशान देशों ने भारत के साथ अरबों डॉलर के सौदे किए हैं। इससे दक्षिण चीन सागर में भारत की स्थिति मजबूत हुई है। इस कदम को चीन पर दबाव बनाने के रूप में देखा जा रहा है। साउथ चाइना सी में जो 'सुरक्षा का खालीपन' पैदा हुआ था, भारत ने वहां एक धाकड़ खिलाड़ी के रूप में एंट्री मारकर पूरा गेम पलट दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की एक गलती ने भारत को कराया अरबों का फायदा, साउथ चाइना सी में एक तीर से लगे 2 निशाने",
+          "summary": "अमेरिका के रुख से परेशान देशों ने भारत के साथ अरबों डॉलर के सौदे किए हैं। इससे दक्षिण चीन सागर में भारत की स्थिति मजबूत हुई है। इस कदम को चीन पर दबाव बनाने के रूप में देखा जा रहा है। साउथ चाइना सी में जो 'सुरक्षा का खालीपन' पैदा हुआ था, भारत ने वहां एक धाकड़ खिलाड़ी के रूप में एंट्री मारकर पूरा गेम पलट दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कुवैत एयरपोर्ट पर हुए हमले में भारतीय नागरिक की मौत,अलर्ट पर दूतावास, US ने ईरान पर की एयरस्ट्राइक",
+      "url": "https://www.patrika.com/world-news/kuwait-airport-attack-indian-killed-us-iran-airstrikes-live-updates-2026-06-03-20636728",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-03T12:39:43+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Kuwait-Airport-Attack.webp",
+      "summary": "कुवैत अंतरराष्ट्रीय हवाई अड्डे पर हुए हमले में एक भारतीय नागरिक की मौत हो गई है। भारतीय दूतावास ने घटना की पुष्टि की है और स्थानीय प्रशासन के साथ मिलकर मृतक के परिवार को सहायता प्रदान कर रहा है। इस घटना ने खाड़ी क्षेत्र में भारतीय प्रवासियों के बीच चिंता बढ़ा दी है। Kuwait Airport Attack: खाड़ी देशों में सुरक्षा के हालात तेजी से बिगड़ते जा रहे हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कुवैत एयरपोर्ट पर हुए हमले में भारतीय नागरिक की मौत,अलर्ट पर दूतावास, US ने ईरान पर की एयरस्ट्राइक",
+          "summary": "कुवैत अंतरराष्ट्रीय हवाई अड्डे पर हुए हमले में एक भारतीय नागरिक की मौत हो गई है। भारतीय दूतावास ने घटना की पुष्टि की है और स्थानीय प्रशासन के साथ मिलकर मृतक के परिवार को सहायता प्रदान कर रहा है। इस घटना ने खाड़ी क्षेत्र में भारतीय प्रवासियों के बीच चिंता बढ़ा दी है। Kuwait Airport Attack: खाड़ी देशों में सुरक्षा के हालात तेजी से बिगड़ते जा रहे हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कुवैत एयरपोर्ट पर ईरानी ड्रोन और मिसाइलों से हमला, एक भारतीय की मौत, भारतीय विदेश मंत्रालय का आया",
+      "url": "https://www.abplive.com/news/kuwait-airport-attacked-by-iranian-drones-and-missiles-one-indian-killed-3139678",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-03T11:43:24+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/03/3c9e8c5d4cae37ceee25fb3b723247ce17804876886971324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "कुवैत इंटरनेशनल एयरपोर्ट पर ईरान के ड्रोन और मिसाइल हमले में एक भारतीय नागरिक की मौत हो गई। यह हमला खाड़ी क्षेत्र में बढ़ते तनाव के बीच हुआ। ईरान ने कुवैत और बहरीन में भी हमले किए। इस घटना में कम से कम 63 लोग घायल हुए। Indian Killed in Kuwait Attack: कुवैत में भारतीय दूतावास ने बुधवार को पुष्टी की कि कुवैत इंटरनेशनल एयरपोर्ट पर ईरान के हमले में एक भारतीय नागरिक की मौत हो गई.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कुवैत एयरपोर्ट पर ईरानी ड्रोन और मिसाइलों से हमला, एक भारतीय की मौत, भारतीय विदेश मंत्रालय का आया",
+          "summary": "कुवैत इंटरनेशनल एयरपोर्ट पर ईरान के ड्रोन और मिसाइल हमले में एक भारतीय नागरिक की मौत हो गई। यह हमला खाड़ी क्षेत्र में बढ़ते तनाव के बीच हुआ। ईरान ने कुवैत और बहरीन में भी हमले किए। इस घटना में कम से कम 63 लोग घायल हुए। Indian Killed in Kuwait Attack: कुवैत में भारतीय दूतावास ने बुधवार को पुष्टी की कि कुवैत इंटरनेशनल एयरपोर्ट पर ईरान के हमले में एक भारतीय नागरिक की मौत हो गई.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाक सेना ने बालोच नेता 'उमैर सुमलानी और मीर खलील मोस्यानी' की निर्मम हत्या की",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-army-brutally-murders-baloch-leaders-umair-sumalani-and-mir-khalil-mosyani-ws-l-10536723.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-03T11:40:55+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Your-paragraph-text-1600-x-900-px-26-2026-06-56719865d1ff457db9e6f249e09c08f2-1200x800.jpg",
+      "summary": "पाकिस्तान सेना ने खुजदार के ज़ेहरी में कार्रवाई करते हुए बलोच नेताओं उमैर सुमलानी और मीर खलील मोस्यानी की हत्या कर दी। सेना ने स्कूलों को जेल बनाकर सैकड़ों बलोचों को गिरफ्तार किया। बलोच नेता मीर यार बलोच ने अंतरराष्ट्रीय हस्तक्षेप की मांग की है। खुजदार के ज़ेहरी में पाकिस्तान सेना की बड़ी कार्रवाई, स्कूलों को जेल बनाकर सैकड़ों बालोच गिरफ्तार, दो नेता मारे गए, बलोच नेता मीर यार बलोच ने तुरंत अंतरराष्ट्रीय दखल की मांग की.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाक सेना ने बालोच नेता 'उमैर सुमलानी और मीर खलील मोस्यानी' की निर्मम हत्या की",
+          "summary": "पाकिस्तान सेना ने खुजदार के ज़ेहरी में कार्रवाई करते हुए बलोच नेताओं उमैर सुमलानी और मीर खलील मोस्यानी की हत्या कर दी। सेना ने स्कूलों को जेल बनाकर सैकड़ों बलोचों को गिरफ्तार किया। बलोच नेता मीर यार बलोच ने अंतरराष्ट्रीय हस्तक्षेप की मांग की है। खुजदार के ज़ेहरी में पाकिस्तान सेना की बड़ी कार्रवाई, स्कूलों को जेल बनाकर सैकड़ों बालोच गिरफ्तार, दो नेता मारे गए, बलोच नेता मीर यार बलोच ने तुरंत अंतरराष्ट्रीय दखल की मांग की.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मोजतबा खामेनेई लगे प्‍यारे, नेतन्‍याहू से बैर! ट्रंप बहक गए या कोई बड़ा खेल",
+      "url": "https://hindi.news18.com/world/america-donald-trump-explodes-at-netanyahu-expresses-desire-to-meet-iran-mojtaba-khamenei-us-israel-relation-to-end-10536858.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-03T11:33:00+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-Trump-On-Netanyahu-and-Mojtaba-2026-06-b7b16e352e7bb3e2b364f1677f9c4060-1200x800.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू को लेबनान युद्ध के मुद्दे पर फोन पर \"पागल\" कहा। ट्रंप ने कहा कि नेतन्याहू के बिना इजरायल का कोई अस्तित्व नहीं होता। ट्रंप के सुर ईरान के प्रति भी बदले हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अचानक ऐसा यू-टर्न लिया है, जिसकी वजह से मिडिल ईस्ट की राजनीति में भूचाल आ गया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मोजतबा खामेनेई लगे प्‍यारे, नेतन्‍याहू से बैर! ट्रंप बहक गए या कोई बड़ा खेल",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू को लेबनान युद्ध के मुद्दे पर फोन पर \"पागल\" कहा। ट्रंप ने कहा कि नेतन्याहू के बिना इजरायल का कोई अस्तित्व नहीं होता। ट्रंप के सुर ईरान के प्रति भी बदले हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अचानक ऐसा यू-टर्न लिया है, जिसकी वजह से मिडिल ईस्ट की राजनीति में भूचाल आ गया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत और अमेरिका की ट्रेड डील 99% डन, बाकी 1% का क्या? सर्जियो गोर ने सुना दी गुड न्यूज",
+      "url": "https://hindi.news18.com/news/business/latest-us-india-trade-deal-99-percent-complete-ambassador-sergio-gor-gave-the-good-news-10536732.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-03T11:29:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Sergio-Gor-2026-06-ee907968f6938230762357db99ac4dd3-1200x800.jpg",
+      "summary": "भारत और अमेरिका के बीच प्रस्तावित व्यापार समझौता 99 फीसदी पूरा हो चुका है। भारत में अमेरिकी राजदूत सर्जियो गोर ने कहा कि केवल 1 फीसदी काम बाकी है। गोर केंद्रीय मंत्री पीयूष गोयल से मुलाकात करेंगे। India-US Trade Deal: भारत और अमेरिका के बीच लंबे समय से चल रही ट्रेड डील अब अपने अंतिम पड़ाव पर पहुंच गई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत और अमेरिका की ट्रेड डील 99% डन, बाकी 1% का क्या? सर्जियो गोर ने सुना दी गुड न्यूज",
+          "summary": "भारत और अमेरिका के बीच प्रस्तावित व्यापार समझौता 99 फीसदी पूरा हो चुका है। भारत में अमेरिकी राजदूत सर्जियो गोर ने कहा कि केवल 1 फीसदी काम बाकी है। गोर केंद्रीय मंत्री पीयूष गोयल से मुलाकात करेंगे। India-US Trade Deal: भारत और अमेरिका के बीच लंबे समय से चल रही ट्रेड डील अब अपने अंतिम पड़ाव पर पहुंच गई है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत के खजाने के लिए भिड़ गए UAE और सऊदी अरब, फुजैराह-यांबू पाइपलाइन पर हो गया खेल!",
+      "url": "https://hindi.news18.com/world/middle-east-uae-beats-saudi-arabia-india-2nd-largest-crude-oil-supplier-in-may-fujairah-yanbu-oil-pipeline-hormuz-blockade-russia-at-number-one-10536792.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-03T10:52:31+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/UAE-Vs-Saudi-India-Oil-Supply-2026-06-e5138527e80fd5773af758de8d73a588-1200x800.jpg",
+      "summary": "संयुक्त अरब अमीरात और सऊदी अरब भारत को तेल बेचने के लिए प्रतिस्पर्धा कर रहे हैं। यह प्रतिस्पर्धा स्ट्रेट ऑफ होर्मुज के अवरुद्ध होने के बाद शुरू हुई। फुजैराह और यांबू पाइपलाइन पर दोनों देशों के बीच व्यापारिक जंग छिड़ गई है। कमोडिटी एनालिटिक्स फर्म केपलर के अनुसार, इस पाइपलाइन पर खेल हुआ है। 'स्ट्रेट ऑफ होर्मुज' के पूरी तरह ब्लॉक होने के बाद दुनिया के तेल बाजार में भारी उथल-पुथल मची है, जिसका सीधा असर भारत के तेल बाजार पर देखने को मिल रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के खजाने के लिए भिड़ गए UAE और सऊदी अरब, फुजैराह-यांबू पाइपलाइन पर हो गया खेल!",
+          "summary": "संयुक्त अरब अमीरात और सऊदी अरब भारत को तेल बेचने के लिए प्रतिस्पर्धा कर रहे हैं। यह प्रतिस्पर्धा स्ट्रेट ऑफ होर्मुज के अवरुद्ध होने के बाद शुरू हुई। फुजैराह और यांबू पाइपलाइन पर दोनों देशों के बीच व्यापारिक जंग छिड़ गई है। कमोडिटी एनालिटिक्स फर्म केपलर के अनुसार, इस पाइपलाइन पर खेल हुआ है। 'स्ट्रेट ऑफ होर्मुज' के पूरी तरह ब्लॉक होने के बाद दुनिया के तेल बाजार में भारी उथल-पुथल मची है, जिसका सीधा असर भारत के तेल बाजार पर देखने को मिल रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
