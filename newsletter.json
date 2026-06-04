@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-04T20:58:21.565727+00:00",
-  "article_count": 46,
-  "total_unique_count": 261,
+  "generated_at": "2026-06-04T22:25:12.988401+00:00",
+  "article_count": 48,
+  "total_unique_count": 262,
   "digest": {
-    "en": "Europe & Russia leads the board this hour with Fear In Latvia As Military Drones Bring Ukraine War To NATO’s Eastern Border. Middle East & Africa carries the next thread. 21 fresh dispatches in this edition.",
-    "hi": "जगन्नाथ रथ यात्रा की तिथि और महत्व पर ध्यान केंद्रित किया गया है। मुजफ्फरपुर अस्पताल अग्निकांड पर सरकारी कार्रवाई और कोयला क्षेत्र को बढ़ावा देने की ट्रंप की योजना भी प्रमुख खबरें हैं।"
+    "en": "AI's impact on outsourcing in the Philippines and India leads the news cycle. Ukraine's war continues to ripple across Europe, with Latvia on edge and Russia sending wounded soldiers back into combat. The UN warns of AI's growing demand on data centers.",
+    "hi": "दिल्ली-एनसीआर में आंधी-बारिश ने जनजीवन अस्त-व्यस्त कर दिया। वहीं, यूक्रेन युद्ध को लेकर पुतिन ने कीव से समझौते की बात कही। कर्नाटक में विभागों का बंटवारा पूरा हुआ।"
   },
   "articles": [
+    {
+      "title": "Outsourcing jobs in Philippines and India come under threat as workers race to adapt to AI",
+      "url": "https://www.channelnewsasia.com/cna-insider/outsourcing-jobs-artificial-intelligence-philippines-india-threat-workers-adapt-6162491",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-04T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--BjliO0Ov--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/30/insight-2026-ep1_clean_0.jpg?itok=RUXRoigW",
+      "summary": "AI is beginning to replace tasks in the outsourcing sectors of the Philippines and India. Millions of employees power the world’s two outsourcing giants, but automation is starting to replace tasks they once handled. When will the full scale of disruption hit and how might they have to rethink the future, CNA’s Insight asks. Outsourcing jobs in Philippines and India come under threat as workers race to adapt to AI.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "\"Come Anytime To Moscow\": Kremlin Accepts Zelensky's Offer To Meet Putin",
+      "url": "https://www.ndtv.com/world-news/kremlin-accepts-volodymyr-zelenskys-proposal-to-meet-vladimir-putin-11593198#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-06-04T20:20:37+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-01/e68mu8j8_putin-zelensky-afp_625x300_09_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "summary": "The Kremlin has invited Ukrainian President Volodymyr Zelensky to Moscow to meet Vladimir Putin. Russia stated Zelensky is welcome \"any time\" to hold direct talks. Zelensky previously called for a meeting with Putin to discuss ending the war. Volodymyr Zelensky is welcome to meet his Russian counterpart Vladimir Putin in Moscow \"any time\", the Kremlin said Thursday after the Ukrainian president called to set a date for a face-to-face meeting between the pair to end the war.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Fear In Latvia As Military Drones Bring Ukraine War To NATO’s Eastern Border",
       "url": "https://www.rferl.org/a/military-drone-incursions-bring-russia-ukraine-war-to-latvia-nato-s-eastern-border/33772769.html",
@@ -28,6 +52,18 @@
       "image_url": "https://i.guim.co.uk/img/media/d9b905dffd14a173425b90dd7580a2357fd659ae/52_0_726_581/master/726.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=96105285f3862c6171e84b9378a24cfa",
       "summary": "Constable Andrew Wilson faces a murder charge in Jamaica. He is accused of shooting 45-year-old Latoya Bulgin during a protest. The demonstration occurred days after another police shooting. Wilson appeared in court following the incident. Andrew Wilson appears in court over killing of Latoya Bulgin at protest over a police shooting days earlierAuthorities in Jamaica have taken the rare step of charging a police officer with murder after he was accused of shooting a 45-year-old woman in a case that prompted violent protests. According to the Independent Commission of Investigations (Indecom), Constable Andrew Wilson appeared in court.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nauru issues rare statement after whistleblower alleges violent threats against Australia’s",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/04/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-04T15:00:09+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/715baff02a40a7de11f69569f912670be17dcb05/109_157_1303_1043/master/1303.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09a5643f1ec44d5881818c01c28b77b9",
+      "summary": "The Nauruan government issued a rare statement asserting its citizens are \"friendly\" and \"welcoming\". This followed allegations by a whistleblower. The whistleblower claimed former Australian detainees on Nauru faced \"serious threats\". The government denied these claims. Nauran government says its citizens are ‘friendly’ after MP spoke of serious threats allegedly made against former Australian detaineesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Nauruan government has issued a rare statement insisting it is a “friendly” and “welcoming” country after a whistleblower alleged “serious threats o.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -236,18 +272,6 @@
       "translations": {}
     },
     {
-      "title": "UN mission reports rising tensions along the Blue Line in Lebanon",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167625",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-02T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/06-01-2026-UNIFIL-Lebanon-02.jpg/image770x420cropped.jpg",
-      "summary": "UN Under-Secretary-General for Peacekeeping Operations Jean-Pierre Lacroix reported rising tensions along the Blue Line between Lebanon and Israel. The UN Security Council met at France's request amid escalating violence between Israeli forces and Hezbollah. US mediation efforts continue. Monday’s hastily convened meeting of the UN Security Council at the request of France in response to escalating violence in Lebanon between Israeli forces and Hezbollah militants has underlined deepening international concern as the conflict intensifies, despite ongoing US mediation efforts.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Japan defence minister rebuffs claims of ‘new militarism’ levelled by China",
       "url": "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china",
       "source": "The Guardian",
@@ -278,19 +302,73 @@
       }
     },
     {
+      "title": "100 किमी की रफ्तार से आंधी-बारिश, खंभे उखड़े...दिल्ली-एनसीआर में पेड़ गिरे; 300 से ज्यादा वाहन दबे",
+      "url": "https://www.amarujala.com/delhi-ncr/weather-thunderstorms-and-rain-at-100-km-h-poles-uprooted-trees-fell-in-delhi-ncr-2026-06-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-04T22:12:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/1_40eada92312e857c852cc1513759aba2.png?w=750&dpr=1.0",
+      "summary": "दिल्ली-एनसीआर, पंजाब और हरियाणा सहित उत्तर-पश्चिम भारत में बृहस्पतिवार दोपहर को अचानक मौसम बदल गया। पंजाब, हरियाणा और दिल्ली-एनसीआर समेत पूरे उत्तर-पश्चिम भारत में बृहस्पतिवार सुबह तेज धूप के बाद दोपहर में अचानक मौसम बदल गया। 100 किमी की रफ्तार से आंधी-बारिश, खंभे उखड़े दिल्ली-एनसीआर में पेड़ गिरे; 300 से ज्यादा वाहन दबे।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "100 किमी की रफ्तार से आंधी-बारिश, खंभे उखड़े...दिल्ली-एनसीआर में पेड़ गिरे; 300 से ज्यादा वाहन दबे",
+          "summary": "दिल्ली-एनसीआर, पंजाब और हरियाणा सहित उत्तर-पश्चिम भारत में बृहस्पतिवार दोपहर को अचानक मौसम बदल गया। पंजाब, हरियाणा और दिल्ली-एनसीआर समेत पूरे उत्तर-पश्चिम भारत में बृहस्पतिवार सुबह तेज धूप के बाद दोपहर में अचानक मौसम बदल गया। 100 किमी की रफ्तार से आंधी-बारिश, खंभे उखड़े दिल्ली-एनसीआर में पेड़ गिरे; 300 से ज्यादा वाहन दबे।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'कीव समझौते माने तो खत्म हो सकता है यूक्रेन युद्ध', पुतिन का बड़ा दावा; पश्चिम पर भी साधा निशाना",
+      "url": "https://www.amarujala.com/world/putin-says-ukraine-war-end-if-kiev-accept-anchorage-based-compromises-criticizes-eu-mediation-west-policies-2026-06-05",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-04T21:42:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/23/vladimir-putin_80249b1e451c05252545522983c58700.jpeg?w=750&dpr=1.0",
+      "summary": "रूस के राष्ट्रपति व्लादिमीर पुतिन ने कहा कि यूक्रेन युद्ध कीव द्वारा 2022 के इस्तांबुल समझौतों को मानने पर समाप्त हो सकता है। उन्होंने पश्चिमी देशों पर इन वार्ताओं को बाधित करने का आरोप लगाया। पुतिन ने कहा कि यूक्रेन के राष्ट्रपति वोलोडिमिर ज़ेलेंस्की ने इन समझौतों पर हस्ताक्षर किए थे, लेकिन बाद में उन्हें रद्द कर दिया गया। उन्होंने यह भी कहा कि रूस ने कभी भी बातचीत से इनकार नहीं किया।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'कीव समझौते माने तो खत्म हो सकता है यूक्रेन युद्ध', पुतिन का बड़ा दावा; पश्चिम पर भी साधा निशाना",
+          "summary": "रूस के राष्ट्रपति व्लादिमीर पुतिन ने कहा कि यूक्रेन युद्ध कीव द्वारा 2022 के इस्तांबुल समझौतों को मानने पर समाप्त हो सकता है। उन्होंने पश्चिमी देशों पर इन वार्ताओं को बाधित करने का आरोप लगाया। पुतिन ने कहा कि यूक्रेन के राष्ट्रपति वोलोडिमिर ज़ेलेंस्की ने इन समझौतों पर हस्ताक्षर किए थे, लेकिन बाद में उन्हें रद्द कर दिया गया। उन्होंने यह भी कहा कि रूस ने कभी भी बातचीत से इनकार नहीं किया।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "कर्नाटक सरकार में विभागों का बंटवारा, शिवकुमार ने अपने पास रखा वित्त विभाग!",
+      "url": "https://www.amarujala.com/video-shots/short-videos/dk-shivakumar-cabinet-portfolios-division-of-departments-in-karnataka-government-shivakumar-kept-the-finance-2026-06-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-04T21:16:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=750&dpr=1.0",
+      "summary": "कर्नाटक के मुख्यमंत्री सिद्धारमैया और उप-मुख्यमंत्री डी. के. शिवकुमार ने विभागों का बंटवारा कर लिया है। शिवकुमार ने वित्त विभाग अपने पास रखा है। उन्होंने गृह विभाग भी अपने पास रखने की मांग की थी, लेकिन वह विभाग मुख्यमंत्री सिद्धारमैया को मिला है। कांग्रेस और जनता दल (सेक्युलर) के बीच विभागों के बंटवारे को लेकर कुछ मतभेद थे। DK Shivakumar Cabinet Portfolios: कर्नाटक सरकार में विभागों का बंटवारा, शिवकुमार ने अपने पास रखा वित्त विभाग!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कर्नाटक सरकार में विभागों का बंटवारा, शिवकुमार ने अपने पास रखा वित्त विभाग!",
+          "summary": "कर्नाटक के मुख्यमंत्री सिद्धारमैया और उप-मुख्यमंत्री डी. के. शिवकुमार ने विभागों का बंटवारा कर लिया है। शिवकुमार ने वित्त विभाग अपने पास रखा है। उन्होंने गृह विभाग भी अपने पास रखने की मांग की थी, लेकिन वह विभाग मुख्यमंत्री सिद्धारमैया को मिला है। कांग्रेस और जनता दल (सेक्युलर) के बीच विभागों के बंटवारे को लेकर कुछ मतभेद थे। DK Shivakumar Cabinet Portfolios: कर्नाटक सरकार में विभागों का बंटवारा, शिवकुमार ने अपने पास रखा वित्त विभाग!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट",
       "url": "https://www.amarujala.com/video/india-news/muzaffarpur-hospital-fire-government-action-on-muzaffarpur-hospital-fire-fire-safety-report-sought-2026-06-05",
       "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-06-04T20:48:09+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/muzaffarpur-hospital-fire_e9ee7435e9b39a11cf02ddae1826fb78.jpeg?w=750&dpr=1.0",
-      "summary": "मुजफ्फरपुर अस्पताल में आग लगने की घटना के बाद सरकार ने कार्रवाई की। राज्य सरकार ने सभी अस्पतालों से अग्नि सुरक्षा रिपोर्ट मांगी है। Muzaffarpur Hospital Fire: मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट।",
+      "summary": "मुजफ्फरपुर अस्पताल में आग लगने की घटना के बाद सरकार ने कार्रवाई की। राज्य सरकार ने सभी अस्पतालों से अग्नि सुरक्षा रिपोर्ट मांगी है। Muzaffarpur Hospital Fire: मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट। Muzaffarpur Hospital Fire: मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट",
-          "summary": "मुजफ्फरपुर अस्पताल में आग लगने की घटना के बाद सरकार ने कार्रवाई की। राज्य सरकार ने सभी अस्पतालों से अग्नि सुरक्षा रिपोर्ट मांगी है। Muzaffarpur Hospital Fire: मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट।",
+          "summary": "मुजफ्फरपुर अस्पताल में आग लगने की घटना के बाद सरकार ने कार्रवाई की। राज्य सरकार ने सभी अस्पतालों से अग्नि सुरक्षा रिपोर्ट मांगी है। Muzaffarpur Hospital Fire: मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट। Muzaffarpur Hospital Fire: मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट।",
           "region": "दुनिया"
         }
       }
@@ -651,60 +729,6 @@
         "hi": {
           "title": "अवामी लीग के पूर्व सांसद शेख मुजीबुर रहमान भेजे गए जेल, पार्टी ने लगाया पक्षपात का आरोप",
           "summary": "ढाका की एक अदालत ने अवामी लीग के पूर्व सांसद शेख मुजीबुर रहमान को जुलाई 2024 के प्रदर्शनों के दौरान हुई हत्या के मामले में जेल भेज दिया है. उन्हें ढाका के उत्तरा स्थित घर से गिरफ्तार किया गया था. अवामी लीग ने गिरफ्तारी को पक्षपातपूर्ण बताया है. Bangladesh News: बांग्लादेश की एक अदालत ने अवामी लीग के नेता और पूर्व सांसद शेख मुजीबुर रहमान को जुलाई 2024 के सरकार विरोधी प्रदर्शनों के दौरान हुई एक हत्या के मामले में जेल भेज दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "100 साल में सिर्फ एक बार दिखा था ये सबसे दुर्लभ तोता, अब खतरनाक पहाड़ों और जानलेवा रास्तों के बीच",
-      "url": "https://hindi.news18.com/news/knowledge/blue-fronted-lorikeet-sighted-indonesia-buru-island-after-100-years-10540184.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T11:29:04+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Rare_Parrot_Seen-2026-06-04913cdbf577979ee3c0bf4f9cac6e84-1200x800.jpg",
-      "summary": "इंडोनेशिया के बुरु आइलैंड में पर्वतारोहियों की एक टीम ने ब्लू-फ्रंटेड लोरीकीट पक्षी की फोटो और आवाज रिकॉर्ड की. यह पक्षी 1920 के बाद 2014 में देखा गया था और यह केवल इसी आइलैंड पर पाया जाता है. Blue-fronted Lorikeet Sighted: इंडोनेशिया के बुरु आइलैंड में एक ऐसा पक्षी मिला है जिसे 100 साल में सिर्फ एक बार देखा गया था.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "100 साल में सिर्फ एक बार दिखा था ये सबसे दुर्लभ तोता, अब खतरनाक पहाड़ों और जानलेवा रास्तों के बीच",
-          "summary": "इंडोनेशिया के बुरु आइलैंड में पर्वतारोहियों की एक टीम ने ब्लू-फ्रंटेड लोरीकीट पक्षी की फोटो और आवाज रिकॉर्ड की. यह पक्षी 1920 के बाद 2014 में देखा गया था और यह केवल इसी आइलैंड पर पाया जाता है. Blue-fronted Lorikeet Sighted: इंडोनेशिया के बुरु आइलैंड में एक ऐसा पक्षी मिला है जिसे 100 साल में सिर्फ एक बार देखा गया था.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप प्रशासन का पहला बड़ा कदम! अमेरिकी संसद में गूंजा भारत का नाम, रुबियो बोले-‘समझौता बिल्कुल",
-      "url": "https://www.patrika.com/world-news/us-india-strategic-ally-marco-rubio-on-india-us-trade-deal-quad-summit-updates-10294857-20639474",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-04T10:54:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-Secretary-of-State-Rubio.webp",
-      "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत को अमेरिका का महत्वपूर्ण रणनीतिक सहयोगी बताया है. उन्होंने कहा कि दोनों देशों के बीच व्यापार वार्ता पूर्ण होने के करीब है. Geopolitics: भारत और अमेरिका के बीच दोस्ती गहरी हो रही है। अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत को अमेरिका का एक महत्वपूर्ण रणनीतिक सहयोगी बताया है। उन्होंने बुधवार (स्थानीय समय) को सदन की विदेश मामलों की समिति के समक्ष गवाही देते हुए ये टिप्पणियां कीं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप प्रशासन का पहला बड़ा कदम! अमेरिकी संसद में गूंजा भारत का नाम, रुबियो बोले-‘समझौता बिल्कुल",
-          "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत को अमेरिका का महत्वपूर्ण रणनीतिक सहयोगी बताया है. उन्होंने कहा कि दोनों देशों के बीच व्यापार वार्ता पूर्ण होने के करीब है. Geopolitics: भारत और अमेरिका के बीच दोस्ती गहरी हो रही है। अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत को अमेरिका का एक महत्वपूर्ण रणनीतिक सहयोगी बताया है। उन्होंने बुधवार (स्थानीय समय) को सदन की विदेश मामलों की समिति के समक्ष गवाही देते हुए ये टिप्पणियां कीं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पहली बार सामने आया उत्तर कोरिया का न्यूक्लियर फ्यूल प्लांट, किम जोंग ने कहा- 5 साल में दोगुना बढ़ा",
-      "url": "https://www.patrika.com/world-news/north-korea-kim-jong-un-secret-nuclear-factory-uranium-production-us-south-korea-kcna-iaea-centifuge-sanctions-war-20639085",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-04T10:06:56+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Kim-Jong.webp",
-      "summary": "उत्तर कोरिया के नेता किम जोंग उन ने एक गुप्त परमाणु ईंधन उत्पादन फैक्ट्री का निरीक्षण किया. उन्होंने दावा किया कि पिछले पांच वर्षों में हथियार-ग्रेड यूरेनियम उत्पादन क्षमता दोगुनी से अधिक हो गई है. किम ने अमेरिका और दक्षिण कोरिया को दुश्मन बताया. North Korea Secret Nuclear Plant: उत्तर कोरिया के तानाशाह किम जोंग उन ने एक बार फिर दुनिया का ध्यान अपनी ओर खींच लिया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पहली बार सामने आया उत्तर कोरिया का न्यूक्लियर फ्यूल प्लांट, किम जोंग ने कहा- 5 साल में दोगुना बढ़ा",
-          "summary": "उत्तर कोरिया के नेता किम जोंग उन ने एक गुप्त परमाणु ईंधन उत्पादन फैक्ट्री का निरीक्षण किया. उन्होंने दावा किया कि पिछले पांच वर्षों में हथियार-ग्रेड यूरेनियम उत्पादन क्षमता दोगुनी से अधिक हो गई है. किम ने अमेरिका और दक्षिण कोरिया को दुश्मन बताया. North Korea Secret Nuclear Plant: उत्तर कोरिया के तानाशाह किम जोंग उन ने एक बार फिर दुनिया का ध्यान अपनी ओर खींच लिया है।",
           "region": "एशिया-प्रशांत"
         }
       }
