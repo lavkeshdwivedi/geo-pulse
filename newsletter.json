@@ -1,20 +1,56 @@
 {
-  "generated_at": "2026-06-04T08:50:12.339194+00:00",
+  "generated_at": "2026-06-04T11:56:13.269686+00:00",
   "article_count": 50,
-  "total_unique_count": 264,
+  "total_unique_count": 266,
   "digest": {
-    "en": "Lebanon and Israel's conditional ceasefire dominates headlines. Russia's continued troop deployment in Ukraine and US policy shifts on Iran also command attention. These events highlight ongoing regional instability and evolving international relations.",
-    "hi": "मध्य पूर्व और अफ्रीका में संयुक्त राष्ट्र शांति सैनिक की मौत की खबर प्रमुख है। पाकिस्तान को चीन द्वारा J-10C लड़ाकू विमानों की आपूर्ति रोकने की खबर भी सामने आई है। श्रीलंका में आग लगने से 11 लोगों की मौत की घटना भी चिंताजनक है।"
+    "en": "The Middle East and Africa dominate headlines with ongoing conflict and humanitarian crises. Europe's far-right is leveraging domestic events for political gain. Brazil's HDI improvement offers a contrasting development.",
+    "hi": "एशिया-प्रशांत क्षेत्र में अवामी लीग के पूर्व सांसद की जेल यात्रा और दुर्लभ तोते की खोज प्रमुखता से छाई हुई है। वहीं, यूरोप में स्पेन की भावी रानी की स्काईडाइविंग और यूके में एक छात्र की हत्या पर उबाल की खबरें भी सामने आई हैं।"
   },
   "articles": [
     {
-      "title": "Lebanon reports Israeli strikes after conditional ceasefire announcement",
+      "title": "Europe’s far right exploit Nowak murder with populist rhetoric on race",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/04/polish-far-right-novak-britain-descent-depths-earth",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-04T11:10:57+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/f20b1f4189a949d5db5990da58329285e3a60dca/0_0_3555_2844/master/3555.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fdf5bc108145c598c510df47348ad950",
+      "summary": "Polish, Spanish, and French populists exploited the murder of Henry Nowak. Polish, Spanish and French populists focus on clips of teenager’s dying moments and accuse UK of descending ‘into depths of the earth’UK politics live – latest updatesPolish far-right politicians have claimed that the murder of Henry Nowak symbolises “Britain’s descent into the depths of the earth” as populists from France, Spain and Japan focused on harrowing clips of his dying moments. Despite pl.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran's Khamenei says dealt enemies 'decisive blow' in West Asian war",
       "url": "https://www.thehindu.com/news/international/usa-iran-war-updates-israel-lebanon-ceasefire-hezbollah-june-4-2026/article71059457.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-06-04T07:38:33+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/yjpyrs/article71060103.ece/alternates/LANDSCAPE_1200/AFP_B4VF6G3.jpg",
-      "summary": "Lebanon reported Israeli strikes after a conditional ceasefire announcement. Israel and Lebanon agree on ceasefire; Trump says he wants to separate talks on Lebanon and the war in Iran but Tehran warns that any attack on Beirut would trigger a \"full-scale resumption\" of the war. Lebanon reports Israeli strikes after conditional ceasefire announcement.",
+      "published_at": "2026-06-04T11:07:51+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/c9nokv/article71060721.ece/alternates/LANDSCAPE_1200/AFP_B4XY9T9.jpg",
+      "summary": "Lebanon reported Israeli strikes after a conditional ceasefire announcement. Israel and Lebanon agree on ceasefire; Trump says he wants to separate talks on Lebanon and the war in Iran but Tehran warns that any attack on Beirut would trigger a \"full-scale resumption\" of the war. Lebanon reports Israeli strikes after conditional ceasefire announcement. Iran's Khamenei says dealt enemies 'decisive blow' in West Asian war.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Civilians flee Mogadishu as Somali troops and opposition-allied militias trade fire",
+      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-04T10:14:14+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/2ac3184140c162e8e7ac702f2dc426b453e70fda/1058_0_5271_4219/master/5271.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59d860a7b7d848830fe8cc9ff377a943",
+      "summary": "Somali government troops and opposition-allied militias exchanged fire in Mogadishu. Violence flares before protests on Thursday over president’s decision to remain in office after his term expiredGovernment troops and militias allied with the opposition have exchanged fire in Somalia’s capital, Mogadishu, damaging property and forcing some civilians to flee. The violence flared up ahead of planned protests on Thursday over president Hassan Sheikh Mohamud’s decision to remain in of.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Mixed Signals Suggest US-Iran Crisis Is Far From Over, Says Security Analyst Jake Sotiriadis",
+      "url": "https://www.rferl.org/a/iran-us-congress-war-sotiriadis/33772490.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-06-04T10:02:43+00:00",
+      "image_url": "https://gdb.rferl.org/C175947E-F888-4147-B7A9-2B205CEE46A2.jpg",
+      "summary": "US State Department adviser Jake Sotiriadis stated that US-Iran developments do RFE/RL spoke with Jake Sotiriadis, an adviser to the US State Department, about whether these developments could signal the beginning of a diplomatic off-ramp between Washington and Tehran or merely a pause in a confrontation that still carries a significant risk of escalation. Mixed Signals Suggest US-Iran Crisis Is Far From Over, Says Security Analyst Jake Sotiriadis.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -28,18 +64,6 @@
       "image_url": "https://gdb.rferl.org/01000000-0aff-0242-5aa0-08dc7bdd3a42_cx0_cy5_cw0_w1200_h630.jpg",
       "summary": "Russia is sending severely injured soldiers back to the front lines in Ukraine. This practice occurs despite medical findings that some men are unfit for service. High casualties are making it difficult for Russia to replace its forces. As Russia struggles to replace soldiers being killed in high numbers in the fifth year of its full-scale invasion of Ukraine, these is mounting evidence of the military returning men to the war despite severe injuries and, sometimes, medical findings saying they are not fit for further service.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Photoshopped seat belts on hit Chinese variety show draw warning from traffic authorities",
-      "url": "https://www.channelnewsasia.com/east-asia/china-variety-show-photoshop-seat-belts-warning-my-adventure-tnt-6161701",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-06-04T06:55:25+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--kOHDxQNw--/c_crop,h_579,w_1031,x_1,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/04/this_is_my_adventure_2_seat_belt.png?itok=MCG7P4fj",
-      "summary": "Chinese traffic authorities issued a warning after the variety show \"This is My Adventure 2\" aired an episode on May 29. The show featured digitally added seat belts on members of the boy band Teens in Times and other celebrities riding in a minibus. Viral clips from the May 29 episode of This is My Adventure 2 show digitally added seat belts overlaid on members of popular Chinese boy band Teens in Times (TNT) and other celebrities as they ride in a minibus.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -64,30 +88,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/vinxz8/article71058103.ece/alternates/LANDSCAPE_1200/Brazil_WCup_Soccer_Decorations_57244.jpg",
       "summary": "Brazil's Human Development Index score rose from 0. UN report reveals the country’s cash-transfer scheme has played a key role in raising its Human Development Index score from 0.744 in 2012 to 0.805 in 2024, on a scale from 0 to 1; as Brazil enters election cycle, the far-right narrative that the scheme discourages people from working draws backlash. Brazil takes a historic HDI leap with focused planning and public spending.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israel, Lebanon agree to conditional ceasefire",
-      "url": "https://www.thehindu.com/news/international/israel-lebanon-agree-to-conditional-ceasefire/article71059536.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-04T04:17:10+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/mi0ks1/article71059540.ece/alternates/LANDSCAPE_1200/2026-06-04T003258Z_7512696_RC2NMLAK5KMZ_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-CEASEFIRE.JPG",
-      "summary": "Israel and Lebanon agreed to a conditional ceasefire. The agreement allows Lebanese armed forces to take exclusive control of territory along the border. This measure aims to exclude non-state actors from the region. The two nations do not have formal diplomatic relations. Israel and Lebanon, which do not have formal diplomatic relations, also agreed to create “pilot zones” in which the Lebanese armed forces “will take exclusive control of the territory to the exclusion of all non-state actors”.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Rubio warns of Ukraine war 'escalation' risk",
-      "url": "https://www.thehindu.com/news/international/rubio-warns-of-ukraine-war-escalation-risk/article71058737.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-03T22:47:26+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/pihsqa/article71058739.ece/alternates/LANDSCAPE_1200/Senate_Appropriations_84_35.jpg",
-      "summary": "Ukrainian drones struck energy infrastructure in St. Petersburg. Kyiv called this retaliation for Russian strikes that killed 23 people. Senator Marco Rubio warned of escalation risk in the Ukraine war. The remarks came after Ukrainian drones struck energy infrastructure in Russia's second-largest city, St. Petersburg, an attack Kyiv called retaliation for a mass wave of Russian strikes on Tuesday that killed at least 23 people.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -123,6 +123,18 @@
       "published_at": "2026-06-03T18:04:53+00:00",
       "image_url": "https://i.guim.co.uk/img/media/1589c66a02b9069ad8af2f1b176818464045e3df/0_467_1536_1228/master/1536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98eb9a7563b20f7e85135615de78027a",
       "summary": "US immigration judge Amy Lee ordered the deportation of Levi Mendez-Maldonado North Carolina judge said Levi Mendez-Maldonado failed to show up in court – even after being told he had died in 2024An immigration judge in Charlotte, North Carolina, recently ordered the deportation of a young man who was killed in 2024, citing his failure to appear in court. Judge Amy Lee ordered the removal of Levi Mendez-Maldonado in absentia on 21 May.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Unsafe food kills 1.5 million people each year; children most at risk: WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167644",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-03T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026-UNICEF-Food.jpeg/image770x420cropped.jpg",
+      "summary": "Unsafe food causes an estimated 1.5 million deaths globally each year. Unsafe food causes an estimated 866 million illnesses and 1.5 million deaths every year worldwide, highlighting the often-overlooked toll of contaminated food on health, development and fragile economies, according to new data from the UN health agency. Unsafe food kills 1.5 million people each year; children most at risk: WHO.",
       "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
@@ -248,18 +260,6 @@
       "translations": {}
     },
     {
-      "title": "Russia Bets On Education To Sustain Influence In Central Asia",
-      "url": "https://www.rferl.org/a/russia-schools-central-asia-kyrgyzstan-tajikistan-kazakhstan-uzbekistan/33771019.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-02T14:52:40+00:00",
-      "image_url": "https://gdb.rferl.org/e7b50eb8-2f6b-4f8c-1542-08debadc4af7_w1200_h630.jpg",
-      "summary": "Russia is investing hundreds of millions of dollars to build schools and universities across Central Asia. This initiative reinforces the use of the Russian language in the region. It occurs as younger generations face increasing Western and Chinese influences. Russia Bets On Education To Sustain Influence In Central Asia.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "UN mission reports rising tensions along the Blue Line in Lebanon",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167625",
       "source": "UN News",
@@ -296,31 +296,175 @@
       "translations": {}
     },
     {
-      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
-      "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+      "title": "Japan defence minister rebuffs claims of ‘new militarism’ levelled by China",
+      "url": "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-06-01T11:59:11+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/14d5a2332c838f6d5787e4e6c210d3dd7a02ac7c/761_0_3892_3113/master/3892.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3d14a14f27927e6308a3e577da17dbb",
-      "summary": "Ghana's parliament passed a bill criminalising LGBTQ+ activities and identification. Community groups report fear among LGBTQ+ individuals. Some fear losing homes, jobs, and healthcare access. The bill awaits ratification by President John Dramani Mahama. Community groups say some fear they could lose homes, jobs and access to healthcare if the new law is ratified by President John Dramani MahamaGhana’s LGBTQ community is living in fear after the country’s parliament approved a sweeping bill that criminalises the promotion of LGBTQ+ activities and identifying as lesbian, gay, bisexual, transgender or queer, rights groups have warned. The legislation.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-05-31T05:02:39+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/02d774e13d041f094f583254b13136c5a354374e/846_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0c519ad695a6feff1b056c8689ab4e0",
+      "summary": "Japan's defence minister rejected accusations of \"new militarism\" from China. He stated Japan remains a peace-loving nation. This comes as China expands its military capabilities with insufficient transparency. Japan will continue to strengthen its own defence posture. Shinjiro Koizumi says Japan valued as a ‘peace-loving’ nation while China expands military capabilities ‘without sufficient transparency’Japan’s defence minister took a veiled swipe at China on Sunday, pledging to keep strengthening the military despite Beijing’s criticism of Tokyo’s increasingly muscular security stance. Under the prime minister, Sanae Takaichi, Japan has quickened its pivot to a.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "लेबनान में संयुक्त राष्ट्र शांति सैनिक की मौत, मोर्टार हमले में हुआ था घायल",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-news-lebanon-israel-ceasefire-iran-us-kuwait-airport-attack-livenews-10538090.html",
+      "title": "अवामी लीग के पूर्व सांसद शेख मुजीबुर रहमान भेजे गए जेल, पार्टी ने लगाया पक्षपात का आरोप",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-news-awami-league-leader-mujibur-rehman-sent-to-jail-2-10540338.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-04T08:26:54+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/donald-trump-101-2026-06-448db0f3a635b021fc5a9d645eb73bf5-1200x800.jpg",
-      "summary": "इजरायल और लेबनान के बीच एक नए युद्धविराम समझौते पर सहमति बनी है। हालांकि, ईरान ने कुवैत हवाई अड्डे पर हमले में अपनी संलिप्तता से इनकार किया है। Iran US War Live: इजरायल और लेबनान के बीच नए सीजफायर समझौते का ऐलान हुआ है, लेकिन पश्चिम एशिया में तनाव अब भी खत्म नहीं हुआ है. सीजफायर की घोषणा के कुछ ही घंटों बाद ईरान और अमेरिका के नए-नए दावे सामने आए.",
+      "published_at": "2026-06-04T11:43:24+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/bangladesh-arrest-2026-06-fa648ce98b27602e3df864f2c9788921-1200x800.jpg",
+      "summary": "ढाका की एक अदालत ने अवामी लीग के पूर्व सांसद शेख मुजीबुर रहमान को जुलाई 2024 के प्रदर्शनों के दौरान हुई हत्या के मामले में जेल भेज दिया है. उन्हें ढाका के उत्तरा स्थित घर से गिरफ्तार किया गया था. अवामी लीग ने गिरफ्तारी को पक्षपातपूर्ण बताया है. Bangladesh News: बांग्लादेश की एक अदालत ने अवामी लीग के नेता और पूर्व सांसद शेख मुजीबुर रहमान को जुलाई 2024 के सरकार विरोधी प्रदर्शनों के दौरान हुई एक हत्या के मामले में जेल भेज दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अवामी लीग के पूर्व सांसद शेख मुजीबुर रहमान भेजे गए जेल, पार्टी ने लगाया पक्षपात का आरोप",
+          "summary": "ढाका की एक अदालत ने अवामी लीग के पूर्व सांसद शेख मुजीबुर रहमान को जुलाई 2024 के प्रदर्शनों के दौरान हुई हत्या के मामले में जेल भेज दिया है. उन्हें ढाका के उत्तरा स्थित घर से गिरफ्तार किया गया था. अवामी लीग ने गिरफ्तारी को पक्षपातपूर्ण बताया है. Bangladesh News: बांग्लादेश की एक अदालत ने अवामी लीग के नेता और पूर्व सांसद शेख मुजीबुर रहमान को जुलाई 2024 के सरकार विरोधी प्रदर्शनों के दौरान हुई एक हत्या के मामले में जेल भेज दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "100 साल में सिर्फ एक बार दिखा था ये सबसे दुर्लभ तोता, अब खतरनाक पहाड़ों और जानलेवा रास्तों के बीच",
+      "url": "https://hindi.news18.com/news/knowledge/blue-fronted-lorikeet-sighted-indonesia-buru-island-after-100-years-10540184.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-04T11:29:04+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Rare_Parrot_Seen-2026-06-04913cdbf577979ee3c0bf4f9cac6e84-1200x800.jpg",
+      "summary": "इंडोनेशिया के बुरु आइलैंड में पर्वतारोहियों की एक टीम ने ब्लू-फ्रंटेड लोरीकीट पक्षी की फोटो और आवाज रिकॉर्ड की. यह पक्षी 1920 के बाद 2014 में देखा गया था और यह केवल इसी आइलैंड पर पाया जाता है. Blue-fronted Lorikeet Sighted: इंडोनेशिया के बुरु आइलैंड में एक ऐसा पक्षी मिला है जिसे 100 साल में सिर्फ एक बार देखा गया था.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "100 साल में सिर्फ एक बार दिखा था ये सबसे दुर्लभ तोता, अब खतरनाक पहाड़ों और जानलेवा रास्तों के बीच",
+          "summary": "इंडोनेशिया के बुरु आइलैंड में पर्वतारोहियों की एक टीम ने ब्लू-फ्रंटेड लोरीकीट पक्षी की फोटो और आवाज रिकॉर्ड की. यह पक्षी 1920 के बाद 2014 में देखा गया था और यह केवल इसी आइलैंड पर पाया जाता है. Blue-fronted Lorikeet Sighted: इंडोनेशिया के बुरु आइलैंड में एक ऐसा पक्षी मिला है जिसे 100 साल में सिर्फ एक बार देखा गया था.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "UAE-सऊदी या कतर नहीं भारत में इस देश से आ रहा है LNG का खजाना, टूट गए सारे रिकॉर्ड",
+      "url": "https://hindi.news18.com/world/middle-east-india-top-lng-supplier-oman-beats-qatar-us-and-uae-imports-surge-energy-market-shifts-amid-iran-war-10539823.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-04T10:59:39+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Oman-LNG-Supply-To-India-2026-06-9ac107396875a90009053230c1a2b7bb-1200x800.jpg",
+      "summary": "कतर की एलएनजी आपूर्ति में गिरावट के बीच भारत ने अपनी ऊर्जा सुरक्षा सुनिश्चित की है. मार्च महीने में भारत ने रिकॉर्ड 30% एलएनजी आयात किया, जिससे यह देश भारत का नंबर वन एलएनजी आपूर्तिकर्ता बन गया है. खाड़ी में भीषण तनाव के बीच ग्लोबल एनर्जी मार्केट में भारी उलटफेर देखने को मिल रहा है, जहां मिसाइल हमलों के कारण कतर की गैस सप्लाई 41% से गिरकर महज 8% रह गई है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "लेबनान में संयुक्त राष्ट्र शांति सैनिक की मौत, मोर्टार हमले में हुआ था घायल",
-          "summary": "इजरायल और लेबनान के बीच एक नए युद्धविराम समझौते पर सहमति बनी है। हालांकि, ईरान ने कुवैत हवाई अड्डे पर हमले में अपनी संलिप्तता से इनकार किया है। Iran US War Live: इजरायल और लेबनान के बीच नए सीजफायर समझौते का ऐलान हुआ है, लेकिन पश्चिम एशिया में तनाव अब भी खत्म नहीं हुआ है. सीजफायर की घोषणा के कुछ ही घंटों बाद ईरान और अमेरिका के नए-नए दावे सामने आए.",
+          "title": "UAE-सऊदी या कतर नहीं भारत में इस देश से आ रहा है LNG का खजाना, टूट गए सारे रिकॉर्ड",
+          "summary": "कतर की एलएनजी आपूर्ति में गिरावट के बीच भारत ने अपनी ऊर्जा सुरक्षा सुनिश्चित की है. मार्च महीने में भारत ने रिकॉर्ड 30% एलएनजी आयात किया, जिससे यह देश भारत का नंबर वन एलएनजी आपूर्तिकर्ता बन गया है. खाड़ी में भीषण तनाव के बीच ग्लोबल एनर्जी मार्केट में भारी उलटफेर देखने को मिल रहा है, जहां मिसाइल हमलों के कारण कतर की गैस सप्लाई 41% से गिरकर महज 8% रह गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "स्पेन की भावी रानी के तेवर तो देखिए, हजारों फीट ऊंचाई से लगाई छलांग, 150 साल बाद इतिहास बनाने को",
+      "url": "https://hindi.news18.com/world/rest-of-world-spain-princess-leonor-makes-parachute-jump-ready-to-make-history-as-queen-after-150-years-watch-pictures-2-photogallery-10540134.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-04T10:57:06+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/princess-pic-9-2026-06-f96f0000d4d9bd93317033c8fd532740-1200x800.jpg",
+      "summary": "स्पेन की भावी रानी राजकुमारी लियोनोर ने हजारों फीट की ऊंचाई से छलांग लगाई है. यह कदम उनके 18वें जन्मदिन पर संविधान के प्रति निष्ठा की शपथ लेने के बाद उनके प्रशिक्षण का हिस्सा है. Spain Princess Jumps from Thousands Feet: अक्टूबर, 2023 में अपने 18वें जन्मदिन पर राजकुमारी लियोनोर ने स्पेन की संसद में संविधान के प्रति निष्ठा की शपथ ली थी.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्पेन की भावी रानी के तेवर तो देखिए, हजारों फीट ऊंचाई से लगाई छलांग, 150 साल बाद इतिहास बनाने को",
+          "summary": "स्पेन की भावी रानी राजकुमारी लियोनोर ने हजारों फीट की ऊंचाई से छलांग लगाई है. यह कदम उनके 18वें जन्मदिन पर संविधान के प्रति निष्ठा की शपथ लेने के बाद उनके प्रशिक्षण का हिस्सा है. Spain Princess Jumps from Thousands Feet: अक्टूबर, 2023 में अपने 18वें जन्मदिन पर राजकुमारी लियोनोर ने स्पेन की संसद में संविधान के प्रति निष्ठा की शपथ ली थी.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप प्रशासन का पहला बड़ा कदम! अमेरिकी संसद में गूंजा भारत का नाम, रुबियो बोले-‘समझौता बिल्कुल",
+      "url": "https://www.patrika.com/world-news/us-india-strategic-ally-marco-rubio-on-india-us-trade-deal-quad-summit-updates-10294857-20639474",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-04T10:54:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-Secretary-of-State-Rubio.webp",
+      "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत को अमेरिका का महत्वपूर्ण रणनीतिक सहयोगी बताया है. उन्होंने कहा कि दोनों देशों के बीच व्यापार वार्ता पूर्ण होने के करीब है. Geopolitics: भारत और अमेरिका के बीच दोस्ती गहरी हो रही है। अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत को अमेरिका का एक महत्वपूर्ण रणनीतिक सहयोगी बताया है। उन्होंने बुधवार (स्थानीय समय) को सदन की विदेश मामलों की समिति के समक्ष गवाही देते हुए ये टिप्पणियां कीं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप प्रशासन का पहला बड़ा कदम! अमेरिकी संसद में गूंजा भारत का नाम, रुबियो बोले-‘समझौता बिल्कुल",
+          "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत को अमेरिका का महत्वपूर्ण रणनीतिक सहयोगी बताया है. उन्होंने कहा कि दोनों देशों के बीच व्यापार वार्ता पूर्ण होने के करीब है. Geopolitics: भारत और अमेरिका के बीच दोस्ती गहरी हो रही है। अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत को अमेरिका का एक महत्वपूर्ण रणनीतिक सहयोगी बताया है। उन्होंने बुधवार (स्थानीय समय) को सदन की विदेश मामलों की समिति के समक्ष गवाही देते हुए ये टिप्पणियां कीं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में दशकों बाद लौटा मांस खाने वाला खतरनाक कीड़ा, कराएगा अरबों का नुकसान, क्या इससे इंसानों",
+      "url": "https://hindi.news18.com/world/america-flesh-eating-screwworm-parasite-found-in-texas-us-livestock-danger-10539914.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-04T10:27:24+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Flesh_Eating_America-2026-06-3ec3abfa00f00da72b53af9d226b89a5-1200x800.jpg",
+      "summary": "टेक्सास में दशकों बाद मांस खाने वाला परजीवी 'न्यू वर्ल्ड स्क्रू-वर्म' पाया गया है. यह परजीवी जानवरों के घावों में अंडे देता है और इसके लार्वा जिंदा मांस खाते हैं. अमेरिकी कृषि विभाग ने इसे रोकने के लिए सख्त कदम उठाए हैं. इस प्रकोप से अर्थव्यवस्था को अरबों डॉलर का नुकसान हो सकता है. Flesh-eating Parasite New World screwworm: अमेरिका के टेक्सास में दशकों बाद मांस खाने वाला खतरनाक कीड़ा 'न्यू वर्ल्ड स्क्रू-वर्म' मिला है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में दशकों बाद लौटा मांस खाने वाला खतरनाक कीड़ा, कराएगा अरबों का नुकसान, क्या इससे इंसानों",
+          "summary": "टेक्सास में दशकों बाद मांस खाने वाला परजीवी 'न्यू वर्ल्ड स्क्रू-वर्म' पाया गया है. यह परजीवी जानवरों के घावों में अंडे देता है और इसके लार्वा जिंदा मांस खाते हैं. अमेरिकी कृषि विभाग ने इसे रोकने के लिए सख्त कदम उठाए हैं. इस प्रकोप से अर्थव्यवस्था को अरबों डॉलर का नुकसान हो सकता है. Flesh-eating Parasite New World screwworm: अमेरिका के टेक्सास में दशकों बाद मांस खाने वाला खतरनाक कीड़ा 'न्यू वर्ल्ड स्क्रू-वर्म' मिला है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पहली बार सामने आया उत्तर कोरिया का न्यूक्लियर फ्यूल प्लांट, किम जोंग ने कहा- 5 साल में दोगुना बढ़ा",
+      "url": "https://www.patrika.com/world-news/north-korea-kim-jong-un-secret-nuclear-factory-uranium-production-us-south-korea-kcna-iaea-centifuge-sanctions-war-20639085",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-04T10:06:56+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Kim-Jong.webp",
+      "summary": "उत्तर कोरिया के नेता किम जोंग उन ने एक गुप्त परमाणु ईंधन उत्पादन फैक्ट्री का निरीक्षण किया. उन्होंने दावा किया कि पिछले पांच वर्षों में हथियार-ग्रेड यूरेनियम उत्पादन क्षमता दोगुनी से अधिक हो गई है. किम ने अमेरिका और दक्षिण कोरिया को दुश्मन बताया. North Korea Secret Nuclear Plant: उत्तर कोरिया के तानाशाह किम जोंग उन ने एक बार फिर दुनिया का ध्यान अपनी ओर खींच लिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पहली बार सामने आया उत्तर कोरिया का न्यूक्लियर फ्यूल प्लांट, किम जोंग ने कहा- 5 साल में दोगुना बढ़ा",
+          "summary": "उत्तर कोरिया के नेता किम जोंग उन ने एक गुप्त परमाणु ईंधन उत्पादन फैक्ट्री का निरीक्षण किया. उन्होंने दावा किया कि पिछले पांच वर्षों में हथियार-ग्रेड यूरेनियम उत्पादन क्षमता दोगुनी से अधिक हो गई है. किम ने अमेरिका और दक्षिण कोरिया को दुश्मन बताया. North Korea Secret Nuclear Plant: उत्तर कोरिया के तानाशाह किम जोंग उन ने एक बार फिर दुनिया का ध्यान अपनी ओर खींच लिया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "18 साल के छात्र की हत्या पर उबला UK, दोषी सिख युवक को मिली उम्रकैद, कृपाण से किया वार फिर पुलिस से",
+      "url": "https://hindi.news18.com/world/britain-how-did-henry-nowak-killed-in-uk-stabbed-by-sikh-man-handcuffed-by-cops-crowd-outrageous-over-incident-ws-l-10539838.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-04T10:06:54+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/uk-britain-2026-06-0aa21d844a1e657dab2d0cf8a76db0a7-1200x800.jpg",
+      "summary": "यूनाइटेड किंगडम में 18 वर्षीय छात्र नोवाक की हत्या के मामले ने तूल पकड़ लिया है. एक सिख युवक ने उस पर कृपाण से हमला किया था. पुलिस की प्रारंभिक निष्क्रियता के बाद यह मामला राजनीतिक हो गया है. UK teen Killed Sparks Outrage: यूनाइटेड किंगडम में इस वक्त साल 2025 में हुई एक छात्र की हत्या का मामला तूल पकड़ चुका है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "18 साल के छात्र की हत्या पर उबला UK, दोषी सिख युवक को मिली उम्रकैद, कृपाण से किया वार फिर पुलिस से",
+          "summary": "यूनाइटेड किंगडम में 18 वर्षीय छात्र नोवाक की हत्या के मामले ने तूल पकड़ लिया है. एक सिख युवक ने उस पर कृपाण से हमला किया था. पुलिस की प्रारंभिक निष्क्रियता के बाद यह मामला राजनीतिक हो गया है. UK teen Killed Sparks Outrage: यूनाइटेड किंगडम में इस वक्त साल 2025 में हुई एक छात्र की हत्या का मामला तूल पकड़ चुका है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप के जाने के बाद चीन ने चली चाल, साथ आए अमेरिका के दो दुश्मन, यूरेनियम एनरिचमेंट पर पक रही",
+      "url": "https://hindi.news18.com/world/rest-of-world-north-korea-china-strong-relation-kim-jong-un-inspects-new-nuclear-facility-uranium-enrichment-centre-ws-l-10539567.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-04T09:01:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/CHINA-KOREA-2026-06-ad327a8ce436fee4b3cb50defaa93f5f-1200x800.jpg",
+      "summary": "अमेरिका के राष्ट्रपति के चीन दौरे के बाद, उत्तर कोरिया और चीन ने यूरेनियम संवर्धन पर सहयोग बढ़ाया है. अमेरिका ईरान के परमाणु कार्यक्रम पर नजर रख रहा है. उत्तर कोरिया की मिसाइलों की रेंज में वाशिंगटन आता है. North Korea-China Relation Against US: डोनाल्ड ट्रंप हाल ही में चीन का दौरा करके आए हैं, लेकिन उन्हें उम्मीद भी नहीं थी कि उनके जाते ही ड्रैगन अपने उस दोस्त के साथ खिचड़ी पकाने लगा है, जो अमेरिका का जानी दुश्मन है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप के जाने के बाद चीन ने चली चाल, साथ आए अमेरिका के दो दुश्मन, यूरेनियम एनरिचमेंट पर पक रही",
+          "summary": "अमेरिका के राष्ट्रपति के चीन दौरे के बाद, उत्तर कोरिया और चीन ने यूरेनियम संवर्धन पर सहयोग बढ़ाया है. अमेरिका ईरान के परमाणु कार्यक्रम पर नजर रख रहा है. उत्तर कोरिया की मिसाइलों की रेंज में वाशिंगटन आता है. North Korea-China Relation Against US: डोनाल्ड ट्रंप हाल ही में चीन का दौरा करके आए हैं, लेकिन उन्हें उम्मीद भी नहीं थी कि उनके जाते ही ड्रैगन अपने उस दोस्त के साथ खिचड़ी पकाने लगा है, जो अमेरिका का जानी दुश्मन है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -340,6 +484,24 @@
           "title": "राफेल से टक्कर का सपना टूटा, पाकिस्तान को चीन ने बीच राह में छोड़ा, पैसे नहीं दिए तो रोक दिए J-10C",
           "summary": "चीन ने पाकिस्तान वायुसेना के लिए 16 J-10CE लड़ाकू विमानों की डिलीवरी रोक दी है। पाकिस्तान तय समय पर भुगतान नहीं कर पाया। ये विमान भारत के खिलाफ हवाई ताकत बढ़ाने के लिए खरीदे गए थे। Pakistan-China Jet: आर्थिक संकट से जूझ रहे पाकिस्तान को उसके सबसे करीबी साझेदार चीन ने बड़ा झटका दिया है. रिपोर्ट के मुताबिक बीजिंग ने पाकिस्तान वायुसेना के लिए तैयार 16 J-10CE लड़ाकू विमानों की डिलीवरी रोक दी है क्योंकि इस्लामाबाद तय समय पर भुगतान नहीं कर पाया.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में हाथ मिलाया, लेबनान में बम गिराया! इजरायल का बड़ा ड्रोन हमला",
+      "url": "https://www.patrika.com/world-news/israel-lebanon-ceasefire-drone-strike-news-updates-2026-20638904",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-04T08:02:24+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Israel-attacks-Lebanon-1.webp",
+      "summary": "इजरायल और लेबनान के शीर्ष अधिकारियों के बीच युद्धविराम पर सहमति बनने के तुरंत बाद लेबनान में एक इजरायली ड्रोन हमला हुआ. इस हमले ने शांति की उम्मीदों पर सवाल खड़े कर दिए हैं. US-Iran conflict: पश्चिम एशिया से इस वक्त एक बेहद चौंकाने वाली खबर सामने आ रही है। वाशिंगटन में इजरायल और लेबनान के शीर्ष अधिकारियों के बीच लंबे दौर की बैठक के बाद आखिरकार युद्ध पर विराम लगाने की सहमति बन गई थी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में हाथ मिलाया, लेबनान में बम गिराया! इजरायल का बड़ा ड्रोन हमला",
+          "summary": "इजरायल और लेबनान के शीर्ष अधिकारियों के बीच युद्धविराम पर सहमति बनने के तुरंत बाद लेबनान में एक इजरायली ड्रोन हमला हुआ. इस हमले ने शांति की उम्मीदों पर सवाल खड़े कर दिए हैं. US-Iran conflict: पश्चिम एशिया से इस वक्त एक बेहद चौंकाने वाली खबर सामने आ रही है। वाशिंगटन में इजरायल और लेबनान के शीर्ष अधिकारियों के बीच लंबे दौर की बैठक के बाद आखिरकार युद्ध पर विराम लगाने की सहमति बन गई थी।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -380,24 +542,6 @@
       }
     },
     {
-      "title": "ललित मोदी ने 2007 में द्रविड़-सचिन और गांगुली से किसी बात को लेकर मांगी थी 'भीख'? सुनाई पूरी कहानी",
-      "url": "https://www.amarujala.com/cricket/lalit-modi-reveals-he-begged-indian-stars-to-play-2007-t20-world-cup-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-04T07:21:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/lalit-modi-t20-world-cup-2007-ms-dhoni-yuvraj-singh-sachin-tendulkar-rahul-dravid-sourav-gang_7cb94230075dbd3dcc782157774cccd8.jpeg?w=750&dpr=1.0",
-      "summary": "पूर्व आईपीएल कमिश्नर ललित मोदी ने बताया कि 2007 में पहले T20 विश्व कप से पहले उन्हें भारतीय खिलाड़ियों से टूर्नामेंट में खेलने की गुहार लगानी पड़ी थी। पूर्व आईपीएल कमिश्नर ललित मोदी ने खुलासा किया है कि 2007 में पहले ICC T20 विश्व कप से पहले उन्हें भारतीय खिलाड़ियों से टूर्नामेंट में खेलने की गुहार लगानी पड़ी थी। ललित मोदी ने 2007 में द्रविड़-सचिन और गांगुली से किसी बात को लेकर मांगी थी 'भीख'?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ललित मोदी ने 2007 में द्रविड़-सचिन और गांगुली से किसी बात को लेकर मांगी थी 'भीख'? सुनाई पूरी कहानी",
-          "summary": "पूर्व आईपीएल कमिश्नर ललित मोदी ने बताया कि 2007 में पहले T20 विश्व कप से पहले उन्हें भारतीय खिलाड़ियों से टूर्नामेंट में खेलने की गुहार लगानी पड़ी थी। पूर्व आईपीएल कमिश्नर ललित मोदी ने खुलासा किया है कि 2007 में पहले ICC T20 विश्व कप से पहले उन्हें भारतीय खिलाड़ियों से टूर्नामेंट में खेलने की गुहार लगानी पड़ी थी। ललित मोदी ने 2007 में द्रविड़-सचिन और गांगुली से किसी बात को लेकर मांगी थी 'भीख'?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "वैज्ञानिकों ने 5300 साल पुरानी 'चीज' से बना डाला ब्रेड, बेहद स्वादिष्ट, पर रेसिपी जानकर आ जाएगी",
       "url": "https://hindi.news18.com/world/rest-of-world-scientists-extracted-yeast-from-5300-year-old-mummy-gut-baked-bread-by-it-amazing-news-ws-l-10538984.html",
       "source": "News18 Hindi (World)",
@@ -411,42 +555,6 @@
         "hi": {
           "title": "वैज्ञानिकों ने 5300 साल पुरानी 'चीज' से बना डाला ब्रेड, बेहद स्वादिष्ट, पर रेसिपी जानकर आ जाएगी",
           "summary": "वैज्ञानिकों ने 5300 साल पुरानी खमीर का उपयोग करके ब्रेड बनाया है। यह ब्रेड स्वादिष्ट बताया गया है। खमीर एक ममी के पेट से प्राप्त किया गया था। Bread by Yeast from Mummy's Gut: अगर आपको कोई बेहतरीन चीज खाने को मिलती है, तो आप चाहते हैं कि उसकी रेसिपी भी जानने को मिले. कुछ ऐसा ही एक स्वादिष्ट ब्रेड वैज्ञानिकों ने अपनी मेहनत से तैयार किया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गुजरात में घुसपैठियों पर बड़ी कार्रवाई, दो दिन में हत्थे चढ़े 501 बांग्लादेशी नागरिक",
-      "url": "https://www.amarujala.com/india-news/operation-delta-hunt-major-crackdown-on-infiltrators-in-gujarat-501-bangladeshi-nationals-arrested-in-two-days-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-04T07:17:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/illegal-migrants_4526c6af97a707763ad7e622c3abed97.png?w=750&dpr=1.0",
-      "summary": "गुजरात पुलिस ने ऑपरेशन डेल्टा हंट के तहत दो दिनों में 501 बांग्लादेशी नागरिकों को पकड़ा। यह कार्रवाई राज्य में अवैध घुसपैठ को रोकने के लिए की गई। गुजरात में घुसपैठियों पर बड़ी कार्रवाई, दो दिन में हत्थे चढ़े 501 बांग्लादेशी नागरिक।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गुजरात में घुसपैठियों पर बड़ी कार्रवाई, दो दिन में हत्थे चढ़े 501 बांग्लादेशी नागरिक",
-          "summary": "गुजरात पुलिस ने ऑपरेशन डेल्टा हंट के तहत दो दिनों में 501 बांग्लादेशी नागरिकों को पकड़ा। यह कार्रवाई राज्य में अवैध घुसपैठ को रोकने के लिए की गई। गुजरात में घुसपैठियों पर बड़ी कार्रवाई, दो दिन में हत्थे चढ़े 501 बांग्लादेशी नागरिक।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "किराए के कमरे से कोठी वाले आश्रम तक, काले कारनामे और नशे का खेल; आईआईटियन बाबा की कहानी",
-      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/agra/fake-iitian-baba-police-to-conduct-blood-tests-to-probe-alleged-drugging-claims-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-04T07:08:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/iitian-baba_d1b926ac8bc46b41c67074b59e0410b9.jpeg?w=750&dpr=1.0",
-      "summary": "पुलिस आईआईटियन बाबा अभिषेक मिश्रा उर्फ आदिकर्ता नारायण दास के नशीले पदार्थों के व्यापार और अन्य आपराधिक गतिविधियों की जांच के लिए वैज्ञानिक तरीकों का उपयोग करेगी। आईआईटियन बाबा अभिषेक मिश्रा उर्फ आदिकर्ता नारायण दास के काले कारनामे और नशे के खेल को बेनकाब करने के लिए पुलिस अब वैज्ञानिक जांच का सहारा लेगी। किराए के कमरे से कोठी वाले आश्रम तक, काले कारनामे और नशे का खेल; आईआईटियन बाबा की कहानी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "किराए के कमरे से कोठी वाले आश्रम तक, काले कारनामे और नशे का खेल; आईआईटियन बाबा की कहानी",
-          "summary": "पुलिस आईआईटियन बाबा अभिषेक मिश्रा उर्फ आदिकर्ता नारायण दास के नशीले पदार्थों के व्यापार और अन्य आपराधिक गतिविधियों की जांच के लिए वैज्ञानिक तरीकों का उपयोग करेगी। आईआईटियन बाबा अभिषेक मिश्रा उर्फ आदिकर्ता नारायण दास के काले कारनामे और नशे के खेल को बेनकाब करने के लिए पुलिस अब वैज्ञानिक जांच का सहारा लेगी। किराए के कमरे से कोठी वाले आश्रम तक, काले कारनामे और नशे का खेल; आईआईटियन बाबा की कहानी।",
           "region": "दुनिया"
         }
       }
@@ -488,36 +596,18 @@
       }
     },
     {
-      "title": "जिंदगी देने के सामान कैसे बना मौत का इंतजाम; मुजफ्फरपुर के अस्पताल में आग की वजह आई सामने",
-      "url": "https://www.amarujala.com/bihar/bihar-news-updates-reason-for-fire-in-muzaffarpur-hospital-revealed-dm-subrata-kumar-sen-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-04T06:55:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/bihar-news_e480669ceca811b4bc44f81c5b862a17.jpeg?w=750&dpr=1.0",
-      "summary": "मुजफ्फरपुर के एक अस्पताल में आग लगने का कारण ऑक्सीजन की निगरानी के लिए इस्तेमाल होने वाले उपकरण थे। इन उपकरणों ने मरीजों के लिए जानलेवा स्थिति पैदा कर दी। Bihar News: ऑक्सीजन और मरीजों के लिए लगने वाला मॉनीटर बताता है कि शरीर में क्या-कैसा चल रहा है। लेकिन, ऑक्सीजन मॉनीटरिंग के लिए लगे उपकरण ही मुजफ्फरपुर में मौत का कारण बने।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जिंदगी देने के सामान कैसे बना मौत का इंतजाम; मुजफ्फरपुर के अस्पताल में आग की वजह आई सामने",
-          "summary": "मुजफ्फरपुर के एक अस्पताल में आग लगने का कारण ऑक्सीजन की निगरानी के लिए इस्तेमाल होने वाले उपकरण थे। इन उपकरणों ने मरीजों के लिए जानलेवा स्थिति पैदा कर दी। Bihar News: ऑक्सीजन और मरीजों के लिए लगने वाला मॉनीटर बताता है कि शरीर में क्या-कैसा चल रहा है। लेकिन, ऑक्सीजन मॉनीटरिंग के लिए लगे उपकरण ही मुजफ्फरपुर में मौत का कारण बने।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "घायलों से मिलीं CM रेखा, मुआवजे का एलान; मरने वाले विदेशी नागरिकों की हुई पहचान",
+      "title": "आरोपी होटल मालिक लवकेश बजाज चार दिन की पुलिस कस्टडी में",
       "url": "https://www.amarujala.com/live/delhi-ncr/delhi-hotel-fire-live-updates-owner-lovkesh-bajaj-arrested-death-toll-details-in-hindi-2026-06-04",
       "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-06-04T06:47:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/saema-na-ghayal-ka-jana-hal_c44b89367bc2d10483291b63569e401d.png?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/jaca-ka-le-farasaka-tama-pahaca_7c38b73766520eee16f595ef07632267.png?w=750&dpr=1.0",
       "summary": "दिल्ली के मालवीय नगर में होटल अग्निकांड में 21 लोगों की मौत हो गई। मुख्यमंत्री रेखा गुप्ता ने अस्पताल पहुंचकर घायलों से मुलाकात की। उन्होंने मृतकों के परिवारों के लिए मुआवजे की घोषणा की। Delhi Fire News: दिल्ली के मालवीय नगर में हुए होटल अग्निकांड में 21 लोगों की मौत हो गई। बुधवार को हुई घटना के बाद आज मुख्यमंत्री रेखा गुप्ता अस्पताल पहुंची हैं।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "घायलों से मिलीं CM रेखा, मुआवजे का एलान; मरने वाले विदेशी नागरिकों की हुई पहचान",
+          "title": "आरोपी होटल मालिक लवकेश बजाज चार दिन की पुलिस कस्टडी में",
           "summary": "दिल्ली के मालवीय नगर में होटल अग्निकांड में 21 लोगों की मौत हो गई। मुख्यमंत्री रेखा गुप्ता ने अस्पताल पहुंचकर घायलों से मुलाकात की। उन्होंने मृतकों के परिवारों के लिए मुआवजे की घोषणा की। Delhi Fire News: दिल्ली के मालवीय नगर में हुए होटल अग्निकांड में 21 लोगों की मौत हो गई। बुधवार को हुई घटना के बाद आज मुख्यमंत्री रेखा गुप्ता अस्पताल पहुंची हैं।",
           "region": "एशिया-प्रशांत"
         }
@@ -542,20 +632,20 @@
       }
     },
     {
-      "title": "फिल्म निर्माता और CBFC के पूर्व अध्यक्ष पहलाज निहलानी का निधन, 76 की आयु में ली अंतिम सांस",
-      "url": "https://www.amarujala.com/entertainment/filmmaker-and-ex-cbfc-chairperson-pahlaj-nihalani-dies-at-76-2026-06-04",
-      "source": "Amar Ujala Breaking",
+      "title": "डेथ जोन में फंसने के बाद भी नहीं मानी हार, 6 दिन बाद जिंदा लौटा एवरेस्ट पर लापता हुआ नेपाली",
+      "url": "https://www.patrika.com/world-news/nepali-climber-missing-on-everest-6-days-ago-returns-alive-20638501",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-04T06:43:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/pahalja-nahalna_002a463b2229425fe480bcd2e420b285.jpeg?w=750&dpr=1.0",
-      "summary": "फिल्म निर्माता और CBFC के पूर्व अध्यक्ष पहलाज निहलानी का 76 वर्ष की आयु में निधन हो गया। उन्होंने फिल्म उद्योग में महत्वपूर्ण योगदान दिया था। फिल्म निर्माता और CBFC के पूर्व अध्यक्ष पहलाज निहलानी का निधन, 76 की आयु में ली अंतिम सांस।",
-      "region": "World",
+      "published_at": "2026-06-04T06:43:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/everest.webp",
+      "summary": "माउंट एवरेस्ट पर 30 मई से लापता नेपाली पर्वतारोही हिलारी दावा शेरपा छह दिन बाद जीवित पाए गए। खराब मौसम के कारण उन्हें मृत मान लिया गया था। सगरमाथा प्रदूषण नियंत्रण समिति की टीम ने उन्हें बेस कैंप के पास पाया। उन्हें तत्काल हेलीकॉप्टर से काठमांडू ले जाया गया। दुनिया की सबसे ऊंची चोटी माउंट एवरेस्ट पर एक नेपाली क्लाइंबिंग गाइड के जिंदा मिलने की खबर ने पूरे पर्वतारोहण समुदाय को हैरान कर दिया है।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "फिल्म निर्माता और CBFC के पूर्व अध्यक्ष पहलाज निहलानी का निधन, 76 की आयु में ली अंतिम सांस",
-          "summary": "फिल्म निर्माता और CBFC के पूर्व अध्यक्ष पहलाज निहलानी का 76 वर्ष की आयु में निधन हो गया। उन्होंने फिल्म उद्योग में महत्वपूर्ण योगदान दिया था। फिल्म निर्माता और CBFC के पूर्व अध्यक्ष पहलाज निहलानी का निधन, 76 की आयु में ली अंतिम सांस।",
-          "region": "दुनिया"
+          "title": "डेथ जोन में फंसने के बाद भी नहीं मानी हार, 6 दिन बाद जिंदा लौटा एवरेस्ट पर लापता हुआ नेपाली",
+          "summary": "माउंट एवरेस्ट पर 30 मई से लापता नेपाली पर्वतारोही हिलारी दावा शेरपा छह दिन बाद जीवित पाए गए। खराब मौसम के कारण उन्हें मृत मान लिया गया था। सगरमाथा प्रदूषण नियंत्रण समिति की टीम ने उन्हें बेस कैंप के पास पाया। उन्हें तत्काल हेलीकॉप्टर से काठमांडू ले जाया गया। दुनिया की सबसे ऊंची चोटी माउंट एवरेस्ट पर एक नेपाली क्लाइंबिंग गाइड के जिंदा मिलने की खबर ने पूरे पर्वतारोहण समुदाय को हैरान कर दिया है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -578,24 +668,6 @@
       }
     },
     {
-      "title": "पीएम मोदी ने वेनेजुएला की कार्यवाहक राष्ट्रपति डेलसी रोड्रिगेज से की मुलाकात",
-      "url": "https://www.amarujala.com/india-news/venezuela-acting-president-delcy-rodriguez-india-visit-updates-meet-pm-modi-s-jaishankar-and-others-hindi-news-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-04T06:39:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/delcy-rodriguez_eb63d7620b66f14b68b43837e830d671.jpeg?w=750&dpr=1.0",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी ने वेनेजुएला की कार्यवाहक राष्ट्रपति डेलसी रोड्रिगेज से मुलाकात की। यह मुलाकात भारत में उनके दौरे के दौरान हुई। पीएम मोदी ने वेनेजुएला की कार्यवाहक राष्ट्रपति डेलसी रोड्रिगेज से की मुलाकात।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी ने वेनेजुएला की कार्यवाहक राष्ट्रपति डेलसी रोड्रिगेज से की मुलाकात",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी ने वेनेजुएला की कार्यवाहक राष्ट्रपति डेलसी रोड्रिगेज से मुलाकात की। यह मुलाकात भारत में उनके दौरे के दौरान हुई। पीएम मोदी ने वेनेजुएला की कार्यवाहक राष्ट्रपति डेलसी रोड्रिगेज से की मुलाकात।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "कुवैत एयरपोर्ट हमले में घायल भारतीयों से मिलीं भारत की राजदूत, हर संभव मदद का दिया भरोसा",
       "url": "https://www.amarujala.com/world/indian-ambassador-paramita-tripathi-meets-injured-indians-after-kuwait-airport-drone-attack-west-asia-crisis-2026-06-04",
       "source": "Amar Ujala World",
@@ -610,24 +682,6 @@
           "title": "कुवैत एयरपोर्ट हमले में घायल भारतीयों से मिलीं भारत की राजदूत, हर संभव मदद का दिया भरोसा",
           "summary": "भारत की राजदूत परम‍िता त्रिपाठी ने कुवैत एयरपोर्ट पर ड्रोन हमले में घायल हुए भारतीयों से मुलाकात की। उन्होंने घायलों को हर संभव मदद का भरोसा दिलाया। यह घटना पश्चिम एशिया में जारी संकट का हिस्सा है। कुवैत एयरपोर्ट हमले में घायल भारतीयों से मिलीं भारत की राजदूत, हर संभव मदद का दिया भरोसा।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दुष्कर्म के आरोप में डिप्टी कलेक्टर गिरफ्तार, महिला ने की शिकायत- शादी का झांसा देकर लूट रहा था",
-      "url": "https://www.amarujala.com/madhya-pradesh/mp-officer-arrested-over-alleged-sexual-exploitation-under-false-promise-of-marriage-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-04T06:36:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/thashhakarama-mamal-ma-dapata-kalkatara-aravatha-mahara-garafatara_91a0b494485ffb628fb3f8bcab74cb25.jpeg?w=750&dpr=1.0",
-      "summary": "मुरैना में पदस्थ रहे डिप्टी कलेक्टर अरविंद माहौर को दुष्कर्म के आरोप में गिरफ्तार किया गया है। एक युवती ने शादी का झांसा देकर शारीरिक शोषण और धमकी देने की शिकायत दर्ज कराई थी। मुरैना में पदस्थ रहे डिप्टी कलेक्टर अरविंद माहौर को एक युवती की शिकायत पर दुष्कर्म के आरोप में गिरफ्तार किया गया है। पीड़िता ने शादी का झांसा देकर लंबे समय तक शारीरिक शोषण करने और धमकी देने का आरोप लगाया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुष्कर्म के आरोप में डिप्टी कलेक्टर गिरफ्तार, महिला ने की शिकायत- शादी का झांसा देकर लूट रहा था",
-          "summary": "मुरैना में पदस्थ रहे डिप्टी कलेक्टर अरविंद माहौर को दुष्कर्म के आरोप में गिरफ्तार किया गया है। एक युवती ने शादी का झांसा देकर शारीरिक शोषण और धमकी देने की शिकायत दर्ज कराई थी। मुरैना में पदस्थ रहे डिप्टी कलेक्टर अरविंद माहौर को एक युवती की शिकायत पर दुष्कर्म के आरोप में गिरफ्तार किया गया है। पीड़िता ने शादी का झांसा देकर लंबे समय तक शारीरिक शोषण करने और धमकी देने का आरोप लगाया है।",
-          "region": "दुनिया"
         }
       }
     },
@@ -700,60 +754,6 @@
           "title": "ईरान युद्ध के चलते संकट में न आए देश, मोदी सरकार ने किया बड़ा फैसला, 'अब विदेशी निवेशकों को...'",
           "summary": "भारत सरकार ने विदेशी निवेशकों को आकर्षित करने के लिए सरकारी बॉन्डों पर कैपिटल गेन्स टैक्स हटा दिया है। यह फैसला कच्चे तेल की ऊंची कीमतों और ईरान संघर्ष के प्रभाव से अर्थव्यवस्था को बचाने के लिए लिया गया है। इससे पूंजी प्रवाह को बढ़ावा मिलेगा और रुपये को मजबूती मिलेगी। विदेशी निवेश को आकर्षित करने के मकसद से मोदी सरकार ने एक महत्वपूर्ण कदम उठाते हुए भारतीय सरकारी बॉन्डों में निवेश करने वाले विदेशी निवेशकों पर कैपिटल गेन्स टैक्स हटाने का फैसला किया है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'छापा डलवा दूंगा अगर...', सुनंदा पुष्कर को लेकर कॉल पर भिड़ गए थे शशि थरूर? ललित मोदी ने हॉट टॉक की",
-      "url": "https://www.abplive.com/news/india/former-ipl-chairman-lalit-modi-on-shashi-tharoor-clash-on-call-regarding-sunanda-pushkar-ipl-2010-kochi-tuskers-3139960",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-04T06:16:36+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/04/ce32039d7b773fccd103e196bfed81c917805526829911368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पूर्व आईपीएल अध्यक्ष ललित मोदी ने दावा किया है कि 2010 में कोच्चि टस्कर्स विवाद के दौरान कांग्रेस सांसद शशि थरूर ने उन्हें फोन किया था। मोदी ने थरूर पर आरोप लगाया कि उन्होंने धमकी दी थी कि अगर उनकी बात नहीं मानी गई तो वे छापा डलवा देंगे। आईपीएल के पूर्व अध्यक्ष ललित मोदी ने साल 2010 के आईपीएल फ्रेंचाइजी कोच्चि टस्कर्स स्कैंडल को लेकर 16 साल बाद ऐसे सनसनीखेज दावे किए कि हंगामा मच गया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'छापा डलवा दूंगा अगर...', सुनंदा पुष्कर को लेकर कॉल पर भिड़ गए थे शशि थरूर? ललित मोदी ने हॉट टॉक की",
-          "summary": "पूर्व आईपीएल अध्यक्ष ललित मोदी ने दावा किया है कि 2010 में कोच्चि टस्कर्स विवाद के दौरान कांग्रेस सांसद शशि थरूर ने उन्हें फोन किया था। मोदी ने थरूर पर आरोप लगाया कि उन्होंने धमकी दी थी कि अगर उनकी बात नहीं मानी गई तो वे छापा डलवा देंगे। आईपीएल के पूर्व अध्यक्ष ललित मोदी ने साल 2010 के आईपीएल फ्रेंचाइजी कोच्चि टस्कर्स स्कैंडल को लेकर 16 साल बाद ऐसे सनसनीखेज दावे किए कि हंगामा मच गया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "केरल में झमाझम बारिश, तीन जिलों में ऑरेंज अलर्ट; हवा की गति और मानसून पर IMD से क्या अपडेट?",
-      "url": "https://www.amarujala.com/india-news/weather-updates-kerala-monsoon-rain-imd-news-on-rainfall-wind-speeds-orange-alert-thunderstorm-and-other-event-2026-06-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-04T05:52:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/weather-monsoon_14d2ce84baceaf47c137ad97c9a12b11.gif?w=750&dpr=1.0",
-      "summary": "केरल के तीन जिलों में भारी बारिश के कारण ऑरेंज अलर्ट जारी किया गया है। भारतीय मौसम विज्ञान विभाग (IMD) ने हवा की गति और मानसून की प्रगति पर अपडेट जारी किया है। राज्य में मूसलाधार वर्षा जारी रहने की संभावना है। Monsoon Updates: केरल में झमाझम बारिश, तीन जिलों में ऑरेंज अलर्ट; हवा की गति और मानसून पर IMD से क्या अपडेट?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केरल में झमाझम बारिश, तीन जिलों में ऑरेंज अलर्ट; हवा की गति और मानसून पर IMD से क्या अपडेट?",
-          "summary": "केरल के तीन जिलों में भारी बारिश के कारण ऑरेंज अलर्ट जारी किया गया है। भारतीय मौसम विज्ञान विभाग (IMD) ने हवा की गति और मानसून की प्रगति पर अपडेट जारी किया है। राज्य में मूसलाधार वर्षा जारी रहने की संभावना है। Monsoon Updates: केरल में झमाझम बारिश, तीन जिलों में ऑरेंज अलर्ट; हवा की गति और मानसून पर IMD से क्या अपडेट?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "60 सेकंड में 33 फ्लोर तक पहुंचेगा 'चमत्कारी ड्रोन', हवा में उड़कर बुझाएगा हाईराइज बिल्डिंगों की आग",
-      "url": "https://hindi.news18.com/world/china-firefighting-drone-video-it-can-reach-the-33-floor-in-just-60-seconds-invented-in-china-10538777.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T05:39:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/china-drone-2026-06-ac5f0f6c227e4104ee14a70c42518a33-1200x800.jpg",
-      "summary": "चीन ने एक उन्नत अग्निशमन ड्रोन विकसित किया है जो 60 सेकंड में 33वीं मंजिल तक पहुंचकर आग बुझा सकता है। यह तकनीक ऊंची इमारतों में आग लगने की घटनाओं से निपटने में मदद करेगी, जहां आग बुझाने में अक्सर देरी होती है। Advance Firefighting Drone Video: अपने देश में पिछले एक महीने के अंदर आग लगने की कई घटनाएं सामने आ चुकी हैं, जिसमें कई बार आग बुझाने में हुई देरी की वजह से लोगों की जान चली गई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "60 सेकंड में 33 फ्लोर तक पहुंचेगा 'चमत्कारी ड्रोन', हवा में उड़कर बुझाएगा हाईराइज बिल्डिंगों की आग",
-          "summary": "चीन ने एक उन्नत अग्निशमन ड्रोन विकसित किया है जो 60 सेकंड में 33वीं मंजिल तक पहुंचकर आग बुझा सकता है। यह तकनीक ऊंची इमारतों में आग लगने की घटनाओं से निपटने में मदद करेगी, जहां आग बुझाने में अक्सर देरी होती है। Advance Firefighting Drone Video: अपने देश में पिछले एक महीने के अंदर आग लगने की कई घटनाएं सामने आ चुकी हैं, जिसमें कई बार आग बुझाने में हुई देरी की वजह से लोगों की जान चली गई.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
