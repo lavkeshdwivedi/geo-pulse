@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-04T22:25:12.988401+00:00",
-  "article_count": 48,
-  "total_unique_count": 262,
+  "generated_at": "2026-06-05T00:10:04.520356+00:00",
+  "article_count": 50,
+  "total_unique_count": 254,
   "digest": {
-    "en": "AI's impact on outsourcing in the Philippines and India leads the news cycle. Ukraine's war continues to ripple across Europe, with Latvia on edge and Russia sending wounded soldiers back into combat. The UN warns of AI's growing demand on data centers.",
-    "hi": "दिल्ली-एनसीआर में आंधी-बारिश ने जनजीवन अस्त-व्यस्त कर दिया। वहीं, यूक्रेन युद्ध को लेकर पुतिन ने कीव से समझौते की बात कही। कर्नाटक में विभागों का बंटवारा पूरा हुआ।"
+    "en": "The UN's warning on AI's data center impact dominates. This contrasts with regional security concerns from Ukraine's war reaching Latvia's border. ISWAP's rise in Africa also demands attention.",
+    "hi": "ट्रम्प की भारत-अमेरिका व्यापार सौदे की घोषणा और किम जोंग की नई परमाणु सुविधा का प्रदर्शन एशिया-प्रशांत क्षेत्र में प्रमुखता से उभरा है। यह क्षेत्र में बढ़ते भू-राजनीतिक तनाव और आर्थिक कूटनीति को दर्शाता है।"
   },
   "articles": [
+    {
+      "title": "South Korean Starbucks probe: arbitrary power in justice’s name",
+      "url": "https://asiatimes.com/2026/06/south-korean-starbucks-probe-arbitrary-power-in-justices-name/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-06-04T22:50:25+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/8435518_ftp-1-ykfu2taqdd36-2026-05-22t044448z-152420196-rc24elag3ni2-rtrmadp-3-shinsegae-starbucks-copy.jpg",
+      "summary": "South Korean police are investigating Shinsegae Group chairman Chung Yong-jin and former Starbucks Korea South Korea’s Starbucks marketing controversy is no longer only about a badly judged campaign. It has become a test of whether democratic memory will restrain arbitrary power or reproduce it. Police are now investigating Shinsegae Group chairman Chung Yong-jin and former Starbucks Korea CEO Sohn Jeong-hyun after criminal complaints alleged insult, defamation, and violations related [] The post So.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Outsourcing jobs in Philippines and India come under threat as workers race to adapt to AI",
       "url": "https://www.channelnewsasia.com/cna-insider/outsourcing-jobs-artificial-intelligence-philippines-india-threat-workers-adapt-6162491",
@@ -28,6 +40,18 @@
       "image_url": "https://c.ndtvimg.com/2026-01/e68mu8j8_putin-zelensky-afp_625x300_09_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "summary": "The Kremlin has invited Ukrainian President Volodymyr Zelensky to Moscow to meet Vladimir Putin. Russia stated Zelensky is welcome \"any time\" to hold direct talks. Zelensky previously called for a meeting with Putin to discuss ending the war. Volodymyr Zelensky is welcome to meet his Russian counterpart Vladimir Putin in Moscow \"any time\", the Kremlin said Thursday after the Ukrainian president called to set a date for a face-to-face meeting between the pair to end the war.",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How ISWAP emerged as the dominant jihadist force in Africa’s Lake Chad basin",
+      "url": "https://www.thehindu.com/news/international/how-iswap-emerged-as-the-dominant-jihadist-force-in-africas-lake-chad-basin/article71061334.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-04T18:07:11+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/v7xxwe/article71062419.ece/alternates/LANDSCAPE_1200/AFP_B23Q2J2.jpg",
+      "summary": "The Islamic State West Africa Province (ISWAP) has become the dominant jihadist force in Africa's Lake Chad basin. ISWAP eclipsed Boko Haram through a structured command system and a strong territorial presence. What began as a local insurgency in Nigeria is now a major transnational security threat. The Islamic State West Africa Province steadily eclipsed Boko Haram to become the most powerful militant organisation in the region; with a structured command system and strong territorial presence, what began as a local insurgency in Nigeria is now one of Africa’s major transnational security threats.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -88,6 +112,30 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/Russia-Taliban-Putin-Afghanistan.jpg",
       "summary": "Russia is deepening military cooperation with Afghanistan’s Taliban government. As Russia deepens cooperation with Afghanistan’s rulers, it faces a growing tension between regional influence, connectivity ambitions and its own security concerns. Few countries have warned more consistently about the dangers emanating from Taliban-ruled Afghanistan than Russia. Yet Moscow is now deepening military cooperation with the Taliban government that controls the territory in which many.",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167655",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-04T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-09-2023-UNICEF-Sudan-refugees.jpg/image770x420cropped.jpg",
+      "summary": "The United Nations and its partners continue efforts to contain Ebola outbreaks in the Democratic Republic The UN and its partners are continuing efforts to contain Ebola outbreaks in both the Democratic Republic of the Congo (DRC) and Uganda, while warning that insecurity and misinformation remain major obstacles to the response. UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167653",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-04T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/04-06-2026-UNICEF-Afghanistan.jpg/image770x420cropped.jpg",
+      "summary": "The Hormuz crisis, ongoing for nearly 100 days, is now a food What began as a geopolitical crisis in the Middle East nearly 100 days ago is increasingly becoming a food security crisis elsewhere, with UN agencies warning of rising hunger in Africa and malnourished children being turned away from medical clinics in Afghanistan. From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -260,51 +308,243 @@
       "translations": {}
     },
     {
-      "title": "Kidnappings, threats and ‘protection fees’: how can Mexico confront rise in deadly extortion?",
-      "url": "https://www.theguardian.com/world/2026/jun/03/how-can-mexico-confront-rise-in-deadly-extortion",
-      "source": "The Guardian",
+      "title": "'मुझे PM मोदी पसंद हैं, वह मेरे अच्छे दोस्त': डोनाल्ड ट्रंप ने की तारीफ, भारत-अमेरिका ट्रेड डील पर",
+      "url": "https://hindi.news18.com/world/america-donald-trump-praises-pm-modi-says-he-is-a-good-friend-of-mine-us-and-india-will-get-to-a-trade-deal-10541192.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-03T11:00:04+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/e73d51feb824a52aa0c286706ef7e5f91ebf4c43/468_256_2492_1993/master/2492.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c1be43e3381ab051ee83c44a7b166e8",
-      "summary": "Mexico's president has vowed to confront a rise in deadly extortion affecting all parts With corrupt police on the streets and shopkeepers forced to pay gangs, president has vowed to tackle crime that now affects all parts of societyIt was about 11pm and Luis* was about to get into an Uber to go home when the police car pulled up.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Japan defence minister rebuffs claims of ‘new militarism’ levelled by China",
-      "url": "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-05-31T05:02:39+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/02d774e13d041f094f583254b13136c5a354374e/846_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0c519ad695a6feff1b056c8689ab4e0",
-      "summary": "Japan's defence minister rejected accusations of \"new militarism\" from China. He stated Japan remains a peace-loving nation. This comes as China expands its military capabilities with insufficient transparency. Japan will continue to strengthen its own defence posture. Shinjiro Koizumi says Japan valued as a ‘peace-loving’ nation while China expands military capabilities ‘without sufficient transparency’Japan’s defence minister took a veiled swipe at China on Sunday, pledging to keep strengthening the military despite Beijing’s criticism of Tokyo’s increasingly muscular security stance. Under the prime minister, Sanae Takaichi, Japan has quickened its pivot to a.",
+      "published_at": "2026-06-05T00:00:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/PM-modi-donald-trump-1-2026-05-4d887fe5ae15c942977fe17094f0ca8e-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने प्रधानमंत्री मोदी की प्रशंसा की। उन्होंने कहा कि मोदी उनके अच्छे दोस्त हैं। ट्रंप ने भारत और अमेरिका के बीच व्यापार समझौते की भी उम्मीद जताई। 'मुझे PM मोदी पसंद हैं, वह मेरे अच्छे दोस्त': डोनाल्ड ट्रंप ने की तारीफ, भारत-अमेरिका ट्रेड डील पर भी गुडन्यूज।",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मुझे PM मोदी पसंद हैं, वह मेरे अच्छे दोस्त': डोनाल्ड ट्रंप ने की तारीफ, भारत-अमेरिका ट्रेड डील पर",
+          "summary": "डोनाल्ड ट्रंप ने प्रधानमंत्री मोदी की प्रशंसा की। उन्होंने कहा कि मोदी उनके अच्छे दोस्त हैं। ट्रंप ने भारत और अमेरिका के बीच व्यापार समझौते की भी उम्मीद जताई। 'मुझे PM मोदी पसंद हैं, वह मेरे अच्छे दोस्त': डोनाल्ड ट्रंप ने की तारीफ, भारत-अमेरिका ट्रेड डील पर भी गुडन्यूज।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
-      "title": "कब निकलेगी भगवान जगन्नाथ की भव्य रथ यात्रा? जानें तिथि, महत्व और रोचक तथ्य",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/jagannath-rath-yatra-2026-know-the-date-importance-significance-and-fascinating-facts-about-the-sacred-chario-2026-06-04",
+      "title": "किम जोंग ने दिखाई नई परमाणु फैक्टरी: हथियारों का जखीरा बढ़ाने का किया एलान; US-दक्षिण कोरिया की",
+      "url": "https://www.amarujala.com/world/kim-jong-un-unveils-new-nuclear-fuel-facility-raises-concerns-over-north-korea-s-expanding-arsenal-2026-06-05",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-04T23:57:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/28/kama-jaga-una_6da8940840388e6e876777485386a0f2.jpeg?w=750&dpr=1.0",
+      "summary": "किम जोंग उन ने एक नई परमाणु सुविधा का निरीक्षण किया। उन्होंने कहा कि उत्तर कोरिया अपने हथियार भंडार का विस्तार करेगा। यह घोषणा अमेरिका और दक्षिण कोरिया के लिए चिंता का विषय है। किम जोंग ने दिखाई नई परमाणु फैक्टरी: हथियारों का जखीरा बढ़ाने का किया एलान; US-दक्षिण कोरिया की बढ़ी चिंता।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "किम जोंग ने दिखाई नई परमाणु फैक्टरी: हथियारों का जखीरा बढ़ाने का किया एलान; US-दक्षिण कोरिया की",
+          "summary": "किम जोंग उन ने एक नई परमाणु सुविधा का निरीक्षण किया। उन्होंने कहा कि उत्तर कोरिया अपने हथियार भंडार का विस्तार करेगा। यह घोषणा अमेरिका और दक्षिण कोरिया के लिए चिंता का विषय है। किम जोंग ने दिखाई नई परमाणु फैक्टरी: हथियारों का जखीरा बढ़ाने का किया एलान; US-दक्षिण कोरिया की बढ़ी चिंता।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप बोले ' भारत-अमेरिका के बीच जल्द होगा व्यापार समझौता'",
+      "url": "https://www.amarujala.com/video-shots/short-videos/us-india-trade-deal-us-president-donald-trump-said-there-will-be-a-trade-agreement-between-india-and-americ-2026-06-05",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-05T06:36:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/13/jagannath-rath-yatra-kab-hai-2026_7c49c69cf10d7a12cbc94bfd99d643da.jpeg?w=750&dpr=1.0",
-      "summary": "भगवान जगन्नाथ की वार्षिक रथ यात्रा 16 जुलाई 2026 को पुरी, ओडिशा में शुरू होगी। Jagannath Rath Yatra 2026: भगवान जगन्नाथ रथ यात्रा 16 जुलाई 2026 से पुरी, ओडिशा में शुरू होगी। जानें रथ यात्रा की तिथि, धार्मिक महत्व, भगवान जगन्नाथ, बलभद्र और सुभद्रा के रथों की विशेषताएं और इससे जुड़ी मान्यताएं। कब निकलेगी भगवान जगन्नाथ की भव्य रथ यात्रा?",
+      "published_at": "2026-06-04T23:56:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि भारत और अमेरिका के बीच जल्द ही एक व्यापार समझौता होगा। उन्होंने दोनों देशों के बीच व्यापारिक संबंधों को मजबूत करने की बात कही। US-India Trade Deal: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप बोले ' भारत-अमेरिका के बीच जल्द होगा व्यापार समझौता'।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप बोले ' भारत-अमेरिका के बीच जल्द होगा व्यापार समझौता'",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि भारत और अमेरिका के बीच जल्द ही एक व्यापार समझौता होगा। उन्होंने दोनों देशों के बीच व्यापारिक संबंधों को मजबूत करने की बात कही। US-India Trade Deal: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप बोले ' भारत-अमेरिका के बीच जल्द होगा व्यापार समझौता'।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की ईरान को खुली चेतावनी: 'अमेरिकी सैनिकों की मौत हुई तो फिर भड़क सकती है जंग', सैन्य ताकत पर",
+      "url": "https://www.amarujala.com/world/trump-claims-iran-military-capabilities-crippled-warns-of-fresh-action-if-us-troops-are-targeted-2026-06-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-04T23:43:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/donald-trump_224dd09469f8cef033546ef6027709a8.png?w=750&dpr=1.0",
+      "summary": "डोनाल्ड ट्रंप ने ईरान को चेतावनी दी। उन्होंने कहा कि यदि अमेरिकी सैनिकों की मौत हुई तो युद्ध फिर से शुरू हो सकता है। ट्रंप ने अमेरिकी सैन्य शक्ति पर जोर दिया। ट्रंप की ईरान को खुली चेतावनी: 'अमेरिकी सैनिकों की मौत हुई तो फिर भड़क सकती है जंग', सैन्य ताकत पर कही ये बात।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की ईरान को खुली चेतावनी: 'अमेरिकी सैनिकों की मौत हुई तो फिर भड़क सकती है जंग', सैन्य ताकत पर",
+          "summary": "डोनाल्ड ट्रंप ने ईरान को चेतावनी दी। उन्होंने कहा कि यदि अमेरिकी सैनिकों की मौत हुई तो युद्ध फिर से शुरू हो सकता है। ट्रंप ने अमेरिकी सैन्य शक्ति पर जोर दिया। ट्रंप की ईरान को खुली चेतावनी: 'अमेरिकी सैनिकों की मौत हुई तो फिर भड़क सकती है जंग', सैन्य ताकत पर कही ये बात।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कुंभ राशि वालों के लिए शानदार रहेगा आज का दिन, फाइनल हो सकती है बड़ी डील",
+      "url": "https://www.amarujala.com/astrology/predictions/aaj-ka-rashifal-aquarius-today-horoscope-5-june-2026-kumbh-rashi-in-hindi-2026-06-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-04T23:41:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/12/aaja-ka-rashafal_9023f0e6094e5f7539014b256762d8d4.jpeg?w=750&dpr=1.0",
+      "summary": "कुंभ राशि के जातकों के लिए आज का दिन शुभ रहेगा। कार्यक्षेत्र में सहकर्मियों के साथ तालमेल अच्छा रहेगा। आज कोई बड़ी डील फाइनल हो सकती है। आज का दिन आपके लिए खास साबित हो सकता है। कार्यक्षेत्र में लोगों के साथ तालमेल शानदार रहेगा और काम करने में मजा आएगा। कुंभ राशि वालों के लिए शानदार रहेगा आज का दिन, फाइनल हो सकती है बड़ी डील।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कुंभ राशि वालों के लिए शानदार रहेगा आज का दिन, फाइनल हो सकती है बड़ी डील",
+          "summary": "कुंभ राशि के जातकों के लिए आज का दिन शुभ रहेगा। कार्यक्षेत्र में सहकर्मियों के साथ तालमेल अच्छा रहेगा। आज कोई बड़ी डील फाइनल हो सकती है। आज का दिन आपके लिए खास साबित हो सकता है। कार्यक्षेत्र में लोगों के साथ तालमेल शानदार रहेगा और काम करने में मजा आएगा। कुंभ राशि वालों के लिए शानदार रहेगा आज का दिन, फाइनल हो सकती है बड़ी डील।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "जेलेंस्की ने पुतिन को लिखा खुला पत्र, तटस्थ देश में आमने-सामने बातचीत का दिया प्रस्ताव",
+      "url": "https://www.amarujala.com/world/in-public-letter-ukraine-s-zelenskyy-calls-on-putin-for-direct-negotiations-in-neutral-country-2026-06-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-04T23:38:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/in-public-letter-ukraines-zelenskyy-calls-on-putin-for-direct-negotiations-in-neutral-country_4855bcc520175a4a085fc32777fc261e.jpeg?w=750&dpr=1.0",
+      "summary": "यूक्रेन के राष्ट्रपति वोलोडिमिर ज़ेलेंस्की ने रूसी राष्ट्रपति व्लादिमीर पुतिन को एक खुला पत्र लिखा है। उन्होंने एक तटस्थ देश में सीधी बातचीत का प्रस्ताव दिया है। यह प्रस्ताव युद्ध को समाप्त करने के प्रयासों का हिस्सा है। जेलेंस्की ने पुतिन को लिखा खुला पत्र, तटस्थ देश में आमने-सामने बातचीत का दिया प्रस्ताव।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जेलेंस्की ने पुतिन को लिखा खुला पत्र, तटस्थ देश में आमने-सामने बातचीत का दिया प्रस्ताव",
+          "summary": "यूक्रेन के राष्ट्रपति वोलोडिमिर ज़ेलेंस्की ने रूसी राष्ट्रपति व्लादिमीर पुतिन को एक खुला पत्र लिखा है। उन्होंने एक तटस्थ देश में सीधी बातचीत का प्रस्ताव दिया है। यह प्रस्ताव युद्ध को समाप्त करने के प्रयासों का हिस्सा है। जेलेंस्की ने पुतिन को लिखा खुला पत्र, तटस्थ देश में आमने-सामने बातचीत का दिया प्रस्ताव।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी राजदूत ने आनंद महिंद्रा से की मुलाकात, भाषा विवाद पर फडणवीस का सख्त संदेश",
+      "url": "https://www.amarujala.com/india-news/maharashtra-hindi-updates-mumbai-bmc-nagpur-pune-education-politics-crime-cm-fadnavis-gadkari-2026-06-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-04T23:31:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राजदूत एरिक गार्सेटी ने मुंबई में उद्योगपति आनंद महिंद्रा से मुलाकात की। इस मुलाकात के बाद महाराष्ट्र के उपमुख्यमंत्री देवेंद्र फडणवीस ने भाषा विवाद पर सख्त संदेश दिया। उन्होंने कहा कि मराठी भाषा का अपमान बर्दाश्त नहीं किया जाएगा। Maharashtra Updates: अमेरिकी राजदूत ने आनंद महिंद्रा से की मुलाकात, भाषा विवाद पर फडणवीस का सख्त संदेश।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी राजदूत ने आनंद महिंद्रा से की मुलाकात, भाषा विवाद पर फडणवीस का सख्त संदेश",
+          "summary": "अमेरिकी राजदूत एरिक गार्सेटी ने मुंबई में उद्योगपति आनंद महिंद्रा से मुलाकात की। इस मुलाकात के बाद महाराष्ट्र के उपमुख्यमंत्री देवेंद्र फडणवीस ने भाषा विवाद पर सख्त संदेश दिया। उन्होंने कहा कि मराठी भाषा का अपमान बर्दाश्त नहीं किया जाएगा। Maharashtra Updates: अमेरिकी राजदूत ने आनंद महिंद्रा से की मुलाकात, भाषा विवाद पर फडणवीस का सख्त संदेश।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "12 बसों के बराबर चीन की न्यूक्लियर पनडुब्बी, 360-डिग्री छोड़ती है सुपरसोनिक YJ-18 मिसाइलें, समंदर",
+      "url": "https://hindi.news18.com/world/china-china-finless-nuclear-submarine-threat-to-america-with-360-degree-vertical-launch-supersonic-yj-18-missiles-10540973.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-04T23:31:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/China-Nuclear-Submarine-2026-06-c4c8ea32f2449156b636da66e89453c4-1200x800.jpg",
+      "summary": "चीन ने शंघाई में एक नई 'फिनलेस' न्यूक्लियर पनडुब्बी का निर्माण किया है। यह पनडुब्बी 360-डिग्री सुपरसोनिक YJ-18 मिसाइलें दाग सकती है। यह पानी के नीचे ड्रैग को 33% तक कम करके साइलेंट मोड में चल सकती है। शंघाई के एक सीक्रेट शिपयार्ड से सामने आई चीन की नई 'फिनलेस' न्यूक्लियर पनडुब्बी की तस्वीरों ने अमेरिकी पेंटागन समेत पूरी दुनिया की नौसेनाओं में हड़कंप मचा दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "12 बसों के बराबर चीन की न्यूक्लियर पनडुब्बी, 360-डिग्री छोड़ती है सुपरसोनिक YJ-18 मिसाइलें, समंदर",
+          "summary": "चीन ने शंघाई में एक नई 'फिनलेस' न्यूक्लियर पनडुब्बी का निर्माण किया है। यह पनडुब्बी 360-डिग्री सुपरसोनिक YJ-18 मिसाइलें दाग सकती है। यह पानी के नीचे ड्रैग को 33% तक कम करके साइलेंट मोड में चल सकती है। शंघाई के एक सीक्रेट शिपयार्ड से सामने आई चीन की नई 'फिनलेस' न्यूक्लियर पनडुब्बी की तस्वीरों ने अमेरिकी पेंटागन समेत पूरी दुनिया की नौसेनाओं में हड़कंप मचा दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दारु और सुमित्रानंदन पंत की कविता- मर्म व्यथा",
+      "url": "https://www.amarujala.com/kavya/shabd-sangrah/aaj-ka-shabd-daru-sumitranandan-pant-ki-kavita-marm-vyatha-2026-06-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-04T23:10:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/aaj-ka-shabd_a65e4de312f178955b6e5583703640ab.jpeg?w=750&dpr=1.0",
+      "summary": "यह लेख दारु और सुमित्रानंदन पंत की कविता 'मर्म व्यथा' पर केंद्रित है। यह कविता मानवीय भावनाओं और उनके गहरे अर्थों की पड़ताल करती है। यह पंत की साहित्यिक शैली और उनके विचारों को समझने का प्रयास है। आज का शब्द: दारु और सुमित्रानंदन पंत की कविता- मर्म व्यथा।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कब निकलेगी भगवान जगन्नाथ की भव्य रथ यात्रा? जानें तिथि, महत्व और रोचक तथ्य",
-          "summary": "भगवान जगन्नाथ की वार्षिक रथ यात्रा 16 जुलाई 2026 को पुरी, ओडिशा में शुरू होगी। Jagannath Rath Yatra 2026: भगवान जगन्नाथ रथ यात्रा 16 जुलाई 2026 से पुरी, ओडिशा में शुरू होगी। जानें रथ यात्रा की तिथि, धार्मिक महत्व, भगवान जगन्नाथ, बलभद्र और सुभद्रा के रथों की विशेषताएं और इससे जुड़ी मान्यताएं। कब निकलेगी भगवान जगन्नाथ की भव्य रथ यात्रा?",
+          "title": "दारु और सुमित्रानंदन पंत की कविता- मर्म व्यथा",
+          "summary": "यह लेख दारु और सुमित्रानंदन पंत की कविता 'मर्म व्यथा' पर केंद्रित है। यह कविता मानवीय भावनाओं और उनके गहरे अर्थों की पड़ताल करती है। यह पंत की साहित्यिक शैली और उनके विचारों को समझने का प्रयास है। आज का शब्द: दारु और सुमित्रानंदन पंत की कविता- मर्म व्यथा।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "गाजा में फिर भीषण हवाई हमले, महिलाओं-बच्चों समेत 10 की मौत; सीजफायर के बीच भी जारी हिंसा",
+      "url": "https://www.amarujala.com/live/world/west-asia-live-updates-us-iran-ceasefire-strait-of-hormuz-peace-talks-trump-israel-gaza-lebanon-news-in-hindi-2026-06-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-04T23:04:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/06/iirana-amaraka-yathathha-apadatasa_36f7e5110e1d3639d4b5789de91a09b7.jpeg?w=750&dpr=1.0",
+      "summary": "गाजा में इजरायली हवाई हमलों में 10 लोग मारे गए, जिनमें महिलाएं और बच्चे शामिल थे। यह घटना युद्धविराम के बीच भी जारी हिंसा को दर्शाती है। क्षेत्र में तनाव बना हुआ है। West Asia War LIVE: गाजा में फिर भीषण हवाई हमले, महिलाओं-बच्चों समेत 10 की मौत; सीजफायर के बीच भी जारी हिंसा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गाजा में फिर भीषण हवाई हमले, महिलाओं-बच्चों समेत 10 की मौत; सीजफायर के बीच भी जारी हिंसा",
+          "summary": "गाजा में इजरायली हवाई हमलों में 10 लोग मारे गए, जिनमें महिलाएं और बच्चे शामिल थे। यह घटना युद्धविराम के बीच भी जारी हिंसा को दर्शाती है। क्षेत्र में तनाव बना हुआ है। West Asia War LIVE: गाजा में फिर भीषण हवाई हमले, महिलाओं-बच्चों समेत 10 की मौत; सीजफायर के बीच भी जारी हिंसा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "रहस्यमयी ‘मेहमान’ का पीछा कर रहा नासा का यान हमेशा के लिए खामोश, नहीं हो सका दोबारा संपर्क",
+      "url": "https://www.patrika.com/world-news/nasa-maven-mars-mission-ended-signal-loss-20640892",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-04T22:56:55+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Mars-mission.webp",
+      "summary": "नासा का मैवेन अंतरिक्ष यान मंगल की कक्षा में छह महीने की जांच के बाद हमेशा के लिए खामोश हो गया है। 6 दिसंबर को मंगल के पीछे से गुजरते समय यान का सिग्नल अचानक गायब हो गया था। यान को रिकवर नहीं किया जा सका। Mars mission: अमेरिकी अंतरिक्ष एजेंसी नासा ने आधिकारिक रूप से घोषणा की है कि मंगल ग्रह की परिक्रमा कर रहा उसका मैवेन अंतरिक्ष यान अब हमेशा के लिए खामोश हो चुका है।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रहस्यमयी ‘मेहमान’ का पीछा कर रहा नासा का यान हमेशा के लिए खामोश, नहीं हो सका दोबारा संपर्क",
+          "summary": "नासा का मैवेन अंतरिक्ष यान मंगल की कक्षा में छह महीने की जांच के बाद हमेशा के लिए खामोश हो गया है। 6 दिसंबर को मंगल के पीछे से गुजरते समय यान का सिग्नल अचानक गायब हो गया था। यान को रिकवर नहीं किया जा सका। Mars mission: अमेरिकी अंतरिक्ष एजेंसी नासा ने आधिकारिक रूप से घोषणा की है कि मंगल ग्रह की परिक्रमा कर रहा उसका मैवेन अंतरिक्ष यान अब हमेशा के लिए खामोश हो चुका है।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप बोले- पीएम मोदी मेरे अच्छे दोस्त, भारत और अमेरिका के बीच जल्द होगा व्यापार समझौता",
+      "url": "https://www.amarujala.com/world/pm-modi-good-friend-india-and-us-will-get-to-trade-deal-us-president-donald-trump-2026-06-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-04T22:35:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/pm-modi-good-friend-india-and-us-will-get-to-trade-deal-us-president-donald-trump_4079244c4b5c298824f4b571c0f7204a.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने प्रधानमंत्री नरेंद्र मोदी को अपना अच्छा दोस्त बताया है। उन्होंने कहा कि भारत और अमेरिका के बीच जल्द ही एक व्यापार समझौता होने की उम्मीद है। ट्रंप बोले- पीएम मोदी मेरे अच्छे दोस्त, भारत और अमेरिका के बीच जल्द होगा व्यापार समझौता।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप बोले- पीएम मोदी मेरे अच्छे दोस्त, भारत और अमेरिका के बीच जल्द होगा व्यापार समझौता",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने प्रधानमंत्री नरेंद्र मोदी को अपना अच्छा दोस्त बताया है। उन्होंने कहा कि भारत और अमेरिका के बीच जल्द ही एक व्यापार समझौता होने की उम्मीद है। ट्रंप बोले- पीएम मोदी मेरे अच्छे दोस्त, भारत और अमेरिका के बीच जल्द होगा व्यापार समझौता।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "फिनलैंड ने तैयार किया दुनिया का सबसे सुरक्षित परमाणु कूड़ेदान, 1 लाख वर्षों तक नहीं होगा रिसाव",
+      "url": "https://www.patrika.com/world-news/finland-underground-nuclear-waste-repository-safe-for-100000-years-20640889",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-04T22:32:31+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/nuclear-plant-.webp",
+      "summary": "फिनलैंड ने युराजोकी में दुनिया की पहली सुरक्षित परमाणु कचरा सुविधा, ओन्कालो का निर्माण पूरा कर लिया है। यह सुविधा जमीन से 433 मीटर नीचे स्थित है और 1 लाख वर्षों तक रेडियोधर्मी कचरे को सुरक्षित रखने का दावा करती है। Finland’s Onkalo nuclear waste facility: परमाणु ऊर्जा ने दुनिया को स्वच्छ बिजली का बड़ा स्रोत दिया, लेकिन इसके साथ ऐसा रेडियोएक्टिव कचरा भी पैदा हुआ जो हजारों वर्षों तक खतरनाक बना रह सकता है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फिनलैंड ने तैयार किया दुनिया का सबसे सुरक्षित परमाणु कूड़ेदान, 1 लाख वर्षों तक नहीं होगा रिसाव",
+          "summary": "फिनलैंड ने युराजोकी में दुनिया की पहली सुरक्षित परमाणु कचरा सुविधा, ओन्कालो का निर्माण पूरा कर लिया है। यह सुविधा जमीन से 433 मीटर नीचे स्थित है और 1 लाख वर्षों तक रेडियोधर्मी कचरे को सुरक्षित रखने का दावा करती है। Finland’s Onkalo nuclear waste facility: परमाणु ऊर्जा ने दुनिया को स्वच्छ बिजली का बड़ा स्रोत दिया, लेकिन इसके साथ ऐसा रेडियोएक्टिव कचरा भी पैदा हुआ जो हजारों वर्षों तक खतरनाक बना रह सकता है।",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
       "title": "100 किमी की रफ्तार से आंधी-बारिश, खंभे उखड़े...दिल्ली-एनसीआर में पेड़ गिरे; 300 से ज्यादा वाहन दबे",
       "url": "https://www.amarujala.com/delhi-ncr/weather-thunderstorms-and-rain-at-100-km-h-poles-uprooted-trees-fell-in-delhi-ncr-2026-06-05",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-06-04T22:12:05+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/1_40eada92312e857c852cc1513759aba2.png?w=750&dpr=1.0",
@@ -320,56 +560,38 @@
       }
     },
     {
-      "title": "'कीव समझौते माने तो खत्म हो सकता है यूक्रेन युद्ध', पुतिन का बड़ा दावा; पश्चिम पर भी साधा निशाना",
+      "title": "छत का रास्ता था बंद, कमरों में हीटर पर बनता था खाना; होटल मालिक चार दिन की रिमांड पर",
+      "url": "https://www.amarujala.com/delhi-ncr/malviya-nagar-fire-hotel-rooftop-access-was-blocked-rooms-were-cooking-on-heaters-2026-06-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-04T21:44:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/1_6fb18ab2cbe88956b10d0338d27f5748.png?w=750&dpr=1.0",
+      "summary": "मालवीय नगर हादसे के बाद दिल्ली पुलिस ने होटल मालिक को चार दिन की रिमांड पर लिया है। पुलिस ने जांच के दौरान पाया कि छत का रास्ता बंद था और कमरों में हीटर पर खाना बनाया जा रहा था। मालवीय नगर हादसे के बाद दिल्ली पुलिस ने बृहस्पतिवार को होटल की इमारत की जांच की। छत का रास्ता था बंद, कमरों में हीटर पर बनता था खाना; होटल मालिक चार दिन की रिमांड पर।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "छत का रास्ता था बंद, कमरों में हीटर पर बनता था खाना; होटल मालिक चार दिन की रिमांड पर",
+          "summary": "मालवीय नगर हादसे के बाद दिल्ली पुलिस ने होटल मालिक को चार दिन की रिमांड पर लिया है। पुलिस ने जांच के दौरान पाया कि छत का रास्ता बंद था और कमरों में हीटर पर खाना बनाया जा रहा था। मालवीय नगर हादसे के बाद दिल्ली पुलिस ने बृहस्पतिवार को होटल की इमारत की जांच की। छत का रास्ता था बंद, कमरों में हीटर पर बनता था खाना; होटल मालिक चार दिन की रिमांड पर।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'कीव समझौता माने तो खत्म हो सकता है यूक्रेन युद्ध', पुतिन का बड़ा दावा; पश्चिम पर भी साधा निशाना",
       "url": "https://www.amarujala.com/world/putin-says-ukraine-war-end-if-kiev-accept-anchorage-based-compromises-criticizes-eu-mediation-west-policies-2026-06-05",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-06-04T21:42:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/23/vladimir-putin_80249b1e451c05252545522983c58700.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/valthamara-patana_13b7120932a70d89b4c0403f7b1604b3.jpeg?w=750&dpr=1.0",
       "summary": "रूस के राष्ट्रपति व्लादिमीर पुतिन ने कहा कि यूक्रेन युद्ध कीव द्वारा 2022 के इस्तांबुल समझौतों को मानने पर समाप्त हो सकता है। उन्होंने पश्चिमी देशों पर इन वार्ताओं को बाधित करने का आरोप लगाया। पुतिन ने कहा कि यूक्रेन के राष्ट्रपति वोलोडिमिर ज़ेलेंस्की ने इन समझौतों पर हस्ताक्षर किए थे, लेकिन बाद में उन्हें रद्द कर दिया गया। उन्होंने यह भी कहा कि रूस ने कभी भी बातचीत से इनकार नहीं किया।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'कीव समझौते माने तो खत्म हो सकता है यूक्रेन युद्ध', पुतिन का बड़ा दावा; पश्चिम पर भी साधा निशाना",
+          "title": "'कीव समझौता माने तो खत्म हो सकता है यूक्रेन युद्ध', पुतिन का बड़ा दावा; पश्चिम पर भी साधा निशाना",
           "summary": "रूस के राष्ट्रपति व्लादिमीर पुतिन ने कहा कि यूक्रेन युद्ध कीव द्वारा 2022 के इस्तांबुल समझौतों को मानने पर समाप्त हो सकता है। उन्होंने पश्चिमी देशों पर इन वार्ताओं को बाधित करने का आरोप लगाया। पुतिन ने कहा कि यूक्रेन के राष्ट्रपति वोलोडिमिर ज़ेलेंस्की ने इन समझौतों पर हस्ताक्षर किए थे, लेकिन बाद में उन्हें रद्द कर दिया गया। उन्होंने यह भी कहा कि रूस ने कभी भी बातचीत से इनकार नहीं किया।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "कर्नाटक सरकार में विभागों का बंटवारा, शिवकुमार ने अपने पास रखा वित्त विभाग!",
-      "url": "https://www.amarujala.com/video-shots/short-videos/dk-shivakumar-cabinet-portfolios-division-of-departments-in-karnataka-government-shivakumar-kept-the-finance-2026-06-05",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-04T21:16:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=750&dpr=1.0",
-      "summary": "कर्नाटक के मुख्यमंत्री सिद्धारमैया और उप-मुख्यमंत्री डी. के. शिवकुमार ने विभागों का बंटवारा कर लिया है। शिवकुमार ने वित्त विभाग अपने पास रखा है। उन्होंने गृह विभाग भी अपने पास रखने की मांग की थी, लेकिन वह विभाग मुख्यमंत्री सिद्धारमैया को मिला है। कांग्रेस और जनता दल (सेक्युलर) के बीच विभागों के बंटवारे को लेकर कुछ मतभेद थे। DK Shivakumar Cabinet Portfolios: कर्नाटक सरकार में विभागों का बंटवारा, शिवकुमार ने अपने पास रखा वित्त विभाग!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कर्नाटक सरकार में विभागों का बंटवारा, शिवकुमार ने अपने पास रखा वित्त विभाग!",
-          "summary": "कर्नाटक के मुख्यमंत्री सिद्धारमैया और उप-मुख्यमंत्री डी. के. शिवकुमार ने विभागों का बंटवारा कर लिया है। शिवकुमार ने वित्त विभाग अपने पास रखा है। उन्होंने गृह विभाग भी अपने पास रखने की मांग की थी, लेकिन वह विभाग मुख्यमंत्री सिद्धारमैया को मिला है। कांग्रेस और जनता दल (सेक्युलर) के बीच विभागों के बंटवारे को लेकर कुछ मतभेद थे। DK Shivakumar Cabinet Portfolios: कर्नाटक सरकार में विभागों का बंटवारा, शिवकुमार ने अपने पास रखा वित्त विभाग!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट",
-      "url": "https://www.amarujala.com/video/india-news/muzaffarpur-hospital-fire-government-action-on-muzaffarpur-hospital-fire-fire-safety-report-sought-2026-06-05",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-04T20:48:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/muzaffarpur-hospital-fire_e9ee7435e9b39a11cf02ddae1826fb78.jpeg?w=750&dpr=1.0",
-      "summary": "मुजफ्फरपुर अस्पताल में आग लगने की घटना के बाद सरकार ने कार्रवाई की। राज्य सरकार ने सभी अस्पतालों से अग्नि सुरक्षा रिपोर्ट मांगी है। Muzaffarpur Hospital Fire: मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट। Muzaffarpur Hospital Fire: मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट",
-          "summary": "मुजफ्फरपुर अस्पताल में आग लगने की घटना के बाद सरकार ने कार्रवाई की। राज्य सरकार ने सभी अस्पतालों से अग्नि सुरक्षा रिपोर्ट मांगी है। Muzaffarpur Hospital Fire: मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट। Muzaffarpur Hospital Fire: मुजफ्फरपुर अस्पताल अग्निकांड पर सरकार का एक्शन, मांगी गई फायर सेफ्टी रिपोर्ट।",
-          "region": "दुनिया"
         }
       }
     },
@@ -392,27 +614,9 @@
       }
     },
     {
-      "title": "उगाही मामले में पूर्व मंत्री का भाई गिरफ्तार; ओड़िया साहित्यकार और पूर्व IAS अधिकारी जेपी दास का",
-      "url": "https://www.amarujala.com/india-news/news-updates-of-5-june-india-news-news-north-east-west-south-west-bengal-odisha-hindi-news-2026-06-05",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-04T20:45:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/01/thasha-ka-bugdha-khabra_a958fa8f7db8bd488dbdb63c54596b0a.jpeg?w=750&dpr=1.0",
-      "summary": "ओडिशा में, प्रवर्तन निदेशालय ने एक उगाही मामले में पूर्व मंत्री सूर्य नारायण पात्रो के भाई को गिरफ्तार किया है। यह गिरफ्तारी पात्रो के खिलाफ चल रही जांच का हिस्सा है। इसी बीच, प्रसिद्ध ओड़िया साहित्यकार और पूर्व IAS अधिकारी जदुमणि दास का निधन हो गया। वे 86 वर्ष के थे। उगाही मामले में पूर्व मंत्री का भाई गिरफ्तार; ओड़िया साहित्यकार और पूर्व IAS अधिकारी जेपी दास का।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उगाही मामले में पूर्व मंत्री का भाई गिरफ्तार; ओड़िया साहित्यकार और पूर्व IAS अधिकारी जेपी दास का",
-          "summary": "ओडिशा में, प्रवर्तन निदेशालय ने एक उगाही मामले में पूर्व मंत्री सूर्य नारायण पात्रो के भाई को गिरफ्तार किया है। यह गिरफ्तारी पात्रो के खिलाफ चल रही जांच का हिस्सा है। इसी बीच, प्रसिद्ध ओड़िया साहित्यकार और पूर्व IAS अधिकारी जदुमणि दास का निधन हो गया। वे 86 वर्ष के थे। उगाही मामले में पूर्व मंत्री का भाई गिरफ्तार; ओड़िया साहित्यकार और पूर्व IAS अधिकारी जेपी दास का।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "भांगर बम विस्फोट मामले में NIA की बड़ी कार्रवाई, तीसरा आरोपी गिरफ्तार; कई ठिकानों पर छापेमारी",
       "url": "https://www.amarujala.com/india-news/nia-arrests-third-accused-in-west-bengal-bhangar-bomb-blast-case-2026-06-05",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-06-04T20:01:21+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/30/nia_4b7489040e9ab30f947474ce2b55b1b4.png?w=750&dpr=1.0",
@@ -550,186 +754,6 @@
           "title": "सवारी भर रहा था Boeing 787, खड़े-खड़े मुंह के बल गिरा प्लेन, Video में देखें कैसे टूटी 'नाक'?",
           "summary": "फ्रैंकफर्ट हवाई अड्डे पर, लुफ्थांसा एयरलाइंस का एक बोइंग 787-9 ड्रीमलाइनर विमान खड़े-खड़े जमीन पर गिर गया। यह घटना तब हुई जब विमान पार्किंग मोड में था। विमान का अगला लैंडिंग गियर अचानक अंदर की ओर मुड़ गया, जिससे विमान का अगला हिस्सा जमीन से टकरा गया। जर्मनी के फ्रैंकफर्ट एयरपोर्ट पर लॉस एंजिल्स उड़ान भरने के लिए तैयार खड़ा लुफ्थांसा एयरलाइंस का एक विशालकाय बोइंग 787-9 ड्रीमलाइनर (Boeing 787-9 Dreamliner) विमान अचानक खड़े-खड़े मुंह के बल जमीन पर आ गिरा.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "इस शहर के गटर से आधी रात को निकलते हैं रहस्यमयी इंसान, CCTV फुटेज में दिखे 'मैनहोल क्रीपर्स'",
-      "url": "https://hindi.news18.com/world/america-mystery-of-new-york-city-manhole-creepers-cctv-footage-of-men-emerging-from-sewers-gutters-at-night-10540786.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T16:18:57+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/New-York-City-Manhole-Creepers-2026-06-8041d180c1a1a99502a614a055db6618-1200x800.jpg",
-      "summary": "न्यूयॉर्क शहर में क्वींस और ब्रुकलिन में आधी रात को गटर के मैनहोल से रहस्यमयी लोग निकलते देखे गए हैं। इन 'मैनहोल क्रीपर्स' की गतिविधियां सीसीटीवी फुटेज में कैद हुई हैं। पुलिस अभी तक इन घटनाओं के पीछे का कारण या इन लोगों की पहचान का पता नहीं लगा पाई है। अमेरिका के न्यूयॉर्क शहर की सड़कों पर आधी रात को गटर में ऐसा खेल चल रहा है, जिसे देखकर पूरी दुनिया हैरान है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस शहर के गटर से आधी रात को निकलते हैं रहस्यमयी इंसान, CCTV फुटेज में दिखे 'मैनहोल क्रीपर्स'",
-          "summary": "न्यूयॉर्क शहर में क्वींस और ब्रुकलिन में आधी रात को गटर के मैनहोल से रहस्यमयी लोग निकलते देखे गए हैं। इन 'मैनहोल क्रीपर्स' की गतिविधियां सीसीटीवी फुटेज में कैद हुई हैं। पुलिस अभी तक इन घटनाओं के पीछे का कारण या इन लोगों की पहचान का पता नहीं लगा पाई है। अमेरिका के न्यूयॉर्क शहर की सड़कों पर आधी रात को गटर में ऐसा खेल चल रहा है, जिसे देखकर पूरी दुनिया हैरान है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "चेनाब नदी से भारत ने दबाई पाकिस्तान की नस, फिर धोखा-धोखा चिल्लाने लगा दुश्मन, क्या है लिंक-3",
-      "url": "https://hindi.news18.com/world/pakistan-india-chenab-beas-link-3-project-rattles-pakistan-fo-cries-indus-waters-treaty-sindhu-nadi-row-analysis-10540719.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T15:17:18+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/India-Chenab-Beas-Link-3-Project-Rattles-Pakistan-2026-06-b3e68ee5f477bbb5ba99e021c134e745-1200x800.jpg",
-      "summary": "भारत ने चिनाब नदी के अतिरिक्त पानी को मोड़ने के लिए ₹26. Indus Water Treaty: भारत ने हिमाचल प्रदेश में चिनाब नदी के सरप्लस पानी का रुख मोड़ने के लिए 26.2 रुपए अरब के मेगा 'लिंक-3 प्रोजेक्ट' (Chenab-Beas Link Tunnel) के टेंडर जारी किया है. जिसके बाद पाकिस्तान में हड़कंप मच गया है. इसे भारत का नया 'वॉटर वेपन' बताते हुए इस्लामाबाद ने 1960 के सिंधु जल समझौते (IWT) और वियना कन्वेंशन के उल्लंघन का रोना रोते हुए अंतरराष्ट्रीय अदालतों में जाने की धमकी दी है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चेनाब नदी से भारत ने दबाई पाकिस्तान की नस, फिर धोखा-धोखा चिल्लाने लगा दुश्मन, क्या है लिंक-3",
-          "summary": "भारत ने चिनाब नदी के अतिरिक्त पानी को मोड़ने के लिए ₹26. Indus Water Treaty: भारत ने हिमाचल प्रदेश में चिनाब नदी के सरप्लस पानी का रुख मोड़ने के लिए 26.2 रुपए अरब के मेगा 'लिंक-3 प्रोजेक्ट' (Chenab-Beas Link Tunnel) के टेंडर जारी किया है. जिसके बाद पाकिस्तान में हड़कंप मच गया है. इसे भारत का नया 'वॉटर वेपन' बताते हुए इस्लामाबाद ने 1960 के सिंधु जल समझौते (IWT) और वियना कन्वेंशन के उल्लंघन का रोना रोते हुए अंतरराष्ट्रीय अदालतों में जाने की धमकी दी है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "शेख हसीना के देश से भागने के बाद पहली बार उनकी करीबी नेता सेलिना हयात आइवी जेल से रिहा!",
-      "url": "https://www.patrika.com/world-news/bangladesh-politics-awami-league-leader-selina-hayat-ivy-released-from-kasimpur-jail-icg-demands-rethinking-on-party-ban-20640434",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-04T14:42:01+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Selina-Hayat-Ivy-Awami-League-leader.webp",
-      "summary": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के देश छोड़ने और अंतरिम सरकार बनने के बाद, अवामी लीग की नेता सेलिना हयात आइवी को जेल से रिहा कर दिया गया है। वह नारायणगंज नगर निगम की पूर्व महापौर थीं। उनकी रिहाई पार्टी के नेताओं के लिए जमानत मिलने का एक और मामला है। Bangladesh Interim Government: शेख हसीना के बांग्लादेश से भागने व रहमान सरकार बनने के बाद अब हसीना समर्थकों के लिए एक खुशखबरी है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शेख हसीना के देश से भागने के बाद पहली बार उनकी करीबी नेता सेलिना हयात आइवी जेल से रिहा!",
-          "summary": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के देश छोड़ने और अंतरिम सरकार बनने के बाद, अवामी लीग की नेता सेलिना हयात आइवी को जेल से रिहा कर दिया गया है। वह नारायणगंज नगर निगम की पूर्व महापौर थीं। उनकी रिहाई पार्टी के नेताओं के लिए जमानत मिलने का एक और मामला है। Bangladesh Interim Government: शेख हसीना के बांग्लादेश से भागने व रहमान सरकार बनने के बाद अब हसीना समर्थकों के लिए एक खुशखबरी है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'ऐसा कौन करता है भाई', ट्रंप की वॉर पावर्स पर चलेगी कैंची! 4 विभीषणों की वजह बुरे फंसे US राष्ट्रपति",
-      "url": "https://hindi.news18.com/world/america-trump-slams-congress-vote-to-limit-war-powers-amid-iran-conflict-called-it-unpatriotic-thing-10540536.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T14:21:17+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/donald-trumphealth-2026-06-4e01b2eec27ecec763e63919aa2640c6-1200x800.jpg",
-      "summary": "अमेरिकी संसद ने राष्ट्रपति डोनाल्ड ट्रंप की युद्ध शक्तियों को सीमित करने की प्रक्रिया शुरू कर दी है. यह कदम ईरान के साथ चल रहे लंबे संघर्ष के बीच उठाया गया है. ट्रंप ने इस प्रस्ताव पर सोशल मीडिया पर तीखी प्रतिक्रिया व्यक्त की है. उन्होंने रिपब्लिकन पार्टी के उन सदस्यों की भी आलोचना की है जो इस प्रस्ताव का समर्थन कर रहे हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ऐसा कौन करता है भाई', ट्रंप की वॉर पावर्स पर चलेगी कैंची! 4 विभीषणों की वजह बुरे फंसे US राष्ट्रपति",
-          "summary": "अमेरिकी संसद ने राष्ट्रपति डोनाल्ड ट्रंप की युद्ध शक्तियों को सीमित करने की प्रक्रिया शुरू कर दी है. यह कदम ईरान के साथ चल रहे लंबे संघर्ष के बीच उठाया गया है. ट्रंप ने इस प्रस्ताव पर सोशल मीडिया पर तीखी प्रतिक्रिया व्यक्त की है. उन्होंने रिपब्लिकन पार्टी के उन सदस्यों की भी आलोचना की है जो इस प्रस्ताव का समर्थन कर रहे हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "माउंट एवरेस्ट पर चमत्कार! जिसे मरा हुआ समझा था, वो बर्फ में रेंगता हुआ मिला",
-      "url": "https://hindi.news18.com/world/south-asia-mount-everest-miracle-survival-dawa-sherpa-found-alive-crawling-to-base-camp-after-six-days-believed-dead-at-camp-three-10540508.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T14:07:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Dawa-Sherpa-alive-2026-06-724d4db54028fac2543db0a7039c0463-1200x800.jpg",
-      "summary": "माउंट एवरेस्ट के डेथ जोन में छह दिनों तक फंसे रहने के बाद नेपाली शेरपा गाइड दावा शेरपा जीवित पाए गए। उन्हें मृत मान लिया गया था। शेरपा बेस कैंप तक रेंगते हुए पहुंचे। उनके बचने की उम्मीदें लगभग खत्म हो चुकी थीं। ऐसा ही चमत्कार गुरुवार को देखने को मिला, जिस नेपाली शेरपा गाइड को दुनिया मरा हुआ समझ लिया था वह 6 दिनों के बाद बर्फ की पहाड़ पर रेंगता हुआ मिला.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "माउंट एवरेस्ट पर चमत्कार! जिसे मरा हुआ समझा था, वो बर्फ में रेंगता हुआ मिला",
-          "summary": "माउंट एवरेस्ट के डेथ जोन में छह दिनों तक फंसे रहने के बाद नेपाली शेरपा गाइड दावा शेरपा जीवित पाए गए। उन्हें मृत मान लिया गया था। शेरपा बेस कैंप तक रेंगते हुए पहुंचे। उनके बचने की उम्मीदें लगभग खत्म हो चुकी थीं। ऐसा ही चमत्कार गुरुवार को देखने को मिला, जिस नेपाली शेरपा गाइड को दुनिया मरा हुआ समझ लिया था वह 6 दिनों के बाद बर्फ की पहाड़ पर रेंगता हुआ मिला.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत से दोस्ती के लिए पाकिस्तान को धोखा देगा तुर्की? एर्दोगान के यू-टर्न की इनसाइड स्टोरी",
-      "url": "https://hindi.news18.com/world/pakistan-turkey-to-betray-pakistan-for-india-relations-erdogan-foreign-policy-u-turn-amid-brahmos-deal-fears-and-economic-crisis-10540242.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T12:45:29+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Turkey-to-Betray-Pakistan-for-India-2026-06-7bd2c51984a23b1f641b679a2a5016fc-1200x800.jpg",
-      "summary": "तुर्की के राष्ट्रपति रेसेप तैयप एर्दोगान ने भारत के साथ संबंधों को सुधारने का संकेत दिया है. भारत की आक्रामक कूटनीति और ग्रीस-साइप्रस को ब्रह्मोस मिसाइलें देने की तैयारी के बीच यह बदलाव आया है. सूत्रों के अनुसार, आर्थिक तंगी से जूझ रहा तुर्की भारत के बड़े बाजार का लाभ उठाने के लिए पाकिस्तान से दूरी बना सकता है. यह कदम तुर्की की विदेश नीति में एक महत्वपूर्ण मोड़ दर्शाता है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत से दोस्ती के लिए पाकिस्तान को धोखा देगा तुर्की? एर्दोगान के यू-टर्न की इनसाइड स्टोरी",
-          "summary": "तुर्की के राष्ट्रपति रेसेप तैयप एर्दोगान ने भारत के साथ संबंधों को सुधारने का संकेत दिया है. भारत की आक्रामक कूटनीति और ग्रीस-साइप्रस को ब्रह्मोस मिसाइलें देने की तैयारी के बीच यह बदलाव आया है. सूत्रों के अनुसार, आर्थिक तंगी से जूझ रहा तुर्की भारत के बड़े बाजार का लाभ उठाने के लिए पाकिस्तान से दूरी बना सकता है. यह कदम तुर्की की विदेश नीति में एक महत्वपूर्ण मोड़ दर्शाता है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हिमालय से हिंद महासागर तक साझेदारी मजबूत करने की तैयारी, दिल्ली आ रहे नेपाल के विदेश मंत्री",
-      "url": "https://hindi.news18.com/news/nation/strengthen-partnership-from-himalayas-to-indian-ocean-nepal-india-relations-s-jaishankar-10540232.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T12:34:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/S-Jaishankar-2026-06-2322d8c21ff42f251aaafd4051757770-1200x800.jpg",
-      "summary": "नेपाल के विदेश मंत्री दिल्ली का दौरा कर रहे हैं. यह यात्रा हिमालय से हिंद महासागर तक साझेदारी मजबूत करने पर केंद्रित है. नेपाल के विदेश मंत्रालय के अनुसार, यह उच्चस्तरीय दौरा दोनों देशों के पुराने और बहुआयामी रिश्तों को और मजबूत करने की दिशा में महत्वपूर्ण कदम होगा. विदेश मंत्री खनाल 7 जून को काठमांडू लौटेंगे. हिमालय से हिंद महासागर तक साझेदारी मजबूत करने की तैयारी, दिल्ली आ रहे नेपाल के विदेश मंत्री।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिमालय से हिंद महासागर तक साझेदारी मजबूत करने की तैयारी, दिल्ली आ रहे नेपाल के विदेश मंत्री",
-          "summary": "नेपाल के विदेश मंत्री दिल्ली का दौरा कर रहे हैं. यह यात्रा हिमालय से हिंद महासागर तक साझेदारी मजबूत करने पर केंद्रित है. नेपाल के विदेश मंत्रालय के अनुसार, यह उच्चस्तरीय दौरा दोनों देशों के पुराने और बहुआयामी रिश्तों को और मजबूत करने की दिशा में महत्वपूर्ण कदम होगा. विदेश मंत्री खनाल 7 जून को काठमांडू लौटेंगे. हिमालय से हिंद महासागर तक साझेदारी मजबूत करने की तैयारी, दिल्ली आ रहे नेपाल के विदेश मंत्री।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "लाल समंदर और सन्न रह गई दुनिया, 706 डॉल्फिन-व्हेल को उतारा मौत के घाट, फरो आइलैंड्स में छिड़ा 'खूनी",
-      "url": "https://hindi.news18.com/world/rest-of-world-sea-blood-red-and-world-stun-706-dolphins-whales-slaughtered-as-faroe-islands-bloody-festival-10540387.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T12:34:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Dolphins-2026-06-9470292f966ef4b8a9c5d36066968cc3-1200x800.jpg",
-      "summary": "फरो आइलैंड्स में 27 मई को तीन अलग-अलग शिकार अभियानों में कुल 706 डॉल्फ़िन और वैश्विक पर्यावरण कार्यकर्ता NGO 'सी शेफर्ड' के अनुसार 27 मई को स्कॉटलैंड से ठीक 200 मील उत्तर में, तीन अलग-अलग शिकार अभियानों के दौरान इन जीवों की हत्या की गई. टोर्शावन में 402 पायलट व्हेल और चार बॉटल-नोज़ डॉल्फ़िन, स्कालाबोटनुर में 168 व्हाइट-साइडेड डॉल्फ़िन, और ह्वाल्विक में 132 व्हाइट-साइडेड डॉल्फ़िन को मार डाला गया; इस तरह कुल मिलाकर 706 जीवों की हत्या हुई.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लाल समंदर और सन्न रह गई दुनिया, 706 डॉल्फिन-व्हेल को उतारा मौत के घाट, फरो आइलैंड्स में छिड़ा 'खूनी",
-          "summary": "फरो आइलैंड्स में 27 मई को तीन अलग-अलग शिकार अभियानों में कुल 706 डॉल्फ़िन और वैश्विक पर्यावरण कार्यकर्ता NGO 'सी शेफर्ड' के अनुसार 27 मई को स्कॉटलैंड से ठीक 200 मील उत्तर में, तीन अलग-अलग शिकार अभियानों के दौरान इन जीवों की हत्या की गई. टोर्शावन में 402 पायलट व्हेल और चार बॉटल-नोज़ डॉल्फ़िन, स्कालाबोटनुर में 168 व्हाइट-साइडेड डॉल्फ़िन, और ह्वाल्विक में 132 व्हाइट-साइडेड डॉल्फ़िन को मार डाला गया; इस तरह कुल मिलाकर 706 जीवों की हत्या हुई.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बम-गोले के जमाने में तीर-कमान से 'युद्ध', बचने को ऐसा कूदा शख्स, देखने वालों ने पकड़ा माथा",
-      "url": "https://hindi.news18.com/world/rest-of-world-modern-archery-fight-video-man-dodges-arrows-fight-between-tribes-papua-new-guinea-ws-l-10540348.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T12:20:19+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/archery-video-2026-06-90ffa0f5422cd8c51c7d3403a98d0985-1200x800.jpg",
-      "summary": "एक वीडियो में आधुनिक समय में तीर-कमान से लड़ाई का दृश्य सामने आया है। Modern Archery Fight Video: एक तरफ दुनिया गोला बारूद से लड़ने में परेशान हैं, वहीं एक ऐसी भी जगह है, जहां पर लोग लड़ने के लिए आज भी प्राचीन धनुष और बाण का इस्तेमाल कर रहे हैं. आप इस वीडियो को देखकर एक बार को हैरान हो जाएंगे, लेकिन ये काफी दिलचस्प है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बम-गोले के जमाने में तीर-कमान से 'युद्ध', बचने को ऐसा कूदा शख्स, देखने वालों ने पकड़ा माथा",
-          "summary": "एक वीडियो में आधुनिक समय में तीर-कमान से लड़ाई का दृश्य सामने आया है। Modern Archery Fight Video: एक तरफ दुनिया गोला बारूद से लड़ने में परेशान हैं, वहीं एक ऐसी भी जगह है, जहां पर लोग लड़ने के लिए आज भी प्राचीन धनुष और बाण का इस्तेमाल कर रहे हैं. आप इस वीडियो को देखकर एक बार को हैरान हो जाएंगे, लेकिन ये काफी दिलचस्प है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अवामी लीग के पूर्व सांसद शेख मुजीबुर रहमान भेजे गए जेल, पार्टी ने लगाया पक्षपात का आरोप",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-news-awami-league-leader-mujibur-rehman-sent-to-jail-2-10540338.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-04T11:43:24+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/bangladesh-arrest-2026-06-fa648ce98b27602e3df864f2c9788921-1200x800.jpg",
-      "summary": "ढाका की एक अदालत ने अवामी लीग के पूर्व सांसद शेख मुजीबुर रहमान को जुलाई 2024 के प्रदर्शनों के दौरान हुई हत्या के मामले में जेल भेज दिया है. उन्हें ढाका के उत्तरा स्थित घर से गिरफ्तार किया गया था. अवामी लीग ने गिरफ्तारी को पक्षपातपूर्ण बताया है. Bangladesh News: बांग्लादेश की एक अदालत ने अवामी लीग के नेता और पूर्व सांसद शेख मुजीबुर रहमान को जुलाई 2024 के सरकार विरोधी प्रदर्शनों के दौरान हुई एक हत्या के मामले में जेल भेज दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अवामी लीग के पूर्व सांसद शेख मुजीबुर रहमान भेजे गए जेल, पार्टी ने लगाया पक्षपात का आरोप",
-          "summary": "ढाका की एक अदालत ने अवामी लीग के पूर्व सांसद शेख मुजीबुर रहमान को जुलाई 2024 के प्रदर्शनों के दौरान हुई हत्या के मामले में जेल भेज दिया है. उन्हें ढाका के उत्तरा स्थित घर से गिरफ्तार किया गया था. अवामी लीग ने गिरफ्तारी को पक्षपातपूर्ण बताया है. Bangladesh News: बांग्लादेश की एक अदालत ने अवामी लीग के नेता और पूर्व सांसद शेख मुजीबुर रहमान को जुलाई 2024 के सरकार विरोधी प्रदर्शनों के दौरान हुई एक हत्या के मामले में जेल भेज दिया है.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
