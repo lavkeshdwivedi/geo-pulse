@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-05T21:41:52.074974+00:00",
+  "generated_at": "2026-06-05T23:11:37.029314+00:00",
   "article_count": 50,
-  "total_unique_count": 263,
+  "total_unique_count": 264,
   "digest": {
-    "en": "US-China relations dominate the Asia-Pacific brief. Russia's economic pressure on Armenia is a key development in Europe. The Middle East sees ongoing UN funding appeals for humanitarian needs.",
-    "hi": "कर्नाटक में बड़े हमले की तैयारी कर रहे दो संदिग्धों की गिरफ्तारी और पुणे में जहरीली शराब से मरने वालों की संख्या 20 होने की खबर प्रमुख है। वहीं, नॉर्वे शतरंज में भारत की जीत और लेबनान पर इजरायल के हमले जारी हैं।"
+    "en": "Kyrgyzstan's UN Security Council election and Typhoon Jangmi in Japan are current focal points. US-China relations continue to shape South Korea's strategic decisions. Cabinet shifts in India also demand attention.",
+    "hi": "ईरान और इज़राइल के बीच तनाव बढ़ा है, जबकि भारत में कांवड़ यात्रा की तारीखों की घोषणा हुई है। कैम्ब्रिज यूनिवर्सिटी ने एआई से पहली 'स्मार्ट' वैक्सीन बनाने का दावा किया है।"
   },
   "articles": [
+    {
+      "title": "A fresh guide to Kuala Lumpur: Where to stay, shop and dine in and around the TRX district",
+      "url": "https://www.channelnewsasia.com/experiences/kuala-lumpur-trx-travel-guide-6161216",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-05T22:08:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--gurJQ2Td--/c_crop,h_558,w_992,x_2,y_54/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/04/kl-the-exchange-trx-kimpton-naluria.jpg?itok=db1O2Tgv",
+      "summary": "The Kimpton Narita Hotel has opened in Kuala Lumpur's Tun Razak Exchange. This new business and lifestyle district offers shopping and dining. It serves as a base for exploring nearby creative neighborhoods. With Malaysia’s first Kimpton now open in Kuala Lumpur’s Tun Razak Exchange, the city’s newest business and lifestyle district is making a case as a sleek stay-and-play base for shopping, dining and exploring creative neighbourhoods nearby.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Cabinet Trouble for D.K. Shivakumar as Ramalinga Reddy Resigns | Above the Fold | 05.06.2026",
       "url": "https://www.thehindu.com/videos/watch-cabinet-trouble-for-dk-shivakumar-as-ramalinga-reddy-resigns-above-the-fold-05062026/article71067211.ece",
@@ -296,18 +308,6 @@
       "translations": {}
     },
     {
-      "title": "Hunger crisis deepens as funding cuts leave millions without support",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167643",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-03T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026-UNICEF-Yemen.jpg/image770x420cropped.jpg",
-      "summary": "A UN-backed analysis reports nearly half the population in Yemen's government Nearly half of the population in Government-controlled areas of Yemen are facing high levels of acute food insecurity with the crisis set to deepen further if international aid cuts continue, according to the latest analysis by the leading UN-backed global food security platform. Hunger crisis deepens as funding cuts leave millions without support.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "देश में बड़े हमले की थी तैयारी, कर्नाटक के तुमकुरु से दो संदिग्ध गिरफ्तार",
       "url": "https://www.amarujala.com/india-news/two-held-in-karnataka-for-contact-with-pak-based-person-planning-disruptive-activities-2026-06-06",
       "source": "Amar Ujala National",
@@ -380,19 +380,91 @@
       }
     },
     {
-      "title": "भाजपा से इस्तीफे के बाद अन्नामलाई की नई राजनीतिक यात्रा, दावा- अब तक 10 लाख से अधिक लोग जुड़ें",
+      "title": "15 जुलाई तक जमा होगा पात्रता मापदंड स्कोर कार्ड, सीबीएसई छात्रों को मिली छूट",
+      "url": "https://www.amarujala.com/india-news/cbse-candidates-to-submit-a-revised-scorecard-meeting-the-required-criteria-by-july-15-in-iit-2026-06-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-05T23:01:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/24/cbse-board_bee7ef9d810e5abf48b043cab41e480c.jpeg?w=750&dpr=1.0",
+      "summary": "सीबीएसई के छात्रों को 15 जुलाई तक अपना संशोधित स्कोरकार्ड जमा करना होगा। यह स्कोरकार्ड पात्रता मापदंड को पूरा करता हो। यह छूट आईआईटी प्रवेश प्रक्रिया के लिए दी गई है। 15 जुलाई तक जमा होगा पात्रता मापदंड स्कोर कार्ड, सीबीएसई छात्रों को मिली छूट।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "15 जुलाई तक जमा होगा पात्रता मापदंड स्कोर कार्ड, सीबीएसई छात्रों को मिली छूट",
+          "summary": "सीबीएसई के छात्रों को 15 जुलाई तक अपना संशोधित स्कोरकार्ड जमा करना होगा। यह स्कोरकार्ड पात्रता मापदंड को पूरा करता हो। यह छूट आईआईटी प्रवेश प्रक्रिया के लिए दी गई है। 15 जुलाई तक जमा होगा पात्रता मापदंड स्कोर कार्ड, सीबीएसई छात्रों को मिली छूट।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कैम्ब्रिज यूनिवर्सिटी की रिसर्च टीम का दावा, एआई से बनाई दुनिया की पहली ‘स्मार्ट’ वैक्सीन",
+      "url": "https://www.patrika.com/world-news/covid-ai-smart-vaccine-cambridge-research-20643717",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-05T22:16:44+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/AI-vaccine.webp",
+      "summary": "कैम्ब्रिज यूनिवर्सिटी की एक शोध टीम ने आर्टिफिशियल इंटेलिजेंस का उपयोग करके एक नई वैक्सीन विकसित की है। यह वैक्सीन कोविड-19 के सभी प्रकारों के साथ-साथ जानवरों में पाए जाने वाले कोरोना वायरस के खिलाफ भी प्रभावी होने का दावा करती है। एआई ने वैक्सीन के डिजाइन में महत्वपूर्ण भूमिका निभाई है। AI designed vaccine: अब आर्टिफिशियल इंटेलिजेंस (एआई) का उपयोग गंभीर बीमारियों की वैक्सीन बनाने में भी किया जा रहा है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कैम्ब्रिज यूनिवर्सिटी की रिसर्च टीम का दावा, एआई से बनाई दुनिया की पहली ‘स्मार्ट’ वैक्सीन",
+          "summary": "कैम्ब्रिज यूनिवर्सिटी की एक शोध टीम ने आर्टिफिशियल इंटेलिजेंस का उपयोग करके एक नई वैक्सीन विकसित की है। यह वैक्सीन कोविड-19 के सभी प्रकारों के साथ-साथ जानवरों में पाए जाने वाले कोरोना वायरस के खिलाफ भी प्रभावी होने का दावा करती है। एआई ने वैक्सीन के डिजाइन में महत्वपूर्ण भूमिका निभाई है। AI designed vaccine: अब आर्टिफिशियल इंटेलिजेंस (एआई) का उपयोग गंभीर बीमारियों की वैक्सीन बनाने में भी किया जा रहा है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ईरान समेत 7 देशों में अमेरिकी सैन्य अभियान, 2 नए टारगेट; बढ़ा वैश्विक तनाव",
+      "url": "https://www.patrika.com/world-news/donald-trump-second-term-7-countries-military-operations-2-new-targets-20643709",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-05T21:48:23+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trump.jpg",
+      "summary": "डोनाल्ड ट्रंप ने 1 फरवरी 2025 को राष्ट्रपति पद की दूसरी बार शपथ ली। उन्होंने खुद को शांतिदूत बताते हुए वैश्विक संघर्षों को रोकने का दावा किया। इसके बावजूद, उनके कार्यकाल में अमेरिका ने सात देशों में सैन्य अभियान चलाए। इनमें ईरान भी शामिल है। यह कार्रवाई वैश्विक तनाव को बढ़ाती है। Donald Trump Foreign Policy: डोनाल्ड ट्रंप ने एक फरवरी 2025 को दूसरी बार अमेरिकी के राष्ट्रपति पद की शपथ ली।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान समेत 7 देशों में अमेरिकी सैन्य अभियान, 2 नए टारगेट; बढ़ा वैश्विक तनाव",
+          "summary": "डोनाल्ड ट्रंप ने 1 फरवरी 2025 को राष्ट्रपति पद की दूसरी बार शपथ ली। उन्होंने खुद को शांतिदूत बताते हुए वैश्विक संघर्षों को रोकने का दावा किया। इसके बावजूद, उनके कार्यकाल में अमेरिका ने सात देशों में सैन्य अभियान चलाए। इनमें ईरान भी शामिल है। यह कार्रवाई वैश्विक तनाव को बढ़ाती है। Donald Trump Foreign Policy: डोनाल्ड ट्रंप ने एक फरवरी 2025 को दूसरी बार अमेरिकी के राष्ट्रपति पद की शपथ ली।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पुतिन बोले- ईरान और इस्राइल के बीच युद्ध रोकना समय की जरूरत, शांति बहाली में रूस देगा सहयोग",
+      "url": "https://www.amarujala.com/world/putin-on-iran-israel-tensions-calls-for-ceasefire-says-russia-ready-to-support-peace-efforts-2026-06-06",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-05T21:47:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/06/nprsa-ka-rashhatarapata-patana_99184ca510295cc0ef51863e4dcf578b.jpeg?w=750&dpr=1.0",
+      "summary": "रूस के राष्ट्रपति व्लादिमीर पुतिन ने कहा कि ईरान और इज़राइल के बीच संघर्ष को रोकना समय की मांग है। उन्होंने कहा कि रूस इस क्षेत्र में शांति बहाली के लिए हर संभव सहयोग करेगा। पुतिन ने दोनों देशों से संयम बरतने और कूटनीतिक समाधान खोजने का आग्रह किया। उन्होंने कहा कि यह संघर्ष पूरे मध्य पूर्व को अस्थिर कर सकता है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पुतिन बोले- ईरान और इस्राइल के बीच युद्ध रोकना समय की जरूरत, शांति बहाली में रूस देगा सहयोग",
+          "summary": "रूस के राष्ट्रपति व्लादिमीर पुतिन ने कहा कि ईरान और इज़राइल के बीच संघर्ष को रोकना समय की मांग है। उन्होंने कहा कि रूस इस क्षेत्र में शांति बहाली के लिए हर संभव सहयोग करेगा। पुतिन ने दोनों देशों से संयम बरतने और कूटनीतिक समाधान खोजने का आग्रह किया। उन्होंने कहा कि यह संघर्ष पूरे मध्य पूर्व को अस्थिर कर सकता है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अन्नामलाई के नए राजनीतिक आंदोलन 'इधु नम्मा इयक्कम' को जबरदस्त समर्थन, 10 लाख से अधिक लोग जुड़ें",
       "url": "https://www.amarujala.com/india-news/tamil-nadu-k-annamalai-launches-new-political-movement-claims-over-10-lakh-leaders-joined-within-10-hours-2026-06-06",
       "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-06-05T21:05:30+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/24/k-annamalai_9f38adf466bb5f6f5bef8bd02be016af.jpeg?w=750&dpr=1.0",
-      "summary": "भाजपा से इस्तीफा देने के बाद के. अन्नामलाई ने अपनी नई राजनीतिक यात्रा शुरू की है। उन्होंने दावा किया है कि अब तक 10 लाख से अधिक लोग उनके साथ जुड़ चुके हैं। Tamil Nadu: भाजपा से इस्तीफे के बाद अन्नामलाई की नई राजनीतिक यात्रा, दावा- अब तक 10 लाख से अधिक लोग जुड़ें।",
+      "summary": "भाजपा से इस्तीफा देने के बाद के. अन्नामलाई ने अपनी नई राजनीतिक यात्रा शुरू की है। उन्होंने दावा किया है कि अब तक 10 लाख से अधिक लोग उनके साथ जुड़ चुके हैं। Tamil Nadu: भाजपा से इस्तीफे के बाद अन्नामलाई की नई राजनीतिक यात्रा, दावा- अब तक 10 लाख से अधिक लोग जुड़ें। Tamil Nadu: अन्नामलाई के नए राजनीतिक आंदोलन 'इधु नम्मा इयक्कम' को जबरदस्त समर्थन, 10 लाख से अधिक लोग जुड़ें।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भाजपा से इस्तीफे के बाद अन्नामलाई की नई राजनीतिक यात्रा, दावा- अब तक 10 लाख से अधिक लोग जुड़ें",
-          "summary": "भाजपा से इस्तीफा देने के बाद के. अन्नामलाई ने अपनी नई राजनीतिक यात्रा शुरू की है। उन्होंने दावा किया है कि अब तक 10 लाख से अधिक लोग उनके साथ जुड़ चुके हैं। Tamil Nadu: भाजपा से इस्तीफे के बाद अन्नामलाई की नई राजनीतिक यात्रा, दावा- अब तक 10 लाख से अधिक लोग जुड़ें।",
+          "title": "अन्नामलाई के नए राजनीतिक आंदोलन 'इधु नम्मा इयक्कम' को जबरदस्त समर्थन, 10 लाख से अधिक लोग जुड़ें",
+          "summary": "भाजपा से इस्तीफा देने के बाद के. अन्नामलाई ने अपनी नई राजनीतिक यात्रा शुरू की है। उन्होंने दावा किया है कि अब तक 10 लाख से अधिक लोग उनके साथ जुड़ चुके हैं। Tamil Nadu: भाजपा से इस्तीफे के बाद अन्नामलाई की नई राजनीतिक यात्रा, दावा- अब तक 10 लाख से अधिक लोग जुड़ें। Tamil Nadu: अन्नामलाई के नए राजनीतिक आंदोलन 'इधु नम्मा इयक्कम' को जबरदस्त समर्थन, 10 लाख से अधिक लोग जुड़ें।",
           "region": "दुनिया"
         }
       }
@@ -560,6 +632,24 @@
       }
     },
     {
+      "title": "धरती से 400 किमी ऊपर अंतरिक्ष स्टेशन में एयर लीक से हड़कंप, यात्रियों को अलर्ट जारी",
+      "url": "https://www.patrika.com/world-news/international-space-station-air-leak-astronauts-alert-20643641",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-05T17:50:45+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/International-Space-Station.webp",
+      "summary": "अंतरराष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) के रूसी हिस्से में हवा का रिसाव हुआ है। यह रिसाव धरती से लगभग 400 किलोमीटर की ऊंचाई पर हुआ है। रूसी चालक दल इस रिसाव को ठीक करने का प्रयास कर रहा है। नासा ने क्रू-12 मिशन के चार अंतरिक्ष यात्रियों को स्पेससूट पहनने का निर्देश दिया है। उन्हें ड्रैगन अंतरिक्ष यान के माध्यम से आपातकालीन निकास के लिए तैयार रहने को कहा गया है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धरती से 400 किमी ऊपर अंतरिक्ष स्टेशन में एयर लीक से हड़कंप, यात्रियों को अलर्ट जारी",
+          "summary": "अंतरराष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) के रूसी हिस्से में हवा का रिसाव हुआ है। यह रिसाव धरती से लगभग 400 किलोमीटर की ऊंचाई पर हुआ है। रूसी चालक दल इस रिसाव को ठीक करने का प्रयास कर रहा है। नासा ने क्रू-12 मिशन के चार अंतरिक्ष यात्रियों को स्पेससूट पहनने का निर्देश दिया है। उन्हें ड्रैगन अंतरिक्ष यान के माध्यम से आपातकालीन निकास के लिए तैयार रहने को कहा गया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "चिकन-मटन खाने वालों ने पैदा किया नया संकट, UN की रिपोर्ट ने बढ़ाई दुनिया की चिंता",
       "url": "https://hindi.news18.com/world/rest-of-world-un-meat-shock-massive-six-fold-jump-in-chicken-mutton-eaters-sparks-global-climate-crisis-as-non-veg-diet-dominates-10543857.html",
       "source": "News18 Hindi (World)",
@@ -591,6 +681,24 @@
         "hi": {
           "title": "रेगिस्तान में खराब हुआ ट्रक, प्यास से तड़प-तड़प कर निकली 49 लोगों की जान, ऐसी हालत में मिली लाशें",
           "summary": "नाइजर के अगाडेज गवर्नर ने सहारा रेगिस्तान में 49 लोगों की मौत की पुष्टि की. माली से एक मुस्लिम त्योहार मनाकर लौट रहे इन लोगों का ट्रक असमका बॉर्डर से लगभग 80 किलोमीटर दूर खराब हो गया. वे पानी की कमी से मर गए. ट्रक रास्ते से भटक गया था. सहारा रेगिस्तान के एक पथरीले इलाके में ट्रक खराब हो जाने की वजह से पानी की बूंद-बूंद को तरसे करीब 49 लोगों की दर्दनाक मौत हो गई.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हिंद महासागर में अमेरिकी सेना का बड़ा ऑपरेशन, ईरानी तेल ले जा रहे टैंकर को रोका",
+      "url": "https://www.patrika.com/world-news/us-forces-board-oil-tanker-mt-davina-iranian-crude-indian-ocean-blockade-20643576",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-05T16:13:03+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-Forces-Board-Oil-Tanker.webp",
+      "summary": "अमेरिकी सेना ने हिंद महासागर में एक ईरानी तेल टैंकर को रोका. टैंकर पर प्रतिबंधों के बावजूद ईरानी कच्चा तेल ले जाने का आरोप था. अमेरिकी नौसेना ने टैंकर पर सवार होकर तलाशी ली. यह कार्रवाई अमेरिका और ईरान के बीच जारी तनाव के बीच हुई है. US Forces Board Oil Tanker: अमेरिका और ईरान के बीच जारी तनाव के बीच अमेरिकी सेना ने हिंद महासागर में एक बड़ा समुद्री अभियान चलाया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिंद महासागर में अमेरिकी सेना का बड़ा ऑपरेशन, ईरानी तेल ले जा रहे टैंकर को रोका",
+          "summary": "अमेरिकी सेना ने हिंद महासागर में एक ईरानी तेल टैंकर को रोका. टैंकर पर प्रतिबंधों के बावजूद ईरानी कच्चा तेल ले जाने का आरोप था. अमेरिकी नौसेना ने टैंकर पर सवार होकर तलाशी ली. यह कार्रवाई अमेरिका और ईरान के बीच जारी तनाव के बीच हुई है. US Forces Board Oil Tanker: अमेरिका और ईरान के बीच जारी तनाव के बीच अमेरिकी सेना ने हिंद महासागर में एक बड़ा समुद्री अभियान चलाया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -646,114 +754,6 @@
           "title": "दुबई के शाही परिवार की 'डर्टी पिक्चर', घर में घुसकर बहू को उठा ले गई पुलिस, शहजादे ने लिया तलाक का",
           "summary": "दुबई पुलिस ने शेख सईद बिन मकतूम अल मकतूम की पूर्व पत्नी ज़ैनब जावदली और उनकी तीन बेटियों दुबई के शासक (Emir) के भतीजे शेख सईद बिन मकतूम अल मकतूम की पूर्व पत्नी जैनब जावदली (Zeynab Javadli) और उनकी तीन मासूम बेटियों को दुबई पुलिस ने उनके ही घर से अचानक 'गायब' कर दिया है. जैनब के वकील और उनके परिवार का सीधा आरोप है कि ये कोई कानूनी कार्रवाई नहीं, बल्कि शाही परिवार के इशारे पर किया गया 'अपहरण' है, ठीक वैसे ही जैसे इस परिवार की कई राजकुमारियों के साथ पहले भी हो चुका है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान से लौटते हुए क्यूबा में 'आराम' करेगी यूएस आर्मी, ट्रंप की धमकी और 75 हजार करोड़ रुपए का रार",
-      "url": "https://hindi.news18.com/world/america-trump-cuba-75000-crore-property-dispute-explained-why-us-army-is-targeting-cuba-10543281.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-05T12:31:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Trump_vs_Cuba_Explained-2026-06-af8ec3e0185b1913513963c5a72f4dcf-1200x800.jpg",
-      "summary": "डोनाल्ड ट्रंप ने ईरान के बाद क्यूबा को धमकी दी है. 1959 की क्रांति से जुड़ा 75 हजार करोड़ रुपए का विवाद है. अमेरिका ने जब्त संपत्तियों के मुआवजे की मांग की है. क्यूबा यह रकम चुकाने में असमर्थ है. दोनों देशों के बीच 1959 की क्रांति से जुड़ा 75 हजार करोड़ रुपए का पुराना विवाद है. अमेरिका ने क्यूबा की कम्युनिस्ट सरकार द्वारा जब्त संपत्तियों के मुआवजे की मांग की है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान से लौटते हुए क्यूबा में 'आराम' करेगी यूएस आर्मी, ट्रंप की धमकी और 75 हजार करोड़ रुपए का रार",
-          "summary": "डोनाल्ड ट्रंप ने ईरान के बाद क्यूबा को धमकी दी है. 1959 की क्रांति से जुड़ा 75 हजार करोड़ रुपए का विवाद है. अमेरिका ने जब्त संपत्तियों के मुआवजे की मांग की है. क्यूबा यह रकम चुकाने में असमर्थ है. दोनों देशों के बीच 1959 की क्रांति से जुड़ा 75 हजार करोड़ रुपए का पुराना विवाद है. अमेरिका ने क्यूबा की कम्युनिस्ट सरकार द्वारा जब्त संपत्तियों के मुआवजे की मांग की है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "स्‍कूल के नीचे से आती थी आवाज, एक दिन खोदने पहुंच गए स्‍टूडेंट्स, मिला 1,800 साल पुराना आलीशान महल",
-      "url": "https://hindi.news18.com/world/europe-ancient-roman-villa-discovered-beneath-a-high-school-gym-near-italy-rome-colosseum-after-students-follow-historic-rumors-10543207.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-05T12:30:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Italian-villa-under-school-2026-06-89e2c383ba8235518b73460543361849-1200x800.jpg",
-      "summary": "रोम में एक हाई स्कूल के जिम के नीचे दूसरी शताब्दी के विला की खोज हुई है. छात्रों ने भूमिगत सुरंगों को खंगाला तो यह ऐतिहासिक धरोहर सामने आई. पुरातत्वविदों को प्राचीन चित्र और मोजेक फर्श मिले हैं. रोम में कोलोसियम के पास एक हाई स्कूल के जिम के नीचे दूसरी शताब्दी के आलीशान विला की खोज हुई है. छात्र बरसों से यहां गुप्त कमरे होने की अफवाहें सुनते थे, जिसकी सत्यता जांचने के लिए जब उन्होंने भूमिगत सुरंगों को खंगाला तो यह ऐतिहासिक धरोहर सामने आई.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्‍कूल के नीचे से आती थी आवाज, एक दिन खोदने पहुंच गए स्‍टूडेंट्स, मिला 1,800 साल पुराना आलीशान महल",
-          "summary": "रोम में एक हाई स्कूल के जिम के नीचे दूसरी शताब्दी के विला की खोज हुई है. छात्रों ने भूमिगत सुरंगों को खंगाला तो यह ऐतिहासिक धरोहर सामने आई. पुरातत्वविदों को प्राचीन चित्र और मोजेक फर्श मिले हैं. रोम में कोलोसियम के पास एक हाई स्कूल के जिम के नीचे दूसरी शताब्दी के आलीशान विला की खोज हुई है. छात्र बरसों से यहां गुप्त कमरे होने की अफवाहें सुनते थे, जिसकी सत्यता जांचने के लिए जब उन्होंने भूमिगत सुरंगों को खंगाला तो यह ऐतिहासिक धरोहर सामने आई.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बांग्लादेश में गूंजेगा 'जय श्री राम'! यहां बन रही प्रभु राम की सबसे ऊंची प्रतिमा",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-largest-lord-ram-statue-gaibandha-hindu-sanatan-dharm-temple-project-ws-l-10543248.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-05T12:28:11+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Your-paragraph-text-1600-x-900-px-32-2026-06-f742c3460cb7b801d7ba9ad51e5f5769-1200x800.jpg",
-      "summary": "बांग्लादेश के गाइबांधा जिले में 17 करोड़ की लागत से धार्मिक परिसर विकसित हो रहा है. यहां भगवान श्रीराम, श्रीकृष्ण और शिव की भव्य प्रतिमाएं स्थापित की जा रही हैं. इसे प्रमुख धार्मिक पर्यटन केंद्र बनाने की योजना है. बांग्लादेश के गाइबांधा जिले में 17 करोड़ की लागत से विशाल सनातन धार्मिक परिसर विकसित किया जा रहा है. बांग्लादेश में गूंजेगा 'जय श्री राम'!",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेश में गूंजेगा 'जय श्री राम'! यहां बन रही प्रभु राम की सबसे ऊंची प्रतिमा",
-          "summary": "बांग्लादेश के गाइबांधा जिले में 17 करोड़ की लागत से धार्मिक परिसर विकसित हो रहा है. यहां भगवान श्रीराम, श्रीकृष्ण और शिव की भव्य प्रतिमाएं स्थापित की जा रही हैं. इसे प्रमुख धार्मिक पर्यटन केंद्र बनाने की योजना है. बांग्लादेश के गाइबांधा जिले में 17 करोड़ की लागत से विशाल सनातन धार्मिक परिसर विकसित किया जा रहा है. बांग्लादेश में गूंजेगा 'जय श्री राम'!",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "डीपफेक से जासूसी तक! चीन के 'साइलेंस ऑपरेशन' पर अमेरिकी संसद में बवाल, ड्रैगन की गुप्त साजिशों का",
-      "url": "https://hindi.news18.com/world/america-deepfakes-to-espionage-uproar-in-us-congress-over-china-silence-operation-10543039.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-05T12:04:03+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-Trump-Xi-Jinping-2026-06-cae739947ac9aecab483d5432d388963-1200x800.jpg",
-      "summary": "सांसद क्रिस स्मिथ ने चीन के गुप्त नेटवर्क पर चिंता जताई है. चीन आलोचकों के परिवार वालों को हिरासत में लेता है. स्पाइवेयर और डीपफेक वीडियो का इस्तेमाल हो रहा है. अमेरिका में चीन के अवैध पुलिस स्टेशन चलने का भी राज खुला है. सांसद क्रिस स्मिथ ने डरावना बयान दिया है. सीसीपी दुनिया भर में अपना नेटवर्क चला रही है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डीपफेक से जासूसी तक! चीन के 'साइलेंस ऑपरेशन' पर अमेरिकी संसद में बवाल, ड्रैगन की गुप्त साजिशों का",
-          "summary": "सांसद क्रिस स्मिथ ने चीन के गुप्त नेटवर्क पर चिंता जताई है. चीन आलोचकों के परिवार वालों को हिरासत में लेता है. स्पाइवेयर और डीपफेक वीडियो का इस्तेमाल हो रहा है. अमेरिका में चीन के अवैध पुलिस स्टेशन चलने का भी राज खुला है. सांसद क्रिस स्मिथ ने डरावना बयान दिया है. सीसीपी दुनिया भर में अपना नेटवर्क चला रही है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ओमान के 'मीना अल फहल' पोर्ट से आई खुशखबरी, गिरीं तेल की कीमतें, भारत क्यों खुश?",
-      "url": "https://hindi.news18.com/world/middle-east-crude-oil-prices-drop-after-oman-denies-mina-al-fahal-port-blast-rumors-what-it-means-for-india-petrol-cng-rates-10542851.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-05T11:48:39+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Oman-Denies-Mina-al-Fahal-Port-Blast-2026-06-1aa6290c65894b4db3d70cf879d8a758-1200x800.jpg",
-      "summary": "ओमान के मीना अल फहल पोर्ट पर धमाके की अफवाहों से तेल की कीमतों में नरमी आई है. पेट्रोलियम डेवलपमेंट ओमान के स्पष्टीकरण के बाद ब्रेंट क्रूड $94.79 और डब्ल्यूटीआई क्रूड $92.48 प्रति बैरल पर आ गया है. ओमान के मीना अल फहल पोर्ट पर धमाके और तेल लोडिंग रुकने की अफवाहों से ग्लोबल मार्केट में हड़कंप मच गया था, लेकिन पेट्रोलियम डेवलपमेंट ओमान के आधिकारिक स्पष्टीकरण के बाद कच्चे तेल की कीमतों में नरमी दर्ज की गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ओमान के 'मीना अल फहल' पोर्ट से आई खुशखबरी, गिरीं तेल की कीमतें, भारत क्यों खुश?",
-          "summary": "ओमान के मीना अल फहल पोर्ट पर धमाके की अफवाहों से तेल की कीमतों में नरमी आई है. पेट्रोलियम डेवलपमेंट ओमान के स्पष्टीकरण के बाद ब्रेंट क्रूड $94.79 और डब्ल्यूटीआई क्रूड $92.48 प्रति बैरल पर आ गया है. ओमान के मीना अल फहल पोर्ट पर धमाके और तेल लोडिंग रुकने की अफवाहों से ग्लोबल मार्केट में हड़कंप मच गया था, लेकिन पेट्रोलियम डेवलपमेंट ओमान के आधिकारिक स्पष्टीकरण के बाद कच्चे तेल की कीमतों में नरमी दर्ज की गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पेपर लीक का लंबा इतिहास लेकिन सजा सीमित क्यों? कैसे कुछ ही आरोपी पहुंचते कटघरे और ज्यादातर बच निकलते",
-      "url": "https://www.abplive.com/education/neet-ug-students-future-dark-who-held-accountable-for-exam-paper-leaks-punishment-explained-3140748",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-05T11:47:38+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/05/bb8e3a5322c90c0f198a733603c69a2d17806599573031317_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारत में NEET UG, UGC-NET और अन्य परीक्षाओं के पेपर लीक के बाद जांच समितियां बनती हैं, कुछ गिरफ्तारियां होती हैं, लेकिन असली सरगना शायद ही कभी पकड़े जाते हैं. NCRB के आंकड़े बताते हैं कि ज्यादातर आरोपी बरी हो जाते हैं या केस सालों तक अदालतों में लटकते रहते हैं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पेपर लीक का लंबा इतिहास लेकिन सजा सीमित क्यों? कैसे कुछ ही आरोपी पहुंचते कटघरे और ज्यादातर बच निकलते",
-          "summary": "भारत में NEET UG, UGC-NET और अन्य परीक्षाओं के पेपर लीक के बाद जांच समितियां बनती हैं, कुछ गिरफ्तारियां होती हैं, लेकिन असली सरगना शायद ही कभी पकड़े जाते हैं. NCRB के आंकड़े बताते हैं कि ज्यादातर आरोपी बरी हो जाते हैं या केस सालों तक अदालतों में लटकते रहते हैं.",
-          "region": "दुनिया"
         }
       }
     }
