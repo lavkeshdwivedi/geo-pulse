@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-07T13:55:27.113654+00:00",
+  "generated_at": "2026-06-07T15:26:19.243361+00:00",
   "article_count": 50,
-  "total_unique_count": 268,
+  "total_unique_count": 267,
   "digest": {
-    "en": "South Sudan's displacement crisis and the deepening Middle East crisis dominate global headlines. Ukraine's drone strikes on St. Petersburg and Crimea's gasoline shortage signal ongoing conflict. Armenia's vote on its national future adds another layer of geopolitical tension.",
-    "hi": "इंडो-पैसिफिक में नया QUAD बन रहा है, जिसमें अमेरिका जापान को आगे बढ़ा रहा है। भारत और इंडोनेशिया ने सहयोग बढ़ाया है, जबकि ईरान होर्मुज जलडमरूमध्य पर अपनी शर्त रख रहा है।"
+    "en": "Ukrainian drones strike St. Petersburg while Crimea faces a gasoline shortage. Peru's voters face a stark left-right choice. South Korea grapples with electoral system failures.",
+    "hi": "बांग्लादेश तुर्की के साथ संबंध मजबूत कर रहा है, जो पाकिस्तान का सहयोगी है। यह भारत के लिए भू-राजनीतिक समीकरणों में बदलाव का संकेत देता है। इंडो-पैसिफिक में अमेरिका जापान को आगे बढ़ा रहा है, जिससे एक नया QUAD बन रहा है।"
   },
   "articles": [
     {
@@ -76,6 +76,18 @@
       "image_url": "https://gdb.rferl.org/b7a36cd3-e0d4-4941-e5af-08debadc7311_w1200_h630.jpg",
       "summary": "Ukraine launched drones at targets across Russia, including the St. Ukraine launched hundreds of drones at targets across Russia, including the St. Petersburg region, around 1,000 kilometers from the Ukrainian border. Residents filmed drones overhead and smoke rising from military sites. The attack came on the final day of Russia’s flagship investment forum. Ukrainian Drones Return To St. Petersburg As Russia’s Investment Forum Ends.",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Five things you need to know about ocean plastics",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167637",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-06T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/09-06-2025-Unsplash-Indonesia.jpg/image770x420cropped.jpg",
+      "summary": "Plastic items like surgical gloves, water bottles, and shopping bags are common in From surgical gloves to water bottles, shopping bags and chewing gum, every part of our daily lives includes plastic. They epitomise convenience – their durability makes our dependence on them inextricable, but it also stifles the environment. Five things you need to know about ocean plastics.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -296,16 +308,40 @@
       "translations": {}
     },
     {
-      "title": "World Ocean Assessment highlights urgent need for science and global action",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167646",
-      "source": "UN News",
+      "title": "बांग्लादेश बढ़ा रहा पाकिस्तान के दोस्त तुर्की से दोस्ती, भारत के लिए क्या मायने?",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-is-strengthening-ties-with-turkiye-what-does-this-mean-for-india-10548613.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-04T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/04-06-2026-Tahzib-Vevers-Earle-Cousteau.jpg/image770x420cropped.jpg",
-      "summary": "Diplomats, scientists, and ocean advocates gathered in New York on Tuesday. In the wood-panelled rooms of New York’s storied Explorers Club, where portraits of pioneering adventurers line the walls, diplomats, scientists and ocean advocates gathered on Tuesday evening with a shared sense of urgency – and anticipation. World Ocean Assessment highlights urgent need for science and global action.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-07T15:07:15+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Tarique-Rahman-turkey-2026-06-03cf06072180fef49b7c3183c0c33f82-1200x800.jpg",
+      "summary": "बांग्लादेश की प्रधानमंत्री शेख हसीना और तुर्की के विदेश मंत्री हाकान फिदान ने ढाका में मुलाकात की। दोनों देशों ने रक्षा और विदेश मामलों पर तंत्र स्थापित करने पर सहमति व्यक्त की। यह कदम भारत के लिए महत्वपूर्ण है। शनिवार को बांग्लादेश के प्रधानमंत्री तारिक रहमान और तुर्की के विदेश मंत्री हाकान फिदान के बीच हुई बातचीत हुई है. दोनों देशों में रक्षा और विदेश मामलों पर मैकेनिज्म बनाने पर सहमति बनी है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश बढ़ा रहा पाकिस्तान के दोस्त तुर्की से दोस्ती, भारत के लिए क्या मायने?",
+          "summary": "बांग्लादेश की प्रधानमंत्री शेख हसीना और तुर्की के विदेश मंत्री हाकान फिदान ने ढाका में मुलाकात की। दोनों देशों ने रक्षा और विदेश मामलों पर तंत्र स्थापित करने पर सहमति व्यक्त की। यह कदम भारत के लिए महत्वपूर्ण है। शनिवार को बांग्लादेश के प्रधानमंत्री तारिक रहमान और तुर्की के विदेश मंत्री हाकान फिदान के बीच हुई बातचीत हुई है. दोनों देशों में रक्षा और विदेश मामलों पर मैकेनिज्म बनाने पर सहमति बनी है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "गोली, गिरफ्तारी और ब्लैकआउट... मुजफ्फराबाद से रावलकोट तक उबाल, पाकिस्तानी सेना के साए में सुलग रहा",
+      "url": "https://hindi.news18.com/world/pakistan-gunfire-blackout-muzaffarabad-to-rawalakot-revolt-pok-huge-protest-pakistan-army-10548419.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-07T14:13:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/PoK-2026-06-d6413bf9f62a320b3a878462b71fe460-1200x800.jpg",
+      "summary": "मुजफ्फराबाद और रावलकोट में सार्वजनिक विरोध प्रदर्शनों के दौरान गोलीबारी और गिरफ्तारियां हुईं। प्रदर्शनकारियों ने आटे पर सब्सिडी बहाल करने, वीआईपी विशेषाधिकार समाप्त करने और गलत करों को वापस लेने की मांग की। सरकारी दमन के कारण दहशत फैल गई। जेके-जेएएसी ने अपनी 38 मांगों का राज खोला है. आटे पर सब्सिडी फिर से शुरू करने की मांग है. जज और अफसर के वीआईपी अधिकार खत्म करने का बवाल है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गोली, गिरफ्तारी और ब्लैकआउट... मुजफ्फराबाद से रावलकोट तक उबाल, पाकिस्तानी सेना के साए में सुलग रहा",
+          "summary": "मुजफ्फराबाद और रावलकोट में सार्वजनिक विरोध प्रदर्शनों के दौरान गोलीबारी और गिरफ्तारियां हुईं। प्रदर्शनकारियों ने आटे पर सब्सिडी बहाल करने, वीआईपी विशेषाधिकार समाप्त करने और गलत करों को वापस लेने की मांग की। सरकारी दमन के कारण दहशत फैल गई। जेके-जेएएसी ने अपनी 38 मांगों का राज खोला है. आटे पर सब्सिडी फिर से शुरू करने की मांग है. जज और अफसर के वीआईपी अधिकार खत्म करने का बवाल है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "इंडो-पैसिफिक में बन रहा नया QUAD, क्यों अमेरिका खुद को पीछे कर जापान को आगे बढ़ा रहा है?",
@@ -398,6 +434,24 @@
       }
     },
     {
+      "title": "पीएम मोदी का स्टेट डिनर बना व्हाइट हाउस के लिए चुनौती, बिना लहसुन के परोसा खाना, जिल बाइडेन ने बताई",
+      "url": "https://hindi.news18.com/world/america-how-pm-modi-state-dinner-challenges-white-house-without-garlic-dairy-food-served-jill-biden-book-ws-l-10548351.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-07T12:44:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/PM-WHITE-HOUSE-2026-06-4c7f38153c76870ca59bb0c9c2d369a9-1200x800.jpg",
+      "summary": "जून 2023 में प्रधानमंत्री मोदी के स्टेट डिनर के दौरान व्हाइट हाउस को शाकाहारी, वीगन, डेयरी-मुक्त और लहसुन-मुक्त व्यंजनों की मांग को पूरा करने में कठिनाई हुई। जिल बाइडेन ने बताया कि अंतिम समय में मेन्यू में बदलाव करने पड़े। PM Modi State Dinner Jill Biden: अमेरिका की पूर्व प्रथम महिला जिल बाइडेन ने अपनी किताब में जून, 2023 के पीएम मोदी के व्हाइट हाउस स्टेट डिनर का रोचक खुलासा किया है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी का स्टेट डिनर बना व्हाइट हाउस के लिए चुनौती, बिना लहसुन के परोसा खाना, जिल बाइडेन ने बताई",
+          "summary": "जून 2023 में प्रधानमंत्री मोदी के स्टेट डिनर के दौरान व्हाइट हाउस को शाकाहारी, वीगन, डेयरी-मुक्त और लहसुन-मुक्त व्यंजनों की मांग को पूरा करने में कठिनाई हुई। जिल बाइडेन ने बताया कि अंतिम समय में मेन्यू में बदलाव करने पड़े। PM Modi State Dinner Jill Biden: अमेरिका की पूर्व प्रथम महिला जिल बाइडेन ने अपनी किताब में जून, 2023 के पीएम मोदी के व्हाइट हाउस स्टेट डिनर का रोचक खुलासा किया है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
       "title": "अब कानूनी लड़ाई पर उतरा बीजिंग, ताइवानी नेताओं को जेल भेजने की व्यूह रचना का खुलासा",
       "url": "https://www.patrika.com/world-news/china-taiwan-conflict-legal-warfare-us-report-puma-shen-news-20648104",
       "source": "Patrika (World)",
@@ -429,6 +483,42 @@
         "hi": {
           "title": "होर्मुज जलडमरूमध्य पर ईरान की नई शर्त, अमेरिका और सहयोगियों के लिए बढ़ सकती हैं मुश्किलें",
           "summary": "ईरान ने होर्मुज जलडमरूमध्य को फिर से खोलने के लिए 30 दिन की समयसीमा तय करने का संकेत दिया है। यह समयसीमा अमेरिका और उसके सहयोगियों द्वारा ईरान के खिलाफ सभी खतरों को समाप्त करने पर शुरू होगी। इस बयान से मुश्किलें बढ़ सकती हैं। Iran US Strait of Hormuz Deadline: दुनिया के सबसे महत्वपूर्ण समुद्री व्यापार मार्गों में शामिल होर्मुज जलडमरूमध्य को लेकर ईरान ने नया संकेत दिया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईयू नेताओं को बुला पाकिस्तान बजा रहा था डफली, अब ब्रिटेन के सांसदों ने पीओके पर चेहरे से हटा दिया",
+      "url": "https://hindi.news18.com/world/pakistan-british-mps-express-concern-over-tension-in-pok-seek-report-from-uk-government-10547907.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-07T12:00:54+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/POK-File-Photo-2026-06-272fcfc9555498e0be613aac5a0f8308-1200x800.jpg",
+      "summary": "पाकिस्तान अधिकृत कश्मीर में इंटरनेट और मोबाइल सेवाओं के बंद होने पर ब्रिटिश सांसदों ने चिंता व्यक्त की। उन्होंने एक पत्र में शांतिपूर्ण समाधान के लिए बातचीत का आह्वान किया। पत्र पर विभिन्न दलों के सांसदों के हस्ताक्षर थे। पाकिस्तान अधिकृत कश्मीर में इंटरनेट और मोबाइल फोन सेवा बंद होने पर ब्रिटिश सासंदों ने एक लेटर लिखा है. लेटर में अलग-अलग दलों के कई ब्रिटिश सांसदों और लॉर्ड्स के साइन हैं.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईयू नेताओं को बुला पाकिस्तान बजा रहा था डफली, अब ब्रिटेन के सांसदों ने पीओके पर चेहरे से हटा दिया",
+          "summary": "पाकिस्तान अधिकृत कश्मीर में इंटरनेट और मोबाइल सेवाओं के बंद होने पर ब्रिटिश सांसदों ने चिंता व्यक्त की। उन्होंने एक पत्र में शांतिपूर्ण समाधान के लिए बातचीत का आह्वान किया। पत्र पर विभिन्न दलों के सांसदों के हस्ताक्षर थे। पाकिस्तान अधिकृत कश्मीर में इंटरनेट और मोबाइल फोन सेवा बंद होने पर ब्रिटिश सासंदों ने एक लेटर लिखा है. लेटर में अलग-अलग दलों के कई ब्रिटिश सांसदों और लॉर्ड्स के साइन हैं.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "इजरायल में गोलीबारी में एक व्यक्ति की मौत, घटनास्थल पर पहुंचे PM नेतन्याहू, सुरक्षा स्थिति का लिया",
+      "url": "https://www.patrika.com/world-news/one-person-killed-in-a-shooting-in-israel-pm-netanyahu-visits-reviews-security-situation-20648011",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-07T11:44:14+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/benjamin-netanyahu.webp",
+      "summary": "कोचाव याइर के पास गोलीबारी में एक व्यक्ति की मौत हो गई और पांच घायल हो गए। इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू घटनास्थल पर पहुंचे और सुरक्षा स्थिति का जायजा लिया। एक घायल की हालत गंभीर बनी हुई है। इजरायल के केंद्रीय इलाके कोचाव याइर के पास गोलीबारी हुई। इस हमले में एक व्यक्ति की मौत हो गई, जबकि पांच लोग घायल हो गए।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजरायल में गोलीबारी में एक व्यक्ति की मौत, घटनास्थल पर पहुंचे PM नेतन्याहू, सुरक्षा स्थिति का लिया",
+          "summary": "कोचाव याइर के पास गोलीबारी में एक व्यक्ति की मौत हो गई और पांच घायल हो गए। इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू घटनास्थल पर पहुंचे और सुरक्षा स्थिति का जायजा लिया। एक घायल की हालत गंभीर बनी हुई है। इजरायल के केंद्रीय इलाके कोचाव याइर के पास गोलीबारी हुई। इस हमले में एक व्यक्ति की मौत हो गई, जबकि पांच लोग घायल हो गए।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -506,6 +596,42 @@
       }
     },
     {
+      "title": "अमेरिका में पिज्जा डिलीवरी कर रहे भारतीय युवक की गोली मारकर हत्या",
+      "url": "https://www.patrika.com/national-news/hyderabad-man-shot-dead-in-us-anshul-kuncha-philadelphia-pizza-delivery-attack-20647747",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-07T10:00:03+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Hyderabad-Man-Shot-Dead-in-US-1.webp",
+      "summary": "अमेरिका के फिलाडेल्फिया में 28 वर्षीय अंशुल कुंचा की गोली मारकर हत्या कर दी गई। हैदराबाद के रहने वाले 28 वर्षीय अंशुल कुंचा की फिलाडेल्फिया में गोली मारकर हत्या कर दी गई है। अंशुल वहां पार्ट-टाइम पिज्जा डिलीवरी का काम करते थे। परिवार के मुताबिक, डिलीवरी के दौरान उन पर कई गोलियां चलाई गईं। घटना के बाद परिवार में मातम पसरा हुआ है, वहीं भारतीय वाणिज्य दूतावास ने भी गहरा दुख जताते हुए हर संभव सहायता का भरोसा दिलाय।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में पिज्जा डिलीवरी कर रहे भारतीय युवक की गोली मारकर हत्या",
+          "summary": "अमेरिका के फिलाडेल्फिया में 28 वर्षीय अंशुल कुंचा की गोली मारकर हत्या कर दी गई। हैदराबाद के रहने वाले 28 वर्षीय अंशुल कुंचा की फिलाडेल्फिया में गोली मारकर हत्या कर दी गई है। अंशुल वहां पार्ट-टाइम पिज्जा डिलीवरी का काम करते थे। परिवार के मुताबिक, डिलीवरी के दौरान उन पर कई गोलियां चलाई गईं। घटना के बाद परिवार में मातम पसरा हुआ है, वहीं भारतीय वाणिज्य दूतावास ने भी गहरा दुख जताते हुए हर संभव सहायता का भरोसा दिलाय।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'बोर हो गया था, मन ही नहीं लगता', करोड़ों की नौकरी छोड़कर इंजीनियर ने खोल ली नूडल्स की दुकान",
+      "url": "https://hindi.news18.com/world/rest-of-world-meta-software-engineer-quits-job-worth-crores-opened-noodle-shop-with-girlfriend-claims-happier-now-ws-l-10547683.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-07T09:43:51+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/meta-engineering-2026-06-403647a5a37a7fba13a27f3dad3ff196-1200x800.jpg",
+      "summary": "सिंगापुर के पूर्व मेटा इंजीनियर एल्विन टैन ने अपनी ऊंची तनख्वाह वाली सॉफ्टवेयर इंजीनियरिंग की नौकरी छोड़ दी। Engineer Quits Job to Open Noodles: सिंगापुर के पूर्व मेटा इंजीनियर एल्विन टैन ने ऊंची तनख्वाह वाली नौकरी छोड़कर नूडल्स बेचने का फैसला किया. उनका कहना है कि सॉफ्टवेयर इंजीनियरिंग उन्हें बोरिंग लगने लगी थी. अब वह गेलांग में उमामी बॉम्ब नाम का स्टॉल चलाते हैं, जहां हॉकियन मी बेचते हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'बोर हो गया था, मन ही नहीं लगता', करोड़ों की नौकरी छोड़कर इंजीनियर ने खोल ली नूडल्स की दुकान",
+          "summary": "सिंगापुर के पूर्व मेटा इंजीनियर एल्विन टैन ने अपनी ऊंची तनख्वाह वाली सॉफ्टवेयर इंजीनियरिंग की नौकरी छोड़ दी। Engineer Quits Job to Open Noodles: सिंगापुर के पूर्व मेटा इंजीनियर एल्विन टैन ने ऊंची तनख्वाह वाली नौकरी छोड़कर नूडल्स बेचने का फैसला किया. उनका कहना है कि सॉफ्टवेयर इंजीनियरिंग उन्हें बोरिंग लगने लगी थी. अब वह गेलांग में उमामी बॉम्ब नाम का स्टॉल चलाते हैं, जहां हॉकियन मी बेचते हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "हिज़बुल्लाह ने दागे दो रॉकेट्स, इज़रायली सेना ने हवा में ही मार गिराए",
       "url": "https://www.patrika.com/world-news/israel-army-intercepts-two-rockets-launched-from-lebanon-20647468",
       "source": "Patrika (World)",
@@ -519,6 +645,24 @@
         "hi": {
           "title": "हिज़बुल्लाह ने दागे दो रॉकेट्स, इज़रायली सेना ने हवा में ही मार गिराए",
           "summary": "हिज़बुल्लाह ने इज़रायल पर दो रॉकेट दागे। इज़राइली सेना ने उन्हें हवा में ही मार गिराया। यह घटना अमेरिका की मध्यस्थता में हुए सीज़फायर के बाद हुई। इज़रायल (Israel) और लेबनान (Lebanon) के बीच अमेरिका (United States of America) के राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) की मध्यस्थता में कुछ दिन पहले ही एक बार फिर सीज़फायर हुआ, लेकिन यह भी पिछले सभी सीज़फायर की तरह बेअसर रहा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मुनीर का खास पैगाम लेकर ईरान पहुंचे मोहसिन नकवी, खामेनेई को क्या मैसेज दिया?",
+      "url": "https://hindi.news18.com/world/pakistan-mohsin-naqvi-tehran-visit-asim-munir-message-to-iran-supreme-leader-pakistan-iran-relations-10547541.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-07T08:20:44+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/mohsin-naqvi-1-2026-06-f02fbd8e5a74efe40fcde6f74c8e9e91-1200x800.jpg",
+      "summary": "पाकिस्तान के गृह मंत्री मोहसिन नकवी शनिवार रात तेहरान पहुंचे। ईरानी मीडिया के मुताबिक नकवी पाकिस्तान के सेना प्रमुख फील्ड मार्शल असीम मुनीर का विशेष संदेश लेकर पहुंचे हैं, जिसे ईरान के सर्वोच्च नेता आयतुल्लाह सैय्यद मोजतबा खामेनेई तक पहुंचाया जाना है. मुनीर का खास पैगाम लेकर ईरान पहुंचे मोहसिन नकवी, खामेनेई को क्या मैसेज दिया?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मुनीर का खास पैगाम लेकर ईरान पहुंचे मोहसिन नकवी, खामेनेई को क्या मैसेज दिया?",
+          "summary": "पाकिस्तान के गृह मंत्री मोहसिन नकवी शनिवार रात तेहरान पहुंचे। ईरानी मीडिया के मुताबिक नकवी पाकिस्तान के सेना प्रमुख फील्ड मार्शल असीम मुनीर का विशेष संदेश लेकर पहुंचे हैं, जिसे ईरान के सर्वोच्च नेता आयतुल्लाह सैय्यद मोजतबा खामेनेई तक पहुंचाया जाना है. मुनीर का खास पैगाम लेकर ईरान पहुंचे मोहसिन नकवी, खामेनेई को क्या मैसेज दिया?",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -560,6 +704,42 @@
       }
     },
     {
+      "title": "भारत में गिरती प्रजनन दर पर एलन मस्क ने जताई चिंता",
+      "url": "https://www.patrika.com/world-news/elon-musk-flags-india-s-falling-fertility-rate-20647213",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-07T08:02:18+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/elon_musk.webp",
+      "summary": "एलन मस्क ने भारत में गिरती प्रजनन दर पर एक रिपोर्ट पर चिंता व्यक्त की। दुनियाभर में गिरती प्रजनन दर चिंता का विषय है। कई देशों में प्रजनन दर (Fertility Rate) कम होने से युवा जनसंख्या के मुकाबले बुज़ुर्गों की संख्या बढ़ रही है। दुनिया के सबसे अमीर शख्स एलन मस्क (Elon Musk) अक्सर ही इस पर चिंता जाहिर करते हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत में गिरती प्रजनन दर पर एलन मस्क ने जताई चिंता",
+          "summary": "एलन मस्क ने भारत में गिरती प्रजनन दर पर एक रिपोर्ट पर चिंता व्यक्त की। दुनियाभर में गिरती प्रजनन दर चिंता का विषय है। कई देशों में प्रजनन दर (Fertility Rate) कम होने से युवा जनसंख्या के मुकाबले बुज़ुर्गों की संख्या बढ़ रही है। दुनिया के सबसे अमीर शख्स एलन मस्क (Elon Musk) अक्सर ही इस पर चिंता जाहिर करते हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "शहरों से भी मॉडर्न है ये जनजाति, सज-धजकर मंडराती है मर्दों की फौज, जिसे चाहें चुन लें महिलाएं, कर",
+      "url": "https://hindi.news18.com/world/rest-of-world-africa-tribe-where-women-choose-many-partners-men-compete-for-love-in-a-festival-of-beauty-ws-l-10547442.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-07T07:55:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/tribes-1-2026-06-4523674aa1c8017aade068186055986a-1200x800.jpg",
+      "summary": "एक अफ्रीकी जनजाति में महिलाओं को अपने साथी चुनने की अधिक स्वतंत्रता है। Tribes Where Woman Choose Partners: दुनिया कितनी भी मॉडर्न हो जाए, आज भी ज्यादातर देशों में महिलाओं को अपने लिए उस तरह से पार्टनर चुनने की आजादी नहीं है. हालांकि एक ऐसी अफ्रीकी जनजाति भी है, जहां महिलाओं को पुरुषों से ज्यादा आजादी है. वे अपने लिए सजे-धजे पुरुषों के बीच से पार्टनर चुनती हैं और इसके लिए उन्हें बाकायदा विकल्प मिलते हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शहरों से भी मॉडर्न है ये जनजाति, सज-धजकर मंडराती है मर्दों की फौज, जिसे चाहें चुन लें महिलाएं, कर",
+          "summary": "एक अफ्रीकी जनजाति में महिलाओं को अपने साथी चुनने की अधिक स्वतंत्रता है। Tribes Where Woman Choose Partners: दुनिया कितनी भी मॉडर्न हो जाए, आज भी ज्यादातर देशों में महिलाओं को अपने लिए उस तरह से पार्टनर चुनने की आजादी नहीं है. हालांकि एक ऐसी अफ्रीकी जनजाति भी है, जहां महिलाओं को पुरुषों से ज्यादा आजादी है. वे अपने लिए सजे-धजे पुरुषों के बीच से पार्टनर चुनती हैं और इसके लिए उन्हें बाकायदा विकल्प मिलते हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "ट्रंप-नेतन्याहू की दोस्ती में दरार! अमेरिका के खिलाफ इजरायली जासूसी का बढ़ा खतरा, पहले भी आ चुके हैं",
       "url": "https://www.patrika.com/world-news/pentagon-raises-israel-espionage-threat-to-critical-amid-growing-trump-netanyahu-rift-20647345",
       "source": "Patrika (World)",
@@ -573,186 +753,6 @@
         "hi": {
           "title": "ट्रंप-नेतन्याहू की दोस्ती में दरार! अमेरिका के खिलाफ इजरायली जासूसी का बढ़ा खतरा, पहले भी आ चुके हैं",
           "summary": "पेंटागन की एक रिपोर्ट के अनुसार, अमेरिका और इज़रायल के बीच जासूसी का खतरा बढ़ गया है। यह रिपोर्ट ईरान पर संयुक्त हमले के बाद आई है। Pentagon Intelligence Report: अमेरिका और इजरायल ने साथ मिलकर 28 फरवरी को ईरान पर हमला किया था। लेकिन दोनों देशों के बीच सब कुछ पहले जैसा नहीं रहा? हालिया रिपोर्टों ने दोनों देशों के रिश्तों को लेकर नए सवाल खड़े कर दिए हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "न बम चला न गोला, फिर भी पाकिस्‍तान में मचा हाहाकार, भारत ने किया ऐसे ब्रह्मास्‍त्र का इस्‍तेमाल",
-      "url": "https://hindi.news18.com/news/nation/indus-water-treaty-suspended-pakistan-facing-acute-water-crisis-economic-massacre-kind-situation-paralysed-normal-life-10547502.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-07T07:39:41+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/indus-water-treaty-2-2026-06-98fb6f656372cf955fd1af638d76fed1-1200x800.jpg",
-      "summary": "भारत ने पहलगाम में आतंकवादी हमले के बाद सिंधु जल समझौते के तहत पाकिस्तान को मिलने वाले पानी के उपयोग को राष्ट्रीय हितों में मोड़ने का निर्णय लिया है। Indus Water Treaty News: पहलगाम में टेरर अटैक के बाद भारत दशकों पुराने सिंधु जल समझौते से पीछे हट गया. इसके बाद इस संधि के तहत पाकिस्‍तान को जिन नदियों का पानी मिल रहा था, उसका इस्‍तेमाल राष्‍ट्रीय हितों में किया जाने लगा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "न बम चला न गोला, फिर भी पाकिस्‍तान में मचा हाहाकार, भारत ने किया ऐसे ब्रह्मास्‍त्र का इस्‍तेमाल",
-          "summary": "भारत ने पहलगाम में आतंकवादी हमले के बाद सिंधु जल समझौते के तहत पाकिस्तान को मिलने वाले पानी के उपयोग को राष्ट्रीय हितों में मोड़ने का निर्णय लिया है। Indus Water Treaty News: पहलगाम में टेरर अटैक के बाद भारत दशकों पुराने सिंधु जल समझौते से पीछे हट गया. इसके बाद इस संधि के तहत पाकिस्‍तान को जिन नदियों का पानी मिल रहा था, उसका इस्‍तेमाल राष्‍ट्रीय हितों में किया जाने लगा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज में बढ़ा तनाव, अमेरिकी सेना ने मार गिराए ईरान के दो ड्रोन",
-      "url": "https://www.patrika.com/world-news/us-iran-conflict-hormuz-drones-shot-down-kuwait-bahrain-missile-attack-middle-east-tensions-20646846",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-07T04:41:29+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Iran-Drones-Shot-Down.webp",
-      "summary": "अमेरिकी सेना ने होर्मुज जलडमरूमध्य में ईरान के दो ड्रोन मार गिराए। अमेरिकी सेंट्रल कमांड ने कहा कि ये ड्रोन वाणिज्यिक जहाजों के लिए खतरा थे। US-Iran War: पश्चिम एशिया में एक बार फिर से तनाव बढ़ गया है। अमेरिकी सेना ने दावा किया कि उसने होर्मुज में वाणिज्यिक जहाजों के लिए खतरा बने ईरान के दो आत्मघाती (वन-वे अटैक) ड्रोन को मार गिराया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज में बढ़ा तनाव, अमेरिकी सेना ने मार गिराए ईरान के दो ड्रोन",
-          "summary": "अमेरिकी सेना ने होर्मुज जलडमरूमध्य में ईरान के दो ड्रोन मार गिराए। अमेरिकी सेंट्रल कमांड ने कहा कि ये ड्रोन वाणिज्यिक जहाजों के लिए खतरा थे। US-Iran War: पश्चिम एशिया में एक बार फिर से तनाव बढ़ गया है। अमेरिकी सेना ने दावा किया कि उसने होर्मुज में वाणिज्यिक जहाजों के लिए खतरा बने ईरान के दो आत्मघाती (वन-वे अटैक) ड्रोन को मार गिराया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी का दिया हीरा अपने पास रखना चाहती थीं जिल बाइडन, लेकिन इस वजह से अमेरिकी सरकार को लौटाना",
-      "url": "https://www.amarujala.com/world/us-jill-biden-wanted-to-keep-the-diamond-given-by-pm-modi-but-because-of-this-she-had-to-return-it-us-govt-2026-06-07",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-07T04:31:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/07/jill-biden-wanted-to-keep-the-diamond-given-by-pm-modi-but-because-of-this-she-had-to-return-it-us_f86dee2bbe1c17df1954f77ad6ad258b.jpeg?w=750&dpr=1.0",
-      "summary": "जिल बाइडन प्रधानमंत्री मोदी द्वारा दिए गए हीरे को अपने पास रखना चाहती थीं. हालांकि, अमेरिकी सरकार के नियमों के कारण उन्हें यह उपहार सरकारी संपत्ति के रूप में लौटाना पड़ा. पीएम मोदी का दिया हीरा अपने पास रखना चाहती थीं जिल बाइडन, लेकिन इस वजह से अमेरिकी सरकार को लौटाना।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी का दिया हीरा अपने पास रखना चाहती थीं जिल बाइडन, लेकिन इस वजह से अमेरिकी सरकार को लौटाना",
-          "summary": "जिल बाइडन प्रधानमंत्री मोदी द्वारा दिए गए हीरे को अपने पास रखना चाहती थीं. हालांकि, अमेरिकी सरकार के नियमों के कारण उन्हें यह उपहार सरकारी संपत्ति के रूप में लौटाना पड़ा. पीएम मोदी का दिया हीरा अपने पास रखना चाहती थीं जिल बाइडन, लेकिन इस वजह से अमेरिकी सरकार को लौटाना।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "उत्तर कोरिया ने अमेरिका को दी खुली चुनौती, किम जोंग उन की बहन बोलीं- परमाणु हथियार नहीं छोड़ेंगे",
-      "url": "https://www.amarujala.com/world/north-korea-denuclearisation-nuclear-weapons-kim-yo-jong-statement-for-donald-trump-2026-06-07",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-07T04:26:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/07/kama-jaga-una-ka-bhana-na-amaraka-ka-tha-khal-canata_644dd736aa45a7e18b78f90533dca863.png?w=750&dpr=1.0",
-      "summary": "उत्तर कोरिया ने अमेरिका को सीधी चुनौती दी है. किम जोंग उन की बहन ने कहा कि देश अपने परमाणु हथियार नहीं छोड़ेगा. यह बयान अमेरिका के साथ बढ़ते तनाव के बीच आया है. North Korea: उत्तर कोरिया ने अमेरिका को दी खुली चुनौती, किम जोंग उन की बहन बोलीं- परमाणु हथियार नहीं छोड़ेंगे।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उत्तर कोरिया ने अमेरिका को दी खुली चुनौती, किम जोंग उन की बहन बोलीं- परमाणु हथियार नहीं छोड़ेंगे",
-          "summary": "उत्तर कोरिया ने अमेरिका को सीधी चुनौती दी है. किम जोंग उन की बहन ने कहा कि देश अपने परमाणु हथियार नहीं छोड़ेगा. यह बयान अमेरिका के साथ बढ़ते तनाव के बीच आया है. North Korea: उत्तर कोरिया ने अमेरिका को दी खुली चुनौती, किम जोंग उन की बहन बोलीं- परमाणु हथियार नहीं छोड़ेंगे।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका-ईरान बातचीत के बीच तेहरान पहुंचे पाकिस्तान के गृहमंत्री, शहबाज-मुनीर ने भेजा संदेश",
-      "url": "https://www.abplive.com/news/world/pakistan-interior-minister-mohsin-naqvi-iran-visit-special-message-to-mojtaba-khamenei-us-iran-tensions-3141382",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-07T04:15:10+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/07/5d75d161259b318c1ae345067a4a04e71780805677307425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पाकिस्तान के गृहमंत्री मोहसिन नकवी तेहरान पहुंचे हैं. वे फील्ड मार्शल आसिम मुनीर और प्रधानमंत्री शहबाज शरीफ का संदेश ईरान को देंगे. यह नकवी की ईरान की तीसरी यात्रा है, जो ईरान-अमेरिका तनाव के बीच हुई है. पाकिस्तान के गृहमंत्री मोहसिन नकवी एक बार फिर तेहरान की यात्रा पर पहुंच गए हैं. नकवी पाकिस्तान के फील्ड मार्शल आसिम मुनीर और प्रधानमंत्री शहबाज शरीफ का संदेश पहुंचाने के लिए ईरान गए हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका-ईरान बातचीत के बीच तेहरान पहुंचे पाकिस्तान के गृहमंत्री, शहबाज-मुनीर ने भेजा संदेश",
-          "summary": "पाकिस्तान के गृहमंत्री मोहसिन नकवी तेहरान पहुंचे हैं. वे फील्ड मार्शल आसिम मुनीर और प्रधानमंत्री शहबाज शरीफ का संदेश ईरान को देंगे. यह नकवी की ईरान की तीसरी यात्रा है, जो ईरान-अमेरिका तनाव के बीच हुई है. पाकिस्तान के गृहमंत्री मोहसिन नकवी एक बार फिर तेहरान की यात्रा पर पहुंच गए हैं. नकवी पाकिस्तान के फील्ड मार्शल आसिम मुनीर और प्रधानमंत्री शहबाज शरीफ का संदेश पहुंचाने के लिए ईरान गए हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी ने गिफ्ट में दिया था जो हीरा उसे रखना चाहती थी पूर्व अमेरिकी राष्ट्रपति जो बाइडन की पत्नी",
-      "url": "https://www.patrika.com/world-news/joe-biden-wife-jill-biden-wanted-to-keep-diamond-gifted-by-pm-narendra-modi-reveals-it-in-her-memoir-20646666",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-07T04:01:59+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/pm-narendra-modi-with-joe-and-jill-biden.webp",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी ने जून 2023 में अमेरिका दौरे पर तत्कालीन राष्ट्रपति जो बाइडन और उनकी पत्नी जिल बाइडन से मुलाकात की थी. मोदी ने बाइडन दंपति को एक हीरा उपहार में दिया था, जिसे जिल बाइडन रखना चाहती थीं. इस दौरान उन्होंने तत्कालीन अमेरिकी राष्ट्रपति जो बाइडन (Joe Biden) और उनकी पत्नी जिल बाइडन (Jill Biden) से भी मुलाकात की थी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी ने गिफ्ट में दिया था जो हीरा उसे रखना चाहती थी पूर्व अमेरिकी राष्ट्रपति जो बाइडन की पत्नी",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी ने जून 2023 में अमेरिका दौरे पर तत्कालीन राष्ट्रपति जो बाइडन और उनकी पत्नी जिल बाइडन से मुलाकात की थी. मोदी ने बाइडन दंपति को एक हीरा उपहार में दिया था, जिसे जिल बाइडन रखना चाहती थीं. इस दौरान उन्होंने तत्कालीन अमेरिकी राष्ट्रपति जो बाइडन (Joe Biden) और उनकी पत्नी जिल बाइडन (Jill Biden) से भी मुलाकात की थी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अब जब्त ईरानी फंड से युद्ध का हिसाब चुकाने की तैयारी में अमेरिका, ट्रंप ने बनाया ये बड़ा प्लान",
-      "url": "https://www.amarujala.com/world/us-prepares-to-cover-war-costs-using-seized-iranian-funds-trump-devises-major-plan-2026-06-07",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-07T03:02:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/07/danalda-tarapa-amaraka-ka-rashhatarapata_d7f9ebfe17212a3ed189274c8eac61d8.png?w=750&dpr=1.0",
-      "summary": "अमेरिका जब्त किए गए ईरानी फंड का उपयोग युद्ध के मुआवजे के लिए करने की योजना बना रहा है। पूर्व राष्ट्रपति डोनाल्ड ट्रम्प ने इस संबंध में एक योजना तैयार की है। यह फंड उन अमेरिकी नागरिकों को मुआवजा देने के लिए इस्तेमाल किया जाएगा जो ईरान द्वारा प्रायोजित आतंकवादी हमलों में पीड़ित हुए हैं। Donald Trump: अब जब्त ईरानी फंड से युद्ध का हिसाब चुकाने की तैयारी में अमेरिका, ट्रंप ने बनाया ये बड़ा प्लान।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब जब्त ईरानी फंड से युद्ध का हिसाब चुकाने की तैयारी में अमेरिका, ट्रंप ने बनाया ये बड़ा प्लान",
-          "summary": "अमेरिका जब्त किए गए ईरानी फंड का उपयोग युद्ध के मुआवजे के लिए करने की योजना बना रहा है। पूर्व राष्ट्रपति डोनाल्ड ट्रम्प ने इस संबंध में एक योजना तैयार की है। यह फंड उन अमेरिकी नागरिकों को मुआवजा देने के लिए इस्तेमाल किया जाएगा जो ईरान द्वारा प्रायोजित आतंकवादी हमलों में पीड़ित हुए हैं। Donald Trump: अब जब्त ईरानी फंड से युद्ध का हिसाब चुकाने की तैयारी में अमेरिका, ट्रंप ने बनाया ये बड़ा प्लान।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप की टेक टीम को बड़ा झटका, व्हाइट हाउस के AI सलाहकार श्रीराम कृष्णन देंगे इस्तीफा",
-      "url": "https://www.amarujala.com/world/white-house-ai-advisor-sriram-krishnan-to-resign-sriram-krishnan-blow-to-trumps-tech-team-2026-06-07",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-07T02:19:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/07/ai-nata-ka-bugdha-cahara-na-chhaugdha-tarapa-parashasana_a0d435e9c012bc57625d18905ae7c8b9.png?w=750&dpr=1.0",
-      "summary": "व्हाइट हाउस के AI सलाहकार श्रीराम कृष्णन ने इस्तीफा दे दिया है. यह डोनाल्ड ट्रंप की टेक टीम के लिए एक बड़ा झटका माना जा रहा है. कृष्णन ने यह निर्णय लिया है. Sriram Krishnan: ट्रंप की टेक टीम को बड़ा झटका, व्हाइट हाउस के AI सलाहकार श्रीराम कृष्णन देंगे इस्तीफा।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की टेक टीम को बड़ा झटका, व्हाइट हाउस के AI सलाहकार श्रीराम कृष्णन देंगे इस्तीफा",
-          "summary": "व्हाइट हाउस के AI सलाहकार श्रीराम कृष्णन ने इस्तीफा दे दिया है. यह डोनाल्ड ट्रंप की टेक टीम के लिए एक बड़ा झटका माना जा रहा है. कृष्णन ने यह निर्णय लिया है. Sriram Krishnan: ट्रंप की टेक टीम को बड़ा झटका, व्हाइट हाउस के AI सलाहकार श्रीराम कृष्णन देंगे इस्तीफा।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "बांग्लादेशी घुसपैठियों पर लगाम लगाने के लिए गृहमंत्री शाह का मास्टर प्लान, ऐसे लगेगी रोक",
-      "url": "https://www.abplive.com/news/india/hm-amit-shah-chaired-meeting-regarding-issues-related-border-areas-in-tripura-india-bangladesh-latest-news-3141323",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-07T01:37:34+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/06/5c5028cb11e06743f3f36847d0107d6717807675577321324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "केंद्रीय गृहमंत्री अमित शाह ने त्रिपुरा में बांग्लादेशी घुसपैठ रोकने के लिए एक योजना की समीक्षा की है. उन्होंने सीमावर्ती इलाकों में जमीन की खरीद-फरोख्त और निर्माण पर कड़ी नजर रखने का निर्देश दिया है. घुसपैठियों पर लगाम लगाने को लेकर केंद्रीय गृहमंत्री अमित शाह ने त्रिपुरा के सालबगान में एक अहम समीक्षा बैठक की है. उन्होंने सीमावर्ती इलाकों की जमीन की खरीद फरोख्त और निर्माण कार्य के अलावा लेन देन के मामले में कड़ी नजर रखने को कहा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेशी घुसपैठियों पर लगाम लगाने के लिए गृहमंत्री शाह का मास्टर प्लान, ऐसे लगेगी रोक",
-          "summary": "केंद्रीय गृहमंत्री अमित शाह ने त्रिपुरा में बांग्लादेशी घुसपैठ रोकने के लिए एक योजना की समीक्षा की है. उन्होंने सीमावर्ती इलाकों में जमीन की खरीद-फरोख्त और निर्माण पर कड़ी नजर रखने का निर्देश दिया है. घुसपैठियों पर लगाम लगाने को लेकर केंद्रीय गृहमंत्री अमित शाह ने त्रिपुरा के सालबगान में एक अहम समीक्षा बैठक की है. उन्होंने सीमावर्ती इलाकों की जमीन की खरीद फरोख्त और निर्माण कार्य के अलावा लेन देन के मामले में कड़ी नजर रखने को कहा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'मैंने हिटलर से प्रेरणा ली और...': तेलंगाना CM के हाइड्रा वाले बयान पर विवाद, तोड़फोड़ की तुलना",
-      "url": "https://www.amarujala.com/india-news/telangana-cm-revanth-reddy-s-hitler-remark-on-hydraa-sparks-political-row-2026-06-07",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-07T00:45:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/07/telangana_7df2e5cc1021affd9a5c27764179acd2.jpeg?w=750&dpr=1.0",
-      "summary": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी ने एक बयान में कहा कि उन्होंने हिटलर से प्रेरणा ली. उन्होंने तोड़फोड़ की तुलना ईरान से की. इस बयान पर राजनीतिक विवाद खड़ा हो गया है. 'मैंने हिटलर से प्रेरणा ली और ': तेलंगाना CM के हाइड्रा वाले बयान पर विवाद, तोड़फोड़ की तुलना।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मैंने हिटलर से प्रेरणा ली और...': तेलंगाना CM के हाइड्रा वाले बयान पर विवाद, तोड़फोड़ की तुलना",
-          "summary": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी ने एक बयान में कहा कि उन्होंने हिटलर से प्रेरणा ली. उन्होंने तोड़फोड़ की तुलना ईरान से की. इस बयान पर राजनीतिक विवाद खड़ा हो गया है. 'मैंने हिटलर से प्रेरणा ली और ': तेलंगाना CM के हाइड्रा वाले बयान पर विवाद, तोड़फोड़ की तुलना।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
