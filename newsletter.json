@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-08T17:55:40.811119+00:00",
+  "generated_at": "2026-06-08T20:20:03.217425+00:00",
   "article_count": 50,
-  "total_unique_count": 267,
+  "total_unique_count": 265,
   "digest": {
-    "en": "The Philippines earthquake and Apple's WWDC dominate headlines. Germany's UNSC loss and the Kremlin's comments on European leaders add to the global discourse. The Indonesian Rupiah's fall signals potential political instability.",
-    "hi": "ईरान और इज़राइल के बीच तनाव ने मध्य पूर्व को झकझोर दिया है। अमेरिकी हस्तक्षेप ने एक जहाज को रोका। पाकिस्तान के कब्जे वाले कश्मीर में हिंसा बढ़ी है।"
+    "en": "The U.S. judge striking down H-1B visa fees and the Seoul stock market's AI-driven drop dominate headlines. Meanwhile, German foreign policy faces scrutiny after a UNSC loss. The Philippines earthquake also registers as a significant event.",
+    "hi": "टिम कुक के एप्पल इवेंट ने नए आईओएस और सिरी पर ध्यान केंद्रित किया। वहीं, तमिलनाडु से कांग्रेस के प्रवीण चक्रवर्ती का राज्यसभा में निर्विरोध चुना जाना भी एक महत्वपूर्ण घटना है।"
   },
   "articles": [
+    {
+      "title": "U.S. judge strikes down Trump’s $100,000 H-1B visa fee, calls it unlawful",
+      "url": "https://www.thehindu.com/news/international/trumps-100000-h-1b-visa-fee-is-unlawful-us-judge-rules/article71078198.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-08T19:09:30+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/3ujkaw/article71078210.ece/alternates/LANDSCAPE_1200/2025-09-22T182538Z_712832388_RC26XGAVWJ86_RTRMADP_3_USA-TRUMP-VISA-INDIA.JPG",
+      "summary": "U. S. District Judge Leo Sorokin in Boston struck down a $100,000 fee for H-1B visas. The fee was announced by the Trump administration in September. A lawsuit filed by 20 Democratic state attorneys general challenged the fee. Judge Sorokin called the fee unlawful. District Judge Leo Sorokin in Boston issued the ruling in ‌a lawsuit filed by 20 Democratic state attorneys general challenging a fee Mr.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "California revenue miss, 8% Seoul collapse: AI investors be warned",
+      "url": "https://asiatimes.com/2026/06/california-revenue-miss-8-seoul-collapse-ai-investors-be-warned/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-06-08T17:55:12+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/SK-Hynix-chip-copy.jpg",
+      "summary": "Broadcom reported lower-than-expected revenue, impacting the artificial intelligence sector. South Korea's stock market fell over 8% following the news. Samsung Electronics dropped 10% and SK Hynix lost almost 8%. Taiwan's market also experienced a downturn. Japanese semiconductor stocks were similarly affected. Broadcom, a US supplier of the chips and networking technology that underpin the global artificial intelligence boom, missed revenue expectations last week.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Kremlin says Macron, Merz and Starmer talk of peace, but help Kyiv with new weapons to continue the",
       "url": "https://www.thehindu.com/news/international/kremlin-says-macron-merz-and-starmer-talk-of-peace-but-help-kyiv-with-new-weapons-to-continue-the-war/article71078146.ece",
@@ -16,18 +40,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/ol0fvr/article71078153.ece/alternates/LANDSCAPE_1200/Russia_Putin_43531.jpg",
       "summary": "The Kremlin stated French President Emmanuel Macron, German Chancellor Friedrich Merz, and The leaders of ‌Britain, Germany ​, and France said on June 7 they supported a proposal ‌for talks between Ukrainian President Volodymyr Zelenskiy and Russian President ‌Vladimir Putin to ​try to secure a ceasefire, ⁠and that ⁠Europe would play a ‌role. Kremlin says Macron, Merz and Starmer talk of peace, but help Kyiv with new weapons to continue the.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Apple WWDC 2026 LIVE | What to expect and where to watch the keynote",
-      "url": "https://www.thehindu.com/sci-tech/technology/apple-wwdc-2026-live-coverage-and-highlights-from-the-keynote/article71075729.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-08T17:46:47+00:00",
-      "image_url": "https://th-i.thgim.com/public/sci-tech/technology/h6q1jq/article71075712.ece/alternates/LANDSCAPE_1200/WWDC%202026.png",
-      "summary": "Apple's Worldwide Developers Conference 2026 began today, June Apple's WWDC this year runs between June 8 and June 12, and starts today at 22:30 IST. The key question for WWDC 2026 is whether or not the AI-enhanced Siri is finally ready to take the stage. Apple WWDC 2026 LIVE | What to expect and where to watch the keynote.",
-      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -296,16 +308,220 @@
       "translations": {}
     },
     {
-      "title": "Five things you need to know about ocean plastics",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167637",
-      "source": "UN News",
+      "title": "पेंशन के लालच में पिता की हत्या कर शव के टुकड़े किए; बेटे-बेटी को फांसी, पत्नी को उम्रकैद की सजा",
+      "url": "https://www.amarujala.com/india-news/hyderabad-court-sentences-son-and-daughter-to-death-wife-to-life-imprisonment-in-father-murder-case-2026-06-09",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-06T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/09-06-2025-Unsplash-Indonesia.jpg/image770x420cropped.jpg",
-      "summary": "Plastic items like surgical gloves, water bottles, and shopping bags are common in From surgical gloves to water bottles, shopping bags and chewing gum, every part of our daily lives includes plastic. They epitomise convenience – their durability makes our dependence on them inextricable, but it also stifles the environment. Five things you need to know about ocean plastics.",
+      "published_at": "2026-06-09T07:24:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/08/athalta_b362fb5d7260e6997303f72202e9c204.jpeg?w=750&dpr=1.0",
+      "summary": "हैदराबाद में, एक बेटे और बेटी को अपने पिता की हत्या करने और शव के टुकड़े करने के आरोप में मौत की सजा सुनाई गई। उनकी पत्नी को उम्रकैद की सजा मिली। यह अपराध पेंशन लाभों को हड़पने के लिए किया गया था। Hyderabad: पेंशन के लालच में पिता की हत्या कर शव के टुकड़े किए; बेटे-बेटी को फांसी, पत्नी को उम्रकैद की सजा।",
       "region": "World",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पेंशन के लालच में पिता की हत्या कर शव के टुकड़े किए; बेटे-बेटी को फांसी, पत्नी को उम्रकैद की सजा",
+          "summary": "हैदराबाद में, एक बेटे और बेटी को अपने पिता की हत्या करने और शव के टुकड़े करने के आरोप में मौत की सजा सुनाई गई। उनकी पत्नी को उम्रकैद की सजा मिली। यह अपराध पेंशन लाभों को हड़पने के लिए किया गया था। Hyderabad: पेंशन के लालच में पिता की हत्या कर शव के टुकड़े किए; बेटे-बेटी को फांसी, पत्नी को उम्रकैद की सजा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "तमिलनाडु से राज्यसभा निर्विरोध पहुंचेंगे कांग्रेस के प्रवीण चक्रवर्ती, टीवीके का मिला समर्थन",
+      "url": "https://www.amarujala.com/india-news/congress-candidate-praveen-chakravarty-set-to-be-elected-unopposed-to-rajya-sabha-from-tamil-nadu-2026-06-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-09T07:20:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/09/praveen-chakravarty_2f5e1a9ff013fa3e4d1dbeeece41eb94.jpeg?w=750&dpr=1.0",
+      "summary": "कांग्रेस उम्मीदवार प्रवीण चक्रवर्ती तमिलनाडु से राज्यसभा के लिए निर्विरोध चुने जाएंगे। उन्हें तमिलनाडु तमिझगा वाझिवुरिमई काची (TVK) पार्टी का समर्थन प्राप्त हुआ है। तमिलनाडु से राज्यसभा निर्विरोध पहुंचेंगे कांग्रेस के प्रवीण चक्रवर्ती, टीवीके का मिला समर्थन।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तमिलनाडु से राज्यसभा निर्विरोध पहुंचेंगे कांग्रेस के प्रवीण चक्रवर्ती, टीवीके का मिला समर्थन",
+          "summary": "कांग्रेस उम्मीदवार प्रवीण चक्रवर्ती तमिलनाडु से राज्यसभा के लिए निर्विरोध चुने जाएंगे। उन्हें तमिलनाडु तमिझगा वाझिवुरिमई काची (TVK) पार्टी का समर्थन प्राप्त हुआ है। तमिलनाडु से राज्यसभा निर्विरोध पहुंचेंगे कांग्रेस के प्रवीण चक्रवर्ती, टीवीके का मिला समर्थन।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "IOS 27 से लेकर नए Siri तक, टिम कुक के आखिरी इवेंट में क्या रहा खास?",
+      "url": "https://www.amarujala.com/photo-gallery/technology/tech-diary/wwdc-2026-highlights-apple-launches-ios-27-macos-27-and-ai-powered-siri-2026-06-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-09T07:14:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/20/apple-wwdc-2026_cb4c87a00d6a3a0d15eb18ae522da7ee.jpeg?w=750&dpr=1.0",
+      "summary": "एप्पल ने अपने वार्षिक WWDC 2026 कार्यक्रम में iOS 27 और AI-संचालित सिरी सहित कई सॉफ्टवेयर अपडेट पेश किए। कंपनी ने नए AI फीचर्स पर जोर दिया। Apple WWDC 2026: एपल ने अपने सालाना इवेंट WWDC 2026 में कई बड़े सॉफ्टवेयर अपडेट्स और AI आधारित फीचर्स की घोषणा की। IOS 27 से लेकर नए Siri तक, टिम कुक के आखिरी इवेंट में क्या रहा खास?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "IOS 27 से लेकर नए Siri तक, टिम कुक के आखिरी इवेंट में क्या रहा खास?",
+          "summary": "एप्पल ने अपने वार्षिक WWDC 2026 कार्यक्रम में iOS 27 और AI-संचालित सिरी सहित कई सॉफ्टवेयर अपडेट पेश किए। कंपनी ने नए AI फीचर्स पर जोर दिया। Apple WWDC 2026: एपल ने अपने सालाना इवेंट WWDC 2026 में कई बड़े सॉफ्टवेयर अपडेट्स और AI आधारित फीचर्स की घोषणा की। IOS 27 से लेकर नए Siri तक, टिम कुक के आखिरी इवेंट में क्या रहा खास?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हरियाणवी कलाकार ने दर्ज कराई रिपोर्ट, रागिनी कार्यक्रम के दौरान आरोपी को जड़ा था थप्पड़, जानें पूरा",
+      "url": "https://www.amarujala.com/uttar-pradesh/hathras/haryanvi-artist-files-complaint-had-slapped-accused-during-a-ragini-performance-in-up-2026-06-09",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-09T06:34:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/09/harayanaeva-kalkara_53dd3eb5a21de3d8fe268e6ed0018eae.png?w=750&dpr=1.0",
+      "summary": "हाथरस, उत्तर प्रदेश में एक रागिनी कलाकार ने एक अज्ञात व्यक्ति के खिलाफ छेड़खानी की रिपोर्ट दर्ज कराई है। घटना नगला नाई गांव में एक कार्यक्रम के दौरान हुई। यूपी के हाथरस स्थित सासनी कोतवाली क्षेत्र के गांव नगला नाई में आयोजित रागिनी कार्यक्रम के दौरान छेड़खानी के मामले में महिला कलाकार ने अज्ञात युवक के खिलाफ रिपोर्ट दर्ज कराई है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हरियाणवी कलाकार ने दर्ज कराई रिपोर्ट, रागिनी कार्यक्रम के दौरान आरोपी को जड़ा था थप्पड़, जानें पूरा",
+          "summary": "हाथरस, उत्तर प्रदेश में एक रागिनी कलाकार ने एक अज्ञात व्यक्ति के खिलाफ छेड़खानी की रिपोर्ट दर्ज कराई है। घटना नगला नाई गांव में एक कार्यक्रम के दौरान हुई। यूपी के हाथरस स्थित सासनी कोतवाली क्षेत्र के गांव नगला नाई में आयोजित रागिनी कार्यक्रम के दौरान छेड़खानी के मामले में महिला कलाकार ने अज्ञात युवक के खिलाफ रिपोर्ट दर्ज कराई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पति को मारकर शव के किए टुकड़े, सूटकेस में धड़ भर रेलवे स्टेशन पर फेंका; पत्नी-दोस्त गिरफ्तार",
+      "url": "https://www.amarujala.com/india-news/chennai-woman-friend-arrested-for-murdering-husband-dismembering-body-and-dumping-remains-across-city-2026-06-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-09T06:32:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/09/crime_a75e0d0c69f8e4d6bb3d9218f259b76d.jpeg?w=750&dpr=1.0",
+      "summary": "चेन्नई में, एक पत्नी और उसके दोस्त को पति की हत्या करने और शव के टुकड़े करने के आरोप में गिरफ्तार किया गया है। उन्होंने शव के धड़ को एक सूटकेस में भरकर रेलवे स्टेशन पर फेंक दिया था। चेन्नई हत्याकांड: पति को मारकर शव के किए टुकड़े, सूटकेस में धड़ भर रेलवे स्टेशन पर फेंका; पत्नी-दोस्त गिरफ्तार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पति को मारकर शव के किए टुकड़े, सूटकेस में धड़ भर रेलवे स्टेशन पर फेंका; पत्नी-दोस्त गिरफ्तार",
+          "summary": "चेन्नई में, एक पत्नी और उसके दोस्त को पति की हत्या करने और शव के टुकड़े करने के आरोप में गिरफ्तार किया गया है। उन्होंने शव के धड़ को एक सूटकेस में भरकर रेलवे स्टेशन पर फेंक दिया था। चेन्नई हत्याकांड: पति को मारकर शव के किए टुकड़े, सूटकेस में धड़ भर रेलवे स्टेशन पर फेंका; पत्नी-दोस्त गिरफ्तार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "काकोली घोष के नेतृत्व में TMC के 20 सांसदों ने की बगावत, लोकसभा स्पीकर से मिले!",
+      "url": "https://www.amarujala.com/video/india-news/tmc-mp-split-news-20-tmc-mps-led-by-kakoli-ghosh-rebelled-and-met-the-lok-sabha-speaker-2026-06-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-08T20:01:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/09/tmc-mp-split-news_b71c8b5c4225bf266bc131679cdb87fb.jpeg?w=750&dpr=1.0",
+      "summary": "तृणमूल कांग्रेस के 20 सांसदों ने काकोली घोष के नेतृत्व में लोकसभा अध्यक्ष से मुलाकात की। यह कदम पार्टी के भीतर असंतोष का संकेत देता है। सांसदों ने अपनी चिंताओं को स्पीकर के समक्ष रखा। TMC MP Split News: काकोली घोष के नेतृत्व में TMC के 20 सांसदों ने की बगावत, लोकसभा स्पीकर से मिले!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "काकोली घोष के नेतृत्व में TMC के 20 सांसदों ने की बगावत, लोकसभा स्पीकर से मिले!",
+          "summary": "तृणमूल कांग्रेस के 20 सांसदों ने काकोली घोष के नेतृत्व में लोकसभा अध्यक्ष से मुलाकात की। यह कदम पार्टी के भीतर असंतोष का संकेत देता है। सांसदों ने अपनी चिंताओं को स्पीकर के समक्ष रखा। TMC MP Split News: काकोली घोष के नेतृत्व में TMC के 20 सांसदों ने की बगावत, लोकसभा स्पीकर से मिले!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मणिपुर के कांगपोकपी में सुरक्षा स्वयंसेवक की गोली मारकर हत्या, नगा समुदाय में घटना को लेकर गुस्सा",
+      "url": "https://www.amarujala.com/india-news/today-news-updates-manipur-violence-village-guard-murder-pm-modi-2026-06-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-08T19:54:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/news-updates_ca1de28b7fdaaf42869b1b4c85518d48.jpeg?w=750&dpr=1.0",
+      "summary": "मणिपुर के कांगपोकपी जिले में एक सुरक्षा स्वयंसेवक की गोली मारकर हत्या कर दी गई। इस घटना ने नगा समुदाय में आक्रोश पैदा कर दिया है। राज्य में हिंसा जारी है। मणिपुर के कांगपोकपी में सुरक्षा स्वयंसेवक की गोली मारकर हत्या, नगा समुदाय में घटना को लेकर गुस्सा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मणिपुर के कांगपोकपी में सुरक्षा स्वयंसेवक की गोली मारकर हत्या, नगा समुदाय में घटना को लेकर गुस्सा",
+          "summary": "मणिपुर के कांगपोकपी जिले में एक सुरक्षा स्वयंसेवक की गोली मारकर हत्या कर दी गई। इस घटना ने नगा समुदाय में आक्रोश पैदा कर दिया है। राज्य में हिंसा जारी है। मणिपुर के कांगपोकपी में सुरक्षा स्वयंसेवक की गोली मारकर हत्या, नगा समुदाय में घटना को लेकर गुस्सा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारतीयों के लिए राहत, टैरिफ के बाद कोर्ट ने ट्रंप को दिया एक और झटका, H-1B वीजा पर भारी फीस का",
+      "url": "https://hindi.news18.com/world/america-donald-trump-decision-of-heavy-fees-on-h-1b-visa-canceled-by-federal-court-10551966.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-08T19:48:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Donald-Trump-Reuters-2026-05-8dba1693e1550e14f30f7797a57b3791-1200x800.jpg",
+      "summary": "एक अमेरिकी अदालत ने H-1B वीजा पर $100,000 की अतिरिक्त फीस लगाने के राष्ट्रपति ट्रंप के आदेश को खारिज कर दिया है। अदालत ने इसे अवैध टैक्स बताया। यह भारतीयों के लिए एक राहत है। अमेरिकी की एक अदालत ने नए एच-1बी वीजा पर 1 लाख डॉलर की लगाने के राष्ट्रपति डोनाल्ड ट्रम्प के कदम को खारिज कर दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारतीयों के लिए राहत, टैरिफ के बाद कोर्ट ने ट्रंप को दिया एक और झटका, H-1B वीजा पर भारी फीस का",
+          "summary": "एक अमेरिकी अदालत ने H-1B वीजा पर $100,000 की अतिरिक्त फीस लगाने के राष्ट्रपति ट्रंप के आदेश को खारिज कर दिया है। अदालत ने इसे अवैध टैक्स बताया। यह भारतीयों के लिए एक राहत है। अमेरिकी की एक अदालत ने नए एच-1बी वीजा पर 1 लाख डॉलर की लगाने के राष्ट्रपति डोनाल्ड ट्रम्प के कदम को खारिज कर दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "हूतियों ने भी कर दी शुरूआत, ईरान से मिलकर करेंगे इजरायल की नाक में दम, लाल सागर किया बंद",
+      "url": "https://hindi.news18.com/world/middle-east-yemen-s-houthis-fired-several-missiles-at-israel-s-jaffa-area-10551435.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-08T19:48:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Houthi-Reuters-2026-06-61fc519b652d33e79b6e1886f43ac298-1200x800.jpg",
+      "summary": "हूती समूह ने दावा किया कि उसने जाफा में इजरायल के ठिकानों पर मिसाइलें दागी हैं. समूह ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूर्ण प्रतिबंध की घोषणा की है. यमन के हूती समूह ने दावा किया कि उसने जाफा इलाके में इजरायल के ठिकानों को निशाना बनाकर ताबड़तोड़ मिसाइलें दागी हैं. हूती ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूरी तरह से बैन लगाने का एलान किया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हूतियों ने भी कर दी शुरूआत, ईरान से मिलकर करेंगे इजरायल की नाक में दम, लाल सागर किया बंद",
+          "summary": "हूती समूह ने दावा किया कि उसने जाफा में इजरायल के ठिकानों पर मिसाइलें दागी हैं. समूह ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूर्ण प्रतिबंध की घोषणा की है. यमन के हूती समूह ने दावा किया कि उसने जाफा इलाके में इजरायल के ठिकानों को निशाना बनाकर ताबड़तोड़ मिसाइलें दागी हैं. हूती ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूरी तरह से बैन लगाने का एलान किया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्यूबा में 6.1 तीव्रता का भूकंप: हवाना की इमारतें हिलीं, फ्लोरिडा तक महसूस हुए झटके; फिलहाल नुकसान",
+      "url": "https://www.amarujala.com/world/earthquake-strikes-near-cuba-shakes-buildings-tremors-felt-in-havana-and-parts-of-florida-2026-06-09",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-08T19:43:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/08/bhara_ff093edb1dba6f49af76d1a34f4ab113.jpeg?w=750&dpr=1.0",
+      "summary": "क्यूबा में 6.1 तीव्रता का भूकंप दर्ज किया गया। हवाना में इमारतें हिल गईं और फ्लोरिडा तक झटके महसूस किए गए। फिलहाल किसी नुकसान की सूचना नहीं है। क्यूबा में 6.1 तीव्रता का भूकंप: हवाना की इमारतें हिलीं, फ्लोरिडा तक महसूस हुए झटके; फिलहाल नुकसान की खबर नहीं।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्यूबा में 6.1 तीव्रता का भूकंप: हवाना की इमारतें हिलीं, फ्लोरिडा तक महसूस हुए झटके; फिलहाल नुकसान",
+          "summary": "क्यूबा में 6.1 तीव्रता का भूकंप दर्ज किया गया। हवाना में इमारतें हिल गईं और फ्लोरिडा तक झटके महसूस किए गए। फिलहाल किसी नुकसान की सूचना नहीं है। क्यूबा में 6.1 तीव्रता का भूकंप: हवाना की इमारतें हिलीं, फ्लोरिडा तक महसूस हुए झटके; फिलहाल नुकसान की खबर नहीं।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पीओके में क्यों भड़की हिंसा? झड़पों में चार पुलिसकर्मियों समेत 11 लोगों की हुई मौत",
+      "url": "https://www.patrika.com/world-news/why-did-violence-erupt-in-pakistan-occupied-kashmir-clashes-claim-11-lives-20651629",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-08T18:21:31+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/PoK-violence.webp",
+      "summary": "पाकिस्तान के कब्जे वाले कश्मीर में पुलिस और प्रदर्शनकारियों के बीच झड़पों में 11 लोगों की मौत हो गई। चार पुलिसकर्मी भी मारे गए। यह हिंसा एक प्रतिबंधित संगठन पर कार्रवाई के बाद भड़की। Pakistan-occupied Kashmir: पाकिस्तान के कब्जे वाले कश्मीर (पीओके) में पुलिस और प्रदर्शनकारियों के बीच हुई झड़प में 11 लोगों की मौत हो गई, जबकि 70 से ज्यादा लोग घायल हो गए।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीओके में क्यों भड़की हिंसा? झड़पों में चार पुलिसकर्मियों समेत 11 लोगों की हुई मौत",
+          "summary": "पाकिस्तान के कब्जे वाले कश्मीर में पुलिस और प्रदर्शनकारियों के बीच झड़पों में 11 लोगों की मौत हो गई। चार पुलिसकर्मी भी मारे गए। यह हिंसा एक प्रतिबंधित संगठन पर कार्रवाई के बाद भड़की। Pakistan-occupied Kashmir: पाकिस्तान के कब्जे वाले कश्मीर (पीओके) में पुलिस और प्रदर्शनकारियों के बीच हुई झड़प में 11 लोगों की मौत हो गई, जबकि 70 से ज्यादा लोग घायल हो गए।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दुबई सड़क हादसे में 7 भारतीय मजदूरों की मौत, 9 घायल, 5 की हालत गंभीर",
+      "url": "https://hindi.news18.com/world/middle-east-dubai-road-accident-7-indian-workers-killed-9-injured-10551905.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-08T18:10:14+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Dubai-Police-2026-06-53dd22c5c338c1354552f4c7884547b2-1200x800.jpg",
+      "summary": "दुबई में एक सड़क हादसे में सात भारतीय मजदूरों की मौत हो गई. इस दुर्घटना में एक मिनीबस और ट्रक की टक्कर हुई. दुबई के भारतीय दूतावास ने इस हादसे की जानकारी दी है. इनमें मरने वालों में 7 भारतीय मजदूर थे. हादसे में मिनीबस और ट्रक के बीच टक्कर हुई. दूतावास ने मरने वाले परिवारों के प्रति संवेदना व्यक्त की है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुबई सड़क हादसे में 7 भारतीय मजदूरों की मौत, 9 घायल, 5 की हालत गंभीर",
+          "summary": "दुबई में एक सड़क हादसे में सात भारतीय मजदूरों की मौत हो गई. इस दुर्घटना में एक मिनीबस और ट्रक की टक्कर हुई. दुबई के भारतीय दूतावास ने इस हादसे की जानकारी दी है. इनमें मरने वालों में 7 भारतीय मजदूर थे. हादसे में मिनीबस और ट्रक के बीच टक्कर हुई. दूतावास ने मरने वाले परिवारों के प्रति संवेदना व्यक्त की है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "US आर्मी ने माना- हमने ही रोका था वो जहाज, जिस पर सवार थे 24 भारतीय",
@@ -394,24 +610,6 @@
           "title": "‘तुम बेईमान और बेकूफ हो’ सवाल पूछते ही डोनाल्ड ट्रंप महिला पत्रकार पर भड़के, फेंक दिया माइक",
           "summary": "पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप एक लाइव इंटरव्यू के दौरान महिला पत्रकार क्रिस्टन वेल्कर पर भड़क गए। उन्होंने सवाल पूछे जाने पर माइक फेंक दिया और शो बीच में ही छोड़कर चले गए। यह घटना NBC के कार्यक्रम ‘मीट द प्रेस’ में हुई। Trump Angry at Journalist: अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर अपने तीखे अंदाज को लेकर सुर्खियों में हैं।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "हूतियों ने भी कर दी शुरूआत, ईरान से मिलकर करेंगे इजरायल की नाक में दम, क्या करेंगे ट्रंप?",
-      "url": "https://hindi.news18.com/world/middle-east-yemen-s-houthis-fired-several-missiles-at-israel-s-jaffa-area-10551435.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-08T15:26:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Houthi-Reuters-2026-06-61fc519b652d33e79b6e1886f43ac298-1200x800.jpg",
-      "summary": "हूती समूह ने दावा किया कि उसने जाफा में इजरायल के ठिकानों पर मिसाइलें दागी हैं. समूह ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूर्ण प्रतिबंध की घोषणा की है. यमन के हूती समूह ने दावा किया कि उसने जाफा इलाके में इजरायल के ठिकानों को निशाना बनाकर ताबड़तोड़ मिसाइलें दागी हैं. हूती ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूरी तरह से बैन लगाने का एलान किया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हूतियों ने भी कर दी शुरूआत, ईरान से मिलकर करेंगे इजरायल की नाक में दम, क्या करेंगे ट्रंप?",
-          "summary": "हूती समूह ने दावा किया कि उसने जाफा में इजरायल के ठिकानों पर मिसाइलें दागी हैं. समूह ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूर्ण प्रतिबंध की घोषणा की है. यमन के हूती समूह ने दावा किया कि उसने जाफा इलाके में इजरायल के ठिकानों को निशाना बनाकर ताबड़तोड़ मिसाइलें दागी हैं. हूती ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूरी तरह से बैन लगाने का एलान किया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -556,204 +754,6 @@
           "title": "देश के पास 60 दिनों का तेल-गैस रिजर्व भंडार, हरदीप पुरी ने बताया संकट से बचने का 'मेगा प्लान'",
           "summary": "भारत के पास 60 दिनों का तेल-गैस भंडार है. मध्य पूर्व में तनाव के कारण आपूर्ति प्रभावित हुई है. मिडिल ईस्ट में तनाव और संघर्ष की स्थिति लगातार बनी हुई है. बीते लगभग 100 दिनों से स्ट्रेट ऑफ होर्मुज बंद होने की वजह से दुनिया के कई देशों में कच्चे तेल और गैस की सप्लाई प्रभावित हुई है. इसका असर अंतरराष्ट्रीय बाजार में तेल की कीमतों पर भी देखने को मिल रहा है.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सीज़फायर के दौरान इज़रायल ने लेबनान पर लगभग 3,500 बार की बमबारी, लेबनानी पीएम नवाफ सलाम का बयान",
-      "url": "https://www.patrika.com/world-news/israel-bombed-lebanon-nearly-3500-times-during-ceasefire-says-pm-nawaf-salam-20650736",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-08T11:36:12+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/nawaf.webp",
-      "summary": "लेबनान के प्रधानमंत्री नवाफ सलाम ने कहा कि सीज़फायर के बावजूद इज़रायल ने लेबनान पर लगभग 3,500 बार बमबारी की है. अमेरिका (United States of America) के राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) के तमाम प्रयासों के बाद भी इज़रायल (Israel) और लेबनान (Lebanon) के बीच सीज़फायर का कोई असर नहीं हो रहा है। ट्रंप की मध्यस्थता में एक से ज़्यादा बार हुए सीज़फायर के बावजूद इज़रायली सेना लगातार लेबनान पर हमले कर रही है जिससे सीज़फायर का कोई मतलब नहीं रह गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीज़फायर के दौरान इज़रायल ने लेबनान पर लगभग 3,500 बार की बमबारी, लेबनानी पीएम नवाफ सलाम का बयान",
-          "summary": "लेबनान के प्रधानमंत्री नवाफ सलाम ने कहा कि सीज़फायर के बावजूद इज़रायल ने लेबनान पर लगभग 3,500 बार बमबारी की है. अमेरिका (United States of America) के राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) के तमाम प्रयासों के बाद भी इज़रायल (Israel) और लेबनान (Lebanon) के बीच सीज़फायर का कोई असर नहीं हो रहा है। ट्रंप की मध्यस्थता में एक से ज़्यादा बार हुए सीज़फायर के बावजूद इज़रायली सेना लगातार लेबनान पर हमले कर रही है जिससे सीज़फायर का कोई मतलब नहीं रह गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "फिलीपींस में तेज भूकंप से मरने वालों की संख्या हुई 32, 134 जख्मी, कई इमारतें गिरीं",
-      "url": "https://www.patrika.com/world-news/philippines-earthquake-magnitude-7-8-death-toll-rises-to-32-rescue-operation-updates-20650708",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-08T11:29:25+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Earthquake-in-Philippines.webp",
-      "summary": "फिलीपींस में 7.8 तीव्रता के भूकंप से मरने वालों की संख्या बढ़कर 32 हो गई है. 134 लोग घायल हुए हैं और कई इमारतें गिर गई हैं. Devastation: फिलीपींस में आए बेहद शक्तिशाली भूकंप से चारों तरफ भारी तबाही मच गई है। रिक्टर पैमाने पर 7.8 की तीव्रता वाले इस भीषण भूकंप के कारण कई बहुमंजिला इमारतें, रिहायशी मकान और व्यावसायिक परिसर जमींदोज हो गए हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिलीपींस में तेज भूकंप से मरने वालों की संख्या हुई 32, 134 जख्मी, कई इमारतें गिरीं",
-          "summary": "फिलीपींस में 7.8 तीव्रता के भूकंप से मरने वालों की संख्या बढ़कर 32 हो गई है. 134 लोग घायल हुए हैं और कई इमारतें गिर गई हैं. Devastation: फिलीपींस में आए बेहद शक्तिशाली भूकंप से चारों तरफ भारी तबाही मच गई है। रिक्टर पैमाने पर 7.8 की तीव्रता वाले इस भीषण भूकंप के कारण कई बहुमंजिला इमारतें, रिहायशी मकान और व्यावसायिक परिसर जमींदोज हो गए हैं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ममता बनर्जी को बड़ा झटका, TMC के 20 सांसदों की लोकसभा स्पीकर को चिट्ठी, एनडीए को किया समर्थन",
-      "url": "https://www.abplive.com/news/india/big-setback-for-mamata-banerjee-as-20-tmc-mps-to-support-bjp-led-nda-3142035",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-08T10:59:12+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/53ea48905b5d6b758f4bd4977dc1e6541780916963483120_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तृणमूल कांग्रेस के 20 सांसदों ने लोकसभा अध्यक्ष को पत्र लिखकर एनडीए को समर्थन देने की इच्छा जताई है. पार्टी के 20 सांसदों ने लोकसभा स्पीकर Om Birla को पत्र लिखकर एनडीए में शामिल होने की इच्छा जताई है. समाचार एजेंसी पीटीआई के अनुसार, Kakoli Dastidar ने कहा कि उनके समेत 20 सांसदों ने बीजेपी के नेतृत्व वाले एनडीए को समर्थन देने का फैसला किया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ममता बनर्जी को बड़ा झटका, TMC के 20 सांसदों की लोकसभा स्पीकर को चिट्ठी, एनडीए को किया समर्थन",
-          "summary": "तृणमूल कांग्रेस के 20 सांसदों ने लोकसभा अध्यक्ष को पत्र लिखकर एनडीए को समर्थन देने की इच्छा जताई है. पार्टी के 20 सांसदों ने लोकसभा स्पीकर Om Birla को पत्र लिखकर एनडीए में शामिल होने की इच्छा जताई है. समाचार एजेंसी पीटीआई के अनुसार, Kakoli Dastidar ने कहा कि उनके समेत 20 सांसदों ने बीजेपी के नेतृत्व वाले एनडीए को समर्थन देने का फैसला किया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मिडिल ईस्ट में फिर शुरू हुई जंग! भारत के पास कितने दिन के कच्चे तेल का स्टॉक? हरदीप पुरी ने दिया",
-      "url": "https://www.abplive.com/news/india/union-petroleum-minister-hardeep-singh-puri-on-indian-energy-reserve-and-petrol-diesel-lpg-price-hike-amid-west-asia-conflicts-ann-3142037",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-08T10:57:25+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/b3898d687f3d93232273ece6faa8cb5a17809168316991126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पश्चिम एशिया में युद्ध और तनाव के कारण भारत में पेट्रोल, डीजल और एलपीजी की कीमतों में वृद्धि हुई है। पेट्रोलियम मंत्री हरदीप सिंह पुरी ने बताया कि भारत के पास फिलहाल 45 दिनों के कच्चे तेल का स्टॉक है। यह स्टॉक देश की ऊर्जा सुरक्षा के लिए महत्वपूर्ण है। पश्चिम एशिया में अमेरिका-इजरायल और ईरान के बीच लगातार जारी युद्ध और तनाव की वजह से वैश्विक स्तर पर ऊर्जा आपूर्ति पर संकट छाया हुआ है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिडिल ईस्ट में फिर शुरू हुई जंग! भारत के पास कितने दिन के कच्चे तेल का स्टॉक? हरदीप पुरी ने दिया",
-          "summary": "पश्चिम एशिया में युद्ध और तनाव के कारण भारत में पेट्रोल, डीजल और एलपीजी की कीमतों में वृद्धि हुई है। पेट्रोलियम मंत्री हरदीप सिंह पुरी ने बताया कि भारत के पास फिलहाल 45 दिनों के कच्चे तेल का स्टॉक है। यह स्टॉक देश की ऊर्जा सुरक्षा के लिए महत्वपूर्ण है। पश्चिम एशिया में अमेरिका-इजरायल और ईरान के बीच लगातार जारी युद्ध और तनाव की वजह से वैश्विक स्तर पर ऊर्जा आपूर्ति पर संकट छाया हुआ है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "असम में मंत्रियों के विभागों का बंटवारा, CM हिमंत बिस्वा सरमा ने अपने पास रखे अहम मंत्रालय",
-      "url": "https://www.abplive.com/news/india/assam-government-allocated-portfolios-to-ministers-cm-himanta-biswa-sarma-retained-several-key-ministries-including-home-power-and-public-works-3142001",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-08T10:45:33+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/2e17ed0670d0763e12652663c1f8fff917809129032191115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा ने अपने मंत्रिमंडल के सदस्यों के बीच विभागों का बंटवारा कर दिया है। राज्यपाल की मंजूरी के बाद यह निर्णय लिया गया। मुख्यमंत्री ने गृह, लोक निर्माण और बिजली जैसे महत्वपूर्ण विभाग अपने पास रखे हैं। असम सरकार में मंत्रियों के बीच विभागों का बंटवारा कर दिया गया है. मुख्यमंत्री ने बताया कि राज्यपाल की मंजूरी के बाद मंत्रिपरिषद के सभी सदस्यों को उनके विभाग सौंप दिए गए हैं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "असम में मंत्रियों के विभागों का बंटवारा, CM हिमंत बिस्वा सरमा ने अपने पास रखे अहम मंत्रालय",
-          "summary": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा ने अपने मंत्रिमंडल के सदस्यों के बीच विभागों का बंटवारा कर दिया है। राज्यपाल की मंजूरी के बाद यह निर्णय लिया गया। मुख्यमंत्री ने गृह, लोक निर्माण और बिजली जैसे महत्वपूर्ण विभाग अपने पास रखे हैं। असम सरकार में मंत्रियों के बीच विभागों का बंटवारा कर दिया गया है. मुख्यमंत्री ने बताया कि राज्यपाल की मंजूरी के बाद मंत्रिपरिषद के सभी सदस्यों को उनके विभाग सौंप दिए गए हैं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘फौरन कम करें तनाव’, ईरान-इजरायल के ताजा मिलिट्री एक्शन से मिडिल ईस्ट में हड़कंप, भारत ने जारी की",
-      "url": "https://www.abplive.com/news/india/iran-israel-war-immediately-de-escalat-tehran-india-mea-advisory-us-donald-trump-3142030",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-08T10:43:40+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/12/29/4848cbfa87d5b9573e37491f2ca433161767019230125708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "ईरान और इजरायल के बीच सैन्य कार्रवाई के बाद भारत ने चिंता व्यक्त की है। नई दिल्ली ने दोनों पक्षों से तत्काल तनाव कम करने का आग्रह किया है। ईरान में भारतीय दूतावास ने नागरिकों को यात्रा न करने और वहां से जल्द निकलने की सलाह दी है। मिडिल ईस्ट में इजरायल और ईरान के बीच दोबारा जंग शुरू होने क बाद भारत ने चिंता जाहिर की और दोनों पक्षों से तुरंत तनाव कम करने की अपील की है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘फौरन कम करें तनाव’, ईरान-इजरायल के ताजा मिलिट्री एक्शन से मिडिल ईस्ट में हड़कंप, भारत ने जारी की",
-          "summary": "ईरान और इजरायल के बीच सैन्य कार्रवाई के बाद भारत ने चिंता व्यक्त की है। नई दिल्ली ने दोनों पक्षों से तत्काल तनाव कम करने का आग्रह किया है। ईरान में भारतीय दूतावास ने नागरिकों को यात्रा न करने और वहां से जल्द निकलने की सलाह दी है। मिडिल ईस्ट में इजरायल और ईरान के बीच दोबारा जंग शुरू होने क बाद भारत ने चिंता जाहिर की और दोनों पक्षों से तुरंत तनाव कम करने की अपील की है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज के पास जहाज पर हमला, 24 भारतीय नाविक फंसे, इंजन रूम में धमाके बाद उठीं लपटें, मदद की लगाई",
-      "url": "https://hindi.news18.com/world/middle-east-strait-of-hormuz-vessel-carrying-24-indians-hit-off-near-oman-coast-crew-send-help-call-ws-l-10550731.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-08T10:41:58+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/oman-coast-2026-06-4b2dd2d167ad94895ef8b707d1099cb3-1200x800.jpg",
-      "summary": "होर्मुज जलडमरूमध्य के पास ओमान तट पर एक जहाज पर हमला हुआ, जिसमें 24 भारतीय नाविक सवार थे। जहाज के इंजन रूम में विस्फोट के बाद आग लग गई। नाविकों ने मदद के लिए SOS सिग्नल भेजा है। Vessel carrying 24 Indians Hit Off: स्ट्रेट ऑफ होर्मुज के पास ओमान तट के नजदीक एक जहाज पर अज्ञात ड्रोन या मिसाइल से हमला कर दिया गया.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज के पास जहाज पर हमला, 24 भारतीय नाविक फंसे, इंजन रूम में धमाके बाद उठीं लपटें, मदद की लगाई",
-          "summary": "होर्मुज जलडमरूमध्य के पास ओमान तट पर एक जहाज पर हमला हुआ, जिसमें 24 भारतीय नाविक सवार थे। जहाज के इंजन रूम में विस्फोट के बाद आग लग गई। नाविकों ने मदद के लिए SOS सिग्नल भेजा है। Vessel carrying 24 Indians Hit Off: स्ट्रेट ऑफ होर्मुज के पास ओमान तट के नजदीक एक जहाज पर अज्ञात ड्रोन या मिसाइल से हमला कर दिया गया.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘इज़रायल और ईरान तुरंत एक-दूसरे पर हमले बंद करें’, डोनाल्ड ट्रंप ने कर दी डिमांड",
-      "url": "https://www.patrika.com/world-news/donald-trumps-demands-israel-and-iran-must-immediately-stop-shooting-20650251",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-08T10:41:44+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/donald-trump_.webp",
-      "summary": "डोनाल्ड ट्रंप ने इजरायल और ईरान से तत्काल एक-दूसरे पर हमले रोकने की मांग की है। दोनों देशों के बीच सैन्य कार्रवाई तेज हो गई है, जिससे मध्य पूर्व में तनाव बढ़ गया है। इज़रायल (Israel) और ईरान (Iran) के बीच युद्ध एक बार फिर शुरू हो गया है। दोनों देशों ने एक-दूसरे पर हमले कर दिए हैं। लेबनान की राजधानी बेरूत पर हमले के बाद ईरान ने बदला लेने के लिए इज़रायल पर बैलिस्टिक मिसाइलों से हमला कर दिया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘इज़रायल और ईरान तुरंत एक-दूसरे पर हमले बंद करें’, डोनाल्ड ट्रंप ने कर दी डिमांड",
-          "summary": "डोनाल्ड ट्रंप ने इजरायल और ईरान से तत्काल एक-दूसरे पर हमले रोकने की मांग की है। दोनों देशों के बीच सैन्य कार्रवाई तेज हो गई है, जिससे मध्य पूर्व में तनाव बढ़ गया है। इज़रायल (Israel) और ईरान (Iran) के बीच युद्ध एक बार फिर शुरू हो गया है। दोनों देशों ने एक-दूसरे पर हमले कर दिए हैं। लेबनान की राजधानी बेरूत पर हमले के बाद ईरान ने बदला लेने के लिए इज़रायल पर बैलिस्टिक मिसाइलों से हमला कर दिया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'जहाज में भर रहा पानी, लाइफ बोट पर आग', हॉर्मुज में अमेरिकी नेवी का घातक अटैक, संकट में 24 भारतीयों",
-      "url": "https://www.abplive.com/news/world/us-navy-attack-on-vessel-marivex-oil-tanker-24-indian-crew-strait-of-hormuz-3142007",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-08T10:41:43+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/2b31bc4d24b8815496844572d23a65631780915261887344_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "स्ट्रेट ऑफ हॉर्मुज में अमेरिकी नौसेना ने मारिवेक ऑयल टैंकर पर हमला किया। जहाज पर 24 भारतीय नागरिक सवार थे। क्रू सदस्यों ने हमले की जानकारी दी है। अमेरिका और ईरान के बीच अभी तक भयंकर तनाव की स्थिति है. इसकी वजह से दुनिया के तमाम देश प्रभावित हो रहे हैं. स्ट्रेट ऑफ हॉर्मुज में भी संकट की स्थिति है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'जहाज में भर रहा पानी, लाइफ बोट पर आग', हॉर्मुज में अमेरिकी नेवी का घातक अटैक, संकट में 24 भारतीयों",
-          "summary": "स्ट्रेट ऑफ हॉर्मुज में अमेरिकी नौसेना ने मारिवेक ऑयल टैंकर पर हमला किया। जहाज पर 24 भारतीय नागरिक सवार थे। क्रू सदस्यों ने हमले की जानकारी दी है। अमेरिका और ईरान के बीच अभी तक भयंकर तनाव की स्थिति है. इसकी वजह से दुनिया के तमाम देश प्रभावित हो रहे हैं. स्ट्रेट ऑफ हॉर्मुज में भी संकट की स्थिति है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "5 मुद्दों पर सहमति, शिक्षा मंत्री से इस्तीफे की मांग... इंडिया ब्लॉक की बैठक के बाद क्या बोले खरगे",
-      "url": "https://www.abplive.com/news/india/india-bloc-meeting-delhi-congress-president-mallikarjun-kharge-demands-dharmendra-pradhan-resignation-and-all-party-meeting-ann-3142013",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-08T10:28:27+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/c44e3bb3a45022b3d6202963d70904cc17809141169201126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "विपक्षी इंडिया ब्लॉक ने दिल्ली में पांच मुद्दों पर सहमति बनाई। कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने बैठक के बाद यह घोषणा की। INDIA Bloc Meeting: देश की राजधानी दिल्ली में स्थित संविधान क्लब में विपक्षी इंडिया ब्लॉक की बैठक सोमवार (8 जून, 2026) को लंबी और गंभीर विचार-विमर्श के बाद समाप्त हो गई. कांग्रेस पार्टी के नेतृत्व वाले इंडिया ब्लॉक के 24 दलों के इस बैठक के खत्म होने के बाद कांग्रेस के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे ने बड़ा बयान दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "5 मुद्दों पर सहमति, शिक्षा मंत्री से इस्तीफे की मांग... इंडिया ब्लॉक की बैठक के बाद क्या बोले खरगे",
-          "summary": "विपक्षी इंडिया ब्लॉक ने दिल्ली में पांच मुद्दों पर सहमति बनाई। कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने बैठक के बाद यह घोषणा की। INDIA Bloc Meeting: देश की राजधानी दिल्ली में स्थित संविधान क्लब में विपक्षी इंडिया ब्लॉक की बैठक सोमवार (8 जून, 2026) को लंबी और गंभीर विचार-विमर्श के बाद समाप्त हो गई. कांग्रेस पार्टी के नेतृत्व वाले इंडिया ब्लॉक के 24 दलों के इस बैठक के खत्म होने के बाद कांग्रेस के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे ने बड़ा बयान दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान के पेट्रोकेमिकल प्लांट पर इजरायल का हमला, मिसाइल जंग के बीच नेतन्याहू ने बुलाई इमरजेंसी मीटिंग",
-      "url": "https://hindi.news18.com/world/middle-east-israel-attack-iran-petrochemical-plant-netanyahu-security-cabinet-meeting-middle-east-conflict-10550820.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-08T10:26:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/gas-plant-2026-06-fc72def77161fb56ed666a6db189f36a-1200x800.jpg",
-      "summary": "ईरान ने लेबनान में हिजबुल्लाह पर इजरायली हमलों के जवाब में मिसाइलें दागीं। इसके बाद इजरायल ने ईरान के कारून पेट्रोकेमिकल प्लांट पर हमला किया। Iran Israel War News: ईरान और इजरायल के बीच अप्रैल में हुए युद्धविराम के दो महीने बाद फिर सैन्य टकराव शुरू हो गया है. ईरान ने लेबनान में हिजबुल्लाह पर इजरायली हमलों के जवाब में कई बैलिस्टिक मिसाइलें दागीं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के पेट्रोकेमिकल प्लांट पर इजरायल का हमला, मिसाइल जंग के बीच नेतन्याहू ने बुलाई इमरजेंसी मीटिंग",
-          "summary": "ईरान ने लेबनान में हिजबुल्लाह पर इजरायली हमलों के जवाब में मिसाइलें दागीं। इसके बाद इजरायल ने ईरान के कारून पेट्रोकेमिकल प्लांट पर हमला किया। Iran Israel War News: ईरान और इजरायल के बीच अप्रैल में हुए युद्धविराम के दो महीने बाद फिर सैन्य टकराव शुरू हो गया है. ईरान ने लेबनान में हिजबुल्लाह पर इजरायली हमलों के जवाब में कई बैलिस्टिक मिसाइलें दागीं.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
