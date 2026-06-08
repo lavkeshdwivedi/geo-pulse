@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-08T20:20:03.217425+00:00",
+  "generated_at": "2026-06-08T22:28:25.991881+00:00",
   "article_count": 50,
-  "total_unique_count": 265,
+  "total_unique_count": 264,
   "digest": {
-    "en": "The U.S. judge striking down H-1B visa fees and the Seoul stock market's AI-driven drop dominate headlines. Meanwhile, German foreign policy faces scrutiny after a UNSC loss. The Philippines earthquake also registers as a significant event.",
-    "hi": "टिम कुक के एप्पल इवेंट ने नए आईओएस और सिरी पर ध्यान केंद्रित किया। वहीं, तमिलनाडु से कांग्रेस के प्रवीण चक्रवर्ती का राज्यसभा में निर्विरोध चुना जाना भी एक महत्वपूर्ण घटना है।"
+    "en": "Beijing's demographic shifts and a Philippines earthquake dominate headlines. Meanwhile, US visa policy faces judicial challenge and European leaders navigate aid to Ukraine.",
+    "hi": "तमिलनाडु से कांग्रेस के प्रवीण चक्रवर्ती का राज्यसभा निर्विरोध चुना जाना प्रमुख है। वहीं, ओमान तट के पास टैंकर पर हमले की जांच में चौंकाने वाले खुलासे हो रहे हैं। टिम कुक के आखिरी इवेंट में नए सिरी और आईओएस 27 की घोषणाएं हुईं।"
   },
   "articles": [
+    {
+      "title": "What Beijing’s shrinking youth population reveals about its changing appeal",
+      "url": "https://www.channelnewsasia.com/east-asia/china-beijing-youth-appeal-costs-benefits-talent-careers-6168746",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-08T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--jUXnVbL4--/c_crop,h_449,w_799,x_1,y_45/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-31T041520Z_1_LYNXMPELBU03R_RTROPTP_3_CHINA-ECONOMY-GDP.JPG?itok=fU9t8tsj",
+      "summary": "Beijing's population of residents aged 20 to 29 has fallen by nearly half in ten years. Young Chinese are re-evaluating life in the capital. This demographic shift impacts Beijing's appeal for talent. Beijing’s resident adult population aged 20 to 29 has nearly halved over the past decade. CNA explores how young Chinese are recalculating the costs and benefits of life in the capital, even as it remains a magnet for talent.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Warns Netanyahu To \"Be Careful\" Over Renewed Iran War: Report",
+      "url": "https://www.ndtv.com/world-news/iran-war-donald-trump-warns-benjamin-netanyahu-to-be-careful-over-renewed-iran-war-report-11609769#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-06-08T20:54:42+00:00",
+      "image_url": "https://c.ndtvimg.com/2025-06/9r4c4u34_donald-trump-benjamin-netanyahu-trump-netanyahu_625x300_16_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "summary": "Donald Trump warned Benjamin Netanyahu against initiating a new war with Iran. He stated that Israel might face such a conflict alone. The comments were made in an interview with Axios. US President Donald Trump told Axios in an interview published on Monday that he warned Israeli Prime Minister Benjamin Netanyahu that he might find himself fighting alone if he went back to war with Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "U.S. judge strikes down Trump’s $100,000 H-1B visa fee, calls it unlawful",
       "url": "https://www.thehindu.com/news/international/trumps-100000-h-1b-visa-fee-is-unlawful-us-judge-rules/article71078198.ece",
@@ -152,6 +176,42 @@
       "translations": {}
     },
     {
+      "title": "‘Rare, untreatable strain’: Ebola toll mounts in eastern DR Congo",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167678",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-08T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/08-06-2026-WHO-DR-Congo-ebola.jpg/image770x420cropped.jpg",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo's eastern provinces has reached 515 confirmed cases. The UN's top aid official visited Ituri province, the outbreak's center. The strain is described as rare and untreatable. The top UN aid official in the Democratic Republic of the Congo (DRC) is in Ituri province – the epicentre of the country's Ebola outbreak – for a three-day assessment visit, as the confirmed case count reaches 515 across three eastern provinces.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Afghanistan faces ‘lost generation of talent and potential,’ Security Council hears",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167677",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-08T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/12-01-2023_UNICEF_Afghanistan.jpg/image770x420cropped.jpg",
+      "summary": "Afghanistan faces a \"lost generation\" due to worsening humanitarian conditions and economic pressures. Restrictions on women also contribute to an uncertain future. This warning came during a Security Council meeting on the country. As the Security Council met on Afghanistan, senior officials and civil society representatives delivered a clear warning Monday: despite relative security under the Taliban, worsening humanitarian conditions, restrictions on women and growing economic pressures are creating a fragile and uncertain future.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UN officials warn humanitarian toll in Ukraine is worsening",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167674",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-08T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-12-2025-UN-Photo-SC-wideview.jpg/image770x420cropped.jpg",
+      "summary": "UN officials reported a worsening humanitarian toll in Ukraine. Hostilities have escalated, with recent months seeing extensive aerial attacks. This marks the deadliest period since Russia's 2022 invasion. The Security Council met on Monday amid a sharp escalation in hostilities across Ukraine, where UN officials warned that the war has reached its deadliest point since Russia’s full-scale invasion in 2022.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167671",
       "source": "UN News",
@@ -248,66 +308,6 @@
       "translations": {}
     },
     {
-      "title": "Israel Strikes Back After Iranian Missile Attack",
-      "url": "https://www.rferl.org/a/iran-israel-trump-ceasefire-irgc-attack/33774693.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-07T21:35:45+00:00",
-      "image_url": "https://gdb.rferl.org/80062646-2777-41cb-9d7f-5db8947500d6_cx0_cy10_cw0_w1200_h630.jpg",
-      "summary": "President Trump stated a deal with Iran to achieve a peace settlement is \"very close.\" This comes after Iran launched air strikes against Israel. It was the first such attack since the April truce took effect. US President Donald Trump said a deal with Tehran to turn a cease-fire into a peace settlement is still \"very close,\" even after Iran launched its first wave of air strikes against Israel since the fragile April truce took effect.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hegseth changes D-Day subject to migrants",
-      "url": "https://asiatimes.com/2026/06/trump-talking-points-hegseth-changes-d-day-subject-to-migrants/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-06-07T18:19:49+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/us-defense-secretary-pete-hegseth-copy.jpg",
-      "summary": "US Defense Secretary Pete Hegseth used a D-Day anniversary speech on US Defense Secretary Pete Hegseth came under fire from critics around the world this weekend after he turned his speech at a Saturday event marking the D-Day anniversary into a “racist rant” against migrants. On June 6, 1944, Allied forces stormed the beaches of Normandy in France, which was occupied by Nazi Germany’s troops.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "From firefights to football matches: Life on a UN peacekeeping frontline",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167666",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-07T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/05-06-2026-MINUSCA-CAR-09.jpg/image770x420cropped.jpg",
-      "summary": "Rebels launched an offensive to seize Zémio in the Central African Republic. The attack aims to derail the December 2025 presidential election. Life on the UN peacekeeping frontline includes firefights and football matches. Night has fallen over the town of Zémio, in the east of the Central African Republic. In a few hours, the December 2025 presidential election is due to take place, but the rebels of the “Azande Ani Kpi Gbe” (AAKG) militia have launched an offensive to seize the city and derail the polls.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Peru’s discontented voters face straight left-right choice in election runoff",
-      "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-07T05:00:24+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/0ca42b11c3838c5571606b6d38461d5ef5db2787/479_0_4788_3830/master/4788.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13b998569d4c087f9056d81d762da2a5",
-      "summary": "Peruvians vote Sunday in an election runoff between rightwing candidate Keiko Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decadePeruvians go to the polls on Sunday in an election runoff that pits a perennial rightwing candidate, Keiko Fujimori, against a leftist congressman, Roberto Sánchez. Amid rising crime, chronic political instability, corruption scandals and voter apathy, they are vying to.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ukrainian Drones Return To St. Petersburg As Russia’s Investment Forum Ends",
-      "url": "https://www.rferl.org/a/ukraine-launches-scores-of-drones-on-russian-regions/33774079.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-06T12:31:34+00:00",
-      "image_url": "https://gdb.rferl.org/b7a36cd3-e0d4-4941-e5af-08debadc7311_w1200_h630.jpg",
-      "summary": "Ukraine launched drones at targets across Russia, including the St. Ukraine launched hundreds of drones at targets across Russia, including the St. Petersburg region, around 1,000 kilometers from the Ukrainian border. Residents filmed drones overhead and smoke rising from military sites. The attack came on the final day of Russia’s flagship investment forum. Ukrainian Drones Return To St. Petersburg As Russia’s Investment Forum Ends.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "पेंशन के लालच में पिता की हत्या कर शव के टुकड़े किए; बेटे-बेटी को फांसी, पत्नी को उम्रकैद की सजा",
       "url": "https://www.amarujala.com/india-news/hyderabad-court-sentences-son-and-daughter-to-death-wife-to-life-imprisonment-in-father-murder-case-2026-06-09",
       "source": "Amar Ujala National",
@@ -398,6 +398,78 @@
       }
     },
     {
+      "title": "'दुनिया को गुमराह करने की कोशिश नाकाम होगी', संयुक्त राष्ट्र में भारत ने फिर पाकिस्तान को लगाई फटकार",
+      "url": "https://www.amarujala.com/world/india-slams-pakistan-at-un-calls-fitna-al-hindustan-narrative-state-sponsored-misinformation-2026-06-09",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-08T21:15:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/09/un-security-council_df6097fc32bcdad437fb47a53a42d22a.png?w=750&dpr=1.0",
+      "summary": "भारत ने संयुक्त राष्ट्र में पाकिस्तान को एक बार फिर फटकार लगाई। UNSC: 'दुनिया को गुमराह करने की कोशिश नाकाम होगी', संयुक्त राष्ट्र में भारत ने फिर पाकिस्तान को लगाई फटकार।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'दुनिया को गुमराह करने की कोशिश नाकाम होगी', संयुक्त राष्ट्र में भारत ने फिर पाकिस्तान को लगाई फटकार",
+          "summary": "भारत ने संयुक्त राष्ट्र में पाकिस्तान को एक बार फिर फटकार लगाई। UNSC: 'दुनिया को गुमराह करने की कोशिश नाकाम होगी', संयुक्त राष्ट्र में भारत ने फिर पाकिस्तान को लगाई फटकार।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "प्रतिबंधित था ओमान तट के पास हमले का शिकार हुआ टैंकर, जांच में चौंकाने वाला खुलासा",
+      "url": "https://www.amarujala.com/world/world-news-today-us-west-asia-crisis-iran-war-oil-tanker-china-2026-06-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-08T20:47:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
+      "summary": "ओमान तट के पास हमलावर जहाज ने एक तेल टैंकर पर हमला किया। टैंकर पर प्रतिबंध लगा हुआ था। जांच में पता चला कि हमलावर जहाज का संबंध ईरान से था। यह घटना पश्चिम एशिया में बढ़ते तनाव के बीच हुई है। प्रतिबंधित था ओमान तट के पास हमले का शिकार हुआ टैंकर, जांच में चौंकाने वाला खुलासा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रतिबंधित था ओमान तट के पास हमले का शिकार हुआ टैंकर, जांच में चौंकाने वाला खुलासा",
+          "summary": "ओमान तट के पास हमलावर जहाज ने एक तेल टैंकर पर हमला किया। टैंकर पर प्रतिबंध लगा हुआ था। जांच में पता चला कि हमलावर जहाज का संबंध ईरान से था। यह घटना पश्चिम एशिया में बढ़ते तनाव के बीच हुई है। प्रतिबंधित था ओमान तट के पास हमले का शिकार हुआ टैंकर, जांच में चौंकाने वाला खुलासा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'सभी को संतुष्ट नहीं किया जा सकता, सम्मान हमेशा रहेगा'; भुजबल की नाराजगी पर NCP का जवाब",
+      "url": "https://www.amarujala.com/india-news/maharashtra-everyone-can-t-be-satisfied-ncp-defends-rajya-sabha-candidate-choice-amid-bhujbal-buzz-2026-06-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-08T20:29:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/09/sunil-tatkare_28e4b113d0f98e0c4d064592936a6f45.png?w=750&dpr=1.0",
+      "summary": "छगन भुजबल ने राज्यसभा उपचुनाव में पार्टी के उम्मीदवार को समर्थन देने से इनकार कर दिया। उन्होंने कहा कि सभी को संतुष्ट नहीं किया जा सकता। राष्ट्रवादी कांग्रेस पार्टी (एनसीपी) ने कहा कि भुजबल का सम्मान हमेशा रहेगा। पार्टी ने यह भी कहा कि वे भुजबल से बात करेंगे। राज्यसभा उपचुनाव: 'सभी को संतुष्ट नहीं किया जा सकता, सम्मान हमेशा रहेगा'; भुजबल की नाराजगी पर NCP का जवाब।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'सभी को संतुष्ट नहीं किया जा सकता, सम्मान हमेशा रहेगा'; भुजबल की नाराजगी पर NCP का जवाब",
+          "summary": "छगन भुजबल ने राज्यसभा उपचुनाव में पार्टी के उम्मीदवार को समर्थन देने से इनकार कर दिया। उन्होंने कहा कि सभी को संतुष्ट नहीं किया जा सकता। राष्ट्रवादी कांग्रेस पार्टी (एनसीपी) ने कहा कि भुजबल का सम्मान हमेशा रहेगा। पार्टी ने यह भी कहा कि वे भुजबल से बात करेंगे। राज्यसभा उपचुनाव: 'सभी को संतुष्ट नहीं किया जा सकता, सम्मान हमेशा रहेगा'; भुजबल की नाराजगी पर NCP का जवाब।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "'मुझे अब कोई नया विभाग नहीं चाहिए': कर्नाटक में पोर्टफोलियो विवाद थमा, नाराज रेड्डी ने संभाला जल",
+      "url": "https://www.amarujala.com/india-news/karnataka-minister-ramalinga-reddy-who-had-resigned-over-portfolio-takes-charge-of-water-resources-dept-2026-06-09",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-08T20:21:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/09/karnataka-ramalinga-reddy_2d9dc28679541805e07bc427a6e8e987.jpeg?w=750&dpr=1.0",
+      "summary": "कर्नाटक में कांग्रेस सरकार में विभागों के बंटवारे का विवाद समाप्त हो गया है। रामलिंगा रेड्डी, जो अपने इच्छित विभाग के न मिलने पर नाराज थे, ने जल संसाधन विभाग का कार्यभार संभाल लिया है। उन्होंने कहा कि उन्हें अब कोई नया विभाग नहीं चाहिए। यह निर्णय पार्टी आलाकमान के हस्तक्षेप के बाद लिया गया। 'मुझे अब कोई नया विभाग नहीं चाहिए': कर्नाटक में पोर्टफोलियो विवाद थमा, नाराज रेड्डी ने संभाला जल।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मुझे अब कोई नया विभाग नहीं चाहिए': कर्नाटक में पोर्टफोलियो विवाद थमा, नाराज रेड्डी ने संभाला जल",
+          "summary": "कर्नाटक में कांग्रेस सरकार में विभागों के बंटवारे का विवाद समाप्त हो गया है। रामलिंगा रेड्डी, जो अपने इच्छित विभाग के न मिलने पर नाराज थे, ने जल संसाधन विभाग का कार्यभार संभाल लिया है। उन्होंने कहा कि उन्हें अब कोई नया विभाग नहीं चाहिए। यह निर्णय पार्टी आलाकमान के हस्तक्षेप के बाद लिया गया। 'मुझे अब कोई नया विभाग नहीं चाहिए': कर्नाटक में पोर्टफोलियो विवाद थमा, नाराज रेड्डी ने संभाला जल।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
       "title": "काकोली घोष के नेतृत्व में TMC के 20 सांसदों ने की बगावत, लोकसभा स्पीकर से मिले!",
       "url": "https://www.amarujala.com/video/india-news/tmc-mp-split-news-20-tmc-mps-led-by-kakoli-ghosh-rebelled-and-met-the-lok-sabha-speaker-2026-06-09",
       "source": "Amar Ujala National",
@@ -484,24 +556,6 @@
           "title": "क्यूबा में 6.1 तीव्रता का भूकंप: हवाना की इमारतें हिलीं, फ्लोरिडा तक महसूस हुए झटके; फिलहाल नुकसान",
           "summary": "क्यूबा में 6.1 तीव्रता का भूकंप दर्ज किया गया। हवाना में इमारतें हिल गईं और फ्लोरिडा तक झटके महसूस किए गए। फिलहाल किसी नुकसान की सूचना नहीं है। क्यूबा में 6.1 तीव्रता का भूकंप: हवाना की इमारतें हिलीं, फ्लोरिडा तक महसूस हुए झटके; फिलहाल नुकसान की खबर नहीं।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "पीओके में क्यों भड़की हिंसा? झड़पों में चार पुलिसकर्मियों समेत 11 लोगों की हुई मौत",
-      "url": "https://www.patrika.com/world-news/why-did-violence-erupt-in-pakistan-occupied-kashmir-clashes-claim-11-lives-20651629",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-08T18:21:31+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/PoK-violence.webp",
-      "summary": "पाकिस्तान के कब्जे वाले कश्मीर में पुलिस और प्रदर्शनकारियों के बीच झड़पों में 11 लोगों की मौत हो गई। चार पुलिसकर्मी भी मारे गए। यह हिंसा एक प्रतिबंधित संगठन पर कार्रवाई के बाद भड़की। Pakistan-occupied Kashmir: पाकिस्तान के कब्जे वाले कश्मीर (पीओके) में पुलिस और प्रदर्शनकारियों के बीच हुई झड़प में 11 लोगों की मौत हो गई, जबकि 70 से ज्यादा लोग घायल हो गए।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीओके में क्यों भड़की हिंसा? झड़पों में चार पुलिसकर्मियों समेत 11 लोगों की हुई मौत",
-          "summary": "पाकिस्तान के कब्जे वाले कश्मीर में पुलिस और प्रदर्शनकारियों के बीच झड़पों में 11 लोगों की मौत हो गई। चार पुलिसकर्मी भी मारे गए। यह हिंसा एक प्रतिबंधित संगठन पर कार्रवाई के बाद भड़की। Pakistan-occupied Kashmir: पाकिस्तान के कब्जे वाले कश्मीर (पीओके) में पुलिस और प्रदर्शनकारियों के बीच हुई झड़प में 11 लोगों की मौत हो गई, जबकि 70 से ज्यादा लोग घायल हो गए।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -700,60 +754,6 @@
           "title": "समंदर में भड़की आग, खतरे में अपनों की जान! होर्मुज में फंसे अब कैसे हैं हमारे 24 जांबाज भारतीय नाविक",
           "summary": "ओमान के तट के पास एमटी मारिवेक्स जहाज में आग लगने से 24 भारतीय नाविक फंस गए। जहाजरानी मंत्रालय ने घटना की पुष्टि की है। Shipping Ministry: पश्चिम एशिया के सबसे संवेदनशील समुद्री रास्ते होर्मुज जलडमरूमध्य से एक बेहद चौंकाने वाली खबर सामने आई है। सोमवार दोपहर करीब 1:30 बजे ओमान के तट के पास भारतीय नाविकों को ले जा रहे एक कॉमर्शियल जहाज ‘एमटी मारिवेक्स’ में अचानक भीषण आग लग गई।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इस आइलैंड का पानी हुआ लाल, ट्रेडिशन के नाम पर क्यों हो रही 'मास-किलिंग्स', गुस्से में लोग",
-      "url": "https://hindi.news18.com/world/europe-more-than-700-whales-dolphins-massacred-in-grind-on-faroe-islands-10550902.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-08T12:41:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Dolphin-Sea-Shpeared-2026-06-a6be5c3032d9a00d3a9797d86a17642b-1200x800.jpg",
-      "summary": "आइसलैंड और नॉर्वे के बीच आइलैंड में सैकड़ों व्हेल और डॉल्फिन की हत्या के बाद आसपास का पानी खून से लाल हो गया। यह 'ग्राइंड' नामक परंपरा के तहत हुआ, जिस पर पशु संरक्षण समूहों ने सवाल उठाए हैं। आइसलैंड और नॉर्वे की बीच आइलैंड में सैकड़ों व्हेल और डॉल्फिन की तस्वीरें सामने आई हैं. इनमें से कुछ को मोटरबोट के प्रोपेलर से काटा गया है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस आइलैंड का पानी हुआ लाल, ट्रेडिशन के नाम पर क्यों हो रही 'मास-किलिंग्स', गुस्से में लोग",
-          "summary": "आइसलैंड और नॉर्वे के बीच आइलैंड में सैकड़ों व्हेल और डॉल्फिन की हत्या के बाद आसपास का पानी खून से लाल हो गया। यह 'ग्राइंड' नामक परंपरा के तहत हुआ, जिस पर पशु संरक्षण समूहों ने सवाल उठाए हैं। आइसलैंड और नॉर्वे की बीच आइलैंड में सैकड़ों व्हेल और डॉल्फिन की तस्वीरें सामने आई हैं. इनमें से कुछ को मोटरबोट के प्रोपेलर से काटा गया है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बलूचों ने हमले से दहला पाकिस्तान, एक ही दिन में 3 ग्रुपों के किये हमले, एक अधिकारी समेत कई PAK",
-      "url": "https://hindi.news18.com/world/pakistan-bla-baloch-groups-attack-on-pakistan-army-officer-killed-10551128.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-08T12:39:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Pakistan-Army-Attacked-BLA-2026-06-0985f792654038d06732af323faf12ae-1200x800.jpg",
-      "summary": "बलूचिस्तान में बलूच समूहों ने अलग-अलग हमलों में एक वरिष्ठ अधिकारी सहित कई पाकिस्तानी सैन्यकर्मियों को मार गिराया है. सुरक्षा बलों को निशाना बनाया गया. बलूचिस्तान में बलूच समूहों ने अलग-अलग हमलों में एक वरिष्ठ अधिकारी सहित कई पाकिस्तानी सैन्यकर्मी मारे गए हैं. बलूचों ने हमले से दहला पाकिस्तान, एक ही दिन में 3 ग्रुपों के किये हमले, एक अधिकारी समेत कई PAK।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बलूचों ने हमले से दहला पाकिस्तान, एक ही दिन में 3 ग्रुपों के किये हमले, एक अधिकारी समेत कई PAK",
-          "summary": "बलूचिस्तान में बलूच समूहों ने अलग-अलग हमलों में एक वरिष्ठ अधिकारी सहित कई पाकिस्तानी सैन्यकर्मियों को मार गिराया है. सुरक्षा बलों को निशाना बनाया गया. बलूचिस्तान में बलूच समूहों ने अलग-अलग हमलों में एक वरिष्ठ अधिकारी सहित कई पाकिस्तानी सैन्यकर्मी मारे गए हैं. बलूचों ने हमले से दहला पाकिस्तान, एक ही दिन में 3 ग्रुपों के किये हमले, एक अधिकारी समेत कई PAK।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "देश के पास 60 दिनों का तेल-गैस रिजर्व भंडार, हरदीप पुरी ने बताया संकट से बचने का 'मेगा प्लान'",
-      "url": "https://www.abplive.com/news/india/union-petroleum-minister-hardeep-singh-puri-exclusive-interview-with-abp-talk-about-lpg-cylinder-petrol-3142048",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-08T11:51:05+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/8d397a72d6dfa1af693b070b903928e917809178543801115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारत के पास 60 दिनों का तेल-गैस भंडार है. मध्य पूर्व में तनाव के कारण आपूर्ति प्रभावित हुई है. मिडिल ईस्ट में तनाव और संघर्ष की स्थिति लगातार बनी हुई है. बीते लगभग 100 दिनों से स्ट्रेट ऑफ होर्मुज बंद होने की वजह से दुनिया के कई देशों में कच्चे तेल और गैस की सप्लाई प्रभावित हुई है. इसका असर अंतरराष्ट्रीय बाजार में तेल की कीमतों पर भी देखने को मिल रहा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "देश के पास 60 दिनों का तेल-गैस रिजर्व भंडार, हरदीप पुरी ने बताया संकट से बचने का 'मेगा प्लान'",
-          "summary": "भारत के पास 60 दिनों का तेल-गैस भंडार है. मध्य पूर्व में तनाव के कारण आपूर्ति प्रभावित हुई है. मिडिल ईस्ट में तनाव और संघर्ष की स्थिति लगातार बनी हुई है. बीते लगभग 100 दिनों से स्ट्रेट ऑफ होर्मुज बंद होने की वजह से दुनिया के कई देशों में कच्चे तेल और गैस की सप्लाई प्रभावित हुई है. इसका असर अंतरराष्ट्रीय बाजार में तेल की कीमतों पर भी देखने को मिल रहा है.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
