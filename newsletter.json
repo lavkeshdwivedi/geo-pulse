@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-06-08T14:08:17.421379+00:00",
+  "generated_at": "2026-06-08T17:55:40.811119+00:00",
   "article_count": 50,
-  "total_unique_count": 269,
+  "total_unique_count": 267,
   "digest": {
-    "en": "The Middle East dominates headlines with Iran and Israel exchanging strikes. South Africa faces an immigrant backlash. Meanwhile, a powerful earthquake struck the Philippines.",
-    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, क्या ब्रिटेन को गच्चा देकर सीधे मॉरीशस का ‘चागोस द्वीप’ खरीदने जा रहे हैं ट्रंप! मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "The Philippines earthquake and Apple's WWDC dominate headlines. Germany's UNSC loss and the Kremlin's comments on European leaders add to the global discourse. The Indonesian Rupiah's fall signals potential political instability.",
+    "hi": "ईरान और इज़राइल के बीच तनाव ने मध्य पूर्व को झकझोर दिया है। अमेरिकी हस्तक्षेप ने एक जहाज को रोका। पाकिस्तान के कब्जे वाले कश्मीर में हिंसा बढ़ी है।"
   },
   "articles": [
+    {
+      "title": "Kremlin says Macron, Merz and Starmer talk of peace, but help Kyiv with new weapons to continue the",
+      "url": "https://www.thehindu.com/news/international/kremlin-says-macron-merz-and-starmer-talk-of-peace-but-help-kyiv-with-new-weapons-to-continue-the-war/article71078146.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-08T17:47:44+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/ol0fvr/article71078153.ece/alternates/LANDSCAPE_1200/Russia_Putin_43531.jpg",
+      "summary": "The Kremlin stated French President Emmanuel Macron, German Chancellor Friedrich Merz, and The leaders of ‌Britain, Germany ​, and France said on June 7 they supported a proposal ‌for talks between Ukrainian President Volodymyr Zelenskiy and Russian President ‌Vladimir Putin to ​try to secure a ceasefire, ⁠and that ⁠Europe would play a ‌role. Kremlin says Macron, Merz and Starmer talk of peace, but help Kyiv with new weapons to continue the.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Apple WWDC 2026 LIVE | What to expect and where to watch the keynote",
+      "url": "https://www.thehindu.com/sci-tech/technology/apple-wwdc-2026-live-coverage-and-highlights-from-the-keynote/article71075729.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-08T17:46:47+00:00",
+      "image_url": "https://th-i.thgim.com/public/sci-tech/technology/h6q1jq/article71075712.ece/alternates/LANDSCAPE_1200/WWDC%202026.png",
+      "summary": "Apple's Worldwide Developers Conference 2026 began today, June Apple's WWDC this year runs between June 8 and June 12, and starts today at 22:30 IST. The key question for WWDC 2026 is whether or not the AI-enhanced Siri is finally ready to take the stage. Apple WWDC 2026 LIVE | What to expect and where to watch the keynote.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Germany’s standing in international order under scrutiny after UNSC loss",
+      "url": "https://www.thehindu.com/news/international/germanys-standing-in-international-order-under-scrutiny-after-unsc-loss/article71077217.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-08T16:48:26+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/di9um1/article71078078.ece/alternates/LANDSCAPE_1200/iStock-2186954083%204.jpg",
+      "summary": "Germany failed to secure a non-permanent seat on the United Nations Security Council. The country has failed to win a non-permanent seat on the UNSC for the first time. Its selective application of international law vis-à-vis Ukraine and Iran, and its cautious and often wavering approach towards Israel, might have led smaller nations to lose faith in it. Germany’s standing in international order under scrutiny after UNSC loss.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Two US pilots killed after plane bound to pick up former MLB star crashes",
+      "url": "https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-08T16:44:08+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/7b7247c317d39f58498e2407fe878c15c4021d70/385_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b147382b81edf7d67809db435ede8111",
+      "summary": "A private plane crashed in the Dominican Republic killing its pilot and co-pilot. The aircraft was en route to pick up former MLB star Yadier Molina and his family. The plane was attempting an emergency landing when it went down. Molina confirmed the flight was headed to Texas to collect him. Plane on way to pick up Yadier Molina and his family crashed in Dominican Republic, killing pilot and co-pilotA pilot and co-pilot from the United States have died in a fiery plane crash as they attempted an emergency landing in the Dominican Republic, authorities said. Former major league baseball all-star catcher Yadier Molina said on social media that the plane was bound for Texas to pick him up.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "7.8 magnitude quake in Philippines kills at least 35, collapses buildings, sparks tsunami",
+      "url": "https://www.thehindu.com/news/international/earthquake-strikes-mindanao-in-philippines/article71074937.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-08T16:23:35+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/4lcdf/article71075002.ece/alternates/LANDSCAPE_1200/AFP__20260608__B6BJ9NQ__v1__HighRes__PhilippinesEarthquake.jpg",
+      "summary": "A 7.8 magnitude earthquake struck the Philippines, killing at least 35 people. The quake caused buildings to collapse in General Santos. Tsunami damage was reported in a southern coastal village. Smaller waves were measured in Indonesia, Palau, and southern Japan. Several mostly low-rise buildings collapsed or sustained heavy damage in the hard-hit city of General Santos. Tsunami damage was reported in at least one southern coastal village.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Oil On The Beach But No Fuel For Cars: Tourist Season Opens In Crimea",
+      "url": "https://www.rferl.org/a/oil-on-the-beach-but-no-fuel-for-cars-tourist-season-opens-in-crimea/33776035.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-06-08T16:17:29+00:00",
+      "image_url": "https://gdb.rferl.org/bdfd7e32-ee33-412d-165e-08debadc4af7_w1200_h630.jpg",
+      "summary": "The summer tourist season began in Russian-occupied Crimea. The summer tourist season is starting in Russian-occupied Crimea, but with Ukrainian drone attacks and fuel shortages, how many people will visit? Current Time correspondent Andrey Cherkasov explains, tour operators are trying to put a positive spin on the crisis, but it's being met with skepticism. Oil On The Beach But No Fuel For Cars: Tourist Season Opens In Crimea.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "INDIA bloc’s latest huddle: What emerged behind closed doors? | Above the Fold | 08.06.2026",
+      "url": "https://www.thehindu.com/videos/watch-india-blocs-latest-huddle-what-emerged-behind-closed-doors-above-the-fold-08062026/article71077832.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-08T15:41:46+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/mdrubr/article71077769.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-08%20at%2020.48.28.jpeg",
+      "summary": "The INDIA bloc held its latest strategy meeting. Alliance tensions are reportedly growing. From the INDIA bloc’s latest strategy meeting and growing alliance tensions to the escalating U. S.-Iran conflict, a major arrest in West Bengal and Xi Jinping’s North Korea visit. The top stories of the day. INDIA bloc’s latest huddle: What emerged behind closed doors? | Above the Fold | 08.06.2026.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "HK and Bangkok step aside, Vienna’s claim as spy capital is strong",
+      "url": "https://asiatimes.com/2026/06/hk-and-bangkok-step-aside-viennas-claim-as-spy-capital-is-strong/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-06-08T15:28:20+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/Spy_silhouette_document.svg_-e1780931249566.png",
+      "summary": "Austrian intelligence officer Egisto Ott was recently tried in Vienna for allegedly spying for Russia Egisto Ott is no James Bond. But the stories the 63-year-old Austrian told a Viennese jury recently would make good plotlines. Ott worked as an intelligence officer in Austria’s now-defunct Federal Office for the Protection of the Constitution and Counterterrorism. He was also moonlighting for the Russians.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Powerful earthquake in southern Philippines leaves at least 35 dead",
+      "url": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-08T14:01:08+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/9193558ec86c3d1a8f814d301f9b80c0404b6a16/185_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2d3d5fc0544f0172543d4c2a5c3b78b",
+      "summary": "A magnitude-7.8 earthquake struck the southern Philippines early Monday. At least 19 people died. Buildings collapsed. Residents are warned about aftershocks and advised not to enter damaged structures. Residents warned not to enter damaged homes or other buildings owing to threat of aftershocks after magnitude-7.8 quakeA magnitude-7.8 earthquake shook part of the southern Philippines early on Monday, collapsing buildings and killing at least 19 people.“Many buildings were affected, but I cannot enumerate them now because we are busy with ongoing rescues,” Robert Dagon, of the General Santos City.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Opinion | How A Photograph in Delhi Says Something Important About Trump's America",
+      "url": "https://www.ndtv.com/opinion/how-a-photograph-in-delhi-can-tell-you-a-lot-about-trumps-america-11607924#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-06-08T13:06:44+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-06/msgkhk98_1_625x300_08_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "summary": "Venezuela's Delcy Rodríguez met US Ambassador Sergio Gor in New Delhi this week. During her visit to New Delhi this week, Venezuela's Delcy Rodrguez, met US Ambassador Sergio Gor. Had the meeting taken place in Washington or Caracas, it would have attracted little attention. In Delhi, however, it carried a different significance. Opinion | How A Photograph in Delhi Says Something Important About Trump's America.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Rupiah’s collapse could trigger a political crisis for Prabowo",
       "url": "https://asiatimes.com/2026/06/rupiahs-collapse-could-trigger-a-political-crisis-for-prabowo/",
@@ -16,6 +136,18 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2017/06/Indonesia-Rupiah-July-15-2013-e1568712384789.jpg",
       "summary": "Indonesia's rupiah reached a record low of 18,155 per US When Indonesia’s rupiah breached the new psychological threshold of 18,155 per US dollar today (June 8), the currency’s lowest ever level, social stability alarm bells rang louder than at any time since the 1997-98 Asian financial crisis. Attempts to calm public anxiety with familiar assurances that economic fundamentals remain strong – or by attributing the [] The post Rupiah’s collapse could tr.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167671",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-08T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-01-2026-UN-Cuba-01.jpg/image770x420cropped.jpg",
+      "summary": "UN human rights chief Volker Türk stated that children are dying in Cuba. Children are dying because doctors cannot access essential medicines, UN human rights chief Volker Türk said in a stark warning on Monday, calling for the immediate lifting of United States sanctions against the Caribbean nation that were causing “widespread harm”. Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -52,18 +184,6 @@
       "image_url": "https://i.guim.co.uk/img/media/c8555db2643a02f1e8c0e23a9a8a18efa17b1037/670_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07693afa68a12ee7035aa5da7eab91cf",
       "summary": "African migrants in South Africa report living in fear. Rallies against illegal immigration have gained momentum. The March & March campaign group is leading protests. Xenophobic sentiment has resurfaced. African migrants say legal status offers little protection as rallies against illegal immigration gain momentumAfrican migrants in South Africa say they are living in fear after a series of marches calling for illegal immigrants to leave reignited long-held xenophobic sentiment in the country. March & March, a campaign group at the forefront of recent protests, has given people living illegally in.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Powerful earthquake in southern Philippines leaves at least 19 dead",
-      "url": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-08T08:44:49+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/9193558ec86c3d1a8f814d301f9b80c0404b6a16/185_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2d3d5fc0544f0172543d4c2a5c3b78b",
-      "summary": "A magnitude-7.8 earthquake struck the southern Philippines early Monday. At least 19 people died. Buildings collapsed. Residents are warned about aftershocks and advised not to enter damaged structures. Residents warned not to enter damaged homes or other buildings owing to threat of aftershocks after magnitude-7.8 quakeA magnitude-7.8 earthquake shook part of the southern Philippines early on Monday, collapsing buildings and killing at least 19 people.“Many buildings were affected, but I cannot enumerate them now because we are busy with ongoing rescues,” Robert Dagon, of the General Santos City.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -164,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "Ballot fiasco shakes faith in South Korea’s electoral system",
-      "url": "https://asiatimes.com/2026/06/ballot-fiasco-shakes-faith-in-south-koreas-electoral-system/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-06-06T18:02:55+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/image-copy-e1780769148743.jpg",
-      "summary": "A ballot printing error in South Korea’s June 3 nationwide local elections led to the postponement of voting in 39 polling stations across 11 municipalities. The error involved the printing of ballots for the Seongnam mayoral race. This incident has raised questions about the integrity of the electoral process. Election officials have apologized for the mistake. Free and fair elections are the foundation of liberal democracy, and South Korea has long been regarded as one of Asia’s democratic success stories.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Ukrainian Drones Return To St. Petersburg As Russia’s Investment Forum Ends",
       "url": "https://www.rferl.org/a/ukraine-launches-scores-of-drones-on-russian-regions/33774079.html",
       "source": "Radio Free Europe / Liberty",
@@ -200,112 +308,130 @@
       "translations": {}
     },
     {
-      "title": "Sun. Sea. Sand. No Gasoline. There’s A Major Problem This Tourist Season In Russian-Occupied Crimea.",
-      "url": "https://www.rferl.org/a/crimea-ukraine-drones-gasoline-crisis-summer/33773507.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "US आर्मी ने माना- हमने ही रोका था वो जहाज, जिस पर सवार थे 24 भारतीय",
+      "url": "https://hindi.news18.com/world/middle-east-us-army-centcom-admits-attack-on-marivex-tanker-carrying-24-indian-sailors-in-oman-gulf-10551824.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-06T09:43:08+00:00",
-      "image_url": "https://gdb.rferl.org/03c892a7-22c9-4a78-9c2f-f37072950de2_cx0_cy6_cw0_w1200_h630.jpg",
-      "summary": "Russian-occupied Crimea faces major gasoline shortages this summer. Ukrainian military drone campaigns are squeezing transport routes into the region. This makes travel difficult for Russian visitors, on whom Crimea's economy heavily depends. Crimea, the Ukrainian Black Sea region occupied by Russia, is heavily dependent on Russian visitors for its economy. This summer, it faces major gasoline shortages, as Ukraine’s military drone campaign squeezes transport routes, making life even more difficult for vacationers.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-08T16:59:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Indian-navy-5-2026-06-766d3537f60f6c5598638fa0e36cd7e3-1200x800.jpg",
+      "summary": "अमेरिकी सेना की सेंट्रल कमांड ने पुष्टि की है कि उसने ओमान की खाड़ी में ईरान की ओर बढ़ रहे M/T Marivex टैंकर को रोका था। इसी टैंकर से भारतीय नौसेना ने 24 भारतीय नाविकों को बचाया था। जिस टैंकर से भारतीय नौसेना ने 24 भारतीय नाविकों को बचाया था, अब उसे लेकर बड़ा खुलासा हुआ है. अमेरिकी सेना की सेंट्रल कमांड ने दावा किया है कि ओमान की खाड़ी में ईरान की ओर बढ़ रहे M/T Marivex टैंकर को उसी ने निशाना बनाकर निष्क्रिय किया था.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "US आर्मी ने माना- हमने ही रोका था वो जहाज, जिस पर सवार थे 24 भारतीय",
+          "summary": "अमेरिकी सेना की सेंट्रल कमांड ने पुष्टि की है कि उसने ओमान की खाड़ी में ईरान की ओर बढ़ रहे M/T Marivex टैंकर को रोका था। इसी टैंकर से भारतीय नौसेना ने 24 भारतीय नाविकों को बचाया था। जिस टैंकर से भारतीय नौसेना ने 24 भारतीय नाविकों को बचाया था, अब उसे लेकर बड़ा खुलासा हुआ है. अमेरिकी सेना की सेंट्रल कमांड ने दावा किया है कि ओमान की खाड़ी में ईरान की ओर बढ़ रहे M/T Marivex टैंकर को उसी ने निशाना बनाकर निष्क्रिय किया था.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167648",
-      "source": "UN News",
+      "title": "24 घंटे की कुश्ती के बाद लाइन पर आए ईरान-इजरायल, ट्रंप की मनुहार या डांट कर गई काम",
+      "url": "https://hindi.news18.com/world/middle-east-israeli-prime-minister-benjamin-netanyahu-announced-halt-to-attacks-on-iran-10551780.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-05T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-DuShanshan.jpg/image770x420cropped.jpg",
-      "summary": "The Strait of Hormuz became a global flashpoint on 28 February following US and Israeli strikes on Iran. This narrow waterway, only 34 kilometers wide at its narrowest, experienced heightened geopolitical tension. When US and Israeli forces launched strikes on Iran on 28 February, triggering one of the most serious geopolitical crises in years, the Strait of Hormuz – a narrow channel just 34 kilometres wide at its narrowest point – became a global flashpoint overnight.",
+      "published_at": "2026-06-08T16:58:42+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Iran-Israel-America-2026-06-a17d94fa111213778a37380ed722d778-1200x800.jpg",
+      "summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान पर हमले रोकने की घोषणा की है। उन्होंने कहा कि इजरायल फिलहाल ईरान पर हमले रोक रहा है। हालांकि, उन्होंने जोर दिया कि ईरान और हिजबुल्लाह के खिलाफ लड़ाई अभी खत्म नहीं हुई है। ईरान के खिलाफ फिर से शुरू हुई लड़ाई के बाद प्रधानमंत्री बेंजामिन नेतन्याहू ने इसे रोकने का एलान कर दिया है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "24 घंटे की कुश्ती के बाद लाइन पर आए ईरान-इजरायल, ट्रंप की मनुहार या डांट कर गई काम",
+          "summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान पर हमले रोकने की घोषणा की है। उन्होंने कहा कि इजरायल फिलहाल ईरान पर हमले रोक रहा है। हालांकि, उन्होंने जोर दिया कि ईरान और हिजबुल्लाह के खिलाफ लड़ाई अभी खत्म नहीं हुई है। ईरान के खिलाफ फिर से शुरू हुई लड़ाई के बाद प्रधानमंत्री बेंजामिन नेतन्याहू ने इसे रोकने का एलान कर दिया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167668",
-      "source": "UN News",
+      "title": "हत्याएं, किडनैपिंग और फायरिंग, पीओके में दमन पर उतरा पाकिस्तान, 27 की मौत!",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-army-repression-in-pok-jaac-claim-27-dead-killings-kidnappings-and-firing-10551719.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-05T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-UNOCHA-South-Sudan-03.jpg/image770x420cropped.jpg",
-      "summary": "Hundreds of thousands have fled eastern Jonglei State in South Sudan due to months of fighting. The UN refugee agency described this as one of the most severe conflict-related displacement emergencies recently. Months of fighting and insecurity have forced hundreds of thousands of people to flee their homes in South Sudan’s eastern Jonglei State, triggering “one of the most severe conflict-related displacement emergencies in recent years”, the UN refugee agency (UNHCR) said on Friday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-08T16:20:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/POK-Clash-Reuters-2026-06-60cd8b963b03e474471bee0514336317-1200x800.jpg",
+      "summary": "पाकिस्तान सेना और पुलिस पीओके में दमनकारी कार्रवाई कर रही है। कमेटी के अनुसार, इस कार्रवाई में कम से कम 27 प्रदर्शनकारी मारे गए हैं। स्थानीय लोगों का दावा है कि 100 से अधिक लोग मारे गए हैं और 110 लोगों को हिरासत में लिया गया है। पाकिस्तान सेना और पुलिस अब पीओके में दमन की नीति अपना रही है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हत्याएं, किडनैपिंग और फायरिंग, पीओके में दमन पर उतरा पाकिस्तान, 27 की मौत!",
+          "summary": "पाकिस्तान सेना और पुलिस पीओके में दमनकारी कार्रवाई कर रही है। कमेटी के अनुसार, इस कार्रवाई में कम से कम 27 प्रदर्शनकारी मारे गए हैं। स्थानीय लोगों का दावा है कि 100 से अधिक लोग मारे गए हैं और 110 लोगों को हिरासत में लिया गया है। पाकिस्तान सेना और पुलिस अब पीओके में दमन की नीति अपना रही है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
-      "title": "Faith, fear and trust: Inside DR Congo’s fight against Ebola",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167667",
-      "source": "UN News",
+      "title": "ट्रंप से 24 घंटे में दो बार हुई बातचीत के बाद नेतन्याहू का बड़ा फैसला, ईरान पर हमले रोके",
+      "url": "https://www.patrika.com/world-news/israel-iran-war-netanyahu-ceased-strikes-after-trump-call-20651552",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-05T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/05-06-2026-WHO-DR-Congo-ebola-03.jpg/image770x420cropped.jpg",
-      "summary": "Health workers in eastern Democratic Republic of the Congo faced threats and were forced to leave a village. They were attempting to bury a person who had died from Ebola. In a village in eastern Democratic Republic of the Congo (DRC), health workers arrived a few days ago to help bury a person who had died from Ebola. Instead, they were threatened, told armed rebels would be called if they stayed, and forced to leave.",
+      "published_at": "2026-06-08T16:20:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Israeli-Prime-Minister-Benjamin-Netanyahu.webp",
+      "summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान पर हमले रोकने का बयान दिया है। यह बयान दोनों देशों के बीच सैन्य टकराव के बाद आया है। नेतन्याहू ने औपचारिक युद्धविराम की घोषणा नहीं की है। Israel Iran War: इजरायल और ईरान के बीच पिछले 24 घंटों में हुए भीषण सैन्य टकराव के बाद इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू ने बड़ा बयान दिया है।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप से 24 घंटे में दो बार हुई बातचीत के बाद नेतन्याहू का बड़ा फैसला, ईरान पर हमले रोके",
+          "summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान पर हमले रोकने का बयान दिया है। यह बयान दोनों देशों के बीच सैन्य टकराव के बाद आया है। नेतन्याहू ने औपचारिक युद्धविराम की घोषणा नहीं की है। Israel Iran War: इजरायल और ईरान के बीच पिछले 24 घंटों में हुए भीषण सैन्य टकराव के बाद इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू ने बड़ा बयान दिया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Harrowing needs must be met with long-term engagement",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167661",
-      "source": "UN News",
+      "title": "‘तुम बेईमान और बेकूफ हो’ सवाल पूछते ही डोनाल्ड ट्रंप महिला पत्रकार पर भड़के, फेंक दिया माइक",
+      "url": "https://www.patrika.com/world-news/trump-interview-controversy-viral-video-press-clash-nbc-election-fraud-biden-allegations-20651426",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-05T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-05-2026_WFP_Haiti-04.jpg/image770x420cropped.jpg",
-      "summary": "Gang violence in Haiti has driven displacement to record levels. Nearly 1.5 million people now lack stable housing. The United Nations migration agency released these figures on Friday. The situation exacerbates an already severe humanitarian crisis. Escalating gang violence across Haiti has pushed displacement to record levels, deepening an already severe humanitarian crisis and leaving nearly 1.5 million people without a stable place to live, according to new figures released Friday by the UN migration agency, IOM.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-08T15:55:16+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trump.png",
+      "summary": "पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप एक लाइव इंटरव्यू के दौरान महिला पत्रकार क्रिस्टन वेल्कर पर भड़क गए। उन्होंने सवाल पूछे जाने पर माइक फेंक दिया और शो बीच में ही छोड़कर चले गए। यह घटना NBC के कार्यक्रम ‘मीट द प्रेस’ में हुई। Trump Angry at Journalist: अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर अपने तीखे अंदाज को लेकर सुर्खियों में हैं।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘तुम बेईमान और बेकूफ हो’ सवाल पूछते ही डोनाल्ड ट्रंप महिला पत्रकार पर भड़के, फेंक दिया माइक",
+          "summary": "पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप एक लाइव इंटरव्यू के दौरान महिला पत्रकार क्रिस्टन वेल्कर पर भड़क गए। उन्होंने सवाल पूछे जाने पर माइक फेंक दिया और शो बीच में ही छोड़कर चले गए। यह घटना NBC के कार्यक्रम ‘मीट द प्रेस’ में हुई। Trump Angry at Journalist: अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर अपने तीखे अंदाज को लेकर सुर्खियों में हैं।",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
-      "title": "Needs soar as UN launches new funding appeal",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167659",
-      "source": "UN News",
+      "title": "हूतियों ने भी कर दी शुरूआत, ईरान से मिलकर करेंगे इजरायल की नाक में दम, क्या करेंगे ट्रंप?",
+      "url": "https://hindi.news18.com/world/middle-east-yemen-s-houthis-fired-several-missiles-at-israel-s-jaffa-area-10551435.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-05T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-03-2026-WFP-Lebanon.jpg/image770x420cropped.jpg",
-      "summary": "The UN in Lebanon launched a new appeal for $331.5 million. This funding targets 1.4 million people in crisis. Needs have grown significantly since deadly violence erupted between Hezbollah and Israel three months ago. The UN in Lebanon appealed for an additional $331.5 million on Friday to help 1.4 million people in crisis as already massive needs continue to grow, three months since deadly violence erupted between Hezbollah fighters and Israel.",
+      "published_at": "2026-06-08T15:26:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Houthi-Reuters-2026-06-61fc519b652d33e79b6e1886f43ac298-1200x800.jpg",
+      "summary": "हूती समूह ने दावा किया कि उसने जाफा में इजरायल के ठिकानों पर मिसाइलें दागी हैं. समूह ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूर्ण प्रतिबंध की घोषणा की है. यमन के हूती समूह ने दावा किया कि उसने जाफा इलाके में इजरायल के ठिकानों को निशाना बनाकर ताबड़तोड़ मिसाइलें दागी हैं. हूती ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूरी तरह से बैन लगाने का एलान किया है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हूतियों ने भी कर दी शुरूआत, ईरान से मिलकर करेंगे इजरायल की नाक में दम, क्या करेंगे ट्रंप?",
+          "summary": "हूती समूह ने दावा किया कि उसने जाफा में इजरायल के ठिकानों पर मिसाइलें दागी हैं. समूह ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूर्ण प्रतिबंध की घोषणा की है. यमन के हूती समूह ने दावा किया कि उसने जाफा इलाके में इजरायल के ठिकानों को निशाना बनाकर ताबड़तोड़ मिसाइलें दागी हैं. हूती ने लाल सागर में इजरायल से जुड़े समुद्री नेविगेशन पर पूरी तरह से बैन लगाने का एलान किया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167655",
-      "source": "UN News",
+      "title": "पूरी दुनिया में मशहूर भारतीय आमों की नेपाल में एंट्री क्यों हुई बैन, नेपाली व्यापारी परेशान",
+      "url": "https://hindi.news18.com/world/south-asia-entry-of-world-famous-indian-mangoes-into-nepal-been-banned-nepali-traders-are-worried-10551547.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-04T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-09-2023-UNICEF-Sudan-refugees.jpg/image770x420cropped.jpg",
-      "summary": "The United Nations and its partners are scaling up efforts to contain Ebola outbreaks in the The UN and its partners are continuing efforts to contain Ebola outbreaks in both the Democratic Republic of the Congo (DRC) and Uganda, while warning that insecurity and misinformation remain major obstacles to the response. UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167653",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-04T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/04-06-2026-UNICEF-Afghanistan.jpg/image770x420cropped.jpg",
-      "summary": "The Hormuz crisis, ongoing for nearly 100 days, has escalated into a What began as a geopolitical crisis in the Middle East nearly 100 days ago is increasingly becoming a food security crisis elsewhere, with UN agencies warning of rising hunger in Africa and malnourished children being turned away from medical clinics in Afghanistan. From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
-      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-04T11:52:13+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/a068b997478b489d0239c7b8e77d58bf6a3042f5/142_0_4583_3666/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b16d63d793c8dc28dcdeb6dc30f6d66c",
-      "summary": "Somali government troops and opposition-allied militias exchanged gunfire in Mogadishu. The clashes began Wednesday afternoon. Property sustained damage. Some civilians fled the capital. The violence occurred before planned protests. These protests were over the president’s decision to remain in office after his term expired. Violence flares before protests on Thursday over president’s decision to remain in office after his term expiredFierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Mogadishu, damaging property and forcing some civilians to flee. In the runup to the fighting, which started on Wednesday afternoon, opposition leaders embedded with mil.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-08T15:11:00+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Mango-Reuters-2026-06-70e409ce1440eb28519570ee90b03add-1200x800.jpg",
+      "summary": "काठमांडू के कृषि और पशु विकास मंत्रालय ने भारतीय आमों के आयात पर पूर्ण प्रतिबंध लगा दिया है. यह प्रतिबंध अप्रैल-मई से क्वारंटाइन चौकियों पर लागू है. काठमांडू के कृषि और पशु विकास मंत्रालय ने भारतीय आमों पर पूरी तरह से इंपोर्ट बैन कर दिया है. इसे अप्रैल-मई से ही क्वार्टरंटाइन चौकियों पर लागू कर दिया गया है. इससे पहले नेपाल ने इन आमों को बैन दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पूरी दुनिया में मशहूर भारतीय आमों की नेपाल में एंट्री क्यों हुई बैन, नेपाली व्यापारी परेशान",
+          "summary": "काठमांडू के कृषि और पशु विकास मंत्रालय ने भारतीय आमों के आयात पर पूर्ण प्रतिबंध लगा दिया है. यह प्रतिबंध अप्रैल-मई से क्वारंटाइन चौकियों पर लागू है. काठमांडू के कृषि और पशु विकास मंत्रालय ने भारतीय आमों पर पूरी तरह से इंपोर्ट बैन कर दिया है. इसे अप्रैल-मई से ही क्वार्टरंटाइन चौकियों पर लागू कर दिया गया है. इससे पहले नेपाल ने इन आमों को बैन दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "क्या ब्रिटेन को गच्चा देकर सीधे मॉरीशस का ‘चागोस द्वीप’ खरीदने जा रहे हैं ट्रंप!",
@@ -627,132 +753,6 @@
         "hi": {
           "title": "ईरान के पेट्रोकेमिकल प्लांट पर इजरायल का हमला, मिसाइल जंग के बीच नेतन्याहू ने बुलाई इमरजेंसी मीटिंग",
           "summary": "ईरान ने लेबनान में हिजबुल्लाह पर इजरायली हमलों के जवाब में मिसाइलें दागीं। इसके बाद इजरायल ने ईरान के कारून पेट्रोकेमिकल प्लांट पर हमला किया। Iran Israel War News: ईरान और इजरायल के बीच अप्रैल में हुए युद्धविराम के दो महीने बाद फिर सैन्य टकराव शुरू हो गया है. ईरान ने लेबनान में हिजबुल्लाह पर इजरायली हमलों के जवाब में कई बैलिस्टिक मिसाइलें दागीं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "धमाकों से दहल उठा ईरान, विदेश मंत्रालय की इमारत हिली; ट्रंप बोले-फौरन रोको गोलीबारी",
-      "url": "https://www.patrika.com/world-news/iran-israel-war-live-updates-tehran-blast-foreign-ministry-shaken-donald-trump-reaction-20650473",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-08T10:26:47+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Massive-Blast-in-Tehran.webp",
-      "summary": "ईरान के तेहरान, तब्रीज और इस्फहान शहरों में बड़े धमाके हुए। यह हमले इजरायली सेना द्वारा ईरान के अंदर किए गए थे। Tehran Blast: मध्य पूर्व में अमन कायम करने की कोशिशों को एक बार फिर बड़ा झटका लगा है। पिछले दो महीनों से जारी युद्धविराम पूरी तरह से ध्वस्त हो चुका है। इजरायली सेना की ओर से ईरान के अंदर किए गए सिलसिलेवार हमलों के बाद ईरान की राजधानी तेहरान, तब्रीज और इस्फहान जैसे प्रमुख शहर जबरदस्त धमाकों से दहल उठे हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "धमाकों से दहल उठा ईरान, विदेश मंत्रालय की इमारत हिली; ट्रंप बोले-फौरन रोको गोलीबारी",
-          "summary": "ईरान के तेहरान, तब्रीज और इस्फहान शहरों में बड़े धमाके हुए। यह हमले इजरायली सेना द्वारा ईरान के अंदर किए गए थे। Tehran Blast: मध्य पूर्व में अमन कायम करने की कोशिशों को एक बार फिर बड़ा झटका लगा है। पिछले दो महीनों से जारी युद्धविराम पूरी तरह से ध्वस्त हो चुका है। इजरायली सेना की ओर से ईरान के अंदर किए गए सिलसिलेवार हमलों के बाद ईरान की राजधानी तेहरान, तब्रीज और इस्फहान जैसे प्रमुख शहर जबरदस्त धमाकों से दहल उठे हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कलकत्ता हाईकोर्ट ने पूर्व मंत्री अरूप विश्वास की तत्काल सुनवाई की मांग खारिज की",
-      "url": "https://www.abplive.com/news/india/calcutta-high-court-refuses-urgent-hearings-in-petitions-by-aroop-biswas-3142017",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-08T10:23:08+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/b1bf6abc79e98ba5763d1e1125bbe1ac1780914108994628_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कलकत्ता हाईकोर्ट ने पूर्व मंत्री अरूप विश्वास की तत्काल सुनवाई की याचिका खारिज कर दी। उन्हें पुलिस पूछताछ से संरक्षण की मांग थी। कलकत्ता हाईकोर्ट ने सोमवार (8 जून, 2026) को पश्चिम बंगाल के पूर्व मंत्री और तृणमूल कांग्रेस (TMC) नेता अरूप विश्वास की उस याचिका पर त्वरित सुनवाई से इनकार कर दिया, जिसमें उन्होंने पुलिस की ओर से किसी भी दंडात्मक कार्रवाई से संरक्षण की मांग की थी.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कलकत्ता हाईकोर्ट ने पूर्व मंत्री अरूप विश्वास की तत्काल सुनवाई की मांग खारिज की",
-          "summary": "कलकत्ता हाईकोर्ट ने पूर्व मंत्री अरूप विश्वास की तत्काल सुनवाई की याचिका खारिज कर दी। उन्हें पुलिस पूछताछ से संरक्षण की मांग थी। कलकत्ता हाईकोर्ट ने सोमवार (8 जून, 2026) को पश्चिम बंगाल के पूर्व मंत्री और तृणमूल कांग्रेस (TMC) नेता अरूप विश्वास की उस याचिका पर त्वरित सुनवाई से इनकार कर दिया, जिसमें उन्होंने पुलिस की ओर से किसी भी दंडात्मक कार्रवाई से संरक्षण की मांग की थी.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पश्चिम एशिया में बढ़ते तनाव पर भारत का बड़ा बयान, कहा- तुरंत कम हो टकराव और बहाल हो शांति",
-      "url": "https://www.patrika.com/world-news/india-on-west-asia-conflict-mea-statement-israel-iran-war-20650506",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-08T10:20:21+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/India-Calls-for-De-escalation-in-West-Asia-Conflict.webp",
-      "summary": "भारत ने पश्चिम एशिया में 100 दिनों से अधिक समय से चल रहे सैन्य तनाव और हिंसक घटनाओं पर चिंता व्यक्त की है। विदेश मंत्रालय ने सभी पक्षों से संयम बरतने और तत्काल शांति बहाल करने की अपील की है। इस संघर्ष का वैश्विक अर्थव्यवस्था और ऊर्जा आपूर्ति पर गंभीर असर पड़ा है। India on West Asia Conflict: पश्चिम एशिया में लगातार बढ़ते सैन्य तनाव और हिंसक घटनाओं के बीच भारत ने सभी पक्षों से संयम बरतने और हालात को तुरंत सामान्य करने की अपील की है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पश्चिम एशिया में बढ़ते तनाव पर भारत का बड़ा बयान, कहा- तुरंत कम हो टकराव और बहाल हो शांति",
-          "summary": "भारत ने पश्चिम एशिया में 100 दिनों से अधिक समय से चल रहे सैन्य तनाव और हिंसक घटनाओं पर चिंता व्यक्त की है। विदेश मंत्रालय ने सभी पक्षों से संयम बरतने और तत्काल शांति बहाल करने की अपील की है। इस संघर्ष का वैश्विक अर्थव्यवस्था और ऊर्जा आपूर्ति पर गंभीर असर पड़ा है। India on West Asia Conflict: पश्चिम एशिया में लगातार बढ़ते सैन्य तनाव और हिंसक घटनाओं के बीच भारत ने सभी पक्षों से संयम बरतने और हालात को तुरंत सामान्य करने की अपील की है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'तुरंत बंद हो गोलीबारी', हाई टेंशन के बीच डोनाल्ड ट्रंप की ईरान-इजरायल को कड़ी चेतावनी",
-      "url": "https://www.abplive.com/news/world/donald-trump-warn-israel-iran-must-immediately-stop-shooting-benjamin-netanyahu-3142008",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-08T10:06:42+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/4a072dcc2f5c53854d3a86aa3450023b1780913428191708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "डोनाल्ड ट्रंप ने ईरान और इजरायल को तत्काल गोलीबारी बंद करने की चेतावनी दी है। उन्होंने ट्रूथ सोशल पर पोस्ट कर कहा कि दोनों देशों को एक-दूसरे पर हमले रोक देने चाहिए। यह बयान ऐसे समय आया है जब क्षेत्र में तनाव बढ़ रहा है। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप मिडिल ईस्ट में शांति को लेकर इजरायल और ईरान हमले बंद करने को कहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'तुरंत बंद हो गोलीबारी', हाई टेंशन के बीच डोनाल्ड ट्रंप की ईरान-इजरायल को कड़ी चेतावनी",
-          "summary": "डोनाल्ड ट्रंप ने ईरान और इजरायल को तत्काल गोलीबारी बंद करने की चेतावनी दी है। उन्होंने ट्रूथ सोशल पर पोस्ट कर कहा कि दोनों देशों को एक-दूसरे पर हमले रोक देने चाहिए। यह बयान ऐसे समय आया है जब क्षेत्र में तनाव बढ़ रहा है। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप मिडिल ईस्ट में शांति को लेकर इजरायल और ईरान हमले बंद करने को कहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "25 लाख रुपये का जुर्माना... सुप्रीम कोर्ट का आदेश- किरायेदार के पर्यावरण नियम उल्लंघनों के लिए मकान",
-      "url": "https://www.abplive.com/news/india/supreme-court-upholds-ngt-order-that-landlord-can-not-be-liable-for-environmental-violations-committed-by-tenant-3141997",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-08T09:58:52+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/43270b1cf4eb7d49a0138e912c01389c1780912646567628_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सुप्रीम कोर्ट ने नेशनल ग्रीन ट्रिब्यूनल के फैसले को बरकरार रखा है। कोर्ट ने कहा कि किरायेदार द्वारा पर्यावरण नियमों के उल्लंघन के लिए मकान मालिक को जिम्मेदार नहीं ठहराया जा सकता। यह आदेश केमिकल यूनिट से संबंधित था। सुप्रीम कोर्ट ने नेशनल ग्रीन ट्रिब्यूनल (NGT) का एक फैसला बरकरार रखते हुए कहा है कि किरायेदार के पर्यावरण नियम उल्लंघनों के लिए मकान मालिक को जिम्मेदार नहीं ठहराया जा सकता है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "25 लाख रुपये का जुर्माना... सुप्रीम कोर्ट का आदेश- किरायेदार के पर्यावरण नियम उल्लंघनों के लिए मकान",
-          "summary": "सुप्रीम कोर्ट ने नेशनल ग्रीन ट्रिब्यूनल के फैसले को बरकरार रखा है। कोर्ट ने कहा कि किरायेदार द्वारा पर्यावरण नियमों के उल्लंघन के लिए मकान मालिक को जिम्मेदार नहीं ठहराया जा सकता। यह आदेश केमिकल यूनिट से संबंधित था। सुप्रीम कोर्ट ने नेशनल ग्रीन ट्रिब्यूनल (NGT) का एक फैसला बरकरार रखते हुए कहा है कि किरायेदार के पर्यावरण नियम उल्लंघनों के लिए मकान मालिक को जिम्मेदार नहीं ठहराया जा सकता है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "लेबनान में ऐसा क्या है, जो इसके लिए अपना सबकुछ कुर्बान करने पर आमादा है ईरान? फिर छेड़ दी जंग",
-      "url": "https://hindi.news18.com/world/middle-east-why-iran-starts-war-against-israel-for-lebanon-real-reason-behind-it-hezbollah-ws-l-10550640.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-08T09:51:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/araghchi-netanyahu-2026-06-2ad19afc590116297e84f337e627bbc0-1200x800.jpg",
-      "summary": "ईरान और इजरायल के बीच लेबनान के दक्षिणी इलाके में बढ़ते संघर्ष के कारण युद्ध छिड़ गया है। नेतन्याहू के सैन्य अभियानों के जवाब में ईरान ने युद्ध में हस्तक्षेप किया है। यह स्थिति ईरान-अमेरिका के बीच संभावित समझौते की खबरों के बीच आई है। Why Iran War Against Israel: ईरान-अमेरिका के बीच समझौते की बातें चल रही थीं और ऐसा लग रहा था कि हफ्तेभर में कुछ न कुछ हल निकल आएगा लेकिन ऐसा हुआ नहीं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लेबनान में ऐसा क्या है, जो इसके लिए अपना सबकुछ कुर्बान करने पर आमादा है ईरान? फिर छेड़ दी जंग",
-          "summary": "ईरान और इजरायल के बीच लेबनान के दक्षिणी इलाके में बढ़ते संघर्ष के कारण युद्ध छिड़ गया है। नेतन्याहू के सैन्य अभियानों के जवाब में ईरान ने युद्ध में हस्तक्षेप किया है। यह स्थिति ईरान-अमेरिका के बीच संभावित समझौते की खबरों के बीच आई है। Why Iran War Against Israel: ईरान-अमेरिका के बीच समझौते की बातें चल रही थीं और ऐसा लग रहा था कि हफ्तेभर में कुछ न कुछ हल निकल आएगा लेकिन ऐसा हुआ नहीं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जब्त संपत्तियों को लेकर रॉयटर्स की रिपोर्ट पर भड़का ईरान, दावे को बताया बकवास",
-      "url": "https://www.patrika.com/world-news/iran-blasts-reports-on-us-redirecting-frozen-assets-tehran-reuters-claim-20650369",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-08T09:47:01+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Iran-US-War-Update.png",
-      "summary": "ईरान ने रॉयटर्स की उस रिपोर्ट को बकवास बताया है जिसमें दावा किया गया था कि अमेरिका जब्त ईरानी संपत्तियों का उपयोग क्षेत्रीय सहयोगियों की मदद के लिए कर सकता है। ईरान ने इस दावे को पूरी तरह बेतुका और हास्यास्पद करार दिया है। Iran US War Update: ईरान और अमेरिका के बीच जारी तनाव के बीच अब जब्त की गई ईरानी संपत्तियों को लेकर नया विवाद खड़ा हो गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जब्त संपत्तियों को लेकर रॉयटर्स की रिपोर्ट पर भड़का ईरान, दावे को बताया बकवास",
-          "summary": "ईरान ने रॉयटर्स की उस रिपोर्ट को बकवास बताया है जिसमें दावा किया गया था कि अमेरिका जब्त ईरानी संपत्तियों का उपयोग क्षेत्रीय सहयोगियों की मदद के लिए कर सकता है। ईरान ने इस दावे को पूरी तरह बेतुका और हास्यास्पद करार दिया है। Iran US War Update: ईरान और अमेरिका के बीच जारी तनाव के बीच अब जब्त की गई ईरानी संपत्तियों को लेकर नया विवाद खड़ा हो गया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
