@@ -1,12 +1,73 @@
 {
-  "generated_at": "2026-06-09T01:42:42.920712+00:00",
+  "generated_at": "2026-06-09T03:14:43.270332+00:00",
   "article_count": 50,
-  "total_unique_count": 262,
+  "total_unique_count": 267,
   "digest": {
-    "en": "The ICC chief prosecutor is suspended pending a decision by the oversight body over sexual misconduct allegations. A US judge has struck down Trump's $100,000 H-1B visa fee, calling it unlawful. A 7.8 magnitude quake in the Philippines has killed at least 35 people.",
-    "hi": "डोनाल्ड ट्रंप ने बेंजामिन नेतन्याहू को चेतावनी दी है कि वे सावधान रहें नहीं तो बहुत जल्द अकेले रह जाएंगे। यह बयान अमेरिकी राजनीति में एक नई चर्चा का केंद्र बन गया है। ट्रंप की इस टिप्पणी के पीछे के कारणों का पता लगाना मुश्किल है।"
+    "en": "Asian stocks are tracking a Wall Street tech bounce. Oil prices are easing on hopes of a resolution in the Middle East. Netanyahu acknowledged a halt in fighting with Iran but vowed to respond with force to future attacks.",
+    "hi": "नेतन्याहू और ट्रंप के बीच बातचीत के बाद ईरान-इजरायल की जंग रुकी है। जून तक डील हो जाने की बात कही जा रही है। क्यूबा के तट पर 6.1 तीव्रता का भूकंप आया है।"
   },
   "articles": [
+    {
+      "title": "Asian stocks track Wall Street tech bounce, oil eases on Middle East hope",
+      "url": "https://www.channelnewsasia.com/asia/asian-stocks-wall-street-tech-oil-eases-middle-east-6170346",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-09T02:45:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--2W0LaLzL--/c_crop,h_562,w_1000,x_0,y_25/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/south_korea_financial_markets_81012.jpg?itok=bI4bGWL6",
+      "summary": "Asian stocks followed a Wall Street rebound, driven by investors buying cheaper assets after a tech sell-off. The gains came as markets priced in potential US interest rate hikes and concerns over technology company valuations. Oil prices eased amid hopes for de-escalation in the Middle East. The gains across most equity markets followed a rebound on Wall Street, fuelled by a race to pick up cheaper assets following a sell-off sparked by bets on a US interest rate hike and warnings over tech firms' valuations.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Netanyahu acknowledges halt in fighting with Iran but vows to respond 'with force' to future attacks",
+      "url": "https://www.thehindu.com/news/international/netanyahu-acknowledges-halt-in-fighting-with-iran-but-vows-to-respond-with-force-to-future-attacks/article71077940.ece",
+      "source": "The Hindu (International)",
+      "sources": [
+        {
+          "url": "https://www.thehindu.com/news/international/netanyahu-acknowledges-halt-in-fighting-with-iran-but-vows-to-respond-with-force-to-future-attacks/article71077940.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-beirut-strikes-strait-of-hormuz-live-updates-june-8-2026/article71074947.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-beirut-strikes-strait-of-hormuz-live-updates-june-8-2026/article71074947.ece",
+          "source": "The Hindu (International)"
+        }
+      ],
+      "published_at": "2026-06-09T02:24:12+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/z2f9a5/article71048042.ece/alternates/LANDSCAPE_1200/2026-05-25T101310Z_1635574272_RC2U7KAZP111_RTRMADP_3_IRAN-CRISIS-ISRAEL-NETANYAHU.JPG",
+      "summary": "Prime Minister Benjamin Netanyahu stated that fighting with Iran has stopped. He said this followed Israel striking targets in Tehran. Netanyahu warned that if Iran attacks Israel again, Israel will respond with force. In a videotaped statement, Mr. Netanyahu said the fighting stopped after Israel \"hit the terror regime in Tehran.” But he said if Iran “makes the mistake and returns to attacking us, we will respond with force,”.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "North Korean and Chinese leaders agree to boost ties at Pyongyang summit",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-china-summit-kim-jong-un-xi-jinping-boost-ties-6169991",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-09T02:06:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--t4irTHhv--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/09/2026-06-08t224751z_1384684396_rc2xpladcnob_rtrmadp_3_northkorea-china.jpg?itok=XK5QRPsg",
+      "summary": "Chinese President Xi Jinping met North Korean leader Kim Jong Un in Pyongyang. Chinese President Xi Jinping, making his first visit to North Korea in seven years, told North Korean leader Kim Jong Un that he would use his trip as an opportunity to make significant progress in bilateral relations, KCNA said. North Korean and Chinese leaders agree to boost ties at Pyongyang summit.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'Bibi, You Will Be On Your Own': Trump Warns Netanyahu Over Renewed Iran War",
+      "url": "https://www.ndtv.com/world-news/iran-war-donald-trump-warns-benjamin-netanyahu-to-be-careful-over-renewed-iran-war-report-11609769#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-06-09T02:06:00+00:00",
+      "image_url": "https://c.ndtvimg.com/2025-06/9r4c4u34_donald-trump-benjamin-netanyahu-trump-netanyahu_625x300_16_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "summary": "Donald Trump warned Benjamin Netanyahu against initiating a new war with Iran. He stated that Israel might face such a conflict alone. The comments were made in an interview with Axios. US President Donald Trump told Axios in an interview published on Monday that he warned Israeli Prime Minister Benjamin Netanyahu that he might find himself fighting alone if he went back to war with Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "ICC chief prosecutor suspended pending decision by oversight body over sexual misconduct allegations",
       "url": "https://www.thehindu.com/news/international/icc-chief-prosecutor-suspended-pending-decision-by-oversight-body-over-sexual-misconduct-allegations/article71078442.ece",
@@ -16,18 +77,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/erurjl/article71078443.ece/alternates/LANDSCAPE_1200/ICC_Trump_Sanctions_87257.jpg",
       "summary": "The International Criminal Court's chief prosecutor, Mr. A final decision on the fate of the British barrister is now up to the Assembly of States Parties, the body that oversees the ICC, which will hold a special session to decide if Mr. Khan can remain in his job at the global court. ICC chief prosecutor suspended pending decision by oversight body over sexual misconduct allegations.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump Warns Netanyahu To \"Be Careful\" Over Renewed Iran War: Report",
-      "url": "https://www.ndtv.com/world-news/iran-war-donald-trump-warns-benjamin-netanyahu-to-be-careful-over-renewed-iran-war-report-11609769#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-06-08T20:54:42+00:00",
-      "image_url": "https://c.ndtvimg.com/2025-06/9r4c4u34_donald-trump-benjamin-netanyahu-trump-netanyahu_625x300_16_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "summary": "Donald Trump warned Benjamin Netanyahu against initiating a new war with Iran. He stated that Israel might face such a conflict alone. The comments were made in an interview with Axios. US President Donald Trump told Axios in an interview published on Monday that he warned Israeli Prime Minister Benjamin Netanyahu that he might find himself fighting alone if he went back to war with Iran.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -44,38 +93,26 @@
       "translations": {}
     },
     {
-      "title": "Kremlin says Macron, Merz and Starmer talk of peace, but help Kyiv with new weapons to continue the",
-      "url": "https://www.thehindu.com/news/international/kremlin-says-macron-merz-and-starmer-talk-of-peace-but-help-kyiv-with-new-weapons-to-continue-the-war/article71078146.ece",
-      "source": "The Hindu (International)",
+      "title": "California revenue miss, 8% Seoul collapse: AI investors be warned",
+      "url": "https://asiatimes.com/2026/06/california-revenue-miss-8-seoul-collapse-ai-investors-be-warned/",
+      "source": "Asia Times",
       "sources": [],
-      "published_at": "2026-06-08T17:47:44+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/ol0fvr/article71078153.ece/alternates/LANDSCAPE_1200/Russia_Putin_43531.jpg",
-      "summary": "The Kremlin stated French President Emmanuel Macron, German Chancellor Friedrich Merz, and The leaders of ‌Britain, Germany ​, and France said on June 7 they supported a proposal ‌for talks between Ukrainian President Volodymyr Zelenskiy and Russian President ‌Vladimir Putin to ​try to secure a ceasefire, ⁠and that ⁠Europe would play a ‌role. Kremlin says Macron, Merz and Starmer talk of peace, but help Kyiv with new weapons to continue the.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Germany’s standing in international order under scrutiny after UNSC loss",
-      "url": "https://www.thehindu.com/news/international/germanys-standing-in-international-order-under-scrutiny-after-unsc-loss/article71077217.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-08T16:48:26+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/national/di9um1/article71078078.ece/alternates/LANDSCAPE_1200/iStock-2186954083%204.jpg",
-      "summary": "Germany failed to secure a non-permanent seat on the United Nations Security Council. The country has failed to win a non-permanent seat on the UNSC for the first time. Its selective application of international law vis-à-vis Ukraine and Iran, and its cautious and often wavering approach towards Israel, might have led smaller nations to lose faith in it. Germany’s standing in international order under scrutiny after UNSC loss.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "7.8 magnitude quake in Philippines kills at least 35, collapses buildings, sparks tsunami",
-      "url": "https://www.thehindu.com/news/international/earthquake-strikes-mindanao-in-philippines/article71074937.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-08T16:23:35+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/4lcdf/article71075002.ece/alternates/LANDSCAPE_1200/AFP__20260608__B6BJ9NQ__v1__HighRes__PhilippinesEarthquake.jpg",
-      "summary": "A 7.8 magnitude earthquake struck the Philippines, killing at least 35 people. The quake caused buildings to collapse in General Santos. Tsunami damage was reported in a southern coastal village. Smaller waves were measured in Indonesia, Palau, and southern Japan. Several mostly low-rise buildings collapsed or sustained heavy damage in the hard-hit city of General Santos. Tsunami damage was reported in at least one southern coastal village.",
+      "published_at": "2026-06-08T17:55:12+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/SK-Hynix-chip-copy.jpg",
+      "summary": "Broadcom, a US chip and networking supplier for AI, missed revenue expectations last week Broadcom, a US supplier of the chips and networking technology that underpin the global artificial intelligence boom, missed revenue expectations last week. Not by much. On Monday, South Korea’s stock market had fallen more than 8%, Samsung Electronics had lost 10%, SK Hynix almost 8%, Taiwan’s market had been hit, Japanese semiconductor stocks were under [] The post California revenue miss, 8% S.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Two US pilots killed after plane bound to pick up former MLB star crashes",
+      "url": "https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-08T16:44:08+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/7b7247c317d39f58498e2407fe878c15c4021d70/385_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b147382b81edf7d67809db435ede8111",
+      "summary": "A U. S. registered plane crashed in the Dominican Republic on 2 March 2024. The pilot and co-pilot died in the incident. The aircraft was en route to pick up former MLB star Yadier Molina and his family. Molina stated on social media the plane was headed to Texas. Plane on way to pick up Yadier Molina and his family crashed in Dominican Republic, killing pilot and co-pilotA pilot and co-pilot from the United States have died in a fiery plane crash as they attempted an emergency landing in the Dominican Republic, authorities said. Former major league baseball all-star catcher Yadier Molina said on social media that the plane was bound for Texas to pick him up.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -92,14 +129,14 @@
       "translations": {}
     },
     {
-      "title": "INDIA bloc’s latest huddle: What emerged behind closed doors? | Above the Fold | 08.06.2026",
-      "url": "https://www.thehindu.com/videos/watch-india-blocs-latest-huddle-what-emerged-behind-closed-doors-above-the-fold-08062026/article71077832.ece",
-      "source": "The Hindu (International)",
+      "title": "HK and Bangkok step aside, Vienna’s claim as spy capital is strong",
+      "url": "https://asiatimes.com/2026/06/hk-and-bangkok-step-aside-viennas-claim-as-spy-capital-is-strong/",
+      "source": "Asia Times",
       "sources": [],
-      "published_at": "2026-06-08T15:41:46+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/mdrubr/article71077769.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-08%20at%2020.48.28.jpeg",
-      "summary": "The INDIA bloc held its latest strategy meeting. Alliance tensions are reportedly growing. From the INDIA bloc’s latest strategy meeting and growing alliance tensions to the escalating U. S.-Iran conflict, a major arrest in West Bengal and Xi Jinping’s North Korea visit. The top stories of the day. INDIA bloc’s latest huddle: What emerged behind closed doors? | Above the Fold | 08.06.2026.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-06-08T15:28:20+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/Spy_silhouette_document.svg_-e1780931249566.png",
+      "summary": "Egisto Ott, a former Austrian intelligence officer, was sentenced to prison for passing classified information to Russia. Ott, 63, worked for the Federal Office for the Protection of the Constitution and Counterterrorism. He allegedly shared details about Austrian security operations with Russian intelligence services. The case has raised questions about Vienna's role as a hub for espionage. Egisto Ott is no James Bond.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -284,80 +321,56 @@
       "translations": {}
     },
     {
-      "title": "From firefights to football matches: Life on a UN peacekeeping frontline",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167666",
-      "source": "UN News",
+      "title": "नेतन्याहू को ट्रंप ने फिर हड़काया, रुकी ईरान-इजरायल की जंग, जून तक हो जाएगी डील",
+      "url": "https://hindi.news18.com/world/middle-east-iran-israel-war-news-live-update-donald-trump-warns-netanyahu-fighting-hault-middle-east-conflict-livenews-10552224.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-07T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/05-06-2026-MINUSCA-CAR-09.jpg/image770x420cropped.jpg",
-      "summary": "Rebels from the Azande Ani Kpi Gbe militia launched an offensive in Zémio, Central African Republic, to seize the city and disrupt the December 2025 presidential election. The attack began at night, hours before the polls were set to open. The city is a key location in the east of the country. UN peacekeepers are deployed in the area. Night has fallen over the town of Zémio, in the east of the Central African Republic.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Peru’s discontented voters face straight left-right choice in election runoff",
-      "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-07T05:00:24+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/0ca42b11c3838c5571606b6d38461d5ef5db2787/479_0_4788_3830/master/4788.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13b998569d4c087f9056d81d762da2a5",
-      "summary": "Peruvians vote in a runoff election between Keiko Fujimori and Roberto Sánchez. Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decadePeruvians go to the polls on Sunday in an election runoff that pits a perennial rightwing candidate, Keiko Fujimori, against a leftist congressman, Roberto Sánchez. Amid rising crime, chronic political instability, corruption scandals and voter apathy, they are vying to.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "डोनाल्ड ट्रंप ने दी बेंजामिन नेतन्याहू को चेतावनी – ‘सावधान रहो, नहीं तो बहुत जल्द अकेले रह जाओंगे’",
-      "url": "https://www.patrika.com/world-news/donald-trump-warns-benjamin-netanyahu-be-careful-or-you-will-be-on-your-own-very-soon-20651735",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-09T01:42:14+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/trump-warns-netanyahu.webp",
-      "summary": "डोनाल्ड ट्रंप ने बेंजामिन नेतन्याहू को चेतावनी दी है कि वे सावधान रहें नहीं तो अकेले रह जाएंगे। इज़रायल (Israel) और ईरान (Iran) ने सोमवार को एक-दूसरे पर हमले किए, जिससे युद्ध का खतरा बढ़ गया। ईरान ने अप्रैल में हुए सीज़फायर के बाद इज़रायल पर पहला हमला किया, जो लेबनान की राजधानी बेरुत पर इज़रायली हमले का जवाब देने के लिए किया गया था।",
+      "published_at": "2026-06-09T02:43:34+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-Trump-On-Netanyahu-and-Mojtaba-2026-06-b7b16e352e7bb3e2b364f1677f9c4060-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने नेतन्याहू को ईरान पर हमले को लेकर चेतावनी दी है, ताकि वार्ता पर किसी तरह का असर न पड़े। Iran-Israel War Update: ईरान-इजरायल के बीच चल रहा हमलों का सिलसिला फिलहाल के लिए रुक गया है. डोनाल्ड ट्रंप ने इजरायली पीएम नेतन्याहू को ईरान पर हमले को लेकर सख्त चेतावनी दी है, ताकि वार्ता पर किसी तरह का असर न पड़े.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "डोनाल्ड ट्रंप ने दी बेंजामिन नेतन्याहू को चेतावनी – ‘सावधान रहो, नहीं तो बहुत जल्द अकेले रह जाओंगे’",
-          "summary": "डोनाल्ड ट्रंप ने बेंजामिन नेतन्याहू को चेतावनी दी है कि वे सावधान रहें नहीं तो अकेले रह जाएंगे। इज़रायल (Israel) और ईरान (Iran) ने सोमवार को एक-दूसरे पर हमले किए, जिससे युद्ध का खतरा बढ़ गया। ईरान ने अप्रैल में हुए सीज़फायर के बाद इज़रायल पर पहला हमला किया, जो लेबनान की राजधानी बेरुत पर इज़रायली हमले का जवाब देने के लिए किया गया था।",
+          "title": "नेतन्याहू को ट्रंप ने फिर हड़काया, रुकी ईरान-इजरायल की जंग, जून तक हो जाएगी डील",
+          "summary": "डोनाल्ड ट्रंप ने नेतन्याहू को ईरान पर हमले को लेकर चेतावनी दी है, ताकि वार्ता पर किसी तरह का असर न पड़े। Iran-Israel War Update: ईरान-इजरायल के बीच चल रहा हमलों का सिलसिला फिलहाल के लिए रुक गया है. डोनाल्ड ट्रंप ने इजरायली पीएम नेतन्याहू को ईरान पर हमले को लेकर सख्त चेतावनी दी है, ताकि वार्ता पर किसी तरह का असर न पड़े.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "H-1B वीजा पर ट्रंप की 1 लाख डॉलर फीस को अदालत ने किया रद्द; जज ने कहा- कानून के खिलाफ",
-      "url": "https://www.amarujala.com/world/us-court-strikes-down-trump-100-000-h-1b-visa-fee-for-skilled-foreign-workers-2026-06-08",
-      "source": "Amar Ujala Breaking",
+      "title": "क्यूबा के तट पर 6.1 तीव्रता का भूकंप; ओमान तट के पास हमले का शिकार हुआ टैंकर था प्रतिबंधित",
+      "url": "https://www.amarujala.com/world/world-news-today-us-west-asia-crisis-iran-war-oil-tanker-china-2026-06-09",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-09T01:32:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/22/h-1b-vaja_9762a0d595bf577fe4e29ae726745333.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिकी अदालत ने ट्रंप की H-1B वीजा पर 1 लाख डॉलर फीस को रद्द कर दिया है। अमेरिकी अदालत से ट्रंप को बड़ा झटका: H-1B वीजा पर 1 लाख डॉलर की फीस पर कोर्ट की रोक, जज ने कहा- कानून के खिलाफ। H-1B वीजा पर ट्रंप की 1 लाख डॉलर फीस को अदालत ने किया रद्द; जज ने कहा- कानून के खिलाफ।",
-      "region": "Americas",
+      "published_at": "2026-06-09T02:02:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
+      "summary": "ओमान तट के पास हमलावर जहाज ने एक तेल टैंकर पर हमला किया। टैंकर पर प्रतिबंध लगा हुआ था। जांच में पता चला कि हमलावर जहाज का संबंध ईरान से था। यह घटना पश्चिम एशिया में बढ़ते तनाव के बीच हुई है। प्रतिबंधित था ओमान तट के पास हमले का शिकार हुआ टैंकर, जांच में चौंकाने वाला खुलासा। क्यूबा के तट पर 6.1 तीव्रता का भूकंप; ओमान तट के पास हमले का शिकार हुआ टैंकर था प्रतिबंधित।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "H-1B वीजा पर ट्रंप की 1 लाख डॉलर फीस को अदालत ने किया रद्द; जज ने कहा- कानून के खिलाफ",
-          "summary": "अमेरिकी अदालत ने ट्रंप की H-1B वीजा पर 1 लाख डॉलर फीस को रद्द कर दिया है। अमेरिकी अदालत से ट्रंप को बड़ा झटका: H-1B वीजा पर 1 लाख डॉलर की फीस पर कोर्ट की रोक, जज ने कहा- कानून के खिलाफ। H-1B वीजा पर ट्रंप की 1 लाख डॉलर फीस को अदालत ने किया रद्द; जज ने कहा- कानून के खिलाफ।",
-          "region": "अमेरिका"
+          "title": "क्यूबा के तट पर 6.1 तीव्रता का भूकंप; ओमान तट के पास हमले का शिकार हुआ टैंकर था प्रतिबंधित",
+          "summary": "ओमान तट के पास हमलावर जहाज ने एक तेल टैंकर पर हमला किया। टैंकर पर प्रतिबंध लगा हुआ था। जांच में पता चला कि हमलावर जहाज का संबंध ईरान से था। यह घटना पश्चिम एशिया में बढ़ते तनाव के बीच हुई है। प्रतिबंधित था ओमान तट के पास हमले का शिकार हुआ टैंकर, जांच में चौंकाने वाला खुलासा। क्यूबा के तट पर 6.1 तीव्रता का भूकंप; ओमान तट के पास हमले का शिकार हुआ टैंकर था प्रतिबंधित।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "वो जज कौन, जिन्होंने H1B1 वीजा पर ट्रंप को दिया झटका? ओबामा ने की थी नियुक्ति, रूस से है खास नाता",
-      "url": "https://hindi.news18.com/world/america-who-is-us-district-judge-leo-sorokin-strikes-down-trumps-h1-b-visa-fee-appointed-by-barak-obama-10552166.html",
+      "title": "तब तो तुम अकेले ही जंग लड़ना...डोनाल्ड ट्रंप के बदले तेवर, ईरान जंग पर छोड़ देंगे नेतन्याहू का साथ!",
+      "url": "https://hindi.news18.com/world/middle-east-donald-trump-warned-benjamin-netanyahu-if-israel-went-back-to-war-with-iran-he-might-find-himself-fighting-alone-10552052.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-09T01:24:39+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/trump-sorokin-2026-06-cf3556ceca07227e1eeef2ffccd5a097-1200x800.jpg",
-      "summary": "जज लियो सोरोकिन ने ट्रंप के H-1B वीजा पर मॉनिटरी पेनल्टी के फैसले को खारिज कर दिया है। Who is Judge Leo Sorokin: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को अपने ही देश में अपने ही फैसलों पर कोर्ट से मात खानी पड़ रही है. एक बार फिर उनके एच1 बी वीजा पर मॉनिटरी पेनल्टी के फैसले को कोर्ट ने खारिज कर दिया है.",
-      "region": "Europe & Russia",
+      "published_at": "2026-06-09T01:27:34+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Trump-2-2026-06-692cafa09b5051e39117e83e450f60ad-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने नेतन्याहू को चेतावनी दी है कि अगर इजरायल ने ईरान के खिलाफ दोबारा बड़े पैमाने पर युद्ध शुरू किया तो उसे अमेरिका का पूरा समर्थन नहीं मिल सकता। Donald Trump on Iran War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू को चेतावनी दी है कि अगर इजरायल ने ईरान के खिलाफ दोबारा बड़े पैमाने पर युद्ध शुरू किया तो उसे अमेरिका का पूरा समर्थन नहीं मिल सकता.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वो जज कौन, जिन्होंने H1B1 वीजा पर ट्रंप को दिया झटका? ओबामा ने की थी नियुक्ति, रूस से है खास नाता",
-          "summary": "जज लियो सोरोकिन ने ट्रंप के H-1B वीजा पर मॉनिटरी पेनल्टी के फैसले को खारिज कर दिया है। Who is Judge Leo Sorokin: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को अपने ही देश में अपने ही फैसलों पर कोर्ट से मात खानी पड़ रही है. एक बार फिर उनके एच1 बी वीजा पर मॉनिटरी पेनल्टी के फैसले को कोर्ट ने खारिज कर दिया है.",
-          "region": "यूरोप और रूस"
+          "title": "तब तो तुम अकेले ही जंग लड़ना...डोनाल्ड ट्रंप के बदले तेवर, ईरान जंग पर छोड़ देंगे नेतन्याहू का साथ!",
+          "summary": "डोनाल्ड ट्रंप ने नेतन्याहू को चेतावनी दी है कि अगर इजरायल ने ईरान के खिलाफ दोबारा बड़े पैमाने पर युद्ध शुरू किया तो उसे अमेरिका का पूरा समर्थन नहीं मिल सकता। Donald Trump on Iran War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू को चेतावनी दी है कि अगर इजरायल ने ईरान के खिलाफ दोबारा बड़े पैमाने पर युद्ध शुरू किया तो उसे अमेरिका का पूरा समर्थन नहीं मिल सकता.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -380,60 +393,6 @@
       }
     },
     {
-      "title": "एकजुटता का संदेश, मगर चुनौतियों से घिरा इंडिया गठबंधन",
-      "url": "https://www.amarujala.com/columns/opinion/opposition-parties-meeting-in-delhi-show-unity-but-still-faces-challenges-2026-06-09",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-09T00:55:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/09/opposition-parties-akhilesh-yadav_2eee858ea67de27487bc008fa7f2ea43.jpeg?w=750&dpr=1.0",
-      "summary": "विपक्षी दलों ने दिल्ली में एकजुटता का संदेश दिया है लेकिन अभी भी चुनौतियों का सामना कर रहे हैं। एकजुटता का संदेश, मगर चुनौतियों से घिरा इंडिया गठबंधन।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एकजुटता का संदेश, मगर चुनौतियों से घिरा इंडिया गठबंधन",
-          "summary": "विपक्षी दलों ने दिल्ली में एकजुटता का संदेश दिया है लेकिन अभी भी चुनौतियों का सामना कर रहे हैं। एकजुटता का संदेश, मगर चुनौतियों से घिरा इंडिया गठबंधन।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप को लगा तगड़ा झटका, जो बाइडेन से भी गए-गुजरे निकले, ईरान जंग पर सर्वे ने खोल दी पोल",
-      "url": "https://hindi.news18.com/world/america-donald-trump-approval-near-record-low-amid-iran-war-cost-of-living-crisis-reuters-ipsos-survey-ws-a-10552050.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-09T00:14:37+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-Trump-Health-2026-06-85e8e41c4a755f94f3f45c4e833bc81d-1200x800.jpg",
-      "summary": "रॉयटर्स-इप्सोस के एक नए सर्वेक्षण में डोनाल्ड ट्रंप की लोकप्रियता में गिरावट दर्ज की गई है। केवल 35% लोगों ने उनके काम को मंजूरी दी। 70% अमेरिकी महंगाई और जीवनयापन की बढ़ती लागत से असंतुष्ट हैं। Donald Trump News: डोनाल्ड ट्रंप को बड़ा झटका लगा है. उनकी लोकप्रियता अब लगातार गिर रही है. रॉयटर्स-इप्सोस के नए सर्वे में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की लोकप्रियता में गिरावट दर्ज की गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप को लगा तगड़ा झटका, जो बाइडेन से भी गए-गुजरे निकले, ईरान जंग पर सर्वे ने खोल दी पोल",
-          "summary": "रॉयटर्स-इप्सोस के एक नए सर्वेक्षण में डोनाल्ड ट्रंप की लोकप्रियता में गिरावट दर्ज की गई है। केवल 35% लोगों ने उनके काम को मंजूरी दी। 70% अमेरिकी महंगाई और जीवनयापन की बढ़ती लागत से असंतुष्ट हैं। Donald Trump News: डोनाल्ड ट्रंप को बड़ा झटका लगा है. उनकी लोकप्रियता अब लगातार गिर रही है. रॉयटर्स-इप्सोस के नए सर्वे में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की लोकप्रियता में गिरावट दर्ज की गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सीलिंग, तोड़फोड़ और नोटिसों की कार्रवाई तेज, 42 संपत्तियां सील, 26 पर चला प्रशासन का बुलडोजर",
-      "url": "https://www.amarujala.com/delhi/crackdown-involving-sealing-demolition-and-notices-intensifies-42-properties-sealed-26-faced-bulldozer-in-del-2026-06-09",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-08T23:57:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/09/atakaramanae-ka-khalfa-abhayana_449120f55cdd77f286cf5ecf66e7a0cd.png?w=750&dpr=1.0",
-      "summary": "राजधानी में अवैध निर्माणों के खिलाफ अभियान के तहत सोमवार को 42 संपत्तियों को सील किया गया और 26 पर बुलडोजर चलाया गया। कार्रवाई में भवन उपविधियों के उल्लंघन और अग्नि सुरक्षा मानकों की अनदेखी पर ध्यान केंद्रित किया गया। राजधानी में अवैध निर्माण, भवन उपविधियों के उल्लंघन और अग्नि सुरक्षा मानकों की अनदेखी के खिलाफ चलाए जा रहे विशेष अभियान के तहत सोमवार को बड़े पैमाने पर कार्रवाई की गई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीलिंग, तोड़फोड़ और नोटिसों की कार्रवाई तेज, 42 संपत्तियां सील, 26 पर चला प्रशासन का बुलडोजर",
-          "summary": "राजधानी में अवैध निर्माणों के खिलाफ अभियान के तहत सोमवार को 42 संपत्तियों को सील किया गया और 26 पर बुलडोजर चलाया गया। कार्रवाई में भवन उपविधियों के उल्लंघन और अग्नि सुरक्षा मानकों की अनदेखी पर ध्यान केंद्रित किया गया। राजधानी में अवैध निर्माण, भवन उपविधियों के उल्लंघन और अग्नि सुरक्षा मानकों की अनदेखी के खिलाफ चलाए जा रहे विशेष अभियान के तहत सोमवार को बड़े पैमाने पर कार्रवाई की गई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "पाकिस्तान के कब्जे वाले कश्मीर में बवाल: प्रदर्शनकारियों और सुरक्षा बलों की झड़प में 11 की मौत, 70",
       "url": "https://www.amarujala.com/world/violence-erupts-in-pok-ahead-of-shutdown-call-multiple-dead-and-dozens-injured-2026-06-09",
       "source": "Amar Ujala World",
@@ -447,150 +406,6 @@
         "hi": {
           "title": "पाकिस्तान के कब्जे वाले कश्मीर में बवाल: प्रदर्शनकारियों और सुरक्षा बलों की झड़प में 11 की मौत, 70",
           "summary": "पाकिस्तान के कब्जे वाले कश्मीर में प्रदर्शनकारियों और सुरक्षा बलों के बीच झड़प में 11 लोगों की मौत हो गई और 70 घायल हो गए। क्षेत्र में अशांति की स्थिति बनी हुई है। पाकिस्तान के कब्जे वाले कश्मीर में बवाल: प्रदर्शनकारियों और सुरक्षा बलों की झड़प में 11 की मौत, 70 घायल।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चार दशक में चार गुना क्षेत्रों तक बढ़ा उमस भरी गर्मी का दायरा, अध्ययन में बड़ा दावा",
-      "url": "https://www.amarujala.com/india-news/climate-change-impact-summer-days-increase-in-larger-geography-2026-06-09",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-08T23:51:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/06/summer_f14e36052268e93d7516982b4d73ffd7.jpeg?w=750&dpr=1.0",
-      "summary": "एक नए अध्ययन के अनुसार, पिछले चार दशकों में उमस भरी गर्मी का दायरा चार गुना बढ़ गया है। यह जलवायु परिवर्तन के बढ़ते प्रभाव को दर्शाता है। चार दशक में चार गुना क्षेत्रों तक बढ़ा उमस भरी गर्मी का दायरा, अध्ययन में बड़ा दावा।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चार दशक में चार गुना क्षेत्रों तक बढ़ा उमस भरी गर्मी का दायरा, अध्ययन में बड़ा दावा",
-          "summary": "एक नए अध्ययन के अनुसार, पिछले चार दशकों में उमस भरी गर्मी का दायरा चार गुना बढ़ गया है। यह जलवायु परिवर्तन के बढ़ते प्रभाव को दर्शाता है। चार दशक में चार गुना क्षेत्रों तक बढ़ा उमस भरी गर्मी का दायरा, अध्ययन में बड़ा दावा।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "विज्ञान और इंसानी जज्बे का कमाल: बच गई पृथ्वी की सबसे दुर्लभ पेड़ की प्रजाति",
-      "url": "https://www.patrika.com/world-news/worlds-rarest-tree-dendroseris-neriifolia-robinsin-crusoe-seeds-germination-20651721",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-08T23:35:30+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Dendroseris-neriifolia.webp",
-      "summary": "चिली के रॉबिन्सन क्रूसो द्वीप पर दुनिया की सबसे दुर्लभ पेड़ प्रजाति के आखिरी जंगली पेड़ से लिए गए बीज इंग्लैंड में सफलतापूर्वक अंकुरित हो गए हैं। यह प्रजाति इंसानी गतिविधियों, जंगलों की कटाई और जलवायु परिवर्तन के कारण विलुप्त होने के कगार पर थी। वैज्ञानिकों ने इन बीजों को बचाकर प्रजाति को विलुप्त होने से बचाने का प्रयास किया है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विज्ञान और इंसानी जज्बे का कमाल: बच गई पृथ्वी की सबसे दुर्लभ पेड़ की प्रजाति",
-          "summary": "चिली के रॉबिन्सन क्रूसो द्वीप पर दुनिया की सबसे दुर्लभ पेड़ प्रजाति के आखिरी जंगली पेड़ से लिए गए बीज इंग्लैंड में सफलतापूर्वक अंकुरित हो गए हैं। यह प्रजाति इंसानी गतिविधियों, जंगलों की कटाई और जलवायु परिवर्तन के कारण विलुप्त होने के कगार पर थी। वैज्ञानिकों ने इन बीजों को बचाकर प्रजाति को विलुप्त होने से बचाने का प्रयास किया है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "96 मिसाइलें, अंतरिक्ष तक नजर... जिस युद्धपोत के नाम से डरते हैं दुश्मन, चीन की DF-21D के आगे क्यों",
-      "url": "https://hindi.news18.com/world/china-arleigh-burke-vs-china-df-21d-why-us-navy-top-destroyer-is-vulnerable-to-hypersonic-missiles-10551887.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-08T23:31:03+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Arleigh-Burke-vs-China-DF-21D-2026-06-08b4fc1ec43fd716e550321b0a9b7820-1200x800.jpg",
-      "summary": "अमेरिकी नौसेना का अर्ली बर्क-क्लास विध्वंसक 96 मिसाइलों और उन्नत रडार से लैस है। इसे समुद्र का अजेय योद्धा माना जाता है। चीन की DF-21D और रूस की जिरकॉन जैसी मिसाइलों ने इसकी चुनौतियां बढ़ा दी हैं। ये मिसाइलें ध्वनि की गति से पांच गुना तेज चलती हैं। इनके कारण विध्वंसक का प्रतिक्रिया समय बहुत कम हो जाता है। Arleigh Burke vs China DF-21D: अमेरिकी नौसेना की रीढ़ माना जाने वाला अर्ली बर्क-क्लास डिस्ट्रॉयर 96 मिसाइलों और अंतरिक्ष तक नजर रखने वाले एजिस रडार से लैस समंदर का अजेय योद्धा है, लेकिन चीन की DF-21D जैसी कैरियर-किलर और रूस की जिरकॉन हाइपरसोनिक मिसाइलों ने इसकी मुश्किलें बढ़ा दी हैं.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "96 मिसाइलें, अंतरिक्ष तक नजर... जिस युद्धपोत के नाम से डरते हैं दुश्मन, चीन की DF-21D के आगे क्यों",
-          "summary": "अमेरिकी नौसेना का अर्ली बर्क-क्लास विध्वंसक 96 मिसाइलों और उन्नत रडार से लैस है। इसे समुद्र का अजेय योद्धा माना जाता है। चीन की DF-21D और रूस की जिरकॉन जैसी मिसाइलों ने इसकी चुनौतियां बढ़ा दी हैं। ये मिसाइलें ध्वनि की गति से पांच गुना तेज चलती हैं। इनके कारण विध्वंसक का प्रतिक्रिया समय बहुत कम हो जाता है। Arleigh Burke vs China DF-21D: अमेरिकी नौसेना की रीढ़ माना जाने वाला अर्ली बर्क-क्लास डिस्ट्रॉयर 96 मिसाइलों और अंतरिक्ष तक नजर रखने वाले एजिस रडार से लैस समंदर का अजेय योद्धा है, लेकिन चीन की DF-21D जैसी कैरियर-किलर और रूस की जिरकॉन हाइपरसोनिक मिसाइलों ने इसकी मुश्किलें बढ़ा दी हैं.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ममता पर दांव लगा रही है कांग्रेस? विपक्षी राजनीति में तृणमूल प्रमुख की बढ़ती भूमिका के संकेत",
-      "url": "https://www.amarujala.com/india-news/congress-bet-on-mamata-banerjee-opposition-parties-planning-bigger-role-for-tmc-chief-2026-06-09",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-08T23:12:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/09/mamata-banerjee-opposition-parties_d2f2bc40177aef77bef5cf5f8055a24d.jpeg?w=750&dpr=1.0",
-      "summary": "कांग्रेस तृणमूल कांग्रेस प्रमुख ममता बनर्जी के साथ गठबंधन पर विचार कर रही है। यह संकेत कांग्रेस के वरिष्ठ नेताओं द्वारा बनर्जी से मिलने के बाद मिले हैं। कांग्रेस नेताओं ने बनर्जी से 2024 के आम चुनावों के लिए एक संयुक्त रणनीति पर चर्चा की। तृणमूल कांग्रेस की राष्ट्रीय राजनीति में भूमिका बढ़ रही है। Mamata Banerjee: क्या ममता पर दांव लगा रही है कांग्रेस?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ममता पर दांव लगा रही है कांग्रेस? विपक्षी राजनीति में तृणमूल प्रमुख की बढ़ती भूमिका के संकेत",
-          "summary": "कांग्रेस तृणमूल कांग्रेस प्रमुख ममता बनर्जी के साथ गठबंधन पर विचार कर रही है। यह संकेत कांग्रेस के वरिष्ठ नेताओं द्वारा बनर्जी से मिलने के बाद मिले हैं। कांग्रेस नेताओं ने बनर्जी से 2024 के आम चुनावों के लिए एक संयुक्त रणनीति पर चर्चा की। तृणमूल कांग्रेस की राष्ट्रीय राजनीति में भूमिका बढ़ रही है। Mamata Banerjee: क्या ममता पर दांव लगा रही है कांग्रेस?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारतीय IT पेशेवरों को राहत, शुल्क बढ़ाने की डोनाल्ड ट्रंप की योजना पर कोर्ट की रोक",
-      "url": "https://www.patrika.com/world-news/us-judge-blocks-donald-trump-usd-100k-h-1b-visa-fee-plan-20651695",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-08T21:29:01+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/donald-trump-1.jpg",
-      "summary": "एक अमेरिकी अदालत ने H-1B वीजा के लिए आवेदन करने वाले विदेशी कर्मचारियों को नियुक्त करने वाली कंपनियों पर 1 लाख अमेरिकी डॉलर तक का अतिरिक्त शुल्क लगाने की योजना पर रोक लगा दी है। यह फैसला अमेरिकी कंपनियों और भारतीय आईटी पेशेवरों के लिए राहत की खबर है। अदालत के इस निर्णय से ट्रंप प्रशासन की सख्त आव्रजन नीतियों को झटका लगा है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतीय IT पेशेवरों को राहत, शुल्क बढ़ाने की डोनाल्ड ट्रंप की योजना पर कोर्ट की रोक",
-          "summary": "एक अमेरिकी अदालत ने H-1B वीजा के लिए आवेदन करने वाले विदेशी कर्मचारियों को नियुक्त करने वाली कंपनियों पर 1 लाख अमेरिकी डॉलर तक का अतिरिक्त शुल्क लगाने की योजना पर रोक लगा दी है। यह फैसला अमेरिकी कंपनियों और भारतीय आईटी पेशेवरों के लिए राहत की खबर है। अदालत के इस निर्णय से ट्रंप प्रशासन की सख्त आव्रजन नीतियों को झटका लगा है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'दुनिया को गुमराह करने की कोशिश नाकाम होगी', संयुक्त राष्ट्र में भारत ने फिर पाकिस्तान को लगाई फटकार",
-      "url": "https://www.amarujala.com/world/india-slams-pakistan-at-un-calls-fitna-al-hindustan-narrative-state-sponsored-misinformation-2026-06-09",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-08T21:15:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/09/un-security-council_df6097fc32bcdad437fb47a53a42d22a.png?w=750&dpr=1.0",
-      "summary": "संयुक्त राष्ट्र में भारत ने पाकिस्तान को फटकार लगाई। भारत ने कहा कि दुनिया को गुमराह करने की कोशिश नाकाम होगी। यह घटना संयुक्त राष्ट्र सुरक्षा परिषद में हुई। UNSC: 'दुनिया को गुमराह करने की कोशिश नाकाम होगी', संयुक्त राष्ट्र में भारत ने फिर पाकिस्तान को लगाई फटकार।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'दुनिया को गुमराह करने की कोशिश नाकाम होगी', संयुक्त राष्ट्र में भारत ने फिर पाकिस्तान को लगाई फटकार",
-          "summary": "संयुक्त राष्ट्र में भारत ने पाकिस्तान को फटकार लगाई। भारत ने कहा कि दुनिया को गुमराह करने की कोशिश नाकाम होगी। यह घटना संयुक्त राष्ट्र सुरक्षा परिषद में हुई। UNSC: 'दुनिया को गुमराह करने की कोशिश नाकाम होगी', संयुक्त राष्ट्र में भारत ने फिर पाकिस्तान को लगाई फटकार।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "प्रतिबंधित था ओमान तट के पास हमले का शिकार हुआ टैंकर, जांच में चौंकाने वाला खुलासा",
-      "url": "https://www.amarujala.com/world/world-news-today-us-west-asia-crisis-iran-war-oil-tanker-china-2026-06-09",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-08T20:47:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=750&dpr=1.0",
-      "summary": "ओमान तट के पास हमलावर जहाज ने एक तेल टैंकर पर हमला किया। टैंकर पर प्रतिबंध लगा हुआ था। जांच में पता चला कि हमलावर जहाज का संबंध ईरान से था। यह घटना पश्चिम एशिया में बढ़ते तनाव के बीच हुई है। प्रतिबंधित था ओमान तट के पास हमले का शिकार हुआ टैंकर, जांच में चौंकाने वाला खुलासा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रतिबंधित था ओमान तट के पास हमले का शिकार हुआ टैंकर, जांच में चौंकाने वाला खुलासा",
-          "summary": "ओमान तट के पास हमलावर जहाज ने एक तेल टैंकर पर हमला किया। टैंकर पर प्रतिबंध लगा हुआ था। जांच में पता चला कि हमलावर जहाज का संबंध ईरान से था। यह घटना पश्चिम एशिया में बढ़ते तनाव के बीच हुई है। प्रतिबंधित था ओमान तट के पास हमले का शिकार हुआ टैंकर, जांच में चौंकाने वाला खुलासा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारतीयों के लिए राहत, टैरिफ के बाद कोर्ट ने ट्रंप को दिया एक और झटका, H-1B वीजा पर भारी फीस का",
-      "url": "https://hindi.news18.com/world/america-donald-trump-decision-of-heavy-fees-on-h-1b-visa-canceled-by-federal-court-10551966.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-08T19:48:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Donald-Trump-Reuters-2026-05-8dba1693e1550e14f30f7797a57b3791-1200x800.jpg",
-      "summary": "अमेरिकी अदालत ने ट्रम्प के एच-1बी वीजा फीस बढ़ाने के फैसले को खारिज कर दिया। अमेरिकी की एक अदालत ने नए एच-1बी वीजा पर 1 लाख डॉलर की लगाने के राष्ट्रपति डोनाल्ड ट्रम्प के कदम को खारिज कर दिया है. अदालत ने फैसला सुनाया कि यह उपाय एक अवैध टैक्स के समान था. इसे कांग्रेस ने कभी मंजूरी नहीं दी थी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतीयों के लिए राहत, टैरिफ के बाद कोर्ट ने ट्रंप को दिया एक और झटका, H-1B वीजा पर भारी फीस का",
-          "summary": "अमेरिकी अदालत ने ट्रम्प के एच-1बी वीजा फीस बढ़ाने के फैसले को खारिज कर दिया। अमेरिकी की एक अदालत ने नए एच-1बी वीजा पर 1 लाख डॉलर की लगाने के राष्ट्रपति डोनाल्ड ट्रम्प के कदम को खारिज कर दिया है. अदालत ने फैसला सुनाया कि यह उपाय एक अवैध टैक्स के समान था. इसे कांग्रेस ने कभी मंजूरी नहीं दी थी.",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -650,24 +465,6 @@
       }
     },
     {
-      "title": "दुबई सड़क हादसे में 7 भारतीय मजदूरों की मौत, 9 घायल, 5 की हालत गंभीर",
-      "url": "https://hindi.news18.com/world/middle-east-dubai-road-accident-7-indian-workers-killed-9-injured-10551905.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-08T18:10:14+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Dubai-Police-2026-06-53dd22c5c338c1354552f4c7884547b2-1200x800.jpg",
-      "summary": "दुबई में एक सड़क हादसे में 7 भारतीय मजदूरों की मौत हो गई है और 9 घायल हुए हैं। दुबई के भारतीय दूतावास ने इस हादसे की जानकारी दी है. इनमें मरने वालों में 7 भारतीय मजदूर थे. हादसे में मिनीबस और ट्रक के बीच टक्कर हुई. दूतावास ने मरने वाले परिवारों के प्रति संवेदना व्यक्त की है. दुबई पुलिस के ट्रैफिक विभाग के निदेशक ब्रिगेडियर जुमा सालेम बिन सुवैदान ने कहा कि सड़क के बीच में वाहन रोकना सबसे खतरनाक उल्लंघनों में से एक है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुबई सड़क हादसे में 7 भारतीय मजदूरों की मौत, 9 घायल, 5 की हालत गंभीर",
-          "summary": "दुबई में एक सड़क हादसे में 7 भारतीय मजदूरों की मौत हो गई है और 9 घायल हुए हैं। दुबई के भारतीय दूतावास ने इस हादसे की जानकारी दी है. इनमें मरने वालों में 7 भारतीय मजदूर थे. हादसे में मिनीबस और ट्रक के बीच टक्कर हुई. दूतावास ने मरने वाले परिवारों के प्रति संवेदना व्यक्त की है. दुबई पुलिस के ट्रैफिक विभाग के निदेशक ब्रिगेडियर जुमा सालेम बिन सुवैदान ने कहा कि सड़क के बीच में वाहन रोकना सबसे खतरनाक उल्लंघनों में से एक है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "US आर्मी ने माना- हमने ही रोका था वो जहाज, जिस पर सवार थे 24 भारतीय",
       "url": "https://hindi.news18.com/world/middle-east-us-army-centcom-admits-attack-on-marivex-tanker-carrying-24-indian-sailors-in-oman-gulf-10551824.html",
       "source": "News18 Hindi (World)",
@@ -681,6 +478,24 @@
         "hi": {
           "title": "US आर्मी ने माना- हमने ही रोका था वो जहाज, जिस पर सवार थे 24 भारतीय",
           "summary": "अमेरिकी सेना ने ओमान की खाड़ी में ईरान की ओर बढ़ रहे M/T Marivex टैंकर को निशाना बनाकर निष्क्रिय किया था, जिस पर 24 भारतीय नाविक थे। जिस टैंकर से भारतीय नौसेना ने 24 भारतीय नाविकों को बचाया था, अब उसे लेकर बड़ा खुलासा हुआ है. अमेरिकी सेना की सेंट्रल कमांड ने दावा किया है कि ओमान की खाड़ी में ईरान की ओर बढ़ रहे M/T Marivex टैंकर को उसी ने निशाना बनाकर निष्क्रिय किया था.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "24 घंटे की कुश्ती के बाद लाइन पर आए ईरान-इजरायल, ट्रंप की मनुहार या डांट कर गई काम",
+      "url": "https://hindi.news18.com/world/middle-east-israeli-prime-minister-benjamin-netanyahu-announced-halt-to-attacks-on-iran-10551780.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-08T16:58:42+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Iran-Israel-America-2026-06-a17d94fa111213778a37380ed722d778-1200x800.jpg",
+      "summary": "प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान पर हमले को रोकने का एलान किया है, लेकिन कहा कि ईरान और हिजबुल्लाह के खिलाफ लड़ाई अभी खत्म नहीं हुई है। ईरान के खिलाफ फिर से शुरू हुई लड़ाई के बाद प्रधानमंत्री बेंजामिन नेतन्याहू ने इसे रोकने का एलान कर दिया है. उन्होंने कहा है कि इजरायल फिलहाल ईरान पर हमले रोक रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "24 घंटे की कुश्ती के बाद लाइन पर आए ईरान-इजरायल, ट्रंप की मनुहार या डांट कर गई काम",
+          "summary": "प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान पर हमले को रोकने का एलान किया है, लेकिन कहा कि ईरान और हिजबुल्लाह के खिलाफ लड़ाई अभी खत्म नहीं हुई है। ईरान के खिलाफ फिर से शुरू हुई लड़ाई के बाद प्रधानमंत्री बेंजामिन नेतन्याहू ने इसे रोकने का एलान कर दिया है. उन्होंने कहा है कि इजरायल फिलहाल ईरान पर हमले रोक रहा है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -722,38 +537,236 @@
       }
     },
     {
-      "title": "‘तुम बेईमान और बेकूफ हो’ सवाल पूछते ही डोनाल्ड ट्रंप महिला पत्रकार पर भड़के, फेंक दिया माइक",
-      "url": "https://www.patrika.com/world-news/trump-interview-controversy-viral-video-press-clash-nbc-election-fraud-biden-allegations-20651426",
-      "source": "Patrika (World)",
+      "title": "यदि होर्मुज स्ट्रेट अगले 30 दिन तक बंद रहा तो... ईरान जंग पर हरदीप पुरी ने चेताया, फिर खेल पूरी तरह",
+      "url": "https://hindi.news18.com/news/nation/if-hormuz-strait-close-for-next-30-day-iran-us-war-hardeep-singh-puri-warn-global-depression-10551221.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-08T15:55:16+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trump.png",
-      "summary": "अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने एक महिला पत्रकार पर भड़ककर अपना माइक फेंक दिया और लाइव इंटरव्यू बीच में ही छोड़ दिया। Trump Angry at Journalist: अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर अपने तीखे अंदाज को लेकर सुर्खियों में हैं। इस बार मामला इतना बढ़ गया कि एक लाइव इंटरव्यू के दौरान उन्होंने अपना माइक निकालकर फेंक दिया और शो बीच में ही छोड़कर चले गए।",
-      "region": "Americas",
+      "published_at": "2026-06-08T13:13:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Hormuz-Strait-2026-06-8047fed9e0234ba330c9bd22f67be0b6-1200x800.jpg",
+      "summary": "हरदीप पुरी ने चेताया है कि यदि होर्मुज स्ट्रेट अगले 30 दिन तक बंद रहा तो इसके गंभीर परिणाम हो सकते हैं। 28 फरवरी को युद्ध शुरू होने से पहले, प्रतिदिन 100 से अधिक वाणिज्यिक जहाज होर्मुज स्ट्रेट से होकर गुजरते थे. ईरान और ओमान से घिरे इस संकरे जलमार्ग से वैश्विक तेल आपूर्ति की 20 प्रतिशत माल ढुलाई होती है.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘तुम बेईमान और बेकूफ हो’ सवाल पूछते ही डोनाल्ड ट्रंप महिला पत्रकार पर भड़के, फेंक दिया माइक",
-          "summary": "अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने एक महिला पत्रकार पर भड़ककर अपना माइक फेंक दिया और लाइव इंटरव्यू बीच में ही छोड़ दिया। Trump Angry at Journalist: अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर अपने तीखे अंदाज को लेकर सुर्खियों में हैं। इस बार मामला इतना बढ़ गया कि एक लाइव इंटरव्यू के दौरान उन्होंने अपना माइक निकालकर फेंक दिया और शो बीच में ही छोड़कर चले गए।",
-          "region": "अमेरिका"
+          "title": "यदि होर्मुज स्ट्रेट अगले 30 दिन तक बंद रहा तो... ईरान जंग पर हरदीप पुरी ने चेताया, फिर खेल पूरी तरह",
+          "summary": "हरदीप पुरी ने चेताया है कि यदि होर्मुज स्ट्रेट अगले 30 दिन तक बंद रहा तो इसके गंभीर परिणाम हो सकते हैं। 28 फरवरी को युद्ध शुरू होने से पहले, प्रतिदिन 100 से अधिक वाणिज्यिक जहाज होर्मुज स्ट्रेट से होकर गुजरते थे. ईरान और ओमान से घिरे इस संकरे जलमार्ग से वैश्विक तेल आपूर्ति की 20 प्रतिशत माल ढुलाई होती है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "पूरी दुनिया में मशहूर भारतीय आमों की नेपाल में एंट्री क्यों हुई बैन, नेपाली व्यापारी परेशान",
-      "url": "https://hindi.news18.com/world/south-asia-entry-of-world-famous-indian-mangoes-into-nepal-been-banned-nepali-traders-are-worried-10551547.html",
+      "title": "इजरायल पर मिसाइलें दागकर गरजा ईरान, जंग-ए-मैदान हो या बातचीत की टेबल, कभी पीछे नहीं हटेंगे",
+      "url": "https://hindi.news18.com/world/middle-east-neither-abandoned-field-nor-negotiating-table-iranian-president-message-after-missile-attack-israel-ws-l-10551285.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-08T15:11:00+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Mango-Reuters-2026-06-70e409ce1440eb28519570ee90b03add-1200x800.jpg",
-      "summary": "नेपाल ने भारतीय आमों पर इंपोर्ट बैन कर दिया है, जिससे नेपाली व्यापारी परेशान हो गए हैं। काठमांडू के कृषि और पशु विकास मंत्रालय ने भारतीय आमों पर पूरी तरह से इंपोर्ट बैन कर दिया है. इसे अप्रैल-मई से ही क्वार्टरंटाइन चौकियों पर लागू कर दिया गया है. इससे पहले नेपाल ने इन आमों को बैन दिया है. पूरी दुनिया में मशहूर भारतीय आमों की नेपाल में एंट्री क्यों हुई बैन, नेपाली व्यापारी परेशान।",
+      "published_at": "2026-06-08T12:54:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/masood-pakistan-iran-president-2026-06-673d2eb88a29f456932a8cae9d7d0793-1200x800.jpg",
+      "summary": "ईरान के राष्ट्रपति मसूद पजेश्कियान ने कहा है कि वे जंग और बातचीत दोनों में पीछे नहीं हटेंगे और सुरक्षा, संप्रभुता और कूटनीति पर कोई समझौता नहीं होगा। इजरायल पर हमले के बाद ईरान के राष्ट्रपति मसूद पजेश्कियान ने कहा, हम जंग और बातचीत दोनों में पीछे नहीं हटेंगे. उन्‍होंने कहा क‍ि सुरक्षा, संप्रभुता और कूटनीति पर कोई समझौता नहीं होगा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजरायल पर मिसाइलें दागकर गरजा ईरान, जंग-ए-मैदान हो या बातचीत की टेबल, कभी पीछे नहीं हटेंगे",
+          "summary": "ईरान के राष्ट्रपति मसूद पजेश्कियान ने कहा है कि वे जंग और बातचीत दोनों में पीछे नहीं हटेंगे और सुरक्षा, संप्रभुता और कूटनीति पर कोई समझौता नहीं होगा। इजरायल पर हमले के बाद ईरान के राष्ट्रपति मसूद पजेश्कियान ने कहा, हम जंग और बातचीत दोनों में पीछे नहीं हटेंगे. उन्‍होंने कहा क‍ि सुरक्षा, संप्रभुता और कूटनीति पर कोई समझौता नहीं होगा.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "समंदर में भड़की आग, खतरे में अपनों की जान! होर्मुज में फंसे अब कैसे हैं हमारे 24 जांबाज भारतीय नाविक",
+      "url": "https://www.patrika.com/world-news/hormuz-strait-attack-mt-marivex-indian-sailors-safe-shipping-ministry-updates-20651006",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-08T12:48:13+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Cargo-Ship-Hit-by-Attack-Near-Strait-of-Hormuz.webp",
+      "summary": "होर्मुज जलडमरूमध्य में एक कॉमर्शियल जहाज में आग लग गई, जिसमें 24 भारतीय नाविक सवार थे। Shipping Ministry: पश्चिम एशिया के सबसे संवेदनशील समुद्री रास्ते होर्मुज जलडमरूमध्य से एक बेहद चौंकाने वाली खबर सामने आई है। सोमवार दोपहर करीब 1:30 बजे ओमान के तट के पास भारतीय नाविकों को ले जा रहे एक कॉमर्शियल जहाज ‘एमटी मारिवेक्स’ में अचानक भीषण आग लग गई।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "समंदर में भड़की आग, खतरे में अपनों की जान! होर्मुज में फंसे अब कैसे हैं हमारे 24 जांबाज भारतीय नाविक",
+          "summary": "होर्मुज जलडमरूमध्य में एक कॉमर्शियल जहाज में आग लग गई, जिसमें 24 भारतीय नाविक सवार थे। Shipping Ministry: पश्चिम एशिया के सबसे संवेदनशील समुद्री रास्ते होर्मुज जलडमरूमध्य से एक बेहद चौंकाने वाली खबर सामने आई है। सोमवार दोपहर करीब 1:30 बजे ओमान के तट के पास भारतीय नाविकों को ले जा रहे एक कॉमर्शियल जहाज ‘एमटी मारिवेक्स’ में अचानक भीषण आग लग गई।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "देश के पास 60 दिनों का तेल-गैस रिजर्व भंडार, हरदीप पुरी ने बताया संकट से बचने का 'मेगा प्लान'",
+      "url": "https://www.abplive.com/news/india/union-petroleum-minister-hardeep-singh-puri-exclusive-interview-with-abp-talk-about-lpg-cylinder-petrol-3142048",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-08T11:51:05+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/8d397a72d6dfa1af693b070b903928e917809178543801115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "भारत के पास 60 दिनों का तेल-गैस रिजर्व भंडार है, हरदीप पुरी ने संकट से बचने का प्लान बताया। मिडिल ईस्ट में तनाव और संघर्ष की स्थिति लगातार बनी हुई है. बीते लगभग 100 दिनों से स्ट्रेट ऑफ होर्मुज बंद होने की वजह से दुनिया के कई देशों में कच्चे तेल और गैस की सप्लाई प्रभावित हुई है. इसका असर अंतरराष्ट्रीय बाजार में तेल की कीमतों पर भी देखने को मिल रहा है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पूरी दुनिया में मशहूर भारतीय आमों की नेपाल में एंट्री क्यों हुई बैन, नेपाली व्यापारी परेशान",
-          "summary": "नेपाल ने भारतीय आमों पर इंपोर्ट बैन कर दिया है, जिससे नेपाली व्यापारी परेशान हो गए हैं। काठमांडू के कृषि और पशु विकास मंत्रालय ने भारतीय आमों पर पूरी तरह से इंपोर्ट बैन कर दिया है. इसे अप्रैल-मई से ही क्वार्टरंटाइन चौकियों पर लागू कर दिया गया है. इससे पहले नेपाल ने इन आमों को बैन दिया है. पूरी दुनिया में मशहूर भारतीय आमों की नेपाल में एंट्री क्यों हुई बैन, नेपाली व्यापारी परेशान।",
+          "title": "देश के पास 60 दिनों का तेल-गैस रिजर्व भंडार, हरदीप पुरी ने बताया संकट से बचने का 'मेगा प्लान'",
+          "summary": "भारत के पास 60 दिनों का तेल-गैस रिजर्व भंडार है, हरदीप पुरी ने संकट से बचने का प्लान बताया। मिडिल ईस्ट में तनाव और संघर्ष की स्थिति लगातार बनी हुई है. बीते लगभग 100 दिनों से स्ट्रेट ऑफ होर्मुज बंद होने की वजह से दुनिया के कई देशों में कच्चे तेल और गैस की सप्लाई प्रभावित हुई है. इसका असर अंतरराष्ट्रीय बाजार में तेल की कीमतों पर भी देखने को मिल रहा है.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मिडिल ईस्ट में फिर शुरू हुई जंग! भारत के पास कितने दिन के कच्चे तेल का स्टॉक? हरदीप पुरी ने दिया",
+      "url": "https://www.abplive.com/news/india/union-petroleum-minister-hardeep-singh-puri-on-indian-energy-reserve-and-petrol-diesel-lpg-price-hike-amid-west-asia-conflicts-ann-3142037",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-08T10:57:25+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/b3898d687f3d93232273ece6faa8cb5a17809168316991126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "मिडिल ईस्ट में फिर से जंग शुरू हुई, भारत के पास कच्चे तेल का स्टॉक 60 दिनों का है। पश्चिम एशिया में अमेरिका-इजरायल और ईरान के बीच लगातार जारी युद्ध और तनाव की वजह से वैश्विक स्तर पर ऊर्जा आपूर्ति पर संकट छाया हुआ है. वहीं, मिडिल ईस्ट में एक बार फिर से जंग के शुरू होने के बाद भारत सरकार ने देश में पेट्रोल, डीजल, सीएनजी और लिक्वीफाइड पेट्रोलियम गैस (LPG) सिलेंडरों के दामों में भी ताजा बढ़ोत्तरी की है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मिडिल ईस्ट में फिर शुरू हुई जंग! भारत के पास कितने दिन के कच्चे तेल का स्टॉक? हरदीप पुरी ने दिया",
+          "summary": "मिडिल ईस्ट में फिर से जंग शुरू हुई, भारत के पास कच्चे तेल का स्टॉक 60 दिनों का है। पश्चिम एशिया में अमेरिका-इजरायल और ईरान के बीच लगातार जारी युद्ध और तनाव की वजह से वैश्विक स्तर पर ऊर्जा आपूर्ति पर संकट छाया हुआ है. वहीं, मिडिल ईस्ट में एक बार फिर से जंग के शुरू होने के बाद भारत सरकार ने देश में पेट्रोल, डीजल, सीएनजी और लिक्वीफाइड पेट्रोलियम गैस (LPG) सिलेंडरों के दामों में भी ताजा बढ़ोत्तरी की है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘फौरन कम करें तनाव’, ईरान-इजरायल के ताजा मिलिट्री एक्शन से मिडिल ईस्ट में हड़कंप, भारत ने जारी की",
+      "url": "https://www.abplive.com/news/india/iran-israel-war-immediately-de-escalat-tehran-india-mea-advisory-us-donald-trump-3142030",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-08T10:43:40+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/12/29/4848cbfa87d5b9573e37491f2ca433161767019230125708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "भारत ने ईरान-इजरायल के बीच तनाव कम करने की अपील की, भारतीय नागरिकों को ईरान की यात्रा न करने की सलाह दी। मिडिल ईस्ट में इजरायल और ईरान के बीच दोबारा जंग शुरू होने क बाद भारत ने चिंता जाहिर की और दोनों पक्षों से तुरंत तनाव कम करने की अपील की है. तनावपूर्ण माहौल को देखते हुए ईरान में मौजूद भारतीय दूतावास ने एडवाइजरी की है, जिसमें भारतीय नागरिकों को फिलहाल ईरान की यात्रा न करने की सलाह दी गई है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘फौरन कम करें तनाव’, ईरान-इजरायल के ताजा मिलिट्री एक्शन से मिडिल ईस्ट में हड़कंप, भारत ने जारी की",
+          "summary": "भारत ने ईरान-इजरायल के बीच तनाव कम करने की अपील की, भारतीय नागरिकों को ईरान की यात्रा न करने की सलाह दी। मिडिल ईस्ट में इजरायल और ईरान के बीच दोबारा जंग शुरू होने क बाद भारत ने चिंता जाहिर की और दोनों पक्षों से तुरंत तनाव कम करने की अपील की है. तनावपूर्ण माहौल को देखते हुए ईरान में मौजूद भारतीय दूतावास ने एडवाइजरी की है, जिसमें भारतीय नागरिकों को फिलहाल ईरान की यात्रा न करने की सलाह दी गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘इज़रायल और ईरान तुरंत एक-दूसरे पर हमले बंद करें’, डोनाल्ड ट्रंप ने कर दी डिमांड",
+      "url": "https://www.patrika.com/world-news/donald-trumps-demands-israel-and-iran-must-immediately-stop-shooting-20650251",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-08T10:41:44+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/donald-trump_.webp",
+      "summary": "डोनाल्ड ट्रंप ने इजरायल और ईरान से एक-दूसरे पर हमले बंद करने की मांग की। इज़रायल (Israel) और ईरान (Iran) के बीच युद्ध एक बार फिर शुरू हो गया है। दोनों देशों ने एक-दूसरे पर हमले कर दिए हैं। लेबनान की राजधानी बेरूत पर हमले के बाद ईरान ने बदला लेने के लिए इज़रायल पर बैलिस्टिक मिसाइलों से हमला कर दिया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘इज़रायल और ईरान तुरंत एक-दूसरे पर हमले बंद करें’, डोनाल्ड ट्रंप ने कर दी डिमांड",
+          "summary": "डोनाल्ड ट्रंप ने इजरायल और ईरान से एक-दूसरे पर हमले बंद करने की मांग की। इज़रायल (Israel) और ईरान (Iran) के बीच युद्ध एक बार फिर शुरू हो गया है। दोनों देशों ने एक-दूसरे पर हमले कर दिए हैं। लेबनान की राजधानी बेरूत पर हमले के बाद ईरान ने बदला लेने के लिए इज़रायल पर बैलिस्टिक मिसाइलों से हमला कर दिया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'जहाज में भर रहा पानी, लाइफ बोट पर आग', हॉर्मुज में अमेरिकी नेवी का घातक अटैक, संकट में 24 भारतीयों",
+      "url": "https://www.abplive.com/news/world/us-navy-attack-on-vessel-marivex-oil-tanker-24-indian-crew-strait-of-hormuz-3142007",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-08T10:41:43+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/2b31bc4d24b8815496844572d23a65631780915261887344_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिकी नौसेना ने हॉर्मुज में मारिवेक नाम के ऑयल टैंकर पर अटैक किया, जहाज पर 24 भारतीय मौजूद हैं. अमेरिका और ईरान के बीच अभी तक भयंकर तनाव की स्थिति है. इसकी वजह से दुनिया के तमाम देश प्रभावित हो रहे हैं. स्ट्रेट ऑफ हॉर्मुज में भी संकट की स्थिति है. इस बीच एक बड़ी खबर सामने आई है. अमेरिकी नौसेना ने हॉर्मुज में मारिवेक नाम के ऑयल टैंकर पर अटैक कर दिया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'जहाज में भर रहा पानी, लाइफ बोट पर आग', हॉर्मुज में अमेरिकी नेवी का घातक अटैक, संकट में 24 भारतीयों",
+          "summary": "अमेरिकी नौसेना ने हॉर्मुज में मारिवेक नाम के ऑयल टैंकर पर अटैक किया, जहाज पर 24 भारतीय मौजूद हैं. अमेरिका और ईरान के बीच अभी तक भयंकर तनाव की स्थिति है. इसकी वजह से दुनिया के तमाम देश प्रभावित हो रहे हैं. स्ट्रेट ऑफ हॉर्मुज में भी संकट की स्थिति है. इस बीच एक बड़ी खबर सामने आई है. अमेरिकी नौसेना ने हॉर्मुज में मारिवेक नाम के ऑयल टैंकर पर अटैक कर दिया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "धमाकों से दहल उठा ईरान, विदेश मंत्रालय की इमारत हिली; ट्रंप बोले-फौरन रोको गोलीबारी",
+      "url": "https://www.patrika.com/world-news/iran-israel-war-live-updates-tehran-blast-foreign-ministry-shaken-donald-trump-reaction-20650473",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-08T10:26:47+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Massive-Blast-in-Tehran.webp",
+      "summary": "ईरान की राजधानी तेहरान में धमाके हुए, विदेश मंत्रालय की इमारत हिली, ट्रंप ने गोलीबारी रोकने को कहा. Tehran Blast: मध्य पूर्व में अमन कायम करने की कोशिशों को एक बार फिर बड़ा झटका लगा है। पिछले दो महीनों से जारी युद्धविराम पूरी तरह से ध्वस्त हो चुका है। इजरायली सेना की ओर से ईरान के अंदर किए गए सिलसिलेवार हमलों के बाद ईरान की राजधानी तेहरान, तब्रीज और इस्फहान जैसे प्रमुख शहर जबरदस्त धमाकों से दहल उठे हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धमाकों से दहल उठा ईरान, विदेश मंत्रालय की इमारत हिली; ट्रंप बोले-फौरन रोको गोलीबारी",
+          "summary": "ईरान की राजधानी तेहरान में धमाके हुए, विदेश मंत्रालय की इमारत हिली, ट्रंप ने गोलीबारी रोकने को कहा. Tehran Blast: मध्य पूर्व में अमन कायम करने की कोशिशों को एक बार फिर बड़ा झटका लगा है। पिछले दो महीनों से जारी युद्धविराम पूरी तरह से ध्वस्त हो चुका है। इजरायली सेना की ओर से ईरान के अंदर किए गए सिलसिलेवार हमलों के बाद ईरान की राजधानी तेहरान, तब्रीज और इस्फहान जैसे प्रमुख शहर जबरदस्त धमाकों से दहल उठे हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पश्चिम एशिया में बढ़ते तनाव पर भारत का बड़ा बयान, कहा- तुरंत कम हो टकराव और बहाल हो शांति",
+      "url": "https://www.patrika.com/world-news/india-on-west-asia-conflict-mea-statement-israel-iran-war-20650506",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-08T10:20:21+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/India-Calls-for-De-escalation-in-West-Asia-Conflict.webp",
+      "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर चिंता जताई, सभी पक्षों से संयम बरतने और शांति बहाल करने की अपील की. India on West Asia Conflict: पश्चिम एशिया में लगातार बढ़ते सैन्य तनाव और हिंसक घटनाओं के बीच भारत ने सभी पक्षों से संयम बरतने और हालात को तुरंत सामान्य करने की अपील की है। विदेश मंत्रालय ने सोमवार को कहा कि क्षेत्र में जारी संघर्ष अब 100 दिनों से अधिक समय तक खिंच चुका है, जिससे न केवल भारी मानवीय नुकसान हुआ है, बल्कि वैश्विक अर्थव्यवस्था और ऊर्जा आपूर्ति पर भी गंभीर असर पड़ा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पश्चिम एशिया में बढ़ते तनाव पर भारत का बड़ा बयान, कहा- तुरंत कम हो टकराव और बहाल हो शांति",
+          "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर चिंता जताई, सभी पक्षों से संयम बरतने और शांति बहाल करने की अपील की. India on West Asia Conflict: पश्चिम एशिया में लगातार बढ़ते सैन्य तनाव और हिंसक घटनाओं के बीच भारत ने सभी पक्षों से संयम बरतने और हालात को तुरंत सामान्य करने की अपील की है। विदेश मंत्रालय ने सोमवार को कहा कि क्षेत्र में जारी संघर्ष अब 100 दिनों से अधिक समय तक खिंच चुका है, जिससे न केवल भारी मानवीय नुकसान हुआ है, बल्कि वैश्विक अर्थव्यवस्था और ऊर्जा आपूर्ति पर भी गंभीर असर पड़ा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'तुरंत बंद हो गोलीबारी', हाई टेंशन के बीच डोनाल्ड ट्रंप की ईरान-इजरायल को कड़ी चेतावनी",
+      "url": "https://www.abplive.com/news/world/donald-trump-warn-israel-iran-must-immediately-stop-shooting-benjamin-netanyahu-3142008",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-08T10:06:42+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/4a072dcc2f5c53854d3a86aa3450023b1780913428191708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान और इजरायल से गोलीबारी बंद करने को कहा, मध्य पूर्व में शांति कायम करने की अपील की. अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप मिडिल ईस्ट में शांति को लेकर इजरायल और ईरान हमले बंद करने को कहा है. ट्रंप ने ट्रूथ सोशल पर पोस्ट कर लिखा कि इजरायल और ईरान को तुरंत एक-दूसरे पर गोलीबारी बंद कर देनी चाहिए.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'तुरंत बंद हो गोलीबारी', हाई टेंशन के बीच डोनाल्ड ट्रंप की ईरान-इजरायल को कड़ी चेतावनी",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान और इजरायल से गोलीबारी बंद करने को कहा, मध्य पूर्व में शांति कायम करने की अपील की. अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप मिडिल ईस्ट में शांति को लेकर इजरायल और ईरान हमले बंद करने को कहा है. ट्रंप ने ट्रूथ सोशल पर पोस्ट कर लिखा कि इजरायल और ईरान को तुरंत एक-दूसरे पर गोलीबारी बंद कर देनी चाहिए.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "लाल सागर में इज़रायल के खिलाफ होगी नेवी नाकेबंदी, हूती के सैन्य अधिकारी ने किया ऐलान",
+      "url": "https://www.patrika.com/world-news/houthis-announce-total-naval-blockade-for-israel-in-red-sea-20649893",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-08T09:02:13+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/red-sea.webp",
+      "summary": "हूती के सैन्य अधिकारी ने लाल सागर में इजरायल के खिलाफ नेवी नाकेबंदी का ऐलान किया, इजरायल और ईरान के बीच तनाव बढ़ रहा है. इज़रायल (Israel) और ईरान (Iran) ने आज, सोमवार, 8 जून को एक बार फिर एक-दूसरे पर हमले शुरू कर दिए हैं, जिससे दोनों देशों के बीच फिर से युद्ध शुरू होता लग रहा है। ईरान ने तड़के सुबह इज़रायल पर बैलिस्टिक मिसाइलें दागीं जो अप्रैल में सीज़फायर के बाद यह इज़रायल पर ईरान का पहला हमला था।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लाल सागर में इज़रायल के खिलाफ होगी नेवी नाकेबंदी, हूती के सैन्य अधिकारी ने किया ऐलान",
+          "summary": "हूती के सैन्य अधिकारी ने लाल सागर में इजरायल के खिलाफ नेवी नाकेबंदी का ऐलान किया, इजरायल और ईरान के बीच तनाव बढ़ रहा है. इज़रायल (Israel) और ईरान (Iran) ने आज, सोमवार, 8 जून को एक बार फिर एक-दूसरे पर हमले शुरू कर दिए हैं, जिससे दोनों देशों के बीच फिर से युद्ध शुरू होता लग रहा है। ईरान ने तड़के सुबह इज़रायल पर बैलिस्टिक मिसाइलें दागीं जो अप्रैल में सीज़फायर के बाद यह इज़रायल पर ईरान का पहला हमला था।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘ऊपर से तेज धमाके की आवाजें आ रही हैं’, ईरानी हमले के बाद इजरायली शेल्टर में छिपे US एम्बेसडर",
+      "url": "https://www.patrika.com/world-news/us-ambassador-mike-huckabee-hides-in-israel-shelter-after-iranian-attack-hears-loud-explosions-20649967",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-08T08:09:31+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Israel-Iran-War-update-1.webp",
+      "summary": "अमेरिकी राजदूत माइक हकाबी ने ईरान के हमले के बाद इजरायल में शेल्टर में शरण ली. मिडिल-ईस्ट में तनाव खतरनाक मोड़ पर पहुंच गया है. ईरान और इजरायल के बीच हमले और जवाबी कार्रवाई जारी है. Iran-Israel Conflict: मिडिल-ईस्ट में एक बार फिर तनाव खतरनाक मोड़ पर पहुंच गया है। ईरान और इजरायल के बीच जारी हमलों और जवाबी कार्रवाई के बीच हालात इतने गंभीर हो गए हैं कि इजरायल में मौजूद अमेरिकी राजदूत माइक हकाबी को भी शेल्टर में शरण लेनी पड़ी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘ऊपर से तेज धमाके की आवाजें आ रही हैं’, ईरानी हमले के बाद इजरायली शेल्टर में छिपे US एम्बेसडर",
+          "summary": "अमेरिकी राजदूत माइक हकाबी ने ईरान के हमले के बाद इजरायल में शेल्टर में शरण ली. मिडिल-ईस्ट में तनाव खतरनाक मोड़ पर पहुंच गया है. ईरान और इजरायल के बीच हमले और जवाबी कार्रवाई जारी है. Iran-Israel Conflict: मिडिल-ईस्ट में एक बार फिर तनाव खतरनाक मोड़ पर पहुंच गया है। ईरान और इजरायल के बीच जारी हमलों और जवाबी कार्रवाई के बीच हालात इतने गंभीर हो गए हैं कि इजरायल में मौजूद अमेरिकी राजदूत माइक हकाबी को भी शेल्टर में शरण लेनी पड़ी।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
