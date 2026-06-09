@@ -1,16 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** June 09, 2026 22:30 IST
+**Updated:** June 09, 2026 23:18 IST
 
 ---
 
 ## Asia-Pacific
 
+### [Taliban Security Forces Fire On Afghan Women's Rights Protesters](https://www.rferl.org/a/afghanistan-taliban-women-protest-dress-code-shooting/33776891.html)
+*Radio Free Europe / Liberty* - Jun 09, 22:47 IST (iso: 2026-06-09T17:17:27+00:00)
+<!-- image: https://gdb.rferl.org/40673806-a1f4-4955-a5a6-08debadd8a36_cx3_cy1_cw93_w1200_h630.jpg -->
+
+Taliban security forces fired on women’s rights protesters in Herat on June 9. The demonstration was against the arrest of women accused of violating the mandatory dress code. An eyewitness reported at least one person was killed. Afghan Talliban forces used gunfire to disperse a women’s rights protest in the western city of Herat on June 9 after residents demonstrated against the recent arrest of women accused of violating the mandatory dress code.
+
 ### [Judge Strikes Down Trump’s H-1B Fee: Implications for India and the U.S. | Above the Fold |](https://www.thehindu.com/videos/watch-judge-strikes-down-trumps-h-1b-fee-implications-for-india-and-the-us-above-the-fold-09062026/article71082082.ece)
 *The Hindu (International)* - Jun 09, 21:48 IST (iso: 2026-06-09T16:18:43+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/rq2xda/article71082062.ece/alternates/LANDSCAPE_1200/June%209%20THUMB.png -->
 
-A U. S. From a major U. S. court setback to Donald Trump’s H-1B visa fee plan to escalating political turmoil in West Bengal and fresh developments in the CMRL case involving T Veena - Top stories of the day. Judge Strikes Down Trump’s H-1B Fee: Implications for India and the U. S. | Above the Fold |.
+A U. S. From a major U. court setback to Donald Trump’s H-1B visa fee plan to escalating political turmoil in West Bengal and fresh developments in the CMRL case involving T Veena - Top stories of the day. Judge Strikes Down Trump’s H-1B Fee: Implications for India and the U. | Above the Fold |.
 
 ### [India should think twice about a US trade deal](https://asiatimes.com/2026/06/india-should-think-twice-about-a-us-trade-deal/)
 *Asia Times* - Jun 09, 17:38 IST (iso: 2026-06-09T12:08:57+00:00)
@@ -56,6 +62,28 @@ Utsunomiya, Japan, closed all 94 of its schools after a bear sighting. The anima
 
 ---
 
+## Americas
+
+### [Cuban President outlines ‘three scenarios’ U.S. may take](https://www.thehindu.com/news/international/cuban-president-outlines-three-scenarios-us-may-take/article71082157.ece)
+*The Hindu (International)* - Jun 09, 22:38 IST (iso: 2026-06-09T17:08:24+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/rl20i8/article71082225.ece/alternates/LANDSCAPE_1200/Blackouts-and-pGD6FVUALM.3.jpg.jpg -->
+
+Cuban President Miguel Diaz-Canel stated the United States is pursuing three potential scenarios against Cuba. One scenario involves economic pressure to incite social unrest. This unrest could then be used as a pretext for U. S. intervention under the guise of humanitarian aid. “They are betting on three scenarios, one scenario is through economic strangulation to provoke social unrest, and for that social unrest to then give them the chance, under the pretext of humanitarian aid, to intervene,” says Miguel Diaz-Canel.
+
+### [Two US pilots killed after plane bound to pick up former MLB star crashes](https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic)
+*The Guardian* - Jun 08, 22:14 IST (iso: 2026-06-08T16:44:08+00:00)
+<!-- image: https://i.guim.co.uk/img/media/7b7247c317d39f58498e2407fe878c15c4021d70/385_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b147382b81edf7d67809db435ede8111 -->
+
+A U. S. registered plane crashed in the Dominican Republic on 2 March 2024. The pilot and co-pilot died in the incident. The aircraft was en route to pick up former MLB star Yadier Molina and his family. Molina stated on social media the plane was headed to Texas. Plane on way to pick up Yadier Molina and his family crashed in Dominican Republic, killing pilot and co-pilotA pilot and co-pilot from the United States have died in a fiery plane crash as they attempted an emergency landing in the Dominican Republic, authorities said. Former major league baseball all-star catcher Yadier Molina said on social media that the plane was bound for Texas to pick him up.
+
+### [Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief](https://news.un.org/feed/view/en/story/2026/06/1167671)
+*UN News* - Jun 08, 17:30 IST (iso: 2026-06-08T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-01-2026-UN-Cuba-01.jpg/image770x420cropped.jpg -->
+
+UN human rights chief Volker Türk stated that children are dying in Cuba. Children are dying because doctors cannot access essential medicines, UN human rights chief Volker Türk said in a stark warning on Monday, calling for the immediate lifting of United States sanctions against the Caribbean nation that were causing “widespread harm”. Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief.
+
+---
+
 ## Middle East & Africa
 
 ### [Panic Buying In Russian-Occupied Crimea Amid Transportation Crisis, Fuel Shortages](https://www.rferl.org/a/panic-buying-in-russian-occupied-crimea-amid-transportation-crisis-fuel-shortages/33776828.html)
@@ -81,12 +109,6 @@ Israeli Prime Minister Benjamin Netanyahu announced a "hexagon of alliances" in 
 <!-- image: https://gdb.rferl.org/bdfd7e32-ee33-412d-165e-08debadc4af7_w1200_h630.jpg -->
 
 The summer tourist season began in Russian-occupied Crimea. The summer tourist season is starting in Russian-occupied Crimea, but with Ukrainian drone attacks and fuel shortages, how many people will visit? Current Time correspondent Andrey Cherkasov explains, tour operators are trying to put a positive spin on the crisis, but it's being met with skepticism. Oil On The Beach But No Fuel For Cars: Tourist Season Opens In Crimea.
-
-### [Rupiah’s collapse could trigger a political crisis for Prabowo](https://asiatimes.com/2026/06/rupiahs-collapse-could-trigger-a-political-crisis-for-prabowo/)
-*Asia Times* - Jun 08, 18:18 IST (iso: 2026-06-08T12:48:51+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2017/06/Indonesia-Rupiah-July-15-2013-e1568712384789.jpg -->
-
-Indonesia's rupiah reached a record low of 18,155 per US When Indonesia’s rupiah breached the new psychological threshold of 18,155 per US dollar today (June 8), the currency’s lowest ever level, social stability alarm bells rang louder than at any time since the 1997-98 Asian financial crisis. Attempts to calm public anxiety with familiar assurances that economic fundamentals remain strong – or by attributing the [] The post Rupiah’s collapse could tr.
 
 ### [‘Rare, untreatable strain’: Ebola toll mounts in eastern DR Congo](https://news.un.org/feed/view/en/story/2026/06/1167678)
 *UN News* - Jun 08, 17:30 IST (iso: 2026-06-08T12:00:00+00:00)
@@ -140,22 +162,6 @@ Mach Industries executive Diller stated the Gulf conflict showed the importance 
 
 ---
 
-## Americas
-
-### [Two US pilots killed after plane bound to pick up former MLB star crashes](https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic)
-*The Guardian* - Jun 08, 22:14 IST (iso: 2026-06-08T16:44:08+00:00)
-<!-- image: https://i.guim.co.uk/img/media/7b7247c317d39f58498e2407fe878c15c4021d70/385_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b147382b81edf7d67809db435ede8111 -->
-
-A U. S. registered plane crashed in the Dominican Republic on 2 March 2024. The pilot and co-pilot died in the incident. The aircraft was en route to pick up former MLB star Yadier Molina and his family. Molina stated on social media the plane was headed to Texas. Plane on way to pick up Yadier Molina and his family crashed in Dominican Republic, killing pilot and co-pilotA pilot and co-pilot from the United States have died in a fiery plane crash as they attempted an emergency landing in the Dominican Republic, authorities said. Former major league baseball all-star catcher Yadier Molina said on social media that the plane was bound for Texas to pick him up.
-
-### [Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief](https://news.un.org/feed/view/en/story/2026/06/1167671)
-*UN News* - Jun 08, 17:30 IST (iso: 2026-06-08T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-01-2026-UN-Cuba-01.jpg/image770x420cropped.jpg -->
-
-UN human rights chief Volker Türk stated that children are dying in Cuba. Children are dying because doctors cannot access essential medicines, UN human rights chief Volker Türk said in a stark warning on Monday, calling for the immediate lifting of United States sanctions against the Caribbean nation that were causing “widespread harm”. Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief.
-
----
-
 ## Europe & Russia
 
 ### [HK and Bangkok step aside, Vienna’s claim as spy capital is strong](https://asiatimes.com/2026/06/hk-and-bangkok-step-aside-viennas-claim-as-spy-capital-is-strong/)
@@ -169,12 +175,6 @@ Egisto Ott, a former Austrian intelligence officer, was sentenced to prison for 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/09-06-2026-UN-Photo-SC-wideview.jpg/image770x420cropped.jpg -->
 
 UN officials reported a worsening humanitarian toll in Ukraine. Hostilities have escalated, with recent months seeing extensive aerial attacks. This marks the deadliest period since Russia's 2022 invasion. The Security Council met on Monday amid a sharp escalation in hostilities across Ukraine, where UN officials warned that the war has reached its deadliest point since Russia’s full-scale invasion in 2022.
-
-### [Pashinian Declares Victory, Awaits Final Margin In Armenia's Crucial Parliamentary Vote](https://www.rferl.org/a/armenia-pashinian--parliament-assembly-election/33774709.html)
-*Radio Free Europe / Liberty* - Jun 08, 04:58 IST (iso: 2026-06-07T23:28:39+00:00)
-<!-- image: https://gdb.rferl.org/808244ad-2192-4c3e-a527-08debadd8a36_w1200_h630.png -->
-
-Prime Minister Nikol Pashinian declared victory for his Civil Contract party in Armenia's parliamentary elections. The party is polling around 50 percent of the vote. This result exceeds pre-election projections. Several pro-Russia parties are trailing the vote count. Armenian Prime Minister Nikol Pashinian early on June 8 declared victory for his Civil Contract party over several pro-Russia groupings, with his party hovering around 50 percent as votes are counted, higher than pre-vote surveys suggested.
 
 ---
 
