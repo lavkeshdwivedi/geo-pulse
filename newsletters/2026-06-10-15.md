@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** June 10, 2026 20:41 IST
+**Updated:** June 10, 2026 20:46 IST
 
 ---
 
@@ -11,12 +11,6 @@
 <!-- image: https://th-i.thgim.com/public/incoming/vaekqy/article71082232.ece/alternates/LANDSCAPE_1200/2026-05-01T201040Z_1766806306_RC2J0LACGZYS_RTRMADP_3_MAY-DAY-USA-LOS-ANGELES.JPG -->
 
 The Trump administration's immigration restrictions and travel bans are drawing scrutiny ahead of the FIFA Trump administration’s hardline immigration restrictions and travel bans draw significant scrutiny ahead of the upcoming international sporting event; amid a ‘climate of fear’, advocacy groups launch campaigns to protect fans and residents from potential enforcement actions near venues. Travel bans and ICE crackdowns cast shadow on FIFA’s ‘inclusive’ World Cup.
-
-### [Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief](https://news.un.org/feed/view/en/story/2026/06/1167671)
-*UN News* - Jun 08, 17:30 IST (iso: 2026-06-08T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-01-2026-UN-Cuba-01.jpg/image770x420cropped.jpg -->
-
-United States sanctions are pushing Cuba to the brink, causing widespread harm, UN human rights chief Volker Türk stated. Children are dying because doctors lack access to essential medicines. He called for the immediate lifting of sanctions. Children are dying because doctors cannot access essential medicines, UN human rights chief Volker Türk said in a stark warning on Monday, calling for the immediate lifting of United States sanctions against the Caribbean nation that were causing “widespread harm”.
 
 ---
 
@@ -39,6 +33,12 @@ The U. S. Army Apache helicopter crashed off the coast of Oman. It collided with
 <!-- image: https://th-i.thgim.com/public/news/national/la7wmj/article66101431.ece/alternates/LANDSCAPE_1200/Benjamin%20netanyahu_Art.jpg -->
 
 will continue to lead Israeli politics and foreign policy. His Likud party won a legislative majority. This victory has solid support from Israel's right-wing and orthodox communities. Critics of his policies have had little impact on the outcome. With solid support from Israel’s right-wing and orthodox sections and little regard for the critics of their policies, the Likud leader, whose coalition has won a majority in the legislative elections, is to continue to dominate the country’s politics and external policy.
+
+### [Diplomacy in focus as escalation ‘reverberates across borders and continents’, warns UN chief](https://news.un.org/feed/view/en/story/2026/06/1167689)
+*UN News* - Jun 10, 17:30 IST (iso: 2026-06-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/10-06-2026-UN-Photo-SC-wideview.jpg/image770x420cropped.jpg -->
+
+The UN Security Council convened a high-level debate on political solutions in the Middle East Nearly four months after the latest Middle East crisis erupted and despite a fragile ceasefire between the United States and Iran, tensions continue to reverberate across the region and beyond. The UN Security Council is holding a high-level debate on advancing political solutions in the Middle East, amid continuing conflicts, humanitarian emergencies and concerns over regional stability.
 
 ### [There is no military solution to the Middle East’s imbroglio](https://asiatimes.com/2026/06/there-is-no-military-solution-to-the-middle-easts-imbroglio/)
 *Asia Times* - Jun 10, 14:02 IST (iso: 2026-06-10T08:32:55+00:00)
