@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** June 10, 2026 06:31 IST
+**Updated:** June 10, 2026 07:22 IST
 
 ---
 
@@ -23,6 +23,12 @@ India urged the international community to hold Pakistan accountable for its act
 <!-- image: https://gdb.rferl.org/40673806-a1f4-4955-a5a6-08debadd8a36_cx3_cy1_cw93_w1200_h630.jpg -->
 
 Taliban security forces fired on women’s rights protesters in Herat on June 9. The demonstration was against the arrest of women accused of violating the mandatory dress code. An eyewitness reported at least one person was killed. Afghan Talliban forces used gunfire to disperse a women’s rights protest in the western city of Herat on June 9 after residents demonstrated against the recent arrest of women accused of violating the mandatory dress code.
+
+### [Judge Strikes Down Trump’s H-1B Fee: Implications for India and the U.S. | Above the Fold |](https://www.thehindu.com/videos/watch-judge-strikes-down-trumps-h-1b-fee-implications-for-india-and-the-us-above-the-fold-09062026/article71082082.ece)
+*The Hindu (International)* - Jun 09, 21:48 IST (iso: 2026-06-09T16:18:43+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/rq2xda/article71082062.ece/alternates/LANDSCAPE_1200/June%209%20THUMB.png -->
+
+A U. S. judge blocked a Trump administration rule that would have imposed new fees on H-1B and H-2B visas. The rule aimed to fund job training programs. This decision impacts companies relying on foreign workers and potentially Indian professionals seeking U. S. employment. From a major U. S. court setback to Donald Trump’s H-1B visa fee plan to escalating political turmoil in West Bengal and fresh developments in the CMRL case involving T Veena - Top stories of the day.
 
 ### [India should think twice about a US trade deal](https://asiatimes.com/2026/06/india-should-think-twice-about-a-us-trade-deal/)
 *Asia Times* - Jun 09, 17:38 IST (iso: 2026-06-09T12:08:57+00:00)
@@ -60,7 +66,7 @@ Broadcom, a US chip and networking supplier for AI, missed revenue expectations 
 
 ### [Iran says “will leave no attack unanswered”, as U.S. carries out strikes following crash of Army](https://www.thehindu.com/news/international/us-strike-on-iran-following-crash-of-army-apache-helicopter/article71082570.ece)
 *The Hindu (International)* - Jun 10, 04:58 IST (iso: 2026-06-09T23:28:06+00:00)
-<!-- image: https://th-i.thgim.com/public/news/y4rv6v/article71082571.ece/alternates/LANDSCAPE_1200/HKE2d5LXAAAM7ga.jpg -->
+<!-- image: https://www.thehindu.com/theme/images/og-image.png -->
 
 The U. S. Army Apache helicopter crashed off the coast of Oman. It collided with an Iranian drone. This information comes from a U. official speaking anonymously. Iran stated it would leave no attack unanswered. carried out strikes following the crash. Army Apache helicopter that crashed off the coast of Oman went down after colliding with an Iranian drone, according a U.
 
@@ -82,17 +88,17 @@ The United States launched self-defense strikes against Iran on June 9. Presiden
 
 Residents in Russian-occupied Crimea report empty grocery shelves and purchase limits on basic goods. Residents of Russian-occupied Crimea are reporting empty shelves in grocery stores and purchase limits on a number of basic goods. This comes amid a regional transportation collapse and fuel shortages caused by Ukrainian drone strikes on Russian oil refineries and vital infrastructure. Panic Buying In Russian-Occupied Crimea Amid Transportation Crisis, Fuel Shortages.
 
-### [Palestinians face systematic abuse by Israeli settlers and Hamas alike: Independent investigators](https://news.un.org/feed/view/en/story/2026/06/1167682)
-*UN News* - Jun 09, 17:30 IST (iso: 2026-06-09T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-02-2025-UNICEF-West-Bank-05.jpg/image770x420cropped.jpg -->
-
-Palestinian civilians face systematic abuse from both Israeli settlers and Hamas, according to a new report by UN Human Rights Council investigators. The report details escalating settler violence in the occupied West Bank. It also highlights fear-based Hamas rule in the Gaza Strip. These conditions leave Palestinians trapped between two oppressive forces. Palestinian civilians are trapped between escalating settler violence in the occupied West Bank and fear-based Hamas rule in the Gaza Strip, investigators appointed by the UN Human Rights Council said on Tuesday in a new report.
-
 ### [Fresh strikes on Tyre kill eight, as UN puts Lebanon destruction bill at $365 million, and rising](https://news.un.org/feed/view/en/story/2026/06/1167685)
 *UN News* - Jun 09, 17:30 IST (iso: 2026-06-09T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-UNHCR-Lebanon-02.jpg/image770x420cropped.jpg -->
 
 The United Nations reported that Lebanon has sustained over $365 million in building damage in Beirut and Mount Lebanon since the recent escalation. Fresh strikes in Tyre killed eight people. This assessment highlights the ongoing destruction despite a ceasefire. The fighting continues to impact civilian areas. Lebanon has suffered more than $365 million in damage to buildings across Beirut and Mount Lebanon since the latest escalation, according to a new UN-led assessment released on Tuesday, as fresh strikes in Tyre underscored the fragility of a ceasefire that has failed to stop the fighting.
+
+### [Palestinians face systematic abuse by Israeli settlers and Hamas alike: Independent investigators](https://news.un.org/feed/view/en/story/2026/06/1167682)
+*UN News* - Jun 09, 17:30 IST (iso: 2026-06-09T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-02-2025-UNICEF-West-Bank-05.jpg/image770x420cropped.jpg -->
+
+Palestinian civilians face systematic abuse from both Israeli settlers and Hamas, according to a new report by UN Human Rights Council investigators. The report details escalating settler violence in the occupied West Bank. It also highlights fear-based Hamas rule in the Gaza Strip. These conditions leave Palestinians trapped between two oppressive forces. Palestinian civilians are trapped between escalating settler violence in the occupied West Bank and fear-based Hamas rule in the Gaza Strip, investigators appointed by the UN Human Rights Council said on Tuesday in a new report.
 
 ### [Netanyahu’s axis-vs-axis bet risks deeper, deadlier rifts](https://asiatimes.com/2026/06/netanyahus-axis-vs-axis-bet-risks-deeper-deadlier-rifts/)
 *Asia Times* - Jun 09, 08:53 IST (iso: 2026-06-09T03:23:49+00:00)
@@ -106,21 +112,9 @@ Israeli Prime Minister Benjamin Netanyahu announced a "hexagon of alliances" in 
 
 The summer tourist season began in Russian-occupied Crimea. The summer tourist season is starting in Russian-occupied Crimea, but with Ukrainian drone attacks and fuel shortages, how many people will visit? Current Time correspondent Andrey Cherkasov explains, tour operators are trying to put a positive spin on the crisis, but it's being met with skepticism. Oil On The Beach But No Fuel For Cars: Tourist Season Opens In Crimea.
 
-### [‘Rare, untreatable strain’: Ebola toll mounts in eastern DR Congo](https://news.un.org/feed/view/en/story/2026/06/1167678)
-*UN News* - Jun 08, 17:30 IST (iso: 2026-06-08T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/08-06-2026-WHO-DR-Congo-ebola.jpg/image770x420cropped.jpg -->
-
-The Democratic Republic of the Congo has 515 confirmed Ebola cases across three eastern provinces. The top UN aid official is in Ituri province for a three-day assessment visit. The province is the epicentre of the country's Ebola outbreak. The visit comes as the Ebola toll mounts in the region. The top UN aid official in the Democratic Republic of the Congo (DRC) is in Ituri province – the epicentre of the country's Ebola outbreak – for a three-day assessment visit, as the confirmed case count reaches 515 across three eastern provinces.
-
 ---
 
 ## Europe & Russia
-
-### [SpaceX aims to launch orbital AI computing tests by end of next year, sources say](https://www.channelnewsasia.com/business/spacex-orbital-ai-computing-tests-ipo-2027-6172371)
-*Channel News Asia* - Jun 10, 04:02 IST (iso: 2026-06-09T22:32:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--rP1iyc0C--/c_crop,h_449,w_799,x_1,y_84/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-09T223143Z_1_LYNXMPEM581ON_RTROPTP_3_SPACEX-IPO-PRICING.JPG?itok=qc0YHVji -->
-
-SpaceX plans to conduct orbital artificial intelligence computing tests by the end of 2025. This initiative is a key component of the company's investor pitch for future growth. SpaceX states in its IPO documents that it is uniquely positioned to develop orbital AI compute capabilities at a commercial scale. The orbital-compute effort is central to SpaceX's long-term growth pitch to investors, and the company claims in its IPO documents that it is "the only company with a commercially viable path to building orbital AI compute at scale".
 
 ### [EU Considering Sanctions On Russian Orthodox Patriarch, Chess Federation Chief, Others](https://www.rferl.org/a/eu-russia-sanctions-kirill-patriarch/33776981.html)
 *Radio Free Europe / Liberty* - Jun 10, 01:52 IST (iso: 2026-06-09T20:22:05+00:00)
@@ -134,11 +128,11 @@ The European Union is considering financial sanctions against the head of the Ru
 
 Prime Minister Modi is expected to meet President Trump on the sidelines of the G7 summit in The PM’s visit to France will take place in two segments, with the first segment stretching from June 13 to June 14, and the second taking place from June 16 to June 19; he will hold a meeting with Mr. Macron on June 14.
 
-### [UN officials warn humanitarian toll in Ukraine is worsening](https://news.un.org/feed/view/en/story/2026/06/1167674)
-*UN News* - Jun 08, 17:30 IST (iso: 2026-06-08T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/09-06-2026-UN-Photo-SC-wideview.jpg/image770x420cropped.jpg -->
+### [HK and Bangkok step aside, Vienna’s claim as spy capital is strong](https://asiatimes.com/2026/06/hk-and-bangkok-step-aside-viennas-claim-as-spy-capital-is-strong/)
+*Asia Times* - Jun 08, 20:58 IST (iso: 2026-06-08T15:28:20+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/Spy_silhouette_document.svg_-e1780931249566.png -->
 
-UN officials told the Security Council that Ukraine is experiencing its deadliest period since the 2022 invasion. Recent months have seen extensive aerial attacks. The humanitarian toll is worsening across the country. The Security Council met on Monday amid a sharp escalation in hostilities across Ukraine, where UN officials warned that the war has reached its deadliest point since Russia’s full-scale invasion in 2022.
+Vienna is emerging as a significant hub for espionage. An Austrian intelligence officer was recently sentenced for spying for Russia. This development challenges Hong Kong and Bangkok's previous standing as key intelligence centers. Egisto Ott is no James Bond. But the stories the 63-year-old Austrian told a Viennese jury recently would make good plotlines. Ott worked as an intelligence officer in Austria’s now-defunct Federal Office for the Protection of the Constitution and Counterterrorism.
 
 ---
 
@@ -166,11 +160,21 @@ Mach Industries executive Diller stated the Gulf conflict showed the importance 
 
 Cuban President Miguel Diaz-Canel stated the United States is pursuing three potential scenarios against Cuba. One scenario involves economic pressure to incite social unrest. This unrest could then be used as a pretext for U. S. intervention under the guise of humanitarian aid. “They are betting on three scenarios, one scenario is through economic strangulation to provoke social unrest, and for that social unrest to then give them the chance, under the pretext of humanitarian aid, to intervene,” says Miguel Diaz-Canel.
 
-### [Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief](https://news.un.org/feed/view/en/story/2026/06/1167671)
-*UN News* - Jun 08, 17:30 IST (iso: 2026-06-08T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-01-2026-UN-Cuba-01.jpg/image770x420cropped.jpg -->
+### [Two US pilots killed after plane bound to pick up former MLB star crashes](https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic)
+*The Guardian* - Jun 08, 22:14 IST (iso: 2026-06-08T16:44:08+00:00)
+<!-- image: https://i.guim.co.uk/img/media/7b7247c317d39f58498e2407fe878c15c4021d70/385_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b147382b81edf7d67809db435ede8111 -->
 
-United Nations human rights chief Volker Türk warned on Monday that United States sanctions against Cuba are causing widespread harm. Doctors cannot access essential medicines, leading to the deaths of children. Türk called for the immediate lifting of these sanctions. Children are dying because doctors cannot access essential medicines, UN human rights chief Volker Türk said in a stark warning on Monday, calling for the immediate lifting of United States sanctions against the Caribbean nation that were causing “widespread harm”.
+A plane crashed in the Dominican Republic while attempting an emergency landing, killing its U. S. pilot and co-pilot. The aircraft was en route to pick up former MLB star Yadier Molina and his family. Two US pilots killed after plane bound to pick up former MLB star crashes.
+
+---
+
+## Global / Multilateral
+
+### [Marking historic progress on rights for persons with disabilities, UN conference tackles critical](https://news.un.org/feed/view/en/story/2026/06/1167683)
+*UN News* - Jun 09, 17:30 IST (iso: 2026-06-09T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-04-2026-UNRWA-Gaza.jpg/image770x420cropped.jpg -->
+
+The UN chief opened the 19th global meeting on disability rights. He stated that while progress has been made over two decades, more work is needed to fulfill promises. The conference addresses critical issues for persons with disabilities worldwide. Historical gains have been hard-won, but much more needs to be done to advance progress in realising promises made two decades ago, said the UN chief at the opening on Tuesday of the 19th global meeting on the rights of persons with disabilities at UN Headquarters.
 
 ---
 
