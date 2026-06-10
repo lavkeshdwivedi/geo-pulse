@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** June 11, 2026 00:30 IST
+**Updated:** June 11, 2026 01:24 IST
 
 ---
 
@@ -70,12 +70,6 @@ The family of a knife attack victim in Belfast called for calm after anti-imm Th
 
 The U. S. Army Apache helicopter crashed off the coast of Oman. It collided with an Iranian drone. This information comes from a U. official speaking anonymously. Iran stated it would leave no attack unanswered. carried out strikes following the crash. Army Apache helicopter that crashed off the coast of Oman went down after colliding with an Iranian drone, according a U.
 
-### [Benjamin Netanyahu](https://www.thehindu.com/news/international/benjamin-netanyahu-the-comeback-king/article66101432.ece)
-*The Hindu (International)* - Jun 10, 18:13 IST (iso: 2026-06-10T12:43:33+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/la7wmj/article66101431.ece/alternates/LANDSCAPE_1200/Benjamin%20netanyahu_Art.jpg -->
-
-will continue to lead Israeli politics and foreign policy. His Likud party won a legislative majority. This victory has solid support from Israel's right-wing and orthodox communities. Critics of his policies have had little impact on the outcome. With solid support from Israel’s right-wing and orthodox sections and little regard for the critics of their policies, the Likud leader, whose coalition has won a majority in the legislative elections, is to continue to dominate the country’s politics and external policy.
-
 ### [Diplomacy in focus as escalation ‘reverberates across borders and continents’, warns UN chief](https://news.un.org/feed/view/en/story/2026/06/1167689)
 *UN News* - Jun 10, 17:30 IST (iso: 2026-06-10T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/10-06-2026-UN-Photo-SC-wideview.jpg/image770x420cropped.jpg -->
@@ -117,6 +111,12 @@ The United Nations reported that Lebanon has sustained over $365 million in buil
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-02-2025-UNICEF-West-Bank-05.jpg/image770x420cropped.jpg -->
 
 Palestinian civilians face systematic abuse from both Israeli settlers and Hamas, according to a new report by UN Human Rights Council investigators. The report details escalating settler violence in the occupied West Bank. It also highlights fear-based Hamas rule in the Gaza Strip. These conditions leave Palestinians trapped between two oppressive forces. Palestinian civilians are trapped between escalating settler violence in the occupied West Bank and fear-based Hamas rule in the Gaza Strip, investigators appointed by the UN Human Rights Council said on Tuesday in a new report.
+
+### [‘Rare, untreatable strain’: Ebola toll mounts in eastern DR Congo](https://news.un.org/feed/view/en/story/2026/06/1167678)
+*UN News* - Jun 08, 17:30 IST (iso: 2026-06-08T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/08-06-2026-WHO-DR-Congo-ebola.jpg/image770x420cropped.jpg -->
+
+The Democratic Republic of the Congo has 515 confirmed Ebola cases across three eastern provinces. The top UN aid official is in Ituri province for a three-day assessment visit. The province is the epicentre of the country's Ebola outbreak. The visit comes as the outbreak continues to spread in the region. The top UN aid official in the Democratic Republic of the Congo (DRC) is in Ituri province – the epicentre of the country's Ebola outbreak – for a three-day assessment visit, as the confirmed case count reaches 515 across three eastern provinces.
 
 ---
 
