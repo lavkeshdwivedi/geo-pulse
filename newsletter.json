@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-11T17:21:10.221704+00:00",
-  "article_count": 46,
-  "total_unique_count": 266,
+  "generated_at": "2026-06-11T19:06:27.385605+00:00",
+  "article_count": 45,
+  "total_unique_count": 265,
   "digest": {
-    "en": "Odesa's wartime beaches and Serbia's citizenship for Russians dominate European headlines. In the Middle East, Iran's dispute with Albania and Trump's threats against Iran are prominent. South Asia's water data and Indonesia's ape deaths also feature.",
-    "hi": "ईरान पर अमेरिकी हमले मध्य पूर्व में तनाव बढ़ाते हैं। चीन इस स्थिति में कूद पड़ा है। G-7 देश 16 जून को फ्रांस में इस पर चर्चा करेंगे।"
+    "en": "Trump's restraint after U.S.-Iran exchanges sets a cautious tone. Meanwhile, Odesa readies its beaches for conflict while Serbia fast-tracks Russian citizenship, highlighting diverging European responses. South Asia's water disputes also demand attention.",
+    "hi": "ईरान और अमेरिका के बीच तनाव ने खाड़ी क्षेत्र को गरमा दिया है। तेल की कीमतों में वृद्धि और क्षेत्रीय स्थिरता पर चिंताएं बढ़ गई हैं। भारत और चीन जैसे देश इस स्थिति पर बारीकी से नजर रख रहे हैं।"
   },
   "articles": [
+    {
+      "title": "Trump backs off from more strikes after U.S., Iran exchange fire",
+      "url": "https://www.thehindu.com/news/international/trump-vows-fresh-iran-strikes-and-seizure-of-oil-terminals/article71089421.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-11T19:02:34+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/9gb9eo/article71089690.ece/alternates/LANDSCAPE_1200/2026-06-10T162854Z_781292375_RC24RLANW96C_RTRMADP_3_USA-TRUMP.JPG",
+      "summary": "President Trump stated he would not order further strikes on Iran following a two-night exchange of fire. Iran announced it closed the Strait of Hormuz to all traffic after Thursday's attack. Earlier in the day, Mr. Trump had written in another post that he would continue striking Iran after both sides exchanged fire for two consecutive nights. After Thursday’s attack, Iran also announced that it closed the Strait of Hormuz to all traffc.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Odesa Prepares Wartime Beaches As Divers Clear Drone Debris",
       "url": "https://www.rferl.org/a/odesa-prepares-wartime-beaches-as-divers-clear-drone-debris-ukraine-/33778498.html",
@@ -32,13 +44,37 @@
       "translations": {}
     },
     {
-      "title": "Serbia Fast-Tracks Citizenship For Sanctioned Russians, Defying EU Warnings",
+      "title": "Serbia Fast-Tracks Citizenship For Russians, Despite EU Concerns",
       "url": "https://www.rferl.org/a/serbia-passports-citizenship-sanctioned-russians/33778410.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-06-11T14:25:52+00:00",
       "image_url": "https://gdb.rferl.org/08530000-0a00-0242-eae6-08dafec22e98_w1200_h630.jpg",
       "summary": "Serbia has granted citizenship to four times more Russian nationals than all other foreign citizens combined this year. This includes individuals under international sanctions, despite warnings from the European Union. Despite warnings from the EU, Serbia’s government has granted citizenship to four times as many Russian nationals as to all other foreign citizens combined this year -- including individuals under international sanctions, an RFE/RL investigation has found.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘Human rights are part of our DNA’: UN launches global alliance to counter rising threats",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167698",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-11T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2026-OHCHR-Volker-Turk.jpg/image770x420cropped.jpg",
+      "summary": "The UN human rights office launched a Global Alliance for Human Rights. The coalition aims to prioritize human rights in decision-making amid record conflict levels, rising inequality, and climate change. The UN human rights office (OHCHR) has launched a Global Alliance for Human Rights, a broad coalition aimed at placing the issue at the heart of decision-making, when conflict levels have reached a record high amid deepening inequality and accelerating climate change.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Spain prodigy Lamine Yamal named UN Goodwill Ambassador on World Cup opening day",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167695",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-11T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/11-06-2026-UNICEF-Lamine-Yamal.jpg/image770x420cropped.jpg",
+      "summary": "Football prodigy Lamine Yamal was named a UN Goodwill Ambassador on the World Cup opening day. The tournament spans three countries and two continents, with the UN highlighting its potential for social justice. The biggest-ever football World Cup begins on Thursday, across three countries and two continents, with over 100 games. The UN is raising awareness of the game’s powerful capacity to serve as a platform for sustainable development and social justice.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -76,18 +112,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/Su-57-Russia-Fighter.jpeg",
       "summary": "Russian President Vladimir Putin renewed an offer to India for joint production and technology transfer of the Su As India’s stealth fighter gap widens, Russia is pitching the Su-57 as a solution. but production realities may tell a different story. This month, Defense News reported that Russian President Vladimir Putin renewed his offer of unrestricted joint production and technology transfer for Russia’s Su-57 fifth-generation stealth fighter during the St.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump Threatens More US Strikes On Iran As Cease-Fire Hangs In Balance",
-      "url": "https://www.rferl.org/a/us-iran-strikes-trump-hormuz-escalation/33778143.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-11T07:46:59+00:00",
-      "image_url": "https://gdb.rferl.org/a74a767e-746c-4531-e6c5-08debadc7311_tv_w1200_h630.jpg",
-      "summary": "President Trump stated the United States would launch new strikes on Iran. Washington and Tehran exchanged attacks for a second night. This escalation deepens hostilities since a fragile cease-fire began in April. The United States will conduct fresh military strikes on Iran, President Donald Trump said, as Washington and Tehran continued to exchange attacks for a second consecutive night, deepening one of the most serious escalations in hostilities since a fragile cease-fire took hold in April.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -136,18 +160,6 @@
       "image_url": "https://gdb.rferl.org/08ce74b7-c06a-49ae-fc04-08de3c642a37_cx0_cy6_cw0_w1200_h630.jpg",
       "summary": "Russia proposed a state-run VPN service. This initiative is part of broader efforts to control internet access. Industry insiders reportedly view the proposal with skepticism. What’s the latest brick in Russia’s effort to build its Great Internet Firewall? A proposal to create a government-run Virtual Private Network, co-opting a tool that has been widely embraced by Russians trying to avoid government censorship.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Argentinians queue for miles to mourn biggest rockstar most of world has never heard of",
-      "url": "https://www.theguardian.com/world/2026/jun/10/mourning-fans-queue-tribute-argentina-carlos-indio-solari",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-10T13:00:20+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/a39eb0212f1e7beee9fc332591c8204dc4dbf880/561_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3a051faeb164693d378f811e52bb063",
-      "summary": "Thousands of fans lined up for over seven kilometers in Argentina to mourn Carlos \"Indio\" Solari. They sang rock songs and carried banners. Vendors sold T-shirts with his image. Solari is considered Argentina's most popular musician. His music inspired cross-generational devotion. Carlos ‘Indio’ Solari, virtually unknown elsewhere but said to be Argentina’s most popular musician, inspired cross-generational devotionThe line stretched for more than 7km (four miles).",
-      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -236,152 +248,56 @@
       "translations": {}
     },
     {
-      "title": "Afghanistan faces ‘lost generation of talent and potential,’ Security Council hears",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167677",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-08T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/12-01-2023_UNICEF_Afghanistan.jpg/image770x420cropped.jpg",
-      "summary": "Afghanistan faces a \"lost generation of talent and potential\" due to worsening humanitarian conditions and restrictions under the Taliban. Senior officials and civil society representatives told the Security Council that economic pressures are creating a fragile future. Despite relative security, the country's trajectory is uncertain. As the Security Council met on Afghanistan, senior officials and civil society representatives delivered a clear warning Monday: despite relative security under the Taliban, worsening humanitarian conditions, restrictions on women and growing economic pressures are creating a fragile and uncertain future.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UN officials warn humanitarian toll in Ukraine is worsening",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167674",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-08T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/09-06-2026-UN-Photo-SC-wideview.jpg/image770x420cropped.jpg",
-      "summary": "UN officials warned the humanitarian toll in Ukraine has reached its deadliest point since Russia's full-scale invasion in 2022. Rosemary DiCarlo, Under-Secretary-General for political affairs, briefed the Security Council. She reported recent months saw some of the conflict's most extensive aerial attacks. The Security Council met on Monday amid a sharp escalation in hostilities across Ukraine, where UN officials warned that the war has reached its deadliest point since Russia’s full-scale invasion in 2022.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "पेंटागन में लॉकडाउन, 'खतरनाक पदार्थ फैलने' की खबर ने मचाई अफरा-तफरी, ईरान अटैक से पहले ऐसा क्या हुआ?",
-      "url": "https://hindi.news18.com/world/america-pentagon-lockdown-hazardous-material-false-alarm-sparks-biological-attack-fears-amid-us-iran-war-tension-10561802.html",
+      "title": "अटैक से कुछ मिनट पहले हो गई ईरान-अमेरिका की डील, ट्रंप ने मारा यू-टर्न, मिसाइल नहीं अब होंगे दस्तखत",
+      "url": "https://hindi.news18.com/world/america-trump-cancels-planned-attacks-on-iran-after-secret-mega-deal-approved-by-top-leaders-mojtaba-khamenei-10561908.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-11T16:55:24+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Pentagon-Lockdown-Hazardous-Material-False-Alarm-2026-06-a6db5135ed9673cf85f0d33910781c5e-1200x800.jpg",
-      "summary": "पेंटागन में अचानक रेड अलर्ट घोषित किया गया. अमेरिकी रक्षा मंत्रालय के मुख्यालय 'द पेंटागन' में अचानक 'रेड अलर्ट' घोषित होने से पूरी दुनिया में हड़कंप मच गया. पेंटागन के भीतर लगे अत्याधुनिक एयर-क्वालिटी मॉनिटरिंग सिस्टम ने हवा में किसी खतरनाक और जानलेवा पदार्थ की मौजूदगी का सिग्नल दे दिया था, जिसके बाद अधिकारियों के पसीने छूट गए और आनन-फानन में इमारत की दूसरी से पांचवीं मंजिल और कॉरिडोर नंबर 4 से 7 को पूरी तरह लॉकडाउन कर दिया गया.",
+      "published_at": "2026-06-11T18:13:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Trump-U-Turn-On-Iran-Attack-2026-06-e6c4d102da90491c9b841f2379326af3-1200x800.jpg",
+      "summary": "ईरान पर अमेरिकी हमले से कुछ मिनट पहले राष्ट्रपति डोनाल्ड ट्रंप ने अपना फैसला बदल दिया। उन्होंने ईरान के खिलाफ मिसाइल हमलों को रद्द कर दिया। इसके बजाय, दोनों देशों के बीच एक समझौता हुआ। यह समझौता रात के अंधेरे में गुप्त बातचीत के बाद हुआ। अमेरिकी लड़ाकू विमान और मिसाइलें हमले के लिए तैयार थीं। पश्चिम एशिया में विनाशकारी महायुद्ध और अमेरिकी बमबारी के शुरू होने से ठीक कुछ मिनट पहले एक बेहद नाटकीय उलटफेर में राष्ट्रपति डोनाल्ड ट्रंप ने ईरान पर होने वाले हमलों को तुरंत रद्द कर एक ऐतिहासिक समझौते का ऐलान कर दिया है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पेंटागन में लॉकडाउन, 'खतरनाक पदार्थ फैलने' की खबर ने मचाई अफरा-तफरी, ईरान अटैक से पहले ऐसा क्या हुआ?",
-          "summary": "पेंटागन में अचानक रेड अलर्ट घोषित किया गया. अमेरिकी रक्षा मंत्रालय के मुख्यालय 'द पेंटागन' में अचानक 'रेड अलर्ट' घोषित होने से पूरी दुनिया में हड़कंप मच गया. पेंटागन के भीतर लगे अत्याधुनिक एयर-क्वालिटी मॉनिटरिंग सिस्टम ने हवा में किसी खतरनाक और जानलेवा पदार्थ की मौजूदगी का सिग्नल दे दिया था, जिसके बाद अधिकारियों के पसीने छूट गए और आनन-फानन में इमारत की दूसरी से पांचवीं मंजिल और कॉरिडोर नंबर 4 से 7 को पूरी तरह लॉकडाउन कर दिया गया.",
+          "title": "अटैक से कुछ मिनट पहले हो गई ईरान-अमेरिका की डील, ट्रंप ने मारा यू-टर्न, मिसाइल नहीं अब होंगे दस्तखत",
+          "summary": "ईरान पर अमेरिकी हमले से कुछ मिनट पहले राष्ट्रपति डोनाल्ड ट्रंप ने अपना फैसला बदल दिया। उन्होंने ईरान के खिलाफ मिसाइल हमलों को रद्द कर दिया। इसके बजाय, दोनों देशों के बीच एक समझौता हुआ। यह समझौता रात के अंधेरे में गुप्त बातचीत के बाद हुआ। अमेरिकी लड़ाकू विमान और मिसाइलें हमले के लिए तैयार थीं। पश्चिम एशिया में विनाशकारी महायुद्ध और अमेरिकी बमबारी के शुरू होने से ठीक कुछ मिनट पहले एक बेहद नाटकीय उलटफेर में राष्ट्रपति डोनाल्ड ट्रंप ने ईरान पर होने वाले हमलों को तुरंत रद्द कर एक ऐतिहासिक समझौते का ऐलान कर दिया है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "ईरानी महिलाओं के साथ ऐसा सुलूक करेंगे ट्रंप! सुनकर कांप जाएंगे सुप्रीम लीडर, पैसे देकर यहां फेंकने",
-      "url": "https://hindi.news18.com/world/america-tump-to-deport-iranian-women-to-central-african-republic-in-shocking-immigration-move-amid-iran-us-battle-10561721.html",
+      "title": "ईरान की मेहनत की कमाई 'दोस्तों' में बांट देंगे ट्रंप, खाड़ी देशों को मिलेगा नुकसान का पैसा",
+      "url": "https://hindi.news18.com/world/america-trump-to-drain-frozen-iranian-funds-to-pay-gulf-allies-for-missile-damages-due-to-iran-us-war-10561846.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-11T16:15:20+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Trump-To-Deport-Iranian-Women-2026-06-3cf9dfa138a07273b448eec1afa6a8d0-1200x800.jpg",
-      "summary": "ट्रंप प्रशासन ने दो ईरानी महिलाओं को अमेरिका से सेंट्रल अफ्रीकन रिपब्लिक भेजने की गुप्त योजना बनाई है. ट्रंप ने तेहरान पर दबाव बनाने के लिए इमिग्रेशन को ही एक नया हथियार बना लिया है. फारस की खाड़ी में ईरानी ठिकानों को तबाह करने के साथ-साथ अब ट्रंप प्रशासन अमेरिका के भीतर रह रहे बेकसूर ईरानी शरणार्थियों को चुन-चुनकर निशाना बना रहा है, जिसके तहत बिना किसी आपराधिक रिकॉर्ड वाली दो ईरानी महिलाओं को जबरन 'सेंट्रल अफ्रीकन रिपब्लिक' जैसे बेहद अशांत और गृहयुद्ध से जूझ रहे देश में डिपोर्ट करने की सीक्रेट प्ल।",
+      "published_at": "2026-06-11T17:40:03+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/US-To-Drain-Frozen-Iranian-Funds-To-Pay-Gulf-Allies-2026-06-e3567c9d03de5a61f160a11491a89710-1200x800.jpg",
+      "summary": "ईरान के मिसाइल हमलों के जवाब में राष्ट्रपति डोनाल्ड ट्रंप ने ईरान पर हमले का आदेश दिया है। अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने कहा कि ईरान की मेहनत की कमाई को 'दोस्तों' में बांटा जाएगा। यह पैसा खाड़ी देशों को नुकसान की भरपाई के तौर पर मिलेगा। अमेरिका ईरान को आर्थिक और सैन्य रूप से कमजोर करने की रणनीति पर काम कर रहा है।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरानी महिलाओं के साथ ऐसा सुलूक करेंगे ट्रंप! सुनकर कांप जाएंगे सुप्रीम लीडर, पैसे देकर यहां फेंकने",
-          "summary": "ट्रंप प्रशासन ने दो ईरानी महिलाओं को अमेरिका से सेंट्रल अफ्रीकन रिपब्लिक भेजने की गुप्त योजना बनाई है. ट्रंप ने तेहरान पर दबाव बनाने के लिए इमिग्रेशन को ही एक नया हथियार बना लिया है. फारस की खाड़ी में ईरानी ठिकानों को तबाह करने के साथ-साथ अब ट्रंप प्रशासन अमेरिका के भीतर रह रहे बेकसूर ईरानी शरणार्थियों को चुन-चुनकर निशाना बना रहा है, जिसके तहत बिना किसी आपराधिक रिकॉर्ड वाली दो ईरानी महिलाओं को जबरन 'सेंट्रल अफ्रीकन रिपब्लिक' जैसे बेहद अशांत और गृहयुद्ध से जूझ रहे देश में डिपोर्ट करने की सीक्रेट प्ल।",
+          "title": "ईरान की मेहनत की कमाई 'दोस्तों' में बांट देंगे ट्रंप, खाड़ी देशों को मिलेगा नुकसान का पैसा",
+          "summary": "ईरान के मिसाइल हमलों के जवाब में राष्ट्रपति डोनाल्ड ट्रंप ने ईरान पर हमले का आदेश दिया है। अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने कहा कि ईरान की मेहनत की कमाई को 'दोस्तों' में बांटा जाएगा। यह पैसा खाड़ी देशों को नुकसान की भरपाई के तौर पर मिलेगा। अमेरिका ईरान को आर्थिक और सैन्य रूप से कमजोर करने की रणनीति पर काम कर रहा है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "दोनों किडनी हुईं फेल, 13 सालों तक कुकर से डायलसिस कर रहा गरीब आदमी, सदमे में पूरा चीन",
-      "url": "https://hindi.news18.com/world/china-chinese-man-survives-on-diy-kidney-dialysis-machine-built-from-kitchen-equipment-kidney-failure-cure-10561628.html",
-      "source": "News18 Hindi (World)",
+      "title": "आज रात करेंगे जोरदार हमला- डोनाल्ड ट्रंप ने दी धमकी, ईरान बोला- अमेरिका होगा अंजाम का जिम्मेदार",
+      "url": "https://www.patrika.com/world-news/donald-trump-declares-us-will-strike-iran-very-hard-tonight-kharg-island-oil-20659712",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-11T15:25:20+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Chinese-Man-DIY-Kidney-Dialysis-Machine-2026-06-2bbfcd16a7a56c9e0e7b3ac6e83b6bc6-1200x800.jpg",
-      "summary": "चीन में एक गरीब व्यक्ति ने अपनी किडनी फेल होने के बाद घर पर ही डायलिसिस मशीन बनाई। रीनल फेलियर का शिकार हुए एक गरीब छात्र का परिवार जब अस्पताल के महंगे डायलिसिस का खर्च उठाते-उठाते पाई-पाई को मोहताज हो गया, तो उसन मौत के आगे घुटने टेकने के बजाय अपनी रसोई में रखे प्रेशर कुकर, बर्तनों और कुछ मेडिकल पार्ट्स की मदद से घर पर ही एक देसी 'डायलिसिस मशीन' असेंबल कर डाली.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दोनों किडनी हुईं फेल, 13 सालों तक कुकर से डायलसिस कर रहा गरीब आदमी, सदमे में पूरा चीन",
-          "summary": "चीन में एक गरीब व्यक्ति ने अपनी किडनी फेल होने के बाद घर पर ही डायलिसिस मशीन बनाई। रीनल फेलियर का शिकार हुए एक गरीब छात्र का परिवार जब अस्पताल के महंगे डायलिसिस का खर्च उठाते-उठाते पाई-पाई को मोहताज हो गया, तो उसन मौत के आगे घुटने टेकने के बजाय अपनी रसोई में रखे प्रेशर कुकर, बर्तनों और कुछ मेडिकल पार्ट्स की मदद से घर पर ही एक देसी 'डायलिसिस मशीन' असेंबल कर डाली.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ताइवान के नाम पर चीन से दुश्मनी! तो फिर जापानी पीएम का पोता ड्रैगन के देश में क्यों पढ रहा? क्या है",
-      "url": "https://hindi.news18.com/world/china-japan-pm-sanae-takaichi-grandson-ren-yamamoto-china-university-dispute-10561508.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-11T14:07:57+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Japan_PM-2026-06-b8a80747cd9fb78be7ee3653a64e3f66-1200x800.jpg",
-      "summary": "जापान की प्रधानमंत्री सनाई ताकाइची एक नए विवाद में आ गई हैं. Japan PM Grandson in China: जापान की प्रधानमंत्री सनाई ताकाइची एक नए विवाद में फंस गई हैं. उनके 19 साल के सौतेले पोते रेन् यामामोटो ने चीन की एक टॉप यूनिवर्सिटी में एडमिशन लिया है. जापान और चीन के बीच इस समय भारी तनाव है. ताकाइची हमेशा ताइवान का सपोर्ट करती हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ताइवान के नाम पर चीन से दुश्मनी! तो फिर जापानी पीएम का पोता ड्रैगन के देश में क्यों पढ रहा? क्या है",
-          "summary": "जापान की प्रधानमंत्री सनाई ताकाइची एक नए विवाद में आ गई हैं. Japan PM Grandson in China: जापान की प्रधानमंत्री सनाई ताकाइची एक नए विवाद में फंस गई हैं. उनके 19 साल के सौतेले पोते रेन् यामामोटो ने चीन की एक टॉप यूनिवर्सिटी में एडमिशन लिया है. जापान और चीन के बीच इस समय भारी तनाव है. ताकाइची हमेशा ताइवान का सपोर्ट करती हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'खार्ग आइलैंड पर कब्जा करेंगे', ट्रंप ने खुद उगल दिया असली लालच, न्यूक्लियर नहीं ईरान की इस चीज पर",
-      "url": "https://hindi.news18.com/world/middle-east-donald-trump-plans-to-seize-iran-oil-hub-kharg-island-tonight-very-hard-attack-control-iranian-oil-and-gas-markets-like-venezuela-10561259.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-11T13:00:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Trump-To-Capture-Khag-Island-2026-06-97d65bad64655b8dce65a349d2687e86-1200x800.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने घोषणा की कि ईरान पर एक बड़ा हमला होने वाला है। उन्होंने यह भी कहा कि अमेरिका खार्ग द्वीप और उसके तेल बुनियादी ढांचे पर नियंत्रण कर लेगा। यह द्वीप ईरान की तेल आपूर्ति के लिए महत्वपूर्ण है। ट्रंप ने अपने सोशल मीडिया पर यह जानकारी साझा की। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अपने ट्रुथ सोशल अकाउंट पर एक ऐसा कबूलनामा कर दिया है, जिसने दुनिया के सामने उनका असली चेहरा लाकर रख दिया है.",
+      "published_at": "2026-06-11T12:53:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trump-Iran-Warning.webp",
+      "summary": "डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है कि अमेरिका आज रात ईरान के खिलाफ कड़ी कार्रवाई करेगा। उन्होंने कहा कि अमेरिका ईरान के प्रमुख तेल निर्यात केंद्र खार्ग द्वीप और उसके तेल-गैस कारोबार पर नियंत्रण हासिल करेगा। ट्रंप के इस बयान के बाद मध्य पूर्व में तनाव बढ़ने की आशंका है। ईरान ने कहा है कि अमेरिका इस कार्रवाई का जिम्मेदार होगा।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'खार्ग आइलैंड पर कब्जा करेंगे', ट्रंप ने खुद उगल दिया असली लालच, न्यूक्लियर नहीं ईरान की इस चीज पर",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने घोषणा की कि ईरान पर एक बड़ा हमला होने वाला है। उन्होंने यह भी कहा कि अमेरिका खार्ग द्वीप और उसके तेल बुनियादी ढांचे पर नियंत्रण कर लेगा। यह द्वीप ईरान की तेल आपूर्ति के लिए महत्वपूर्ण है। ट्रंप ने अपने सोशल मीडिया पर यह जानकारी साझा की। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अपने ट्रुथ सोशल अकाउंट पर एक ऐसा कबूलनामा कर दिया है, जिसने दुनिया के सामने उनका असली चेहरा लाकर रख दिया है.",
+          "title": "आज रात करेंगे जोरदार हमला- डोनाल्ड ट्रंप ने दी धमकी, ईरान बोला- अमेरिका होगा अंजाम का जिम्मेदार",
+          "summary": "डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है कि अमेरिका आज रात ईरान के खिलाफ कड़ी कार्रवाई करेगा। उन्होंने कहा कि अमेरिका ईरान के प्रमुख तेल निर्यात केंद्र खार्ग द्वीप और उसके तेल-गैस कारोबार पर नियंत्रण हासिल करेगा। ट्रंप के इस बयान के बाद मध्य पूर्व में तनाव बढ़ने की आशंका है। ईरान ने कहा है कि अमेरिका इस कार्रवाई का जिम्मेदार होगा।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जेल में छपा क्‍वेश्‍चन पेपर, 1.3 करोड़ छात्रों ने दी परीक्षा, पेपर लीक पर उम्रकैद",
-      "url": "https://hindi.news18.com/news/career/education-china-conduct-gaokao-exam-2026-above-one-crore-students-participate-in-gaokao-exam-in-china-eligibility-purpose-details-10561196.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-11T12:31:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/NEET-PAPER-LEAK-2026-06-11T180013.237-2026-06-03d1ef6be2cb2f8b2c3650ed2f74deb6-1200x800.jpg",
-      "summary": "चीन में गाओकाओ परीक्षा में 1.3 करोड़ छात्रों ने भाग लिया। यह परीक्षा दो दिनों तक चली। परीक्षा के प्रश्नपत्र जेल में छपे थे। पेपर लीक होने पर उम्रकैद की सजा का प्रावधान है। Gaokao Exam 2026: चीन की गाओकाओ परीक्षा में इस साल करीब 1.3 करोड़ छात्रों ने हिस्‍सा लिया. यह परीक्षा दो दिनों में सफलतापूर्वक हुई जिसके बाद यह चर्चा का विषय बन गई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जेल में छपा क्‍वेश्‍चन पेपर, 1.3 करोड़ छात्रों ने दी परीक्षा, पेपर लीक पर उम्रकैद",
-          "summary": "चीन में गाओकाओ परीक्षा में 1.3 करोड़ छात्रों ने भाग लिया। यह परीक्षा दो दिनों तक चली। परीक्षा के प्रश्नपत्र जेल में छपे थे। पेपर लीक होने पर उम्रकैद की सजा का प्रावधान है। Gaokao Exam 2026: चीन की गाओकाओ परीक्षा में इस साल करीब 1.3 करोड़ छात्रों ने हिस्‍सा लिया. यह परीक्षा दो दिनों में सफलतापूर्वक हुई जिसके बाद यह चर्चा का विषय बन गई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तानी ISI से जुड़े अंग तस्करी नेटवर्क का खुलासा, बांग्लादेशी बन रहे शिकार",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-isi-linked-organ-trafficking-networks-target-bangladeshis-ws-l-10560762.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-11T12:30:41+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Your-paragraph-text-1600-x-900-px-54-2026-06-0f994e7a5669212b9e366743948f04a7-1200x800.jpg",
-      "summary": "बांग्लादेश में एक किडनी तस्करी नेटवर्क का खुलासा हुआ है। यह नेटवर्क पाकिस्तानी खुफिया एजेंसी आईएसआई से जुड़ा बताया जा रहा है। बांग्लादेशी नागरिकों को अच्छी नौकरी का लालच देकर फुसलाया जा रहा है। उन्हें प्रति माह 750 अमेरिकी डॉलर तक वेतन का वादा किया जाता है। इसके बाद उनकी किडनी निकाली जाती है। इस रैकेट से एचआईवी संक्रमण फैलने का भी आरोप है। बांग्लादेश में इस पर कड़ी कार्रवाई की मांग उठ रही है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तानी ISI से जुड़े अंग तस्करी नेटवर्क का खुलासा, बांग्लादेशी बन रहे शिकार",
-          "summary": "बांग्लादेश में एक किडनी तस्करी नेटवर्क का खुलासा हुआ है। यह नेटवर्क पाकिस्तानी खुफिया एजेंसी आईएसआई से जुड़ा बताया जा रहा है। बांग्लादेशी नागरिकों को अच्छी नौकरी का लालच देकर फुसलाया जा रहा है। उन्हें प्रति माह 750 अमेरिकी डॉलर तक वेतन का वादा किया जाता है। इसके बाद उनकी किडनी निकाली जाती है। इस रैकेट से एचआईवी संक्रमण फैलने का भी आरोप है। बांग्लादेश में इस पर कड़ी कार्रवाई की मांग उठ रही है।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -404,20 +320,20 @@
       }
     },
     {
-      "title": "'अभी और 4 राज्यसभा सांसद इस्तीफा देंगे...', अभिषेक बनर्जी पर जमकर बरसे रिजू दत्ता, लगाए गंभीर आरोप",
-      "url": "https://www.abplive.com/news/india/riju-dutta-target-tmc-abhishek-banerjee-mamata-banerjee-on-rebel-leaders-west-bengal-3143579",
-      "source": "ABP Live (India)",
+      "title": "सीजफायर टूटा,अमेरिका और ईरान युद्ध तेज, क्रूड ऑयल की कीमत आसमान पर, अब भारत क्या करेगा",
+      "url": "https://www.patrika.com/world-news/us-iran-conflict-strait-of-hormuz-closed-crude-oil-price-hike-2026-20659554",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-11T11:40:31+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/ee39db98935390a63774704ce706046117811704233321200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तृणमूल कांग्रेस के राज्यसभा सांसद प्रकाश चिक बराइक ने इस्तीफा दे दिया है. बंगाल चुनाव में हार के बाद से ममता बनर्जी की टीएमसी में भगदड़ मची हुई है. रोजाना कोई ना कोई नेता या तो पार्टी छोड़ रहा है या फिर किसी के बागी नेताओं के साथ जाने की खबरें आ रही हैं. गुरुवार को टीएमसी के तीसरे राज्यसभा सांसद ने प्रकाश चिक बरेक ने इस्तीफा दिया है.",
-      "region": "World",
+      "published_at": "2026-06-11T11:48:34+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-Iran-Clash.webp",
+      "summary": "अमेरिका और ईरान के बीच दो महीने का युद्धविराम टूट गया है। दोनों देशों ने एक-दूसरे के सैन्य ठिकानों पर लगातार दूसरे दिन हमले किए। अमेरिकी सेंट्रल कमांड ने दक्षिणी ईरान में हवाई हमले किए। इसके जवाब में ईरान ने बहरीन, कुवैत और जॉर्डन में अमेरिकी सैन्य अड्डों पर बैलिस्टिक मिसाइलें दागीं। Strait of Hormuz: अमेरिका और ईरान के बीच हुआ दो महीने पुराना युद्धविराम अब पूरी तरह टूट चुका है।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'अभी और 4 राज्यसभा सांसद इस्तीफा देंगे...', अभिषेक बनर्जी पर जमकर बरसे रिजू दत्ता, लगाए गंभीर आरोप",
-          "summary": "तृणमूल कांग्रेस के राज्यसभा सांसद प्रकाश चिक बराइक ने इस्तीफा दे दिया है. बंगाल चुनाव में हार के बाद से ममता बनर्जी की टीएमसी में भगदड़ मची हुई है. रोजाना कोई ना कोई नेता या तो पार्टी छोड़ रहा है या फिर किसी के बागी नेताओं के साथ जाने की खबरें आ रही हैं. गुरुवार को टीएमसी के तीसरे राज्यसभा सांसद ने प्रकाश चिक बरेक ने इस्तीफा दिया है.",
-          "region": "दुनिया"
+          "title": "सीजफायर टूटा,अमेरिका और ईरान युद्ध तेज, क्रूड ऑयल की कीमत आसमान पर, अब भारत क्या करेगा",
+          "summary": "अमेरिका और ईरान के बीच दो महीने का युद्धविराम टूट गया है। दोनों देशों ने एक-दूसरे के सैन्य ठिकानों पर लगातार दूसरे दिन हमले किए। अमेरिकी सेंट्रल कमांड ने दक्षिणी ईरान में हवाई हमले किए। इसके जवाब में ईरान ने बहरीन, कुवैत और जॉर्डन में अमेरिकी सैन्य अड्डों पर बैलिस्टिक मिसाइलें दागीं। Strait of Hormuz: अमेरिका और ईरान के बीच हुआ दो महीने पुराना युद्धविराम अब पूरी तरह टूट चुका है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -435,42 +351,6 @@
         "hi": {
           "title": "ईरान के ठिकानों पर यूएस के ताजा हमलों से मिडिल ईस्ट में फिर भड़की चिंगारी, कूदा चीन, यूएस की दी ये",
           "summary": "अमेरिका ने 10 जून को ईरान में कई ठिकानों पर आत्मरक्षा में हमले किए। अमेरिका की ओर से फिर से ईरान पर किए गए हमले के बाद मिडिल ईस्ट एक बार फिर बड़े संकट में फंस गया है. यूएस सेंट्रल कमांड ने कहा है कि 10 जून को ईरान में कई ठिकानों पर आत्मरक्षा में हमले किए गए. इसके जवाब में ईरान की इस्लामिक रिवॉल्यूशनरी गार्ड्स कोर (IRGC) ने कहा कि उसने स्ट्रेट ऑफ होर्मुज में जहाजों को निशाना बनाया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तेजस प्रोजेक्ट में बड़ा फर्जीवाड़ा, HAL ने हैदराबाद की कंपनी के खिलाफ दर्ज कराई FIR, देश की सुरक्षा",
-      "url": "https://www.abplive.com/news/india/hal-lodged-fir-against-tec-aero-devices-fraud-in-tejas-mk-1a-fighter-jet-program-ann-3143522",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-11T11:35:15+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/bdfa8a036c04bb4b9329b7ca2b49ad9f17811661195311200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) ने तेजस लड़ाकू विमान कार्यक्रम में कथित फर्जीवाड़े के लिए हैदराबाद स्थित TEC Aero Devices के खिलाफ एफआईआर दर्ज कराई है. कंपनी पर स्पेयर पार्ट्स की आपूर्ति में 199 फर्जी टेस्ट रिपोर्ट जमा करने का आरोप है. यह मामला देश की सुरक्षा से जुड़ा है. सरकारी रक्षा कंपनी हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) ने अपने महत्वाकांक्षी तेजस एमके-1ए लड़ाकू विमान कार्यक्रम से जुड़े एक कथित फर्जीवाड़े का खुलासा करते हुए हैदराबाद स्थित कंपनी TEC Aero Devices के खिलाफ एफआईआर दर्ज कराई है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेजस प्रोजेक्ट में बड़ा फर्जीवाड़ा, HAL ने हैदराबाद की कंपनी के खिलाफ दर्ज कराई FIR, देश की सुरक्षा",
-          "summary": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) ने तेजस लड़ाकू विमान कार्यक्रम में कथित फर्जीवाड़े के लिए हैदराबाद स्थित TEC Aero Devices के खिलाफ एफआईआर दर्ज कराई है. कंपनी पर स्पेयर पार्ट्स की आपूर्ति में 199 फर्जी टेस्ट रिपोर्ट जमा करने का आरोप है. यह मामला देश की सुरक्षा से जुड़ा है. सरकारी रक्षा कंपनी हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) ने अपने महत्वाकांक्षी तेजस एमके-1ए लड़ाकू विमान कार्यक्रम से जुड़े एक कथित फर्जीवाड़े का खुलासा करते हुए हैदराबाद स्थित कंपनी TEC Aero Devices के खिलाफ एफआईआर दर्ज कराई है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरान पर अमेरिका के हमलों से बिगड़ रहे मिडिल ईस्ट के हालात, 16 जून को फ्रांस में जुटेंगे G-7 के देश",
-      "url": "https://www.abplive.com/news/world/middle-east-situation-worse-us-attacks-on-iran-g-7-nations-meeting-france-june-16-narendra-modi-uae-saudi-arab-3143660",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-11T11:19:08+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/4dc676f8ab8043d27ca0dfc2f37e065717811778566021324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "फ्रांस 16 जून को G7 की बैठक में मध्य पूर्व के बिगड़ते हालात पर चर्चा करेगा. बैठक में संयुक्त अरब अमीरात, मिस्र, सऊदी अरब और कतर को आमंत्रित किया गया है. ईरान के मुद्दे पर भी बातचीत होगी. यूक्रेन युद्ध भी बैठक का एक मुख्य एजेंडा रहेगा. G7 Meeting France Paris: 16 जून को G7 में मिडिल ईस्ट हालात पर विशेष बैठक होगी.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान पर अमेरिका के हमलों से बिगड़ रहे मिडिल ईस्ट के हालात, 16 जून को फ्रांस में जुटेंगे G-7 के देश",
-          "summary": "फ्रांस 16 जून को G7 की बैठक में मध्य पूर्व के बिगड़ते हालात पर चर्चा करेगा. बैठक में संयुक्त अरब अमीरात, मिस्र, सऊदी अरब और कतर को आमंत्रित किया गया है. ईरान के मुद्दे पर भी बातचीत होगी. यूक्रेन युद्ध भी बैठक का एक मुख्य एजेंडा रहेगा. G7 Meeting France Paris: 16 जून को G7 में मिडिल ईस्ट हालात पर विशेष बैठक होगी.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -512,114 +392,6 @@
       }
     },
     {
-      "title": "PoK पर भारत की दहाड़ से 40 घंटे तक सुन्न रहा पाकिस्तान, अब डर के मारे दिया यह गोलमोल जवाब",
-      "url": "https://hindi.news18.com/news/nation/india-flags-pakistan-40-hour-silence-on-pok-crisis-10560914.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-11T10:58:20+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/POK_Crisis-2026-06-8451f5a4b8f24bd0afd2ed6aba258f45-1200x800.jpg",
-      "summary": "भारत की कड़ी आलोचना के बाद पाकिस्तान ने पीओके में विरोध प्रदर्शनों पर 40 घंटे तक चुप्पी साधे रखी. पाकिस्तान के विदेश मंत्रालय की प्रतिक्रिया को भारत ने डर और आंतरिक भ्रम का संकेत बताया है. India On PoK Crisis: पीओके में जारी भारी विरोध प्रदर्शन और पुलिस की बर्बरता पर भारत की तीखी आलोचना के बाद पाकिस्तान बैकफुट पर है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PoK पर भारत की दहाड़ से 40 घंटे तक सुन्न रहा पाकिस्तान, अब डर के मारे दिया यह गोलमोल जवाब",
-          "summary": "भारत की कड़ी आलोचना के बाद पाकिस्तान ने पीओके में विरोध प्रदर्शनों पर 40 घंटे तक चुप्पी साधे रखी. पाकिस्तान के विदेश मंत्रालय की प्रतिक्रिया को भारत ने डर और आंतरिक भ्रम का संकेत बताया है. India On PoK Crisis: पीओके में जारी भारी विरोध प्रदर्शन और पुलिस की बर्बरता पर भारत की तीखी आलोचना के बाद पाकिस्तान बैकफुट पर है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "एक्टर विजय की TVK सरकार के सामने सबसे बड़ा संकट, मानसून के आते ही अघोषित बिजली कटौती से पूरा राज्य",
-      "url": "https://www.abplive.com/news/india/tn-power-outage-actor-vijay-tvk-government-faces-a-major-crisis-as-unannounced-power-cuts-plunge-the-entire-state-into-darkness-leaving-people-on-the-streets-3143629",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-11T10:55:32+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/53f82c02be958fd9af15bdff7b4bdaa91781175273929120_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तमिलनाडु में मानसून के साथ बिजली संकट गहरा गया है. राज्य के कई हिस्सों में अघोषित बिजली कटौती से लोग परेशान हैं. अभिनेता से नेता बने विजय की सरकार के लिए यह एक बड़ी प्रशासनिक चुनौती है. तमिलनाडु में मानसून की दस्तक के साथ ही बिजली संकट ने राजनीतिक और प्रशासनिक हलकों में हलचल मचा दी है. ऐसे समय में अभिनेता से नेता बने विजय की TVK सरकार के सामने यह सबसे बड़ी प्रशासनिक चुनौती बनकर उभरी है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक्टर विजय की TVK सरकार के सामने सबसे बड़ा संकट, मानसून के आते ही अघोषित बिजली कटौती से पूरा राज्य",
-          "summary": "तमिलनाडु में मानसून के साथ बिजली संकट गहरा गया है. राज्य के कई हिस्सों में अघोषित बिजली कटौती से लोग परेशान हैं. अभिनेता से नेता बने विजय की सरकार के लिए यह एक बड़ी प्रशासनिक चुनौती है. तमिलनाडु में मानसून की दस्तक के साथ ही बिजली संकट ने राजनीतिक और प्रशासनिक हलकों में हलचल मचा दी है. ऐसे समय में अभिनेता से नेता बने विजय की TVK सरकार के सामने यह सबसे बड़ी प्रशासनिक चुनौती बनकर उभरी है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी के 12 साल पूरे होने पर शत्रुघ्न सिन्हा ने दी बधाई, पोस्ट में ममता बनर्जी को किया टैग",
-      "url": "https://www.abplive.com/news/india/tmc-mp-shatrughn-sinha-congratulates-pm-modi-on-become-longest-serving-pm-in-india-3143630",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-11T10:52:47+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/1fab09c98b8fe4a1ec2b6ff155893ccf1781175065561628_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी ने देश के प्रधानमंत्री के रूप में लगातार सबसे लंबे समय तक सेवा करने का रिकॉर्ड बनाया है. इस उपलब्धि पर तृणमूल कांग्रेस के सांसद शत्रुघ्न सिन्हा ने उन्हें बधाई दी है. प्रधानमंत्री नरेंद्र मोदी ने देश के प्रधानमंत्री के रूप में सबसे लंबे समय तक लगातार निर्वाचित रहने का एक ऐतिहासिक रिकॉर्ड अपने नाम कर लिया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी के 12 साल पूरे होने पर शत्रुघ्न सिन्हा ने दी बधाई, पोस्ट में ममता बनर्जी को किया टैग",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी ने देश के प्रधानमंत्री के रूप में लगातार सबसे लंबे समय तक सेवा करने का रिकॉर्ड बनाया है. इस उपलब्धि पर तृणमूल कांग्रेस के सांसद शत्रुघ्न सिन्हा ने उन्हें बधाई दी है. प्रधानमंत्री नरेंद्र मोदी ने देश के प्रधानमंत्री के रूप में सबसे लंबे समय तक लगातार निर्वाचित रहने का एक ऐतिहासिक रिकॉर्ड अपने नाम कर लिया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बांग्‍लादेश में लौटा 'ब्लैक मनी व्हाइटनिंग सिस्टम', क्‍या द‍िल्‍ली में बैठीं शेख हसीना को म‍िलेगा",
-      "url": "https://hindi.news18.com/world/south-asia-what-is-bangladesh-black-money-whitening-system-sheikh-hasina-benefit-or-not-india-connection-10560847.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-11T10:52:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Bangladesh-News-7-2026-06-8c94ea80067f4f859375f183e0a8ccd7-1200x800.jpg",
-      "summary": "बांग्लादेश सरकार ने 'ब्लैक मनी व्हाइटनिंग सिस्टम' फिर से पेश किया है, जिससे अघोषित धन को वैध बनाया जा सकता है. यह स्पष्ट नहीं है कि भारत में रह रहीं पूर्व प्रधानमंत्री शेख हसीना को इसका लाभ मिलेगा या नहीं. बांग्लादेश सरकार एक बार फिर 'ब्लैक मनी व्हाइटनिंग सिस्टम' लेकर आई है. इस प्रस्ताव के तहत अघोषित धन को टैक्स देकर वैध बनाने का रास्ता खुल सकता है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्‍लादेश में लौटा 'ब्लैक मनी व्हाइटनिंग सिस्टम', क्‍या द‍िल्‍ली में बैठीं शेख हसीना को म‍िलेगा",
-          "summary": "बांग्लादेश सरकार ने 'ब्लैक मनी व्हाइटनिंग सिस्टम' फिर से पेश किया है, जिससे अघोषित धन को वैध बनाया जा सकता है. यह स्पष्ट नहीं है कि भारत में रह रहीं पूर्व प्रधानमंत्री शेख हसीना को इसका लाभ मिलेगा या नहीं. बांग्लादेश सरकार एक बार फिर 'ब्लैक मनी व्हाइटनिंग सिस्टम' लेकर आई है. इस प्रस्ताव के तहत अघोषित धन को टैक्स देकर वैध बनाने का रास्ता खुल सकता है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "क्या बमों से ईरान को झुका पाएगा अमेरिका, ट्रंप के मंत्री के बड़बोलेपन में कितना दम?",
-      "url": "https://hindi.news18.com/world/middle-east-can-bombs-force-iran-deal-pete-hegseth-trump-iran-conflict-afghanistan-lessons-10560016.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-11T10:44:37+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/trump-cabinet-2026-06-0ec545af967c92ca151e5beff3a6ac57-1200x800.jpg",
-      "summary": "अमेरिकी युद्ध मंत्री पीट हेगसेथ ने कहा कि जरूरत पड़ने पर अमेरिका 'बमों से बातचीत' करेगा. सैन्य कार्रवाई दबाव बना सकती है, लेकिन अफगानिस्तान और यूक्रेन के युद्धों से पता चलता है कि यह स्थायी राजनीतिक समाधान की गारंटी नहीं देती. अमेरिका के युद्ध मंत्री पीट हेगसेथ ने कहा है कि जरूरत पड़ी तो अमेरिका 'बमों से बातचीत' करेगा. सवाल यह है कि क्या सिर्फ बम गिराकर किसी देश को समझौते की मेज पर लाया जा सकता है?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या बमों से ईरान को झुका पाएगा अमेरिका, ट्रंप के मंत्री के बड़बोलेपन में कितना दम?",
-          "summary": "अमेरिकी युद्ध मंत्री पीट हेगसेथ ने कहा कि जरूरत पड़ने पर अमेरिका 'बमों से बातचीत' करेगा. सैन्य कार्रवाई दबाव बना सकती है, लेकिन अफगानिस्तान और यूक्रेन के युद्धों से पता चलता है कि यह स्थायी राजनीतिक समाधान की गारंटी नहीं देती. अमेरिका के युद्ध मंत्री पीट हेगसेथ ने कहा है कि जरूरत पड़ी तो अमेरिका 'बमों से बातचीत' करेगा. सवाल यह है कि क्या सिर्फ बम गिराकर किसी देश को समझौते की मेज पर लाया जा सकता है?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कनाडा में लड़की को छेड़ रहे थे मनचले, शील्ड बनकर खड़े हो गए भारतीय मूल के क्रिकेटर, तालियां पीट रहा",
-      "url": "https://hindi.news18.com/world/rest-of-world-indian-origin-crickers-become-shield-for-woman-from-stalker-in-canada-watch-video-2-10560321.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-11T10:40:13+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/canada-india-2026-06-076da14fd36c30d7698ff56238252239-1200x800.jpg",
-      "summary": "कनाडा में भारतीय मूल के क्रिकेट खिलाड़ियों ने एक महिला को परेशान करने वाले व्यक्ति से बचाया. खिलाड़ियों ने महिला के चारों ओर सुरक्षा घेरा बनाकर उसकी रक्षा की और स्थिति को संभाला. Crickers Become Shield For Woman: कनाडा के ब्रिटिश कोलंबिया प्रांत के प्रिंस जॉर्ज शहर में भारतीय मूल के क्रिकेट खिलाड़ियों ने एक महिला की मदद कर मानवता की मिसाल पेश की.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कनाडा में लड़की को छेड़ रहे थे मनचले, शील्ड बनकर खड़े हो गए भारतीय मूल के क्रिकेटर, तालियां पीट रहा",
-          "summary": "कनाडा में भारतीय मूल के क्रिकेट खिलाड़ियों ने एक महिला को परेशान करने वाले व्यक्ति से बचाया. खिलाड़ियों ने महिला के चारों ओर सुरक्षा घेरा बनाकर उसकी रक्षा की और स्थिति को संभाला. Crickers Become Shield For Woman: कनाडा के ब्रिटिश कोलंबिया प्रांत के प्रिंस जॉर्ज शहर में भारतीय मूल के क्रिकेट खिलाड़ियों ने एक महिला की मदद कर मानवता की मिसाल पेश की.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "ईरान ने फिर दबाई अमेरिका की कमजोर नस, बहरीन में पांचवें नौसेना बेड़े पर अटैक, क्यों बार-बार इसे",
       "url": "https://hindi.news18.com/world/middle-east-what-is-us-fifth-naval-fleet-attacked-by-iran-in-baharain-why-is-it-important-for-america-ws-l-10560765.html",
       "source": "News18 Hindi (World)",
@@ -634,42 +406,6 @@
           "title": "ईरान ने फिर दबाई अमेरिका की कमजोर नस, बहरीन में पांचवें नौसेना बेड़े पर अटैक, क्यों बार-बार इसे",
           "summary": "ईरान ने बहरीन में अमेरिकी नौसेना के पांचवें बेड़े को निशाना बनाया है। यह बेड़ा फारस की खाड़ी में अमेरिकी नौसैनिक अभियानों के लिए महत्वपूर्ण है। ईरान अक्सर इस बेड़े को निशाना बनाकर अमेरिका पर दबाव बनाता है। What is US Fifth Naval Fleet: ईरान-अमेरिका की लड़ाई में कुछ ऐसे प्वाइंट हैं, जिन्हें ईरान जानता भी है और इसे मौका पड़ने पर दबाते ही सुपरपावर कराह उठता है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इराक में 4000 साल पुराने शहर की खोज, यहां क्यों मिले बिना दफन किए शव? क्या है इसका इतिहास",
-      "url": "https://hindi.news18.com/news/ajab-gajab/viral-ancient-mesopotamia-siege-warfare-archaeological-discovery-qabra-iraq-10560749.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-11T10:32:15+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Mesopotamia-Seige-Evidence_News-2026-06-1154df5eaf867f7ce3cba203cc351cb3-1200x800.jpg",
-      "summary": "इराक के कुर्दिस्तान क्षेत्र में पुरातत्वविदों ने 4000 साल पुराने शहर के अवशेष खोजे हैं। इस स्थान पर प्राचीन युद्ध के निशान और 17 बिना दफन किए गए शव मिले हैं। यह खोज मध्य कांस्य युग की एक बड़ी तबाही का संकेत देती है। 4000 Year Old Ancient Mesopotamia City: इराक के कुर्दिस्तान रीजन में आर्कियोलॉजिस्ट्स ने 4000 साल पुराने शहर के सबूत खोजे हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इराक में 4000 साल पुराने शहर की खोज, यहां क्यों मिले बिना दफन किए शव? क्या है इसका इतिहास",
-          "summary": "इराक के कुर्दिस्तान क्षेत्र में पुरातत्वविदों ने 4000 साल पुराने शहर के अवशेष खोजे हैं। इस स्थान पर प्राचीन युद्ध के निशान और 17 बिना दफन किए गए शव मिले हैं। यह खोज मध्य कांस्य युग की एक बड़ी तबाही का संकेत देती है। 4000 Year Old Ancient Mesopotamia City: इराक के कुर्दिस्तान रीजन में आर्कियोलॉजिस्ट्स ने 4000 साल पुराने शहर के सबूत खोजे हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दहशतगर्दी के पीछे वर्दी…, निहत्थों पर अंधाधुंध फायरिंग में आज 16 की मौत, विरोध मार्च के बीच गूंज",
-      "url": "https://www.abplive.com/news/india/pok-protest-crisis-claims-of-deadly-firing-trigger-massive-public-anger-3143578",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-11T10:30:11+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/f2ee7fd6eb47f7c5f67516f00177e9fb17811703994281431_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर के रावलाकोट में पाकिस्तानी सेना ने ईदगाह मैदान पर बैठे निहत्थे प्रदर्शनकारियों पर अंधाधुंध फायरिंग की। इस घटना में 16 लोगों की मौत हो गई। यह घटना विरोध मार्च के दौरान हुई। पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (पीओके) से एक बार फिर बेहद हृदयविदारक और पाकिस्तानी फ़ौज के नरसंहार की तस्वीरें सामने आई हैं. जानकारी के अनुसार रावलाकोट में सुबह जब 60 हज़ार से 70 हज़ार प्रदर्शनकारी ईदगाह मैदान पर बैठे हुए थे तभी पाकिस्तानी सेना और रेंजर्स ने निहत्थे प्रदर्शनकारियों पर बिना चेतावनी दिए अंधाधुंध फायरिंग कर दी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दहशतगर्दी के पीछे वर्दी…, निहत्थों पर अंधाधुंध फायरिंग में आज 16 की मौत, विरोध मार्च के बीच गूंज",
-          "summary": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर के रावलाकोट में पाकिस्तानी सेना ने ईदगाह मैदान पर बैठे निहत्थे प्रदर्शनकारियों पर अंधाधुंध फायरिंग की। इस घटना में 16 लोगों की मौत हो गई। यह घटना विरोध मार्च के दौरान हुई। पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (पीओके) से एक बार फिर बेहद हृदयविदारक और पाकिस्तानी फ़ौज के नरसंहार की तस्वीरें सामने आई हैं. जानकारी के अनुसार रावलाकोट में सुबह जब 60 हज़ार से 70 हज़ार प्रदर्शनकारी ईदगाह मैदान पर बैठे हुए थे तभी पाकिस्तानी सेना और रेंजर्स ने निहत्थे प्रदर्शनकारियों पर बिना चेतावनी दिए अंधाधुंध फायरिंग कर दी.",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -692,20 +428,272 @@
       }
     },
     {
-      "title": "पहले पीएम मोदी की तारीफ, फिर बागी सांसद और ममता पर बड़ा बयान… आखिर किस रणनीति पर शत्रुघ्न सिन्हा",
-      "url": "https://www.abplive.com/news/india/shatrughan-sinhas-pm-modi-says-not-leave-didi-mamata-banerjee-tmc-rebel-mp-3143598",
-      "source": "ABP Live (India)",
+      "title": "नेता कमजोर हो तो सबसे मजबूत सेना होते हुए भी मखौल ही उड़ता है-अमरीकी हमले में भारतीयों की मौत",
+      "url": "https://www.patrika.com/world-news/us-attack-on-commercial-vessel-near-oman-coast-india-summons-american-diplomat-missing-indian-sailors-20658600",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-11T09:55:57+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/533365eec971d8e3ad4f71cc2e135c271781171733779708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तृणमूल कांग्रेस के सांसद शत्रुघ्न सिन्हा ने प्रधानमंत्री मोदी की प्रशंसा की है। यह तब हुआ जब टीएमसी के 19 बागी सांसदों की सूची सामने आई जिसमें उनका भी नाम था। सिन्हा ने मोदी को देश और समाज का मार्गदर्शक बताया। भारत के सबसे लंबे समय तक लगातार निर्वाचित प्रधानमंत्री बनने पर तृणमूल कांग्रेस के सांसद शत्रुघ्न सिन्हा ने पीएम मोदी की जमकर तारीफ की है.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-06-11T09:20:04+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-Attack-Indian-Cargo-Ship-1.webp",
+      "summary": "ओमान तट के पास एक वाणिज्यिक तेल टैंकर पर अमेरिकी हमले के बाद भारत और अमेरिका के बीच कूटनीतिक तनाव बढ़ गया है। भारत सरकार ने नई दिल्ली में अमेरिकी राजनयिक जेसन मीक्स को तलब कर घटना पर तीव्र आपत्ति दर्ज कराई है। इस हमले में भारतीयों की मौत की खबर है। सोशल मीडिया पर यूजर्स ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की आलोचना की है।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पहले पीएम मोदी की तारीफ, फिर बागी सांसद और ममता पर बड़ा बयान… आखिर किस रणनीति पर शत्रुघ्न सिन्हा",
-          "summary": "तृणमूल कांग्रेस के सांसद शत्रुघ्न सिन्हा ने प्रधानमंत्री मोदी की प्रशंसा की है। यह तब हुआ जब टीएमसी के 19 बागी सांसदों की सूची सामने आई जिसमें उनका भी नाम था। सिन्हा ने मोदी को देश और समाज का मार्गदर्शक बताया। भारत के सबसे लंबे समय तक लगातार निर्वाचित प्रधानमंत्री बनने पर तृणमूल कांग्रेस के सांसद शत्रुघ्न सिन्हा ने पीएम मोदी की जमकर तारीफ की है.",
-          "region": "एशिया-प्रशांत"
+          "title": "नेता कमजोर हो तो सबसे मजबूत सेना होते हुए भी मखौल ही उड़ता है-अमरीकी हमले में भारतीयों की मौत",
+          "summary": "ओमान तट के पास एक वाणिज्यिक तेल टैंकर पर अमेरिकी हमले के बाद भारत और अमेरिका के बीच कूटनीतिक तनाव बढ़ गया है। भारत सरकार ने नई दिल्ली में अमेरिकी राजनयिक जेसन मीक्स को तलब कर घटना पर तीव्र आपत्ति दर्ज कराई है। इस हमले में भारतीयों की मौत की खबर है। सोशल मीडिया पर यूजर्स ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की आलोचना की है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चीन ने कहा- फौरन मिडिल ईस्ट में बंद हो सैन्य हमले, क्षेत्रीय सुरक्षा का करें सम्मान",
+      "url": "https://www.abplive.com/news/world/us-iran-war-news-live-updates-donald-trump-strait-of-hormuz-crisis-indian-ship-attack-near-oman-3143537",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-11T08:33:19+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/c28eb67a539fa3d37b9850a3600efa5017811660950501368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "चीन ने मध्य पूर्व में तत्काल सैन्य हमलों को रोकने और क्षेत्रीय सुरक्षा का सम्मान करने का आह्वान किया। यह बयान ईरान द्वारा ओमान के पास एक अमेरिकी हेलीकॉप्टर गिराए जाने और अमेरिका द्वारा तेहरान के खिलाफ हमलों को जारी रखने की चेतावनी के बाद आया है। ईरान ने होर्मुज जलडमरूमध्य को बंद करने की घोषणा की है। अमेरिका और ईरान के बीच जंग फिर छिड़ चुकी है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन ने कहा- फौरन मिडिल ईस्ट में बंद हो सैन्य हमले, क्षेत्रीय सुरक्षा का करें सम्मान",
+          "summary": "चीन ने मध्य पूर्व में तत्काल सैन्य हमलों को रोकने और क्षेत्रीय सुरक्षा का सम्मान करने का आह्वान किया। यह बयान ईरान द्वारा ओमान के पास एक अमेरिकी हेलीकॉप्टर गिराए जाने और अमेरिका द्वारा तेहरान के खिलाफ हमलों को जारी रखने की चेतावनी के बाद आया है। ईरान ने होर्मुज जलडमरूमध्य को बंद करने की घोषणा की है। अमेरिका और ईरान के बीच जंग फिर छिड़ चुकी है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जिस जहाज पर थे भारतीय नाविक सवार, उस पर अमेरिका ने क्यों और कैसे किया हमला? जानिए डिटेल्स",
+      "url": "https://www.patrika.com/world-news/explainer-why-and-how-did-us-attack-ship-with-indians-onboard-check-details-20658443",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-11T08:08:04+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/us-attacks-ship.webp",
+      "summary": "ओमान तट के पास एक वाणिज्यिक जहाज पर अमेरिकी नौसेना के हमले में तीन भारतीय नाविकों की मौत की पुष्टि हुई है। पलाउ के झंडे वाले इस जहाज पर 21 नाविकों को बचाया गया था, लेकिन तीन लापता हो गए थे। अमेरिका (United States Of America) के हमले में 3 भारतीय नाविकों की मौत की पुष्टि हो गई है। ओमान (Oman) के तट और होर्मुज स्ट्रेट (Strait of Hormuz) के पास 10 जून को एक वाणिज्यिक जहाज पर अमेरिकी नेवी ने हमला कर दिया था।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जिस जहाज पर थे भारतीय नाविक सवार, उस पर अमेरिका ने क्यों और कैसे किया हमला? जानिए डिटेल्स",
+          "summary": "ओमान तट के पास एक वाणिज्यिक जहाज पर अमेरिकी नौसेना के हमले में तीन भारतीय नाविकों की मौत की पुष्टि हुई है। पलाउ के झंडे वाले इस जहाज पर 21 नाविकों को बचाया गया था, लेकिन तीन लापता हो गए थे। अमेरिका (United States Of America) के हमले में 3 भारतीय नाविकों की मौत की पुष्टि हो गई है। ओमान (Oman) के तट और होर्मुज स्ट्रेट (Strait of Hormuz) के पास 10 जून को एक वाणिज्यिक जहाज पर अमेरिकी नेवी ने हमला कर दिया था।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ओमान में एक और जहाज पर हमला, MT जलवीर में आग, शिप पर भारतीय फंसे, 3 दिन में तीसरा अटैक",
+      "url": "https://www.abplive.com/news/world/mt-jalveer-ship-attacked-oman-fire-breaks-indians-stranded-on-board-ann-3143479",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-11T07:23:31+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/a9812edadc616f76a9125ec3d9b0698817811632314221200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ओमान के शिनास बंदरगाह के पास एमटी जलवीर जहाज पर हमला हुआ, जिससे जहाज के इंजन में आग लग गई। इस जहाज पर 20 भारतीय नागरिक सवार थे। यह पिछले तीन दिनों में तीसरा हमला है। ओमान के शिनास बंदरगाह के पास जहाज एमटी जलवीर (MT Jalveer) भी हमले का शिकार हुआ है. रिपोर्टों के मुताबिक, इस जहाज पर 20 भारतीय नागरिक सवार हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ओमान में एक और जहाज पर हमला, MT जलवीर में आग, शिप पर भारतीय फंसे, 3 दिन में तीसरा अटैक",
+          "summary": "ओमान के शिनास बंदरगाह के पास एमटी जलवीर जहाज पर हमला हुआ, जिससे जहाज के इंजन में आग लग गई। इस जहाज पर 20 भारतीय नागरिक सवार थे। यह पिछले तीन दिनों में तीसरा हमला है। ओमान के शिनास बंदरगाह के पास जहाज एमटी जलवीर (MT Jalveer) भी हमले का शिकार हुआ है. रिपोर्टों के मुताबिक, इस जहाज पर 20 भारतीय नागरिक सवार हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका को पता था जहाज में भारतीय नाविक मौजूद फिर भी किया हमला, तीन लोगों की मौत",
+      "url": "https://www.patrika.com/world-news/two-indian-sailors-killed-one-missing-after-vessel-attack-near-strait-of-hormuz-20657989",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-11T07:11:13+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Oman-coast-vessel-attack.webp",
+      "summary": "ओमान के तट पर एक वाणिज्यिक जहाज पर अमेरिकी हमले में तीन भारतीय नाविकों की मौत की पुष्टि हुई है। फॉरवर्ड सीमेन यूनियन ऑफ इंडिया ने बताया कि जहाज से संपर्क बाधित है, जिससे पूरी जानकारी जुटाना मुश्किल हो रहा है। Strait of Hormuz attack: ओमान के तट और होर्मुज के समीप एक वाणिज्यिक जहाज पर हुए हमले में तीन भारतीय नाविकों की मौत की पुष्टि हुई है, जबकि एक अन्य नाविक अब भी लापता है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका को पता था जहाज में भारतीय नाविक मौजूद फिर भी किया हमला, तीन लोगों की मौत",
+          "summary": "ओमान के तट पर एक वाणिज्यिक जहाज पर अमेरिकी हमले में तीन भारतीय नाविकों की मौत की पुष्टि हुई है। फॉरवर्ड सीमेन यूनियन ऑफ इंडिया ने बताया कि जहाज से संपर्क बाधित है, जिससे पूरी जानकारी जुटाना मुश्किल हो रहा है। Strait of Hormuz attack: ओमान के तट और होर्मुज के समीप एक वाणिज्यिक जहाज पर हुए हमले में तीन भारतीय नाविकों की मौत की पुष्टि हुई है, जबकि एक अन्य नाविक अब भी लापता है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्या ईरान-अमेरिका के बीच युद्ध फिर शुरू, एक हेलीकॉप्टर गिरने से कैसे शुरू हुआ संकट, अब आगे क्या?",
+      "url": "https://www.amarujala.com/world/us-iran-war-ceasefire-in-limbo-as-jordan-kuwait-and-bahrain-attacked-amid-donald-trump-anger-apache-helicopter-2026-06-11",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-11T06:57:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/11/us-iran-war-iran-war-isral-us-war-on-iran_f89313d42aa7cc4e2305ab7388220abc.jpeg?w=750&dpr=1.0",
+      "summary": "पश्चिम एशिया में अमेरिका और ईरान के बीच तनाव बढ़ गया है, जिससे कुवैत, बहरीन और जॉर्डन ने सुरक्षा अलर्ट जारी किए हैं। यह संकट ईरान द्वारा एक अमेरिकी हेलीकॉप्टर गिराए जाने के बाद उत्पन्न हुआ है। पश्चिम एशिया में अमेरिका और ईरान के बीच बढ़ते तनाव के बीच हालात और गंभीर हो गए हैं। क्या ईरान-अमेरिका के बीच युद्ध फिर शुरू, एक हेलीकॉप्टर गिरने से कैसे शुरू हुआ संकट, अब आगे क्या?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या ईरान-अमेरिका के बीच युद्ध फिर शुरू, एक हेलीकॉप्टर गिरने से कैसे शुरू हुआ संकट, अब आगे क्या?",
+          "summary": "पश्चिम एशिया में अमेरिका और ईरान के बीच तनाव बढ़ गया है, जिससे कुवैत, बहरीन और जॉर्डन ने सुरक्षा अलर्ट जारी किए हैं। यह संकट ईरान द्वारा एक अमेरिकी हेलीकॉप्टर गिराए जाने के बाद उत्पन्न हुआ है। पश्चिम एशिया में अमेरिका और ईरान के बीच बढ़ते तनाव के बीच हालात और गंभीर हो गए हैं। क्या ईरान-अमेरिका के बीच युद्ध फिर शुरू, एक हेलीकॉप्टर गिरने से कैसे शुरू हुआ संकट, अब आगे क्या?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "IndiGo ने जारी की ट्रैवल एडवाइज़री, मिडिल ईस्ट जाने वाले यात्रियों से की फ्लाइट स्टेटस ऑनलाइन चेक",
+      "url": "https://www.patrika.com/national-news/indigo-issues-travel-advisory-for-middle-east-amid-growing-iran-us-conflict-urges-passengers-to-check-flight-status-online-20658196",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-11T06:33:36+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/indigo-flight_.webp",
+      "summary": "ईरान और अमेरिका के बीच बढ़ते तनाव के कारण, इंडिगो एयरलाइंस ने मध्य पूर्व की यात्रा करने वाले यात्रियों के लिए एक यात्रा सलाह जारी की है। यात्रियों को अपनी उड़ान की स्थिति ऑनलाइन जांचने की सलाह दी गई है। यह कदम ईरान और अमेरिका के बीच हालिया हमलों के बाद उठाया गया है। ईरान (Iran) और अमेरिका (United States of America) के ताज़ा हमलों के बाद दोनों देशों में तनाव काफी ज़्यादा बढ़ गया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "IndiGo ने जारी की ट्रैवल एडवाइज़री, मिडिल ईस्ट जाने वाले यात्रियों से की फ्लाइट स्टेटस ऑनलाइन चेक",
+          "summary": "ईरान और अमेरिका के बीच बढ़ते तनाव के कारण, इंडिगो एयरलाइंस ने मध्य पूर्व की यात्रा करने वाले यात्रियों के लिए एक यात्रा सलाह जारी की है। यात्रियों को अपनी उड़ान की स्थिति ऑनलाइन जांचने की सलाह दी गई है। यह कदम ईरान और अमेरिका के बीच हालिया हमलों के बाद उठाया गया है। ईरान (Iran) और अमेरिका (United States of America) के ताज़ा हमलों के बाद दोनों देशों में तनाव काफी ज़्यादा बढ़ गया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अब ईरान पर हमले नहीं करेगा अमेरिका, ट्रंप ने सोशल मीडिया पोस्ट में कहा- समझौते पर सहमति के करीब",
+      "url": "https://www.amarujala.com/world/trump-says-he-has-called-off-latest-threats-to-strike-iran-2026-06-11",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-11T05:58:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/donald-trump_ac2d04f478d74d426c61ccbf0cccb8b6.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान पर सैन्य हमले की धमकी वापस ले ली है। उन्होंने सोशल मीडिया पर कहा कि दोनों पक्ष एक समझौते पर पहुंचने के करीब हैं। इससे पहले अमेरिका ने ईरान में कई जगहों पर हमले किए थे। अमेरिका: राष्ट्रपति डोनाल्ड ट्रंप ने वापस ली ईरान पर सैन्य हमलों की धमकी, कहा- समझौते के करीब दोनों पक्ष।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अब ईरान पर हमले नहीं करेगा अमेरिका, ट्रंप ने सोशल मीडिया पोस्ट में कहा- समझौते पर सहमति के करीब",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान पर सैन्य हमले की धमकी वापस ले ली है। उन्होंने सोशल मीडिया पर कहा कि दोनों पक्ष एक समझौते पर पहुंचने के करीब हैं। इससे पहले अमेरिका ने ईरान में कई जगहों पर हमले किए थे। अमेरिका: राष्ट्रपति डोनाल्ड ट्रंप ने वापस ली ईरान पर सैन्य हमलों की धमकी, कहा- समझौते के करीब दोनों पक्ष।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज बंद, भारत पर होगा गंभीर संकट! तेल से महंगाई तक 4 मोर्चों पर लगेगा झटका, टेंशन में CTI",
+      "url": "https://www.abplive.com/news/world/strait-of-hormuz-close-affect-on-india-aviation-oil-crisis-petrol-diesel-prices-hike-inflation-expected-to-rise-amid-us-iran-war-ann-3143398",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-11T05:05:40+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/51bb1d2a7bca9df99c2efd3260f4622a17811551492711368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ईरान द्वारा होर्मुज जलडमरूमध्य बंद करने से भारत पर गंभीर संकट आ सकता है। तेल की कीमतों में वृद्धि और व्यापार पर प्रभाव पड़ने की आशंका है। भारतीय व्यापारिक संगठन इस स्थिति से चिंतित हैं। पश्चिमी एशिया में तनाव और संकट के चलते इस समय पूरे विश्व में उथल पुथल मची हुई है और भारत भी इससे अछूता नहीं है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज बंद, भारत पर होगा गंभीर संकट! तेल से महंगाई तक 4 मोर्चों पर लगेगा झटका, टेंशन में CTI",
+          "summary": "ईरान द्वारा होर्मुज जलडमरूमध्य बंद करने से भारत पर गंभीर संकट आ सकता है। तेल की कीमतों में वृद्धि और व्यापार पर प्रभाव पड़ने की आशंका है। भारतीय व्यापारिक संगठन इस स्थिति से चिंतित हैं। पश्चिमी एशिया में तनाव और संकट के चलते इस समय पूरे विश्व में उथल पुथल मची हुई है और भारत भी इससे अछूता नहीं है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने जॉर्डन में एयरबेस पर दागीं बैलिस्टिक मिसाइलें, अमेरिकी फाइटर जेट्स को बनाया निशाना",
+      "url": "https://www.patrika.com/world-news/iran-launches-ballistic-missiles-targetting-us-fighter-jets-in-jordan-20657909",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-11T04:30:43+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/iran-ballistic-missile_.webp",
+      "summary": "ईरान ने जॉर्डन में एक एयरबेस पर बैलिस्टिक मिसाइलें दागीं। यह अमेरिका द्वारा ईरान पर किए गए हमलों की जवाबी कार्रवाई का हिस्सा था। इससे पहले ईरान ने बहरीन और कुवैत पर भी हवाई हमले किए थे। ईरान पर अमेरिकी हमले के खिलाफ आईआरजीसी – इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC – Islamic Revolutionary Guard Corps) ने जवाबी कार्रवाई करते हुए पहले बहरीन (Bahrain) और फिर कुवैत (Kuwait) पर एयरस्ट्राइक्स की।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने जॉर्डन में एयरबेस पर दागीं बैलिस्टिक मिसाइलें, अमेरिकी फाइटर जेट्स को बनाया निशाना",
+          "summary": "ईरान ने जॉर्डन में एक एयरबेस पर बैलिस्टिक मिसाइलें दागीं। यह अमेरिका द्वारा ईरान पर किए गए हमलों की जवाबी कार्रवाई का हिस्सा था। इससे पहले ईरान ने बहरीन और कुवैत पर भी हवाई हमले किए थे। ईरान पर अमेरिकी हमले के खिलाफ आईआरजीसी – इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC – Islamic Revolutionary Guard Corps) ने जवाबी कार्रवाई करते हुए पहले बहरीन (Bahrain) और फिर कुवैत (Kuwait) पर एयरस्ट्राइक्स की।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बंद किए गए अमेरिकी रक्षा मंत्रालय कई भवन और गलियारे, क्यों उठाए जा रहे एहतियाती कदम?",
+      "url": "https://www.amarujala.com/world/pentagon-air-quality-issue-shelter-in-place-order-hazardous-materials-incident-2026-06-11",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-11T04:28:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/01/pentagon-ani_38e04bf01ec25077ed909061170ffed9.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी रक्षा मंत्रालय ने कई इमारतों और गलियारों को बंद कर दिया है। यह एहतियाती कदम उठाए जा रहे हैं। इस कदम के पीछे के कारणों का अभी खुलासा नहीं किया गया है। US: बंद किए गए अमेरिकी रक्षा मंत्रालय कई भवन और गलियारे, क्यों उठाए जा रहे एहतियाती कदम?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंद किए गए अमेरिकी रक्षा मंत्रालय कई भवन और गलियारे, क्यों उठाए जा रहे एहतियाती कदम?",
+          "summary": "अमेरिकी रक्षा मंत्रालय ने कई इमारतों और गलियारों को बंद कर दिया है। यह एहतियाती कदम उठाए जा रहे हैं। इस कदम के पीछे के कारणों का अभी खुलासा नहीं किया गया है। US: बंद किए गए अमेरिकी रक्षा मंत्रालय कई भवन और गलियारे, क्यों उठाए जा रहे एहतियाती कदम?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ओमान में जहाज पर अटैक से गुस्से में भारत, US राजनयिक को तुरंत बुलाया, अमेरिका बोला - 'हम इंडिया",
+      "url": "https://www.abplive.com/news/world/india-condemns-attack-on-commercial-ship-in-oman-demarche-us-diplomat-us-statement-amid-us-iran-war-3143362",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-11T03:56:58+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/11/9fb591df996951f2395c9fbd2a6d9aee17811501826141368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "भारत ने ओमान तट पर एक वाणिज्यिक जहाज पर हुए हमले की निंदा की। भारत ने अमेरिकी राजनयिक जेसन मीक्स को तलब किया और विरोध पत्र जारी किया। अमेरिकी विदेश विभाग ने कहा कि वे भारत के साथ सीधे संपर्क में हैं। ओमान तट पर एक कमर्शियल जहाज पर हमले की भारत सरकार ने कड़ी निंदा की और अमेरिका के शीर्ष राजनयिक को तलब किया.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ओमान में जहाज पर अटैक से गुस्से में भारत, US राजनयिक को तुरंत बुलाया, अमेरिका बोला - 'हम इंडिया",
+          "summary": "भारत ने ओमान तट पर एक वाणिज्यिक जहाज पर हुए हमले की निंदा की। भारत ने अमेरिकी राजनयिक जेसन मीक्स को तलब किया और विरोध पत्र जारी किया। अमेरिकी विदेश विभाग ने कहा कि वे भारत के साथ सीधे संपर्क में हैं। ओमान तट पर एक कमर्शियल जहाज पर हमले की भारत सरकार ने कड़ी निंदा की और अमेरिका के शीर्ष राजनयिक को तलब किया.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कुवैत ने बंद किया एयरस्पेस, ईरानी मिसाइलों-ड्रोन्स के खिलाफ रक्षात्मक कार्रवाई जारी",
+      "url": "https://www.patrika.com/world-news/kuwait-closes-air-space-air-defense-systems-responding-to-iranian-missile-and-drone-20657764",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-11T03:51:48+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/kuwaiti-air-defense-system-firing.webp",
+      "summary": "ईरान द्वारा बहरीन और कुवैत पर मिसाइलों और ड्रोन से हमले के बाद कुवैत ने अपना हवाई क्षेत्र बंद कर दिया है। यह कार्रवाई ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स द्वारा की गई। आईआरजीसी मिसाइलों और ड्रोन्स से हमले कर रही है। इसके बाद कुवैत ने अपना एयरस्पेस बंद कर दिया है। कुवैत ने बंद किया एयरस्पेस, ईरानी मिसाइलों-ड्रोन्स के खिलाफ रक्षात्मक कार्रवाई जारी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कुवैत ने बंद किया एयरस्पेस, ईरानी मिसाइलों-ड्रोन्स के खिलाफ रक्षात्मक कार्रवाई जारी",
+          "summary": "ईरान द्वारा बहरीन और कुवैत पर मिसाइलों और ड्रोन से हमले के बाद कुवैत ने अपना हवाई क्षेत्र बंद कर दिया है। यह कार्रवाई ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स द्वारा की गई। आईआरजीसी मिसाइलों और ड्रोन्स से हमले कर रही है। इसके बाद कुवैत ने अपना एयरस्पेस बंद कर दिया है। कुवैत ने बंद किया एयरस्पेस, ईरानी मिसाइलों-ड्रोन्स के खिलाफ रक्षात्मक कार्रवाई जारी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "IRGC कमांडर मजीद मौसवी ने दी धमकी – ‘अमेरिका ने की गुस्ताखी तो उसके लिए बना देंगे नर्क’",
+      "url": "https://www.patrika.com/world-news/irgc-commander-majid-mousavi-says-us-audacity-will-be-met-with-hell-20657652",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-11T03:03:13+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/mousavi.webp",
+      "summary": "ईरान और अमेरिका के बीच तनाव बढ़ने के बीच आईआरजीसी कमांडर मजीद मौसवी ने अमेरिका को धमकी दी। उन्होंने कहा कि अगर अमेरिका ने कोई गलती की तो उसके लिए नरक बना दिया जाएगा। अमेरिका (United States of America) और ईरान (Iran) के बीच तनाव एक बार फिर बढ़ गया है। लगातार दूसरे दिन दोनों देशों ने एक-दूसरे के सैन्य ठिकानों पर हमले किए हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "IRGC कमांडर मजीद मौसवी ने दी धमकी – ‘अमेरिका ने की गुस्ताखी तो उसके लिए बना देंगे नर्क’",
+          "summary": "ईरान और अमेरिका के बीच तनाव बढ़ने के बीच आईआरजीसी कमांडर मजीद मौसवी ने अमेरिका को धमकी दी। उन्होंने कहा कि अगर अमेरिका ने कोई गलती की तो उसके लिए नरक बना दिया जाएगा। अमेरिका (United States of America) और ईरान (Iran) के बीच तनाव एक बार फिर बढ़ गया है। लगातार दूसरे दिन दोनों देशों ने एक-दूसरे के सैन्य ठिकानों पर हमले किए हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘स्ट्रेट ऑफ होर्मुज बंद है’, IRGC की दुनिया को चेतावनी, अमेरिकी हमले के बाद Iran का बड़ा कदम, भारत",
+      "url": "https://www.patrika.com/world-news/iran-irgc-threatens-to-close-the-strait-of-hormuz-following-a-us-attack-20657501",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-11T02:19:22+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Iran-US-tensions.webp",
+      "summary": "अमेरिका के हमलों के जवाब में ईरान ने स्ट्रेट ऑफ होर्मुज को सभी जहाजों के लिए बंद कर दिया है। ईरानी रिवोल्यूशनरी गार्ड कॉर्प्स ने यह चेतावनी जारी की है। US-Iran War: अमेरिका और ईरान के बीच सैन्य झड़प की खबरें आ रही हैं। अमेरिकी हमलों का ईरान ने जवाब दिया है। ईरान ने अमेरिका के बेहरीन बेस पर हमला किया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘स्ट्रेट ऑफ होर्मुज बंद है’, IRGC की दुनिया को चेतावनी, अमेरिकी हमले के बाद Iran का बड़ा कदम, भारत",
+          "summary": "अमेरिका के हमलों के जवाब में ईरान ने स्ट्रेट ऑफ होर्मुज को सभी जहाजों के लिए बंद कर दिया है। ईरानी रिवोल्यूशनरी गार्ड कॉर्प्स ने यह चेतावनी जारी की है। US-Iran War: अमेरिका और ईरान के बीच सैन्य झड़प की खबरें आ रही हैं। अमेरिकी हमलों का ईरान ने जवाब दिया है। ईरान ने अमेरिका के बेहरीन बेस पर हमला किया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
