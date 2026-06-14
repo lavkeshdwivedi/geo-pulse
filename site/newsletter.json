@@ -1,19 +1,31 @@
 {
-  "generated_at": "2026-06-14T11:03:07.956224+00:00",
+  "generated_at": "2026-06-14T12:46:36.352296+00:00",
   "article_count": 50,
-  "total_unique_count": 266,
+  "total_unique_count": 265,
   "digest": {
-    "en": "Talk of a US-Iran deal to end Middle East conflict dominates. European engagement with the Taliban and Russia's Asian submarine sales also register. Asian finance and Thailand's royal mourning provide additional context.",
-    "hi": "ईरान और अमेरिका के बीच संभावित शांति समझौते पर ओमान तट पर भारतीय जहाज डूबने की खबर हावी है। मेक्सिको में ड्रग कार्टेल की हिंसा जारी है, जबकि भारत और फ्रांस के बीच कूटनीतिक संबंध मजबूत हो रहे हैं।"
+    "en": "The US and Iran's proximity to a deal dominates headlines. This comes as the EU prepares to host the Taliban. Thailand mourns its Princess Bha.",
+    "hi": "मध्य पूर्व और अफ्रीका में इजरायल-ईरान तनाव प्रमुख है। अमेरिका-ईरान समझौते की उम्मीदों के बीच इजरायल ने बैरूत पर हमला किया। ओमान के तट पर भारतीय जहाज डूब गया।"
   },
   "articles": [
+    {
+      "title": "Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’",
+      "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-crisis-plantation-tourism",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-14T11:00:41+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/07bde1158075c6053a986f3a1dfae1dc48491283/502_0_3404_2722/master/3404.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b4b1f47ab893a98a8bf1b7cfc01673c",
+      "summary": "Activists are taking legal action to challenge the privatization of Jamaican coastlines. They argue that restricting public access to beaches amounts to \"plantation tourism\" benefiting a select few. This business model disadvantages most Jamaicans. Campaigners state that access to these natural resources should not be a struggle. Activists argue business model is ‘plantation tourism’ designed to benefit elite and disadvantage most JamaicansCampaigners go to court to fight privatisation of Jamaican coastDevon Taylor remembers when the Mammee Bay shoreline in St Ann, Jamaica, was filled with children frolicking in the ocean after school, fishers haggling with locals over the price of their daily catch and craft vendors carvi.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "EU Set To Host Taliban For First Time Despite Outcry Over Human Rights Violations",
       "url": "https://www.rferl.org/a/eu-taliban-meeting-further-crackdown/33780057.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-06-14T09:14:54+00:00",
-      "image_url": "https://gdb.rferl.org/c8fcecf6-8d5f-4c4f-c523-08debadc7311_cx0_cy4_cw0_w1200_h630.jpg",
+      "image_url": "https://gdb.rferl.org/ADA80970-0162-44A8-96E0-97B1114B0C6B.jpg",
       "summary": "The European Union will host the Taliban in Brussels for the first time. The European Union is preparing to host the Taliban in Brussels for the first time for \"technical talks\" on the repatriation of Afghans despite sharp criticism from rights groups and signs Afghanistan's rulers are cracking down further on women. EU Set To Host Taliban For First Time Despite Outcry Over Human Rights Violations.",
       "region": "Europe & Russia",
       "language": "en",
@@ -37,7 +49,7 @@
       "source": "Channel News Asia",
       "sources": [],
       "published_at": "2026-06-14T04:40:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--ttceWKUp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-14T015303Z_1_LYNXMPEM5D038_RTROPTP_3_IRAN-CRISIS-KHAMENEI-FUNERAL.JPG?itok=pSltccZf",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--oOfhapFF--/c_crop,h_899,w_1600,x_0,y_79/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/14/000_b6zn8m4.jpg?itok=OEe-dYkU",
       "summary": "The United States and Iran are nearing a deal to end the Middle East war. Draft terms described by multiple sources indicate the US would begin releasing billions of dollars in frozen Iranian assets and waive sanctions on its oil exports, in return for Iran opening the Strait of Hormuz. US, Iran inch closer to deal to end Middle East war, timing remains unclear.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -52,18 +64,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/Russia-Amur-1650-Submarine.jpeg",
       "summary": "Russia’s United Shipbuilding Corporation unveiled a new Amur-1650 conventional stealth Russia is pitching a new stealthy, missile-armed answer to Asia’s rising demand for submarines, but sanctions, allegiances, and industrial realities could sink its export ambitions. This month, Defense Security Asia reported that Russia’s United Shipbuilding Corporation unveiled a new configuration of its Amur-1650 conventional stealth submarine equipped with vertical launch systems for supersonic.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Mayor shot dead in southern Mexico, investigation underway",
-      "url": "https://www.thehindu.com/news/international/mayor-shot-dead-in-southern-mexico/article71100127.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-14T01:55:25+00:00",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "summary": "Joel Bravo, the mayor of San Miguel Amatitlán, Oaxaca, died in an armed attack. Prosecutors in Oaxaca state confirmed the incident. The town has a population of nearly 7,000 residents. No further details about the attack were immediately available. Joel Bravo. the mayor of San Miguel Amatitlan, a town of nearly 7,000 residents. died in an armed attack, prosecutors in Oaxaca state said in a statement, without offering further details about the incident.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -308,11 +308,137 @@
       "translations": {}
     },
     {
+      "title": "सेना कर रही है दमन, नेता दे रहे हैं बदनामी की दुहाई, PoK पर बिलावल के बहा रहे 'घड़ियाले आंसू'",
+      "url": "https://hindi.news18.com/world/pakistan-bilawal-bhutto-zardari-appealed-to-pok-protesters-on-sunday-to-call-off-agitation-10569856.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-14T12:40:33+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/bilwal-bhutto-zardari-2026-06-05109afd9f27ab73a5241e8c8e8550b1-1200x800.jpg",
+      "summary": "पाकिस्तानी सेना पाक अधिकृत कश्मीर में प्रदर्शनकारियों का दमन कर रही है, जिससे लोगों की जान जा रही है. एक तरफ पाकिस्तानी सेना पीओके में दमन कर रही है, दूसरी तरफ नेता छवि की दुहाई दे रहे हैं. बिलावल भुट्टो बोल रहे हैं कि प्रदर्शनकारियों को प्रदर्शन बंद करना चाहिए. इससे पाकिस्तानी छवि धूमिल हो रही है. सेना ने पीओके में कड़ी कार्रवाइयां की है जिससे लोगों की जान जा रही है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सेना कर रही है दमन, नेता दे रहे हैं बदनामी की दुहाई, PoK पर बिलावल के बहा रहे 'घड़ियाले आंसू'",
+          "summary": "पाकिस्तानी सेना पाक अधिकृत कश्मीर में प्रदर्शनकारियों का दमन कर रही है, जिससे लोगों की जान जा रही है. एक तरफ पाकिस्तानी सेना पीओके में दमन कर रही है, दूसरी तरफ नेता छवि की दुहाई दे रहे हैं. बिलावल भुट्टो बोल रहे हैं कि प्रदर्शनकारियों को प्रदर्शन बंद करना चाहिए. इससे पाकिस्तानी छवि धूमिल हो रही है. सेना ने पीओके में कड़ी कार्रवाइयां की है जिससे लोगों की जान जा रही है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "तड़पता रहा भारतीय नाविक, किसी ने नहीं बढ़ाया हाथ, र‍िपोर्ट ने खड़े क‍िए सवाल",
+      "url": "https://hindi.news18.com/world/middle-east-indian-sailor-dies-on-mt-celestial-in-oman-questions-raised-over-help-us-navy-ignores-distress-calls-ws-l-10570035.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-14T12:27:21+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/gulf-of-Oman-2026-06-9bf7bf8908e2b00d6f63b51784d7633d-1200x800.jpg",
+      "summary": "ओमान के डुक्म पोर्ट पर एमटी सेलेस्टियल सी जहाज पर तैनात भारतीय नाविक निशांत उर्थनाथन की एक ओमान के डुक्म पोर्ट पर एमटी सेलेस्टियल सी पर तैनात भारतीय निशांत उर्थनाथन की मेडिकल इमरजेंसी में मौत हो गई. ए‍क र‍िपोर्ट वायरल हो रही है, ज‍िसमें दावा क‍िया जा रहा क‍ि यूएस नेवी से मदद मांगी गई, लेकिन उन्‍होंने मदद नहीं की.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तड़पता रहा भारतीय नाविक, किसी ने नहीं बढ़ाया हाथ, र‍िपोर्ट ने खड़े क‍िए सवाल",
+          "summary": "ओमान के डुक्म पोर्ट पर एमटी सेलेस्टियल सी जहाज पर तैनात भारतीय नाविक निशांत उर्थनाथन की एक ओमान के डुक्म पोर्ट पर एमटी सेलेस्टियल सी पर तैनात भारतीय निशांत उर्थनाथन की मेडिकल इमरजेंसी में मौत हो गई. ए‍क र‍िपोर्ट वायरल हो रही है, ज‍िसमें दावा क‍िया जा रहा क‍ि यूएस नेवी से मदद मांगी गई, लेकिन उन्‍होंने मदद नहीं की.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चुनाव से पहले नेतन्याहू पर बढ़ा दबाव, अपने ही गठबंधन के नेता बनाने लगे दूरी",
+      "url": "https://www.patrika.com/world-news/benjamin-netanyahu-under-pressure-before-israel-election-amid-ceasefire-row-and-coalition-revolt-20667479",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-14T12:09:59+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Benjamin-Netanyahu.webp",
+      "summary": "नेतन्याहू को इजराइल में आगामी आम चुनावों से पहले राजनीतिक दबाव का सामना करना पड़ रहा है। Benjamin Netanyahu: इजराइल में आगामी आम चुनावों की सुगबुगाहट के बीच प्रधानमंत्री बेंजामिन नेतन्याहू की राजनीतिक मुश्किलें कम होने का नाम नहीं ले रही हैं। लेबनान के साथ हुए हालिया सीजफायर के फैसले ने इस आग में घी डालने का काम किया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चुनाव से पहले नेतन्याहू पर बढ़ा दबाव, अपने ही गठबंधन के नेता बनाने लगे दूरी",
+          "summary": "नेतन्याहू को इजराइल में आगामी आम चुनावों से पहले राजनीतिक दबाव का सामना करना पड़ रहा है। Benjamin Netanyahu: इजराइल में आगामी आम चुनावों की सुगबुगाहट के बीच प्रधानमंत्री बेंजामिन नेतन्याहू की राजनीतिक मुश्किलें कम होने का नाम नहीं ले रही हैं। लेबनान के साथ हुए हालिया सीजफायर के फैसले ने इस आग में घी डालने का काम किया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका-ईरान समझौते का इंतजार होता रहा और इजरायल ने बैरूत पर हमला कर दिया",
+      "url": "https://www.patrika.com/world-news/israel-launched-attacks-on-outskirts-of-beirut-20667326",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-14T11:57:50+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Israeli-military-strikes-Beirut-1.webp",
+      "summary": "इजरायल ने बेरूत के बाहरी इलाकों में हिजबुल्लाह के एक कमांड सेंटर पर हमला किया। Israel launched attacks on outskirts of Beirut: अमेरिका-ईरान समझौते की उम्मीद इंतजार में बदल गई और इजरायली सेना ने बेरूत में हिजबुल्लाह के एक कमांड सेंटर पर हमला कर दिया, जिसे लेबनानी सशस्त्र समूह के साथ संघर्ष में एक और वृद्धि का संकेत माना जा रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-ईरान समझौते का इंतजार होता रहा और इजरायल ने बैरूत पर हमला कर दिया",
+          "summary": "इजरायल ने बेरूत के बाहरी इलाकों में हिजबुल्लाह के एक कमांड सेंटर पर हमला किया। Israel launched attacks on outskirts of Beirut: अमेरिका-ईरान समझौते की उम्मीद इंतजार में बदल गई और इजरायली सेना ने बेरूत में हिजबुल्लाह के एक कमांड सेंटर पर हमला कर दिया, जिसे लेबनानी सशस्त्र समूह के साथ संघर्ष में एक और वृद्धि का संकेत माना जा रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ओमान के समंंदर में कैसे डूबा भारत का जहाज MSV Virat 1, ज‍िसे बचाने उतर पड़ी यूएस नेवी, आ गईं",
+      "url": "https://hindi.news18.com/world/middle-east-indian-ship-msv-virat-1-sinks-in-oman-after-engine-failure-ws-l-10569915.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-14T11:44:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/MSV-Virat-1-2026-06-dd4605f364b1f6f9b677fe98c75ae03f-1200x800.jpg",
+      "summary": "The Indian-flagged vessel MSV Virat 1 sank near the Omani coast after an engine failure. Fourteen Indian nationals were aboard. The American Navy and Omani agencies launched a rescue operation. The Indian Embassy confirmed the incident. भारतीय दूतावास ने बताया क‍ि ओमान तट के पास भारतीय झंडा लगा जहाज MSV Virat 1 इंजन खराब होने से डूबा. जहाज पर 14 भारतीय थे.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ओमान के समंंदर में कैसे डूबा भारत का जहाज MSV Virat 1, ज‍िसे बचाने उतर पड़ी यूएस नेवी, आ गईं",
+          "summary": "The Indian-flagged vessel MSV Virat 1 sank near the Omani coast after an engine failure. Fourteen Indian nationals were aboard. The American Navy and Omani agencies launched a rescue operation. The Indian Embassy confirmed the incident. भारतीय दूतावास ने बताया क‍ि ओमान तट के पास भारतीय झंडा लगा जहाज MSV Virat 1 इंजन खराब होने से डूबा. जहाज पर 14 भारतीय थे.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "उधर ईरान से डील की बात, इधर इजरालय के हमले, सायरन बजे और नेतन्याहू ने जारी की चेतावनी",
+      "url": "https://hindi.news18.com/world/middle-east-benjamine-netanyahu-issued-warning-amid-us-israel-peace-deal-with-israeli-attacks-continue-10569859.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-14T11:31:55+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Benjamine-Netanyahu-Iran-2026-06-65d35691b7c331eb01340ca3413c8dce-1200x800.jpg",
+      "summary": "दक्षिणी लेबनान में इजरायली हमले जारी हैं। इजरायल सेना ने दक्षिणी इजरायल में कई स्थानों पर चेतावनी सायरन बजने की सूचना दी। सेना ने कहा कि क्षेत्र के कई हिस्सों में अलर्ट सक्रिय कर दिए गए हैं। दक्षिणी लेबनान पर इजराइली हमले जारी रहे हैं. इलाके के कई हिस्सों में हमले की खबरें आईं हैं. इजरायला सेना ने बताया है कि दक्षिणी इजराइल में कई जगहों पर चेतावनी वाले सायरन सुनाई दिए.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उधर ईरान से डील की बात, इधर इजरालय के हमले, सायरन बजे और नेतन्याहू ने जारी की चेतावनी",
+          "summary": "दक्षिणी लेबनान में इजरायली हमले जारी हैं। इजरायल सेना ने दक्षिणी इजरायल में कई स्थानों पर चेतावनी सायरन बजने की सूचना दी। सेना ने कहा कि क्षेत्र के कई हिस्सों में अलर्ट सक्रिय कर दिए गए हैं। दक्षिणी लेबनान पर इजराइली हमले जारी रहे हैं. इलाके के कई हिस्सों में हमले की खबरें आईं हैं. इजरायला सेना ने बताया है कि दक्षिणी इजराइल में कई जगहों पर चेतावनी वाले सायरन सुनाई दिए.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "फ्रांस से भारत को क्या-क्या मिल रहा? राष्ट्रपति इमैनुएल मैक्रों के इस दमदार बयान में छिपा है हर",
+      "url": "https://hindi.news18.com/world/europe-pm-modi-macron-meet-france-president-backs-make-in-india-and-ai-ties-driving-global-funding-for-indian-deep-tech-startups-10569501.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-14T11:17:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Macron-Statement-2026-06-ae55057f3a89fe672488d4888b8ac78e-1200x800.jpg",
+      "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने भारत के तकनीकी और औद्योगिक विकास की सराहना की। उन्होंने कहा कि यूरोप को भारत को नए नजरिए से देखना चाहिए। मैक्रों ने प्रधानमंत्री मोदी के 'मेक इन इंडिया' विजन की प्रशंसा की। फ्रांस पिछले दस वर्षों से रक्षा और सुरक्षा में भारत के साथ मिलकर काम कर रहा है। PM Modi-Macron Meeting: भारत इनोवेट्स 2026 के मंच से फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने नए भारत की तकनीकी और औद्योगिक ताकत का लोहा माना.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्रांस से भारत को क्या-क्या मिल रहा? राष्ट्रपति इमैनुएल मैक्रों के इस दमदार बयान में छिपा है हर",
+          "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने भारत के तकनीकी और औद्योगिक विकास की सराहना की। उन्होंने कहा कि यूरोप को भारत को नए नजरिए से देखना चाहिए। मैक्रों ने प्रधानमंत्री मोदी के 'मेक इन इंडिया' विजन की प्रशंसा की। फ्रांस पिछले दस वर्षों से रक्षा और सुरक्षा में भारत के साथ मिलकर काम कर रहा है। PM Modi-Macron Meeting: भारत इनोवेट्स 2026 के मंच से फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने नए भारत की तकनीकी और औद्योगिक ताकत का लोहा माना.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "खत्‍म होने जा रही आफत, US-ईरान में बन गई वो बात, ज‍िससे परेशान थी पूरी दुन‍िया, जानें लेटेस्‍ट अपडेट",
       "url": "https://hindi.news18.com/world/middle-east-hormuz-reopening-release-frozen-assets-us-iran-deal-conditions-revealed-that-trump-has-agreed-to-middle-east-latest-updates-10569819.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-14T10:57:02+00:00",
+      "published_at": "2026-06-14T11:06:40+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Iran-War-Strait-of-Hormuz-2026-06-6a32bee4dd6d3d8d5fdd094b2d8b0703-1200x800.jpg",
       "summary": "अमेरिका और ईरान के बीच उन सभी विवादित मुद्दों पर सहमति बनती दिख रही है. अमेर‍िका-ईरान के बीच उन सभी मुद्दों पर सहमत‍ि बनती दिख रही है, जिसे लेकर व‍िवाद था. माना जा रहा है क‍ि अगर इन पर बात पूरी हो गई तो तय मान‍िए क‍ि आगे भी व‍िवाद पूरी तरह खत्‍म हो जाएगा. खत्‍म होने जा रही आफत, US-ईरान में बन गई वो बात, ज‍िससे परेशान थी पूरी दुन‍िया, जानें लेटेस्‍ट अपडेट।",
       "region": "Middle East & Africa",
@@ -376,24 +502,6 @@
           "title": "White House में एलियन के साथ दिखे डोनाल्ड ट्रंप! सोशल मीडिया पर तस्वीरें वायरल, जानिए क्या है सच?",
           "summary": "डोनाल्ड ट्रंप की कुछ तस्वीरें सोशल मीडिया पर वायरल हुईं जिनमें वे तीन लोगों के साथ दिख रहे हैं. इन लोगों के बाल प्लेटिनम-सफेद थे और उन्होंने लाल सैन्य शैली की पोशाक पहनी थी. इन तस्वीरों के बारे में यह दावा किया गया कि ये लोग एलियन थे और ट्रंप उनसे व्हाइट हाउस में मिले थे. यह खबर इंटरनेट पर साजिशों और अटकलों का विषय बन गई.",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "फ्रांस में पीएम मोदी और मैक्रों की कूटनीतिक झप्पी, भारत के डीप-टेक स्टार्टअप्स को मिलेगी नई उड़ान",
-      "url": "https://hindi.news18.com/world/europe-pm-narendra-modi-france-visit-live-g7-summit-2026-america-president-donald-trump-emmanuel-macron-bharat-innovates-slovakia-tour-livenews-10568365.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-14T10:39:24+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/modi-marcon-2026-06-9a86bc2aa0c878c8ed3970318ff19d07-1200x800.jpg",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की मुलाकात एक ग्लोबल फोरम में होगी. यह बैठक पीएम मोदी की फ्रांस यात्रा के दौरान होगी. PM Modi France Visit LIVE: प्रधानमंत्री नरेंद्र मोदी फ्रांस पहुंच चुके हैं. यहां वे कई कार्यक्रमों में शामिल होंगे. पीएम मोदी G-7 शिखर सम्‍मेलन में भी शिरकत करेंगे. इसके अलावा फ्रांस में आयोजित होने वाले भारत इनोवेट्स-2026 कार्यक्रम का उद्घाटन भी करेंगे.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्रांस में पीएम मोदी और मैक्रों की कूटनीतिक झप्पी, भारत के डीप-टेक स्टार्टअप्स को मिलेगी नई उड़ान",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की मुलाकात एक ग्लोबल फोरम में होगी. यह बैठक पीएम मोदी की फ्रांस यात्रा के दौरान होगी. PM Modi France Visit LIVE: प्रधानमंत्री नरेंद्र मोदी फ्रांस पहुंच चुके हैं. यहां वे कई कार्यक्रमों में शामिल होंगे. पीएम मोदी G-7 शिखर सम्‍मेलन में भी शिरकत करेंगे. इसके अलावा फ्रांस में आयोजित होने वाले भारत इनोवेट्स-2026 कार्यक्रम का उद्घाटन भी करेंगे.",
-          "region": "यूरोप और रूस"
         }
       }
     },
@@ -542,24 +650,6 @@
       }
     },
     {
-      "title": "सुशांत सिंह राजपूत का अभिनय से कैसे जुड़ा 'पवित्र रिश्ता'? इस फिल्म के लिए ली थी बस 21 रुपये फीस",
-      "url": "https://www.amarujala.com/entertainment/sushant-singh-rajput-death-anniversary-know-interesting-facts-about-late-actor-life-and-career-2026-06-14",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-14T07:00:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/14/sashata-saha-rajapata_dbafb10f72e2d6e45935423282e8d535.jpeg?w=750&dpr=1.0",
-      "summary": "सुशांत सिंह राजपूत ने 'पवित्र रिश्ता' के लिए केवल 21 रुपये फीस ली थी। यह शो उनके अभिनय करियर की शुरुआत थी। उन्होंने पढ़ाई में अव्वल रहते हुए अभिनय को चुना। अभिनय का जुनून विज्ञान में दिलचस्पी और ढेर सारे सपने। कुछ ऐसे ही थे सुशांत सिंह राजपूत। आज 14 जून को दिवंगत अभिनेता की डेथ एनिवर्सरी है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सुशांत सिंह राजपूत का अभिनय से कैसे जुड़ा 'पवित्र रिश्ता'? इस फिल्म के लिए ली थी बस 21 रुपये फीस",
-          "summary": "सुशांत सिंह राजपूत ने 'पवित्र रिश्ता' के लिए केवल 21 रुपये फीस ली थी। यह शो उनके अभिनय करियर की शुरुआत थी। उन्होंने पढ़ाई में अव्वल रहते हुए अभिनय को चुना। अभिनय का जुनून विज्ञान में दिलचस्पी और ढेर सारे सपने। कुछ ऐसे ही थे सुशांत सिंह राजपूत। आज 14 जून को दिवंगत अभिनेता की डेथ एनिवर्सरी है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "अमेरिका में F-18 हॉर्नेट फाइटर जेट क्रैश, जंगल में लगी आग, पैराशूट के साथ कूदा पायलट",
       "url": "https://hindi.news18.com/world/america-us-fighter-jet-crash-fa18-hornet-washington-wildfire-pilot-safe-10568755.html",
       "source": "News18 Hindi (World)",
@@ -634,7 +724,7 @@
     {
       "title": "अमेरिका-ईरान जंग में अब तक कितने भारतीयों की गई जान, कहां-कब-किसके हमले का शिकार बने देश के लोग?",
       "url": "https://www.amarujala.com/world/us-iran-war-indians-attacked-in-west-asia-during-conflict-from-mt-settebello-to-kuwait-uae-saudi-arabia-mt-2026-06-14",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-06-14T04:21:01+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/14/us-iran-war-us-attacks-iran-indians-attacked-in-west-asia_21d8451ffd6f78cd598cce2dd07695dc.jpeg?w=750&dpr=1.0",
@@ -645,60 +735,6 @@
         "hi": {
           "title": "अमेरिका-ईरान जंग में अब तक कितने भारतीयों की गई जान, कहां-कब-किसके हमले का शिकार बने देश के लोग?",
           "summary": "अमेरिका-ईरान संघर्ष के बाद से नौ घटनाओं में 13 भारतीय नागरिक मारे गए हैं। ये लोग हमलों या संघर्ष से उत्पन्न दुर्घटनाओं का शिकार हुए हैं। अमेरिका-ईरान संघर्ष शुरू होने के बाद से यह पहला मौका नहीं है, जब भारतीय किसी हमले या उसकी वजह से जनित किसी दुर्घटना का शिकार हुए हैं। अब तक कम से कम ऐसी करीब नौ घटनाओं में 13 भारतवासियों की जान जा चुकी है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "PoK में बगावत से हिल गया पाकिस्तान, प्रदर्शन करने वाले हो रहे गायब, घरों में घुस रही फौज",
-      "url": "https://hindi.news18.com/world/pakistan-pok-protest-shaukat-mir-audio-pakistan-army-crackdown-human-rights-10568571.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-14T04:08:17+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/pokistan-2026-06-931217adf0d560470a2b4ca4cf2e005a-1200x800.jpg",
-      "summary": "पाकिस्तान के कब्जे वाले कश्मीर में तनाव बढ़ गया है। सेना पर प्रदर्शनकारियों को जबरन गिरफ्तार करने और लोगों को गायब करने के आरोप लगे हैं। पाकिस्तान के कब्जे वाले कश्मीर में हालात और तनावपूर्ण हो गए हैं. जॉइंट अवामी एक्शन कमेटी के नेता शौकत नवाज मीर ने छिपे ठिकाने से जारी ऑडियो में पाकिस्तान की सेना और सुरक्षा एजेंसियों पर दमन, जबरन गिरफ्तारियों और लोगों को गायब करने के आरोप लगाए हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PoK में बगावत से हिल गया पाकिस्तान, प्रदर्शन करने वाले हो रहे गायब, घरों में घुस रही फौज",
-          "summary": "पाकिस्तान के कब्जे वाले कश्मीर में तनाव बढ़ गया है। सेना पर प्रदर्शनकारियों को जबरन गिरफ्तार करने और लोगों को गायब करने के आरोप लगे हैं। पाकिस्तान के कब्जे वाले कश्मीर में हालात और तनावपूर्ण हो गए हैं. जॉइंट अवामी एक्शन कमेटी के नेता शौकत नवाज मीर ने छिपे ठिकाने से जारी ऑडियो में पाकिस्तान की सेना और सुरक्षा एजेंसियों पर दमन, जबरन गिरफ्तारियों और लोगों को गायब करने के आरोप लगाए हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "IND W vs PAK W Live Streaming: देर रात नहीं, इतने बजे शुरू होगा भारत-पाकिस्तान मुकाबला; जानें कहां",
-      "url": "https://www.amarujala.com/cricket/cricket-news/india-w-vs-pakistan-w-live-streaming-telecast-where-how-to-watch-ind-w-vs-pak-w-t20-world-cup-match-2026-06-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-14T02:54:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/13/ind_9ed2fe514ced552cb8c9880a2f754273.jpeg?w=750&dpr=1.0",
-      "summary": "भारत और पाकिस्तान के बीच महिला टी20 विश्व कप का मुकाबला आज खेला जाएगा। हरमनप्रीत कौर की टीम टूर्नामेंट में जीत के साथ शुरुआत करना चाहेगी। हरमनप्रीत कौर की अगुआई वाली टीम इस मैच को जीतकर टूर्नामेंट में विजयी शुरुआत करना चाहेगी। IND W vs PAK W Live Streaming: देर रात नहीं, इतने बजे शुरू होगा भारत-पाकिस्तान मुकाबला; जानें कहां।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "IND W vs PAK W Live Streaming: देर रात नहीं, इतने बजे शुरू होगा भारत-पाकिस्तान मुकाबला; जानें कहां",
-          "summary": "भारत और पाकिस्तान के बीच महिला टी20 विश्व कप का मुकाबला आज खेला जाएगा। हरमनप्रीत कौर की टीम टूर्नामेंट में जीत के साथ शुरुआत करना चाहेगी। हरमनप्रीत कौर की अगुआई वाली टीम इस मैच को जीतकर टूर्नामेंट में विजयी शुरुआत करना चाहेगी। IND W vs PAK W Live Streaming: देर रात नहीं, इतने बजे शुरू होगा भारत-पाकिस्तान मुकाबला; जानें कहां।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान का पैसा छीनने निकला था अमेरिका, डील से पहले बाजी पलटी, UAE के बाद कतर ने खोल दिया खजाना",
-      "url": "https://hindi.news18.com/world/middle-east-donald-trump-iran-deal-qatar-12-billion-funds-uae-money-hormuz-strait-agreement-news-ws-e-10568465.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-14T02:29:00+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/image-2026-06-0ebd4fb38cc6d009e950181aa1a9f129-1200x800.jpg",
-      "summary": "संयुक्त अरब अमीरात के बाद कतर ने ईरान के लिए 12 अरब डॉलर के पैकेज का प्रस्ताव दिया है। अमेरिका फ्रीज किए गए ईरानी फंड से मुआवजा दिलाने की योजना बना रहा था। जिस ईरान को युद्ध के बाद आर्थिक रूप से घेरने की बातें हो रही थीं, तस्वीर अब उलटती दिख रही है. अमेरिका जहां फ्रीज किए गए ईरानी फंड से खाड़ी देशों को मुआवजा दिलाने की योजना बना रहा था, वहीं UAE के बाद अब कतर ने भी ईरान के लिए 12 अरब डॉलर के पैकेज का प्रस्ताव दिया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान का पैसा छीनने निकला था अमेरिका, डील से पहले बाजी पलटी, UAE के बाद कतर ने खोल दिया खजाना",
-          "summary": "संयुक्त अरब अमीरात के बाद कतर ने ईरान के लिए 12 अरब डॉलर के पैकेज का प्रस्ताव दिया है। अमेरिका फ्रीज किए गए ईरानी फंड से मुआवजा दिलाने की योजना बना रहा था। जिस ईरान को युद्ध के बाद आर्थिक रूप से घेरने की बातें हो रही थीं, तस्वीर अब उलटती दिख रही है. अमेरिका जहां फ्रीज किए गए ईरानी फंड से खाड़ी देशों को मुआवजा दिलाने की योजना बना रहा था, वहीं UAE के बाद अब कतर ने भी ईरान के लिए 12 अरब डॉलर के पैकेज का प्रस्ताव दिया है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -717,42 +753,6 @@
         "hi": {
           "title": "ट्रंप ने सोशल मीडिया पर साझा की AI फोटो; ईरान समझौते से पहले ट्रंप का शक्ति प्रदर्शन",
           "summary": "डोनाल्ड ट्रंप ने सोशल मीडिया पर एक AI-जनित सैन्य तस्वीर साझा की। यह तस्वीर ईरान के साथ परमाणु समझौते पर बातचीत से पहले पोस्ट की गई थी। यह पोस्ट ईरान के साथ संभावित शांति वार्ता के बीच आई है। ट्रंप ने सोशल मीडिया पर साझा की AI फोटो; ईरान समझौते से पहले ट्रंप का शक्ति प्रदर्शन।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "बंजी जंपिंग बन गई काल, बिना रस्सी बांधे ही लड़की को पुल से धकेल दिया, कैमरे में कैद हुआ खौफनाक अंत",
-      "url": "https://hindi.news18.com/world/rest-of-world-brazil-rope-jump-accident-woman-falls-30-meters-after-safety-rope-failure-limeira-news-10568358.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-14T02:06:22+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/brazil-1-2026-06-9b04386e5166c0d4f68db471722bfbe1-1200x800.jpg",
-      "summary": "ब्राजील के लाइमीरा में एक 24 वर्षीय महिला की बंजी जंपिंग के दौरान मौत हो गई। सुरक्षा रस्सी ठीक से न बंधे होने के कारण वह पोंटे डो एस्केलेटो पुल से लगभग 30 मीटर नीचे गिर गई। यह घटना कैमरे में कैद हो गई। Brazil News: ब्राजील के लाइमीरा में एडवेंचर स्पोर्ट्स के दौरान एक भयावह हादसा हो गया. 24 साल की एक लड़की को पोंटे डो एस्केलेटो पुल से रस्सी कूद (रोप जंप) के लिए धक्का दिया गया, लेकिन सुरक्षा रस्सी ठीक से बंधी ही नहीं थी.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बंजी जंपिंग बन गई काल, बिना रस्सी बांधे ही लड़की को पुल से धकेल दिया, कैमरे में कैद हुआ खौफनाक अंत",
-          "summary": "ब्राजील के लाइमीरा में एक 24 वर्षीय महिला की बंजी जंपिंग के दौरान मौत हो गई। सुरक्षा रस्सी ठीक से न बंधे होने के कारण वह पोंटे डो एस्केलेटो पुल से लगभग 30 मीटर नीचे गिर गई। यह घटना कैमरे में कैद हो गई। Brazil News: ब्राजील के लाइमीरा में एडवेंचर स्पोर्ट्स के दौरान एक भयावह हादसा हो गया. 24 साल की एक लड़की को पोंटे डो एस्केलेटो पुल से रस्सी कूद (रोप जंप) के लिए धक्का दिया गया, लेकिन सुरक्षा रस्सी ठीक से बंधी ही नहीं थी.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "हिज़बुल्लाह ने लेबनान में इज़रायली सेना को बनाया निशाना, ड्रोन्स से किया हमला",
-      "url": "https://www.patrika.com/world-news/hezbollah-carries-out-drone-attack-on-israel-troops-in-south-lebanon-20665888",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-14T01:31:41+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/hezbollah-drone-attack-on-israeli-troops.webp",
-      "summary": "हिज़बुल्लाह ने दक्षिणी लेबनान में इज़रायली सेना को निशाना बनाया। इज़रायल (Israel) और लेबनान (Lebanon) के बीच नाम मात्र के सीज़फायर का कोई भी असर नहीं दिख रहा है और आतंकी संगठन हिज़बुल्लाह (Hezbollah) से जंग जारी है। साउथ लेबनान में इज़रायली सेना के हमले जारी हैं, जिसके जवाब में हिज़बुल्लाह भी कार्रवाई कर रहा है। अब हिज़बुल्लाह ने एक बार फिर साउथ लेबनान में इज़रायली सेना को निशाना बनाया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिज़बुल्लाह ने लेबनान में इज़रायली सेना को बनाया निशाना, ड्रोन्स से किया हमला",
-          "summary": "हिज़बुल्लाह ने दक्षिणी लेबनान में इज़रायली सेना को निशाना बनाया। इज़रायल (Israel) और लेबनान (Lebanon) के बीच नाम मात्र के सीज़फायर का कोई भी असर नहीं दिख रहा है और आतंकी संगठन हिज़बुल्लाह (Hezbollah) से जंग जारी है। साउथ लेबनान में इज़रायली सेना के हमले जारी हैं, जिसके जवाब में हिज़बुल्लाह भी कार्रवाई कर रहा है। अब हिज़बुल्लाह ने एक बार फिर साउथ लेबनान में इज़रायली सेना को निशाना बनाया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
