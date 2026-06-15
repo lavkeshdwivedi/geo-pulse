@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-15T18:36:56.059141+00:00",
+  "generated_at": "2026-06-15T20:13:16.966032+00:00",
   "article_count": 50,
-  "total_unique_count": 267,
+  "total_unique_count": 266,
   "digest": {
-    "en": "The Iran-US accord and its implications for Hormuz Strait traffic dominate headlines. Meanwhile, a study reports a 40 percent rise in violent attacks on schools globally. Counter-drone technology is also gaining traction.",
-    "hi": "यूएस-ईरान परमाणु समझौते पर अनिश्चितता बनी हुई है। ब्रिटेन ने रूसी तेल शिपमेंट को रोकने के लिए 'शैडो फ्लीट' पर कार्रवाई की। भारत में जेवर हवाई अड्डे से पहली उड़ान ने किसानों को लखनऊ पहुंचाया।"
+    "en": "Netanyahu's election announcement leads the news cycle. Counter-drone technology gains traction amid global security concerns. Violent attacks on schools worldwide are up 40 percent.",
+    "hi": "RSS प्रमुख मोहन भागवत ने एशिया-प्रशांत क्षेत्र में भारत के उदय को शांति और समृद्धि से जोड़ा। यूरोप में, ब्रिटेन ने 16 साल से कम उम्र के बच्चों के लिए सोशल मीडिया पर प्रतिबंध की तैयारी की।"
   },
   "articles": [
+    {
+      "title": "Netanyahu Says Will Run In Upcoming Israeli Elections",
+      "url": "https://www.ndtv.com/world-news/benjamin-netanyahu-says-will-run-in-upcoming-israeli-elections-11641158#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-06-15T18:44:28+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-03/qqoob1nk_benjamin-netanyahu_625x300_31_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu announced his intention to run in upcoming elections. Israeli Prime Minister Benjamin Netanyahu on Monday said he intended to run in elections scheduled for later this year, as he faced domestic criticism over his handling of the Middle East war and its aftermath. Netanyahu Says Will Run In Upcoming Israeli Elections.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Limited traffic through Hormuz, despite Trump’s announcement",
       "url": "https://www.thehindu.com/news/international/limited-traffic-through-hormuz-despite-trumps-announcement/article71106150.ece",
@@ -14,7 +26,7 @@
       "sources": [],
       "published_at": "2026-06-15T17:55:39+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/ks6yfx/article71106443.ece/alternates/LANDSCAPE_1200/2026-06-15T160713Z_2034585245_RC2EULAS1H6J_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
-      "summary": "Maritime intelligence reports approximately 600 ships are stranded near the Strait of Hormuz. This contradicts claims of U. S. military assistance to commercial vessels passing through the chokepoint since May. Maritime intelligence publication Lloyd’s List estimates that about 600 ships remain stranded west of the chokepoint; last week, Trump claimed that the U. S. military had quietly assisted around 200 commercial vessels through the Strait since May.",
+      "summary": "Maritime intelligence reports approximately 600 ships are stranded near the Strait of Hormuz. This contradicts claims of U. S. military assistance to commercial vessels passing through the chokepoint since May. Maritime intelligence publication Lloyd’s List estimates that about 600 ships remain stranded west of the chokepoint; last week, Trump claimed that the U. military had quietly assisted around 200 commercial vessels through the Strait since May.",
       "region": "Americas",
       "language": "en",
       "translations": {}
@@ -296,16 +308,202 @@
       "translations": {}
     },
     {
-      "title": "China arrests US academic at conference for ‘espionage activities’",
-      "url": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
-      "source": "The Guardian",
+      "title": "'भारत का उदय विश्व में शांति और समृद्धि लाएगा', बोले आरएसएस प्रमुख मोहन भागवत",
+      "url": "https://www.amarujala.com/india-news/rss-chief-mohan-bhagwat-says-india-s-rise-should-bring-peace-and-prosperity-to-world-2026-06-16",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-12T10:27:08+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/19dd7d5e40dd3a59eb2fb7591f08b6e2cdf016c9/1067_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25f12cd0007513bb005318ac15f2445d",
-      "summary": "China has arrested U. S. scholar Min Zin on suspicion of espionage. Zin writes about Myanmar and Chinese foreign policy. The arrest occurred during a conference in China. Arrest of Min Zin, who writes about Myanmar and Chinese foreign policy, comes just month after Trump visit to BeijingChina has arrested a US scholar who writes about Myanmar and Chinese foreign policy on suspicion of spying. Min Zin was suspected of “engaging in espionage activities that endanger China’s national security,” China’s ministry of foreign affairs spokesperson, Lin Jian, said on Friday.",
+      "published_at": "2026-06-16T07:02:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/16/mohan-bhagwat_c95c55fedf6610983e776bfc1e090df9.jpeg?w=750&dpr=1.0",
+      "summary": "आरएसएस प्रमुख मोहन भागवत ने कहा कि भारत का उदय विश्व में शांति और समृद्धि लाएगा। 'भारत का उदय विश्व में शांति और समृद्धि लाएगा', बोले आरएसएस प्रमुख मोहन भागवत।",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'भारत का उदय विश्व में शांति और समृद्धि लाएगा', बोले आरएसएस प्रमुख मोहन भागवत",
+          "summary": "आरएसएस प्रमुख मोहन भागवत ने कहा कि भारत का उदय विश्व में शांति और समृद्धि लाएगा। 'भारत का उदय विश्व में शांति और समृद्धि लाएगा', बोले आरएसएस प्रमुख मोहन भागवत।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "जेंडाया-टॉम हॉलैंड ने रेड कार्पेट पर बिखेरा जलवा, मैड्रिड में किया 'स्पाइडर मैन ब्रांड न्यू डे' का",
+      "url": "https://www.amarujala.com/entertainment/hollywood/zendaya-tom-holland-rock-the-red-carpet-for-spider-man-brand-new-day-in-madrid-2026-06-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-16T06:46:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/16/jadaya-oura-tama-halda_62bc7a7fdf271301ec8a833c97f6702a.jpeg?w=750&dpr=1.0",
+      "summary": "जेंडाया और टॉम हॉलैंड अपनी नई फिल्म 'स्पाइडर-मैन: ब्रांड न्यू डे' के प्रचार के लिए मैड्रिड पहुंचे। उन्होंने मैड्रिड के फोर सीजन्स होटल में आयोजित एक कार्यक्रम में एक साथ रेड कार्पेट पर शिरकत की। हॉलीवुड के मशहूर कपल जेंडाया और टॉम हॉलैंड अपनी नई फिल्म 'स्पाइडर-मैन: ब्रांड न्यू डे' के प्रमोशन के लिए स्पेन की राजधानी मैड्रिड पहुंचे हैं।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जेंडाया-टॉम हॉलैंड ने रेड कार्पेट पर बिखेरा जलवा, मैड्रिड में किया 'स्पाइडर मैन ब्रांड न्यू डे' का",
+          "summary": "जेंडाया और टॉम हॉलैंड अपनी नई फिल्म 'स्पाइडर-मैन: ब्रांड न्यू डे' के प्रचार के लिए मैड्रिड पहुंचे। उन्होंने मैड्रिड के फोर सीजन्स होटल में आयोजित एक कार्यक्रम में एक साथ रेड कार्पेट पर शिरकत की। हॉलीवुड के मशहूर कपल जेंडाया और टॉम हॉलैंड अपनी नई फिल्म 'स्पाइडर-मैन: ब्रांड न्यू डे' के प्रमोशन के लिए स्पेन की राजधानी मैड्रिड पहुंचे हैं।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "सुप्रीम कोर्ट ने यूपी उच्च न्यायिक सेवा भर्ती परीक्षा के अभ्यर्थियों को दी राहत, टिप्पणी में कही ये",
+      "url": "https://www.amarujala.com/india-news/supreme-court-grants-relief-to-up-higher-judicial-service-recruitment-exam-candidates-on-reject-applications-2026-06-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-15T20:12:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/08/supreme-court_c076b7998bd709c6181b44fc9bbe618e.png?w=750&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट ने उत्तर प्रदेश उच्च न्यायिक सेवा भर्ती परीक्षा के लिए आवेदन करने वाले अभ्यर्थियों को राहत दी है। कोर्ट ने उन अभ्यर्थियों के आवेदन खारिज करने के इलाहाबाद उच्च न्यायालय के आदेश को पलट दिया, जिन्होंने परीक्षा के लिए ऑनलाइन आवेदन करते समय अपनी जाति या श्रेणी का उल्लेख नहीं किया था। सुप्रीम कोर्ट ने कहा कि ऐसे अभ्यर्थियों को एक अवसर दिया जाना चाहिए।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुप्रीम कोर्ट ने यूपी उच्च न्यायिक सेवा भर्ती परीक्षा के अभ्यर्थियों को दी राहत, टिप्पणी में कही ये",
+          "summary": "सुप्रीम कोर्ट ने उत्तर प्रदेश उच्च न्यायिक सेवा भर्ती परीक्षा के लिए आवेदन करने वाले अभ्यर्थियों को राहत दी है। कोर्ट ने उन अभ्यर्थियों के आवेदन खारिज करने के इलाहाबाद उच्च न्यायालय के आदेश को पलट दिया, जिन्होंने परीक्षा के लिए ऑनलाइन आवेदन करते समय अपनी जाति या श्रेणी का उल्लेख नहीं किया था। सुप्रीम कोर्ट ने कहा कि ऐसे अभ्यर्थियों को एक अवसर दिया जाना चाहिए।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ब्रिटेन में 16 साल से कम उम्र के बच्चों के लिए सोशल मीडिया पर सख्त प्रतिबंध की तैयारी",
+      "url": "https://www.patrika.com/world-news/social-media-restrictions-in-uk-plans-for-strict-curbs-for-children-under-16-20671071",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-15T20:01:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Social-Media.jpg",
+      "summary": "ब्रिटेन के प्रधानमंत्री कीर स्टार्मर ने 16 वर्ष से कम आयु के बच्चों के लिए सोशल मीडिया के उपयोग पर इस प्रस्तावित कदम के तहत टिकटॉक, स्नैपचैट और इंस्टाग्राम जैसे लोकप्रिय सोशल मीडिया प्लेटफॉर्म बच्चों के लिए प्रतिबंधित किए जाएंगे। सरकार केवल सोशल मीडिया तक ही सीमित नहीं रहेगी, बल्कि उन गेमिंग और लाइवस्ट्रीमिंग सेवाओं पर भी कार्रवाई करे। ब्रिटेन में 16 साल से कम उम्र के बच्चों के लिए सोशल मीडिया पर सख्त प्रतिबंध की तैयारी।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रिटेन में 16 साल से कम उम्र के बच्चों के लिए सोशल मीडिया पर सख्त प्रतिबंध की तैयारी",
+          "summary": "ब्रिटेन के प्रधानमंत्री कीर स्टार्मर ने 16 वर्ष से कम आयु के बच्चों के लिए सोशल मीडिया के उपयोग पर इस प्रस्तावित कदम के तहत टिकटॉक, स्नैपचैट और इंस्टाग्राम जैसे लोकप्रिय सोशल मीडिया प्लेटफॉर्म बच्चों के लिए प्रतिबंधित किए जाएंगे। सरकार केवल सोशल मीडिया तक ही सीमित नहीं रहेगी, बल्कि उन गेमिंग और लाइवस्ट्रीमिंग सेवाओं पर भी कार्रवाई करे। ब्रिटेन में 16 साल से कम उम्र के बच्चों के लिए सोशल मीडिया पर सख्त प्रतिबंध की तैयारी।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "हाफ-टाइम तक मिस्र 1-0 से आगे, 19वें मिनट में इमाम ने बेल्जियम के खिलाफ दागा गोल",
+      "url": "https://www.amarujala.com/live/sports/football/spain-vs-cabo-verde-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-15T19:54:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/12/fafa-vashava-kapa-2026_3cd85909c928e7db58b5246fca35970f.jpeg?w=750&dpr=1.0",
+      "summary": "मिस्र ने 2026 फीफा विश्व कप क्वालीफायर में बेल्जियम के खिलाफ हाफ-टाइम तक 1-0 की बढ़त बना ली। इमाम अशरफ ने 19वें मिनट में गोल करके अपनी टीम को आगे किया। यह मैच का पहला गोल था। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। हाफ-टाइम तक मिस्र 1-0 से आगे, 19वें मिनट में इमाम ने बेल्जियम के खिलाफ दागा गोल।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हाफ-टाइम तक मिस्र 1-0 से आगे, 19वें मिनट में इमाम ने बेल्जियम के खिलाफ दागा गोल",
+          "summary": "मिस्र ने 2026 फीफा विश्व कप क्वालीफायर में बेल्जियम के खिलाफ हाफ-टाइम तक 1-0 की बढ़त बना ली। इमाम अशरफ ने 19वें मिनट में गोल करके अपनी टीम को आगे किया। यह मैच का पहला गोल था। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। हाफ-टाइम तक मिस्र 1-0 से आगे, 19वें मिनट में इमाम ने बेल्जियम के खिलाफ दागा गोल।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "TMC विधायक कुणाल घोष पर अंडे फेंके गए, भड़के सांसद कल्याण बनर्जी!",
+      "url": "https://www.amarujala.com/video/india-news/attack-on-kunal-ghosh-eggs-thrown-at-tmc-mla-kunal-ghosh-mp-kalyan-banerjee-furious-2026-06-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-15T19:49:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/16/attack-on-kunal-ghosh_461064b58885b58637b3513bd1f7d90e.jpeg?w=750&dpr=1.0",
+      "summary": "पश्चिम बंगाल के बैरकपुर में तृणमूल कांग्रेस के विधायक कुणाल घोष पर अंडे फेंके गए। इस घटना के बाद तृणमूल कांग्रेस के सांसद कल्याण बनर्जी ने विरोध जताया। घटना के कारणों का तत्काल पता नहीं चला। Attack on Kunal Ghosh: TMC विधायक कुणाल घोष पर अंडे फेंके गए, भड़के सांसद कल्याण बनर्जी!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "TMC विधायक कुणाल घोष पर अंडे फेंके गए, भड़के सांसद कल्याण बनर्जी!",
+          "summary": "पश्चिम बंगाल के बैरकपुर में तृणमूल कांग्रेस के विधायक कुणाल घोष पर अंडे फेंके गए। इस घटना के बाद तृणमूल कांग्रेस के सांसद कल्याण बनर्जी ने विरोध जताया। घटना के कारणों का तत्काल पता नहीं चला। Attack on Kunal Ghosh: TMC विधायक कुणाल घोष पर अंडे फेंके गए, भड़के सांसद कल्याण बनर्जी!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "PM मोदी को स्लोवाकिया ने दिया देश का सबसे बड़ा सम्मान, 'ऑर्डर ऑफ द व्हाइट डबल क्रॉस (फर्स्ट क्लास)'",
+      "url": "https://hindi.news18.com/world/europe-pm-modi-slovakia-highest-honour-the-white-double-cross-1st-class-india-shine-10574001.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-15T19:47:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Narendra-Modi-2026-06-8e1bc23dd0be875e9ac2a924e24c33c7-1200x800.jpg",
+      "summary": "स्लोवाकिया ने प्रधानमंत्री नरेंद्र मोदी को 'ऑर्डर ऑफ द व्हाइट डबल क्रॉस (फर्स्ट क्लास)' से सम्मानित किया। यह उन्हें दिया जाने वाला 33वां अंतरराष्ट्रीय सम्मान है। यह पुरस्कार दोनों देशों के मजबूत होते रणनीतिक संबंधों को दर्शाता है। प्रधानमंत्री नरेंद्र मोदी को मिला स्लोवाकिया का सर्वोच्च पुरस्कार उनकी मजबूत वैश्विक कूटनीति की सफलता को दिखाता है. यह अब तक किसी भी विदेशी सरकार द्वारा पीएम मोदी को दिया गया 33वां बड़ा अंतरराष्ट्रीय सम्मान है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PM मोदी को स्लोवाकिया ने दिया देश का सबसे बड़ा सम्मान, 'ऑर्डर ऑफ द व्हाइट डबल क्रॉस (फर्स्ट क्लास)'",
+          "summary": "स्लोवाकिया ने प्रधानमंत्री नरेंद्र मोदी को 'ऑर्डर ऑफ द व्हाइट डबल क्रॉस (फर्स्ट क्लास)' से सम्मानित किया। यह उन्हें दिया जाने वाला 33वां अंतरराष्ट्रीय सम्मान है। यह पुरस्कार दोनों देशों के मजबूत होते रणनीतिक संबंधों को दर्शाता है। प्रधानमंत्री नरेंद्र मोदी को मिला स्लोवाकिया का सर्वोच्च पुरस्कार उनकी मजबूत वैश्विक कूटनीति की सफलता को दिखाता है. यह अब तक किसी भी विदेशी सरकार द्वारा पीएम मोदी को दिया गया 33वां बड़ा अंतरराष्ट्रीय सम्मान है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अभिषेक बनर्जी से 11 घंटे तक ईडी ने की पूछताछ, बोले- विपक्षी ताकतों को कमजोर करने की कोशिश",
+      "url": "https://www.amarujala.com/india-news/ed-interrogates-tmc-mp-abhishek-for-over-11-hours-in-primary-school-jobs-scam-case-2026-06-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-15T19:40:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/28/taemasa-nata-abhashhaka-bnaraja_54e86b82d0e9d8b727d26f0cb5f287fc.jpeg?w=750&dpr=1.0",
+      "summary": "शिक्षक भर्ती घोटाले के संबंध में प्रवर्तन निदेशालय ने अभिषेक बनर्जी से 11 घंटे तक पूछताछ की। पूछताछ के बाद बनर्जी ने कहा कि विपक्षी ताकतों को कमजोर करने का प्रयास किया जा रहा है। शिक्षक भर्ती घोटाला: अभिषेक बनर्जी से 11 घंटे तक ईडी ने की पूछताछ, बोले- विपक्षी ताकतों को कमजोर करने की कोशिश।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अभिषेक बनर्जी से 11 घंटे तक ईडी ने की पूछताछ, बोले- विपक्षी ताकतों को कमजोर करने की कोशिश",
+          "summary": "शिक्षक भर्ती घोटाले के संबंध में प्रवर्तन निदेशालय ने अभिषेक बनर्जी से 11 घंटे तक पूछताछ की। पूछताछ के बाद बनर्जी ने कहा कि विपक्षी ताकतों को कमजोर करने का प्रयास किया जा रहा है। शिक्षक भर्ती घोटाला: अभिषेक बनर्जी से 11 घंटे तक ईडी ने की पूछताछ, बोले- विपक्षी ताकतों को कमजोर करने की कोशिश।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका का बी-52 बॉम्बर दुर्घटनाग्रस्त, कैलिफोर्निया में एयर फोर्स बेस से भरी थी उड़ान",
+      "url": "https://www.amarujala.com/world/us-b-52-stratofortress-crashes-after-takeoff-at-edwards-air-force-base-in-california-2026-06-16",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-15T19:38:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/16/b-52-bomber_00714248ef93133047f17f17028212a1.jpeg?w=750&dpr=1.0",
+      "summary": "कैलिफोर्निया के एडवर्ड्स एयर फोर्स बेस से उड़ान भरने के बाद एक अमेरिकी बी-52 बॉम्बर दुर्घटनाग्रस्त हो गया। दुर्घटना के कारणों की जांच की जा रही है। अमेरिका का बी-52 बॉम्बर दुर्घटनाग्रस्त, कैलिफोर्निया में एयर फोर्स बेस से भरी थी उड़ान।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका का बी-52 बॉम्बर दुर्घटनाग्रस्त, कैलिफोर्निया में एयर फोर्स बेस से भरी थी उड़ान",
+          "summary": "कैलिफोर्निया के एडवर्ड्स एयर फोर्स बेस से उड़ान भरने के बाद एक अमेरिकी बी-52 बॉम्बर दुर्घटनाग्रस्त हो गया। दुर्घटना के कारणों की जांच की जा रही है। अमेरिका का बी-52 बॉम्बर दुर्घटनाग्रस्त, कैलिफोर्निया में एयर फोर्स बेस से भरी थी उड़ान।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "अपने Android फोन में लीजिए iPhone वाली फील! ज्यादातर लोग नहीं जानते इसका इस्तेमाल",
+      "url": "https://www.amarujala.com/photo-gallery/technology/tip-of-the-day/how-to-enable-voicemail-on-android-airtel-jio-vi-and-bsnl-users-complete-guide-2026-06-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-15T19:33:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/16/edarayada-ma-vayasamal_b5c476eacb48d06877fe7c18e1074d12.jpeg?w=750&dpr=1.0",
+      "summary": "एंड्रॉइड फोन उपयोगकर्ता अब वॉयसमेल सुविधा को सक्षम करके आईफोन जैसी अनुभव प्राप्त कर सकते हैं। यह सुविधा कई उपयोगकर्ताओं के लिए अज्ञात है। Voicemail Feature In Android: अगर आप एंड्रॉयड फोन इस्तेमाल करते हैं और आईफोन वाली फील लेना चाहते हैं तो आप वॉयसमेल फीचर अपने फोन में ऑन कर सकते हैं। अपने Android फोन में लीजिए iPhone वाली फील!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अपने Android फोन में लीजिए iPhone वाली फील! ज्यादातर लोग नहीं जानते इसका इस्तेमाल",
+          "summary": "एंड्रॉइड फोन उपयोगकर्ता अब वॉयसमेल सुविधा को सक्षम करके आईफोन जैसी अनुभव प्राप्त कर सकते हैं। यह सुविधा कई उपयोगकर्ताओं के लिए अज्ञात है। Voicemail Feature In Android: अगर आप एंड्रॉयड फोन इस्तेमाल करते हैं और आईफोन वाली फील लेना चाहते हैं तो आप वॉयसमेल फीचर अपने फोन में ऑन कर सकते हैं। अपने Android फोन में लीजिए iPhone वाली फील!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "1953 का जख्म अब भी ताजा, अमेरिका पर हरगिज भरोसा नहीं, शांति समझौते से पहले ईरान का तीखा हमला",
+      "url": "https://hindi.news18.com/world/middle-east-1953-coup-iran-us-peace-deal-tehran-attack-america-israel-10573676.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-15T19:31:03+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Esmail-Baghaei-2026-06-35fd1a5d6b03ec83721e99fca58438f9-1200x800.jpg",
+      "summary": "ईरान ने अमेरिका के साथ शांति समझौते में लेबनान की संप्रभुता और क्षेत्रीय अखंडता को प्राथमिकता दी। समझौते में सभी सैन्य कार्रवाइयों को स्थायी रूप से समाप्त करने और लेबनान की स्वतंत्रता व अंतरराष्ट्रीय सीमाओं की पूर्ण सुरक्षा पर सहमति बनी। यह 1953 के घटनाक्रम के बाद अमेरिका पर अविश्वास को दर्शाता है। ईरान ने अमेरिका के साथ कूटनीतिक शांति वार्ता में अपने सहयोगी देशों के हितों की रक्षा को सर्वोपरि रखा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "1953 का जख्म अब भी ताजा, अमेरिका पर हरगिज भरोसा नहीं, शांति समझौते से पहले ईरान का तीखा हमला",
+          "summary": "ईरान ने अमेरिका के साथ शांति समझौते में लेबनान की संप्रभुता और क्षेत्रीय अखंडता को प्राथमिकता दी। समझौते में सभी सैन्य कार्रवाइयों को स्थायी रूप से समाप्त करने और लेबनान की स्वतंत्रता व अंतरराष्ट्रीय सीमाओं की पूर्ण सुरक्षा पर सहमति बनी। यह 1953 के घटनाक्रम के बाद अमेरिका पर अविश्वास को दर्शाता है। ईरान ने अमेरिका के साथ कूटनीतिक शांति वार्ता में अपने सहयोगी देशों के हितों की रक्षा को सर्वोपरि रखा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "ब्रिटेन की 'शैडो फ्लीट' पर की छापेमारी, भारतीय नागरिक को किया गिरफ्तार, रूस पर आरोप",
@@ -322,6 +520,24 @@
           "title": "ब्रिटेन की 'शैडो फ्लीट' पर की छापेमारी, भारतीय नागरिक को किया गिरफ्तार, रूस पर आरोप",
           "summary": "ब्रिटिश सुरक्षा एजेंसियों ने एक 'शैडो फ्लीट' पर छापा मारा है. ब्रिटिश सुरक्षा एजेंसियों ने एक शैडो फ्लीट पर छापेमारी की है. आरोप हैं कि ये रूस की है. एजेंसियों ने एक भारतीय नागरिक को गिरफ्तार किया है. इसके लिए ब्रिटेन ने स्पेशल आपरेशन चलाया है जिसमें 6 घंटे लगे हैं. ब्रिटेन की 'शैडो फ्लीट' पर की छापेमारी, भारतीय नागरिक को किया गिरफ्तार, रूस पर आरोप।",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "‘हॉर्मुज से तेल के कई जहाज निकलने लगे हैं, वे दक्षिणी ‘हाईवे’ से जा रहे’, ईरान से डील के बाद",
+      "url": "https://www.patrika.com/world-news/donald-trump-says-oil-tankers-moving-through-hormuz-strait-after-iran-deal-20670923",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-15T18:06:42+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/US-President-Donald-Trump-1.webp",
+      "summary": "ईरान के साथ समझौते के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया कि होर्मुज जलडमरूमध्य अब सुरक्षित है। उन्होंने कहा कि तेल से लदे जहाजों का दक्षिणी मार्ग से आवागमन फिर से शुरू हो गया है। Middle East US-Iran Agreement: ईरान के साथ हुए समझौते के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक बड़ा दावा किया है। उन्होंने कहा कि होर्मुज स्ट्रेट अब फिर से सुरक्षित हो गया है और तेल से भरे जहाजों की आवाजाही शुरू हो चुकी है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘हॉर्मुज से तेल के कई जहाज निकलने लगे हैं, वे दक्षिणी ‘हाईवे’ से जा रहे’, ईरान से डील के बाद",
+          "summary": "ईरान के साथ समझौते के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया कि होर्मुज जलडमरूमध्य अब सुरक्षित है। उन्होंने कहा कि तेल से लदे जहाजों का दक्षिणी मार्ग से आवागमन फिर से शुरू हो गया है। Middle East US-Iran Agreement: ईरान के साथ हुए समझौते के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक बड़ा दावा किया है। उन्होंने कहा कि होर्मुज स्ट्रेट अब फिर से सुरक्षित हो गया है और तेल से भरे जहाजों की आवाजाही शुरू हो चुकी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -470,6 +686,42 @@
       }
     },
     {
+      "title": "आज ही ईरान के साथ साइन हो चुकी है अमेरिका की डील, क्या है नई शर्त? जेडी वेंस ने खोला राज",
+      "url": "https://www.patrika.com/world-news/iran-deal-signed-jd-vance-donald-trump-hormuz-strait-war-latest-update-20670894",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-15T16:02:54+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/JD-Vance.webp",
+      "summary": "अमेरिका और ईरान के बीच एक नई डील सोमवार को इलेक्ट्रॉनिक रूप से हस्ताक्षरित हुई। उपराष्ट्रपति जेडी वेंस ने पुष्टि की कि ईरान को कोई नया धन नहीं मिला है और भविष्य में भी नहीं मिलेगा। अमेरिका-ईरान के बीच हुई नई डील सोमवार को ही इलेक्ट्रॉनिक तरीके से साइन हो चुकी है। उपराष्ट्रपति जेडी वेंस ने इस बात का खुलासा किया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज ही ईरान के साथ साइन हो चुकी है अमेरिका की डील, क्या है नई शर्त? जेडी वेंस ने खोला राज",
+          "summary": "अमेरिका और ईरान के बीच एक नई डील सोमवार को इलेक्ट्रॉनिक रूप से हस्ताक्षरित हुई। उपराष्ट्रपति जेडी वेंस ने पुष्टि की कि ईरान को कोई नया धन नहीं मिला है और भविष्य में भी नहीं मिलेगा। अमेरिका-ईरान के बीच हुई नई डील सोमवार को ही इलेक्ट्रॉनिक तरीके से साइन हो चुकी है। उपराष्ट्रपति जेडी वेंस ने इस बात का खुलासा किया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्या इजरायल मानेगा ईरान-US पीस डील? भारत में इजरायली राजदूत ने दिया बड़ा जवाब",
+      "url": "https://www.patrika.com/world-news/will-israel-accept-iran-us-peace-deal-israeli-ambassador-reuven-azar-responds-20670840",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-15T16:01:55+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/iran-.webp",
+      "summary": "भारत में इजरायल के राजदूत रूवेन अजार ने कहा कि इजरायल किसी भी ऐसी डील का हिस्सा नहीं होगा जिसमें उसकी भागीदारी न हो। उन्होंने इस बात पर जोर दिया कि इजरायल किसी भी शांति समझौते में अपनी भूमिका सुनिश्चित करेगा। Middle East Tensions: मिडिल ईस्ट में बढ़ते तनाव के बीच एक बड़ा सवाल खड़ा हो गया है कि अगर अमेरिका और ईरान के बीच शांति समझौता होता है, तो क्या इजरायल उसे स्वीकार करेगा?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या इजरायल मानेगा ईरान-US पीस डील? भारत में इजरायली राजदूत ने दिया बड़ा जवाब",
+          "summary": "भारत में इजरायल के राजदूत रूवेन अजार ने कहा कि इजरायल किसी भी ऐसी डील का हिस्सा नहीं होगा जिसमें उसकी भागीदारी न हो। उन्होंने इस बात पर जोर दिया कि इजरायल किसी भी शांति समझौते में अपनी भूमिका सुनिश्चित करेगा। Middle East Tensions: मिडिल ईस्ट में बढ़ते तनाव के बीच एक बड़ा सवाल खड़ा हो गया है कि अगर अमेरिका और ईरान के बीच शांति समझौता होता है, तो क्या इजरायल उसे स्वीकार करेगा?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "ट्रंप कुछ भी कहते रहें, इजरायल तो नहीं मानने वाला, यूएस-ईरान डील के तुरंत बाद लेबनान पर क‍िया अटैक",
       "url": "https://hindi.news18.com/world/middle-east-israeli-drone-attack-in-south-lebanon-first-deadly-attack-since-us-iran-deal-announcement-10573642.html",
       "source": "News18 Hindi (World)",
@@ -501,258 +753,6 @@
         "hi": {
           "title": "2022 में बनी, लोकसभा का कभी चुनाव नहीं लड़ी, अब 22 सांसद, है न कमाल, जानिए सबकुछ",
           "summary": "नेशनलिस्ट सिटिजन पार्टी, जिसने कभी लोकसभा चुनाव नहीं लड़ा, अब 22 सांसदों का समर्थन रखती है। यह समर्थन पश्चिम बंगाल के तृणमूल कांग्रेस के बागी सांसदों से आया है। पश्चिम बंगाल समेत आज देशभर में एक पार्टी की काफी चर्चा हो रही है. इस पार्टी का नाम है, नेशनलिस्ट सिटिजन पार्टी. यह ऐसी पार्टी है, जिसने कभी लोकसभा चुनाव नहीं लड़ा, लेकिन उसके पास 22 सांसद हैं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बॉर्डर पर तनाव! भारत से जाने वालों की लगी भारी भीड़, बांग्लादेश ने लेने किया इनकार",
-      "url": "https://www.abplive.com/news/india/bangladesh-guards-refuse-to-take-in-own-9-citizens-assam-mankachar-border-tension-with-bsf-3145715",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-15T15:09:11+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/15/1c0eff5d99f4468bd9e97027e41dbc141781535904740708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "असम के मानकाचार सेक्टर में सीमा पर स्थित 'नो-मैन्स लैंड' में नौ बांग्लादेशी नागरिक फंसे हुए हैं। बांग्लादेश बॉर्डर गार्ड उन्हें वापस लेने से इनकार कर रहा है, जिससे सीमा पर तनाव बढ़ गया है। भारत और बांग्लादेश के अंतरराष्ट्रीय बॉर्डर पर एक बार फिर तनाव की स्थिति पैदा हो गई है. असम के मानकाचार सेक्टर में सीमा पर स्थित 'नो-मैन्स लैंड' में पिछले कुछ दिनों से 9 बांग्लादेशी नागरिक फंसे हुए हैं, जिन्हें बांग्लादेश बॉर्डर गार्ड (BBG) वापस लेने से लगातार इनकार कर रहा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बॉर्डर पर तनाव! भारत से जाने वालों की लगी भारी भीड़, बांग्लादेश ने लेने किया इनकार",
-          "summary": "असम के मानकाचार सेक्टर में सीमा पर स्थित 'नो-मैन्स लैंड' में नौ बांग्लादेशी नागरिक फंसे हुए हैं। बांग्लादेश बॉर्डर गार्ड उन्हें वापस लेने से इनकार कर रहा है, जिससे सीमा पर तनाव बढ़ गया है। भारत और बांग्लादेश के अंतरराष्ट्रीय बॉर्डर पर एक बार फिर तनाव की स्थिति पैदा हो गई है. असम के मानकाचार सेक्टर में सीमा पर स्थित 'नो-मैन्स लैंड' में पिछले कुछ दिनों से 9 बांग्लादेशी नागरिक फंसे हुए हैं, जिन्हें बांग्लादेश बॉर्डर गार्ड (BBG) वापस लेने से लगातार इनकार कर रहा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान में फिर बहा खून, सुसाइड बॉम्बर ने चेक पोस्ट को उड़ाया, 2 जवानों की मौत",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-police-checkpoint-suicide-bomber-attack-khyber-pakhtunkhwa-punjab-border-10573569.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-15T15:06:43+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Pakistan-Attack-X-2026-06-5f06aa81a717290c89bdb0058e4c2c22-1200x800.jpg",
-      "summary": "पाकिस्तान के वाहवा इलाके में एक पुलिस चेक पोस्ट पर आत्मघाती हमला हुआ। हमले में दो पुलिसकर्मियों की मौत हो गई और छह अन्य घायल हो गए। हमलावरों ने विस्फोटक लदी गाड़ी से चेक पोस्ट के गेट को टक्कर मारी। पाकिस्तान में हमले में दो पुलिसकर्मियों की मौत हो गई. घटना पंजाब और खैबर पख्तूनख्वा प्रांतों की सीमा के पास वाहवा इलाके में हुई.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान में फिर बहा खून, सुसाइड बॉम्बर ने चेक पोस्ट को उड़ाया, 2 जवानों की मौत",
-          "summary": "पाकिस्तान के वाहवा इलाके में एक पुलिस चेक पोस्ट पर आत्मघाती हमला हुआ। हमले में दो पुलिसकर्मियों की मौत हो गई और छह अन्य घायल हो गए। हमलावरों ने विस्फोटक लदी गाड़ी से चेक पोस्ट के गेट को टक्कर मारी। पाकिस्तान में हमले में दो पुलिसकर्मियों की मौत हो गई. घटना पंजाब और खैबर पख्तूनख्वा प्रांतों की सीमा के पास वाहवा इलाके में हुई.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "क्या होर्मुज रहेगा टोल फ्री, ईरान ने फीस लगाने की कही बात तो US ने कर दिया साफ, क्या हैं दावे?",
-      "url": "https://hindi.news18.com/world/middle-east-iran-to-impose-service-fees-in-strait-of-hormuz-us-has-claims-to-open-10573413.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-15T14:34:43+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/1778036100_hormuz-2-2026-03-ca1f3a65eb2441f139d9875ff374c1ae-1200x800.jpg",
-      "summary": "ईरान मैरीटाइम सर्विस शुल्क लेगा, टोल नहीं। यह शुल्क होर्मुज जलडमरूमध्य से गुजरने वाले जहाजों पर लागू होगा। अमेरिका का कहना है कि समझौते में होर्मुज को खुला रखने की बात कही गई थी। ईरानी विदेश मंत्रालय ने सोमवार को कहा कि होर्मुज से गुजरने वाले जहाजों पर टोल लगाने के बजाय मैरिटाइम सर्विस वसूल करेगा. अमेरिका उप-राष्ट्रपति जेडी वेंस का कहना है कि डील में होर्मुज खोलने के लिए कही गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या होर्मुज रहेगा टोल फ्री, ईरान ने फीस लगाने की कही बात तो US ने कर दिया साफ, क्या हैं दावे?",
-          "summary": "ईरान मैरीटाइम सर्विस शुल्क लेगा, टोल नहीं। यह शुल्क होर्मुज जलडमरूमध्य से गुजरने वाले जहाजों पर लागू होगा। अमेरिका का कहना है कि समझौते में होर्मुज को खुला रखने की बात कही गई थी। ईरानी विदेश मंत्रालय ने सोमवार को कहा कि होर्मुज से गुजरने वाले जहाजों पर टोल लगाने के बजाय मैरिटाइम सर्विस वसूल करेगा. अमेरिका उप-राष्ट्रपति जेडी वेंस का कहना है कि डील में होर्मुज खोलने के लिए कही गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ममता बनर्जी से मिलने जा रहे TMC विधायक कुणाल घोष पर युवक ने दे मारा अंडा, वीडियो आया सामने",
-      "url": "https://www.abplive.com/news/india/video-emerges-young-man-thrown-egg-tmc-mla-kunal-ghosh-on-way-to-meet-mamata-banerjee-3145702",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-15T14:33:22+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/15/8928875b654f9e40fb3032a0aad307d017815334867481324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कोलकाता में तृणमूल कांग्रेस के विधायक कुणाल घोष पर मुख्यमंत्री ममता बनर्जी के आवास के पास एक युवक ने अंडा फेंका। घटना के बाद सुरक्षाकर्मियों ने कार्रवाई की। Eggs Thrown on TMC MLA Kunal Ghosh: कोलकाता के पश्चिम बंगाल में मुख्यमंत्री ममता बनर्जी के आवास के पास टीएमसी के विधायक कुणाल घोष पर अंडा फेंका गया है. इसका वीडियो भी सामने आया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ममता बनर्जी से मिलने जा रहे TMC विधायक कुणाल घोष पर युवक ने दे मारा अंडा, वीडियो आया सामने",
-          "summary": "कोलकाता में तृणमूल कांग्रेस के विधायक कुणाल घोष पर मुख्यमंत्री ममता बनर्जी के आवास के पास एक युवक ने अंडा फेंका। घटना के बाद सुरक्षाकर्मियों ने कार्रवाई की। Eggs Thrown on TMC MLA Kunal Ghosh: कोलकाता के पश्चिम बंगाल में मुख्यमंत्री ममता बनर्जी के आवास के पास टीएमसी के विधायक कुणाल घोष पर अंडा फेंका गया है. इसका वीडियो भी सामने आया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "तेल मिलेगा सस्ता और सेंट्रल एशिया तक पहुंच, ईरान-US डील से भारत की होगी बल्ले-बल्ले",
-      "url": "https://hindi.news18.com/world/middle-east-cheaper-oil-and-access-to-central-asia-india-stands-to-gain-big-from-iran-us-deal-10572712.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-15T14:29:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Export-2026-06-99689cf396245289c425bce8921517fa-1200x800.jpg",
-      "summary": "अमेरिका-ईरान समझौते से भारत को उर्वरक, पेट्रोकेमिकल, शिपिंग और लॉजिस्टिक्स उद्योगों में लाभ हो सकता है. कम तेल कीमतों से महंगाई घटने की उम्मीद है. यह समझौता पश्चिम एशिया में तनाव कम कर सकता है और भारतीय अर्थव्यवस्था को राहत दे सकता है. अमेरिका-ईरान में डील लंबे समय तक कायम रहती है, तो भारत के कई इंडस्ट्रीज को लाभ मिलेगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेल मिलेगा सस्ता और सेंट्रल एशिया तक पहुंच, ईरान-US डील से भारत की होगी बल्ले-बल्ले",
-          "summary": "अमेरिका-ईरान समझौते से भारत को उर्वरक, पेट्रोकेमिकल, शिपिंग और लॉजिस्टिक्स उद्योगों में लाभ हो सकता है. कम तेल कीमतों से महंगाई घटने की उम्मीद है. यह समझौता पश्चिम एशिया में तनाव कम कर सकता है और भारतीय अर्थव्यवस्था को राहत दे सकता है. अमेरिका-ईरान में डील लंबे समय तक कायम रहती है, तो भारत के कई इंडस्ट्रीज को लाभ मिलेगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'किसी तरह का नहीं करेंगे कॉम्प्रोमाइज', क्यों यूएस-ईरान शांति समझौता के खिलाफ खड़ा हुआ इजरायल?",
-      "url": "https://www.abplive.com/news/world/disgruntled-israel-fresh-air-and-artillery-strikes-in-southern-lebanon-within-24-hrs-of-us-iran-peace-deal-announcement-3145614",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-15T14:25:53+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/15/222b911e3a6ecefd7475ae5d99d71e4617815238236301126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिका और ईरान के बीच शांति समझौते की घोषणा के बाद इजरायल ने लेबनान में सैन्य कार्रवाई की। इजरायल इस समझौते से संतुष्ट नहीं है। यह क्षेत्र में शांति और नौवहन की स्वतंत्रता की उम्मीदों के बीच हुआ है। पश्चिम एशिया में शांति और स्ट्रेट ऑफ होर्मुज में नौवहन की आजादी की उम्मीदों के बीच अमेरिका और ईरान के बीच हुए शांति समझौते का दुनिया भर के देशों की तरफ से स्वागत किया जा रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'किसी तरह का नहीं करेंगे कॉम्प्रोमाइज', क्यों यूएस-ईरान शांति समझौता के खिलाफ खड़ा हुआ इजरायल?",
-          "summary": "अमेरिका और ईरान के बीच शांति समझौते की घोषणा के बाद इजरायल ने लेबनान में सैन्य कार्रवाई की। इजरायल इस समझौते से संतुष्ट नहीं है। यह क्षेत्र में शांति और नौवहन की स्वतंत्रता की उम्मीदों के बीच हुआ है। पश्चिम एशिया में शांति और स्ट्रेट ऑफ होर्मुज में नौवहन की आजादी की उम्मीदों के बीच अमेरिका और ईरान के बीच हुए शांति समझौते का दुनिया भर के देशों की तरफ से स्वागत किया जा रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "करोड़पत‍ि का अजीबोगरीब कांड, 172 करोड़ में खरीदा बंगला, फ‍िर बुल्‍डोजर लगाकर ग‍िरा द‍िया",
-      "url": "https://hindi.news18.com/world/britain-millionaire-bizarre-move-bought-a-bungalow-for-172-crore-then-demolished-it-with-bulldozer-10573478.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-15T14:17:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/millionaire-demolished-172-crore-bungalow-2026-06-d711d68a612a9554bc36737b8870b312-1200x800.jpg",
-      "summary": "ब्रिटेन में एक करोड़पति ने 172 करोड़ रुपये में बंगला खरीदकर उसे गिरा दिया। अब वह उसी जगह पर अपनी पसंद का महल बनवाएगा। इस घटना से स्थानीय लोग हैरान हैं। ब्र‍िटेन में एक करोड़पत‍ि ने अजीबोगरीब कांड क‍िया. पहले तो उसने 172 करोड़ रुपये में बंगला खरीदा और फ‍िर बुलडोजर चलवा द‍िया. यह देखकर वहां के लोग हैरान रह गए.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "करोड़पत‍ि का अजीबोगरीब कांड, 172 करोड़ में खरीदा बंगला, फ‍िर बुल्‍डोजर लगाकर ग‍िरा द‍िया",
-          "summary": "ब्रिटेन में एक करोड़पति ने 172 करोड़ रुपये में बंगला खरीदकर उसे गिरा दिया। अब वह उसी जगह पर अपनी पसंद का महल बनवाएगा। इस घटना से स्थानीय लोग हैरान हैं। ब्र‍िटेन में एक करोड़पत‍ि ने अजीबोगरीब कांड क‍िया. पहले तो उसने 172 करोड़ रुपये में बंगला खरीदा और फ‍िर बुलडोजर चलवा द‍िया. यह देखकर वहां के लोग हैरान रह गए.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "नई दिल्ली-ढाका के बीच और बढ़ सकता है तनाव, IGI एयरपोर्ट पर बांग्लादेश PM के सलाहकार को रोका",
-      "url": "https://www.abplive.com/news/india/bangladesh-pm-tarique-rahman-adviser-zahed-ur-rahman-stopped-delhi-airport-have-made-anti-india-statements-ann-3145687",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-15T14:17:21+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/15/28584408774eca75bbbbf9e33cf5648a1781530473953708_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "बांग्लादेशी प्रधानमंत्री के सलाहकार जाहिद उर रहमान को दिल्ली के आईजीआई हवाई अड्डे पर रोका गया। उन्हें भारत विरोधी बयानों के कारण वॉचलिस्ट में रखा गया था। इमिग्रेशन अधिकारियों ने उनके बयानों के सत्यापन के लिए रोका था। बांग्लादेश के प्रधानमंत्री तारिक रहमान के सलाहकार जाहिद उर रहमान को दिल्ली में एंट्री नहीं दिया गया, उन्हें इमिग्रेशन अथॉरिटी ने एयरपोर्ट पर रोक दिया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नई दिल्ली-ढाका के बीच और बढ़ सकता है तनाव, IGI एयरपोर्ट पर बांग्लादेश PM के सलाहकार को रोका",
-          "summary": "बांग्लादेशी प्रधानमंत्री के सलाहकार जाहिद उर रहमान को दिल्ली के आईजीआई हवाई अड्डे पर रोका गया। उन्हें भारत विरोधी बयानों के कारण वॉचलिस्ट में रखा गया था। इमिग्रेशन अधिकारियों ने उनके बयानों के सत्यापन के लिए रोका था। बांग्लादेश के प्रधानमंत्री तारिक रहमान के सलाहकार जाहिद उर रहमान को दिल्ली में एंट्री नहीं दिया गया, उन्हें इमिग्रेशन अथॉरिटी ने एयरपोर्ट पर रोक दिया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "राहुल गांधी की छात्रों से अपील! 17 जून को कोटा में 'स्टूडेंट्स इको' प्रदर्शन में शामिल होने का",
-      "url": "https://www.abplive.com/news/india/rahul-gandhi-appealed-to-students-job-aspirants-to-join-students-echo-protest-in-kota-on-june-17-3145633",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-15T14:02:00+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/15/1cf82928bcc17a295697b7a22f65134f17815251347151115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कांग्रेस नेता राहुल गांधी ने छात्रों से 17 जून को कोटा में 'स्टूडेंट्स इको' प्रदर्शन में शामिल होने का आग्रह किया है। उन्होंने परीक्षा पेपर लीक, रद्द परीक्षाओं और भर्ती में देरी के कारण युवाओं के भविष्य पर सरकार की नीतियों को जिम्मेदार ठहराया। कांग्रेस नेता राहुल गांधी ने सोमवार (15 जून 2026) को छात्रों और नौकरी की तैयारी कर रहे युवाओं से 17 जून को राजस्थान के कोटा में होने वाले स्टूडेंट्स इको (छात्रों की गूंज) प्रदर्शन में शामिल होने की अपील की है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राहुल गांधी की छात्रों से अपील! 17 जून को कोटा में 'स्टूडेंट्स इको' प्रदर्शन में शामिल होने का",
-          "summary": "कांग्रेस नेता राहुल गांधी ने छात्रों से 17 जून को कोटा में 'स्टूडेंट्स इको' प्रदर्शन में शामिल होने का आग्रह किया है। उन्होंने परीक्षा पेपर लीक, रद्द परीक्षाओं और भर्ती में देरी के कारण युवाओं के भविष्य पर सरकार की नीतियों को जिम्मेदार ठहराया। कांग्रेस नेता राहुल गांधी ने सोमवार (15 जून 2026) को छात्रों और नौकरी की तैयारी कर रहे युवाओं से 17 जून को राजस्थान के कोटा में होने वाले स्टूडेंट्स इको (छात्रों की गूंज) प्रदर्शन में शामिल होने की अपील की है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "यूएस-ईरान डील पर लेबनान को लेकर ऐसा क्या बोले शहबाज शरीफ, इजरायल की हो गई आंखें लाल",
-      "url": "https://www.abplive.com/news/world/iran-us-deal-pakistan-shehbaz-sharif-claim-benjamin-netanyahu-isreal-attack-on-lebanon-donald-trump-3145645",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-15T14:00:32+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/15/707ae4393bd781c66942edbfc024505f1781525336244708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने कहा कि उनका देश स्विट्जरलैंड में अमेरिका-ईरान शांति समझौते के समारोह की मेजबानी करेगा। इस समझौते से स्ट्रेट ऑफ होर्मुज और वैश्विक ऊर्जा आपूर्ति सामान्य होने की उम्मीद है। पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने सोमवार (15 जून 2026) को कहा कि उनका देश स्विट्जरलैंड में अमेरिका और ईरान के बीच शांति समझौते पर हस्ताक्षर के लिए आयोजित किये जाने वाले समारोह की मेजबानी करेगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूएस-ईरान डील पर लेबनान को लेकर ऐसा क्या बोले शहबाज शरीफ, इजरायल की हो गई आंखें लाल",
-          "summary": "पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने कहा कि उनका देश स्विट्जरलैंड में अमेरिका-ईरान शांति समझौते के समारोह की मेजबानी करेगा। इस समझौते से स्ट्रेट ऑफ होर्मुज और वैश्विक ऊर्जा आपूर्ति सामान्य होने की उम्मीद है। पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने सोमवार (15 जून 2026) को कहा कि उनका देश स्विट्जरलैंड में अमेरिका और ईरान के बीच शांति समझौते पर हस्ताक्षर के लिए आयोजित किये जाने वाले समारोह की मेजबानी करेगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ये पाकिस्तान पुलिस है या घनचक्‍कर... बदमाशों की जगह ऑस्‍ट्रेलियाई बच्‍ची को मारी गोली, पिता की हालत",
-      "url": "https://hindi.news18.com/world/pakistan-pakistani-police-kill-australian-girl-hania-ahmed-in-chakwal-shooting-blunder-pm-albanese-demands-fair-probe-10573267.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-15T13:37:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Pakistan-Police-Firing-2026-06-3325e2d7811379157652a26e0f03368b-1200x800.jpg",
-      "summary": "पाकिस्तान के चकवाल में पंजाब पुलिस के एलीट कमांडो ने एक ऑस्ट्रेलियाई-पाकिस्तानी परिवार पर अंधाधुंध Australia Girl Shooting by Pakistan Police: पाकिस्तान के चकवाल में पंजाब पुलिस के एलीट कमांडोज ने लुटेरा समझकर एक ऑस्ट्रेलियाई-पाकिस्तानी परिवार पर अंधाधुंध गोलियां बरसा दीं. इस दर्दनाक हादसे में पर्थ की रहने वाली 9 वर्षीय मासूम बच्ची हानिया अहमद की मौत हो गई, जबकि उसके पिता और भाई गंभीर रूप से घायल हो गए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ये पाकिस्तान पुलिस है या घनचक्‍कर... बदमाशों की जगह ऑस्‍ट्रेलियाई बच्‍ची को मारी गोली, पिता की हालत",
-          "summary": "पाकिस्तान के चकवाल में पंजाब पुलिस के एलीट कमांडो ने एक ऑस्ट्रेलियाई-पाकिस्तानी परिवार पर अंधाधुंध Australia Girl Shooting by Pakistan Police: पाकिस्तान के चकवाल में पंजाब पुलिस के एलीट कमांडोज ने लुटेरा समझकर एक ऑस्ट्रेलियाई-पाकिस्तानी परिवार पर अंधाधुंध गोलियां बरसा दीं. इस दर्दनाक हादसे में पर्थ की रहने वाली 9 वर्षीय मासूम बच्ची हानिया अहमद की मौत हो गई, जबकि उसके पिता और भाई गंभीर रूप से घायल हो गए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ड्रेगन की नब्ज पर होगा अब इंडियन आर्मी का पहरा, भारत ने की घेराबंदी तो डर गया चीन",
-      "url": "https://hindi.news18.com/world/china-great-nicobar-island-indian-devolopment-challenge-for-china-strait-of-malacca-10572961.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-15T13:20:57+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Great-Nicobar-Mega-Project-2026-05-2bd198952e3788269c57c2427c146bea-1200x800.jpg",
-      "summary": "भारत ग्रेट निकोबार द्वीप पर गलाथिया खाड़ी में एक गहरे पानी का समुद्री बंदरगाह बना रहा है. ग्रेट निकोबार भारत का सबसे दक्षिणी द्वीप है. भारत इस द्वीप के दक्षिणी गलाथिया खाड़ी में एक बड़ा गहरे पानी का समुद्री बंदरगाह भी बना रहा है. इससे भारत चीन में सप्लाई चेन को नियंत्रित में सक्षम बन पाएगा. ड्रेगन की नब्ज पर होगा अब इंडियन आर्मी का पहरा, भारत ने की घेराबंदी तो डर गया चीन।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ड्रेगन की नब्ज पर होगा अब इंडियन आर्मी का पहरा, भारत ने की घेराबंदी तो डर गया चीन",
-          "summary": "भारत ग्रेट निकोबार द्वीप पर गलाथिया खाड़ी में एक गहरे पानी का समुद्री बंदरगाह बना रहा है. ग्रेट निकोबार भारत का सबसे दक्षिणी द्वीप है. भारत इस द्वीप के दक्षिणी गलाथिया खाड़ी में एक बड़ा गहरे पानी का समुद्री बंदरगाह भी बना रहा है. इससे भारत चीन में सप्लाई चेन को नियंत्रित में सक्षम बन पाएगा. ड्रेगन की नब्ज पर होगा अब इंडियन आर्मी का पहरा, भारत ने की घेराबंदी तो डर गया चीन।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘कई बिंदुओं को अंतिम रूप दिया जाना बाकी’, US-ईरान समझौते पर साइन होने से पहले जेडी वेंस का बड़ा बयान",
-      "url": "https://www.abplive.com/news/world/vice-president-jd-vance-says-lots-of-details-still-to-sort-out-after-trump-announces-mou-to-sign-with-iran-3145681",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-15T13:18:27+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/15/6ce2028f76529e2003c3671eb234baea17815293707831126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने कहा कि अमेरिका और ईरान के बीच शांति समझौते पर हस्ताक्षर से पहले कई बिंदुओं को अंतिम रूप दिया जाना बाकी है। राष्ट्रपति ट्रंप ने घोषणा की थी कि समझौता 19 जून को होगा। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने सोमवार (15 जून, 2026) को पश्चिम एशिया में ईरान के साथ जारी संघर्ष के खत्म करने और पूर्ण शांति बहाल करने के लिए होने वाले समझौते की घोषणा कर दी है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘कई बिंदुओं को अंतिम रूप दिया जाना बाकी’, US-ईरान समझौते पर साइन होने से पहले जेडी वेंस का बड़ा बयान",
-          "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने कहा कि अमेरिका और ईरान के बीच शांति समझौते पर हस्ताक्षर से पहले कई बिंदुओं को अंतिम रूप दिया जाना बाकी है। राष्ट्रपति ट्रंप ने घोषणा की थी कि समझौता 19 जून को होगा। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने सोमवार (15 जून, 2026) को पश्चिम एशिया में ईरान के साथ जारी संघर्ष के खत्म करने और पूर्ण शांति बहाल करने के लिए होने वाले समझौते की घोषणा कर दी है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कभी था सागर, आज बना रेगिस्तान, सिर्फ 30 साल में ऐसा क्या हुआ की जहाज की जगह दौड़ने लगे ऊंठ?",
-      "url": "https://hindi.news18.com/world/rest-of-world-aral-sea-dried-up-in-thirty-years-what-happen-in-world-s-fourth-largest-inland-sea-photogallery-10573223.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-15T13:17:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/aral-Sea-2026-06-20b8b5dfa590b5fa0be634d6f65eee45-1200x800.jpg",
-      "summary": "अरल सागर, जो कभी दुनिया का चौथा सबसे बड़ा सागर था, अब रेगिस्तान में बदल गया है। अरल सागर को दुनिया की चौथा सबसे बड़ा सागर होने का गौरव हासिल था. दूर पहाड़ों से निकलने वाली दो ताकतवर नदियाँ सिर दरिया और आमू दरिया काइज़िलकुम रेगिस्तान को चीरती हुई आती थीं. इस विशाल बेसिन को पानी से लबालब भर देती थीं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कभी था सागर, आज बना रेगिस्तान, सिर्फ 30 साल में ऐसा क्या हुआ की जहाज की जगह दौड़ने लगे ऊंठ?",
-          "summary": "अरल सागर, जो कभी दुनिया का चौथा सबसे बड़ा सागर था, अब रेगिस्तान में बदल गया है। अरल सागर को दुनिया की चौथा सबसे बड़ा सागर होने का गौरव हासिल था. दूर पहाड़ों से निकलने वाली दो ताकतवर नदियाँ सिर दरिया और आमू दरिया काइज़िलकुम रेगिस्तान को चीरती हुई आती थीं. इस विशाल बेसिन को पानी से लबालब भर देती थीं.",
           "region": "दुनिया"
         }
       }
