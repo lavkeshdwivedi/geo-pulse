@@ -1,45 +1,129 @@
 {
-  "generated_at": "2026-06-15T05:54:54.979797+00:00",
+  "generated_at": "2026-06-15T08:10:53.261513+00:00",
   "article_count": 50,
-  "total_unique_count": 269,
+  "total_unique_count": 271,
   "digest": {
-    "en": "Russian strikes killed nine people across Ukraine, with a fire breaking out at a religious landmark in Kyiv. The attacks occurred hours after a call between US President Trump and Russian President Putin. Geneva police clashed with anti-G7 protesters ahead of a summit.",
-    "hi": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने पीएम मोदी के साथ अपनी मुलाकात का एक वीडियो साझा किया। वीडियो में धुरंधर का एक गाना बज रहा था। इस बीच, अमेरिका में एक विमान दुर्घटना में 12 लोगों की मौत हो गई।"
+    "en": "The Middle East remains the focal point with ongoing Israeli actions in Lebanon, Syria, and Gaza. Counter-drone technology is seeing increased traction in Europe. Taiwan is actively collecting intelligence on China.",
+    "hi": "ईरान-अमेरिका के बीच सुलह की खबर प्रमुखता से छाई है। पाकिस्तान की मध्यस्थता और भारत का स्वागत इस घटनाक्रम को और जटिल बनाता है। लेबनान पर बमबारी जारी रहने से क्षेत्र में तनाव बना हुआ है।"
   },
   "articles": [
     {
-      "title": "Russian strikes kill nine across Ukraine as fire breaks out at religious landmark in Kyiv",
-      "url": "https://news.sky.com/story/russian-strikes-kill-nine-across-ukraine-as-fire-breaks-out-at-centuries-old-religious-landmark-in-kyiv-13554181",
-      "source": "Sky News World",
+      "title": "Defence Minister says Israel won’t withdraw from land seized in Lebanon, Syria, Gaza",
+      "url": "https://www.thehindu.com/news/international/defence-minister-says-israel-wont-withdraw-from-land-seized-in-lebanon-syria-gaza/article71104004.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-06-15T03:51:00+00:00",
-      "image_url": "https://e3.365dm.com/26/06/1920x1080/skynews-dormition-cathedral_7273677.jpg?20260615053931",
-      "summary": "Russian strikes killed nine people across Ukraine. Five rescue workers died in Kharkiv. Four people were killed in Kyiv. Apartment buildings caught fire. A blaze also broke out at a significant religious landmark in Kyiv. A large-scale Russian attack on Ukraine has killed five rescue workers in Kharkiv and four people in Kyiv, as strikes set apartment buildings ablaze and sparked a fire at one of the country's most significant religious landmarks.",
+      "published_at": "2026-06-15T07:44:44+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/13yo6p/article71104044.ece/alternates/LANDSCAPE_1200/2025-11-12T093217Z_1670170881_RC290BAFE67R_RTRMADP_3_ISRAEL-PALESTINIANS-ARMY-RADIO.JPG",
+      "summary": "Israel's Defence Minister stated the country will remain indefinitely in occupied territories in Lebanon, Syria, and Gaza. Iran linked an interim war deal to Israel halting attacks on Hezbollah. Katz said Israel plans to stay “indefinitely” in lands it holds in Lebanon, as well as Syria and the Gaza Strip; Iran has tied the interim deal over the war to halting Israel's attacks on Hezbollah in Lebanon.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal",
+      "url": "https://www.thehindu.com/news/international/trump-warns-israel-and-iran-not-to-blow-it-after-new-strikes-threaten-emerging-ceasefire-deal/article71102137.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-15T07:39:23+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/t757fp/article71102169.ece/alternates/LANDSCAPE_1200/2026-06-03T160104Z_1722566967_RC2KQIAFVKD7_RTRMADP_3_IRAN-CRISIS-ISRAEL-TRUMP.JPG",
+      "summary": "Former President Trump warned Israel and Iran against jeopardizing a potential ceasefire deal. He urged Prime Minister Netanyahu to cease strikes on Lebanon as a deal neared completion. Trump, who had said the deal could be signed on Sunday (June 14, 2026), has pressed Israeli Prime Minister Benjamin Netanyahu to stop hitting Lebanon hard while a deal is near, but the prime minister has defied him.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Maps, data and the story so far",
+      "url": "https://www.thehindu.com/news/international/us-iran-war-100-days-in-graphics/article71097018.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-15T07:28:03+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/tkoeu8/article71096855.ece/alternates/LANDSCAPE_1200/2026-06-10T024127Z_77615091_RC2EQLA9KW4C_RTRMADP_3_IRAN-CRISIS-SYRIA-ROCKET.JPG",
+      "summary": "The U. S.-Iran war, which passed 100 days on June 7, appears to have concluded. Both nations agreed to a peace deal on June 14. After crossing the 100-day mark on June 7, the U. S.-Iran war has seemingly come to an end with both the countries agreeing to a peace deal on June 14. Here are graphics tracking the event. Maps, data and the story so far.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israeli far-right Minister Ben Gvir slams U.S.-Iran deal, urges stronger campaign in Lebanon",
+      "url": "https://www.thehindu.com/news/international/israeli-far-right-minister-ben-gvir-slams-us-iran-deal-urges-stronger-campaign-in-lebanon/article71103856.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-15T07:10:08+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/3c2pmg/article71103893.ece/alternates/LANDSCAPE_1200/2026-05-23T124517Z_308677747_RC2IPKA80XHM_RTRMADP_3_ISRAEL-PALESTINIANS-FRANCE.JPG",
+      "summary": "Israeli Minister Ben Gvir criticized the U. S.-Iran deal, stating it does not secure Israel's safety. He asserted that the agreement does not bind Israel and called for intensified action in Lebanon. \"Trump's agreement does not bind us we are not party to this agreement. It does not safeguard our security,\" Ben Gvir said on his Telegram channel, in what was the first reaction from an Israeli official to the deal.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Counter-drone tech is gaining major traction",
+      "url": "https://asiatimes.com/2026/06/counter-drone-tech-is-gaining-major-traction/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-06-15T06:42:46+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/Ukraine-Sting-Counter-Drone-Tech.jpg",
+      "summary": "Counter-drone technology is seeing increased adoption. Drones are potent weapons capable of deep strikes, used by Ukraine against Russian strategic targets and infrastructure. Drones have not only become a potent battlefield weapon, but they also have deep strike capability. Ukraine has used them to stymie Russia on the battlefield and to destroy high-value targets on Russian territory, including critical infrastructure and important military installations.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Russian Air Strikes Kill Nine Across Ukraine Hours After Trump-Putin Call",
+      "title": "Deadly strikes on Ukraine leave Kyiv cathedral in flames",
+      "url": "https://www.thehindu.com/news/international/deadly-strikes-on-ukraine-leave-kyiv-cathedral-in-flames/article71103624.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-15T06:22:03+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/37ma73/article71103702.ece/alternates/LANDSCAPE_1200/APTOPIX_Russia_Ukraine_War_29657.jpg",
+      "summary": "Russian strikes hit Kyiv, damaging the historic St. Volodymyr's Cathedral. The attack occurred amid Ukraine's increased aerial assaults on Russian oil facilities. This exchange of strikes follows near-daily Russian attacks on Ukrainian cities. Amid near-daily pummelling of its cities by Russian drones and missiles, Ukraine has in recent weeks stepped up its own aerial attacks, which it says mostly target Russia's oil infrastructure to sap its profits that.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Police mistakenly shoot, kill Australian child in Pakistan",
+      "url": "https://www.channelnewsasia.com/asia/pakistan-police-shoot-kill-australian-child-6183906",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-15T06:13:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Mkf0uxrr--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-08-14t052147z_1_lynxmpel7d04q_rtroptp_3_pakistan-independenceday.jpg?itok=M0CC4egi",
+      "summary": "Police in Pakistan's Punjab province mistakenly shot and killed a child. Officers were responding to a robbery and exchanged fire with suspects holding a family at gunpoint. The child was reportedly in the car with the family. Police in Pakistan's most populous eastern province, Punjab, said that officers responding to a robbery exchanged fire with the suspects who were holding the passengers of a family's car at gunpoint on Wednesday (Jun 10).",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Taiwan launches website to collect intelligence on China",
+      "url": "https://www.thehindu.com/news/international/taiwan-launches-website-to-collect-intelligence-on-china/article71103698.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-15T06:08:17+00:00",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "summary": "Taiwan's National Security Bureau launched a website to collect intelligence on China. The platform uses an AI-generated video depicting a tense atmosphere under China's totalitarian regime. This initiative aims to gather information on Chinese activities. Taiwan’s National Security Bureau introduced the platform with a one-minute AI-generated video showing a Chinese civil servant witnessing colleagues being removed and investigated, “reflecting a pervasive atmosphere that everyone is on edge under China’s totalitarian regime”, it said in a statement.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Broadway legend Lea Salonga praised by BTS fans for her down-to-earth nature at Busan concert",
+      "url": "https://www.channelnewsasia.com/entertainment/lea-salonga-bts-busan-arirang-concert-6183791",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-15T06:02:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--m93yqaQn--/c_crop,h_900,w_1600,x_0,y_300/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/15/lea_salonga_bts_concert_busan.jpg?itok=YXIagv2T",
+      "summary": "Broadway star Lea Salonga attended BTS's Busan concert. Fans praised Salonga for her down-to-earth interactions at the event. The K-pop group held the Busan leg of their Arirang world tour on June 12 and 13. K-pop superstars BTS staged the Busan leg of their Arirang world tour on Jun 12 and 13, with Broadway legend Lea Salonga among the many fans in attendance.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iconic Kyiv Cathedral Set Ablaze In Deadly Russian Strikes On Ukraine, Hours After Trump-Putin Call",
       "url": "https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-kyiv-lavra/33780576.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-06-15T03:46:06+00:00",
-      "image_url": "https://gdb.rferl.org/8d968dad-e611-4851-bc24-28a2e6d1f287_cx0_cy9_cw0_w1200_h630.jpg",
+      "image_url": "https://gdb.rferl.org/840721c1-4949-481e-1776-08debadc4af7_tv_w1200_h630.jpg",
       "summary": "Russian air strikes killed nine people across Ukraine. The strikes hit Kyiv, Kharkiv, and other regions. This occurred hours after U. S. President Donald Trump spoke with Russian President Vladimir Putin. Trump told Putin he wanted to help end the war. At least nine people were killed throughout Ukraine following Russian air strikes on Kyiv, Kharkiv, and other areas hours after US President Donald Trump spoke by phone to Kremlin leader Vladimir Putin and told him he wanted to help end the war.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump celebrates 80th birthday with Iran deal and UFC cage fight at White House",
-      "url": "https://www.thehindu.com/news/international/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-at-white-house/article71103305.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-15T03:09:14+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/725qpc/article71103329.ece/alternates/LANDSCAPE_1200/UFC_Freedom_25__Trump_99231.jpg",
-      "summary": "Donald Trump celebrated his 80th birthday at the White House. Donald Trump and UFC chief Dana White walked together from the Oval Office to the Blue Room Balcony to survey the Octagon and stood for the National Anthem as fighter jets thundered overhead. The crowd chanted “USA! USA!”. Trump celebrates 80th birthday with Iran deal and UFC cage fight at White House.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -224,301 +308,325 @@
       "translations": {}
     },
     {
-      "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167715",
-      "source": "UN News",
+      "title": "अमेरिका-ईरान में सुलह कराकर पाकिस्तान ने किया खेल, दलाली के बदले ट्रंप से मिल सकता है इनाम, होगा",
+      "url": "https://hindi.news18.com/world/pakistan-us-iran-peace-deal-pakistan-gas-pipeline-biggest-benefit-possible-shehbaz-sharif-asim-munir-trump-10572007.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-12T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/09-04-2026_UNP_SC_UNMIK.jpg/image770x420cropped.jpg",
-      "summary": "The UN Security Council met to discuss the future of the mechanism handling the final tasks of the Rwanda and Yugoslavia war crimes tribunals. Members debated how to preserve the mechanism's legacy while ensuring an orderly closure of its mandate. The council considered options for continuing its work. The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remaining work of the international tribunals for Rwanda and the former Yugoslavia, as members debated how to preserve its legacy while bringing its mandate to an orderly close.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll as funding falls",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167708",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-12T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/12-06-2026_Yemen-UNFPA.JPG/image770x420cropped.jpg",
-      "summary": "Yemen’s humanitarian crisis affects 22 million people. Women and girls make up half of those needing aid. Two-thirds of these women are of childbearing age. Reproductive health services are central to the emergency response. Funding shortfalls are exacerbating the situation. Yemen remains gripped by one of the world’s worst humanitarian crises, with 22 million – out of a population of 35 million – requiring assistance.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘Perilous moment’ threatens to reverse years of gains in HIV/AIDS response",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167710",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-12T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-02-2025-WHO-Pakistan.jpg/image770x420cropped.jpg",
-      "summary": "A UN report warned that external funding cuts and a backlash against human rights threaten to reverse years External funding cuts, a backlash against human rights, and chronic under-investment in HIV prevention and community services are threatening to reverse years of hard-won progress in the AIDS response, a UN report warned on Friday. ‘Perilous moment’ threatens to reverse years of gains in HIV/AIDS response.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "WHO report shows progress in blood safety, but there are worrying gaps",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167703",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-12T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/12-06-2025_Blood_Donor.jpg/image770x420cropped.jpg",
-      "summary": "A new World Health Organization report indicates progress in global blood safety. However, access to life-saving blood remains deeply unequal worldwide. Lower-income countries continue to face significant shortages, which puts lives at risk despite decades of effort. Every day, safe blood helps save the lives of women experiencing childbirth complications, accident victims, cancer patients and people living with chronic diseases.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ebola spreads as agencies brace for child victims",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167702",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-12T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/05-06-2026-WHO-DR-Congo-ebola-02.jpg/image770x420cropped.jpg",
-      "summary": "The Ebola outbreak in the Democratic Republic of the Congo is spreading. United Nations agencies warned on Friday that a spike in child infections is increasingly likely. The outbreak began in eastern Congo. The deadly Ebola outbreak in eastern Democratic Republic of the Congo (DRC) is continuing to spread with a spike in child infections an increasingly likely scenario in the days ahead, UN agencies said on Friday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China arrests US academic at conference for ‘espionage activities’",
-      "url": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-12T10:27:08+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/19dd7d5e40dd3a59eb2fb7591f08b6e2cdf016c9/1067_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25f12cd0007513bb005318ac15f2445d",
-      "summary": "China arrested US scholar Min Zin at a conference. Arrest of Min Zin, who writes about Myanmar and Chinese foreign policy, comes just month after Trump visit to BeijingChina has arrested a US scholar who writes about Myanmar and Chinese foreign policy on suspicion of spying. Min Zin was suspected of “engaging in espionage activities that endanger China’s national security,” China’s ministry of foreign affairs spokesperson, Lin Jian, said on Friday.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims",
-      "url": "https://www.theguardian.com/world/2026/jun/12/china-spy-turtles-spy-fish-monitor-waters-claims",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-12T07:27:00+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/e03fff08087b75b8ffb68f85b25d520d04019d91/507_0_3413_2731/master/3413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c91ebb6d95ccf993f165bfc85633123",
-      "summary": "China's Ministry of State Security claimed foreign agencies deploy \"spy turtles\" and \" Ministry says animals fitted with sensors by foreign agencies collect sensitive sea data, in ‘invisible secret war’China’s ministry of state security has claimed that foreign espionage and intelligence agencies are using innovative new methods to monitor the country’s waters, including deploying “spy” animals fitted with sensors. In a post on the Chinese platform WeChat on Friday, the ministry warn.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "मैक्रों ने शेयर किया पीएम मोदी से मुलाकात का वीडियो, बैकग्राउंड में बज रहा था धुरंधर का ये गाना",
-      "url": "https://www.amarujala.com/world/french-president-emmanuel-macron-highlights-talks-with-pm-modi-with-dhurandhar-song-aari-aari-video-2026-06-15",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-15T07:15:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/pm-modi-macron_7bc92d4c8829a7cf9dcd1ac1877d8b80.jpeg?w=750&dpr=1.0",
-      "summary": "फ्रांसीसी राष्ट्रपति इमैनुएल मैक्रों ने प्रधानमंत्री मोदी के साथ अपनी मुलाकात का एक वीडियो साझा किया। वीडियो में बैकग्राउंड में धुरंधर का गाना \"आरी आरी\" बज रहा था। यह मुलाकात भारत और फ्रांस के बीच द्विपक्षीय संबंधों को दर्शाती है। मैक्रों ने शेयर किया पीएम मोदी से मुलाकात का वीडियो, बैकग्राउंड में बज रहा था धुरंधर का ये गाना।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मैक्रों ने शेयर किया पीएम मोदी से मुलाकात का वीडियो, बैकग्राउंड में बज रहा था धुरंधर का ये गाना",
-          "summary": "फ्रांसीसी राष्ट्रपति इमैनुएल मैक्रों ने प्रधानमंत्री मोदी के साथ अपनी मुलाकात का एक वीडियो साझा किया। वीडियो में बैकग्राउंड में धुरंधर का गाना \"आरी आरी\" बज रहा था। यह मुलाकात भारत और फ्रांस के बीच द्विपक्षीय संबंधों को दर्शाती है। मैक्रों ने शेयर किया पीएम मोदी से मुलाकात का वीडियो, बैकग्राउंड में बज रहा था धुरंधर का ये गाना।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में क्रैश हुआ विमान, हादसे में 12 की मौत; स्काईडाइविंग के लिए ले जा रहा था यात्री",
-      "url": "https://www.amarujala.com/world/aircraft-crashed-in-us-state-of-missouri-12-passengers-were-reported-killed-2026-06-15",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-15T06:43:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/accident_b1a85053a2305a20b525c6a348483dde.jpeg?w=750&dpr=1.0",
-      "summary": "अमेरिका के मिसौरी में एक विमान दुर्घटनाग्रस्त हो गया। इस हादसे में 12 लोगों की मौत हो गई। विमान स्काईडाइविंग के लिए यात्रियों को ले जा रहा था। दुर्घटना के कारणों की जांच की जा रही है। अमेरिका में क्रैश हुआ विमान, हादसे में 12 की मौत; स्काईडाइविंग के लिए ले जा रहा था यात्री।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में क्रैश हुआ विमान, हादसे में 12 की मौत; स्काईडाइविंग के लिए ले जा रहा था यात्री",
-          "summary": "अमेरिका के मिसौरी में एक विमान दुर्घटनाग्रस्त हो गया। इस हादसे में 12 लोगों की मौत हो गई। विमान स्काईडाइविंग के लिए यात्रियों को ले जा रहा था। दुर्घटना के कारणों की जांच की जा रही है। अमेरिका में क्रैश हुआ विमान, हादसे में 12 की मौत; स्काईडाइविंग के लिए ले जा रहा था यात्री।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "‘मुझे वो बिल्कुल पसंद नहीं’, ओरी ने फिर साधा ध्रुव राठी पर निशाना, यूट्यूबर को बताया ‘एंटी-नेशनल’",
-      "url": "https://www.amarujala.com/entertainment/i-dont-like-him-at-all-ori-takes-another-dig-at-dhruv-rathee-calling-the-youtuber-anti-national-2026-06-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-15T05:45:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/ora-oura-thharava-ratha_f3a57a9fa887cdfab32807119c3f964f.jpeg?w=750&dpr=1.0",
-      "summary": "सोशल मीडिया पर्सनालिटी ओरहान अवात्रमानी, जिन्हें ओरी के नाम से जाना जाता है, ने यूट्यूबर सोशल मीडिया पर्सनालिटी ओरहान अवात्रमानी, जिन्हें लोग ओरी के नाम से जानते हैं, एक बार फिर यूट्यूबर और पॉलिटिकल कमेंटेटर ध्रुव राठी पर भड़कते नजर आए। जानिए उन्होंने क्या कुछ कहा। ‘मुझे वो बिल्कुल पसंद नहीं’, ओरी ने फिर साधा ध्रुव राठी पर निशाना, यूट्यूबर को बताया ‘एंटी-नेशनल’।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘मुझे वो बिल्कुल पसंद नहीं’, ओरी ने फिर साधा ध्रुव राठी पर निशाना, यूट्यूबर को बताया ‘एंटी-नेशनल’",
-          "summary": "सोशल मीडिया पर्सनालिटी ओरहान अवात्रमानी, जिन्हें ओरी के नाम से जाना जाता है, ने यूट्यूबर सोशल मीडिया पर्सनालिटी ओरहान अवात्रमानी, जिन्हें लोग ओरी के नाम से जानते हैं, एक बार फिर यूट्यूबर और पॉलिटिकल कमेंटेटर ध्रुव राठी पर भड़कते नजर आए। जानिए उन्होंने क्या कुछ कहा। ‘मुझे वो बिल्कुल पसंद नहीं’, ओरी ने फिर साधा ध्रुव राठी पर निशाना, यूट्यूबर को बताया ‘एंटी-नेशनल’।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'उनके पास आत्मसमर्पण के अलावा कोई विकल्प नहीं था', डील साइन से पहले ईरानी सेना का बयान",
-      "url": "https://www.amarujala.com/live/world/west-asia-live-updates-america-iran-ceasefire-strait-of-hormuz-peace-talks-trump-israel-lebanon-news-in-hindi-2026-06-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-15T05:44:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/12/us-iran-war_20b220cfbfa9ac73f8442a1db5b31793.jpeg?w=750&dpr=1.0",
-      "summary": "ईरान ने अमेरिका के साथ शांति समझौते पर हस्ताक्षर करने से पहले कहा कि उसके पास आत्मसमर्पण के अलावा कोई विकल्प नहीं था। यह बयान पश्चिम एशिया संकट के अंत का संकेत देता है। जेडी वेंस इस समारोह में शामिल हो सकते हैं। West Asia Crisis LIVE: पश्चिम एशिया संकट खत्म, US-ईरान शांति समझौता तय; जेडी वेंस समारोह में हो सकते हैं शामिल।",
+      "published_at": "2026-06-15T08:00:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/pakistan-hd-2026-06-81d94c91861e4a0bef39fa4458bf000d-1200x800.jpg",
+      "summary": "पाकिस्तान ने अमेरिका और ईरान के बीच शांति समझौते में मध्यस्थता की। इस भूमिका के बदले पाकिस्तान को ईरान-पाकिस्तान गैस पाइपलाइन परियोजना पर लगे अमेरिकी प्रतिबंधों में ढील मिलने की उम्मीद है। यह परियोजना वर्षों से रुकी हुई थी। Iran Pakistan Deal News: अमेरिका और ईरान के बीच शांति समझौता तय हो गया है. इसका सबसे बड़ा कूटनीतिक फायदा पाकिस्तान को मिल सकता है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'उनके पास आत्मसमर्पण के अलावा कोई विकल्प नहीं था', डील साइन से पहले ईरानी सेना का बयान",
-          "summary": "ईरान ने अमेरिका के साथ शांति समझौते पर हस्ताक्षर करने से पहले कहा कि उसके पास आत्मसमर्पण के अलावा कोई विकल्प नहीं था। यह बयान पश्चिम एशिया संकट के अंत का संकेत देता है। जेडी वेंस इस समारोह में शामिल हो सकते हैं। West Asia Crisis LIVE: पश्चिम एशिया संकट खत्म, US-ईरान शांति समझौता तय; जेडी वेंस समारोह में हो सकते हैं शामिल।",
+          "title": "अमेरिका-ईरान में सुलह कराकर पाकिस्तान ने किया खेल, दलाली के बदले ट्रंप से मिल सकता है इनाम, होगा",
+          "summary": "पाकिस्तान ने अमेरिका और ईरान के बीच शांति समझौते में मध्यस्थता की। इस भूमिका के बदले पाकिस्तान को ईरान-पाकिस्तान गैस पाइपलाइन परियोजना पर लगे अमेरिकी प्रतिबंधों में ढील मिलने की उम्मीद है। यह परियोजना वर्षों से रुकी हुई थी। Iran Pakistan Deal News: अमेरिका और ईरान के बीच शांति समझौता तय हो गया है. इसका सबसे बड़ा कूटनीतिक फायदा पाकिस्तान को मिल सकता है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "मोहन भागवत के कार्यक्रम में पहुंचे कुलपति, केरल में छिड़ा सियासी संग्राम; भाजपा और यूडीएफ आमने-सामने",
-      "url": "https://www.amarujala.com/india-news/political-row-over-kerala-vcs-attending-bhagwat-function-escalates-into-bjp-udf-social-media-war-2026-06-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-15T05:40:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/aaraesaesa-ka-karayakarama-ma-kalpataya-ka-majathaga-para-sayasata-taja_194158ac4a741b04c095be1629d976fe.jpeg?w=750&dpr=1.0",
-      "summary": "राष्ट्रीय स्वयंसेवक संघ के प्रमुख मोहन भागवत के एक कार्यक्रम में केरल के एक विश्वविद्यालय के कुलपति की उपस्थिति ने राज्य में राजनीतिक विवाद खड़ा कर दिया है। भारतीय जनता पार्टी (भाजपा) ने कुलपति के कदम का समर्थन किया है। वहीं, विपक्षी यूनाइटेड डेमोक्रेटिक फ्रंट (यूडीएफ) ने इसकी कड़ी आलोचना की है। यह घटना केरल के राजनीतिक गलियारों में चर्चा का विषय बन गई है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मोहन भागवत के कार्यक्रम में पहुंचे कुलपति, केरल में छिड़ा सियासी संग्राम; भाजपा और यूडीएफ आमने-सामने",
-          "summary": "राष्ट्रीय स्वयंसेवक संघ के प्रमुख मोहन भागवत के एक कार्यक्रम में केरल के एक विश्वविद्यालय के कुलपति की उपस्थिति ने राज्य में राजनीतिक विवाद खड़ा कर दिया है। भारतीय जनता पार्टी (भाजपा) ने कुलपति के कदम का समर्थन किया है। वहीं, विपक्षी यूनाइटेड डेमोक्रेटिक फ्रंट (यूडीएफ) ने इसकी कड़ी आलोचना की है। यह घटना केरल के राजनीतिक गलियारों में चर्चा का विषय बन गई है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दो बच्चे होने के बाद सिंगर पेरी एडवर्ड्स ने की एलेक्स ऑक्सलेड से शादी, 10 साल साथ रहने के बाद लिया",
-      "url": "https://www.amarujala.com/entertainment/hollywood/perrie-edwards-marries-footballer-alex-oxlade-chamberlain-in-dreamy-wedding-in-portugal-2026-06-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-15T05:38:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/para-edavaradasa-elkasa-oikasalda-camabralna_dd3d68d997b00519d982064c111cd3f6.jpeg?w=750&dpr=1.0",
-      "summary": "पेरी एडवर्ड्स और एलेक्स ऑक्सलेड-चेम्बरलेन ने पुर्तगाल में शादी कर ली। यह जोड़ा दस साल तक साथ रहने के बाद विवाह बंधन में बंधा। उनके दो बच्चे हैं। सिंगर पेरी एडवर्ड्स और उनके फुटबॉलर बॉयफ्रेंड एलेक्स ऑक्सलेड-चेम्बरलेन ने लगभग एक दशक तक साथ रहने के बाद पुर्तगाल में शादी कर ली। दो बच्चे होने के बाद सिंगर पेरी एडवर्ड्स ने की एलेक्स ऑक्सलेड से शादी, 10 साल साथ रहने के बाद लिया।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दो बच्चे होने के बाद सिंगर पेरी एडवर्ड्स ने की एलेक्स ऑक्सलेड से शादी, 10 साल साथ रहने के बाद लिया",
-          "summary": "पेरी एडवर्ड्स और एलेक्स ऑक्सलेड-चेम्बरलेन ने पुर्तगाल में शादी कर ली। यह जोड़ा दस साल तक साथ रहने के बाद विवाह बंधन में बंधा। उनके दो बच्चे हैं। सिंगर पेरी एडवर्ड्स और उनके फुटबॉलर बॉयफ्रेंड एलेक्स ऑक्सलेड-चेम्बरलेन ने लगभग एक दशक तक साथ रहने के बाद पुर्तगाल में शादी कर ली। दो बच्चे होने के बाद सिंगर पेरी एडवर्ड्स ने की एलेक्स ऑक्सलेड से शादी, 10 साल साथ रहने के बाद लिया।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "रोटी-नमक और वंदे मातरम्... पीएम मोदी का स्लोवाकिया में जोरदार स्वागत, खोलेंगे दोस्ती के नए रास्ते",
+      "title": "अमेरिका-ईरान समझौते का पीएम मोदी ने किया स्वागत, स्लोवाकिया से भेजा संदेश",
       "url": "https://hindi.news18.com/world/europe-pm-narendra-modi-slovakia-visit-live-updates-bratislava-president-peter-pellegrini-and-prime-minister-robert-fico-meeting-livenews-10571057.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-15T05:36:01+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Modi-Slovakia-1-2026-06-a59ad23db7af57f1bc023c1156e33ac0-1200x800.jpg",
+      "published_at": "2026-06-15T07:56:58+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/PM-Modi-2026-06-2a22e8221bb4e98212e6afc3cbef53c7-1200x800.jpg",
       "summary": "प्रधानमंत्री नरेंद्र मोदी स्लोवाकिया की राजधानी ब्रातिस्लावा पहुंचे। स्लोवाकिया की आजादी के बाद यह किसी भारतीय प्रधानमंत्री की पहली आधिकारिक यात्रा है। यह यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। PM Modi Slovakia Visit Live Updates: प्रधानमंत्री नरेंद्र मोदी अपने दो देशों के दौरे के दूसरे चरण में रविवार रात स्लोवाकिया की राजधानी ब्रातिस्लावा पहुंच गए. प्रधानमंत्री मोदी अपनी इस यात्रा के दौरान राष्ट्रपति पीटर पेलेग्रिनी तथा प्रधानमंत्री रॉबर्ट।",
-      "region": "Europe & Russia",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रोटी-नमक और वंदे मातरम्... पीएम मोदी का स्लोवाकिया में जोरदार स्वागत, खोलेंगे दोस्ती के नए रास्ते",
+          "title": "अमेरिका-ईरान समझौते का पीएम मोदी ने किया स्वागत, स्लोवाकिया से भेजा संदेश",
           "summary": "प्रधानमंत्री नरेंद्र मोदी स्लोवाकिया की राजधानी ब्रातिस्लावा पहुंचे। स्लोवाकिया की आजादी के बाद यह किसी भारतीय प्रधानमंत्री की पहली आधिकारिक यात्रा है। यह यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। PM Modi Slovakia Visit Live Updates: प्रधानमंत्री नरेंद्र मोदी अपने दो देशों के दौरे के दूसरे चरण में रविवार रात स्लोवाकिया की राजधानी ब्रातिस्लावा पहुंच गए. प्रधानमंत्री मोदी अपनी इस यात्रा के दौरान राष्ट्रपति पीटर पेलेग्रिनी तथा प्रधानमंत्री रॉबर्ट।",
-          "region": "यूरोप और रूस"
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "एसबीआई में फ्रेशर्स के लिए 7150 नौकरियां; आवेदन करने की आज अंतिम तिथि",
-      "url": "https://www.amarujala.com/jobs/sbi-apprentice-recruitment-2026-last-date-check-vacancy-details-and-stipend-2026-06-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-15T05:32:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/07/deadline-last-date-atama-tatha_10f557b0b17178372db02ab8c1f2c5d0.jpeg?w=750&dpr=1.0",
-      "summary": "स्टेट बैंक ऑफ इंडिया आज 7,150 अप्रेंटिस पदों के लिए आवेदन प्रक्रिया बंद कर रहा है। स्नातक डिग्री वाले उम्मीदवार इन पदों के लिए आवेदन कर सकते हैं। यह भर्ती भारतीय स्टेट बैंक द्वारा आयोजित की जा रही है। SBI Apprentice Recruitment 2026: स्टेट बैंक ऑफ इंडिया (SBI) आज 7,150 अप्रेंटिस पदों पर चल रही आवेदन प्रक्रिया समाप्त करने वाला है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एसबीआई में फ्रेशर्स के लिए 7150 नौकरियां; आवेदन करने की आज अंतिम तिथि",
-          "summary": "स्टेट बैंक ऑफ इंडिया आज 7,150 अप्रेंटिस पदों के लिए आवेदन प्रक्रिया बंद कर रहा है। स्नातक डिग्री वाले उम्मीदवार इन पदों के लिए आवेदन कर सकते हैं। यह भर्ती भारतीय स्टेट बैंक द्वारा आयोजित की जा रही है। SBI Apprentice Recruitment 2026: स्टेट बैंक ऑफ इंडिया (SBI) आज 7,150 अप्रेंटिस पदों पर चल रही आवेदन प्रक्रिया समाप्त करने वाला है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'आखिरी एपिसोड देखकर बहुत डिस्टर्ब हो गया हूं'; करण जौहर ने अली फजल-सोनाली की सीरीज 'राख' पर दिया",
-      "url": "https://www.amarujala.com/entertainment/karan-johar-reaction-on-ali-fazal-sonali-bendre-web-series-raakh-says-i-am-deeply-disturbed-as-a-parent-2026-06-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-15T05:32:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/al-fajal-karanae-jahara_151927cd133d9807a29ceac214696cb4.jpeg?w=750&dpr=1.0",
-      "summary": "करण जौहर ने अली फजल और सोनाली बेंद्रे की सीरीज 'राख' देखकर परेशान हो गए। Karan Johar On Series Raakh: अली फजल और सोनाली बेंद्रे अभिनीत सीरीज 'राख' हाल ही में रिलीज हुई है। इस पर करण जौहर ने रिएक्शन दिया है। उनका कहना है कि सीरीज देखकर वे परेशान हो गए हैं। जानिए क्यों? 'आखिरी एपिसोड देखकर बहुत डिस्टर्ब हो गया हूं'; करण जौहर ने अली फजल-सोनाली की सीरीज 'राख' पर दिया।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'आखिरी एपिसोड देखकर बहुत डिस्टर्ब हो गया हूं'; करण जौहर ने अली फजल-सोनाली की सीरीज 'राख' पर दिया",
-          "summary": "करण जौहर ने अली फजल और सोनाली बेंद्रे की सीरीज 'राख' देखकर परेशान हो गए। Karan Johar On Series Raakh: अली फजल और सोनाली बेंद्रे अभिनीत सीरीज 'राख' हाल ही में रिलीज हुई है। इस पर करण जौहर ने रिएक्शन दिया है। उनका कहना है कि सीरीज देखकर वे परेशान हो गए हैं। जानिए क्यों? 'आखिरी एपिसोड देखकर बहुत डिस्टर्ब हो गया हूं'; करण जौहर ने अली फजल-सोनाली की सीरीज 'राख' पर दिया।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "डील के बाद ईरान को मिलने जा रही राहत, E-4 देश हटाएंगे प्रतिबंध",
+      "title": "अमेरिका-ईरान डील के ऐलान के बाद भी नहीं रुकी जंग, लेबनान पर फिर बरसे बम",
       "url": "https://hindi.news18.com/world/middle-east-iran-us-war-end-deal-done-will-finalize-in-geneva-donald-trump-birthday-hormuz-india-livenews-10570875.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-15T05:30:22+00:00",
+      "published_at": "2026-06-15T07:56:57+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iran-president-resign-2026-06-29ac9d91a164375a83ab81d9cba8239b-1200x800.jpg",
       "summary": "अमेरिका और ईरान के बीच शांति समझौते पर सहमति बन गई है। डोनाल्ड ट्रंप ने कहा कि होर्मुज जलडमरूमध्य टोल फ्री रहेगा और युद्ध समाप्त होगा। 19 जून को जिनेवा में हस्ताक्षर होने हैं। डोनाल्ड ट्रंप ने कहा कि होर्मुज जलडमरूमध्य हमेशा के लिए टोल फ्री रहेगा और सभी मोर्चों पर युद्ध खत्म होगा. वहीं ईरानी मीडिया में सामने आए मसौदे में 300 अरब डॉलर के पुनर्निर्माण पैकेज, 24 अरब डॉलर की फ्रीज संपत्ति की रिहाई और प्रतिबंध हटाने जैसी बड़ी शर्तों का जिक्र है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "डील के बाद ईरान को मिलने जा रही राहत, E-4 देश हटाएंगे प्रतिबंध",
+          "title": "अमेरिका-ईरान डील के ऐलान के बाद भी नहीं रुकी जंग, लेबनान पर फिर बरसे बम",
           "summary": "अमेरिका और ईरान के बीच शांति समझौते पर सहमति बन गई है। डोनाल्ड ट्रंप ने कहा कि होर्मुज जलडमरूमध्य टोल फ्री रहेगा और युद्ध समाप्त होगा। 19 जून को जिनेवा में हस्ताक्षर होने हैं। डोनाल्ड ट्रंप ने कहा कि होर्मुज जलडमरूमध्य हमेशा के लिए टोल फ्री रहेगा और सभी मोर्चों पर युद्ध खत्म होगा. वहीं ईरानी मीडिया में सामने आए मसौदे में 300 अरब डॉलर के पुनर्निर्माण पैकेज, 24 अरब डॉलर की फ्रीज संपत्ति की रिहाई और प्रतिबंध हटाने जैसी बड़ी शर्तों का जिक्र है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "ज्वालामुखी के किनारे कर रहा था स्टंट: एक गलती और खत्म हो गई जिंदगी; यमन के स्पाइडरमैन की जिंदगी का",
-      "url": "https://www.amarujala.com/world/social-media-star-antar-al-absi-yemen-spider-man-died-at-volcanic-lake-crater-accident-2026-06-15",
-      "source": "Amar Ujala National",
+      "title": "होर्मुज में भारत के कितने टैंकर फंसे हैं, कब तक पहुंचेंगे देश, इससे क्या LPG और पेट्रोल-डीजल के दाम",
+      "url": "https://hindi.news18.com/news/nation/how-many-lpg-oil-tankers-ships-stuck-around-strait-of-hormuz-when-reached-india-america-iran-peace-deal-10571726.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-15T05:28:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/yamana-ka-sapaidaramana-ka-mata_c773cfba5ee300781a5cccafe40d8e9f.jpeg?w=750&dpr=1.0",
-      "summary": "यमन के स्पाइडरमैन की ज्वालामुखी के किनारे स्टंट करते समय जिंदगी खत्म हो गई। ज्वालामुखी के किनारे कर रहा था स्टंट: एक गलती और खत्म हो गई जिंदगी; यमन के स्पाइडरमैन की जिंदगी का दर्दनाक अंत।",
+      "published_at": "2026-06-15T07:47:47+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/hormuz-india-ship-2026-06-2257d60ddb3616829e37e3fb7d4a3995-1200x800.jpg",
+      "summary": "अमेरिका और ईरान के बीच शांति समझौते के मसौदे पर सहमति बन गई है। यह समझौता होर्मुज जलडमरूमध्य को सभी जहाजों के लिए खोल देगा। इससे भारत के टैंकरों को भी सुरक्षित मार्ग मिलेगा। Hormuz Strait Indian Ships: ईरान जंग के खत्‍म होने की संभावना प्रबल हो गई हैं. अब जेनेवा में दोनों पक्षों की तरफ से इसपर औपचारिक हस्‍ताक्षर किए जाएंगे, जिसके बाद यह प्रभावी हो जाएगा.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ज्वालामुखी के किनारे कर रहा था स्टंट: एक गलती और खत्म हो गई जिंदगी; यमन के स्पाइडरमैन की जिंदगी का",
-          "summary": "यमन के स्पाइडरमैन की ज्वालामुखी के किनारे स्टंट करते समय जिंदगी खत्म हो गई। ज्वालामुखी के किनारे कर रहा था स्टंट: एक गलती और खत्म हो गई जिंदगी; यमन के स्पाइडरमैन की जिंदगी का दर्दनाक अंत।",
+          "title": "होर्मुज में भारत के कितने टैंकर फंसे हैं, कब तक पहुंचेंगे देश, इससे क्या LPG और पेट्रोल-डीजल के दाम",
+          "summary": "अमेरिका और ईरान के बीच शांति समझौते के मसौदे पर सहमति बन गई है। यह समझौता होर्मुज जलडमरूमध्य को सभी जहाजों के लिए खोल देगा। इससे भारत के टैंकरों को भी सुरक्षित मार्ग मिलेगा। Hormuz Strait Indian Ships: ईरान जंग के खत्‍म होने की संभावना प्रबल हो गई हैं. अब जेनेवा में दोनों पक्षों की तरफ से इसपर औपचारिक हस्‍ताक्षर किए जाएंगे, जिसके बाद यह प्रभावी हो जाएगा.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "भाजपा नेता के कत्ल पर बवाल: बैरागीवाला में दिनभर धधकी आक्रोश की ज्वाला, पथराव-तोड़फोड़ और आगजनी की",
-      "url": "https://www.amarujala.com/photo-gallery/dehradun/bairagiwala-erupts-in-protest-after-bjp-leader-murder-mob-sets-vehicles-and-damages-property-2026-06-15",
-      "source": "Amar Ujala Breaking",
+      "title": "बांग्‍लादेश में अब भगवान राम से वैर, मूर्ति ढहाने की धमकी से हिन्‍दुओं में दहशत, क्‍या लौट आए यूनुस",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-communal-group-threat-to-destroy-lord-sri-ramachandra-idol-in-palashbari-radha-gobinda-temple-10571926.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-15T05:26:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/bairagiwala-violence_8793e8f2008fd667c323a25063aab975.jpeg?w=750&dpr=1.0",
-      "summary": "देहरादून के बैरागीवाला में भाजपा नेता की हत्या के बाद आक्रोश फैल गया। देहरादून की सहसपुर कोतवाली क्षेत्र के बैरागीवाला गांव में भाजपा ओबीसी मोर्चा के जिला मीडिया प्रभारी विनोद कुमार की हत्या के बाद शनिवार रात भड़की आक्रोश की आग रविवार की सुबह और धधक उठी। भाजपा नेता के कत्ल पर बवाल: बैरागीवाला में दिनभर धधकी आक्रोश की ज्वाला, पथराव-तोड़फोड़ और आगजनी की।",
+      "published_at": "2026-06-15T07:42:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/ram-bangladesh-2026-06-433dc7188af59933fc95c1756cbfa465-1200x800.jpg",
+      "summary": "बांग्लादेश में भगवान राम की मूर्ति गिराने की धमकी से हिंदू समुदाय में दहशत है। यह स्थिति तब बनी है जब मोहम्मद यूनुस को अंतरिम सरकार का प्रमुख बनाया गया था। उनके शासनकाल में हिंदुओं पर अत्याचार की घटनाएं हुई थीं। Bangladesh News: बांग्‍लादेश में शेख हसीन की चुनी हुई सरकार को अपदस्‍थ करने के बाद मोहम्‍मद यूनुस को देश की कमान अंतरिम तौर पर सौंपी गई थी.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्‍लादेश में अब भगवान राम से वैर, मूर्ति ढहाने की धमकी से हिन्‍दुओं में दहशत, क्‍या लौट आए यूनुस",
+          "summary": "बांग्लादेश में भगवान राम की मूर्ति गिराने की धमकी से हिंदू समुदाय में दहशत है। यह स्थिति तब बनी है जब मोहम्मद यूनुस को अंतरिम सरकार का प्रमुख बनाया गया था। उनके शासनकाल में हिंदुओं पर अत्याचार की घटनाएं हुई थीं। Bangladesh News: बांग्‍लादेश में शेख हसीन की चुनी हुई सरकार को अपदस्‍थ करने के बाद मोहम्‍मद यूनुस को देश की कमान अंतरिम तौर पर सौंपी गई थी.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "गर्भवती महिलाओं के लिए लू से बचाव के जरूरी उपाय, डॉक्टरों ने दी चेतावनी",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/pregnancy-care-tips-during-heatwave-alert-pregnancy-me-apna-dhayan-kaise-rakhein-2026-06-15",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-15T07:27:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/pregnancy-care-tips_204a23862295caaf808752f51208bd24.jpeg?w=750&dpr=1.0",
+      "summary": "डॉक्टरों ने गर्भवती महिलाओं को लू से बचाव के उपाय अपनाने की चेतावनी दी है। गर्मी में डिहाइड्रेशन और हीट स्ट्रेस का खतरा बढ़ जाता है। इसलिए विशेष सावधानी बरतना आवश्यक है। Heatwave Alert: गर्मी में डिहाइड्रेशन और हीट स्ट्रेस का खतरा दोगुना हो जाता है, ऐसे में होने वाली माताओं को अतिरिक्त सावधानी बरतनी होगी। गर्भवती महिलाओं के लिए लू से बचाव के जरूरी उपाय, डॉक्टरों ने दी चेतावनी।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भाजपा नेता के कत्ल पर बवाल: बैरागीवाला में दिनभर धधकी आक्रोश की ज्वाला, पथराव-तोड़फोड़ और आगजनी की",
-          "summary": "देहरादून के बैरागीवाला में भाजपा नेता की हत्या के बाद आक्रोश फैल गया। देहरादून की सहसपुर कोतवाली क्षेत्र के बैरागीवाला गांव में भाजपा ओबीसी मोर्चा के जिला मीडिया प्रभारी विनोद कुमार की हत्या के बाद शनिवार रात भड़की आक्रोश की आग रविवार की सुबह और धधक उठी। भाजपा नेता के कत्ल पर बवाल: बैरागीवाला में दिनभर धधकी आक्रोश की ज्वाला, पथराव-तोड़फोड़ और आगजनी की।",
+          "title": "गर्भवती महिलाओं के लिए लू से बचाव के जरूरी उपाय, डॉक्टरों ने दी चेतावनी",
+          "summary": "डॉक्टरों ने गर्भवती महिलाओं को लू से बचाव के उपाय अपनाने की चेतावनी दी है। गर्मी में डिहाइड्रेशन और हीट स्ट्रेस का खतरा बढ़ जाता है। इसलिए विशेष सावधानी बरतना आवश्यक है। Heatwave Alert: गर्मी में डिहाइड्रेशन और हीट स्ट्रेस का खतरा दोगुना हो जाता है, ऐसे में होने वाली माताओं को अतिरिक्त सावधानी बरतनी होगी। गर्भवती महिलाओं के लिए लू से बचाव के जरूरी उपाय, डॉक्टरों ने दी चेतावनी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान डील पर ट्रंप को घेर रहे डेमोक्रेट्स, सांसद क्रिस मर्फी बोले- ये ‘सरेंडर’ जैसा समझौता",
+      "url": "https://www.amarujala.com/world/us-iran-peace-deal-democrats-corner-trump-over-the-iran-deal-calls-it-an-agreement-akin-to-a-surrender-2026-06-15",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-15T07:15:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/pashacama-eshaya-shata-samajhata_813fe098fe32f14e19a0238c06594e11.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिकी सांसद क्रिस मर्फी ने ईरान के साथ शांति समझौते को 'आत्मसमर्पण' जैसा बताया है। वह इस समझौते को लेकर राष्ट्रपति ट्रंप की आलोचना कर रहे हैं। डेमोक्रेट्स ट्रंप पर समझौते को लेकर दबाव बना रहे हैं। US-Iran Peace Deal: ईरान डील पर ट्रंप को घेर रहे डेमोक्रेट्स, सांसद क्रिस मर्फी बोले- ये ‘सरेंडर’ जैसा समझौता।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान डील पर ट्रंप को घेर रहे डेमोक्रेट्स, सांसद क्रिस मर्फी बोले- ये ‘सरेंडर’ जैसा समझौता",
+          "summary": "अमेरिकी सांसद क्रिस मर्फी ने ईरान के साथ शांति समझौते को 'आत्मसमर्पण' जैसा बताया है। वह इस समझौते को लेकर राष्ट्रपति ट्रंप की आलोचना कर रहे हैं। डेमोक्रेट्स ट्रंप पर समझौते को लेकर दबाव बना रहे हैं। US-Iran Peace Deal: ईरान डील पर ट्रंप को घेर रहे डेमोक्रेट्स, सांसद क्रिस मर्फी बोले- ये ‘सरेंडर’ जैसा समझौता।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "IND vs PAK Women’s T20 World Cup: भारत की शेरनियों ने PAK का 106 रनों पर निकाला दम,चर्चा में मंधाना",
+      "url": "https://www.amarujala.com/video/india-news/ind-vs-pak-women-s-t20-world-cup-indian-lionesses-bowl-out-pak-for-106-runs-2026-06-15",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-15T07:08:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/ind-w-vs-pak_3278084c613a04f38c03011033c37d24.jpeg?w=750&dpr=1.0",
+      "summary": "भारतीय महिला क्रिकेट टीम ने महिला टी20 विश्व कप 2026 में पाकिस्तान को 64 रन से हराया। स्मृति मंधाना की बल्लेबाजी और दीप्ति शर्मा व श्री चरणी की गेंदबाजी ने जीत दिलाई। स्मृति मंधाना की तूफानी बल्लेबाजी और दीप्ति शर्मा-श्री चरणी की घातक गेंदबाजी के दम पर भारतीय महिला टीम ने महिला टी20 विश्व कप 2026 के अपने पहले मुकाबले में पाकिस्तान को 64 रन से करारी शिकस्त दी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "IND vs PAK Women’s T20 World Cup: भारत की शेरनियों ने PAK का 106 रनों पर निकाला दम,चर्चा में मंधाना",
+          "summary": "भारतीय महिला क्रिकेट टीम ने महिला टी20 विश्व कप 2026 में पाकिस्तान को 64 रन से हराया। स्मृति मंधाना की बल्लेबाजी और दीप्ति शर्मा व श्री चरणी की गेंदबाजी ने जीत दिलाई। स्मृति मंधाना की तूफानी बल्लेबाजी और दीप्ति शर्मा-श्री चरणी की घातक गेंदबाजी के दम पर भारतीय महिला टीम ने महिला टी20 विश्व कप 2026 के अपने पहले मुकाबले में पाकिस्तान को 64 रन से करारी शिकस्त दी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दादा-दादी से लेकर बच्चों तक, हर किसी को पसंद आएंगी ये विदेशी जगहें",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/travel/best-summer-vacation-2026-international-travel-destinations-for-family-trip-2026-06-15",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-15T07:05:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/multi-generation-travel-places_b61ebba0f2dc30a0fd955e27c717e397.jpeg?w=750&dpr=1.0",
+      "summary": "बहु-पीढ़ी की यात्राएं परिवार के रिश्तों को मजबूत करती हैं। दादा-दादी अनुभव साझा करते हैं, बच्चे सीखते हैं, और माता-पिता अपनों के साथ यादगार समय बिताते हैं। मल्टी जेनेरेशन यात्राएं केवल नई जगहें देखने का अवसर नहीं, बल्कि परिवार के रिश्तों को और मजबूत बनाने का मौका भी देती हैं। दादा-दादी अपने अनुभव साझा करते हैं, बच्चे नई चीजें सीखते हैं और माता-पिता भागदौड़ से दूर अपनों के साथ यादगार समय बिताते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दादा-दादी से लेकर बच्चों तक, हर किसी को पसंद आएंगी ये विदेशी जगहें",
+          "summary": "बहु-पीढ़ी की यात्राएं परिवार के रिश्तों को मजबूत करती हैं। दादा-दादी अनुभव साझा करते हैं, बच्चे सीखते हैं, और माता-पिता अपनों के साथ यादगार समय बिताते हैं। मल्टी जेनेरेशन यात्राएं केवल नई जगहें देखने का अवसर नहीं, बल्कि परिवार के रिश्तों को और मजबूत बनाने का मौका भी देती हैं। दादा-दादी अपने अनुभव साझा करते हैं, बच्चे नई चीजें सीखते हैं और माता-पिता भागदौड़ से दूर अपनों के साथ यादगार समय बिताते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'इस्राइल के प्रति अंधभक्ति छोड़ें पीएम मोदी', कांग्रेस ने विदेश नीति पर सरकार को क्या दी सलाह?",
+      "url": "https://www.amarujala.com/india-news/congress-slam-pm-modi-foreign-policy-blind-devotion-to-israel-us-iran-peace-deal-pakistan-2026-06-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-15T06:59:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/27/beyond-agreements-the-impact-and-symbolism-of-pm-modis-visit-to-israel-goes-beyond-bilateral-relat_c4c3c85f9c4d0db945f12b2ccd5c7dcc.jpeg?w=750&dpr=1.0",
+      "summary": "कांग्रेस ने प्रधानमंत्री मोदी से इस्राइल के प्रति अंधभक्ति छोड़ने की सलाह दी है। पार्टी ने अमेरिका-ईरान शांति समझौते और पाकिस्तान के संदर्भ में विदेश नीति पर सवाल उठाए। Congress: 'इस्राइल के प्रति अंधभक्ति छोड़ें प्रधानमंत्री मोदी', कांग्रेस ने विदेश नीति पर सरकार को क्या दी सलाह? 'इस्राइल के प्रति अंधभक्ति छोड़ें पीएम मोदी', कांग्रेस ने विदेश नीति पर सरकार को क्या दी सलाह?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'इस्राइल के प्रति अंधभक्ति छोड़ें पीएम मोदी', कांग्रेस ने विदेश नीति पर सरकार को क्या दी सलाह?",
+          "summary": "कांग्रेस ने प्रधानमंत्री मोदी से इस्राइल के प्रति अंधभक्ति छोड़ने की सलाह दी है। पार्टी ने अमेरिका-ईरान शांति समझौते और पाकिस्तान के संदर्भ में विदेश नीति पर सवाल उठाए। Congress: 'इस्राइल के प्रति अंधभक्ति छोड़ें प्रधानमंत्री मोदी', कांग्रेस ने विदेश नीति पर सरकार को क्या दी सलाह? 'इस्राइल के प्रति अंधभक्ति छोड़ें पीएम मोदी', कांग्रेस ने विदेश नीति पर सरकार को क्या दी सलाह?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तानी वायुसेना को एक और झटका, एक महीने में 5वां एयरक्राफ्ट क्रैश, सड़क के बीच में गिरा जेट",
+      "url": "https://hindi.news18.com/world/pakistan-airforce-training-aircraft-crash-2-pilot-killed-10571566.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-15T06:59:12+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/fighter-jet-2026-06-12ebbddfeda2cbf7f390ca2df40c18dc-1200x800.jpg",
+      "summary": "पाकिस्तान के मरदान जिले में एक प्रशिक्षण विमान दुर्घटनाग्रस्त हो गया, जिसमें दोनों पायलट मारे गए। यह पिछले एक महीने में पाकिस्तान का पांचवां सैन्य विमान हादसा है। पाकिस्तान को एक और बड़ा झटका लगा है. खैबर पख्तूनख्वा के मरदान जिले में पाकिस्तानी सेना का ट्रेनिंग एयरक्राफ्ट दुर्घटनाग्रस्त हो गया, जिसमें दोनों पायलटों की मौत हो गई. खास बात यह है कि पिछले एक महीने में यह पाकिस्तान का पांचवां सैन्य विमान हादसा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तानी वायुसेना को एक और झटका, एक महीने में 5वां एयरक्राफ्ट क्रैश, सड़क के बीच में गिरा जेट",
+          "summary": "पाकिस्तान के मरदान जिले में एक प्रशिक्षण विमान दुर्घटनाग्रस्त हो गया, जिसमें दोनों पायलट मारे गए। यह पिछले एक महीने में पाकिस्तान का पांचवां सैन्य विमान हादसा है। पाकिस्तान को एक और बड़ा झटका लगा है. खैबर पख्तूनख्वा के मरदान जिले में पाकिस्तानी सेना का ट्रेनिंग एयरक्राफ्ट दुर्घटनाग्रस्त हो गया, जिसमें दोनों पायलटों की मौत हो गई. खास बात यह है कि पिछले एक महीने में यह पाकिस्तान का पांचवां सैन्य विमान हादसा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'ब्रातिस्लावा में मिला स्वागत यादगार', पीएम मोदी ने भारतीय समुदाय को लेकर कही ये बात",
+      "url": "https://www.amarujala.com/live/world/pm-modi-slovakia-visit-live-updates-talks-with-president-pellegrini-pm-fico-business-leaders-meet-in-hindi-2026-06-15",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-15T06:55:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/pm-modi-in-slovakia_53895654cd11ef94a68984fb0805e50c.jpeg?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री मोदी ने स्लोवाकिया में भारतीय समुदाय के स्वागत को यादगार बताया। स्लोवाकिया यात्रा का उद्देश्य भारत-स्लोवाकिया संबंधों को मजबूत करना है। PM Modi Slovakia Visit Live: स्लोवाकिया पहुंचे पीएम, भारत-स्लोवाकिया संबंधों को नई मजबूती देने पर रहेगा फोकस। 'ब्रातिस्लावा में मिला स्वागत यादगार', पीएम मोदी ने भारतीय समुदाय को लेकर कही ये बात।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'ब्रातिस्लावा में मिला स्वागत यादगार', पीएम मोदी ने भारतीय समुदाय को लेकर कही ये बात",
+          "summary": "प्रधानमंत्री मोदी ने स्लोवाकिया में भारतीय समुदाय के स्वागत को यादगार बताया। स्लोवाकिया यात्रा का उद्देश्य भारत-स्लोवाकिया संबंधों को मजबूत करना है। PM Modi Slovakia Visit Live: स्लोवाकिया पहुंचे पीएम, भारत-स्लोवाकिया संबंधों को नई मजबूती देने पर रहेगा फोकस। 'ब्रातिस्लावा में मिला स्वागत यादगार', पीएम मोदी ने भारतीय समुदाय को लेकर कही ये बात।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका-ईरान समझौते पर इस्राइल का विद्रोही रुख, लेबनान को लेकर खींची लाल रेखा",
+      "url": "https://www.amarujala.com/world/israel-rejects-us-iran-deal-israel-takes-a-defiant-stance-on-agreement-draws-a-red-line-regarding-lebanon-2026-06-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-15T06:54:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/iirana-amaraka-samajhata-para-isarail-ka-bgavata_756e879fbc14da06e4a5ec499c830960.jpeg?w=750&dpr=1.0",
+      "summary": "इस्राइल ने अमेरिका-ईरान परमाणु समझौते पर असहमति जताई है। प्रधानमंत्री नेतन्याहू ने कहा कि लेबनान की सीमा पर हिजबुल्लाह के मिसाइल ठिकानों को हटाना होगा। उन्होंने कहा कि अगर ऐसा नहीं हुआ तो इस्राइल अपनी सुरक्षा के लिए कार्रवाई करेगा। Israel Rejects US-Iran Deal: अमेरिका-ईरान समझौते पर इस्राइल का विद्रोही रुख, लेबनान को लेकर खींची लाल रेखा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-ईरान समझौते पर इस्राइल का विद्रोही रुख, लेबनान को लेकर खींची लाल रेखा",
+          "summary": "इस्राइल ने अमेरिका-ईरान परमाणु समझौते पर असहमति जताई है। प्रधानमंत्री नेतन्याहू ने कहा कि लेबनान की सीमा पर हिजबुल्लाह के मिसाइल ठिकानों को हटाना होगा। उन्होंने कहा कि अगर ऐसा नहीं हुआ तो इस्राइल अपनी सुरक्षा के लिए कार्रवाई करेगा। Israel Rejects US-Iran Deal: अमेरिका-ईरान समझौते पर इस्राइल का विद्रोही रुख, लेबनान को लेकर खींची लाल रेखा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सुप्रीम कोर्ट पहुंचा मामला, याचिकाकर्ता बोले- एफआईआर के साथ सीबीआई करे पूरी जांच",
+      "url": "https://www.amarujala.com/india-news/ayodhya-ram-temple-donation-row-matter-reaches-supreme-court-petitioner-demands-full-cbi-probe-alongside-fir-2026-06-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-15T06:53:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/saparama-karata_fc52ffd1721e1276be95d805e269622b.jpeg?w=750&dpr=1.0",
+      "summary": "अयोध्या राम मंदिर के दान विवाद को लेकर मामला सुप्रीम कोर्ट पहुंचा है। याचिकाकर्ताओं ने मांग की है कि एफआईआर के साथ-साथ सीबीआई को भी इस मामले की पूरी जांच करनी चाहिए। सुप्रीम कोर्ट पहुंचा मामला, याचिकाकर्ता बोले- एफआईआर के साथ सीबीआई करे पूरी जांच।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुप्रीम कोर्ट पहुंचा मामला, याचिकाकर्ता बोले- एफआईआर के साथ सीबीआई करे पूरी जांच",
+          "summary": "अयोध्या राम मंदिर के दान विवाद को लेकर मामला सुप्रीम कोर्ट पहुंचा है। याचिकाकर्ताओं ने मांग की है कि एफआईआर के साथ-साथ सीबीआई को भी इस मामले की पूरी जांच करनी चाहिए। सुप्रीम कोर्ट पहुंचा मामला, याचिकाकर्ता बोले- एफआईआर के साथ सीबीआई करे पूरी जांच।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ऐसे देश में पीएम मोदी, जो निराला, जहां एक भी मस्जिद नहीं, फ्री हेल्थकेयर और एजुकेशन",
+      "url": "https://hindi.news18.com/photogallery/knowledge/slovakia-pm-modi-visit-unique-country-not-a-single-mosque-free-healthcare-and-education-ws-el-10571535.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-15T06:33:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/image-2026-06-7ad9685348554f8e10433258a09b035c-1200x800.jpg",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी स्लोवाकिया की यात्रा पर हैं। यह यूरोप का एक देश है जहाँ कोई मस्जिद नहीं है। स्लोवाकिया में स्वास्थ्य सेवा और शिक्षा मुफ्त है। प्रधानमंत्री नरेंद्र मोदी अपनी विदेश यात्रा के दौरान आज स्लोवाकिया में हैं. स्लोवाकिया यूरोप का एक सुंदर देश है. जो आमतौर पर शांत और अमीर देश है. यहां के लोग मेहनती और कामकाजी होते हैं.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ऐसे देश में पीएम मोदी, जो निराला, जहां एक भी मस्जिद नहीं, फ्री हेल्थकेयर और एजुकेशन",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी स्लोवाकिया की यात्रा पर हैं। यह यूरोप का एक देश है जहाँ कोई मस्जिद नहीं है। स्लोवाकिया में स्वास्थ्य सेवा और शिक्षा मुफ्त है। प्रधानमंत्री नरेंद्र मोदी अपनी विदेश यात्रा के दौरान आज स्लोवाकिया में हैं. स्लोवाकिया यूरोप का एक सुंदर देश है. जो आमतौर पर शांत और अमीर देश है. यहां के लोग मेहनती और कामकाजी होते हैं.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "'पीछे-पीछे घूमना पड़ेगा सॉरी बोलने के लिए'; प्रणित मोरे को तान्या ने पहले ही दी थी हिदायत? पुराना",
+      "url": "https://www.amarujala.com/entertainment/tanya-mittal-and-pranit-more-fight-old-video-goes-viral-from-show-big-boss-19-amid-rs-370-biryani-controversy-2026-06-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-15T06:24:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/tanaya-matatal-paranaeta-mara_6d78fd896dbc7c525339b4c0a18611c8.jpeg?w=750&dpr=1.0",
+      "summary": "बिग बॉस 19 की प्रतिभागी तान्या मित्तल और कॉमेडियन प्रणित मोरे के बीच शो के दौरान काफी बहस हुई। एक पुराने वीडियो में तान्या मित्तल प्रणित मोरे को चेतावनी देती दिख रही हैं। Tanya Mittal Old Video: कॉमेडियन और यूट्यूबर प्रणित मोरे को 'बिग बॉस 19' में देखा गया था, जहां तान्या मित्तल भी बतौर प्रतिभागी शामिल हुई थीं। दोनों के बीच काफी बहस और झगड़े हुए।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'पीछे-पीछे घूमना पड़ेगा सॉरी बोलने के लिए'; प्रणित मोरे को तान्या ने पहले ही दी थी हिदायत? पुराना",
+          "summary": "बिग बॉस 19 की प्रतिभागी तान्या मित्तल और कॉमेडियन प्रणित मोरे के बीच शो के दौरान काफी बहस हुई। एक पुराने वीडियो में तान्या मित्तल प्रणित मोरे को चेतावनी देती दिख रही हैं। Tanya Mittal Old Video: कॉमेडियन और यूट्यूबर प्रणित मोरे को 'बिग बॉस 19' में देखा गया था, जहां तान्या मित्तल भी बतौर प्रतिभागी शामिल हुई थीं। दोनों के बीच काफी बहस और झगड़े हुए।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'देश के बहुसंख्यक समाज पर भाजपा के फैलाए 'जहर' का असर'; सपा सांसद जावेद अली का विवादित बयान",
+      "url": "https://www.amarujala.com/uttar-pradesh/moradabad/samajwadi-party-mp-javed-ali-serious-allegations-against-bjp-of-spreading-division-and-animosity-in-society-2026-06-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-15T06:12:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/mp-javed-ali_be1d75ff3f7fc25c076efebe0eec190b.jpeg?w=750&dpr=1.0",
+      "summary": "समाजवादी पार्टी के सांसद जावेद अली खान ने भाजपा पर समाज में विभाजन फैलाने का आरोप लगाया है। उन्होंने कहा कि भाजपा के 'जहर' का असर देश के बहुसंख्यक समाज पर पड़ रहा है। समाजवादी पार्टी (सपा) के राज्यसभा सदस्य जावेद अली खान ने अपने मुरादाबाद दौरे के दौरान भारतीय जनता पार्टी (बीजेपी) पर समाज में विभाजन और वैमनस्य फैलाने का गंभीर आरोप लगाया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'देश के बहुसंख्यक समाज पर भाजपा के फैलाए 'जहर' का असर'; सपा सांसद जावेद अली का विवादित बयान",
+          "summary": "समाजवादी पार्टी के सांसद जावेद अली खान ने भाजपा पर समाज में विभाजन फैलाने का आरोप लगाया है। उन्होंने कहा कि भाजपा के 'जहर' का असर देश के बहुसंख्यक समाज पर पड़ रहा है। समाजवादी पार्टी (सपा) के राज्यसभा सदस्य जावेद अली खान ने अपने मुरादाबाद दौरे के दौरान भारतीय जनता पार्टी (बीजेपी) पर समाज में विभाजन और वैमनस्य फैलाने का गंभीर आरोप लगाया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "महाराष्ट्र सरकार ने खेती के लिए पानी रोका, 31 अगस्त तक के पेयजल स्टॉक रखा सुरक्षित",
+      "url": "https://www.amarujala.com/india-news/concern-over-water-in-saamana-maharashtra-halts-water-supply-for-agriculture-reserves-drinking-water-stock-2026-06-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-15T05:58:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/maharashhatara-ma-sakha-ka-sakata_e38d0e6cd3f894d47bf5b93d80054b02.jpeg?w=750&dpr=1.0",
+      "summary": "महाराष्ट्र सरकार ने खेती के लिए पानी का प्रवाह रोक दिया है। यह निर्णय 31 अगस्त तक पेयजल की आपूर्ति सुनिश्चित करने के लिए लिया गया है। 'सामना' में पानी की कमी पर चिंता व्यक्त की गई थी। महाराष्ट्र सरकार ने खेती के लिए पानी रोका, 31 अगस्त तक के पेयजल स्टॉक रखा सुरक्षित।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महाराष्ट्र सरकार ने खेती के लिए पानी रोका, 31 अगस्त तक के पेयजल स्टॉक रखा सुरक्षित",
+          "summary": "महाराष्ट्र सरकार ने खेती के लिए पानी का प्रवाह रोक दिया है। यह निर्णय 31 अगस्त तक पेयजल की आपूर्ति सुनिश्चित करने के लिए लिया गया है। 'सामना' में पानी की कमी पर चिंता व्यक्त की गई थी। महाराष्ट्र सरकार ने खेती के लिए पानी रोका, 31 अगस्त तक के पेयजल स्टॉक रखा सुरक्षित।",
           "region": "दुनिया"
         }
       }
@@ -528,7 +636,7 @@
       "url": "https://hindi.news18.com/world/middle-east-how-us-iran-peace-deal-cornered-israel-donald-trump-created-difficult-path-for-israeli-pm-benjamin-netanyahu-10571493.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-15T05:26:18+00:00",
+      "published_at": "2026-06-15T05:57:29+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Netanyahu-Trump-2026-06-ea54f77000e80a9088af1d7a65b0b0e5-1200x800.jpg",
       "summary": "ईरान-अमेरिका डील के बाद इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू पर दबाव बढ़ गया। ईरान के साथ शांति समझौते को डोनाल्ड ट्रंप अपनी बड़ी कूटनीतिक सफलता बता रहे हैं, लेकिन इसे लेकर इजरायल में विरोध के स्वर उठने लगे हैं. अमेरिका-ईरान के बीच इस हुई डील ने इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू को बेहद असहज स्थिति में ला खड़ा किया है. नेतन्याहू पर घरेलू और अंतरराष्ट्रीय दोनों तरह का दबाव बढ़ गया है.",
       "region": "Middle East & Africa",
@@ -542,56 +650,20 @@
       }
     },
     {
-      "title": "IND A vs SL-A Live Score: श्रीलंका-ए के खिलाफ भारत-ए की पहले बल्लेबाजी, वैभव सूर्यवंशी फिर सस्ते",
-      "url": "https://www.amarujala.com/cricket/ind-a-vs-sl-a-live-cricket-score-india-a-vs-srilanka-a-tri-series-2026-vaibhav-suryavanshi-wicket-falls-early-2026-06-15",
-      "source": "Amar Ujala Breaking",
+      "title": "ज्वालामुखी के किनारे कर रहा था स्टंट: एक गलती और खत्म हो गई जिंदगी; यमन के स्पाइडरमैन की जिंदगी का",
+      "url": "https://www.amarujala.com/world/social-media-star-antar-al-absi-yemen-spider-man-died-at-volcanic-lake-crater-accident-2026-06-15",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-06-15T05:23:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/ind-a-vs-sl-a-ind-a-vs-sl-a-live-score-ind-a-vs-sl-a-live-cricket-score-india-a-vs-sri-lanka-a-li_09cca9be669ccfa448e7befba083316f.jpeg?w=750&dpr=1.0",
-      "summary": "भारत-ए की टीम श्रीलंका-ए के खिलाफ पहले बल्लेबाजी कर रही है। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत-ए की टीम फिलहाल श्रीलंका के दौरे पर है। वहां टीम श्रीलंका-ए और अफगानिस्तान-ए के खिलाफ त्रिकोणीय सीरीज खेली जा रही है। भारत का यह तीसरा मैच है। उसने एक जीता है और एक हारा है। IND A vs SL-A Live Score: श्रीलंका-ए के खिलाफ भारत-ए की पहले बल्लेबाजी, वैभव सूर्यवंशी फिर सस्ते।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-06-15T05:28:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/yamana-ka-sapaidaramana-ka-mata_c773cfba5ee300781a5cccafe40d8e9f.jpeg?w=750&dpr=1.0",
+      "summary": "यमन के स्पाइडरमैन की ज्वालामुखी के किनारे स्टंट करते समय जिंदगी खत्म हो गई। ज्वालामुखी के किनारे कर रहा था स्टंट: एक गलती और खत्म हो गई जिंदगी; यमन के स्पाइडरमैन की जिंदगी का दर्दनाक अंत।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "IND A vs SL-A Live Score: श्रीलंका-ए के खिलाफ भारत-ए की पहले बल्लेबाजी, वैभव सूर्यवंशी फिर सस्ते",
-          "summary": "भारत-ए की टीम श्रीलंका-ए के खिलाफ पहले बल्लेबाजी कर रही है। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत-ए की टीम फिलहाल श्रीलंका के दौरे पर है। वहां टीम श्रीलंका-ए और अफगानिस्तान-ए के खिलाफ त्रिकोणीय सीरीज खेली जा रही है। भारत का यह तीसरा मैच है। उसने एक जीता है और एक हारा है। IND A vs SL-A Live Score: श्रीलंका-ए के खिलाफ भारत-ए की पहले बल्लेबाजी, वैभव सूर्यवंशी फिर सस्ते।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "उड़ान भरी और खत्म हो गई जिंदगी, अमेरिका में क्रैश हुआ प्लेन, 12 लोगों की मौत",
-      "url": "https://hindi.news18.com/world/america-missouri-plane-crash-skydivers-killed-after-takeoff-butler-airport-10570777.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-15T05:23:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/us-plane-crash-2-2026-06-3a3e77b32791cfbcf4b593f180b26fe5-1200x800.jpg",
-      "summary": "अमेरिका के मिसौरी में एक स्काईडाइविंग विमान दुर्घटनाग्रस्त हुआ, 12 लोगों की मौत हो गई. अमेरिका के मिसौरी राज्य में रविवार को एक स्काईडाइविंग विमान उड़ान भरने के कुछ ही देर बाद दुर्घटनाग्रस्त हो गया. हादसे में 11 स्काईडाइवर और पायलट समेत सभी 12 लोगों की मौत हो गई. विमान बटलर मेमोरियल एयरपोर्ट से उड़ान भर रहा था. हादसे के कारणों की जांच शुरू कर दी गई है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उड़ान भरी और खत्म हो गई जिंदगी, अमेरिका में क्रैश हुआ प्लेन, 12 लोगों की मौत",
-          "summary": "अमेरिका के मिसौरी में एक स्काईडाइविंग विमान दुर्घटनाग्रस्त हुआ, 12 लोगों की मौत हो गई. अमेरिका के मिसौरी राज्य में रविवार को एक स्काईडाइविंग विमान उड़ान भरने के कुछ ही देर बाद दुर्घटनाग्रस्त हो गया. हादसे में 11 स्काईडाइवर और पायलट समेत सभी 12 लोगों की मौत हो गई. विमान बटलर मेमोरियल एयरपोर्ट से उड़ान भर रहा था. हादसे के कारणों की जांच शुरू कर दी गई है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "असम संयुक्त प्रवेश परीक्षा की उत्तर कुंजी जारी, ऐसे करें डाउनलोड, जानें सभी स्टेप्स",
-      "url": "https://www.amarujala.com/education/assam-cee-answer-key-2026-released-at-astu-ac-in-download-pdf-and-raise-objections-online-2026-06-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-15T05:21:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/20/answer-key_8857d462d55c2031c4f0f801997af4af.jpeg?w=750&dpr=1.0",
-      "summary": "असम साइंस एंड टेक्नोलॉजी यूनिवर्सिटी ने असम सीईई 2026 की प्रोविजनल आंसर की जारी की है. Assam CEE Answer Key 2026: असम साइंस एंड टेक्नोलॉजी यूनिवर्सिटी (ASTU) ने असम सीईई 2026 की प्रोविजनल आंसर की जारी कर दी है। असम संयुक्त प्रवेश परीक्षा की उत्तर कुंजी जारी, ऐसे करें डाउनलोड, जानें सभी स्टेप्स।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "असम संयुक्त प्रवेश परीक्षा की उत्तर कुंजी जारी, ऐसे करें डाउनलोड, जानें सभी स्टेप्स",
-          "summary": "असम साइंस एंड टेक्नोलॉजी यूनिवर्सिटी ने असम सीईई 2026 की प्रोविजनल आंसर की जारी की है. Assam CEE Answer Key 2026: असम साइंस एंड टेक्नोलॉजी यूनिवर्सिटी (ASTU) ने असम सीईई 2026 की प्रोविजनल आंसर की जारी कर दी है। असम संयुक्त प्रवेश परीक्षा की उत्तर कुंजी जारी, ऐसे करें डाउनलोड, जानें सभी स्टेप्स।",
-          "region": "दुनिया"
+          "title": "ज्वालामुखी के किनारे कर रहा था स्टंट: एक गलती और खत्म हो गई जिंदगी; यमन के स्पाइडरमैन की जिंदगी का",
+          "summary": "यमन के स्पाइडरमैन की ज्वालामुखी के किनारे स्टंट करते समय जिंदगी खत्म हो गई। ज्वालामुखी के किनारे कर रहा था स्टंट: एक गलती और खत्म हो गई जिंदगी; यमन के स्पाइडरमैन की जिंदगी का दर्दनाक अंत।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -614,56 +686,20 @@
       }
     },
     {
-      "title": "चार राज्यों में फैलाई जा रही थीं स्लीपर सेल की जड़ें, सेकंड हेड कमांडर सहित तीन गिरफ्त में",
-      "url": "https://www.amarujala.com/madhya-pradesh/bhopal-terror-probe-reveals-multi-state-sleeper-cell-network-three-in-custody-mp-news-in-hindi-2026-06-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-15T05:07:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/ats-ka-pachhatachha-ma-faraja-cakana-val-raja-khal-raha-ha_7f43755559adaef162aaad57511e0ce8.jpeg?w=750&dpr=1.0",
-      "summary": "भोपाल और सहारनपुर से गिरफ्तार मोहम्मद फराज और नईम से पूछताछ में चार राज्यों तक फैले जिहादी नेटवर्क के संकेत मिले हैं. भोपाल से गिरफ्तार मोहम्मद फराज और सहारनपुर के नईम से पूछताछ में चार राज्यों तक फैले कथित जिहादी नेटवर्क के संकेत मिले हैं। एटीएस ने राजस्थान से शाकिर मेव सहित अन्य संदिग्धों को हिरासत में लिया है। चार राज्यों में फैलाई जा रही थीं स्लीपर सेल की जड़ें, सेकंड हेड कमांडर सहित तीन गिरफ्त में।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चार राज्यों में फैलाई जा रही थीं स्लीपर सेल की जड़ें, सेकंड हेड कमांडर सहित तीन गिरफ्त में",
-          "summary": "भोपाल और सहारनपुर से गिरफ्तार मोहम्मद फराज और नईम से पूछताछ में चार राज्यों तक फैले जिहादी नेटवर्क के संकेत मिले हैं. भोपाल से गिरफ्तार मोहम्मद फराज और सहारनपुर के नईम से पूछताछ में चार राज्यों तक फैले कथित जिहादी नेटवर्क के संकेत मिले हैं। एटीएस ने राजस्थान से शाकिर मेव सहित अन्य संदिग्धों को हिरासत में लिया है। चार राज्यों में फैलाई जा रही थीं स्लीपर सेल की जड़ें, सेकंड हेड कमांडर सहित तीन गिरफ्त में।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "2023 में पंजीकरण और सिर्फ 822 वोट, अब पार्टी के 20 सांसद; जानिए क्या है एनसीपीआई का इतिहास",
+      "title": "2023 में पंजीकरण और सिर्फ 822 वोट, अब पार्टी के 20 सांसद; क्या है एनसीपीआई और इसका इतिहास?",
       "url": "https://www.amarujala.com/india-news/know-all-about-nationalist-citizens-party-of-india-ncpi-new-home-of-20-rebel-trinamool-mps-2026-06-15",
       "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-06-15T05:03:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/ncpi_58327fc4e8882fa222f622c40c644e85.jpeg?w=750&dpr=1.0",
-      "summary": "नेशनलिस्ट सिटिजंस पार्टी ऑफ इंडिया में टीएमसी के 20 बागी सांसदों ने विलय किया है, यह पार्टी 2023 में पंजीकरण के बाद से सक्रिय है. 2023 में पंजीकरण और सिर्फ 822 वोट, अब पार्टी के 20 सांसद; जानिए क्या है एनसीपीआई का इतिहास।",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/ncpi-tmc-west-bengal_854d259e770ec1cac402ffd332d3a83d.jpeg?w=750&dpr=1.0",
+      "summary": "नेशनलिस्ट सिटिजंस पार्टी ऑफ इंडिया में टीएमसी के 20 बागी सांसदों ने विलय किया है, यह पार्टी 2023 में पंजीकरण के बाद से सक्रिय है. 2023 में पंजीकरण और सिर्फ 822 वोट, अब पार्टी के 20 सांसद; जानिए क्या है एनसीपीआई का इतिहास। NCPI: 2023 में पंजीकरण और सिर्फ 822 वोट, अब पार्टी के 20 सांसद; क्या है एनसीपीआई और इसका इतिहास?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "2023 में पंजीकरण और सिर्फ 822 वोट, अब पार्टी के 20 सांसद; जानिए क्या है एनसीपीआई का इतिहास",
-          "summary": "नेशनलिस्ट सिटिजंस पार्टी ऑफ इंडिया में टीएमसी के 20 बागी सांसदों ने विलय किया है, यह पार्टी 2023 में पंजीकरण के बाद से सक्रिय है. 2023 में पंजीकरण और सिर्फ 822 वोट, अब पार्टी के 20 सांसद; जानिए क्या है एनसीपीआई का इतिहास।",
+          "title": "2023 में पंजीकरण और सिर्फ 822 वोट, अब पार्टी के 20 सांसद; क्या है एनसीपीआई और इसका इतिहास?",
+          "summary": "नेशनलिस्ट सिटिजंस पार्टी ऑफ इंडिया में टीएमसी के 20 बागी सांसदों ने विलय किया है, यह पार्टी 2023 में पंजीकरण के बाद से सक्रिय है. 2023 में पंजीकरण और सिर्फ 822 वोट, अब पार्टी के 20 सांसद; जानिए क्या है एनसीपीआई का इतिहास। NCPI: 2023 में पंजीकरण और सिर्फ 822 वोट, अब पार्टी के 20 सांसद; क्या है एनसीपीआई और इसका इतिहास?",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "शिकागो की सड़कों पर सैर करती नजर आईं मृणाल ठाकुर, शहर को अलविदा कहते हुए टूटा दिल",
-      "url": "https://www.amarujala.com/entertainment/bollywood/mrunal-thakur-shares-photos-from-chicago-amid-hai-jawani-toh-ishq-hona-hai-buzz-2026-06-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-15T04:53:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/manael-thakara_1b830465b33c291f42b032f08fd3beef.jpeg?w=750&dpr=1.0",
-      "summary": "मृणाल ठाकुर शिकागो में अपनी नई फिल्म को लेकर चर्चा में हैं। मृणाल ठाकुर इन दिनों अपनी नई फिल्म 'है जवानी तो इश्क होना है' को लेकर चर्चा में हैं। शिकागो की सड़कों पर सैर करती नजर आईं मृणाल ठाकुर, शहर को अलविदा कहते हुए टूटा दिल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शिकागो की सड़कों पर सैर करती नजर आईं मृणाल ठाकुर, शहर को अलविदा कहते हुए टूटा दिल",
-          "summary": "मृणाल ठाकुर शिकागो में अपनी नई फिल्म को लेकर चर्चा में हैं। मृणाल ठाकुर इन दिनों अपनी नई फिल्म 'है जवानी तो इश्क होना है' को लेकर चर्चा में हैं। शिकागो की सड़कों पर सैर करती नजर आईं मृणाल ठाकुर, शहर को अलविदा कहते हुए टूटा दिल।",
-          "region": "दुनिया"
         }
       }
     },
@@ -686,74 +722,38 @@
       }
     },
     {
-      "title": "'हर मुलाकात के लिए एलान की जरूरत नहीं'; यो यो हनी सिंह से मिलीं उर्वशी रौतेला; शेयर कीं तस्वीरें",
-      "url": "https://www.amarujala.com/entertainment/urvashi-rautela-shares-photos-with-singer-yo-yo-honey-singh-says-not-every-reunion-needs-an-announcement-2026-06-15",
-      "source": "Amar Ujala National",
+      "title": "फुटबॉल विश्वकप में छाईं मेक्सिको की चर्चित महिला नेता, तस्वीरों ने इंटरनेट पर लगाई आग",
+      "url": "https://www.amarujala.com/photo-gallery/sports/football/who-is-sandra-cuevas-mexican-politician-trends-during-fifa-world-cup-2026-celebrations-2026-06-15",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-15T04:42:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/hana-saha_5a5699389bc3382186b56313a3704608.gif?w=750&dpr=1.0",
-      "summary": "उर्वशी रौतेला ने यो यो हनी सिंह के साथ तस्वीरें शेयर की। Urvashi Rautela-Honey Singh Photos: अभिनेत्री उर्वशी रौतेला ने अपने इंस्टाग्राम अकाउंट से कुछ तस्वीरें शेयर की हैं। इनमें वे यो यो हनी सिंह के साथ पोज देती दिख रही हैं। 'हर मुलाकात के लिए एलान की जरूरत नहीं'; यो यो हनी सिंह से मिलीं उर्वशी रौतेला; शेयर कीं तस्वीरें।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'हर मुलाकात के लिए एलान की जरूरत नहीं'; यो यो हनी सिंह से मिलीं उर्वशी रौतेला; शेयर कीं तस्वीरें",
-          "summary": "उर्वशी रौतेला ने यो यो हनी सिंह के साथ तस्वीरें शेयर की। Urvashi Rautela-Honey Singh Photos: अभिनेत्री उर्वशी रौतेला ने अपने इंस्टाग्राम अकाउंट से कुछ तस्वीरें शेयर की हैं। इनमें वे यो यो हनी सिंह के साथ पोज देती दिख रही हैं। 'हर मुलाकात के लिए एलान की जरूरत नहीं'; यो यो हनी सिंह से मिलीं उर्वशी रौतेला; शेयर कीं तस्वीरें।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मिनटों में पाएं फ्रेश और ग्लोइंग लुक, ट्राई करें अंडर-आई ब्लश",
-      "url": "https://www.amarujala.com/fashion/beauty-tips/say-goodbye-to-dull-skin-with-this-viral-under-eye-blush-trend-2026-06-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-15T04:31:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/under-eye-makeup_602f02ecc60591d33b302817fc9f794f.jpeg?w=750&dpr=1.0",
-      "summary": "अंडर-आई ब्लश से मिनटों में फ्रेश और ग्लोइंग लुक पाया जा सकता है। आपकी थकान और तनाव भी बताती हैं। ऐसे में आपके लिए जरूरी है, ‘अंडर आई मेकअप’। मिनटों में पाएं फ्रेश और ग्लोइंग लुक, ट्राई करें अंडर-आई ब्लश।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिनटों में पाएं फ्रेश और ग्लोइंग लुक, ट्राई करें अंडर-आई ब्लश",
-          "summary": "अंडर-आई ब्लश से मिनटों में फ्रेश और ग्लोइंग लुक पाया जा सकता है। आपकी थकान और तनाव भी बताती हैं। ऐसे में आपके लिए जरूरी है, ‘अंडर आई मेकअप’। मिनटों में पाएं फ्रेश और ग्लोइंग लुक, ट्राई करें अंडर-आई ब्लश।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप के एलान से दुनिया में हलचल, होर्मुज जलडमरूमध्य खुलने से तेल बाजार में गिरावट",
-      "url": "https://www.amarujala.com/video/india-news/us-iran-peace-deal-trump-s-announcement-stirs-the-world-oil-prices-drop-as-the-strait-of-hormuz-opens-up-2026-06-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-15T04:28:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/tarapa-ka-elna-sa-thanaya-ma-halcal-haramaja-jaldamanprmathhaya-khalna-sa-tal-bjara-ma-garavata_5a68710eec60ee509b79a9e91ded22b7.jpeg?w=750&dpr=1.0",
-      "summary": "ट्रंप के एलान से होर्मुज जलडमरूमध्य खुलने से तेल बाजार में गिरावट आई। पश्चिम एशिया में पिछले कई महीनों से जारी तनाव और संघर्ष के बीच अब एक बड़ा कूटनीतिक मोड़ सामने आता दिखाई दे रहा है। ट्रंप के एलान से दुनिया में हलचल, होर्मुज जलडमरूमध्य खुलने से तेल बाजार में गिरावट।",
+      "published_at": "2026-06-15T04:14:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/sandra-cuevas-fifa-world-cup-2026-mexico-football-team-mexico-city-angel-of-independence-sandr_3340ce3e616ebcf63718187c376b33a7.jpeg?w=750&dpr=1.0",
+      "summary": "मेक्सिको की पूर्व मेयर सैंड्रा कुएवास फीफा विश्वकप 2026 के दौरान चर्चा में रहीं। उनकी तस्वीरें इंटरनेट पर वायरल हुईं। फीफा विश्वकप 2026 के दौरान मेक्सिको की पूर्व मेयर और चर्चित राजनेता सैंड्रा कुएवास एक बार फिर सुर्खियों में हैं। फुटबॉल विश्वकप में छाईं मेक्सिको की चर्चित महिला नेता, तस्वीरों ने इंटरनेट पर लगाई आग।",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ट्रंप के एलान से दुनिया में हलचल, होर्मुज जलडमरूमध्य खुलने से तेल बाजार में गिरावट",
-          "summary": "ट्रंप के एलान से होर्मुज जलडमरूमध्य खुलने से तेल बाजार में गिरावट आई। पश्चिम एशिया में पिछले कई महीनों से जारी तनाव और संघर्ष के बीच अब एक बड़ा कूटनीतिक मोड़ सामने आता दिखाई दे रहा है। ट्रंप के एलान से दुनिया में हलचल, होर्मुज जलडमरूमध्य खुलने से तेल बाजार में गिरावट।",
+          "title": "फुटबॉल विश्वकप में छाईं मेक्सिको की चर्चित महिला नेता, तस्वीरों ने इंटरनेट पर लगाई आग",
+          "summary": "मेक्सिको की पूर्व मेयर सैंड्रा कुएवास फीफा विश्वकप 2026 के दौरान चर्चा में रहीं। उनकी तस्वीरें इंटरनेट पर वायरल हुईं। फीफा विश्वकप 2026 के दौरान मेक्सिको की पूर्व मेयर और चर्चित राजनेता सैंड्रा कुएवास एक बार फिर सुर्खियों में हैं। फुटबॉल विश्वकप में छाईं मेक्सिको की चर्चित महिला नेता, तस्वीरों ने इंटरनेट पर लगाई आग।",
           "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "आंखों में जलन, खुजली और ड्राइनेस से बचना है तो अपनाएं ये टिप्स",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/eye-care-tips-for-summer-season-in-hindi-2026-06-15",
-      "source": "Amar Ujala National",
+      "title": "दिल्ली-एनसीआर में झमाझम बारिश से बदला मौसम का मिजाज, लोगों को गर्मी से मिली राहत",
+      "url": "https://www.amarujala.com/delhi-ncr/weather-takes-a-turn-in-delhi-ncr-with-heavy-rainfall-2026-06-15",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-15T04:27:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/eye-care-tips_4801f7180a7183ae44cff5f0b397c8dc.jpeg?w=750&dpr=1.0",
-      "summary": "गर्मी के दिनों में त्वचा के साथ आंखों की सुरक्षा भी जरूरी है. आंखों में जलन, खुजली और ड्राइनेस से बचने के लिए विशेषज्ञों की सलाह मानें और उनकी टिप्स अपनाएं. Eye Care Tips: गर्मी के दिनों में आप त्वचा की सुरक्षा का पूरा ध्यान रखती हैं, लेकिन अक्सर आंखों को नजरअंदाज कर देती हैं। यह मौसम आंखों को बीमार कर सकता है।",
-      "region": "World",
+      "published_at": "2026-06-15T04:03:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/weather-update_5588c0248578354f4101a6373df7685c.jpeg?w=750&dpr=1.0",
+      "summary": "दिल्ली-एनसीआर में सोमवार सुबह हुई बारिश से मौसम में बदलाव आया। गुरुग्राम सहित कई इलाकों में वर्षा दर्ज की गई, जिससे गर्मी से राहत मिली। दिल्ली-एनसीआर में सोमवार सुबह मौसम का मिजाज बदल गया। गुरुग्राम समेत दिल्ली एनसीआर के कई इलाकों में बारिश देखने को मिली। दिल्ली-एनसीआर में झमाझम बारिश से बदला मौसम का मिजाज, लोगों को गर्मी से मिली राहत।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आंखों में जलन, खुजली और ड्राइनेस से बचना है तो अपनाएं ये टिप्स",
-          "summary": "गर्मी के दिनों में त्वचा के साथ आंखों की सुरक्षा भी जरूरी है. आंखों में जलन, खुजली और ड्राइनेस से बचने के लिए विशेषज्ञों की सलाह मानें और उनकी टिप्स अपनाएं. Eye Care Tips: गर्मी के दिनों में आप त्वचा की सुरक्षा का पूरा ध्यान रखती हैं, लेकिन अक्सर आंखों को नजरअंदाज कर देती हैं। यह मौसम आंखों को बीमार कर सकता है।",
-          "region": "दुनिया"
+          "title": "दिल्ली-एनसीआर में झमाझम बारिश से बदला मौसम का मिजाज, लोगों को गर्मी से मिली राहत",
+          "summary": "दिल्ली-एनसीआर में सोमवार सुबह हुई बारिश से मौसम में बदलाव आया। गुरुग्राम सहित कई इलाकों में वर्षा दर्ज की गई, जिससे गर्मी से राहत मिली। दिल्ली-एनसीआर में सोमवार सुबह मौसम का मिजाज बदल गया। गुरुग्राम समेत दिल्ली एनसीआर के कई इलाकों में बारिश देखने को मिली। दिल्ली-एनसीआर में झमाझम बारिश से बदला मौसम का मिजाज, लोगों को गर्मी से मिली राहत।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
