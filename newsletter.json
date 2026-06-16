@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-16T14:42:21.832002+00:00",
-  "article_count": 41,
-  "total_unique_count": 252,
+  "generated_at": "2026-06-16T16:36:41.862608+00:00",
+  "article_count": 48,
+  "total_unique_count": 265,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Fujitsu chair resigns after ‘woman-related inappropriate conduct’. 16 fresh dispatches in this edition.",
-    "hi": "G7 शिखर सम्मेलन में डोनाल्ड ट्रंप के रूसी तेल पर प्रतिबंध लगाने के संकेत ने भारत की चिंता बढ़ाई है।"
+    "en": "The Iran nuclear deal and its implications for China's energy strategy dominate headlines. Meanwhile, Fujitsu's chair resignation and Starbucks Korea's store closures offer contrasting signals of corporate disruption. Tensions around Taiwan also remain a persistent undercurrent.",
+    "hi": "G7 शिखर सम्मेलन में डोनाल्ड ट्रंप की रूस से अपील और रूसी तेल पर प्रतिबंधों के संकेत प्रमुख हैं। वहीं, भारत की बढ़ती भूमिका और पीएम मोदी की विश्व नेताओं के साथ तस्वीरें चर्चा का विषय बनीं।"
   },
   "articles": [
     {
@@ -40,18 +40,6 @@
       "image_url": "https://gdb.rferl.org/97720406-7d25-47b6-7825-08debadc3b87_w1200_h630.jpg",
       "summary": "Odesa's property market is experiencing a surge despite ongoing Russian strikes from the Black Sea. Real estate agents report that seaside homes and apartments are selling rapidly. Demand is primarily from local residents, buyers from Kyiv, and Ukrainians displaced by the conflict. Life in the city continues, with residents protected by air defense systems. Despite Russian strikes from the Black Sea, real estate agents say Odesa’s property market is surging.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran deal says ‘loud and clear’ that Tehran won’t have a nuclear weapon, says Donald Trump",
-      "url": "https://www.thehindu.com/news/international/iran-deal-says-loud-and-clear-that-tehran-wont-have-a-nuclear-weapon-says-donald-trump/article71108865.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-16T11:56:06+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/8jqh9w/article71108895.ece/alternates/LANDSCAPE_1200/2026-06-16T095605Z_413823465_RC2XULAOIE2M_RTRMADP_3_G7-SUMMIT-TRUMP.JPG",
-      "summary": "Donald Trump criticized Israel’s strategy in Lebanon. Trump appeared critical of Israel’s strategy in Lebanon and also suggested that ⁠neighbouring Syria. which under President Ahmed al-Sharaa is struggling to stabilise the country after years of civil war. could be best ‌placed to intervene. Iran deal says ‘loud and clear’ that Tehran won’t have a nuclear weapon, says Donald Trump.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -176,6 +164,54 @@
       "translations": {}
     },
     {
+      "title": "Risky return home in Lebanon, displacement in Gaza, emergency funding for Somalia",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167724",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-15T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/10-06-2026-UNICEF-Lebanon-01.jpg/image770x420cropped.jpg",
+      "summary": "Displaced people in Lebanon face difficulties returning home. This is despite a recent agreement between the United States and Iran. The UN Office for the Coordination of Humanitarian Affairs reported the ongoing challenges. Despite the agreement announced on Sunday between the United States and Iran, displaced people in Lebanon continue to face difficulties in returning to their communities, the UN Office for the Coordination of Humanitarian Affairs (OCHA) has reported.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "WHO commends Uganda’s Ebola response, urges vigilance and regional cooperation",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167722",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-15T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/15-06-2026-WHO-Tedros-Uganda.jpg/image770x420cropped.jpg",
+      "summary": "The World Health Organization head praised Uganda's Ebola response. The outbreak spread from the Democratic Republic of the Congo. Continued vigilance and regional cooperation are critical to stopping transmission. The head of the World Health Organization (WHO) has praised Uganda’s response to an Ebola outbreak that has spread from neighbouring Democratic Republic of the Congo (DRC), while warning that continued vigilance and cross-border cooperation will be critical to stopping transmission.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Latest Russian attack kills civilians, damages cultural landmark",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167718",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-15T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/15-06-2026-UNOCHA-Ukraine-01.jpg/image770x420cropped.jpg",
+      "summary": "Russian attacks killed civilians and damaged cultural sites in Ukraine. Overnight strikes targeted Kyiv and Kharkiv. The United Nations reported on the destruction of history and cultural heritage. Several civilians were killed and dozens more were injured in the latest wave of overnight attacks in Ukraine that targeted the capital Kyiv, the city of Kharkiv and the country’s history and cultural heritage, the United Nations said on Monday.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "While world waits for details on Iran-US accord, UN calls for Hormuz aid corridor",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-15T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Graphics%20Library/03-02-2026-NASA-Hormuz.jpg/image770x420cropped.jpg",
+      "summary": "The UN called for an aid corridor through the Strait of Hormuz. This is as Iran and the United States reportedly prepared to sign a peace agreement. The UN stressed the need to prevent a global hunger crisis. As representatives of Iran and the United States reportedly prepared to sign a new peace agreement at the end of the week, the UN on Monday stressed the urgent need to open an aid corridor to transit the choked-off Strait of Hormuz and prevent a global hunger crisis.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Violent attacks on schools, pupils and staff around the world up by 40%, says study",
       "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
       "source": "The Guardian",
@@ -184,6 +220,54 @@
       "image_url": "https://i.guim.co.uk/img/media/6dac1cfee0895baf98d046cb4ae8c69266ffb82e/342_0_1977_1582/master/1977.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=670ad4672a9f9f61f21ae11c5d9377da",
       "summary": "Violent attacks on schools, students, and staff globally rose by 40% in Cases reported in 83 countries, with at least 10,600 students and staff killed, injured, abducted or arrested, GCPEA saysAttacks on education globally have surged by 40% with more than 8,556 recorded incidents and 10,600 students and staff killed, injured, abducted, arrested or otherwise harmed in 2024 and 2025, according to new research. Attacks were reported in 83 countries, with the highest inci.",
       "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "The young woman leader transforming communities in the Central African Republic",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167705",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-14T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2026-WFP-Central-African-Republic-01.jpg/image770x420cropped.jpg",
+      "summary": "Nina Mireille Yankinon is transforming communities in the Central African Republic. She dedicates her life to helping war-torn communities. Yankinon represents resilience and hope in a nation marked by conflict. In the heart of the Central African Republic (CAR), a nation long marked by conflict, Nina Mireille Yankinon stands as a symbol of resilience, leadership, and hope, dedicating her life to helping communities torn apart by war.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167684",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-03-2026-WFP-Afghanistan-05.jpg/image770x420cropped.jpg",
+      "summary": "Critical food aid for Afghan students travels 15,000 kilometres The odyssey begins in Indonesia and ends, 15,000 kilometres later, in Kabul, the capital of Afghanistan. Along the way, critical food aid destined for young Afghan students crosses nine countries, over land and sea, skirting geopolitical unrest and conflict zones. Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167715",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-12T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/09-04-2026_UNP_SC_UNMIK.jpg/image770x420cropped.jpg",
+      "summary": "The Security Council discussed the future of the UN mechanism for war crimes tribunals. The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remaining work of the international tribunals for Rwanda and the former Yugoslavia, as members debated how to preserve its legacy while bringing its mandate to an orderly close. Security Council weighs future of UN war crimes mechanism as closure nears.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll as funding falls",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167708",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-12T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/12-06-2026_Yemen-UNFPA.JPG/image770x420cropped.jpg",
+      "summary": "Yemen's humanitarian crisis affects 22 million people out of 35 million Yemen remains gripped by one of the world’s worst humanitarian crises, with 22 million – out of a population of 35 million – requiring assistance. Women and girls account for half of those in need, and two-thirds of them are of childbearing age, placing reproductive health at the heart of the emergency.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -198,6 +282,204 @@
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "रूस का प्रतिबंधित तेल टैंकर जब्त, भारतीय कप्तान गिरफ्तार",
+      "url": "https://www.patrika.com/world-news/uk-seizes-russian-shadow-fleet-tanker-english-channel-indian-captain-arrested-20673792",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-16T16:18:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Russian-Shadow-Fleet-Tanker-Seized.webp",
+      "summary": "ब्रिटेन के अधिकारियों ने इंग्लिश चैनल में रूस के एक कच्चे तेल के टैंकर को जब्त कर लिया है। Russian Shadow Fleet Tanker Seized: रूस-यूक्रेन युद्ध के बीच अंतरराष्ट्रीय प्रतिबंधों को लेकर समुद्र में एक बहुत बड़ी कार्रवाई सामने आई है। ब्रिटेन (UK) के अधिकारियों ने इंग्लिश चैनल में एक विशेष ऑपरेशन चलाकर रूस के ‘शैडो फ्लीट’ (Shadow Fleet/गुप्त बेड़े) से जुड़े एक कच्चे तेल के टैंकर को जब्त कर लिया है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस का प्रतिबंधित तेल टैंकर जब्त, भारतीय कप्तान गिरफ्तार",
+          "summary": "ब्रिटेन के अधिकारियों ने इंग्लिश चैनल में रूस के एक कच्चे तेल के टैंकर को जब्त कर लिया है। Russian Shadow Fleet Tanker Seized: रूस-यूक्रेन युद्ध के बीच अंतरराष्ट्रीय प्रतिबंधों को लेकर समुद्र में एक बहुत बड़ी कार्रवाई सामने आई है। ब्रिटेन (UK) के अधिकारियों ने इंग्लिश चैनल में एक विशेष ऑपरेशन चलाकर रूस के ‘शैडो फ्लीट’ (Shadow Fleet/गुप्त बेड़े) से जुड़े एक कच्चे तेल के टैंकर को जब्त कर लिया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "'साथ नहीं होते तो इजरायल खत्म हो जाता', G7 में बोले ट्रंप, नेतन्याहू को दी नसीहत",
+      "url": "https://hindi.news18.com/world/middle-east-us-president-donald-trump-comments-without-united-states-there-would-be-no-israel-10576966.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-16T15:52:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/trump-netanyahu-2-2026-06-2846cacb837a42de6c76453fde7f362a-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने मंगलवार को एवियन में कतर के अमीर शेख तमीम बिन हमद अल थानी के साथ प्रेस वार्ता की। उन्होंने दावा किया कि उनके बिना इजरायल खत्म हो जाता। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने मंगलवार को एवियन में कतर के अमीर शेख तमीम बिन हमद अल थानी के प्रेस वार्ता की. अमेरिकी राष्ट्रपति ने दावा किया कि अगर वो न होते तो इजरायल तबाह हो चुका होता.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'साथ नहीं होते तो इजरायल खत्म हो जाता', G7 में बोले ट्रंप, नेतन्याहू को दी नसीहत",
+          "summary": "डोनाल्ड ट्रंप ने मंगलवार को एवियन में कतर के अमीर शेख तमीम बिन हमद अल थानी के साथ प्रेस वार्ता की। उन्होंने दावा किया कि उनके बिना इजरायल खत्म हो जाता। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने मंगलवार को एवियन में कतर के अमीर शेख तमीम बिन हमद अल थानी के प्रेस वार्ता की. अमेरिकी राष्ट्रपति ने दावा किया कि अगर वो न होते तो इजरायल तबाह हो चुका होता.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चीन पर 276 साल राज करने वाले मिंग साम्राज्य का अंत कैसे हुआ? एक ज्वालामुखी के चलते सुसाइड पर मजबूर",
+      "url": "https://hindi.news18.com/world/china-philippines-volcano-eruption-china-ming-dynasty-collapse-10576980.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-16T15:50:33+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/China_Ming_Dynasty-2026-06-efa2db767342a431927072a371b4517f-1200x800.jpg",
+      "summary": "नई जलवायु शोध के अनुसार, 1640 में फिलीपींस में एक बड़े ज्वालामुखी विस्फोट ने चीन के मिंग राजवंश के hina Ming Dynasty Collapse: एक नई क्लाइमेट रिसर्च के मुताबिक, फिलिपींस में 1640 में हुए एक विशाल ज्वालामुखी विस्फोट ने चीन के मिंग डायनेस्टी के पतन का रास्ता साफ किया था. इस विस्फोट से निकले सल्फेट एरोसोल के कारण भयंकर सूखा पड़ा.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन पर 276 साल राज करने वाले मिंग साम्राज्य का अंत कैसे हुआ? एक ज्वालामुखी के चलते सुसाइड पर मजबूर",
+          "summary": "नई जलवायु शोध के अनुसार, 1640 में फिलीपींस में एक बड़े ज्वालामुखी विस्फोट ने चीन के मिंग राजवंश के hina Ming Dynasty Collapse: एक नई क्लाइमेट रिसर्च के मुताबिक, फिलिपींस में 1640 में हुए एक विशाल ज्वालामुखी विस्फोट ने चीन के मिंग डायनेस्टी के पतन का रास्ता साफ किया था. इस विस्फोट से निकले सल्फेट एरोसोल के कारण भयंकर सूखा पड़ा.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘रूस से तेल खरीदने पर छूट अब खत्म होगी’, G7 समिट में जेलेंस्की से मुलाकात के बाद डोनाल्ड ट्रंप का",
+      "url": "https://www.patrika.com/world-news/donald-trump-russian-oil-waiver-lapse-iran-war-send-message-to-vladimir-putin-20673785",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-16T15:46:12+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2025/12/Russia-Ukraine-War-President-Trump-Putin.webp",
+      "summary": "डोनाल्ड ट्रंप ने जी7 शिखर सम्मेलन में यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की से मुलाकात के बाद रूस पर एक बड़ा बयान दिया है। उन्होंने कहा कि रूस से तेल खरीदने पर दी जा रही विशेष छूट को अब समाप्त किया जा सकता है। यह बयान रूस के ऊर्जा निर्यात पर संभावित प्रभाव डाल सकता है। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने जी7 समिट के दौरान यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की से मुलाकात के बाद रूस को झटका देने वाला बयान दिया है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘रूस से तेल खरीदने पर छूट अब खत्म होगी’, G7 समिट में जेलेंस्की से मुलाकात के बाद डोनाल्ड ट्रंप का",
+          "summary": "डोनाल्ड ट्रंप ने जी7 शिखर सम्मेलन में यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की से मुलाकात के बाद रूस पर एक बड़ा बयान दिया है। उन्होंने कहा कि रूस से तेल खरीदने पर दी जा रही विशेष छूट को अब समाप्त किया जा सकता है। यह बयान रूस के ऊर्जा निर्यात पर संभावित प्रभाव डाल सकता है। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने जी7 समिट के दौरान यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की से मुलाकात के बाद रूस को झटका देने वाला बयान दिया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "G7 से पीएम मोदी ने 5 नेताओं के साथ शेयर की तस्वीरें, तीसरे की चर्चा खूब",
+      "url": "https://hindi.news18.com/world/europe-g7-summit-2026-pm-modi-meets-meloni-starmer-macron-in-france-but-cold-handshake-with-trump-photo-steals-limelight-photogallery-10576958.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-16T15:45:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/PM-Modi-Macron-2026-06-ca3509cbc1cdf00b1840b0dbb38e2c41-1200x800.jpg",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने फ्रांस के एवियन-लेस-बैंस में जी-7 शिखर सम्मेलन के दौरान कई वैश्विक नेताओं से मुलाकात की। उन्होंने ब्रिटिश प्रधानमंत्री कीर स्टार्मर और इटली की प्रधानमंत्री जॉर्जिया मेलोनी के साथ तस्वीरें खिंचवाईं। इन मुलाकातों की तस्वीरें कूटनीतिक गलियारों में चर्चा का विषय बनीं। फ्रांस के एवियन-लेस-बैंस में चल रहे जी-7 शिखर सम्मेलन से इस कई तस्वीरें सामने आ रही हैं, जिसने पूरी दुनिया के कूटनीतिक गलियारों में हलचल मचा दी है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "G7 से पीएम मोदी ने 5 नेताओं के साथ शेयर की तस्वीरें, तीसरे की चर्चा खूब",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने फ्रांस के एवियन-लेस-बैंस में जी-7 शिखर सम्मेलन के दौरान कई वैश्विक नेताओं से मुलाकात की। उन्होंने ब्रिटिश प्रधानमंत्री कीर स्टार्मर और इटली की प्रधानमंत्री जॉर्जिया मेलोनी के साथ तस्वीरें खिंचवाईं। इन मुलाकातों की तस्वीरें कूटनीतिक गलियारों में चर्चा का विषय बनीं। फ्रांस के एवियन-लेस-बैंस में चल रहे जी-7 शिखर सम्मेलन से इस कई तस्वीरें सामने आ रही हैं, जिसने पूरी दुनिया के कूटनीतिक गलियारों में हलचल मचा दी है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "G7 समिट में जेलेंस्की से मुलाकात के बाद डोनाल्ड ट्रंप की रूस से अपील",
+      "url": "https://www.patrika.com/world-news/trump-zelenskyy-meeting-sparks-peace-hopes-as-g7-focuses-on-ukraine-war-and-iran-deal-concerns-20673637",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-16T15:36:59+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Trump-Zelensky-Meeting.webp",
+      "summary": "फ्रांस में G7 शिखर सम्मेलन के दौरान, डोनाल्ड ट्रंप ने यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की से मुलाकात की। इसके बाद ट्रंप ने रूस से शांति समझौता करने की अपील की। उन्होंने युद्ध समाप्त करने के लिए हर संभव प्रयास करने की बात कही। Russia-Ukraine War Update: दुनिया की नजरें फ्रांस में आयोजित G7 शिखर सम्मेलन पर टिकी हैं। इस बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की के बीच हुई बातचीत चर्चा में है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "G7 समिट में जेलेंस्की से मुलाकात के बाद डोनाल्ड ट्रंप की रूस से अपील",
+          "summary": "फ्रांस में G7 शिखर सम्मेलन के दौरान, डोनाल्ड ट्रंप ने यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की से मुलाकात की। इसके बाद ट्रंप ने रूस से शांति समझौता करने की अपील की। उन्होंने युद्ध समाप्त करने के लिए हर संभव प्रयास करने की बात कही। Russia-Ukraine War Update: दुनिया की नजरें फ्रांस में आयोजित G7 शिखर सम्मेलन पर टिकी हैं। इस बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की के बीच हुई बातचीत चर्चा में है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "1.89 लाख रुपये लीटर बिकने वाली गैस! चांद की मिट्टी में छुपा है अरबों का खजाना, पाने के लिए जंग शुरू",
+      "url": "https://hindi.news18.com/world/america-what-is-helium-3-moon-mining-race-worth-2000-dollars-per-litre-10576942.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-16T15:34:20+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Moon_Mining_Helium-3-2026-06-1bae3a67a95704ba15c294628b2baa49-1200x800.jpg",
+      "summary": "चांद पर मिलने वाली हीलियम-3 गैस की कीमत 1.89 लाख रुपये प्रति लीटर है। क्वांटम कंप्यूटिंग और न्यूक्लियर फ्यूजन के लिए आवश्यक इस गैस की पृथ्वी पर भारी कमी है। अमेरिकी कंपनियां 2027 तक चांद से खनन की तैयारी कर रही हैं। Helium-3 Gas: चांद पर मिलने वाली हीलियम-3 गैस की कीमत करीब 1.89 लाख रुपये प्रति लीटर पार कर गई है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "1.89 लाख रुपये लीटर बिकने वाली गैस! चांद की मिट्टी में छुपा है अरबों का खजाना, पाने के लिए जंग शुरू",
+          "summary": "चांद पर मिलने वाली हीलियम-3 गैस की कीमत 1.89 लाख रुपये प्रति लीटर है। क्वांटम कंप्यूटिंग और न्यूक्लियर फ्यूजन के लिए आवश्यक इस गैस की पृथ्वी पर भारी कमी है। अमेरिकी कंपनियां 2027 तक चांद से खनन की तैयारी कर रही हैं। Helium-3 Gas: चांद पर मिलने वाली हीलियम-3 गैस की कीमत करीब 1.89 लाख रुपये प्रति लीटर पार कर गई है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "हाथ फिसला और… सिर्फ 10 सेकंड में खत्म हो गया खेल! 120 मीटर गहरे ज्वालामुखी में गिरा 'यमन का",
+      "url": "https://hindi.news18.com/world/middle-east-yemen-s-spider-man-al-qaqa-ibn-antar-dies-after-falling-from-cliff-famous-for-daring-stunts-10576765.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-16T15:32:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/yaman-Spiderman-2026-06-e9d775a5956f9730cf753d3657f3a509-1200x800.jpg",
+      "summary": "यमन के \"स्पाइडर-मैन\" अल-काका इब्न अंटर सीधी चट्टानों पर चढ़ने के प्रयास में 120 मीटर गहरे ज्वालामुखी में गिर गए। सिविल डिफेंस अथॉरिटी ने उनके गिरने का वीडियो जारी किया है। अधिकारियों ने बताया कि यमन के स्पाइडर-मैन के नाम से मशहूर अल-काका इब्न अंटर सीधी चट्टानों पर चढ़ने के प्रयास के दौरान मौत हो गई. अल-काका इब्न अंटर डेयरडेविल्स एडवेंचरर थे.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हाथ फिसला और… सिर्फ 10 सेकंड में खत्म हो गया खेल! 120 मीटर गहरे ज्वालामुखी में गिरा 'यमन का",
+          "summary": "यमन के \"स्पाइडर-मैन\" अल-काका इब्न अंटर सीधी चट्टानों पर चढ़ने के प्रयास में 120 मीटर गहरे ज्वालामुखी में गिर गए। सिविल डिफेंस अथॉरिटी ने उनके गिरने का वीडियो जारी किया है। अधिकारियों ने बताया कि यमन के स्पाइडर-मैन के नाम से मशहूर अल-काका इब्न अंटर सीधी चट्टानों पर चढ़ने के प्रयास के दौरान मौत हो गई. अल-काका इब्न अंटर डेयरडेविल्स एडवेंचरर थे.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अचानक पिच पर बैठा, हाथ से पानी मांगा और लुढ़क गया… दुबई में क्रिकेट मैच के दौरान हार्ट अटैक से",
+      "url": "https://hindi.news18.com/world/middle-east-indian-man-dies-of-heart-attack-during-cricket-match-in-dubai-10576881.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-16T15:31:01+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Cricket-2026-06-95d8f4a45f85ff8ba37262ae1cdd9214-1200x800.jpg",
+      "summary": "दुबई में एक क्रिकेट मैच के दौरान सफवान को हार्ट अटैक आया। वह 15 साल पहले दुबई आए थे और नियमित रूप से क्रिकेट खेलते थे। उन्होंने अपनी खुद की फूड ट्रेडिंग कंपनी शुरू की थी। सफवान 15 साल पहले दुबई आए थे. यहां आने के बाद से नियमित खेलते थे. कई सालों से दुबई में काम कर रहे थे.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अचानक पिच पर बैठा, हाथ से पानी मांगा और लुढ़क गया… दुबई में क्रिकेट मैच के दौरान हार्ट अटैक से",
+          "summary": "दुबई में एक क्रिकेट मैच के दौरान सफवान को हार्ट अटैक आया। वह 15 साल पहले दुबई आए थे और नियमित रूप से क्रिकेट खेलते थे। उन्होंने अपनी खुद की फूड ट्रेडिंग कंपनी शुरू की थी। सफवान 15 साल पहले दुबई आए थे. यहां आने के बाद से नियमित खेलते थे. कई सालों से दुबई में काम कर रहे थे.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "G7 Summit में भारत की बढ़ती भूमिका, PM नरेंद्र मोदी की डोनाल्ड ट्रंप समेत विश्व नेताओं के साथ",
+      "url": "https://www.patrika.com/world-news/pm-modi-meet-donald-trump-at-g7-summit-2026-france-discusses-india-us-relations-20673603",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-16T15:09:32+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/PM-MODI-1.png",
+      "summary": "फ्रांस में G7 शिखर सम्मेलन में प्रधानमंत्री नरेंद्र मोदी ने डोनाल्ड ट्रंप सहित कई विश्व नेताओं से मुलाकात की। उन्होंने भारत-अमेरिका संबंधों, व्यापार, एआई, निवेश और वैश्विक सुरक्षा पर चर्चा की। G7 Summit, Modi Trump Meet: फ्रांस के एवियन (Evian) में आयोजित G7 शिखर सम्मेलन (G7 Summit) में प्रधानमंत्री नरेंद्र मोदी ने दुनिया के कई बड़े नेताओं के साथ अहम बातचीत की।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "G7 Summit में भारत की बढ़ती भूमिका, PM नरेंद्र मोदी की डोनाल्ड ट्रंप समेत विश्व नेताओं के साथ",
+          "summary": "फ्रांस में G7 शिखर सम्मेलन में प्रधानमंत्री नरेंद्र मोदी ने डोनाल्ड ट्रंप सहित कई विश्व नेताओं से मुलाकात की। उन्होंने भारत-अमेरिका संबंधों, व्यापार, एआई, निवेश और वैश्विक सुरक्षा पर चर्चा की। G7 Summit, Modi Trump Meet: फ्रांस के एवियन (Evian) में आयोजित G7 शिखर सम्मेलन (G7 Summit) में प्रधानमंत्री नरेंद्र मोदी ने दुनिया के कई बड़े नेताओं के साथ अहम बातचीत की।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में ईरानी फुटबॉल टीम के साथ जानवरों जैसा सुलूक, फीफा वर्ल्ड कप के बहाने पूरी तरह से",
+      "url": "https://hindi.news18.com/news/sports/football-iran-football-team-told-to-go-back-to-their-basecamp-in-maxico-just-after-draw-with-new-zealand-in-fifa-world-cup-10575742.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-16T14:57:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/77-2026-06-5b5d6580531d558ed4a02a642af08666-1200x800.jpg",
+      "summary": "ईरान की फुटबॉल टीम को अमेरिका से तुरंत जाने के लिए कहा गया है। यह घटना फीफा विश्व कप 2026 में न्यूजीलैंड के खिलाफ टीम के 2-2 के ड्रॉ के बाद हुई। कोच के अनुसार, अधिकारियों ने टीम के साथ दुर्व्यवहार किया। Fifa World Cup 2026 में ईरान को पहला झटका तो तब लगा जब न्यूजीलैंड के खिलाफ अपने पहले ही मैच में टीम को 2-2 से ड्रॉ खेल लिया.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में ईरानी फुटबॉल टीम के साथ जानवरों जैसा सुलूक, फीफा वर्ल्ड कप के बहाने पूरी तरह से",
+          "summary": "ईरान की फुटबॉल टीम को अमेरिका से तुरंत जाने के लिए कहा गया है। यह घटना फीफा विश्व कप 2026 में न्यूजीलैंड के खिलाफ टीम के 2-2 के ड्रॉ के बाद हुई। कोच के अनुसार, अधिकारियों ने टीम के साथ दुर्व्यवहार किया। Fifa World Cup 2026 में ईरान को पहला झटका तो तब लगा जब न्यूजीलैंड के खिलाफ अपने पहले ही मैच में टीम को 2-2 से ड्रॉ खेल लिया.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "ट्रंप फ‍िर बढ़ाएंगे भारत की टेंशन, रूसी तेल खरीदने पर सैंक्‍शंस लगाने के द‍िए संकेत",
@@ -326,24 +608,6 @@
       }
     },
     {
-      "title": "मिलिए फीफा वर्ल्ड कप में पहुंचे सबसे छोटे देश से, आबादी केवल डेढ़ लाख, दिल्ली से तिहाई छोटा",
-      "url": "https://hindi.news18.com/photogallery/knowledge/curacao-smallest-country-in-fifa-world-cup-population-just-150000-one-third-of-delhi-ws-el-10575729.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-16T12:09:44+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/image-2026-06-438fa268e5ff5770e1fcaa4e13f8dc23-1200x800.jpg",
-      "summary": "कतर में फीफा विश्व कप में क्वालीफाई करने वाला सबसे छोटा देश है जमैका। जमैका की आबादी लगभग 1.5 लाख से 1.7 लाख के बीच है। यह क्षेत्रफल और जनसंख्या दोनों के हिसाब से अब तक का सबसे छोटा देश है जिसने विश्व कप के लिए क्वालीफाई किया है। इस बार फीफा वर्ल्ड कप फुटबॉल सबसे छोटा देश आया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिलिए फीफा वर्ल्ड कप में पहुंचे सबसे छोटे देश से, आबादी केवल डेढ़ लाख, दिल्ली से तिहाई छोटा",
-          "summary": "कतर में फीफा विश्व कप में क्वालीफाई करने वाला सबसे छोटा देश है जमैका। जमैका की आबादी लगभग 1.5 लाख से 1.7 लाख के बीच है। यह क्षेत्रफल और जनसंख्या दोनों के हिसाब से अब तक का सबसे छोटा देश है जिसने विश्व कप के लिए क्वालीफाई किया है। इस बार फीफा वर्ल्ड कप फुटबॉल सबसे छोटा देश आया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "इस देश की वायुसेना में सिर्फ एक हवाई जहाज़, जानिए कैसे करता है अपनी हवाई सुरक्षा",
       "url": "https://hindi.news18.com/news/defence/the-world-smallest-air-force-the-remarkable-case-of-luxembourg-ws-l-10575958.html",
       "source": "News18 Hindi (World)",
@@ -434,24 +698,6 @@
       }
     },
     {
-      "title": "कोलकाता से थाईलैंड तक बनेगी रोड़...सुनते ही म्यांमार पर चीन ने उड़ेला प्यार, भारत की 2 डील से घबराए",
-      "url": "https://hindi.news18.com/world/china-india-myanmar-thailand-trilateral-highway-how-pm-modi-act-east-masterstroke-rattled-china-xi-jinping-u-min-aung-hlaing-deal-10575693.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-16T10:52:00+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/India-Myanmar-China-2026-06-d0f0906f32c130342827f908a66e8dfd-1200x800.jpg",
-      "summary": "भारत और म्यांमार के मजबूत होते रिश्तों ने चीन को चिंतित किया है। दक्षिण-पूर्व एशिया में चल रहे एक बड़े पावर स्ट्रगल के बीच भारत और म्यांमार के मजबूत होते रिश्तों ने चीन की रातों की नींद उड़ा दी है. खासकर, दोनों देशों के बीच हुई भारत-म्यांमार-थाईलैंड त्रिपक्षीय राजमार्ग (Trilateral Highway) से जिनपिंग बुरी तरह घबरा गए हैं. भारत की इस 'एक्ट ईस्ट' नीति की काट ढूंढने के लिए चीनी राष्ट्रपति शी जिनपिंग ने आनन-फानन में म्यांमार के राष्ट्रपति को बीजिंग बुलाकर 18 समझौतो।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कोलकाता से थाईलैंड तक बनेगी रोड़...सुनते ही म्यांमार पर चीन ने उड़ेला प्यार, भारत की 2 डील से घबराए",
-          "summary": "भारत और म्यांमार के मजबूत होते रिश्तों ने चीन को चिंतित किया है। दक्षिण-पूर्व एशिया में चल रहे एक बड़े पावर स्ट्रगल के बीच भारत और म्यांमार के मजबूत होते रिश्तों ने चीन की रातों की नींद उड़ा दी है. खासकर, दोनों देशों के बीच हुई भारत-म्यांमार-थाईलैंड त्रिपक्षीय राजमार्ग (Trilateral Highway) से जिनपिंग बुरी तरह घबरा गए हैं. भारत की इस 'एक्ट ईस्ट' नीति की काट ढूंढने के लिए चीनी राष्ट्रपति शी जिनपिंग ने आनन-फानन में म्यांमार के राष्ट्रपति को बीजिंग बुलाकर 18 समझौतो।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "ईरान सरकार का सख्त रुख, जनवरी में विरोध प्रदर्शन करने वाले 2 युवकों को फांसी पर लटकाया",
       "url": "https://www.patrika.com/world-news/iran-executed-two-men-january-2026-protests-here-all-new-updates-20672914",
       "source": "Patrika (World)",
@@ -470,96 +716,6 @@
       }
     },
     {
-      "title": "अफगानिस्तान की सड़कों पर मौत का तांडव! मिनी बस पलटने से 4 की मौत, 17 दिन पहले भी 18 लोग गंवा चुके",
-      "url": "https://hindi.news18.com/world/south-asia-afghanistan-bus-crash-wardak-mother-child-killed-road-accident-ws-e-10575970.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-16T10:25:12+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/image-2026-06-d7e2d5fb6a585feee47c2948b5c90be6-1200x800.jpg",
-      "summary": "वर्दक प्रांत में एक मिनी बस के पलट जाने से चार लोगों की मौत हो गई और चार अन्य घायल हो गए। यह घटना 30 मई को हुई जब पाकिस्तान से लौट रहे अफगान शरणार्थियों से भरा एक ट्रक पलट गया, जिसमें 18 लोगों की जान चली गई थी। देश में लगातार हो रहे सड़क हादसों ने सड़क सुरक्षा पर गंभीर सवाल खड़े कर दिए हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अफगानिस्तान की सड़कों पर मौत का तांडव! मिनी बस पलटने से 4 की मौत, 17 दिन पहले भी 18 लोग गंवा चुके",
-          "summary": "वर्दक प्रांत में एक मिनी बस के पलट जाने से चार लोगों की मौत हो गई और चार अन्य घायल हो गए। यह घटना 30 मई को हुई जब पाकिस्तान से लौट रहे अफगान शरणार्थियों से भरा एक ट्रक पलट गया, जिसमें 18 लोगों की जान चली गई थी। देश में लगातार हो रहे सड़क हादसों ने सड़क सुरक्षा पर गंभीर सवाल खड़े कर दिए हैं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जून के पहले 15 दिनों में 11 सैन्य विमान क्रैश, दुनिया के 8 देशों की वायु सेनाओं को नुकसान",
-      "url": "https://hindi.news18.com/news/defence/june-2026-first-15-days-11-military-aircraft-crashes-8-air-forces-affected-ws-l-10575235.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-16T09:44:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Your-paragraph-text-1600-x-900-px-72-2026-06-c4256230714b542a166f3cd1bb3c34cc-1200x800.jpg",
-      "summary": "जून 2026 के पहले पंद्रह दिनों में आठ देशों की वायु सेनाओं के 11 सैन्य विमान दुर्घटनाग्रस्त हो गए। इन हादसों में प्रशिक्षण उड़ानें, तकनीकी खराबी और आपातकालीन लैंडिंग जैसी घटनाएं शामिल थीं। इन दुर्घटनाओं ने दुनिया भर की वायु सेनाओं की परिचालन क्षमता पर असर डाला। जून 2026 के पहले 15 दिन दुनिया की सैन्य एविएशन के लिए बेहद चुनौतीपूर्ण रहे.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जून के पहले 15 दिनों में 11 सैन्य विमान क्रैश, दुनिया के 8 देशों की वायु सेनाओं को नुकसान",
-          "summary": "जून 2026 के पहले पंद्रह दिनों में आठ देशों की वायु सेनाओं के 11 सैन्य विमान दुर्घटनाग्रस्त हो गए। इन हादसों में प्रशिक्षण उड़ानें, तकनीकी खराबी और आपातकालीन लैंडिंग जैसी घटनाएं शामिल थीं। इन दुर्घटनाओं ने दुनिया भर की वायु सेनाओं की परिचालन क्षमता पर असर डाला। जून 2026 के पहले 15 दिन दुनिया की सैन्य एविएशन के लिए बेहद चुनौतीपूर्ण रहे.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरान से समझौते की खबरों के बीच इराकी पीएम को व्हाइट हाउस का न्योता, क्या है वजह?",
-      "url": "https://hindi.news18.com/world/middle-east-american-president-office-white-house-calls-iraq-prime-minister-amid-iran-ceasefire-ws-l-10575750.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-16T09:22:44+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iraq-2026-06-5d6f9b431253cf786e366dc8ed524f01-1200x800.jpg",
-      "summary": "व्हाइट हाउस ने इराकी प्रधानमंत्री अली अल-जैदी को वाशिंगटन आमंत्रित किया है। यह निमंत्रण ऐसे समय आया है जब ईरान और अमेरिका के बीच संभावित संघर्ष विराम की खबरें आ रही हैं। जिनेवा में 19 जून को इस समझौते पर मुहर लगने की उम्मीद है। यह मुलाकात दोनों देशों के बीच संबंधों को मजबूत करने के प्रयास का हिस्सा है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान से समझौते की खबरों के बीच इराकी पीएम को व्हाइट हाउस का न्योता, क्या है वजह?",
-          "summary": "व्हाइट हाउस ने इराकी प्रधानमंत्री अली अल-जैदी को वाशिंगटन आमंत्रित किया है। यह निमंत्रण ऐसे समय आया है जब ईरान और अमेरिका के बीच संभावित संघर्ष विराम की खबरें आ रही हैं। जिनेवा में 19 जून को इस समझौते पर मुहर लगने की उम्मीद है। यह मुलाकात दोनों देशों के बीच संबंधों को मजबूत करने के प्रयास का हिस्सा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दुनिया का सबसे बड़ा एयरक्राफ्ट कैरियर F-35 के आगे फेल, जेट उड़ाया तो जहाज में हो जाएगा छेद!",
-      "url": "https://hindi.news18.com/world/america-uss-gerald-r-ford-aircraft-carrier-cannot-fly-f35c-fighter-jet-us-navy-problem-10575475.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-16T08:30:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/aircraft-carrier-f-35-2026-06-ba8cc2b109eb62d3315d52a098b2e444-1200x800.jpg",
-      "summary": "अमेरिकी नौसेना का $13 अरब का एयरक्राफ्ट कैरियर USS जेराल्ड आर फोर्ड, F-35C फाइटर जेट को संचालित करने में असमर्थ है. रिकॉर्ड 326 दिनों की तैनाती के बाद, जहाज को एक साल के लिए शिपयार्ड में मरम्मत के लिए भेजा जाएगा. अमेरिका का सबसे महंगा युद्धपोत USS जेराल्ड आर फोर्ड एक बार फिर सवालों के घेरे में है. 326 दिन की रिकॉर्ड तैनाती और युद्ध अभियानों के बावजूद यह 13 अरब डॉलर का सुपरकैरियर अमेरिकी नौसेना के सबसे आधुनिक F-35C स्टेल्थ फाइटर को उड़ाने में सक्षम नहीं है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुनिया का सबसे बड़ा एयरक्राफ्ट कैरियर F-35 के आगे फेल, जेट उड़ाया तो जहाज में हो जाएगा छेद!",
-          "summary": "अमेरिकी नौसेना का $13 अरब का एयरक्राफ्ट कैरियर USS जेराल्ड आर फोर्ड, F-35C फाइटर जेट को संचालित करने में असमर्थ है. रिकॉर्ड 326 दिनों की तैनाती के बाद, जहाज को एक साल के लिए शिपयार्ड में मरम्मत के लिए भेजा जाएगा. अमेरिका का सबसे महंगा युद्धपोत USS जेराल्ड आर फोर्ड एक बार फिर सवालों के घेरे में है. 326 दिन की रिकॉर्ड तैनाती और युद्ध अभियानों के बावजूद यह 13 अरब डॉलर का सुपरकैरियर अमेरिकी नौसेना के सबसे आधुनिक F-35C स्टेल्थ फाइटर को उड़ाने में सक्षम नहीं है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'PoK से दफा हो जाओ', पाकिस्तानी सेना के खिलाफ खड़े हुए लोग, प्रदर्शनकारियों ने भारत का किया समर्थन",
-      "url": "https://hindi.news18.com/world/pakistan-exclusive-get-out-of-pok-people-rise-up-against-the-pakistan-army-declare-a-decisive-battle-10575407.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-16T08:30:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/POK-2026-06-473a48238f71531265f42306b3903bde-1200x800.jpg",
-      "summary": "पाकिस्तान अधिकृत कश्मीर में लोग पाकिस्तानी सेना के खिलाफ खड़े हो गए हैं। अमन ने आरोप लगाया, पाकिस्तान की सेना हमारा राशन तक रोक रही है. उन्होंने दावा किया कि अधिकारी आर्थिक उपायों के जरिए विरोध आंदोलन को कमजोर करने की कोशिश कर रहे हैं. 'PoK से दफा हो जाओ', पाकिस्तानी सेना के खिलाफ खड़े हुए लोग, प्रदर्शनकारियों ने भारत का किया समर्थन।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'PoK से दफा हो जाओ', पाकिस्तानी सेना के खिलाफ खड़े हुए लोग, प्रदर्शनकारियों ने भारत का किया समर्थन",
-          "summary": "पाकिस्तान अधिकृत कश्मीर में लोग पाकिस्तानी सेना के खिलाफ खड़े हो गए हैं। अमन ने आरोप लगाया, पाकिस्तान की सेना हमारा राशन तक रोक रही है. उन्होंने दावा किया कि अधिकारी आर्थिक उपायों के जरिए विरोध आंदोलन को कमजोर करने की कोशिश कर रहे हैं. 'PoK से दफा हो जाओ', पाकिस्तानी सेना के खिलाफ खड़े हुए लोग, प्रदर्शनकारियों ने भारत का किया समर्थन।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "‘लेबनान पर इज़रायली कब्ज़ा माना जाएगा अमेरिका से डील का उल्लंघन’, ईरानी विदेश मंत्री अब्बास अराघची का",
       "url": "https://www.patrika.com/world-news/abbas-araghchi-says-continuing-israeli-occupation-of-lebanon-would-be-violation-of-iran-us-deal-20672236",
       "source": "Patrika (World)",
@@ -574,78 +730,6 @@
           "title": "‘लेबनान पर इज़रायली कब्ज़ा माना जाएगा अमेरिका से डील का उल्लंघन’, ईरानी विदेश मंत्री अब्बास अराघची का",
           "summary": "ईरान और अमेरिका के बीच एक शांति समझौता इलेक्ट्रॉनिक रूप से हस्ताक्षरित हुआ है। Breaking: ईरान (Iran) और अमेरिका (United States of America) के बीच शांति डील हो गई है और इस पर इलेक्ट्रॉनिक तौर पर हस्ताक्षर भी कर दिए गए हैं। 19 जून को स्विट्रज़रलैंड (Switzerland) में इस डील पर आधिकारिक तौर पर हस्ताक्षर किए जाएंगे और इसी दौरान डील से जुड़ी सभी शर्तें भी स्पष्ट हो जाएंगी।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका के युद्ध खत्म करते ही रूस से फायदा उठाने चला ईरान",
-      "url": "https://www.patrika.com/world-news/iran-central-bank-governor-abdolnaser-hemmati-travels-moscow-discuss-iran-russia-banking-relations-20672092",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-16T07:13:09+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Iran-Central-Bank-Governor-Abdolnaser-Hemmati.webp",
-      "summary": "ईरान के सेंट्रल बैंक के गवर्नर अब्दोलनासेर हेम्मती ने मॉस्को का दौरा किया। यह दौरा ईरान और रूस के बीच बैंकिंग संबंधों को बढ़ावा देने के लिए हुआ। यह यात्रा अमेरिका द्वारा युद्ध समाप्त करने के बाद हुई। Iran-Russia banking relations: अमेरिका के जंग खत्म करते ही ईरान ने मौके का फायदा उठाते हुए रूस की ओर रुख किया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका के युद्ध खत्म करते ही रूस से फायदा उठाने चला ईरान",
-          "summary": "ईरान के सेंट्रल बैंक के गवर्नर अब्दोलनासेर हेम्मती ने मॉस्को का दौरा किया। यह दौरा ईरान और रूस के बीच बैंकिंग संबंधों को बढ़ावा देने के लिए हुआ। यह यात्रा अमेरिका द्वारा युद्ध समाप्त करने के बाद हुई। Iran-Russia banking relations: अमेरिका के जंग खत्म करते ही ईरान ने मौके का फायदा उठाते हुए रूस की ओर रुख किया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप के दावे पर ईरान ने दिया चौंकाने वाला जवाब - 'फ्री नहीं होगा होर्मुज फीस तो...'",
-      "url": "https://www.abplive.com/news/world/iran-not-take-toll-in-hormuz-but-convenience-fee-charged-donald-trump-declared-hormuz-free-peace-agreement-3145984",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-16T06:55:32+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/16/488faf4ea3745c638fbf6414aa5c3e3117815936687771368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "ईरान ने होर्मुज जलडमरूमध्य पर शुल्क लेने की बात कही है। यह शुल्क अंतरराष्ट्रीय कानून के तहत टोल नहीं होगा। यह कुछ सेवाओं के लिए लिया जाएगा। अमेरिका और ईरान के बीच शांति समझौते के तहत डोनाल्ड ट्रंप ने होर्मुज के 'टोल फ्री' होने का ऐलान किया है. अब ईरान की ओर से इसको लेकर जवाब आया है. तेहरान का कहना है कि होर्मुज पर टोल नहीं लगेगा, लेकिन शुल्क जरूर लिया जाएगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप के दावे पर ईरान ने दिया चौंकाने वाला जवाब - 'फ्री नहीं होगा होर्मुज फीस तो...'",
-          "summary": "ईरान ने होर्मुज जलडमरूमध्य पर शुल्क लेने की बात कही है। यह शुल्क अंतरराष्ट्रीय कानून के तहत टोल नहीं होगा। यह कुछ सेवाओं के लिए लिया जाएगा। अमेरिका और ईरान के बीच शांति समझौते के तहत डोनाल्ड ट्रंप ने होर्मुज के 'टोल फ्री' होने का ऐलान किया है. अब ईरान की ओर से इसको लेकर जवाब आया है. तेहरान का कहना है कि होर्मुज पर टोल नहीं लगेगा, लेकिन शुल्क जरूर लिया जाएगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'भारतीय विरोधी नारों और झंडे फाड़े जाने की निंदा करते हैं', टेक्सास में इंडियन-अमेरिकी लॉमेकर्स ने",
-      "url": "https://www.abplive.com/news/world/indian-american-lawmakers-condemn-anti-india-act-in-texas-3145967",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-16T06:36:25+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/16/e26eacc226cb7c30608f6c0abe86536d1781591679069628_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "टेक्सास के फ्रिस्को सिटी हॉल के बाहर भारतीय झंडा फाड़े जाने की अमेरिकी कांग्रेस के छह भारतीय-अमेरिकी सदस्यों ने निंदा की है। उन्होंने भारत-विरोधी नारों और विदेशियों के प्रति नफरत की भी निंदा की। अमेरिकी कांग्रेस के छह भारतीय-अमेरिकी सदस्यों ने टेक्सास के फ्रिस्को सिटी हॉल के बाहर इमिग्रेशन से जुड़े एक विरोध प्रदर्शन के दौरान भारतीय झंडा फाड़े जाने की कड़ी निंदा की है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'भारतीय विरोधी नारों और झंडे फाड़े जाने की निंदा करते हैं', टेक्सास में इंडियन-अमेरिकी लॉमेकर्स ने",
-          "summary": "टेक्सास के फ्रिस्को सिटी हॉल के बाहर भारतीय झंडा फाड़े जाने की अमेरिकी कांग्रेस के छह भारतीय-अमेरिकी सदस्यों ने निंदा की है। उन्होंने भारत-विरोधी नारों और विदेशियों के प्रति नफरत की भी निंदा की। अमेरिकी कांग्रेस के छह भारतीय-अमेरिकी सदस्यों ने टेक्सास के फ्रिस्को सिटी हॉल के बाहर इमिग्रेशन से जुड़े एक विरोध प्रदर्शन के दौरान भारतीय झंडा फाड़े जाने की कड़ी निंदा की है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'Big Joke, नया खिलौना मिलते ही...', गठबंधन टूटने के बाद राहुल गांधी पर फायर हुई DMK, लगाए ये आरोप",
-      "url": "https://www.abplive.com/news/india/dmk-targets-congress-rahul-gandhi-for-splitting-alliance-tamilnadu-india-alliance-join-tvk-mk-stalin-3145957",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-16T06:30:59+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/16/306e63ff9b685a9847b7e0e938be31d317815914024541368_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तमिलनाडु में गठबंधन टूटने के बाद डीएमके ने राहुल गांधी पर तीखा हमला बोला है। पार्टी ने उन्हें 'बड़ा मजाक' बताते हुए आरोप लगाया कि उन्होंने विपक्षी एकता को कमजोर किया है। डीएमके के इस बयान से इंडिया गठबंधन की एकजुटता पर सवाल उठ रहे हैं। तमिलनाडु में गठबंधन टूटने के बाद से द्रविड़ मुनेत्र कड़गम (DMK) और कांग्रेस के बीच मतभेद और दरार लगातार बढ़ती जा रही है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'Big Joke, नया खिलौना मिलते ही...', गठबंधन टूटने के बाद राहुल गांधी पर फायर हुई DMK, लगाए ये आरोप",
-          "summary": "तमिलनाडु में गठबंधन टूटने के बाद डीएमके ने राहुल गांधी पर तीखा हमला बोला है। पार्टी ने उन्हें 'बड़ा मजाक' बताते हुए आरोप लगाया कि उन्होंने विपक्षी एकता को कमजोर किया है। डीएमके के इस बयान से इंडिया गठबंधन की एकजुटता पर सवाल उठ रहे हैं। तमिलनाडु में गठबंधन टूटने के बाद से द्रविड़ मुनेत्र कड़गम (DMK) और कांग्रेस के बीच मतभेद और दरार लगातार बढ़ती जा रही है.",
-          "region": "दुनिया"
         }
       }
     }
