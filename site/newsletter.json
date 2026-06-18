@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-18T11:28:35.743613+00:00",
-  "article_count": 47,
+  "generated_at": "2026-06-18T13:18:05.690835+00:00",
+  "article_count": 49,
   "total_unique_count": 267,
   "digest": {
-    "en": "The Gaza conflict continues to dominate headlines, with new casualty figures emerging daily. Meanwhile, diplomatic maneuvers are underway, including planned Iran-U.S. talks in Switzerland. ASEAN's engagement with Russia offers a counterpoint to G7 isolation.",
-    "hi": "चीन के विदेश मंत्री का भारत दौरा BRICS की बैठकों के बीच हो रहा है। यह लद्दाख से हिंद महासागर तक के तनाव को दर्शाता है। यूक्रेन में रूस पर हुआ बड़ा हमला तेल रिफाइनरी को निशाना बनाता है।"
+    "en": "Gaza's death toll continues to climb as Israel conducts strikes. Russia faces isolation from the G7. Meanwhile, Iran and the US plan talks in Switzerland.",
+    "hi": "ईरान-अमेरिका डील के बाद तेल की कीमतों में 11% की गिरावट आई है। इसके बावजूद, अमेरिका ने ईरान को चेतावनी दी है कि अगर वादे पूरे नहीं हुए तो संघर्ष फिर शुरू हो सकता है।"
   },
   "articles": [
+    {
+      "title": "Technical work can begin, says atomic energy agency",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167748",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-18T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/10-09-2025_IAEA_nuclear.jpg/image770x420cropped.jpg",
+      "summary": "The UN’s atomic energy agency head welcomed an Iran-US memorandum to end the war. He proposed direct talks with both parties. The agency will assist with concrete measures. Verification of Iran’s nuclear program is a key sticking point. The head of the UN’s atomic energy agency on Thursday welcomed the signing of an initial Iran-US memorandum aimed at ending the war, before proposing “to sit down” with both parties to assist with concrete measures such as verification of Iran’s nuclear programme, a key sticking point.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Kremlin says Europeans probably 'pumped' Trump with harmful ideas during G7 summit",
+      "url": "https://www.thehindu.com/news/international/kremlin-says-europeans-probably-pumped-trump-with-harmful-ideas-during-g7-summit/article71117556.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-18T11:47:53+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/yl80ff/article71117616.ece/alternates/LANDSCAPE_1200/Ukraine_Zelenskyy_Rival_47989.jpg",
+      "summary": "U. S. President Trump met Ukrainian President Volodymyr Zelenskyy. President Trump said Russia should make peace with Ukraine ‌after a “very good” meeting with ‌Ukrainian ⁠President Volodymyr Zelenskyy on Tuesday, in ⁠comments that sparked cautious optimism among G7 leaders that a peace deal could be struck. Kremlin says Europeans probably 'pumped' Trump with harmful ideas during G7 summit.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire",
       "url": "https://www.thehindu.com/news/international/palestinian-death-toll-in-gaza-tops-73000-officials-say-as-israel-strikes-despite-ceasefire/article71101517.ece",
@@ -272,6 +296,96 @@
       "translations": {}
     },
     {
+      "title": "अमेरिका-ईरान डील के बाद आई खुशखबरी, पेट्रोल के दामों में सीधे 11% की भारी गिरावट, इस देश में धड़ाम",
+      "url": "https://hindi.news18.com/world/america-us-iran-deal-effect-petrol-prices-drop-across-us-average-gasoline-fuel-rate-slips-below-4-dollars-as-hormuz-reopens-10582604.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-18T12:38:00+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/America-Petrol-Price-Drop-2026-06-26a2d776a01c5daca89cb8243cf2c007-1200x800.jpg",
+      "summary": "अमेरिका और ईरान ने एक अंतरिम शांति समझौता अंतिम रूप दिया है. इस समझौते का सीधा असर वैश्विक तेल बाजार पर पड़ा है. अंतरराष्ट्रीय बाजार में कच्चे तेल की कीमतें 80 डॉलर प्रति बैरल से नीचे गिर गईं. अमेरिका में पेट्रोल के दाम 11 प्रतिशत कम हुए हैं. अमेरिका और ईरान के बीच आखिरकार एक अंतरिम शांति समझौत फाइनल हो गया है, जिसका सीधा और बड़ा असर वैश्विक तेल बाजार पर देखने को मिला है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-ईरान डील के बाद आई खुशखबरी, पेट्रोल के दामों में सीधे 11% की भारी गिरावट, इस देश में धड़ाम",
+          "summary": "अमेरिका और ईरान ने एक अंतरिम शांति समझौता अंतिम रूप दिया है. इस समझौते का सीधा असर वैश्विक तेल बाजार पर पड़ा है. अंतरराष्ट्रीय बाजार में कच्चे तेल की कीमतें 80 डॉलर प्रति बैरल से नीचे गिर गईं. अमेरिका में पेट्रोल के दाम 11 प्रतिशत कम हुए हैं. अमेरिका और ईरान के बीच आखिरकार एक अंतरिम शांति समझौत फाइनल हो गया है, जिसका सीधा और बड़ा असर वैश्विक तेल बाजार पर देखने को मिला है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'अमेरिका के इतिहास से सबक सीखें ख्वाजा आसिफ, आतंकवाद का ठीकरा अफगानिस्तान पर न फोड़े पाकिस्तान'",
+      "url": "https://hindi.news18.com/world/south-asia-khawaja-asif-should-learn-lessons-from-us-history-pakistan-should-not-blame-for-terrorism-on-afghanistan-baloch-leader-10582306.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-18T12:31:58+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Khawaja-Asif-2026-06-810e62874f5c79a36396060de0848403-1200x800.jpg",
+      "summary": "बीएनएम अध्यक्ष ने अपने आंदोलन को बलूच जनता का वास्तविक राष्ट्रीय मुक्ति संघर्ष बताया. बीएनएम अध्यक्ष के अनुसार उनका आंदोलन बलूच जनता का एक वास्तविक राष्ट्रीय मुक्ति संघर्ष है. उन्होंने दृढ़ता से कहा कि यह जंग तब तक लगातार जारी रहेगी जब तक बलूचिस्तान को पूरी तरह स्वतंत्रता नहीं मिल जाती है. पाकिस्तान को यह अच्छी तरह समझना चाहिए कि बलूचिस्तान एक पूरी तरह से कब्जे वाला क्षेत्र है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'अमेरिका के इतिहास से सबक सीखें ख्वाजा आसिफ, आतंकवाद का ठीकरा अफगानिस्तान पर न फोड़े पाकिस्तान'",
+          "summary": "बीएनएम अध्यक्ष ने अपने आंदोलन को बलूच जनता का वास्तविक राष्ट्रीय मुक्ति संघर्ष बताया. बीएनएम अध्यक्ष के अनुसार उनका आंदोलन बलूच जनता का एक वास्तविक राष्ट्रीय मुक्ति संघर्ष है. उन्होंने दृढ़ता से कहा कि यह जंग तब तक लगातार जारी रहेगी जब तक बलूचिस्तान को पूरी तरह स्वतंत्रता नहीं मिल जाती है. पाकिस्तान को यह अच्छी तरह समझना चाहिए कि बलूचिस्तान एक पूरी तरह से कब्जे वाला क्षेत्र है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "300 की स्पीड वाली बुलेट ट्रेन, 62 सालों में कोई हादसा नहीं, यही आएगी भारत, खिड़की पर अगर सिक्का रख",
+      "url": "https://hindi.news18.com/photogallery/knowledge/japan-bullet-train-speed-of-300-km-no-accident-in-60-years-safe-then-living-in-house-ws-el-10582302.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-18T11:53:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/image-2026-06-1acd68f84128441887bd3a96f4a5ed3e-1200x800.jpg",
+      "summary": "जापान की शिंकासेन बुलेट ट्रेन 62 सालों से बिना किसी दुर्घटना के चल रही है। जापान की बुलेट ट्रेन का नाम शिंकासेन ट्रेन है. ये वहां 300 किमी प्रतिघंटा की रफ्तार से चलती है. 60 के दशक से ये वहां शुरू हुई. इसको चलते हुए 62 साल हो चुके हैं. ये समय की इतनी पाबंद है कि मुश्किल 10-20 सेकेंड लेट हो सकती है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "300 की स्पीड वाली बुलेट ट्रेन, 62 सालों में कोई हादसा नहीं, यही आएगी भारत, खिड़की पर अगर सिक्का रख",
+          "summary": "जापान की शिंकासेन बुलेट ट्रेन 62 सालों से बिना किसी दुर्घटना के चल रही है। जापान की बुलेट ट्रेन का नाम शिंकासेन ट्रेन है. ये वहां 300 किमी प्रतिघंटा की रफ्तार से चलती है. 60 के दशक से ये वहां शुरू हुई. इसको चलते हुए 62 साल हो चुके हैं. ये समय की इतनी पाबंद है कि मुश्किल 10-20 सेकेंड लेट हो सकती है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘वादा नहीं निभाया तो जंग फिर शरू होगी, हॉर्मुज को भी ब्लॉक करेंगे’, डील के बाद ईरान को अमेरिका की",
+      "url": "https://www.patrika.com/world-news/us-ready-to-restart-war-reimpose-blockade-if-iran-does-not-comply-20678663",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-18T11:50:31+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Trump-US-Iran-Deal-announced-in-G7-Summit.webp",
+      "summary": "अमेरिका ने ईरान को चेतावनी दी है कि यदि वह नई डील के वादों से मुकरा तो सैन्य कार्रवाई फिर से शुरू की जाएगी। नई डील के बाद अमेरका ने ईरान को एक और धमकी दे दी है। ब्रसेल्स में नाटो देशों के रक्षा मंत्रियों की बैठक के बाद अमेरिका के रक्षा मंत्री पीट हेगसेथ ने साफ कहा कि अगर ईरान अपने वादे पर खरा नहीं उतरा तो अमेरिका फिर से सैन्य कार्रवाई शुरू कर सकता है और होर्मूज में फिर नाकाबंदी लगा सकता है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘वादा नहीं निभाया तो जंग फिर शरू होगी, हॉर्मुज को भी ब्लॉक करेंगे’, डील के बाद ईरान को अमेरिका की",
+          "summary": "अमेरिका ने ईरान को चेतावनी दी है कि यदि वह नई डील के वादों से मुकरा तो सैन्य कार्रवाई फिर से शुरू की जाएगी। नई डील के बाद अमेरका ने ईरान को एक और धमकी दे दी है। ब्रसेल्स में नाटो देशों के रक्षा मंत्रियों की बैठक के बाद अमेरिका के रक्षा मंत्री पीट हेगसेथ ने साफ कहा कि अगर ईरान अपने वादे पर खरा नहीं उतरा तो अमेरिका फिर से सैन्य कार्रवाई शुरू कर सकता है और होर्मूज में फिर नाकाबंदी लगा सकता है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत आएंगे चीन के विदेश मंत्री, अजीत डोभाल ने भेजा था बुलावा, BRICS में लद्दाख से हिंद महासागर तक",
+      "url": "https://hindi.news18.com/world/china-india-china-relations-chinese-fm-wang-yi-to-visit-india-on-nsa-ajit-doval-brics-summit-invite-ladakh-indian-ocean-to-be-discussed-10582057.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-18T11:31:46+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/China-Foriegn-Minister-To-Visit-India-2026-06-b655d8aeb86a640da55bb177f5616632-1200x800.jpg",
+      "summary": "राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल ने चीनी विदेश मंत्री वांग यी को भारत आने का न्योता भेजा है। वांग यी 22-23 जून को दिल्ली में होने वाली 16वीं ब्रिक्स सुरक्षा सलाहकारों की बैठक में भाग लेंगे। इस मुलाकात के दौरान लद्दाख सीमा पर सेनाओं को पीछे हटाने और डेपसांग-डेमचोक में गश्त बहाल करने जैसे मुद्दों पर चर्चा होने की उम्मीद है। हिंद महासागर में चीनी जासूसी जहाजों की उपस्थिति का विषय भी एजेंडे में शामिल हो सकता है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत आएंगे चीन के विदेश मंत्री, अजीत डोभाल ने भेजा था बुलावा, BRICS में लद्दाख से हिंद महासागर तक",
+          "summary": "राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल ने चीनी विदेश मंत्री वांग यी को भारत आने का न्योता भेजा है। वांग यी 22-23 जून को दिल्ली में होने वाली 16वीं ब्रिक्स सुरक्षा सलाहकारों की बैठक में भाग लेंगे। इस मुलाकात के दौरान लद्दाख सीमा पर सेनाओं को पीछे हटाने और डेपसांग-डेमचोक में गश्त बहाल करने जैसे मुद्दों पर चर्चा होने की उम्मीद है। हिंद महासागर में चीनी जासूसी जहाजों की उपस्थिति का विषय भी एजेंडे में शामिल हो सकता है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "भारतीय 'पैरा' कमांडो VS पाकिस्तान कमांडो: ट्रेनिंग, हथियार, युद्ध में कौन आगे?",
       "url": "https://hindi.news18.com/news/knowledge/india-para-sf-vs-pakistan-ssg-comparison-india-pakistan-special-forces-analysis-10580731.html",
       "source": "News18 Hindi (World)",
@@ -285,24 +399,6 @@
         "hi": {
           "title": "भारतीय 'पैरा' कमांडो VS पाकिस्तान कमांडो: ट्रेनिंग, हथियार, युद्ध में कौन आगे?",
           "summary": "भारतीय पैरा स्पेशल फोर्स पाकिस्तानी SSG की तुलना में अधिक प्रशिक्षित और अनुभवी मानी जाती है. पैरा SF के कमांडो 3.5 साल की कठिन ट्रेनिंग से गुजरते हैं. 1971 के ऑपरेशन मंडहोल, चचरो रेड, कारगिल युद्ध और 2016 की सर्जिकल स्ट्राइक जैसी सफलताओं ने पैरा SF की श्रेष्ठता साबित की है. भारतीय पैरा स्पेशल फोर्स और पाकिस्तानी SSG दोनों मजबूत स्पेशल फोर्स हैं, लेकिन ट्रेनिंग, हथियार और युद्ध प्रदर्शन में पैरा स्पेशल फोर्स SSG से आगे मानी जाती है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत आएंगे चीन के विदेश मंत्री, अजीत डोभाल ने भेजा था बुलावा, BRICS में लद्दाख से हिंद महासागर तक",
-      "url": "https://hindi.news18.com/world/china-india-china-relations-chinese-fm-wang-yi-to-visit-india-on-nsa-ajit-doval-brics-summit-invite-ladakh-indian-ocean-to-be-discussed-10582057.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-18T11:17:15+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/China-Foriegn-Minister-To-Visit-India-2026-06-b655d8aeb86a640da55bb177f5616632-1200x800.jpg",
-      "summary": "राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल ने चीनी विदेश मंत्री वांग यी को भारत आने का न्योता भेजा है। वांग यी 22-23 जून को दिल्ली में होने वाली 16वीं ब्रिक्स सुरक्षा सलाहकारों की बैठक में भाग लेंगे। इस मुलाकात के दौरान लद्दाख सीमा पर सेनाओं को पीछे हटाने और डेपसांग-डेमचोक में गश्त बहाल करने जैसे मुद्दों पर चर्चा होने की उम्मीद है। हिंद महासागर में चीनी जासूसी जहाजों की उपस्थिति का विषय भी एजेंडे में शामिल हो सकता है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत आएंगे चीन के विदेश मंत्री, अजीत डोभाल ने भेजा था बुलावा, BRICS में लद्दाख से हिंद महासागर तक",
-          "summary": "राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल ने चीनी विदेश मंत्री वांग यी को भारत आने का न्योता भेजा है। वांग यी 22-23 जून को दिल्ली में होने वाली 16वीं ब्रिक्स सुरक्षा सलाहकारों की बैठक में भाग लेंगे। इस मुलाकात के दौरान लद्दाख सीमा पर सेनाओं को पीछे हटाने और डेपसांग-डेमचोक में गश्त बहाल करने जैसे मुद्दों पर चर्चा होने की उम्मीद है। हिंद महासागर में चीनी जासूसी जहाजों की उपस्थिति का विषय भी एजेंडे में शामिल हो सकता है।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -430,24 +526,6 @@
           "title": "यूक्रेन ने रूस पर बोला 2 साल का सबसे बड़ा अटैक, मॉस्को दहला, ऑयल रिफाइनरी में धमाका, एयरपोर्ट बंद",
           "summary": "यूक्रेन ने रूस पर पिछले दो वर्षों में सबसे बड़ा ड्रोन हमला किया है। रूस के अनुसार, 555 ड्रोन दागे गए, जिनमें से 194 अकेले मॉस्को की ओर बढ़ रहे थे। इस हमले से मॉस्को की एक प्रमुख तेल रिफाइनरी, एक तेल डिपो और कई इमारतों को नुकसान पहुंचा। जवाब में, रूस ने यूक्रेन पर मिसाइलों और सैकड़ों ड्रोनों से हमला किया।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "इजरायल और अमेरिका की दोस्ती पर युद्ध विराम का क्या फर्क पड़ेगा? एक्सपर्ट ने समझाया",
-      "url": "https://hindi.news18.com/world/america-israel-will-be-isolated-after-us-iran-peace-deal-geopolitical-expert-robinder-sachdev-analyzes-the-diplomatic-shock-10581332.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-18T09:01:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/trump-netanyahu-2-2026-06-523be09794aaed5d153255dc67055019-1200x800.jpg",
-      "summary": "अंतर्राष्ट्रीय राजनीति में एक प्रसिद्ध कहावत है. इसमें कहा गया है कि कोई स्थायी दोस्त या दुश्मन नहीं होता है. इंटरनेशनल पॉलिटिक्स में एक बहुत मशहूर कहावत है, \"न कोई स्थायी दोस्त होता है, न कोई स्थायी दुश्मन, स्थायी होता है तो सिर्फ अपना स्वार्थ.\"। इजरायल और अमेरिका की दोस्ती पर युद्ध विराम का क्या फर्क पड़ेगा? एक्सपर्ट ने समझाया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इजरायल और अमेरिका की दोस्ती पर युद्ध विराम का क्या फर्क पड़ेगा? एक्सपर्ट ने समझाया",
-          "summary": "अंतर्राष्ट्रीय राजनीति में एक प्रसिद्ध कहावत है. इसमें कहा गया है कि कोई स्थायी दोस्त या दुश्मन नहीं होता है. इंटरनेशनल पॉलिटिक्स में एक बहुत मशहूर कहावत है, \"न कोई स्थायी दोस्त होता है, न कोई स्थायी दुश्मन, स्थायी होता है तो सिर्फ अपना स्वार्थ.\"। इजरायल और अमेरिका की दोस्ती पर युद्ध विराम का क्या फर्क पड़ेगा? एक्सपर्ट ने समझाया।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -596,42 +674,6 @@
       }
     },
     {
-      "title": "सपा में टूट के दावे पर अखिलेश का पलटवार, जिनसे एडवांस वसूला वो अब अफवाही मंत्री को ढूंढ रहे",
-      "url": "https://www.amarujala.com/lucknow/akhilesh-hits-back-at-claims-of-split-insp-those-who-paid-advances-are-now-searching-for-rumours-minister-2026-06-18",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-18T06:52:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/18/sapa-ma-tata-ka-thava-para-akhalsha-ka-paltavara_be5f47678367842f19cccceaefd8c4c0.jpeg?w=750&dpr=1.0",
-      "summary": "समाजवादी पार्टी में संभावित टूट की खबरों पर अखिलेश यादव ने पलटवार किया। उन्होंने कहा कि जिनसे एडवांस वसूला गया था, वे अब अफवाही मंत्री को ढूंढ रहे हैं। यह बयान 2027 के उत्तर प्रदेश विधानसभा चुनावों से पहले पार्टी की अंदरूनी कलह की ओर इशारा करता है। उत्तर प्रदेश में 2027 विधानसभा चुनाव से पहले समाजवादी पार्टी में संभावित टूट को लेकर सियासी माहौल लगातार गरमाता जा रहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सपा में टूट के दावे पर अखिलेश का पलटवार, जिनसे एडवांस वसूला वो अब अफवाही मंत्री को ढूंढ रहे",
-          "summary": "समाजवादी पार्टी में संभावित टूट की खबरों पर अखिलेश यादव ने पलटवार किया। उन्होंने कहा कि जिनसे एडवांस वसूला गया था, वे अब अफवाही मंत्री को ढूंढ रहे हैं। यह बयान 2027 के उत्तर प्रदेश विधानसभा चुनावों से पहले पार्टी की अंदरूनी कलह की ओर इशारा करता है। उत्तर प्रदेश में 2027 विधानसभा चुनाव से पहले समाजवादी पार्टी में संभावित टूट को लेकर सियासी माहौल लगातार गरमाता जा रहा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'ईरान को भी मिसाइल बनाने का अधिकार', ट्रंप को अचानक शिया देश आने लगा प्यार, समझें",
-      "url": "https://hindi.news18.com/world/middle-east-why-trump-soft-on-iran-us-iran-deal-missiles-oil-sanctions-explained-10581175.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-18T06:46:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/dnald-trump-2026-06-181a0eb87f94021354150d07787a5fe6-1200x800.jpg",
-      "summary": "डोनाल्ड ट्रंप ने कहा कि ईरान के पास कुछ बैलिस्टिक मिसाइलें हो सकती हैं. उन्होंने ईरान के तेल निर्यात पर प्रतिबंधों में ढील और फ्रीज किए गए पैसे वापस करने के भी संकेत दिए. यह बयान अमेरिका-ईरान डील के बाद आया है. Donald Trump Iran News: डोनाल्ड ट्रंप ने अमेरिका-ईरान डील के बाद कई ऐसे बयान दिए हैं, जिन्होंने सबको चौंका दिया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ईरान को भी मिसाइल बनाने का अधिकार', ट्रंप को अचानक शिया देश आने लगा प्यार, समझें",
-          "summary": "डोनाल्ड ट्रंप ने कहा कि ईरान के पास कुछ बैलिस्टिक मिसाइलें हो सकती हैं. उन्होंने ईरान के तेल निर्यात पर प्रतिबंधों में ढील और फ्रीज किए गए पैसे वापस करने के भी संकेत दिए. यह बयान अमेरिका-ईरान डील के बाद आया है. Donald Trump Iran News: डोनाल्ड ट्रंप ने अमेरिका-ईरान डील के बाद कई ऐसे बयान दिए हैं, जिन्होंने सबको चौंका दिया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "UN में महिला नेतृत्व का समर्थन: भारत बोला- आधी आबादी के लिए नीति पर सरकार की जोर, प्रशासन में 10",
       "url": "https://www.amarujala.com/world/india-highlights-women-empowerment-and-peacekeeping-achievements-at-un-security-council-2026-06-18",
       "source": "Amar Ujala World",
@@ -646,24 +688,6 @@
           "title": "UN में महिला नेतृत्व का समर्थन: भारत बोला- आधी आबादी के लिए नीति पर सरकार की जोर, प्रशासन में 10",
           "summary": "संयुक्त राष्ट्र सुरक्षा परिषद में भारत ने महिला नेतृत्व और शांति अभियानों में महिलाओं की भूमिका पर जोर दिया. भारत ने कहा कि सरकार आधी आबादी के लिए नीति निर्माण और प्रशासन में महिलाओं की भागीदारी बढ़ा रही है. UN में महिला नेतृत्व का समर्थन: भारत बोला- आधी आबादी के लिए नीति पर सरकार की जोर, प्रशासन में 10।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप के आगे दो कौड़ी की इजरायल की औकात, डील में नेतन्याहू को झटका, हार कर भी कैसे बाजीगर",
-      "url": "https://hindi.news18.com/world/middle-east-america-iran-peace-deal-shocker-to-israel-donald-trump-show-ground-to-pm-benjamin-netanyahu-tehran-real-winner-explainer-10580892.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-18T06:14:14+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/trump-netanyahu-2026-06-12a606a71782fefc9129fc52e3ce0c55-1200x800.jpg",
-      "summary": "अमेरिका और ईरान ने 14 सूत्रीय शांति प्रस्तावों पर सहमति व्यक्त की है। यह प्रस्ताव पश्चिम एशिया में शांति स्थापित कर सकते हैं। इजरायल इन प्रस्तावों को अपने हितों के विरुद्ध मानता है। America-Iran Peace Deal: ईरान जंग के खत्‍म होने और वेस्‍ट एशिया में शांति स्‍थापित होने की संभावनाएं काफी प्रबल हो गई हैं. अमेरिका और ईरान के बीच 14 सूत्रीय शांति प्रस्‍तावों पर सहमति बन गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप के आगे दो कौड़ी की इजरायल की औकात, डील में नेतन्याहू को झटका, हार कर भी कैसे बाजीगर",
-          "summary": "अमेरिका और ईरान ने 14 सूत्रीय शांति प्रस्तावों पर सहमति व्यक्त की है। यह प्रस्ताव पश्चिम एशिया में शांति स्थापित कर सकते हैं। इजरायल इन प्रस्तावों को अपने हितों के विरुद्ध मानता है। America-Iran Peace Deal: ईरान जंग के खत्‍म होने और वेस्‍ट एशिया में शांति स्‍थापित होने की संभावनाएं काफी प्रबल हो गई हैं. अमेरिका और ईरान के बीच 14 सूत्रीय शांति प्रस्‍तावों पर सहमति बन गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
