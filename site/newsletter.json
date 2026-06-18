@@ -1,12 +1,96 @@
 {
-  "generated_at": "2026-06-18T17:09:24.571209+00:00",
-  "article_count": 46,
-  "total_unique_count": 249,
+  "generated_at": "2026-06-18T18:54:43.006162+00:00",
+  "article_count": 50,
+  "total_unique_count": 258,
   "digest": {
-    "en": "Trump's Iran deal defense and Israeli strikes on Lebanon dominate headlines. South Africa's rhino horn case and Ukraine's drone strike on Moscow offer further regional friction. These events highlight ongoing geopolitical tensions across multiple continents.",
-    "hi": "भारत के 'ग्रेट निकोबार प्रोजेक्ट' को थाईलैंड के 'लैंड ब्रिज' प्रोजेक्ट से बढ़ावा मिलेगा। रूस की तेल रिफाइनरी में आग लगी है। गैस की कीमतें 4 डॉलर कम हुईं। अमेरिकी सुप्रीम कोर्ट ने कहा कि ड्रग्स लेने वालों से हथियार नहीं छीने जा सकते। नासा का सैटेलाइट पानी की हर बूंद का हिसाब रखेगा।"
+    "en": "Myanmar's new administration dominates the news. Armenia's election and Djibouti's prime real estate are also key stories. Iran deal developments are unfolding.",
+    "hi": "प्रधानमंत्री नरेंद्र मोदी फ्रांस में हैं। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने उन्हें विदाई संदेश दिया। भारत-फ्रांस की दोस्ती को लेकर मैक्रों ने हिंदी में बात की।"
   },
   "articles": [
+    {
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Myanmar's military leader Min Aung Hlaing transitioned from commander-in-chief to president after staged elections. Foreign governments should calibrate interactions with Naypyitaw to avoid legitimizing the administration. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenia will hold its first general election since 2021 on June 7. Foreign policy has dominated the campaign, raising questions about Yerevan's future external relations. Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Djibouti's history, politics, and efforts to navigate regional turmoil are discussed. The nation seeks to manage shifting alliances in the Horn of Africa and Red Sea. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan began conveying proposals to end the U. S.-Iran war after bombings started on February 28. Islamabad perceives high stakes, undertaking the mediator role despite inherent risks. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's next seven-year budget may jeopardize funding for conflict prevention and aid to fragile states. Experts discuss the potential consequences of these financial plans. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-18T17:52:08+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/90096680177812e34dcb5f7b1083554f8d2d2f1c/325_13_3461_2769/master/3461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb1609aec61ef9ed407808e1926a2a22",
+      "summary": "Barbados prime minister Mia Mottley announced a Caribbean leaders' manifesto for slavery reparations. The document asserts the moral, ethical, and legal case for compensation. It emphasizes harm done to African women. Other Caribbean nations are considering the manifesto. Updated document, which emphasises harm done to African women, is being considered by other Caribbean countriesBarbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical and legal case” for reparations over damage caused by hundreds of years of enslavement. Mottley was speaking at a “historic” conference in Ghana to advance the push fo.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Repair Crews Start Emergency Work To Save War-Damaged Kyiv Cathedral",
+      "url": "https://www.rferl.org/a/ukraine-cathedral-monastery-damaged-air-strikes/33783975.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-06-18T17:42:42+00:00",
+      "image_url": "https://gdb.rferl.org/10d6c131-a20e-4761-13e3-08decd1d5d42_w1200_h630.jpg",
+      "summary": "Repair crews began emergency work on Kyiv's Saint Sophia Cathedral after a June 15 attack. The UNESCO-protected site sustained damage. Priceless items were moved to safety. Experts warn soot and moisture still threaten remaining historic artifacts. Ukrainian workers are conducting emergency repairs to a historic cathedral, part of a UNESCO-protected monastery, which was damaged in an overnight attack on June 15.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Trump defends Iran deal from critics he calls 'fools'",
       "url": "https://www.thehindu.com/news/international/trump-defends-iran-deal-from-critics-he-calls-fools/article71119035.ece",
@@ -14,7 +98,7 @@
       "sources": [],
       "published_at": "2026-06-18T16:18:13+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/vi24xq/article71119056.ece/alternates/LANDSCAPE_1200/PTI06_18_2026_000103B.jpg",
-      "summary": "U. S. President Donald Trump defended his Iran policy. These fools, who think I haven't been tough enough on Iran, when the Stock Market Just Hit A RECORD HIGH, and Oil prices are 'tumbling' down, are either jealous, bad people, or stupid, says U. S. Trump defends Iran deal from critics he calls 'fools'.",
+      "summary": "U. S. President Donald Trump defended his Iran policy. These fools, who think I haven't been tough enough on Iran, when the Stock Market Just Hit A RECORD HIGH, and Oil prices are 'tumbling' down, are either jealous, bad people, or stupid, says U. Trump defends Iran deal from critics he calls 'fools'.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -164,18 +248,6 @@
       "translations": {}
     },
     {
-      "title": "With Georgia Sliding Toward Russia, Former President Appeals For Renewed US Attention",
-      "url": "https://www.rferl.org/a/with-georgia-sliding-toward-russia-former-president-appeals-for-renewed-us-attention/33782876.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-17T09:00:05+00:00",
-      "image_url": "https://gdb.rferl.org/875ebd18-8b62-4b64-3c45-08decacf94d0_cx0_cy14_cw0_w1200_h630.jpeg",
-      "summary": "Georgia’s former president, Salome Zurabishvili, warned on June 1 In an interview with RFE/RL in Washington on June 16, Georgia’s fifth president, Salome Zurabishvili, warned that the West risks “giving away” Georgia to Moscow’s interests through inattention, even as Tbilisi becomes increasingly central to the wider strategic balance across the Caucasus. With Georgia Sliding Toward Russia, Former President Appeals For Renewed US Attention.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms",
       "url": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms",
       "source": "The Guardian",
@@ -184,18 +256,6 @@
       "image_url": "https://i.guim.co.uk/img/media/9a4e57df353ed3e037dce6a884a03e5e9af1cacf/491_476_5613_4492/master/5613.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f23af75312aaa76caa6a268c5713266",
       "summary": "Sierra Leone's First Lady Fatima Maada Bio stated she will not condemn female genital mutilation without reliable data on its harms. This stance has drawn criticism from health professionals and politicians. Exclusive: health professionals, survivors and politicians voice concerns in open letter over comments by Fatima Maadi Bio, who denies supporting the practiceThe first lady of Sierra Leone has denied that she supports female genital mutilation amid rising anger around her perceived approval of the practice. But in an exclusive response to the Guardian, Fatima Maada Bio, the wife of President Julius.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Lives and incomes lost as Ebola takes toll on Bunia’s public-facing workers",
-      "url": "https://www.theguardian.com/world/2026/jun/17/lives-lost-ebola-bunia-workers-drc",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-17T04:00:21+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/4c6785da7bb319f9f586a89b267a8a8444ceeb56/752_759_1746_1397/master/1746.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d8409b281a821d77a9d82e2ff82b756",
-      "summary": "Ebola has impacted public-facing workers in Bunia, costing lives and incomes. A headteacher, motorcycle taxi driver, and travel agent are among those affected. School principals are implementing measures to prevent virus spread. A headteacher, a motorcycle taxi driver and a travel agent are among those who are counting the human and economic cost of the virusJustin Keno watches more than 400 pupils stream through the Nelson Mandela school’s gate each morning, and wonders which of them might be carrying Ebola. The institution’s principal has done everything he can to prevent the spread of the virus: installing hand-washing.",
-      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -248,16 +308,58 @@
       "translations": {}
     },
     {
-      "title": "Global fish production hits new high, but climate threats loom",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167727",
-      "source": "UN News",
+      "title": "ट्रंप की धमकी के आगे नहीं झुका ईरान, पेजेश्कियन ने दी अमेरिका के साथ साइन हुए MoU की इनसाइड डीटेल!",
+      "url": "https://hindi.news18.com/world/middle-east-iran-never-bow-before-threats-pezeshkian-reveals-us-iran-mou-inside-details-after-trump-claims-victory-at-g7-summit-10583209.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-16T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/07/24882/image770x420cropped.jpg",
-      "summary": "Global fish production has reached a record high, with aquaculture supplying most of the fish consumed. However, rising temperatures and overfishing pose significant threats to the industry's future sustainability. Aquaculture now supplies most of the fish people eat, a landmark report by the UN Food and Agriculture Organization (FAO) reveals, but rising temperatures and overfishing are putting the future of the industry at risk.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-18T18:24:42+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/US-Iran-MoU-Inside-Details-2026-06-90bac158ad4a6ccb9104ccee382341af-1200x800.jpg",
+      "summary": "फ्रांस में जी-7 शिखर सम्मेलन के दौरान ईरान के राष्ट्रपति मसूद पेजेश्कियन ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप फ्रांस में जी-7 शिखर सम्मेलन के दौरान अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दावों पर पलटवार करते हुए ईरान के राष्ट्रपति मसूद पेजेश्कियन ने ऐतिहासिक शांति समझौते की इनसाइड डिटेल शेयर की है. पेजेश्कियन ने ट्रंप की धमकियों को खारिज करते हुए साफ किया कि ये डील किसी मजबूरी में नहीं, बल्कि एक शक्तिशाली ईरान की संप्रभुता, कूटनीतिक सफलता और देश के लोगों के धैर्य का नतीजा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की धमकी के आगे नहीं झुका ईरान, पेजेश्कियन ने दी अमेरिका के साथ साइन हुए MoU की इनसाइड डीटेल!",
+          "summary": "फ्रांस में जी-7 शिखर सम्मेलन के दौरान ईरान के राष्ट्रपति मसूद पेजेश्कियन ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप फ्रांस में जी-7 शिखर सम्मेलन के दौरान अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दावों पर पलटवार करते हुए ईरान के राष्ट्रपति मसूद पेजेश्कियन ने ऐतिहासिक शांति समझौते की इनसाइड डिटेल शेयर की है. पेजेश्कियन ने ट्रंप की धमकियों को खारिज करते हुए साफ किया कि ये डील किसी मजबूरी में नहीं, बल्कि एक शक्तिशाली ईरान की संप्रभुता, कूटनीतिक सफलता और देश के लोगों के धैर्य का नतीजा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "फ्रांस में पीएम नरेंद्र मोदी के लिए इमैनुएल मैक्रों का खास अंदाज, हिंदी में दिया विदाई संदेश, बोले-",
+      "url": "https://www.patrika.com/world-news/french-president-emmanuel-macron-extended-his-best-wishes-to-pm-narendra-modi-in-hindi-20679287",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-18T18:00:58+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/french-president.webp",
+      "summary": "फ्रांसीसी राष्ट्रपति इमैनुएल मैक्रों ने प्रधानमंत्री नरेंद्र मोदी की फ्रांस यात्रा के समापन पर उन्हें विशेष विदाई दी। French President Emmanuel Macron: प्रधानमंत्री नरेंद्र मोदी की फ्रांस यात्रा सिर्फ कूटनीतिक चर्चाओं और समझौतों तक सीमित नहीं रही, बल्कि इस दौरे ने भारत और फ्रांस के बीच मजबूत होते रिश्तों की एक भावनात्मक झलक भी दुनिया को दिखाई। यात्रा के समापन पर फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने जिस अंदाज में प्रधानमंत्री मोदी को विदाई दी, उसने सभी का ध्यान अपनी ओर खींच लिया।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्रांस में पीएम नरेंद्र मोदी के लिए इमैनुएल मैक्रों का खास अंदाज, हिंदी में दिया विदाई संदेश, बोले-",
+          "summary": "फ्रांसीसी राष्ट्रपति इमैनुएल मैक्रों ने प्रधानमंत्री नरेंद्र मोदी की फ्रांस यात्रा के समापन पर उन्हें विशेष विदाई दी। French President Emmanuel Macron: प्रधानमंत्री नरेंद्र मोदी की फ्रांस यात्रा सिर्फ कूटनीतिक चर्चाओं और समझौतों तक सीमित नहीं रही, बल्कि इस दौरे ने भारत और फ्रांस के बीच मजबूत होते रिश्तों की एक भावनात्मक झलक भी दुनिया को दिखाई। यात्रा के समापन पर फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने जिस अंदाज में प्रधानमंत्री मोदी को विदाई दी, उसने सभी का ध्यान अपनी ओर खींच लिया।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "‘प्रिय मित्र नरेंद्र, भारत-फ्रांस की दोस्ती अमर रहे’, फ्रांस के राष्ट्रपति मैक्रों ने पीएम मोदी को",
+      "url": "https://hindi.news18.com/world/europe-priye-mitr-narendra-french-president-emmanuel-macron-surprises-pm-modi-with-viral-hindi-message-hails-india-france-friendship-10583068.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-18T17:57:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Emmanuel-Macron-Hindi-Message-To-PM-Modi-2026-06-47d70217dc5ff18e27ebc115141dc656-1200x800.jpg",
+      "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने प्रधानमंत्री नरेंद्र मोदी को हिंदी में एक वीडियो संदेश भेजा। उन्होंने मोदी को भारत के सबसे लंबे समय तक सेवा देने वाले निर्वाचित प्रधानमंत्री बनने पर बधाई दी। मैक्रों ने भारत की युवा शक्ति और इसरो की उपलब्धियों का भी उल्लेख किया। उन्होंने कहा कि भारत-फ्रांस की दोस्ती अमर रहे। प्रधानमंत्री नरेंद्र मोदी की फ्रांस यात्रा के आखिरी दिन फ्रांसीसी राष्ट्रपति इमैनुएल मैक्रों ने पीएम मोदी को सीधे हिंदी भाषा में एक वीडियो मैसेज भेजकर बड़ा सरप्राइज दिया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘प्रिय मित्र नरेंद्र, भारत-फ्रांस की दोस्ती अमर रहे’, फ्रांस के राष्ट्रपति मैक्रों ने पीएम मोदी को",
+          "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने प्रधानमंत्री नरेंद्र मोदी को हिंदी में एक वीडियो संदेश भेजा। उन्होंने मोदी को भारत के सबसे लंबे समय तक सेवा देने वाले निर्वाचित प्रधानमंत्री बनने पर बधाई दी। मैक्रों ने भारत की युवा शक्ति और इसरो की उपलब्धियों का भी उल्लेख किया। उन्होंने कहा कि भारत-फ्रांस की दोस्ती अमर रहे। प्रधानमंत्री नरेंद्र मोदी की फ्रांस यात्रा के आखिरी दिन फ्रांसीसी राष्ट्रपति इमैनुएल मैक्रों ने पीएम मोदी को सीधे हिंदी भाषा में एक वीडियो मैसेज भेजकर बड़ा सरप्राइज दिया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "भारत के 'ग्रेट निकोबार प्रोजेक्ट' के लिए कैसे बूस्टर बनेगा थाईलैंड का नया 'लैंड ब्रिज' प्रोजेक्ट?",
@@ -274,6 +376,24 @@
           "title": "भारत के 'ग्रेट निकोबार प्रोजेक्ट' के लिए कैसे बूस्टर बनेगा थाईलैंड का नया 'लैंड ब्रिज' प्रोजेक्ट?",
           "summary": "थाईलैंड सरकार ने 30 बिलियन डॉलर के 'लैंड ब्रिज' प्रोजेक्ट को मंजूरी दी है. पूरी दुनिया के समुद्री व्यापार का भूगोल बदलने और 'मलक्का जलडमरूमध्य' की भीड़भाड़ को टक्कर देने के लिए थाईलैंड सरकार ने एक बेहद महत्वाकांक्षी 30 बिलियन डॉलर के 'लैंड ब्रिज' प्रोजेक्ट को हरी झंडी दिखा दी है. दो बड़े गहरे समुद्री बंदरगाहों (चुमपोन और रानोंग) को 90 किलोमीटर लंबे लॉजिस्टिक्स कॉरिडोर से जोड़ने वाला ये मेगा प्रोजेक्ट भारत के लिए भी बूस्टर साबित होने वाला है.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'पूरे फ्रांस में जितने घर हैं उतने तो हमने 12 साल में बनवा दिए', पेरिस में पीएम मोदी का बड़ा बयान",
+      "url": "https://www.abplive.com/news/world/pm-modi-paris-speech-indian-growing-economy-emmanuel-macron-trade-3147363",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-18T16:46:33+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/18/53bbac56f5425bf141859476ad7822911781801169792708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने पेरिस में भारतीय समुदाय को संबोधित करते हुए कहा कि पिछले 12 वर्षों में भारत में उतने घर बने हैं जितने पूरे फ्रांस में हैं। उन्होंने बताया कि इस अवधि में भारत की जीडीपी दोगुनी हुई है। भारत अब दुनिया का दूसरा सबसे बड़ा मोबाइल फोन निर्माता देश बन गया है। प्रधानमंत्री नरेंद्र मोदी ने गुरुवार (18 जून 2026) को पेरिस में भारतीय समुदाय के लोगों को संबोधित करते हुए कहा कि पेरिस रंगों का शहर है, जिसे भारत के अलग-अलग राज्यों से आए हुए लोग अधिक खूबसूरत बना देते हैं.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'पूरे फ्रांस में जितने घर हैं उतने तो हमने 12 साल में बनवा दिए', पेरिस में पीएम मोदी का बड़ा बयान",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने पेरिस में भारतीय समुदाय को संबोधित करते हुए कहा कि पिछले 12 वर्षों में भारत में उतने घर बने हैं जितने पूरे फ्रांस में हैं। उन्होंने बताया कि इस अवधि में भारत की जीडीपी दोगुनी हुई है। भारत अब दुनिया का दूसरा सबसे बड़ा मोबाइल फोन निर्माता देश बन गया है। प्रधानमंत्री नरेंद्र मोदी ने गुरुवार (18 जून 2026) को पेरिस में भारतीय समुदाय के लोगों को संबोधित करते हुए कहा कि पेरिस रंगों का शहर है, जिसे भारत के अलग-अलग राज्यों से आए हुए लोग अधिक खूबसूरत बना देते हैं.",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -328,6 +448,24 @@
           "title": "‘ड्रग्स लेने वालों से हथियार नहीं छीन सकते’, अमेरिकी सुप्रीम कोर्ट ने डोनाल्ड ट्रंप सरकार के पावर",
           "summary": "अमेरिकी सुप्रीम कोर्ट ने गुरुवार को फैसला सुनाया कि मारिजुआना का नियमित सेवन करने वाले लोगों से हथियार रखने का अधिकार नहीं छीना जा सकता। यह फैसला डोनाल्ड ट्रंप प्रशासन के उस नियम को चुनौती देता था जो ड्रग्स का सेवन करने वालों को हथियार रखने से रोकता था। अदालत ने कहा कि संघीय सरकार के पास ऐसी शक्ति नहीं है। यह निर्णय एक ऐसे व्यक्ति से संबंधित मामले में आया था जिसे मारिजुआना के सेवन के कारण हथियार रखने से रोक दिया गया था।",
           "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "युद्ध के शांति समझौते के लिए प्रसिद्ध फ्रांस के वर्साय महल में ट्रंप ने ईरान के साथ साइन की पीस डील",
+      "url": "https://www.abplive.com/news/world/us-president-donald-trump-signed-peace-deal-with-iran-in-palace-of-versailles-france-ann-3147342",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-18T16:09:13+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/18/4de4b3e644c5c6423a003c096e90988917817988146931126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "2026 में, संयुक्त राज्य अमेरिका और ईरान ने फ्रांस के वर्साय महल में एक शांति समझौते पर हस्ताक्षर किए। यह महल प्रथम विश्व युद्ध के बाद 1919 की वर्साय संधि और 1920 की ट्रिटी ऑफ ट्रायनॉन जैसी ऐतिहासिक शांति संधियों का गवाह रहा है। यह समझौता दोनों देशों के बीच लंबे समय से चले आ रहे तनाव को समाप्त करने की दिशा में एक महत्वपूर्ण कदम है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "युद्ध के शांति समझौते के लिए प्रसिद्ध फ्रांस के वर्साय महल में ट्रंप ने ईरान के साथ साइन की पीस डील",
+          "summary": "2026 में, संयुक्त राज्य अमेरिका और ईरान ने फ्रांस के वर्साय महल में एक शांति समझौते पर हस्ताक्षर किए। यह महल प्रथम विश्व युद्ध के बाद 1919 की वर्साय संधि और 1920 की ट्रिटी ऑफ ट्रायनॉन जैसी ऐतिहासिक शांति संधियों का गवाह रहा है। यह समझौता दोनों देशों के बीच लंबे समय से चले आ रहे तनाव को समाप्त करने की दिशा में एक महत्वपूर्ण कदम है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -422,6 +560,24 @@
       }
     },
     {
+      "title": "यूएस-ईरान डील के बाद अब जमकर तेल बेचेगा तेहरान, टॉप देशों में चीन शामिल, क्या भारत का भी नाम?",
+      "url": "https://www.abplive.com/news/world/iran-crude-oil-supply-to-india-after-lifting-of-sanctions-china-mohammad-fathali-strait-of-hormuz-middle-east-donald-trump-3147296",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-18T14:42:57+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/18/26a20ad0b0c917aed819277f4395f6e21781792210963708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिका और ईरान ने समझौते पर हस्ताक्षर किया, जिससे तेहरान अब जमकर तेल बेचेगा। अमेरिका और ईरान के बीच महीनों से चल रहे संघर्ष और तनाव को खत्म करने के लिए गुरुवार (18 जून 2026) को समझौते पर हस्ताक्षर किया गया. इस समझौते का मकसद दोनों पक्षों के बीच सीजफायर को बढ़ाना और होर्मुज स्ट्रेट से शिपिंग ट्रांजिट फिर से शुरू करना है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूएस-ईरान डील के बाद अब जमकर तेल बेचेगा तेहरान, टॉप देशों में चीन शामिल, क्या भारत का भी नाम?",
+          "summary": "अमेरिका और ईरान ने समझौते पर हस्ताक्षर किया, जिससे तेहरान अब जमकर तेल बेचेगा। अमेरिका और ईरान के बीच महीनों से चल रहे संघर्ष और तनाव को खत्म करने के लिए गुरुवार (18 जून 2026) को समझौते पर हस्ताक्षर किया गया. इस समझौते का मकसद दोनों पक्षों के बीच सीजफायर को बढ़ाना और होर्मुज स्ट्रेट से शिपिंग ट्रांजिट फिर से शुरू करना है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "उत्तर कोरिया की परमाणु शक्ति को कम करना अब असंभव, किम जोंग उन की बहन ने G-7 को धमकाया",
       "url": "https://hindi.news18.com/world/rest-of-world-north-korea-nuclear-power-kim-jong-un-sister-kim-yo-jong-threatened-g7-nations-10582683.html",
       "source": "News18 Hindi (World)",
@@ -458,6 +614,24 @@
       }
     },
     {
+      "title": "PoJK में बगावत तेज! 10वें दिन सड़कों पर उतरे 70 हजार प्रदर्शनकारी, पाक सेना के खिलाफ लगे जोरदार नारे",
+      "url": "https://www.abplive.com/news/world/pok-protest-continue-for-10th-day-people-demonstrating-against-pakistani-government-including-rawalakot-ann-3147220",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-18T13:05:47+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/18/762716d8ac96f926e5be56d3a0eee20417817815375711115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के कब्जे वाले जम्मू कश्मीर में 70 हजार प्रदर्शनकारी सड़कों पर उतरे, पाक सेना के खिलाफ नारे लगे। पाकिस्तान के कब्जे वाले जम्मू कश्मीर में आज विद्रोह का दसवां दिन है. ईदगाह मैदान पर 60-70 हज़ार लोग बैठे हुए हैं और शहर के अंदर सड़को पर सैकड़ों लोग PoJK का झंडा और सफेद झंडा लेकर आजादी के नारे लगा रहे है और पाकिस्तानी प्रधानमंत्री शहबाज़ शरीफ को “दहशतगर्द” यानी आतंकी करार दे रहे है साथ ही आसिम मुनीर की पाकिस्तानी फ़ौज के लिए भी “कर्नल-जर्नल दहशतगर्द” के नारे रावलाकोट में गूंज रहे हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PoJK में बगावत तेज! 10वें दिन सड़कों पर उतरे 70 हजार प्रदर्शनकारी, पाक सेना के खिलाफ लगे जोरदार नारे",
+          "summary": "पाकिस्तान के कब्जे वाले जम्मू कश्मीर में 70 हजार प्रदर्शनकारी सड़कों पर उतरे, पाक सेना के खिलाफ नारे लगे। पाकिस्तान के कब्जे वाले जम्मू कश्मीर में आज विद्रोह का दसवां दिन है. ईदगाह मैदान पर 60-70 हज़ार लोग बैठे हुए हैं और शहर के अंदर सड़को पर सैकड़ों लोग PoJK का झंडा और सफेद झंडा लेकर आजादी के नारे लगा रहे है और पाकिस्तानी प्रधानमंत्री शहबाज़ शरीफ को “दहशतगर्द” यानी आतंकी करार दे रहे है साथ ही आसिम मुनीर की पाकिस्तानी फ़ौज के लिए भी “कर्नल-जर्नल दहशतगर्द” के नारे रावलाकोट में गूंज रहे हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "'अमेरिका के इतिहास से सबक सीखें ख्वाजा आसिफ, आतंकवाद का ठीकरा अफगानिस्तान पर न फोड़े पाकिस्तान'",
       "url": "https://hindi.news18.com/world/south-asia-khawaja-asif-should-learn-lessons-from-us-history-pakistan-should-not-blame-for-terrorism-on-afghanistan-baloch-leader-10582306.html",
       "source": "News18 Hindi (World)",
@@ -471,6 +645,24 @@
         "hi": {
           "title": "'अमेरिका के इतिहास से सबक सीखें ख्वाजा आसिफ, आतंकवाद का ठीकरा अफगानिस्तान पर न फोड़े पाकिस्तान'",
           "summary": "बीएनएम अध्यक्ष ने अपने आंदोलन को बलूच जनता का वास्तविक राष्ट्रीय मुक्ति संघर्ष बताया. बीएनएम अध्यक्ष के अनुसार उनका आंदोलन बलूच जनता का एक वास्तविक राष्ट्रीय मुक्ति संघर्ष है. उन्होंने दृढ़ता से कहा कि यह जंग तब तक लगातार जारी रहेगी जब तक बलूचिस्तान को पूरी तरह स्वतंत्रता नहीं मिल जाती है. पाकिस्तान को यह अच्छी तरह समझना चाहिए कि बलूचिस्तान एक पूरी तरह से कब्जे वाला क्षेत्र है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "हवा में उड़ा टैंक का ढक्कन, आसमान में काले धुएं का गुब्बार…, मॉस्को रिफाइनरी पर यूक्रेन का हमला",
+      "url": "https://www.abplive.com/news/world/ukraine-major-drone-attack-on-russia-massive-explosion-fire-broke-out-at-moscow-oil-refinery-video-viral-3147210",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-18T12:30:00+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/18/888129689347e7dec380beabfa42741d17817810925431115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "यूक्रेन ने मॉस्को की एक तेल रिफाइनरी पर ड्रोन हमला किया, जिससे जोरदार धमाके हुए और आग लग गई। रूस-यूक्रेन युद्ध के बीच गुरुवार (16 जून 2026) को यूक्रेन ने रूस पर बड़ा ड्रोन हमला किया. इस हमले का सबसे बड़ा असर मॉस्को की एक तेल रिफाइनरी पर देखा गया, जहां जोरदार धमाके हुए और भीषण आग लग गई. वोलोडिमिर ज़ेलेंस्की ने इस हमले का वीडियो भी शेयर किया, जिसमें रिफाइनरी से घना काला धुआं निकलता साफ दिखाई दे रहा है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हवा में उड़ा टैंक का ढक्कन, आसमान में काले धुएं का गुब्बार…, मॉस्को रिफाइनरी पर यूक्रेन का हमला",
+          "summary": "यूक्रेन ने मॉस्को की एक तेल रिफाइनरी पर ड्रोन हमला किया, जिससे जोरदार धमाके हुए और आग लग गई। रूस-यूक्रेन युद्ध के बीच गुरुवार (16 जून 2026) को यूक्रेन ने रूस पर बड़ा ड्रोन हमला किया. इस हमले का सबसे बड़ा असर मॉस्को की एक तेल रिफाइनरी पर देखा गया, जहां जोरदार धमाके हुए और भीषण आग लग गई. वोलोडिमिर ज़ेलेंस्की ने इस हमले का वीडियो भी शेयर किया, जिसमें रिफाइनरी से घना काला धुआं निकलता साफ दिखाई दे रहा है.",
           "region": "यूरोप और रूस"
         }
       }
@@ -561,150 +753,6 @@
         "hi": {
           "title": "दुनिया में 193 देश लेकिन एक का ही नाम महिला के ऊपर, 'हनीमून कंट्री' ये खूबसूरत देश",
           "summary": "दुनिया में 193 देशों में से केवल एक देश का नाम एक वास्तविक महिला के नाम पर रखा गया है. यह देश कैरिबियन सागर में स्थित है. इस देश का नाम डोमिनिका है. डोमिनिका का नाम क्रिस्टोफर कोलंबस ने रखा था. उन्होंने 1493 में इस द्वीप की खोज की थी. कोलंबस ने इस द्वीप का नाम 'डोमिनिका' रखा था. यह नाम लैटिन शब्द 'डोमिनस' से आया है, जिसका अर्थ है 'भगवान'.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान के आगे झुका अमेरिका? जानिए 14 शर्तों वाली डील में क्या-क्या तय हुआ",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-deal-14-conditions-explained-what-was-decided-between-america-and-iran-in-mou-agreement-videos-10582119.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-18T10:48:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/deal-2026-06-f8609137b833b2648fb4f0960c63a7cd-1200x800.jpg",
-      "summary": "ईरान और अमेरिका ने चार महीने के तनाव के बाद एक समझौता ज्ञापन पर हस्ताक्षर किए हैं। यह समझौता युद्ध जैसी स्थिति को समाप्त करने की दिशा में एक कदम है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने फ्रांस से इलेक्ट्रॉनिक हस्ताक्षर किए। ईरानी राष्ट्रपति मसूद ने तेहरान से हस्ताक्षर किए। इस समझौते में 14 शर्तें शामिल हैं। Iran-US Deal: करीब चार महीने तक चले अमेरिका-ईरान तनाव के बाद आखिरकार दोनों देशों के बीच एक अहम मोड़ आया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के आगे झुका अमेरिका? जानिए 14 शर्तों वाली डील में क्या-क्या तय हुआ",
-          "summary": "ईरान और अमेरिका ने चार महीने के तनाव के बाद एक समझौता ज्ञापन पर हस्ताक्षर किए हैं। यह समझौता युद्ध जैसी स्थिति को समाप्त करने की दिशा में एक कदम है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने फ्रांस से इलेक्ट्रॉनिक हस्ताक्षर किए। ईरानी राष्ट्रपति मसूद ने तेहरान से हस्ताक्षर किए। इस समझौते में 14 शर्तें शामिल हैं। Iran-US Deal: करीब चार महीने तक चले अमेरिका-ईरान तनाव के बाद आखिरकार दोनों देशों के बीच एक अहम मोड़ आया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप की चेतावनी की बाद भी नहीं रुक रहा इजरायल, लेबनान पर फिर किया हमला",
-      "url": "https://www.patrika.com/world-news/israel-lebanon-drone-strike-after-trump-warning-20678140",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-18T10:25:01+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Israel-Lebanon-Drone-Strike.webp",
-      "summary": "इज़रायल ने लेबनान में एक बार फिर ड्रोन हमला किया है। Israel Lebanon Drone Strike: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की हालिया चेतावनियों और क्षेत्र में तनाव कम करने की कोशिशों के बीच इजरायल ने एक बार फिर लेबनान में ड्रोन हमला किया है। लेबनानी मीडिया के अनुसार, दक्षिणी लेबनान के नबातियेह के पास कफर तेबनित इलाके में एक कार को निशाना बनाया गया है, जिसमें एक व्यक्ति की मौत हो गई जबकि दूसरा गंभीर रूप से घायल हो गया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप की चेतावनी की बाद भी नहीं रुक रहा इजरायल, लेबनान पर फिर किया हमला",
-          "summary": "इज़रायल ने लेबनान में एक बार फिर ड्रोन हमला किया है। Israel Lebanon Drone Strike: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की हालिया चेतावनियों और क्षेत्र में तनाव कम करने की कोशिशों के बीच इजरायल ने एक बार फिर लेबनान में ड्रोन हमला किया है। लेबनानी मीडिया के अनुसार, दक्षिणी लेबनान के नबातियेह के पास कफर तेबनित इलाके में एक कार को निशाना बनाया गया है, जिसमें एक व्यक्ति की मौत हो गई जबकि दूसरा गंभीर रूप से घायल हो गया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान समझौते की आलोचना पर भड़के डोनाल्ड ट्रंप, कहा- विरोध करने वाले या तो बुरे हैं या फिर बेवकूफ",
-      "url": "https://www.patrika.com/world-news/republican-leaders-question-donald-trump-iran-deal-and-sanctions-relief-20678171",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-18T10:22:48+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-President-Donald-Trump-6.webp",
-      "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ईरान समझौते के आलोचकों पर निशाना साधा। Donald Trump Iran Deal Controversy: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ हुए नए समझौते को लेकर हो रही आलोचनाओं पर तीखी प्रतिक्रिया दी है। ट्रंप ने सुबह सोशल मीडिया पर एक पोस्ट कर अपने विरोधियों को निशाने पर लिया और कहा कि जो लोग इस समझौते की आलोचना कर रहे हैं, वे या तो ईर्ष्यालु हैं, बुरे लोग हैं या फिर मूर्ख हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान समझौते की आलोचना पर भड़के डोनाल्ड ट्रंप, कहा- विरोध करने वाले या तो बुरे हैं या फिर बेवकूफ",
-          "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ईरान समझौते के आलोचकों पर निशाना साधा। Donald Trump Iran Deal Controversy: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ हुए नए समझौते को लेकर हो रही आलोचनाओं पर तीखी प्रतिक्रिया दी है। ट्रंप ने सुबह सोशल मीडिया पर एक पोस्ट कर अपने विरोधियों को निशाने पर लिया और कहा कि जो लोग इस समझौते की आलोचना कर रहे हैं, वे या तो ईर्ष्यालु हैं, बुरे लोग हैं या फिर मूर्ख हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'मुझसे ज्यादा ताकतवर कोई नहीं', ईरान डील के बाद बोले ट्रंप, अमेरिकी मीडिया ने क्या कहा?",
-      "url": "https://hindi.news18.com/world/europe-trump-says-no-one-stronger-than-me-on-iran-deal-warns-after-deal-mou-sign-10581915.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-18T10:09:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/donald-trumphealth-2026-06-a32e7ec2bc1cab14fa94a9779e310670-1200x800.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ हुए समझौते को अपनी सबसे बड़ी कूटनीतिक जीत बताया। उन्होंने दावा किया कि इसी डील ने मध्य पूर्व में बड़ा युद्ध टाल दिया, होर्मुज जलडमरूमध्य खुलवाया और ईरान को परमाणु हथियार बनाने से रोक दिया. ट्रंप ने चेतावनी भी दी कि अगर ईरान समझौते का सम्मान नहीं करता तो अमेरिका फिर सैन्य कार्रवाई करेगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मुझसे ज्यादा ताकतवर कोई नहीं', ईरान डील के बाद बोले ट्रंप, अमेरिकी मीडिया ने क्या कहा?",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ हुए समझौते को अपनी सबसे बड़ी कूटनीतिक जीत बताया। उन्होंने दावा किया कि इसी डील ने मध्य पूर्व में बड़ा युद्ध टाल दिया, होर्मुज जलडमरूमध्य खुलवाया और ईरान को परमाणु हथियार बनाने से रोक दिया. ट्रंप ने चेतावनी भी दी कि अगर ईरान समझौते का सम्मान नहीं करता तो अमेरिका फिर सैन्य कार्रवाई करेगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ये गरीब देश बनेगा तेल का नया हब? चीरा जा रहा कैरिबियन सागर का सीना, ब्रिटेन-अमेरिका सब दौड़ पड़े",
-      "url": "https://hindi.news18.com/world/britain-7-billion-barrels-of-crude-oil-hidden-under-caribbean-sea-uk-company-drills-deep-near-jamaica-america-analyse-new-oil-discovery-10581195.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-18T09:55:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Caribbean-Sea-Crude-Oil-Drilling-2026-06-5dbe32f2ed606ef4f98085765aad59b3-1200x800.jpg",
-      "summary": "जमैका जल्द ही कच्चे तेल का एक नया वैश्विक केंद्र बन सकता है। टूरिज्म के भरोसे चलने वाले कैरिबियन आइलैंड जमैका अब बहुत जल्द दुनिया में कच्चे तेल का नया पावर हब बनने जा रहा है. जमैका के दक्षिणी तट पर कैरिबियन सागर का सीना चीरकर ब्रिटिश कंपनी 'यूनाइटेड ऑयल एंड गैस' ने करीब 7 अरब बैरल तेल के एक सीक्रेट खजाने की खोज की है, जिसका सुराग स्थानीय मछुआरों ने दिया था.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ये गरीब देश बनेगा तेल का नया हब? चीरा जा रहा कैरिबियन सागर का सीना, ब्रिटेन-अमेरिका सब दौड़ पड़े",
-          "summary": "जमैका जल्द ही कच्चे तेल का एक नया वैश्विक केंद्र बन सकता है। टूरिज्म के भरोसे चलने वाले कैरिबियन आइलैंड जमैका अब बहुत जल्द दुनिया में कच्चे तेल का नया पावर हब बनने जा रहा है. जमैका के दक्षिणी तट पर कैरिबियन सागर का सीना चीरकर ब्रिटिश कंपनी 'यूनाइटेड ऑयल एंड गैस' ने करीब 7 अरब बैरल तेल के एक सीक्रेट खजाने की खोज की है, जिसका सुराग स्थानीय मछुआरों ने दिया था.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान-अमेरिका शांति समझौते के बाद भी क्या स्विट्ज़रलैंड में होगी मीटिंग? स्विस सरकार ने कहा – ‘प्लान",
-      "url": "https://www.patrika.com/world-news/switzerland-confirms-iran-us-talks-for-friday-despite-peace-deal-being-signed-20677495",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-18T07:36:01+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/us-iran-flags.webp",
-      "summary": "ईरान और अमेरिका के राष्ट्रपतियों ने 14-सूत्रीय शांति समझौते पर हस्ताक्षर किए हैं. इस समझौते के साथ ही युद्ध समाप्त हो गया है. स्विट्जरलैंड में एक बैठक की योजना पर स्विस सरकार ने पुष्टि की है. ईरान (Iran) और अमेरिका (United States of America) के बीच शांति समझौते (Iran-US Peace Deal) पर आधिकारिक मुहर लगाते हुए अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) और ईरानी राष्ट्रपति मसूद पेज़ेशकियान (Masoud Pezeshkian) ने इस 14-सूत्रीय शांति समझौते पर हस्ताक्षर कर दिए हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान-अमेरिका शांति समझौते के बाद भी क्या स्विट्ज़रलैंड में होगी मीटिंग? स्विस सरकार ने कहा – ‘प्लान",
-          "summary": "ईरान और अमेरिका के राष्ट्रपतियों ने 14-सूत्रीय शांति समझौते पर हस्ताक्षर किए हैं. इस समझौते के साथ ही युद्ध समाप्त हो गया है. स्विट्जरलैंड में एक बैठक की योजना पर स्विस सरकार ने पुष्टि की है. ईरान (Iran) और अमेरिका (United States of America) के बीच शांति समझौते (Iran-US Peace Deal) पर आधिकारिक मुहर लगाते हुए अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) और ईरानी राष्ट्रपति मसूद पेज़ेशकियान (Masoud Pezeshkian) ने इस 14-सूत्रीय शांति समझौते पर हस्ताक्षर कर दिए हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान-अमेरिका शांति समझौते का पाकिस्तान ने लिया क्रेडिट, शहबाज़ शरीफ ने खुद को बताया मध्यस्थ",
-      "url": "https://www.patrika.com/world-news/pakistan-pm-shehbaz-sharif-calls-himself-mediator-after-iran-us-peace-deal-20676828",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-18T07:13:56+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/trump-with-sharif-and-munir.webp",
-      "summary": "ईरान और अमेरिका के बीच शांति समझौते के बाद, पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने मध्यस्थता का दावा किया. उन्होंने कहा कि पाकिस्तान ने इस समझौते को पूरा करने में अहम भूमिका निभाई है. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) और ईरानी राष्ट्रपति मसूद पेज़ेशकियान (Masoud Pezeshkian) ने अलग-अलग इस 14-सूत्रीय शांति समझौते पर हस्ताक्षर कर दिए हैं, जिसके बाद यह प्रभाव में आ गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान-अमेरिका शांति समझौते का पाकिस्तान ने लिया क्रेडिट, शहबाज़ शरीफ ने खुद को बताया मध्यस्थ",
-          "summary": "ईरान और अमेरिका के बीच शांति समझौते के बाद, पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने मध्यस्थता का दावा किया. उन्होंने कहा कि पाकिस्तान ने इस समझौते को पूरा करने में अहम भूमिका निभाई है. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) और ईरानी राष्ट्रपति मसूद पेज़ेशकियान (Masoud Pezeshkian) ने अलग-अलग इस 14-सूत्रीय शांति समझौते पर हस्ताक्षर कर दिए हैं, जिसके बाद यह प्रभाव में आ गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "UN में महिला नेतृत्व का समर्थन: भारत बोला- आधी आबादी के लिए नीति पर सरकार की जोर, प्रशासन में 10",
-      "url": "https://www.amarujala.com/world/india-highlights-women-empowerment-and-peacekeeping-achievements-at-un-security-council-2026-06-18",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-18T06:46:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/18/sayakata-rashhatara-ma-bharata-ka-sathaya-paratanathha-rajathata-harasha-paravatanana_84d6c9896d12c83248aef657e62b21c7.jpeg?w=750&dpr=1.0",
-      "summary": "संयुक्त राष्ट्र सुरक्षा परिषद में भारत ने महिला नेतृत्व और शांति अभियानों में महिलाओं की भूमिका पर जोर दिया. भारत ने कहा कि सरकार आधी आबादी के लिए नीति निर्माण और प्रशासन में महिलाओं की भागीदारी बढ़ा रही है. UN में महिला नेतृत्व का समर्थन: भारत बोला- आधी आबादी के लिए नीति पर सरकार की जोर, प्रशासन में 10।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UN में महिला नेतृत्व का समर्थन: भारत बोला- आधी आबादी के लिए नीति पर सरकार की जोर, प्रशासन में 10",
-          "summary": "संयुक्त राष्ट्र सुरक्षा परिषद में भारत ने महिला नेतृत्व और शांति अभियानों में महिलाओं की भूमिका पर जोर दिया. भारत ने कहा कि सरकार आधी आबादी के लिए नीति निर्माण और प्रशासन में महिलाओं की भागीदारी बढ़ा रही है. UN में महिला नेतृत्व का समर्थन: भारत बोला- आधी आबादी के लिए नीति पर सरकार की जोर, प्रशासन में 10।",
           "region": "एशिया-प्रशांत"
         }
       }
