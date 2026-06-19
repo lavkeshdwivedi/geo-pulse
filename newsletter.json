@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-19T21:30:01.224572+00:00",
+  "generated_at": "2026-06-19T22:25:09.868332+00:00",
   "article_count": 50,
-  "total_unique_count": 254,
+  "total_unique_count": 256,
   "digest": {
-    "en": "Myanmar's new administration dominates the headlines. Armenia's election and Djibouti's prime real estate are also major stories. Iran's quest for a US breakthrough is ongoing.",
-    "hi": "लेबनान पर इजरायली हमले जारी हैं। नॉर्वे इस्राइली बस्तियों से व्यापार पर रोक लगाने की तैयारी कर रहा है। IDF के हमलों में 16 लोगों की जान गई है।"
+    "en": "Myanmar's new administration dominates the headlines. Armenia's election and Djibouti's prime real estate are also in focus. US-Iran talks face an early test in Switzerland.",
+    "hi": "ट्रेन में बिना टिकट यात्रा पर अब दोगुना जुर्माना होगा। लद्दाख के हनले में ऑफ-रोड ड्राइविंग पर बड़ा एक्शन हुआ है। महिंद्रा फॉर्च्यूनर समेत ड्राइवर जब्त किए गए हैं।"
   },
   "articles": [
     {
@@ -63,6 +63,18 @@
       "published_at": "Friday, June 5, 2026 - 10:38",
       "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "The European Union's next seven-year budget proposal may reduce funding for conflict prevention and aid to fragile states. Experts warn this could impact the EU's ability to address global instability. The proposed budget shifts priorities away from these areas. This change risks undermining efforts to foster peace and security in vulnerable regions. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "No Cancellation, Only Delay: US-Iran Talks Face Early Test In Switzerland",
+      "url": "https://www.rferl.org/a/burgenstock-switzerland-vance-us-iran-mou-war/33784777.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-06-19T22:00:17+00:00",
+      "image_url": "https://gdb.rferl.org/f992bcec-10f5-4518-be68-235266feee29_w1200_h630.jpg",
+      "summary": "The United States and Iran delayed their first face-to-face technical talks What was supposed to be the first face-to-face technical engagement between the US and Iran after their surprise memorandum of understanding (MOU) has instead become an early test of whether the fragile diplomatic opening can survive the pressures of a wider regional war. No Cancellation, Only Delay: US-Iran Talks Face Early Test In Switzerland.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -296,16 +308,58 @@
       "translations": {}
     },
     {
-      "title": "Climate shocks accelerating as El Niño threat looms over already vulnerable regions",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167753",
-      "source": "UN News",
+      "title": "ट्रेन में बिना टिकट यात्रा पर अब दोगुना जुर्माना, 13 साल बाद बदले नियम; एक जुलाई से होंगे लागू",
+      "url": "https://www.amarujala.com/india-news/railways-fine-for-ticketless-travel-on-trains-now-doubled-revises-rules-after-13-years-take-effect-from-july-1-2026-06-20",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-18T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/01-03-2024-mada-dd-18.jpg/image770x420cropped.jpg",
-      "summary": "Millions of people facing hunger and displacement may soon encounter another climate shock. The United Nations warned that extreme weather risks are intensifying across vulnerable regions. El Niño threatens to exacerbate existing hardships. Millions of people already facing hunger, displacement and economic hardship could soon face another major climate shock, as UN agencies warned on Thursday that extreme weather risks are intensifying across some of the world’s most vulnerable regions.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-19T21:53:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/indian-railways_628cea469a17657fe29112e243ce87b7.jpeg?w=750&dpr=1.0",
+      "summary": "भारतीय रेलवे ने ट्रेन में बिना टिकट यात्रा करने पर लगने वाले जुर्माने को दोगुना कर दिया है। ट्रेन में बिना टिकट यात्रा पर अब दोगुना जुर्माना, 13 साल बाद बदले नियम; एक जुलाई से होंगे लागू।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रेन में बिना टिकट यात्रा पर अब दोगुना जुर्माना, 13 साल बाद बदले नियम; एक जुलाई से होंगे लागू",
+          "summary": "भारतीय रेलवे ने ट्रेन में बिना टिकट यात्रा करने पर लगने वाले जुर्माने को दोगुना कर दिया है। ट्रेन में बिना टिकट यात्रा पर अब दोगुना जुर्माना, 13 साल बाद बदले नियम; एक जुलाई से होंगे लागू।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लद्दाख के हनले में ऑफ-रोड ड्राइविंग पर बड़ा एक्शन, महिंद्रा फॉर्च्यूनर समेत ड्राइवर जब्त",
+      "url": "https://www.abplive.com/news/india/ladakh-off-roading-hanle-area-wildlife-department-took-action-mahindra-fortuner-seized-driver-detained-ann-3147727",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-19T21:22:35+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/19/75bdc2a85fedd3f4cdce8289dfef378417818667043641115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "लद्दाख के चांगथांग हाई एल्टीट्यूड कोल्ड डेज़र्ट वाइल्डलाइफ़ सैंक्चुअरी में लद्दाख के ठंडे रेगिस्तानी इलाके में देश-विदेश से बड़ी संख्या में पर्यटक आ रहे हैं और यहां पर्यटन तेज़ी से बढ़ रहा है. लेकिन, कुछ लापरवाह पर्यटकों की हरकतों से यहां के नाज़ुक पर्यावरण को भारी नुकसान पहुंच रहा है, जिसके चलते अधिकारियों को कार्रवाई करनी पड़ रही है. ऐसी ही एक घटना में चांगथांग हाई एल्टीट्यूड कोल्ड डेज़र्ट वाइल्डलाइफ़ सैंक्चुअरी में ऑफ़-रोड ड्राइविंग का एक वीडियो सोशल मीडिया पर वायरल ह।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लद्दाख के हनले में ऑफ-रोड ड्राइविंग पर बड़ा एक्शन, महिंद्रा फॉर्च्यूनर समेत ड्राइवर जब्त",
+          "summary": "लद्दाख के चांगथांग हाई एल्टीट्यूड कोल्ड डेज़र्ट वाइल्डलाइफ़ सैंक्चुअरी में लद्दाख के ठंडे रेगिस्तानी इलाके में देश-विदेश से बड़ी संख्या में पर्यटक आ रहे हैं और यहां पर्यटन तेज़ी से बढ़ रहा है. लेकिन, कुछ लापरवाह पर्यटकों की हरकतों से यहां के नाज़ुक पर्यावरण को भारी नुकसान पहुंच रहा है, जिसके चलते अधिकारियों को कार्रवाई करनी पड़ रही है. ऐसी ही एक घटना में चांगथांग हाई एल्टीट्यूड कोल्ड डेज़र्ट वाइल्डलाइफ़ सैंक्चुअरी में ऑफ़-रोड ड्राइविंग का एक वीडियो सोशल मीडिया पर वायरल ह।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जब भारतीय डिप्लोमैट को KGB ने की हनीट्रैप करने की कोशिश, मिला ऐसा जवाब आज तक नहीं भूलीं रूसी एजेंट",
+      "url": "https://hindi.news18.com/world/europe-russian-spy-aliia-roza-reveals-how-indian-diplomat-boldly-failed-soviet-kgb-swallow-agent-mission-india-russia-relations-10586427.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-19T20:34:15+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Russian-KGB-Agent-2026-06-a6088f81eed6b57895bf310b532471a4-1200x800.jpg",
+      "summary": "1950 के दशक में केजीबी ने एक भारतीय राजनयिक को हनीट्रैप में फंसाने की कोशिश की थी। रूसी खुफिया एजेंट अलीया रोजा ने बताया कि केजीबी ने राजनयिक का आपत्तिजनक वीडियो दिखाकर गोपनीय जानकारी हासिल करने का प्रयास किया। राजनयिक ने डरने के बजाय हंसते हुए जवाब दिया और किसी भी दबाव में न आने की बात कही। उन्होंने केजीबी की इस कोशिश को नाकाम कर दिया।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जब भारतीय डिप्लोमैट को KGB ने की हनीट्रैप करने की कोशिश, मिला ऐसा जवाब आज तक नहीं भूलीं रूसी एजेंट",
+          "summary": "1950 के दशक में केजीबी ने एक भारतीय राजनयिक को हनीट्रैप में फंसाने की कोशिश की थी। रूसी खुफिया एजेंट अलीया रोजा ने बताया कि केजीबी ने राजनयिक का आपत्तिजनक वीडियो दिखाकर गोपनीय जानकारी हासिल करने का प्रयास किया। राजनयिक ने डरने के बजाय हंसते हुए जवाब दिया और किसी भी दबाव में न आने की बात कही। उन्होंने केजीबी की इस कोशिश को नाकाम कर दिया।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "‘तो अमेरिका को इतिहास की सबसे खौफनाक हार मिलेगी’, IRGC ने पीस डील के बीच कर दिया कांड",
@@ -344,20 +398,92 @@
       }
     },
     {
-      "title": "ट्रंप बोले- सख्त शख्सियत वाले महान नेता हैं पीएम मोदी; शहबाज-मुनीर की जोड़ी को लेकर क्या कहा?",
-      "url": "https://www.amarujala.com/world/donald-trump-calls-pm-modi-great-leader-and-tough-cookie-personality-what-about-shehbaz-sharif-asim-munir-duo-2026-06-20",
-      "source": "Amar Ujala Breaking",
+      "title": "आपस में टकरा गईं 2 सुपरफास्ट पैसेंजर ट्रेन, अंदर मची चीख-पुकार, खतरे में 50 लोगों की जान!",
+      "url": "https://hindi.news18.com/world/europe-bedford-train-crash-two-high-speed-east-midlands-railway-trains-collide-in-uk-many-50-casualties-possible-10586439.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-19T19:58:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/donald-trump_4274634ae3c08b8c1cbe81c1090fe3c5.jpeg?w=750&dpr=1.0",
-      "summary": "डोनाल्ड ट्रंप ने पीएम मोदी को सख्त शख्सियत वाले महान नेता कहा। Donald Trump: ट्रंप बोले- सख्त शख्सियत वाले महान नेता हैं पीएम मोदी; शहबाज-मुनीर की जोड़ी को लेकर क्या कहा?",
-      "region": "Americas",
+      "published_at": "2026-06-19T19:26:12+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/UK-Train-Accident-2026-06-cda9b310e6b268ab071619dcfde24a9e-1200x800.jpg",
+      "summary": "बेडफोर्ड, ब्रिटेन के पास दो सुपरफास्ट पैसेंजर ट्रेनों के बीच टक्कर हुई है। इस हादसे में कम से कम 50 लोगों की जान को खतरा बताया जा रहा है। प्रत्यक्षदर्शियों ने घटना के भयावह मंजर का वर्णन किया है। दुर्घटना के कारणों का अभी पता नहीं चल पाया है। ब्रिटेन के बेडफोर्ड शहर के पास 2 ट्रेनें आपस में टकरा गई हैं.",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ट्रंप बोले- सख्त शख्सियत वाले महान नेता हैं पीएम मोदी; शहबाज-मुनीर की जोड़ी को लेकर क्या कहा?",
-          "summary": "डोनाल्ड ट्रंप ने पीएम मोदी को सख्त शख्सियत वाले महान नेता कहा। Donald Trump: ट्रंप बोले- सख्त शख्सियत वाले महान नेता हैं पीएम मोदी; शहबाज-मुनीर की जोड़ी को लेकर क्या कहा?",
-          "region": "अमेरिका"
+          "title": "आपस में टकरा गईं 2 सुपरफास्ट पैसेंजर ट्रेन, अंदर मची चीख-पुकार, खतरे में 50 लोगों की जान!",
+          "summary": "बेडफोर्ड, ब्रिटेन के पास दो सुपरफास्ट पैसेंजर ट्रेनों के बीच टक्कर हुई है। इस हादसे में कम से कम 50 लोगों की जान को खतरा बताया जा रहा है। प्रत्यक्षदर्शियों ने घटना के भयावह मंजर का वर्णन किया है। दुर्घटना के कारणों का अभी पता नहीं चल पाया है। ब्रिटेन के बेडफोर्ड शहर के पास 2 ट्रेनें आपस में टकरा गई हैं.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "क्रिप्टो के जरिए 2500 करोड़ रुपये से ज्यादा के अवैध विदेशी लेनदेन का खुलासा, ED की बड़ी कार्रवाई",
+      "url": "https://www.abplive.com/news/india/illegal-foreign-transactions-worth-over-2500-crore-crypto-exposed-major-action-by-ed-3147892",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-19T17:59:27+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/19/72bfc0359deb58592a90f3702e5f692717818906851661324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "प्रवर्तन निदेशालय ने बेंगलुरु में छह परिसरों पर छापेमारी की। यह कार्रवाई कथित तौर पर क्रिप्टोकरेंसी के जरिए अवैध विदेशी धन क्रॉस बॉर्डर मनी ट्रांसफर के मामले में की गई। शुरुआती जांच में 2500 करोड़ रुपये से ज्यादा के अवैध लेनदेन का पता चला है। ED ने क्रिप्टोकरेंसी के जरिए कथित तौर पर किए जा रहे बड़े पैमाने पर अवैध विदेशी धन क्रॉस बॉर्डर मनी ट्रांसफर के मामले में बड़ी कार्रवाई की है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्रिप्टो के जरिए 2500 करोड़ रुपये से ज्यादा के अवैध विदेशी लेनदेन का खुलासा, ED की बड़ी कार्रवाई",
+          "summary": "प्रवर्तन निदेशालय ने बेंगलुरु में छह परिसरों पर छापेमारी की। यह कार्रवाई कथित तौर पर क्रिप्टोकरेंसी के जरिए अवैध विदेशी धन क्रॉस बॉर्डर मनी ट्रांसफर के मामले में की गई। शुरुआती जांच में 2500 करोड़ रुपये से ज्यादा के अवैध लेनदेन का पता चला है। ED ने क्रिप्टोकरेंसी के जरिए कथित तौर पर किए जा रहे बड़े पैमाने पर अवैध विदेशी धन क्रॉस बॉर्डर मनी ट्रांसफर के मामले में बड़ी कार्रवाई की है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मणिपुर की जातीय हिंसा मामलों में NIA की बड़ी कार्रवाई, ज्वाइंट ऑपरेशन में 10 आरोपी गिरफ्तार",
+      "url": "https://www.abplive.com/news/india/manipur-violence-big-actions-by-nia-arrest-10-accused-ann-3147895",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-19T17:55:30+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/17/a927b338606f224eefe22448936634f217817169784171126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "एनआईए ने मणिपुर में जातीय हिंसा से जुड़े मामलों में 10 आरोपियों को गिरफ्तार किया। Manipur Violence: मणिपुर में जातीय हिंसा से जुड़े मामलों की जांच कर रही NIA ने बड़ी कार्रवाई करते हुए 10 आरोपियों को गिरफ्तार किया है. यह कार्रवाई मणिपुर पुलिस और CRPF के साथ मिलकर संयुक्त अभियान के तहत की गई. NIA के मुताबिक शुक्रवार को इम्फाल ईस्ट, इम्फाल वेस्ट, बिष्णुपुर, चुराचांदपुर, उखरूल, चंदेल और फेरजावल जिलों में एक साथ कई स्थानों पर छापेमारी की गई.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मणिपुर की जातीय हिंसा मामलों में NIA की बड़ी कार्रवाई, ज्वाइंट ऑपरेशन में 10 आरोपी गिरफ्तार",
+          "summary": "एनआईए ने मणिपुर में जातीय हिंसा से जुड़े मामलों में 10 आरोपियों को गिरफ्तार किया। Manipur Violence: मणिपुर में जातीय हिंसा से जुड़े मामलों की जांच कर रही NIA ने बड़ी कार्रवाई करते हुए 10 आरोपियों को गिरफ्तार किया है. यह कार्रवाई मणिपुर पुलिस और CRPF के साथ मिलकर संयुक्त अभियान के तहत की गई. NIA के मुताबिक शुक्रवार को इम्फाल ईस्ट, इम्फाल वेस्ट, बिष्णुपुर, चुराचांदपुर, उखरूल, चंदेल और फेरजावल जिलों में एक साथ कई स्थानों पर छापेमारी की गई.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ममता बनर्जी को लगा बड़ा झटका, 440 करोड़ रुपये वाले TMC के तीन बैंक अकाउंट पुलिस ने किए फ्रीज",
+      "url": "https://www.abplive.com/news/india/tmc-three-bank-account-frozen-containing-rs-440-crore-west-bengal-police-action-mamata-banerjee-3147884",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-19T16:53:43+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/09/6f81d807e0437e6ddc057f7f1c5735671778328826566736_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "बंगाल पुलिस ने टीएमसी के तीन बैंक अकाउंट्स को फ्रीज कर दिया, जिनमें 440 करोड़ रुपये जमा हैं। बंगाल पुलिस ने ऑल इंडिया तृणमूल कांग्रेस पार्टी (TMC) के तीन बैंक अकाउंट्स को फ्रीज कर दिया है. HDFC बैंक में मौजूद तृणमूल कांग्रेस के इन तीन अकाउंट्स से पैसे नहीं निकाले जा सकते. इन सभी बैंक खातों में 440 करोड़ रुपये जमा हैं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ममता बनर्जी को लगा बड़ा झटका, 440 करोड़ रुपये वाले TMC के तीन बैंक अकाउंट पुलिस ने किए फ्रीज",
+          "summary": "बंगाल पुलिस ने टीएमसी के तीन बैंक अकाउंट्स को फ्रीज कर दिया, जिनमें 440 करोड़ रुपये जमा हैं। बंगाल पुलिस ने ऑल इंडिया तृणमूल कांग्रेस पार्टी (TMC) के तीन बैंक अकाउंट्स को फ्रीज कर दिया है. HDFC बैंक में मौजूद तृणमूल कांग्रेस के इन तीन अकाउंट्स से पैसे नहीं निकाले जा सकते. इन सभी बैंक खातों में 440 करोड़ रुपये जमा हैं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कारगिल में मुहर्रम पर सांप्रदायिक तनाव भड़काने की साजिश? प्रशासन ने की अफवाहों से बचने की अपील",
+      "url": "https://www.abplive.com/news/india/conspiracy-incite-communal-tension-during-muharram-in-kargil-administration-appeals-public-to-avoid-rumors-3147854",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-19T16:04:16+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/19/4b49dd6c8230a2a065945f29c6c8c48b17818917440081324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "कारगिल में मुहर्रम के बैनर और धार्मिक प्रतीकों का अपमान करने के बाद सांप्रदायिक तनाव भड़का। लद्दाख के करगिल जिले में अज्ञात लोगों की तरफ से मुहर्रम के बैनर और दूसरे धार्मिक प्रतीकों का कथित तौर पर अपमान करने और उन्हें शहर से गुजरने वाली सुरू नदी में फेंकने के बाद गुस्सा और विरोध प्रदर्शन शुरू हो गया है. क्या है पूरा मामला?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कारगिल में मुहर्रम पर सांप्रदायिक तनाव भड़काने की साजिश? प्रशासन ने की अफवाहों से बचने की अपील",
+          "summary": "कारगिल में मुहर्रम के बैनर और धार्मिक प्रतीकों का अपमान करने के बाद सांप्रदायिक तनाव भड़का। लद्दाख के करगिल जिले में अज्ञात लोगों की तरफ से मुहर्रम के बैनर और दूसरे धार्मिक प्रतीकों का कथित तौर पर अपमान करने और उन्हें शहर से गुजरने वाली सुरू नदी में फेंकने के बाद गुस्सा और विरोध प्रदर्शन शुरू हो गया है. क्या है पूरा मामला?",
+          "region": "दुनिया"
         }
       }
     },
@@ -376,6 +502,24 @@
           "title": "अरे होर्मुज बंद हो गया! क्यों फैली ये दुनिया दहलाने वाली ये अफवाह? 3 बातों से नाराज हुआ ईरान",
           "summary": "ईरान ने स्ट्रेट ऑफ होर्मुज को फिर से बंद करने की घोषणा की। यह घोषणा स्विट्जरलैंड में परमाणु वार्ता शुरू होने से ठीक पहले हुई। ईरान की कट्टरपंथी सेना इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने यह कदम उठाया। ईरान और अमेरिका के बीच पीस-डील MoU साइन होने के बाद जहां पूरी दुनिया को लग रहा था कि जंग टल गई है, वहीं ईरान ने ऐन वक्त पर एक ऐसा यू-टर्न लिया जिसने ग्लोबल मार्केट में हड़कंप मचा दिया है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली पुलिस का 48 घंटे में बड़ा एक्शन! 7,189 संदिग्ध हिरासत में, 916 गिरफ्तार, 700 करोड़ साइबर ठगी",
+      "url": "https://www.abplive.com/news/india/delhi-cyber-crime-operation-cyhawk-5-0-arrest-of-916-cyber-criminals-detention-of-7189-individuals-within-48-hours-3147820",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-19T15:33:34+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/19/203eea7fe05acd21b87c412d14eaa69117818769578031115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "दिल्ली पुलिस ने 48 घंटे में 7,189 संदिग्धों को हिरासत में लिया और 916 को गिरफ्तार किया। साइबर अपराधियों के खिलाफ दिल्ली पुलिस ने अब तक का सबसे बड़ा और सबसे व्यापक अभियान चलाते हुए पूरे देश में फैले ठगी के नेटवर्क पर एक साथ हमला बोला. ऑपरेशन साइहॉक 5.0 के तहत 48 घंटे तक चले विशेष अभियान में 7,189 लोगों को हिरासत में लिया गया, जबकि 916 आरोपियों को गिरफ्तार किया गया.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्ली पुलिस का 48 घंटे में बड़ा एक्शन! 7,189 संदिग्ध हिरासत में, 916 गिरफ्तार, 700 करोड़ साइबर ठगी",
+          "summary": "दिल्ली पुलिस ने 48 घंटे में 7,189 संदिग्धों को हिरासत में लिया और 916 को गिरफ्तार किया। साइबर अपराधियों के खिलाफ दिल्ली पुलिस ने अब तक का सबसे बड़ा और सबसे व्यापक अभियान चलाते हुए पूरे देश में फैले ठगी के नेटवर्क पर एक साथ हमला बोला. ऑपरेशन साइहॉक 5.0 के तहत 48 घंटे तक चले विशेष अभियान में 7,189 लोगों को हिरासत में लिया गया, जबकि 916 आरोपियों को गिरफ्तार किया गया.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -434,24 +578,6 @@
       }
     },
     {
-      "title": "'शर्मनाक है, ट्रंप के कमेंट पर फूटा मेलोनी का गुस्सा, एक फोटो पर जमकर लताड़ दिया",
-      "url": "https://hindi.news18.com/world/europe-italy-pm-giorgia-meloni-explodes-at-donald-trump-after-us-president-said-italian-pm-begged-him-for-photo-at-g7-summit-10585359.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-19T12:19:15+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Giorgia-Meloni-Explodes-At-Donald-Trump-2026-06-33ab41ddebaf6485b44cca1ee35cb7b9-1200x800.jpg",
-      "summary": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के कमेंट पर गुस्सा जताया। इटली की प्रधानमंत्री जॉर्जिया मेलोनी, डोनाल्ड ट्रंप से बुरी तरह नाराज हो गई हैं. उन्होंने अमेरिकी राष्ट्रपति के इस कमेंट पर जवाब दिया है, जिसमें उन्होंने दावा किया था कि G7 में मेलोनी ने उनके साथ फोटो सेशन के लिए मिन्नतें की थीं. मेलोनी को ट्रंप का ये कमेंट बिल्कुल पसंद नहीं आया है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'शर्मनाक है, ट्रंप के कमेंट पर फूटा मेलोनी का गुस्सा, एक फोटो पर जमकर लताड़ दिया",
-          "summary": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के कमेंट पर गुस्सा जताया। इटली की प्रधानमंत्री जॉर्जिया मेलोनी, डोनाल्ड ट्रंप से बुरी तरह नाराज हो गई हैं. उन्होंने अमेरिकी राष्ट्रपति के इस कमेंट पर जवाब दिया है, जिसमें उन्होंने दावा किया था कि G7 में मेलोनी ने उनके साथ फोटो सेशन के लिए मिन्नतें की थीं. मेलोनी को ट्रंप का ये कमेंट बिल्कुल पसंद नहीं आया है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "'सिर्फ 4 हफ्ते का पेट्रोल बचा तो ट्रंप ने टेके घुटने, ईरान को 60 अरब डॉलर की लाइफलाइन देना मजबूरी",
       "url": "https://hindi.news18.com/world/america-us-iran-framework-oil-deal-trump-dan-brouillette-impact-10585250.html",
       "source": "News18 Hindi (World)",
@@ -470,6 +596,24 @@
       }
     },
     {
+      "title": "PoK-बलूचिस्तान और अब अफगानिस्तान ने पाकिस्तान में उड़ाए आतंकी ठिकाने, रूस ने भी की मदद?",
+      "url": "https://hindi.news18.com/world/pakistan-afghanistan-air-force-attacks-isis-hideouts-inside-pakistan-russian-drones-play-a-secret-role-taliban-russia-defence-deal-10585298.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-19T11:15:52+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Afghanistan-Airstrike-On-Pakistan-2026-06-a0c7a9f762309996f65055145564e6ca-1200x800.jpg",
+      "summary": "अफगानिस्तान ने पाकिस्तान में आतंकी ठिकानों पर हमला किया, जिसमें रूस की मदद की खबरें हैं। पाकिस्तान अपने आतंकी कर्मों की वजह से चौतरफा मार झेल रहा है. ऑपरेशन सिंदूर के बाद बलूचिस्तान विद्रोह, फिर PoK बवाल और अब अफगानिस्तान ने भी पाकिस्तान में पल रहे आतंकवादियों को उड़ाना शुरू कर दिया है. तालिबानी सरकार ने पाकिस्तान में घुसकर एयरस्टाइक को अंजाम दिया है, जिसके बाद इस ऑपरेशन में रूस का एंगल भी सामने आया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PoK-बलूचिस्तान और अब अफगानिस्तान ने पाकिस्तान में उड़ाए आतंकी ठिकाने, रूस ने भी की मदद?",
+          "summary": "अफगानिस्तान ने पाकिस्तान में आतंकी ठिकानों पर हमला किया, जिसमें रूस की मदद की खबरें हैं। पाकिस्तान अपने आतंकी कर्मों की वजह से चौतरफा मार झेल रहा है. ऑपरेशन सिंदूर के बाद बलूचिस्तान विद्रोह, फिर PoK बवाल और अब अफगानिस्तान ने भी पाकिस्तान में पल रहे आतंकवादियों को उड़ाना शुरू कर दिया है. तालिबानी सरकार ने पाकिस्तान में घुसकर एयरस्टाइक को अंजाम दिया है, जिसके बाद इस ऑपरेशन में रूस का एंगल भी सामने आया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "बार-बार सीजफायर तोड़ रहा हिजबुल्लाह, ईरान भी दे रहा साथ, इजरायल ने नए दावे के साथ लेबनान में 80",
       "url": "https://www.patrika.com/world-news/israel-hezbollah-conflict-lebanon-strike-idf-attack-ceasefire-violation-20680952",
       "source": "Patrika (World)",
@@ -484,6 +628,24 @@
           "title": "बार-बार सीजफायर तोड़ रहा हिजबुल्लाह, ईरान भी दे रहा साथ, इजरायल ने नए दावे के साथ लेबनान में 80",
           "summary": "इजरायली सेना ने लेबनान में 80 से अधिक ठिकानों को निशाना बनाया है। यह कार्रवाई हिजबुल्लाह द्वारा सीजफायर उल्लंघन के जवाब में की गई। इजरायल का दावा है कि इन ठिकानों में आतंकी ठिकाने और कमांड सेंटर शामिल थे। यह घटना मध्य-पूर्व में इजरायल और हिजबुल्लाह के बीच बढ़ते तनाव को दर्शाती है। Israel Hezbollah Conflict: मध्य-पूर्व में एक बार फिर हालात बिगड़ते नजर आ रहे हैं।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्‍तान में तबाही ही तबाही, हजारों-लाखों लोगों का जीना हुआ मुहाल, अभी तक 7 लोगों की मौत",
+      "url": "https://hindi.news18.com/world/pakistan-khyber-pakhtunkhwa-pakistan-weather-news-thunderstorm-heavy-to-very-heavy-rainfall-killed-7-people-widespread-distruction-10584572.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-19T08:25:18+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/pakistan-news-1-2026-06-38725684cdf73b1aa9f36f09a322d98b-1200x800.jpg",
+      "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में आंधी-तूफान ने 7 लोगों की मौत हो गई और व्यापक नुकसान हुआ। Pakistan Weather News: पाकिस्‍तान में कुदरत का कहर कुछ इस कदर बरपा है कि प्रभावित खैबर पख्‍तूनख्‍वा प्रांत में 7 लोगों की मौत हो गई. इसके अलावा व्‍यापक पैमान पर धन-संपत्ति का भी नुकसान हुआ है. आंधी-तूफान के साथ तेज बारिश ने जमकर कोहराम मचाया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्‍तान में तबाही ही तबाही, हजारों-लाखों लोगों का जीना हुआ मुहाल, अभी तक 7 लोगों की मौत",
+          "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में आंधी-तूफान ने 7 लोगों की मौत हो गई और व्यापक नुकसान हुआ। Pakistan Weather News: पाकिस्‍तान में कुदरत का कहर कुछ इस कदर बरपा है कि प्रभावित खैबर पख्‍तूनख्‍वा प्रांत में 7 लोगों की मौत हो गई. इसके अलावा व्‍यापक पैमान पर धन-संपत्ति का भी नुकसान हुआ है. आंधी-तूफान के साथ तेज बारिश ने जमकर कोहराम मचाया है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -524,56 +686,20 @@
       }
     },
     {
-      "title": "फ्रांस के राष्ट्रपति मैक्रों ने प्रधानमंत्री मोदी को हिंदी में संदेश दिया",
-      "url": "https://www.abplive.com/short-videos/news/india-viral-video-french-president-macron-delivered-a-message-to-pm-modi-in-hindi-3147541",
-      "source": "ABP Live (India)",
+      "title": "लंदन के उत्तरी हिस्से में दो ट्रेनों में भिड़ंत, राहत और बचाव के काम में जुटी पुलिस",
+      "url": "https://www.amarujala.com/world/london-train-accident-british-police-responding-to-reports-of-train-collision-north-of-london-know-details-2026-06-19",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-19T06:41:20+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/19/f11ba1e42718583ae7b2e8aea5732e6b17818510770111392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "फ्रांस के राष्ट्रपति मैक्रों ने प्रधानमंत्री मोदी को हिंदी में संदेश दिया।",
+      "published_at": "2026-06-19T06:18:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/10/ithara-ma-haaa-hathasa_34b863279f27a99fc97f244daba883ee.jpeg?w=750&dpr=1.0",
+      "summary": "लंदन के उत्तरी हिस्से में दो ट्रेनें भिड़ गईं, पुलिस राहत और बचाव के काम में जुटी है। लंदन के उत्तरी हिस्से में दो ट्रेनों में भिड़ंत, राहत और बचाव के काम में जुटी पुलिस।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "फ्रांस के राष्ट्रपति मैक्रों ने प्रधानमंत्री मोदी को हिंदी में संदेश दिया",
-          "summary": "फ्रांस के राष्ट्रपति मैक्रों ने प्रधानमंत्री मोदी को हिंदी में संदेश दिया।",
+          "title": "लंदन के उत्तरी हिस्से में दो ट्रेनों में भिड़ंत, राहत और बचाव के काम में जुटी पुलिस",
+          "summary": "लंदन के उत्तरी हिस्से में दो ट्रेनें भिड़ गईं, पुलिस राहत और बचाव के काम में जुटी है। लंदन के उत्तरी हिस्से में दो ट्रेनों में भिड़ंत, राहत और बचाव के काम में जुटी पुलिस।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका पर भरोसा नहीं, लेकिन बातचीत जारी रहेगी! ईरान ने डील पर रखी अपनी शर्तें",
-      "url": "https://www.abplive.com/news/world/iran-consul-general-saeid-reza-mosayeb-motlagh-on-us-iran-peace-deal-israel-opposition-and-nuclear-program-news-3147502",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-19T06:19:39+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/19/98ec40779cd9c2966b6024c1d11847851781848285331425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "ईरान ने अमेरिका पर भरोसा नहीं करने की बात कही, लेकिन बातचीत जारी रखने की इच्छा जताई। अमेरिका और ईरान के बीच हुए शांति समझौते को लेकर मुंबई में ईरान के महावाणिज्यदूत सईद रजा मोसयेब मोतलाघ ने प्रतिक्रिया दी है. उन्होंने कहा कि ईरान हमेशा से बातचीत और कूटनीतिक समाधान का समर्थक रहा है और अगर मौजूदा विवाद बातचीत के जरिए सुलझते हैं तो यह दोनों देशों के लिए सकारात्मक कदम होगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका पर भरोसा नहीं, लेकिन बातचीत जारी रहेगी! ईरान ने डील पर रखी अपनी शर्तें",
-          "summary": "ईरान ने अमेरिका पर भरोसा नहीं करने की बात कही, लेकिन बातचीत जारी रखने की इच्छा जताई। अमेरिका और ईरान के बीच हुए शांति समझौते को लेकर मुंबई में ईरान के महावाणिज्यदूत सईद रजा मोसयेब मोतलाघ ने प्रतिक्रिया दी है. उन्होंने कहा कि ईरान हमेशा से बातचीत और कूटनीतिक समाधान का समर्थक रहा है और अगर मौजूदा विवाद बातचीत के जरिए सुलझते हैं तो यह दोनों देशों के लिए सकारात्मक कदम होगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "घरेलू गैस की किल्लत के बीच राहत भरी खबर, ईरान युद्ध के बाद LNG का पहला टैंकर होर्मुज पार करके",
-      "url": "https://www.abplive.com/news/india/lpg-crisis-first-lng-disha-vessel-crossed-strait-of-hormuz-and-arrived-india-dahej-port-after-iran-us-war-3147477",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-19T05:22:54+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/14/d4ed8b95f9fc4681ef17d0067dcf64c61781429697679425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "एलएनजी का टैंकर होर्मुज स्ट्रेट से गुजरते हुए गुजरात के दाहेज पोर्ट पहुंचा. एलएनजी का टैंकर दिशा होर्मुज स्ट्रेट से सुरक्षित निकलने के बाद गुजरात के दाहेज पोर्ट पहुंच गया है. माल्टा के झंडा वाला यह टैंकर 62,370 मीट्रिक टन एलएनजी लेकर आया है. एलएनजी लेकर पहुंचा ये टैंकर करीब साढ़े तीन महीने पहले शुरू हुए ईरान युद्ध के बाद होर्मुज पार करने वाला पहला भारतीय एलएनजी टैंकर है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "घरेलू गैस की किल्लत के बीच राहत भरी खबर, ईरान युद्ध के बाद LNG का पहला टैंकर होर्मुज पार करके",
-          "summary": "एलएनजी का टैंकर होर्मुज स्ट्रेट से गुजरते हुए गुजरात के दाहेज पोर्ट पहुंचा. एलएनजी का टैंकर दिशा होर्मुज स्ट्रेट से सुरक्षित निकलने के बाद गुजरात के दाहेज पोर्ट पहुंच गया है. माल्टा के झंडा वाला यह टैंकर 62,370 मीट्रिक टन एलएनजी लेकर आया है. एलएनजी लेकर पहुंचा ये टैंकर करीब साढ़े तीन महीने पहले शुरू हुए ईरान युद्ध के बाद होर्मुज पार करने वाला पहला भारतीय एलएनजी टैंकर है.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -591,24 +717,6 @@
         "hi": {
           "title": "इज़रायली राजदूत की दो-टूक – ‘अगर हिज़बुल्लाह नहीं करेगा समझौते का उल्लंघन, तो इज़रायल बनाए रखेगा शांति’",
           "summary": "इज़रायली राजदूत ने कहा कि अगर हिज़बुल्लाह समझौते का उल्लंघन नहीं करेगा, तो इज़रायल शांति बनाए रखेगा। यह बयान इज़रायल और लेबनान के बीच जारी जंग के बीच आया है। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप की मध्यस्थता में सीज़फायर हुआ था। इज़रायल (Israel) और लेबनान (Lebanon) के आतंकी संगठन हिज़बुल्लाह (Hezbollah) के बीच कई बार सीज़फायर होने के बावजूद जंग जारी है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हजारों बम भी नहीं झुका पाए! बातचीत की मेज पर USA को मात दे गया ईरान? ट्रंप का पुराना बयान वायरल",
-      "url": "https://www.abplive.com/news/world/us-iran-deal-donald-trump-iran-war-strait-of-hormuz-mojtaba-khamenei-middle-east-crisis-negotiation-victory-news-3147446",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-19T04:13:21+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/19/7234e4b50bcf73dc55fd668a915dee671781842381607425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "डोनाल्ड ट्रंप का पुराना बयान वायरल हो रहा है, जिसमें उन्होंने कहा था कि ईरान बातचीत में हारना पसंद नहीं करता। ईरान और अमेरिका के बीच नए समझौते ने इस बयान को फिर सुर्खियों में ला दिया है। दोनों देशों के बीच महीनों तक जंग हुई थी। US Iran Deal: जनवरी 2020 में डोनाल्ड ट्रंप ने एक बात कही थी, जो आज फिर चर्चा में है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हजारों बम भी नहीं झुका पाए! बातचीत की मेज पर USA को मात दे गया ईरान? ट्रंप का पुराना बयान वायरल",
-          "summary": "डोनाल्ड ट्रंप का पुराना बयान वायरल हो रहा है, जिसमें उन्होंने कहा था कि ईरान बातचीत में हारना पसंद नहीं करता। ईरान और अमेरिका के बीच नए समझौते ने इस बयान को फिर सुर्खियों में ला दिया है। दोनों देशों के बीच महीनों तक जंग हुई थी। US Iran Deal: जनवरी 2020 में डोनाल्ड ट्रंप ने एक बात कही थी, जो आज फिर चर्चा में है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -632,128 +740,20 @@
       }
     },
     {
-      "title": "जी-7 शिखर सम्मेलन के बाद डोनाल्ड ट्रंप पर क्यों भड़कीं जॉर्जिया मेलोनी?",
-      "url": "https://www.amarujala.com/video/world/giorgia-meloni-vs-donald-trump-why-did-giorgia-meloni-lash-out-at-donald-trump-after-the-g7-summit-2026-06-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-19T03:54:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/giorgia-meloni-vs-donald-trump_1099972d1ed28a65bb67dbc841ed2c1b.jpeg?w=750&dpr=1.0",
-      "summary": "जी-7 शिखर सम्मेलन के बाद जॉर्जिया मेलोनी और डोनाल्ड ट्रंप के बीच कूटनीतिक विवाद खड़ा हो गया है। Giorgia Meloni vs Donald Trump: जी-7 शिखर सम्मेलन के बाद इटली की प्रधानमंत्री जॉर्जिया मेलोनी और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के बीच एक बड़ा कूटनीतिक विवाद खड़ा हो गया है। जी-7 शिखर सम्मेलन के बाद डोनाल्ड ट्रंप पर क्यों भड़कीं जॉर्जिया मेलोनी?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जी-7 शिखर सम्मेलन के बाद डोनाल्ड ट्रंप पर क्यों भड़कीं जॉर्जिया मेलोनी?",
-          "summary": "जी-7 शिखर सम्मेलन के बाद जॉर्जिया मेलोनी और डोनाल्ड ट्रंप के बीच कूटनीतिक विवाद खड़ा हो गया है। Giorgia Meloni vs Donald Trump: जी-7 शिखर सम्मेलन के बाद इटली की प्रधानमंत्री जॉर्जिया मेलोनी और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के बीच एक बड़ा कूटनीतिक विवाद खड़ा हो गया है। जी-7 शिखर सम्मेलन के बाद डोनाल्ड ट्रंप पर क्यों भड़कीं जॉर्जिया मेलोनी?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "जी-7 से कौन सा तोहफा लेकर आए मोदी, किस देश से कितना आगे बढ़े रिश्ते?",
-      "url": "https://www.amarujala.com/world/what-gift-did-modi-bring-back-from-the-g-7-and-with-which-countries-did-relations-advance-the-most-2026-06-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-19T02:47:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/18/paema-matha-na-shayara-ka-ja-7-yatara-ka-vadaya_152a19494e91564357efb8d0c3d5c51a.gif?w=750&dpr=1.0",
-      "summary": "प्रधानमंत्री मोदी जी-7 से लौट आए हैं। उनकी यात्रा के दौरान कई महत्वपूर्ण समझौते हुए और रिश्ते आगे बढ़े। मोदी ने जी-7 से कौन सा तोहफा लिया और किन देशों के साथ रिश्ते सबसे ज्यादा आगे बढ़े, यह जानकारी नहीं दी गई है। जी-7 से कौन सा तोहफा लेकर आए मोदी, किस देश से कितना आगे बढ़े रिश्ते?",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जी-7 से कौन सा तोहफा लेकर आए मोदी, किस देश से कितना आगे बढ़े रिश्ते?",
-          "summary": "प्रधानमंत्री मोदी जी-7 से लौट आए हैं। उनकी यात्रा के दौरान कई महत्वपूर्ण समझौते हुए और रिश्ते आगे बढ़े। मोदी ने जी-7 से कौन सा तोहफा लिया और किन देशों के साथ रिश्ते सबसे ज्यादा आगे बढ़े, यह जानकारी नहीं दी गई है। जी-7 से कौन सा तोहफा लेकर आए मोदी, किस देश से कितना आगे बढ़े रिश्ते?",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "इज़रायल के खिलाफ हुआ अमेरिका? लेबनान पर शर्तों को मानने की दी चेतावनी",
-      "url": "https://www.patrika.com/world-news/us-turns-against-israel-and-warns-it-to-comply-with-lebanon-terms-20679491",
+      "title": "अमेरिका से शांति समझौते का ईरान को होगा ज़बरदस्त फायदा, तेल का उत्पादन-निर्यात बढ़ने से अर्थव्यवस्था",
+      "url": "https://www.patrika.com/world-news/peace-deal-with-america-can-boost-iranian-oil-production-and-exports-which-could-be-helpful-for-economy-20679555",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-19T02:40:46+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/trump-warns-netanyahu.webp",
-      "summary": "अमेरिका ने लेबनान पर शर्तों को मानने की चेतावनी दी है, इज़राइल के खिलाफ खड़ा हुआ है। ईरान (Iran) और अमेरिका (United States of America) के बीच महीनों के युद्ध के बाद अब शांति समझौता (Iran-US Peace Deal) हो गया है, लेकिन लेबनान (Lebanon) में इज़रायल (Israel) की सैन्य कार्रवाई से ईरान खुश नहीं है। ईरान ने इसे शांति समझौते के खिलाफ बताया है।",
+      "published_at": "2026-06-19T03:13:58+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/iranian-oil-industry.webp",
+      "summary": "ईरान और अमेरिका के बीच शांति समझौते से ईरान को आर्थिक फायदा होगा, तेल उत्पादन और निर्यात बढ़ेगा। इस शांति समझौते से ईरान के खिलाफ युद्ध का स्थायी अंत हो गया है, जिससे मिडिल ईस्ट (Middle East) में बिगड़े हालात भी सुधर गए हैं। हालांकि दोनों देशों के बीच हुए इस 14-सूत्रीय शांति समझौते से ईरान को आर्थिक रूप से भी ज़बरदस्त फायदा होगा।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "इज़रायल के खिलाफ हुआ अमेरिका? लेबनान पर शर्तों को मानने की दी चेतावनी",
-          "summary": "अमेरिका ने लेबनान पर शर्तों को मानने की चेतावनी दी है, इज़राइल के खिलाफ खड़ा हुआ है। ईरान (Iran) और अमेरिका (United States of America) के बीच महीनों के युद्ध के बाद अब शांति समझौता (Iran-US Peace Deal) हो गया है, लेकिन लेबनान (Lebanon) में इज़रायल (Israel) की सैन्य कार्रवाई से ईरान खुश नहीं है। ईरान ने इसे शांति समझौते के खिलाफ बताया है।",
+          "title": "अमेरिका से शांति समझौते का ईरान को होगा ज़बरदस्त फायदा, तेल का उत्पादन-निर्यात बढ़ने से अर्थव्यवस्था",
+          "summary": "ईरान और अमेरिका के बीच शांति समझौते से ईरान को आर्थिक फायदा होगा, तेल उत्पादन और निर्यात बढ़ेगा। इस शांति समझौते से ईरान के खिलाफ युद्ध का स्थायी अंत हो गया है, जिससे मिडिल ईस्ट (Middle East) में बिगड़े हालात भी सुधर गए हैं। हालांकि दोनों देशों के बीच हुए इस 14-सूत्रीय शांति समझौते से ईरान को आर्थिक रूप से भी ज़बरदस्त फायदा होगा।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'प्रिय मित्र नरेंद्र...', हिंदी में बोले मैक्रों, PM मोदी की शान में गढ़े कसीदे, बताया कब आएंगे भारत",
-      "url": "https://www.abplive.com/news/world/g7-summit-france-emmanuel-macron-farewell-message-in-hindi-to-pm-modi-visit-to-paris-3147414",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-19T02:31:37+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/19/d8dc38b91b37f63ecfa0fd7fba3cc63917818355724041200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने प्रधानमंत्री नरेंद्र मोदी को हिंदी में फेयरवेल मैसेज दिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने गुरुवार (18 जून) को प्रधानमंत्री नरेंद्र मोदी को हिंदी में एक सरप्राइज फेयरवेल मैसेज दिया. मैक्रों ने हिंदी में कहा, \"प्रिय मित्र नरेंद्र, मुझे बहुत खुशी हुई. नीस, एवियन और पेरिस में आपका स्वागत करके मुझे बहुत अच्छा लगा.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'प्रिय मित्र नरेंद्र...', हिंदी में बोले मैक्रों, PM मोदी की शान में गढ़े कसीदे, बताया कब आएंगे भारत",
-          "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने प्रधानमंत्री नरेंद्र मोदी को हिंदी में फेयरवेल मैसेज दिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने गुरुवार (18 जून) को प्रधानमंत्री नरेंद्र मोदी को हिंदी में एक सरप्राइज फेयरवेल मैसेज दिया. मैक्रों ने हिंदी में कहा, \"प्रिय मित्र नरेंद्र, मुझे बहुत खुशी हुई. नीस, एवियन और पेरिस में आपका स्वागत करके मुझे बहुत अच्छा लगा.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "इस्राइल-हिजबुल्ला में दोबारा युद्धविराम: कतर, अमेरिका और ईरान ने कराई सुलह; वेंस की चेतावनी के बाद",
-      "url": "https://www.amarujala.com/world/israel-and-hezbollah-agree-to-renew-ceasefire-after-iran-us-talks-postponed-2026-06-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-19T02:15:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/isarail-hajabll_05150c36ab6598c3ab367ab5536d4393.jpeg?w=750&dpr=1.0",
-      "summary": "कतर, अमेरिका और ईरान ने इस्राइल-हिजबुल्ला के बीच युद्धविराम कराई है। इस्राइल-हिजबुल्ला में दोबारा युद्धविराम: कतर, अमेरिका और ईरान ने कराई सुलह; वेंस की चेतावनी के बाद।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस्राइल-हिजबुल्ला में दोबारा युद्धविराम: कतर, अमेरिका और ईरान ने कराई सुलह; वेंस की चेतावनी के बाद",
-          "summary": "कतर, अमेरिका और ईरान ने इस्राइल-हिजबुल्ला के बीच युद्धविराम कराई है। इस्राइल-हिजबुल्ला में दोबारा युद्धविराम: कतर, अमेरिका और ईरान ने कराई सुलह; वेंस की चेतावनी के बाद।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इजरायली पीएम बेंजामिन नेतन्याहू US-Iran Peace Deal को प्रभावित करने की कर रहे कोशिश",
-      "url": "https://www.patrika.com/world-news/israeli-pm-benjamin-netanyahu-is-trying-to-influence-the-us-iran-peace-deal-20679490",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-19T02:03:24+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/iran-.webp",
-      "summary": "इजरायली पीएम बेंजामिन नेतन्याहू अमेरिका-ईरान शांति समझौते को प्रभावित करने की कोशिश कर रहे हैं। US-Iran Peace Deal: अमेरिका और ईरान के बीच जंग अब खत्म हो गई है। दोनों देशों के राष्ट्राध्यक्षों ने युद्ध खत्म करने को लेकर समझौता ज्ञापन पर हस्ताक्षर किया है। फ्रांस में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने MoU पर हस्ताक्षर करने के बाद मीडिया को चिल्लाकर बताया था कि हस्ताक्षर हो गए हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इजरायली पीएम बेंजामिन नेतन्याहू US-Iran Peace Deal को प्रभावित करने की कर रहे कोशिश",
-          "summary": "इजरायली पीएम बेंजामिन नेतन्याहू अमेरिका-ईरान शांति समझौते को प्रभावित करने की कोशिश कर रहे हैं। US-Iran Peace Deal: अमेरिका और ईरान के बीच जंग अब खत्म हो गई है। दोनों देशों के राष्ट्राध्यक्षों ने युद्ध खत्म करने को लेकर समझौता ज्ञापन पर हस्ताक्षर किया है। फ्रांस में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने MoU पर हस्ताक्षर करने के बाद मीडिया को चिल्लाकर बताया था कि हस्ताक्षर हो गए हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'इटली और मैं कभी भीख नहीं मांगते', ट्रंप के दावे पर भड़कीं मेलोनी; आरोपों को बताया मनगढ़ंत",
-      "url": "https://www.amarujala.com/world/italy-and-i-never-beg-giorgia-meloni-rebukes-donald-trump-s-fabricated-claims-2026-06-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-19T01:59:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/meloni-vs-trump_0bdd335df96227e1a2bab52bedbd2522.jpeg?w=750&dpr=1.0",
-      "summary": "इटली की पीएम मेलोनी ने ट्रंप के दावे को मनगढ़ंत बताया कि वे भीख मांगते हैं। Meloni Vs Trump: 'इटली और मैं कभी भीख नहीं मांगते', ट्रंप के दावे पर भड़कीं मेलोनी; आरोपों को बताया मनगढ़ंत।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'इटली और मैं कभी भीख नहीं मांगते', ट्रंप के दावे पर भड़कीं मेलोनी; आरोपों को बताया मनगढ़ंत",
-          "summary": "इटली की पीएम मेलोनी ने ट्रंप के दावे को मनगढ़ंत बताया कि वे भीख मांगते हैं। Meloni Vs Trump: 'इटली और मैं कभी भीख नहीं मांगते', ट्रंप के दावे पर भड़कीं मेलोनी; आरोपों को बताया मनगढ़ंत।",
-          "region": "यूरोप और रूस"
         }
       }
     }
