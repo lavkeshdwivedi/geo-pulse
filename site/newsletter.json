@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-06-18T23:37:45.695035+00:00",
-  "article_count": 46,
-  "total_unique_count": 246,
+  "generated_at": "2026-06-19T01:08:57.290819+00:00",
+  "article_count": 50,
+  "total_unique_count": 252,
   "digest": {
-    "en": "Barbados's call for slavery reparations leads the news cycle. This intersects with ongoing conflict in Ukraine and tense diplomatic exchanges between the US, Iran, and Russia. The world grapples with historical injustices and present-day security challenges.",
-    "hi": "ईरान के परमाणु समझौते पर अमेरिका और IAEA के बीच बातचीत जारी है. नाइजर में आतंकवादी हमले में 13 लोग मारे गए. भारत में मेडिकल अफसरों के खिलाफ कार्रवाई और टेस्ट-ट्यूब बेबी के जनक को मरणोपरांत पहचान मिली."
+    "en": "Myanmar's new administration dominates the news. Armenia's election and Djibouti's prime real estate are also key stories. Europe and Russia report on repair work at Kyiv Cathedral.",
+    "hi": "दक्षिण कोरिया और मेक्सिको के बीच मुकाबला जारी है, जिसमें सोन ह्युंग मिन पर नजरें हैं। उधर, ईरान के नेता खामेनेई ने अमेरिका से बात करने की मंजूरी दी है, जबकि US ने इजरायल को लताड़ा है और ईरान की नाकेबंदी खत्म हो गई है।"
   },
   "articles": [
+    {
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Min Aung Hlaing transitioned from commander-in-chief to president in Myanmar. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenia will hold its first general election since 2021 on 7 Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Djibouti occupies a strategic location on the Horn of Africa, bordering the Red Sea and the Gulf of Aden. This position has made it a hub for foreign military bases and international trade. The country navigates shifting alliances and regional turmoil. It hosts bases for countries including the United States, China, France, and Japan. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan is mediating proposals between the United States and Iran following U. S. and Israeli airstrikes on Iran. Islamabad has taken on this role despite the inherent risks. The nation views the stakes as sufficiently high to continue its efforts toward de-escalation. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's next seven-year budget proposal may reduce funding for conflict prevention and aid to fragile states. Experts warn this could impact the EU's ability to address global instability. The proposed budget shifts priorities away from these areas. This change risks undermining efforts to foster peace and security in vulnerable regions. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Barbados prime minister announces manifesto for slavery reparations",
       "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
@@ -248,32 +308,308 @@
       "translations": {}
     },
     {
-      "title": "Resettlement remains out of reach for millions of refugees",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167729",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-16T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/16-06-2026-UNHCR-Kenya-refugees.jpg/image770x420cropped.jpg",
-      "summary": "The UN refugee agency, UNHCR, called for an urgent expansion of refugee resettlement As millions of people continue to flee their countries due to war or persecution, UNHCR, the UN refugee agency, called on Tuesday for an urgent expansion of refugee resettlement programmes, warning that available places continue to fall short of global needs. Resettlement remains out of reach for millions of refugees.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "बगावत के बाद छह सांसदों को मिली वाई-प्लस सुरक्षा, शिंदे गुट में शामिल होने का कार्यक्रम भी टला",
-      "url": "https://www.amarujala.com/india-news/amid-threats-6-rebel-sena-ubt-mps-get-y-plus-security-raut-attributes-it-to-operation-tudva-2026-06-19",
+      "title": "मेक्सिको का मुकाबला दक्षिण कोरिया का मुकाबला जारी; सोन ह्युंग मिन पर नजरें",
+      "url": "https://www.amarujala.com/live/sports/football/mexico-vs-south-korea-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-19",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-19T07:08:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/amid-threats-6-rebel-sena-ubt-mps-get-y-plus-security-raut-attributes-it-to-operation-tudva_20ddf90a79ecdd0a78b87cb5d9d35324.jpeg?w=750&dpr=1.0",
-      "summary": "छह शिवसेना (यूबीटी) सांसदों को वाई-प्लस सुरक्षा प्रदान की गई है। यह सुरक्षा उन सांसदों को मिली है जिन्होंने पार्टी के खिलाफ बगावत की है। शिवसेना (यूबीटी) के नेता संजय राउत ने इस कदम को \"ऑपरेशन तुडवा\" का परिणाम बताया है। शिंदे गुट में शामिल होने के लिए सांसदों का एक कार्यक्रम भी स्थगित कर दिया गया है। बगावत के बाद छह सांसदों को मिली वाई-प्लस सुरक्षा, शिंदे गुट में शामिल होने का कार्यक्रम भी टला।",
+      "published_at": "2026-06-19T01:03:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/18/fifa-world-cup-2026-best-teams-world-cup-2026-germany-vs-curacao-england-vs-croatia-harry-kane_797beeae718b95166784683e0deb76c6.jpeg?w=750&dpr=1.0",
+      "summary": "फीफा विश्वकप 2026 में ग्रुप ए का मुकाबला जारी है। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। फीफा विश्वकप 2026 में अभी ग्रुप ए में दक्षिण कोरिया का मुकाबला मेजबान मेक्सिको से जारी है। मेक्सिको का मुकाबला दक्षिण कोरिया का मुकाबला जारी; सोन ह्युंग मिन पर नजरें।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मेक्सिको का मुकाबला दक्षिण कोरिया का मुकाबला जारी; सोन ह्युंग मिन पर नजरें",
+          "summary": "फीफा विश्वकप 2026 में ग्रुप ए का मुकाबला जारी है। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। फीफा विश्वकप 2026 में अभी ग्रुप ए में दक्षिण कोरिया का मुकाबला मेजबान मेक्सिको से जारी है। मेक्सिको का मुकाबला दक्षिण कोरिया का मुकाबला जारी; सोन ह्युंग मिन पर नजरें।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "खामेनेई ने अमेरिका से बात करने की मंजूरी दी, उधर US ने इजरायल को लताड़ा, खत्म हुई ईरान की नाकेबंदी",
+      "url": "https://hindi.news18.com/world/middle-east-mojtaba-khamenei-approves-us-talks-jd-vance-warns-israel-over-trump-iran-deal-us-navy-blockade-end-10583399.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-19T00:58:04+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iran-news-19-2026-06-ee5dee87b0d953e30a7c1d4bff7962ff-1200x800.jpg",
+      "summary": "ईरान के सर्वोच्च नेता मोजतबा खामेनेई ने अमेरिका से सीधी बातचीत को मंजूरी दी है। US Iran Tension News: अमेरिका-ईरान डील पर साइन होने के बाद ईरान के सर्वोच्च नेता मोजतबा खामेनेई पहली बार सामने आए. उन्होंने अमेरिका से सीधे बातचीत की मंजूरी तो दे दी, लेकिन साफ कहा कि इसका मतलब दुश्मन की बात मानना नहीं है. दूसरी तरफ अमेरिकी उपराष्ट्रपति जेडी वेंस ने इजरायल को खुली चेतावनी दी कि ट्रंप ही उसका सबसे ताकतवर दोस्त हैं और उनके खिलाफ जाना समझदारी नहीं होगी.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खामेनेई ने अमेरिका से बात करने की मंजूरी दी, उधर US ने इजरायल को लताड़ा, खत्म हुई ईरान की नाकेबंदी",
+          "summary": "ईरान के सर्वोच्च नेता मोजतबा खामेनेई ने अमेरिका से सीधी बातचीत को मंजूरी दी है। US Iran Tension News: अमेरिका-ईरान डील पर साइन होने के बाद ईरान के सर्वोच्च नेता मोजतबा खामेनेई पहली बार सामने आए. उन्होंने अमेरिका से सीधे बातचीत की मंजूरी तो दे दी, लेकिन साफ कहा कि इसका मतलब दुश्मन की बात मानना नहीं है. दूसरी तरफ अमेरिकी उपराष्ट्रपति जेडी वेंस ने इजरायल को खुली चेतावनी दी कि ट्रंप ही उसका सबसे ताकतवर दोस्त हैं और उनके खिलाफ जाना समझदारी नहीं होगी.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "शुक्रवार के ये आसान उपाय भर देंगे आपकी तिजोरी",
+      "url": "https://www.amarujala.com/astrology/predictions/shukrawar-ke-upay-totke-unlock-wealth-and-abundance-with-these-remedies-2026-06-18",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-19T00:56:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/20/shukrawar-ke-upay_6c9b4cd471902afe33c248bbe37f5938.jpeg?w=750&dpr=1.0",
+      "summary": "यह सामग्री GeoPulse के दायरे में नहीं आती है. GeoPulse भू-राजनीति पर केंद्रित है. शुक्रवार के दिन किए जाने वाले आसान और प्रभावी उपायों से मां लक्ष्मी की कृपा पाएं। जानें कैसे इन उपायों से धन, समृद्धि और सुख-शांति में वृद्धि होती है और तिजोरी कभी खाली नहीं रहती। शुक्रवार के ये आसान उपाय भर देंगे आपकी तिजोरी।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बगावत के बाद छह सांसदों को मिली वाई-प्लस सुरक्षा, शिंदे गुट में शामिल होने का कार्यक्रम भी टला",
-          "summary": "छह शिवसेना (यूबीटी) सांसदों को वाई-प्लस सुरक्षा प्रदान की गई है। यह सुरक्षा उन सांसदों को मिली है जिन्होंने पार्टी के खिलाफ बगावत की है। शिवसेना (यूबीटी) के नेता संजय राउत ने इस कदम को \"ऑपरेशन तुडवा\" का परिणाम बताया है। शिंदे गुट में शामिल होने के लिए सांसदों का एक कार्यक्रम भी स्थगित कर दिया गया है। बगावत के बाद छह सांसदों को मिली वाई-प्लस सुरक्षा, शिंदे गुट में शामिल होने का कार्यक्रम भी टला।",
+          "title": "शुक्रवार के ये आसान उपाय भर देंगे आपकी तिजोरी",
+          "summary": "यह सामग्री GeoPulse के दायरे में नहीं आती है. GeoPulse भू-राजनीति पर केंद्रित है. शुक्रवार के दिन किए जाने वाले आसान और प्रभावी उपायों से मां लक्ष्मी की कृपा पाएं। जानें कैसे इन उपायों से धन, समृद्धि और सुख-शांति में वृद्धि होती है और तिजोरी कभी खाली नहीं रहती। शुक्रवार के ये आसान उपाय भर देंगे आपकी तिजोरी।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अंतरिम समझौते से तेहरान को बड़ी आर्थिक राहत, परमाणु मुद्दे पर कठिन फैसले टले",
+      "url": "https://www.amarujala.com/world/interim-deal-iran-economic-relief-nuclear-issue-delayed-decisions-2026-06-19",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-19T00:54:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/17/us-iran-peace-deal_d0289f4e7e0e67617e2facefcdc79884.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान और विश्व शक्तियों के बीच अंतरिम परमाणु समझौते से तेहरान को आर्थिक राहत मिली है। इस समझौते के तहत ईरान के फ्रीज किए गए 6 अरब डॉलर के फंड को जारी किया जाएगा। इसके बदले में ईरान अपने परमाणु कार्यक्रम को सीमित करेगा। यह समझौता ईरान को कुछ राहत देगा, लेकिन परमाणु मुद्दे पर दीर्घकालिक समाधान अभी भी अनिश्चित है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अंतरिम समझौते से तेहरान को बड़ी आर्थिक राहत, परमाणु मुद्दे पर कठिन फैसले टले",
+          "summary": "ईरान और विश्व शक्तियों के बीच अंतरिम परमाणु समझौते से तेहरान को आर्थिक राहत मिली है। इस समझौते के तहत ईरान के फ्रीज किए गए 6 अरब डॉलर के फंड को जारी किया जाएगा। इसके बदले में ईरान अपने परमाणु कार्यक्रम को सीमित करेगा। यह समझौता ईरान को कुछ राहत देगा, लेकिन परमाणु मुद्दे पर दीर्घकालिक समाधान अभी भी अनिश्चित है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हीटवेव से भारत में राहत, मगर यहां आफत! भीषण गर्मी बिछा रही लाशें, एक साल में 5400 मौतों से हड़कंप",
+      "url": "https://hindi.news18.com/world/europe-heatwave-in-france-kill-5400-people-a-year-know-weather-update-10583450.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-19T00:52:25+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/heatwave-in-france-2026-06-60289228dee17b7d46a68d772ba07265-1200x800.jpg",
+      "summary": "फ्रांस में अत्यधिक गर्मी हर साल करीब 5400 लोगों की मौत का कारण बनती है. एक नई रिपोर्ट के मुताबिक गरीब और जर्जर घरों में रहने वाले लोग सबसे ज्यादा जोखिम में हैं. जलवायु परिवर्तन इस खतरे को लगातार बढ़ा रहा है. Heatwave in France: यूरोप में बढ़ती हीटवेव अब गंभीर स्वास्थ्य संकट बनती जा रही है. एक नई रिपोर्ट के मुताबिक, फ्रांस में अत्यधिक गर्मी हर साल करीब 5,400 लोगों की मौत का कारण बनती है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हीटवेव से भारत में राहत, मगर यहां आफत! भीषण गर्मी बिछा रही लाशें, एक साल में 5400 मौतों से हड़कंप",
+          "summary": "फ्रांस में अत्यधिक गर्मी हर साल करीब 5400 लोगों की मौत का कारण बनती है. एक नई रिपोर्ट के मुताबिक गरीब और जर्जर घरों में रहने वाले लोग सबसे ज्यादा जोखिम में हैं. जलवायु परिवर्तन इस खतरे को लगातार बढ़ा रहा है. Heatwave in France: यूरोप में बढ़ती हीटवेव अब गंभीर स्वास्थ्य संकट बनती जा रही है. एक नई रिपोर्ट के मुताबिक, फ्रांस में अत्यधिक गर्मी हर साल करीब 5,400 लोगों की मौत का कारण बनती है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "पूर्वोत्तर में भारी बारिश, उत्तर-पश्चिम में आंधी-ओले का अलर्ट; कई राज्यों में मानसून आगे बढ़ने के",
+      "url": "https://www.amarujala.com/india-news/weather-updats-heavy-rain-thunderstorm-alert-monsoon-to-advance-across-states-2026-06-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-19T00:46:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/thakashhanae-thall-ma-brasha_2e85585574f45a05c74780040733aa89.jpeg?w=750&dpr=1.0",
+      "summary": "पूर्वोत्तर में भारी बारिश हो रही है, उत्तर-पश्चिम में आंधी-ओले का अलर्ट जारी किया गया है। मौसम: पूर्वोत्तर में भारी बारिश, उत्तर-पश्चिम में आंधी-ओले का अलर्ट; कई राज्यों में मानसून आगे बढ़ने के आसार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पूर्वोत्तर में भारी बारिश, उत्तर-पश्चिम में आंधी-ओले का अलर्ट; कई राज्यों में मानसून आगे बढ़ने के",
+          "summary": "पूर्वोत्तर में भारी बारिश हो रही है, उत्तर-पश्चिम में आंधी-ओले का अलर्ट जारी किया गया है। मौसम: पूर्वोत्तर में भारी बारिश, उत्तर-पश्चिम में आंधी-ओले का अलर्ट; कई राज्यों में मानसून आगे बढ़ने के आसार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सीएम योगी आज करेंगे रामलला के दर्शन, चंपत राय से रहेगी दूरी; एक प्रशासनिक निर्देश की सब जगह-जगह",
+      "url": "https://www.amarujala.com/uttar-pradesh/ayodhya/ayodhya-cm-yogi-to-visit-ram-lalla-today-but-will-keep-his-distance-from-champat-rai-2026-06-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-19T00:45:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/1_2375f1aacd83d9f4728d306a75719855.jpeg?w=750&dpr=1.0",
+      "summary": "सीएम योगी आज अयोध्या में रामलला के दर्शन करेंगे, चंपत राय से दूरी बनाए रखेंगे। राम मंदिर में चंदा चोरी के आरोपों के बीच मुख्यमंत्री योगी आदित्यनाथ आज अयोध्या पहुंचकर रामलला के दर्शन करेंगे। सीएम योगी आज करेंगे रामलला के दर्शन, चंपत राय से रहेगी दूरी; एक प्रशासनिक निर्देश की सब जगह-जगह।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीएम योगी आज करेंगे रामलला के दर्शन, चंपत राय से रहेगी दूरी; एक प्रशासनिक निर्देश की सब जगह-जगह",
+          "summary": "सीएम योगी आज अयोध्या में रामलला के दर्शन करेंगे, चंपत राय से दूरी बनाए रखेंगे। राम मंदिर में चंदा चोरी के आरोपों के बीच मुख्यमंत्री योगी आदित्यनाथ आज अयोध्या पहुंचकर रामलला के दर्शन करेंगे। सीएम योगी आज करेंगे रामलला के दर्शन, चंपत राय से रहेगी दूरी; एक प्रशासनिक निर्देश की सब जगह-जगह।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "न्यूयॉर्क के टाइम्स स्क्वायर में दिनदहाड़े बवाल, पहले चाकू चला, फिर चली गोली, 4 दिन में दूसरी बार",
+      "url": "https://hindi.news18.com/world/america-times-square-fight-shooting-new-york-stabbing-teen-detained-10583438.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-19T00:43:25+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2020/12/breaking-alert.jpeg",
+      "summary": "न्यूयॉर्क के टाइम्स स्क्वायर में दिनदहाड़े बवाल हुआ, चाकू चला और गोली भी चली। न्यूयॉर्क के टाइम्स स्क्वायर में दिनदहाड़े बवाल, पहले चाकू चला, फिर चली गोली, 4 दिन में दूसरी बार।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "न्यूयॉर्क के टाइम्स स्क्वायर में दिनदहाड़े बवाल, पहले चाकू चला, फिर चली गोली, 4 दिन में दूसरी बार",
+          "summary": "न्यूयॉर्क के टाइम्स स्क्वायर में दिनदहाड़े बवाल हुआ, चाकू चला और गोली भी चली। न्यूयॉर्क के टाइम्स स्क्वायर में दिनदहाड़े बवाल, पहले चाकू चला, फिर चली गोली, 4 दिन में दूसरी बार।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी वितरित करेंगे ₹2400 करोड़ की प्रोत्साहन राशि, राहुल के जन्मदिन पर कांग्रेस का रोजगार मेला",
+      "url": "https://www.amarujala.com/india-news/19-june-2026-major-events-2026-06-18",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-19T00:32:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/18/aaja-ka-khabra_1fb9bcdd7407193332f651b1ed4c66b8.gif?w=750&dpr=1.0",
+      "summary": "पीएम मोदी ₹2400 करोड़ की प्रोत्साहन राशि वितरित करेंगे, कांग्रेस रोजगार मेला आयोजित करेगी। आज के दिन: पीएम मोदी वितरित करेंगे ₹2400 करोड़ की प्रोत्साहन राशि, राहुल के जन्मदिन पर कांग्रेस का रोजगार मेला।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी वितरित करेंगे ₹2400 करोड़ की प्रोत्साहन राशि, राहुल के जन्मदिन पर कांग्रेस का रोजगार मेला",
+          "summary": "पीएम मोदी ₹2400 करोड़ की प्रोत्साहन राशि वितरित करेंगे, कांग्रेस रोजगार मेला आयोजित करेगी। आज के दिन: पीएम मोदी वितरित करेंगे ₹2400 करोड़ की प्रोत्साहन राशि, राहुल के जन्मदिन पर कांग्रेस का रोजगार मेला।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "घटने लगे श्रद्धालु, चढ़ावा भी कम; दानराशि में गबन के आरोपों से चलते श्रद्धालुओं में उठने लगे सवाल",
+      "url": "https://www.amarujala.com/lucknow/ayodhya-number-of-pilgrims-declining-offerings-also-down-2026-06-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-19T00:28:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/1_b0f246470d9015e0abcfabe02bd1cffd.jpeg?w=750&dpr=1.0",
+      "summary": "मंदिर में श्रद्धालुओं की संख्या और चढ़ावा कम हो गया है, दानराशि में गबन के आरोप लगे हैं। दानराशि में गड़बड़ी की जांच के बीच अब मंदिर में आने वाले श्रद्धालुओं की संख्या और चढ़ावे में भी कमी दर्ज की जा रही है। घटने लगे श्रद्धालु, चढ़ावा भी कम; दानराशि में गबन के आरोपों से चलते श्रद्धालुओं में उठने लगे सवाल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "घटने लगे श्रद्धालु, चढ़ावा भी कम; दानराशि में गबन के आरोपों से चलते श्रद्धालुओं में उठने लगे सवाल",
+          "summary": "मंदिर में श्रद्धालुओं की संख्या और चढ़ावा कम हो गया है, दानराशि में गबन के आरोप लगे हैं। दानराशि में गड़बड़ी की जांच के बीच अब मंदिर में आने वाले श्रद्धालुओं की संख्या और चढ़ावे में भी कमी दर्ज की जा रही है। घटने लगे श्रद्धालु, चढ़ावा भी कम; दानराशि में गबन के आरोपों से चलते श्रद्धालुओं में उठने लगे सवाल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'रोटी मांगने वालों को मिल रही गोलियां'...PoK पर भारत ने पाकिस्तान को घेरा, UNHRC में खोल दी मुनीर",
+      "url": "https://hindi.news18.com/news/nation/india-says-demands-of-bread-met-with-bullet-in-pok-pakistan-occupied-kashmirm-at-unhrc-10583373.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-19T00:28:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Shehbaz-Sharif-3-2026-06-6f5c1e432dcc51ec9eb413eced184305-1200x800.jpg",
+      "summary": "भारत ने UNHRC में पाकिस्तान को घेरा है, PoJK के हालात और रावलाकोट में प्रदर्शनकारियों की मौत का मुद्दा उठाया है. भारत ने UNHRC में PoJK के हालात और रावलाकोट में प्रदर्शनकारियों की मौत का मुद्दा उठाया है. भारतीय राजनयिक अनुपमा सिंह ने पाकिस्तान पर रोटी, बिजली और अधिकार मांगने वालों के दमन का आरोप लगाया और मानवाधिकार उल्लंघनों पर जवाब मांगा.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'रोटी मांगने वालों को मिल रही गोलियां'...PoK पर भारत ने पाकिस्तान को घेरा, UNHRC में खोल दी मुनीर",
+          "summary": "भारत ने UNHRC में पाकिस्तान को घेरा है, PoJK के हालात और रावलाकोट में प्रदर्शनकारियों की मौत का मुद्दा उठाया है. भारत ने UNHRC में PoJK के हालात और रावलाकोट में प्रदर्शनकारियों की मौत का मुद्दा उठाया है. भारतीय राजनयिक अनुपमा सिंह ने पाकिस्तान पर रोटी, बिजली और अधिकार मांगने वालों के दमन का आरोप लगाया और मानवाधिकार उल्लंघनों पर जवाब मांगा.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दुश्मन के ठिकाने ढूंढ़कर तबाह करेंगे कामिकेज ड्रोन; भारतीय कंपनी और यूरोपीय रक्षा दिग्गज के बीच करार",
+      "url": "https://www.amarujala.com/india-news/kamikaze-drones-to-locate-and-destroy-enemy-targets-agreement-between-indian-and-european-company-2026-06-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-19T00:24:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/kamikaze-drones-to-locate-and-destroy-enemy-targets-agreement-between-indian-and-european-company_d2313b56639327a25cd2e249ca47d3f1.jpeg?w=750&dpr=1.0",
+      "summary": "भारतीय कंपनी और यूरोपीय रक्षा दिग्गज के बीच कामिकेज ड्रोन बनाने का करार हुआ है. दुश्मन के ठिकाने ढूंढ़कर तबाह करेंगे कामिकेज ड्रोन; भारतीय कंपनी और यूरोपीय रक्षा दिग्गज के बीच करार।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुश्मन के ठिकाने ढूंढ़कर तबाह करेंगे कामिकेज ड्रोन; भारतीय कंपनी और यूरोपीय रक्षा दिग्गज के बीच करार",
+          "summary": "भारतीय कंपनी और यूरोपीय रक्षा दिग्गज के बीच कामिकेज ड्रोन बनाने का करार हुआ है. दुश्मन के ठिकाने ढूंढ़कर तबाह करेंगे कामिकेज ड्रोन; भारतीय कंपनी और यूरोपीय रक्षा दिग्गज के बीच करार।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सोने के आयात में 70 फीसदी की भारी गिरावट, पीएम मोदी की अपील और 15% सीमा शुल्क वृद्धि का असर",
+      "url": "https://www.amarujala.com/business/business-diary/gold-imports-drop-after-duty-hike-net-direct-tax-collection-rises-15-percent-2026-06-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-19T00:20:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/07/gold-slips-below-rs-89000-mark-on-muted-demand-silver-climbs-rs-500_e733826601c914ac9ef434c65c107f9e.jpeg?w=750&dpr=1.0",
+      "summary": "सोने के आयात में 70 फीसदी की गिरावट आई है, पीएम मोदी की अपील और 15% सीमा शुल्क वृद्धि का असर है. Gold Import: सोने के आयात में 70 फीसदी की भारी गिरावट, पीएम मोदी की अपील और 15% सीमा शुल्क वृद्धि का असर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सोने के आयात में 70 फीसदी की भारी गिरावट, पीएम मोदी की अपील और 15% सीमा शुल्क वृद्धि का असर",
+          "summary": "सोने के आयात में 70 फीसदी की गिरावट आई है, पीएम मोदी की अपील और 15% सीमा शुल्क वृद्धि का असर है. Gold Import: सोने के आयात में 70 फीसदी की भारी गिरावट, पीएम मोदी की अपील और 15% सीमा शुल्क वृद्धि का असर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जून का महीना उद्धव के लिए फिर बना संकट: सांसदों के बाद विधायकों पर निगाहें, ऑपरेशन टाइगर-2 शुरू",
+      "url": "https://www.amarujala.com/india-news/month-of-june-spells-trouble-for-uddhav-again-focus-shifts-from-mps-to-mlas-threat-of-operation-tiger-2-2026-06-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-19T00:11:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/month-of-june-spells-trouble-for-uddhav-again-focus-shifts-from-mps-to-mlas-threat-of-operation-t_b7ab6f7b4f531df1bf0c671575933af5.jpeg?w=750&dpr=1.0",
+      "summary": "उद्धव के लिए जून का महीना फिर संकट बना है, सांसदों के बाद विधायकों पर निगाहें हैं, ऑपरेशन टाइगर-2 शुरू होने का खतरा है. जून का महीना उद्धव के लिए फिर बना संकट: सांसदों के बाद विधायकों पर निगाहें, ऑपरेशन टाइगर-2 शुरू।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जून का महीना उद्धव के लिए फिर बना संकट: सांसदों के बाद विधायकों पर निगाहें, ऑपरेशन टाइगर-2 शुरू",
+          "summary": "उद्धव के लिए जून का महीना फिर संकट बना है, सांसदों के बाद विधायकों पर निगाहें हैं, ऑपरेशन टाइगर-2 शुरू होने का खतरा है. जून का महीना उद्धव के लिए फिर बना संकट: सांसदों के बाद विधायकों पर निगाहें, ऑपरेशन टाइगर-2 शुरू।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "Weather Forecast 19 June 2026: देखिए क्या है आपके यहां मौसम का हाल",
+      "url": "https://www.amarujala.com/video/india-news/weather-forecast-19-june-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-06-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-19T00:10:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/weather-forecast-19-june-2026-thakhae-kaya-ha-aapaka-yaha-masama-ka-hal-weather-report-today_69de61a9d891de5abee41af5faeb0bfd.jpeg?w=750&dpr=1.0",
+      "summary": "19 जून 2026 का मौसम पूर्वानुमान जारी किया गया है, देश के विभिन्न हिस्सों में मौसम की स्थिति की जानकारी दी गई है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Weather Forecast 19 June 2026: देखिए क्या है आपके यहां मौसम का हाल",
+          "summary": "19 जून 2026 का मौसम पूर्वानुमान जारी किया गया है, देश के विभिन्न हिस्सों में मौसम की स्थिति की जानकारी दी गई है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "एनएसई लाएगा देश का सबसे बड़ा आईपीओ, एलआईसी नहीं बेचेगा अपनी कोई हिस्सेदारी",
+      "url": "https://www.amarujala.com/business/business-diary/nse-mega-ipo-after-nine-years-lic-to-retain-entire-stake-2026-06-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-19T00:03:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/12/19/nse_9aaee4dd643bfd5bedd8c76c6fa23ac4.jpeg?w=750&dpr=1.0",
+      "summary": "एनएसई देश का सबसे बड़ा आईपीओ लाएगा, एलआईसी अपनी हिस्सेदारी नहीं बेचेगी। नौ साल का इंतजार खत्म: एनएसई लाएगा देश का सबसे बड़ा आईपीओ, एलआईसी नहीं बेचेगा अपनी कोई हिस्सेदारी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एनएसई लाएगा देश का सबसे बड़ा आईपीओ, एलआईसी नहीं बेचेगा अपनी कोई हिस्सेदारी",
+          "summary": "एनएसई देश का सबसे बड़ा आईपीओ लाएगा, एलआईसी अपनी हिस्सेदारी नहीं बेचेगी। नौ साल का इंतजार खत्म: एनएसई लाएगा देश का सबसे बड़ा आईपीओ, एलआईसी नहीं बेचेगा अपनी कोई हिस्सेदारी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कुंभ राशि वालों का दिन मस्ती भरा रहेगा, वाहन चलाते समय रहें सावधान",
+      "url": "https://www.amarujala.com/astrology/predictions/aaj-ka-rashifal-aquarius-today-horoscope-19-june-2026-kumbh-rashi-in-hindi-2026-06-18",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-18T23:41:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/12/aaja-ka-rashafal_9023f0e6094e5f7539014b256762d8d4.jpeg?w=750&dpr=1.0",
+      "summary": "कुंभ राशि वालों का दिन मस्ती भरा रहेगा, वाहन चलाते समय सावधान रहना होगा। आज का दिन आपके लिए हल्के-फुल्के और आनंददायक पलों से भरा रहेगा। आप दोस्तों और परिवार के साथ अच्छा समय बिताएंगे, जिससे मन प्रसन्न रहेगा। कुंभ राशि वालों का दिन मस्ती भरा रहेगा, वाहन चलाते समय रहें सावधान।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कुंभ राशि वालों का दिन मस्ती भरा रहेगा, वाहन चलाते समय रहें सावधान",
+          "summary": "कुंभ राशि वालों का दिन मस्ती भरा रहेगा, वाहन चलाते समय सावधान रहना होगा। आज का दिन आपके लिए हल्के-फुल्के और आनंददायक पलों से भरा रहेगा। आप दोस्तों और परिवार के साथ अच्छा समय बिताएंगे, जिससे मन प्रसन्न रहेगा। कुंभ राशि वालों का दिन मस्ती भरा रहेगा, वाहन चलाते समय रहें सावधान।",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -292,24 +628,6 @@
           "title": "तख्तापलट करने चले थे... उसी ईरान को मिडिल ईस्ट का बॉस बना बैठे ट्रंप, US-IRAN डील की इनसाइड स्‍टोरी",
           "summary": "अमेरिका और ईरान के बीच 1979 की क्रांति के बाद पहला बड़ा समझौता हुआ है। इसे मध्य पूर्व में तेहरान के विरोधियों के लिए एक अभिशाप माना जा रहा है। यह समझौता ईरान को अधिक सुरक्षित और प्रभावी बना सकता है। अमेरिका-ईरान समझौते को एक्‍सपर्ट 1979 की इस्लामी क्रांति के बाद पहली बार किसी अमेरिकी और ईरानी राष्ट्रपति के बीच सबसे बड़ा एग्रीमेंट बता रहे हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत के पहले टेस्ट-ट्यूब बेबी के जनक जीवनकाल में सम्मान न मिला, मरणोपरांत मिली पहचान",
-      "url": "https://www.amarujala.com/india-news/posthumous-honour-to-dr-subhash-mukhopadhyay-father-of-indias-first-test-tube-baby-2026-06-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-18T23:12:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/da-sabhashha-makhapathhayaya_d780c013205f11b3879ce25cd862c0c0.jpeg?w=750&dpr=1.0",
-      "summary": "डॉ. सुभाष मुखोपाध्याय, भारत के पहले टेस्ट-ट्यूब बेबी के जनक, को अपने जीवनकाल में वह सम्मान नहीं मिला जिसके वे हकदार थे। उन्हें यह पहचान मरणोपरांत मिली है। सुभाष मुखोपाध्याय: भारत के पहले टेस्ट-ट्यूब बेबी के जनक जीवनकाल में सम्मान न मिला, मरणोपरांत मिली पहचान।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत के पहले टेस्ट-ट्यूब बेबी के जनक जीवनकाल में सम्मान न मिला, मरणोपरांत मिली पहचान",
-          "summary": "डॉ. सुभाष मुखोपाध्याय, भारत के पहले टेस्ट-ट्यूब बेबी के जनक, को अपने जीवनकाल में वह सम्मान नहीं मिला जिसके वे हकदार थे। उन्हें यह पहचान मरणोपरांत मिली है। सुभाष मुखोपाध्याय: भारत के पहले टेस्ट-ट्यूब बेबी के जनक जीवनकाल में सम्मान न मिला, मरणोपरांत मिली पहचान।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -386,24 +704,6 @@
       }
     },
     {
-      "title": "भारतीय महिला टीम को लगा बड़ा झटका, श्रेयंका पाटिल चोट की वजह हुईं बाहर; किसे मिला मौका?",
-      "url": "https://www.amarujala.com/cricket/cricket-news/spinner-shreyanka-patil-ruled-out-of-womens-t20-world-cup-2026-bcci-names-prema-rawat-as-replacement-2026-06-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-18T21:54:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/sharayaka-patal_4aa311330893354476f1a70937d530ae.jpeg?w=750&dpr=1.0",
-      "summary": "भारतीय महिला टीम की ऑफ स्पिनर श्रेयंका पाटिल चोट के कारण महिला टी20 विश्व कप 2026 भारतीय महिला टीम की ऑफ स्पिनर श्रेयंका पाटिल चोट की वजह से महिला टी20 विश्व कप 2026 से बाहर हो गई हैं। उनकी जगह युवा लेग स्पिनर प्रेमा रावत को भारतीय टीम में शामिल किया गया है। भारतीय महिला टीम को लगा बड़ा झटका, श्रेयंका पाटिल चोट की वजह हुईं बाहर; किसे मिला मौका?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतीय महिला टीम को लगा बड़ा झटका, श्रेयंका पाटिल चोट की वजह हुईं बाहर; किसे मिला मौका?",
-          "summary": "भारतीय महिला टीम की ऑफ स्पिनर श्रेयंका पाटिल चोट के कारण महिला टी20 विश्व कप 2026 भारतीय महिला टीम की ऑफ स्पिनर श्रेयंका पाटिल चोट की वजह से महिला टी20 विश्व कप 2026 से बाहर हो गई हैं। उनकी जगह युवा लेग स्पिनर प्रेमा रावत को भारतीय टीम में शामिल किया गया है। भारतीय महिला टीम को लगा बड़ा झटका, श्रेयंका पाटिल चोट की वजह हुईं बाहर; किसे मिला मौका?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "अनय और महावीर प्रसाद ‘मधुप’ की कविता- पतन के गर्त में उत्थान क्यों है",
       "url": "https://www.amarujala.com/kavya/shabd-sangrah/aaj-ka-shabd-anay-mahavir-prasad-madhup-ki-kavita-patan-ke-gart-men-utthan-kyon-hai-2026-06-18",
       "source": "Amar Ujala Breaking",
@@ -417,114 +717,6 @@
         "hi": {
           "title": "अनय और महावीर प्रसाद ‘मधुप’ की कविता- पतन के गर्त में उत्थान क्यों है",
           "summary": "अनय और महावीर प्रसाद ‘मधुप’ की कविताओं में पतन के बीच उत्थान की खोज की गई है। उनकी रचनाएँ मानवीय संघर्ष और आशा की पड़ताल करती हैं। कविताओं में निराशा के क्षणों में भी सकारात्मकता और आगे बढ़ने की प्रेरणा मिलती है। यह कविता संग्रह जीवन की चुनौतियों का सामना करने और उनसे उबरने की मानवीय क्षमता को दर्शाता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ओडिशा में 128 मेडिकल अफसरों के खिलाफ होगी कार्रवाई, राष्ट्रपति के जन्मदिन पर पहाड़पुर पहुंचेगे पीएम",
-      "url": "https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-politics-crime-national-news-in-hindi-2026-06-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-18T21:47:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/news-updates_ca1de28b7fdaaf42869b1b4c85518d48.jpeg?w=750&dpr=1.0",
-      "summary": "ओडिशा में 128 मेडिकल अफसरों के खिलाफ कार्रवाई होगी। Updates: ओडिशा में 128 मेडिकल अफसरों के खिलाफ होगी कार्रवाई, राष्ट्रपति के जन्मदिन पर पहाड़पुर पहुंचेगे पीएम।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ओडिशा में 128 मेडिकल अफसरों के खिलाफ होगी कार्रवाई, राष्ट्रपति के जन्मदिन पर पहाड़पुर पहुंचेगे पीएम",
-          "summary": "ओडिशा में 128 मेडिकल अफसरों के खिलाफ कार्रवाई होगी। Updates: ओडिशा में 128 मेडिकल अफसरों के खिलाफ होगी कार्रवाई, राष्ट्रपति के जन्मदिन पर पहाड़पुर पहुंचेगे पीएम।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "Emmanuel Macron Hindi Message To PM Modi: मैक्रों ने हिंदी बोलकर पीएम मोदी को दी विदाई, देखें वीडियो",
-      "url": "https://www.amarujala.com/video/india-news/emmanuel-macron-s-hindi-message-to-pm-modi-macron-bids-farewell-to-pm-modi-by-speaking-in-hindi-watch-the-vi-2026-06-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-18T21:43:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/emmanuel-macron-hindi-message-to-pm-modi-makara-na-hatha-blkara-paema-matha-ka-tha-vathaii-thakha-vadaya_3cbab1ba8f6e21314f1c5264037eae32.jpeg?w=750&dpr=1.0",
-      "summary": "फ्रांस के राष्ट्रपति Emmanuel Macron ने पीएम मोदी को हिंदी में विदाई दी। प्रधानमंत्री नरेंद्र मोदी की फ्रांस यात्रा का समापन सिर्फ कूटनीतिक बैठकों और समझौतों तक सीमित नहीं रहा, बल्कि एक भावनात्मक संदेश ने इस दौरे को खास बना दिया।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Emmanuel Macron Hindi Message To PM Modi: मैक्रों ने हिंदी बोलकर पीएम मोदी को दी विदाई, देखें वीडियो",
-          "summary": "फ्रांस के राष्ट्रपति Emmanuel Macron ने पीएम मोदी को हिंदी में विदाई दी। प्रधानमंत्री नरेंद्र मोदी की फ्रांस यात्रा का समापन सिर्फ कूटनीतिक बैठकों और समझौतों तक सीमित नहीं रहा, बल्कि एक भावनात्मक संदेश ने इस दौरे को खास बना दिया।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "वेस्टइंडीज की जीत का सिलसिला जारी, स्कॉटलैंड को सात रनों से हराया; ग्रुप-2 की तालिका का हाल",
-      "url": "https://www.amarujala.com/cricket/cricket-news/sco-women-vs-wi-women-12th-match-group-2-at-leeds-womens-t20-world-cup-2026-points-table-and-scorecard-2026-06-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-18T21:38:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/vasataidaja-na-sakatalda-ka-haraya_17a1aa764f411c3233db0169b7944aef.jpeg?w=750&dpr=1.0",
-      "summary": "वेस्टइंडीज ने स्कॉटलैंड को सात रनों से हराया। वेस्टइंडीज महिला टीम ने महिला टी20 विश्व कप 2026 के ग्रुप-दो के मुकाबले में स्कॉटलैंड को सात रन से हराकर लगातार दूसरी जीत दर्ज की। वेस्टइंडीज की जीत का सिलसिला जारी, स्कॉटलैंड को सात रनों से हराया; ग्रुप-2 की तालिका का हाल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वेस्टइंडीज की जीत का सिलसिला जारी, स्कॉटलैंड को सात रनों से हराया; ग्रुप-2 की तालिका का हाल",
-          "summary": "वेस्टइंडीज ने स्कॉटलैंड को सात रनों से हराया। वेस्टइंडीज महिला टीम ने महिला टी20 विश्व कप 2026 के ग्रुप-दो के मुकाबले में स्कॉटलैंड को सात रन से हराकर लगातार दूसरी जीत दर्ज की। वेस्टइंडीज की जीत का सिलसिला जारी, स्कॉटलैंड को सात रनों से हराया; ग्रुप-2 की तालिका का हाल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "स्विस टीम ने दूसरे हाफ में दिखाया दम, मन्जांबी ने दागे दो गोल; झाका ने पेनाल्टी से जीत पर लगाई मुहर",
-      "url": "https://www.amarujala.com/sports/football/fifa-world-cup-2026-switzerland-vs-bosnia-and-herzegovina-highlights-today-football-match-result-key-moments-2026-06-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-18T21:23:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/savatajaralda-na-bsanaya-ka-haraya_4c9fb5370b928beabac7f606f8f76fe7.jpeg?w=750&dpr=1.0",
-      "summary": "स्विट्जरलैंड ने बोस्निया-हर्जेगोविना को 4-1 से हराया। स्विस टीम ने दूसरे हाफ में दिखाया दम, मन्जांबी ने दागे दो गोल; झाका ने पेनाल्टी से जीत पर लगाई मुहर।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्विस टीम ने दूसरे हाफ में दिखाया दम, मन्जांबी ने दागे दो गोल; झाका ने पेनाल्टी से जीत पर लगाई मुहर",
-          "summary": "स्विट्जरलैंड ने बोस्निया-हर्जेगोविना को 4-1 से हराया। स्विस टीम ने दूसरे हाफ में दिखाया दम, मन्जांबी ने दागे दो गोल; झाका ने पेनाल्टी से जीत पर लगाई मुहर।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "स्विट्जरलैंड ने बोस्निया को 4-1 से हराया, मंजाम्बी ने दागे दो गोल",
-      "url": "https://www.amarujala.com/live/sports/football/czechia-vs-south-africa-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-18",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-18T21:11:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/12/fafa-vashava-kapa-2026_3cd85909c928e7db58b5246fca35970f.jpeg?w=750&dpr=1.0",
-      "summary": "स्विट्जरलैंड ने बोस्निया को 4-1 से हराया, मंजाम्बी ने दो गोल दागे। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। स्विट्जरलैंड ने बोस्निया को 4-1 से हराया, मंजाम्बी ने दागे दो गोल।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्विट्जरलैंड ने बोस्निया को 4-1 से हराया, मंजाम्बी ने दागे दो गोल",
-          "summary": "स्विट्जरलैंड ने बोस्निया को 4-1 से हराया, मंजाम्बी ने दो गोल दागे। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। स्विट्जरलैंड ने बोस्निया को 4-1 से हराया, मंजाम्बी ने दागे दो गोल।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "OP Rajbhar on Samajwadi Party Split: टूटने वाले हैं सपा के 25 से 27 सांसद? अखिलेश ने दिया जवाब!",
-      "url": "https://www.amarujala.com/video/india-news/op-rajbhar-on-samajwadi-party-split-are-25-to-27-sp-mps-on-the-verge-of-breaking-away-akhilesh-responds-2026-06-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-18T21:05:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/samajwadi-party-split-tatana-val-ha-sapa-ka-25-sa-27-sasatha-akhilesh-na-thaya-javab-up-politics_340ad47e11fe79e647fdeca80655e17d.jpeg?w=750&dpr=1.0",
-      "summary": "ओपी राजभर ने कहा समाजवादी पार्टी के 25 से 27 सांसद टूटने वाले हैं। उत्तर प्रदेश की राजनीति में इन दिनों एक सवाल सबसे ज्यादा चर्चा में है क्या समाजवादी पार्टी में बड़ी टूट होने वाली है? बीजेपी और उसके सहयोगी दल लगातार दावा कर रहे हैं कि सपा के कई सांसद और नेता पार्टी छोड़ने की तैयारी में हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "OP Rajbhar on Samajwadi Party Split: टूटने वाले हैं सपा के 25 से 27 सांसद? अखिलेश ने दिया जवाब!",
-          "summary": "ओपी राजभर ने कहा समाजवादी पार्टी के 25 से 27 सांसद टूटने वाले हैं। उत्तर प्रदेश की राजनीति में इन दिनों एक सवाल सबसे ज्यादा चर्चा में है क्या समाजवादी पार्टी में बड़ी टूट होने वाली है? बीजेपी और उसके सहयोगी दल लगातार दावा कर रहे हैं कि सपा के कई सांसद और नेता पार्टी छोड़ने की तैयारी में हैं।",
           "region": "दुनिया"
         }
       }
@@ -548,42 +740,6 @@
       }
     },
     {
-      "title": "अरूप बिस्वास की मांग का ऋतब्रत बनर्जी ने किया समर्थन, कहा- टीएमसी के बैंक खाते पर लगाई जाए रोक",
-      "url": "https://www.amarujala.com/india-news/tmc-bank-account-freeze-demand-opposition-leader-ritabrata-banerjee-support-2026-06-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-18T20:49:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/03/ritabrata-bnaraja_adcad204d33b3b708c7cd6bff5018282.jpeg?w=750&dpr=1.0",
-      "summary": "ऋतब्रत बनर्जी ने अरूप बिस्वास की मांग का समर्थन किया। पश्चिम बंगाल: अरूप बिस्वास की मांग का ऋतब्रत बनर्जी ने किया समर्थन, कहा- टीएमसी के बैंक खाते पर लगाई जाए रोक।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अरूप बिस्वास की मांग का ऋतब्रत बनर्जी ने किया समर्थन, कहा- टीएमसी के बैंक खाते पर लगाई जाए रोक",
-          "summary": "ऋतब्रत बनर्जी ने अरूप बिस्वास की मांग का समर्थन किया। पश्चिम बंगाल: अरूप बिस्वास की मांग का ऋतब्रत बनर्जी ने किया समर्थन, कहा- टीएमसी के बैंक खाते पर लगाई जाए रोक।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "42 साल का इतिहास, पहली बार 21 जून को सुबह 4 बजे से चलेगी कोलकाता मेट्रो; जानें शेड्यूल",
-      "url": "https://www.amarujala.com/india-news/international-yoga-day-first-time-in-its-42-year-history-kolkata-metro-will-operate-from-4am-on-june-21-2026-06-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-18T20:41:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/international-yoga-day-first-time-in-its-42-year-history-kolkata-metro-will-operate-from-4am-on-ju_5f82d64f1b1c5627d5becc9fb1dc77c1.jpeg?w=750&dpr=1.0",
-      "summary": "कोलकाता मेट्रो 21 जून को सुबह 4 बजे से चलेगी। 42 साल का इतिहास, पहली बार 21 जून को सुबह 4 बजे से चलेगी कोलकाता मेट्रो; जानें शेड्यूल।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "42 साल का इतिहास, पहली बार 21 जून को सुबह 4 बजे से चलेगी कोलकाता मेट्रो; जानें शेड्यूल",
-          "summary": "कोलकाता मेट्रो 21 जून को सुबह 4 बजे से चलेगी। 42 साल का इतिहास, पहली बार 21 जून को सुबह 4 बजे से चलेगी कोलकाता मेट्रो; जानें शेड्यूल।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
       "title": "दिल्ली हाईकोर्ट से आज आएगा अहम फैसला, अदालत ने सुनवाई के बाद सुरक्षित रखा है आदेश",
       "url": "https://www.amarujala.com/delhi/delhi-high-court-verdict-on-telegram-ban-plea-to-be-delivered-on-19-june-2026-06-18",
       "source": "Amar Ujala Breaking",
@@ -598,114 +754,6 @@
           "title": "दिल्ली हाईकोर्ट से आज आएगा अहम फैसला, अदालत ने सुनवाई के बाद सुरक्षित रखा है आदेश",
           "summary": "दिल्ली हाईकोर्ट आज टेलीग्राम की याचिका पर फैसला सुनाएगा। याचिका में केंद्र सरकार द्वारा 22 जून तक लगाए गए अस्थायी प्रतिबंध को चुनौती दी गई है। अदालत ने सुनवाई के बाद आदेश सुरक्षित रख लिया था। दिल्ली हाईकोर्ट शुक्रवार को टेलीग्राम की उस याचिका पर आदेश सुनाएगा, जिसमें केंद्र सरकार के 22 जून तक लगाए गए अस्थायी प्रतिबंध को चुनौती दी गई है।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ड्रैग-फ्लिकर जुगराज सिंह के नाम अंतरराष्ट्रीय मुकाबलों का शतक, हॉकी इंडिया ने दी बधाई",
-      "url": "https://www.amarujala.com/sports/hockey/star-drag-flicker-jugraj-singh-reaches-the-milestone-of-100-international-matches-2026-06-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-18T20:30:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/jagaraja-saha_2b535454aa5c3bd1b83d614f1617e8e0.jpeg?w=750&dpr=1.0",
-      "summary": "जुगराज सिंह ने जर्मनी के खिलाफ अपना 100वां अंतरराष्ट्रीय मुकाबला खेला। भारतीय पुरुष हॉकी टीम के डिफेंडर और ड्रैग-फ्लिकर जुगराज सिंह ने जर्मनी के खिलाफ एफआईएच प्रो लीग मैच में अपना 100वां अंतरराष्ट्रीय मुकाबला खेलकर बड़ी उपलब्धि हासिल की। ड्रैग-फ्लिकर जुगराज सिंह के नाम अंतरराष्ट्रीय मुकाबलों का शतक, हॉकी इंडिया ने दी बधाई।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ड्रैग-फ्लिकर जुगराज सिंह के नाम अंतरराष्ट्रीय मुकाबलों का शतक, हॉकी इंडिया ने दी बधाई",
-          "summary": "जुगराज सिंह ने जर्मनी के खिलाफ अपना 100वां अंतरराष्ट्रीय मुकाबला खेला। भारतीय पुरुष हॉकी टीम के डिफेंडर और ड्रैग-फ्लिकर जुगराज सिंह ने जर्मनी के खिलाफ एफआईएच प्रो लीग मैच में अपना 100वां अंतरराष्ट्रीय मुकाबला खेलकर बड़ी उपलब्धि हासिल की। ड्रैग-फ्लिकर जुगराज सिंह के नाम अंतरराष्ट्रीय मुकाबलों का शतक, हॉकी इंडिया ने दी बधाई।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ममता की सुरक्षा पर क्यों उठे सवाल? Mamata Security",
-      "url": "https://www.amarujala.com/video/india-news/tmc-split-why-were-questions-raised-about-mamata-s-security-mamata-security-mamata-cm-suvendu-2026-06-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-18T20:23:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/tmc-split-mamata-ka-sarakashha-para-kaya-utha-saval-mamata-security-mamata-cm-suvendu_38b644f92d5b5a91afe4b3e496d70136.jpeg?w=750&dpr=1.0",
-      "summary": "ममता की सुरक्षा पर सवाल उठे क्योंकि तृणमूल कांग्रेस के नेता मुख्यमंत्री शुभेंदु अधिकारी से मिले। विधानसभा के बजट सत्र के पहले ही दिन तृणमूल कांग्रेस के 'कालीघाट गुट' के छह प्रभावशाली नेता सीधे मुख्यमंत्री शुभेंदु अधिकारी के कक्ष में पहुंचे और बंद कमरे में लंबी बातचीत की। ममता की सुरक्षा पर क्यों उठे सवाल?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ममता की सुरक्षा पर क्यों उठे सवाल? Mamata Security",
-          "summary": "ममता की सुरक्षा पर सवाल उठे क्योंकि तृणमूल कांग्रेस के नेता मुख्यमंत्री शुभेंदु अधिकारी से मिले। विधानसभा के बजट सत्र के पहले ही दिन तृणमूल कांग्रेस के 'कालीघाट गुट' के छह प्रभावशाली नेता सीधे मुख्यमंत्री शुभेंदु अधिकारी के कक्ष में पहुंचे और बंद कमरे में लंबी बातचीत की। ममता की सुरक्षा पर क्यों उठे सवाल?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बेस्ट कर्मचारियों की हड़ताल पर लगी रोक: औद्योगिक अदालत ने दिया अंतरिम आदेश, सरकार ने लगाया मेस्मा",
-      "url": "https://www.amarujala.com/india-news/mumbai-best-unions-announce-strike-undertaking-gets-restraining-order-from-court-2026-06-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-18T20:17:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/bhanamabii-vathayata-aaparata-oura-paravahana-sakataka-tasavara_86c14a6c235a1f6b6e5dec4a41019be0.jpeg?w=750&dpr=1.0",
-      "summary": "औद्योगिक अदालत ने बेस्ट कर्मचारियों की हड़ताल पर रोक लगाई। बेस्ट कर्मचारियों की हड़ताल पर लगी रोक: औद्योगिक अदालत ने दिया अंतरिम आदेश, सरकार ने लगाया मेस्मा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बेस्ट कर्मचारियों की हड़ताल पर लगी रोक: औद्योगिक अदालत ने दिया अंतरिम आदेश, सरकार ने लगाया मेस्मा",
-          "summary": "औद्योगिक अदालत ने बेस्ट कर्मचारियों की हड़ताल पर रोक लगाई। बेस्ट कर्मचारियों की हड़ताल पर लगी रोक: औद्योगिक अदालत ने दिया अंतरिम आदेश, सरकार ने लगाया मेस्मा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "स्विस बैंकों में भारतीयों की जमा राशि 8% घटी, सीधे खातों में 50% से ज्यादा बढ़ोतरी",
-      "url": "https://www.patrika.com/world-news/deposits-held-by-indians-in-swiss-banks-fell-by-8-percent-direct-account-holdings-rose-by-over-50-percent-20679343",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-18T20:05:46+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Swiss-Bank.webp",
-      "summary": "स्विस बैंकों में भारतीयों की जमा राशि 8% घटकर 36,793 करोड़ रुपए हो गई। Swiss Bank India Data: स्विस नेशनल बैंक (एसएनबी) के नए आंकड़ों के अनुसार, 2025 में स्विस बैंकों में भारतीयों से जुड़ी कुल जमा राशि 8 प्रतिशत से अधिक घटकर 3.25 अरब स्विस फ्रैंक (करीब 36,793 करोड़ रुपए) रह गई। यह कमी मुख्य रूप से बैंकों और वित्तीय संस्थानों के जरिए रखी गई रकम में गिरावट के कारण आई है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्विस बैंकों में भारतीयों की जमा राशि 8% घटी, सीधे खातों में 50% से ज्यादा बढ़ोतरी",
-          "summary": "स्विस बैंकों में भारतीयों की जमा राशि 8% घटकर 36,793 करोड़ रुपए हो गई। Swiss Bank India Data: स्विस नेशनल बैंक (एसएनबी) के नए आंकड़ों के अनुसार, 2025 में स्विस बैंकों में भारतीयों से जुड़ी कुल जमा राशि 8 प्रतिशत से अधिक घटकर 3.25 अरब स्विस फ्रैंक (करीब 36,793 करोड़ रुपए) रह गई। यह कमी मुख्य रूप से बैंकों और वित्तीय संस्थानों के जरिए रखी गई रकम में गिरावट के कारण आई है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "क्या होगी अमेरिका-ईरान जंग की ‘लास्ट डेट’? समझौते पर साइन होने के बाद सामने आई बड़ी अपडेट",
-      "url": "https://hindi.news18.com/world/middle-east-us-iran-war-end-date-to-be-discussed-in-switzerland-trump-and-pezeshkian-officials-meet-in-geneva-10583239.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-18T19:15:34+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Iran-US-Geneva-talks-2026-06-aa86c8fe996c790541fcbd45eccc35f2-1200x800.jpg",
-      "summary": "अमेरिका और ईरान के अधिकारी शुक्रवार को स्विट्जरलैंड में एक उच्च-स्तरीय बैठक करेंगे। यह बैठक दोनों देशों के बीच हुए शांति समझौते के बाद हो रही है। US-Iran War End Date to be discussed in Switzerland Trump and Pezeshkian Officials Meet in Genevaअमेरिका और ईरान के बीच हुए ऐतिहासिक शांति समझौते (MoU) के बाद अब दोनों देशों के बड़े अधिकारी इस शुक्रवार को स्विट्जरलैंड के बुर्गेनस्टॉक पर्वतीय रिसॉर्ट में एक बेहद खुफिया और हाई-लेवल बैठक करने जा रहे हैं, जिसे इस भयानक जंग की 'लास्ट डेट' के तौर पर देखा जा रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या होगी अमेरिका-ईरान जंग की ‘लास्ट डेट’? समझौते पर साइन होने के बाद सामने आई बड़ी अपडेट",
-          "summary": "अमेरिका और ईरान के अधिकारी शुक्रवार को स्विट्जरलैंड में एक उच्च-स्तरीय बैठक करेंगे। यह बैठक दोनों देशों के बीच हुए शांति समझौते के बाद हो रही है। US-Iran War End Date to be discussed in Switzerland Trump and Pezeshkian Officials Meet in Genevaअमेरिका और ईरान के बीच हुए ऐतिहासिक शांति समझौते (MoU) के बाद अब दोनों देशों के बड़े अधिकारी इस शुक्रवार को स्विट्जरलैंड के बुर्गेनस्टॉक पर्वतीय रिसॉर्ट में एक बेहद खुफिया और हाई-लेवल बैठक करने जा रहे हैं, जिसे इस भयानक जंग की 'लास्ट डेट' के तौर पर देखा जा रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप की धमकी के आगे नहीं झुका ईरान, पेजेश्कियन ने दी अमेरिका के साथ साइन हुए MoU की इनसाइड डीटेल!",
-      "url": "https://hindi.news18.com/world/middle-east-iran-never-bow-before-threats-pezeshkian-reveals-us-iran-mou-inside-details-after-trump-claims-victory-at-g7-summit-10583209.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-18T18:24:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/US-Iran-MoU-Inside-Details-2026-06-90bac158ad4a6ccb9104ccee382341af-1200x800.jpg",
-      "summary": "फ्रांस में जी-7 शिखर सम्मेलन के दौरान ईरान के राष्ट्रपति मसूद पेजेश्कियन ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप फ्रांस में जी-7 शिखर सम्मेलन के दौरान अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दावों पर पलटवार करते हुए ईरान के राष्ट्रपति मसूद पेजेश्कियन ने ऐतिहासिक शांति समझौते की इनसाइड डिटेल शेयर की है. पेजेश्कियन ने ट्रंप की धमकियों को खारिज करते हुए साफ किया कि ये डील किसी मजबूरी में नहीं, बल्कि एक शक्तिशाली ईरान की संप्रभुता, कूटनीतिक सफलता और देश के लोगों के धैर्य का नतीजा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की धमकी के आगे नहीं झुका ईरान, पेजेश्कियन ने दी अमेरिका के साथ साइन हुए MoU की इनसाइड डीटेल!",
-          "summary": "फ्रांस में जी-7 शिखर सम्मेलन के दौरान ईरान के राष्ट्रपति मसूद पेजेश्कियन ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप फ्रांस में जी-7 शिखर सम्मेलन के दौरान अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दावों पर पलटवार करते हुए ईरान के राष्ट्रपति मसूद पेजेश्कियन ने ऐतिहासिक शांति समझौते की इनसाइड डिटेल शेयर की है. पेजेश्कियन ने ट्रंप की धमकियों को खारिज करते हुए साफ किया कि ये डील किसी मजबूरी में नहीं, बल्कि एक शक्तिशाली ईरान की संप्रभुता, कूटनीतिक सफलता और देश के लोगों के धैर्य का नतीजा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
