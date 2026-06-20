@@ -1,68 +1,20 @@
 {
-  "generated_at": "2026-06-20T18:36:36.221820+00:00",
-  "article_count": 50,
-  "total_unique_count": 273,
+  "generated_at": "2026-06-20T19:35:41.559390+00:00",
+  "article_count": 49,
+  "total_unique_count": 262,
   "digest": {
-    "en": "Myanmar's new administration dominates headlines. Armenia's election and Djibouti's prime real estate are also prominent. Iran is a key player in several stories.",
-    "hi": "यूरोप की सबसे खुर्राट लीडर मेलोनी हैं। ट्रंप के बयान से पाकिस्तान सुलग रहा है। लेबनान में सीजफायर के लिए इजरायल तैयार है।"
+    "en": "Europe is dominated by a heatwave, with France restricting alcohol consumption. The Middle East is marked by conflict, with Israeli and UN officials clashing over children in conflict. Pakistan's Minister Naqvi is in Iran for a high-level visit.",
+    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जिनमें राष्ट्रपति की बात बेतुकी बताई जा रही है। जरदारी को भारत की दो-टूक मिली है। यूरोप की सबसे खुर्राट लीडर मेलोनी ट्रंप पर बयान दे रही हैं।"
   },
   "articles": [
     {
-      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
-      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
-      "source": "International Crisis Group",
+      "title": "Europe swelters under heatwave, France restricts alcohol consumption",
+      "url": "https://www.channelnewsasia.com/world/europe-swelters-under-heatwave-france-restricts-alcohol-consumption-6197551",
+      "source": "Channel News Asia",
       "sources": [],
-      "published_at": "Wednesday, June 3, 2026 - 00:00",
-      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Myanmar's military leader Min Aung Hlaing has transitioned from commander-in-chief to president. This follows a coup five years ago that removed an elected civilian government. Foreign governments are advised to calibrate their interactions with Naypyitaw. This is to avoid granting undue legitimacy to the current administration. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
-      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Tuesday, June 2, 2026 - 16:33",
-      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Armenia will hold its general election on 7 June. Foreign policy issues dominate the campaign. Voters are focused on the country's relations with Russia and Turkey. They are also concerned about the ongoing conflict with Azerbaijan. The election results could significantly alter Armenia's geopolitical alignment. Armenians will head to the polls on 7 June for the country’s first general election since 2021.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Tiny Djibouti, and Its Prime Real Estate",
-      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 15:42",
-      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Djibouti occupies a strategic location on the Bab el-Mandeb strait. This position has made it a hub for foreign military bases. The country hosts facilities for the United States, China, France, Japan, and others. These bases reflect Djibouti's role in regional security and global trade routes. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
-      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 10:18",
-      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Pakistan is mediating proposals to end the U. S.-Iran war. The conflict began on 28 February with U. S. and Israeli bombings of Iran. Islamabad sees significant risks in this role. However, Pakistan believes the stakes are high enough to continue its mediation efforts. Soon after the U. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
-      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Friday, June 5, 2026 - 10:38",
-      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The European Union's upcoming seven-year budget may jeopardize funding for conflict prevention The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.",
+      "published_at": "2026-06-20T18:55:32+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--coS6g_0U--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-20T171708Z_1_LYNXMPEM5J0GH_RTROPTP_3_EUROPE-WEATHER-FRANCE-HEAT.JPG?itok=IuK2w35N",
+      "summary": "French Prime Minister Sebastien Lecornu banned alcohol consumption in 35 regions After a crisis meeting, Prime Minister Sebastien Lecornu pre-emptively banned alcohol consumption on Sunday (June 21) at the annual Fete de la Musique festivals and other public events to be held in those 35 regions on Sunday. Europe swelters under heatwave, France restricts alcohol consumption.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -308,11 +260,83 @@
       "translations": {}
     },
     {
+      "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
+      "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-17T22:30:46+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/5bb4dc955e7fd24ee4a2072b7f5ee960eda51ddb/0_267_4346_3477/master/4346.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7999fe2667344049a64bf7c5f9f616de",
+      "summary": "A review of countries with varying cannabis laws found commercialisation drives up usage. Countries that decriminalised possession or strictly regulated access did not see increased use. Commercial cannabis sales were linked to more users and higher rates of psychosis. The international team analysed data from several countries to reach this conclusion. Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially Decriminalising the possession of cannabis or strictly regulating access to the drug do not appear to drive up usage, but when the drug is sold commercially the number of users increases and more mental health problems are seen, a review has found. An international team analysed the dramatic shift i.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "From camel coats to guochao: Max Mara woos China’s luxury brand consumers",
+      "url": "https://www.theguardian.com/fashion/2026/jun/16/max-mara-woos-china-luxury-brand-consumers",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-16T17:15:13+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/c75afcaf4c595903195656c47c69afa3cc398d17/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=286feb9d8c38131240487ab91eb10334",
+      "summary": "Max Mara held its 75th anniversary catwalk show in Shanghai. The fashion house paid tribute to Chinese style with its designs. British designer Ian Griffiths chose Shanghai for the celebration due to the city's energetic vibe. Max Mara showcased its latest collection to attract China's luxury brand consumers. Fashion house pays tribute to Chinese style with its 75th anniversary catwalk show in Shanghai“New York may be the city that never sleeps, but Shanghai doesn’t even sit down.” For the British designer Ian Griffiths, who encountered this line in the New Yorker, it summed up why China’s biggest city was the right place to celebrate Max Mara’s 75th anniversary.“Max Mara is a product for metropolitan.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Fujitsu chair resigns after ‘woman-related inappropriate conduct’",
+      "url": "https://www.theguardian.com/business/2026/jun/16/fujitsu-chair-resigns-hidenori-furuta-technology-company",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-16T13:18:25+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/04e74637bec67a000ca4782ac832e6a3839156e6/545_0_2467_1974/master/2467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74eab27c86777750df17fb5342652d3c",
+      "summary": "Hidenori Furuta resigned as chair of Fujitsu after the company's board learned of his woman-related inappropriate conduct. Fujitsu is currently negotiating a settlement with the UK government over faulty software used by the Post Office. The company announced Furuta's resignation on Tuesday. His departure comes amid ongoing discussions with the UK government. Japanese technology company at centre of Post Office IT scandal is negotiating settlement with UK government over faulty softwareBusiness live – latest updatesThe chair of Fujitsu, the Japanese technology firm at the centre of the Post Office IT scandal, has resigned after its board became aware of his “woman-related inappropriate conduct”. The company said on Tuesday that Hidenori Furuta had stepp.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'राष्ट्रपति की बात बेतुकी, आंतरिक मुद्दे पर बोलने का हक नहीं'; जरदारी को भारत की दो-टूक",
+      "url": "https://www.amarujala.com/india-news/mea-hits-back-pakistan-president-comment-on-minority-rights-varanasi-mosque-demolition-says-deliberate-attack-2026-06-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-21T07:07:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/21/mea-spokesperson-randhir-jaiswal_36ca730b73eefb6bee471cafb80d3ce3.jpeg?w=750&dpr=1.0",
+      "summary": "भारत ने पाकिस्तान के राष्ट्रपति की टिप्पणी पर आपत्ति जताई, कहा आंतरिक मुद्दों पर बोलने का हक नहीं. 'राष्ट्रपति की बात बेतुकी, आंतरिक मुद्दे पर बोलने का हक नहीं'; जरदारी को भारत की दो-टूक।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'राष्ट्रपति की बात बेतुकी, आंतरिक मुद्दे पर बोलने का हक नहीं'; जरदारी को भारत की दो-टूक",
+          "summary": "भारत ने पाकिस्तान के राष्ट्रपति की टिप्पणी पर आपत्ति जताई, कहा आंतरिक मुद्दों पर बोलने का हक नहीं. 'राष्ट्रपति की बात बेतुकी, आंतरिक मुद्दे पर बोलने का हक नहीं'; जरदारी को भारत की दो-टूक।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "जिनेवा वार्ता में US-ईरान की तरफ से कौन?: वेंस के जाने की योजना टलने के संकेत, बातचीत को बताया",
+      "url": "https://www.amarujala.com/world/jd-vance-expected-to-join-us-iran-talks-in-switzerland-strait-of-hormuz-west-asia-tensions-2026-06-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-20T19:31:16+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/29/us-accomplished-most-of-its-targets-in-iran-to-continue-operations-briefly-us-vice-president-jd-v_9e35183b062f19e7c15b8c810da65da7.jpeg?w=750&dpr=1.0",
+      "summary": "जिनेवा में अमेरिका-ईरान वार्ता में जेडी वेंस के शामिल होने की संभावना है, बातचीत को नाजुक मामला बताया गया. जिनेवा वार्ता में US-ईरान की तरफ से कौन?: वेंस के जाने की योजना टलने के संकेत, बातचीत को बताया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जिनेवा वार्ता में US-ईरान की तरफ से कौन?: वेंस के जाने की योजना टलने के संकेत, बातचीत को बताया",
+          "summary": "जिनेवा में अमेरिका-ईरान वार्ता में जेडी वेंस के शामिल होने की संभावना है, बातचीत को नाजुक मामला बताया गया. जिनेवा वार्ता में US-ईरान की तरफ से कौन?: वेंस के जाने की योजना टलने के संकेत, बातचीत को बताया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "यूरोप की सबसे खुर्राट लीडर हैं मेलोनी, ट्रंप तो कुछ भी नहीं, बयान से सुलगा चुकीं पूरा पाकिस्‍तान",
       "url": "https://hindi.news18.com/world/europe-giorgia-meloni-top-5-furious-statement-once-italy-pm-furious-entire-pakistan-with-comment-on-islam-donald-trump-is-no-different-photogallery-10589344.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-20T18:35:25+00:00",
+      "published_at": "2026-06-20T19:07:23+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/c-390-milleangry-meloninnium-2026-06-c36aa873f56808a6edc9812ee1fb0dfe-1200x800.jpg",
       "summary": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की आलोचना का जवाब दिया है। मेलोनी अपने राष्ट्रवाद और फैसलों पर अडिग रहती हैं। वह किसी भी वैश्विक नेता के सामने झुकने को तैयार नहीं हैं। ट्रंप द्वारा मेलोनी को सीधे चुनौती देना उनके लिए नुकसानदेह हो सकता है। अमेरिकी राष्‍ट्रपति डोनाल्‍ड ट्रंप की बदजुबानी पर करारा जवाब देने के बाद इटली की प्रधानमंत्री जॉर्जिया मेलोनी की लोकप्रियता चरम पर है.",
       "region": "Europe & Russia",
@@ -321,78 +345,6 @@
         "hi": {
           "title": "यूरोप की सबसे खुर्राट लीडर हैं मेलोनी, ट्रंप तो कुछ भी नहीं, बयान से सुलगा चुकीं पूरा पाकिस्‍तान",
           "summary": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की आलोचना का जवाब दिया है। मेलोनी अपने राष्ट्रवाद और फैसलों पर अडिग रहती हैं। वह किसी भी वैश्विक नेता के सामने झुकने को तैयार नहीं हैं। ट्रंप द्वारा मेलोनी को सीधे चुनौती देना उनके लिए नुकसानदेह हो सकता है। अमेरिकी राष्‍ट्रपति डोनाल्‍ड ट्रंप की बदजुबानी पर करारा जवाब देने के बाद इटली की प्रधानमंत्री जॉर्जिया मेलोनी की लोकप्रियता चरम पर है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "लेबनान में सीजफायर के लिए तैयार इजरायल! पीएम नेतन्याहू ने हमले रोकने का दिया आदेश, लेकिन रखी यह",
-      "url": "https://www.patrika.com/world-news/israel-lebanon-ceasefire-netanyahu-orders-halt-to-southern-lebanon-attacks-20684053",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-20T18:15:20+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Benjamin-Netanyahu.png",
-      "summary": "प्रधानमंत्री बेंजामिन नेतन्याहू ने दक्षिणी लेबनान में इजरायली सेना को हमले रोकने का आदेश दिया है। यह निर्णय लेबनान के साथ चल रहे संघर्ष के बीच आया है। इजरायल ने यह भी स्पष्ट किया है कि वह कब्जे वाले इलाकों से अपनी सेना नहीं हटाएगा। Israel Lebanon Ceasefire: लेबनान में जारी संघर्ष के बीच इजरायल ने दक्षिणी लेबनान में हमले रोकने का फैसला किया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लेबनान में सीजफायर के लिए तैयार इजरायल! पीएम नेतन्याहू ने हमले रोकने का दिया आदेश, लेकिन रखी यह",
-          "summary": "प्रधानमंत्री बेंजामिन नेतन्याहू ने दक्षिणी लेबनान में इजरायली सेना को हमले रोकने का आदेश दिया है। यह निर्णय लेबनान के साथ चल रहे संघर्ष के बीच आया है। इजरायल ने यह भी स्पष्ट किया है कि वह कब्जे वाले इलाकों से अपनी सेना नहीं हटाएगा। Israel Lebanon Ceasefire: लेबनान में जारी संघर्ष के बीच इजरायल ने दक्षिणी लेबनान में हमले रोकने का फैसला किया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘मानवाधिकारों के मामले में पाकिस्तान का अपना रिकॉर्ड बहुत खराब रहा है’, पाकिस्तानी राष्ट्रपति के",
-      "url": "https://www.patrika.com/world-news/india-gives-a-sharp-retort-to-the-pakistani-president-asif-ali-zardari-controversial-statement-20684088",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-20T17:56:37+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Asif-Ali-Zardari.webp",
-      "summary": "भारत ने पाकिस्तान के राष्ट्रपति आसिफ अली जरदारी की टिप्पणियों पर कड़ी प्रतिक्रिया दी है। विदेश मंत्रालय ने कहा कि पाकिस्तान को भारत के आंतरिक मामलों पर टिप्पणी करने का कोई अधिकार नहीं है। प्रवक्ता रणधीर जायसवाल ने कहा कि पाकिस्तान का अपना मानवाधिकार रिकॉर्ड बहुत खराब रहा है। उन्होंने यह भी कहा कि पाकिस्तान को अपनी समस्याओं पर ध्यान केंद्रित करना चाहिए।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘मानवाधिकारों के मामले में पाकिस्तान का अपना रिकॉर्ड बहुत खराब रहा है’, पाकिस्तानी राष्ट्रपति के",
-          "summary": "भारत ने पाकिस्तान के राष्ट्रपति आसिफ अली जरदारी की टिप्पणियों पर कड़ी प्रतिक्रिया दी है। विदेश मंत्रालय ने कहा कि पाकिस्तान को भारत के आंतरिक मामलों पर टिप्पणी करने का कोई अधिकार नहीं है। प्रवक्ता रणधीर जायसवाल ने कहा कि पाकिस्तान का अपना मानवाधिकार रिकॉर्ड बहुत खराब रहा है। उन्होंने यह भी कहा कि पाकिस्तान को अपनी समस्याओं पर ध्यान केंद्रित करना चाहिए।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "वजन कम करवाने की कोशिश में हुई प्रेमिका की मौत, हत्या के आरोपी प्रेमी का अजीब दावा",
-      "url": "https://hindi.news18.com/world/rest-of-world-hongkong-boyfriend-makes-bizarre-claim-girlfriend-dies-while-trying-to-lose-weight-10589348.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T17:51:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Chinese-Man-Arrested-2026-06-c772e0100273bd47aee1712fbc88436f-1200x800.jpg",
-      "summary": "हांगकांग में एक व्यक्ति ने अपनी प्रेमिका को वजन कम कराने के लिए रात भर जगाए रखा. 27 अप्रैल 2022 की रात, जब उसने सोने की कोशिश की, तो आरोपी ने उसे छड़ी से पीटना शुरू कर दिया. इस पिटाई के कारण उसकी मौत हो गई. पुलिस ने आरोपी को हत्या के आरोप में गिरफ्तार कर लिया है. हॉन्गकॉन्ग में एक प्रेमी ने अपनी प्रेमिका का वजन कम करने का एक अजीब तरीका निकाला.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वजन कम करवाने की कोशिश में हुई प्रेमिका की मौत, हत्या के आरोपी प्रेमी का अजीब दावा",
-          "summary": "हांगकांग में एक व्यक्ति ने अपनी प्रेमिका को वजन कम कराने के लिए रात भर जगाए रखा. 27 अप्रैल 2022 की रात, जब उसने सोने की कोशिश की, तो आरोपी ने उसे छड़ी से पीटना शुरू कर दिया. इस पिटाई के कारण उसकी मौत हो गई. पुलिस ने आरोपी को हत्या के आरोप में गिरफ्तार कर लिया है. हॉन्गकॉन्ग में एक प्रेमी ने अपनी प्रेमिका का वजन कम करने का एक अजीब तरीका निकाला.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "इस नदी में तैरने को बेताब हुए लोग, 100 सालों से कोई नहीं छू पाया, आज एक साथ कूद गए 200 लोग",
-      "url": "https://hindi.news18.com/world/europe-berlin-spree-river-swimming-protest-activists-defy-100-year-old-ban-dive-into-spree-river-to-demand-urban-bathing-photogallery-10589283.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T17:39:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Berlin-Spree-River-Swimming-Protest-2026-06-1f35cbbafa9a699d2d8f81b497c9a632-1200x800.jpg",
-      "summary": "बर्लिन में 200 पर्यावरण कार्यकर्ताओं और नागरिकों ने स्प्री नदी में तैरने के लिए एक साथ कूद गए. यह नदी 100 सालों से तैरने के लिए बंद थी. प्रदर्शनकारियों का कहना है कि वे नदी को साफ और सुरक्षित साबित करना चाहते हैं और इसे आम जनता के लिए खोलना चाहते हैं. जर्मनी की राजधानी बर्लिन में करीब 100 साल पहले स्प्री नदी में तैरने पर बैन लगा दिया गया था.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस नदी में तैरने को बेताब हुए लोग, 100 सालों से कोई नहीं छू पाया, आज एक साथ कूद गए 200 लोग",
-          "summary": "बर्लिन में 200 पर्यावरण कार्यकर्ताओं और नागरिकों ने स्प्री नदी में तैरने के लिए एक साथ कूद गए. यह नदी 100 सालों से तैरने के लिए बंद थी. प्रदर्शनकारियों का कहना है कि वे नदी को साफ और सुरक्षित साबित करना चाहते हैं और इसे आम जनता के लिए खोलना चाहते हैं. जर्मनी की राजधानी बर्लिन में करीब 100 साल पहले स्प्री नदी में तैरने पर बैन लगा दिया गया था.",
           "region": "यूरोप और रूस"
         }
       }
@@ -470,24 +422,6 @@
       }
     },
     {
-      "title": "अंतरिक्ष से आग के गोले की तरह गिरने वाला है नासा का सबसे खास टेलीस्कोप! मौत के मुंह से निकालने",
-      "url": "https://hindi.news18.com/news/knowledge/nasa-swift-space-telescope-falling-rescue-mission-katalyst-link-spacecraft-10588958.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T15:07:27+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/swift_mission_NASA_2-2026-06-fa8a5e177207f303328956290c45f9a1-1200x800.jpg",
-      "summary": "नासा का स्विफ्ट स्पेस ऑब्जर्वेटरी धरती की ओर गिर रहा है। NASA Swift Rescue Mission: नासा का स्विफ्ट स्पेस ऑब्जर्वेटरी अंतरिक्ष से धरती की तरफ गिर रहा है. सूरज के स्पेस वेदर के कारण इसका ऑर्बिट तेजी से कम हो रहा है. इसे जलकर खाक होने से बचाने के लिए नासा ने एक खतरनाक रेस्क्यू मिशन प्लान किया है. इसके तहत कैटलिस्ट स्पेस कंपनी का 'लिंक' स्पेसक्राफ्ट लॉन्च किया जाएगा.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अंतरिक्ष से आग के गोले की तरह गिरने वाला है नासा का सबसे खास टेलीस्कोप! मौत के मुंह से निकालने",
-          "summary": "नासा का स्विफ्ट स्पेस ऑब्जर्वेटरी धरती की ओर गिर रहा है। NASA Swift Rescue Mission: नासा का स्विफ्ट स्पेस ऑब्जर्वेटरी अंतरिक्ष से धरती की तरफ गिर रहा है. सूरज के स्पेस वेदर के कारण इसका ऑर्बिट तेजी से कम हो रहा है. इसे जलकर खाक होने से बचाने के लिए नासा ने एक खतरनाक रेस्क्यू मिशन प्लान किया है. इसके तहत कैटलिस्ट स्पेस कंपनी का 'लिंक' स्पेसक्राफ्ट लॉन्च किया जाएगा.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "‘मेरी पॉपुलैरिटी पर मत जाओ, अपना देखो’, डोनाल्ड ट्रंप ने दोबारा उकसाया तो जॉर्जिया मेलोनी ने फिर",
       "url": "https://www.patrika.com/world-news/italy-pm-georgia-meloni-strong-reply-to-donald-trump-over-popularity-20683885",
       "source": "Patrika (World)",
@@ -520,24 +454,6 @@
           "title": "‘मेलोनी मेरे साथ फोटो खिंचवाने के लिए मिन्नतें कर रही थीं’, पीएम जॉर्जिया मेलोनी पर भड़के डोनाल्ड",
           "summary": "डोनाल्ड ट्रम्प ने फ्रांस में जी-7 शिखर सम्मेलन के दौरान इटली की प्रधानमंत्री जियोर्जिया मेलोनी पर हमला बोला। ट्रम्प ने कहा कि मेलोनी ने उनके साथ तस्वीर खिंचवाने के लिए बार-बार अनुरोध किया। उन्होंने यह भी दावा किया कि इटली में मेलोनी की लोकप्रियता घट रही है। ट्रम्प ने यह टिप्पणी ईरान के परमाणु हथियार हासिल करने के संदर्भ में की।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "स्पेन PM पेद्रो सांचेज की पत्नी पर चलेगा भ्रष्टाचार का केस, देश छोड़ने पर पाबंदी, पासपोर्ट जमा करने",
-      "url": "https://www.patrika.com/world-news/spain-pm-pedro-sanchez-wife-begona-gomez-corruption-trial-court-order-to-seize-passport-20683721",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-20T14:21:45+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/spainpmnews.webp",
-      "summary": "स्पेन के प्रधानमंत्री पेद्रो सांचेज की पत्नी बेगोना गोमेज को भ्रष्टाचार के आरोपों में अब अदालत में ट्रायल का स्पेन के प्रधानमंत्री पेद्रो सांचेज की पत्नी बेगोना गोमेज को भ्रष्टाचार के आरोपों में अब कोर्ट के ट्रायल का सामना करना पड़ेगा। न्यायाधीश जुआन कार्लोस पेनाडो ने शनिवार को यह फैसला सुनाया। अदालत ने गोमेज को देश छोड़कर जाने से भी रोक दिया है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्पेन PM पेद्रो सांचेज की पत्नी पर चलेगा भ्रष्टाचार का केस, देश छोड़ने पर पाबंदी, पासपोर्ट जमा करने",
-          "summary": "स्पेन के प्रधानमंत्री पेद्रो सांचेज की पत्नी बेगोना गोमेज को भ्रष्टाचार के आरोपों में अब अदालत में ट्रायल का स्पेन के प्रधानमंत्री पेद्रो सांचेज की पत्नी बेगोना गोमेज को भ्रष्टाचार के आरोपों में अब कोर्ट के ट्रायल का सामना करना पड़ेगा। न्यायाधीश जुआन कार्लोस पेनाडो ने शनिवार को यह फैसला सुनाया। अदालत ने गोमेज को देश छोड़कर जाने से भी रोक दिया है।",
-          "region": "यूरोप और रूस"
         }
       }
     },
@@ -578,42 +494,6 @@
       }
     },
     {
-      "title": "कनाडा ने खालिस्तानियों पर कस दी नकेल, संसद से पास हुआ C-9 बिल, खुशी से झूम उठे हिंदू",
-      "url": "https://hindi.news18.com/world/rest-of-world-canada-passed-a-new-combating-hate-act-to-prevent-religious-hatred-and-fundamentalist-activities-10588652.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T13:38:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Mark-Carney-Reuters-2026-06-18245594c23a16109c17cdd82d34e6b3-1200x800.jpg",
-      "summary": "कनाडा की संसद ने धार्मिक घृणा और कट्टरपंथी गतिविधियों को रोकने के लिए बिल C-9 पारित किया है। यह कानून धार्मिक स्वतंत्रता की रक्षा करेगा। हिंदू संगठनों ने कहा कि यह खालिस्तानी चरमपंथियों से निपटने में मदद करेगा। कनाडा ने धार्मिक घृणा और कट्टरपंथी गतिविधियों रोकने के लिए बिल पास किया है. नया कानून लोगों की धार्मिक आजादी की रक्षा करेगा.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कनाडा ने खालिस्तानियों पर कस दी नकेल, संसद से पास हुआ C-9 बिल, खुशी से झूम उठे हिंदू",
-          "summary": "कनाडा की संसद ने धार्मिक घृणा और कट्टरपंथी गतिविधियों को रोकने के लिए बिल C-9 पारित किया है। यह कानून धार्मिक स्वतंत्रता की रक्षा करेगा। हिंदू संगठनों ने कहा कि यह खालिस्तानी चरमपंथियों से निपटने में मदद करेगा। कनाडा ने धार्मिक घृणा और कट्टरपंथी गतिविधियों रोकने के लिए बिल पास किया है. नया कानून लोगों की धार्मिक आजादी की रक्षा करेगा.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "दुनिया के आखिरी बचे महाद्वीप तक भी पहुंच गया बर्ड फ्लू! किस बात से डर रहे अधिकारी",
-      "url": "https://hindi.news18.com/world/rest-of-world-first-case-of-bird-flu-has-been-detected-in-australia-continent-officials-worried-h5n1-10588515.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T13:02:51+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Bird-Flue-2026-06-33ac13fcd37220e90109df45fd31f1f2-1200x800.jpg",
-      "summary": "ऑस्ट्रेलिया ने अपने दक्षिण-पश्चिम के एक सुदूर इलाके में H5N1 बर्ड फ्लू का पहला संदिग्ध मामला दर्ज किया है। ऑस्ट्रेलिया ने दक्षिण-पश्चिम के एक सुदूर इलाके में H5N1 बर्ड फ्लू का अपना पहला संदिग्ध मामला दर्ज किया है. अधिकारियों ने शुक्रवार को बताया कि पश्चिमी ऑस्ट्रेलिया के केप ले ग्रैंड नेशनल पार्क में पाए गए ब्राउन स्कुआ नाम के एक प्रवासी समुद्री पक्षी में मिला है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुनिया के आखिरी बचे महाद्वीप तक भी पहुंच गया बर्ड फ्लू! किस बात से डर रहे अधिकारी",
-          "summary": "ऑस्ट्रेलिया ने अपने दक्षिण-पश्चिम के एक सुदूर इलाके में H5N1 बर्ड फ्लू का पहला संदिग्ध मामला दर्ज किया है। ऑस्ट्रेलिया ने दक्षिण-पश्चिम के एक सुदूर इलाके में H5N1 बर्ड फ्लू का अपना पहला संदिग्ध मामला दर्ज किया है. अधिकारियों ने शुक्रवार को बताया कि पश्चिमी ऑस्ट्रेलिया के केप ले ग्रैंड नेशनल पार्क में पाए गए ब्राउन स्कुआ नाम के एक प्रवासी समुद्री पक्षी में मिला है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "होर्मुज खुलने का कोई फायदा नहीं! दुनिया से गायब हो गया 1 अरब बैरल क्रूड आयल, कुछ महीनों में आने",
       "url": "https://hindi.news18.com/world/america-1-billion-barrels-crude-oil-missing-from-the-world-reopening-the-strait-of-hormuz-may-not-stop-global-energy-crash-10588522.html",
       "source": "News18 Hindi (World)",
@@ -627,24 +507,6 @@
         "hi": {
           "title": "होर्मुज खुलने का कोई फायदा नहीं! दुनिया से गायब हो गया 1 अरब बैरल क्रूड आयल, कुछ महीनों में आने",
           "summary": "अमेरिका और ईरान के बीच शांति समझौते के बाद होर्मुज जलडमरूमध्य को फिर से खोल दिया गया है। हालांकि, पिछले चार महीनों में वैश्विक बाजारों से 1.15 अरब बैरल कच्चा तेल गायब हो चुका है। एनालिटिक्स फर्म केपलर की रिपोर्ट के अनुसार, इस तेल की भरपाई में कम से कम एक साल का समय लगेगा। अमेरिका और ईरान के बीच हुए ऐतिहासिक शांति समझौते के बाद 'होर्मुज जलडमरूमध्य' को दोबारा खोल दिया गया है, लेकिन वैश्विक तेल बाजार के लिए शायद अब बहुत देर हो चुकी है क्योंकि पिछले चार महीनों में दुनिया भर के बाजारों से 1.15 अरब बैरल कच्चा तेल गायब हो चुका है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कतर का गिफ्ट, अब ट्रंप की सवारी! ₹3,773 करोड़ के नए 'एयर फोर्स वन' प्लेन में क्या-क्या खास है? देखें",
-      "url": "https://hindi.news18.com/world/america-donald-trump-us-air-force-s-new-vc-25b-bridge-aircraft-see-pictures-photogallery-10588390.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T12:15:22+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Airforce-one-Bridge-plan-2026-06-2031526e4687f781f371bc4820c60f3f-1200x800.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कतर के गिफ्ट दिए बोइंग 747-8 विमान को पेश किया. इसकी कीमत 400 मिलियन अमेरिकी डॉलर है. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने शुक्रवार को कतर के गिफ्ट दिए बोइंग 747-8 विमान को पेश किया. इसकी कीमत 400 मिलियन अमेरिकी डॉलर बताई जा रही है. उन्होंने कहा कि ये एक अस्थायी एयर फोर्स वन के रूप में काम करेगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कतर का गिफ्ट, अब ट्रंप की सवारी! ₹3,773 करोड़ के नए 'एयर फोर्स वन' प्लेन में क्या-क्या खास है? देखें",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कतर के गिफ्ट दिए बोइंग 747-8 विमान को पेश किया. इसकी कीमत 400 मिलियन अमेरिकी डॉलर है. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने शुक्रवार को कतर के गिफ्ट दिए बोइंग 747-8 विमान को पेश किया. इसकी कीमत 400 मिलियन अमेरिकी डॉलर बताई जा रही है. उन्होंने कहा कि ये एक अस्थायी एयर फोर्स वन के रूप में काम करेगा.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -668,24 +530,6 @@
       }
     },
     {
-      "title": "क्या है 'हीट डोम' जो पूरे यूरोप को तंदूर की तरह गर्म कर रहा? फ्रांस, जर्मनी, यूके समेत कई देशों में",
-      "url": "https://hindi.news18.com/world/europe-europe-heatwave-2026-france-germany-uk-weather-heat-dome-science-photogallery-10588388.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T11:49:22+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Europe_Heatwave_Risk-2026-06-9df80a995e5f962dcb6c6a2f5ca64ee9-1200x800.jpg",
-      "summary": "यूरोप भीषण गर्मी की चपेट में है, जिसे 'हीट डोम' कहा जा रहा है। फ्रांस, जर्मनी और यूके सहित कई देशों में तापमान खतरनाक स्तर पर पहुंच गया है। मौसम विशेषज्ञों के अनुसार, इस सप्ताह गर्मी से कोई राहत मिलने की उम्मीद नहीं है। Europe Heatwave 2026: यूरोप में अभी आधिकारिक तौर पर समर सीजन की शुरुआत नहीं हुई है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या है 'हीट डोम' जो पूरे यूरोप को तंदूर की तरह गर्म कर रहा? फ्रांस, जर्मनी, यूके समेत कई देशों में",
-          "summary": "यूरोप भीषण गर्मी की चपेट में है, जिसे 'हीट डोम' कहा जा रहा है। फ्रांस, जर्मनी और यूके सहित कई देशों में तापमान खतरनाक स्तर पर पहुंच गया है। मौसम विशेषज्ञों के अनुसार, इस सप्ताह गर्मी से कोई राहत मिलने की उम्मीद नहीं है। Europe Heatwave 2026: यूरोप में अभी आधिकारिक तौर पर समर सीजन की शुरुआत नहीं हुई है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "पुतिन की टेंशन बढ़ाएगा जेलेंस्की का ये दांव! रूस के जब्त हथियारों की यूक्रेन लगाएगा बोली, शुरू किया",
       "url": "https://www.abplive.com/news/world/ukraine-launched-trophy-lab-internet-platform-for-auctioning-seized-russian-weapons-and-technology-ann-3148189",
       "source": "ABP Live (World)",
@@ -704,56 +548,200 @@
       }
     },
     {
-      "title": "ईरानी सिंगर को 74 कोड़ों की सजा, हिजाब के बिना गाना पड़ा भारी, 2 साल तक गाने पर पाबंदी",
-      "url": "https://hindi.news18.com/world/middle-east-iran-singer-parastoo-ahmadi-74-lashes-hijab-youtube-concert-10588359.html",
-      "source": "News18 Hindi (World)",
+      "title": "अमेरिका-ईरान के बीच ऐतिहासिक समझौते की स्क्रिप्ट तैयार, जानें क्या होगा स्विट्जरलैंड में मीटिंग का",
+      "url": "https://www.abplive.com/news/world/us-iran-peace-deal-preparations-for-new-talks-in-switzerland-meeting-between-steve-witkoff-and-abbas-araghchi-nuclear-deal-3148112",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-06-20T11:24:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iran-news-20-2026-06-4e6d851e42e85cc854acc2dbafc1e326-1200x800.jpg",
-      "summary": "ईरान की गायिका परस्तू अहमदी को बिना हिजाब ऑनलाइन कॉन्सर्ट करने के मामले में 74 कोड़ों की सजा सुनाई गई है. Iranian Singer News: ईरान की मशहूर गायिका परस्तू अहमदी और उनकी टीम के आठ सदस्यों को 2024 में बिना हिजाब ऑनलाइन कॉन्सर्ट करने के मामले में 74 कोड़ों की सजा सुनाई गई है. अदालत ने उन पर दो साल तक देश छोड़ने और किसी भी तरह की कलात्मक गतिविधि करने पर भी रोक लगा दी है.",
+      "published_at": "2026-06-20T10:28:09+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/20/0a0b672d5b938cc25bcec3da1c1527f217819461498981115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिका और ईरान के बीच बातचीत का नया दौर शुरू होने वाला है, स्टीव विटकॉफ स्विट्जरलैंड जा रहे हैं. अमेरिका और ईरान के बीच बातचीत का नया दौर शुरू होने की तैयारी तेज हो गई है. हाल ही में घोषित मेमोरेंडम ऑफ अंडरस्टैंडिंग (MoU) के बाद दोनों देशों के बीच तनाव कम करने की दिशा में कूटनीतिक गतिविधियां बढ़ गई हैं.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरानी सिंगर को 74 कोड़ों की सजा, हिजाब के बिना गाना पड़ा भारी, 2 साल तक गाने पर पाबंदी",
-          "summary": "ईरान की गायिका परस्तू अहमदी को बिना हिजाब ऑनलाइन कॉन्सर्ट करने के मामले में 74 कोड़ों की सजा सुनाई गई है. Iranian Singer News: ईरान की मशहूर गायिका परस्तू अहमदी और उनकी टीम के आठ सदस्यों को 2024 में बिना हिजाब ऑनलाइन कॉन्सर्ट करने के मामले में 74 कोड़ों की सजा सुनाई गई है. अदालत ने उन पर दो साल तक देश छोड़ने और किसी भी तरह की कलात्मक गतिविधि करने पर भी रोक लगा दी है.",
+          "title": "अमेरिका-ईरान के बीच ऐतिहासिक समझौते की स्क्रिप्ट तैयार, जानें क्या होगा स्विट्जरलैंड में मीटिंग का",
+          "summary": "अमेरिका और ईरान के बीच बातचीत का नया दौर शुरू होने वाला है, स्टीव विटकॉफ स्विट्जरलैंड जा रहे हैं. अमेरिका और ईरान के बीच बातचीत का नया दौर शुरू होने की तैयारी तेज हो गई है. हाल ही में घोषित मेमोरेंडम ऑफ अंडरस्टैंडिंग (MoU) के बाद दोनों देशों के बीच तनाव कम करने की दिशा में कूटनीतिक गतिविधियां बढ़ गई हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "खजाने से भरा पड़ा है ये देश, फिर भी दाने-दाने को तड़प रहे नागरिक, अब किसानों-मजदूरों ने ‘जनता को",
-      "url": "https://hindi.news18.com/world/rest-of-world-bolivia-crisis-president-rodrigo-paz-declares-state-of-emergency-50-day-fuel-blockade-paralyzes-the-nation-farmer-labours-protest-10588140.html",
-      "source": "News18 Hindi (World)",
+      "title": "'फिलिस्तीन में भी ऐसा नहीं होता, जैसा...', PoK में पाकिस्तान आर्मी की बर्बरता पर भड़के",
+      "url": "https://www.abplive.com/news/world/pakistan-isi-firing-kashmiri-drug-mafia-pojk-conditions-worse-than-palestine-pok-protest-shehbaz-sharif-asim-munri-ann-3148143",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-06-20T11:08:13+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Bolivia-Crisis-2026-06-881040daefafdc07048940809e9338a1-1200x800.jpg",
-      "summary": "दक्षिण अमेरिकी देश बोलिविया गंभीर आर्थिक और राजनीतिक संकट से जूझ रहा है। दक्षिण अमेरिकी देश बोलिविया इस वक्त लिथियम और प्राकृतिक गैस जैसे बेशकीमती खजाने पर बैठने के बावजूद इतिहास के सबसे खौफनाक आर्थिक और राजनीतिक संकट से गुजर रहा है. यहां लगातार 50 दिनों से जारी हिंसक विरोध प्रदर्शनों, देशव्यापी चक्काजाम और 40 साल की रिकॉर्ड तोड़ महंगाई के बीच राष्ट्रपति रोड्रिगो पाज़ ने पूरे देश में आपातकाल (का ऐलान कर दिया है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खजाने से भरा पड़ा है ये देश, फिर भी दाने-दाने को तड़प रहे नागरिक, अब किसानों-मजदूरों ने ‘जनता को",
-          "summary": "दक्षिण अमेरिकी देश बोलिविया गंभीर आर्थिक और राजनीतिक संकट से जूझ रहा है। दक्षिण अमेरिकी देश बोलिविया इस वक्त लिथियम और प्राकृतिक गैस जैसे बेशकीमती खजाने पर बैठने के बावजूद इतिहास के सबसे खौफनाक आर्थिक और राजनीतिक संकट से गुजर रहा है. यहां लगातार 50 दिनों से जारी हिंसक विरोध प्रदर्शनों, देशव्यापी चक्काजाम और 40 साल की रिकॉर्ड तोड़ महंगाई के बीच राष्ट्रपति रोड्रिगो पाज़ ने पूरे देश में आपातकाल (का ऐलान कर दिया है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'हम फिर वहीं पहुंच गए, जहां शुरू किया था' ट्रंप की ईरान डील पर ओबामा का हमला, बोले- हालात पहले से",
-      "url": "https://hindi.news18.com/world/america-barack-obama-slams-trump-iran-deal-jcpoa-war-10588205.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T11:00:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/obama-1-2026-06-4c18718ee579d561b82f60b3d33a135a-1200x800.jpg",
-      "summary": "अमेरिका के पूर्व राष्ट्रपति बराक ओबामा ने डोनाल्ड ट्रंप की ईरान नीति की आलोचना की। अमेरिका के पूर्व राष्ट्रपति बराक ओबामा ने डोनाल्ड ट्रंप की ईरान नीति पर तीखा हमला बोला है. ओबामा ने कहा कि युद्ध में भारी नुकसान उठाने के बावजूद अमेरिका वहीं पहुंच गया है, जहां से सब शुरू हुआ था. उन्होंने दावा किया कि 2015 का परमाणु समझौता बेहतर था और ट्रंप के उससे बाहर निकलने के बाद ही ईरान ने अपनी परमाणु क्षमता बढ़ाई.",
+      "published_at": "2026-06-20T09:24:56+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/20/344b9c7da988f89fc0a2bea83dbf2b0e17819470357961200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के कब्जे वाले कश्मीर में पाकिस्तानी सेना की बर्बरता पर लोग भड़के, 12वें दिन भी प्रदर्शन जारी. पाकिस्तान के क़ब्ज़े वाले कश्मीर में जुल्मो सितम झेलने के बाद भी अपने हकों के लिए आज 12वें दिन हज़ारों लोग रावलकोट के ईदगाह मैदान में डटे हुए हैं और दिन-रात पाकिस्तानी हुकूमत को चुनौती दे रहे हैं. कल LoC के पास PoJK के बट्टल गांव में रहने वाले 70 प्रदर्शनकारियों पर पाकिस्तानी रेंजर्स फायरिंग की थी जो रावलकोट जा रहे थे.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'हम फिर वहीं पहुंच गए, जहां शुरू किया था' ट्रंप की ईरान डील पर ओबामा का हमला, बोले- हालात पहले से",
-          "summary": "अमेरिका के पूर्व राष्ट्रपति बराक ओबामा ने डोनाल्ड ट्रंप की ईरान नीति की आलोचना की। अमेरिका के पूर्व राष्ट्रपति बराक ओबामा ने डोनाल्ड ट्रंप की ईरान नीति पर तीखा हमला बोला है. ओबामा ने कहा कि युद्ध में भारी नुकसान उठाने के बावजूद अमेरिका वहीं पहुंच गया है, जहां से सब शुरू हुआ था. उन्होंने दावा किया कि 2015 का परमाणु समझौता बेहतर था और ट्रंप के उससे बाहर निकलने के बाद ही ईरान ने अपनी परमाणु क्षमता बढ़ाई.",
+          "title": "'फिलिस्तीन में भी ऐसा नहीं होता, जैसा...', PoK में पाकिस्तान आर्मी की बर्बरता पर भड़के",
+          "summary": "पाकिस्तान के कब्जे वाले कश्मीर में पाकिस्तानी सेना की बर्बरता पर लोग भड़के, 12वें दिन भी प्रदर्शन जारी. पाकिस्तान के क़ब्ज़े वाले कश्मीर में जुल्मो सितम झेलने के बाद भी अपने हकों के लिए आज 12वें दिन हज़ारों लोग रावलकोट के ईदगाह मैदान में डटे हुए हैं और दिन-रात पाकिस्तानी हुकूमत को चुनौती दे रहे हैं. कल LoC के पास PoJK के बट्टल गांव में रहने वाले 70 प्रदर्शनकारियों पर पाकिस्तानी रेंजर्स फायरिंग की थी जो रावलकोट जा रहे थे.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान-अमेरिका के बीच डील का क्रेडिट लेने वाले पाकिस्तान की किरकिरी, जेडी वेंस बोले- 'MoU जारी करने",
+      "url": "https://www.abplive.com/news/world/us-vice-president-jd-vance-slams-pakistan-press-freedom-over-us-iran-mou-delay-shehbaz-sharif-asim-munir-donald-trump-araghchi-3148144",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-20T09:20:14+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/20/901148481ad3aac95992c37ee18a59c71781946128175425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने कहा कि अमेरिका-ईरान समझौते का विवरण जारी करने में पाकिस्तान की मीडिया आजादी एक वजह थी. अमेरिका और ईरान के बीच हुए शांति समझौते को लेकर पाकिस्तान एक बार फिर चर्चा में है, लेकिन इस बार वजह उसकी तारीफ नहीं बल्कि आलोचना है. अमेरिकी उपराष्ट्रपति जेडी वेंस ने एक पॉडकास्ट में कहा कि अमेरिका-ईरान समझौते (MoU) का पूरा विवरण जारी करने में देरी की एक वजह पाकिस्तान और कतर में प्रेस की स्वतंत्रता का स्तर भी था.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान-अमेरिका के बीच डील का क्रेडिट लेने वाले पाकिस्तान की किरकिरी, जेडी वेंस बोले- 'MoU जारी करने",
+          "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने कहा कि अमेरिका-ईरान समझौते का विवरण जारी करने में पाकिस्तान की मीडिया आजादी एक वजह थी. अमेरिका और ईरान के बीच हुए शांति समझौते को लेकर पाकिस्तान एक बार फिर चर्चा में है, लेकिन इस बार वजह उसकी तारीफ नहीं बल्कि आलोचना है. अमेरिकी उपराष्ट्रपति जेडी वेंस ने एक पॉडकास्ट में कहा कि अमेरिका-ईरान समझौते (MoU) का पूरा विवरण जारी करने में देरी की एक वजह पाकिस्तान और कतर में प्रेस की स्वतंत्रता का स्तर भी था.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "रूस के बाद अब बेलारूस पर हमला करेगा यूक्रेन! जेलेंस्की के सख्त तेवर, लुकाशेंको को दी सीधी धमकी",
+      "url": "https://www.abplive.com/news/world/ukrainian-president-volodymyr-zelenskyy-threat-russia-ally-belarus-ukraine-russia-war-ann-3148113",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-20T09:01:11+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/20/a15d27a87d41921d099766ae6857f51e17819437169541200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "यूक्रेन के राष्ट्रपति वोलोडिमिर जेलेंस्की ने बेलारूस को धमकी दी है कि अगर एक हफ्ते में यूक्रेनी बॉर्डर से रूसी मिसाइल नहीं हटाई गईं तो यूक्रेन हमला कर देगा. बेलारूस रूस का मित्र देश है और फरवरी 2022 से यूक्रेन जंग में रूस के साथ खड़ा रहा है. रूस-यूक्रेन जंग का दायरा अब बढ़ने जा रहा है क्योंकि यूक्रेन के राष्ट्रपति वोलोडिमिर जेलेंस्की ने रूस के मित्र-देश बेलारूस को बॉर्डर से मिसाइल हटाने की धमकी दी है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस के बाद अब बेलारूस पर हमला करेगा यूक्रेन! जेलेंस्की के सख्त तेवर, लुकाशेंको को दी सीधी धमकी",
+          "summary": "यूक्रेन के राष्ट्रपति वोलोडिमिर जेलेंस्की ने बेलारूस को धमकी दी है कि अगर एक हफ्ते में यूक्रेनी बॉर्डर से रूसी मिसाइल नहीं हटाई गईं तो यूक्रेन हमला कर देगा. बेलारूस रूस का मित्र देश है और फरवरी 2022 से यूक्रेन जंग में रूस के साथ खड़ा रहा है. रूस-यूक्रेन जंग का दायरा अब बढ़ने जा रहा है क्योंकि यूक्रेन के राष्ट्रपति वोलोडिमिर जेलेंस्की ने रूस के मित्र-देश बेलारूस को बॉर्डर से मिसाइल हटाने की धमकी दी है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "सीज़फायर के कुछ देर बाद ही इज़रायल ने किया उल्लंघन, लेबनान में की बमबारी",
+      "url": "https://www.patrika.com/world-news/israel-violates-another-ceasefire-bombs-lebanon-20682185",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-20T06:51:30+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/israel-intensifies-attacks-in-south-lebanon.webp",
+      "summary": "इजरायल ने लेबनान में फिर से बमबारी की, सीजफायर समझौते के कुछ देर बाद ही उल्लंघन किया. अमेरिका की मध्यस्थता में सीजफायर पर सहमति बनी थी. इस वजह से साउथ लेबनान में जान-माल का भारी नुकसान हो रहा है. लेबनान (Lebanon) के आतंकी संगठन हिज़बुल्लाह (Hezbollah) को खत्म करने के लिए इज़रायल (Israel) के हमले जारी हैं। शुक्रवार को दोनों पक्षों के बीच एक बार फिर सीज़फायर पर सहमति बनी, जो अमेरिका (United States of America) की मध्यस्थता में हुआ, लेकिन इसके कुछ देर बाद ही इज़रायल ने फिर से इसका उल्लंघन कर दिया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीज़फायर के कुछ देर बाद ही इज़रायल ने किया उल्लंघन, लेबनान में की बमबारी",
+          "summary": "इजरायल ने लेबनान में फिर से बमबारी की, सीजफायर समझौते के कुछ देर बाद ही उल्लंघन किया. अमेरिका की मध्यस्थता में सीजफायर पर सहमति बनी थी. इस वजह से साउथ लेबनान में जान-माल का भारी नुकसान हो रहा है. लेबनान (Lebanon) के आतंकी संगठन हिज़बुल्लाह (Hezbollah) को खत्म करने के लिए इज़रायल (Israel) के हमले जारी हैं। शुक्रवार को दोनों पक्षों के बीच एक बार फिर सीज़फायर पर सहमति बनी, जो अमेरिका (United States of America) की मध्यस्थता में हुआ, लेकिन इसके कुछ देर बाद ही इज़रायल ने फिर से इसका उल्लंघन कर दिया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत के खिलाफ सड़कों पर क्यों आए लोग? भीड़ ने फूंका अमित शाह का पुतला, उच्चायोग पर हमले की कोशिश",
+      "url": "https://www.amarujala.com/world/why-bangladesh-people-take-to-streets-against-india-mob-burns-amit-shahs-effigy-attempt-attack-high-commission-2026-06-20",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-20T06:27:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/bgalthasha-ma-bval_db078c1b96b37c05e7d9878b1729e523.jpeg?w=750&dpr=1.0",
+      "summary": "बांग्लादेश में लोगों ने भारत के खिलाफ प्रदर्शन किया, अमित शाह का पुतला फूंका और उच्चायोग पर हमले की कोशिश की. प्रदर्शनकारियों ने अपनी नाराजगी जाहिर की. Bangladesh: भारत के खिलाफ सड़कों पर क्यों आए लोग? भीड़ ने फूंका अमित शाह का पुतला, उच्चायोग पर हमले की कोशिश।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के खिलाफ सड़कों पर क्यों आए लोग? भीड़ ने फूंका अमित शाह का पुतला, उच्चायोग पर हमले की कोशिश",
+          "summary": "बांग्लादेश में लोगों ने भारत के खिलाफ प्रदर्शन किया, अमित शाह का पुतला फूंका और उच्चायोग पर हमले की कोशिश की. प्रदर्शनकारियों ने अपनी नाराजगी जाहिर की. Bangladesh: भारत के खिलाफ सड़कों पर क्यों आए लोग? भीड़ ने फूंका अमित शाह का पुतला, उच्चायोग पर हमले की कोशिश।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान को राहत देने की तैयारी, मानवीय खर्च के लिए फ्रीज फंड जारी करने पर अमेरिका-कतर में मंथन",
+      "url": "https://www.patrika.com/world-news/us-working-with-qatar-to-unfreeze-funds-humanitarian-spending-in-iran-20682494",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-20T05:09:18+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/donald-trump-6.webp",
+      "summary": "अमेरिका और कतर ईरान के लिए मानवीय सहायता संबंधी खर्चों के लिए अरबों डॉलर की फ्रीज संपत्तियों को जारी करने की योजना पर काम कर रहे हैं. यह दावा अमेरिकी समाचार पत्र वॉल स्ट्रीट जर्नल की एक रिपोर्ट में किया गया है. US Qatar on Iran funds: ईरान के लिए मानवीय सहायता संबंधी खर्चों के लिए अरबों डॉलर की फ्रीज संपत्तियों को जारी करने की योजना पर अमेरिका कतर के साथ मिलकर काम कर रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान को राहत देने की तैयारी, मानवीय खर्च के लिए फ्रीज फंड जारी करने पर अमेरिका-कतर में मंथन",
+          "summary": "अमेरिका और कतर ईरान के लिए मानवीय सहायता संबंधी खर्चों के लिए अरबों डॉलर की फ्रीज संपत्तियों को जारी करने की योजना पर काम कर रहे हैं. यह दावा अमेरिकी समाचार पत्र वॉल स्ट्रीट जर्नल की एक रिपोर्ट में किया गया है. US Qatar on Iran funds: ईरान के लिए मानवीय सहायता संबंधी खर्चों के लिए अरबों डॉलर की फ्रीज संपत्तियों को जारी करने की योजना पर अमेरिका कतर के साथ मिलकर काम कर रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज से अमेरिकी नाकाबंदी हटते ही ईरान का नया फरमान; सिर्फ इन जहाजों की ही एंट्री",
+      "url": "https://www.amarujala.com/world/new-iranian-authority-charged-with-overseeing-strait-of-hormuz-asks-ships-to-register-form-first-2026-06-20",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-20T05:04:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/kasa-para-haga-haramaja_335533de03facfd727ec34b69b65ed7d.jpeg?w=750&dpr=1.0",
+      "summary": "ईरान ने एक नया फरमान जारी किया है कि होर्मुज से आने वाले जहाजों में से सिर्फ कुछ को ही एंट्री मिलेगी. यह फरमान अमेरिकी नाकाबंदी हटने के बाद आया है. ईरान ने जहाजों के लिए नए नियम लागू किए हैं. पहले फॉर्म, फिर प्रवेश: होर्मुज से अमेरिकी नाकाबंदी हटते ही ईरान का नया फरमान; सिर्फ इन जहाजों की ही एंट्री।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज से अमेरिकी नाकाबंदी हटते ही ईरान का नया फरमान; सिर्फ इन जहाजों की ही एंट्री",
+          "summary": "ईरान ने एक नया फरमान जारी किया है कि होर्मुज से आने वाले जहाजों में से सिर्फ कुछ को ही एंट्री मिलेगी. यह फरमान अमेरिकी नाकाबंदी हटने के बाद आया है. ईरान ने जहाजों के लिए नए नियम लागू किए हैं. पहले फॉर्म, फिर प्रवेश: होर्मुज से अमेरिकी नाकाबंदी हटते ही ईरान का नया फरमान; सिर्फ इन जहाजों की ही एंट्री।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पोलैंड के राष्ट्रपति ने जेलेंस्की से सम्मान वापस लिया: यूक्रेनी अधिकारी नाराज; क्या रूस के दबाव में",
+      "url": "https://www.amarujala.com/world/ukrainian-officials-criticize-polish-president-s-decision-to-strip-zelenskyy-of-honour-2026-06-20",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-20T05:02:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/ukrainian-officials-criticize-polish-presidents-decision-to-strip-zelenskyy-of-honour_7ce7eb24b51aed2a8cbc0d698e523d21.jpeg?w=750&dpr=1.0",
+      "summary": "पोलैंड के राष्ट्रपति ने यूक्रेनी राष्ट्रपति जेलेंस्की से सम्मान वापस ले लिया, जिससे यूक्रेनी अधिकारियों में नाराजगी फैल गई। इस फैसले के पीछे रूस के दबाव का हाथ होने का संदेह है। पोलैंड और यूक्रेन के संबंधों में यह एक नया मोड़ है। पोलैंड के राष्ट्रपति ने जेलेंस्की से सम्मान वापस लिया: यूक्रेनी अधिकारी नाराज; क्या रूस के दबाव में।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पोलैंड के राष्ट्रपति ने जेलेंस्की से सम्मान वापस लिया: यूक्रेनी अधिकारी नाराज; क्या रूस के दबाव में",
+          "summary": "पोलैंड के राष्ट्रपति ने यूक्रेनी राष्ट्रपति जेलेंस्की से सम्मान वापस ले लिया, जिससे यूक्रेनी अधिकारियों में नाराजगी फैल गई। इस फैसले के पीछे रूस के दबाव का हाथ होने का संदेह है। पोलैंड और यूक्रेन के संबंधों में यह एक नया मोड़ है। पोलैंड के राष्ट्रपति ने जेलेंस्की से सम्मान वापस लिया: यूक्रेनी अधिकारी नाराज; क्या रूस के दबाव में।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "डोनाल्ड ट्रंप के बयान के बाद इटली का सख्त कदम, आखिर दो दक्षिणपंथी नेताओं के बीच क्यों आ गई इतनी",
+      "url": "https://www.patrika.com/world-news/reason-for-rift-between-us-president-donald-trump-and-italian-pm-giorgia-meloni-20682492",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-20T04:28:59+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Giorgia-Meloni-and-donald-trump.webp",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के बयान पर इटली ने सख्त कदम उठाया है। ट्रंप ने दावा किया था कि इटली की प्रधानमंत्री जॉर्जिया मेलोनी G7 शिखर सम्मेलन के दौरान उनके साथ फोटो खिंचवाने के लिए बेताब थीं। मेलोनी ने ट्रंप के बयान को सिरे से खारिज कर दिया। Trump-Meloni: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने विवादित बयान दिया है। अमेरिकी राष्ट्रपति ट्रंप ने इटली के टीवी चैनल La7 संग इंटरव्यू के दौरान कहा कि प्रधानमंत्री जॉर्जिया मेलोनी G7 शिखर सम्मेलन के दौरान उनके साथ फोटो खिंचवाने के लिए बेताब थी, लेकिन मैं उनके साथ फोटो नहीं खिंचवाना चाहता था।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डोनाल्ड ट्रंप के बयान के बाद इटली का सख्त कदम, आखिर दो दक्षिणपंथी नेताओं के बीच क्यों आ गई इतनी",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के बयान पर इटली ने सख्त कदम उठाया है। ट्रंप ने दावा किया था कि इटली की प्रधानमंत्री जॉर्जिया मेलोनी G7 शिखर सम्मेलन के दौरान उनके साथ फोटो खिंचवाने के लिए बेताब थीं। मेलोनी ने ट्रंप के बयान को सिरे से खारिज कर दिया। Trump-Meloni: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने विवादित बयान दिया है। अमेरिकी राष्ट्रपति ट्रंप ने इटली के टीवी चैनल La7 संग इंटरव्यू के दौरान कहा कि प्रधानमंत्री जॉर्जिया मेलोनी G7 शिखर सम्मेलन के दौरान उनके साथ फोटो खिंचवाने के लिए बेताब थी, लेकिन मैं उनके साथ फोटो नहीं खिंचवाना चाहता था।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "G7 समिट में सेल्फी के लिए गिड़गिड़ाई थीं मेलोनी, डोनाल्ड ट्रंप के दावे पर इटली PM की दो टूक, अब",
+      "url": "https://www.abplive.com/news/world/donald-trump-giorgia-meloni-row-antonio-tajani-cancels-us-visit-italy-america-diplomatic-tensions-news-3147955",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-20T03:28:52+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/20/c736de8726b27745056e92ebecab7c1b1781926089380425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की विवादित टिप्पणी के बाद इटली के विदेश मंत्री एंटोनियो तजानी ने अपना प्रस्तावित अमेरिका दौरा रद्द कर दिया। इससे दोनों देशों के रिश्तों में नई खटास पैदा हो गई है। इटली और अमेरिका के बीच कूटनीतिक तनाव बढ़ रहा है। US-Italy Relations: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और इटली की प्रधानमंत्री जॉर्जिया मेलोनी के बीच शुरू हुआ विवाद अब कूटनीतिक तनाव में बदलता नजर आ रहा है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "G7 समिट में सेल्फी के लिए गिड़गिड़ाई थीं मेलोनी, डोनाल्ड ट्रंप के दावे पर इटली PM की दो टूक, अब",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की विवादित टिप्पणी के बाद इटली के विदेश मंत्री एंटोनियो तजानी ने अपना प्रस्तावित अमेरिका दौरा रद्द कर दिया। इससे दोनों देशों के रिश्तों में नई खटास पैदा हो गई है। इटली और अमेरिका के बीच कूटनीतिक तनाव बढ़ रहा है। US-Italy Relations: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और इटली की प्रधानमंत्री जॉर्जिया मेलोनी के बीच शुरू हुआ विवाद अब कूटनीतिक तनाव में बदलता नजर आ रहा है.",
+          "region": "यूरोप और रूस"
         }
       }
     }
