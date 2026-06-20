@@ -1,68 +1,20 @@
 {
-  "generated_at": "2026-06-20T05:35:38.501215+00:00",
-  "article_count": 50,
-  "total_unique_count": 257,
+  "generated_at": "2026-06-20T07:27:37.980663+00:00",
+  "article_count": 48,
+  "total_unique_count": 263,
   "digest": {
-    "en": "Myanmar's military is consolidating power under its new administration. Armenia's election, meanwhile, is focused on issues of war and peace. The EU is preparing a budget that addresses global turmoil, with plans for peace and conflict.",
-    "hi": "अमेरिकी राष्ट्रपति चुनाव के लिए रिपब्लिकन पार्टी के उम्मीदवार डोनाल्ड ट्रंप ने अपने बयान पर सफाई दी। उन्होंने कहा कि वह मजाक कर रहे थे जब उन्होंने कहा था कि वह बॉस हैं। दुनिया ने उनके बयान को गंभीरता से लिया।\n\nअमेरिकी वायुसेना ने नए Air Force One की पहली झलक दिखाई। यह विमान ट्रंप के शाही दरबार को आसमान में ले जाने के लिए तैयार है। विमान की डिज़ाइन और फीचर्स ने लोगों का ध्यान आकर्षित किया।\n\nफलस्तीन ने मदद की गुहार लगाई है। अस्पतालों में दवाएं खत्म हो गई हैं और कैंसर मरीजों की जान पर संकट है। भारत से मदद की उम्मीद है।"
+    "en": "The Middle East and Africa dominate this hour with conflict and diplomacy. Gas shortages in Russia and talks between the US and Iran signal wider geopolitical currents. Asia-Pacific developments also warrant attention.",
+    "hi": "मध्य पूर्व और अफ्रीका में इज़राइल और लेबनान के बीच संघर्ष जारी है। एशिया-प्रशांत क्षेत्र में, भारत और चीन के बीच तनाव के बीच समझौते की बात चल रही है। दुनिया भर में, पिता दिवस के लिए शुगर-फ्री मिठाइयों और ओवेरियन कैंसर के लक्षणों पर चर्चा हो रही है।"
   },
   "articles": [
     {
-      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
-      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
-      "source": "International Crisis Group",
+      "title": "Israeli envoy and UN official clash at hearing on children in conflict",
+      "url": "https://www.thehindu.com/news/international/israeli-envoy-and-un-official-clash-at-hearing-on-children-in-conflict/article71125126.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "Wednesday, June 3, 2026 - 00:00",
-      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Min Aung Hlaing transitioned from commander-in-chief to president in Myanmar. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
-      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Tuesday, June 2, 2026 - 16:33",
-      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Armenia will hold its first general election since 2021 on 7 Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Tiny Djibouti, and Its Prime Real Estate",
-      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 15:42",
-      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Djibouti occupies a strategic location on the Horn of Africa, bordering the Red Sea and the Gulf of Aden. This position has made it a hub for foreign military bases and international trade. The country navigates shifting alliances and regional turmoil. It hosts bases for countries including the United States, China, France, and Japan. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
-      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 10:18",
-      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Pakistan is mediating proposals between the United States and Iran following U. S. and Israeli airstrikes on Iran. Islamabad has taken on this role despite the inherent risks. The nation views the stakes as sufficiently high to continue its efforts toward de-escalation. Soon after the U. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
-      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Friday, June 5, 2026 - 10:38",
-      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The European Union's next seven-year budget proposal may reduce funding for conflict prevention and aid to fragile states. Experts warn this could impact the EU's ability to address global instability. The proposed budget shifts priorities away from these areas. This change risks undermining efforts to foster peace and security in vulnerable regions. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk.",
+      "published_at": "2026-06-20T05:54:23+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/xentfk/article71125151.ece/alternates/LANDSCAPE_1200/HLMPTOKXwAAWtur%201.jpg",
+      "summary": "Israeli envoy Danny Danon demanded the resignation of UN official Pramila Patten at a New York At a ⁠meeting in New York to mark the International Day for the Elimination of Sexual Violence in Conflict, the ‌Israeli envoy, Danny Danon, demanded the resignation of Pramila Patten, who produced a report that ‌blacklisted Israel for such alleged abuses for ‌the ⁠first time, accusing her of bias.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -76,18 +28,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/Bangladesh-Tarique-Rahman-1.jpg",
       "summary": "Bangladesh Investment Development Authority chairman Ashik Chowdhury stated defense issues would be discussed during Prime Minister Tarique Rahman’s upcoming trip When Ashik Chowdhury, the executive chairman of the Bangladesh Investment Development Authority, was recently asked about Prime Minister Tarique Rahman’s upcoming trip to China, his response caught the room off guard. “Many issues will come up,” Chowdhury remarked, “starting with defense.” For a diplomatic trip strictly billed around trade, investment, and business, it was an [] The post Everythi.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "No Cancellation, Only Delay: US-Iran Talks Face Early Test In Switzerland",
-      "url": "https://www.rferl.org/a/burgenstock-switzerland-vance-us-iran-mou-war/33784777.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-19T22:00:17+00:00",
-      "image_url": "https://gdb.rferl.org/f992bcec-10f5-4518-be68-235266feee29_w1200_h630.jpg",
-      "summary": "The United States and Iran delayed their first face-to-face technical talks What was supposed to be the first face-to-face technical engagement between the US and Iran after their surprise memorandum of understanding (MOU) has instead become an early test of whether the fragile diplomatic opening can survive the pressures of a wider regional war. No Cancellation, Only Delay: US-Iran Talks Face Early Test In Switzerland.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -135,30 +75,6 @@
       "published_at": "2026-06-19T16:58:53+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/3sp61/article71123536.ece/alternates/LANDSCAPE_1200/2026-06-19T002844Z_1546281707_RC2LWLA70ETK_RTRMADP_3_VENEZUELA-POLITICS.JPG",
       "summary": "Venezuela's government and opposition held US-backed talks on democratic transition. The meeting between National Assembly chief Jorge Rodriguez and former Opposition lawmaker Dinorah Figuera. who returned to Caracas on Thursday (June 18) after eight years of exile. \"is a first step in what will be a thoughtful process to secure a free and open Venezuelan society,\" State Department spokesman Tommy Pigott said in a statement.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russian attacks kill three in Ukraine's Kramatorsk",
-      "url": "https://www.thehindu.com/news/international/russian-attacks-kill-three-in-ukraines-kramatorsk/article71123503.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-19T16:49:51+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/lgec62/article71123522.ece/alternates/LANDSCAPE_1200/2026-06-19T144115Z_586040906_RC2ZWLAWU2ZM_RTRMADP_3_UKRAINE-CRISIS-DRUZHKIVKA.JPG",
-      "summary": "Russian forces attacked Kramatorsk in Ukraine's Donetsk region. Three people died. Six others sustained injuries. The attacks occurred near an apartment building and a car park. Vadym Filashkin, ‌Governor ⁠of Donetsk ⁠region, said on the Telegram app that ​six others ‌had been injured in two attacks on the ‌city, with ​strikes occurring near a high-rise ⁠apartment building and a car ‌park.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S. strike on alleged drug boat kills three in eastern Pacific Ocean",
-      "url": "https://www.thehindu.com/news/international/us-strike-on-alleged-drug-boat-kills-three-in-eastern-pacific-ocean/article71123448.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-19T16:46:40+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/national/mapql1/article71123507.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-19%20221310.png",
-      "summary": "A U. S. The latest attack brings the number of people who have been killed in boat strikes by the U. military to at least 211 since the Trump administration began targeting those it calls “narcoterrorists” in early September. U. strike on alleged drug boat kills three in eastern Pacific Ocean. U. S.",
       "region": "Americas",
       "language": "en",
       "translations": {}
@@ -308,6 +224,408 @@
       "translations": {}
     },
     {
+      "title": "Technical work can begin, says atomic energy agency",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167748",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-18T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/10-09-2025_IAEA_nuclear.jpg/image770x420cropped.jpg",
+      "summary": "The head of the UN-affiliated atomic energy agency welcomed the signing of an initial Iran The head of the UN-affiliated atomic energy agency on Thursday welcomed the signing of an initial Iran-US memorandum aimed at ending the war, before proposing “to sit down” with both parties to assist with concrete measures such as verification of Iran’s nuclear programme, a key sticking point.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Massive Ukrainian Drone Strike Targets Moscow Region's Largest Fuel Supplier",
+      "url": "https://www.rferl.org/a/massive-ukrainian-drone-strike-targets-moscow-region-s-largest-fuel-supplier/33783664.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-06-18T08:52:30+00:00",
+      "image_url": "https://gdb.rferl.org/10a819cc-2192-488d-10b8-08decad58b60_w1200_h630.jpg",
+      "summary": "Ukrainian drones targeted a Moscow oil refinery on June 18, marking the Multiple Ukrainian drones hit a Moscow oil refinery on the morning of June 18, according to Russian officials, in what was the second attack this week on the largest fuel supplier to the Moscow region. At least 16 people were injured in the attack, according to authorities. Massive Ukrainian Drone Strike Targets Moscow Region's Largest Fuel Supplier.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
+      "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-17T22:30:46+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/5bb4dc955e7fd24ee4a2072b7f5ee960eda51ddb/0_267_4346_3477/master/4346.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7999fe2667344049a64bf7c5f9f616de",
+      "summary": "Commercial cannabis sales increase user numbers and rates of psychosis, an international review found. Decriminalizing possession or strictly regulating access did not drive up usage. This study analyzed shifts in cannabis policy. Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially Decriminalising the possession of cannabis or strictly regulating access to the drug do not appear to drive up usage, but when the drug is sold commercially the number of users increases and more mental health problems are seen, a review has found. An international team analysed the dramatic shift i.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "From camel coats to guochao: Max Mara woos China’s luxury brand consumers",
+      "url": "https://www.theguardian.com/fashion/2026/jun/16/max-mara-woos-china-luxury-brand-consumers",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-16T17:15:13+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/c75afcaf4c595903195656c47c69afa3cc398d17/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=286feb9d8c38131240487ab91eb10334",
+      "summary": "Max Mara celebrated its 75th anniversary with a catwalk show in Shanghai. The event paid tribute to Chinese style, reflecting the city's dynamic energy. Designer Ian Griffiths noted Shanghai's constant motion as a reason for the location choice. The brand aims to connect with China's luxury consumers. Fashion house pays tribute to Chinese style with its 75th anniversary catwalk show in Shanghai“New York may be the city that never sleeps, but Shanghai doesn’t even sit down.” For the British designer Ian Griffiths, who encountered this line in the New Yorker, it summed up why China’s biggest city was the right place to celebrate Max Mara’s 75th anniversary.“Max Mara is a product for metropolitan.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Fujitsu chair resigns after ‘woman-related inappropriate conduct’",
+      "url": "https://www.theguardian.com/business/2026/jun/16/fujitsu-chair-resigns-hidenori-furuta-technology-company",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-16T13:18:25+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/04e74637bec67a000ca4782ac832e6a3839156e6/545_0_2467_1974/master/2467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74eab27c86777750df17fb5342652d3c",
+      "summary": "Fujitsu chair Hidenori Furuta resigned after the company's board learned of his \"woman-related inappropriate conduct.\" The Japanese technology firm is currently negotiating a settlement with the UK government over faulty software used in the Post Office IT scandal. Furuta's departure follows a period of intense scrutiny for Fujitsu. Japanese technology company at centre of Post Office IT scandal is negotiating settlement with UK government over faulty softwareBusiness live – latest updatesThe chair of Fujitsu, the Japanese technology firm at the centre of the Post Office IT scandal, has resigned after its board became aware of his “woman-related inappropriate conduct”. The company said on Tuesday that Hidenori Furuta had stepp.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘ट्रंप की निगरानी में तीन निर्दोष भारतीयों की हो गई मौत और पीएम मोदी कर रहे थे उनकी तारीफ, केजरीवाल",
+      "url": "https://www.patrika.com/national-news/arvind-kejriwal-says-3-innocent-indians-lost-their-lives-under-donald-trump-watch-but-pm-narendra-modi-sang-his-praises-20682989",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-20T07:25:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/pm-modi-and-kejriwal.webp",
+      "summary": "ओमान के तट पर एक जहाज पर अमेरिकी हमले में तीन भारतीय नाविकों की मौत के बाद दिल्ली के पूर्व मुख्यमंत्री अरविंद केजरीवाल ने प्रधानमंत्री नरेंद्र मोदी और डोनाल्ड ट्रंप की मुलाकात पर सवाल उठाए। भारत ने इस घटना पर अमेरिका से जवाब मांगा था। ओमान के तट के पास एक जहाज पर अमेरिकी हमले में कुछ दिन पहले 3 भारतीय नाविकों ने अपनी जान गंवा दी थी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘ट्रंप की निगरानी में तीन निर्दोष भारतीयों की हो गई मौत और पीएम मोदी कर रहे थे उनकी तारीफ, केजरीवाल",
+          "summary": "ओमान के तट पर एक जहाज पर अमेरिकी हमले में तीन भारतीय नाविकों की मौत के बाद दिल्ली के पूर्व मुख्यमंत्री अरविंद केजरीवाल ने प्रधानमंत्री नरेंद्र मोदी और डोनाल्ड ट्रंप की मुलाकात पर सवाल उठाए। भारत ने इस घटना पर अमेरिका से जवाब मांगा था। ओमान के तट के पास एक जहाज पर अमेरिकी हमले में कुछ दिन पहले 3 भारतीय नाविकों ने अपनी जान गंवा दी थी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ढाका की सड़कों गूंजे जय श्री राम के नारे, इस्लामिक कट्टरपंथियों के खिलाफ उतरे लोग, तस्वीर के अपमान",
+      "url": "https://hindi.news18.com/world/south-asia-jai-shri-ram-slogans-echo-on-streets-of-bangladesh-dhaka-people-take-to-streets-against-islamic-fundamentalists-10587539.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-20T07:24:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Bangladesh-Protest-All-india-radio-2026-06-bb666287881ce93d93c11611bfdfe533-1200x800.jpg",
+      "summary": "ढाका में कुछ कट्टरपंथी इस्लामवादियों द्वारा भगवान राम की तस्वीर का अपमान किए जाने के विरोध में हजारों हिंदुओं ने मशाल जुलूस निकाला। रंगपुर में प्रस्तावित राम की सबसे ऊंची मूर्ति का निर्माण कार्य फिलहाल रोक दिया गया है। रंगपुर में भगवान राम की सबसे ऊंची मूर्ति बनाई जानीं थी. इस पर कुछ कट्टरपंथी इस्लामवादियों ने भगवान राम की तस्वीर का अपमान किया.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ढाका की सड़कों गूंजे जय श्री राम के नारे, इस्लामिक कट्टरपंथियों के खिलाफ उतरे लोग, तस्वीर के अपमान",
+          "summary": "ढाका में कुछ कट्टरपंथी इस्लामवादियों द्वारा भगवान राम की तस्वीर का अपमान किए जाने के विरोध में हजारों हिंदुओं ने मशाल जुलूस निकाला। रंगपुर में प्रस्तावित राम की सबसे ऊंची मूर्ति का निर्माण कार्य फिलहाल रोक दिया गया है। रंगपुर में भगवान राम की सबसे ऊंची मूर्ति बनाई जानीं थी. इस पर कुछ कट्टरपंथी इस्लामवादियों ने भगवान राम की तस्वीर का अपमान किया.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी थोड़ी देर में जारी करेंगे 23वीं किस्त, चेक करें आपको मिलेगा लाभ या नहीं",
+      "url": "https://www.amarujala.com/live/utility/pm-kisan-yojana-23rd-installment-date-live-prime-minister-modi-to-release-pm-kisan-23-kist-kab-aayegi-2026-06-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-20T07:20:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/pm-kisan-yojana-live-update-paema-narathara-matha-aaja-paema-kasana-yajana-ka-23va-kasata-jara-karaga_5a4d5c7ed7ec1030561d1309a2da38bf.jpeg?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री मोदी आज प्रधानमंत्री किसान सम्मान निधि योजना की 23वीं किस्त जारी करेंगे। इस किस्त से 9.44 करोड़ से अधिक पात्र किसानों को लाभ मिलेगा। आज का दिन किसानों के लिए बेहद खास होने जा रहा है क्योंकि आज प्रधानमंत्री किसान सम्मान निधि योजना की 23वीं किस्त जारी होनी है। 9.44 करोड़ से अधिक पात्र किसानों को इस किस्त का लाभ आज मिलेगा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी थोड़ी देर में जारी करेंगे 23वीं किस्त, चेक करें आपको मिलेगा लाभ या नहीं",
+          "summary": "प्रधानमंत्री मोदी आज प्रधानमंत्री किसान सम्मान निधि योजना की 23वीं किस्त जारी करेंगे। इस किस्त से 9.44 करोड़ से अधिक पात्र किसानों को लाभ मिलेगा। आज का दिन किसानों के लिए बेहद खास होने जा रहा है क्योंकि आज प्रधानमंत्री किसान सम्मान निधि योजना की 23वीं किस्त जारी होनी है। 9.44 करोड़ से अधिक पात्र किसानों को इस किस्त का लाभ आज मिलेगा।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "जिसे डिप्रेशन मान रहे हैं कहीं वो ओवेरियन कैंसर तो नहीं? डॉक्टर भी हो रहे हैं कंफ्यूज",
+      "url": "https://www.amarujala.com/lifestyle/fitness/latest-study-found-symptoms-of-ovarian-cancer-may-be-incorrectly-diagnosed-as-signs-of-depression-2026-06-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-20T07:18:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/cancer-depression_9408e46f4a411a727e2bb4f247c1e241.jpeg?w=750&dpr=1.0",
+      "summary": "ओवेरियन कैंसर के कई लक्षण डिप्रेशन जैसे दिखते हैं, जिससे डॉक्टरों को बीमारी का पता लगाने में देरी होती है। इस देरी से कैंसर शरीर में तेजी से फैल सकता है, जबकि मरीज मानसिक स्वास्थ्य उपचार की ओर बढ़ जाती है। ओवेरियन कैंसर से पीड़ित कई महिलाओं में ऐसे शारीरिक लक्षण दिखाई देते हैं जो डिप्रेशन जैसे लगते हैं। नतीजतन असली बीमारी की पहचान देर से होती है और मरीज मानसिक स्वास्थ्य के इलाज की ओर बढ़ जाती है, जबकि उसके शरीर में कैंसर तेजी से बढ़ रहा होता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जिसे डिप्रेशन मान रहे हैं कहीं वो ओवेरियन कैंसर तो नहीं? डॉक्टर भी हो रहे हैं कंफ्यूज",
+          "summary": "ओवेरियन कैंसर के कई लक्षण डिप्रेशन जैसे दिखते हैं, जिससे डॉक्टरों को बीमारी का पता लगाने में देरी होती है। इस देरी से कैंसर शरीर में तेजी से फैल सकता है, जबकि मरीज मानसिक स्वास्थ्य उपचार की ओर बढ़ जाती है। ओवेरियन कैंसर से पीड़ित कई महिलाओं में ऐसे शारीरिक लक्षण दिखाई देते हैं जो डिप्रेशन जैसे लगते हैं। नतीजतन असली बीमारी की पहचान देर से होती है और मरीज मानसिक स्वास्थ्य के इलाज की ओर बढ़ जाती है, जबकि उसके शरीर में कैंसर तेजी से बढ़ रहा होता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "Fathers Day 2026 Sweets For Dad: पापा का मुंह मीठा कराना है? बनाएं ये 5 शुगर-फ्री मिठाइयां",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/fathers-day-2026-sugar-free-sweets-for-dad-diabetic-friendly-desserts-recipes-2026-06-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-20T07:08:53+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/fathers-day-sweets-for-dad_ed2abf4e0c1b649bbb784a6fde553c10.jpeg?w=750&dpr=1.0",
+      "summary": "फादर्स डे 2026 पर पिता को खुश करने के लिए खजूर लड्डू, नारियल बर्फी, चिया पुडिंग, रागी खीर और ओट्स-अंजीर रोल जैसी पांच शुगर-फ्री मिठाइयां घर पर बनाएं। ये स्वस्थ विकल्प हैं। Sugar Free Sweets For Dad: फादर्स डे 2026 पर पापा के लिए 5 हेल्दी और शुगर-फ्री मिठाइयां बनाएं। खजूर लड्डू, नारियल बर्फी, चिया पुडिंग, रागी खीर और ओट्स-अंजीर रोल की आसान रेसिपी जानें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Fathers Day 2026 Sweets For Dad: पापा का मुंह मीठा कराना है? बनाएं ये 5 शुगर-फ्री मिठाइयां",
+          "summary": "फादर्स डे 2026 पर पिता को खुश करने के लिए खजूर लड्डू, नारियल बर्फी, चिया पुडिंग, रागी खीर और ओट्स-अंजीर रोल जैसी पांच शुगर-फ्री मिठाइयां घर पर बनाएं। ये स्वस्थ विकल्प हैं। Sugar Free Sweets For Dad: फादर्स डे 2026 पर पापा के लिए 5 हेल्दी और शुगर-फ्री मिठाइयां बनाएं। खजूर लड्डू, नारियल बर्फी, चिया पुडिंग, रागी खीर और ओट्स-अंजीर रोल की आसान रेसिपी जानें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आईटी प्रोफेशनल्स के लिए मौका, बैंक ऑफ बड़ौदा में वीपी और डीवीपी समेत कई पदों पर वैकेंसी",
+      "url": "https://www.amarujala.com/jobs/government-jobs/bank-of-baroda-recruitment-2026-opportunity-for-it-professionals-apply-for-various-vp-level-roles-2026-06-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-20T07:07:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/22/bank-of-baroda-bob-lbo-jobs_bad7b7e746254cfbd62fb98381f37f4b.jpeg?w=750&dpr=1.0",
+      "summary": "बैंक ऑफ बड़ौदा ने वाइस प्रेसिडेंट और डिप्टी वाइस प्रेसिडेंट सहित विभिन्न आईटी पदों के लिए भर्ती की घोषणा की है। यह बैंकिंग और आईटी क्षेत्र में करियर बनाने के इच्छुक पेशेवरों के लिए एक अवसर है। Bank of Baroda Recruitment 2026: बैंकिंग और आईटी सेक्टर में करियर बनाने वाले उम्मीदवारों के लिए अच्छी खबर है। बैंक ऑफ बड़ौदा ने वाइस प्रेसिडेंट और डिप्टी वाइस प्रेसिडेंट समेत विभिन्न आईटी पदों पर भर्ती के लिए आवेदन आमंत्रित किए हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईटी प्रोफेशनल्स के लिए मौका, बैंक ऑफ बड़ौदा में वीपी और डीवीपी समेत कई पदों पर वैकेंसी",
+          "summary": "बैंक ऑफ बड़ौदा ने वाइस प्रेसिडेंट और डिप्टी वाइस प्रेसिडेंट सहित विभिन्न आईटी पदों के लिए भर्ती की घोषणा की है। यह बैंकिंग और आईटी क्षेत्र में करियर बनाने के इच्छुक पेशेवरों के लिए एक अवसर है। Bank of Baroda Recruitment 2026: बैंकिंग और आईटी सेक्टर में करियर बनाने वाले उम्मीदवारों के लिए अच्छी खबर है। बैंक ऑफ बड़ौदा ने वाइस प्रेसिडेंट और डिप्टी वाइस प्रेसिडेंट समेत विभिन्न आईटी पदों पर भर्ती के लिए आवेदन आमंत्रित किए हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारत से खटपट तो फायदा लेने में जुटा चीन, तारिक रहमान-जिनपिंग से करेंगे 12 समझौते, क्या कर रहा",
+      "url": "https://hindi.news18.com/world/south-asia-tariq-rahman-to-sign-12-agreements-with-xi-jinping-bangladesh-doing-10587416.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-20T07:06:41+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Tariqh-Rahman-Xi-Jinping-2026-06-6df40a3377e55bbb66af8b0bdfdd3d9b-1200x800.jpg",
+      "summary": "भारत के साथ विवादों के बीच बांग्लादेश ने चीन के साथ संबंधों को प्राथमिकता दी है. बांग्लादेश की प्रधानमंत्री मलेशिया और चीन का दौरा कर रहे हैं. यह दौरा भारत के बजाय हो रहा है. चीन इस स्थिति का लाभ उठा रहा है. भारत-बांग्लादेश की मामूली खटपट का सीधा फायदा चीन उठा रहा है. बांग्लादेश की नई सरकार बांग्लादेश फर्स्ट यानी अपने देश के हितों को सबसे ऊपर रखने की नीति पर चल रही है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत से खटपट तो फायदा लेने में जुटा चीन, तारिक रहमान-जिनपिंग से करेंगे 12 समझौते, क्या कर रहा",
+          "summary": "भारत के साथ विवादों के बीच बांग्लादेश ने चीन के साथ संबंधों को प्राथमिकता दी है. बांग्लादेश की प्रधानमंत्री मलेशिया और चीन का दौरा कर रहे हैं. यह दौरा भारत के बजाय हो रहा है. चीन इस स्थिति का लाभ उठा रहा है. भारत-बांग्लादेश की मामूली खटपट का सीधा फायदा चीन उठा रहा है. बांग्लादेश की नई सरकार बांग्लादेश फर्स्ट यानी अपने देश के हितों को सबसे ऊपर रखने की नीति पर चल रही है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "27 जून को बीएससी नर्सिंग प्रवेश परीक्षा, जारी हुआ एडमिट कार्ड, ऐसे करें डाउनलोड",
+      "url": "https://www.amarujala.com/education/aiims-bsc-nursing-admit-card-2026-released-download-hall-ticket-for-june-27-exam-2026-06-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-20T07:03:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/25/bihar-board-result-laptop-using-topper-list_164df8290bd8c4971bd0ad548215b692.jpeg?w=750&dpr=1.0",
+      "summary": "अखिल भारतीय आयुर्विज्ञान संस्थान ने बीएससी नर्सिंग प्रवेश परीक्षा 2026 के लिए एडमिट कार्ड जारी कर दिए हैं. परीक्षा 27 जून 2026 को कंप्यूटर आधारित टेस्ट मोड में दो पालियों में आयोजित की जाएगी. उम्मीदवार आधिकारिक वेबसाइट से अपने हॉल टिकट डाउनलोड कर सकते हैं. AIIMS BSc Nursing: अखिल भारतीय आयुर्विज्ञान संस्थान ने बीएससी नर्सिंग प्रवेश परीक्षा 2026 का एडमिट कार्ड जारी कर दिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "27 जून को बीएससी नर्सिंग प्रवेश परीक्षा, जारी हुआ एडमिट कार्ड, ऐसे करें डाउनलोड",
+          "summary": "अखिल भारतीय आयुर्विज्ञान संस्थान ने बीएससी नर्सिंग प्रवेश परीक्षा 2026 के लिए एडमिट कार्ड जारी कर दिए हैं. परीक्षा 27 जून 2026 को कंप्यूटर आधारित टेस्ट मोड में दो पालियों में आयोजित की जाएगी. उम्मीदवार आधिकारिक वेबसाइट से अपने हॉल टिकट डाउनलोड कर सकते हैं. AIIMS BSc Nursing: अखिल भारतीय आयुर्विज्ञान संस्थान ने बीएससी नर्सिंग प्रवेश परीक्षा 2026 का एडमिट कार्ड जारी कर दिया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सीज़फायर के कुछ देर बाद ही इज़रायल ने किया उल्लंघन, लेबनान में की बमबारी",
+      "url": "https://www.patrika.com/world-news/israel-violates-another-ceasefire-bombs-lebanon-20682185",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-20T06:51:30+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/israel-intensifies-attacks-in-south-lebanon.webp",
+      "summary": "अमेरिका की मध्यस्थता में लेबनान और इज़राइल के बीच युद्धविराम पर सहमति बनने के कुछ ही समय बाद इज़राइल ने इसका उल्लंघन किया. इज़राइल ने दक्षिणी लेबनान में बमबारी जारी रखी. यह हमला हिज़्बुल्लाह के खिलाफ जारी सैन्य अभियान का हिस्सा था. लेबनान (Lebanon) के आतंकी संगठन हिज़बुल्लाह (Hezbollah) को खत्म करने के लिए इज़रायल (Israel) के हमले जारी हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीज़फायर के कुछ देर बाद ही इज़रायल ने किया उल्लंघन, लेबनान में की बमबारी",
+          "summary": "अमेरिका की मध्यस्थता में लेबनान और इज़राइल के बीच युद्धविराम पर सहमति बनने के कुछ ही समय बाद इज़राइल ने इसका उल्लंघन किया. इज़राइल ने दक्षिणी लेबनान में बमबारी जारी रखी. यह हमला हिज़्बुल्लाह के खिलाफ जारी सैन्य अभियान का हिस्सा था. लेबनान (Lebanon) के आतंकी संगठन हिज़बुल्लाह (Hezbollah) को खत्म करने के लिए इज़रायल (Israel) के हमले जारी हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "प्रधानमंत्री मोदी ओडिशा पहुंचे, 47,600 करोड़ रुपए की परियोजनाओं की देंगे सौगात",
+      "url": "https://www.amarujala.com/india-news/prime-minister-modi-and-the-president-visit-odisha-projects-worth-47-600-crore-update-2026-06-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-20T06:51:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/narathara-matha-parathhanamatara_bca22ed3e261c672db2bd1f0a12fbb03.jpeg?w=750&dpr=1.0",
+      "summary": "प्रधानमंत्री मोदी ओडिशा पहुंचे हैं. उन्होंने राज्य में 47,600 करोड़ रुपये की विभिन्न विकास परियोजनाओं का उद्घाटन किया. इन परियोजनाओं से राज्य के विकास को गति मिलने की उम्मीद है. प्रधानमंत्री मोदी ओडिशा पहुंचे, 47,600 करोड़ रुपए की परियोजनाओं की देंगे सौगात।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रधानमंत्री मोदी ओडिशा पहुंचे, 47,600 करोड़ रुपए की परियोजनाओं की देंगे सौगात",
+          "summary": "प्रधानमंत्री मोदी ओडिशा पहुंचे हैं. उन्होंने राज्य में 47,600 करोड़ रुपये की विभिन्न विकास परियोजनाओं का उद्घाटन किया. इन परियोजनाओं से राज्य के विकास को गति मिलने की उम्मीद है. प्रधानमंत्री मोदी ओडिशा पहुंचे, 47,600 करोड़ रुपए की परियोजनाओं की देंगे सौगात।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "महाराष्ट्रा में एकनाथ शिंदे ने खुद को बताया टाइगर और ये किसे बता दिया 'कुत्ता' ?",
+      "url": "https://www.amarujala.com/video/india-news/shiv-sena-split-eknath-shinde-calls-himself-a-tiger-in-maharashtra-and-whom-did-he-label-a-dog-2026-06-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-20T06:47:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/eknath-shinde_f59b7046a0aa98f0c5ee4e2179fb0673.jpeg?w=750&dpr=1.0",
+      "summary": "महाराष्ट्र की राजनीति में बयानबाजी तेज हो गई है. मुख्यमंत्री एकनाथ शिंदे ने खुद को 'टाइगर' बताया. उन्होंने किसी अन्य व्यक्ति को 'कुत्ता' कहकर संबोधित किया. यह बयान राजनीतिक हलकों में चर्चा का विषय बना हुआ है. महाराष्ट्र की राजनीति में एक बार फिर बयानबाजी तेज हो गई है। महाराष्ट्रा में एकनाथ शिंदे ने खुद को बताया टाइगर और ये किसे बता दिया 'कुत्ता'?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महाराष्ट्रा में एकनाथ शिंदे ने खुद को बताया टाइगर और ये किसे बता दिया 'कुत्ता' ?",
+          "summary": "महाराष्ट्र की राजनीति में बयानबाजी तेज हो गई है. मुख्यमंत्री एकनाथ शिंदे ने खुद को 'टाइगर' बताया. उन्होंने किसी अन्य व्यक्ति को 'कुत्ता' कहकर संबोधित किया. यह बयान राजनीतिक हलकों में चर्चा का विषय बना हुआ है. महाराष्ट्र की राजनीति में एक बार फिर बयानबाजी तेज हो गई है। महाराष्ट्रा में एकनाथ शिंदे ने खुद को बताया टाइगर और ये किसे बता दिया 'कुत्ता'?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "‘सलमान खान से दोस्ती नहीं’, गिप्पी ग्रेवाल ने कनाडा में घर पर हुई फायरिंग की घटना को किया याद",
+      "url": "https://www.amarujala.com/entertainment/gippy-grewal-recalls-firing-incident-at-his-canada-home-says-dont-even-have-close-friendship-with-salman-khan-2026-06-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-20T06:44:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/gapapa-garaval-oura-salmana-khana_60ca3883cd512a735e47d15f14f855ee.jpeg?w=750&dpr=1.0",
+      "summary": "गिप्पी ग्रेवाल ने कनाडा में अपने घर पर हुई फायरिंग की घटना को याद किया। उन्होंने कहा कि यह घटना सलमान खान से दोस्ती के कारण नहीं हुई। ग्रेवाल ने बताया कि यह घटना उनके काम से जुड़ी थी। जानिए सलमान खान को लेकर उन्होंने क्या कुछ कहा। ‘सलमान खान से दोस्ती नहीं’, गिप्पी ग्रेवाल ने कनाडा में घर पर हुई फायरिंग की घटना को किया याद।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘सलमान खान से दोस्ती नहीं’, गिप्पी ग्रेवाल ने कनाडा में घर पर हुई फायरिंग की घटना को किया याद",
+          "summary": "गिप्पी ग्रेवाल ने कनाडा में अपने घर पर हुई फायरिंग की घटना को याद किया। उन्होंने कहा कि यह घटना सलमान खान से दोस्ती के कारण नहीं हुई। ग्रेवाल ने बताया कि यह घटना उनके काम से जुड़ी थी। जानिए सलमान खान को लेकर उन्होंने क्या कुछ कहा। ‘सलमान खान से दोस्ती नहीं’, गिप्पी ग्रेवाल ने कनाडा में घर पर हुई फायरिंग की घटना को किया याद।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "घर में जमा प्लास्टिक पन्नियों से करें ये काम, पैसे भी बचेंगे और कचरा भी होगा कम",
+      "url": "https://www.amarujala.com/lifestyle/plastic-bag-reuse-ideas-in-hindi-home-hacks-recycling-tips-2026-06-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-20T06:37:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/plastic-bags-reuse-in-hindi_1325e608ae21093c6232c060b0c41faf.jpeg?w=750&dpr=1.0",
+      "summary": "फेंकी जाने वाली प्लास्टिक की थैलियों को फेंकने के बजाय 15 घरेलू कामों में इस्तेमाल किया जा सकता है। यह पैसे बचाने और कचरा कम करने का एक स्मार्ट तरीका है। इन थैलियों का पुन: उपयोग करने के लिए कई उपयोगी सुझाव दिए गए हैं। plastic bag reuse ideas: सब्जियों और किराने के सामान के साथ मिलने वाली प्लास्टिक थैलियों को फेंकने के बजाय 15 घरेलू कामों में इस्तेमाल करें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "घर में जमा प्लास्टिक पन्नियों से करें ये काम, पैसे भी बचेंगे और कचरा भी होगा कम",
+          "summary": "फेंकी जाने वाली प्लास्टिक की थैलियों को फेंकने के बजाय 15 घरेलू कामों में इस्तेमाल किया जा सकता है। यह पैसे बचाने और कचरा कम करने का एक स्मार्ट तरीका है। इन थैलियों का पुन: उपयोग करने के लिए कई उपयोगी सुझाव दिए गए हैं। plastic bag reuse ideas: सब्जियों और किराने के सामान के साथ मिलने वाली प्लास्टिक थैलियों को फेंकने के बजाय 15 घरेलू कामों में इस्तेमाल करें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लुक से लेकर पावर-कीमत तक कितनी अलग हैं ये दो दमदार बाइक्स, खरीदने से पहले जरूरी जान लें यह बातें",
+      "url": "https://www.amarujala.com/technology/mobile-apps/jawa-350-vs-yezdi-roadster-which-350cc-motorcycle-offers-better-value-2026-06-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-20T06:35:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/paratakatamaka-tasavara_395ac428ae8c61b3d1bf5a65b2a456e4.jpeg?w=750&dpr=1.0",
+      "summary": "जावा 350 और येज़्दी रोडस्टर दोनों 350cc सेगमेंट की दमदार बाइक्स हैं। खरीदने से पहले इनके लुक, पावर और कीमत की तुलना करना महत्वपूर्ण है। भारतीय बाजार में इस सेगमेंट की बाइक्स की मांग बढ़ रही है। Jawa 350 vs Yezdi Roadster: भारतीय बाजार में आजकल 350cc सेगमेंट की बाइक्स का क्रेज सिर चढ़कर बोल रहा है। अगर आप भी इस पावरफुल सेगमेंट बाइक की तलाश में हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लुक से लेकर पावर-कीमत तक कितनी अलग हैं ये दो दमदार बाइक्स, खरीदने से पहले जरूरी जान लें यह बातें",
+          "summary": "जावा 350 और येज़्दी रोडस्टर दोनों 350cc सेगमेंट की दमदार बाइक्स हैं। खरीदने से पहले इनके लुक, पावर और कीमत की तुलना करना महत्वपूर्ण है। भारतीय बाजार में इस सेगमेंट की बाइक्स की मांग बढ़ रही है। Jawa 350 vs Yezdi Roadster: भारतीय बाजार में आजकल 350cc सेगमेंट की बाइक्स का क्रेज सिर चढ़कर बोल रहा है। अगर आप भी इस पावरफुल सेगमेंट बाइक की तलाश में हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "स्विट्जरलैंड में मीटिंग टली, क्या बातचीत हो गई फेल? ईरान बोला- अमेरिका से नई तारीख हो रही तय",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-switzerland-talks-postponed-new-meeting-plan-10587377.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-20T06:33:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iran-25-2026-06-5b3c84560c3fa0b21915133a729f0201-1200x800.jpg",
+      "summary": "अमेरिका और ईरान के बीच स्विट्जरलैंड में होने वाली तकनीकी वार्ता टल गई है। ईरान के अनुसार, बैठक रद्द नहीं हुई है बल्कि नई तारीख तय करने के लिए मध्यस्थों के माध्यम से बातचीत चल रही है। अमेरिका और ईरान के बीच स्विट्जरलैंड में होने वाली पहली तकनीकी वार्ता फिलहाल टाल दी गई है. ईरान ने कहा है कि बैठक रद्द नहीं हुई, बल्कि नई तारीख तय करने के लिए मध्यस्थों के जरिए बातचीत चल रही है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्विट्जरलैंड में मीटिंग टली, क्या बातचीत हो गई फेल? ईरान बोला- अमेरिका से नई तारीख हो रही तय",
+          "summary": "अमेरिका और ईरान के बीच स्विट्जरलैंड में होने वाली तकनीकी वार्ता टल गई है। ईरान के अनुसार, बैठक रद्द नहीं हुई है बल्कि नई तारीख तय करने के लिए मध्यस्थों के माध्यम से बातचीत चल रही है। अमेरिका और ईरान के बीच स्विट्जरलैंड में होने वाली पहली तकनीकी वार्ता फिलहाल टाल दी गई है. ईरान ने कहा है कि बैठक रद्द नहीं हुई, बल्कि नई तारीख तय करने के लिए मध्यस्थों के जरिए बातचीत चल रही है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "नए आपराधिक कानूनों की समीक्षा कर रही सरकार, जांच एजेंसियों से मांगे गए सुझाव",
+      "url": "https://www.amarujala.com/india-news/centre-government-review-criminal-laws-after-mumbai-police-raise-serious-question-2026-06-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-20T06:29:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/criminal-laws_c44f66855544967747a144dc7817aa74.jpeg?w=750&dpr=1.0",
+      "summary": "सरकार नए आपराधिक कानूनों की समीक्षा कर रही है। इस संबंध में जांच एजेंसियों से सुझाव मांगे गए हैं। मुंबई पुलिस ने इन कानूनों पर गंभीर सवाल उठाए थे। नए आपराधिक कानूनों की समीक्षा कर रही सरकार, जांच एजेंसियों से मांगे गए सुझाव।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नए आपराधिक कानूनों की समीक्षा कर रही सरकार, जांच एजेंसियों से मांगे गए सुझाव",
+          "summary": "सरकार नए आपराधिक कानूनों की समीक्षा कर रही है। इस संबंध में जांच एजेंसियों से सुझाव मांगे गए हैं। मुंबई पुलिस ने इन कानूनों पर गंभीर सवाल उठाए थे। नए आपराधिक कानूनों की समीक्षा कर रही सरकार, जांच एजेंसियों से मांगे गए सुझाव।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "गंगा किनारे होगा देव दिवाली सा नजारा, भव्य एयर शो के साक्षी बनेंगे 20 लाख लोग",
+      "url": "https://www.amarujala.com/uttar-pradesh/varanasi/air-show-in-varanasi-spectacle-reminiscent-of-dev-deepawali-to-unfold-along-banks-of-ganga-2026-06-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-20T06:28:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/air-show-in-varanasi_e2e60b6ea69bd15de9b15d11790efe0a.jpeg?w=750&dpr=1.0",
+      "summary": "वाराणसी के अस्सी घाट पर देव दिवाली के अवसर पर 30,000 लोग जुटेंगे। अन्य घाटों पर भी 10,000 से 20,000 लोग मौजूद रहेंगे। इस आयोजन में भव्य हवाई शो का प्रदर्शन किया जाएगा। अस्सी घाट पर ही करीब 30 हजार लोगों की मौजूदगी रहेगी। हर घाट से पर 10-20 हजार लोगों की मौजूदगी रहेगी। गंगा किनारे होगा देव दिवाली सा नजारा, भव्य एयर शो के साक्षी बनेंगे 20 लाख लोग।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गंगा किनारे होगा देव दिवाली सा नजारा, भव्य एयर शो के साक्षी बनेंगे 20 लाख लोग",
+          "summary": "वाराणसी के अस्सी घाट पर देव दिवाली के अवसर पर 30,000 लोग जुटेंगे। अन्य घाटों पर भी 10,000 से 20,000 लोग मौजूद रहेंगे। इस आयोजन में भव्य हवाई शो का प्रदर्शन किया जाएगा। अस्सी घाट पर ही करीब 30 हजार लोगों की मौजूदगी रहेगी। हर घाट से पर 10-20 हजार लोगों की मौजूदगी रहेगी। गंगा किनारे होगा देव दिवाली सा नजारा, भव्य एयर शो के साक्षी बनेंगे 20 लाख लोग।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "भारत के खिलाफ सड़कों पर क्यों आए लोग? भीड़ ने फूंका अमित शाह का पुतला, उच्चायोग पर हमले की कोशिश",
+      "url": "https://www.amarujala.com/world/why-bangladesh-people-take-to-streets-against-india-mob-burns-amit-shahs-effigy-attempt-attack-high-commission-2026-06-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-20T06:27:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/bgalthasha-ma-bval_db078c1b96b37c05e7d9878b1729e523.jpeg?w=750&dpr=1.0",
+      "summary": "बांग्लादेश में भीड़ ने भारत के गृह मंत्री अमित शाह का पुतला फूंका। प्रदर्शनकारियों ने भारतीय उच्चायोग पर हमला करने का भी प्रयास किया। यह घटना भारत के खिलाफ सड़कों पर लोगों के उतरने के बाद हुई। Bangladesh: भारत के खिलाफ सड़कों पर क्यों आए लोग? भीड़ ने फूंका अमित शाह का पुतला, उच्चायोग पर हमले की कोशिश।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के खिलाफ सड़कों पर क्यों आए लोग? भीड़ ने फूंका अमित शाह का पुतला, उच्चायोग पर हमले की कोशिश",
+          "summary": "बांग्लादेश में भीड़ ने भारत के गृह मंत्री अमित शाह का पुतला फूंका। प्रदर्शनकारियों ने भारतीय उच्चायोग पर हमला करने का भी प्रयास किया। यह घटना भारत के खिलाफ सड़कों पर लोगों के उतरने के बाद हुई। Bangladesh: भारत के खिलाफ सड़कों पर क्यों आए लोग? भीड़ ने फूंका अमित शाह का पुतला, उच्चायोग पर हमले की कोशिश।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आधी रात को थाना पहुंचे तेज प्रताप यादव ने लगाया ब्लैकमेलिंग का आरोप; आकाश की मां और बहन सहित आठ",
+      "url": "https://www.amarujala.com/bihar/tej-pratap-yadav-fir-registered-against-akash-yadav-family-with-eight-people-bihar-police-bihar-news-2026-06-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-20T06:18:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/tej-pratap-yadav-fir-registered-against-akash-yadav-family-with-eight-people-bihar-police-bihar-new_b646d247e67c6ec4e904d53bbb09d4e6.jpeg?w=750&dpr=1.0",
+      "summary": "बिहार में तेज प्रताप यादव ने आठ लोगों के खिलाफ प्राथमिकी दर्ज कराने का आवेदन दिया है। उन्होंने अपने पूर्व सहयोगी, उसकी मां और बहन पर ब्लैकमेलिंग और मानहानि का आरोप लगाया है। Bihar: तेज प्रताप यादव एक बार फिर चर्चा में हैं। उन्होंने थाना में अपने पूर्व सहयोगी और उसके परिवार सहित कुल आठ लोगों को नामजद करते हुए प्राथमिकी दर्ज कराने के लिए लिखित आवेदन दिया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आधी रात को थाना पहुंचे तेज प्रताप यादव ने लगाया ब्लैकमेलिंग का आरोप; आकाश की मां और बहन सहित आठ",
+          "summary": "बिहार में तेज प्रताप यादव ने आठ लोगों के खिलाफ प्राथमिकी दर्ज कराने का आवेदन दिया है। उन्होंने अपने पूर्व सहयोगी, उसकी मां और बहन पर ब्लैकमेलिंग और मानहानि का आरोप लगाया है। Bihar: तेज प्रताप यादव एक बार फिर चर्चा में हैं। उन्होंने थाना में अपने पूर्व सहयोगी और उसके परिवार सहित कुल आठ लोगों को नामजद करते हुए प्राथमिकी दर्ज कराने के लिए लिखित आवेदन दिया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "अब आसमान में चलेगा ट्रंप का शाही दरबार, अमेरिका के नए Air Force One की पहली झलक आई सामने",
       "url": "https://hindi.news18.com/world/america-air-force-one-us-unveils-qatar-gifted-new-plane-flying-white-house-trump-10587115.html",
       "source": "News18 Hindi (World)",
@@ -328,7 +646,7 @@
     {
       "title": "'मैं बॉस हूं' वाले बयान पर ट्रंप की सफाई, बोले- मजाक कर रहा था, दुनिया ने गंभीरता से ले लिया",
       "url": "https://www.amarujala.com/world/donald-trump-on-viral-g7-summit-remark-says-i-was-trying-to-be-funny-not-the-boss-2026-06-20",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-06-20T05:27:29+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/ma-bsa-ha-val-byana-para-tarapa-na-taugdha-capapa_eec5cb13061ee2aff2cedeeb7ab12984.jpeg?w=750&dpr=1.0",
@@ -346,7 +664,7 @@
     {
       "title": "'भारत नहीं तो कौन करेगा मदद'? अस्पतालों में दवाएं खत्म, कैंसर मरीजों की जान पर संकट; फलस्तीन ने",
       "url": "https://www.amarujala.com/india-news/if-not-india-then-who-medicines-run-out-in-hospitals-palestine-ambassador-makes-appeal-for-medical-help-2026-06-20",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-06-20T05:27:20+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/falsatana-ma-madakal-imarajasa_1ea4f319b1ce957006df01ce0ed2395e.jpeg?w=750&dpr=1.0",
@@ -362,55 +680,37 @@
       }
     },
     {
-      "title": "एमी अवॉर्ड विजेता डायरेक्टर जेम्स बरोज का निधन; 85 साल की उम्र में दुनिया को कहा अलविदा",
-      "url": "https://www.amarujala.com/entertainment/emmy-winning-director-and-co-creator-of-the-iconic-sitcom-cheers-james-burrows-dies-2026-06-20",
-      "source": "Amar Ujala National",
+      "title": "बजने लगी चुनावी रणभेरी, चुनाव में अभी समय लेकिन यहां का सियासी इंजन फुल स्पीड पर; भाजपा की सबसे खास",
+      "url": "https://www.amarujala.com/uttar-pradesh/meerut/bjp-shifts-into-election-mode-in-meerut-campaign-machinery-gears-up-early-for-2027-assembly-polls-2026-06-20",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-20T05:24:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/jamasa-braja_d1684efae35d47aede2c98395ccef0ca.jpeg?w=750&dpr=1.0",
-      "summary": "एमी अवॉर्ड विजेता टेलीविजन निर्देशक और प्रतिष्ठित सिटकॉम 'चीयर्स' के सह-निर्माता जेम्स बरोज का James Burrows Dies: टेलीविजन निर्देशक और प्रतिष्ठित सिटकॉम 'चीयर्स' के सह-निर्माता जेम्स बरोज नहीं रहे। 85 वर्ष की आयु में उनका निधन हो गया है। एमी अवॉर्ड विजेता डायरेक्टर जेम्स बरोज का निधन; 85 साल की उम्र में दुनिया को कहा अलविदा।",
+      "published_at": "2026-06-20T05:26:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/bjp_10401eeabca93f1477dff739948d3b48.jpeg?w=750&dpr=1.0",
+      "summary": "भाजपा ने 2027 के विधानसभा चुनाव के लिए मेरठ में अपनी चुनावी मशीनरी सक्रिय कर दी है। पार्टी हमेशा चुनावी मोड में रहती है और चुनाव में अभी समय बाकी होने के बावजूद सक्रिय हो गई है। भाजपा के बारे में कहा जाता है कि वह हमेशा चुनावी मोड में रहती है। इसके तहत 2027 के विधानसभा चुनाव में अभी समय बाकी है लेकिन मेरठ में पार्टी ने अभी से अपनी चुनावी मशीनरी को सक्रिय कर दिया है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "एमी अवॉर्ड विजेता डायरेक्टर जेम्स बरोज का निधन; 85 साल की उम्र में दुनिया को कहा अलविदा",
-          "summary": "एमी अवॉर्ड विजेता टेलीविजन निर्देशक और प्रतिष्ठित सिटकॉम 'चीयर्स' के सह-निर्माता जेम्स बरोज का James Burrows Dies: टेलीविजन निर्देशक और प्रतिष्ठित सिटकॉम 'चीयर्स' के सह-निर्माता जेम्स बरोज नहीं रहे। 85 वर्ष की आयु में उनका निधन हो गया है। एमी अवॉर्ड विजेता डायरेक्टर जेम्स बरोज का निधन; 85 साल की उम्र में दुनिया को कहा अलविदा।",
+          "title": "बजने लगी चुनावी रणभेरी, चुनाव में अभी समय लेकिन यहां का सियासी इंजन फुल स्पीड पर; भाजपा की सबसे खास",
+          "summary": "भाजपा ने 2027 के विधानसभा चुनाव के लिए मेरठ में अपनी चुनावी मशीनरी सक्रिय कर दी है। पार्टी हमेशा चुनावी मोड में रहती है और चुनाव में अभी समय बाकी होने के बावजूद सक्रिय हो गई है। भाजपा के बारे में कहा जाता है कि वह हमेशा चुनावी मोड में रहती है। इसके तहत 2027 के विधानसभा चुनाव में अभी समय बाकी है लेकिन मेरठ में पार्टी ने अभी से अपनी चुनावी मशीनरी को सक्रिय कर दिया है।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "कुछ घंटों में जारी होगी 23वीं किस्त, जानें किसे मिलेंगे 2000 रुपये और किसे नहीं",
-      "url": "https://www.amarujala.com/live/utility/pm-kisan-yojana-23rd-installment-date-live-prime-minister-modi-to-release-pm-kisan-23-kist-kab-aayegi-2026-06-19",
-      "source": "Amar Ujala National",
+      "title": "फीफा विश्वकप में अनोखा रेड कार्ड: मुंह ढककर बोलने पर खिलाड़ी को भेजा गया बाहर, फिर मैदान पर मची",
+      "url": "https://www.amarujala.com/sports/football/fifa-world-cup-paraguay-s-miguel-almiron-sent-off-for-covering-mouth-while-speaking-var-sparks-controversy-2026-06-20",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-20T05:20:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/pm-kisan-yojana-live-update-paema-narathara-matha-aaja-paema-kasana-yajana-ka-23va-kasata-jara-karaga_5a4d5c7ed7ec1030561d1309a2da38bf.jpeg?w=750&dpr=1.0",
-      "summary": "प्रधानमंत्री मोदी आज प्रधानमंत्री किसान सम्मान निधि योजना की 23वीं किस्त जारी करेंगे। इस किस्त से 9.44 करोड़ से अधिक पात्र किसानों को लाभ मिलेगा। आज का दिन किसानों के लिए बेहद खास होने जा रहा है क्योंकि आज प्रधानमंत्री किसान सम्मान निधि योजना की 23वीं किस्त जारी होनी है। 9.44 करोड़ से अधिक पात्र किसानों को इस किस्त का लाभ आज मिलेगा।",
+      "published_at": "2026-06-20T05:14:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/fifa-world-cup-2026-miguel-almiron-red-card-paraguay-vs-turkiye-var-controversy-fifa-world-cup-c_bccedf24b7df6dddb9bf463c17764a59.jpeg?w=750&dpr=1.0",
+      "summary": "फीफा विश्वकप 2026 में पैराग्वे और तुर्किये के बीच मैच के दौरान एक खिलाड़ी को मुंह ढककर बोलने पर रेड कार्ड दिखाया गया। यह एक दुर्लभ और विवादास्पद घटना थी। फीफा विश्वकप 2026 में पैराग्वे और तुर्किये के बीच खेले गए मुकाबले में एक बेहद दुर्लभ और विवादास्पद घटना देखने को मिली। फीफा विश्वकप में अनोखा रेड कार्ड: मुंह ढककर बोलने पर खिलाड़ी को भेजा गया बाहर, फिर मैदान पर मची।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कुछ घंटों में जारी होगी 23वीं किस्त, जानें किसे मिलेंगे 2000 रुपये और किसे नहीं",
-          "summary": "प्रधानमंत्री मोदी आज प्रधानमंत्री किसान सम्मान निधि योजना की 23वीं किस्त जारी करेंगे। इस किस्त से 9.44 करोड़ से अधिक पात्र किसानों को लाभ मिलेगा। आज का दिन किसानों के लिए बेहद खास होने जा रहा है क्योंकि आज प्रधानमंत्री किसान सम्मान निधि योजना की 23वीं किस्त जारी होनी है। 9.44 करोड़ से अधिक पात्र किसानों को इस किस्त का लाभ आज मिलेगा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "केरल के ईसाई प्रार्थना स्थल में बच्चों का शोषण, जांच में चौंकाने वाली जानकारी आई सामने",
-      "url": "https://www.amarujala.com/india-news/cwc-investigation-reveals-child-abuse-at-christian-place-of-worship-in-kerala-shocking-details-emerge-2026-06-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-20T05:16:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/bl-kalyanae-samata_46cae74983b71710dfaf5d6ace974b6f.jpeg?w=750&dpr=1.0",
-      "summary": "केरल के एक ईसाई प्रार्थना स्थल में बच्चों के यौन शोषण की जांच में चौंकाने वाले खुलासे हुए हैं। बाल कल्याण समिति (CWC) की जांच में पता चला है कि प्रार्थना स्थल के भीतर बच्चों को शारीरिक और यौन उत्पीड़न का सामना करना पड़ा। यह घटना प्रार्थना स्थल के प्रबंधन और वहां रहने वाले बच्चों की सुरक्षा को लेकर गंभीर सवाल खड़े करती है। मामले की आगे की जांच जारी है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केरल के ईसाई प्रार्थना स्थल में बच्चों का शोषण, जांच में चौंकाने वाली जानकारी आई सामने",
-          "summary": "केरल के एक ईसाई प्रार्थना स्थल में बच्चों के यौन शोषण की जांच में चौंकाने वाले खुलासे हुए हैं। बाल कल्याण समिति (CWC) की जांच में पता चला है कि प्रार्थना स्थल के भीतर बच्चों को शारीरिक और यौन उत्पीड़न का सामना करना पड़ा। यह घटना प्रार्थना स्थल के प्रबंधन और वहां रहने वाले बच्चों की सुरक्षा को लेकर गंभीर सवाल खड़े करती है। मामले की आगे की जांच जारी है।",
+          "title": "फीफा विश्वकप में अनोखा रेड कार्ड: मुंह ढककर बोलने पर खिलाड़ी को भेजा गया बाहर, फिर मैदान पर मची",
+          "summary": "फीफा विश्वकप 2026 में पैराग्वे और तुर्किये के बीच मैच के दौरान एक खिलाड़ी को मुंह ढककर बोलने पर रेड कार्ड दिखाया गया। यह एक दुर्लभ और विवादास्पद घटना थी। फीफा विश्वकप 2026 में पैराग्वे और तुर्किये के बीच खेले गए मुकाबले में एक बेहद दुर्लभ और विवादास्पद घटना देखने को मिली। फीफा विश्वकप में अनोखा रेड कार्ड: मुंह ढककर बोलने पर खिलाड़ी को भेजा गया बाहर, फिर मैदान पर मची।",
           "region": "दुनिया"
         }
       }
@@ -430,330 +730,6 @@
           "title": "कौन हैं सिंगर परस्तू अहमदी? जिसे गाने के बदले मिली 74 कोड़ों की सजा, सरकार से क्यों है 36 का आंकड़ा",
           "summary": "ईरानी सिंगर परस्तू अहमदी को 74 कोड़ों की सजा मिली। Who is singer Parastoo Ahmadi: ईरान की चर्चित सिंगर परस्तू अहमदी इन दिनों दुनियभर की सुर्खियों में हैं. उन्हें बिना हिजाब गाना गाने और सरकारी नियमों का उल्लंघन करने के मामले में 74 कोड़ों की सजा सुनाई गई है. परस्तू लंबे समय से महिलाओं की आजादी, अभिव्यक्ति के अधिकार और अनिवार्य हिजाब कानून के खिलाफ मुखर रही हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान को राहत देने की तैयारी, मानवीय खर्च के लिए फ्रीज फंड जारी करने पर अमेरिका-कतर में मंथन",
-      "url": "https://www.patrika.com/world-news/us-working-with-qatar-to-unfreeze-funds-humanitarian-spending-in-iran-20682494",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-20T05:09:18+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/donald-trump-6.webp",
-      "summary": "अमेरिका और कतर ईरान के लिए फ्रीज फंड जारी करने पर मंथन कर रहे हैं। US Qatar on Iran funds: ईरान के लिए मानवीय सहायता संबंधी खर्चों के लिए अरबों डॉलर की फ्रीज संपत्तियों को जारी करने की योजना पर अमेरिका कतर के साथ मिलकर काम कर रहा है। यह दावा अमेरिकी समाचार पत्र वॉल स्ट्रीट जर्नल (WSJ) की एक रिपोर्ट में किया गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान को राहत देने की तैयारी, मानवीय खर्च के लिए फ्रीज फंड जारी करने पर अमेरिका-कतर में मंथन",
-          "summary": "अमेरिका और कतर ईरान के लिए फ्रीज फंड जारी करने पर मंथन कर रहे हैं। US Qatar on Iran funds: ईरान के लिए मानवीय सहायता संबंधी खर्चों के लिए अरबों डॉलर की फ्रीज संपत्तियों को जारी करने की योजना पर अमेरिका कतर के साथ मिलकर काम कर रहा है। यह दावा अमेरिकी समाचार पत्र वॉल स्ट्रीट जर्नल (WSJ) की एक रिपोर्ट में किया गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "एमसीडी के 200 छात्रों ने किया तारामंडल और पीएम म्यूजियम का भ्रमण, नए लर्निंग प्रोग्राम की शुरुआत",
-      "url": "https://www.amarujala.com/education/200-mcd-school-students-visit-planetarium-pm-museum-under-new-experiential-learning-programme-2026-06-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-20T05:04:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/22/student-demo-school-demo-classroom_2281bcfc16a3c58a4f24b9f19f8d8389.jpeg?w=750&dpr=1.0",
-      "summary": "एमसीडी के 200 छात्रों ने तारामंडल और पीएम म्यूजियम का भ्रमण किया। PM Museum Visit: छात्रों को कक्षा से बाहर व्यावहारिक शिक्षा का अनुभव देने के उद्देश्य से MCD के 200 विद्यार्थियों को नए 'एक्सपीरिएंशियल लर्निंग प्रोग्राम' के तहत तारामंडल और PM म्यूजियम का शैक्षणिक भ्रमण कराया गया। एमसीडी के 200 छात्रों ने किया तारामंडल और पीएम म्यूजियम का भ्रमण, नए लर्निंग प्रोग्राम की शुरुआत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एमसीडी के 200 छात्रों ने किया तारामंडल और पीएम म्यूजियम का भ्रमण, नए लर्निंग प्रोग्राम की शुरुआत",
-          "summary": "एमसीडी के 200 छात्रों ने तारामंडल और पीएम म्यूजियम का भ्रमण किया। PM Museum Visit: छात्रों को कक्षा से बाहर व्यावहारिक शिक्षा का अनुभव देने के उद्देश्य से MCD के 200 विद्यार्थियों को नए 'एक्सपीरिएंशियल लर्निंग प्रोग्राम' के तहत तारामंडल और PM म्यूजियम का शैक्षणिक भ्रमण कराया गया। एमसीडी के 200 छात्रों ने किया तारामंडल और पीएम म्यूजियम का भ्रमण, नए लर्निंग प्रोग्राम की शुरुआत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज से अमेरिकी नाकाबंदी हटते ही ईरान का नया फरमान; सिर्फ इन जहाजों की ही एंट्री",
-      "url": "https://www.amarujala.com/world/new-iranian-authority-charged-with-overseeing-strait-of-hormuz-asks-ships-to-register-form-first-2026-06-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-20T05:04:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/kasa-para-haga-haramaja_335533de03facfd727ec34b69b65ed7d.jpeg?w=750&dpr=1.0",
-      "summary": "होर्मुज से अमेरिकी नाकाबंदी हटते ही ईरान ने नए नियम लागू किए। पहले फॉर्म, फिर प्रवेश: होर्मुज से अमेरिकी नाकाबंदी हटते ही ईरान का नया फरमान; सिर्फ इन जहाजों की ही एंट्री।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज से अमेरिकी नाकाबंदी हटते ही ईरान का नया फरमान; सिर्फ इन जहाजों की ही एंट्री",
-          "summary": "होर्मुज से अमेरिकी नाकाबंदी हटते ही ईरान ने नए नियम लागू किए। पहले फॉर्म, फिर प्रवेश: होर्मुज से अमेरिकी नाकाबंदी हटते ही ईरान का नया फरमान; सिर्फ इन जहाजों की ही एंट्री।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "नीट से पहले एनटीए की बड़ी चूक? नागपुर के छात्र को अबू धाबी में मिला परीक्षा केंद्र",
-      "url": "https://www.amarujala.com/india-news/neet-re-exam-nagpur-student-assigned-exam-centre-in-abu-dhabi-day-before-re-test-questions-raised-nta-2026-06-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-20T04:58:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/nata-sa-pahal-enatae-ka-bugdha-caka_cf271aa37fc7f68c02c29cdbd8523a34.jpeg?w=750&dpr=1.0",
-      "summary": "नागपुर के एक छात्र को नीट परीक्षा के लिए अबू धाबी में परीक्षा केंद्र मिला। NEET Re-Exam: नीट से पहले एनटीए की बड़ी चूक? नागपुर के छात्र को अबू धाबी मे मिला सेंटर। नागपुर के छात्र को अबू धाबी में मिला परीक्षा केंद्र।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नीट से पहले एनटीए की बड़ी चूक? नागपुर के छात्र को अबू धाबी में मिला परीक्षा केंद्र",
-          "summary": "नागपुर के एक छात्र को नीट परीक्षा के लिए अबू धाबी में परीक्षा केंद्र मिला। NEET Re-Exam: नीट से पहले एनटीए की बड़ी चूक? नागपुर के छात्र को अबू धाबी मे मिला सेंटर। नागपुर के छात्र को अबू धाबी में मिला परीक्षा केंद्र।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'आए थे बताने, कोई मिला ही नहीं'; क्या अमिताभ बच्चन को सता रहा है कोई गम? क्रिप्टिक पोस्ट पर नेटिजंस",
-      "url": "https://www.amarujala.com/entertainment/amitabh-bachchan-shares-cryptic-post-on-social-media-netizens-says-is-some-sorrow-troubling-you-2026-06-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-20T04:57:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/11/amatabha-bcacana_614b82079a711afba69bc359e0ea0101.jpeg?w=750&dpr=1.0",
-      "summary": "अमिताभ बच्चन ने एक क्रिप्टिक पोस्ट किया जिस पर नेटिजंस चर्चा कर रहे हैं। Amitabh Bachchan Post: बॉलीवुड के शहंशाह अमिताभ बच्चन अपने सोशल मीडिया पोस्ट को लेकर अक्सर सुर्खियां बटोरते हैं। फिलहाल उनके एक ट्वीट पर चर्चा छिड़ गई है। 'आए थे बताने, कोई मिला ही नहीं'; क्या अमिताभ बच्चन को सता रहा है कोई गम? क्रिप्टिक पोस्ट पर नेटिजंस।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'आए थे बताने, कोई मिला ही नहीं'; क्या अमिताभ बच्चन को सता रहा है कोई गम? क्रिप्टिक पोस्ट पर नेटिजंस",
-          "summary": "अमिताभ बच्चन ने एक क्रिप्टिक पोस्ट किया जिस पर नेटिजंस चर्चा कर रहे हैं। Amitabh Bachchan Post: बॉलीवुड के शहंशाह अमिताभ बच्चन अपने सोशल मीडिया पोस्ट को लेकर अक्सर सुर्खियां बटोरते हैं। फिलहाल उनके एक ट्वीट पर चर्चा छिड़ गई है। 'आए थे बताने, कोई मिला ही नहीं'; क्या अमिताभ बच्चन को सता रहा है कोई गम? क्रिप्टिक पोस्ट पर नेटिजंस।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हिमालय से समुद्र तक, पश्चिम बंगाल की ये 5 जगहें बना देंगी आपकी ट्रिप यादगार",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/travel/paschim-banga-divas-best-places-to-visit-in-west-bengal-day-travel-guide-in-hindi-2026-06-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-20T04:55:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/west-bengal-tourist-places_bbfff73acbd2dbe81b23b63978c5e717.jpeg?w=750&dpr=1.0",
-      "summary": "पश्चिम बंगाल में दार्जिलिंग और सुंदरबन जैसी जगहें पर्यटन के लिए प्रसिद्ध हैं। Pashchim Banga Divas: जानिए पश्चिम बंगाल की सबसे खूबसूरत पर्यटन जगहों के बारे में। दार्जिलिंग, सुंदरबन, कोलकाता, दीघा और शांतिनिकेतन की यात्रा क्यों है खास? हिमालय से समुद्र तक, पश्चिम बंगाल की ये 5 जगहें बना देंगी आपकी ट्रिप यादगार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिमालय से समुद्र तक, पश्चिम बंगाल की ये 5 जगहें बना देंगी आपकी ट्रिप यादगार",
-          "summary": "पश्चिम बंगाल में दार्जिलिंग और सुंदरबन जैसी जगहें पर्यटन के लिए प्रसिद्ध हैं। Pashchim Banga Divas: जानिए पश्चिम बंगाल की सबसे खूबसूरत पर्यटन जगहों के बारे में। दार्जिलिंग, सुंदरबन, कोलकाता, दीघा और शांतिनिकेतन की यात्रा क्यों है खास? हिमालय से समुद्र तक, पश्चिम बंगाल की ये 5 जगहें बना देंगी आपकी ट्रिप यादगार।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जीकप पॉलिटेक्निक प्रवेश परीक्षा के नतीजे घोषित, 99.99% अभ्यर्थी काउंसलिंग के लिए हुए पात्र",
-      "url": "https://www.amarujala.com/education/up-polytechnic-result-2026-released-download-jeecup-rank-card-and-scorecard-now-2026-06-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-20T04:35:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/25/bihar-board-result-laptop-using-topper-list_164df8290bd8c4971bd0ad548215b692.jpeg?w=750&dpr=1.0",
-      "summary": "उत्तर प्रदेश ने पॉलिटेक्निक प्रवेश परीक्षा 2026 का परिणाम जारी किया है। UP Polytechnic Result 2026: संयुक्त प्रवेश परीक्षा परिषद, उत्तर प्रदेश ने पॉलिटेक्निक प्रवेश परीक्षा 2026 का परिणाम जारी कर दिया है। परीक्षा में शामिल अभ्यर्थी अब आधिकारिक वेबसाइट पर जाकर अपना रैंक कार्ड और स्कोरकार्ड डाउनलोड कर सकते हैं। जीकप पॉलिटेक्निक प्रवेश परीक्षा के नतीजे घोषित, 99.99% अभ्यर्थी काउंसलिंग के लिए हुए पात्र।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जीकप पॉलिटेक्निक प्रवेश परीक्षा के नतीजे घोषित, 99.99% अभ्यर्थी काउंसलिंग के लिए हुए पात्र",
-          "summary": "उत्तर प्रदेश ने पॉलिटेक्निक प्रवेश परीक्षा 2026 का परिणाम जारी किया है। UP Polytechnic Result 2026: संयुक्त प्रवेश परीक्षा परिषद, उत्तर प्रदेश ने पॉलिटेक्निक प्रवेश परीक्षा 2026 का परिणाम जारी कर दिया है। परीक्षा में शामिल अभ्यर्थी अब आधिकारिक वेबसाइट पर जाकर अपना रैंक कार्ड और स्कोरकार्ड डाउनलोड कर सकते हैं। जीकप पॉलिटेक्निक प्रवेश परीक्षा के नतीजे घोषित, 99.99% अभ्यर्थी काउंसलिंग के लिए हुए पात्र।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सिंधु जल संधि बहाल करने पर बिलावल भुट्टो ने पाकिस्तान से दी भारत को धमकी",
-      "url": "https://www.amarujala.com/video/india-news/indus-waters-treaty-bilawal-bhutto-threatens-india-from-pakistan-over-the-indus-waters-treaty-2026-06-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-20T04:35:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/indus-water-treaty_4d8049ac1a9af8a8cc8fa4881ec17f5f.jpeg?w=750&dpr=1.0",
-      "summary": "बिलावल भुट्टो ने पाकिस्तान को सिंधु जल संधि बहाल करने के लिए भारत को धमकी दी। सिंधु जल संधि को लेकर एक बार फिर भारत और पाकिस्तान के बीच बयानबाजी तेज हो गई है। सिंधु जल संधि बहाल करने पर बिलावल भुट्टो ने पाकिस्तान से दी भारत को धमकी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंधु जल संधि बहाल करने पर बिलावल भुट्टो ने पाकिस्तान से दी भारत को धमकी",
-          "summary": "बिलावल भुट्टो ने पाकिस्तान को सिंधु जल संधि बहाल करने के लिए भारत को धमकी दी। सिंधु जल संधि को लेकर एक बार फिर भारत और पाकिस्तान के बीच बयानबाजी तेज हो गई है। सिंधु जल संधि बहाल करने पर बिलावल भुट्टो ने पाकिस्तान से दी भारत को धमकी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'तूने मारा है, मेरा नाम मत लेना, अब नहीं बचोगे, सामने आई प्रेमी से बेटे का कत्ल कराने वाली मां की",
-      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/meerut/meerut-murder-case-gurpreet-in-contact-with-her-lover-arpit-before-and-after-her-son-murder-police-arrested-2026-06-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-20T04:35:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/meerut-murder-case_51827fc09960321629a697a7f15bb230.jpeg?w=750&dpr=1.0",
-      "summary": "मेरठ में एक मां को अपने बेटे की हत्या की साजिश में गिरफ्तार किया गया है। मेरठ के बहसूमा थाना इलाके के रामराज से छह साल के मासूम अंगदवीर की अपहरण कर हत्या की साजिश में शुक्रवार को उसकी मां गुरप्रीत कौर को भी गिरफ्तार कर लिया गया। गुरप्रीत वारदात के पहले और बाद में अपने प्रेमी मुख्य आरोपी अर्पित पाराशर के संपर्क में थी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'तूने मारा है, मेरा नाम मत लेना, अब नहीं बचोगे, सामने आई प्रेमी से बेटे का कत्ल कराने वाली मां की",
-          "summary": "मेरठ में एक मां को अपने बेटे की हत्या की साजिश में गिरफ्तार किया गया है। मेरठ के बहसूमा थाना इलाके के रामराज से छह साल के मासूम अंगदवीर की अपहरण कर हत्या की साजिश में शुक्रवार को उसकी मां गुरप्रीत कौर को भी गिरफ्तार कर लिया गया। गुरप्रीत वारदात के पहले और बाद में अपने प्रेमी मुख्य आरोपी अर्पित पाराशर के संपर्क में थी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप के बयान के बाद इटली का सख्त कदम, आखिर दो दक्षिणपंथी नेताओं के बीच क्यों आ गई इतनी",
-      "url": "https://www.patrika.com/world-news/reason-for-rift-between-us-president-donald-trump-and-italian-pm-giorgia-meloni-20682492",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-20T04:28:59+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Giorgia-Meloni-and-donald-trump.webp",
-      "summary": "डोनाल्ड ट्रंप ने इटली के प्रधानमंत्री जॉर्जिया मेलोनी के बारे में विवादित बयान दिया। Trump-Meloni: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने विवादित बयान दिया है। अमेरिकी राष्ट्रपति ट्रंप ने इटली के टीवी चैनल La7 संग इंटरव्यू के दौरान कहा कि प्रधानमंत्री जॉर्जिया मेलोनी G7 शिखर सम्मेलन के दौरान उनके साथ फोटो खिंचवाने के लिए बेताब थी, लेकिन मैं उनके साथ फोटो नहीं खिंचवाना चाहता था।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप के बयान के बाद इटली का सख्त कदम, आखिर दो दक्षिणपंथी नेताओं के बीच क्यों आ गई इतनी",
-          "summary": "डोनाल्ड ट्रंप ने इटली के प्रधानमंत्री जॉर्जिया मेलोनी के बारे में विवादित बयान दिया। Trump-Meloni: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने विवादित बयान दिया है। अमेरिकी राष्ट्रपति ट्रंप ने इटली के टीवी चैनल La7 संग इंटरव्यू के दौरान कहा कि प्रधानमंत्री जॉर्जिया मेलोनी G7 शिखर सम्मेलन के दौरान उनके साथ फोटो खिंचवाने के लिए बेताब थी, लेकिन मैं उनके साथ फोटो नहीं खिंचवाना चाहता था।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "देश की राजधानी में मानसून की रफ्तार धीमी, तमिलनाडु के पांच जिलों में भारी बारिश और तेज हवाओं का",
-      "url": "https://www.amarujala.com/india-news/monsoon-pace-slows-in-the-national-capital-alert-issued-for-heavy-rain-and-strong-winds-in-tamil-nadu-2026-06-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-20T04:27:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/17/masama-apadata-sakataka-tasavara_2938ba4068d2610febec8fdb8412b85a.jpeg?w=750&dpr=1.0",
-      "summary": "देश की राजधानी में मानसून की रफ्तार धीमी हो गई। देश की राजधानी में मानसून की रफ्तार धीमी, तमिलनाडु के पांच जिलों में भारी बारिश और तेज हवाओं का।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "देश की राजधानी में मानसून की रफ्तार धीमी, तमिलनाडु के पांच जिलों में भारी बारिश और तेज हवाओं का",
-          "summary": "देश की राजधानी में मानसून की रफ्तार धीमी हो गई। देश की राजधानी में मानसून की रफ्तार धीमी, तमिलनाडु के पांच जिलों में भारी बारिश और तेज हवाओं का।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "इस साल फादर्स डे कब है? जानिए इसकी शुरुआत की भावुक कहानी",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fathers-day-kab-hai-2026-date-history-origin-story-in-hindi-2026-06-18",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-20T04:25:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/18/fathers-day-2026-kab-hai_7fcf997722bd2bbee37f349af25e7aef.jpeg?w=750&dpr=1.0",
-      "summary": "फादर्स डे भारत में 21 जून को मनाया जाएगा। जानिए फादर्स डे की शुरुआत किसने की, पहली बार कब मनाया गया और अपने पिता के सम्मान में एक बेटी ने क्यों शुरू की यह परंपरा। इस साल फादर्स डे कब है? जानिए इसकी शुरुआत की भावुक कहानी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस साल फादर्स डे कब है? जानिए इसकी शुरुआत की भावुक कहानी",
-          "summary": "फादर्स डे भारत में 21 जून को मनाया जाएगा। जानिए फादर्स डे की शुरुआत किसने की, पहली बार कब मनाया गया और अपने पिता के सम्मान में एक बेटी ने क्यों शुरू की यह परंपरा। इस साल फादर्स डे कब है? जानिए इसकी शुरुआत की भावुक कहानी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "इजरायल-अमेरिका का ब्रेकअप! अब डोनाल्‍ड ट्रंप के लिए ईरान-गल्‍फ क्‍यों हो गया अहम? भारत के दोनों हाथ",
-      "url": "https://hindi.news18.com/world/middle-east-america-historcal-shift-towards-israel-iran-gulf-region-become-more-important-how-india-on-advantage-10586901.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T04:20:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/trump-netanyahu-1-2026-06-38745d43e9e112624ca104af48cac291-1200x800.jpg",
-      "summary": "अमेरिका और ईरान के बीच शांति समझौते के बाद मध्य पूर्व में स्थिति बदल गई है। अमेरिकी राष्ट्रपति ट्रंप के लिए अब खाड़ी क्षेत्र में शांति अधिक महत्वपूर्ण हो गई है। इजरायल के प्रति अमेरिका का रुख पहले जैसा नहीं रहा। Israel-America-Middle East News: अमेरिका और इजरायल ने जब ईरान पर हमला शुरू किया था, तब किसी को अंदाजा नहीं था कि इसका परिणाम क्‍या होगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इजरायल-अमेरिका का ब्रेकअप! अब डोनाल्‍ड ट्रंप के लिए ईरान-गल्‍फ क्‍यों हो गया अहम? भारत के दोनों हाथ",
-          "summary": "अमेरिका और ईरान के बीच शांति समझौते के बाद मध्य पूर्व में स्थिति बदल गई है। अमेरिकी राष्ट्रपति ट्रंप के लिए अब खाड़ी क्षेत्र में शांति अधिक महत्वपूर्ण हो गई है। इजरायल के प्रति अमेरिका का रुख पहले जैसा नहीं रहा। Israel-America-Middle East News: अमेरिका और इजरायल ने जब ईरान पर हमला शुरू किया था, तब किसी को अंदाजा नहीं था कि इसका परिणाम क्‍या होगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सात साल बाद फिर खुला कैलाश मानसरोवर का रास्ता: आज नाथू ला से रवाना होगा पहला जत्था",
-      "url": "https://www.amarujala.com/india-news/kailash-mansarovar-yatra-reopens-after-seven-years-first-batch-to-depart-from-nathu-la-today-2026-06-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-20T04:20:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/16/kailash-mansarovar-yatra_a8d2ebb4e3491a0a615c5ad12ff38843.jpeg?w=750&dpr=1.0",
-      "summary": "सात साल बाद कैलाश मानसरोवर का रास्ता फिर से खुल गया। सात साल बाद फिर खुला कैलाश मानसरोवर का रास्ता: आज नाथू ला से रवाना होगा पहला जत्था।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सात साल बाद फिर खुला कैलाश मानसरोवर का रास्ता: आज नाथू ला से रवाना होगा पहला जत्था",
-          "summary": "सात साल बाद कैलाश मानसरोवर का रास्ता फिर से खुल गया। सात साल बाद फिर खुला कैलाश मानसरोवर का रास्ता: आज नाथू ला से रवाना होगा पहला जत्था।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फैजल खान को मिली राहत, अंतरिम संरक्षण अगली तारीख तक बढ़ा; विरोधी ने जेल में हमले की साजिश का लगाया",
-      "url": "https://www.amarujala.com/bihar/faizal-khan-sir-interim-protection-extended-until-next-hearing-patna-bihar-news-khan-sir-news-update-khan-news-2026-06-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-20T04:02:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/20/faizal-khan-sir-interim-protection-extended-until-next-hearing-patna-bihar-news-khan-sir-news-update_dfb59a07f7a61009b46728eee24b65ff.jpeg?w=750&dpr=1.0",
-      "summary": "फैजल खान को अदालत से अंतरिम संरक्षण मिला है। Bihar: फैजल खान उर्फ खान सर को अदालत से बड़ी राहत मिली है। कोर्ट के इस फैसले के बाद अगली तारीख तक फैजल खान की गिरफ्तारी पर रोक बरकरार रहेगी। इस खबर से रौशन आनंद सर के लोगों को निराश किया है। फैजल खान को मिली राहत, अंतरिम संरक्षण अगली तारीख तक बढ़ा; विरोधी ने जेल में हमले की साजिश का लगाया।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फैजल खान को मिली राहत, अंतरिम संरक्षण अगली तारीख तक बढ़ा; विरोधी ने जेल में हमले की साजिश का लगाया",
-          "summary": "फैजल खान को अदालत से अंतरिम संरक्षण मिला है। Bihar: फैजल खान उर्फ खान सर को अदालत से बड़ी राहत मिली है। कोर्ट के इस फैसले के बाद अगली तारीख तक फैजल खान की गिरफ्तारी पर रोक बरकरार रहेगी। इस खबर से रौशन आनंद सर के लोगों को निराश किया है। फैजल खान को मिली राहत, अंतरिम संरक्षण अगली तारीख तक बढ़ा; विरोधी ने जेल में हमले की साजिश का लगाया।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "गरीबी में पिता ने काटे दिन, मौत के बाद बच्चों ने खोला लोहे का बक्सा, अंदर था ₹6000000, फादर्स डे से",
-      "url": "https://hindi.news18.com/world/south-asia-thailand-old-treasure-father-saved-rs-60-lakh-in-metal-box-family-discovered-after-death-10586555.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T03:51:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/thailand-old-treasure-father-saved-rs-60-lakh-in-metal-box-family-discovered-after-death-2026-06-e084ddab5115b7bb7ec6ae77fc87a45b-1200x800.jpg",
-      "summary": "थाईलैंड के 78 साल के किसान की मौत के बाद परिवार ने उनका पुराना लोहे का बक्सा खोला, जिसमें करीब 18.4 लाख बाट यानी लगभग 60 लाख रुपए नकद और सोने की चेन मिली। परिवार को यह रकम अंतिम संस्कार के खर्च के लिए चिंतित थी। Thailand Old Treasure Discovered: थाईलैंड के 78 साल के किसान इन सैंडोंग के निधन के बाद परिवार ने उनका पुराना लोहे का बक्सा खोला.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गरीबी में पिता ने काटे दिन, मौत के बाद बच्चों ने खोला लोहे का बक्सा, अंदर था ₹6000000, फादर्स डे से",
-          "summary": "थाईलैंड के 78 साल के किसान की मौत के बाद परिवार ने उनका पुराना लोहे का बक्सा खोला, जिसमें करीब 18.4 लाख बाट यानी लगभग 60 लाख रुपए नकद और सोने की चेन मिली। परिवार को यह रकम अंतिम संस्कार के खर्च के लिए चिंतित थी। Thailand Old Treasure Discovered: थाईलैंड के 78 साल के किसान इन सैंडोंग के निधन के बाद परिवार ने उनका पुराना लोहे का बक्सा खोला.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान को 100 अरब डॉलर लौटाने की तैयारी? कतर के साथ ट्रंप कर रहे डील, क्या खुलने वाली है खजाने की",
-      "url": "https://hindi.news18.com/world/middle-east-iran-frozen-assets-us-qatar-plan-to-release-6-billion-dollar-humanitarian-funds-deal-10586971.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T03:45:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iran-news-19-2026-06-9e2e0c7d7597267cff4fecdf6876b6db-1200x800.jpg",
-      "summary": "अमेरिका और कतर ईरान की विदेशों में फंसे डॉलर तक सीमित एक्सेस देने के प्लान पर काम कर रहे हैं, शुरुआत कतर में जमा 6 अरब डॉलर से हो सकती है। ईरान इस रकम से दवाइयां, खाद्य सामग्री और अन्य मानवीय जरूरतों का सामान खरीद सकेगा। अमेरिका और ईरान के बीच डील हो चुकी है. इस बीच अब अमेरिका और कतर ईरान की विदेशों में फंसे डॉलर तक सीमित एक्सेस देने के प्लान पर काम कर रहे हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान को 100 अरब डॉलर लौटाने की तैयारी? कतर के साथ ट्रंप कर रहे डील, क्या खुलने वाली है खजाने की",
-          "summary": "अमेरिका और कतर ईरान की विदेशों में फंसे डॉलर तक सीमित एक्सेस देने के प्लान पर काम कर रहे हैं, शुरुआत कतर में जमा 6 अरब डॉलर से हो सकती है। ईरान इस रकम से दवाइयां, खाद्य सामग्री और अन्य मानवीय जरूरतों का सामान खरीद सकेगा। अमेरिका और ईरान के बीच डील हो चुकी है. इस बीच अब अमेरिका और कतर ईरान की विदेशों में फंसे डॉलर तक सीमित एक्सेस देने के प्लान पर काम कर रहे हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘पीएम नरेंद्र मोदी से पहले 6 महीने-1 साल के लिए सत्ता में थे लोग’ बयान पर घिरे डोनाल्ड ट्रंप, सोशल",
-      "url": "https://www.patrika.com/world-news/donald-trump-praises-pm-narendra-modi-again-calls-indian-prime-minister-very-tough-20682220",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-20T03:40:20+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/pm-modi-meets-trump-at-g7.webp",
-      "summary": "डोनाल्ड ट्रंप ने पीएम नरेंद्र मोदी की तारीफ की है। ट्रंप कई मौकों पर पीएम मोदी की तारीफ कर चुके हैं। हाल ही में फ्रांस में हुए G7 शिखर सम्मेलन 2026 में दोनों लीडर्स के बीच करीब 16 महीने बाद मुलाकात हुई और दोनों ने द्विपक्षीय मीटिंग भी की। अब अमेरिकी राष्ट्रपति ने एक बार फिर। डोनाल्ड ट्रंप ने फिर की पीएम नरेंद्र मोदी की तारीफ, भारत-अमेरिका संबंधों को फिर से मज़बूत करने की।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘पीएम नरेंद्र मोदी से पहले 6 महीने-1 साल के लिए सत्ता में थे लोग’ बयान पर घिरे डोनाल्ड ट्रंप, सोशल",
-          "summary": "डोनाल्ड ट्रंप ने पीएम नरेंद्र मोदी की तारीफ की है। ट्रंप कई मौकों पर पीएम मोदी की तारीफ कर चुके हैं। हाल ही में फ्रांस में हुए G7 शिखर सम्मेलन 2026 में दोनों लीडर्स के बीच करीब 16 महीने बाद मुलाकात हुई और दोनों ने द्विपक्षीय मीटिंग भी की। अब अमेरिकी राष्ट्रपति ने एक बार फिर। डोनाल्ड ट्रंप ने फिर की पीएम नरेंद्र मोदी की तारीफ, भारत-अमेरिका संबंधों को फिर से मज़बूत करने की।",
-          "region": "यूरोप और रूस"
         }
       }
     }
