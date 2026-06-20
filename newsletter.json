@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-06-20T10:54:26.452789+00:00",
-  "article_count": 47,
-  "total_unique_count": 249,
+  "generated_at": "2026-06-20T11:42:32.250991+00:00",
+  "article_count": 50,
+  "total_unique_count": 277,
   "digest": {
-    "en": "Ukraine's war continues to dominate, with Russian gas disruptions hitting Europe. Separately, tensions between Israel and Iran are escalating in the Middle East. Asia-Pacific developments include China's influence in Bangladesh and a name change within the Pentagon.",
-    "hi": "ईरान-अमेरिका सौदे पर डोनाल्ड ट्रंप की टिप्पणियों ने मध्य पूर्व में तनाव बढ़ा दिया है। पाकिस्तान में विस्फोट और बोलीविया में आपातकाल ने क्षेत्रीय अस्थिरता को उजागर किया है।"
+    "en": "Myanmar's military consolidation and Armenia's election campaigns dominate headlines. The EU's budget for global turmoil and gas shortages in Russia also command attention. These stories highlight ongoing conflicts and shifting geopolitical alliances.",
+    "hi": "ईरान में एक गायिका को हिजाब के बिना गाने के लिए कोड़े मारे गए और दो साल के लिए प्रदर्शन पर प्रतिबंध लगा दिया गया। बोलीविया में आर्थिक संकट के कारण राष्ट्रपति ने आपातकाल की घोषणा की।"
   },
   "articles": [
+    {
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Myanmar's military leader Min Aung Hlaing has transitioned from commander-in-chief to president. This follows a coup five years ago that removed an elected civilian government. Foreign governments are advised to calibrate their interactions with Naypyitaw. This is to avoid granting undue legitimacy to the current administration. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenia will hold its general election on 7 June. Foreign policy issues dominate the campaign. Voters are focused on the country's relations with Russia and Turkey. They are also concerned about the ongoing conflict with Azerbaijan. The election results could significantly alter Armenia's geopolitical alignment. Armenians will head to the polls on 7 June for the country’s first general election since 2021.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Djibouti occupies a strategic location on the Bab el-Mandeb strait. This position has made it a hub for foreign military bases. The country hosts facilities for the United States, China, France, Japan, and others. These bases reflect Djibouti's role in regional security and global trade routes. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan is mediating proposals to end the U. S.-Iran war. The conflict began on 28 February with U. S. and Israeli bombings of Iran. Islamabad sees significant risks in this role. However, Pakistan believes the stakes are high enough to continue its mediation efforts. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's upcoming seven-year budget may jeopardize funding for conflict prevention The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "For One 21-Year-Old New Zealander, War In Ukraine Means A Chance To 'Fight For Freedom'",
       "url": "https://www.rferl.org/a/new-zealand-volunteer-ukraine-military/33783528.html",
@@ -248,28 +308,76 @@
       "translations": {}
     },
     {
-      "title": "From camel coats to guochao: Max Mara woos China’s luxury brand consumers",
-      "url": "https://www.theguardian.com/fashion/2026/jun/16/max-mara-woos-china-luxury-brand-consumers",
-      "source": "The Guardian",
+      "title": "ईरानी सिंगर को 74 कोड़ों की सजा, हिजाब के बिना गाना पड़ा भारी, 2 साल तक गाने पर पाबंदी",
+      "url": "https://hindi.news18.com/world/middle-east-iran-singer-parastoo-ahmadi-74-lashes-hijab-youtube-concert-10588359.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-16T17:15:13+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/c75afcaf4c595903195656c47c69afa3cc398d17/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=286feb9d8c38131240487ab91eb10334",
-      "summary": "Max Mara celebrated its 75th anniversary with a catwalk show in Shanghai. The event paid tribute to Chinese style, reflecting the city's dynamic energy. Designer Ian Griffiths noted Shanghai's constant motion as a reason for the location choice. The brand aims to connect with China's luxury consumers. Fashion house pays tribute to Chinese style with its 75th anniversary catwalk show in Shanghai“New York may be the city that never sleeps, but Shanghai doesn’t even sit down.” For the British designer Ian Griffiths, who encountered this line in the New Yorker, it summed up why China’s biggest city was the right place to celebrate Max Mara’s 75th anniversary.“Max Mara is a product for metropolitan.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-20T11:24:59+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iran-news-20-2026-06-4e6d851e42e85cc854acc2dbafc1e326-1200x800.jpg",
+      "summary": "ईरान की गायिका परस्तू अहमदी और उनकी टीम के आठ सदस्यों को 2024 में हिजाब के Iranian Singer News: ईरान की मशहूर गायिका परस्तू अहमदी और उनकी टीम के आठ सदस्यों को 2024 में बिना हिजाब ऑनलाइन कॉन्सर्ट करने के मामले में 74 कोड़ों की सजा सुनाई गई है. अदालत ने उन पर दो साल तक देश छोड़ने और किसी भी तरह की कलात्मक गतिविधि करने पर भी रोक लगा दी है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरानी सिंगर को 74 कोड़ों की सजा, हिजाब के बिना गाना पड़ा भारी, 2 साल तक गाने पर पाबंदी",
+          "summary": "ईरान की गायिका परस्तू अहमदी और उनकी टीम के आठ सदस्यों को 2024 में हिजाब के Iranian Singer News: ईरान की मशहूर गायिका परस्तू अहमदी और उनकी टीम के आठ सदस्यों को 2024 में बिना हिजाब ऑनलाइन कॉन्सर्ट करने के मामले में 74 कोड़ों की सजा सुनाई गई है. अदालत ने उन पर दो साल तक देश छोड़ने और किसी भी तरह की कलात्मक गतिविधि करने पर भी रोक लगा दी है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Fujitsu chair resigns after ‘woman-related inappropriate conduct’",
-      "url": "https://www.theguardian.com/business/2026/jun/16/fujitsu-chair-resigns-hidenori-furuta-technology-company",
-      "source": "The Guardian",
+      "title": "खजाने से भरा पड़ा है ये देश, फिर भी दाने-दाने को तड़प रहे नागरिक, अब किसानों-मजदूरों ने ‘जनता को",
+      "url": "https://hindi.news18.com/world/rest-of-world-bolivia-crisis-president-rodrigo-paz-declares-state-of-emergency-50-day-fuel-blockade-paralyzes-the-nation-farmer-labours-protest-10588140.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-16T13:18:25+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/04e74637bec67a000ca4782ac832e6a3839156e6/545_0_2467_1974/master/2467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74eab27c86777750df17fb5342652d3c",
-      "summary": "Fujitsu chair Hidenori Furuta resigned after the company's board learned of his \"woman-related inappropriate conduct.\" The Japanese technology firm is currently negotiating a settlement with the UK government over faulty software used in the Post Office IT scandal. Furuta's departure follows a period of intense scrutiny for Fujitsu. Japanese technology company at centre of Post Office IT scandal is negotiating settlement with UK government over faulty softwareBusiness live – latest updatesThe chair of Fujitsu, the Japanese technology firm at the centre of the Post Office IT scandal, has resigned after its board became aware of his “woman-related inappropriate conduct”. The company said on Tuesday that Hidenori Furuta had stepp.",
+      "published_at": "2026-06-20T11:08:13+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Bolivia-Crisis-2026-06-881040daefafdc07048940809e9338a1-1200x800.jpg",
+      "summary": "दक्षिण अमेरिकी देश बोलिविया गंभीर आर्थिक और राजनीतिक संकट से जूझ रहा है। दक्षिण अमेरिकी देश बोलिविया इस वक्त लिथियम और प्राकृतिक गैस जैसे बेशकीमती खजाने पर बैठने के बावजूद इतिहास के सबसे खौफनाक आर्थिक और राजनीतिक संकट से गुजर रहा है. यहां लगातार 50 दिनों से जारी हिंसक विरोध प्रदर्शनों, देशव्यापी चक्काजाम और 40 साल की रिकॉर्ड तोड़ महंगाई के बीच राष्ट्रपति रोड्रिगो पाज़ ने पूरे देश में आपातकाल (का ऐलान कर दिया है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खजाने से भरा पड़ा है ये देश, फिर भी दाने-दाने को तड़प रहे नागरिक, अब किसानों-मजदूरों ने ‘जनता को",
+          "summary": "दक्षिण अमेरिकी देश बोलिविया गंभीर आर्थिक और राजनीतिक संकट से जूझ रहा है। दक्षिण अमेरिकी देश बोलिविया इस वक्त लिथियम और प्राकृतिक गैस जैसे बेशकीमती खजाने पर बैठने के बावजूद इतिहास के सबसे खौफनाक आर्थिक और राजनीतिक संकट से गुजर रहा है. यहां लगातार 50 दिनों से जारी हिंसक विरोध प्रदर्शनों, देशव्यापी चक्काजाम और 40 साल की रिकॉर्ड तोड़ महंगाई के बीच राष्ट्रपति रोड्रिगो पाज़ ने पूरे देश में आपातकाल (का ऐलान कर दिया है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "'हम फिर वहीं पहुंच गए, जहां शुरू किया था' ट्रंप की ईरान डील पर ओबामा का हमला, बोले- हालात पहले से",
+      "url": "https://hindi.news18.com/world/america-barack-obama-slams-trump-iran-deal-jcpoa-war-10588205.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-20T11:00:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/obama-1-2026-06-4c18718ee579d561b82f60b3d33a135a-1200x800.jpg",
+      "summary": "अमेरिका के पूर्व राष्ट्रपति बराक ओबामा ने डोनाल्ड ट्रंप की ईरान नीति की आलोचना की। अमेरिका के पूर्व राष्ट्रपति बराक ओबामा ने डोनाल्ड ट्रंप की ईरान नीति पर तीखा हमला बोला है. ओबामा ने कहा कि युद्ध में भारी नुकसान उठाने के बावजूद अमेरिका वहीं पहुंच गया है, जहां से सब शुरू हुआ था. उन्होंने दावा किया कि 2015 का परमाणु समझौता बेहतर था और ट्रंप के उससे बाहर निकलने के बाद ही ईरान ने अपनी परमाणु क्षमता बढ़ाई.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'हम फिर वहीं पहुंच गए, जहां शुरू किया था' ट्रंप की ईरान डील पर ओबामा का हमला, बोले- हालात पहले से",
+          "summary": "अमेरिका के पूर्व राष्ट्रपति बराक ओबामा ने डोनाल्ड ट्रंप की ईरान नीति की आलोचना की। अमेरिका के पूर्व राष्ट्रपति बराक ओबामा ने डोनाल्ड ट्रंप की ईरान नीति पर तीखा हमला बोला है. ओबामा ने कहा कि युद्ध में भारी नुकसान उठाने के बावजूद अमेरिका वहीं पहुंच गया है, जहां से सब शुरू हुआ था. उन्होंने दावा किया कि 2015 का परमाणु समझौता बेहतर था और ट्रंप के उससे बाहर निकलने के बाद ही ईरान ने अपनी परमाणु क्षमता बढ़ाई.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बोलीविया में आर्थिक संकट गहराया, राष्ट्रपति रोड्रिगो पाज़ ने आपातकाल लगाया",
+      "url": "https://www.patrika.com/world-news/bolivia-president-rodrigo-paz-declares-a-state-of-emergency-20683147",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-20T10:56:04+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Rodrigo-Paz.webp",
+      "summary": "बोलीविया के राष्ट्रपति रोड्रिगो पाज़ ने शनिवार को देश में आपातकाल की घोषणा की। यह कदम पिछले 50 दिनों से चल रहे विरोध प्रदर्शनों के कारण अर्थव्यवस्था के ठप पड़ने के बाद उठाया गया। आपातकाल लागू होने से सेना को बड़े पैमाने पर तैनात कर व्यवस्था बहाल करने की शक्ति मिल गई है। Bolivia economy halt: बोलीविया में शनिवार को संकट तब और गहरा गया, जब राष्ट्रपति रोड्रिगो पाज़ ने आपातकाल की घोषणा की।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बोलीविया में आर्थिक संकट गहराया, राष्ट्रपति रोड्रिगो पाज़ ने आपातकाल लगाया",
+          "summary": "बोलीविया के राष्ट्रपति रोड्रिगो पाज़ ने शनिवार को देश में आपातकाल की घोषणा की। यह कदम पिछले 50 दिनों से चल रहे विरोध प्रदर्शनों के कारण अर्थव्यवस्था के ठप पड़ने के बाद उठाया गया। आपातकाल लागू होने से सेना को बड़े पैमाने पर तैनात कर व्यवस्था बहाल करने की शक्ति मिल गई है। Bolivia economy halt: बोलीविया में शनिवार को संकट तब और गहरा गया, जब राष्ट्रपति रोड्रिगो पाज़ ने आपातकाल की घोषणा की।",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
       "title": "'मैं मजाक कर रहा था...' डोनाल्ड ट्रंप ने 'आई एम द बॉस' वाले कमेंट पर दी सफाई",
@@ -358,24 +466,6 @@
           "title": "सनातन धर्म परिसर विवाद, हिंदू समुदाय सड़कों पर, निकाला मशाल जुलूस",
           "summary": "बांग्लादेश के गाइबांधा में सनातन धर्म परिसर के निर्माण कार्य रुकने के बाद हिंदू समुदाय सड़कों पर उतर आया। बांग्लादेश के गाइबांधा स्थित हिंदू धार्मिक परिसर के समर्थन में हिंदू समुदाय सड़कों पर उतर आया. विभिन्न स्थानों पर मशाल जुलूस निकाले गए और 'जय श्री राम' के नारे लगाए गए. यह विरोध प्रदर्शन परिसर का निर्माण कार्य रुकने और उससे जुड़े विवादों के बीच सामने आया है.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बोलीविया में आर्थिक संकट गहराया, राष्ट्रपति रोड्रिगो पाज़ ने आपातकाल लगाया",
-      "url": "https://www.patrika.com/world-news/bolivia-president-rodrigo-paz-declares-a-state-of-emergency-20683147",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-20T08:28:22+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Rodrigo-Paz.webp",
-      "summary": "बोलीविया के राष्ट्रपति रोड्रिगो पाज़ ने शनिवार को देश में आपातकाल की घोषणा की। यह कदम पिछले 50 दिनों से चल रहे विरोध प्रदर्शनों के कारण अर्थव्यवस्था के ठप पड़ने के बाद उठाया गया। आपातकाल लागू होने से सेना को बड़े पैमाने पर तैनात कर व्यवस्था बहाल करने की शक्ति मिल गई है। Bolivia economy halt: बोलीविया में शनिवार को संकट तब और गहरा गया, जब राष्ट्रपति रोड्रिगो पाज़ ने आपातकाल की घोषणा की।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बोलीविया में आर्थिक संकट गहराया, राष्ट्रपति रोड्रिगो पाज़ ने आपातकाल लगाया",
-          "summary": "बोलीविया के राष्ट्रपति रोड्रिगो पाज़ ने शनिवार को देश में आपातकाल की घोषणा की। यह कदम पिछले 50 दिनों से चल रहे विरोध प्रदर्शनों के कारण अर्थव्यवस्था के ठप पड़ने के बाद उठाया गया। आपातकाल लागू होने से सेना को बड़े पैमाने पर तैनात कर व्यवस्था बहाल करने की शक्ति मिल गई है। Bolivia economy halt: बोलीविया में शनिवार को संकट तब और गहरा गया, जब राष्ट्रपति रोड्रिगो पाज़ ने आपातकाल की घोषणा की।",
-          "region": "अमेरिका"
         }
       }
     },
@@ -596,24 +686,6 @@
       }
     },
     {
-      "title": "कौन हैं सिंगर परस्तू अहमदी? जिसे गाने के बदले मिली 74 कोड़ों की सजा, सरकार से क्यों है 36 का आंकड़ा",
-      "url": "https://hindi.news18.com/photogallery/entertainment/viral-social-who-is-singer-29-year-old-parastoo-ahmadi-sentenced-to-74-lashes-with-8-others-for-singing-why-is-she-at-loggerheads-with-irani-government-10587100.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T05:10:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Parastoo-Ahmadi-1-2026-06-951d0e9f85a252380da51def7ea121bd-1200x800.jpg",
-      "summary": "ईरानी सिंगर परस्तू अहमदी को 74 कोड़ों की सजा मिली। Who is singer Parastoo Ahmadi: ईरान की चर्चित सिंगर परस्तू अहमदी इन दिनों दुनियभर की सुर्खियों में हैं. उन्हें बिना हिजाब गाना गाने और सरकारी नियमों का उल्लंघन करने के मामले में 74 कोड़ों की सजा सुनाई गई है. परस्तू लंबे समय से महिलाओं की आजादी, अभिव्यक्ति के अधिकार और अनिवार्य हिजाब कानून के खिलाफ मुखर रही हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कौन हैं सिंगर परस्तू अहमदी? जिसे गाने के बदले मिली 74 कोड़ों की सजा, सरकार से क्यों है 36 का आंकड़ा",
-          "summary": "ईरानी सिंगर परस्तू अहमदी को 74 कोड़ों की सजा मिली। Who is singer Parastoo Ahmadi: ईरान की चर्चित सिंगर परस्तू अहमदी इन दिनों दुनियभर की सुर्खियों में हैं. उन्हें बिना हिजाब गाना गाने और सरकारी नियमों का उल्लंघन करने के मामले में 74 कोड़ों की सजा सुनाई गई है. परस्तू लंबे समय से महिलाओं की आजादी, अभिव्यक्ति के अधिकार और अनिवार्य हिजाब कानून के खिलाफ मुखर रही हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "ईरान को राहत देने की तैयारी, मानवीय खर्च के लिए फ्रीज फंड जारी करने पर अमेरिका-कतर में मंथन",
       "url": "https://www.patrika.com/world-news/us-working-with-qatar-to-unfreeze-funds-humanitarian-spending-in-iran-20682494",
       "source": "Patrika (World)",
@@ -664,42 +736,6 @@
           "title": "डोनाल्ड ट्रंप के बयान के बाद इटली का सख्त कदम, आखिर दो दक्षिणपंथी नेताओं के बीच क्यों आ गई इतनी",
           "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इटली की प्रधानमंत्री जॉर्जिया मेलोनी के बारे में एक बयान दिया. उन्होंने कहा कि मेलोनी जी7 शिखर सम्मेलन में उनके साथ फोटो खिंचवाने के लिए बेताब थीं, लेकिन वह नहीं चाहते थे. Trump-Meloni: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने विवादित बयान दिया है। अमेरिकी राष्ट्रपति ट्रंप ने इटली के टीवी चैनल La7 संग इंटरव्यू के दौरान कहा कि प्रधानमंत्री जॉर्जिया मेलोनी G7 शिखर सम्मेलन के दौरान उनके साथ फोटो खिंचवाने के लिए बेताब थी, लेकिन मैं उनके साथ फोटो नहीं खिंचवाना चाहता था।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "गरीबी में पिता ने काटे दिन, मौत के बाद बच्चों ने खोला लोहे का बक्सा, अंदर था ₹6000000, फादर्स डे से",
-      "url": "https://hindi.news18.com/world/south-asia-thailand-old-treasure-father-saved-rs-60-lakh-in-metal-box-family-discovered-after-death-10586555.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T03:51:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/thailand-old-treasure-father-saved-rs-60-lakh-in-metal-box-family-discovered-after-death-2026-06-e084ddab5115b7bb7ec6ae77fc87a45b-1200x800.jpg",
-      "summary": "थाईलैंड में एक किसान की मृत्यु के बाद, परिवार ने उसका लोहे का बक्सा खोला. उसमें 60 लाख रुपये नकद और सोने की चेन मिली, जिससे अंतिम संस्कार का खर्च निकल आया. Thailand Old Treasure Discovered: थाईलैंड के 78 साल के किसान इन सैंडोंग के निधन के बाद परिवार ने उनका पुराना लोहे का बक्सा खोला. अंदर करीब 18.4 लाख बाट यानी लगभग 60 लाख रुपए नकद और सोने की चेन मिली.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गरीबी में पिता ने काटे दिन, मौत के बाद बच्चों ने खोला लोहे का बक्सा, अंदर था ₹6000000, फादर्स डे से",
-          "summary": "थाईलैंड में एक किसान की मृत्यु के बाद, परिवार ने उसका लोहे का बक्सा खोला. उसमें 60 लाख रुपये नकद और सोने की चेन मिली, जिससे अंतिम संस्कार का खर्च निकल आया. Thailand Old Treasure Discovered: थाईलैंड के 78 साल के किसान इन सैंडोंग के निधन के बाद परिवार ने उनका पुराना लोहे का बक्सा खोला. अंदर करीब 18.4 लाख बाट यानी लगभग 60 लाख रुपए नकद और सोने की चेन मिली.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान को 100 अरब डॉलर लौटाने की तैयारी? कतर के साथ ट्रंप कर रहे डील, क्या खुलने वाली है खजाने की",
-      "url": "https://hindi.news18.com/world/middle-east-iran-frozen-assets-us-qatar-plan-to-release-6-billion-dollar-humanitarian-funds-deal-10586971.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-20T03:45:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iran-news-19-2026-06-9e2e0c7d7597267cff4fecdf6876b6db-1200x800.jpg",
-      "summary": "अमेरिका और कतर ईरान को उसके विदेशी फंड तक सीमित पहुंच देने की योजना बना रहे हैं. शुरुआत कतर में जमा 6 अरब डॉलर से हो सकती है, जिसका उपयोग केवल मानवीय जरूरतों के लिए किया जाएगा. अमेरिका और ईरान के बीच डील हो चुकी है. इस बीच अब अमेरिका और कतर ईरान की विदेशों में फंसे डॉलर तक सीमित एक्सेस देने के प्लान पर काम कर रहे हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान को 100 अरब डॉलर लौटाने की तैयारी? कतर के साथ ट्रंप कर रहे डील, क्या खुलने वाली है खजाने की",
-          "summary": "अमेरिका और कतर ईरान को उसके विदेशी फंड तक सीमित पहुंच देने की योजना बना रहे हैं. शुरुआत कतर में जमा 6 अरब डॉलर से हो सकती है, जिसका उपयोग केवल मानवीय जरूरतों के लिए किया जाएगा. अमेरिका और ईरान के बीच डील हो चुकी है. इस बीच अब अमेरिका और कतर ईरान की विदेशों में फंसे डॉलर तक सीमित एक्सेस देने के प्लान पर काम कर रहे हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
