@@ -1,72 +1,12 @@
 {
-  "generated_at": "2026-06-21T19:35:54.263833+00:00",
-  "article_count": 50,
-  "total_unique_count": 275,
+  "generated_at": "2026-06-21T20:37:36.645380+00:00",
+  "article_count": 49,
+  "total_unique_count": 267,
   "digest": {
-    "en": "Myanmar's military consolidation dominates the headlines. Armenia's election and Djibouti's prime real estate are also in focus. Ukraine's humanitarian crisis persists.",
-    "hi": "ईरान ने बेल्जियम के खिलाफ गोल दागा। मेहदी ने 25वें मिनट में शुरुआती बढ़त दिलाई। तेहरान से संबंधों पर वेंस ने बयान दिया।"
+    "en": "Ukraine's humanitarian crisis persists despite battlefield shifts. Taliban restrictions in Afghanistan are deepening. Iran and US talks are underway in Switzerland.",
+    "hi": "आज कोर्ट में राम मंदिर चढ़ावा चोरी का मामला सुनवाई के लिए तैयार है। सीबीआई से जांच पर भी निर्णय हो सकता है। उद्धव गुट को शिंदे गुट ने दोहरा झटका दिया।"
   },
   "articles": [
-    {
-      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
-      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Wednesday, June 3, 2026 - 00:00",
-      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Myanmar's military leader Min Aung Hlaing transitioned from commander-in-chief to president after staged elections. Foreign governments should calibrate interactions with Naypyitaw to avoid legitimizing the administration. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
-      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Tuesday, June 2, 2026 - 16:33",
-      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Armenia will hold its first general election since 2021 on June 7. Foreign policy has dominated the campaign, raising questions about Yerevan's future external relations. Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Tiny Djibouti, and Its Prime Real Estate",
-      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 15:42",
-      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Djibouti's history, politics, and navigation of turmoil in the Horn of Africa and Red Sea are discussed. The nation seeks to manage shifting alliances in the region. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
-      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 10:18",
-      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Pakistan began conveying proposals to end the U. S.-Iran war after bombings started on February 28. Islamabad perceives high stakes, undertaking the mediator role despite inherent risks. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
-      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Friday, June 5, 2026 - 10:38",
-      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The European Union's next seven-year budget may reduce spending on conflict prevention and aid to fragile states. Experts discuss the potential consequences of these funding plans. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
     {
       "title": "Ukraine's battlefield shift has not solved its humanitarian crisis, IRC says",
       "url": "https://www.thehindu.com/news/international/ukraines-battlefield-shift-has-not-solved-its-humanitarian-crisis-irc-says/article71130165.ece",
@@ -308,22 +248,52 @@
       "translations": {}
     },
     {
-      "title": "बेल्जियम के खिलाफ ईरान ने दागा गोल, 25वें मिनट में मेहदी ने दिलाई शुरुआती बढ़त",
-      "url": "https://www.amarujala.com/live/sports/football/spain-vs-saudi-arabia-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-21",
-      "source": "Amar Ujala National",
+      "title": "Repair Crews Start Emergency Work To Save War-Damaged Kyiv Cathedral",
+      "url": "https://www.rferl.org/a/ukraine-cathedral-monastery-damaged-air-strikes/33783975.html",
+      "source": "Radio Free Europe / Liberty",
       "sources": [],
-      "published_at": "2026-06-22T07:27:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/12/fafa-vashava-kapa-2026_3cd85909c928e7db58b5246fca35970f.jpeg?w=750&dpr=1.0",
-      "summary": "फीफा विश्व कप 2026 क्वालीफायर में बेल्जियम के खिलाफ ईरान ने 25वें मिनट में गोल किया। मेहदी ने ईरान के लिए शुरुआती बढ़त हासिल की। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। बेल्जियम के खिलाफ ईरान ने दागा गोल, 25वें मिनट में मेहदी ने दिलाई शुरुआती बढ़त।",
+      "published_at": "2026-06-18T17:42:42+00:00",
+      "image_url": "https://gdb.rferl.org/10d6c131-a20e-4761-13e3-08decd1d5d42_w1200_h630.jpg",
+      "summary": "Emergency repairs have begun on the Kyiv Pechersk Lavra monastery's Transfiguration Cathedral. The UNESCO World Heritage site sustained damage during an overnight attack on June 15. Priceless artifacts were moved to safety. Experts are concerned that soot and moisture still threaten other historic items within the cathedral. Ukrainian workers are conducting emergency repairs to a historic cathedral, part of a UNESCO-protected monastery, which was damaged in an overnight attack on June 15.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-18T16:15:31+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/ba383a58506057d986fed82219e906a7fa9da91a/547_27_2302_1841/master/2302.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc2905f77f6695d38dca18127aff15f3",
+      "summary": "A South African court sentenced Dawie Groenewald and Tielman Erasmus ‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrestTwo traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, partly bringing to an end an almost two-decade legal saga. Dawie Groenewald and Tielman Erasmus had faced more than 1,700 charges ranging from illegally hunting and de.",
       "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बेल्जियम के खिलाफ ईरान ने दागा गोल, 25वें मिनट में मेहदी ने दिलाई शुरुआती बढ़त",
-          "summary": "फीफा विश्व कप 2026 क्वालीफायर में बेल्जियम के खिलाफ ईरान ने 25वें मिनट में गोल किया। मेहदी ने ईरान के लिए शुरुआती बढ़त हासिल की। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। बेल्जियम के खिलाफ ईरान ने दागा गोल, 25वें मिनट में मेहदी ने दिलाई शुरुआती बढ़त।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
+      "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-17T22:30:46+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/5bb4dc955e7fd24ee4a2072b7f5ee960eda51ddb/0_267_4346_3477/master/4346.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7999fe2667344049a64bf7c5f9f616de",
+      "summary": "Commercialisation of cannabis, not decriminalisation, drives up usage and psychosis rates. A review of countries where cannabis is sold commercially found an increase in users and mental health problems. Strict regulation or decriminalisation of possession did not show similar effects. The study analysed changes in cannabis markets and their public health impacts. Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially Decriminalising the possession of cannabis or strictly regulating access to the drug do not appear to drive up usage, but when the drug is sold commercially the number of users increases and more mental health problems are seen, a review has found. An international team analysed the dramatic shift i.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "From camel coats to guochao: Max Mara woos China’s luxury brand consumers",
+      "url": "https://www.theguardian.com/fashion/2026/jun/16/max-mara-woos-china-luxury-brand-consumers",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-16T17:15:13+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/c75afcaf4c595903195656c47c69afa3cc398d17/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=286feb9d8c38131240487ab91eb10334",
+      "summary": "Max Mara celebrated its 75th anniversary with a catwalk show in Shanghai. The event paid tribute to Chinese style, reflecting the city's dynamic energy. Designer Ian Griffiths noted Shanghai's constant motion as a key reason for choosing it. The brand aims to connect with China's luxury consumers. Fashion house pays tribute to Chinese style with its 75th anniversary catwalk show in Shanghai“New York may be the city that never sleeps, but Shanghai doesn’t even sit down.” For the British designer Ian Griffiths, who encountered this line in the New Yorker, it summed up why China’s biggest city was the right place to celebrate Max Mara’s 75th anniversary.“Max Mara is a product for metropolitan.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
     },
     {
       "title": "कोर्ट पहुंचा राम मंदिर चढ़ावा चोरी का मामला, आज हो सकती है सुनवाई; सीबीआई से जांच पर भी होगा निर्णय",
@@ -368,13 +338,13 @@
       "sources": [],
       "published_at": "2026-06-22T06:54:12+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/operation-tiger-in-final-stage_a55a831e5220d662f1899b8acd010b59.jpeg?w=750&dpr=1.0",
-      "summary": "उद्धव ठाकरे गुट के दो सांसदों ने एकनाथ शिंदे गुट का दामन थाम लिया। यह उद्धव गुट के लिए एक दिन में दूसरा झटका है। 'Operation Tiger' In Final Stage: उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन, एक दिन में लगा दोहरा झटका!",
+      "summary": "उद्धव ठाकरे गुट के दो सांसदों ने एकनाथ शिंदे गुट का दामन थाम लिया। यह उद्धव गुट के लिए एक दिन में दूसरा झटका है। 'Operation Tiger' In Final Stage: उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन, एक दिन में लगा दोहरा झटका! 'Operation Tiger' In Final Stage: उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन, एक दिन में लगा दोहरा झटका!",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन,एक दिन में लगा दोहरा झटका!",
-          "summary": "उद्धव ठाकरे गुट के दो सांसदों ने एकनाथ शिंदे गुट का दामन थाम लिया। यह उद्धव गुट के लिए एक दिन में दूसरा झटका है। 'Operation Tiger' In Final Stage: उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन, एक दिन में लगा दोहरा झटका!",
+          "summary": "उद्धव ठाकरे गुट के दो सांसदों ने एकनाथ शिंदे गुट का दामन थाम लिया। यह उद्धव गुट के लिए एक दिन में दूसरा झटका है। 'Operation Tiger' In Final Stage: उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन, एक दिन में लगा दोहरा झटका! 'Operation Tiger' In Final Stage: उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन, एक दिन में लगा दोहरा झटका!",
           "region": "दुनिया"
         }
       }
@@ -382,7 +352,7 @@
     {
       "title": "युवा स्टार लैमिन यमल ने खोला खाता, ओयार्जबल ने जड़ा डबल; स्पेन ने सऊदी अरब को धोया",
       "url": "https://www.amarujala.com/sports/football/fifa-world-cup-2026-spain-vs-saudi-arabia-highlights-today-football-match-result-key-moments-photos-2026-06-22",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-06-22T06:52:27+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/sapana-na-sauutha-arab-ka-haraya_969a0da0862ab5637b5414df8555d999.jpeg?w=750&dpr=1.0",
@@ -416,6 +386,132 @@
       }
     },
     {
+      "title": "खालिस्तान-गैंगस्टर गठजोड़ के नाम पर मांगी 10 करोड़ की रगंदारी, अपराध शाखा ने पंजाब से तीन को दबोचा",
+      "url": "https://www.amarujala.com/delhi/delhi-10-crore-extortion-demanded-in-the-name-of-the-khalistan-gangster-nexus-2026-06-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-21T20:30:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/1_753d649791c100129f045c08fe9c57e3.jpeg?w=750&dpr=1.0",
+      "summary": "अपराध शाखा ने पंजाब से तीन लोगों को दबोचा जो खालिस्तान-गैंगस्टर गठजोड़ के नाम पर 10 करोड़ की रंगदारी मांग रहे थे। सुरक्षा बलों और सेना के लिए रक्षा उपकरण (हथियार) बनाने वाली कंपनी के संस्थापक और प्रबंध निदेशक साहिल लूथरा को जान से मारने की धमकी देकर 10 करोड़ की रंगदारी मांगने के आरोप में अपराध शाखा ने पंजाब से तीन लोगों को दबोचा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खालिस्तान-गैंगस्टर गठजोड़ के नाम पर मांगी 10 करोड़ की रगंदारी, अपराध शाखा ने पंजाब से तीन को दबोचा",
+          "summary": "अपराध शाखा ने पंजाब से तीन लोगों को दबोचा जो खालिस्तान-गैंगस्टर गठजोड़ के नाम पर 10 करोड़ की रंगदारी मांग रहे थे। सुरक्षा बलों और सेना के लिए रक्षा उपकरण (हथियार) बनाने वाली कंपनी के संस्थापक और प्रबंध निदेशक साहिल लूथरा को जान से मारने की धमकी देकर 10 करोड़ की रंगदारी मांगने के आरोप में अपराध शाखा ने पंजाब से तीन लोगों को दबोचा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शिकागो शहर में गोलीबारी में सात लोगों की मौत, कई घायल; ट्रंप ने दोहराई सैन्य हस्तक्षेप की मांग",
+      "url": "https://www.amarujala.com/world/seven-killed-dozens-injured-following-series-of-weekend-shootings-in-chicago-2026-06-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-21T20:26:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/24/us-police_3eb3abfd47ced18d932effa4a83bbe71.jpeg?w=750&dpr=1.0",
+      "summary": "शिकागो शहर में गोलीबारी में सात लोगों की मौत हो गई और कई घायल हुए। शिकागो शहर में गोलीबारी में सात लोगों की मौत, कई घायल; ट्रंप ने दोहराई सैन्य हस्तक्षेप की मांग।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शिकागो शहर में गोलीबारी में सात लोगों की मौत, कई घायल; ट्रंप ने दोहराई सैन्य हस्तक्षेप की मांग",
+          "summary": "शिकागो शहर में गोलीबारी में सात लोगों की मौत हो गई और कई घायल हुए। शिकागो शहर में गोलीबारी में सात लोगों की मौत, कई घायल; ट्रंप ने दोहराई सैन्य हस्तक्षेप की मांग।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "12 साल से फरार था MBBS में दाखिले के नाम पर ठगी करने वाला शख्स, पुलिस ने किया गिरफ्तार",
+      "url": "https://www.amarujala.com/india-news/maharashtra-hindi-news-updates-mumbai-bmc-nagpur-pune-education-politics-crime-cm-fadnavis-gadkari-2026-06-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-21T20:11:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=750&dpr=1.0",
+      "summary": "पुलिस ने 12 साल से फरार MBBS में दाखिले के नाम पर ठगी करने वाले शख्स को गिरफ्तार किया। 12 साल से फरार था MBBS में दाखिले के नाम पर ठगी करने वाला शख्स, पुलिस ने किया गिरफ्तार।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "12 साल से फरार था MBBS में दाखिले के नाम पर ठगी करने वाला शख्स, पुलिस ने किया गिरफ्तार",
+          "summary": "पुलिस ने 12 साल से फरार MBBS में दाखिले के नाम पर ठगी करने वाले शख्स को गिरफ्तार किया। 12 साल से फरार था MBBS में दाखिले के नाम पर ठगी करने वाला शख्स, पुलिस ने किया गिरफ्तार।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "वार्ता स्थल से बाहर निकला ईरानी प्रतिनिधिमंडल; ड्रोन हमले के बाद कुवैत एयरपोर्ट में आग लगी",
+      "url": "https://www.amarujala.com/live/world/west-asia-live-us-iran-talks-switzerland-israel-lebanon-strait-of-hormuz-donald-trump-benjamin-netanyahu-2026-06-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-21T20:11:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/iirana-amaraka-varata_bb534d8df9b4abdda7229006870e6e1e.jpeg?w=750&dpr=1.0",
+      "summary": "ईरानी प्रतिनिधिमंडल वार्ता स्थल से बाहर निकल गया और कुवैत एयरपोर्ट में ड्रोन हमले के बाद आग लग गई। West Asia LIVE: वार्ता स्थल से बाहर निकला ईरानी प्रतिनिधिमंडल; ड्रोन हमले के बाद कुवैत एयरपोर्ट में आग लगी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वार्ता स्थल से बाहर निकला ईरानी प्रतिनिधिमंडल; ड्रोन हमले के बाद कुवैत एयरपोर्ट में आग लगी",
+          "summary": "ईरानी प्रतिनिधिमंडल वार्ता स्थल से बाहर निकल गया और कुवैत एयरपोर्ट में ड्रोन हमले के बाद आग लग गई। West Asia LIVE: वार्ता स्थल से बाहर निकला ईरानी प्रतिनिधिमंडल; ड्रोन हमले के बाद कुवैत एयरपोर्ट में आग लगी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हाफ-टाइम तक कोई गोल नहीं, अब बेल्जियम और ईरान की नजरें दूसरे हाफ पर",
+      "url": "https://www.amarujala.com/live/sports/football/spain-vs-saudi-arabia-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-21T20:10:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/12/fafa-vashava-kapa-2026_3cd85909c928e7db58b5246fca35970f.jpeg?w=750&dpr=1.0",
+      "summary": "फीफा विश्व कप 2026 क्वालीफायर में बेल्जियम के खिलाफ ईरान ने 25वें मिनट में गोल किया। मेहदी ने ईरान के लिए शुरुआती बढ़त हासिल की। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। बेल्जियम के खिलाफ ईरान ने दागा गोल, 25वें मिनट में मेहदी ने दिलाई शुरुआती बढ़त। हाफ-टाइम तक कोई गोल नहीं, अब बेल्जियम और ईरान की नजरें दूसरे हाफ पर।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हाफ-टाइम तक कोई गोल नहीं, अब बेल्जियम और ईरान की नजरें दूसरे हाफ पर",
+          "summary": "फीफा विश्व कप 2026 क्वालीफायर में बेल्जियम के खिलाफ ईरान ने 25वें मिनट में गोल किया। मेहदी ने ईरान के लिए शुरुआती बढ़त हासिल की। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। बेल्जियम के खिलाफ ईरान ने दागा गोल, 25वें मिनट में मेहदी ने दिलाई शुरुआती बढ़त। हाफ-टाइम तक कोई गोल नहीं, अब बेल्जियम और ईरान की नजरें दूसरे हाफ पर।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "खीर भवानी मेला आज से, सुरक्षा व्यवस्था कड़ी; श्रद्धालुओं की निर्बाध यात्रा के लिए शासन ने किए कई",
+      "url": "https://www.amarujala.com/jammu/jammu-kheer-bhawani-mela-begins-today-security-arrangements-tightened-2026-06-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-21T20:07:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/1_e7eaa4ebb1901825f2a095215c1a0ca3.jpeg?w=750&dpr=1.0",
+      "summary": "खीर भवानी मेला आज से शुरू हो रहा है और श्रद्धालुओं की निर्बाध यात्रा के लिए सुरक्षा व्यवस्था कड़ी की गई है। खीर भवानी मेला आज शुरू हो रहा है। खीर भवानी मेला आज से, सुरक्षा व्यवस्था कड़ी; श्रद्धालुओं की निर्बाध यात्रा के लिए शासन ने किए कई।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खीर भवानी मेला आज से, सुरक्षा व्यवस्था कड़ी; श्रद्धालुओं की निर्बाध यात्रा के लिए शासन ने किए कई",
+          "summary": "खीर भवानी मेला आज से शुरू हो रहा है और श्रद्धालुओं की निर्बाध यात्रा के लिए सुरक्षा व्यवस्था कड़ी की गई है। खीर भवानी मेला आज शुरू हो रहा है। खीर भवानी मेला आज से, सुरक्षा व्यवस्था कड़ी; श्रद्धालुओं की निर्बाध यात्रा के लिए शासन ने किए कई।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "विश्व हिंदू परिषद का आरोप- हिंदू छात्रों से NEET केंद्रों पर किया सांप्रदायिक भेदभाव",
+      "url": "https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-06-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-21T19:56:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_bc25c16d5cf7783ca896c1749fa5ceab.jpeg?w=750&dpr=1.0",
+      "summary": "विश्व हिंदू परिषद ने आरोप लगाया कि NEET केंद्रों पर हिंदू छात्रों के साथ सांप्रदायिक भेदभाव किया गया। विश्व हिंदू परिषद का आरोप- हिंदू छात्रों से NEET केंद्रों पर किया सांप्रदायिक भेदभाव।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विश्व हिंदू परिषद का आरोप- हिंदू छात्रों से NEET केंद्रों पर किया सांप्रदायिक भेदभाव",
+          "summary": "विश्व हिंदू परिषद ने आरोप लगाया कि NEET केंद्रों पर हिंदू छात्रों के साथ सांप्रदायिक भेदभाव किया गया। विश्व हिंदू परिषद का आरोप- हिंदू छात्रों से NEET केंद्रों पर किया सांप्रदायिक भेदभाव।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "'जल्द देंगे इस्तीफ...' मेलोनी पर टिप्पणी के बाद ट्रंप ने यूरोप के एक नेता पर की पोस्ट, बताया फेल",
       "url": "https://hindi.news18.com/world/america-donald-trump-claims-british-prime-minister-keir-starmer-will-resign-soon-10591904.html",
       "source": "News18 Hindi (World)",
@@ -434,29 +530,11 @@
       }
     },
     {
-      "title": "होर्मुज पर होगा कब्‍जा, न‍िकल नहीं पाओगे...ट्रंप की गली के गुंडे के अंदाज में धमकी",
-      "url": "https://hindi.news18.com/world/america-us-president-donald-trump-state-to-iran-paying-a-heavy-price-for-attempting-close-strait-of-hormuz-10591860.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-21T18:33:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-Trump-Masood-Pzeshkian-2026-06-09ec0cf8d65b681334c60c4ebad8a4f6-1200x800.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को होर्मुज जलडमरूमध्य बंद करने के खिलाफ चेतावनी दी है। उन्होंने कहा कि यदि ईरान ने ऐसा किया तो अमेरिका उस पर कब्जा कर लेगा और टोल वसूलेगा। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने खुलासा किया कि उन्होंने शनिवार रात ईरानी अधिकारियों से बात की. उन्होंने होर्मुज को बंद करने के किसी भी प्रयास के खिलाफ चेतावनी दी.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज पर होगा कब्‍जा, न‍िकल नहीं पाओगे...ट्रंप की गली के गुंडे के अंदाज में धमकी",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को होर्मुज जलडमरूमध्य बंद करने के खिलाफ चेतावनी दी है। उन्होंने कहा कि यदि ईरान ने ऐसा किया तो अमेरिका उस पर कब्जा कर लेगा और टोल वसूलेगा। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने खुलासा किया कि उन्होंने शनिवार रात ईरानी अधिकारियों से बात की. उन्होंने होर्मुज को बंद करने के किसी भी प्रयास के खिलाफ चेतावनी दी.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "‘बातचीत फेल हुई तो ताकत के दम पर होर्मुज पर कब्जा करेंगे ट्रंप’, अमेरिकी सीनेटर लिंडसे ग्राहम के",
       "url": "https://www.patrika.com/world-news/donald-trump-hormuz-strait-takeover-warning-lindsey-graham-us-iran-talks-20686096",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-21T18:25:38+00:00",
+      "published_at": "2026-06-21T19:04:09+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trumpp.webp",
       "summary": "अमेरिकी सीनेटर लिंडसे ग्राहम ने कहा है कि यदि ईरान के साथ बातचीत विफल रही तो राष्ट्रपति ट्रंप होर्मुज जलडमरूमध्य पर बलपूर्वक नियंत्रण कर सकते हैं। यह बयान स्विट्जरलैंड में चल रही वार्ता के बीच आया है। Strait Of Hormuz: स्विट्जरलैंड में अमेरिका और ईरान के बीच जारी वार्ता के बीच अमेरिकी सीनेटर लिंडसे ग्राहम के एक बयान ने खलबली मचा दी है।",
       "region": "Middle East & Africa",
@@ -474,7 +552,7 @@
       "url": "https://www.patrika.com/world-news/donald-trump-warning-says-us-could-take-major-action-if-no-deal-is-reached-iranian-officials-walked-out-of-meeting-20686056",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-21T17:55:04+00:00",
+      "published_at": "2026-06-21T19:03:26+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trumpppp.webp",
       "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है। उन्होंने कहा कि यदि समझौता नहीं हुआ तो अमेरिका बड़ा कदम उठा सकता है। स्विट्जरलैंड में दोनों देशों के प्रतिनिधियों के बीच बातचीत शुरू होने के साथ ही ट्रंप ने यह बयान दिया। Donald Trump Message To Iran: अमेरिका और ईरान के बीच जारी तनाव के बीच एक बार फिर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के तीखे बयान चर्चा में हैं।",
       "region": "Middle East & Africa",
@@ -483,6 +561,24 @@
         "hi": {
           "title": "बातचीत के बीच ईरान को ट्रंप की कड़ी चेतावनी, कहा- ‘समझौता नहीं हुआ तो अमेरिका उठा सकता है बड़ा",
           "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है। उन्होंने कहा कि यदि समझौता नहीं हुआ तो अमेरिका बड़ा कदम उठा सकता है। स्विट्जरलैंड में दोनों देशों के प्रतिनिधियों के बीच बातचीत शुरू होने के साथ ही ट्रंप ने यह बयान दिया। Donald Trump Message To Iran: अमेरिका और ईरान के बीच जारी तनाव के बीच एक बार फिर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के तीखे बयान चर्चा में हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज पर होगा कब्‍जा, न‍िकल नहीं पाओगे...ट्रंप की गली के गुंडे के अंदाज में धमकी",
+      "url": "https://hindi.news18.com/world/america-us-president-donald-trump-state-to-iran-paying-a-heavy-price-for-attempting-close-strait-of-hormuz-10591860.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-21T18:33:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-Trump-Masood-Pzeshkian-2026-06-09ec0cf8d65b681334c60c4ebad8a4f6-1200x800.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को होर्मुज जलडमरूमध्य बंद करने के खिलाफ चेतावनी दी है। उन्होंने कहा कि यदि ईरान ने ऐसा किया तो अमेरिका उस पर कब्जा कर लेगा और टोल वसूलेगा। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने खुलासा किया कि उन्होंने शनिवार रात ईरानी अधिकारियों से बात की. उन्होंने होर्मुज को बंद करने के किसी भी प्रयास के खिलाफ चेतावनी दी.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज पर होगा कब्‍जा, न‍िकल नहीं पाओगे...ट्रंप की गली के गुंडे के अंदाज में धमकी",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को होर्मुज जलडमरूमध्य बंद करने के खिलाफ चेतावनी दी है। उन्होंने कहा कि यदि ईरान ने ऐसा किया तो अमेरिका उस पर कब्जा कर लेगा और टोल वसूलेगा। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने खुलासा किया कि उन्होंने शनिवार रात ईरानी अधिकारियों से बात की. उन्होंने होर्मुज को बंद करने के किसी भी प्रयास के खिलाफ चेतावनी दी.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -560,24 +656,6 @@
       }
     },
     {
-      "title": "मेलोनी के बाद अब ट्रंप के निशाने पर इस देश के PM, कर दी चौंकाने वाली भविष्यवाणी, बोले - 'वो बुरी",
-      "url": "https://www.abplive.com/news/us-president-donald-trump-demand-resignation-of-uk-pm-keir-starmer-world-news-3148700",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-21T16:29:23+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/21/c494c536ca8e580a6d0af498659b229817820597802651324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ब्रिटेन के प्रधानमंत्री कीर स्टारमर के बारे में भविष्यवाणी की है। उन्होंने कहा कि स्टारमर यूके पीएम पद से इस्तीफा देंगे। ट्रंप के अनुसार, स्टारमर इमिग्रेशन और एनर्जी जैसे मुद्दों पर असफल रहे। अमेरिकी राष्ट्रपति अपने देश की राजनीति के अलावा अन्य देश में क्या होना चाहिए, क्या नहीं इसमें खास दिलचस्पी रखते हैं. अब उन्होंने यूके के पीएम कीर स्टारमर के बारे में ऐसा कह दिया है, जिसने सभी को चौंका दिया है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मेलोनी के बाद अब ट्रंप के निशाने पर इस देश के PM, कर दी चौंकाने वाली भविष्यवाणी, बोले - 'वो बुरी",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ब्रिटेन के प्रधानमंत्री कीर स्टारमर के बारे में भविष्यवाणी की है। उन्होंने कहा कि स्टारमर यूके पीएम पद से इस्तीफा देंगे। ट्रंप के अनुसार, स्टारमर इमिग्रेशन और एनर्जी जैसे मुद्दों पर असफल रहे। अमेरिकी राष्ट्रपति अपने देश की राजनीति के अलावा अन्य देश में क्या होना चाहिए, क्या नहीं इसमें खास दिलचस्पी रखते हैं. अब उन्होंने यूके के पीएम कीर स्टारमर के बारे में ऐसा कह दिया है, जिसने सभी को चौंका दिया है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "‘मूर्खों की जमात...’, कोलकाता में सड़क का नाम बदलने पर गरमाई सियासत, CM शुभेंदु के बयान पर कांग्रेस",
       "url": "https://www.abplive.com/news/india/congress-leader-pawan-khera-jairam-ramesh-criticizes-bjp-and-bengal-cm-suvendu-adhikari-remark-on-kolkata-road-name-change-3148685",
       "source": "ABP Live (India)",
@@ -650,24 +728,6 @@
       }
     },
     {
-      "title": "'मेरी जिंदगी में दो अहम 'भारतीय-पाकिस्तानी' लोग हैं...', आसिम मुनीर का जिक्र कर क्या बोले जेडी वेंस",
-      "url": "https://www.abplive.com/news/world/jd-vance-joked-says-indian-pakistani-two-important-people-in-my-life-world-news-3148683",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-21T16:02:47+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/21/139830908de620ff917ddf37ad31f4c417820569784341324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिकी सीनेटर जेडी वेंस ने स्विट्जरलैंड में ईरान के अधिकारियों से मुलाकात के बाद कहा कि उनके जीवन में दो महत्वपूर्ण भारतीय-पाकिस्तानी लोग हैं. उन्होंने यह टिप्पणी एक ईरानी अधिकारी के साथ बातचीत के दौरान की. यह बयान ऑनलाइन चर्चा का विषय बन गया. रविवार में अमेरिका और ईरान के प्रतिनिधि स्विट्जरलैंड में जुटे हुए हैं. यहां शांति स्थापित की कोशिशों के साथ डील को लेकर विस्तार से चर्चा की जा रही है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मेरी जिंदगी में दो अहम 'भारतीय-पाकिस्तानी' लोग हैं...', आसिम मुनीर का जिक्र कर क्या बोले जेडी वेंस",
-          "summary": "अमेरिकी सीनेटर जेडी वेंस ने स्विट्जरलैंड में ईरान के अधिकारियों से मुलाकात के बाद कहा कि उनके जीवन में दो महत्वपूर्ण भारतीय-पाकिस्तानी लोग हैं. उन्होंने यह टिप्पणी एक ईरानी अधिकारी के साथ बातचीत के दौरान की. यह बयान ऑनलाइन चर्चा का विषय बन गया. रविवार में अमेरिका और ईरान के प्रतिनिधि स्विट्जरलैंड में जुटे हुए हैं. यहां शांति स्थापित की कोशिशों के साथ डील को लेकर विस्तार से चर्चा की जा रही है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "फादर्स डे पर पिता को लगा दोहरा आघात, मां ने दो मासूम बेटों को दिया जहर, तेलंगाना में दिल दहला देने",
       "url": "https://www.abplive.com/news/india/two-children-died-after-mother-gave-them-rat-poison-on-fathers-day-in-khammam-telangana-ann-3148664",
       "source": "ABP Live (India)",
@@ -682,78 +742,6 @@
           "title": "फादर्स डे पर पिता को लगा दोहरा आघात, मां ने दो मासूम बेटों को दिया जहर, तेलंगाना में दिल दहला देने",
           "summary": "तेलंगाना के खम्मम में 35 वर्षीय स्वाति ने कथित तौर पर अपने दो बेटों को जहर देकर मार डाला और फिर खुद भी जान दे दी. यह घटना शनिवार शाम को उनके किराए के मकान में हुई. पुलिस मामले की जांच कर रही है. तेलंगाना के खम्मम जिले के गांधीनगर इलाके में रविवार (21 जून, 2026) को एक दिल दहला देने वाली घटना सामने आई, जहां 35 वर्षीय स्वाति ने कथित तौर पर अपने दो बेटों, 7 वर्षीय वेदिक कुमार और पांच वर्षीय तनिष्क को चूहा मारने की दवा पिलाकर उनकी हत्या कर दी और फिर खुद भी वही जहरीला पदार्थ खा लिया.",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप का बड़ा दावा, ब्रिटेन के प्रधानमंत्री कीर स्टार्मर देंगे इस्तीफा, दो वजह भी बताई",
-      "url": "https://www.patrika.com/world-news/trump-iran-warning-lebanon-groups-middle-east-tension-conflict-hezbollah-regional-ceasefire-20685810",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-21T15:29:00+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/02/Donald-Trump-and-Keir-Starmer.jpg",
-      "summary": "डोनाल्ड ट्रंप ने दावा किया है कि कीर स्टार्मर यूनाइटेड किंगडम के प्रधानमंत्री पद से इस्तीफा देंगे। ट्रंप ने सोशल मीडिया पर लिखा कि स्टार्मर दो प्रमुख मुद्दों, आप्रवासन और ऊर्जा, पर इस्तीफा देंगे। यह दावा तब आया है जब स्टार्मर की लेबर पार्टी ने हाल के स्थानीय चुनावों में जीत हासिल की है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ब्रिटेन के प्रधानमंत्री कीर स्टार्मर को लेकर बड़ा दावा किया है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप का बड़ा दावा, ब्रिटेन के प्रधानमंत्री कीर स्टार्मर देंगे इस्तीफा, दो वजह भी बताई",
-          "summary": "डोनाल्ड ट्रंप ने दावा किया है कि कीर स्टार्मर यूनाइटेड किंगडम के प्रधानमंत्री पद से इस्तीफा देंगे। ट्रंप ने सोशल मीडिया पर लिखा कि स्टार्मर दो प्रमुख मुद्दों, आप्रवासन और ऊर्जा, पर इस्तीफा देंगे। यह दावा तब आया है जब स्टार्मर की लेबर पार्टी ने हाल के स्थानीय चुनावों में जीत हासिल की है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ब्रिटेन के प्रधानमंत्री कीर स्टार्मर को लेकर बड़ा दावा किया है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "विदेशी दौरों पर अपने बच्चों को साथ क्यों ले जाते हैं जेडी वेंस? पत्नी के पॉडकास्ट में किया बड़ा",
-      "url": "https://hindi.news18.com/world/america-why-does-jd-vance-take-children-for-foreign-tours-reveal-in-every-episode-of-storytime-with-the-second-lady-10591551.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-21T15:26:39+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/JD-Vance-Podcast-2026-06-3474d80febaa230311afcb43caa755e7-1200x800.jpg",
-      "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने बताया कि वे अक्सर विदेशी दौरों पर अपने बच्चों को साथ ले जाते हैं. उन्होंने कहा कि इससे दूसरे देशों के साथ रिश्तों को सुधारने में मदद मिलती है. अमेरिकी उपराष्ट्रपति जेडी वेंस ने बताया कि दूसरे देशों के साथ रिश्तों को सुधारने में भी उनकी एक खास भूमिका होती है. इसी सिलसिले में वे अक्सर विदेशी दौरों पर जाते हैं.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विदेशी दौरों पर अपने बच्चों को साथ क्यों ले जाते हैं जेडी वेंस? पत्नी के पॉडकास्ट में किया बड़ा",
-          "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने बताया कि वे अक्सर विदेशी दौरों पर अपने बच्चों को साथ ले जाते हैं. उन्होंने कहा कि इससे दूसरे देशों के साथ रिश्तों को सुधारने में मदद मिलती है. अमेरिकी उपराष्ट्रपति जेडी वेंस ने बताया कि दूसरे देशों के साथ रिश्तों को सुधारने में भी उनकी एक खास भूमिका होती है. इसी सिलसिले में वे अक्सर विदेशी दौरों पर जाते हैं.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "‘मेरी जिंदगी में एक भारतीय और एक पाकिस्तानी सबसे अहम हैं’, स्विट्जरलैंड में पाक PM के सामने क्या",
-      "url": "https://www.patrika.com/world-news/us-iran-talks-switzerland-jd-vance-statement-asim-munir-pakistan-pm-shehbaz-sharif-20685815",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-21T15:26:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-Iran-Talks-Switzerland-1.webp",
-      "summary": "स्विट्जरलैंड में पाकिस्तान के प्रधानमंत्री शहबाज शरीफ की मौजूदगी में अमेरिकी उपराष्ट्रपति जेडी वेंस ने कहा कि उनके जीवन में एक भारतीय और एक पाकिस्तानी सबसे महत्वपूर्ण हैं। यह बयान अमेरिका-ईरान वार्ता के दौरान आया। US Iran Talks Switzerland: स्विट्जरलैंड में अमेरिका और ईरान के बीच जारी अहम बातचीत के दौरान अमेरिकी उपराष्ट्रपति जेडी वेंस का एक बयान सुर्खियों में आ गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘मेरी जिंदगी में एक भारतीय और एक पाकिस्तानी सबसे अहम हैं’, स्विट्जरलैंड में पाक PM के सामने क्या",
-          "summary": "स्विट्जरलैंड में पाकिस्तान के प्रधानमंत्री शहबाज शरीफ की मौजूदगी में अमेरिकी उपराष्ट्रपति जेडी वेंस ने कहा कि उनके जीवन में एक भारतीय और एक पाकिस्तानी सबसे महत्वपूर्ण हैं। यह बयान अमेरिका-ईरान वार्ता के दौरान आया। US Iran Talks Switzerland: स्विट्जरलैंड में अमेरिका और ईरान के बीच जारी अहम बातचीत के दौरान अमेरिकी उपराष्ट्रपति जेडी वेंस का एक बयान सुर्खियों में आ गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'मेरी जिंदगी में दो खास लोग, एक भारतीय दूसरा पाकिस्तानी'... जेडी वेंस ने बताई वजह",
-      "url": "https://hindi.news18.com/world/america-jd-vance-comment-on-indian-wife-and-pakistani-in-switzerland-talks-ws-l-10591597.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-21T15:19:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/JD-Vance-2026-06-69f5e8e96df7cd453995609db07e487b-1200x800.jpg",
-      "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने स्विट्जरलैंड में अमेरिका-ईरान वार्ता के दौरान अपनी पत्नी उषा वेंस और फील्ड मार्शल आसिम मुनीर का जिक्र किया. उन्होंने ईरान परमाणु कार्यक्रम पर कूटनीतिक हल पर जोर दिया. स्विट्जरलैंड में अमेरिका और ईरान वार्ता के दौरान उपराष्ट्रपति जेडी वेंस ने पत्नी उषा वेंस और फील्ड मार्शल आसिम मुनीर का जिक्र किया, ईरान परमाणु कार्यक्रम पर कूटनीतिक हल पर जोर दिया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मेरी जिंदगी में दो खास लोग, एक भारतीय दूसरा पाकिस्तानी'... जेडी वेंस ने बताई वजह",
-          "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने स्विट्जरलैंड में अमेरिका-ईरान वार्ता के दौरान अपनी पत्नी उषा वेंस और फील्ड मार्शल आसिम मुनीर का जिक्र किया. उन्होंने ईरान परमाणु कार्यक्रम पर कूटनीतिक हल पर जोर दिया. स्विट्जरलैंड में अमेरिका और ईरान वार्ता के दौरान उपराष्ट्रपति जेडी वेंस ने पत्नी उषा वेंस और फील्ड मार्शल आसिम मुनीर का जिक्र किया, ईरान परमाणु कार्यक्रम पर कूटनीतिक हल पर जोर दिया।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
