@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-06-21T18:38:18.624825+00:00",
-  "article_count": 49,
-  "total_unique_count": 267,
+  "generated_at": "2026-06-21T19:35:54.263833+00:00",
+  "article_count": 50,
+  "total_unique_count": 275,
   "digest": {
-    "en": "US-Iran talks in Switzerland and the Taliban's deepening restrictions in Afghanistan dominate the news. Canada's asylum policies and Tajikistan's naming rules offer contrasting regional pressures. These stories highlight ongoing geopolitical friction and evolving social controls.",
-    "hi": "ईरान और अमेरिका के बीच बातचीत टूटने के बाद होर्मुज जलडमरूमध्य पर तनाव बढ़ गया है। अमेरिकी सीनेटर लिंडसे ग्राहम ने ईरान को धमकी दी है कि अगर बातचीत विफल रही तो वे ताकत के दम पर जलडमरूमध्य पर कब्जा कर लेंगे। यह घटनाक्रम मध्य पूर्व में अस्थिरता को और बढ़ा सकता है।"
+    "en": "Myanmar's military consolidation dominates the headlines. Armenia's election and Djibouti's prime real estate are also in focus. Ukraine's humanitarian crisis persists.",
+    "hi": "ईरान ने बेल्जियम के खिलाफ गोल दागा। मेहदी ने 25वें मिनट में शुरुआती बढ़त दिलाई। तेहरान से संबंधों पर वेंस ने बयान दिया।"
   },
   "articles": [
+    {
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Myanmar's military leader Min Aung Hlaing transitioned from commander-in-chief to president after staged elections. Foreign governments should calibrate interactions with Naypyitaw to avoid legitimizing the administration. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenia will hold its first general election since 2021 on June 7. Foreign policy has dominated the campaign, raising questions about Yerevan's future external relations. Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Djibouti's history, politics, and navigation of turmoil in the Horn of Africa and Red Sea are discussed. The nation seeks to manage shifting alliances in the region. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan began conveying proposals to end the U. S.-Iran war after bombings started on February 28. Islamabad perceives high stakes, undertaking the mediator role despite inherent risks. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's next seven-year budget may reduce spending on conflict prevention and aid to fragile states. Experts discuss the potential consequences of these funding plans. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Ukraine's battlefield shift has not solved its humanitarian crisis, IRC says",
       "url": "https://www.thehindu.com/news/international/ukraines-battlefield-shift-has-not-solved-its-humanitarian-crisis-irc-says/article71130165.ece",
@@ -248,52 +308,94 @@
       "translations": {}
     },
     {
-      "title": "Repair Crews Start Emergency Work To Save War-Damaged Kyiv Cathedral",
-      "url": "https://www.rferl.org/a/ukraine-cathedral-monastery-damaged-air-strikes/33783975.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "बेल्जियम के खिलाफ ईरान ने दागा गोल, 25वें मिनट में मेहदी ने दिलाई शुरुआती बढ़त",
+      "url": "https://www.amarujala.com/live/sports/football/spain-vs-saudi-arabia-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-18T17:42:42+00:00",
-      "image_url": "https://gdb.rferl.org/10d6c131-a20e-4761-13e3-08decd1d5d42_w1200_h630.jpg",
-      "summary": "Ukrainian workers began emergency repairs on a war-damaged Kyiv cathedral. The structure is part of a UNESCO-protected monastery. An overnight attack on June 15 caused damage. Experts warn soot and moisture threaten remaining historic artifacts. Ukrainian workers are conducting emergency repairs to a historic cathedral, part of a UNESCO-protected monastery, which was damaged in an overnight attack on June 15.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
-      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-18T16:15:31+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/ba383a58506057d986fed82219e906a7fa9da91a/547_27_2302_1841/master/2302.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc2905f77f6695d38dca18127aff15f3",
-      "summary": "Two South African men were sentenced in a rhino horn trafficking case. Police called it the world's largest. Dawie Groenewald received a fine or jail time. The case concludes a legal process spanning nearly two decades. ‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrestTwo traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, partly bringing to an end an almost two-decade legal saga. Dawie Groenewald and Tielman Erasmus had faced more than 1,700 charges ranging from illegally hunting and de.",
+      "published_at": "2026-06-22T07:27:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/12/fafa-vashava-kapa-2026_3cd85909c928e7db58b5246fca35970f.jpeg?w=750&dpr=1.0",
+      "summary": "फीफा विश्व कप 2026 क्वालीफायर में बेल्जियम के खिलाफ ईरान ने 25वें मिनट में गोल किया। मेहदी ने ईरान के लिए शुरुआती बढ़त हासिल की। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। बेल्जियम के खिलाफ ईरान ने दागा गोल, 25वें मिनट में मेहदी ने दिलाई शुरुआती बढ़त।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बेल्जियम के खिलाफ ईरान ने दागा गोल, 25वें मिनट में मेहदी ने दिलाई शुरुआती बढ़त",
+          "summary": "फीफा विश्व कप 2026 क्वालीफायर में बेल्जियम के खिलाफ ईरान ने 25वें मिनट में गोल किया। मेहदी ने ईरान के लिए शुरुआती बढ़त हासिल की। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। बेल्जियम के खिलाफ ईरान ने दागा गोल, 25वें मिनट में मेहदी ने दिलाई शुरुआती बढ़त।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
-      "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
-      "source": "The Guardian",
+      "title": "कोर्ट पहुंचा राम मंदिर चढ़ावा चोरी का मामला, आज हो सकती है सुनवाई; सीबीआई से जांच पर भी होगा निर्णय",
+      "url": "https://www.amarujala.com/lucknow/up-ram-mandir-offering-theft-case-reaches-court-hearing-on-monday-decision-to-be-taken-on-cbi-probe-2026-06-21",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-17T22:30:46+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/5bb4dc955e7fd24ee4a2072b7f5ee960eda51ddb/0_267_4346_3477/master/4346.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7999fe2667344049a64bf7c5f9f616de",
-      "summary": "A study found commercializing cannabis, not decriminalizing it, increases usage. Countries with commercial sales saw more users and higher rates of psychosis. Strict regulation or decriminalization did not appear to drive up consumption. Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially Decriminalising the possession of cannabis or strictly regulating access to the drug do not appear to drive up usage, but when the drug is sold commercially the number of users increases and more mental health problems are seen, a review has found. An international team analysed the dramatic shift i.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-22T07:19:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/1_2f03345197470642d8f07645d5f8fd29.jpeg?w=750&dpr=1.0",
+      "summary": "राम मंदिर चढ़ावा चोरी के आरोपों से संबंधित एक जनहित याचिका पर सोमवार को सुनवाई हो सकती है। अदालत सीबीआई जांच की मांग पर भी निर्णय ले सकती है। अयोध्या में श्रीराम मंदिर के चढ़ावे की चोरी के आरोपों वाले मामले में दाखिल जनहित याचिका (पीआईएल) पर सोमवार को सुनवाई संभावित है। कोर्ट पहुंचा राम मंदिर चढ़ावा चोरी का मामला, आज हो सकती है सुनवाई; सीबीआई से जांच पर भी होगा निर्णय।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कोर्ट पहुंचा राम मंदिर चढ़ावा चोरी का मामला, आज हो सकती है सुनवाई; सीबीआई से जांच पर भी होगा निर्णय",
+          "summary": "राम मंदिर चढ़ावा चोरी के आरोपों से संबंधित एक जनहित याचिका पर सोमवार को सुनवाई हो सकती है। अदालत सीबीआई जांच की मांग पर भी निर्णय ले सकती है। अयोध्या में श्रीराम मंदिर के चढ़ावे की चोरी के आरोपों वाले मामले में दाखिल जनहित याचिका (पीआईएल) पर सोमवार को सुनवाई संभावित है। कोर्ट पहुंचा राम मंदिर चढ़ावा चोरी का मामला, आज हो सकती है सुनवाई; सीबीआई से जांच पर भी होगा निर्णय।",
+          "region": "दुनिया"
+        }
+      }
     },
     {
-      "title": "From camel coats to guochao: Max Mara woos China’s luxury brand consumers",
-      "url": "https://www.theguardian.com/fashion/2026/jun/16/max-mara-woos-china-luxury-brand-consumers",
-      "source": "The Guardian",
+      "title": "80 मिनट चली बैठक, आंतरिक परामर्श करेंगे दोनों देश; तेहरान से संबंधों पर वेंस ने क्या कहा?",
+      "url": "https://www.amarujala.com/world/us-iran-talks-in-switzerland-reportedly-ended-for-internal-consultations-2026-06-22",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-16T17:15:13+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/c75afcaf4c595903195656c47c69afa3cc398d17/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=286feb9d8c38131240487ab91eb10334",
-      "summary": "Italian fashion house Max Mara held its 75th-anniversary show in Shanghai. The catwalk featured tributes to Chinese style. Designer Ian Griffiths chose Shanghai for its dynamic metropolitan energy. The event aimed to appeal to China's luxury consumers. Fashion house pays tribute to Chinese style with its 75th anniversary catwalk show in Shanghai“New York may be the city that never sleeps, but Shanghai doesn’t even sit down.” For the British designer Ian Griffiths, who encountered this line in the New Yorker, it summed up why China’s biggest city was the right place to celebrate Max Mara’s 75th anniversary.“Max Mara is a product for metropolitan.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-22T07:10:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/amaraka-iirana-varata_3a9f6d9793d721d233208d93b53fbef2.jpeg?w=750&dpr=1.0",
+      "summary": "अमेरिका और ईरान के बीच 80 मिनट की बैठक हुई। दोनों देश आंतरिक परामर्श करेंगे। तेहरान से संबंधों पर वेंस ने बैठक के बाद बयान दिया। अमेरिका-ईरान वार्ता: 80 मिनट चली बैठक, आंतरिक परामर्श करेंगे दोनों देश; तेहरान से संबंधों पर वेंस ने क्या कहा?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "80 मिनट चली बैठक, आंतरिक परामर्श करेंगे दोनों देश; तेहरान से संबंधों पर वेंस ने क्या कहा?",
+          "summary": "अमेरिका और ईरान के बीच 80 मिनट की बैठक हुई। दोनों देश आंतरिक परामर्श करेंगे। तेहरान से संबंधों पर वेंस ने बैठक के बाद बयान दिया। अमेरिका-ईरान वार्ता: 80 मिनट चली बैठक, आंतरिक परामर्श करेंगे दोनों देश; तेहरान से संबंधों पर वेंस ने क्या कहा?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन,एक दिन में लगा दोहरा झटका!",
+      "url": "https://www.amarujala.com/video/india-news/operation-tiger-in-final-stage-two-mps-from-the-uddhav-faction-join-the-shinde-faction-a-double-blow-in-a-s-2026-06-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-22T06:54:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/operation-tiger-in-final-stage_a55a831e5220d662f1899b8acd010b59.jpeg?w=750&dpr=1.0",
+      "summary": "उद्धव ठाकरे गुट के दो सांसदों ने एकनाथ शिंदे गुट का दामन थाम लिया। यह उद्धव गुट के लिए एक दिन में दूसरा झटका है। 'Operation Tiger' In Final Stage: उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन, एक दिन में लगा दोहरा झटका!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन,एक दिन में लगा दोहरा झटका!",
+          "summary": "उद्धव ठाकरे गुट के दो सांसदों ने एकनाथ शिंदे गुट का दामन थाम लिया। यह उद्धव गुट के लिए एक दिन में दूसरा झटका है। 'Operation Tiger' In Final Stage: उद्धव गुट के दो सांसदों ने थामा शिंदे गुट का दामन, एक दिन में लगा दोहरा झटका!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "युवा स्टार लैमिन यमल ने खोला खाता, ओयार्जबल ने जड़ा डबल; स्पेन ने सऊदी अरब को धोया",
+      "url": "https://www.amarujala.com/sports/football/fifa-world-cup-2026-spain-vs-saudi-arabia-highlights-today-football-match-result-key-moments-photos-2026-06-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-22T06:52:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/sapana-na-sauutha-arab-ka-haraya_969a0da0862ab5637b5414df8555d999.jpeg?w=750&dpr=1.0",
+      "summary": "फीफा विश्व कप 2026 क्वालीफायर में स्पेन ने सऊदी अरब को 4-0 से हराया। लैमिन यमल और माइकल ओयार्जबल ने गोल किए। फीफा विश्व कप 2026 में स्पेन ने सऊदी अरब को 4-0 से हराकर शानदार जीत दर्ज की। लैमिन यमल ने एक और माइकल ओयार्जबल ने दो गोल किए, जबकि चौथा गोल सऊदी अरब के हसन अल्तामबक्ती के आत्मघाती गोल से आया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "युवा स्टार लैमिन यमल ने खोला खाता, ओयार्जबल ने जड़ा डबल; स्पेन ने सऊदी अरब को धोया",
+          "summary": "फीफा विश्व कप 2026 क्वालीफायर में स्पेन ने सऊदी अरब को 4-0 से हराया। लैमिन यमल और माइकल ओयार्जबल ने गोल किए। फीफा विश्व कप 2026 में स्पेन ने सऊदी अरब को 4-0 से हराकर शानदार जीत दर्ज की। लैमिन यमल ने एक और माइकल ओयार्जबल ने दो गोल किए, जबकि चौथा गोल सऊदी अरब के हसन अल्तामबक्ती के आत्मघाती गोल से आया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "अंशुला कपूर और रोहन ठक्कर की शादी की रस्में हुईं शुरू, प्री-वेडिंग इवेंट में शामिल हुए अर्जुन और",
@@ -301,7 +403,7 @@
       "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-06-22T06:32:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/ashal-kapara-oura-rahana-thakakara_44d78f88b81925f526713be751d9af26.jpeg?w=750&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/ashal-kapara-oura-rahana-thakakara_43216a5bceb35fbb69fa9595ee9a4e63.jpeg?w=750&dpr=1.0",
       "summary": "अंशुला कपूर और रोहन ठक्कर की शादी की रस्में शुरू हो गई हैं। उनके घर पर प्री-वेडिंग पूजा और उत्सव आयोजित किए जा रहे हैं। अर्जुन कपूर भी इन कार्यक्रमों में शामिल हुए। अर्जुन कपूर की बहन और बोनी कपूर की बेटी अंशुला कपूर जल्द ही अपने मंगेतर रोहन ठक्कर के साथ शादी के बंधन में बंधने जा रही हैं।",
       "region": "World",
       "language": "hi",
@@ -310,6 +412,24 @@
           "title": "अंशुला कपूर और रोहन ठक्कर की शादी की रस्में हुईं शुरू, प्री-वेडिंग इवेंट में शामिल हुए अर्जुन और",
           "summary": "अंशुला कपूर और रोहन ठक्कर की शादी की रस्में शुरू हो गई हैं। उनके घर पर प्री-वेडिंग पूजा और उत्सव आयोजित किए जा रहे हैं। अर्जुन कपूर भी इन कार्यक्रमों में शामिल हुए। अर्जुन कपूर की बहन और बोनी कपूर की बेटी अंशुला कपूर जल्द ही अपने मंगेतर रोहन ठक्कर के साथ शादी के बंधन में बंधने जा रही हैं।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'जल्द देंगे इस्तीफ...' मेलोनी पर टिप्पणी के बाद ट्रंप ने यूरोप के एक नेता पर की पोस्ट, बताया फेल",
+      "url": "https://hindi.news18.com/world/america-donald-trump-claims-british-prime-minister-keir-starmer-will-resign-soon-10591904.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-21T19:29:05+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/donald-trumphealth-2026-06-a32e7ec2bc1cab14fa94a9779e310670-1200x800.jpg",
+      "summary": "ट्रंप ने ट्रुथ सोशल पर लिखा कि कीर स्टार्मर यूनाइटेड किंगडम के प्रधानमंत्री पद से इस्तीफा दे देंगे. उन्होंने कहा कि स्टार्मर इमिग्रेशन और एनर्जी पर विफल रहे. ट्रंप ने उनके अच्छे भविष्य की कामना की. ट्रंप ने ट्रुथ सोशल पर लिखा है कि कीर स्टार्मर यूनाइटेड किंगडम के प्रधानमंत्री पद से इस्तीफा दे देंगे. वह इमिग्रेशन और एनर्जी पर बुरी तरह विफल रहे.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'जल्द देंगे इस्तीफ...' मेलोनी पर टिप्पणी के बाद ट्रंप ने यूरोप के एक नेता पर की पोस्ट, बताया फेल",
+          "summary": "ट्रंप ने ट्रुथ सोशल पर लिखा कि कीर स्टार्मर यूनाइटेड किंगडम के प्रधानमंत्री पद से इस्तीफा दे देंगे. उन्होंने कहा कि स्टार्मर इमिग्रेशन और एनर्जी पर विफल रहे. ट्रंप ने उनके अच्छे भविष्य की कामना की. ट्रंप ने ट्रुथ सोशल पर लिखा है कि कीर स्टार्मर यूनाइटेड किंगडम के प्रधानमंत्री पद से इस्तीफा दे देंगे. वह इमिग्रेशन और एनर्जी पर बुरी तरह विफल रहे.",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -634,114 +754,6 @@
           "title": "'मेरी जिंदगी में दो खास लोग, एक भारतीय दूसरा पाकिस्तानी'... जेडी वेंस ने बताई वजह",
           "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने स्विट्जरलैंड में अमेरिका-ईरान वार्ता के दौरान अपनी पत्नी उषा वेंस और फील्ड मार्शल आसिम मुनीर का जिक्र किया. उन्होंने ईरान परमाणु कार्यक्रम पर कूटनीतिक हल पर जोर दिया. स्विट्जरलैंड में अमेरिका और ईरान वार्ता के दौरान उपराष्ट्रपति जेडी वेंस ने पत्नी उषा वेंस और फील्ड मार्शल आसिम मुनीर का जिक्र किया, ईरान परमाणु कार्यक्रम पर कूटनीतिक हल पर जोर दिया।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘होर्मुज बंद किया तो कोई देश नहीं रहेगा’, ईरानी अधिकारी को डोनाल्ड ट्रंप की खुली धमकी",
-      "url": "https://www.patrika.com/world-news/donald-trump-threatens-iran-over-hormuz-strait-closure-20685793",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-21T15:03:01+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trump-4.webp",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को खुली धमकी दी है। उन्होंने कहा कि यदि ईरान ने होर्मुज जलडमरूमध्य को बंद करने का प्रयास किया तो कोई भी देश सुरक्षित नहीं रहेगा। US-Iran Tensions: अमेरिका और ईरान के बीच तनाव एक बार फिर बढ़ गया है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को लेकर कड़ी चेतावनी दी है। ‘होर्मुज बंद किया तो कोई देश नहीं रहेगा’, ईरानी अधिकारी को डोनाल्ड ट्रंप की खुली धमकी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘होर्मुज बंद किया तो कोई देश नहीं रहेगा’, ईरानी अधिकारी को डोनाल्ड ट्रंप की खुली धमकी",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को खुली धमकी दी है। उन्होंने कहा कि यदि ईरान ने होर्मुज जलडमरूमध्य को बंद करने का प्रयास किया तो कोई भी देश सुरक्षित नहीं रहेगा। US-Iran Tensions: अमेरिका और ईरान के बीच तनाव एक बार फिर बढ़ गया है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को लेकर कड़ी चेतावनी दी है। ‘होर्मुज बंद किया तो कोई देश नहीं रहेगा’, ईरानी अधिकारी को डोनाल्ड ट्रंप की खुली धमकी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "नीट परीक्षा देने गलत सेंटर पर पहुंच गया छात्र, पुलिसकर्मी बना मददगार, बाइक से टाइम पर सही केंद्र",
-      "url": "https://www.abplive.com/news/india/neet-reexam-2026-student-and-parents-thanks-telangana-police-constable-after-help-reaching-correct-exam-centre-on-time-ann-3148651",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-21T14:44:06+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/21/6c478e5e1721155579eeea064fb00c6717820515430611126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "हैदराबाद में नीट परीक्षा देने पहुंचा एक छात्र गलत केंद्र पर पहुंच गया. परीक्षा शुरू होने से कुछ देर पहले उसे अपनी गलती का एहसास हुआ. पुलिस कांस्टेबल मदन ने छात्र की मदद की और उसे बाइक से सही परीक्षा केंद्र पहुंचाया. तेलंगाना की राजधानी हैदराबाद के त्रिमुलघेरी इलाके में नीट-यूजी 2026 के री-एग्जामिनेशन के दौरान एक अभ्यर्थी सैयद मोहम्मद हसन हाशमी गलती से अपने निर्धारित केंद्र के बजाय केंद्रीय विद्यालय, त्रिमुलघेरी पहुंच गए.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नीट परीक्षा देने गलत सेंटर पर पहुंच गया छात्र, पुलिसकर्मी बना मददगार, बाइक से टाइम पर सही केंद्र",
-          "summary": "हैदराबाद में नीट परीक्षा देने पहुंचा एक छात्र गलत केंद्र पर पहुंच गया. परीक्षा शुरू होने से कुछ देर पहले उसे अपनी गलती का एहसास हुआ. पुलिस कांस्टेबल मदन ने छात्र की मदद की और उसे बाइक से सही परीक्षा केंद्र पहुंचाया. तेलंगाना की राजधानी हैदराबाद के त्रिमुलघेरी इलाके में नीट-यूजी 2026 के री-एग्जामिनेशन के दौरान एक अभ्यर्थी सैयद मोहम्मद हसन हाशमी गलती से अपने निर्धारित केंद्र के बजाय केंद्रीय विद्यालय, त्रिमुलघेरी पहुंच गए.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राम मंदिर चढ़ावा चोरी मामले में भड़की VHP, सरकार से कर दी बड़ी मांग, कहा - ‘दोषियों को...’",
-      "url": "https://www.abplive.com/news/india/vhp-international-president-alok-kumar-says-probe-should-be-thoroughly-done-in-ram-mandir-donation-row-3148645",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-21T14:30:33+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/21/07bd246232cfd012592ec8d4ec9272d417820504136991126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "विश्व हिंदू परिषद के अंतरराष्ट्रीय अध्यक्ष आलोक कुमार ने अयोध्या के राम मंदिर में चढ़ावा चोरी मामले की गहन जांच की मांग की है. उन्होंने कहा कि दोषियों को कानून के अनुसार कड़ी से कड़ी सजा मिलनी चाहिए. अयोध्या के श्रीराम मंदिर में चढ़ावा चोरी मामले को लेकर विश्व हिंदू परिषद (VHP) के अंतरराष्ट्रीय अध्यक्ष आलोक कुमार ने रविवार (21 जून, 2026) को बड़ी मांग रखी है.",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राम मंदिर चढ़ावा चोरी मामले में भड़की VHP, सरकार से कर दी बड़ी मांग, कहा - ‘दोषियों को...’",
-          "summary": "विश्व हिंदू परिषद के अंतरराष्ट्रीय अध्यक्ष आलोक कुमार ने अयोध्या के राम मंदिर में चढ़ावा चोरी मामले की गहन जांच की मांग की है. उन्होंने कहा कि दोषियों को कानून के अनुसार कड़ी से कड़ी सजा मिलनी चाहिए. अयोध्या के श्रीराम मंदिर में चढ़ावा चोरी मामले को लेकर विश्व हिंदू परिषद (VHP) के अंतरराष्ट्रीय अध्यक्ष आलोक कुमार ने रविवार (21 जून, 2026) को बड़ी मांग रखी है.",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "योगा डे पर इस विदेशी लड़की ने भारत को लेकर कह दी ऐसी बात, थम गई न्यूयॉर्क के टाइम्स स्क्वायर की",
-      "url": "https://hindi.news18.com/news/nation/international-yoga-day-new-york-times-square-massive-gathering-foreign-woman-made-a-significant-statement-about-india-10591476.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-21T14:30:22+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/INTERNATIONAL-YOGA-DAY-1-2026-06-f147aaa67eeb9125a1ee1993ea109472-1200x800.jpg",
-      "summary": "अंतरराष्ट्रीय योग दिवस पर न्यूयॉर्क के टाइम्स स्क्वायर में हजारों लोगों ने योग किया। Times Square Yoga day 2026: अंतरराष्ट्रीय योग दिवस के मौके पर अमेरिका के न्यूयॉर्क स्थित टाइम्स स्क्वायर से बेहद अद्भुत तस्वीरें सामने आई हैं. दुनिया के सबसे व्यस्त चौराहों में से एक टाइम्स स्क्वायर पर हजारों की भीड़ ने योग आसनों के जरिए इस भागदौड़ भरी जिंदगी और शोर-शराबे के बीच शांति और सुकून का अनुभव किया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "योगा डे पर इस विदेशी लड़की ने भारत को लेकर कह दी ऐसी बात, थम गई न्यूयॉर्क के टाइम्स स्क्वायर की",
-          "summary": "अंतरराष्ट्रीय योग दिवस पर न्यूयॉर्क के टाइम्स स्क्वायर में हजारों लोगों ने योग किया। Times Square Yoga day 2026: अंतरराष्ट्रीय योग दिवस के मौके पर अमेरिका के न्यूयॉर्क स्थित टाइम्स स्क्वायर से बेहद अद्भुत तस्वीरें सामने आई हैं. दुनिया के सबसे व्यस्त चौराहों में से एक टाइम्स स्क्वायर पर हजारों की भीड़ ने योग आसनों के जरिए इस भागदौड़ भरी जिंदगी और शोर-शराबे के बीच शांति और सुकून का अनुभव किया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "US-ईरान वार्ता के बीच क्यों भड़के ट्रंप, तेहरान पर बड़े हमले की दी धमकी, बोले - 'अगर वो...'",
-      "url": "https://www.abplive.com/news/world/tehran-must-stop-proxies-in-lebanon-us-president-donald-trump-threatens-attack-on-iran-3148648",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-21T13:59:55+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/21/fffcaa3a0ecebc3379e6f516712cde2617820520130711324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिका और ईरान के बीच वार्ता जारी रहने के बीच डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है. उन्होंने कहा कि अगर ईरान ने लेबनान में अपने प्रॉक्सी को बाधाएं खड़ी करने से नहीं रोका तो अमेरिका तेहरान पर बड़ा हमला करेगा. Donald Trump Warns Iran: ईरान और अमेरिका के बीच एक तरफ स्विटजरलैंड में वार्ता जारी है, तो वहीं ट्रंप का कहना है कि ईरान को लेबनान में अपने प्रॉक्सी यानी प्रतिनिधियों को मुश्किलें खड़ी करने से रोकना चाहिए.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "US-ईरान वार्ता के बीच क्यों भड़के ट्रंप, तेहरान पर बड़े हमले की दी धमकी, बोले - 'अगर वो...'",
-          "summary": "अमेरिका और ईरान के बीच वार्ता जारी रहने के बीच डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है. उन्होंने कहा कि अगर ईरान ने लेबनान में अपने प्रॉक्सी को बाधाएं खड़ी करने से नहीं रोका तो अमेरिका तेहरान पर बड़ा हमला करेगा. Donald Trump Warns Iran: ईरान और अमेरिका के बीच एक तरफ स्विटजरलैंड में वार्ता जारी है, तो वहीं ट्रंप का कहना है कि ईरान को लेबनान में अपने प्रॉक्सी यानी प्रतिनिधियों को मुश्किलें खड़ी करने से रोकना चाहिए.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "स्पेन में सियासी भूचाल, प्रधानमंत्री की पत्नी के विदेश जाने पर रोक, पासपोर्ट जब्त",
-      "url": "https://hindi.news18.com/world/europe-spanish-pm-pedro-sanchez-s-wife-begona-gomez-barred-from-travelling-abroad-passport-confiscated-10591068.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-21T13:53:29+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Begona-Gomez-Reuters-2026-06-639764d28da697b9503c194535368c4e-1200x800.jpg",
-      "summary": "स्पेन की एक अदालत ने प्रधानमंत्री पेड्रो सांचेज की पत्नी बेगोना गोमेज को देश छोड़कर जाने से रोक दिया है. अदालत ने उनका पासपोर्ट भी जब्त कर लिया है. यह फैसला एक जांच के संबंध में लिया गया है. गोमेज पर भ्रष्टाचार और सत्ता के दुरुपयोग के आरोप हैं. उन्हें हर दो सप्ताह में अदालत में पेश होने का आदेश दिया गया है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्पेन में सियासी भूचाल, प्रधानमंत्री की पत्नी के विदेश जाने पर रोक, पासपोर्ट जब्त",
-          "summary": "स्पेन की एक अदालत ने प्रधानमंत्री पेड्रो सांचेज की पत्नी बेगोना गोमेज को देश छोड़कर जाने से रोक दिया है. अदालत ने उनका पासपोर्ट भी जब्त कर लिया है. यह फैसला एक जांच के संबंध में लिया गया है. गोमेज पर भ्रष्टाचार और सत्ता के दुरुपयोग के आरोप हैं. उन्हें हर दो सप्ताह में अदालत में पेश होने का आदेश दिया गया है.",
-          "region": "यूरोप और रूस"
         }
       }
     }
