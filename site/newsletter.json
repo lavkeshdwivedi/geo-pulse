@@ -1,80 +1,44 @@
 {
-  "generated_at": "2026-06-22T15:44:10.809658+00:00",
+  "generated_at": "2026-06-22T17:37:17.681110+00:00",
   "article_count": 50,
-  "total_unique_count": 280,
+  "total_unique_count": 270,
   "digest": {
-    "en": "Myanmar's new administration dominates the news. Armenia's election and Djibouti's prime real estate are also major stories. Vance cites progress on the Iran deal.",
-    "hi": "कतर गैस प्लांट में हुए विस्फोट में भारतीयों समेत 13 की मौत हो गई। बांग्लादेश में फिर सेना तैनात हुई है जो दिल्ली में रह रहीं शेख हसीना से जुड़ा मामला है। पिस्तौल लेकर स्कूल में घुसे 9वीं कक्षा के छात्र ने फिलीपींस में ताबड़तोड़ गोलियां चलाई।"
+    "en": "Keir Starmer's resignation dominates the U.K. headlines. Rubio's trip to the Gulf amid Iran talks is also a key story. Iran deal progress is cited by Vance.",
+    "hi": "ब्रिक्स के बहाने भारत-चीन ने बढ़ाया संवाद। डोभाल की कूटनीति का असर दिखा। वांग यी के साथ सुरक्षा और व्यापार पर चर्चा हुई।"
   },
   "articles": [
     {
-      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
-      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Wednesday, June 3, 2026 - 00:00",
-      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Myanmar's military leader Min Aung Hlaing transitioned from commander-in-chief to president after staged elections. Foreign governments should calibrate interactions with Naypyitaw to avoid legitimizing the administration. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
-      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Tuesday, June 2, 2026 - 16:33",
-      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Armenia will hold its first general election since 2021 on June 7. Foreign policy has dominated the campaign, raising questions about Yerevan's future external relations. Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Tiny Djibouti, and Its Prime Real Estate",
-      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 15:42",
-      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Djibouti's history, politics, and navigation of regional turmoil in the Horn of Africa and Red Sea are discussed. The nation's strategic location is central to these efforts. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
-      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 10:18",
-      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Pakistan began conveying proposals to end the U. S.-Iran war after bombings started on February 28. Islamabad perceives high stakes, undertaking the mediator role despite inherent risks. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
-      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Friday, June 5, 2026 - 10:38",
-      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The European Union's next seven-year budget may reduce spending on conflict prevention and aid to fragile states. Experts discuss the potential consequences of these funding plans. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Indians among 13 dead in Qatar explosion, says Qatar's Minister",
-      "url": "https://www.thehindu.com/news/national/indians-killed-in-qatar-explosion/article71133920.ece",
+      "title": "U.K. PM Keir Starmer resigns: What went wrong?",
+      "url": "https://www.thehindu.com/videos/watch-uk-pm-keir-starmer-resigns-what-went-wrong/article71134472.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-06-22T15:28:59+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/yz0ddy/article71133945.ece/alternates/LANDSCAPE_1200/Qatar_Explosion_96879.jpg",
-      "summary": "An explosion at Qatar's Barzan gas supply facility in Ras Laffan Industrial City killed 13 people, including Indians. QatarEnergy CEO Al-Kaabi stated 66 others were injured in the Sunday evening incident. Mr. Al-Kaabi, who is also the CEO of QatarEnergy, said 66 people were injured in the fire caused by the explosion at the Barzan local gas supply facility in Ras Laffan Industrial City on Sunday (June 21, 2026) evening, Doha News reported.",
+      "published_at": "2026-06-22T16:36:58+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/jhla60/article71134471.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-22%20at%208.51.11%20PM.jpeg",
+      "summary": "Prime Minister Keir Starmer resigned from his position in the United Kingdom. This decision followed intense political pressure. The summary also noted an ammonia gas leak in Tamil Nadu. In this episode, we look at the resignation of U. K. Prime Minister Keir Starmer amid mounting political pressure, the deadly ammonia gas leak at a seafood processing unit in Tamil Nadu’s Tiruvallur district, and more.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Election of far-right leader raises fears for democracy in Colombia",
+      "url": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-22T16:29:48+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/3d07fd9177e9b138942f1a7eeb8fd9bbece609b8/274_69_1556_1245/master/1556.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=001952378cef476f699cfbce9d9fe29d",
+      "summary": "Abelardo de la Espriella, a supporter of Donald Trump, was elected in Colombia. His rhetoric includes vows to eliminate the left and execute criminals. This election has raised concerns about the country's democracy. Trump-admiring Abelardo de la Espriella has vowed to ‘disembowel’ the left and kill criminals like ‘rats and cockroaches’When more than 20 women accused a Colombian evangelical pastor in 2012 of sexually abusing them, the defendant’s lawyer sought to discredit the allegations by telling the court that they were “trepadoras” – a pejorative term meaning social climbers. He ultimately secured his clie.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Rubio to travel to Gulf amid Iran talks",
+      "url": "https://www.channelnewsasia.com/world/rubio-iran-talks-us-gulf-visit-hormuz-6201231",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-22T16:19:37+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--5ZNIH-9i--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/House_Foreign_Relations_58_94.jpg?itok=NqElTI4T",
+      "summary": "Secretary of State Marco Rubio will visit the United Arab Emirates, Kuwait, and Bahrain. Discussions will focus on Iran talks, regional security, and the Strait of Hormuz. The aim is to promote peace and stability. US Secretary of State Marco Rubio will visit the UAE, Kuwait and Bahrain to discuss Iran talks, regional security and the reopening of the Strait of Hormuz, stressing \"the importance of peace and stability in the region.\".",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -224,18 +188,6 @@
       "translations": {}
     },
     {
-      "title": "Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote",
-      "url": "https://www.theguardian.com/world/2026/jun/20/colombia-presidential-election-paramilitary-militia-runoff",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-20T12:00:01+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/f582edc18880a8e1e14582718c9b69dd07cb29b1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8860f611d3471210127f91190d87c941",
-      "summary": "Colombia holds a presidential runoff vote on Sunday. Colombians will choose on Sunday between two men whose lives have been very differently shaped by the militias, and whose visions for the country are poles apartWhoever wins Sunday’s presidential runoff vote in Colombia, the country’s next leader will have a personal history intertwined with one of the criminal forces at the heart of a decades-long armed conflict that claimed nearly half a million.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "For One 21-Year-Old New Zealander, War In Ukraine Means A Chance To 'Fight For Freedom'",
       "url": "https://www.rferl.org/a/new-zealand-volunteer-ukraine-military/33783528.html",
       "source": "Radio Free Europe / Liberty",
@@ -308,6 +260,126 @@
       "translations": {}
     },
     {
+      "title": "Severe thunderstorms sweep Europe and east Asia",
+      "url": "https://www.theguardian.com/environment/2026/jun/19/weather-tracker-severe-thunderstorms-europe-east-asia-heatwave-france",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-19T08:34:27+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/48cabc989aa39f3250858b9c9604445f1bc22bd5/0_0_4851_3881/master/4851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c41238055f10446aea65577d773e326a",
+      "summary": "Severe thunderstorms have impacted Slovenia and France. Strong winds and heavy rain hit Slovenia. France is experiencing an unusual heatwave. The Balkans also experienced widespread destruction from storms. Strong winds and heavy rain batter Slovenia, while France experiences atypical heatwaveSevere thunderstorms swept across the Balkans last week, bringing widespread destruction to parts of the region. The storms developed as unstable hot air lingered over the Adriatic Sea while a cold front plunged south-eastward. The front began its journey on 10 June in Slovenia, where the Slovenian Environment Ag.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-18T17:52:08+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/90096680177812e34dcb5f7b1083554f8d2d2f1c/325_13_3461_2769/master/3461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb1609aec61ef9ed407808e1926a2a22",
+      "summary": "Barbados Prime Minister Mia Mottley announced a manifesto for slavery reparations. The document highlights harm to African women. Other Caribbean nations are considering this manifesto. Updated document, which emphasises harm done to African women, is being considered by other Caribbean countriesBarbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical and legal case” for reparations over damage caused by hundreds of years of enslavement. Mottley was speaking at a “historic” conference in Ghana to advance the push fo.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-18T16:15:31+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/ba383a58506057d986fed82219e906a7fa9da91a/547_27_2302_1841/master/2302.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc2905f77f6695d38dca18127aff15f3",
+      "summary": "Dawie Groenewald and Tielman Erasmus were sentenced in South Africa ‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrestTwo traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, partly bringing to an end an almost two-decade legal saga. Dawie Groenewald and Tielman Erasmus had faced more than 1,700 charges ranging from illegally hunting and de.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "From camel coats to guochao: Max Mara woos China’s luxury brand consumers",
+      "url": "https://www.theguardian.com/fashion/2026/jun/16/max-mara-woos-china-luxury-brand-consumers",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-16T17:15:13+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/c75afcaf4c595903195656c47c69afa3cc398d17/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=286feb9d8c38131240487ab91eb10334",
+      "summary": "Max Mara celebrated its 75th anniversary with a catwalk show in Shanghai. The event paid tribute to Chinese style, aiming to attract luxury consumers in the region. Designer Ian Griffiths cited Shanghai's energetic pace as a reason for choosing the city. The brand positions itself as a product for metropolitan women. Fashion house pays tribute to Chinese style with its 75th anniversary catwalk show in Shanghai“New York may be the city that never sleeps, but Shanghai doesn’t even sit down.” For the British designer Ian Griffiths, who encountered this line in the New Yorker, it summed up why China’s biggest city was the right place to celebrate Max Mara’s 75th anniversary.“Max Mara is a product for metropolitan.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "ब्रिक्स के बहाने भारत-चीन ने बढ़ाया संवाद, डोभाल की कूटनीति का असर? वांग यी के साथ सुरक्षा और",
+      "url": "https://hindi.news18.com/news/nation/ajit-doval-diplomacy-with-wang-yi-brics-nsa-meet-india-china-dialogue-10594611.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-22T17:26:44+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Ajit-Doval-Wang-Yi-2026-06-af5ed07903a0e676ab846cd0dba36066-1200x800.jpg",
+      "summary": "भारत के राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल और चीन के विदेश मंत्री वांग यी ने ब्रिक्स के इतर मुलाकात की। दोनों नेताओं ने द्विपक्षीय संबंधों में प्रगति पर संतोष व्यक्त किया। उन्होंने भविष्य के सुरक्षा रोडमैप पर भी चर्चा की। अजीत डोभाल और वांग यी के बीच हुई बातचीत कूटनीतिक रूप से बेहद रचनात्मक रही और भविष्य के सुरक्षा रोडमैप को ध्यान में रखते हुए कई महत्वपूर्ण मुद्दों पर केंद्रित रही.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रिक्स के बहाने भारत-चीन ने बढ़ाया संवाद, डोभाल की कूटनीति का असर? वांग यी के साथ सुरक्षा और",
+          "summary": "भारत के राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल और चीन के विदेश मंत्री वांग यी ने ब्रिक्स के इतर मुलाकात की। दोनों नेताओं ने द्विपक्षीय संबंधों में प्रगति पर संतोष व्यक्त किया। उन्होंने भविष्य के सुरक्षा रोडमैप पर भी चर्चा की। अजीत डोभाल और वांग यी के बीच हुई बातचीत कूटनीतिक रूप से बेहद रचनात्मक रही और भविष्य के सुरक्षा रोडमैप को ध्यान में रखते हुए कई महत्वपूर्ण मुद्दों पर केंद्रित रही.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'हम अपने फैसले खुद लेते हैं', ट्रंप के दावों को नेतन्याहू ने किया खारिज",
+      "url": "https://hindi.news18.com/world/middle-east-israeli-prime-minister-benjamin-netanyahu-pushed-back-against-donald-trump-follows-his-instructions-10594514.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-22T16:56:24+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-Trump-Netanyahu-Photo-AFP-2026-06-73344512d99bfe046aa820f886a9f690-1200x800.jpg",
+      "summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के इस दावे को खारिज किया कि इजरायल उनके निर्देशों का पालन करता है। नेतन्याहू ने कहा कि दोनों नेता अपने राष्ट्रों का प्रतिनिधित्व करते हैं और अपने राष्ट्रीय हितों को प्राथमिकता देते हैं। इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दावे को खारिज किया है जिसमें उन्होंने कहा था कि इजरायल उनके निर्देशों का पालन करता है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'हम अपने फैसले खुद लेते हैं', ट्रंप के दावों को नेतन्याहू ने किया खारिज",
+          "summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के इस दावे को खारिज किया कि इजरायल उनके निर्देशों का पालन करता है। नेतन्याहू ने कहा कि दोनों नेता अपने राष्ट्रों का प्रतिनिधित्व करते हैं और अपने राष्ट्रीय हितों को प्राथमिकता देते हैं। इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दावे को खारिज किया है जिसमें उन्होंने कहा था कि इजरायल उनके निर्देशों का पालन करता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘ईरानी पैसे से नहीं फैलने देंगे आतंकवाद’, मीडिया रिपोर्ट्स पर भड़के जेडी वेंस, बताया क्या है",
+      "url": "https://www.patrika.com/world-news/jd-vance-on-iranian-frozen-assets-classic-trump-deal-to-help-american-farmers-20688191",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T15:15:44+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/JD-Vance.webp",
+      "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने ईरान की फ्रीज की गई संपत्तियों पर मीडिया रिपोर्टों का खंडन किया। उन्होंने कहा कि यदि भविष्य में ईरान को कोई संपत्ति जारी की जाती है, तो उस धन का उपयोग आतंकवाद के लिए नहीं किया जाएगा। JD Vance Iranian Frozen Assets Statement: स्विट्जरलैंड में अमेरिका और ईरान के बीच जारी बातचीत के बीच अमेरिकी उपराष्ट्रपति जेडी वेंस ने ईरान की फ्रीज हुई संपत्तियों को लेकर चल रही खबरों पर सफाई दी है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘ईरानी पैसे से नहीं फैलने देंगे आतंकवाद’, मीडिया रिपोर्ट्स पर भड़के जेडी वेंस, बताया क्या है",
+          "summary": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने ईरान की फ्रीज की गई संपत्तियों पर मीडिया रिपोर्टों का खंडन किया। उन्होंने कहा कि यदि भविष्य में ईरान को कोई संपत्ति जारी की जाती है, तो उस धन का उपयोग आतंकवाद के लिए नहीं किया जाएगा। JD Vance Iranian Frozen Assets Statement: स्विट्जरलैंड में अमेरिका और ईरान के बीच जारी बातचीत के बीच अमेरिकी उपराष्ट्रपति जेडी वेंस ने ईरान की फ्रीज हुई संपत्तियों को लेकर चल रही खबरों पर सफाई दी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका का बड़ा फैसला, ईरान को 60 दिनों तक तेल बेचने की मिली इजाजत",
+      "url": "https://www.patrika.com/world-news/iran-granted-permission-sell-oil-sanctions-relief-treasury-peace-talks-20688382",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T14:56:07+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/US-Iran-War-2.webp",
+      "summary": "अमेरिकी ट्रेजरी विभाग ने ईरान के तेल निर्यात पर कुछ प्रतिबंधों में ढील दी है। एक अस्थायी लाइसेंस के तहत, ईरान को 21 अगस्त तक 60 दिनों के लिए तेल बेचने की अनुमति दी गई है। Relief Iran’s oil exports: अमेरिका और ईरान के बीच जारी बातचीत के बीच वॉशिंगटन ने बड़ा कदम उठाया है। अमेरिकी ट्रेजरी विभाग ने ईरान से जुड़े तेल निर्यात पर कुछ प्रतिबंधों में राहत देते हुए एक अस्थायी लाइसेंस जारी किया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका का बड़ा फैसला, ईरान को 60 दिनों तक तेल बेचने की मिली इजाजत",
+          "summary": "अमेरिकी ट्रेजरी विभाग ने ईरान के तेल निर्यात पर कुछ प्रतिबंधों में ढील दी है। एक अस्थायी लाइसेंस के तहत, ईरान को 21 अगस्त तक 60 दिनों के लिए तेल बेचने की अनुमति दी गई है। Relief Iran’s oil exports: अमेरिका और ईरान के बीच जारी बातचीत के बीच वॉशिंगटन ने बड़ा कदम उठाया है। अमेरिकी ट्रेजरी विभाग ने ईरान से जुड़े तेल निर्यात पर कुछ प्रतिबंधों में राहत देते हुए एक अस्थायी लाइसेंस जारी किया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "कतर गैस प्लांट में हुए विस्फोट में भारतीयों समेत 13 की मौत, 66 घायल",
       "url": "https://hindi.news18.com/world/middle-east-13-including-indians-killed-66-injured-in-explosion-qatar-gas-plant-10594352.html",
       "source": "News18 Hindi (World)",
@@ -340,6 +412,24 @@
           "title": "बांग्‍लादेश में फ‍िर क्‍यों तैनात हुई सेना, द‍िल्‍ली में रह रहीं शेख हसीना से सीधा कनेक्‍शन",
           "summary": "बांग्लादेश सरकार ने 30 जून को अवामी लीग की वर्षगांठ के मद्देनजर सेना तैनात करने का आदेश दिया है। सरकार को आशंका है कि इस दिन अशांति फैल सकती है। ढाका सहित कई जिलों में हाई अलर्ट जारी किया गया है। बांग्लादेश सरकार ने अवामी लीग की 30 जून को वर्षगांठ की वजह से सेना तैनात करने के आदेश द‍िए हैं.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कतर के गैस टर्मिनल में बड़ा धमाका, भारतीयों समेत 13 लोगों की मौत, करीब 66 लोग घायल",
+      "url": "https://www.patrika.com/world-news/oatar-gas-terminal-blast-saad-alkaabi-lng-export-ras-laffan-energy-crisis-20688357",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T14:17:31+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Queue-.webp",
+      "summary": "कतर के रास लाफान औद्योगिक क्षेत्र में एक गैस टर्मिनल में विस्फोट हुआ। इस दुर्घटना में 13 लोगों की मौत हुई और 66 घायल हुए। कतर के ऊर्जा मंत्री ने कहा कि एलएनजी निर्यात पर कोई असर नहीं पड़ेगा। Qatar Gas Terminal Blast: कतर के रास लाफान औद्योगिक क्षेत्र में हुए भीषण धमाके ने दुनिया के ऊर्जा बाजारों में चिंता बढ़ा दी है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कतर के गैस टर्मिनल में बड़ा धमाका, भारतीयों समेत 13 लोगों की मौत, करीब 66 लोग घायल",
+          "summary": "कतर के रास लाफान औद्योगिक क्षेत्र में एक गैस टर्मिनल में विस्फोट हुआ। इस दुर्घटना में 13 लोगों की मौत हुई और 66 घायल हुए। कतर के ऊर्जा मंत्री ने कहा कि एलएनजी निर्यात पर कोई असर नहीं पड़ेगा। Qatar Gas Terminal Blast: कतर के रास लाफान औद्योगिक क्षेत्र में हुए भीषण धमाके ने दुनिया के ऊर्जा बाजारों में चिंता बढ़ा दी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -434,6 +524,42 @@
       }
     },
     {
+      "title": "रूस-यूक्रेन युद्ध में फिर बढ़ा तनाव, एक-दूसरे पर किया ड्रोन अटैक, हमले में 6 की मौत",
+      "url": "https://www.patrika.com/world-news/russia-ukraine-war-escalates-russia-downs-84-drones-deadly-attacks-leave-6-dead-20687990",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T11:53:49+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Russia-Ukraine-War-Latest-Update.webp",
+      "summary": "रूस ने दावा किया कि उसने मॉस्को की ओर बढ़ रहे 84 यूक्रेनी ड्रोन मार गिराए हैं। यूक्रेन ने भी रूस के कई सैन्य ठिकानों को निशाना बनाया है। इन हमलों में छह लोगों की मौत हुई है। Russia Ukraine War Latest Update: 24 फरवरी, 2022 से शुरू हुआ रूस-यूक्रेन युद्ध खत्म होने का नाम नहीं ले रहा। एक बार फिर दोनों देशों ने एक-दूसरे पर भीषण अटैक किया है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस-यूक्रेन युद्ध में फिर बढ़ा तनाव, एक-दूसरे पर किया ड्रोन अटैक, हमले में 6 की मौत",
+          "summary": "रूस ने दावा किया कि उसने मॉस्को की ओर बढ़ रहे 84 यूक्रेनी ड्रोन मार गिराए हैं। यूक्रेन ने भी रूस के कई सैन्य ठिकानों को निशाना बनाया है। इन हमलों में छह लोगों की मौत हुई है। Russia Ukraine War Latest Update: 24 फरवरी, 2022 से शुरू हुआ रूस-यूक्रेन युद्ध खत्म होने का नाम नहीं ले रहा। एक बार फिर दोनों देशों ने एक-दूसरे पर भीषण अटैक किया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ब्रिटेन के प्रधानमंत्री कीर स्टारमर ने पद से दिया इस्तीफा, आखिर क्यों बने ऐसे हालात?",
+      "url": "https://www.patrika.com/world-news/uk-pm-keir-starmer-position-at-risk-pressure-labour-party-cabinet-20687215",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T11:49:13+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/United-Kingdom-Prime-Minister-Keir-Starmer.webp",
+      "summary": "ब्रिटेन के प्रधानमंत्री कीर स्टारमर ने पद से इस्तीफा दे दिया है। उन्होंने कहा कि उनके निर्णय देश को सर्वोच्च प्राथमिकता देने के बारे में थे। उन्होंने प्रधानमंत्री पद से इस्तीफा देने की घोषणा करते हुए कहा और पोस्ट किया, ‘मैंने जो भी निर्णय लिए हैं, वे मेरे प्रिय देश को सर्वोच्च प्राथमिकता देने के बारे में हैं। इसीलिए मैं इस्तीफा दे रहा हूँ।’भारतवंशी ऋषि सुनक के बाद कीर स्टार्मर प्रधानमंत्री बने तो ब्रिटेन की जनता को लगा था कि हमें एक।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रिटेन के प्रधानमंत्री कीर स्टारमर ने पद से दिया इस्तीफा, आखिर क्यों बने ऐसे हालात?",
+          "summary": "ब्रिटेन के प्रधानमंत्री कीर स्टारमर ने पद से इस्तीफा दे दिया है। उन्होंने कहा कि उनके निर्णय देश को सर्वोच्च प्राथमिकता देने के बारे में थे। उन्होंने प्रधानमंत्री पद से इस्तीफा देने की घोषणा करते हुए कहा और पोस्ट किया, ‘मैंने जो भी निर्णय लिए हैं, वे मेरे प्रिय देश को सर्वोच्च प्राथमिकता देने के बारे में हैं। इसीलिए मैं इस्तीफा दे रहा हूँ।’भारतवंशी ऋषि सुनक के बाद कीर स्टार्मर प्रधानमंत्री बने तो ब्रिटेन की जनता को लगा था कि हमें एक।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "पूरा शहर धुआं-धुआं, जी7 की मीटिंग के बाद रूस पर आग बरसा रहा यूक्रेन, दो दिन में दो बड़े हमले",
       "url": "https://hindi.news18.com/world/europe-series-of-explosions-rocked-russian-city-of-voronezh-by-ukrain-10593534.html",
       "source": "News18 Hindi (World)",
@@ -447,6 +573,42 @@
         "hi": {
           "title": "पूरा शहर धुआं-धुआं, जी7 की मीटिंग के बाद रूस पर आग बरसा रहा यूक्रेन, दो दिन में दो बड़े हमले",
           "summary": "यूक्रेन ने रूस के वोरोनिश शहर के पास एक सेमीकंडक्टर प्लांट पर दो बड़े हमले किए हैं। ये हमले जी7 शिखर सम्मेलन के बाद हुए हैं। हमलों के बाद प्रभावित क्षेत्रों से धुएं के ऊंचे गुबार उठते देखे गए। रूसी का वोरोनिश शहर एक के बाद एक हुए धमाकों से दहल उठा है. यूक्रेन ने शहर के पास के सेमीकंडक्टर प्लांट पर हमला किया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "‘बन गया फाइनल डील का रोडमैप’, अमेरिका-ईरान की सफल वार्ता के बाद पाकिस्तान PM शहबाज शरीफ ने दी बड़ी",
+      "url": "https://www.patrika.com/world-news/us-iran-talks-success-roadmap-final-deal-60-days-shehbaz-sharif-20687687",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T11:01:45+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Pakistan-PM-Shehbaz-Sharif.webp",
+      "summary": "पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने कहा कि स्विट्जरलैंड में अमेरिका और ईरान के बीच हुई वार्ता में सकारात्मक प्रगति हुई है। उन्होंने इसे फाइनल डील का रोडमैप बताया। US Iran Talks Switzerland: स्विट्जरलैंड में अमेरिका और ईरान के बीच हुई अहम बातचीत को लेकर पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने कहा है कि बैठक अच्छे माहौल में हुई और कई मुद्दों पर सकारात्मक प्रगति हुई है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘बन गया फाइनल डील का रोडमैप’, अमेरिका-ईरान की सफल वार्ता के बाद पाकिस्तान PM शहबाज शरीफ ने दी बड़ी",
+          "summary": "पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने कहा कि स्विट्जरलैंड में अमेरिका और ईरान के बीच हुई वार्ता में सकारात्मक प्रगति हुई है। उन्होंने इसे फाइनल डील का रोडमैप बताया। US Iran Talks Switzerland: स्विट्जरलैंड में अमेरिका और ईरान के बीच हुई अहम बातचीत को लेकर पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने कहा है कि बैठक अच्छे माहौल में हुई और कई मुद्दों पर सकारात्मक प्रगति हुई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "UK के एक दशक में 7वें पीएम ने कार्यकाल पूरा होने से पहले छोड़ा पद, जानें कीर स्टारमर से पहले",
+      "url": "https://www.patrika.com/world-news/keir-starmer-resignation-uk-7th-pm-in-a-decade-who-resign-before-completing-the-term-know-who-else-did-this-20687720",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T10:35:32+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Keir-Starmer.webp",
+      "summary": "ब्रिटेन के प्रधानमंत्री कीर स्टारमर ने पद से इस्तीफा दे दिया है। वह पिछले एक दशक में कार्यकाल पूरा होने से पहले पद छोड़ने वाले सातवें प्रधानमंत्री हैं। Keir Starmer Resignation: ब्रिटेन की राजनीति एक बार फिर अस्थिरता के दौर में पहुंच गई है। यूनाइटेड किंगडम (UK) के प्रधानमंत्री कीर स्टारमर ने सोमवार को लेबर पार्टी के नेता और प्रधानमंत्री पद से इस्तीफा देने की घोषणा कर दी है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UK के एक दशक में 7वें पीएम ने कार्यकाल पूरा होने से पहले छोड़ा पद, जानें कीर स्टारमर से पहले",
+          "summary": "ब्रिटेन के प्रधानमंत्री कीर स्टारमर ने पद से इस्तीफा दे दिया है। वह पिछले एक दशक में कार्यकाल पूरा होने से पहले पद छोड़ने वाले सातवें प्रधानमंत्री हैं। Keir Starmer Resignation: ब्रिटेन की राजनीति एक बार फिर अस्थिरता के दौर में पहुंच गई है। यूनाइटेड किंगडम (UK) के प्रधानमंत्री कीर स्टारमर ने सोमवार को लेबर पार्टी के नेता और प्रधानमंत्री पद से इस्तीफा देने की घोषणा कर दी है।",
           "region": "यूरोप और रूस"
         }
       }
@@ -488,6 +650,42 @@
       }
     },
     {
+      "title": "‘हम पीछे नहीं हटेंगे’, लेबनान में सीजफायर के बीच इजरायली विदेश मंत्री गिदोन सार ने खींची नई रेड लाइन",
+      "url": "https://www.patrika.com/world-news/lebanon-ceasefire-talks-gideon-saar-lebanon-president-us-qatar-call-20687590",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T09:55:45+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Gideon-Saar.webp",
+      "summary": "इजरायली विदेश मंत्री गिदोन सार ने कहा कि इजरायल दक्षिणी लेबनान में बनाए गए सिक्योरिटी जोन से अपनी सेना को नहीं हटाएगा। यह बात लेबनान में सीजफायर प्रयासों के बीच आई है। Lebanon Ceasefire Talks: लेबनान में सीजफायर को लेकर चल रहे कूटनीतिक प्रयासों के बीच इजरायल अब और सख्त होता नजर आ रहा है। इजरायली विदेश मंत्री गिदोन सार ने इस बात को साफ कर दिया है कि इजरायली सरकार दक्षिणी लेबनान में बनाए गए सिक्योरिटी जोन से अपनी सेना को नहीं हटाएगी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘हम पीछे नहीं हटेंगे’, लेबनान में सीजफायर के बीच इजरायली विदेश मंत्री गिदोन सार ने खींची नई रेड लाइन",
+          "summary": "इजरायली विदेश मंत्री गिदोन सार ने कहा कि इजरायल दक्षिणी लेबनान में बनाए गए सिक्योरिटी जोन से अपनी सेना को नहीं हटाएगा। यह बात लेबनान में सीजफायर प्रयासों के बीच आई है। Lebanon Ceasefire Talks: लेबनान में सीजफायर को लेकर चल रहे कूटनीतिक प्रयासों के बीच इजरायल अब और सख्त होता नजर आ रहा है। इजरायली विदेश मंत्री गिदोन सार ने इस बात को साफ कर दिया है कि इजरायली सरकार दक्षिणी लेबनान में बनाए गए सिक्योरिटी जोन से अपनी सेना को नहीं हटाएगी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ब्रिटेन का अगला प्रधानमंत्री कौन बनेगा, कतार में शामिल कौन-कौन हैं इस पद के प्रमुख दावेदार",
+      "url": "https://www.patrika.com/world-news/britain-next-pm-key-contenders-in-the-running-for-the-post-20687560",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T09:52:31+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Acting-Pm-of-UK-Keir-Starmer.webp",
+      "summary": "ब्रिटेन के प्रधानमंत्री कीर स्टारमर ने पद से त्याग पत्र दिया, अब नए प्रधानमंत्री की दौड़ शुरू हो गई है। UK New PM Post Next Major Contenders: ब्रिटेन के प्रधानमंत्री कीर स्टारमर के पद से त्याग पत्र देने से अब यह कुर्सी खाली हो गई है, यह बात दीगर है कि वे अगला प्रधानमंत्री चुने जाने तक पद पर बने रहेंगे।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रिटेन का अगला प्रधानमंत्री कौन बनेगा, कतार में शामिल कौन-कौन हैं इस पद के प्रमुख दावेदार",
+          "summary": "ब्रिटेन के प्रधानमंत्री कीर स्टारमर ने पद से त्याग पत्र दिया, अब नए प्रधानमंत्री की दौड़ शुरू हो गई है। UK New PM Post Next Major Contenders: ब्रिटेन के प्रधानमंत्री कीर स्टारमर के पद से त्याग पत्र देने से अब यह कुर्सी खाली हो गई है, यह बात दीगर है कि वे अगला प्रधानमंत्री चुने जाने तक पद पर बने रहेंगे।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "यूनाइटेड किंगडम के पीएम स्टार्मर का इस्तीफा, 10 साल में छठें प्रधानमंत्री ने छोड़ा पद",
       "url": "https://hindi.news18.com/world/britain-united-kingdom-pm-keir-starmer-announces-resignation-after-donald-trump-claim-10593257.html",
       "source": "News18 Hindi (World)",
@@ -502,6 +700,24 @@
           "title": "यूनाइटेड किंगडम के पीएम स्टार्मर का इस्तीफा, 10 साल में छठें प्रधानमंत्री ने छोड़ा पद",
           "summary": "ब्रिटेन के प्रधानमंत्री कीर स्टार्मर ने अपने पद से इस्तीफा दे दिया है। यह पिछले 10 वर्षों में छठे ब्रिटिश प्रधानमंत्री का इस्तीफा है। स्टार्मर ने यह निर्णय अटकलों के बीच लिया और परिस्थितियों के दबाव में पद छोड़ा। British PM Keir Starmer Announces Resignation: पिछले दिनों चल रही तमाम अटकलों को सच साबित करते हुए ब्रिटेन के पीएम कीर स्टार्मर ने आखिरकार अपने पद से इस्तीफा देने की घोषणा कर दी है.",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "इजरायली PM नेतन्याहू ने खारिज किया अमेरिकी राष्ट्रपति ट्रंप का दावा, कहा- हम संप्रभु देश, खुद",
+      "url": "https://www.patrika.com/world-news/israeli-pm-netanyahu-dismisses-us-president-trump-claim-20687350",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T08:31:15+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Israeli-PM-Benjamin-Netanyahu-and-US-President-Trump-0.webp",
+      "summary": "इजरायली प्रधानमंत्री नेतन्याहू ने अमेरिकी राष्ट्रपति ट्रंप के दावे को खारिज किया, कहा कि इजरायल एक संप्रभु देश है। Trump vs Netanyahu: इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दावे को खारिज कर दिया है। नेतन्याहू ने कहा कि इजरायल एक संप्रभु देश है। हम अपने निर्णय स्वयं करते हैं। नेतन्याहू ने कहा कि अमेरिका और इजरायल के बीच परस्पर सम्मान का भाव है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजरायली PM नेतन्याहू ने खारिज किया अमेरिकी राष्ट्रपति ट्रंप का दावा, कहा- हम संप्रभु देश, खुद",
+          "summary": "इजरायली प्रधानमंत्री नेतन्याहू ने अमेरिकी राष्ट्रपति ट्रंप के दावे को खारिज किया, कहा कि इजरायल एक संप्रभु देश है। Trump vs Netanyahu: इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दावे को खारिज कर दिया है। नेतन्याहू ने कहा कि इजरायल एक संप्रभु देश है। हम अपने निर्णय स्वयं करते हैं। नेतन्याहू ने कहा कि अमेरिका और इजरायल के बीच परस्पर सम्मान का भाव है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -538,222 +754,6 @@
           "title": "पाकिस्‍तान की जेल में बलूचों पर अत्‍याचार, 9 दिनों से चल रहा धरना, पर कोई सुनवाई नहीं",
           "summary": "क्वेटा की हुडा जेल में बंद बलूच नेताओं पर अत्याचार के विरोध में नौ दिनों से धरना चल रहा है. पाकिस्तान सरकार बलूचों की आवाज को दबाने की कोशिश कर रही है. कैदियों को अपनी मांगों के लिए जेल में ही विरोध प्रदर्शन करना पड़ रहा है. Pakistan News: पाकिस्‍तान सरकार बलूचों की आवाज को हर कीमत पर कुचलने पर आमादा है.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान जंग पर आसिम मुनीर की पीठ सहलाता रहा अमेरिका, इधर ट्रंप ने भारत को दे दिया ₹4500 करोड़, हो गई",
-      "url": "https://hindi.news18.com/news/nation/america-donald-trump-government-give-rupees-45551120800-defence-support-package-to-india-asim-munir-pakistan-shock-10592803.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-22T07:22:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/apache-2026-06-5f473f8881b80883a93cfb959860ff3a-1200x800.jpg",
-      "summary": "अमेरिका ने ईरान पर प्रतिबंधों के बीच भारत को 4500 करोड़ रुपये से अधिक का समर्थन पैकेज देने के प्रस्ताव को मंजूरी दी है. यह भारत और अमेरिका के बीच बढ़ते रक्षा और आर्थिक सहयोग को दर्शाता है. India-America Defence News: भारत और अमेरिका के संबंध लगातार मजबूत हो रहे हैं. दोनों देशों के बीच रक्षा संबंध के साथ ही आर्थिक सहयोग भी लगातार बढ़ रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान जंग पर आसिम मुनीर की पीठ सहलाता रहा अमेरिका, इधर ट्रंप ने भारत को दे दिया ₹4500 करोड़, हो गई",
-          "summary": "अमेरिका ने ईरान पर प्रतिबंधों के बीच भारत को 4500 करोड़ रुपये से अधिक का समर्थन पैकेज देने के प्रस्ताव को मंजूरी दी है. यह भारत और अमेरिका के बीच बढ़ते रक्षा और आर्थिक सहयोग को दर्शाता है. India-America Defence News: भारत और अमेरिका के संबंध लगातार मजबूत हो रहे हैं. दोनों देशों के बीच रक्षा संबंध के साथ ही आर्थिक सहयोग भी लगातार बढ़ रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "क्या चीन ने 10 कंपनियों पर प्रतिबंध लगा कर अमेरिका से बदला लिया, आखिर क्या है मामला ?",
-      "url": "https://www.patrika.com/world-news/us-and-china-actions-taken-against-each-other-meaning-20686971",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-22T07:22:48+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-President-Trump-and-Chinese-President-Xi-Jinping.webp",
-      "summary": "अमेरिका द्वारा 80 कंपनियों पर प्रतिबंध लगाने के जवाब में चीन ने 10 अमेरिकी कंपनियों पर प्रतिबंध लगा दिए हैं. यह कदम दोनों देशों के बीच जारी तनाव को दर्शाता है. China-America Relations: अमेरिका और चीन में तनातनी जग जाहिर है, लेकिन इसे कम करने के नाम पर डोनाल्ड ट्रंप के चीन दौरे और उनके तमाम दावों व वादों के बावजूद इन दोनों ताकतवर देशों के रिश्तों में मधुरता नहीं आई है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या चीन ने 10 कंपनियों पर प्रतिबंध लगा कर अमेरिका से बदला लिया, आखिर क्या है मामला ?",
-          "summary": "अमेरिका द्वारा 80 कंपनियों पर प्रतिबंध लगाने के जवाब में चीन ने 10 अमेरिकी कंपनियों पर प्रतिबंध लगा दिए हैं. यह कदम दोनों देशों के बीच जारी तनाव को दर्शाता है. China-America Relations: अमेरिका और चीन में तनातनी जग जाहिर है, लेकिन इसे कम करने के नाम पर डोनाल्ड ट्रंप के चीन दौरे और उनके तमाम दावों व वादों के बावजूद इन दोनों ताकतवर देशों के रिश्तों में मधुरता नहीं आई है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "गायब हो जाएगा सूर्य, दिन में दिखेंगे तारे ...50 दिन बाद आकाश में होगा तमाशा, दुनिया पर होगा क्या",
-      "url": "https://hindi.news18.com/world/rest-of-world-world-will-witness-total-solar-eclipse-to-darken-skies-across-europe-asia-at-12-august-2026-10592808.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-22T07:12:20+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/solar-eclipse-2026-06-c2ca93b9c4c25a4d58ebd8744d3569e5-1200x800.jpg",
-      "summary": "अगस्त 2026 में एक खगोलीय घटना होगी जिसमें कुछ समय के लिए दिन में अंधेरा छा जाएगा. इस दौरान तारे भी दिखाई दे सकते हैं. Sun will Disappear from Sky: हम दिन में उजाला देखते हैं और रात में होता है अंधेरा, लेकिन सोचिए अगर आपको दिन में ही अंधेरा दिखने लगे, तो कैसा होगा? ऐसी ही एक अद्भुत घटना के लिए अगस्त, 2026 में पूरी दुनिया को तैयार रहना होगा क्योंकि इस दिन कुछ देर के लिए दिन में भी रात जैसा अंधेरा होगा.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गायब हो जाएगा सूर्य, दिन में दिखेंगे तारे ...50 दिन बाद आकाश में होगा तमाशा, दुनिया पर होगा क्या",
-          "summary": "अगस्त 2026 में एक खगोलीय घटना होगी जिसमें कुछ समय के लिए दिन में अंधेरा छा जाएगा. इस दौरान तारे भी दिखाई दे सकते हैं. Sun will Disappear from Sky: हम दिन में उजाला देखते हैं और रात में होता है अंधेरा, लेकिन सोचिए अगर आपको दिन में ही अंधेरा दिखने लगे, तो कैसा होगा? ऐसी ही एक अद्भुत घटना के लिए अगस्त, 2026 में पूरी दुनिया को तैयार रहना होगा क्योंकि इस दिन कुछ देर के लिए दिन में भी रात जैसा अंधेरा होगा.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रोहिणी आचार्य ने फादर्स डे पर यह खास वीडियो क्यों शेयर किया?",
-      "url": "https://www.abplive.com/short-videos/news/india-why-did-rohini-acharya-share-this-particular-video-on-father-s-day-3148904",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-22T07:11:06+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/dff8b99decbceb311d98399510673d9017821122121501392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "रोहिणी आचार्य ने फादर्स डे पर एक विशेष वीडियो साझा किया है. वीडियो का विशिष्ट विवरण स्रोत में नहीं दिया गया है. रोहिणी आचार्य ने फादर्स डे पर यह खास वीडियो क्यों शेयर किया?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रोहिणी आचार्य ने फादर्स डे पर यह खास वीडियो क्यों शेयर किया?",
-          "summary": "रोहिणी आचार्य ने फादर्स डे पर एक विशेष वीडियो साझा किया है. वीडियो का विशिष्ट विवरण स्रोत में नहीं दिया गया है. रोहिणी आचार्य ने फादर्स डे पर यह खास वीडियो क्यों शेयर किया?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "TMC का रामेंदु इसलिए बच गया क्योंकि वह पुलिस के साथ था, अगर वह अकेला होता, तो जनता उसके साथ क्या",
-      "url": "https://www.abplive.com/short-videos/news/india-ramendu-from-tmc-survived-because-he-was-with-the-police-had-he-been-alone-what-would-the-public-have-done-to-him-3148902",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-22T07:09:05+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/27e12d72718624bf136edd23dad2737817821120359941392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "तृणमूल कांग्रेस के रामेंदु को पुलिस की मौजूदगी के कारण भीड़ से बचाया गया. यदि वह अकेला होता तो जनता की प्रतिक्रिया अप्रत्याशित हो सकती थी. TMC का रामेंदु इसलिए बच गया क्योंकि वह पुलिस के साथ था, अगर वह अकेला होता, तो जनता उसके साथ क्या करती?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "TMC का रामेंदु इसलिए बच गया क्योंकि वह पुलिस के साथ था, अगर वह अकेला होता, तो जनता उसके साथ क्या",
-          "summary": "तृणमूल कांग्रेस के रामेंदु को पुलिस की मौजूदगी के कारण भीड़ से बचाया गया. यदि वह अकेला होता तो जनता की प्रतिक्रिया अप्रत्याशित हो सकती थी. TMC का रामेंदु इसलिए बच गया क्योंकि वह पुलिस के साथ था, अगर वह अकेला होता, तो जनता उसके साथ क्या करती?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "धुआँ चिंताजनक है नोएडा की एक फ़ैक्टरी में ज़बरदस्त आग लगी है!",
-      "url": "https://www.abplive.com/short-videos/news/india-the-smoke-is-alarming-massive-fire-at-a-noida-factory-3148899",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-22T07:05:56+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/c693c700ece6e93d344efd0c4dedbfab17821118364201392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "नोएडा के सेक्टर 63 में एक फ़ैक्टरी में भीषण आग लग गई। आग की लपटें और धुआँ दूर से दिखाई दे रहे थे। आग बुझाने के लिए दमकल की कई गाड़ियाँ मौके पर पहुँच गईं। आग लगने के कारणों का अभी पता नहीं चला है। धुआँ चिंताजनक है नोएडा की एक फ़ैक्टरी में ज़बरदस्त आग लगी है!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "धुआँ चिंताजनक है नोएडा की एक फ़ैक्टरी में ज़बरदस्त आग लगी है!",
-          "summary": "नोएडा के सेक्टर 63 में एक फ़ैक्टरी में भीषण आग लग गई। आग की लपटें और धुआँ दूर से दिखाई दे रहे थे। आग बुझाने के लिए दमकल की कई गाड़ियाँ मौके पर पहुँच गईं। आग लगने के कारणों का अभी पता नहीं चला है। धुआँ चिंताजनक है नोएडा की एक फ़ैक्टरी में ज़बरदस्त आग लगी है!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ज़मीन के विवाद में महिला वकील के भाई को गोली मारी गई, घटना CCTV में कैद हुई।",
-      "url": "https://www.abplive.com/short-videos/news/india-woman-lawyer-s-brother-shot-during-land-dispute-incident-captured-on-cctv-3148898",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-22T07:05:05+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/21cda6a7f8b411a917eda246d358196017821117970991392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "गाजियाबाद में ज़मीन विवाद के चलते एक महिला वकील के भाई को गोली मार दी गई। यह पूरी घटना सीसीटीवी कैमरे में कैद हो गई। पुलिस ने मामला दर्ज कर लिया है और आरोपियों की तलाश शुरू कर दी है। ज़मीन के विवाद में महिला वकील के भाई को गोली मारी गई, घटना CCTV में कैद हुई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ज़मीन के विवाद में महिला वकील के भाई को गोली मारी गई, घटना CCTV में कैद हुई।",
-          "summary": "गाजियाबाद में ज़मीन विवाद के चलते एक महिला वकील के भाई को गोली मार दी गई। यह पूरी घटना सीसीटीवी कैमरे में कैद हो गई। पुलिस ने मामला दर्ज कर लिया है और आरोपियों की तलाश शुरू कर दी है। ज़मीन के विवाद में महिला वकील के भाई को गोली मारी गई, घटना CCTV में कैद हुई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शंकराचार्य अविमुक्तेश्वरानंद किसे 'नकली हिंदू' कह रहे हैं?",
-      "url": "https://www.abplive.com/short-videos/news/india-whom-is-shankaracharya-avimukteshwaranand-alluding-to-as-a-fake-hindu-3148893",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-22T07:01:52+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/129f4d8bd2346191a5f20b0660c1dd1817821115591821392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "शंकराचार्य अविमुक्तेश्वरानंद ने कुछ लोगों को 'नकली हिंदू' कहा है। उन्होंने कहा कि ये लोग सनातन धर्म के नियमों का पालन नहीं करते। उन्होंने ऐसे लोगों पर सवाल उठाए जो धर्म के नाम पर भ्रम फैलाते हैं। शंकराचार्य अविमुक्तेश्वरानंद किसे 'नकली हिंदू' कह रहे हैं?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शंकराचार्य अविमुक्तेश्वरानंद किसे 'नकली हिंदू' कह रहे हैं?",
-          "summary": "शंकराचार्य अविमुक्तेश्वरानंद ने कुछ लोगों को 'नकली हिंदू' कहा है। उन्होंने कहा कि ये लोग सनातन धर्म के नियमों का पालन नहीं करते। उन्होंने ऐसे लोगों पर सवाल उठाए जो धर्म के नाम पर भ्रम फैलाते हैं। शंकराचार्य अविमुक्तेश्वरानंद किसे 'नकली हिंदू' कह रहे हैं?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कतर के PM ने नहीं मिलाया जेडी वेंस से हाथ, ईरानी समकक्ष के सामने हुए असहज, कैमरे में कैद हुआ पूरा",
-      "url": "https://www.patrika.com/world-news/qatar-pm-did-not-shake-hands-with-jd-vance-and-appeared-uncomfortable-in-presence-of-iranian-counterpart-20686781",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-22T07:01:28+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/JD-Vance-1.webp",
-      "summary": "स्विट्जरलैंड में अमेरिका और ईरान के बीच बातचीत के दौरान कतर के प्रधानमंत्री शेख मोहम्मद बिन अब्दुल रहमान अल थानी ने अमेरिकी उपराष्ट्रपति जेडी वेंस से हाथ नहीं मिलाया। यह घटना एक वायरल वीडियो में कैद हुई। वीडियो में थानी पाकिस्तान के प्रधानमंत्री शहबाज शरीफ का अभिवादन करते हुए दिख रहे हैं, लेकिन इस दौरान वह वेंस को नजरअंदाज कर देते हैं। इस घटना के बाद यह दावा किया जाने लगा कि कतर ने अमेरिकी उपराष्ट्रपति का अपमान किया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कतर के PM ने नहीं मिलाया जेडी वेंस से हाथ, ईरानी समकक्ष के सामने हुए असहज, कैमरे में कैद हुआ पूरा",
-          "summary": "स्विट्जरलैंड में अमेरिका और ईरान के बीच बातचीत के दौरान कतर के प्रधानमंत्री शेख मोहम्मद बिन अब्दुल रहमान अल थानी ने अमेरिकी उपराष्ट्रपति जेडी वेंस से हाथ नहीं मिलाया। यह घटना एक वायरल वीडियो में कैद हुई। वीडियो में थानी पाकिस्तान के प्रधानमंत्री शहबाज शरीफ का अभिवादन करते हुए दिख रहे हैं, लेकिन इस दौरान वह वेंस को नजरअंदाज कर देते हैं। इस घटना के बाद यह दावा किया जाने लगा कि कतर ने अमेरिकी उपराष्ट्रपति का अपमान किया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "1 लाख सरकारी नौकरी, महिलाओं के लिए फ्री बस सेवा, बंगाल बजट में शुभेंदु सरकार ने किए कई बड़े ऐलान",
-      "url": "https://www.abplive.com/news/india/west-bengal-budget-2026-finance-minister-swapan-dasgupta-announcement-bjp-government-cm-suvendu-adhikari-3148891",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-22T07:00:47+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/d8900e3b742e159ca0eced98679863f417821125019801368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पश्चिम बंगाल सरकार ने राज्य में एक लाख सरकारी नौकरियों का ऐलान किया है। इन नौकरियों में महिलाओं के लिए 33 प्रतिशत आरक्षण होगा। सरकार ने महिलाओं के लिए मुफ्त बस सेवा की भी घोषणा की है। बीजेपी की शुभेंदु सरकार ने राज्य में 1 लाख रिक्त पदों पर भर्ती करने का ऐलान किया है. सबसे महत्वपूर्ण बात यह है कि इन पदों में 33 प्रतिशत आरक्षण महिलाओं के लिए निर्धारित किया गया है, जिससे महिला सशक्तिकरण और रोजगार के नए अवसरों को बढ़ावा मिलने की उम्मीद है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "1 लाख सरकारी नौकरी, महिलाओं के लिए फ्री बस सेवा, बंगाल बजट में शुभेंदु सरकार ने किए कई बड़े ऐलान",
-          "summary": "पश्चिम बंगाल सरकार ने राज्य में एक लाख सरकारी नौकरियों का ऐलान किया है। इन नौकरियों में महिलाओं के लिए 33 प्रतिशत आरक्षण होगा। सरकार ने महिलाओं के लिए मुफ्त बस सेवा की भी घोषणा की है। बीजेपी की शुभेंदु सरकार ने राज्य में 1 लाख रिक्त पदों पर भर्ती करने का ऐलान किया है. सबसे महत्वपूर्ण बात यह है कि इन पदों में 33 प्रतिशत आरक्षण महिलाओं के लिए निर्धारित किया गया है, जिससे महिला सशक्तिकरण और रोजगार के नए अवसरों को बढ़ावा मिलने की उम्मीद है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कांग्रेस कार्यकर्ताओं ने DK के समर्थन में नारे लगाए! इस पर खड़गे ने कहा, \"तुम किसी काम के नहीं हो!\"",
-      "url": "https://www.abplive.com/short-videos/news/india-congress-workers-chanted-slogans-hailing-dk-kharge-retorted-you-are-good-for-nothings-3148886",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-22T06:52:22+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/8f255a3b434a1ef68ca4c0b400f3103c17821109145551392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "कांग्रेस कार्यकर्ताओं ने डीके शिवकुमार के समर्थन में नारे लगाए। इस पर कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने कहा कि वे किसी काम के नहीं हैं। उन्होंने कार्यकर्ताओं को पार्टी के लिए बेहतर काम करने को कहा। कांग्रेस कार्यकर्ताओं ने DK के समर्थन में नारे लगाए! इस पर खड़गे ने कहा, \"तुम किसी काम के नहीं हो!\"।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कांग्रेस कार्यकर्ताओं ने DK के समर्थन में नारे लगाए! इस पर खड़गे ने कहा, \"तुम किसी काम के नहीं हो!\"",
-          "summary": "कांग्रेस कार्यकर्ताओं ने डीके शिवकुमार के समर्थन में नारे लगाए। इस पर कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने कहा कि वे किसी काम के नहीं हैं। उन्होंने कार्यकर्ताओं को पार्टी के लिए बेहतर काम करने को कहा। कांग्रेस कार्यकर्ताओं ने DK के समर्थन में नारे लगाए! इस पर खड़गे ने कहा, \"तुम किसी काम के नहीं हो!\"।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कार्यक्रम की शुरुआत ज़बरदस्त ढंग से हुई, जब धूल भरी आंधी चलने से टेंट और स्टॉल हवा में उड़ने लगे।",
-      "url": "https://www.abplive.com/short-videos/news/india-the-event-saw-a-dramatic-opening-as-a-dust-storm-blew-through-sending-tents-and-stalls-flying-3148882",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-22T06:47:57+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/49495e92923460aec135f7a5de51f3e117821108108831392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "धूल भरी आंधी ने कार्यक्रम की शुरुआत में टेंट और स्टॉल को हवा में उड़ा दिया। यह घटना अचानक हुई और सबको आश्चर्य में डाल दिया। कार्यक्रम आयोजकों को तुरंत कार्रवाई करनी पड़ी। कार्यक्रम की शुरुआत ज़बरदस्त ढंग से हुई, जब धूल भरी आंधी चलने से टेंट और स्टॉल हवा में उड़ने लगे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कार्यक्रम की शुरुआत ज़बरदस्त ढंग से हुई, जब धूल भरी आंधी चलने से टेंट और स्टॉल हवा में उड़ने लगे।",
-          "summary": "धूल भरी आंधी ने कार्यक्रम की शुरुआत में टेंट और स्टॉल को हवा में उड़ा दिया। यह घटना अचानक हुई और सबको आश्चर्य में डाल दिया। कार्यक्रम आयोजकों को तुरंत कार्रवाई करनी पड़ी। कार्यक्रम की शुरुआत ज़बरदस्त ढंग से हुई, जब धूल भरी आंधी चलने से टेंट और स्टॉल हवा में उड़ने लगे।",
-          "region": "दुनिया"
         }
       }
     }
