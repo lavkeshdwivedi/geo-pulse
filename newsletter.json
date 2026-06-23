@@ -1,72 +1,12 @@
 {
-  "generated_at": "2026-06-23T01:46:12.731014+00:00",
+  "generated_at": "2026-06-23T03:13:58.372832+00:00",
   "article_count": 50,
-  "total_unique_count": 268,
+  "total_unique_count": 262,
   "digest": {
-    "en": "Myanmar's new administration dominates the news. Armenia's election and Djibouti's prime real estate are also significant. US Senate passes a bipartisan housing bill.",
-    "hi": "आज ईरान को अमेरिका से 60 दिन तक तेल बेचने की छूट मिली है। गाजा में मृतकों का आंकड़ा बढ़कर 73035 हुआ है। अमेरिका और ईरान के बीच वार्ता में ईरान को बड़ी जीत मिली है।"
+    "en": "The US Senate has passed a bipartisan housing bill aimed at increasing supply and lowering prices. China has sanctioned US defense and rare earth firms in retaliation. The UN is racing to reach DR Congo's most vulnerable as global Ebola cases top 1,000.",
+    "hi": "अमेरिका से वार्ता में ईरान को बड़ी जीत मिली है, जिससे जब्त संपत्ति रिलीज होगी। ईरान ने ट्रंप की बात नकार दी। विदेश मंत्री जयशंकर ने कतर में 12 भारतीयों की मौत पर दुख जताया और परिवारों की मदद की बात कही।"
   },
   "articles": [
-    {
-      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
-      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Wednesday, June 3, 2026 - 00:00",
-      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Myanmar's military leader Min Aung Hlaing transitioned from commander-in-chief to president after staged elections. Foreign governments should calibrate interactions with Naypyitaw to avoid legitimizing the administration. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
-      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Tuesday, June 2, 2026 - 16:33",
-      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Armenia will hold its first general election since 2021 on June 7. Foreign policy has dominated the campaign, raising questions about Yerevan's future external relations. Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Tiny Djibouti, and Its Prime Real Estate",
-      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 15:42",
-      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Djibouti's history, politics, and navigation of regional turmoil in the Horn of Africa and Red Sea are discussed. The nation seeks to manage shifting alliances. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
-      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 10:18",
-      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Pakistan began conveying proposals to end the U. S.-Iran war after bombings began on February 28. Islamabad perceives high stakes, undertaking the mediator role despite risks. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
-      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Friday, June 5, 2026 - 10:38",
-      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The European Union's next seven-year budget may jeopardize funding for conflict prevention and aid to fragile states. Experts discuss the potential consequences of these plans. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
     {
       "title": "U.S. Senate passes bipartisan housing bill aimed at increasing supply, lowering prices",
       "url": "https://www.thehindu.com/news/international/us-senate-passes-bipartisan-housing-bill-aimed-at-increasing-supply-lowering-prices/article71135117.ece",
@@ -116,14 +56,14 @@
       "translations": {}
     },
     {
-      "title": "Why Keir Starmer resigned",
-      "url": "https://www.thehindu.com/news/international/analysis-why-keir-starmer-resigned/article71132963.ece",
-      "source": "The Hindu (International)",
+      "title": "Canadian healthcare staff decry ‘cruel hoax’ after scam email promises paid day off",
+      "url": "https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-06-22T17:16:39+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/1n9z6z/article71133361.ece/alternates/LANDSCAPE_1200/2026-06-22T092149Z_733165588_RC2XYLAQP43E_RTRMADP_3_BRITAIN-POLITICS.JPG",
-      "summary": "Andy Burnham's election to Westminster sealed Keir Starmer's political fate. The former mayor of Greater Manchester won a by-election, leading to Starmer's resignation as Labour leader. Keir Starmer’s political fate was all but sealed when Labour’s ‘King of the North’, former mayor of Greater Manchester, Andy Burnham won a seat in Westminster (the U. K.’s Parliament) last week, after winning a bye-election.",
-      "region": "World",
+      "published_at": "2026-06-22T17:30:23+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/92d6c24b452d89a40c61d7c41cb54542630f19ac/1816_1053_3685_2947/master/3685.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdbd1953b15ba0e33896f48de8e54be3",
+      "summary": "Healthcare workers in Newfoundland and Labrador received a scam email promising a paid day off. The email, titled \"June Holiday,\" was part of a cybersecurity test. Unions called the message a \"cruel hoax\" and \"insensitive\" to staff already facing burnout. The incident highlights ongoing concerns about working conditions in the province's healthcare system. Unions condemn ‘insensitive’ internal cybersecurity test sent to healthcare workers in Newfoundland and LabradorFor years, healthcare staff in the Canadian province of Newfoundland and Labrador have felt overworked and underappreciated.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -147,18 +87,6 @@
       "published_at": "2026-06-22T15:02:04+00:00",
       "image_url": "https://gdb.rferl.org/398219d0-68cd-4736-bf0d-80aba2fbf7eb_cx0_cy1_cw0_w1200_h630.jpg",
       "summary": "US Secretary of State Marco Rubio is visiting the UAE, Kuwait, and Bahrain. The trip follows the signing of a US-Iran peace framework agreement and aims to address regional security concerns. US Secretary of State Marco Rubio will travel to the United Arab Emirates, Kuwait, and Bahrain this week on his first official visit to the Gulf since the outbreak of the Iran war and just days after Washington and Tehran signed a framework agreement aimed at bring peace to the region.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167779",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-22T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Syria-04.jpg/image770x420cropped.jpg",
-      "summary": "UN officials reported clear signs of progress in Syria after over a decade of crisis, but noted acute needs remain. Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -196,6 +124,30 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2025-UNAIDS-Zimbabwe-01.jpg/image770x420cropped.jpg",
       "summary": "World leaders warned that progress against HIV is slowing due to financial pressures and shrinking support. Four decades after AIDS first emerged as a global crisis, world leaders, advocates and community representatives gathered at UN Headquarters on Monday issued a stark warning: progress against HIV is slowing just as financial pressures and shrinking support threaten to reverse decades of gains.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167779",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-22T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Syria-04.jpg/image770x420cropped.jpg",
+      "summary": "UN officials reported clear signs of progress in Syria after over a decade of crisis, but noted acute needs remain. Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "AI is getting women wrong as gender bias persists, data reveals",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167776",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-22T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-07-2025-UN-Photo-AI-Good-Summit-01.jpg/image770x420cropped.jpg",
+      "summary": "AI systems are perpetuating gender stereotypes, according to UN Women. This bias amplifies online abuse and excludes women from digital decision-making. The technology is reshaping work, communication, and information access. These systems reproduce old stereotypes. As artificial intelligence reshapes how people work, communicate and access information, UN Women warned on Monday that the technology is reproducing old gender stereotypes, which amplify online abuse and leave women out of the decisions that will define the digital future.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -308,29 +260,59 @@
       "translations": {}
     },
     {
-      "title": "60 दिन तक तेल बेच सकेगा ईरान, US ने दी छूट; गाजा में मृतकों का आंकड़ा बढ़कर 73035 हुआ",
-      "url": "https://www.amarujala.com/live/world/west-asia-live-us-iran-talks-oil-donald-trump-jd-vance-lebanon-israel-strait-of-hormuz-2026-06-23",
-      "source": "Amar Ujala World",
+      "title": "A Precarious Mountain Pass Is Bringing New Life To A Kyrgyz Village",
+      "url": "https://www.rferl.org/a/kyrgyzstan-village-batken-mountain-road/33784755.html",
+      "source": "Radio Free Europe / Liberty",
       "sources": [],
-      "published_at": "2026-06-23T07:03:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/17/crude-oil_89850d40afd2f0e9016e79058916264f.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका ने ईरान को 60 दिन तक तेल बेचने की छूट दी है, गाजा में मृतकों का आंकड़ा 73035 हुआ। West Asia LIVE: 60 दिन तक तेल बेच सकेगा ईरान, US ने दी छूट; गाजा में मृतकों का आंकड़ा बढ़कर 73035 हुआ।",
+      "published_at": "2026-06-19T19:33:14+00:00",
+      "image_url": "https://gdb.rferl.org/46f51a2d-1cde-45f8-3d07-08decacf94d0_w1200_h630.jpg",
+      "summary": "Kyrgyzstan is expanding a dangerous mountain road to Zardaly village in its remote In Kyrgyzstan's remote Batken region, locals say people and horses have fallen to their deaths while traversing the only road to the village of Zardaly. Now that road is being expanded and reinforced, with transformative effects for the region, including new housing and a planned power station.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Art and culture can both fuel and counter hate, UN discussion hears on Juneteenth",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167772",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-19T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/01-03-2023-UN-News-Slavery.jpg/image770x420cropped.jpg",
+      "summary": "Artists at a United Nations discussion on Friday demonstrated how culture can counter hate. They presented examples ranging from a gold collar worn by an enslaved African to music preserved from the Holocaust. Other examples included a staged reconstruction of a hate radio broadcast and porcelain coffee cups used in participatory remembrance. These cultural artifacts illustrated art's role in shaping the fight against hatred.",
       "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "60 दिन तक तेल बेच सकेगा ईरान, US ने दी छूट; गाजा में मृतकों का आंकड़ा बढ़कर 73035 हुआ",
-          "summary": "अमेरिका ने ईरान को 60 दिन तक तेल बेचने की छूट दी है, गाजा में मृतकों का आंकड़ा 73035 हुआ। West Asia LIVE: 60 दिन तक तेल बेच सकेगा ईरान, US ने दी छूट; गाजा में मृतकों का आंकड़ा बढ़कर 73035 हुआ।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Severe thunderstorms sweep Europe and east Asia",
+      "url": "https://www.theguardian.com/environment/2026/jun/19/weather-tracker-severe-thunderstorms-europe-east-asia-heatwave-france",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-19T08:34:27+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/48cabc989aa39f3250858b9c9604445f1bc22bd5/0_0_4851_3881/master/4851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c41238055f10446aea65577d773e326a",
+      "summary": "Severe thunderstorms brought widespread destruction to Slovenia on 10 June. The storms developed as unstable hot air over the Adriatic Sea met a southward plunging cold front. Heavy rain and strong winds caused significant damage across the country. Strong winds and heavy rain batter Slovenia, while France experiences atypical heatwaveSevere thunderstorms swept across the Balkans last week, bringing widespread destruction to parts of the region.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-18T17:52:08+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/90096680177812e34dcb5f7b1083554f8d2d2f1c/325_13_3461_2769/master/3461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb1609aec61ef9ed407808e1926a2a22",
+      "summary": "Barbados Prime Minister Mia Mottley announced a manifesto for slavery reparations at a conference in Ghana. Updated document, which emphasises harm done to African women, is being considered by other Caribbean countriesBarbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical and legal case” for reparations over damage caused by hundreds of years of enslavement. Mottley was speaking at a “historic” conference in Ghana to advance the push fo.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
     },
     {
       "title": "अमेरिका से वार्ता में ईरान की बड़ी जीत, रिलीज होगी जब्त संपत्ति, ट्रंप की बात तेहरान ने नकारी",
       "url": "https://hindi.news18.com/world/middle-east-iran-us-deal-live-news-talks-favors-tehran-frozen-asset-release-denied-donald-trump-claims-middle-east-conflict-livenews-10594890.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-23T01:38:38+00:00",
+      "published_at": "2026-06-23T03:11:54+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/trump-araghchi-2-2026-06-767c2980dd28b2633630ff1f19e4dfd4-1200x800.jpg",
       "summary": "ईरान और अमेरिका के बीच बातचीत में तेहरान को बड़ी सफलता मिली है। अमेरिका ने ईरान की जब्त संपत्तियों को जारी करने पर सहमति व्यक्त की है। यह समझौता स्विट्जरलैंड में चल रही वार्ता के दौरान हुआ। हालांकि, इन संपत्तियों के उपयोग को लेकर ईरान की अपनी शर्तें हैं। तेहरान इन पैसों को उस तरह से खर्च करने को तैयार नहीं है जैसा पूर्व राष्ट्रपति डोनाल्ड ट्रंप बता रहे हैं।",
       "region": "Middle East & Africa",
@@ -344,56 +326,416 @@
       }
     },
     {
-      "title": "व्यापार वार्ता के लिए आज भारत आएगा अमेरिकी दल, जेमिसन ग्रीर के नेतृत्व में समझौते को अंतिम रूप",
-      "url": "https://www.amarujala.com/india-news/us-delegation-arrive-india-today-for-trade-talks-finalize-agreement-under-leadership-of-jamieson-greer-2026-06-23",
+      "title": "'मां इंटी बंगारम' की कामयाबी के बीच सामंथा से मिले चिरंजीवी, तोहफे में दी यह चीज; राज निदिमोरू भी",
+      "url": "https://www.amarujala.com/entertainment/south-cinema/chiranjeevi-meets-samantha-raj-nidimoru-amid-maa-inti-bangaaram-success-gives-gifts-2026-06-23",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-23T01:33:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/india-us-trade-deal_3ec50e3b7de1b2a79709257a2719a14f.jpeg?w=1200&dpr=1.0",
-      "summary": "एक अमेरिकी प्रतिनिधिमंडल आज भारत पहुंचेगा। जेमिसन ग्रीर इस दल का नेतृत्व करेंगे। दोनों देश व्यापार वार्ता के माध्यम से एक समझौते को अंतिम रूप देने का प्रयास करेंगे। इस बैठक का उद्देश्य द्विपक्षीय व्यापार संबंधों को मजबूत करना है। व्यापार वार्ता के लिए आज भारत आएगा अमेरिकी दल, जेमिसन ग्रीर के नेतृत्व में समझौते को अंतिम रूप।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "व्यापार वार्ता के लिए आज भारत आएगा अमेरिकी दल, जेमिसन ग्रीर के नेतृत्व में समझौते को अंतिम रूप",
-          "summary": "एक अमेरिकी प्रतिनिधिमंडल आज भारत पहुंचेगा। जेमिसन ग्रीर इस दल का नेतृत्व करेंगे। दोनों देश व्यापार वार्ता के माध्यम से एक समझौते को अंतिम रूप देने का प्रयास करेंगे। इस बैठक का उद्देश्य द्विपक्षीय व्यापार संबंधों को मजबूत करना है। व्यापार वार्ता के लिए आज भारत आएगा अमेरिकी दल, जेमिसन ग्रीर के नेतृत्व में समझौते को अंतिम रूप।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'कर्व्ड डिस्प्ले' वाले स्मार्टफोन का क्यों खत्म हो गया ट्रेंड? वजह जानकर कहेंगे- फैसला सही था!",
-      "url": "https://www.amarujala.com/technology/tech-diary/why-smartphone-companies-are-moving-away-from-curved-display-phones-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-23T01:30:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/curved-display-smartphone_6fd554c64da70b88e882e2a9becbeefd.jpeg?w=1200&dpr=1.0",
-      "summary": "कर्व्ड डिस्प्ले वाले स्मार्टफोन का ट्रेंड खत्म हो गया है। अब नए स्मार्टफोन्स में किनारे से मुड़े हुए डिस्प्ले कम ही दिखाई देते हैं। पहले यह प्रीमियम फोन्स के लुक में चार चांद लगाते थे। Why Curved Display Failed: क्या आपने ध्यान दिया है कि आजकल नए स्मार्टफोन्स में किनारे से मुड़े हुए 'कर्व्ड डिस्प्ले' आने कम हो गए हैं?",
+      "published_at": "2026-06-23T03:06:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/carajava-na-samatha-oura-raja-sa-ka-malkata_5221b9caff7f7dc19741db22c1fa7872.jpeg?w=1200&dpr=1.0",
+      "summary": "सामंथा रुथ प्रभु अपनी नई फिल्म 'मां इंटी बंगारम' को लेकर चर्चा में हैं. 'मां इंटी बंगारम' की कामयाबी के बीच सामंथा से मिले चिरंजीवी, तोहफे में दी यह चीज; राज निदिमोरू भी।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'कर्व्ड डिस्प्ले' वाले स्मार्टफोन का क्यों खत्म हो गया ट्रेंड? वजह जानकर कहेंगे- फैसला सही था!",
-          "summary": "कर्व्ड डिस्प्ले वाले स्मार्टफोन का ट्रेंड खत्म हो गया है। अब नए स्मार्टफोन्स में किनारे से मुड़े हुए डिस्प्ले कम ही दिखाई देते हैं। पहले यह प्रीमियम फोन्स के लुक में चार चांद लगाते थे। Why Curved Display Failed: क्या आपने ध्यान दिया है कि आजकल नए स्मार्टफोन्स में किनारे से मुड़े हुए 'कर्व्ड डिस्प्ले' आने कम हो गए हैं?",
+          "title": "'मां इंटी बंगारम' की कामयाबी के बीच सामंथा से मिले चिरंजीवी, तोहफे में दी यह चीज; राज निदिमोरू भी",
+          "summary": "सामंथा रुथ प्रभु अपनी नई फिल्म 'मां इंटी बंगारम' को लेकर चर्चा में हैं. 'मां इंटी बंगारम' की कामयाबी के बीच सामंथा से मिले चिरंजीवी, तोहफे में दी यह चीज; राज निदिमोरू भी।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "मेसी-एमबाप्पे के बाद हालंद का जलवा: दागे-2-2 गोल; नॉर्वे की सेनेगल पर 3-1 की बढ़त,अर्जेंटीना-फ्रांस",
-      "url": "https://www.amarujala.com/sports/football/messi-mbappe-haaland-shines-argentina-and-france-storm-into-round-of-32-fifa-world-cup-day-12-highlights-2026-06-23",
-      "source": "Amar Ujala Breaking",
+      "title": "विदेश मंत्री जयशंकर ने कतर में 12 भारतीयों की मौत पर जताया दुख, बोले- परिवारों की मदद की हो रही हर",
+      "url": "https://hindi.news18.com/news/nation/eam-s-jaishankar-expresses-grief-over-loss-of-lives-in-explosion-at-qatar-ras-laffan-industrial-city-10595094.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-23T01:25:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/17/fifa-world-cup-2026-day-6-highlights-erling-haaland-kylian-mbappe-lionel-messi-argentina-vs-alg_d0ac3830d38ac266e1673a663c5359fd.gif?w=1200&dpr=1.0",
-      "summary": "लियोनेल मेसी ने ऑस्ट्रिया के खिलाफ दो गोल किए। अर्जेंटीना ने 2-0 से जीत हासिल की और नॉकआउट चरण में जगह बनाई। नॉर्वे ने सेनेगल को 3-1 से हराया। फीफा विश्वकप 2026 में पिछले 24 घंटों के दौरान दो दिग्गजों ने सुर्खियां बटोरीं। लियोनेल मेसी के दो गोलों की बदौलत अर्जेंटीना ने ऑस्ट्रिया को 2-0 से हराकर नॉकआउट चरण में जगह बनाई, ।",
+      "published_at": "2026-06-23T03:04:30+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/S-Jaishankar-5-2026-06-f69a8946db403c85a513dab7c6bf1e62-1200x800.jpg",
+      "summary": "विदेश मंत्री जयशंकर ने कतर में 12 भारतीयों की मौत पर दुख जताया है. EAM S Jaishankar: विदेश मंत्री जयशंकर ने कतर हादसे में 12 भारतीयों की मौत पर दुख जताया है. उन्होंने सोशल मीडिया प्लेटफॉर्म एक्स पर पोस्ट कर कहा कि उन्हें इस घटना का दुख है. कतर हादसे में पीड़ित परिवारों की मदद की हर कोशिश हो रही है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मेसी-एमबाप्पे के बाद हालंद का जलवा: दागे-2-2 गोल; नॉर्वे की सेनेगल पर 3-1 की बढ़त,अर्जेंटीना-फ्रांस",
-          "summary": "लियोनेल मेसी ने ऑस्ट्रिया के खिलाफ दो गोल किए। अर्जेंटीना ने 2-0 से जीत हासिल की और नॉकआउट चरण में जगह बनाई। नॉर्वे ने सेनेगल को 3-1 से हराया। फीफा विश्वकप 2026 में पिछले 24 घंटों के दौरान दो दिग्गजों ने सुर्खियां बटोरीं। लियोनेल मेसी के दो गोलों की बदौलत अर्जेंटीना ने ऑस्ट्रिया को 2-0 से हराकर नॉकआउट चरण में जगह बनाई, ।",
+          "title": "विदेश मंत्री जयशंकर ने कतर में 12 भारतीयों की मौत पर जताया दुख, बोले- परिवारों की मदद की हो रही हर",
+          "summary": "विदेश मंत्री जयशंकर ने कतर में 12 भारतीयों की मौत पर दुख जताया है. EAM S Jaishankar: विदेश मंत्री जयशंकर ने कतर हादसे में 12 भारतीयों की मौत पर दुख जताया है. उन्होंने सोशल मीडिया प्लेटफॉर्म एक्स पर पोस्ट कर कहा कि उन्हें इस घटना का दुख है. कतर हादसे में पीड़ित परिवारों की मदद की हर कोशिश हो रही है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "तेज प्रताप यादव ने अपने पीए पर लगाया चोरी का आरोप, दीवार फांदकर भागा मोतीलाल; थाने में दर्ज कराई",
+      "url": "https://www.amarujala.com/bihar/tej-pratap-yadav-complaint-lodged-against-pa-motilal-theft-patna-bihar-police-bihar-news-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-23T02:50:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/tej-pratap-yadav-complaint-lodged-against-pa-motilal-theft-patna-bihar-police-bihar-news_7cf6a80724d5f699615c3d37c9f4bb0e.jpeg?w=1200&dpr=1.0",
+      "summary": "तेज प्रताप यादव ने अपने पीए पर चोरी का आरोप लगाया है. Tej Pratap Yadav: तेज प्रताप यादव एक बार फिर चर्चा में हैं। उन्होंने अपने पीए पर चोरी का गंभीर आरोप लगाते हुए थाना में अम्मला दर्ज कराया है। हालांकि आरोपी के परिजनों का कहना है कि उनके साथ ही तेज प्रताप यादव ने मारपीट की है। तेज प्रताप यादव ने अपने पीए पर लगाया चोरी का आरोप, दीवार फांदकर भागा मोतीलाल; थाने में दर्ज कराई।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेज प्रताप यादव ने अपने पीए पर लगाया चोरी का आरोप, दीवार फांदकर भागा मोतीलाल; थाने में दर्ज कराई",
+          "summary": "तेज प्रताप यादव ने अपने पीए पर चोरी का आरोप लगाया है. Tej Pratap Yadav: तेज प्रताप यादव एक बार फिर चर्चा में हैं। उन्होंने अपने पीए पर चोरी का गंभीर आरोप लगाते हुए थाना में अम्मला दर्ज कराया है। हालांकि आरोपी के परिजनों का कहना है कि उनके साथ ही तेज प्रताप यादव ने मारपीट की है। तेज प्रताप यादव ने अपने पीए पर लगाया चोरी का आरोप, दीवार फांदकर भागा मोतीलाल; थाने में दर्ज कराई।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान युद्ध की ट्रंप ने चुकाई भारी कीमत, पेंटागन ने कांग्रेस से मांगे 80 अरब डॉलर; सांसदों में भारी",
+      "url": "https://www.amarujala.com/world/us-iran-war-pentagon-seeks-80-billion-dollar-from-congress-for-west-asia-war-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-23T02:38:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/17/donald-trump-us-us-iran-deal_d8ae78c032b905ae0ffb1c3cfe50eb98.jpeg?w=1200&dpr=1.0",
+      "summary": "पेंटागन ने कांग्रेस से 80 अरब डॉलर मांगे हैं ईरान युद्ध के लिए. ईरान युद्ध की ट्रंप ने चुकाई भारी कीमत, पेंटागन ने कांग्रेस से मांगे 80 अरब डॉलर; सांसदों में भारी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान युद्ध की ट्रंप ने चुकाई भारी कीमत, पेंटागन ने कांग्रेस से मांगे 80 अरब डॉलर; सांसदों में भारी",
+          "summary": "पेंटागन ने कांग्रेस से 80 अरब डॉलर मांगे हैं ईरान युद्ध के लिए. ईरान युद्ध की ट्रंप ने चुकाई भारी कीमत, पेंटागन ने कांग्रेस से मांगे 80 अरब डॉलर; सांसदों में भारी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'भारत-चीन कंपटीटर नहीं पार्टनर', BRICS समिट से पहले ड्रैगन ने बदले सुर, चकरा जाएगा ट्रंप का माथा",
+      "url": "https://hindi.news18.com/world/south-asia-india-china-are-partners-not-competitors-chinese-fm-wang-yi-nsa-ajit-doval-before-brics-10595058.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-23T02:33:46+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/doval-china-2026-06-b29583c1b16ef3845c396c89c8c701f4-1200x800.jpg",
+      "summary": "चीन ने भारत को प्रतिस्पर्धी नहीं, बल्कि अपना अहम भागीदार बताया है. India China Relation: भारत के NSA अजीत डोभाल और चीनी विदेश मंत्री वांग यी के बीच जो बातचीत हुई है, वो इस वक्त सबसे ज्यादा बेचैन अमेरिका को करने वाली है. चीन का ये बदला हुआ रवैया इस वक्त उथल-पुथल के हालात में बेहद महत्वपूर्ण है क्योंकि दोनों देशों के रिश्तों की बर्फ पिघली तो एशिया में एक बड़ी पार्टनरशिप सामने आ सकती है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'भारत-चीन कंपटीटर नहीं पार्टनर', BRICS समिट से पहले ड्रैगन ने बदले सुर, चकरा जाएगा ट्रंप का माथा",
+          "summary": "चीन ने भारत को प्रतिस्पर्धी नहीं, बल्कि अपना अहम भागीदार बताया है. India China Relation: भारत के NSA अजीत डोभाल और चीनी विदेश मंत्री वांग यी के बीच जो बातचीत हुई है, वो इस वक्त सबसे ज्यादा बेचैन अमेरिका को करने वाली है. चीन का ये बदला हुआ रवैया इस वक्त उथल-पुथल के हालात में बेहद महत्वपूर्ण है क्योंकि दोनों देशों के रिश्तों की बर्फ पिघली तो एशिया में एक बड़ी पार्टनरशिप सामने आ सकती है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इस एक छोटी सी गलती से खराब हो सकता है आपका AC, अधिकतर लोग करते हैं गलती",
+      "url": "https://www.amarujala.com/photo-gallery/utility/ac-could-break-down-if-it-is-not-service-na-karwane-par-ac-kharab-ho-sakta-hai-2026-06-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T02:31:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/kasa-galta-ka-karanae-ac-kharab-ha-sakata-ha_880a1757466bec414d27f94c088ce84e.jpeg?w=1200&dpr=1.0",
+      "summary": "एसी की देखभाल में एक आम गलती हो सकती है जो इसे जल्दी खराब कर सकती है। एसी हम चला तो लेते हैं, लेकिन एक चीज को भूल जाते हैं जिसके कारण आपका एसी जल्दी खराब हो सकता है। आप यहां इस बारे में जान सकते हैं। इस एक छोटी सी गलती से खराब हो सकता है आपका AC, अधिकतर लोग करते हैं गलती।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इस एक छोटी सी गलती से खराब हो सकता है आपका AC, अधिकतर लोग करते हैं गलती",
+          "summary": "एसी की देखभाल में एक आम गलती हो सकती है जो इसे जल्दी खराब कर सकती है। एसी हम चला तो लेते हैं, लेकिन एक चीज को भूल जाते हैं जिसके कारण आपका एसी जल्दी खराब हो सकता है। आप यहां इस बारे में जान सकते हैं। इस एक छोटी सी गलती से खराब हो सकता है आपका AC, अधिकतर लोग करते हैं गलती।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "तेज रफ्तार ट्रक ने बस से उतर रहे यात्रियों को रौंदा, बच्ची समेत दो की मौत, एक दर्जन घायल",
+      "url": "https://www.amarujala.com/uttar-pradesh/hapur/two-people-died-in-a-collision-with-a-truck-on-the-delhi-lucknow-highway-in-hapur-district-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-23T02:31:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/thall-lkhanauu-haiiva-para-bhashhanae-hathasa_1cafffe305a0b877a4b54b3f5cb4a879.jpeg?w=1200&dpr=1.0",
+      "summary": "हापुड़ में एक तेज रफ्तार ट्रक ने बस से उतर रहे यात्रियों को रौंदा, दो की मौत हो गई। हापुड़ जिल में दिल्ली लखनऊ हाईवे पर थाना देहात क्षेत्र में एक बेहद दर्दनाक सड़क हादसा हुआ है। एक तेज रफ्तार ट्रक ने रोडवेज बस से उतर रहे यात्रियों को रौंद दिया। तेज रफ्तार ट्रक ने बस से उतर रहे यात्रियों को रौंदा, बच्ची समेत दो की मौत, एक दर्जन घायल।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेज रफ्तार ट्रक ने बस से उतर रहे यात्रियों को रौंदा, बच्ची समेत दो की मौत, एक दर्जन घायल",
+          "summary": "हापुड़ में एक तेज रफ्तार ट्रक ने बस से उतर रहे यात्रियों को रौंदा, दो की मौत हो गई। हापुड़ जिल में दिल्ली लखनऊ हाईवे पर थाना देहात क्षेत्र में एक बेहद दर्दनाक सड़क हादसा हुआ है। एक तेज रफ्तार ट्रक ने रोडवेज बस से उतर रहे यात्रियों को रौंद दिया। तेज रफ्तार ट्रक ने बस से उतर रहे यात्रियों को रौंदा, बच्ची समेत दो की मौत, एक दर्जन घायल।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "उत्तराखंड में नीतिगत निरंतरता और कड़े फैसलों का प्रभाव",
+      "url": "https://www.amarujala.com/columns/blog/uttarakhand-government-impact-of-policy-continuity-and-tough-decisions-in-uttarakhand-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T02:30:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/06/havalbga-ma-aayajata-karayakarama-ka-sabthhata-karata-makhayamatara-pashhakara-saha-thhama_d5685c0e39015e66aa487ff562cc927e.jpeg?w=1200&dpr=1.0",
+      "summary": "दिख रहा है। किसी भी सरकार का आकलन केवल घोषणाओं से नहीं, बल्कि उन नीतिगत फैसलों से किया जाना चाहिए जो राज्य की प्रशासनिक, सामाजिक और आर्थिक दिशा को प्रभावित करते हैं। उत्तराखंड में नीतिगत निरंतरता और कड़े फैसलों का प्रभाव।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उत्तराखंड में नीतिगत निरंतरता और कड़े फैसलों का प्रभाव",
+          "summary": "दिख रहा है। किसी भी सरकार का आकलन केवल घोषणाओं से नहीं, बल्कि उन नीतिगत फैसलों से किया जाना चाहिए जो राज्य की प्रशासनिक, सामाजिक और आर्थिक दिशा को प्रभावित करते हैं। उत्तराखंड में नीतिगत निरंतरता और कड़े फैसलों का प्रभाव।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दुनिया को क्या संदेश दे रहा है ईरान: दुनिया में शुरू हो सकती है ऐसी होड़, हर देश तलाशेगा 'चोक",
+      "url": "https://www.amarujala.com/columns/opinion/iran-hormuz-strait-control-global-trade-energy-security-chokepoint-politics-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T02:30:16+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/01/strait-of-hormuz-traffic-drops-by-over-90-fewer-than-10-ships-daily-amid-west-asia-tensions_cdaf068fa590a14ced4bf4887f4168ae.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरान दुनिया को एक संदेश दे रहा है, जो वैश्विक व्यापार और ऊर्जा सुरक्षा को प्रभावित कर सकता है। दुनिया को क्या संदेश दे रहा है ईरान: दुनिया में शुरू हो सकती है ऐसी होड़, हर देश तलाशेगा 'चोक।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुनिया को क्या संदेश दे रहा है ईरान: दुनिया में शुरू हो सकती है ऐसी होड़, हर देश तलाशेगा 'चोक",
+          "summary": "ईरान दुनिया को एक संदेश दे रहा है, जो वैश्विक व्यापार और ऊर्जा सुरक्षा को प्रभावित कर सकता है। दुनिया को क्या संदेश दे रहा है ईरान: दुनिया में शुरू हो सकती है ऐसी होड़, हर देश तलाशेगा 'चोक।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अभिषेक बनर्जी बनेंगे अमर उजाला संवाद उत्तराखंड का हिस्सा, सिनेमा पर करेंगे खुलकर बात",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/samwad-2026-uttarakhand-abhishek-banerjee-will-attend-amar-ujala-samwad-his-profile-career-acting-movies-2026-06-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T02:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/abhashhaka-bnaraja_8a39fc3af2d0c3818e5fe9dbadc1d17c.jpeg?w=1200&dpr=1.0",
+      "summary": "अभिषेक बनर्जी अमर उजाला संवाद उत्तराखंड में शामिल होंगे और सिनेमा पर बात करेंगे। अमर उजाला संवाद का मंच इस बार उत्तराखंड के देहरादून में सज रहा है। अभिनेता व कास्टिंग डायरेक्टर अभिषेक बनर्जी भी इस कार्यक्रम का हिस्सा बनेंगे। एक नजर उनके प्रोफाइल और करियर पर। अभिषेक बनर्जी बनेंगे अमर उजाला संवाद उत्तराखंड का हिस्सा, सिनेमा पर करेंगे खुलकर बात।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अभिषेक बनर्जी बनेंगे अमर उजाला संवाद उत्तराखंड का हिस्सा, सिनेमा पर करेंगे खुलकर बात",
+          "summary": "अभिषेक बनर्जी अमर उजाला संवाद उत्तराखंड में शामिल होंगे और सिनेमा पर बात करेंगे। अमर उजाला संवाद का मंच इस बार उत्तराखंड के देहरादून में सज रहा है। अभिनेता व कास्टिंग डायरेक्टर अभिषेक बनर्जी भी इस कार्यक्रम का हिस्सा बनेंगे। एक नजर उनके प्रोफाइल और करियर पर। अभिषेक बनर्जी बनेंगे अमर उजाला संवाद उत्तराखंड का हिस्सा, सिनेमा पर करेंगे खुलकर बात।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'मैं प्रॉब्लम सॉल्वर हूं, बीबी का मामला भी सुलझा दूंगा': इस्राइल के सवाल पर भड़के ट्रंप, स्टार्मर",
+      "url": "https://www.amarujala.com/world/trump-claims-he-can-resolve-iran-israel-tensions-benjamin-netanyahu-iran-israel-conflict-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-23T02:26:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/amaraka-rashhatarapata-danalda-tarapa_7d56416603c4131394c6f365758bd98b.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि वह इजराइल और ईरान के बीच तनाव को हल कर सकते हैं। ट्रंप ने ब्रिटेन के विपक्षी नेता कीर स्टार्मर को भी निशाने पर लिया। वह एक प्रॉब्लम सॉल्वर हैं और इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू के मामले को भी सुलझा देंगे। 'मैं प्रॉब्लम सॉल्वर हूं, बीबी का मामला भी सुलझा दूंगा': इस्राइल के सवाल पर भड़के ट्रंप, स्टार्मर।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मैं प्रॉब्लम सॉल्वर हूं, बीबी का मामला भी सुलझा दूंगा': इस्राइल के सवाल पर भड़के ट्रंप, स्टार्मर",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि वह इजराइल और ईरान के बीच तनाव को हल कर सकते हैं। ट्रंप ने ब्रिटेन के विपक्षी नेता कीर स्टार्मर को भी निशाने पर लिया। वह एक प्रॉब्लम सॉल्वर हैं और इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू के मामले को भी सुलझा देंगे। 'मैं प्रॉब्लम सॉल्वर हूं, बीबी का मामला भी सुलझा दूंगा': इस्राइल के सवाल पर भड़के ट्रंप, स्टार्मर।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "निर्जला एकादशी पर बन रहा है महासंयोग! रवि-शिव-सिद्ध सहित 4 योग",
+      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/nirjala-ekadashi-2026-rare-confluence-of-ravi-shiva-siddha-and-4-auspicious-yogas-know-the-best-puja-time-2026-06-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T02:23:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/11/narajal-ekathasha_7f25e31f23cdee1e2557cd9fad2f16a3.jpeg?w=1200&dpr=1.0",
+      "summary": "25 जून को निर्जला एकादशी मनाई जाएगी। इस दिन रवि, शिव, सिद्ध समेत 4 शुभ योगों का संयोग बन रहा है। भक्त पूजा के शुभ मुहूर्त में भगवान विष्णु की कृपा पाने के लिए व्रत करेंगे। यह व्रत भगवान विष्णु को समर्पित है। Nirjala Ekadashi 2026: 25 जून को मनाई जाएगी निर्जला एकादशी। जानें पूजा का शुभ मुहूर्त, रवि, शिव, सिद्ध समेत 4 शुभ योगों का संयोग, व्रत का महत्व और भगवान विष्णु की कृपा पाने के उपाय।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "निर्जला एकादशी पर बन रहा है महासंयोग! रवि-शिव-सिद्ध सहित 4 योग",
+          "summary": "25 जून को निर्जला एकादशी मनाई जाएगी। इस दिन रवि, शिव, सिद्ध समेत 4 शुभ योगों का संयोग बन रहा है। भक्त पूजा के शुभ मुहूर्त में भगवान विष्णु की कृपा पाने के लिए व्रत करेंगे। यह व्रत भगवान विष्णु को समर्पित है। Nirjala Ekadashi 2026: 25 जून को मनाई जाएगी निर्जला एकादशी। जानें पूजा का शुभ मुहूर्त, रवि, शिव, सिद्ध समेत 4 शुभ योगों का संयोग, व्रत का महत्व और भगवान विष्णु की कृपा पाने के उपाय।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तानी मूल की मंत्री से लेकर भारत समर्थक नेताओं तक, ब्रिटेन के अगले पीएम की रेस में कौन-कौन?",
+      "url": "https://www.amarujala.com/world/uk-prime-minister-keir-starmer-resignation-british-pm-labour-party-candidate-from-india-supporter-to-pakistan-2026-06-23",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-23T02:22:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/uk-pm-race-uk-pm-keir-starmer-andy-burnham-angela-rayner-shabana-mahmood_1eaf661722509fd53592f3be0a3266ce.jpeg?w=1200&dpr=1.0",
+      "summary": "ब्रिटेन के प्रधानमंत्री किएर स्टार्मर के इस्तीफे के बाद नए पीएम की दौड़ शुरू हो गई है। पाकिस्तानी मूल की मंत्री समेत भारत समर्थक नेताओं ने अपनी उम्मीदवारी पेश की है। लेबर पार्टी में नए पीएम के लिए कई दावेदार हैं। ब्रिटिश प्रधानमंत्री किएर स्टार्मर ने अपने पद से इस्तीफा दे दिया है। इसी के साथ अब लेबर पार्टी में नए पीएम को लेकर उम्मीदवारी की दौड़ शुरू हो गई है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तानी मूल की मंत्री से लेकर भारत समर्थक नेताओं तक, ब्रिटेन के अगले पीएम की रेस में कौन-कौन?",
+          "summary": "ब्रिटेन के प्रधानमंत्री किएर स्टार्मर के इस्तीफे के बाद नए पीएम की दौड़ शुरू हो गई है। पाकिस्तानी मूल की मंत्री समेत भारत समर्थक नेताओं ने अपनी उम्मीदवारी पेश की है। लेबर पार्टी में नए पीएम के लिए कई दावेदार हैं। ब्रिटिश प्रधानमंत्री किएर स्टार्मर ने अपने पद से इस्तीफा दे दिया है। इसी के साथ अब लेबर पार्टी में नए पीएम को लेकर उम्मीदवारी की दौड़ शुरू हो गई है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "16 विश्वकप मैच में 16 गोल: एमबाप्पे का रिकॉर्ड देखकर फुटबॉल जगत हैरान! महज 27 साल की उम्र में रच",
+      "url": "https://www.amarujala.com/sports/football/at-just-27-centurion-kylian-mbappe-is-chasing-greatness-16-goals-in-16-fifa-world-cup-games-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-23T02:22:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/kylian-mbappe-mbappe-100th-match-france-football-team-fifa-world-cup-2026-mbappe-world-cup-goal_79d792b0ce991223614e22820c7c68de.jpeg?w=1200&dpr=1.0",
+      "summary": "फ्रांस के स्टार फुटबॉलर किलियन एमबाप्पे ने अपने 100वें अंतरराष्ट्रीय मैच में दो गोल दागे। वह 27 साल की उम्र में 16 विश्वकप मैचों में 16 गोल कर चुके हैं। एमबाप्पे का रिकॉर्ड देखकर फुटबॉल जगत हैरान है। फ्रांस के स्टार फुटबॉलर किलियन एमबाप्पे ने अपने 100वें अंतरराष्ट्रीय मैच को यादगार बनाते हुए फीफा विश्वकप 2026 में इराक के खिलाफ दो गोल दागे और टीम को राउंड ऑफ-32 में पहुंचा दिया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "16 विश्वकप मैच में 16 गोल: एमबाप्पे का रिकॉर्ड देखकर फुटबॉल जगत हैरान! महज 27 साल की उम्र में रच",
+          "summary": "फ्रांस के स्टार फुटबॉलर किलियन एमबाप्पे ने अपने 100वें अंतरराष्ट्रीय मैच में दो गोल दागे। वह 27 साल की उम्र में 16 विश्वकप मैचों में 16 गोल कर चुके हैं। एमबाप्पे का रिकॉर्ड देखकर फुटबॉल जगत हैरान है। फ्रांस के स्टार फुटबॉलर किलियन एमबाप्पे ने अपने 100वें अंतरराष्ट्रीय मैच को यादगार बनाते हुए फीफा विश्वकप 2026 में इराक के खिलाफ दो गोल दागे और टीम को राउंड ऑफ-32 में पहुंचा दिया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "त्रासदी के बाद रस्मी संस्कृति से आगे बढ़कर दोषियों पर सख्त कार्रवाई का वक्त",
+      "url": "https://www.amarujala.com/columns/opinion/lucknow-fire-tragedy-questions-rise-time-to-move-beyond-ritualistic-responses-take-strict-action-on-guilty-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T02:21:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/lkhanauu-kacaga-ma-aaga_f1160f89b5933b7917a23fbb4e82305d.jpeg?w=1200&dpr=1.0",
+      "summary": "लखनऊ में आग की त्रासदी के बाद सवाल उठ रहे हैं। लोग रस्मी संस्कृति से आगे बढ़कर दोषियों पर सख्त कार्रवाई की मांग कर रहे हैं। त्रासदी के जिम्मेदार लोगों को सजा देने का समय आ गया है। त्रासदी के बाद रस्मी संस्कृति से आगे बढ़कर दोषियों पर सख्त कार्रवाई का वक्त।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "त्रासदी के बाद रस्मी संस्कृति से आगे बढ़कर दोषियों पर सख्त कार्रवाई का वक्त",
+          "summary": "लखनऊ में आग की त्रासदी के बाद सवाल उठ रहे हैं। लोग रस्मी संस्कृति से आगे बढ़कर दोषियों पर सख्त कार्रवाई की मांग कर रहे हैं। त्रासदी के जिम्मेदार लोगों को सजा देने का समय आ गया है। त्रासदी के बाद रस्मी संस्कृति से आगे बढ़कर दोषियों पर सख्त कार्रवाई का वक्त।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने किया जेडी वेंस का दावा खारिज, परमाणु निरीक्षकों को नहीं दी जाएगी जांच की अनुमति",
+      "url": "https://www.patrika.com/world-news/iran-rejects-jd-vance-claims-of-allowing-nuclear-inspectors-20688909",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-23T02:21:06+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/baghaei.webp",
+      "summary": "ईरान ने जेडी वेंस का दावा खारिज किया और परमाणु निरीक्षकों को जांच की अनुमति नहीं देगा। ईरान (Iran) और अमेरिका (United States of America) के बीच शांति समझौता (Iran-US Peace Deal) होने से न सिर्फ एक बड़ा युद्ध खत्म हुआ, बल्कि मिडिल ईस्ट (Middle East) में शांति की स्थापना भी हुई और साथ ही ईरान और अमेरिका के संबंधों में सुधार की शुरुआत भी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने किया जेडी वेंस का दावा खारिज, परमाणु निरीक्षकों को नहीं दी जाएगी जांच की अनुमति",
+          "summary": "ईरान ने जेडी वेंस का दावा खारिज किया और परमाणु निरीक्षकों को जांच की अनुमति नहीं देगा। ईरान (Iran) और अमेरिका (United States of America) के बीच शांति समझौता (Iran-US Peace Deal) होने से न सिर्फ एक बड़ा युद्ध खत्म हुआ, बल्कि मिडिल ईस्ट (Middle East) में शांति की स्थापना भी हुई और साथ ही ईरान और अमेरिका के संबंधों में सुधार की शुरुआत भी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चौथे दिन 50 करोड़ पार हुई 'कॉकटेल 2', 'मां इंटी बंगारम' को भी मिल रहा प्यार; जानें 'मैं वापस आऊंगा'",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/cocktail-2-maa-inti-bangaram-main-wapas-aaunga-box-office-collection-on-monday-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-23T02:20:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/bkasa-oifasa-kalkashana_85d79bc014f52bbc938cdf2b0094ed54.jpeg?w=1200&dpr=1.0",
+      "summary": "कॉकटेल 2 ने चौथे दिन 50 करोड़ का आंकड़ा पार किया। सिनेमाघरों में कई फिल्में दर्शकों का मनोरंजन कर रही हैं। इसमें बॉलीवुड के साथ साउथ की फिल्में शामिल हैं। चौथे दिन 50 करोड़ पार हुई 'कॉकटेल 2', 'मां इंटी बंगारम' को भी मिल रहा प्यार; जानें 'मैं वापस आऊंगा'।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चौथे दिन 50 करोड़ पार हुई 'कॉकटेल 2', 'मां इंटी बंगारम' को भी मिल रहा प्यार; जानें 'मैं वापस आऊंगा'",
+          "summary": "कॉकटेल 2 ने चौथे दिन 50 करोड़ का आंकड़ा पार किया। सिनेमाघरों में कई फिल्में दर्शकों का मनोरंजन कर रही हैं। इसमें बॉलीवुड के साथ साउथ की फिल्में शामिल हैं। चौथे दिन 50 करोड़ पार हुई 'कॉकटेल 2', 'मां इंटी बंगारम' को भी मिल रहा प्यार; जानें 'मैं वापस आऊंगा'।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मॉन्ट्रियल शहर के हिल्टन होटल में गोलीबारी, बंदूकधारी ने एक अधिकारी की हत्या, हमलावर भी ढेर",
+      "url": "https://www.amarujala.com/world/canada-shooting-at-the-hilton-hotel-in-montreal-gunman-kills-an-officer-and-is-also-shot-dead-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T02:13:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/31/kanada-palsa_454784f287b3d3fe5aa58f8c17d4da50.jpeg?w=1200&dpr=1.0",
+      "summary": "मॉन्ट्रियल के हिल्टन होटल में गोलीबारी में एक अधिकारी की हत्या हुई और हमलावर भी मारा गया। Canada: मॉन्ट्रियल शहर के हिल्टन होटल में गोलीबारी, बंदूकधारी ने एक अधिकारी की हत्या, हमलावर भी ढेर।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मॉन्ट्रियल शहर के हिल्टन होटल में गोलीबारी, बंदूकधारी ने एक अधिकारी की हत्या, हमलावर भी ढेर",
+          "summary": "मॉन्ट्रियल के हिल्टन होटल में गोलीबारी में एक अधिकारी की हत्या हुई और हमलावर भी मारा गया। Canada: मॉन्ट्रियल शहर के हिल्टन होटल में गोलीबारी, बंदूकधारी ने एक अधिकारी की हत्या, हमलावर भी ढेर।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "कब है निर्जला एकादशी, कैसे करें व्रत और पूजा, जानें धार्मिक मान्यता और महत्व",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/nirjala-ekadashi-2026-know-the-vishnu-tulsi-puja-rituals-and-significance-of-this-sacred-fast-2026-06-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T02:12:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/17/nirjala-ekadashi-2026_04aedadabaa8b6cd3710071d879c991b.jpeg?w=1200&dpr=1.0",
+      "summary": "निर्जला एकादशी का व्रत 25 जून को रखा जाएगा। निर्जला एकादशी 2026 का पावन व्रत 25 जून को रखा जाएगा। जानें एकादशी का शुभ मुहूर्त, व्रत नियम, पूजा विधि और इसका धार्मिक महत्व, जो जीवन में सुख, शांति और समृद्धि का मार्ग प्रशस्त करता है। कब है निर्जला एकादशी, कैसे करें व्रत और पूजा, जानें धार्मिक मान्यता और महत्व।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कब है निर्जला एकादशी, कैसे करें व्रत और पूजा, जानें धार्मिक मान्यता और महत्व",
+          "summary": "निर्जला एकादशी का व्रत 25 जून को रखा जाएगा। निर्जला एकादशी 2026 का पावन व्रत 25 जून को रखा जाएगा। जानें एकादशी का शुभ मुहूर्त, व्रत नियम, पूजा विधि और इसका धार्मिक महत्व, जो जीवन में सुख, शांति और समृद्धि का मार्ग प्रशस्त करता है। कब है निर्जला एकादशी, कैसे करें व्रत और पूजा, जानें धार्मिक मान्यता और महत्व।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "साल का आखिरी बड़ा मंगल आज, अपनी राशि अनुसार हनुमान जी को चढ़ाएं ये चीजें",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/last-bada-mangal-2026-shubh-yog-and-upay-according-to-zodiac-2026-06-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T02:11:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/03/bada-mangal-2024_65e6c94b54d602e25d166ca75abe8b07.jpeg?w=1200&dpr=1.0",
+      "summary": "साल का आखिरी बड़ा मंगल आज है और राशि के अनुसार हनुमान जी को चीजें चढ़ानी हैं। Last Bada Mangal 2026: अपनी राशि के अनुसार, हनुमान जी को कुछ चीजें चढ़ाने से जीवन में सुख-समृद्धि बढ़ती हैं और प्रभु का विशेष आशीर्वाद मिलता है। आइए जानते हैं किस राशि के लोगों को क्या अर्पित करना चाहिए। साल का आखिरी बड़ा मंगल आज, अपनी राशि अनुसार हनुमान जी को चढ़ाएं ये चीजें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "साल का आखिरी बड़ा मंगल आज, अपनी राशि अनुसार हनुमान जी को चढ़ाएं ये चीजें",
+          "summary": "साल का आखिरी बड़ा मंगल आज है और राशि के अनुसार हनुमान जी को चीजें चढ़ानी हैं। Last Bada Mangal 2026: अपनी राशि के अनुसार, हनुमान जी को कुछ चीजें चढ़ाने से जीवन में सुख-समृद्धि बढ़ती हैं और प्रभु का विशेष आशीर्वाद मिलता है। आइए जानते हैं किस राशि के लोगों को क्या अर्पित करना चाहिए। साल का आखिरी बड़ा मंगल आज, अपनी राशि अनुसार हनुमान जी को चढ़ाएं ये चीजें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका ने ईरान के तेल पर प्रतिबंध हटाए; जारी करेगा 12 अरब डॉलर की जमा राशि",
+      "url": "https://www.amarujala.com/live/world/west-asia-live-us-iran-talks-oil-donald-trump-jd-vance-lebanon-israel-strait-of-hormuz-2026-06-23",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-23T01:59:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/amaraka-iirana-shata-varata_3636bc0b7f8d240113b7767231317526.gif?w=1200&dpr=1.0",
+      "summary": "अमेरिका ने ईरान को 60 दिन तक तेल बेचने की छूट दी है, गाजा में मृतकों का आंकड़ा 73035 हुआ। West Asia LIVE: 60 दिन तक तेल बेच सकेगा ईरान, US ने दी छूट; गाजा में मृतकों का आंकड़ा बढ़कर 73035 हुआ। West Asia LIVE: अमेरिका ने ईरान के तेल पर प्रतिबंध हटाए; जारी करेगा 12 अरब डॉलर की जमा राशि।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका ने ईरान के तेल पर प्रतिबंध हटाए; जारी करेगा 12 अरब डॉलर की जमा राशि",
+          "summary": "अमेरिका ने ईरान को 60 दिन तक तेल बेचने की छूट दी है, गाजा में मृतकों का आंकड़ा 73035 हुआ। West Asia LIVE: 60 दिन तक तेल बेच सकेगा ईरान, US ने दी छूट; गाजा में मृतकों का आंकड़ा बढ़कर 73035 हुआ। West Asia LIVE: अमेरिका ने ईरान के तेल पर प्रतिबंध हटाए; जारी करेगा 12 अरब डॉलर की जमा राशि।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान का ऐलान- ‘होर्मुज अब कभी भी पहले की तरह खुला नहीं रहेगा’, कच्चे तेल का दाम अब चीन की पॉलिसी पर",
+      "url": "https://www.patrika.com/world-news/iran-declares-hormuz-will-never-again-remain-open-as-it-used-to-be-crude-oil-prices-now-depend-on-china-policy-20688904",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-23T01:57:18+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/ships-in-strait-of-hormuz.webp",
+      "summary": "ईरानी विदेश मंत्री अब्बास अराघची ने दावा किया कि ईरान के तेल और पेट्रोकेमिकल पर लगी रोक हटा दी गई है। कुछ जब्त संपत्तियों को भी रिलीज़ किया जाएगा। यह घोषणा अमेरिका और ईरान के बीच शांति समझौते की बातचीत के बाद की गई है। US Iran Talk: अमेरिका और ईरान ईरान के बीच शांति समझौते को निर्णायक रूप देने को लेकर बातचीत जारी है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान का ऐलान- ‘होर्मुज अब कभी भी पहले की तरह खुला नहीं रहेगा’, कच्चे तेल का दाम अब चीन की पॉलिसी पर",
+          "summary": "ईरानी विदेश मंत्री अब्बास अराघची ने दावा किया कि ईरान के तेल और पेट्रोकेमिकल पर लगी रोक हटा दी गई है। कुछ जब्त संपत्तियों को भी रिलीज़ किया जाएगा। यह घोषणा अमेरिका और ईरान के बीच शांति समझौते की बातचीत के बाद की गई है। US Iran Talk: अमेरिका और ईरान ईरान के बीच शांति समझौते को निर्णायक रूप देने को लेकर बातचीत जारी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "फीफा विश्वकप में सबसे ज्यादा गोल करने वाले 16 फुटबॉलर्स की सूची: मेसी नंबर-1, एमबाप्पे से मिल रही",
+      "url": "https://www.amarujala.com/photo-gallery/sports/football/fifa-world-cup-s-top-16-goal-scorers-messi-reaches-no-1-mbappe-emerging-as-the-biggest-challenger-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-23T01:51:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/kylian-mbappe-mbappe-100th-match-france-football-team-fifa-world-cup-2026-mbappe-world-cup-goal_542495b81770e2cb594f204dc8f42906.jpeg?w=1200&dpr=1.0",
+      "summary": "अर्जेंटीना के कप्तान लियोनेल मेसी फीफा विश्वकप इतिहास में सबसे ज्यादा गोल करने वाले खिलाड़ी बन गए हैं। मेसी ने यह उपलब्धि हासिल की है। वह अब इस सूची में शीर्ष पर हैं। अर्जेंटीना के कप्तान लियोनेल मेसी ने फीफा विश्वकप इतिहास में नया अध्याय जोड़ते हुए सबसे ज्यादा गोल करने वाले खिलाड़ी बनने का गौरव हासिल कर लिया है।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फीफा विश्वकप में सबसे ज्यादा गोल करने वाले 16 फुटबॉलर्स की सूची: मेसी नंबर-1, एमबाप्पे से मिल रही",
+          "summary": "अर्जेंटीना के कप्तान लियोनेल मेसी फीफा विश्वकप इतिहास में सबसे ज्यादा गोल करने वाले खिलाड़ी बन गए हैं। मेसी ने यह उपलब्धि हासिल की है। वह अब इस सूची में शीर्ष पर हैं। अर्जेंटीना के कप्तान लियोनेल मेसी ने फीफा विश्वकप इतिहास में नया अध्याय जोड़ते हुए सबसे ज्यादा गोल करने वाले खिलाड़ी बनने का गौरव हासिल कर लिया है।",
+          "region": "अमेरिका"
         }
       }
     },
@@ -411,348 +753,6 @@
         "hi": {
           "title": "स्ट्रेट ऑफ होर्मुज पर बन गई बात, लेकिन अमेरिका ने लगाया 'हॉटलाइन' वाला अड़ंगा, फिर भी कैसे माना",
           "summary": "अमेरिका और ईरान के बीच स्ट्रेट ऑफ होर्मुज पर सहमति बनी है. स्विट्जरलैंड में हुई वार्ता में अमेरिका ने समुद्री सुरक्षा के लिए एक विशेष टेलीफोन हॉटलाइन और कम्युनिकेशन सेंटर बनाने की मांग रखी. ईरान ने शुरुआत में ना-नुकुर के बावजूद इस व्यवस्था पर राजी हो गया. मोहम्मद बाघेरी घालीबाफ ने कहा कि यह समझौता दोनों देशों के बीच तनाव कम करने में मदद करेगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "वायुसेना के दो रणनीतिक बेसों के विस्तार को हरी झंडी, सिलीगुड़ी कॉरिडोर की सुरक्षा होगी अभेद्य",
-      "url": "https://www.amarujala.com/india-news/india-strengthens-eastern-air-defense-hashimara-kalaikunda-airbases-get-additional-land-siliguri-corridor-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-23T01:13:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/iaf-base_be569ada275eba9396197c80d726b5a6.jpeg?w=1200&dpr=1.0",
-      "summary": "वायुसेना के दो रणनीतिक बेसों का विस्तार होगा, सिलीगुड़ी कॉरिडोर की सुरक्षा मजबूत होगी। वायुसेना के दो रणनीतिक बेसों के विस्तार को हरी झंडी, सिलीगुड़ी कॉरिडोर की सुरक्षा होगी अभेद्य।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वायुसेना के दो रणनीतिक बेसों के विस्तार को हरी झंडी, सिलीगुड़ी कॉरिडोर की सुरक्षा होगी अभेद्य",
-          "summary": "वायुसेना के दो रणनीतिक बेसों का विस्तार होगा, सिलीगुड़ी कॉरिडोर की सुरक्षा मजबूत होगी। वायुसेना के दो रणनीतिक बेसों के विस्तार को हरी झंडी, सिलीगुड़ी कॉरिडोर की सुरक्षा होगी अभेद्य।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "फ्रांस ने इराक को 3-0 से हराया, राउंड ऑफ-32 में एंट्री; एमबाप्पे ने दागे दो गोल, डेम्बेले चमके",
-      "url": "https://www.amarujala.com/live/sports/football/france-vs-iraq-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-23T00:59:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/france-vs-iraq-live-fifa-world-cup-2026-today-football-match-result-updates-france-vs-iraq-live_adf87e9f4b9e24cc41910883adbd68d1.jpeg?w=1200&dpr=1.0",
-      "summary": "फ्रांस और ईराक के बीच मुकाबला हो रहा है। क्यलियन एमबाप्पे अपने 100वें मैच में लियोनेल मेसी का रिकॉर्ड तोड़ने की कोशिश करेंगे। फ्रांस की टीम इस मैच में जीत की उम्मीद कर रही है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। फ्रांस और ईराक के बीच मुकाबला, अपने 100वें मैच में एमबाप्पे तोड़ पाएंगे मेसी का रिकॉर्ड?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्रांस ने इराक को 3-0 से हराया, राउंड ऑफ-32 में एंट्री; एमबाप्पे ने दागे दो गोल, डेम्बेले चमके",
-          "summary": "फ्रांस और ईराक के बीच मुकाबला हो रहा है। क्यलियन एमबाप्पे अपने 100वें मैच में लियोनेल मेसी का रिकॉर्ड तोड़ने की कोशिश करेंगे। फ्रांस की टीम इस मैच में जीत की उम्मीद कर रही है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। फ्रांस और ईराक के बीच मुकाबला, अपने 100वें मैच में एमबाप्पे तोड़ पाएंगे मेसी का रिकॉर्ड?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सात राज्यों के भूजल में मानक से अधिक जहरीले तत्व, आयरन की सबसे गंभीर स्थिति यूपी में",
-      "url": "https://www.amarujala.com/india-news/toxic-elements-in-groundwater-seven-states-iron-contamination-worst-in-uttar-pradesh-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-23T00:54:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/ground-water_8ad0840d9be0ee240f84f8157151659e.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश सहित सात राज्यों के भूजल में आर्सेनिक और अन्य जहरीले तत्व निर्धारित सीमा से अधिक पाए गए हैं। उत्तर प्रदेश में आयरन की समस्या सबसे गंभीर है। यह स्थिति पेयजल की गुणवत्ता पर चिंता बढ़ाती है। चिंताजनक: सात राज्यों के भूजल में मानक से अधिक जहरीले तत्व, आयरन की सबसे गंभीर स्थिति यूपी में।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सात राज्यों के भूजल में मानक से अधिक जहरीले तत्व, आयरन की सबसे गंभीर स्थिति यूपी में",
-          "summary": "उत्तर प्रदेश सहित सात राज्यों के भूजल में आर्सेनिक और अन्य जहरीले तत्व निर्धारित सीमा से अधिक पाए गए हैं। उत्तर प्रदेश में आयरन की समस्या सबसे गंभीर है। यह स्थिति पेयजल की गुणवत्ता पर चिंता बढ़ाती है। चिंताजनक: सात राज्यों के भूजल में मानक से अधिक जहरीले तत्व, आयरन की सबसे गंभीर स्थिति यूपी में।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "NEET केंद्रों के बाहर दर्दभरे दृश्य: हाथ में एडमिट कार्ड, आंखों में आंसू... देर से पहुंचे तो नहीं",
-      "url": "https://www.amarujala.com/education/neet-ug-re-exam-late-arrivals-denied-entry-emotional-scenes-outside-exam-centres-2026-06-22",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-23T00:52:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/neet-ug-re-exam_b3abcc26d7c5e63e8ae83f0330a51d44.jpeg?w=1200&dpr=1.0",
-      "summary": "राष्ट्रीय पात्रता सह प्रवेश परीक्षा (NEET) के लिए कुछ अभ्यर्थी परीक्षा केंद्रों पर देर से पहुंचे। एडमिट कार्ड होने के बावजूद, कुछ मिनटों की देरी के कारण उन्हें परीक्षा में बैठने की अनुमति नहीं मिली। इससे अभ्यर्थियों में निराशा देखी गई। NEET UG Re-Exam: सफेद कोट का सपना लिए परीक्षा देने गए के कुछ अभ्यर्थियों के लिए कुछ मिनटों की देरी जिंदगी का सबसे बड़ा दर्द बन गई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "NEET केंद्रों के बाहर दर्दभरे दृश्य: हाथ में एडमिट कार्ड, आंखों में आंसू... देर से पहुंचे तो नहीं",
-          "summary": "राष्ट्रीय पात्रता सह प्रवेश परीक्षा (NEET) के लिए कुछ अभ्यर्थी परीक्षा केंद्रों पर देर से पहुंचे। एडमिट कार्ड होने के बावजूद, कुछ मिनटों की देरी के कारण उन्हें परीक्षा में बैठने की अनुमति नहीं मिली। इससे अभ्यर्थियों में निराशा देखी गई। NEET UG Re-Exam: सफेद कोट का सपना लिए परीक्षा देने गए के कुछ अभ्यर्थियों के लिए कुछ मिनटों की देरी जिंदगी का सबसे बड़ा दर्द बन गई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "प्राचीन टक्करों के शोध से सुलझेगा चंद्रमा की उत्पत्ति का रहस्य, दक्षिण ध्रुव-ऐटकेन बेसिन की नई",
-      "url": "https://www.amarujala.com/world/mystery-of-the-moon-s-origin-to-be-unravelled-through-research-on-ancient-impacts-south-pole-aitken-basin-2026-06-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-23T00:49:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/08/nasa-artemis-2-mission-captures-moon-far-side-orion-video-lunar-surface-footage_7e06c11233d90806d35ec6b7c83b1140.jpeg?w=1200&dpr=1.0",
-      "summary": "चंद्रमा की उत्पत्ति के रहस्य को सुलझाने के लिए प्राचीन टक्करों पर शोध किया जा रहा है। दक्षिण ध्रुव-ऐटकेन बेसिन के नए अध्ययन इस दिशा में महत्वपूर्ण जानकारी प्रदान कर सकते हैं। यह शोध चंद्रमा के निर्माण की प्रक्रिया को समझने में मदद करेगा। प्राचीन टक्करों के शोध से सुलझेगा चंद्रमा की उत्पत्ति का रहस्य, दक्षिण ध्रुव-ऐटकेन बेसिन की नई।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्राचीन टक्करों के शोध से सुलझेगा चंद्रमा की उत्पत्ति का रहस्य, दक्षिण ध्रुव-ऐटकेन बेसिन की नई",
-          "summary": "चंद्रमा की उत्पत्ति के रहस्य को सुलझाने के लिए प्राचीन टक्करों पर शोध किया जा रहा है। दक्षिण ध्रुव-ऐटकेन बेसिन के नए अध्ययन इस दिशा में महत्वपूर्ण जानकारी प्रदान कर सकते हैं। यह शोध चंद्रमा के निर्माण की प्रक्रिया को समझने में मदद करेगा। प्राचीन टक्करों के शोध से सुलझेगा चंद्रमा की उत्पत्ति का रहस्य, दक्षिण ध्रुव-ऐटकेन बेसिन की नई।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कतर धमाके में 12 भारतीयों की मौत पर भारतीय विदेश मंत्री का आया बयान, एस.जयशंकर बोले- ‘परिवारों की",
-      "url": "https://www.patrika.com/world-news/indian-external-affairs-minister-s-jaishankar-issues-statement-on-the-death-of-12-indians-in-qatar-blast-20688820",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-23T00:35:28+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/S-Jaishankar.webp",
-      "summary": "कतर में एक धमाके में 12 भारतीय मारे गए, विदेश मंत्री एस. जयशंकर ने बयान जारी किया। Qatar explosion: कतर के रास लाफान इंडस्ट्रियल सिटी में हुए भीषण फैक्टरी धमाके में मरने वालों की संख्या 13 पहुंच गई। इनमें 12 भारतीय नागरिक शामिल हैं। कतर के अधिकारियों और दोहा स्थित भारतीय दूतावास ने इसकी पुष्टि की है। हादसे में 66 लोग घायल हुए हैं और भारतीय दूतावास का कहना है कि घायलों का इलाज जारी है तथा उनकी हालत फिलहाल स्थिर बताई गई है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कतर धमाके में 12 भारतीयों की मौत पर भारतीय विदेश मंत्री का आया बयान, एस.जयशंकर बोले- ‘परिवारों की",
-          "summary": "कतर में एक धमाके में 12 भारतीय मारे गए, विदेश मंत्री एस. जयशंकर ने बयान जारी किया। Qatar explosion: कतर के रास लाफान इंडस्ट्रियल सिटी में हुए भीषण फैक्टरी धमाके में मरने वालों की संख्या 13 पहुंच गई। इनमें 12 भारतीय नागरिक शामिल हैं। कतर के अधिकारियों और दोहा स्थित भारतीय दूतावास ने इसकी पुष्टि की है। हादसे में 66 लोग घायल हुए हैं और भारतीय दूतावास का कहना है कि घायलों का इलाज जारी है तथा उनकी हालत फिलहाल स्थिर बताई गई है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "राजस्थान यूनिफॉर्म सिविल कोड-2026 लाने की तैयारी; जानिए क्या होंगे बड़े बदलाव",
-      "url": "https://www.amarujala.com/rajasthan/jaipur/rajasthan-moves-towards-ucc-bhajanlal-government-pushes-key-ideological-agenda-ahead-of-2028-polls-2026-06-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-23T00:33:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/30/rajasathana_8d7f32bb91d829b842db5de1fe401727.jpeg?w=1200&dpr=1.0",
-      "summary": "राजस्थान में यूनिफॉर्म सिविल कोड-2026 लाने की तैयारी है, न्यायाधीश रंजना प्रकाश देसाई की अध्यक्षता में समिति गठित की गई। राजस्थान में राजस्थान यूनिफॉर्म सिविल कोड-2026 लाने की तैयारी की जा चुकी है। इसके लिए भजनलाल सरकार ने सुप्रीम कोर्ट की सेवानिवृत्त न्यायाधीश रंजना प्रकाश देसाई की अध्यक्षता में उच्च स्तरीय समिति गठित कर दी है-। राजस्थान यूनिफॉर्म सिविल कोड-2026 लाने की तैयारी; जानिए क्या होंगे बड़े बदलाव।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राजस्थान यूनिफॉर्म सिविल कोड-2026 लाने की तैयारी; जानिए क्या होंगे बड़े बदलाव",
-          "summary": "राजस्थान में यूनिफॉर्म सिविल कोड-2026 लाने की तैयारी है, न्यायाधीश रंजना प्रकाश देसाई की अध्यक्षता में समिति गठित की गई। राजस्थान में राजस्थान यूनिफॉर्म सिविल कोड-2026 लाने की तैयारी की जा चुकी है। इसके लिए भजनलाल सरकार ने सुप्रीम कोर्ट की सेवानिवृत्त न्यायाधीश रंजना प्रकाश देसाई की अध्यक्षता में उच्च स्तरीय समिति गठित कर दी है-। राजस्थान यूनिफॉर्म सिविल कोड-2026 लाने की तैयारी; जानिए क्या होंगे बड़े बदलाव।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गृह मंत्री अमित शाह NAFED के ऑक्शन पोर्टल का उद्घाटन करेंगे, महिला टी20 विश्वकप में तीन मुकाबले",
-      "url": "https://www.amarujala.com/india-news/23-june-2026-major-events-2026-06-22",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-23T00:31:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/aaja-ka-khabra_669fb3db503fe01c2296ac1a2eed3a88.gif?w=1200&dpr=1.0",
-      "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज NAFED के ई-ऑक्शन पोर्टल का उद्घाटन किया। यह पोर्टल कृषि उपज की नीलामी प्रक्रिया को सुव्यवस्थित करेगा। इस बीच, महिला टी20 विश्व कप में तीन मुकाबले खेले जाएंगे। आज के दिन: गृह मंत्री अमित शाह NAFED के ऑक्शन पोर्टल का उद्घाटन करेंगे, महिला टी20 विश्वकप में तीन मुकाबले।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गृह मंत्री अमित शाह NAFED के ऑक्शन पोर्टल का उद्घाटन करेंगे, महिला टी20 विश्वकप में तीन मुकाबले",
-          "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज NAFED के ई-ऑक्शन पोर्टल का उद्घाटन किया। यह पोर्टल कृषि उपज की नीलामी प्रक्रिया को सुव्यवस्थित करेगा। इस बीच, महिला टी20 विश्व कप में तीन मुकाबले खेले जाएंगे। आज के दिन: गृह मंत्री अमित शाह NAFED के ऑक्शन पोर्टल का उद्घाटन करेंगे, महिला टी20 विश्वकप में तीन मुकाबले।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "Weather Forecast 23 June 2026: देखिए क्या है आपके यहां मौसम का हाल",
-      "url": "https://www.amarujala.com/video/india-news/weather-forecast-23-june-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-23T00:30:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/weather-forecast_cd6b5a5ed5bf3127f35add4c85c8c4a3.jpeg?w=1200&dpr=1.0",
-      "summary": "23 जून 2026 के लिए मौसम पूर्वानुमान जारी किया गया है। विभिन्न क्षेत्रों में मौसम की स्थिति अलग-अलग रहेगी। नागरिकों को अपने स्थानीय मौसम की जानकारी के लिए पूर्वानुमान की जांच करने की सलाह दी जाती है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Weather Forecast 23 June 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "23 जून 2026 के लिए मौसम पूर्वानुमान जारी किया गया है। विभिन्न क्षेत्रों में मौसम की स्थिति अलग-अलग रहेगी। नागरिकों को अपने स्थानीय मौसम की जानकारी के लिए पूर्वानुमान की जांच करने की सलाह दी जाती है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "लखनऊ अग्निकांड पर यूपी सरकार की कार्रवाई, चार गिरफ्तार; ट्रंप की फिर ईरान को धमकी; पढ़ें सुर्खियां",
-      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-23-june-2026-updates-on-amar-ujala-2026-06-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-23T00:23:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
-      "summary": "लखनऊ अग्निकांड में चार गिरफ्तार हुए हैं. Top News: लखनऊ अग्निकांड पर यूपी सरकार की कार्रवाई, चार गिरफ्तार; ट्रंप की फिर ईरान को धमकी; पढ़ें सुर्खियां।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लखनऊ अग्निकांड पर यूपी सरकार की कार्रवाई, चार गिरफ्तार; ट्रंप की फिर ईरान को धमकी; पढ़ें सुर्खियां",
-          "summary": "लखनऊ अग्निकांड में चार गिरफ्तार हुए हैं. Top News: लखनऊ अग्निकांड पर यूपी सरकार की कार्रवाई, चार गिरफ्तार; ट्रंप की फिर ईरान को धमकी; पढ़ें सुर्खियां।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मानसून ने पकड़ी रफ्तार, उत्तर से दक्षिण तक आंधी-तूफान के आसार; मौसम विभाग का अलर्ट जारी",
-      "url": "https://www.amarujala.com/india-news/weather-updates-monsoon-gathers-momentum-storms-likely-from-north-to-south-imd-alert-rain-thunderstorms-2026-06-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-23T00:18:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/17/thunderstorm_3a8a71f1b41ab9f12b66a6ade849720b.jpeg?w=1200&dpr=1.0",
-      "summary": "मानसून ने रफ्तार पकड़ी है और आंधी-तूफान के आसार हैं. मानसून ने पकड़ी रफ्तार, उत्तर से दक्षिण तक आंधी-तूफान के आसार; मौसम विभाग का अलर्ट जारी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मानसून ने पकड़ी रफ्तार, उत्तर से दक्षिण तक आंधी-तूफान के आसार; मौसम विभाग का अलर्ट जारी",
-          "summary": "मानसून ने रफ्तार पकड़ी है और आंधी-तूफान के आसार हैं. मानसून ने पकड़ी रफ्तार, उत्तर से दक्षिण तक आंधी-तूफान के आसार; मौसम विभाग का अलर्ट जारी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'अगर ईरान समझौते से पीछे हटा तो मैं वहीं करूंगा, जो मुझे करना होगा', ट्रंप ने दी धमकी",
-      "url": "https://www.amarujala.com/world/us-iran-deal-donald-trump-warns-iran-says-if-tehran-backs-out-of-agreement-i-will-do-what-i-have-to-do-2026-06-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-23T00:07:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/10/donald-trump_6a6b34cbe49c5f78ced63d0961b32f95.png?w=1200&dpr=1.0",
-      "summary": "ट्रंप ने ईरान को समझौते से पीछे हटने पर धमकी दी है. 'अगर ईरान समझौते से पीछे हटा तो मैं वहीं करूंगा, जो मुझे करना होगा', ट्रंप ने दी धमकी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'अगर ईरान समझौते से पीछे हटा तो मैं वहीं करूंगा, जो मुझे करना होगा', ट्रंप ने दी धमकी",
-          "summary": "ट्रंप ने ईरान को समझौते से पीछे हटने पर धमकी दी है. 'अगर ईरान समझौते से पीछे हटा तो मैं वहीं करूंगा, जो मुझे करना होगा', ट्रंप ने दी धमकी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "बाधा पहुंचाने की फिराक में 36 आतंकी, पाकिस्तानी आतंकियों ने अफगान फ्रंट पर ली ट्रेनिंग",
-      "url": "https://www.amarujala.com/india-news/amarnath-yatra-security-alert-pakistan-terrorists-planned-attack-after-afghan-training-2026-06-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-22T23:54:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/amaranatha-yatara_ef3167f95575ea1a05e778b26f6430dc.jpeg?w=1200&dpr=1.0",
-      "summary": "36 आतंकी अमरनाथ यात्रा में बाधा पहुंचाने की फिराक में हैं. अमरनाथ यात्रा: बाधा पहुंचाने की फिराक में 36 आतंकी, पाकिस्तानी आतंकियों ने अफगान फ्रंट पर ली ट्रेनिंग।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बाधा पहुंचाने की फिराक में 36 आतंकी, पाकिस्तानी आतंकियों ने अफगान फ्रंट पर ली ट्रेनिंग",
-          "summary": "36 आतंकी अमरनाथ यात्रा में बाधा पहुंचाने की फिराक में हैं. अमरनाथ यात्रा: बाधा पहुंचाने की फिराक में 36 आतंकी, पाकिस्तानी आतंकियों ने अफगान फ्रंट पर ली ट्रेनिंग।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ब्रिटिश पीएम कीर स्टार्मर के इस्तीफे पर डोनाल्ड ट्रंप का आया पहला बयान, बोले- ‘वे NATO पर हमारे साथ",
-      "url": "https://www.patrika.com/world-news/donald-trump-first-statement-on-british-pm-keir-starmer-resignation-says-he-wasnt-good-to-us-on-nato-20688810",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-22T23:35:29+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trumpppdd.webp",
-      "summary": "डोनाल्ड ट्रंप ने कीर स्टार्मर के इस्तीफे पर बयान दिया, उन्हें NATO मुद्दों पर निशाना बनाया और अमेरिका के साथ उनके संबंधों की आलोचना की। Donald Trump on Keir Starmer: ब्रिटेन के प्रधानमंत्री कीर स्टार्मर के इस्तीफे के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का पहला बयान सामने आया है। ट्रंप ने स्टारमर पर NATO के मुद्दों पर निशाना साधते हुए कहा कि वे अमेरिका के साथ अच्छे नहीं थे।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ब्रिटिश पीएम कीर स्टार्मर के इस्तीफे पर डोनाल्ड ट्रंप का आया पहला बयान, बोले- ‘वे NATO पर हमारे साथ",
-          "summary": "डोनाल्ड ट्रंप ने कीर स्टार्मर के इस्तीफे पर बयान दिया, उन्हें NATO मुद्दों पर निशाना बनाया और अमेरिका के साथ उनके संबंधों की आलोचना की। Donald Trump on Keir Starmer: ब्रिटेन के प्रधानमंत्री कीर स्टार्मर के इस्तीफे के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का पहला बयान सामने आया है। ट्रंप ने स्टारमर पर NATO के मुद्दों पर निशाना साधते हुए कहा कि वे अमेरिका के साथ अच्छे नहीं थे।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "चीन ने 10 अमेरिकी रक्षा कंपनियों को रोका निर्यात, 46 फर्मों पर लगाया खरीद प्रतिबंध; जानें क्या है",
-      "url": "https://www.amarujala.com/world/china-halts-exports-to-10-us-defense-companies-purchase-bans-on-46-firms-after-us-sanctions-on-tech-companies-2026-06-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-22T23:05:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/china-us-trade-war_16676b2ebe17b97147eaa7ff93c53d37.jpeg?w=1200&dpr=1.0",
-      "summary": "चीन ने 10 अमेरिकी रक्षा कंपनियों को निर्यात रोक दिया है। 46 अन्य फर्मों पर खरीद प्रतिबंध लगाया गया है। यह अमेरिकी प्रतिबंधों के बाद हुआ है। चीन ने 10 अमेरिकी रक्षा कंपनियों को रोका निर्यात, 46 फर्मों पर लगाया खरीद प्रतिबंध; जानें क्या है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन ने 10 अमेरिकी रक्षा कंपनियों को रोका निर्यात, 46 फर्मों पर लगाया खरीद प्रतिबंध; जानें क्या है",
-          "summary": "चीन ने 10 अमेरिकी रक्षा कंपनियों को निर्यात रोक दिया है। 46 अन्य फर्मों पर खरीद प्रतिबंध लगाया गया है। यह अमेरिकी प्रतिबंधों के बाद हुआ है। चीन ने 10 अमेरिकी रक्षा कंपनियों को रोका निर्यात, 46 फर्मों पर लगाया खरीद प्रतिबंध; जानें क्या है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तानी सेना के खिलाफ सड़कों पर उतरे स्कूली बच्चे और महिलाएं, भड़का जनाक्रोश; नारे लगाकर मांगी",
-      "url": "https://www.amarujala.com/world/pok-protests-children-and-women-took-streets-against-pakistan-army-slogans-raised-demanding-freedom-2026-06-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-22T22:44:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/pok-protest_6468aeab200462afd63c33bf42984da6.jpeg?w=1200&dpr=1.0",
-      "summary": "पाकिस्तान के कब्जे वाले कश्मीर में स्कूली बच्चे और महिलाएं पाकिस्तानी सेना के खिलाफ सड़कों पर उतरे। वे आजादी की मांग को लेकर नारे लगा रहे थे। प्रदर्शनकारियों ने पाकिस्तानी सेना के खिलाफ अपना विरोध जताया। पाकिस्तानी सेना के खिलाफ सड़कों पर उतरे स्कूली बच्चे और महिलाएं, भड़का जनाक्रोश; नारे लगाकर मांगी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तानी सेना के खिलाफ सड़कों पर उतरे स्कूली बच्चे और महिलाएं, भड़का जनाक्रोश; नारे लगाकर मांगी",
-          "summary": "पाकिस्तान के कब्जे वाले कश्मीर में स्कूली बच्चे और महिलाएं पाकिस्तानी सेना के खिलाफ सड़कों पर उतरे। वे आजादी की मांग को लेकर नारे लगा रहे थे। प्रदर्शनकारियों ने पाकिस्तानी सेना के खिलाफ अपना विरोध जताया। पाकिस्तानी सेना के खिलाफ सड़कों पर उतरे स्कूली बच्चे और महिलाएं, भड़का जनाक्रोश; नारे लगाकर मांगी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चार वर्ष पूर्व दी स्टार्मर को चुनौती, संसद पहुंचे तो सत्ता से हटाया; नया PM चुना जाना तय",
-      "url": "https://www.amarujala.com/world/who-is-andy-burnham-set-to-be-elected-uk-new-pm-challenged-keir-starmer-ousted-from-power-entering-parliament-2026-06-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-22T22:12:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/andy-burnham_19b4d2d8d86824d50740316fce346735.jpeg?w=1200&dpr=1.0",
-      "summary": "दी स्टार्मर को चुनौती देने वाले बर्नहैम को नया पीएम चुना जाना तय है. चार वर्ष पूर्व दी स्टार्मर को चुनौती, संसद पहुंचे तो सत्ता से हटाया; नया PM चुना जाना तय।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चार वर्ष पूर्व दी स्टार्मर को चुनौती, संसद पहुंचे तो सत्ता से हटाया; नया PM चुना जाना तय",
-          "summary": "दी स्टार्मर को चुनौती देने वाले बर्नहैम को नया पीएम चुना जाना तय है. चार वर्ष पूर्व दी स्टार्मर को चुनौती, संसद पहुंचे तो सत्ता से हटाया; नया PM चुना जाना तय।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "वेंस का दावा- ईरान परमाणु जांचकर्ताओं को देश में आने की देगा इजाजत; तेहरान ने नहीं की पुष्टि",
-      "url": "https://www.amarujala.com/world/very-productive-36-hours-us-vp-vance-as-he-departs-from-switzerland-after-talks-with-iran-2026-06-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-22T21:58:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/jd-vance_14427e80d8079086f5ebfa136e922369.jpeg?w=1200&dpr=1.0",
-      "summary": "वेंस ने दावा किया कि ईरान परमाणु जांचकर्ताओं को देश में आने की इजाजत देगा. US-Iran Talks: वेंस का दावा- ईरान परमाणु जांचकर्ताओं को देश में आने की देगा इजाजत; तेहरान ने नहीं की पुष्टि।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वेंस का दावा- ईरान परमाणु जांचकर्ताओं को देश में आने की देगा इजाजत; तेहरान ने नहीं की पुष्टि",
-          "summary": "वेंस ने दावा किया कि ईरान परमाणु जांचकर्ताओं को देश में आने की इजाजत देगा. US-Iran Talks: वेंस का दावा- ईरान परमाणु जांचकर्ताओं को देश में आने की देगा इजाजत; तेहरान ने नहीं की पुष्टि।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप को झटका, वोटर जांच के लिए नये आव्रजन डाटाबेस के इस्तेमाल पर लगी रोक",
-      "url": "https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-06-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-22T21:55:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
-      "summary": "ट्रंप को झटका लगा है, वोटर जांच के लिए नये आव्रजन डाटाबेस के इस्तेमाल पर रोक लगी है. ट्रंप को झटका, वोटर जांच के लिए नये आव्रजन डाटाबेस के इस्तेमाल पर लगी रोक।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप को झटका, वोटर जांच के लिए नये आव्रजन डाटाबेस के इस्तेमाल पर लगी रोक",
-          "summary": "ट्रंप को झटका लगा है, वोटर जांच के लिए नये आव्रजन डाटाबेस के इस्तेमाल पर रोक लगी है. ट्रंप को झटका, वोटर जांच के लिए नये आव्रजन डाटाबेस के इस्तेमाल पर लगी रोक।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
