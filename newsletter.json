@@ -1,20 +1,80 @@
 {
-  "generated_at": "2026-06-22T23:34:53.373103+00:00",
+  "generated_at": "2026-06-23T00:55:21.672738+00:00",
   "article_count": 50,
-  "total_unique_count": 260,
+  "total_unique_count": 266,
   "digest": {
-    "en": "China has sanctioned US defense and rare earth firms. The move is a retaliation against earlier actions. Moscow is trying to suppress footage of a Ukrainian drone strike on an oil refinery.",
-    "hi": "ईरान को 60 दिनों तक तेल बेचने की छूट दी गई है। US ने यह छूट दी है। गाजा में मृतकों का आंकड़ा बढ़कर 73035 हुआ है।"
+    "en": "Myanmar's new administration dominates the news. Armenia's election and Djibouti's prime real estate are also major threads. US Senate passes a bipartisan housing bill.",
+    "hi": "आज ईरान को 60 दिन तक तेल बेचने की छूट मिली है। गाजा में मृतकों का आंकड़ा बढ़कर 73035 हुआ है।"
   },
   "articles": [
     {
-      "title": "Do we only appreciate art and creativity when it’s approved?",
-      "url": "https://www.channelnewsasia.com/commentary/mountbatten-pavement-art-power-washing-singapore-creativity-6200476",
-      "source": "Channel News Asia",
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
       "sources": [],
-      "published_at": "2026-06-22T22:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--_abiIr1L--/c_crop,h_759,w_1350,x_0,y_161/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/07/copy-of-54-hero-image-composites-4.jpg?itok=DSCXfR5Q",
-      "summary": "Arts advocate Usha Chandradas stated that the speed of art removal from public spaces is not inevitable. She suggested that public spaces can manage tensions around art installations. Chandradas believes appreciation for art should not depend on prior approval. While tension is inevitable when it comes to how public spaces are used, the speed with which we default to removal does not have to be, says arts advocate and former Nominated MP Usha Chandradas.",
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Myanmar's military leader Min Aung Hlaing transitioned from commander-in-chief to president after staged elections. Foreign governments should calibrate interactions with Naypyitaw to avoid legitimizing the administration. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenia will hold its first general election since 2021 on June 7. Foreign policy has dominated the campaign, raising questions about Yerevan's future external relations. Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Djibouti's history, politics, and navigation of regional turmoil in the Horn of Africa and Red Sea are discussed. The nation seeks to manage shifting alliances. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan began conveying proposals to end the U. S.-Iran war after bombings began on February 28. Islamabad perceives high stakes, undertaking the mediator role despite risks. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's next seven-year budget may jeopardize funding for conflict prevention and aid to fragile states. Experts discuss the potential consequences of these plans. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. Senate passes bipartisan housing bill aimed at increasing supply, lowering prices",
+      "url": "https://www.thehindu.com/news/international/us-senate-passes-bipartisan-housing-bill-aimed-at-increasing-supply-lowering-prices/article71135117.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-22T23:09:28+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/kv6wlg/article71135121.ece/alternates/LANDSCAPE_1200/2025-06-29T111215Z_1212138031_RC2BCFAXNFB4_RTRMADP_3_USA-CONGRESS-TAX.JPG",
+      "summary": "The U. S. The bill, which passed 85-5 and now heads to the House, has been the focus of intense negotiations in recent weeks as lawmakers in both parties try to address housing costs in an election year. U. S. Senate passes bipartisan housing bill aimed at increasing supply, lowering prices.",
       "region": "World",
       "language": "en",
       "translations": {}
@@ -75,18 +135,6 @@
       "published_at": "2026-06-22T17:16:39+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/1n9z6z/article71133361.ece/alternates/LANDSCAPE_1200/2026-06-22T092149Z_733165588_RC2XYLAQP43E_RTRMADP_3_BRITAIN-POLITICS.JPG",
       "summary": "Andy Burnham's election to Westminster sealed Keir Starmer's political fate. The former mayor of Greater Manchester won a by-election, leading to Starmer's resignation as Labour leader. Keir Starmer’s political fate was all but sealed when Labour’s ‘King of the North’, former mayor of Greater Manchester, Andy Burnham won a seat in Westminster (the U. K.’s Parliament) last week, after winning a bye-election.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.K. PM Keir Starmer resigns: What went wrong?",
-      "url": "https://www.thehindu.com/videos/watch-uk-pm-keir-starmer-resigns-what-went-wrong/article71134472.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-22T16:36:58+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/national/jhla60/article71134471.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-22%20at%208.51.11%20PM.jpeg",
-      "summary": "Prime Minister Keir Starmer resigned from his position in the United Kingdom. This decision followed intense political pressure. The summary also noted an ammonia gas leak in Tamil Nadu. In this episode, we look at the resignation of U. K. Prime Minister Keir Starmer amid mounting political pressure, the deadly ammonia gas leak at a seafood processing unit in Tamil Nadu’s Tiruvallur district, and more.",
       "region": "World",
       "language": "en",
       "translations": {}
@@ -260,54 +308,6 @@
       "translations": {}
     },
     {
-      "title": "What Indonesia’s finance chief really brought back from Beijing",
-      "url": "https://asiatimes.com/2026/06/what-indonesias-finance-chief-really-brought-back-from-beijing/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-06-21T04:57:25+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/Purbaya-Yudhi-Sadewa-Indonesia-Finance-Minister-June-2026.jpg",
-      "summary": "Indonesia’s Finance Minister Purbaya Yudhi Sadewa secured Chinese backing for Indonesia When Finance Minister Purbaya Yudhi Sadewa landed in Beijing last week, the official agenda appeared straightforward: secure support for Indonesia’s first sovereign Panda Bond, deepen financial cooperation with China and strengthen investor confidence. By those measures, the visit was productive. Purbaya returned with Chinese backing for the Panda Bond initiative, discussions on expanding yuan-rup.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "For One 21-Year-Old New Zealander, War In Ukraine Means A Chance To 'Fight For Freedom'",
-      "url": "https://www.rferl.org/a/new-zealand-volunteer-ukraine-military/33783528.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-20T08:33:15+00:00",
-      "image_url": "https://gdb.rferl.org/399bce86-1bcb-4dea-10b1-08decad58b60_w1200_h630.jpg",
-      "summary": "A 21-year-old New Zealander, known by his call A soldier who goes by the call sign Kiwi was still a teenager in Wellington, New Zealand, when he saw Russia's full-scale invasion of Ukraine on the news in February 2022. As the war dragged on, he learned that he could enlist and receive training to fight alongside the forces defending Ukraine.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A Precarious Mountain Pass Is Bringing New Life To A Kyrgyz Village",
-      "url": "https://www.rferl.org/a/kyrgyzstan-village-batken-mountain-road/33784755.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-19T19:33:14+00:00",
-      "image_url": "https://gdb.rferl.org/46f51a2d-1cde-45f8-3d07-08decacf94d0_w1200_h630.jpg",
-      "summary": "The village of Zardaly in Kyrgyzstan's Batken region is seeing new development after the expansion of its only road. Previously, the route was dangerous for people and horses. The road improvements include new housing construction and a planned power station. This work is bringing new life to the remote area. In Kyrgyzstan's remote Batken region, locals say people and horses have fallen to their deaths while traversing the only road to the village of Zardaly.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Art and culture can both fuel and counter hate, UN discussion hears on Juneteenth",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167772",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/01-03-2023-UN-News-Slavery.jpg/image770x420cropped.jpg",
-      "summary": "Artists at a United Nations discussion used images to show how culture can shape the fight against hatred. A gold collar worn by an enslaved African and music preserved after the Holocaust were displayed. These examples highlighted the role of art and culture in fueling and countering hate. The discussion took place on Friday. From a gold collar worn by an enslaved African to music preserved for nearly a century after the Holocaust, a staged reconstruction of a hate radio broadcast or porcelain coffee cups laid out in participatory remembrance, artists in a United Nations discussion on Friday used powerful images to underscore how culture can shape the fight against hatred.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "60 दिन तक तेल बेच सकेगा ईरान, US ने दी छूट; गाजा में मृतकों का आंकड़ा बढ़कर 73035 हुआ",
       "url": "https://www.amarujala.com/live/world/west-asia-live-us-iran-talks-oil-donald-trump-jd-vance-lebanon-israel-strait-of-hormuz-2026-06-23",
       "source": "Amar Ujala World",
@@ -326,27 +326,225 @@
       }
     },
     {
-      "title": "फसलों पर भारी पड़ी मानसून की बेरुखी, कपास-सोयाबीन की बुआई पिछड़ी; बढ़ेगी कपड़ा उद्योग की लागत",
-      "url": "https://www.amarujala.com/business/bonus/monsoon-delay-hits-crops-cotton-soybean-sowing-lags-textile-industry-costs-may-rise-2026-06-23",
+      "title": "सात राज्यों के भूजल में मानक से अधिक जहरीले तत्व, आयरन की सबसे गंभीर स्थिति यूपी में",
+      "url": "https://www.amarujala.com/india-news/toxic-elements-in-groundwater-seven-states-iron-contamination-worst-in-uttar-pradesh-2026-06-23",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-22T23:21:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2024/11/03/02jaenada09-mada-ma-aaii-kapasa-ka-fasal-savatha_66aea7d98d6ed006477ee992be1e70e9.jpeg?w=1200&dpr=1.0",
-      "summary": "मानसून की बेरुखी के कारण कपास और सोयाबीन की बुआई पिछड़ गई है। इस स्थिति से कपड़ा उद्योग की लागत बढ़ने की संभावना है। कपास की बुआई में देरी से कपड़ा उद्योग पर इसका असर पड़ेगा। चिंता: फसलों पर भारी पड़ी मानसून की बेरुखी, कपास-सोयाबीन की बुआई पिछड़ी; बढ़ेगी कपड़ा उद्योग की लागत।",
+      "published_at": "2026-06-23T00:54:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/22/bhajal-satara_f1ff39b65ea44d3095a59a5e3da1c848.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर प्रदेश सहित सात राज्यों के भूजल में आर्सेनिक और अन्य जहरीले तत्व निर्धारित सीमा से अधिक पाए गए हैं। उत्तर प्रदेश में आयरन की समस्या सबसे गंभीर है। यह स्थिति पेयजल की गुणवत्ता पर चिंता बढ़ाती है। चिंताजनक: सात राज्यों के भूजल में मानक से अधिक जहरीले तत्व, आयरन की सबसे गंभीर स्थिति यूपी में।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "फसलों पर भारी पड़ी मानसून की बेरुखी, कपास-सोयाबीन की बुआई पिछड़ी; बढ़ेगी कपड़ा उद्योग की लागत",
-          "summary": "मानसून की बेरुखी के कारण कपास और सोयाबीन की बुआई पिछड़ गई है। इस स्थिति से कपड़ा उद्योग की लागत बढ़ने की संभावना है। कपास की बुआई में देरी से कपड़ा उद्योग पर इसका असर पड़ेगा। चिंता: फसलों पर भारी पड़ी मानसून की बेरुखी, कपास-सोयाबीन की बुआई पिछड़ी; बढ़ेगी कपड़ा उद्योग की लागत।",
+          "title": "सात राज्यों के भूजल में मानक से अधिक जहरीले तत्व, आयरन की सबसे गंभीर स्थिति यूपी में",
+          "summary": "उत्तर प्रदेश सहित सात राज्यों के भूजल में आर्सेनिक और अन्य जहरीले तत्व निर्धारित सीमा से अधिक पाए गए हैं। उत्तर प्रदेश में आयरन की समस्या सबसे गंभीर है। यह स्थिति पेयजल की गुणवत्ता पर चिंता बढ़ाती है। चिंताजनक: सात राज्यों के भूजल में मानक से अधिक जहरीले तत्व, आयरन की सबसे गंभीर स्थिति यूपी में।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "NEET केंद्रों के बाहर दर्दभरे दृश्य: हाथ में एडमिट कार्ड, आंखों में आंसू... देर से पहुंचे तो नहीं",
+      "url": "https://www.amarujala.com/education/neet-ug-re-exam-late-arrivals-denied-entry-emotional-scenes-outside-exam-centres-2026-06-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T00:52:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/neet-ug-re-exam_b3abcc26d7c5e63e8ae83f0330a51d44.jpeg?w=1200&dpr=1.0",
+      "summary": "राष्ट्रीय पात्रता सह प्रवेश परीक्षा (NEET) के लिए कुछ अभ्यर्थी परीक्षा केंद्रों पर देर से पहुंचे। एडमिट कार्ड होने के बावजूद, कुछ मिनटों की देरी के कारण उन्हें परीक्षा में बैठने की अनुमति नहीं मिली। इससे अभ्यर्थियों में निराशा देखी गई। NEET UG Re-Exam: सफेद कोट का सपना लिए परीक्षा देने गए के कुछ अभ्यर्थियों के लिए कुछ मिनटों की देरी जिंदगी का सबसे बड़ा दर्द बन गई।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "NEET केंद्रों के बाहर दर्दभरे दृश्य: हाथ में एडमिट कार्ड, आंखों में आंसू... देर से पहुंचे तो नहीं",
+          "summary": "राष्ट्रीय पात्रता सह प्रवेश परीक्षा (NEET) के लिए कुछ अभ्यर्थी परीक्षा केंद्रों पर देर से पहुंचे। एडमिट कार्ड होने के बावजूद, कुछ मिनटों की देरी के कारण उन्हें परीक्षा में बैठने की अनुमति नहीं मिली। इससे अभ्यर्थियों में निराशा देखी गई। NEET UG Re-Exam: सफेद कोट का सपना लिए परीक्षा देने गए के कुछ अभ्यर्थियों के लिए कुछ मिनटों की देरी जिंदगी का सबसे बड़ा दर्द बन गई।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "प्राचीन टक्करों के शोध से सुलझेगा चंद्रमा की उत्पत्ति का रहस्य, दक्षिण ध्रुव-ऐटकेन बेसिन की नई",
+      "url": "https://www.amarujala.com/world/mystery-of-the-moon-s-origin-to-be-unravelled-through-research-on-ancient-impacts-south-pole-aitken-basin-2026-06-23",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-23T00:49:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/08/nasa-artemis-2-mission-captures-moon-far-side-orion-video-lunar-surface-footage_7e06c11233d90806d35ec6b7c83b1140.jpeg?w=1200&dpr=1.0",
+      "summary": "चंद्रमा की उत्पत्ति के रहस्य को सुलझाने के लिए प्राचीन टक्करों पर शोध किया जा रहा है। दक्षिण ध्रुव-ऐटकेन बेसिन के नए अध्ययन इस दिशा में महत्वपूर्ण जानकारी प्रदान कर सकते हैं। यह शोध चंद्रमा के निर्माण की प्रक्रिया को समझने में मदद करेगा। प्राचीन टक्करों के शोध से सुलझेगा चंद्रमा की उत्पत्ति का रहस्य, दक्षिण ध्रुव-ऐटकेन बेसिन की नई।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्राचीन टक्करों के शोध से सुलझेगा चंद्रमा की उत्पत्ति का रहस्य, दक्षिण ध्रुव-ऐटकेन बेसिन की नई",
+          "summary": "चंद्रमा की उत्पत्ति के रहस्य को सुलझाने के लिए प्राचीन टक्करों पर शोध किया जा रहा है। दक्षिण ध्रुव-ऐटकेन बेसिन के नए अध्ययन इस दिशा में महत्वपूर्ण जानकारी प्रदान कर सकते हैं। यह शोध चंद्रमा के निर्माण की प्रक्रिया को समझने में मदद करेगा। प्राचीन टक्करों के शोध से सुलझेगा चंद्रमा की उत्पत्ति का रहस्य, दक्षिण ध्रुव-ऐटकेन बेसिन की नई।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "गृह मंत्री अमित शाह NAFED के ऑक्शन पोर्टल का उद्घाटन करेंगे, महिला टी20 विश्वकप में तीन मुकाबले",
+      "url": "https://www.amarujala.com/india-news/23-june-2026-major-events-2026-06-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-23T00:31:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/aaja-ka-khabra_669fb3db503fe01c2296ac1a2eed3a88.gif?w=1200&dpr=1.0",
+      "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज NAFED के ई-ऑक्शन पोर्टल का उद्घाटन किया। यह पोर्टल कृषि उपज की नीलामी प्रक्रिया को सुव्यवस्थित करेगा। इस बीच, महिला टी20 विश्व कप में तीन मुकाबले खेले जाएंगे। आज के दिन: गृह मंत्री अमित शाह NAFED के ऑक्शन पोर्टल का उद्घाटन करेंगे, महिला टी20 विश्वकप में तीन मुकाबले।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गृह मंत्री अमित शाह NAFED के ऑक्शन पोर्टल का उद्घाटन करेंगे, महिला टी20 विश्वकप में तीन मुकाबले",
+          "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज NAFED के ई-ऑक्शन पोर्टल का उद्घाटन किया। यह पोर्टल कृषि उपज की नीलामी प्रक्रिया को सुव्यवस्थित करेगा। इस बीच, महिला टी20 विश्व कप में तीन मुकाबले खेले जाएंगे। आज के दिन: गृह मंत्री अमित शाह NAFED के ऑक्शन पोर्टल का उद्घाटन करेंगे, महिला टी20 विश्वकप में तीन मुकाबले।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "Weather Forecast 23 June 2026: देखिए क्या है आपके यहां मौसम का हाल",
+      "url": "https://www.amarujala.com/video/india-news/weather-forecast-23-june-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T00:30:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/weather-forecast_cd6b5a5ed5bf3127f35add4c85c8c4a3.jpeg?w=1200&dpr=1.0",
+      "summary": "23 जून 2026 के लिए मौसम पूर्वानुमान जारी किया गया है। विभिन्न क्षेत्रों में मौसम की स्थिति अलग-अलग रहेगी। नागरिकों को अपने स्थानीय मौसम की जानकारी के लिए पूर्वानुमान की जांच करने की सलाह दी जाती है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Weather Forecast 23 June 2026: देखिए क्या है आपके यहां मौसम का हाल",
+          "summary": "23 जून 2026 के लिए मौसम पूर्वानुमान जारी किया गया है। विभिन्न क्षेत्रों में मौसम की स्थिति अलग-अलग रहेगी। नागरिकों को अपने स्थानीय मौसम की जानकारी के लिए पूर्वानुमान की जांच करने की सलाह दी जाती है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लखनऊ अग्निकांड पर यूपी सरकार की कार्रवाई, चार गिरफ्तार; ट्रंप की फिर ईरान को धमकी; पढ़ें सुर्खियां",
+      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-23-june-2026-updates-on-amar-ujala-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-23T00:23:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
+      "summary": "लखनऊ अग्निकांड में चार गिरफ्तार हुए हैं. Top News: लखनऊ अग्निकांड पर यूपी सरकार की कार्रवाई, चार गिरफ्तार; ट्रंप की फिर ईरान को धमकी; पढ़ें सुर्खियां।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लखनऊ अग्निकांड पर यूपी सरकार की कार्रवाई, चार गिरफ्तार; ट्रंप की फिर ईरान को धमकी; पढ़ें सुर्खियां",
+          "summary": "लखनऊ अग्निकांड में चार गिरफ्तार हुए हैं. Top News: लखनऊ अग्निकांड पर यूपी सरकार की कार्रवाई, चार गिरफ्तार; ट्रंप की फिर ईरान को धमकी; पढ़ें सुर्खियां।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "फ्रांस और ईराक के बीच मुकाबला, अपने 100वें मैच में एमबाप्पे तोड़ पाएंगे मेसी का रिकॉर्ड?",
+      "url": "https://www.amarujala.com/live/sports/football/france-vs-iraq-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-23T00:21:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/kylian-mbappe-france-vs-iraq-fifa-world-cup-2026-france-football-team-olivier-giroud-didier-des_8bfb5e3dc6f4e9252b14df146e3ad3b0.jpeg?w=1200&dpr=1.0",
+      "summary": "फ्रांस और ईराक के बीच मुकाबला हो रहा है। क्यलियन एमबाप्पे अपने 100वें मैच में लियोनेल मेसी का रिकॉर्ड तोड़ने की कोशिश करेंगे। फ्रांस की टीम इस मैच में जीत की उम्मीद कर रही है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। फ्रांस और ईराक के बीच मुकाबला, अपने 100वें मैच में एमबाप्पे तोड़ पाएंगे मेसी का रिकॉर्ड?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्रांस और ईराक के बीच मुकाबला, अपने 100वें मैच में एमबाप्पे तोड़ पाएंगे मेसी का रिकॉर्ड?",
+          "summary": "फ्रांस और ईराक के बीच मुकाबला हो रहा है। क्यलियन एमबाप्पे अपने 100वें मैच में लियोनेल मेसी का रिकॉर्ड तोड़ने की कोशिश करेंगे। फ्रांस की टीम इस मैच में जीत की उम्मीद कर रही है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। फ्रांस और ईराक के बीच मुकाबला, अपने 100वें मैच में एमबाप्पे तोड़ पाएंगे मेसी का रिकॉर्ड?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मानसून ने पकड़ी रफ्तार, उत्तर से दक्षिण तक आंधी-तूफान के आसार; मौसम विभाग का अलर्ट जारी",
+      "url": "https://www.amarujala.com/india-news/weather-updates-monsoon-gathers-momentum-storms-likely-from-north-to-south-imd-alert-rain-thunderstorms-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-23T00:18:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/17/thunderstorm_3a8a71f1b41ab9f12b66a6ade849720b.jpeg?w=1200&dpr=1.0",
+      "summary": "मानसून ने रफ्तार पकड़ी है और आंधी-तूफान के आसार हैं. मानसून ने पकड़ी रफ्तार, उत्तर से दक्षिण तक आंधी-तूफान के आसार; मौसम विभाग का अलर्ट जारी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मानसून ने पकड़ी रफ्तार, उत्तर से दक्षिण तक आंधी-तूफान के आसार; मौसम विभाग का अलर्ट जारी",
+          "summary": "मानसून ने रफ्तार पकड़ी है और आंधी-तूफान के आसार हैं. मानसून ने पकड़ी रफ्तार, उत्तर से दक्षिण तक आंधी-तूफान के आसार; मौसम विभाग का अलर्ट जारी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'अगर ईरान समझौते से पीछे हटा तो मैं वहीं करूंगा, जो मुझे करना होगा', ट्रंप ने दी धमकी",
+      "url": "https://www.amarujala.com/world/us-iran-deal-donald-trump-warns-iran-says-if-tehran-backs-out-of-agreement-i-will-do-what-i-have-to-do-2026-06-23",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-23T00:07:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/10/donald-trump_6a6b34cbe49c5f78ced63d0961b32f95.png?w=1200&dpr=1.0",
+      "summary": "ट्रंप ने ईरान को समझौते से पीछे हटने पर धमकी दी है. 'अगर ईरान समझौते से पीछे हटा तो मैं वहीं करूंगा, जो मुझे करना होगा', ट्रंप ने दी धमकी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'अगर ईरान समझौते से पीछे हटा तो मैं वहीं करूंगा, जो मुझे करना होगा', ट्रंप ने दी धमकी",
+          "summary": "ट्रंप ने ईरान को समझौते से पीछे हटने पर धमकी दी है. 'अगर ईरान समझौते से पीछे हटा तो मैं वहीं करूंगा, जो मुझे करना होगा', ट्रंप ने दी धमकी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बाधा पहुंचाने की फिराक में 36 आतंकी, पाकिस्तानी आतंकियों ने अफगान फ्रंट पर ली ट्रेनिंग",
+      "url": "https://www.amarujala.com/india-news/amarnath-yatra-security-alert-pakistan-terrorists-planned-attack-after-afghan-training-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-22T23:54:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/03/amarnath-yatra_84579fc20406ff6ef4b9fdb79f17d590.jpeg?w=1200&dpr=1.0",
+      "summary": "36 आतंकी अमरनाथ यात्रा में बाधा पहुंचाने की फिराक में हैं. अमरनाथ यात्रा: बाधा पहुंचाने की फिराक में 36 आतंकी, पाकिस्तानी आतंकियों ने अफगान फ्रंट पर ली ट्रेनिंग।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बाधा पहुंचाने की फिराक में 36 आतंकी, पाकिस्तानी आतंकियों ने अफगान फ्रंट पर ली ट्रेनिंग",
+          "summary": "36 आतंकी अमरनाथ यात्रा में बाधा पहुंचाने की फिराक में हैं. अमरनाथ यात्रा: बाधा पहुंचाने की फिराक में 36 आतंकी, पाकिस्तानी आतंकियों ने अफगान फ्रंट पर ली ट्रेनिंग।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "परमाणु नाभिक की ऊर्जा से चलेंगी घड़ियां; नेविगेशन से लेकर डार्क मैटर खोज तक, खुल सकती हैं नई",
+      "url": "https://www.amarujala.com/india-news/nuclear-nucleus-energy-clocks-open-new-possibilities-for-navigation-and-dark-matter-detection-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-22T23:41:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/nuclear-watch_29e258cf6dd1c05a302f2381bdea67fb.jpeg?w=1200&dpr=1.0",
+      "summary": "परमाणु नाभिक की ऊर्जा से चलने वाली घड़ियां विकसित की जा रही हैं. तकनीक: परमाणु नाभिक की ऊर्जा से चलेंगी घड़ियां; नेविगेशन से लेकर डार्क मैटर खोज तक, खुल सकती हैं नई संभावनाएं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "परमाणु नाभिक की ऊर्जा से चलेंगी घड़ियां; नेविगेशन से लेकर डार्क मैटर खोज तक, खुल सकती हैं नई",
+          "summary": "परमाणु नाभिक की ऊर्जा से चलने वाली घड़ियां विकसित की जा रही हैं. तकनीक: परमाणु नाभिक की ऊर्जा से चलेंगी घड़ियां; नेविगेशन से लेकर डार्क मैटर खोज तक, खुल सकती हैं नई संभावनाएं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ब्रिटिश पीएम कीर स्टार्मर के इस्तीफे पर डोनाल्ड ट्रंप का आया पहला बयान, बोले- ‘वे NATO पर हमारे साथ",
+      "url": "https://www.patrika.com/world-news/donald-trump-first-statement-on-british-pm-keir-starmer-resignation-says-he-wasnt-good-to-us-on-nato-20688810",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-22T23:35:29+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trumpppdd.webp",
+      "summary": "डोनाल्ड ट्रंप ने कीर स्टार्मर के इस्तीफे पर बयान दिया, उन्हें NATO मुद्दों पर निशाना बनाया और अमेरिका के साथ उनके संबंधों की आलोचना की। Donald Trump on Keir Starmer: ब्रिटेन के प्रधानमंत्री कीर स्टार्मर के इस्तीफे के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का पहला बयान सामने आया है। ट्रंप ने स्टारमर पर NATO के मुद्दों पर निशाना साधते हुए कहा कि वे अमेरिका के साथ अच्छे नहीं थे।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रिटिश पीएम कीर स्टार्मर के इस्तीफे पर डोनाल्ड ट्रंप का आया पहला बयान, बोले- ‘वे NATO पर हमारे साथ",
+          "summary": "डोनाल्ड ट्रंप ने कीर स्टार्मर के इस्तीफे पर बयान दिया, उन्हें NATO मुद्दों पर निशाना बनाया और अमेरिका के साथ उनके संबंधों की आलोचना की। Donald Trump on Keir Starmer: ब्रिटेन के प्रधानमंत्री कीर स्टार्मर के इस्तीफे के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का पहला बयान सामने आया है। ट्रंप ने स्टारमर पर NATO के मुद्दों पर निशाना साधते हुए कहा कि वे अमेरिका के साथ अच्छे नहीं थे।",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
       "title": "चीन ने 10 अमेरिकी रक्षा कंपनियों को रोका निर्यात, 46 फर्मों पर लगाया खरीद प्रतिबंध; जानें क्या है",
       "url": "https://www.amarujala.com/world/china-halts-exports-to-10-us-defense-companies-purchase-bans-on-46-firms-after-us-sanctions-on-tech-companies-2026-06-23",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-06-22T23:05:35+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/china-us-trade-war_16676b2ebe17b97147eaa7ff93c53d37.jpeg?w=1200&dpr=1.0",
@@ -358,24 +556,6 @@
           "title": "चीन ने 10 अमेरिकी रक्षा कंपनियों को रोका निर्यात, 46 फर्मों पर लगाया खरीद प्रतिबंध; जानें क्या है",
           "summary": "चीन ने 10 अमेरिकी रक्षा कंपनियों को निर्यात रोक दिया है। 46 अन्य फर्मों पर खरीद प्रतिबंध लगाया गया है। यह अमेरिकी प्रतिबंधों के बाद हुआ है। चीन ने 10 अमेरिकी रक्षा कंपनियों को रोका निर्यात, 46 फर्मों पर लगाया खरीद प्रतिबंध; जानें क्या है।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "Lucknow Coaching Center Fire Accident:लखनऊ अग्निकांड पर सपा ने 1 करोड़ मुआवजा- 1सरकारी नौकरी की मांग",
-      "url": "https://www.amarujala.com/video/india-news/lucknow-coaching-center-fire-sp-demands-1-crore-compensation-and-a-government-job-following-the-lucknow-fire-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-22T23:00:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/lucknow-coaching-center-fire-accident_87df374774911a2042ef6ff55ac0f437.jpeg?w=1200&dpr=1.0",
-      "summary": "लखनऊ के एक कोचिंग सेंटर में आग लगने से हुई मौतों पर समाजवादी पार्टी ने 1 करोड़ रुपये मुआवजे और एक सरकारी नौकरी की मांग की है। यह आग हादसा लखनऊ में हुआ था। समाजवादी पार्टी ने पीड़ित परिवारों के लिए सहायता की मांग की है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Lucknow Coaching Center Fire Accident:लखनऊ अग्निकांड पर सपा ने 1 करोड़ मुआवजा- 1सरकारी नौकरी की मांग",
-          "summary": "लखनऊ के एक कोचिंग सेंटर में आग लगने से हुई मौतों पर समाजवादी पार्टी ने 1 करोड़ रुपये मुआवजे और एक सरकारी नौकरी की मांग की है। यह आग हादसा लखनऊ में हुआ था। समाजवादी पार्टी ने पीड़ित परिवारों के लिए सहायता की मांग की है।",
-          "region": "दुनिया"
         }
       }
     },
@@ -418,7 +598,7 @@
     {
       "title": "चार वर्ष पूर्व दी स्टार्मर को चुनौती, संसद पहुंचे तो सत्ता से हटाया; नया PM चुना जाना तय",
       "url": "https://www.amarujala.com/world/who-is-andy-burnham-set-to-be-elected-uk-new-pm-challenged-keir-starmer-ousted-from-power-entering-parliament-2026-06-23",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-06-22T22:12:19+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/andy-burnham_19b4d2d8d86824d50740316fce346735.jpeg?w=1200&dpr=1.0",
@@ -430,24 +610,6 @@
           "title": "चार वर्ष पूर्व दी स्टार्मर को चुनौती, संसद पहुंचे तो सत्ता से हटाया; नया PM चुना जाना तय",
           "summary": "दी स्टार्मर को चुनौती देने वाले बर्नहैम को नया पीएम चुना जाना तय है. चार वर्ष पूर्व दी स्टार्मर को चुनौती, संसद पहुंचे तो सत्ता से हटाया; नया PM चुना जाना तय।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "Lucknow Coaching Center Fire Accident: लखनऊ अग्निकांड पर एक्शन 4 अफसर सस्पेंड, 4 आरोपी हुए गिरफ्तार!",
-      "url": "https://www.amarujala.com/video/india-news/lucknow-coaching-center-fire-action-taken-following-the-lucknow-fire-incident-4-officials-suspended-4-accuse-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-22T22:00:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/lucknow-coaching-center-fire-accident_f85461b33f1f5d6b493f6c36eb8be406.jpeg?w=1200&dpr=1.0",
-      "summary": "लखनऊ अग्निकांड पर 4 अफसर सस्पेंड और 4 आरोपी गिरफ्तार हुए. Lucknow Coaching Center Fire Accident: लखनऊ अग्निकांड पर एक्शन 4 अफसर सस्पेंड, 4 आरोपी हुए गिरफ्तार!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Lucknow Coaching Center Fire Accident: लखनऊ अग्निकांड पर एक्शन 4 अफसर सस्पेंड, 4 आरोपी हुए गिरफ्तार!",
-          "summary": "लखनऊ अग्निकांड पर 4 अफसर सस्पेंड और 4 आरोपी गिरफ्तार हुए. Lucknow Coaching Center Fire Accident: लखनऊ अग्निकांड पर एक्शन 4 अफसर सस्पेंड, 4 आरोपी हुए गिरफ्तार!",
-          "region": "दुनिया"
         }
       }
     },
@@ -488,42 +650,6 @@
       }
     },
     {
-      "title": "केंद्र ने जारी की हज नीति 2027, अगले साल की यात्रा के लिए आवेदन शुरू",
-      "url": "https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-22T21:51:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_bc25c16d5cf7783ca896c1749fa5ceab.jpeg?w=1200&dpr=1.0",
-      "summary": "केंद्र ने हज नीति 2027 जारी की है, अगले साल की यात्रा के लिए आवेदन शुरू हो गए हैं. केंद्र ने जारी की हज नीति 2027, अगले साल की यात्रा के लिए आवेदन शुरू।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केंद्र ने जारी की हज नीति 2027, अगले साल की यात्रा के लिए आवेदन शुरू",
-          "summary": "केंद्र ने हज नीति 2027 जारी की है, अगले साल की यात्रा के लिए आवेदन शुरू हो गए हैं. केंद्र ने जारी की हज नीति 2027, अगले साल की यात्रा के लिए आवेदन शुरू।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ममता बनर्जी TMC अध्यक्ष पद से हटाई गईं, अभिषेक निलंबित बागी गुट ने किया बड़ा खेला!",
-      "url": "https://www.amarujala.com/video/india-news/tmc-split-news-mamata-banerjee-removed-as-tmc-president-abhishek-suspended-rebel-faction-pulls-off-a-major-m-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-22T21:33:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/tmc-split-news_e2575927d34fdfd8c39e43350d099a43.jpeg?w=1200&dpr=1.0",
-      "summary": "ममता बनर्जी को टीएमसी अध्यक्ष पद से हटा दिया गया है। अभिषेक निलंबित हुए हैं। TMC Split News: ममता बनर्जी TMC अध्यक्ष पद से हटाई गईं, अभिषेक निलंबित बागी गुट ने किया बड़ा खेला!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ममता बनर्जी TMC अध्यक्ष पद से हटाई गईं, अभिषेक निलंबित बागी गुट ने किया बड़ा खेला!",
-          "summary": "ममता बनर्जी को टीएमसी अध्यक्ष पद से हटा दिया गया है। अभिषेक निलंबित हुए हैं। TMC Split News: ममता बनर्जी TMC अध्यक्ष पद से हटाई गईं, अभिषेक निलंबित बागी गुट ने किया बड़ा खेला!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "मौलाना आजाद मेडिकल कॉलेज के पीछे झुग्गियों में लगी आग, दमकल की 24 गाड़ियों ने मशक्कत के बाद पाया",
       "url": "https://www.amarujala.com/delhi/fire-broke-out-in-the-slums-behind-maulana-azad-medical-college-brought-under-control-after-a-lot-of-effort-b-2026-06-23",
       "source": "Amar Ujala Breaking",
@@ -542,63 +668,9 @@
       }
     },
     {
-      "title": "विदेशी धन पाने वाले गैर-सरकारी संगठनों पर सख्ती: सरकार ने बदले FCRA के नियम, जानिए क्या हैं नए",
-      "url": "https://www.amarujala.com/india-news/centre-amends-rules-for-receiving-foreign-funds-2026-06-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-22T21:14:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/vathasha-catha_86c0a00ba40045840e6a2b1a2a6ce0d3.jpeg?w=1200&dpr=1.0",
-      "summary": "सरकार ने विदेशी धन पाने वाले गैर-सरकारी संगठनों पर सख्ती बढ़ाई है। एफसीआरए नियम बदले गए हैं। विदेशी धन पाने वाले गैर-सरकारी संगठनों पर सख्ती: सरकार ने बदले FCRA के नियम, जानिए क्या हैं नए प्रावधान?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विदेशी धन पाने वाले गैर-सरकारी संगठनों पर सख्ती: सरकार ने बदले FCRA के नियम, जानिए क्या हैं नए",
-          "summary": "सरकार ने विदेशी धन पाने वाले गैर-सरकारी संगठनों पर सख्ती बढ़ाई है। एफसीआरए नियम बदले गए हैं। विदेशी धन पाने वाले गैर-सरकारी संगठनों पर सख्ती: सरकार ने बदले FCRA के नियम, जानिए क्या हैं नए प्रावधान?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राष्ट्रीय महिला आयोग ने प्रणीत-हिमांशु की माफी ठुकराई, अगली सुनवाई की तारीख तय",
-      "url": "https://www.amarujala.com/india-news/ncw-rejects-apology-of-pranit-more-himanshu-jangra-in-rs-370-biryani-remark-row-sets-next-hearing-date-2026-06-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-22T21:03:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/pranit-more_a21d7f42da6c21468050792fec0cd0ba.jpeg?w=1200&dpr=1.0",
-      "summary": "राष्ट्रीय महिला आयोग ने प्रणीत मोरे और हिमांशु जांगड़ा की माफी ठुकरा दी। आयोग ने अगली सुनवाई की तारीख तय की। यह मामला 370 रुपये बिरयानी विवाद से जुड़ा है। राष्ट्रीय महिला आयोग ने प्रणीत-हिमांशु की माफी ठुकराई, अगली सुनवाई की तारीख तय।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राष्ट्रीय महिला आयोग ने प्रणीत-हिमांशु की माफी ठुकराई, अगली सुनवाई की तारीख तय",
-          "summary": "राष्ट्रीय महिला आयोग ने प्रणीत मोरे और हिमांशु जांगड़ा की माफी ठुकरा दी। आयोग ने अगली सुनवाई की तारीख तय की। यह मामला 370 रुपये बिरयानी विवाद से जुड़ा है। राष्ट्रीय महिला आयोग ने प्रणीत-हिमांशु की माफी ठुकराई, अगली सुनवाई की तारीख तय।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फ्रांस और ईराक के बीच मुकाबला, अपने 100वें मैच में एमबाप्पे तोड़ पाएंगे मेसी का रिकॉर्ड?",
-      "url": "https://www.amarujala.com/live/sports/football/france-vs-iraq-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-22T20:17:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/kylian-mbappe-france-vs-iraq-fifa-world-cup-2026-france-football-team-olivier-giroud-didier-des_8bfb5e3dc6f4e9252b14df146e3ad3b0.jpeg?w=1200&dpr=1.0",
-      "summary": "फ्रांस और ईराक के बीच मुकाबला हो रहा है। क्यलियन एमबाप्पे अपने 100वें मैच में लियोनेल मेसी का रिकॉर्ड तोड़ने की कोशिश करेंगे। फ्रांस की टीम इस मैच में जीत की उम्मीद कर रही है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। फ्रांस और ईराक के बीच मुकाबला, अपने 100वें मैच में एमबाप्पे तोड़ पाएंगे मेसी का रिकॉर्ड?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्रांस और ईराक के बीच मुकाबला, अपने 100वें मैच में एमबाप्पे तोड़ पाएंगे मेसी का रिकॉर्ड?",
-          "summary": "फ्रांस और ईराक के बीच मुकाबला हो रहा है। क्यलियन एमबाप्पे अपने 100वें मैच में लियोनेल मेसी का रिकॉर्ड तोड़ने की कोशिश करेंगे। फ्रांस की टीम इस मैच में जीत की उम्मीद कर रही है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। फ्रांस और ईराक के बीच मुकाबला, अपने 100वें मैच में एमबाप्पे तोड़ पाएंगे मेसी का रिकॉर्ड?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "चीन के साथ करीबी बढ़ा रहा बांग्लादेश, रिपोर्ट में दावा- 24 जे-10सीई लड़ाकू विमान खरीदने को तैयार",
       "url": "https://www.amarujala.com/world/report-claims-bangladesh-likely-to-buy-j-10ce-fighter-jet-from-china-pm-tarique-rahman-to-meet-xi-jinping-2026-06-23",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-06-22T20:15:13+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/bangladesh-china_7d77c840ac6c6ed378fa06101085f7eb.jpeg?w=1200&dpr=1.0",
@@ -610,24 +682,6 @@
           "title": "चीन के साथ करीबी बढ़ा रहा बांग्लादेश, रिपोर्ट में दावा- 24 जे-10सीई लड़ाकू विमान खरीदने को तैयार",
           "summary": "बांग्लादेश चीन से 24 जे-10सीई लड़ाकू विमान खरीदने की तैयारी कर रहा है। यह जानकारी एक रिपोर्ट में सामने आई है। बांग्लादेश के प्रधानमंत्री के सलाहकार तारिक रहमान शी जिनपिंग से मिलने वाले हैं। चीन के साथ करीबी बढ़ा रहा बांग्लादेश, रिपोर्ट में दावा- 24 जे-10सीई लड़ाकू विमान खरीदने को तैयार।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आग लगने के बाद भाग क्यों नहीं सके बच्चे? सामने आई मुख्य वजह; दम घुटने से हुईं ज्यादा मौतें",
-      "url": "https://www.amarujala.com/lucknow/lucknow-fire-tragedy-the-main-reason-why-children-couldn-t-escape-after-the-fire-has-been-revealed-most-deat-2026-06-22",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-22T19:50:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/lkhanauu-aganakada-ka-vajaha-aaii-samana_b1f2b0d28ad1401f16971c1bf2333d6a.jpeg?w=1200&dpr=1.0",
-      "summary": "लखनऊ में आग लगने पर बच्चे भाग नहीं सके क्योंकि इलेक्ट्रॉनिक सिस्टम की वजह से गेट लॉक हो गया था। Lucknow fire: लखनऊ में हुए अग्निकांड में 15 बच्चों की मौत हो गई। इलेक्ट्रॉनिक सिस्टम की वजह से गेट लॉक हो गया और बच्चे उसको खोलकर निकल कर नहीं भाग सके। आग लगने के बाद भाग क्यों नहीं सके बच्चे?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आग लगने के बाद भाग क्यों नहीं सके बच्चे? सामने आई मुख्य वजह; दम घुटने से हुईं ज्यादा मौतें",
-          "summary": "लखनऊ में आग लगने पर बच्चे भाग नहीं सके क्योंकि इलेक्ट्रॉनिक सिस्टम की वजह से गेट लॉक हो गया था। Lucknow fire: लखनऊ में हुए अग्निकांड में 15 बच्चों की मौत हो गई। इलेक्ट्रॉनिक सिस्टम की वजह से गेट लॉक हो गया और बच्चे उसको खोलकर निकल कर नहीं भाग सके। आग लगने के बाद भाग क्यों नहीं सके बच्चे?",
-          "region": "दुनिया"
         }
       }
     },
@@ -668,24 +722,6 @@
       }
     },
     {
-      "title": "कांग्रेस MLA जारकीहोली ने BJP के आरोपों को बताया बेबुनियाद, कहा- पार्टी को पहले से थी जानकारी",
-      "url": "https://www.amarujala.com/india-news/neet-exam-row-congress-mla-satish-jarkiholi-says-baseless-allegations-by-bjp-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-22T19:39:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/satish-jarkiholi_336db0eae3d0330fdcd70d5f2ccdd30d.jpeg?w=1200&dpr=1.0",
-      "summary": "कांग्रेस विधायक जारकीहोली ने बीजेपी के आरोपों को बेबुनियाद बताया और कहा कि पार्टी को पहले से जानकारी थी। यह आरोप NEET परीक्षा को लेकर लगाए गए थे। NEET Exam Row: कांग्रेस MLA जारकीहोली ने BJP के आरोपों को बताया बेबुनियाद, कहा- पार्टी को पहले से थी जानकारी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कांग्रेस MLA जारकीहोली ने BJP के आरोपों को बताया बेबुनियाद, कहा- पार्टी को पहले से थी जानकारी",
-          "summary": "कांग्रेस विधायक जारकीहोली ने बीजेपी के आरोपों को बेबुनियाद बताया और कहा कि पार्टी को पहले से जानकारी थी। यह आरोप NEET परीक्षा को लेकर लगाए गए थे। NEET Exam Row: कांग्रेस MLA जारकीहोली ने BJP के आरोपों को बताया बेबुनियाद, कहा- पार्टी को पहले से थी जानकारी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "हैदराबाद के कपरा में मुस्लिम लड़के को पाकिस्तानी कहने पर विवाद, सोसाइटी सेक्रेटरी ने बिना शर्त",
       "url": "https://www.abplive.com/news/india/hyderabad-society-secretary-apologizes-unconditionally-after-he-allegedly-calls-a-boy-pakistani-ann-3149166",
       "source": "ABP Live (India)",
@@ -718,42 +754,6 @@
           "title": "सैनिक भर्ती और डिफेंस मजबूती, क्या रूस-यूक्रेन जंग में होगी नए खिलाड़ी की एंट्री?",
           "summary": "बेलारूस रूस-यूक्रेन जंग में शामिल होने की तैयारी कर रहा है, सैनिक भर्ती और डिफेंस मजबूती पर जोर दे रहा है। बेलारूस अब रूस-यूक्रेन जंग में सीधे तौर पर कूदने की तैयारी कर रहा है. इसे लेकर लोकतांत्रिक विपक्ष ने दावे किये हैं. उन्होंने रिपोर्ट जारी कर बताया है कि रूस की सरकार ने संविधान और सेना में कुछ ऐसे बदलाव किये हैं जो इस बात का संकेत हैं.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "लखनऊ अग्निकांडः घायल लोगों से मिलने KGMU पहुंचे रक्षा मंत्री राजनाथ सिंह, हादसे को लेकर क्या कहा?",
-      "url": "https://www.abplive.com/news/india/lucknow-fire-accident-defence-minister-rajnath-singh-reaches-uttar-pradesh-capital-expresses-distress-over-died-and-injured-3149235",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-22T18:01:53+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/1f3aac7e05f6224d7c5cb185af26e87b17821506960621126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "लखनऊ में एक कोचिंग सेंटर में अग्निकांड में 15 लोगों की मौत के बाद रक्षा मंत्री राजनाथ सिंह मौके पर पहुंचे। उन्होंने अधिकारियों से जानकारी ली और मृतकों के परिजनों के प्रति दुख जताया। इसके बाद उन्होंने घायल लोगों से मुलाकात की। उत्तर प्रदेश की राजधानी लखनऊ स्थित एक कोचिंग सेंटर में भीषण अग्निकांड में 15 लोगों की मौत के बाद रक्षा मंत्री राजनाथ सिंह सोमवार (22 जून, 2026) की रात अचानक लखनऊ पहुंचे.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लखनऊ अग्निकांडः घायल लोगों से मिलने KGMU पहुंचे रक्षा मंत्री राजनाथ सिंह, हादसे को लेकर क्या कहा?",
-          "summary": "लखनऊ में एक कोचिंग सेंटर में अग्निकांड में 15 लोगों की मौत के बाद रक्षा मंत्री राजनाथ सिंह मौके पर पहुंचे। उन्होंने अधिकारियों से जानकारी ली और मृतकों के परिजनों के प्रति दुख जताया। इसके बाद उन्होंने घायल लोगों से मुलाकात की। उत्तर प्रदेश की राजधानी लखनऊ स्थित एक कोचिंग सेंटर में भीषण अग्निकांड में 15 लोगों की मौत के बाद रक्षा मंत्री राजनाथ सिंह सोमवार (22 जून, 2026) की रात अचानक लखनऊ पहुंचे.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "US-ईरान डील में उलझा रहा PAK, ट्रंप ने भारत के साथ कर ली बड़ी डिफेंस डील, अपाचे हेलिकॉप्टर बनेगा और",
-      "url": "https://www.abplive.com/news/world/india-us-4000-crore-defence-deal-apache-helicopters-m777-howitzers-amid-donald-trump-pakistan-busy-in-iran-deal-3149230",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-22T17:57:17+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/719c330f35f5ac48a665cb2f3e965a9f1782149974971708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिका ने भारत के साथ एक बड़ी डिफेंस डील की, जिसमें अपाचे हेलीकॉप्टरों और एम777ए2 होवित्जर तोपों के लिए रख-रखाव सर्विस और लॉजिस्टिक सपोर्ट शामिल है। इस डील की अनुमानित लागत 48.22 करोड़ अमेरिकी डॉलर है। अमेरिका ने भारत के अपाचे हेलीकॉप्टरों और एम777ए2 अल्ट्रा-लाइट होवित्जर तोपों के लिए रख-रखाव सर्विस और लॉजिस्टिक सपोर्ट को मंजूरी दी है, जिसकी अनुमानित लागत 48.22 करोड़ अमेरिकी डॉलर (करीब 4,000 करोड़ रुपए) है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "US-ईरान डील में उलझा रहा PAK, ट्रंप ने भारत के साथ कर ली बड़ी डिफेंस डील, अपाचे हेलिकॉप्टर बनेगा और",
-          "summary": "अमेरिका ने भारत के साथ एक बड़ी डिफेंस डील की, जिसमें अपाचे हेलीकॉप्टरों और एम777ए2 होवित्जर तोपों के लिए रख-रखाव सर्विस और लॉजिस्टिक सपोर्ट शामिल है। इस डील की अनुमानित लागत 48.22 करोड़ अमेरिकी डॉलर है। अमेरिका ने भारत के अपाचे हेलीकॉप्टरों और एम777ए2 अल्ट्रा-लाइट होवित्जर तोपों के लिए रख-रखाव सर्विस और लॉजिस्टिक सपोर्ट को मंजूरी दी है, जिसकी अनुमानित लागत 48.22 करोड़ अमेरिकी डॉलर (करीब 4,000 करोड़ रुपए) है.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
