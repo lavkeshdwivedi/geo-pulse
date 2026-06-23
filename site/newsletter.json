@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-23T11:08:10.943603+00:00",
+  "generated_at": "2026-06-23T13:06:19.009062+00:00",
   "article_count": 50,
-  "total_unique_count": 278,
+  "total_unique_count": 279,
   "digest": {
-    "en": "Myanmar's new administration dominates the news. Armenia's election and Djibouti's prime real estate are also key stories. China sanctions US firms in retaliation.",
-    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जिनमें दुनिया का कौन सा शहर आग लगने की घटनाओं से सबसे बेहतर तरीके से निपटता है। तोलोलिंग की जीत अभी अधूरी है और बोफोर्स की इंट्री ने पूरी बाजी पलट दी है। बांग्लादेश की आर्मी में चीन की घुसपैठ भारत के लिए चुनौती है।"
+    "en": "Myanmar's military consolidation dominates the news. Armenia's election and Djibouti's prime real estate are also key stories. Iran's nuclear site restrictions add to the mix.",
+    "hi": "आज ईरान और अमेरिका के बीच तनाव बढ़ रहा है। ईरानियों का स्वागत अमेरिकी फाइटर जेट F16 से हो रहा है। इस बीच एशिया-पैसिफिक क्षेत्र में अजगरों के साथ रह रहे एक शख्स के घर पर पुलिस ने छापा मारा है।"
   },
   "articles": [
     {
@@ -68,14 +68,26 @@
       "translations": {}
     },
     {
-      "title": "Bill seeking to ban horse carriages in New York city renamed after Indian teen killed in Central",
-      "url": "https://www.thehindu.com/news/international/bill-seeking-to-ban-horse-carriages-in-new-york-city-renamed-after-indian-teen-killed-in-central-park-incident/article71137012.ece",
+      "title": "Kenyan minister orders halt to construction of US Ebola facility",
+      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-23T11:35:56+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/40be2d419e5be703940caf2f225ea34f4145bafb/0_0_2770_2215/master/2770.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f09c65a9d6e1163f22c1ad50b227f0ab",
+      "summary": "Kenya’s health minister, Aden Duale, ordered a halt to preparations for Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister has told a court he has ordered a halt to preparations for a US-run Ebola quarantine facility, after being held in contempt for ignoring a previous stop-work order. Many Kenyans strongly oppose the plan and deadly protests have erupted since the facility was announced in.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Japanese PM Sanai Takaichi’s Guwahati visit cancelled, meetings will be hosted in Delhi",
+      "url": "https://www.thehindu.com/news/national/japanese-pm-sanai-takaichis-guwahati-visit-cancelled-meetings-will-be-hosted-in-delhi/article71137181.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-06-23T10:45:31+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/nos46d/article71137030.ece/alternates/LANDSCAPE_1200/Horse_Carriage_Death_769_1.jpg",
-      "summary": "New York City Council member Christopher Marte renamed his bill to ban horse-drawn carriages. The legislation, previously ‘Ryder's Law’, is now ‘Romanch's Law’. This change honors an Indian teen who died in Central Park. New York City Council member Christopher Marte, who organised the event, announced that a bill introduced by him, named ‘Ryder's law’, which seeks to ban horse-drawn carriages in the city, will be changed to ‘Romanch's Law’.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-06-23T10:58:16+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/njcsc5/article71137187.ece/alternates/LANDSCAPE_1200/France_G7_Summit_9_951.jpg",
+      "summary": "Japanese Prime Minister Sanai Takaichi cancelled her planned visit to Guwahati. Earlier in 2019, the late Japanese PM Shinzo Abe too was expected to visit Assam for a bilateral meeting with PM Modi when the event had to be cancelled because of protests related to the Citizenship Amendment Act. Japanese PM Sanai Takaichi’s Guwahati visit cancelled, meetings will be hosted in Delhi.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -88,6 +100,18 @@
       "image_url": "https://th-i.thgim.com/public/incoming/1n9z6z/article71133361.ece/alternates/LANDSCAPE_1200/2026-06-22T092149Z_733165588_RC2XYLAQP43E_RTRMADP_3_BRITAIN-POLITICS.JPG",
       "summary": "Keir Starmer's resignation as Labour leader followed Andy Burnham's victory in a Westminster by-election. Burnham, the former mayor of Greater Manchester, secured a seat in the UK Parliament. This event signaled a shift in Labour's political standing. Keir Starmer’s political fate was all but sealed when Labour’s ‘King of the North’, former mayor of Greater Manchester, Andy Burnham won a seat in Westminster (the U. K.’s Parliament) last week, after winning a bye-election.",
       "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran says UN watchdog will not be allowed to inspect bombed nuclear sites",
+      "url": "https://www.thehindu.com/news/international/iran-says-un-watchdog-will-not-be-allowed-to-inspect-bombed-nuclear-sites/article71136851.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-23T09:21:13+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/1whl2c/article71136879.ece/alternates/LANDSCAPE_1200/Iran_US_7999_.jpg",
+      "summary": "Iran's Foreign Ministry spokesman Esmaeil Baqaei stated that the International Atomic Energy Agency will not be allowed to inspect Iran's nuclear facilities damaged by US and Israeli military aggression. Baqaei said there have been no meetings with the agency's director general. Iran will not permit inspections of the bombed sites. The decision comes after US and Israeli military actions against Iranian nuclear facilities.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -140,18 +164,6 @@
       "translations": {}
     },
     {
-      "title": "Canadian healthcare staff decry ‘cruel hoax’ after scam email promises paid day off",
-      "url": "https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-22T17:30:23+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/92d6c24b452d89a40c61d7c41cb54542630f19ac/1816_1053_3685_2947/master/3685.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdbd1953b15ba0e33896f48de8e54be3",
-      "summary": "Healthcare workers in Newfoundland and Labrador received a scam email promising a paid day off. The email, titled \"June Holiday,\" was part of a cybersecurity test. Unions called the message a \"cruel hoax\" and \"insensitive\" to staff already facing burnout. The incident highlights ongoing concerns about working conditions in the province's healthcare system. Unions condemn ‘insensitive’ internal cybersecurity test sent to healthcare workers in Newfoundland and LabradorFor years, healthcare staff in the Canadian province of Newfoundland and Labrador have felt overworked and underappreciated.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Election of far-right leader raises fears for democracy in Colombia",
       "url": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump",
       "source": "The Guardian",
@@ -176,18 +188,6 @@
       "translations": {}
     },
     {
-      "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167783",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-22T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/09-06-2026-UNICEF-DR-Congo-ebola-05.jpg/image770x420cropped.jpg",
-      "summary": "Global confirmed Ebola cases reached 1,000. As global confirmed Ebola cases reach 1,000, nearly three million children and adolescents are at risk in the eastern part of the Democratic Republic of the Congo (DRC), while efforts increase to treat prisoners near the epicentre of the current outbreak, UN agencies warned on Monday. Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167782",
       "source": "UN News",
@@ -200,13 +200,13 @@
       "translations": {}
     },
     {
-      "title": "World at ‘perilous moment’ as leaders warn HIV gains are at risk",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167780",
+      "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167783",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-06-22T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2025-UNAIDS-Zimbabwe-01.jpg/image770x420cropped.jpg",
-      "summary": "World leaders warned that progress against HIV is slowing due to financial pressures and shrinking support. Four decades after AIDS first emerged as a global crisis, world leaders, advocates and community representatives gathered at UN Headquarters on Monday issued a stark warning: progress against HIV is slowing just as financial pressures and shrinking support threaten to reverse decades of gains.",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/09-06-2026-UNICEF-DR-Congo-ebola-05.jpg/image770x420cropped.jpg",
+      "summary": "Global confirmed Ebola cases reached 1,000. As global confirmed Ebola cases reach 1,000, nearly three million children and adolescents are at risk in the eastern part of the Democratic Republic of the Congo (DRC), while efforts increase to treat prisoners near the epicentre of the current outbreak, UN agencies warned on Monday. Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -219,6 +219,18 @@
       "published_at": "2026-06-22T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Syria-04.jpg/image770x420cropped.jpg",
       "summary": "UN officials reported clear signs of progress in Syria after over a decade of crisis, but noted acute needs remain. Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "World at ‘perilous moment’ as leaders warn HIV gains are at risk",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167780",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-22T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2025-UNAIDS-Zimbabwe-01.jpg/image770x420cropped.jpg",
+      "summary": "World leaders warned that progress against HIV is slowing due to financial pressures and shrinking support. Four decades after AIDS first emerged as a global crisis, world leaders, advocates and community representatives gathered at UN Headquarters on Monday issued a stark warning: progress against HIV is slowing just as financial pressures and shrinking support threaten to reverse decades of gains.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -296,16 +308,130 @@
       "translations": {}
     },
     {
-      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "source": "The Guardian",
+      "title": "ईरानियों का स्वागत अमेरिकी फाइटर जेट F16 से, दलाली के चक्कर में तहजीब भूले शहबाज-मुनीर!",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-f-16-flypast-for-iran-president-pezeshkian-araghchi-irgc-shot-down-same-us-f-16-fighter-before-10596908.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-21T08:00:24+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/1d92facf72d217c82b8c9ead906a9dd7f75db631/435_421_4473_3579/master/4473.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0af6d5e379212513ef7b1ad946bfe398",
-      "summary": "Twenty thousand runners competed in the Comrades race in South Africa. For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades raceIn the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the haunting swell of Shosholoza, first sung by Zimbabwean migrant workers in South Africa’s goldmines.",
+      "published_at": "2026-06-23T12:57:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Iranian-In-Pakistan-2026-06-e55351669ffcf9ee582891acd393f04d-1200x800.jpg",
+      "summary": "ईरानी राष्ट्रपति के पाकिस्तान दौरे पर पाकिस्तान एयरफोर्स ने अमेरिकी F-16 फाइटर जेट्स से स्वागत किया। ईरानी राष्ट्रपति मसूद पेजेश्कियान और विदेश मंत्री अब्बास अराघची के पाकिस्तान दौरे पर एक बेहद अजीबोगरीब और मजेदार कूटनीतिक वाकया सामने आया है, जहां स्वागत के चक्कर में पाकिस्तान ने एक बड़ी नासमझी कर दी. इस्लामाबाद लैंड करने पर पाकिस्तान एयरफोर्स ने मेहमानों को 'फ्लाइंग सैल्यूट' देने के लिए आसमान में उन्हीं अमेरिकी F-16 फाइटर जेट्स को उड़ा दिया, जिन्हें महज कुछ समय पहले 2 अप्रैल को ईरान ने काशेम द्व।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरानियों का स्वागत अमेरिकी फाइटर जेट F16 से, दलाली के चक्कर में तहजीब भूले शहबाज-मुनीर!",
+          "summary": "ईरानी राष्ट्रपति के पाकिस्तान दौरे पर पाकिस्तान एयरफोर्स ने अमेरिकी F-16 फाइटर जेट्स से स्वागत किया। ईरानी राष्ट्रपति मसूद पेजेश्कियान और विदेश मंत्री अब्बास अराघची के पाकिस्तान दौरे पर एक बेहद अजीबोगरीब और मजेदार कूटनीतिक वाकया सामने आया है, जहां स्वागत के चक्कर में पाकिस्तान ने एक बड़ी नासमझी कर दी. इस्लामाबाद लैंड करने पर पाकिस्तान एयरफोर्स ने मेहमानों को 'फ्लाइंग सैल्यूट' देने के लिए आसमान में उन्हीं अमेरिकी F-16 फाइटर जेट्स को उड़ा दिया, जिन्हें महज कुछ समय पहले 2 अप्रैल को ईरान ने काशेम द्व।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "300 से ज्यादा अजगरों के साथ रह रहा था यह शख्स, पुलिस ने घर में मारा छापा तो उड़ गए देखने वालों के",
+      "url": "https://hindi.news18.com/world/china-china-man-sentenced-for-keeping-more-than-300-pythons-at-home-10596829.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-23T12:28:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/China-Pythons-2026-06-aa510e7ef606af03813c23f0207feddb-1200x800.jpg",
+      "summary": "चीन में एक व्यक्ति के घर से 300 से अधिक अजगर बरामद किए गए हैं। चीन एक व्यक्ति के घर से 300 से अधिक अजगर बरामद किये गए है. इसके बाद उसे सजा सुनाई गई है. चीन में अजगरों को ग्रेड टू संरक्षित जानवरों के रूप में रखा गया है. कानून आधिकारिक अनुमति के बिना इस प्रजाति को खरीदने, बेचने, ब्रीडिंग कराने और कहीं ले जाने पर प्रतिबंध है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "300 से ज्यादा अजगरों के साथ रह रहा था यह शख्स, पुलिस ने घर में मारा छापा तो उड़ गए देखने वालों के",
+          "summary": "चीन में एक व्यक्ति के घर से 300 से अधिक अजगर बरामद किए गए हैं। चीन एक व्यक्ति के घर से 300 से अधिक अजगर बरामद किये गए है. इसके बाद उसे सजा सुनाई गई है. चीन में अजगरों को ग्रेड टू संरक्षित जानवरों के रूप में रखा गया है. कानून आधिकारिक अनुमति के बिना इस प्रजाति को खरीदने, बेचने, ब्रीडिंग कराने और कहीं ले जाने पर प्रतिबंध है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पीस डील या होर्मुज नहीं, ये है ईरान से आने वाली सबसे बड़ी खुशखबरी, भारत को होंगे 3 फायदे!",
+      "url": "https://hindi.news18.com/world/middle-east-how-india-to-gain-big-profit-as-us-lifts-iran-oil-sanctions-cheap-russia-crude-to-chabahar-port-10596767.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-23T12:04:01+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/India-to-gain-big-profit-as-US-Lifts-Iran-Oil-Sanctions-2026-06-90a2ebc676a3f145a40ea768f0c7afa5-1200x800.jpg",
+      "summary": "अमेरिका ने ईरान पर कच्चे तेल के एक्सपोर्ट से पाबंदियां हटा ली हैं। अमेरिका और ईरान के बीच चल रहे कूटनीतिक उतार-चढ़ाव के बीच वाशिंगटन ने तेहरान को बड़ी राहत देते हुए 21 अगस्त 2026 तक कच्चे तेल के एक्सपोर्ट से पाबंदियां हटा ली हैं, जिससे भारत के लिए मुनाफे के नए दरवाजे खुल गए हैं. स्विट्जरलैंड वार्ता के बाद आए इस फैसले से भारतीय रिफाइनरियों को सीधे डॉलर में सस्ता ईरानी क्रूड खरीदने का मौका मिलेगा, जिससे रूस और खाड़ी देशों से तेल का मोल-भाव करने में मदद मिलेगी और दे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीस डील या होर्मुज नहीं, ये है ईरान से आने वाली सबसे बड़ी खुशखबरी, भारत को होंगे 3 फायदे!",
+          "summary": "अमेरिका ने ईरान पर कच्चे तेल के एक्सपोर्ट से पाबंदियां हटा ली हैं। अमेरिका और ईरान के बीच चल रहे कूटनीतिक उतार-चढ़ाव के बीच वाशिंगटन ने तेहरान को बड़ी राहत देते हुए 21 अगस्त 2026 तक कच्चे तेल के एक्सपोर्ट से पाबंदियां हटा ली हैं, जिससे भारत के लिए मुनाफे के नए दरवाजे खुल गए हैं. स्विट्जरलैंड वार्ता के बाद आए इस फैसले से भारतीय रिफाइनरियों को सीधे डॉलर में सस्ता ईरानी क्रूड खरीदने का मौका मिलेगा, जिससे रूस और खाड़ी देशों से तेल का मोल-भाव करने में मदद मिलेगी और दे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मकड़ी रात में बुनती जाल, फिर घंटों करती इंतजार, एक चींटी को पकड़ने के लिए इतनी मेहनत क्यों? वजह है",
+      "url": "https://hindi.news18.com/world/rest-of-world-unique-new-species-of-spider-that-feeds-on-a-specific-type-of-ant-discovered-in-australia-10596718.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-23T12:01:52+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Spider-Photo-Macquarie-University-2026-06-7a0275c5abf277ae6d2c544bd848aed9-1200x800.jpg",
+      "summary": "ऑस्ट्रेलिया में एक खास तरह की मकड़ी केवल चीटियों को निशाना बनाती है। ऑस्ट्रेलिया में खास तरह के मकड़ी के बारे में पता चला है जो केवल चीटियों को निशाना बनाती है. ये मकड़ी खास तरह का जाल बनाती है जिसे बनाने में काफी समय लगता है. इसके जाल की संरचना बाकी मकड़ियों से अलग है. इसे लेकर वैज्ञानिकों ने अलग-अलग दावे किये हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मकड़ी रात में बुनती जाल, फिर घंटों करती इंतजार, एक चींटी को पकड़ने के लिए इतनी मेहनत क्यों? वजह है",
+          "summary": "ऑस्ट्रेलिया में एक खास तरह की मकड़ी केवल चीटियों को निशाना बनाती है। ऑस्ट्रेलिया में खास तरह के मकड़ी के बारे में पता चला है जो केवल चीटियों को निशाना बनाती है. ये मकड़ी खास तरह का जाल बनाती है जिसे बनाने में काफी समय लगता है. इसके जाल की संरचना बाकी मकड़ियों से अलग है. इसे लेकर वैज्ञानिकों ने अलग-अलग दावे किये हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बंदूक नहीं, पानी बना था हथियार! जानिए 1948 में भारत-पाकिस्तान के बीच क्या हुआ था",
+      "url": "https://hindi.news18.com/world/pakistan-india-pakistan-water-crisis-1948-indus-water-treaty-history-videos-10596735.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-23T11:31:20+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/indus-2026-06-bc25c3cd2d6c00516e17c7ad3ccf6ec1-1200x800.jpg",
+      "summary": "1948 में भारत ने पाकिस्तान के खिलाफ पानी का प्रवाह रोक दिया था। Indus Water Treaty: क्या आप जानते हैं कि एक समय ऐसा भी आया था जब भारत ने बिना एक भी गोली चलाए पाकिस्तान की सांसें अटका दी थीं? बात 1948 की है, जब बंटवारे के कुछ ही महीनों बाद पानी को लेकर भारत और पाकिस्तान के बीच बड़ा विवाद खड़ा हो गया.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंदूक नहीं, पानी बना था हथियार! जानिए 1948 में भारत-पाकिस्तान के बीच क्या हुआ था",
+          "summary": "1948 में भारत ने पाकिस्तान के खिलाफ पानी का प्रवाह रोक दिया था। Indus Water Treaty: क्या आप जानते हैं कि एक समय ऐसा भी आया था जब भारत ने बिना एक भी गोली चलाए पाकिस्तान की सांसें अटका दी थीं? बात 1948 की है, जब बंटवारे के कुछ ही महीनों बाद पानी को लेकर भारत और पाकिस्तान के बीच बड़ा विवाद खड़ा हो गया.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की दादागिरी पर भड़का जर्मनी, नासा को खुली धमकी- हमारे बिना फेल हो जाएगा तुम्हारा हर मिशन! पर",
+      "url": "https://hindi.news18.com/world/europe-germany-warning-to-nasa-us-europe-space-tech-war-10596701.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-23T11:27:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/US_Europe_Space_War-2026-06-61d51d53e3e994443ab0e924901f1907-1200x800.jpg",
+      "summary": "जर्मनी ने अमेरिका को चेतावनी दी है कि यूरोप के बिना नासा अंतरिक्ष में कदम नहीं रख सकता है. जर्मनी के मुताबिक यूरोप के बिना नासा अंतरिक्ष में कदम भी नहीं रख सकता है. नासा के ओरियन स्पेसक्राफ्ट का पावरहाउस यूरोप में ही बनता है. डोनाल्ड ट्रंप द्वारा एआई मॉडल बैन करने के बाद यह विवाद और गहरा गया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की दादागिरी पर भड़का जर्मनी, नासा को खुली धमकी- हमारे बिना फेल हो जाएगा तुम्हारा हर मिशन! पर",
+          "summary": "जर्मनी ने अमेरिका को चेतावनी दी है कि यूरोप के बिना नासा अंतरिक्ष में कदम नहीं रख सकता है. जर्मनी के मुताबिक यूरोप के बिना नासा अंतरिक्ष में कदम भी नहीं रख सकता है. नासा के ओरियन स्पेसक्राफ्ट का पावरहाउस यूरोप में ही बनता है. डोनाल्ड ट्रंप द्वारा एआई मॉडल बैन करने के बाद यह विवाद और गहरा गया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "बांग्लादेश की आर्मी में घुस रहा चीन, J-10CE डील से भारत को दो-तरफा घेरने का प्लान, ईस्ट-वेस्ट",
+      "url": "https://hindi.news18.com/world/south-asia-china-pakistan-bangladesh-military-nexus-beijing-j-10ce-fighter-jet-deal-with-dhaka-plan-india-east-west-border-threat-10596501.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-23T11:20:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Bangladesh-China-J-10CE-Deal-2026-06-2d41f6783ae9b28c9d7294ebd05dde5a-1200x800.jpg",
+      "summary": "बांग्लादेश ने चीन से J-10CE लड़ाकू विमान खरीदने के लिए एक समझौता किया है। यह सौदा लगभग 40 मिलियन डॉलर प्रति विमान का है। इस सौदे से भारत की पूर्वी और पश्चिमी सीमाओं पर चीन की घेराबंदी की योजना को बल मिलता है। ऑपरेशन सिंदूर के दौरान इन चीनी हथियारों की क्षमता पर सवाल उठाए गए थे। चीन ने इस स्थिति का फायदा उठाकर बांग्लादेश को अपने पक्ष में कर लिया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश की आर्मी में घुस रहा चीन, J-10CE डील से भारत को दो-तरफा घेरने का प्लान, ईस्ट-वेस्ट",
+          "summary": "बांग्लादेश ने चीन से J-10CE लड़ाकू विमान खरीदने के लिए एक समझौता किया है। यह सौदा लगभग 40 मिलियन डॉलर प्रति विमान का है। इस सौदे से भारत की पूर्वी और पश्चिमी सीमाओं पर चीन की घेराबंदी की योजना को बल मिलता है। ऑपरेशन सिंदूर के दौरान इन चीनी हथियारों की क्षमता पर सवाल उठाए गए थे। चीन ने इस स्थिति का फायदा उठाकर बांग्लादेश को अपने पक्ष में कर लिया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "दुनिया का कौन सा शहर आग लगने की घटनाओं से सबसे बेहतर तरीके से निपटता है",
@@ -362,24 +488,6 @@
       }
     },
     {
-      "title": "बांग्लादेश की आर्मी में घुस रहा चीन, J-10CE डील से भारत को दो-तरफा घेरने का प्लान, ईस्ट-वेस्ट",
-      "url": "https://hindi.news18.com/world/south-asia-china-pakistan-bangladesh-military-nexus-beijing-j-10ce-fighter-jet-deal-with-dhaka-plan-india-east-west-border-threat-10596501.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-23T10:38:43+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Bangladesh-China-J-10CE-Deal-2026-06-474b2a00c3e9420b55c4c480452755be-1200x800.jpg",
-      "summary": "बांग्लादेश ने चीन से J-10CE लड़ाकू विमान खरीदने के लिए एक समझौता किया है। यह सौदा लगभग 40 मिलियन डॉलर प्रति विमान का है। इस सौदे से भारत की पूर्वी और पश्चिमी सीमाओं पर चीन की घेराबंदी की योजना को बल मिलता है। ऑपरेशन सिंदूर के दौरान इन चीनी हथियारों की क्षमता पर सवाल उठाए गए थे। चीन ने इस स्थिति का फायदा उठाकर बांग्लादेश को अपने पक्ष में कर लिया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेश की आर्मी में घुस रहा चीन, J-10CE डील से भारत को दो-तरफा घेरने का प्लान, ईस्ट-वेस्ट",
-          "summary": "बांग्लादेश ने चीन से J-10CE लड़ाकू विमान खरीदने के लिए एक समझौता किया है। यह सौदा लगभग 40 मिलियन डॉलर प्रति विमान का है। इस सौदे से भारत की पूर्वी और पश्चिमी सीमाओं पर चीन की घेराबंदी की योजना को बल मिलता है। ऑपरेशन सिंदूर के दौरान इन चीनी हथियारों की क्षमता पर सवाल उठाए गए थे। चीन ने इस स्थिति का फायदा उठाकर बांग्लादेश को अपने पक्ष में कर लिया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "कटोरा छाप पाकिस्तान ने फिर कराई बेइज्जती, शहबाज के मंत्री ने खुद बताया- 'भिखमंगे कहीं का नहीं",
       "url": "https://hindi.news18.com/world/pakistan-ultimate-embarrassment-pakistan-minister-admits-saudi-arabia-detained-5500-pakistani-beggars-uae-warns-10596419.html",
       "source": "News18 Hindi (World)",
@@ -411,6 +519,24 @@
         "hi": {
           "title": "शी जिनपिंग के दिल्ली दौरे से पहले भारत उसके दुश्मन की करेगा मेजबानी, जानें बीजिंग के लिए क्या है",
           "summary": "जापान की प्रधानमंत्री सनाए ताकाइची जुलाई में भारत का दौरा करेंगी. यह दौरा ब्रिक्स शिखर सम्मेलन से ठीक पहले हो रहा है, जिसमें चीन के राष्ट्रपति शी जिनपिंग भी शामिल होंगे. ताकाइची का यह पहला भारत दौरा है. Japan PM India Visit: भारत में जुलाई के महीने में एक महत्वपूर्ण दौरा होने वाला है. जापान की पीएम सनाए ताकाइची पहली बार भारत के दौरे पर आने वाली हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत आएंगी जापान की पहली महिला PM साने ताकाइची, पीएम नरेंद्र मोदी के साथ किन मुद्दों पर होगी?",
+      "url": "https://www.patrika.com/world-news/india-japan-relations-pm-sanae-takaichi-modi-meeting-delhi-visit-20690089",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-23T09:16:57+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/PM-Sanae-Takaichi.webp",
+      "summary": "जापान की प्रधानमंत्री साने ताकाइची जल्द ही भारत दौरे पर आएंगी. यह उनका प्रधानमंत्री बनने के बाद पहला आधिकारिक भारत दौरा होगा। जानकारी के मुताबिक, ताकाइची 1 से 3 जुलाई के बीच भारत आ सकती हैं। पहले उनके गुवाहाटी दौरे की चर्चा थी, लेकिन अब संभावना जताई जा रही है कि कार्यक्रम नई दिल्ली में ही होगा। भारत आएंगी जापान की पहली महिला PM साने ताकाइची, पीएम नरेंद्र मोदी के साथ किन मुद्दों पर होगी?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत आएंगी जापान की पहली महिला PM साने ताकाइची, पीएम नरेंद्र मोदी के साथ किन मुद्दों पर होगी?",
+          "summary": "जापान की प्रधानमंत्री साने ताकाइची जल्द ही भारत दौरे पर आएंगी. यह उनका प्रधानमंत्री बनने के बाद पहला आधिकारिक भारत दौरा होगा। जानकारी के मुताबिक, ताकाइची 1 से 3 जुलाई के बीच भारत आ सकती हैं। पहले उनके गुवाहाटी दौरे की चर्चा थी, लेकिन अब संभावना जताई जा रही है कि कार्यक्रम नई दिल्ली में ही होगा। भारत आएंगी जापान की पहली महिला PM साने ताकाइची, पीएम नरेंद्र मोदी के साथ किन मुद्दों पर होगी?",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -506,24 +632,6 @@
       }
     },
     {
-      "title": "दो साल में 4 बड़े विवाद, चढ़ावा चोरी ने पकड़ा तूल; पहली बार गायब हुआ था रामलला का मुकुट",
-      "url": "https://www.amarujala.com/photo-gallery/lucknow/ram-mandir-donation-scam-four-major-controversies-in-two-years-theft-of-offerings-escalates-into-a-major-issue-2026-06-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-23T07:15:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/ram-mandir-donation-scam_ffd45b5d637954d54cb9c4a151da0a63.jpeg?w=1200&dpr=1.0",
-      "summary": "राम मंदिर में प्राण प्रतिष्ठा के बाद दो साल में चार विवाद हुए। ट्रस्ट प्रबंधन पर सवाल उठे, लेकिन कोई बड़ी कार्रवाई नहीं हुई। रामलला का मुकुट पहली बार गायब हुआ था। प्राण प्रतिष्ठा कार्यक्रम (22 जनवरी 2024) के बाद दो साल में राम मंदिर से चार बड़े विवाद सामने आए। मामलों में ट्रस्ट के पदाधिकारियों व प्रबंधन की कार्यशैली पर सवाल खड़े होते रहे, लेकिन किसी भी मामले में कोई बड़ी कार्रवाई नहीं की गई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दो साल में 4 बड़े विवाद, चढ़ावा चोरी ने पकड़ा तूल; पहली बार गायब हुआ था रामलला का मुकुट",
-          "summary": "राम मंदिर में प्राण प्रतिष्ठा के बाद दो साल में चार विवाद हुए। ट्रस्ट प्रबंधन पर सवाल उठे, लेकिन कोई बड़ी कार्रवाई नहीं हुई। रामलला का मुकुट पहली बार गायब हुआ था। प्राण प्रतिष्ठा कार्यक्रम (22 जनवरी 2024) के बाद दो साल में राम मंदिर से चार बड़े विवाद सामने आए। मामलों में ट्रस्ट के पदाधिकारियों व प्रबंधन की कार्यशैली पर सवाल खड़े होते रहे, लेकिन किसी भी मामले में कोई बड़ी कार्रवाई नहीं की गई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "ईरानी राष्ट्रपति मसूद पेज़ेशकियान की दो-टूक – ‘तय की गई ज़िम्मेदारियों को पूरी तरह से निभाने की",
       "url": "https://www.patrika.com/world-news/iran-president-masoud-pezeshkian-calls-for-full-commitment-to-agreed-obligations-20689547",
       "source": "Patrika (World)",
@@ -560,24 +668,6 @@
       }
     },
     {
-      "title": "पाकिस्तान जाना चाहती थी बबीता धाकड़, पति से अनबन के बाद इस आतंकी से कर ली निकाह!",
-      "url": "https://hindi.news18.com/world/rest-of-world-khadija-babita-dhakad-jaish-e-mohammed-female-sleeper-cell-want-go-to-pakistan-married-terrorist-ws-l-10595535.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-23T06:03:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Jaish-e-mohammad-2026-06-4e605fb9373cbfbaba8c41ac1d7369d9-1200x800.jpg",
-      "summary": "जयपुर की बबीता धाकड़ उर्फ खदीजा से पूछताछ जारी है। उस पर जैश-ए-मोहम्मद स्लीपर सेल का सदस्य होने का आरोप है। उसने पाकिस्तानी आतंकी अबू उबैदाह से ऑनलाइन निकाह किया। Jaipur Women Terrorist Babita Dhakad: जयपुर में कथित जैश-ए-मोहम्मद स्लीपर सेल सदस्य बबीता धाकड़ उर्फ खदीजा से पूछताछ तेज, पाक आतंकी अबू उबैदाह से ऑनलाइन निकाह और नेपाल के रास्ते पाकिस्तान जाने की साजिश की जांच.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान जाना चाहती थी बबीता धाकड़, पति से अनबन के बाद इस आतंकी से कर ली निकाह!",
-          "summary": "जयपुर की बबीता धाकड़ उर्फ खदीजा से पूछताछ जारी है। उस पर जैश-ए-मोहम्मद स्लीपर सेल का सदस्य होने का आरोप है। उसने पाकिस्तानी आतंकी अबू उबैदाह से ऑनलाइन निकाह किया। Jaipur Women Terrorist Babita Dhakad: जयपुर में कथित जैश-ए-मोहम्मद स्लीपर सेल सदस्य बबीता धाकड़ उर्फ खदीजा से पूछताछ तेज, पाक आतंकी अबू उबैदाह से ऑनलाइन निकाह और नेपाल के रास्ते पाकिस्तान जाने की साजिश की जांच.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "‘लादेन को छिपाने वाले देश से कैसा प्यार?’ पाकिस्तान प्रेम पर अपने ही देश में घिरे अमेरिकी",
       "url": "https://www.patrika.com/world-news/jd-vance-slammed-for-his-pakistan-love-in-his-own-country-20689240",
       "source": "Patrika (World)",
@@ -610,60 +700,6 @@
           "title": "ईरान ने किया जेडी वेंस का दावा खारिज, परमाणु निरीक्षकों को नहीं दी जाएगी जांच की अनुमति",
           "summary": "ईरान और अमेरिका के बीच एक शांति समझौते ने एक बड़े युद्ध को समाप्त किया। ईरान (Iran) और अमेरिका (United States of America) के बीच शांति समझौता (Iran-US Peace Deal) होने से न सिर्फ एक बड़ा युद्ध खत्म हुआ, बल्कि मिडिल ईस्ट (Middle East) में शांति की स्थापना भी हुई और साथ ही ईरान और अमेरिका के संबंधों में सुधार की शुरुआत भी।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने फिर चौपट कर दी थी डील, ईरान की अकड़ से बेहोश हो रहा था पाक... खुद कालिबाफ ने सुनाई इनसाइड",
-      "url": "https://hindi.news18.com/world/middle-east-inside-story-of-switzerland-talks-how-iran-walked-out-after-trump-threat-leaving-vance-pakistan-in-tension-ws-l-10595421.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-23T05:22:15+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iran-us-11-2026-06-3d0598b957cf864d944e91c6da321865-1200x800.jpg",
-      "summary": "ईरान के मुख्य वार्ताकार ने बताया कि स्विट्जरलैंड में ईरान-अमेरिका वार्ता के दौरान एक समय समझौता असंभव लग रहा था। बर्गेनस्टॉक में हुई बातचीत में माहौल पल-पल बदल रहा था। अंततः दोनों पक्षों के बीच कुछ सहमतियां बनीं। Switzerland Talks Inside Story: स्विट्जरलैंड में ईरान-अमेरिका की वार्ता हुई और समझौते की सूरत बनती हुई नजर आई. हालांकि ये सब कुछ आसान नहीं था.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने फिर चौपट कर दी थी डील, ईरान की अकड़ से बेहोश हो रहा था पाक... खुद कालिबाफ ने सुनाई इनसाइड",
-          "summary": "ईरान के मुख्य वार्ताकार ने बताया कि स्विट्जरलैंड में ईरान-अमेरिका वार्ता के दौरान एक समय समझौता असंभव लग रहा था। बर्गेनस्टॉक में हुई बातचीत में माहौल पल-पल बदल रहा था। अंततः दोनों पक्षों के बीच कुछ सहमतियां बनीं। Switzerland Talks Inside Story: स्विट्जरलैंड में ईरान-अमेरिका की वार्ता हुई और समझौते की सूरत बनती हुई नजर आई. हालांकि ये सब कुछ आसान नहीं था.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "क्या है 'ओमेगा ब्लॉक'? जिसने पूरे यूरोप को बनाया नरक, 60 डिग्री तक तपी छतें; 18 की मौत",
-      "url": "https://hindi.news18.com/world/europe-what-is-omega-block-europe-heatwave-18-deaths-60-degree-rooftops-photogallery-10595128.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-23T05:17:30+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/France-Heatwave-2026-06-5bb47ea81af8f36829a31260d7cf4f06-1200x800.jpg",
-      "summary": "यूरोप भीषण गर्मी की चपेट में है, जहां फ्रांस, स्पेन, ब्रिटेन और इटली में तापमान रिकॉर्ड तोड़ रहा है। फ्रांस में 18 लोगों की मौत हो चुकी है। विशेषज्ञों का मानना है कि 'ओमेगा ब्लॉक' नामक मौसम प्रणाली सहारा से गर्म हवा लाकर तापमान बढ़ा रही है। Europe Heatwave: यूरोप इस समय भीषण गर्मी की चपेट में है, जहां फ्रांस, स्पेन, ब्रिटेन और इटली में तापमान ने कई रिकॉर्ड तोड़ दिए हैं.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या है 'ओमेगा ब्लॉक'? जिसने पूरे यूरोप को बनाया नरक, 60 डिग्री तक तपी छतें; 18 की मौत",
-          "summary": "यूरोप भीषण गर्मी की चपेट में है, जहां फ्रांस, स्पेन, ब्रिटेन और इटली में तापमान रिकॉर्ड तोड़ रहा है। फ्रांस में 18 लोगों की मौत हो चुकी है। विशेषज्ञों का मानना है कि 'ओमेगा ब्लॉक' नामक मौसम प्रणाली सहारा से गर्म हवा लाकर तापमान बढ़ा रही है। Europe Heatwave: यूरोप इस समय भीषण गर्मी की चपेट में है, जहां फ्रांस, स्पेन, ब्रिटेन और इटली में तापमान ने कई रिकॉर्ड तोड़ दिए हैं.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "'भारत-चीन कंपटीटर नहीं पार्टनर', BRICS समिट से पहले ड्रैगन ने बदले सुर, चकरा जाएगा ट्रंप का माथा",
-      "url": "https://hindi.news18.com/world/south-asia-india-china-are-partners-not-competitors-chinese-fm-wang-yi-nsa-ajit-doval-before-brics-10595058.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-23T05:11:25+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/doval-china-2026-06-b29583c1b16ef3845c396c89c8c701f4-1200x800.jpg",
-      "summary": "भारत के राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल और चीनी विदेश मंत्री वांग यी के बीच हुई बातचीत के बाद चीन ने भारत को प्रतिस्पर्धी के बजाय भागीदार बताया है। यह बदलाव एशिया में एक बड़ी साझेदारी की संभावना को दर्शाता है। India China Relation: भारत के NSA अजीत डोभाल और चीनी विदेश मंत्री वांग यी के बीच जो बातचीत हुई है, वो इस वक्त सबसे ज्यादा बेचैन अमेरिका को करने वाली है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'भारत-चीन कंपटीटर नहीं पार्टनर', BRICS समिट से पहले ड्रैगन ने बदले सुर, चकरा जाएगा ट्रंप का माथा",
-          "summary": "भारत के राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल और चीनी विदेश मंत्री वांग यी के बीच हुई बातचीत के बाद चीन ने भारत को प्रतिस्पर्धी के बजाय भागीदार बताया है। यह बदलाव एशिया में एक बड़ी साझेदारी की संभावना को दर्शाता है। India China Relation: भारत के NSA अजीत डोभाल और चीनी विदेश मंत्री वांग यी के बीच जो बातचीत हुई है, वो इस वक्त सबसे ज्यादा बेचैन अमेरिका को करने वाली है.",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -717,42 +753,6 @@
         "hi": {
           "title": "अपने ही देश में रहकर की दुश्मन की मदद, ईरान में 3,000 से ज़्यादा लोग गिरफ्तार",
           "summary": "ईरान ने 3,000 से अधिक लोगों को गिरफ्तार किया है। दोनों देशों के बीच आगे की बातचीत भी शुरू हो गई है। इस युद्ध में ईरान ने काफी नुकसान झेला है, जो सिर्फ अमेरिका और इज़रायल (Israel) के हमलों की वजह से नहीं, बल्कि देश में ही रह रहे गद्दारों की वजह से भी हुआ है। हम बात कर रहे हैं जासूसों की, जिनके खिलाफ ईरान की कार्रवाई जार।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका ने वादा तो कर दिया, पर ईरान को 300 अरब डॉलर देगा कौन? खाड़ी जा रहे मार्को रुबियो देंगे जवाब?",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-deal-big-question-who-will-pay-iran-300-billion-dollar-bill-deal-question-for-gulf-nations-10595132.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-23T03:33:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/IRAN-US-10-2026-06-6a045b9413a227a479c13eb488cf755a-1200x800.jpg",
-      "summary": "स्विट्जरलैंड में अमेरिका और ईरान के बीच हुई बातचीत में 300 अरब डॉलर की फंडिंग पर सहमति बनी है. यह राशि ईरान युद्ध से हुए नुकसान के हर्जाने के तौर पर मांगी गई थी. हालांकि, इस राशि का भुगतान कौन करेगा, यह अभी स्पष्ट नहीं है. Who will Pay Iran 300 Billion Dollar: ईरान-अमेरिका के बीच स्विट्जरलैंड में बातचीत हुई, तो तमाम ऐसी बातों पर सहमति बनी है, जो तेहरान की मांगों को शुमार थीं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका ने वादा तो कर दिया, पर ईरान को 300 अरब डॉलर देगा कौन? खाड़ी जा रहे मार्को रुबियो देंगे जवाब?",
-          "summary": "स्विट्जरलैंड में अमेरिका और ईरान के बीच हुई बातचीत में 300 अरब डॉलर की फंडिंग पर सहमति बनी है. यह राशि ईरान युद्ध से हुए नुकसान के हर्जाने के तौर पर मांगी गई थी. हालांकि, इस राशि का भुगतान कौन करेगा, यह अभी स्पष्ट नहीं है. Who will Pay Iran 300 Billion Dollar: ईरान-अमेरिका के बीच स्विट्जरलैंड में बातचीत हुई, तो तमाम ऐसी बातों पर सहमति बनी है, जो तेहरान की मांगों को शुमार थीं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'ईरान ही करेगा होर्मुज का प्रबंधन, जंग से पहले जैसी स्थिति असंभव'; स्पीकर गालिबाफ की दो-टूक",
-      "url": "https://www.amarujala.com/world/iran-speaker-ghalibaf-says-hormuz-will-not-return-pre-war-status-iran-us-talks-and-sanctions-discussions-2026-06-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-23T03:29:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/iirana-sasatha-ka-athhayakashha-mahamamatha-bkara-galbfa_6608f124372eb181129aa1585f284f95.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान के स्पीकर गालिबाफ ने कहा है कि होर्मुज जलडमरूमध्य का प्रबंधन ईरान ही करेगा. उन्होंने यह भी स्पष्ट किया कि युद्ध से पहले की स्थिति बहाल करना असंभव है. यह बयान ईरान और अमेरिका के बीच चल रही बातचीत के बीच आया है. 'ईरान ही करेगा होर्मुज का प्रबंधन, जंग से पहले जैसी स्थिति असंभव'; स्पीकर गालिबाफ की दो-टूक।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ईरान ही करेगा होर्मुज का प्रबंधन, जंग से पहले जैसी स्थिति असंभव'; स्पीकर गालिबाफ की दो-टूक",
-          "summary": "ईरान के स्पीकर गालिबाफ ने कहा है कि होर्मुज जलडमरूमध्य का प्रबंधन ईरान ही करेगा. उन्होंने यह भी स्पष्ट किया कि युद्ध से पहले की स्थिति बहाल करना असंभव है. यह बयान ईरान और अमेरिका के बीच चल रही बातचीत के बीच आया है. 'ईरान ही करेगा होर्मुज का प्रबंधन, जंग से पहले जैसी स्थिति असंभव'; स्पीकर गालिबाफ की दो-टूक।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
