@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-24T07:19:29.688040+00:00",
+  "generated_at": "2026-06-24T09:13:48.559730+00:00",
   "article_count": 50,
-  "total_unique_count": 277,
+  "total_unique_count": 275,
   "digest": {
-    "en": "Myanmar's military consolidation and Armenia's election campaigns dominate headlines. The EU's budget for global turmoil and Iran's nuclear inspections also draw attention. These stories reflect ongoing geopolitical realignments.",
-    "hi": "दक्षिण कोरिया में सात साल में सबसे ज्यादा बच्चों का जन्म हुआ। यह देश की घटती आबादी के लिए एक सकारात्मक संकेत है। ईरान से शांति समझौते पर डोनाल्ड ट्रंप के दावों पर सवाल उठ रहे हैं।"
+    "en": "Myanmar's new administration dominates the news. Armenia's election and Djibouti's prime real estate are also major threads. Iran's nuclear sites will be visited by inspectors.",
+    "hi": "ईरान के राष्ट्रपति ने पीएम मोदी को खामेनेई के अंतिम संस्कार में शामिल होने का न्योता दिया। तेल और व्यापार पर ईरान युद्ध में चीन को नुकसान हुआ। होर्मुज स्ट्रेट में 11000 नाविकों की घर वापसी की खबर आई।"
   },
   "articles": [
     {
@@ -72,9 +72,21 @@
       "url": "https://www.thehindu.com/news/international/un-nuclear-agency-boss-signals-that-inspectors-will-visit-irans-nuclear-sites/article71140651.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-06-24T06:43:14+00:00",
+      "published_at": "2026-06-24T08:22:46+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/ajnehv/article71140715.ece/alternates/LANDSCAPE_1200/Uranium_Enrichment_Explainer_5853_.jpg",
-      "summary": "The head of the U. N. U. N. nuclear agency boss signals that inspectors will visit Iran’s nuclear sites.",
+      "summary": "The head of the U. N. U. nuclear agency boss signals that inspectors will visit Iran’s nuclear sites. U. N.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Opinion | The Iran Paradox: 2 Things That Can Derail The Peace Process",
+      "url": "https://www.ndtv.com/opinion/the-iran-paradox-2-things-that-can-derail-the-peace-process-11680321#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-06-24T08:17:03+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-03/q08tf9l8_mohammad-bagher-ghalibaf_625x300_24_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "summary": "The United States and Iran both seek to avoid further conflict. However, negotiations on Iran's nuclear and ballistic missile programs could extend for months or years. This prolonged discussion may prevent a swift resolution. While it is clear that neither Iran or the US have any appetite for more war, the possibility of talks extending for months and years on two crucial issues - the nuclear and the ballistic missile programmes - may turn this roadmap into an unending saga.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -296,32 +308,38 @@
       "translations": {}
     },
     {
-      "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167783",
-      "source": "UN News",
+      "title": "ईरान के राष्ट्रपति ने PM मोदी को भेजा न्योता, खामेनेई के अंतिम संस्कार में शामिल होने का बुलावा",
+      "url": "https://hindi.news18.com/world/middle-east-iran-sends-invitation-to-pm-modi-for-khamenei-last-rituals-india-tehran-relations-10598945.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-22T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/09-06-2026-UNICEF-DR-Congo-ebola-05.jpg/image770x420cropped.jpg",
-      "summary": "Global Ebola cases have reached 1,000. The United Nations is working to reach nearly three million at-risk children and adolescents in the eastern Democratic Republic of the Congo. Efforts are increasing to treat prisoners near the outbreak's epicentre. The UN agencies issued this warning on Monday. As global confirmed Ebola cases reach 1,000, nearly three million children and adolescents are at risk in the eastern part of the Democratic Republic of the Congo (DRC), while efforts increase to treat prisoners near the epicentre of the current outbreak, UN agencies warned on Monday.",
+      "published_at": "2026-06-24T09:01:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iran-india-3-2026-06-30fd31824b16eb1d29ffd882e350f99f-1200x800.jpg",
+      "summary": "ईरान ने प्रधानमंत्री नरेंद्र मोदी को पूर्व सर्वोच्च नेता अयातुल्लाह अली खामेनेई के अंतिम संस्कार में शामिल होने के लिए आमंत्रित Iran Invitation to PM Modi: ईरान-अमेरिका के बीच युद्ध बंद होने के बाद अब उनके पूर्व सर्वोच्च नेता अयातुल्लाह अली खामनेई का अंतिम संस्कार किया जाएगा. इसमें शामिल होने के लिए ईरान की ओर से पीएम मोदी को न्यौता भेजा गया है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "मुंबई लोकल में बहस बनी जानलेवा: 22 साल के युवक की चाकू मारकर हत्या, दरवाजा खुला रखने को लेकर हुआ था",
-      "url": "https://www.amarujala.com/india-news/argument-on-mumbai-local-train-turns-fatal-22-year-old-man-stabbed-to-death-dispute-over-keepingdoor-open-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T07:13:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/18/aparathha_40f016d0505dc3e21c420d2125dc7f24.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई लोकल ट्रेन में दरवाजा खुला रखने को लेकर हुए विवाद में 22 वर्षीय युवक की चाकू मारकर हत्या कर दी गई। यह घटना तब हुई जब पीड़ित यात्री ने ट्रेन का दरवाजा खुला रखने पर आपत्ति जताई। आरोपी ने कथित तौर पर पीड़ित पर चाकू से हमला कर दिया। पुलिस ने मामला दर्ज कर लिया है और जांच जारी है।",
-      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मुंबई लोकल में बहस बनी जानलेवा: 22 साल के युवक की चाकू मारकर हत्या, दरवाजा खुला रखने को लेकर हुआ था",
-          "summary": "मुंबई लोकल ट्रेन में दरवाजा खुला रखने को लेकर हुए विवाद में 22 वर्षीय युवक की चाकू मारकर हत्या कर दी गई। यह घटना तब हुई जब पीड़ित यात्री ने ट्रेन का दरवाजा खुला रखने पर आपत्ति जताई। आरोपी ने कथित तौर पर पीड़ित पर चाकू से हमला कर दिया। पुलिस ने मामला दर्ज कर लिया है और जांच जारी है।",
-          "region": "एशिया-प्रशांत"
+          "title": "ईरान के राष्ट्रपति ने PM मोदी को भेजा न्योता, खामेनेई के अंतिम संस्कार में शामिल होने का बुलावा",
+          "summary": "ईरान ने प्रधानमंत्री नरेंद्र मोदी को पूर्व सर्वोच्च नेता अयातुल्लाह अली खामेनेई के अंतिम संस्कार में शामिल होने के लिए आमंत्रित Iran Invitation to PM Modi: ईरान-अमेरिका के बीच युद्ध बंद होने के बाद अब उनके पूर्व सर्वोच्च नेता अयातुल्लाह अली खामनेई का अंतिम संस्कार किया जाएगा. इसमें शामिल होने के लिए ईरान की ओर से पीएम मोदी को न्यौता भेजा गया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "तेल, व्यापार और होर्मुज... ईरान युद्ध में बड़ा लूजर बना चीन, खुल गई विकास मॉडल की पोल",
+      "url": "https://hindi.news18.com/world/china-is-china-the-biggest-loser-in-the-iran-war-why-the-60-day-ceasefire-is-critical-for-its-economy-ws-l-10598614.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-24T07:23:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/xi-jinping-1-2026-06-b6d852eb1766ba2bc33c250088081026-1200x800.jpg",
+      "summary": "ईरान-अमेरिका युद्धविराम ने तेल बाजार को राहत दी है. लेकिन, होर्मुज स्ट्रेट पर निर्भरता ने चीन की ऊर्जा कमजोरी और निर्यात आधारित अर्थव्यवस्था के जोखिम उजागर किए हैं. होर्मुज संकट की वजह से चीन के व्यापार को भारी झटका लग सकता है. तेल, व्यापार और होर्मुज ईरान युद्ध में बड़ा लूजर बना चीन, खुल गई विकास मॉडल की पोल।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेल, व्यापार और होर्मुज... ईरान युद्ध में बड़ा लूजर बना चीन, खुल गई विकास मॉडल की पोल",
+          "summary": "ईरान-अमेरिका युद्धविराम ने तेल बाजार को राहत दी है. लेकिन, होर्मुज स्ट्रेट पर निर्भरता ने चीन की ऊर्जा कमजोरी और निर्यात आधारित अर्थव्यवस्था के जोखिम उजागर किए हैं. होर्मुज संकट की वजह से चीन के व्यापार को भारी झटका लग सकता है. तेल, व्यापार और होर्मुज ईरान युद्ध में बड़ा लूजर बना चीन, खुल गई विकास मॉडल की पोल।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -344,150 +362,6 @@
       }
     },
     {
-      "title": "दक्षिण कोरिया में आया ‘बेबी बूम’: सात साल में सबसे ज्यादा बच्चों का जन्म, घटती आबादी पर मिली बड़ी",
-      "url": "https://www.amarujala.com/world/baby-boom-in-south-korea-highest-number-of-births-in-seven-years-major-relief-regarding-declining-population-2026-06-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-24T07:11:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/18/navajata-bcaca-ka-mata_7430d58a403186b0224ef843a5a6aeba.jpeg?w=1200&dpr=1.0",
-      "summary": "दक्षिण कोरिया में पिछले सात वर्षों में बच्चों के जन्म की संख्या सबसे अधिक दर्ज की गई है। यह वृद्धि देश की घटती आबादी को लेकर चिंता के बीच आई है। 2023 में, कुल 230,000 से अधिक बच्चों का जन्म हुआ, जो 2015 के बाद से सबसे अधिक है। यह आंकड़ा पिछले वर्ष की तुलना में 7.5% अधिक है। सरकार ने इस प्रवृत्ति को बनाए रखने के लिए प्रोत्साहन उपायों को लागू किया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दक्षिण कोरिया में आया ‘बेबी बूम’: सात साल में सबसे ज्यादा बच्चों का जन्म, घटती आबादी पर मिली बड़ी",
-          "summary": "दक्षिण कोरिया में पिछले सात वर्षों में बच्चों के जन्म की संख्या सबसे अधिक दर्ज की गई है। यह वृद्धि देश की घटती आबादी को लेकर चिंता के बीच आई है। 2023 में, कुल 230,000 से अधिक बच्चों का जन्म हुआ, जो 2015 के बाद से सबसे अधिक है। यह आंकड़ा पिछले वर्ष की तुलना में 7.5% अधिक है। सरकार ने इस प्रवृत्ति को बनाए रखने के लिए प्रोत्साहन उपायों को लागू किया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बंगाल बम धमाके मामले में तीन जगहों पर एनआईए की रेड, विस्फोटक पदार्थ तैयार करने वाले दो आरोपी",
-      "url": "https://www.amarujala.com/india-news/nia-raids-three-locations-in-connection-with-the-bengal-bomb-blast-case-two-accused-involved-arrested-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T07:09:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/02/nia-sleuths-question-kolkata-based-travel-agencys-owner-in-pak-espionage-case_a9a81f173eec792f1bf2f033da0320e2.jpeg?w=1200&dpr=1.0",
-      "summary": "राष्ट्रीय जांच एजेंसी (एनआईए) ने पश्चिम बंगाल में तीन स्थानों पर छापेमारी की। यह कार्रवाई एक बम विस्फोट मामले से जुड़ी है। एनआईए ने इस मामले में दो लोगों को गिरफ्तार किया है। ये आरोपी विस्फोटक पदार्थ तैयार कर रहे थे। NIA: बंगाल बम धमाके मामले में तीन जगहों पर एनआईए की रेड, विस्फोटक पदार्थ तैयार करने वाले दो आरोपी गिरफ्तार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बंगाल बम धमाके मामले में तीन जगहों पर एनआईए की रेड, विस्फोटक पदार्थ तैयार करने वाले दो आरोपी",
-          "summary": "राष्ट्रीय जांच एजेंसी (एनआईए) ने पश्चिम बंगाल में तीन स्थानों पर छापेमारी की। यह कार्रवाई एक बम विस्फोट मामले से जुड़ी है। एनआईए ने इस मामले में दो लोगों को गिरफ्तार किया है। ये आरोपी विस्फोटक पदार्थ तैयार कर रहे थे। NIA: बंगाल बम धमाके मामले में तीन जगहों पर एनआईए की रेड, विस्फोटक पदार्थ तैयार करने वाले दो आरोपी गिरफ्तार।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "केरल को नशे से मुक्त कराएंगे तीन राज्य: 'आपरेशन तूफान' का दिखने लगा असर, अब तक 2954 केस दर्ज, 3176",
-      "url": "https://www.amarujala.com/india-news/three-states-to-make-kerala-drug-free-impact-of-operation-toofan-visible-2-954-cases-registered-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T07:02:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/18/vada-satashana-karal-ka-makhayamatara_e265b105fc9f36658ee1bc8d5d4de846.jpeg?w=1200&dpr=1.0",
-      "summary": "केरल पुलिस ने तीन पड़ोसी राज्यों के साथ मिलकर 'ऑपरेशन तूफान' चलाया। इस अभियान का लक्ष्य राज्य को नशीली दवाओं से मुक्त कराना है। अब तक 2954 मामले दर्ज किए गए हैं। इस दौरान 3176 लोगों को गिरफ्तार किया गया है। केरल को नशे से मुक्त कराएंगे तीन राज्य: 'आपरेशन तूफान' का दिखने लगा असर, अब तक 2954 केस दर्ज, 3176 गिरफ्तार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केरल को नशे से मुक्त कराएंगे तीन राज्य: 'आपरेशन तूफान' का दिखने लगा असर, अब तक 2954 केस दर्ज, 3176",
-          "summary": "केरल पुलिस ने तीन पड़ोसी राज्यों के साथ मिलकर 'ऑपरेशन तूफान' चलाया। इस अभियान का लक्ष्य राज्य को नशीली दवाओं से मुक्त कराना है। अब तक 2954 मामले दर्ज किए गए हैं। इस दौरान 3176 लोगों को गिरफ्तार किया गया है। केरल को नशे से मुक्त कराएंगे तीन राज्य: 'आपरेशन तूफान' का दिखने लगा असर, अब तक 2954 केस दर्ज, 3176 गिरफ्तार।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राम मंदिर चढ़ावा एक्शन: ‘चढ़ावा चोरी कांड’ से उपजे चार नरेटिव!",
-      "url": "https://www.amarujala.com/columns/blog/four-narratives-emerging-from-the-ram-mandir-offering-theft-incident-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T06:58:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/17/ayodha-ram-mandir-ram-mandir-ram-mandir-donations-ram-mandir-donation-scam-ayodhya-temple-scam_aae25a85a032988527ba656024698b1a.jpeg?w=1200&dpr=1.0",
-      "summary": "राम मंदिर में दान की राशि की चोरी के आरोपों की प्राथमिक जांच में किसी के खिलाफ पुलिस रिपोर्ट दर्ज नहीं हुई है। इस घटना से जुड़े चार अलग-अलग नैरेटिव सामने आए हैं। प्राथमिक जांच रिपोर्ट में किसी के खिलाफ पुलिस रिपोर्ट की भी बात नहीं है। राम मंदिर चढ़ावा एक्शन: ‘चढ़ावा चोरी कांड’ से उपजे चार नरेटिव!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राम मंदिर चढ़ावा एक्शन: ‘चढ़ावा चोरी कांड’ से उपजे चार नरेटिव!",
-          "summary": "राम मंदिर में दान की राशि की चोरी के आरोपों की प्राथमिक जांच में किसी के खिलाफ पुलिस रिपोर्ट दर्ज नहीं हुई है। इस घटना से जुड़े चार अलग-अलग नैरेटिव सामने आए हैं। प्राथमिक जांच रिपोर्ट में किसी के खिलाफ पुलिस रिपोर्ट की भी बात नहीं है। राम मंदिर चढ़ावा एक्शन: ‘चढ़ावा चोरी कांड’ से उपजे चार नरेटिव!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या अमेरिकी फाइटर जेट F-15 को रहस्यमयी एलियन ने मार गिराया था? ईरान को लेकर पायलट के दावे से सनसनी",
-      "url": "https://www.amarujala.com/bizarre-news/us-fighter-pilot-shot-down-by-iran-describes-alarming-jellyfish-drones-before-crash-real-alien-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T06:54:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/us-fighter-pilot-shot-down-by-iran-describes-alarming-jellyfish-drones-before-crash-real-alien_6fe851215e731239b9c6f33a56daca85.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान में एक अमेरिकी F-15 फाइटर जेट दुर्घटनाग्रस्त हो गया। पायलट ने दावा किया कि इजैक्ट होने से पहले उसने जेलीफिश जैसे तैरते हुए ईरानी ड्रोन देखे थे। ईरान में एक अमेरिकी F-15 फाइटर जेट क्रैश हो गया था। इसके पायलट ने दावा किया है कि उसने क्रैश हुए फाइटर जेट से इजैक्ट होने से ठीक पहले आसमान में ईरानी ड्रोन्स की ऐसी श्रृंखला देखी, जो जेलीफिश की तरह आसमान में तैर रही थी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या अमेरिकी फाइटर जेट F-15 को रहस्यमयी एलियन ने मार गिराया था? ईरान को लेकर पायलट के दावे से सनसनी",
-          "summary": "ईरान में एक अमेरिकी F-15 फाइटर जेट दुर्घटनाग्रस्त हो गया। पायलट ने दावा किया कि इजैक्ट होने से पहले उसने जेलीफिश जैसे तैरते हुए ईरानी ड्रोन देखे थे। ईरान में एक अमेरिकी F-15 फाइटर जेट क्रैश हो गया था। इसके पायलट ने दावा किया है कि उसने क्रैश हुए फाइटर जेट से इजैक्ट होने से ठीक पहले आसमान में ईरानी ड्रोन्स की ऐसी श्रृंखला देखी, जो जेलीफिश की तरह आसमान में तैर रही थी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सुपर कंप्यूटर की रेस में चीन ने अमेरिका को पछाड़ा, 8 साल बाद फिर हासिल किया दुनिया का नंबर-1 ताज",
-      "url": "https://www.amarujala.com/photo-gallery/technology/tech-diary/china-supercomputer-beats-united-states-america-el-capitan-top500-ranking-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T06:54:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/supercomputer_b44ef17fb4704b7367d766b43267c633.jpeg?w=1200&dpr=1.0",
-      "summary": "चीन ने शेंजेन में लाइनशाइन (LineShine) सुपर कंप्यूटर के साथ अमेरिका को पछाड़ दिया है। यह सुपर कंप्यूटर दुनिया के सबसे तेज सिस्टम अल कैप्टन (El Capitan) से आगे निकल गया है। चीन ने सुपर कंप्यूटर की दुनिया में बड़ा उलटफेर करते हुए अमेरिका से नंबर-1 की कुर्सी छीन ली है। शेंजेन में बने लाइनशाइन (LineShine) सुपर कंप्यूटर ने दुनिया के सबसे तेज सिस्टम अल कैप्टन (El Capitan) को पीछे छोड़ दिया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सुपर कंप्यूटर की रेस में चीन ने अमेरिका को पछाड़ा, 8 साल बाद फिर हासिल किया दुनिया का नंबर-1 ताज",
-          "summary": "चीन ने शेंजेन में लाइनशाइन (LineShine) सुपर कंप्यूटर के साथ अमेरिका को पछाड़ दिया है। यह सुपर कंप्यूटर दुनिया के सबसे तेज सिस्टम अल कैप्टन (El Capitan) से आगे निकल गया है। चीन ने सुपर कंप्यूटर की दुनिया में बड़ा उलटफेर करते हुए अमेरिका से नंबर-1 की कुर्सी छीन ली है। शेंजेन में बने लाइनशाइन (LineShine) सुपर कंप्यूटर ने दुनिया के सबसे तेज सिस्टम अल कैप्टन (El Capitan) को पीछे छोड़ दिया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका को रिझाओ, चीन से दब जाओ, यही है 'मोदीनॉमिक्स', कांग्रेस ने सरकार के फैसलों पर उठाए सवाल",
-      "url": "https://www.amarujala.com/india-news/modinomics-is-appeasement-of-us-capitulation-to-china-jairam-ramesh-slams-centre-over-india-trade-balance-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T06:47:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/kagarasa-nata-jayarama-ramasha_2e01e8c539240de465ddf0f5e408ca47.jpeg?w=1200&dpr=1.0",
-      "summary": "कांग्रेस ने सरकार की व्यापार नीतियों पर सवाल उठाए हैं। पार्टी का कहना है कि ये नीतियां अमेरिका को खुश करने और चीन के सामने झुकने वाली हैं। अमेरिका को रिझाओ, चीन से दब जाओ, यही है 'मोदीनॉमिक्स', कांग्रेस ने सरकार के फैसलों पर उठाए सवाल।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका को रिझाओ, चीन से दब जाओ, यही है 'मोदीनॉमिक्स', कांग्रेस ने सरकार के फैसलों पर उठाए सवाल",
-          "summary": "कांग्रेस ने सरकार की व्यापार नीतियों पर सवाल उठाए हैं। पार्टी का कहना है कि ये नीतियां अमेरिका को खुश करने और चीन के सामने झुकने वाली हैं। अमेरिका को रिझाओ, चीन से दब जाओ, यही है 'मोदीनॉमिक्स', कांग्रेस ने सरकार के फैसलों पर उठाए सवाल।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "विक्की या कटरीना किसकी तरह दिखता है विहान? दादा शाम कौशल ने किया खुलासा; बेटे-बहू की जमकर की तारीफ",
-      "url": "https://www.amarujala.com/entertainment/bollywood/vicky-kaushal-father-sham-kaushal-reveals-whether-grandson-vihaan-looks-more-like-him-or-katrina-kaif-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T06:47:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/vakaka-kashal-shama-kashal-oura-katarana-kafa_a0ec3f6c8a9537aac5de59c9320b47e5.jpeg?w=1200&dpr=1.0",
-      "summary": "विक्की कौशल के पिता शाम कौशल ने बताया कि उनके पोते विहान की शक्ल किससे मिलती है। उन्होंने अपने बेटे और बहू की भी प्रशंसा की। Vicky Katrina Son Vihaan: विक्की-कटरीना ने अभी तक अपने बेटे विहान का चेहरा नहीं दिखाया है। अब विक्की के पिता शाम कौशल ने बताया है कि किसकी तरह दिखता है विहान। विक्की या कटरीना किसकी तरह दिखता है विहान?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विक्की या कटरीना किसकी तरह दिखता है विहान? दादा शाम कौशल ने किया खुलासा; बेटे-बहू की जमकर की तारीफ",
-          "summary": "विक्की कौशल के पिता शाम कौशल ने बताया कि उनके पोते विहान की शक्ल किससे मिलती है। उन्होंने अपने बेटे और बहू की भी प्रशंसा की। Vicky Katrina Son Vihaan: विक्की-कटरीना ने अभी तक अपने बेटे विहान का चेहरा नहीं दिखाया है। अब विक्की के पिता शाम कौशल ने बताया है कि किसकी तरह दिखता है विहान। विक्की या कटरीना किसकी तरह दिखता है विहान?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "डोनाल्ड ट्रंप भड़के, सैन्य कार्रवाई की शक्तियाँ सीमित होने पर सीनेटरों को लगाई लताड़",
       "url": "https://www.patrika.com/world-news/donald-trump-furious-after-us-senate-voted-to-limit-his-war-powers-20692176",
       "source": "Patrika (World)",
@@ -502,132 +376,6 @@
           "title": "डोनाल्ड ट्रंप भड़के, सैन्य कार्रवाई की शक्तियाँ सीमित होने पर सीनेटरों को लगाई लताड़",
           "summary": "अमेरिकी सीनेट ने राष्ट्रपति डोनाल्ड ट्रंप की ईरान या किसी अन्य देश के खिलाफ सैन्य कार्रवाई की शक्तियों को सीमित करने के लिए युद्ध अमेरिकी सीनेट (US Senate) ने राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) की ईरान (Iran) या अन्य किसी भी देश के खिलाफ सैन्य कार्रवाई की शक्तियों को सीमित करने के लिए युद्ध शक्ति प्रस्ताव (War Powers Resolution) को मंजूरी दे दी है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "संवाद में देवी चित्रलेखा ने जीवन मूल्यों पर रखे विचार, कहा- फॉलोअर्स की संख्या नही हैं सफलता",
-      "url": "https://www.amarujala.com/spirituality/wellness/amar-ujala-samwad-uttarakhand-2026-devi-chitralekha-motivational-thoughts-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T06:39:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/amar-ujala-samwad-uttarakhand-2026_10cd4d34bbb390fcd7f0e1e52b4668c5.jpeg?w=1200&dpr=1.0",
-      "summary": "अमर उजाला संवाद 2026 कार्यक्रम में देवी चित्रलेखा ने जीवन मूल्यों पर अपने विचार रखे। Amar Ujala Samwad Uttarakhand 2026: 'अमर उजाला संवाद 2026' कार्यक्रम में उत्तराखंड के विकास से लेकर देश से जुड़े कई अहम मुद्दों पर विस्तार से चर्चा की गई। संवाद में देवी चित्रलेखा ने जीवन मूल्यों पर रखे विचार, कहा- फॉलोअर्स की संख्या नही हैं सफलता।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संवाद में देवी चित्रलेखा ने जीवन मूल्यों पर रखे विचार, कहा- फॉलोअर्स की संख्या नही हैं सफलता",
-          "summary": "अमर उजाला संवाद 2026 कार्यक्रम में देवी चित्रलेखा ने जीवन मूल्यों पर अपने विचार रखे। Amar Ujala Samwad Uttarakhand 2026: 'अमर उजाला संवाद 2026' कार्यक्रम में उत्तराखंड के विकास से लेकर देश से जुड़े कई अहम मुद्दों पर विस्तार से चर्चा की गई। संवाद में देवी चित्रलेखा ने जीवन मूल्यों पर रखे विचार, कहा- फॉलोअर्स की संख्या नही हैं सफलता।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "एक घर में 2 एसी हैं, तो कितने किलोवाट का बिजली का मीटर होना चाहिए? यहां जानें जरूरी बात",
-      "url": "https://www.amarujala.com/photo-gallery/utility/ac-tips-if-a-house-has-2-ac-what-should-be-the-kilowatt-rating-of-the-electricity-meter-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T06:37:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/ghara-ma-2-esa-hana-para-bjal-ka-matara-katana-vata-ka-hana-cahae_85b1524041d77b21c53a90ee76165593.jpeg?w=1200&dpr=1.0",
-      "summary": "दो एयर कंडीशनर वाले घरों के लिए बिजली मीटर की क्षमता जानना महत्वपूर्ण है। क्या आपके घर में भी 2 एसी चलते हैं? अगर हां, तो आपके लिए ये जानना जरूरी हो जाता है कि आपके घर में कितने किलोवाट का बिजली का मीटर होना चाहिए? एक घर में 2 एसी हैं, तो कितने किलोवाट का बिजली का मीटर होना चाहिए?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक घर में 2 एसी हैं, तो कितने किलोवाट का बिजली का मीटर होना चाहिए? यहां जानें जरूरी बात",
-          "summary": "दो एयर कंडीशनर वाले घरों के लिए बिजली मीटर की क्षमता जानना महत्वपूर्ण है। क्या आपके घर में भी 2 एसी चलते हैं? अगर हां, तो आपके लिए ये जानना जरूरी हो जाता है कि आपके घर में कितने किलोवाट का बिजली का मीटर होना चाहिए? एक घर में 2 एसी हैं, तो कितने किलोवाट का बिजली का मीटर होना चाहिए?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गुरुवार के शुभ संयोग में 4 राशियों की चमकेगी किस्मत, जानें पूरी डिटेल",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/nirjala-ekadashi-2026-3-auspicious-yogas-form-this-thursday-luck-to-shine-for-these-4-zodiac-signs-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T06:36:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/narajal-ekathasha_b71ade0e91b5a8b392bdb1bad018daec.jpeg?w=1200&dpr=1.0",
-      "summary": "गुरुवार के शुभ संयोग में 4 राशियों की किस्मत चमकेगी। Nirjala Ekadashi 2026: 25 जून को गुरुवार के शुभ संयोग में बनेंगे 3 दुर्लभ योग। जानें मेष, कर्क, तुला और कुंभ राशि पर पड़ने वाला असर। गुरुवार के शुभ संयोग में 4 राशियों की चमकेगी किस्मत, जानें पूरी डिटेल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गुरुवार के शुभ संयोग में 4 राशियों की चमकेगी किस्मत, जानें पूरी डिटेल",
-          "summary": "गुरुवार के शुभ संयोग में 4 राशियों की किस्मत चमकेगी। Nirjala Ekadashi 2026: 25 जून को गुरुवार के शुभ संयोग में बनेंगे 3 दुर्लभ योग। जानें मेष, कर्क, तुला और कुंभ राशि पर पड़ने वाला असर। गुरुवार के शुभ संयोग में 4 राशियों की चमकेगी किस्मत, जानें पूरी डिटेल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ज्येष्ठ पूर्णिमा पर इन 4 राशि वालों को अचानक होगा धन लाभ, बरसेगी मां लक्ष्मी की कृपा",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/jyeshtha-purnima-2026-4-zodiac-signs-will-get-goddess-laxmi-blessings-money-and-financial-benefits-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T06:33:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/jyeshtha-purnima-2026-prediction_991202936db919a3a510950b1f2dcee1.jpeg?w=1200&dpr=1.0",
-      "summary": "ज्येष्ठ पूर्णिमा कुछ राशियों के लिए शुभ मानी जा रही है। धार्मिक मान्यताओं के अनुसार, इस बार की ज्येष्ठ पूर्णिमा कुछ राशियों के लिए विशेष रूप से शुभ फलदायी रहने वाली है। इन राशियों पर मां लक्ष्मी की कृपा से धन-संपत्ति में वृद्धि, निवेश के बेहतर अवसर और संपत्ति से लाभ मिलने के योग बन रहे हैं। ज्येष्ठ पूर्णिमा पर इन 4 राशि वालों को अचानक होगा धन लाभ, बरसेगी मां लक्ष्मी की कृपा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ज्येष्ठ पूर्णिमा पर इन 4 राशि वालों को अचानक होगा धन लाभ, बरसेगी मां लक्ष्मी की कृपा",
-          "summary": "ज्येष्ठ पूर्णिमा कुछ राशियों के लिए शुभ मानी जा रही है। धार्मिक मान्यताओं के अनुसार, इस बार की ज्येष्ठ पूर्णिमा कुछ राशियों के लिए विशेष रूप से शुभ फलदायी रहने वाली है। इन राशियों पर मां लक्ष्मी की कृपा से धन-संपत्ति में वृद्धि, निवेश के बेहतर अवसर और संपत्ति से लाभ मिलने के योग बन रहे हैं। ज्येष्ठ पूर्णिमा पर इन 4 राशि वालों को अचानक होगा धन लाभ, बरसेगी मां लक्ष्मी की कृपा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "Symptoms of Vitamin D Deficiency: शरीर में दिखें ये संकेत तो हो सकती है विटामिन D की कमी",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/5-symptoms-of-vitamin-d-deficiency-vitamin-d-ki-kami-ke-lakshan-in-hindi-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T06:32:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/vatamana-d-ka-kama_7e4b485b4cf50b53e5f3cb48a8ba8a80.jpeg?w=1200&dpr=1.0",
-      "summary": "विटामिन डी की कमी के शुरुआती लक्षणों को अक्सर लोग नजरअंदाज कर देते हैं। Symptoms of Vitamin D Deficiency: विटामिन डी की कमी के शुरुआती लक्षणों को अक्सर हम सभी नजरअंदाज कर देते हैं। बहुत से लोगों को इस बारे में जानकारी नहीं होती है। यहां इस लेख में हम आपको इसी बारे में जानकारी देंगे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Symptoms of Vitamin D Deficiency: शरीर में दिखें ये संकेत तो हो सकती है विटामिन D की कमी",
-          "summary": "विटामिन डी की कमी के शुरुआती लक्षणों को अक्सर लोग नजरअंदाज कर देते हैं। Symptoms of Vitamin D Deficiency: विटामिन डी की कमी के शुरुआती लक्षणों को अक्सर हम सभी नजरअंदाज कर देते हैं। बहुत से लोगों को इस बारे में जानकारी नहीं होती है। यहां इस लेख में हम आपको इसी बारे में जानकारी देंगे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "यूएस राष्ट्रपति ट्रंप के सामने उठा पाकिस्तान की ज्यादती का मामला, महरंग बलोच को उम्रकैद पर नाराजगी",
-      "url": "https://www.amarujala.com/world/baloch-activist-writes-to-trump-over-pakistan-court-verdict-on-mahrang-baloch-seeks-fair-trial-2026-06-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-24T06:28:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/pakistan-mahrang-baloch_f0962358711d3d441dad46fdd7e20296.jpeg?w=1200&dpr=1.0",
-      "summary": "एक बलूच कार्यकर्ता ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को पत्र लिखा। यूएस राष्ट्रपति ट्रंप के सामने उठा पाकिस्तान की ज्यादती का मामला, महरंग बलोच को उम्रकैद पर नाराजगी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूएस राष्ट्रपति ट्रंप के सामने उठा पाकिस्तान की ज्यादती का मामला, महरंग बलोच को उम्रकैद पर नाराजगी",
-          "summary": "एक बलूच कार्यकर्ता ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को पत्र लिखा। यूएस राष्ट्रपति ट्रंप के सामने उठा पाकिस्तान की ज्यादती का मामला, महरंग बलोच को उम्रकैद पर नाराजगी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सीए इंटर मई का रिजल्ट घोषित; शार्दुल शेखर बने ऑल इंडिया टॉपर, 88.50% अंकों के साथ मारी बाजी",
-      "url": "https://www.amarujala.com/education/icai-ca-inter-result-2026-declared-candidates-can-now-download-scorecards-from-official-website-2026-06-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-24T06:26:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/ca-inter-result-2026_362127bb0d8c2569dac657f182d7d8e6.jpeg?w=1200&dpr=1.0",
-      "summary": "इंस्टीट्यूट ऑफ चार्टर्ड अकाउंटेंट्स ऑफ इंडिया ने सीए इंटरमीडिएट मई 2026 परीक्षा के परिणाम घोषित ICAI CA Inter Result OUT: इंस्टीट्यूट ऑफ चार्टर्ड अकाउंटेंट्स ऑफ इंडिया ने सीए इंटरमीडिएट मई 2026 परीक्षा का परिणाम घोषित कर दिया है। परीक्षा में शामिल हुए उम्मीदवार अब आधिकारिक वेबसाइट पर जाकर अपना स्कोरकार्ड चेक और डाउनलोड कर सकते हैं। सीए इंटर मई का रिजल्ट घोषित; शार्दुल शेखर बने ऑल इंडिया टॉपर, 88.50% अंकों के साथ मारी बाजी।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीए इंटर मई का रिजल्ट घोषित; शार्दुल शेखर बने ऑल इंडिया टॉपर, 88.50% अंकों के साथ मारी बाजी",
-          "summary": "इंस्टीट्यूट ऑफ चार्टर्ड अकाउंटेंट्स ऑफ इंडिया ने सीए इंटरमीडिएट मई 2026 परीक्षा के परिणाम घोषित ICAI CA Inter Result OUT: इंस्टीट्यूट ऑफ चार्टर्ड अकाउंटेंट्स ऑफ इंडिया ने सीए इंटरमीडिएट मई 2026 परीक्षा का परिणाम घोषित कर दिया है। परीक्षा में शामिल हुए उम्मीदवार अब आधिकारिक वेबसाइट पर जाकर अपना स्कोरकार्ड चेक और डाउनलोड कर सकते हैं। सीए इंटर मई का रिजल्ट घोषित; शार्दुल शेखर बने ऑल इंडिया टॉपर, 88.50% अंकों के साथ मारी बाजी।",
-          "region": "यूरोप और रूस"
         }
       }
     },
@@ -686,74 +434,326 @@
       }
     },
     {
-      "title": "'बहुत बूढ़े हो गए...बहुत धीमे पड़ गए!' रोनाल्डो ने रिकॉर्डतोड़ प्रदर्शन से आलोचकों का किया मुंह बंद",
-      "url": "https://www.amarujala.com/sports/football/too-old-too-slow-ronaldo-answers-critics-with-two-goals-and-a-historic-record-2026-06-24",
-      "source": "Amar Ujala Breaking",
+      "title": "‘मिसाइलों के बिना हमारा हाल भी होता गाज़ा जैसा’, ईरान ने किया साफ…मिसाइल प्रोग्राम नहीं है अमेरिका",
+      "url": "https://www.patrika.com/world-news/iran-would-be-like-gaza-without-missiles-masoud-pezeshkian-says-missile-program-not-part-of-deal-with-us-20692000",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-24T05:38:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/cristiano-ronaldo-portugal-vs-uzbekistan-fifa-world-cup-2026-ronaldo-record-cristiano-ronaldo-go_e73dd7c38e10de39715109ffdc0c86b2.jpeg?w=1200&dpr=1.0",
-      "summary": "क्रिस्टियानो रोनाल्डो ने उज्बेकिस्तान के खिलाफ दो गोल करके आलोचकों को जवाब दिया। डीआर कांगो के खिलाफ उनके प्रदर्शन की आलोचना हुई थी। उन्होंने रिकॉर्ड बनाते हुए अपनी टीम को जीत दिलाई। डीआर कांगो के खिलाफ फीके प्रदर्शन के बाद आलोचनाओं से घिरे क्रिस्टियानो रोनाल्डो ने उज्बेकिस्तान के खिलाफ विश्व कप मुकाबले में दो गोल दागकर शानदार जवाब दिया।",
+      "published_at": "2026-06-24T03:45:57+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/pezeshkian-.webp",
+      "summary": "ईरानी राष्ट्रपति मसूद पेज़ेशकियान ने पाकिस्तान दौरे के दौरान कहा कि मिसाइलों के बिना भी ईरान की स्थिति गाज़ा जैसी हो सकती है। उन्होंने यह भी कहा कि ईरान का मिसाइल प्रोग्राम अमेरिका के साथ शांति समझौते का हिस्सा नहीं है। पेज़ेशकियान ने पाकिस्तानी प्रधानमंत्री शहबाज शरीफ और राष्ट्रपति आसिफ अली जरदारी से मुलाकात की। इस दौरे के दौरान पेज़ेशकियान ने पाकिस्तानी प्रधानमंत्री शहबाज शरीफ (Shehbaz Sharif) और राष्ट्रपति आसिफ अली जरदारी (Asif Ali Zardari) से मुलाकात की।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'बहुत बूढ़े हो गए...बहुत धीमे पड़ गए!' रोनाल्डो ने रिकॉर्डतोड़ प्रदर्शन से आलोचकों का किया मुंह बंद",
-          "summary": "क्रिस्टियानो रोनाल्डो ने उज्बेकिस्तान के खिलाफ दो गोल करके आलोचकों को जवाब दिया। डीआर कांगो के खिलाफ उनके प्रदर्शन की आलोचना हुई थी। उन्होंने रिकॉर्ड बनाते हुए अपनी टीम को जीत दिलाई। डीआर कांगो के खिलाफ फीके प्रदर्शन के बाद आलोचनाओं से घिरे क्रिस्टियानो रोनाल्डो ने उज्बेकिस्तान के खिलाफ विश्व कप मुकाबले में दो गोल दागकर शानदार जवाब दिया।",
+          "title": "‘मिसाइलों के बिना हमारा हाल भी होता गाज़ा जैसा’, ईरान ने किया साफ…मिसाइल प्रोग्राम नहीं है अमेरिका",
+          "summary": "ईरानी राष्ट्रपति मसूद पेज़ेशकियान ने पाकिस्तान दौरे के दौरान कहा कि मिसाइलों के बिना भी ईरान की स्थिति गाज़ा जैसी हो सकती है। उन्होंने यह भी कहा कि ईरान का मिसाइल प्रोग्राम अमेरिका के साथ शांति समझौते का हिस्सा नहीं है। पेज़ेशकियान ने पाकिस्तानी प्रधानमंत्री शहबाज शरीफ और राष्ट्रपति आसिफ अली जरदारी से मुलाकात की। इस दौरे के दौरान पेज़ेशकियान ने पाकिस्तानी प्रधानमंत्री शहबाज शरीफ (Shehbaz Sharif) और राष्ट्रपति आसिफ अली जरदारी (Asif Ali Zardari) से मुलाकात की।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "संयुक्त राष्ट्र में पाकिस्तान की खोली पोल, कहा- यूएन के मंच का फायदे के लिए इस्तेमाल कर रहा",
-      "url": "https://www.amarujala.com/india-news/india-s-blunt-message-pakistan-exposed-at-the-un-accused-of-exploiting-the-un-platform-for-its-own-gain-2026-06-24",
-      "source": "Amar Ujala Breaking",
+      "title": "ईरान-अमेरिका की वार्ता होगी नाकाम? न्यूक्लियर मॉनिटरिंग पर फंसा पेच, कौन झूठा और कौन सच्चा?",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-deal-trump-claims-iran-agreed-to-nuclear-inspections-but-tehran-denies-threatens-to-cancel-talks-ws-l-10597758.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-24T05:29:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/bharata-paratanathha-pa-harasha_b934ed428ce12eb9aa47226c2a8ca352.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत ने संयुक्त राष्ट्र में पाकिस्तान पर आरोप लगाया कि वह अपने फायदे के लिए मंच का इस्तेमाल कर रहा है। पाकिस्तान की ओर से इस पर कोई प्रतिक्रिया नहीं आई है। संयुक्त राष्ट्र में पाकिस्तान की खोली पोल, कहा- यूएन के मंच का फायदे के लिए इस्तेमाल कर रहा।",
+      "published_at": "2026-06-24T03:19:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/DONALD-TRUMP-30-2026-06-06b7db77c034d8de39c030d07e3a3fa1-1200x800.jpg",
+      "summary": "ईरान ने परमाणु निगरानी के नए नियमों को मानने से इनकार कर दिया है। इसके बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने स्विट्जरलैंड में हुई वार्ता को रद्द करने की धमकी दी है। तेहरान और वाशिंगटन के बीच इस मुद्दे पर फिर से तनाव बढ़ गया है। परमाणु समझौते पर बातचीत खतरे में नजर आ रही है। Iran-US Nuclear Inspection: ईरान-अमेरिका के बीच जो स्विट्जरलैंड में वार्ता हुई, उसके तुरंत बाद ही ट्रंप बातचीत को कैंसिल करने की धमकी दे रहे हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान-अमेरिका की वार्ता होगी नाकाम? न्यूक्लियर मॉनिटरिंग पर फंसा पेच, कौन झूठा और कौन सच्चा?",
+          "summary": "ईरान ने परमाणु निगरानी के नए नियमों को मानने से इनकार कर दिया है। इसके बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने स्विट्जरलैंड में हुई वार्ता को रद्द करने की धमकी दी है। तेहरान और वाशिंगटन के बीच इस मुद्दे पर फिर से तनाव बढ़ गया है। परमाणु समझौते पर बातचीत खतरे में नजर आ रही है। Iran-US Nuclear Inspection: ईरान-अमेरिका के बीच जो स्विट्जरलैंड में वार्ता हुई, उसके तुरंत बाद ही ट्रंप बातचीत को कैंसिल करने की धमकी दे रहे हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज स्ट्रेट में अभी भी फंसे 11,000 से ज़्यादा नाविक, निकालने के प्लान पर काम शुरू",
+      "url": "https://www.patrika.com/world-news/more-than-11000-sailors-stranded-in-strait-of-hormuz-rescue-operation-plan-starts-20691874",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-24T03:04:23+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/stranded-ships-in-strait-of-hormuz.webp",
+      "summary": "ईरान और अमेरिका के बीच शांति समझौते के बाद होर्मुज जलडमरूमध्य खुल गया है। अमेरिकी नौसेना ने अपनी नाकेबंदी हटा ली है, जिससे जहाजों की आवाजाही बढ़ गई है। हालांकि, युद्ध से पहले की सामान्य स्थिति बहाल होने में अभी समय लगेगा। युद्ध के कारण अभी भी 11,000 से अधिक नाविक जलडमरूमध्य में फंसे हुए हैं। अमेरिकी नेवी ने अपनी नाकेबंदी भी हटा दी है, जिसके बाद जहाजों की आवाजाही भी बढ़ गई है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज स्ट्रेट में अभी भी फंसे 11,000 से ज़्यादा नाविक, निकालने के प्लान पर काम शुरू",
+          "summary": "ईरान और अमेरिका के बीच शांति समझौते के बाद होर्मुज जलडमरूमध्य खुल गया है। अमेरिकी नौसेना ने अपनी नाकेबंदी हटा ली है, जिससे जहाजों की आवाजाही बढ़ गई है। हालांकि, युद्ध से पहले की सामान्य स्थिति बहाल होने में अभी समय लगेगा। युद्ध के कारण अभी भी 11,000 से अधिक नाविक जलडमरूमध्य में फंसे हुए हैं। अमेरिकी नेवी ने अपनी नाकेबंदी भी हटा दी है, जिसके बाद जहाजों की आवाजाही भी बढ़ गई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मिसाइलों के दम पर बचा ईरान: राष्ट्रपति पेजेशकियन बोले- US के साथ समझौते में शामिल नहीं हमारा मिसाइल",
+      "url": "https://www.amarujala.com/world/iran-missile-program-not-part-of-us-iran-deal-says-iran-president-masoud-pezeshkian-us-iran-agreement-2026-06-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-24T02:11:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/masatha-pajashakayana-iirana-rashhatarapata_9ec34e3b4c2e5397c7cc6b4669d5c4b9.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरान के राष्ट्रपति मसूद पेजेशकियन ने कहा कि उनका मिसाइल कार्यक्रम अमेरिका के साथ समझौते में शामिल नहीं होगा। मिसाइलों के दम पर बचा ईरान: राष्ट्रपति पेजेशकियन बोले- US के साथ समझौते में शामिल नहीं हमारा मिसाइल।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मिसाइलों के दम पर बचा ईरान: राष्ट्रपति पेजेशकियन बोले- US के साथ समझौते में शामिल नहीं हमारा मिसाइल",
+          "summary": "ईरान के राष्ट्रपति मसूद पेजेशकियन ने कहा कि उनका मिसाइल कार्यक्रम अमेरिका के साथ समझौते में शामिल नहीं होगा। मिसाइलों के दम पर बचा ईरान: राष्ट्रपति पेजेशकियन बोले- US के साथ समझौते में शामिल नहीं हमारा मिसाइल।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "डोनाल्ड ट्रंप को बड़ा झटका, अमेरिकी संसद में ईरान के खिलाफ जंग रोकने का प्रस्ताव पारित",
+      "url": "https://hindi.news18.com/world/america-us-president-donald-trump-suffers-setback-on-iran-policy-as-us-congress-passes-military-resolution-ws-l-10597788.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-24T01:34:49+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/donald-trumphealth-2026-06-efa919ea013fc1f25d6a461ba96bde82-1200x800.jpg",
+      "summary": "अमेरिकी संसद ने ईरान के खिलाफ जंग रोकने का प्रस्ताव पारित किया, जो डोनाल्ड ट्रंप के लिए बड़ा झटका है। Donald Trump Suffers Setback On Iran Policy: अमेरिकी सीनेट ने डोनाल्ड ट्रंप की ईरान नीति के खिलाफ गैर बाध्यकारी प्रस्ताव पास किया है. यह सीधे तौर पर अमेरिकी राष्ट्रपति के खिलाफ अमेरिका में बन रही राय को दिखाता है. वैसे यह प्रस्ताव बाध्यकारी नहीं है लेकिन यह सीधे तौर पर अमेरिका राष्ट्रपति की नौतिक हार है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डोनाल्ड ट्रंप को बड़ा झटका, अमेरिकी संसद में ईरान के खिलाफ जंग रोकने का प्रस्ताव पारित",
+          "summary": "अमेरिकी संसद ने ईरान के खिलाफ जंग रोकने का प्रस्ताव पारित किया, जो डोनाल्ड ट्रंप के लिए बड़ा झटका है। Donald Trump Suffers Setback On Iran Policy: अमेरिकी सीनेट ने डोनाल्ड ट्रंप की ईरान नीति के खिलाफ गैर बाध्यकारी प्रस्ताव पास किया है. यह सीधे तौर पर अमेरिकी राष्ट्रपति के खिलाफ अमेरिका में बन रही राय को दिखाता है. वैसे यह प्रस्ताव बाध्यकारी नहीं है लेकिन यह सीधे तौर पर अमेरिका राष्ट्रपति की नौतिक हार है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत-अमेरिका के बीच ऐतिहासिक व्यापार समझौता अंतिम चरण में, जल्द हो सकता है ऐलान",
+      "url": "https://www.patrika.com/world-news/india-us-historic-trade-deal-nears-final-stage-bilateral-trade-target-500-billion-by-2030-20691780",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-24T01:26:14+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/India-US-Trade-Deal.jpg",
+      "summary": "भारत और अमेरिका के बीच ऐतिहासिक व्यापार समझौता अंतिम चरण में है, जल्द ही इसका ऐलान हो सकता है। India-US Trade Deal: भारत और अमेरिका के बीच प्रस्तावित ऐतिहासिक व्यापार समझौता अब अंतिम चरण में पहुंच गया है। इस बात की जानकारी अमेरिकी विदेश मंत्रालय के दक्षिण और मध्य एशिया मामलों की ब्यूरो उप सहायक सचिव बेथनी पॉलोस मॉरिसन ने दी है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "संयुक्त राष्ट्र में पाकिस्तान की खोली पोल, कहा- यूएन के मंच का फायदे के लिए इस्तेमाल कर रहा",
-          "summary": "भारत ने संयुक्त राष्ट्र में पाकिस्तान पर आरोप लगाया कि वह अपने फायदे के लिए मंच का इस्तेमाल कर रहा है। पाकिस्तान की ओर से इस पर कोई प्रतिक्रिया नहीं आई है। संयुक्त राष्ट्र में पाकिस्तान की खोली पोल, कहा- यूएन के मंच का फायदे के लिए इस्तेमाल कर रहा।",
+          "title": "भारत-अमेरिका के बीच ऐतिहासिक व्यापार समझौता अंतिम चरण में, जल्द हो सकता है ऐलान",
+          "summary": "भारत और अमेरिका के बीच ऐतिहासिक व्यापार समझौता अंतिम चरण में है, जल्द ही इसका ऐलान हो सकता है। India-US Trade Deal: भारत और अमेरिका के बीच प्रस्तावित ऐतिहासिक व्यापार समझौता अब अंतिम चरण में पहुंच गया है। इस बात की जानकारी अमेरिकी विदेश मंत्रालय के दक्षिण और मध्य एशिया मामलों की ब्यूरो उप सहायक सचिव बेथनी पॉलोस मॉरिसन ने दी है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "सिंगापुर में भारतीय-बांग्लादेशी मजदूरों का हंगामा: महीनों से नहीं मिला वेतन, रोजमर्रा का खर्च चलाना",
-      "url": "https://www.amarujala.com/world/uproar-by-indian-bangladeshi-workers-in-singapore-no-wages-received-for-months-meeting-daily-expense-difficult-2026-06-24",
-      "source": "Amar Ujala Breaking",
+      "title": "पाकिस्तानी पीएम शहबाज़ शरीफ जाएंगे तेहरान, ईरान-अमेरिका शांति समझौते के बाद पहला दौरा",
+      "url": "https://www.patrika.com/world-news/pakistan-pm-shehbaz-sharif-to-visit-iran-next-week-20691773",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-24T05:21:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/sagapara-ma-fasa-majathara_3c1b520a92b0d9490fb5483c7daf5c65.jpeg?w=1200&dpr=1.0",
-      "summary": "सिंगापुर में भारतीय-बांग्लादेशी मजदूरों ने वेतन नहीं मिलने पर हंगामा किया। सिंगापुर में भारतीय-बांग्लादेशी मजदूरों का हंगामा: महीनों से नहीं मिला वेतन, रोजमर्रा का खर्च चलाना।",
+      "published_at": "2026-06-24T01:24:54+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/sharif-with-pezeshkian.webp",
+      "summary": "पाकिस्तानी प्रधानमंत्री शहबाज शरीफ अगले हफ्ते ईरान का दौरा करेंगे, यह उनका पहला दौरा होगा। पाकिस्तान (Pakistan) के प्रधानमंत्री शहबाज शरीफ (Shehbaz Sharif) अगले हफ्ते ईरान (Iran) दौरे पर जाएंगे। मंगलवार को ईरानी राष्ट्रपति मसूद पेज़ेशकियान (Masoud Pezeshkian) के एक दिवसीय पाकिस्तान दौरे के दौरान शरीफ ने जॉइंट प्रेस कॉन्फ्रेंस करते हुए अपने ईरान दौरे की जानकारी दी और बताया कि वह राजधानी तेहरान का दौरा करेंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तानी पीएम शहबाज़ शरीफ जाएंगे तेहरान, ईरान-अमेरिका शांति समझौते के बाद पहला दौरा",
+          "summary": "पाकिस्तानी प्रधानमंत्री शहबाज शरीफ अगले हफ्ते ईरान का दौरा करेंगे, यह उनका पहला दौरा होगा। पाकिस्तान (Pakistan) के प्रधानमंत्री शहबाज शरीफ (Shehbaz Sharif) अगले हफ्ते ईरान (Iran) दौरे पर जाएंगे। मंगलवार को ईरानी राष्ट्रपति मसूद पेज़ेशकियान (Masoud Pezeshkian) के एक दिवसीय पाकिस्तान दौरे के दौरान शरीफ ने जॉइंट प्रेस कॉन्फ्रेंस करते हुए अपने ईरान दौरे की जानकारी दी और बताया कि वह राजधानी तेहरान का दौरा करेंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'...कोई समझौता नहीं होगा', शांति वार्ता के बीच ईरान पर फिर भड़के ट्रंप, परमाणु जांच पर दिया",
+      "url": "https://www.abplive.com/news/world/donald-trump-threat-to-iran-for-nuclear-inspections-amid-peace-talk-said-no-deal-without-it-3149785",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-24T01:15:00+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/24/1579b1c29651dbf318092444a0d8347f17822644568761368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चेतावनी दी है कि परमाणु निरीक्षण के बिना ईरान के साथ कोई समझौता नहीं होगा। स्विट्जरलैंड में पहले राउंड की बातचीत के बाद परमाणु जांच को लेकर अमेरिका और ईरान के बीच तल्खी बढ़ती दिख रही है. शांति वार्ता के बीच डोनाल्ड ट्रंप ने मंगलवार (23 जून) को चेतावनी दी है कि परमाणु निरीक्षण के बिना कोई समझौता नहीं होगा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'...कोई समझौता नहीं होगा', शांति वार्ता के बीच ईरान पर फिर भड़के ट्रंप, परमाणु जांच पर दिया",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चेतावनी दी है कि परमाणु निरीक्षण के बिना ईरान के साथ कोई समझौता नहीं होगा। स्विट्जरलैंड में पहले राउंड की बातचीत के बाद परमाणु जांच को लेकर अमेरिका और ईरान के बीच तल्खी बढ़ती दिख रही है. शांति वार्ता के बीच डोनाल्ड ट्रंप ने मंगलवार (23 जून) को चेतावनी दी है कि परमाणु निरीक्षण के बिना कोई समझौता नहीं होगा.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जर्मनी में रेल सेवाएं ठप, संचार प्रणाली में आई खराबी; स्टेशनों पर फंसे हजारों यात्री",
+      "url": "https://www.amarujala.com/world/germany-rail-services-halted-after-gsm-r-communication-system-failure-2026-06-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-24T00:10:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/germany-trains_042ec7d8122c96beb2bb4fd5a402d4eb.jpeg?w=1200&dpr=1.0",
+      "summary": "जर्मनी में रेल सेवाएं एक संचार प्रणाली की खराबी के कारण रुक गईं। जर्मनी में रेल सेवाएं ठप, संचार प्रणाली में आई खराबी; स्टेशनों पर फंसे हजारों यात्री।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जर्मनी में रेल सेवाएं ठप, संचार प्रणाली में आई खराबी; स्टेशनों पर फंसे हजारों यात्री",
+          "summary": "जर्मनी में रेल सेवाएं एक संचार प्रणाली की खराबी के कारण रुक गईं। जर्मनी में रेल सेवाएं ठप, संचार प्रणाली में आई खराबी; स्टेशनों पर फंसे हजारों यात्री।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "जर्मनी में संचार प्रणाली में आई खराबी, देशभर में रोकी गईं ट्रेनें",
+      "url": "https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-trains-halted-across-germany-2026-06-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-23T23:53:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
+      "summary": "जर्मनी में संचार प्रणाली में खराबी के कारण देशभर में ट्रेन सेवाएं रोक दी गईं। जर्मनी में संचार प्रणाली में आई खराबी, देशभर में रोकी गईं ट्रेनें।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जर्मनी में संचार प्रणाली में आई खराबी, देशभर में रोकी गईं ट्रेनें",
+          "summary": "जर्मनी में संचार प्रणाली में खराबी के कारण देशभर में ट्रेन सेवाएं रोक दी गईं। जर्मनी में संचार प्रणाली में आई खराबी, देशभर में रोकी गईं ट्रेनें।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'परमाणु निरीक्षण से किया इनकार तो रद्द कर दूंगा बैठकें', ट्रंप ने फिर दी ईरान को धमकी",
+      "url": "https://www.amarujala.com/world/donald-trump-says-would-cancel-meetings-with-iran-if-tehran-denies-iaea-nuclear-inspections-west-asia-crisis-2026-06-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-23T23:22:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/10/donald-trump_ef2c0f08f4b33ef48036ab2cb294a396.png?w=1200&dpr=1.0",
+      "summary": "डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है कि यदि तेहरान अंतरराष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) के परमाणु निरीक्षण से इनकार करता है तो वह बैठकों को रद्द कर देंगे। यह बयान पश्चिम एशिया में शांति समझौते को लेकर चल रही चिंताओं के बीच आया है। ट्रंप ने स्पष्ट किया कि ईरान के परमाणु कार्यक्रम पर पारदर्शिता बनाए रखना उनकी बैठकों के लिए एक महत्वपूर्ण शर्त है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'परमाणु निरीक्षण से किया इनकार तो रद्द कर दूंगा बैठकें', ट्रंप ने फिर दी ईरान को धमकी",
+          "summary": "डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है कि यदि तेहरान अंतरराष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) के परमाणु निरीक्षण से इनकार करता है तो वह बैठकों को रद्द कर देंगे। यह बयान पश्चिम एशिया में शांति समझौते को लेकर चल रही चिंताओं के बीच आया है। ट्रंप ने स्पष्ट किया कि ईरान के परमाणु कार्यक्रम पर पारदर्शिता बनाए रखना उनकी बैठकों के लिए एक महत्वपूर्ण शर्त है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी सीनेट ने ट्रंप को दिया झटका, ईरान के खिलाफ सैन्य कार्रवाई रोकने वाला प्रस्ताव पारित",
+      "url": "https://www.patrika.com/world-news/us-iran-war-america-senate-passes-resolution-to-halt-military-action-against-iraqi-army-20691741",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-23T22:15:16+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/donald-trump-6.webp",
+      "summary": "अमेरिकी सीनेट ने ईरान के खिलाफ सैन्य कार्रवाई रोकने वाला प्रस्ताव पारित किया। यह प्रस्ताव 50-48 मतों से पारित हुआ। इसने ट्रंप प्रशासन से ईरान के खिलाफ सैन्य कार्रवाई समाप्त करने की मांग की। प्रस्ताव में अमेरिकी बलों को संघर्ष से वापस बुलाने की भी बात कही गई। इसे ट्रंप की पश्चिम एशिया नीति पर कांग्रेस की फटकार के तौर पर देखा जा रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी सीनेट ने ट्रंप को दिया झटका, ईरान के खिलाफ सैन्य कार्रवाई रोकने वाला प्रस्ताव पारित",
+          "summary": "अमेरिकी सीनेट ने ईरान के खिलाफ सैन्य कार्रवाई रोकने वाला प्रस्ताव पारित किया। यह प्रस्ताव 50-48 मतों से पारित हुआ। इसने ट्रंप प्रशासन से ईरान के खिलाफ सैन्य कार्रवाई समाप्त करने की मांग की। प्रस्ताव में अमेरिकी बलों को संघर्ष से वापस बुलाने की भी बात कही गई। इसे ट्रंप की पश्चिम एशिया नीति पर कांग्रेस की फटकार के तौर पर देखा जा रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पीयूष गोयल का बड़ा दावा! 99% टैरिफ खत्म, ब्रिटेन का बाजार भारतीयों के लिए खुला",
+      "url": "https://www.abplive.com/news/india/piyush-goyal-says-india-uk-trade-deal-will-unlock-major-opportunities-for-farmers-msmes-and-exporters-3149553",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-23T21:19:19+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/23/c5f1921ca6555c464aa5438f47c9872517822108796371431_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "केंद्रीय वाणिज्य एवं उद्योग मंत्री पीयूष गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता (सीईटीए) किसानों, कारोबारियों और आम नागरिकों के हितों को ध्यान में रखकर तैयार किया गया है। उन्होंने बताया कि इस समझौते के तहत 99% टैरिफ खत्म हो जाएंगे। ब्रिटेन के प्रीमियम बाजार तक पहुंच मिलने से महिला उद्यमियों, युवाओं, स्टार्टअप्स और एमएसएमई के लिए वैश्विक अवसर बढ़ेंगे।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीयूष गोयल का बड़ा दावा! 99% टैरिफ खत्म, ब्रिटेन का बाजार भारतीयों के लिए खुला",
+          "summary": "केंद्रीय वाणिज्य एवं उद्योग मंत्री पीयूष गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता (सीईटीए) किसानों, कारोबारियों और आम नागरिकों के हितों को ध्यान में रखकर तैयार किया गया है। उन्होंने बताया कि इस समझौते के तहत 99% टैरिफ खत्म हो जाएंगे। ब्रिटेन के प्रीमियम बाजार तक पहुंच मिलने से महिला उद्यमियों, युवाओं, स्टार्टअप्स और एमएसएमई के लिए वैश्विक अवसर बढ़ेंगे।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "सर्जियो गोर ने भारत-अमेरिका ट्रेड डील पर दी ‘गुड न्यूज’, वित्त मंत्री सीतारमण से मिलने के बाद बड़ा",
+      "url": "https://hindi.news18.com/world/america-india-us-trade-deal-sergio-gor-shares-big-update-after-american-delegation-meets-finance-minister-nirmala-sitharaman-10597597.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-23T21:15:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Sergio-Gor-2026-06-ee907968f6938230762357db99ac4dd3-1200x800.jpg",
+      "summary": "सर्जियो गोर ने भारत-अमेरिका ट्रेड डील पर सकारात्मक संकेत दिए, वित्त मंत्री सीतारमण से मिलने के बाद। भारत और अमेरिका के बीच चल रही ट्रेड डील की बातचीत अब एक बहुत बड़े मुकाम की तरफ बढ़ रही है. दिल्ली में बैठकों का एक बड़ा सिलसिला शुरू हो चुका है, जहां केंद्रीय वित्त मंत्री निर्मला सीतारमण ने अमेरिकी ट्रेड डेलिगेशन के साथ आमने-सामने बैठकर एक बेहद महत्वपूर्ण मुलाकात की है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सिंगापुर में भारतीय-बांग्लादेशी मजदूरों का हंगामा: महीनों से नहीं मिला वेतन, रोजमर्रा का खर्च चलाना",
-          "summary": "सिंगापुर में भारतीय-बांग्लादेशी मजदूरों ने वेतन नहीं मिलने पर हंगामा किया। सिंगापुर में भारतीय-बांग्लादेशी मजदूरों का हंगामा: महीनों से नहीं मिला वेतन, रोजमर्रा का खर्च चलाना।",
+          "title": "सर्जियो गोर ने भारत-अमेरिका ट्रेड डील पर दी ‘गुड न्यूज’, वित्त मंत्री सीतारमण से मिलने के बाद बड़ा",
+          "summary": "सर्जियो गोर ने भारत-अमेरिका ट्रेड डील पर सकारात्मक संकेत दिए, वित्त मंत्री सीतारमण से मिलने के बाद। भारत और अमेरिका के बीच चल रही ट्रेड डील की बातचीत अब एक बहुत बड़े मुकाम की तरफ बढ़ रही है. दिल्ली में बैठकों का एक बड़ा सिलसिला शुरू हो चुका है, जहां केंद्रीय वित्त मंत्री निर्मला सीतारमण ने अमेरिकी ट्रेड डेलिगेशन के साथ आमने-सामने बैठकर एक बेहद महत्वपूर्ण मुलाकात की है.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "हत्यारे न करते ये गलती तो कभी न खुलता राज, ऐसे रची गई केतन की हत्या की साजिश",
-      "url": "https://www.amarujala.com/india-news/maharashtra-pune-ketan-agarwal-death-murder-conspiracy-case-lohagad-fort-siya-goyal-chetan-chaudhary-arrested-2026-06-24",
-      "source": "Amar Ujala Breaking",
+      "title": "ईरान के खिलाफ सैन्य कार्रवाई नहीं चाहती सीनेट, पहली बार 'वॉर पावर्स' प्रस्ताव पारित",
+      "url": "https://www.amarujala.com/world/us-senate-for-first-time-approves-war-powers-resolution-in-rebuke-to-trump-over-iran-war-2026-06-24",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-06-24T05:15:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/katana-hatayakada_eada9ddba47a3ffae351abd6af8e60bc.jpeg?w=1200&dpr=1.0",
-      "summary": "केतन की हत्या की साजिश रची गई थी। हत्यारे न करते ये गलती तो कभी न खुलता राज, ऐसे रची गई केतन की हत्या की साजिश।",
-      "region": "World",
+      "published_at": "2026-06-23T20:43:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/17/donald-trump-us-us-iran-deal_d8ae78c032b905ae0ffb1c3cfe50eb98.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी सीनेट ने ईरान के खिलाफ सैन्य कार्रवाई के खिलाफ 'वॉर पावर्स' प्रस्ताव पारित किया। ईरान के खिलाफ सैन्य कार्रवाई नहीं चाहती सीनेट, पहली बार 'वॉर पावर्स' प्रस्ताव पारित।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हत्यारे न करते ये गलती तो कभी न खुलता राज, ऐसे रची गई केतन की हत्या की साजिश",
-          "summary": "केतन की हत्या की साजिश रची गई थी। हत्यारे न करते ये गलती तो कभी न खुलता राज, ऐसे रची गई केतन की हत्या की साजिश।",
-          "region": "दुनिया"
+          "title": "ईरान के खिलाफ सैन्य कार्रवाई नहीं चाहती सीनेट, पहली बार 'वॉर पावर्स' प्रस्ताव पारित",
+          "summary": "अमेरिकी सीनेट ने ईरान के खिलाफ सैन्य कार्रवाई के खिलाफ 'वॉर पावर्स' प्रस्ताव पारित किया। ईरान के खिलाफ सैन्य कार्रवाई नहीं चाहती सीनेट, पहली बार 'वॉर पावर्स' प्रस्ताव पारित।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की सैन्य नीति को झटका?: 'कांग्रेस की मंजूरी के बिना ईरान में सैन्य कार्रवाई नहीं', सीनेट का",
+      "url": "https://www.amarujala.com/world/us-senate-passes-resolution-calling-for-end-to-donald-trump-s-military-action-against-iran-war-powers-resoluti-2026-06-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-23T20:37:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/us-senate_a7c77138849e3d0e305189fc75e5394d.jpeg?w=1200&dpr=1.0",
+      "summary": "सीनेट ने ट्रंप को संदेश दिया कि ईरान में सैन्य कार्रवाई के लिए कांग्रेस की मंजूरी जरूरी है। ट्रंप की सैन्य नीति को झटका?: 'कांग्रेस की मंजूरी के बिना ईरान में सैन्य कार्रवाई नहीं', सीनेट का।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की सैन्य नीति को झटका?: 'कांग्रेस की मंजूरी के बिना ईरान में सैन्य कार्रवाई नहीं', सीनेट का",
+          "summary": "सीनेट ने ट्रंप को संदेश दिया कि ईरान में सैन्य कार्रवाई के लिए कांग्रेस की मंजूरी जरूरी है। ट्रंप की सैन्य नीति को झटका?: 'कांग्रेस की मंजूरी के बिना ईरान में सैन्य कार्रवाई नहीं', सीनेट का।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अबू धाबी से फुजैराह सिर्फ 105 मिनट में! UAE के रेगिस्तान में पहली बार चलने जा रही 200 KMPH स्पीड",
+      "url": "https://hindi.news18.com/world/middle-east-abu-dhabi-to-fujairah-200-kmph-passenger-train-will-launch-june-end-2-photogallery-10597555.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-23T19:45:39+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Dubai-Train-2026-06-8f6df3254166994ea8417619ab8f6e42-1200x800.jpg",
+      "summary": "संयुक्त अरब अमीरात में अबू धाबी से फुजैराह के बीच 200 किमी प्रति घंटे की रफ्तार से ट्रेन सेवा शुरू होगी। संयुक्त अरब अमीरात 30 जून को अपनी पहली पैसेंजर ट्रेन सेवा शुरू करने की तैयार कर ली है. इन ट्रेनों का संचालन अबू धाबी और फुजैराह के बीच किया जाएगा. एतिहाद रेल ने बताया कि यह सफर तय करने में 105 मिनट का समय लगेगा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अबू धाबी से फुजैराह सिर्फ 105 मिनट में! UAE के रेगिस्तान में पहली बार चलने जा रही 200 KMPH स्पीड",
+          "summary": "संयुक्त अरब अमीरात में अबू धाबी से फुजैराह के बीच 200 किमी प्रति घंटे की रफ्तार से ट्रेन सेवा शुरू होगी। संयुक्त अरब अमीरात 30 जून को अपनी पहली पैसेंजर ट्रेन सेवा शुरू करने की तैयार कर ली है. इन ट्रेनों का संचालन अबू धाबी और फुजैराह के बीच किया जाएगा. एतिहाद रेल ने बताया कि यह सफर तय करने में 105 मिनट का समय लगेगा.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘हॉर्मुज से 19 मिलियन बैरल तेल गुजरा’, परमाणु हथियार को लेकर ईरान से क्या हुई बात? ट्रंप ने दी नई",
+      "url": "https://www.patrika.com/world-news/19-million-barrels-of-oil-passed-through-hormuz-what-was-discussed-regarding-iran-nuclear-weapons-donald-trump-shares-20691695",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-23T18:25:35+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trumpppdd.webp",
+      "summary": "ट्रंप ने दावा किया कि स्ट्रेट ऑफ होर्मुज से 19 मिलियन बैरल तेल गुजरा, ईरान ने परमाणु निरीक्षण के लिए सहमति जताई। America-US war: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ जारी कूटनीतिक समझ को लेकर बड़ा दावा किया है। ट्रंप ने कहा कि सोमवार को स्ट्रेट ऑफ होर्मुज से 19 मिलियन बैरल तेल गुजरा, जो उनके मुताबिक एक रिकॉर्ड है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘हॉर्मुज से 19 मिलियन बैरल तेल गुजरा’, परमाणु हथियार को लेकर ईरान से क्या हुई बात? ट्रंप ने दी नई",
+          "summary": "ट्रंप ने दावा किया कि स्ट्रेट ऑफ होर्मुज से 19 मिलियन बैरल तेल गुजरा, ईरान ने परमाणु निरीक्षण के लिए सहमति जताई। America-US war: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ जारी कूटनीतिक समझ को लेकर बड़ा दावा किया है। ट्रंप ने कहा कि सोमवार को स्ट्रेट ऑफ होर्मुज से 19 मिलियन बैरल तेल गुजरा, जो उनके मुताबिक एक रिकॉर्ड है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
