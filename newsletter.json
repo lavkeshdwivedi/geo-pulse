@@ -1,12 +1,96 @@
 {
-  "generated_at": "2026-06-24T01:44:02.799494+00:00",
-  "article_count": 48,
-  "total_unique_count": 262,
+  "generated_at": "2026-06-24T03:14:11.189102+00:00",
+  "article_count": 50,
+  "total_unique_count": 275,
   "digest": {
-    "en": "Digital surveillance is taking a toll on activist mental health worldwide. Former Pinochet agents were convicted for the 1976 Washington DC car bomb murder. Kenyan minister halted construction of a US Ebola facility.",
-    "hi": "देहरादून में आज विभिन्न क्षेत्रों से जुड़ी हस्तियां जुटेंगी और देवभूमि के विकास पर चर्चा करेंगी। अमेरिकी संसद में ईरान के खिलाफ जंग रोकने का प्रस्ताव पारित हुआ है, वहीं रुबियो ने यूएई में कहा कि अभी और चर्चा की जरूरत है।"
+    "en": "Myanmar's military administration is consolidating power. Armenia's election focuses on war and peace issues. The EU's budget plans for global turmoil are under scrutiny.",
+    "hi": "व्यापार समझौता अंतिम चरण में पहुंच गया है, अमेरिकी अधिकारी ने कहा कि वे समझौते के बेहद करीब हैं। दूसरी ओर, AI के दौर में बढ़ते डेटा सेंटर पर्यावरण के लिए खतरा बताए जा रहे हैं, जिसका भारत पर भी असर पड़ेगा। किम जोंग उन ने दुनिया की चिंता बढ़ाते हुए नौसेना को परमाणु हथियारों से लैस करने की तैयारी की है।"
   },
   "articles": [
+    {
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Myanmar's military leader Min Aung Hlaing has transitioned from commander-in-chief to president. This follows a coup five years ago that removed the elected civilian government. Foreign governments are advised to calibrate their interactions with Naypyitaw. This approach aims to avoid granting undue legitimacy to the current administration. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11816420/pexels-photo-11816420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenia will hold its general election on 7 June. Foreign policy issues are dominating the campaign. This includes relations with Russia and the European Union. The election follows a period of significant geopolitical shifts for the country. The results could influence Armenia's future alliances and security arrangements. Armenians will head to the polls on 7 June for the country’s first general election since 2021.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Djibouti navigates shifting alliances in the Horn of Africa and the Red Sea. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea. Tiny Djibouti, and Its Prime Real Estate.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan began conveying proposals to end the war between the United States, Israel, and Iran Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task. A New Player in the Quest for a U. S.-Iran Breakthrough.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's next seven-year budget risks cuts to conflict prevention and aid The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Cait Conley wins Democratic primary to take on Republican Congressman Mike Lawler in New York",
+      "url": "https://www.thehindu.com/news/international/cait-conley-wins-democratic-primary-to-take-on-mike-lawler-new-york/article71140306.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-24T02:57:11+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/sa8xvh/article71140329.ece/alternates/LANDSCAPE_1200/HLhZPQfX0AAW8GZ.jpg",
+      "summary": "Cait Conley won the Democratic primary for New York's 17th Congressional District. She will challenge Republican incumbent Mike Lawler. Conley is a West Point graduate and combat veteran. Lawler faces a difficult national environment for Republicans. Ms. Lawler is running in an unfavorable environment for Republicans nationally, he has a strong track record of winning tough races. Cait Conley wins Democratic primary to take on Republican Congressman Mike Lawler in New York.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Asian stocks wobble after tech-led selloff, volatility risk highlighted",
+      "url": "https://www.channelnewsasia.com/business/asian-stocks-tech-selloff-volatility-risk-6205481",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-06-24T01:45:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Ja2ViGox--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-24T014509Z_2_LYNXMPEM5N03L_RTROPTP_3_CHINA-PROPERTY-DEBT-EVERGRANDE.JPG?itok=Ti1q_8aX",
+      "summary": "Asian stocks showed volatility following a tech-driven selloff. South Korean shares recovered 2.2 percent after a 10 percent drop. Japan's Nikkei index swung between gains and losses, closing down 0.8 percent. South Korean shares, which plunged 10 per cent on Tuesday in their sharpest one-day drop since March, jumped 2.2 per cent, while Japan's Nikkei was swinging between gains and losses, last down 0.8 per cent.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Digital surveillance is breaking activist mental health",
       "url": "https://globalvoices.org/2026/06/23/digital-surveillance-is-breaking-activist-mental-health/",
@@ -224,79 +308,433 @@
       "translations": {}
     },
     {
-      "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167779",
-      "source": "UN News",
+      "title": "व्यापार समझौता अंतिम चरण में पहुंचा, अमेरिकी अधिकारी ने कहा- हम समझौते के बेहद करीब",
+      "url": "https://www.amarujala.com/business/business-diary/us-deputy-assistant-secretary-says-on-india-us-trade-deal-we-are-very-very-close-piyush-goyal-2026-06-24",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-22T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Syria-04.jpg/image770x420cropped.jpg",
-      "summary": "United Nations officials told the Security Council that Syria shows signs of progress after a decade of crisis. They stated that acute needs persist and that support must increase for the country to move from survival to recovery. Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Vance Cites 'Good Progress' On Roadmap Toward Reaching Final Iran Deal",
-      "url": "https://www.rferl.org/a/iran-united-states-burgenstock-roadmap-war/33786170.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-22T09:16:39+00:00",
-      "image_url": "https://gdb.rferl.org/6e509399-11ff-439a-9154-c72342696fbf_cx0_cy1_cw0_w1200_h630.jpg",
-      "summary": "Vice President JD Vance reported good progress on a roadmap toward a final Iran deal within 60 days. Key points include safe passage through the Strait of Hormuz, an end to fighting in Lebanon, and IAEA inspector access. Vice President JD Vance said \"good progress\" was made in negotiations on a framework toward reaching a final peace deal within 60 days, including the guarantee of safe passage through the Strait of Hormuz, an end to fighting in Lebanon, and Tehran's acceptance of visits by IAEA inspectors.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Taliban Smashes Smartphones As Restrictions Deepen In Afghanistan",
-      "url": "https://www.rferl.org/a/taliban-smashes-smartphones-as-restrictions-deepen-in-afghanistan/33785685.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-21T15:46:11+00:00",
-      "image_url": "https://gdb.rferl.org/32840089-d675-4ccb-2bca-08decd1f5434_w1200_h630.jpg",
-      "summary": "The Taliban is restricting smartphone use for government employees in Afghanistan. Reports indicate civilian devices are also targeted in some areas, raising concerns the ban could expand nationwide. The Taliban has begun restricting the use of smartphones by government employees, although the order appears to be unevenly enforced across the country. In some areas, civilians' mobile devices have reportedly been targeted as well, sparking concern that the ban may eventually extend nationwide.",
+      "published_at": "2026-06-24T03:13:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/bthana-palsa-marasana-thakashhanae-oura-mathhaya-eshayaii-mamal-ka-byara-ka-amaraka-upa-sahayaka-sacava_9336d049e4ceca32cd0a46fa7ab30ff5.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी उप सहायक सचिव ने कहा कि भारत-अमेरिका व्यापार समझौता अंतिम चरण में है। दोनों देश समझौते के बहुत करीब हैं। यह समझौता दोनों देशों के बीच व्यापार संबंधों को मजबूत करेगा। व्यापार समझौता अंतिम चरण में पहुंचा, अमेरिकी अधिकारी ने कहा- हम समझौते के बेहद करीब।",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "व्यापार समझौता अंतिम चरण में पहुंचा, अमेरिकी अधिकारी ने कहा- हम समझौते के बेहद करीब",
+          "summary": "अमेरिकी उप सहायक सचिव ने कहा कि भारत-अमेरिका व्यापार समझौता अंतिम चरण में है। दोनों देश समझौते के बहुत करीब हैं। यह समझौता दोनों देशों के बीच व्यापार संबंधों को मजबूत करेगा। व्यापार समझौता अंतिम चरण में पहुंचा, अमेरिकी अधिकारी ने कहा- हम समझौते के बेहद करीब।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
-      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "source": "The Guardian",
+      "title": "AI के दौर में बढ़ते डेटा सेंटर क्यों बताए जा रहे पर्यावरण के लिए खतरा, भारत पर इसका कैसा होगा असर?",
+      "url": "https://www.amarujala.com/india-news/why-are-growing-data-centres-in-the-ai-era-being-seen-as-an-environmental-threat-what-could-it-mean-for-india-2026-06-23",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-21T08:00:24+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/1d92facf72d217c82b8c9ead906a9dd7f75db631/435_421_4473_3579/master/4473.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0af6d5e379212513ef7b1ad946bfe398",
-      "summary": "Twenty thousand runners participated in South Africa's Comrades ultramarathon. The event, which occurs annually in June, is described as the world's largest ultramarathon. For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades raceIn the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the haunting swell of Shosholoza, first sung by Zimbabwean migrant workers in South Africa’s goldmines.",
+      "published_at": "2026-06-24T03:11:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/data-satara-ka-lkara-bugdha-thava_aa0c3ba6f9fff3565cca732ff1452771.jpeg?w=1200&dpr=1.0",
+      "summary": "कृत्रिम बुद्धिमत्ता (AI) के बढ़ते उपयोग से डेटा सेंटरों की मांग बढ़ रही है। ये डेटा सेंटर अधिक ऊर्जा की खपत करते हैं, जिससे पर्यावरण पर खतरा मंडरा रहा है। भारत में भी इसका असर देखने को मिल सकता है। Explainer: AI के दौर में बढ़ते डेटा सेंटर क्यों बताए जा रहे पर्यावरण के लिए खतरा, भारत पर इसका कैसा होगा असर?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "AI के दौर में बढ़ते डेटा सेंटर क्यों बताए जा रहे पर्यावरण के लिए खतरा, भारत पर इसका कैसा होगा असर?",
+          "summary": "कृत्रिम बुद्धिमत्ता (AI) के बढ़ते उपयोग से डेटा सेंटरों की मांग बढ़ रही है। ये डेटा सेंटर अधिक ऊर्जा की खपत करते हैं, जिससे पर्यावरण पर खतरा मंडरा रहा है। भारत में भी इसका असर देखने को मिल सकता है। Explainer: AI के दौर में बढ़ते डेटा सेंटर क्यों बताए जा रहे पर्यावरण के लिए खतरा, भारत पर इसका कैसा होगा असर?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान-अमेरिका की वार्ता होगी नाकाम? न्यूक्लियर मॉनिटरिंग पर फंसा पेच, कौन झूठा और कौन सच्चा?",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-deal-trump-claims-iran-agreed-to-nuclear-inspections-but-tehran-denies-threatens-to-cancel-talks-ws-l-10597758.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-24T03:05:58+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/DONALD-TRUMP-30-2026-06-06b7db77c034d8de39c030d07e3a3fa1-1200x800.jpg",
+      "summary": "ईरान और अमेरिका के बीच परमाणु निगरानी पर असहमति के कारण वार्ता विफल हो सकती है। तेहरान नए नियमों से इनकार कर रहा है, जिससे अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने बातचीत रद्द करने की धमकी दी है। Iran-US Nuclear Inspection: ईरान-अमेरिका के बीच जो स्विट्जरलैंड में वार्ता हुई, उसके तुरंत बाद ही ट्रंप बातचीत को कैंसिल करने की धमकी दे रहे हैं.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान-अमेरिका की वार्ता होगी नाकाम? न्यूक्लियर मॉनिटरिंग पर फंसा पेच, कौन झूठा और कौन सच्चा?",
+          "summary": "ईरान और अमेरिका के बीच परमाणु निगरानी पर असहमति के कारण वार्ता विफल हो सकती है। तेहरान नए नियमों से इनकार कर रहा है, जिससे अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने बातचीत रद्द करने की धमकी दी है। Iran-US Nuclear Inspection: ईरान-अमेरिका के बीच जो स्विट्जरलैंड में वार्ता हुई, उसके तुरंत बाद ही ट्रंप बातचीत को कैंसिल करने की धमकी दे रहे हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Severe thunderstorms sweep Europe and east Asia",
-      "url": "https://www.theguardian.com/environment/2026/jun/19/weather-tracker-severe-thunderstorms-europe-east-asia-heatwave-france",
-      "source": "The Guardian",
+      "title": "ग्रीन कार्ड धारकों की बढ़ीं मुश्किलें, अमेरिकी सुप्रीम कोर्ट का फैसला- अपराध किया तो मिलेगा देश",
+      "url": "https://www.amarujala.com/world/us-supreme-court-decision-eases-deportation-process-of-green-card-holders-accused-of-crime-2026-06-24",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-06-19T08:34:27+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/48cabc989aa39f3250858b9c9604445f1bc22bd5/0_0_4851_3881/master/4851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c41238055f10446aea65577d773e326a",
-      "summary": "Severe thunderstorms brought strong winds and heavy rain to the Balkans. Slovenia experienced widespread destruction from the storms, which developed due to lingering hot air over the Adriatic Sea and a southward plunging cold front. Strong winds and heavy rain batter Slovenia, while France experiences atypical heatwaveSevere thunderstorms swept across the Balkans last week, bringing widespread destruction to parts of the region.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-24T03:05:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/05/us-divided-supreme-court-rejects-trump-administrations-plea-to-freeze-foreign-aid_0704c156bbbbb3a5c217e6d6edbab6c0.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी सुप्रीम कोर्ट ने ग्रीन कार्ड धारकों के संबंध में एक फैसला सुनाया है। इसके अनुसार, अपराध करने वाले ग्रीन कार्ड धारकों को देश निकाला दिया जा सकता है, जिससे उनकी मुश्किलें बढ़ गई हैं। ग्रीन कार्ड धारकों की बढ़ीं मुश्किलें, अमेरिकी सुप्रीम कोर्ट का फैसला- अपराध किया तो मिलेगा देश।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ग्रीन कार्ड धारकों की बढ़ीं मुश्किलें, अमेरिकी सुप्रीम कोर्ट का फैसला- अपराध किया तो मिलेगा देश",
+          "summary": "अमेरिकी सुप्रीम कोर्ट ने ग्रीन कार्ड धारकों के संबंध में एक फैसला सुनाया है। इसके अनुसार, अपराध करने वाले ग्रीन कार्ड धारकों को देश निकाला दिया जा सकता है, जिससे उनकी मुश्किलें बढ़ गई हैं। ग्रीन कार्ड धारकों की बढ़ीं मुश्किलें, अमेरिकी सुप्रीम कोर्ट का फैसला- अपराध किया तो मिलेगा देश।",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
-      "title": "आज देहरादून में जुटेंगी विभिन्न क्षेत्रों से जुड़ी हस्तियां, देवभूमि के विकास पर होगा मंथन",
-      "url": "https://www.amarujala.com/dehradun/amar-ujala-samvad-2026-prominent-figures-from-various-fields-together-in-dehradun-tomorrow-2026-06-23",
+      "title": "होर्मुज स्ट्रेट में अभी भी फंसे 11,000 से ज़्यादा नाविक, निकालने के प्लान पर काम शुरू",
+      "url": "https://www.patrika.com/world-news/more-than-11000-sailors-stranded-in-strait-of-hormuz-rescue-operation-plan-starts-20691874",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-24T03:04:23+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/stranded-ships-in-strait-of-hormuz.webp",
+      "summary": "ईरान और अमेरिका के बीच शांति समझौते के बाद होर्मुज जलडमरूमध्य खुल गया है। अमेरिकी नौसेना ने नाकेबंदी हटा दी है, लेकिन युद्ध के कारण अभी भी 11,000 से अधिक नाविक फंसे हुए हैं। अमेरिकी नेवी ने अपनी नाकेबंदी भी हटा दी है, जिसके बाद जहाजों की आवाजाही भी बढ़ गई है। हालांकि युद्ध से पहले की स्थिति पहुंचने में अभी समय लगेगा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज स्ट्रेट में अभी भी फंसे 11,000 से ज़्यादा नाविक, निकालने के प्लान पर काम शुरू",
+          "summary": "ईरान और अमेरिका के बीच शांति समझौते के बाद होर्मुज जलडमरूमध्य खुल गया है। अमेरिकी नौसेना ने नाकेबंदी हटा दी है, लेकिन युद्ध के कारण अभी भी 11,000 से अधिक नाविक फंसे हुए हैं। अमेरिकी नेवी ने अपनी नाकेबंदी भी हटा दी है, जिसके बाद जहाजों की आवाजाही भी बढ़ गई है। हालांकि युद्ध से पहले की स्थिति पहुंचने में अभी समय लगेगा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जीत के बाद क्रिस्टियानो रोनाल्डो ने कैमरे में देखकर कहा- आई एम बैक! आलोचकों की बोलती बंद की",
+      "url": "https://www.amarujala.com/photo-gallery/sports/football/cristiano-ronaldo-silences-critics-with-brace-declares-i-m-back-after-portugal-s-big-win-fifa-world-cup-2026-06-24",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-24T07:21:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/amara-ujal-savatha-thaharathana_9ea6e969bf4346ee47e02d5b8639aba2.jpeg?w=1200&dpr=1.0",
-      "summary": "देहरादून में अमर उजाला संवाद का मंच आयोजित किया जा रहा है, जहां विभिन्न क्षेत्रों की हस्तियां देवभूमि के विकास पर मंथन करेंगी। देवभूमि के विकास पर एक बार फिर मंथन करने जा रहा है अमर उजाला संवाद का मंच। आज देहरादून में जुटेंगी विभिन्न क्षेत्रों से जुड़ी हस्तियां, देवभूमि के विकास पर होगा मंथन।",
+      "published_at": "2026-06-24T03:01:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/cristiano-ronaldo-portugal-vs-uzbekistan-fifa-world-cup-2026-ronaldo-record-portugal-football-te_70a724d817769ae9ad0e7eddf3f7b1b8.jpeg?w=1200&dpr=1.0",
+      "summary": "क्रिस्टियानो रोनाल्डो ने फीफा विश्व कप 2026 क्वालीफायर में उज्बेकिस्तान के खिलाफ दो गोल किए। पुर्तगाल ने यह मैच 5-0 से जीता। रोनाल्डो ने मैच के बाद कैमरे में देखकर कहा \"आई एम बैक\"। पुर्तगाल के कप्तान क्रिस्टियानो रोनाल्डो ने फीफा विश्व कप 2026 में उज्बेकिस्तान के खिलाफ दो गोल दागकर अपनी टीम को 5-0 की बड़ी जीत दिलाई। जीत के बाद क्रिस्टियानो रोनाल्डो ने कैमरे में देखकर कहा- आई एम बैक!",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जीत के बाद क्रिस्टियानो रोनाल्डो ने कैमरे में देखकर कहा- आई एम बैक! आलोचकों की बोलती बंद की",
+          "summary": "क्रिस्टियानो रोनाल्डो ने फीफा विश्व कप 2026 क्वालीफायर में उज्बेकिस्तान के खिलाफ दो गोल किए। पुर्तगाल ने यह मैच 5-0 से जीता। रोनाल्डो ने मैच के बाद कैमरे में देखकर कहा \"आई एम बैक\"। पुर्तगाल के कप्तान क्रिस्टियानो रोनाल्डो ने फीफा विश्व कप 2026 में उज्बेकिस्तान के खिलाफ दो गोल दागकर अपनी टीम को 5-0 की बड़ी जीत दिलाई। जीत के बाद क्रिस्टियानो रोनाल्डो ने कैमरे में देखकर कहा- आई एम बैक!",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "‘हीरामंडी’ फेम श्रुति शर्मा बोलीं, ‘कई बड़े प्रोजेक्ट्स मुझे छोड़ने पड़ते हैं… उनमें बहुत इंटीमेसी",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/celebs-interviews/shruti-sharma-exclusive-interview-actor-spoke-about-her-project-she-wants-to-work-in-heeramandi-2-2026-06-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-24T02:46:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/sharata-sharama_7177b2886c84858e438a81e16dd0bbbd.jpeg?w=1200&dpr=1.0",
+      "summary": "अभिनेत्री श्रुति शर्मा ने कहा कि ‘हीरामंडी’ के बाद उन्हें कई बड़े प्रोजेक्ट्स छोड़ने पड़े। उन्होंने बताया कि उन प्रोजेक्ट्स में बहुत अधिक इंटीमेसी की मांग थी। अभिनेत्री श्रुति शर्मा ने संजय लीला भंसाली की वेब सीरीज ‘हीरामंडी: द डायमंड बाजार’ में साइमा का किरदार निभाया था। ‘हीरामंडी’ फेम श्रुति शर्मा बोलीं, ‘कई बड़े प्रोजेक्ट्स मुझे छोड़ने पड़ते हैं उनमें बहुत इंटीमेसी।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आज देहरादून में जुटेंगी विभिन्न क्षेत्रों से जुड़ी हस्तियां, देवभूमि के विकास पर होगा मंथन",
-          "summary": "देहरादून में अमर उजाला संवाद का मंच आयोजित किया जा रहा है, जहां विभिन्न क्षेत्रों की हस्तियां देवभूमि के विकास पर मंथन करेंगी। देवभूमि के विकास पर एक बार फिर मंथन करने जा रहा है अमर उजाला संवाद का मंच। आज देहरादून में जुटेंगी विभिन्न क्षेत्रों से जुड़ी हस्तियां, देवभूमि के विकास पर होगा मंथन।",
+          "title": "‘हीरामंडी’ फेम श्रुति शर्मा बोलीं, ‘कई बड़े प्रोजेक्ट्स मुझे छोड़ने पड़ते हैं… उनमें बहुत इंटीमेसी",
+          "summary": "अभिनेत्री श्रुति शर्मा ने कहा कि ‘हीरामंडी’ के बाद उन्हें कई बड़े प्रोजेक्ट्स छोड़ने पड़े। उन्होंने बताया कि उन प्रोजेक्ट्स में बहुत अधिक इंटीमेसी की मांग थी। अभिनेत्री श्रुति शर्मा ने संजय लीला भंसाली की वेब सीरीज ‘हीरामंडी: द डायमंड बाजार’ में साइमा का किरदार निभाया था। ‘हीरामंडी’ फेम श्रुति शर्मा बोलीं, ‘कई बड़े प्रोजेक्ट्स मुझे छोड़ने पड़ते हैं उनमें बहुत इंटीमेसी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "किराये की कोख का झांसा देकर थमाते थे खरीदा गया बच्चा, IVF तकनीक के नाम पर वसूलते मोटी रकम",
+      "url": "https://www.amarujala.com/delhi-ncr/major-revelation-in-the-case-of-trafficking-and-buying-selling-of-newborn-babies-2026-06-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-24T02:29:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/navajata-bcaca-ka-tasakara-kara-kharatha-farakhata-mamal_8d9d6ff72e4aa6edcb7dd6c0416d9d38.jpeg?w=1200&dpr=1.0",
+      "summary": "नवजात बच्चों की तस्करी के मामले में पता चला है कि आरोपी आईवीएफ तकनीक का झांसा देकर बच्चे बेचते थे। वे बच्चों की चाह रखने वाले दंपतियों से मोटी रकम वसूलते थे। नवजात बच्चों की तस्करी कर खरीद-फरोख्त मामले की जांच में पता चला है कि आरोपी बच्चों की चाह रखने वाले दंपती को आईवीएफ तकनीक का झांसा देकर उनको बच्चे उपलब्ध करवाया जाता था।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "किराये की कोख का झांसा देकर थमाते थे खरीदा गया बच्चा, IVF तकनीक के नाम पर वसूलते मोटी रकम",
+          "summary": "नवजात बच्चों की तस्करी के मामले में पता चला है कि आरोपी आईवीएफ तकनीक का झांसा देकर बच्चे बेचते थे। वे बच्चों की चाह रखने वाले दंपतियों से मोटी रकम वसूलते थे। नवजात बच्चों की तस्करी कर खरीद-फरोख्त मामले की जांच में पता चला है कि आरोपी बच्चों की चाह रखने वाले दंपती को आईवीएफ तकनीक का झांसा देकर उनको बच्चे उपलब्ध करवाया जाता था।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "किम जोंग उन ने बढ़ाई दुनिया की चिंता, नौसेना को परमाणु हथियारों से लैस करने की तैयारी",
+      "url": "https://www.amarujala.com/world/north-korea-kim-jong-un-claims-progress-on-nuclear-armed-navy-with-new-warship-2026-06-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-24T02:24:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/kim-jong-un-north-korea_6243db065299a489699247a8227c82ea.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर कोरिया के नेता किम जोंग उन ने अपनी नौसेना को परमाणु हथियारों से लैस करने की योजना का दावा किया है। उन्होंने एक नए युद्धपोत का निरीक्षण किया। किम जोंग उन ने बढ़ाई दुनिया की चिंता, नौसेना को परमाणु हथियारों से लैस करने की तैयारी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "किम जोंग उन ने बढ़ाई दुनिया की चिंता, नौसेना को परमाणु हथियारों से लैस करने की तैयारी",
+          "summary": "उत्तर कोरिया के नेता किम जोंग उन ने अपनी नौसेना को परमाणु हथियारों से लैस करने की योजना का दावा किया है। उन्होंने एक नए युद्धपोत का निरीक्षण किया। किम जोंग उन ने बढ़ाई दुनिया की चिंता, नौसेना को परमाणु हथियारों से लैस करने की तैयारी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "39 के हुए फुटबॉल के जादूगर! संन्यास लिया...वापसी की और फिर दुनिया जीत ली; मेसी की कहानी",
+      "url": "https://www.amarujala.com/sports/football/lionel-messi-incredible-journey-on-his-39th-birthday-from-retirement-shock-to-world-cup-glory-stats-records-2026-06-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-24T02:14:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/lionel-messi-birthday-lionel-messi-39th-birthday-fifa-world-cup-2026-messi-golden-boot-race-ar_e3830ed7a2000a8aeb2e1bd7cac930aa.jpeg?w=1200&dpr=1.0",
+      "summary": "लियोनल मेसी 39 वर्ष के हो गए हैं। वह फीफा विश्व कप 2026 में पांच गोल के साथ गोल्डन बूट की दौड़ में सबसे आगे हैं। 24 जून 1987 को अर्जेंटीना के रोसारियो में जन्मे लियोनल मेसी आज 39 वर्ष के हो गए हैं। दिलचस्प बात यह है कि उनका जन्मदिन ऐसे समय आया है जब वह फीफा विश्व कप 2026 में पांच गोल के साथ गोल्डन बूट की दौड़ में सबसे आगे चल रहे हैं।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "39 के हुए फुटबॉल के जादूगर! संन्यास लिया...वापसी की और फिर दुनिया जीत ली; मेसी की कहानी",
+          "summary": "लियोनल मेसी 39 वर्ष के हो गए हैं। वह फीफा विश्व कप 2026 में पांच गोल के साथ गोल्डन बूट की दौड़ में सबसे आगे हैं। 24 जून 1987 को अर्जेंटीना के रोसारियो में जन्मे लियोनल मेसी आज 39 वर्ष के हो गए हैं। दिलचस्प बात यह है कि उनका जन्मदिन ऐसे समय आया है जब वह फीफा विश्व कप 2026 में पांच गोल के साथ गोल्डन बूट की दौड़ में सबसे आगे चल रहे हैं।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "फ्लाइट में सिगरेट नहीं पी सकते लेकिन फिर भी लगे होते हैं ऐशट्रे? जानें क्या है इसकी वजह",
+      "url": "https://www.amarujala.com/photo-gallery/utility/flight-smoking-rules-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-24T02:13:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/falita-ma-kaya-thhamarapana-kara-sakata-ha_9b53005c4b8e4f6a9d63ea96015bab68.jpeg?w=1200&dpr=1.0",
+      "summary": "विमानों में सिगरेट पीना मना है लेकिन ऐशट्रे लगे होते हैं। क्या आप जानते हैं कि प्लेन में आप सिगरेट नहीं पी सकते, लेकिन फिर भी फ्लाइट में ऐशट्रे लगे होते हैं? इसके पीछे का कारण आप यहां जान सकते हैं। फ्लाइट में सिगरेट नहीं पी सकते लेकिन फिर भी लगे होते हैं ऐशट्रे? जानें क्या है इसकी वजह।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्लाइट में सिगरेट नहीं पी सकते लेकिन फिर भी लगे होते हैं ऐशट्रे? जानें क्या है इसकी वजह",
+          "summary": "विमानों में सिगरेट पीना मना है लेकिन ऐशट्रे लगे होते हैं। क्या आप जानते हैं कि प्लेन में आप सिगरेट नहीं पी सकते, लेकिन फिर भी फ्लाइट में ऐशट्रे लगे होते हैं? इसके पीछे का कारण आप यहां जान सकते हैं। फ्लाइट में सिगरेट नहीं पी सकते लेकिन फिर भी लगे होते हैं ऐशट्रे? जानें क्या है इसकी वजह।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'कॉकटेल 2' से आधी हुई 'मां इंटी बंगारम' की कमाई, दूसरे हफ्ते 'मैं वापस आऊंगा' ने पकड़ी रफ्तार",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/cocktail-2-maa-inti-bangaram-main-wapas-aaunga-box-office-collection-on-tuesday-2026-06-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-24T02:11:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/bkasa-oifasa-kalkashana_20a7667a0ff6b68e47c6d640f25e612b.jpeg?w=1200&dpr=1.0",
+      "summary": "'कॉकटेल 2' ने 'मां इंटी बंगारम' की कमाई को आधा कर दिया। मंगलवार का दिन फिल्मों की कमाई के लिहाज से मिलाजुला रहा। ‘कॉकटेल 2’ ने जहां बॉक्स ऑफिस पर अपनी मौजूदगी दर्ज कराई, वहीं 'मां इंटी बंगारम' ने भी अच्छा कलेक्शन किया है। 'कॉकटेल 2' से आधी हुई 'मां इंटी बंगारम' की कमाई, दूसरे हफ्ते 'मैं वापस आऊंगा' ने पकड़ी रफ्तार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'कॉकटेल 2' से आधी हुई 'मां इंटी बंगारम' की कमाई, दूसरे हफ्ते 'मैं वापस आऊंगा' ने पकड़ी रफ्तार",
+          "summary": "'कॉकटेल 2' ने 'मां इंटी बंगारम' की कमाई को आधा कर दिया। मंगलवार का दिन फिल्मों की कमाई के लिहाज से मिलाजुला रहा। ‘कॉकटेल 2’ ने जहां बॉक्स ऑफिस पर अपनी मौजूदगी दर्ज कराई, वहीं 'मां इंटी बंगारम' ने भी अच्छा कलेक्शन किया है। 'कॉकटेल 2' से आधी हुई 'मां इंटी बंगारम' की कमाई, दूसरे हफ्ते 'मैं वापस आऊंगा' ने पकड़ी रफ्तार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मिसाइलों के दम पर बचा ईरान: राष्ट्रपति पेजेशकियन बोले- US के साथ समझौते में शामिल नहीं हमारा मिसाइल",
+      "url": "https://www.amarujala.com/world/iran-missile-program-not-part-of-us-iran-deal-says-iran-president-masoud-pezeshkian-us-iran-agreement-2026-06-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-24T02:11:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/masatha-pajashakayana-iirana-rashhatarapata_9ec34e3b4c2e5397c7cc6b4669d5c4b9.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरान के राष्ट्रपति ने कहा कि उनका मिसाइल कार्यक्रम अमेरिका के साथ समझौते में शामिल नहीं है। मिसाइलों के दम पर बचा ईरान: राष्ट्रपति पेजेशकियन बोले- US के साथ समझौते में शामिल नहीं हमारा मिसाइल।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मिसाइलों के दम पर बचा ईरान: राष्ट्रपति पेजेशकियन बोले- US के साथ समझौते में शामिल नहीं हमारा मिसाइल",
+          "summary": "ईरान के राष्ट्रपति ने कहा कि उनका मिसाइल कार्यक्रम अमेरिका के साथ समझौते में शामिल नहीं है। मिसाइलों के दम पर बचा ईरान: राष्ट्रपति पेजेशकियन बोले- US के साथ समझौते में शामिल नहीं हमारा मिसाइल।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "SIT की रिपोर्ट में चौंकाने वाले खुलासे, बड़े पैमाने पर चोरी के संकेत; FIR की सिफारिश",
+      "url": "https://www.amarujala.com/lucknow/theft-of-offerings-at-ram-temple-sit-report-makes-shocking-revelations-hints-at-large-scale-theft-new-trust-2026-06-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-24T02:10:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/rama-mathara-ma-caugdhhava-cara_6a0372ed3c3922eead0157bb73a95939.jpeg?w=1200&dpr=1.0",
+      "summary": "एसआईटी की रिपोर्ट में राम मंदिर में बड़े पैमाने पर चोरी के संकेत मिले हैं। Donation theft in Ram temple: राम मंदिर में चढ़ावा चोरी के मामले में बनी एसआईटी ने जो प्रारंभिक रिपोर्ट सौंपी है वह हैरान करने वाली है। इस रिपोर्ट में कई बड़े नामों का जिक्र है। SIT की रिपोर्ट में चौंकाने वाले खुलासे, बड़े पैमाने पर चोरी के संकेत; FIR की सिफारिश।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "SIT की रिपोर्ट में चौंकाने वाले खुलासे, बड़े पैमाने पर चोरी के संकेत; FIR की सिफारिश",
+          "summary": "एसआईटी की रिपोर्ट में राम मंदिर में बड़े पैमाने पर चोरी के संकेत मिले हैं। Donation theft in Ram temple: राम मंदिर में चढ़ावा चोरी के मामले में बनी एसआईटी ने जो प्रारंभिक रिपोर्ट सौंपी है वह हैरान करने वाली है। इस रिपोर्ट में कई बड़े नामों का जिक्र है। SIT की रिपोर्ट में चौंकाने वाले खुलासे, बड़े पैमाने पर चोरी के संकेत; FIR की सिफारिश।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमर उजाला संवाद में होगा शिक्षा और AI के भविष्य पर मंथन; IIT निदेशक समेत ये दिग्गज होंगे शामिल",
+      "url": "https://www.amarujala.com/education/amar-ujala-samwad-iit-roorkee-director-k-k-pant-and-others-to-discuss-ai-education-and-future-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-24T02:07:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/uttarakhand-samwad-2026_c1c8efc12390c268f4516f1e44e4e0ab.jpeg?w=1200&dpr=1.0",
+      "summary": "अमर उजाला संवाद में शिक्षा और एआई के भविष्य पर चर्चा होगी। Uttarakhand Samwad 2026: देहरादून में 24 जून को होने वाले अमर उजाला संवाद में शिक्षा, एआई और भविष्य पर विशेष चर्चा होगी। आईआईटी रुड़की के प्रो. केके पंत, यूटीयू की कुलपति डॉ. तृप्ता ठाकुर भविष्य के कौशल पर विचार साझा करेंगे। अमर उजाला संवाद में होगा शिक्षा और AI के भविष्य पर मंथन; IIT निदेशक समेत ये दिग्गज होंगे शामिल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमर उजाला संवाद में होगा शिक्षा और AI के भविष्य पर मंथन; IIT निदेशक समेत ये दिग्गज होंगे शामिल",
+          "summary": "अमर उजाला संवाद में शिक्षा और एआई के भविष्य पर चर्चा होगी। Uttarakhand Samwad 2026: देहरादून में 24 जून को होने वाले अमर उजाला संवाद में शिक्षा, एआई और भविष्य पर विशेष चर्चा होगी। आईआईटी रुड़की के प्रो. केके पंत, यूटीयू की कुलपति डॉ. तृप्ता ठाकुर भविष्य के कौशल पर विचार साझा करेंगे। अमर उजाला संवाद में होगा शिक्षा और AI के भविष्य पर मंथन; IIT निदेशक समेत ये दिग्गज होंगे शामिल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मशहूर कमेंटेटर आकाश चोपड़ा अमर उजाला संवाद में करेंगे शिरकत, क्रिकेट पर रखेंगे राय",
+      "url": "https://www.amarujala.com/cricket/cricket-news/amar-ujala-samwad-former-indian-cricketer-and-commentator-aakash-chopra-profile-and-cricket-stats-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-24T02:07:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/amar-ujala-samwad_d4e3f86ca1918172bdf6e671b71fa0f6.jpeg?w=1200&dpr=1.0",
+      "summary": "पूर्व भारतीय क्रिकेटर और कमेंटेटर आकाश चोपड़ा 24 जून को देहरादून में अमर उजाला संवाद में शिरकत करेंगे। वह क्रिकेट पर अपनी राय रखेंगे। यह कार्यक्रम बुधवार को आयोजित होगा. अमर उजाला संवाद के मंच पर पूर्व भारतीय क्रिकेटर और मशहूर कमेंटेटर आकाश चोपड़ा नजर आएंगे। बुधवार को देहरादून में अमर उजाला संवाद का आयोजन हो रहा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मशहूर कमेंटेटर आकाश चोपड़ा अमर उजाला संवाद में करेंगे शिरकत, क्रिकेट पर रखेंगे राय",
+          "summary": "पूर्व भारतीय क्रिकेटर और कमेंटेटर आकाश चोपड़ा 24 जून को देहरादून में अमर उजाला संवाद में शिरकत करेंगे। वह क्रिकेट पर अपनी राय रखेंगे। यह कार्यक्रम बुधवार को आयोजित होगा. अमर उजाला संवाद के मंच पर पूर्व भारतीय क्रिकेटर और मशहूर कमेंटेटर आकाश चोपड़ा नजर आएंगे। बुधवार को देहरादून में अमर उजाला संवाद का आयोजन हो रहा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बल्लेबाजी के साथ ही फील्डिंग में मोहम्मद कैफ का दिखता था जोर, अब संवाद के मंच पर आएंगे नजर",
+      "url": "https://www.amarujala.com/cricket/cricket-news/amar-ujala-samwad-former-indian-cricketer-mohammad-kaif-profile-and-cricket-career-stats-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-24T02:07:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/amar-ujala-samwad_b96150cee193f382ec6afa1827409270.jpeg?w=1200&dpr=1.0",
+      "summary": "भारतीय टीम के पूर्व खिलाड़ी मोहम्मद कैफ 24 जून को देहरादून में अमर उजाला संवाद में अपनी बात रखेंगे। वह बल्लेबाजी और फील्डिंग के अनुभव साझा करेंगे. भारतीय टीम के पूर्व खिलाड़ी मोहम्मद कैफ बुधवार को अमर उजाला संवाद में शिरकत करेंगे। अमर उजाला 24 जून को देहरादून में 'अमर उजाला संवाद उत्तराखंड 2026' का आयोजन कर रहा है जिसमें कैफ भी अपनी बात रखेंगे।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बल्लेबाजी के साथ ही फील्डिंग में मोहम्मद कैफ का दिखता था जोर, अब संवाद के मंच पर आएंगे नजर",
+          "summary": "भारतीय टीम के पूर्व खिलाड़ी मोहम्मद कैफ 24 जून को देहरादून में अमर उजाला संवाद में अपनी बात रखेंगे। वह बल्लेबाजी और फील्डिंग के अनुभव साझा करेंगे. भारतीय टीम के पूर्व खिलाड़ी मोहम्मद कैफ बुधवार को अमर उजाला संवाद में शिरकत करेंगे। अमर उजाला 24 जून को देहरादून में 'अमर उजाला संवाद उत्तराखंड 2026' का आयोजन कर रहा है जिसमें कैफ भी अपनी बात रखेंगे।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अभिषेक बनर्जी बनेंगे अमर उजाला संवाद उत्तराखंड का हिस्सा, सिनेमा पर करेंगे खुलकर बात",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/samwad-2026-uttarakhand-abhishek-banerjee-will-attend-amar-ujala-samwad-his-profile-career-acting-movies-2026-06-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-24T02:06:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/abhashhaka-bnaraja_8a39fc3af2d0c3818e5fe9dbadc1d17c.jpeg?w=1200&dpr=1.0",
+      "summary": "अभिनेता और कास्टिंग डायरेक्टर अभिषेक बनर्जी अमर उजाला संवाद उत्तराखंड में हिस्सा लेंगे। वह सिनेमा पर खुलकर बात करेंगे. अमर उजाला संवाद का मंच इस बार उत्तराखंड के देहरादून में सज रहा है। अभिनेता व कास्टिंग डायरेक्टर अभिषेक बनर्जी भी इस कार्यक्रम का हिस्सा बनेंगे। एक नजर उनके प्रोफाइल और करियर पर। अभिषेक बनर्जी बनेंगे अमर उजाला संवाद उत्तराखंड का हिस्सा, सिनेमा पर करेंगे खुलकर बात।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अभिषेक बनर्जी बनेंगे अमर उजाला संवाद उत्तराखंड का हिस्सा, सिनेमा पर करेंगे खुलकर बात",
+          "summary": "अभिनेता और कास्टिंग डायरेक्टर अभिषेक बनर्जी अमर उजाला संवाद उत्तराखंड में हिस्सा लेंगे। वह सिनेमा पर खुलकर बात करेंगे. अमर उजाला संवाद का मंच इस बार उत्तराखंड के देहरादून में सज रहा है। अभिनेता व कास्टिंग डायरेक्टर अभिषेक बनर्जी भी इस कार्यक्रम का हिस्सा बनेंगे। एक नजर उनके प्रोफाइल और करियर पर। अभिषेक बनर्जी बनेंगे अमर उजाला संवाद उत्तराखंड का हिस्सा, सिनेमा पर करेंगे खुलकर बात।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमर उजाला संवाद में हिस्सा लेंगे 'धुरंधर' के जमील जमाली; सिनेमा और फिल्मों पर करेंगे दिलचस्प बात",
+      "url": "https://www.amarujala.com/entertainment/amar-ujala-samwad-uttarakhand-2026-dhurandhar-fame-rakesh-bedi-to-attend-samwad-his-profile-career-and-movies-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-24T02:06:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/rakasha-btha_46010352fbfbd3481b603debd77d5772.jpeg?w=1200&dpr=1.0",
+      "summary": "अभिनेता जमील जमाली अमर उजाला संवाद में सिनेमा और फिल्मों पर चर्चा करेंगे। यह कार्यक्रम 24 जून को देहरादून में आयोजित होगा. Amar Ujala Samwad 2026: अमर उजाला संवाद का मंच इस बार देवभूमि उत्तराखंड में सज रहा है। देहरादून में 24 जून को आयोजित इस वैचारिक कार्यक्रम में चर्चित अभिनेता राकेश बेदी हिस्सा लेंगे और 'अभिनय के सफर की बात' विषय पर चर्चा करेंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमर उजाला संवाद में हिस्सा लेंगे 'धुरंधर' के जमील जमाली; सिनेमा और फिल्मों पर करेंगे दिलचस्प बात",
+          "summary": "अभिनेता जमील जमाली अमर उजाला संवाद में सिनेमा और फिल्मों पर चर्चा करेंगे। यह कार्यक्रम 24 जून को देहरादून में आयोजित होगा. Amar Ujala Samwad 2026: अमर उजाला संवाद का मंच इस बार देवभूमि उत्तराखंड में सज रहा है। देहरादून में 24 जून को आयोजित इस वैचारिक कार्यक्रम में चर्चित अभिनेता राकेश बेदी हिस्सा लेंगे और 'अभिनय के सफर की बात' विषय पर चर्चा करेंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमर उजाला संवाद में शामिल होंगी देवी चित्रलेखा, आध्यात्म और भारतीय संस्कृति पर रखेंगी विचार",
+      "url": "https://www.amarujala.com/spirituality/wellness/amar-ujala-samwad-uttarakhand-2026-devi-chitralekha-attend-samwad-know-about-her-profile-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-24T02:05:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/amar-ujala-samwad-uttarakhand-2026_f78716cca7c790b8f4ab1ff66cbd979b.jpeg?w=1200&dpr=1.0",
+      "summary": "देवी चित्रलेखा अमर उजाला संवाद में आध्यात्म और भारतीय संस्कृति पर विचार रखेंगी। यह कार्यक्रम 24 जून को देहरादून में होगा. Amar Ujala Samwad Uttarakhand 2026: 24 जून 2026, बुधवार को देहरादून में आयोजित होने जा रहे अमर उजाला संवाद में कई बड़ी हस्तियां शामिल होंगी। अमर उजाला संवाद में शामिल होंगी देवी चित्रलेखा, आध्यात्म और भारतीय संस्कृति पर रखेंगी विचार।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमर उजाला संवाद में शामिल होंगी देवी चित्रलेखा, आध्यात्म और भारतीय संस्कृति पर रखेंगी विचार",
+          "summary": "देवी चित्रलेखा अमर उजाला संवाद में आध्यात्म और भारतीय संस्कृति पर विचार रखेंगी। यह कार्यक्रम 24 जून को देहरादून में होगा. Amar Ujala Samwad Uttarakhand 2026: 24 जून 2026, बुधवार को देहरादून में आयोजित होने जा रहे अमर उजाला संवाद में कई बड़ी हस्तियां शामिल होंगी। अमर उजाला संवाद में शामिल होंगी देवी चित्रलेखा, आध्यात्म और भारतीय संस्कृति पर रखेंगी विचार।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "संवाद में शिरकत करेंगे केंद्रीय मंत्री JP नड्डा, स्वास्थ्य क्षेत्र की चुनौतियों-संभावनाओं पर होगा",
+      "url": "https://www.amarujala.com/india-news/samwad-2026-health-minister-jp-nadda-to-participate-in-samwad-uttarakhand-2026-06-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-24T02:04:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/katharaya-savasathaya-eva-paravara-kalyanae-matara-japa-nadada_961fbe90762203826a10c297065eaeac.jpeg?w=1200&dpr=1.0",
+      "summary": "केंद्रीय स्वास्थ्य मंत्री जेपी नड्डा संवाद 2026 में शिरकत करेंगे। वे स्वास्थ्य क्षेत्र की चुनौतियों और संभावनाओं पर चर्चा करेंगे। यह कार्यक्रम उत्तराखंड में आयोजित किया जाएगा। संवाद में शिरकत करेंगे केंद्रीय मंत्री JP नड्डा, स्वास्थ्य क्षेत्र की चुनौतियों-संभावनाओं पर होगा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संवाद में शिरकत करेंगे केंद्रीय मंत्री JP नड्डा, स्वास्थ्य क्षेत्र की चुनौतियों-संभावनाओं पर होगा",
+          "summary": "केंद्रीय स्वास्थ्य मंत्री जेपी नड्डा संवाद 2026 में शिरकत करेंगे। वे स्वास्थ्य क्षेत्र की चुनौतियों और संभावनाओं पर चर्चा करेंगे। यह कार्यक्रम उत्तराखंड में आयोजित किया जाएगा। संवाद में शिरकत करेंगे केंद्रीय मंत्री JP नड्डा, स्वास्थ्य क्षेत्र की चुनौतियों-संभावनाओं पर होगा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जीवन का बदलाव भीतर से शुरू होता है: सकारात्मक चिंतन का अर्थ भागना नहीं, चुनौतियों के बीच उम्मीद",
+      "url": "https://www.amarujala.com/columns/blog/life-transformation-begins-from-within-power-of-positive-thinking-2026-06-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-24T02:03:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/jeevan-dhara_c98a79798742cc54a1b5f958ca6d4cd8.jpeg?w=1200&dpr=1.0",
+      "summary": "सकारात्मक चिंतन जीवन में बदलाव लाने का एक तरीका है। यह चुनौतियों के बीच उम्मीद बनाए रखने में मदद करता है। इसका अर्थ समस्याओं से भागना नहीं है, बल्कि उनका सामना करना है। जीवन का बदलाव भीतर से शुरू होता है: सकारात्मक चिंतन का अर्थ भागना नहीं, चुनौतियों के बीच उम्मीद।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जीवन का बदलाव भीतर से शुरू होता है: सकारात्मक चिंतन का अर्थ भागना नहीं, चुनौतियों के बीच उम्मीद",
+          "summary": "सकारात्मक चिंतन जीवन में बदलाव लाने का एक तरीका है। यह चुनौतियों के बीच उम्मीद बनाए रखने में मदद करता है। इसका अर्थ समस्याओं से भागना नहीं है, बल्कि उनका सामना करना है। जीवन का बदलाव भीतर से शुरू होता है: सकारात्मक चिंतन का अर्थ भागना नहीं, चुनौतियों के बीच उम्मीद।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "प्रदेश में मानसून की इस तारीख से होगी एंट्री, गर्मी का सितम जारी; इस जिले का तापमान पहुंचा 43.8",
+      "url": "https://www.amarujala.com/lucknow/up-monsoon-to-arrive-in-the-state-from-this-date-scorching-heat-continues-temperature-in-this-district-reac-2026-06-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-24T01:52:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/25/thall-ma-manasana-aana-val-ha_29b8cafba403fbe695d86e9f71fcda16.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रदेश में मानसून 28 जून के आसपास पहुंच सकता है। तब तक लू और गर्मी का असर जारी रहेगा। कुछ क्षेत्रों में 29 जून से अच्छी वर्षा होने की संभावना है। प्रदेश में मानसून के 28 जून के आसपास प्रवेश करने की संभावना जताई गई है, जबकि 29 जून से कई क्षेत्रों में अच्छी वर्षा हो सकती है। तब तक लू और भीषण गर्मी का असर जारी रहेगा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रदेश में मानसून की इस तारीख से होगी एंट्री, गर्मी का सितम जारी; इस जिले का तापमान पहुंचा 43.8",
+          "summary": "प्रदेश में मानसून 28 जून के आसपास पहुंच सकता है। तब तक लू और गर्मी का असर जारी रहेगा। कुछ क्षेत्रों में 29 जून से अच्छी वर्षा होने की संभावना है। प्रदेश में मानसून के 28 जून के आसपास प्रवेश करने की संभावना जताई गई है, जबकि 29 जून से कई क्षेत्रों में अच्छी वर्षा हो सकती है। तब तक लू और भीषण गर्मी का असर जारी रहेगा।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ब्रिटिश कोर्ट का आदेश- बैंक फ्रॉड मामले में 100 करोड़ से अधिक भुगतान करना होगा",
+      "url": "https://www.amarujala.com/world/setback-for-nirav-modi-bank-fraud-case-british-court-order-hindi-news-updates-payment-in-billions-know-details-2026-06-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-24T01:49:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/narava-matha-fail_72bffc429996e73c074a68ecba9e40e4.jpeg?w=1200&dpr=1.0",
+      "summary": "ब्रिटिश कोर्ट ने नीरव मोदी को बड़ा झटका दिया है। कोर्ट ने उन्हें बैंक फ्रॉड मामले में 100 करोड़ से अधिक का भुगतान करने का आदेश दिया है। यह आदेश नीरव मोदी के लिए एक बड़ी चुनौती है। नीरव मोदी को बड़ा झटका: ब्रिटिश कोर्ट का आदेश- बैंक फ्रॉड मामले में 100 करोड़ से अधिक भुगतान करना होगा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रिटिश कोर्ट का आदेश- बैंक फ्रॉड मामले में 100 करोड़ से अधिक भुगतान करना होगा",
+          "summary": "ब्रिटिश कोर्ट ने नीरव मोदी को बड़ा झटका दिया है। कोर्ट ने उन्हें बैंक फ्रॉड मामले में 100 करोड़ से अधिक का भुगतान करने का आदेश दिया है। यह आदेश नीरव मोदी के लिए एक बड़ी चुनौती है। नीरव मोदी को बड़ा झटका: ब्रिटिश कोर्ट का आदेश- बैंक फ्रॉड मामले में 100 करोड़ से अधिक भुगतान करना होगा।",
           "region": "दुनिया"
         }
       }
@@ -315,420 +753,6 @@
         "hi": {
           "title": "होर्मुज-परमाणु मुद्दे पर ईरान-US में टकराव; यूएई पहुंचे रुबियो, बोले- अभी और चर्चा की जरूरत",
           "summary": "अमेरिकी सीनेट ने ईरान से जंग के खिलाफ एक प्रतीकात्मक प्रस्ताव पारित किया, जिससे व्हाइट हाउस को झटका लगा। यह प्रस्ताव सीनेट में पारित किया गया, जो प्रशासन के लिए एक चुनौती है। West Asia LIVE: ईरान से जंग के खिलाफ अमेरिकी सीनेट में प्रतीकात्मक प्रस्ताव पारित, व्हाइट हाउस को झटका। West Asia LIVE: होर्मुज-परमाणु मुद्दे पर ईरान-US में टकराव; यूएई पहुंचे रुबियो, बोले- अभी और चर्चा की जरूरत।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप को बड़ा झटका, अमेरिकी संसद में ईरान के खिलाफ जंग रोकने का प्रस्ताव पारित",
-      "url": "https://hindi.news18.com/world/america-us-president-donald-trump-suffers-setback-on-iran-policy-as-us-congress-passes-military-resolution-ws-l-10597788.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-24T01:34:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/donald-trumphealth-2026-06-efa919ea013fc1f25d6a461ba96bde82-1200x800.jpg",
-      "summary": "अमेरिकी सीनेट ने ईरान के खिलाफ युद्ध रोकने के लिए एक गैर-बाध्यकारी प्रस्ताव पारित किया है। यह प्रस्ताव राष्ट्रपति डोनाल्ड ट्रंप की ईरान नीति के खिलाफ है। प्रस्ताव बाध्यकारी न होते हुए भी ट्रंप के लिए एक नैतिक हार है। Donald Trump Suffers Setback On Iran Policy: अमेरिकी सीनेट ने डोनाल्ड ट्रंप की ईरान नीति के खिलाफ गैर बाध्यकारी प्रस्ताव पास किया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप को बड़ा झटका, अमेरिकी संसद में ईरान के खिलाफ जंग रोकने का प्रस्ताव पारित",
-          "summary": "अमेरिकी सीनेट ने ईरान के खिलाफ युद्ध रोकने के लिए एक गैर-बाध्यकारी प्रस्ताव पारित किया है। यह प्रस्ताव राष्ट्रपति डोनाल्ड ट्रंप की ईरान नीति के खिलाफ है। प्रस्ताव बाध्यकारी न होते हुए भी ट्रंप के लिए एक नैतिक हार है। Donald Trump Suffers Setback On Iran Policy: अमेरिकी सीनेट ने डोनाल्ड ट्रंप की ईरान नीति के खिलाफ गैर बाध्यकारी प्रस्ताव पास किया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "स्मार्ट टीवी खरीदने जा रहे हैं? इन बातों तो न करें इग्नोर, वरना बाद में पछताएंगे",
-      "url": "https://www.amarujala.com/photo-gallery/technology/tech-diary/screen-size-to-sound-quality-tips-to-purchase-best-smart-tv-at-budget-guide-hindi-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T01:34:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/smart-tv-buying-guide_00fe508c4d130c6093fbb13f4696f0ca.jpeg?w=1200&dpr=1.0",
-      "summary": "नया स्मार्ट टीवी खरीदते समय स्क्रीन साइज, डिस्प्ले पैनल और साउंड क्वालिटी जैसे कारकों पर ध्यान देना महत्वपूर्ण है। बाजार में उपलब्ध विभिन्न विकल्पों और तकनीकी शब्दों के बीच सही चुनाव करना चुनौतीपूर्ण हो सकता है। Smart TV Buying Guide: क्या आप भी अपने घर के लिए एक नया स्मार्ट टीवी खरीदने की सोच रहे हैं? बाजार में मौजूद ढेरों विकल्पों और तकनीकी शब्दों के बीच सही टीवी चुनना आसान नहीं है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्मार्ट टीवी खरीदने जा रहे हैं? इन बातों तो न करें इग्नोर, वरना बाद में पछताएंगे",
-          "summary": "नया स्मार्ट टीवी खरीदते समय स्क्रीन साइज, डिस्प्ले पैनल और साउंड क्वालिटी जैसे कारकों पर ध्यान देना महत्वपूर्ण है। बाजार में उपलब्ध विभिन्न विकल्पों और तकनीकी शब्दों के बीच सही चुनाव करना चुनौतीपूर्ण हो सकता है। Smart TV Buying Guide: क्या आप भी अपने घर के लिए एक नया स्मार्ट टीवी खरीदने की सोच रहे हैं? बाजार में मौजूद ढेरों विकल्पों और तकनीकी शब्दों के बीच सही टीवी चुनना आसान नहीं है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फीफा विश्वकप में कल क्या हुआ और आज क्या?: रोनाल्डो-पुर्तगाल की जबरदस्त वापसी, घाना ने इंग्लैंड को",
-      "url": "https://www.amarujala.com/sports/football/ronaldo-leads-portugal-revival-ghana-frustrates-england-croatia-fifa-world-cup-2026-hopes-alive-columbia-vs-congo-day-13-highlights-and-14th-day-schedule-matches-2026-06-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-24T01:32:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/fifa_d7096026a5f999d579e44e87c8a881c6.jpeg?w=1200&dpr=1.0",
-      "summary": "फीफा विश्व कप 2026 में क्रिस्टियानो रोनाल्डो ने उज्बेकिस्तान के खिलाफ दो गोल किए। पुर्तगाल ने यह मैच 5-0 से जीता। रोनाल्डो विश्व कप के छह अलग-अलग संस्करणों में गोल करने वाले पहले खिलाड़ी बने। फीफा विश्वकप 2026 में मंगलवार का दिन कई बड़े घटनाक्रमों का गवाह बना। क्रिस्टियानो रोनाल्डो ने दो गोल दागकर पुर्तगाल को उज्बेकिस्तान पर 5-0 की शानदार जीत दिलाई और विश्व कप इतिहास में छह अलग-अलग संस्करणों में गोल करने वाले पहले खिलाड़ी बन गए।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फीफा विश्वकप में कल क्या हुआ और आज क्या?: रोनाल्डो-पुर्तगाल की जबरदस्त वापसी, घाना ने इंग्लैंड को",
-          "summary": "फीफा विश्व कप 2026 में क्रिस्टियानो रोनाल्डो ने उज्बेकिस्तान के खिलाफ दो गोल किए। पुर्तगाल ने यह मैच 5-0 से जीता। रोनाल्डो विश्व कप के छह अलग-अलग संस्करणों में गोल करने वाले पहले खिलाड़ी बने। फीफा विश्वकप 2026 में मंगलवार का दिन कई बड़े घटनाक्रमों का गवाह बना। क्रिस्टियानो रोनाल्डो ने दो गोल दागकर पुर्तगाल को उज्बेकिस्तान पर 5-0 की शानदार जीत दिलाई और विश्व कप इतिहास में छह अलग-अलग संस्करणों में गोल करने वाले पहले खिलाड़ी बन गए।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत-अमेरिका के बीच संबंधों पर बड़े दावे, लेकिन मतभेदों को लेकर खड़े हैं कई सवाल",
-      "url": "https://www.amarujala.com/columns/opinion/india-us-relations-after-pm-modi-donald-trump-meeting-challenges-remains-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T01:30:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/modi-trump_0aa9c079a872053c497868d622f6c2c9.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत और अमेरिका के बीच संबंधों को लेकर बड़े दावे किए जा रहे हैं। हालांकि, दोनों देशों के बीच मौजूद मतभेदों को लेकर कई सवाल बने हुए हैं। इन चुनौतियों का समाधान अभी बाकी है। भारत-अमेरिका के बीच संबंधों पर बड़े दावे, लेकिन मतभेदों को लेकर खड़े हैं कई सवाल।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत-अमेरिका के बीच संबंधों पर बड़े दावे, लेकिन मतभेदों को लेकर खड़े हैं कई सवाल",
-          "summary": "भारत और अमेरिका के बीच संबंधों को लेकर बड़े दावे किए जा रहे हैं। हालांकि, दोनों देशों के बीच मौजूद मतभेदों को लेकर कई सवाल बने हुए हैं। इन चुनौतियों का समाधान अभी बाकी है। भारत-अमेरिका के बीच संबंधों पर बड़े दावे, लेकिन मतभेदों को लेकर खड़े हैं कई सवाल।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘जो लोग देखना पसंद करेंगे, वहां दिख जाऊंगा’ ग्राम चिकित्सालय 2 से जुड़े निरहुआ, सुनाए मजेदार किस्से",
-      "url": "https://www.amarujala.com/entertainment/celebs-interviews/dinesh-lal-yadav-exclusive-interview-actor-talk-about-series-gram-chikitsalay-2-and-his-career-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T01:30:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/thanasha-ll-yathava_9d386aa4a2d8b29448210ac7be85bdc9.jpeg?w=1200&dpr=1.0",
-      "summary": "भोजपुरी अभिनेता दिनेश लाल यादव 'निरहुआ' वेब सीरीज 'ग्राम चिकित्सालय सीजन 2' में दिखाई देंगे। उन्होंने आगामी सीरीज और अपने करियर के बारे में बातचीत में कई किस्से साझा किए। भोजपुरी स्टार दिनेश लाल यादव उर्फ निरहुआ अब वेब सीरीज ‘ग्राम चिकित्सालय सीजन 2’ में नजर आने वाले हैं। अमर उजाला से हुई खास बातचीत में उन्होंने इस आगामी सीरीज और अपने करियर को लेकर कई बातें साझा की हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘जो लोग देखना पसंद करेंगे, वहां दिख जाऊंगा’ ग्राम चिकित्सालय 2 से जुड़े निरहुआ, सुनाए मजेदार किस्से",
-          "summary": "भोजपुरी अभिनेता दिनेश लाल यादव 'निरहुआ' वेब सीरीज 'ग्राम चिकित्सालय सीजन 2' में दिखाई देंगे। उन्होंने आगामी सीरीज और अपने करियर के बारे में बातचीत में कई किस्से साझा किए। भोजपुरी स्टार दिनेश लाल यादव उर्फ निरहुआ अब वेब सीरीज ‘ग्राम चिकित्सालय सीजन 2’ में नजर आने वाले हैं। अमर उजाला से हुई खास बातचीत में उन्होंने इस आगामी सीरीज और अपने करियर को लेकर कई बातें साझा की हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "त्रिपुरा में डॉक्टरों की निजी प्रैक्टिस पर लगी रोक; कल देशभर में प्रेस कॉन्फ्रेंस करेगी कांग्रेस",
-      "url": "https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-politics-crime-national-news-in-hindi-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T01:25:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/news-updates_ca1de28b7fdaaf42869b1b4c85518d48.jpeg?w=1200&dpr=1.0",
-      "summary": "त्रिपुरा सरकार ने डॉक्टरों की निजी प्रैक्टिस पर रोक लगाई है। News Updates: त्रिपुरा में डॉक्टरों की निजी प्रैक्टिस पर लगी रोक; कल देशभर में प्रेस कॉन्फ्रेंस करेगी कांग्रेस।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "त्रिपुरा में डॉक्टरों की निजी प्रैक्टिस पर लगी रोक; कल देशभर में प्रेस कॉन्फ्रेंस करेगी कांग्रेस",
-          "summary": "त्रिपुरा सरकार ने डॉक्टरों की निजी प्रैक्टिस पर रोक लगाई है। News Updates: त्रिपुरा में डॉक्टरों की निजी प्रैक्टिस पर लगी रोक; कल देशभर में प्रेस कॉन्फ्रेंस करेगी कांग्रेस।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज, लेबनान और इस्राइल के बीच उलझा अमेरिका-ईरान का शांति समझौता",
-      "url": "https://www.amarujala.com/columns/opinion/iran-us-peace-deal-hormuz-lebanon-israel-middle-east-tensions-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T01:12:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/iran-us-deal_a8e4e331d69c13c56267b69ccc3269fe.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका और ईरान के बीच शांति समझौता होर्मुज और लेबनान के मुद्दों पर उलझ गया है। होर्मुज, लेबनान और इस्राइल के बीच उलझा अमेरिका-ईरान का शांति समझौता।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज, लेबनान और इस्राइल के बीच उलझा अमेरिका-ईरान का शांति समझौता",
-          "summary": "अमेरिका और ईरान के बीच शांति समझौता होर्मुज और लेबनान के मुद्दों पर उलझ गया है। होर्मुज, लेबनान और इस्राइल के बीच उलझा अमेरिका-ईरान का शांति समझौता।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "क्यों कमजोर पड़ी कीर स्टार्मर की राजनीतिक पकड़",
-      "url": "https://www.amarujala.com/columns/opinion/britain-political-crisis-keir-starmer-resignation-labour-party-challenges-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T01:05:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/keir-starmer_3cffaf439d5e0a1fa75b959beb7956bb.jpeg?w=1200&dpr=1.0",
-      "summary": "ब्रिटेन में कीर स्टार्मर की राजनीतिक पकड़ कमजोर हुई है। क्यों कमजोर पड़ी कीर स्टार्मर की राजनीतिक पकड़।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्यों कमजोर पड़ी कीर स्टार्मर की राजनीतिक पकड़",
-          "summary": "ब्रिटेन में कीर स्टार्मर की राजनीतिक पकड़ कमजोर हुई है। क्यों कमजोर पड़ी कीर स्टार्मर की राजनीतिक पकड़।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अनपढ़ जालसाजों ने लोगों की जेब से निकाले 480 करोड़, पुलिस ने बचाए 150 करोड़ रुपये",
-      "url": "https://www.amarujala.com/delhi-ncr/cyber-crime-uneducated-fraudsters-swindled-480-crore-from-people-2026-06-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-24T00:55:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/1_f71ad41c207ab61c9f0f2db05b471528.jpeg?w=1200&dpr=1.0",
-      "summary": "अनपढ़ जालसाजों ने लोगों की जेब से 480 करोड़ रुपये निकाले हैं। केंद्र सरकार, आई4सी और दिल्ली पुलिस समेत अन्य पुलिस व सुरक्षा एजेंसियों के लाख जागरूकता कार्यक्रमों के बावजूद विदेश में बैठे साइबर जालसाज लोगों की जेब खाली कर रहे हैं। अनपढ़ जालसाजों ने लोगों की जेब से निकाले 480 करोड़, पुलिस ने बचाए 150 करोड़ रुपये।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अनपढ़ जालसाजों ने लोगों की जेब से निकाले 480 करोड़, पुलिस ने बचाए 150 करोड़ रुपये",
-          "summary": "अनपढ़ जालसाजों ने लोगों की जेब से 480 करोड़ रुपये निकाले हैं। केंद्र सरकार, आई4सी और दिल्ली पुलिस समेत अन्य पुलिस व सुरक्षा एजेंसियों के लाख जागरूकता कार्यक्रमों के बावजूद विदेश में बैठे साइबर जालसाज लोगों की जेब खाली कर रहे हैं। अनपढ़ जालसाजों ने लोगों की जेब से निकाले 480 करोड़, पुलिस ने बचाए 150 करोड़ रुपये।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बुधवार को करें गणेश चालीसा का पाठ, दूर होंगी बाधाएं और मिलेंगे मनचाहे शुभ फल",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/budhwar-ke-upay-ganesh-chalisa-benefits-and-impact-in-hindi-2026-06-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T00:50:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/20/budhwar-ke-upay_9ef77b5796d868bfd52614bb780d6ccc.jpeg?w=1200&dpr=1.0",
-      "summary": "बुधवार को गणेश चालीसा का पाठ करने से बाधाएं दूर होती हैं और शुभ फल प्राप्त होते हैं। यह पाठ बुद्धि, ज्ञान और निर्णय लेने की क्षमता को मजबूत करता है। इससे व्यक्ति को मानसिक शांति भी मिलती है। Ganesh Chalisa Benefits: बुधवार को गणेश चालीसा का पाठ करना बेहद शुभ माना जाता है। इससे बुद्धि, ज्ञान और निर्णय लेने की क्षमता मजबूत होती है और व्यक्ति को मानसिक शांति का अनुभव होता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बुधवार को करें गणेश चालीसा का पाठ, दूर होंगी बाधाएं और मिलेंगे मनचाहे शुभ फल",
-          "summary": "बुधवार को गणेश चालीसा का पाठ करने से बाधाएं दूर होती हैं और शुभ फल प्राप्त होते हैं। यह पाठ बुद्धि, ज्ञान और निर्णय लेने की क्षमता को मजबूत करता है। इससे व्यक्ति को मानसिक शांति भी मिलती है। Ganesh Chalisa Benefits: बुधवार को गणेश चालीसा का पाठ करना बेहद शुभ माना जाता है। इससे बुद्धि, ज्ञान और निर्णय लेने की क्षमता मजबूत होती है और व्यक्ति को मानसिक शांति का अनुभव होता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "देहरादून में सजेगा अमर उजाला संवाद का मंच, चढ़ावा चोरी मामले में हो सकती है सुनवाई",
-      "url": "https://www.amarujala.com/india-news/24-june-2026-major-events-2026-06-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-24T00:31:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/aaja-ka-khabra_af6e25c45ffb259ba541f5a01a9c0a3a.gif?w=1200&dpr=1.0",
-      "summary": "देहरादून में आज अमर उजाला संवाद का मंच सजेगा। इस मंच पर चढ़ावा चोरी मामले में सुनवाई हो सकती है। यह कार्यक्रम देश-दुनिया की खबरों के साथ आज की मुख्य घटनाओं पर चर्चा करेगा। नमस्कार! आज है बुधवार, 24 जून। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं देहरादून में सजेगा अमर उजाला संवाद का मंच, चढ़ावा चोरी मामले में हो सकती है सुनवाई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "देहरादून में सजेगा अमर उजाला संवाद का मंच, चढ़ावा चोरी मामले में हो सकती है सुनवाई",
-          "summary": "देहरादून में आज अमर उजाला संवाद का मंच सजेगा। इस मंच पर चढ़ावा चोरी मामले में सुनवाई हो सकती है। यह कार्यक्रम देश-दुनिया की खबरों के साथ आज की मुख्य घटनाओं पर चर्चा करेगा। नमस्कार! आज है बुधवार, 24 जून। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं देहरादून में सजेगा अमर उजाला संवाद का मंच, चढ़ावा चोरी मामले में हो सकती है सुनवाई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "Weather Forecast 24 June 2026: देखिए क्या है आपके यहां मौसम का हाल",
-      "url": "https://www.amarujala.com/video/india-news/weather-forecast-24-june-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-24T00:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/weather-forecast_7e759a4c56926c4b7699829a41783215.jpeg?w=1200&dpr=1.0",
-      "summary": "24 जून 2026 के मौसम पूर्वानुमान के अनुसार, विभिन्न क्षेत्रों में मौसम की स्थिति अलग-अलग रहेगी। यह रिपोर्ट आज आपके क्षेत्र में मौसम के हाल की जानकारी प्रदान करती है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Weather Forecast 24 June 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "24 जून 2026 के मौसम पूर्वानुमान के अनुसार, विभिन्न क्षेत्रों में मौसम की स्थिति अलग-अलग रहेगी। यह रिपोर्ट आज आपके क्षेत्र में मौसम के हाल की जानकारी प्रदान करती है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमर उजाला संवाद आज, देहरादून में जुटेंगे दिग्गज, ट्रंप ने फिर दी ईरान को धमकी; पढ़ें सुर्खियां",
-      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-24-june-2026-updates-on-amar-ujala-2026-06-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-24T00:19:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
-      "summary": "देहरादून में आज अमर उजाला संवाद का आयोजन होगा, जिसमें कई दिग्गज शामिल होंगे। इस बीच, ट्रंप ने ईरान को फिर से धमकी दी है। यह आज की प्रमुख राष्ट्रीय और अंतर्राष्ट्रीय सुर्खियां हैं। Top News: अमर उजाला संवाद आज, देहरादून में जुटेंगे दिग्गज, ट्रंप ने फिर दी ईरान को धमकी; पढ़ें सुर्खियां।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमर उजाला संवाद आज, देहरादून में जुटेंगे दिग्गज, ट्रंप ने फिर दी ईरान को धमकी; पढ़ें सुर्खियां",
-          "summary": "देहरादून में आज अमर उजाला संवाद का आयोजन होगा, जिसमें कई दिग्गज शामिल होंगे। इस बीच, ट्रंप ने ईरान को फिर से धमकी दी है। यह आज की प्रमुख राष्ट्रीय और अंतर्राष्ट्रीय सुर्खियां हैं। Top News: अमर उजाला संवाद आज, देहरादून में जुटेंगे दिग्गज, ट्रंप ने फिर दी ईरान को धमकी; पढ़ें सुर्खियां।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जर्मनी में रेल सेवाएं ठप, संचार प्रणाली में आई खराबी; स्टेशनों पर फंसे हजारों यात्री",
-      "url": "https://www.amarujala.com/world/germany-rail-services-halted-after-gsm-r-communication-system-failure-2026-06-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-24T00:10:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/germany-trains_042ec7d8122c96beb2bb4fd5a402d4eb.jpeg?w=1200&dpr=1.0",
-      "summary": "जर्मनी में संचार प्रणाली में खराबी के कारण रेल सेवाएं ठप हो गईं। इस समस्या के चलते हजारों यात्री स्टेशनों पर फंसे रहे। यह खराबी जीएसएम-आर संचार प्रणाली में आई थी। जर्मनी में रेल सेवाएं ठप, संचार प्रणाली में आई खराबी; स्टेशनों पर फंसे हजारों यात्री।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जर्मनी में रेल सेवाएं ठप, संचार प्रणाली में आई खराबी; स्टेशनों पर फंसे हजारों यात्री",
-          "summary": "जर्मनी में संचार प्रणाली में खराबी के कारण रेल सेवाएं ठप हो गईं। इस समस्या के चलते हजारों यात्री स्टेशनों पर फंसे रहे। यह खराबी जीएसएम-आर संचार प्रणाली में आई थी। जर्मनी में रेल सेवाएं ठप, संचार प्रणाली में आई खराबी; स्टेशनों पर फंसे हजारों यात्री।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "जर्मनी में संचार प्रणाली में आई खराबी, देशभर में रोकी गईं ट्रेनें",
-      "url": "https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-trains-halted-across-germany-2026-06-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-23T23:53:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
-      "summary": "जर्मनी में संचार प्रणाली में खराबी आने के कारण देशभर में ट्रेनें रोक दी गईं। इस तकनीकी खराबी ने रेल यातायात को बुरी तरह प्रभावित किया। यात्रियों को असुविधा का सामना करना पड़ा। जर्मनी में संचार प्रणाली में आई खराबी, देशभर में रोकी गईं ट्रेनें।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जर्मनी में संचार प्रणाली में आई खराबी, देशभर में रोकी गईं ट्रेनें",
-          "summary": "जर्मनी में संचार प्रणाली में खराबी आने के कारण देशभर में ट्रेनें रोक दी गईं। इस तकनीकी खराबी ने रेल यातायात को बुरी तरह प्रभावित किया। यात्रियों को असुविधा का सामना करना पड़ा। जर्मनी में संचार प्रणाली में आई खराबी, देशभर में रोकी गईं ट्रेनें।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मुंबई के अंधेरी में भारी बारिश के कारण अंडरपास बंद, जलभराव से जनजीवन अस्त-व्यस्त",
-      "url": "https://www.amarujala.com/india-news/maharashtra-hindi-news-updates-mumbai-bmc-nagpur-pune-education-politics-crime-cm-fadnavis-gadkari-2026-06-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-06-23T23:42:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई के अंधेरी में भारी बारिश के कारण अंडरपास बंद हो गया। मुंबई के अंधेरी में भारी बारिश के कारण अंडरपास बंद, जलभराव से जनजीवन अस्त-व्यस्त।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुंबई के अंधेरी में भारी बारिश के कारण अंडरपास बंद, जलभराव से जनजीवन अस्त-व्यस्त",
-          "summary": "मुंबई के अंधेरी में भारी बारिश के कारण अंडरपास बंद हो गया। मुंबई के अंधेरी में भारी बारिश के कारण अंडरपास बंद, जलभराव से जनजीवन अस्त-व्यस्त।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'परमाणु निरीक्षण से किया इनकार तो रद्द कर दूंगा बैठकें', ट्रंप ने फिर दी ईरान को धमकी",
-      "url": "https://www.amarujala.com/world/donald-trump-says-would-cancel-meetings-with-iran-if-tehran-denies-iaea-nuclear-inspections-west-asia-crisis-2026-06-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-23T23:22:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/10/donald-trump_ef2c0f08f4b33ef48036ab2cb294a396.png?w=1200&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने ईरान को धमकी दी है कि अगर तेहरान ने परमाणु निरीक्षण से इनकार कर दिया तो वह ईरान के साथ बैठकें रद्द कर देंगे। यह बयान पश्चिम एशिया संकट के बीच आया है। ट्रम्प का यह बयान ईरान के परमाणु कार्यक्रम पर चिंताओं के बीच आया है। 'परमाणु निरीक्षण से किया इनकार तो रद्द कर दूंगा बैठकें', ट्रंप ने फिर दी ईरान को धमकी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'परमाणु निरीक्षण से किया इनकार तो रद्द कर दूंगा बैठकें', ट्रंप ने फिर दी ईरान को धमकी",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने ईरान को धमकी दी है कि अगर तेहरान ने परमाणु निरीक्षण से इनकार कर दिया तो वह ईरान के साथ बैठकें रद्द कर देंगे। यह बयान पश्चिम एशिया संकट के बीच आया है। ट्रम्प का यह बयान ईरान के परमाणु कार्यक्रम पर चिंताओं के बीच आया है। 'परमाणु निरीक्षण से किया इनकार तो रद्द कर दूंगा बैठकें', ट्रंप ने फिर दी ईरान को धमकी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कहीं भारी बारिश-आंधी के आसार, तो कहीं झुलसाएगी लू; तीन-चार दिन में यूपी में दस्तक देगा मानसून",
-      "url": "https://www.amarujala.com/india-news/weather-updates-rain-storms-in-some-areas-scorching-heatwave-grip-others-monsoon-set-to-arrive-in-up-four-days-2026-06-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-23T22:29:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/monsoon_3d86a0eeecf88b77816b71624d1c7dce.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश में मौसम का मिजाज बदलने वाला है। कुछ क्षेत्रों में भारी बारिश और आंधी के आसार हैं, जबकि अन्य क्षेत्रों में लू का प्रकोप जारी रहेगा। मानसून के अगले तीन-चार दिनों में राज्य में दस्तक देने की संभावना है। कहीं भारी बारिश-आंधी के आसार, तो कहीं झुलसाएगी लू; तीन-चार दिन में यूपी में दस्तक देगा मानसून।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कहीं भारी बारिश-आंधी के आसार, तो कहीं झुलसाएगी लू; तीन-चार दिन में यूपी में दस्तक देगा मानसून",
-          "summary": "उत्तर प्रदेश में मौसम का मिजाज बदलने वाला है। कुछ क्षेत्रों में भारी बारिश और आंधी के आसार हैं, जबकि अन्य क्षेत्रों में लू का प्रकोप जारी रहेगा। मानसून के अगले तीन-चार दिनों में राज्य में दस्तक देने की संभावना है। कहीं भारी बारिश-आंधी के आसार, तो कहीं झुलसाएगी लू; तीन-चार दिन में यूपी में दस्तक देगा मानसून।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जयशंकर ने कीं कई उच्च-स्तरीय बैठकें, कहा- 1.7 अरब डॉलर की रिफाइनरी परियोजना बेहद अहम",
-      "url": "https://www.amarujala.com/world/india-mongolia-friendship-refinery-project-eas-s-jaishankar-2026-06-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-23T22:20:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/22/magalya-ka-vathasha-matara-sa-mal-esa-jayashakara_263cdc5012728149789eb5e2309c3c57.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय विदेश मंत्री एस. जयशंकर ने मंगोलिया में 1.7 अरब डॉलर की रिफाइनरी परियोजना स्थल का दौरा किया। उन्होंने परियोजना की प्रगति से संतुष्टि जताई और भारत-मंगोलिया सहयोग को मजबूत बनाने पर जोर दिया। भारत-मंगोलिया सहयोग: जयशंकर ने किया 1.7 अरब डॉलर की रिफाइनरी परियोजना स्थल का दौरा, संतुष्टि जताई। भारत-मंगोलिया सहयोग: जयशंकर ने कीं कई उच्च-स्तरीय बैठकें, कहा- 1.7 अरब डॉलर की रिफाइनरी परियोजना बेहद अहम।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जयशंकर ने कीं कई उच्च-स्तरीय बैठकें, कहा- 1.7 अरब डॉलर की रिफाइनरी परियोजना बेहद अहम",
-          "summary": "भारतीय विदेश मंत्री एस. जयशंकर ने मंगोलिया में 1.7 अरब डॉलर की रिफाइनरी परियोजना स्थल का दौरा किया। उन्होंने परियोजना की प्रगति से संतुष्टि जताई और भारत-मंगोलिया सहयोग को मजबूत बनाने पर जोर दिया। भारत-मंगोलिया सहयोग: जयशंकर ने किया 1.7 अरब डॉलर की रिफाइनरी परियोजना स्थल का दौरा, संतुष्टि जताई। भारत-मंगोलिया सहयोग: जयशंकर ने कीं कई उच्च-स्तरीय बैठकें, कहा- 1.7 अरब डॉलर की रिफाइनरी परियोजना बेहद अहम।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी सीनेट ने ट्रंप को दिया झटका, ईरान के खिलाफ सैन्य कार्रवाई रोकने वाला प्रस्ताव पारित",
-      "url": "https://www.patrika.com/world-news/us-iran-war-america-senate-passes-resolution-to-halt-military-action-against-iraqi-army-20691741",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-23T22:15:16+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/donald-trump-6.webp",
-      "summary": "अमेरिकी सीनेट ने ईरान के खिलाफ सैन्य कार्रवाई रोकने वाला प्रस्ताव पारित किया है। Donald Trump: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की ईरान नीति को लेकर वॉशिंगटन में राजनीतिक दबाव बढ़ गया है। अमेरिकी सीनेट ने मंगलवार को एक प्रस्ताव पारित कर ट्रंप प्रशासन से ईरान के खिलाफ सैन्य कार्रवाई खत्म करने और अमेरिकी बलों को संघर्ष से वापस बुलाने की मांग की।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी सीनेट ने ट्रंप को दिया झटका, ईरान के खिलाफ सैन्य कार्रवाई रोकने वाला प्रस्ताव पारित",
-          "summary": "अमेरिकी सीनेट ने ईरान के खिलाफ सैन्य कार्रवाई रोकने वाला प्रस्ताव पारित किया है। Donald Trump: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की ईरान नीति को लेकर वॉशिंगटन में राजनीतिक दबाव बढ़ गया है। अमेरिकी सीनेट ने मंगलवार को एक प्रस्ताव पारित कर ट्रंप प्रशासन से ईरान के खिलाफ सैन्य कार्रवाई खत्म करने और अमेरिकी बलों को संघर्ष से वापस बुलाने की मांग की।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तीन पाकिस्तानी भाइयों ने महिला और 4 बच्चियों के साथ की हैवानियत, अब ऐसी सजा याद रखेंगे 7 पुश्तें",
-      "url": "https://hindi.news18.com/world/britain-uk-pakistani-grooming-gang-3-pakistani-brothers-sentenced-to-jail-for-horrific-abuse-of-woman-and-4-girls-10597626.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-23T21:55:34+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Pakistani-Grooming-Gang-2026-06-0fad1e35ada0ac470e29a99db11b7a9a-1200x800.jpg",
-      "summary": "ब्रिटेन के शेफील्ड में एक अदालत ने पाकिस्तानी ग्रूमिंग गैंग के तीन सगे भाइयों को महिला और चार बच्चियों के यौन शोषण के लिए कई सालों की जेल की सजा सुनाई. पीड़ितों को दो दशक के लंबे इंतजार के बाद न्याय मिला. ब्रिटेन के शेफील्ड से एक बेहद खौफनाक मामला फिर से चर्चा में आ गया है. इस केस में महिलाओं और बच्चियों का यौन शोषण करने वाले पाकिस्तानी ग्रूमिंग गैंग के तीन सगे भाइयों को ब्रिटिश अदालत ने कई सालों की जेल की सजा सुनाई है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तीन पाकिस्तानी भाइयों ने महिला और 4 बच्चियों के साथ की हैवानियत, अब ऐसी सजा याद रखेंगे 7 पुश्तें",
-          "summary": "ब्रिटेन के शेफील्ड में एक अदालत ने पाकिस्तानी ग्रूमिंग गैंग के तीन सगे भाइयों को महिला और चार बच्चियों के यौन शोषण के लिए कई सालों की जेल की सजा सुनाई. पीड़ितों को दो दशक के लंबे इंतजार के बाद न्याय मिला. ब्रिटेन के शेफील्ड से एक बेहद खौफनाक मामला फिर से चर्चा में आ गया है. इस केस में महिलाओं और बच्चियों का यौन शोषण करने वाले पाकिस्तानी ग्रूमिंग गैंग के तीन सगे भाइयों को ब्रिटिश अदालत ने कई सालों की जेल की सजा सुनाई है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सर्जियो गोर ने भारत-अमेरिका ट्रेड डील पर दी ‘गुड न्यूज’, वित्त मंत्री सीतारमण से मिलने के बाद बड़ा",
-      "url": "https://hindi.news18.com/world/america-india-us-trade-deal-sergio-gor-shares-big-update-after-american-delegation-meets-finance-minister-nirmala-sitharaman-10597597.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-23T21:15:38+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Sergio-Gor-2026-06-ee907968f6938230762357db99ac4dd3-1200x800.jpg",
-      "summary": "अमेरिकी राजदूत सर्जियो गोर ने भारत-अमेरिका ट्रेड डील पर 'गुड न्यूज' साझा की। उन्होंने वित्त मंत्री सीतारमण से मिलने के बाद यह बयान दिया। इससे भारत और अमेरिका के बीच आर्थिक संबंधों में सुधार की उम्मीदें बढ़ी हैं। भारत और अमेरिका के बीच आर्थिक व व्यापारिक रिश्तों को एक नए और ऐतिहासिक स्तर पर ले जाने के लिए नई दिल्ली में बैठकों का महा-दौर शुरू हो चुका है, जिसके बीच भारत में अमेरिकी राजदूत सर्जियो गोर ने एक बहुत बड़ी 'गुड न्यूज' साझा की है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सर्जियो गोर ने भारत-अमेरिका ट्रेड डील पर दी ‘गुड न्यूज’, वित्त मंत्री सीतारमण से मिलने के बाद बड़ा",
-          "summary": "अमेरिकी राजदूत सर्जियो गोर ने भारत-अमेरिका ट्रेड डील पर 'गुड न्यूज' साझा की। उन्होंने वित्त मंत्री सीतारमण से मिलने के बाद यह बयान दिया। इससे भारत और अमेरिका के बीच आर्थिक संबंधों में सुधार की उम्मीदें बढ़ी हैं। भारत और अमेरिका के बीच आर्थिक व व्यापारिक रिश्तों को एक नए और ऐतिहासिक स्तर पर ले जाने के लिए नई दिल्ली में बैठकों का महा-दौर शुरू हो चुका है, जिसके बीच भारत में अमेरिकी राजदूत सर्जियो गोर ने एक बहुत बड़ी 'गुड न्यूज' साझा की है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप की सैन्य नीति को झटका?: 'कांग्रेस की मंजूरी के बिना ईरान में सैन्य कार्रवाई नहीं', सीनेट का",
-      "url": "https://www.amarujala.com/world/us-senate-passes-resolution-calling-for-end-to-donald-trump-s-military-action-against-iran-war-powers-resoluti-2026-06-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-23T20:37:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/24/us-senate_a7c77138849e3d0e305189fc75e5394d.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी सीनेट ने एक प्रस्ताव पारित किया है जिसमें कहा गया है कि राष्ट्रपति डोनाल्ड ट्रंप को ईरान के खिलाफ सैन्य कार्रवाई करने से पहले कांग्रेस की मंजूरी लेनी होगी। यह प्रस्ताव 51-49 के मतों से पारित किया गया था। इस प्रस्ताव के तहत ट्रंप की सैन्य नीति पर अंकुश लगाया जा सकता है। ट्रंप की सैन्य नीति को झटका?: 'कांग्रेस की मंजूरी के बिना ईरान में सैन्य कार्रवाई नहीं', सीनेट का।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की सैन्य नीति को झटका?: 'कांग्रेस की मंजूरी के बिना ईरान में सैन्य कार्रवाई नहीं', सीनेट का",
-          "summary": "अमेरिकी सीनेट ने एक प्रस्ताव पारित किया है जिसमें कहा गया है कि राष्ट्रपति डोनाल्ड ट्रंप को ईरान के खिलाफ सैन्य कार्रवाई करने से पहले कांग्रेस की मंजूरी लेनी होगी। यह प्रस्ताव 51-49 के मतों से पारित किया गया था। इस प्रस्ताव के तहत ट्रंप की सैन्य नीति पर अंकुश लगाया जा सकता है। ट्रंप की सैन्य नीति को झटका?: 'कांग्रेस की मंजूरी के बिना ईरान में सैन्य कार्रवाई नहीं', सीनेट का।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
