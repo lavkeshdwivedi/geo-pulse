@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-25T09:13:19.043964+00:00",
+  "generated_at": "2026-06-25T11:02:30.550428+00:00",
   "article_count": 50,
-  "total_unique_count": 275,
+  "total_unique_count": 272,
   "digest": {
-    "en": "Myanmar's military consolidation and Armenia's election campaigns dominate headlines. The EU's budget for global turmoil and the potential impact of a U.S.-Iran deal on Netanyahu also draw attention. Djibouti's strategic position and Venezuela's earthquake aftermath are further points of focus.",
-    "hi": "वेनेजुएला में भूकंप से तबाही मची है। प्रधानमंत्री नरेंद्र मोदी ने दुख जताया है। अमेरिकी राष्ट्रपति ट्रंप ने मदद का हाथ बढ़ाया है।"
+    "en": "Asia-Pacific leads the board this hour with Myanmar’s New Administration: Military Consolidation, Not Transition. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "वेनेजुएला में भूकंप के बाद सुनामी का खतरा है। अमेरिकी रूट को ईरान ने रिजेक्ट कर दिया है। भारत के UPI सिस्टम का अमेरिका कायल है।"
   },
   "articles": [
     {
@@ -68,14 +68,62 @@
       "translations": {}
     },
     {
-      "title": "Venezuela earthquakes leave at least 32 dead, 700 injured and dozens of buildings collapsed",
+      "title": "Venezuela earthquakes leave at least 164 dead, 971 injured and dozens of buildings collapsed",
       "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-06-25T09:02:38+00:00",
+      "published_at": "2026-06-25T10:45:49+00:00",
       "image_url": "https://i.guim.co.uk/img/media/95b7892365e57d0fcf5045a59fb2fe9ff15b1f32/1267_188_4925_3940/master/4925.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c3dbf3590b0163ca0ad6da775f5ec25b",
       "summary": "A state of emergency was declared in Venezuela after two powerful earthquakes struck the country. The quakes registered magnitudes of 7.2 and 7.5. Buildings collapsed in the capital, Caracas, sending residents into the streets. Officials warned of widespread damage and high casualties. Rescue efforts are underway in affected areas. Two powerful earthquakes – with magnitudes of 7.2 and 7.5 – sent residents running into the streets as buildings shook and collapsedVenezuela earthquakes: back-to-back quakes collapse buildings in capital CaracasVolunteers, medics and relatives of victims have raced to the Altamira area in Caracas hoping to help save survivors from the rubble of collapsed buildings there.",
       "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Veterans Of Iran Talks Say Verification Will Be ‘Heavy Slog’ With Details Of Access Key To Success",
+      "url": "https://www.rferl.org/a/iran-us-verification-nuclear-iaea/33788603.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-06-25T10:25:20+00:00",
+      "image_url": "https://gdb.rferl.org/F644B413-CCE6-4010-9E07-EDA5A426D76D_cx0_cy10_cw0_w1200_h630.jpg",
+      "summary": "Former officials from Iran nuclear talks stated verifying Iranian compliance will be difficult. Amid an ongoing row between Washington and Tehran over whether international monitors can verify Iranian compliance with its nuclear nonproliferation commitments, former officials have told RFE/RL that the scale, scope, and degree of access are crucial to the success of inspections. Veterans Of Iran Talks Say Verification Will Be ‘Heavy Slog’ With Details Of Access Key To Success.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Datacentres facing increase in global climate-related legal cases, report finds",
+      "url": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-25T10:03:54+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/2afc5aee674458b011367ab1b481dc030edca6bd/585_0_3712_2970/master/3712.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=194b0bf962dec156d33b69afcdd137dd",
+      "summary": "Datacentres and AI facilities face growing climate-related legal cases worldwide. LSE analysis highlights litigation linked to energy sources, water consumption and air pollutionThe proliferation of datacentres and AI is increasingly at the forefront of environmental litigation around the world from Chile to Ireland, a report has found. In an analysis of about 3,600 climate-related lawsuits filed since 2015, the latest annual review of climate litigation by the London School of.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Venezuela capital hit by double earthquake as experts warn of high death toll",
+      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-25T09:25:38+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/059976cc3ece33393907dd5bb0249d0e355ca62f/815_0_4755_3804/master/4755.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21987fbb4bf98c28f830155c7227cac0",
+      "summary": "Venezuela's interim leader Delcy Rodríguez declared a state of emergency after two Homes and buildings collapse after double quake, with tremors felt in neighbouring ColombiaVenezuela earthquakes: follow live updatesVenezuela’s interim leader, Delcy Rodríguez, has declared a state of emergency after the country was struck by two powerful earthquakes that collapsed dozens of buildings and killed at least 32 people, with experts warning the death toll could rise significantly. Rodr.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Jaishankar calls for closer cooperation with South Korea at Jeju Forum",
+      "url": "https://www.thehindu.com/news/national/jaishankar-calls-for-closer-cooperation-with-south-korea-at-jeju-forum/article71145521.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-06-25T09:19:17+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/1ilsfp/article71145556.ece/alternates/LANDSCAPE_1200/20260625084L.jpg",
+      "summary": "External Affairs Minister S. Mr. Jaishankar also called for “greater capacity and opportunities” for the Global South to create new factors of growth, while highlighting that “the interests of a few” nations are being “openly prioritised” - without naming any country. Jaishankar calls for closer cooperation with South Korea at Jeju Forum.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -86,20 +134,8 @@
       "sources": [],
       "published_at": "2026-06-25T08:06:29+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/37f9ii/article71145396.ece/alternates/LANDSCAPE_1200/2026-06-24T192645Z_1219739745_RC2J0MAPAAHX_RTRMADP_3_USA-TRUMP.JPG",
-      "summary": "U. S. Senate Republicans rejected a War Powers resolution. It’s unclear whether the move will be enough to appease Mr. Trump, who had called the Republicans “losers” for voting against his war and had called Sen. Bill Cassidy a “lunatic” at the lunch after their tense exchange. Senate Republicans reject War Powers resolution after Trump berates them.",
+      "summary": "U. S. Senate Republicans rejected a War Powers resolution. It’s unclear whether the move will be enough to appease Mr. Trump, who had called the Republicans “losers” for voting against his war and had called Sen. Bill Cassidy a “lunatic” at the lunch after their tense exchange. Senate Republicans reject War Powers resolution after Trump berates them. U. S.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "How months of closure creates challenges for ships",
-      "url": "https://www.thehindu.com/business/Economy/strait-of-hormuz-how-months-of-closure-creates-challenges-for-ships/article71145152.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-25T07:08:49+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/af3icq/article71145188.ece/alternates/LANDSCAPE_1200/2026-06-23T161547Z_1278724895_RC2AWLA73PVU_RTRMADP_3_IRAN-CRISIS-SHIPPING-RATES.JPG",
-      "summary": "Hundreds of vessels anchored for weeks or months near the Strait of Hormuz face technical, operational Even if shipping traffic resumes through the Strait of Hormuz, hundreds of vessels that have spent weeks or months waiting at anchor must first overcome a range of technical, operational and human challenges before returning to normal trade. How months of closure creates challenges for ships.",
-      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -112,18 +148,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2023/08/13-Tier-One-security-as-Kim-meets-adoring-crowds-KCNA-July-29-2022-png.png",
       "summary": "Foreign ministries worldwide manage vast information streams. Today, foreign ministries across the world are drowning in information. news reports, intelligence assessments, social media posts, satellite imagery, economic data, speeches and diplomatic cables. AI can summarize thousands of documents in minutes, track political sentiment across countries, detect emerging crises earlier, analyze sanctions, dissect trade flows and monitor military movements. Th. Why AI will never master diplomacy.",
       "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S.-Iran deal may leave Netanyahu as biggest casualty: analysts",
-      "url": "https://www.thehindu.com/news/international/us-iran-deal-may-leave-netanyahu-as-biggest-casualty-analysts/article71145083.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-25T06:42:53+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/6g5w96/article71145107.ece/alternates/LANDSCAPE_1200/2026-06-24T073916Z_2062758404_RC2VS4A8VWIU_RTRMADP_3_ISRAEL-PALESTINIANS-MINISTER-SON-FUNERAL.JPG",
-      "summary": "A potential U. S.-Iran deal could isolate Benjamin Netanyahu. “Not only did he lose the war with Iran, ​he has also lost Trump as a friend. He is now isolated not only ‌internationally, but locked in a major dispute with Trump,” a former Netanyahu adviser says. U. S.-Iran deal may leave Netanyahu as biggest casualty: analysts.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -148,18 +172,6 @@
       "image_url": "https://i.guim.co.uk/img/media/a9629128064a249473e8e8170670dcf08def51a2/577_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02eefa5f71c237a8ed621d5b72d6dc87",
       "summary": "El Niño brought frost and prolonged dry conditions to Papua New Guinea's Highlands Oxfam predicts PNG will be worst-hit country in Pacific from the weather pattern, with up to 3 million people affected nationwideFamilies across Papua New Guinea’s Highlands are facing depleted harvests and the threat of hunger after the El Niño weather pattern brought frost and prolonged dry conditions that have destroyed food gardens providing sustenance and income for thousands of households. Th.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Fatal back-to-back earthquakes in Caracas as experts warn of heavy death toll",
-      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-24T23:50:05+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/059976cc3ece33393907dd5bb0249d0e355ca62f/815_0_4755_3804/master/4755.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21987fbb4bf98c28f830155c7227cac0",
-      "summary": "Venezuela's interim leader Delcy Rodríguez declared a state of emergency after two Homes and buildings collapse after double quake, with tremors felt in neighbouring ColombiaVenezuela earthquakes: follow live updatesVenezuela’s interim leader, Delcy Rodríguez, has declared a state of emergency after the country was struck by two powerful earthquakes that collapsed dozens of buildings and killed at least 32 people, with experts warning the death toll could rise significantly. Rodr.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -296,85 +308,55 @@
       "translations": {}
     },
     {
-      "title": "Stranded Hormuz seafarers begin mass evacuation operation",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167794",
-      "source": "UN News",
+      "title": "जिस जेलेंस्की को कभी 'तानाशाह' कहते थे ट्रंप, अब उसी की तारीफ में पढ़े कसीदे, बोले- लड़ने की हिम्मत",
+      "url": "https://hindi.news18.com/world/america-donald-trump-praises-zelenskyy-calls-him-brave-amid-russia-ukraine-war-10602280.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-24T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image770x420cropped.jpg",
-      "summary": "The UN International Maritime Organization launched a mass evacuation plan for over 11,0 As the UN International Maritime Organization (IMO) released more details of its plan to evacuate more than 11,000 seafarers stranded in the Strait of Hormuz, one mariner caught up in the emergency has described the ever-present fear of coming under attack. Stranded Hormuz seafarers begin mass evacuation operation.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "वेनेजुएला में भूकंप से तबाही, PM नरेंद्र मोदी ने जताया दुख, ट्रंप ने मदद का बढ़ाया हाथ",
-      "url": "https://www.patrika.com/world-news/venezuela-earthquake-many-people-dead-pm-modi-expresses-grief-donald-trump-shares-post-20695008",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T08:37:55+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Venezuela-Earthquake.png",
-      "summary": "वेनेजुएला के उत्तरी तट पर बुधवार शाम को दो भूकंप आए। 7.2 और 7. Venezuela 7.2 Magnitude Earthquake: वेनेजुएला के उत्तरी तट पर बुधवार शाम को दो भूकंपों ने तबाही मचा दी। 7.2 और 7.5 तीव्रता के ये भूकंप मात्र 38-45 सेकंड के अंतराल पर आए, जिससे कराकास समेत कई इलाकों में इमारतें ढह गईं, बिजली और गैस आपूर्ति बाधित हुई तथा हवाई अड्डा बंद करना पड़ा।",
-      "region": "Americas",
+      "published_at": "2026-06-25T10:07:01+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/putin-zelensky-3-2026-06-fe805e7a1b156ca663dae542064b5824-1200x800.jpg",
+      "summary": "पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने यूक्रेन के राष्ट्रपति वलोडिमिर जेलेंस्की की प्रशंसा की है। Russia Ukraine War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने यूक्रेन के राष्ट्रपति जेलेंस्की की जमकर तारीफ की है. ट्रंप ने कहा कि जेलेंस्की रूस के खिलाफ मजबूती से डटे हुए हैं और उनके पास बहादुर सैनिक हैं. नाटो प्रमुख मार्क रुटे के साथ बैठक के दौरान ट्रंप ने यूक्रेन की सैन्य क्षमता और उसके संघर्ष की सराहना की.",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वेनेजुएला में भूकंप से तबाही, PM नरेंद्र मोदी ने जताया दुख, ट्रंप ने मदद का बढ़ाया हाथ",
-          "summary": "वेनेजुएला के उत्तरी तट पर बुधवार शाम को दो भूकंप आए। 7.2 और 7. Venezuela 7.2 Magnitude Earthquake: वेनेजुएला के उत्तरी तट पर बुधवार शाम को दो भूकंपों ने तबाही मचा दी। 7.2 और 7.5 तीव्रता के ये भूकंप मात्र 38-45 सेकंड के अंतराल पर आए, जिससे कराकास समेत कई इलाकों में इमारतें ढह गईं, बिजली और गैस आपूर्ति बाधित हुई तथा हवाई अड्डा बंद करना पड़ा।",
-          "region": "अमेरिका"
+          "title": "जिस जेलेंस्की को कभी 'तानाशाह' कहते थे ट्रंप, अब उसी की तारीफ में पढ़े कसीदे, बोले- लड़ने की हिम्मत",
+          "summary": "पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने यूक्रेन के राष्ट्रपति वलोडिमिर जेलेंस्की की प्रशंसा की है। Russia Ukraine War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने यूक्रेन के राष्ट्रपति जेलेंस्की की जमकर तारीफ की है. ट्रंप ने कहा कि जेलेंस्की रूस के खिलाफ मजबूती से डटे हुए हैं और उनके पास बहादुर सैनिक हैं. नाटो प्रमुख मार्क रुटे के साथ बैठक के दौरान ट्रंप ने यूक्रेन की सैन्य क्षमता और उसके संघर्ष की सराहना की.",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "वेनेजुएला भूकंप के पीछे की वजह सामने! USGS की रिपोर्ट ने खोले राज",
-      "url": "https://www.patrika.com/world-news/venezuela-earthquake-many-people-dead-usgs-report-know-reason-20695414",
-      "source": "Patrika (World)",
+      "title": "2 सीक्रेट बैठकें, बैक चैनल से बात, लाइन पर आया पाकिस्तान, भारत से सुधरेंगे रिश्ते?",
+      "url": "https://hindi.news18.com/world/pakistan-india-pakistan-fresh-talks-in-colombo-bangkok-terrorism-economy-in-center-normalizing-relations-10602242.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-25T08:37:05+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Venezuela-Earthquake-.webp",
-      "summary": "वेनेजुएला में गुरुवार को 7.2 तीव्रता का भूकंप आया। इसके साथ ही जापान में भी 6.9 तीव्रता के झटके महसूस किए गए। इन भूकंपों ने लोगों में दहशत फैलाई और कई इलाकों में अफरा-तफरी मच गई। Venezuela 7.2 Magnitude Earthquake: वेनेजुएला और जापान में गुरुवार तड़के आए भूकंपों ने लोगों में दहशत फैला दी। वेनेजुएला में लगातार दो बड़े भूकंप दर्ज किए गए, जबकि जापान में भी धरती 6.9 तीव्रता के झटकों से कांप उठी।",
+      "published_at": "2026-06-25T10:06:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/pak-india-2-2026-06-159920dd16bcc56bb28abf8536fc1f5e-1200x800.jpg",
+      "summary": "भारत और पाकिस्तान के प्रतिनिधियों ने इस हफ्ते श्रीलंका के कोलंबो और थाईलैंड के बैंकॉक में ट्रैक-2 कूट India Pakistan Fresh Talks: भारत और पाकिस्तान के प्रतिनिधियों के बीच इस हफ्ते श्रीलंका की राजधानी कोलंबो और थाईलैंड की राजधानी बैंकॉक में ट्रैक-2 कूटनीतिक वार्ता का नया दौर हुआ. इन बैठकों का मुख्य उद्देश्य संकट के समय दोनों देशों के बीच बातचीत की व्यवस्था को मजबूत करना और तनाव बढ़ने से रोकने के उपायों पर चर्चा करना था.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वेनेजुएला भूकंप के पीछे की वजह सामने! USGS की रिपोर्ट ने खोले राज",
-          "summary": "वेनेजुएला में गुरुवार को 7.2 तीव्रता का भूकंप आया। इसके साथ ही जापान में भी 6.9 तीव्रता के झटके महसूस किए गए। इन भूकंपों ने लोगों में दहशत फैलाई और कई इलाकों में अफरा-तफरी मच गई। Venezuela 7.2 Magnitude Earthquake: वेनेजुएला और जापान में गुरुवार तड़के आए भूकंपों ने लोगों में दहशत फैला दी। वेनेजुएला में लगातार दो बड़े भूकंप दर्ज किए गए, जबकि जापान में भी धरती 6.9 तीव्रता के झटकों से कांप उठी।",
+          "title": "2 सीक्रेट बैठकें, बैक चैनल से बात, लाइन पर आया पाकिस्तान, भारत से सुधरेंगे रिश्ते?",
+          "summary": "भारत और पाकिस्तान के प्रतिनिधियों ने इस हफ्ते श्रीलंका के कोलंबो और थाईलैंड के बैंकॉक में ट्रैक-2 कूट India Pakistan Fresh Talks: भारत और पाकिस्तान के प्रतिनिधियों के बीच इस हफ्ते श्रीलंका की राजधानी कोलंबो और थाईलैंड की राजधानी बैंकॉक में ट्रैक-2 कूटनीतिक वार्ता का नया दौर हुआ. इन बैठकों का मुख्य उद्देश्य संकट के समय दोनों देशों के बीच बातचीत की व्यवस्था को मजबूत करना और तनाव बढ़ने से रोकने के उपायों पर चर्चा करना था.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "पूरी रात चल रहा रेसक्यू ऑपरेशन, मलबे के नीचे फंसे लोगों की आ रही चीखें",
-      "url": "https://hindi.news18.com/world/rest-of-world-venezuela-earthquake-today-live-caracas-buildings-collapse-tsunami-warning-death-toll-japan-bhukamp-livenews-10600973.html",
+      "title": "भारत के UPI सिस्टम का कायल है अमेरिका, डिजिटल पेमेंट के फ्यूचर की आई बात, तो हुआ मॉडर्न सिस्टम का",
+      "url": "https://hindi.news18.com/world/america-us-lawmakers-louds-indian-upi-model-in-modern-payments-reform-debate-calls-it-perfect-ws-l-10602085.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-25T08:33:40+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/venezuela-9-2026-06-9fcc2375cea652784a523790b85bd493-1200x800.jpg",
-      "summary": "वेनेजुएला के उत्तरी तट पर 7.5 तीव्रता का भूकंप आया। राजधानी कराकास में कई इमारतों को नुकसान पहुंचा। लोग घरों और दफ्तरों से बाहर सड़कों पर आ गए। शुरुआती सुनामी चेतावनी वापस ले ली गई। हजारों लोगों के मारे जाने की आशंका है। लोग घरों और दफ्तरों से बाहर निकलकर सड़कों पर आ गए. शुरुआती सुनामी चेतावनी बाद में वापस ले ली गई.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पूरी रात चल रहा रेसक्यू ऑपरेशन, मलबे के नीचे फंसे लोगों की आ रही चीखें",
-          "summary": "वेनेजुएला के उत्तरी तट पर 7.5 तीव्रता का भूकंप आया। राजधानी कराकास में कई इमारतों को नुकसान पहुंचा। लोग घरों और दफ्तरों से बाहर सड़कों पर आ गए। शुरुआती सुनामी चेतावनी वापस ले ली गई। हजारों लोगों के मारे जाने की आशंका है। लोग घरों और दफ्तरों से बाहर निकलकर सड़कों पर आ गए. शुरुआती सुनामी चेतावनी बाद में वापस ले ली गई.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "वेनेजुएला और जापान के भूकंप के वीडियो आए सामने, चारों तरफ मची अफरा-तफरी, मलबे में तब्दील पूरा इलाका",
-      "url": "https://www.patrika.com/world-news/videos-of-the-venezuela-and-japan-earthquakes-have-surfaced-leaving-the-entire-area-in-ruins-20694806",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T08:29:37+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Venezuela-Earthquake.webp",
-      "summary": "वेनेजुएला और जापान में भूकंप के झटके महसूस किए गए, मलबे में तब्दील पूरा इलाका। Venezuela Earthquake: वेनेजुएला और जापान में लोगों ने भूकंप के झटके महसूस किए। वेनेजुएला में एक के बाद एक दो बड़े भूकंप आए। पहला सैन फेलिप शहर से 24 किलोमीटर ईस्टर्न नॉर्थईस्ट में भारतीय समानुसार सुबह 3 बजकर 34 मिनट पर 7.2 तीव्रता का आया।",
+      "published_at": "2026-06-25T09:21:17+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/UPI-SYSTEM-2026-06-d194888917553c230d39a08ab3f89e49-1200x800.jpg",
+      "summary": "अमेरिका ने भारत के यूनिफाइड पेमेंट्स इंटरफेस (UPI) सिस्टम की सराहना की है। US Applauds Indian UPI System: भारत और अमेरिकी के बीच तकनीकी स्तर पर वैसे भले ही फर्क हो, लेकिन भारत ने एक ऐसा सुधार किया है, जिसे लेकर कई देश उसकी तारीफ कर चुके हैं. हम बात कर रहे हैं यूपीआई सिस्टम की, जिसे लेकर अमेरिका भी आज भारत की तारीफ कर रहा है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वेनेजुएला और जापान के भूकंप के वीडियो आए सामने, चारों तरफ मची अफरा-तफरी, मलबे में तब्दील पूरा इलाका",
-          "summary": "वेनेजुएला और जापान में भूकंप के झटके महसूस किए गए, मलबे में तब्दील पूरा इलाका। Venezuela Earthquake: वेनेजुएला और जापान में लोगों ने भूकंप के झटके महसूस किए। वेनेजुएला में एक के बाद एक दो बड़े भूकंप आए। पहला सैन फेलिप शहर से 24 किलोमीटर ईस्टर्न नॉर्थईस्ट में भारतीय समानुसार सुबह 3 बजकर 34 मिनट पर 7.2 तीव्रता का आया।",
+          "title": "भारत के UPI सिस्टम का कायल है अमेरिका, डिजिटल पेमेंट के फ्यूचर की आई बात, तो हुआ मॉडर्न सिस्टम का",
+          "summary": "अमेरिका ने भारत के यूनिफाइड पेमेंट्स इंटरफेस (UPI) सिस्टम की सराहना की है। US Applauds Indian UPI System: भारत और अमेरिकी के बीच तकनीकी स्तर पर वैसे भले ही फर्क हो, लेकिन भारत ने एक ऐसा सुधार किया है, जिसे लेकर कई देश उसकी तारीफ कर चुके हैं. हम बात कर रहे हैं यूपीआई सिस्टम की, जिसे लेकर अमेरिका भी आज भारत की तारीफ कर रहा है.",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -398,96 +380,6 @@
       }
     },
     {
-      "title": "युद्ध, गरीबी और बेबसी, यमन की लड़कियां विदेशी दूल्हों के भरोसे क्यों? किसी का सपना पूरा, किसी की",
-      "url": "https://hindi.news18.com/world/rest-of-world-why-yemeni-women-are-marrying-wealthy-foreign-men-amid-war-and-poverty-10601721.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T08:25:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/sanaa-2026-06-693bf8109dd8404f798eb8b0d769603b-1200x800.jpg",
-      "summary": "यमन में युद्ध और आर्थिक संकट के कारण कई युवा महिलाएं विदेशी पुरुषों से शादी कर देश छोड़ने का प्रयास कर रही हैं. कुछ महिलाओं को बेहतर जीवन मिला है, लेकिन कई धोखाधड़ी और असफल विवाह का शिकार हुई हैं. विशेषज्ञों का मानना है कि यह बढ़ती सामाजिक और आर्थिक कठिनाइयों का परिणाम है. युद्ध और आर्थिक संकट से जूझ रहे यमन में कई युवा महिलाएं विदेशी और अमीर पुरुषों से शादी करना चाह रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "युद्ध, गरीबी और बेबसी, यमन की लड़कियां विदेशी दूल्हों के भरोसे क्यों? किसी का सपना पूरा, किसी की",
-          "summary": "यमन में युद्ध और आर्थिक संकट के कारण कई युवा महिलाएं विदेशी पुरुषों से शादी कर देश छोड़ने का प्रयास कर रही हैं. कुछ महिलाओं को बेहतर जीवन मिला है, लेकिन कई धोखाधड़ी और असफल विवाह का शिकार हुई हैं. विशेषज्ञों का मानना है कि यह बढ़ती सामाजिक और आर्थिक कठिनाइयों का परिणाम है. युद्ध और आर्थिक संकट से जूझ रहे यमन में कई युवा महिलाएं विदेशी और अमीर पुरुषों से शादी करना चाह रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मसूद पेज़ेशकियान ने ईरान को बताया शक्तिशाली और सम्मानित देश, सेना को दिया दुश्मन को सबक सिखाने का",
-      "url": "https://www.patrika.com/world-news/iran-now-recognised-as-powerful-and-dignified-nation-masoud-pezeshkian-says-20695727",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T08:21:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/pezeshkian-.webp",
-      "summary": "ईरानी राष्ट्रपति मसूद पेज़ेशकियान ने कहा है कि ईरान एक शक्तिशाली और सम्मानित देश है। उन्होंने सेना को दुश्मन को सबक सिखाने की क्षमता के लिए सराहा। यह बयान ऐसे समय आया है जब ईरान और अमेरिका के बीच एक शांति समझौते की खबरें हैं। इस समझौते के तहत होर्मुज जलडमरूमध्य जहाजों के लिए खोल दिया गया है। दोनों देश इस समझौते को अपनी जीत बता रहे हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मसूद पेज़ेशकियान ने ईरान को बताया शक्तिशाली और सम्मानित देश, सेना को दिया दुश्मन को सबक सिखाने का",
-          "summary": "ईरानी राष्ट्रपति मसूद पेज़ेशकियान ने कहा है कि ईरान एक शक्तिशाली और सम्मानित देश है। उन्होंने सेना को दुश्मन को सबक सिखाने की क्षमता के लिए सराहा। यह बयान ऐसे समय आया है जब ईरान और अमेरिका के बीच एक शांति समझौते की खबरें हैं। इस समझौते के तहत होर्मुज जलडमरूमध्य जहाजों के लिए खोल दिया गया है। दोनों देश इस समझौते को अपनी जीत बता रहे हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पृथ्‍वी तो लगातार घूमती है, फ‍िर जरा सा ह‍िलते ही क्‍यों आता है भूकंप? मच जाती है तबाही, एक्सपर्ट",
-      "url": "https://hindi.news18.com/news/knowledge/explain-earth-rotates-on-axis-regularly-then-why-slight-shift-in-plates-triggers-earthquake-massive-destruction-du-geographer-salim-mir-10601900.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T08:11:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/earthquake-reasons-2026-06-51643f95c84a233a49faa07f85177c92-1200x800.jpg",
-      "summary": "दिल्ली यूनिवर्सिटी के भूगोल विभाग के असिस्टेंट प्रोफेसर डॉक्टर सलीम मीर ने भूकंप के पीछे के विज्ञान पर बात की। दिल्ली यूनिवर्सिटी में डिपार्टमेंट ऑफ जियोग्राफी में असिस्टेंट प्रोफेसर डॉक्टर सलीम मीर से जानते हैं क‍ि पृथ्वी अपनी धुरी पर घूमती रहती है और लगातार घूमती है, लेक‍िन आख‍िर क्‍यों हल्‍के से झटके से ही भूकंप जैसा जलजला आ जाता है और तबाही मच जाती है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पृथ्‍वी तो लगातार घूमती है, फ‍िर जरा सा ह‍िलते ही क्‍यों आता है भूकंप? मच जाती है तबाही, एक्सपर्ट",
-          "summary": "दिल्ली यूनिवर्सिटी के भूगोल विभाग के असिस्टेंट प्रोफेसर डॉक्टर सलीम मीर ने भूकंप के पीछे के विज्ञान पर बात की। दिल्ली यूनिवर्सिटी में डिपार्टमेंट ऑफ जियोग्राफी में असिस्टेंट प्रोफेसर डॉक्टर सलीम मीर से जानते हैं क‍ि पृथ्वी अपनी धुरी पर घूमती रहती है और लगातार घूमती है, लेक‍िन आख‍िर क्‍यों हल्‍के से झटके से ही भूकंप जैसा जलजला आ जाता है और तबाही मच जाती है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "संकट की घड़ी में वेनेजुएला के साथ आया भारत, कार्यवाहक राष्ट्रपति ने पीएम मोदी को कहा- थैंक्यू",
-      "url": "https://hindi.news18.com/world/rest-of-world-india-offers-help-to-venezuela-after-devastating-earthquake-delcy-rodriguez-thanks-pm-modi-ws-l-10601867.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T07:37:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/india-venezuela-2026-06-3465091bcf4602ef0ced44de9315c43b-1200x800.jpg",
-      "summary": "भारत ने वेनेजुएला में आए भीषण भूकंप के बाद मदद की पेशकश की। India Offers Help to Venezuela: वेनेजुएला में आए भीषण भूकंप के बाद भारत ने मदद का हाथ बढ़ाया है. प्रधानमंत्री नरेंद्र मोदी ने प्रभावित लोगों के प्रति संवेदना जताते हुए हर संभव सहायता का भरोसा दिया. इस पर वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने भारत का धन्यवाद किया और इसे मानवीय सहयोग का महत्वपूर्ण कदम बताया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संकट की घड़ी में वेनेजुएला के साथ आया भारत, कार्यवाहक राष्ट्रपति ने पीएम मोदी को कहा- थैंक्यू",
-          "summary": "भारत ने वेनेजुएला में आए भीषण भूकंप के बाद मदद की पेशकश की। India Offers Help to Venezuela: वेनेजुएला में आए भीषण भूकंप के बाद भारत ने मदद का हाथ बढ़ाया है. प्रधानमंत्री नरेंद्र मोदी ने प्रभावित लोगों के प्रति संवेदना जताते हुए हर संभव सहायता का भरोसा दिया. इस पर वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने भारत का धन्यवाद किया और इसे मानवीय सहयोग का महत्वपूर्ण कदम बताया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "56 साल पुराने कानून, हाईकोर्ट के 2013 के फैसले में क्या, सरकार को स्पष्टीकरण क्यों देना पड़ा?",
-      "url": "https://www.amarujala.com/india-news/government-clarifies-passport-never-been-proof-of-indian-citizenship-cites-1967-act-bombay-high-court-decision-2026-06-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-25T07:29:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/pasaparata_e83c5139aa9b5393e83dce7c4e5189f6.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत सरकार ने स्पष्ट किया कि पासपोर्ट कभी भी भारतीय नागरिकता का प्रमाण नहीं रहा है। Passport: 'पासपोर्ट कभी भी नागरिकता का प्रमाण नहीं रहा', सरकार ने 56 साल पुराने कानून का क्यों दिया हवाला? 56 साल पुराने कानून, हाईकोर्ट के 2013 के फैसले में क्या, सरकार को स्पष्टीकरण क्यों देना पड़ा?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "56 साल पुराने कानून, हाईकोर्ट के 2013 के फैसले में क्या, सरकार को स्पष्टीकरण क्यों देना पड़ा?",
-          "summary": "भारत सरकार ने स्पष्ट किया कि पासपोर्ट कभी भी भारतीय नागरिकता का प्रमाण नहीं रहा है। Passport: 'पासपोर्ट कभी भी नागरिकता का प्रमाण नहीं रहा', सरकार ने 56 साल पुराने कानून का क्यों दिया हवाला? 56 साल पुराने कानून, हाईकोर्ट के 2013 के फैसले में क्या, सरकार को स्पष्टीकरण क्यों देना पड़ा?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "वेनेजुएला में भूकंप के बाद अब सुनामी का खतरा, 10000 से 100000 लोगों के मारे जाने की आशंका, इमरजेंसी",
       "url": "https://www.patrika.com/world-news/venezuelan-president-delcy-rodriguez-issued-an-emergency-tsunami-warning-following-the-earthquake-20694711",
       "source": "Patrika (World)",
@@ -506,74 +398,20 @@
       }
     },
     {
-      "title": "जेल से रिहा होकर गायब हुआ गिरधर, परिजनों ने कर दिया था अंतिम संस्कार, जिंदा घर लौटने पर उड़े होश",
-      "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/girdhar-who-went-missing-after-being-released-from-jail-in-ghaziabad-returned-home-alive-after-13-days-2026-06-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-25T07:19:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/jatha-ghara-lta-garathhara_f00843b67a78c64b0426d0cb3bda4f5f.jpeg?w=1200&dpr=1.0",
-      "summary": "गिरधर सिंह बिष्ट 17 मई को कौशांबी पुलिस द्वारा मारपीट के एक मामले में जेल भेजे गए थे. 17 मई को मारपीट के मामले में कौशांबी पुलिस ने प्राथमिकी दर्ज कर गिरधर सिंह बिष्ट को जेल भेजा था। 21 मई को एसीपी शालीमार गार्डन की कोर्ट से रिहाई का परवाना भेजा गया और गिरधर जेल से रिहा हो गए लेकिन घर नहीं लौटे।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जेल से रिहा होकर गायब हुआ गिरधर, परिजनों ने कर दिया था अंतिम संस्कार, जिंदा घर लौटने पर उड़े होश",
-          "summary": "गिरधर सिंह बिष्ट 17 मई को कौशांबी पुलिस द्वारा मारपीट के एक मामले में जेल भेजे गए थे. 17 मई को मारपीट के मामले में कौशांबी पुलिस ने प्राथमिकी दर्ज कर गिरधर सिंह बिष्ट को जेल भेजा था। 21 मई को एसीपी शालीमार गार्डन की कोर्ट से रिहाई का परवाना भेजा गया और गिरधर जेल से रिहा हो गए लेकिन घर नहीं लौटे।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "यूपी भाजपा की नई टीम का एलान: राजनाथ सिंह के बेटे को मिला ये पद, पूजा पाल बनाई गईं उपाध्यक्ष; देखें",
-      "url": "https://www.amarujala.com/lucknow/up-bjp-bjp-expands-organization-ahead-of-up-elections-releases-list-of-state-office-bearers-2026-06-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-25T07:12:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/up-bjp_14374a1b3bba8beead215280b5994718.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश भाजपा ने आगामी विधानसभा चुनावों से पहले अपनी नई टीम की घोषणा की है। यूपी भाजपा ने विधानसभा चुनाव से पहले नई टीम का एलान कर दिया है। भाजपा की नई टीम में ओबीसी को तरजीह दी गई है। रक्षामंत्री राजनाथ सिंह के बेटे नीरज सिंह को भाजपा उपाध्यक्ष बनाया गया है। यूपी भाजपा की नई टीम का एलान: राजनाथ सिंह के बेटे को मिला ये पद, पूजा पाल बनाई गईं उपाध्यक्ष; देखें।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपी भाजपा की नई टीम का एलान: राजनाथ सिंह के बेटे को मिला ये पद, पूजा पाल बनाई गईं उपाध्यक्ष; देखें",
-          "summary": "उत्तर प्रदेश भाजपा ने आगामी विधानसभा चुनावों से पहले अपनी नई टीम की घोषणा की है। यूपी भाजपा ने विधानसभा चुनाव से पहले नई टीम का एलान कर दिया है। भाजपा की नई टीम में ओबीसी को तरजीह दी गई है। रक्षामंत्री राजनाथ सिंह के बेटे नीरज सिंह को भाजपा उपाध्यक्ष बनाया गया है। यूपी भाजपा की नई टीम का एलान: राजनाथ सिंह के बेटे को मिला ये पद, पूजा पाल बनाई गईं उपाध्यक्ष; देखें।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पैदा कराए 5 बच्चे और फेंक दिया कोठरी में, 12 साल से नर्क झेल रही थी फ्रेंच महिला, पाकिस्तानी पति",
-      "url": "https://hindi.news18.com/world/pakistan-french-woman-rescued-after-12-years-domestic-abuse-by-pakistani-husband-in-khyber-pakhtunkhwa-ws-l-10601647.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T06:47:26+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/pakistan-news-7-2026-06-3acab0151ff2a328f5d19fdf86f3fbf0-1200x800.jpg",
-      "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में पुलिस ने फ्रांसीसी महिला सिल्वी यास्मीना और उसके पांच बच्चों को कथित 10 साल की कैद से बचाया. यास्मीना ने आरोप लगाया कि उनके पाकिस्तानी पति ने 2014 से उन्हें एक कमरे में बंद कर प्रताड़ित किया था. पुलिस को सूचना मिलने पर यह कार्रवाई हुई. French Women Rescued from Pakistan:पाकिस्तान के खैबर पख्तूनख्वा प्रांत में पुलिस ने एक फ्रांसीसी महिला और उसके पांच बच्चों को 10 साल की कथित कैद से मुक्त कराया है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पैदा कराए 5 बच्चे और फेंक दिया कोठरी में, 12 साल से नर्क झेल रही थी फ्रेंच महिला, पाकिस्तानी पति",
-          "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में पुलिस ने फ्रांसीसी महिला सिल्वी यास्मीना और उसके पांच बच्चों को कथित 10 साल की कैद से बचाया. यास्मीना ने आरोप लगाया कि उनके पाकिस्तानी पति ने 2014 से उन्हें एक कमरे में बंद कर प्रताड़ित किया था. पुलिस को सूचना मिलने पर यह कार्रवाई हुई. French Women Rescued from Pakistan:पाकिस्तान के खैबर पख्तूनख्वा प्रांत में पुलिस ने एक फ्रांसीसी महिला और उसके पांच बच्चों को 10 साल की कथित कैद से मुक्त कराया है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "34-42 अरब डॉलर खर्च, ईरान युद्ध में अमेरिका को हुआ भारी नुकसान, ट्रंप के लिए सिरदर्द बनी नई बिल की",
-      "url": "https://www.patrika.com/world-news/iran-us-war-dollar-34-to-42-billion-spend-trump-face-issue-in-funding-for-the-war-bill-20695552",
+      "title": "वेनेजुएला भूकंप के पीछे की वजह सामने! USGS की रिपोर्ट ने खोले राज",
+      "url": "https://www.patrika.com/world-news/venezuela-earthquake-many-people-dead-usgs-report-know-reason-20695414",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-25T06:44:41+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-President-Donald-Trump-5.webp",
-      "summary": "वाशिंगटन स्थित सेंटर फॉर स्ट्रैटेजिक एंड इंटरनेशनल स्टडीज (CSIS) की एक नई रिपोर्ट ने ईरान के साथ सैन्य संघर्ष में Iran-US-War: अमेरिका और ईरान के बीच सैन्य संघर्ष अब खत्म हो गया है, लेकिन इसके आर्थिक और रणनीतिक प्रभाव लगातार सामने आ रहे हैं। वाशिंगटन स्थित सेंटर फॉर स्ट्रेटेजिक एंड इंटरनेशनल स्टडीज (CSIS) की नई रिपोर्ट ने संकेत दिया है कि इस युद्ध ने अमेरिकी रक्षा तंत्र पर भारी वित्तीय दबाव डाल दिया है।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-06-25T07:14:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Venezuela-Earthquake-.webp",
+      "summary": "वेनेजुएला में गुरुवार को 7.2 तीव्रता का भूकंप आया। इसके साथ ही जापान में भी 6.9 तीव्रता के झटके महसूस किए गए। इन भूकंपों ने लोगों में दहशत फैलाई और कई इलाकों में अफरा-तफरी मच गई। Venezuela 7.2 Magnitude Earthquake: वेनेजुएला और जापान में गुरुवार तड़के आए भूकंपों ने लोगों में दहशत फैला दी। वेनेजुएला में लगातार दो बड़े भूकंप दर्ज किए गए, जबकि जापान में भी धरती 6.9 तीव्रता के झटकों से कांप उठी।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "34-42 अरब डॉलर खर्च, ईरान युद्ध में अमेरिका को हुआ भारी नुकसान, ट्रंप के लिए सिरदर्द बनी नई बिल की",
-          "summary": "वाशिंगटन स्थित सेंटर फॉर स्ट्रैटेजिक एंड इंटरनेशनल स्टडीज (CSIS) की एक नई रिपोर्ट ने ईरान के साथ सैन्य संघर्ष में Iran-US-War: अमेरिका और ईरान के बीच सैन्य संघर्ष अब खत्म हो गया है, लेकिन इसके आर्थिक और रणनीतिक प्रभाव लगातार सामने आ रहे हैं। वाशिंगटन स्थित सेंटर फॉर स्ट्रेटेजिक एंड इंटरनेशनल स्टडीज (CSIS) की नई रिपोर्ट ने संकेत दिया है कि इस युद्ध ने अमेरिकी रक्षा तंत्र पर भारी वित्तीय दबाव डाल दिया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "वेनेजुएला भूकंप के पीछे की वजह सामने! USGS की रिपोर्ट ने खोले राज",
+          "summary": "वेनेजुएला में गुरुवार को 7.2 तीव्रता का भूकंप आया। इसके साथ ही जापान में भी 6.9 तीव्रता के झटके महसूस किए गए। इन भूकंपों ने लोगों में दहशत फैलाई और कई इलाकों में अफरा-तफरी मच गई। Venezuela 7.2 Magnitude Earthquake: वेनेजुएला और जापान में गुरुवार तड़के आए भूकंपों ने लोगों में दहशत फैला दी। वेनेजुएला में लगातार दो बड़े भूकंप दर्ज किए गए, जबकि जापान में भी धरती 6.9 तीव्रता के झटकों से कांप उठी।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -596,92 +434,20 @@
       }
     },
     {
-      "title": "'मिर्जापुर- द मूवी' का टीजर रिलीज, दिखा मुन्ना-गुड्डू का भौकाल; रवि किशन ने दिया सरप्राइज",
-      "url": "https://www.amarujala.com/entertainment/bollywood/pankaj-tripathi-ali-fazal-and-divyendu-mirzapur-the-movie-teaser-released-know-its-release-date-2026-06-25",
-      "source": "Amar Ujala Breaking",
+      "title": "वेनेजुएला में भूकंप से तबाही, PM नरेंद्र मोदी ने जताया दुख, ट्रंप ने मदद का बढ़ाया हाथ",
+      "url": "https://www.patrika.com/world-news/venezuela-earthquake-many-people-dead-pm-modi-expresses-grief-donald-trump-shares-post-20695008",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-25T06:36:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/marajapara-tha-mava-tajara_bbfb7a4c31d0336f0badf2c52d07bd6e.jpeg?w=1200&dpr=1.0",
-      "summary": "पंकज त्रिपाठी, अली फजल और दिव्येंदु अभिनीत 'मिर्जापुर - द मूवी' का टीजर जारी हो गया है। टीजर में मुन्ना और गुड्डू का भौकाल दिखाया गया है। रवि किशन ने भी इसमें एक सरप्राइज दिया है। आज पंकज त्रिपाठी, अली फजल और दिव्येंदु की मच अवेटेड फिल्म 'मिर्जापुर- द मूवी' का टीजर रिलीज हो गया है। जानिए टीजर में क्या कुछ है खास।",
-      "region": "World",
+      "published_at": "2026-06-25T05:43:36+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Venezuela-Earthquake.png",
+      "summary": "वेनेजुएला के उत्तरी तट पर बुधवार शाम को दो भूकंप आए। 7.2 और 7. Venezuela 7.2 Magnitude Earthquake: वेनेजुएला के उत्तरी तट पर बुधवार शाम को दो भूकंपों ने तबाही मचा दी। 7.2 और 7.5 तीव्रता के ये भूकंप मात्र 38-45 सेकंड के अंतराल पर आए, जिससे कराकास समेत कई इलाकों में इमारतें ढह गईं, बिजली और गैस आपूर्ति बाधित हुई तथा हवाई अड्डा बंद करना पड़ा।",
+      "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'मिर्जापुर- द मूवी' का टीजर रिलीज, दिखा मुन्ना-गुड्डू का भौकाल; रवि किशन ने दिया सरप्राइज",
-          "summary": "पंकज त्रिपाठी, अली फजल और दिव्येंदु अभिनीत 'मिर्जापुर - द मूवी' का टीजर जारी हो गया है। टीजर में मुन्ना और गुड्डू का भौकाल दिखाया गया है। रवि किशन ने भी इसमें एक सरप्राइज दिया है। आज पंकज त्रिपाठी, अली फजल और दिव्येंदु की मच अवेटेड फिल्म 'मिर्जापुर- द मूवी' का टीजर रिलीज हो गया है। जानिए टीजर में क्या कुछ है खास।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सोनम-मुस्कान से सिया तक हत्या का रास्ता क्यों चुन रहा युवा, क्या रिश्ते को खत्म करना इतना मुश्किल?",
-      "url": "https://www.amarujala.com/india-news/from-sonam-and-muskan-to-siya-why-are-young-people-choosing-murder-over-ending-a-relationship-2026-06-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-25T06:29:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/hatayakada_09721c3f6f2466b1dd2e97dfaefba280.jpeg?w=1200&dpr=1.0",
-      "summary": "हाल की घटनाओं में सोनम, मुस्कान और सिया जैसे नाम सामने आए हैं। Explainer: सोनम-मुस्कान से सिया तक हत्या का रास्ता क्यों चुन रहा युवा, क्या रिश्ते को खत्म करना इतना मुश्किल?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सोनम-मुस्कान से सिया तक हत्या का रास्ता क्यों चुन रहा युवा, क्या रिश्ते को खत्म करना इतना मुश्किल?",
-          "summary": "हाल की घटनाओं में सोनम, मुस्कान और सिया जैसे नाम सामने आए हैं। Explainer: सोनम-मुस्कान से सिया तक हत्या का रास्ता क्यों चुन रहा युवा, क्या रिश्ते को खत्म करना इतना मुश्किल?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "विधानसभा में बोले CM- दोषियों को बख्शा नहीं जाएगा, मृतकों के परिजनों और घायलों को मिलेगा मुआवजा",
-      "url": "https://www.amarujala.com/india-news/kolkata-incident-cm-speaks-in-guilty-will-not-be-spared-families-of-the-deceased-will-receive-compensation-2026-06-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-25T06:26:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/bgal-saema-shabhatha-athhakara_dab7fd6886f23fe8c83841418fefbc76.jpeg?w=1200&dpr=1.0",
-      "summary": "मुख्यमंत्री ने विधानसभा में बयान दिया। उन्होंने कहा कि दोषियों को बख्शा नहीं जाएगा। विधानसभा में बोले CM- दोषियों को बख्शा नहीं जाएगा, मृतकों के परिजनों और घायलों को मिलेगा मुआवजा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विधानसभा में बोले CM- दोषियों को बख्शा नहीं जाएगा, मृतकों के परिजनों और घायलों को मिलेगा मुआवजा",
-          "summary": "मुख्यमंत्री ने विधानसभा में बयान दिया। उन्होंने कहा कि दोषियों को बख्शा नहीं जाएगा। विधानसभा में बोले CM- दोषियों को बख्शा नहीं जाएगा, मृतकों के परिजनों और घायलों को मिलेगा मुआवजा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "घने जंगलों के बीच मिली दूसरी दुनिया, 1000 साल से थी गायब, प्रकट हुए महल-प्लाजा-मंदिर, वैज्ञानिक भी",
-      "url": "https://hindi.news18.com/world/rest-of-world-1000-years-old-mysterious-hidden-city-discovered-inside-mexican-dense-jungle-scientists-shocked-10601261.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T05:50:01+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/hidden-city-2026-06-6aa532ef4cda0854db7ac007bbed4ae8-1200x800.jpg",
-      "summary": "घने जंगलों के बीच एक हजार साल पुराना एक रहस्यमय शहर मिला है। 1000 Year Old Mysterious City Found: हम जिस दुनिया में रहते हैं, वहां सैकड़ों साल पहले क्या रहा होगा ये शायद हमें पता नहीं होगा. तभी तो जब सामने कोई पुराना रहस्य आ जाता है, तो हम हैरान रह जाते हैं. कुछ ऐसा ही राज घने जंगलों के बीच से निकलकर सामने आया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "घने जंगलों के बीच मिली दूसरी दुनिया, 1000 साल से थी गायब, प्रकट हुए महल-प्लाजा-मंदिर, वैज्ञानिक भी",
-          "summary": "घने जंगलों के बीच एक हजार साल पुराना एक रहस्यमय शहर मिला है। 1000 Year Old Mysterious City Found: हम जिस दुनिया में रहते हैं, वहां सैकड़ों साल पहले क्या रहा होगा ये शायद हमें पता नहीं होगा. तभी तो जब सामने कोई पुराना रहस्य आ जाता है, तो हम हैरान रह जाते हैं. कुछ ऐसा ही राज घने जंगलों के बीच से निकलकर सामने आया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "डिजिटल अरेस्ट घोटाले में सीबीआई की बड़ी कार्रवाई, 16 राज्यों में 80 ठिकानों पर छापेमारी",
-      "url": "https://www.amarujala.com/india-news/cbi-raid-at-80-locations-in-sixteen-states-in-connection-with-digital-arrest-scam-2026-06-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-25T05:34:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/20/cbi_4c82966fb60dfddd09a0dccb4ebdac41.jpeg?w=1200&dpr=1.0",
-      "summary": "केंद्रीय जांच ब्यूरो ने डिजिटल अरेस्ट घोटाले के संबंध में बड़ी कार्रवाई की। डिजिटल अरेस्ट घोटाले में सीबीआई की बड़ी कार्रवाई, 16 राज्यों में 80 ठिकानों पर छापेमारी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डिजिटल अरेस्ट घोटाले में सीबीआई की बड़ी कार्रवाई, 16 राज्यों में 80 ठिकानों पर छापेमारी",
-          "summary": "केंद्रीय जांच ब्यूरो ने डिजिटल अरेस्ट घोटाले के संबंध में बड़ी कार्रवाई की। डिजिटल अरेस्ट घोटाले में सीबीआई की बड़ी कार्रवाई, 16 राज्यों में 80 ठिकानों पर छापेमारी।",
-          "region": "दुनिया"
+          "title": "वेनेजुएला में भूकंप से तबाही, PM नरेंद्र मोदी ने जताया दुख, ट्रंप ने मदद का बढ़ाया हाथ",
+          "summary": "वेनेजुएला के उत्तरी तट पर बुधवार शाम को दो भूकंप आए। 7.2 और 7. Venezuela 7.2 Magnitude Earthquake: वेनेजुएला के उत्तरी तट पर बुधवार शाम को दो भूकंपों ने तबाही मचा दी। 7.2 और 7.5 तीव्रता के ये भूकंप मात्र 38-45 सेकंड के अंतराल पर आए, जिससे कराकास समेत कई इलाकों में इमारतें ढह गईं, बिजली और गैस आपूर्ति बाधित हुई तथा हवाई अड्डा बंद करना पड़ा।",
+          "region": "अमेरिका"
         }
       }
     },
@@ -704,19 +470,19 @@
       }
     },
     {
-      "title": "SIT के सामने पेश हुए संजय सिंह: बोले- आठ करोड़ में खरीदी गई चार करोड़ की जमीन, महाघोटाला हुआ, सबूत",
-      "url": "https://www.amarujala.com/lucknow/ram-mandir-donation-theft-aap-mp-sanjay-singh-to-appear-before-the-sit-today-2026-06-25",
+      "title": "मृतकों की संख्या बढ़कर 11 हुई, पीएम मोदी ने मुआवजे का एलान किया",
+      "url": "https://www.amarujala.com/india-news/kolkata-taratala-warehouse-collapse-workers-dead-toll-rises-pm-announces-pmnrf-help-suvendu-adhikari-bengal-2026-06-25",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-25T05:13:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/sanjay-singh_13fddc07c967f47442920542651ee40f.jpeg?w=1200&dpr=1.0",
-      "summary": "आम आदमी पार्टी के सांसद संजय सिंह ने राम मंदिर चढ़ावा चोरी की जांच के लिए बनाई गई विशेष जांच समिति के सामने पेश होकर अयोध्या में जमीनों की खरीद में हुए घोटालों का सबूत दिया। उन्होंने बताया कि आठ करोड़ में खरीदी गई जमीन की असली कीमत चार करोड़ है। संजय सिंह ने इसे महाघोटाला बताया। आम आदमी पार्टी के सांसद संजय सिंह बृहस्पतिवार को राम मंदिर चढ़ावा चोरी की जांच के लिए बनाई गई विशेष जांच समिति के मुखिया विजय विश्वास पंत के सामने पेश हुए और अयोध्या में जमीनों की खरीद में हुए घोटालों का सबूत दिया।",
+      "published_at": "2026-06-25T05:22:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/paema-matha_0108c35622a4da15708cca89f8bf7265.jpeg?w=1200&dpr=1.0",
+      "summary": "कोलकाता के तारातला इलाके में एक गोदाम ढहने से 11 लोगों की मौत हो गई। मृतकों की संख्या बढ़कर 11 हुई, पीएम मोदी ने मुआवजे का एलान किया।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "SIT के सामने पेश हुए संजय सिंह: बोले- आठ करोड़ में खरीदी गई चार करोड़ की जमीन, महाघोटाला हुआ, सबूत",
-          "summary": "आम आदमी पार्टी के सांसद संजय सिंह ने राम मंदिर चढ़ावा चोरी की जांच के लिए बनाई गई विशेष जांच समिति के सामने पेश होकर अयोध्या में जमीनों की खरीद में हुए घोटालों का सबूत दिया। उन्होंने बताया कि आठ करोड़ में खरीदी गई जमीन की असली कीमत चार करोड़ है। संजय सिंह ने इसे महाघोटाला बताया। आम आदमी पार्टी के सांसद संजय सिंह बृहस्पतिवार को राम मंदिर चढ़ावा चोरी की जांच के लिए बनाई गई विशेष जांच समिति के मुखिया विजय विश्वास पंत के सामने पेश हुए और अयोध्या में जमीनों की खरीद में हुए घोटालों का सबूत दिया।",
+          "title": "मृतकों की संख्या बढ़कर 11 हुई, पीएम मोदी ने मुआवजे का एलान किया",
+          "summary": "कोलकाता के तारातला इलाके में एक गोदाम ढहने से 11 लोगों की मौत हो गई। मृतकों की संख्या बढ़कर 11 हुई, पीएम मोदी ने मुआवजे का एलान किया।",
           "region": "दुनिया"
         }
       }
@@ -753,6 +519,240 @@
         "hi": {
           "title": "भारत ने रोक दिया था सिंधु का पानी, जल संकट की कगार पर था पाकिस्तान, तभी आई बाढ़ और पलट गई पूरी कहानी",
           "summary": "भारत द्वारा सिंधु जल संधि स्थगित करने पर पाकिस्तान को 2025 में पानी की कमी का डर था। अगस्त 2025 की बाढ़ ने स्थिति बदल दी, जिससे जलाशय लगभग 99% भर गए। हालांकि, टरबेला बांध में घटती भंडारण क्षमता पर चिंता बनी हुई है। Pakistan Water Crisis: भारत द्वारा सिंधु जल संधि को स्थगित किए जाने के बाद पाकिस्तान को 2025 के खरीफ सीजन में 21 फीसदी तक पानी की कमी का डर था.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बेसबॉल मैच के दौरान ही भूकंपों से कांपी धरती, वेनेज़ुएला में स्टेडियम छोड़कर भागे खिलाड़ी और दर्शक",
+      "url": "https://www.patrika.com/world-news/earthquakes-shake-venezuela-during-baseball-match-players-and-spectators-run-out-of-stadium-20694942",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-25T04:22:18+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/earthquakes-during-baseball-match-in-venezuela.webp",
+      "summary": "वेनेज़ुएला में 7.2 और 7. वेनेज़ुएला (Venezuela) में आज बैक-टू-बैक 7.2 और 7.5 तीव्रता के भूकंपों (Earthquakes) की वजह से तबाही मच गई है। 38 सेकंड्स के अंतराल में आए दो भूकंपों की वजह से वेनेज़ुएला में जान-माल का भारी नुकसान हुआ है। भूकंप प्रभावित क्षेत्रों में कई घर-इमारतें तबाह हो गए। कुछ मीडिया रिपोर्ट्स के अनुसार मरने वालों का आंकड़ा 10,000 से 1,00,000 तक पहुंचने की आशंका है।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बेसबॉल मैच के दौरान ही भूकंपों से कांपी धरती, वेनेज़ुएला में स्टेडियम छोड़कर भागे खिलाड़ी और दर्शक",
+          "summary": "वेनेज़ुएला में 7.2 और 7. वेनेज़ुएला (Venezuela) में आज बैक-टू-बैक 7.2 और 7.5 तीव्रता के भूकंपों (Earthquakes) की वजह से तबाही मच गई है। 38 सेकंड्स के अंतराल में आए दो भूकंपों की वजह से वेनेज़ुएला में जान-माल का भारी नुकसान हुआ है। भूकंप प्रभावित क्षेत्रों में कई घर-इमारतें तबाह हो गए। कुछ मीडिया रिपोर्ट्स के अनुसार मरने वालों का आंकड़ा 10,000 से 1,00,000 तक पहुंचने की आशंका है।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "तस्वीरों में वेनेजुएला में तबाही का मंजर: 120+ साल की सबसे बड़ी आपदा, US समेत कई देशों ने बढ़ाए मदद",
+      "url": "https://www.amarujala.com/photo-gallery/world/powerful-earthquakes-hit-venezuela-buildings-collapse-in-caracas-many-countries-extended-a-helping-hand-2026-06-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-25T03:50:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/vanajael-ma-bhakapa-sa-tabha_f434af346dc40a7eaed84a4331882169.gif?w=1200&dpr=1.0",
+      "summary": "वेनेजुएला में शक्तिशाली भूकंप आए, जिससे कराकस में इमारतें ढह गईं। यह 120 से अधिक वर्षों में देश की सबसे बड़ी आपदा थी। संयुक्त राज्य अमेरिका सहित कई देशों ने सहायता प्रदान की। तस्वीरों में वेनेजुएला में तबाही का मंजर: 120+ साल की सबसे बड़ी आपदा, US समेत कई देशों ने बढ़ाए मदद।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तस्वीरों में वेनेजुएला में तबाही का मंजर: 120+ साल की सबसे बड़ी आपदा, US समेत कई देशों ने बढ़ाए मदद",
+          "summary": "वेनेजुएला में शक्तिशाली भूकंप आए, जिससे कराकस में इमारतें ढह गईं। यह 120 से अधिक वर्षों में देश की सबसे बड़ी आपदा थी। संयुक्त राज्य अमेरिका सहित कई देशों ने सहायता प्रदान की। तस्वीरों में वेनेजुएला में तबाही का मंजर: 120+ साल की सबसे बड़ी आपदा, US समेत कई देशों ने बढ़ाए मदद।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "बैक-टू-बैक भूकंपों से वेनेज़ुएला में दस हज़ार से एक लाख लोगों की मौत की आशंका, मदद के लिए आगे आया अल",
+      "url": "https://www.patrika.com/world-news/el-salvador-offers-to-send-300-rescuers-and-50-tons-of-essential-supplies-to-venezuela-after-back-to-back-earthquakes-20694750",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-25T03:33:24+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/earthquakes-in-venezuela.webp",
+      "summary": "वेनेज़ुएला में बैक-टू-बैक भूकंपों से भारी तबाही हुई है. वेनेज़ुएला (Venezuela) में आज बैक-टू-बैक भूकंपों (Earthquakes) ने भारी तबाही मचा दी। पहला भूकंप सैन फेलिप (San Felipe) शहर से 24 किलोमीटर ईस्टर्न नॉर्थईस्ट में भारतीय समयानुसार तड़के सुबह 3 बजकर 34 मिनट पर आया और रिक्टर स्केल पर इसकी तीव्रता 7.2 रही। इस भूकंप की गहराई 21.9 किलोमीटर रही। दूसरा भूकंप युमारे (Yumare) कस्बे से 23 किलोमीटर साउथईस्ट में भारतीय समयानुसार तड़के सुबह 3 बजकर 35 मिनट पर आया और।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बैक-टू-बैक भूकंपों से वेनेज़ुएला में दस हज़ार से एक लाख लोगों की मौत की आशंका, मदद के लिए आगे आया अल",
+          "summary": "वेनेज़ुएला में बैक-टू-बैक भूकंपों से भारी तबाही हुई है. वेनेज़ुएला (Venezuela) में आज बैक-टू-बैक भूकंपों (Earthquakes) ने भारी तबाही मचा दी। पहला भूकंप सैन फेलिप (San Felipe) शहर से 24 किलोमीटर ईस्टर्न नॉर्थईस्ट में भारतीय समयानुसार तड़के सुबह 3 बजकर 34 मिनट पर आया और रिक्टर स्केल पर इसकी तीव्रता 7.2 रही। इस भूकंप की गहराई 21.9 किलोमीटर रही। दूसरा भूकंप युमारे (Yumare) कस्बे से 23 किलोमीटर साउथईस्ट में भारतीय समयानुसार तड़के सुबह 3 बजकर 35 मिनट पर आया और।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "वेनेज़ुएला में बैक-टू-बैक 7.2 और 7.5 तीव्रता के भूकंपों ने मचाई तबाही…हज़ारों की मौत की आशंका, जापान",
+      "url": "https://www.patrika.com/world-news/earthquakes-of-magnitude-7-2-and-7-5-jolt-venezuela-many-people-dead-japan-also-shook-by-magnitude-6-9-earthquake-20694572",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-25T03:01:10+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/venezuela-earthquakes.webp",
+      "summary": "वेनेज़ुएला में 7.2 और 7.5 तीव्रता के बैक-टू-बैक भूकंप आए। पहला भूकंप सैन फेलिप से 24 किलोमीटर दूर आया और इसकी गहराई 21.9 किलोमीटर थी। दूसरा भूकंप युमारे कस्बे से 23 किलोमीटर दूर आया। दुनियाभर में भूकंपों (Earthquakes) के मामले बढ़ते जा रहे हैं। आज, गुरुवार, 25 जून को वेनेज़ुएला (Venezuela) में बैक-टू-बैक भूकंपों ने भारी तबाही मचा दी। पहला भूकंप सैन फेलिप (San Felipe) शहर से 24 किलोमीटर ईस्टर्न नॉर्थईस्ट में भारतीय समयानुसार तड़के सुबह 3 बजकर 34 मिनट पर आया और रिक्टर स्केल पर इसकी तीव्रता 7.2 रही।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वेनेज़ुएला में बैक-टू-बैक 7.2 और 7.5 तीव्रता के भूकंपों ने मचाई तबाही…हज़ारों की मौत की आशंका, जापान",
+          "summary": "वेनेज़ुएला में 7.2 और 7.5 तीव्रता के बैक-टू-बैक भूकंप आए। पहला भूकंप सैन फेलिप से 24 किलोमीटर दूर आया और इसकी गहराई 21.9 किलोमीटर थी। दूसरा भूकंप युमारे कस्बे से 23 किलोमीटर दूर आया। दुनियाभर में भूकंपों (Earthquakes) के मामले बढ़ते जा रहे हैं। आज, गुरुवार, 25 जून को वेनेज़ुएला (Venezuela) में बैक-टू-बैक भूकंपों ने भारी तबाही मचा दी। पहला भूकंप सैन फेलिप (San Felipe) शहर से 24 किलोमीटर ईस्टर्न नॉर्थईस्ट में भारतीय समयानुसार तड़के सुबह 3 बजकर 34 मिनट पर आया और रिक्टर स्केल पर इसकी तीव्रता 7.2 रही।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "वेनेजुएला के बाद अब जापान में आया 6.9 तीव्रता का शक्तिशाली भूकंप, टोक्यो तक महसूस हुए झटके",
+      "url": "https://www.amarujala.com/world/after-venezuela-strong-magnitude-earthquake-strikes-northern-japan-tremors-felt-in-tokyo-2026-06-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-25T02:57:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/japana-ma-bhakapa-ka-jhataka_b929b7a7894bff985a2aba40bcbe9ec1.jpeg?w=1200&dpr=1.0",
+      "summary": "जापान में 6.9 तीव्रता का एक शक्तिशाली भूकंप आया। टोक्यो तक झटके महसूस हुए। यह भूकंप वेनेजुएला में आए भूकंप के बाद आया है। वेनेजुएला के बाद अब जापान में आया 6.9 तीव्रता का शक्तिशाली भूकंप, टोक्यो तक महसूस हुए झटके।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वेनेजुएला के बाद अब जापान में आया 6.9 तीव्रता का शक्तिशाली भूकंप, टोक्यो तक महसूस हुए झटके",
+          "summary": "जापान में 6.9 तीव्रता का एक शक्तिशाली भूकंप आया। टोक्यो तक झटके महसूस हुए। यह भूकंप वेनेजुएला में आए भूकंप के बाद आया है। वेनेजुएला के बाद अब जापान में आया 6.9 तीव्रता का शक्तिशाली भूकंप, टोक्यो तक महसूस हुए झटके।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सीज़फायर उल्लंघन करते हुए इज़रायली सेना ने फिर किया लेबनान पर हमला, क्या डोनाल्ड ट्रंप होंगे नाराज़?",
+      "url": "https://www.patrika.com/world-news/israel-continues-ceasefire-violation-and-attacks-southern-lebanon-again-20694623",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-25T02:42:41+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/trump-warns-netanyahu.jpg",
+      "summary": "इज़रायली सेना ने लेबनान पर हमला किया। इज़रायली पीएम बेंजामिन नेतन्याहू ने कहा था कि हिज़बुल्लाह के खिलाफ कार्रवाई जारी रहेगी। यह हमला सीज़फायर के उल्लंघन का मामला है। इज़रायल (Israel) और लेबनान (Lebanon) के बीच सीज़फायर के उल्लंघन का सिलसिला बरकरार है। कुछ दिन पहले ही दोनों पक्षों में एक बार फिर सीज़फायर पर सहमति बनी थी, लेकिन एक बार फिर इज़रायली सेना ने इसे तोड़ते हुए साउथ लेबनान पर हमला कर दिया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीज़फायर उल्लंघन करते हुए इज़रायली सेना ने फिर किया लेबनान पर हमला, क्या डोनाल्ड ट्रंप होंगे नाराज़?",
+          "summary": "इज़रायली सेना ने लेबनान पर हमला किया। इज़रायली पीएम बेंजामिन नेतन्याहू ने कहा था कि हिज़बुल्लाह के खिलाफ कार्रवाई जारी रहेगी। यह हमला सीज़फायर के उल्लंघन का मामला है। इज़रायल (Israel) और लेबनान (Lebanon) के बीच सीज़फायर के उल्लंघन का सिलसिला बरकरार है। कुछ दिन पहले ही दोनों पक्षों में एक बार फिर सीज़फायर पर सहमति बनी थी, लेकिन एक बार फिर इज़रायली सेना ने इसे तोड़ते हुए साउथ लेबनान पर हमला कर दिया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान की चेतावनी- होर्मुज में नए जलमार्ग से दूर रहें जहाज, वरना करेंगे कार्रवाई",
+      "url": "https://www.amarujala.com/live/world/west-asia-live-us-iran-talks-donald-trump-marco-rubio-gulf-countries-strait-of-hormuz-israel-lebanon-2026-06-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-25T02:29:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/19/looks-forward-to-welcoming-secretary-of-state-marco-rubio-for-his-1st-visit-to-india-us-embassy_822407dc573983378ac40df381742e89.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरान ने होर्मुज जलडमरूमध्य में एक नए जलमार्ग के निर्माण की चेतावनी दी है। जहाजों को इस मार्ग का उपयोग करने से बचने को कहा गया है। ईरान ने कहा है कि यदि जहाजों ने इस चेतावनी को नजरअंदाज किया तो वह कार्रवाई करेगा। West Asia LIVE: 'ईरान से बातचीत में खाड़ी देशों के हितों की रक्षा करेगा अमेरिका', मार्को रुबियो का बयान।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान की चेतावनी- होर्मुज में नए जलमार्ग से दूर रहें जहाज, वरना करेंगे कार्रवाई",
+          "summary": "ईरान ने होर्मुज जलडमरूमध्य में एक नए जलमार्ग के निर्माण की चेतावनी दी है। जहाजों को इस मार्ग का उपयोग करने से बचने को कहा गया है। ईरान ने कहा है कि यदि जहाजों ने इस चेतावनी को नजरअंदाज किया तो वह कार्रवाई करेगा। West Asia LIVE: 'ईरान से बातचीत में खाड़ी देशों के हितों की रक्षा करेगा अमेरिका', मार्को रुबियो का बयान।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की धमकी पर ईरान का जवाब- US का दखल रहने तक क्षेत्र में नहीं आएगी शांति",
+      "url": "https://www.amarujala.com/world/unacceptable-trump-regarding-any-kind-of-fees-on-maritime-activities-in-strait-of-hormuz-2026-06-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-25T00:00:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/donald-trump_8985a21b72059ce469fa47f34d9b4dcd.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरान ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की धमकी का जवाब दिया है। ईरान ने कहा कि जब तक अमेरिका का हस्तक्षेप क्षेत्र में रहेगा, तब तक शांति नहीं आएगी। ईरान ने होर्मुज जलडमरूमध्य में शुल्क लगाने को भी अस्वीकार कर दिया। 'होर्मुज में शुल्क मंजूर नहीं': ट्रंप की धमकी पर ईरान का जवाब- US का दखल रहने तक क्षेत्र में नहीं आएगी शांति।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की धमकी पर ईरान का जवाब- US का दखल रहने तक क्षेत्र में नहीं आएगी शांति",
+          "summary": "ईरान ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की धमकी का जवाब दिया है। ईरान ने कहा कि जब तक अमेरिका का हस्तक्षेप क्षेत्र में रहेगा, तब तक शांति नहीं आएगी। ईरान ने होर्मुज जलडमरूमध्य में शुल्क लगाने को भी अस्वीकार कर दिया। 'होर्मुज में शुल्क मंजूर नहीं': ट्रंप की धमकी पर ईरान का जवाब- US का दखल रहने तक क्षेत्र में नहीं आएगी शांति।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "वेनेजुएला में आया भूकंप, 7.1 रही रिक्टर स्केल पर तीव्रता; सुनामी का अलर्ट जारी",
+      "url": "https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-earthquake-venezuela-2026-06-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-24T23:41:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
+      "summary": "वेनेजुएला में 7.1 तीव्रता का भूकंप आया। भूकंप के बाद सुनामी की चेतावनी जारी की गई। भूकंप से जान-माल के नुकसान की आशंका है। वेनेजुएला में आया भूकंप, 7.1 रही रिक्टर स्केल पर तीव्रता; सुनामी का अलर्ट जारी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वेनेजुएला में आया भूकंप, 7.1 रही रिक्टर स्केल पर तीव्रता; सुनामी का अलर्ट जारी",
+          "summary": "वेनेजुएला में 7.1 तीव्रता का भूकंप आया। भूकंप के बाद सुनामी की चेतावनी जारी की गई। भूकंप से जान-माल के नुकसान की आशंका है। वेनेजुएला में आया भूकंप, 7.1 रही रिक्टर स्केल पर तीव्रता; सुनामी का अलर्ट जारी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "वेनेजुएला में भूकंप से तबाही; अब तक 164 लोगों की मौत, 971 घायल",
+      "url": "https://www.amarujala.com/live/world/venezuela-earthquake-live-news-update-devastation-in-caracas-buildings-collapsed-airport-closed-prez-emergency-2026-06-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-24T22:47:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/venezuela-earthquake_0930e6f7a3e56c35c67cc369baca752b.gif?w=1200&dpr=1.0",
+      "summary": "वेनेजुएला में आए भूकंप से भारी तबाही हुई है। अब तक 164 लोगों की मौत हो चुकी है और 971 लोग घायल हुए हैं। कई इमारतें जमींदोज हो गईं और हवाई अड्डा भी बंद कर दिया गया। Venezuela Earthquake LIVE News: वेनेजुएला में भूकंप से भारी तबाही की आशंका; इमारतें जमींदोज, एयरपोर्ट बंद। वेनेजुएला में भूकंप से तबाही; अब तक 164 लोगों की मौत, 971 घायल।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वेनेजुएला में भूकंप से तबाही; अब तक 164 लोगों की मौत, 971 घायल",
+          "summary": "वेनेजुएला में आए भूकंप से भारी तबाही हुई है। अब तक 164 लोगों की मौत हो चुकी है और 971 लोग घायल हुए हैं। कई इमारतें जमींदोज हो गईं और हवाई अड्डा भी बंद कर दिया गया। Venezuela Earthquake LIVE News: वेनेजुएला में भूकंप से भारी तबाही की आशंका; इमारतें जमींदोज, एयरपोर्ट बंद। वेनेजुएला में भूकंप से तबाही; अब तक 164 लोगों की मौत, 971 घायल।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "अमेजन का भारत में बड़ा दांव: 48 अरब डॉलर का अतिरिक्त निवेश, प्रधानमंत्री मोदी से मुलाकात के बाद",
+      "url": "https://www.amarujala.com/business/business-diary/amazon-s-big-bet-in-india-additional-48-billion-investment-meets-pm-modi-2026-06-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-24T21:37:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/amazon-ceo-meets-pm-modi_575de409b7238e1128e3125a138c8ba6.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेजन 2026 से 2030 के बीच भारत में 48 अरब डॉलर का अतिरिक्त निवेश करेगा। मुख्य कार्यकारी अधिकारी एंडी जेसी ने प्रधानमंत्री नरेंद्र मोदी से मुलाकात के बाद यह घोषणा की। यह निवेश क्लाउड, कृत्रिम बुद्धिमत्ता और रोजगार सृजन पर केंद्रित होगा। अमेजन ने भारत में 2026-2030 के बीच 48 अरब डॉलर के अतिरिक्त निवेश की घोषणा की। मुख्य कार्यकारी अधिकारी एंडी जेसी ने प्रधानमंत्री नरेंद्र मोदी से मुलाकात के बाद यह जानकारी दी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेजन का भारत में बड़ा दांव: 48 अरब डॉलर का अतिरिक्त निवेश, प्रधानमंत्री मोदी से मुलाकात के बाद",
+          "summary": "अमेजन 2026 से 2030 के बीच भारत में 48 अरब डॉलर का अतिरिक्त निवेश करेगा। मुख्य कार्यकारी अधिकारी एंडी जेसी ने प्रधानमंत्री नरेंद्र मोदी से मुलाकात के बाद यह घोषणा की। यह निवेश क्लाउड, कृत्रिम बुद्धिमत्ता और रोजगार सृजन पर केंद्रित होगा। अमेजन ने भारत में 2026-2030 के बीच 48 अरब डॉलर के अतिरिक्त निवेश की घोषणा की। मुख्य कार्यकारी अधिकारी एंडी जेसी ने प्रधानमंत्री नरेंद्र मोदी से मुलाकात के बाद यह जानकारी दी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रूस में पेट्रोल-डीजल की भारी किल्लत, जिस तेल रिफाइनरी को यूक्रेन ने किया तबाह, उससे क्या-क्या हुआ",
+      "url": "https://www.patrika.com/world-news/moscow-refinery-drone-attack-russia-fuel-crisis-6-months-20694384",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-24T16:28:55+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Russiarefienryattack.webp",
+      "summary": "रूस की मॉस्को तेल रिफाइनरी पर यूक्रेन के ड्रोन हमले से पेट्रोल-डीजल की किल्लत बढ़ गई। इस प्लांट को ठीक होने में कम से कम छह महीने लगेंगे। मॉस्को के सबसे बड़े तेल रिफाइनरी पर यूक्रेन के ड्रोन हमलों ने रूस की मुश्किलें बढ़ा दी हैं। रूस में पेट्रोल-डीजल की भारी किल्लत, जिस तेल रिफाइनरी को यूक्रेन ने किया तबाह, उससे क्या-क्या हुआ।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस में पेट्रोल-डीजल की भारी किल्लत, जिस तेल रिफाइनरी को यूक्रेन ने किया तबाह, उससे क्या-क्या हुआ",
+          "summary": "रूस की मॉस्को तेल रिफाइनरी पर यूक्रेन के ड्रोन हमले से पेट्रोल-डीजल की किल्लत बढ़ गई। इस प्लांट को ठीक होने में कम से कम छह महीने लगेंगे। मॉस्को के सबसे बड़े तेल रिफाइनरी पर यूक्रेन के ड्रोन हमलों ने रूस की मुश्किलें बढ़ा दी हैं। रूस में पेट्रोल-डीजल की भारी किल्लत, जिस तेल रिफाइनरी को यूक्रेन ने किया तबाह, उससे क्या-क्या हुआ।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "इजरायल ने फिर किया लेबनान का बड़ा हमला: हवाई अटैक में एसयूवी के उड़े परखच्चे, दो लोगों की दर्दनाक",
+      "url": "https://www.patrika.com/world-news/israeli-airstrike-southern-lebanon-suv-attack-two-killed-20694266",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-24T16:13:32+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Israeli-Airstrike-Lebanon.webp",
+      "summary": "इजरायल ने दक्षिणी लेबनान में एक एसयूवी कार पर हवाई हमला किया, जिसमें दो लोगों की मौत हो गई। हमले के बाद इलाके में हड़कंप मच गया है। Israeli Airstrike Lebanon: मिडिल ईस्ट में जारी भारी तनाव के बीच दक्षिणी लेबनान से एक बड़ी खबर सामने आ रही है। लेबनान की सरकारी समाचार एजेंसी के मुताबिक, इजराइल ने दक्षिणी लेबनान में एक एसयूवी कार को निशाना बनाकर भीषण हवाई हमला किया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजरायल ने फिर किया लेबनान का बड़ा हमला: हवाई अटैक में एसयूवी के उड़े परखच्चे, दो लोगों की दर्दनाक",
+          "summary": "इजरायल ने दक्षिणी लेबनान में एक एसयूवी कार पर हवाई हमला किया, जिसमें दो लोगों की मौत हो गई। हमले के बाद इलाके में हड़कंप मच गया है। Israeli Airstrike Lebanon: मिडिल ईस्ट में जारी भारी तनाव के बीच दक्षिणी लेबनान से एक बड़ी खबर सामने आ रही है। लेबनान की सरकारी समाचार एजेंसी के मुताबिक, इजराइल ने दक्षिणी लेबनान में एक एसयूवी कार को निशाना बनाकर भीषण हवाई हमला किया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
