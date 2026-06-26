@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** June 26, 2026 20:29 IST
+**Updated:** June 26, 2026 21:23 IST
 
 ---
 
@@ -12,8 +12,8 @@
 
 Min Aung Hlaing transitioned from commander-in-chief to president in Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.
 
-### [589 confirmed dead so far as international rescue teams arrive – latest updates](https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates)
-*The Guardian* - Jun 26, 19:49 IST (iso: 2026-06-26T14:19:34+00:00)
+### [589 confirmed dead so far as international rescue teams arrive – as it happened](https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates)
+*The Guardian* - Jun 26, 20:30 IST (iso: 2026-06-26T15:00:07+00:00)
 <!-- image: https://i.guim.co.uk/img/media/f30f0d1322a9d41d204ddcb47c7882673de4e552/328_0_4920_3936/master/4920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fbfde5ecbab09bd2da0bf71421db6968 -->
 
 Search and rescue efforts continue in Macuto, La Guaira state, Venezuela. “We hope to rescue as many living people as possible’, says the acting president, Delcy Rodríguez, but authorities fear the death toll will be in the thousandsVenezuela’s acting president Delcy Rodríguez visited Macuto, La Guaira state, yesterday to assess the level of damage and observe search and rescue efforts, according to local media.
@@ -124,11 +124,27 @@ United Nations peacekeepers detected no airstrikes in southern Lebanon since Tue
 
 The United Nations Secretary-General's Personal Envoy for Sudan warned of growing risks in El Obeid due to escalating violence. The envoy voiced alarm over the situation on Wednesday, citing the potential for further military escalation to put thousands of civilians at risk. The conflict in Sudan is deepening the country's humanitarian crisis. Thousands of civilians are already affected in and around El Obeid.
 
-### [Iran's Nuclear Deal Faces Its Toughest Test: Verification](https://www.rferl.org/a/iran-us-verification-nuclear-iaea/33788603.html)
-*Radio Free Europe / Liberty* - Jun 25, 15:55 IST (iso: 2026-06-25T10:25:20+00:00)
-<!-- image: https://gdb.rferl.org/C249869F-44E3-4826-8F8F-E1155BFCBBA6.jpg -->
+---
 
-Washington and Tehran are in a dispute over verifying Iran's nuclear commitments. Amid an ongoing row between Washington and Tehran over whether international monitors can verify Iranian compliance with its nuclear nonproliferation commitments, former officials have told RFE/RL that the scale, scope, and degree of access are crucial to the success of inspections. Iran's Nuclear Deal Faces Its Toughest Test: Verification.
+## Europe & Russia
+
+### [In Viral Post, Russian Veteran Warns Putin Of Mutiny, Then Walks Back Threat](https://www.rferl.org/a/war-viral-post-putin-rebellion-threat-ukraine/33789561.html)
+*Radio Free Europe / Liberty* - Jun 26, 21:06 IST (iso: 2026-06-26T15:36:14+00:00)
+<!-- image: https://gdb.rferl.org/e3d4eccd-84a3-4015-1256-08decad58b60_cx14_cy2_cw85_w1200_h630.jpg -->
+
+A Russian veteran posted a viral video demanding a meeting with President Vladimir Putin. He warned of a potential rebellion, then later retracted his threat. This incident underscored rising tensions regarding the war in Ukraine, which has reportedly killed half a million Russian soldiers. A veteran of Russia’s war against Ukraine sparked a stir with a viral video post, demanding a meeting with President Vladimir Putin and warning of a rebellion – before retracting the threat.
+
+### [Reality reasserts itself](https://asiatimes.com/2026/06/reality-reasserts-itself/)
+*Asia Times* - Jun 26, 14:23 IST (iso: 2026-06-26T08:53:42+00:00)
+<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2024/03/GRRM-LOGO-1-1-1-1-1-1-1.webp?fit=700%2C286&ssl=1 -->
+
+ASEAN rejected a Russia-free Asian order at its recent summit with Russia. Subscribe now with a one-month trial for only $1, then enjoy the first year at an exclusive rate of just $99. ASEAN rejects a Russia-free Asian order Scott Foster argues that ASEAN’s summit with Russia underscored Southeast Asia’s determination to preserve a multipolar regional order rather than align exclusively with either Washington or Beijing.
+
+### [Mexico’s new UK ambassador from ‘party of poor’ has 10 houses and £1m of jewellery](https://www.theguardian.com/world/2026/jun/26/luxury-assets-mexico-new-ambassador-uk-alejandro-gertz-manero)
+*The Guardian* - Jun 26, 13:30 IST (iso: 2026-06-26T08:00:12+00:00)
+<!-- image: https://i.guim.co.uk/img/media/9a52d8f66e402dbf3ff07dacb295bb30b72a51e9/41_0_2572_2059/master/2572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe374d32b4b6e82b8e96994a013b4011 -->
+
+Mexico's new ambassador to the UK, Alejandro Gertz Manero, recently disclosed significant Alejandro Gertz Manero’s cars and properties contrast starkly with Morena party’s long association with austerityWith his million-dollar jewellery collection and his two Rolls-Royces, Mexico’s new ambassador to the UK will fit right in with the Mayfair crowd. Former attorney general Alejandro Gertz Manero was appointed to the post by President Claudia Sheinbaum last year, but only recently disclose.
 
 ---
 
@@ -155,22 +171,6 @@ Aid agencies reported massive needs across Venezuela following a double earthqua
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-12-2025-UNICEF-Caracas_Venezuela.jpeg/image770x420cropped.jpg -->
 
 UN teams are supporting the international response to the Venezuela earthquake disaster. The double earthquake has left buildings flattened in Caracas and other areas. People are likely still trapped in the rubble. The UN is urging a collective effort to help the victims. UN teams scrambled on Thursday in support of the international response to the devastating double earthquake disaster in Venezuela, where buildings lie flattened and people are likely still trapped in the capital, Caracas, and beyond.
-
----
-
-## Europe & Russia
-
-### [Reality reasserts itself](https://asiatimes.com/2026/06/reality-reasserts-itself/)
-*Asia Times* - Jun 26, 14:23 IST (iso: 2026-06-26T08:53:42+00:00)
-<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2024/03/GRRM-LOGO-1-1-1-1-1-1-1.webp?fit=700%2C286&ssl=1 -->
-
-ASEAN rejected a Russia-free Asian order at its recent summit with Russia. Subscribe now with a one-month trial for only $1, then enjoy the first year at an exclusive rate of just $99. ASEAN rejects a Russia-free Asian order Scott Foster argues that ASEAN’s summit with Russia underscored Southeast Asia’s determination to preserve a multipolar regional order rather than align exclusively with either Washington or Beijing.
-
-### [Mexico’s new UK ambassador from ‘party of poor’ has 10 houses and £1m of jewellery](https://www.theguardian.com/world/2026/jun/26/luxury-assets-mexico-new-ambassador-uk-alejandro-gertz-manero)
-*The Guardian* - Jun 26, 13:30 IST (iso: 2026-06-26T08:00:12+00:00)
-<!-- image: https://i.guim.co.uk/img/media/9a52d8f66e402dbf3ff07dacb295bb30b72a51e9/41_0_2572_2059/master/2572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe374d32b4b6e82b8e96994a013b4011 -->
-
-Mexico's new ambassador to the UK, Alejandro Gertz Manero, recently disclosed significant Alejandro Gertz Manero’s cars and properties contrast starkly with Morena party’s long association with austerityWith his million-dollar jewellery collection and his two Rolls-Royces, Mexico’s new ambassador to the UK will fit right in with the Mayfair crowd. Former attorney general Alejandro Gertz Manero was appointed to the post by President Claudia Sheinbaum last year, but only recently disclose.
 
 ---
 
