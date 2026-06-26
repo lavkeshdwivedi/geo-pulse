@@ -1,21 +1,81 @@
 {
-  "generated_at": "2026-06-26T00:58:58.350469+00:00",
+  "generated_at": "2026-06-26T01:51:57.571594+00:00",
   "article_count": 50,
-  "total_unique_count": 256,
+  "total_unique_count": 267,
   "digest": {
-    "en": "The U.S. House Speaker Johnson is trying to mend ties between Trump and Congress. This comes as Venezuelans are dealing with the aftermath of huge earthquakes. The UN agency has also paused its Hormuz ship evacuation initiative after a vessel was attacked.",
-    "hi": "वेनेजुएला में भूकंप ने 188 जिंदगियां छीन लीं। 200 से ज्यादा लोग अभी भी मलबे में फंसे हैं। ईरान ने पीएम मोदी को आमंत्रित कर भारत को उलझन में डाल दिया है, खामनेई के अंतिम संस्कार को लेकर कैसे सधेगा यह सवाल है।"
+    "en": "Myanmar's military administration tightens its grip. Armenia's election focuses on war and peace issues. The EU prepares a budget for global turmoil.",
+    "hi": "ईरानी ड्रोन ने जहाज पर हमला किया, जिससे 11 हजार नाविकों का रेस्क्यू ऑपरेशन रुका। पीएम मोदी को आमंत्रित कर ईरान ने भारत को उलझन में डाला है, खामनेई के अंतिम संस्कार को लेकर स्थिति संभालनी होगी।"
   },
   "articles": [
     {
-      "title": "Experts say three recent powerful earthquakes are not related",
-      "url": "https://www.theguardian.com/world/2026/jun/25/three-recent-powerful-earthquakes-not-related",
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Myanmar's military leader Min Aung Hlaing has become president after staged elections. He led a coup in 2017 that ousted the civilian government. Foreign governments are advised to be cautious in their interactions with his administration to avoid giving it undue legitimacy. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenians head to the polls on June 7 for the country's first general election since 2021. Foreign policy has dominated the campaign, with issues of war and peace taking center stage. The election outcome may impact Yerevan's external relations, according to Crisis Group expert Joshua Kucera. Armenians will head to the polls on 7 June for the country’s first general election since 2021.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Djibouti's strategic location on the Horn of Africa and the Red Sea has made it a prime real estate for global powers. The country hosts military bases for the US, France, China, and Japan. Djibouti's government is navigating these alliances amid regional turmoil. Samson Abebe Bezabeh, Assistant Professor at the University of Hong Kong, provides insights on Djibouti's history and politics.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan began conveying proposals to end the war between the U. S. and Iran after the two countries started bombing Iran on 28 February. Islamabad took on the mediator role despite the risks. The stakes are high for Pakistan to persevere with the task. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's proposed seven-year budget may reduce funding for conflict prevention and aid to fragile states. Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson warn of potential consequences. The budget could impact the EU's ability to support countries vulnerable to conflict. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Rescue teams race to Venezuela amid fears thousands killed in earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jun/25/rescue-teams-race-to-venezuela-amid-fears-thousands-killed-in-earthquakes",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-06-26T00:01:12+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/f9d8ce0db7eb3cde53178d997d7c8b6d5720b5b1/455_0_4590_3671/master/4590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4269fdf9b47dc128bd85ed82fa02ef8",
-      "summary": "A 5.6-magnitude earthquake struck northern California on Wednesday. 5.6-magnitude California tremor, 7.2-magnitude temblor in Japan and two quakes in Venezuela all struck within hoursA 5.6-magnitude earthquake struck a rural part of northern California on Wednesday. Hours later, a 7.2-magnitude earthquake hit the northern coast of Japan and two powerful earthquakes rocked Venezuela in a devastating mass casualty event. The tremors happened in the span of eight hour.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-06-26T01:34:30+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/526da2261fed2c058d30bdb593c38383157afaed/985_0_4915_3933/master/4915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=053647085bf62e99c3b2a06467e166ae",
+      "summary": "Rescue teams are rushing to Venezuela's north coast after earthquakes flattened dozens of buildings, killing at least 235 people. Thousands more fatalities are feared. The US is among countries sending help to search for survivors, with US Secretary of State Marco Rubio involved in the efforts. US among countries sending help to search for survivors on north coast, where dozens of buildings flattened, as official death toll reaches 235Rescue teams are racing to Venezuela’s shattered northern coast after almost simultaneous earthquakes reduced dozens of buildings to rubble, killing at least 235 people but with thousands more fatalities feared. The US secretary of state, Marco Rubio, said t.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -24,7 +84,7 @@
       "url": "https://www.thehindu.com/news/international/us-house-speaker-johnson-tries-to-patch-things-up-between-trump-and-congress/article71148120.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-06-25T23:55:09+00:00",
+      "published_at": "2026-06-26T01:28:17+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/rsok6v/article71148953.ece/alternates/LANDSCAPE_1200/2026-06-11T181054Z_273061329_RC2QRLAMEJ1K_RTRMADP_3_USA-CONGRESS.JPG",
       "summary": "House Speaker Mike Johnson met with former President Donald Trump in Washington. They discussed legislative priorities including the SAVE America Act. Johnson also planned to reschedule a housing bill signing ceremony. Johnson is the highest-ranking Republican in the House of Representatives. Mr. Trump and Mr. Johnson were expected to discuss a legislative path forward for the SAVE ‌America Act and rescheduling the signing ceremony for the housing bill.",
       "region": "Americas",
@@ -32,25 +92,25 @@
       "translations": {}
     },
     {
-      "title": "5 places for Taiwan’s iconic pork belly and steamed bun sandwich",
-      "url": "https://www.channelnewsasia.com/travel/best-gua-bao-pork-bun-taipei-6206301",
-      "source": "Channel News Asia",
+      "title": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked",
+      "url": "https://www.thehindu.com/news/international/un-agency-says-it-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked/article71147725.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-06-25T23:28:02+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--ryQy8NW4--/c_crop,h_771,w_1370,x_117,y_294/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/24/yuan_fang_1.jpg?itok=Lx4G9IQp",
-      "summary": "Taipei offers five notable locations for gua bao, a steamed bun sandwich filled with pork belly, pickles, peanuts, and coriander. These establishments range from Michelin-recognized institutions to a local roadside stall. The dish is considered a symbol of prosperity. The gua bao is a handheld masterpiece of pork, pickles, peanuts and coriander – and a symbol of prosperity to boot.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-06-26T00:44:48+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/8znmjp/article71147822.ece/alternates/LANDSCAPE_1200/2026-06-24T102941Z_1966937314_RC210LA29CE4_RTRMADP_3_IRAN-CRISIS-SHIPPING.JPG",
+      "summary": "The International Maritime Organization has paused its Hormuz ship evacuation initiative. The plan to move stranded ships out of the Persian Gulf through the strait is on hold. This decision was made after a vessel was attacked, prompting the agency to seek safety guarantees for the ships on the evacuation list. The evacuation will resume once these guarantees are confirmed.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "This Indonesian fashion brand is making hand-drawn batik for a new generation",
-      "url": "https://www.channelnewsasia.com/style-beauty/batik-tulis-wolter-jakarta-6184181",
-      "source": "Channel News Asia",
+      "title": "Experts say three recent powerful earthquakes are not related",
+      "url": "https://www.theguardian.com/world/2026/jun/25/three-recent-powerful-earthquakes-not-related",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-06-25T23:16:14+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--tDzAn66_--/c_crop,h_544,w_968,x_0,y_77/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/16/batik-wolter.jpg?itok=-WmggH_c",
-      "summary": "Abel Hesed Tandadjaja founded Batik Wolter to create hand-drawn batik pieces. The brand works with artisans across Indonesia to blend traditional craftsmanship with contemporary design. Batik Wolter aims to keep the centuries-old craft relevant for younger generations. Batik Wolter works with artisans across Indonesia to create hand-drawn batik pieces that blend traditional craftsmanship with contemporary design. Founder Abel Hesed Tandadjaja hopes the approach will keep the centuries-old craft relevant for younger generations.",
+      "published_at": "2026-06-26T00:01:12+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/f9d8ce0db7eb3cde53178d997d7c8b6d5720b5b1/455_0_4590_3671/master/4590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4269fdf9b47dc128bd85ed82fa02ef8",
+      "summary": "A 5.6-magnitude earthquake struck northern California on Wednesday. 5.6-magnitude California tremor, 7.2-magnitude temblor in Japan and two quakes in Venezuela all struck within hoursA 5.6-magnitude earthquake struck a rural part of northern California on Wednesday. Hours later, a 7.2-magnitude earthquake hit the northern coast of Japan and two powerful earthquakes rocked Venezuela in a devastating mass casualty event. The tremors happened in the span of eight hour.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -80,18 +140,6 @@
       "translations": {}
     },
     {
-      "title": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked",
-      "url": "https://www.thehindu.com/news/international/un-agency-says-it-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked/article71147725.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-06-25T21:15:05+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/8znmjp/article71147822.ece/alternates/LANDSCAPE_1200/2026-06-24T102941Z_1966937314_RC210LA29CE4_RTRMADP_3_IRAN-CRISIS-SHIPPING.JPG",
-      "summary": "The International Maritime Organization has paused its Hormuz ship evacuation initiative. The plan to move stranded ships out of the Persian Gulf through the strait is on hold. This decision was made after a vessel was attacked, prompting the agency to seek safety guarantees for the ships on the evacuation list. The evacuation will resume once these guarantees are confirmed.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "‘intensive’ search for survivors as death toll rises to 188 – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
       "source": "The Guardian",
@@ -100,18 +148,6 @@
       "image_url": "https://i.guim.co.uk/img/media/95b7892365e57d0fcf5045a59fb2fe9ff15b1f32/1267_188_4925_3940/master/4925.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c3dbf3590b0163ca0ad6da775f5ec25b",
       "summary": "A state of emergency was declared in Venezuela after two powerful earthquakes struck the country. The quakes registered magnitudes of 7.2 and 7.5. Buildings collapsed in the capital, Caracas, sending residents into the streets. Officials warned of widespread damage and high casualties. Rescue efforts are underway in affected areas. Two powerful earthquakes – with magnitudes of 7.2 and 7.5 – sent residents running into the streets as buildings shook and collapsedVenezuela earthquakes: back-to-back quakes collapse buildings in capital CaracasVolunteers, medics and relatives of victims have raced to the Altamira area in Caracas hoping to help save survivors from the rubble of collapsed buildings there.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "New evidence casts doubt on RFK Jr testimony before Senate",
-      "url": "https://www.theguardian.com/us-news/2026/jun/25/rfk-jr-senate-testimony-samoa-visit",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-25T19:31:43+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/0d21fa4fc7c709efa612ee8b908850b47e3b7b84/70_0_5859_4688/master/5859.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c70390588feefa673c773e3892ce22fb",
-      "summary": "Robert F Kennedy Jr visited Samoa in 2019 on a vaccine-related mission, according to an email from a former colleague. Kennedy had previously stated the trip had nothing to do with vaccines. The email contradicts his testimony before the US Senate. This new evidence raises questions about the accuracy of Kennedy's statements. Kennedy repeatedly said 2019 Samoa trip had ‘nothing to do with vaccines’.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -176,18 +212,6 @@
       "translations": {}
     },
     {
-      "title": "UN envoy warns of growing risks in El Obeid as Sudan conflict drags on",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167810",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-25T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-UNDP-Sudan-09.jpg/image770x420cropped.jpg",
-      "summary": "The United Nations Secretary-General's Personal Envoy for Sudan warned of growing risks in El Obeid due to escalating violence. The envoy voiced alarm over the situation on Wednesday, citing the potential for further military escalation to put thousands of civilians at risk. The conflict in Sudan is deepening the country's humanitarian crisis. Thousands of civilians are already affected in and around El Obeid.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Venezuela quake disaster: UN urges collective effort to help victims",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167805",
       "source": "UN News",
@@ -200,6 +224,18 @@
       "translations": {}
     },
     {
+      "title": "UN envoy warns of growing risks in El Obeid as Sudan conflict drags on",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167810",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-25T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-UNDP-Sudan-09.jpg/image770x420cropped.jpg",
+      "summary": "The United Nations Secretary-General's Personal Envoy for Sudan warned of growing risks in El Obeid due to escalating violence. The envoy voiced alarm over the situation on Wednesday, citing the potential for further military escalation to put thousands of civilians at risk. The conflict in Sudan is deepening the country's humanitarian crisis. Thousands of civilians are already affected in and around El Obeid.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Iran's Nuclear Deal Faces Its Toughest Test: Verification",
       "url": "https://www.rferl.org/a/iran-us-verification-nuclear-iaea/33788603.html",
       "source": "Radio Free Europe / Liberty",
@@ -208,18 +244,6 @@
       "image_url": "https://gdb.rferl.org/C249869F-44E3-4826-8F8F-E1155BFCBBA6.jpg",
       "summary": "Former officials from Iran nuclear talks stated verifying Iranian compliance will be difficult. Amid an ongoing row between Washington and Tehran over whether international monitors can verify Iranian compliance with its nuclear nonproliferation commitments, former officials have told RFE/RL that the scale, scope, and degree of access are crucial to the success of inspections. Veterans Of Iran Talks Say Verification Will Be ‘Heavy Slog’ With Details Of Access Key To Success.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Why AI will never master diplomacy",
-      "url": "https://asiatimes.com/2026/06/breaking-the-algorithm-why-ai-will-never-master-diplomacy/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-06-25T06:53:05+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2023/08/13-Tier-One-security-as-Kim-meets-adoring-crowds-KCNA-July-29-2022-png.png",
-      "summary": "Foreign ministries use AI to summarize documents and track sentiment across countries. Today, foreign ministries across the world are drowning in information. news reports, intelligence assessments, social media posts, satellite imagery, economic data, speeches and diplomatic cables. AI can summarize thousands of documents in minutes, track political sentiment across countries, detect emerging crises earlier, analyze sanctions, dissect trade flows and monitor military movements.",
-      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -272,18 +296,6 @@
       "translations": {}
     },
     {
-      "title": "Ukrainian Film Figures Vow To Restore Massive Costume Collection",
-      "url": "https://www.rferl.org/a/ukraine-kyiv-film-studios-dovzhenko-russia-strike-costume-fire-archive/33787995.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-06-24T17:41:03+00:00",
-      "image_url": "https://gdb.rferl.org/1bafa81d-3917-4f5b-11ff-08decad58b60_w1200_h630.jpg",
-      "summary": "Ukrainian film artists plan to restore a massive costume collection. The collection of 100,000 costumes was destroyed in a Russian air attack on the Dovzhenko National Film Studios on June 15. Studio staff are committed to rebuilding the collection used in dozens of historic films. They aim to preserve cinema heritage. Ukrainian film artists are determined to build back the loss of 100,000 costumes, used in dozens of historic films, that burned in a Russian air attack on the Dovzhenko National Film Studios on June 15.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Russia Is Grappling With Its Worst Nationwide Fuel Shortages In Years. Here's Where.",
       "url": "https://www.rferl.org/a/ukraine-russia-oil-refinery-fuel-shortages-kremlin/33787903.html",
       "source": "Radio Free Europe / Liberty",
@@ -296,32 +308,20 @@
       "translations": {}
     },
     {
-      "title": "Iran Pushes Back Against Trump's Claims About Frozen Assets Amid Anger From Hard-Liners",
-      "url": "https://www.rferl.org/a/iran-assets-us-agriculture-farmers-food-backlash/33787940.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "ईरानी ड्रोन ने जहाज पर किया हमला, 11 हजार नाविकों का रेस्क्यू ऑपरेशन रुका",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-deal-live-update-drone-attack-cargo-ship-hormuz-strait-imo-evacuation-paused-sea-mines-10603640.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-24T15:47:57+00:00",
-      "image_url": "https://gdb.rferl.org/597bbdeb-3822-43df-79ce-08decad17715_cx0_cy14_cw75_w1200_h630.jpg",
-      "summary": "Iran disputes US claims that frozen assets will be used to buy American agricultural products under a framework deal. The proposal drew backlash from Iranian hard-liners. Iran did not rule out the possibility. The assets are part of a deal between the two countries. Iran has pushed back against US claims that any frozen Iranian assets released under a framework deal would be used to buy American agricultural products but stopped short of ruling it out, as the proposal sparked a sharp backlash from the country’s hard-liners.",
+      "published_at": "2026-06-26T01:16:44+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/hormuz-news-1-2026-06-a6b0b120b207a36304b959147620305d-1200x800.jpg",
+      "summary": "होर्मुज जलडमरूमध्य में एक कार्गो जहाज पर ईरानी ड्रोन ने हमला किया, जिससे समुद्री सुरक्षा को लेकर चिंता बढ़ गई है। अमेरिका ने हमले के लिए ईरान को जिम्मेदार ठहराया है, जबकि ईरान ने इसकी पुष्टि नहीं की है। Iran US Tension: होर्मुज स्ट्रेट में एक कार्गो जहाज पर ड्रोन हमला होने के बाद समुद्री सुरक्षा को लेकर चिंता बढ़ गई है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "वेनेजुएला में भूकंप ने अब तक छीनीं 188 जिंदगियां, 200 से ज्यादा लोग अभी भी मलबे में फंसे",
-      "url": "https://www.amarujala.com/world/venezuela-earthquake-updates-death-toll-rises-caracas-buildings-collapsed-emergency-several-trapped-in-debris-2026-06-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-26T07:24:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/venezuela_a70212b3a12ccfe575a3394e766d1911.gif?w=1200&dpr=1.0",
-      "summary": "वेनेजुएला के उत्तर-पूर्वी तट पर आए 7.3 तीव्रता के भूकंप से अब तक 188 लोगों की मौत हो चुकी है। यह भूकंप शुक्रवार को आया था। भूकंप के कारण कई इमारतें ढह गईं। 200 से अधिक लोग अभी भी मलबे में फंसे हुए हैं। बचाव कार्य जारी है। वेनेजुएला में भूकंप ने अब तक छीनीं 188 जिंदगियां, 200 से ज्यादा लोग अभी भी मलबे में फंसे।",
-      "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वेनेजुएला में भूकंप ने अब तक छीनीं 188 जिंदगियां, 200 से ज्यादा लोग अभी भी मलबे में फंसे",
-          "summary": "वेनेजुएला के उत्तर-पूर्वी तट पर आए 7.3 तीव्रता के भूकंप से अब तक 188 लोगों की मौत हो चुकी है। यह भूकंप शुक्रवार को आया था। भूकंप के कारण कई इमारतें ढह गईं। 200 से अधिक लोग अभी भी मलबे में फंसे हुए हैं। बचाव कार्य जारी है। वेनेजुएला में भूकंप ने अब तक छीनीं 188 जिंदगियां, 200 से ज्यादा लोग अभी भी मलबे में फंसे।",
-          "region": "अमेरिका"
+          "title": "ईरानी ड्रोन ने जहाज पर किया हमला, 11 हजार नाविकों का रेस्क्यू ऑपरेशन रुका",
+          "summary": "होर्मुज जलडमरूमध्य में एक कार्गो जहाज पर ईरानी ड्रोन ने हमला किया, जिससे समुद्री सुरक्षा को लेकर चिंता बढ़ गई है। अमेरिका ने हमले के लिए ईरान को जिम्मेदार ठहराया है, जबकि ईरान ने इसकी पुष्टि नहीं की है। Iran US Tension: होर्मुज स्ट्रेट में एक कार्गो जहाज पर ड्रोन हमला होने के बाद समुद्री सुरक्षा को लेकर चिंता बढ़ गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -344,55 +344,19 @@
       }
     },
     {
-      "title": "चंपत राय-अनिल मिश्रा-गोपाल राव तक नहीं पहुंची FIR की आंच; वेनेजुएला भूकंप में अब तक गई 188 की जान",
-      "url": "https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-25-june-2026-updates-on-amar-ujala-2026-06-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-06-26T00:36:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
-      "summary": "वेनेजुएला में भूकंप से 188 लोगों की मौत हो गई है। भारत में चंपत राय, अनिल मिश्रा और गोपाल राव से जुड़े एक मामले में एफआईआर दर्ज की गई है। Top News: चंपत राय-अनिल मिश्रा-गोपाल राव तक नहीं पहुंची FIR की आंच; वेनेजुएला भूकंप में अब तक गई 188 की जान।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चंपत राय-अनिल मिश्रा-गोपाल राव तक नहीं पहुंची FIR की आंच; वेनेजुएला भूकंप में अब तक गई 188 की जान",
-          "summary": "वेनेजुएला में भूकंप से 188 लोगों की मौत हो गई है। भारत में चंपत राय, अनिल मिश्रा और गोपाल राव से जुड़े एक मामले में एफआईआर दर्ज की गई है। Top News: चंपत राय-अनिल मिश्रा-गोपाल राव तक नहीं पहुंची FIR की आंच; वेनेजुएला भूकंप में अब तक गई 188 की जान।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज में फिर बढ़ा खतरा, ईरानी ड्रोन ने जहाज पर किया हमला, 11 हजार नाविकों का रेस्क्यू ऑपरेशन रुका",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-deal-live-update-drone-attack-cargo-ship-hormuz-strait-imo-evacuation-paused-sea-mines-10603640.html",
+      "title": "UAE के बाद सऊदी अरब भी भारत से दोस्ती बढ़ा रहा, रियाद में जो हुआ, सुनकर पाकिस्तान को लगेगा सदमा!",
+      "url": "https://hindi.news18.com/world/middle-east-uae-now-saudi-arabia-boosts-ties-with-india-riyadh-jeddah-mega-meetings-major-defense-deal-on-card-10603605.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-26T00:05:04+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/hormuz-news-1-2026-06-a6b0b120b207a36304b959147620305d-1200x800.jpg",
-      "summary": "होर्मुज जलडमरूमध्य में एक कार्गो जहाज पर ईरानी ड्रोन ने हमला किया, जिससे समुद्री सुरक्षा को लेकर चिंता बढ़ गई है। अमेरिका ने हमले के लिए ईरान को जिम्मेदार ठहराया है, जबकि ईरान ने इसकी पुष्टि नहीं की है। Iran US Tension: होर्मुज स्ट्रेट में एक कार्गो जहाज पर ड्रोन हमला होने के बाद समुद्री सुरक्षा को लेकर चिंता बढ़ गई है.",
+      "published_at": "2026-06-25T20:32:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Saudi-Arabia-India-Meeting-2026-06-2e4d99681ef043d1ecb9f068bd412195-1200x800.jpg",
+      "summary": "सऊदी अरब और भारत के बीच रक्षा सहयोग बढ़ रहा है। रियाद में हुई बैठकों में सऊदी रक्षा मंत्रालय और भारत के शीर्ष राजनयिकों के बीच हथियारों और सैन्य सहयोग पर चर्चा हुई। सऊदी अब भारत की अर्थव्यवस्था और स्वदेशी हथियारों पर भरोसा जता रहा है। जेद्दा और रियाद में हुई बैक-टू-बैक महा-बैठकों में भारत के शीर्ष राजनयिकों और सऊदी रक्षा मंत्रालय के बीच अत्याधुनिक हथियारों, सैन्य सहयोग और 'मेक इन इंडिया' डिफेंस टेक्नोलॉजी को लेकर बेहद सीक्रेट खिचड़ी पकी है, सऊदी अब भारत की मजबूत अर्थव्यवस्था और स्वदेशी हथियारों पर भरोसा जता रहा है, जो खाड़ी देशों में भारत के बढ़ते दबदबे को साफ बयां करता है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "होर्मुज में फिर बढ़ा खतरा, ईरानी ड्रोन ने जहाज पर किया हमला, 11 हजार नाविकों का रेस्क्यू ऑपरेशन रुका",
-          "summary": "होर्मुज जलडमरूमध्य में एक कार्गो जहाज पर ईरानी ड्रोन ने हमला किया, जिससे समुद्री सुरक्षा को लेकर चिंता बढ़ गई है। अमेरिका ने हमले के लिए ईरान को जिम्मेदार ठहराया है, जबकि ईरान ने इसकी पुष्टि नहीं की है। Iran US Tension: होर्मुज स्ट्रेट में एक कार्गो जहाज पर ड्रोन हमला होने के बाद समुद्री सुरक्षा को लेकर चिंता बढ़ गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जहाज पर हमले के बाद UN ने रोकी निकासी योजना, 11 हजार नाविकों की सुरक्षा पर नई चिंता",
-      "url": "https://www.patrika.com/world-news/strait-of-hormuz-imo-evacuation-paused-gulf-of-oman-ship-attack-20697562",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T21:39:43+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Strait-of-Hormuz.webp",
-      "summary": "ओमान की खाड़ी में एक मालवाहक जहाज पर हमले के बाद संयुक्त राष्ट्र की अंतरराष्ट्रीय समुद्री एजेंसी ने होर्मुज स्ट्रेट से फंसे जहाजों और नाविकों की निकासी योजना रोक दी है। इससे समुद्री सुरक्षा पर चिंता बढ़ गई है। Strait of Hormuz: संयुक्त राष्ट्र की अंतरराष्ट्रीय समुद्री एजेंसी(International Maritime Organization, IMO) ने होर्मुज स्ट्रेट से फंसे जहाजों और नाविकों को निकालने की अपनी बड़ी निकासी योजना फिलहाल रोक दी है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जहाज पर हमले के बाद UN ने रोकी निकासी योजना, 11 हजार नाविकों की सुरक्षा पर नई चिंता",
-          "summary": "ओमान की खाड़ी में एक मालवाहक जहाज पर हमले के बाद संयुक्त राष्ट्र की अंतरराष्ट्रीय समुद्री एजेंसी ने होर्मुज स्ट्रेट से फंसे जहाजों और नाविकों की निकासी योजना रोक दी है। इससे समुद्री सुरक्षा पर चिंता बढ़ गई है। Strait of Hormuz: संयुक्त राष्ट्र की अंतरराष्ट्रीय समुद्री एजेंसी(International Maritime Organization, IMO) ने होर्मुज स्ट्रेट से फंसे जहाजों और नाविकों को निकालने की अपनी बड़ी निकासी योजना फिलहाल रोक दी है।",
+          "title": "UAE के बाद सऊदी अरब भी भारत से दोस्ती बढ़ा रहा, रियाद में जो हुआ, सुनकर पाकिस्तान को लगेगा सदमा!",
+          "summary": "सऊदी अरब और भारत के बीच रक्षा सहयोग बढ़ रहा है। रियाद में हुई बैठकों में सऊदी रक्षा मंत्रालय और भारत के शीर्ष राजनयिकों के बीच हथियारों और सैन्य सहयोग पर चर्चा हुई। सऊदी अब भारत की अर्थव्यवस्था और स्वदेशी हथियारों पर भरोसा जता रहा है। जेद्दा और रियाद में हुई बैक-टू-बैक महा-बैठकों में भारत के शीर्ष राजनयिकों और सऊदी रक्षा मंत्रालय के बीच अत्याधुनिक हथियारों, सैन्य सहयोग और 'मेक इन इंडिया' डिफेंस टेक्नोलॉजी को लेकर बेहद सीक्रेट खिचड़ी पकी है, सऊदी अब भारत की मजबूत अर्थव्यवस्था और स्वदेशी हथियारों पर भरोसा जता रहा है, जो खाड़ी देशों में भारत के बढ़ते दबदबे को साफ बयां करता है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -416,6 +380,114 @@
       }
     },
     {
+      "title": "भारत को जिसका डर था बांग्लादेश ने वही कर दिया, चीन के साथ तारिक रहमान कर आए ऐसी डील, चिकन नेक पर",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-put-india-siliguri-corridor-at-risk-as-tarique-rahman-seals-teesta-river-deal-with-china-10603519.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-25T18:21:46+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/China-Bangladesh-Teesta-Agreement-2026-06-a0aafd01a2bfa6dfafaeddca2c3a1de0-1200x800.jpg",
+      "summary": "बांग्लादेश ने तीस्ता नदी परियोजना के लिए चीन से मदद मांगी है। ढाका और बीजिंग के बीच हाई-प्रोफाइल बैठक हुई, जिसमें चीन को परियोजना के लिए तकनीकी और वित्तीय मदद प्रदान करने पर सहमति बनी। इससे भारत की चिंताएं बढ़ गई हैं। भारत के पुराने कूटनीतिक कायदे-कानूनों को दरकिनार करते हुए बांग्लादेश ने तीस्ता नदी पर चीन को एंट्री देदी है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत को जिसका डर था बांग्लादेश ने वही कर दिया, चीन के साथ तारिक रहमान कर आए ऐसी डील, चिकन नेक पर",
+          "summary": "बांग्लादेश ने तीस्ता नदी परियोजना के लिए चीन से मदद मांगी है। ढाका और बीजिंग के बीच हाई-प्रोफाइल बैठक हुई, जिसमें चीन को परियोजना के लिए तकनीकी और वित्तीय मदद प्रदान करने पर सहमति बनी। इससे भारत की चिंताएं बढ़ गई हैं। भारत के पुराने कूटनीतिक कायदे-कानूनों को दरकिनार करते हुए बांग्लादेश ने तीस्ता नदी पर चीन को एंट्री देदी है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "10 लाख से ज्यादा उइगर हिरासत में, फिर भी छाई रही खामोशी? डोनाल्ड ट्रंप और शी जिनपिंग की मुलाकात पर",
+      "url": "https://hindi.news18.com/world/china-10-lakh-uyghur-muslim-in-china-detention-us-silence-questions-raised-donald-trump-xi-jinping-meeting-10603550.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-25T18:20:59+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-Trump-Xi-Jinping-2026-06-95bd5f594b3b2ba0b1f20e311adf279c-1200x800.jpg",
+      "summary": "अमेरिकी नागरिक रुशान अब्बास ने राष्ट्रपति डोनाल्ड ट्रंप से आग्रह किया है कि वे चीनी राष्ट्रपति शी जिनपिंग से उइगर मुसलमानों के मुद्दे पर बात करें। उइगर हिरासत में हैं और अब्बास ने ट्रंप से उनकी रिहाई के लिए प्रयास करने का आग्रह किया है। अमेरिकी राजनीति के प्रसिद्ध अखबार 'द हिल' में 14 मई को लिखे अपने एक बेहद भावुक और कड़े लेख में रुशान अब्बास ने सीधे अमेरिकी प्रशासन पर सवाल दागे थे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "10 लाख से ज्यादा उइगर हिरासत में, फिर भी छाई रही खामोशी? डोनाल्ड ट्रंप और शी जिनपिंग की मुलाकात पर",
+          "summary": "अमेरिकी नागरिक रुशान अब्बास ने राष्ट्रपति डोनाल्ड ट्रंप से आग्रह किया है कि वे चीनी राष्ट्रपति शी जिनपिंग से उइगर मुसलमानों के मुद्दे पर बात करें। उइगर हिरासत में हैं और अब्बास ने ट्रंप से उनकी रिहाई के लिए प्रयास करने का आग्रह किया है। अमेरिकी राजनीति के प्रसिद्ध अखबार 'द हिल' में 14 मई को लिखे अपने एक बेहद भावुक और कड़े लेख में रुशान अब्बास ने सीधे अमेरिकी प्रशासन पर सवाल दागे थे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत से हारने के बाद फिर गया पाक का माथा! गले तक कर्ज में डूबा, फिर भी सैनिकों की बढ़ाई 25% सैलरी",
+      "url": "https://www.abplive.com/news/world/pakistan-army-chief-asim-munir-hikes-troops-salaries-by-25-percent-after-lost-in-india-operation-sindoor-3150767",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-25T17:44:00+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/43a666d38ce8abbd2a2b735a29f08a5b17824047230761126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान की आर्थिक स्थिति खराब होने के बावजूद, सरकार ने अपने सैनिकों की सैलरी में 25 प्रतिशत की बढ़ोत्तरी की है। इससे पाकिस्तान की आर्थिक स्थिति और खराब होने की संभावना है। देश पहले से ही कर्ज में डूबा हुआ है। पाकिस्तान की फटी जेब और खस्ता आर्थिक हालत के बारे में आज कौन नहीं जानता है. दुनिया के कई देशों के साथ-साथ अंतरराष्ट्रीय संगठनों ने भी पाकिस्तान को रोजमर्रा की जिंदगी आराम से चलाने के लिए भारी भरकम लोन दिया है, लेकिन पाकिस्तान ‘लोन लेकर घी पीने’ वाली कहावत को पूरी तरह से सार्थक करता नजर आ रहा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत से हारने के बाद फिर गया पाक का माथा! गले तक कर्ज में डूबा, फिर भी सैनिकों की बढ़ाई 25% सैलरी",
+          "summary": "पाकिस्तान की आर्थिक स्थिति खराब होने के बावजूद, सरकार ने अपने सैनिकों की सैलरी में 25 प्रतिशत की बढ़ोत्तरी की है। इससे पाकिस्तान की आर्थिक स्थिति और खराब होने की संभावना है। देश पहले से ही कर्ज में डूबा हुआ है। पाकिस्तान की फटी जेब और खस्ता आर्थिक हालत के बारे में आज कौन नहीं जानता है. दुनिया के कई देशों के साथ-साथ अंतरराष्ट्रीय संगठनों ने भी पाकिस्तान को रोजमर्रा की जिंदगी आराम से चलाने के लिए भारी भरकम लोन दिया है, लेकिन पाकिस्तान ‘लोन लेकर घी पीने’ वाली कहावत को पूरी तरह से सार्थक करता नजर आ रहा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "चीन-पाक के होश उड़ाने वाली कूटनीति! दिनेश त्रिवेदी का ढाका में बढ़ा कद क्या कहता है? जानिए भारत का",
+      "url": "https://hindi.news18.com/news/nation/dinesh-trivedi-bangladesh-cabinet-rank-diplomacy-india-masterstroke-10603221.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-25T17:42:55+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Dinesh_Trivedi_Bangladesh_Update1-2026-06-edb87df467600b5fad6634d7b9e4ddd2-1200x800.jpg",
+      "summary": "भारत ने बांग्लादेश में अपने उच्चायुक्त दिनेश त्रिवेदी को कैबिनेट मंत्री का दर्जा दिया है। यह कदम दोनों देशों के रिश्तों को मजबूत करने के लिए उठाया गया है। भारत ने बांग्लादेशियों के लिए टूरिस्ट वीजा सेवा भी फिर से शुरू की है। Dinesh Trivedi Bangladesh Cabinet Rank: भारत ने बांग्लादेश में हाई कमिश्नर दिनेश त्रिवेदी को कैबिनेट मंत्री का दर्जा दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन-पाक के होश उड़ाने वाली कूटनीति! दिनेश त्रिवेदी का ढाका में बढ़ा कद क्या कहता है? जानिए भारत का",
+          "summary": "भारत ने बांग्लादेश में अपने उच्चायुक्त दिनेश त्रिवेदी को कैबिनेट मंत्री का दर्जा दिया है। यह कदम दोनों देशों के रिश्तों को मजबूत करने के लिए उठाया गया है। भारत ने बांग्लादेशियों के लिए टूरिस्ट वीजा सेवा भी फिर से शुरू की है। Dinesh Trivedi Bangladesh Cabinet Rank: भारत ने बांग्लादेश में हाई कमिश्नर दिनेश त्रिवेदी को कैबिनेट मंत्री का दर्जा दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बेंगलुरुः कन्नड़ अभिनेत्री कृषि थापंडा के फ्लैट में फंदे से लटका मिला शव, पुलिस ने शुरू की तफ्तीश",
+      "url": "https://www.abplive.com/news/india/man-found-hanging-at-kannada-actress-krishi-thapanda-flat-in-elegance-terrace-apartment-bengaluru-police-started-investigation-ann-3150795",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-25T17:42:29+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/4ac47febfddfdecb976f552adb3a4ddb17824082412921126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "बेंगलुरु में कन्नड़ अभिनेत्री कृषि थापंडा के फ्लैट में 45 वर्षीय व्यक्ति वैशाक उपाध्याय फंदे से लटका हुआ मिला। पुलिस ने मामला दर्ज कर जांच शुरू कर दी। मृतक के पीछे पत्नी और 14 वर्षीय पुत्र है। कर्नाटक की राजधानी बेंगलुरु के आरआर नगर के इलाके में पॉपुलर कन्नड़ अभिनेत्री कृषि थापंडा (Krishi Thapanda) के घर पर एक 45 वर्षीय व्यक्ति के मृत पाए जाने से सनसनी फैल गई है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बेंगलुरुः कन्नड़ अभिनेत्री कृषि थापंडा के फ्लैट में फंदे से लटका मिला शव, पुलिस ने शुरू की तफ्तीश",
+          "summary": "बेंगलुरु में कन्नड़ अभिनेत्री कृषि थापंडा के फ्लैट में 45 वर्षीय व्यक्ति वैशाक उपाध्याय फंदे से लटका हुआ मिला। पुलिस ने मामला दर्ज कर जांच शुरू कर दी। मृतक के पीछे पत्नी और 14 वर्षीय पुत्र है। कर्नाटक की राजधानी बेंगलुरु के आरआर नगर के इलाके में पॉपुलर कन्नड़ अभिनेत्री कृषि थापंडा (Krishi Thapanda) के घर पर एक 45 वर्षीय व्यक्ति के मृत पाए जाने से सनसनी फैल गई है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "300 फीट की ऊंचाई से धक्का, सीसीटीवी फुटेज और वो एक गलती… सिया के विश्वासघात की पूरी कहानी",
+      "url": "https://www.abplive.com/news/india/ketan-agarwal-pune-murder-case-siya-pushing-from-a-height-of-300-feet-cctv-footage-know-full-story-3150798",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-25T17:38:20+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/7a32b242ddbd468f45415c1700b287011782408490696708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पुणे के लोहागढ़ किले से 300 फीट की ऊंचाई से गिरने वाले केतन अग्रवाल की मौत की जांच में विश्वासघात की कहानी सामने आई। सीसीटीवी फुटेज और एक गलती ने इस कथित हत्या की परतें खोल दीं। पुणे के लोहागढ़ किले से जुड़ा यह मामला सिर्फ एक कथित हत्या की कहानी नहीं है, बल्कि भरोसे, रिश्तों और विश्वासघात की ऐसी दास्तान है जिसने पूरे देश को झकझोर दिया है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "300 फीट की ऊंचाई से धक्का, सीसीटीवी फुटेज और वो एक गलती… सिया के विश्वासघात की पूरी कहानी",
+          "summary": "पुणे के लोहागढ़ किले से 300 फीट की ऊंचाई से गिरने वाले केतन अग्रवाल की मौत की जांच में विश्वासघात की कहानी सामने आई। सीसीटीवी फुटेज और एक गलती ने इस कथित हत्या की परतें खोल दीं। पुणे के लोहागढ़ किले से जुड़ा यह मामला सिर्फ एक कथित हत्या की कहानी नहीं है, बल्कि भरोसे, रिश्तों और विश्वासघात की ऐसी दास्तान है जिसने पूरे देश को झकझोर दिया है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "‘उन रास्तों से मत गुजरना’, होर्मुज पर ईरान ने फिर जारी कर दी वॉर्निंग, क्या माइन्स का खतरा है?",
       "url": "https://hindi.news18.com/world/middle-east-hormuz-oil-route-crisis-iran-irgc-issues-warning-on-strait-of-hormuz-bans-ships-from-altering-routes-10603391.html",
       "source": "News18 Hindi (World)",
@@ -434,6 +506,96 @@
       }
     },
     {
+      "title": "नागरिकता का प्रमाण, पहचान और मीडिया से सोशल मीडिया तक बहस…, पासपोर्ट क्यों नहीं मजबूत दस्तावेज?",
+      "url": "https://www.abplive.com/news/india/indian-passport-citizenship-debate-mea-statement-controversy-on-social-media-3150793",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-25T17:12:02+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/f1410d5019d516e7c6a83cdbfc50fb7e1782406929975708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "विदेश मंत्रालय ने कहा कि पासपोर्ट भारतीय नागरिकता का निर्णायक प्रमाण नहीं है, यह एक ट्रैवल डॉक्युमेंट है। इस बयान के बाद देशभर में सवाल उठने लगे और मीडिया से लेकर सोशल मीडिया तक बहस छिड़ गई। मुद्दा सिर्फ पासपोर्ट का नहीं, बल्कि नागरिकता और पहचान का है. मीडिया से लेकर सोशल मीडिया तक, अदालत से लेकर संसद तक एक नई बहस छिड़ गई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नागरिकता का प्रमाण, पहचान और मीडिया से सोशल मीडिया तक बहस…, पासपोर्ट क्यों नहीं मजबूत दस्तावेज?",
+          "summary": "विदेश मंत्रालय ने कहा कि पासपोर्ट भारतीय नागरिकता का निर्णायक प्रमाण नहीं है, यह एक ट्रैवल डॉक्युमेंट है। इस बयान के बाद देशभर में सवाल उठने लगे और मीडिया से लेकर सोशल मीडिया तक बहस छिड़ गई। मुद्दा सिर्फ पासपोर्ट का नहीं, बल्कि नागरिकता और पहचान का है. मीडिया से लेकर सोशल मीडिया तक, अदालत से लेकर संसद तक एक नई बहस छिड़ गई है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "IPS महेश दीक्षित देश के नए IB चीफ, तेलंगाना कैडर के अधिकारी, कश्मीर में हो चुकी तैनाती",
+      "url": "https://www.abplive.com/news/india/1993-batch-ips-mahesh-dixit-country-new-ib-chief-telangana-cadre-officer-had-served-in-kashmir-3150785",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-25T16:43:46+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/ab5436f6a9bd6a6bf6db4736c8a1022017824075602801324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "आईपीएस अधिकारी महेश दीक्षित को भारत के नए आईबी चीफ के तौर पर नियुक्त किया गया। वह 1993 बैच के आईपीएस अधिकारी हैं और कश्मीर में तैनात रह चुके हैं। भारत के नए आईबी चीफ के तौर पर आईपीएस अधिकारी महेश दीक्षित की नियुक्ति भारत सरकार की तरफ से की गई है. महेश दीक्षित 1993 बैच के आईपीएस अधिकारी हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "IPS महेश दीक्षित देश के नए IB चीफ, तेलंगाना कैडर के अधिकारी, कश्मीर में हो चुकी तैनाती",
+          "summary": "आईपीएस अधिकारी महेश दीक्षित को भारत के नए आईबी चीफ के तौर पर नियुक्त किया गया। वह 1993 बैच के आईपीएस अधिकारी हैं और कश्मीर में तैनात रह चुके हैं। भारत के नए आईबी चीफ के तौर पर आईपीएस अधिकारी महेश दीक्षित की नियुक्ति भारत सरकार की तरफ से की गई है. महेश दीक्षित 1993 बैच के आईपीएस अधिकारी हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कैबिनेट विस्तार की अटकलों के बीच राष्ट्रपति मुर्मू से मिले अमित शाह, क्या हैं इस मीटिंग के मायने?",
+      "url": "https://www.abplive.com/news/india/amit-shah-met-president-droupadi-murmu-amid-speculation-pm-modi-govt-cabinet-expansion-3150702",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-25T16:43:17+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/85e5687689adfed6ffd3c326b86b4e7e1782394746885708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "केंद्रीय गृह मंत्री अमित शाह ने राष्ट्रपति द्रौपदी मुर्मू से मुलाकात की, जिससे केंद्रीय मंत्रिपरिषद में संभावित फेरबदल की अटकलें तेज हो गईं। यह मुलाकात गुरुवार को राष्ट्रपति भवन में हुई। केंद्रीय गृह मंत्री अमित शाह ने गुरुवार (25 जून 2026) को राष्ट्रपति भवन में राष्ट्रपति द्रौपदी मुर्मू से मुलाकात की. यह मुलाकात केंद्रीय मंत्रिपरिषद में संभावित फेरबदल की अटकलों के बीच हुई है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कैबिनेट विस्तार की अटकलों के बीच राष्ट्रपति मुर्मू से मिले अमित शाह, क्या हैं इस मीटिंग के मायने?",
+          "summary": "केंद्रीय गृह मंत्री अमित शाह ने राष्ट्रपति द्रौपदी मुर्मू से मुलाकात की, जिससे केंद्रीय मंत्रिपरिषद में संभावित फेरबदल की अटकलें तेज हो गईं। यह मुलाकात गुरुवार को राष्ट्रपति भवन में हुई। केंद्रीय गृह मंत्री अमित शाह ने गुरुवार (25 जून 2026) को राष्ट्रपति भवन में राष्ट्रपति द्रौपदी मुर्मू से मुलाकात की. यह मुलाकात केंद्रीय मंत्रिपरिषद में संभावित फेरबदल की अटकलों के बीच हुई है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "तेहरान को लेकर भारतीय दूतावास की एडवाइजरी, कहा- नागरिक ईरान यात्रा से बचें; हेल्पलाइन नंबर जारी",
+      "url": "https://www.abplive.com/news/world/indian-embassy-advisory-regarding-tehran-middle-east-citizens-advised-avoid-travel-to-iran-helpline-number-release-3150757",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-25T16:36:27+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/4230cbfd2070744f8b457a439537bd8617824026281221324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "भारतीय दूतावास ने तेहरान में एक एडवाइजरी जारी की है, जिसमें भारतीय नागरिकों को ईरान यात्रा से बचने की सलाह दी गई है. दूतावास ने हेल्पलाइन नंबर भी जारी किया है. यह एडवाइजरी अगली सूचना तक 유효 रहेगी. साथ ही भारतीयों के लिए हेल्पलाइन नंबर भी जारी किया है. दूतावास में अपनी गाइडलाइन में भारतीय नागरिकों को सतर्कता बरतने की हिदायत दी है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेहरान को लेकर भारतीय दूतावास की एडवाइजरी, कहा- नागरिक ईरान यात्रा से बचें; हेल्पलाइन नंबर जारी",
+          "summary": "भारतीय दूतावास ने तेहरान में एक एडवाइजरी जारी की है, जिसमें भारतीय नागरिकों को ईरान यात्रा से बचने की सलाह दी गई है. दूतावास ने हेल्पलाइन नंबर भी जारी किया है. यह एडवाइजरी अगली सूचना तक 유효 रहेगी. साथ ही भारतीयों के लिए हेल्पलाइन नंबर भी जारी किया है. दूतावास में अपनी गाइडलाइन में भारतीय नागरिकों को सतर्कता बरतने की हिदायत दी है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी सुप्रीम कोर्ट में डोनाल्ड ट्रंप की बड़ी जीत, शरणार्थी वाले कानून को मिली मंजूरी",
+      "url": "https://www.patrika.com/world-news/us-supreme-court-sides-with-donald-trump-in-asylum-processing-case-20697435",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-25T16:19:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/trump-imposes-tariff.webp",
+      "summary": "अमेरिकी सुप्रीम कोर्ट ने राष्ट्रपति डोनाल्ड ट्रंप के पक्ष में फैसला सुनाया है. कोर्ट ने ट्रंप की बॉर्डर पर शरण चाहने वालों को रोकने वाली नीति को मंजूरी दे दी है. यह नीति ट्रंप को एक बड़ी राहत देने वाली है. अमेरिका के सुप्रीम कोर्ट ने राष्ट्रपति डोनाल्ड ट्रंप के पक्ष में फैसला सुनाया है। कोर्ट ने ट्रंप को एक बड़ी राहत देते हुए बॉर्डर पर शरण चाहने वालों को रोकने वाली नीति को मंजूरी दे दी है।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी सुप्रीम कोर्ट में डोनाल्ड ट्रंप की बड़ी जीत, शरणार्थी वाले कानून को मिली मंजूरी",
+          "summary": "अमेरिकी सुप्रीम कोर्ट ने राष्ट्रपति डोनाल्ड ट्रंप के पक्ष में फैसला सुनाया है. कोर्ट ने ट्रंप की बॉर्डर पर शरण चाहने वालों को रोकने वाली नीति को मंजूरी दे दी है. यह नीति ट्रंप को एक बड़ी राहत देने वाली है. अमेरिका के सुप्रीम कोर्ट ने राष्ट्रपति डोनाल्ड ट्रंप के पक्ष में फैसला सुनाया है। कोर्ट ने ट्रंप को एक बड़ी राहत देते हुए बॉर्डर पर शरण चाहने वालों को रोकने वाली नीति को मंजूरी दे दी है।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
       "title": "दुनिया के इन 6 देशों में आए सबसे विनाशकारी भूकंप, एक जगह तो बिछी थीं 3 लाख लाशें, भारत भी अछूता नहीं",
       "url": "https://hindi.news18.com/world/rest-of-world-6-most-powerful-earthquakes-in-history-from-great-chile-shock-to-indonesia-tsunami-that-killed-3-lakhs-10603331.html",
       "source": "News18 Hindi (World)",
@@ -447,6 +609,78 @@
         "hi": {
           "title": "दुनिया के इन 6 देशों में आए सबसे विनाशकारी भूकंप, एक जगह तो बिछी थीं 3 लाख लाशें, भारत भी अछूता नहीं",
           "summary": "वेनेजुएला में विनाशकारी भूकंप आया है, लेकिन इतिहास में इससे भी अधिक विनाशकारी भूकंप आ चुके हैं। अमेरिकी भूवैज्ञानिक सर्वेक्षण के आंकड़ों के मुताबिक, दुनिया में कई जगहों पर बड़े भूकंप आ चुके हैं, जिनमें चिली और अलास्का में आए भूकंप शामिल हैं। वेनेजुएला में आए भूकंप ने भले ही भारी तबाही मचाई हो, लेकिन अमेरिकी भूवैज्ञानिक सर्वेक्षण (USGS) के आंकड़ों के मुताबिक दुनिया में इससे भी कहीं ज्यादा खूंखार और महा-विनाशकारी भूकंप आ चुके हैं, जिन्होंने इतिहास का भूगोल ही बदल दिया था.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "41 साल बाद कनाडा को आया होश, पहली बार कबूला सच, AIR INDIA 182 में हुए बम ब्लास्ट में खालिस्तानी का",
+      "url": "https://www.abplive.com/news/world/canada-admits-khalistanis-planted-bomb-on-air-india-kanishka-flight-182-after-41-years-killed-329-people-3150747",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-25T15:36:51+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/afc3b745e0f1047db314372e551acaa41782401703026708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "कनाडा ने 41 साल बाद एयर इंडिया फ्लाइट 182 में हुए बम ब्लास्ट में खालिस्तानी का हाथ होने की बात स्वीकार कर ली है. इस हादसे में 329 लोगों की मौत हुई थी. कनाडा ने इस सच को स्वीकार कर लिया है जिसे भारत चार दशकों से कहता आ रहा है. एयर इंडिया फ्लाइट 182 में हुए बम ब्लास्ट (कनिष्क विस्फोट) को लेकर 41 साल बाद आखिरकार कनाडा ने उस सच को स्वीकार कर लिया, जिसे भारत चार दशकों से कहता आ रहा है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "41 साल बाद कनाडा को आया होश, पहली बार कबूला सच, AIR INDIA 182 में हुए बम ब्लास्ट में खालिस्तानी का",
+          "summary": "कनाडा ने 41 साल बाद एयर इंडिया फ्लाइट 182 में हुए बम ब्लास्ट में खालिस्तानी का हाथ होने की बात स्वीकार कर ली है. इस हादसे में 329 लोगों की मौत हुई थी. कनाडा ने इस सच को स्वीकार कर लिया है जिसे भारत चार दशकों से कहता आ रहा है. एयर इंडिया फ्लाइट 182 में हुए बम ब्लास्ट (कनिष्क विस्फोट) को लेकर 41 साल बाद आखिरकार कनाडा ने उस सच को स्वीकार कर लिया, जिसे भारत चार दशकों से कहता आ रहा है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "केतन अग्रवाल हत्याकांड से चर्चा में आया लोहागढ़ का किला, छत्रपति शिवाजी महाराज से क्या कनेक्शन?",
+      "url": "https://www.abplive.com/news/india/lohagarh-fort-ketan-agarwal-murder-case-history-of-shivaji-maharaj-owned-fort-3150672",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-25T15:36:20+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/4e83f95deb2e62e2b32429a3ce4499d717823895987691324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पुणे के रियल स्टेट बिजनेसमैन केतन विशाल अग्रवाल की हत्या उनके ही होने वाली पत्नी और उसके प्रेमी ने की है. यह हत्या लोहागढ़ किले में हुई थी. दोनों आरोपी पुलिस हिरासत में हैं और जांच जारी है. पुणे के रियल स्टेट बिजनेसमैन केतन विशाल अग्रवाल हत्याकांड ने पूरे देश को तो सदमे में डाल दिया है, वहीं, इस केस के चलते अब एक जगह की चर्चा निकल पड़ी है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "केतन अग्रवाल हत्याकांड से चर्चा में आया लोहागढ़ का किला, छत्रपति शिवाजी महाराज से क्या कनेक्शन?",
+          "summary": "पुणे के रियल स्टेट बिजनेसमैन केतन विशाल अग्रवाल की हत्या उनके ही होने वाली पत्नी और उसके प्रेमी ने की है. यह हत्या लोहागढ़ किले में हुई थी. दोनों आरोपी पुलिस हिरासत में हैं और जांच जारी है. पुणे के रियल स्टेट बिजनेसमैन केतन विशाल अग्रवाल हत्याकांड ने पूरे देश को तो सदमे में डाल दिया है, वहीं, इस केस के चलते अब एक जगह की चर्चा निकल पड़ी है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दुनिया का ऐसा देश जहां बिना वीजा के मिलती है एंट्री, बेरोकटोक घूमने के लिए मिलेंगे पूरे 30 दिन",
+      "url": "https://hindi.news18.com/world/rest-of-world-no-visa-required-this-hidden-pacific-island-welcomes-every-passport-holder-for-30-days-without-any-paperwork-10603129.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-25T15:16:45+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Micronesia-visa-free-country-2026-06-6ab26a858f45145dc5137df2df8fd86e-1200x800.jpg",
+      "summary": "माइक्रोनेशिया ने बिना वीजा के एंट्री देने की घोषणा की है. पर्यटकों को 30 दिनों तक घूमने की आजादी मिलती है. यह देश प्रशांत महासागर में स्थित है और पूरी दुनिया के पर्यटकों को आकर्षित कर रहा है. आज के दौर में जहां हर देश अपनी सीमाओं को सुरक्षित करने के लिए वीज़ा नियमों को कड़ा कर रहा है, वहीं प्रशांत महासागर की गोद में बसा एक बेहद खूबसूरत और गुमनाम द्वीप देश 'माइक्रोनेशिया' पूरी दुनिया के पर्यटकों को बिना किसी वीजा और कागजी झंझट के सीधे एंट्री दे रहा है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुनिया का ऐसा देश जहां बिना वीजा के मिलती है एंट्री, बेरोकटोक घूमने के लिए मिलेंगे पूरे 30 दिन",
+          "summary": "माइक्रोनेशिया ने बिना वीजा के एंट्री देने की घोषणा की है. पर्यटकों को 30 दिनों तक घूमने की आजादी मिलती है. यह देश प्रशांत महासागर में स्थित है और पूरी दुनिया के पर्यटकों को आकर्षित कर रहा है. आज के दौर में जहां हर देश अपनी सीमाओं को सुरक्षित करने के लिए वीज़ा नियमों को कड़ा कर रहा है, वहीं प्रशांत महासागर की गोद में बसा एक बेहद खूबसूरत और गुमनाम द्वीप देश 'माइक्रोनेशिया' पूरी दुनिया के पर्यटकों को बिना किसी वीजा और कागजी झंझट के सीधे एंट्री दे रहा है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पासपोर्ट मुद्दे पर विपक्ष ने केंद्र को घेरा, उठाए सवाल? पूछा-किस दस्तावेज पर करें यकीन",
+      "url": "https://www.abplive.com/news/india/opposition-corners-centre-over-passport-issue-raises-questions-about-citizenship-document-3150737",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-06-25T15:12:26+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/82ada23a2a527770f7c21e57baba236017823996792801324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "विपक्ष ने केंद्र सरकार को पासपोर्ट मुद्दे पर घेरा, सवाल उठाया कि भारतीय अपनी राष्ट्रीयता साबित करने के लिए किस दस्तावेज पर भरोसा करें. सरकार ने कहा कि पासपोर्ट और नागरिकता को लेकर कानूनी समझ दशकों से बनी हुई है, कोई नया फैसला नहीं है. पासपोर्ट नागरिकता का पक्का सबूत नहीं है. विदेश मंत्रालय के इस बयान देश में सियासत हो गई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पासपोर्ट मुद्दे पर विपक्ष ने केंद्र को घेरा, उठाए सवाल? पूछा-किस दस्तावेज पर करें यकीन",
+          "summary": "विपक्ष ने केंद्र सरकार को पासपोर्ट मुद्दे पर घेरा, सवाल उठाया कि भारतीय अपनी राष्ट्रीयता साबित करने के लिए किस दस्तावेज पर भरोसा करें. सरकार ने कहा कि पासपोर्ट और नागरिकता को लेकर कानूनी समझ दशकों से बनी हुई है, कोई नया फैसला नहीं है. पासपोर्ट नागरिकता का पक्का सबूत नहीं है. विदेश मंत्रालय के इस बयान देश में सियासत हो गई है.",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -470,6 +704,42 @@
       }
     },
     {
+      "title": "‘अमेरिकी फसल नहीं खरीदेंगे, हमारा पैसा लौटाओ’, ईरान ने डोनाल्ड ट्रंप-जेडी वेंस के दावे को कर दिया",
+      "url": "https://www.patrika.com/world-news/iran-reject-donald-trump-jd-vance-claim-over-america-frozen-assets-20697263",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-25T14:10:25+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Abbas-Araghchi-and-Donald-Trump.webp",
+      "summary": "ईरान ने अमेरिका के दावे को खारिज कर दिया कि वह ईरान के जब्त पैसों से अमेरिकी फसल खरीदकर तेहरान भेजेंगे. राष्ट्रपति डोनाल्ड ट्रंप और उपराष्ट्रपति जेडी वेंस ने स्विट्जरलैंड में ईरान से बातचीत के बाद यह बयान दिया था. अमेरिका के दावे को ईरान ने पूरी तरह से खारिज कर दिया है। राष्ट्रपपति डोनाल्ड ट्रंप और उपराष्ट्रपति जेडी वेंस स्विट्जरलैंड में ईरान से बातचीत के बाद खुले मंच पर यह बयान दिया था कि वह ईरान के जब्त पैसों से अमेरिकी फसल खरीदकर तेहरान भेजेंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘अमेरिकी फसल नहीं खरीदेंगे, हमारा पैसा लौटाओ’, ईरान ने डोनाल्ड ट्रंप-जेडी वेंस के दावे को कर दिया",
+          "summary": "ईरान ने अमेरिका के दावे को खारिज कर दिया कि वह ईरान के जब्त पैसों से अमेरिकी फसल खरीदकर तेहरान भेजेंगे. राष्ट्रपति डोनाल्ड ट्रंप और उपराष्ट्रपति जेडी वेंस ने स्विट्जरलैंड में ईरान से बातचीत के बाद यह बयान दिया था. अमेरिका के दावे को ईरान ने पूरी तरह से खारिज कर दिया है। राष्ट्रपपति डोनाल्ड ट्रंप और उपराष्ट्रपति जेडी वेंस स्विट्जरलैंड में ईरान से बातचीत के बाद खुले मंच पर यह बयान दिया था कि वह ईरान के जब्त पैसों से अमेरिकी फसल खरीदकर तेहरान भेजेंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत के पड़ोसी देश नेपाल को फांसने की फिराक में ड्रैगन, चीनी राजदूत ने पेश किया 4-सूत्रीय प्लान",
+      "url": "https://www.abplive.com/news/world/chinese-ambassador-to-nepal-presents-4-point-plans-to-pm-balendra-shah-over-increase-support-via-bri-project-3150602",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-06-25T14:06:42+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/8e003890cf14fa6e4b4e69a87bac6b1617823837072611126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "चीन ने नेपाल के साथ अपने संबंधों को मजबूत करने के लिए एक चार सूत्रीय रोडमैप पेश किया है. चीन का यह कदम भारत के पड़ोसी देश नेपाल को अपने प्रभाव में लाने की कोशिश के रूप में देखा जा रहा है, जिससे क्षेत्र में उसकी पैठ बढ़ सके. दुनिया के सबसे शक्तिशाली देश अमेरिका को चुनौती देने वाला चीन दक्षिण एशिया के कई देशों में अपनी पैठ बनाने के लिए कूटनीति और रणनीति का इस्तेमाल करके जाल बुनता आ रहा है, जिसमें अब तक कई देश फंस चुके हैं और अब चीन भारत के पड़ोसी देश नेपाल को इस जाल में फंसाने की फिराक में लगा हुआ है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के पड़ोसी देश नेपाल को फांसने की फिराक में ड्रैगन, चीनी राजदूत ने पेश किया 4-सूत्रीय प्लान",
+          "summary": "चीन ने नेपाल के साथ अपने संबंधों को मजबूत करने के लिए एक चार सूत्रीय रोडमैप पेश किया है. चीन का यह कदम भारत के पड़ोसी देश नेपाल को अपने प्रभाव में लाने की कोशिश के रूप में देखा जा रहा है, जिससे क्षेत्र में उसकी पैठ बढ़ सके. दुनिया के सबसे शक्तिशाली देश अमेरिका को चुनौती देने वाला चीन दक्षिण एशिया के कई देशों में अपनी पैठ बनाने के लिए कूटनीति और रणनीति का इस्तेमाल करके जाल बुनता आ रहा है, जिसमें अब तक कई देश फंस चुके हैं और अब चीन भारत के पड़ोसी देश नेपाल को इस जाल में फंसाने की फिराक में लगा हुआ है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "खत्म हो जाएगा OPEC! UAE के बाद अब इराक छोड़ेगा? बादशाहत जाने से डर से कांप गया सऊदी अरब",
       "url": "https://hindi.news18.com/world/middle-east-opec-collapse-iraq-threatens-to-exit-oil-cartel-after-uae-leaving-saudi-arabia-panicked-as-crude-oil-prices-tumble-10603026.html",
       "source": "News18 Hindi (World)",
@@ -484,276 +754,6 @@
           "title": "खत्म हो जाएगा OPEC! UAE के बाद अब इराक छोड़ेगा? बादशाहत जाने से डर से कांप गया सऊदी अरब",
           "summary": "इराक ने ओपेक छोड़ने की धमकी दी है और मांग की है कि उसका तेल उत्पादन कोटा तुरंत बढ़ाया जाए। इससे सऊदी अरब की बादशाहत खतरे में पड़ गई है। इराक ईरान युद्ध के चलते आर्थिक तंगी झेल रहा है। वैश्विक तेल बाजार के सबसे बड़े संगठन OPEC के भीतर यूएई (UAE) के बाद अब इराक ने भी खुली बगावत का बिगुल फूंक दिया है, जिससे सऊदी अरब की बादशाहत खतरे में पड़ गई है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "39 सेकंड और भूकंप के 2 एपिसेंटर, वेनेजुएला में सिर्फ भूकंप नहीं ‘डबलेट’ आया था, इतिहास में 1 बार",
-      "url": "https://hindi.news18.com/world/rest-of-world-2-epicenters-39-seconds-apart-rare-earthquake-doublet-strikes-venezuela-leaving-164-dead-in-century-worst-tragedy-10602862.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T12:54:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Venezuela-Doublet-Earthquake-2026-06-8f179d97e07b0f06f62bfbb860834fac-1200x800.jpg",
-      "summary": "वेनेजुएला में 'डबलेट' नामक एक दुर्लभ घटना हुई, जिसमें 39 सेकंड के भीतर दो भूकंप आए। इससे 164 लोगों की मौत हो गई और 975 लोग घायल हो गए। इतिहास में इससे पहले केवल एक बार 2023 में तुर्की में ऐसा हुआ था। वेनेजुएला में जो हुआ उसे वैज्ञानिक भाषा में 'डबलेट' (Doublet) कहा जाता है. ये सिर्फ भूकंप नहीं है, बल्कि भूकंप का डबलेट है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "39 सेकंड और भूकंप के 2 एपिसेंटर, वेनेजुएला में सिर्फ भूकंप नहीं ‘डबलेट’ आया था, इतिहास में 1 बार",
-          "summary": "वेनेजुएला में 'डबलेट' नामक एक दुर्लभ घटना हुई, जिसमें 39 सेकंड के भीतर दो भूकंप आए। इससे 164 लोगों की मौत हो गई और 975 लोग घायल हो गए। इतिहास में इससे पहले केवल एक बार 2023 में तुर्की में ऐसा हुआ था। वेनेजुएला में जो हुआ उसे वैज्ञानिक भाषा में 'डबलेट' (Doublet) कहा जाता है. ये सिर्फ भूकंप नहीं है, बल्कि भूकंप का डबलेट है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तेल की लाइफलाइन पर संकट? होर्मुज किसी एक देश की जागीर नहीं, ईरान पर अमेरिका के पलटवार से गल्फ में",
-      "url": "https://hindi.news18.com/world/middle-east-hormuz-strait-is-not-private-property-of-any-single-nation-gulf-tension-us-counter-strike-against-iran-10602863.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T12:53:19+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Hormuz-Strait-2026-06-968a4d1a1dfb3968f0da594f1b593375-1200x800.jpg",
-      "summary": "अमेरिकी सीनेटर मार्को रूबियो ने ईरान की मांगों को सिरे से खारिज कर दिया है। उन्होंने कहा कि अंतरराष्ट्रीय जलमार्ग किसी एक विशिष्ट राष्ट्र-राज्य का हिस्सा या उसकी निजी संपत्ति नहीं होते हैं। यह बयान बहरीन में खाड़ी सहयोग परिषद की बैठक में दिया गया था। बहरीन की राजधानी मनामा में खाड़ी सहयोग परिषद के सदस्य देशों के विदेश मंत्रियों की विशेष बैठक के दौरान मार्को रूबियो ने ईरान की मांगों को सिरे से खारिज किया.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेल की लाइफलाइन पर संकट? होर्मुज किसी एक देश की जागीर नहीं, ईरान पर अमेरिका के पलटवार से गल्फ में",
-          "summary": "अमेरिकी सीनेटर मार्को रूबियो ने ईरान की मांगों को सिरे से खारिज कर दिया है। उन्होंने कहा कि अंतरराष्ट्रीय जलमार्ग किसी एक विशिष्ट राष्ट्र-राज्य का हिस्सा या उसकी निजी संपत्ति नहीं होते हैं। यह बयान बहरीन में खाड़ी सहयोग परिषद की बैठक में दिया गया था। बहरीन की राजधानी मनामा में खाड़ी सहयोग परिषद के सदस्य देशों के विदेश मंत्रियों की विशेष बैठक के दौरान मार्को रूबियो ने ईरान की मांगों को सिरे से खारिज किया.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "वेनेजुएला में मीडिया को खुलकर बोलने की आजादी क्यों नहीं? भूकंप से 164 लोगों की मौत के बाद सभी रोक",
-      "url": "https://www.patrika.com/world-news/venezuela-earthquake-media-control-issue-original-number-of-death-united-nation-appeal-here-all-latest-update-20697136",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T12:51:54+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/VenezuelaEarthquakeMediacontrol.webp",
-      "summary": "वेनेजुएला में भूकंप के बाद मीडिया को खुलकर बोलने की आजादी नहीं है। सरकार ने मीडिया पर रोक लगा दी है। भूकंप से 164 लोगों की मौत हो गई और 975 लोग घायल हो गए हैं। बचाव कार्य जारी है। वेनेजुएला में जोरदार भूकंप के बाद अब तक 164 लोगों की जान चली गई हैष। वहीं, 975 लोगों के घायल होने की सूचना है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वेनेजुएला में मीडिया को खुलकर बोलने की आजादी क्यों नहीं? भूकंप से 164 लोगों की मौत के बाद सभी रोक",
-          "summary": "वेनेजुएला में भूकंप के बाद मीडिया को खुलकर बोलने की आजादी नहीं है। सरकार ने मीडिया पर रोक लगा दी है। भूकंप से 164 लोगों की मौत हो गई और 975 लोग घायल हो गए हैं। बचाव कार्य जारी है। वेनेजुएला में जोरदार भूकंप के बाद अब तक 164 लोगों की जान चली गई हैष। वहीं, 975 लोगों के घायल होने की सूचना है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "वेनेजुएला में भूकंप से अब तक 164 मौतें, 59 साल पहले भी जोरदार झटकों से 35 सेकंड में गईं थीं 200",
-      "url": "https://www.patrika.com/world-news/1967-caracas-earthquake-remembering-recent-venezuela-incident-35-second-tremor-death-toll-more-than-200-20696466",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T10:41:45+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/VenezuelaEarthquake1.webp",
-      "summary": "वेनेजुएला में भूकंप से 164 लोगों की मौत हो गई और कई इमारतें ढह गईं. भूकंप के दो जबरदस्त झटके बुधवार को दर्ज किए गए थे. यह जानकारी वेनेजुएला के अधिकारियों ने दी. वेनेजुएला में भूकंप के दो जबरदस्त झटकों ने बुधवार को भारी तबाही मचाई है। इससे कई इमारतें ढह गईं हैं, जिसमें दबकर अब तक 164 लोगों की जान चली गई है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वेनेजुएला में भूकंप से अब तक 164 मौतें, 59 साल पहले भी जोरदार झटकों से 35 सेकंड में गईं थीं 200",
-          "summary": "वेनेजुएला में भूकंप से 164 लोगों की मौत हो गई और कई इमारतें ढह गईं. भूकंप के दो जबरदस्त झटके बुधवार को दर्ज किए गए थे. यह जानकारी वेनेजुएला के अधिकारियों ने दी. वेनेजुएला में भूकंप के दो जबरदस्त झटकों ने बुधवार को भारी तबाही मचाई है। इससे कई इमारतें ढह गईं हैं, जिसमें दबकर अब तक 164 लोगों की जान चली गई है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "क्या ईरान को ज्यादा रियायतें दे रहा है अमेरिका? खाड़ी देशों की चिंता पर मार्को रुबियो ने दिया भरोसा",
-      "url": "https://www.patrika.com/world-news/gulf-states-wary-of-iran-deal-marco-rubio-says-us-was-not-undermine-allies-security-20696584",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T10:36:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/marco-rubio.jpg",
-      "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने खाड़ी देशों को बताया कि ईरान के साथ किसी भी समझौते में उनके हितों का पूरा ध्यान रखा जाएगा. रुबियो ट्रंप प्रशासन के उस प्रारंभिक समझौते को क्षेत्रीय साझेदारों के सामने रखने के लिए मध्य पूर्व दौरे पर थे. Marco Rubio on US-Iran Deal: अमेरिकी विदेश मंत्री मार्को रुबियो ने गुरुवार को खाड़ी देशों के सहयोगियों को बताया कि ईरान के साथ किसी भी समझौते में उनके हितों का पूरा ध्यान रखा जाएगा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या ईरान को ज्यादा रियायतें दे रहा है अमेरिका? खाड़ी देशों की चिंता पर मार्को रुबियो ने दिया भरोसा",
-          "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने खाड़ी देशों को बताया कि ईरान के साथ किसी भी समझौते में उनके हितों का पूरा ध्यान रखा जाएगा. रुबियो ट्रंप प्रशासन के उस प्रारंभिक समझौते को क्षेत्रीय साझेदारों के सामने रखने के लिए मध्य पूर्व दौरे पर थे. Marco Rubio on US-Iran Deal: अमेरिकी विदेश मंत्री मार्को रुबियो ने गुरुवार को खाड़ी देशों के सहयोगियों को बताया कि ईरान के साथ किसी भी समझौते में उनके हितों का पूरा ध्यान रखा जाएगा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘अंतरराष्ट्रीय जलमार्ग किसी देश की जागीर नहीं’, बहरीन में ईरान को अमेरिकी विदेश मंत्री की दो टूक",
-      "url": "https://www.patrika.com/world-news/hormuz-strait-tolls-marco-rubio-warns-iran-against-charging-ships-international-waterway-20696299",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T09:47:18+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Marco-Rubio.png",
-      "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने बहरीन में कहा कि होर्मुज जलडमरूमध्य जैसे अंतरराष्ट्रीय जलमार्गों पर किसी भी देश को टोल या शुल्क लगाने की अनुमति नहीं दी जा सकती. उन्होंने चेतावनी दी कि इसका असर दुनिया के दूसरे समुद्री रास्तों पर भी पड़ेगा. Marco Rubio on Strait of Hormuz: अमेरिकी विदेश मंत्री मार्को रुबियो ने बहरीन में गल्फ कोऑपरेशन काउंसिल (GCC) की बैठक के दौरान कहा कि होर्मुज जलडमरूमध्य जैसे अंतरराष्ट्रीय जलमार्गों पर किसी भी देश को टोल या शुल्क लगाने की अनुमति नहीं दी जा सकती।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘अंतरराष्ट्रीय जलमार्ग किसी देश की जागीर नहीं’, बहरीन में ईरान को अमेरिकी विदेश मंत्री की दो टूक",
-          "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने बहरीन में कहा कि होर्मुज जलडमरूमध्य जैसे अंतरराष्ट्रीय जलमार्गों पर किसी भी देश को टोल या शुल्क लगाने की अनुमति नहीं दी जा सकती. उन्होंने चेतावनी दी कि इसका असर दुनिया के दूसरे समुद्री रास्तों पर भी पड़ेगा. Marco Rubio on Strait of Hormuz: अमेरिकी विदेश मंत्री मार्को रुबियो ने बहरीन में गल्फ कोऑपरेशन काउंसिल (GCC) की बैठक के दौरान कहा कि होर्मुज जलडमरूमध्य जैसे अंतरराष्ट्रीय जलमार्गों पर किसी भी देश को टोल या शुल्क लगाने की अनुमति नहीं दी जा सकती।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "वेनेजुएला भूकंप के पीछे की वजह सामने! USGS की रिपोर्ट ने खोले राज",
-      "url": "https://www.patrika.com/world-news/venezuela-earthquake-many-people-dead-usgs-report-know-reason-20695414",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T08:37:05+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Venezuela-Earthquake-.webp",
-      "summary": "वेनेजुएला में गुरुवार तड़के 7.2 तीव्रता के भूकंप दर्ज किए गए, जबकि जापान में भी धरती 6.9 तीव्रता के झटकों से कांप उठी. USGS की रिपोर्ट में भूकंप के कारणों का खुलासा हुआ है. Venezuela 7.2 Magnitude Earthquake: वेनेजुएला और जापान में गुरुवार तड़के आए भूकंपों ने लोगों में दहशत फैला दी। वेनेजुएला में लगातार दो बड़े भूकंप दर्ज किए गए, जबकि जापान में भी धरती 6.9 तीव्रता के झटकों से कांप उठी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वेनेजुएला भूकंप के पीछे की वजह सामने! USGS की रिपोर्ट ने खोले राज",
-          "summary": "वेनेजुएला में गुरुवार तड़के 7.2 तीव्रता के भूकंप दर्ज किए गए, जबकि जापान में भी धरती 6.9 तीव्रता के झटकों से कांप उठी. USGS की रिपोर्ट में भूकंप के कारणों का खुलासा हुआ है. Venezuela 7.2 Magnitude Earthquake: वेनेजुएला और जापान में गुरुवार तड़के आए भूकंपों ने लोगों में दहशत फैला दी। वेनेजुएला में लगातार दो बड़े भूकंप दर्ज किए गए, जबकि जापान में भी धरती 6.9 तीव्रता के झटकों से कांप उठी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मसूद पेज़ेशकियान ने ईरान को बताया शक्तिशाली और सम्मानित देश, सेना को दिया दुश्मन को सबक सिखाने का",
-      "url": "https://www.patrika.com/world-news/iran-now-recognised-as-powerful-and-dignified-nation-masoud-pezeshkian-says-20695727",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T08:21:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/pezeshkian-.webp",
-      "summary": "ईरानी राष्ट्रपति मसूद पेज़ेशकियान ने कहा कि ईरान एक शक्तिशाली और सम्मानित देश है. उन्होंने सेना को दुश्मन को सबक सिखाने का निर्देश दिया. यह जानकारी ईरानी मीडिया में दी गई है. दोनों देशों के बीच युद्ध का स्थायी अंत हो चुका है और होर्मुज स्ट्रेट (Strait of Hormuz) पूरी तरह से खुल चुका है, जिससे जहाजों की आवाजाही बढ़ने लगी है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मसूद पेज़ेशकियान ने ईरान को बताया शक्तिशाली और सम्मानित देश, सेना को दिया दुश्मन को सबक सिखाने का",
-          "summary": "ईरानी राष्ट्रपति मसूद पेज़ेशकियान ने कहा कि ईरान एक शक्तिशाली और सम्मानित देश है. उन्होंने सेना को दुश्मन को सबक सिखाने का निर्देश दिया. यह जानकारी ईरानी मीडिया में दी गई है. दोनों देशों के बीच युद्ध का स्थायी अंत हो चुका है और होर्मुज स्ट्रेट (Strait of Hormuz) पूरी तरह से खुल चुका है, जिससे जहाजों की आवाजाही बढ़ने लगी है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यूएन रूट पर चल रहा था मालवाहक जहाज, मिसाइल जैसे प्रोजेक्टाइल से हुआ हमला",
-      "url": "https://www.amarujala.com/world/british-military-says-ship-hit-by-projectile-on-un-approved-route-in-strait-of-hormuz-2026-06-25",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-25T05:30:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/us-military-disables-commercial-ship-heading-to-iran-with-hellfire-missile_26fafcc4d910c5fbf1c1f8eb8b123324.jpeg?w=1200&dpr=1.0",
-      "summary": "एक मालवाहक जहाज पर मिसाइल जैसे प्रोजेक्टाइल से हमला हुआ जब वह यूएन रूट पर होर्मुज जलडमरूमध्य में चल रहा था. ब्रिटिश सैन्य ने इस घटना की जानकारी दी. जहाज को नुकसान पहुंचा है. यूएन रूट पर चल रहा था मालवाहक जहाज, मिसाइल जैसे प्रोजेक्टाइल से हुआ हमला।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूएन रूट पर चल रहा था मालवाहक जहाज, मिसाइल जैसे प्रोजेक्टाइल से हुआ हमला",
-          "summary": "एक मालवाहक जहाज पर मिसाइल जैसे प्रोजेक्टाइल से हमला हुआ जब वह यूएन रूट पर होर्मुज जलडमरूमध्य में चल रहा था. ब्रिटिश सैन्य ने इस घटना की जानकारी दी. जहाज को नुकसान पहुंचा है. यूएन रूट पर चल रहा था मालवाहक जहाज, मिसाइल जैसे प्रोजेक्टाइल से हुआ हमला।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "भूकंप ने वेनेजुएला में इस वजह से मचाई तबाही? USGS ने 'महाविनाश' पर कर दिया बड़ा खुलासा",
-      "url": "https://www.abplive.com/news/world/venezuela-earthquake-according-to-usgs-7-5-and-7-2-magnitude-twin-earthquakes-severe-impact-due-to-shallow-depth-3150357",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-25T04:14:19+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/1cdf6bf54862ec6145fb47cdd241329517823595430291115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "वेनेजुएला में आए भूकंप की वजह से भारी तबाही मची है. अमेरिकी भूगर्भीय संस्था के अनुसार, 7.2 और 7.5 तीव्रता के दो भूकंप आए जिनकी गहराई जमीन की सतह से सिर्फ 10-13 किलोमीटर थी. इससे नुकसान बढ़ गया. वेनेजुएला की राजधानी कराकास में आया भूकंप इसलिए बहुत खतरनाक साबित हुआ, क्योंकि यह एक डबल इवेंट था. अमेरिकी भूगर्भीय संस्था (USGS) के अनुसार, यहां पहले 7.2 तीव्रता का भूकंप आया और उसके सिर्फ 39 सेकंड बाद 7.5 तीव्रता का एक और तेज झटका आया.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भूकंप ने वेनेजुएला में इस वजह से मचाई तबाही? USGS ने 'महाविनाश' पर कर दिया बड़ा खुलासा",
-          "summary": "वेनेजुएला में आए भूकंप की वजह से भारी तबाही मची है. अमेरिकी भूगर्भीय संस्था के अनुसार, 7.2 और 7.5 तीव्रता के दो भूकंप आए जिनकी गहराई जमीन की सतह से सिर्फ 10-13 किलोमीटर थी. इससे नुकसान बढ़ गया. वेनेजुएला की राजधानी कराकास में आया भूकंप इसलिए बहुत खतरनाक साबित हुआ, क्योंकि यह एक डबल इवेंट था. अमेरिकी भूगर्भीय संस्था (USGS) के अनुसार, यहां पहले 7.2 तीव्रता का भूकंप आया और उसके सिर्फ 39 सेकंड बाद 7.5 तीव्रता का एक और तेज झटका आया.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "भारत समेत दुनिया के कई देश झेल चुके हैं आपदा; बीते 90 वर्षों में 5.64 लाख+ लोगों की मौत",
-      "url": "https://www.amarujala.com/world/deadliest-earthquake-in-21-century-thousand-death-toll-and-destruction-biggest-magnitude-2026-06-25",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-25T04:00:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/venezuela_a70212b3a12ccfe575a3394e766d1911.gif?w=1200&dpr=1.0",
-      "summary": "지난 90 वर्षों में दुनिया भर में कई देशों में आपदाएं आईं जिनमें 5.64 लाख से अधिक लोगों की मौत हो गई. 21वीं सदी में कई घातक भूकंप आए जिनमें हजारों लोगों की मौत हुई और भारी तबाही मची. भारत समेत दुनिया के कई देश झेल चुके हैं आपदा; बीते 90 वर्षों में 5.64 लाख+ लोगों की मौत।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत समेत दुनिया के कई देश झेल चुके हैं आपदा; बीते 90 वर्षों में 5.64 लाख+ लोगों की मौत",
-          "summary": "지난 90 वर्षों में दुनिया भर में कई देशों में आपदाएं आईं जिनमें 5.64 लाख से अधिक लोगों की मौत हो गई. 21वीं सदी में कई घातक भूकंप आए जिनमें हजारों लोगों की मौत हुई और भारी तबाही मची. भारत समेत दुनिया के कई देश झेल चुके हैं आपदा; बीते 90 वर्षों में 5.64 लाख+ लोगों की मौत।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "वेनेजुएला में 100 साल का सबसे बड़ा भूकंप: मिनट-दर-मिनट तबाही की पूरी टाइमलाइन, हजारों मौतों की आशंका",
-      "url": "https://www.abplive.com/news/world/venezuela-double-earthquake-7-5-magnitude-caracas-destruction-tsunami-alert-100-year-biggest-disaster-2026-3150359",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-25T03:56:13+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/2b44672d51e213df262a03ca7ce6b56b1782359445163425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "वेनेजुएला में 100 साल में सबसे बड़ा भूकंप आया जिसने राजधानी कराकास समेत कई इलाकों में भारी तबाही मचा दी. अमेरिकी भूवैज्ञानिक सर्वेक्षण के अनुसार यह पिछले 100 वर्षों में वेनेजुएला में आए सबसे शक्तिशाली भूकंपों में से एक है. Venezuela Earthquake: लैटिन अमेरिकी देश वेनेजुएला में गुरुवार तड़के (भारतीय समयानुसार) लगातार दो शक्तिशाली भूकंपों ने भारी तबाही मचा दी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वेनेजुएला में 100 साल का सबसे बड़ा भूकंप: मिनट-दर-मिनट तबाही की पूरी टाइमलाइन, हजारों मौतों की आशंका",
-          "summary": "वेनेजुएला में 100 साल में सबसे बड़ा भूकंप आया जिसने राजधानी कराकास समेत कई इलाकों में भारी तबाही मचा दी. अमेरिकी भूवैज्ञानिक सर्वेक्षण के अनुसार यह पिछले 100 वर्षों में वेनेजुएला में आए सबसे शक्तिशाली भूकंपों में से एक है. Venezuela Earthquake: लैटिन अमेरिकी देश वेनेजुएला में गुरुवार तड़के (भारतीय समयानुसार) लगातार दो शक्तिशाली भूकंपों ने भारी तबाही मचा दी.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान की यात्रा करना चाहते हैं आप?: भारतीय दूतावास ने जारी की नई एडवाइजरी, हालात सुधरे पर खतरा टला",
-      "url": "https://www.amarujala.com/world/embassy-of-india-tehran-advisory-security-guidelines-essential-travel-2026-06-25",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-25T03:55:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/bharataya-thatavasa_a5bfbf4931f6d036d4c0c99fd25af4b3.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय दूतावास ने ईरान यात्रा के लिए नई एडवाइजरी जारी की है. दूतावास ने कहा कि हालात सुधरे हैं लेकिन खतरा अभी टला नहीं है. ईरान की यात्रा करने वाले भारतीयों को सुरक्षा दिशानिर्देशों का पालन करना चाहिए. ईरान की यात्रा करना चाहते हैं आप?: भारतीय दूतावास ने जारी की नई एडवाइजरी, हालात सुधरे पर खतरा टला।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान की यात्रा करना चाहते हैं आप?: भारतीय दूतावास ने जारी की नई एडवाइजरी, हालात सुधरे पर खतरा टला",
-          "summary": "भारतीय दूतावास ने ईरान यात्रा के लिए नई एडवाइजरी जारी की है. दूतावास ने कहा कि हालात सुधरे हैं लेकिन खतरा अभी टला नहीं है. ईरान की यात्रा करने वाले भारतीयों को सुरक्षा दिशानिर्देशों का पालन करना चाहिए. ईरान की यात्रा करना चाहते हैं आप?: भारतीय दूतावास ने जारी की नई एडवाइजरी, हालात सुधरे पर खतरा टला।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तस्वीरों में वेनेजुएला में तबाही का मंजर: 120+ साल की सबसे बड़ी आपदा, US समेत कई देशों ने बढ़ाए मदद",
-      "url": "https://www.amarujala.com/photo-gallery/world/powerful-earthquakes-hit-venezuela-buildings-collapse-in-caracas-many-countries-extended-a-helping-hand-2026-06-25",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-25T03:50:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/vanajael-ma-bhakapa-sa-tabha_f434af346dc40a7eaed84a4331882169.gif?w=1200&dpr=1.0",
-      "summary": "वेनेजुएला में 120 साल की सबसे बड़ी आपदा में कई इमारतें ढह गईं. अमेरिका समेत कई देशों ने मदद की पेशकश की है. भूकंप के कारण राजधानी कराकास में व्यापक नुकसान हुआ है. तस्वीरों में वेनेजुएला में तबाही का मंजर: 120+ साल की सबसे बड़ी आपदा, US समेत कई देशों ने बढ़ाए मदद।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तस्वीरों में वेनेजुएला में तबाही का मंजर: 120+ साल की सबसे बड़ी आपदा, US समेत कई देशों ने बढ़ाए मदद",
-          "summary": "वेनेजुएला में 120 साल की सबसे बड़ी आपदा में कई इमारतें ढह गईं. अमेरिका समेत कई देशों ने मदद की पेशकश की है. भूकंप के कारण राजधानी कराकास में व्यापक नुकसान हुआ है. तस्वीरों में वेनेजुएला में तबाही का मंजर: 120+ साल की सबसे बड़ी आपदा, US समेत कई देशों ने बढ़ाए मदद।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "वेनेजुएला में भूकंप से भीषण तबाही, भारत ने दिया मदद का भरोसा, वेनेजुएला की कार्यवाहक राष्ट्रपति ने",
-      "url": "https://www.abplive.com/news/world/venezuela-earthquake-live-updates-japan-earthquake-today-caracas-building-collapsed-video-delcy-rodriguez-3150340",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-25T02:50:36+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/0db2c90b4ca53d248766fbdae44acca217823547642621115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "वेनेजुएला में 7.2 और 7.5 तीव्रता के दो बड़े भूकंप आए, जिससे कराकास में कई इमारतें जमींदोज़ हो गईं. भारत ने मदद का भरोसा दिया है. वेनेजुएला की कार्यवाहक राष्ट्रपति ने स्थिति की समीक्षा की. वेनेजुएला की राजधानी कराकास भूकंप (Venezuela Earthquake Today) के तेज झटकों से दहल गई. कुछ ही सेकंड के अंतर पर दो बड़े भूकंप के झटके महसूस किए गए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वेनेजुएला में भूकंप से भीषण तबाही, भारत ने दिया मदद का भरोसा, वेनेजुएला की कार्यवाहक राष्ट्रपति ने",
-          "summary": "वेनेजुएला में 7.2 और 7.5 तीव्रता के दो बड़े भूकंप आए, जिससे कराकास में कई इमारतें जमींदोज़ हो गईं. भारत ने मदद का भरोसा दिया है. वेनेजुएला की कार्यवाहक राष्ट्रपति ने स्थिति की समीक्षा की. वेनेजुएला की राजधानी कराकास भूकंप (Venezuela Earthquake Today) के तेज झटकों से दहल गई. कुछ ही सेकंड के अंतर पर दो बड़े भूकंप के झटके महसूस किए गए.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
