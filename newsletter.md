@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** June 26, 2026 06:28 IST
+**Updated:** June 26, 2026 07:21 IST
 
 ---
 
 ## Asia-Pacific
+
+### [Myanmar’s New Administration: Military Consolidation, Not Transition](https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition)
+*International Crisis Group* - Wednesday, June  (iso: Wednesday, June 3, 2026 - 00:00)
+<!-- image: https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Myanmar's military leader Min Aung Hlaing has become president after staged elections. He led a coup in 2017 that ousted the civilian government. Foreign governments are advised to be cautious in their interactions with his administration to avoid giving it undue legitimacy. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president.
 
 ### [Experts say three recent powerful earthquakes are not related](https://www.theguardian.com/world/2026/jun/25/three-recent-powerful-earthquakes-not-related)
 *The Guardian* - Jun 26, 05:31 IST (iso: 2026-06-26T00:01:12+00:00)
@@ -12,87 +18,39 @@
 
 A 5.6-magnitude earthquake struck northern California on Wednesday. 5.6-magnitude California tremor, 7.2-magnitude temblor in Japan and two quakes in Venezuela all struck within hoursA 5.6-magnitude earthquake struck a rural part of northern California on Wednesday. Hours later, a 7.2-magnitude earthquake hit the northern coast of Japan and two powerful earthquakes rocked Venezuela in a devastating mass casualty event. The tremors happened in the span of eight hour.
 
-### [5 places for Taiwan’s iconic pork belly and steamed bun sandwich](https://www.channelnewsasia.com/travel/best-gua-bao-pork-bun-taipei-6206301)
-*Channel News Asia* - Jun 26, 04:58 IST (iso: 2026-06-25T23:28:02+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--ryQy8NW4--/c_crop,h_771,w_1370,x_117,y_294/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/24/yuan_fang_1.jpg?itok=Lx4G9IQp -->
-
-Taipei offers five notable locations for gua bao, a steamed bun sandwich filled with pork belly, pickles, peanuts, and coriander. These establishments range from Michelin-recognized institutions to a local roadside stall. The dish is considered a symbol of prosperity. The gua bao is a handheld masterpiece of pork, pickles, peanuts and coriander – and a symbol of prosperity to boot.
-
-### [This Indonesian fashion brand is making hand-drawn batik for a new generation](https://www.channelnewsasia.com/style-beauty/batik-tulis-wolter-jakarta-6184181)
-*Channel News Asia* - Jun 26, 04:46 IST (iso: 2026-06-25T23:16:14+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--tDzAn66_--/c_crop,h_544,w_968,x_0,y_77/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/16/batik-wolter.jpg?itok=-WmggH_c -->
-
-Abel Hesed Tandadjaja founded Batik Wolter to create hand-drawn batik pieces. The brand works with artisans across Indonesia to blend traditional craftsmanship with contemporary design. Batik Wolter aims to keep the centuries-old craft relevant for younger generations. Batik Wolter works with artisans across Indonesia to create hand-drawn batik pieces that blend traditional craftsmanship with contemporary design. Founder Abel Hesed Tandadjaja hopes the approach will keep the centuries-old craft relevant for younger generations.
-
 ### [Quantum firms shun entanglement as Trump vows to outrun China](https://asiatimes.com/2026/06/quantum-firms-shun-entanglement-as-trump-vows-to-outrun-china/)
 *Asia Times* - Jun 26, 03:52 IST (iso: 2026-06-25T22:22:51+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/06/Infleqtion.jpg -->
 
 Quantum firms are repositioning to navigate the US-China rivalry. Companies are building domestic manufacturing bases and creating independent units for non-Western markets. Physicists are racing to achieve entanglement in labs. The US and China are escalating their quantum technology rivalry. As the United States and China escalate their rivalry over quantum technology, companies across the sector are already repositioning to navigate the geopolitical storm, from building domestic manufacturing bases to carving out independent units for non-Western markets.
 
-### [New evidence casts doubt on RFK Jr testimony before Senate](https://www.theguardian.com/us-news/2026/jun/25/rfk-jr-senate-testimony-samoa-visit)
-*The Guardian* - Jun 26, 01:01 IST (iso: 2026-06-25T19:31:43+00:00)
-<!-- image: https://i.guim.co.uk/img/media/0d21fa4fc7c709efa612ee8b908850b47e3b7b84/70_0_5859_4688/master/5859.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c70390588feefa673c773e3892ce22fb -->
-
-Robert F Kennedy Jr visited Samoa in 2019 on a vaccine-related mission, according to an email from a former colleague. Kennedy had previously stated the trip had nothing to do with vaccines. The email contradicts his testimony before the US Senate. This new evidence raises questions about the accuracy of Kennedy's statements. Kennedy repeatedly said 2019 Samoa trip had ‘nothing to do with vaccines’.
-
----
-
-## Americas
-
-### [U.S. House Speaker Johnson tries to patch things up between Trump and Congress](https://www.thehindu.com/news/international/us-house-speaker-johnson-tries-to-patch-things-up-between-trump-and-congress/article71148120.ece)
-*The Hindu (International)* - Jun 26, 05:25 IST (iso: 2026-06-25T23:55:09+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/rsok6v/article71148953.ece/alternates/LANDSCAPE_1200/2026-06-11T181054Z_273061329_RC2QRLAMEJ1K_RTRMADP_3_USA-CONGRESS.JPG -->
-
-House Speaker Mike Johnson met with former President Donald Trump in Washington. They discussed legislative priorities including the SAVE America Act. Johnson also planned to reschedule a housing bill signing ceremony. Johnson is the highest-ranking Republican in the House of Representatives. Mr. Trump and Mr. Johnson were expected to discuss a legislative path forward for the SAVE ‌America Act and rescheduling the signing ceremony for the housing bill.
-
-### [‘intensive’ search for survivors as death toll rises to 188 – as it happened](https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest)
-*The Guardian* - Jun 26, 01:17 IST (iso: 2026-06-25T19:47:19+00:00)
-<!-- image: https://i.guim.co.uk/img/media/95b7892365e57d0fcf5045a59fb2fe9ff15b1f32/1267_188_4925_3940/master/4925.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c3dbf3590b0163ca0ad6da775f5ec25b -->
-
-A state of emergency was declared in Venezuela after two powerful earthquakes struck the country. The quakes registered magnitudes of 7.2 and 7.5. Buildings collapsed in the capital, Caracas, sending residents into the streets. Officials warned of widespread damage and high casualties. Rescue efforts are underway in affected areas. Two powerful earthquakes – with magnitudes of 7.2 and 7.5 – sent residents running into the streets as buildings shook and collapsedVenezuela earthquakes: back-to-back quakes collapse buildings in capital CaracasVolunteers, medics and relatives of victims have raced to the Altamira area in Caracas hoping to help save survivors from the rubble of collapsed buildings there.
-
-### [Venezuelans tell of escape and loss after huge earthquakes](https://www.theguardian.com/world/2026/jun/25/paralysed-by-fear-venezuelans-tell-of-escape-and-loss-after-huge-earthquakes)
-*The Guardian* - Jun 25, 21:53 IST (iso: 2026-06-25T16:23:52+00:00)
-<!-- image: https://i.guim.co.uk/img/media/6abbcb737e9c594233c23078b65a5d44ad196c63/516_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9eeeab0619b95f8b9d5fa3147abd192 -->
-
-At least 164 people were killed in Venezuela after two powerful earthquakes hit the northern coast. The quakes collapsed buildings in Caracas and coastal towns. Residents described the experience as horrible, with houses shaking violently. Many people scrambled out onto the streets as buildings fractured and crumbled. People in Caracas and coastal towns describe powerful quakes that collapsed buildings and killed at least 164As a double whammy of powerful earthquakes rattled Venezuela’s northern coast on Wednesday, residents of the capital, Caracas, scrambled out on to the streets from shuddering, fractured buildings.“It was horrible.
-
-### [Venezuela quake disaster: UN urges collective effort to help victims](https://news.un.org/feed/view/en/story/2026/06/1167805)
-*UN News* - Jun 25, 17:30 IST (iso: 2026-06-25T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-12-2025-UNICEF-Caracas_Venezuela.jpeg/image770x420cropped.jpg -->
-
-UN teams are supporting the international response to the Venezuela earthquake disaster. The double earthquake has left buildings flattened in Caracas and other areas. People are likely still trapped in the rubble. The UN is urging a collective effort to help the victims. UN teams scrambled on Thursday in support of the international response to the devastating double earthquake disaster in Venezuela, where buildings lie flattened and people are likely still trapped in the capital, Caracas, and beyond.
-
----
-
-## World
-
-### [How months of closure creates challenges for ships](https://www.thehindu.com/business/Economy/strait-of-hormuz-how-months-of-closure-creates-challenges-for-ships/article71145152.ece)
-*The Hindu (International)* - Jun 26, 03:48 IST (iso: 2026-06-25T22:18:02+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/af3icq/article71145188.ece/alternates/LANDSCAPE_1200/2026-06-23T161547Z_1278724895_RC2AWLA73PVU_RTRMADP_3_IRAN-CRISIS-SHIPPING-RATES.JPG -->
-
-Hundreds of vessels waiting at anchor near the Strait of Hormuz face technical and operational challenges after months of closure. These ships must address issues before resuming normal trade. The closure has affected hundreds of vessels. Even if shipping traffic resumes through the Strait of Hormuz, hundreds of vessels that have spent weeks or months waiting at anchor must first overcome a range of technical, operational and human challenges before returning to normal trade.
-
----
-
-## Global / Multilateral
-
-### [UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked](https://www.thehindu.com/news/international/un-agency-says-it-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked/article71147725.ece)
-*The Hindu (International)* - Jun 26, 02:45 IST (iso: 2026-06-25T21:15:05+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/8znmjp/article71147822.ece/alternates/LANDSCAPE_1200/2026-06-24T102941Z_1966937314_RC210LA29CE4_RTRMADP_3_IRAN-CRISIS-SHIPPING.JPG -->
-
-The International Maritime Organization has paused its Hormuz ship evacuation initiative. The plan to move stranded ships out of the Persian Gulf through the strait is on hold. This decision was made after a vessel was attacked, prompting the agency to seek safety guarantees for the ships on the evacuation list. The evacuation will resume once these guarantees are confirmed.
-
-### [Why AI will never master diplomacy](https://asiatimes.com/2026/06/breaking-the-algorithm-why-ai-will-never-master-diplomacy/)
-*Asia Times* - Jun 25, 12:23 IST (iso: 2026-06-25T06:53:05+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2023/08/13-Tier-One-security-as-Kim-meets-adoring-crowds-KCNA-July-29-2022-png.png -->
-
-Foreign ministries use AI to summarize documents and track sentiment across countries. Today, foreign ministries across the world are drowning in information. news reports, intelligence assessments, social media posts, satellite imagery, economic data, speeches and diplomatic cables. AI can summarize thousands of documents in minutes, track political sentiment across countries, detect emerging crises earlier, analyze sanctions, dissect trade flows and monitor military movements.
-
 ---
 
 ## Middle East & Africa
+
+### [Issues of War and Peace Gain Top Billing in Armenia’s Election](https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election)
+*International Crisis Group* - Tuesday, June 2, (iso: Tuesday, June 2, 2026 - 16:33)
+<!-- image: https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Armenians head to the polls on June 7 for the country's first general election since 2021. Foreign policy has dominated the campaign, with issues of war and peace taking center stage. The election outcome may impact Yerevan's external relations, according to Crisis Group expert Joshua Kucera. Armenians will head to the polls on 7 June for the country’s first general election since 2021.
+
+### [Tiny Djibouti, and Its Prime Real Estate](https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate)
+*International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 15:42)
+<!-- image: https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Djibouti's strategic location on the Horn of Africa and the Red Sea has made it a prime real estate for global powers. The country hosts military bases for the US, France, China, and Japan. Djibouti's government is navigating these alliances amid regional turmoil. Samson Abebe Bezabeh, Assistant Professor at the University of Hong Kong, provides insights on Djibouti's history and politics.
+
+### [A New Player in the Quest for a U.S.-Iran Breakthrough](https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough)
+*International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 10:18)
+<!-- image: https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Pakistan began conveying proposals to end the war between the U. S. and Iran after the two countries started bombing Iran on 28 February. Islamabad took on the mediator role despite the risks. The stakes are high for Pakistan to persevere with the task. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war.
+
+### [A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans](https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans)
+*International Crisis Group* - Friday, June 5,  (iso: Friday, June 5, 2026 - 10:38)
+<!-- image: https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+The European Union's proposed seven-year budget may reduce funding for conflict prevention and aid to fragile states. Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson warn of potential consequences. The budget could impact the EU's ability to support countries vulnerable to conflict. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk.
 
 ### [‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term](https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term)
 *The Guardian* - Jun 25, 21:34 IST (iso: 2026-06-25T16:04:41+00:00)
@@ -154,21 +112,63 @@ US Secretary of State Marco Rubio announced new technical negotiations between t
 
 Iran directed the December 2024 attack on Melbourne's Adass Israel Synagogue. The Australian Security Intelligence Organization stated a former resident in Iraq, recruited through militia groups, carried out the act. A former Australian resident living in Iraq directed the attack on Melbourne’s Adass Israel Synagogue in December 2024, Mike Burgess, the head of the Australian Security Intelligence Organization, has revealed.
 
-### [Iran Pushes Back Against Trump's Claims About Frozen Assets Amid Anger From Hard-Liners](https://www.rferl.org/a/iran-assets-us-agriculture-farmers-food-backlash/33787940.html)
-*Radio Free Europe / Liberty* - Jun 24, 21:17 IST (iso: 2026-06-24T15:47:57+00:00)
-<!-- image: https://gdb.rferl.org/597bbdeb-3822-43df-79ce-08decad17715_cx0_cy14_cw75_w1200_h630.jpg -->
+---
 
-Iran disputes US claims that frozen assets will be used to buy American agricultural products under a framework deal. The proposal drew backlash from Iranian hard-liners. Iran did not rule out the possibility. The assets are part of a deal between the two countries. Iran has pushed back against US claims that any frozen Iranian assets released under a framework deal would be used to buy American agricultural products but stopped short of ruling it out, as the proposal sparked a sharp backlash from the country’s hard-liners.
+## Americas
+
+### [Rescue teams race to Venezuela amid fears thousands killed in earthquakes](https://www.theguardian.com/world/2026/jun/25/rescue-teams-race-to-venezuela-amid-fears-thousands-killed-in-earthquakes)
+*The Guardian* - Jun 26, 07:04 IST (iso: 2026-06-26T01:34:30+00:00)
+<!-- image: https://i.guim.co.uk/img/media/526da2261fed2c058d30bdb593c38383157afaed/985_0_4915_3933/master/4915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=053647085bf62e99c3b2a06467e166ae -->
+
+Rescue teams are rushing to Venezuela's north coast after earthquakes flattened dozens of buildings, killing at least 235 people. Thousands more fatalities are feared. The US is among countries sending help to search for survivors, with US Secretary of State Marco Rubio involved in the efforts. US among countries sending help to search for survivors on north coast, where dozens of buildings flattened, as official death toll reaches 235Rescue teams are racing to Venezuela’s shattered northern coast after almost simultaneous earthquakes reduced dozens of buildings to rubble, killing at least 235 people but with thousands more fatalities feared. The US secretary of state, Marco Rubio, said t.
+
+### [U.S. House Speaker Johnson tries to patch things up between Trump and Congress](https://www.thehindu.com/news/international/us-house-speaker-johnson-tries-to-patch-things-up-between-trump-and-congress/article71148120.ece)
+*The Hindu (International)* - Jun 26, 06:58 IST (iso: 2026-06-26T01:28:17+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/rsok6v/article71148953.ece/alternates/LANDSCAPE_1200/2026-06-11T181054Z_273061329_RC2QRLAMEJ1K_RTRMADP_3_USA-CONGRESS.JPG -->
+
+House Speaker Mike Johnson met with former President Donald Trump in Washington. They discussed legislative priorities including the SAVE America Act. Johnson also planned to reschedule a housing bill signing ceremony. Johnson is the highest-ranking Republican in the House of Representatives. Mr. Trump and Mr. Johnson were expected to discuss a legislative path forward for the SAVE ‌America Act and rescheduling the signing ceremony for the housing bill.
+
+### [‘intensive’ search for survivors as death toll rises to 188 – as it happened](https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest)
+*The Guardian* - Jun 26, 01:17 IST (iso: 2026-06-25T19:47:19+00:00)
+<!-- image: https://i.guim.co.uk/img/media/95b7892365e57d0fcf5045a59fb2fe9ff15b1f32/1267_188_4925_3940/master/4925.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c3dbf3590b0163ca0ad6da775f5ec25b -->
+
+A state of emergency was declared in Venezuela after two powerful earthquakes struck the country. The quakes registered magnitudes of 7.2 and 7.5. Buildings collapsed in the capital, Caracas, sending residents into the streets. Officials warned of widespread damage and high casualties. Rescue efforts are underway in affected areas. Two powerful earthquakes – with magnitudes of 7.2 and 7.5 – sent residents running into the streets as buildings shook and collapsedVenezuela earthquakes: back-to-back quakes collapse buildings in capital CaracasVolunteers, medics and relatives of victims have raced to the Altamira area in Caracas hoping to help save survivors from the rubble of collapsed buildings there.
+
+### [Venezuelans tell of escape and loss after huge earthquakes](https://www.theguardian.com/world/2026/jun/25/paralysed-by-fear-venezuelans-tell-of-escape-and-loss-after-huge-earthquakes)
+*The Guardian* - Jun 25, 21:53 IST (iso: 2026-06-25T16:23:52+00:00)
+<!-- image: https://i.guim.co.uk/img/media/6abbcb737e9c594233c23078b65a5d44ad196c63/516_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9eeeab0619b95f8b9d5fa3147abd192 -->
+
+At least 164 people were killed in Venezuela after two powerful earthquakes hit the northern coast. The quakes collapsed buildings in Caracas and coastal towns. Residents described the experience as horrible, with houses shaking violently. Many people scrambled out onto the streets as buildings fractured and crumbled. People in Caracas and coastal towns describe powerful quakes that collapsed buildings and killed at least 164As a double whammy of powerful earthquakes rattled Venezuela’s northern coast on Wednesday, residents of the capital, Caracas, scrambled out on to the streets from shuddering, fractured buildings.“It was horrible.
+
+### [Venezuela quake disaster: UN urges collective effort to help victims](https://news.un.org/feed/view/en/story/2026/06/1167805)
+*UN News* - Jun 25, 17:30 IST (iso: 2026-06-25T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-12-2025-UNICEF-Caracas_Venezuela.jpeg/image770x420cropped.jpg -->
+
+UN teams are supporting the international response to the Venezuela earthquake disaster. The double earthquake has left buildings flattened in Caracas and other areas. People are likely still trapped in the rubble. The UN is urging a collective effort to help the victims. UN teams scrambled on Thursday in support of the international response to the devastating double earthquake disaster in Venezuela, where buildings lie flattened and people are likely still trapped in the capital, Caracas, and beyond.
+
+---
+
+## Global / Multilateral
+
+### [UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked](https://www.thehindu.com/news/international/un-agency-says-it-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked/article71147725.ece)
+*The Hindu (International)* - Jun 26, 06:14 IST (iso: 2026-06-26T00:44:48+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/8znmjp/article71147822.ece/alternates/LANDSCAPE_1200/2026-06-24T102941Z_1966937314_RC210LA29CE4_RTRMADP_3_IRAN-CRISIS-SHIPPING.JPG -->
+
+The International Maritime Organization has paused its Hormuz ship evacuation initiative. The plan to move stranded ships out of the Persian Gulf through the strait is on hold. This decision was made after a vessel was attacked, prompting the agency to seek safety guarantees for the ships on the evacuation list. The evacuation will resume once these guarantees are confirmed.
+
+---
+
+## World
+
+### [How months of closure creates challenges for ships](https://www.thehindu.com/business/Economy/strait-of-hormuz-how-months-of-closure-creates-challenges-for-ships/article71145152.ece)
+*The Hindu (International)* - Jun 26, 03:48 IST (iso: 2026-06-25T22:18:02+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/af3icq/article71145188.ece/alternates/LANDSCAPE_1200/2026-06-23T161547Z_1278724895_RC2AWLA73PVU_RTRMADP_3_IRAN-CRISIS-SHIPPING-RATES.JPG -->
+
+Hundreds of vessels waiting at anchor near the Strait of Hormuz face technical and operational challenges after months of closure. These ships must address issues before resuming normal trade. The closure has affected hundreds of vessels. Even if shipping traffic resumes through the Strait of Hormuz, hundreds of vessels that have spent weeks or months waiting at anchor must first overcome a range of technical, operational and human challenges before returning to normal trade.
 
 ---
 
 ## Europe & Russia
-
-### [Ukrainian Film Figures Vow To Restore Massive Costume Collection](https://www.rferl.org/a/ukraine-kyiv-film-studios-dovzhenko-russia-strike-costume-fire-archive/33787995.html)
-*Radio Free Europe / Liberty* - Jun 24, 23:11 IST (iso: 2026-06-24T17:41:03+00:00)
-<!-- image: https://gdb.rferl.org/1bafa81d-3917-4f5b-11ff-08decad58b60_w1200_h630.jpg -->
-
-Ukrainian film artists plan to restore a massive costume collection. The collection of 100,000 costumes was destroyed in a Russian air attack on the Dovzhenko National Film Studios on June 15. Studio staff are committed to rebuilding the collection used in dozens of historic films. They aim to preserve cinema heritage. Ukrainian film artists are determined to build back the loss of 100,000 costumes, used in dozens of historic films, that burned in a Russian air attack on the Dovzhenko National Film Studios on June 15.
 
 ### [Russia Is Grappling With Its Worst Nationwide Fuel Shortages In Years. Here's Where.](https://www.rferl.org/a/ukraine-russia-oil-refinery-fuel-shortages-kremlin/33787903.html)
 *Radio Free Europe / Liberty* - Jun 24, 21:30 IST (iso: 2026-06-24T16:00:18+00:00)
