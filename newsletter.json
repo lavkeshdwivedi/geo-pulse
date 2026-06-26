@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-26T01:51:57.571594+00:00",
+  "generated_at": "2026-06-26T03:15:11.036374+00:00",
   "article_count": 50,
-  "total_unique_count": 267,
+  "total_unique_count": 272,
   "digest": {
     "en": "Myanmar's military administration tightens its grip. Armenia's election focuses on war and peace issues. The EU prepares a budget for global turmoil.",
-    "hi": "ईरानी ड्रोन ने जहाज पर हमला किया, जिससे 11 हजार नाविकों का रेस्क्यू ऑपरेशन रुका। पीएम मोदी को आमंत्रित कर ईरान ने भारत को उलझन में डाला है, खामनेई के अंतिम संस्कार को लेकर स्थिति संभालनी होगी।"
+    "hi": "वेनेजुएला में भूकंप ने 235 जिंदगियां छीन लीं। मलबे हटाने का काम और रेस्क्यू जारी है। डेनमार्क में मस्जिदों में अजान पर बैन की तैयारी है, मंत्री ने कहा देश 'पाकिस्तान' नहीं है।"
   },
   "articles": [
     {
@@ -25,7 +25,7 @@
       "source": "International Crisis Group",
       "sources": [],
       "published_at": "Tuesday, June 2, 2026 - 16:33",
-      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_url": "https://images.pexels.com/photos/11816420/pexels-photo-11816420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "Armenians head to the polls on June 7 for the country's first general election since 2021. Foreign policy has dominated the campaign, with issues of war and peace taking center stage. The election outcome may impact Yerevan's external relations, according to Crisis Group expert Joshua Kucera. Armenians will head to the polls on 7 June for the country’s first general election since 2021.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -50,7 +50,7 @@
       "sources": [],
       "published_at": "Thursday, June 4, 2026 - 10:18",
       "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Pakistan began conveying proposals to end the war between the U. S. and Iran after the two countries started bombing Iran on 28 February. Islamabad took on the mediator role despite the risks. The stakes are high for Pakistan to persevere with the task. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war.",
+      "summary": "Pakistan began conveying proposals to end the war between the U. S. and Iran after the two countries started bombing Iran on 28 February. Islamabad took on the mediator role despite the risks. The stakes are high for Pakistan to persevere with the task. Soon after the U. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -152,6 +152,18 @@
       "translations": {}
     },
     {
+      "title": "New evidence casts doubt on RFK Jr testimony before Senate",
+      "url": "https://www.theguardian.com/us-news/2026/jun/25/rfk-jr-senate-testimony-samoa-visit",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-25T19:31:43+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/0d21fa4fc7c709efa612ee8b908850b47e3b7b84/70_0_5859_4688/master/5859.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c70390588feefa673c773e3892ce22fb",
+      "summary": "New evidence contradicts Robert F Kennedy Jr.'s 2019 Senate testimony. Kennedy repeatedly said 2019 Samoa trip had ‘nothing to do with vaccines’. An email from his then colleague says they were on a vaccine-related ‘mission’New evidence has emerged that Robert F Kennedy Jr was on a vaccine-related “mission” when he visited Samoa ahead of a deadly measles outbreak in 2019, raising further questions about whether the US health secretary lied to the US Senate when he sa.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Venezuelans tell of escape and loss after huge earthquakes",
       "url": "https://www.theguardian.com/world/2026/jun/25/paralysed-by-fear-venezuelans-tell-of-escape-and-loss-after-huge-earthquakes",
       "source": "The Guardian",
@@ -212,18 +224,6 @@
       "translations": {}
     },
     {
-      "title": "Venezuela quake disaster: UN urges collective effort to help victims",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167805",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-06-25T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-12-2025-UNICEF-Caracas_Venezuela.jpeg/image770x420cropped.jpg",
-      "summary": "UN teams are supporting the international response to the Venezuela earthquake disaster. The double earthquake has left buildings flattened in Caracas and other areas. People are likely still trapped in the rubble. The UN is urging a collective effort to help the victims. UN teams scrambled on Thursday in support of the international response to the devastating double earthquake disaster in Venezuela, where buildings lie flattened and people are likely still trapped in the capital, Caracas, and beyond.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "UN envoy warns of growing risks in El Obeid as Sudan conflict drags on",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167810",
       "source": "UN News",
@@ -236,6 +236,18 @@
       "translations": {}
     },
     {
+      "title": "Venezuela quake disaster: UN urges collective effort to help victims",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167805",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-25T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-12-2025-UNICEF-Caracas_Venezuela.jpeg/image770x420cropped.jpg",
+      "summary": "UN teams are supporting the international response to the Venezuela earthquake disaster. The double earthquake has left buildings flattened in Caracas and other areas. People are likely still trapped in the rubble. The UN is urging a collective effort to help the victims. UN teams scrambled on Thursday in support of the international response to the devastating double earthquake disaster in Venezuela, where buildings lie flattened and people are likely still trapped in the capital, Caracas, and beyond.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Iran's Nuclear Deal Faces Its Toughest Test: Verification",
       "url": "https://www.rferl.org/a/iran-us-verification-nuclear-iaea/33788603.html",
       "source": "Radio Free Europe / Liberty",
@@ -244,6 +256,18 @@
       "image_url": "https://gdb.rferl.org/C249869F-44E3-4826-8F8F-E1155BFCBBA6.jpg",
       "summary": "Former officials from Iran nuclear talks stated verifying Iranian compliance will be difficult. Amid an ongoing row between Washington and Tehran over whether international monitors can verify Iranian compliance with its nuclear nonproliferation commitments, former officials have told RFE/RL that the scale, scope, and degree of access are crucial to the success of inspections. Veterans Of Iran Talks Say Verification Will Be ‘Heavy Slog’ With Details Of Access Key To Success.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why AI will never master diplomacy",
+      "url": "https://asiatimes.com/2026/06/breaking-the-algorithm-why-ai-will-never-master-diplomacy/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-06-25T06:53:05+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2023/08/13-Tier-One-security-as-Kim-meets-adoring-crowds-KCNA-July-29-2022-png.png",
+      "summary": "Foreign ministries face an overload of information from news, intelligence, and social media. Today, foreign ministries across the world are drowning in information. news reports, intelligence assessments, social media posts, satellite imagery, economic data, speeches and diplomatic cables. AI can summarize thousands of documents in minutes, track political sentiment across countries, detect emerging crises earlier, analyze sanctions, dissect trade flows and monitor military movements.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -284,28 +308,382 @@
       "translations": {}
     },
     {
-      "title": "Lessons start with how Iran organized Melbourne synagogue attack",
-      "url": "https://asiatimes.com/2026/06/lessons-start-with-how-iran-organized-melbourne-synagogue-attack/",
-      "source": "Asia Times",
+      "title": "वेनेजुएला में भूकंप ने अब तक छीनीं 188 जिंदगियां, 200 से ज्यादा लोग अभी भी मलबे में फंसे",
+      "url": "https://www.amarujala.com/world/venezuela-earthquake-updates-death-toll-rises-caracas-buildings-collapsed-emergency-several-trapped-in-debris-2026-06-26",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-06-24T17:52:29+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/06/file-20260624-63-kwxdh8-copy-e1782309990974.jpg",
-      "summary": "Iran directed the December 2024 attack on Melbourne's Adass Israel Synagogue. The Australian Security Intelligence Organization stated a former resident in Iraq, recruited through militia groups, carried out the act. A former Australian resident living in Iraq directed the attack on Melbourne’s Adass Israel Synagogue in December 2024, Mike Burgess, the head of the Australian Security Intelligence Organization, has revealed.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-06-26T07:24:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/venezuela_a70212b3a12ccfe575a3394e766d1911.gif?w=1200&dpr=1.0",
+      "summary": "वेनेजुएला में भूकंप के कारण 188 लोगों की मौत हो गई है। 200 से ज्यादा लोग अभी भी मलबे में फंसे हुए हैं। वेनेजुएला के कई शहरों में भूकंप के कारण बड़े पैमाने पर नुकसान हुआ है। वेनेजुएला में भूकंप ने अब तक छीनीं 188 जिंदगियां, 200 से ज्यादा लोग अभी भी मलबे में फंसे।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वेनेजुएला में भूकंप ने अब तक छीनीं 188 जिंदगियां, 200 से ज्यादा लोग अभी भी मलबे में फंसे",
+          "summary": "वेनेजुएला में भूकंप के कारण 188 लोगों की मौत हो गई है। 200 से ज्यादा लोग अभी भी मलबे में फंसे हुए हैं। वेनेजुएला के कई शहरों में भूकंप के कारण बड़े पैमाने पर नुकसान हुआ है। वेनेजुएला में भूकंप ने अब तक छीनीं 188 जिंदगियां, 200 से ज्यादा लोग अभी भी मलबे में फंसे।",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
-      "title": "Russia Is Grappling With Its Worst Nationwide Fuel Shortages In Years. Here's Where.",
-      "url": "https://www.rferl.org/a/ukraine-russia-oil-refinery-fuel-shortages-kremlin/33787903.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "फलस्तीन राजदूत बोले- गाजा में स्वास्थ्य व्यवस्था पूरी तरह तबाह, भारत से जल्द बड़ी चिकित्सा मदद की",
+      "url": "https://www.amarujala.com/india-news/palestinian-envoy-hopes-india-will-send-medical-aid-to-gaza-amid-humanitarian-crisis-and-healthcare-collapse-2026-06-26",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-24T16:00:18+00:00",
-      "image_url": "https://gdb.rferl.org/a16331ba-d257-4172-3c39-08decacf94d0_tv_w1200_h630.jpg",
-      "summary": "More than half of Russia's 83 regions are experiencing gasoline shortages. Ukrainian drone strikes are the main cause of the shortages. Local authorities have imposed daily limits to restrict fuel purchases and prevent panic buying. The shortages are affecting 45 regions. More than half of Russia’s 83 regions are struggling with gasoline shortages, due overwhelmingly to Ukrainian drone strikes. Local authorities are imposing daily limits or other restrictions.",
+      "published_at": "2026-06-26T03:00:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/abthall-ab-shavasha-bharata-ma-falsatana-ka-rajathata_a6a82c242e1b111df6833a672a3380da.jpeg?w=1200&dpr=1.0",
+      "summary": "फलस्तीन के राजदूत ने कहा कि गाजा में स्वास्थ्य व्यवस्था पूरी तरह तबाह हो गई है। उन्होंने भारत से जल्द बड़ी चिकित्सा मदद की उम्मीद जताई है। गाजा में मानवीय संकट और स्वास्थ्य सेवाओं के पतन के बीच यह अपील की गई है। फलस्तीन राजदूत बोले- गाजा में स्वास्थ्य व्यवस्था पूरी तरह तबाह, भारत से जल्द बड़ी चिकित्सा मदद की।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फलस्तीन राजदूत बोले- गाजा में स्वास्थ्य व्यवस्था पूरी तरह तबाह, भारत से जल्द बड़ी चिकित्सा मदद की",
+          "summary": "फलस्तीन के राजदूत ने कहा कि गाजा में स्वास्थ्य व्यवस्था पूरी तरह तबाह हो गई है। उन्होंने भारत से जल्द बड़ी चिकित्सा मदद की उम्मीद जताई है। गाजा में मानवीय संकट और स्वास्थ्य सेवाओं के पतन के बीच यह अपील की गई है। फलस्तीन राजदूत बोले- गाजा में स्वास्थ्य व्यवस्था पूरी तरह तबाह, भारत से जल्द बड़ी चिकित्सा मदद की।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "वेनेजुएला भूकंप में मौत का आंकड़ा 235 हुआ, मलबे हटाने का काम और रेस्क्यू जारी",
+      "url": "https://www.amarujala.com/live/world/venezuela-earthquake-live-news-update-death-toll-caracas-devastation-building-collapse-casualties-rescue-photo-2026-06-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-26T02:58:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/venezuela_a70212b3a12ccfe575a3394e766d1911.gif?w=1200&dpr=1.0",
+      "summary": "वेनेजुएला में भूकंप से मरने वालों की संख्या 235 हो गई है। बचाव दल मलबे हटाने और फंसे लोगों को निकालने का काम कर रहे हैं। प्रभावित क्षेत्रों में राहत कार्यों में तेजी लाने के प्रयास जारी हैं। Venezuela Earthquake LIVE News: वेनेजुएला भूकंप में मौत का आंकड़ा 235 हुआ, मलबे हटाने का काम और रेस्क्यू जारी।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वेनेजुएला भूकंप में मौत का आंकड़ा 235 हुआ, मलबे हटाने का काम और रेस्क्यू जारी",
+          "summary": "वेनेजुएला में भूकंप से मरने वालों की संख्या 235 हो गई है। बचाव दल मलबे हटाने और फंसे लोगों को निकालने का काम कर रहे हैं। प्रभावित क्षेत्रों में राहत कार्यों में तेजी लाने के प्रयास जारी हैं। Venezuela Earthquake LIVE News: वेनेजुएला भूकंप में मौत का आंकड़ा 235 हुआ, मलबे हटाने का काम और रेस्क्यू जारी।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "वेनेजुएला में तबाही का दूसरा दिन: अब तक 235 मौतें, 138 झटके लगे, ये हैं भूकंप से जुड़े 10 अपडेट",
+      "url": "https://hindi.news18.com/world/rest-of-world-venezuela-earthquake-live-news-top-updates-death-toll-rescue-operation-10603711.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-26T02:53:20+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/venezuela-17-2026-06-e93e740d8a0960ac88dd8607ee56095c-1200x800.jpg",
+      "summary": "वेनेजुएला में आए दो शक्तिशाली भूकंपों से 235 लोगों की मौत हो गई है। 200 से अधिक लोग अभी भी मलबे में फंसे हुए हैं। राहत और बचाव अभियान जारी है, मेक्सिको समेत कई देशों ने मदद भेजी है। Venezuela Earthquake Live Updates: वेनेजुएला में आए दो बेहद ताकतवर भूकंपों ने देश को हिलाकर रख दिया है. भूकंप से मची तबाही के कारण अब तक 235 लोगों की मौत हो चुकी है और 200 से ज्यादा लोग अब भी मलबे में फंसे हैं.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वेनेजुएला में तबाही का दूसरा दिन: अब तक 235 मौतें, 138 झटके लगे, ये हैं भूकंप से जुड़े 10 अपडेट",
+          "summary": "वेनेजुएला में आए दो शक्तिशाली भूकंपों से 235 लोगों की मौत हो गई है। 200 से अधिक लोग अभी भी मलबे में फंसे हुए हैं। राहत और बचाव अभियान जारी है, मेक्सिको समेत कई देशों ने मदद भेजी है। Venezuela Earthquake Live Updates: वेनेजुएला में आए दो बेहद ताकतवर भूकंपों ने देश को हिलाकर रख दिया है. भूकंप से मची तबाही के कारण अब तक 235 लोगों की मौत हो चुकी है और 200 से ज्यादा लोग अब भी मलबे में फंसे हैं.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "डेनमार्क की मस्जिदों में अजान पर बैन की तैयारी, मंत्री बोले- हमारा देश 'पाकिस्तान' नहीं है",
+      "url": "https://hindi.news18.com/world/europe-denmark-azan-ban-plan-islamic-call-to-prayer-not-islamabad-10603856.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-26T02:48:59+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/denmark-2026-06-c3c2a30dad8e339ca9f5933eea25cbe0-1200x800.jpg",
+      "summary": "डेनमार्क की सरकार मस्जिदों से लाउडस्पीकर पर होने वाली अजान पर रोक लगाने पर विचार कर रही है. इमिग्रेशन मंत्री मोर्टन बोडस्कोव ने कहा कि अजान की आवाज डेनमार्क में नहीं गूंजनी चाहिए. सरकार पहले यह जांच करेगी कि ऐसा कानून धार्मिक आजादी के नियमों के तहत संभव है या नहीं. डेनमार्क की सरकार मस्जिदों से लाउडस्पीकर पर होने वाली अजान पर रोक लगाने की संभावना पर विचार कर रही है.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डेनमार्क की मस्जिदों में अजान पर बैन की तैयारी, मंत्री बोले- हमारा देश 'पाकिस्तान' नहीं है",
+          "summary": "डेनमार्क की सरकार मस्जिदों से लाउडस्पीकर पर होने वाली अजान पर रोक लगाने पर विचार कर रही है. इमिग्रेशन मंत्री मोर्टन बोडस्कोव ने कहा कि अजान की आवाज डेनमार्क में नहीं गूंजनी चाहिए. सरकार पहले यह जांच करेगी कि ऐसा कानून धार्मिक आजादी के नियमों के तहत संभव है या नहीं. डेनमार्क की सरकार मस्जिदों से लाउडस्पीकर पर होने वाली अजान पर रोक लगाने की संभावना पर विचार कर रही है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "मची खलबली, तुरंत छावनी बना प्रेमनगर, तैनात हुई पुलिस फोर्स ने रोका यातायात",
+      "url": "https://www.amarujala.com/dehradun/nihang-dispute-dehradun-on-alert-police-force-deployed-roads-blocked-prem-nagar-turns-into-a-security-zone-2026-06-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-26T02:29:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/nihang_5528710115153feaca34434ec4dd7a63.jpeg?w=1200&dpr=1.0",
+      "summary": "देहरादून में बृहस्पतिवार की रात निहंग सिखों के आने की खबर से खलबली मच गई। विकासनगर से देहरादून की ओर बढ़ रहे निहंगों को रोकने के लिए पुलिस फोर्स तैनात की गई और यातायात रोका गया। अलर्ट. निहंग देहरादून आ रहे हैं। बृहस्पतिवार की रात विकासनगर से कुछ निहंग सिख देहरादून के निकल पड़े तो खलबली मच गई। मची खलबली, तुरंत छावनी बना प्रेमनगर, तैनात हुई पुलिस फोर्स ने रोका यातायात।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मची खलबली, तुरंत छावनी बना प्रेमनगर, तैनात हुई पुलिस फोर्स ने रोका यातायात",
+          "summary": "देहरादून में बृहस्पतिवार की रात निहंग सिखों के आने की खबर से खलबली मच गई। विकासनगर से देहरादून की ओर बढ़ रहे निहंगों को रोकने के लिए पुलिस फोर्स तैनात की गई और यातायात रोका गया। अलर्ट. निहंग देहरादून आ रहे हैं। बृहस्पतिवार की रात विकासनगर से कुछ निहंग सिख देहरादून के निकल पड़े तो खलबली मच गई। मची खलबली, तुरंत छावनी बना प्रेमनगर, तैनात हुई पुलिस फोर्स ने रोका यातायात।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'काला जादू' का लांछन और प्रताड़ना: डेढ़ साल की बेटी की मां ने क्यों दी जान? आखिरी वीडियो में बयां",
+      "url": "https://www.amarujala.com/delhi-ncr/24-year-old-tina-commits-suicide-in-delhi-s-nangloi-area-2026-06-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-26T02:22:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/vadaya-bnana-ka-btha-tana-na-jana-tha_286d9367c74ba2d42a58182bead6a919.jpeg?w=1200&dpr=1.0",
+      "summary": "बाहरी दिल्ली के नांगलोई में 24 साल की विवाहिता टीना ने अपने पति और ससुराल वालों से परेशान होकर खुदकुशी कर ली। टीना ने अपने आखिरी वीडियो में 'काला जादू' का लांछन और प्रताड़ना का जिक्र किया। बाहरी दिल्ली के नांगलोई में टीना नाम की 24 साल की विवाहिता ने अपने पति और ससुराल वालों से परेशान होकर खुदकुशी कर ली।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'काला जादू' का लांछन और प्रताड़ना: डेढ़ साल की बेटी की मां ने क्यों दी जान? आखिरी वीडियो में बयां",
+          "summary": "बाहरी दिल्ली के नांगलोई में 24 साल की विवाहिता टीना ने अपने पति और ससुराल वालों से परेशान होकर खुदकुशी कर ली। टीना ने अपने आखिरी वीडियो में 'काला जादू' का लांछन और प्रताड़ना का जिक्र किया। बाहरी दिल्ली के नांगलोई में टीना नाम की 24 साल की विवाहिता ने अपने पति और ससुराल वालों से परेशान होकर खुदकुशी कर ली।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "डुबोने निकले थे दो हजार करोड़, क्या अक्षय ने गलती से बनाई पैसा वसूल फिल्म?",
+      "url": "https://www.amarujala.com/entertainment/movie-review/welcome-to-the-jungle-movie-review-hindi-starring-akshay-kumar-to-suniel-shetty-paresh-rawal-and-disha-patani-2026-06-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-26T02:17:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/falma-valkama-ta-tha-jagal-ravaya_ada9e0264315476775b92163f27dfcf2.jpeg?w=1200&dpr=1.0",
+      "summary": "अक्षय कुमार की कॉमेडी फिल्म 'वेलकम टू द जंगल' आज सिनेमाघरों में रिलीज हुई। इस फिल्म में बॉलीवुड के कई नामी कलाकार हैं। फिल्म के निर्माण में लगभग दो हजार करोड़ रुपये खर्च हुए थे। आज सिनेमाघरों में अक्षय कुमार की कॉमेडी फिल्म ‘वेलकम टू द जंगल’ रिलीज हुई। इस फिल्म में बॉलीवुड के नामी कलाकारों की पूरी फौज खड़ी है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डुबोने निकले थे दो हजार करोड़, क्या अक्षय ने गलती से बनाई पैसा वसूल फिल्म?",
+          "summary": "अक्षय कुमार की कॉमेडी फिल्म 'वेलकम टू द जंगल' आज सिनेमाघरों में रिलीज हुई। इस फिल्म में बॉलीवुड के कई नामी कलाकार हैं। फिल्म के निर्माण में लगभग दो हजार करोड़ रुपये खर्च हुए थे। आज सिनेमाघरों में अक्षय कुमार की कॉमेडी फिल्म ‘वेलकम टू द जंगल’ रिलीज हुई। इस फिल्म में बॉलीवुड के नामी कलाकारों की पूरी फौज खड़ी है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "UN की एजेंसी ने रोकी होर्मुज में जहाजों की निकासी; नेतन्याहू बोले- लेबनान में तैनात रहेगी सेना",
+      "url": "https://www.amarujala.com/live/world/west-asia-live-iran-us-talks-israel-lebanon-strait-of-hormuz-pakistan-qatar-2026-06-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-26T02:14:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/29/isarail-lbnana_c3d2eb29a76eb750c5a1e7064e632dfa.jpeg?w=1200&dpr=1.0",
+      "summary": "दक्षिण लेबनान में IDF की गोलीबारी में तीन लोगों की मौत हो गई. इसके बाद UN की एजेंसी ने होर्मुज में जहाजों की निकासी रोक दी. West Asia: दक्षिण लेबनान में IDF की गोलीबारी तीन की मौत; UN की एजेंसी ने रोकी होर्मुज में जहाजों की निकासी। West Asia LIVE: UN की एजेंसी ने रोकी होर्मुज में जहाजों की निकासी; नेतन्याहू बोले- लेबनान में तैनात रहेगी सेना।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UN की एजेंसी ने रोकी होर्मुज में जहाजों की निकासी; नेतन्याहू बोले- लेबनान में तैनात रहेगी सेना",
+          "summary": "दक्षिण लेबनान में IDF की गोलीबारी में तीन लोगों की मौत हो गई. इसके बाद UN की एजेंसी ने होर्मुज में जहाजों की निकासी रोक दी. West Asia: दक्षिण लेबनान में IDF की गोलीबारी तीन की मौत; UN की एजेंसी ने रोकी होर्मुज में जहाजों की निकासी। West Asia LIVE: UN की एजेंसी ने रोकी होर्मुज में जहाजों की निकासी; नेतन्याहू बोले- लेबनान में तैनात रहेगी सेना।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जितेश नहीं, रजत पाटीदार के बाद RCB का अगला कप्तान होगा यह खिलाड़ी? फ्रेंचाइजी ने दिए संकेत",
+      "url": "https://www.amarujala.com/cricket/rcb-hint-at-devdutt-padikkal-as-rajat-patidar-s-future-captaincy-successor-ipl-2027-2026-06-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-26T02:12:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/devdutt-padikkal-rcb-captain-rajat-patidar-royal-challengers-bengaluru-ipl-2026-mo-bobat-dines_eee7ffd2e52e6140b1e5c2d5f5393c29.jpeg?w=1200&dpr=1.0",
+      "summary": "रॉयल चैलेंजर्स बेंगलुरु (RCB) ने आईपीएल 2026 में लगातार दूसरी बार खिताब जीतने के बाद भविष्य की कप्तानी को लेकर बड़ा संकेत दिया। रजत पाटीदार के बाद टीम का अगला कप्तान एक अन्य खिलाड़ी हो सकता है। आईपीएल 2026 में लगातार दूसरी बार खिताब जीतने वाली रॉयल चैलेंजर्स बेंगलुरु (RCB) ने भविष्य की कप्तानी को लेकर बड़ा संकेत दिया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जितेश नहीं, रजत पाटीदार के बाद RCB का अगला कप्तान होगा यह खिलाड़ी? फ्रेंचाइजी ने दिए संकेत",
+          "summary": "रॉयल चैलेंजर्स बेंगलुरु (RCB) ने आईपीएल 2026 में लगातार दूसरी बार खिताब जीतने के बाद भविष्य की कप्तानी को लेकर बड़ा संकेत दिया। रजत पाटीदार के बाद टीम का अगला कप्तान एक अन्य खिलाड़ी हो सकता है। आईपीएल 2026 में लगातार दूसरी बार खिताब जीतने वाली रॉयल चैलेंजर्स बेंगलुरु (RCB) ने भविष्य की कप्तानी को लेकर बड़ा संकेत दिया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'स्कूलों और बच्चों को निशाना बनाने वालों की तय हो जवाबदेही', सुरक्षा परिषद में भारत ने दी सलाह",
+      "url": "https://www.amarujala.com/world/india-urges-accountability-for-attacks-on-schools-and-children-at-un-security-council-education-in-conflict-zo-2026-06-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-26T02:05:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/18/sayakata-rashhatara-ma-bharata-ka-sathaya-paratanathha-rajathata-harasha-paravatanana_84d6c9896d12c83248aef657e62b21c7.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद में स्कूलों और बच्चों पर हमलों की जवाबदेही तय करने की सलाह दी। भारत ने कहा कि स्कूलों और बच्चों को निशाना बनाने वालों की जवाबदेही तय होनी चाहिए। 'स्कूलों और बच्चों को निशाना बनाने वालों की तय हो जवाबदेही', सुरक्षा परिषद में भारत ने दी सलाह।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'स्कूलों और बच्चों को निशाना बनाने वालों की तय हो जवाबदेही', सुरक्षा परिषद में भारत ने दी सलाह",
+          "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद में स्कूलों और बच्चों पर हमलों की जवाबदेही तय करने की सलाह दी। भारत ने कहा कि स्कूलों और बच्चों को निशाना बनाने वालों की जवाबदेही तय होनी चाहिए। 'स्कूलों और बच्चों को निशाना बनाने वालों की तय हो जवाबदेही', सुरक्षा परिषद में भारत ने दी सलाह।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सांप भी मर जाए, लाठी भी न टूटे! ईरान के पैसों से अपने किसानों की झोली भरेंगे ट्रंप, खामेनेई के साथ",
+      "url": "https://hindi.news18.com/world/america-iran-frozen-assets-us-farmers-wheat-soybean-corn-deal-donald-trump-10603810.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-06-26T02:03:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/iran-news-19-2026-06-f21d55b063e520b569489ab7ee1ea96e-1200x800.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि ईरान की फ्रीज संपत्तियों का इस्तेमाल अमेरिकी किसानों से गेहूं खरीदने में किया जाएगा. यह अमेरिकी किसानों के लिए नया बाजार है. ईरान की संपत्तियों का इस्तेमाल कैसे होगा, इसका फैसला तेहरान करेगा. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि ईरान की फ्रीज संपत्तियों के एक हिस्से का इस्तेमाल अमेरिकी किसानों से गेहूं, मक्का और सोयाबीन खरीदने में किया जाएगा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सांप भी मर जाए, लाठी भी न टूटे! ईरान के पैसों से अपने किसानों की झोली भरेंगे ट्रंप, खामेनेई के साथ",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि ईरान की फ्रीज संपत्तियों का इस्तेमाल अमेरिकी किसानों से गेहूं खरीदने में किया जाएगा. यह अमेरिकी किसानों के लिए नया बाजार है. ईरान की संपत्तियों का इस्तेमाल कैसे होगा, इसका फैसला तेहरान करेगा. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि ईरान की फ्रीज संपत्तियों के एक हिस्से का इस्तेमाल अमेरिकी किसानों से गेहूं, मक्का और सोयाबीन खरीदने में किया जाएगा.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "वैभव के डेब्यू पर फैसला आज, कोच के बयान ने बढ़ाई हलचल; कप्तान श्रेयस और गंभीर पर नजरें कायम",
+      "url": "https://www.amarujala.com/cricket/cricket-news/ind-vs-ire-t20-playing-11-today-live-streaming-match-captain-shreyas-iyer-vaibhav-sooryavanshi-debut-2026-06-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-26T02:01:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/ind-vs-ire-ind-vs-ire-t20-ind-vs-ire-t20-playing-11-shreyas-iyer-vaibhav-sooryavanshi-debut-in_e408f37f009aa0b5c5651d3aa8e2b903.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत और आयरलैंड के बीच आज दो मैचों की टी20 सीरीज का आगाज होने जा रहा है. वैभव के डेब्यू पर फैसला आज होगा. कप्तान श्रेयस और गंभीर पर नजरें कायम हैं. वैभव के डेब्यू पर फैसला आज, कोच के बयान ने बढ़ाई हलचल; कप्तान श्रेयस और गंभीर पर नजरें कायम।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वैभव के डेब्यू पर फैसला आज, कोच के बयान ने बढ़ाई हलचल; कप्तान श्रेयस और गंभीर पर नजरें कायम",
+          "summary": "भारत और आयरलैंड के बीच आज दो मैचों की टी20 सीरीज का आगाज होने जा रहा है. वैभव के डेब्यू पर फैसला आज होगा. कप्तान श्रेयस और गंभीर पर नजरें कायम हैं. वैभव के डेब्यू पर फैसला आज, कोच के बयान ने बढ़ाई हलचल; कप्तान श्रेयस और गंभीर पर नजरें कायम।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "बोझ से मुक्त होकर जीने की असीमित आजादी देती है वृद्धावस्था",
+      "url": "https://www.amarujala.com/columns/blog/old-age-offers-boundless-freedom-to-live-unburdened-beauty-of-aging-life-lessons-graceful-aging-humanity-2026-06-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-26T01:49:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/old-age_d5878abbcc44ff449639808a8f63b760.jpeg?w=1200&dpr=1.0",
+      "summary": "वृद्धावस्था लोगों को बोझ से मुक्त होकर जीने की असीमित आजादी देती है. हर दिन आपका है, इस उम्र में लोग अपने जीवन को पूरी तरह से जीने का आनंद लेते हैं. बोझ से मुक्त होकर जीने की असीमित आजादी देती है वृद्धावस्था।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बोझ से मुक्त होकर जीने की असीमित आजादी देती है वृद्धावस्था",
+          "summary": "वृद्धावस्था लोगों को बोझ से मुक्त होकर जीने की असीमित आजादी देती है. हर दिन आपका है, इस उम्र में लोग अपने जीवन को पूरी तरह से जीने का आनंद लेते हैं. बोझ से मुक्त होकर जीने की असीमित आजादी देती है वृद्धावस्था।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "चुनौतियों और डिप्रेशन को हराकर बने 'इश्कजादे', क्यों हैं ट्रोलर्स के लिए ‘इंडियाज मोस्ट वॉन्टेड’",
+      "url": "https://www.amarujala.com/entertainment/bollywood/arjun-kapoor-birthday-actor-career-and-life-known-unknown-facts-2026-06-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-26T01:45:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/arajana-kapara-ka-janamathana_7525dd9fe5bf2fc7e06733b4bd06cdd0.jpeg?w=1200&dpr=1.0",
+      "summary": "अर्जुन कपूर का 41वां जन्मदिन उनके परिवार के लिए खास बन गया है. उनकी बहन अंशुला कपूर की शादी की तैयारियां चल रही हैं. अर्जुन कपूर ने अपने जीवन की चुनौतियों को पार किया है. अर्जुन कपूर का 41वां (26 जून 1985) जन्मदिन इस बार सिर्फ उनके लिए नहीं बल्कि पूरे कपूर परिवार के लिए खास बन गया है। परिवार में शहनाई की गूंज है, अभिनेता अर्जुन कपूर अपनी बहन अंशुला कपूर की शादी की तैयारियाें में व्यस्त हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चुनौतियों और डिप्रेशन को हराकर बने 'इश्कजादे', क्यों हैं ट्रोलर्स के लिए ‘इंडियाज मोस्ट वॉन्टेड’",
+          "summary": "अर्जुन कपूर का 41वां जन्मदिन उनके परिवार के लिए खास बन गया है. उनकी बहन अंशुला कपूर की शादी की तैयारियां चल रही हैं. अर्जुन कपूर ने अपने जीवन की चुनौतियों को पार किया है. अर्जुन कपूर का 41वां (26 जून 1985) जन्मदिन इस बार सिर्फ उनके लिए नहीं बल्कि पूरे कपूर परिवार के लिए खास बन गया है। परिवार में शहनाई की गूंज है, अभिनेता अर्जुन कपूर अपनी बहन अंशुला कपूर की शादी की तैयारियाें में व्यस्त हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ऐसे लोगों के हाथ में हो मंदिरों का प्रबंधन, जो दान की संपत्ति की चोरी को समझें विषपान",
+      "url": "https://www.amarujala.com/columns/opinion/ram-temple-donation-theft-religious-trust-temple-management-transparency-2026-06-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-26T01:44:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/26/ram-mandir_812f8cde83200ded58d52560b0efe62f.jpeg?w=1200&dpr=1.0",
+      "summary": "मंदिरों के प्रबंधन को ऐसे लोगों के हाथ में होना चाहिए जो दान की संपत्ति की चोरी को समझें. यह चोरी नहीं पाप है, और मंदिरों के प्रबंधन में पारदर्शिता होनी चाहिए. ऐसे लोगों के हाथ में हो मंदिरों का प्रबंधन, जो दान की संपत्ति की चोरी को समझें विषपान।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ऐसे लोगों के हाथ में हो मंदिरों का प्रबंधन, जो दान की संपत्ति की चोरी को समझें विषपान",
+          "summary": "मंदिरों के प्रबंधन को ऐसे लोगों के हाथ में होना चाहिए जो दान की संपत्ति की चोरी को समझें. यह चोरी नहीं पाप है, और मंदिरों के प्रबंधन में पारदर्शिता होनी चाहिए. ऐसे लोगों के हाथ में हो मंदिरों का प्रबंधन, जो दान की संपत्ति की चोरी को समझें विषपान।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रिश्ते, धोखा और असहज करने वाले सवाल: खूंखार अपराधियों वाली सनकी मानसिकता, चौंकाता है सामान्य दिखने",
+      "url": "https://www.amarujala.com/columns/opinion/ketan-agrawal-murder-relationship-betrayal-wedding-crime-social-questions-siya-chetan-2026-06-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-26T01:33:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/ketan-agrawal-murder_ff0804888c1c24a6a4603eefc8808d5a.jpeg?w=1200&dpr=1.0",
+      "summary": "केतन अग्रवाल की हत्या के मामले में नए तथ्य सामने आए हैं। पुलिस ने खुलासा किया कि आरोपी सामान्य दिखने वाले थे लेकिन सनकी मानसिकता के शिकार थे। रिश्तों और धोखे के जाल ने इस अपराध को जन्म दिया। रिश्ते, धोखा और असहज करने वाले सवाल: खूंखार अपराधियों वाली सनकी मानसिकता, चौंकाता है सामान्य दिखने।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रिश्ते, धोखा और असहज करने वाले सवाल: खूंखार अपराधियों वाली सनकी मानसिकता, चौंकाता है सामान्य दिखने",
+          "summary": "केतन अग्रवाल की हत्या के मामले में नए तथ्य सामने आए हैं। पुलिस ने खुलासा किया कि आरोपी सामान्य दिखने वाले थे लेकिन सनकी मानसिकता के शिकार थे। रिश्तों और धोखे के जाल ने इस अपराध को जन्म दिया। रिश्ते, धोखा और असहज करने वाले सवाल: खूंखार अपराधियों वाली सनकी मानसिकता, चौंकाता है सामान्य दिखने।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "फीफा विश्वकप में कल क्या हुआ और आज क्या?: इक्वाडोर ने जर्मनी को हराकर किया बड़ा उलटफेर",
+      "url": "https://www.amarujala.com/sports/football/fifa-world-cup-2026-day-15-highlights-ecuador-stun-germany-netherlands-top-group-japan-advance-ivory-coast-2026-06-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-26T01:31:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/fifa-world-cup-2026-day-15-highlights-ecuador-vs-germany-ecuador-beats-germany-ivory-coast-vs-cu_6a0ca987febbddca07c882fa05dd1803.jpeg?w=1200&dpr=1.0",
+      "summary": "इक्वाडोर ने फीफा विश्वकप में जर्मनी को 2-1 से हराकर बड़ा उलटफेर किया। इस जीत ने इक्वाडोर को नॉकआउट में जगह दिलाई। जर्मनी चार बार की विश्व चैंपियन है। फीफा विश्वकप 2026 के ग्रुप स्टेज का 15वां दिन कई बड़े उलटफेर और ऐतिहासिक उपलब्धियों का गवाह बना। सबसे बड़ा झटका तब लगा जब इक्वाडोर ने चार बार की विश्व चैंपियन जर्मनी को 2-1 से हराकर नॉकआउट में जगह बना ली।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फीफा विश्वकप में कल क्या हुआ और आज क्या?: इक्वाडोर ने जर्मनी को हराकर किया बड़ा उलटफेर",
+          "summary": "इक्वाडोर ने फीफा विश्वकप में जर्मनी को 2-1 से हराकर बड़ा उलटफेर किया। इस जीत ने इक्वाडोर को नॉकआउट में जगह दिलाई। जर्मनी चार बार की विश्व चैंपियन है। फीफा विश्वकप 2026 के ग्रुप स्टेज का 15वां दिन कई बड़े उलटफेर और ऐतिहासिक उपलब्धियों का गवाह बना। सबसे बड़ा झटका तब लगा जब इक्वाडोर ने चार बार की विश्व चैंपियन जर्मनी को 2-1 से हराकर नॉकआउट में जगह बना ली।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "पृथ्वी की ओर आते-आते 21% फैला सूर्य का चुंबकीय बादल, वैज्ञानिकों को चौंकाया",
+      "url": "https://www.amarujala.com/world/solar-magnetic-cloud-expands-21-percent-approaching-earth-astronomers-surprised-2026-06-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-06-26T01:30:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/atarakashha-masama-ka-bhavashhayavanae-ka-malga-naii-thasha_8f0abf160a21831c8ea025d5db88fd2e.jpeg?w=1200&dpr=1.0",
+      "summary": "सूर्य का चुंबकीय बादल पृथ्वी की ओर बढ़ रहा है और 21% तक फैल गया है। वैज्ञानिकों को यह घटना चौंका रही है। इस बादल के प्रभावों का अध्ययन किया जा रहा है। खगोलीय घटना: पृथ्वी की ओर आते-आते 21% फैला सूर्य का चुंबकीय बादल, वैज्ञानिकों को चौंकाया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पृथ्वी की ओर आते-आते 21% फैला सूर्य का चुंबकीय बादल, वैज्ञानिकों को चौंकाया",
+          "summary": "सूर्य का चुंबकीय बादल पृथ्वी की ओर बढ़ रहा है और 21% तक फैल गया है। वैज्ञानिकों को यह घटना चौंका रही है। इस बादल के प्रभावों का अध्ययन किया जा रहा है। खगोलीय घटना: पृथ्वी की ओर आते-आते 21% फैला सूर्य का चुंबकीय बादल, वैज्ञानिकों को चौंकाया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बेंजामिन नेतन्याहू की दो-टूक – ‘लेबनान, गाज़ा और सीरिया से नहीं हटेगी इज़रायली सेना’",
+      "url": "https://www.patrika.com/world-news/benjamin-netanyahu-says-israeli-army-will-remain-in-lebanon-gaza-and-syria-for-as-long-as-required-20697618",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-06-26T01:27:31+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/benjamin_netanyahu_.webp",
+      "summary": "इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा कि इजरायली सेना लेबनान, गाजा और सीरिया से नहीं हटेगी। यह बयान अंतर्राष्ट्रीय दबाव के बीच आया है। इजरायली सेना की कार्रवाई जारी है। इज़रायल (Israel) की सेना की लेबनान और गाज़ा में सैन्य कार्रवाई जारी है। इज़रायली सेना लगातार साउथ लेबनान और गाज़ा में सीज़फायर का उल्लंघन कर रही है। अंतर्राष्ट्रीय दबाव के बावजूद इज़रायली सेना अपने हमले नहीं रोक रही है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बेंजामिन नेतन्याहू की दो-टूक – ‘लेबनान, गाज़ा और सीरिया से नहीं हटेगी इज़रायली सेना’",
+          "summary": "इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा कि इजरायली सेना लेबनान, गाजा और सीरिया से नहीं हटेगी। यह बयान अंतर्राष्ट्रीय दबाव के बीच आया है। इजरायली सेना की कार्रवाई जारी है। इज़रायल (Israel) की सेना की लेबनान और गाज़ा में सैन्य कार्रवाई जारी है। इज़रायली सेना लगातार साउथ लेबनान और गाज़ा में सीज़फायर का उल्लंघन कर रही है। अंतर्राष्ट्रीय दबाव के बावजूद इज़रायली सेना अपने हमले नहीं रोक रही है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "वेनेजुएला में भूकंप की दोहरी मार, दुनिया के लिए बड़ा सबक",
+      "url": "https://www.amarujala.com/columns/opinion/venezuela-earthquake-disaster-lessons-earthquake-preparedness-disaster-management-2026-06-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-06-26T01:18:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/vanajael-ma-bhakapa-sa-tabha-ka-majara_3ead6d538d3f44c72058e9f08628f090.jpeg?w=1200&dpr=1.0",
+      "summary": "वेनेजुएला में भूकंप की दोहरी मार ने दुनिया के लिए बड़ा सबक दिया है। भूकंप की तैयारी और आपदा प्रबंधन की जरूरत पर जोर दिया गया है। वेनेजुएला में भूकंप से भारी नुकसान हुआ है। वेनेजुएला में भूकंप की दोहरी मार, दुनिया के लिए बड़ा सबक।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वेनेजुएला में भूकंप की दोहरी मार, दुनिया के लिए बड़ा सबक",
+          "summary": "वेनेजुएला में भूकंप की दोहरी मार ने दुनिया के लिए बड़ा सबक दिया है। भूकंप की तैयारी और आपदा प्रबंधन की जरूरत पर जोर दिया गया है। वेनेजुएला में भूकंप से भारी नुकसान हुआ है। वेनेजुएला में भूकंप की दोहरी मार, दुनिया के लिए बड़ा सबक।",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
       "title": "ईरानी ड्रोन ने जहाज पर किया हमला, 11 हजार नाविकों का रेस्क्यू ऑपरेशन रुका",
@@ -326,434 +704,56 @@
       }
     },
     {
-      "title": "PM मोदी को आमंत्रित कर ईरान ने भारत को उलझन में डाला, खामनेई के अंतिम संस्कार को लेकर कैसे सधेगा",
-      "url": "https://www.amarujala.com/india-news/iran-invites-pm-modi-khamenei-funeral-india-balances-iran-us-israel-relations-2026-06-26",
+      "title": "आसमान में भारत की तीसरी आंख और पैनी हुई, स्वदेशी रडार नेत्र को मंजूरी; जानें क्या है खासियत?",
+      "url": "https://www.amarujala.com/india-news/netra-aewc-indias-third-eye-in-the-sky-drdo-indigenous-radar-system-approved-features-2026-06-26",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-26T00:58:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/pm-modi_3bddafd2a8deac057b41cdecfb8d1bfd.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान ने प्रधानमंत्री मोदी को अपने नेता खामनेई के अंतिम संस्कार के लिए आमंत्रित किया है, जिससे भारत को अपनी रणनीतिक स्थिति को संतुलित करने की चुनौती का सामना करना पड़ रहा है। यह आमंत्रण ईरान के साथ भारत के संबंधों और अमेरिका, इज़राइल के साथ उसके संबंधों के बीच संतुलन बनाने की आवश्यकता को उजागर करता है। Iran: PM मोदी को आमंत्रित कर ईरान ने भारत को उलझन में डाला, खामनेई के अंतिम संस्कार को लेकर कैसे सधेगा संतुलन?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PM मोदी को आमंत्रित कर ईरान ने भारत को उलझन में डाला, खामनेई के अंतिम संस्कार को लेकर कैसे सधेगा",
-          "summary": "ईरान ने प्रधानमंत्री मोदी को अपने नेता खामनेई के अंतिम संस्कार के लिए आमंत्रित किया है, जिससे भारत को अपनी रणनीतिक स्थिति को संतुलित करने की चुनौती का सामना करना पड़ रहा है। यह आमंत्रण ईरान के साथ भारत के संबंधों और अमेरिका, इज़राइल के साथ उसके संबंधों के बीच संतुलन बनाने की आवश्यकता को उजागर करता है। Iran: PM मोदी को आमंत्रित कर ईरान ने भारत को उलझन में डाला, खामनेई के अंतिम संस्कार को लेकर कैसे सधेगा संतुलन?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "UAE के बाद सऊदी अरब भी भारत से दोस्ती बढ़ा रहा, रियाद में जो हुआ, सुनकर पाकिस्तान को लगेगा सदमा!",
-      "url": "https://hindi.news18.com/world/middle-east-uae-now-saudi-arabia-boosts-ties-with-india-riyadh-jeddah-mega-meetings-major-defense-deal-on-card-10603605.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T20:32:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Saudi-Arabia-India-Meeting-2026-06-2e4d99681ef043d1ecb9f068bd412195-1200x800.jpg",
-      "summary": "सऊदी अरब और भारत के बीच रक्षा सहयोग बढ़ रहा है। रियाद में हुई बैठकों में सऊदी रक्षा मंत्रालय और भारत के शीर्ष राजनयिकों के बीच हथियारों और सैन्य सहयोग पर चर्चा हुई। सऊदी अब भारत की अर्थव्यवस्था और स्वदेशी हथियारों पर भरोसा जता रहा है। जेद्दा और रियाद में हुई बैक-टू-बैक महा-बैठकों में भारत के शीर्ष राजनयिकों और सऊदी रक्षा मंत्रालय के बीच अत्याधुनिक हथियारों, सैन्य सहयोग और 'मेक इन इंडिया' डिफेंस टेक्नोलॉजी को लेकर बेहद सीक्रेट खिचड़ी पकी है, सऊदी अब भारत की मजबूत अर्थव्यवस्था और स्वदेशी हथियारों पर भरोसा जता रहा है, जो खाड़ी देशों में भारत के बढ़ते दबदबे को साफ बयां करता है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UAE के बाद सऊदी अरब भी भारत से दोस्ती बढ़ा रहा, रियाद में जो हुआ, सुनकर पाकिस्तान को लगेगा सदमा!",
-          "summary": "सऊदी अरब और भारत के बीच रक्षा सहयोग बढ़ रहा है। रियाद में हुई बैठकों में सऊदी रक्षा मंत्रालय और भारत के शीर्ष राजनयिकों के बीच हथियारों और सैन्य सहयोग पर चर्चा हुई। सऊदी अब भारत की अर्थव्यवस्था और स्वदेशी हथियारों पर भरोसा जता रहा है। जेद्दा और रियाद में हुई बैक-टू-बैक महा-बैठकों में भारत के शीर्ष राजनयिकों और सऊदी रक्षा मंत्रालय के बीच अत्याधुनिक हथियारों, सैन्य सहयोग और 'मेक इन इंडिया' डिफेंस टेक्नोलॉजी को लेकर बेहद सीक्रेट खिचड़ी पकी है, सऊदी अब भारत की मजबूत अर्थव्यवस्था और स्वदेशी हथियारों पर भरोसा जता रहा है, जो खाड़ी देशों में भारत के बढ़ते दबदबे को साफ बयां करता है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दक्षिण लेबनान में IDF की गोलीबारी तीन की मौत; UN की एजेंसी ने रोकी होर्मुज में जहाजों की निकासी",
-      "url": "https://www.amarujala.com/live/world/west-asia-live-iran-us-talks-israel-lebanon-strait-of-hormuz-pakistan-qatar-2026-06-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-06-25T19:59:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/29/isarail-lbnana_c3d2eb29a76eb750c5a1e7064e632dfa.jpeg?w=1200&dpr=1.0",
-      "summary": "दक्षिण लेबनान में IDF की गोलीबारी में तीन लोगों की मौत हो गई. इसके बाद UN की एजेंसी ने होर्मुज में जहाजों की निकासी रोक दी. West Asia: दक्षिण लेबनान में IDF की गोलीबारी तीन की मौत; UN की एजेंसी ने रोकी होर्मुज में जहाजों की निकासी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दक्षिण लेबनान में IDF की गोलीबारी तीन की मौत; UN की एजेंसी ने रोकी होर्मुज में जहाजों की निकासी",
-          "summary": "दक्षिण लेबनान में IDF की गोलीबारी में तीन लोगों की मौत हो गई. इसके बाद UN की एजेंसी ने होर्मुज में जहाजों की निकासी रोक दी. West Asia: दक्षिण लेबनान में IDF की गोलीबारी तीन की मौत; UN की एजेंसी ने रोकी होर्मुज में जहाजों की निकासी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत को जिसका डर था बांग्लादेश ने वही कर दिया, चीन के साथ तारिक रहमान कर आए ऐसी डील, चिकन नेक पर",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-put-india-siliguri-corridor-at-risk-as-tarique-rahman-seals-teesta-river-deal-with-china-10603519.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T18:21:46+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/China-Bangladesh-Teesta-Agreement-2026-06-a0aafd01a2bfa6dfafaeddca2c3a1de0-1200x800.jpg",
-      "summary": "बांग्लादेश ने तीस्ता नदी परियोजना के लिए चीन से मदद मांगी है। ढाका और बीजिंग के बीच हाई-प्रोफाइल बैठक हुई, जिसमें चीन को परियोजना के लिए तकनीकी और वित्तीय मदद प्रदान करने पर सहमति बनी। इससे भारत की चिंताएं बढ़ गई हैं। भारत के पुराने कूटनीतिक कायदे-कानूनों को दरकिनार करते हुए बांग्लादेश ने तीस्ता नदी पर चीन को एंट्री देदी है.",
+      "published_at": "2026-06-26T00:59:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/12/natara-bugdhhaega-vayasana-ka-nagarana-kashhamata_2d024725561b96dd1923e7832092be2f.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत ने स्वदेशी रडार नेत्र Netra AEW&C को मंजूरी दी, जो आसमान में तीसरी आंख की तरह काम करेगा। यह रडार प्रणाली भारतीय वायुसेना की निगरानी क्षमता को बढ़ाएगी। Netra AEW&C: आसमान में भारत की तीसरी आंख और पैनी हुई, स्वदेशी रडार नेत्र को मंजूरी; जानें क्या है खासियत?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत को जिसका डर था बांग्लादेश ने वही कर दिया, चीन के साथ तारिक रहमान कर आए ऐसी डील, चिकन नेक पर",
-          "summary": "बांग्लादेश ने तीस्ता नदी परियोजना के लिए चीन से मदद मांगी है। ढाका और बीजिंग के बीच हाई-प्रोफाइल बैठक हुई, जिसमें चीन को परियोजना के लिए तकनीकी और वित्तीय मदद प्रदान करने पर सहमति बनी। इससे भारत की चिंताएं बढ़ गई हैं। भारत के पुराने कूटनीतिक कायदे-कानूनों को दरकिनार करते हुए बांग्लादेश ने तीस्ता नदी पर चीन को एंट्री देदी है.",
+          "title": "आसमान में भारत की तीसरी आंख और पैनी हुई, स्वदेशी रडार नेत्र को मंजूरी; जानें क्या है खासियत?",
+          "summary": "भारत ने स्वदेशी रडार नेत्र Netra AEW&C को मंजूरी दी, जो आसमान में तीसरी आंख की तरह काम करेगा। यह रडार प्रणाली भारतीय वायुसेना की निगरानी क्षमता को बढ़ाएगी। Netra AEW&C: आसमान में भारत की तीसरी आंख और पैनी हुई, स्वदेशी रडार नेत्र को मंजूरी; जानें क्या है खासियत?",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "10 लाख से ज्यादा उइगर हिरासत में, फिर भी छाई रही खामोशी? डोनाल्ड ट्रंप और शी जिनपिंग की मुलाकात पर",
-      "url": "https://hindi.news18.com/world/china-10-lakh-uyghur-muslim-in-china-detention-us-silence-questions-raised-donald-trump-xi-jinping-meeting-10603550.html",
-      "source": "News18 Hindi (World)",
+      "title": "मुठभेड़ में 50 हजार का इनामी बदमाश ढेर, खंद्रावली पुलिस चौकी के पास आज तड़के एनकाउंटर; दरोगा भी घायल",
+      "url": "https://www.amarujala.com/uttar-pradesh/shamli/shamli-mehtab-carrying-a-reward-of-50-000-killed-in-an-encounter-near-the-khandrawali-police-outpost-2026-06-26",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-25T18:20:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-Trump-Xi-Jinping-2026-06-95bd5f594b3b2ba0b1f20e311adf279c-1200x800.jpg",
-      "summary": "अमेरिकी नागरिक रुशान अब्बास ने राष्ट्रपति डोनाल्ड ट्रंप से आग्रह किया है कि वे चीनी राष्ट्रपति शी जिनपिंग से उइगर मुसलमानों के मुद्दे पर बात करें। उइगर हिरासत में हैं और अब्बास ने ट्रंप से उनकी रिहाई के लिए प्रयास करने का आग्रह किया है। अमेरिकी राजनीति के प्रसिद्ध अखबार 'द हिल' में 14 मई को लिखे अपने एक बेहद भावुक और कड़े लेख में रुशान अब्बास ने सीधे अमेरिकी प्रशासन पर सवाल दागे थे.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "10 लाख से ज्यादा उइगर हिरासत में, फिर भी छाई रही खामोशी? डोनाल्ड ट्रंप और शी जिनपिंग की मुलाकात पर",
-          "summary": "अमेरिकी नागरिक रुशान अब्बास ने राष्ट्रपति डोनाल्ड ट्रंप से आग्रह किया है कि वे चीनी राष्ट्रपति शी जिनपिंग से उइगर मुसलमानों के मुद्दे पर बात करें। उइगर हिरासत में हैं और अब्बास ने ट्रंप से उनकी रिहाई के लिए प्रयास करने का आग्रह किया है। अमेरिकी राजनीति के प्रसिद्ध अखबार 'द हिल' में 14 मई को लिखे अपने एक बेहद भावुक और कड़े लेख में रुशान अब्बास ने सीधे अमेरिकी प्रशासन पर सवाल दागे थे.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत से हारने के बाद फिर गया पाक का माथा! गले तक कर्ज में डूबा, फिर भी सैनिकों की बढ़ाई 25% सैलरी",
-      "url": "https://www.abplive.com/news/world/pakistan-army-chief-asim-munir-hikes-troops-salaries-by-25-percent-after-lost-in-india-operation-sindoor-3150767",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-25T17:44:00+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/43a666d38ce8abbd2a2b735a29f08a5b17824047230761126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पाकिस्तान की आर्थिक स्थिति खराब होने के बावजूद, सरकार ने अपने सैनिकों की सैलरी में 25 प्रतिशत की बढ़ोत्तरी की है। इससे पाकिस्तान की आर्थिक स्थिति और खराब होने की संभावना है। देश पहले से ही कर्ज में डूबा हुआ है। पाकिस्तान की फटी जेब और खस्ता आर्थिक हालत के बारे में आज कौन नहीं जानता है. दुनिया के कई देशों के साथ-साथ अंतरराष्ट्रीय संगठनों ने भी पाकिस्तान को रोजमर्रा की जिंदगी आराम से चलाने के लिए भारी भरकम लोन दिया है, लेकिन पाकिस्तान ‘लोन लेकर घी पीने’ वाली कहावत को पूरी तरह से सार्थक करता नजर आ रहा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत से हारने के बाद फिर गया पाक का माथा! गले तक कर्ज में डूबा, फिर भी सैनिकों की बढ़ाई 25% सैलरी",
-          "summary": "पाकिस्तान की आर्थिक स्थिति खराब होने के बावजूद, सरकार ने अपने सैनिकों की सैलरी में 25 प्रतिशत की बढ़ोत्तरी की है। इससे पाकिस्तान की आर्थिक स्थिति और खराब होने की संभावना है। देश पहले से ही कर्ज में डूबा हुआ है। पाकिस्तान की फटी जेब और खस्ता आर्थिक हालत के बारे में आज कौन नहीं जानता है. दुनिया के कई देशों के साथ-साथ अंतरराष्ट्रीय संगठनों ने भी पाकिस्तान को रोजमर्रा की जिंदगी आराम से चलाने के लिए भारी भरकम लोन दिया है, लेकिन पाकिस्तान ‘लोन लेकर घी पीने’ वाली कहावत को पूरी तरह से सार्थक करता नजर आ रहा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चीन-पाक के होश उड़ाने वाली कूटनीति! दिनेश त्रिवेदी का ढाका में बढ़ा कद क्या कहता है? जानिए भारत का",
-      "url": "https://hindi.news18.com/news/nation/dinesh-trivedi-bangladesh-cabinet-rank-diplomacy-india-masterstroke-10603221.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T17:42:55+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Dinesh_Trivedi_Bangladesh_Update1-2026-06-edb87df467600b5fad6634d7b9e4ddd2-1200x800.jpg",
-      "summary": "भारत ने बांग्लादेश में अपने उच्चायुक्त दिनेश त्रिवेदी को कैबिनेट मंत्री का दर्जा दिया है। यह कदम दोनों देशों के रिश्तों को मजबूत करने के लिए उठाया गया है। भारत ने बांग्लादेशियों के लिए टूरिस्ट वीजा सेवा भी फिर से शुरू की है। Dinesh Trivedi Bangladesh Cabinet Rank: भारत ने बांग्लादेश में हाई कमिश्नर दिनेश त्रिवेदी को कैबिनेट मंत्री का दर्जा दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन-पाक के होश उड़ाने वाली कूटनीति! दिनेश त्रिवेदी का ढाका में बढ़ा कद क्या कहता है? जानिए भारत का",
-          "summary": "भारत ने बांग्लादेश में अपने उच्चायुक्त दिनेश त्रिवेदी को कैबिनेट मंत्री का दर्जा दिया है। यह कदम दोनों देशों के रिश्तों को मजबूत करने के लिए उठाया गया है। भारत ने बांग्लादेशियों के लिए टूरिस्ट वीजा सेवा भी फिर से शुरू की है। Dinesh Trivedi Bangladesh Cabinet Rank: भारत ने बांग्लादेश में हाई कमिश्नर दिनेश त्रिवेदी को कैबिनेट मंत्री का दर्जा दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बेंगलुरुः कन्नड़ अभिनेत्री कृषि थापंडा के फ्लैट में फंदे से लटका मिला शव, पुलिस ने शुरू की तफ्तीश",
-      "url": "https://www.abplive.com/news/india/man-found-hanging-at-kannada-actress-krishi-thapanda-flat-in-elegance-terrace-apartment-bengaluru-police-started-investigation-ann-3150795",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-25T17:42:29+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/4ac47febfddfdecb976f552adb3a4ddb17824082412921126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "बेंगलुरु में कन्नड़ अभिनेत्री कृषि थापंडा के फ्लैट में 45 वर्षीय व्यक्ति वैशाक उपाध्याय फंदे से लटका हुआ मिला। पुलिस ने मामला दर्ज कर जांच शुरू कर दी। मृतक के पीछे पत्नी और 14 वर्षीय पुत्र है। कर्नाटक की राजधानी बेंगलुरु के आरआर नगर के इलाके में पॉपुलर कन्नड़ अभिनेत्री कृषि थापंडा (Krishi Thapanda) के घर पर एक 45 वर्षीय व्यक्ति के मृत पाए जाने से सनसनी फैल गई है.",
+      "published_at": "2026-06-26T00:48:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/1_ea24c4de255cfe0224fa68e323fa8aa2.jpeg?w=1200&dpr=1.0",
+      "summary": "पुलिस और बदमाशों के बीच हुई मुठभेड़ में 50 हजार रुपये का इनामी बदमाश मेहताब मारा गया। यह मुठभेड़ खंद्रावली पुलिस चौकी के पास हुई, जहां दरोगा भी घायल हुआ। मुठभेड़ में 50 हजार का इनामी बदमाश ढेर, खंद्रावली पुलिस चौकी के पास आज तड़के एनकाउंटर; दरोगा भी घायल।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बेंगलुरुः कन्नड़ अभिनेत्री कृषि थापंडा के फ्लैट में फंदे से लटका मिला शव, पुलिस ने शुरू की तफ्तीश",
-          "summary": "बेंगलुरु में कन्नड़ अभिनेत्री कृषि थापंडा के फ्लैट में 45 वर्षीय व्यक्ति वैशाक उपाध्याय फंदे से लटका हुआ मिला। पुलिस ने मामला दर्ज कर जांच शुरू कर दी। मृतक के पीछे पत्नी और 14 वर्षीय पुत्र है। कर्नाटक की राजधानी बेंगलुरु के आरआर नगर के इलाके में पॉपुलर कन्नड़ अभिनेत्री कृषि थापंडा (Krishi Thapanda) के घर पर एक 45 वर्षीय व्यक्ति के मृत पाए जाने से सनसनी फैल गई है.",
+          "title": "मुठभेड़ में 50 हजार का इनामी बदमाश ढेर, खंद्रावली पुलिस चौकी के पास आज तड़के एनकाउंटर; दरोगा भी घायल",
+          "summary": "पुलिस और बदमाशों के बीच हुई मुठभेड़ में 50 हजार रुपये का इनामी बदमाश मेहताब मारा गया। यह मुठभेड़ खंद्रावली पुलिस चौकी के पास हुई, जहां दरोगा भी घायल हुआ। मुठभेड़ में 50 हजार का इनामी बदमाश ढेर, खंद्रावली पुलिस चौकी के पास आज तड़के एनकाउंटर; दरोगा भी घायल।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "300 फीट की ऊंचाई से धक्का, सीसीटीवी फुटेज और वो एक गलती… सिया के विश्वासघात की पूरी कहानी",
-      "url": "https://www.abplive.com/news/india/ketan-agarwal-pune-murder-case-siya-pushing-from-a-height-of-300-feet-cctv-footage-know-full-story-3150798",
-      "source": "ABP Live (India)",
+      "title": "मादक पदार्थ नियंत्रण से जुड़ी अहम बैठक की अध्यक्षता करेंगे गृह मंत्री, सीएम योगी का देवरिया दौरा",
+      "url": "https://www.amarujala.com/india-news/26-june-2026-major-events-2026-06-25",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-25T17:38:20+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/7a32b242ddbd468f45415c1700b287011782408490696708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पुणे के लोहागढ़ किले से 300 फीट की ऊंचाई से गिरने वाले केतन अग्रवाल की मौत की जांच में विश्वासघात की कहानी सामने आई। सीसीटीवी फुटेज और एक गलती ने इस कथित हत्या की परतें खोल दीं। पुणे के लोहागढ़ किले से जुड़ा यह मामला सिर्फ एक कथित हत्या की कहानी नहीं है, बल्कि भरोसे, रिश्तों और विश्वासघात की ऐसी दास्तान है जिसने पूरे देश को झकझोर दिया है.",
+      "published_at": "2026-06-26T00:36:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/aaja-ka-khabra_a2c13b3b556d028b5edfbc4b155e1a36.gif?w=1200&dpr=1.0",
+      "summary": "गृह मंत्री मादक पदार्थ नियंत्रण से जुड़ी अहम बैठक की अध्यक्षता करेंगे। सीएम योगी आज देवरिया का दौरा करेंगे। नमस्कार! आज है शुक्रवार, 26 जून। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं मादक पदार्थ नियंत्रण से जुड़ी अहम बैठक की अध्यक्षता करेंगे गृह मंत्री, सीएम योगी का देवरिया दौरा।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "300 फीट की ऊंचाई से धक्का, सीसीटीवी फुटेज और वो एक गलती… सिया के विश्वासघात की पूरी कहानी",
-          "summary": "पुणे के लोहागढ़ किले से 300 फीट की ऊंचाई से गिरने वाले केतन अग्रवाल की मौत की जांच में विश्वासघात की कहानी सामने आई। सीसीटीवी फुटेज और एक गलती ने इस कथित हत्या की परतें खोल दीं। पुणे के लोहागढ़ किले से जुड़ा यह मामला सिर्फ एक कथित हत्या की कहानी नहीं है, बल्कि भरोसे, रिश्तों और विश्वासघात की ऐसी दास्तान है जिसने पूरे देश को झकझोर दिया है.",
+          "title": "मादक पदार्थ नियंत्रण से जुड़ी अहम बैठक की अध्यक्षता करेंगे गृह मंत्री, सीएम योगी का देवरिया दौरा",
+          "summary": "गृह मंत्री मादक पदार्थ नियंत्रण से जुड़ी अहम बैठक की अध्यक्षता करेंगे। सीएम योगी आज देवरिया का दौरा करेंगे। नमस्कार! आज है शुक्रवार, 26 जून। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं मादक पदार्थ नियंत्रण से जुड़ी अहम बैठक की अध्यक्षता करेंगे गृह मंत्री, सीएम योगी का देवरिया दौरा।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘उन रास्तों से मत गुजरना’, होर्मुज पर ईरान ने फिर जारी कर दी वॉर्निंग, क्या माइन्स का खतरा है?",
-      "url": "https://hindi.news18.com/world/middle-east-hormuz-oil-route-crisis-iran-irgc-issues-warning-on-strait-of-hormuz-bans-ships-from-altering-routes-10603391.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T17:13:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/how-long-world-can-survive-if-Iran-Shuts-Strait-Of-Hormuz-2026-06-84053ac2a43b4b67abbe1cc02b1df3d0-1200x800.jpg",
-      "summary": "ईरान की आईआरजीसी ने होर्मुज जलडमरूमध्य से गुजरने वाले वैश्विक जहाजों के लिए एक चेतावनी जारी की है, जिसमें कहा गया है कि केवल उनके द्वारा तय किए गए समुद्री रास्ते ही मान्य होंगे। इससे अंतरराष्ट्रीय बाजार में सनसनी मच गई है। अमेरिका के साथ युद्ध विराम समझौते के बीच ईरान की IRGC ने होर्मुज जलडमरूमध्य (Strait of Hormuz) से गुजरने वाले वैश्विक जहाजों के लिए एक बेहद डरावनी चेतावनी जारी की है, जिससे अंतरराष्ट्रीय बाजार में सनसनी मच गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘उन रास्तों से मत गुजरना’, होर्मुज पर ईरान ने फिर जारी कर दी वॉर्निंग, क्या माइन्स का खतरा है?",
-          "summary": "ईरान की आईआरजीसी ने होर्मुज जलडमरूमध्य से गुजरने वाले वैश्विक जहाजों के लिए एक चेतावनी जारी की है, जिसमें कहा गया है कि केवल उनके द्वारा तय किए गए समुद्री रास्ते ही मान्य होंगे। इससे अंतरराष्ट्रीय बाजार में सनसनी मच गई है। अमेरिका के साथ युद्ध विराम समझौते के बीच ईरान की IRGC ने होर्मुज जलडमरूमध्य (Strait of Hormuz) से गुजरने वाले वैश्विक जहाजों के लिए एक बेहद डरावनी चेतावनी जारी की है, जिससे अंतरराष्ट्रीय बाजार में सनसनी मच गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "नागरिकता का प्रमाण, पहचान और मीडिया से सोशल मीडिया तक बहस…, पासपोर्ट क्यों नहीं मजबूत दस्तावेज?",
-      "url": "https://www.abplive.com/news/india/indian-passport-citizenship-debate-mea-statement-controversy-on-social-media-3150793",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-25T17:12:02+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/f1410d5019d516e7c6a83cdbfc50fb7e1782406929975708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "विदेश मंत्रालय ने कहा कि पासपोर्ट भारतीय नागरिकता का निर्णायक प्रमाण नहीं है, यह एक ट्रैवल डॉक्युमेंट है। इस बयान के बाद देशभर में सवाल उठने लगे और मीडिया से लेकर सोशल मीडिया तक बहस छिड़ गई। मुद्दा सिर्फ पासपोर्ट का नहीं, बल्कि नागरिकता और पहचान का है. मीडिया से लेकर सोशल मीडिया तक, अदालत से लेकर संसद तक एक नई बहस छिड़ गई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नागरिकता का प्रमाण, पहचान और मीडिया से सोशल मीडिया तक बहस…, पासपोर्ट क्यों नहीं मजबूत दस्तावेज?",
-          "summary": "विदेश मंत्रालय ने कहा कि पासपोर्ट भारतीय नागरिकता का निर्णायक प्रमाण नहीं है, यह एक ट्रैवल डॉक्युमेंट है। इस बयान के बाद देशभर में सवाल उठने लगे और मीडिया से लेकर सोशल मीडिया तक बहस छिड़ गई। मुद्दा सिर्फ पासपोर्ट का नहीं, बल्कि नागरिकता और पहचान का है. मीडिया से लेकर सोशल मीडिया तक, अदालत से लेकर संसद तक एक नई बहस छिड़ गई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "IPS महेश दीक्षित देश के नए IB चीफ, तेलंगाना कैडर के अधिकारी, कश्मीर में हो चुकी तैनाती",
-      "url": "https://www.abplive.com/news/india/1993-batch-ips-mahesh-dixit-country-new-ib-chief-telangana-cadre-officer-had-served-in-kashmir-3150785",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-25T16:43:46+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/ab5436f6a9bd6a6bf6db4736c8a1022017824075602801324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "आईपीएस अधिकारी महेश दीक्षित को भारत के नए आईबी चीफ के तौर पर नियुक्त किया गया। वह 1993 बैच के आईपीएस अधिकारी हैं और कश्मीर में तैनात रह चुके हैं। भारत के नए आईबी चीफ के तौर पर आईपीएस अधिकारी महेश दीक्षित की नियुक्ति भारत सरकार की तरफ से की गई है. महेश दीक्षित 1993 बैच के आईपीएस अधिकारी हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "IPS महेश दीक्षित देश के नए IB चीफ, तेलंगाना कैडर के अधिकारी, कश्मीर में हो चुकी तैनाती",
-          "summary": "आईपीएस अधिकारी महेश दीक्षित को भारत के नए आईबी चीफ के तौर पर नियुक्त किया गया। वह 1993 बैच के आईपीएस अधिकारी हैं और कश्मीर में तैनात रह चुके हैं। भारत के नए आईबी चीफ के तौर पर आईपीएस अधिकारी महेश दीक्षित की नियुक्ति भारत सरकार की तरफ से की गई है. महेश दीक्षित 1993 बैच के आईपीएस अधिकारी हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कैबिनेट विस्तार की अटकलों के बीच राष्ट्रपति मुर्मू से मिले अमित शाह, क्या हैं इस मीटिंग के मायने?",
-      "url": "https://www.abplive.com/news/india/amit-shah-met-president-droupadi-murmu-amid-speculation-pm-modi-govt-cabinet-expansion-3150702",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-25T16:43:17+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/85e5687689adfed6ffd3c326b86b4e7e1782394746885708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "केंद्रीय गृह मंत्री अमित शाह ने राष्ट्रपति द्रौपदी मुर्मू से मुलाकात की, जिससे केंद्रीय मंत्रिपरिषद में संभावित फेरबदल की अटकलें तेज हो गईं। यह मुलाकात गुरुवार को राष्ट्रपति भवन में हुई। केंद्रीय गृह मंत्री अमित शाह ने गुरुवार (25 जून 2026) को राष्ट्रपति भवन में राष्ट्रपति द्रौपदी मुर्मू से मुलाकात की. यह मुलाकात केंद्रीय मंत्रिपरिषद में संभावित फेरबदल की अटकलों के बीच हुई है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैबिनेट विस्तार की अटकलों के बीच राष्ट्रपति मुर्मू से मिले अमित शाह, क्या हैं इस मीटिंग के मायने?",
-          "summary": "केंद्रीय गृह मंत्री अमित शाह ने राष्ट्रपति द्रौपदी मुर्मू से मुलाकात की, जिससे केंद्रीय मंत्रिपरिषद में संभावित फेरबदल की अटकलें तेज हो गईं। यह मुलाकात गुरुवार को राष्ट्रपति भवन में हुई। केंद्रीय गृह मंत्री अमित शाह ने गुरुवार (25 जून 2026) को राष्ट्रपति भवन में राष्ट्रपति द्रौपदी मुर्मू से मुलाकात की. यह मुलाकात केंद्रीय मंत्रिपरिषद में संभावित फेरबदल की अटकलों के बीच हुई है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "तेहरान को लेकर भारतीय दूतावास की एडवाइजरी, कहा- नागरिक ईरान यात्रा से बचें; हेल्पलाइन नंबर जारी",
-      "url": "https://www.abplive.com/news/world/indian-embassy-advisory-regarding-tehran-middle-east-citizens-advised-avoid-travel-to-iran-helpline-number-release-3150757",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-25T16:36:27+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/4230cbfd2070744f8b457a439537bd8617824026281221324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारतीय दूतावास ने तेहरान में एक एडवाइजरी जारी की है, जिसमें भारतीय नागरिकों को ईरान यात्रा से बचने की सलाह दी गई है. दूतावास ने हेल्पलाइन नंबर भी जारी किया है. यह एडवाइजरी अगली सूचना तक 유효 रहेगी. साथ ही भारतीयों के लिए हेल्पलाइन नंबर भी जारी किया है. दूतावास में अपनी गाइडलाइन में भारतीय नागरिकों को सतर्कता बरतने की हिदायत दी है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेहरान को लेकर भारतीय दूतावास की एडवाइजरी, कहा- नागरिक ईरान यात्रा से बचें; हेल्पलाइन नंबर जारी",
-          "summary": "भारतीय दूतावास ने तेहरान में एक एडवाइजरी जारी की है, जिसमें भारतीय नागरिकों को ईरान यात्रा से बचने की सलाह दी गई है. दूतावास ने हेल्पलाइन नंबर भी जारी किया है. यह एडवाइजरी अगली सूचना तक 유효 रहेगी. साथ ही भारतीयों के लिए हेल्पलाइन नंबर भी जारी किया है. दूतावास में अपनी गाइडलाइन में भारतीय नागरिकों को सतर्कता बरतने की हिदायत दी है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी सुप्रीम कोर्ट में डोनाल्ड ट्रंप की बड़ी जीत, शरणार्थी वाले कानून को मिली मंजूरी",
-      "url": "https://www.patrika.com/world-news/us-supreme-court-sides-with-donald-trump-in-asylum-processing-case-20697435",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T16:19:28+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/trump-imposes-tariff.webp",
-      "summary": "अमेरिकी सुप्रीम कोर्ट ने राष्ट्रपति डोनाल्ड ट्रंप के पक्ष में फैसला सुनाया है. कोर्ट ने ट्रंप की बॉर्डर पर शरण चाहने वालों को रोकने वाली नीति को मंजूरी दे दी है. यह नीति ट्रंप को एक बड़ी राहत देने वाली है. अमेरिका के सुप्रीम कोर्ट ने राष्ट्रपति डोनाल्ड ट्रंप के पक्ष में फैसला सुनाया है। कोर्ट ने ट्रंप को एक बड़ी राहत देते हुए बॉर्डर पर शरण चाहने वालों को रोकने वाली नीति को मंजूरी दे दी है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी सुप्रीम कोर्ट में डोनाल्ड ट्रंप की बड़ी जीत, शरणार्थी वाले कानून को मिली मंजूरी",
-          "summary": "अमेरिकी सुप्रीम कोर्ट ने राष्ट्रपति डोनाल्ड ट्रंप के पक्ष में फैसला सुनाया है. कोर्ट ने ट्रंप की बॉर्डर पर शरण चाहने वालों को रोकने वाली नीति को मंजूरी दे दी है. यह नीति ट्रंप को एक बड़ी राहत देने वाली है. अमेरिका के सुप्रीम कोर्ट ने राष्ट्रपति डोनाल्ड ट्रंप के पक्ष में फैसला सुनाया है। कोर्ट ने ट्रंप को एक बड़ी राहत देते हुए बॉर्डर पर शरण चाहने वालों को रोकने वाली नीति को मंजूरी दे दी है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "दुनिया के इन 6 देशों में आए सबसे विनाशकारी भूकंप, एक जगह तो बिछी थीं 3 लाख लाशें, भारत भी अछूता नहीं",
-      "url": "https://hindi.news18.com/world/rest-of-world-6-most-powerful-earthquakes-in-history-from-great-chile-shock-to-indonesia-tsunami-that-killed-3-lakhs-10603331.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T16:15:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Most-Deadly-Earthquake-In-World-History-2026-06-e7b66fc85266ff9ef9949d2c8683c40b-1200x800.jpg",
-      "summary": "वेनेजुएला में विनाशकारी भूकंप आया है, लेकिन इतिहास में इससे भी अधिक विनाशकारी भूकंप आ चुके हैं। अमेरिकी भूवैज्ञानिक सर्वेक्षण के आंकड़ों के मुताबिक, दुनिया में कई जगहों पर बड़े भूकंप आ चुके हैं, जिनमें चिली और अलास्का में आए भूकंप शामिल हैं। वेनेजुएला में आए भूकंप ने भले ही भारी तबाही मचाई हो, लेकिन अमेरिकी भूवैज्ञानिक सर्वेक्षण (USGS) के आंकड़ों के मुताबिक दुनिया में इससे भी कहीं ज्यादा खूंखार और महा-विनाशकारी भूकंप आ चुके हैं, जिन्होंने इतिहास का भूगोल ही बदल दिया था.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुनिया के इन 6 देशों में आए सबसे विनाशकारी भूकंप, एक जगह तो बिछी थीं 3 लाख लाशें, भारत भी अछूता नहीं",
-          "summary": "वेनेजुएला में विनाशकारी भूकंप आया है, लेकिन इतिहास में इससे भी अधिक विनाशकारी भूकंप आ चुके हैं। अमेरिकी भूवैज्ञानिक सर्वेक्षण के आंकड़ों के मुताबिक, दुनिया में कई जगहों पर बड़े भूकंप आ चुके हैं, जिनमें चिली और अलास्का में आए भूकंप शामिल हैं। वेनेजुएला में आए भूकंप ने भले ही भारी तबाही मचाई हो, लेकिन अमेरिकी भूवैज्ञानिक सर्वेक्षण (USGS) के आंकड़ों के मुताबिक दुनिया में इससे भी कहीं ज्यादा खूंखार और महा-विनाशकारी भूकंप आ चुके हैं, जिन्होंने इतिहास का भूगोल ही बदल दिया था.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "41 साल बाद कनाडा को आया होश, पहली बार कबूला सच, AIR INDIA 182 में हुए बम ब्लास्ट में खालिस्तानी का",
-      "url": "https://www.abplive.com/news/world/canada-admits-khalistanis-planted-bomb-on-air-india-kanishka-flight-182-after-41-years-killed-329-people-3150747",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-25T15:36:51+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/afc3b745e0f1047db314372e551acaa41782401703026708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कनाडा ने 41 साल बाद एयर इंडिया फ्लाइट 182 में हुए बम ब्लास्ट में खालिस्तानी का हाथ होने की बात स्वीकार कर ली है. इस हादसे में 329 लोगों की मौत हुई थी. कनाडा ने इस सच को स्वीकार कर लिया है जिसे भारत चार दशकों से कहता आ रहा है. एयर इंडिया फ्लाइट 182 में हुए बम ब्लास्ट (कनिष्क विस्फोट) को लेकर 41 साल बाद आखिरकार कनाडा ने उस सच को स्वीकार कर लिया, जिसे भारत चार दशकों से कहता आ रहा है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "41 साल बाद कनाडा को आया होश, पहली बार कबूला सच, AIR INDIA 182 में हुए बम ब्लास्ट में खालिस्तानी का",
-          "summary": "कनाडा ने 41 साल बाद एयर इंडिया फ्लाइट 182 में हुए बम ब्लास्ट में खालिस्तानी का हाथ होने की बात स्वीकार कर ली है. इस हादसे में 329 लोगों की मौत हुई थी. कनाडा ने इस सच को स्वीकार कर लिया है जिसे भारत चार दशकों से कहता आ रहा है. एयर इंडिया फ्लाइट 182 में हुए बम ब्लास्ट (कनिष्क विस्फोट) को लेकर 41 साल बाद आखिरकार कनाडा ने उस सच को स्वीकार कर लिया, जिसे भारत चार दशकों से कहता आ रहा है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "केतन अग्रवाल हत्याकांड से चर्चा में आया लोहागढ़ का किला, छत्रपति शिवाजी महाराज से क्या कनेक्शन?",
-      "url": "https://www.abplive.com/news/india/lohagarh-fort-ketan-agarwal-murder-case-history-of-shivaji-maharaj-owned-fort-3150672",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-25T15:36:20+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/4e83f95deb2e62e2b32429a3ce4499d717823895987691324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पुणे के रियल स्टेट बिजनेसमैन केतन विशाल अग्रवाल की हत्या उनके ही होने वाली पत्नी और उसके प्रेमी ने की है. यह हत्या लोहागढ़ किले में हुई थी. दोनों आरोपी पुलिस हिरासत में हैं और जांच जारी है. पुणे के रियल स्टेट बिजनेसमैन केतन विशाल अग्रवाल हत्याकांड ने पूरे देश को तो सदमे में डाल दिया है, वहीं, इस केस के चलते अब एक जगह की चर्चा निकल पड़ी है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केतन अग्रवाल हत्याकांड से चर्चा में आया लोहागढ़ का किला, छत्रपति शिवाजी महाराज से क्या कनेक्शन?",
-          "summary": "पुणे के रियल स्टेट बिजनेसमैन केतन विशाल अग्रवाल की हत्या उनके ही होने वाली पत्नी और उसके प्रेमी ने की है. यह हत्या लोहागढ़ किले में हुई थी. दोनों आरोपी पुलिस हिरासत में हैं और जांच जारी है. पुणे के रियल स्टेट बिजनेसमैन केतन विशाल अग्रवाल हत्याकांड ने पूरे देश को तो सदमे में डाल दिया है, वहीं, इस केस के चलते अब एक जगह की चर्चा निकल पड़ी है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दुनिया का ऐसा देश जहां बिना वीजा के मिलती है एंट्री, बेरोकटोक घूमने के लिए मिलेंगे पूरे 30 दिन",
-      "url": "https://hindi.news18.com/world/rest-of-world-no-visa-required-this-hidden-pacific-island-welcomes-every-passport-holder-for-30-days-without-any-paperwork-10603129.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T15:16:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Micronesia-visa-free-country-2026-06-6ab26a858f45145dc5137df2df8fd86e-1200x800.jpg",
-      "summary": "माइक्रोनेशिया ने बिना वीजा के एंट्री देने की घोषणा की है. पर्यटकों को 30 दिनों तक घूमने की आजादी मिलती है. यह देश प्रशांत महासागर में स्थित है और पूरी दुनिया के पर्यटकों को आकर्षित कर रहा है. आज के दौर में जहां हर देश अपनी सीमाओं को सुरक्षित करने के लिए वीज़ा नियमों को कड़ा कर रहा है, वहीं प्रशांत महासागर की गोद में बसा एक बेहद खूबसूरत और गुमनाम द्वीप देश 'माइक्रोनेशिया' पूरी दुनिया के पर्यटकों को बिना किसी वीजा और कागजी झंझट के सीधे एंट्री दे रहा है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुनिया का ऐसा देश जहां बिना वीजा के मिलती है एंट्री, बेरोकटोक घूमने के लिए मिलेंगे पूरे 30 दिन",
-          "summary": "माइक्रोनेशिया ने बिना वीजा के एंट्री देने की घोषणा की है. पर्यटकों को 30 दिनों तक घूमने की आजादी मिलती है. यह देश प्रशांत महासागर में स्थित है और पूरी दुनिया के पर्यटकों को आकर्षित कर रहा है. आज के दौर में जहां हर देश अपनी सीमाओं को सुरक्षित करने के लिए वीज़ा नियमों को कड़ा कर रहा है, वहीं प्रशांत महासागर की गोद में बसा एक बेहद खूबसूरत और गुमनाम द्वीप देश 'माइक्रोनेशिया' पूरी दुनिया के पर्यटकों को बिना किसी वीजा और कागजी झंझट के सीधे एंट्री दे रहा है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पासपोर्ट मुद्दे पर विपक्ष ने केंद्र को घेरा, उठाए सवाल? पूछा-किस दस्तावेज पर करें यकीन",
-      "url": "https://www.abplive.com/news/india/opposition-corners-centre-over-passport-issue-raises-questions-about-citizenship-document-3150737",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-06-25T15:12:26+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/82ada23a2a527770f7c21e57baba236017823996792801324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "विपक्ष ने केंद्र सरकार को पासपोर्ट मुद्दे पर घेरा, सवाल उठाया कि भारतीय अपनी राष्ट्रीयता साबित करने के लिए किस दस्तावेज पर भरोसा करें. सरकार ने कहा कि पासपोर्ट और नागरिकता को लेकर कानूनी समझ दशकों से बनी हुई है, कोई नया फैसला नहीं है. पासपोर्ट नागरिकता का पक्का सबूत नहीं है. विदेश मंत्रालय के इस बयान देश में सियासत हो गई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पासपोर्ट मुद्दे पर विपक्ष ने केंद्र को घेरा, उठाए सवाल? पूछा-किस दस्तावेज पर करें यकीन",
-          "summary": "विपक्ष ने केंद्र सरकार को पासपोर्ट मुद्दे पर घेरा, सवाल उठाया कि भारतीय अपनी राष्ट्रीयता साबित करने के लिए किस दस्तावेज पर भरोसा करें. सरकार ने कहा कि पासपोर्ट और नागरिकता को लेकर कानूनी समझ दशकों से बनी हुई है, कोई नया फैसला नहीं है. पासपोर्ट नागरिकता का पक्का सबूत नहीं है. विदेश मंत्रालय के इस बयान देश में सियासत हो गई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "खामेनेई के अंतिम संस्कार में शामिल होंगे पीएम मोदी? ईरान के न्योते ने भारत के सामने खड़ी की बड़ी",
-      "url": "https://www.patrika.com/national-news/iran-invites-pm-modi-ayatollah-ali-khamenei-funeral-india-diplomatic-tightrope-20697259",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T14:21:55+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/PM-Narendra-Modi.png",
-      "summary": "ईरान ने प्रधानमंत्री नरेंद्र मोदी को अयातुल्ला अली खामेनेई के राजकीय अंतिम संस्कार में शामिल होने का निमंत्रण भेजा है। इससे नई दिल्ली के सामने एक बड़ी कूटनीतिक चुनौती खड़ी हो गई है। भारत को ईरान के साथ अपने ऐतिहासिक संबंधों और अमेरिका व इजरायल के साथ रणनीतिक रिश्तों के बीच संतुलन साधना होगा। Ali Khamenei Funeral India Invite: ईरान ने प्रधानमंत्री नरेंद्र मोदी को अपने दिवंगत सर्वोच्च नेता अयातुल्ला अली खामेनेई के राजकीय अंतिम संस्कार में शामिल होने का निमंत्रण भेजा है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खामेनेई के अंतिम संस्कार में शामिल होंगे पीएम मोदी? ईरान के न्योते ने भारत के सामने खड़ी की बड़ी",
-          "summary": "ईरान ने प्रधानमंत्री नरेंद्र मोदी को अयातुल्ला अली खामेनेई के राजकीय अंतिम संस्कार में शामिल होने का निमंत्रण भेजा है। इससे नई दिल्ली के सामने एक बड़ी कूटनीतिक चुनौती खड़ी हो गई है। भारत को ईरान के साथ अपने ऐतिहासिक संबंधों और अमेरिका व इजरायल के साथ रणनीतिक रिश्तों के बीच संतुलन साधना होगा। Ali Khamenei Funeral India Invite: ईरान ने प्रधानमंत्री नरेंद्र मोदी को अपने दिवंगत सर्वोच्च नेता अयातुल्ला अली खामेनेई के राजकीय अंतिम संस्कार में शामिल होने का निमंत्रण भेजा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘अमेरिकी फसल नहीं खरीदेंगे, हमारा पैसा लौटाओ’, ईरान ने डोनाल्ड ट्रंप-जेडी वेंस के दावे को कर दिया",
-      "url": "https://www.patrika.com/world-news/iran-reject-donald-trump-jd-vance-claim-over-america-frozen-assets-20697263",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-25T14:10:25+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Abbas-Araghchi-and-Donald-Trump.webp",
-      "summary": "ईरान ने अमेरिका के दावे को खारिज कर दिया कि वह ईरान के जब्त पैसों से अमेरिकी फसल खरीदकर तेहरान भेजेंगे. राष्ट्रपति डोनाल्ड ट्रंप और उपराष्ट्रपति जेडी वेंस ने स्विट्जरलैंड में ईरान से बातचीत के बाद यह बयान दिया था. अमेरिका के दावे को ईरान ने पूरी तरह से खारिज कर दिया है। राष्ट्रपपति डोनाल्ड ट्रंप और उपराष्ट्रपति जेडी वेंस स्विट्जरलैंड में ईरान से बातचीत के बाद खुले मंच पर यह बयान दिया था कि वह ईरान के जब्त पैसों से अमेरिकी फसल खरीदकर तेहरान भेजेंगे।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘अमेरिकी फसल नहीं खरीदेंगे, हमारा पैसा लौटाओ’, ईरान ने डोनाल्ड ट्रंप-जेडी वेंस के दावे को कर दिया",
-          "summary": "ईरान ने अमेरिका के दावे को खारिज कर दिया कि वह ईरान के जब्त पैसों से अमेरिकी फसल खरीदकर तेहरान भेजेंगे. राष्ट्रपति डोनाल्ड ट्रंप और उपराष्ट्रपति जेडी वेंस ने स्विट्जरलैंड में ईरान से बातचीत के बाद यह बयान दिया था. अमेरिका के दावे को ईरान ने पूरी तरह से खारिज कर दिया है। राष्ट्रपपति डोनाल्ड ट्रंप और उपराष्ट्रपति जेडी वेंस स्विट्जरलैंड में ईरान से बातचीत के बाद खुले मंच पर यह बयान दिया था कि वह ईरान के जब्त पैसों से अमेरिकी फसल खरीदकर तेहरान भेजेंगे।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत के पड़ोसी देश नेपाल को फांसने की फिराक में ड्रैगन, चीनी राजदूत ने पेश किया 4-सूत्रीय प्लान",
-      "url": "https://www.abplive.com/news/world/chinese-ambassador-to-nepal-presents-4-point-plans-to-pm-balendra-shah-over-increase-support-via-bri-project-3150602",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-06-25T14:06:42+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/25/8e003890cf14fa6e4b4e69a87bac6b1617823837072611126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "चीन ने नेपाल के साथ अपने संबंधों को मजबूत करने के लिए एक चार सूत्रीय रोडमैप पेश किया है. चीन का यह कदम भारत के पड़ोसी देश नेपाल को अपने प्रभाव में लाने की कोशिश के रूप में देखा जा रहा है, जिससे क्षेत्र में उसकी पैठ बढ़ सके. दुनिया के सबसे शक्तिशाली देश अमेरिका को चुनौती देने वाला चीन दक्षिण एशिया के कई देशों में अपनी पैठ बनाने के लिए कूटनीति और रणनीति का इस्तेमाल करके जाल बुनता आ रहा है, जिसमें अब तक कई देश फंस चुके हैं और अब चीन भारत के पड़ोसी देश नेपाल को इस जाल में फंसाने की फिराक में लगा हुआ है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत के पड़ोसी देश नेपाल को फांसने की फिराक में ड्रैगन, चीनी राजदूत ने पेश किया 4-सूत्रीय प्लान",
-          "summary": "चीन ने नेपाल के साथ अपने संबंधों को मजबूत करने के लिए एक चार सूत्रीय रोडमैप पेश किया है. चीन का यह कदम भारत के पड़ोसी देश नेपाल को अपने प्रभाव में लाने की कोशिश के रूप में देखा जा रहा है, जिससे क्षेत्र में उसकी पैठ बढ़ सके. दुनिया के सबसे शक्तिशाली देश अमेरिका को चुनौती देने वाला चीन दक्षिण एशिया के कई देशों में अपनी पैठ बनाने के लिए कूटनीति और रणनीति का इस्तेमाल करके जाल बुनता आ रहा है, जिसमें अब तक कई देश फंस चुके हैं और अब चीन भारत के पड़ोसी देश नेपाल को इस जाल में फंसाने की फिराक में लगा हुआ है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "खत्म हो जाएगा OPEC! UAE के बाद अब इराक छोड़ेगा? बादशाहत जाने से डर से कांप गया सऊदी अरब",
-      "url": "https://hindi.news18.com/world/middle-east-opec-collapse-iraq-threatens-to-exit-oil-cartel-after-uae-leaving-saudi-arabia-panicked-as-crude-oil-prices-tumble-10603026.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-25T14:05:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/OPEC-Collapse-2026-06-befde6d2cec563f4615622ef792ed963-1200x800.jpg",
-      "summary": "इराक ने ओपेक छोड़ने की धमकी दी है और मांग की है कि उसका तेल उत्पादन कोटा तुरंत बढ़ाया जाए। इससे सऊदी अरब की बादशाहत खतरे में पड़ गई है। इराक ईरान युद्ध के चलते आर्थिक तंगी झेल रहा है। वैश्विक तेल बाजार के सबसे बड़े संगठन OPEC के भीतर यूएई (UAE) के बाद अब इराक ने भी खुली बगावत का बिगुल फूंक दिया है, जिससे सऊदी अरब की बादशाहत खतरे में पड़ गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खत्म हो जाएगा OPEC! UAE के बाद अब इराक छोड़ेगा? बादशाहत जाने से डर से कांप गया सऊदी अरब",
-          "summary": "इराक ने ओपेक छोड़ने की धमकी दी है और मांग की है कि उसका तेल उत्पादन कोटा तुरंत बढ़ाया जाए। इससे सऊदी अरब की बादशाहत खतरे में पड़ गई है। इराक ईरान युद्ध के चलते आर्थिक तंगी झेल रहा है। वैश्विक तेल बाजार के सबसे बड़े संगठन OPEC के भीतर यूएई (UAE) के बाद अब इराक ने भी खुली बगावत का बिगुल फूंक दिया है, जिससे सऊदी अरब की बादशाहत खतरे में पड़ गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
