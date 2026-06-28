@@ -1,6 +1,92 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** June 28, 2026 06:28 IST
+**Updated:** June 28, 2026 07:21 IST
+
+---
+
+## Asia-Pacific
+
+### [Myanmar’s New Administration: Military Consolidation, Not Transition](https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition)
+*International Crisis Group* - Wednesday, June  (iso: Wednesday, June 3, 2026 - 00:00)
+<!-- image: https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Five years after a coup ousted Myanmar's elected civilian government, Min Aung Hla Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.
+
+### [Bangladesh’s Rahman looks to China to squeeze India on the Teesta](https://asiatimes.com/2026/06/bangladeshs-rahman-looks-to-china-to-squeeze-india-on-the-teesta/)
+*Asia Times* - Jun 27, 12:06 IST (iso: 2026-06-27T06:36:33+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/China-Bangladesh-Xi-Jinping-Tarique-Rahman.jpg -->
+
+Bangladesh Prime Minister Tarique Rahman completed a four-day official visit to China. Bangladesh Prime Minister Tarique Rahman’s first four-day official visit to China yielded a predictable flurry of agreements spanning trade and green technology. But its true significance lies in the elevation of a single, long-stalled infrastructure initiative: the Teesta River Comprehensive Management and Restoration Project. Once confined to the margins of diplomatic speculation, the project ha.
+
+### [589 confirmed dead so far as international rescue teams arrive – as it happened](https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates)
+*The Guardian* - Jun 26, 20:30 IST (iso: 2026-06-26T15:00:07+00:00)
+<!-- image: https://i.guim.co.uk/img/media/f30f0d1322a9d41d204ddcb47c7882673de4e552/328_0_4920_3936/master/4920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fbfde5ecbab09bd2da0bf71421db6968 -->
+
+Search and rescue efforts continue in Macuto, La Guaira state, Venezuela. “We hope to rescue as many living people as possible’, says the acting president, Delcy Rodríguez, but authorities fear the death toll will be in the thousandsVenezuela’s acting president Delcy Rodríguez visited Macuto, La Guaira state, yesterday to assess the level of damage and observe search and rescue efforts, according to local media.
+
+### [When ‘Made in India’ really means ‘Made in China’](https://asiatimes.com/2026/06/when-made-in-india-really-means-made-in-china/)
+*Asia Times* - Jun 26, 14:31 IST (iso: 2026-06-26T09:01:41+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/India-Pharma-Generic-Drugs.jpg -->
+
+India's pharmaceutical industry, a major global generic drug producer, faces significant reliance on China for active pharmaceutical ingredients. A June 2026 NITI Aayog government report detailed this vulnerability. India’s pharmaceutical industry is a significant global player. It produces about 20% of the world’s generic drugs by volume and has supported major vaccine efforts, providing affordable medicine worldwide. These results are real and contribute to India’s sense of self-sufficiency.
+
+---
+
+## Middle East & Africa
+
+### [Issues of War and Peace Gain Top Billing in Armenia’s Election](https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election)
+*International Crisis Group* - Tuesday, June 2, (iso: Tuesday, June 2, 2026 - 16:33)
+<!-- image: https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Armenians will vote in a general election on 7 June. Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.
+
+### [Tiny Djibouti, and Its Prime Real Estate](https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate)
+*International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 15:42)
+<!-- image: https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Samson Abebe Bezabeh discussed Djibouti's history and politics on The Horn This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea. Tiny Djibouti, and Its Prime Real Estate.
+
+### [A New Player in the Quest for a U.S.-Iran Breakthrough](https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough)
+*International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 10:18)
+<!-- image: https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Pakistan began conveying proposals to end the war soon after the United States and Israel started bombing Iran on 28 February. Islamabad took on the mediator's role despite the risks involved. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task.
+
+### [A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans](https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans)
+*International Crisis Group* - Friday, June 5,  (iso: Friday, June 5, 2026 - 10:38)
+<!-- image: https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+The European Union's upcoming seven-year budget could reduce funding for conflict prevention and The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.
+
+### [War on Iran](https://www.thehindu.com/news/international/war-on-iran-the-story-of-a-shipwrecked-hegemon/article71155421.ece)
+*The Hindu (International)* - Jun 27, 23:31 IST (iso: 2026-06-27T18:01:01+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/8kk7bh/article71155398.ece/alternates/LANDSCAPE_1200/2026-06-16T062055Z_1617149998_RC2QULAYQ4I9_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG -->
+
+A war launched by the United States and Israel against Iran has reached a fragile pause. A The war the U. S. and Israel launched has come to a fragile pause with a preliminary agreement between Washington and Tehran, but it has already diminished America’s presence in the region, prompting Gulf countries to seek a new modus vivendi with Tehran, while Israel, isolated and angry, is clinging on to its Lebanon card.
+
+### [Iran's Hard-Line Preachers Split Over Deal With Washington](https://www.rferl.org/a/iran-eulogists-deal-us-hardliners-split/33789530.html)
+*Radio Free Europe / Liberty* - Jun 26, 22:33 IST (iso: 2026-06-26T17:03:28+00:00)
+<!-- image: https://gdb.rferl.org/10fe6941-6f01-49b1-b037-aa40c24d98d0_cx0_cy6_cw0_w1200_h630.jpg -->
+
+Iran's hard-line religious establishments and street gatherings are divided over a The debate over Iran's potential agreement with the United States has spilled beyond the country's political class and into the religious establishments and street gatherings that have long served as the Islamic republic's most loyal base of support. Iran's Hard-Line Preachers Split Over Deal With Washington.
+
+### [Bread Prices Have Doubled As Iran Faces Crushing Inflation](https://www.rferl.org/a/iran-bread-inflation-consumer-price-war-us-israel/33789622.html)
+*Radio Free Europe / Liberty* - Jun 26, 22:01 IST (iso: 2026-06-26T16:31:56+00:00)
+<!-- image: https://gdb.rferl.org/713226ad-0b43-4537-7a98-08decad17715_w1200_h630.jpg -->
+
+Bread prices doubled in Iran. Consumers report difficulty affording the staple food. Bakers face rising costs for rent and utilities, trying to shield customers from the full impact. Consumers in Iran report they are struggling to afford a staple foodstuff: bread. One listener to RFE/RL's Radio Farda calls prices "horrific," while a baker explains he is trying to shield his customers from his own rocketing expenses for rent and utilities.
+
+### [Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in](https://news.un.org/feed/view/en/story/2026/06/1167823)
+*UN News* - Jun 26, 17:30 IST (iso: 2026-06-26T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-02-2026-UNICEF-Haiti-04.jpg/image770x420cropped.jpg -->
+
+Clashes between armed groups displaced over 2,600 people in Haiti's More than 2,600 people were displaced in the Artibonite department of Haiti following clashes between armed groups last week as the humanitarian situation continues to worsen, according to the UN’s Office for the Coordination of Humanitarian Assistance (OCHA). Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in.
+
+### [Outrage as woman jailed for three years after criticising Somali government online](https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement)
+*The Guardian* - Jun 26, 15:30 IST (iso: 2026-06-26T10:00:14+00:00)
+<!-- image: https://i.guim.co.uk/img/media/7561cd7fe9b02aac8b9475ba07ba8aac6b01307f/0_334_1600_1279/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c543c3213491996abcb3fd04f80ba0b7 -->
+
+Sadia Moalim Ali, a 27-year-old rickshaw Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groupsA rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a case that has caught the public’s attention and provoked outrage in the country. Sadia Moalim Ali, a 27-year-old nursing graduate, was originally charged with insultin.
 
 ---
 
@@ -29,80 +115,6 @@ UN High Commissioner for Human Rights Volker Türk called for investigations int
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/25-06-2026-UNOCHA-Venezuela-earthquake-01.jpg/image770x420cropped.jpg -->
 
 Aid agencies reported massive needs across Venezuela following a double earthquake disaster. Aid agencies on Friday highlighted massive needs across Venezuela caused by a double earthquake disaster that has killed at least 235 people so far, with search and rescue for people trapped under the rubble still the top priority. ‘People still terrified to re-enter what were their homes’.
-
----
-
-## Middle East & Africa
-
-### [War on Iran](https://www.thehindu.com/news/international/war-on-iran-the-story-of-a-shipwrecked-hegemon/article71155421.ece)
-*The Hindu (International)* - Jun 27, 23:31 IST (iso: 2026-06-27T18:01:01+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/8kk7bh/article71155398.ece/alternates/LANDSCAPE_1200/2026-06-16T062055Z_1617149998_RC2QULAYQ4I9_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG -->
-
-A war launched by the United States and Israel against Iran has reached a fragile pause. A The war the U. S. and Israel launched has come to a fragile pause with a preliminary agreement between Washington and Tehran, but it has already diminished America’s presence in the region, prompting Gulf countries to seek a new modus vivendi with Tehran, while Israel, isolated and angry, is clinging on to its Lebanon card.
-
-### [Iran's Hard-Line Preachers Split Over Deal With Washington](https://www.rferl.org/a/iran-eulogists-deal-us-hardliners-split/33789530.html)
-*Radio Free Europe / Liberty* - Jun 26, 22:33 IST (iso: 2026-06-26T17:03:28+00:00)
-<!-- image: https://gdb.rferl.org/10fe6941-6f01-49b1-b037-aa40c24d98d0_cx0_cy6_cw0_w1200_h630.jpg -->
-
-Iran's hard-line religious establishments and street gatherings are divided over a The debate over Iran's potential agreement with the United States has spilled beyond the country's political class and into the religious establishments and street gatherings that have long served as the Islamic republic's most loyal base of support. Iran's Hard-Line Preachers Split Over Deal With Washington.
-
-### [Bread Prices Have Doubled As Iran Faces Crushing Inflation](https://www.rferl.org/a/iran-bread-inflation-consumer-price-war-us-israel/33789622.html)
-*Radio Free Europe / Liberty* - Jun 26, 22:01 IST (iso: 2026-06-26T16:31:56+00:00)
-<!-- image: https://gdb.rferl.org/713226ad-0b43-4537-7a98-08decad17715_w1200_h630.jpg -->
-
-Bread prices doubled in Iran. Consumers report difficulty affording the staple food. Bakers face rising costs for rent and utilities, trying to shield customers from the full impact. Consumers in Iran report they are struggling to afford a staple foodstuff: bread. One listener to RFE/RL's Radio Farda calls prices "horrific," while a baker explains he is trying to shield his customers from his own rocketing expenses for rent and utilities.
-
-### [‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK](https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk)
-*The Guardian* - Jun 26, 17:33 IST (iso: 2026-06-26T12:03:25+00:00)
-<!-- image: https://i.guim.co.uk/img/media/9987cc89c3e8425b10872df6f3cdf9386839b139/765_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b659668cd5f4596280f81c8ed8b53ba0 -->
-
-Cape Verde's football team is competing in the World Cup, achieving draws against Spain Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape Verde. Now, to her great delight, the tiny African island nation is finally centre stage.“Seeing our country shown across the world at the World Cup makes me feel inc.
-
-### [Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in](https://news.un.org/feed/view/en/story/2026/06/1167823)
-*UN News* - Jun 26, 17:30 IST (iso: 2026-06-26T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-02-2026-UNICEF-Haiti-04.jpg/image770x420cropped.jpg -->
-
-Clashes between armed groups displaced over 2,600 people in Haiti's More than 2,600 people were displaced in the Artibonite department of Haiti following clashes between armed groups last week as the humanitarian situation continues to worsen, according to the UN’s Office for the Coordination of Humanitarian Assistance (OCHA). Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in.
-
-### [Outrage as woman jailed for three years after criticising Somali government online](https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement)
-*The Guardian* - Jun 26, 15:30 IST (iso: 2026-06-26T10:00:14+00:00)
-<!-- image: https://i.guim.co.uk/img/media/7561cd7fe9b02aac8b9475ba07ba8aac6b01307f/0_334_1600_1279/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c543c3213491996abcb3fd04f80ba0b7 -->
-
-Sadia Moalim Ali, a 27-year-old rickshaw Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groupsA rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a case that has caught the public’s attention and provoked outrage in the country. Sadia Moalim Ali, a 27-year-old nursing graduate, was originally charged with insultin.
-
----
-
-## Asia-Pacific
-
-### [Chinese dissident who fled by dinghy to South Korea arrives in Canada, his friend says](https://www.thehindu.com/news/international/chinese-dissident-who-fled-by-dinghy-to-south-korea-arrives-in-canada-his-friend-says/article71154807.ece)
-*The Hindu (International)* - Jun 27, 20:02 IST (iso: 2026-06-27T14:32:41+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/hjn9g2/article71154894.ece/alternates/LANDSCAPE_1200/China_Dissident_Arrives_Canada_17388.jpg -->
-
-Chinese dissident Dong Guangping arrived in Canada. Dong Guangping was aboard a 3.3-meter inflatable boat in the waters off a western South Korean island in May when he was detained by South Korea’s coast guard for allegedly violating the country’s immigration law. Chinese dissident who fled by dinghy to South Korea arrives in Canada, his friend says.
-
-### [Bangladesh’s Rahman looks to China to squeeze India on the Teesta](https://asiatimes.com/2026/06/bangladeshs-rahman-looks-to-china-to-squeeze-india-on-the-teesta/)
-*Asia Times* - Jun 27, 12:06 IST (iso: 2026-06-27T06:36:33+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/China-Bangladesh-Xi-Jinping-Tarique-Rahman.jpg -->
-
-Bangladesh Prime Minister Tarique Rahman completed a four-day official visit to China. Bangladesh Prime Minister Tarique Rahman’s first four-day official visit to China yielded a predictable flurry of agreements spanning trade and green technology. But its true significance lies in the elevation of a single, long-stalled infrastructure initiative: the Teesta River Comprehensive Management and Restoration Project. Once confined to the margins of diplomatic speculation, the project ha.
-
-### [589 confirmed dead so far as international rescue teams arrive – as it happened](https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates)
-*The Guardian* - Jun 26, 20:30 IST (iso: 2026-06-26T15:00:07+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f30f0d1322a9d41d204ddcb47c7882673de4e552/328_0_4920_3936/master/4920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fbfde5ecbab09bd2da0bf71421db6968 -->
-
-Search and rescue efforts continue in Macuto, La Guaira state, Venezuela. “We hope to rescue as many living people as possible’, says the acting president, Delcy Rodríguez, but authorities fear the death toll will be in the thousandsVenezuela’s acting president Delcy Rodríguez visited Macuto, La Guaira state, yesterday to assess the level of damage and observe search and rescue efforts, according to local media.
-
-### [When ‘Made in India’ really means ‘Made in China’](https://asiatimes.com/2026/06/when-made-in-india-really-means-made-in-china/)
-*Asia Times* - Jun 26, 14:31 IST (iso: 2026-06-26T09:01:41+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/India-Pharma-Generic-Drugs.jpg -->
-
-India's pharmaceutical industry, a major global generic drug producer, faces significant reliance on China for active pharmaceutical ingredients. A June 2026 NITI Aayog government report detailed this vulnerability. India’s pharmaceutical industry is a significant global player. It produces about 20% of the world’s generic drugs by volume and has supported major vaccine efforts, providing affordable medicine worldwide. These results are real and contribute to India’s sense of self-sufficiency.
-
-### [New evidence casts doubt on RFK Jr testimony before Senate](https://www.theguardian.com/us-news/2026/jun/25/rfk-jr-senate-testimony-samoa-visit)
-*The Guardian* - Jun 26, 01:01 IST (iso: 2026-06-25T19:31:43+00:00)
-<!-- image: https://i.guim.co.uk/img/media/0d21fa4fc7c709efa612ee8b908850b47e3b7b84/70_0_5859_4688/master/5859.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c70390588feefa673c773e3892ce22fb -->
-
-New evidence suggests Robert F Kennedy Jr's 2019 Samoa visit was Kennedy repeatedly said 2019 Samoa trip had ‘nothing to do with vaccines’. An email from his then colleague says they were on a vaccine-related ‘mission’New evidence has emerged that Robert F Kennedy Jr was on a vaccine-related “mission” when he visited Samoa ahead of a deadly measles outbreak in 2019, raising further questions about whether the US health secretary lied to the US Senate when he sa.
 
 ---
 
@@ -138,12 +150,6 @@ Moscow is constructing a new missile defense complex. Moscow is building a new m
 
 Ukrainian drone strikes hit energy facilities in Sevastopol, Russian-occupied Crimea, causing power Ukrainian drone strikes are devastating Russian communities. The city of Sevastopol, the largest in Russian-occupied Crimea, is the latest community to be hit, losing power as Ukrainian drones strike energy facilities in the region. Given the immense importance attached to Crimea by both Russian president Vladimir Putin and Ukrainians.
 
-### [Carney announces contest to revamp uninhabitable Canadian PM residence](https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence)
-*The Guardian* - Jun 26, 21:39 IST (iso: 2026-06-26T16:09:00+00:00)
-<!-- image: https://i.guim.co.uk/img/media/925b1ff361ee6a7c5e066e694eddb400577b62fe/0_0_3927_3142/master/3927.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=acc4c5611ee82c4593cc166d42cae96b -->
-
-Mark Carney announced a design competition to renovate 24 Sussex Drive, Canada' Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty10 Downing Street has two things: mice and a chief mouser. For more than a decade, an officially recognized feline has kept rodent infestation in the British prime minister’s residence to a minimum. Over a similar period, the official residence of Canada’s prime minister has seen an unch.
-
 ### [In Viral Post, Russian Veteran Warns Putin Of Mutiny, Then Walks Back Threat](https://www.rferl.org/a/war-viral-post-putin-rebellion-threat-ukraine/33789561.html)
 *Radio Free Europe / Liberty* - Jun 26, 21:06 IST (iso: 2026-06-26T15:36:14+00:00)
 <!-- image: https://gdb.rferl.org/e3d4eccd-84a3-4015-1256-08decad58b60_cx14_cy2_cw85_w1200_h630.jpg -->
@@ -159,12 +165,6 @@ ASEAN held a summit with Russia, signaling its intent to maintain a multipolar r
 ---
 
 ## Global / Multilateral
-
-### [Petty, punishing walls preventing South Asian integration](https://asiatimes.com/2026/06/petty-punishing-walls-preventing-south-asian-integration/)
-*Asia Times* - Jun 27, 11:10 IST (iso: 2026-06-27T05:40:19+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/India-Pakistan-Border-Wall.jpg -->
-
-South Asia remains one of the world's least connected regions for cross-border movement South Asia is home to nearly a quarter of the world’s population, yet it is one of the least connected regions in terms of people actually moving across borders. Centuries of shared history, culture and language haven’t translated into easy travel between neighbors. Instead, visas, political tensions and diplomatic uncertainty still decide who gets to [] The post Petty, punishing walls preventing.
 
 ### [UN evacuates 2,500 seafarers before attack freezes rescue operation](https://news.un.org/feed/view/en/story/2026/06/1167818)
 *UN News* - Jun 26, 17:30 IST (iso: 2026-06-26T12:00:00+00:00)
