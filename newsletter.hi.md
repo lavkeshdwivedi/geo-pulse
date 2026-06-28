@@ -1,19 +1,59 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** June 28, 2026 06:28 IST
+**अपडेट:** June 28, 2026 07:21 IST
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [ईरान ने बहरीन-कुवैत पर मिसाइल ड्रोन से किया हमला, अमेरिकी बेस को बना रहा निशाना](https://hindi.news18.com/world/middle-east-us-iran-war-live-news-ceasefire-broken-hormuz-tanker-attack-donald-trump-iran-mojtaba-khamenei-livenews-10608855.html)
+*News18 Hindi (World)* - Jun 28, 07:11 IST (iso: 2026-06-28T01:41:08+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/us-pakistan-2026-06-c4b77fbe903dbfa14517fbc9702ce25e-1200x800.jpg -->
+
+होर्मुज जलडमरूमध्य में एक तेल टैंकर पर हमले के बाद अमेरिका और ईरान के बीच सैन्य टकराव फिर शुरू Iran US War Live: होर्मुज जलडमरूमध्य में एक तेल टैंकर पर हमले के बाद अमेरिका और ईरान के बीच दोबारा सैन्य टकराव शुरू हो गया है. अमेरिका ने ईरानी सैन्य ठिकानों पर हवाई हमले किए, जबकि ईरान ने अमेरिकी ठिकानों और जहाजों पर जवाबी कार्रवाई का दावा किया.
+
+### [पुर्तगाल ने राउंड ऑफ 32 में बनाई जगह, कोलंबिया के खिलाफ मैच गोलरहित ड्रॉ](https://www.amarujala.com/sports/football/colombia-vs-portugal-live-updates-dr-congo-vs-uzbekistan-live-fifa-world-cup-2026-today-football-match-result-2026-06-28)
+*Amar Ujala Breaking* - Jun 28, 07:02 IST (iso: 2026-06-28T01:32:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/24/cristiano-ronaldo-portugal-vs-uzbekistan-fifa-world-cup-2026-ronaldo-record-portugal-football-te_ac86bf21cb8d2274172f6c8d43f74097.jpeg?w=1200&dpr=1.0 -->
+
+पुर्तगाल और कोलंबिया के बीच फीफा विश्व कप ग्रुप K मुकाबले में हाफटाइम तक कोई गोल नहीं हुआ नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। फीफा विश्वकप में फिलहाल ग्रुप K के दो मुकाबले जारी हैं। पुर्तगाल के सामना कोलंबिया से है, वहीं कांगो का सामना उज्बेकिस्तान से है। पुर्तगाल-कोलंबिया मैच में हाफटाइम तक नहीं हो सका कोई गोल; कुल 24 अटैम्प्ट्स हुए।
+
+### [अमेरिका ने लगातार दूसरे दिन किया ईरान पर हमला, ट्रंप की धमकी- धरती से मिटा देंगे वजूद](https://hindi.news18.com/world/middle-east-us-iran-war-us-live-news-airstrikes-iran-donald-trump-threat-islamic-republic-hormuz-latest-news-10608812.html)
+*News18 Hindi (World)* - Jun 28, 05:57 IST (iso: 2026-06-28T00:27:37+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/iran-hamla-2026-06-2fbc5ed3b8025c7ca81a774702bce93e-1200x800.jpg -->
+
+अमेरिका ने लगातार दूसरे दिन ईरान के सैन्य ठिकानों पर हवाई हमले किए। US Attack On Iran: अमेरिका ने लगातार दूसरे दिन ईरान के सैन्य ठिकानों पर हवाई हमला किया है. अमेरिकी सेना ने मिसाइल, ड्रोन स्टोरेज और समुद्र तट के करीब बने रडार साइटों को निशाना बनाया. राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अगर ईरान सीजफायर तोड़ता रहा तो अमेरिका सैन्य कार्रवाई और तेज करेगा.
+
+### [ईरान-अमेरिका तनाव फिर गहराया, ईरान पर लगातार दूसरे दिन अमेरिकी हमला, युद्धविराम पर उठे सवाल](https://www.patrika.com/world-news/us-strikes-iran-second-day-centcom-strait-of-hormuz-kiku-tanker-20702666)
+*Patrika (World)* - Jun 28, 05:47 IST (iso: 2026-06-28T00:17:21+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Strait-of-Hormuz.webp -->
+
+अमेरिका ने लगातार दूसरे दिन ईरान पर सैन्य हमले किए। मीडिया रिपोर्ट्स के अनुसार अमेरिकी सेना ने कहा कि यह कार्रवाई एक कमर्शियल तेल टैंकर पर हुए कथित हमले के जवाब में की गई है। इन हमलों के बाद 17 जून को हुए क्षेत्रीय युद्धविराम समझौते पर भी संकट के बादल गहराते नजर आ रहे हैं। अमेरिकी सेंट्रल कमांड (CENTCOM) ने बयान जारी कर कहा कि यह सैन्य कार्रवाई राष्ट्रपति के निर्देश पर की गई।
+
+### [अमेरिका ने ईरान के केश्म द्वीप में किए हमले; गाजा में इस्राइली गोलीबारी में दो की मौत](https://www.amarujala.com/live/world/west-asia-live-iran-us-attacks-israel-lebanon-strait-of-hormuz-2026-06-28)
+*Amar Ujala World* - Jun 28, 04:59 IST (iso: 2026-06-27T23:29:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/27/us-iran-war-fear-of-iranian-attacks-us-troops-withdraw-from-military-bases-hide-in-hotels-find-o_4579c2d789559e9fb89250ade3424f50.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका ने ईरान के केश्म द्वीप में हमले किए। West Asia LIVE: अमेरिका ने ईरान के केश्म द्वीप में किए हमले; गाजा में इस्राइली गोलीबारी में दो की मौत।
 
 ---
 
 ## दुनिया
 
-### [केतन की हत्या से पहले सिया ने किया धक्का देने का अभ्यास! प्रेमी चेतन के साथ नए वीडियो में क्या?](https://www.amarujala.com/india-news/pune-murder-siya-practiced-pushing-before-ketan-s-murder-what-is-in-new-video-with-her-boyfriend-chetan-2026-06-28)
-*Amar Ujala Breaking* - Jun 28, 12:19 IST (iso: 2026-06-28T06:49:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/pune-murder-siya-practiced-pushing-before-ketans-murder-what-is-in-new-video-with-her-boyfriend-c_751fb25ef8f36dc93151990d483ed6ee.jpeg?w=1200&dpr=1.0 -->
+### [सरकार-संघ के चौतरफा दबाव में हुआ इस्तीफा, बजरंग लाल बागड़ा ले सकते हैं चंपत की जगह](https://www.amarujala.com/india-news/ram-mandir-resignation-amidst-mounting-pressure-from-govt-sangh-bajrang-lal-bagra-may-replace-champat-2026-06-28)
+*Amar Ujala National* - Jun 28, 06:58 IST (iso: 2026-06-28T01:28:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/26/ram-mandir_0226ce632b17c678e5b184c21b0e5489.jpeg?w=1200&dpr=1.0 -->
 
-पुणे में केतन की हत्या से पहले सिया ने धक्का देने का अभ्यास किया था। - Pune Murder: केतन की हत्या से पहले सिया ने किया धक्का देने का अभ्यास! प्रेमी चेतन के साथ नए वीडियो में क्या?
+राम मंदिर ट्रस्ट के महासचिव चंपत राय ने अपने पद से इस्तीफा दे दिया है. सरकार-संघ के चौतरफा दबाव में हुआ इस्तीफा, बजरंग लाल बागड़ा ले सकते हैं चंपत की जगह।
+
+### [एक लाख रुपये का इनामी शूटर सरबजीत ढेर, दरोगा और सिपाही घायल](https://www.amarujala.com/uttar-pradesh/pilibhit/murder-accused-killed-in-police-encounter-in-pilibhit-2026-06-28)
+*Amar Ujala Breaking* - Jun 28, 06:16 IST (iso: 2026-06-28T00:46:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/encounter_75aa9cacd92e38b98704ad328b7caa5b.jpeg?w=1200&dpr=1.0 -->
+
+पीलीभीत के बिलसंडा में एक लाख रुपये का इनामी शूटर सरबजीत पुलिस मुठभेड़ में मारा गया। वह कपड़ा व्यापारी पप्पू गुप्ता की हत्या में वांछित था। मुठभेड़ शनिवार देर रात हुई जिसमें एक दरोगा और एक सिपाही घायल हो गए। पीलीभीत के बिलसंडा में कपड़ा व्यापारी पप्पू गुप्ता की हत्या के मामले में था वांछित, शनिवार देर रात हुई मुठभेड़ में मारा गया।
 
 ### [क्या है राम मंदिर तीर्थ क्षेत्र ट्रस्ट, कब-किसने-कैसे किया गठन; कौन बना सदस्य, विवाद किन चेहरों पर?](https://www.amarujala.com/india-news/shri-ram-janmbhoomi-teerth-kshetra-trust-working-ayodhya-ram-mandir-trustee-champat-rai-anil-mishra-resign-2026-06-28)
-*Amar Ujala National* - Jun 28, 06:01 IST (iso: 2026-06-28T00:31:02+00:00)
+*Amar Ujala Breaking* - Jun 28, 06:01 IST (iso: 2026-06-28T00:31:02+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/ram-mandir-ram-temple-ayodhya-ram-janmbhoomi-teerth-kshetra-trust_6ba2d64999c9eabe0b510e8a6dd841ac.jpeg?w=1200&dpr=1.0 -->
 
 श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के महासचिव चंपत राय और ट्रस्टी डॉ. अनिल मिश्रा ने इस्तीफा दे दिया है। यह घटनाक्रम राम मंदिर चढ़ावा चोरी मामले में दर्ज एफआईआर के बाद सामने आया है। राम मंदिर चढ़ावा चोरी मामले में दर्ज एफआईआर के बाद बड़ा घटनाक्रम सामने आया है। अनिल मिश्रा ने अपने-अपने पदों से इस्तीफा दे दिया है। क्या है राम मंदिर तीर्थ क्षेत्र ट्रस्ट, कब-किसने-कैसे किया गठन; कौन बना सदस्य, विवाद किन चेहरों पर?
@@ -42,61 +82,15 @@ A weather forecast for 28 June 2026 was released. It provided details on expecte
 
 यूरोप में रिकॉर्डतोड़ हीटवेव दर्ज की गई है. वैज्ञानिकों ने कहा कि महाद्वीप की जलवायु तेजी से बदल रही है. यूरोप में रिकॉर्डतोड़ हीटवेव: तेजी से बदल रही महाद्वीप की जलवायु, बदले मौसम पर वैज्ञानिकों ने क्या कहा?
 
-### [किसी की 50 तो किसी की 100 गुना बढ़ी हैसियत, एसआईटी जांच में चढ़ावा गबन के पुख्ता सबूत](https://www.amarujala.com/lucknow/ram-mandir-donation-thieves-net-worth-multiplied-50-to-100-times-for-some-2026-06-28)
-*Amar Ujala Breaking* - Jun 28, 03:35 IST (iso: 2026-06-27T22:05:45+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/1_edb69d4db28d5485598db2eb9b91ef1b.jpeg?w=1200&dpr=1.0 -->
-
-राम मंदिर चढ़ावा चोरी मामले में एसआईटी ने जांच पूरी की है। राम मंदिर चढ़ावा चोरी मामले में एसआईटी ने आरोपियों की संपत्तियों समेत अन्य रहन-सहन संबंधी ब्योरा जुटाया है। किसी की 50 तो किसी की 100 गुना बढ़ी हैसियत, एसआईटी जांच में चढ़ावा गबन के पुख्ता सबूत।
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [ईरान पर हो गया अमेरिका का हमला, ईरानी सेना ने शुरू किया जवाबी अटैक, बहरीन-कुवैत बने निशाना](https://hindi.news18.com/world/middle-east-us-iran-war-live-news-ceasefire-broken-hormuz-tanker-attack-donald-trump-iran-mojtaba-khamenei-livenews-10608855.html)
-*News18 Hindi (World)* - Jun 28, 06:24 IST (iso: 2026-06-28T00:54:29+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/us-pakistan-2026-06-c4b77fbe903dbfa14517fbc9702ce25e-1200x800.jpg -->
-
-होर्मुज जलडमरूमध्य में एक तेल टैंकर पर हमले के बाद अमेरिका और ईरान के बीच सैन्य टकराव फिर शुरू Iran US War Live: होर्मुज जलडमरूमध्य में एक तेल टैंकर पर हमले के बाद अमेरिका और ईरान के बीच दोबारा सैन्य टकराव शुरू हो गया है. अमेरिका ने ईरानी सैन्य ठिकानों पर हवाई हमले किए, जबकि ईरान ने अमेरिकी ठिकानों और जहाजों पर जवाबी कार्रवाई का दावा किया.
-
-### [अमेरिका ने लगातार दूसरे दिन किया ईरान पर हमला, ट्रंप की धमकी- धरती से मिटा देंगे वजूद](https://hindi.news18.com/world/middle-east-us-iran-war-us-live-news-airstrikes-iran-donald-trump-threat-islamic-republic-hormuz-latest-news-10608812.html)
-*News18 Hindi (World)* - Jun 28, 05:57 IST (iso: 2026-06-28T00:27:37+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/iran-hamla-2026-06-2fbc5ed3b8025c7ca81a774702bce93e-1200x800.jpg -->
-
-अमेरिका ने लगातार दूसरे दिन ईरान के सैन्य ठिकानों पर हवाई हमले किए। US Attack On Iran: अमेरिका ने लगातार दूसरे दिन ईरान के सैन्य ठिकानों पर हवाई हमला किया है. अमेरिकी सेना ने मिसाइल, ड्रोन स्टोरेज और समुद्र तट के करीब बने रडार साइटों को निशाना बनाया. राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अगर ईरान सीजफायर तोड़ता रहा तो अमेरिका सैन्य कार्रवाई और तेज करेगा.
-
-### [पुर्तगाल-कोलंबिया मैच में हाफटाइम तक नहीं हो सका कोई गोल; कुल 24 अटैम्प्ट्स हुए](https://www.amarujala.com/sports/football/colombia-vs-portugal-live-updates-dr-congo-vs-uzbekistan-live-fifa-world-cup-2026-today-football-match-result-2026-06-28)
-*Amar Ujala Breaking* - Jun 28, 05:55 IST (iso: 2026-06-28T00:25:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/24/cristiano-ronaldo-portugal-vs-uzbekistan-fifa-world-cup-2026-ronaldo-record-portugal-football-te_ac86bf21cb8d2274172f6c8d43f74097.jpeg?w=1200&dpr=1.0 -->
-
-पुर्तगाल और कोलंबिया के बीच फीफा विश्व कप ग्रुप K मुकाबले में हाफटाइम तक कोई गोल नहीं हुआ नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। फीफा विश्वकप में फिलहाल ग्रुप K के दो मुकाबले जारी हैं। पुर्तगाल के सामना कोलंबिया से है, वहीं कांगो का सामना उज्बेकिस्तान से है। पुर्तगाल-कोलंबिया मैच में हाफटाइम तक नहीं हो सका कोई गोल; कुल 24 अटैम्प्ट्स हुए।
-
-### [ईरान-अमेरिका तनाव फिर गहराया, ईरान पर लगातार दूसरे दिन अमेरिकी हमला, युद्धविराम पर उठे सवाल](https://www.patrika.com/world-news/us-strikes-iran-second-day-centcom-strait-of-hormuz-kiku-tanker-20702666)
-*Patrika (World)* - Jun 28, 05:47 IST (iso: 2026-06-28T00:17:21+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Strait-of-Hormuz.webp -->
-
-अमेरिका ने लगातार दूसरे दिन ईरान पर सैन्य हमले किए। मीडिया रिपोर्ट्स के अनुसार अमेरिकी सेना ने कहा कि यह कार्रवाई एक कमर्शियल तेल टैंकर पर हुए कथित हमले के जवाब में की गई है। इन हमलों के बाद 17 जून को हुए क्षेत्रीय युद्धविराम समझौते पर भी संकट के बादल गहराते नजर आ रहे हैं। अमेरिकी सेंट्रल कमांड (CENTCOM) ने बयान जारी कर कहा कि यह सैन्य कार्रवाई राष्ट्रपति के निर्देश पर की गई।
-
-### [अमेरिका ने ईरान के केश्म द्वीप में किए हमले; गाजा में इस्राइली गोलीबारी में दो की मौत](https://www.amarujala.com/live/world/west-asia-live-iran-us-attacks-israel-lebanon-strait-of-hormuz-2026-06-28)
-*Amar Ujala Breaking* - Jun 28, 04:59 IST (iso: 2026-06-27T23:29:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/27/us-iran-war-fear-of-iranian-attacks-us-troops-withdraw-from-military-bases-hide-in-hotels-find-o_4579c2d789559e9fb89250ade3424f50.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका ने ईरान के केश्म द्वीप में हमले किए। West Asia LIVE: अमेरिका ने ईरान के केश्म द्वीप में किए हमले; गाजा में इस्राइली गोलीबारी में दो की मौत।
-
-### [उत्तर-पश्चिम नाइजीरिया में बंदूकधारियों का किसानों के गांव पर हमला, 15 लोगों की मौत](https://www.amarujala.com/world/world-news-updates-in-hindi-us-us-pakistan-bangladesh-syria-afghanistan-china-2026-06-28)
-*Amar Ujala World* - Jun 28, 04:26 IST (iso: 2026-06-27T22:56:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
-
-उत्तर-पश्चिम नाइजीरिया में बंदूकधारियों ने एक किसानों के गांव पर हमला किया। World Updates: उत्तर-पश्चिम नाइजीरिया में बंदूकधारियों का किसानों के गांव पर हमला, 15 लोगों की मौत।
-
-### ['दक्षिणी लेबनान में लंबे समय तक रहेगी तैनात सेना', इस्राइल काट्ज ने हिजबुल्ला को लेकर दिया बड़ा बयान](https://www.amarujala.com/world/israeli-defence-minister-orders-military-to-prepare-for-extended-stay-in-southern-lebanon-2026-06-28)
-*Amar Ujala World* - Jun 28, 03:40 IST (iso: 2026-06-27T22:10:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/22/israel-katz_78ed936a4b7327b7afa1a19e28ad27d9.jpeg?w=1200&dpr=1.0 -->
-
-इस्राइल काट्ज ने कहा कि इस्राइल की सेना दक्षिणी लेबनान में लंबे समय तक तैनात रहेगी। Israel: 'दक्षिणी लेबनान में लंबे समय तक रहेगी तैनात सेना', इस्राइल काट्ज ने हिजबुल्ला को लेकर दिया बड़ा बयान।
-
 ---
 
 ## एशिया-प्रशांत
+
+### [SIT जांच में राम मंदिर चढ़ावा गबन के सबूत; जापान में फिर लगे भूकंप के झटके; अब बलिदानियों पर सियासत](https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-28-june-2026-updates-on-amar-ujala-2026-06-28)
+*Amar Ujala Breaking* - Jun 28, 06:53 IST (iso: 2026-06-28T01:23:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0 -->
+
+एक एसआईटी जांच में राम मंदिर के चढ़ावे में गबन के सबूत मिले हैं। SIT जांच में राम मंदिर चढ़ावा गबन के सबूत; जापान में फिर लगे भूकंप के झटके; अब बलिदानियों पर सियासत।
 
 ### [जापान में भूकंप के तेज झटके, रिक्टर स्केल पर 6.1 रही तीव्रता](https://www.patrika.com/world-news/earthquake-in-japan-in-east-coast-of-honshu-magnitude-6-point-1-on-the-richter-scale-20702688)
 *Patrika (World)* - Jun 28, 06:14 IST (iso: 2026-06-28T00:44:17+00:00)
@@ -106,7 +100,7 @@ A weather forecast for 28 June 2026 was released. It provided details on expecte
 
 ### [जापान के उत्तर-पूर्वी तट के पास भूकंप के झटके, रिक्टर पैमाने पर 6.1 तीव्रता](https://www.amarujala.com/world/earthquake-off-northeastern-coastline-rattles-japan-no-tsunami-warning-issued-2026-06-28)
 *Amar Ujala Breaking* - Jun 28, 06:04 IST (iso: 2026-06-28T00:34:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/02/27/earthquake-bhakapa_cfc2498884aeea255341a97b43bd8076.gif?w=1200&dpr=1.0 -->
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/japan-earthquake_a844c03da7b2b080e33c11064fef98d9.jpeg?w=1200&dpr=1.0 -->
 
 जापान के उत्तर-पूर्वी तट के पास भूकंप के झटके महसूस किए गए। Japan Earthquake: जापान के उत्तर-पूर्वी तट के पास भूकंप के झटके, रिक्टर पैमाने पर 6.1 तीव्रता।
 
@@ -130,7 +124,35 @@ A weather forecast for 28 June 2026 was released. It provided details on expecte
 
 ---
 
+## यूरोप और रूस
+
+### [प्रधानमंत्री नरेंद्र मोदी करेंगे मन की बात, आयरलैंड दौरे पर दूसरा टी20 मैच खेलेगी टीम इंडिया](https://www.amarujala.com/india-news/28-june-2026-major-events-2026-06-27)
+*Amar Ujala Breaking* - Jun 28, 06:42 IST (iso: 2026-06-28T01:12:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/27/aaja-ka-khabra_c6f604d4209ab3a53a9a1f6bcbed554c.gif?w=1200&dpr=1.0 -->
+
+प्रधानमंत्री नरेंद्र मोदी रविवार, 28 जून को 'मन की बात' कार्यक्रम करेंगे। नमस्कार! आज है रविवार, 28 जून। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं प्रधानमंत्री नरेंद्र मोदी करेंगे मन की बात, आयरलैंड दौरे पर दूसरा टी20 मैच खेलेगी टीम इंडिया।
+
+### [बेलिंगहम और केन के गोल से जीता इंग्लैंड, अपने ग्रुप में शीर्ष पर रहते हुए नॉकआउट में पहुंचा](https://www.amarujala.com/sports/football/panama-vs-england-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-28)
+*Amar Ujala National* - Jun 28, 05:32 IST (iso: 2026-06-28T00:02:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/hara-kana_d0d77886984e557521ad2ae017696d19.jpeg?w=1200&dpr=1.0 -->
+
+इंग्लैंड और पनामा आज फीफा विश्व कप 2026 के ग्रुप एल के एक महत्वपूर्ण मुकाबले में आमने-साम नॉकआउट की उम्मीदें मजबूत करने उतरेगी इंग्लैंड, पनामा करेगा उलटफेर की कोशिश। बेलिंगहम और केन के गोल से जीता इंग्लैंड, अपने ग्रुप में शीर्ष पर रहते हुए नॉकआउट में पहुंचा।
+
+### [एक साल से जारी विरोध प्रदर्शन के बीच राष्ट्रपति वुसिक ने छोड़ा पद, सर्बिया में जल्द हो सकते हैं](https://www.amarujala.com/world/serbia-s-populist-president-vucic-says-he-will-resign-within-weeks-as-election-nears-2026-06-28)
+*Amar Ujala World* - Jun 28, 04:33 IST (iso: 2026-06-27T23:03:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/serbias-populist-president-vucic-says-he-will-resign-within-weeks-as-election-nears_434788e0c2d5018e786a99f487bcaefa.jpeg?w=1200&dpr=1.0 -->
+
+सर्बिया के राष्ट्रपति वुसिक ने घोषणा की कि वह कुछ हफ्तों में पद छोड़ देंगे। यह कदम एक साल से जारी विरोध प्रदर्शनों और आगामी चुनावों के बीच आया है। देश में जल्द चुनाव होने की संभावना है। एक साल से जारी विरोध प्रदर्शन के बीच राष्ट्रपति वुसिक ने छोड़ा पद, सर्बिया में जल्द हो सकते हैं।
+
+---
+
 ## अमेरिका
+
+### [यूटा के जंगल में भीषण आग, केंटकी में भारी बारिश बाढ़ से चार की मौत; आपातकाल घोषित](https://www.amarujala.com/world/us-massive-wildfire-in-utah-forests-heavy-rains-and-flooding-in-kentucky-states-declared-emergency-2026-06-28)
+*Amar Ujala World* - Jun 28, 06:29 IST (iso: 2026-06-28T00:59:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/massive-wildfire-in-utah-forests-heavy-rains-and-flooding-in-kentucky-states-declared-emergency_3e1bbf22e6fdea2cf5beab4a21b1f17c.jpeg?w=1200&dpr=1.0 -->
+
+केंटकी में भारी बारिश और बाढ़ से चार लोगों की मौत हो गई। यूटा के जंगल में भीषण आग, केंटकी में भारी बारिश बाढ़ से चार की मौत; आपातकाल घोषित।
 
 ### [अदाणी का मामला बंद करने से अमेरिकी कोर्ट ने किया इनकार, न्याय विभाग से मांगा जवाब](https://www.amarujala.com/world/us-court-refuses-to-close-adani-case-seeks-response-from-justice-department-2026-06-28)
 *Amar Ujala World* - Jun 28, 05:36 IST (iso: 2026-06-28T00:06:33+00:00)
@@ -145,32 +167,10 @@ A weather forecast for 28 June 2026 was released. It provided details on expecte
 डोनाल्ड ट्रंप ने एक नए अमेरिकी पासपोर्ट का डिजाइन दिखाया है. 'स्वागत है, लेकिन अच्छे से रहना!' स्लोगन के साथ ट्रंप ने दिखाया नए अमेरिकी पासपोर्ट का डिजाइन।
 
 ### [वेनेजुएला में भूकंप का एक और झटका, रिक्टर पैमाने पर 4.1 तीव्रता](https://www.amarujala.com/live/world/venezuela-earthquake-live-deaths-relief-and-rescue-operations-caracas-la-guaira-2026-06-28)
-*Amar Ujala Breaking* - Jun 28, 04:54 IST (iso: 2026-06-27T23:24:58+00:00)
+*Amar Ujala World* - Jun 28, 04:54 IST (iso: 2026-06-27T23:24:58+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/06/25/venezuela_72d4bd1037a757d19f7c257b0aa91cff.jpeg?w=1200&dpr=1.0 -->
 
 वेनेजुएला में 4.1 तीव्रता का एक और भूकंप का झटका दर्ज किया गया। Venezuela earthquake LIVE: वेनेजुएला में भूकंप का एक और झटका, रिक्टर पैमाने पर 4.1 तीव्रता।
-
-### [पूर्व पुलिस अधिकारी लांस श्रॉयर संभाल सकते हैं ICE की कमान, ट्रंप ने पूरी तरह योग्य और सच्चा](https://www.amarujala.com/world/former-oklahoma-state-trooper-lance-schroyer-nominated-as-ice-director-trump-2026-06-28)
-*Amar Ujala World* - Jun 28, 04:17 IST (iso: 2026-06-27T22:47:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/former-oklahoma-state-trooper-lance-schroyer-nominated-as-ice-director-trump_879bc0a6ae44f3a9b66e0e1f68e8f264.jpeg?w=1200&dpr=1.0 -->
-
-डोनाल्ड ट्रंप ने पूर्व ओक्लाहोमा राज्य सैनिक लांस श्रॉयर को ICE निदेशक के लिए नामित किया है। पूर्व पुलिस अधिकारी लांस श्रॉयर संभाल सकते हैं ICE की कमान, ट्रंप ने पूरी तरह योग्य और सच्चा।
-
----
-
-## यूरोप और रूस
-
-### [बेलिंगहम और केन के गोल से जीता इंग्लैंड, अपने ग्रुप में शीर्ष पर रहते हुए नॉकआउट में पहुंचा](https://www.amarujala.com/sports/football/panama-vs-england-live-fifa-world-cup-2026-today-football-match-result-updates-2026-06-28)
-*Amar Ujala National* - Jun 28, 05:32 IST (iso: 2026-06-28T00:02:53+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/hara-kana_d0d77886984e557521ad2ae017696d19.jpeg?w=1200&dpr=1.0 -->
-
-इंग्लैंड और पनामा आज फीफा विश्व कप 2026 के ग्रुप एल के एक महत्वपूर्ण मुकाबले में आमने-साम नॉकआउट की उम्मीदें मजबूत करने उतरेगी इंग्लैंड, पनामा करेगा उलटफेर की कोशिश। बेलिंगहम और केन के गोल से जीता इंग्लैंड, अपने ग्रुप में शीर्ष पर रहते हुए नॉकआउट में पहुंचा।
-
-### [एक साल से जारी विरोध प्रदर्शन के बीच राष्ट्रपति वुसिक ने छोड़ा पद, सर्बिया में जल्द हो सकते हैं](https://www.amarujala.com/world/serbia-s-populist-president-vucic-says-he-will-resign-within-weeks-as-election-nears-2026-06-28)
-*Amar Ujala World* - Jun 28, 04:33 IST (iso: 2026-06-27T23:03:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/serbias-populist-president-vucic-says-he-will-resign-within-weeks-as-election-nears_434788e0c2d5018e786a99f487bcaefa.jpeg?w=1200&dpr=1.0 -->
-
-सर्बिया के राष्ट्रपति वुसिक ने घोषणा की कि वह कुछ हफ्तों में पद छोड़ देंगे। यह कदम एक साल से जारी विरोध प्रदर्शनों और आगामी चुनावों के बीच आया है। देश में जल्द चुनाव होने की संभावना है। एक साल से जारी विरोध प्रदर्शन के बीच राष्ट्रपति वुसिक ने छोड़ा पद, सर्बिया में जल्द हो सकते हैं।
 
 ---
 
