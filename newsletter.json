@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T20:41:45.665407+00:00",
-  "article_count": 48,
-  "total_unique_count": 260,
+  "generated_at": "2026-06-29T21:34:59.392954+00:00",
+  "article_count": 49,
+  "total_unique_count": 258,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Bihar Governor Hasnain and Minister of State Margherita likely to represent India at Khamenei’s. 23 fresh dispatches in this edition.",
+    "en": "Middle East & Africa leads the board this hour with Bihar Governor Hasnain and Minister of State Margherita likely to represent India at Khamenei’s. 24 fresh dispatches in this edition.",
     "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, ठंडे मौसम के लिए मशहूर कश्मीर में लू की चेतावनी: श्रीनगर में 35.3 डिग्री पहुंचा पारा; जानें मौसम का मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
@@ -52,6 +52,18 @@
       "image_url": "https://th-i.thgim.com/public/news/national/lmko26/article71162582.ece/alternates/LANDSCAPE_1200/June%2029%20THUMB.png",
       "summary": "The Central Board of Secondary Education eased its three-language policy for students in In this episode, we begin with a detailed discussion on CBSE’s proposed three-language policy; Europe’s worsening heatwave; key updates on Ram Temple developments, the Nasrapur minor rape and murder case, a Mumbai police arrest linked to poison capsules during a Muharram procession, protests over the Maharashtra TET paper leak, and the latest FIFA news updates.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UN welcomes extension of vital aid corridor amid rising insecurity",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167836",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-06-29T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/09-06-2026-WFP-Chad-Sudanese.jpg/image770x420cropped.jpg",
+      "summary": "Sudan extended its aid corridor with neighboring Chad. The United Nations welcomed this decision. The United Nations has welcomed Sudan’s decision to extend the opening of an aid corridor with neighbouring Chad and continues to express concern over the ongoing escalation in El Obeid, capital of North Kordofan state. UN welcomes extension of vital aid corridor amid rising insecurity.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -374,6 +386,42 @@
       }
     },
     {
+      "title": "व्हाट्सएप जल्द लाएगा यूजरनेम फीचर, बिना मोबाइल नंबर साझा किए कर सकेंगे चैट; यूजर्स के प्राइवेसी पर",
+      "url": "https://www.amarujala.com/world/whatsapp-username-feature-meta-privacy-update-phone-number-protection-global-rollout-2026-06-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-29T20:53:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/30/vahatasaepa-para-yajaranama-sa-jaugdhaga-lga_29ba5f77406297f7087f946d019c8fdf.jpeg?w=1200&dpr=1.0",
+      "summary": "व्हाट्सएप जल्द ही एक यूजरनेम फीचर पेश करेगा। इससे उपयोगकर्ता अपना मोबाइल नंबर साझा किए बिना चैट कर सकेंगे। व्हाट्सएप जल्द लाएगा यूजरनेम फीचर, बिना मोबाइल नंबर साझा किए कर सकेंगे चैट; यूजर्स के प्राइवेसी पर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "व्हाट्सएप जल्द लाएगा यूजरनेम फीचर, बिना मोबाइल नंबर साझा किए कर सकेंगे चैट; यूजर्स के प्राइवेसी पर",
+          "summary": "व्हाट्सएप जल्द ही एक यूजरनेम फीचर पेश करेगा। इससे उपयोगकर्ता अपना मोबाइल नंबर साझा किए बिना चैट कर सकेंगे। व्हाट्सएप जल्द लाएगा यूजरनेम फीचर, बिना मोबाइल नंबर साझा किए कर सकेंगे चैट; यूजर्स के प्राइवेसी पर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कतर में अमेरिका से बातचीत की अटकलों पर ईरान का इनकार, अंतिम समझौते पर चर्चा अभी बाकी",
+      "url": "https://www.amarujala.com/world/iran-says-no-talks-scheduled-with-us-in-qatar-final-negotiations-yet-to-begin-2026-06-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-06-29T20:42:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/30/iran-says-no-talks-scheduled-with-us-in-qatar-final-negotiations-yet-to-begin_f465fb8c372a605d3ff393f0f07e4dbf.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरान ने कतर में अमेरिका के साथ निर्धारित वार्ता की अटकलों का खंडन किया है। कतर में अमेरिका से बातचीत की अटकलों पर ईरान का इनकार, अंतिम समझौते पर चर्चा अभी बाकी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कतर में अमेरिका से बातचीत की अटकलों पर ईरान का इनकार, अंतिम समझौते पर चर्चा अभी बाकी",
+          "summary": "ईरान ने कतर में अमेरिका के साथ निर्धारित वार्ता की अटकलों का खंडन किया है। कतर में अमेरिका से बातचीत की अटकलों पर ईरान का इनकार, अंतिम समझौते पर चर्चा अभी बाकी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "शनि की वक्री चाल और गुरु के अस्त होने से इन राशियों पर बढ़ेगा दबाव",
       "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/july-2026-planetary-transits-shani-vakri-asta-guru-impact-on-these-zodiac-signs-in-hindi-2026-06-28",
       "source": "Amar Ujala National",
@@ -415,7 +463,7 @@
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-06-29T19:40:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/30/west-bank-idf_5c4e21ea7149aa214e217f5b2b64801c.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/30/sakataka-tasavara_847d9db5f053c1c62b617fcfe66458f9.jpeg?w=1200&dpr=1.0",
       "summary": "दक्षिण सीरिया के अब्दीन गाँव में इस्राइली सेना का विरोध हुआ। दक्षिण सीरिया के अब्दीन में इस्राइली सेना का विरोध: सैनिकों का रास्ता रोक हुई पत्थरबाजी, इस वजह से।",
       "region": "Middle East & Africa",
       "language": "hi",
@@ -694,42 +742,6 @@
           "title": "पोलैंड ने 11 नागरिकों को देश से निकाला, किस देश के साथ निभाई दोस्ती ?",
           "summary": "पोलैंड ने 11 यूक्रेनी और बेलारूसी नागरिकों को देश से निष्कासित कर दिया है। Poland Expelled Ukrainian and Belarusian Citizens from the Country: रूस-यूक्रेन जंग के चलते कभी रूस भारतीय नागरिकों को अपने यहां सेना में भर्ती कर लेता है तो कभी पोलैंड अपने ही देश में रह रहे लोगों पर गाज गिराने लगा है। अब पोलैंड ने रूस से दोस्ती के शक में 11 नागरिकों को अपने देश से निकाल दिया है।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बीवी को खाई में धकेला, इंश्योरेंस के पैसे से 20 साल तक की मौज, पुराने पाप से खुला राज, खुद को",
-      "url": "https://hindi.news18.com/news/crime/wife-pushed-into-a-ravine-lived-it-up-for-20-years-on-insurance-money-beat-himself-to-death-10613561.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-06-29T12:26:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/USA-Murder-Case-AI-Generated-Photo-2026-06-fac002f7d2f5756a70450420d2541a60-1200x800.jpg",
-      "summary": "एक अमेरिकी व्यक्ति पर अपनी पत्नी को चट्टान से धकेल कर हत्या करने और जीवन बीमा का पैसा लेने का आरोप था. अमेरिका के रहने वाले शख्स पर आरोप थे कि उसने अपनी बीवी की हत्या चट्टान से धकेल कर की है. उसके बाद लाइफ इंश्योरेंस का पैसा लेकर 20 साल तक उसने आलिशान जिंदगी बिताई. लेकिन बाद में पुलिस के हाथ ऐसे सबूत लगे कि उस पर मामला चलाया गया.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बीवी को खाई में धकेला, इंश्योरेंस के पैसे से 20 साल तक की मौज, पुराने पाप से खुला राज, खुद को",
-          "summary": "एक अमेरिकी व्यक्ति पर अपनी पत्नी को चट्टान से धकेल कर हत्या करने और जीवन बीमा का पैसा लेने का आरोप था. अमेरिका के रहने वाले शख्स पर आरोप थे कि उसने अपनी बीवी की हत्या चट्टान से धकेल कर की है. उसके बाद लाइफ इंश्योरेंस का पैसा लेकर 20 साल तक उसने आलिशान जिंदगी बिताई. लेकिन बाद में पुलिस के हाथ ऐसे सबूत लगे कि उस पर मामला चलाया गया.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "कल दोहा में बैठक, ईरान के अनुरोध पर अमेरिका ने भरी हामी, डोनाल्ड ट्रंप का दावा",
-      "url": "https://www.patrika.com/world-news/iran-us-talks-donald-trump-claims-that-iran-has-requested-a-meeting-in-doha-tomorrow-and-us-agreed-20707014",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-06-29T12:18:39+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Donald-Trumpp.webp",
-      "summary": "अमेरिका और ईरान के बीच दोहा में बैठक हुई। यह बैठक ईरान के अनुरोध पर हुई थी, जिसे अमेरिका ने स्वीकार किया। Iran-US- Talks: लंबे समय से जारी तनाव के बाद अब आखिरकार अमेरिका और ईरान के बीच बातचीत की शुरुआत हुई है। हालांकि बातचीत की शुरुआत के बावजूद दोनों देश किसी एक मत पर सहमति अभी तक नहीं बना पाए है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कल दोहा में बैठक, ईरान के अनुरोध पर अमेरिका ने भरी हामी, डोनाल्ड ट्रंप का दावा",
-          "summary": "अमेरिका और ईरान के बीच दोहा में बैठक हुई। यह बैठक ईरान के अनुरोध पर हुई थी, जिसे अमेरिका ने स्वीकार किया। Iran-US- Talks: लंबे समय से जारी तनाव के बाद अब आखिरकार अमेरिका और ईरान के बीच बातचीत की शुरुआत हुई है। हालांकि बातचीत की शुरुआत के बावजूद दोनों देश किसी एक मत पर सहमति अभी तक नहीं बना पाए है।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
