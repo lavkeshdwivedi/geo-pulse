@@ -1,6 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** June 29, 2026 06:29 IST
+**अपडेट:** June 29, 2026 07:23 IST
 
 ---
 
@@ -12,15 +12,97 @@
 
 संयुक्त राज्य अमेरिका के अधिकांश हिस्सों में इस सप्ताह भीषण गर्मी और उच्च आर्द्रता का प्रकोप रहेगा। US में भीषण गर्मी का कहर: उमस और बढ़ाएगी परेशानी; कई बड़े शहरों में पारा 40 डिग्री के पार पहुंचने।
 
+### ['वॉशिंगटन में बड़ा टूर्नामेंट हो सकेगा आयोजित', गोल्फ कोर्स के नवीनीकरण की योजना पर क्या बोले ट्रंप?](https://www.amarujala.com/world/trump-inspects-east-potomac-golf-links-redevelopment-in-washington-2026-06-29)
+*Amar Ujala World* - Jun 29, 04:49 IST (iso: 2026-06-28T23:19:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/17/donald-trump-us-us-iran-deal_d8ae78c032b905ae0ffb1c3cfe50eb98.jpeg?w=1200&dpr=1.0 -->
+
+डोनाल्ड ट्रंप ने वॉशिंगटन में ईस्ट पोटोमैक गोल्फ लिंक्स के नवीनीकरण की योजना का निरीक्षण किया। 'वॉशिंगटन में बड़ा टूर्नामेंट हो सकेगा आयोजित', गोल्फ कोर्स के नवीनीकरण की योजना पर क्या बोले ट्रंप?
+
+---
+
+## दुनिया
+
+### [अपने तजुर्बे अगली पीढ़ी को दें, सूत्र- अनुभवों को साझा करें](https://www.amarujala.com/columns/blog/jeevan-dhara-pass-on-your-experience-to-the-next-generation-share-your-experiences-2026-06-29)
+*Amar Ujala National* - Jun 29, 07:12 IST (iso: 2026-06-29T01:42:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/1_9dd48601f5c2cba037ad45dd93258efb.jpeg?w=1200&dpr=1.0 -->
+
+जीवन धारा नामक पहल अगली पीढ़ी को अनुभव साझा करने पर केंद्रित है। अपने तजुर्बे अगली पीढ़ी को दें, सूत्र- अनुभवों को साझा करें।
+
+### [कमोडिटी ईटीएफ में प्राइस डिस्कवरी और पारदर्शिता बढ़ाने के लिए 1 सितंबर से लागू होगा बदलाव; पढ़ें](https://www.amarujala.com/business/business-diary/sebi-changes-to-enhance-price-discovery-and-transparency-in-commodity-etfs-to-come-into-effect-from-sept-1-2026-06-29)
+*Amar Ujala National* - Jun 29, 06:58 IST (iso: 2026-06-29T01:28:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/1_e979346917d84e289f1d688ec9493120.jpeg?w=1200&dpr=1.0 -->
+
+सेबी ने कमोडिटी ईटीएफ में मूल्य खोज और पारदर्शिता बढ़ाने के लिए नए नियम लागू किए हैं। कमोडिटी ईटीएफ में प्राइस डिस्कवरी और पारदर्शिता बढ़ाने के लिए 1 सितंबर से लागू होगा बदलाव; पढ़ें।
+
+### [क्या आपका बचत खाता जरूरत के हिसाब से सही है?: आपकी जेब और बचत पर भारी पड़ेगा आलस्य, आदत के हिसाब से](https://www.amarujala.com/business/business-diary/is-your-savings-account-right-for-your-needs-laziness-could-take-a-toll-on-your-pocket-and-savings-2026-06-29)
+*Amar Ujala National* - Jun 29, 06:47 IST (iso: 2026-06-29T01:17:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/1_6f24e240b668191274dadb5caa616ca7.jpeg?w=1200&dpr=1.0 -->
+
+बचत खाते का चुनाव व्यक्तिगत वित्तीय आवश्यकताओं के अनुरूप होना चाहिए। Laziness could take a toll on your pocket and savings - क्या आपका बचत खाता जरूरत के हिसाब से सही है?: आपकी जेब और बचत पर भारी पड़ेगा आलस्य, आदत के हिसाब से करें चुनाव।
+
+### [आज है वट पूर्णिमा व्रत, जानें व्रत कथा, पूजा विधि, शुभ मुहूर्त और आध्यात्मिक महत्व](https://www.amarujala.com/spirituality/festivals/at-purnima-vrat-2026-know-the-sacred-story-puja-vidhi-shubh-muhurat-and-spiritual-significance-2026-06-29)
+*Amar Ujala National* - Jun 29, 06:31 IST (iso: 2026-06-29T01:01:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/vata-paranaema-varata_f59915454b5d440389f2e49290a9f642.jpeg?w=1200&dpr=1.0 -->
+
+वट पूर्णिमा व्रत 29 जून 2026 को मनाया जाएगा। Vat Purnima Vrat 2026: 29 जून को है व्रत, जानें सावित्री-सत्यवान की कथा, पूजा विधि, शुभ मुहूर्त और इस व्रत का आध्यात्मिक महत्व। आज है वट पूर्णिमा व्रत, जानें व्रत कथा, पूजा विधि, शुभ मुहूर्त और आध्यात्मिक महत्व।
+
+### [राम मंदिर चढ़ावा चोरी प्रकरण में बड़ा खुलासा: ऊपर से थे मामला रफा-दफा करने के निर्देश; तब शुरू हुई](https://www.amarujala.com/lucknow/ram-mandir-offering-theft-case-instructions-to-hush-up-the-matter-had-come-from-the-top-2026-06-29)
+*Amar Ujala Breaking* - Jun 29, 06:26 IST (iso: 2026-06-29T00:56:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/1_3c5dad695bae651c47cc8b4a63f6b85f.jpeg?w=1200&dpr=1.0 -->
+
+राम मंदिर चढ़ावा चोरी मामले में एक नया खुलासा सामने आया है। राम मंदिर चढ़ावा चोरी प्रकरण में एक बड़ा खुलासा हुआ है। राम मंदिर चढ़ावा चोरी प्रकरण में बड़ा खुलासा: ऊपर से थे मामला रफा-दफा करने के निर्देश; तब शुरू हुई।
+
+### [Weather Forecast 29 June 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-29-june-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-06-29)
+*Amar Ujala National* - Jun 29, 06:00 IST (iso: 2026-06-29T00:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/weather-forecast_b923b3d343adafa0436a62a34a1f64f5.jpeg?w=1200&dpr=1.0 -->
+
+29 जून 2026 के लिए मौसम का पूर्वानुमान जारी किया गया.
+
+### [मां सावित्री का आशीष... इन शुभकामनाओं से अपनों के जीवन में भरें सुख और सौभाग्य](https://www.amarujala.com/photo-gallery/spirituality/festivals/vat-savitri-purnima-vrat-2026-wishes-messages-greetings-to-share-with-your-loved-ones-in-hindi-2026-06-29)
+*Amar Ujala National* - Jun 29, 06:00 IST (iso: 2026-06-29T00:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/vata-paranaema-ka-shabhakamanae_ae04c7ed3fe407fc4b98286673a9c4a0.jpeg?w=1200&dpr=1.0 -->
+
+वट सावित्री व्रत के पावन अवसर पर प्रियजनों को शुभकामनाएं भेजी जा सकती हैं। वट सावित्री व्रत के इस पावन अवसर पर अपने प्रियजनों को सुख, समृद्धि और अखंड सौभाग्य से भरी शुभकामनाएं भेजकर उनके इस खास दिन को और भी यादगार बनाया जा सकता है। वट सावित्री व्रत 2026 के मौके पर भेजी जाने वाली कुछ खूबसूरत विशेज, संदेश और शुभकामनाएं।
+
+### [बैंक को लग गई थी चोरी की भनक, की थी गणनाकर्मियों को हटाने की सिफारिश; ये तीन बने ढाल](https://www.amarujala.com/lucknow/ram-mandir-bank-had-sensed-the-theft-and-recommended-removing-the-counting-staff-2026-06-29)
+*Amar Ujala Breaking* - Jun 29, 04:35 IST (iso: 2026-06-28T23:05:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/1_5b4ae3d0821f450d5ef73213a0bd7360.jpeg?w=1200&dpr=1.0 -->
+
+एक बैंक ने राम मंदिर चढ़ावे में चोरी की आशंका जताई थी. बैंक ने गणनाकर्मियों को हटाने की सिफारिश की थी. राम मंदिर चढ़ावा चोरी मामले की जांच में एक और बड़ा खुलासा हुआ है। बैंक को लग गई थी चोरी की भनक, की थी गणनाकर्मियों को हटाने की सिफारिश; ये तीन बने ढाल।
+
 ---
 
 ## एशिया-प्रशांत
 
-### [पाकिस्तान का अफगानिस्तान पर हवाई हमला, 30 लोग मारे गए, कराची अटैक के बाद पड़ोसी पर धावा](https://hindi.news18.com/world/pakistan-air-strike-and-land-attack-in-afghanistan-border-29-terrorists-killed-after-karachi-attack-10610865.html)
-*News18 Hindi (World)* - Jun 29, 05:57 IST (iso: 2026-06-29T00:27:10+00:00)
+### [क्या फिर से लौटेगा हिम युग?: कनाडा के प्राचीन ज्वालामुखीय विस्फोट से बढ़ रही आशंका, जानें](https://www.amarujala.com/india-news/sturtian-glaciation-snowball-earth-cryogenian-period-volcanic-activity-carbon-dioxide-longest-ice-age-study-2026-06-29)
+*Amar Ujala National* - Jun 29, 07:09 IST (iso: 2026-06-29T01:39:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/08/03/volcano-eruption_5df376fd6a10c7216124fe50396bd139.jpeg?w=1200&dpr=1.0 -->
+
+वैज्ञानिकों ने कनाडा में प्राचीन ज्वालामुखीय विस्फोटों का अध्ययन किया। क्या फिर से लौटेगा हिम युग?: कनाडा के प्राचीन ज्वालामुखीय विस्फोट से बढ़ रही आशंका, जानें।
+
+### [पाकिस्तान का अफगानिस्तान पर हवाई हमला, 35 लोग मारे गए, कराची अटैक के बाद पड़ोसी पर धावा](https://hindi.news18.com/world/pakistan-air-strike-and-land-attack-in-afghanistan-border-29-terrorists-killed-after-karachi-attack-10610865.html)
+*News18 Hindi (World)* - Jun 29, 06:51 IST (iso: 2026-06-29T01:21:49+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/pakistan-attack-5-2026-06-32272e5f56242ab771af95ad2515d111-1200x800.jpg -->
 
 कराची में पाकिस्तान रेंजर्स मुख्यालय पर हमले के बाद पाकिस्तान ने अफगानिस्तान सीमा से लगे इलाकों में सैन्य अभियान चलाया. कराची में पाकिस्तान रेंजर्स मुख्यालय पर हुए आतंकी हमले के बाद पाकिस्तान ने अफगानिस्तान सीमा से लगे इलाकों में बड़ा सैन्य अभियान चलाने का दावा किया है. इस्लामाबाद के अनुसार बाजौर में जमीनी कार्रवाई और पक्तिया, पक्तिका व कुनार में किए गए सटीक हमलों में कुल 29 आतंकवादी मारे गए.
+
+### [स्वदेशी गगन तकनीक से पहली बार जेट विमान की लैंडिंग, आत्मनिर्भरता की ओर भारत ने बढ़ाया एक और कदम](https://www.amarujala.com/india-news/first-ever-jet-aircraft-landing-using-indigenous-gagan-technology-india-another-step-towards-self-reliance-2026-06-29)
+*Amar Ujala National* - Jun 29, 06:29 IST (iso: 2026-06-29T00:59:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/gagana-takanaka-sa-jata-vamana-ka-pahal-ldaga_ca6ae490be49f2c64966615b579ca18a.jpeg?w=1200&dpr=1.0 -->
+
+भारत ने अपनी स्वदेशी गगन तकनीक का उपयोग करके पहली बार एक जेट विमान की सफल लैंडिंग की। स्वदेशी गगन तकनीक से पहली बार जेट विमान की लैंडिंग, आत्मनिर्भरता की ओर भारत ने बढ़ाया एक और कदम।
+
+### [भारत के पड़ोस में आधी रात को कांपी धरती, अब चीन में आया भयंकर भूकंप, कितनी तीव्रता?](https://hindi.news18.com/world/china-earthquake-today-news-strong-5-5-magnitude-earthquake-jolts-southwest-china-sichuan-province-10610883.html)
+*News18 Hindi (World)* - Jun 29, 06:13 IST (iso: 2026-06-29T00:43:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/venezuela-earthquake-2-2026-06-1dfb8f3494f3be1eac78578897fe113a-1200x800.jpg -->
+
+चीन के सिचुआन प्रांत में आधी रात को 5.5 तीव्रता का भूकंप आया। दक्षिण-पश्चिम चीन के सिचुआन प्रांत में 5.5 तीव्रता का भूकंप आने से लोगों में दहशत फैल गई. भूकंप का केंद्र यिबिन शहर के गाओक्सियन काउंटी में जमीन से केवल 6 किलोमीटर की गहराई पर था. इसके झटके चेंगदू और चोंगकिंग तक महसूस किए गए. शुरुआती रिपोर्ट में किसी के हताहत होने की सूचना नहीं है, हालांकि कुछ इमारतों को मामूली नुकसान पहुंचा है.
+
+### [उत्तर भारत में कब पहुंचेगा मानसून?: पहाड़ों पर आफत की बारिश, मैदान गर्मी से बेहाल; इन राज्यों में](https://www.amarujala.com/india-news/when-will-monsoon-reach-north-rains-wreak-havoc-in-hills-plains-under-heat-alerts-issued-for-these-states-2026-06-29)
+*Amar Ujala Breaking* - Jun 29, 06:11 IST (iso: 2026-06-29T00:41:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/when-will-monsoon-reach-north-rains-wreak-havoc-in-hills-plains-under-heat-alerts-issued-for-thes_bbcb49315accbbcefd731dc9fee07fe5.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर भारत में मानसून के आगमन का इंतजार है। पहाड़ी क्षेत्रों में भारी बारिश से जनजीवन प्रभावित हुआ है। उत्तर भारत में कब पहुंचेगा मानसून?: पहाड़ों पर आफत की बारिश, मैदान गर्मी से बेहाल; इन राज्यों में।
 
 ### [असम-मिजोरम सीमा पर पांच करोड़ की ड्रग्स जब्त; बंगाल विधानसभा में आज पेश होगा यूसीसी विधेयक](https://www.amarujala.com/india-news/news-updates-of-29-june-india-news-national-news-politics-crime-west-bengal-assam-news-in-hindi-2026-06-29)
 *Amar Ujala National* - Jun 29, 05:51 IST (iso: 2026-06-29T00:21:18+00:00)
@@ -34,36 +116,24 @@
 
 पाकिस्तान ने अफगान सीमा पर जमीनी अभियान और हवाई हमले किए। अफगान सीमा पर PAK का बड़ा अभियान: 29 आतंकियों के मारे जाने का दावा; 10 जुलाई से अवैध अफगानियों पर।
 
-### [कराची हमले के बाद पाकिस्तान का बड़ा एक्शन, अफगान सीमा पर ऑपरेशन और हवाई हमलों में 29 आतंकियों के](https://www.patrika.com/world-news/pakistan-operation-afghanistan-border-karachi-attack-ttp-29-militants-killed-20704793)
-*Patrika (World)* - Jun 29, 03:56 IST (iso: 2026-06-28T22:26:49+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Pakistan_7a93b3.webp -->
-
-कराची में सिंध रेंजर्स मुख्यालय पर आतंकी हमले के एक दिन बाद पाकिस्तान ने अफगानिस्तान सीमा से सटे इलाकों में सैन्य अभियान चलाया Pakistan News: कराची में सिंध रेंजर्स मुख्यालय पर हुए आतंकी हमले के एक दिन बाद पाकिस्तान ने अफगानिस्तान सीमा से सटे इलाकों में बड़ा सैन्य अभियान चलाने का दावा किया है। पाकिस्तान के अनुसार, खुफिया जानकारी के आधार पर किए गए जमीनी अभियान और अफगानिस्तान में तीन स्थानों पर किए गए लक्षित हमलों में कुल 29 आतंकवादी मारे गए हैं।
-
-### [महरंग बलोच केस से बेनकाब हुआ पाकिस्तान, UN ने भी लगाई शहबाज सरकार को फटकार, सुलग सकता है बलूचिस्तान](https://hindi.news18.com/world/pakistan-mahrang-baloch-arrest-expose-pakistan-un-reprimanded-shehbaz-sharif-govt-balochistan-on-fire-10610765.html)
-*News18 Hindi (World)* - Jun 28, 23:33 IST (iso: 2026-06-28T18:03:55+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/Mahrang-Baloch-2026-06-3fdef555e985fa5c2f6720c611a6e300-1200x800.jpg -->
-
-बलोच यकजेहती कमेटी ने महरंग बलोच को दी गई उम्रकैद की सजा पर सख्त कूट बलोच यकजेहती कमेटी ने सख्त कूटनीतिक बयान जारी करते हुए कहा है, "महरंग बलोच को दी गई यह उम्रकैद की सजा वास्तव में बलोच समुदाय की नस्लीय पहचान को मिटाने के प्रति पाकिस्तानी राज्य की कथित शत्रुतापूर्ण और दमनकारी नीति का एक और बड़ा और विधिक प्रमाण है.
-
-### [‘आतंकवाद को सरकारी नीति बनाना छोड़ो’, कराची मामले पर भारत ने पाकिस्तान को लगाई कड़ी फटकार](https://www.patrika.com/world-news/india-pakistan-news-karachi-incident-randhir-jaiswal-statement-20703978)
-*Patrika (World)* - Jun 28, 17:15 IST (iso: 2026-06-28T11:45:35+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Randhir-Jaiswal.webp -->
-
-भारत ने कराची की हालिया घटना को लेकर पाकिस्तान द्वारा लगाए गए आरोपों को सिरे से खारिज कर दिया. India Pakistan News: कराची की हालिया घटना को लेकर पाकिस्तान की तरफ से भारत पर लगाए गए आरोपों को भारत सरकार ने सिरे से खारिज कर दिया है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि पाकिस्तान के आरोप पूरी तरह बेबुनियाद हैं।
-
-### [पाकिस्तान के कराची में बड़ा अटैक, सिंध रेंजर्स के हेडक्वार्टर पर जमात-उल-अहरार ने बोला धावा, 4](https://www.abplive.com/news/world/pakistan-terrorists-linked-ttp-attacked-sindh-rangers-headquarters-in-karachi-shehbaz-sharif-asim-munir-3151790)
-*ABP Live (World)* - Jun 28, 11:19 IST (iso: 2026-06-28T05:49:44+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/28/06999d0aa9ad24c30efa88265062051e17826246616141200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-पाकिस्तान के कराची में सिंध रेंजर्स मुख्यालय पर जमात-उल-अहरार के आतंकवादियों ने हमला किया। पाकिस्तान के सुरक्षा बलों ने शनिवार (27 जून) की रात कराची में सिंध रेंजर्स मुख्यालय पर आतंकी हमले को नाकाम करते हुए छह विद्रोहियों को मार गिराया और एक को जिंदा पकड़ लिया. इस हमले में पाकिस्तान के चार जवानों की भी मौत हो गई है.
-
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
+### [फीफा विश्वकप में कल क्या हुआ और आज क्या?: कनाडा अंतिम-16 में; 19वें दिन खेले जाएंगे तीन सुपरहिट](https://www.amarujala.com/sports/football/fifa-world-cup-2026-day-19-canada-reach-round-of-16-brazil-germany-and-netherlands-in-action-today-2026-06-29)
+*Amar Ujala Breaking* - Jun 29, 07:01 IST (iso: 2026-06-29T01:31:47+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/fifa-world-cup-2026-canada-vs-south-africa-stephen-eustaquio-canada-round-of-16-fifa-knockout-st_fd8ab099c3c82249ad3c0174130d73b3.jpeg?w=1200&dpr=1.0 -->
+
+कनाडा ने फीफा विश्व कप 2026 के राउंड ऑफ 32 में दक्षिण अफ्रीका को 1-0 फीफा विश्व कप 2026 के राउंड ऑफ 32 में कनाडा ने स्टीफन एउस्ताकियो के इंजरी टाइम गोल की बदौलत दक्षिण अफ्रीका को 1-0 से हराकर अंतिम-16 में जगह बना ली। फीफा विश्वकप में कल क्या हुआ और आज क्या?: कनाडा अंतिम-16 में; 19वें दिन खेले जाएंगे तीन सुपरहिट।
+
+### [होर्मुज में लड़ाई पर फिलहाल ब्रेक, कतर में बातचीत को तैयार अमेरिका-ईरान, फिर बेखौफ गुजरेंगे जहाज](https://hindi.news18.com/world/middle-east-us-iran-halt-war-in-hormuz-qatar-meeting-for-hormuz-and-nuclear-live-updates-news-10610939.html)
+*News18 Hindi (World)* - Jun 29, 06:55 IST (iso: 2026-06-29T01:25:38+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/hormuz-news-1-2026-06-8e48fb878e45c7b0c1e7ad9a61ab56a9-1200x800.jpg -->
+
+अमेरिका और ईरान ने फिलहाल एक-दूसरे पर हमले रोकने पर सहमति जताई है। Iran-US Meeting: अमेरिका और ईरान ने फिलहाल एक-दूसरे पर हमले रोकने पर सहमति बनाई है. होर्मुज में जहाजों पर हमले के बाद दोनों देश भिड़ गए थे. दोनों देशों के प्रतिनिधि अब मंगलवार को कतर की राजधानी दोहा में मीटिंग करेंगे. अब दोनों पक्ष बातचीत के जरिए तनाव कम करने की कोशिश कर रहे हैं.
+
 ### [अमेरिका-ईरान के बीच सुलह की कोशिश: दोहा में होगी बैठक, होर्मुज विवाद सुलझाने पर बनी सहमति](https://www.amarujala.com/world/us-iran-talks-doha-hormuz-strait-ceasefire-donald-trump-abbas-araghchi-maritime-security-dispute-2026-06-29)
-*Amar Ujala World* - Jun 29, 05:34 IST (iso: 2026-06-29T00:04:45+00:00)
+*Amar Ujala Breaking* - Jun 29, 05:34 IST (iso: 2026-06-29T00:04:45+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/haramaja-jaldamanprmathhaya-ka-lkara-amaraka-iirana-ma-haga-btacata_945c6cdc9de7ce26efa2a15359327a96.jpeg?w=1200&dpr=1.0 -->
 
 अमेरिका और ईरान दोहा में बैठक करेंगे। दोनों देश होर्मुज जलडमरूमध्य में समुद्री सुरक्षा विवाद को सुलझाने पर सहमत हुए हैं। यह बैठक दोनों देशों के बीच तनाव कम करने की दिशा में एक महत्वपूर्ण कदम है। डोनाल्ड ट्रम्प प्रशासन के दौरान दोनों देशों के बीच संबंध तनावपूर्ण थे। अब्बास अरागची ने इस बैठक की पुष्टि की है। अमेरिका-ईरान के बीच सुलह की कोशिश: दोहा में होगी बैठक, होर्मुज विवाद सुलझाने पर बनी सहमति।
@@ -80,93 +150,31 @@
 
 अमेरिका और ईरान ने होर्मुज जलडमरूमध्य में सैन्य कार्रवाई रोकने पर सहमति जताई है। दोनों देशों के प्रतिनिधि मंगलवार को कतर की राजधानी दोहा में उच्चस्तरीय वार्ता करेंगे। इस बैठक का उद्देश्य हालिया तनाव के बाद बने नाजुक शांति समझौते को बनाए रखना है। वार्ता होर्मुज जलडमरूमध्य से जुड़े विवादों का समाधान भी तलाशेगी। US Iran Talks: स्ट्रेट ऑफ होर्मुज को लेकर हाल के दिनों में अमेरिका और ईरान के बीच बढ़े सैन्य तनाव के बाद दोनों देशों ने फिलहाल एक-दूसरे पर सैन्य कार्रवाई रोकने पर सहमति जताई है।
 
-### [1250 करोड़ की मदद का एलान; यूपीआई, रक्षा और अंतरिक्ष समेत कई अहम मुद्दों पर समझौते](https://www.amarujala.com/world/pm-modi-seychelles-visit-india-seychelles-relations-upi-line-of-credit-blue-horizon-award-bilateral-talks-2026-06-29)
-*Amar Ujala Breaking* - Jun 29, 04:28 IST (iso: 2026-06-28T22:58:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/sashalsa-thara-para-paema-matha_cf555a6fae75eed742f4d3b2386fb334.jpeg?w=1200&dpr=1.0 -->
+---
 
-प्रधानमंत्री मोदी के सेशेल्स दौरे पर भारत ने 1250 करोड़ रुपये की सहायता की घोषणा की। 1250 करोड़ की मदद का एलान; यूपीआई, रक्षा और अंतरिक्ष समेत कई अहम मुद्दों पर समझौते।
+## वैश्विक / बहुपक्षीय
 
-### [युद्धविराम के बावजूद गाजा में संघर्ष जारी, इस्राइली हमलों में मासूम समेत चार फलस्तीनियों की मौत](https://www.amarujala.com/world/gaza-israeli-strikes-many-palestinians-killed-ceasefire-israel-hamas-war-west-asia-news-2026-06-29)
-*Amar Ujala World* - Jun 29, 03:21 IST (iso: 2026-06-28T21:51:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/22/israel-hamas-ceasefire-agreement_e024cbf3a90a79e5ddc29be693a70ac3.jpeg?w=1200&dpr=1.0 -->
+### [राम मंदिर दान गबन मामले में सुप्रीम कोर्ट में सुनवाई, सेशल्स का दौरा पूरा कर लौटेंगे पीएम मोदी](https://www.amarujala.com/india-news/june-2026-major-events-pm-modi-supreme-court-yogi-adityanath-rahul-gandhi-bhagwant-mann-2026-06-28)
+*Amar Ujala Breaking* - Jun 29, 06:17 IST (iso: 2026-06-29T00:47:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/aaj-ke-din-29-june-2026_2e666abe076b2b6b25b9c666366293c9.gif?w=1200&dpr=1.0 -->
 
-गाजा में युद्धविराम के बावजूद संघर्ष जारी रहा। युद्धविराम के बावजूद गाजा में संघर्ष जारी, इस्राइली हमलों में मासूम समेत चार फलस्तीनियों की मौत।
+भारत का सर्वोच्च न्यायालय राम मंदिर दान गबन मामले में सुनवाई करेगा. आज का दिन राजनीतिक, कूटनीतिक, विधिक और खेल जगत के लिहाज से बेहद अहम होने वाला है। राम मंदिर दान गबन मामले में सुप्रीम कोर्ट में सुनवाई, सेशल्स का दौरा पूरा कर लौटेंगे पीएम मोदी।
 
-### [अमेरिका फिर से हमला करने को तैयार, डोनाल्ड ट्रंप ने ईरान को दे दी फाइनल वॉर्निंग](https://www.patrika.com/world-news/donald-trump-iran-military-pressure-warning-20704327)
-*Patrika (World)* - Jun 28, 18:40 IST (iso: 2026-06-28T13:10:30+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Trump-on-Iran-War.jpg -->
+### [दुनिया के 65.5 करोड़ लोग अब भी बिजली से वंचित, दो अरब प्रदूषित ईंधन के सहारे](https://www.amarujala.com/india-news/sdg-7-energy-progress-report-clean-energy-electricity-access-renewable-energy-world-bank-2026-06-29)
+*Amar Ujala National* - Jun 29, 06:07 IST (iso: 2026-06-29T00:37:23+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/thanaya-ma-2-arab-lga-parathashhata-iithhana-ka-sahara_24472a0c56cfb5613bc906bc09d05bc7.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को कड़ी चेतावनी दी है। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को एक और सख्त संदेश दिया है। उन्होंने साफ चेतावनी दी है कि अगर जरूरत पड़ी तो अमेरिका फिर से ईरान पर सैन्य कार्रवाई कर सकता है और इस बार स्थिति इतनी गंभीर हो सकती है कि ईरान का अस्तित्व ही खत्म हो जाए।
-
-### [होर्मुज में कोई दखलअंदाजी की तो... अमेरिकी हमले के बाद ईरानी विदेश मंत्री की धमकी- 'डील में जो](https://hindi.news18.com/world/middle-east-iran-warns-us-after-recent-strikes-in-strait-of-hormuz-says-any-interference-will-not-be-considered-ws-l-10610320.html)
-*News18 Hindi (World)* - Jun 28, 17:55 IST (iso: 2026-06-28T12:25:34+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/IRAN-HORMUZ-4-2026-06-88a57af98af1135d362dd98142d90e1d-1200x800.jpg -->
-
-ईरानी विदेश मंत्री अब्बास अरागची ने होर्मुज में अमेरिकी हमले के बाद धमकी दी है। Strait Of Hormuz Crisis: ईरान के विदेश मंत्री अब्बास अरागची ने होर्मुज में अमेरिकी अटैक के बाद धमकी दी है कि समझौते का पालन हर किसी को करना होगा. उन्होंने कहा कि ईरान के बताए गए रूट के अलावा किसी भी रास्ते का इस्तेमाल नहीं करने की बात तय हुई थी.
-
-### [इजराइल-लेबनान डील को हिज्बुल्लाह ने ठुकराया, कहा- यह देश में भाई-भाई के बीच लड़ाई कराने वाला सौदा](https://www.patrika.com/world-news/hezbollah-lawmaker-warns-of-internal-conflict-in-lebanon-20704083)
-*Patrika (World)* - Jun 28, 17:06 IST (iso: 2026-06-28T11:36:38+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Lebanon-Israel-Peace-Talks.webp -->
-
-लेबनान में हिज्बुल्लाह के एक सांसद ने इजराइल के साथ हुए हालिया सीजफायर समझौते की आलोचना इजराइल के साथ हाल ही में हुए सीजफायर समझौते को लेकर लेबनान में हिज्बुल्लाह के एक सांसद ने खुलकर आलोचना की है। उन्होंने इसे ‘झुकाव और शर्मिंदगी का सौदा’ बताया है। साथ ही यह चेतावनी भी दी है कि इससे लेबनान में गृहयुद्ध छिड़ सकता है।
-
-### [इजरायल के लेबनान पर हमले में अल-बास रोमन सहित कई धरोहरों को नुकसान पहुंचा](https://www.patrika.com/world-news/israel-attacks-lebanon-damaged-unesco-world-heritage-site-20703800)
-*Patrika (World)* - Jun 28, 16:25 IST (iso: 2026-06-28T10:55:59+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Israeli-attack-on-Lebanon-UNESCO-World-Heritage-site.webp -->
-
-इज़रायल के हवाई हमलों ने लेबनान में कई धरोहर स्थलों को नुकसान पहुँचाया है। Israel Attacks Lebanon Damaged UNESCO World Heritage Site: इजरायल ने लेबनान के टायर में हवाई हमले कर यूनेस्को विश्व धरोहर स्थल अल-बास रोमन सहित कई विरासतों को नुकसान पहुंचाया है। हमले में ऐतिहासिक खंडहर, कस्बे और गांव सभी क्षतिग्रस्त हो गए हैं। दक्षिणी लेबनान के एक अन्य शहर में मुसलमानों और ईसाइयों के लिए एक तीर्थस्थल को नष्ट कर दिया गया।
-
-### [ईरान के 10 ठिकानों पर अमेरिका का अटैक, नेवी और एयरफोर्स ने दागीं मिसाइलें, CENTCOM ने जारी किया](https://www.abplive.com/news/world/us-strikes-10-iranian-military-sites-hormuz-strait-centcom-share-video-navy-air-force-missile-attack-iran-america-war-3151773)
-*ABP Live (World)* - Jun 28, 10:32 IST (iso: 2026-06-28T05:02:47+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/28/66ce334a52f76ab4378105cba4a72b021782622183923425_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-अमेरिका ने शनिवार को स्ट्रेट ऑफ होर्मुज के पास ईरान के 10 सैन्य ठिकानों पर मिसाइल और हवाई हमले अमेरिका ने शनिवार को ईरान के खिलाफ बड़ा सैन्य अभियान चलाते हुए स्ट्रेट ऑफ होर्मुज के आसपास और उसके निकट स्थित ईरानी सेना के 10 ठिकानों पर मिसाइल और हवाई हमले किए. अमेरिकी नेवी और एयरफोर्स के लड़ाकू विमानों ने इस ऑपरेशन को अंजाम दिया.
-
-### [अमेरिका के हमलों का ईरान ने दिया जवाब, कुवैत से बहरीन तक US ठिकानों पर दागीं मिसाइलें, ट्रंप की](https://www.abplive.com/news/world/iran-outraged-after-us-launches-second-attack-in-24-hours-irgc-threat-donald-trump-iran-us-war-araghchi-3151747)
-*ABP Live (World)* - Jun 28, 09:05 IST (iso: 2026-06-28T03:35:05+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/12/fa7a4edbedf8f0c4565ddf15a08a96fa1781242429519240_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-अमेरिकी सेना द्वारा ईरान के सैन्य ठिकानों पर बीते 24 घंटे में दो बार हमला करने के बाद इस्लामिक रिवोल ईरान और अमेरिका के बीच सीजफायर टूटने की कगार पर पहुंच गया है. अमेरिकी सेना ने बीते 24 घंटे में दो बार ईरान के सैन्य ठिकानों पर हमले किए हैं, जिसके बाद इस्लामिक रिवोल्यूशनरी गार्ड कोर (IRGC) ने बहरीन से लेकर कुवैत तक मिसाइलों और ड्रोन से अमेरिकी ठिकानों पर हमले किए हैं.
-
-### [भारत का सेशेल्स को गिफ्ट, PM मोदी ने सौंपा मेड इन इंडिया पेट्रोल वेसल, हिंद महासागर पर फोकस](https://www.abplive.com/news/world/indian-ocean-maritime-security-pm-modi-hand-over-made-in-india-fast-patrol-vessel-to-seychelles-3151739)
-*ABP Live (World)* - Jun 28, 08:24 IST (iso: 2026-06-28T02:54:44+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/28/f97208242a39dc31b8816a5aab61449517826147693541200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-प्रधानमंत्री नरेंद्र मोदी ने सेशेल्स को भारत में बना फास्ट पेट्रोल वेसल पीएस ले प्रधानमंत्री नरेंद्र मोदी ने शनिवार को सेशेल्स को भारत में बना 'फास्ट पेट्रोल वेसल' (FPV) PS LESPWAR सौंपा. इसके साथ ही उन्होंने हिंद महासागर क्षेत्र में इस देश की समुद्री सुरक्षा को मजबूत करने और आपसी रक्षा सहयोग को गहरा करने के भारत के संकल्प को दोहराया.
+एसडीजी 7 ऊर्जा प्रगति रिपोर्ट के अनुसार, दुनिया भर में 65.5 करोड़ लोग अभी भी बिजली से वंचित हैं। दुनिया के 65.5 करोड़ लोग अब भी बिजली से वंचित, दो अरब प्रदूषित ईंधन के सहारे।
 
 ---
 
 ## यूरोप और रूस
-
-### [यूरोप में रिकॉर्डतोड़ गर्मी का कहर: फ्रांस में एक हफ्ते में 1,000 अतिरिक्त मौतें तो जर्मनी में भी](https://www.patrika.com/world-news/europe-heatwave-france-1000-extra-deaths-germany-temperature-record-climate-change-20704810)
-*Patrika (World)* - Jun 29, 05:26 IST (iso: 2026-06-28T23:56:14+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Europe-Heatwavefff.webp -->
-
-फ्रांस में पिछले सप्ताह रिकॉर्ड तोड़ गर्मी के कारण अनुमानित 1,000 अतिरिक्त मौतें हुईं। Europe Heatwave: यूरोप इस समय भीषण हीटवेव की चपेट में है। फ्रांस में रिकॉर्डतोड़ गर्मी के कारण पिछले सप्ताह करीब 1,000 अतिरिक्त लोगों की मौत होने का अनुमान लगाया गया है। वहीं, जर्मनी में दिन और रात दोनों के तापमान ने नए रिकॉर्ड बना दिए हैं।
 
 ### [रूस की दो तेल रिफाइनरियों पर यूक्रेन का ड्रोन हमला, पुतिन ने पहली बार मानी ईंधन की कमी](https://www.amarujala.com/world/ukraine-s-drone-set-another-russian-oil-refinery-ablaze-as-putin-admits-fuel-shortages-2026-06-29)
 *Amar Ujala Breaking* - Jun 29, 05:09 IST (iso: 2026-06-28T23:39:09+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/ukraines-drone-set-another-russian-oil-refinery-ablaze-as-putin-admits-fuel-shortages_c7f02a0e80c2e405e86a17d884086090.jpeg?w=1200&dpr=1.0 -->
 
 यूक्रेन ने दो रूसी तेल रिफाइनरियों पर ड्रोन से हमला किया। यह हमला रूस के क्रास्नोडार क्षेत्र में हुआ। एक रिफाइनरी में आग लग गई। राष्ट्रपति व्लादिमीर पुतिन ने पहली बार स्वीकार किया कि देश में ईंधन की कमी हो सकती है। उन्होंने कहा कि सरकार ईंधन की कमी को दूर करने के लिए कदम उठा रही है। रूस की दो तेल रिफाइनरियों पर यूक्रेन का ड्रोन हमला, पुतिन ने पहली बार मानी ईंधन की कमी।
-
-### [‘यूक्रेन के हमलों से आ रही हैं मुश्किलें, लेकिन सुरक्षित रहेंगी रूस की सीमाएं’](https://www.patrika.com/world-news/russia-ukraine-war-putin-admits-problems-ukraine-drone-attacks-20704680)
-*Patrika (World)* - Jun 28, 23:20 IST (iso: 2026-06-28T17:50:24+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Vladimir-Putin-1.webp -->
-
-रूस के राष्ट्रपति व्लादिमीर पुतिन ने स्वीकार किया है कि यूक्रेन के बढ़ते लंबी दूरी के हमलों से रूस Russia Ukraine War Update: रूस के राष्ट्रपति व्लादिमीर पुतिन ने स्वीकार किया है कि यूक्रेन के लगातार बढ़ते लंबी दूरी के हमलों के कारण रूस को कुछ चुनौतियों का सामना करना पड़ रहा है। हालांकि, उन्होंने साथ ही यह भी कहा कि रूस इन हालात से निपटने में सक्षम है और देश की सुरक्षा तथा सीमाओं की अखंडता पूरी तरह सुरक्षित रहेगी।
-
-### [एक तस्वीर... जिसने बदल दिया पूरे यूरोप का मूड, जिस पल का इंतजार था, वह आखिर कैमरे में कैद हो गया](https://hindi.news18.com/world/europe-europe-heatwave-most-relieving-photo-rain-weather-relief-photogallery-10610647.html)
-*News18 Hindi (World)* - Jun 28, 22:08 IST (iso: 2026-06-28T16:38:42+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/France-2026-06-9a8a2cf3881a189741c1e90d5157a6e6-1200x800.jpg -->
-
-यूरोप करीब एक महीने से भीषण गर्मी की चपेट में है। रिकॉर्ड तापमान ने लोगों का जीवन मुश्किल कर दिया है। करीब एक महीने से यूरोप भीषण हीटवेव की चपेट में है. रिकॉर्ड तापमान ने लोगों का जीना मुश्किल कर दिया है. कहीं फव्वारों में उतरकर लोग राहत तलाश रहे हैं, कहीं समुद्र तटों पर भीड़ उमड़ रही है, तो कहीं भीषण गर्मी से ट्राम की पटरियां तक मुड़ने लगी हैं.
-
-### [रूस में ईंधन की भारी किल्लत, अब दूसरे देश से तेल मंगाएंगे पुतिन, डीजल निर्यात पर भी पूरी तरह से रोक](https://www.patrika.com/world-news/russia-diesel-export-ban-fuel-import-here-all-latest-update-20704426)
-*Patrika (World)* - Jun 28, 21:01 IST (iso: 2026-06-28T15:31:34+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Vladimir-Putin.png -->
-
-रूस में ईंधन की भारी किल्लत है। राष्ट्रपति पुतिन अब दूसरे देशों से तेल आयात करेंगे। रूस ने डीजल निर्यात पर भी पूरी तरह से रोक लगा दी है। यूक्रेन के ड्रोन हमलों से रिफाइनरी संयंत्रों को नुकसान पहुंचा, जिससे घरेलू बाजार में डीजल और पेट्रोल की कमी हुई। रूस में तेल को लेकर हाहाकार मच गया है। यूक्रेन के ड्रोन हमलों से रिफाइनरी प्लांट्स को भारी नुकसान पहुंचा है, जिसकी वजह से घरेलू बाजार में डीजल और पेट्रोल की कमी महसूस हो रही है।
 
 ---
 

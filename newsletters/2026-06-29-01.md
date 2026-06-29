@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** June 29, 2026 06:29 IST
+**Updated:** June 29, 2026 07:23 IST
 
 ---
 
@@ -30,7 +30,7 @@ Thai police arrested a 46-year-old Australian man at an airport in connection wi
 
 ### [Issues of War and Peace Gain Top Billing in Armenia’s Election](https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election)
 *International Crisis Group* - Tuesday, June 2, (iso: Tuesday, June 2, 2026 - 16:33)
-<!-- image: https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+<!-- image: https://images.pexels.com/photos/11816420/pexels-photo-11816420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Armenia will hold its first general election since 2021 on Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.
 
@@ -53,7 +53,7 @@ Pakistan began conveying proposals to end the war soon after the United States a
 The European Union's upcoming seven-year budget may jeopardize funding for conflict prevention and aid to fragile states. Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson have outlined the potential consequences of these funding plans. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences.
 
 ### [Iran warns ships not to bypass its chosen Hormuz route](https://www.thehindu.com/news/international/iran-warns-ships-not-to-bypass-its-chosen-hormuz-route/article71159031.ece)
-*The Hindu (International)* - Jun 29, 01:53 IST (iso: 2026-06-28T20:23:09+00:00)
+*The Hindu (International)* - Jun 29, 06:42 IST (iso: 2026-06-29T01:12:42+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/5dey32/article71159033.ece/alternates/LANDSCAPE_1200/2026-06-26T134326Z_1979541742_RC2N1MAO4YN7_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG -->
 
 Iran warned ships to use its designated route through the Strait of Hormuz. At the moment, Iran insists ships transiting the strait pass through a corridor close to its own shores, though this week dozens of vessels have travelled along the opposite side of the waterway, hugging the Omani coast. Iran warns ships not to bypass its chosen Hormuz route.
