@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-01T16:51:44.961824+00:00",
+  "generated_at": "2026-07-01T17:40:16.210129+00:00",
   "article_count": 50,
-  "total_unique_count": 279,
+  "total_unique_count": 280,
   "digest": {
     "en": "Asia-Pacific leads the board this hour with Myanmar’s New Administration: Military Consolidation, Not Transition. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर अमेरिका की अगुवाई है, अगर अमेरिका जीता फीफा वर्ल्ड कप, चांद पर खेली जाएगी फुटबॉल! NASA का बड़ा ऐलान मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "इस घंटे बोर्ड पर यूरोप और रूस की अगुवाई है, बेल्जियम में 10 मंजिला इमारत में लगी भीषण आग, 6 लोगों की हुई मौत मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -136,18 +136,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2020/05/China-EU-Flags-1.jpg",
       "summary": "China and the European Union launched a new Trade and Investment Consultation Mechanism in Brussels on The official launch of the China-EU Trade and Investment Consultation Mechanism represents one of the most significant developments in China-Europe economic relations in recent years, underscoring a shared determination to manage an increasingly complex commercial relationship through dialogue rather than confrontation. At the inaugural meeting in Brussels, on June 29, China’s Minister of Commerce.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US Alien Registration Rule Explained: What It Means For Immigrants",
-      "url": "https://www.ndtv.com/world-news/us-alien-registration-rule-explained-what-it-means-for-immigrants-11711702#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-07-01T08:36:43+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-07/5pqsenio_us-department-of-homeland-security_625x300_01_July_26.jpeg",
-      "summary": "The US Department of Homeland Security finalised its alien registration rule. The US Department of Homeland Security has finalised its alien registration rule, requiring certain non-citizens, including children turning 14, to register and provide biometric data, while most existing H-1B holders remain exempt from fresh registration. US Alien Registration Rule Explained: What It Means For Immigrants.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -308,6 +296,54 @@
       "translations": {}
     },
     {
+      "title": "Police units deployed across South Africa before anti-immigration marches",
+      "url": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-06-30T10:20:52+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/5c96330c47f8451be6aa744c3b33f6091f935bce/174_0_3576_2861/master/3576.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68d3508727eb7b399593a91fcff1d630",
+      "summary": "South African authorities deployed police units across towns and cities ahead of planned anti-immigration Government fears repeat of anti-migrant violence in 2008 that led to looting and resulted in deaths of 62 peopleSouth African authorities have deployed police units to towns and cities around the country before planned demonstrations against undocumented foreign nationals. Security personnel were seen patrolling the central business district in Johannesburg, the economic capital, where many shopkee.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "बेल्जियम में 10 मंजिला इमारत में लगी भीषण आग, 6 लोगों की हुई मौत",
+      "url": "https://www.patrika.com/world-news/6-people-dead-in-apartment-fire-in-antwerp-belgium-20713288",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-01T17:29:48+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/belgium-fire.webp",
+      "summary": "बेल्जियम के एंटवर्प शहर में एक दस मंजिला आवासीय इमारत में आग लगने से छह लोगों की मौत हो गई बेल्जियम (Belgium) के एंटवर्प (Antwerp) शहर में आज एक आवासीय इमारत में आग लग गई, जिससे हड़कंप मच गया। यह घटना शहर के लिंकेरोएवर इलाके में घटित हुई, जहाँ एक 10 मंजिला आवासीय इमारत में आग लगने का मामला सामने आया।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बेल्जियम में 10 मंजिला इमारत में लगी भीषण आग, 6 लोगों की हुई मौत",
+          "summary": "बेल्जियम के एंटवर्प शहर में एक दस मंजिला आवासीय इमारत में आग लगने से छह लोगों की मौत हो गई बेल्जियम (Belgium) के एंटवर्प (Antwerp) शहर में आज एक आवासीय इमारत में आग लग गई, जिससे हड़कंप मच गया। यह घटना शहर के लिंकेरोएवर इलाके में घटित हुई, जहाँ एक 10 मंजिला आवासीय इमारत में आग लगने का मामला सामने आया।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "पहाड़ों को चीरती हुए 350 KMPH से दौड़ी चीन की बुलेट ट्रेन, 5 घंटे का सफर ढाई घंटे में, ₹66 अरब आया",
+      "url": "https://hindi.news18.com/world/china-china-bullet-train-run-speed-350-kmph-expenses-only-66-billion-10620248.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-01T17:09:53+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/bullet-train-2026-06-5e25e28c1d8489ff3cb2a56263dbf692-1200x800.jpg",
+      "summary": "चीन ने 66 अरब रुपये की लागत से एक नई बुलेट ट्रेन लाइन शुरू की है. चीन ने 66 अरब की लागत से एक बुलेट ट्रेन बनाई है. इसकी स्पीड 350 किलोमीटर प्रति घंटा है. इस नई 257 किलोमीटर लंबी रेल लाइन के शुरू होने से दोनों शहरों के बीच सफर का समय 6 घंटे से ज्यादा कम हो गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पहाड़ों को चीरती हुए 350 KMPH से दौड़ी चीन की बुलेट ट्रेन, 5 घंटे का सफर ढाई घंटे में, ₹66 अरब आया",
+          "summary": "चीन ने 66 अरब रुपये की लागत से एक नई बुलेट ट्रेन लाइन शुरू की है. चीन ने 66 अरब की लागत से एक बुलेट ट्रेन बनाई है. इसकी स्पीड 350 किलोमीटर प्रति घंटा है. इस नई 257 किलोमीटर लंबी रेल लाइन के शुरू होने से दोनों शहरों के बीच सफर का समय 6 घंटे से ज्यादा कम हो गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "अगर अमेरिका जीता फीफा वर्ल्ड कप, चांद पर खेली जाएगी फुटबॉल! NASA का बड़ा ऐलान",
       "url": "https://hindi.news18.com/world/america-us-wins-fifa-world-cup-football-will-be-on-moon-nasa-announcement-10620190.html",
       "source": "News18 Hindi (World)",
@@ -384,7 +420,7 @@
       "url": "https://www.patrika.com/world-news/donald-trump-big-statement-us-iran-relations-denuclearization-20713114",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-01T15:01:44+00:00",
+      "published_at": "2026-07-01T15:19:04+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/trump.webp",
       "summary": "डोनाल्ड ट्रंप ने दावा किया कि अमेरिका ने ईरान पर लगातार तीन रातों तक हमले किए। Middle East Tentation: मिडिल-ईस्ट में लंबे समय से तनाव जारी है। इस बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का बड़ा बयान सामने आया है। ट्रंप ने दावा किया कि ईरान का परमाणु कार्यक्रम खत्म करने की दिशा में तेजी से काम हो रहा है। बातचीत भी सही दिशा में हो रही है।",
       "region": "Middle East & Africa",
@@ -718,42 +754,6 @@
           "title": "तब तो किस्मत ने बचा लिया, अब कौन बचाएगा? सिंधु के पानी पर भारत की टेढ़ी नजर पाक को बर्बाद करके",
           "summary": "पिछले साल भारत ने पाकिस्तान के साथ तनाव के बीच सिंधु नदी का पानी रोक दिया था. Pakistan Water Crisis Indus Treaty Move: भारत-पाकिस्तान के बीच जब पिछले साल युद्ध से हालात चल रहे थे, तो सिंधु जल संधि पर बड़ा कदम उठाते हुए पानी ही रोक दिया था. तब ये देश बाप-बाप चिल्ला उठा था. आधिकारिक दस्तावेज बताते हैं कि खरीफ की फसल ही खतरे में थी.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "रूस ने यूक्रेन के 5 फ्यूल स्टेशनों पर बरसाए ड्रोन, एक महिला की मौत और दो घायल",
-      "url": "https://www.patrika.com/world-news/russia-ukraine-war-russia-drone-attack-on-5-fuel-stations-20712334",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-01T10:39:50+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Russia-Ukraine-War-Update.webp",
-      "summary": "रूस ने यूक्रेन के ईंधन स्टेशनों पर ड्रोन हमले किए। हर दिन हमले हो रहे हैं। कभी रसिया अटैक कर रहा है तो कभी यूक्रेन जवाबी कार्रवाई कर रहा है। बीती रात रूस ने यूक्रेन के फ्यूल स्टेशनों को निशाना बनाया। रातभर हुए ड्रोन हमलों में एक महिला की जान चली गई। जबकि दो लोग बुरी तरह से घायल हो गए।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस ने यूक्रेन के 5 फ्यूल स्टेशनों पर बरसाए ड्रोन, एक महिला की मौत और दो घायल",
-          "summary": "रूस ने यूक्रेन के ईंधन स्टेशनों पर ड्रोन हमले किए। हर दिन हमले हो रहे हैं। कभी रसिया अटैक कर रहा है तो कभी यूक्रेन जवाबी कार्रवाई कर रहा है। बीती रात रूस ने यूक्रेन के फ्यूल स्टेशनों को निशाना बनाया। रातभर हुए ड्रोन हमलों में एक महिला की जान चली गई। जबकि दो लोग बुरी तरह से घायल हो गए।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मैक्सिको की जीत के जश्न के दौरान दम घुटने से दो लोगों की मौत, जानिए क्यों घुटता है दम",
-      "url": "https://www.patrika.com/world-news/world-cup-two-people-die-suffocation-during-celebrations-mexico-victory-20712073",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-01T10:21:40+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Mexico-FIFA-World-Cup-2026.webp",
-      "summary": "मेक्सिको सिटी में विश्व कप के अगले दौर में मेक्सिको के पहुंचने के बाद हुए व्यापक जश्न के दौरान दम घुटने World Cup Two People Die Mexico: मैक्सिको सिटी में मैक्सिको के विश्व कप के अगले दौर में पहुंचने के बाद हुए व्यापक जश्न के दौरान दम घुटने के कारण दो लोगों की मौत हो गई। मेक्सिको सिटी के स्वास्थ्य सचिवालय ने बुधवार को इस आशय की जानकारी दी।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मैक्सिको की जीत के जश्न के दौरान दम घुटने से दो लोगों की मौत, जानिए क्यों घुटता है दम",
-          "summary": "मेक्सिको सिटी में विश्व कप के अगले दौर में मेक्सिको के पहुंचने के बाद हुए व्यापक जश्न के दौरान दम घुटने World Cup Two People Die Mexico: मैक्सिको सिटी में मैक्सिको के विश्व कप के अगले दौर में पहुंचने के बाद हुए व्यापक जश्न के दौरान दम घुटने के कारण दो लोगों की मौत हो गई। मेक्सिको सिटी के स्वास्थ्य सचिवालय ने बुधवार को इस आशय की जानकारी दी।",
-          "region": "अमेरिका"
         }
       }
     }
