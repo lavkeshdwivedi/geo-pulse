@@ -1,28 +1,62 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 01, 2026 06:29 IST
+**अपडेट:** July 01, 2026 07:24 IST
+
+---
+
+## अमेरिका
+
+### [मैक्सिको में सुबह-सुबह कांपी धरती, 5.7 तीव्रता वाले भूकंप से मचा हड़कंप, सुनामी का अलर्ट है या नहीं?](https://hindi.news18.com/world/rest-of-world-earthquake-today-news-5-7-magnitude-earthquake-struck-mexico-sinaloa-coast-tsunami-alert-ws-l-10617378.html)
+*News18 Hindi (World)* - Jul 01, 07:20 IST (iso: 2026-07-01T01:50:24+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/venezuela-earthquake-3-2026-06-2dcf0ced42b9a425034e62f5ebcd545c-1200x800.jpg -->
+
+मैक्सिको के सिनालोआ तट के पास कैलिफोर्निया की खाड़ी में सुबह 5.7 तीव्रता का भूकंप आया। Mexico Earthquake News: वेनेजुएला के बाद अब मैक्सिको में भूकंप के झटके महसूस किए गए हैं. मैक्सिको के सिनालोआ तट के पास कैलिफोर्निया की खाड़ी में 5.7 तीव्रता का भूकंप आया है. GFZ और USGS के अनुसार कोई बड़ा नुकसान या सुनामी का अलर्ट नहीं है.
+
+### [डोनाल्ड ट्रंप ने क्रिप्टो कारोबार से कमाए 1.2 अरब डॉलर: प्रॉपर्टी बिजनेस को पीछे छोड़ा, रिपोर्ट में](https://www.amarujala.com/world/donald-trump-crypto-business-outpaced-his-real-estate-empire-in-annual-earnings-2026-07-01)
+*Amar Ujala World* - Jul 01, 07:18 IST (iso: 2026-07-01T01:48:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/09/donald-trump-nba-finals-2026-madison-square-garden-new-york-knicks-san-antonio-spurs-trump-booe_ee6d9d7d2b3c50a302aa0f98ba286c9e.jpeg?w=1200&dpr=1.0 -->
+
+डोनाल्ड ट्रंप ने क्रिप्टो कारोबार से 1.2 अरब डॉलर कमाए हैं. डोनाल्ड ट्रंप ने क्रिप्टो कारोबार से कमाए 1.2 अरब डॉलर: प्रॉपर्टी बिजनेस को पीछे छोड़ा, रिपोर्ट में।
+
+### [बारिश-बिजली के खतरे के कारण मैच शुरू होने में देरी, मेक्सिको को घरेलू मैदान का सहारा](https://www.amarujala.com/sports/football/mexico-vs-ecuador-live-world-cup-round-of-32-clash-fifa-world-cup-live-updates-and-score-highlights-2026-07-01)
+*Amar Ujala Breaking* - Jul 01, 07:00 IST (iso: 2026-07-01T01:30:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/mexico-vs-ecuador-live-fifa-world-cup-2026-mexico-vs-ecuador-weather-delay-mexico-city-rain-javi_2a69d054c7f32e7fcc233c4acb02f5ad.jpeg?w=1200&dpr=1.0 -->
+
+फीफा ने स्टेडियम के आसपास बिजली गिरने के जोखिम के कारण एक मैच को स्थगित किया। फीफा ने बयान जारी कर कहा कि स्टेडियम के आसपास बिजली गिरने का जोखिम होने के कारण मैच में देरी का फैसला लिया गया है। बारिश-बिजली के खतरे के कारण मैच शुरू होने में देरी, मेक्सिको को घरेलू मैदान का सहारा।
+
+### [अमेरिकी राष्ट्रपति ने सुप्रीम कोर्ट के फैसलों पर दी प्रतिक्रिया, जिनपिंग पर कसा तंज](https://www.amarujala.com/world/donald-trump-s-mixed-reactions-us-president-responds-to-supreme-court-rulings-takes-a-dig-at-xi-jinping-2026-07-01)
+*Amar Ujala Breaking* - Jul 01, 05:06 IST (iso: 2026-06-30T23:36:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/donald-trumps-mixed-reactions-us-president-responds-to-supreme-court-rulings-takes-a-dig-at-xi-ji_cab02702d18ccb496be6d1fd8155c174.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सुप्रीम कोर्ट के फैसलों पर अपनी प्रतिक्रिया दी। उन्होंने चीनी राष्ट्रपति शी जिनपिंग पर भी कटाक्ष किया। अमेरिकी राष्ट्रपति ने सुप्रीम कोर्ट के फैसलों पर दी प्रतिक्रिया, जिनपिंग पर कसा तंज।
+
+### [मिडटर्म चुनाव से पहले डोनाल्ड ट्रंप का बड़ा दांव, रिपब्लिकन पार्टी पहली बार करेगी राष्ट्रीय सम्मेलन](https://www.patrika.com/world-news/donald-trump-republican-national-convention-before-us-midterm-elections-dallas-20710566)
+*Patrika (World)* - Jul 01, 04:07 IST (iso: 2026-06-30T22:37:16+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trumphhhh.webp -->
+
+डोनाल्ड ट्रंप ने मिडटर्म चुनाव से पहले रिपब्लिकन पार्टी के इतिहास में पहली बार राष्ट्रीय सम्मेलन आयोजित करने की घोषणा की है US President Donald Trump: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने मिडटर्म चुनाव से पहले रिपब्लिकन पार्टी के इतिहास का पहला राष्ट्रीय सम्मेलन आयोजित करने की घोषणा की है। यह सम्मेलन 9 और 10 सितंबर को टेक्सास के डलास में होगा।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [हालंद का गोल बना निर्णायक, आइवरी कोस्ट को हराकर राउंड ऑफ 16 में पहुंचा नॉर्वे](https://www.amarujala.com/sports/football/fifa-world-cup-2026-cote-d-ivoire-vs-norway-highlights-today-football-match-result-key-moments-photos-2026-07-01)
-*Amar Ujala Breaking* - Jul 01, 12:39 IST (iso: 2026-07-01T07:09:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/fifa_2ddb151baa551f8ce7d39ece04f9334e.jpeg?w=1200&dpr=1.0 -->
+### [अब अफगानिस्तान ने पाकिस्तान को घर में घुसकर मारा, अफगान एयरफोर्स ने की एयरस्ट्राइक, कहां-कहां बरसे](https://hindi.news18.com/world/pakistan-afghanistan-airstrike-pakistan-drone-strikes-were-carried-out-on-isis-centers-in-balochistan-khyber-pakhtunkhwa-10617291.html)
+*News18 Hindi (World)* - Jul 01, 07:19 IST (iso: 2026-07-01T01:49:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/afghanistan-airstrike-pakistan-1-2026-07-4d84af05f46de58802b6ca4d0362e51a-1200x800.jpg -->
 
-नॉर्वे ने आइवरी कोस्ट को 2-1 से हराकर फीफा विश्व कप के राउंड ऑफ 16 में जगह बनाई नॉर्वे ने रोमांचक मुकाबले में आइवरी कोस्ट को 2-1 से हराया और अगले दौर में पहुंचने में सफल रहा। हालंद का गोल बना निर्णायक, आइवरी कोस्ट को हराकर राउंड ऑफ 16 में पहुंचा नॉर्वे।
+अफगानिस्तान ने पाकिस्तान के बलूचिस्तान और खैबर पख्तूनख्वा प्रांतों में हवाई हमले किए हैं। तालिबानी सरकार ने पाकिस्तान में ड्रोन से बम-गोलों की बरसात कर आतंकी ठिकानों को ध्वस्त किया है. इस तरह अफगानिस्तान ने पाकिस्तान की हालिया एयरस्ट्राइक का जवाब दे दिया है. अफगान रक्षा मंत्रालय के अनुसार, वायुसेना ने बलूचिस्तान और खैबर पख्तूनख्वा में ISIS/दाएश के कई ठिकानों पर फाइटर जेट और ड्रोन से हमला किया.
+
+### [ट्रंप बोले- कच्चा तेल सस्ता हुआ, पेट्रोल कंपनियां तुरंत घटाएं कीमत; सॉन्डरलिंग स्थायी श्रम मंत्री](https://www.amarujala.com/world/world-updates-of-1-july-world-news-us-iran-conflict-donald-trump-crude-oil-bangladesh-news-in-hindi-2026-07-01)
+*Amar Ujala World* - Jul 01, 07:08 IST (iso: 2026-07-01T01:38:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=1200&dpr=1.0 -->
+
+डोनाल्ड ट्रंप ने कहा कि कच्चे तेल की कीमतें कम हो गई हैं। उन्होंने पेट्रोल कंपनियों से तुरंत कीमतें घटाने का आग्रह किया। ट्रंप बोले- कच्चा तेल सस्ता हुआ, पेट्रोल कंपनियां तुरंत घटाएं कीमत; सॉन्डरलिंग स्थायी श्रम मंत्री।
 
 ### [‘अमेरिका ने समझौते का पालन नहीं किया तो युद्ध के लिए रहे तैयार’, ईरान का डोनाल्ड ट्रंप के लिए खुला](https://www.patrika.com/world-news/iran-us-tensions-mohammad-bagher-ghalibaf-warning-strait-of-hormuz-doha-talks-20710584)
 *Patrika (World)* - Jul 01, 05:56 IST (iso: 2026-07-01T00:26:14+00:00)
 <!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/US-Iran-Conflict.webp -->
 
 ईरानी संसद के अध्यक्ष मोहम्मद बाघेर गालिबाफ ने अमेरिका को चेतावनी दी है। Iran Message To America: ईरान और अमेरिका के बीच तनाव एक बार फिर बढ़ता दिखाई दे रहा है। ईरानी संसद के अध्यक्ष और अमेरिका से बातचीत के प्रमुख मुख्य मोहम्मद बाघेर गालिबाफ ने चेतावनी दी है कि यदि अमेरिका दोनों देशों के बीच हुए समझौता ज्ञापन (MoU) का पालन नहीं करता है, तो ईरान युद्ध के लिए तैयार है।
-
-### [अब अफगानिस्तान ने पाकिस्तान को घर में घुसकर मारा, अफगान एयरफोर्स ने की एयरस्ट्राइक, कहां-कहां बरसे](https://hindi.news18.com/world/pakistan-afghanistan-airstrike-pakistan-drone-strikes-were-carried-out-on-isis-centers-in-balochistan-khyber-pakhtunkhwa-10617291.html)
-*News18 Hindi (World)* - Jul 01, 05:51 IST (iso: 2026-07-01T00:21:34+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/afghanistan-airstrike-pakistan-1-2026-07-4d84af05f46de58802b6ca4d0362e51a-1200x800.jpg -->
-
-अफगानिस्तान ने पाकिस्तान के बलूचिस्तान और खैबर पख्तूनख्वा प्रांतों में हवाई हमले किए हैं। तालिबानी सरकार ने पाकिस्तान में ड्रोन से बम-गोलों की बरसात कर आतंकी ठिकानों को ध्वस्त किया है. इस तरह अफगानिस्तान ने पाकिस्तान की हालिया एयरस्ट्राइक का जवाब दे दिया है. अफगान रक्षा मंत्रालय के अनुसार, वायुसेना ने बलूचिस्तान और खैबर पख्तूनख्वा में ISIS/दाएश के कई ठिकानों पर फाइटर जेट और ड्रोन से हमला किया.
 
 ### [ईरान फीफा विश्व कप से बाहर: अमेरिकी मंत्री के बयान पर भड़के अराघची, US की मेजबानी की योग्यता पर](https://www.amarujala.com/world/iran-us-row-fifa-world-cup-2026-seyed-abbas-araghchi-markwayne-mullin-iran-football-team-2026-07-01)
 *Amar Ujala World* - Jul 01, 05:04 IST (iso: 2026-06-30T23:34:59+00:00)
@@ -38,53 +72,19 @@
 
 ---
 
-## दुनिया
-
-### [मैक्सिको में सुबह-सुबह कांपी धरती, 5.7 तीव्रता वाले भूकंप से मचा हड़कंप, सुनामी का अलर्ट है या नहीं?](https://hindi.news18.com/world/rest-of-world-earthquake-today-news-5-7-magnitude-earthquake-struck-mexico-sinaloa-coast-tsunami-alert-10617378.html)
-*News18 Hindi (World)* - Jul 01, 06:26 IST (iso: 2026-07-01T00:56:35+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2020/12/breaking-alert.jpeg -->
-
-मैक्सिको में सुबह-सुबह 5.7 तीव्रता का भूकंप आया। मैक्सिको में सुबह-सुबह कांपी धरती, 5.7 तीव्रता वाले भूकंप से मचा हड़कंप, सुनामी का अलर्ट है या नहीं?
-
-### [Weather Forecast 01 July 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-01-july-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-07-01)
-*Amar Ujala National* - Jul 01, 06:00 IST (iso: 2026-07-01T00:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/weather-forecast_38aa98ada780b52dc63de87c9ee6ea9c.jpeg?w=1200&dpr=1.0 -->
-
-1 जुलाई 2026 को भारत के कई हिस्सों में भारी बारिश की उम्मीद है। मौसम विभाग ने मुंबई, पुणे और गोवा में ऑरेंज अलर्ट जारी किया है। दिल्ली और आसपास के इलाकों में हल्की से मध्यम बारिश हो सकती है। उत्तर प्रदेश और बिहार में भी कुछ स्थानों पर गरज के साथ बौछारें पड़ने की संभावना है। देश के बाकी हिस्सों में मौसम शुष्क रहने की उम्मीद है।
-
-### [जांच में अहम खुलासा, राममंदिर में अनिल मिश्रा की सिफारिश से रखे गए थे सवा सौ से अधिक कर्मचारी](https://www.amarujala.com/lucknow/over-125-employees-hired-at-ram-mandir-on-anil-mishra-s-recommendation-2026-07-01)
-*Amar Ujala Breaking* - Jul 01, 05:48 IST (iso: 2026-07-01T00:18:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/30/rama-mathara-ka-caugdhhava-ka-rasha-ma-gabna_f24ebcadb777097f07a8bb29b8060c2a.jpeg?w=1200&dpr=1.0 -->
-
-राम मंदिर में चढ़ावा चोरी की जांच में एक अहम खुलासा हुआ है। राम मंदिर चढ़ावा चोरी प्रकरण की जांच में एक अहम खुलासा हुआ है। जांच में अहम खुलासा, राममंदिर में अनिल मिश्रा की सिफारिश से रखे गए थे सवा सौ से अधिक कर्मचारी।
-
-### [आज से वीबी-जी राम जी कानून लागू, ग्रामीण मजदूरों को मिलेगा 125 दिन का रोजगार; बढ़ी दैनिक मजदूरी](https://www.amarujala.com/india-news/1-july-2026-vb-g-ram-g-act-to-come-into-force-from-today-revised-wage-rates-notified-2026-07-01)
-*Amar Ujala Breaking* - Jul 01, 04:39 IST (iso: 2026-06-30T23:09:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/1-july-2026-vb-g-ram-g-act-to-come-into-force-from-today-revised-wage-rates-notified_424519644aa3664cb39c75f2975e5164.jpeg?w=1200&dpr=1.0 -->
-
-वीबी-जी राम जी कानून 1 जुलाई 2026 से लागू हो गया है। आज से वीबी-जी राम जी कानून लागू, ग्रामीण मजदूरों को मिलेगा 125 दिन का रोजगार; बढ़ी दैनिक मजदूरी।
-
-### [भाजपा नेता माधवी लता ने शूटिंग चैंपियनशिप में जीता गोल्ड, 25 मीटर पिस्टल स्पर्धा में शानदार प्रदर्शन](https://www.amarujala.com/india-news/bjp-leader-madhavi-latha-wins-gold-at-telangana-state-shooting-championship-2026-07-01)
-*Amar Ujala Breaking* - Jul 01, 04:13 IST (iso: 2026-06-30T22:43:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/mathhava-lta-bhajapa-nata_f1290b5b75e3eecc2f38b21860d2aada.jpeg?w=1200&dpr=1.0 -->
-
-भाजपा नेता माधवी लता ने तेलंगाना राज्य शूटिंग चैंपियनशिप में स्वर्ण पदक जीता। उन्होंने 25 मीटर पिस्टल स्पर्धा में यह उपलब्धि हासिल की। भाजपा नेता माधवी लता ने शूटिंग चैंपियनशिप में जीता गोल्ड, 25 मीटर पिस्टल स्पर्धा में शानदार प्रदर्शन।
-
-### [राम मंदिर ट्रस्ट के पुनर्गठन की मांग, प्रधानमंत्री को लिखी चिट्ठी; महंत धर्मदास ने लगाई ये गुहार](https://www.amarujala.com/lucknow/demand-for-restructuring-the-ram-mandir-trust-letter-written-to-the-prime-ministe-2026-07-01)
-*Amar Ujala Breaking* - Jul 01, 03:47 IST (iso: 2026-06-30T22:17:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/ayodhya_62f5af3d1c60a9af3ead754e4ae6d984.jpeg?w=1200&dpr=1.0 -->
-
-भाजपा विधान परिषद सदस्य देवेंद्र प्रताप सिंह ने प्रधानमंत्री को पत्र लिखा है. गोरखपुर-फैजाबाद स्नातक निर्वाचन क्षेत्र से भाजपा के विधान परिषद सदस्य देवेंद्र प्रताप सिंह ने प्रधानमंत्री को पत्र लिखकर श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के पुनर्गठन की मांग की है। राम मंदिर ट्रस्ट के पुनर्गठन की मांग, प्रधानमंत्री को लिखी चिट्ठी; महंत धर्मदास ने लगाई ये गुहार।
-
-### [पासपोर्ट बनवाने के लिए ज्यादा फीस, एलपीजी सिलिंडर की नई कीमतें; आज से देश में होंगे ये बड़े बदलाव](https://www.amarujala.com/india-news/major-financial-changes-from-today-july-1-2026-impact-on-itr-aadhaar-credit-cards-passport-2026-07-01)
-*Amar Ujala Breaking* - Jul 01, 02:44 IST (iso: 2026-06-30T21:14:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/1-jalii-sa-kaii-nayama-ma-haga-bthalva_d6760fc31d3e070e2d1938e85a72d3a8.jpeg?w=1200&dpr=1.0 -->
-
-भारत में 1 जुलाई 2026 से छह प्रमुख वित्तीय नियमों में बदलाव हुआ है। 1 जुलाई 2026 से आधार, ITR, क्रेडिट कार्ड और पासपोर्ट फीस से जुड़े 6 बड़े वित्तीय नियमों में बदलाव हो रहा है। जानिए इन बदलावों का आपकी जेब और निवेश पर क्या असर पड़ेगा, पूरी खबर पढ़ें! पासपोर्ट बनवाने के लिए ज्यादा फीस, एलपीजी सिलिंडर की नई कीमतें; आज से देश में होंगे ये बड़े बदलाव।
-
----
-
 ## एशिया-प्रशांत
+
+### [शेख हसीना को लेकर बांग्लादेश के तारिक रहमान सरकार की कड़ी चेतावनी, कहा- बयान दिखाए तो होगी कार्रवाई](https://www.patrika.com/world-news/bangladesh-tarique-rahman-led-bnp-govt-warns-media-not-to-air-sheikh-hasina-statements-20710613)
+*Patrika (World)* - Jul 01, 07:03 IST (iso: 2026-07-01T01:33:43+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/sheikh-hasina.webp -->
+
+बांग्लादेश में तारिक रहमान के नेतृत्व वाली बांग्लादेश नेशनलिस्ट पार्टी (बीएनपी) सरकार ने मीडिया संस्थानों को कड़ी चेतावनी Bangladesh On Sheikh Hasina Statement: बांग्लादेश में तारिक रहमान के नेतृत्व वाली बांग्लादेश नेशनलिस्ट पार्टी (BNP) सरकार ने चेतावनी दी कि अगर देश का कोई मीडिया संस्थान पूर्व प्रधानमंत्री शेख हसीना के बयान या भाषण दिखाएगा तो उसके खिलाफ कार्रवाई की जा सकती है।
+
+### [सुप्रीम कोर्ट के फैसले के बाद डोनाल्ड ट्रंप ने शी जिनपिंग को क्यों दी बधाई, क्या है इसका मतलब?](https://hindi.news18.com/world/america-why-donald-trump-congratulates-xi-jinping-after-us-supreme-court-birthright-citizenship-ruling-explainer-10617274.html)
+*News18 Hindi (World)* - Jul 01, 06:48 IST (iso: 2026-07-01T01:18:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/donald-trump-congratulates-xi-jinping-after-us-supreme-court-birthright-citizenship-ruling-explainer-2026-07-2b48eca4ced5bd863da607266c9a2c86-1200x800.jpg -->
+
+अमेरिकी सुप्रीम कोर्ट ने डोनाल्ड ट्रंप के बर्थराइट सिटीजनशिप पर कार्यकारी आदेश को खारिज कर दिया. Donald Trum News: अमेरिकी सुप्रीम कोर्ट ने बर्थराइट सिटीजनशिप (Birthright Citizenship) पर डोनाल्ड ट्रंप के कार्यकारी आदेश को खारिज कर दिया. फैसले के कुछ ही घंटे बाद ट्रंप ने चीन के राष्ट्रपति शी जिनपिंग को सटायर वाले अंदाज में बधाई दी. इसके बाद नई राजनीतिक बहस छिड़ गई.
 
 ### [जापान की प्रधानमंत्री आज से भारत के दौरे पर, देश मेंं वीबी-जी राम-जी अधिनियम होगा लागू](https://www.amarujala.com/india-news/01-july-2026-major-events-2026-06-30)
 *Amar Ujala National* - Jul 01, 06:25 IST (iso: 2026-07-01T00:55:51+00:00)
@@ -110,24 +110,6 @@
 
 दिल्ली-एनसीआर में अगले दो-तीन दिनों में मानसून आने की उम्मीद है। इस बीच, असम और अरुणाचल प्रदेश में बाढ़ और भारी बारिश ने जनजीवन को प्रभावित किया है। दिल्ली-एनसीआर में दो-तीन दिन में मानसून की उम्मीद, असम और अरुणाचल में बाढ़-बारिश से जनजीवन प्रभावित।
 
-### [मुंबई में बारिश के दौरान स्कूल बस पर गिरा पीपल का पेड़, 11 साल के छात्र की मौत; चार बच्चे घायल](https://www.amarujala.com/india-news/mh-student-killed-many-injured-as-peepal-tree-falls-on-school-bus-in-mumbai-amid-rains-2026-07-01)
-*Amar Ujala National* - Jul 01, 05:45 IST (iso: 2026-07-01T00:15:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/11-year-old-student-killed-4-injured-as-peepal-tree-falls-on-school-bus-in-mumbai-amid-rains_d59e9f82177c9e3a2b01711da3156cb6.jpeg?w=1200&dpr=1.0 -->
-
-मुंबई में भारी बारिश के दौरान एक स्कूल बस पर पीपल का पेड़ गिरने से एक ग्यारह वर्षीय छात्र की मौत हो गई। मुंबई में बारिश के दौरान स्कूल बस पर गिरा पीपल का पेड़, 11 साल के छात्र की मौत; चार बच्चे घायल।
-
-### [अहमदाबाद में थाईलैंड से आए पार्सल में मिला ₹46 लाख का गांजा; झारखंड में महिला के सामूहिक दुष्कर्म](https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-07-01)
-*Amar Ujala National* - Jul 01, 05:43 IST (iso: 2026-07-01T00:13:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_bc25c16d5cf7783ca896c1749fa5ceab.jpeg?w=1200&dpr=1.0 -->
-
-अहमदाबाद में थाईलैंड से आए एक पार्सल से 46 लाख रुपये मूल्य का गांजा बरामद हुआ है। सीमा शुल्क अधिकारियों ने खेड़ा जिले के एक गोदाम में यह खेप पकड़ी। इस बीच, झारखंड के रामगढ़ जिले में एक महिला से सामूहिक दुष्कर्म का मामला सामने आया है। पुलिस ने तीन आरोपियों को गिरफ्तार किया है। अहमदाबाद में थाईलैंड से आए पार्सल में मिला ₹46 लाख का गांजा; झारखंड में महिला के सामूहिक दुष्कर्म।
-
-### [देश में हर दूसरा ग्रामीण काम-धंधे के कारण अपने गांव से दूर, इनके सामने सबसे ज्यादा बाधाएं](https://www.amarujala.com/india-news/nirdpr-report-gram-sabha-citizen-participation-rural-development-panchayati-raj-india-2026-07-01)
-*Amar Ujala National* - Jul 01, 05:34 IST (iso: 2026-07-01T00:04:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/garama-sabhao-ma-ghata-raha-lga-ka-bhagathara_3332463a51f49dd2a3baec1fde60f060.jpeg?w=1200&dpr=1.0 -->
-
-एक राष्ट्रीय सर्वेक्षण के अनुसार, भारत में हर दूसरा ग्रामीण व्यक्ति काम-धंधे के कारण अपने गांव से दूर रह रहा है। देश में हर दूसरा ग्रामीण काम-धंधे के कारण अपने गांव से दूर, इनके सामने सबसे ज्यादा बाधाएं।
-
 ### [हिंद महासागर में भारत का एक और मास्टर-स्ट्रोक, चीन के दोस्त के साथ ही बड़ी डील, नौसेना ने संभाला](https://hindi.news18.com/world/south-asia-indian-navy-deploys-p-8i-aircraft-to-singapore-amid-rising-indian-ocean-tensions-with-china-10617254.html)
 *News18 Hindi (World)* - Jul 01, 05:01 IST (iso: 2026-06-30T23:31:02+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Indian-Singapore-Vs-China-2026-07-4b668825140bff57d5d11391d548afa1-1200x800.jpg -->
@@ -148,25 +130,43 @@
 
 ---
 
-## अमेरिका
+## दुनिया
 
-### [अमेरिकी राष्ट्रपति ने सुप्रीम कोर्ट के फैसलों पर दी प्रतिक्रिया, जिनपिंग पर कसा तंज](https://www.amarujala.com/world/donald-trump-s-mixed-reactions-us-president-responds-to-supreme-court-rulings-takes-a-dig-at-xi-jinping-2026-07-01)
-*Amar Ujala Breaking* - Jul 01, 05:06 IST (iso: 2026-06-30T23:36:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/donald-trumps-mixed-reactions-us-president-responds-to-supreme-court-rulings-takes-a-dig-at-xi-ji_cab02702d18ccb496be6d1fd8155c174.jpeg?w=1200&dpr=1.0 -->
+### [New Rules From 1st July Today: ट्रेन-पासपोर्ट से लेकर आधार तक, जानें आज 1 जुलाई से क्या-क्या बदलाव](https://www.amarujala.com/photo-gallery/utility/new-rules-from-1st-july-today-from-train-travel-and-passport-fees-to-aadhaar-know-all-major-changes-2026-07-01)
+*Amar Ujala National* - Jul 01, 06:49 IST (iso: 2026-07-01T01:19:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/1-jalii-sa-kana-kana-sa-nayama-bthal-raha-ha_6e5a43ee0099d2d0b61a4d21b1800126.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सुप्रीम कोर्ट के फैसलों पर अपनी प्रतिक्रिया दी। उन्होंने चीनी राष्ट्रपति शी जिनपिंग पर भी कटाक्ष किया। अमेरिकी राष्ट्रपति ने सुप्रीम कोर्ट के फैसलों पर दी प्रतिक्रिया, जिनपिंग पर कसा तंज।
+आज 1 जुलाई से कई नए नियम लागू हो रहे हैं। इन बदलावों का सीधा असर लोगों के जीवन पर पड़ेगा। आज यानी 1 जुलाई से कई चीजें बदल रही हैं यानी कई नए नियम लागू हो रहे हैं जिनका हमारे जीवन पर सीधा असर पड़ेगा। आप यहां जान सकते हैं कि आज से क्या-क्या बदलाव हो रहे हैं। New Rules From 1st July Today: ट्रेन-पासपोर्ट से लेकर आधार तक, जानें आज 1 जुलाई से क्या-क्या बदलाव।
 
-### [मिडटर्म चुनाव से पहले डोनाल्ड ट्रंप का बड़ा दांव, रिपब्लिकन पार्टी पहली बार करेगी राष्ट्रीय सम्मेलन](https://www.patrika.com/world-news/donald-trump-republican-national-convention-before-us-midterm-elections-dallas-20710566)
-*Patrika (World)* - Jul 01, 04:07 IST (iso: 2026-06-30T22:37:16+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trumphhhh.webp -->
+### [Weather Forecast 01 July 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-01-july-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-07-01)
+*Amar Ujala National* - Jul 01, 06:00 IST (iso: 2026-07-01T00:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/weather-forecast_38aa98ada780b52dc63de87c9ee6ea9c.jpeg?w=1200&dpr=1.0 -->
 
-डोनाल्ड ट्रंप ने मिडटर्म चुनाव से पहले रिपब्लिकन पार्टी के इतिहास में पहली बार राष्ट्रीय सम्मेलन आयोजित करने की घोषणा की है US President Donald Trump: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने मिडटर्म चुनाव से पहले रिपब्लिकन पार्टी के इतिहास का पहला राष्ट्रीय सम्मेलन आयोजित करने की घोषणा की है। यह सम्मेलन 9 और 10 सितंबर को टेक्सास के डलास में होगा।
+1 जुलाई 2026 को भारत के कई हिस्सों में भारी बारिश की उम्मीद है। मौसम विभाग ने मुंबई, पुणे और गोवा में ऑरेंज अलर्ट जारी किया है। दिल्ली और आसपास के इलाकों में हल्की से मध्यम बारिश हो सकती है। उत्तर प्रदेश और बिहार में भी कुछ स्थानों पर गरज के साथ बौछारें पड़ने की संभावना है। देश के बाकी हिस्सों में मौसम शुष्क रहने की उम्मीद है।
 
-### [अमेरिका में भीषण गर्मी का कहर बरकरार, मिडवेस्ट में लगातार चढ़ रहा पारा; पूर्वी राज्यों में अलर्ट](https://www.amarujala.com/world/united-states-heat-wave-midwest-great-lakes-heat-index-extreme-weather-detroit-chicago-weather-alert-2026-07-01)
-*Amar Ujala World* - Jul 01, 02:32 IST (iso: 2026-06-30T21:02:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/garama-ka-kahara_893eb794a774dedd5c4b9c83cbf3af35.jpeg?w=1200&dpr=1.0 -->
+### [आज से वीबी-जी राम जी कानून लागू, ग्रामीण मजदूरों को मिलेगा 125 दिन का रोजगार; बढ़ी दैनिक मजदूरी](https://www.amarujala.com/india-news/1-july-2026-vb-g-ram-g-act-to-come-into-force-from-today-revised-wage-rates-notified-2026-07-01)
+*Amar Ujala Breaking* - Jul 01, 04:39 IST (iso: 2026-06-30T23:09:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/1-july-2026-vb-g-ram-g-act-to-come-into-force-from-today-revised-wage-rates-notified_424519644aa3664cb39c75f2975e5164.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका में भीषण गर्मी का कहर जारी है. मिडवेस्ट और ग्रेट लेक्स क्षेत्र में तापमान बढ़ रहा है. अमेरिका में भीषण गर्मी का कहर बरकरार, मिडवेस्ट में लगातार चढ़ रहा पारा; पूर्वी राज्यों में अलर्ट।
+वीबी-जी राम जी कानून 1 जुलाई 2026 से लागू हो गया है। आज से वीबी-जी राम जी कानून लागू, ग्रामीण मजदूरों को मिलेगा 125 दिन का रोजगार; बढ़ी दैनिक मजदूरी।
+
+### [भाजपा नेता माधवी लता ने शूटिंग चैंपियनशिप में जीता गोल्ड, 25 मीटर पिस्टल स्पर्धा में शानदार प्रदर्शन](https://www.amarujala.com/india-news/bjp-leader-madhavi-latha-wins-gold-at-telangana-state-shooting-championship-2026-07-01)
+*Amar Ujala Breaking* - Jul 01, 04:13 IST (iso: 2026-06-30T22:43:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/01/mathhava-lta-bhajapa-nata_f1290b5b75e3eecc2f38b21860d2aada.jpeg?w=1200&dpr=1.0 -->
+
+भाजपा नेता माधवी लता ने तेलंगाना राज्य शूटिंग चैंपियनशिप में स्वर्ण पदक जीता। उन्होंने 25 मीटर पिस्टल स्पर्धा में यह उपलब्धि हासिल की। भाजपा नेता माधवी लता ने शूटिंग चैंपियनशिप में जीता गोल्ड, 25 मीटर पिस्टल स्पर्धा में शानदार प्रदर्शन।
+
+### [राम मंदिर ट्रस्ट के पुनर्गठन की मांग, प्रधानमंत्री को लिखी चिट्ठी; महंत धर्मदास ने लगाई ये गुहार](https://www.amarujala.com/lucknow/demand-for-restructuring-the-ram-mandir-trust-letter-written-to-the-prime-ministe-2026-07-01)
+*Amar Ujala Breaking* - Jul 01, 03:47 IST (iso: 2026-06-30T22:17:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/ayodhya_62f5af3d1c60a9af3ead754e4ae6d984.jpeg?w=1200&dpr=1.0 -->
+
+भाजपा विधान परिषद सदस्य देवेंद्र प्रताप सिंह ने प्रधानमंत्री को पत्र लिखा है. गोरखपुर-फैजाबाद स्नातक निर्वाचन क्षेत्र से भाजपा के विधान परिषद सदस्य देवेंद्र प्रताप सिंह ने प्रधानमंत्री को पत्र लिखकर श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के पुनर्गठन की मांग की है। राम मंदिर ट्रस्ट के पुनर्गठन की मांग, प्रधानमंत्री को लिखी चिट्ठी; महंत धर्मदास ने लगाई ये गुहार।
+
+### [पासपोर्ट बनवाने के लिए ज्यादा फीस, एलपीजी सिलिंडर की नई कीमतें; आज से देश में होंगे ये बड़े बदलाव](https://www.amarujala.com/india-news/major-financial-changes-from-today-july-1-2026-impact-on-itr-aadhaar-credit-cards-passport-2026-07-01)
+*Amar Ujala Breaking* - Jul 01, 02:44 IST (iso: 2026-06-30T21:14:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/28/1-jalii-sa-kaii-nayama-ma-haga-bthalva_d6760fc31d3e070e2d1938e85a72d3a8.jpeg?w=1200&dpr=1.0 -->
+
+भारत में 1 जुलाई 2026 से छह प्रमुख वित्तीय नियमों में बदलाव हुआ है। 1 जुलाई 2026 से आधार, ITR, क्रेडिट कार्ड और पासपोर्ट फीस से जुड़े 6 बड़े वित्तीय नियमों में बदलाव हो रहा है। जानिए इन बदलावों का आपकी जेब और निवेश पर क्या असर पड़ेगा, पूरी खबर पढ़ें! पासपोर्ट बनवाने के लिए ज्यादा फीस, एलपीजी सिलिंडर की नई कीमतें; आज से देश में होंगे ये बड़े बदलाव।
 
 ---
 
