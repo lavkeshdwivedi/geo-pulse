@@ -1,44 +1,50 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 01, 2026 06:29 IST
+**Updated:** July 01, 2026 07:24 IST
 
 ---
 
-## Americas
+## Asia-Pacific
 
-### [Venezuela quake deaths rise to 1,943, lawmaker says](https://www.thehindu.com/news/international/venezuela-earthquakes-death-toll-nearly-touches-2000-as-healthcare-system-nears-its-limit/article71167382.ece)
-*The Hindu (International)* - Jul 01, 05:36 IST (iso: 2026-07-01T00:06:04+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/619ur3/article71168407.ece/alternates/LANDSCAPE_1200/Venezuela_Earthquake_3_7_3.jpg -->
+### [Myanmar’s New Administration: Military Consolidation, Not Transition](https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition)
+*International Crisis Group* - Wednesday, June  (iso: Wednesday, June 3, 2026 - 00:00)
+<!-- image: https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-Venezuela's earthquake death toll reached 1,943, a lawmaker reported. The number of official rescues has dropped dramatically in the last three days, the government said, from 5,380 people saved in the first two days after the quakes to just four people found alive on June 29. Venezuela quake deaths rise to 1,943, lawmaker says.
+Min Aung Hlaing transitioned from commander-in-chief to president in Myanmar Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.
 
-### [58,000 buildings estimated destroyed in Venezuela earthquakes](https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes)
-*The Guardian* - Jun 30, 23:56 IST (iso: 2026-06-30T18:26:38+00:00)
-<!-- image: https://i.guim.co.uk/img/media/0ceb3553b4e43327ca3f2b83cdc42a6192ab72aa/300_0_3490_2792/master/3490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f5a70a630685dd8e8691fc4a6e7fc01 -->
+### [Thai police investigate if Australian man charged over 17-year-old girl’s murder linked to other](https://www.theguardian.com/world/2026/jun/30/thai-teen-girl-murder-australian-man-charged-police-investigate-other-unsolved-cases-ntwnfb)
+*The Guardian* - Jun 30, 16:11 IST (iso: 2026-06-30T10:41:40+00:00)
+<!-- image: https://i.guim.co.uk/img/media/1f03bfe1131fabf1741b2b6a87e377855f96ef58/711_0_1616_1292/master/1616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=034b9ddaf3eda42c98f2af6734483d6a -->
 
-Preliminary satellite data suggests over 58,000 buildings were damaged or destroyed Preliminary analysis of satellite data suggests magnitude of natural disaster could dwarf official estimatesMore than 58,000 buildings may have been damaged and destroyed by the twin earthquakes that hit Venezuela last week, according to a preliminary analysis of satellite data that suggests the scale of the destruction could dwarf official estimates. Last Wednesday’s back-to-back quakes – which me.
-
-### [Trump sons set to profit from tax-funded Kazakh tungsten mine deal](https://asiatimes.com/2026/07/trump-sons-set-to-profit-from-tax-funded-kazakh-tungsten-mine-deal/)
-*Asia Times* - Jun 30, 21:46 IST (iso: 2026-06-30T16:16:20+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/trump-campaign-funding-copy.jpg -->
-
-Donald Trump's eldest sons are set to profit from a taxpayer-funded A published report detailing how President Donald Trump’s eldest sons stand to profit from a tungsten mining deal negotiated by their billionaire father has sparked outraged calls for accountability, with Democratic lawmakers characterizing the taxpayer-funded project as yet another example of the administration’s unchecked and unprecedented corruption. According to the New York Times report, Trum.
-
-### [Amid crushing European heatwave, things are about to get hotter for transport systems](https://news.un.org/feed/view/en/story/2026/06/1167839)
-*UN News* - Jun 30, 17:30 IST (iso: 2026-06-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/29-06-2206_Adobe_heatwave.jpg/image770x420cropped.jpg -->
-
-European transport officials are addressing melting train tracks and buckling roads during a heatwave. As European transport officials scramble to deal with melting train tracks and buckling roads amid a crushing heatwave, a UN report released Tuesday warns of more extreme weather in the decades ahead for Europe, Central Asia and North America. Amid crushing European heatwave, things are about to get hotter for transport systems.
-
-### [Venezuelans newly deported from US missing after hotel collapse](https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake)
-*The Guardian* - Jun 30, 04:40 IST (iso: 2026-06-29T23:10:15+00:00)
-<!-- image: https://i.guim.co.uk/img/media/8dcb585012c9b878945dde26322a06541088a457/1761_409_4807_3845/master/4807.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46fbf3df723fcf94061fc2ad4b217a18 -->
-
-Over 100 Venezuelans deported from the United States are missing after a hotel collapsed More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struckMore than 100 people just deported from the United States were being held in a hotel when earthquakes struck Venezuela, setting off a scramble to find survivors and bodies buried in the rubble, according to survivors. A deportation flight from Miami arrived in Venezuela hours before Wednesday’s e.
+Thai police are investigating if an Australian man charged with the murder of 17- Police say there are similarities but no evidence of links between Thunchanok Donhomla’s alleged murder and two other deaths in past two years in same regionGet our breaking news email, free app or daily news podcastThai police are investigating whether an Australian man charged with murdering a 17-year-old girl could be linked to two unsolved cases in the region. Police colonel Anek Srathongyoo, a.
 
 ---
 
 ## Middle East & Africa
+
+### [Issues of War and Peace Gain Top Billing in Armenia’s Election](https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election)
+*International Crisis Group* - Tuesday, June 2, (iso: Tuesday, June 2, 2026 - 16:33)
+<!-- image: https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Armenia will hold its first general election since 2021 on Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.
+
+### [Tiny Djibouti, and Its Prime Real Estate](https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate)
+*International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 15:42)
+<!-- image: https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Alan spoke with Samson Abebe Bezabeh, Assistant Professor at the University of Hong Kong This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea. Tiny Djibouti, and Its Prime Real Estate.
+
+### [A New Player in the Quest for a U.S.-Iran Breakthrough](https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough)
+*International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 10:18)
+<!-- image: https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Pakistan began conveying proposals to end the war between the U. S. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task. A New Player in the Quest for a U. S.-Iran Breakthrough.
+
+### [A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans](https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans)
+*International Crisis Group* - Friday, June 5,  (iso: Friday, June 5, 2026 - 10:38)
+<!-- image: https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+The European Union's upcoming seven-year budget may jeopardize funding for conflict prevention and aid The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.
 
 ### [Japan’s military recruitment crisis in an age of rearmament](https://asiatimes.com/2026/07/japans-military-recruitment-crisis-in-an-age-of-rearmament/)
 *Asia Times* - Jun 30, 22:32 IST (iso: 2026-06-30T17:02:15+00:00)
@@ -106,27 +112,39 @@ Strikes involving the United States and Iran occurred over the weekend. With ano
 
 Cape Verdean footballers are drawing attention in the United Kingdom. The team secured hard-fought draws against Spain and Uruguay in recent matches. This performance has generated pride among the Cape Verdean diaspora in Britain. Many feel their nation is finally receiving global recognition. Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape Verde.
 
-### [Outrage as woman jailed for three years after criticising Somali government online](https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement)
-*The Guardian* - Jun 26, 15:30 IST (iso: 2026-06-26T10:00:14+00:00)
-<!-- image: https://i.guim.co.uk/img/media/7561cd7fe9b02aac8b9475ba07ba8aac6b01307f/0_334_1600_1279/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c543c3213491996abcb3fd04f80ba0b7 -->
-
-Sadia Moalim Ali, a 27-year-old rick Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groupsA rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a case that has caught the public’s attention and provoked outrage in the country. Sadia Moalim Ali, a 27-year-old nursing graduate, was originally charged with insultin.
-
 ---
 
-## World
+## Americas
 
-### [U.K. PM Starmer unveils defence funds to boost drone warfare capabilities](https://www.thehindu.com/news/international/uk-pm-starmer-unveils-defence-funds-to-boost-drone-warfare-capabilities/article71167075.ece)
-*The Hindu (International)* - Jun 30, 22:15 IST (iso: 2026-06-30T16:45:53+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/2y8hbx/article71167185.ece/alternates/LANDSCAPE_1200/Britain_Defense_48344.jpg -->
+### [Venezuela quake deaths rise to 1,943, lawmaker says](https://www.thehindu.com/news/international/venezuela-earthquakes-death-toll-nearly-touches-2000-as-healthcare-system-nears-its-limit/article71167382.ece)
+*The Hindu (International)* - Jul 01, 05:36 IST (iso: 2026-07-01T00:06:04+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/619ur3/article71168407.ece/alternates/LANDSCAPE_1200/Venezuela_Earthquake_3_7_3.jpg -->
 
-U. K. Prime Minister Starmer unveiled a new Defence Investment Plan. In one of his final big-ticket policy interventions after he announced his resignation last week, Mr. Starmer said the ‘Defence Investment Plan’ will be backed by £298 billion of investment across the next four years. PM Starmer unveils defence funds to boost drone warfare capabilities. U. K.
+Venezuela's earthquake death toll reached 1,943, a lawmaker reported. The number of official rescues has dropped dramatically in the last three days, the government said, from 5,380 people saved in the first two days after the quakes to just four people found alive on June 29. Venezuela quake deaths rise to 1,943, lawmaker says.
 
-### [Digital surveillance is breaking activist mental health](https://globalvoices.org/2026/06/23/digital-surveillance-is-breaking-activist-mental-health/)
-*Global Voices* - Jun 23, 23:30 IST (iso: 2026-06-23T18:00:08+00:00)
-<!-- image: https://globalvoices.org/wp-content/uploads/2026/06/digital-surveillance-eye-800x450.webp -->
+### [58,000 buildings estimated destroyed in Venezuela earthquakes](https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes)
+*The Guardian* - Jun 30, 23:56 IST (iso: 2026-06-30T18:26:38+00:00)
+<!-- image: https://i.guim.co.uk/img/media/0ceb3553b4e43327ca3f2b83cdc42a6192ab72aa/300_0_3490_2792/master/3490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f5a70a630685dd8e8691fc4a6e7fc01 -->
 
-Digital surveillance inflicts deep human wounds on activists. Digital surveillance does much more than steal data. It inflicts deep human wounds; it stops people from safely developing and expressing their identities, breeds trauma that can last for generations, and fractures the human mind. Digital surveillance is breaking activist mental health.
+Preliminary satellite data suggests over 58,000 buildings were damaged or destroyed Preliminary analysis of satellite data suggests magnitude of natural disaster could dwarf official estimatesMore than 58,000 buildings may have been damaged and destroyed by the twin earthquakes that hit Venezuela last week, according to a preliminary analysis of satellite data that suggests the scale of the destruction could dwarf official estimates. Last Wednesday’s back-to-back quakes – which me.
+
+### [Trump sons set to profit from tax-funded Kazakh tungsten mine deal](https://asiatimes.com/2026/07/trump-sons-set-to-profit-from-tax-funded-kazakh-tungsten-mine-deal/)
+*Asia Times* - Jun 30, 21:46 IST (iso: 2026-06-30T16:16:20+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/trump-campaign-funding-copy.jpg -->
+
+Donald Trump's eldest sons are set to profit from a taxpayer-funded A published report detailing how President Donald Trump’s eldest sons stand to profit from a tungsten mining deal negotiated by their billionaire father has sparked outraged calls for accountability, with Democratic lawmakers characterizing the taxpayer-funded project as yet another example of the administration’s unchecked and unprecedented corruption. According to the New York Times report, Trum.
+
+### [Amid crushing European heatwave, things are about to get hotter for transport systems](https://news.un.org/feed/view/en/story/2026/06/1167839)
+*UN News* - Jun 30, 17:30 IST (iso: 2026-06-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/29-06-2206_Adobe_heatwave.jpg/image770x420cropped.jpg -->
+
+European transport officials are addressing melting train tracks and buckling roads during a heatwave. As European transport officials scramble to deal with melting train tracks and buckling roads amid a crushing heatwave, a UN report released Tuesday warns of more extreme weather in the decades ahead for Europe, Central Asia and North America. Amid crushing European heatwave, things are about to get hotter for transport systems.
+
+### [Venezuelans newly deported from US missing after hotel collapse](https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake)
+*The Guardian* - Jun 30, 04:40 IST (iso: 2026-06-29T23:10:15+00:00)
+<!-- image: https://i.guim.co.uk/img/media/8dcb585012c9b878945dde26322a06541088a457/1761_409_4807_3845/master/4807.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46fbf3df723fcf94061fc2ad4b217a18 -->
+
+Over 100 Venezuelans deported from the United States are missing after a hotel collapsed More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struckMore than 100 people just deported from the United States were being held in a hotel when earthquakes struck Venezuela, setting off a scramble to find survivors and bodies buried in the rubble, according to survivors. A deportation flight from Miami arrived in Venezuela hours before Wednesday’s e.
 
 ---
 
@@ -137,16 +155,6 @@ Digital surveillance inflicts deep human wounds on activists. Digital surveillan
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/30-06-2026-WHO-antimicrobial.jpg/image770x420cropped.jpg -->
 
 The World Health Organization published new guidance. The World Health Organization (WHO) has published new guidance to help countries confront the rising burden of fungal disease and antifungal resistance - one of the most neglected global health threats, yet still largely absent from national health plans. New WHO plan urges stronger action against fungal disease.
-
----
-
-## Asia-Pacific
-
-### [Thai police investigate if Australian man charged over 17-year-old girl’s murder linked to other](https://www.theguardian.com/world/2026/jun/30/thai-teen-girl-murder-australian-man-charged-police-investigate-other-unsolved-cases-ntwnfb)
-*The Guardian* - Jun 30, 16:11 IST (iso: 2026-06-30T10:41:40+00:00)
-<!-- image: https://i.guim.co.uk/img/media/1f03bfe1131fabf1741b2b6a87e377855f96ef58/711_0_1616_1292/master/1616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=034b9ddaf3eda42c98f2af6734483d6a -->
-
-Thai police are investigating if an Australian man charged with the murder of 17- Police say there are similarities but no evidence of links between Thunchanok Donhomla’s alleged murder and two other deaths in past two years in same regionGet our breaking news email, free app or daily news podcastThai police are investigating whether an Australian man charged with murdering a 17-year-old girl could be linked to two unsolved cases in the region. Police colonel Anek Srathongyoo, a.
 
 ---
 
