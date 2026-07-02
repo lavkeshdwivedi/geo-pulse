@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 03, 2026 01:04 IST
+**Updated:** July 03, 2026 01:08 IST
 
 ---
 
@@ -36,7 +36,7 @@ Bangladesh's foreign policy under ousted Prime Minister Sheikh Hasina focused he
 
 ### [Issues of War and Peace Gain Top Billing in Armenia’s Election](https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election)
 *International Crisis Group* - Tuesday, June 2, (iso: Tuesday, June 2, 2026 - 16:33)
-<!-- image: https://images.pexels.com/photos/11816420/pexels-photo-11816420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+<!-- image: https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Armenia will hold its first general election since 2021 on Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.
 
@@ -50,7 +50,7 @@ Djibouti navigates shifting alliances and regional turmoil in the Horn of Africa
 *International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 10:18)
 <!-- image: https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-Pakistan began conveying proposals to end the war between the U. S. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task. A New Player in the Quest for a U. S.-Iran Breakthrough.
+Pakistan began conveying proposals to end the war between the U. S. Soon after the U. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task. A New Player in the Quest for a U. S.-Iran Breakthrough.
 
 ### [A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans](https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans)
 *International Crisis Group* - Friday, June 5,  (iso: Friday, June 5, 2026 - 10:38)
