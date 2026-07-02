@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-07-02T18:35:55.734110+00:00",
-  "article_count": 49,
-  "total_unique_count": 271,
+  "generated_at": "2026-07-02T19:34:08.035649+00:00",
+  "article_count": 50,
+  "total_unique_count": 277,
   "digest": {
-    "en": "Americas leads the board this hour with Venezuelan man saved from collapsed mall eight days after earthquakes. Europe & Russia carries the next thread. 24 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, सूरज पर हुआ अब तक का सबसे भयानक विस्फोट, क्या खतरे में है धरती? वैज्ञानिकों ने जारी की बड़ी चेतावनी मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Asia-Pacific leads the board this hour with Myanmar’s New Administration: Military Consolidation, Not Transition. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, ENG W vs SA W Live Score: इंग्लैंड ने दक्षिण अफ्रीका को दिया 170 रनों का लक्ष्य, ब्रंट और नाइट के मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Min Aung Hlaing transitioned from commander-in-chief to president in Myanmar. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11816420/pexels-photo-11816420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenia will hold its first general election since 2021 on Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Djibouti navigates shifting alliances and regional turmoil in the Horn of Africa and the Red Sea This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea. Tiny Djibouti, and Its Prime Real Estate.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan began conveying proposals to end the war between the U. S. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task. A New Player in the Quest for a U. S.-Iran Breakthrough.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's next seven-year budget may reduce spending on conflict prevention and aid The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
       "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
@@ -248,52 +308,76 @@
       "translations": {}
     },
     {
-      "title": "Iran's Nuclear Program Must Remain The Focus",
-      "url": "https://www.rferl.org/a/mary-kissel-iran-nuclear-program-must-remain-the-focus/33792136.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "ENG W vs SA W Live Score: इंग्लैंड ने दक्षिण अफ्रीका को दिया 170 रनों का लक्ष्य, ब्रंट और नाइट के",
+      "url": "https://www.amarujala.com/cricket/cricket-news/eng-w-vs-sa-w-live-score-eng-women-vs-sa-women-2nd-semi-final-at-london-women-s-t20-world-cup-2026-2026-07-02",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-06-30T15:22:14+00:00",
-      "image_url": "https://gdb.rferl.org/0df04f52-c676-41bc-2d7a-08decd1f5434_w1200_h630.jpg",
-      "summary": "A US-Iran memorandum opened a 60-day diplomatic window. Despite a US-Iran memorandum that opened a 60-day diplomatic window, missile exchanges and maritime threats suggest the negotiations are faltering under growing military pressure. RFE/RL spoke with Hudson Institute Senior Fellow Mary Kissel about whether diplomacy can deliver lasting security. Iran's Nuclear Program Must Remain The Focus.",
+      "published_at": "2026-07-03T07:15:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/igalda-bnama-thakashhanae-afaraka_8936eefc230783532855a3663d280aaa.jpeg?w=1200&dpr=1.0",
+      "summary": "महिला टी20 विश्व कप 2026 में इंग्लैंड महिला टीम ने दक्षिण अफ्रीका महिला टीम को 170 रनों का महिला टी20 विश्व कप 2026 का रोमांच जारी है। ENG W vs SA W Live Score: इंग्लैंड ने दक्षिण अफ्रीका को दिया 170 रनों का लक्ष्य, ब्रंट और नाइट के।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ENG W vs SA W Live Score: इंग्लैंड ने दक्षिण अफ्रीका को दिया 170 रनों का लक्ष्य, ब्रंट और नाइट के",
+          "summary": "महिला टी20 विश्व कप 2026 में इंग्लैंड महिला टीम ने दक्षिण अफ्रीका महिला टीम को 170 रनों का महिला टी20 विश्व कप 2026 का रोमांच जारी है। ENG W vs SA W Live Score: इंग्लैंड ने दक्षिण अफ्रीका को दिया 170 रनों का लक्ष्य, ब्रंट और नाइट के।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "'It's The Only Thing They're Talking About': Far From Ukraine War, Russia Fuel Crisis Consumes",
-      "url": "https://www.rferl.org/a/russia-ukraine-fuel-gas-crisis-shortage/33792063.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "सीरिया की राजधानी के कैफे में भीषण विस्फोट; नौ की मौत, 20 घायल; जांच में जुटीं सुरक्षा एजेंसियां",
+      "url": "https://www.amarujala.com/world/syria-damascus-cafe-blast-court-area-explosion-many-killed-many-injured-security-investigation-west-asia-news-2026-07-03",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-06-30T14:26:49+00:00",
-      "image_url": "https://gdb.rferl.org/00feae1f-0639-4d1e-bc37-e6db977b2820_cx0_cy6_cw0_w1200_h630.jpg",
-      "summary": "Russia faces a deepening gasoline crisis. One region lacks fuel for ambulances. There’s no gasoline for ambulances in one region. In another, they’ve suspended garbage pickup because there’s no fuel for trucks. There’s a robust black market where you can pay someone to hold your place in endless lines of drivers hoping to fill up cars. Russia’s gasoline crisis is deepening.",
+      "published_at": "2026-07-03T07:06:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/03/thhamaka_b899dd2ece427234e6d81332f548ea66.jpeg?w=1200&dpr=1.0",
+      "summary": "सीरिया की राजधानी दमिश्क के एक कैफे में भीषण विस्फोट हुआ। सीरिया की राजधानी के कैफे में भीषण विस्फोट; नौ की मौत, 20 घायल; जांच में जुटीं सुरक्षा एजेंसियां।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीरिया की राजधानी के कैफे में भीषण विस्फोट; नौ की मौत, 20 घायल; जांच में जुटीं सुरक्षा एजेंसियां",
+          "summary": "सीरिया की राजधानी दमिश्क के एक कैफे में भीषण विस्फोट हुआ। सीरिया की राजधानी के कैफे में भीषण विस्फोट; नौ की मौत, 20 घायल; जांच में जुटीं सुरक्षा एजेंसियां।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
-      "source": "UN News",
+      "title": "स्पेन और ऑस्ट्रिया के बीच मुकाबला शुरू, दोनों की नजरें पहले हाफ में बढ़त पर",
+      "url": "https://www.amarujala.com/live/sports/football/spain-vs-austria-live-fifa-world-cup-2026-today-football-match-result-updates-2026-07-03",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-06-30T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/23-06-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg",
-      "summary": "The UN agency UNRWA faces a $100 million budget shortfall. The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters. Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-03T07:02:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/12/fafa-vashava-kapa-2026_3cd85909c928e7db58b5246fca35970f.jpeg?w=1200&dpr=1.0",
+      "summary": "स्पेन और ऑस्ट्रिया के बीच फीफा विश्व कप 2026 फुटबॉल मैच शुरू हो गया है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। स्पेन और ऑस्ट्रिया के बीच मुकाबला शुरू, दोनों की नजरें पहले हाफ में बढ़त पर।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्पेन और ऑस्ट्रिया के बीच मुकाबला शुरू, दोनों की नजरें पहले हाफ में बढ़त पर",
+          "summary": "स्पेन और ऑस्ट्रिया के बीच फीफा विश्व कप 2026 फुटबॉल मैच शुरू हो गया है। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। स्पेन और ऑस्ट्रिया के बीच मुकाबला शुरू, दोनों की नजरें पहले हाफ में बढ़त पर।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
-      "title": "China is a clear winner from Trump’s war in Middle East, report concludes",
-      "url": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz",
-      "source": "The Guardian",
+      "title": "इंद्रा नूयी का विवादित बयान, भारत को बताया 'अव्यवस्थित देश'; कहा- वहां मैं सीईओ नहीं बन पाती",
+      "url": "https://www.amarujala.com/world/former-pepsico-ceo-indra-nooyi-has-ignited-a-debate-after-describing-india-as-a-chaotic-country-2026-07-03",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-06-30T11:11:58+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/d0af69917e2dc253bffcc793ffcce5046de4279e/411_0_2725_2180/master/2725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ef3a0df1452ff1e32714823005665ce",
-      "summary": "A report by the geopolitical consulting firm Asia Group concluded China emerged as the sole winner in Beijing, whose stockpiles and renewables industry allowed it to withstand energy shock, is now gaining from global solar and EV pushChina has emerged as the sole winner in Asia from the strait of Hormuz crisis, according to a report published on Tuesday. The report by the geopolitical consulting firm Asia Group concluded that China had weathered the storm of the global commodities crisis resulting.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-03T06:54:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/03/former-pepsico-ceo-indra-nooyi-has-ignited-a-debate-after-describing-india-as-a-chaotic-country_3e8909ce879abac5a28caaebcd4c19b4.jpeg?w=1200&dpr=1.0",
+      "summary": "पूर्व पेप्सिको सीईओ इंद्रा नूयी ने भारत को 'अव्यवस्थित देश' बताया है। इंद्रा नूयी का विवादित बयान, भारत को बताया 'अव्यवस्थित देश'; कहा- वहां मैं सीईओ नहीं बन पाती।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इंद्रा नूयी का विवादित बयान, भारत को बताया 'अव्यवस्थित देश'; कहा- वहां मैं सीईओ नहीं बन पाती",
+          "summary": "पूर्व पेप्सिको सीईओ इंद्रा नूयी ने भारत को 'अव्यवस्थित देश' बताया है। इंद्रा नूयी का विवादित बयान, भारत को बताया 'अव्यवस्थित देश'; कहा- वहां मैं सीईओ नहीं बन पाती।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "सूरज पर हुआ अब तक का सबसे भयानक विस्फोट, क्या खतरे में है धरती? वैज्ञानिकों ने जारी की बड़ी चेतावनी",
@@ -418,60 +502,6 @@
           "title": "तो तक्षशिला को वर्ल्ड हेरिटेज लिस्ट से बाहर फेंक देंगे, यूनेस्को का पाकिस्तान को अल्टीमेटम",
           "summary": "यूनेस्को ने पाकिस्तान को तक्षशिला को अपनी विश्व धरोहर सूची से हटाने की चेतावनी दी है. Taxila World Heritage List: पाकिस्तान के पंजाब प्रांत के रावलपिंडी ज़िले में स्थित तक्षशिला एक बहुत ही विशाल ऐतिहासिक क्षेत्र है. इसमें मध्य-पाषाण युग की एक प्राचीन गुफा के साथ-साथ चार शुरुआती बस्तियों, बौद्ध मठों, एक मस्जिद और एक मदरसे के पुरातात्विक अवशेष शामिल हैं.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "तनाव के बीच ईरान से बड़ी खबर, अपने पिता के अंतिम संस्कार में नहीं शामिल होंगे मुजतबा खामेनेई",
-      "url": "https://www.patrika.com/world-news/mojtaba-khamenei-funeral-iran-security-concerns-israel-tension-20715917",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-02T15:51:26+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Mojtaba-Khamenei-1.webp",
-      "summary": "ईरान के दिवंगत सर्वोच्च नेता अयातुल्ला अली खामेनेई के अंतिम संस्कार में उनके बेटे मुजतबा खामेनेई सार्वजनिक Mojtaba Khamenei: ईरान के दिवंगत सर्वोच्च नेता अयातुल्ला अली खामेनेई के अंतिम संस्कार को लेकर बड़ा राजनीतिक और सुरक्षा से जुड़ा घटनाक्रम सामने आया है। उनके बेटे मुजतबा खामेनेई के अंतिम संस्कार में सार्वजनिक रूप से शामिल न होने की जानकारी दी गई है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तनाव के बीच ईरान से बड़ी खबर, अपने पिता के अंतिम संस्कार में नहीं शामिल होंगे मुजतबा खामेनेई",
-          "summary": "ईरान के दिवंगत सर्वोच्च नेता अयातुल्ला अली खामेनेई के अंतिम संस्कार में उनके बेटे मुजतबा खामेनेई सार्वजनिक Mojtaba Khamenei: ईरान के दिवंगत सर्वोच्च नेता अयातुल्ला अली खामेनेई के अंतिम संस्कार को लेकर बड़ा राजनीतिक और सुरक्षा से जुड़ा घटनाक्रम सामने आया है। उनके बेटे मुजतबा खामेनेई के अंतिम संस्कार में सार्वजनिक रूप से शामिल न होने की जानकारी दी गई है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "NATO पर डोनाल्ड ट्रंप का बड़ा आरोप, बोले- अमेरिका 999 अरब डॉलर खर्च करता है, फिर भी कोई फायदा नहीं",
-      "url": "https://www.patrika.com/world-news/donald-trump-nato-defense-spending-999-billion-claim-fact-check-20715906",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-02T15:36:24+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/trump.webp",
-      "summary": "डोनाल्ड ट्रंप ने नाटो पर बयान दिया है। NATO Defense Spending: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने एक बार फिर नाटो (NATO) को लेकर बड़ा बयान दिया है। ट्रंप ने दावा किया कि साल 2014 से 2025 के बीच अमेरिका ने NATO की सुरक्षा पर 999 अरब डॉलर खर्च किए, जबकि दूसरे सदस्य देशों का खर्च इससे काफी कम रहा।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "NATO पर डोनाल्ड ट्रंप का बड़ा आरोप, बोले- अमेरिका 999 अरब डॉलर खर्च करता है, फिर भी कोई फायदा नहीं",
-          "summary": "डोनाल्ड ट्रंप ने नाटो पर बयान दिया है। NATO Defense Spending: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने एक बार फिर नाटो (NATO) को लेकर बड़ा बयान दिया है। ट्रंप ने दावा किया कि साल 2014 से 2025 के बीच अमेरिका ने NATO की सुरक्षा पर 999 अरब डॉलर खर्च किए, जबकि दूसरे सदस्य देशों का खर्च इससे काफी कम रहा।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सीरिया की राजधानी दमिश्क के कैफे में भीषण बम धमाका, 5 लोगों की मौत, 16 घायल, जांच शुरू",
-      "url": "https://www.patrika.com/world-news/syria-damascus-cafe-blast-explosion-kills-four-injures-ten-investigation-20715444",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-02T15:34:55+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/syria-.webp",
-      "summary": "सीरिया की राजधानी दमिश्क के अल-हिजाज इलाके में गुरुवार को एक भीड़भाड़ वाले कैफे Syria Cafe Bomb Blast: सीरिया की राजधानी दमिश्क में गुरुवार को इम्प्रोवाइज्ड एक्सप्लोसिव डिवाइस (IED) बम से बड़ा धमाका हो गया। धमाका शहर के अल-हिजाज इलाके में एक भीड़भाड़ वाले कैफे में हुआ। इस धमाके में करीब 5 लोगों की मौत हो गई, जबकि 16 अन्य घायल हो गए।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीरिया की राजधानी दमिश्क के कैफे में भीषण बम धमाका, 5 लोगों की मौत, 16 घायल, जांच शुरू",
-          "summary": "सीरिया की राजधानी दमिश्क के अल-हिजाज इलाके में गुरुवार को एक भीड़भाड़ वाले कैफे Syria Cafe Bomb Blast: सीरिया की राजधानी दमिश्क में गुरुवार को इम्प्रोवाइज्ड एक्सप्लोसिव डिवाइस (IED) बम से बड़ा धमाका हो गया। धमाका शहर के अल-हिजाज इलाके में एक भीड़भाड़ वाले कैफे में हुआ। इस धमाके में करीब 5 लोगों की मौत हो गई, जबकि 16 अन्य घायल हो गए।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -724,24 +754,6 @@
           "title": "‘हमें हिजबुल्लाह ​से लड़वाने की साजिश कामयाब नहीं होने देंगे’,लेबनान की इजरायल को दो टूक",
           "summary": "लेबनान के संसद सदस्य नबीह बेरी ने इजरायल पर लेबनानी सेना को हिजबुल्लाह के खिलाफ Israel-Hezbollah-Lebanon Conflict: अमेरिका और इजरायल में तो सीजफायर हो गए, लेकिन इजरायल इसमें शामिल नहीं है। ईरान का कहना है कि इजरायली और लेबनानी हमले बंद करे। यहां इजराइल का लेबनान के प्रति रुख नहीं बदला है। लेबनान के संसद सदस्य नबीह बेरी ने कहा कि लेबनान की सेना को हिजाब की तरह प्रतिरोध आंदोलन के खिलाफ खड़ा करने के लिए इजरायली सरकार की साजिश नहीं रचनी होगी।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अयोध्या राम मंदिर के 'चंदा चोरी' पर PM मोदी को कांग्रेस का पत्र, सुप्रीम कोर्ट की निगरानी में जांच",
-      "url": "https://www.abplive.com/news/india/congress-kc-venugopal-writes-pm-modi-demands-probe-in-ram-mandir-donation-theft-case-under-supreme-court-watch-ann-3153957",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-02T11:23:15+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/02/db4b5b46adf1200b68b1880cf470657417829874479471126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कांग्रेस महासचिव और पब्लिक अकाउंट्स कमेटी के चेयरमैन केसी वेणुगोपाल ने 2 जुलाई 2026 को प्रधानमंत्री अयोध्या राम मंदिर में चंदा चोरी का मामला लगातार तूल पकड़ता जा रहा है. इस मामले को लेकर कांग्रेस ने प्रधानमंत्री नरेंद्र मोदी पर सीधा राजनीतिक दबाव बढ़ा दिया है. कांग्रेस महासचिव (संगठन) और पब्लिक अकाउंट्स कमेटी चेयरमैन केसी वेणुगोपाल ने गुरुवार (2 जुलाई, 2026) को प्रधानमंत्री को पत्र लिखकर पूरे मामले की सुप्रीम कोर्ट की निगरानी में जांच कराने की मांग की है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अयोध्या राम मंदिर के 'चंदा चोरी' पर PM मोदी को कांग्रेस का पत्र, सुप्रीम कोर्ट की निगरानी में जांच",
-          "summary": "कांग्रेस महासचिव और पब्लिक अकाउंट्स कमेटी के चेयरमैन केसी वेणुगोपाल ने 2 जुलाई 2026 को प्रधानमंत्री अयोध्या राम मंदिर में चंदा चोरी का मामला लगातार तूल पकड़ता जा रहा है. इस मामले को लेकर कांग्रेस ने प्रधानमंत्री नरेंद्र मोदी पर सीधा राजनीतिक दबाव बढ़ा दिया है. कांग्रेस महासचिव (संगठन) और पब्लिक अकाउंट्स कमेटी चेयरमैन केसी वेणुगोपाल ने गुरुवार (2 जुलाई, 2026) को प्रधानमंत्री को पत्र लिखकर पूरे मामले की सुप्रीम कोर्ट की निगरानी में जांच कराने की मांग की है.",
-          "region": "दुनिया"
         }
       }
     }
