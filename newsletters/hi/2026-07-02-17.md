@@ -1,6 +1,34 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 02, 2026 23:06 IST
+**अपडेट:** July 02, 2026 23:20 IST
+
+---
+
+## यूरोप और रूस
+
+### [यूक्रेन के 153 सैन्य ठिकानों पर रूस ने किया हमला](https://www.patrika.com/world-news/russia-attacks-153-military-targets-in-ukraine-20716132)
+*Patrika (World)* - Jul 02, 22:50 IST (iso: 2026-07-02T17:20:38+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/russia-attacks-military-targets-in-ukraine.webp -->
+
+रूस-यूक्रेन युद्ध 52 महीने से अधिक समय से जारी है। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 52 महीने से भी ज़्यादा समय बीत चुका है और अभी भी यह युद्ध रुकने का नाम नहीं ले रहा है। दोनों देश एक-दूसरे पर हमले कर रहे हैं। जो रूस कच्चे तेल के सबसे बड़े निर्यातकों में से एक है, उसे इस युद्ध की वजह से अब तेल के संकट से गुज़रना पड़ रहा है।
+
+### [NATO पर डोनाल्ड ट्रंप का बड़ा आरोप, बोले- अमेरिका 999 अरब डॉलर खर्च करता है, फिर भी कोई फायदा नहीं](https://www.patrika.com/world-news/donald-trump-nato-defense-spending-999-billion-claim-fact-check-20715906)
+*Patrika (World)* - Jul 02, 21:06 IST (iso: 2026-07-02T15:36:24+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/trump.webp -->
+
+डोनाल्ड ट्रंप ने नाटो पर बयान दिया है। NATO Defense Spending: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने एक बार फिर नाटो (NATO) को लेकर बड़ा बयान दिया है। ट्रंप ने दावा किया कि साल 2014 से 2025 के बीच अमेरिका ने NATO की सुरक्षा पर 999 अरब डॉलर खर्च किए, जबकि दूसरे सदस्य देशों का खर्च इससे काफी कम रहा।
+
+### [रूसी हमले के बाद यूक्रेन ने सहयोगी देशों से मांगा पैसा, कहा- अमेरिकी हथियार खरीदने में मदद करें](https://www.patrika.com/world-news/ukraine-president-volodymyr-zelenskiy-urge-alies-for-economical-help-over-buy-air-defence-system-20715838)
+*Patrika (World)* - Jul 02, 19:40 IST (iso: 2026-07-02T14:10:31+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/russiaukraineattacklayest.webp -->
+
+रूस ने गुरुवार सुबह यूक्रेन की राजधानी कीव पर जोरदार हमला किया। इस घटना के बाद पूरे शहर में आग और धुएं का गुबार छा गया। आवासीय इमारतें ध्वस्त हो गईं, लोग मलबे में दब गए। रूसी हमले के बाद यूक्रेन ने सहयोगी देशों से मांगा पैसा, कहा- अमेरिकी हथियार खरीदने में मदद करें।
+
+### [एक सेकंड में करीब 3.6 मीटर! चीते की रफ्तार से भागती है यह शिकारी मकड़ी, दुनिया में सबसे तेज](https://hindi.news18.com/news/ajab-gajab/viral-worlds-fastest-spider-australian-huntsman-speed-record-10622575.html)
+*News18 Hindi (World)* - Jul 02, 17:24 IST (iso: 2026-07-02T11:54:12+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Spider_Race-2026-07-aa68b1d2d85bb8aadbcd1f0a71eb91b5-1200x800.jpg -->
+
+ऑस्ट्रेलिया की जंगल हंट्समैन मकड़ी को दुनिया की सबसे तेज मकड़ी घोषित किया गया है। World's Fastest Spider Huntsman Speed: साइंटिस्ट्स ने ऑस्ट्रेलिया की जंगल हंट्समैन मकड़ी को दुनिया की सबसे तेज चलने वाली मकड़ी घोषित किया है. यह मकड़ी 3.59 मीटर प्रति सेकंड की रफ्तार से दौड़ सकती है. जर्मनी और लंदन के रिसर्चर्स ने 162 प्रजातियों की मकड़ियों पर टेस्ट करने के बाद यह दावा किया है.
 
 ---
 
@@ -54,23 +82,17 @@ Public flight-tracking indicated an Indian Navy P-8I Poseidon and a US Navy surv
 
 इंडोनेशिया के अशांत पूर्वी पापुआ में विद्रोहियों ने गुरुवार को एक अमेरिकी पायलट की गोली मारकर हत्या कर दी। American Pilot Shot Dead in Indonesia Aircraft Set on Fire: इंडोनेशिया के अशांत पूर्वी इलाके पापुआ में गुरुवार को विद्रोहियों ने एक अमेरिकी पायलट की गोली मार कर हत्या कर दी और एक नागरिक विमान में आग लगा दी। एक स्थानीय अलगाववादी समूह के प्रवक्ता ने इसे अमेरिकी और इंडोनेशियाई सरकारों को विद्रोहियों का एक सख्त मैसेज बताया।
 
-### [दुनिया के सामने बेपर्दा शहबाज! PoK में 24वें दिन भी बगावत की आवाज जारी, अवामी एक्शन कमेटी ने खोला](https://www.abplive.com/news/world/pok-protest-against-pakistan-govt-awami-action-committee-accused-pakistani-army-guns-to-kashmiri-ann-3153918)
-*ABP Live (World)* - Jul 02, 15:30 IST (iso: 2026-07-02T10:00:22+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/02/d92176ab513b07d6b76052f31ffeb2101782987335484120_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+### [संयुक्त अभ्यास, रणनीतिक सहयोग और समुद्री सुरक्षा… भारत दौर पर आयीं जापान PM ताकाइची ने क्या-क्या कहा](https://www.abplive.com/news/india/india-and-japan-pledge-stronger-strategic-partnership-as-japan-pm-sanae-takaichi-backs-deeper-cooperation-with-modi-3153980)
+*ABP Live (India)* - Jul 02, 17:24 IST (iso: 2026-07-02T11:54:42+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/02/0c5877bf62597b4072d63d97d0e22da017829892561811431_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-पाकिस्तान के कब्जे वाले कश्मीर में 24वें दिन भी विद्रोह जारी रहा। पाकिस्तान के कब्जे वाले कश्मीर में विद्रोह के 24वें दिन Pok की जनता ने पाकिस्तान की भारत के खिलाफ जारी आतंक की नीति की दुनिया के सामने गवाही दी है. रावलकोट के ईदगाह मैदान में जारी प्रदर्शन में आज प्रदर्शन का नेतृत्व करने वाली अवामी एक्शन कमेटी के नेता सरदार अमान ख़ान ने कहा कि पीओके के लोगों के हाथ में बंदूक पाकिस्तान की फौज ने दी थी.
+जापान की प्रधानमंत्री साने ताकाइची ने 2 जुलाई को नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी से मुलाकात की। बढ़ती वैश्विक अनिश्चितता के बीच गहरे आपसी सहयोग की जरूरत पर जोर देते हुए जापान की प्रधानमंत्री साने ताकाइची ने गुरुवार (2 जूलाई ) को कहा कि जापान और भारत को मिलकर खुशहाली के लिए अपनी-अपनी ताकत पर काम करना चाहिए. नई दिल्ली के हैदराबाद हाउस में प्रधानमंत्री नरेंद्र मोदी के साथ बातचीत के बाद संयुक्त प्रेस कॉन्फ्रेंस में उन्होंने गर्मजोशी से स्वागत के लिए शुक्रिया अदा किया और पीएम मोदी के उन्हें प्यार।
 
-### [कैसे और क्यों 66 साल के पायलट ने बीजिंग की सबसे ऊंची इमारत में ठोक दिया विमान? चीन सरकार बताई वजह](https://www.patrika.com/world-news/beijing-plane-crash-skyscraper-pilot-personal-reasons-20714957)
-*Patrika (World)* - Jul 02, 15:12 IST (iso: 2026-07-02T09:42:51+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Chinaplanecrashnews.webp -->
+### [ISRO मुख्यालय को बम से उड़ाने की धमकी, जांच के बाद पुलिस ने क्या बताया?](https://www.abplive.com/news/india/bomb-threat-email-to-isro-headquarters-police-declared-hoax-threat-after-probe-live-updates-ann-3154006)
+*ABP Live (India)* - Jul 02, 16:37 IST (iso: 2026-07-02T11:07:56+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/02/6dd5087d88c36b591cea6b466457859317829915386831126_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-बीजिंग की सबसे ऊंची इमारत में हाल ही में एक विमान टकरा गया। विमान का मलबा जमीन पर गिरा। चीन की राजधानी बीजिंग की सबसे ऊंची इमारत में कुछ ही दिनों पहले एक प्लेन टकरा गया था। इस हादसे के बाद विमान का मलबा चूर-चूर होकर जमीन पर गिरा था। इस घटना ने पूरे चीन को हिला दिया। कैसे और क्यों 66 साल के पायलट ने बीजिंग की सबसे ऊंची इमारत में ठोक दिया विमान?
-
-### [झील में बोटिंग बन गई मौत का सफर, एक ही परिवार के 7 लोगों की मौत, लापता की तलाश में जुटी रेस्क्यू टीम](https://hindi.news18.com/world/pakistan-pakistan-boat-accident-seven-dead-one-missing-in-khyber-pakhtunkhwa-ws-l-10621926.html)
-*News18 Hindi (World)* - Jul 02, 15:07 IST (iso: 2026-07-02T09:37:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-boat-1-2026-07-6c70fcdb9dc18da59f53170a42ef376a-1200x800.jpg -->
-
-पाकिस्तान के खैबर पख्तूनख्वा में सैफुल्ला झील में एक नाव पलटने से एक ही परिवार के सात Pakistan Boat Accident: पाकिस्तान के खैबर पख्तूनख्वा के मशहूर पर्यटन स्थल सैफुल्ला झील में नाव पलटने से 7 लोगों कि मौत हो गई. ये सभी लोग एक ही परिवार के थे और यहां घूमने के लिए आए थे. पुलिस ने मौके से सातों शव बरामद कर लिए हैं, जबकि एक सदस्य की तलाश में रेस्क्यू टीम जुटी हुई है.
+भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) के बेंगलुरु मुख्यालय को 2 जुलाई 2026 को बम से उड़ाने की भारतीय अंतिरक्ष अनुसंधान संगठन यानी इसरो (ISRO) के बेंगलुरु स्थित मुख्यालय को गुरुवार (2 जुलाई, 2026) को बम से उड़ाने की धमकी भरा एक ईमेल प्राप्त हुआ. इसके बाद पूरे इसरो मुख्यालय में हड़कंप मच गया. ईमेल के जरिए मिली धमकी के बाद स्थानीय पुलिस और सुरक्षा एजेंसियों की तरफ से तुरंत कार्रवाई की गई.
 
 ---
 
@@ -100,6 +122,12 @@ Public flight-tracking indicated an Indian Navy P-8I Poseidon and a US Navy surv
 
 संयुक्त अरब अमीरात को 'जमरत अल कैथ' नामक एक नई मौसमी चुनौती का सामना करना पड़ रहा पश्चिम एशिया में युद्ध के बादल छंटने के बाद अब संयुक्त अरब अमीरात (UAE) के सामने 'जमरत अल कैथ' के रूप में एक खौफनाक चुनौती खड़ी हो गई. ये अल नीनो का ही जुड़वा भाई है, जो और भी खतरनाक है. इसकी वजह से इलाके का तापमान 50 डिग्री के पार चला जाएगा.
 
+### [बीच समंदर में दिखा इंडियन नेवी का दम, जब भारतीय जहाज को डकैतों ने की लूटने की कोशिश, यूं खदेड़ा](https://www.abplive.com/news/india/indian-navy-save-cargo-ship-from-pirates-carrying-critical-consignment-for-india-gulf-of-aden-3154015)
+*ABP Live (India)* - Jul 02, 17:10 IST (iso: 2026-07-02T11:40:13+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/02/733af344c40323500c2e40ca6bd41f991782991992478708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+भारतीय नौसेना के युद्धपोत आईएनएस त्रिकंद ने 1 जुलाई 2026 को अदन की खाड़ी भारतीय नौसेना बुधवार (1 जुलाई 2026) को अदन की खाड़ी में समुद्री लुटेरे पर काल बनकर टूट पड़ी. भारत के लिए जरूरी सामान ले जा रहे कमर्शियल शिप से नेवी को मदद के लिए कॉल रिसीव हुआ. जिससे बाद वॉरशिप INS त्रिकंद ने तुरंत कार्रवाई की और समुद्री लुटेरों के मंसूबे पर पानी फेर दिया.
+
 ### [‘हमें हिजबुल्लाह ​से लड़वाने की साजिश कामयाब नहीं होने देंगे’,लेबनान की इजरायल को दो टूक](https://www.patrika.com/world-news/israel-hezbollah-lebanon-conflict-lebanese-member-parliament-nabih-berri-statement-20715229)
 *Patrika (World)* - Jul 02, 17:06 IST (iso: 2026-07-02T11:36:01+00:00)
 <!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Israel-Lebanon-Conflict-1.webp -->
@@ -112,45 +140,27 @@ Public flight-tracking indicated an Indian Navy P-8I Poseidon and a US Navy surv
 
 एयर इंडिया एक्सप्रेस ने 2 जुलाई को ओमान और कुवैत सहित पश्चिम एशिया के लिए अपनी सेवाएं फिर से शुरू कर दीं। अमेरिका और ईरान के बीच युद्ध की वजह से मिडिल ईस्ट में तनाव की स्थिति थी, लेकिन तनाव कम होने के बाद एअर इंडिया एक्सप्रेस ने बड़ा फैसला किया है. उसने गुरुवार (2 जुलाई) को ओमान और कुवैत समेत कई जगहों के लिए फिर से सर्विस शुरू कर दी है.
 
-### [अमेरिका-इजरायल ने खामेनेई के अंतिम संस्कार में हमला किया तो नतीजे भुगतने होंगे](https://www.patrika.com/world-news/ayatollah-ali-khamenei-funeral-iran-threated-us-israel-will-face-consequences-if-attack-20714881)
-*Patrika (World)* - Jul 02, 15:27 IST (iso: 2026-07-02T09:57:55+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Iran-Supreme-Leader-Mojtaba-Ali-Khamenei.webp -->
-
-ईरान ने अमेरिका और इजरायल को चेतावनी दी है। Ayatollah Ali Khamenei Funeral Iran Threated US-Israel: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामेनेई के अंतिम संस्कार को इजरायल के लिए बमबारी का बेहतर मौका बताने के अमेरिका के प्रेसीडेंट डोनाल्ड ट्रंप की समर्थक लॉरा लूमर के टवीट के बाद ईरान ने अमेरिका और इजरायल को चेताया है कि अगर उन्होंने इस मौके पर हमला किया तो नतीजे भुगतने होंगे।
-
 ---
 
-## यूरोप और रूस
+## दुनिया
 
-### [NATO पर डोनाल्ड ट्रंप का बड़ा आरोप, बोले- अमेरिका 999 अरब डॉलर खर्च करता है, फिर भी कोई फायदा नहीं](https://www.patrika.com/world-news/donald-trump-nato-defense-spending-999-billion-claim-fact-check-20715906)
-*Patrika (World)* - Jul 02, 21:06 IST (iso: 2026-07-02T15:36:24+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/trump.webp -->
+### [उफनते नाले ने रोकी एंबुलेंस, मौत से जंग लड़ रही महिला को एलएनटी मशीन के बकेट में बैठाकर कराया पार](https://www.abplive.com/news/india/flooded-stream-in-himachal-blocks-ambulance-woman-rescued-across-torrent-in-lnt-machine-bucket-3153951)
+*ABP Live (India)* - Jul 02, 17:10 IST (iso: 2026-07-02T11:40:32+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/02/8af8d18f4754693e6327965c44b1176e17829869327441431_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-डोनाल्ड ट्रंप ने नाटो पर बयान दिया है। NATO Defense Spending: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने एक बार फिर नाटो (NATO) को लेकर बड़ा बयान दिया है। ट्रंप ने दावा किया कि साल 2014 से 2025 के बीच अमेरिका ने NATO की सुरक्षा पर 999 अरब डॉलर खर्च किए, जबकि दूसरे सदस्य देशों का खर्च इससे काफी कम रहा।
+हिमाचल प्रदेश के लाहौल-स्पीति जिले में एक गंभीर रूप से बीमार महिला को उफनते जाहलमा ना हिमाचल प्रदेश के लाहौल-स्पीति जिले में लगातार हो रही बारिश के कारण जाहलमा नाला उफान पर है. नाले में जलस्तर बढ़ने से सड़क संपर्क पूरी तरह बाधित हो गया. इसी बीच एक गंभीर रूप से बीमार महिला को बेहतर इलाज के लिए कुल्लू रेफर किया गया, लेकिन तेज बहाव के कारण एंबुलेंस मरीज तक नहीं पहुंच सकी.
 
-### [रूसी हमले के बाद यूक्रेन ने सहयोगी देशों से मांगा पैसा, कहा- अमेरिकी हथियार खरीदने में मदद करें](https://www.patrika.com/world-news/ukraine-president-volodymyr-zelenskiy-urge-alies-for-economical-help-over-buy-air-defence-system-20715838)
-*Patrika (World)* - Jul 02, 19:40 IST (iso: 2026-07-02T14:10:31+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/russiaukraineattacklayest.webp -->
+### [अयोध्या राम मंदिर के 'चंदा चोरी' पर PM मोदी को कांग्रेस का पत्र, सुप्रीम कोर्ट की निगरानी में जांच](https://www.abplive.com/news/india/congress-kc-venugopal-writes-pm-modi-demands-probe-in-ram-mandir-donation-theft-case-under-supreme-court-watch-ann-3153957)
+*ABP Live (India)* - Jul 02, 16:53 IST (iso: 2026-07-02T11:23:15+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/02/db4b5b46adf1200b68b1880cf470657417829874479471126_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-रूस ने गुरुवार सुबह यूक्रेन की राजधानी कीव पर जोरदार हमला किया। इस घटना के बाद पूरे शहर में आग और धुएं का गुबार छा गया। आवासीय इमारतें ध्वस्त हो गईं, लोग मलबे में दब गए। रूसी हमले के बाद यूक्रेन ने सहयोगी देशों से मांगा पैसा, कहा- अमेरिकी हथियार खरीदने में मदद करें।
+कांग्रेस महासचिव और पब्लिक अकाउंट्स कमेटी के चेयरमैन केसी वेणुगोपाल ने 2 जुलाई 2026 को प्रधानमंत्री अयोध्या राम मंदिर में चंदा चोरी का मामला लगातार तूल पकड़ता जा रहा है. इस मामले को लेकर कांग्रेस ने प्रधानमंत्री नरेंद्र मोदी पर सीधा राजनीतिक दबाव बढ़ा दिया है. कांग्रेस महासचिव (संगठन) और पब्लिक अकाउंट्स कमेटी चेयरमैन केसी वेणुगोपाल ने गुरुवार (2 जुलाई, 2026) को प्रधानमंत्री को पत्र लिखकर पूरे मामले की सुप्रीम कोर्ट की निगरानी में जांच कराने की मांग की है.
 
-### [एक सेकंड में करीब 3.6 मीटर! चीते की रफ्तार से भागती है यह शिकारी मकड़ी, दुनिया में सबसे तेज](https://hindi.news18.com/news/ajab-gajab/viral-worlds-fastest-spider-australian-huntsman-speed-record-10622575.html)
-*News18 Hindi (World)* - Jul 02, 17:24 IST (iso: 2026-07-02T11:54:12+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Spider_Race-2026-07-aa68b1d2d85bb8aadbcd1f0a71eb91b5-1200x800.jpg -->
+### [NDA का 'मिशन 360' क्या? 41 सांसद जुटा लो या फिर विपक्षी सांसद रहें गायब, किस तिकड़म में उलझी बीजेपी?](https://www.abplive.com/news/india/what-is-nda-mission-360-monsoon-session-constitutional-amendments-bjp-sp-inc-tmc-ncp-pm-modi-explained-3154001)
+*ABP Live (India)* - Jul 02, 16:35 IST (iso: 2026-07-02T11:05:53+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/02/45c377f7666f9182075cf01022594e6f17829900203151317_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
-ऑस्ट्रेलिया की जंगल हंट्समैन मकड़ी को दुनिया की सबसे तेज मकड़ी घोषित किया गया है। World's Fastest Spider Huntsman Speed: साइंटिस्ट्स ने ऑस्ट्रेलिया की जंगल हंट्समैन मकड़ी को दुनिया की सबसे तेज चलने वाली मकड़ी घोषित किया है. यह मकड़ी 3.59 मीटर प्रति सेकंड की रफ्तार से दौड़ सकती है. जर्मनी और लंदन के रिसर्चर्स ने 162 प्रजातियों की मकड़ियों पर टेस्ट करने के बाद यह दावा किया है.
-
-### [ब्रिटिश पीएम के आवास के बाहर भूख हड़ताल, बलूचिस्तान के मुद्दे पर अंतरराष्ट्रीय हस्तक्षेप की मांग](https://www.patrika.com/world-news/baloch-activist-aomar-karim-hunger-strike-outside-uk-pm-office-over-balochistan-20714758)
-*Patrika (World)* - Jul 02, 15:04 IST (iso: 2026-07-02T09:34:53+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Baloch-activist.webp -->
-
-बलूच कार्यकर्ता ओमार करीम ने लंदन में ब्रिटिश प्रधानमंत्री के आवास 10 डाउनिंग स्ट्रीट के बाहर भूख हड़ताल शुरू की Baloch activist Hunger Strike London: बलूच कार्यकर्ता ओमार करीम ने लंदन स्थित ब्रिटेन के प्रधानमंत्री के ऑफिशियल रेजिडेंस 10 डाउनिंग स्ट्रीट के बाहर भूख हड़ताल शुरू की है। उन्होंने पाकिस्तान पर बलूच राजनीतिक कार्यकर्ताओं के खिलाफ लगातार कार्रवाई करने का आरोप लगाया है।
-
-### [क्या सरेंडर करेगा यूक्रेन? रूस के हमलों से दहला कीव, आयरलैंड यात्रा बीच में छोड़कर लौटे जेलेंस्की](https://www.abplive.com/news/world/russia-ukraine-war-attack-on-kyiv-after-putin-order-10-died-zelensky-returns-country-leaving-ireland-tour-ann-3153926)
-*ABP Live (World)* - Jul 02, 14:59 IST (iso: 2026-07-02T09:29:52+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/02/17a84f4a6ab0eb397c0494a9ad5a553b17829845191251368_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-रूस ने कीव पर भीषण हमले किए, जिसमें 10 लोग मारे गए और 30 से अधिक घायल हुए। तेल रिफाइनरी और ऑयल डिपो पर हुई ड्रोन अटैक से भन्नाए रूस के राष्ट्रपति व्लादिमीर पुतिन ने यूक्रेन की राजधानी कीव पर जबरदस्त हमलों की इजाजत दे दी है. नतीजा, पिछले 24 घंटों से पूरा कीव दहल उठा है. पिछले चार साल में कीव पर हुए सबसे बड़े अटैक में 10 लोगों की जान चली गई है और 30 से ज्यादा लोग घायल हो गए हैं.
+राष्ट्रीय जनतांत्रिक गठबंधन का 'मिशन 360' लोकसभा में 360 से अधिक सीटें जीतने का लक्ष्य रखता है 'मिशन 360' का सीधा मतलब है लोकसभा में 360 या उससे ज्यादा सीटें हासिल करना, लेकिन इसके पीछे असली जादुई नंबर है 362. दरअसल, 543 सदस्यों वाली लोकसभा में संविधान संशोधन पासल कराने के लिए दो-तिहाई बहुमत चाहिए होता है, जो 362 सीटों का आंकड़ा बनता है.
 
 ---
 
@@ -161,16 +171,6 @@ Public flight-tracking indicated an Indian Navy P-8I Poseidon and a US Navy surv
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Bats_Rabies_Death-2026-07-c9e76df7e48efc82be18ed8b255bce55-1200x800.jpg -->
 
 कनाडा में एक 11 वर्षीय बच्चे की रेबीज से मौत हो गई। कनाडा में सोते समय चेहरे पर चमगादड़ बैठने से 11 साल के बच्चे की रेबीज से मौत हो गई. बच्चे के शरीर पर काटने का कोई निशान नहीं था. परिवार ने इसे गंभीरता से नहीं लिया. 19 दिन बाद चेहरे पर सूजन और उल्टी जैसे लक्षण दिखे. डॉक्टरों ने पहले इसे दूसरा इन्फेक्शन समझा.
-
----
-
-## दुनिया
-
-### [बेकार समझकर फेंक दिया था पत्थर, 40 साल बाद पड़ी नजर, भागा-भागा म्यूजियम पहुंचा वैज्ञानिक, सच्चाई ने](https://hindi.news18.com/world/rest-of-world-40-year-old-mysterious-rock-turns-to-dinosaur-fossil-forgotten-in-a-drawer-until-scientists-realizes-the-truth-2-ws-l-10622222.html)
-*News18 Hindi (World)* - Jul 02, 16:04 IST (iso: 2026-07-02T10:34:02+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/dinosaur-egg-2026-07-1e6bcef752068884b33b4ac0da9b67a7-1200x800.jpg -->
-
-1985 में मिला एक पत्थर का टुकड़ा चार दशकों तक साधारण समझा गया था। 40 Year Old Mysterious Rock: साल 1985 में मिला एक पत्थर का टुकड़ा चार दशकों तक साधारण समझकर पड़ा रहा, उसकी सच्चाई जानने के बाद वैज्ञानिकों की आंखें फटी रह गईं. ड्रॉर में बंद पड़े इस टुकड़े को कोई नहीं जानता था कि इतना बेशकीमती हो सकता है, पर म्यूजियम में पहुंचते ही वो ऐतिहासिक बन गया.
 
 ---
 

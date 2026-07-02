@@ -1,6 +1,132 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 02, 2026 23:06 IST
+**Updated:** July 02, 2026 23:20 IST
+
+---
+
+## Asia-Pacific
+
+### [Myanmar’s New Administration: Military Consolidation, Not Transition](https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition)
+*International Crisis Group* - Wednesday, June  (iso: Wednesday, June 3, 2026 - 00:00)
+<!-- image: https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Min Aung Hlaing transitioned from commander-in-chief to president in Myanmar after tightly Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.
+
+### [Japan, India Working Together To Promote Industry In Northeast: Piyush Goyal](https://www.ndtv.com/world-news/india-japan-summit-2026-indo-japan-strategic-dialogue-live-trade-tech-defence-in-focus-at-ndtv-dialogue-piyush-goyal-pm-narendra-modi-sanae-takaichi-11715498#publisher=newsstand)
+*NDTV World* - Jul 02, 14:39 IST (iso: 2026-07-02T09:09:44+00:00)
+<!-- image: https://c.ndtvimg.com/2026-07/q57g8jt4_piyush-goyal_625x300_02_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720 -->
+
+India and Japan held the NDTV Dialogue focusing on trade, technology, and India-Japan Summit 2026 LIVE News Updates: The event today will feature prominent voices including Union Commerce and Industry Minister Piyush Goyal, Daikin India Chairman and Managing Director Kanwal Jeet Jawa, India's Ambassador to Japan Nagma Mallick and many others. India-Japan Summit 2026 LIVE: Trade, Technology, Defence In Focus At NDTV Dialogue.
+
+### [China’s EV fleet is world’s most underestimated AI asset](https://asiatimes.com/2026/07/chinas-ev-fleet-is-worlds-most-underestimated-ai-asset/)
+*Asia Times* - Jul 02, 13:59 IST (iso: 2026-07-02T08:29:23+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Chinese-EVs-BYD.jpg -->
+
+China's electric vehicle fleet is emerging as a significant, often overlooked, artificial intelligence History has a habit of concealing its most consequential turning points inside the mundane. The invention of the shipping container did not announce itself as a revolution in global trade. The rise of the mobile phone was initially dismissed as an expensive novelty for businessmen. Today, something similarly quiet and similarly transformative is unfolding across [] The post China’s EV fleet is wo.
+
+### [Japan’s gray-zone resilience runs through civilian industry](https://asiatimes.com/2026/07/japans-gray-zone-resilience-runs-through-civilian-industry/)
+*Asia Times* - Jul 02, 12:24 IST (iso: 2026-07-02T06:54:50+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Gray-Zone-Tactics.jpg -->
+
+Japan is building national resilience by integrating civilian industry capabilities into national strategy. This includes KD This article first appeared on Pacific Forum and is republished with permission. Read the original here. KDDI’s cable-laying and repair capacity, Japan’s intervention in the Makino Milling Machine acquisition, and the Daikin–Shin-Etsu–Hitachi–Tokyo Eco Recycle rare-earth magnet project would seem to belong to separate policy worlds.
+
+### [The logical case for admitting Bangladesh into ASEAN](https://asiatimes.com/2026/07/the-logical-case-for-admitting-bangladesh-into-asean/)
+*Asia Times* - Jul 01, 19:16 IST (iso: 2026-07-01T13:46:22+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/ASEAN-flag.jpg -->
+
+Bangladesh's foreign policy under ousted Prime Minister Sheikh Hasina focused heavily on India For decades, Bangladesh’s foreign policy operated on a predictable, singular axis. Under the sixteen-year tenure of ousted Prime Minister Sheikh Hasina, Dhaka’s strategic and economic relations were deeply tethered to New Delhi. A flurry of bilateral agreements spanning digital connectivity, transit rights, and maritime security signaled a tight, almost exclusive alignment with Indian interests.
+
+---
+
+## Middle East & Africa
+
+### [Issues of War and Peace Gain Top Billing in Armenia’s Election](https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election)
+*International Crisis Group* - Tuesday, June 2, (iso: Tuesday, June 2, 2026 - 16:33)
+<!-- image: https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Armenia holds its first general election since 2021 on Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.
+
+### [Tiny Djibouti, and Its Prime Real Estate](https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate)
+*International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 15:42)
+<!-- image: https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Alan spoke with Samson Abebe Bezabeh, Assistant Professor of African Studies This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea. Tiny Djibouti, and Its Prime Real Estate.
+
+### [A New Player in the Quest for a U.S.-Iran Breakthrough](https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough)
+*International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 10:18)
+<!-- image: https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Pakistan began conveying proposals to end the war soon after the United States and Israel bombed Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task. A New Player in the Quest for a U. S.-Iran Breakthrough.
+
+### [A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans](https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans)
+*International Crisis Group* - Friday, June 5,  (iso: Friday, June 5, 2026 - 10:38)
+<!-- image: https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+The European Union's next seven-year budget proposal could reduce allocations for conflict The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.
+
+### [Racism significantly impacts access to sport: Independent expert](https://news.un.org/feed/view/en/story/2026/07/1167863)
+*UN News* - Jul 02, 17:30 IST (iso: 2026-07-02T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/19-05-2025-UNICEF-DR-Congo-football.jpg/image770x420cropped.jpg -->
+
+A new UN report by an independent expert found racism significantly impacts access to sport. High From high participation costs and restrictions on Palestinian athletes – to bans on Muslim women wearing hijabs – racism continues to shape who gets to participate in sport, a new UN report published on Thursday has found. Racism significantly impacts access to sport: Independent expert.
+
+### [Côte d’Ivoire floods kill 59 as west Africa endures torrential rains](https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains)
+*The Guardian* - Jul 02, 16:31 IST (iso: 2026-07-02T11:01:32+00:00)
+<!-- image: https://i.guim.co.uk/img/media/e288231c6e9783668605bf6b9ff408f8abb6fa95/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56211ca9a3af9e792ef7761a2ddcb380 -->
+
+Floods in Côte d’Ivoire killed 59 people since May. Authorities say rainy season deadlier, with Ghana reporting 13 dead and floods also hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan. There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amad.
+
+### [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak)
+*The Guardian* - Jul 02, 14:30 IST (iso: 2026-07-02T09:00:00+00:00)
+<!-- image: https://i.guim.co.uk/img/media/488f5edc5ecbab4c2d81917022a0e92a2df06875/154_0_4850_3880/master/4850.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa22661e5e3c82356e2695a39260764e -->
+
+The Democratic Republic of the Congo is experiencing an ongoing Ebola outbreak from the Bundib If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliationWhile virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbreak on a cruise ship (13 cases, three deaths), in the Democratic Republic of the Congo the Bundibugyo virus, the root of the current Ebola outbreak (currently more th.
+
+### [As Iran Tests Hormuz And Attacks The Gulf, A Former US Ambassador Says Trust Is Gone](https://www.rferl.org/a/iran-marc-j-sievers-gulf/33794603.html)
+*Radio Free Europe / Liberty* - Jul 02, 14:15 IST (iso: 2026-07-02T08:45:51+00:00)
+<!-- image: https://gdb.rferl.org/4b0d30fd-a092-48fb-86f9-fb778e1ee6ca_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Iran tests the Strait of Hormuz and conducts actions in the Gulf. As Washington and Tehran test the limits of a fragile interim understanding, the diplomacy around Iran has become increasingly complex. To unpack the latest developments, RFE/RL spoke with Marc J. Sievers, a former US diplomat based in Abu Dhabi who has served across the Middle East. As Iran Tests Hormuz And Attacks The Gulf, A Former US Ambassador Says Trust Is Gone.
+
+### [US Keeps Military Option Alive As Iran Talks Near A Critical Test](https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html)
+*Radio Free Europe / Liberty* - Jul 01, 12:56 IST (iso: 2026-07-01T07:26:49+00:00)
+<!-- image: https://gdb.rferl.org/8ce1d1a7-51a5-4d61-8dda-08debadc418c_cx0_cy5_cw90_w1200_h630.jpg -->
+
+US Vice President JD Vance stated the White House is ready to use force against Iran US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unresolved. US Keeps Military Option Alive As Iran Talks Near A Critical Test.
+
+### [‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population](https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population)
+*The Guardian* - Jul 01, 12:30 IST (iso: 2026-07-01T07:00:29+00:00)
+<!-- image: https://i.guim.co.uk/img/media/ae1ac6f6547bd7056a9dc272ac36c62ff1222f3f/1790_340_6402_5124/master/6402.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a02ee23b14eaef7b8de396c0c4c048b0 -->
+
+Niger's military regime arrested up to 40 people for homosexuality following a Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climateA “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African state following the introduction of a new penal code earlier this year. Up to 40 people have been arrested and 16 men, including high-ranking military officials, have b.
+
+---
+
+## Americas
+
+### [Venezuelan man saved from collapsed mall eight days after earthquakes](https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes)
+*The Guardian* - Jul 02, 22:54 IST (iso: 2026-07-02T17:24:06+00:00)
+<!-- image: https://i.guim.co.uk/img/media/70bfff36b78c96d5b44906e11921e37973522db9/284_0_5570_4456/master/5570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f1e13ae17b4dea25e5159abbd3febfb -->
+
+Hernán Alberto Gil Flores, 43, was rescued from a collapsed shopping center Security guard Hernán Alberto Gil Flores, 43, initially told rescuers not to tell his wife in case he did not surviveA 43-year-old security guard who survived last week’s devastating earthquakes in Venezuela thanks to a pocket of air in his workstation cabin has been pulled from the collapsed basement of a shopping centre amid huge cheers from international rescue teams. Hernán Alberto Gil Flores h.
+
+### [Canadian boy dies of rabies after waking to find bat on his face](https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face)
+*The Guardian* - Jul 02, 21:59 IST (iso: 2026-07-02T16:29:38+00:00)
+<!-- image: https://i.guim.co.uk/img/media/6e7b37b3b665d03e4bbb7dc3214238b3619a6711/443_0_2218_1774/master/2218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41ec83a7c51a37fdcbd750493202d3d5 -->
+
+An eleven-year-old Canadian boy died of rabies after a bat encounter in an Ontario Eleven-year-old developed symptoms 19 days after encounter in ‘exceedingly rare’ case in Canada Doctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an Ontario cottage later died of rabies, in an “exceedingly rare case” that highlights the need for better public awareness. In a report published this week in the Canadian Medical Association Journal, infe.
+
+### [Four people die in mass fan celebrations in Mexico City after World Cup victory](https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations)
+*The Guardian* - Jul 02, 00:19 IST (iso: 2026-07-01T18:49:01+00:00)
+<!-- image: https://i.guim.co.uk/img/media/85484ccc58c774d6d09befde7b07375146c41a7e/0_0_4369_3497/master/4369.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee972a8313707ea949dd163f87d24fbf -->
+
+Four people died in Mexico City during World Cup celebrations. Three of the victims died from suffocationMore than a million people gathered in Mexico CityFour people died, three ⁠from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health secretariat ⁠said in the early ⁠hours ​of Wednesday. The deaths occurred near the Angel of Independence landmark, where thousands of fans had gathered to ⁠celebrate.
+
+### [A baseball stadium becomes a refuge in Venezuela](https://news.un.org/feed/view/en/story/2026/07/1167857)
+*UN News* - Jul 01, 17:30 IST (iso: 2026-07-01T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/30-06-2026-UNOCHA-Venezuela-08.jpg/image770x420cropped.jpg -->
+
+The baseball stadium at Playa Grande, Venezuela, now serves as an emergency shelter. Where children once trained as baseball players, families now sleep under tarpaulins. The stadium at Playa Grande, on Venezuela's central coast, has become an emergency shelter for people who lost their homes – or cannot safely return to them – after the deadly quakes that struck the country on 24 June.
 
 ---
 
@@ -41,136 +167,6 @@ Ukrainian K-2 Brigade drone operators are using medium-range strike UAVs. They t
 <!-- image: https://asiatimes.com/wp-content/uploads/2020/05/China-EU-Flags-1.jpg -->
 
 China and the European Union launched a new Trade and Investment Consultation Mechanism in Brussels on The official launch of the China-EU Trade and Investment Consultation Mechanism represents one of the most significant developments in China-Europe economic relations in recent years, underscoring a shared determination to manage an increasingly complex commercial relationship through dialogue rather than confrontation. At the inaugural meeting in Brussels, on June 29, China’s Minister of Commerce.
-
----
-
-## Americas
-
-### [Canadian boy dies of rabies after waking to find bat on his face](https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face)
-*The Guardian* - Jul 02, 21:59 IST (iso: 2026-07-02T16:29:38+00:00)
-<!-- image: https://i.guim.co.uk/img/media/6e7b37b3b665d03e4bbb7dc3214238b3619a6711/443_0_2218_1774/master/2218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41ec83a7c51a37fdcbd750493202d3d5 -->
-
-An eleven-year-old Canadian boy died of rabies after a bat encounter in an Ontario Eleven-year-old developed symptoms 19 days after encounter in ‘exceedingly rare’ case in Canada Doctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an Ontario cottage later died of rabies, in an “exceedingly rare case” that highlights the need for better public awareness. In a report published this week in the Canadian Medical Association Journal, infe.
-
-### [Venezuelan man saved from collapsed mall eight days after earthquakes](https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes)
-*The Guardian* - Jul 02, 21:37 IST (iso: 2026-07-02T16:07:45+00:00)
-<!-- image: https://i.guim.co.uk/img/media/70bfff36b78c96d5b44906e11921e37973522db9/284_0_5570_4456/master/5570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f1e13ae17b4dea25e5159abbd3febfb -->
-
-Hernán Alberto Gil Flores, 43, was rescued from a collapsed shopping center Security guard Hernán Alberto Gil Flores, 43, initially told rescuers not to tell his wife in case he did not surviveA 43-year-old security guard who survived last week’s devastating earthquakes in Venezuela thanks to a pocket of air in his workstation cabin has been pulled from the collapsed basement of a shopping centre amid huge cheers from international rescue teams. Hernán Alberto Gil Flores h.
-
-### [Four people die in mass fan celebrations in Mexico City after World Cup victory](https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations)
-*The Guardian* - Jul 02, 00:19 IST (iso: 2026-07-01T18:49:01+00:00)
-<!-- image: https://i.guim.co.uk/img/media/85484ccc58c774d6d09befde7b07375146c41a7e/0_0_4369_3497/master/4369.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee972a8313707ea949dd163f87d24fbf -->
-
-Four people died in Mexico City during World Cup celebrations. Three of the victims died from suffocationMore than a million people gathered in Mexico CityFour people died, three ⁠from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health secretariat ⁠said in the early ⁠hours ​of Wednesday. The deaths occurred near the Angel of Independence landmark, where thousands of fans had gathered to ⁠celebrate.
-
-### [A baseball stadium becomes a refuge in Venezuela](https://news.un.org/feed/view/en/story/2026/07/1167857)
-*UN News* - Jul 01, 17:30 IST (iso: 2026-07-01T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/30-06-2026-UNOCHA-Venezuela-08.jpg/image770x420cropped.jpg -->
-
-The baseball stadium at Playa Grande, Venezuela, now serves as an emergency shelter. Where children once trained as baseball players, families now sleep under tarpaulins. The stadium at Playa Grande, on Venezuela's central coast, has become an emergency shelter for people who lost their homes – or cannot safely return to them – after the deadly quakes that struck the country on 24 June.
-
----
-
-## Middle East & Africa
-
-### [Côte d’Ivoire floods kill 59 as west Africa endures torrential rains](https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains)
-*The Guardian* - Jul 02, 16:31 IST (iso: 2026-07-02T11:01:32+00:00)
-<!-- image: https://i.guim.co.uk/img/media/e288231c6e9783668605bf6b9ff408f8abb6fa95/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56211ca9a3af9e792ef7761a2ddcb380 -->
-
-Floods in Côte d’Ivoire killed 59 people since May. Authorities say rainy season deadlier, with Ghana reporting 13 dead and floods also hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan. There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amad.
-
-### [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak)
-*The Guardian* - Jul 02, 14:30 IST (iso: 2026-07-02T09:00:00+00:00)
-<!-- image: https://i.guim.co.uk/img/media/488f5edc5ecbab4c2d81917022a0e92a2df06875/154_0_4850_3880/master/4850.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa22661e5e3c82356e2695a39260764e -->
-
-The Democratic Republic of the Congo is experiencing an ongoing Ebola outbreak from the Bundib If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliationWhile virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbreak on a cruise ship (13 cases, three deaths), in the Democratic Republic of the Congo the Bundibugyo virus, the root of the current Ebola outbreak (currently more th.
-
-### [As Iran Tests Hormuz And Attacks The Gulf, A Former US Ambassador Says Trust Is Gone](https://www.rferl.org/a/iran-marc-j-sievers-gulf/33794603.html)
-*Radio Free Europe / Liberty* - Jul 02, 14:15 IST (iso: 2026-07-02T08:45:51+00:00)
-<!-- image: https://gdb.rferl.org/4b0d30fd-a092-48fb-86f9-fb778e1ee6ca_cx0_cy10_cw0_w1200_h630.jpg -->
-
-Iran tests the Strait of Hormuz and conducts actions in the Gulf. As Washington and Tehran test the limits of a fragile interim understanding, the diplomacy around Iran has become increasingly complex. To unpack the latest developments, RFE/RL spoke with Marc J. Sievers, a former US diplomat based in Abu Dhabi who has served across the Middle East. As Iran Tests Hormuz And Attacks The Gulf, A Former US Ambassador Says Trust Is Gone.
-
-### [US Keeps Military Option Alive As Iran Talks Near A Critical Test](https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html)
-*Radio Free Europe / Liberty* - Jul 01, 12:56 IST (iso: 2026-07-01T07:26:49+00:00)
-<!-- image: https://gdb.rferl.org/8ce1d1a7-51a5-4d61-8dda-08debadc418c_cx0_cy5_cw90_w1200_h630.jpg -->
-
-US Vice President JD Vance stated the White House is ready to use force against Iran US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unresolved. US Keeps Military Option Alive As Iran Talks Near A Critical Test.
-
-### [‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population](https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population)
-*The Guardian* - Jul 01, 12:30 IST (iso: 2026-07-01T07:00:29+00:00)
-<!-- image: https://i.guim.co.uk/img/media/ae1ac6f6547bd7056a9dc272ac36c62ff1222f3f/1790_340_6402_5124/master/6402.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a02ee23b14eaef7b8de396c0c4c048b0 -->
-
-Niger's military regime arrested up to 40 people for homosexuality following a Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climateA “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African state following the introduction of a new penal code earlier this year. Up to 40 people have been arrested and 16 men, including high-ranking military officials, have b.
-
-### [‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and](https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests)
-*The Guardian* - Jun 30, 22:13 IST (iso: 2026-06-30T16:43:32+00:00)
-<!-- image: https://i.guim.co.uk/img/media/dfe98802a4780d58fc0ad0d7fcfc1ef42716274c/0_0_6440_5152/master/6440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2575776f96a357aae0cb5784a8475183 -->
-
-Anti-foreigner protests swept South Africa after an arbitrary deadline for undocumented migrants More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the countrySouth Africa was holding its breath on Tuesday as mass anti-immigration protests were held across the country. They come after a weeks-long campaign against foreigners that has seen at least four killed and tens of thousands fleeing for safety. In.
-
-### [Iran's Nuclear Program Must Remain The Focus](https://www.rferl.org/a/mary-kissel-iran-nuclear-program-must-remain-the-focus/33792136.html)
-*Radio Free Europe / Liberty* - Jun 30, 20:52 IST (iso: 2026-06-30T15:22:14+00:00)
-<!-- image: https://gdb.rferl.org/0df04f52-c676-41bc-2d7a-08decd1f5434_w1200_h630.jpg -->
-
-A US-Iran memorandum opened a 60-day diplomatic window. Despite a US-Iran memorandum that opened a 60-day diplomatic window, missile exchanges and maritime threats suggest the negotiations are faltering under growing military pressure. RFE/RL spoke with Hudson Institute Senior Fellow Mary Kissel about whether diplomacy can deliver lasting security. Iran's Nuclear Program Must Remain The Focus.
-
-### ['It's The Only Thing They're Talking About': Far From Ukraine War, Russia Fuel Crisis Consumes](https://www.rferl.org/a/russia-ukraine-fuel-gas-crisis-shortage/33792063.html)
-*Radio Free Europe / Liberty* - Jun 30, 19:56 IST (iso: 2026-06-30T14:26:49+00:00)
-<!-- image: https://gdb.rferl.org/00feae1f-0639-4d1e-bc37-e6db977b2820_cx0_cy6_cw0_w1200_h630.jpg -->
-
-Russia faces a deepening gasoline crisis across several regions. There’s no gasoline for ambulances in one region. In another, they’ve suspended garbage pickup because there’s no fuel for trucks. There’s a robust black market where you can pay someone to hold your place in endless lines of drivers hoping to fill up cars. Russia’s gasoline crisis is deepening. 'It's The Only Thing They're Talking About': Far From Ukraine War, Russia Fuel Crisis Consumes.
-
-### [Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza](https://news.un.org/feed/view/en/story/2026/06/1167845)
-*UN News* - Jun 30, 17:30 IST (iso: 2026-06-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/23-06-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg -->
-
-UNRWA, the UN agency for Palestine refugees, faces a $100 million budget shortfall. It serves 5.9 million people and remains a critical platform for Gaza. A pledging conference on Tuesday at UN Headquarters aims to narrow this gap. The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters.
-
-### [China is a clear winner from Trump’s war in Middle East, report concludes](https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz)
-*The Guardian* - Jun 30, 16:41 IST (iso: 2026-06-30T11:11:58+00:00)
-<!-- image: https://i.guim.co.uk/img/media/d0af69917e2dc253bffcc793ffcce5046de4279e/411_0_2725_2180/master/2725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ef3a0df1452ff1e32714823005665ce -->
-
-A report by Asia Group concluded China was the sole winner in Asia from the Strait of Hormuz crisis. China's energy stockpiles and renewables industry helped it withstand the global commodities shock. It now benefits from the global push for solar and electric vehicles. Beijing, whose stockpiles and renewables industry allowed it to withstand energy shock, is now gaining from global solar and EV pushChina has emerged as the sole winner in Asia from the strait of Hormuz crisis, according to a report published on Tuesday. The report by the geopolitical consulting firm Asia Group concluded that China had weathered the storm of the global commodities crisis resulting.
-
----
-
-## Asia-Pacific
-
-### [Japan, India Working Together To Promote Industry In Northeast: Piyush Goyal](https://www.ndtv.com/world-news/india-japan-summit-2026-indo-japan-strategic-dialogue-live-trade-tech-defence-in-focus-at-ndtv-dialogue-piyush-goyal-pm-narendra-modi-sanae-takaichi-11715498#publisher=newsstand)
-*NDTV World* - Jul 02, 14:39 IST (iso: 2026-07-02T09:09:44+00:00)
-<!-- image: https://c.ndtvimg.com/2026-07/q57g8jt4_piyush-goyal_625x300_02_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720 -->
-
-India and Japan held the NDTV Dialogue focusing on trade, technology, and India-Japan Summit 2026 LIVE News Updates: The event today will feature prominent voices including Union Commerce and Industry Minister Piyush Goyal, Daikin India Chairman and Managing Director Kanwal Jeet Jawa, India's Ambassador to Japan Nagma Mallick and many others. India-Japan Summit 2026 LIVE: Trade, Technology, Defence In Focus At NDTV Dialogue.
-
-### [China’s EV fleet is world’s most underestimated AI asset](https://asiatimes.com/2026/07/chinas-ev-fleet-is-worlds-most-underestimated-ai-asset/)
-*Asia Times* - Jul 02, 13:59 IST (iso: 2026-07-02T08:29:23+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Chinese-EVs-BYD.jpg -->
-
-China's electric vehicle fleet is emerging as a significant, often overlooked, artificial intelligence History has a habit of concealing its most consequential turning points inside the mundane. The invention of the shipping container did not announce itself as a revolution in global trade. The rise of the mobile phone was initially dismissed as an expensive novelty for businessmen. Today, something similarly quiet and similarly transformative is unfolding across [] The post China’s EV fleet is wo.
-
-### [Japan’s gray-zone resilience runs through civilian industry](https://asiatimes.com/2026/07/japans-gray-zone-resilience-runs-through-civilian-industry/)
-*Asia Times* - Jul 02, 12:24 IST (iso: 2026-07-02T06:54:50+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Gray-Zone-Tactics.jpg -->
-
-Japan is building national resilience by integrating civilian industry capabilities into national strategy. This includes KD This article first appeared on Pacific Forum and is republished with permission. Read the original here. KDDI’s cable-laying and repair capacity, Japan’s intervention in the Makino Milling Machine acquisition, and the Daikin–Shin-Etsu–Hitachi–Tokyo Eco Recycle rare-earth magnet project would seem to belong to separate policy worlds.
-
-### [The logical case for admitting Bangladesh into ASEAN](https://asiatimes.com/2026/07/the-logical-case-for-admitting-bangladesh-into-asean/)
-*Asia Times* - Jul 01, 19:16 IST (iso: 2026-07-01T13:46:22+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/ASEAN-flag.jpg -->
-
-Bangladesh's foreign policy under ousted Prime Minister Sheikh Hasina focused heavily on India For decades, Bangladesh’s foreign policy operated on a predictable, singular axis. Under the sixteen-year tenure of ousted Prime Minister Sheikh Hasina, Dhaka’s strategic and economic relations were deeply tethered to New Delhi. A flurry of bilateral agreements spanning digital connectivity, transit rights, and maritime security signaled a tight, almost exclusive alignment with Indian interests.
-
----
-
-## Global / Multilateral
-
-### [New WHO plan urges stronger action against fungal disease](https://news.un.org/feed/view/en/story/2026/06/1167842)
-*UN News* - Jun 30, 17:30 IST (iso: 2026-06-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/30-06-2026-WHO-antimicrobial.jpg/image770x420cropped.jpg -->
-
-The World Health Organization published new guidance to help countries address fungal disease. The World Health Organization (WHO) has published new guidance to help countries confront the rising burden of fungal disease and antifungal resistance - one of the most neglected global health threats, yet still largely absent from national health plans. New WHO plan urges stronger action against fungal disease.
 
 ---
 
