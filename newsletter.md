@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 02, 2026 22:10 IST
+**Updated:** July 02, 2026 22:25 IST
 
 ---
 
@@ -100,17 +100,17 @@ Niger's military regime arrested up to 40 people for homosexuality following a F
 
 Anti-foreigner protests swept South Africa after an arbitrary deadline for undocumented migrants More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the countrySouth Africa was holding its breath on Tuesday as mass anti-immigration protests were held across the country. They come after a weeks-long campaign against foreigners that has seen at least four killed and tens of thousands fleeing for safety. In.
 
-### [Iran's Nuclear Program Must Remain The Focus](https://www.rferl.org/a/mary-kissel-iran-nuclear-program-must-remain-the-focus/33792136.html)
-*Radio Free Europe / Liberty* - Jun 30, 20:52 IST (iso: 2026-06-30T15:22:14+00:00)
-<!-- image: https://gdb.rferl.org/0df04f52-c676-41bc-2d7a-08decd1f5434_w1200_h630.jpg -->
-
-A 60-day diplomatic window between the United States and Iran is faltering Despite a US-Iran memorandum that opened a 60-day diplomatic window, missile exchanges and maritime threats suggest the negotiations are faltering under growing military pressure. RFE/RL spoke with Hudson Institute Senior Fellow Mary Kissel about whether diplomacy can deliver lasting security. Iran's Nuclear Program Must Remain The Focus.
-
 ---
 
 ## Americas
 
-### [Venezuelan man pulled alive from collapsed basement eight days after earthquakes](https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes)
+### [Canadian boy dies of rabies after waking to find bat on his face](https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face)
+*The Guardian* - Jul 02, 21:59 IST (iso: 2026-07-02T16:29:38+00:00)
+<!-- image: https://i.guim.co.uk/img/media/6e7b37b3b665d03e4bbb7dc3214238b3619a6711/443_0_2218_1774/master/2218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41ec83a7c51a37fdcbd750493202d3d5 -->
+
+An eleven-year-old Canadian boy died of rabies after a bat encounter in an Ontario Eleven-year-old developed symptoms 19 days after encounter in ‘exceedingly rare’ case in Canada Doctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an Ontario cottage later died of rabies, in an “exceedingly rare case” that highlights the need for better public awareness. In a report published this week in the Canadian Medical Association Journal, infe.
+
+### [Venezuelan man saved from collapsed mall eight days after earthquakes](https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes)
 *The Guardian* - Jul 02, 21:37 IST (iso: 2026-07-02T16:07:45+00:00)
 <!-- image: https://i.guim.co.uk/img/media/70bfff36b78c96d5b44906e11921e37973522db9/284_0_5570_4456/master/5570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f1e13ae17b4dea25e5159abbd3febfb -->
 
