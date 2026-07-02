@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-07-02T13:37:34.149066+00:00",
-  "article_count": 48,
-  "total_unique_count": 270,
+  "generated_at": "2026-07-02T14:50:26.314954+00:00",
+  "article_count": 50,
+  "total_unique_count": 279,
   "digest": {
-    "en": "Europe & Russia leads the board this hour with Rescuers Scramble To Find Survivors Of Deadly Russian Strike On Kyiv. Middle East & Africa carries the next thread. 23 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, अफगानिस्तान में गूंजा ‘इंडिया जिंदाबाद’, भारतीय शख्स को लोकल लोगों ने सिर-आंखों पर बिठाया मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Asia-Pacific leads the board this hour with Myanmar’s New Administration: Military Consolidation, Not Transition. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, ‘रियासत खाली करो’, PoK ने कर दिया ‘कुर्सी तोड़’ ऐलान, शहबाज-मुनीर हुकूमत की उल्टी गिनती शुरू! मुख्य खबर है। साथ ही यूरोप और रूस से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Min Aung Hlaing transitioned from commander-in-chief to president in Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenians will hold a general election on 7 June, their first since 2 Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Samson Abebe Bezabeh, Assistant Professor at the University of Hong This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea. Tiny Djibouti, and Its Prime Real Estate.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan began conveying proposals to end the war soon after the United States and Israel started bombing Iran Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task. A New Player in the Quest for a U. S.-Iran Breakthrough.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's upcoming seven-year budget may jeopardize funding for conflict The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Rescuers Scramble To Find Survivors Of Deadly Russian Strike On Kyiv",
       "url": "https://www.rferl.org/a/deadly-overnight-russian-strike-hits-kyiv/33794697.html",
@@ -248,40 +308,40 @@
       "translations": {}
     },
     {
-      "title": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
-      "source": "UN News",
+      "title": "‘रियासत खाली करो’, PoK ने कर दिया ‘कुर्सी तोड़’ ऐलान, शहबाज-मुनीर हुकूमत की उल्टी गिनती शुरू!",
+      "url": "https://hindi.news18.com/world/pakistan-riyasat-khali-karo-slogan-echoes-in-pok-jaac-exposes-pakistan-army-jem-terror-nexus-shahbaz-sharif-asim-munir-in-fear-10623038.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-30T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/23-06-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg",
-      "summary": "UNRWA, the UN agency for Palestine refugees, faces a $10 The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters. Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-02T14:26:39+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/PoK-Vs-Pakistan-2026-07-e61e58b8850efa4fb4c1dbf7e5001e18-1200x800.jpg",
+      "summary": "पाकिस्तान अधिकृत कश्मीर में चल रहे आंदोलन का 24वां दिन एक महत्वपूर्ण मोड़ पर पहुंचा. PoK में चल रहे आंदोलन के 24वें दिन एक बेहद चौंकाने वाला मोड़ आ गया है, जिसने सीधे प्रधानमंत्री शहबाज शरीफ और आर्मी चीफ आसिम मुनीर की कुर्सी हिला दी है. रावलाकोट के ईदगाह मैदान में उमड़े हजारों के जनसैलाब के सामने JAAC लीडर अमन खान ने पाकिस्तानी हुकूमत और उसकी फौज की धज्जियां उड़ा दी हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘रियासत खाली करो’, PoK ने कर दिया ‘कुर्सी तोड़’ ऐलान, शहबाज-मुनीर हुकूमत की उल्टी गिनती शुरू!",
+          "summary": "पाकिस्तान अधिकृत कश्मीर में चल रहे आंदोलन का 24वां दिन एक महत्वपूर्ण मोड़ पर पहुंचा. PoK में चल रहे आंदोलन के 24वें दिन एक बेहद चौंकाने वाला मोड़ आ गया है, जिसने सीधे प्रधानमंत्री शहबाज शरीफ और आर्मी चीफ आसिम मुनीर की कुर्सी हिला दी है. रावलाकोट के ईदगाह मैदान में उमड़े हजारों के जनसैलाब के सामने JAAC लीडर अमन खान ने पाकिस्तानी हुकूमत और उसकी फौज की धज्जियां उड़ा दी हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
-      "title": "New WHO plan urges stronger action against fungal disease",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167842",
-      "source": "UN News",
+      "title": "रूसी हमले के बाद यूक्रेन ने सहयोगी देशों से मांगा पैसा, कहा- अमेरिकी हथियार खरीदने में मदद करें",
+      "url": "https://www.patrika.com/world-news/ukraine-president-volodymyr-zelenskiy-urge-alies-for-economical-help-over-buy-air-defence-system-20715838",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-30T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/30-06-2026-WHO-antimicrobial.jpg/image770x420cropped.jpg",
-      "summary": "The World Health Organization published new guidance for countries to confront the rising burden of The World Health Organization (WHO) has published new guidance to help countries confront the rising burden of fungal disease and antifungal resistance - one of the most neglected global health threats, yet still largely absent from national health plans. New WHO plan urges stronger action against fungal disease.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China is a clear winner from Trump’s war in Middle East, report concludes",
-      "url": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-30T11:11:58+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/d0af69917e2dc253bffcc793ffcce5046de4279e/411_0_2725_2180/master/2725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ef3a0df1452ff1e32714823005665ce",
-      "summary": "A report by the geopolitical consulting firm Asia Group concluded China was the sole winner in Asia from the Strait of Hormuz crisis. China's stockpiles and renewables industry helped it withstand the global commodities crisis. It is now gaining from the global solar and electric vehicle push. Beijing, whose stockpiles and renewables industry allowed it to withstand energy shock, is now gaining from global solar and EV pushChina has emerged as the sole winner in Asia from the strait of Hormuz crisis, according to a report published on Tuesday. The report by the geopolitical consulting firm Asia Group concluded that China had weathered the storm of the global commodities crisis resulting.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-02T14:10:31+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/russiaukraineattacklayest.webp",
+      "summary": "रूस ने गुरुवार सुबह यूक्रेन की राजधानी कीव पर जोरदार हमला किया। इस घटना के बाद पूरे शहर में आग और धुएं का गुबार छा गया। आवासीय इमारतें ध्वस्त हो गईं, लोग मलबे में दब गए। रूसी हमले के बाद यूक्रेन ने सहयोगी देशों से मांगा पैसा, कहा- अमेरिकी हथियार खरीदने में मदद करें।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूसी हमले के बाद यूक्रेन ने सहयोगी देशों से मांगा पैसा, कहा- अमेरिकी हथियार खरीदने में मदद करें",
+          "summary": "रूस ने गुरुवार सुबह यूक्रेन की राजधानी कीव पर जोरदार हमला किया। इस घटना के बाद पूरे शहर में आग और धुएं का गुबार छा गया। आवासीय इमारतें ध्वस्त हो गईं, लोग मलबे में दब गए। रूसी हमले के बाद यूक्रेन ने सहयोगी देशों से मांगा पैसा, कहा- अमेरिकी हथियार खरीदने में मदद करें।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "अफगानिस्तान में गूंजा ‘इंडिया जिंदाबाद’, भारतीय शख्स को लोकल लोगों ने सिर-आंखों पर बिठाया",
@@ -302,6 +362,24 @@
       }
     },
     {
+      "title": "भारत और तिब्बत से नफरत की इंतेहा, चीन ने प्रमुख तिब्बती स्कूल बंद कर दिया,शेयर की गई तस्वीरें हटाईं",
+      "url": "https://www.patrika.com/world-news/hatred-towards-india-tibet-china-shuts-prominent-tibetan-school-as-crackdown-on-tibetan-language-culture-20715702",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-02T13:14:35+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/China-Shuts-Prominent-Tibetan-School.webp",
+      "summary": "China permanently closed the Hungkar Dorje Vocational High School in Tibet. China Shuts Prominent Tibetan School: चीन ने भारतीय और तिब्बती संस्कृति से नफरत में अजीब अजीब कदम उठा रहा है। चीन ने तिब्बती भाषा और सांस्कृतिक शिक्षा पर एक और हमला करते हुए दिवंगत बौद्ध नेता तुलकु हुंगकर दोरजे की ओर से स्थापित मशहूर तिब्बती शैक्षणिक संस्थान, हुंगकर दोरजे वोकेशनल हाई स्कूल को स्थायी रूप से बंद कर दिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत और तिब्बत से नफरत की इंतेहा, चीन ने प्रमुख तिब्बती स्कूल बंद कर दिया,शेयर की गई तस्वीरें हटाईं",
+          "summary": "China permanently closed the Hungkar Dorje Vocational High School in Tibet. China Shuts Prominent Tibetan School: चीन ने भारतीय और तिब्बती संस्कृति से नफरत में अजीब अजीब कदम उठा रहा है। चीन ने तिब्बती भाषा और सांस्कृतिक शिक्षा पर एक और हमला करते हुए दिवंगत बौद्ध नेता तुलकु हुंगकर दोरजे की ओर से स्थापित मशहूर तिब्बती शैक्षणिक संस्थान, हुंगकर दोरजे वोकेशनल हाई स्कूल को स्थायी रूप से बंद कर दिया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "कराची के बिल्कुल करीब पहुंचा भारत का P-8I पोसाइडन, आसमान देखकर कांप उठा पाकिस्तान, कहीं चीन की",
       "url": "https://hindi.news18.com/world/pakistan-indian-navy-p-8i-poseidon-patrols-near-karachi-with-america-p-8a-threat-to-pakistan-china-submarine-deal-10622028.html",
       "source": "News18 Hindi (World)",
@@ -315,6 +393,24 @@
         "hi": {
           "title": "कराची के बिल्कुल करीब पहुंचा भारत का P-8I पोसाइडन, आसमान देखकर कांप उठा पाकिस्तान, कहीं चीन की",
           "summary": "Public flight-tracking indicated an Indian Navy P-8I Poseidon and a US Navy surveillance aircraft operated near Karachi. अरब सागर में भारत और अमेरिका की एक जुगलबंदी ने पाकिस्तान में खलबली मचा दी है. दरअसल, पब्लिक फ्लाइट-ट्रैकिंग ने दावा किया है कि भारतीय नौसेना का सबसे खतरनाक 'पनडुब्बी शिकारी' P-8I पोसाइडन और अमेरिकी नौसेना का जासूसी विमान कराची के बिल्कुल करीब उत्तरी अरब सागर में मंडराते देखे गए हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इंडोनेशिया के पापुआ में अमेरिकी पायलट की गोली मार कर हत्या, विमान में आग लगाई",
+      "url": "https://www.patrika.com/world-news/american-pilot-shot-dead-indonesia-aircraft-set-on-fire-wpnla-message-20715509",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-02T12:35:22+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Indonesia-Aircraft-Set-on-Fire.webp",
+      "summary": "इंडोनेशिया के अशांत पूर्वी पापुआ में विद्रोहियों ने गुरुवार को एक अमेरिकी पायलट की गोली मारकर हत्या कर दी। American Pilot Shot Dead in Indonesia Aircraft Set on Fire: इंडोनेशिया के अशांत पूर्वी इलाके पापुआ में गुरुवार को विद्रोहियों ने एक अमेरिकी पायलट की गोली मार कर हत्या कर दी और एक नागरिक विमान में आग लगा दी। एक स्थानीय अलगाववादी समूह के प्रवक्ता ने इसे अमेरिकी और इंडोनेशियाई सरकारों को विद्रोहियों का एक सख्त मैसेज बताया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इंडोनेशिया के पापुआ में अमेरिकी पायलट की गोली मार कर हत्या, विमान में आग लगाई",
+          "summary": "इंडोनेशिया के अशांत पूर्वी पापुआ में विद्रोहियों ने गुरुवार को एक अमेरिकी पायलट की गोली मारकर हत्या कर दी। American Pilot Shot Dead in Indonesia Aircraft Set on Fire: इंडोनेशिया के अशांत पूर्वी इलाके पापुआ में गुरुवार को विद्रोहियों ने एक अमेरिकी पायलट की गोली मार कर हत्या कर दी और एक नागरिक विमान में आग लगा दी। एक स्थानीय अलगाववादी समूह के प्रवक्ता ने इसे अमेरिकी और इंडोनेशियाई सरकारों को विद्रोहियों का एक सख्त मैसेज बताया।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -356,6 +452,24 @@
       }
     },
     {
+      "title": "‘हमें हिजबुल्लाह ​से लड़वाने की साजिश कामयाब नहीं होने देंगे’,लेबनान की इजरायल को दो टूक",
+      "url": "https://www.patrika.com/world-news/israel-hezbollah-lebanon-conflict-lebanese-member-parliament-nabih-berri-statement-20715229",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-02T11:36:01+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Israel-Lebanon-Conflict-1.webp",
+      "summary": "लेबनान के संसद सदस्य नबीह बेरी ने इजरायल पर लेबनानी सेना को हिजबुल्लाह के खिलाफ Israel-Hezbollah-Lebanon Conflict: अमेरिका और इजरायल में तो सीजफायर हो गए, लेकिन इजरायल इसमें शामिल नहीं है। ईरान का कहना है कि इजरायली और लेबनानी हमले बंद करे। यहां इजराइल का लेबनान के प्रति रुख नहीं बदला है। लेबनान के संसद सदस्य नबीह बेरी ने कहा कि लेबनान की सेना को हिजाब की तरह प्रतिरोध आंदोलन के खिलाफ खड़ा करने के लिए इजरायली सरकार की साजिश नहीं रचनी होगी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘हमें हिजबुल्लाह ​से लड़वाने की साजिश कामयाब नहीं होने देंगे’,लेबनान की इजरायल को दो टूक",
+          "summary": "लेबनान के संसद सदस्य नबीह बेरी ने इजरायल पर लेबनानी सेना को हिजबुल्लाह के खिलाफ Israel-Hezbollah-Lebanon Conflict: अमेरिका और इजरायल में तो सीजफायर हो गए, लेकिन इजरायल इसमें शामिल नहीं है। ईरान का कहना है कि इजरायली और लेबनानी हमले बंद करे। यहां इजराइल का लेबनान के प्रति रुख नहीं बदला है। लेबनान के संसद सदस्य नबीह बेरी ने कहा कि लेबनान की सेना को हिजाब की तरह प्रतिरोध आंदोलन के खिलाफ खड़ा करने के लिए इजरायली सरकार की साजिश नहीं रचनी होगी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "बेकार समझकर फेंक दिया था पत्थर, 40 साल बाद पड़ी नजर, भागा-भागा म्यूजियम पहुंचा वैज्ञानिक, सच्चाई ने",
       "url": "https://hindi.news18.com/world/rest-of-world-40-year-old-mysterious-rock-turns-to-dinosaur-fossil-forgotten-in-a-drawer-until-scientists-realizes-the-truth-2-ws-l-10622222.html",
       "source": "News18 Hindi (World)",
@@ -374,6 +488,24 @@
       }
     },
     {
+      "title": "अमेरिका-इजरायल ने खामेनेई के अंतिम संस्कार में हमला किया तो नतीजे भुगतने होंगे",
+      "url": "https://www.patrika.com/world-news/ayatollah-ali-khamenei-funeral-iran-threated-us-israel-will-face-consequences-if-attack-20714881",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-02T09:57:55+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Iran-Supreme-Leader-Mojtaba-Ali-Khamenei.webp",
+      "summary": "ईरान ने अमेरिका और इजरायल को चेतावनी दी है. Ayatollah Ali Khamenei Funeral Iran Threated US-Israel: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामेनेई के अंतिम संस्कार को इजरायल के लिए बमबारी का बेहतर मौका बताने के अमेरिका के प्रेसीडेंट डोनाल्ड ट्रंप की समर्थक लॉरा लूमर के टवीट के बाद ईरान ने अमेरिका और इजरायल को चेताया है कि अगर उन्होंने इस मौके पर हमला किया तो नतीजे भुगतने होंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-इजरायल ने खामेनेई के अंतिम संस्कार में हमला किया तो नतीजे भुगतने होंगे",
+          "summary": "ईरान ने अमेरिका और इजरायल को चेतावनी दी है. Ayatollah Ali Khamenei Funeral Iran Threated US-Israel: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामेनेई के अंतिम संस्कार को इजरायल के लिए बमबारी का बेहतर मौका बताने के अमेरिका के प्रेसीडेंट डोनाल्ड ट्रंप की समर्थक लॉरा लूमर के टवीट के बाद ईरान ने अमेरिका और इजरायल को चेताया है कि अगर उन्होंने इस मौके पर हमला किया तो नतीजे भुगतने होंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "ईरान-अमेरिका ने दोहा में की वार्ता, पर नहीं आए एक-दूसरे के सामने, ट्रंप-नेतन्याहू की सुलह",
       "url": "https://hindi.news18.com/world/middle-east-iran-us-deal-news-live-update-middle-east-conflict-doha-talks-starit-of-hormuz-nuclear-talks-livenews-ws-l-10620677.html",
       "source": "News18 Hindi (World)",
@@ -388,6 +520,24 @@
           "title": "ईरान-अमेरिका ने दोहा में की वार्ता, पर नहीं आए एक-दूसरे के सामने, ट्रंप-नेतन्याहू की सुलह",
           "summary": "ईरान और संयुक्त राज्य अमेरिका ने दोहा में तकनीकी वार्ता का एक दौर पूरा किया। Iran-US Deal Update: ईरान-अमेरिका में तकनीकी वार्ता का एक दौर पूरा हुआ है. हालांकि इस दौरान दोनों देश एक दूसरे के सामने नहीं आए हैं. वार्ता का मुद्दा वही समझौता था, जो 17 जून को दोनों देशों के बीच हुआ था. इसके तहत ईरान की जमी हुई संपत्तियों की पहली किस्त रिलीज की जानी थी.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कैसे और क्यों 66 साल के पायलट ने बीजिंग की सबसे ऊंची इमारत में ठोक दिया विमान? चीन सरकार बताई वजह",
+      "url": "https://www.patrika.com/world-news/beijing-plane-crash-skyscraper-pilot-personal-reasons-20714957",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-02T09:42:51+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Chinaplanecrashnews.webp",
+      "summary": "बीजिंग की सबसे ऊंची इमारत में हाल ही में एक विमान टकरा गया. हादसे के बाद विमान का मलबा जमीन पर बिखर गया. चीन की राजधानी बीजिंग की सबसे ऊंची इमारत में कुछ ही दिनों पहले एक प्लेन टकरा गया था। इस हादसे के बाद विमान का मलबा चूर-चूर होकर जमीन पर गिरा था। इस घटना ने पूरे चीन को हिला दिया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कैसे और क्यों 66 साल के पायलट ने बीजिंग की सबसे ऊंची इमारत में ठोक दिया विमान? चीन सरकार बताई वजह",
+          "summary": "बीजिंग की सबसे ऊंची इमारत में हाल ही में एक विमान टकरा गया. हादसे के बाद विमान का मलबा जमीन पर बिखर गया. चीन की राजधानी बीजिंग की सबसे ऊंची इमारत में कुछ ही दिनों पहले एक प्लेन टकरा गया था। इस हादसे के बाद विमान का मलबा चूर-चूर होकर जमीन पर गिरा था। इस घटना ने पूरे चीन को हिला दिया।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -414,7 +564,7 @@
       "url": "https://www.patrika.com/world-news/baloch-activist-aomar-karim-hunger-strike-outside-uk-pm-office-over-balochistan-20714758",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-02T09:13:45+00:00",
+      "published_at": "2026-07-02T09:34:53+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Baloch-activist.webp",
       "summary": "बलूच कार्यकर्ता ओमार करीम ने लंदन में ब्रिटेन के प्रधानमंत्री के आधिकारिक आवास 10 डाउनिंग स्ट्रीट के बाहर Baloch activist Hunger Strike London: बलूच कार्यकर्ता ओमार करीम ने लंदन स्थित ब्रिटेन के प्रधानमंत्री के ऑफिशियल रेजिडेंस 10 डाउनिंग स्ट्रीट के बाहर भूख हड़ताल शुरू की है। उन्होंने पाकिस्तान पर बलूच राजनीतिक कार्यकर्ताओं के खिलाफ लगातार कार्रवाई करने का आरोप लगाया है।",
       "region": "Europe & Russia",
@@ -432,7 +582,7 @@
       "url": "https://www.patrika.com/world-news/donald-trump-supporter-laura-loomer-israel-drop-bombs-ayatollah-khamenei-funeral-20714727",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-02T08:49:06+00:00",
+      "published_at": "2026-07-02T09:28:03+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Iran-Ex-Supreme-Leader-Ayatollah-Khamenei.webp",
       "summary": "डोनाल्ड ट्रंप की समर्थक लॉरा लूमर ने इजरायल से ईरान पर एक ओर सीजफायर का दौर चल रहा है और दूसरी ओर अमेरिकी प्रेसीडेंट डोनाल्ड ट्रंप की वफादार लौरा लूमर ने ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामेनेई के अंतिम संस्कार के दिन इजरायल को ईरान पर बमबारी करने की सलाह दी है। धुर दक्षिणपंथी कार्यकर्ता। Donald Trump समर्थक लॉरा लूमर ने इजरायल से कहा- ‘अयातुल्ला खामेनेई के अंतिम संस्कार में बम बरसा दो’।",
       "region": "Middle East & Africa",
@@ -590,146 +740,20 @@
       }
     },
     {
-      "title": "रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; आठ लोगों",
+      "title": "रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; नौ लोगों",
       "url": "https://www.amarujala.com/world/ukrainian-shaken-by-russia-attack-people-terrified-the-roar-of-missiles-what-is-the-extent-of-the-casualties-2026-07-02",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-02T03:08:09+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/nprsa-na-yakarana-para-hamal-kaya_3c88bbeba9a3fca081e1ffc56b4e4265.gif?w=1200&dpr=1.0",
-      "summary": "रूस ने यूक्रेन की राजधानी कीव पर रात भर मिसाइल और ड्रोन से हमला किया। रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; कितनी हुई जनहानि? रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; आठ लोगों।",
+      "summary": "रूस ने यूक्रेन की राजधानी कीव पर रात भर मिसाइल और ड्रोन से हमला किया। रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; कितनी हुई जनहानि? रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; आठ लोगों। रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; नौ लोगों।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; आठ लोगों",
-          "summary": "रूस ने यूक्रेन की राजधानी कीव पर रात भर मिसाइल और ड्रोन से हमला किया। रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; कितनी हुई जनहानि? रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; आठ लोगों।",
+          "title": "रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; नौ लोगों",
+          "summary": "रूस ने यूक्रेन की राजधानी कीव पर रात भर मिसाइल और ड्रोन से हमला किया। रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; कितनी हुई जनहानि? रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; आठ लोगों। रूस के हमले से दहली यूक्रेन की राजधानी: कीव में रात भर मिसाइल-ड्रोन की गर्जना से सहमे लोग; नौ लोगों।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "क्या पनामा नहर पर कब्जा कर रहा चीन? ट्रंप ने दी खुली चेतावनी, बोले- ऐसा कभी नहीं होने देंगे",
-      "url": "https://www.amarujala.com/world/donald-trump-warns-china-over-panama-canal-says-we-will-not-let-that-happen-2026-07-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-02T02:45:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/tarapa-na-panama-nahara-ka-lkara-cana-para-kaya-sathha-nashana_b18701fde9bac1db84dc1129204d0a2c.jpeg?w=1200&dpr=1.0",
-      "summary": "डोनाल्ड ट्रंप ने चीन को पनामा नहर पर नियंत्रण करने के खिलाफ चेतावनी दी है। US-China: क्या चीन पनामा नहर पर कब्जा कर रहा? ट्रंप ने क्यों दी खुली चेतावनी, बोले- ऐसा कभी नहीं होने देंगे। क्या पनामा नहर पर कब्जा कर रहा चीन? ट्रंप ने दी खुली चेतावनी, बोले- ऐसा कभी नहीं होने देंगे।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या पनामा नहर पर कब्जा कर रहा चीन? ट्रंप ने दी खुली चेतावनी, बोले- ऐसा कभी नहीं होने देंगे",
-          "summary": "डोनाल्ड ट्रंप ने चीन को पनामा नहर पर नियंत्रण करने के खिलाफ चेतावनी दी है। US-China: क्या चीन पनामा नहर पर कब्जा कर रहा? ट्रंप ने क्यों दी खुली चेतावनी, बोले- ऐसा कभी नहीं होने देंगे। क्या पनामा नहर पर कब्जा कर रहा चीन? ट्रंप ने दी खुली चेतावनी, बोले- ऐसा कभी नहीं होने देंगे।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आजादी की 250वीं वर्षगांठ से पहले ट्रंप ने और क्या कहा? रूजवेल्ट का भी किया जिक्र",
-      "url": "https://www.amarujala.com/world/trumps-america-first-message-ahead-of-us250-invokes-theodore-roosevelts-legacy-to-define-us-future-2026-07-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-02T02:18:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/amaraka-ka-250va-varashhagatha-para-tarapa-ka-rashhataravatha-val-sathasha_c35574e24e48c9ccb3c530ba578aa5e8.jpeg?w=1200&dpr=1.0",
-      "summary": "डोनाल्ड ट्रंप ने अमेरिका की आजादी की 250वीं वर्षगांठ से पहले एक संदेश दिया। 'अमेरिका फर्स्ट ही भविष्य': 250वीं वर्षगांठ से पहले ट्रंप ने क्या संदेश दिया? रूजवेल्ट की विरासत का किया जिक्र। आजादी की 250वीं वर्षगांठ से पहले ट्रंप ने और क्या कहा? रूजवेल्ट का भी किया जिक्र।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आजादी की 250वीं वर्षगांठ से पहले ट्रंप ने और क्या कहा? रूजवेल्ट का भी किया जिक्र",
-          "summary": "डोनाल्ड ट्रंप ने अमेरिका की आजादी की 250वीं वर्षगांठ से पहले एक संदेश दिया। 'अमेरिका फर्स्ट ही भविष्य': 250वीं वर्षगांठ से पहले ट्रंप ने क्या संदेश दिया? रूजवेल्ट की विरासत का किया जिक्र। आजादी की 250वीं वर्षगांठ से पहले ट्रंप ने और क्या कहा? रूजवेल्ट का भी किया जिक्र।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "दोहा में US-ईरान वार्ता से बढ़ी उम्मीद, 14 सूत्रीय समझौते पर हुई सकारात्मक चर्चा",
-      "url": "https://www.amarujala.com/world/did-qatar-s-mediation-pay-off-us-iran-talks-in-doha-positive-discussions-held-on-a-14-point-agreement-2026-07-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-02T02:18:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/kajama-rarabbtha-iirana-ka-upa-vathasha-matara_cdd6f96d9eab719d2e4003e68380a4e8.jpeg?w=1200&dpr=1.0",
-      "summary": "दोहा में अमेरिकी और ईरानी अधिकारियों ने सकारात्मक चर्चा की। दोहा में US-ईरान वार्ता से बढ़ी उम्मीद, 14 सूत्रीय समझौते पर हुई सकारात्मक चर्चा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दोहा में US-ईरान वार्ता से बढ़ी उम्मीद, 14 सूत्रीय समझौते पर हुई सकारात्मक चर्चा",
-          "summary": "दोहा में अमेरिकी और ईरानी अधिकारियों ने सकारात्मक चर्चा की। दोहा में US-ईरान वार्ता से बढ़ी उम्मीद, 14 सूत्रीय समझौते पर हुई सकारात्मक चर्चा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "वेनेजुएला में भारतीय सेना का राहत मिशन युद्धस्तर पर जारी, मलबे से 79 वर्षीय महिला को बचाया",
-      "url": "https://www.amarujala.com/world/venezuela-earthquake-indian-army-operation-amistad-rescue-humanitarian-relief-rescue-op-are-underway-2026-07-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-02T02:07:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/26/vanajael-ma-tabha-ka-majara_395f557c4fadb3ff201dd8a1e8f1f42d.gif?w=1200&dpr=1.0",
-      "summary": "भारतीय सेना का राहत मिशन 'ऑपरेशन अमिश्टाड' वेनेजुएला में जारी है। वेनेजुएला में भारतीय सेना का राहत मिशन युद्धस्तर पर जारी, मलबे से 79 वर्षीय महिला को बचाया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वेनेजुएला में भारतीय सेना का राहत मिशन युद्धस्तर पर जारी, मलबे से 79 वर्षीय महिला को बचाया",
-          "summary": "भारतीय सेना का राहत मिशन 'ऑपरेशन अमिश्टाड' वेनेजुएला में जारी है। वेनेजुएला में भारतीय सेना का राहत मिशन युद्धस्तर पर जारी, मलबे से 79 वर्षीय महिला को बचाया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अरब सागर में उतारना पड़ा अमेरिकी हेलीकॉप्टर, कराई गई इमरजेंसी लैंडिंग, एक क्रू मेंबर लापता",
-      "url": "https://hindi.news18.com/world/america-us-navy-helicopter-makes-emergency-water-landing-in-arabian-sea-one-airman-missing-10620587.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-02T01:53:16+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/helicopter-pic-2026-07-72185406c122e5567dfaa404a6d7624c-1200x800.jpg",
-      "summary": "अमेरिकी नौसेना का एक MH-60S सी हॉक हेलीकॉप्टर मंगलवार को अरब सागर में आपात स्थिति के कारण पानी US Military Helicopter Goes Down: अमेरिकी नौसेना का MH-60S सी हॉक हेलीकॉप्टर मंगलवार को अरब सागर में आपात स्थिति की वजह से पानी में उतारना पड़ गया. अमेरिकी नौसैनिक बलों की सेंट्रल कमांड (NAVCENT) ने बताया कि हेलीकॉप्टर USS जॉर्ज एच. डब्ल्यू.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अरब सागर में उतारना पड़ा अमेरिकी हेलीकॉप्टर, कराई गई इमरजेंसी लैंडिंग, एक क्रू मेंबर लापता",
-          "summary": "अमेरिकी नौसेना का एक MH-60S सी हॉक हेलीकॉप्टर मंगलवार को अरब सागर में आपात स्थिति के कारण पानी US Military Helicopter Goes Down: अमेरिकी नौसेना का MH-60S सी हॉक हेलीकॉप्टर मंगलवार को अरब सागर में आपात स्थिति की वजह से पानी में उतारना पड़ गया. अमेरिकी नौसैनिक बलों की सेंट्रल कमांड (NAVCENT) ने बताया कि हेलीकॉप्टर USS जॉर्ज एच. डब्ल्यू.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज पर पूर्ण नियंत्रण व जहाजों से शुल्क वसूली चाहता है ईरान, इसके लिए बल प्रयोग को भी तैयार",
-      "url": "https://www.amarujala.com/world/us-iran-doha-talks-strait-of-hormuz-ceasefire-gulf-shipping-global-energy-supply-qatar-negotiations-2026-07-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-02T01:49:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/amaraka-oura-iirana-shata-samajhata-ma-takanaka-paca_06ef95c0982390fa141f6c362c3642dc.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान होर्मुज जलडमरूमध्य पर पूर्ण नियंत्रण चाहता है. होर्मुज पर पूर्ण नियंत्रण व जहाजों से शुल्क वसूली चाहता है ईरान, इसके लिए बल प्रयोग को भी तैयार।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज पर पूर्ण नियंत्रण व जहाजों से शुल्क वसूली चाहता है ईरान, इसके लिए बल प्रयोग को भी तैयार",
-          "summary": "ईरान होर्मुज जलडमरूमध्य पर पूर्ण नियंत्रण चाहता है. होर्मुज पर पूर्ण नियंत्रण व जहाजों से शुल्क वसूली चाहता है ईरान, इसके लिए बल प्रयोग को भी तैयार।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कतर में ईरान-अमेरिका समझौते पर अहम वार्ता, 6 अरब डॉलर की फ्रीज़ संपत्ति और MoU उल्लंघन का मुद्दा",
-      "url": "https://www.patrika.com/world-news/us-iran-indirect-talks-doha-mou-implementation-frozen-assets-hotline-discussion-20713444",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-02T01:46:36+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-Iran-indirect-talks.webp",
-      "summary": "The United States and Iran held indirect talks in Doha, Qatar. US Iran indirect talks Doha: कतर की राजधानी दोहा में अमेरिका और ईरान के बीच हुई नवीनतम अप्रत्यक्ष वार्ता में दोनों देशों के बीच हुए एमओयू के क्रियान्वयन पर विस्तार से चर्चा हुई। बैठक में ईरान की करीब 3 अरब डॉलर की जमी हुई राशि जारी करने के प्रस्ताव और समझौते के उल्लंघन की निगरानी के लिए विशेष संचार चैनल (हॉटलाइन) स्थापित करने जैसे अहम मुद्दों पर बातचीत हुई।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कतर में ईरान-अमेरिका समझौते पर अहम वार्ता, 6 अरब डॉलर की फ्रीज़ संपत्ति और MoU उल्लंघन का मुद्दा",
-          "summary": "The United States and Iran held indirect talks in Doha, Qatar. US Iran indirect talks Doha: कतर की राजधानी दोहा में अमेरिका और ईरान के बीच हुई नवीनतम अप्रत्यक्ष वार्ता में दोनों देशों के बीच हुए एमओयू के क्रियान्वयन पर विस्तार से चर्चा हुई। बैठक में ईरान की करीब 3 अरब डॉलर की जमी हुई राशि जारी करने के प्रस्ताव और समझौते के उल्लंघन की निगरानी के लिए विशेष संचार चैनल (हॉटलाइन) स्थापित करने जैसे अहम मुद्दों पर बातचीत हुई।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
