@@ -1,20 +1,80 @@
 {
-  "generated_at": "2026-07-01T23:34:17.455955+00:00",
-  "article_count": 47,
-  "total_unique_count": 265,
+  "generated_at": "2026-07-02T00:56:11.448970+00:00",
+  "article_count": 50,
+  "total_unique_count": 269,
   "digest": {
-    "en": "Global / Multilateral leads the board this hour with She ditched a six-figure salary to save her dad’s business, and uncovered S$500,000 in bad debt. Americas carries the next thread. 22 fresh dispatches in this edition.",
+    "en": "Asia-Pacific leads the board this hour with Myanmar’s New Administration: Military Consolidation, Not Transition. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
     "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, कब आएगा पीएम-सीएम को पद से हटाने वाला बिल?: संसदीय समिति की मुहर जल्द संभव, जानें क्या है मामला मुख्य खबर है। साथ ही यूरोप और रूस से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
-      "title": "She ditched a six-figure salary to save her dad’s business, and uncovered S$500,000 in bad debt",
-      "url": "https://www.channelnewsasia.com/cna-insider/hup-cheong-roast-meat-save-family-business-bad-debt-6224441",
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Min Aung Hlaing transitioned from commander-in-chief to president in Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenia holds its first general election since 2021 on 7 Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Alan spoke with Samson Abebe Bezabeh, Assistant Professor of African Studies at This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea. Tiny Djibouti, and Its Prime Real Estate.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan began conveying proposals to end the war after the United States and Israel bombed Iran on Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task. A New Player in the Quest for a U. S.-Iran Breakthrough.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's next seven-year budget could reduce spending on conflict prevention and The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Taylor Swift and Travis Kelce will celebrate their wedding at Madison Square Garden, AP source says",
+      "url": "https://www.channelnewsasia.com/entertainment/taylor-swift-travis-kelce-wedding-madison-square-garden-6225871",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-07-01T22:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--cBmroe89--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/01/otrd_textless_iwantosavemyfamilybusiness_ep01.00_02_17_23.still002.jpg?itok=WlIabqHg",
-      "summary": "Joey Low left a six-figure salary to save her father's struggling roast meat business Faced with customers who owe money, shrinking sales and a looming lease deadline, Joey Low refuses to let her father’s roast meat business fold. On The Red Dot finds out what it takes to sustain a legacy under strain. She ditched a six-figure salary to save her dad’s business, and uncovered S$500,000 in bad debt.",
+      "published_at": "2026-07-01T23:58:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--uWXvq_Vv--/c_crop,h_562,w_1000,x_0,y_22/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Taylor_Swift_Travis_Kelce_33616.jpg?itok=RGobvFwC",
+      "summary": "Taylor Swift and Travis Kelce will celebrate their wedding at Madison Square Garden. An Associated Press source confirmed a rehearsal dinner is planned for Thursday, 2 July. The official spoke anonymously as they were not authorized to discuss the events publicly. The festivities will kick off with a smaller rehearsal dinner planned for Thursday (Jul 2) night, the official, who spoke to The Associated Press on the condition of anonymity because they were not authorised to publicly discuss the events, said.",
       "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
@@ -25,7 +85,7 @@
       "source": "The Guardian",
       "sources": [],
       "published_at": "2026-07-01T18:49:01+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/fd1a3c85656e180082b7c357f11c64cae1de7eef/96_0_2808_2247/master/2808.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abedc8dbe6aa5cdd829cb4c71a840692",
+      "image_url": "https://i.guim.co.uk/img/media/85484ccc58c774d6d09befde7b07375146c41a7e/0_0_4369_3497/master/4369.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee972a8313707ea949dd163f87d24fbf",
       "summary": "Four people died in Mexico City during World Cup celebrations. Three of the victims died from suffocationMore than a million people gathered in Mexico CityFour people died, three ⁠from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health secretariat ⁠said in the early ⁠hours ​of Wednesday. The deaths occurred near the Angel of Independence landmark, where thousands of fans had gathered to ⁠celebrate.",
       "region": "Americas",
       "language": "en",
@@ -248,30 +308,6 @@
       "translations": {}
     },
     {
-      "title": "Police units deployed across South Africa before anti-immigration marches",
-      "url": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-30T10:20:52+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/5c96330c47f8451be6aa744c3b33f6091f935bce/174_0_3576_2861/master/3576.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68d3508727eb7b399593a91fcff1d630",
-      "summary": "South African authorities deployed police units across towns and cities ahead of anti-immigration marches. Government fears repeat of anti-migrant violence in 2008 that led to looting and resulted in deaths of 62 peopleSouth African authorities have deployed police units to towns and cities around the country before planned demonstrations against undocumented foreign nationals. Security personnel were seen patrolling the central business district in Johannesburg, the economic capital, where many shopkee.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
-      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-06-26T12:03:25+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/9987cc89c3e8425b10872df6f3cdf9386839b139/765_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b659668cd5f4596280f81c8ed8b53ba0",
-      "summary": "Cape Verde's football team is making a strong showing at the World Cup Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape Verde. Now, to her great delight, the tiny African island nation is finally centre stage.“Seeing our country shown across the world at the World Cup makes me feel inc.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "कब आएगा पीएम-सीएम को पद से हटाने वाला बिल?: संसदीय समिति की मुहर जल्द संभव, जानें क्या है मामला",
       "url": "https://www.amarujala.com/india-news/parliamentary-committee-pm-cm-removal-bill-arrest-rule-report-monsoon-session-2026-07-02",
       "source": "Amar Ujala Breaking",
@@ -308,37 +344,199 @@
       }
     },
     {
-      "title": "मुंबई में 150 मिमी से अधिक हुई बारिश, IMD ने जारी किया अलर्ट",
-      "url": "https://www.amarujala.com/video/india-news/monsoon-weather-update-2026-mumbai-receives-over-150-mm-of-rainfall-imd-issues-alert-2026-07-02",
+      "title": "जापान की प्रधानमंत्री से मुलाकात करेंगे पीएम मोदी, क्रिप्टोकरेंसी को लेकर होगी आरबीआई की बैठक",
+      "url": "https://www.amarujala.com/india-news/02-july-2026-major-events-2026-07-01",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-01T23:30:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/monsoon-weather-update-2026_fbc76cfa0b1e57d30bfb5a9b1e5e5100.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई में 150 मिमी से अधिक बारिश दर्ज की गई। भारत मौसम विज्ञान विभाग ने शहर के लिए अलर्ट जारी किया। Monsoon Weather Update 2026: मुंबई में 150 मिमी से अधिक हुई बारिश, IMD ने जारी किया अलर्ट।",
+      "published_at": "2026-07-02T00:48:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/01/aaja-ka-khabra_3939c80181f3ffc93126f66d72360114.gif?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी आज जापान के प्रधानमंत्री से मुलाकात करेंगे। भारतीय रिजर्व बैंक क्रिप्टोकरेंसी नियमों पर एक बैठक करेगा। नमस्कार! आज है गुरुवार, 2 जुलाई। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं जापान की प्रधानमंत्री से मुलाकात करेंगे पीएम मोदी, क्रिप्टोकरेंसी को लेकर होगी आरबीआई की बैठक।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मुंबई में 150 मिमी से अधिक हुई बारिश, IMD ने जारी किया अलर्ट",
-          "summary": "मुंबई में 150 मिमी से अधिक बारिश दर्ज की गई। भारत मौसम विज्ञान विभाग ने शहर के लिए अलर्ट जारी किया। Monsoon Weather Update 2026: मुंबई में 150 मिमी से अधिक हुई बारिश, IMD ने जारी किया अलर्ट।",
+          "title": "जापान की प्रधानमंत्री से मुलाकात करेंगे पीएम मोदी, क्रिप्टोकरेंसी को लेकर होगी आरबीआई की बैठक",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी आज जापान के प्रधानमंत्री से मुलाकात करेंगे। भारतीय रिजर्व बैंक क्रिप्टोकरेंसी नियमों पर एक बैठक करेगा। नमस्कार! आज है गुरुवार, 2 जुलाई। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं जापान की प्रधानमंत्री से मुलाकात करेंगे पीएम मोदी, क्रिप्टोकरेंसी को लेकर होगी आरबीआई की बैठक।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "जिसमें 25 करोड़ डॉलर का निवेश करेगी माइक्रोन, अमेरिकी राष्ट्रपति ने जमकर की तारीफ",
+      "title": "पहाड़ों पर बारिश का रौद्र रूप, जम्मू-कश्मीर-हिमाचल में बादल फटे; उत्तराखंड में जनजीवन प्रभावित",
+      "url": "https://www.amarujala.com/india-news/rains-wreak-havoc-in-mountains-cloudbursts-in-jammu-kashmir-and-himachal-life-disrupted-in-uttarakhand-2026-07-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-02T00:41:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/rains-wreak-havoc-in-mountains-cloudbursts-in-jammu-kashmir-and-himachal-life-disrupted-in-uttarak_21b01d73726f1a442d22f556d42b85c4.jpeg?w=1200&dpr=1.0",
+      "summary": "जम्मू-कश्मीर और हिमाचल प्रदेश के पहाड़ी क्षेत्रों में बादल फटने से मूसलाधार बारिश हुई। पहाड़ों पर बारिश का रौद्र रूप, जम्मू-कश्मीर-हिमाचल में बादल फटे; उत्तराखंड में जनजीवन प्रभावित।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पहाड़ों पर बारिश का रौद्र रूप, जम्मू-कश्मीर-हिमाचल में बादल फटे; उत्तराखंड में जनजीवन प्रभावित",
+          "summary": "जम्मू-कश्मीर और हिमाचल प्रदेश के पहाड़ी क्षेत्रों में बादल फटने से मूसलाधार बारिश हुई। पहाड़ों पर बारिश का रौद्र रूप, जम्मू-कश्मीर-हिमाचल में बादल फटे; उत्तराखंड में जनजीवन प्रभावित।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कम बारिश की आशंका, 10 मंत्रालयों को साथ काम करने का निर्देश; PM मोदी बोले- आपातकालीन योजना रखें",
+      "url": "https://www.amarujala.com/india-news/india-weak-monsoon-pm-modi-review-rainfall-preparedness-rice-quality-pmgkay-pds-food-security-july-rain-alert-2026-07-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-02T00:39:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/24/narendra-modi_7f7dfc2b71f33fa8b4248601f15765dc.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने कम बारिश की आशंका के मद्देनजर तैयारियों की समीक्षा की। कम बारिश की आशंका, 10 मंत्रालयों को साथ काम करने का निर्देश; PM मोदी बोले- आपातकालीन योजना रखें।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कम बारिश की आशंका, 10 मंत्रालयों को साथ काम करने का निर्देश; PM मोदी बोले- आपातकालीन योजना रखें",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने कम बारिश की आशंका के मद्देनजर तैयारियों की समीक्षा की। कम बारिश की आशंका, 10 मंत्रालयों को साथ काम करने का निर्देश; PM मोदी बोले- आपातकालीन योजना रखें।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "Weather Forecast 02 July 2026: देखिए क्या है आपके यहां मौसम का हाल",
+      "url": "https://www.amarujala.com/video/india-news/weather-forecast-02-july-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-07-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-02T00:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/weather-forecast_d1157fe5d33ab6e92cf8ade7edb2decc.jpeg?w=1200&dpr=1.0",
+      "summary": "02 जुलाई 2026 के लिए मौसम का पूर्वानुमान जारी किया गया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Weather Forecast 02 July 2026: देखिए क्या है आपके यहां मौसम का हाल",
+          "summary": "02 जुलाई 2026 के लिए मौसम का पूर्वानुमान जारी किया गया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सिनेमाघरों में मनेगा त्योहार, 'टॉक्सिक' से लेकर 'किंग' तक हर महीने होगा मनोरंजन; आने वाली हैं ये",
+      "url": "https://www.amarujala.com/entertainment/alfa-toxic-ramayan-to-king-list-of-bollywood-upcoming-movies-of-2026-shahrukh-khan-alia-bhatt-ranbir-kapoor-2026-06-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-02T00:30:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/01/2026-ka-thasara-chhamaha-ma-ralja-haga-ya-bugdha-falma_5ddff9e78c43c5eaf5707806f3e5887a.jpeg?w=1200&dpr=1.0",
+      "summary": "2026 के उत्तरार्ध में कई बड़े बजट की फिल्में सिनेमाघरों में आने वाली हैं। 2026 में जुलाई से दिसंबर तक कई बड़े बजट की फिल्में आ रही हैं। आलिया भट्ट की 'अल्फा' से लेकर यश की 'टॉक्सिक' तक सिनेमाघरों में कई फिल्मों का जलवा दिखाई देगा। सिनेमाघरों में मनेगा त्योहार, 'टॉक्सिक' से लेकर 'किंग' तक हर महीने होगा मनोरंजन; आने वाली हैं ये।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सिनेमाघरों में मनेगा त्योहार, 'टॉक्सिक' से लेकर 'किंग' तक हर महीने होगा मनोरंजन; आने वाली हैं ये",
+          "summary": "2026 के उत्तरार्ध में कई बड़े बजट की फिल्में सिनेमाघरों में आने वाली हैं। 2026 में जुलाई से दिसंबर तक कई बड़े बजट की फिल्में आ रही हैं। आलिया भट्ट की 'अल्फा' से लेकर यश की 'टॉक्सिक' तक सिनेमाघरों में कई फिल्मों का जलवा दिखाई देगा। सिनेमाघरों में मनेगा त्योहार, 'टॉक्सिक' से लेकर 'किंग' तक हर महीने होगा मनोरंजन; आने वाली हैं ये।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारत के बगल में कांप उठी धरती, अफगानिस्तान में आया जोरदार भूकंप, जानिए कितनी तीव्रता?",
+      "url": "https://hindi.news18.com/world/rest-of-world-earthquake-today-news-5-5-magnitude-earthquake-strikes-jurm-in-afghanistan-10620519.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-02T00:27:18+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Afghanistan-Earthquake-Kashmir-Delhi-NCR-2026-06-f77757e0cbc0c4642319d8356dfcfe07-1200x800.jpg",
+      "summary": "अफगानिस्तान में गुरुवार तड़के 5.5 तीव्रता का भूकंप आया। USGS के मुताबिक, भूकंप का केंद्र उत्तर-पूर्वी बदख्शां प्रांत के जुर्म इलाके में 216.7 किलोमीटर की गहराई पर था. फिलहाल किसी बड़े जान-माल के नुकसान की सूचना नहीं है. हिंदू कुश क्षेत्र इंडियन और यूरेशियन टेक्टोनिक प्लेटों के टकराव के कारण दुनिया के सबसे सक्रिय भूकंपीय क्षेत्रों में शामिल है, जहां अक्सर।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के बगल में कांप उठी धरती, अफगानिस्तान में आया जोरदार भूकंप, जानिए कितनी तीव्रता?",
+          "summary": "अफगानिस्तान में गुरुवार तड़के 5.5 तीव्रता का भूकंप आया। USGS के मुताबिक, भूकंप का केंद्र उत्तर-पूर्वी बदख्शां प्रांत के जुर्म इलाके में 216.7 किलोमीटर की गहराई पर था. फिलहाल किसी बड़े जान-माल के नुकसान की सूचना नहीं है. हिंदू कुश क्षेत्र इंडियन और यूरेशियन टेक्टोनिक प्लेटों के टकराव के कारण दुनिया के सबसे सक्रिय भूकंपीय क्षेत्रों में शामिल है, जहां अक्सर।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "टूटे रिकॉर्ड, जून में उच्चतम स्तर पर पहुंचा महासागरों की सतह का तापमान, वैज्ञानिकों ने दी ये चेतावनी",
+      "url": "https://www.amarujala.com/india-news/global-ocean-temperature-record-june-2026-climate-change-el-nino-copernicus-sea-surface-temperature-2026-07-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-02T00:26:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/samathara-tafana_9dfee8ea41c975b9100eb22cbfb5656b.jpeg?w=1200&dpr=1.0",
+      "summary": "महासागरों की सतह का तापमान जून में रिकॉर्ड उच्चतम स्तर पर पहुँच गया। टूटे रिकॉर्ड, जून में उच्चतम स्तर पर पहुंचा महासागरों की सतह का तापमान, वैज्ञानिकों ने दी ये चेतावनी।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "टूटे रिकॉर्ड, जून में उच्चतम स्तर पर पहुंचा महासागरों की सतह का तापमान, वैज्ञानिकों ने दी ये चेतावनी",
+          "summary": "महासागरों की सतह का तापमान जून में रिकॉर्ड उच्चतम स्तर पर पहुँच गया। टूटे रिकॉर्ड, जून में उच्चतम स्तर पर पहुंचा महासागरों की सतह का तापमान, वैज्ञानिकों ने दी ये चेतावनी।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "कैसे जा सकते हैं अमरनाथ यात्रा पर, किन तैयारियों की जरूरत? यहां जानें मन में आ रहे हर सवाल का जवाब",
+      "url": "https://www.amarujala.com/india-news/how-to-go-on-the-amarnath-yatra-registration-routes-safety-tips-everything-you-need-to-know-2026-07-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-02T00:05:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/01/amaranatha-yatara-ka-bra-ma-sabkachha_b4ce2e6610b4edd5747dd9fd730c34df.jpeg?w=1200&dpr=1.0",
+      "summary": "अमरनाथ यात्रा के लिए श्रद्धालुओं को कई तैयारियों की आवश्यकता होती है। Explainer: कैसे जा सकते हैं अमरनाथ यात्रा पर, किन तैयारियों की जरूरत? यहां जानें मन में आ रहे हर सवाल का जवाब।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कैसे जा सकते हैं अमरनाथ यात्रा पर, किन तैयारियों की जरूरत? यहां जानें मन में आ रहे हर सवाल का जवाब",
+          "summary": "अमरनाथ यात्रा के लिए श्रद्धालुओं को कई तैयारियों की आवश्यकता होती है। Explainer: कैसे जा सकते हैं अमरनाथ यात्रा पर, किन तैयारियों की जरूरत? यहां जानें मन में आ रहे हर सवाल का जवाब।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या एआई पर होगा संयुक्त राष्ट्र का नियंत्रण, UN ने क्यों बनाया 'AI फॉर गुड' आयोग, कैसे करेगा काम?",
+      "url": "https://www.amarujala.com/world/artificial-intelligence-global-initiative-united-nations-un-ai-for-good-commission-global-south-us-china-tech-2026-07-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-02T00:04:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/artificial-intelligence-ai-for-global-good_9b316e456b9303275e70d3f925001fe6.jpeg?w=1200&dpr=1.0",
+      "summary": "thought The user wants a summary in Hindi based on the provided title and source. आर्टिफिशियल इंटेलिजेंस को अब एक ढांचे में लाने के लिए संयुक्त राष्ट्र (यूएन) की तरफ से पहल की गई है। इसके लिए एक आयोग के गठन की भी तैयारी है, जिसमें दुनियाभर के शीर्ष टेक-दिग्गज और नेतृत्वकर्ताओं को शामिल किए जाने की योजना है। क्या एआई पर होगा संयुक्त राष्ट्र का नियंत्रण, UN ने क्यों बनाया 'AI फॉर गुड' आयोग, कैसे करेगा काम?",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या एआई पर होगा संयुक्त राष्ट्र का नियंत्रण, UN ने क्यों बनाया 'AI फॉर गुड' आयोग, कैसे करेगा काम?",
+          "summary": "thought The user wants a summary in Hindi based on the provided title and source. आर्टिफिशियल इंटेलिजेंस को अब एक ढांचे में लाने के लिए संयुक्त राष्ट्र (यूएन) की तरफ से पहल की गई है। इसके लिए एक आयोग के गठन की भी तैयारी है, जिसमें दुनियाभर के शीर्ष टेक-दिग्गज और नेतृत्वकर्ताओं को शामिल किए जाने की योजना है। क्या एआई पर होगा संयुक्त राष्ट्र का नियंत्रण, UN ने क्यों बनाया 'AI फॉर गुड' आयोग, कैसे करेगा काम?",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "ईरान-US के बीच परमाणु मुद्दे पर मंथन कब?: जेडी वेंस बोले- दोहा में तेहरान के साथ सही दिशा में चल",
+      "url": "https://www.amarujala.com/world/jd-vance-says-technical-negotiations-with-iran-underway-in-doha-talks-are-going-well-2026-07-02",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-02T00:01:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/jada-vasa-amaraka-uparashhatarapata_0ee6fc0670669f7e705a04f5a72cb6c8.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी सीनेटर जेडी वेंस ने कहा कि ईरान के साथ तकनीकी वार्ता दोहा में चल रही है। ईरान-US के बीच परमाणु मुद्दे पर मंथन कब?: जेडी वेंस बोले- दोहा में तेहरान के साथ सही दिशा में चल।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान-US के बीच परमाणु मुद्दे पर मंथन कब?: जेडी वेंस बोले- दोहा में तेहरान के साथ सही दिशा में चल",
+          "summary": "अमेरिकी सीनेटर जेडी वेंस ने कहा कि ईरान के साथ तकनीकी वार्ता दोहा में चल रही है। ईरान-US के बीच परमाणु मुद्दे पर मंथन कब?: जेडी वेंस बोले- दोहा में तेहरान के साथ सही दिशा में चल।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जिसमें 25 करोड़ डॉलर का निवेश करेगी माइक्रोन, अमेरिकी राष्ट्रपति ने जमकर तारीफ की",
       "url": "https://www.amarujala.com/world/us-president-says-micron-announced-investment-of-usd-250-million-in-trump-accounts-2026-07-02",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-01T23:28:37+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/us-president-says-micron-announced-investment-of-usd-250-million-in-trump-accounts_3b0665d58d195468d4fd99ba1ae03b6e.jpeg?w=1200&dpr=1.0",
-      "summary": "माइक्रोन ने ट्रंप अकाउंट्स में 25 करोड़ डॉलर के निवेश की घोषणा की। जिसमें 25 करोड़ डॉलर का निवेश करेगी माइक्रोन, अमेरिकी राष्ट्रपति ने जमकर की तारीफ।",
+      "summary": "माइक्रोन ने ट्रंप अकाउंट्स में 25 करोड़ डॉलर के निवेश की घोषणा की। जिसमें 25 करोड़ डॉलर का निवेश करेगी माइक्रोन, अमेरिकी राष्ट्रपति ने जमकर की तारीफ। जिसमें 25 करोड़ डॉलर का निवेश करेगी माइक्रोन, अमेरिकी राष्ट्रपति ने जमकर तारीफ की।",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जिसमें 25 करोड़ डॉलर का निवेश करेगी माइक्रोन, अमेरिकी राष्ट्रपति ने जमकर की तारीफ",
-          "summary": "माइक्रोन ने ट्रंप अकाउंट्स में 25 करोड़ डॉलर के निवेश की घोषणा की। जिसमें 25 करोड़ डॉलर का निवेश करेगी माइक्रोन, अमेरिकी राष्ट्रपति ने जमकर की तारीफ।",
+          "title": "जिसमें 25 करोड़ डॉलर का निवेश करेगी माइक्रोन, अमेरिकी राष्ट्रपति ने जमकर तारीफ की",
+          "summary": "माइक्रोन ने ट्रंप अकाउंट्स में 25 करोड़ डॉलर के निवेश की घोषणा की। जिसमें 25 करोड़ डॉलर का निवेश करेगी माइक्रोन, अमेरिकी राष्ट्रपति ने जमकर की तारीफ। जिसमें 25 करोड़ डॉलर का निवेश करेगी माइक्रोन, अमेरिकी राष्ट्रपति ने जमकर तारीफ की।",
           "region": "अमेरिका"
         }
       }
@@ -346,7 +544,7 @@
     {
       "title": "अरब सागर में उतरा अमेरिकी हेलीकॉप्टर: घटना में एक क्रू सदस्य लापता, तलाश जारी; क्या है इमरजेंसी",
       "url": "https://www.amarujala.com/world/us-navy-search-for-missing-member-after-helicopter-s-emergency-water-landing-in-arabian-sea-2026-07-02",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-01T23:26:50+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/arab-sagara-ma-amaraka-halkapatara-ka-imarajasa-ldaga_f10ecd30f3a270ec091f276164b93e0a.jpeg?w=1200&dpr=1.0",
@@ -376,24 +574,6 @@
           "title": "ट्रंप बोले- जन्मसिद्ध नागरिकता पर सुप्रीम कोर्ट गलत था, लेकिन यह मामला सुलझ जाएगा",
           "summary": "डोनाल्ड ट्रंप ने कहा कि सुप्रीम कोर्ट जन्मसिद्ध नागरिकता पर गलत था। उन्होंने विश्वास व्यक्त किया कि यह मामला सुलझ जाएगा। ट्रंप बोले- जन्मसिद्ध नागरिकता पर सुप्रीम कोर्ट गलत था, लेकिन यह मामला सुलझ जाएगा।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "नीतीश को उप-प्रधानमंत्री बनाने की मांग तेज, RJD- JDU ने की मांग!",
-      "url": "https://www.amarujala.com/video/india-news/nitish-kumar-deputy-pm-row-demand-to-make-nitish-deputy-pm-intensifies-rjd-and-jdu-raise-the-call-2026-07-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-01T23:00:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/nitish-kumar-deputy-pm-row_3e311dc00907ad1594ce04d68c56263a.jpeg?w=1200&dpr=1.0",
-      "summary": "राष्ट्रीय जनता दल और जनता दल यूनाइटेड ने नीतीश कुमार को उप-प्रधानमंत्री बनाने की मांग की है। नीतीश को उप-प्रधानमंत्री बनाने की मांग तेज, RJD- JDU ने की मांग!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नीतीश को उप-प्रधानमंत्री बनाने की मांग तेज, RJD- JDU ने की मांग!",
-          "summary": "राष्ट्रीय जनता दल और जनता दल यूनाइटेड ने नीतीश कुमार को उप-प्रधानमंत्री बनाने की मांग की है। नीतीश को उप-प्रधानमंत्री बनाने की मांग तेज, RJD- JDU ने की मांग!",
-          "region": "दुनिया"
         }
       }
     },
@@ -470,42 +650,6 @@
       }
     },
     {
-      "title": "दो तिहाई बहुमत से तय होगा चंपत राय और अनिल मिश्रा का भविष्य, 6 जुलाई को ट्रस्ट की अहम बैठक",
-      "url": "https://www.amarujala.com/lucknow/the-future-of-champat-rai-and-anil-mishra-will-be-decided-by-a-two-thirds-majority-2026-07-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-01T22:13:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/30/rama-mathara-ma-caugdhhava-cara_9d7ce973dcfbf9ec829bc9f6462d0342.jpeg?w=1200&dpr=1.0",
-      "summary": "श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की एक महत्वपूर्ण बैठक 6 जुलाई को होगी। राम मंदिर में चढ़ावा चोरी का मामला सामने आने के बाद पहली बार 6 जुलाई श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की बैठक होगी। दो तिहाई बहुमत से तय होगा चंपत राय और अनिल मिश्रा का भविष्य, 6 जुलाई को ट्रस्ट की अहम बैठक।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दो तिहाई बहुमत से तय होगा चंपत राय और अनिल मिश्रा का भविष्य, 6 जुलाई को ट्रस्ट की अहम बैठक",
-          "summary": "श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की एक महत्वपूर्ण बैठक 6 जुलाई को होगी। राम मंदिर में चढ़ावा चोरी का मामला सामने आने के बाद पहली बार 6 जुलाई श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की बैठक होगी। दो तिहाई बहुमत से तय होगा चंपत राय और अनिल मिश्रा का भविष्य, 6 जुलाई को ट्रस्ट की अहम बैठक।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मुंबई पुलिस ने देहरादून में फर्जी कॉल सेंटर का किया भंडाफोड़, नौकरी के नाम ठगने वाले 11 गिरफ्तार",
-      "url": "https://www.amarujala.com/india-news/maharashtra-updates-mumbai-nagpur-pune-thane-education-politics-crime-and-other-hindi-news-2026-07-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-01T22:07:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई पुलिस ने देहरादून में एक फर्जी कॉल सेंटर का भंडाफोड़ किया। इस कार्रवाई में 11 लोगों को गिरफ्तार किया गया। मुंबई पुलिस ने देहरादून में फर्जी कॉल सेंटर का किया भंडाफोड़, नौकरी के नाम ठगने वाले 11 गिरफ्तार।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुंबई पुलिस ने देहरादून में फर्जी कॉल सेंटर का किया भंडाफोड़, नौकरी के नाम ठगने वाले 11 गिरफ्तार",
-          "summary": "मुंबई पुलिस ने देहरादून में एक फर्जी कॉल सेंटर का भंडाफोड़ किया। इस कार्रवाई में 11 लोगों को गिरफ्तार किया गया। मुंबई पुलिस ने देहरादून में फर्जी कॉल सेंटर का किया भंडाफोड़, नौकरी के नाम ठगने वाले 11 गिरफ्तार।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "पाकिस्तान की स्वात घाटी में नाव पलटने से एक ही परिवार के छह की मौत, तीन लापता; बचाव अभियान जारी",
       "url": "https://www.amarujala.com/world/pakistan-boat-accident-swat-valley-saifullah-lake-many-people-died-many-missing-tourists-rescue-operation-2026-07-02",
       "source": "Amar Ujala World",
@@ -538,24 +682,6 @@
           "title": "अपनों की घुसपैठ के लिए शुरू से ही बुना गया तानाबाना, आउटसोर्सिंग से लगी पूरी व्यवस्था में सेंध",
           "summary": "राममंदिर में चढ़ावे की धनराशि में कथित सेंध का रास्ता अचानक नहीं बना। राममंदिर में चढ़ावे में कथित सेंध का रास्ता अचानक नहीं बना, बल्कि धनराशि की गणना प्रक्रिया की व्यवस्था बनने के समय ही इसके लिए जमीन तैयार कर ली गई थी। अपनों की घुसपैठ के लिए शुरू से ही बुना गया तानाबाना, आउटसोर्सिंग से लगी पूरी व्यवस्था में सेंध।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारतीय पेशेवरों के लिए जर्मनी-इटली में बढ़े अवसर; अनुपम सिंह गहलोत बने अहमदाबाद के नए पुलिस कमिश्नर",
-      "url": "https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-07-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-01T22:04:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_bc25c16d5cf7783ca896c1749fa5ceab.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय पेशेवरों के लिए जर्मनी और इटली में अवसर बढ़े हैं। भारतीय पेशेवरों के लिए जर्मनी-इटली में बढ़े अवसर; अनुपम सिंह गहलोत बने अहमदाबाद के नए पुलिस कमिश्नर।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतीय पेशेवरों के लिए जर्मनी-इटली में बढ़े अवसर; अनुपम सिंह गहलोत बने अहमदाबाद के नए पुलिस कमिश्नर",
-          "summary": "भारतीय पेशेवरों के लिए जर्मनी और इटली में अवसर बढ़े हैं। भारतीय पेशेवरों के लिए जर्मनी-इटली में बढ़े अवसर; अनुपम सिंह गहलोत बने अहमदाबाद के नए पुलिस कमिश्नर।",
-          "region": "यूरोप और रूस"
         }
       }
     },
@@ -596,24 +722,6 @@
       }
     },
     {
-      "title": "विश्वकप के हीरो, आईपीएल में भी चला बल्ला: फिर अचानक क्या हो गया सैमसन को, दूसरे टी20 में वैभव को",
-      "url": "https://www.amarujala.com/cricket/cricket-news/ind-vs-eng-sanju-samson-poor-form-continues-vaibhav-sooryavanshi-will-get-chance-in-2nd-t20i-question-arises-2026-07-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-01T21:48:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/saja-samasana-vabhava-sarayavasha_01f43cd3d046399b03e132e3124c811b.jpeg?w=1200&dpr=1.0",
-      "summary": "टी20 विश्व कप में भारत के मैच विजेता रहे संजू सैमसन खराब फॉर्म से जूझ रहे हैं। टी20 विश्व कप में भारत के सबसे बड़े मैच विनर रहे संजू सैमसन खराब फॉर्म से जूझ रहे हैं। दूसरी ओर, वैभव सूर्यवंशी लगातार रन बनाकर टीम इंडिया के दरवाजे पर दस्तक दे रहे हैं। आइए विस्तार से चर्चा करते हैं विश्वकप के हीरो, आईपीएल में भी चला बल्ला: फिर अचानक क्या हो गया सैमसन को, दूसरे टी20 में वैभव को।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विश्वकप के हीरो, आईपीएल में भी चला बल्ला: फिर अचानक क्या हो गया सैमसन को, दूसरे टी20 में वैभव को",
-          "summary": "टी20 विश्व कप में भारत के मैच विजेता रहे संजू सैमसन खराब फॉर्म से जूझ रहे हैं। टी20 विश्व कप में भारत के सबसे बड़े मैच विनर रहे संजू सैमसन खराब फॉर्म से जूझ रहे हैं। दूसरी ओर, वैभव सूर्यवंशी लगातार रन बनाकर टीम इंडिया के दरवाजे पर दस्तक दे रहे हैं। आइए विस्तार से चर्चा करते हैं विश्वकप के हीरो, आईपीएल में भी चला बल्ला: फिर अचानक क्या हो गया सैमसन को, दूसरे टी20 में वैभव को।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "वेनेज़ुएला में आए डबल भूकंपों में अब तक 2,295 लोगों की मौत, करीब 50,000 अभी भी लापता",
       "url": "https://www.patrika.com/world-news/venezuela-double-earthquakes-death-toll-rises-to-2295-about-50000-people-still-missing-20713393",
       "source": "Patrika (World)",
@@ -632,24 +740,6 @@
       }
     },
     {
-      "title": "भारत को पाकिस्तान की धमकी पर ममता बनर्जी गुट का बड़ा बयान, कहा- 'जब भी हम दुश्मनी...'",
-      "url": "https://www.abplive.com/news/india/tmc-mp-reacts-to-pakistan-statement-as-india-pakistan-peace-appeal-gains-momentum-3153450",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-01T21:15:51+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/01/ec173aa2778d30f1fd4edb49a631c24b17828997459031431_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारत और पाकिस्तान के 117 प्रमुख व्यक्तियों ने एक संयुक्त पत्र भेजा है। भारत और पाकिस्तान के रिश्तों को फिर से पटरी पर लाने की कोशिश में दोनों देशों की करीब 100 से अधिक जानी-मानी हस्तियों ने प्रधानमंत्री नरेंद्र मोदी और पाकिस्तानी प्रधानमंत्री शहबाज़ शरीफ को एक साझा पत्र भेजा है. सेंटर फॉर पीस एंड प्रोग्रेस नामक संगठन की पहल पर लिखे गए इस पत्र में कुल 117 लोगों ने डिजिटल हस्ताक्षर किए हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत को पाकिस्तान की धमकी पर ममता बनर्जी गुट का बड़ा बयान, कहा- 'जब भी हम दुश्मनी...'",
-          "summary": "भारत और पाकिस्तान के 117 प्रमुख व्यक्तियों ने एक संयुक्त पत्र भेजा है। भारत और पाकिस्तान के रिश्तों को फिर से पटरी पर लाने की कोशिश में दोनों देशों की करीब 100 से अधिक जानी-मानी हस्तियों ने प्रधानमंत्री नरेंद्र मोदी और पाकिस्तानी प्रधानमंत्री शहबाज़ शरीफ को एक साझा पत्र भेजा है. सेंटर फॉर पीस एंड प्रोग्रेस नामक संगठन की पहल पर लिखे गए इस पत्र में कुल 117 लोगों ने डिजिटल हस्ताक्षर किए हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "क्या 250वें स्वतंत्रता दिवस के जश्न में पड़ेगा खलल? इन शहरों के लिए अलर्ट जारी",
       "url": "https://www.amarujala.com/world/us-heat-wave-new-york-boston-heat-dome-extreme-heat-independence-day-weather-alert-2026-07-02",
       "source": "Amar Ujala Breaking",
@@ -664,60 +754,6 @@
           "title": "क्या 250वें स्वतंत्रता दिवस के जश्न में पड़ेगा खलल? इन शहरों के लिए अलर्ट जारी",
           "summary": "अमेरिका में भीषण गर्मी की लहर चल रही है, जिससे न्यूयॉर्क और बोस्टन जैसे प्रमुख शहरों के लिए अलर्ट जारी किया गया है। इन शहरों के लिए अलर्ट जारी। क्या 250वें स्वतंत्रता दिवस के जश्न में पड़ेगा खलल?",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'दया याचिका से नहीं, जनदबाव से हुई थी सावरकर की रिहाई', राहुल मानहानि केस में कोर्ट में बोले सत्यकी",
-      "url": "https://www.amarujala.com/india-news/1923-cong-session-resolution-public-pressure-ensured-v-d-savarkar-s-release-not-mercy-pleas-grandnephew-2026-07-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-01T20:48:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/1923-cong-session-resolution-public-pressure-ensured-v-d-savarkars-release-not-mercy-pleas-grand_56b91cde6c16b1577b32009aa55da084.jpeg?w=1200&dpr=1.0",
-      "summary": "राहुल गांधी के मानहानि मामले में सत्यकी सावरकर ने अदालत में बयान दिया। 'दया याचिका से नहीं, जनदबाव से हुई थी सावरकर की रिहाई', राहुल मानहानि केस में कोर्ट में बोले सत्यकी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'दया याचिका से नहीं, जनदबाव से हुई थी सावरकर की रिहाई', राहुल मानहानि केस में कोर्ट में बोले सत्यकी",
-          "summary": "राहुल गांधी के मानहानि मामले में सत्यकी सावरकर ने अदालत में बयान दिया। 'दया याचिका से नहीं, जनदबाव से हुई थी सावरकर की रिहाई', राहुल मानहानि केस में कोर्ट में बोले सत्यकी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दिल्ली में EV पॉलिसी लागू होने के बाद पेट्रोल की गाड़ियां होंगी बंद?",
-      "url": "https://www.amarujala.com/video/india-news/delhi-ev-policy-2026-will-petrol-vehicles-be-phased-out-in-delhi-after-the-implementation-of-the-ev-policy-2026-07-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-01T20:41:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/delhi-ev-policy-2026_3a0a6d1ea2276b3ab937d037c2f6a75a.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली में ईवी नीति 2026 के लागू होने के बाद पेट्रोल वाहनों पर प्रतिबंध लगने की संभावना पर चर्चा हो रही है Delhi EV Policy 2026: दिल्ली में EV पॉलिसी लागू होने के बाद पेट्रोल की गाड़ियां होंगी बंद?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिल्ली में EV पॉलिसी लागू होने के बाद पेट्रोल की गाड़ियां होंगी बंद?",
-          "summary": "दिल्ली में ईवी नीति 2026 के लागू होने के बाद पेट्रोल वाहनों पर प्रतिबंध लगने की संभावना पर चर्चा हो रही है Delhi EV Policy 2026: दिल्ली में EV पॉलिसी लागू होने के बाद पेट्रोल की गाड़ियां होंगी बंद?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'विकसित भारत गारंटी' योजना का सीएम विजय ने किया विरोध, पीएम मोदी को लिखा पत्र; जानें क्या है वजह",
-      "url": "https://www.amarujala.com/india-news/tamil-nadu-chief-minister-joseph-vijay-opposes-the-viksit-bharat-guarantee-scheme-writes-to-pm-modi-2026-07-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-01T20:25:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/08/tamalnada-ka-makhayamatara-thalpata-vajaya_060de3cd8dea0eafd4aaf7b3475a24c9.jpeg?w=1200&dpr=1.0",
-      "summary": "तमिलनाडु के मुख्यमंत्री जोसेफ विजय ने 'विकसित भारत गारंटी' योजना का विरोध किया है। 'विकसित भारत गारंटी' योजना का सीएम विजय ने किया विरोध, पीएम मोदी को लिखा पत्र; जानें क्या है वजह।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'विकसित भारत गारंटी' योजना का सीएम विजय ने किया विरोध, पीएम मोदी को लिखा पत्र; जानें क्या है वजह",
-          "summary": "तमिलनाडु के मुख्यमंत्री जोसेफ विजय ने 'विकसित भारत गारंटी' योजना का विरोध किया है। 'विकसित भारत गारंटी' योजना का सीएम विजय ने किया विरोध, पीएम मोदी को लिखा पत्र; जानें क्या है वजह।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
