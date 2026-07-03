@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 03, 2026 20:20 IST
+**Updated:** July 03, 2026 20:23 IST
 
 ---
 
@@ -17,6 +17,12 @@ Min Aung Hlaing oversaw elections in Myanmar five years after a coup. Five years
 <!-- image: https://th-i.thgim.com/public/incoming/qbwsv9/article71178547.ece/alternates/LANDSCAPE_1200/PTI07_03_2026_000007A.jpg -->
 
 India and Japan expressed serious concern over the East and South China Seas. India and Japan also expressed "serious concern" at the situation in the East China Sea and South China Sea, and opposed unilateral actions that endanger freedom of navigation as well as attempts to change the status quo by force. India-Japan ties should not target third party: China.
+
+### [China’s EV fleet is world’s most underestimated AI asset](https://asiatimes.com/2026/07/chinas-ev-fleet-is-worlds-most-underestimated-ai-asset/)
+*Asia Times* - Jul 02, 13:59 IST (iso: 2026-07-02T08:29:23+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Chinese-EVs-BYD.jpg -->
+
+China's electric vehicle fleet is emerging as a significant, often overlooked, artificial History has a habit of concealing its most consequential turning points inside the mundane. The invention of the shipping container did not announce itself as a revolution in global trade. The rise of the mobile phone was initially dismissed as an expensive novelty for businessmen. Today, something similarly quiet and similarly transformative is unfolding across [] The post China’s EV fleet is wo.
 
 ---
 
@@ -133,16 +139,6 @@ Russian missile and drone attacks killed at least 17 people and injured over At 
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/07/China-Yuan.jpg -->
 
 German Chancellor Friedrich Merz suggested a Plaza Accord 2. TOKYO. Enter German Chancellor Friedrich Merz as the latest to suggest a Plaza Accord 2.0 is needed to knock China’s export competitiveness down to size. Merz argues the yuan is 30% undervalued, accuses Beijing of “flooding global markets” with artificially cheap goods and warns that its state-subsidized overcapacity is destabilizing an already fragile world economy.
-
----
-
-## Global / Multilateral
-
-### [El Niño forecast to intensify, increasing likelihood of extreme weather](https://news.un.org/feed/view/en/story/2026/07/1167870)
-*UN News* - Jul 03, 17:30 IST (iso: 2026-07-03T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/01-03-2024-mada-dd-18.jpg/image770x420cropped.jpg -->
-
-The UN World Meteorological Organization (WMO) stated Friday that strengthening El Niño conditions in More blistering heatwaves and other weather extremes are becoming increasingly likely across the world now and in coming months, linked to strengthening El Niño conditions in the tropical Pacific, the UN World Meteorological Organization (WMO) said on Friday. El Niño forecast to intensify, increasing likelihood of extreme weather.
 
 ---
 
