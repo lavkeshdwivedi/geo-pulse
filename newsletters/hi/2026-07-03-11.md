@@ -1,6 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 03, 2026 17:21 IST
+**अपडेट:** July 03, 2026 17:25 IST
 
 ---
 
@@ -74,8 +74,8 @@ Bangladesh is preparing to buy 50,000 metric tons of rice from Pakistan. बा�
 
 ## मध्य पूर्व और अफ्रीका
 
-### [नाइजीरिया में ISIS पर कार्रवाई के बाद अमेरिका का बड़ा फैसला, अधिकांश सैनिक को वापस बुलाया](https://www.patrika.com/world-news/us-nigeria-isis-operation-africom-troops-withdrawal-20718057)
-*Patrika (World)* - Jul 03, 15:56 IST (iso: 2026-07-03T10:26:55+00:00)
+### [नाइजीरिया से अमेरिका ने वापस बुलाई सेना, क्यों डोनाल्ड ट्रंप को लेना पड़ा ऐसा फैसला?](https://www.patrika.com/world-news/us-nigeria-isis-operation-africom-troops-withdrawal-20718057)
+*Patrika (World)* - Jul 03, 16:22 IST (iso: 2026-07-03T10:52:24+00:00)
 <!-- image: https://cms.patrika.com/wp-content/uploads/2026/03/US-army-82nd-Airborne-Division.webp -->
 
 अमेरिका ने नाइजीरिया से अपनी अधिकांश सेना वापस बुला ली है। US Nigeria ISIS Operation: नाइजीरिया में आतंकी संगठन आईएसआईएस के खिलाफ एक बड़े और सफल ऑपरेशन के बाद अमेरिका ने वहां तैनात अपनी ज्यादातर सेना को वापस बुला लिया है। अमेरिकी सेना की अफ्रीका कमांड (AFRICOM) के प्रमुख ने इसकी पुष्टि की है। कमांड ने बताया कि अब अमेरिकी सेना वहां जमीनी मोर्चे पर तैनात नहीं रहेगी।
