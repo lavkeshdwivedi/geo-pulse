@@ -1,6 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 05, 2026 03:52 IST
+**अपडेट:** July 05, 2026 03:57 IST
 
 ---
 
@@ -70,6 +70,18 @@
 
 मोरक्को ने फीफा विश्व कप में कनाडा को तीन-शून्य से हराया। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। मोरक्को की शानदार जीत, कनाडा को 3-0 से हराकर क्वार्टर फाइनल में बनाई जगह।
 
+### [उधर खत्म हुई जंग, इधर भारत-इजरायल की डील चालू, एक-दूसरे पर खूब पैसा लुटाएंगे दो दोस्त](https://hindi.news18.com/world/middle-east-india-israel-free-mega-investment-pact-officially-comes-into-effect-free-trade-agreement-next-10628890.html)
+*News18 Hindi (World)* - Jul 05, 03:53 IST (iso: 2026-07-04T22:23:35+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/India-Israel-Deal-2026-07-7bb5c2a67d6dcabf42e733e3e78147de-1200x800.jpg -->
+
+भारत और इजरायल के बीच एक ऐतिहासिक निवेश समझौता 4 जुलाई 2026 से पूरी तरह लागू हो गया भारत और इजरायल की के बीच हुआ ऐतिहासिक इन्वेस्टमेंट समझौता शनिवार, 4 जुलाई 2026 से पूरी तरह लागू हो गया है. इस महा-डील के एक्टिव होते ही दोनों देशों के बिजनेसमैन को बिना किसी डर के खुलकर पैसा लगाने का शानदार माहौल मिलेगा.
+
+### [बेंजामिन नेतन्याहू ने डोनाल्ड ट्रंप को लगाया फोन, अगले हफ्ते व्हाइट हाउस में हो सकती है मीटिंग](https://www.patrika.com/world-news/donald-trump-and-benjamin-netanyahu-talk-on-phone-could-hold-meeting-next-week-in-white-house-20721587)
+*Patrika (World)* - Jul 05, 03:37 IST (iso: 2026-07-04T22:07:49+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/trump-netanyahu-talk.webp -->
+
+thought The user wants a summary in Hindi, following the GeoPulse editorial style. अमेरिका (United States of America) के 250वें स्वतंत्रता दिवस के अवसर पर कई राष्ट्राध्यक्षों ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) को बधाई दी, जिनमें इज़रायल (Israel) के पीएम बेंजामिन नेतन्याहू (Benjamin Netanyahu) भी शामिल है। शुक्रवार को नेतन्याहू ने ट्रंप से फोन पर बात की, जिसके बारे में खुद अमेरिकी राष्ट्रपति ने शनिवार को एक इंटरव्यू के दौरान बताया।
+
 ### [खाड़ी से लेकर अमेरिका और यूरोप तक भारत बढ़ाएगा अपना दम, विदेश मंत्री एस. जयशंकर का 6 देशों का](https://hindi.news18.com/news/nation/west-asia-geopolitics-gulf-to-us-and-europe-india-boost-its-global-stature-s-jaishankar-tour-of-6-nation-10628944.html)
 *News18 Hindi (World)* - Jul 05, 03:36 IST (iso: 2026-07-04T22:06:49+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/S-Jaishankar-2026-07-a994d09a2dd619bf06e08cbfb73e4651-1200x800.jpg -->
@@ -81,12 +93,6 @@
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/05/donald-trump_fe288cc1cea180d7c27c8af66beb02b3.jpeg?w=1200&dpr=1.0 -->
 
 डोनाल्ड ट्रंप ने अमेरिकी स्वतंत्रता दिवस समारोह के दौरान कम्युनिस्ट ताकतों की आलोचना की। US Independence Day: ट्रंप ने की कम्युनिस्ट ताकतों की आलोचना, कहा- अमेरिकी दरियादिली जैसी मिसाल नहीं।
-
-### [कांगो में छात्रों को ले जा रही नाव नदी में डूबी, कम से कम 20 लोगों की मौत](https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-07-05)
-*Amar Ujala World* - Jul 05, 01:03 IST (iso: 2026-07-04T19:33:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
-
-कांगो में छात्रों को ले जा रही एक नाव नदी में डूब गई। कांगो में छात्रों को ले जा रही नाव नदी में डूबी, कम से कम 20 लोगों की मौत।
 
 ---
 
@@ -140,12 +146,6 @@
 
 नितिन नवीन दो दिवसीय दौरे पर लखनऊ पहुंचे. उन्होंने उत्तर प्रदेश में नेताओं के साथ एक संगठनात्मक बैठक की. UP Election 2027: दो दिवसीय यूपी दौरे पर लखनऊ पहुंचे नितिन नवीन नेताओं के साथ हुई संगठनात्मक बैठक!
 
-### ['भगवान राम के नाम को बदनाम किया', टीएमसी प्रमुख का भाजपा पर हमला; क्या आरोप लगाए?](https://www.amarujala.com/india-news/tmc-chief-mamata-banerjee-slams-bjp-ram-mandir-donation-issue-2026-07-05)
-*Amar Ujala Breaking* - Jul 05, 01:06 IST (iso: 2026-07-04T19:36:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/05/mamata-banerjee_8512e2410bd58998073feaf0b5a0f68e.jpeg?w=1200&dpr=1.0 -->
-
-टीएमसी प्रमुख ने भाजपा पर हमला करते हुए कहा कि उन्होंने भगवान राम के नाम को बदनाम किया है। राम मंदिर चढ़ावा मामला: 'भगवान राम के नाम को बदनाम किया', टीएमसी प्रमुख का भाजपा पर हमला; क्या आरोप लगाए?
-
 ---
 
 ## यूरोप और रूस
@@ -161,7 +161,7 @@
 ## अमेरिका
 
 ### ['नेतन्याहू जानते हैं, बॉस कौन है': ट्रंप बोले- इस्राइली प्रधानमंत्री ने किया व्हाइट हाउस में](https://www.amarujala.com/world/donald-trump-says-netanyahu-knows-who-the-boss-is-discuss-possible-white-house-visit-iran-talks-us-israel-2026-07-05)
-*Amar Ujala World* - Jul 05, 03:45 IST (iso: 2026-07-04T22:15:21+00:00)
+*Amar Ujala Breaking* - Jul 05, 03:45 IST (iso: 2026-07-04T22:15:21+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/05/trump-netanyahu_93c9a6c3bcc82fd2e9faec2a36cd0b2c.jpeg?w=1200&dpr=1.0 -->
 
 डोनाल्ड ट्रंप ने कहा कि बेंजामिन नेतन्याहू व्हाइट हाउस में मुलाकात का अनुरोध कर रहे हैं। 'नेतन्याहू जानते हैं, बॉस कौन है': ट्रंप बोले- इस्राइली प्रधानमंत्री ने किया व्हाइट हाउस में।
