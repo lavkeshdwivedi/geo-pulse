@@ -17,6 +17,7 @@ permissions:
   contents: write       # Needed to commit newsletter.md / site/ back to the repo
   pages: write          # Needed for GitHub Pages deployment
   id-token: write       # Needed for OIDC-based Pages deployment
+  issues: write         # Needed to file an issue when the run fails
 
 jobs:
   build-and-deploy:
@@ -26,6 +27,9 @@ jobs:
     concurrency:
       group: newsletter-deploy
       cancel-in-progress: false   # Don't cancel in-progress runs; queue instead
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
 
     steps:
       # ── 1. Checkout ──────────────────────────────────────────────────────
@@ -264,6 +268,23 @@ jobs:
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push' || steps.detect_updates.outputs.has_news == 'true'
         id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      # GitHub's Pages API occasionally rejects a deployment with a generic
+      # "Deployment failed, try again later" error even though the artifact
+      # is valid. A short wait + single retry clears this most of the time.
+      - name: Wait before retrying Pages deploy
+        if: |
+          (github.event_name == 'push' || steps.detect_updates.outputs.has_news == 'true') &&
+          steps.deployment.outcome == 'failure'
+        run: sleep 20
+
+      - name: Deploy to GitHub Pages (retry)
+        if: |
+          (github.event_name == 'push' || steps.detect_updates.outputs.has_news == 'true') &&
+          steps.deployment.outcome == 'failure'
+        id: deployment_retry
         uses: actions/deploy-pages@v4
 
       # ── 9. Send FCM push notification to mobile subscribers ──────────────
