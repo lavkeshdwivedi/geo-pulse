@@ -1,6 +1,104 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 04, 2026 14:28 IST
+**Updated:** July 04, 2026 15:17 IST
+
+---
+
+## Asia-Pacific
+
+### [Myanmar’s New Administration: Military Consolidation, Not Transition](https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition)
+*International Crisis Group* - Wednesday, June  (iso: Wednesday, June 3, 2026 - 00:00)
+<!-- image: https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Min Aung Hlaing transitioned from commander-in-chief to president in Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.
+
+### [China’s air-conditioned lesson for Europe’s killer heat wave](https://asiatimes.com/2026/07/chinas-air-conditioned-lesson-for-europes-killer-heat-wave/)
+*Asia Times* - Jul 04, 12:27 IST (iso: 2026-07-04T06:57:19+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Europe-Heat-Wave.jpg -->
+
+Europe increased its imports of Chinese air conditioners this summer. Europe’s scramble for Chinese air conditioners is not really a story about China, or even about trade. It is a story about what happens when climate change disruption arrives faster than housing policy, public infrastructure and industrial strategy can adapt. The numbers from this summer’s record heat are striking. China’s air-conditioner exports to the European [] The post China’s air-conditione.
+
+### [China’s truck drone launcher hides airpower in civilian traffic](https://asiatimes.com/2026/07/chinas-truck-drone-launcher-hides-airpower-in-civilian-traffic/)
+*Asia Times* - Jul 04, 10:49 IST (iso: 2026-07-04T05:19:53+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Truck-Launched-Drone-1.jpg -->
+
+China's Beijing Institute of Technology (BIT) revealed a mobile drone launcher. China’s mobile drone launcher is less a single weapon than a blueprint for dispersing airpower, exploiting civilian cover and exporting low-cost strike reach to states priced out of traditional military aviation. This month, the South China Morning Post (SCMP) reported that the Beijing Institute of Technology (BIT) released, then apparently deleted, social media footage showing [] The post China’.
+
+### [New term coined as Japan fiscal policy is probed](https://asiatimes.com/2026/07/honebuto-shock-new-term-coined-as-japan-fiscal-policy-is-probed/)
+*Asia Times* - Jul 04, 01:31 IST (iso: 2026-07-03T20:01:34+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/186b5bf7-966b-4645-bf81-5c1b10c5bd2b_2600x1734-copy-scaled-e1783109862752.jpg -->
+
+Japanese government long-term bonds reached 2. Japanese government long-term bonds briefly climbed to 2.81% on Thursday, July 3 – their highest level in thirty years – prompting one analyst to refer to it as the “honebuto shock,” a reaction to the prospect of larger deficits stemming from the Takaichi government’s pending Basic Policy on Economic and Fiscal Management and Reform (the honebuto) and the Bank of Japan’s sluggish [] The post ‘Hon.
+
+### [Tech bro Thiel says Pope, by criticizing AI, serves as CCP agent](https://asiatimes.com/2026/07/tech-bro-thiel-says-pope-by-criticizing-ai-serves-as-ccp-agent/)
+*Asia Times* - Jul 03, 20:54 IST (iso: 2026-07-03T15:24:09+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Peter_Thiel_51876933345.jpg -->
+
+Peter Thiel accused Pope Leo XIV of serving as a Chinese communist agent. Right-wing tech billionaire Peter Thiel is accusing Pope Leo XIV of doing the work of the Chinese Communist Party with his criticisms of artificial intelligence. According to a Thursday report from CNN, Thiel told the Aspen Ideas Festival in Colorado on Tuesday that the pope was inadvertently serving as a “Chinese communist agent” when he released a 42,000-word encyclical that called [] The post.
+
+---
+
+## Middle East & Africa
+
+### [Issues of War and Peace Gain Top Billing in Armenia’s Election](https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election)
+*International Crisis Group* - Tuesday, June 2, (iso: Tuesday, June 2, 2026 - 16:33)
+<!-- image: https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Armenians will vote in a general election on 7 June. Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.
+
+### [Tiny Djibouti, and Its Prime Real Estate](https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate)
+*International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 15:42)
+<!-- image: https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Alan spoke with Samson Abebe Bezabeh, Assistant Professor at the University of Hong This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea. Tiny Djibouti, and Its Prime Real Estate.
+
+### [A New Player in the Quest for a U.S.-Iran Breakthrough](https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough)
+*International Crisis Group* - Thursday, June 4 (iso: Thursday, June 4, 2026 - 10:18)
+<!-- image: https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+After the United States and Israel bombed Iran on 28 February, Pakistan began conveying proposals Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task. A New Player in the Quest for a U. S.-Iran Breakthrough.
+
+### [A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans](https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans)
+*International Crisis Group* - Friday, June 5,  (iso: Friday, June 5, 2026 - 10:38)
+<!-- image: https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+The European Union's next seven-year budget could risk funding for conflict prevention and aid The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.
+
+### [European Conservatives Bring Unity Message To US: Ukraine Matters. Iran Does, Too](https://www.rferl.org/a/europe-conservatives-ukraine-iran-trump-nato/33796570.html)
+*Radio Free Europe / Liberty* - Jul 04, 06:29 IST (iso: 2026-07-04T00:59:36+00:00)
+<!-- image: https://gdb.rferl.org/d6caff18-14e8-4f69-4007-08decacf94d0_cx0_cy11_cw0_w1200_h630.jpg -->
+
+Senior European conservative lawmakers visited Washington to meet with the Trump administration. As NATO leaders prepare to gather for next week's summit, a group of senior European conservative lawmakers visited Washington with a message they hope will resonate inside the Trump administration: Support for Ukraine and concern over Iran are not mutually exclusive. European Conservatives Bring Unity Message To US: Ukraine Matters.
+
+### [Israel plotted to kill Iran peace negotiators to derail talks](https://asiatimes.com/2026/07/nyt-israel-plotted-to-kill-iran-peace-negotiators-to-derail-talks/)
+*Asia Times* - Jul 03, 18:04 IST (iso: 2026-07-03T12:34:36+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/02dc-iran-israel-01-kmqw-superJumbo.jpg-copy.jpg -->
+
+Trump administration officials believed Israel intended to assassinate Iran's top negotiators. Trump administration officials reportedly believed that the Israeli government intended to assassinate Iran’s top negotiators. including the country’s foreign minister. during peace talks with the US in an effort to sabotage diplomatic progress. The New York Times reported Thursday that “American concerns about the targeting of two particular Iranian officials.
+
+### [Sudan’s people subject to ‘relentless’ drone strikes in El Obeid](https://news.un.org/feed/view/en/story/2026/07/1167871)
+*UN News* - Jul 03, 17:30 IST (iso: 2026-07-03T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image770x420cropped.jpg -->
+
+Volker Türk, the UN’s human rights chief, reported relentless drone attacks The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday. Sudan’s people subject to ‘relentless’ drone strikes in El Obeid.
+
+### [‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape](https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape)
+*The Guardian* - Jul 03, 16:38 IST (iso: 2026-07-03T11:08:44+00:00)
+<!-- image: https://i.guim.co.uk/img/media/9cf96b47229f6cf4e1689db3553f3d757d420253/106_0_5842_4672/master/5842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5369b245cc472984f9549a7399eaf30f -->
+
+Twin earthquakes struck Venezuela's northern coast last week. Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubbleWhen twin earthquakes tore through Venezuela’s northern coast last week, Israel Rivas was at home hundreds of miles away in the industrial city of San Félix. As the scale of the catastrophe became clear, the 24-year-old knew he had to react.
+
+### [As Iran Prepares Elaborate Funeral For Khamenei, Many Recall A Brutal Leader](https://www.rferl.org/a/as-iran-prepares-elaborate-funeral-for-khamenei-many-recall-a-brutal-leader/33795397.html)
+*Radio Free Europe / Liberty* - Jul 03, 15:21 IST (iso: 2026-07-03T09:51:36+00:00)
+<!-- image: https://gdb.rferl.org/a25d9502-029a-4141-b27f-c21c58f0177a_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Iran's government is preparing a multiday funeral for late Supreme Leader Ali Kham Iran's government is preparing a multiday funeral ceremony for late Supreme Leader Ali Khamenei, who died in US and Israeli strikes in February. But many Iranians are not mourning his loss, and are instead sharing complex reactions to the death of a man who led an oppressive theocratic regime.
+
+### [‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips](https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips)
+*The Guardian* - Jul 03, 05:30 IST (iso: 2026-07-03T00:00:13+00:00)
+<!-- image: https://i.guim.co.uk/img/media/d29634c780d5f82a8438482e7ab53b70831d9456/178_51_390_312/master/390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80f79a485fcfaab59bd098059830a638 -->
+
+Narendra Modi received the Guardian of the Blue Horizon award in Seychelles. The Indian prime minister accepted the "highest" honor from Seychelles president Patrick Herminie. Modi has a pattern of collecting awards during his overseas travels. Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister. Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Seychelles presi.
 
 ---
 
@@ -41,104 +139,6 @@ A Systema investigation found that banana shipments to St. Petersburg sometimes 
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Russia-Vladimir-Putin-Crimea.jpg -->
 
 Vladimir Putin confirmed on June 28 that Ukrainian drone attacks on Russia's energy Vladimir Putin has finally acknowledged that Ukraine’s relentless drone attacks on Russia’s energy infrastructure are having an effect. Speaking to the ruling United Russia party on June 28, the Russian president confirmed that his country is facing “a certain shortage” of fuel and that “strikes on our infrastructure sites are creating problems.” In fact, the [] The post Crimea in emergency as Uk.
-
-### [Russians Say Relatives Seized Off Streets In Latest Recruitment Push](https://www.rferl.org/a/stealing-our-husbands-russians-say-relatives-seized-off-streets-in-latest-recruitment-push-/33794872.html)
-*Radio Free Europe / Liberty* - Jul 02, 21:19 IST (iso: 2026-07-02T15:49:22+00:00)
-<!-- image: https://gdb.rferl.org/837fa13f-979a-49d3-3f89-08decacf94d0_w1200_h630.jpg -->
-
-Russian recruitment officers seized men off the streets in Penza, forcing them to sign military In a video captured in the Russian city of Penza, women sob as their loved ones are loaded into a van by recruitment officers, apparently after the men were forced into signing military contracts. Similar reports have emerged from several Russian regions in recent weeks.
-
-### [Rescuers Scramble To Find Survivors Of Deadly Russian Strike On Kyiv](https://www.rferl.org/a/deadly-overnight-russian-strike-hits-kyiv/33794697.html)
-*Radio Free Europe / Liberty* - Jul 02, 16:50 IST (iso: 2026-07-02T11:20:41+00:00)
-<!-- image: https://gdb.rferl.org/633ed97e-a716-486b-5cc0-08decd277110_w1200_h630.jpg -->
-
-Russian missile and drone attacks on Kyiv killed at least 17 people and injured over At least 17 people were killed and more than 80 injured, including children, in overnight Russian missile and drone attacks on Ukraine's capital, Kyiv, on July 2. Ukrainian President Volodymyr Zelenskyy had warned that Russia was preparing a massive strike. Rescuers Scramble To Find Survivors Of Deadly Russian Strike On Kyiv.
-
----
-
-## Asia-Pacific
-
-### [China’s air-conditioned lesson for Europe’s killer heat wave](https://asiatimes.com/2026/07/chinas-air-conditioned-lesson-for-europes-killer-heat-wave/)
-*Asia Times* - Jul 04, 12:27 IST (iso: 2026-07-04T06:57:19+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Europe-Heat-Wave.jpg -->
-
-Europe increased its imports of Chinese air conditioners this summer. Europe’s scramble for Chinese air conditioners is not really a story about China, or even about trade. It is a story about what happens when climate change disruption arrives faster than housing policy, public infrastructure and industrial strategy can adapt. The numbers from this summer’s record heat are striking. China’s air-conditioner exports to the European [] The post China’s air-conditione.
-
-### [China’s truck drone launcher hides airpower in civilian traffic](https://asiatimes.com/2026/07/chinas-truck-drone-launcher-hides-airpower-in-civilian-traffic/)
-*Asia Times* - Jul 04, 10:49 IST (iso: 2026-07-04T05:19:53+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Truck-Launched-Drone-1.jpg -->
-
-China's Beijing Institute of Technology (BIT) revealed a mobile drone launcher. China’s mobile drone launcher is less a single weapon than a blueprint for dispersing airpower, exploiting civilian cover and exporting low-cost strike reach to states priced out of traditional military aviation. This month, the South China Morning Post (SCMP) reported that the Beijing Institute of Technology (BIT) released, then apparently deleted, social media footage showing [] The post China’.
-
-### [New term coined as Japan fiscal policy is probed](https://asiatimes.com/2026/07/honebuto-shock-new-term-coined-as-japan-fiscal-policy-is-probed/)
-*Asia Times* - Jul 04, 01:31 IST (iso: 2026-07-03T20:01:34+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/186b5bf7-966b-4645-bf81-5c1b10c5bd2b_2600x1734-copy-scaled-e1783109862752.jpg -->
-
-Japanese government long-term bonds reached 2. Japanese government long-term bonds briefly climbed to 2.81% on Thursday, July 3 – their highest level in thirty years – prompting one analyst to refer to it as the “honebuto shock,” a reaction to the prospect of larger deficits stemming from the Takaichi government’s pending Basic Policy on Economic and Fiscal Management and Reform (the honebuto) and the Bank of Japan’s sluggish [] The post ‘Hon.
-
-### [Tech bro Thiel says Pope, by criticizing AI, serves as CCP agent](https://asiatimes.com/2026/07/tech-bro-thiel-says-pope-by-criticizing-ai-serves-as-ccp-agent/)
-*Asia Times* - Jul 03, 20:54 IST (iso: 2026-07-03T15:24:09+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Peter_Thiel_51876933345.jpg -->
-
-Peter Thiel accused Pope Leo XIV of serving as a Chinese communist agent. Right-wing tech billionaire Peter Thiel is accusing Pope Leo XIV of doing the work of the Chinese Communist Party with his criticisms of artificial intelligence. According to a Thursday report from CNN, Thiel told the Aspen Ideas Festival in Colorado on Tuesday that the pope was inadvertently serving as a “Chinese communist agent” when he released a 42,000-word encyclical that called [] The post.
-
----
-
-## Middle East & Africa
-
-### [In pictures | Iran pays last respects to slain leader Ali Khamenei](https://www.thehindu.com/photos/iran-ali-khamenei-funeral-ceremony-in-pictures-tehran/article71178880.ece)
-*The Hindu (International)* - Jul 04, 08:32 IST (iso: 2026-07-04T03:02:28+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/x1fakw/article71178849.ece/alternates/LANDSCAPE_1200/2026-07-03T105859Z_636255989_RC2A6MAAQMMR_RTRMADP_3_IRAN-CRISIS-KHAMENEI.JPG -->
-
-Officials and international dignitaries attended a six-day funeral ceremony in Tehran for slain Supreme Leader Ali Officials and international dignitaries paid their last respects as part of a marathon six-day funeral ceremony in Tehran to commemorate the slain Supreme Leader, who was killed on the first day of the U. S.-Israeli war on February 28. In pictures | Iran pays last respects to slain leader Ali Khamenei.
-
-### [European Conservatives Bring Unity Message To US: Ukraine Matters. Iran Does, Too](https://www.rferl.org/a/europe-conservatives-ukraine-iran-trump-nato/33796570.html)
-*Radio Free Europe / Liberty* - Jul 04, 06:29 IST (iso: 2026-07-04T00:59:36+00:00)
-<!-- image: https://gdb.rferl.org/d6caff18-14e8-4f69-4007-08decacf94d0_cx0_cy11_cw0_w1200_h630.jpg -->
-
-Senior European conservative lawmakers visited Washington to meet with the Trump administration. As NATO leaders prepare to gather for next week's summit, a group of senior European conservative lawmakers visited Washington with a message they hope will resonate inside the Trump administration: Support for Ukraine and concern over Iran are not mutually exclusive. European Conservatives Bring Unity Message To US: Ukraine Matters.
-
-### [Israel plotted to kill Iran peace negotiators to derail talks](https://asiatimes.com/2026/07/nyt-israel-plotted-to-kill-iran-peace-negotiators-to-derail-talks/)
-*Asia Times* - Jul 03, 18:04 IST (iso: 2026-07-03T12:34:36+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/02dc-iran-israel-01-kmqw-superJumbo.jpg-copy.jpg -->
-
-Trump administration officials believed Israel intended to assassinate Iran's top negotiators. Trump administration officials reportedly believed that the Israeli government intended to assassinate Iran’s top negotiators. including the country’s foreign minister. during peace talks with the US in an effort to sabotage diplomatic progress. The New York Times reported Thursday that “American concerns about the targeting of two particular Iranian officials.
-
-### [Sudan’s people subject to ‘relentless’ drone strikes in El Obeid](https://news.un.org/feed/view/en/story/2026/07/1167871)
-*UN News* - Jul 03, 17:30 IST (iso: 2026-07-03T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image770x420cropped.jpg -->
-
-Volker Türk, the UN’s human rights chief, reported relentless drone attacks The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday. Sudan’s people subject to ‘relentless’ drone strikes in El Obeid.
-
-### [‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape](https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape)
-*The Guardian* - Jul 03, 16:38 IST (iso: 2026-07-03T11:08:44+00:00)
-<!-- image: https://i.guim.co.uk/img/media/9cf96b47229f6cf4e1689db3553f3d757d420253/106_0_5842_4672/master/5842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5369b245cc472984f9549a7399eaf30f -->
-
-Twin earthquakes struck Venezuela's northern coast last week. Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubbleWhen twin earthquakes tore through Venezuela’s northern coast last week, Israel Rivas was at home hundreds of miles away in the industrial city of San Félix. As the scale of the catastrophe became clear, the 24-year-old knew he had to react.
-
-### [As Iran Prepares Elaborate Funeral For Khamenei, Many Recall A Brutal Leader](https://www.rferl.org/a/as-iran-prepares-elaborate-funeral-for-khamenei-many-recall-a-brutal-leader/33795397.html)
-*Radio Free Europe / Liberty* - Jul 03, 15:21 IST (iso: 2026-07-03T09:51:36+00:00)
-<!-- image: https://gdb.rferl.org/a25d9502-029a-4141-b27f-c21c58f0177a_cx0_cy10_cw0_w1200_h630.jpg -->
-
-Iran's government is preparing a multiday funeral for late Supreme Leader Ali Kham Iran's government is preparing a multiday funeral ceremony for late Supreme Leader Ali Khamenei, who died in US and Israeli strikes in February. But many Iranians are not mourning his loss, and are instead sharing complex reactions to the death of a man who led an oppressive theocratic regime.
-
-### [‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips](https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips)
-*The Guardian* - Jul 03, 05:30 IST (iso: 2026-07-03T00:00:13+00:00)
-<!-- image: https://i.guim.co.uk/img/media/d29634c780d5f82a8438482e7ab53b70831d9456/178_51_390_312/master/390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80f79a485fcfaab59bd098059830a638 -->
-
-Narendra Modi received the Guardian of the Blue Horizon award in Seychelles. The Indian prime minister accepted the "highest" honor from Seychelles president Patrick Herminie. Modi has a pattern of collecting awards during his overseas travels. Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister. Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Seychelles presi.
-
-### [Racism significantly impacts access to sport: Independent expert](https://news.un.org/feed/view/en/story/2026/07/1167863)
-*UN News* - Jul 02, 17:30 IST (iso: 2026-07-02T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/19-05-2025-UNICEF-DR-Congo-football.jpg/image770x420cropped.jpg -->
-
-A new UN report found racism significantly impacts access to sport. From high participation costs and restrictions on Palestinian athletes – to bans on Muslim women wearing hijabs – racism continues to shape who gets to participate in sport, a new UN report published on Thursday has found. Racism significantly impacts access to sport: Independent expert.
-
-### [Côte d’Ivoire floods kill 59 as west Africa endures torrential rains](https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains)
-*The Guardian* - Jul 02, 16:31 IST (iso: 2026-07-02T11:01:32+00:00)
-<!-- image: https://i.guim.co.uk/img/media/e288231c6e9783668605bf6b9ff408f8abb6fa95/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56211ca9a3af9e792ef7761a2ddcb380 -->
-
-Floods in Côte d’Ivoire have killed 59 people since May, the communication Côte d’Ivoire floods kill 59 as west Africa endures torrential rains.
 
 ---
 
