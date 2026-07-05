@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-05T22:24:21.742350+00:00",
+  "generated_at": "2026-07-05T23:26:42.221483+00:00",
   "article_count": 50,
-  "total_unique_count": 273,
+  "total_unique_count": 271,
   "digest": {
-    "en": "Somalia's government is struggling to contain Al-Shabaab militants. NATO's relations with Türkiye are under scrutiny as the alliance meets for a high-stakes summit. The US is pushing to end Russia's war in Ukraine, with President Trump set to meet Ukrainian President Zelenskyy.",
-    "hi": "विदेश मंत्री जयशंकर ने दोहा में कतर के प्रधानमंत्री से मुलाकात की। इस बैठक में अहम मुद्दों पर चर्चा हुई। कतर के साथ भारत ने नया रोडमैप बनाया है।\n\nपीओके में पाकिस्तानी सेना ने प्रदर्शनकारियों पर गोलियां बरसाईं। एक व्यक्ति की मौत हो गई। हजारों लोग सड़कों पर उतरे हैं।\n\nब्रिटेन-जापान-इटली ने 58 हजार करोड़ की डील की है। इससे अमेरिका-चीन को कड़ी टक्कर मिलेगी। तीनों देश आसमान पर राज करने की तैयारी कर रहे हैं।"
+    "en": "Somalia's war with Al-Shabaab dominates the board. NATO's involvement in Türkiye is a close second. Venezuela's earthquake response is also under scrutiny.",
+    "hi": "विदेश मंत्री जयशंकर का खाड़ी दौरा जारी है। दोहा में कतर के प्रधानमंत्री से मुलाकात के दौरान कई अहम मुद्दों पर चर्चा हुई। ऊर्जा से सुरक्षा तक पश्चिम एशिया में भारत की ताकत बढ़ रही है।"
   },
   "articles": [
     {
@@ -52,6 +52,18 @@
       "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "Crisis Group analysts are monitoring conflicts worldwide. They track under-reported trends and major developments, providing insights on their significance. Analysts offer recommendations on necessary actions in these hotspots. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "I was called ‘anorexic’ when I was skinny – but I'm still being body-shamed after putting on weight",
+      "url": "https://www.channelnewsasia.com/women/anorexic-fat-shamed-weight-gain-body-shaming-6200486",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-07-05T23:19:25+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--3v9TwoCW--/c_crop,h_576,w_1024,x_0,y_31/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/22/jillian-lim-weight-gain.jpg?itok=OWqqOX4Z",
+      "summary": "Jillian Lim was body-shamed as a skinny child and teenager. People assumed she was anorexic due to her weight. Now in her mid-30s, Lim has gained weight and faces criticism again. She has had to defend her body throughout her life. As a child, Jillian Lim was told to eat more. As a teenager, people assumed she was anorexic. Now that she has finally gained weight in her mid-30s, she has had to defend her body all over again.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -296,21 +308,9 @@
       "translations": {}
     },
     {
-      "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167871",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-03T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image770x420cropped.jpg",
-      "summary": "Volker Türk, the UN’s human rights chief, reported relentless drone attacks The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday. Sudan’s people subject to ‘relentless’ drone strikes in El Obeid.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "विदेश मंत्री जयशंकर का खाड़ी दौरा: दोहा में कतर के प्रधानमंत्री से की मुलाकात, किन अहम मुद्दों पर",
       "url": "https://www.amarujala.com/world/jaishankar-meets-qatari-prime-minister-in-doha-discusses-energy-and-security-cooperation-2026-07-06",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-06T07:16:58+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/06/vathasha-matara-jayashakara-na-katara-ka-parathhanamatara_d283dd9f58dcafe02647105401c4aa47.jpeg?w=1200&dpr=1.0",
@@ -364,7 +364,7 @@
     {
       "title": "नाटो शिखर सम्मेलन में जेलेंस्की और सीरिया के राष्ट्रपति से मिलेंगे ट्रंप, क्या होगा मुख्य एजेंडा?",
       "url": "https://www.amarujala.com/world/trump-to-meet-zelenskyy-and-syria-ahmed-al-shara-at-nato-summit-in-turkey-russia-ukraine-war-2026-07-06",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-05T20:03:35+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/17/donald-trump-us-us-iran-deal_d8ae78c032b905ae0ffb1c3cfe50eb98.jpeg?w=1200&dpr=1.0",
@@ -416,6 +416,24 @@
       }
     },
     {
+      "title": "पाक में अब एयरफोर्स कमांडर भी सेफ नहीं! थर्ड ग्रेड बदमाश ने लगाया ठिकाने, महिला को बचाते वक्त गई जान",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-air-force-officer-shot-dead-while-saving-woman-from-abduction-in-islamabad-suspect-remains-at-large-10630940.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-05T17:55:55+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-Air-Force-2026-07-62cf17a98e3e6014610f8eda42fff2b4-1200x800.jpg",
+      "summary": "पाकिस्तान के इस्लामाबाद में वायुसेना के ग्रुप कैप्टन आसिम तारिक की एक बदमाश ने गोली मारकर हत्या कर दी. Pakistan air force officer commander Murder: पाकिस्तान के इस्लामाबाद में महिला की अस्मत और जान बचाने के लिए वायुसेना के ग्रुप कैप्टन आसिम तारिक ने अपनी शहादत दे दी. नाइंथ एवेन्यू पर एक सिरफिरा शख्स महिला को जबरन बाइक पर बैठा रहा था.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाक में अब एयरफोर्स कमांडर भी सेफ नहीं! थर्ड ग्रेड बदमाश ने लगाया ठिकाने, महिला को बचाते वक्त गई जान",
+          "summary": "पाकिस्तान के इस्लामाबाद में वायुसेना के ग्रुप कैप्टन आसिम तारिक की एक बदमाश ने गोली मारकर हत्या कर दी. Pakistan air force officer commander Murder: पाकिस्तान के इस्लामाबाद में महिला की अस्मत और जान बचाने के लिए वायुसेना के ग्रुप कैप्टन आसिम तारिक ने अपनी शहादत दे दी. नाइंथ एवेन्यू पर एक सिरफिरा शख्स महिला को जबरन बाइक पर बैठा रहा था.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "हिंद-प्रशांत में भारत की नई चाल, PM मोदी की इंडोनेशिया यात्रा से बढ़ेगी चीन की टेंशन? ब्रह्मोस पर",
       "url": "https://hindi.news18.com/news/nation/indo-pacific-region-pm-modi-indonesia-visit-china-tension-world-eyes-on-brahmos-missile-10630829.html",
       "source": "News18 Hindi (World)",
@@ -447,24 +465,6 @@
         "hi": {
           "title": "चीन के पास रेयर अर्थ का खजाना, लेकिन उसकी चाबी किसी और देश के पास है; खुलासे ने उड़ा दी ड्रैगन की",
           "summary": "चीन के पास रेयर अर्थ का खजाना है लेकिन एडवांस्ड टेक्नोलॉजी के पेटेंट अमेरिका और जापान के पास हैं। रेयर अर्थ इंडस्ट्री में चीन का दबदबे है लेकिन उसकी बड़ी स्ट्रक्चरल कमजोरी सामने आई हैं. एडवांस्ड रेयर अर्थ फंक्शनल मटीरियल टेक्नोलॉजी के लिए कई अहम पेटेंट अमेरिका और जापान के पास हैं. साउथ चाइना मॉर्निंग पोस्ट में बताया है कि एक स्टडी में कहा गया है कि ग्लोबल रेयर अर्थ सप्लाई चेन में दबदबा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चीन से बचने के लिए सैनिक बने दलाई लामा, नेहरू ने लिया ऐतिहासिक फैसला और बदल गया तिब्बत का इतिहास",
-      "url": "https://hindi.news18.com/news/nation/dalai-lama-became-soldier-to-escape-china-nehru-historic-decision-and-tibet-history-change-10630776.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-05T16:13:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Dalai-Lama-2026-07-c6b07e2f431afe111820cc107021ee96-1200x800.jpg",
-      "summary": "दलाई लामा ने चीन से बचने के लिए सैनिक बनने का फैसला किया था और नेहरू ने ऐतिहासिक फैसला लिया। दुनिया के सबसे चर्चित आध्यात्मिक नेताओं में शामिल 14वें दलाई लामा तेनजिन ग्यात्सो का जीवन केवल धर्म, करुणा और शांति का संदेश नहीं, बल्कि चीन की सत्ता से टकराने, निर्वासन झेलने और अपनी पहचान बचाने के संघर्ष की भी कहानी है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन से बचने के लिए सैनिक बने दलाई लामा, नेहरू ने लिया ऐतिहासिक फैसला और बदल गया तिब्बत का इतिहास",
-          "summary": "दलाई लामा ने चीन से बचने के लिए सैनिक बनने का फैसला किया था और नेहरू ने ऐतिहासिक फैसला लिया। दुनिया के सबसे चर्चित आध्यात्मिक नेताओं में शामिल 14वें दलाई लामा तेनजिन ग्यात्सो का जीवन केवल धर्म, करुणा और शांति का संदेश नहीं, बल्कि चीन की सत्ता से टकराने, निर्वासन झेलने और अपनी पहचान बचाने के संघर्ष की भी कहानी है.",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -686,42 +686,6 @@
       }
     },
     {
-      "title": "अमेरिका के स्वतंत्रता दिवस पर न्यूयॉर्क में फायरिंग, 4 बच्चों समेत 8 लोग गोली लगने से घायल",
-      "url": "https://www.patrika.com/world-news/new-york-shooting-coney-island-us-independence-day-8-injured-children-20722660",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-05T10:25:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/USA-CRIME-CASE.webp",
-      "summary": "अमेरिका के स्वतंत्रता दिवस समारोह के दौरान न्यूयॉर्क के कोनी आइलैंड इलाके में गोलीबारी हुई, जिसमें चार बच्चों समेत कम से कम आठ लोग घायल हो गए. पुलिस ने घटनास्थल से एक हथियार बरामद किया लेकिन अभी तक किसी की गिरफ्तारी नहीं हुई है. New York Shooting: अमेरिका के स्वतंत्रता दिवस समारोह के दौरान न्यूयॉर्क के कोनी आइलैंड इलाके में देर रात गोलीबारी हो गई।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका के स्वतंत्रता दिवस पर न्यूयॉर्क में फायरिंग, 4 बच्चों समेत 8 लोग गोली लगने से घायल",
-          "summary": "अमेरिका के स्वतंत्रता दिवस समारोह के दौरान न्यूयॉर्क के कोनी आइलैंड इलाके में गोलीबारी हुई, जिसमें चार बच्चों समेत कम से कम आठ लोग घायल हो गए. पुलिस ने घटनास्थल से एक हथियार बरामद किया लेकिन अभी तक किसी की गिरफ्तारी नहीं हुई है. New York Shooting: अमेरिका के स्वतंत्रता दिवस समारोह के दौरान न्यूयॉर्क के कोनी आइलैंड इलाके में देर रात गोलीबारी हो गई।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "खामेनेई के अंतिम संस्कार में 3 बेटे शामिल हुए, मोजतबा नहीं दिखे, राह ताकते रहे लोग",
-      "url": "https://www.patrika.com/world-news/iran-former-supreme-leader-syed-ali-khamenei-funeral-three-sons-attended-son-current-supreme-leader-mojtaba-ali-khamenei-not-attended-20722614",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-05T10:06:07+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Iran-Former-Supreme-Leader-Seyyed-Ali-Khamenei-Funeral.webp",
-      "summary": "ईरान के पूर्व सुप्रीम लीडर सैयद अली खामेनेई के तीन बेटे उनके अंतिम संस्कार में शामिल हुए, लेकिन उनके बेटे मोजतबा खामेनेई इसमें शरीक नहीं हुए. लोग मोजतबा की राह ताकते रहे लेकिन वह कहीं भी नजर नहीं आए. Khamenei Funeral Mojtaba Not Seen: ईरान के पूर्व सुप्रीम लीडर सैयद अली खामेनेई के तीन बेटे अंतिम संस्कार में शामिल हुए, लेकिन उनके बेटे वर्तमान सुप्रीम लीडर मोजतबा अली खामेनेई इसमें शरीक नहीं हुए।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खामेनेई के अंतिम संस्कार में 3 बेटे शामिल हुए, मोजतबा नहीं दिखे, राह ताकते रहे लोग",
-          "summary": "ईरान के पूर्व सुप्रीम लीडर सैयद अली खामेनेई के तीन बेटे उनके अंतिम संस्कार में शामिल हुए, लेकिन उनके बेटे मोजतबा खामेनेई इसमें शरीक नहीं हुए. लोग मोजतबा की राह ताकते रहे लेकिन वह कहीं भी नजर नहीं आए. Khamenei Funeral Mojtaba Not Seen: ईरान के पूर्व सुप्रीम लीडर सैयद अली खामेनेई के तीन बेटे अंतिम संस्कार में शामिल हुए, लेकिन उनके बेटे वर्तमान सुप्रीम लीडर मोजतबा अली खामेनेई इसमें शरीक नहीं हुए।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "पाकिस्तान में फिर होगी ईरान और अमेरिका के बीच बातचीत, जानें किन मुद्दों पर बननी है सहमति",
       "url": "https://www.abplive.com/news/world/us-iran-peace-talks-likely-to-held-in-islamabad-pakistan-or-switzerland-3155253",
       "source": "ABP Live (World)",
@@ -754,6 +718,42 @@
           "title": "'होर्मुज परमाणु हथियार से कम नहीं', पुतिन के करीबी दिमित्री मेदवेदेव ने स्ट्रेट को बताया ईरान की",
           "summary": "दिमित्री मेदवेदेव ने कहा होर्मुज स्ट्रेट ईरान के लिए परमाणु हथियार से कम नहीं है। रूस के सुरक्षा परिषद के उपाध्यक्ष दिमित्री मेदवेदेव ने ईरान की सबसे बड़ी रणनीतिक ताकत को लेकर बड़ा बयान दिया है. उन्होंने कहा कि होर्मुज स्ट्रेट ईरान के लिए किसी परमाणु हथियार से कम नहीं है. उनके मुताबिक, हालिया संघर्ष के दौरान ईरान ने इस अहम समुद्री रास्ते पर नियंत्रण दिखाकर पूरी दुनिया को अपनी ताकत का एहसास करा दिया.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘ट्रंप अभी जिंदा क्यों है?’,खामेनेई के जनाजे में खुलेआम किया गया अमेरिकी राष्ट्रपति को मारने का",
+      "url": "https://www.patrika.com/world-news/iran-ayatollah-ali-khamenei-funeral-open-calls-killing-donald-trump-20722402",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-05T08:14:42+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Khamenei-Funeral-Prayer-1.webp",
+      "summary": "ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामनेई के अंतिम संस्कार में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को मारने का आह्वान किया गया. Khamenei Funeral Open Calls for Killing Donald Trump: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामनेई के विशाल अंतिम संस्कार समारोह के दौरान अमेरिका और इजराइल के खिलाफ नारे लगाए गए। मीडिया रिपोर्टस के अनुसार गुस्साए अपार जनसमूह के सामने माइक से अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को मारने का खुलेआम आह्वान किया गया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘ट्रंप अभी जिंदा क्यों है?’,खामेनेई के जनाजे में खुलेआम किया गया अमेरिकी राष्ट्रपति को मारने का",
+          "summary": "ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामनेई के अंतिम संस्कार में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को मारने का आह्वान किया गया. Khamenei Funeral Open Calls for Killing Donald Trump: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामनेई के विशाल अंतिम संस्कार समारोह के दौरान अमेरिका और इजराइल के खिलाफ नारे लगाए गए। मीडिया रिपोर्टस के अनुसार गुस्साए अपार जनसमूह के सामने माइक से अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को मारने का खुलेआम आह्वान किया गया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान में शहबाज सरकार की बढ़ी टेंशन, विदेश मंत्री इशाक डार के इस्तीफे की मांग, गैंगरेप में",
+      "url": "https://www.abplive.com/news/world/pakistan-ishaq-dar-relatives-abduction-foreign-women-in-lahore-faisal-vawda-demand-resign-3155208",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-05T08:02:13+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/9e94c8c7706b6fb79935588bf0983ba817832368739131200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान में विदेश मंत्री इशाक डार के इस्तीफे की मांग हो रही है क्योंकि उनके रिश्तेदार पर विदेशी महिलाओं के साथ गैंगरेप का आरोप है. पाकिस्तान में विदेशी महिलाओं के किडनैप और गैंगरेप का मामला डिप्टी पीएम और विदेश मंत्री इशाक डार के गले की फांस बनता जा रहा है. डार के करीबी रिश्तेदार द्वारा नीदरलैंड और वेनेजुएला की महिला से दरिंदगी को लेकर सीनेटर फैसल वावडा ने उनके इस्तीफे की मांग की है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान में शहबाज सरकार की बढ़ी टेंशन, विदेश मंत्री इशाक डार के इस्तीफे की मांग, गैंगरेप में",
+          "summary": "पाकिस्तान में विदेश मंत्री इशाक डार के इस्तीफे की मांग हो रही है क्योंकि उनके रिश्तेदार पर विदेशी महिलाओं के साथ गैंगरेप का आरोप है. पाकिस्तान में विदेशी महिलाओं के किडनैप और गैंगरेप का मामला डिप्टी पीएम और विदेश मंत्री इशाक डार के गले की फांस बनता जा रहा है. डार के करीबी रिश्तेदार द्वारा नीदरलैंड और वेनेजुएला की महिला से दरिंदगी को लेकर सीनेटर फैसल वावडा ने उनके इस्तीफे की मांग की है.",
+          "region": "यूरोप और रूस"
         }
       }
     }
