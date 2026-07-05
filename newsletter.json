@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-05T14:40:47.691013+00:00",
+  "generated_at": "2026-07-05T15:30:34.784630+00:00",
   "article_count": 50,
-  "total_unique_count": 275,
+  "total_unique_count": 276,
   "digest": {
-    "en": "Asia-Pacific leads the board this hour with Myanmar’s New Administration: Military Consolidation, Not Transition. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, भयंकर अंधेरा और दबाव... पाताल लोक की गहराई में छिपे थे एलियन जैसे 31 जीव, सामने आया समुद्र का सबसे मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Myanmar's military consolidation dominates headlines. Armenia's election and Djibouti's strategic position also command attention. The EU's budget for global turmoil adds another layer.",
+    "hi": "पश्चिम एशिया में भारत की बढ़ी ताकत ऊर्जा से सुरक्षा तक फैली है। पाकिस्तान में परिवहन घोटाला और पीओके के लोगों की भारत की मांग के बीच क्षेत्रीय अस्थिरता बनी हुई है। जापान चीन की दबाव नीति का मुकाबला करने के लिए अमेरिका और यूरोप के साथ मिलकर काम कर रहा है।"
   },
   "articles": [
     {
@@ -63,6 +63,18 @@
       "published_at": "Friday, June 5, 2026 - 10:38",
       "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "The European Union’s next seven-year budget could risk funding for conflict The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ahead Of High-Stakes NATO Summit, Ex-US Envoy To OSCE James Gilmore Says Alliance Is Renewing Itself",
+      "url": "https://www.rferl.org/a/33797187.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-05T15:19:04+00:00",
+      "image_url": "https://gdb.rferl.org/e2541294-07e7-4acb-bc21-8c95f3c2da28_w1200_h630.jpg",
+      "summary": "NATO leaders prepare for a July 7-8 summit in Ankara. WASHINGTON – As NATO leaders prepare for a pivotal July 7-8 summit in Ankara amid Russia's war against Ukraine and renewed tensions in the Middle East, former US Ambassador to the Organization for Security and Cooperation in Europe (OSCE) James Gilmore says the alliance is undergoing a difficult but ultimately strengthening transformation rather than entering a period of decline.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -296,16 +308,40 @@
       "translations": {}
     },
     {
-      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
-      "source": "The Guardian",
+      "title": "ऊर्जा से सुरक्षा तक... पश्चिम एशिया में भारत की बढ़ी ताकत, जयशंकर ने कतर के साथ बनाया नया रोडमैप",
+      "url": "https://hindi.news18.com/world/middle-east-west-asia-tension-s-jaishankar-meet-al-thani-india-major-diplomatic-move-strengthening-ties-with-qatar-10630716.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-03T11:08:44+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/9cf96b47229f6cf4e1689db3553f3d757d420253/106_0_5842_4672/master/5842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5369b245cc472984f9549a7399eaf30f",
-      "summary": "Twin earthquakes hit Venezuela's northern coast last week. Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubble, reports Tom Phillips in Caraballeda. Photography and video by Manu QuinteroWhen twin earthquakes tore through Venezuela’s northern coast last week, Israel Rivas was at home hundreds of miles away in the industrial city of San Félix.",
+      "published_at": "2026-07-05T15:26:21+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/S-Jaishankar-2026-07-c42cd03f2ca2a5eaf861a8ef47e4732b-1200x800.jpg",
+      "summary": "एस जयशंकर ने कतर के पीएम शेख मोहम्मद बिन अब्दुलरहमान अल थानी से मुलाकात की। एस जयशंकर की कतर के पीएम और विदेश मंत्री शेख मोहम्मद बिन अब्दुलरहमान अल थानी से हुई मुलाकात ने भारत-कतर संबंधों को नई दिशा देने का संकेत दिया. दोनों नेताओं ने ऊर्जा, व्यापार, निवेश, सुरक्षा, कनेक्टिविटी और रणनीतिक सहयोग जैसे महत्वपूर्ण मुद्दों पर व्यापक चर्चा की.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ऊर्जा से सुरक्षा तक... पश्चिम एशिया में भारत की बढ़ी ताकत, जयशंकर ने कतर के साथ बनाया नया रोडमैप",
+          "summary": "एस जयशंकर ने कतर के पीएम शेख मोहम्मद बिन अब्दुलरहमान अल थानी से मुलाकात की। एस जयशंकर की कतर के पीएम और विदेश मंत्री शेख मोहम्मद बिन अब्दुलरहमान अल थानी से हुई मुलाकात ने भारत-कतर संबंधों को नई दिशा देने का संकेत दिया. दोनों नेताओं ने ऊर्जा, व्यापार, निवेश, सुरक्षा, कनेक्टिविटी और रणनीतिक सहयोग जैसे महत्वपूर्ण मुद्दों पर व्यापक चर्चा की.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'खोल दो LOC', POK वाले बोले- हमें भारत की जरूरत, पाकिस्तान ने एक प्रदर्शनकारी को उतारा मौत के घाट",
+      "url": "https://hindi.news18.com/world/pakistan-open-loc-jaac-membar-in-pok-people-said-we-need-india-10630680.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-05T14:56:26+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/JAAC-Protest-2026-07-b1e32a72a592324082eab0a451fa55db-1200x800.jpg",
+      "summary": "पाकिस्तान ने पाकिस्तान अधिकृत कश्मीर में एक प्रदर्शनकारी को मार डाला है। जेएएसी कमेटी के सदस्य सरदार अमन ने भारत और जम्मू-कश्मीर के लोगों से मदद की गुहार लगाई है. पाकिस्तान सरकार प्रदर्शनकारियों के खिलाफ सख्त कदम उठाया है. रैलियों और विरोध प्रदर्शनों को रोकने के लिए वहां के कई जिलों में इंटरनेट और बातचीत के तमाम साधन पूरी तरह से बंद कर दिए गए हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'खोल दो LOC', POK वाले बोले- हमें भारत की जरूरत, पाकिस्तान ने एक प्रदर्शनकारी को उतारा मौत के घाट",
+          "summary": "पाकिस्तान ने पाकिस्तान अधिकृत कश्मीर में एक प्रदर्शनकारी को मार डाला है। जेएएसी कमेटी के सदस्य सरदार अमन ने भारत और जम्मू-कश्मीर के लोगों से मदद की गुहार लगाई है. पाकिस्तान सरकार प्रदर्शनकारियों के खिलाफ सख्त कदम उठाया है. रैलियों और विरोध प्रदर्शनों को रोकने के लिए वहां के कई जिलों में इंटरनेट और बातचीत के तमाम साधन पूरी तरह से बंद कर दिए गए हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "भयंकर अंधेरा और दबाव... पाताल लोक की गहराई में छिपे थे एलियन जैसे 31 जीव, सामने आया समुद्र का सबसे",
@@ -326,6 +362,24 @@
       }
     },
     {
+      "title": "चीन की दबाव नीति से परेशान हुआ जापान, अब अमेरिका-यूरोप के साथ मिलकर जवाब देने की तैयारी",
+      "url": "https://www.patrika.com/world-news/japan-must-act-with-its-allies-against-china-pressure-campaign-20723207",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-05T14:17:41+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/01/Xi-Jinping.webp",
+      "summary": "चीन की कम्युनिस्ट पार्टी जापान पर लगातार दबाव बना रही है। जासूसी, समुद्री घुसपैठ और आर्थिक तंगी के जरिए चीन टोक्यो को कमजोर करने की कोशिश कर रहा है। जापान अब अमेरिका और यूरोप के साथ मिलकर इस दबाव का जवाब देने की तैयारी कर रहा है। यह कदम चीन की बढ़ती क्षेत्रीय महत्वाकांक्षाओं के प्रति जापान की चिंता को दर्शाता है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन की दबाव नीति से परेशान हुआ जापान, अब अमेरिका-यूरोप के साथ मिलकर जवाब देने की तैयारी",
+          "summary": "चीन की कम्युनिस्ट पार्टी जापान पर लगातार दबाव बना रही है। जासूसी, समुद्री घुसपैठ और आर्थिक तंगी के जरिए चीन टोक्यो को कमजोर करने की कोशिश कर रहा है। जापान अब अमेरिका और यूरोप के साथ मिलकर इस दबाव का जवाब देने की तैयारी कर रहा है। यह कदम चीन की बढ़ती क्षेत्रीय महत्वाकांक्षाओं के प्रति जापान की चिंता को दर्शाता है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "दिल्ली की कनिका की अबू धाबी में चमकी किस्मत, 4 साल तक खरीदे लॉटरी के टिकट, अब जीते ₹65 करोड़",
       "url": "https://hindi.news18.com/world/middle-east-kanika-arora-from-delhi-wins-65-crore-rupees-in-abu-dhabi-lottery-sjn-10630554.html",
       "source": "News18 Hindi (World)",
@@ -340,6 +394,24 @@
           "title": "दिल्ली की कनिका की अबू धाबी में चमकी किस्मत, 4 साल तक खरीदे लॉटरी के टिकट, अब जीते ₹65 करोड़",
           "summary": "नई दिल्ली की 43 वर्षीय गृहणी कनिका अरोड़ा ने अबू धाबी की बिग टिकट लॉटरी में 2 भारत के एक परिवार के लिए आखिरकार वो जादुई पल आ ही गया, जिसका वे पिछले चार सालों से बेसब्री से इंतजार कर रहे थे. 3 जुलाई को अबू धाबी की मशहूर बिग टिकट नई दिल्ली की रहने वाली 43 वर्षीय गृहणी कनिका अरोड़ा ने पूरे 2.5 करोड़ दिरहम जीते हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान में 8.5 अरब के परिवहन घोटाले का खुलासा,आला अफसर को जेल भेजा",
+      "url": "https://www.patrika.com/world-news/pkr-transit-scam-transport-scam-exposed-pakistan-senior-official-zameer-abbasi-jail-20723174",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-05T14:10:01+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Pakistan-Transit-Scam-1.webp",
+      "summary": "पाकिस्तान में कराची मोबिलिटी प्रोजेक्ट की बस रैपिड ट्रांजिट येलो लाइन से जुड़े 8.5 अरब पाकिस्तानी क्रोनर के भ्रष्टाचार का खुलासा हुआ है। इस मामले में मुख्य आरोपी आला अधिकारी जमीर अब्बासी को गिरफ्तार कर लिया गया है। यह मामला सरकारी स्तर पर व्याप्त भ्रष्टाचार को दर्शाता है। PKR Transit Scam Transport Scam Exposed: पाकिस्तान के सरकारी स्तर पर व्याप्त भ्रष्टाचार और 8.5 अरब के परिवहन घोटाले का पर्दाफाश हुआ है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान में 8.5 अरब के परिवहन घोटाले का खुलासा,आला अफसर को जेल भेजा",
+          "summary": "पाकिस्तान में कराची मोबिलिटी प्रोजेक्ट की बस रैपिड ट्रांजिट येलो लाइन से जुड़े 8.5 अरब पाकिस्तानी क्रोनर के भ्रष्टाचार का खुलासा हुआ है। इस मामले में मुख्य आरोपी आला अधिकारी जमीर अब्बासी को गिरफ्तार कर लिया गया है। यह मामला सरकारी स्तर पर व्याप्त भ्रष्टाचार को दर्शाता है। PKR Transit Scam Transport Scam Exposed: पाकिस्तान के सरकारी स्तर पर व्याप्त भ्रष्टाचार और 8.5 अरब के परिवहन घोटाले का पर्दाफाश हुआ है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -506,6 +578,24 @@
       }
     },
     {
+      "title": "'12 सालों में पेपर लीक की 90वीं घटना', कांग्रेस ने BJP को घेरा, दिल्ली में 'छात्रों की गूंज'",
+      "url": "https://www.abplive.com/news/india/congress-leader-rahul-gandhi-will-lead-chhatron-ki-goonj-programme-in-delhi-on-9-august-against-paper-leak-ann-3155318",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-05T11:32:38+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/69bc48411a2403e138fa6e002954b0cb17832493671871126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "कांग्रेस ने NEET समेत प्रतियोगी परीक्षाओं में पेपर लीक के मुद्दे पर केंद्र सरकार के खिलाफ देशव्यापी अभियान शुरू किया है. 25 जून से 9 अगस्त तक चलने वाले इस अभियान के तहत 9 अगस्त को दिल्ली में 'छात्रों की गूंज' कार्यक्रम आयोजित किया जाएगा. इस कार्यक्रम में लोकसभा में विपक्ष के नेता राहुल गांधी मौजूद रहेंगे. कांग्रेस का आरोप है कि पिछले 12 सालों में पेपर लीक की यह 90वीं घटना है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'12 सालों में पेपर लीक की 90वीं घटना', कांग्रेस ने BJP को घेरा, दिल्ली में 'छात्रों की गूंज'",
+          "summary": "कांग्रेस ने NEET समेत प्रतियोगी परीक्षाओं में पेपर लीक के मुद्दे पर केंद्र सरकार के खिलाफ देशव्यापी अभियान शुरू किया है. 25 जून से 9 अगस्त तक चलने वाले इस अभियान के तहत 9 अगस्त को दिल्ली में 'छात्रों की गूंज' कार्यक्रम आयोजित किया जाएगा. इस कार्यक्रम में लोकसभा में विपक्ष के नेता राहुल गांधी मौजूद रहेंगे. कांग्रेस का आरोप है कि पिछले 12 सालों में पेपर लीक की यह 90वीं घटना है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "बारिश की बूंदों ने बदला दिल्‍ली का मौसम, लेकिन देश-विदेश से आई 15 फ्लाइट की आ गई आफत, IGIA की जगह",
       "url": "https://hindi.news18.com/news/nation/delhi-bad-weather-15-delhi-bound-flights-diverted-to-jaipur-air-india-indigo-thai-airways-kc907-10630309.html",
       "source": "News18 Hindi (World)",
@@ -555,6 +645,24 @@
         "hi": {
           "title": "लाल सागर में फिर बढ़ा तनाव, यमन के तट के पास मालवाहक जहाज पर अज्ञात हमलावरों ने किया अटैक",
           "summary": "लाल सागर में रविवार को यमन के हुदैदा तट के पास एक मालवाहक जहाज पर हमला हुआ। अज्ञात हथियारबंद लोगों ने हुदैदा से लगभग 30 समुद्री मील दक्षिण-पश्चिम में जहाज को निशाना बनाया। Red Sea Cargo Ship Attack: यमन के हुदैदा तट के पास लाल सागर में रविवार को एक मालवाहक जहाज पर हमला हुआ। ब्रिटेन की समुद्री सुरक्षा एजेंसी यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस (UKMTO) के अनुसार, जहाज पर अज्ञात हथियारबंद लोगों ने हमला किया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'चाहें तो एक शॉट में सब खत्म कर दें', ट्रंप का ईरान पर भड़काऊ बयान, कांग्रेस ने केंद्र को घेरा",
+      "url": "https://www.abplive.com/news/india/congress-raise-questions-on-narendra-modi-govt-silence-on-donald-trump-comments-about-khamenei-funeral-iran-3155288",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-05T11:02:52+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/cfad448c00bfea5e39cbaea524c8454a17832460403751324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के सर्वोच्च नेता अयातुल्ला खामेनेई के अंतिम संस्कार के बाद भड़काऊ बयान दिया। उन्होंने कहा कि अगर वे चाहें तो एक शॉट में सब खत्म कर सकते हैं। इस बयान पर भारत की कांग्रेस पार्टी ने सवाल उठाए हैं। ईरान में एक तरफ शोक का आलम पसरा है, तो दूसरी तरफ ट्रंप की बयानबाजी जारी है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'चाहें तो एक शॉट में सब खत्म कर दें', ट्रंप का ईरान पर भड़काऊ बयान, कांग्रेस ने केंद्र को घेरा",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के सर्वोच्च नेता अयातुल्ला खामेनेई के अंतिम संस्कार के बाद भड़काऊ बयान दिया। उन्होंने कहा कि अगर वे चाहें तो एक शॉट में सब खत्म कर सकते हैं। इस बयान पर भारत की कांग्रेस पार्टी ने सवाल उठाए हैं। ईरान में एक तरफ शोक का आलम पसरा है, तो दूसरी तरफ ट्रंप की बयानबाजी जारी है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -614,6 +722,24 @@
       }
     },
     {
+      "title": "'ख्वाजा आसिफ मानसिक रूप से दिवालिया', पाकिस्तान के रक्षामंत्री ने PM मोदी पर किया कमेंट तो भारत ने",
+      "url": "https://www.abplive.com/news/india/indian-government-issued-strong-response-to-pakistan-defense-minister-khawaja-asif-remarks-about-pm-modi-3155284",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-05T10:35:22+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/472483fbec854e13edf8b013817adcb017832454669391115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "भारत सरकार ने पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ के प्रधानमंत्री नरेंद्र मोदी पर की गई टिप्पणी का जवाब दिया। सरकारी सूत्रों ने आसिफ को मानसिक रूप से अस्थिर बताया। उन्होंने कहा कि आसिफ के पास कोई गंभीर काम नहीं है और वे बेवजह बयान देते हैं। भारत सरकार ने पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ की तरफ से प्रधानमंत्री नरेंद्र मोदी पर की गई हालिया टिप्पणी का कड़ा जवाब दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'ख्वाजा आसिफ मानसिक रूप से दिवालिया', पाकिस्तान के रक्षामंत्री ने PM मोदी पर किया कमेंट तो भारत ने",
+          "summary": "भारत सरकार ने पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ के प्रधानमंत्री नरेंद्र मोदी पर की गई टिप्पणी का जवाब दिया। सरकारी सूत्रों ने आसिफ को मानसिक रूप से अस्थिर बताया। उन्होंने कहा कि आसिफ के पास कोई गंभीर काम नहीं है और वे बेवजह बयान देते हैं। भारत सरकार ने पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ की तरफ से प्रधानमंत्री नरेंद्र मोदी पर की गई हालिया टिप्पणी का कड़ा जवाब दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "अमेरिका के स्वतंत्रता दिवस पर न्यूयॉर्क में फायरिंग, 4 बच्चों समेत 8 लोग गोली लगने से घायल",
       "url": "https://www.patrika.com/world-news/new-york-shooting-coney-island-us-independence-day-8-injured-children-20722660",
       "source": "Patrika (World)",
@@ -628,132 +754,6 @@
           "title": "अमेरिका के स्वतंत्रता दिवस पर न्यूयॉर्क में फायरिंग, 4 बच्चों समेत 8 लोग गोली लगने से घायल",
           "summary": "अमेरिका के स्वतंत्रता दिवस समारोह के दौरान न्यूयॉर्क के कोनी आइलैंड में देर रात गोलीबारी हुई। New York Shooting: अमेरिका के स्वतंत्रता दिवस समारोह के दौरान न्यूयॉर्क के कोनी आइलैंड इलाके में देर रात गोलीबारी हो गई। इस घटना में चार बच्चों समेत कम से कम आठ लोग घायल हो गए। एबीसी न्यूज के मुताबिक, सभी घायलों को अस्पताल में भर्ती कराया गया है।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "खामेनेई के अंतिम संस्कार में 3 बेटे शामिल हुए, मोजतबा नहीं दिखे, राह ताकते रहे लोग",
-      "url": "https://www.patrika.com/world-news/iran-former-supreme-leader-syed-ali-khamenei-funeral-three-sons-attended-son-current-supreme-leader-mojtaba-ali-khamenei-not-attended-20722614",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-05T10:06:07+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Iran-Former-Supreme-Leader-Seyyed-Ali-Khamenei-Funeral.webp",
-      "summary": "ईरान के सुप्रीम लीडर सैयद अली खामेनेई के तीन बेटे उनके अंतिम संस्कार में शामिल हुए. Khamenei Funeral Mojtaba Not Seen: ईरान के पूर्व सुप्रीम लीडर सैयद अली खामेनेई के तीन बेटे अंतिम संस्कार में शामिल हुए, लेकिन उनके बेटे वर्तमान सुप्रीम लीडर मोजतबा अली खामेनेई इसमें शरीक नहीं हुए। मोजतबा खामेनेई कहीं भी नजर नहीं आए और लोग उनकी राह ताकते रहे।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खामेनेई के अंतिम संस्कार में 3 बेटे शामिल हुए, मोजतबा नहीं दिखे, राह ताकते रहे लोग",
-          "summary": "ईरान के सुप्रीम लीडर सैयद अली खामेनेई के तीन बेटे उनके अंतिम संस्कार में शामिल हुए. Khamenei Funeral Mojtaba Not Seen: ईरान के पूर्व सुप्रीम लीडर सैयद अली खामेनेई के तीन बेटे अंतिम संस्कार में शामिल हुए, लेकिन उनके बेटे वर्तमान सुप्रीम लीडर मोजतबा अली खामेनेई इसमें शरीक नहीं हुए। मोजतबा खामेनेई कहीं भी नजर नहीं आए और लोग उनकी राह ताकते रहे।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "55 घंटे लड़ता रहा जिंदगी की जंग, टूटी पसलियां पर हौसला नहीं, आंखों के सामने देखा प्रलय फिर चमत्कार",
-      "url": "https://hindi.news18.com/world/rest-of-world-venezuela-earthquake-survivor-rescued-fight-55-hours-under-rubble-for-life-ws-l-10630050.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-05T09:35:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/venezuela-survivor-2026-07-0b2da96d21726f14b3fc4d271e55147e-1200x800.jpg",
-      "summary": "वेनेजुएला में आए भूकंप के बाद बचाव अभियान जारी है। Venezuela Earthquake Miracle: वेनेजुएला में आए भूकंप के बाद रेस्क्यू अभियान अब भी चल रहा है. इस दौरान एक शख्स को मलबे के अंदर से पूरे 7 दिन और 2 घंटे के बाद निकाला गया. हैरानी की बात ये थी वो अब भी जिंदा था और चमत्कार के इंतजार में था, जो उसने अपनी आंखों से देखा.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "55 घंटे लड़ता रहा जिंदगी की जंग, टूटी पसलियां पर हौसला नहीं, आंखों के सामने देखा प्रलय फिर चमत्कार",
-          "summary": "वेनेजुएला में आए भूकंप के बाद बचाव अभियान जारी है। Venezuela Earthquake Miracle: वेनेजुएला में आए भूकंप के बाद रेस्क्यू अभियान अब भी चल रहा है. इस दौरान एक शख्स को मलबे के अंदर से पूरे 7 दिन और 2 घंटे के बाद निकाला गया. हैरानी की बात ये थी वो अब भी जिंदा था और चमत्कार के इंतजार में था, जो उसने अपनी आंखों से देखा.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान में फिर होगी ईरान और अमेरिका के बीच बातचीत, जानें किन मुद्दों पर बननी है सहमति",
-      "url": "https://www.abplive.com/news/world/us-iran-peace-talks-likely-to-held-in-islamabad-pakistan-or-switzerland-3155253",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-07-05T09:13:44+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/6800fb3f8d03734bb45ccdce3b0a5fb817832412758771200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिका और ईरान के बीच अगले दौर की वार्ता पाकिस्तान की राजधानी इस्लामाबाद में हो सकती है। अमेरिका और ईरान के बीच अगले दौर की वार्ता एक बार फिर से पाकिस्तान की राजधानी इस्लामाबाद में हो सकती है. मीडिया रिपोर्ट में रविवार को यह जानकारी दी गई है. दोनों देशों ने पश्चिम एशिया में शांति बहाल करने के मकसद से 18 जून को एक समझौता ज्ञापन पर हस्ताक्षर किए थे.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान में फिर होगी ईरान और अमेरिका के बीच बातचीत, जानें किन मुद्दों पर बननी है सहमति",
-          "summary": "अमेरिका और ईरान के बीच अगले दौर की वार्ता पाकिस्तान की राजधानी इस्लामाबाद में हो सकती है। अमेरिका और ईरान के बीच अगले दौर की वार्ता एक बार फिर से पाकिस्तान की राजधानी इस्लामाबाद में हो सकती है. मीडिया रिपोर्ट में रविवार को यह जानकारी दी गई है. दोनों देशों ने पश्चिम एशिया में शांति बहाल करने के मकसद से 18 जून को एक समझौता ज्ञापन पर हस्ताक्षर किए थे.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'होर्मुज परमाणु हथियार से कम नहीं', पुतिन के करीबी दिमित्री मेदवेदेव ने स्ट्रेट को बताया ईरान की",
-      "url": "https://www.abplive.com/news/world/russia-putin-close-aid-medvedev-says-strait-of-hormuz-not-weaker-than-nuclear-weapon-amid-us-ira-israel-war-3155237",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-07-05T09:02:55+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/4a0e707f1e58632fd0932ebad78a569c1783239232376425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "रूस के सुरक्षा परिषद के उपाध्यक्ष दिमित्री मेदवेदेव ने कहा कि होर्मुज जलडमरूमध्य ईरान के लिए रूस के सुरक्षा परिषद के उपाध्यक्ष दिमित्री मेदवेदेव ने ईरान की सबसे बड़ी रणनीतिक ताकत को लेकर बड़ा बयान दिया है. उन्होंने कहा कि होर्मुज स्ट्रेट ईरान के लिए किसी परमाणु हथियार से कम नहीं है. उनके मुताबिक, हालिया संघर्ष के दौरान ईरान ने इस अहम समुद्री रास्ते पर नियंत्रण दिखाकर पूरी दुनिया को अपनी ताकत का एहसास करा दिया.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'होर्मुज परमाणु हथियार से कम नहीं', पुतिन के करीबी दिमित्री मेदवेदेव ने स्ट्रेट को बताया ईरान की",
-          "summary": "रूस के सुरक्षा परिषद के उपाध्यक्ष दिमित्री मेदवेदेव ने कहा कि होर्मुज जलडमरूमध्य ईरान के लिए रूस के सुरक्षा परिषद के उपाध्यक्ष दिमित्री मेदवेदेव ने ईरान की सबसे बड़ी रणनीतिक ताकत को लेकर बड़ा बयान दिया है. उन्होंने कहा कि होर्मुज स्ट्रेट ईरान के लिए किसी परमाणु हथियार से कम नहीं है. उनके मुताबिक, हालिया संघर्ष के दौरान ईरान ने इस अहम समुद्री रास्ते पर नियंत्रण दिखाकर पूरी दुनिया को अपनी ताकत का एहसास करा दिया.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'चीन का दलाल' बनी पाकिस्तान की नई पहचान, नहीं रही अपनी कोई औकात, अमेरिका ने भी माना",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-is-just-a-mediatior-for-china-weapons-sale-us-report-calls-it-gateway-10629784.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-05T08:56:55+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/shehbaz-meets-xinping-2026-05-152bb9a018feaecb95b8adfdcbaea4f9-1200x800.jpg",
-      "summary": "अमेरिका ने स्वीकार किया कि पाकिस्तान चीन के हथियार बेचने के लिए एक प्रवेश द्वार है। Pakistan Selling China Weapons: पाकिस्तान भले ही चीन को अपना सदाबहार दोस्त बताता हो लेकिन अब अमेरिका ने भी ये बात मान ली है कि चीन के लिए वो अपने हथियारों को बेचने का गेटवे है. कुल मिलाकर इस देश की पहचान चीन के दलाल के तौर पर बन रही है, जो अपनी रक्षा जरूरतों के लिए उस पर पूरी तरह निर्भर है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'चीन का दलाल' बनी पाकिस्तान की नई पहचान, नहीं रही अपनी कोई औकात, अमेरिका ने भी माना",
-          "summary": "अमेरिका ने स्वीकार किया कि पाकिस्तान चीन के हथियार बेचने के लिए एक प्रवेश द्वार है। Pakistan Selling China Weapons: पाकिस्तान भले ही चीन को अपना सदाबहार दोस्त बताता हो लेकिन अब अमेरिका ने भी ये बात मान ली है कि चीन के लिए वो अपने हथियारों को बेचने का गेटवे है. कुल मिलाकर इस देश की पहचान चीन के दलाल के तौर पर बन रही है, जो अपनी रक्षा जरूरतों के लिए उस पर पूरी तरह निर्भर है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका-ईरान वार्ता का अगला दौर इस्लामाबाद में होने की संभावना: रिपोर्ट",
-      "url": "https://hindi.news18.com/world/pakistan-america-iran-talks-islamabad-next-possible-venue-ws-l-10629921.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-05T08:36:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Iran-US-Talk-2026-06-eefc2b1a410a050365e155be0a196145-1200x800.jpg",
-      "summary": "अमेरिका और ईरान के बीच वार्ता का अगला दौर इस्लामाबाद में होने की संभावना है। America-Iran Talks: अमेरिका-ईरान वार्ता के अगले दौर के लिए इस्लामाबाद प्रमुख विकल्प बनकर उभरा है. यह वार्ता 11 जुलाई को होने की संभावना है. इस बातचीत में ईरान के परमाणु कार्यक्रम, प्रतिबंधों और फ्रीज संपत्ति पर बातचीत होगी. अमेरिका-ईरान वार्ता का अगला दौर इस्लामाबाद में होने की संभावना: रिपोर्ट।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका-ईरान वार्ता का अगला दौर इस्लामाबाद में होने की संभावना: रिपोर्ट",
-          "summary": "अमेरिका और ईरान के बीच वार्ता का अगला दौर इस्लामाबाद में होने की संभावना है। America-Iran Talks: अमेरिका-ईरान वार्ता के अगले दौर के लिए इस्लामाबाद प्रमुख विकल्प बनकर उभरा है. यह वार्ता 11 जुलाई को होने की संभावना है. इस बातचीत में ईरान के परमाणु कार्यक्रम, प्रतिबंधों और फ्रीज संपत्ति पर बातचीत होगी. अमेरिका-ईरान वार्ता का अगला दौर इस्लामाबाद में होने की संभावना: रिपोर्ट।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘ट्रंप अभी जिंदा क्यों है?’,खामेनेई के जनाजे में खुलेआम किया गया अमेरिकी राष्ट्रपति को मारने का",
-      "url": "https://www.patrika.com/world-news/iran-ayatollah-ali-khamenei-funeral-open-calls-killing-donald-trump-20722402",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-05T08:14:42+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Khamenei-Funeral-Prayer-1.webp",
-      "summary": "ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामनेई\", which is a bit confusing. Khamenei Funeral Open Calls for Killing Donald Trump: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामनेई के विशाल अंतिम संस्कार समारोह के दौरान अमेरिका और इजराइल के खिलाफ नारे लगाए गए। मीडिया रिपोर्टस के अनुसार गुस्साए अपार जनसमूह के सामने माइक से अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को मारने का खुलेआम आह्वान किया गया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘ट्रंप अभी जिंदा क्यों है?’,खामेनेई के जनाजे में खुलेआम किया गया अमेरिकी राष्ट्रपति को मारने का",
-          "summary": "ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामनेई\", which is a bit confusing. Khamenei Funeral Open Calls for Killing Donald Trump: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामनेई के विशाल अंतिम संस्कार समारोह के दौरान अमेरिका और इजराइल के खिलाफ नारे लगाए गए। मीडिया रिपोर्टस के अनुसार गुस्साए अपार जनसमूह के सामने माइक से अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को मारने का खुलेआम आह्वान किया गया।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
