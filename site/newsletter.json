@@ -1,72 +1,12 @@
 {
-  "generated_at": "2026-07-05T16:26:56.561775+00:00",
+  "generated_at": "2026-07-05T17:29:34.155919+00:00",
   "article_count": 50,
-  "total_unique_count": 276,
+  "total_unique_count": 268,
   "digest": {
-    "en": "Myanmar’s military consolidation and the Armenian election dominate headlines. The EU's budget for global turmoil and the potential U.S.-Iran breakthrough also command attention. Super typhoon Mawar nears U.S. Pacific islands.",
-    "hi": "पाकिस्तान में 11 साल के बच्चे पर मुकदमा और 8.5 अरब के परिवहन घोटाले का खुलासा प्रमुख है। चीन से बचने के लिए दलाई लामा का सैनिक बनना और एलियन जैसे जीवों की खोज भी ध्यान खींचती है। भारत की पश्चिम एशिया में बढ़ती ताकत और अमेरिका की ओर बढ़ते सुपर स्टॉर्म का भी उल्लेख है।"
+    "en": "NATO's renewal and Ukraine's war on Russian oil refineries dominate headlines. Super typhoon approaches U.S. Pacific islands. China's air-conditioned lesson for Europe's heat wave also appears.",
+    "hi": "एशिया-प्रशांत में चीन की दबाव नीति जापान को अमेरिका और यूरोप के साथ मिलकर जवाब देने के लिए प्रेरित कर रही है। इसी क्षेत्र में, पाकिस्तान में 8.5 अरब के परिवहन घोटाले का खुलासा हुआ है।"
   },
   "articles": [
-    {
-      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
-      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Wednesday, June 3, 2026 - 00:00",
-      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Min Aung Hlaing transitioned from commander-in-chief to president in Myanmar. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration. Myanmar’s New Administration: Military Consolidation, Not Transition.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
-      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Tuesday, June 2, 2026 - 16:33",
-      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Armenia will hold its first general election since 2021 on 7 Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations. Issues of War and Peace Gain Top Billing in Armenia’s Election.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Tiny Djibouti, and Its Prime Real Estate",
-      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 15:42",
-      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Samson Abebe Bezabeh discussed Djibouti's history and politics on The Horn This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea. Tiny Djibouti, and Its Prime Real Estate.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
-      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Thursday, June 4, 2026 - 10:18",
-      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The United States and Israel began bombing Iran on 28 February. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task. A New Player in the Quest for a U. S.-Iran Breakthrough.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
-      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Friday, June 5, 2026 - 10:38",
-      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The European Union’s next seven-year budget could risk funding for conflict The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences. A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
     {
       "title": "Ahead Of High-Stakes NATO Summit, Ex-US Envoy To OSCE James Gilmore Says Alliance Is Renewing Itself",
       "url": "https://www.rferl.org/a/33797187.html",
@@ -308,6 +248,120 @@
       "translations": {}
     },
     {
+      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-03T11:08:44+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/9cf96b47229f6cf4e1689db3553f3d757d420253/106_0_5842_4672/master/5842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5369b245cc472984f9549a7399eaf30f",
+      "summary": "Twin earthquakes struck Venezuela's northern coast last week. Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubble, reports Tom Phillips in Caraballeda. Photography and video by Manu QuinteroWhen twin earthquakes tore through Venezuela’s northern coast last week, Israel Rivas was at home hundreds of miles away in the industrial city of San Félix.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "As Iran Prepares Elaborate Funeral For Khamenei, Many Recall A Brutal Leader",
+      "url": "https://www.rferl.org/a/as-iran-prepares-elaborate-funeral-for-khamenei-many-recall-a-brutal-leader/33795397.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-03T09:51:36+00:00",
+      "image_url": "https://gdb.rferl.org/a25d9502-029a-4141-b27f-c21c58f0177a_cx0_cy10_cw0_w1200_h630.jpg",
+      "summary": "Iran's government is preparing a multiday funeral for late Supreme Leader Ali Kham Iran's government is preparing a multiday funeral ceremony for late Supreme Leader Ali Khamenei, who died in US and Israeli strikes in February. But many Iranians are not mourning his loss, and are instead sharing complex reactions to the death of a man who led an oppressive theocratic regime.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Culture war killing America’s response to demographic decline",
+      "url": "https://asiatimes.com/2026/07/culture-war-killing-americas-response-to-demographic-decline/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-03T08:59:55+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/US-Immigration.jpg",
+      "summary": "The Supreme Court affirmed birthright citizenship in the United States. Birthright citizenship is the law of the land. The Supreme Court has once again ruled that the 14th Amendment gives automatic citizenship to anyone born in the US. This includes the children of illegal immigrants and temporary visa holders, both of which the Trump administration had sought to exclude from birthright citizenship.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Crimea in emergency as Ukraine reaches for Putin’s ‘crown jewel’",
+      "url": "https://asiatimes.com/2026/07/crimea-in-emergency-as-ukraine-reaches-for-putins-crown-jewel/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-03T07:06:14+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Russia-Vladimir-Putin-Crimea.jpg",
+      "summary": "Vladimir Putin acknowledged Ukraine's drone attacks are affecting Russia's energy infrastructure Vladimir Putin has finally acknowledged that Ukraine’s relentless drone attacks on Russia’s energy infrastructure are having an effect. Speaking to the ruling United Russia party on June 28, the Russian president confirmed that his country is facing “a certain shortage” of fuel and that “strikes on our infrastructure sites are creating problems.” In fact, the [] The post Crimea in emergency as Uk.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+      "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-03T00:00:13+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/d29634c780d5f82a8438482e7ab53b70831d9456/178_51_390_312/master/390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80f79a485fcfaab59bd098059830a638",
+      "summary": "Narendra Modi received the Guardian of the Blue Horizon award in Seychelles. This is one of the nation's highest honours. Modi has collected numerous awards during his overseas trips. Some of these awards have been created specifically for him. Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister. Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Seychelles presi.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "आसमान का टूटा ख्वाब या समंदर का कोई राज? बीच पर कैसे पहुंचे चांदी के 6 बड़े गोले? स्‍पेस एजेंसी हुई",
+      "url": "https://hindi.news18.com/world/rest-of-world-mysterious-silver-spheres-wash-up-on-queensland-beach-australian-space-agency-investigates-suspected-rocket-space-debris-10630922.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-05T17:27:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Silver-Sphere-2026-07-50540d98baf70d4a7b5a6e0afd4e0133-1200x800.jpg",
+      "summary": "क्वींसलैंड के फॉरेस्ट बीच पर चांदी की छह विशाल ठोस गेंदें बहकर आईं। ऑस्ट्रेलियाई अंतरिक्ष एजेंसी का अनुमान है कि ये रॉकेट लॉन्चिंग के बाद गिरा स्पेस कचरा हो सकती हैं। प्रशासन ने इलाके में 50 मीटर का सुरक्षा घेरा बनाया है। Australia mysterious silver spheres: ऑस्ट्रेलिया के क्वींसलैंड स्थित फॉरेस्ट बीच पर चांदी की छह विशाल ठोस गेंदें बहकर आने से हड़कंप मच गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आसमान का टूटा ख्वाब या समंदर का कोई राज? बीच पर कैसे पहुंचे चांदी के 6 बड़े गोले? स्‍पेस एजेंसी हुई",
+          "summary": "क्वींसलैंड के फॉरेस्ट बीच पर चांदी की छह विशाल ठोस गेंदें बहकर आईं। ऑस्ट्रेलियाई अंतरिक्ष एजेंसी का अनुमान है कि ये रॉकेट लॉन्चिंग के बाद गिरा स्पेस कचरा हो सकती हैं। प्रशासन ने इलाके में 50 मीटर का सुरक्षा घेरा बनाया है। Australia mysterious silver spheres: ऑस्ट्रेलिया के क्वींसलैंड स्थित फॉरेस्ट बीच पर चांदी की छह विशाल ठोस गेंदें बहकर आने से हड़कंप मच गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "चीन के पास रेयर अर्थ का खजाना, लेकिन उसकी चाबी किसी और देश के पास है; खुलासे ने उड़ा दी ड्रैगन की",
+      "url": "https://hindi.news18.com/world/china-advanced-technologies-key-patents-based-on-rare-earths-still-largely-concentrated-in-us-and-japan-sjn-10630896.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-05T17:20:30+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/China-Rare-earth-2026-07-65abef9ed5899feac775914be27847c9-1200x800.jpg",
+      "summary": "चीन रेयर अर्थ उद्योग में प्रमुख है, लेकिन अमेरिका और जापान के पास एडवांस्ड रेयर अर्थ फंक्शनल मटीरियल टेक्नोलॉजी के लिए अहम पेटेंट हैं। एक स्टडी में कहा गया है कि चीन कुछ कोर टेक्नोलॉजी में महारत हासिल करने में पीछे है। रेयर अर्थ इंडस्ट्री में चीन का दबदबे है लेकिन उसकी बड़ी स्ट्रक्चरल कमजोरी सामने आई हैं. एडवांस्ड रेयर अर्थ फंक्शनल मटीरियल टेक्नोलॉजी के लिए कई अहम पेटेंट अमेरिका और जापान के पास हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन के पास रेयर अर्थ का खजाना, लेकिन उसकी चाबी किसी और देश के पास है; खुलासे ने उड़ा दी ड्रैगन की",
+          "summary": "चीन रेयर अर्थ उद्योग में प्रमुख है, लेकिन अमेरिका और जापान के पास एडवांस्ड रेयर अर्थ फंक्शनल मटीरियल टेक्नोलॉजी के लिए अहम पेटेंट हैं। एक स्टडी में कहा गया है कि चीन कुछ कोर टेक्नोलॉजी में महारत हासिल करने में पीछे है। रेयर अर्थ इंडस्ट्री में चीन का दबदबे है लेकिन उसकी बड़ी स्ट्रक्चरल कमजोरी सामने आई हैं. एडवांस्ड रेयर अर्थ फंक्शनल मटीरियल टेक्नोलॉजी के लिए कई अहम पेटेंट अमेरिका और जापान के पास हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "4 लाख साल पुरानी! इजराइल में मिली टाइम मशीन जैसी गुफा, खुलेंगे इंसानी सभ्यता के राज",
+      "url": "https://hindi.news18.com/world/middle-east-400000-year-old-mysterious-cave-discovered-in-israel-human-evolution-secrets-10630870.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-05T16:44:07+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/israel-cave-2026-07-dc861a11cf34f90d2aea21527e85f24d-1200x800.jpg",
+      "summary": "उत्तरी इजराइल में एक 4 लाख साल पुरानी गुफा मिली है जो बंद थी। वैज्ञानिकों को इसमें इंसानी विकास के सबूत मिले हैं, जिनमें हथियार और जानवरों की हड्डियां शामिल हैं। यह निएंडरथल से पहले के जीवन के राज खोलेगी। 400000 Year Old Cave in Israel: उत्तरी इजरायल में फोरिडिस के पास एक रहस्यमय गुफा मिली है. यह गुफा करीब 4 लाख साल से पूरी तरह से बंद थी.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "4 लाख साल पुरानी! इजराइल में मिली टाइम मशीन जैसी गुफा, खुलेंगे इंसानी सभ्यता के राज",
+          "summary": "उत्तरी इजराइल में एक 4 लाख साल पुरानी गुफा मिली है जो बंद थी। वैज्ञानिकों को इसमें इंसानी विकास के सबूत मिले हैं, जिनमें हथियार और जानवरों की हड्डियां शामिल हैं। यह निएंडरथल से पहले के जीवन के राज खोलेगी। 400000 Year Old Cave in Israel: उत्तरी इजरायल में फोरिडिस के पास एक रहस्यमय गुफा मिली है. यह गुफा करीब 4 लाख साल से पूरी तरह से बंद थी.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "पाकिस्तान में अब 11 साल के बच्चे पर चलेगा मुकदमा, 72 की मौत, 1153 दुकानें हुईं थी जलकर खाक",
       "url": "https://hindi.news18.com/world/pakistan-pakistan-prosecuted-11-year-old-child-in-gul-plaza-shopping-center-fire-case-10630737.html",
       "source": "News18 Hindi (World)",
@@ -398,6 +452,24 @@
       }
     },
     {
+      "title": "चीन की दबाव नीति से परेशान हुआ जापान, अब अमेरिका-यूरोप के साथ मिलकर जवाब देने की तैयारी",
+      "url": "https://www.patrika.com/world-news/japan-must-act-with-its-allies-against-china-pressure-campaign-20723207",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-05T14:17:41+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/01/Xi-Jinping.webp",
+      "summary": "चीन द्वारा लगातार दबाव बनाए जाने के जवाब में जापान अब अमेरिका और यूरोप के साथ मिलकर प्रतिक्रिया देने की तैयारी कर रहा है। चीन जासूसी, समुद्री घुसपैठ और आर्थिक दबाव के जरिए जापान को कमजोर करने की कोशिश कर रहा है। चीन की कम्युनिस्ट पार्टी जापान पर लगातार दबाव बना रही है। जासूसी, समुद्री घुसपैठ और आर्थिक तंगी के जरिए चीन टोक्यो को कमजोर करने की कोशिश कर रहा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन की दबाव नीति से परेशान हुआ जापान, अब अमेरिका-यूरोप के साथ मिलकर जवाब देने की तैयारी",
+          "summary": "चीन द्वारा लगातार दबाव बनाए जाने के जवाब में जापान अब अमेरिका और यूरोप के साथ मिलकर प्रतिक्रिया देने की तैयारी कर रहा है। चीन जासूसी, समुद्री घुसपैठ और आर्थिक दबाव के जरिए जापान को कमजोर करने की कोशिश कर रहा है। चीन की कम्युनिस्ट पार्टी जापान पर लगातार दबाव बना रही है। जासूसी, समुद्री घुसपैठ और आर्थिक तंगी के जरिए चीन टोक्यो को कमजोर करने की कोशिश कर रहा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "दिल्ली की कनिका की अबू धाबी में चमकी किस्मत, 4 साल तक खरीदे लॉटरी के टिकट, अब जीते ₹65 करोड़",
       "url": "https://hindi.news18.com/world/middle-east-kanika-arora-from-delhi-wins-65-crore-rupees-in-abu-dhabi-lottery-sjn-10630554.html",
       "source": "News18 Hindi (World)",
@@ -484,24 +556,6 @@
           "title": "260 की स्पीड से चलेंगी हवाएं, समंदर में उठेंगी 35 फीट ऊंची लहरें! अमेरिका की तरफ बढ़ रहा सुपर",
           "summary": "सुपर टाइफून बावी अमेरिका के प्रशांत द्वीपों की ओर तेजी से बढ़ रहा है. Super Typhoon Bavi Alert: सुपर टाइफून बावी अमेरिका के पैसिफिक आइलैंड्स की तरफ तेजी से बढ़ रहा है. गुआम और नॉर्दर्न मारियाना आइलैंड्स में भयंकर तबाही की आशंका है. यहां 260 किलोमीटर प्रति घंटे की रफ्तार से हवाएं चलने का अनुमान है. समंदर में 35 फीट ऊंची लहरें उठ सकती हैं.",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'ख्वाजा आसिफ का दिमागी संतुलन ठीक नहीं लेकिन रक्षा मंत्री बने बैठे, यही आज के पाकिस्तान की हालत'",
-      "url": "https://hindi.news18.com/news/nation/khawaja-asif-mentally-unstable-india-hits-back-at-pakistan-defence-minister-remarks-on-pm-modi-seychelles-honor-10630129.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-05T13:03:35+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/PM-Modi-Khawaja-Asif-2026-07-5669314e5ffb264e4314326e010de399-1200x800.jpg",
-      "summary": "भारत ने ख्वाजा आसिफ की टिप्पणी को खारिज कर दिया। पीएम नरेंद्र मोदी को सेशेल्स द्वारा स्थापित नए राष्ट्रपति सम्मान से सम्मानित किए जाने पर ख्वाजा आसिफ ने टिप्पणी की थी. भारत ने इसे प्रधानमंत्री और देश के सम्मान से जुड़े मुद्दे पर अनावश्यक और गैर-जिम्मेदार बयानबाजी बताते हुए खारिज कर दिया. ख्वाजा आसिफ का दिमाग ठीक नहीं, PM मोदी पर बयान को लेकर भारत ने दिया मुंहतोड़ जवाब, ऐसी बातें उनकी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ख्वाजा आसिफ का दिमागी संतुलन ठीक नहीं लेकिन रक्षा मंत्री बने बैठे, यही आज के पाकिस्तान की हालत'",
-          "summary": "भारत ने ख्वाजा आसिफ की टिप्पणी को खारिज कर दिया। पीएम नरेंद्र मोदी को सेशेल्स द्वारा स्थापित नए राष्ट्रपति सम्मान से सम्मानित किए जाने पर ख्वाजा आसिफ ने टिप्पणी की थी. भारत ने इसे प्रधानमंत्री और देश के सम्मान से जुड़े मुद्दे पर अनावश्यक और गैर-जिम्मेदार बयानबाजी बताते हुए खारिज कर दिया. ख्वाजा आसिफ का दिमाग ठीक नहीं, PM मोदी पर बयान को लेकर भारत ने दिया मुंहतोड़ जवाब, ऐसी बातें उनकी।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -700,60 +754,6 @@
           "title": "ट्रंप के पास नहीं हैं पैसे, यौन दुर्व्यवहार मामले में पीड़िता को 5 मिलियन डॉलर चुकाने के लिए कोर्ट",
           "summary": "डोनाल्ड ट्रंप को यौन दुर्व्यवहार और मानहानि के मामले में लेखिका ई. Trump Sexual Abuse Case Payout More Time: ईरान से उलझने में लगे अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप अपने ही यौन दुर्व्यवहार केस के लिए खुद समय नहीं निकाल पाए या मुकदमे की सुनवाई के लिए अधिक समय चाहने के कारण उन्होंने अपने पास पैसे न होने का तर्क दिया है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘एक गोली में सब खत्म कर सकते हैं’, डोनाल्ड ट्रंप की धमकी पर ईरान का जवाब- ‘लोगों को मारा जा सकता",
-      "url": "https://www.patrika.com/world-news/donald-trump-iran-khamenei-funeral-one-shot-statement-us-tensions-response-20722658",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-05T10:37:42+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/US-President-Donald-Trump-1.webp",
-      "summary": "डोनाल्ड ट्रंप के बयान से अमेरिका और ईरान के बीच तनाव बढ़ गया है। Donald Trump One Shot Statement: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप के बयान एक बार फिर अमेरिका और ईरान के बीच तनाव बढ़ा दिया है। डोनाल्ड ट्रंप ने कहा कि अगर अमेरिका चाहता, तो अयातुल्ला अली खामेनेई के अंतिम संस्कार में मौजूद ईरान के सभी शीर्ष नेताओं को एक ही गोली में निशाना बना सकता है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘एक गोली में सब खत्म कर सकते हैं’, डोनाल्ड ट्रंप की धमकी पर ईरान का जवाब- ‘लोगों को मारा जा सकता",
-          "summary": "डोनाल्ड ट्रंप के बयान से अमेरिका और ईरान के बीच तनाव बढ़ गया है। Donald Trump One Shot Statement: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप के बयान एक बार फिर अमेरिका और ईरान के बीच तनाव बढ़ा दिया है। डोनाल्ड ट्रंप ने कहा कि अगर अमेरिका चाहता, तो अयातुल्ला अली खामेनेई के अंतिम संस्कार में मौजूद ईरान के सभी शीर्ष नेताओं को एक ही गोली में निशाना बना सकता है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'ख्वाजा आसिफ मानसिक रूप से दिवालिया', पाकिस्तान के रक्षामंत्री ने PM मोदी पर किया कमेंट तो भारत ने",
-      "url": "https://www.abplive.com/news/india/indian-government-issued-strong-response-to-pakistan-defense-minister-khawaja-asif-remarks-about-pm-modi-3155284",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-05T10:35:22+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/472483fbec854e13edf8b013817adcb017832454669391115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारत सरकार ने पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ के प्रधानमंत्री नरेंद्र मोदी पर की गई टिप्पणी का जवाब दिया। सरकारी सूत्रों ने आसिफ को मानसिक रूप से अस्थिर बताया। उन्होंने कहा कि आसिफ के पास कोई गंभीर काम नहीं है और वे बेवजह बयान देते हैं। भारत सरकार ने पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ की तरफ से प्रधानमंत्री नरेंद्र मोदी पर की गई हालिया टिप्पणी का कड़ा जवाब दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ख्वाजा आसिफ मानसिक रूप से दिवालिया', पाकिस्तान के रक्षामंत्री ने PM मोदी पर किया कमेंट तो भारत ने",
-          "summary": "भारत सरकार ने पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ के प्रधानमंत्री नरेंद्र मोदी पर की गई टिप्पणी का जवाब दिया। सरकारी सूत्रों ने आसिफ को मानसिक रूप से अस्थिर बताया। उन्होंने कहा कि आसिफ के पास कोई गंभीर काम नहीं है और वे बेवजह बयान देते हैं। भारत सरकार ने पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ की तरफ से प्रधानमंत्री नरेंद्र मोदी पर की गई हालिया टिप्पणी का कड़ा जवाब दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका के स्वतंत्रता दिवस पर न्यूयॉर्क में फायरिंग, 4 बच्चों समेत 8 लोग गोली लगने से घायल",
-      "url": "https://www.patrika.com/world-news/new-york-shooting-coney-island-us-independence-day-8-injured-children-20722660",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-05T10:25:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/USA-CRIME-CASE.webp",
-      "summary": "अमेरिका के स्वतंत्रता दिवस समारोह के दौरान न्यूयॉर्क के कोनी आइलैंड में देर रात गोलीबारी हुई। New York Shooting: अमेरिका के स्वतंत्रता दिवस समारोह के दौरान न्यूयॉर्क के कोनी आइलैंड इलाके में देर रात गोलीबारी हो गई। इस घटना में चार बच्चों समेत कम से कम आठ लोग घायल हो गए। एबीसी न्यूज के मुताबिक, सभी घायलों को अस्पताल में भर्ती कराया गया है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका के स्वतंत्रता दिवस पर न्यूयॉर्क में फायरिंग, 4 बच्चों समेत 8 लोग गोली लगने से घायल",
-          "summary": "अमेरिका के स्वतंत्रता दिवस समारोह के दौरान न्यूयॉर्क के कोनी आइलैंड में देर रात गोलीबारी हुई। New York Shooting: अमेरिका के स्वतंत्रता दिवस समारोह के दौरान न्यूयॉर्क के कोनी आइलैंड इलाके में देर रात गोलीबारी हो गई। इस घटना में चार बच्चों समेत कम से कम आठ लोग घायल हो गए। एबीसी न्यूज के मुताबिक, सभी घायलों को अस्पताल में भर्ती कराया गया है।",
-          "region": "अमेरिका"
         }
       }
     }
