@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-07-05T01:39:01.185206+00:00",
+  "generated_at": "2026-07-05T03:11:52.276259+00:00",
   "article_count": 50,
-  "total_unique_count": 259,
+  "total_unique_count": 272,
   "digest": {
-    "en": "Global / Multilateral leads the board this hour with Large gatherings and small talk – I used to think they were superficial but I now see how they keep. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, सह-मेजबान कनाडा का सफर समाप्त, लगातार दूसरी बार विश्व कप के क्वार्टर फाइनल में मोरक्को मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Myanmar's military consolidation and Ukraine's war on Russian oil refineries dominate headlines. Armenia's election and EU budget plans for global turmoil offer a contrast. Djibouti's strategic location also warrants attention.",
+    "hi": "मोरक्को ने कनाडा को हराकर विश्व कप क्वार्टर फाइनल में जगह बनाई। इस बीच, ईरान में खामेनेई की विरासत पर चर्चा जारी है, जबकि पाकिस्तान के कब्जे वाले कश्मीर में विरोध प्रदर्शन की अपील की गई है। अमेरिका अपनी 250वीं वर्षगांठ मना रहा है।"
   },
   "articles": [
+    {
+      "title": "Myanmar’s New Administration: Military Consolidation, Not Transition",
+      "url": "https://www.crisisgroup.org/brf/asia-pacific/myanmar-china/b188-myanmars-new-administration-military-consolidation-not-transition",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Wednesday, June 3, 2026 - 00:00",
+      "image_url": "https://images.pexels.com/photos/7106665/pexels-photo-7106665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Myanmar's military leader Min Aung Hlaing transitioned from commander-in-chief to president after staged elections. Foreign governments should calibrate interactions with Naypyitaw to avoid legitimizing the administration. Five years after mounting a coup that ousted an elected civilian government, Min Aung Hlaing has overseen tightly staged elections transitioning him from commander-in-chief to president. Foreign governments should ensure interaction with Naypyitaw is calibrated, so as not to confer unwarranted legitimacy on the administration.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Issues of War and Peace Gain Top Billing in Armenia’s Election",
+      "url": "https://www.crisisgroup.org/qna/europe/armenia/issues-war-and-peace-gain-top-billing-armenias-election",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Tuesday, June 2, 2026 - 16:33",
+      "image_url": "https://images.pexels.com/photos/11329792/pexels-photo-11329792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armenia will hold its first general election since 2021 on June 7. Foreign policy has dominated the campaign, raising questions about Yerevan's future external relations. Armenians will head to the polls on 7 June for the country’s first general election since 2021. In this Q&A, Crisis Group expert Joshua Kucera explains why foreign policy has dominated the campaign and what the results may mean for Yerevan’s external relations.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tiny Djibouti, and Its Prime Real Estate",
+      "url": "https://www.crisisgroup.org/pod/africa/djibouti/tiny-djibouti-and-its-prime-real-estate",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 15:42",
+      "image_url": "https://images.pexels.com/photos/32633358/pexels-photo-32633358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Djibouti's history, politics, and navigation of regional turmoil in the Horn of Africa and Red Sea are discussed. The nation's prime real estate influences its strategic position. This week on The Horn, Alan speaks with Samson Abebe Bezabeh, Assistant Professor of African Studies at the University of Hong Kong, about Djibouti’s history, politics and efforts to navigate turmoil and shifting alliances in the Horn of Africa and the Red Sea.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A New Player in the Quest for a U.S.-Iran Breakthrough",
+      "url": "https://www.crisisgroup.org/cmt/asia-pacific/pakistan-iran-united-states-saudi-arabia/pakistan-new-player-quest-us-iran-breakthrough",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Thursday, June 4, 2026 - 10:18",
+      "image_url": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Pakistan began conveying proposals to end the war between the U. S. and Iran shortly after bombings began on February 28. Islamabad perceives high stakes, undertaking the mediator role despite risks. Soon after the U. S. and Israel began bombing Iran on 28 February, Pakistan started conveying proposals for ending the war. The mediator’s mantle comes with risks, but Islamabad feels the stakes are high enough that it has persevered at the task.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, June 5, 2026 - 10:38",
+      "image_url": "https://images.pexels.com/photos/12932891/pexels-photo-12932891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The European Union's next seven-year budget may reduce spending on conflict prevention and aid to fragile states. Experts discuss the potential consequences for global stability. The European Union’s next seven-year budget could put spending on conflict prevention and aid to fragile states at risk. In this Q&A, Crisis Group experts Lisa Musiol and Dylan Macchiarini Crosson explain the potential consequences.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Aung San Suu Kyi",
+      "url": "https://www.thehindu.com/news/international/aung-san-suu-kyi-a-symbol-of-resistance/article71183720.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-05T01:34:45+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/mp9t8p/article71183712.ece/alternates/LANDSCAPE_1200/aung%20san%20suu%20kyi_Art_print.jpg",
+      "summary": "Myanmar's junta has made territorial gains in the ongoing civil war. The junta, which has made some territorial gains in the civil war and held a farcical election to legitimise its coup, seeks international recognition, but it lacks what the NLD leader, now under house arrest, has always symbolised. popular support. Aung San Suu Kyi.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Large gatherings and small talk – I used to think they were superficial but I now see how they keep",
       "url": "https://www.channelnewsasia.com/living/why-large-gatherings-small-talk-connection-important-6184986",
@@ -16,30 +88,6 @@
       "image_url": "https://dam.mediacorp.sg/image/upload/s--5zHpPtWA--/c_crop,h_900,w_1600,x_0,y_83/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/15/family_gatherings_connection_together_superficial_conversations_time_starved_society.jpg?itok=cZFEMdO7",
       "summary": "A writer previously viewed large family gatherings and small talk as superficial. Large family gatherings once felt shallow to this writer, who thought real connection required an extended amount of time together and frequent deep conversations. Now, she sees how small talk, shared food, and simply showing up can keep loved ones close in a time-starved society. Large gatherings and small talk – I used to think they were superficial but I now see how they keep.",
       "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "How Australian-inspired design comes to life in Surabaya, Indonesia",
-      "url": "https://www.channelnewsasia.com/remarkable-living/australian-inspired-home-surabaya-indonesia-6224216",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-07-04T22:34:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--D58yX4-R--/c_crop,h_568,w_1010,x_0,y_179/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/01/h1_australian-inspired-home-surabaya-indonesia.jpg?itok=pVFBjYdP",
-      "summary": "Architect Giovanni Gunawan designed a home in Surabaya, Indonesia. The owner wanted the openness and honesty of Australian architecture, but building in tropical Surabaya demanded a different response. Architect Giovanni Gunawan blended the best of both worlds in a home centred on privacy, family living and the climate. How Australian-inspired design comes to life in Surabaya, Indonesia.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "AI is rewriting China’s filmmaking rulebook, but the script isn’t finished",
-      "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-07-04T22:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--GXgA6a_J--/c_crop,h_899,w_1598,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/03/twl_1771.jpg?itok=diHO663N",
-      "summary": "China produced over 95 per cent of its new microdramas using More than 95 per cent of China's new microdramas in the first quarter of 2026 were AI-generated, compared with near zero a year ago. CNA speaks to the industry's key cast about the new plot twist. AI is rewriting China’s filmmaking rulebook, but the script isn’t finished.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -64,18 +112,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/x8se8r/article71182906.ece/alternates/LANDSCAPE_1200/6744_26_6_2026_18_25_44_1_ZORAWAR.JPG",
       "summary": "Military experts state drones and precision weapons cannot achieve the ultimate objective of war: controlling territory Drones, missiles and precision-guided weapons have transformed the modern battlefield, but military experts argue they cannot achieve the ultimate objective of war – controlling territory. Saurabh Trivedi examines why tanks and ground forces remain indispensable despite the rapid evolution of warfare, drawing on lessons from Ukraine and insights from senior Army officers.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Aung San Suu Kyi",
-      "url": "https://www.thehindu.com/news/international/aung-san-suu-kyi-a-symbol-of-resistance/article71183720.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-04T17:36:46+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/national/mp9t8p/article71183712.ece/alternates/LANDSCAPE_1200/aung%20san%20suu%20kyi_Art_print.jpg",
-      "summary": "Myanmar's junta has made territorial gains in the ongoing civil war. The junta, which has made some territorial gains in the civil war and held a farcical election to legitimise its coup, seeks international recognition, but it lacks what the NLD leader, now under house arrest, has always symbolised. popular support. Aung San Suu Kyi.",
-      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -272,42 +308,6 @@
       "translations": {}
     },
     {
-      "title": "Culture war killing America’s response to demographic decline",
-      "url": "https://asiatimes.com/2026/07/culture-war-killing-americas-response-to-demographic-decline/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-07-03T08:59:55+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/US-Immigration.jpg",
-      "summary": "The Supreme Court affirmed birthright citizenship under the 14th Amendment. This grants automatic US citizenship to anyone born in the country. It includes children of undocumented immigrants and temporary visa holders, groups the Trump administration had aimed to exclude. Birthright citizenship is the law of the land. The Supreme Court has once again ruled that the 14th Amendment gives automatic citizenship to anyone born in the US.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Crimea in emergency as Ukraine reaches for Putin’s ‘crown jewel’",
-      "url": "https://asiatimes.com/2026/07/crimea-in-emergency-as-ukraine-reaches-for-putins-crown-jewel/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-07-03T07:06:14+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Russia-Vladimir-Putin-Crimea.jpg",
-      "summary": "Vladimir Putin acknowledged Ukraine's drone attacks are affecting Russia's energy infrastructure. Vladimir Putin has finally acknowledged that Ukraine’s relentless drone attacks on Russia’s energy infrastructure are having an effect. Speaking to the ruling United Russia party on June 28, the Russian president confirmed that his country is facing “a certain shortage” of fuel and that “strikes on our infrastructure sites are creating problems.” In fact, the [] The post Crimea in emergency as Uk.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
-      "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-03T00:00:13+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/d29634c780d5f82a8438482e7ab53b70831d9456/178_51_390_312/master/390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80f79a485fcfaab59bd098059830a638",
-      "summary": "Narendra Modi received the Guardian of the Blue Horizon award in Seychelles. Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister. Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Seychelles presi.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "सह-मेजबान कनाडा का सफर समाप्त, लगातार दूसरी बार विश्व कप के क्वार्टर फाइनल में मोरक्को",
       "url": "https://www.amarujala.com/sports/fifa-world-cup-2026-canada-vs-morocco-highlights-today-football-match-result-key-moments-photos-2026-07-05",
       "source": "Amar Ujala Breaking",
@@ -362,6 +362,222 @@
       }
     },
     {
+      "title": "अमेरिका की आजादी के 250 साल पूरे, महाजश्न शुरू, कुछ ही देर में ट्रंप करेंगे संबोधित",
+      "url": "https://www.amarujala.com/live/world/america250-celebrations-begin-updates-trump-to-address-nation-as-us-marks-250-independence-day-2026-07-05",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-05T03:05:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/danalda-tarapa-amaraka-ka-rashhatarapata_8de920f3baa7e872299ec2d533efed9e.jpeg?w=1200&dpr=1.0",
+      "summary": "संयुक्त राज्य अमेरिका अपने 250वें स्वतंत्रता दिवस का जश्न मना रहा है। यह एक महत्वपूर्ण मील का पत्थर है। पूर्व राष्ट्रपति डोनाल्ड ट्रंप इस अवसर पर एक संबोधन देंगे। US Independence Day: आजादी के 250 साल पूरे, अमेरिका में महाजश्न शुरू, कुछ ही देर में ट्रंप करेंगे संबोधित। अमेरिका की आजादी के 250 साल पूरे, महाजश्न शुरू, कुछ ही देर में ट्रंप करेंगे संबोधित।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका की आजादी के 250 साल पूरे, महाजश्न शुरू, कुछ ही देर में ट्रंप करेंगे संबोधित",
+          "summary": "संयुक्त राज्य अमेरिका अपने 250वें स्वतंत्रता दिवस का जश्न मना रहा है। यह एक महत्वपूर्ण मील का पत्थर है। पूर्व राष्ट्रपति डोनाल्ड ट्रंप इस अवसर पर एक संबोधन देंगे। US Independence Day: आजादी के 250 साल पूरे, अमेरिका में महाजश्न शुरू, कुछ ही देर में ट्रंप करेंगे संबोधित। अमेरिका की आजादी के 250 साल पूरे, महाजश्न शुरू, कुछ ही देर में ट्रंप करेंगे संबोधित।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "रेलवे के बंद फाटक के नीचे से बाइक निकालने पर कितना जुर्माना लगता है? जानें क्या होती है कार्रवाई",
+      "url": "https://www.amarujala.com/photo-gallery/utility/railway-crossing-fine-penalties-and-rules-for-crossing-closed-railway-gates-in-india-2026-07-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-05T02:55:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/btha-fataka-para-karana-ka-saja_cd5b7b86795f4c1523412029470fba45.jpeg?w=1200&dpr=1.0",
+      "summary": "रेलवे फाटक के नीचे से बाइक निकालने पर भारतीय रेलवे सख्त कार्रवाई करता है। पकड़े जाने पर जुर्माना लगाया जाता है। यदि रेलवे को नुकसान होता है, तो वाहन मालिक से वसूली भी की जा सकती है। अक्सर ये देखने को मिलता है कि कुछ लोग रेलवे फाटक बंद होने के बाद भी उसके नीचे से बाइक निकालने की कोशिश करते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रेलवे के बंद फाटक के नीचे से बाइक निकालने पर कितना जुर्माना लगता है? जानें क्या होती है कार्रवाई",
+          "summary": "रेलवे फाटक के नीचे से बाइक निकालने पर भारतीय रेलवे सख्त कार्रवाई करता है। पकड़े जाने पर जुर्माना लगाया जाता है। यदि रेलवे को नुकसान होता है, तो वाहन मालिक से वसूली भी की जा सकती है। अक्सर ये देखने को मिलता है कि कुछ लोग रेलवे फाटक बंद होने के बाद भी उसके नीचे से बाइक निकालने की कोशिश करते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "राजस्थान में अगले 5 दिन भारी बारिश का अलर्ट, पूर्वी जिलों में अतिभारी बरसात की चेतावनी",
+      "url": "https://www.amarujala.com/rajasthan/jaipur/rajasthan-weather-heavy-rain-alert-for-next-5-days-as-monsoon-intensifies-orange-alert-in-six-districts-2026-07-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-05T02:37:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/rajasthan-news_b43f89dd6477dbe7d184580c58cecdf0.jpeg?w=1200&dpr=1.0",
+      "summary": "राजस्थान में अगले पांच दिनों तक मानसून सक्रिय रहेगा। छह जिलों के लिए ऑरेंज अलर्ट जारी किया गया है। पूर्वी राजस्थान में अतिभारी बारिश की चेतावनी है। राजस्थान में मानसून सक्रिय है। अगले पांच दिनों तक बारिश का दौर जारी रहेगा। छह जिलों में ऑरेंज और अधिकांश जिलों में यलो अलर्ट जारी किया गया है। पूर्वी राजस्थान में अतिभारी बारिश की आशंका है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राजस्थान में अगले 5 दिन भारी बारिश का अलर्ट, पूर्वी जिलों में अतिभारी बरसात की चेतावनी",
+          "summary": "राजस्थान में अगले पांच दिनों तक मानसून सक्रिय रहेगा। छह जिलों के लिए ऑरेंज अलर्ट जारी किया गया है। पूर्वी राजस्थान में अतिभारी बारिश की चेतावनी है। राजस्थान में मानसून सक्रिय है। अगले पांच दिनों तक बारिश का दौर जारी रहेगा। छह जिलों में ऑरेंज और अधिकांश जिलों में यलो अलर्ट जारी किया गया है। पूर्वी राजस्थान में अतिभारी बारिश की आशंका है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में बजा भारत का डंका: हडसन नदी पर INS सुदर्शिनी ने फहराया तिरंगा, नेवल रिव्यू में दिखा",
+      "url": "https://www.amarujala.com/world/ins-sudarshini-represents-india-at-us-international-naval-review-250-sail4th-new-york-2026-07-05",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-05T02:35:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/aaiienaesa-satharashana_7bc6ec898c7f5b72bc852964193c9752.jpeg?w=1200&dpr=1.0",
+      "summary": "भारतीय नौसेना के जहाज आईएनएस सुदर्शिनी ने न्यूयॉर्क में हडसन नदी पर एक नौसैनिक समीक्षा में भाग लिया। इसने अंतरराष्ट्रीय नौसैनिक कार्यक्रम में भारत का प्रतिनिधित्व किया। अमेरिका में बजा भारत का डंका: हडसन नदी पर INS सुदर्शिनी ने फहराया तिरंगा, नेवल रिव्यू में दिखा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में बजा भारत का डंका: हडसन नदी पर INS सुदर्शिनी ने फहराया तिरंगा, नेवल रिव्यू में दिखा",
+          "summary": "भारतीय नौसेना के जहाज आईएनएस सुदर्शिनी ने न्यूयॉर्क में हडसन नदी पर एक नौसैनिक समीक्षा में भाग लिया। इसने अंतरराष्ट्रीय नौसैनिक कार्यक्रम में भारत का प्रतिनिधित्व किया। अमेरिका में बजा भारत का डंका: हडसन नदी पर INS सुदर्शिनी ने फहराया तिरंगा, नेवल रिव्यू में दिखा।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "क्या 'अल्फा' को मिला वीकएंड का फायदा? 'बेबी डू डाई डू' ने किया निराश; जानें बाकी फिल्मों का बॉक्स",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/alpha-baby-do-die-do-and-welcome-to-the-jungle-box-office-collection-2026-07-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-05T02:31:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/bkasa-oifasa-kalkashana_2ec94b934056dda66b9c01a8575f7d71.jpeg?w=1200&dpr=1.0",
+      "summary": "फिल्म 'अल्फा' ने सप्ताहांत में बॉक्स ऑफिस पर अच्छी शुरुआत की है। शुक्रवार को रिलीज हुई फिल्म 'बेबी डू डाई डू' का प्रदर्शन निराशाजनक रहा। बॉक्स ऑफिस पर 'अल्फा' ने अच्छी शुरुआत की है। शुक्रवार को रिलीज हुई फिल्म 'बेबी डू डाई डू' का कलेक्शन शुरू से काफी निराशाजनक रहा है। क्या 'अल्फा' को मिला वीकएंड का फायदा? 'बेबी डू डाई डू' ने किया निराश; जानें बाकी फिल्मों का बॉक्स।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या 'अल्फा' को मिला वीकएंड का फायदा? 'बेबी डू डाई डू' ने किया निराश; जानें बाकी फिल्मों का बॉक्स",
+          "summary": "फिल्म 'अल्फा' ने सप्ताहांत में बॉक्स ऑफिस पर अच्छी शुरुआत की है। शुक्रवार को रिलीज हुई फिल्म 'बेबी डू डाई डू' का प्रदर्शन निराशाजनक रहा। बॉक्स ऑफिस पर 'अल्फा' ने अच्छी शुरुआत की है। शुक्रवार को रिलीज हुई फिल्म 'बेबी डू डाई डू' का कलेक्शन शुरू से काफी निराशाजनक रहा है। क्या 'अल्फा' को मिला वीकएंड का फायदा? 'बेबी डू डाई डू' ने किया निराश; जानें बाकी फिल्मों का बॉक्स।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भीषण लू में भी खामेनेई के अंतिम दर्शन को पहुंचे हजारों लोग, ट्रंप बोले- जब तक मातम, तब तक हमले नहीं",
+      "url": "https://hindi.news18.com/world/middle-east-khamenei-funeral-live-irani-people-brave-heatwave-to-come-for-last-rites-donald-trump-iran-us-conflict-middle-east-livenews-ws-l-10629060.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-05T02:27:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/khamenei-last-2026-07-08dd51cd45b39e8d0abc5f039ad3df3c-1200x800.jpg",
+      "summary": "ईरान में दिवंगत सर्वोच्च नेता अयातुल्लाह अली खामेनेई के अंतिम दर्शन के लिए हजारों लोग भीषण गर्मी के बावजूद पहुंच रहे हैं Khamenei Funeral Live: ईरान में दिवंगत सर्वोच्च नेता अयातुल्लाह अली खामनेई के मातम का कार्यक्रम चल रहा है, 9 जुलाई को उन्हें सुपुर्द-ए-खाक किया जाएगा. ऐसे में हजारों लोग उनके अंतिम दर्शन के लिए पहुंच रहे हैं. इस बीच अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ऐलान किया है कि जब तक अंतिम संस्कार का कार्यक्रम चलेगा, तब तक ईरान पर कोई हमला नहीं होगा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भीषण लू में भी खामेनेई के अंतिम दर्शन को पहुंचे हजारों लोग, ट्रंप बोले- जब तक मातम, तब तक हमले नहीं",
+          "summary": "ईरान में दिवंगत सर्वोच्च नेता अयातुल्लाह अली खामेनेई के अंतिम दर्शन के लिए हजारों लोग भीषण गर्मी के बावजूद पहुंच रहे हैं Khamenei Funeral Live: ईरान में दिवंगत सर्वोच्च नेता अयातुल्लाह अली खामनेई के मातम का कार्यक्रम चल रहा है, 9 जुलाई को उन्हें सुपुर्द-ए-खाक किया जाएगा. ऐसे में हजारों लोग उनके अंतिम दर्शन के लिए पहुंच रहे हैं. इस बीच अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ऐलान किया है कि जब तक अंतिम संस्कार का कार्यक्रम चलेगा, तब तक ईरान पर कोई हमला नहीं होगा.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बिहार के कितने जिले आज बारिश-वज्रपात का अलर्ट, पटना में गर्मी से लोग परेशान; जानिए मौसम का हाल",
+      "url": "https://www.amarujala.com/bihar/bihar-weather-news-alert-issued-for-rain-and-lightning-in-several-districts-of-bihar-today-weather-forecast-2026-07-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-05T02:21:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/01/bihar-news_d17e7e382149f2a841a700b088e3d3d8.jpeg?w=1200&dpr=1.0",
+      "summary": "मौसम विभाग ने बिहार के कई जिलों में बारिश और वज्रपात का अलर्ट जारी किया है। पटना में लोग गर्मी से परेशान हैं। विभाग ने लोगों से सतर्क रहने और खुले स्थानों पर जाने से बचने की सलाह दी है। Weather Forecast: मौसम विभाग ने लोगों से सतर्क रहने की अपील करते हुए कहा कि खराब मौसम के दौरान खुले स्थानों पर जाने से बचें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बिहार के कितने जिले आज बारिश-वज्रपात का अलर्ट, पटना में गर्मी से लोग परेशान; जानिए मौसम का हाल",
+          "summary": "मौसम विभाग ने बिहार के कई जिलों में बारिश और वज्रपात का अलर्ट जारी किया है। पटना में लोग गर्मी से परेशान हैं। विभाग ने लोगों से सतर्क रहने और खुले स्थानों पर जाने से बचने की सलाह दी है। Weather Forecast: मौसम विभाग ने लोगों से सतर्क रहने की अपील करते हुए कहा कि खराब मौसम के दौरान खुले स्थानों पर जाने से बचें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'थर्ड वर्ल्ड कंट्री बन रहा यूरोप': ट्रंप ने आप्रवासन नीति पर उठाए सवाल, क्या अमेरिका का भी होगा यही",
+      "url": "https://www.amarujala.com/world/europe-becoming-third-world-country-trump-reiterates-stance-on-immigration-2026-07-05",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-05T01:57:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/danalda-tarapa-amaraka-rashhatarapata_26d6e2f46e2d03028a35900290d31bee.jpeg?w=1200&dpr=1.0",
+      "summary": "डोनाल्ड ट्रंप ने यूरोप की आप्रवासन नीतियों पर सवाल उठाए हैं। उन्होंने कहा कि यूरोप एक 'थर्ड वर्ल्ड कंट्री' बन रहा है। ट्रंप ने अप्रत्यक्ष रूप से अमेरिका की आप्रवासन नीतियों पर भी चिंता व्यक्त की। 'थर्ड वर्ल्ड कंट्री बन रहा यूरोप': ट्रंप ने आप्रवासन नीति पर उठाए सवाल, क्या अमेरिका का भी होगा यही।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'थर्ड वर्ल्ड कंट्री बन रहा यूरोप': ट्रंप ने आप्रवासन नीति पर उठाए सवाल, क्या अमेरिका का भी होगा यही",
+          "summary": "डोनाल्ड ट्रंप ने यूरोप की आप्रवासन नीतियों पर सवाल उठाए हैं। उन्होंने कहा कि यूरोप एक 'थर्ड वर्ल्ड कंट्री' बन रहा है। ट्रंप ने अप्रत्यक्ष रूप से अमेरिका की आप्रवासन नीतियों पर भी चिंता व्यक्त की। 'थर्ड वर्ल्ड कंट्री बन रहा यूरोप': ट्रंप ने आप्रवासन नीति पर उठाए सवाल, क्या अमेरिका का भी होगा यही।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "केतन की मौत के 17 दिन बाद दादा ने भी तोड़ा दम, परिवार बोला- सदमे से बिगड़ी थी तबीयत",
+      "url": "https://www.amarujala.com/india-news/ketan-agarwal-case-grandfather-devichand-dies-at-71-amid-ongoing-murder-investigation-2026-07-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-05T01:51:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/katana-agaraval-ka-thatha-ka-mata_041a36e7d6d852ad3554633b64e9f0b4.jpeg?w=1200&dpr=1.0",
+      "summary": "केतन की मौत के 17 दिन बाद उसके दादा का निधन हो गया। परिवार का कहना है कि केतन की मृत्यु के सदमे से उनकी तबीयत बिगड़ गई थी। यह घटना परिवार के लिए गहरा दुख लेकर आई है। Ketan Murder Case: केतन की मौत के 17 दिन बाद दादा ने भी तोड़ा दम, परिवार बोला- सदमे से बिगड़ी थी तबीयत।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "केतन की मौत के 17 दिन बाद दादा ने भी तोड़ा दम, परिवार बोला- सदमे से बिगड़ी थी तबीयत",
+          "summary": "केतन की मौत के 17 दिन बाद उसके दादा का निधन हो गया। परिवार का कहना है कि केतन की मृत्यु के सदमे से उनकी तबीयत बिगड़ गई थी। यह घटना परिवार के लिए गहरा दुख लेकर आई है। Ketan Murder Case: केतन की मौत के 17 दिन बाद दादा ने भी तोड़ा दम, परिवार बोला- सदमे से बिगड़ी थी तबीयत।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "घायल, छिपे हुए, मर चुके हैं मोजतबा? पिता अयातुल्ला खामेनेई के जनाजे से गुमशुदगी ने बढ़ाया शक",
+      "url": "https://hindi.news18.com/world/middle-east-is-mojtaba-injured-hiding-or-dead-his-absence-from-father-ayatollah-khamenei-funeral-raised-suspicions-10629010.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-05T01:49:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Khamenei-2026-07-5b1d54a4e8617619ab1e58e1aaa19646-1200x800.jpg",
+      "summary": "ईरान के सुप्रीम लीडर अयातुल्ला अली खामेनेई के छह दिवसीय अंतिम संस्कार में उनके बेटे मोजतबा खाम Ayatollah Khamenei Funeral: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामेनेई के अंतिम संस्कार के बीच उनके बेटे और उत्तराधिकारी मोजतबा खामेनेई की गैरमौजूदगी ने कई सवाल खड़े कर दिए हैं. ईरान में छह दिन तक चलने वाले अंतिम संस्कार में करीब 1.5 करोड़ लोगों के शामिल होने का दावा किया गया है, लेकिन मोजतबा का कोई अता पता नहीं है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "घायल, छिपे हुए, मर चुके हैं मोजतबा? पिता अयातुल्ला खामेनेई के जनाजे से गुमशुदगी ने बढ़ाया शक",
+          "summary": "ईरान के सुप्रीम लीडर अयातुल्ला अली खामेनेई के छह दिवसीय अंतिम संस्कार में उनके बेटे मोजतबा खाम Ayatollah Khamenei Funeral: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामेनेई के अंतिम संस्कार के बीच उनके बेटे और उत्तराधिकारी मोजतबा खामेनेई की गैरमौजूदगी ने कई सवाल खड़े कर दिए हैं. ईरान में छह दिन तक चलने वाले अंतिम संस्कार में करीब 1.5 करोड़ लोगों के शामिल होने का दावा किया गया है, लेकिन मोजतबा का कोई अता पता नहीं है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "दान में मिले गहने गला दिए गए, बैंक कर्मियों सहित आठ रडार पर; ऑडिट में खुले ये राज",
+      "url": "https://www.amarujala.com/lucknow/ram-temple-offerings-donated-jewelry-melted-eight-people-including-bank-employees-are-under-investigation-2026-07-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-05T01:48:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/04/rama-mathara-caugdhhava-cara_a3c09929612794dd6170884ac73c9b47.jpeg?w=1200&dpr=1.0",
+      "summary": "राम मंदिर में दान में मिले गहनों को गलाने के मामले में बैंक कर्मियों सहित आठ लोग जांच के दायरे में हैं। ऑडिट में यह राज खुला है। एसआईटी पांच वर्षों के वित्तीय रिकॉर्ड की पड़ताल कर रही है। Ram Temple offerings: राम मंदिर चढ़ावा चोरी के मामले में जांच करने गई एसआईटी ने ट्रस्ट के गठन से अब तक के करीब पांच वर्षों के वित्तीय रिकॉर्ड, बैंक खातों, लेनदेन और ऑडिट दस्तावेजों की गहन पड़ताल कर रही है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दान में मिले गहने गला दिए गए, बैंक कर्मियों सहित आठ रडार पर; ऑडिट में खुले ये राज",
+          "summary": "राम मंदिर में दान में मिले गहनों को गलाने के मामले में बैंक कर्मियों सहित आठ लोग जांच के दायरे में हैं। ऑडिट में यह राज खुला है। एसआईटी पांच वर्षों के वित्तीय रिकॉर्ड की पड़ताल कर रही है। Ram Temple offerings: राम मंदिर चढ़ावा चोरी के मामले में जांच करने गई एसआईटी ने ट्रस्ट के गठन से अब तक के करीब पांच वर्षों के वित्तीय रिकॉर्ड, बैंक खातों, लेनदेन और ऑडिट दस्तावेजों की गहन पड़ताल कर रही है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'नेतन्याहू को पता है कि बॉस कौन है?' ट्रंप ने दिखाई इजरायल को अकड़, ईरान युद्ध के बाद होनी है पहली",
+      "url": "https://hindi.news18.com/world/america-trump-netanyahu-first-meet-on-cards-after-iran-war-us-president-claims-he-knows-who-is-the-boss-ws-l-10629113.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-05T01:39:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/benjamin-netanyahu-angry-over-us-iran-deal-said-trump-and-me-not-same-2026-06-37f5489ed6779474dc8771704c9a7a50-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने बेंजामिन नेतन्याहू से मुलाकात से पहले कहा कि नेतन्याहू जानते हैं कि 'बॉस कौन है'। यह बयान ईरान युद्ध के बाद उनकी पहली आमने-सामने की मुलाकात से पहले आया है। Donald Trump- Benjamin Netanyahu Meet: ईरान पर 28 फरवरी को किए गए हमले के 4 महीने बाद पहली बार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और इजरायली पीएम बेंजामिन नेतन्याहू की आमने-सामने की मुलाकात हो सकती है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'नेतन्याहू को पता है कि बॉस कौन है?' ट्रंप ने दिखाई इजरायल को अकड़, ईरान युद्ध के बाद होनी है पहली",
+          "summary": "डोनाल्ड ट्रंप ने बेंजामिन नेतन्याहू से मुलाकात से पहले कहा कि नेतन्याहू जानते हैं कि 'बॉस कौन है'। यह बयान ईरान युद्ध के बाद उनकी पहली आमने-सामने की मुलाकात से पहले आया है। Donald Trump- Benjamin Netanyahu Meet: ईरान पर 28 फरवरी को किए गए हमले के 4 महीने बाद पहली बार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और इजरायली पीएम बेंजामिन नेतन्याहू की आमने-सामने की मुलाकात हो सकती है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "धन्वंतरि ने लिया काशी में अवतार, मानवता को मिला आरोग्य का वरदान",
       "url": "https://www.amarujala.com/columns/opinion/lord-dhanvantari-incarnation-kashi-ayurveda-origin-mythology-culture-2026-07-05",
       "source": "Amar Ujala National",
@@ -380,45 +596,9 @@
       }
     },
     {
-      "title": "भीषण लू में भी खामेनेई के अंतिम दर्शन को पहुंचे हजारों लोग, ट्रंप बोले- जब तक मातम, तब तक हमले नहीं",
-      "url": "https://hindi.news18.com/world/middle-east-khamenei-funeral-live-irani-people-brave-heatwave-to-come-for-last-rites-donald-trump-iran-us-conflict-middle-east-livenews-ws-l-10629060.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-05T01:16:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/khamenei-last-2026-07-08dd51cd45b39e8d0abc5f039ad3df3c-1200x800.jpg",
-      "summary": "ईरान में दिवंगत सर्वोच्च नेता अयातुल्लाह अली खामेनेई के अंतिम दर्शन के लिए हजारों लोग भीषण गर्मी के बावजूद पहुंच रहे हैं Khamenei Funeral Live: ईरान में दिवंगत सर्वोच्च नेता अयातुल्लाह अली खामनेई के मातम का कार्यक्रम चल रहा है, 9 जुलाई को उन्हें सुपुर्द-ए-खाक किया जाएगा. ऐसे में हजारों लोग उनके अंतिम दर्शन के लिए पहुंच रहे हैं. इस बीच अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ऐलान किया है कि जब तक अंतिम संस्कार का कार्यक्रम चलेगा, तब तक ईरान पर कोई हमला नहीं होगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भीषण लू में भी खामेनेई के अंतिम दर्शन को पहुंचे हजारों लोग, ट्रंप बोले- जब तक मातम, तब तक हमले नहीं",
-          "summary": "ईरान में दिवंगत सर्वोच्च नेता अयातुल्लाह अली खामेनेई के अंतिम दर्शन के लिए हजारों लोग भीषण गर्मी के बावजूद पहुंच रहे हैं Khamenei Funeral Live: ईरान में दिवंगत सर्वोच्च नेता अयातुल्लाह अली खामनेई के मातम का कार्यक्रम चल रहा है, 9 जुलाई को उन्हें सुपुर्द-ए-खाक किया जाएगा. ऐसे में हजारों लोग उनके अंतिम दर्शन के लिए पहुंच रहे हैं. इस बीच अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ऐलान किया है कि जब तक अंतिम संस्कार का कार्यक्रम चलेगा, तब तक ईरान पर कोई हमला नहीं होगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "घायल, छिपे हुए, मर चुके हैं मोजतबा? पिता अयातुल्ला खामेनेई के जनाजे से गुमशुदगी ने बढ़ाया शक",
-      "url": "https://hindi.news18.com/world/middle-east-is-mojtaba-injured-hiding-or-dead-his-absence-from-father-ayatollah-khamenei-funeral-raised-suspicions-10629010.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-05T01:14:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Khamenei-2026-07-5b1d54a4e8617619ab1e58e1aaa19646-1200x800.jpg",
-      "summary": "ईरान के सुप्रीम लीडर अयातुल्ला अली खामेनेई के छह दिवसीय अंतिम संस्कार में उनके बेटे मोजतबा खाम Ayatollah Khamenei Funeral: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामेनेई के अंतिम संस्कार के बीच उनके बेटे और उत्तराधिकारी मोजतबा खामेनेई की गैरमौजूदगी ने कई सवाल खड़े कर दिए हैं. ईरान में छह दिन तक चलने वाले अंतिम संस्कार में करीब 1.5 करोड़ लोगों के शामिल होने का दावा किया गया है, लेकिन मोजतबा का कोई अता पता नहीं है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "घायल, छिपे हुए, मर चुके हैं मोजतबा? पिता अयातुल्ला खामेनेई के जनाजे से गुमशुदगी ने बढ़ाया शक",
-          "summary": "ईरान के सुप्रीम लीडर अयातुल्ला अली खामेनेई के छह दिवसीय अंतिम संस्कार में उनके बेटे मोजतबा खाम Ayatollah Khamenei Funeral: ईरान के पूर्व सुप्रीम लीडर अयातुल्ला अली खामेनेई के अंतिम संस्कार के बीच उनके बेटे और उत्तराधिकारी मोजतबा खामेनेई की गैरमौजूदगी ने कई सवाल खड़े कर दिए हैं. ईरान में छह दिन तक चलने वाले अंतिम संस्कार में करीब 1.5 करोड़ लोगों के शामिल होने का दावा किया गया है, लेकिन मोजतबा का कोई अता पता नहीं है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "गाजा-लेबनान में इस्राइल की कार्रवाई पर भड़के पेजेशकियन, अंतरराष्ट्रीय संस्थाओं को घेरा: क्या आरोप",
       "url": "https://www.amarujala.com/world/iranian-president-pezeshkian-questions-international-institutions-silence-over-israeli-actions-in-west-asia-2026-07-05",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-05T01:11:36+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/masoud-pezeshkian_10973bd1194d42a4cc342e1432fc82a1.jpeg?w=1200&dpr=1.0",
@@ -472,7 +652,7 @@
     {
       "title": "भारत का सबसे बड़ा ईंधन सप्लायर खुद क्यों तेल आयात पर निर्भर हुआ, यूक्रेन युद्ध से कितना नुकसान?",
       "url": "https://www.amarujala.com/world/russia-ukraine-war-losses-for-moscow-as-fuel-rationing-and-oil-import-from-india-takes-centre-stage-energy-and-2026-07-05",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-05T00:43:15+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/russia-ukraine-war-volodymyr-zelensky-vladimir-putin_9af683f4f9d700e9da6782d1a21e10fd.jpeg?w=1200&dpr=1.0",
@@ -490,7 +670,7 @@
     {
       "title": "उद्धव ठाकरे करेंगे राम रक्षा आंदोलन, महिला टी20 विश्वकप फाइनल में ऑस्ट्रेलिया-इंग्लैंड का मुकाबला",
       "url": "https://www.amarujala.com/india-news/05-july-2026-major-events-2026-07-04",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-07-05T00:35:35+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/04/aaja-ka-khabra_00708e76402ef6ae02450eddd7292a1e.gif?w=1200&dpr=1.0",
@@ -562,7 +742,7 @@
     {
       "title": "SBI से करार खत्म कर सकता है राम मंदिर ट्रस्ट; ट्रंप बोले- नेतन्याहू जानते हैं बॉस कौन है; सुर्खियां",
       "url": "https://www.amarujala.com/photo-gallery/india-news/top-headlines-today-important-and-big-news-stories-of-5-july-2026-updates-on-amar-ujala-2026-07-05",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-07-05T00:27:13+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
@@ -574,186 +754,6 @@
           "title": "SBI से करार खत्म कर सकता है राम मंदिर ट्रस्ट; ट्रंप बोले- नेतन्याहू जानते हैं बॉस कौन है; सुर्खियां",
           "summary": "राम मंदिर ट्रस्ट भारतीय स्टेट बैंक के साथ अपना करार खत्म कर सकता है। Top News: SBI से करार खत्म कर सकता है राम मंदिर ट्रस्ट; ट्रंप बोले- नेतन्याहू जानते हैं बॉस कौन है; सुर्खियां।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "रूस में ईंधन संकट के बीच क्या भारत की रिफाइनरी मॉस्को भेज रही पेट्रोल? समझिए क्या है पूरा मामला",
-      "url": "https://www.amarujala.com/business/business-diary/russia-s-unprecedented-fuel-crisis-is-indian-refinery-nayara-energy-secretly-exporting-petrol-to-moscow-2026-07-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-05T00:20:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/04/russian-oil_7a06a674835e118255fee8be24160aaa.jpeg?w=1200&dpr=1.0",
-      "summary": "यूक्रेनी ड्रोन हमलों के बाद रूसी रिफाइनरियों पर ईंधन संकट गहरा गया है। रूसी रिफाइनरियों पर यूक्रेनी ड्रोन हमलों के बाद रूस में गहराया बड़ा ईंधन संकट। जानें कैसे भारतीय रिफाइनरी नायरा एनर्जी अंतरराष्ट्रीय व्यापारियों के जरिए रूस को पेट्रोल निर्यात कर रही है। पूरा मामला समझने के लिए पढ़ें एक्सप्लेनर। रूस में ईंधन संकट के बीच क्या भारत की रिफाइनरी मॉस्को भेज रही पेट्रोल?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस में ईंधन संकट के बीच क्या भारत की रिफाइनरी मॉस्को भेज रही पेट्रोल? समझिए क्या है पूरा मामला",
-          "summary": "यूक्रेनी ड्रोन हमलों के बाद रूसी रिफाइनरियों पर ईंधन संकट गहरा गया है। रूसी रिफाइनरियों पर यूक्रेनी ड्रोन हमलों के बाद रूस में गहराया बड़ा ईंधन संकट। जानें कैसे भारतीय रिफाइनरी नायरा एनर्जी अंतरराष्ट्रीय व्यापारियों के जरिए रूस को पेट्रोल निर्यात कर रही है। पूरा मामला समझने के लिए पढ़ें एक्सप्लेनर। रूस में ईंधन संकट के बीच क्या भारत की रिफाइनरी मॉस्को भेज रही पेट्रोल?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "नियंत्रण रेखा के दोनों ओर आंदोलन की तैयारी, भारत के लोगों से भी आंदोलन में शामिल होने की अपील",
-      "url": "https://www.amarujala.com/india-news/pak-occupied-kashmir-protests-call-for-indian-support-2026-07-05",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-05T00:17:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/pok-protest_a71899de3767f220e8df24264f9d9dec.jpeg?w=1200&dpr=1.0",
-      "summary": "पाकिस्तान अधिकृत कश्मीर में विद्रोह के बीच नियंत्रण रेखा के दोनों ओर आंदोलन की तैयारी चल रही है। पीओके विद्रोह: नियंत्रण रेखा के दोनों ओर आंदोलन की तैयारी, भारत के लोगों से भी आंदोलन में शामिल होने की अपील।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नियंत्रण रेखा के दोनों ओर आंदोलन की तैयारी, भारत के लोगों से भी आंदोलन में शामिल होने की अपील",
-          "summary": "पाकिस्तान अधिकृत कश्मीर में विद्रोह के बीच नियंत्रण रेखा के दोनों ओर आंदोलन की तैयारी चल रही है। पीओके विद्रोह: नियंत्रण रेखा के दोनों ओर आंदोलन की तैयारी, भारत के लोगों से भी आंदोलन में शामिल होने की अपील।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "संसद में दो तिहाई बहुमत के लिए मोदी सरकार ने लगाया जोर, अब NCP पवार के बागियों पर नजर",
-      "url": "https://www.amarujala.com/india-news/modi-government-aims-two-thirds-majority-parliament-eyes-on-ncp-sharad-pawar-rebel-mps-2026-07-05",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-05T00:16:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/parliament_1a81d00af31b63d4eb67ca83678586dd.jpeg?w=1200&dpr=1.0",
-      "summary": "मोदी सरकार संसद में दो तिहाई बहुमत हासिल करने के लिए प्रयास कर रही है। क्या है BJP की रणनीति?: संसद में दो तिहाई बहुमत के लिए मोदी सरकार ने लगाया जोर, अब NCP पवार के बागियों पर नजर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संसद में दो तिहाई बहुमत के लिए मोदी सरकार ने लगाया जोर, अब NCP पवार के बागियों पर नजर",
-          "summary": "मोदी सरकार संसद में दो तिहाई बहुमत हासिल करने के लिए प्रयास कर रही है। क्या है BJP की रणनीति?: संसद में दो तिहाई बहुमत के लिए मोदी सरकार ने लगाया जोर, अब NCP पवार के बागियों पर नजर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप के संबोधन से पहले बिगड़ा मौसम, तूफान की संभावना के चलते खाली कराया नेशनल मॉल",
-      "url": "https://www.amarujala.com/world/evacuation-ordered-at-national-mall-as-storms-gather-ahead-of-donald-trump-s-america-250-speech-us-independenc-2026-07-05",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-05T00:09:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/donald-trump_3c181d93f0475b947ebaaf9f6b95802e.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी स्वतंत्रता दिवस समारोह के दौरान नेशनल मॉल को खाली कराया गया। ट्रंप के संबोधन से पहले बिगड़ा मौसम, तूफान की संभावना के चलते खाली कराया नेशनल मॉल।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप के संबोधन से पहले बिगड़ा मौसम, तूफान की संभावना के चलते खाली कराया नेशनल मॉल",
-          "summary": "अमेरिकी स्वतंत्रता दिवस समारोह के दौरान नेशनल मॉल को खाली कराया गया। ट्रंप के संबोधन से पहले बिगड़ा मौसम, तूफान की संभावना के चलते खाली कराया नेशनल मॉल।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "खामेनेई के जनाजे में 70 देशों के प्रतिनिधियों की मौजूदगी, अराघची ने जताया आभार; क्या कहा?",
-      "url": "https://www.amarujala.com/world/iranian-fm-araghchi-expresses-gratitude-to-over-70-nations-for-attending-khamenei-s-funeral-2026-07-05",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-04T23:49:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/abbas-araghachi_87e37fae284a88a8e7d80579c970e80f.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान के सर्वोच्च नेता खामेनेई के जनाजे में 70 देशों के प्रतिनिधियों ने भाग लिया। Khamenei Funeral: खामेनेई के जनाजे में 70 देशों के प्रतिनिधियों की मौजूदगी, अराघची ने जताया आभार; क्या कहा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खामेनेई के जनाजे में 70 देशों के प्रतिनिधियों की मौजूदगी, अराघची ने जताया आभार; क्या कहा?",
-          "summary": "ईरान के सर्वोच्च नेता खामेनेई के जनाजे में 70 देशों के प्रतिनिधियों ने भाग लिया। Khamenei Funeral: खामेनेई के जनाजे में 70 देशों के प्रतिनिधियों की मौजूदगी, अराघची ने जताया आभार; क्या कहा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आज ही के दिन बोया गया था वो जहर, जिसे अब तक काट रहा पाकिस्तान, कहानी जुल्फिकार भुट्टो के तख्तापलट की",
-      "url": "https://hindi.news18.com/world/pakistan-army-chief-zia-ul-haq-took-power-by-removing-prime-minister-zulfikar-ali-bhutto-from-power-10628849.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-04T22:33:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-Coup-2026-07-db71f5687144d879e8a0f45090c84f97-1200x800.jpg",
-      "summary": "5 जुलाई 1977 को पाकिस्तान में सेना प्रमुख जिया उल हक ने सत्ता संभाली। आज ही के दिन यानी 5 जुलाई और साल था 1977, जब पाकिस्तान की राजनीति में सेना का दखल बढ़ा था. प्रधानमंत्री जुल्फिकार अली भुट्टो को सत्ता से हटाकर सेना प्रमुख जिया उल हक ने सत्ता अपने हाथ में ली थी. इसी के साथ पाकिस्तान में लोकतंत्र का खात्मा और सैनिक युग शुरू हुआ.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज ही के दिन बोया गया था वो जहर, जिसे अब तक काट रहा पाकिस्तान, कहानी जुल्फिकार भुट्टो के तख्तापलट की",
-          "summary": "5 जुलाई 1977 को पाकिस्तान में सेना प्रमुख जिया उल हक ने सत्ता संभाली। आज ही के दिन यानी 5 जुलाई और साल था 1977, जब पाकिस्तान की राजनीति में सेना का दखल बढ़ा था. प्रधानमंत्री जुल्फिकार अली भुट्टो को सत्ता से हटाकर सेना प्रमुख जिया उल हक ने सत्ता अपने हाथ में ली थी. इसी के साथ पाकिस्तान में लोकतंत्र का खात्मा और सैनिक युग शुरू हुआ.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "उधर खत्म हुई जंग, इधर भारत-इजरायल की डील चालू, एक-दूसरे पर खूब पैसा लुटाएंगे दो दोस्त",
-      "url": "https://hindi.news18.com/world/middle-east-india-israel-free-mega-investment-pact-officially-comes-into-effect-free-trade-agreement-next-10628890.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-04T22:23:35+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/India-Israel-Deal-2026-07-7bb5c2a67d6dcabf42e733e3e78147de-1200x800.jpg",
-      "summary": "भारत और इजरायल के बीच एक ऐतिहासिक निवेश समझौता 4 जुलाई 2026 से पूरी तरह लागू हो गया भारत और इजरायल की के बीच हुआ ऐतिहासिक इन्वेस्टमेंट समझौता शनिवार, 4 जुलाई 2026 से पूरी तरह लागू हो गया है. इस महा-डील के एक्टिव होते ही दोनों देशों के बिजनेसमैन को बिना किसी डर के खुलकर पैसा लगाने का शानदार माहौल मिलेगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उधर खत्म हुई जंग, इधर भारत-इजरायल की डील चालू, एक-दूसरे पर खूब पैसा लुटाएंगे दो दोस्त",
-          "summary": "भारत और इजरायल के बीच एक ऐतिहासिक निवेश समझौता 4 जुलाई 2026 से पूरी तरह लागू हो गया भारत और इजरायल की के बीच हुआ ऐतिहासिक इन्वेस्टमेंट समझौता शनिवार, 4 जुलाई 2026 से पूरी तरह लागू हो गया है. इस महा-डील के एक्टिव होते ही दोनों देशों के बिजनेसमैन को बिना किसी डर के खुलकर पैसा लगाने का शानदार माहौल मिलेगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "बेंजामिन नेतन्याहू ने डोनाल्ड ट्रंप को लगाया फोन, अगले हफ्ते व्हाइट हाउस में हो सकती है मीटिंग",
-      "url": "https://www.patrika.com/world-news/donald-trump-and-benjamin-netanyahu-talk-on-phone-could-hold-meeting-next-week-in-white-house-20721587",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-04T22:07:49+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/trump-netanyahu-talk.webp",
-      "summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने शुक्रवार को अमेरिकी राष्ट्रपति अमेरिका (United States of America) के 250वें स्वतंत्रता दिवस के अवसर पर कई राष्ट्राध्यक्षों ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) को बधाई दी, जिनमें इज़रायल (Israel) के पीएम बेंजामिन नेतन्याहू (Benjamin Netanyahu) भी शामिल है। शुक्रवार को नेतन्याहू ने ट्रंप से फोन पर बात की, जिसके बारे में खुद अमेरिकी राष्ट्रपति ने शनिवार को एक इंटरव्यू के दौरान बताया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बेंजामिन नेतन्याहू ने डोनाल्ड ट्रंप को लगाया फोन, अगले हफ्ते व्हाइट हाउस में हो सकती है मीटिंग",
-          "summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने शुक्रवार को अमेरिकी राष्ट्रपति अमेरिका (United States of America) के 250वें स्वतंत्रता दिवस के अवसर पर कई राष्ट्राध्यक्षों ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) को बधाई दी, जिनमें इज़रायल (Israel) के पीएम बेंजामिन नेतन्याहू (Benjamin Netanyahu) भी शामिल है। शुक्रवार को नेतन्याहू ने ट्रंप से फोन पर बात की, जिसके बारे में खुद अमेरिकी राष्ट्रपति ने शनिवार को एक इंटरव्यू के दौरान बताया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "खाड़ी से लेकर अमेरिका और यूरोप तक भारत बढ़ाएगा अपना दम, विदेश मंत्री एस. जयशंकर का 6 देशों का",
-      "url": "https://hindi.news18.com/news/nation/west-asia-geopolitics-gulf-to-us-and-europe-india-boost-its-global-stature-s-jaishankar-tour-of-6-nation-10628944.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-04T22:06:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/S-Jaishankar-2026-07-a994d09a2dd619bf06e08cbfb73e4651-1200x800.jpg",
-      "summary": "विदेश मंत्री एस. जयशंकर रविवार से छह देशों की यात्रा पर निकलेंगे। पश्चिम एशिया में बदलते भू-राजनीतिक समीकरणों और वैश्विक कूटनीति के नए दौर के बीच भारत ने अपनी रणनीतिक सक्रियता और तेज कर दी है. जयशंकर रविवार से छह देशों की महत्वपूर्ण यात्रा पर रवाना होंगे, जिसमें कतर, बहरीन, कुवैत, ओमान, बेल्जियम और अमेरिका शामिल हैं. जयशंकर का 6 देशों का।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खाड़ी से लेकर अमेरिका और यूरोप तक भारत बढ़ाएगा अपना दम, विदेश मंत्री एस. जयशंकर का 6 देशों का",
-          "summary": "विदेश मंत्री एस. जयशंकर रविवार से छह देशों की यात्रा पर निकलेंगे। पश्चिम एशिया में बदलते भू-राजनीतिक समीकरणों और वैश्विक कूटनीति के नए दौर के बीच भारत ने अपनी रणनीतिक सक्रियता और तेज कर दी है. जयशंकर रविवार से छह देशों की महत्वपूर्ण यात्रा पर रवाना होंगे, जिसमें कतर, बहरीन, कुवैत, ओमान, बेल्जियम और अमेरिका शामिल हैं. जयशंकर का 6 देशों का।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "फिर 9/11 जैसी तबाही देखेगा अमेरिका? पाकिस्तान से गलबहियां कर दुनिया को खतरे में डाल रहे डोनाल्ड",
-      "url": "https://hindi.news18.com/world/pakistan-donald-trump-us-policy-on-pakistan-under-scrutiny-sergio-restelli-geopolitical-expert-10628940.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-04T21:52:17+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Asim-Munir-Shehbaz-Sharif-2026-07-1e539b649b34b3989010b1d112ce5eb0-1200x800.jpg",
-      "summary": "एक रिपोर्ट के अनुसार, अमेरिका क्षेत्रीय रणनीतिक हितों के नाम पर पाकिस्तान को राजनीतिक संरक्षण दे रहा है। रिपोर्ट का दावा है कि अमेरिका एक बार फिर क्षेत्रीय रणनीतिक हितों के नाम पर पाकिस्तान को राजनीतिक संरक्षण दे रहा है, जबकि पाकिस्तान के भीतर लोकतांत्रिक संस्थाओं के कमजोर होने, मानवाधिकार उल्लंघनों और सेना के बढ़ते प्रभाव को नजरअंदाज किया जा रहा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिर 9/11 जैसी तबाही देखेगा अमेरिका? पाकिस्तान से गलबहियां कर दुनिया को खतरे में डाल रहे डोनाल्ड",
-          "summary": "एक रिपोर्ट के अनुसार, अमेरिका क्षेत्रीय रणनीतिक हितों के नाम पर पाकिस्तान को राजनीतिक संरक्षण दे रहा है। रिपोर्ट का दावा है कि अमेरिका एक बार फिर क्षेत्रीय रणनीतिक हितों के नाम पर पाकिस्तान को राजनीतिक संरक्षण दे रहा है, जबकि पाकिस्तान के भीतर लोकतांत्रिक संस्थाओं के कमजोर होने, मानवाधिकार उल्लंघनों और सेना के बढ़ते प्रभाव को नजरअंदाज किया जा रहा है.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
