@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 06, 2026 14:58 IST
+**Updated:** July 06, 2026 15:05 IST
 
 ---
 
@@ -23,12 +23,6 @@ Türkiye prepares to host the upcoming NATO summit in Ankara in July. This week 
 <!-- image: https://images.pexels.com/photos/12470916/pexels-photo-12470916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Colombia's president-elect Abelardo "El Tigre" de la Espriella This week on Hold Your Fire!, Richard speaks with Crisis Group experts Renata Segura and Elizabeth Dickinson about Colombia’s turbulent election, president-elect Abelardo “El Tigre” de la Espriella’s hardline promises to fight armed groups and the legacy of outgoing President Gustavo Petro’s signature policy of “Total Peace”. Will “El Tigre” Colombia’s New President Launch Another War on Drugs?
-
-### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
-*International Crisis Group* - Friday, July 3,  (iso: Friday, July 3, 2026 - 19:07)
-<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group analysts monitor global conflicts and crises weekly. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
 
 ### [JD Vance slams Israeli officials who criticised U.S.-Iran deal, deepening rift between allies](https://www.thehindu.com/news/international/jd-vance-slams-israeli-officials-who-criticised-us-iran-deal-deepening-rift-between-allies/article71120670.ece)
 *The Hindu (International)* - Jul 06, 12:44 IST (iso: 2026-07-06T07:14:58+00:00)
@@ -124,6 +118,12 @@ Aleksandar Vucic announced his resignation as Serbia's president in the Aleksand
 
 Russia launched a major drone and missile attack on Kyiv on July 2. Kyiv residents mourned those killed in a Russian overnight attack on July 2 that marked one of the biggest strikes on the Ukrainian capital this year and left at least 30 people dead and nearly 100 more injured. Kyiv Mourns Victims Of Major Russian Drone And Missile Attack.
 
+### [Who's Shipping Bananas To Russia, And Who's Shipping Cocaine?](https://www.rferl.org/a/russia-cocaine-bananas-smuggling/33794959.html)
+*Radio Free Europe / Liberty* - Jul 03, 17:27 IST (iso: 2026-07-03T11:57:25+00:00)
+<!-- image: https://gdb.rferl.org/fd15e171-96e9-4251-2db0-08decd1f5434_cx1_cy9_cw94_w1200_h630.png -->
+
+Systema investigated shipments of bananas to St. Petersburg and found that two companies involved in the delivery and distribution of the fruit are controlled by Russians with ties to President Vladimir Putin's associates. These shipments sometimes conceal cocaine. The companies' roles in the banana trade may be used to smuggle contraband into Russia. Russians with ties to Putin's inner circle are linked to the companies.
+
 ---
 
 ## Americas
@@ -150,12 +150,6 @@ Florida Republican Carlos Giménez stated that deporting Haitians with Temporary
 
 Europe increased its imports of Chinese air conditioners this summer. Europe’s scramble for Chinese air conditioners is not really a story about China, or even about trade. It is a story about what happens when climate change disruption arrives faster than housing policy, public infrastructure and industrial strategy can adapt. The numbers from this summer’s record heat are striking. China’s air-conditioner exports to the European [] The post China’s air-conditione.
 
-### [China’s truck drone launcher hides airpower in civilian traffic](https://asiatimes.com/2026/07/chinas-truck-drone-launcher-hides-airpower-in-civilian-traffic/)
-*Asia Times* - Jul 04, 10:49 IST (iso: 2026-07-04T05:19:53+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Truck-Launched-Drone-1.jpg -->
-
-China's Beijing Institute of Technology released footage of a truck drone launcher, then deleted it, showcasing a mobile system to disperse airpower among civilian traffic. China’s mobile drone launcher is less a single weapon than a blueprint for dispersing airpower, exploiting civilian cover and exporting low-cost strike reach to states priced out of traditional military aviation. This month, the South China Morning Post (SCMP) reported that the Beijing Institute of Technology (BIT) released, then apparently deleted, social media footage showing [] The post China’.
-
 ### [New term coined as Japan fiscal policy is probed](https://asiatimes.com/2026/07/honebuto-shock-new-term-coined-as-japan-fiscal-policy-is-probed/)
 *Asia Times* - Jul 04, 01:31 IST (iso: 2026-07-03T20:01:34+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/07/186b5bf7-966b-4645-bf81-5c1b10c5bd2b_2600x1734-copy-scaled-e1783109862752.jpg -->
@@ -167,6 +161,16 @@ Japan's long-term government bonds briefly reached 2.81 percent on July 3. This 
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Peter_Thiel_51876933345.jpg -->
 
 Peter Thiel accused Pope Leo XIV of serving as a Chinese communist agent. Right-wing tech billionaire Peter Thiel is accusing Pope Leo XIV of doing the work of the Chinese Communist Party with his criticisms of artificial intelligence. According to a Thursday report from CNN, Thiel told the Aspen Ideas Festival in Colorado on Tuesday that the pope was inadvertently serving as a “Chinese communist agent” when he released a 42,000-word encyclical that called [] The post.
+
+---
+
+## Global / Multilateral
+
+### [El Niño forecast to intensify, increasing likelihood of extreme weather](https://news.un.org/feed/view/en/story/2026/07/1167870)
+*UN News* - Jul 03, 17:30 IST (iso: 2026-07-03T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/01-03-2024-mada-dd-18.jpg/image770x420cropped.jpg -->
+
+The UN World Meteorological Organization said El Niño conditions in the tropical Pacific are strengthening. This increase is likely to cause more heatwaves and extreme weather across the world. The WMO announced this on Friday, citing the growing intensity of El Niño. Extreme weather events are becoming more likely in the coming months. More blistering heatwaves and other weather extremes are becoming increasingly likely across the world now and in coming months, linked to strengthening El Niño conditions in the tropical Pacific, the UN World Meteorological Organization (WMO) said on Friday.
 
 ---
 
