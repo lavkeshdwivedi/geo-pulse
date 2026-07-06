@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-06T21:35:22.974135+00:00",
+  "generated_at": "2026-07-06T22:31:03.451480+00:00",
   "article_count": 50,
   "total_unique_count": 275,
   "digest": {
-    "en": "Somalia's conflict with Al-Shabaab continues. NATO's relations with Türkiye are also in focus. Canada's purchase of 12 German submarines has been finalized after a bidding process.",
-    "hi": "इटली की रक्षा मंत्री ने अमेरिकी राष्ट्रपति ट्रम्प के तंज पर प्रतिक्रिया दी। उन्होंने कहा कि इटली अपनी विदेश नीति में स्वतंत्र है। पीएम मोदी इंडोनेशिया दौरे पर हैं जहां आज ब्रह्मोस सौदे पर चर्चा हो सकती है।"
+    "en": "Somalia's fight against Al-Shabaab and Hamas's dissolution of its Gaza government command attention. Türkiye's role in NATO and Modi's strategic trip to Indonesia also feature prominently. Cuba's ongoing blackouts and Canada's submarine purchase add to the global picture.",
+    "hi": "भारत-इंडोनेशिया द्विपक्षीय वार्ता आज रक्षा, व्यापार और ऊर्जा संबंधों को बढ़ाएगी। वहीं, पुर्तगाल के विश्व कप से बाहर होने के बाद रोनाल्डो के करियर पर सवाल उठ रहे हैं।"
   },
   "articles": [
     {
@@ -123,6 +123,18 @@
       "published_at": "2026-07-06T14:34:46+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/9ycu3v/article71190148.ece/alternates/LANDSCAPE_1200/2026-07-04T144554Z_970264774_RC207MAUE8E3_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG",
       "summary": "Ismail al-Thawabta announced Hamas is dissolving its government in Gaza. The general director of the Hamas-run Government Media Office made the statement at a news conference on July 6. Only technical and professional staff will remain in their positions to manage day-to-day affairs. A UN-backed committee is set to take over. At a news conference on July 6, Ismail al-Thawabta, general director of the Hamas-run Government Media Office, said “only technical and professional staff” would remain in their positions to run the Palestinian enclave’s day-to-day affairs.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Aid restrictions in Gaza, ‘senseless’ infant deaths in the West Bank",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-06T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-05-2026_Gaza_Pestiside_Campaign4.jpg/image770x420cropped.jpg",
+      "summary": "The United Nations reported ongoing restrictions at Gaza border crossings. These closures impede the delivery of critical supplies. The UN expressed concern for children in both Gaza and the West Bank. Reports indicate senseless infant deaths in the West Bank. Ongoing restrictions and closures of border crossings continue to hamper delivery of critical supplies into the Gaza Strip, amid mounting concern for children there and in the West Bank, the United Nations said on Monday.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -296,18 +308,6 @@
       "translations": {}
     },
     {
-      "title": "China’s truck drone launcher hides airpower in civilian traffic",
-      "url": "https://asiatimes.com/2026/07/chinas-truck-drone-launcher-hides-airpower-in-civilian-traffic/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-07-04T05:19:53+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Truck-Launched-Drone-1.jpg",
-      "summary": "China's Beijing Institute of Technology released footage of a truck-mounted drone launcher. The launcher can hide in civilian traffic, dispersing airpower and providing low-cost strike capabilities. The footage was reported by the South China Morning Post. The technology could be exported to states that cannot afford traditional military aviation. China’s mobile drone launcher is less a single weapon than a blueprint for dispersing airpower, exploiting civilian cover and exporting low-cost strike reach to states priced out of traditional military aviation.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "क्या पृथ्वी शॉ और आकृति अग्रवाल के रिश्ते में सचमुच आई थी दरार? अफवाहों पर मंगेतर ने दी सफाई",
       "url": "https://www.amarujala.com/cricket/cricket-news/akriti-agarwal-speaks-on-separation-rumors-with-fiancee-prithvi-shaw-viral-social-media-story-2026-07-07",
       "source": "Amar Ujala National",
@@ -328,7 +328,7 @@
     {
       "title": "पहले छत से धक्का, फिर मौत का इंजेक्शन: प्रेमी के उकसाने पर हत्यारिन बनी पत्नी, पति को कैसे सुलाया",
       "url": "https://www.amarujala.com/india-news/telangana-nizamabad-woman-kills-husband-by-injecting-toilet-cleaner-to-him-through-cannula-2026-07-07",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-07T06:52:57+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/08/aparathha-sakataka-tasavara_a61c1da56f3b1ac2558f18debe818a7c.jpeg?w=1200&dpr=1.0",
@@ -380,9 +380,45 @@
       }
     },
     {
+      "title": "चंपत राय -अनिल मिश्रा के इस्तीफे के बाद विपक्षी नेताओं ने कर दी ये बड़ी मांग!",
+      "url": "https://www.amarujala.com/video/india-news/ram-mandir-donation-scam-opposition-leaders-make-a-major-demand-following-the-resignations-of-champat-rai-and-2026-07-07",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-06T22:00:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/ram-mandir-donation-scam_c6df3221e69386b08dd883dea1cb0503.jpeg?w=1200&dpr=1.0",
+      "summary": "राम मंदिर ट्रस्ट के महासचिव चंपत राय के करीबी अनिल मिश्रा के इस्तीफे के बाद विपक्षी नेताओं ने ट्रस्ट के खातों की जांच की मांग की है। उन्होंने दान में पारदर्शिता और जवाबदेही पर सवाल उठाए हैं। यह मांग ट्रस्ट के संचालन पर बढ़ते दबाव को दर्शाती है। Ram Mandir Donation Scam: चंपत राय -अनिल मिश्रा के इस्तीफे के बाद विपक्षी नेताओं ने कर दी ये बड़ी मांग!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चंपत राय -अनिल मिश्रा के इस्तीफे के बाद विपक्षी नेताओं ने कर दी ये बड़ी मांग!",
+          "summary": "राम मंदिर ट्रस्ट के महासचिव चंपत राय के करीबी अनिल मिश्रा के इस्तीफे के बाद विपक्षी नेताओं ने ट्रस्ट के खातों की जांच की मांग की है। उन्होंने दान में पारदर्शिता और जवाबदेही पर सवाल उठाए हैं। यह मांग ट्रस्ट के संचालन पर बढ़ते दबाव को दर्शाती है। Ram Mandir Donation Scam: चंपत राय -अनिल मिश्रा के इस्तीफे के बाद विपक्षी नेताओं ने कर दी ये बड़ी मांग!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रक्षा, व्यापार और ऊर्जा संबंधों को बढ़ाएंगे भारत-इंडोनेशिया, द्विपक्षीय वार्ता आज",
+      "url": "https://www.amarujala.com/world/pm-modi-s-indonesia-visit-india-to-boost-ties-in-defense-trade-and-energy-bilateral-talks-brahmos-deal-likely-2026-07-07",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-06T21:58:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/pm-modi-indonesia-visit_ff97eae440fa541b2cad868f44348af2.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति जोको विडोडो के साथ द्विपक्षीय वार्ता की। दोनों नेताओं ने रक्षा, व्यापार और ऊर्जा सहित विभिन्न क्षेत्रों में सहयोग बढ़ाने पर चर्चा की। ब्रह्मोस मिसाइल सौदे पर भी बातचीत होने की संभावना है। रक्षा, व्यापार और ऊर्जा संबंधों को बढ़ाएंगे भारत-इंडोनेशिया, द्विपक्षीय वार्ता आज।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रक्षा, व्यापार और ऊर्जा संबंधों को बढ़ाएंगे भारत-इंडोनेशिया, द्विपक्षीय वार्ता आज",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति जोको विडोडो के साथ द्विपक्षीय वार्ता की। दोनों नेताओं ने रक्षा, व्यापार और ऊर्जा सहित विभिन्न क्षेत्रों में सहयोग बढ़ाने पर चर्चा की। ब्रह्मोस मिसाइल सौदे पर भी बातचीत होने की संभावना है। रक्षा, व्यापार और ऊर्जा संबंधों को बढ़ाएंगे भारत-इंडोनेशिया, द्विपक्षीय वार्ता आज।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "क्या रोनाल्डो के विश्व कप करियर का हो गया अंत? स्पेन से हार के बाद भावुक हुए CR7; वीडियो",
       "url": "https://www.amarujala.com/sports/football/cristiano-ronaldo-got-emotional-after-loosing-match-against-spain-know-details-on-retirement-2026-07-07",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-06T21:31:51+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/ranalda-bhavaka-hae_82e17f26c0039d965395556f1fba05f6.jpeg?w=1200&dpr=1.0",
@@ -398,19 +434,19 @@
       }
     },
     {
-      "title": "ढाका के पास NCP रैली में बम धमाका, तीन लोग घायल",
+      "title": "एनसीपी की रैली में फटा बम, विस्फोट में तीन लोग घायल; क्या बोली पुलिस?",
       "url": "https://www.amarujala.com/world/bangladesh-bomb-blast-at-ncp-rally-near-dhaka-people-injured-sheikh-hasina-student-protests-2026-07-07",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-06T21:22:09+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/dhaka-ka-pasa-ncp-ral-ma-bma-thhamaka_b133d9a2a056573c9576c194ccbe1052.jpeg?w=1200&dpr=1.0",
-      "summary": "ढाका के पास एनसीपी रैली में बम धमाके में तीन लोग घायल हुए। ढाका के पास NCP रैली में बम धमाका, तीन लोग घायल।",
+      "summary": "ढाका के पास एनसीपी रैली में बम धमाके में तीन लोग घायल हुए। ढाका के पास NCP रैली में बम धमाका, तीन लोग घायल। एनसीपी की रैली में फटा बम, विस्फोट में तीन लोग घायल; क्या बोली पुलिस?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ढाका के पास NCP रैली में बम धमाका, तीन लोग घायल",
-          "summary": "ढाका के पास एनसीपी रैली में बम धमाके में तीन लोग घायल हुए। ढाका के पास NCP रैली में बम धमाका, तीन लोग घायल।",
+          "title": "एनसीपी की रैली में फटा बम, विस्फोट में तीन लोग घायल; क्या बोली पुलिस?",
+          "summary": "ढाका के पास एनसीपी रैली में बम धमाके में तीन लोग घायल हुए। ढाका के पास NCP रैली में बम धमाका, तीन लोग घायल। एनसीपी की रैली में फटा बम, विस्फोट में तीन लोग घायल; क्या बोली पुलिस?",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -418,10 +454,10 @@
     {
       "title": "आखिरी मिनट में टूटा रोनाल्डो का सपना, मेरिनो के एक गोल ने पुर्तगाल को विश्व कप से किया बाहर",
       "url": "https://www.amarujala.com/sports/football/fifa-world-cup-2026-portugal-vs-spain-highlights-today-football-match-result-key-moments-photos-2026-07-07",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-06T21:13:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/ranalda_515b2a0b9309ee627ae975bdc9146479.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/ranalda-bhavaka-hae_6e4b627f3d8099059afc2f725bc6b8fe.jpeg?w=1200&dpr=1.0",
       "summary": "स्पेन ने फीफा विश्व कप 2026 के राउंड ऑफ-16 में पुर्तगाल को 0-1 से हराकर क्वार्टर फाइनल में जगह बना ली। मेरिनो के एक गोल ने पुर्तगाल को विश्व कप से बाहर कर दिया। रोनाल्डो का सपना टूट गया। आखिरी मिनट में टूटा रोनाल्डो का सपना, मेरिनो के एक गोल ने पुर्तगाल को विश्व कप से किया बाहर।",
       "region": "Europe & Russia",
       "language": "hi",
@@ -448,6 +484,24 @@
           "title": "स्पेन ने 0-1 से जीता मुकाबला, रोनाल्डो की पुर्तगाल का राउंड ऑफ-16 में सफर समाप्त",
           "summary": "स्पेन ने पुर्तगाल को 0-1 से हराकर राउंड ऑफ-16 में जीत दर्ज की। इस जीत से स्पेन ने क्वार्टर फाइनल में जगह बनाई। पुर्तगाल का सफर राउंड ऑफ-16 में ही समाप्त हो गया। अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। स्पेन ने 0-1 से जीता मुकाबला, रोनाल्डो की पुर्तगाल का राउंड ऑफ-16 में सफर समाप्त।",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "थाईलैंड में मिली 2,000 साल पुरानी सोने की दो अंगूठियाँ, एक का भारत से कनेक्शन आया सामने",
+      "url": "https://www.patrika.com/world-news/2000-year-old-gold-rings-found-in-thailand-one-has-connection-to-india-20726140",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-06T20:58:38+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/2000-year-old-gold-ring.webp",
+      "summary": "थाईलैंड के फेचाबुरी प्रांत में पुरातत्वविदों को लगभग 2,000 साल पुरानी सोने की दो अंगूठियाँ मिली हैं। ये अंगूठियाँ मानव कंकालों के साथ पाई गईं। इनमें से एक अंगूठी का संबंध भारत से होने की बात सामने आई है। थाईलैंड (Thailand) के पश्चिमी हिस्से में पुरातत्वविदों को करीब 2,000 साल पुरानी दो सोने की अंगूठियाँ (Gold Rings) मिली हैं। ये खोज फेचाबुरी प्रांत के डॉन याई थोंग पुरातात्विक स्थल पर चल रही खुदाई के दौरान हुई।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "थाईलैंड में मिली 2,000 साल पुरानी सोने की दो अंगूठियाँ, एक का भारत से कनेक्शन आया सामने",
+          "summary": "थाईलैंड के फेचाबुरी प्रांत में पुरातत्वविदों को लगभग 2,000 साल पुरानी सोने की दो अंगूठियाँ मिली हैं। ये अंगूठियाँ मानव कंकालों के साथ पाई गईं। इनमें से एक अंगूठी का संबंध भारत से होने की बात सामने आई है। थाईलैंड (Thailand) के पश्चिमी हिस्से में पुरातत्वविदों को करीब 2,000 साल पुरानी दो सोने की अंगूठियाँ (Gold Rings) मिली हैं। ये खोज फेचाबुरी प्रांत के डॉन याई थोंग पुरातात्विक स्थल पर चल रही खुदाई के दौरान हुई।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -699,60 +753,6 @@
         "hi": {
           "title": "हमास ने मानी हार, गाजा से समेटा बोरिया-बिस्तर, अब कैसे चलेगा शासन?",
           "summary": "हमास ने करीब 18 साल तक गाजा पर शासन करने के बाद प्रशासन से पीछे हटने का ऐलान कर दिया है। संगठन ने अपना प्रशासनिक ढांचा भंग कर सत्ता एक नई राष्ट्रीय समिति को सौंपने का रास्ता साफ कर दिया है। करीब 18 साल तक गाजा पर शासन करने के बाद हमास ने प्रशासन से पीछे हटने का ऐलान कर दिया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "चंदा चोरी पर चंपत राय का इस्तीफा, जानें कांग्रेस की क्या है पहली प्रतिक्रिया",
-      "url": "https://www.abplive.com/news/india/congress-pawan-khera-first-reaction-on-ram-mandir-champat-rai-anil-mishra-resigns-slams-pm-modi-rss-vhp-3155940",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-06T16:53:43+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/06/c0331fbedb087f6614893631a4e45df41783356383038708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "राम मंदिर चंदा चोरी मामले में चंपत राय और अनिल मिश्रा के इस्तीफे के बाद कांग्रेस ने कहा कि राम मंदिर ट्रस्ट ने पूरी तरह यह स्वीकार कर लिया है कि 'चंदा चोरी' की रिपोर्टें वाकई सत्य हैं। कांग्रेस ने पूरे ट्रस्ट को भंग कर इस प्रकरण की जांच सुप्रीम कोर्ट से करवाने की मांग की। राम मंदिर चंदा चोरी मामले में चंपत राय और अनिल मिश्रा के इस्तीफे के बाद देश में राजनीति गरमा गई है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चंदा चोरी पर चंपत राय का इस्तीफा, जानें कांग्रेस की क्या है पहली प्रतिक्रिया",
-          "summary": "राम मंदिर चंदा चोरी मामले में चंपत राय और अनिल मिश्रा के इस्तीफे के बाद कांग्रेस ने कहा कि राम मंदिर ट्रस्ट ने पूरी तरह यह स्वीकार कर लिया है कि 'चंदा चोरी' की रिपोर्टें वाकई सत्य हैं। कांग्रेस ने पूरे ट्रस्ट को भंग कर इस प्रकरण की जांच सुप्रीम कोर्ट से करवाने की मांग की। राम मंदिर चंदा चोरी मामले में चंपत राय और अनिल मिश्रा के इस्तीफे के बाद देश में राजनीति गरमा गई है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "SIR पर असदुद्दीन ओवैसी ने BRS को लगाई लताड़, PRC पर भी घेरा, बोले- 'एक दशक तक सत्ता में रहने के",
-      "url": "https://www.abplive.com/news/india/aimim-asaduddin-owaisi-targets-brs-on-issue-of-permanent-resident-certificate-and-sir-telangana-government-ann-3155946",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-06T16:49:45+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/06/673d103ffee78fc6e17e831f1068c9ee17833565063781368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "असदुद्दीन ओवैसी ने हैदराबाद में 'स्पेशल इंटेंसिव रिविजन' वर्कशॉप में तेलंगाना सरकार से योग्य नागरिकों को स्थायी निवास प्रमाण पत्र जारी करने की अपील की. उन्होंने मतदाता वेरिफिकेशन प्रक्रिया में नागरिकों को होने वाली मुश्किलों का इंतजार न करने की बात कही. AIMIM अध्यक्ष और हैदराबाद के सांसद असदुद्दीन ओवैसी ने शनिवार को तेलंगाना सरकार से अपील की कि वह योग्य नागरिकों को स्थायी निवास प्रमाण पत्र (PRC) जारी करे और अंतिम मतदाता सूची जारी होने से पहले जरूरी कदम उठाए.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "SIR पर असदुद्दीन ओवैसी ने BRS को लगाई लताड़, PRC पर भी घेरा, बोले- 'एक दशक तक सत्ता में रहने के",
-          "summary": "असदुद्दीन ओवैसी ने हैदराबाद में 'स्पेशल इंटेंसिव रिविजन' वर्कशॉप में तेलंगाना सरकार से योग्य नागरिकों को स्थायी निवास प्रमाण पत्र जारी करने की अपील की. उन्होंने मतदाता वेरिफिकेशन प्रक्रिया में नागरिकों को होने वाली मुश्किलों का इंतजार न करने की बात कही. AIMIM अध्यक्ष और हैदराबाद के सांसद असदुद्दीन ओवैसी ने शनिवार को तेलंगाना सरकार से अपील की कि वह योग्य नागरिकों को स्थायी निवास प्रमाण पत्र (PRC) जारी करे और अंतिम मतदाता सूची जारी होने से पहले जरूरी कदम उठाए.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "इधर खामेनेई का निकला जनाजा उधर ट्रंप ने याद करवाया अल्टीमेटम, बोले- या तो डील करेंगे नहीं तो ईरान",
-      "url": "https://hindi.news18.com/world/america-donald-trump-warning-us-either-do-new-deal-with-iran-or-finish-completely-sjn-10633976.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-06T16:36:40+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-trump-19-2026-06-428362eedb6f194cac9811d9696f1616-1200x800.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने कहा है कि या तो वे ईरान के साथ डील करेंगे नहीं तो उन्हें खत्म कर देंगे। यह बयान पूर्व सुप्रीम लीडर अली खामेनेई के जनाजे की रस्मों के दौरान आया है। अमेरिकी राष्ट्रपति का एक टेलीविजन इंटरव्यू में दिया बयान चर्चा में आ गया है. इसमें उन्होंने धमकी भरे लहजे में कहा कि या तो वो ईरान के साथ डील करेंगे नहीं तो उन्हें खत्म कर देंगे.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इधर खामेनेई का निकला जनाजा उधर ट्रंप ने याद करवाया अल्टीमेटम, बोले- या तो डील करेंगे नहीं तो ईरान",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने कहा है कि या तो वे ईरान के साथ डील करेंगे नहीं तो उन्हें खत्म कर देंगे। यह बयान पूर्व सुप्रीम लीडर अली खामेनेई के जनाजे की रस्मों के दौरान आया है। अमेरिकी राष्ट्रपति का एक टेलीविजन इंटरव्यू में दिया बयान चर्चा में आ गया है. इसमें उन्होंने धमकी भरे लहजे में कहा कि या तो वो ईरान के साथ डील करेंगे नहीं तो उन्हें खत्म कर देंगे.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
