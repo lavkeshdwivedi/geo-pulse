@@ -1,6 +1,76 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 06, 2026 18:51 IST
+**Updated:** July 06, 2026 18:56 IST
+
+---
+
+## Middle East & Africa
+
+### [New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab](https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab)
+*International Crisis Group* - Tuesday, June 30 (iso: Tuesday, June 30, 2026 - 15:20)
+<!-- image: https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Somalia’s government continues its fight against Al-Shabaab. Neither side has achieved a decisive victory. Mogadishu requires military strengthening and civilian support in contested areas. The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.
+
+### [NATO in Türkiye/Türkiye in NATO](https://www.crisisgroup.org/pod/europe/turkiye/nato-turkiyeturkiye-nato)
+*International Crisis Group* - Tuesday, June 30 (iso: Tuesday, June 30, 2026 - 00:00)
+<!-- image: https://images.pexels.com/photos/17854295/pexels-photo-17854295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Galip Dalay discusses Türkiye's relationship with NATO and the EU. Ankara is preparing to host the NATO summit in July. The conversation covers Türkiye's evolving foreign policy. This week on War & Peace, Olga speaks with Galip Dalay, senior research fellow at Chatham House, about Türkiye’s evolving relations within NATO and with the EU as Ankara prepares to host the upcoming NATO summit in July.
+
+### [Will “El Tigre” Colombia’s New President Launch Another War on Drugs?](https://www.crisisgroup.org/pod/latin-america-caribbean/colombia/will-el-tigre-colombias-new-president-launch-another-war-drugs)
+*International Crisis Group* - Friday, June 26, (iso: Friday, June 26, 2026 - 15:39)
+<!-- image: https://images.pexels.com/photos/12470916/pexels-photo-12470916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Richard speaks with Crisis Group experts about Colombia's election. President-elect Abelardo de la Espriella promises a hardline approach to armed groups. This contrasts with outgoing President Gustavo Petro's "Total Peace" policy. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Renata Segura and Elizabeth Dickinson about Colombia’s turbulent election, president-elect Abelardo “El Tigre” de la Espriella’s hardline promises to fight armed groups and the legacy of outgoing President Gustavo Petro’s signature policy of “Total Peace”.
+
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Friday, July 3,  (iso: Friday, July 3, 2026 - 19:07)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+This segment highlights global conflicts and crises. Field experts analyze under-reported trends and headline developments. They explain their significance and potential actions. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
+
+### [Trump-Zelenskyy Meeting Set For NATO Summit Amid US Push To End Russia's War](https://www.rferl.org/a/33797244.html)
+*Radio Free Europe / Liberty* - Jul 06, 00:49 IST (iso: 2026-07-05T19:19:27+00:00)
+<!-- image: https://gdb.rferl.org/d1616acb-a86e-4f01-aa4c-22acd5a94fb6_w1200_h630.jpg -->
+
+President Trump will meet President Zelenskyy at the NATO summit in Ankara. The White House announced the meeting on July 5. The U. S. is pushing for renewed diplomacy on Russia's war. Allies are urged to increase defense responsibilities. US President Donald Trump will meet Ukrainian President Volodymyr Zelenskyy on the sidelines of this week's NATO summit in Ankara, the White House announced on July 5, as Washington seeks to revive stalled diplomacy over Russia's war while pressing European allies to take greater responsibility for the continent's defense.
+
+### [Ahead Of High-Stakes NATO Summit, Ex-US Envoy To OSCE James Gilmore Says Alliance Is Renewing Itself](https://www.rferl.org/a/33797187.html)
+*Radio Free Europe / Liberty* - Jul 05, 20:49 IST (iso: 2026-07-05T15:19:04+00:00)
+<!-- image: https://gdb.rferl.org/e2541294-07e7-4acb-bc21-8c95f3c2da28_w1200_h630.jpg -->
+
+NATO leaders prepare for a July 7-8 summit in Ankara. WASHINGTON – As NATO leaders prepare for a pivotal July 7-8 summit in Ankara amid Russia's war against Ukraine and renewed tensions in the Middle East, former US Ambassador to the Organization for Security and Cooperation in Europe (OSCE) James Gilmore says the alliance is undergoing a difficult but ultimately strengthening transformation rather than entering a period of decline.
+
+### [Archaeologists uncover ancient Byzantine city in Egypt’s western desert](https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert)
+*The Guardian* - Jul 05, 02:02 IST (iso: 2026-07-04T20:32:52+00:00)
+<!-- image: https://i.guim.co.uk/img/media/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/master/716.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=536248db1ae2b819dfc58db206b17318 -->
+
+Archaeologists in Egypt's western desert uncovered a well-preserved Byzantine-era city. The fourth-century quarters in the Dakhla oasis had residential and religious structures, including a basilica-style church. Archaeologists found coins, pottery fragments, and tools, revealing details of daily life and economic activities. The discovery provides insight into urban development in the region. Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis.
+
+### [Aid workers on life in Sudanese city pummelled by drone strikes](https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes)
+*The Guardian* - Jul 04, 20:44 IST (iso: 2026-07-04T15:14:18+00:00)
+<!-- image: https://i.guim.co.uk/img/media/44e2787e66b60b8c57b8311b2fe08158f3630873/289_0_4923_3939/master/4923.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4b735c0aec78c45b52cd9640756e3fe -->
+
+Drone attacks in El Obeid, Sudan, killed over 20 people, including students, this past weekend. Schools and fuel stations were hit in the city. El Obeid is a key battleground between Sudan’s armed forces and the RSF paramilitary. Residents report the recent attacks were the most violent yet. El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima is losing count of the number of drone attacks on the besieged city of El Obeid in Sudan, but says the attacks this past weekend were the most violent so far. The drones hit schools and fuel stations, killing more than 20 people, including students, she says.
+
+### [Tackling stigma on Uganda's Ebola frontline](https://news.un.org/feed/view/en/story/2026/07/1167859)
+*UN News* - Jul 04, 17:30 IST (iso: 2026-07-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/01-07-2026-WHO-Uganda-ebola.jpg/image770x420cropped.jpg -->
+
+Uganda's health workers are addressing Ebola stigma alongside the outbreak. They help families navigate fear and misinformation. The outbreak is also affecting the Democratic Republic of the Congo. Health workers are working to contain the virus and support affected families. As Uganda works to contain an Ebola outbreak that is also affecting neighbouring Democratic Republic of the Congo (DRC), health workers are doing more than responding to a deadly virus.
+
+### [European Conservatives Bring Unity Message To US: Ukraine Matters. Iran Does, Too](https://www.rferl.org/a/europe-conservatives-ukraine-iran-trump-nato/33796570.html)
+*Radio Free Europe / Liberty* - Jul 04, 06:29 IST (iso: 2026-07-04T00:59:36+00:00)
+<!-- image: https://gdb.rferl.org/d6caff18-14e8-4f69-4007-08decacf94d0_cx0_cy11_cw0_w1200_h630.jpg -->
+
+Senior European conservative lawmakers visited Washington to meet with the Trump administration. As NATO leaders prepare to gather for next week's summit, a group of senior European conservative lawmakers visited Washington with a message they hope will resonate inside the Trump administration: Support for Ukraine and concern over Iran are not mutually exclusive. European Conservatives Bring Unity Message To US: Ukraine Matters.
+
+### [Sudan’s people subject to ‘relentless’ drone strikes in El Obeid](https://news.un.org/feed/view/en/story/2026/07/1167871)
+*UN News* - Jul 03, 17:30 IST (iso: 2026-07-03T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image770x420cropped.jpg -->
+
+Sudan's El Obeid faces relentless drone strikes by advancing militias. The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday. Sudan’s people subject to ‘relentless’ drone strikes in El Obeid.
 
 ---
 
@@ -58,12 +128,6 @@ Aleksandar Vucic announced his resignation as Serbia's president in the Aleksand
 
 Russia launched a major drone and missile attack on Kyiv on July 2. Kyiv residents mourned those killed in a Russian overnight attack on July 2 that marked one of the biggest strikes on the Ukrainian capital this year and left at least 30 people dead and nearly 100 more injured. Kyiv Mourns Victims Of Major Russian Drone And Missile Attack.
 
-### [Who's Shipping Bananas To Russia, And Who's Shipping Cocaine?](https://www.rferl.org/a/russia-cocaine-bananas-smuggling/33794959.html)
-*Radio Free Europe / Liberty* - Jul 03, 17:27 IST (iso: 2026-07-03T11:57:25+00:00)
-<!-- image: https://gdb.rferl.org/fd15e171-96e9-4251-2db0-08decd1f5434_cx1_cy9_cw94_w1200_h630.png -->
-
-A Systema investigation found Russians with ties to President Vladimir Putin control companies shipping bananas to St. Petersburg with hidden cocaine. Shipments of bananas to St. Petersburg sometimes conceal a contraband cargo: cocaine. A Systema investigation finds that two companies with roles in the delivery and further distribution of the fruit are controlled by Russians with ties to longtime associates of President Vladimir Putin.
-
 ---
 
 ## Americas
@@ -79,70 +143,6 @@ Venezuela's interim president defended the country's emergency response to the 2
 <!-- image: https://i.guim.co.uk/img/media/2264b79b9425157f39e0961676cee0bac524b79e/292_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=972c90e6d82636764067f572034cb7ae -->
 
 Florida Republican Carlos Giménez stated that deporting Haitians with Temporary Protected Status would be a significant error. He argued that Haiti is a failed state. Giménez, a Cuban exile himself, urged the White House to reconsider its efforts to end TPS for Haitian migrants. This stance diverges from the Trump administration's position. ‘Haiti is a failed state’, says Carlos Giménez, congressman and Miami Cuban exile, after controversial court rulingCarlos Giménez, a Republican congressman from Florida, broke with the Trump administration on Sunday, calling on the White House to reconsider its push to eliminate temporary protected status (TPS) for Haitian migrants. Returning some 350,000 Haitians to their chaotic, dangerous homela.
-
----
-
-## Middle East & Africa
-
-### [Trump-Zelenskyy Meeting Set For NATO Summit Amid US Push To End Russia's War](https://www.rferl.org/a/33797244.html)
-*Radio Free Europe / Liberty* - Jul 06, 00:49 IST (iso: 2026-07-05T19:19:27+00:00)
-<!-- image: https://gdb.rferl.org/d1616acb-a86e-4f01-aa4c-22acd5a94fb6_w1200_h630.jpg -->
-
-President Trump will meet President Zelenskyy at the NATO summit in Ankara. The White House announced the meeting on July 5. The U. S. is pushing for renewed diplomacy on Russia's war. Allies are urged to increase defense responsibilities. US President Donald Trump will meet Ukrainian President Volodymyr Zelenskyy on the sidelines of this week's NATO summit in Ankara, the White House announced on July 5, as Washington seeks to revive stalled diplomacy over Russia's war while pressing European allies to take greater responsibility for the continent's defense.
-
-### [Ahead Of High-Stakes NATO Summit, Ex-US Envoy To OSCE James Gilmore Says Alliance Is Renewing Itself](https://www.rferl.org/a/33797187.html)
-*Radio Free Europe / Liberty* - Jul 05, 20:49 IST (iso: 2026-07-05T15:19:04+00:00)
-<!-- image: https://gdb.rferl.org/e2541294-07e7-4acb-bc21-8c95f3c2da28_w1200_h630.jpg -->
-
-NATO leaders prepare for a July 7-8 summit in Ankara. WASHINGTON – As NATO leaders prepare for a pivotal July 7-8 summit in Ankara amid Russia's war against Ukraine and renewed tensions in the Middle East, former US Ambassador to the Organization for Security and Cooperation in Europe (OSCE) James Gilmore says the alliance is undergoing a difficult but ultimately strengthening transformation rather than entering a period of decline.
-
-### [Archaeologists uncover ancient Byzantine city in Egypt’s western desert](https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert)
-*The Guardian* - Jul 05, 02:02 IST (iso: 2026-07-04T20:32:52+00:00)
-<!-- image: https://i.guim.co.uk/img/media/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/master/716.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=536248db1ae2b819dfc58db206b17318 -->
-
-Archaeologists in Egypt's western desert uncovered a well-preserved Byzantine-era city. The fourth-century quarters in the Dakhla oasis had residential and religious structures, including a basilica-style church. Archaeologists found coins, pottery fragments, and tools, revealing details of daily life and economic activities. The discovery provides insight into urban development in the region. Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis.
-
-### [Aid workers on life in Sudanese city pummelled by drone strikes](https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes)
-*The Guardian* - Jul 04, 20:44 IST (iso: 2026-07-04T15:14:18+00:00)
-<!-- image: https://i.guim.co.uk/img/media/44e2787e66b60b8c57b8311b2fe08158f3630873/289_0_4923_3939/master/4923.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4b735c0aec78c45b52cd9640756e3fe -->
-
-Drone attacks in El Obeid, Sudan, killed over 20 people, including students, this past weekend. Schools and fuel stations were hit in the city. El Obeid is a key battleground between Sudan’s armed forces and the RSF paramilitary. Residents report the recent attacks were the most violent yet. El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima is losing count of the number of drone attacks on the besieged city of El Obeid in Sudan, but says the attacks this past weekend were the most violent so far. The drones hit schools and fuel stations, killing more than 20 people, including students, she says.
-
-### [Tackling stigma on Uganda's Ebola frontline](https://news.un.org/feed/view/en/story/2026/07/1167859)
-*UN News* - Jul 04, 17:30 IST (iso: 2026-07-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/01-07-2026-WHO-Uganda-ebola.jpg/image770x420cropped.jpg -->
-
-Uganda's health workers are addressing Ebola stigma alongside the outbreak. They help families navigate fear and misinformation. The outbreak is also affecting the Democratic Republic of the Congo. Health workers are working to contain the virus and support affected families. As Uganda works to contain an Ebola outbreak that is also affecting neighbouring Democratic Republic of the Congo (DRC), health workers are doing more than responding to a deadly virus.
-
-### [European Conservatives Bring Unity Message To US: Ukraine Matters. Iran Does, Too](https://www.rferl.org/a/europe-conservatives-ukraine-iran-trump-nato/33796570.html)
-*Radio Free Europe / Liberty* - Jul 04, 06:29 IST (iso: 2026-07-04T00:59:36+00:00)
-<!-- image: https://gdb.rferl.org/d6caff18-14e8-4f69-4007-08decacf94d0_cx0_cy11_cw0_w1200_h630.jpg -->
-
-Senior European conservative lawmakers visited Washington to meet with the Trump administration. As NATO leaders prepare to gather for next week's summit, a group of senior European conservative lawmakers visited Washington with a message they hope will resonate inside the Trump administration: Support for Ukraine and concern over Iran are not mutually exclusive. European Conservatives Bring Unity Message To US: Ukraine Matters.
-
-### [Sudan’s people subject to ‘relentless’ drone strikes in El Obeid](https://news.un.org/feed/view/en/story/2026/07/1167871)
-*UN News* - Jul 03, 17:30 IST (iso: 2026-07-03T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image770x420cropped.jpg -->
-
-Sudan's El Obeid faces relentless drone strikes by advancing militias. The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday. Sudan’s people subject to ‘relentless’ drone strikes in El Obeid.
-
-### [‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape](https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape)
-*The Guardian* - Jul 03, 16:38 IST (iso: 2026-07-03T11:08:44+00:00)
-<!-- image: https://i.guim.co.uk/img/media/9cf96b47229f6cf4e1689db3553f3d757d420253/106_0_5842_4672/master/5842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5369b245cc472984f9549a7399eaf30f -->
-
-Thousands of volunteers and overseas teams search for survivors in Venezuela's post-quake rubble. Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubble, reports Tom Phillips in Caraballeda. Photography and video by Manu QuinteroWhen twin earthquakes tore through Venezuela’s northern coast last week, Israel Rivas was at home hundreds of miles away in the industrial city of San Félix.
-
-### [‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips](https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips)
-*The Guardian* - Jul 03, 05:30 IST (iso: 2026-07-03T00:00:13+00:00)
-<!-- image: https://i.guim.co.uk/img/media/d29634c780d5f82a8438482e7ab53b70831d9456/178_51_390_312/master/390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80f79a485fcfaab59bd098059830a638 -->
-
-Indian prime minister Narendra Modi received the Guardian of the Blue Horizon award in Seychelles, one of many honours he has collected on overseas trips. Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister. Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Seychelles presi.
-
-### [Racism significantly impacts access to sport: Independent expert](https://news.un.org/feed/view/en/story/2026/07/1167863)
-*UN News* - Jul 02, 17:30 IST (iso: 2026-07-02T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/19-05-2025-UNICEF-DR-Congo-football.jpg/image770x420cropped.jpg -->
-
-A UN report found racism impacts access to sports, citing high costs and restrictions on Palestinian athletes and bans on Muslim women wearing hijabs. From high participation costs and restrictions on Palestinian athletes – to bans on Muslim women wearing hijabs – racism continues to shape who gets to participate in sport, a new UN report published on Thursday has found.
 
 ---
 
