@@ -34,6 +34,9 @@ ARCHIVE_HI_DIR = os.path.join(ARCHIVE_DIR, "hi")
 SITE_ARCHIVE_DIR = os.path.join(SITE_DIR, "newsletters")
 SITE_ARCHIVE_HI_DIR = os.path.join(SITE_ARCHIVE_DIR, "hi")
 SITE_HI_DIR  = os.path.join(SITE_DIR, "hi")
+
+# Ensure the Hindi site directory exists before trying to write to it.
+os.makedirs(SITE_HI_DIR, exist_ok=True)
 INDEX_PATH   = os.path.join(SITE_DIR, "index.html")
 HI_INDEX_PATH = os.path.join(SITE_HI_DIR, "index.html")
 FEED_PATH    = os.path.join(SITE_DIR, "feed.xml")
