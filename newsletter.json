@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-06T19:36:59.400762+00:00",
+  "generated_at": "2026-07-06T20:42:18.032756+00:00",
   "article_count": 50,
-  "total_unique_count": 277,
+  "total_unique_count": 276,
   "digest": {
     "en": "Somalia's conflict with Al-Shabaab continues. NATO's relations with Türkiye are also in focus. Canada's purchase of 12 German submarines has been finalized after a bidding war.",
-    "hi": "इटली के रक्षा मंत्री ने अमेरिकी राष्ट्रपति ट्रम्प के तंज पर प्रतिक्रिया दी। मेलोनी के साथ ट्रम्प की टिप्पणी पर इटली ने कड़ा रुख दिखाया। रक्षा मंत्री ने मामले पर बयान दिया।"
+    "hi": "प्रधानमंत्री मोदी इंडोनेशिया दौरे पर हैं जहां आज ब्रह्मोस सौदे पर मुहर लग सकती है। इस बीच, वेनेजुएला में भूकंप से मरने वालों की संख्या 3,342 हो गई है और रेस्क्यू ऑपरेशन जारी है। नीरव मोदी के भारत प्रत्यर्पण का रास्ता भी साफ हो गया है।"
   },
   "articles": [
     {
@@ -44,11 +44,35 @@
       "translations": {}
     },
     {
-      "title": "Cuba suffers third nationwide blackout in six months",
+      "title": "On Our Radar",
+      "url": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Friday, July 3, 2026 - 19:07",
+      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Crisis Group analysts monitor global conflicts and crises, reporting on under-reported trends and developments. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Modi begins three-nation trip, starts with Indonesia to boost strategic ties",
+      "url": "https://www.thehindu.com/news/national/pm-modi-indonesia-bilateral-visit-july-6-2026/article71189358.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-06T20:09:55+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/7s3gsz/article71189429.ece/alternates/LANDSCAPE_1200/20260706320L.jpg",
+      "summary": "Prime Minister Modi began a three-nation trip in Indonesia to boost strategic ties with President Subianto. Prime Minister set to hold discussions with Indonesian President Subianto to add ‘momentum to this partnership across diverse sectors’; he will travel to Australia and New Zealand next as part of efforts to promote a free and open Indo-Pacific. Modi begins three-nation trip, starts with Indonesia to boost strategic ties.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
       "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-07-06T17:35:52+00:00",
+      "published_at": "2026-07-06T19:30:09+00:00",
       "image_url": "https://i.guim.co.uk/img/media/79fa1d2bff3f98bf33c1be74269065d0bbbfb006/350_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8e9997ba760bb9f65513d49dc36b4cd",
       "summary": "Cuba experienced its third nationwide power outage this year on Monday. Impoverished island was already struggling to keep the lights on before the US imposed a blockade in JanuaryCuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said. The impoverished island was already struggling to keep the lights on before the US president, Donald Trump, imposed an oil blockade in January, which has depleted the alr.",
       "region": "Americas",
@@ -104,6 +128,18 @@
       "translations": {}
     },
     {
+      "title": "UN continues to scale up as damage estimate reaches $37 billion",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167879",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-06T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/30-06-2026-UNOCHA-Venezuela-03.jpg/image770x420cropped.jpg",
+      "summary": "The UN estimates $37 billion in damage from Venezuela's earthquakes, ramping up assistance efforts. The UN and its partners are ramping up assistance for people affected by the earthquakes in Venezuela, working alongside the Government's response effort, as a new UN estimate puts direct physical damage at $37 billion. UN continues to scale up as damage estimate reaches $37 billion.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Amid lethal drone attacks, children bear brunt of escalating war",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167874",
       "source": "UN News",
@@ -128,7 +164,7 @@
       "translations": {}
     },
     {
-      "title": "Russian Strikes Kill At Least 22 In And Around Kyiv As Ukraine Hits Largest Russian Refinery",
+      "title": "Russian Strikes Kill At Least 23 In And Around Kyiv As Ukraine Hits Largest Russian Refinery",
       "url": "https://www.rferl.org/a/ukraine-kyiv-zelenskyy-russia-attack-nato-putin/33797564.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
@@ -200,6 +236,18 @@
       "translations": {}
     },
     {
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-04T20:32:52+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/master/716.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=536248db1ae2b819dfc58db206b17318",
+      "summary": "Archaeologists uncovered a well-preserved Byzantine city in Egypt's western desert, dating back to the fourth century. Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Aid workers on life in Sudanese city pummelled by drone strikes",
       "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
       "source": "The Guardian",
@@ -260,72 +308,6 @@
       "translations": {}
     },
     {
-      "title": "European Conservatives Bring Unity Message To US: Ukraine Matters. Iran Does, Too",
-      "url": "https://www.rferl.org/a/europe-conservatives-ukraine-iran-trump-nato/33796570.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-04T00:59:36+00:00",
-      "image_url": "https://gdb.rferl.org/d6caff18-14e8-4f69-4007-08decacf94d0_cx0_cy11_cw0_w1200_h630.jpg",
-      "summary": "Senior European conservative lawmakers visited Washington to meet with the Trump administration. As NATO leaders prepare to gather for next week's summit, a group of senior European conservative lawmakers visited Washington with a message they hope will resonate inside the Trump administration: Support for Ukraine and concern over Iran are not mutually exclusive. European Conservatives Bring Unity Message To US: Ukraine Matters.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Tech bro Thiel says Pope, by criticizing AI, serves as CCP agent",
-      "url": "https://asiatimes.com/2026/07/tech-bro-thiel-says-pope-by-criticizing-ai-serves-as-ccp-agent/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-07-03T15:24:09+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Peter_Thiel_51876933345.jpg",
-      "summary": "Tech billionaire Peter Thiel stated at the Aspen Ideas Festival that Pope Leo XIV's criticisms of artificial intelligence align with the interests of the Chinese Communist Party. Thiel suggested the Pope's 42,000-word encyclical on AI functions as an unwitting tool for Beijing. He argued this stance hinders Western technological advancement. Right-wing tech billionaire Peter Thiel is accusing Pope Leo XIV of doing the work of the Chinese Communist Party with his criticisms of artificial intelligence.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Is Serbia's President Pulling A Putin-Medvedev Power Swap?",
-      "url": "https://www.rferl.org/a/vucic-resignation-protests-election/33795670.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-03T15:09:36+00:00",
-      "image_url": "https://gdb.rferl.org/4ac6dcf5-65bd-4176-2d1f-08decd1f5434_w1200_h630.jpg",
-      "summary": "Aleksandar Vucic announced his resignation as Serbia's president. He will step down in the coming weeks. Vucic has faced nearly two years of student-led protests. Aleksandar Vucic has announced his resignation in the \"coming weeks.\" Burdened by almost two years of student-led protests, is Serbia's most powerful political figure under too much pressure or is this a calculated political play with another top job in sight?",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Kyiv Mourns Victims Of Major Russian Drone And Missile Attack",
-      "url": "https://www.rferl.org/a/ukraine-russia-war-kyiv-attack/33795616.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-03T14:35:12+00:00",
-      "image_url": "https://gdb.rferl.org/6e10d1f3-55d7-4e01-7bf9-08decad17715_cx4_cy10_cw80_w1200_h630.jpeg",
-      "summary": "On July 2, a Russian attack on Kyiv killed at least 30 people and injured nearly 100. The overnight strike was one of the biggest hits on the Ukrainian capital this year. Kyiv residents mourned the victims. Kyiv residents mourned those killed in a Russian overnight attack on July 2 that marked one of the biggest strikes on the Ukrainian capital this year and left at least 30 people dead and nearly 100 more injured.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "मेलोनी पर ट्रंप के तंज को लेकर इटली ने दिखाया अमेरिकी राष्ट्रपति को आईना, क्या बोले रक्षा मंत्री?",
-      "url": "https://www.amarujala.com/world/italy-hits-back-after-donald-trump-s-jibe-at-giorgia-meloni-says-people-come-and-go-relations-must-endure-2026-07-06",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-07T06:49:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/06/trump-meloni_8e8f168b51093b6596320502bb3da87f.jpeg?w=1200&dpr=1.0",
-      "summary": "इटली के रक्षा मंत्री ने डोनाल्ड ट्रंप के जिबे पर प्रतिक्रिया दी, कहा लोग आते-जाते रहते हैं, रिश्ते बने रहते हैं। यह बयान ट्रंप के जॉर्जिया मेलोनी पर तंज के बाद आया है। इटली ने इस मुद्दे पर अपनी स्थिति स्पष्ट की। मेलोनी पर ट्रंप के तंज को लेकर इटली ने दिखाया अमेरिकी राष्ट्रपति को आईना, क्या बोले रक्षा मंत्री?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मेलोनी पर ट्रंप के तंज को लेकर इटली ने दिखाया अमेरिकी राष्ट्रपति को आईना, क्या बोले रक्षा मंत्री?",
-          "summary": "इटली के रक्षा मंत्री ने डोनाल्ड ट्रंप के जिबे पर प्रतिक्रिया दी, कहा लोग आते-जाते रहते हैं, रिश्ते बने रहते हैं। यह बयान ट्रंप के जॉर्जिया मेलोनी पर तंज के बाद आया है। इटली ने इस मुद्दे पर अपनी स्थिति स्पष्ट की। मेलोनी पर ट्रंप के तंज को लेकर इटली ने दिखाया अमेरिकी राष्ट्रपति को आईना, क्या बोले रक्षा मंत्री?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "PM Modi Indonesia Visit LIVE News: पीएम मोदी इंडोनेशिया दौरे पर, आज ब्रह्मोस सौदे पर लग सकती है मुहर",
       "url": "https://www.amarujala.com/live/india-news/pm-modi-foreign-visit-updates-jakarta-prez-indonesia-australia-new-zealand-meeting-schedule-speech-hindi-news-2026-07-06",
       "source": "Amar Ujala National",
@@ -339,6 +321,24 @@
         "hi": {
           "title": "PM Modi Indonesia Visit LIVE News: पीएम मोदी इंडोनेशिया दौरे पर, आज ब्रह्मोस सौदे पर लग सकती है मुहर",
           "summary": "प्रधानमंत्री मोदी इंडोनेशिया दौरे पर हैं, जहां आज ब्रह्मोस सौदे पर मुहर लग सकती है। यह सौदा उनकी विदेश यात्रा के पहले चरण का महत्वपूर्ण हिस्सा है। मोदी की इंडोनेशिया यात्रा के दौरान कई महत्वपूर्ण समझौतों की उम्मीद है। PM Modi Indonesia Visit LIVE News: पीएम मोदी इंडोनेशिया पहुंचे, विदेश दौरे के पहले चरण में क्या कार्यक्रम? PM Modi Indonesia Visit LIVE News: पीएम मोदी इंडोनेशिया दौरे पर, आज ब्रह्मोस सौदे पर लग सकती है मुहर।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "Venezuela Double Earthquakes: मरने वालों की संख्या पहुंची 3,342, रेस्क्यू ऑपरेशन जारी",
+      "url": "https://www.patrika.com/world-news/venezuela-double-earthquakes-death-toll-rises-to-3342-rescue-operations-continue-20726119",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-06T19:01:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/venezuela-double-earthquakes.webp",
+      "summary": "वेनेज़ुएला में 24 जून को आए 7.2 और 7.5 तीव्रता के डबल भूकंपों से मरने वालों की संख्या 3,342 हो गई है। रेस्क्यू ऑपरेशन जारी है। भूकंपों से जान-माल का भारी नुकसान हुआ है। वेनेज़ुएला (Venezuela) में भारतीय समयानुसार 25 जून (लोकल समयानुसार 24 जून) को आए 7.2 और 7.5 तीव्रता के डबल भूकंपों (Double Earthquakes) की वजह से देश में मरने वालों की संख्या में इजाफे का सिलसिला अभी भी थमा नहीं है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Venezuela Double Earthquakes: मरने वालों की संख्या पहुंची 3,342, रेस्क्यू ऑपरेशन जारी",
+          "summary": "वेनेज़ुएला में 24 जून को आए 7.2 और 7.5 तीव्रता के डबल भूकंपों से मरने वालों की संख्या 3,342 हो गई है। रेस्क्यू ऑपरेशन जारी है। भूकंपों से जान-माल का भारी नुकसान हुआ है। वेनेज़ुएला (Venezuela) में भारतीय समयानुसार 25 जून (लोकल समयानुसार 24 जून) को आए 7.2 और 7.5 तीव्रता के डबल भूकंपों (Double Earthquakes) की वजह से देश में मरने वालों की संख्या में इजाफे का सिलसिला अभी भी थमा नहीं है।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -358,6 +358,60 @@
           "title": "यूक्रेन-रूस जंग को आसान समझा था लेकिन... ट्रंप का बड़ा दावा, पुतिन और जेलेंस्की अब युद्ध खत्म करना",
           "summary": "अमेरिकी राष्ट्रपति ट्रंप ने कहा है कि रूस के राष्ट्रपति पुतिन और यूक्रेन के राष्ट्रपति जेलेंस्की युद्ध खत्म करना चाहते हैं. अमेरिकी राष्ट्रपति ट्रंप ने दुनिया को चौंकाते हुए कहा है कि रूस के राष्ट्रपति व्लादिमीर पुतिन और यूक्रेन के राष्ट्रपति वोलोदिमीर जेलेंस्की दोनों अब युद्ध खत्म करना चाहते हैं. यह दावा ऐसे वक्त आया है, जब रूस ने कीव पर भीषण हवाई हमला कर एक बार फिर युद्ध की भयावह तस्वीर दुनिया के सामने रख दी.",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "नीरव मोदी के भारत प्रत्यर्पण का रास्ता साफ, विदेश में आखिरी कानूनी लड़ाई भी हारा",
+      "url": "https://www.patrika.com/world-news/nirav-modi-extradition-to-india-now-imminent-after-he-lost-his-final-legal-battle-abroad-20726104",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-06T18:18:21+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/nirav.webp",
+      "summary": "नीरव मोदी के भारत प्रत्यर्पण का रास्ता साफ हो गया है। वह यूरोपीय मानवाधिकार न्यायालय में अपनी आखिरी कानूनी लड़ाई हार गया है। मोदी 13,000 करोड़ रुपए के पंजाब नेशनल बैंक ऋण घोटाले का मुख्य आरोपी है। पंजाब नेशनल बैंक (PNB) ऋण घोटाले का आरोपी नीरव मोदी (Nirav Modi) जिसे भारत सरकार (Indian Government) द्वारा भगोड़ा घोषित कर दिया गया है, के प्रत्यर्पण का रास्ता अब साफ हो गया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नीरव मोदी के भारत प्रत्यर्पण का रास्ता साफ, विदेश में आखिरी कानूनी लड़ाई भी हारा",
+          "summary": "नीरव मोदी के भारत प्रत्यर्पण का रास्ता साफ हो गया है। वह यूरोपीय मानवाधिकार न्यायालय में अपनी आखिरी कानूनी लड़ाई हार गया है। मोदी 13,000 करोड़ रुपए के पंजाब नेशनल बैंक ऋण घोटाले का मुख्य आरोपी है। पंजाब नेशनल बैंक (PNB) ऋण घोटाले का आरोपी नीरव मोदी (Nirav Modi) जिसे भारत सरकार (Indian Government) द्वारा भगोड़ा घोषित कर दिया गया है, के प्रत्यर्पण का रास्ता अब साफ हो गया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भरतनाट्यम से रामायण तक... इंडोनेशिया में भारतीय संस्कृति पर फिदा हुए पीएम मोदी",
+      "url": "https://hindi.news18.com/photogallery/nation/bharatanatyam-to-ramayana-pm-modi-captivated-by-indian-culture-in-indonesia-10634019.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-06T17:56:54+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Modi-4-2026-07-5e20d5a4c5f323f296cd5823eeef156e-1200x800.jpg",
+      "summary": "पीएम मोदी के इंडोनेशिया दौरे में भारतीय संस्कृति का प्रदर्शन हुआ। भरतनाट्यम और रामायण पर आधारित शैडो पपेट्री की प्रस्तुतियाँ हुईं। इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने खुद एयरपोर्ट पर मोदी का स्वागत किया। इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने खुद एयरपोर्ट पहुंचकर पीएम मोदी का स्वागत किया, जबकि भारतीय समुदाय ने अभूतपूर्व उत्साह के साथ उनका अभिनंदन किया. भरतनाट्यम, रामायण पर आधारित शैडो पपेट्री और भगवान बुद्ध पर सांस्कृतिक प्रस्तुतियों ने इस दौरे को सांस्कृतिक कूटनीति का भी शानदार उदाहरण बना दिया.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भरतनाट्यम से रामायण तक... इंडोनेशिया में भारतीय संस्कृति पर फिदा हुए पीएम मोदी",
+          "summary": "पीएम मोदी के इंडोनेशिया दौरे में भारतीय संस्कृति का प्रदर्शन हुआ। भरतनाट्यम और रामायण पर आधारित शैडो पपेट्री की प्रस्तुतियाँ हुईं। इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने खुद एयरपोर्ट पर मोदी का स्वागत किया। इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने खुद एयरपोर्ट पहुंचकर पीएम मोदी का स्वागत किया, जबकि भारतीय समुदाय ने अभूतपूर्व उत्साह के साथ उनका अभिनंदन किया. भरतनाट्यम, रामायण पर आधारित शैडो पपेट्री और भगवान बुद्ध पर सांस्कृतिक प्रस्तुतियों ने इस दौरे को सांस्कृतिक कूटनीति का भी शानदार उदाहरण बना दिया.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत से जंग के मूड में पाक‍िस्‍तान! आर्मी कमांडरों को ब‍िठाकर आस‍िम मुनीर ने कर द‍िया ऐलान",
+      "url": "https://hindi.news18.com/world/pakistan-pak-army-chief-threatens-india-over-indus-water-treaty-dispute-ws-l-10634183.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-06T17:50:45+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-army-6-2026-07-038b685e20e6b7b11a6c3619368dd0b3-1200x800.jpg",
+      "summary": "पाकिस्तान के आर्मी चीफ आसिम मुनीर ने भारत को धमकाया है। उन्होंने कहा कि सिंधु का पानी रोकने के लिए हर जरूरी कदम उठाया जाएगा। यह घोषणा आर्मी हेडक्वार्टर में कोर कमांडर्स की बैठक में की गई। पाकिस्तान के आर्मी चीफ आसिम मुनीर ने सिंधु का पानी रोकने पर एक बार फ‍िर भारत को धमकाने की कोश‍िश की है. आर्मी हेडक्‍वार्टर में पाक‍िस्‍तानी सेना के कोर कमांडर्स की मीटिंग के दौरान इस पर लंबी चर्चा हुई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत से जंग के मूड में पाक‍िस्‍तान! आर्मी कमांडरों को ब‍िठाकर आस‍िम मुनीर ने कर द‍िया ऐलान",
+          "summary": "पाकिस्तान के आर्मी चीफ आसिम मुनीर ने भारत को धमकाया है। उन्होंने कहा कि सिंधु का पानी रोकने के लिए हर जरूरी कदम उठाया जाएगा। यह घोषणा आर्मी हेडक्वार्टर में कोर कमांडर्स की बैठक में की गई। पाकिस्तान के आर्मी चीफ आसिम मुनीर ने सिंधु का पानी रोकने पर एक बार फ‍िर भारत को धमकाने की कोश‍िश की है. आर्मी हेडक्‍वार्टर में पाक‍िस्‍तानी सेना के कोर कमांडर्स की मीटिंग के दौरान इस पर लंबी चर्चा हुई है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -398,6 +452,24 @@
       }
     },
     {
+      "title": "इधर खामेनेई का निकला जनाजा उधर ट्रंप ने याद करवाया अल्टीमेटम, बोले- या तो डील करेंगे नहीं तो ईरान",
+      "url": "https://hindi.news18.com/world/america-donald-trump-warning-us-either-do-new-deal-with-iran-or-finish-completely-sjn-10633976.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-06T16:36:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-trump-19-2026-06-428362eedb6f194cac9811d9696f1616-1200x800.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने कहा है कि या तो वे ईरान के साथ डील करेंगे नहीं तो उन्हें खत्म कर देंगे। यह बयान पूर्व सुप्रीम लीडर अली खामेनेई के जनाजे की रस्मों के दौरान आया है। अमेरिकी राष्ट्रपति का एक टेलीविजन इंटरव्यू में दिया बयान चर्चा में आ गया है. इसमें उन्होंने धमकी भरे लहजे में कहा कि या तो वो ईरान के साथ डील करेंगे नहीं तो उन्हें खत्म कर देंगे.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इधर खामेनेई का निकला जनाजा उधर ट्रंप ने याद करवाया अल्टीमेटम, बोले- या तो डील करेंगे नहीं तो ईरान",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने कहा है कि या तो वे ईरान के साथ डील करेंगे नहीं तो उन्हें खत्म कर देंगे। यह बयान पूर्व सुप्रीम लीडर अली खामेनेई के जनाजे की रस्मों के दौरान आया है। अमेरिकी राष्ट्रपति का एक टेलीविजन इंटरव्यू में दिया बयान चर्चा में आ गया है. इसमें उन्होंने धमकी भरे लहजे में कहा कि या तो वो ईरान के साथ डील करेंगे नहीं तो उन्हें खत्म कर देंगे.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "ट्रंप की ईरान को खुली चेतावनी, बोले- या समझौता होगा या काम पूरा करेंगे",
       "url": "https://www.patrika.com/world-news/donald-trump-on-iran-deal-warning-bridges-statement-20725925",
       "source": "Patrika (World)",
@@ -434,73 +506,37 @@
       }
     },
     {
-      "title": "मणिपुर में उग्रवादियों का हमला, असम राइफल्स के दो जवान शहीद कई घायल; राज्यपाल ने जताया दुख",
-      "url": "https://www.abplive.com/news/india/two-assam-rifles-soldiers-killed-in-militants-attack-manipur-ukhrul-district-northeast-news-3155891",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-06T14:27:10+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/06/5b6e06a9cdac504b6f7d1603a4f87dcc17833483568621324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "मणिपुर के उखरुल जिले में उग्रवादियों के हमले में असम राइफल्स के दो जवान मारे गए और कई घायल हुए। मणिपुर के राज्यपाल ने हमले की निंदा की और दुख जताया। घटना के बाद इलाके को सील कर दिया गया और सुरक्षाबल तैनात किए गए। मणिपुर के उखरुल जिले में उग्रवादियों के हमले में असम राइफल्स के दो जवानों मारे गए हैं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मणिपुर में उग्रवादियों का हमला, असम राइफल्स के दो जवान शहीद कई घायल; राज्यपाल ने जताया दुख",
-          "summary": "मणिपुर के उखरुल जिले में उग्रवादियों के हमले में असम राइफल्स के दो जवान मारे गए और कई घायल हुए। मणिपुर के राज्यपाल ने हमले की निंदा की और दुख जताया। घटना के बाद इलाके को सील कर दिया गया और सुरक्षाबल तैनात किए गए। मणिपुर के उखरुल जिले में उग्रवादियों के हमले में असम राइफल्स के दो जवानों मारे गए हैं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी इंड‍ोनेश‍िया पहुंचे तो बहुत कुछ हुआ 'आउट ऑफ द वे', भारत को म‍िलेगी बड़ी खुशखबरी",
-      "url": "https://hindi.news18.com/world/south-asia-pm-modi-indonesia-visit-india-opportunity-president-breaks-protocol-for-grand-welcome-10633492.html",
+      "title": "10 मंजिला इमारत के मलबे में 32 घंटे दबी रही, केचप और चीज खाकर जिंदा रही वेनेजुएला की 12 साल की",
+      "url": "https://hindi.news18.com/world/rest-of-world-12-year-old-girl-fabiana-from-venezuela-survived-by-eating-ketchup-and-cheese-10633799.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-06T14:15:04+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/PM-Modi-Indonesia-Visit-2026-07-64694ebae55bfa703ab5482cb64e669d-1200x800.jpg",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेश‍िया पहुंचे और राष्‍ट्रपत‍ि ने उनका ग्रैंड वेलकम किया। प्रधानमंत्री नरेंद्र मोदी इंडोनेश‍िया की राजधानी जकार्ता पहुंचे तो उनका ग्रैंड वेलकम हुआ. राष्‍ट्रपत‍ि समेत आधी सरकार उनकी अगवानी के ल‍िए एयरपोर्ट पर मौजूद थी. लेकिन उससे भी महत्‍वपूर्ण भारत को इस दौरे से बहुत कुछ म‍िलने जा रहा है. पीएम मोदी इंड‍ोनेश‍िया पहुंचे तो बहुत कुछ हुआ 'आउट ऑफ द वे', भारत को म‍िलेगी बड़ी खुशखबरी।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-07-06T15:13:46+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Fabiana-Venezuala-Reuters-2026-07-e4519b23c837f2caa52ceccde89ec35e-1200x800.jpg",
+      "summary": "वेनेजुएला में 12 साल की फैबियाना 32 घंटे तक 10 मंजिला इमारत के मलबे में दबी रही। वह केचप और चीज खाकर जिंदा रही। फैबियाना अपने पहली मंजिला फ्लैट में बैठी थी जब भूकंप के झटके से इमारत मलबे में दब गई। वेनेजुएला की 12 साल की फैबियाना भूकंप के दिन 10 मंजिला इमारत में थी. वो अपने पहली मंजिला फ्लैट में बैठी थी.",
+      "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पीएम मोदी इंड‍ोनेश‍िया पहुंचे तो बहुत कुछ हुआ 'आउट ऑफ द वे', भारत को म‍िलेगी बड़ी खुशखबरी",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेश‍िया पहुंचे और राष्‍ट्रपत‍ि ने उनका ग्रैंड वेलकम किया। प्रधानमंत्री नरेंद्र मोदी इंडोनेश‍िया की राजधानी जकार्ता पहुंचे तो उनका ग्रैंड वेलकम हुआ. राष्‍ट्रपत‍ि समेत आधी सरकार उनकी अगवानी के ल‍िए एयरपोर्ट पर मौजूद थी. लेकिन उससे भी महत्‍वपूर्ण भारत को इस दौरे से बहुत कुछ म‍िलने जा रहा है. पीएम मोदी इंड‍ोनेश‍िया पहुंचे तो बहुत कुछ हुआ 'आउट ऑफ द वे', भारत को म‍िलेगी बड़ी खुशखबरी।",
-          "region": "एशिया-प्रशांत"
+          "title": "10 मंजिला इमारत के मलबे में 32 घंटे दबी रही, केचप और चीज खाकर जिंदा रही वेनेजुएला की 12 साल की",
+          "summary": "वेनेजुएला में 12 साल की फैबियाना 32 घंटे तक 10 मंजिला इमारत के मलबे में दबी रही। वह केचप और चीज खाकर जिंदा रही। फैबियाना अपने पहली मंजिला फ्लैट में बैठी थी जब भूकंप के झटके से इमारत मलबे में दब गई। वेनेजुएला की 12 साल की फैबियाना भूकंप के दिन 10 मंजिला इमारत में थी. वो अपने पहली मंजिला फ्लैट में बैठी थी.",
+          "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "ग्लोबल पासपोर्ट रैंकिंग में 74 से 125 पर पहुंचा भारत, खरगे का मोदी सरकार पर हमला, जानें पाकिस्तान",
-      "url": "https://www.abplive.com/news/india/mallikarjun-kharge-congress-slams-pm-modi-on-indian-passport-ranking-slips-to-125th-knows-pakistan-position-3155853",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-06T13:33:49+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/06/e661e92f7859ef3d6ab060201a0653e11783342999765708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने भारतीय पासपोर्ट की वैश्विक रैंकिंग में गिरावट पर मोदी सरकार पर निशाना साधा। उन्होंने कहा कि सरकार की नीतियों के कारण देश की वैश्विक प्रतिष्ठा को नुकसान पहुंचा है। भारत अब 74 से 125वें स्थान पर पहुंच गया है। कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने भारतीय पासपोर्ट की वैश्विक रैंकिंग में गिरावट को लेकर सोमवार (6 जुलाई 2026) को नरेंद्र मोदी सरकार पर निशाना साधा.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ग्लोबल पासपोर्ट रैंकिंग में 74 से 125 पर पहुंचा भारत, खरगे का मोदी सरकार पर हमला, जानें पाकिस्तान",
-          "summary": "कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने भारतीय पासपोर्ट की वैश्विक रैंकिंग में गिरावट पर मोदी सरकार पर निशाना साधा। उन्होंने कहा कि सरकार की नीतियों के कारण देश की वैश्विक प्रतिष्ठा को नुकसान पहुंचा है। भारत अब 74 से 125वें स्थान पर पहुंच गया है। कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने भारतीय पासपोर्ट की वैश्विक रैंकिंग में गिरावट को लेकर सोमवार (6 जुलाई 2026) को नरेंद्र मोदी सरकार पर निशाना साधा.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी की सुरक्षा से खिलवाड़ नहीं, ऑस्ट्रेलिया पुलिस ने धमकी देने वाले को ढूंढकर सिखाया सबक",
-      "url": "https://hindi.news18.com/world/rest-of-world-young-man-threat-against-pm-narendra-modi-on-internet-tracked-10633453.html",
+      "title": "'सरफ़रोशी की तमन्ना...' रामप्रसाद बिस्मिल की कविता से गूंजा POK, पाकिस्तान को अल्टीमेटम",
+      "url": "https://hindi.news18.com/world/pakistan-pok-echoes-with-ramprasad-bismil-s-poem-protestors-ultimate-to-pakistan-army-and-government-sjn-10633122.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-06T12:49:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Narendra-Modi-2026-06-ebeba60dacf36271f9c119b274ece5bf-1200x800.jpg",
-      "summary": "ऑस्ट्रेलिया पुलिस ने पीएम मोदी को धमकी देने वाले युवक को धर दबोचा है और सुरक्षा को लेकर खतरा नहीं है। प्रधानमंत्री नरेंद्र मोदी को धमकी देने वाले युवक को ऑस्ट्रेलियाई पुलिस ने धर दबोचा है. उसने पीएम मोदी के ऑस्ट्रेलिया दौरे के एक पोस्ट पर कमेंट किया. इसमें उसने पीएम को धमकी दी थी. पुलिस ने लोगों को भरोसा दिलाते हुए कहा है कि आम जनता के लिए डरने की कोई बात नहीं है और अब सुरक्षा को लेकर कोई खतरा नहीं बचा है.",
+      "published_at": "2026-07-06T13:23:05+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/POK-Protest-2026-07-4d15dac6e19e6d42ca10e8d20c360ffd-1200x800.jpg",
+      "summary": "पीओके में पाकिस्तान सरकार के खिलाफ गुस्सा बढ़ रहा है। प्रदर्शनकारियों ने रामप्रसाद बिस्मिल की कविता 'सरफ़रोशी की तमन्ना' से प्रेरित होकर पाकिस्तान सरकार को अल्टीमेटम दिया है। इसके बाद आर-पार की लड़ाई शुरू की जाएगी। पीओके में पाकिस्तान की सरकार के खिलाफ अब गुस्सा सांतवें आसमान पर है. इन दिनों सड़कें रामप्रसाद बिस्मिल की कविता से गूंज रही हैं.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पीएम मोदी की सुरक्षा से खिलवाड़ नहीं, ऑस्ट्रेलिया पुलिस ने धमकी देने वाले को ढूंढकर सिखाया सबक",
-          "summary": "ऑस्ट्रेलिया पुलिस ने पीएम मोदी को धमकी देने वाले युवक को धर दबोचा है और सुरक्षा को लेकर खतरा नहीं है। प्रधानमंत्री नरेंद्र मोदी को धमकी देने वाले युवक को ऑस्ट्रेलियाई पुलिस ने धर दबोचा है. उसने पीएम मोदी के ऑस्ट्रेलिया दौरे के एक पोस्ट पर कमेंट किया. इसमें उसने पीएम को धमकी दी थी. पुलिस ने लोगों को भरोसा दिलाते हुए कहा है कि आम जनता के लिए डरने की कोई बात नहीं है और अब सुरक्षा को लेकर कोई खतरा नहीं बचा है.",
+          "title": "'सरफ़रोशी की तमन्ना...' रामप्रसाद बिस्मिल की कविता से गूंजा POK, पाकिस्तान को अल्टीमेटम",
+          "summary": "पीओके में पाकिस्तान सरकार के खिलाफ गुस्सा बढ़ रहा है। प्रदर्शनकारियों ने रामप्रसाद बिस्मिल की कविता 'सरफ़रोशी की तमन्ना' से प्रेरित होकर पाकिस्तान सरकार को अल्टीमेटम दिया है। इसके बाद आर-पार की लड़ाई शुरू की जाएगी। पीओके में पाकिस्तान की सरकार के खिलाफ अब गुस्सा सांतवें आसमान पर है. इन दिनों सड़कें रामप्रसाद बिस्मिल की कविता से गूंज रही हैं.",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -520,6 +556,24 @@
           "title": "रूस के S-400 एयर डिफेंस सिस्टम को यूक्रेन ने कर दिया ध्वस्त, तेल डिपो को भी बनाया निशाना",
           "summary": "यूक्रेन की ड्रोन सेना ने रूस के कब्जे वाले क्रीमिया समेत कई इलाकों पर हमला किया है. इस हमले में रूस के 47 सैन्य ठिकानों को निशाना बनाया गया, जिनमें दो S-400 एयर डिफेंस सिस्टम और एक तेल डिपो शामिल हैं. Ukraine Russia War: यूक्रेन का दावा है कि उसकी ड्रोन सेना (अनमैन्ड सिस्टम्स फोर्स) ने 5 और 6 जुलाई की रात रूस के कब्जे वाले क्रीमिया समेत कई इलाकों पर बड़ा हमला किया है।",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "लेबनान पर बढ़ता जा रहा इजरायल का अत्याचार, आखिर क्यों बेंजामिन नेतन्याहू से चिढ़ते हैं 5 मुस्लिम देश?",
+      "url": "https://www.patrika.com/world-news/israel-attack-on-lebanon-banjamin-netanyahu-enemies-country-like-pakistan-over-list-of-five-20725435",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-06T12:35:55+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Benjamin-Netanyahu-0.webp",
+      "summary": "इजरायल के प्रति नफरत करने वाले देशों की सूची लंबी है। इनमें से पांच मुस्लिम देश इजरायल को नेस्तनाबूद करने की बात करते हैं। इजरायल ने दुश्मन देशों को मुंहतोड़ जवाब दिया है, और अमेरिका और भारत के साथ उसके मित्रतापूर्ण संबंध हैं। Israel Enemy Countries: इजरायल के प्रति नफरत को लेकर दुश्मन देशों की सूची काफी लंबी है। इस सूची में शामिल टॉप 5 देश और उनके नेता लगातार इजरायल को नेस्तनाबूद करने की बात करते हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लेबनान पर बढ़ता जा रहा इजरायल का अत्याचार, आखिर क्यों बेंजामिन नेतन्याहू से चिढ़ते हैं 5 मुस्लिम देश?",
+          "summary": "इजरायल के प्रति नफरत करने वाले देशों की सूची लंबी है। इनमें से पांच मुस्लिम देश इजरायल को नेस्तनाबूद करने की बात करते हैं। इजरायल ने दुश्मन देशों को मुंहतोड़ जवाब दिया है, और अमेरिका और भारत के साथ उसके मित्रतापूर्ण संबंध हैं। Israel Enemy Countries: इजरायल के प्रति नफरत को लेकर दुश्मन देशों की सूची काफी लंबी है। इस सूची में शामिल टॉप 5 देश और उनके नेता लगातार इजरायल को नेस्तनाबूद करने की बात करते हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -560,24 +614,6 @@
       }
     },
     {
-      "title": "बलूचों के मवेशियों को भी नहीं छोड़ रही मुनीर की सेना, 100+ पशु मारने का आरोप",
-      "url": "https://hindi.news18.com/world/pakistan-pakistani-army-targets-cattle-in-balochistan-ws-l-10633333.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-06T11:53:12+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Your-paragraph-text-1600-x-900-px-2026-07-06T170259.276-2026-07-c03ec3aabe84a10d9e67479cb043bcc7-1200x800.jpg",
-      "summary": "पाकिस्तानी सेना ने हालिया ड्रोन हमले में एक परिवार के 100 से अधिक मवेशी मार दिए, जिससे उनकी आय का मुख्य स्रोत खत्म हो गया. यह आरोप बलोच नेता मीर यार बलोच ने लगाया है. पाकिस्तानी सेना पर सैन्य अभियानों के दौरान आजीविका को निशाना बनाने का आरोप है. पाकिस्तानी सेना सैन्य अभियानों के दौरान लोगों के साथ-साथ उनकी आजीविका को भी निशाना बना रही है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बलूचों के मवेशियों को भी नहीं छोड़ रही मुनीर की सेना, 100+ पशु मारने का आरोप",
-          "summary": "पाकिस्तानी सेना ने हालिया ड्रोन हमले में एक परिवार के 100 से अधिक मवेशी मार दिए, जिससे उनकी आय का मुख्य स्रोत खत्म हो गया. यह आरोप बलोच नेता मीर यार बलोच ने लगाया है. पाकिस्तानी सेना पर सैन्य अभियानों के दौरान आजीविका को निशाना बनाने का आरोप है. पाकिस्तानी सेना सैन्य अभियानों के दौरान लोगों के साथ-साथ उनकी आजीविका को भी निशाना बना रही है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "लेबनान पर इजराइल ने फिर कर दिया अटैक, ड्रोन ने नागरिक गाड़ी को बनाया निशाना, 4 लोगों की मौत",
       "url": "https://www.patrika.com/world-news/nabatieh-lebanon-israeli-attack-today-four-killed-20725273",
       "source": "Patrika (World)",
@@ -596,38 +632,20 @@
       }
     },
     {
-      "title": "‘ट्रंप नीच आदमी, घटिया गुंडा है!” मेलोनी को उकसाने पर इटली के कार्लो कैलेंडा ने Trump पर दिया बयान",
-      "url": "https://www.patrika.com/world-news/us-italy-donald-trump-giorgia-meloni-controversy-carlo-calenda-statement-20725207",
+      "title": "श्रीलंका की जेल में खूनी संघर्ष: 4 गार्ड्स और 19 कैदियों की मौत, 100 से ज्यादा घायल",
+      "url": "https://www.patrika.com/world-news/sri-lanka-prison-riot-negombo-25-killed-100-injured-rival-gangs-20725072",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-06T11:21:40+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-President-Donald-Trump-and-Italian-PM-Giorgia-Meloni-1.webp",
-      "summary": "कार्लो कैलेंडा ने डोनाल्ड ट्रंप को \"नीच आदमी, घटिया गुंडा\" कहा। यह बयान मेलोनी को उकसाने पर दिया गया। ट्रंप और मेलोनी के बीच फोटो विवाद तनाव में बदल गया था। Donald Trump-Giorgia Meloni Controversy: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और इटली की प्रधानमंत्री जियोर्जिया मेलोनी के बीच हंसी मजाक में शुरू हुआ फोटो विवाद दो राष्ट्र प्रमुखों के बीच तनाव में बदल गया है।",
-      "region": "Europe & Russia",
+      "published_at": "2026-07-06T10:34:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/srilankaprison1.webp",
+      "summary": "श्रीलंका की नेगोम्बो जेल में दो कैदी गिरोहों के बीच हिंसक झड़प हुई, जिसमें 23 लोगों की मौत हो गई। मृतकों में 4 जेल गार्ड शामिल हैं। इस घटना में करीब 100 लोग घायल हुए हैं जिन्हें अस्पताल में भर्ती कराया गया है। Sri Lanka Prison Riot: श्रीलंका की नेगोम्बो जेल में दो कैदी गिरोहों के बीच हुई हिंसक झड़प में 23 लोगों की मौत हो गई है।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘ट्रंप नीच आदमी, घटिया गुंडा है!” मेलोनी को उकसाने पर इटली के कार्लो कैलेंडा ने Trump पर दिया बयान",
-          "summary": "कार्लो कैलेंडा ने डोनाल्ड ट्रंप को \"नीच आदमी, घटिया गुंडा\" कहा। यह बयान मेलोनी को उकसाने पर दिया गया। ट्रंप और मेलोनी के बीच फोटो विवाद तनाव में बदल गया था। Donald Trump-Giorgia Meloni Controversy: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और इटली की प्रधानमंत्री जियोर्जिया मेलोनी के बीच हंसी मजाक में शुरू हुआ फोटो विवाद दो राष्ट्र प्रमुखों के बीच तनाव में बदल गया है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "‘भारत भी हमारे साथ है’, अमेरिकी वाइस प्रेसिडेंट जे डी वेंस के बयान पर इजरायल पीएम बेंजामिन",
-      "url": "https://www.patrika.com/world-news/israel-pm-benjamin-netanyahu-on-jd-vance-india-support-israel-us-relations-20725125",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-06T10:28:25+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/pm-modi-with-netanyahu_.webp",
-      "summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा कि भारत उन्हें जबरदस्त समर्थन देता है। India Supports Israel: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने अमेरिकी उपराष्ट्रपति जे. डी. वेंस के बयान का जवाब दिया है। जिसमें उन्होंने अमेरिका को इजरायल का एकमात्र ताकतवर सहयोगी बताया था। नेतन्याहू ने कहा कि इजरायल के कई दोस्त हैं और भारत उनमें सबसे अहम देशों में शामिल है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘भारत भी हमारे साथ है’, अमेरिकी वाइस प्रेसिडेंट जे डी वेंस के बयान पर इजरायल पीएम बेंजामिन",
-          "summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा कि भारत उन्हें जबरदस्त समर्थन देता है। India Supports Israel: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने अमेरिकी उपराष्ट्रपति जे. डी. वेंस के बयान का जवाब दिया है। जिसमें उन्होंने अमेरिका को इजरायल का एकमात्र ताकतवर सहयोगी बताया था। नेतन्याहू ने कहा कि इजरायल के कई दोस्त हैं और भारत उनमें सबसे अहम देशों में शामिल है।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "श्रीलंका की जेल में खूनी संघर्ष: 4 गार्ड्स और 19 कैदियों की मौत, 100 से ज्यादा घायल",
+          "summary": "श्रीलंका की नेगोम्बो जेल में दो कैदी गिरोहों के बीच हिंसक झड़प हुई, जिसमें 23 लोगों की मौत हो गई। मृतकों में 4 जेल गार्ड शामिल हैं। इस घटना में करीब 100 लोग घायल हुए हैं जिन्हें अस्पताल में भर्ती कराया गया है। Sri Lanka Prison Riot: श्रीलंका की नेगोम्बो जेल में दो कैदी गिरोहों के बीच हुई हिंसक झड़प में 23 लोगों की मौत हो गई है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -650,74 +668,20 @@
       }
     },
     {
-      "title": "‘हम अब भी साथ हैं’, चीटिंग की स्टोरी पर आकृति अग्रवाल ने तोड़ी चुप्पी; किया असल वजह का खुलासा",
-      "url": "https://www.amarujala.com/entertainment/akriti-aggarwal-breaks-silence-on-cheating-story-with-prithwi-shaw-says-we-are-still-together-2026-07-06",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-06T06:16:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/27/prithvi-shaw-akriti-agarwal-prithvi-shaw-akriti-agarwal-love-story-prithvi-shaw-akriti-agarwal-dat_32bc96c3d729bf22ed72bb7d73010a7e.jpeg?w=1200&dpr=1.0",
-      "summary": "आकृति अग्रवाल ने चीटिंग की अफवाहों पर सफाई दी। उन्होंने कहा कि वह पृथ्वी शॉ के साथ हैं। अफवाहों का खंडन करते हुए उन्होंने असल वजह का खुलासा किया। क्रिकेटर पृथ्वी शॉ की मंगेतर और एक्ट्रेस आकृति अग्रवाल ने हाल ही में सोशल मीडिया पर चल रही चीटिंग की अफवाहों पर सफाई दी है। जानिए उन्होंने क्या कुछ कहा। ‘हम अब भी साथ हैं’, चीटिंग की स्टोरी पर आकृति अग्रवाल ने तोड़ी चुप्पी; किया असल वजह का खुलासा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘हम अब भी साथ हैं’, चीटिंग की स्टोरी पर आकृति अग्रवाल ने तोड़ी चुप्पी; किया असल वजह का खुलासा",
-          "summary": "आकृति अग्रवाल ने चीटिंग की अफवाहों पर सफाई दी। उन्होंने कहा कि वह पृथ्वी शॉ के साथ हैं। अफवाहों का खंडन करते हुए उन्होंने असल वजह का खुलासा किया। क्रिकेटर पृथ्वी शॉ की मंगेतर और एक्ट्रेस आकृति अग्रवाल ने हाल ही में सोशल मीडिया पर चल रही चीटिंग की अफवाहों पर सफाई दी है। जानिए उन्होंने क्या कुछ कहा। ‘हम अब भी साथ हैं’, चीटिंग की स्टोरी पर आकृति अग्रवाल ने तोड़ी चुप्पी; किया असल वजह का खुलासा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गोयल बोले- 15-20 दिन में कानूनी समीक्षा पूरी होगी; ईयू-भारत मुक्त व्यापार समझौते से क्या मिलेगा?",
-      "url": "https://www.amarujala.com/business/business-diary/will-european-markets-open-up-for-india-in-15-days-deal-with-eu-nearing-finalization-2026-07-06",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-06T05:32:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/11/piyush-goyal_4bbe17e9e37e27208320895670100fc7.jpeg?w=1200&dpr=1.0",
-      "summary": "पीयूष गोयल ने कहा कि भारत-ईयू मुक्त व्यापार समझौते की कानूनी समीक्षा 15-20 दिनों में पूरी होगी। समझौते से भारत को यूरोप के देशों का बाजार खुलने की संभावना है। India-EU FTA: क्या 15 दिन बाद भारत के लिए खुलेगा यूरोप के देशों का बाजार? गोयल बोले- 15-20 दिन में कानूनी समीक्षा पूरी होगी; ईयू-भारत मुक्त व्यापार समझौते से क्या मिलेगा?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गोयल बोले- 15-20 दिन में कानूनी समीक्षा पूरी होगी; ईयू-भारत मुक्त व्यापार समझौते से क्या मिलेगा?",
-          "summary": "पीयूष गोयल ने कहा कि भारत-ईयू मुक्त व्यापार समझौते की कानूनी समीक्षा 15-20 दिनों में पूरी होगी। समझौते से भारत को यूरोप के देशों का बाजार खुलने की संभावना है। India-EU FTA: क्या 15 दिन बाद भारत के लिए खुलेगा यूरोप के देशों का बाजार? गोयल बोले- 15-20 दिन में कानूनी समीक्षा पूरी होगी; ईयू-भारत मुक्त व्यापार समझौते से क्या मिलेगा?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पश्चिम एशिया में भारतीय सैनिक का सम्मान, साइप्रस में मेडल मिलने क्या बोले उच्चायुक्त?",
-      "url": "https://www.amarujala.com/world/major-kp-singh-un-medal-indian-soldier-honored-in-west-asian-country-high-commissioner-in-cyprus-greetings-2026-07-06",
+      "title": "नाटो शिखर सम्मेलन से पहले बढ़ी कूटनीतिक हलचल, क्या है दौरे की अहमियत?",
+      "url": "https://www.amarujala.com/world/macron-arrives-in-syria-as-first-major-western-leader-to-visit-war-torn-country-under-new-leadership-2026-07-06",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-07-06T04:34:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/06/majara-kapa-saha-ka-samamanata-kaya-gaya_8d796810c13c6dbbb20f520c7c2fb1c9.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय सैनिक मेजर केपी सिंह को साइप्रस में मेडल से सम्मानित किया गया। उच्चायुक्त ने इस पर बयान दिया। पश्चिम एशिया में भारतीय सैनिक का सम्मान बढ़ा। Major KP Singh UN Medal: पश्चिम एशिया में भारतीय सैनिक का सम्मान, साइप्रस में मेडल मिलने क्या बोले उच्चायुक्त?",
-      "region": "Europe & Russia",
+      "published_at": "2026-07-06T06:02:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/07/emmanual-macron_e2034cdb949c0f0f83c50c919b406b17.jpeg?w=1200&dpr=1.0",
+      "summary": "फ्रांस के राष्ट्रपति मैक्रों सीरिया पहुंचे, नाटो शिखर सम्मेलन से पहले कूटनीतिक हलचल बढ़ गई। मैक्रों सीरिया के नए नेतृत्व के तहत यात्रा करने वाले पहले प्रमुख पश्चिमी नेता हैं। इस दौरे की अहमियत और इसके परिणामों पर नजर है। नाटो शिखर सम्मेलन से पहले बढ़ी कूटनीतिक हलचल, क्या है दौरे की अहमियत?",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पश्चिम एशिया में भारतीय सैनिक का सम्मान, साइप्रस में मेडल मिलने क्या बोले उच्चायुक्त?",
-          "summary": "भारतीय सैनिक मेजर केपी सिंह को साइप्रस में मेडल से सम्मानित किया गया। उच्चायुक्त ने इस पर बयान दिया। पश्चिम एशिया में भारतीय सैनिक का सम्मान बढ़ा। Major KP Singh UN Medal: पश्चिम एशिया में भारतीय सैनिक का सम्मान, साइप्रस में मेडल मिलने क्या बोले उच्चायुक्त?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "भारत ने वेनेजुएला में छोड़ी इंसानियत की अमिट छाप; विदेश मंत्री ने क्यों कहा धन्यवाद?",
-      "url": "https://www.amarujala.com/world/india-leaves-an-indelible-mark-of-humanity-by-operation-amistad-in-venezuela-em-express-gratitude-2026-07-06",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-06T04:34:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/06/vanajael-ma-paugdhata-ka-ilja-karata-bharataya-tama_347713c0675f23c36f8ba0f46076edf9.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत ने वेनेजुएला में ऑपरेशन अमिस्टाद के तहत इंसानियत की अमिट छाप छोड़ी। विदेश मंत्री ने इसके लिए धन्यवाद दिया। भारत की इस पहल की सराहना की गई। भारत ने वेनेजुएला में छोड़ी इंसानियत की अमिट छाप; विदेश मंत्री ने क्यों कहा धन्यवाद?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत ने वेनेजुएला में छोड़ी इंसानियत की अमिट छाप; विदेश मंत्री ने क्यों कहा धन्यवाद?",
-          "summary": "भारत ने वेनेजुएला में ऑपरेशन अमिस्टाद के तहत इंसानियत की अमिट छाप छोड़ी। विदेश मंत्री ने इसके लिए धन्यवाद दिया। भारत की इस पहल की सराहना की गई। भारत ने वेनेजुएला में छोड़ी इंसानियत की अमिट छाप; विदेश मंत्री ने क्यों कहा धन्यवाद?",
-          "region": "एशिया-प्रशांत"
+          "title": "नाटो शिखर सम्मेलन से पहले बढ़ी कूटनीतिक हलचल, क्या है दौरे की अहमियत?",
+          "summary": "फ्रांस के राष्ट्रपति मैक्रों सीरिया पहुंचे, नाटो शिखर सम्मेलन से पहले कूटनीतिक हलचल बढ़ गई। मैक्रों सीरिया के नए नेतृत्व के तहत यात्रा करने वाले पहले प्रमुख पश्चिमी नेता हैं। इस दौरे की अहमियत और इसके परिणामों पर नजर है। नाटो शिखर सम्मेलन से पहले बढ़ी कूटनीतिक हलचल, क्या है दौरे की अहमियत?",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -754,6 +718,42 @@
           "title": "ट्रंप के खिलाफ लगे नारे, खामेनेई की मौत का बदला लेने की मांग",
           "summary": "ईरान के पूर्व सुप्रीम लीडर आयातुल्लाह अली खामेनेई की अंतिम यात्रा तेहरान में शुरू हुई। लाखों लोग सड़कों पर उमड़ पड़े हैं। खामेनेई की मौत के बाद ट्रंप के खिलाफ नारे लगाए गए और बदला लेने की मांग की गई। ईरान के पूर्व सुप्रीम लीडर आयातुल्लाह अली खामेनेई की अंतिम यात्रा राजधानी तेहरान में शुरू हो चुकी है। करीब 10 किलोमीटर लंबे इस अंतिम यात्रा मार्ग पर लाखों लोग अपने नेता को आखिरी विदाई देने के लिए सड़कों पर उमड़ पड़े हैं।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जयशंकर और बहरीन के विदेश मंत्री की अहम मुलाकात; किन मुद्दों पर हुई बात?",
+      "url": "https://www.amarujala.com/world/india-bahrain-ties-set-for-boost-key-meeting-between-jaishankar-and-bahrain-s-foreign-minister-2026-07-06",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-06T03:13:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/06/esa-jayashakara-oura-bharana-vathasha-matara-da-abthalltafa-bna-rashatha-al-jayana_59135313d4ba7aa712e72f064b20b77c.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत और बहरीन के बीच संबंधों को मजबूत करने के लिए विदेश मंत्री एस. जयशंकर और बहरीन के विदेश मंत्री के बीच महत्वपूर्ण बैठक हुई। बैठक में द्विपक्षीय संबंधों और क्षेत्रीय मुद्दों पर चर्चा हुई। इससे भारत-बहरीन संबंधों को गति मिलने की उम्मीद है। जयशंकर और बहरीन के विदेश मंत्री की अहम मुलाकात; किन मुद्दों पर हुई बात?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जयशंकर और बहरीन के विदेश मंत्री की अहम मुलाकात; किन मुद्दों पर हुई बात?",
+          "summary": "भारत और बहरीन के बीच संबंधों को मजबूत करने के लिए विदेश मंत्री एस. जयशंकर और बहरीन के विदेश मंत्री के बीच महत्वपूर्ण बैठक हुई। बैठक में द्विपक्षीय संबंधों और क्षेत्रीय मुद्दों पर चर्चा हुई। इससे भारत-बहरीन संबंधों को गति मिलने की उम्मीद है। जयशंकर और बहरीन के विदेश मंत्री की अहम मुलाकात; किन मुद्दों पर हुई बात?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "विमान उतरने से पहले इंडोनेशिया की वायुसेना ने किया एस्कॉर्ट; पीएम जकार्ता में क्या बोले?",
+      "url": "https://www.amarujala.com/world/narendra-modi-indonesia-visit-photos-air-force-jets-escort-indian-pm-aircraft-prez-provo-welcome-in-jakarta-2026-07-06",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-06T00:16:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/06/idanashaya-thara-para-paema-matha-ka-savagata_4f725029a35da6b7b240f7c530a4b75f.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री की इंडोनेशिया यात्रा के दौरान, उनकी सुरक्षा के लिए इंडोनेशिया की वायुसेना ने उनके विमान का एस्कॉर्ट किया। जकार्ता में प्रधानमंत्री ने विभिन्न मुद्दों पर चर्चा की और द्विपक्षीय संबंधों को मजबूत करने पर जोर दिया। PM Indonesia Visit: विमान उतरने से पहले इंडोनेशिया की वायुसेना ने किया एस्कॉर्ट; पीएम जकार्ता में क्या बोले?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विमान उतरने से पहले इंडोनेशिया की वायुसेना ने किया एस्कॉर्ट; पीएम जकार्ता में क्या बोले?",
+          "summary": "प्रधानमंत्री की इंडोनेशिया यात्रा के दौरान, उनकी सुरक्षा के लिए इंडोनेशिया की वायुसेना ने उनके विमान का एस्कॉर्ट किया। जकार्ता में प्रधानमंत्री ने विभिन्न मुद्दों पर चर्चा की और द्विपक्षीय संबंधों को मजबूत करने पर जोर दिया। PM Indonesia Visit: विमान उतरने से पहले इंडोनेशिया की वायुसेना ने किया एस्कॉर्ट; पीएम जकार्ता में क्या बोले?",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
