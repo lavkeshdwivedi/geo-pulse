@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-07T21:33:18.508856+00:00",
+  "generated_at": "2026-07-07T22:27:51.032052+00:00",
   "article_count": 50,
-  "total_unique_count": 277,
+  "total_unique_count": 276,
   "digest": {
-    "en": "Somalia's conflict with Al-Shabaab continues. India's Prime Minister Modi expressed support for a two-state solution to the Israel-Palestine conflict. The World Health Organization warns of Ebola's spread in the DRC, where the death toll has surpassed 500.",
-    "hi": "होर्मुज जलडमरूमध्य में तीन जहाजों पर हमले की खबर है। ओमेगा ट्रेडर जहाज की सुरक्षा के लिए नौसेना ने कदम उठाए हैं और क्रू की स्थिति की जांच कर रही है। इस बीच, कराची के आसमान में एक विमान लापता हो गया है और समुद्र में सर्च ऑपरेशन जारी है।"
+    "en": "Somalia's conflict with Al-Shabaab continues. India supports a two-state solution for Israel-Palestine, according to PM Modi. The situation in Somalia contrasts with diplomatic efforts, such as India's stance on Israel-Palestine.",
+    "hi": "होर्मुज में तीन जहाजों पर हमले की खबर है। नौसेना ने ओमेगा ट्रेडर जहाज की सुरक्षा के लिए कदम उठाए हैं। क्रू की स्थिति की जानकारी नहीं दी गई है। \n\nUS ने ईरान पर हमले शुरू किए हैं और तेल टैंकरों को निशाना बनाने की खबर है। इससे क्षेत्र में तनाव बढ़ने की संभावना है। \n\nजापान में कई युवा भारतीय केयरगिवर बनने के लिए जापानी सीख रहे हैं। वे बुजुर्गों की देखभाल करना चाहते हैं।"
   },
   "articles": [
     {
@@ -44,23 +44,11 @@
       "translations": {}
     },
     {
-      "title": "On Our Radar",
-      "url": "https://www.crisisgroup.org/sco/global/our-radar",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Friday, July 3, 2026 - 19:07",
-      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Crisis Group's On Our Radar scans global conflicts and crises weekly. It highlights hotspots analysts are closely watching. The reports cover under-reported trends and headline-grabbing developments, with field experts explaining their significance and recommended actions. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Major outage hits Telstra mobile network; PM to host three Pacific leaders in Brisbane",
+      "title": "Major outage hits Telstra mobile network and shuts down Victoria’s regional trains",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-07-07T21:15:17+00:00",
+      "published_at": "2026-07-07T22:18:41+00:00",
       "image_url": "https://i.guim.co.uk/img/media/c7567d86bfa73f76ffe8ea94599bbec6ee242452/629_0_6293_5035/master/6293.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5a23eb4d5274840c29ccd8b23f0b6dad",
       "summary": "Australian Prime Minister Anthony Albanese will host leaders from Tonga, Samoa, and Papua New Guinea in Brisbane. They will attend the State of Origin decider. This meeting comes as Albanese faces pressure to discuss human rights concerns with Indian Prime Minister Narendra Modi during their upcoming summit in Melbourne. Leaders from Tonga, Samoa and Papua New Guinea to join Albanese at State of Origin decider.",
       "region": "Middle East & Africa",
@@ -104,6 +92,18 @@
       "translations": {}
     },
     {
+      "title": "French far-right chief Marine Le Pen cleared to run for President but with ankle tag",
+      "url": "https://www.thehindu.com/news/international/french-far-right-chief-marine-le-pen-cleared-to-run-for-president-but-with-ankle-tag/article71194169.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-07T14:17:32+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/73914k/article71194200.ece/alternates/LANDSCAPE_1200/2026-07-07T131424Z_739235045_RC209MA1752A_RTRMADP_3_FRANCE-POLITICS-LE-PEN.JPG",
+      "summary": "A Paris appeals court cleared Marine Le Pen to run for President, but sentenced her to one year under electronic tag for a fake jobs scam at the European Parliament. The court banned her from office for 15 months. Le Pen was found guilty of misusing EU funds. A Paris appeals court found Marine Le Pen guilty over the fake jobs scam at the European Parliament but reduced that sentence, banning her from office for 15 months as well as sentencing her to one year to be served with an electronic tag.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Ebola continues to spread in DRC as death toll passes 500, WHO warns",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167882",
       "source": "UN News",
@@ -112,6 +112,42 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/30-06-2026-UNFPA-DR-Congo-ebola-02.jpg/image770x420cropped.jpg",
       "summary": "The Bundibugyo species of Ebola continues to spread in the eastern Democratic Republic of the Congo. The World Health Organization reported the death toll has now passed 500. The outbreak of the deadly Bundibugyo species of Ebola in the eastern Democratic Republic of the Congo (DRC) is expanding, while the push to accelerate testing and identify effective treatment options continues, the UN World Health Organization (WHO) said on Tuesday.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "General Assembly LIVE: Debating US sanctions against Cuba",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167883",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-07T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/07-07-2026-UN-Photo-GA-Cuba.jpg/image770x420cropped.jpg",
+      "summary": "The UN General Assembly voted to debate US sanctions against Cuba at Havana's request. The decades-long embargo has worsened suffering on the Caribbean island. The meeting will discuss the impact of the sanctions. The UN General Assembly overwhelming voted to debate United States sanctions against Cuba in a meeting on Tuesday, at Havana’s request, to discuss the decades-long embargo amid warnings of increasing suffering on the Caribbean island.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Southwest Pacific’s last tropical glacier could vanish within months",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167889",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-07T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/07-07-2026-Adobe-Stock-Indonesia.jpg/image770x420cropped.jpg",
+      "summary": "The Southwest Pacific's last tropical glacier may vanish within months, the World Meteorological Organization (WMO) warned. Rising ocean temperatures and acidity threaten coastal communities. The region faces increasing climate risks. The Southwest Pacific is facing mounting climate risks as its vast ocean expanse becomes hotter, more acidic and more dangerous for coastal communities, the World Meteorological Organization (WMO) said in a report published on Tuesday.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Development goals deliver for billions, but challenges remain",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167888",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-07T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-UNICEF-DR-Congo-ebola-01.jpg/image770x420cropped.jpg",
+      "summary": "A UN report says the Sustainable Development Goals (SDGs) have improved billions of lives through investment and cooperation. With five years left, governments must accelerate action to meet the 2030 deadline. Challenges remain to achieve the goals. With fewer than five years left to achieve the Sustainable Development Goals (SDGs), a new UN report says sustained investment and international cooperation have improved billions of lives, but warns that governments must urgently accelerate action if the goals are to be met by their 2030 deadline.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -164,18 +200,6 @@
       "translations": {}
     },
     {
-      "title": "Severe storms in China bring tornadoes and landslides that have killed 15 people",
-      "url": "https://www.theguardian.com/world/2026/jul/07/china-severe-storms-death-toll-xi-jinping-rescue-efforts-landslides-tornadoes",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-07T06:51:54+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/308d3416e1774b5c02c53486cf0e5afc0d584a08/440_0_4400_3520/master/4400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=708d5af8e72093e9a6320e4e2825ea52",
-      "summary": "Severe storms across China have resulted in 15 deaths and hundreds of injuries. The storms brought tornadoes and landslides. Tens of thousands of people have been evacuated from affected areas. Chinese leader Xi Jinping has called for an \"all out\" rescue effort. Chinese leader Xi Jinping calls for ‘all out’ rescue effort as death toll rises and 16 people ⁠remain buried after a ⁠landslide in the country’s westThe death toll from devastating storms in parts of China rose to 15 on Tuesday, with hundreds more injured and tens of thousands evacuated, state media reported, as the country’s leader, Xi Jinping, urged “all out” efforts to rescue people affected by.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Australian PM says Chinese missile test could have caused ‘considerable damage’ if weaponised",
       "url": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows",
       "source": "The Guardian",
@@ -224,14 +248,14 @@
       "translations": {}
     },
     {
-      "title": "From AI to ‘killer robots’: UN chief issues urgent governance call",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167873",
+      "title": "Aid restrictions in Gaza, ‘senseless’ infant deaths in the West Bank",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-07-06T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/29-06-2026-AdobeStock_AI_06.jpg/image770x420cropped.jpg",
-      "summary": "UN chief António Guterres appealed for worldwide controls on Artificial Intelligence as AI chips are used in battlefields with \"killer robots\". UN chief António Guterres appealed on Monday for far-reaching, worldwide controls on Artificial Intelligence, as increasingly powerful AI chips that are designed for civilian use shift to the battlefield, where “killer robots” are already the norm. From AI to ‘killer robots’: UN chief issues urgent governance call.",
-      "region": "Global / Multilateral",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-05-2026_Gaza_Pestiside_Campaign4.jpg/image770x420cropped.jpg",
+      "summary": "The United Nations reported ongoing restrictions at Gaza border crossings. These closures impede the delivery of critical supplies. The UN expressed concern for children in both Gaza and the West Bank. Reports indicate senseless infant deaths in the West Bank. Ongoing restrictions and closures of border crossings continue to hamper delivery of critical supplies into the Gaza Strip, amid mounting concern for children there and in the West Bank, the United Nations said on Monday.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -248,6 +272,18 @@
       "translations": {}
     },
     {
+      "title": "From AI to ‘killer robots’: UN chief issues urgent governance call",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167873",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-06T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/29-06-2026-AdobeStock_AI_06.jpg/image770x420cropped.jpg",
+      "summary": "UN chief António Guterres appealed for worldwide controls on Artificial Intelligence as AI chips are used in battlefields with \"killer robots\". UN chief António Guterres appealed on Monday for far-reaching, worldwide controls on Artificial Intelligence, as increasingly powerful AI chips that are designed for civilian use shift to the battlefield, where “killer robots” are already the norm. From AI to ‘killer robots’: UN chief issues urgent governance call.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "UN continues to scale up as damage estimate reaches $37 billion",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167879",
       "source": "UN News",
@@ -256,18 +292,6 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/30-06-2026-UNOCHA-Venezuela-03.jpg/image770x420cropped.jpg",
       "summary": "The UN estimates $37 billion in damage from Venezuela's earthquakes, ramping up assistance efforts. The UN and its partners are ramping up assistance for people affected by the earthquakes in Venezuela, working alongside the Government's response effort, as a new UN estimate puts direct physical damage at $37 billion. UN continues to scale up as damage estimate reaches $37 billion.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Aid restrictions in Gaza, ‘senseless’ infant deaths in the West Bank",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-06T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-05-2026_Gaza_Pestiside_Campaign4.jpg/image770x420cropped.jpg",
-      "summary": "The United Nations reported ongoing restrictions at Gaza border crossings. These closures impede the delivery of critical supplies. The UN expressed concern for children in both Gaza and the West Bank. Reports indicate senseless infant deaths in the West Bank. Ongoing restrictions and closures of border crossings continue to hamper delivery of critical supplies into the Gaza Strip, amid mounting concern for children there and in the West Bank, the United Nations said on Monday.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -284,33 +308,9 @@
       "translations": {}
     },
     {
-      "title": "Trump-Zelenskyy Meeting Set For NATO Summit Amid US Push To End Russia's War",
-      "url": "https://www.rferl.org/a/33797244.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-05T19:19:27+00:00",
-      "image_url": "https://gdb.rferl.org/d1616acb-a86e-4f01-aa4c-22acd5a94fb6_w1200_h630.jpg",
-      "summary": "United States President Donald Trump will meet Ukraine's Volodymyr Zelenskyy at the NATO summit in Ankara. Washington aims to restart diplomacy on Russia's war and increase European defense responsibilities. US President Donald Trump will meet Ukraine's Volodymyr Zelenskyy on the sidelines of this week's NATO summit in Ankara. Washington seeks to revive stalled diplomacy over Russia's war while pressing European allies to take greater responsibility for the continent's defense.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ahead Of High-Stakes NATO Summit, Ex-US Envoy To OSCE James Gilmore Says Alliance Is Renewing Itself",
-      "url": "https://www.rferl.org/a/33797187.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-05T15:19:04+00:00",
-      "image_url": "https://gdb.rferl.org/e2541294-07e7-4acb-bc21-8c95f3c2da28_w1200_h630.jpg",
-      "summary": "James Gilmore, former US Ambassador to the OSCE, stated NATO is transforming rather than declining. He spoke ahead of the July 7-8 summit in Ankara. Leaders will discuss Russia's war in Ukraine and Middle East tensions. Gilmore believes the alliance is strengthening through this difficult period. WASHINGTON – As NATO leaders prepare for a pivotal July 7-8 summit in Ankara amid Russia's war against Ukraine and renewed tensions in the Middle East, former US Ambassador to the Organization for Security and Cooperation in Europe (OSCE) James Gilmore says the alliance is undergoing a difficult but ultimately strengthening transformation rather than entering a period of decline.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "होर्मुज में 3 जहाजों पर हमले: नौसेना ने ओमेगा ट्रेडर जहाज की सुरक्षा के लिए क्या कदम उठाया? क्रू",
       "url": "https://www.amarujala.com/india-news/india-navy-secures-safe-omega-trader-ship-omega-trader-with-15-indian-crew-heads-to-sikka-port-india-2026-07-08",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-08T06:41:59+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/08/kacaca-tal-sa-ltha-omaga-taradara-jahaja-ka-le-sakatamacaka-bna-bharataya-nasana_b7d9a0a24d8d36899f98fbdf012b9fe1.jpeg?w=1200&dpr=1.0",
@@ -326,19 +326,37 @@
       }
     },
     {
-      "title": "कराची के आसमान में उड़ रहा व‍िमान लापता, समुद्र में सर्च ऑपरेशन जारी",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-plane-missing-near-karachi-five-crew-search-operation-10637487.html",
-      "source": "News18 Hindi (World)",
+      "title": "क्या प. एशिया में फिर छिड़ेगा संघर्ष?: US ने ईरान पर शुरू किए हमले, तेल टैंकरों को निशाना बनाने पर",
+      "url": "https://www.amarujala.com/world/tensions-escalate-between-us-iran-us-central-command-launches-massive-strikes-on-iran-following-ship-attack-2026-07-08",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-07T20:11:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-plane-crash-2026-07-fc9725d3e1d7bea9d1f64cea56ac926a-1200x800.jpg",
-      "summary": "पाकिस्तान का K2 एयरवेज कार्गो विमान शारजाह से कराची आते समय नेविगेशन सिस्टम में खराबी की सूचना देने के बाद रडार से गायब हो गया. विमान में पांच क्रू मेंबर सवार थे. समुद्र में सर्च ऑपरेशन जारी है. शारजाह से कराची आ रहा पाकिस्तान का K2 एयरवेज कार्गो विमान नेविगेशन सिस्टम में खराबी की सूचना देने के कुछ मिनट बाद रडार से गायब हो गया.",
+      "published_at": "2026-07-07T21:42:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/08/amaraka-iirana-yathathha_ab70c7c4bbd3c842fb335554845b44eb.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी सेंट्रल कमांड ने ईरान पर हमले शुरू किए हैं। यह हमले ईरान द्वारा जहाजों पर हमला करने के बाद किए गए हैं। अमेरिकी सेना ने ईरानी सैन्य ठिकानों को निशाना बनाया है। क्या प. एशिया में फिर छिड़ेगा संघर्ष?: US ने ईरान पर शुरू किए हमले, तेल टैंकरों को निशाना बनाने पर।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या प. एशिया में फिर छिड़ेगा संघर्ष?: US ने ईरान पर शुरू किए हमले, तेल टैंकरों को निशाना बनाने पर",
+          "summary": "अमेरिकी सेंट्रल कमांड ने ईरान पर हमले शुरू किए हैं। यह हमले ईरान द्वारा जहाजों पर हमला करने के बाद किए गए हैं। अमेरिकी सेना ने ईरानी सैन्य ठिकानों को निशाना बनाया है। क्या प. एशिया में फिर छिड़ेगा संघर्ष?: US ने ईरान पर शुरू किए हमले, तेल टैंकरों को निशाना बनाने पर।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जापान में बुज़ुर्गों की देखभाल करना चाहते है कई युवा भारतीय, केयरगिवर बनने के लिए सीख रहे हैं जापानी",
+      "url": "https://www.patrika.com/world-news/many-young-indians-want-to-take-care-of-elderly-in-japan-learning-japanese-language-to-become-caregivers-20728915",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-07T21:09:16+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/young-indians-want-to-be-caregivers-in-japan.webp",
+      "summary": "मिजोरम में युवा जापानी भाषा सीख रहे हैं ताकि वे जापान में केयरगिवर बन सकें। 'यूथ4जापान' नामक एक भारतीय स्टार्टअप इस शिक्षा को प्रदान कर रहा है। इससे उन्हें बेहतर वेतन और भविष्य की संभावना है। भारत (India) के पूर्वोत्तर राज्य मिजोरम (Mizoram) की राजधानी आइजोल (Aizawal) की एक क्लास में 20-25 साल के कई युवा जापानी भाषा सीख रहे हैं।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कराची के आसमान में उड़ रहा व‍िमान लापता, समुद्र में सर्च ऑपरेशन जारी",
-          "summary": "पाकिस्तान का K2 एयरवेज कार्गो विमान शारजाह से कराची आते समय नेविगेशन सिस्टम में खराबी की सूचना देने के बाद रडार से गायब हो गया. विमान में पांच क्रू मेंबर सवार थे. समुद्र में सर्च ऑपरेशन जारी है. शारजाह से कराची आ रहा पाकिस्तान का K2 एयरवेज कार्गो विमान नेविगेशन सिस्टम में खराबी की सूचना देने के कुछ मिनट बाद रडार से गायब हो गया.",
+          "title": "जापान में बुज़ुर्गों की देखभाल करना चाहते है कई युवा भारतीय, केयरगिवर बनने के लिए सीख रहे हैं जापानी",
+          "summary": "मिजोरम में युवा जापानी भाषा सीख रहे हैं ताकि वे जापान में केयरगिवर बन सकें। 'यूथ4जापान' नामक एक भारतीय स्टार्टअप इस शिक्षा को प्रदान कर रहा है। इससे उन्हें बेहतर वेतन और भविष्य की संभावना है। भारत (India) के पूर्वोत्तर राज्य मिजोरम (Mizoram) की राजधानी आइजोल (Aizawal) की एक क्लास में 20-25 साल के कई युवा जापानी भाषा सीख रहे हैं।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -362,19 +380,91 @@
       }
     },
     {
-      "title": "इज़रायली सेना ने गाज़ा में किए हमले, 6 लोगों की हुई मौत और 20 घायल",
-      "url": "https://www.patrika.com/world-news/israeli-attacks-killed-6-people-and-injured-20-others-in-gaza-20728816",
-      "source": "Patrika (World)",
+      "title": "PoK में इंकलाब, चूर हुआ आसिम मुनीर का ख्वाब…, 29 दिनों के आंदोलन के बाद अब आजादी का काउंटडाउन शुरू!",
+      "url": "https://www.abplive.com/news/world/pok-protest-against-pakistan-pak-pm-shehbaz-sharif-asim-munir-gave-deadline-july-8-3156509",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-07-07T17:33:10+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/israeli-attacks-in-gaza.webp",
-      "summary": "इज़रायली सेना ने गाज़ा में हमले किए, जिसमें 6 लोगों की मौत हो गई और 20 घायल हो गए. यह हमला इज़रायल और हमास के बीच युद्धविराम के बावजूद हुआ. गाज़ा में इज़रायली सेना के हमले जारी हैं. इज़रायल (Israel) और हमास (Hamas) के बीच युद्धविराम तार-तार हो चुका है। गाज़ा (Gaza) पर इज़रायली हमलों सेना के हमलों का सिलसिला जारी है।",
+      "published_at": "2026-07-07T18:17:02+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/413f9daa972191d4833e2963b9aeabe117834481988251368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के कब्जे वाले कश्मीर में लोग सरकार और सेना के खिलाफ प्रदर्शन कर रहे हैं। 29 दिनों से जारी आंदोलन के बाद आजादी की मांगें उठ रही हैं। सेना प्रमुख आसिम मुनीर के लिए यह एक बड़ा झटका है। पाकिस्तान की हुकूमत पिछले 79 साल से एक ही सपना देखती रही है, जम्मू-कश्मीर पर कब्जे का सपना. यही ख्वाब आज पाकिस्तान के सेना प्रमुख आसिम मुनीर भी देख रहे हैं, लेकिन हालात ऐसे बन गए हैं कि अब जम्मू-कश्मीर तो दूर पाकिस्तान के कब्जे वाला कश्मीर (PoK) भी उसके हाथ से फिसलता नजर आ रहा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PoK में इंकलाब, चूर हुआ आसिम मुनीर का ख्वाब…, 29 दिनों के आंदोलन के बाद अब आजादी का काउंटडाउन शुरू!",
+          "summary": "पाकिस्तान के कब्जे वाले कश्मीर में लोग सरकार और सेना के खिलाफ प्रदर्शन कर रहे हैं। 29 दिनों से जारी आंदोलन के बाद आजादी की मांगें उठ रही हैं। सेना प्रमुख आसिम मुनीर के लिए यह एक बड़ा झटका है। पाकिस्तान की हुकूमत पिछले 79 साल से एक ही सपना देखती रही है, जम्मू-कश्मीर पर कब्जे का सपना. यही ख्वाब आज पाकिस्तान के सेना प्रमुख आसिम मुनीर भी देख रहे हैं, लेकिन हालात ऐसे बन गए हैं कि अब जम्मू-कश्मीर तो दूर पाकिस्तान के कब्जे वाला कश्मीर (PoK) भी उसके हाथ से फिसलता नजर आ रहा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "हॉर्मुज के पास हुए ड्रोन हमले पर आया बड़ा अपडेट! गुजरात जा रहे LNG जहाज में सवार थे चार भारतीय",
+      "url": "https://www.abplive.com/news/india/qatari-lng-vessel-attack-by-drone-near-hormuz-with-four-indian-world-news-update-3156505",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-07T17:58:35+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/4654554f7063a4365449adcbc950e06117834468726461324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "हॉर्मुज में कतर के पास एक एलएनजी जहाज पर ड्रोन हमला हुआ था। इस जहाज में चार भारतीय क्रू मेंबर सवार थे जो गुजरात जा रहे थे। सभी नागरिक सुरक्षित बताए जा रहे हैं। Hormuz LNG Vessel Attack: सोमवार को हॉर्मुज में कतर के पास हुए एलएनजी कैरियर पर संदिग्ध ड्रोन हमले से जुड़ा बड़ा अपडेट सामने आया है. यह जहाज गुजरात के दहेज जा रहा था.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "इज़रायली सेना ने गाज़ा में किए हमले, 6 लोगों की हुई मौत और 20 घायल",
-          "summary": "इज़रायली सेना ने गाज़ा में हमले किए, जिसमें 6 लोगों की मौत हो गई और 20 घायल हो गए. यह हमला इज़रायल और हमास के बीच युद्धविराम के बावजूद हुआ. गाज़ा में इज़रायली सेना के हमले जारी हैं. इज़रायल (Israel) और हमास (Hamas) के बीच युद्धविराम तार-तार हो चुका है। गाज़ा (Gaza) पर इज़रायली हमलों सेना के हमलों का सिलसिला जारी है।",
+          "title": "हॉर्मुज के पास हुए ड्रोन हमले पर आया बड़ा अपडेट! गुजरात जा रहे LNG जहाज में सवार थे चार भारतीय",
+          "summary": "हॉर्मुज में कतर के पास एक एलएनजी जहाज पर ड्रोन हमला हुआ था। इस जहाज में चार भारतीय क्रू मेंबर सवार थे जो गुजरात जा रहे थे। सभी नागरिक सुरक्षित बताए जा रहे हैं। Hormuz LNG Vessel Attack: सोमवार को हॉर्मुज में कतर के पास हुए एलएनजी कैरियर पर संदिग्ध ड्रोन हमले से जुड़ा बड़ा अपडेट सामने आया है. यह जहाज गुजरात के दहेज जा रहा था.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "खरीफ सीजन- अल नीनो के असर को लेकर क्या तैयारी? PMO की हाईलेवल रिव्यू मीटिंग",
+      "url": "https://www.abplive.com/news/india/pmo-high-level-review-meeting-regarding-kharif-season-and-el-nino-effect-upcoming-days-lates-delhi-news-3156496",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-07T17:53:20+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/f73e576dbf9852e63b0c5bc63c443aa117834449071501324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "प्रधानमंत्री कार्यालय में खरीफ सीजन और अल नीनो के प्रभाव पर उच्च स्तरीय बैठक हुई। पीएम मोदी के प्रधान सचिव डॉ. पीके मिश्रा ने बैठक की अध्यक्षता की और विभिन्न मंत्रालयों की तैयारियों की समीक्षा की। अल नीनों के प्रभाव और खरीफ सीजन को लेकर पीएमो में मंगलवार को हाई लेवल मीटिंग हुई. मीटिंग पीएम मोदी के प्रधान सचिव डॉ. पीके मिश्रा की अध्यक्षता में हुई.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खरीफ सीजन- अल नीनो के असर को लेकर क्या तैयारी? PMO की हाईलेवल रिव्यू मीटिंग",
+          "summary": "प्रधानमंत्री कार्यालय में खरीफ सीजन और अल नीनो के प्रभाव पर उच्च स्तरीय बैठक हुई। पीएम मोदी के प्रधान सचिव डॉ. पीके मिश्रा ने बैठक की अध्यक्षता की और विभिन्न मंत्रालयों की तैयारियों की समीक्षा की। अल नीनों के प्रभाव और खरीफ सीजन को लेकर पीएमो में मंगलवार को हाई लेवल मीटिंग हुई. मीटिंग पीएम मोदी के प्रधान सचिव डॉ. पीके मिश्रा की अध्यक्षता में हुई.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान के साथ जारी तनाव के बीच भारत पहुंचे अफगानिस्तान के मंत्री! जानें किन मुद्दों पर होगी बात",
+      "url": "https://www.abplive.com/news/world/afghanistan-minister-of-agriculture-mawlawi-ataullah-omari-arrived-in-new-delhi-on-official-visit-to-india-3156301",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-07T16:53:34+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/0730df6373ebb30b27a6cf5ff93d9a9717834213638801115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अफगानिस्तान के मंत्री मावलावी अताउल्लाह ओमारी भारत के आधिकारिक दौरे पर नई दिल्ली पहुंचे. विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने उनका स्वागत किया. यह दौरा भारत और अफगानिस्तान के बीच संबंधों को मजबूत करने की दिशा में एक महत्वपूर्ण कदम है. अफगानिस्तान के कृषि, सिंचाई और पशुधन मंत्री मावलावी अताउल्लाह ओमारी मंगलवार (7 जुलाई 2026) को भारत के आधिकारिक दौरे पर नई दिल्ली पहुंचे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान के साथ जारी तनाव के बीच भारत पहुंचे अफगानिस्तान के मंत्री! जानें किन मुद्दों पर होगी बात",
+          "summary": "अफगानिस्तान के मंत्री मावलावी अताउल्लाह ओमारी भारत के आधिकारिक दौरे पर नई दिल्ली पहुंचे. विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने उनका स्वागत किया. यह दौरा भारत और अफगानिस्तान के बीच संबंधों को मजबूत करने की दिशा में एक महत्वपूर्ण कदम है. अफगानिस्तान के कृषि, सिंचाई और पशुधन मंत्री मावलावी अताउल्लाह ओमारी मंगलवार (7 जुलाई 2026) को भारत के आधिकारिक दौरे पर नई दिल्ली पहुंचे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "तुर्किए के अंकारा में जुटे 32 देशों के नेता, NATO समिट में क्या होगा सबसे बड़ा फैसला? दुनिया की",
+      "url": "https://www.abplive.com/news/world/nato-summit-2026-begun-in-ankara-turkey-32-member-states-discussing-defense-spending-ukraine-war-us-demands-europe-security-strategy-3156327",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-07T16:52:44+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/132bd0c0c818799dfc05d9b376eb07ce17834250137891115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "तुर्किए के अंकारा में NATO देशों के नेताओं की बैठक हो रही है. अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने NATO सदस्य देशों पर रक्षा खर्च बढ़ाने का दबाव बनाया है. कई यूरोपीय देश नए समझौतों की घोषणा कर सकते हैं. तुर्किए की राजधानी अंकारा में मंगलवार (7 जुलाई) और बुधवार (8 जुलाई 2026) को NATO देशों के नेताओं की अहम बैठक हो रही है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तुर्किए के अंकारा में जुटे 32 देशों के नेता, NATO समिट में क्या होगा सबसे बड़ा फैसला? दुनिया की",
+          "summary": "तुर्किए के अंकारा में NATO देशों के नेताओं की बैठक हो रही है. अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने NATO सदस्य देशों पर रक्षा खर्च बढ़ाने का दबाव बनाया है. कई यूरोपीय देश नए समझौतों की घोषणा कर सकते हैं. तुर्किए की राजधानी अंकारा में मंगलवार (7 जुलाई) और बुधवार (8 जुलाई 2026) को NATO देशों के नेताओं की अहम बैठक हो रही है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -398,24 +488,6 @@
       }
     },
     {
-      "title": "पीएम नरेंद्र मोदी ने कुछ-कुछ होता है गाने का जिक्र कर जताया इरादा, जानें भारत-इंडोनेशिया रिश्तों के",
-      "url": "https://www.patrika.com/world-news/pm-modi-mentions-india-indonesia-friendship-jakarta-speech-20728635",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-07T15:33:15+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/PM-Narendra-Modi-Indonesia-Visit.webp",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया में भारतीय समुदाय को संबोधित किया. उन्होंने अपने संबोधन में ‘कुछ-कुछ होता है’ फिल्मी गाने का जिक्र कर इंडोनेशिया और भारत के बीच संबंधों को और मजबूत बनाने का इरादा जताया. India Indonesia Friendship: प्रधानमंत्री नरेंद्र मोदी अपने तीन देशों के दौरे के पहले चरण में इंडोनेशिया पहुंचे, जहां जकार्ता कन्वेंशन सेंटर में मंगलवार को भारतीय समुदाय को संबोधित किया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम नरेंद्र मोदी ने कुछ-कुछ होता है गाने का जिक्र कर जताया इरादा, जानें भारत-इंडोनेशिया रिश्तों के",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया में भारतीय समुदाय को संबोधित किया. उन्होंने अपने संबोधन में ‘कुछ-कुछ होता है’ फिल्मी गाने का जिक्र कर इंडोनेशिया और भारत के बीच संबंधों को और मजबूत बनाने का इरादा जताया. India Indonesia Friendship: प्रधानमंत्री नरेंद्र मोदी अपने तीन देशों के दौरे के पहले चरण में इंडोनेशिया पहुंचे, जहां जकार्ता कन्वेंशन सेंटर में मंगलवार को भारतीय समुदाय को संबोधित किया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "दोस्तों को नाराज कर तुर्की को F-35 क्यों बेचना चाहते हैं ट्रंप, नेतन्याहू की जगह एर्दोगन को तरजीह",
       "url": "https://hindi.news18.com/world/middle-east-why-donald-trump-want-to-sell-f-35s-to-turkiye-s-recep-tayyip-erdogan-upsetting-friends-10637052.html",
       "source": "News18 Hindi (World)",
@@ -429,6 +501,42 @@
         "hi": {
           "title": "दोस्तों को नाराज कर तुर्की को F-35 क्यों बेचना चाहते हैं ट्रंप, नेतन्याहू की जगह एर्दोगन को तरजीह",
           "summary": "अमेरिकी राष्ट्रपति तुर्की की राजधानी अंकार में पहुंचे हैं और F-35 फाइटर जेट देने पर सहमति बन सकती है. यहां वे नाटो शिखर सम्मेलन में भाग लेंगे. इस मौके पर संभावना है कि वो 2019 के पुराने प्रतिबंध को पलट दें और F-35 फाइटर जेट देने पर सहमति बन सकती है. दोस्तों को नाराज कर तुर्की को F-35 क्यों बेचना चाहते हैं ट्रंप, नेतन्याहू की जगह एर्दोगन को तरजीह।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत के लिए पाकिस्तान से भिड़ा अफगानिस्तान! खुलेआम दे दिया ये बड़ा बयान",
+      "url": "https://www.abplive.com/news/world/afganistan-slams-pakistan-asim-munir-for-india-us-donald-trump-on-bagram-air-base-taliban-3156464",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-07T15:26:20+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/f1eb17482e43d32d200077abccd10f6f1783437712641708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अफगानिस्तान ने पाकिस्तान की ओर से किए गए हमले की निंदा की है. तालिबान सरकार में सूचना और संस्कृति मंत्री मुहाजिर फराही ने पाकिस्तान को चेतावनी दी है. अफगानिस्तान अपनी संप्रभुता की रक्षा करेगा. अफगानिस्तान ने बगराम एयरबेस पर नियंत्रण करने वाले बयान को लेकर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पर तंज कसा है. तालिबान सरकार में सूचना और संस्कृति मंत्री मुहाजिर फराही ने कहा कि बगराम एयरबेस अमेरिका की पहुंच से बहुत दूर है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के लिए पाकिस्तान से भिड़ा अफगानिस्तान! खुलेआम दे दिया ये बड़ा बयान",
+          "summary": "अफगानिस्तान ने पाकिस्तान की ओर से किए गए हमले की निंदा की है. तालिबान सरकार में सूचना और संस्कृति मंत्री मुहाजिर फराही ने पाकिस्तान को चेतावनी दी है. अफगानिस्तान अपनी संप्रभुता की रक्षा करेगा. अफगानिस्तान ने बगराम एयरबेस पर नियंत्रण करने वाले बयान को लेकर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पर तंज कसा है. तालिबान सरकार में सूचना और संस्कृति मंत्री मुहाजिर फराही ने कहा कि बगराम एयरबेस अमेरिका की पहुंच से बहुत दूर है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत की एक चाल और ‘फंस’ गया चीन! मलक्का स्ट्रैट पर मोदी सरकार के कदम से बढ़ेगी बीजिंग की टेंशन",
+      "url": "https://www.abplive.com/news/world/pm-modi-says-india-indonesia-relation-like-sea-malacca-strait-tension-for-china-sabang-port-great-nicobar-project-3156451",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-07T15:03:33+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/0db40e2d6d6de96e2108e3409648c6521783434372498708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया से चीन का नाम लिए बिना निशाना साधा है. पीएम मोदी ने कहा कि भारत और इंडोनेशिया दिल और भूगोल दोनों से करीब हैं. यह सीधे तौर पर चीन को संदेश है. उन्होंने कहा कि दोनों देशों का रिश्ता सागर का है. पीएम मोदी की ओर से अपने भाषण में समंदर का जिक्र करना सीधे तौर पर ड्रैगन को संदेश है कि जिस तरह ईरान ने स्ट्रेट ऑफ होर्मुज का इस्तेमाल किया वैसे ही अब भारत मलक्का स्।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत की एक चाल और ‘फंस’ गया चीन! मलक्का स्ट्रैट पर मोदी सरकार के कदम से बढ़ेगी बीजिंग की टेंशन",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया से चीन का नाम लिए बिना निशाना साधा है. पीएम मोदी ने कहा कि भारत और इंडोनेशिया दिल और भूगोल दोनों से करीब हैं. यह सीधे तौर पर चीन को संदेश है. उन्होंने कहा कि दोनों देशों का रिश्ता सागर का है. पीएम मोदी की ओर से अपने भाषण में समंदर का जिक्र करना सीधे तौर पर ड्रैगन को संदेश है कि जिस तरह ईरान ने स्ट्रेट ऑफ होर्मुज का इस्तेमाल किया वैसे ही अब भारत मलक्का स्।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -452,38 +560,38 @@
       }
     },
     {
-      "title": "अमेरिका ने बैकस्टेज से चलाया अभियान, 13 देशों ने खामेनेई के जनाजे से किया किनारा, रिपोर्ट से बड़े",
-      "url": "https://hindi.news18.com/world/middle-east-irani-media-claims-13-countries-distanced-themselves-from-ali-khamenei-s-funeral-under-us-pressure-10636767.html",
-      "source": "News18 Hindi (World)",
+      "title": "इधर ट्रंप ने दी ईरान को धमकी, उधर होर्मुज में बरसने लगी मिसाइलें, 24 घंटे में 3 जहाज पर अटैक",
+      "url": "https://www.abplive.com/news/world/commercial-third-tanker-attack-in-strait-of-houmuz-amid-us-iran-tensions-3156446",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-07-07T13:23:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Funeral-of-Khamnei-2026-07-9332ba1a2134640d2a3c1a1a5a5ced55-1200x800.jpg",
-      "summary": "अमेरिका ने अपने दूतावासों के माध्यम से कई देशों पर दबाव बनाया, जिससे 13 देशों ने ईरान के पूर्व सुप्रीम लीडर अली खामेनेई के जनाजे में भाग नहीं लिया. अमेरिका ने धमकी दी थी कि अगर वे जनाजे में जाते हैं तो उनके साथ रिश्ते खराब हो सकते हैं. ईरानी मीडिया का दावा है कि अमेरिका ने अपने दूतावासों के माध्यम कई देशों पर दबाव बनाया है.",
+      "published_at": "2026-07-07T14:39:00+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/130c9bed343659d10a71ebd7d49c0dc017834356184851324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "मिडिल ईस्ट में अनिश्चितता का माहौल गहरा रहा है. होर्मुज जलडमरूमध्य में तीसरे वाणिज्यिक जहाज पर हमला किया गया है. यह घटना अमेरिका और ईरान के बीच समझौता होने के बाद हुई है. मिडिल ईस्ट में एक बार फिर अनिश्चितता का माहौल गहराता जा रहा है. पिछले 24 घंटों के दौरान होर्मुज जलडमरूमध्य में तीसरे वाणिज्यिक (कॉमर्शियल) जहाज पर हमला किया गया है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिका ने बैकस्टेज से चलाया अभियान, 13 देशों ने खामेनेई के जनाजे से किया किनारा, रिपोर्ट से बड़े",
-          "summary": "अमेरिका ने अपने दूतावासों के माध्यम से कई देशों पर दबाव बनाया, जिससे 13 देशों ने ईरान के पूर्व सुप्रीम लीडर अली खामेनेई के जनाजे में भाग नहीं लिया. अमेरिका ने धमकी दी थी कि अगर वे जनाजे में जाते हैं तो उनके साथ रिश्ते खराब हो सकते हैं. ईरानी मीडिया का दावा है कि अमेरिका ने अपने दूतावासों के माध्यम कई देशों पर दबाव बनाया है.",
+          "title": "इधर ट्रंप ने दी ईरान को धमकी, उधर होर्मुज में बरसने लगी मिसाइलें, 24 घंटे में 3 जहाज पर अटैक",
+          "summary": "मिडिल ईस्ट में अनिश्चितता का माहौल गहरा रहा है. होर्मुज जलडमरूमध्य में तीसरे वाणिज्यिक जहाज पर हमला किया गया है. यह घटना अमेरिका और ईरान के बीच समझौता होने के बाद हुई है. मिडिल ईस्ट में एक बार फिर अनिश्चितता का माहौल गहराता जा रहा है. पिछले 24 घंटों के दौरान होर्मुज जलडमरूमध्य में तीसरे वाणिज्यिक (कॉमर्शियल) जहाज पर हमला किया गया है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "क्या इजरायल और लेबनान में रुक जाएगी जंग, सीजफायर पर रोम में बातचीत की उम्मीद जागी",
-      "url": "https://www.patrika.com/world-news/israel-lebanon-ceasefire-talks-in-rome-italy-foreign-minister-antonio-tajani-announcement-20728350",
-      "source": "Patrika (World)",
+      "title": "PoK में 29वें दिन भी उबाल! पाकिस्तान सरकार के खिलाफ सड़कों पर उतरे हजारों लोग,8 जुलाई का दिया",
+      "url": "https://www.abplive.com/news/world/pakistan-pok-protests-continue-for-29th-day-people-demonstrating-against-pakistani-government-in-muzaffarabad-rawalakot-kotli-ann-3156379",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-07-07T13:01:38+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Israel-Lebanon-War-1.webp",
-      "summary": "इजरायल और लेबनान के बीच सीजफायर पर रोम में बातचीत होने की उम्मीद है। Israel-Lebanon Ceasefire Talks in Rome: अमेरिका और ईरान में सीजफायर के बाद अब इजरायल और लेबनान के बीच जंग रुकने और उसके लिए रोम में बातचीत होने के आसार जागे हैं। हालांकि दोनों देशों के बीच रुख में नरमी कम ही नजर आ रही है। जहां ईरान का कहना है कि जब तक ट्रंप होर्मुज जलडमरूमध्य में ओमान के पास एक टैंकर पर हुए हमले के बाद अपनी धमकियां वापस नहीं लेते, तब तक कोई बातचीत नहीं होगी।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-07-07T14:09:05+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/5b42439b563f834cc9fd897ba6f6975217834274677061115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के कब्जे वाले जम्मू कश्मीर में 29वें दिन भी प्रदर्शन हुए. हजारों लोग सड़कों पर उतरे और पाकिस्तान सरकार के खिलाफ मार्च निकाला. प्रदर्शनकारियों ने 'हम तुम्हारी मौत हैं' और 'जीवे जीवे कश्मीर' के नारे लगाए. पाकिस्तान के कब्जे वाले जम्मू कश्मीर (PoK) में आज प्रदर्शन का 29 वां दिन है. आज भी PoK के अलग अलग शहरों में महिलाएं, बुजुर्ग और युवा पाकिस्तानी हुकूमत के खिलाफ सड़को पर उतर कर मार्च निकाल रहे हैं और प्रदर्शन कर रहे हैं.",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्या इजरायल और लेबनान में रुक जाएगी जंग, सीजफायर पर रोम में बातचीत की उम्मीद जागी",
-          "summary": "इजरायल और लेबनान के बीच सीजफायर पर रोम में बातचीत होने की उम्मीद है। Israel-Lebanon Ceasefire Talks in Rome: अमेरिका और ईरान में सीजफायर के बाद अब इजरायल और लेबनान के बीच जंग रुकने और उसके लिए रोम में बातचीत होने के आसार जागे हैं। हालांकि दोनों देशों के बीच रुख में नरमी कम ही नजर आ रही है। जहां ईरान का कहना है कि जब तक ट्रंप होर्मुज जलडमरूमध्य में ओमान के पास एक टैंकर पर हुए हमले के बाद अपनी धमकियां वापस नहीं लेते, तब तक कोई बातचीत नहीं होगी।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "PoK में 29वें दिन भी उबाल! पाकिस्तान सरकार के खिलाफ सड़कों पर उतरे हजारों लोग,8 जुलाई का दिया",
+          "summary": "पाकिस्तान के कब्जे वाले जम्मू कश्मीर में 29वें दिन भी प्रदर्शन हुए. हजारों लोग सड़कों पर उतरे और पाकिस्तान सरकार के खिलाफ मार्च निकाला. प्रदर्शनकारियों ने 'हम तुम्हारी मौत हैं' और 'जीवे जीवे कश्मीर' के नारे लगाए. पाकिस्तान के कब्जे वाले जम्मू कश्मीर (PoK) में आज प्रदर्शन का 29 वां दिन है. आज भी PoK के अलग अलग शहरों में महिलाएं, बुजुर्ग और युवा पाकिस्तानी हुकूमत के खिलाफ सड़को पर उतर कर मार्च निकाल रहे हैं और प्रदर्शन कर रहे हैं.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -506,38 +614,20 @@
       }
     },
     {
-      "title": "भारत के UPI का विश्व में दबदबा, फ्रांस-ग्रीस और इंडोनिशिया समेत 11 देश पेमेंट​ सिस्टम से जुड़े",
-      "url": "https://www.patrika.com/world-news/india-upi-payment-system-global-expansion-indonesia-payment-link-20728162",
-      "source": "Patrika (World)",
+      "title": "सीर‍िया को फ‍िर मत बसाओ, मैक्रों के करीब स‍िलस‍िलेवार बम धमाकों का सीक्रेट मैसेज क्या है?",
+      "url": "https://hindi.news18.com/world/middle-east-inside-story-of-syria-blast-what-is-the-secret-message-behind-the-series-of-bomb-blasts-near-macron-ws-l-10636742.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-07T12:06:11+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/PM-Modis-visit-to-Indonesia.webp",
-      "summary": "भारत का यूनिफाइड पेमेंट्स इंटरफेस (यूपीआई) इंडोनेशिया के पेमेंट सिस्टम से जुड़ने वाला है. इससे भारतीय यात्रियों को इंडोनेशिया में स्थानीय पेमेंट ऐप का इस्तेमाल करके भुगतान करना आसान हो जाएगा. अब तक 11 देशों ने यूपीआई से जुड़ने की घोषणा की है. India Indonesia Partnership: विश्व के 10 देशों में प्रचलन के बाद अब भारत के यूपीआई पेमेंट सिस्टम से जुड़ने वाला इंडोनेशिया 11वां देश बनने जा रहा है।",
-      "region": "Europe & Russia",
+      "published_at": "2026-07-07T12:33:13+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Syria-Blast-2026-07-2ab360bec0e0221080a793ecf854f3b6-1200x800.jpg",
+      "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों के सीरिया दौरे के दौरान उनके होटल के पास दो बम धमाके हुए. धमाकों का उद्देश्य मैक्रों को निशाने पर लेना नहीं था, बल्कि सीरिया को फिर से बसाने के खिलाफ एक संदेश देना था. फ्रांस के राष्ट्रपति इमैनुएल मैक्रों सीरिया के जिस आलीशान होटल में ठहरे थे, उसके ठीक बाहर दो खौफनाक बम धमाके हुए.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत के UPI का विश्व में दबदबा, फ्रांस-ग्रीस और इंडोनिशिया समेत 11 देश पेमेंट​ सिस्टम से जुड़े",
-          "summary": "भारत का यूनिफाइड पेमेंट्स इंटरफेस (यूपीआई) इंडोनेशिया के पेमेंट सिस्टम से जुड़ने वाला है. इससे भारतीय यात्रियों को इंडोनेशिया में स्थानीय पेमेंट ऐप का इस्तेमाल करके भुगतान करना आसान हो जाएगा. अब तक 11 देशों ने यूपीआई से जुड़ने की घोषणा की है. India Indonesia Partnership: विश्व के 10 देशों में प्रचलन के बाद अब भारत के यूपीआई पेमेंट सिस्टम से जुड़ने वाला इंडोनेशिया 11वां देश बनने जा रहा है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "रूसी सेना को तेल-हथियार सप्लाई करने वाले 8 टैंकरों पर ड्रोन हमला, समुद्र में यूक्रेन की अब तक की",
-      "url": "https://www.patrika.com/world-news/ukraine-destroys-8-russian-shadow-fleet-tankers-russia-attack-news-20728207",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-07T11:54:12+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/lng-tankers.webp",
-      "summary": "यूक्रेनी ड्रोन ने रूसी ‘शैडो फ्लीट’ के आठ बड़े टैंकरों पर हमला किया. ये टैंकर क्रिमिया में रूसी सेना को ईंधन पहुंचाने का काम कर रहे थे. हमले में टैंकरों को नुकसान पहुंचा और आग लगी. रूस-यूक्रेन युद्ध अब खींचता जा रहा है। इस बीच यूक्रेनी ड्रोन ने रूसी ‘शैडो फ्लीट’ के आठ बड़े टैंकरों को समुद्र में तबाह कर दिया है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूसी सेना को तेल-हथियार सप्लाई करने वाले 8 टैंकरों पर ड्रोन हमला, समुद्र में यूक्रेन की अब तक की",
-          "summary": "यूक्रेनी ड्रोन ने रूसी ‘शैडो फ्लीट’ के आठ बड़े टैंकरों पर हमला किया. ये टैंकर क्रिमिया में रूसी सेना को ईंधन पहुंचाने का काम कर रहे थे. हमले में टैंकरों को नुकसान पहुंचा और आग लगी. रूस-यूक्रेन युद्ध अब खींचता जा रहा है। इस बीच यूक्रेनी ड्रोन ने रूसी ‘शैडो फ्लीट’ के आठ बड़े टैंकरों को समुद्र में तबाह कर दिया है।",
-          "region": "यूरोप और रूस"
+          "title": "सीर‍िया को फ‍िर मत बसाओ, मैक्रों के करीब स‍िलस‍िलेवार बम धमाकों का सीक्रेट मैसेज क्या है?",
+          "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों के सीरिया दौरे के दौरान उनके होटल के पास दो बम धमाके हुए. धमाकों का उद्देश्य मैक्रों को निशाने पर लेना नहीं था, बल्कि सीरिया को फिर से बसाने के खिलाफ एक संदेश देना था. फ्रांस के राष्ट्रपति इमैनुएल मैक्रों सीरिया के जिस आलीशान होटल में ठहरे थे, उसके ठीक बाहर दो खौफनाक बम धमाके हुए.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -560,81 +650,45 @@
       }
     },
     {
-      "title": "‘पाखंड कर रहा पाकिस्तान, अमेरिका से दोस्ती का दिखावा और तेहरान में खामेनेई को श्रद्धांजलि",
-      "url": "https://www.patrika.com/2231/us-senator-rick-scott-warns-pakistan-pm-shehbaz-sharif-over-double-role-friendship-american-tribute-khamenei-20727086",
-      "source": "Patrika (World)",
+      "title": "सीरिया दौरे पर फ्रांस के राष्ट्रपति मैक्रों तो दहली राजधानी दमिश्क, होटल के पास एक के बाद एक फटे बम",
+      "url": "https://hindi.news18.com/world/middle-east-syria-blast-near-french-president-emmanuel-macron-hotel-multiple-explosions-rock-damascus-during-landmark-visit-10636023.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-07T07:14:16+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-Senator-Rick-Scott-Warned-Pakistan-Double-Role.webp",
-      "summary": "पाकिस्तान अमेरिका से दोस्ती का दिखावा कर रहा है, लेकिन तेहरान में अयातुल्ला अली खामेनेई को श्रद्धांजलि देने पर अमेरिका ने सख्त ऐतराज किया है। अमेरिकी सीनेटर रिक स्कॉट ने पाकिस्तान के दोहरे रवैये की आलोचना की है। US Senator Rick Scott Warned Pakistan Double Role: अमेरिका और ईरान के बीच शांति वार्ता समझौता करवाने में भूमिका अदा कर हीरो बनने वाला पाकिस्तान अपने दोहरे रवैये के कारण अमेरिका की नजर में विलेन बना हुआ नजर आ रहा है।",
+      "published_at": "2026-07-07T09:58:42+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/France-Blast-2026-07-13b614e204e143fde8086814980485ae-1200x800.jpg",
+      "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों के सीरिया दौरे के दौरान दमिश्क में उनके होटल के पास कई बम धमाके हुए. धमाकों से पूरा इलाका दहल उठा और आसमान में धुएं का गुबार छा गया. फ्रांस के राष्ट्रपति इमैनुएल मैक्रों के ऐतिहासिक सीरिया दौरे के बीच राजधानी दमिश्क में उनके वीआईपी 'फोर सीजन्स होटल' के पास एक के बाद एक कई भीषण बम धमाके हुए हैं, जिससे पूरा इलाका दहल उठा और आसमान में धुएं का गुबार छा गया.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘पाखंड कर रहा पाकिस्तान, अमेरिका से दोस्ती का दिखावा और तेहरान में खामेनेई को श्रद्धांजलि",
-          "summary": "पाकिस्तान अमेरिका से दोस्ती का दिखावा कर रहा है, लेकिन तेहरान में अयातुल्ला अली खामेनेई को श्रद्धांजलि देने पर अमेरिका ने सख्त ऐतराज किया है। अमेरिकी सीनेटर रिक स्कॉट ने पाकिस्तान के दोहरे रवैये की आलोचना की है। US Senator Rick Scott Warned Pakistan Double Role: अमेरिका और ईरान के बीच शांति वार्ता समझौता करवाने में भूमिका अदा कर हीरो बनने वाला पाकिस्तान अपने दोहरे रवैये के कारण अमेरिका की नजर में विलेन बना हुआ नजर आ रहा है।",
+          "title": "सीरिया दौरे पर फ्रांस के राष्ट्रपति मैक्रों तो दहली राजधानी दमिश्क, होटल के पास एक के बाद एक फटे बम",
+          "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों के सीरिया दौरे के दौरान दमिश्क में उनके होटल के पास कई बम धमाके हुए. धमाकों से पूरा इलाका दहल उठा और आसमान में धुएं का गुबार छा गया. फ्रांस के राष्ट्रपति इमैनुएल मैक्रों के ऐतिहासिक सीरिया दौरे के बीच राजधानी दमिश्क में उनके वीआईपी 'फोर सीजन्स होटल' के पास एक के बाद एक कई भीषण बम धमाके हुए हैं, जिससे पूरा इलाका दहल उठा और आसमान में धुएं का गुबार छा गया.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "ऑपरेशन सिंदूर में इस्तेमाल ‘अस्त्र’ मिसाइल खरीदेगा इंडोनेशिया",
-      "url": "https://www.patrika.com/world-news/pm-modi-indonesia-visit-brahmos-astra-missiles-deal-operation-sindoor-20727057",
+      "title": "ट्रंप के दबाव के बीच नाटो शिखर सम्मेलन कितना अहम, क्या भारत को भी इसमें शामिल होना चाहिए",
+      "url": "https://www.patrika.com/world-news/nato-summit-ankara-amidst-pressure-trump-india-participation-issue-explained-20727551",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-07T07:07:30+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Narendra-Modi-and-Prabowo-Subianto.webp",
-      "summary": "इंडोनेशिया ने 'अस्त्र' मिसाइल खरीदने का फैसला किया है, जो ऑपरेशन सिंदूर में पाकिस्तान के खिलाफ इस्तेमाल हुई थी। यह फैसला प्रधानमंत्री नरेंद्र मोदी के इंडोनेशिया दौरे के दौरान हुआ। दोनों देशों के बीच रक्षा समझौतों को मजबूत किया गया है। India-Indonesia Relation: प्रधानमंत्री नरेंद्र मोदी के इंडोनेशिया दौरे का आज दूसरा दिन है। इस दौरे से दोनों देशों के संबंधों में और मजबूती आई है।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-07-07T09:14:25+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/NATO-Summit-Ankara.webp",
+      "summary": "नाटो शिखर सम्मेलन तुर्किये के अंकारा में आयोजित किया जा रहा है. सम्मेलन में अमेरिका और उसके सहयोगियों के बीच रक्षा खर्च बढ़ाने पर चर्चा हो रही है. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सहयोगियों पर रक्षा खर्च बढ़ाने का दबाव डाला है. NATO Summit Donald Trump Pressure and India: तुर्किये के अंकारा में मंगलवार को नॉर्थ अटलांटिक ट्रीटी ऑर्गनाइजेशन (NATO) का आयोजन किया जा रहा है।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ऑपरेशन सिंदूर में इस्तेमाल ‘अस्त्र’ मिसाइल खरीदेगा इंडोनेशिया",
-          "summary": "इंडोनेशिया ने 'अस्त्र' मिसाइल खरीदने का फैसला किया है, जो ऑपरेशन सिंदूर में पाकिस्तान के खिलाफ इस्तेमाल हुई थी। यह फैसला प्रधानमंत्री नरेंद्र मोदी के इंडोनेशिया दौरे के दौरान हुआ। दोनों देशों के बीच रक्षा समझौतों को मजबूत किया गया है। India-Indonesia Relation: प्रधानमंत्री नरेंद्र मोदी के इंडोनेशिया दौरे का आज दूसरा दिन है। इस दौरे से दोनों देशों के संबंधों में और मजबूती आई है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'चीनी सेना 60 किमी भारत में घुस आई'? क्या है सच्चाई जानिए, सरकार का आ गया जवाब",
-      "url": "https://www.abplive.com/news/india/china-army-60-km-inside-india-fact-check-pib-viral-video-truth-3156106",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-07T06:48:57+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/64e16fc55a083921afa6a62d921801151783406807938344_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सरकार ने दावा किया है कि चीनी सेना भारत की सीमा में 60 किलोमीटर तक घुसने की खबरें झूठी हैं। PIB Fact check ने वायरल दावे को खारिज कर दिया है। अरुणाचल प्रदेश के ऊपरी सुबांसरी जिले में चीनी सेना की गतिविधियों को लेकर स्थिति स्पष्ट की गई है। खबर आई कि चीनी सेना भारत की सीमा के भीतर 60 किलोमीटर तक घुस आई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'चीनी सेना 60 किमी भारत में घुस आई'? क्या है सच्चाई जानिए, सरकार का आ गया जवाब",
-          "summary": "सरकार ने दावा किया है कि चीनी सेना भारत की सीमा में 60 किलोमीटर तक घुसने की खबरें झूठी हैं। PIB Fact check ने वायरल दावे को खारिज कर दिया है। अरुणाचल प्रदेश के ऊपरी सुबांसरी जिले में चीनी सेना की गतिविधियों को लेकर स्थिति स्पष्ट की गई है। खबर आई कि चीनी सेना भारत की सीमा के भीतर 60 किलोमीटर तक घुस आई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "महाराष्ट्र से कश्मीर तक तबाही! बादल फटे, पहाड़ टूटे और 13 मौतें, क्यों कुदरत के आगे धराशायी होती",
-      "url": "https://www.abplive.com/news/india/monsoon-2026-mumbai-pune-express-way-missing-link-collapse-chenab-valley-heavy-rains-weather-update-why-government-fails-explained-3156114",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-07T06:36:05+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/fa4b08834ceb47d7598a1b018149576b17834061528591317_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पश्चिमी घाट और हिमालय में मानसून की वजह से बादल फटने और पहाड़ टूटने से 13 लोगों की मौत हो गई. कई इंफ्रास्ट्रक्चर परियोजनाएं कुदरत के आगे नाकाम साबित हुई हैं. हर साल ऐसी घटनाएं होने से सवाल उठता है कि क्या हमने कुछ सीखा है. मानसून ने इस बार जो रौद्र रूप दिखाया है, उसने एक बार फिर साबित कर दिया है कि कुदरत के आगे हमारी करोड़ों-अरबों की इंफ्रास्ट्रक्चर परियोजनाएं कितनी बौनी हैं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "महाराष्ट्र से कश्मीर तक तबाही! बादल फटे, पहाड़ टूटे और 13 मौतें, क्यों कुदरत के आगे धराशायी होती",
-          "summary": "पश्चिमी घाट और हिमालय में मानसून की वजह से बादल फटने और पहाड़ टूटने से 13 लोगों की मौत हो गई. कई इंफ्रास्ट्रक्चर परियोजनाएं कुदरत के आगे नाकाम साबित हुई हैं. हर साल ऐसी घटनाएं होने से सवाल उठता है कि क्या हमने कुछ सीखा है. मानसून ने इस बार जो रौद्र रूप दिखाया है, उसने एक बार फिर साबित कर दिया है कि कुदरत के आगे हमारी करोड़ों-अरबों की इंफ्रास्ट्रक्चर परियोजनाएं कितनी बौनी हैं.",
-          "region": "दुनिया"
+          "title": "ट्रंप के दबाव के बीच नाटो शिखर सम्मेलन कितना अहम, क्या भारत को भी इसमें शामिल होना चाहिए",
+          "summary": "नाटो शिखर सम्मेलन तुर्किये के अंकारा में आयोजित किया जा रहा है. सम्मेलन में अमेरिका और उसके सहयोगियों के बीच रक्षा खर्च बढ़ाने पर चर्चा हो रही है. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सहयोगियों पर रक्षा खर्च बढ़ाने का दबाव डाला है. NATO Summit Donald Trump Pressure and India: तुर्किये के अंकारा में मंगलवार को नॉर्थ अटलांटिक ट्रीटी ऑर्गनाइजेशन (NATO) का आयोजन किया जा रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
       "title": "मेसी की अगुआई में अर्जेंटीना का करिश्मा: 0-2 से पिछड़ने के बाद दमदार वापसी; आखिरी 11 मिनट में कैसे",
       "url": "https://www.amarujala.com/sports/football/fifa-world-cup-2026-argentina-vs-egypt-highlights-today-football-match-result-key-moments-photos-2026-07-07",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-07T06:29:31+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/08/arajatana-na-masara-ka-haraya_e9f5ca0eaf62b345e5f5afa4aed49512.jpeg?w=1200&dpr=1.0",
@@ -645,96 +699,6 @@
         "hi": {
           "title": "मेसी की अगुआई में अर्जेंटीना का करिश्मा: 0-2 से पिछड़ने के बाद दमदार वापसी; आखिरी 11 मिनट में कैसे",
           "summary": "अर्जेंटीना ने फीफा विश्व कप 2026 के राउंड ऑफ 16 मुकाबले में मिस्र को 3-2 से हराया। अटलांटा स्टेडियम में खेले गए मुकाबले में अर्जेंटीना ने दूसरे हाफ में दमदार प्रदर्शन किया और जीत दर्ज की। फीफा विश्व कप 2026 के राउंड ऑफ 16 मुकाबले में अर्जेंटीना ने दूसरे हाफ में दमदार प्रदर्शन करते हुए जीत दर्ज की और क्वार्टर फाइनल में जगह बनाई।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "बुलडोजर से पहले हाई कोर्ट की एंट्री! ओवैसी परिवार के फातिमा इंस्टीट्यूशन को मिली बड़ी राहत",
-      "url": "https://www.abplive.com/news/india/telangana-high-court-stops-demolition-of-owaisi-family-fatima-educational-institution-3156094",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-07T06:29:03+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/e62f400c253cf9ea99d23d787140c1d317834046902891431_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तेलंगाना हाई कोर्ट ने ओवैसी परिवार की फातिमा एजुकेशनल इंस्टीट्यूशन बिल्डिंग को न गिराने का आदेश जारी किया। बिल्डिंग पर आरोप था कि वह सलकम चेरुवु FTL लिमिट के अंदर है। कोर्ट ने ओवैसी एजुकेशनल इंस्टीट्यूशन के मैनेजमेंट की पिटीशन पर यह फैसला सुनाया। तेलंगाना हाई कोर्ट ने सोमवार (6 जुलाई 2026) को ओवैसी परिवार की फातिमा एजुकेशनल इंस्टीट्यूशन बिल्डिंग को न गिराने का स्टेटस को ऑर्डर जारी किया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बुलडोजर से पहले हाई कोर्ट की एंट्री! ओवैसी परिवार के फातिमा इंस्टीट्यूशन को मिली बड़ी राहत",
-          "summary": "तेलंगाना हाई कोर्ट ने ओवैसी परिवार की फातिमा एजुकेशनल इंस्टीट्यूशन बिल्डिंग को न गिराने का आदेश जारी किया। बिल्डिंग पर आरोप था कि वह सलकम चेरुवु FTL लिमिट के अंदर है। कोर्ट ने ओवैसी एजुकेशनल इंस्टीट्यूशन के मैनेजमेंट की पिटीशन पर यह फैसला सुनाया। तेलंगाना हाई कोर्ट ने सोमवार (6 जुलाई 2026) को ओवैसी परिवार की फातिमा एजुकेशनल इंस्टीट्यूशन बिल्डिंग को न गिराने का स्टेटस को ऑर्डर जारी किया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारतीय सेना की सबसे घातक यूनिट IBG कहां की गई है तैनात? देश के पहले CDS का सपना पूरा",
-      "url": "https://www.abplive.com/news/india/india-first-cds-general-bipin-rawat-dream-indian-army-deployed-ibg-along-china-border-ann-3156088",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-07T06:24:45+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/36e123b24561c3bfe6d5e42292c1ce8217834049780621200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारतीय सेना ने सिक्किम से सटे चीन बॉर्डर पर आईबीजी यूनिट तैनात की है। यह यूनिट 2017 में डोकलाम विवाद के बाद बनाई गई थी। आईबीजी सेना के एक ब्रिगेड से थोड़ी बड़ी फॉर्मेशन है। सिक्किम से सटे चीन बॉर्डर पर डोकलाम विवाद के बाद तत्कालीन थलसेना प्रमुख जनरल बिपिन रावत ने सेना की रणनीति में बदलाव की कोशिश की थी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतीय सेना की सबसे घातक यूनिट IBG कहां की गई है तैनात? देश के पहले CDS का सपना पूरा",
-          "summary": "भारतीय सेना ने सिक्किम से सटे चीन बॉर्डर पर आईबीजी यूनिट तैनात की है। यह यूनिट 2017 में डोकलाम विवाद के बाद बनाई गई थी। आईबीजी सेना के एक ब्रिगेड से थोड़ी बड़ी फॉर्मेशन है। सिक्किम से सटे चीन बॉर्डर पर डोकलाम विवाद के बाद तत्कालीन थलसेना प्रमुख जनरल बिपिन रावत ने सेना की रणनीति में बदलाव की कोशिश की थी.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रेखा और अनिल कपूर से लेकर रितेश-जेनेलिया और जान्हवी तक, अंशुला-रोहन के रिसेप्शन में पहुंचे तमाम",
-      "url": "https://www.amarujala.com/entertainment/bollywood/anshula-kapoor-and-rohan-thakker-wedding-reception-bony-kapoor-bobby-deol-and-other-celebs-attends-2026-07-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-07T06:16:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/ashal-oura-rahana-ka-rasapashana-ma-pahaca-satara_3a1ab666be94a095b0dcb0914a250ce8.jpeg?w=1200&dpr=1.0",
-      "summary": "अंशुला कपूर और रोहन ठक्कर के वेडिंग रिसेप्शन में कई सेलेब्स पहुंचे, जिनमें रेखा, अनिल कपूर, रितेश और जेनेलिया शामिल थे। इस मौके पर सितारों ने अपनी उपस्थिति दर्ज की। Anshula Rohan Wedding Reception: अंशुला कपूर और रोहन ठक्कर के वेडिंग रिसेप्शन में कई सेलेब्स पहुंचे। यहां देखिए किस अंदाज में पहुंचे सितारे। रेखा और अनिल कपूर से लेकर रितेश-जेनेलिया और जान्हवी तक, अंशुला-रोहन के रिसेप्शन में पहुंचे तमाम।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रेखा और अनिल कपूर से लेकर रितेश-जेनेलिया और जान्हवी तक, अंशुला-रोहन के रिसेप्शन में पहुंचे तमाम",
-          "summary": "अंशुला कपूर और रोहन ठक्कर के वेडिंग रिसेप्शन में कई सेलेब्स पहुंचे, जिनमें रेखा, अनिल कपूर, रितेश और जेनेलिया शामिल थे। इस मौके पर सितारों ने अपनी उपस्थिति दर्ज की। Anshula Rohan Wedding Reception: अंशुला कपूर और रोहन ठक्कर के वेडिंग रिसेप्शन में कई सेलेब्स पहुंचे। यहां देखिए किस अंदाज में पहुंचे सितारे। रेखा और अनिल कपूर से लेकर रितेश-जेनेलिया और जान्हवी तक, अंशुला-रोहन के रिसेप्शन में पहुंचे तमाम।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अभिषेक ने दी आवाज का नमूना देने के आदेश को चुनौती, कलकत्ता हाईकोर्ट कब करेगा सुनवाई?",
-      "url": "https://www.amarujala.com/india-news/intimidatory-speech-case-calcutta-high-court-to-hear-abhishek-banerjee-challenge-to-order-on-voice-sample-2026-07-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-07T06:14:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/abhishek-banerjee_414f8d156ccfbcb4528caaae934d3892.jpeg?w=1200&dpr=1.0",
-      "summary": "अभिषेक बनर्जी ने धमकी भरे भाषण मामले में आवाज का नमूना देने के आदेश को कलकत्ता हाईकोर्ट में चुनौती दी. कोर्ट इस मामले पर जल्द सुनवाई करेगा. अभिषेक के वकील ने आदेश के खिलाफ अपील दायर की है. भाषण में धमकी का मामला: अभिषेक ने दी आवाज का नमूना देने के आदेश को चुनौती, कलकत्ता हाईकोर्ट कब करेगा सुनवाई?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अभिषेक ने दी आवाज का नमूना देने के आदेश को चुनौती, कलकत्ता हाईकोर्ट कब करेगा सुनवाई?",
-          "summary": "अभिषेक बनर्जी ने धमकी भरे भाषण मामले में आवाज का नमूना देने के आदेश को कलकत्ता हाईकोर्ट में चुनौती दी. कोर्ट इस मामले पर जल्द सुनवाई करेगा. अभिषेक के वकील ने आदेश के खिलाफ अपील दायर की है. भाषण में धमकी का मामला: अभिषेक ने दी आवाज का नमूना देने के आदेश को चुनौती, कलकत्ता हाईकोर्ट कब करेगा सुनवाई?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "Trump की धमकी के बाद होर्मुज में टैंकर पर मिसाइल अटैक, क्या अमेरिका-ईरान युद्ध फिर से भड़क रहा है?",
-      "url": "https://www.patrika.com/world-news/missile-attack-tanker-hormuz-trump-threat-destroy-tehran-us-iran-conflict-flaring-up-again-20726816",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-07T05:51:17+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Missile-Attack-On-Tanker-In-Hormuz.webp",
-      "summary": "होर्मुज जलडमरूमध्य में एक तेल टैंकर पर अज्ञात मिसाइल से हमला हुआ, जिसमें आग लग गई. अमेरिका ने ईरान पर हमला करने का आरोप लगाया है. यह घटना अमेरिका और ईरान के बीच तनाव के बीच हुई है. Missile Attack On Tanker In Hormuz: ईरान और अमेरिका के बीच शांति समझौते के बावजूद अज्ञात मिसाइल ने मंगलवार को होर्मुज जलडमरूमध्य के पास ओमान के किनारे एक तेल टैंकर को टक्कर मार कर उसमें आग लगा दी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Trump की धमकी के बाद होर्मुज में टैंकर पर मिसाइल अटैक, क्या अमेरिका-ईरान युद्ध फिर से भड़क रहा है?",
-          "summary": "होर्मुज जलडमरूमध्य में एक तेल टैंकर पर अज्ञात मिसाइल से हमला हुआ, जिसमें आग लग गई. अमेरिका ने ईरान पर हमला करने का आरोप लगाया है. यह घटना अमेरिका और ईरान के बीच तनाव के बीच हुई है. Missile Attack On Tanker In Hormuz: ईरान और अमेरिका के बीच शांति समझौते के बावजूद अज्ञात मिसाइल ने मंगलवार को होर्मुज जलडमरूमध्य के पास ओमान के किनारे एक तेल टैंकर को टक्कर मार कर उसमें आग लगा दी।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -754,6 +718,42 @@
           "title": "तुर्किये पर लगे प्रतिबंध हटाएंगा अमेरिका: राष्ट्रपति ट्रंप बोले- एफ-35 विमान सौदे पर भी फैसला होगा",
           "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अमेरिका तुर्किये पर लगे प्रतिबंध हटा देगा. उन्होंने यह भी कहा कि एफ-35 विमान सौदे पर भी जल्द फैसला होगा. ट्रंप के इस बयान से तुर्किये के साथ अमेरिका के संबंधों में सुधार की उम्मीद है. तुर्किये पर लगे प्रतिबंध हटाएंगा अमेरिका: राष्ट्रपति ट्रंप बोले- एफ-35 विमान सौदे पर भी फैसला होगा।",
           "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "नेहरू के कहने पर बीजू पटनायक ने बचाई थी इंडोनेशियाई नेताओं की जान? PM मोदी ने याद किया साहसिक अभियान",
+      "url": "https://www.amarujala.com/world/when-biju-patnaik-saved-lives-of-indonesian-leaders-at-nehru-s-behest-pm-modi-recalls-the-daring-mission-2026-07-07",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-07T04:31:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/when-biju-patnaik-saved-lives-of-indonesian-leaders-at-nehrus-behest-pm-modi-recalls-the-daring-mi_44436b0f42c79f602fc177ce40d11c3a.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री मोदी ने बीजू पटनायक द्वारा इंडोनेशियाई नेताओं की जान बचाने के साहसिक अभियान को याद किया. नेहरू के कहने पर बीजू पटनायक ने यह अभियान चलाया था. PM मोदी ने याद किया साहसिक अभियान। नेहरू के कहने पर बीजू पटनायक ने बचाई थी इंडोनेशियाई नेताओं की जान?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेहरू के कहने पर बीजू पटनायक ने बचाई थी इंडोनेशियाई नेताओं की जान? PM मोदी ने याद किया साहसिक अभियान",
+          "summary": "प्रधानमंत्री मोदी ने बीजू पटनायक द्वारा इंडोनेशियाई नेताओं की जान बचाने के साहसिक अभियान को याद किया. नेहरू के कहने पर बीजू पटनायक ने यह अभियान चलाया था. PM मोदी ने याद किया साहसिक अभियान। नेहरू के कहने पर बीजू पटनायक ने बचाई थी इंडोनेशियाई नेताओं की जान?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "फ्रांस के राष्ट्रपति के सीरिया दौरे के दौरान ब्लास्ट, फ्रांस बोला- मैक्रों सुरक्षित",
+      "url": "https://www.amarujala.com/video/world/blast-during-french-president-emmanuel-macron-s-syria-visit-france-says-macron-is-safe-2026-07-07",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-07T03:28:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/emmanuel-macron_d5d5fe0c42d8567cc33c72100fcc101b.jpeg?w=1200&dpr=1.0",
+      "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों सीरिया दौरे पर हैं। उनके होटल के पास जोरदार धमाका हुआ। फ्रांस ने बताया कि मैक्रों सुरक्षित हैं। घटना के पीछे के कारण और हमले के उद्देश्य का पता नहीं चला है। राष्ट्रपति के दौरे के दौरान यह घटना हुई। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों सीरिया के दौरे पर हैं। उनके दौरे के दौरान जिस होटल में वे ठहरे हुए थे, उसके पास जोरदार धमाके की घटना सामने आई है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्रांस के राष्ट्रपति के सीरिया दौरे के दौरान ब्लास्ट, फ्रांस बोला- मैक्रों सुरक्षित",
+          "summary": "फ्रांस के राष्ट्रपति इमैनुएल मैक्रों सीरिया दौरे पर हैं। उनके होटल के पास जोरदार धमाका हुआ। फ्रांस ने बताया कि मैक्रों सुरक्षित हैं। घटना के पीछे के कारण और हमले के उद्देश्य का पता नहीं चला है। राष्ट्रपति के दौरे के दौरान यह घटना हुई। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों सीरिया के दौरे पर हैं। उनके दौरे के दौरान जिस होटल में वे ठहरे हुए थे, उसके पास जोरदार धमाके की घटना सामने आई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
