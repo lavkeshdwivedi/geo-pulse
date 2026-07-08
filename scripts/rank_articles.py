@@ -49,7 +49,36 @@ from datetime import datetime, timezone
 
 # Local imports — same script directory
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from llm_client import llm_complete, any_key_present
+from kognios import ModelChain
+from kognios.models.groq import GroqModel
+from kognios.models.gemini import GeminiModel
+from kognios.models.anthropic import AnthropicModel
+
+
+def _build_chain(max_tokens: int = 400, temperature: float = 0.1) -> ModelChain:
+    models = []
+    if os.environ.get("GROQ_API_KEY"):
+        models.append(GroqModel(model="llama-3.3-70b-versatile", max_tokens=max_tokens, temperature=temperature))
+    if os.environ.get("GEMINI_API_KEY"):
+        models.append(GeminiModel(model="gemini-2.5-flash", max_tokens=max_tokens, temperature=temperature))
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        models.append(AnthropicModel(model="claude-sonnet-4-6", max_tokens=max_tokens, temperature=temperature))
+    return ModelChain(models) if models else None
+
+
+def any_key_present() -> bool:
+    return any(os.environ.get(k) for k in ("GROQ_API_KEY", "GEMINI_API_KEY", "ANTHROPIC_API_KEY"))
+
+
+def llm_complete(system_prompt: str, user_prompt: str, max_tokens: int = 400, temperature: float = 0.1, **_) -> str | None:
+    chain = _build_chain(max_tokens=max_tokens, temperature=temperature)
+    if not chain or not chain.models:
+        return None
+    try:
+        return chain.complete([{"role": "user", "content": user_prompt}], system=system_prompt).content
+    except Exception as exc:
+        log.warning("ModelChain failed: %s", exc)
+        return None
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 log = logging.getLogger("rank_articles")
