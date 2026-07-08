@@ -1,72 +1,22 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 09, 2026 03:49 IST
-
----
-
-## एशिया-प्रशांत
-
-### [अमेरिका के 12.5% प्रस्तावित शुल्क का भारतीय उद्योग संगठन ने किया विरोध, FICCI-CII ने क्या कहा?](https://www.amarujala.com/world/india-us-trade-talks-ficci-and-cii-urge-ustr-to-withdraw-proposed-tariff-on-indian-imports-2026-07-09)
-*Amar Ujala Breaking* - Jul 09, 12:10 IST (iso: 2026-07-09T06:40:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/07/19/india-us-trade-deal_a1980a7a9a9f89ac5ca61ec5683bcf11.jpeg?w=1200&dpr=1.0 -->
-
-भारतीय उद्योग संगठनों FICCI और CII ने अमेरिका के प्रस्तावित 12.5% शुल्क का विरोध किया है। उन्होंने अमेरिकी व्यापार प्रतिनिधि से शुल्क वापस लेने का आग्रह किया। यह निर्णय भारत-अमेरिका व्यापार वार्ता के दौरान लिया गया। अमेरिका के 12.5% प्रस्तावित शुल्क का भारतीय उद्योग संगठन ने किया विरोध, FICCI-CII ने क्या कहा?
-
-### [बांग्लादेश आर्मी ने बदली दाढ़ी की शेप, 'अल्लाह हू अकबर' बोलकर भारत की सीमा पर भेजी 4 नई बटालियन](https://hindi.news18.com/world/south-asia-bangladesh-army-pakistan-islamic-effect-war-cry-allahu-akbar-4-battalions-deployed-near-india-border-chittagong-10640289.html)
-*News18 Hindi (World)* - Jul 08, 19:33 IST (iso: 2026-07-08T14:03:19+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Bangladesh-Army-Islamisation-2026-07-327ae2e8086d6c6269f062c27bf42f58-1200x800.jpg -->
-
-बांग्लादेश की सेना ने अपनी दाढ़ी की शेप बदल दी है और 'अल्लाह हू अकबर' बोलकर भारत की सीमा पर चार नई बटालियन भेजी हैं। यह बदलाव बांग्लादेशी सेना के तेजी से 'पाकिस्तानीकरण' की ओर इशारा करता है। जिस बांग्लादेशी फौज ने 1971 में धर्मनिरपेक्षता और बंगाली राष्ट्रवाद के दम पर पाकिस्तान को घुटनों पर ला दिया था, आज उसी सेना का तेजी से 'पाकिस्तानीकरण' होने लगा है.
-
-### [पाक के हाथ से निकलता जा रहा बलूचिस्तान! 54 अलगाववादियों को मारने पर बौखलाहट, 1 हफ्ते में 42 सुरक्षा](https://www.patrika.com/world-news/balochistan-attack-42-security-personnel-killed-20731348)
-*Patrika (World)* - Jul 08, 18:16 IST (iso: 2026-07-08T12:46:29+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Balochistan-Drone-Strike.webp -->
-
-पाकिस्तान के बलूचिस्तान प्रांत में अलगाववादी विद्रोहियों ने एक हफ्ते में 42 सुरक्षा बलों को मार गिराया। इस हमले ने पाकिस्तान की चिंताओं को बढ़ा दिया है कि बलूचिस्तान उसके हाथ से निकल रहा है। पाकिस्तान के हाथ से बलूचिस्तान निकलता जा रहा है। इसका ताजा संकेत भी सामने आया है। बालोचिस्तान प्रांत में इस हफ्ते अलगाववादी विद्रोहियों ने एक के बाद एक हमले कर सुरक्षा बलों को भारी नुकसान पहुंचाया है।
-
-### [बलूचिस्तान में हवाई बमबारी और ड्रोन हमला, कई घर तबाह, पाकिस्तानी सेना के खिलाफ गुस्सा](https://www.patrika.com/world-news/pakistan-balochistan-aerial-bombardment-and-drone-strike-many-homes-destroyed-anger-against-army-20730682)
-*Patrika (World)* - Jul 08, 15:41 IST (iso: 2026-07-08T10:11:55+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Balochistan-Drone-Strike.webp -->
-
-पाकिस्तानी सेना की हवाई बमबारी और ड्रोन हमलों में बलूचिस्तान के रिहायशी इलाकों को निशाना बनाया गया है, जिसके परिणामस्वरूप नागरिकों की संपत्ति का नुकसान हुआ है। इस घटना ने पाकिस्तानी सेना और सरकारी सुरक्षा अभियानों के खिलाफ व्यापक आक्रोश और विरोध प्रदर्शन हुए हैं। मीडिया रिपोर्ट के अनुसार खुजदार और मस्तंग जैसे जिलों में हुई घटनाओं ने पाकिस्तानी सेना और सरकारी सुरक्षा अभियानों के खिलाफ व्यापक आक्रोश और विरोध प्रदर्शन हुए।
-
-### [ब्रह्मोस से आकाशतीर तक, दुनिया में बढ़ रही भारतीय हथियारों की मांग, इंडिया बनेगा डिफेंस किंग?](https://www.abplive.com/news/india/indian-weapons-brahmos-astra-akash-and-akash-tir-in-high-demand-philippines-indonesia-vietnam-3156729)
-*ABP Live (India)* - Jul 08, 14:53 IST (iso: 2026-07-08T09:23:41+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/08/5085892f4e1d29cf80056f35b52ff18c17834972988051115_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-भारत अब रक्षा क्षेत्र में हथियारों का सप्लायर बनकर उभर रहा है. ब्रह्मोस, अस्त्र, आकाश और आकाशतीर जैसे स्वदेशी हथियारों की मांग बढ़ रही है. इनकी क्षमता, प्रदर्शन और कम लागत ने कई देशों का ध्यान आकर्षित किया है. भारत अब रक्षा क्षेत्र में सिर्फ हथियार खरीदने वाला देश नहीं रह गया है, बल्कि दुनिया के कई देशों को हथियार और डिफेंस सिस्टम मुहैया कराने वाला एक बड़ा सप्लायर बनकर उभर रहा है.
-
-### [हिंद-प्रशांत में धौंस जमाएगा भारत, दिखेगी धाक, एक्सपर्ट ने समझाया पीएम मोदी के ऑस्ट्रेलिया दौरे का](https://www.abplive.com/news/india/pm-modi-australia-visit-could-redefine-indo-pacific-strategy-and-bilateral-partnership-expert-reacts-3156656)
-*ABP Live (India)* - Jul 08, 13:41 IST (iso: 2026-07-08T08:11:22+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/08/5fe98a24ee3c356b9861966e3028640d17834915718801431_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-प्रधानमंत्री नरेन्द्र मोदी की ऑस्ट्रेलिया यात्रा से भारत और ऑस्ट्रेलिया के रिश्तों को मजबूती मिलेगी. विशेषज्ञों का मानना है कि यह दौरा हिंद-प्रशांत क्षेत्र में सुरक्षा चुनौतियों के समय में हो रहा है. विशेषज्ञों का मानना है कि प्रधानमंत्री नरेन्द्र मोदी की 8 से 10 जुलाई तक होने वाली ऑस्ट्रेलिया यात्रा भारत और ऑस्ट्रेलिया के रिश्तों को नई मजबूती देगी.
-
-### [H-1B और PERM वीजा पर ट्रंप का शिकंजा: आईटी दिग्गजों तक पहुंची जांच, भारतीय प्रोफेशनल्स पर आएगा संकट?](https://www.amarujala.com/world/donald-trump-h1b-perm-visa-fraud-investigation-impact-on-indian-it-professionals-2026-07-08)
-*Amar Ujala World* - Jul 08, 11:05 IST (iso: 2026-07-08T05:35:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/08/tarapa-ka-vaja-hatara_40ecfa9467baa2441ad05383006d1e5f.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की सरकार ने H-1B और PERM वीजा पर शिकंजा कस दिया है। आईटी दिग्गजों तक पहुंची जांच से भारतीय प्रोफेशनल्स पर संकट आ सकता है, जो अमेरिका में काम करने के लिए इन वीजाओं पर निर्भर करते हैं। H-1B और PERM वीजा पर ट्रंप का शिकंजा: आईटी दिग्गजों तक पहुंची जांच, क्या भारतीय प्रोफेशनल्स पर आएगा संकट?
-
----
-
-## वैश्विक / बहुपक्षीय
-
-### [क्रिप्टोकरेंसी पर लग सकता है प्रतिबंध, क्यों केवल 25 फीसदी लोगों ने दी निवेश की जानकारी?](https://www.amarujala.com/business/bonus/rbi-income-tax-department-tighten-stance-on-cryptocurrency-ban-investment-disclosure-2026-07-09)
-*Amar Ujala National* - Jul 09, 03:38 IST (iso: 2026-07-08T22:08:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/09/cryptocurrency_497ebbd29a05638834db889d97df83a8.jpeg?w=1200&dpr=1.0 -->
-
-क्रिप्टोकरेंसी पर प्रतिबंध लग सकता है क्योंकि केवल 25% लोगों ने निवेश की जानकारी दी। भारतीय रिजर्व बैंक और आयकर विभाग ने क्रिप्टोकरेंसी पर कड़ा रुख अपनाया है। निवेशकों को अपनी जानकारी प्रकट करने के लिए कहा गया है। Cryptocurrency: क्रिप्टोकरेंसी पर लग सकता है प्रतिबंध, क्यों केवल 25 फीसदी लोगों ने दी निवेश की जानकारी?
+**अपडेट:** July 09, 2026 03:55 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [अमेरिका ने फिर शुरू किए ईरान पर हमले, कई जगह हुए धमाके](https://www.patrika.com/world-news/us-starts-attacking-iran-again-explosions-heard-in-bandar-abbas-and-sirik-20731976)
-*Patrika (World)* - Jul 09, 03:37 IST (iso: 2026-07-08T22:07:25+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/us-attacks-iran-again_.webp -->
+### [बांग्लादेश के रोहिंग्या शिविर में भूस्खलन, सात बच्चों और एक शिक्षक की मौत](https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-07-09)
+*Amar Ujala World* - Jul 09, 12:54 IST (iso: 2026-07-09T07:24:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिकी सेना ने ईरान पर हमले शुरू कर दिए हैं। CENTCOM यूनिट ने जानकारी दी कि उन्होंने होर्मुज स्ट्रेट में नौवहन की सुरक्षा के लिए यह कदम उठाया। ईरान पर हमलों का सिलसिला फिर से शुरू हो गया है। ईरान (Iran) और अमेरिका (United States of America) के बीच एक-दूसरे पर हमले करने का सिलसिला फिर से शुरू हो गया है।
+बांग्लादेश के रोहिंग्या शिविर में भूस्खलन हुआ, जिसमें सात बच्चों और एक शिक्षक की मौत हो गई। यह घटना रोहिंग्या शिविर में हुई, जो बांग्लादेश में स्थित है। भूस्खलन के कारण कई लोगों की मौत हुई। बांग्लादेश के रोहिंग्या शिविर में भूस्खलन, सात बच्चों और एक शिक्षक की मौत।
+
+### [ट्रंप का नाटो देश के नेताओं पर बड़ा दावा, ईरान पर हमले में साथ न देने पर क्या बोले?](https://www.amarujala.com/world/donald-trump-major-statement-on-solidarity-with-nato-nations-consensus-reached-on-increasing-defense-budgets-2026-07-09)
+*Amar Ujala World* - Jul 09, 03:37 IST (iso: 2026-07-08T22:07:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/17/donald-trump-us-us-iran-deal_d8ae78c032b905ae0ffb1c3cfe50eb98.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने नाटो देश के नेताओं पर बड़ा दावा किया। उन्होंने कहा कि अगर नाटो देश ईरान पर हमले में साथ नहीं देते, तो उन्हें इसका परिणाम भुगतना पड़ेगा। ट्रंप ने नाटो देशों से अधिक रक्षा बजट देने की बात कही। ट्रंप का नाटो देश के नेताओं पर बड़ा दावा, ईरान पर हमले में साथ न देने पर क्या बोले?
 
 ### [ट्रंप से रिश्ते सुधारने की कोशिशों पर इटली की प्रधानमंत्री मेलोनी बोलीं- कोई पछतावा नहीं](https://www.amarujala.com/world/giorgia-meloni-defends-ties-with-donald-trump-italy-us-relations-nato-summit-iran-dispute-social-media-row-2026-07-09)
 *Amar Ujala Breaking* - Jul 09, 02:56 IST (iso: 2026-07-08T21:26:38+00:00)
@@ -80,6 +30,18 @@
 
 अमेरिकी सेना ने ईरान के कई रणनीतिक ठिकानों पर हमले किए हैं। चाबहार में भारी धमाकों के बाद बिजली गुल हो गई है। बंदर अब्बास और बुशहर बंदरगाह पर भी हमले हुए हैं, जिससे ईरान के रडार और एयर डिफेंस सिस्टम को नुकसान पहुंचा है। अमेरिका ने ईरान के कई रणनीतिक ठिकानों पर भीषण सैन्य प्रहार किया है. वहीं, बंदर अब्बास, सामरिक रूप से अहम अबू मूसा द्वीप और परमाणु संयंत्र वाले बुशहर बंदरगाह पर भी जोरदार हमले हुए हैं.
 
+### [अमेरिका ने ईरान पर फिर किया हमला, ट्रंप ने किया था युद्धविराम समझौता खत्म होने का एलान](https://www.amarujala.com/world/us-launches-fresh-airstrikes-on-iran-after-donald-trump-says-interim-peace-deal-ends-2026-07-09)
+*Amar Ujala Breaking* - Jul 09, 02:15 IST (iso: 2026-07-08T20:45:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/20/west-asia-crisis-iran-war_67ef754ce190874b8d733e70f7ef2f39.gif?w=1200&dpr=1.0 -->
+
+अमेरिका ने ईरान पर फिर से हमला किया, जो कुछ समय पहले ही युद्धविराम समझौता खत्म होने के बाद हुआ था। अमेरिकी सेना ने ईरान पर हमला किया, जिससे क्षेत्र में तनाव बढ़ गया। यह हमला अमेरिकी सेना द्वारा किया गया था। अमेरिका ने ईरान पर फिर किया हमला, ट्रंप ने किया था युद्धविराम समझौता खत्म होने का एलान।
+
+### [मिस्र के रेगिस्तान के नीचे मिला 1,600 साल पुराना शहर, लंबे समय तक दबे रहने के बावजूद सुरक्षित](https://www.patrika.com/world-news/1600-years-old-city-discovered-beneath-egyptian-desert-20731968)
+*Patrika (World)* - Jul 09, 01:48 IST (iso: 2026-07-08T20:18:57+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/1600-years-old-city.webp -->
+
+मिस्र के रेगिस्तान में एक पुरातत्व टीम ने 1,600 साल पुराना शहर खोज निकाला। यह शहर मिस्र के न्यू वैली प्रांत में स्थित दाखला ओएसिस में मिला है। पुरातत्वविदों के अनुसार यह शहर सुरक्षित है और चौथी सदी ईस्वी का है। मिस्र (Egypt) के पश्चिमी रेगिस्तान में करीब 1,600 साल पुराने शहर की खोज हुई है। पुरातत्वविदों के अनुसार इतने लंबे समय तक दबे रहने के बावजूद यह शहर बेहद सुरक्षित है।
+
 ### [अमेरिका ने ईरान पर फिर शुरू किए हमले, सेंट्रल कमांड ने बयान जारी कर दी जानकारी](https://www.amarujala.com/live/world/west-asia-tension-live-update-iran-us-war-hormuz-strait-centcom-strikes-irgc-tehran-trump-pezeshkian-araghchi-2026-07-09)
 *Amar Ujala World* - Jul 09, 01:12 IST (iso: 2026-07-08T19:42:26+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/06/11/iran-us-war-live-updates-west-asia-crisis-usa-militry-strike-multiple-target-in-tehran-donald-trump_4d3d133ae210ebe724be65be8e9ad8c0.gif?w=1200&dpr=1.0 -->
@@ -92,11 +54,41 @@
 
 अमेरिकी हमले में ईरान के 8 सैनिक मारे गए, जिससे दोनों देशों के बीच तनाव बढ़ गया है। यह हमला होर्मुज स्ट्रेट में जहाजों पर हुआ, जिसने ईरान और अमेरिका के बीच शांति समझौते को अधर में डाल दिया है। कुछ दिन पहले ही अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) ने दावा किया था कि ईरान ने उनकी लगभग सभी शर्तें मान की हैं, लेकिन अब एक बार फिर दोनों देशों के बीच युद्ध छिड़ने की नौबत आ गई है।
 
+### [ईरान की किल लिस्ट में डोनाल्ड ट्रंप सबसे ऊपर, अमेरिकी राष्ट्रपति का दावा](https://www.patrika.com/world-news/donald-trump-says-he-is-number-one-on-iran-kill-list-20731948)
+*Patrika (World)* - Jul 08, 23:54 IST (iso: 2026-07-08T18:24:30+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/trump-at-nato-summit.webp -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि ईरान की किल लिस्ट में वह सबसे ऊपर है। ट्रंप ने कहा कि ईरान के साथ डील करना समय की बर्बादी है। ईरान और अमेरिका के बीच तनाव बढ़ गया है। ईरान (Iran) और अमेरिका (United States of America) के एक-दूसरे के ठिकानों पर हमलों के बाद दोनों देशों के बीच तनाव एक बार फिर बढ़ गया है।
+
+### ['मेरा कत्ल करवाने पर तुला ईरान’, डोनाल्ड ट्रंप ने इसी डर से दोबारा शुरू कर दी जंग?](https://hindi.news18.com/world/middle-east-donald-trump-claims-iran-plotting-his-assassination-says-i-am-target-number-one-amid-iran-us-war-10640642.html)
+*News18 Hindi (World)* - Jul 08, 22:52 IST (iso: 2026-07-08T17:22:28+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Iran-Plan-To-Assasinate-Trump-2026-07-170463b5beb9450734b9216032a9282c-1200x800.jpg -->
+
+डोनाल्ड ट्रंप ने कहा कि ईरान उनकी हत्या की साजिश रच रहा है, इसलिए उन्होंने जंग दोबारा शुरू की है। ईरान के सर्वोच्च नेता अयातुल्ला अली खामेनेई की मौत के बाद यह दावा किया गया है। ट्रंप दुनिया के 'टारगेट नंबर 1' बन चुके हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ युद्धविराम अचानक तोड़ने के बाद एक बड़ा दावा किया है.
+
+### [जिस इराक से जंग में बही थीं खून की नदियां, ईरान वहां खामेनेई का जनाजा क्यों ले गया? दुश्मनी क्यों](https://hindi.news18.com/news/knowledge/iran-vs-iraq-war-story-reason-saddam-hussein-regime-supreme-leader-khamenei-funeral-procession-explainer-10640496.html)
+*News18 Hindi (World)* - Jul 08, 20:32 IST (iso: 2026-07-08T15:02:15+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Untitled-design-2026-07-08T200741.837-2026-07-f7eaa69e2bcf096cf113485df232e27f-1200x800.jpg -->
+
+ईरान और इराक खामेनेई के अंतिम संस्कार में एक साथ नजर आ रहे हैं। दोनों देशों के बीच 8 साल तक खूंखार लड़ाई चली थी, जिसमें लाखों लोगों ने जान गंवाई थी। ईरान और इराक आज खामेनेई के अंतिम संस्कार में एक नजर आ रहे हैं. दोनों पड़ोसी मुल्क एक समय कट्टर दुश्मन रह चुके हैं. दोनों के बीच 8 साल तक खूंखार लड़ाई चली.
+
+### [‘आज रात ईरान पर अटैक करेंगे’! किस जगह से पहली मिसाइल दागेंगे ट्रंप? बेन गुरियन एयरपोर्ट पर हलचल शुरू](https://hindi.news18.com/world/middle-east-trump-warns-strike-on-iran-tonight-where-will-us-launch-first-missile-us-military-jets-swarm-ben-gurion-airport-near-israel-10640010.html)
+*News18 Hindi (World)* - Jul 08, 20:12 IST (iso: 2026-07-08T14:42:51+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Trump-To-Attack-Iran-2026-07-3168a094662f4237e250dd07d1986b1e-1200x800.jpg -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने आज रात ईरान पर दोबारा हमला करने की चेतावनी दी है। इजरायल के बेन गुरियन एयरपोर्ट पर अमेरिकी रीफ्यूलिंग विमानों की भारी हलचल शुरू हो गई है। ईरान के साथ सीजफायर टूटने के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने आज रात ही ईरान पर दोबारा एक बड़ा और घातक हमला करने की खुली चेतावनी देकर दुनिया को हिला दिया है.
+
 ### [डोनाल्ड ट्रंप के बयान के बाद क्रूड ऑयल की कीमतों में 5% से ज्यादा उछाल, दुनिया भर में मंडराया संकट](https://www.patrika.com/world-news/trump-says-deal-with-iran-over-crude-oil-price-surge-20730753)
 *Patrika (World)* - Jul 08, 18:11 IST (iso: 2026-07-08T12:41:24+00:00)
 <!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/US-President-Donald-Trump.webp -->
 
 अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के बयान के बाद क्रूड ऑयल की कीमतों में 5% से ज्यादा उछाल आया। यह बढ़ोतरी मध्य पूर्व से तेल की सप्लाई में रुकावट की आशंका के कारण हुई। Iran US Conflict: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के ईरान के साथ टकराव खत्म करने वाला समझौता ‘खत्म’ होने का बयान सामने आते ही मध्य पूर्व से तेल की सप्लाई में रुकावट की आशंका फिर से पैदा हो गई है।
+
+### [इधर ट्रंप ने दी ईरान को तबाही की धमकी, उधर EU भी होर्मुज को लेकर गुस्से से हुआ लाल, जंग की आहट के](https://www.abplive.com/news/world/eu-kaja-kallas-reaction-on-us-iran-military-strikes-hormuz-strait-eu-hold-meeting-with-gulf-countries-amid-us-iran-war-trump-3156897)
+*ABP Live (World)* - Jul 08, 17:10 IST (iso: 2026-07-08T11:40:42+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/08/7eb6fc750d1e76e08a530776b3c0a45c17835107028371368_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+यूरोपियन यूनियन ने अमेरिका और ईरान के बीच बढ़ते तनाव पर चिंता जताई है. यूरोपिय आयोग की उपाध्यक्ष काजा कल्लास ने कहा कि मिडिल ईस्ट में बढ़ता सैन्य तनाव दुनिया के लिए गंभीर चिंताएं खड़ी कर रहा है. तनाव ने जंग को खत्म करने के प्रयासों को मुश्किल बना दिया है. अमेरिका और ईरान के बीच बढ़ते तनाव पर यूरोपियन यूनियन ने चिंता जताई है.
 
 ### [आर्टिकल 5 का पेच क्या, जिस पर मरने-मारने को तैयार ट्रंप? ईरान-अमेरिका डील में क्यों बिगड़ी बात](https://hindi.news18.com/news/knowledge/know-all-about-article-5-of-us-iran-mou-deal-strait-of-hormuz-ships-passing-trump-news-10639618.html)
 *News18 Hindi (World)* - Jul 08, 16:27 IST (iso: 2026-07-08T10:57:33+00:00)
@@ -105,10 +97,16 @@
 अमेरिका और ईरान के बीच तनाव बढ़ गया है. दोनों देशों के बीच स्विट्जरलैंड में हुई बातचीत के बाद युद्धविराम का ऐलान हुआ था. अब आर्टिकल-5 चर्चा में है, जिस पर अमेरिका और ईरान आमने-सामने हैं. America Iran Conflict: अमेरिका और ईरान फिर से आमने-सामने हैं. पिछले महीने दोनों देशों के बीच स्विट्जरलैंड में हुई बातचीत और फिर उसके बाद युद्धविराम के ऐलान के बाद खुल्लमखुल्ला जंग की स्थिति बन हो गई है.
 
 ### [भारत में बढ़ने वाले हैं पेट्रोल-गैस के दाम! NATO में ट्रंप ने ईरान से शांति समझौता तोड़ा, आपके पास](https://www.abplive.com/news/india/donald-trump-announce-in-nato-summit-us-iran-peace-deal-breaks-strait-of-hormuz-crude-oil-petrol-diesel-lpg-cng-price-increase-in-india-explained-3156857)
-*ABP Live (World)* - Jul 08, 16:19 IST (iso: 2026-07-08T10:49:32+00:00)
+*ABP Live (India)* - Jul 08, 16:19 IST (iso: 2026-07-08T10:49:32+00:00)
 <!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/08/eee647f79965851e2c75dc4297caab9e17835077376981317_original.jpeg?impolicy=abp_cdn&imwidth=1200 -->
 
 अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ हुए सीजफायर समझौते को खत्म कर दिया. उन्होंने कहा कि अब अमेरिका ईरान से कोई डील नहीं करना चाहता. ट्रंप के बयान ने दुनिया के बाजारों को हिलाकर रख दिया. 8 जुलाई 2026 को तुर्किये की राजधानी अंकारा में NATO समिट चल रही थी. इसमें अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के बयान ने पूरी दुनिया के बाजारों को हिलाकर रख दिया.
+
+### ['कैंसर' है ईरान सरकार, जड़ से खत्म करना जरूरी...', ताबड़तोड़ एयरस्ट्राइक के बाद ट्रंप की तेहरान को](https://www.abplive.com/news/world/iranian-government-is-cancer-must-be-eradicated-from-its-roots-donald-trump-threatens-tehran-after-airstrikes-us-iran-war-3156835)
+*ABP Live (World)* - Jul 08, 15:38 IST (iso: 2026-07-08T10:08:24+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/08/e71834cc06ba56b0833a51ba9f767dbf17835048155671368_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान पर बड़े हमले की धमकी दी है. ट्रंप ने कहा, ईरान की सरकार एक जानलेवा बीमारी की तरह है. इसे समय रहते शुरुआत में ही जड़ से खत्म कर देना बेहद जरूरी है, भारी तबाही से बचने के लिए. पश्चिमी एशिया में फिर संघर्ष तेज होता दिख रहा है. ट्रंप ने कहा, ईरान की सरकार एक जानलेवा बीमारी (कैंसर) की तरह है.
 
 ### [मिडिल ईस्ट में बर्बादी की आहट! ट्रंप ने बताया कैंसर तो ईरान का पलटवार, कहा- हम लड़ाई के लिए तैयार](https://www.abplive.com/news/world/us-iran-news-us-donald-trump-says-ceasefire-deal-over-tehran-reply-we-are-ready-to-fight-war-crude-oil-price-3156815)
 *ABP Live (World)* - Jul 08, 15:20 IST (iso: 2026-07-08T09:50:22+00:00)
@@ -122,17 +120,27 @@
 
 अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने NATO शिखर सम्मेलन में कहा कि ईरान के साथ समझौता खत्म हो चुका है. उन्होंने दावा किया कि हालिया घटनाक्रम के बाद समझौते का कोई महत्व नहीं रह गया है. US Iran News: तुर्किये की राजधानी अंकारा में आयोजित NATO शिखर सम्मेलन के दौरान अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को लेकर बड़ा बयान दिया.
 
-### [क्या तेल को महंगा बनाए रखना चाहता है ईरान? तीन तेल टैंकरों पर हमले से बढ़ी हलचल, जानें मकसद](https://www.abplive.com/news/world/iran-attack-3-oil-gas-tankers-speculation-to-keep-oil-prices-high-and-command-control-over-strait-of-hormuz-ann-3156653)
-*ABP Live (World)* - Jul 08, 12:33 IST (iso: 2026-07-08T07:03:27+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/08/98d3d7c7bd8091e9c391a96e0680e03017834919769391115_original.png?impolicy=abp_cdn&imwidth=1200 -->
+---
 
-ईरान ने तीन तेल टैंकरों पर हमला किया, जिनमें कतर, सऊदी अरब और लाइबेरिया के जहाज शामिल थे। इस हमले ने तेल बाजार में हलचल मचा दी और कई तरह की चर्चाएं शुरू हो गई हैं। ईरान के इस कदम से तेल की कीमतें बढ़ सकती हैं। ईरान की तरफ से तीन टैंकरों पर किए गए हमले के बाद कई तरह की चर्चाएं शुरू हो गई हैं.
+## एशिया-प्रशांत
 
-### [US-ईरान टकराव में आया नया मोड़?: ट्रंप बोले- मुझे मारने की साजिश रच सकता है तेहरान, मैं उनका नंबर](https://www.amarujala.com/world/i-m-no-1-on-iran-s-kill-list-donald-trump-says-tehran-may-be-plotting-to-assassinate-him-2026-07-08)
-*Amar Ujala Breaking* - Jul 08, 11:31 IST (iso: 2026-07-08T06:01:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/08/donald-trump_1cb2efa600bbe5cad2ca02073b441896.jpeg?w=1200&dpr=1.0 -->
+### [शेख हसीना को जिन लोगों ने खदेड़ा, बांग्लादेश में उन्हें मिला कर्मों का फल](https://hindi.news18.com/world/south-asia-bangladesh-bomb-blast-explosions-rock-sheikh-hasina-rivals-ncp-rally-in-savar-10640711.html)
+*News18 Hindi (World)* - Jul 09, 00:03 IST (iso: 2026-07-08T18:33:49+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Bangladesh-Blast-2026-07-021075f73ef28f91301d3c27320ff5ab-1200x800.jpg -->
 
-अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि ईरान उन्हें मारने की साजिश रचा सकता है। ट्रंप ने कहा कि तेहरान उनका नंबर एक निशाना है। इससे अमेरिका और ईरान के बीच तनाव और बढ़ सकता है। US-ईरान टकराव में आया नया मोड़?: ट्रंप बोले- मुझे मारने की साजिश रच सकता है तेहरान, मैं उनका नंबर एक निशाना।
+बांग्लादेश में पूर्व प्रधानमंत्री शेख हसीना का तख्तापलट करने वाले छात्र नेताओं की रैली में हमला हुआ, जिसमें कई लोग मारे गए। यह हमला ढाका के पास सावर इलाके में हुआ था। हमले में तीन कट्टर आंदोलनकारी मारे गए। बांग्लादेश में ढाका के पास सावर इलाके में हुआ. यहां पूर्व प्रधानमंत्री शेख हसीना का तख्तापलट करने वाले छात्र नेताओं की रैली चल रही थी.
+
+### [बांग्लादेश आर्मी ने बदली दाढ़ी की शेप, 'अल्लाह हू अकबर' बोलकर भारत की सीमा पर भेजी 4 नई बटालियन](https://hindi.news18.com/world/south-asia-bangladesh-army-pakistan-islamic-effect-war-cry-allahu-akbar-4-battalions-deployed-near-india-border-chittagong-10640289.html)
+*News18 Hindi (World)* - Jul 08, 19:33 IST (iso: 2026-07-08T14:03:19+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Bangladesh-Army-Islamisation-2026-07-327ae2e8086d6c6269f062c27bf42f58-1200x800.jpg -->
+
+बांग्लादेश की सेना ने अपनी दाढ़ी की शेप बदल दी है और 'अल्लाह हू अकबर' बोलकर भारत की सीमा पर चार नई बटालियन भेजी हैं। यह बदलाव बांग्लादेशी सेना के तेजी से 'पाकिस्तानीकरण' की ओर इशारा करता है। जिस बांग्लादेशी फौज ने 1971 में धर्मनिरपेक्षता और बंगाली राष्ट्रवाद के दम पर पाकिस्तान को घुटनों पर ला दिया था, आज उसी सेना का तेजी से 'पाकिस्तानीकरण' होने लगा है.
+
+### [पाक के हाथ से निकलता जा रहा बलूचिस्तान! 54 अलगाववादियों को मारने पर बौखलाहट, 1 हफ्ते में 42 सुरक्षा](https://www.patrika.com/world-news/balochistan-attack-42-security-personnel-killed-20731348)
+*Patrika (World)* - Jul 08, 18:16 IST (iso: 2026-07-08T12:46:29+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Balochistan-Drone-Strike.webp -->
+
+पाकिस्तान के बलूचिस्तान प्रांत में अलगाववादी विद्रोहियों ने एक हफ्ते में 42 सुरक्षा बलों को मार गिराया। इस हमले ने पाकिस्तान की चिंताओं को बढ़ा दिया है कि बलूचिस्तान उसके हाथ से निकल रहा है। पाकिस्तान के हाथ से बलूचिस्तान निकलता जा रहा है। इसका ताजा संकेत भी सामने आया है। बालोचिस्तान प्रांत में इस हफ्ते अलगाववादी विद्रोहियों ने एक के बाद एक हमले कर सुरक्षा बलों को भारी नुकसान पहुंचाया है।
 
 ---
 
@@ -152,25 +160,13 @@
 
 ---
 
-## दुनिया
+## अमेरिका
 
-### [ममता बनर्जी की TMC के खिलाफ ED का बड़ा एक्शन, पांच ठिकानों पर छापेमारी, बैंक अकाउंट में 440 करोड़](https://www.abplive.com/news/india/ed-conducts-multiple-raids-related-to-mamata-banerjee-tmc-money-laundering-case-several-bank-accounts-freezes-ann-3156863)
-*ABP Live (India)* - Jul 08, 16:51 IST (iso: 2026-07-08T11:21:47+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/08/f207ec196dd6ca6d8e707e89117c345917835086307241126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [‘बिना मर्जी के बार-बार हटाया कंडोम! सांसद उम्मीदवार की Ex-गर्लफ्रेंड ने खोले बेडरूम के डर्टी](https://hindi.news18.com/world/america-graham-platner-bedroom-secret-out-us-senate-candidate-accused-of-removing-condom-without-consent-by-ex-girlfriend-10640386.html)
+*News18 Hindi (World)* - Jul 08, 20:00 IST (iso: 2026-07-08T14:30:54+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Graham-Platner-Bedroom-Secret-out-2026-07-aacfc65e29b2e89f356f84f299a73f73-1200x800.jpg -->
 
-प्रवर्तन निदेशालय ने तृणमूल कांग्रेस के कथित पैसों की लेन-देन के मामले में कार्रवाई की. ईडी ने 440 करोड़ रुपये वाले टीएमसी के एचडीएफसी बैंक अकाउंट्स की जांच शुरू की और अकाउंट को फ्रीज कर दिया. पांच जगहों पर छापेमारी भी की गई. प्रवर्तन निदेशालय (ED) ने मंगलवार (7 जुलाई, 2026) को पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी की पार्टी तृणमूल कांग्रेस (TMC) से जुड़े कथित पैसों की लेन-देन के मामले में बड़ी कार्रवाई को अंजाम दिया है.
-
-### [इंसाफ या पुलिस की नाकामी पर पर्दा! बारुईपुर रेप केस आरोपी की एनकाउंटर में मौत, किन सवालों में उलझी](https://www.abplive.com/news/india/west-bengal-baruipur-rape-case-accused-prabhas-mandal-shot-dead-in-encounter-mamata-banerjee-tmc-bjp-explained-3156728)
-*ABP Live (India)* - Jul 08, 13:48 IST (iso: 2026-07-08T08:18:18+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/08/f355cd99aa6323c072247091e3b398f817834982817961317_original.jpeg?impolicy=abp_cdn&imwidth=1200 -->
-
-कोलकाता के बारुईपुर में नाबालिग लड़की के साथ रेप और हत्या के आरोपी की पुलिस मुठभेड़ में मौत हो गई. पुलिस का कहना है कि आरोपी ने हथियार छीनकर भागने की कोशिश की. मानवाधिकार संगठनों ने कार्रवाई पर सवाल उठाए हैं. कोलकाता के दक्षिणी उपनगर बारुईपुर में एक ऐसी घटना हुई है जिसने पूरे पश्चिम बंगाल को हिला कर रख दिया है.
-
-### [कारें टकराईं, फिर सड़क बनी अखाड़ा! वीडियो वायरल](https://www.abplive.com/short-videos/news/india-viral-news-cars-collided-then-the-road-turned-into-a-wrestling-arena-video-goes-viral-3156755)
-*ABP Live (India)* - Jul 08, 13:40 IST (iso: 2026-07-08T08:10:23+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/08/a136ac63fc604626abfbe5f570ef8bb617834977905451392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628 -->
-
-दो कारों की टक्कर के बाद सड़क पर झगड़ा हुआ. घटना का वीडियो वायरल हो गया है. पुलिस ने मामले की जांच शुरू कर दी है. Viral News: कारें टकराईं, फिर सड़क बनी अखाड़ा!
+अमेरिकी सीनेट चुनाव के उम्मीदवार ग्राहम प्लैटनर पर उनकी पूर्व प्रेमिका ने शारीरिक संबंध बनाने के दौरान बिना सहमति के कंडोम हटाने का आरोप लगाया है। यह आरोप वाशिंगटन पोस्ट को दिए इंटरव्यू में लगाया गया है। अमेरिकी सीनेट चुनाव के मैदान में उतरे उम्मीदवार ग्राहम प्लैटनर पर उनकी पूर्व प्रेमिका लिंडसे फिफिल्ड ने शारीरिक संबंध बनाने के दौरान बिना सहमति के बार-बार चुपके से कंडोम हटाने का बेहद गंभीर और घिनौना आरोप लगाया है.
 
 ---
 
