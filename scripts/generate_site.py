@@ -533,11 +533,41 @@ _ANCHOR_JUNK_RE = re.compile(
     re.IGNORECASE,
 )
 
+# WordPress / Asia Times / many other RSS feeds tack a self-promotional
+# footer onto the syndicated description: "The post <title> appeared first
+# on <site>." Sometimes preceded by an empty markdown link "[]" or a stray
+# bracket. We strip the whole tail starting at "The post" so the summary
+# ends on real prose instead of a self-reference.
+_WP_FOOTER_RE = re.compile(
+    r"\s*(?:\[\s*\]\s*)?The post .+?(?:appeared first on|first appeared on)\s+[^.]*\.?\s*$",
+    re.IGNORECASE | re.DOTALL,
+)
+
+# Loose orphan markdown brackets like " []" or "[ ]" left behind when a
+# feed item contained a markdown link that an upstream stripper emptied.
+_ORPHAN_BRACKETS_RE = re.compile(r"\s*\[\s*\]\s*")
+
+# "Read more on X" / "Read more at X" / "Continue reading at X" tails that
+# some news aggregators append. We only strip the trailing form.
+_READMORE_FOOTER_RE = re.compile(
+    r"\s*(?:Read more (?:on|at)|Continue reading (?:on|at))\s+\S+(?:\s+\S+){0,4}\s*$",
+    re.IGNORECASE,
+)
+
 
 def _strip_anchor_junk(text: str) -> str:
-    if not text or '">' not in text:
+    if not text:
         return text
-    return _ANCHOR_JUNK_RE.sub("", text)
+    cleaned = text
+    if '">' in cleaned:
+        cleaned = _ANCHOR_JUNK_RE.sub("", cleaned)
+    # Order matters: strip the WP footer first (it may itself contain "[]"
+    # at the front), then any standalone empty brackets, then read-more
+    # tails. Each pattern is anchored or guarded so a no-op is cheap.
+    cleaned = _WP_FOOTER_RE.sub("", cleaned)
+    cleaned = _ORPHAN_BRACKETS_RE.sub(" ", cleaned)
+    cleaned = _READMORE_FOOTER_RE.sub("", cleaned)
+    return cleaned.strip()
 
 
 def _clean_summary_for_display(summary: str, title: str, language: str = "en") -> str:
@@ -915,20 +945,32 @@ def _cap_words(text: str, max_words: int) -> str:
     # Grace window: allow up to 15 percent overrun to preserve a full
     # sentence when the natural ending sits just past the cap.
     grace = int(max_words * 1.15)
-    floor = max(4, max_words // 2)
+    # Soft floor — we prefer NOT to cut below a quarter of the budget, but
+    # if no terminator sits above that line we still walk all the way back
+    # rather than leaving a dangling mid-sentence cut. Better a slightly
+    # shorter complete sentence than a broken thought with an ellipsis.
+    soft_floor = max(4, max_words // 4)
     terminators = {".", "!", "?", "\u0964"}
-    # Scan words[:grace] for the last index whose token ends on a
-    # terminator and sits above the floor.
+    # First pass: prefer the last terminator inside the grace window above
+    # the soft floor.
     best = -1
     for i, w in enumerate(words[:grace]):
         stripped = w.rstrip(' ,;:"\')')
-        if stripped and stripped[-1] in terminators and i >= floor - 1:
+        if stripped and stripped[-1] in terminators and i >= soft_floor - 1:
             best = i
     if best >= 0:
         return " ".join(words[: best + 1])
-    # No usable terminator. Clean word cut at max_words, strip trailing
-    # punctuation so we never leave a dangling comma.
-    return " ".join(words[:max_words]).rstrip(' ,;:\u2013\u2014\u2010\u0964')
+    # Second pass: no terminator above the soft floor. Walk back as far
+    # as needed to find ANY terminator inside the grace window.
+    for i in range(min(grace, len(words)) - 1, -1, -1):
+        stripped = words[i].rstrip(' ,;:"\')')
+        if stripped and stripped[-1] in terminators:
+            return " ".join(words[: i + 1])
+    # Third pass: still no terminator. Hard word cut at max_words, strip
+    # trailing punctuation so we don't leave a dangling comma, then append
+    # an ellipsis so readers know the thought continues elsewhere.
+    cut = " ".join(words[:max_words]).rstrip(' ,;:\u2013\u2014\u2010\u0964')
+    return cut + "\u2026"
 
 
 def _apply_card_length_caps(title: str, summary: str, featured: bool, language: str) -> tuple[str, str]:
@@ -1220,9 +1262,16 @@ def build_html(
     secondary_label = copy["hero_secondary_archive"]
 
     # Editor's digest: a short LLM-generated lead that sits in the hero panel.
-    # Rendered only when summarize.py produced text. Keeps hero clean otherwise.
+    # Suppressed when a manual editor_note is configured in config.yml — the
+    # hand-written note carries the editorial voice better, and the auto
+    # summary tends to surface the grimmest headline of the run, which
+    # reads oddly stacked above a friendly announcement card.
     digest_text = (digest or "").strip()
-    if digest_text:
+    _editor_note_body_key = "body_hi" if language == "hi" else "body"
+    _has_manual_editor_note = bool(
+        editor_note and (editor_note.get(_editor_note_body_key) or "").strip()
+    )
+    if digest_text and not _has_manual_editor_note:
         digest_label = "Editor's note" if language == "en" else "संपादकीय नोट"
         digest_html = (
             '<div class="editor-note">'

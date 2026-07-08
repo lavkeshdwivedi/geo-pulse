@@ -846,8 +846,76 @@ def _chunked(values: list[str], size: int) -> list[list[str]]:
     return [values[i:i + size] for i in range(0, len(values), size)]
 
 
+def _translate_via_deepl(texts: list[str], api_key: str) -> dict[str, str]:
+    """DeepL API — free tier 500k chars/month, commercial use permitted.
+    Set DEEPL_API_KEY in the environment to use. Free-tier keys end with ':fx'.
+    """
+    import requests as _req
+    base = "https://api-free.deepl.com" if api_key.endswith(":fx") else "https://api.deepl.com"
+    result: dict[str, str] = {}
+    for batch in _chunked(texts, 50):
+        protected_batch: list[str] = []
+        saved_abbrevs: list[list[str]] = []
+        for text in batch:
+            protected, saved = _protect_abbrevs(text)
+            protected_batch.append(protected)
+            saved_abbrevs.append(saved)
+        try:
+            resp = _req.post(
+                f"{base}/v2/translate",
+                headers={"Authorization": f"DeepL-Auth-Key {api_key}"},
+                json={"text": protected_batch, "source_lang": "EN", "target_lang": "HI"},
+                timeout=30,
+            )
+            resp.raise_for_status()
+            translations = [r["text"] for r in resp.json()["translations"]]
+            for src, tgt, saved in zip(batch, translations, saved_abbrevs):
+                restored = _restore_abbrevs(tgt, saved)
+                result[src] = colloquialize_hindi(restored) or src
+        except Exception as exc:
+            log.warning("DeepL translation batch failed: %s", exc)
+            for src in batch:
+                result[src] = src
+    return result
+
+
+def _translate_via_mymemory(texts: list[str]) -> dict[str, str]:
+    """MyMemory API — free tier, no API key required, commercial use permitted.
+    Rate limit: 1 000 requests/day per IP (sufficient for hourly newsletter runs).
+    """
+    import requests as _req
+    result: dict[str, str] = {}
+    for text in texts:
+        protected, saved = _protect_abbrevs(text)
+        try:
+            resp = _req.get(
+                "https://api.mymemory.translated.net/get",
+                params={"q": protected, "langpair": "en|hi"},
+                timeout=10,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            translated = data.get("responseData", {}).get("translatedText", "")
+            if translated and data.get("responseStatus") == 200:
+                restored = _restore_abbrevs(translated, saved)
+                result[text] = colloquialize_hindi(restored) or text
+            else:
+                result[text] = text
+        except Exception as exc:
+            log.warning("MyMemory translation failed for '%s': %s", text[:60], exc)
+            result[text] = text
+    return result
+
+
 def translate_texts_to_hindi(texts: list[str]) -> list[str]:
+    """Translate English texts to Hindi.
+
+    Uses DeepL if DEEPL_API_KEY is set (500k chars/month free, commercial OK),
+    otherwise falls back to the MyMemory API (free, no key, commercial OK).
+    Neither backend scrapes a consumer web interface.
+    """
     normalized = [normalize_text(text) for text in texts]
+
     def should_translate(text: str) -> bool:
         if not text:
             return False
@@ -861,42 +929,11 @@ def translate_texts_to_hindi(texts: list[str]) -> list[str]:
     if not uniques:
         return normalized
 
-    try:
-        from deep_translator import GoogleTranslator
-    except ImportError:
-        log.warning("deep-translator not installed; Hindi output will mirror English text.")
-        return normalized
-
-    translator = GoogleTranslator(source="auto", target="hi")
-    translated_map: dict[str, str] = {}
-
-    for batch in _chunked(uniques, 20):
-        # Protect financial/technical abbreviations from being transliterated.
-        protected_batch: list[str] = []
-        saved_abbrevs: list[list[str]] = []
-        for text in batch:
-            protected, saved = _protect_abbrevs(text)
-            protected_batch.append(protected)
-            saved_abbrevs.append(saved)
-
-        try:
-            translated_batch = translator.translate_batch(protected_batch)
-            if not isinstance(translated_batch, list) or len(translated_batch) != len(batch):
-                raise ValueError("unexpected translation response shape")
-            for source_text, target_text, saved in zip(batch, translated_batch, saved_abbrevs):
-                restored = _restore_abbrevs(target_text, saved)
-                translated_map[source_text] = colloquialize_hindi(restored) or source_text
-        except Exception as exc:
-            log.warning("Hindi batch translation failed (%s). Retrying item by item.", exc)
-            for source_text, saved in zip(batch, saved_abbrevs):
-                try:
-                    protected, _ = _protect_abbrevs(source_text)
-                    raw = translator.translate(protected)
-                    restored = _restore_abbrevs(raw, saved)
-                    translated_map[source_text] = colloquialize_hindi(restored) or source_text
-                except Exception as single_exc:
-                    log.warning("Hindi translation failed for '%s': %s", source_text[:60], single_exc)
-                    translated_map[source_text] = source_text
+    deepl_key = os.environ.get("DEEPL_API_KEY", "").strip()
+    if deepl_key:
+        translated_map = _translate_via_deepl(uniques, deepl_key)
+    else:
+        translated_map = _translate_via_mymemory(uniques)
 
     return [translated_map.get(text, text) for text in normalized]
 
@@ -907,9 +944,49 @@ def translate_texts_to_hindi(texts: list[str]) -> list[str]:
 _STYLE_GUIDE = load_style_guide()
 
 try:
-    from llm_client import llm_complete as _llm_complete, any_key_present as _llm_any_key
+    import os as _os
+    from kognios import ModelChain as _ModelChain
+    from kognios.models.groq import GroqModel as _GroqModel
+    from kognios.models.gemini import GeminiModel as _GeminiModel
+    from kognios.models.anthropic import AnthropicModel as _AnthropicModel
+
+    _PROVIDER_FACTORIES = {
+        "groq": lambda mt, t: _GroqModel(model="llama-3.3-70b-versatile", max_tokens=mt, temperature=t),
+        "gemini": lambda mt, t: _GeminiModel(model="gemini-2.5-flash", max_tokens=mt, temperature=t),
+        "anthropic": lambda mt, t: _AnthropicModel(model="claude-sonnet-4-6", max_tokens=mt, temperature=t),
+    }
+    _PROVIDER_KEYS = {"groq": "GROQ_API_KEY", "gemini": "GEMINI_API_KEY", "anthropic": "ANTHROPIC_API_KEY"}
+
+    def _llm_any_key() -> bool:
+        return any(_os.environ.get(v) for v in _PROVIDER_KEYS.values())
+
+    def _llm_complete(
+        system_prompt: str,
+        user_prompt: str,
+        max_tokens: int = 400,
+        temperature: float = 0.25,
+        preferred: str | None = None,
+        **_,
+    ) -> str | None:
+        # Build model list: preferred provider first, then others, free-tier order.
+        order = ["groq", "gemini", "anthropic"]
+        if preferred and preferred in order:
+            order = [preferred] + [p for p in order if p != preferred]
+        models = [
+            _PROVIDER_FACTORIES[name](max_tokens, temperature)
+            for name in order
+            if _os.environ.get(_PROVIDER_KEYS[name])
+        ]
+        if not models:
+            return None
+        try:
+            return _ModelChain(models).complete(
+                [{"role": "user", "content": user_prompt}], system=system_prompt
+            ).content
+        except Exception:
+            return None
+
 except ImportError:
-    # Fall back to a no-op if the module is missing. Callers handle the None.
     def _llm_complete(*_a, **_kw):
         return None
 
