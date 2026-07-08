@@ -16,25 +16,22 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from llm_client import _parse_llm_json
-from kognios import ModelChain
-from kognios.models.gemini import GeminiModel
-from kognios.models.groq import GroqModel
+from kognios.models.chain import free_tier_chain as _free_tier_chain
+
+_MONITOR_CHAIN = _free_tier_chain(preferred="gemini")
 
 
 def llm_json(system_prompt: str, user_prompt: str, max_tokens: int = 800,
              temperature: float = 0.2, providers: list[str] | None = None, **_) -> dict:
-    """JSON generation via KogniOS ModelChain. providers filters to named set."""
-    _map = {
-        "groq": lambda: GroqModel(model="llama-3.3-70b-versatile", max_tokens=max_tokens, temperature=temperature),
-        "gemini": lambda: GeminiModel(model="gemini-2.5-flash", max_tokens=max_tokens, temperature=temperature),
-    }
-    wanted = set(providers) if providers else set(_map)
-    models = [factory() for name, factory in _map.items()
-              if name in wanted and os.environ.get(f"{name.upper()}_API_KEY")]
-    if not models:
+    """JSON generation via KogniOS ModelChain (Gemini-first, Groq fallback)."""
+    if not _MONITOR_CHAIN.models:
         raise RuntimeError("No LLM provider keys available")
-    chain = ModelChain(models)
-    resp = chain.complete([{"role": "user", "content": user_prompt}], system=system_prompt)
+    resp = _MONITOR_CHAIN.complete(
+        [{"role": "user", "content": user_prompt}],
+        system=system_prompt,
+        max_tokens=max_tokens,
+        temperature=temperature,
+    )
     return _parse_llm_json(resp.content)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent

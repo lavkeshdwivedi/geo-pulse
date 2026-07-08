@@ -944,21 +944,14 @@ def translate_texts_to_hindi(texts: list[str]) -> list[str]:
 _STYLE_GUIDE = load_style_guide()
 
 try:
-    import os as _os
-    from kognios import ModelChain as _ModelChain
-    from kognios.models.groq import GroqModel as _GroqModel
-    from kognios.models.gemini import GeminiModel as _GeminiModel
-    from kognios.models.anthropic import AnthropicModel as _AnthropicModel
+    from kognios.models.chain import free_tier_chain as _free_tier_chain, _collect_keys as _collect_llm_keys
 
-    _PROVIDER_FACTORIES = {
-        "groq": lambda mt, t: _GroqModel(model="llama-3.3-70b-versatile", max_tokens=mt, temperature=t),
-        "gemini": lambda mt, t: _GeminiModel(model="gemini-2.5-flash", max_tokens=mt, temperature=t),
-        "anthropic": lambda mt, t: _AnthropicModel(model="claude-sonnet-4-6", max_tokens=mt, temperature=t),
-    }
-    _PROVIDER_KEYS = {"groq": "GROQ_API_KEY", "gemini": "GEMINI_API_KEY", "anthropic": "ANTHROPIC_API_KEY"}
+    # Single chain shared across all _llm_complete() calls so pacing, cooldowns,
+    # and dead-model tracking persist for the entire summarize run.
+    _LLM_CHAIN = _free_tier_chain(preferred="groq")
 
     def _llm_any_key() -> bool:
-        return any(_os.environ.get(v) for v in _PROVIDER_KEYS.values())
+        return bool(_LLM_CHAIN.models)
 
     def _llm_complete(
         system_prompt: str,
@@ -968,20 +961,14 @@ try:
         preferred: str | None = None,
         **_,
     ) -> str | None:
-        # Build model list: preferred provider first, then others, free-tier order.
-        order = ["groq", "gemini", "anthropic"]
-        if preferred and preferred in order:
-            order = [preferred] + [p for p in order if p != preferred]
-        models = [
-            _PROVIDER_FACTORIES[name](max_tokens, temperature)
-            for name in order
-            if _os.environ.get(_PROVIDER_KEYS[name])
-        ]
-        if not models:
+        if not _LLM_CHAIN.models:
             return None
         try:
-            return _ModelChain(models).complete(
-                [{"role": "user", "content": user_prompt}], system=system_prompt
+            return _LLM_CHAIN.complete(
+                [{"role": "user", "content": user_prompt}],
+                system=system_prompt,
+                max_tokens=max_tokens,
+                temperature=temperature,
             ).content
         except Exception:
             return None

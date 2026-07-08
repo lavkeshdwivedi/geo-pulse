@@ -49,33 +49,37 @@ from datetime import datetime, timezone
 
 # Local imports — same script directory
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from kognios import ModelChain
-from kognios.models.groq import GroqModel
-from kognios.models.gemini import GeminiModel
-from kognios.models.anthropic import AnthropicModel
+from kognios.models.chain import free_tier_chain, ModelChain
+
+# Single chain shared across all llm_complete() calls so pacing, cooldowns,
+# and dead-model tracking persist for the lifetime of this process.
+_CHAIN: ModelChain | None = None
 
 
-def _build_chain(max_tokens: int = 400, temperature: float = 0.1) -> ModelChain:
-    models = []
-    if os.environ.get("GROQ_API_KEY"):
-        models.append(GroqModel(model="llama-3.3-70b-versatile", max_tokens=max_tokens, temperature=temperature))
-    if os.environ.get("GEMINI_API_KEY"):
-        models.append(GeminiModel(model="gemini-2.5-flash", max_tokens=max_tokens, temperature=temperature))
-    if os.environ.get("ANTHROPIC_API_KEY"):
-        models.append(AnthropicModel(model="claude-sonnet-4-6", max_tokens=max_tokens, temperature=temperature))
-    return ModelChain(models) if models else None
+def _get_chain() -> ModelChain | None:
+    global _CHAIN
+    if _CHAIN is None:
+        chain = free_tier_chain(preferred="groq")
+        _CHAIN = chain if chain.models else None
+    return _CHAIN
 
 
 def any_key_present() -> bool:
-    return any(os.environ.get(k) for k in ("GROQ_API_KEY", "GEMINI_API_KEY", "ANTHROPIC_API_KEY"))
+    chain = _get_chain()
+    return chain is not None and bool(chain.models)
 
 
 def llm_complete(system_prompt: str, user_prompt: str, max_tokens: int = 400, temperature: float = 0.1, **_) -> str | None:
-    chain = _build_chain(max_tokens=max_tokens, temperature=temperature)
-    if not chain or not chain.models:
+    chain = _get_chain()
+    if not chain:
         return None
     try:
-        return chain.complete([{"role": "user", "content": user_prompt}], system=system_prompt).content
+        return chain.complete(
+            [{"role": "user", "content": user_prompt}],
+            system=system_prompt,
+            max_tokens=max_tokens,
+            temperature=temperature,
+        ).content
     except Exception as exc:
         log.warning("ModelChain failed: %s", exc)
         return None
