@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-11T10:29:55.968408+00:00",
+  "generated_at": "2026-07-11T11:25:31.336132+00:00",
   "article_count": 50,
-  "total_unique_count": 277,
+  "total_unique_count": 279,
   "digest": {
-    "en": "Russia struck Ukraine with missiles and drones, killing at least two and wounding 19. The US and its allies are escalating pressure on Russia and Iran, with new sanctions on Iran's financial networks. Ukraine's efforts to intensify attacks on Russian energy assets are reportedly disrupting Azov traffic.",
-    "hi": "वियतनाम के समंदर में एक नाव पलटने से 15 भारतीयों की मौत हो गई। इस नाव में 32 भारतीय पर्यटक सवार थे। रेस्क्यू ऑपरेशन जारी है और बाकी लोगों की तलाश की जा रही है।"
+    "en": "Russia struck Ukraine with missiles and drones, killing at least two and wounding 19. Ukraine's blockade of Crimea is biting, with no gas, lights, comms, or tourists. The US and Ukraine are advancing on Russia sanctions, with Senators and the Administration agreeing to push a new bill.",
+    "hi": "डीआर कांगो में इबोला के 1,800 से अधिक मरीज मिले हैं और 648 लोगों की मौत हो गई है। एक अमेरिकी नागरिक भी इस संक्रमण की चपेट में आया है। लेबनान में इजरायली बम गिरने की खबर है और तेहरान पर अमेरिकी मिसाइलें तनी हुई हैं।"
   },
   "articles": [
     {
@@ -52,6 +52,18 @@
       "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "Crisis Group's analysts monitor global conflicts and crises. They identify under-reported trends and significant developments. Their insights inform responses to pressing issues. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "No Gas, No Lights, No Comms, No Tourists: Ukraine’s Crimea Blockade Starts To Bite",
+      "url": "https://www.rferl.org/a/no-gas-no-lights-no-comms-no-tourists-ukraine-s-crimea-blockade-starts-to-bite/33801579.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-11T11:11:11+00:00",
+      "image_url": "https://gdb.rferl.org/359c2285-d372-419c-403b-08decacf94d0_cx0_cy13_cw0_w1200_h630.jpg",
+      "summary": "Ukraine's targeted drone strikes have severely impacted Russian-occupied Crimea, disrupting gas, lights, and communications. The blockade is affecting daily life, with Vladimir Putin's 2014 seized territory now facing intolerable conditions. Locals are struggling with the lack of basic necessities. With bridges cut and a drone blitz on shipping, Russian-occupied Crimea is reeling from a relentless Ukrainian campaign of targeted drone strikes.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -224,6 +236,18 @@
       "translations": {}
     },
     {
+      "title": "Plans for New Zealand’s first datacentre spark concern as locals demand greater transparency",
+      "url": "https://www.theguardian.com/world/2026/jul/10/new-zealand-first-datacentre-concern-locals-makarewa-invercargill-datagrid",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-10T00:40:26+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/527d3fa7efa3135efb525f15e0d77b7379fe2335/447_0_932_746/master/932.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=52c282a7ce43b1a596c829f0c3b40233",
+      "summary": "A NZ$3.5bn datacentre planned in Makarewa, New Zealand, has raised concerns among locals regarding electricity and water usage, as well as potential noise pollution. Residents are demanding greater transparency about the project's impact on their community. The datacentre is expected to be the country's first AI-focused facility. Plans to build a NZ$3.5bn datacentre in Makarewa in the country’s south has drawn concern about electricity and water use, and potential noise pollutionPeople living near the site of New Zealand’s first planned AI datacentre are calling for more transparency about the project, especially about how the centre’s huge electricity and water use and potential noise pollution could affect them. Singapore.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Furore in Nigeria over fake federal agency set up in government HQ",
       "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
       "source": "The Guardian",
@@ -232,18 +256,6 @@
       "image_url": "https://i.guim.co.uk/img/media/f80796421f1ba8310e6cf11d9923b0d36fda17d6/584_0_3309_2649/master/3309.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae268e2862a05c9ee9793b4b06d1d407",
       "summary": "Nigeria's President ordered an investigation into a fictitious federal agency allocated 1.3bn naira in the 2026 budget. President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruptionA fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm in Africa’s largest democracy in the run-up to a general election set for January. The fake agency came to light last October when Femi Gbajabiamila, the.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Omsk Residents Describe 'Huge Shock' At Surprise Ukrainian Attack",
-      "url": "https://www.rferl.org/a/omsk-residents-describe-huge-shock-surprise-ukrainian-attack/33800151.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-09T15:22:11+00:00",
-      "image_url": "https://gdb.rferl.org/364aaa1b-e791-4615-ac82-e21276116bee_w1200_h630.jpg",
-      "summary": "Residents of Omsk, a Siberian city 2,250 kilometers east of Moscow, were shocked by a surprise Ukrainian attack. The attack brought the war close to home for Omsk inhabitants who had been watching it from afar for over four years. Many described the experience as a huge shock. For more than four years, the inhabitants of Omsk, a Siberian city more than 2,250 kilometers east of Moscow, have watched the war against Ukraine from afar.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -272,30 +284,6 @@
       "translations": {}
     },
     {
-      "title": "Diplomats go virtual to witness Gaza displacement site up close",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167912",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-09T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-06-2025_UNDP_Gaza_Water_04.jpg/image770x420cropped.jpg",
-      "summary": "Diplomats from 12 countries participated in a \"virtual diplomatic field visit\" to a Gaza displacement site. They heard from residents about their needs. The UN organized the virtual tour to raise awareness. Representatives from 12 countries carried out a “virtual diplomatic field visit” to a displacement site in the Gaza Strip and heard from some of the residents about their pressing needs, the United Nations said on Thursday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167909",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-09T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2015/07/22157/image770x420cropped.jpg",
-      "summary": "The United Nations paused to remember the over 8,000 Bosnian Muslim men and boys killed in Srebrenica in July 1995. The town's women and survivors were left to rebuild their lives. The UN observed a moment of remembrance for the victims of the Srebrenica genocide. The United Nations paused on Thursday to remember the more than 8,000 Bosnian Muslim men and boys killed in the town of Srebrenica in July 1995, and the women and survivors left to rebuild their lives in the aftermath.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167906",
       "source": "UN News",
@@ -308,92 +296,122 @@
       "translations": {}
     },
     {
-      "title": "32 भारतीयों से भरी नाव वियतनाम के समंदर में पलटी, 15 की मौत",
-      "url": "https://hindi.news18.com/world/south-asia-boat-capsizes-in-vietnam-32-indian-tourists-missing-near-phu-quoc-search-operations-underway-emergency-helplines-set-up-local18-10648379.html",
-      "source": "News18 Hindi (World)",
+      "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167905",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-07-11T10:26:29+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Vietnam-Boat-Accident-1-2026-07-4a34ef26e67bed63347fba664c6d2047-1200x800.jpg",
-      "summary": "वियतनाम के फु क्वोक द्वीप के पास 32 भारतीय पर्यटकों से भरी एक नाव पलट गई, जिसमें 15 लोगों की मौत हो गई. स्थानीय प्रशासन द्वारा लापता लोगों को बचाने के लिए सर्च एंड रेस्क्यू ऑपरेशन चलाया जा रहा है. भारतीय दूतावास ने प्रभावित परिवारों की मदद के लिए हेल्पलाइन नंबर जारी किए. Vietnam Boat Accident Death Toll: वियतनाम के फु क्वोक द्वीप के पास 32 भारतीय पर्यटकों से भरी एक नाव दोपहर करीब एक बजे समंदर में पलट गई.",
+      "published_at": "2026-07-09T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-04-2026-NASA-Hormuz.jpg/image770x420cropped.jpg",
+      "summary": "Renewed hostilities between the US and Iran have brought shipping in the Strait of Hormuz to a near-standstill, stranding around 6,000 seafarers on hundreds of vessels. Gulf countries are on high alert for further attacks, with the situation affecting global shipping operations. Renewed hostilities between the United States and Iran reportedly brought shipping to a near-standstill in the Strait of Hormuz on Thursday, leaving around 6,000 seafarers stranded aboard hundreds of vessels and Gulf countries on high alert for further attacks.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "डीआर कांगो में इबोला के 1,800 से अधिक मरीज मिले, 648 की मौत, एक अमेरिकी नागरिक को संक्रमण",
+      "url": "https://www.patrika.com/world-news/dr-congo-ebola-positive-case-exceed-1800-648-deaths-infection-confirmed-us-citizen-20739500",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-11T11:12:22+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/DR-Congo-Ebola-Positive-Case-Exceed.jpg",
+      "summary": "डेमोक्रेटिक रिपब्लिक ऑफ कांगो में इबोला के 1,830 मामले सामने आए हैं, जिनमें 648 मौतें शामिल हैं। यह प्रकोप पूर्वी प्रांतों इटुरी, उत्तरी किवू और दक्षिणी किवू में केंद्रित है। एक अमेरिकी नागरिक भी इबोला से संक्रमित पाया गया है। DR Congo Ebola Positive Case Exceed: अफ्रीकी देश डेमोक्रेटिक रिपब्लिक ऑफ कांगो में खतरनाक इबोला बीमारी के प्रकोप के 1,800 से अधिक मामले सामने आए हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डीआर कांगो में इबोला के 1,800 से अधिक मरीज मिले, 648 की मौत, एक अमेरिकी नागरिक को संक्रमण",
+          "summary": "डेमोक्रेटिक रिपब्लिक ऑफ कांगो में इबोला के 1,830 मामले सामने आए हैं, जिनमें 648 मौतें शामिल हैं। यह प्रकोप पूर्वी प्रांतों इटुरी, उत्तरी किवू और दक्षिणी किवू में केंद्रित है। एक अमेरिकी नागरिक भी इबोला से संक्रमित पाया गया है। DR Congo Ebola Positive Case Exceed: अफ्रीकी देश डेमोक्रेटिक रिपब्लिक ऑफ कांगो में खतरनाक इबोला बीमारी के प्रकोप के 1,800 से अधिक मामले सामने आए हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "32 भारतीय पर्यटकों को ले जा रही नाव पलटी, 15 की मौत, कई लापता",
+      "url": "https://www.patrika.com/world-news/boat-carrying-several-indian-tourists-capsizes-vietnam-phu-quoc-island-rescue-operations-20739357",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-11T11:02:53+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Vietnam-Boat-Accident0.webp",
+      "summary": "वियतनाम के फू क्वॉक द्वीप के पास एक स्पीडबोट पलट जाने से 15 भारतीय पर्यटकों की मौत हो गई। इस नाव में 32 भारतीय यात्री और 4 चालक दल के सदस्य सवार थे। बचाव अभियान जारी है और अधिकारी दुर्घटना के कारणों का पता लगा रहे हैं। Vietnam Boat Accident: वियतनाम के लोकप्रिय टूरिस्ट स्पॉट फू क्वॉक द्वीप के पास शनिवार को एक बड़ा हादसा हो गया।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "32 भारतीयों से भरी नाव वियतनाम के समंदर में पलटी, 15 की मौत",
-          "summary": "वियतनाम के फु क्वोक द्वीप के पास 32 भारतीय पर्यटकों से भरी एक नाव पलट गई, जिसमें 15 लोगों की मौत हो गई. स्थानीय प्रशासन द्वारा लापता लोगों को बचाने के लिए सर्च एंड रेस्क्यू ऑपरेशन चलाया जा रहा है. भारतीय दूतावास ने प्रभावित परिवारों की मदद के लिए हेल्पलाइन नंबर जारी किए. Vietnam Boat Accident Death Toll: वियतनाम के फु क्वोक द्वीप के पास 32 भारतीय पर्यटकों से भरी एक नाव दोपहर करीब एक बजे समंदर में पलट गई.",
+          "title": "32 भारतीय पर्यटकों को ले जा रही नाव पलटी, 15 की मौत, कई लापता",
+          "summary": "वियतनाम के फू क्वॉक द्वीप के पास एक स्पीडबोट पलट जाने से 15 भारतीय पर्यटकों की मौत हो गई। इस नाव में 32 भारतीय यात्री और 4 चालक दल के सदस्य सवार थे। बचाव अभियान जारी है और अधिकारी दुर्घटना के कारणों का पता लगा रहे हैं। Vietnam Boat Accident: वियतनाम के लोकप्रिय टूरिस्ट स्पॉट फू क्वॉक द्वीप के पास शनिवार को एक बड़ा हादसा हो गया।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "वियतनाम में 32 भारतीय पर्यटकों से भरी स्पीडबोट समुद्र में पलटी, रेस्क्यू ऑपरेशन जारी",
+      "title": "खून का बदला खून से लेगा ईरान! आयतुल्लाह अली खामेनेई के जनाजे में छिपा था इसका राज",
+      "url": "https://www.patrika.com/world-news/iran-blood-revenge-red-coffin-red-flag-khamenei-funeral-trump-1000-missiles-ready-assassination-threat-20739403",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-11T10:23:34+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Ayatollah-Ali-Khamenei-Funeral-1.webp",
+      "summary": "ईरान के पूर्व सर्वोच्च नेता आयतुल्लाह अली खामेनेई के जनाजे ने ईरान और इराक को एक कर दिया। लाखों लोगों ने उनके जनाजे में भाग लिया और उनका ताबूत लाल रंग से ढका हुआ था। आसपास लाल झंडे भी लहराते दिखाई दिए। जो कभी एक दूसरे के दुश्मन थे। खून के प्यासे थे। लेकिन ईरान के पूर्व सर्वोच्च नेता आयतुल्लाह अली खामेनेई के जनाजे ने दोनों को एक कर दिया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खून का बदला खून से लेगा ईरान! आयतुल्लाह अली खामेनेई के जनाजे में छिपा था इसका राज",
+          "summary": "ईरान के पूर्व सर्वोच्च नेता आयतुल्लाह अली खामेनेई के जनाजे ने ईरान और इराक को एक कर दिया। लाखों लोगों ने उनके जनाजे में भाग लिया और उनका ताबूत लाल रंग से ढका हुआ था। आसपास लाल झंडे भी लहराते दिखाई दिए। जो कभी एक दूसरे के दुश्मन थे। खून के प्यासे थे। लेकिन ईरान के पूर्व सर्वोच्च नेता आयतुल्लाह अली खामेनेई के जनाजे ने दोनों को एक कर दिया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "वियतनाम के समुद्र में पलटी नांव का कैसे किया गया रेस्क्यू, देखें वीडियो",
       "url": "https://hindi.news18.com/videos/world/speedboat-carrying-32-indian-tourists-capsized-at-sea-in-vietnam-rescue-operations-are-underway-sjn-10648515.html",
       "source": "News18 Hindi (World)",
       "sources": [],
       "published_at": "2026-07-11T10:22:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/1783765400_UFHtWiy6G4-thumbnail-169png-nX8yyHyQ90-1200x720.png",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/1783768444_UFHtWiy6G4-thumbnail-169png-nX8yyHyQ90-1200x720.png",
       "summary": "वियतनाम में 32 भारतीय पर्यटकों से भरी एक स्पीडबोट समुद्र में पलट गई, जिसमें कई लोगों की जान जाने की आशंका है. भारतीय दूतावास ने पर्यटकों की मदद के लिए तुरंत कार्रवाई की और प्रभावित परिवारों को सहायता प्रदान करने के लिए हेल्पलाइन नंबर जारी किए. वियतनाम में भारतीय पर्यटकों से भरी एक स्पीडबोट अचानक समंदर में पलट गई है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वियतनाम में 32 भारतीय पर्यटकों से भरी स्पीडबोट समुद्र में पलटी, रेस्क्यू ऑपरेशन जारी",
+          "title": "वियतनाम के समुद्र में पलटी नांव का कैसे किया गया रेस्क्यू, देखें वीडियो",
           "summary": "वियतनाम में 32 भारतीय पर्यटकों से भरी एक स्पीडबोट समुद्र में पलट गई, जिसमें कई लोगों की जान जाने की आशंका है. भारतीय दूतावास ने पर्यटकों की मदद के लिए तुरंत कार्रवाई की और प्रभावित परिवारों को सहायता प्रदान करने के लिए हेल्पलाइन नंबर जारी किए. वियतनाम में भारतीय पर्यटकों से भरी एक स्पीडबोट अचानक समंदर में पलट गई है.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "भारत-न्यूजीलैंड ने सन 2030 तक का रोडमैप बनाया, जानिए मोदी और लक्सन FTA कैसे लागू करेंगे",
-      "url": "https://www.patrika.com/world-news/india-new-zealand-roadmap-2030-pm-modi-new-zealand-pm-luxon-will-implement-fta-20739273",
+      "title": "PM Modi प्रेस कांफ्रेंस क्यों नहीं करते? पत्रकार के सवाल पर इंडियन डिप्‍लोमेट ने दिया ये जवाब",
+      "url": "https://hindi.news18.com/news/nation/why-pm-narendra-modi-not-hold-press-conference-new-zealand-journalist-indian-diplomat-rudrendra-tandon-smart-response-10648022.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-11T08:24:23+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Rudrendra-Tandon-2026-07-ceeab548a42fc685554d48b4ff495fb6-1200x800.jpg",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी न्‍यूजीलैंड पहुंचे हैं, जहां उन्होंने कई अहम समझौतों पर हस्ताक्षर किए। इससे पहले पीएम मोदी इंडोनेशिया और ऑस्‍ट्रेलिया भी गए थे। न्‍यूजीलैंड के साथ भी महत्वपूर्ण समझौते हुए हैं। PM Modi in New Zealand: प्रधानमंत्री नरेंद्र मोदी तीन देशों की यात्रा के तहत न्‍यूजीलैंड पहुंचे हैं. इन दोनों देशों में कई समझौतों को लेकर MoU साइन किए गए हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PM Modi प्रेस कांफ्रेंस क्यों नहीं करते? पत्रकार के सवाल पर इंडियन डिप्‍लोमेट ने दिया ये जवाब",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी न्‍यूजीलैंड पहुंचे हैं, जहां उन्होंने कई अहम समझौतों पर हस्ताक्षर किए। इससे पहले पीएम मोदी इंडोनेशिया और ऑस्‍ट्रेलिया भी गए थे। न्‍यूजीलैंड के साथ भी महत्वपूर्ण समझौते हुए हैं। PM Modi in New Zealand: प्रधानमंत्री नरेंद्र मोदी तीन देशों की यात्रा के तहत न्‍यूजीलैंड पहुंचे हैं. इन दोनों देशों में कई समझौतों को लेकर MoU साइन किए गए हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका ने रूस पर प्रतिबंध की मुहिम फिर शुरू की, क्या भारत पर 500% टैरिफ का नया खतरा मंडरा रहा",
+      "url": "https://www.patrika.com/world-news/india-may-face-us-sanctions-over-russian-oil-new-threat-percent-tariff-trump-us-iran-war-20738890",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-11T10:00:47+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/PM-Modi-with-New-Zealand-PM-Christopher-Luxon-1.webp",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने फ्री ट्रेड एग्रीमेंट को तेजी से लागू करने का लक्ष्य रखा है. दोनों देशों के रिश्तों को स्ट्रैटेजिक पार्टनरशिप के स्तर तक बढ़ाने और 2030 तक आपसी व्यापार को दुगुना करने का लक्ष्य रखा है. PM Modi New Zealand PM Luxon Will Implement FTA: प्रधानमंत्री नरेंद्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने ‘फ्री ट्रेड एग्रीमेंट’ को तेजी से लागू करने का टारगेट रखा है और दोनों देशों के रिश्तों को ‘स्ट्रैटेजिक पार्टनरशिप’ के स्तर तक बढ़ा कर 2030 के लिए एक रोडमैप बनाया है।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-07-11T08:04:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Putin-Modi-and-Trump.webp",
+      "summary": "अमेरिका ने रूस पर प्रतिबंध लगाने वाला कानून आगे बढ़ाया है, जो उन देशों पर लागू होगा जो रूस से तेल और गैस खरीदना जारी रखे हुए हैं। इससे भारत पर 500 प्रतिशत नया टैरिफ लगने का खतरा मंडरा रहा है। चार अमेरिकी सीनेटरों ने इस कानून का समर्थन किया है। India May Face Us Sanctions Over Russian Oil: अमेरिका और ईरान के बीच फिर से शुरू हुई जंग के बीच चार अमेरिकी सीनेटरों रिपब्लिकन लिंडसे ग्राहम, रोजर विकर, डेमोक्रेट रिचर्ड ब्लुमेंथल और जीन शाहीन ने ने ट्रंप प्रशासन के साथ एक समझौते का ऐलान किया है, जिसके तहत उन देशों पर प्रतिबंध लगाने वाला कानून आगे बढ़ाया जाएगा जो रूस से तेल और गैस खरीदना जारी रखे हुए हैं।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत-न्यूजीलैंड ने सन 2030 तक का रोडमैप बनाया, जानिए मोदी और लक्सन FTA कैसे लागू करेंगे",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने फ्री ट्रेड एग्रीमेंट को तेजी से लागू करने का लक्ष्य रखा है. दोनों देशों के रिश्तों को स्ट्रैटेजिक पार्टनरशिप के स्तर तक बढ़ाने और 2030 तक आपसी व्यापार को दुगुना करने का लक्ष्य रखा है. PM Modi New Zealand PM Luxon Will Implement FTA: प्रधानमंत्री नरेंद्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने ‘फ्री ट्रेड एग्रीमेंट’ को तेजी से लागू करने का टारगेट रखा है और दोनों देशों के रिश्तों को ‘स्ट्रैटेजिक पार्टनरशिप’ के स्तर तक बढ़ा कर 2030 के लिए एक रोडमैप बनाया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'ये मफलर आज भी मेरे पास...' न्यूजीलैंड में भारतीय समुदाय के बीच पीएम मोदी ने याद किया वह पल",
-      "url": "https://hindi.news18.com/world/rest-of-world-waka-ready-to-embark-on-a-new-voyage-india-learned-a-lot-from-new-zealand-pm-modi-highlights-his-visit-achievements-10648195.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-11T09:27:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/PM-Modi-New-Zealand-2026-07-92920923ee1a3b3189556bef4c0ce19e-1200x800.jpg",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी ने ऑकलैंड में 'किआ ओरा मोदी' कार्यक्रम में भारतीय समुदाय को संबोधित किया. उन्होंने दोनों देशों के रिश्तों को नई ऊंचाई देने का भरोसा जताया और भारत की आर्थिक, डिजिटल और तकनीकी उपलब्धियां गिनाईं. PM Modi in New Zealand: प्रधानमंत्री नरेंद्र मोदी ने ऑकलैंड में आयोजित 'किआ ओरा मोदी' कार्यक्रम में भारतीय समुदाय को संबोधित करते हुए दोनों देशों के रिश्तों को नई ऊंचाई देने का भरोसा जताया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ये मफलर आज भी मेरे पास...' न्यूजीलैंड में भारतीय समुदाय के बीच पीएम मोदी ने याद किया वह पल",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी ने ऑकलैंड में 'किआ ओरा मोदी' कार्यक्रम में भारतीय समुदाय को संबोधित किया. उन्होंने दोनों देशों के रिश्तों को नई ऊंचाई देने का भरोसा जताया और भारत की आर्थिक, डिजिटल और तकनीकी उपलब्धियां गिनाईं. PM Modi in New Zealand: प्रधानमंत्री नरेंद्र मोदी ने ऑकलैंड में आयोजित 'किआ ओरा मोदी' कार्यक्रम में भारतीय समुदाय को संबोधित करते हुए दोनों देशों के रिश्तों को नई ऊंचाई देने का भरोसा जताया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "शेख हसीना के बांग्लादेश लौटने के ऐलान से मची खलबली, विरोधियों ने कहा- वापस आओ, फांसी का फंदा तैयार",
-      "url": "https://hindi.news18.com/world/south-asia-sheikh-hasina-return-bangladesh-death-sentence-nahid-islam-warning-10648025.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-11T08:16:11+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/sheikh-hasina-11-2026-07-021aec7661177c1f10fbf9e4d2f2146e-1200x800.jpg",
-      "summary": "बांग्लादेश की पूर्व पीएम शेख हसीना ने ऐलान किया है कि वह दिसंबर 2026 में अपने देश वापस लौटेंगी. उनके इस ऐलान के बाद से ही बांग्लादेश में हड़कंप मच गया है और विरोधियों ने कहा है कि वह वापस आओ और फांसी का फंदा तैयार है. छात्रों के उग्र प्रदर्शन के कारण बांग्लादेश की पूर्व पीएम शेख हसीना को भागकर भारत आना पड़ा था.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शेख हसीना के बांग्लादेश लौटने के ऐलान से मची खलबली, विरोधियों ने कहा- वापस आओ, फांसी का फंदा तैयार",
-          "summary": "बांग्लादेश की पूर्व पीएम शेख हसीना ने ऐलान किया है कि वह दिसंबर 2026 में अपने देश वापस लौटेंगी. उनके इस ऐलान के बाद से ही बांग्लादेश में हड़कंप मच गया है और विरोधियों ने कहा है कि वह वापस आओ और फांसी का फंदा तैयार है. छात्रों के उग्र प्रदर्शन के कारण बांग्लादेश की पूर्व पीएम शेख हसीना को भागकर भारत आना पड़ा था.",
-          "region": "एशिया-प्रशांत"
+          "title": "अमेरिका ने रूस पर प्रतिबंध की मुहिम फिर शुरू की, क्या भारत पर 500% टैरिफ का नया खतरा मंडरा रहा",
+          "summary": "अमेरिका ने रूस पर प्रतिबंध लगाने वाला कानून आगे बढ़ाया है, जो उन देशों पर लागू होगा जो रूस से तेल और गैस खरीदना जारी रखे हुए हैं। इससे भारत पर 500 प्रतिशत नया टैरिफ लगने का खतरा मंडरा रहा है। चार अमेरिकी सीनेटरों ने इस कानून का समर्थन किया है। India May Face Us Sanctions Over Russian Oil: अमेरिका और ईरान के बीच फिर से शुरू हुई जंग के बीच चार अमेरिकी सीनेटरों रिपब्लिकन लिंडसे ग्राहम, रोजर विकर, डेमोक्रेट रिचर्ड ब्लुमेंथल और जीन शाहीन ने ने ट्रंप प्रशासन के साथ एक समझौते का ऐलान किया है, जिसके तहत उन देशों पर प्रतिबंध लगाने वाला कानून आगे बढ़ाया जाएगा जो रूस से तेल और गैस खरीदना जारी रखे हुए हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -434,24 +452,6 @@
       }
     },
     {
-      "title": "'1000 मिसाइलें ईरान पर लॉक', ट्रंप की धमकी- मुझे हाथ लगाया तो 1 साल तक होगा हमला",
-      "url": "https://hindi.news18.com/world/middle-east-donald-trump-iran-assassination-warning-bomb-order-if-killed-is-it-leagal-explained-10647113.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-11T05:04:22+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/donald-trump-101-2026-07-354a287c10befddf9dcd3e7905273571-1200x800.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि अगर ईरान उनकी हत्या करने में सफल होता है तो अमेरिका ईरान पर ऐसा हमला करेगा. उन्होंने कहा कि यह हमला दुनिया ने पहले कभी नहीं देखा होगा और यह एक साल तक चलेगा. Donald Trump Iran News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि अगर ईरान उनकी हत्या करने में सफल होता है तो उन्होंने पहले ही एक आदेश दे रखा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'1000 मिसाइलें ईरान पर लॉक', ट्रंप की धमकी- मुझे हाथ लगाया तो 1 साल तक होगा हमला",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि अगर ईरान उनकी हत्या करने में सफल होता है तो अमेरिका ईरान पर ऐसा हमला करेगा. उन्होंने कहा कि यह हमला दुनिया ने पहले कभी नहीं देखा होगा और यह एक साल तक चलेगा. Donald Trump Iran News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि अगर ईरान उनकी हत्या करने में सफल होता है तो उन्होंने पहले ही एक आदेश दे रखा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "इंडो-पैसिफिक में चीन की चुनौती के बीच भारत-न्यूजीलैंड की रणनीतिक साझेदारी, 18 समझौतों पर सहमति",
       "url": "https://www.patrika.com/world-news/india-new-zealand-strengthen-strategic-partnership-agree-on-18-key-deals-20738298",
       "source": "Patrika (World)",
@@ -470,24 +470,6 @@
       }
     },
     {
-      "title": "उड़ान के बीच खिड़की उखड़ने से हवा में खिंचा यात्री; फिर कैसे बची शख्स की जान?",
-      "url": "https://www.amarujala.com/world/malta-air-flight-window-detached-mid-flight-passenger-partially-pulled-outwards-fellow-passengers-saved-life-2026-07-11",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-11T03:21:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/flight-mishap_70aefe54bd4b3aff2a56f9449f7acd24.jpeg?w=1200&dpr=1.0",
-      "summary": "माल्टा एयर की एक उड़ान के दौरान खिड़की उखड़ने से एक यात्री हवा में खिंच गया, लेकिन साथी यात्रियों ने उसकी जान बचा ली. घटना के बाद यात्री की स्थिति की जांच की जा रही है और मामले की जांच के आदेश दिए गए हैं. आसमान में मौत से मुकाबला: उड़ान के बीच खिड़की उखड़ने से हवा में खिंचा यात्री; फिर कैसे बचाई शख्स की जान?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उड़ान के बीच खिड़की उखड़ने से हवा में खिंचा यात्री; फिर कैसे बची शख्स की जान?",
-          "summary": "माल्टा एयर की एक उड़ान के दौरान खिड़की उखड़ने से एक यात्री हवा में खिंच गया, लेकिन साथी यात्रियों ने उसकी जान बचा ली. घटना के बाद यात्री की स्थिति की जांच की जा रही है और मामले की जांच के आदेश दिए गए हैं. आसमान में मौत से मुकाबला: उड़ान के बीच खिड़की उखड़ने से हवा में खिंचा यात्री; फिर कैसे बचाई शख्स की जान?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "भारत-न्यूजीलैंड के बीच हुए 18 समझौते, UNSC में नया सपोर्ट, जानें पीएम मोदी की ऑकलैंड यात्रा से",
       "url": "https://hindi.news18.com/news/nation/pm-modi-new-zealand-visit-major-outcome-18-agreements-signed-ranging-from-defense-to-trade-india-gains-new-support-for-unsc-10647244.html",
       "source": "News18 Hindi (World)",
@@ -501,6 +483,24 @@
         "hi": {
           "title": "भारत-न्यूजीलैंड के बीच हुए 18 समझौते, UNSC में नया सपोर्ट, जानें पीएम मोदी की ऑकलैंड यात्रा से",
           "summary": "प्रधानमंत्री नरेंद्र मोदी की ऑकलैंड यात्रा के दौरान भारत और न्यूजीलैंड ने 18 समझौतों पर हस्ताक्षर किए. दोनों देशों ने अपने संबंधों को 'सामरिक साझेदारी' का दर्जा दिया और 'रोडमैप 2030' को मंजूरी दी. समझौतों में रक्षा, व्यापार और आतंकवाद विरोधी सहयोग शामिल हैं. India New Zealand Deal: भारत और न्यूजीलैंड के रिश्तों में ऐतिहासिक बदलाव आया है. प्रधानमंत्री नरेंद्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन की वार्ता के बाद दोनों देशों ने अपने संबंधों को 'सामरिक साझेदारी' का दर्जा देते हुए 'रोडमैप 2030' को मंजूरी दी.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘भारत-न्यूजीलैंड FTA ऐतिहासिक मील का पत्थर’, पीएम मोदी ने क्रिस्टोफर लक्सन को दिया श्रेय",
+      "url": "https://www.patrika.com/world-news/pm-modi-hails-india-new-zealand-fta-as-historic-milestone-20738110",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-11T03:06:31+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/PM-modi-and-Christopher-Luxon-.webp",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने ऑकलैंड में भारत-न्यूजीलैंड मुक्त व्यापार समझौते को ऐतिहासिक मील का पत्थर बताया। उन्होंने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन और उनकी सरकार का आभार जताया। यह समझौता दोनों देशों के संबंधों को मजबूत करेगा। PM Modi New Zealand tour: प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया और ऑस्ट्रेलिया की यात्रा के बाद अब न्यूजीलैंड के दौरे पर हैं। शनिवार को ऑकलैंड में उन्होंने भारत-न्यूजीलैंड मुक्त व्यापार समझौते (FTA) को दोनों देशों के संबंधों में एक ऐतिहासिक मील का पत्थर बताया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘भारत-न्यूजीलैंड FTA ऐतिहासिक मील का पत्थर’, पीएम मोदी ने क्रिस्टोफर लक्सन को दिया श्रेय",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने ऑकलैंड में भारत-न्यूजीलैंड मुक्त व्यापार समझौते को ऐतिहासिक मील का पत्थर बताया। उन्होंने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन और उनकी सरकार का आभार जताया। यह समझौता दोनों देशों के संबंधों को मजबूत करेगा। PM Modi New Zealand tour: प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया और ऑस्ट्रेलिया की यात्रा के बाद अब न्यूजीलैंड के दौरे पर हैं। शनिवार को ऑकलैंड में उन्होंने भारत-न्यूजीलैंड मुक्त व्यापार समझौते (FTA) को दोनों देशों के संबंधों में एक ऐतिहासिक मील का पत्थर बताया।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -524,42 +524,6 @@
       }
     },
     {
-      "title": "भारत-न्यूजीलैंड के बीच क्या-क्या समझौते हुए? जानिए क्या होगा फायदा",
-      "url": "https://www.amarujala.com/world/pm-modi-in-new-zealand-agreements-between-two-countries-fta-strategic-partnership-2026-07-11",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-11T02:45:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/pm-modi-new-zealand-visit_4ed2966ec8466574c87eba45d7a92eb1.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत और न्यूजीलैंड के बीच कई समझौते हुए हैं जिनसे दोनों देशों को फायदा होगा। प्रधानमंत्री मोदी की न्यूजीलैंड यात्रा ने दोनों देशों के रिश्तों को रणनीतिक साझेदारी में बदल दिया है। द्विपक्षीय व्यापार और विदेशी निवेश पर समझौते हुए हैं। PM Modi in New Zealand: भारत-न्यूजीलैंड के बीच क्या-क्या समझौते हुए? जानिए क्या होगा फायदा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत-न्यूजीलैंड के बीच क्या-क्या समझौते हुए? जानिए क्या होगा फायदा",
-          "summary": "भारत और न्यूजीलैंड के बीच कई समझौते हुए हैं जिनसे दोनों देशों को फायदा होगा। प्रधानमंत्री मोदी की न्यूजीलैंड यात्रा ने दोनों देशों के रिश्तों को रणनीतिक साझेदारी में बदल दिया है। द्विपक्षीय व्यापार और विदेशी निवेश पर समझौते हुए हैं। PM Modi in New Zealand: भारत-न्यूजीलैंड के बीच क्या-क्या समझौते हुए? जानिए क्या होगा फायदा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप ने ईरान को दे दिया अल्टीमेटम, कहा- अगर 24 घंटे में बात नहीं मानी तो अंजाम बुरा होगा",
-      "url": "https://www.patrika.com/world-news/donald-trump-has-issued-a-24-hour-ultimatum-to-iran-regarding-the-opening-of-the-strait-of-hormuz-20738099",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-11T02:42:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/donald-trump-makes-big-claim.webp",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को एक अल्टीमेटम दिया है. उन्होंने कहा कि अगर ईरान 24 घंटे में उनकी शर्तें नहीं मानता है, तो उसके लिए यह बहुत बुरा साबित होगा. अमेरिकी अधिकारियों ने कहा कि राष्ट्रपति ट्रंप यही चाहते हैं कि जिस रास्ते से दुनिया का 25 फीसदी कच्चा तेल गुजरता है. US Iran Peace Deal: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को एकबार फिर धमकी दी है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप ने ईरान को दे दिया अल्टीमेटम, कहा- अगर 24 घंटे में बात नहीं मानी तो अंजाम बुरा होगा",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को एक अल्टीमेटम दिया है. उन्होंने कहा कि अगर ईरान 24 घंटे में उनकी शर्तें नहीं मानता है, तो उसके लिए यह बहुत बुरा साबित होगा. अमेरिकी अधिकारियों ने कहा कि राष्ट्रपति ट्रंप यही चाहते हैं कि जिस रास्ते से दुनिया का 25 फीसदी कच्चा तेल गुजरता है. US Iran Peace Deal: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को एकबार फिर धमकी दी है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "रूस से तेल खरीदना अब पड़ेगा महंगा? अमेरिकी सीनेट ने उठाया नया कदम, ट्रंप सरकार के निशाने पर भारत",
       "url": "https://hindi.news18.com/news/nation/russian-oil-import-will-become-costlier-as-us-senate-sanction-bill-may-impact-india-10647066.html",
       "source": "News18 Hindi (World)",
@@ -578,74 +542,92 @@
       }
     },
     {
-      "title": "वियतनाम में भारतीय सैलानियों की नाव पलटी, 14 लोगों की मौत, VIDEO",
-      "url": "https://www.amarujala.com/world/a-tourist-boat-carrying-several-indian-nationals-capsized-near-phu-quoc-island-vietnam-2026-07-11",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-10T22:28:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/vayatanama-ma-naka-tharaghatana_6742c5c14f3f9aec156e9eec816f58e6.gif?w=1200&dpr=1.0",
-      "summary": "वियतनाम में भारतीय सैलानियों की नाव पलटने से 14 लोगों की मौत हो गई। यह घटना फू क्वोक द्वीप के पास हुई थी। नाव में कई भारतीय नागरिक सवार थे। वियतनाम में भारतीय सैलानियों की नाव पलटी, 14 लोगों की मौत, VIDEO।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वियतनाम में भारतीय सैलानियों की नाव पलटी, 14 लोगों की मौत, VIDEO",
-          "summary": "वियतनाम में भारतीय सैलानियों की नाव पलटने से 14 लोगों की मौत हो गई। यह घटना फू क्वोक द्वीप के पास हुई थी। नाव में कई भारतीय नागरिक सवार थे। वियतनाम में भारतीय सैलानियों की नाव पलटी, 14 लोगों की मौत, VIDEO।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मानसून में घर से आती है सीलन की बदबू? अपनाएं ये 5 आसान उपाय",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/home-damp-smell-remedies-in-monsoon-mein-seelan-ki-badbu-kaise-hataye-2026-07-11",
+      "title": "नगालैंड में RPP का NPF में विलय, CM रियो ने नागा एकता और जल्द राजनीतिक समाधान पर दिया जोर",
+      "url": "https://www.amarujala.com/india-news/rpp-merges-with-npf-nagaland-cm-stresses-naga-unity-early-political-solution-2026-07-11",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-10T22:19:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/seelan-ki-badbu-kaise-door-karen_6ca1320e6b7253cbcfae03f773511f55.jpeg?w=1200&dpr=1.0",
-      "summary": "मानसून में घर से सीलन की बदबू से छुटकारा पाने के लिए कई आसान उपाय हैं। घर की नमी कम करने और फफूंदी रोकने के तरीके अपनाए जा सकते हैं। ये उपाय घर को फ्रेश रखने में मदद करते हैं। Rainy Season Home Care Tips: मानसून में घर की सीलन और बदबू से छुटकारा पाने के लिए अपनाएं 5 आसान और असरदार टिप्स।",
+      "published_at": "2026-07-10T23:23:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/rpp-merges-with-npf-nagaland-cm-stresses-naga-unity-early-political-solution_ec89ee529041afa9988f76f72a6958f5.jpeg?w=1200&dpr=1.0",
+      "summary": "नगालैंड में RPP ने NPF में विलय कर लिया। मुख्यमंत्री रियो ने नागा एकता और जल्द राजनीतिक समाधान पर जोर दिया। उन्होंने कहा कि यह विलय नागा एकता की दिशा में एक महत्वपूर्ण कदम है। नगालैंड में RPP का NPF में विलय, CM रियो ने नागा एकता और जल्द राजनीतिक समाधान पर दिया जोर।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मानसून में घर से आती है सीलन की बदबू? अपनाएं ये 5 आसान उपाय",
-          "summary": "मानसून में घर से सीलन की बदबू से छुटकारा पाने के लिए कई आसान उपाय हैं। घर की नमी कम करने और फफूंदी रोकने के तरीके अपनाए जा सकते हैं। ये उपाय घर को फ्रेश रखने में मदद करते हैं। Rainy Season Home Care Tips: मानसून में घर की सीलन और बदबू से छुटकारा पाने के लिए अपनाएं 5 आसान और असरदार टिप्स।",
+          "title": "नगालैंड में RPP का NPF में विलय, CM रियो ने नागा एकता और जल्द राजनीतिक समाधान पर दिया जोर",
+          "summary": "नगालैंड में RPP ने NPF में विलय कर लिया। मुख्यमंत्री रियो ने नागा एकता और जल्द राजनीतिक समाधान पर जोर दिया। उन्होंने कहा कि यह विलय नागा एकता की दिशा में एक महत्वपूर्ण कदम है। नगालैंड में RPP का NPF में विलय, CM रियो ने नागा एकता और जल्द राजनीतिक समाधान पर दिया जोर।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "40 साल बाद खुले नए सहयोग के द्वार, जानिए पीएम मोदी की न्यूजीलैंड यात्रा से जुड़ी 10 बड़ी बातें",
-      "url": "https://www.amarujala.com/business/business-diary/pm-modi-s-historic-new-zealand-visit-elevates-ties-with-10-major-business-and-trade-takeaways-2026-07-11",
+      "title": "सलमान खान ने बेचा मुंबई के बांद्रा वेस्ट का अपना अपार्टमेंट, करोड़ रुपये की हुई डील",
+      "url": "https://www.amarujala.com/entertainment/bollywood/salman-khan-sells-his-apartment-in-bandra-west-mumbai-in-3-crore-50-lakh-2026-07-11",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-10T22:04:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/india-new-zealand-bta_4ed2cba4a3db19047f1421e5d31db2d5.jpeg?w=1200&dpr=1.0",
-      "summary": "प्रधानमंत्री मोदी की न्यूजीलैंड यात्रा ने दोनों देशों के रिश्तों को रणनीतिक साझेदारी में बदल दिया है। इस यात्रा से द्विपक्षीय व्यापार और विदेशी निवेश पर समझौते हुए हैं। रोडमैप 2030 के तहत कई बड़े समझौते हुए हैं। प्रधानमंत्री नरेंद्र मोदी की ऐतिहासिक न्यूजीलैंड यात्रा ने दोनों देशों के रिश्तों को 'रणनीतिक साझेदारी' में बदला। जानिए 'रोडमैप 2030' के तहत द्विपक्षीय व्यापार, भारी-भरकम विदेशी निवेश और समझौतों से जुड़ी ये 10 सबसे बड़ी बातें।",
+      "published_at": "2026-07-10T23:20:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/01/salmana-khana_463275d3165975ef257f30e24d49da71.jpeg?w=1200&dpr=1.0",
+      "summary": "सलमान खान ने मुंबई के बांद्रा वेस्ट में अपना अपार्टमेंट बेच दिया। इस डील की राशि करोड़ों रुपये में है। अभिनेता की आगामी फिल्म 'मातृभूमि' जल्द ही रिलीज होगी। जल्द ही सलमान खान की आगामी फिल्म 'मातृभूमि' रिलीज होगी। इसी बीच अभिनेता ने अपना मुंबई में एक अपार्टमेंट बेच दिया है। जानिए, कितने करोड़ में अपना अपार्टमेंट सलमान खान ने बेचा?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "40 साल बाद खुले नए सहयोग के द्वार, जानिए पीएम मोदी की न्यूजीलैंड यात्रा से जुड़ी 10 बड़ी बातें",
-          "summary": "प्रधानमंत्री मोदी की न्यूजीलैंड यात्रा ने दोनों देशों के रिश्तों को रणनीतिक साझेदारी में बदल दिया है। इस यात्रा से द्विपक्षीय व्यापार और विदेशी निवेश पर समझौते हुए हैं। रोडमैप 2030 के तहत कई बड़े समझौते हुए हैं। प्रधानमंत्री नरेंद्र मोदी की ऐतिहासिक न्यूजीलैंड यात्रा ने दोनों देशों के रिश्तों को 'रणनीतिक साझेदारी' में बदला। जानिए 'रोडमैप 2030' के तहत द्विपक्षीय व्यापार, भारी-भरकम विदेशी निवेश और समझौतों से जुड़ी ये 10 सबसे बड़ी बातें।",
+          "title": "सलमान खान ने बेचा मुंबई के बांद्रा वेस्ट का अपना अपार्टमेंट, करोड़ रुपये की हुई डील",
+          "summary": "सलमान खान ने मुंबई के बांद्रा वेस्ट में अपना अपार्टमेंट बेच दिया। इस डील की राशि करोड़ों रुपये में है। अभिनेता की आगामी फिल्म 'मातृभूमि' जल्द ही रिलीज होगी। जल्द ही सलमान खान की आगामी फिल्म 'मातृभूमि' रिलीज होगी। इसी बीच अभिनेता ने अपना मुंबई में एक अपार्टमेंट बेच दिया है। जानिए, कितने करोड़ में अपना अपार्टमेंट सलमान खान ने बेचा?",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "भारतीय पर्यटकों को ले जा रही नाव डूबी, भारतीय दूतावास का बड़ा बयान",
-      "url": "https://www.amarujala.com/video-shots/india-news/vietnam-boat-accident-boat-carrying-indian-tourists-sinks-major-statement-from-the-indian-embassy-2026-07-11",
-      "source": "Amar Ujala National",
+      "title": "वियतनाम में स्पीडबोट समुद्र में पलटी, 15 भारतीय पर्यटकों की मौत",
+      "url": "https://www.amarujala.com/live/world/vietnam-boat-capsize-incident-live-updates-several-people-including-indian-tourists-feared-dead-2026-07-11",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-07-10T21:56:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=1200&dpr=1.0",
-      "summary": "वियतनाम में भारतीय पर्यटकों को ले जा रही नाव डूबने से कई लोगों की मौत हो गई। भारतीय दूतावास ने इस घटना पर बड़ा बयान दिया है। घटना की जांच की जा रही है और पीड़ितों की मदद की जा रही है। Vietnam Boat Accident: भारतीय पर्यटकों को ले जा रही नाव डूबी, भारतीय दूतावास का बड़ा बयान।",
+      "published_at": "2026-07-10T23:15:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/vayatanama-ma-naka-tharaghatana_6742c5c14f3f9aec156e9eec816f58e6.gif?w=1200&dpr=1.0",
+      "summary": "वियतनाम में एक स्पीडबोट समुद्र में पलट गई, जिससे 15 भारतीय पर्यटकों की मौत हो गई। यह हादसा वियतनाम में हुआ। घटना में कई लोगों के मारे जाने की खबर है। वियतनाम में स्पीडबोट समुद्र में पलटी, 15 भारतीय पर्यटकों की मौत।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारतीय पर्यटकों को ले जा रही नाव डूबी, भारतीय दूतावास का बड़ा बयान",
-          "summary": "वियतनाम में भारतीय पर्यटकों को ले जा रही नाव डूबने से कई लोगों की मौत हो गई। भारतीय दूतावास ने इस घटना पर बड़ा बयान दिया है। घटना की जांच की जा रही है और पीड़ितों की मदद की जा रही है। Vietnam Boat Accident: भारतीय पर्यटकों को ले जा रही नाव डूबी, भारतीय दूतावास का बड़ा बयान।",
+          "title": "वियतनाम में स्पीडबोट समुद्र में पलटी, 15 भारतीय पर्यटकों की मौत",
+          "summary": "वियतनाम में एक स्पीडबोट समुद्र में पलट गई, जिससे 15 भारतीय पर्यटकों की मौत हो गई। यह हादसा वियतनाम में हुआ। घटना में कई लोगों के मारे जाने की खबर है। वियतनाम में स्पीडबोट समुद्र में पलटी, 15 भारतीय पर्यटकों की मौत।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "UCC पर पश्चिम बंगाल सरकार का बड़ा कदम, रिटायर्ड जज रंजना देसाई की अध्यक्षता में नौ सदस्यीय कमेटी",
+      "url": "https://www.amarujala.com/india-news/west-bengal-govt-takes-a-major-step-on-ucc-forms-a-9-member-committee-headed-by-retired-judge-ranjana-desai-2026-07-11",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-10T22:52:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/13/shubhendu-adhikari_ef685ea038a98b8bf1d76f87d278d7ec.jpeg?w=1200&dpr=1.0",
+      "summary": "पश्चिम बंगाल सरकार ने UCC पर एक बड़ा कदम उठाया है। सरकार ने रिटायर्ड जज रंजना देसाई की अध्यक्षता में एक नौ सदस्यीय कमेटी गठित की है। यह कमेटी UCC पर विचार करेगी और अपनी रिपोर्ट प्रस्तुत करेगी। UCC पर पश्चिम बंगाल सरकार का बड़ा कदम, रिटायर्ड जज रंजना देसाई की अध्यक्षता में नौ सदस्यीय कमेटी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UCC पर पश्चिम बंगाल सरकार का बड़ा कदम, रिटायर्ड जज रंजना देसाई की अध्यक्षता में नौ सदस्यीय कमेटी",
+          "summary": "पश्चिम बंगाल सरकार ने UCC पर एक बड़ा कदम उठाया है। सरकार ने रिटायर्ड जज रंजना देसाई की अध्यक्षता में एक नौ सदस्यीय कमेटी गठित की है। यह कमेटी UCC पर विचार करेगी और अपनी रिपोर्ट प्रस्तुत करेगी। UCC पर पश्चिम बंगाल सरकार का बड़ा कदम, रिटायर्ड जज रंजना देसाई की अध्यक्षता में नौ सदस्यीय कमेटी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आकांक्षा चमोला को लेकर रुबिना दिलैक का नया खुलासा; बोलीं- उसे बच्चे नहीं चाहिए क्योंकि…",
+      "url": "https://www.amarujala.com/entertainment/television/rubina-dilaik-and-hina-khan-talk-show-talk-about-lock-upp-contestant-akanksha-chamola-2026-07-11",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-10T22:43:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/hana-khana-oura-rabna-thalka_df739a28ca9c0942078953209790415b.jpeg?w=1200&dpr=1.0",
+      "summary": "रुबिना दिलैक ने आकांक्षा चमोला के बयान पर कहा कि उसे बच्चे नहीं चाहिए। आकांक्षा ने 'लॉकअप 2' में यह बयान दिया था। रुबिना ने इस पर अपनी बात रखी। Rubina Dilaik Talk About Akanksha chamola: रियलिटी शो ‘लॉकअप 2’ में आकांक्षा चमोला के दिए गए बयान और खुलासे इन दिनों चर्चा में हैं। उन्होंने बच्चे न करने का फैसला लिया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आकांक्षा चमोला को लेकर रुबिना दिलैक का नया खुलासा; बोलीं- उसे बच्चे नहीं चाहिए क्योंकि…",
+          "summary": "रुबिना दिलैक ने आकांक्षा चमोला के बयान पर कहा कि उसे बच्चे नहीं चाहिए। आकांक्षा ने 'लॉकअप 2' में यह बयान दिया था। रुबिना ने इस पर अपनी बात रखी। Rubina Dilaik Talk About Akanksha chamola: रियलिटी शो ‘लॉकअप 2’ में आकांक्षा चमोला के दिए गए बयान और खुलासे इन दिनों चर्चा में हैं। उन्होंने बच्चे न करने का फैसला लिया है।",
+          "region": "दुनिया"
         }
       }
     },
@@ -668,92 +650,110 @@
       }
     },
     {
-      "title": "मुंबई में नाबालिग की पहाड़ी से धक्का देकर हत्या: आरोपी गिरफ्तार; क्या दोहराया गया 'सिया-केतन' जैसा",
-      "url": "https://www.amarujala.com/india-news/minor-murdered-in-mumbai-after-being-pushed-off-hill-accused-arrested-murder-similar-siya-ketan-case-repeated-2026-07-11",
-      "source": "Amar Ujala National",
+      "title": "पूर्व गवर्नर जनरल, एयरलाइन CEO और खिलाड़ी; कौन हैं वे भारतवंशी जिनका PM मोदी ने न्यूजीलैंड में किया",
+      "url": "https://www.amarujala.com/world/pm-modi-in-new-zealand-from-ex-governor-general-to-airline-ceo-and-cricketers-with-indian-origin-relations-kno-2026-07-11",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-07-10T21:42:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/mabii-ma-nablga-ka-hataya_b51e5b752044dd59574041646388e453.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई में एक नाबालिग की पहाड़ी से धक्का देकर हत्या कर दी गई. आरोपी को गिरफ्तार कर लिया गया है. यह घटना 'सिया-केतन' हत्याकांड जैसी है. मुंबई में नाबालिग की पहाड़ी से धक्का देकर हत्या: आरोपी गिरफ्तार; क्या दोहराया गया 'सिया-केतन' जैसा।",
+      "published_at": "2026-07-10T21:20:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/pm-modi-in-new-zealand-indians-in-new-zealand_ec8fdbf43242ee3985cf4a5431ed88aa.jpeg?w=1200&dpr=1.0",
+      "summary": "पीएम मोदी ने न्यूजीलैंड में भारतवंशी लोगों का जिक्र किया। इनमें पूर्व गवर्नर जनरल और एयर न्यूजीलैंड के सीईओ शामिल हैं। पीएम ने जिन चार नामों का जिक्र किया, उनमें न्यूजीलैंड के पूर्व गवर्नर जनरल से लेकर हाल ही में एयर न्यूजीलैंड के सीईओ बनाए गए एक भारतवंशी का जिक्र भी शामिल रहा। पूर्व गवर्नर जनरल, एयरलाइन CEO और खिलाड़ी; कौन हैं वे भारतवंशी जिनका PM मोदी ने न्यूजीलैंड में किया।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मुंबई में नाबालिग की पहाड़ी से धक्का देकर हत्या: आरोपी गिरफ्तार; क्या दोहराया गया 'सिया-केतन' जैसा",
-          "summary": "मुंबई में एक नाबालिग की पहाड़ी से धक्का देकर हत्या कर दी गई. आरोपी को गिरफ्तार कर लिया गया है. यह घटना 'सिया-केतन' हत्याकांड जैसी है. मुंबई में नाबालिग की पहाड़ी से धक्का देकर हत्या: आरोपी गिरफ्तार; क्या दोहराया गया 'सिया-केतन' जैसा।",
+          "title": "पूर्व गवर्नर जनरल, एयरलाइन CEO और खिलाड़ी; कौन हैं वे भारतवंशी जिनका PM मोदी ने न्यूजीलैंड में किया",
+          "summary": "पीएम मोदी ने न्यूजीलैंड में भारतवंशी लोगों का जिक्र किया। इनमें पूर्व गवर्नर जनरल और एयर न्यूजीलैंड के सीईओ शामिल हैं। पीएम ने जिन चार नामों का जिक्र किया, उनमें न्यूजीलैंड के पूर्व गवर्नर जनरल से लेकर हाल ही में एयर न्यूजीलैंड के सीईओ बनाए गए एक भारतवंशी का जिक्र भी शामिल रहा। पूर्व गवर्नर जनरल, एयरलाइन CEO और खिलाड़ी; कौन हैं वे भारतवंशी जिनका PM मोदी ने न्यूजीलैंड में किया।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "भारतीय पर्यटकों की नाव वियतनाम में डूबी, 15 लोगों की मौत; दूतावास ने क्या कहा?",
+      "title": "पर्यटकों की नाव वियतनाम में डूबी, 15 भारतीय लोगों की मौत; दूतावास ने क्या कहा?",
       "url": "https://www.amarujala.com/world/boat-with-indian-tourists-capsized-near-phu-quoc-island-vietnam-hindi-updates-indian-embassy-on-casualties-2026-07-11",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-10T21:19:04+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/vayatanama-ma-bugdha-hathasa_29be3e704b1ad5c5c4147849b64ae0dc.jpeg?w=1200&dpr=1.0",
-      "summary": "वियतनाम में भारतीय पर्यटकों की नाव डूब गई, जिसमें 15 लोगों की मौत हो गई. भारतीय दूतावास ने घटना पर बयान दिया है. Boat With Indians capsized: वियतनाम में भारतीय पर्यटकों को ले जा रही नाव डूबी, भारतीय दूतावास ने क्या कहा? भारतीय पर्यटकों की नाव वियतनाम में डूबी, 15 लोगों की मौत; दूतावास ने क्या कहा?",
+      "summary": "वियतनाम में भारतीय पर्यटकों की नाव डूब गई, जिसमें 15 लोगों की मौत हो गई. भारतीय दूतावास ने घटना पर बयान दिया है. Boat With Indians capsized: वियतनाम में भारतीय पर्यटकों को ले जा रही नाव डूबी, भारतीय दूतावास ने क्या कहा? भारतीय पर्यटकों की नाव वियतनाम में डूबी, 15 लोगों की मौत; दूतावास ने क्या कहा? पर्यटकों की नाव वियतनाम में डूबी, 15 भारतीय लोगों की मौत; दूतावास ने क्या कहा?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारतीय पर्यटकों की नाव वियतनाम में डूबी, 15 लोगों की मौत; दूतावास ने क्या कहा?",
-          "summary": "वियतनाम में भारतीय पर्यटकों की नाव डूब गई, जिसमें 15 लोगों की मौत हो गई. भारतीय दूतावास ने घटना पर बयान दिया है. Boat With Indians capsized: वियतनाम में भारतीय पर्यटकों को ले जा रही नाव डूबी, भारतीय दूतावास ने क्या कहा? भारतीय पर्यटकों की नाव वियतनाम में डूबी, 15 लोगों की मौत; दूतावास ने क्या कहा?",
+          "title": "पर्यटकों की नाव वियतनाम में डूबी, 15 भारतीय लोगों की मौत; दूतावास ने क्या कहा?",
+          "summary": "वियतनाम में भारतीय पर्यटकों की नाव डूब गई, जिसमें 15 लोगों की मौत हो गई. भारतीय दूतावास ने घटना पर बयान दिया है. Boat With Indians capsized: वियतनाम में भारतीय पर्यटकों को ले जा रही नाव डूबी, भारतीय दूतावास ने क्या कहा? भारतीय पर्यटकों की नाव वियतनाम में डूबी, 15 लोगों की मौत; दूतावास ने क्या कहा? पर्यटकों की नाव वियतनाम में डूबी, 15 भारतीय लोगों की मौत; दूतावास ने क्या कहा?",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "ऑकलैंड में पीएम का संबोधन; मफलर, हॉकी, कीवी और चंद्रयान; बड़ी बातें क्या? ग्राफिक्स देखें",
-      "url": "https://www.amarujala.com/world/pm-modi-in-new-zealand-aucland-address-to-indian-diaspora-main-points-of-speech-2026-07-11",
-      "source": "Amar Ujala Breaking",
+      "title": "वन नेशन, वन इलेक्शन पर गोवा CM प्रमोद सावंत का समर्थन, कहा- 'संसाधनों की होगी बचत'",
+      "url": "https://www.abplive.com/news/india/goa-cm-pramod-sawant-supported-one-nation-one-election-saying-bring-stability-in-governance-3157958",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-07-10T21:14:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/pm-modi-new-zealand_f021819fee4d4b6ada86b2884d5d1e4f.jpeg?w=1200&dpr=1.0",
-      "summary": "ऑकलैंड में प्रधानमंत्री मोदी ने संबोधन दिया, जिसमें उन्होंने मफलर, हॉकी, कीवी और चंद्रयान का जिक्र किया. PM Modi: मफलर, हॉकी से लेकर चंद्रयान तक, ऑकलैंड में पीएम मोदी के संबोधन की क्या रहीं बड़ी बातें। ऑकलैंड में पीएम का संबोधन; मफलर, हॉकी, कीवी और चंद्रयान; बड़ी बातें क्या? ग्राफिक्स देखें।",
-      "region": "Europe & Russia",
+      "published_at": "2026-07-10T21:10:12+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/10/f9cd2c4a426124e08924f89844c1258517836854393971115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "गोवा के मुख्यमंत्री प्रमोद सावंत ने 'वन नेशन, वन इलेक्शन' का समर्थन किया। उन्होंने कहा कि इससे संसाधनों की बचत होगी और शासन व्यवस्था स्थिर होगी। गोवा के मुख्यमंत्री प्रमोद सावंत ने देश में एक साथ चुनाव कराने के विचार का सपोर्ट किया है. उन्होंने कहा कि 'एक देश, एक चुनाव' सिस्टम लागू होने से शासन व्यवस्था अधिक स्थिर होगी, सरकारें लंबी अवधि की योजनाओं पर बेहतर तरीके से काम कर सकेंगी और सरकारी रिसोर्स का ज्यादा अच्छे तरीके से इस्तेमाल हो सकेगा.",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ऑकलैंड में पीएम का संबोधन; मफलर, हॉकी, कीवी और चंद्रयान; बड़ी बातें क्या? ग्राफिक्स देखें",
-          "summary": "ऑकलैंड में प्रधानमंत्री मोदी ने संबोधन दिया, जिसमें उन्होंने मफलर, हॉकी, कीवी और चंद्रयान का जिक्र किया. PM Modi: मफलर, हॉकी से लेकर चंद्रयान तक, ऑकलैंड में पीएम मोदी के संबोधन की क्या रहीं बड़ी बातें। ऑकलैंड में पीएम का संबोधन; मफलर, हॉकी, कीवी और चंद्रयान; बड़ी बातें क्या? ग्राफिक्स देखें।",
-          "region": "यूरोप और रूस"
+          "title": "वन नेशन, वन इलेक्शन पर गोवा CM प्रमोद सावंत का समर्थन, कहा- 'संसाधनों की होगी बचत'",
+          "summary": "गोवा के मुख्यमंत्री प्रमोद सावंत ने 'वन नेशन, वन इलेक्शन' का समर्थन किया। उन्होंने कहा कि इससे संसाधनों की बचत होगी और शासन व्यवस्था स्थिर होगी। गोवा के मुख्यमंत्री प्रमोद सावंत ने देश में एक साथ चुनाव कराने के विचार का सपोर्ट किया है. उन्होंने कहा कि 'एक देश, एक चुनाव' सिस्टम लागू होने से शासन व्यवस्था अधिक स्थिर होगी, सरकारें लंबी अवधि की योजनाओं पर बेहतर तरीके से काम कर सकेंगी और सरकारी रिसोर्स का ज्यादा अच्छे तरीके से इस्तेमाल हो सकेगा.",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "क्रिकेट से लेकर रग्बी और हॉकी तक... पीएम मोदी ने न्यूजीलैंड में खेल जगत को लेकर कही बड़ी बातें",
-      "url": "https://www.amarujala.com/sports/new-zealand-has-rachin-ravindra-ish-sodhi-and-ajaz-patel-pm-modi-praises-indian-origin-achievers-rugby-2026-07-11",
-      "source": "Amar Ujala Breaking",
+      "title": "ऑकलैंड में बोले PM- 25 साल पहले मिला मफलर, आज भी सुरक्षित, भावनात्मक संबंध पर क्या कहा?",
+      "url": "https://www.amarujala.com/world/auckland-kia-ora-modi-pm-gift-story-new-zealand-muffler-story-christopher-luxon-auckland-amid-indians-news-2026-07-11",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-07-10T20:45:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/pm-narendra-modi-new-zealand-rachin-ravindra-ish-sodhi-ajaz-patel-indian-diaspora-india-new-z_e4e6e773d3ceef7217580da7f3d3d44b.jpeg?w=1200&dpr=1.0",
-      "summary": "प्रधानमंत्री मोदी ने न्यूजीलैंड में भारतीय मूल के खिलाड़ियों रचिन रवींद्र, ईश सोढ़ी और एजाज पटेल की成就 की सराहना की. प्रधानमंत्री नरेंद्र मोदी ने न्यूजीलैंड में भारतीय समुदाय को संबोधित करते हुए भारतीय मूल के खिलाड़ियों रचिन रवींद्र, ईश सोढ़ी और एजाज पटेल का जिक्र किया। क्रिकेट से लेकर रग्बी और हॉकी तक पीएम मोदी ने न्यूजीलैंड में खेल जगत को लेकर कही बड़ी बातें।",
+      "published_at": "2026-07-10T20:22:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/paema-matha-na-mafalra-val-kasasa-sanaya_512533b20a1aaffbe8c00a92dd568e5c.jpeg?w=1200&dpr=1.0",
+      "summary": "पीएम मोदी ने ऑकलैंड में कहा कि 25 साल पहले उन्हें एक मफलर मिला था जो आज भी सुरक्षित है। उन्होंने भावनात्मक संबंध पर बात की। Auckland Kia Ora Modi: न्यूजीलैंड में पीएम को 20-25 साल पहले मिला था उपहार, ऑकलैंड में क्या किस्सा सुनाया? ऑकलैंड में बोले PM- 25 साल पहले मिला मफलर, आज भी सुरक्षित, भावनात्मक संबंध पर क्या कहा?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्रिकेट से लेकर रग्बी और हॉकी तक... पीएम मोदी ने न्यूजीलैंड में खेल जगत को लेकर कही बड़ी बातें",
-          "summary": "प्रधानमंत्री मोदी ने न्यूजीलैंड में भारतीय मूल के खिलाड़ियों रचिन रवींद्र, ईश सोढ़ी और एजाज पटेल की成就 की सराहना की. प्रधानमंत्री नरेंद्र मोदी ने न्यूजीलैंड में भारतीय समुदाय को संबोधित करते हुए भारतीय मूल के खिलाड़ियों रचिन रवींद्र, ईश सोढ़ी और एजाज पटेल का जिक्र किया। क्रिकेट से लेकर रग्बी और हॉकी तक पीएम मोदी ने न्यूजीलैंड में खेल जगत को लेकर कही बड़ी बातें।",
+          "title": "ऑकलैंड में बोले PM- 25 साल पहले मिला मफलर, आज भी सुरक्षित, भावनात्मक संबंध पर क्या कहा?",
+          "summary": "पीएम मोदी ने ऑकलैंड में कहा कि 25 साल पहले उन्हें एक मफलर मिला था जो आज भी सुरक्षित है। उन्होंने भावनात्मक संबंध पर बात की। Auckland Kia Ora Modi: न्यूजीलैंड में पीएम को 20-25 साल पहले मिला था उपहार, ऑकलैंड में क्या किस्सा सुनाया? ऑकलैंड में बोले PM- 25 साल पहले मिला मफलर, आज भी सुरक्षित, भावनात्मक संबंध पर क्या कहा?",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "'भारत की जीत पर न्यूजीलैंड में जश्न'; भारतीयों से संबोधन में पीएम मोदी ने और क्या कहा?",
-      "url": "https://www.amarujala.com/live/world/prime-minister-narendra-modi-new-zealand-visit-live-updates-auckland-christopher-luxon-indian-community-2026-07-11",
-      "source": "Amar Ujala Breaking",
+      "title": "प्रशांत महासागर में बढ़ेगी भारत की ताकत: आतंकवाद के खिलाफ न्यूजीलैंड कैसे बनेगा खास साथी? MEA ने",
+      "url": "https://www.amarujala.com/world/india-strength-in-pacific-ocean-to-grow-how-new-zealand-become-key-partner-against-terrorism-mea-outlines-pla-2026-07-11",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-07-10T19:41:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/nayajalda-thara-para-paema-matha_f4a746417395e1e73a0e5c446513b906.gif?w=1200&dpr=1.0",
-      "summary": "न्यूजीलैंड में प्रधानमंत्री मोदी ने भारतीय समुदाय को संबोधित किया और भारत की जीत पर जश्न मनाने वाले भारतीयों का उल्लेख किया. 'भारत की जीत पर न्यूजीलैंड में जश्न'; भारतीयों से संबोधन में पीएम मोदी ने और क्या कहा?",
+      "published_at": "2026-07-10T19:40:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/paema-matha-oura-nayajalda-ka-parathhanamatara_0734aecbecc6b5427981c38141ae89e4.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत और न्यूजीलैंड आतंकवाद के खिलाफ साथी बनेंगे। विदेश मंत्रालय ने बताया कि इससे प्रशांत महासागर में भारत की ताकत बढ़ेगी। प्रशांत महासागर में बढ़ेगी भारत की ताकत: न्यूजीलैंड कैसे बनेगा खास साथी? प्रशांत महासागर में बढ़ेगी भारत की ताकत: आतंकवाद के खिलाफ न्यूजीलैंड कैसे बनेगा खास साथी? MEA ने।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'भारत की जीत पर न्यूजीलैंड में जश्न'; भारतीयों से संबोधन में पीएम मोदी ने और क्या कहा?",
-          "summary": "न्यूजीलैंड में प्रधानमंत्री मोदी ने भारतीय समुदाय को संबोधित किया और भारत की जीत पर जश्न मनाने वाले भारतीयों का उल्लेख किया. 'भारत की जीत पर न्यूजीलैंड में जश्न'; भारतीयों से संबोधन में पीएम मोदी ने और क्या कहा?",
+          "title": "प्रशांत महासागर में बढ़ेगी भारत की ताकत: आतंकवाद के खिलाफ न्यूजीलैंड कैसे बनेगा खास साथी? MEA ने",
+          "summary": "भारत और न्यूजीलैंड आतंकवाद के खिलाफ साथी बनेंगे। विदेश मंत्रालय ने बताया कि इससे प्रशांत महासागर में भारत की ताकत बढ़ेगी। प्रशांत महासागर में बढ़ेगी भारत की ताकत: न्यूजीलैंड कैसे बनेगा खास साथी? प्रशांत महासागर में बढ़ेगी भारत की ताकत: आतंकवाद के खिलाफ न्यूजीलैंड कैसे बनेगा खास साथी? MEA ने।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "35 की उम्र के बाद प्रेग्नेंसी में आ रही दिक्कतें, चिंता बढ़ा रहे आंकड़े; आखिर क्या है वजह",
+      "url": "https://www.amarujala.com/lifestyle/fitness/fertility-crisis-worldwide-latest-data-why-women-above-35-are-unable-to-conceive-explainer-2026-07-11",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-10T19:36:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/infertility_1224105e74bd0ab3b50c33905c2898fe.jpeg?w=1200&dpr=1.0",
+      "summary": "दुनिया भर में 5.36 करोड़ महिलाएं, जिनकी उम्र 35-49 साल है, गर्भधारण नहीं कर पा रही हैं। इससे वैश्विक स्तर पर बढ़ती बांझपन की समस्या को लेकर चिंता पैदा हो गई है। यह समस्या 35 की उम्र के बाद प्रेग्नेंसी में आ रही दिक्कतों को उजागर करती है। दुनिया भर में इस समय 35-49 साल की लगभग 5.36 करोड़ महिलाएं ऐसी हैं जो गर्भधारण नहीं कर पा रही हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "35 की उम्र के बाद प्रेग्नेंसी में आ रही दिक्कतें, चिंता बढ़ा रहे आंकड़े; आखिर क्या है वजह",
+          "summary": "दुनिया भर में 5.36 करोड़ महिलाएं, जिनकी उम्र 35-49 साल है, गर्भधारण नहीं कर पा रही हैं। इससे वैश्विक स्तर पर बढ़ती बांझपन की समस्या को लेकर चिंता पैदा हो गई है। यह समस्या 35 की उम्र के बाद प्रेग्नेंसी में आ रही दिक्कतों को उजागर करती है। दुनिया भर में इस समय 35-49 साल की लगभग 5.36 करोड़ महिलाएं ऐसी हैं जो गर्भधारण नहीं कर पा रही हैं।",
+          "region": "दुनिया"
         }
       }
     }
