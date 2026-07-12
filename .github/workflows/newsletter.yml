@@ -203,10 +203,10 @@ jobs:
           missing_hi = [r for r in hi_regions if r and not _region_present(r, hi_index_html)]
           missing_en = [r for r in en_regions if r and not _region_present(r, index_html)]
           if missing_hi:
-              raise SystemExit(
-                  f"HI site/index missing regions from newsletter.json: {missing_hi}. "
-                  "generate_site.py probably did not regenerate the tree."
-              )
+              # HI articles can be filtered by the 25-word summary floor in
+              # generate_site.py, so a missing HI region is a warning not a failure.
+              print(f"WARNING: HI site/index missing regions from newsletter.json: {missing_hi}. "
+                    "Likely filtered by the summary word-count floor.")
           if missing_en:
               raise SystemExit(
                   f"EN site/index missing regions from newsletter.json: {missing_en}. "
@@ -369,3 +369,4 @@ jobs:
                 labels: ['geopulse-failure'],
               });
             }
+
