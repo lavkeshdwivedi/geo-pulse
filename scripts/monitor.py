@@ -32,6 +32,8 @@ def llm_json(system_prompt: str, user_prompt: str, max_tokens: int = 800,
         max_tokens=max_tokens,
         temperature=temperature,
     )
+    if not (resp.content or "").strip():
+        raise RuntimeError("LLM returned empty response")
     return _parse_llm_json(resp.content)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -204,7 +206,7 @@ def main() -> None:
             temperature=0.2,
             providers=["gemini", "groq"],
         )
-    except RuntimeError as exc:
+    except Exception as exc:
         print(f"[monitor] LLM failed: {exc}", file=sys.stderr)
         print("[monitor] defaulting to retry", file=sys.stderr)
         if workflow_file:
