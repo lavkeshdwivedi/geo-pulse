@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-12T13:33:49.054080+00:00",
+  "generated_at": "2026-07-12T14:33:35.035868+00:00",
   "article_count": 50,
-  "total_unique_count": 281,
+  "total_unique_count": 279,
   "digest": {
-    "en": "Myanmar's detained Aung San Suu Kyi will be well looked after, according to the ASEAN special envoy. Bangladesh is dealing with severe flood damage, with 44 deaths reported and capital Dhaka deluged. Indonesia meanwhile is defying expectations on inflation.",
-    "hi": "रूस की दुखती नस पर यूक्रेन का फिर से हमला हुआ, जिसमें एक व्यक्ति की मौत हो गई और बच्चे समेत तीन लोग घायल हो गए। दूसरी ओर, कतर ने समुद्र में जहाज न उतारने की अपील की है। ईरान की Kill लिस्ट में ट्रंप का नाम नहीं है।"
+    "en": "Myanmar's detained Aung San Suu Kyi will be looked after, according to the ASEAN special envoy. Bangladesh is dealing with severe floods, reporting 44 deaths and widespread deluge in capital Dhaka. The US is advancing Russia sanctions, with Senators and the administration agreeing on a bill.",
+    "hi": "संयुक्त राष्ट्र के आंकड़ों से पाकिस्तान में 13 साल की बच्ची के साथ हुए अपराध का मामला सामने आया है। यूरोप ने इस मामले में पाकिस्तान का साथ दिया है। जर्मनी ने यूक्रेन को 50 हजार स्मार्ट ड्रोन दिए हैं जिससे रूस के खिलाफ युद्ध में नया मोड़ आया है।"
   },
   "articles": [
     {
@@ -123,18 +123,6 @@
       "published_at": "2026-07-10T17:48:21+00:00",
       "image_url": "https://gdb.rferl.org/14bb18c7-9b45-41a5-5ebd-08decd277110_w1200_h630.jpg",
       "summary": "A brawl erupted in Lviv, western Ukraine, on July 8, between Ukrainian military recruiters and local residents as officers detained men who failed to register for duty. Authorities opened a criminal investigation. Russia was accused of using propaganda to incite unrest. A brawl between Ukrainian military recruiters and local residents erupted in Lviv, western Ukraine, on July 8, as the officers were detaining men who had failed to register for duty.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ukraine Intensifies Attacks On Russian Energy Assets, Reportedly Forcing Halt To Azov Traffic",
-      "url": "https://www.rferl.org/a/ukraine-russia-energy-strikes-azov-ilsky-oil/33801161.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-10T17:21:29+00:00",
-      "image_url": "https://gdb.rferl.org/08f70245-7a92-46a7-9db6-2526223c6e14_cx2_cy0_cw97_w1200_h630.jpg",
-      "summary": "Ukraine launched multiple strikes against Russian energy assets, including oil terminals and tankers at sea. This forced Moscow to halt shipping through a major waterway. The attacks are part of Kyiv's \"long-range sanctions\" against Russia. Ukraine launched multiple strikes against Kremling energy assets, including oil terminals and tankers at sea, reportedly forcing Moscow to halt shipping through a major waterway as Kyiv intensifies what it has labeled its \"long-range sanctions\" against Russia.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -308,20 +296,104 @@
       "translations": {}
     },
     {
-      "title": "रूस की दुखती नस पर यूक्रेन का फिर से हमला, एक की मौत, बच्चे समेत 3 घायल",
-      "url": "https://hindi.news18.com/world/europe-russia-syzran-oil-refinery-ukraine-attacked-again-one-dead-3-including-child-injured-sjn-10651175.html",
+      "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+      "url": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-06-30T15:20:00+00:00",
+      "image_url": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Somalia's government continues to battle Al-Shabaab militants. The conflict has reached a stalemate, with neither side gaining a decisive advantage. Mogadishu needs to strengthen its military and alleviate civilian suffering in insurgent-controlled areas. The government also seeks openings for dialogue with Al-Shabaab. The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "संयुक्त राष्ट्र के आंकड़ों से खुला पाकिस्तान का घिनौना राज, 13 साल की बच्ची के हक में खड़ा हुआ यूरोप",
+      "url": "https://hindi.news18.com/world/south-asia-un-report-expose-pakistan-religious-conversion-child-marriage-european-union-warn-islamabad-10651251.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-12T12:33:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Russia-AFP-2026-07-9b29cdbf91ba5f98ceeea41d7cc66f8b-1200x800.jpg",
-      "summary": "यूक्रेन ने रूस की समारा क्षेत्र में रिफाइनरी पर हमला किया, एक मौत, तीन घायल। यूक्रेन ने रूस की समारा क्षेत्र में रिफाइनरी पर बड़ा हमला किया है. इस पर कई बार हमले किये जा चुके हैं. रिफाइनरी पर हमला रूस की आर्थिक स्थिति को कमजोर करने वाला माना जाता है. रूस तेल से काफी पैसा कमाता है जिससे वो यूक्रेन के खिलाफ युद्ध लड़ पाता है.",
+      "published_at": "2026-07-12T13:45:01+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-Minority-2026-07-438bc6e246e69ffb39b1eba16ee8f429-1200x800.jpg",
+      "summary": "यूरोपीय संसद ने पाकिस्तान को जबरन धर्मांतरण और बाल विवाह के मुद्दे पर कटघरे में खड़ा कर दिया है। एक 13 साल की बच्ची के मामले ने इसे उजागर किया। यूरोपीय सांसदों ने इस्लामाबाद के हुक्मरानों के खिलाफ सख्त प्रस्ताव पारित किया। पाकिस्तान के अमानवीय और शर्मनाक चेहरे पर यूरोपीय संसद ने अब तक का सबसे बड़ा और तीखा अंतरराष्ट्रीय चाबुक चला दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संयुक्त राष्ट्र के आंकड़ों से खुला पाकिस्तान का घिनौना राज, 13 साल की बच्ची के हक में खड़ा हुआ यूरोप",
+          "summary": "यूरोपीय संसद ने पाकिस्तान को जबरन धर्मांतरण और बाल विवाह के मुद्दे पर कटघरे में खड़ा कर दिया है। एक 13 साल की बच्ची के मामले ने इसे उजागर किया। यूरोपीय सांसदों ने इस्लामाबाद के हुक्मरानों के खिलाफ सख्त प्रस्ताव पारित किया। पाकिस्तान के अमानवीय और शर्मनाक चेहरे पर यूरोपीय संसद ने अब तक का सबसे बड़ा और तीखा अंतरराष्ट्रीय चाबुक चला दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रूस के खिलाफ युद्ध में नया मोड़, जर्मनी ने यूक्रेन को दिए 50 हजार स्मार्ट ड्रोन",
+      "url": "https://www.patrika.com/world-news/germany-gives-50000-strike-drones-to-ukraine-20742025",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-12T13:19:25+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/zelenskyputinnews.webp",
+      "summary": "जर्मनी ने यूक्रेन को 50,000 अटैक ड्रोन देने का ऐलान किया है। यह रूस के खिलाफ युद्ध में यूक्रेन को बड़ी मदद है। जर्मनी ने इन्हें खरीदने के लिए पहले ही ऑर्डर दे दिया है। रूस के खिलाफ युद्ध में जर्मनी ने यूक्रेन को बड़ी मदद दी है। इसे खरीदने के लिए वह पहले ही ऑर्डर दे चुका है। रूस के खिलाफ युद्ध में नया मोड़, जर्मनी ने यूक्रेन को दिए 50 हजार स्मार्ट ड्रोन।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रूस की दुखती नस पर यूक्रेन का फिर से हमला, एक की मौत, बच्चे समेत 3 घायल",
-          "summary": "यूक्रेन ने रूस की समारा क्षेत्र में रिफाइनरी पर हमला किया, एक मौत, तीन घायल। यूक्रेन ने रूस की समारा क्षेत्र में रिफाइनरी पर बड़ा हमला किया है. इस पर कई बार हमले किये जा चुके हैं. रिफाइनरी पर हमला रूस की आर्थिक स्थिति को कमजोर करने वाला माना जाता है. रूस तेल से काफी पैसा कमाता है जिससे वो यूक्रेन के खिलाफ युद्ध लड़ पाता है.",
+          "title": "रूस के खिलाफ युद्ध में नया मोड़, जर्मनी ने यूक्रेन को दिए 50 हजार स्मार्ट ड्रोन",
+          "summary": "जर्मनी ने यूक्रेन को 50,000 अटैक ड्रोन देने का ऐलान किया है। यह रूस के खिलाफ युद्ध में यूक्रेन को बड़ी मदद है। जर्मनी ने इन्हें खरीदने के लिए पहले ही ऑर्डर दे दिया है। रूस के खिलाफ युद्ध में जर्मनी ने यूक्रेन को बड़ी मदद दी है। इसे खरीदने के लिए वह पहले ही ऑर्डर दे चुका है। रूस के खिलाफ युद्ध में नया मोड़, जर्मनी ने यूक्रेन को दिए 50 हजार स्मार्ट ड्रोन।",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "दक्षिण प्रशांत महासागर में चीन के मिसाइल परीक्षण से बढ़ी चिंता, न्यूजीलैंड और ताइवान सहित कई देशों",
+      "url": "https://www.patrika.com/world-news/china-ballistic-missile-launch-south-pacific-nuclear-free-zone-20741919",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-12T12:37:21+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/china-missile-test-.webp",
+      "summary": "चीन ने दक्षिण प्रशांत महासागर में लंबी दूरी की बैलिस्टिक मिसाइल का परीक्षण किया है। इससे इंडो-पैसिफिक क्षेत्र में तनाव बढ़ा है। ऑस्ट्रेलिया, न्यूजीलैंड, जापान और ताइवान समेत कई देशों ने चिंता जताई है। South Pacific Nuclear Free Zone China Missile Test: चीन के लंबी दूरी की बैलिस्टिक मिसाइल परीक्षण ने एक बार फिर इंडो-पैसिफिक क्षेत्र में तनाव बढ़ा दिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दक्षिण प्रशांत महासागर में चीन के मिसाइल परीक्षण से बढ़ी चिंता, न्यूजीलैंड और ताइवान सहित कई देशों",
+          "summary": "चीन ने दक्षिण प्रशांत महासागर में लंबी दूरी की बैलिस्टिक मिसाइल का परीक्षण किया है। इससे इंडो-पैसिफिक क्षेत्र में तनाव बढ़ा है। ऑस्ट्रेलिया, न्यूजीलैंड, जापान और ताइवान समेत कई देशों ने चिंता जताई है। South Pacific Nuclear Free Zone China Missile Test: चीन के लंबी दूरी की बैलिस्टिक मिसाइल परीक्षण ने एक बार फिर इंडो-पैसिफिक क्षेत्र में तनाव बढ़ा दिया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कौन थे सीनेटर लिंडसे? जिन्होंने कहा था- भारत पर लगा दो 500% टैरिफ, ट्रंप को भी खामेनेई को मारने की",
+      "url": "https://www.patrika.com/world-news/lindsey-graham-500-percent-tariffs-on-india-khamenei-controversial-remarks-20741734",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-12T12:28:12+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Lindsey-Graham.webp",
+      "summary": "अमेरिकी सीनेटर लिंडसे ग्राहम का निधन हो गया है। वे अपने विवादित बयानों के लिए जाने जाते थे। उन्होंने भारत पर 500% टैरिफ लगाने की मांग का समर्थन किया था और ईरान के सर्वोच्च नेता अयातुल्ला अली खामेनेई पर तीखी टिप्पणी की थी। Senator Lindsey Graham Statement Tariffs on India: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के करीबी माने जाने वाले सीनेटर लिंडसे ग्राहम का निधन हो गया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कौन थे सीनेटर लिंडसे? जिन्होंने कहा था- भारत पर लगा दो 500% टैरिफ, ट्रंप को भी खामेनेई को मारने की",
+          "summary": "अमेरिकी सीनेटर लिंडसे ग्राहम का निधन हो गया है। वे अपने विवादित बयानों के लिए जाने जाते थे। उन्होंने भारत पर 500% टैरिफ लगाने की मांग का समर्थन किया था और ईरान के सर्वोच्च नेता अयातुल्ला अली खामेनेई पर तीखी टिप्पणी की थी। Senator Lindsey Graham Statement Tariffs on India: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के करीबी माने जाने वाले सीनेटर लिंडसे ग्राहम का निधन हो गया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "तिब्बत के लिए अब खुलकर आगे आए यूरोपीय देश, नए कानून को लेकर दे डाली चेतावनी, पूछा- पंचेन लामा कहां",
+      "url": "https://www.patrika.com/world-news/china-tibet-ethnic-unity-law-europe-backlash-2026-20741791",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-12T12:19:47+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Xi-Jinping-Middle-East-peace-plan.webp",
+      "summary": "यूरोपीय देशों ने चीन के नए कानून पर सख्त रुख अपनाया है। यह कानून तिब्बत, उइगर और दक्षिणी मंगोलिया में अल्पसंख्यक समुदायों की संस्कृति, भाषा और धर्म को खत्म करने के लिए बनाया गया है। उन्होंने पंचेन लामा के ठिकाने का सवाल भी उठाया है। यूरोप अब चीन के खिलाफ खुलकर सामने आ गया है। तिब्बत, उइगर और दक्षिणी मंगोलिया में रहने वाले अल्पसंख्यक समुदायों की संस्कृति, भाषा और धर्म को खत्म करने वाले चीन के नए कानून पर यूरोपीय देश सख्त हो गए हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तिब्बत के लिए अब खुलकर आगे आए यूरोपीय देश, नए कानून को लेकर दे डाली चेतावनी, पूछा- पंचेन लामा कहां",
+          "summary": "यूरोपीय देशों ने चीन के नए कानून पर सख्त रुख अपनाया है। यह कानून तिब्बत, उइगर और दक्षिणी मंगोलिया में अल्पसंख्यक समुदायों की संस्कृति, भाषा और धर्म को खत्म करने के लिए बनाया गया है। उन्होंने पंचेन लामा के ठिकाने का सवाल भी उठाया है। यूरोप अब चीन के खिलाफ खुलकर सामने आ गया है। तिब्बत, उइगर और दक्षिणी मंगोलिया में रहने वाले अल्पसंख्यक समुदायों की संस्कृति, भाषा और धर्म को खत्म करने वाले चीन के नए कानून पर यूरोपीय देश सख्त हो गए हैं।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -344,19 +416,19 @@
       }
     },
     {
-      "title": "ईरान की Kill ल‍िस्‍ट में कौन-कौन, पहले नंबर पर ट्रंप का नाम नहीं, तो फ‍िर कौन",
-      "url": "https://hindi.news18.com/world/middle-east-irans-hit-list-trump-is-not-at-the-top-of-benjamin-netanyahu-and-meloni-sjn-10650852.html",
-      "source": "News18 Hindi (World)",
+      "title": "ईरान ने दाग दी अमेरिकी एयरबेस पर बैलिस्टिक मिसाइल, बजने लगे सायरन",
+      "url": "https://www.patrika.com/world-news/iran-us-conflict-iran-launches-strikes-on-us-targets-middle-east-20741546",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-12T11:13:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Iran-Hitlist-2026-07-cf328f67b9baf4dd30da789a7ba75d78-1200x800.jpg",
-      "summary": "ईरान ने दुनिया के बड़े नेताओं की हिट लिस्ट जारी की है, पहले नंबर पर अमेरिकी राष्ट्रपति नहीं। पूर्व सुप्रीम लीडर अयातुल्ला अली खामेनेई की मौत का बदला लेने का ईरान पहले एलान कर दिया है. ईरान के सरकारी अखबार में दुनिया के बड़े नेताओं की हिट लिस्ट जारी की है. इसमे पहले नंबर पर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप नहीं हैं.",
+      "published_at": "2026-07-12T10:39:04+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/us-iran-war-update-1.webp",
+      "summary": "ईरान ने रविवार को मिडिल ईस्ट में अमेरिकी सैन्य ठिकानों पर हमले करने का दावा किया है। मीडिया रिपोर्ट के मुताबिक, ईरान ने अमेरिकी एयरबेस पर बैलिस्टिक मिसाइल दागीं। सायरन बजने लगे और स्थिति तनावपूर्ण हो गई। दोनों के बीच खूनी जंग शुरू हो गई है। ईरान ने दाग दी अमेरिकी एयरबेस पर बैलिस्टिक मिसाइल, बजने लगे सायरन।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान की Kill ल‍िस्‍ट में कौन-कौन, पहले नंबर पर ट्रंप का नाम नहीं, तो फ‍िर कौन",
-          "summary": "ईरान ने दुनिया के बड़े नेताओं की हिट लिस्ट जारी की है, पहले नंबर पर अमेरिकी राष्ट्रपति नहीं। पूर्व सुप्रीम लीडर अयातुल्ला अली खामेनेई की मौत का बदला लेने का ईरान पहले एलान कर दिया है. ईरान के सरकारी अखबार में दुनिया के बड़े नेताओं की हिट लिस्ट जारी की है. इसमे पहले नंबर पर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप नहीं हैं.",
+          "title": "ईरान ने दाग दी अमेरिकी एयरबेस पर बैलिस्टिक मिसाइल, बजने लगे सायरन",
+          "summary": "ईरान ने रविवार को मिडिल ईस्ट में अमेरिकी सैन्य ठिकानों पर हमले करने का दावा किया है। मीडिया रिपोर्ट के मुताबिक, ईरान ने अमेरिकी एयरबेस पर बैलिस्टिक मिसाइल दागीं। सायरन बजने लगे और स्थिति तनावपूर्ण हो गई। दोनों के बीच खूनी जंग शुरू हो गई है। ईरान ने दाग दी अमेरिकी एयरबेस पर बैलिस्टिक मिसाइल, बजने लगे सायरन।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -416,38 +488,38 @@
       }
     },
     {
-      "title": "तेहरान ने नाकाबंदी के बावजूद होर्मुज में किया दूसरे जहाज पर हमला,पाकिस्तान और सऊदी अरब हैरान",
-      "url": "https://www.patrika.com/world-news/us-iran-war-tehran-attacks-second-ship-in-hormuz-pakistan-saudi-arabia-stunned-20741083",
-      "source": "Patrika (World)",
+      "title": "ईरान में गिरीं 140 मिसाइलें, हर तरफ धुआं ही धुआं, शिया देश ने अमेरिकी ठिकानों पर बोला हमला",
+      "url": "https://hindi.news18.com/world/middle-east-us-iran-war-latest-update-hormuz-ship-attack-iran-retaliation-qatar-bahrain-uae-jordan-base-attack-10649848.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-12T07:04:53+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Tehran-Attacks-Second-Ship-in-Hormuz-1.webp",
-      "summary": "तेहरान ने नाकाबंदी के बावजूद होर्मुज में दूसरे जहाज पर हमला किया। पाकिस्तान और सऊदी अरब हैरान हैं। Tehran Attacks Second Ship in Hormuz: तेहरान ने नाकाबंदी के बावजूद 24 घंटों के दौरान होर्मुज में दूसरे जहाज पर हमला किया। ईरान के गार्डों ने है कि होर्मुज जलडमरूमध्य में दूसरे जहाज पर हमला हुआ है। जबकि अमेरिका ने ईरान के वेय्सियन के बाहरी इलाकों पर हवाई हमले किए।",
+      "published_at": "2026-07-12T05:20:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-attack-6-2026-07-4842871c59f1c32fab7331d61bfc1f6e-1200x800.jpg",
+      "summary": "ईरान ने अमेरिकी ठिकानों पर मिसाइल और ड्रोन हमले तेज करने का दावा किया है। होर्मुज स्ट्रेट में कंटेनर जहाज पर हमले के बाद अमेरिका ने ईरान पर हमला किया था। UAE, कतर और बहरीन में हाई अलर्ट जारी है। Iran Attack On US Bases: होर्मुज स्ट्रेट में कंटेनर जहाज पर हमले के बाद अमेरिका ने ईरान पर फिर हमला शुरू कर दिया है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "तेहरान ने नाकाबंदी के बावजूद होर्मुज में किया दूसरे जहाज पर हमला,पाकिस्तान और सऊदी अरब हैरान",
-          "summary": "तेहरान ने नाकाबंदी के बावजूद होर्मुज में दूसरे जहाज पर हमला किया। पाकिस्तान और सऊदी अरब हैरान हैं। Tehran Attacks Second Ship in Hormuz: तेहरान ने नाकाबंदी के बावजूद 24 घंटों के दौरान होर्मुज में दूसरे जहाज पर हमला किया। ईरान के गार्डों ने है कि होर्मुज जलडमरूमध्य में दूसरे जहाज पर हमला हुआ है। जबकि अमेरिका ने ईरान के वेय्सियन के बाहरी इलाकों पर हवाई हमले किए।",
+          "title": "ईरान में गिरीं 140 मिसाइलें, हर तरफ धुआं ही धुआं, शिया देश ने अमेरिकी ठिकानों पर बोला हमला",
+          "summary": "ईरान ने अमेरिकी ठिकानों पर मिसाइल और ड्रोन हमले तेज करने का दावा किया है। होर्मुज स्ट्रेट में कंटेनर जहाज पर हमले के बाद अमेरिका ने ईरान पर हमला किया था। UAE, कतर और बहरीन में हाई अलर्ट जारी है। Iran Attack On US Bases: होर्मुज स्ट्रेट में कंटेनर जहाज पर हमले के बाद अमेरिका ने ईरान पर फिर हमला शुरू कर दिया है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "बांग्लादेश के हाथ लगा अलादीन का चिराग, जगमग रहेगा पूरा मुल्क, शेख हसीना की मेहनत की फसल काटेंगे",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-found-aladdin-lamp-in-rooppur-nuclear-power-plant-tariq-rahman-will-reap-rewards-of-sheikh-hasina-work-10650247.html",
+      "title": "आस‍िम मुनीर कमांडर्स के साथ करते रहे बैठक, इधर शाहबाज शरीफ ने किया खेल, लाखों लोगों के लिए आफत",
+      "url": "https://hindi.news18.com/world/pakistan-air-fares-likely-to-increase-shehbaz-sharif-government-raise-jet-fuel-price-millions-will-impacted-asim-munir-10649791.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-12T06:58:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Sheikh-Hasina-Bangladesh-Return-2026-06-a7e271db07b747a3c426e90467dfbe92-1200x800.jpg",
-      "summary": "बांग्लादेश का रूपपुर परमाणु ऊर्जा संयंत्र 2028 तक पूरी तरह चालू होने पर देश की 15% बिजली जरूरत पूरी करेगा। Bangladesh Nuclear Power Plant: बांग्लादेश का 12.65 अरब डॉलर का रूपपुर परमाणु ऊर्जा संयंत्र 2028 तक पूरी तरह चालू होने के बाद देश की करीब 15% बिजली जरूरत अकेले पूरी करेगा. इस परियोजना की शुरुआत शेख हसीना सरकार में हुई थी, लेकिन इसका सबसे बड़ा फायदा मौजूदा प्रधानमंत्री तारिक रहमान की सरकार को मिलेगा.",
-      "region": "Europe & Russia",
+      "published_at": "2026-07-12T04:12:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-airlines-2026-07-2aa6961c08803a5b96a7007de73102e4-1200x800.jpg",
+      "summary": "ईरान ने एनर्जी कॉरिडोर होर्मुज स्‍ट्रेट को बंद करने का ऐलान कर दिया है। अमेरिकी फौज ने ईरान के विभिन्‍न हिस्‍सों में हमले किए हैं और ईरानी फौज ने पश्चिम एशिया में स्थित अमेरिकी सैन्‍य ठिकानों को निशाना बनाया है। Pakistan News: अमेरिका और ईरान के बीच जंग फिर से छिड़ गई है. दूसरी तरफ, तेहरान की तरफ से भी पश्चिम एशिया में स्थित अमेरिकी सैन्‍य ठिकानों को निशाना बनाया गया है.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बांग्लादेश के हाथ लगा अलादीन का चिराग, जगमग रहेगा पूरा मुल्क, शेख हसीना की मेहनत की फसल काटेंगे",
-          "summary": "बांग्लादेश का रूपपुर परमाणु ऊर्जा संयंत्र 2028 तक पूरी तरह चालू होने पर देश की 15% बिजली जरूरत पूरी करेगा। Bangladesh Nuclear Power Plant: बांग्लादेश का 12.65 अरब डॉलर का रूपपुर परमाणु ऊर्जा संयंत्र 2028 तक पूरी तरह चालू होने के बाद देश की करीब 15% बिजली जरूरत अकेले पूरी करेगा. इस परियोजना की शुरुआत शेख हसीना सरकार में हुई थी, लेकिन इसका सबसे बड़ा फायदा मौजूदा प्रधानमंत्री तारिक रहमान की सरकार को मिलेगा.",
-          "region": "यूरोप और रूस"
+          "title": "आस‍िम मुनीर कमांडर्स के साथ करते रहे बैठक, इधर शाहबाज शरीफ ने किया खेल, लाखों लोगों के लिए आफत",
+          "summary": "ईरान ने एनर्जी कॉरिडोर होर्मुज स्‍ट्रेट को बंद करने का ऐलान कर दिया है। अमेरिकी फौज ने ईरान के विभिन्‍न हिस्‍सों में हमले किए हैं और ईरानी फौज ने पश्चिम एशिया में स्थित अमेरिकी सैन्‍य ठिकानों को निशाना बनाया है। Pakistan News: अमेरिका और ईरान के बीच जंग फिर से छिड़ गई है. दूसरी तरफ, तेहरान की तरफ से भी पश्चिम एशिया में स्थित अमेरिकी सैन्‍य ठिकानों को निशाना बनाया गया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -470,20 +542,128 @@
       }
     },
     {
-      "title": "ईरान ने होर्मुज स्ट्रेट किया बंद, अमेरिका ने फिर शुरू किए हमले",
-      "url": "https://www.patrika.com/world-news/us-fresh-strikes-on-iran-after-irgc-attacks-cyprus-flagged-ship-in-hormuz-strait-20740481",
+      "title": "3 मिनट में पलटी स्पीडबोट, 15 भारतीयों की मौत; अब दोस्त का पार्थिव शरीर लेकर लौटेंगे’, जिंदा बचे",
+      "url": "https://www.patrika.com/world-news/vietnam-phu-quoc-speedboat-tragedy-15-indians-killed-survivor-recalls-horror-20740586",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-12T01:38:33+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-2.jpg",
-      "summary": "अमेरिका ने फिर से ईरान पर एयर स्ट्राइक की है, जिसका आरोप है कि यह हमले होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले कंटेनर जहाज पर हुए हमले के जवाब में किए गए हैं। ईरान ने होर्मुज स्ट्रेट को बंद करने का ऐलान किया है। US again attack on iran: अमेरिका और ईरान के बीच तनाव कम होने का नाम नहीं ले रहा है, जिसका असर वैश्विक स्तर पर कच्चे तेल की बढ़ती कीमतों में भी देखने को मिल रहा है।",
+      "published_at": "2026-07-12T02:45:30+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Phu-Quoc-speedboat-capsize.webp",
+      "summary": "वियतनाम के फू क्वोक द्वीप के पास शनिवार को एक स्पीडबोट पलट गई, जिसमें 15 भारतीय पर्यटकों की मौत हो गई। नाव में 36 लोग सवार थे और खराब मौसम के कारण यह हादसा हुआ। Vietnam Phu Quoc Boat Accident: वियतनाम के फू क्वोक द्वीप के पास शनिवार को एक हादसा हो गया, जिसमें 15 भारतीय पर्यटकों की मौत हो गई।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "3 मिनट में पलटी स्पीडबोट, 15 भारतीयों की मौत; अब दोस्त का पार्थिव शरीर लेकर लौटेंगे’, जिंदा बचे",
+          "summary": "वियतनाम के फू क्वोक द्वीप के पास शनिवार को एक स्पीडबोट पलट गई, जिसमें 15 भारतीय पर्यटकों की मौत हो गई। नाव में 36 लोग सवार थे और खराब मौसम के कारण यह हादसा हुआ। Vietnam Phu Quoc Boat Accident: वियतनाम के फू क्वोक द्वीप के पास शनिवार को एक हादसा हो गया, जिसमें 15 भारतीय पर्यटकों की मौत हो गई।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'हमारे विधायकों को दिया गया 20-30 करोड़ का ऑफर', उमर अब्दुल्ला के दावे पर आया BJP का रिएक्शन",
+      "url": "https://www.abplive.com/news/india/jammu-kashmir-cm-omar-abdullah-target-bjp-over-nc-mla-what-said-sudhanshu-trivedi-3158581",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-12T01:33:09+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/12/befbf05e79f70a7ecbe5d24986dc4eed17838193436951200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "बीजेपी ने जम्मू-कश्मीर के मुख्यमंत्री उमर अब्दुल्ला के बयान पर कड़ा पलटवार किया है, जिसमें उन्होंने कहा था कि बीजेपी नेशनल कॉन्फ्रेंस के विधायकों को खरीदने की कोशिश कर रही है। बीजेपी ने उनके आरोपों को गैर-जिम्मेदाराना और बेबुनियाद बताया है। बीजेपी ने जम्मू-कश्मीर के मुख्यमंत्री उमर अब्दुल्ला के उस बयान पर कड़ा पलटवार किया है, जिसमें उन्होंने कहा था कि बीजेपी नेशनल कॉन्फ्रेंस (NC) के विधायकों को खरीदने की कोशिश कर रही है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'हमारे विधायकों को दिया गया 20-30 करोड़ का ऑफर', उमर अब्दुल्ला के दावे पर आया BJP का रिएक्शन",
+          "summary": "बीजेपी ने जम्मू-कश्मीर के मुख्यमंत्री उमर अब्दुल्ला के बयान पर कड़ा पलटवार किया है, जिसमें उन्होंने कहा था कि बीजेपी नेशनल कॉन्फ्रेंस के विधायकों को खरीदने की कोशिश कर रही है। बीजेपी ने उनके आरोपों को गैर-जिम्मेदाराना और बेबुनियाद बताया है। बीजेपी ने जम्मू-कश्मीर के मुख्यमंत्री उमर अब्दुल्ला के उस बयान पर कड़ा पलटवार किया है, जिसमें उन्होंने कहा था कि बीजेपी नेशनल कॉन्फ्रेंस (NC) के विधायकों को खरीदने की कोशिश कर रही है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या आप मछली को 15 सेकेंड में ढूंढ सकते हैं? खोजने में लोगों के छूटे पसीने",
+      "url": "https://www.amarujala.com/photo-gallery/bizarre-news/optical-illusion-iq-test-brain-test-can-you-spot-fish-in-15-seconds-2026-07-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-12T01:31:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/optical-illusion-iq-test-brain-test-can-you-spot-fish-in-15-seconds_dbf6f63b9ce9bcc2a3941efc9247f8c2.jpeg?w=1200&dpr=1.0",
+      "summary": "एक तस्वीर में मछली को 15 सेकेंड में ढूंढने की चुनौती सोशल मीडिया पर वायरल हो रही है। लोग इस ऑप्टिकल इल्यूजन को सुलझाने में परेशान हो रहे हैं। तस्वीर में वस्तुएं आंखों के सामने होती हैं लेकिन नजर नहीं आती हैं। Optical Illusion: सोशल मीडिया पर अक्सर हमें क्विज और पजल देखने को मिलते हैं। इन तस्वीरों में छिपी वस्तुओं को खोजना होता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या आप मछली को 15 सेकेंड में ढूंढ सकते हैं? खोजने में लोगों के छूटे पसीने",
+          "summary": "एक तस्वीर में मछली को 15 सेकेंड में ढूंढने की चुनौती सोशल मीडिया पर वायरल हो रही है। लोग इस ऑप्टिकल इल्यूजन को सुलझाने में परेशान हो रहे हैं। तस्वीर में वस्तुएं आंखों के सामने होती हैं लेकिन नजर नहीं आती हैं। Optical Illusion: सोशल मीडिया पर अक्सर हमें क्विज और पजल देखने को मिलते हैं। इन तस्वीरों में छिपी वस्तुओं को खोजना होता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बेल्जियम से हार के बाद सेनेगल ने कोचिंग स्टाफ पर की कार्रवाई, पापे थियाव हटाए गए",
+      "url": "https://www.amarujala.com/sports/football/fifa-world-cup-2026-senegal-takes-action-against-coaching-staff-following-defeat-to-belgium-pape-thiaw-remove-2026-07-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-12T01:30:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/papa-thayava-hatae-gae_d3a987cbebdfe265037dc82058ea7de2.jpeg?w=1200&dpr=1.0",
+      "summary": "सेनेगल फुटबॉल फेडरेशन ने बेल्जियम से हार के बाद हेड कोच पापे थियाव और उनके टेक्निकल स्टाफ की सेवाएं समाप्त करने की प्रक्रिया शुरू कर दी है। यह कार्रवाई फीफा विश्व कप 2026 के राउंड ऑफ 32 में हार के बाद की गई। फीफा विश्व कप 2026 के राउंड ऑफ 32 में बेल्जियम से हारकर बाहर होने के बाद सेनेगल फुटबॉल फेडरेशन ने हेड कोच पापे थियाव और उनके पूरे टेक्निकल स्टाफ की सेवाएं समाप्त करने की प्रक्रिया शुरू कर दी है।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान ने होर्मुज स्ट्रेट किया बंद, अमेरिका ने फिर शुरू किए हमले",
-          "summary": "अमेरिका ने फिर से ईरान पर एयर स्ट्राइक की है, जिसका आरोप है कि यह हमले होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले कंटेनर जहाज पर हुए हमले के जवाब में किए गए हैं। ईरान ने होर्मुज स्ट्रेट को बंद करने का ऐलान किया है। US again attack on iran: अमेरिका और ईरान के बीच तनाव कम होने का नाम नहीं ले रहा है, जिसका असर वैश्विक स्तर पर कच्चे तेल की बढ़ती कीमतों में भी देखने को मिल रहा है।",
+          "title": "बेल्जियम से हार के बाद सेनेगल ने कोचिंग स्टाफ पर की कार्रवाई, पापे थियाव हटाए गए",
+          "summary": "सेनेगल फुटबॉल फेडरेशन ने बेल्जियम से हार के बाद हेड कोच पापे थियाव और उनके टेक्निकल स्टाफ की सेवाएं समाप्त करने की प्रक्रिया शुरू कर दी है। यह कार्रवाई फीफा विश्व कप 2026 के राउंड ऑफ 32 में हार के बाद की गई। फीफा विश्व कप 2026 के राउंड ऑफ 32 में बेल्जियम से हारकर बाहर होने के बाद सेनेगल फुटबॉल फेडरेशन ने हेड कोच पापे थियाव और उनके पूरे टेक्निकल स्टाफ की सेवाएं समाप्त करने की प्रक्रिया शुरू कर दी है।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "रवींद्रनाथ घोष ऋतब्रत बनर्जी वाले बागी गुट में शामिल, अभिषेक बनर्जी पर भड़के",
+      "url": "https://www.amarujala.com/video/india-news/tmc-split-rishabhnath-ghosh-joins-the-rebel-faction-led-by-ritabrata-banerjee-abhishek-banerjee-furious-2026-07-12",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-12T01:26:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/ravatharanatha-ghashha-ritabrata-banerjee-val-bga-gata-ma-shamal-rabindra-nath-ghosh-joins-ritabrata_e9d5bb5fd6c7c0503c8354f79ca9d762.jpeg?w=1200&dpr=1.0",
+      "summary": "पश्चिम बंगाल में तृणमूल कांग्रेस में अंदरूनी कलह बढ़ रही है। रवींद्रनाथ घोष ऋतब्रत बनर्जी के बागी गुट में शामिल हो गए हैं। अभिषेक बनर्जी पर हमला हुआ है। विधानसभा चुनाव में हार के बाद पार्टी में टूट तेज हो गई है। पश्चिम बंगाल में तृणमूल कांग्रेस (टीएमसी) की अंदरूनी कलह थमती नजर नहीं आ रही है। विधानसभा चुनाव में हार के बाद पार्टी में टूट और तेज हो गई है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रवींद्रनाथ घोष ऋतब्रत बनर्जी वाले बागी गुट में शामिल, अभिषेक बनर्जी पर भड़के",
+          "summary": "पश्चिम बंगाल में तृणमूल कांग्रेस में अंदरूनी कलह बढ़ रही है। रवींद्रनाथ घोष ऋतब्रत बनर्जी के बागी गुट में शामिल हो गए हैं। अभिषेक बनर्जी पर हमला हुआ है। विधानसभा चुनाव में हार के बाद पार्टी में टूट तेज हो गई है। पश्चिम बंगाल में तृणमूल कांग्रेस (टीएमसी) की अंदरूनी कलह थमती नजर नहीं आ रही है। विधानसभा चुनाव में हार के बाद पार्टी में टूट और तेज हो गई है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ऐसा क्यों बोले थे डॉक्टर मनमोहन सिंह? पूर्व CEC कुरैशी की किताब में बड़ा खुलासा",
+      "url": "https://www.amarujala.com/india-news/manmohan-singh-told-former-cec-quraishi-i-will-commit-suicide-over-ministers-loose-talk-in-2012-2026-07-12",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-12T01:25:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/parava-saiisa-ka-katab-ma-bugdha-thava_c29aebf3c6fae1c47df0b259c1ca3c9d.jpeg?w=1200&dpr=1.0",
+      "summary": "पूर्व CEC कुरैशी की किताब में खुलासा हुआ है कि डॉक्टर मनमोहन सिंह ने एक बार कहा था कि वह आत्महत्या कर लेंगे। यह बयान उन्होंने एक विशेष परिस्थिति में दिया था। 'मैं आत्महत्या कर लूंगा ': ऐसा क्यों बोले थे डॉक्टर मनमोहन सिंह? पूर्व CEC कुरैशी की किताब में बड़ा खुलासा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ऐसा क्यों बोले थे डॉक्टर मनमोहन सिंह? पूर्व CEC कुरैशी की किताब में बड़ा खुलासा",
+          "summary": "पूर्व CEC कुरैशी की किताब में खुलासा हुआ है कि डॉक्टर मनमोहन सिंह ने एक बार कहा था कि वह आत्महत्या कर लेंगे। यह बयान उन्होंने एक विशेष परिस्थिति में दिया था। 'मैं आत्महत्या कर लूंगा ': ऐसा क्यों बोले थे डॉक्टर मनमोहन सिंह? पूर्व CEC कुरैशी की किताब में बड़ा खुलासा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या 'धमाल 4' को मिला रविवार का फायदा? तीन दिनों में 50 करोड़ पार हुई कमाई; जानें कुल कलेक्शन",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/dhamaal-4-box-office-collection-on-day-3-know-total-earning-of-ajay-devgn-film-2026-07-12",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-12T01:25:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/thhamal-4_a4662f6a112be7417554868653cc9fd3.jpeg?w=1200&dpr=1.0",
+      "summary": "अजय देवगन की फिल्म 'धमाल 4' ने तीन दिनों में 50 करोड़ रुपये से अधिक की कमाई कर ली है। फिल्म ने रविवार को अच्छा प्रदर्शन किया और इसकी कमाई में इजाफा हुआ। अजय देवगन की अदाकारी वाली फिल्म ‘धमाल 4’ ने सिनेमाघरों में धमाल मचाया हुआ है। क्या 'धमाल 4' को मिला रविवार का फायदा? तीन दिनों में 50 करोड़ पार हुई कमाई; जानें कुल कलेक्शन।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या 'धमाल 4' को मिला रविवार का फायदा? तीन दिनों में 50 करोड़ पार हुई कमाई; जानें कुल कलेक्शन",
+          "summary": "अजय देवगन की फिल्म 'धमाल 4' ने तीन दिनों में 50 करोड़ रुपये से अधिक की कमाई कर ली है। फिल्म ने रविवार को अच्छा प्रदर्शन किया और इसकी कमाई में इजाफा हुआ। अजय देवगन की अदाकारी वाली फिल्म ‘धमाल 4’ ने सिनेमाघरों में धमाल मचाया हुआ है। क्या 'धमाल 4' को मिला रविवार का फायदा? तीन दिनों में 50 करोड़ पार हुई कमाई; जानें कुल कलेक्शन।",
+          "region": "दुनिया"
         }
       }
     },
@@ -506,20 +686,20 @@
       }
     },
     {
-      "title": "पंचतत्व में विलीन हुईं एस जानकी, पोती ने दी मुखाग्नि; पीएम मोदी ने दी श्रद्धांजलि",
-      "url": "https://www.amarujala.com/entertainment/south-cinema/s-janaki-funeral-and-last-rites-updates-pm-narendra-modi-condolences-on-veteran-singer-death-2026-07-12",
-      "source": "Amar Ujala National",
+      "title": "टेस्ट टीम के मुख्य कोच पद से इस्तीफा देंगे मैकुलम, जानें इंग्लैंड बोर्ड ने क्या एलान किया",
+      "url": "https://www.amarujala.com/cricket/cricket-news/brendon-mccullum-to-step-down-as-england-test-coach-continue-in-white-ball-role-know-details-2026-07-12",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-12T01:15:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/rajakaya-samamana-sa-haga-esajanaka-ka-atama-vathaii_4d221d7f1404365aaa0c7278a93f2735.jpeg?w=1200&dpr=1.0",
-      "summary": "दिग्गज गायिका एस. जानकी का राजकीय सम्मान के साथ अंतिम संस्कार कर दिया गया. उन्हें पोती ने मुखाग्नि दी. प्रधानमंत्री नरेंद्र मोदी ने सोशल मीडिया के जरिए गायिका को श्रद्धांजलि दी. Singer S. सोशल मीडिया के जरिए प्रधानमंत्री नरेंद्र मोदी ने भी गायिका को श्रद्धांजलि दी थी। पंचतत्व में विलीन हुईं एस जानकी, पोती ने दी मुखाग्नि; पीएम मोदी ने दी श्रद्धांजलि।",
-      "region": "World",
+      "published_at": "2026-07-12T01:05:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/14/england-cricket-team-marcus-north-england-test-squad-ben-stokes-ashes-2026-england-vs-new-zeal_15c7d3e5c8f7be5f24502215187bc535.jpeg?w=1200&dpr=1.0",
+      "summary": "ब्रेंडन मैकुलम इंग्लैंड की टेस्ट टीम के हेड कोच पद से इस्तीफा देंगे. वह वनडे और टी20 टीमों के मुख्य कोच बने रहेंगे. ईसीबी जल्द इसकी आधिकारिक घोषणा कर सकता है. टेस्ट टीम के मुख्य कोच पद से इस्तीफा देंगे मैकुलम, जानें इंग्लैंड बोर्ड ने क्या एलान किया।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पंचतत्व में विलीन हुईं एस जानकी, पोती ने दी मुखाग्नि; पीएम मोदी ने दी श्रद्धांजलि",
-          "summary": "दिग्गज गायिका एस. जानकी का राजकीय सम्मान के साथ अंतिम संस्कार कर दिया गया. उन्हें पोती ने मुखाग्नि दी. प्रधानमंत्री नरेंद्र मोदी ने सोशल मीडिया के जरिए गायिका को श्रद्धांजलि दी. Singer S. सोशल मीडिया के जरिए प्रधानमंत्री नरेंद्र मोदी ने भी गायिका को श्रद्धांजलि दी थी। पंचतत्व में विलीन हुईं एस जानकी, पोती ने दी मुखाग्नि; पीएम मोदी ने दी श्रद्धांजलि।",
-          "region": "दुनिया"
+          "title": "टेस्ट टीम के मुख्य कोच पद से इस्तीफा देंगे मैकुलम, जानें इंग्लैंड बोर्ड ने क्या एलान किया",
+          "summary": "ब्रेंडन मैकुलम इंग्लैंड की टेस्ट टीम के हेड कोच पद से इस्तीफा देंगे. वह वनडे और टी20 टीमों के मुख्य कोच बने रहेंगे. ईसीबी जल्द इसकी आधिकारिक घोषणा कर सकता है. टेस्ट टीम के मुख्य कोच पद से इस्तीफा देंगे मैकुलम, जानें इंग्लैंड बोर्ड ने क्या एलान किया।",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -542,218 +722,38 @@
       }
     },
     {
-      "title": "वियतनाम में क्यों डूबी भारतीय पर्यटकों की नाव?: 15 मौतों के बाद कप्तान गिरफ्तार, जांच में खुलेंगे",
-      "url": "https://www.amarujala.com/world/vietnam-phu-quoc-boat-tragedy-indian-tourists-captain-arrested-investigation-2026-07-12",
+      "title": "उत्तराखंड में 91 सड़कें बंद, कश्मीर में क्लाउडबर्स्ट; हिमाचल में भारी बारिश का अलर्ट",
+      "url": "https://www.amarujala.com/delhi-ncr/monsoon-91-roads-closed-in-uttarakhand-cloudburst-in-kashmir-heavy-rain-alert-for-himachal-2026-07-12",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-12T00:34:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/vayatanama-nava-hathasa_5bcd9e8b9f60e8d717ce9f2be043647c.jpeg?w=1200&dpr=1.0",
-      "summary": "वियतनाम में भारतीय पर्यटकों की नाव डूबने से 15 लोगों की मौत हो गई. कप्तान को गिरफ्तार कर लिया गया है और जांच में हादसे के कारणों का पता लगाया जाएगा. वियतनाम में क्यों डूबी भारतीय पर्यटकों की नाव?: 15 मौतों के बाद कप्तान गिरफ्तार, जांच में खुलेंगे।",
+      "published_at": "2026-07-12T00:46:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/pahaugdha-para-brasha-sa-bgaugdha-halta_f1c43a9f46aab2403b5ff12e2116550e.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर भारत के पहाड़ी राज्यों में मानसून और प्राकृतिक आपदाओं की दोहरी मार है. उत्तराखंड में 91 सड़कें बंद हैं, कश्मीर में क्लाउडबर्स्ट हुआ है. हिमाचल में भारी बारिश का अलर्ट जारी किया गया है. उत्तर भारत के पहाड़ी राज्य इस समय मानसून और प्राकृतिक आपदाओं की दोहरी मार झेल रहे हैं। हिमाचल प्रदेश, उत्तराखंड और जम्मू-कश्मीर (घाटी) में भारी बारिश, भूस्खलन और बादल फटने की घटनाओं ने जनजीवन को पूरी तरह अस्त-व्यस्त कर दिया है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वियतनाम में क्यों डूबी भारतीय पर्यटकों की नाव?: 15 मौतों के बाद कप्तान गिरफ्तार, जांच में खुलेंगे",
-          "summary": "वियतनाम में भारतीय पर्यटकों की नाव डूबने से 15 लोगों की मौत हो गई. कप्तान को गिरफ्तार कर लिया गया है और जांच में हादसे के कारणों का पता लगाया जाएगा. वियतनाम में क्यों डूबी भारतीय पर्यटकों की नाव?: 15 मौतों के बाद कप्तान गिरफ्तार, जांच में खुलेंगे।",
+          "title": "उत्तराखंड में 91 सड़कें बंद, कश्मीर में क्लाउडबर्स्ट; हिमाचल में भारी बारिश का अलर्ट",
+          "summary": "उत्तर भारत के पहाड़ी राज्यों में मानसून और प्राकृतिक आपदाओं की दोहरी मार है. उत्तराखंड में 91 सड़कें बंद हैं, कश्मीर में क्लाउडबर्स्ट हुआ है. हिमाचल में भारी बारिश का अलर्ट जारी किया गया है. उत्तर भारत के पहाड़ी राज्य इस समय मानसून और प्राकृतिक आपदाओं की दोहरी मार झेल रहे हैं। हिमाचल प्रदेश, उत्तराखंड और जम्मू-कश्मीर (घाटी) में भारी बारिश, भूस्खलन और बादल फटने की घटनाओं ने जनजीवन को पूरी तरह अस्त-व्यस्त कर दिया है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "अमेरिका ने फिर शुरू किए हमले: बमबारी से दहला ईरान, होर्मुज में जहाज पर आईआरजीसी के हमले का बताया",
-      "url": "https://www.amarujala.com/world/us-central-command-launches-massive-strikes-on-iran-following-ship-attack-tensions-escalate-between-us-iran-2026-07-12",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-12T00:22:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/amaraka-iirana-yathathha_50e9770acf59313c270e35f33c399d45.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका ने ईरान पर हमले शुरू किए हैं जिसमें होर्मुज में जहाज पर आईआरजीसी के हमले का जवाब दिया गया। अमेरिका ने फिर शुरू किए हमले: बमबारी से दहला ईरान, होर्मुज में जहाज पर आईआरजीसी के हमले का बताया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका ने फिर शुरू किए हमले: बमबारी से दहला ईरान, होर्मुज में जहाज पर आईआरजीसी के हमले का बताया",
-          "summary": "अमेरिका ने ईरान पर हमले शुरू किए हैं जिसमें होर्मुज में जहाज पर आईआरजीसी के हमले का जवाब दिया गया। अमेरिका ने फिर शुरू किए हमले: बमबारी से दहला ईरान, होर्मुज में जहाज पर आईआरजीसी के हमले का बताया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "विस्थापित-वंचित कश्मीरी महिलाओं के सशक्तीकरण को मान्यता, हेमअथ NGO विश्व मंच पर बुलंद करेगा आवाज",
-      "url": "https://www.amarujala.com/world/un-ecosoc-special-consultative-status-hemath-inc-kashmiri-women-empowerment-2026-07-12",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-11T23:46:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/14/un-humanitarian-chief-blasts-israel-for-deliberately-blocking-aid-to-gaza_8cf1e3b238e1400bdfe88c34736aa956.jpeg?w=1200&dpr=1.0",
-      "summary": "हेमअथ NGO को UN-ECOSOC की विशेष सलाहकार स्थिति मिली है। यह NGO विस्थापित-वंचित कश्मीरी महिलाओं के सशक्तीकरण के लिए काम करता है। यह NGO विश्व मंच पर इन महिलाओं की आवाज बुलंद करेगा। विस्थापित-वंचित कश्मीरी महिलाओं के सशक्तीकरण को मान्यता, हेमअथ NGO विश्व मंच पर बुलंद करेगा आवाज।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विस्थापित-वंचित कश्मीरी महिलाओं के सशक्तीकरण को मान्यता, हेमअथ NGO विश्व मंच पर बुलंद करेगा आवाज",
-          "summary": "हेमअथ NGO को UN-ECOSOC की विशेष सलाहकार स्थिति मिली है। यह NGO विस्थापित-वंचित कश्मीरी महिलाओं के सशक्तीकरण के लिए काम करता है। यह NGO विश्व मंच पर इन महिलाओं की आवाज बुलंद करेगा। विस्थापित-वंचित कश्मीरी महिलाओं के सशक्तीकरण को मान्यता, हेमअथ NGO विश्व मंच पर बुलंद करेगा आवाज।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या ईरान ने फिर बंद किया होर्मुज?: IRGC ने जहाज पर दागी गोलियां, नौसेना बोली- गुजरने की नहीं देंगे",
-      "url": "https://www.amarujala.com/world/iran-irgc-temporarily-closes-strait-of-hormuz-after-firing-warning-shot-at-vessel-west-asia-crisis-2026-07-12",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-11T23:29:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/irgc_3c6834264d60da6fc8d711e9c966878c.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान के रिवोल्यूशनरी गार्ड ने एक जहाज पर गोलियां दागीं और दावा किया कि यह एक चेतावनी थी. ईरान ने होर्मुज जलडमरूमध्य को अस्थायी रूप से बंद कर दिया. यह घटना पश्चिम एशिया में तनाव के बीच हुई. क्या ईरान ने फिर बंद किया होर्मुज?: IRGC ने जहाज पर दागी गोलियां, नौसेना बोली- गुजरने की नहीं देंगे।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या ईरान ने फिर बंद किया होर्मुज?: IRGC ने जहाज पर दागी गोलियां, नौसेना बोली- गुजरने की नहीं देंगे",
-          "summary": "ईरान के रिवोल्यूशनरी गार्ड ने एक जहाज पर गोलियां दागीं और दावा किया कि यह एक चेतावनी थी. ईरान ने होर्मुज जलडमरूमध्य को अस्थायी रूप से बंद कर दिया. यह घटना पश्चिम एशिया में तनाव के बीच हुई. क्या ईरान ने फिर बंद किया होर्मुज?: IRGC ने जहाज पर दागी गोलियां, नौसेना बोली- गुजरने की नहीं देंगे।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी बमबारी के बाद खाड़ी देशों में ईरान के हमले; IRGC ने कहा- माननी पड़ेंगी शर्तें",
-      "url": "https://www.amarujala.com/live/world/west-asia-live-updates-us-iran-attacks-strait-of-hormuz-israel-lebanon-2026-07-12",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-11T21:53:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/05/west-asia-crisis-live-us-iran-israel-war-us-army-irgc-turkiye-war-updates-and-news-in-hindi_34ff071661b77bc0a3c3bc30a50d9034.gif?w=1200&dpr=1.0",
-      "summary": "अमेरिकी बमबारी के बाद ईरान ने खाड़ी देशों पर हमला किया है। IRGC ने कहा है कि उनकी शर्तें माननी पड़ेंगी। ईरान और खाड़ी देशों के बीच तनाव बढ़ गया है। इस हमले से क्षेत्र में स्थिति और खराब हो सकती है। West Asia LIVE: अमेरिकी बमबारी के बाद खाड़ी देशों में ईरान के हमले; IRGC ने कहा- माननी पड़ेंगी शर्तें।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी बमबारी के बाद खाड़ी देशों में ईरान के हमले; IRGC ने कहा- माननी पड़ेंगी शर्तें",
-          "summary": "अमेरिकी बमबारी के बाद ईरान ने खाड़ी देशों पर हमला किया है। IRGC ने कहा है कि उनकी शर्तें माननी पड़ेंगी। ईरान और खाड़ी देशों के बीच तनाव बढ़ गया है। इस हमले से क्षेत्र में स्थिति और खराब हो सकती है। West Asia LIVE: अमेरिकी बमबारी के बाद खाड़ी देशों में ईरान के हमले; IRGC ने कहा- माननी पड़ेंगी शर्तें।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कोई रेलवे स्टेशन पर पहन रहा वरमाला, कोई समुद्र में कर रहा शादी",
-      "url": "https://www.patrika.com/world-news/experience-wedding-trend-growing-among-people-20740442",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-11T21:40:40+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/experience-wedding-under-sea.webp",
-      "summary": "नई पीढ़ी शादी को यादगार बनाने के लिए अनोखे और अतरंगी तरीके ढूंढ रही है. लोग रेलवे स्टेशन पर वरमाला पहन रहे हैं, समुद्र में शादी कर रहे हैं, हवा में उड़ते गुब्बारे में शादी कर रहे हैं, और बर्फ की गुफा या जंगल के बीच मंडप सजा रहे हैं. एक समय था जब शादी का मतलब घर का आंगन, धर्मशाला, होटल या बैंक्वेट हॉल होता था।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कोई रेलवे स्टेशन पर पहन रहा वरमाला, कोई समुद्र में कर रहा शादी",
-          "summary": "नई पीढ़ी शादी को यादगार बनाने के लिए अनोखे और अतरंगी तरीके ढूंढ रही है. लोग रेलवे स्टेशन पर वरमाला पहन रहे हैं, समुद्र में शादी कर रहे हैं, हवा में उड़ते गुब्बारे में शादी कर रहे हैं, और बर्फ की गुफा या जंगल के बीच मंडप सजा रहे हैं. एक समय था जब शादी का मतलब घर का आंगन, धर्मशाला, होटल या बैंक्वेट हॉल होता था।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दक्षिण चीन सागर में किसका हक?: ड्रैगन के दावों पर 14 देशों और EU ने जताई आपत्ति; बीजिंग ने क्या कहा?",
-      "url": "https://www.amarujala.com/world/14-nations-eu-reaffirm-2016-ruling-invalidating-china-s-claims-in-south-china-sea-2026-07-12",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-11T21:29:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/south-china-sea_e5666aa189731ec95703c553f4f97a74.jpeg?w=1200&dpr=1.0",
-      "summary": "दक्षिण चीन सागर में चीन के दावों पर 14 देशों और यूरोपीय संघ ने आपत्ति जताई है। बीजिंग ने इस पर कोई टिप्पणी नहीं की है। यह मुद्दा क्षेत्रीय सुरक्षा से संबंधित है। दक्षिण चीन सागर में किसका हक?: ड्रैगन के दावों पर 14 देशों और EU ने जताई आपत्ति; बीजिंग ने क्या कहा?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दक्षिण चीन सागर में किसका हक?: ड्रैगन के दावों पर 14 देशों और EU ने जताई आपत्ति; बीजिंग ने क्या कहा?",
-          "summary": "दक्षिण चीन सागर में चीन के दावों पर 14 देशों और यूरोपीय संघ ने आपत्ति जताई है। बीजिंग ने इस पर कोई टिप्पणी नहीं की है। यह मुद्दा क्षेत्रीय सुरक्षा से संबंधित है। दक्षिण चीन सागर में किसका हक?: ड्रैगन के दावों पर 14 देशों और EU ने जताई आपत्ति; बीजिंग ने क्या कहा?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "उद्घाटन के 3 महीने बाद SIT क्यों करेगी दिल्ली-देहरादून एक्सप्रेस-वे की जांच, कहां-कितने गंभीर हालात",
-      "url": "https://www.amarujala.com/india-news/delhi-dehradun-expressway-potholes-cracks-sit-investigation-monsoon-rains-nhai-audit-conducts-explained-news-2026-07-12",
+      "title": "तमिल एक्टर आर्या के खिलाफ पुलिस में शिकायत दर्ज, करोड़ों रुपये का बकाया न चुकाने का आरोप; जानें",
+      "url": "https://www.amarujala.com/entertainment/south-cinema/tamil-actor-arya-booked-over-alleged-rs-1-8-cr-equipment-hire-dues-2026-07-12",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-11T20:45:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/delhi-dehradun-expressway-delhi-dehradun-eway_e319f8b1d924ce3e7a1d0368a9d5b735.jpeg?w=1200&dpr=1.0",
-      "summary": "एनएचएआई ने दिल्ली-देहरादून एक्सप्रेस-वे पर गड्ढे और मिट्टी कटान के मामलों की जांच के लिए एसआईटी गठित किया है। जांच दल ने एक्सप्रेस-वे के नमूने लेना शुरू कर दिया है। यह जांच उद्घाटन के 3 महीने बाद की जा रही है। बारिश में दिल्ली-देहरादून एक्सप्रेस-वे धंसने, किनारों पर मिट्टी कटान होने से गड्ढे होने के मामलों पर एनएचएआई ने एसआईटी (विशेष जांच दल) गठित किया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उद्घाटन के 3 महीने बाद SIT क्यों करेगी दिल्ली-देहरादून एक्सप्रेस-वे की जांच, कहां-कितने गंभीर हालात",
-          "summary": "एनएचएआई ने दिल्ली-देहरादून एक्सप्रेस-वे पर गड्ढे और मिट्टी कटान के मामलों की जांच के लिए एसआईटी गठित किया है। जांच दल ने एक्सप्रेस-वे के नमूने लेना शुरू कर दिया है। यह जांच उद्घाटन के 3 महीने बाद की जा रही है। बारिश में दिल्ली-देहरादून एक्सप्रेस-वे धंसने, किनारों पर मिट्टी कटान होने से गड्ढे होने के मामलों पर एनएचएआई ने एसआईटी (विशेष जांच दल) गठित किया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बागियों को नहीं मना पाए बघेल, 12 विधायकों और तीन सांसदों के साथ पूर्व सीएम ने दिखाई ताकत",
-      "url": "https://www.amarujala.com/haryana/chandigarh-haryana/punjab-congress-rift-deepens-bhupesh-baghel-fails-to-placate-rebels-charanjit-channi-camp-shows-strength-2026-07-12",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-11T20:19:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/punjab-congress_e07ca1eeb71bde9383dc50982a9c89ad.jpeg?w=1200&dpr=1.0",
-      "summary": "पंजाब कांग्रेस में बगावत बढ़ रही है। पूर्व मुख्यमंत्री चन्नी के समर्थक 12 विधायकों और 3 सांसदों के साथ सामने आए। उन्होंने चंडीगढ़ में कांग्रेस प्रभारी भूपेश बघेल के सामने शक्ति प्रदर्शन किया। पंजाब कांग्रेस में बगावत के सुर और तेज हो गए हैं। मोरिंडा के बाद पूर्व मुख्यमंत्री चन्नी गुट के नाराज नेताओं ने शनिवार को चंडीगढ़ में ऑल इंडिया कांग्रेस कमेटी के महासचिव एवं पंजाब कांग्रेस के प्रभारी भूपेश बघेल के सामने शक्ति प्रदर्शन किया।",
+      "published_at": "2026-07-12T00:40:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/12/tamal-abhanata-aaraya_d4a6382063237cdb145242fb99381ff7.jpeg?w=1200&dpr=1.0",
+      "summary": "तमिल एक्टर आर्या के खिलाफ पुलिस में शिकायत दर्ज हुई है. उन पर 1.8 करोड़ रुपये से ज्यादा रकम का बकाया न चुकाने का आरोप है. यह शिकायत पुलिस में दर्ज की गई है. तमिल सिनेमा के अभिनेता आर्या एक बड़ी मुश्किल में फंस गए हैं, उन पर 1.8 करोड़ रुपये से ज्यादा रकम का बकाया ना चुकाने का आरोप लगा है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बागियों को नहीं मना पाए बघेल, 12 विधायकों और तीन सांसदों के साथ पूर्व सीएम ने दिखाई ताकत",
-          "summary": "पंजाब कांग्रेस में बगावत बढ़ रही है। पूर्व मुख्यमंत्री चन्नी के समर्थक 12 विधायकों और 3 सांसदों के साथ सामने आए। उन्होंने चंडीगढ़ में कांग्रेस प्रभारी भूपेश बघेल के सामने शक्ति प्रदर्शन किया। पंजाब कांग्रेस में बगावत के सुर और तेज हो गए हैं। मोरिंडा के बाद पूर्व मुख्यमंत्री चन्नी गुट के नाराज नेताओं ने शनिवार को चंडीगढ़ में ऑल इंडिया कांग्रेस कमेटी के महासचिव एवं पंजाब कांग्रेस के प्रभारी भूपेश बघेल के सामने शक्ति प्रदर्शन किया।",
+          "title": "तमिल एक्टर आर्या के खिलाफ पुलिस में शिकायत दर्ज, करोड़ों रुपये का बकाया न चुकाने का आरोप; जानें",
+          "summary": "तमिल एक्टर आर्या के खिलाफ पुलिस में शिकायत दर्ज हुई है. उन पर 1.8 करोड़ रुपये से ज्यादा रकम का बकाया न चुकाने का आरोप है. यह शिकायत पुलिस में दर्ज की गई है. तमिल सिनेमा के अभिनेता आर्या एक बड़ी मुश्किल में फंस गए हैं, उन पर 1.8 करोड़ रुपये से ज्यादा रकम का बकाया ना चुकाने का आरोप लगा है।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "छह हत्याओं में शाबाद CI सस्पेंड! आरोपियों की गिरफ्तारी पर दो लाख रुपये का इनाम",
-      "url": "https://www.abplive.com/news/india/telangana-police-suspend-shabad-ci-after-six-people-killed-due-to-negligance-search-operation-continues-ann-3158532",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-11T19:10:50+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/11/b2a76859543d69cf0639b383e2ad095b17837861126831126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तेलंगाना के शाबाद में 6 हत्याओं के मामले में CI को निलंबित कर दिया गया। आरोपियों की गिरफ्तारी पर 2 लाख रुपये का इनाम रखा गया है। पीड़ित के परिजनों ने पुलिस पर मामले को रफा-दफा करने का आरोप लगाया। तेलंगाना के रंगारेड्डी जिले के शाबाद पुलिस स्टेशन के अधिकार क्षेत्र में हुई सबसे अमानवीय घटना में पुलिस के व्यवहार पर शुरू से ही शक जताया जा रहा है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "छह हत्याओं में शाबाद CI सस्पेंड! आरोपियों की गिरफ्तारी पर दो लाख रुपये का इनाम",
-          "summary": "तेलंगाना के शाबाद में 6 हत्याओं के मामले में CI को निलंबित कर दिया गया। आरोपियों की गिरफ्तारी पर 2 लाख रुपये का इनाम रखा गया है। पीड़ित के परिजनों ने पुलिस पर मामले को रफा-दफा करने का आरोप लगाया। तेलंगाना के रंगारेड्डी जिले के शाबाद पुलिस स्टेशन के अधिकार क्षेत्र में हुई सबसे अमानवीय घटना में पुलिस के व्यवहार पर शुरू से ही शक जताया जा रहा है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कोलकाता एयरपोर्ट पर रनवे के नजदीक स्थित मस्जिद में नमाजियों की एंट्री पर रोक, जानें क्या है मामला?",
-      "url": "https://www.abplive.com/news/india/authorities-ban-entry-of-muslim-people-in-mosque-situated-near-runway-2-of-kolkata-airport-3158558",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-11T18:20:20+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/11/8cdeaca679b28e4b3f3d1bafe897c1e217837936485501126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कोलकाता एयरपोर्ट पर रनवे के पास स्थित गौरीपुर जामा मस्जिद में मरम्मत कार्य के कारण 3 दिनों के लिए नमाज पर रोक लगा दी गई। मस्जिद 130 साल से ज्यादा पुरानी है और रनवे-2 से कुछ सौ मीटर की दूरी पर स्थित है। पश्चिम बंगाल में नेताजी सुभाष चंद्र बोस इंटरनेशनल एयरपोर्ट के परिसर में स्थित 130 साल से ज्यादा पुरानी गौरीपुर जामा मस्जिद में मरम्मत कार्य की वजह से शनिवार (11 जुलाई, 2026) से लेकर अगले तीन दिनों के लिए नमाज अदा करने पर रोक लगा दी गई है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कोलकाता एयरपोर्ट पर रनवे के नजदीक स्थित मस्जिद में नमाजियों की एंट्री पर रोक, जानें क्या है मामला?",
-          "summary": "कोलकाता एयरपोर्ट पर रनवे के पास स्थित गौरीपुर जामा मस्जिद में मरम्मत कार्य के कारण 3 दिनों के लिए नमाज पर रोक लगा दी गई। मस्जिद 130 साल से ज्यादा पुरानी है और रनवे-2 से कुछ सौ मीटर की दूरी पर स्थित है। पश्चिम बंगाल में नेताजी सुभाष चंद्र बोस इंटरनेशनल एयरपोर्ट के परिसर में स्थित 130 साल से ज्यादा पुरानी गौरीपुर जामा मस्जिद में मरम्मत कार्य की वजह से शनिवार (11 जुलाई, 2026) से लेकर अगले तीन दिनों के लिए नमाज अदा करने पर रोक लगा दी गई है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "वियतनाम के हरे-नीले पानी ने कैसे ली 15 भारतीयों की जान? चश्मदीदों ने क्या बताया? जानिए इनसाइड स्टोरी",
-      "url": "https://www.abplive.com/news/world/vietnam-iland-phu-quoc-island-speed-boat-incident-snatch-lives-15-indians-eyewitnesses-reveal-read-inside-story-3158556",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-07-11T17:59:43+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/11/9a7fe62b4d3deb57bd3af305fe9283c517837921863141324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "वियतनाम के फु क्वोक आइलैंड पर 15 भारतीयों की मौत हो गई जब उनकी स्पीडबोट खराब मौसम में पलट गई। 32 पर्यटकों को ले जा रही बोट मे रुट आइलैंड से फु क्वोक आइलैंड के एन थोई पोर्ट जा रही थी। वियतनाम के फु क्वोक आइलैंड पर हुए हादसे ने पूरे भारत को स्तब्ध कर दिया है. यह दिन भारतीय टूरिस्टों के लिए बेहद ही दर्दनाक रहा.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वियतनाम के हरे-नीले पानी ने कैसे ली 15 भारतीयों की जान? चश्मदीदों ने क्या बताया? जानिए इनसाइड स्टोरी",
-          "summary": "वियतनाम के फु क्वोक आइलैंड पर 15 भारतीयों की मौत हो गई जब उनकी स्पीडबोट खराब मौसम में पलट गई। 32 पर्यटकों को ले जा रही बोट मे रुट आइलैंड से फु क्वोक आइलैंड के एन थोई पोर्ट जा रही थी। वियतनाम के फु क्वोक आइलैंड पर हुए हादसे ने पूरे भारत को स्तब्ध कर दिया है. यह दिन भारतीय टूरिस्टों के लिए बेहद ही दर्दनाक रहा.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
