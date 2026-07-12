@@ -356,7 +356,12 @@ def archive_newsletter(cfg: dict, display_tz, language: str = "en") -> list[dict
 def time_ago(iso: str, language: str = "en") -> str:
     """Return a human-readable 'X ago' string."""
     try:
-        dt  = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        try:
+            dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        except (ValueError, AttributeError):
+            # Crisis Group / Drupal: "Tuesday, June 30, 2026 - 15:20"
+            dt = datetime.strptime(iso, "%A, %B %d, %Y - %H:%M")
+            dt = dt.replace(tzinfo=timezone.utc)
         now = datetime.now(timezone.utc)
         diff = int((now - dt).total_seconds())
         if diff < 60:
