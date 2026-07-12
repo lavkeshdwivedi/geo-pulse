@@ -235,6 +235,24 @@ def _matches_language(title: str, lang: str) -> bool:
     return True
 
 
+def _normalize_date(raw: str) -> str:
+    """Normalize a feed date string to ISO format where possible.
+
+    feedparser leaves dates it cannot parse as raw strings (e.g. Crisis Group
+    uses "Tuesday, June 30, 2026 - 15:20"). Convert known formats to ISO so
+    downstream consumers always see a parseable value.
+    """
+    if not raw:
+        return raw
+    # Crisis Group / Drupal: "Tuesday, June 30, 2026 - 15:20"
+    try:
+        dt = datetime.strptime(raw, "%A, %B %d, %Y - %H:%M")
+        return dt.replace(tzinfo=timezone.utc).isoformat()
+    except ValueError:
+        pass
+    return raw
+
+
 def _safe_url(url: str) -> str:
     """Return a log-safe version of *url* with sensitive query params redacted."""
     from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
@@ -684,9 +702,9 @@ def _fetch_one_feed(
                     dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
                     published_at = dt.isoformat()
                 except Exception:
-                    published_at = entry.get("published", "")
+                    published_at = _normalize_date(entry.get("published", ""))
             else:
-                published_at = entry.get("published", "")
+                published_at = _normalize_date(entry.get("published", ""))
 
             rss_image = _extract_image_url(entry)
 
