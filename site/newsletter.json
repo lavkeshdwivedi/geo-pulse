@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-13T11:06:24.321702+00:00",
-  "article_count": 48,
-  "total_unique_count": 272,
+  "generated_at": "2026-07-13T12:54:35.498941+00:00",
+  "article_count": 50,
+  "total_unique_count": 282,
   "digest": {
-    "en": "Europe & Russia leads the board this hour with Unusually warm rivers affect French nuclear power plants. Middle East & Africa carries the next thread. 23 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, रूस-ईरान के जानी दुश्मन की मौत बनी पहेली, यूक्रेन से लौटकर ट्रंप से की बात, फिर अचानक मर कैसे गए मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Asia-Pacific leads the board this hour with India-Japan relations should not target third party: China. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "Iran launched missile strikes on two Kuwaiti military bases in the Red Sea after U.S. air raids on Iranian territory. The attack follows a week of escalating tensions as Washington targeted Iranian drones and artillery."
   },
   "articles": [
+    {
+      "title": "India-Japan relations should not target third party: China",
+      "url": "https://www.thehindu.com/news/international/india-japan-ties-should-not-target-third-party-china/article71178490.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-13T12:44:47+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/qbwsv9/article71178547.ece/alternates/LANDSCAPE_1200/PTI07_03_2026_000007A.jpg",
+      "summary": "India and Japan also expressed \"serious concern\" at the situation in the East China Sea and South China Sea, and opposed unilateral actions that endanger freedom of navigation as well as attempts to change the status quo by force India-Japan relations should not target third party: China.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Unusually warm rivers affect French nuclear power plants",
       "url": "https://www.theguardian.com/environment/2026/jul/13/weather-tracker-unusually-warm-rivers-affect-french-nuclear-power-plants",
@@ -32,36 +44,12 @@
       "translations": {}
     },
     {
-      "title": "What China’s latest military moves reveal about its broader strategy",
-      "url": "https://www.channelnewsasia.com/east-asia/china-military-maritime-drills-patrols-pacific-strategy-6250291",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-07-13T08:53:42+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--Qo8HF3a0--/c_crop,h_720,w_1280,x_0,y_46/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/13/image_20260713161116_283_6.jpg?itok=jqn0CHwh",
-      "summary": "From joint air patrols with Russia and coast guard activity east of Taiwan to a rare missile test in the Pacific, China’s recent moves - although not necessarily coordinated - reflect a push to make a wider range of operations increasingly routine, analysts say. What China’s latest military moves reveal about its broader strategy.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Why Iran insists on controlling the Strait of Hormuz",
-      "url": "https://www.thehindu.com/news/international/why-iran-insists-on-controlling-the-strait-of-hormuz/article71216413.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-13T08:23:07+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/o2rb0b/article71216446.ece/alternates/LANDSCAPE_1200/Logistics_GB_G5G28G83DEB.4.jpg.jpg",
-      "summary": "In the MoU, the U. S. has made several concessions to Iran. It lifted its maritime blockade, issued a sanctions waiver for Iranian crude and other petroleum products and also promised that Iran would get access to some of its frozen funds Why Iran insists on controlling the Strait of Hormuz.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "What Canada’s TKMS sub deal means for the Indo-Pacific",
       "url": "https://asiatimes.com/2026/07/what-canadas-tkms-sub-deal-means-for-the-indo-pacific/",
       "source": "Asia Times",
       "sources": [],
       "published_at": "2026-07-13T03:31:15+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Type-212CD-Submarine.jpg",
+      "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/Type-212CD-Submarine.jpg?fit=1024%2C576&amp;ssl=1",
       "summary": "During the July 2026 North Atlantic Treaty Organization (NATO) summit in Ankara, Prime Minister Carney announced Germany’s ThyssenKrupp Marine Systems (TKMS) as Canada’s primary supplier for 12 diesel-electric Type 212CD submarines over the Republic of Korea (ROK)’s Hanwha Ocean to replace its Victoria-class submarine fleet. Carney believes this will strengthen interoperability with NATO allies an What Canada’s TKMS sub deal means for the Indo-Pacific.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -116,7 +104,7 @@
       "translations": {}
     },
     {
-      "title": "US Launches New Attacks Seeking To Degrade Iran's Ability To Threaten Shipping",
+      "title": "US Launches New Attacks, Bahrain Accuses Iran Of Targeting Civilians",
       "url": "https://www.rferl.org/a/centcom-iran-strikes-hormuz-shipping-irgc/33801945.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
@@ -282,6 +270,150 @@
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "On Our Radar",
+      "url": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-07-03T19:07:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+      "url": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-06-30T15:20:00+00:00",
+      "image_url": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group. New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "NATO in Türkiye/Türkiye in NATO",
+      "url": "https://www.crisisgroup.org/pod/europe/turkiye/nato-turkiyeturkiye-nato",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "image_url": "https://images.pexels.com/photos/17854295/pexels-photo-17854295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "This week on War & Peace, Olga speaks with Galip Dalay, senior research fellow at Chatham House, about Türkiye’s evolving relations within NATO and with the EU as Ankara prepares to host the upcoming NATO summit in July. NATO in Türkiye/Türkiye in NATO.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "क्या आप जानते हैं? पड़ोसी देश की राजधानी के नाम के पीछे छिपी है एक हिंदू देवी की कहानी",
+      "url": "https://hindi.news18.com/world/south-asia-hidden-story-behind-dhaka-name-bangladesh-10653839.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-13T12:33:17+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Your-paragraph-text-1600-x-900-px-2026-07-13T180149.910-2026-07-51a4ffdb52c38bdde5824ddf872e70f6-1200x800.jpg",
+      "summary": "क्या आप जानते हैं? बांग्लादेश की राजधानी ढाका के नाम के पीछे मां ढाकेश्वरी से जुड़ी एक लोकप्रिय मान्यता है. जानिए इसके इतिहास, ढाकेश्वरी मंदिर और इस दिलचस्प कहानी के बारे में. पड़ोसी देश की राजधानी के नाम के पीछे छिपी है एक हिंदू देवी की कहानी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या आप जानते हैं? पड़ोसी देश की राजधानी के नाम के पीछे छिपी है एक हिंदू देवी की कहानी",
+          "summary": "क्या आप जानते हैं? बांग्लादेश की राजधानी ढाका के नाम के पीछे मां ढाकेश्वरी से जुड़ी एक लोकप्रिय मान्यता है. जानिए इसके इतिहास, ढाकेश्वरी मंदिर और इस दिलचस्प कहानी के बारे में. पड़ोसी देश की राजधानी के नाम के पीछे छिपी है एक हिंदू देवी की कहानी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इधर बिश्‍नोई की जांच में जुटी FBI, पुर्तगाल में कत्‍लेआम मचा रहा ये नया गैंगस्टर, खुल्‍लम-खुल्‍ला",
+      "url": "https://hindi.news18.com/world/europe-portugal-car-firing-gangster-rahul-rk-meena-gang-claims-attack-online-cops-probing-video-ws-l-10653864.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-13T12:06:47+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Gang-War-2026-07-cfc1616917f55e1d60e327e4cbe3514d-1200x800.jpg",
+      "summary": "Portugal Gang Shooting: पुर्तगाल में एक बार फिर ताबड़तोड़ फायरिंग की वारदात सामने आई है, जिसकी जिम्मेदारी उत्तर भारत के नए गैंगस्टर राहुल आरके मीणा गैंग ने सोशल मीडिया पर ली है. पोस्ट में किशोर गुजराती के रिश्तेदारों को आगे भी निशाना बनाने और पुलिस सुरक्षा को सीधी चुनौती देने की बात कही गई है. इस गैंग का संबंध झारखंड के कुख्यात अमन साहू गैंग से बताया जा रहा है, जो 2025 में मारा जा चुका है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इधर बिश्‍नोई की जांच में जुटी FBI, पुर्तगाल में कत्‍लेआम मचा रहा ये नया गैंगस्टर, खुल्‍लम-खुल्‍ला",
+          "summary": "Portugal Gang Shooting: पुर्तगाल में एक बार फिर ताबड़तोड़ फायरिंग की वारदात सामने आई है, जिसकी जिम्मेदारी उत्तर भारत के नए गैंगस्टर राहुल आरके मीणा गैंग ने सोशल मीडिया पर ली है. पोस्ट में किशोर गुजराती के रिश्तेदारों को आगे भी निशाना बनाने और पुलिस सुरक्षा को सीधी चुनौती देने की बात कही गई है. इस गैंग का संबंध झारखंड के कुख्यात अमन साहू गैंग से बताया जा रहा है, जो 2025 में मारा जा चुका है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "श्रीनगर की आजादी का चूरन मत बांटो ... मुनीर-शहबाज के खिलाफ उठी ललकार- PoK कभी नहीं बनेगा पाकिस्तान",
+      "url": "https://hindi.news18.com/world/pakistan-pok-protest-intensify-protesters-slams-pakistan-over-srinagar-liberation-narrative-ws-l-10653895.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-13T12:05:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/PoK-Vs-Pakistan-2026-07-e61e58b8850efa4fb4c1dbf7e5001e18-1200x800.jpg",
+      "summary": "Pok Protest News: पाकिस्तान के कब्जे वाले कश्मीर में विरोध की आंधी थम नहीं रही है. यहां पर लगातार शहबाज-मुनीर के खिलाफ लोग नारे लगा रहे हैं और अब तक उन्होंने साफ कर दिया है कि हमें अपना हिस्सा मानने के सपने मत देखो. प्रदर्शनकारी अब खुलकर सामने आ चुके हैं और पाकिस्तानी हुकूमत के प्रोपेगेंडा की पोल खोल रहे हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "श्रीनगर की आजादी का चूरन मत बांटो ... मुनीर-शहबाज के खिलाफ उठी ललकार- PoK कभी नहीं बनेगा पाकिस्तान",
+          "summary": "Pok Protest News: पाकिस्तान के कब्जे वाले कश्मीर में विरोध की आंधी थम नहीं रही है. यहां पर लगातार शहबाज-मुनीर के खिलाफ लोग नारे लगा रहे हैं और अब तक उन्होंने साफ कर दिया है कि हमें अपना हिस्सा मानने के सपने मत देखो. प्रदर्शनकारी अब खुलकर सामने आ चुके हैं और पाकिस्तानी हुकूमत के प्रोपेगेंडा की पोल खोल रहे हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की शाबाशी से गदगद थे आस‍िम मुनीर, पाक‍िस्‍तान के ही मौलाना ने उतार दी वर्दी",
+      "url": "https://hindi.news18.com/world/pakistan-munir-vs-fazarul-rahman-pakistan-maulana-dares-trump-favourite-field-marshal-to-remove-uniform-join-politics-balochistan-pok-failure-10653791.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-13T12:03:35+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Munir-Vs-Fazarul-Rahman-2026-07-f86d1ebbe5412f0ea62ea6c8dbfe789a-1200x800.jpg",
+      "summary": "Munir Vs Fazarul Rahman: पाकिस्तान के जमीयत उलेमा-ए-इस्लाम (F) के प्रमुख मौलाना फजलुर रहमान ने आसिम मुनीर सरेआम धज्जियां उड़ा दी हैं. डोनाल्ड ट्रंप के चहेते 'फील्ड मार्शल' का तमगा पाकर गदगद घूम रहे मुनीर को मौलाना ने सीधे चुनौती देते हुए फौज की वर्दी उतारकर चुनावी मैदान में उतरने की नसीहत दे डाली है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की शाबाशी से गदगद थे आस‍िम मुनीर, पाक‍िस्‍तान के ही मौलाना ने उतार दी वर्दी",
+          "summary": "Munir Vs Fazarul Rahman: पाकिस्तान के जमीयत उलेमा-ए-इस्लाम (F) के प्रमुख मौलाना फजलुर रहमान ने आसिम मुनीर सरेआम धज्जियां उड़ा दी हैं. डोनाल्ड ट्रंप के चहेते 'फील्ड मार्शल' का तमगा पाकर गदगद घूम रहे मुनीर को मौलाना ने सीधे चुनौती देते हुए फौज की वर्दी उतारकर चुनावी मैदान में उतरने की नसीहत दे डाली है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका-ईरान युद्ध के बीच होर्मुज से गुजरने में कतराए जहाज, ट्रांसपोंडर किया बंद, फूंक-फूंककर रख",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-update-strait-of-hormoz-crisis-shipping-traffic-drops-amid-fresh-strikes-ws-l-10653759.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-13T11:40:54+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Untitled-design-2026-07-6b542db06f20781373da229470c2be56-1200x800.jpg",
+      "summary": "Iran US war update: अमेरिका और ईरान के बीच बढ़ते सैन्य तनाव का असर अब दुनिया के सबसे अहम तेल व्यापार मार्ग होर्मुज जलडमरूमध्य पर भी दिखाई देने लगा है. रविवार इस रास्ते से गुजरने वाले जहाजों की संख्या पिछले पांच हफ्तों में सबसे कम रही. सुरक्षा चिंताओ के बीच ने कई तेल टैंकरों ने रास्ते से गुजरते समय अपना ट्रांसपोंडर भी बंद कर दिया, ताकि वे बिना हमले से इस रास्ते से गुजर सकें.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-ईरान युद्ध के बीच होर्मुज से गुजरने में कतराए जहाज, ट्रांसपोंडर किया बंद, फूंक-फूंककर रख",
+          "summary": "Iran US war update: अमेरिका और ईरान के बीच बढ़ते सैन्य तनाव का असर अब दुनिया के सबसे अहम तेल व्यापार मार्ग होर्मुज जलडमरूमध्य पर भी दिखाई देने लगा है. रविवार इस रास्ते से गुजरने वाले जहाजों की संख्या पिछले पांच हफ्तों में सबसे कम रही. सुरक्षा चिंताओ के बीच ने कई तेल टैंकरों ने रास्ते से गुजरते समय अपना ट्रांसपोंडर भी बंद कर दिया, ताकि वे बिना हमले से इस रास्ते से गुजर सकें.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी हमलों के बाद ईरान का बड़ा एक्शन, ‘आई फॉर एन आई’ ऑपरेशन के तहत कुवैत के दो सैन्य ठिकानों को",
+      "url": "https://www.patrika.com/world-news/iran-eye-for-an-eye-operation-kuwait-military-bases-us-airstrikes-20743774",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-13T11:06:38+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-Iran.png",
+      "summary": "Iran Eye For An Eye Operation: अमेरिकी सैन्य हमलों के बाद मिडल ईस्ट में तनाव और बढ़ गया है। ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने आई-फॉर-एन-आई (Eye-For-An-Eye) ऑपरेशन शुरू किया, इसके तहत ईरान ने कुवैत के दो सैन्य ठिकानों पर हमला किया। ईरान का कहना है कि यह कार्रवाई अमेरिकी सैन्य हमलों के जवाब में की गई है। वहीं अमेरिका ने भी ईरान के कई सैन्य ठिकानों पर हमले करने की पुष्टि की है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी हमलों के बाद ईरान का बड़ा एक्शन, ‘आई फॉर एन आई’ ऑपरेशन के तहत कुवैत के दो सैन्य ठिकानों को",
+          "summary": "Iran Eye For An Eye Operation: अमेरिकी सैन्य हमलों के बाद मिडल ईस्ट में तनाव और बढ़ गया है। ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने आई-फॉर-एन-आई (Eye-For-An-Eye) ऑपरेशन शुरू किया, इसके तहत ईरान ने कुवैत के दो सैन्य ठिकानों पर हमला किया। ईरान का कहना है कि यह कार्रवाई अमेरिकी सैन्य हमलों के जवाब में की गई है। वहीं अमेरिका ने भी ईरान के कई सैन्य ठिकानों पर हमले करने की पुष्टि की है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "रूस-ईरान के जानी दुश्मन की मौत बनी पहेली, यूक्रेन से लौटकर ट्रंप से की बात, फिर अचानक मर कैसे गए",
@@ -482,24 +614,6 @@
       }
     },
     {
-      "title": "राम मंदिर चढ़ावा चोरी मामले में सुप्रीम कोर्ट ने मांगी स्टेटस रिपोर्ट, इन्हें जारी किया नोटिस",
-      "url": "https://www.amarujala.com/india-news/supreme-court-on-ram-temple-donation-row-pleas-hearing-updates-ayodhya-case-2026-07-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-13T07:22:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/20/supreme-court_efdd5028cd933f9f9495da0d5ebd4ce3.jpeg?w=1200&dpr=1.0",
-      "summary": "Supreme Court: राम मंदिर चढ़ावा चोरी विवाद में केंद्र को नोटिस जारी, सुप्रीम कोर्ट ने स्टेटस रिपोर्ट मांगी supreme court on ram temple donation row pleas hearing updates ayodhya case राम मंदिर चढ़ावा चोरी मामले में सुप्रीम कोर्ट ने मांगी स्टेटस रिपोर्ट, इन्हें जारी किया नोटिस।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राम मंदिर चढ़ावा चोरी मामले में सुप्रीम कोर्ट ने मांगी स्टेटस रिपोर्ट, इन्हें जारी किया नोटिस",
-          "summary": "Supreme Court: राम मंदिर चढ़ावा चोरी विवाद में केंद्र को नोटिस जारी, सुप्रीम कोर्ट ने स्टेटस रिपोर्ट मांगी supreme court on ram temple donation row pleas hearing updates ayodhya case राम मंदिर चढ़ावा चोरी मामले में सुप्रीम कोर्ट ने मांगी स्टेटस रिपोर्ट, इन्हें जारी किया नोटिस।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "कुवैत ने ईरान के टारगेट को निशाना बनाया, जॉर्डन ने 4 मिसाइलें गिराईं; अमेरिका ने युद्ध में अपनाई नई",
       "url": "https://www.patrika.com/world-news/us-iran-new-war-strategy-kuwait-targeted-iranian-objectives-jordan-shot-down-four-missiles-sirens-blared-bahrain-20743282",
       "source": "Patrika (World)",
@@ -518,38 +632,20 @@
       }
     },
     {
-      "title": "136 साल पुरानी मस्जिद में नमाज पर रोक क्यों? सीएम शुभेंदु अधिकारी ने बताई वजह; जानें पूरा विवाद",
-      "url": "https://www.amarujala.com/india-news/west-bengal-cm-suvendu-adhikari-backs-kolkata-airport-mosque-entry-curb-cites-national-security-concerns-2026-07-13",
-      "source": "Amar Ujala Breaking",
+      "title": "'बच्चा-बच्चा कट मरेगा...', पाकिस्तान के खिलाफ PoK में जनसैलाब, मुजफ्फराबाद मार्च लिखेगा आजादी की नई",
+      "url": "https://www.abplive.com/news/world/pok-public-against-pakistan-and-asim-munir-army-in-rawalakot-muzaffarabad-march-ann-3159149",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-07-13T07:14:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/kalkata-eyaraparata-ka-masajatha-ma-namaja-para-raka-saema-shabhatha-athhakara-kaya-bl_1a5d7debbfda868c8c606768398e7ded.jpeg?w=1200&dpr=1.0",
-      "summary": "Kolkata: 135 साल पुरानी मस्जिद में नमाज पर रोक क्यों? सीएम शुभेंदु अधिकारी ने बताई वजह; जानें पूरा विवाद west bengal cm suvendu adhikari backs kolkata airport mosque entry curb cites national security concerns 136 साल पुरानी मस्जिद में नमाज पर रोक क्यों?",
-      "region": "World",
+      "published_at": "2026-07-13T07:11:50+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/13/be0dd1cbc48eec8d5865972453f6f19517839254282441200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के कब्जे वाले कश्मीर (पीओके) में पिछले 35 दिनों से पाकिस्तानी हुकूमत और सेना के खिलाफ विद्रोह जारी है. बीते रोज पीओके में पाकिस्तान की “कश्मीर की आज़ादी” के झूठ को प्रदर्शनकारियों ने चूरन बताते हुए कहा कि ये चूरन अब पीओके में नहीं बिकने वाला है.",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "136 साल पुरानी मस्जिद में नमाज पर रोक क्यों? सीएम शुभेंदु अधिकारी ने बताई वजह; जानें पूरा विवाद",
-          "summary": "Kolkata: 135 साल पुरानी मस्जिद में नमाज पर रोक क्यों? सीएम शुभेंदु अधिकारी ने बताई वजह; जानें पूरा विवाद west bengal cm suvendu adhikari backs kolkata airport mosque entry curb cites national security concerns 136 साल पुरानी मस्जिद में नमाज पर रोक क्यों?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मद्रास हाईकोर्ट के गोवध प्रतिबंध के फैसले पर सुप्रीम कोर्ट ने लगाई रोक, आदेश में कही ये बात",
-      "url": "https://www.amarujala.com/india-news/supreme-court-overturns-tamilnadu-high-court-verdict-on-cow-slaughter-major-relief-for-state-government-2026-07-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-13T07:13:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/saparama-karata_d2c9d9d5aaad912d1d6382d7130df80b.jpeg?w=1200&dpr=1.0",
-      "summary": "तमिलनाडु: गोवध पर हाईकोर्ट के फैसले को सुप्रीम कोर्ट ने पलटा; सरकार को मिली बड़ी राहत- Supreme Court overturns Tamilnadu High Court verdict on cow slaughter major relief for state government मद्रास हाईकोर्ट के गोवध प्रतिबंध के फैसले पर सुप्रीम कोर्ट ने लगाई रोक, आदेश में कही ये बात।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मद्रास हाईकोर्ट के गोवध प्रतिबंध के फैसले पर सुप्रीम कोर्ट ने लगाई रोक, आदेश में कही ये बात",
-          "summary": "तमिलनाडु: गोवध पर हाईकोर्ट के फैसले को सुप्रीम कोर्ट ने पलटा; सरकार को मिली बड़ी राहत- Supreme Court overturns Tamilnadu High Court verdict on cow slaughter major relief for state government मद्रास हाईकोर्ट के गोवध प्रतिबंध के फैसले पर सुप्रीम कोर्ट ने लगाई रोक, आदेश में कही ये बात।",
-          "region": "वैश्विक / बहुपक्षीय"
+          "title": "'बच्चा-बच्चा कट मरेगा...', पाकिस्तान के खिलाफ PoK में जनसैलाब, मुजफ्फराबाद मार्च लिखेगा आजादी की नई",
+          "summary": "पाकिस्तान के कब्जे वाले कश्मीर (पीओके) में पिछले 35 दिनों से पाकिस्तानी हुकूमत और सेना के खिलाफ विद्रोह जारी है. बीते रोज पीओके में पाकिस्तान की “कश्मीर की आज़ादी” के झूठ को प्रदर्शनकारियों ने चूरन बताते हुए कहा कि ये चूरन अब पीओके में नहीं बिकने वाला है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -572,38 +668,74 @@
       }
     },
     {
-      "title": "अमेरिका में भारतीय सेना के वीरों को सलाम, सिएटल में पूर्व सैनिकों के सम्मान में हुआ खास समारोह",
-      "url": "https://hindi.news18.com/world/america-indian-armed-forces-veterans-honoured-seattle-consulate-event-10652987.html",
-      "source": "News18 Hindi (World)",
+      "title": "वियतनाम बोट एक्सीडेंट में जान गंवाने वालों के शव लाए जाएंगे भारत, दूतावास ने क्या-क्या बताया?",
+      "url": "https://www.abplive.com/news/world/vietnam-boat-accident-15-indian-tourist-died-body-will-brought-india-3159144",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-07-13T06:34:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/indian-armed-forces-2026-07-768e8144cf2bef0185d8cb1ba76d5840-1200x800.jpg",
-      "summary": "अमेरिका के सिएटल में भारतीय सशस्त्र बलों के पूर्व सैनिकों और उनके परिवारों के सम्मान से जुड़ा एक कार्यक्रम आयोजित किया गया. भारतीय वाणिज्य दूतावास ने भारतीय दूतावास के सहयोग से इस प्रोग्राम को किया है. इस कार्यक्रम में पूर्व सैनिकों को उनकी सेवा के लिए धन्यवाद दिया गया. वहीं यह भी कहा गया कि उनकी सर्विस सिर्फ वर्दी तक सीमित नहीं, बल्कि समाज और नई पीढ़ी के मार्गदर्शन से भी जुड़ी है.",
+      "published_at": "2026-07-13T06:42:23+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/13/88879f0da600952a51d7adecb693577d1783924483207344_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "वियतनाम के फू क्वोक द्वीप के पास बोट एक्सीडेंट में जान गंवाने वाले 15 भारतीय पर्यटकों के शव सोमवार (13 जुलाई) को भारत भेजे जाएंगे. हनोई स्थित भारतीय दूतावास ने इसको लेकर जानकारी शेयर की है. दूतावास ने सोशल मीडिया पर बताया कि शवों को वियतनाम एयरलाइंस की फ्लाइट वीएन-979 से हो ची मिन्ह सिटी से मुंबई ले जाया जाएगा.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिका में भारतीय सेना के वीरों को सलाम, सिएटल में पूर्व सैनिकों के सम्मान में हुआ खास समारोह",
-          "summary": "अमेरिका के सिएटल में भारतीय सशस्त्र बलों के पूर्व सैनिकों और उनके परिवारों के सम्मान से जुड़ा एक कार्यक्रम आयोजित किया गया. भारतीय वाणिज्य दूतावास ने भारतीय दूतावास के सहयोग से इस प्रोग्राम को किया है. इस कार्यक्रम में पूर्व सैनिकों को उनकी सेवा के लिए धन्यवाद दिया गया. वहीं यह भी कहा गया कि उनकी सर्विस सिर्फ वर्दी तक सीमित नहीं, बल्कि समाज और नई पीढ़ी के मार्गदर्शन से भी जुड़ी है.",
+          "title": "वियतनाम बोट एक्सीडेंट में जान गंवाने वालों के शव लाए जाएंगे भारत, दूतावास ने क्या-क्या बताया?",
+          "summary": "वियतनाम के फू क्वोक द्वीप के पास बोट एक्सीडेंट में जान गंवाने वाले 15 भारतीय पर्यटकों के शव सोमवार (13 जुलाई) को भारत भेजे जाएंगे. हनोई स्थित भारतीय दूतावास ने इसको लेकर जानकारी शेयर की है. दूतावास ने सोशल मीडिया पर बताया कि शवों को वियतनाम एयरलाइंस की फ्लाइट वीएन-979 से हो ची मिन्ह सिटी से मुंबई ले जाया जाएगा.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "1000 रुपये का जुर्माना, एक मौत और उबल पड़ा नेपाल, बालेन शाह सरकार के खिलाफ आया जेन-Z",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-gen-z-protests-balen-shah-pathao-driver-death-ganesh-nepali-10652423.html",
-      "source": "News18 Hindi (World)",
+      "title": "ईरान का बुशहर न्यूक्लियर प्लांट अमेरिका ने किया तबाह? तेहरान ने जारी कर दिया बयान, जानें क्या कहा",
+      "url": "https://www.abplive.com/news/world/iran-atomic-energy-organization-dismissed-reports-of-attack-on-bushehr-nuclear-plant-as-false-3159096",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-07-13T05:51:38+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/balen-shah-6-2026-07-2f6cd4e90cccee1b4339e44757701c2a-1200x800.jpg",
-      "summary": "Nepal News: नेपाल में 25 साल के पाथाओ ड्राइवर गणेश नेपाली की मौत के बाद बवाल मच गया है. बालेन शाह सरकार को जवाब देते नहीं बन रहा. लगातार बालेन सरकार के खिलाफ विरोध प्रदर्शन हो रहा है. पार्किंग से जुड़े विवाद के बाद एक युवक ने खुद को आग लगा ली थी. इस घटना ने गिग वर्करों की मुश्किलों और सरकारी तंत्र के रवैये पर सवाल खड़े कर दिए हैं.",
+      "published_at": "2026-07-13T06:34:31+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/13/98b38d54e75d684d38b23f0513d32b4d17839213334381115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ईरान के परमाणु ऊर्जा संगठन (AEOI) ने सोशल मीडिया पर चल रही उन खबरों को खारिज कर दिया है, जिनमें दावा किया जा रहा था कि बुशहर न्यूक्लियर प्लांट पर अटैक हुआ है. संगठन ने साफ कहा है कि यह खबर सही नहीं है और लोगों को ऐसी अफवाहों पर भरोसा नहीं करना चाहिए. ईरानी अधिकारियों के अनुसार, बुशहर न्यूक्लियर प्लांट पूरी तरह सुरक्षित है और वहां सभी काम सामान्य तरीके से चल रहे हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान का बुशहर न्यूक्लियर प्लांट अमेरिका ने किया तबाह? तेहरान ने जारी कर दिया बयान, जानें क्या कहा",
+          "summary": "ईरान के परमाणु ऊर्जा संगठन (AEOI) ने सोशल मीडिया पर चल रही उन खबरों को खारिज कर दिया है, जिनमें दावा किया जा रहा था कि बुशहर न्यूक्लियर प्लांट पर अटैक हुआ है. संगठन ने साफ कहा है कि यह खबर सही नहीं है और लोगों को ऐसी अफवाहों पर भरोसा नहीं करना चाहिए. ईरानी अधिकारियों के अनुसार, बुशहर न्यूक्लियर प्लांट पूरी तरह सुरक्षित है और वहां सभी काम सामान्य तरीके से चल रहे हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'भारत ने कर रखा है कब्जा...', अपनी औकात भूल गया पाकिस्तान, शहबाज शरीफ और आसिफ अली जरदारी ने उगला जहर",
+      "url": "https://www.abplive.com/news/world/pakistan-shehbaz-sharif-and-asif-ali-zardari-again-kashmir-issue-to-un-3159087",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-13T06:13:45+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/13/d6a05bf6bf5d2a0ea3e880324d536a5717839207455711200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के प्रधानमंत्री शहबाज शरीफ और राष्ट्रपति आसिफ अली जरदारी एक बार फिर दुनिया के सामने जम्मू-कश्मीर को लेकर रोना रो रहे हैं. दोनों पाकिस्तानी नेताओं ने सोमवार (13 जुलाई) को संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) के प्रस्तावों के तहत कश्मीर के समाधान का समर्थन करने की मांग की है. ये अपील ऐसे समय में की गई है जब पाकिस्तान कथित तौर पर कश्मीर शहीद दिवस मना रहा है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "1000 रुपये का जुर्माना, एक मौत और उबल पड़ा नेपाल, बालेन शाह सरकार के खिलाफ आया जेन-Z",
-          "summary": "Nepal News: नेपाल में 25 साल के पाथाओ ड्राइवर गणेश नेपाली की मौत के बाद बवाल मच गया है. बालेन शाह सरकार को जवाब देते नहीं बन रहा. लगातार बालेन सरकार के खिलाफ विरोध प्रदर्शन हो रहा है. पार्किंग से जुड़े विवाद के बाद एक युवक ने खुद को आग लगा ली थी. इस घटना ने गिग वर्करों की मुश्किलों और सरकारी तंत्र के रवैये पर सवाल खड़े कर दिए हैं.",
+          "title": "'भारत ने कर रखा है कब्जा...', अपनी औकात भूल गया पाकिस्तान, शहबाज शरीफ और आसिफ अली जरदारी ने उगला जहर",
+          "summary": "पाकिस्तान के प्रधानमंत्री शहबाज शरीफ और राष्ट्रपति आसिफ अली जरदारी एक बार फिर दुनिया के सामने जम्मू-कश्मीर को लेकर रोना रो रहे हैं. दोनों पाकिस्तानी नेताओं ने सोमवार (13 जुलाई) को संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) के प्रस्तावों के तहत कश्मीर के समाधान का समर्थन करने की मांग की है. ये अपील ऐसे समय में की गई है जब पाकिस्तान कथित तौर पर कश्मीर शहीद दिवस मना रहा है.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान पर अटैक के लिए ट्रंप को क्यों निकालना पड़ा F-22 रैप्टर? US आर्मी का सबसे खतरनाक लड़ाकू विमान",
+      "url": "https://www.abplive.com/news/world/us-attack-iran-six-states-why-donald-trump-deploy-f-22-raptor-america-most-lethal-fighter-jet-3159088",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-13T05:45:27+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/13/05e534e88d96f08cb44b99bfa4ac49a517839214890311189_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "होर्मुज में ईरान की IRGC ने कमर्शियल जहाजों पर अटैक किए और स्ट्रेट को बंद करने का ऐलान कर दिया तो अमेरिका भड़क गया. उसने ईरान के छह प्रांतों में ताबड़तोड़ हमले किए. इनमें होर्मुगोजन, मरकाजी, अहवाज, बुशहर, खुजेस्तान और बलूचिस्तान-सिस्तान शामिल हैं. ईरान में इन हमलों को अंजाम देने के लिए डोनाल्ड ट्रंप को एक बार फिर F-22 रैप्टर फाइटर जेट को बाहर निकालना पड़ा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान पर अटैक के लिए ट्रंप को क्यों निकालना पड़ा F-22 रैप्टर? US आर्मी का सबसे खतरनाक लड़ाकू विमान",
+          "summary": "होर्मुज में ईरान की IRGC ने कमर्शियल जहाजों पर अटैक किए और स्ट्रेट को बंद करने का ऐलान कर दिया तो अमेरिका भड़क गया. उसने ईरान के छह प्रांतों में ताबड़तोड़ हमले किए. इनमें होर्मुगोजन, मरकाजी, अहवाज, बुशहर, खुजेस्तान और बलूचिस्तान-सिस्तान शामिल हैं. ईरान में इन हमलों को अंजाम देने के लिए डोनाल्ड ट्रंप को एक बार फिर F-22 रैप्टर फाइटर जेट को बाहर निकालना पड़ा.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -622,114 +754,6 @@
           "title": "धमाकों से दहलाने के बाद ईरान बोला:’हां! हमने जॉर्डन, बहरीन और कुवैत में अमेरिकी एयरबेस पर हमले किए’",
           "summary": "Iran Stated Carried Out Attacks Against US Bases in The Gulf: ईरान ने जॉर्डन, बहरीन और कुवैत पर हमले करने के बाद पूरी बेबाकी और दंबगई से कहा है कि हां उसी ने अमेरिकी सैन्य ठिकानों पर हमले किए हैं। ईरान के इस्लामिक रिवोल्युशनरी गार्ड कोर ने यह जिम्मेदारी ली है। यह हमला ईरान में अमेरिकी सैन्य हमलों के जवाब में चल रहे ‘जैसे को तैसा’ अभियान का हिस्सा है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मेसाक के बाद बावी की बुरी नजर, चीन में कुदरत का सैलाबी कहर, जारी हुआ येलो अलर्ट",
-      "url": "https://hindi.news18.com/world/china-china-floods-alert-after-typhoon-bavi-approaching-yellow-alert-10652524.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-13T05:38:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/china-bavi-2026-07-259dfd879c275940b9a59e27e301bffa-1200x800.jpg",
-      "summary": "Typhoon Bavi Alert: भारत में तो मॉनसून का कहर देखने को मिल ही रहा है, चीन में ऐसा ही हाल है. यहां एक बाद एक आ रहे तूफानों की वजह से अलग-अलग इलाकों में बाढ़ का खतरा बढ़ गया है. पहले तूफान मेसाक ने यहां कि कुछ हिस्सों में तबाही मचाई और अब बावी को लेकर अलर्ट जारी कर दिया गया है. इस दौरान यहां भीषण बारिश की आशंका जताई जा रही है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मेसाक के बाद बावी की बुरी नजर, चीन में कुदरत का सैलाबी कहर, जारी हुआ येलो अलर्ट",
-          "summary": "Typhoon Bavi Alert: भारत में तो मॉनसून का कहर देखने को मिल ही रहा है, चीन में ऐसा ही हाल है. यहां एक बाद एक आ रहे तूफानों की वजह से अलग-अलग इलाकों में बाढ़ का खतरा बढ़ गया है. पहले तूफान मेसाक ने यहां कि कुछ हिस्सों में तबाही मचाई और अब बावी को लेकर अलर्ट जारी कर दिया गया है. इस दौरान यहां भीषण बारिश की आशंका जताई जा रही है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने ठोके अमेरिकी ठिकाने, तो ट्रंप ने IRGC के दिल में भोंका खंजर, भाड़ में गया सीजफायर, खाड़ी",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-resume-donald-trump-attack-on-irgc-command-centre-tehran-attack-bahrain-qatar-jordan-middle-east-conflict-10652207.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-13T05:01:30+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/donald-trump-2026-07-e29401601b9c0afcad78630ae9ef6b69-1200x800.jpg",
-      "summary": "Iran-US War Update: ईरान-अमेरिका के बीच चल रहे युद्ध में जहां एक तरफ समझौते ही सूरत बनने लगी थी, वहीं अब हालात ऐसे हैं कि फिर से दोनों देश खाड़ी को बारूदी हमलों से थर्रा रहे हैं. होर्मुज को लेकर बात तो बनी नहीं, यहां फिर शोले उठ रहे हैं. दोनों ही तरफ से ताकत आजमाइश हो रही है और सबसे अहम ठिकानों को निशाने पर रखा जा रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने ठोके अमेरिकी ठिकाने, तो ट्रंप ने IRGC के दिल में भोंका खंजर, भाड़ में गया सीजफायर, खाड़ी",
-          "summary": "Iran-US War Update: ईरान-अमेरिका के बीच चल रहे युद्ध में जहां एक तरफ समझौते ही सूरत बनने लगी थी, वहीं अब हालात ऐसे हैं कि फिर से दोनों देश खाड़ी को बारूदी हमलों से थर्रा रहे हैं. होर्मुज को लेकर बात तो बनी नहीं, यहां फिर शोले उठ रहे हैं. दोनों ही तरफ से ताकत आजमाइश हो रही है और सबसे अहम ठिकानों को निशाने पर रखा जा रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "युद्धविराम टूटने से कच्चे तेल की कीमतों में बढ़ोतरी, क्या फिर बढ़ेंगे पेट्रोल-डीजल के दाम?",
-      "url": "https://www.amarujala.com/world/crude-oil-price-increase-after-west-asia-tension-arise-impact-on-petrol-diesel-2026-07-13",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-13T04:38:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/27/crude-oil_e216e4a36f10af6d4ab47255cb984bcc.jpeg?w=1200&dpr=1.0",
-      "summary": "West Asian tensions erupted after a ceasefire collapse between Israel and Hamas, pushing Brent crude to $88 a barrel, up from $84 West Asia Tension: युद्धविराम टूटने से कच्चे तेल की कीमतों में बढ़ोतरी, क्या फिर बढ़ेंगे पेट्रोल-डीजल के दाम?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "युद्धविराम टूटने से कच्चे तेल की कीमतों में बढ़ोतरी, क्या फिर बढ़ेंगे पेट्रोल-डीजल के दाम?",
-          "summary": "West Asian tensions erupted after a ceasefire collapse between Israel and Hamas, pushing Brent crude to $88 a barrel, up from $84 West Asia Tension: युद्धविराम टूटने से कच्चे तेल की कीमतों में बढ़ोतरी, क्या फिर बढ़ेंगे पेट्रोल-डीजल के दाम?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "यूके में दो महीने में 2700 मौतें! हीटवेव ने तोड़ दिया यूरोप का भ्रम, सऊदी जैसी गर्मी की तैयारी",
-      "url": "https://hindi.news18.com/world/europe-uk-death-toll-estimate-2700-as-eurostar-train-prepares-for-saudi-like-heatwave-weather-mausam-ki-khabar-10652032.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-13T04:14:08+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/europe-heatwave-news-1-2026-07-a7d73448eadcb6958b1f14a6e0df0a9d-1200x800.jpg",
-      "summary": "Heatwave UK News: यूरोप में मौसम ने आतंक मचाया है. साल 2026 में हीटवेव ने पूरे यूरोप को बता दिया कि एयर कंडीशनर लग्जरी नहीं बल्कि जान बचाने का साधन है. इसी बीच एक नई स्टडी में मई-जून की गर्मी से इंग्लैंड और वेल्स में 2,700 से ज्यादा लोगों की मौत का अनुमान लगाया गया है. वहीं दूसरी तरफ ट्रेन कंपनी यूरोस्टार ने 55 डिग्री सेल्सियस तक काम करने वाली नई ट्रेनों की तैयारी शुरू कर दी है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूके में दो महीने में 2700 मौतें! हीटवेव ने तोड़ दिया यूरोप का भ्रम, सऊदी जैसी गर्मी की तैयारी",
-          "summary": "Heatwave UK News: यूरोप में मौसम ने आतंक मचाया है. साल 2026 में हीटवेव ने पूरे यूरोप को बता दिया कि एयर कंडीशनर लग्जरी नहीं बल्कि जान बचाने का साधन है. इसी बीच एक नई स्टडी में मई-जून की गर्मी से इंग्लैंड और वेल्स में 2,700 से ज्यादा लोगों की मौत का अनुमान लगाया गया है. वहीं दूसरी तरफ ट्रेन कंपनी यूरोस्टार ने 55 डिग्री सेल्सियस तक काम करने वाली नई ट्रेनों की तैयारी शुरू कर दी है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जब शादी से लौटते वक्त मौत से हुआ सामना, मेहमानों की पिकअप दो ट्रकों के बीच पिसी; 13 लोगों की गई जान",
-      "url": "https://www.amarujala.com/world/pickup-carrying-guests-met-with-accident-in-java-indonesia-thirteen-people-died-and-five-injured-in-crash-2026-07-13",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-13T03:57:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/08/gana-rada-ekasadata-ma-eka-ha-paravara-ka-tha-sathasaya-ka-mata-cara-ghayal-fail_a2e27ab4ca3776b51c2cfab981821c40.jpeg?w=1200&dpr=1.0",
-      "summary": "Indonesia: जब शादी से लौटते वक्त मौत से हुआ सामना, मेहमानों की पिकअप दो ट्रकों के बीच पिसी; 13 लोगों की गई जान- pickup carrying guests met with accident in Java Indonesia Thirteen people died and five injured in crash।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जब शादी से लौटते वक्त मौत से हुआ सामना, मेहमानों की पिकअप दो ट्रकों के बीच पिसी; 13 लोगों की गई जान",
-          "summary": "Indonesia: जब शादी से लौटते वक्त मौत से हुआ सामना, मेहमानों की पिकअप दो ट्रकों के बीच पिसी; 13 लोगों की गई जान- pickup carrying guests met with accident in Java Indonesia Thirteen people died and five injured in crash।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'राजनीति करनी है तो वर्दी उतारें', Pak आर्मी पर बरसे मौलाना फजलुर रहमान",
-      "url": "https://www.amarujala.com/world/if-you-want-to-do-politics-take-off-the-uniform-maulana-fazlur-rehman-lashes-out-at-the-pakistan-army-2026-07-13",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-13T03:55:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/malna-fajalra-rahamana_9613e0a04f0fd5f89b8abf1333069f82.jpeg?w=1200&dpr=1.0",
-      "summary": "पाकिस्तान में सेना बनाम सियासत?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'राजनीति करनी है तो वर्दी उतारें', Pak आर्मी पर बरसे मौलाना फजलुर रहमान",
-          "summary": "पाकिस्तान में सेना बनाम सियासत?",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
