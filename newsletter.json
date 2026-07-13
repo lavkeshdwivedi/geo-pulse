@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-12T23:21:34.145266+00:00",
+  "generated_at": "2026-07-13T00:42:16.105829+00:00",
   "article_count": 50,
-  "total_unique_count": 275,
+  "total_unique_count": 273,
   "digest": {
-    "en": "Asia-Pacific leads the board this hour with Bangladesh reports 44 deaths due to floods; capital Dhaka deluged. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "सिनर ने टेनिस के विंबलडन फाइनल में ज्वेरेव को 6-4, 6-3 से हराकर लगातार दूसरी बार खिताब जीता, पाँचवाँ ग्रैंड स्लैम हासिल किया।"
+    "en": "World leads the board this hour with Disney's live-action Moana crashes to shore with an underwhelming splash at the box office. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "सिनर ने विंबलडन फाइनल में ज्वेरेव को हराकर लगातार दूसरी बार खिताब जीता, पाँचवाँ ग्रैंड स्लैम हासिल किया। इसी बीच, अमेरिका ने ईरान पर नई बमबारी शुरू की, कई शहरों में ध्वनि सुनाई दी और तहरीर में प्रतिरोध की लहर उठी।"
   },
   "articles": [
+    {
+      "title": "Disney's live-action Moana crashes to shore with an underwhelming splash at the box office",
+      "url": "https://www.channelnewsasia.com/entertainment/moana-live-action-box-office-dwayne-johnson-6249461",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-07-13T00:13:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--0NJkFERr--/c_crop,h_562,w_999,x_1,y_-1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Film_Review_-_Moana_27248.jpg?itok=V9PC7gZ6",
+      "summary": "This latest Moana brings Dwayne Johnson back as the demigod Maui and introduces Catherine Lagaʻaia as the adventuring Polynesian princess. Despite praise for Lagaʻaia, the film set sail on a wave of dismal reviews from critics for being essentially a shot-for-shot remake of the original. Disney's live-action Moana crashes to shore with an underwhelming splash at the box office.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Bangladesh reports 44 deaths due to floods; capital Dhaka deluged",
       "url": "https://www.thehindu.com/news/international/bangladesh-reports-many-deaths-due-to-floods-capital-dhaka-deluged/article71213932.ece",
@@ -296,18 +308,6 @@
       "translations": {}
     },
     {
-      "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-      "url": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-06-30T15:20:00+00:00",
-      "image_url": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Somalia's government continues to battle Al-Shabaab militants. The conflict has not shifted in favor of either side. Mogadishu needs to strengthen its military and reduce civilian suffering in insurgent-controlled areas. The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "सिनर ने लगातार दूसरी बार जीता विंबलडन, ज्वेरेव को हराकर जीता पांचवां ग्रैंड स्लैम खिताब",
       "url": "https://www.amarujala.com/sports/wimbledon-2026-mens-final-jannik-sinner-vs-alexander-zverev-live-2026-07-12",
       "source": "Amar Ujala Breaking",
@@ -344,47 +344,101 @@
       }
     },
     {
-      "title": "राष्ट्रीय स्वास्थ्य अनुसंधान नीति-2026: छह गुना बढ़ेगा स्वास्थ्य अनुसंधान पर खर्च, कई बड़ी",
-      "url": "https://www.amarujala.com/india-news/national-health-research-policy-2026-draft-health-research-spending-to-rise-focus-on-cancer-tb-diabetes-2026-07-13",
-      "source": "Amar Ujala Breaking",
+      "title": "बैंकॉक के पब में आग लगने से 27 लोगों की मौत, म्यूजिक की धुन पर मस्त थे लोग, तभी हुआ जोरदार धमाका",
+      "url": "https://hindi.news18.com/world/rest-of-world-bangkok-pub-fire-27-killed-thailand-nightclub-fire-3-big-incident-10651763.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-12T23:07:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/medical-lab_b3cc955e8643313f0aee44308c23f34c.jpeg?w=1200&dpr=1.0",
-      "summary": "India’s Ministry of Health and Family Welfare released the National Health Research Policy 2026, raising annual research funding sixfold. The budget will target cancer, tuberculosis and diabetes among other priority diseases. The move aims to expand domestic capacity and accelerate clinical trials. राष्ट्रीय स्वास्थ्य अनुसंधान नीति-2026: छह गुना बढ़ेगा स्वास्थ्य अनुसंधान पर खर्च, कई बड़ी।",
+      "published_at": "2026-07-13T00:35:10+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/bangkok-2026-07-93b4578f6826cf6520bb43baa0342052-1200x800.jpg",
+      "summary": "Bangkok Fire News: बैंकॉक के ना लाडप्राओ पब में भीषण आग लग गई, जिसके बाद कम से कम 27 लोगों की मौत हो गई. 63 लोग घायल हो गए. शुरुआती जांच में स्टेज के पास सर्किट ब्रेकर से धुआं निकलने के बाद धमाके की बात सामने आई है. थाईलैंड में यह कोई पहला हादसा नहीं है. लेकिन लगातार ऐसे बड़े हादसे दिखाते हैं कि अभी भी कोई सबक नहीं लिया जा रहा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बैंकॉक के पब में आग लगने से 27 लोगों की मौत, म्यूजिक की धुन पर मस्त थे लोग, तभी हुआ जोरदार धमाका",
+          "summary": "Bangkok Fire News: बैंकॉक के ना लाडप्राओ पब में भीषण आग लग गई, जिसके बाद कम से कम 27 लोगों की मौत हो गई. 63 लोग घायल हो गए. शुरुआती जांच में स्टेज के पास सर्किट ब्रेकर से धुआं निकलने के बाद धमाके की बात सामने आई है. थाईलैंड में यह कोई पहला हादसा नहीं है. लेकिन लगातार ऐसे बड़े हादसे दिखाते हैं कि अभी भी कोई सबक नहीं लिया जा रहा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका ने ईरान पर फिर शुरू की बमबारी, कई जगहों पर सुनाई दिए धमाके; होर्मुज को लेकर छिड़ी जंग",
+      "url": "https://www.amarujala.com/live/world/west-asia-tension-live-update-iran-us-war-hormuz-strait-centcom-strikes-irgc-tehran-trump-araghchi-pezeshkian-2026-07-13",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-13T00:31:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/11/iran-us-war-live-updates-west-asia-crisis-usa-militry-strike-multiple-target-in-tehran-donald-trump_4d3d133ae210ebe724be65be8e9ad8c0.gif?w=1200&dpr=1.0",
+      "summary": "ईरानी मीडिया ने दावा किया कुवैत में अमेरिकी हिमर्स मिसाइल लॉन्चरों को निशाना बनाया गया। ईरानी मीडिया का दावा- कुवैत में अमेरिकी हिमर्स मिसाइल लॉन्चरों को बनाया निशाना। अमेरिका ने ईरान पर फिर शुरू की बमबारी, कई जगहों पर सुनाई दिए धमाके; होर्मुज को लेकर छिड़ी जंग।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका ने ईरान पर फिर शुरू की बमबारी, कई जगहों पर सुनाई दिए धमाके; होर्मुज को लेकर छिड़ी जंग",
+          "summary": "ईरानी मीडिया ने दावा किया कुवैत में अमेरिकी हिमर्स मिसाइल लॉन्चरों को निशाना बनाया गया। ईरानी मीडिया का दावा- कुवैत में अमेरिकी हिमर्स मिसाइल लॉन्चरों को बनाया निशाना। अमेरिका ने ईरान पर फिर शुरू की बमबारी, कई जगहों पर सुनाई दिए धमाके; होर्मुज को लेकर छिड़ी जंग।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "लखनऊ-कानपुर एक्सप्रेसवे का उद्घाटन करेंगे रक्षा मंत्री, राम मंदिर चढ़ावा चोरी पर सुप्रीम सुनवाई",
+      "url": "https://www.amarujala.com/india-news/13-july-2026-major-events-2026-07-11",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-13T00:30:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/aaja-ka-khabra_39c1eb1ae877b6bb65a62173a0402ee3.gif?w=1200&dpr=1.0",
+      "summary": "नमस्कार! आज है सोमवार, 13 जुलाई। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं लखनऊ-कानपुर एक्सप्रेसवे का उद्घाटन करेंगे रक्षा मंत्री, राम मंदिर चढ़ावा चोरी पर सुप्रीम सुनवाई।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "राष्ट्रीय स्वास्थ्य अनुसंधान नीति-2026: छह गुना बढ़ेगा स्वास्थ्य अनुसंधान पर खर्च, कई बड़ी",
-          "summary": "India’s Ministry of Health and Family Welfare released the National Health Research Policy 2026, raising annual research funding sixfold. The budget will target cancer, tuberculosis and diabetes among other priority diseases. The move aims to expand domestic capacity and accelerate clinical trials. राष्ट्रीय स्वास्थ्य अनुसंधान नीति-2026: छह गुना बढ़ेगा स्वास्थ्य अनुसंधान पर खर्च, कई बड़ी।",
+          "title": "लखनऊ-कानपुर एक्सप्रेसवे का उद्घाटन करेंगे रक्षा मंत्री, राम मंदिर चढ़ावा चोरी पर सुप्रीम सुनवाई",
+          "summary": "नमस्कार! आज है सोमवार, 13 जुलाई। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं लखनऊ-कानपुर एक्सप्रेसवे का उद्घाटन करेंगे रक्षा मंत्री, राम मंदिर चढ़ावा चोरी पर सुप्रीम सुनवाई।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "टैक्स बचाने के लिए नहीं चलेगा कोई जुगाड़: समझिए क्या है पूरा गणित? इस साल लगभग 20000 संदिग्ध मामले",
-      "url": "https://www.amarujala.com/business/bonus/income-tax-swapped-provisions-revised-itr-tax-notice-ais-form-26as-tax-evasion-assessment-year-2026-27-2026-07-13",
-      "source": "Amar Ujala Breaking",
+      "title": "Weather Forecast 13 July 2026: देखिए क्या है आपके यहां मौसम का हाल",
+      "url": "https://www.amarujala.com/video/india-news/weather-forecast-for-july-13-2026-check-the-weather-conditions-in-your-area-2026-07-13",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-12T23:06:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/takasa-ratarana_336e8da16981e514bd15a36b67e6ec76.jpeg?w=1200&dpr=1.0",
-      "summary": "income tax swapped provisions revised itr tax notice ais form 26as tax evasion assessment year 2026 27- टैक्स बचाने के लिए नहीं चलेगा कोई जुगाड़: समझिए क्या है पूरा गणित?",
+      "published_at": "2026-07-13T00:30:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/weather-update_d63b74a21fbb02d768739c87ffdcfd75.jpeg?w=1200&dpr=1.0",
+      "summary": "देखिए क्या है आपके यहां मौसम का हाल।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "टैक्स बचाने के लिए नहीं चलेगा कोई जुगाड़: समझिए क्या है पूरा गणित? इस साल लगभग 20000 संदिग्ध मामले",
-          "summary": "income tax swapped provisions revised itr tax notice ais form 26as tax evasion assessment year 2026 27- टैक्स बचाने के लिए नहीं चलेगा कोई जुगाड़: समझिए क्या है पूरा गणित?",
+          "title": "Weather Forecast 13 July 2026: देखिए क्या है आपके यहां मौसम का हाल",
+          "summary": "देखिए क्या है आपके यहां मौसम का हाल।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "थाईलैंड की राजधानी बैंकॉक के पब में भीषण आग, 27 लोगों की मौत; कई गंभीर रूप से घायल",
+      "url": "https://www.amarujala.com/world/thailand-fire-incident-massive-fire-at-a-pub-in-bangkok-many-people-dead-many-critically-injured-2026-07-13",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-13T00:13:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/thailand-pub-fire-incident_9c4e70d90c5cd65e190dfa2ee94ed2dc.jpeg?w=1200&dpr=1.0",
+      "summary": "Thailand Pub Fire Incident: थाईलैंड की राजधानी बैंकॉक के पब में भीषण आग, 27 लोगों की मौत; कई गंभीर रूप से घायल Thailand Fire Incident Massive fire at a pub in Bangkok many people dead many critically injured।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "थाईलैंड की राजधानी बैंकॉक के पब में भीषण आग, 27 लोगों की मौत; कई गंभीर रूप से घायल",
+          "summary": "Thailand Pub Fire Incident: थाईलैंड की राजधानी बैंकॉक के पब में भीषण आग, 27 लोगों की मौत; कई गंभीर रूप से घायल Thailand Fire Incident Massive fire at a pub in Bangkok many people dead many critically injured।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
     {
       "title": "अमेरिका ने फिर की ईरान पर बमबारी, धमाकों से दहले कई इलाके; तेहरान ने दिया क्या जवाब?",
       "url": "https://www.amarujala.com/world/us-launches-fresh-strikes-on-iran-says-attacks-to-protect-transit-in-hormuz-targeted-tehrans-attack-capability-2026-07-13",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-07-12T22:53:30+00:00",
+      "published_at": "2026-07-13T00:13:28+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/05/west-asia-crisis-live-us-iran-israel-war-us-army-irgc-turkiye-war-updates-and-news-in-hindi_34ff071661b77bc0a3c3bc30a50d9034.gif?w=1200&dpr=1.0",
       "summary": "West Asia Crisis: अमेरिका ने फिर की ईरान पर बमबारी, धमाकों से दहले कई इलाके; तेहरान ने दिया क्या जवाब?",
       "region": "Middle East & Africa",
@@ -398,128 +452,128 @@
       }
     },
     {
-      "title": "कोरोना के नए वेरिएंट ने बढ़ाई चिंता: क्या वैक्सीन हो जाएगी बेअसर? भारत में अब तक कोई मामला नहीं",
-      "url": "https://www.amarujala.com/india-news/covid-new-variant-global-concern-new-variant-no-case-in-india-andhra-pradesh-covid-deaths-latest-hindi-news-2026-07-13",
+      "title": "जातिगत गिनती की बाधाएं दूर करने की कोशिश, अगस्त में प्रश्नावली; आंकड़ों की शुद्धता पर जोर",
+      "url": "https://www.amarujala.com/india-news/caste-census-second-phase-questionnaire-focuses-on-accurate-caste-data-and-verification-2026-07-13",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-12T22:25:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/covid-19_122eb4a4bd1cdf171fb9b45af94edf3a.jpeg?w=1200&dpr=1.0",
-      "summary": "covid new variant global concern new variant no case in india andhra pradesh covid deaths latest hindi news- कोरोना के नए वेरिएंट ने बढ़ाई चिंता: क्या वैक्सीन हो जाएगी बेअसर?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कोरोना के नए वेरिएंट ने बढ़ाई चिंता: क्या वैक्सीन हो जाएगी बेअसर? भारत में अब तक कोई मामला नहीं",
-          "summary": "covid new variant global concern new variant no case in india andhra pradesh covid deaths latest hindi news- कोरोना के नए वेरिएंट ने बढ़ाई चिंता: क्या वैक्सीन हो जाएगी बेअसर?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "गुजरात में जगन्नाथ रथयात्रा, तैनात होंगे 31 हजार से अधिक पुलिसकर्मी; 65 ड्रोन से होगी निगरानी",
-      "url": "https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-07-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-12T22:19:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_bc25c16d5cf7783ca896c1749fa5ceab.jpeg?w=1200&dpr=1.0",
-      "summary": "News Updates: जगन्नाथ रथयात्रा में तैनात होंगे 31 हजार से अधिक पुलिसकर्मी, 65 ड्रोन से होगी निगरानी news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi गुजरात में जगन्नाथ रथयात्रा, तैनात होंगे 31 हजार से अधिक पुलिसकर्मी; 65 ड्रोन से होगी निगरानी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गुजरात में जगन्नाथ रथयात्रा, तैनात होंगे 31 हजार से अधिक पुलिसकर्मी; 65 ड्रोन से होगी निगरानी",
-          "summary": "News Updates: जगन्नाथ रथयात्रा में तैनात होंगे 31 हजार से अधिक पुलिसकर्मी, 65 ड्रोन से होगी निगरानी news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi गुजरात में जगन्नाथ रथयात्रा, तैनात होंगे 31 हजार से अधिक पुलिसकर्मी; 65 ड्रोन से होगी निगरानी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत और कनाडा आर्थिक भागीदारी समझौते पर तीसरे दौर की वार्ता पूरी",
-      "url": "https://www.amarujala.com/business/business-diary/biz-updates-business-news-in-hindi-share-market-economy-foreign-exchange-banking-news-personal-finance-news-2026-07-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-12T22:12:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/02/bjanasa-apadata_0ccc8e57a08ac8a779bfd017a2562bdd.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत और कनाडा ने आर्थिक भागीदारी समझौते पर तीसरे दौर की वार्ता पूरी की। भारत और कनाडा आर्थिक भागीदारी समझौते पर तीसरे दौर की वार्ता पूरी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत और कनाडा आर्थिक भागीदारी समझौते पर तीसरे दौर की वार्ता पूरी",
-          "summary": "भारत और कनाडा ने आर्थिक भागीदारी समझौते पर तीसरे दौर की वार्ता पूरी की। भारत और कनाडा आर्थिक भागीदारी समझौते पर तीसरे दौर की वार्ता पूरी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "खास उपहारों में दिखी सांस्कृतिक झलक: PM मोदी ने लक्सन को दी हॉकी स्टिक, अल्बनीज-सुबियांतो को दिया",
-      "url": "https://www.amarujala.com/india-news/pm-modi-showcases-india-cultural-heritage-through-gifts-during-australia-new-zealand-and-indonesia-2026-07-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-12T22:12:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/tana-thasha-ka-natao-ka-paema-matha-ka-khasa-upahara_e5f7dde80d9fd8367a083509e0131402.jpeg?w=1200&dpr=1.0",
-      "summary": "PM Modi Showcases India Cultural Heritage Through Gifts During Australia, New Zealand and Indonesia- खास उपहारों में दिखी सांस्कृतिक झलक: PM मोदी ने लक्सन को दी हॉकी स्टिक, अल्बनीज-सुबियांतो को दिया क्या तोहफा?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खास उपहारों में दिखी सांस्कृतिक झलक: PM मोदी ने लक्सन को दी हॉकी स्टिक, अल्बनीज-सुबियांतो को दिया",
-          "summary": "PM Modi Showcases India Cultural Heritage Through Gifts During Australia, New Zealand and Indonesia- खास उपहारों में दिखी सांस्कृतिक झलक: PM मोदी ने लक्सन को दी हॉकी स्टिक, अल्बनीज-सुबियांतो को दिया क्या तोहफा?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "घोटाले में लिप्त बैंककर्मी को बना दिया था चढ़ावे की रकम का गणना प्रभारी, बिना जांच रखे कर्मचारी",
-      "url": "https://www.amarujala.com/lucknow/ram-mandir-bank-employee-implicated-in-a-scam-was-appointed-in-charge-of-counting-offering-funds-2026-07-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-12T22:00:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/1_5da9ff2c064f715f2efc9d04a0f21240.jpeg?w=1200&dpr=1.0",
-      "summary": "चढ़ावा चोरी में जेल भेजे गए आरोपी सुभाष श्रीवास्तव को लेकर एसआईटी की विस्तृत जांच में बड़ा खुलासा हुआ है। घोटाले में लिप्त बैंककर्मी को बना दिया था चढ़ावे की रकम का गणना प्रभारी, बिना जांच रखे कर्मचारी।",
+      "published_at": "2026-07-13T00:13:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/caste-census_18fb03488ad833eeea1b8f562239558f.jpeg?w=1200&dpr=1.0",
+      "summary": "The Ministry of Home Affairs released the second‑phase caste census questionnaire in August, aiming to address earlier data‑collection gaps. The form adds verification steps and asks respondents to confirm caste details. Officials said the changes should improve the reliability of the upcoming national caste statistics. जातिगत गिनती की बाधाएं दूर करने की कोशिश, अगस्त में प्रश्नावली; आंकड़ों की शुद्धता पर जोर।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "घोटाले में लिप्त बैंककर्मी को बना दिया था चढ़ावे की रकम का गणना प्रभारी, बिना जांच रखे कर्मचारी",
-          "summary": "चढ़ावा चोरी में जेल भेजे गए आरोपी सुभाष श्रीवास्तव को लेकर एसआईटी की विस्तृत जांच में बड़ा खुलासा हुआ है। घोटाले में लिप्त बैंककर्मी को बना दिया था चढ़ावे की रकम का गणना प्रभारी, बिना जांच रखे कर्मचारी।",
+          "title": "जातिगत गिनती की बाधाएं दूर करने की कोशिश, अगस्त में प्रश्नावली; आंकड़ों की शुद्धता पर जोर",
+          "summary": "The Ministry of Home Affairs released the second‑phase caste census questionnaire in August, aiming to address earlier data‑collection gaps. The form adds verification steps and asks respondents to confirm caste details. Officials said the changes should improve the reliability of the upcoming national caste statistics. जातिगत गिनती की बाधाएं दूर करने की कोशिश, अगस्त में प्रश्नावली; आंकड़ों की शुद्धता पर जोर।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "'पद से हटाने की जगह हो निलंबन': संसदीय समिति ने दिया सुझाव, पीएम-सीएम को हटाने वाले बिल पर और क्या",
-      "url": "https://www.amarujala.com/india-news/jpc-recommends-suspension-instead-of-removal-for-pm-cm-under-constitutional-amendment-bill-2026-07-13",
+      "title": "राष्ट्रीय स्वास्थ्य अनुसंधान नीति-2026: छह गुना बढ़ेगा स्वास्थ्य अनुसंधान पर खर्च, कई बड़ी",
+      "url": "https://www.amarujala.com/india-news/national-health-research-policy-2026-draft-health-research-spending-to-rise-focus-on-cancer-tb-diabetes-2026-07-13",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-12T21:54:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/jpc_e7f9ae5373763041185f96a3a487d763.jpeg?w=1200&dpr=1.0",
-      "summary": "कहा? jpc-recommends-suspension-instead-of-removal-for-pm-cm-under-constitutional-amendment-bill 'पद से हटाने की जगह हो निलंबन': संसदीय समिति ने दिया सुझाव, पीएम-सीएम को हटाने वाले बिल पर और क्या कहा?",
+      "published_at": "2026-07-13T00:12:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/medical-lab_b3cc955e8643313f0aee44308c23f34c.jpeg?w=1200&dpr=1.0",
+      "summary": "India’s Ministry of Health and Family Welfare released the National Health Research Policy 2026, raising annual research funding sixfold. The budget will target cancer, tuberculosis and diabetes among other priority diseases. The move aims to expand domestic capacity and accelerate clinical trials. राष्ट्रीय स्वास्थ्य अनुसंधान नीति-2026: छह गुना बढ़ेगा स्वास्थ्य अनुसंधान पर खर्च, कई बड़ी।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'पद से हटाने की जगह हो निलंबन': संसदीय समिति ने दिया सुझाव, पीएम-सीएम को हटाने वाले बिल पर और क्या",
-          "summary": "कहा? jpc-recommends-suspension-instead-of-removal-for-pm-cm-under-constitutional-amendment-bill 'पद से हटाने की जगह हो निलंबन': संसदीय समिति ने दिया सुझाव, पीएम-सीएम को हटाने वाले बिल पर और क्या कहा?",
+          "title": "राष्ट्रीय स्वास्थ्य अनुसंधान नीति-2026: छह गुना बढ़ेगा स्वास्थ्य अनुसंधान पर खर्च, कई बड़ी",
+          "summary": "India’s Ministry of Health and Family Welfare released the National Health Research Policy 2026, raising annual research funding sixfold. The budget will target cancer, tuberculosis and diabetes among other priority diseases. The move aims to expand domestic capacity and accelerate clinical trials. राष्ट्रीय स्वास्थ्य अनुसंधान नीति-2026: छह गुना बढ़ेगा स्वास्थ्य अनुसंधान पर खर्च, कई बड़ी।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "अमेरिका ने ईरान पर फिर शुरू की बमबारी, कई जगहों पर सुनाई दिए धमाके; होर्मुज को लेकर छिड़ी जंग",
-      "url": "https://www.amarujala.com/live/world/west-asia-tension-live-update-iran-us-war-hormuz-strait-centcom-strikes-irgc-tehran-trump-araghchi-pezeshkian-2026-07-13",
+      "title": "अब मानव स्टेम सेल से बनेंगे शुक्राणु, बांझपन से निजात; प्रजनन विज्ञान को मिली नई दिशा",
+      "url": "https://www.amarujala.com/world/scientists-create-early-human-sperm-cells-from-stem-cells-breakthrough-in-male-infertility-research-2026-07-13",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-07-12T21:53:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/11/iran-us-war-live-updates-west-asia-crisis-usa-militry-strike-multiple-target-in-tehran-donald-trump_4d3d133ae210ebe724be65be8e9ad8c0.gif?w=1200&dpr=1.0",
-      "summary": "ईरानी मीडिया ने दावा किया कुवैत में अमेरिकी हिमर्स मिसाइल लॉन्चरों को निशाना बनाया गया। ईरानी मीडिया का दावा- कुवैत में अमेरिकी हिमर्स मिसाइल लॉन्चरों को बनाया निशाना। अमेरिका ने ईरान पर फिर शुरू की बमबारी, कई जगहों पर सुनाई दिए धमाके; होर्मुज को लेकर छिड़ी जंग।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-07-13T00:10:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/stem-cell_d3516660c72cab1c9539bfca4612a891.jpeg?w=1200&dpr=1.0",
+      "summary": "Stem Cell: अब मानव स्टेम सेल से बनेंगे शुक्राणु, बांझपन से निजात; प्रजनन विज्ञान को मिली नई दिशा scientists-create-early-human-sperm-cells-from-stem-cells-breakthrough-in-male-infertility-research।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिका ने ईरान पर फिर शुरू की बमबारी, कई जगहों पर सुनाई दिए धमाके; होर्मुज को लेकर छिड़ी जंग",
-          "summary": "ईरानी मीडिया ने दावा किया कुवैत में अमेरिकी हिमर्स मिसाइल लॉन्चरों को निशाना बनाया गया। ईरानी मीडिया का दावा- कुवैत में अमेरिकी हिमर्स मिसाइल लॉन्चरों को बनाया निशाना। अमेरिका ने ईरान पर फिर शुरू की बमबारी, कई जगहों पर सुनाई दिए धमाके; होर्मुज को लेकर छिड़ी जंग।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "अब मानव स्टेम सेल से बनेंगे शुक्राणु, बांझपन से निजात; प्रजनन विज्ञान को मिली नई दिशा",
+          "summary": "Stem Cell: अब मानव स्टेम सेल से बनेंगे शुक्राणु, बांझपन से निजात; प्रजनन विज्ञान को मिली नई दिशा scientists-create-early-human-sperm-cells-from-stem-cells-breakthrough-in-male-infertility-research।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "गांधीनगर में एक घंटे में लगाए 3.61 लाख पौधे, जापान की किस पद्धति से हुआ तेजी से पौधरोपण?",
+      "url": "https://www.amarujala.com/india-news/gandhinagar-creates-guinness-world-record-by-planting-3-61-lakh-saplings-in-one-hour-2026-07-13",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-13T00:03:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/amit-shah_b4219016617819a0e73f7826a6b9865c.jpeg?w=1200&dpr=1.0",
+      "summary": "विश्व रिकॉर्ड: गांधीनगर में एक घंटे में लगाए 3.61 लाख पौधे, जापान की किस पद्धति से हुआ तेजी से पौधरोपण?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गांधीनगर में एक घंटे में लगाए 3.61 लाख पौधे, जापान की किस पद्धति से हुआ तेजी से पौधरोपण?",
+          "summary": "विश्व रिकॉर्ड: गांधीनगर में एक घंटे में लगाए 3.61 लाख पौधे, जापान की किस पद्धति से हुआ तेजी से पौधरोपण?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पहाड़ी राज्यों में बारिश-भूस्खलन से भारी तबाही: मैदानी इलाकों में कमजोर पड़ा मानसून, उमस-गर्मी से",
+      "url": "https://www.amarujala.com/india-news/monsoon-heavy-rain-himachal-uttarakhand-landslide-flood-road-closure-imd-weather-alert-normal-life-disrupted-2026-07-13",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-12T23:49:53+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/manasana_b3816c1aea4045b6fdb6365595911360.jpeg?w=1200&dpr=1.0",
+      "summary": "Monsoon: Heavy rain himachal uttarakhand landslide flood road closure imd weather alert, normal life disrupted- पहाड़ी राज्यों में बारिश-भूस्खलन से भारी तबाही: मैदानी इलाकों में कमजोर पड़ा मानसून, उमस-गर्मी से लोग परेशान।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पहाड़ी राज्यों में बारिश-भूस्खलन से भारी तबाही: मैदानी इलाकों में कमजोर पड़ा मानसून, उमस-गर्मी से",
+          "summary": "Monsoon: Heavy rain himachal uttarakhand landslide flood road closure imd weather alert, normal life disrupted- पहाड़ी राज्यों में बारिश-भूस्खलन से भारी तबाही: मैदानी इलाकों में कमजोर पड़ा मानसून, उमस-गर्मी से लोग परेशान।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आकाशगंगा में एलियन मेगास्ट्रक्चर के मिले सुराग, मिले कौन से वैज्ञानिक प्रमाण?",
+      "url": "https://www.amarujala.com/india-news/alien-megastructure-signs-may-be-found-around-red-dwarf-and-white-dwarf-stars-study-2026-07-13",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-12T23:22:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/alien_c6aea8d4627acba8c507e6810bc09a11.jpeg?w=1200&dpr=1.0",
+      "summary": "James Webb Space Telescope: आकाशगंगा में एलियन मेगास्ट्रक्चर के मिले सुराग, मिले कौन से वैज्ञानिक प्रमाण?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आकाशगंगा में एलियन मेगास्ट्रक्चर के मिले सुराग, मिले कौन से वैज्ञानिक प्रमाण?",
+          "summary": "James Webb Space Telescope: आकाशगंगा में एलियन मेगास्ट्रक्चर के मिले सुराग, मिले कौन से वैज्ञानिक प्रमाण?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "टैक्स बचाने के लिए नहीं चलेगा कोई जुगाड़: समझिए क्या है पूरा गणित? इस साल लगभग 20000 संदिग्ध मामले",
+      "url": "https://www.amarujala.com/business/bonus/income-tax-swapped-provisions-revised-itr-tax-notice-ais-form-26as-tax-evasion-assessment-year-2026-27-2026-07-13",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-12T23:06:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/takasa-ratarana_336e8da16981e514bd15a36b67e6ec76.jpeg?w=1200&dpr=1.0",
+      "summary": "income tax swapped provisions revised itr tax notice ais form 26as tax evasion assessment year 2026 27- टैक्स बचाने के लिए नहीं चलेगा कोई जुगाड़: समझिए क्या है पूरा गणित? इस साल लगभग 20000 संदिग्ध मामले आए सामने।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "टैक्स बचाने के लिए नहीं चलेगा कोई जुगाड़: समझिए क्या है पूरा गणित? इस साल लगभग 20000 संदिग्ध मामले",
+          "summary": "income tax swapped provisions revised itr tax notice ais form 26as tax evasion assessment year 2026 27- टैक्स बचाने के लिए नहीं चलेगा कोई जुगाड़: समझिए क्या है पूरा गणित? इस साल लगभग 20000 संदिग्ध मामले आए सामने।",
+          "region": "दुनिया"
         }
       }
     },
@@ -596,24 +650,6 @@
       }
     },
     {
-      "title": "नागपुर में ₹10 के विवाद में चाय विक्रेता ने मजदूर की चाकू मारकर की हत्या, आरोपी गिरफ्तार",
-      "url": "https://www.amarujala.com/india-news/maharashtra-hindi-news-updates-mumbai-bmc-nagpur-pune-education-politics-crime-cm-fadnavis-2026-07-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-12T20:17:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=1200&dpr=1.0",
-      "summary": "Nagpur police arrested a tea seller after he stabbed a construction worker to death over a ten‑rupee dispute. The incident occurred on a street near the Nagpur railway station on Tuesday. Witnesses said the seller approached the worker, argued about the price of tea, and then thrust a knife into the victim’s abdomen. The victim, identified as 32‑year‑old Ramesh Patil, was taken to a city hospital where he was declared dead. Investigators said they recovered the weapon and are questioning nearby shop owners.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नागपुर में ₹10 के विवाद में चाय विक्रेता ने मजदूर की चाकू मारकर की हत्या, आरोपी गिरफ्तार",
-          "summary": "Nagpur police arrested a tea seller after he stabbed a construction worker to death over a ten‑rupee dispute. The incident occurred on a street near the Nagpur railway station on Tuesday. Witnesses said the seller approached the worker, argued about the price of tea, and then thrust a knife into the victim’s abdomen. The victim, identified as 32‑year‑old Ramesh Patil, was taken to a city hospital where he was declared dead. Investigators said they recovered the weapon and are questioning nearby shop owners.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "बैंकॉक के बार में भीषण आग: 27 की मौत, कई लोग टॉयलेट में फंसे",
       "url": "https://hindi.news18.com/short-videos/world/bangkok-fire-massive-fire-in-bangkok-bar-27-dead-many-trapped-in-toilet-10651728.html",
       "source": "News18 Hindi (World)",
@@ -632,74 +668,20 @@
       }
     },
     {
-      "title": "होर्मुज में अमेरिका ने किया हमला फिर ईरान ने बरसाई कतर-बहरीन पर मिसाइल",
-      "url": "https://www.amarujala.com/video/india-news/america-attacks-iran-us-strikes-in-hormuz-iran-then-rains-missiles-on-qatar-and-bahrain-2026-07-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-12T19:52:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/iran_3a132ba0b97916793de933c054c22ee9.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी सेना ने होर्मुज जलडमरूमध्य में एक हमला किया, जिसके बाद ईरान ने कतर और बहरीन पर मिसाइलें दागीं। यह घटना होर्मुज जलडमरूमध्य के आसपास तनाव को और बढ़ा देती है। तनाव एक बार फिर चरम पर पहुंच गया है। होर्मुज में अमेरिका ने किया हमला फिर ईरान ने बरसाई कतर-बहरीन पर मिसाइल।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज में अमेरिका ने किया हमला फिर ईरान ने बरसाई कतर-बहरीन पर मिसाइल",
-          "summary": "अमेरिकी सेना ने होर्मुज जलडमरूमध्य में एक हमला किया, जिसके बाद ईरान ने कतर और बहरीन पर मिसाइलें दागीं। यह घटना होर्मुज जलडमरूमध्य के आसपास तनाव को और बढ़ा देती है। तनाव एक बार फिर चरम पर पहुंच गया है। होर्मुज में अमेरिका ने किया हमला फिर ईरान ने बरसाई कतर-बहरीन पर मिसाइल।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "ट्रंप ने लगाए आरोप, बोले- बैठक में भरी हामी, फिर एक घंटे बाद किया जहाज पर हमला",
       "url": "https://www.amarujala.com/world/donald-trump-says-iran-talks-failed-after-hormuz-drone-attack-claims-strait-open-2026-07-13",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-12T19:51:22+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/10/donald-trump_ef2c0f08f4b33ef48036ab2cb294a396.png?w=1200&dpr=1.0",
-      "summary": "क्या ईरान नहीं चाहता समझौता?",
+      "summary": "क्या ईरान नहीं चाहता समझौता? ट्रंप ने लगाए आरोप, बोले- बैठक में भरी हामी, फिर एक घंटे बाद किया जहाज पर हमला।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "ट्रंप ने लगाए आरोप, बोले- बैठक में भरी हामी, फिर एक घंटे बाद किया जहाज पर हमला",
-          "summary": "क्या ईरान नहीं चाहता समझौता?",
+          "summary": "क्या ईरान नहीं चाहता समझौता? ट्रंप ने लगाए आरोप, बोले- बैठक में भरी हामी, फिर एक घंटे बाद किया जहाज पर हमला।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "28 या 29 जुलाई, कब रखा जाएगा गुरु पूर्णिमा का व्रत? जानें सही तारीख और महत्व",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/guru-purnima-2026-when-is-guru-purnima-know-the-exact-date-muhurat-and-spiritual-significance-2026-07-12",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-12T19:38:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/23/guru-purnima-2026_06c683de38c00a2ac43b40e826cbea29.jpeg?w=1200&dpr=1.0",
-      "summary": "Guru Purnima 2026: 28 या 29 जुलाई, कब रखा जाएगा गुरु पूर्णिमा का व्रत?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "28 या 29 जुलाई, कब रखा जाएगा गुरु पूर्णिमा का व्रत? जानें सही तारीख और महत्व",
-          "summary": "Guru Purnima 2026: 28 या 29 जुलाई, कब रखा जाएगा गुरु पूर्णिमा का व्रत?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "थाईलैंड की राजधानी बैंकॉक के पब में भीषण आग, 27 लोगों की मौत; कई गंभीर रूप से घायल",
-      "url": "https://www.amarujala.com/world/thailand-fire-incident-massive-fire-at-a-pub-in-bangkok-many-people-dead-many-critically-injured-2026-07-13",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-12T19:37:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/thailand-pub-fire-incident_9c4e70d90c5cd65e190dfa2ee94ed2dc.jpeg?w=1200&dpr=1.0",
-      "summary": "Thailand Pub Fire Incident: थाईलैंड की राजधानी बैंकॉक के पब में भीषण आग, 27 लोगों की मौत; कई गंभीर रूप से घायल Thailand Fire Incident Massive fire at a pub in Bangkok many people dead many critically injured।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "थाईलैंड की राजधानी बैंकॉक के पब में भीषण आग, 27 लोगों की मौत; कई गंभीर रूप से घायल",
-          "summary": "Thailand Pub Fire Incident: थाईलैंड की राजधानी बैंकॉक के पब में भीषण आग, 27 लोगों की मौत; कई गंभीर रूप से घायल Thailand Fire Incident Massive fire at a pub in Bangkok many people dead many critically injured।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -754,6 +736,24 @@
           "title": "बरसती मिसाइलों के बीच सबके सामने आएंगे मोजतबा? खामनेई की शोक सभा पर टिकी दुनिया की नजरें",
           "summary": "ईरान के सुप्रीम लीडर जल्द ही दुनिया के सामने आ सकते हैं. इसे लेकर खबरें सामने आ रही हैं. पूर्व सुप्रीम लीडर अली खामेनेई की शोक सभा की तारिख तय कर दी गई है. इसी बीच चर्चा है कि वे सबके सामने आ सकते हैं. दूसरी तरफ दोनों देशों के बीच 17 जून को सीजफायर समझौता पूरी तरह टूट चुका है और दोनों तरफ से फिर से मिसाइलें बरस रही हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "नेपाल में फ‍िर रूठ गया Gen-Z, बालेन शाह के क‍िस फैसले पर मचा बवाल",
+      "url": "https://hindi.news18.com/world/south-asia-nepal-unrest-gen-z-protests-against-pm-balen-shah-over-slum-eviction-10651637.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-12T17:18:21+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/balen-shah-6-2026-06-c02f30e23d5eb90aad4ca6a43c5af56c-1200x800.jpg",
+      "summary": "काठमांडू में अतिक्रमण हटाओ अभियान के खिलाफ भारी जनाक्रोश देखने को मिल रहा है. झुग्गीवासियों को बेदखल करने के फैसले से नाराज Gen-Z अब प्रधानमंत्री बालेन शाह के खिलाफ सड़कों पर उतर आया है. नेपाल में फ‍िर रूठ गया Gen-Z, बालेन शाह के क‍िस फैसले पर मचा बवाल।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल में फ‍िर रूठ गया Gen-Z, बालेन शाह के क‍िस फैसले पर मचा बवाल",
+          "summary": "काठमांडू में अतिक्रमण हटाओ अभियान के खिलाफ भारी जनाक्रोश देखने को मिल रहा है. झुग्गीवासियों को बेदखल करने के फैसले से नाराज Gen-Z अब प्रधानमंत्री बालेन शाह के खिलाफ सड़कों पर उतर आया है. नेपाल में फ‍िर रूठ गया Gen-Z, बालेन शाह के क‍िस फैसले पर मचा बवाल।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
