@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 13, 2026 18:24 IST
+**Updated:** July 13, 2026 19:15 IST
 
 ---
 
@@ -76,7 +76,7 @@ US-Iran War Live Updates: The flare-up is the latest to undermine an interim agr
 
 ### [What Canada’s TKMS sub deal means for the Indo-Pacific](https://asiatimes.com/2026/07/what-canadas-tkms-sub-deal-means-for-the-indo-pacific/)
 *Asia Times* - Jul 13, 09:01 IST (iso: 2026-07-13T03:31:15+00:00)
-<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/Type-212CD-Submarine.jpg?fit=1024%2C576&amp;ssl=1 -->
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Type-212CD-Submarine.jpg -->
 
 During the July 2026 North Atlantic Treaty Organization (NATO) summit in Ankara, Prime Minister Carney announced Germany’s ThyssenKrupp Marine Systems (TKMS) as Canada’s primary supplier for 12 diesel-electric Type 212CD submarines over the Republic of Korea (ROK)’s Hanwha Ocean to replace its Victoria-class submarine fleet. Carney believes this will strengthen interoperability with NATO allies an What Canada’s TKMS sub deal means for the Indo-Pacific.
 
@@ -103,12 +103,6 @@ The US launched military strikes against Iran on July 12. The action came after 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/09-07-2026_UNNews_Gaza_Rubble_02.jpg/image770x420cropped.jpg -->
 
 Gaza teams search for remains under rubble after Israeli airstrikes destroyed thousands of buildings. After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrikes.
-
-### [US Expands Pressure Campaign With New Sanctions On Iran's Financial Networks](https://www.rferl.org/a/iran-sanctions-khamenei-financial-exchange/33801202.html)
-*Radio Free Europe / Liberty* - Jul 11, 01:10 IST (iso: 2026-07-10T19:40:10+00:00)
-<!-- image: https://gdb.rferl.org/CFB5530F-35B0-4D28-9C90-D3DDA50D5083_cx0_cy5_cw0_w1200_h630.jpg -->
-
-The US has imposed new sanctions targeting an Iranian businessman and several exchange houses. The move aims to disrupt a global financial network used by Iran's Supreme Leader. The sanctions seek to limit Tehran's access to foreign currency. The United States imposed sweeping new sanctions targeting an Iranian businessman accused of managing a global financial network for Supreme Leader Mojtaba Khamenei and several exchange houses that Washington says have helped Tehran evade sanctions and maintain access to foreign currency.
 
 ### [New cholera outbreak alert for Sudan’s war-weary communities](https://news.un.org/feed/view/en/story/2026/07/1167913)
 *UN News* - Jul 10, 17:30 IST (iso: 2026-07-10T12:00:00+00:00)
@@ -139,24 +133,6 @@ Diplomats from 12 countries visited a Gaza displacement site virtually. They hea
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-03-2025-WFP-DR-Congo-01.jpg/image770x420cropped.jpg -->
 
 Volker Türk urged the Democratic Republic of the Congo and the M23 group to cease hostilities. UN High Commissioner for Human Rights Volker Türk urged the armed forces of the Democratic Republic of the Congo and the Rwanda-backed M23 armed group to cease hostilities as he deplored recent civilian deaths on Thursday. Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk.
-
-### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
-*International Crisis Group* - Jul 04, 00:37 IST (iso: 2026-07-03T19:07:00+00:00)
-<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.
-
-### [New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab](https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab)
-*International Crisis Group* - Jun 30, 20:50 IST (iso: 2026-06-30T15:20:00+00:00)
-<!-- image: https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group. New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab.
-
-### [NATO in Türkiye/Türkiye in NATO](https://www.crisisgroup.org/pod/europe/turkiye/nato-turkiyeturkiye-nato)
-*International Crisis Group* - Jun 30, 05:30 IST (iso: 2026-06-30T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/17854295/pexels-photo-17854295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-This week on War & Peace, Olga speaks with Galip Dalay, senior research fellow at Chatham House, about Türkiye’s evolving relations within NATO and with the EU as Ankara prepares to host the upcoming NATO summit in July. NATO in Türkiye/Türkiye in NATO.
 
 ---
 
