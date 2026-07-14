@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-14T12:33:00.338986+00:00",
+  "generated_at": "2026-07-14T13:36:33.654714+00:00",
   "article_count": 50,
-  "total_unique_count": 269,
+  "total_unique_count": 280,
   "digest": {
-    "en": "Middle East conflicts dominate the news. Iranian and US tensions are escalating. Global crude oil prices are at a one-month high.",
-    "hi": "आज ईरान के परमाणु केंद्र वाले शहर बुशहर पर अमेरिका का बड़ा हमला हुआ। ईरान पर भारत का कड़ा रुख है। होर्मुज हमले में भारतीय की मौत के बाद राजनयिक तलब किया गया है।"
+    "en": "Iran and the Middle East dominate headlines. The WHO warns of the fastest-growing Ebola outbreak in the DRC. Funding for the outbreak is less than half of what is needed.",
+    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जो विश्व की विभिन्न घटनाओं को कवर करती हैं। यूरोप और रूस में 3400 साल पुराने सोने के जेवर मिले हैं। एशिया-पैसिफिक में पाकिस्तान में बाढ़ से तबाही मची है।"
   },
   "articles": [
     {
@@ -12,9 +12,33 @@
       "url": "https://www.thehindu.com/news/national/mea-summons-iranian-deputy-envoy-after-indian-national-killed-in-attack-on-ship/article71221170.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-07-14T12:24:37+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/clxww4/article71221218.ece/alternates/LANDSCAPE_1200/20260714189L.jpg",
+      "published_at": "2026-07-14T13:23:07+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/u6s1ad/article71221336.ece/alternates/LANDSCAPE_1200/20260714004L_okXoEhD.jpg",
       "summary": "MEA condemned the attacks on the commercial vessels MT Al Bahiyah and MT Mombasa, which had a total of 30 Indian seafarers onboard, and reiterated its call for an immediate cessation of violence and a return to dialogue and diplomacy to bring stability to West Asia MEA summons Iranian deputy envoy, after Indian national killed in attack on ship.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Death toll reaches 30 as police say negligence is ‘primary theory’",
+      "url": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-14T12:56:36+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/a014538c2d2dea31128b38989f9203b656c9e93b/260_0_2041_1633/master/2041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01d4998232fe0ae06ab25af0c4f14038",
+      "summary": "Bar owner in Thailand offers ‘deepest apologies for this tragic incident’ as police investigate whether exits were either blocked or hard to accessThe Bangkok pub that has become the scene of the city’s deadliest blaze in 17 years has said it will cooperate with an investigation into alleged negligence, as the death toll rose to 30. Death toll reaches 30 as police investigate negligence as ‘primary theory’.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "DRC Ebola outbreak is fastest-growing ever, warns WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167933",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-14T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/30-06-2026-UNFPA-DR-Congo-ebola-02.jpg/image770x420cropped.jpg",
+      "summary": "Infections of the Bundibugyo species of Ebola in the Democratic Republic of the Congo (DRC) have reached record highs and a majority of new cases are coming from “unknown chains of transmission”, the UN World Health Organization (WHO) warned on Tuesday. DRC Ebola outbreak is fastest-growing ever, warns WHO.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -32,6 +56,18 @@
       "translations": {}
     },
     {
+      "title": "Iran Authorities Say US Struck Port City Of Bushehr",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-07-14T11:30:47+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-07/avok0scg_iran-war_625x300_13_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "summary": "US-Iran War Live Updates: The flare-up is the latest to undermine an interim agreement between Washington and Tehran aimed at ending their war, which has caused global economic shockwaves since it began in late February. Global Crude Oil Prices Reach Highest In A Month As Middle East Conflict Reignites. Iran Authorities Say US Struck Port City Of Bushehr.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Nepal’s new government, old concerns: Governance, dissent, shrinking civic space",
       "url": "https://www.thehindu.com/news/international/nepals-new-government-old-concerns-governance-dissent-shrinking-civic-space/article71220815.ece",
       "source": "The Hindu (International)",
@@ -39,30 +75,6 @@
       "published_at": "2026-07-14T11:29:47+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/1uf6n5/article71220963.ece/alternates/LANDSCAPE_1200/Balendra-Shah-sGC8FP80M8.3.jpg.jpg",
       "summary": "After completing 100 days in office, the Balendra Shah administration now finds itself confronting many of the same questions that dogged its predecessor before last year’s Gen Z protests, which ultimately swept Mr. Shah to power Nepal’s new government, old concerns: Governance, dissent, shrinking civic space.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Global Crude Oil Prices Reach Highest In A Month As Middle East Conflict Reignites",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-07-14T10:55:12+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-07/avok0scg_iran-war_625x300_13_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "summary": "US-Iran War Live Updates: The flare-up is the latest to undermine an interim agreement between Washington and Tehran aimed at ending their war, which has caused global economic shockwaves since it began in late February. Global Crude Oil Prices Reach Highest In A Month As Middle East Conflict Reignites.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Death toll reaches 30 as police say negligence is ‘primary theory’",
-      "url": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-14T09:50:44+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/c1db0b91d03a27b0a360a0d92a841437fac2ef07/1038_118_5452_4362/master/5452.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53511d6585b5e7996784d22dbc32b1e8",
-      "summary": "Bar owner in Thailand offers ‘deepest apologies for this tragic incident’ as police investigate whether exits were either blocked or hard to accessThe Bangkok pub that has become the scene of the city’s deadliest blaze in 17 years has said it will cooperate with an investigation into alleged negligence, as the death toll rose to 30. Death toll reaches 30 as police investigate negligence as ‘primary theory’.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -284,44 +296,32 @@
       "translations": {}
     },
     {
-      "title": "New cholera outbreak alert for Sudan’s war-weary communities",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167913",
-      "source": "UN News",
+      "title": "On Our Radar",
+      "url": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "International Crisis Group",
       "sources": [],
-      "published_at": "2026-07-10T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UNOCHA-Sudan-03.jpg/image770x420cropped.jpg",
-      "summary": "In war-torn Sudan, a deadly new cholera outbreak has already claimed more than 100 lives, heightening serious concerns for vulnerable communities including in besieged El-Obeid, where daily drone attacks have continued to hamper aid access. New cholera outbreak alert for Sudan’s war-weary communities.",
+      "published_at": "2026-07-03T19:07:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
-      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-      "source": "The Guardian",
+      "title": "मिट्टी के नीचे दबे थे 3400 साल पुराने सोने के जेवर, 4700 किलोमीटर दूर मिले इस खजाने का भारत से क्या",
+      "url": "https://hindi.news18.com/news/ajab-gajab/viral-3400-year-old-gold-diadems-found-in-cyprus-ancient-globalization-history-10657622.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-09T16:20:41+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/f80796421f1ba8310e6cf11d9923b0d36fda17d6/584_0_3309_2649/master/3309.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae268e2862a05c9ee9793b4b06d1d407",
-      "summary": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruptionA fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm in Africa’s largest democracy in the run-up to a general election set for January. The fake agency came to light last October when Femi Gbajabiamila, the Furore in Nigeria over fake federal agency set up in government HQ.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "ईरान के परमाणु केंद्र वाले शहर बुशहर पर अमेरिका का बड़ा हमला, 4 जगहों को बनाया निशाना",
-      "url": "https://www.patrika.com/world-news/us-projectiles-strike-multiple-locations-iran-bushehr-nuclear-facilities-centcom-attacks-20747088",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-14T12:21:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-Strikes-Iran.jpg",
-      "summary": "अमेरिका ने ईरान के बुशहर शहर में चार अलग-अलग जगहों पर हवाई हमला किया। बुशहर में ईरान का एक महत्वपूर्ण परमाणु केंद्र स्थित है। डिप्टी-गवर्नर एहसान जहानियां ने हमले की पुष्टि की है। US Strikes Iran: अमेरिका ने ईरान के बुशहर शहर में बड़ा हवाई हमला किया है। मंगलवार दोपहर को अमेरिकी प्रोजेक्टाइल ने यहां चार अलग-अलग जगहों को निशाना बनाया।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-07-14T13:14:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Ancient_Artifacts3-2026-07-f0c8a9519fa677189b18aee2c695d068-1200x800.jpg",
+      "summary": "साइप्रस के प्राचीन शहर हला सुल्तान टेक्के में पुरातत्वविदों को 3400 साल पुराना सोने का खजाना मिला है. यहां खुदाई के दौरान 9 डायडेम (माथे पर पहनने वाले आभूषण) और 2 माउथपीस मिले हैं. इन गहनों पर इजिप्ट, ग्रीस और मिडल ईस्ट की कला का अनोखा संगम देखने को मिलता है. मिट्टी के नीचे दबे थे 3400 साल पुराने सोने के जेवर, 4700 किलोमीटर दूर मिले इस खजाने का भारत से क्या।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान के परमाणु केंद्र वाले शहर बुशहर पर अमेरिका का बड़ा हमला, 4 जगहों को बनाया निशाना",
-          "summary": "अमेरिका ने ईरान के बुशहर शहर में चार अलग-अलग जगहों पर हवाई हमला किया। बुशहर में ईरान का एक महत्वपूर्ण परमाणु केंद्र स्थित है। डिप्टी-गवर्नर एहसान जहानियां ने हमले की पुष्टि की है। US Strikes Iran: अमेरिका ने ईरान के बुशहर शहर में बड़ा हवाई हमला किया है। मंगलवार दोपहर को अमेरिकी प्रोजेक्टाइल ने यहां चार अलग-अलग जगहों को निशाना बनाया।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "मिट्टी के नीचे दबे थे 3400 साल पुराने सोने के जेवर, 4700 किलोमीटर दूर मिले इस खजाने का भारत से क्या",
+          "summary": "साइप्रस के प्राचीन शहर हला सुल्तान टेक्के में पुरातत्वविदों को 3400 साल पुराना सोने का खजाना मिला है. यहां खुदाई के दौरान 9 डायडेम (माथे पर पहनने वाले आभूषण) और 2 माउथपीस मिले हैं. इन गहनों पर इजिप्ट, ग्रीस और मिडल ईस्ट की कला का अनोखा संगम देखने को मिलता है. मिट्टी के नीचे दबे थे 3400 साल पुराने सोने के जेवर, 4700 किलोमीटर दूर मिले इस खजाने का भारत से क्या।",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -344,6 +344,42 @@
       }
     },
     {
+      "title": "ईरान के परमाणु केंद्र वाले शहर बुशहर पर अमेरिका का बड़ा हमला, 4 जगहों को बनाया निशाना",
+      "url": "https://www.patrika.com/world-news/us-projectiles-strike-multiple-locations-iran-bushehr-nuclear-facilities-centcom-attacks-20747088",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-14T12:12:07+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-Strikes-Iran.jpg",
+      "summary": "अमेरिका ने ईरान के बुशहर शहर में चार अलग-अलग जगहों पर हवाई हमला किया। बुशहर में ईरान का एक महत्वपूर्ण परमाणु केंद्र स्थित है। डिप्टी-गवर्नर एहसान जहानियां ने हमले की पुष्टि की है। US Strikes Iran: अमेरिका ने ईरान के बुशहर शहर में बड़ा हवाई हमला किया है। मंगलवार दोपहर को अमेरिकी प्रोजेक्टाइल ने यहां चार अलग-अलग जगहों को निशाना बनाया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के परमाणु केंद्र वाले शहर बुशहर पर अमेरिका का बड़ा हमला, 4 जगहों को बनाया निशाना",
+          "summary": "अमेरिका ने ईरान के बुशहर शहर में चार अलग-अलग जगहों पर हवाई हमला किया। बुशहर में ईरान का एक महत्वपूर्ण परमाणु केंद्र स्थित है। डिप्टी-गवर्नर एहसान जहानियां ने हमले की पुष्टि की है। US Strikes Iran: अमेरिका ने ईरान के बुशहर शहर में बड़ा हवाई हमला किया है। मंगलवार दोपहर को अमेरिकी प्रोजेक्टाइल ने यहां चार अलग-अलग जगहों को निशाना बनाया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत के दुश्मन के घर में तबाही! पाकिस्तान में क्रिप्टोकरेंसी पर बवाल क्या, कैसे भड़की क्रिप्टो",
+      "url": "https://www.abplive.com/news/world/pakistan-cryptocurrency-controversy-economic-crisis-government-banned-shehbaz-shareef-asim-muneer-explained-3159943",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T11:51:31+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/0fa391ff4a2395bfed532207e7f0039c17840284090231317_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान में क्रिप्टो करेंसी को लेकर इस वक्त जो घमासान मचा है, वो किसी आर्थिक आतंक की कहानी से कम नहीं लगता. एक तरफ पूरा देश ऐतिहासिक महंगाई, घटते विदेशी मुद्रा भंडार और बेकाबू होती अर्थव्यवस्था से जूझ रहा है, तो दूसरी तरफ आम पाकिस्तानी नागरिक अपनी जमा पूंजी को डूबने से बचाने के लिए किसी सहारे की तलाश में है. इसी खालीपन को क्रिप्टो करेंसी ने भरा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के दुश्मन के घर में तबाही! पाकिस्तान में क्रिप्टोकरेंसी पर बवाल क्या, कैसे भड़की क्रिप्टो",
+          "summary": "पाकिस्तान में क्रिप्टो करेंसी को लेकर इस वक्त जो घमासान मचा है, वो किसी आर्थिक आतंक की कहानी से कम नहीं लगता. एक तरफ पूरा देश ऐतिहासिक महंगाई, घटते विदेशी मुद्रा भंडार और बेकाबू होती अर्थव्यवस्था से जूझ रहा है, तो दूसरी तरफ आम पाकिस्तानी नागरिक अपनी जमा पूंजी को डूबने से बचाने के लिए किसी सहारे की तलाश में है. इसी खालीपन को क्रिप्टो करेंसी ने भरा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "समंदर के पानी में फैला सबसे खतरनाक एल्गी, जिसके जहर का इस पूरी दुनिया में कोई तोड़ नहीं!",
       "url": "https://hindi.news18.com/news/ajab-gajab/viral-worlds-most-toxic-algae-mass-death-marine-animals-australia-karenia-cristata-10657349.html",
       "source": "News18 Hindi (World)",
@@ -357,6 +393,24 @@
         "hi": {
           "title": "समंदर के पानी में फैला सबसे खतरनाक एल्गी, जिसके जहर का इस पूरी दुनिया में कोई तोड़ नहीं!",
           "summary": "World's Most Toxic Algae: दक्षिण ऑस्ट्रेलिया के समुद्री तटों पर दुनिया के सबसे जहरीले एल्गी के कारण लाखों समुद्री जीवों की दर्दनाक मौत हुई है. रिसर्च में खुलासा हुआ है कि कैरेनिया क्रिस्टाटा नाम का यह एल्गी अब तक का सबसे खतरनाक शैवाल है. इसका जहर पानी में तेजी से फैल रहा है, जिससे मछलियों, समुद्री घोड़ों और अन्य जीवों की जान जा रही है. इंसानों पर भी इसके बेहद गंभीर असर लगातार दिख रहे हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'जिम्मेदार ठहराएं', PoJK में प्रदर्शनकारियों पर गोलीबारी के बाद भड़का भारत, दुनिया से की ये अपील",
+      "url": "https://www.abplive.com/news/world/india-randhir-jaiswal-reaction-on-pok-protest-asim-munir-army-firing-3159938",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T11:47:12+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/4276a2e968a22d1103f5f0786c45d1a31784031461957708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के कब्जे वाले जम्मू और कश्मीर (PoJK) में शहबाज शरीफ और सेना प्रमुख आसिम मुनीर के खिलाफ हो रहे प्रदर्शन पर भारत ने प्रतिक्रिया दी है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'जिम्मेदार ठहराएं', PoJK में प्रदर्शनकारियों पर गोलीबारी के बाद भड़का भारत, दुनिया से की ये अपील",
+          "summary": "पाकिस्तान के कब्जे वाले जम्मू और कश्मीर (PoJK) में शहबाज शरीफ और सेना प्रमुख आसिम मुनीर के खिलाफ हो रहे प्रदर्शन पर भारत ने प्रतिक्रिया दी है.",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -398,6 +452,24 @@
       }
     },
     {
+      "title": "ईरान के हाथ लगा न्यूक्लियर बम से भी बड़ा बम! बिना मिसाइल-रॉकेट के घुटनों पर ला देगा पूरी दुनिया?",
+      "url": "https://www.abplive.com/news/world/what-is-iran-economic-bomb-powerful-than-nuclear-strait-of-hormuz-donald-trump-mujtaba-khamenei-us-attack-explained-3159901",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T11:11:48+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/a913bf6bc1077fa9e3f680e7c395a7ca17840273737101317_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ईरान के पास ऐसा हथियार है जिसे चलाने के लिए न किसी मिसाइल की जरूरत है और न ही किसी परमाणु प्रोग्राम की. बस एक धमकी और दुनिया की बड़ी-बड़ी इकोनॉमी घुटनों पर आ जाएं. ईरान ने होर्मुज स्ट्रेट से पहले डराया, फिर निशाना बनाया और आखिरकार 12 जुलाई 2026 को 'अगले आदेश तक' बंद कर दिया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के हाथ लगा न्यूक्लियर बम से भी बड़ा बम! बिना मिसाइल-रॉकेट के घुटनों पर ला देगा पूरी दुनिया?",
+          "summary": "ईरान के पास ऐसा हथियार है जिसे चलाने के लिए न किसी मिसाइल की जरूरत है और न ही किसी परमाणु प्रोग्राम की. बस एक धमकी और दुनिया की बड़ी-बड़ी इकोनॉमी घुटनों पर आ जाएं. ईरान ने होर्मुज स्ट्रेट से पहले डराया, फिर निशाना बनाया और आखिरकार 12 जुलाई 2026 को 'अगले आदेश तक' बंद कर दिया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "विदेश में पढ़ाई के लिए सही देश कैसे चुनें? सिर्फ रैंकिंग नहीं, इन 5 बातों पर भी दें ध्यान",
       "url": "https://hindi.news18.com/news/career/education-how-to-choose-the-right-country-to-study-abroad-beyond-rankings-10656816.html",
       "source": "News18 Hindi (World)",
@@ -412,6 +484,24 @@
           "title": "विदेश में पढ़ाई के लिए सही देश कैसे चुनें? सिर्फ रैंकिंग नहीं, इन 5 बातों पर भी दें ध्यान",
           "summary": "Study Abroad Country Selection Tips: विदेश में पढ़ाई का सपना तो सब देखते हैं, लेकिन सही देश चुनना सबसे बड़ी चुनौती है. इसके लिए केवल कॉलेज रैंकिंग के भरोसे न रहें, बल्कि अन्य जरूरी फैक्टर्स पर भी ध्यान दें. जानिए सही देश चुनने का सबसे सटीक फॉर्मूला. विदेश में पढ़ाई के लिए सही देश कैसे चुनें? सिर्फ रैंकिंग नहीं, इन 5 बातों पर भी दें ध्यान।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लगातार 5 धमाकों से दहला बुशहर-बंदर अब्बास, ईरान का पलटवार- होर्मुज में नहीं चलने देंगे ट्रंप की",
+      "url": "https://www.abplive.com/news/world/strait-of-hormuz-will-not-open-american-aggression-iran-warn-cargo-ships-attack-donald-trump-3159878",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T11:04:41+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/962954a435fd451cd242c075c4fc37cd1784026878046708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "मिडिल ईस्ट में फिर से जंग भड़कने और स्ट्रेट ऑफ होर्मज में जहाजों पर हो रहे हमल एक बार फिर दुनियाभर में तेल संकट की ओर इशारा कर रहा है. इस बीच ईरान के बुशहर और बंदर अब्बास शहर के पास धमाके हुए हैं. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की ओर से होर्मुज में ईरान के खिलाफ नाकेबंदी बहाल करने और जहाजों से शुल्क वसूलने के ऐलान के बाद ईरान भी हमलावर है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लगातार 5 धमाकों से दहला बुशहर-बंदर अब्बास, ईरान का पलटवार- होर्मुज में नहीं चलने देंगे ट्रंप की",
+          "summary": "मिडिल ईस्ट में फिर से जंग भड़कने और स्ट्रेट ऑफ होर्मज में जहाजों पर हो रहे हमल एक बार फिर दुनियाभर में तेल संकट की ओर इशारा कर रहा है. इस बीच ईरान के बुशहर और बंदर अब्बास शहर के पास धमाके हुए हैं. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की ओर से होर्मुज में ईरान के खिलाफ नाकेबंदी बहाल करने और जहाजों से शुल्क वसूलने के ऐलान के बाद ईरान भी हमलावर है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -448,6 +538,24 @@
           "title": "PoK में मुनीर ने पाकिस्तानी क्रिकेटर ही मार डाला! धोखे से बातचीत को बुलाया, फिर दाग दी गोलियां",
           "summary": "पाकिस्तान के कब्जे वाले कश्मीर में पाकिस्तानी सेना ने एक युवा क्रिकेटर की गोली मारकर हत्या कर दी। मुनीर ने बातचीत का ढोंग रचाया और फिर पीठ पीछे गोलियां बरसा दीं। इस घटना के बाद पूरे क्षेत्र में जनाक्रोश फैल गया है। पाकिस्तान के कब्जे वाले कश्मीर (PoK) के रावलकोट में पाकिस्तानी सेना ने बर्बरता की सारी हदें पार कर दी हैं.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘समुद्री डकैत न बने अमेरिका...’, ट्रंप के होर्मुज टोल के ऐलान पर भड़के ब्राजील के राष्ट्रपति लूला",
+      "url": "https://www.abplive.com/news/world/brazil-president-lula-da-silva-fierced-at-donald-trump-after-20-percent-toll-announcement-on-ships-passing-through-strait-of-hormuz-3159864",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T10:39:16+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/8c0196e1f4e7fac310dc05c7c1d06f6217840252031981126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने स्ट्रेट ऑफ होर्मुज से गुजरने वाले कार्गो जहाजों पर 20 प्रतिशत टोल लगाने का ऐलान किया है. ब्राजील के राष्ट्रपति लूला ने इसकी निंदा की है. पश्चिम एशिया में एक बार फिर से अमेरिका ने ईरान के साथ जंग की शुरुआत करके दुनिया भर के देशों के लिए परेशानियां बढ़ा दी है. वहीं, दूसरी तरफ उन्होंने स्ट्रेट ऑफ होर्मुज को लेकर एक ऐसा ऐलान कर दिया है, जिसके लिए उनकी काफी निंदा और आलोचना हो रही है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘समुद्री डकैत न बने अमेरिका...’, ट्रंप के होर्मुज टोल के ऐलान पर भड़के ब्राजील के राष्ट्रपति लूला",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने स्ट्रेट ऑफ होर्मुज से गुजरने वाले कार्गो जहाजों पर 20 प्रतिशत टोल लगाने का ऐलान किया है. ब्राजील के राष्ट्रपति लूला ने इसकी निंदा की है. पश्चिम एशिया में एक बार फिर से अमेरिका ने ईरान के साथ जंग की शुरुआत करके दुनिया भर के देशों के लिए परेशानियां बढ़ा दी है. वहीं, दूसरी तरफ उन्होंने स्ट्रेट ऑफ होर्मुज को लेकर एक ऐसा ऐलान कर दिया है, जिसके लिए उनकी काफी निंदा और आलोचना हो रही है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -596,6 +704,42 @@
       }
     },
     {
+      "title": "महंगा तेल, कमजोर रुपया और बढ़ती महंगाई: हॉर्मुज संकट से रसोई पर मंडराया खतरा, जानें भारत को क्यों",
+      "url": "https://www.abplive.com/news/world/hormuz-in-crisis-again-why-must-india-be-prepared-impact-could-be-felt-oil-gas-inflation-to-rupee-3159793",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T09:09:05+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/b84a6befe0e8fcfcd9ef9525172f4ff01784019665645344_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिका और ईरान के बीच तनाव बढ़ने से तेल बाजार प्रभावित हुआ है. ब्रेंट क्रूड 81-82 डॉलर प्रति बैरल पर पहुंच गया है. इसका असर भारत पर भी पड़ सकता है. अमेरिका और ईरान के बीच एक बार फिर तनाव बढ़ गया है. जून में हुआ युद्धविराम ज्यादा दिन नहीं टिक पाया और जुलाई के मध्य से हालात फिर बिगड़ने लगे.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महंगा तेल, कमजोर रुपया और बढ़ती महंगाई: हॉर्मुज संकट से रसोई पर मंडराया खतरा, जानें भारत को क्यों",
+          "summary": "अमेरिका और ईरान के बीच तनाव बढ़ने से तेल बाजार प्रभावित हुआ है. ब्रेंट क्रूड 81-82 डॉलर प्रति बैरल पर पहुंच गया है. इसका असर भारत पर भी पड़ सकता है. अमेरिका और ईरान के बीच एक बार फिर तनाव बढ़ गया है. जून में हुआ युद्धविराम ज्यादा दिन नहीं टिक पाया और जुलाई के मध्य से हालात फिर बिगड़ने लगे.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान से टूटा बलूचिस्तान! खुद को आजाद देश किया घोषित, कहा- '85 फीसदी क्षेत्र पर हमारा कब्जा'",
+      "url": "https://www.abplive.com/news/world/balochistan-break-away-from-pakistan-declared-itself-independent-nation-claims-control-over-territory-3159806",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T09:07:44+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/3be012058dca7a46d5bcd813398bc9571784020947896344_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "बलूचिस्तान ने पाकिस्तान से अलग होकर खुद को आजाद देश घोषित कर दिया है. बलूचिस्तान की सेना ने 85 प्रतिशत क्षेत्र पर कब्जा करने का दावा किया है. बलूचिस्तान ने पाकिस्तान को करारा झटका देते हुए खुद को आजाद देश घोषित कर दिया है. सोशल मीडिया पर एक बयान शेयर किया गया है, जिसमें 'रिपब्लिक ऑफ बलूचिस्तान' के नाम से बलूचिस्तान को स्वतंत्र देश घोषित किए जाने का दावा किया गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान से टूटा बलूचिस्तान! खुद को आजाद देश किया घोषित, कहा- '85 फीसदी क्षेत्र पर हमारा कब्जा'",
+          "summary": "बलूचिस्तान ने पाकिस्तान से अलग होकर खुद को आजाद देश घोषित कर दिया है. बलूचिस्तान की सेना ने 85 प्रतिशत क्षेत्र पर कब्जा करने का दावा किया है. बलूचिस्तान ने पाकिस्तान को करारा झटका देते हुए खुद को आजाद देश घोषित कर दिया है. सोशल मीडिया पर एक बयान शेयर किया गया है, जिसमें 'रिपब्लिक ऑफ बलूचिस्तान' के नाम से बलूचिस्तान को स्वतंत्र देश घोषित किए जाने का दावा किया गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "जंग किसी और की, जहाज किसी और का, मौत भारतीयों की... आखिर ऐसा बार-बार क्यों हो रहा है? कमोडोर केसनूर",
       "url": "https://hindi.news18.com/news/defence/why-indian-seafarers-are-most-vulnerable-in-war-zones-commodore-srikant-kesnur-explains-ws-l-10654966.html",
       "source": "News18 Hindi (World)",
@@ -610,150 +754,6 @@
           "title": "जंग किसी और की, जहाज किसी और का, मौत भारतीयों की... आखिर ऐसा बार-बार क्यों हो रहा है? कमोडोर केसनूर",
           "summary": "कमोडोर श्रीकांत केसनूर ने News18 से बातचीत में कहा कि ईरान-अमेरिका तनाव के बीच खाड़ी के समुद्री मार्ग भारतीय नाविकों के लिए खतरनाक बनते जा रहे हैं. हालिया हमलों में चार भारतीय समुद्री कर्मियों की मौत हो गई. कमोडोर केसनूर ने अंतरराष्ट्रीय कानून और भारतीय नौसेना की भूमिका पर चर्चा की. ईरान-अमेरिका तनाव के बीच खाड़ी के समुद्री मार्ग भारतीय नाविकों के लिए बेहद खतरनाक बनते जा रहे हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज में भारतीय नाविक की मौत के बाद विदेश मंत्रालय ने ईरानी राजनयिकों को किया तलब, जताई कड़ी",
-      "url": "https://hindi.news18.com/world/middle-east-india-summons-iranian-diplomats-after-indian-crew-member-death-in-hormuz-attack-ws-l-10656376.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-14T08:46:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/MEA-IRAN-2026-07-6c2715ca3c20a6bc68175378595184de-1200x800.jpg",
-      "summary": "India Summons Iranian Diplomats: स्ट्रेट ऑफ होर्मुज में ईरानी हमले में हुई भारतीय नाविक की मौत के बाद विदेश मंत्रालय ने इस मामले में ईरानी राजनयिकों को समन किया है. भारत की ओर से इस पर कड़ी आपत्ति जताई गई है और इस बात पर जोर दिया गया है होर्मुज से सुरक्षित और बिना रुकावट के नौवहन होना चाहिए. इतना ही नहीं इस मुद्दे के कूटनीतिक समाधान की भी बात कही गई.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज में भारतीय नाविक की मौत के बाद विदेश मंत्रालय ने ईरानी राजनयिकों को किया तलब, जताई कड़ी",
-          "summary": "India Summons Iranian Diplomats: स्ट्रेट ऑफ होर्मुज में ईरानी हमले में हुई भारतीय नाविक की मौत के बाद विदेश मंत्रालय ने इस मामले में ईरानी राजनयिकों को समन किया है. भारत की ओर से इस पर कड़ी आपत्ति जताई गई है और इस बात पर जोर दिया गया है होर्मुज से सुरक्षित और बिना रुकावट के नौवहन होना चाहिए. इतना ही नहीं इस मुद्दे के कूटनीतिक समाधान की भी बात कही गई.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मुकदमे का फैसला अपने पक्ष में कराने के लिए जज की कुर्सी पर ‘काला जादू’, महिला गिरफ्तार",
-      "url": "https://www.abplive.com/news/india/karnataka-chikkaballapur-woman-performed-sorcery-ritual-judge-chair-ann-3159770",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-14T08:41:24+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/43dcb578ad669d699e2a6d6040b375b017840177269181200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कर्नाटक के चिक्कबल्लापुर में एक 65 वर्षीय महिला को अदालत में चल रहे मुकदमे में अपने पक्ष में फैसला कराने के लिए कथित तौर पर काला जादू करने के आरोप में गिरफ्तार किया गया है. महिला पर आरोप है कि उसने जज की कुर्सी पर काला जादू किया था. पुलिस ने महिला को गिरफ्तार कर लिया है और मामले की जांच शुरू कर दी है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुकदमे का फैसला अपने पक्ष में कराने के लिए जज की कुर्सी पर ‘काला जादू’, महिला गिरफ्तार",
-          "summary": "कर्नाटक के चिक्कबल्लापुर में एक 65 वर्षीय महिला को अदालत में चल रहे मुकदमे में अपने पक्ष में फैसला कराने के लिए कथित तौर पर काला जादू करने के आरोप में गिरफ्तार किया गया है. महिला पर आरोप है कि उसने जज की कुर्सी पर काला जादू किया था. पुलिस ने महिला को गिरफ्तार कर लिया है और मामले की जांच शुरू कर दी है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज स्ट्रेट पर बढ़ा तनाव, अमेरिका से टकराव के बीच ईरान की संसद में नया बिल पेश",
-      "url": "https://www.patrika.com/world-news/iran-parliament-introduces-bill-to-control-strait-of-hormuz-amid-us-tensions-20746381",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-14T08:28:43+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/03/Strait-of-Hormuz-Crisis-1.webp",
-      "summary": "ईरान की संसद ने होर्मुज स्ट्रेट पर नया बिल पेश किया। Iran on hormuz Strait: पश्चिम एशिया में अमेरिका से तनाव के बीच ईरान की संसद ने होर्मुज स्ट्रेट को लेकर एक नए बिल पर काम शुरू कर दिया है। इसकी जानकारी संसद की सुरक्षा समिति के प्रमुख इब्राहिम अजीजी ने मंगलवार को दी है। यह कदम ऐसे समय में उठाया गया है जब वॉशिंगटन और तेहरान के बीच इस महत्वपूर्ण जलमार्ग को लेकर हमले तेज हो गए हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज स्ट्रेट पर बढ़ा तनाव, अमेरिका से टकराव के बीच ईरान की संसद में नया बिल पेश",
-          "summary": "ईरान की संसद ने होर्मुज स्ट्रेट पर नया बिल पेश किया। Iran on hormuz Strait: पश्चिम एशिया में अमेरिका से तनाव के बीच ईरान की संसद ने होर्मुज स्ट्रेट को लेकर एक नए बिल पर काम शुरू कर दिया है। इसकी जानकारी संसद की सुरक्षा समिति के प्रमुख इब्राहिम अजीजी ने मंगलवार को दी है। यह कदम ऐसे समय में उठाया गया है जब वॉशिंगटन और तेहरान के बीच इस महत्वपूर्ण जलमार्ग को लेकर हमले तेज हो गए हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'नमाज के लिए मुस्लिम पक्ष को दी जाएगी जगह', धार भोजशाला केस में सुप्रीम कोर्ट का आदेश, हाईकोर्ट के",
-      "url": "https://www.abplive.com/news/india/dhar-bhojshala-case-supreme-court-notice-on-muslim-side-mp-high-court-vedict-ann-3159777",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-14T08:28:25+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/267543dba40c90eca4a3621f2f7c3ab51784017783572425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सुप्रीम कोर्ट ने धार भोजशाला मामले में मध्य प्रदेश हाईकोर्ट के फैसले पर रोक लगाने से इनकार कर दिया. धार भोजशाला विवाद में सुप्रीम कोर्ट ने सोमवार को अहम अंतरिम आदेश देते हुए मध्य प्रदेश हाईकोर्ट के फैसले पर फिलहाल रोक लगाने से इनकार कर दिया. हालांकि अदालत ने मुस्लिम पक्ष को राहत देते हुए निर्देश दिया कि हर शुक्रवार दोपहर 1 बजे से 3 बजे तक परिसर के नजदीक नमाज के लिए एक उपयुक्त खुली जगह उपलब्ध कराई जाए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'नमाज के लिए मुस्लिम पक्ष को दी जाएगी जगह', धार भोजशाला केस में सुप्रीम कोर्ट का आदेश, हाईकोर्ट के",
-          "summary": "सुप्रीम कोर्ट ने धार भोजशाला मामले में मध्य प्रदेश हाईकोर्ट के फैसले पर रोक लगाने से इनकार कर दिया. धार भोजशाला विवाद में सुप्रीम कोर्ट ने सोमवार को अहम अंतरिम आदेश देते हुए मध्य प्रदेश हाईकोर्ट के फैसले पर फिलहाल रोक लगाने से इनकार कर दिया. हालांकि अदालत ने मुस्लिम पक्ष को राहत देते हुए निर्देश दिया कि हर शुक्रवार दोपहर 1 बजे से 3 बजे तक परिसर के नजदीक नमाज के लिए एक उपयुक्त खुली जगह उपलब्ध कराई जाए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सुप्रीम कोर्ट में बोला मुस्लिम पक्ष- 800 साल पुरानी मस्जिद में नमाज रुकवा दी', CJI तुरंत बोले-",
-      "url": "https://www.abplive.com/news/india/dhar-bhojshala-case-muslim-side-tells-supreme-court-namaz-was-stopped-at-800-year-old-mosque-cji-immediately-interjects-3159772",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-14T08:27:18+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/4c2578e24c33c95bb0f5181efcc2556817840175516341189_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सुप्रीम कोर्ट में मुस्लिम पक्ष ने कहा कि 800 साल पुरानी मस्जिद में नमाज रुकवा दी गई. सुप्रीम कोर्ट में धार भोजशाला मामले में सुनवाई के दौरान मुस्लिम पक्ष ने दलील दी कि मस्जिद में 800 सालों से नमाज हो रही थी, जिसे बंद करा दिया गया. हमें धार्मिक गतिविधियों से पूरी तरह बाहर कर दिया गया. इस पर चीफ जस्टिस सूर्यकांत ने सभी पक्षों से संयमित रहने का अनुरोध किया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सुप्रीम कोर्ट में बोला मुस्लिम पक्ष- 800 साल पुरानी मस्जिद में नमाज रुकवा दी', CJI तुरंत बोले-",
-          "summary": "सुप्रीम कोर्ट में मुस्लिम पक्ष ने कहा कि 800 साल पुरानी मस्जिद में नमाज रुकवा दी गई. सुप्रीम कोर्ट में धार भोजशाला मामले में सुनवाई के दौरान मुस्लिम पक्ष ने दलील दी कि मस्जिद में 800 सालों से नमाज हो रही थी, जिसे बंद करा दिया गया. हमें धार्मिक गतिविधियों से पूरी तरह बाहर कर दिया गया. इस पर चीफ जस्टिस सूर्यकांत ने सभी पक्षों से संयमित रहने का अनुरोध किया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सऊदी में हूतियों ने दागे बम, भागे-भागे तुर्की पहुंचे आसिम मुनीर, फिर इस्लामाबाद MoU का क्या?",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-news-asim-munir-in-turkey-after-houthi-saudi-attack-islamabad-mou-about-to-collapse-10656203.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-14T08:13:26+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Shehbaz-Sharif-Asim-Munir-2026-07-3ea83787fc279c80d4d86fd23612a973-1200x800.jpg",
-      "summary": "Islamabad MoU Collapse: ईरान-अमेरिका तनाव ने ये तो साफ कर दिया है कि इस्लामाबाद में तय हुआ समझौता अब काम तो बिल्कुल नहीं कर रहा है. ऐसे में आसिम मुनीर मध्य पूर्व में तनाव बढ़ने के बाद भागे-भागे तुर्की पहुंच गए हैं, जहां एक और बवाल सऊदी अरब और ईरान के प्रॉक्सी हूतियों के बीच हो गया है. ऐसे में सवाल ये उठता है कि सऊदी अरब के साथ डिफेंस एग्रीमेंट में फंसा पाकिस्तान क्या ईरान को नाराज करेगा?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी में हूतियों ने दागे बम, भागे-भागे तुर्की पहुंचे आसिम मुनीर, फिर इस्लामाबाद MoU का क्या?",
-          "summary": "Islamabad MoU Collapse: ईरान-अमेरिका तनाव ने ये तो साफ कर दिया है कि इस्लामाबाद में तय हुआ समझौता अब काम तो बिल्कुल नहीं कर रहा है. ऐसे में आसिम मुनीर मध्य पूर्व में तनाव बढ़ने के बाद भागे-भागे तुर्की पहुंच गए हैं, जहां एक और बवाल सऊदी अरब और ईरान के प्रॉक्सी हूतियों के बीच हो गया है. ऐसे में सवाल ये उठता है कि सऊदी अरब के साथ डिफेंस एग्रीमेंट में फंसा पाकिस्तान क्या ईरान को नाराज करेगा?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "UAE ने ईरान को दी कड़ी चेतावनी, कहा- नागरिकों और देश की सुरक्षा के लिए जरूरी कदम उठाएंगे",
-      "url": "https://www.patrika.com/world-news/uae-issues-warning-to-iran-over-hormuz-strait-tanker-attack-india-reacts-20746187",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-14T08:09:32+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/us-iran-war-update-NEWS.webp",
-      "summary": "Middle East Tensions: होर्मुज स्ट्रेट में हुए मिसाइल हमले ने भारत की चिंता बढ़ा दी है। इस हमले में एक भारतीय नाविक की जान चली गई। कई अन्य लोग घायल भी हुए। घटना के बाद भारत सरकार ने तुरंत कड़ा रुख अपनाया। विदेश मंत्रालय ने नई दिल्ली में ईरानी राजनयिकों को तलब किया। इनमें ईरान के डिप्टी चीफ ऑफ मिशन मोहम्मद जवाद हुसैनी भी शामिल थे।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UAE ने ईरान को दी कड़ी चेतावनी, कहा- नागरिकों और देश की सुरक्षा के लिए जरूरी कदम उठाएंगे",
-          "summary": "Middle East Tensions: होर्मुज स्ट्रेट में हुए मिसाइल हमले ने भारत की चिंता बढ़ा दी है। इस हमले में एक भारतीय नाविक की जान चली गई। कई अन्य लोग घायल भी हुए। घटना के बाद भारत सरकार ने तुरंत कड़ा रुख अपनाया। विदेश मंत्रालय ने नई दिल्ली में ईरानी राजनयिकों को तलब किया। इनमें ईरान के डिप्टी चीफ ऑफ मिशन मोहम्मद जवाद हुसैनी भी शामिल थे।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'आंख के बदले आंख पूरी दुनिया को अंधा कर देगी', सुप्रीम कोर्ट में अभिषेक मनु सिंघवी की दलील",
-      "url": "https://www.abplive.com/news/india/dhar-bhojshala-case-supreme-court-eye-for-an-eye-will-make-whole-world-blind-abhishek-manu-singhvi-argument-3159744",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-14T07:34:29+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/190b0094bd94ae42e0e110d51f4db03a1784014832444344_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सुप्रीम कोर्ट में अभिषेक मनु सिंघवी ने कहा कि आंख के बदले आंख पूरी दुनिया को अंधा कर देगी. मध्य प्रदेश के धार की ऐतिहासिक भोजशाला से जुड़ा मामला सुप्रीम कोर्ट में चल रहा है. मंगलवार (14 जुलाई) को मामले की सुनवाई के दौरान वरिष्ठ अधिवक्ता अभिषेक मनु सिंघवी ने कहा कि एक आंख के बदले आंख दुनिया को अंधा कर देगी.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'आंख के बदले आंख पूरी दुनिया को अंधा कर देगी', सुप्रीम कोर्ट में अभिषेक मनु सिंघवी की दलील",
-          "summary": "सुप्रीम कोर्ट में अभिषेक मनु सिंघवी ने कहा कि आंख के बदले आंख पूरी दुनिया को अंधा कर देगी. मध्य प्रदेश के धार की ऐतिहासिक भोजशाला से जुड़ा मामला सुप्रीम कोर्ट में चल रहा है. मंगलवार (14 जुलाई) को मामले की सुनवाई के दौरान वरिष्ठ अधिवक्ता अभिषेक मनु सिंघवी ने कहा कि एक आंख के बदले आंख दुनिया को अंधा कर देगी.",
-          "region": "दुनिया"
         }
       }
     }
