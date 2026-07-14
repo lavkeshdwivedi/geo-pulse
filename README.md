@@ -49,13 +49,13 @@ Hourly geopolitics news aggregation. Smart update detection so it only publishes
 <!-- README-AUTO-STATUS:START -->
 ## Project Status (auto-updated)
 
-- Last newsletter build: 2026-07-14 03:07 UTC
+- Last newsletter build: 2026-07-14 05:04 UTC
 - Stories published on homepage: 50
-- Unique stories found this run: 275
-- Latest archive file: 2026-07-14-03.md
-- Total archived editions: 1286
+- Unique stories found this run: 274
+- Latest archive file: 2026-07-14-05.md
+- Total archived editions: 1287
 - Configured schedule (cron): `0 * * * *`
-- README status last synced: 2026-07-14 03:11 UTC
+- README status last synced: 2026-07-14 05:15 UTC
 <!-- README-AUTO-STATUS:END -->
 
 ## Configuration
