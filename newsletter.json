@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-14T21:24:17.285479+00:00",
-  "article_count": 50,
-  "total_unique_count": 271,
+  "generated_at": "2026-07-14T22:24:12.934014+00:00",
+  "article_count": 49,
+  "total_unique_count": 273,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Why The US-Iran Conflict Keeps Shifting Between Fighting And Diplomacy. 25 fresh dispatches in this edition.",
-    "hi": "मानसून सत्र में संशोधन विधेयक पारित होने की संभावना है। चिदंबरम ने बताया कि BJP का प्लान है। अदालत ने आरोपी को जमानत देते हुए कहा कि सरकार या CM की आलोचना देश के खिलाफ युद्ध नहीं है।"
+    "en": "The US-Iran conflict dominates headlines. Tensions in the Strait of Hormuz are a key concern. The UN has condemned deadly attacks in the region.",
+    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जिनमें चिदंबरम ने बताया है कि BJP का प्लान क्या है। अदालत ने आरोपी को जमानत देते हुए कहा कि सरकार या CM की आलोचना देश के खिलाफ युद्ध नहीं है।"
   },
   "articles": [
     {
@@ -52,6 +52,18 @@
       "image_url": "https://i.guim.co.uk/img/media/a014538c2d2dea31128b38989f9203b656c9e93b/260_0_2041_1633/master/2041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01d4998232fe0ae06ab25af0c4f14038",
       "summary": "Bar owner in Thailand offers ‘deepest apologies for this tragic incident’ as police investigate whether exits were either blocked or hard to accessThe Bangkok pub that has become the scene of the city’s deadliest blaze in 17 years has said it will cooperate with an investigation into alleged negligence, as the death toll rose to 30. Death toll reaches 30 as police investigate negligence as ‘primary theory’.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "World Cup football’s other goal: Helping young people talk about mental health",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167941",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-14T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/19-05-2025-UNICEF-DR-Congo-football-01.jpg/image770x420cropped.jpg",
+      "summary": "When Dr. Sahira Al Nahari founded Shifā Art, a Saudi Arabia-based organization using art to create conversations around mental health, she noticed that men attending her therapeutic art workshops often felt uncomfortable opening up about their feelings. World Cup football’s other goal: Helping young people talk about mental health.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -224,30 +236,6 @@
       "translations": {}
     },
     {
-      "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167923",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-12T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-03-2026-NASA-Hormuz-01.jpg/image770x420cropped.jpg",
-      "summary": "Renewed strikes and counterstrikes occurred between Iran and the United States in the Gulf region. The UN chief urged Iran and the US to resume negotiations. The US denied Tehran's claim that it had closed the Strait of Hormuz on Sunday. Fears of a return to all-out war have increased. Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of a return to all‑out war, with Washington denying Tehran’s claim that it had closed the crucial Strait of Hormuz on Sunday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Reviving communities home by home in Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-12T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/08-07-2026-UNDP-Gaza-06.jpg/image770x420cropped.jpg",
-      "summary": "Mayyada, a 24-year-old pregnant with twins, is settling into a temporary home in Gaza with her family. She is also caring for her two-year-old daughter. Displacement had previously disrupted their daily life in war-ravaged Gaza. Mayyada's family is now getting back on their feet in their new temporary home. Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Experts warn of ways screwworm could spread in the US and new difficulties in keeping it at bay",
       "url": "https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry",
       "source": "The Guardian",
@@ -310,7 +298,7 @@
     {
       "title": "क्या मानसून सत्र में पारित होगा संशोधन विधेयक?: चिदंबरम ने बताया BJP का प्लान, इंडिया गुट से है",
       "url": "https://www.amarujala.com/india-news/p-chidambaram-claims-bjp-may-bring-131st-constitutional-amendment-bill-in-monsoon-session-2026-07-15",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-15T07:19:59+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/09/terribly-wrong-congress-leader-p-chidambaram-criticises-pms-remarks-on-2611-attacks_a67e60d6c590fbb0099be42ccd6fe8ce.jpeg?w=1200&dpr=1.0",
@@ -398,20 +386,92 @@
       }
     },
     {
-      "title": "एम्बाप्पे नहीं बचा सके फ्रांस की लाज, स्पेन ने 2-0 से जीता सेमीफाइनल; ओयरजाबल-पोरो बने हीरो",
-      "url": "https://www.amarujala.com/sports/football/fifa-world-cup-2026-france-vs-spain-semi-final-highlights-today-football-match-result-key-moments-photos-2026-07-15",
+      "title": "काजू के लिए बनेगा पहला अंतरराष्ट्रीय मानक, धनिया-करी पत्ते समेत सात भारतीय प्रस्तावों को वैश्विक",
+      "url": "https://www.amarujala.com/india-news/codex-commission-approves-seven-indian-proposals-cashew-to-get-first-global-standard-2026-07-15",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-14T21:21:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/sapana-na-farasa-ka-haraya_34ba90c726396cfb7f72507e21cc2b4b.jpeg?w=1200&dpr=1.0",
-      "summary": "FIFA World Cup 2026 France vs Spain Semi-final Football Match Highlights Updates: स्पेन ने फीफा विश्व कप 2026 के पहले सेमीफाइनल में फ्रांस को 2-0 से हराकर फाइनल में जगह पक्की कर ली। एम्बाप्पे नहीं बचा सके फ्रांस की लाज, स्पेन ने 2-0 से जीता सेमीफाइनल; ओयरजाबल-पोरो बने हीरो।",
-      "region": "Europe & Russia",
+      "published_at": "2026-07-14T22:17:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/kaju_188026496d19890b34fb7fa786320990.jpeg?w=1200&dpr=1.0",
+      "summary": "Kaju: काजू के लिए बनेगा पहला अंतरराष्ट्रीय मानक, धनिया-करी पत्ते समेत सात भारतीय प्रस्तावों को वैश्विक मंजूरी codex-commission-approves-seven-indian-proposals-cashew-to-get-first-global-standard।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "एम्बाप्पे नहीं बचा सके फ्रांस की लाज, स्पेन ने 2-0 से जीता सेमीफाइनल; ओयरजाबल-पोरो बने हीरो",
-          "summary": "FIFA World Cup 2026 France vs Spain Semi-final Football Match Highlights Updates: स्पेन ने फीफा विश्व कप 2026 के पहले सेमीफाइनल में फ्रांस को 2-0 से हराकर फाइनल में जगह पक्की कर ली। एम्बाप्पे नहीं बचा सके फ्रांस की लाज, स्पेन ने 2-0 से जीता सेमीफाइनल; ओयरजाबल-पोरो बने हीरो।",
-          "region": "यूरोप और रूस"
+          "title": "काजू के लिए बनेगा पहला अंतरराष्ट्रीय मानक, धनिया-करी पत्ते समेत सात भारतीय प्रस्तावों को वैश्विक",
+          "summary": "Kaju: काजू के लिए बनेगा पहला अंतरराष्ट्रीय मानक, धनिया-करी पत्ते समेत सात भारतीय प्रस्तावों को वैश्विक मंजूरी codex-commission-approves-seven-indian-proposals-cashew-to-get-first-global-standard।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "MBBS की 9,911 नई सीटें बढ़ीं: 25 नए मेडिकल कॉलेजों को भी मंजूरी;, इस बार कितने अभ्यर्थियों का होगा",
+      "url": "https://www.amarujala.com/india-news/mbbs-seats-increased-by-9911-nmc-approves-25-new-medical-colleges-for-2026-27-2026-07-15",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-14T22:08:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/mbbs-seats_a0f644eff4685146f791c634c7eafcaa.jpeg?w=1200&dpr=1.0",
+      "summary": "दाखिला? mbbs-seats-increased-by-9911-nmc-approves-25-new-medical-colleges-for-2026-27 MBBS की 9,911 नई सीटें बढ़ीं: 25 नए मेडिकल कॉलेजों को भी मंजूरी;, इस बार कितने अभ्यर्थियों का होगा दाखिला?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "MBBS की 9,911 नई सीटें बढ़ीं: 25 नए मेडिकल कॉलेजों को भी मंजूरी;, इस बार कितने अभ्यर्थियों का होगा",
+          "summary": "दाखिला? mbbs-seats-increased-by-9911-nmc-approves-25-new-medical-colleges-for-2026-27 MBBS की 9,911 नई सीटें बढ़ीं: 25 नए मेडिकल कॉलेजों को भी मंजूरी;, इस बार कितने अभ्यर्थियों का होगा दाखिला?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "12 वार्ड समितियों के चुनाव आज, चार पर टिकीं नजरें; भाजपा सतर्क... कांग्रेस बनेगी किंगमेकर",
+      "url": "https://www.amarujala.com/delhi-ncr/mcd-elections-for-12-ward-committees-today-2026-07-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-14T22:06:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/01/mcd_664fdb91e97f8eb45469e932a3a9c90d.jpeg?w=1200&dpr=1.0",
+      "summary": "एमसीडी की 12 वार्ड समितियों के अध्यक्ष और उपाध्यक्ष पद के लिए आज मतदान होगा। 12 वार्ड समितियों के चुनाव आज, चार पर टिकीं नजरें; भाजपा सतर्क कांग्रेस बनेगी किंगमेकर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "12 वार्ड समितियों के चुनाव आज, चार पर टिकीं नजरें; भाजपा सतर्क... कांग्रेस बनेगी किंगमेकर",
+          "summary": "एमसीडी की 12 वार्ड समितियों के अध्यक्ष और उपाध्यक्ष पद के लिए आज मतदान होगा। 12 वार्ड समितियों के चुनाव आज, चार पर टिकीं नजरें; भाजपा सतर्क कांग्रेस बनेगी किंगमेकर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "चंपत राय की नाकामी पर मुहर, भर्ती प्रक्रिया-नियमों में दी थी ढील; आज सौंपी जा सकती है SIT रिपोर्ट",
+      "url": "https://www.amarujala.com/lucknow/ram-mandir-champat-rai-failure-confirmed-rules-and-recruitment-process-had-been-relaxed-2026-07-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-14T22:04:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/1_191ecba7f963ea8f489ab0e53d9f0667.jpeg?w=1200&dpr=1.0",
+      "summary": "राम मंदिर चढ़ावा चोरी मामले में एसआईटी की विस्तृत जांच रिपोर्ट में ट्रस्ट के पूर्व महासचिव चंपत राय की लापरवाही व निगरानी में नाकामी की पुष्टि हुई है। चंपत राय की नाकामी पर मुहर, भर्ती प्रक्रिया-नियमों में दी थी ढील; आज सौंपी जा सकती है SIT रिपोर्ट।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चंपत राय की नाकामी पर मुहर, भर्ती प्रक्रिया-नियमों में दी थी ढील; आज सौंपी जा सकती है SIT रिपोर्ट",
+          "summary": "राम मंदिर चढ़ावा चोरी मामले में एसआईटी की विस्तृत जांच रिपोर्ट में ट्रस्ट के पूर्व महासचिव चंपत राय की लापरवाही व निगरानी में नाकामी की पुष्टि हुई है। चंपत राय की नाकामी पर मुहर, भर्ती प्रक्रिया-नियमों में दी थी ढील; आज सौंपी जा सकती है SIT रिपोर्ट।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "वन नेशन वन इलेक्शन पर गरमाई यूपी की राजनीति, पक्ष- विपक्ष में छिड़ी जंग!",
+      "url": "https://www.amarujala.com/video/india-news/one-nation-one-election-up-politics-heats-up-over-the-proposal-a-battle-of-words-erupts-between-the-rulin-2026-07-15",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-14T22:00:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/one-nation-one-election_1c05d4f45e315d619c7e7367d2a1af7e.jpeg?w=1200&dpr=1.0",
+      "summary": "'One Nation One Election':वन नेशन वन इलेक्शन पर गरमाई यूपी की राजनीति, पक्ष- विपक्ष में छिड़ी जंग!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वन नेशन वन इलेक्शन पर गरमाई यूपी की राजनीति, पक्ष- विपक्ष में छिड़ी जंग!",
+          "summary": "'One Nation One Election':वन नेशन वन इलेक्शन पर गरमाई यूपी की राजनीति, पक्ष- विपक्ष में छिड़ी जंग!",
+          "region": "दुनिया"
         }
       }
     },
@@ -420,7 +480,7 @@
       "url": "https://www.amarujala.com/live/world/west-asia-tension-live-update-iran-us-war-hormuz-strait-centcom-strikes-irgc-tehran-trump-araghchi-pezeshkian-2026-07-15",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-07-14T21:04:40+00:00",
+      "published_at": "2026-07-14T21:57:11+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/11/iran-us-war-live-updates-west-asia-crisis-usa-militry-strike-multiple-target-in-tehran-donald-trump_4d3d133ae210ebe724be65be8e9ad8c0.gif?w=1200&dpr=1.0",
       "summary": "West Asia Tension LIVE Update Iran US War Hormuz strait CENTCOM Strikes IRGC Tehran Trump Araghchi Pezeshkian- West Asia Tension LIVE Update: ईरान पर अमेरिका का एक और हमला, नाकेबंदी से पहले सैन्य ठिकानों को बनाया निशाना।",
       "region": "Middle East & Africa",
@@ -434,9 +494,63 @@
       }
     },
     {
+      "title": "'पुतिन करने वाले थे परमाणु हमला, मोदी ने रोका', पोलैंड के उप विदेश मंत्री ने PM की तारीफ में क्या",
+      "url": "https://www.amarujala.com/world/russia-ukraine-conflict-polish-deputy-foreign-minister-praises-pm-modi-says-putin-listens-to-him-2026-07-15",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-14T21:53:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/palda-ka-upa-vathasha-matara-valthasalva-thayafal-bratashavasaka_a34f9dc8cb1163949ac125e66c5f7d14.jpeg?w=1200&dpr=1.0",
+      "summary": "पोलैंड के उप विदेश मंत्री ने कहा कि रूस के राष्ट्रपति व्लादिमीर पुतिन ने यूक्रेन पर परमाणु हमला करने की योजना बनाई थी, लेकिन भारत के प्रधानमंत्री नरेंद्र मोदी ने उन्हें रोका। उप विदेश मंत्री ने प्रधानमंत्री मोदी की प्रशंसा की। पुतिन मोदी की बात सुनते हैं। 'पुतिन करने वाले थे परमाणु हमला, मोदी ने रोका', पोलैंड के उप विदेश मंत्री ने PM की तारीफ में क्या।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'पुतिन करने वाले थे परमाणु हमला, मोदी ने रोका', पोलैंड के उप विदेश मंत्री ने PM की तारीफ में क्या",
+          "summary": "पोलैंड के उप विदेश मंत्री ने कहा कि रूस के राष्ट्रपति व्लादिमीर पुतिन ने यूक्रेन पर परमाणु हमला करने की योजना बनाई थी, लेकिन भारत के प्रधानमंत्री नरेंद्र मोदी ने उन्हें रोका। उप विदेश मंत्री ने प्रधानमंत्री मोदी की प्रशंसा की। पुतिन मोदी की बात सुनते हैं। 'पुतिन करने वाले थे परमाणु हमला, मोदी ने रोका', पोलैंड के उप विदेश मंत्री ने PM की तारीफ में क्या।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "भारतीय नेपाली साहित्य के एक युग का अंत, साहित्य जगत में शोक की लहर",
+      "url": "https://www.amarujala.com/india-news/padma-shri-awardee-geeta-upadhyay-passes-away-literary-world-mourns-2026-07-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-14T21:38:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/pathamashara-gata-upathhayaya-ka-nathhana_cc436d040b539e75f2dc8fc97ad88da3.jpeg?w=1200&dpr=1.0",
+      "summary": "पद्मश्री से सम्मानित गीता उपाध्याय का निधन हो गया है। उनका निधन भारतीय नेपाली साहित्य के एक युग का अंत माना जा रहा है। साहित्य जगत में उनके निधन पर शोक की लहर है। भारतीय नेपाली साहित्य के एक युग का अंत, साहित्य जगत में शोक की लहर।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारतीय नेपाली साहित्य के एक युग का अंत, साहित्य जगत में शोक की लहर",
+          "summary": "पद्मश्री से सम्मानित गीता उपाध्याय का निधन हो गया है। उनका निधन भारतीय नेपाली साहित्य के एक युग का अंत माना जा रहा है। साहित्य जगत में उनके निधन पर शोक की लहर है। भारतीय नेपाली साहित्य के एक युग का अंत, साहित्य जगत में शोक की लहर।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "स्पेन दूसरी बार विश्वकप के फाइनल में, एम्बाप्पे की फ्रांस को 2-0 से हराया; ओयरजाबल-पोरो चमके",
+      "url": "https://www.amarujala.com/sports/football/fifa-world-cup-2026-france-vs-spain-semi-final-highlights-today-football-match-result-key-moments-photos-2026-07-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-14T21:21:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/sapana-na-farasa-ka-haraya_34ba90c726396cfb7f72507e21cc2b4b.jpeg?w=1200&dpr=1.0",
+      "summary": "FIFA World Cup 2026 France vs Spain Semi-final Football Match Highlights Updates: स्पेन ने फीफा विश्व कप 2026 के पहले सेमीफाइनल में फ्रांस को 2-0 से हराकर फाइनल में जगह पक्की कर ली। एम्बाप्पे नहीं बचा सके फ्रांस की लाज, स्पेन ने 2-0 से जीता सेमीफाइनल; ओयरजाबल-पोरो बने हीरो। स्पेन दूसरी बार विश्वकप के फाइनल में, एम्बाप्पे की फ्रांस को 2-0 से हराया; ओयरजाबल-पोरो चमके।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्पेन दूसरी बार विश्वकप के फाइनल में, एम्बाप्पे की फ्रांस को 2-0 से हराया; ओयरजाबल-पोरो चमके",
+          "summary": "FIFA World Cup 2026 France vs Spain Semi-final Football Match Highlights Updates: स्पेन ने फीफा विश्व कप 2026 के पहले सेमीफाइनल में फ्रांस को 2-0 से हराकर फाइनल में जगह पक्की कर ली। एम्बाप्पे नहीं बचा सके फ्रांस की लाज, स्पेन ने 2-0 से जीता सेमीफाइनल; ओयरजाबल-पोरो बने हीरो। स्पेन दूसरी बार विश्वकप के फाइनल में, एम्बाप्पे की फ्रांस को 2-0 से हराया; ओयरजाबल-पोरो चमके।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "France vs Spain Semi-final Highlights: स्पेन ने फ्रांस को 2-0 से हराया, फाइनल में बनाई जगह",
       "url": "https://www.amarujala.com/live/sports/football/france-vs-spain-live-fifa-world-cup-2026-semi-final-football-match-result-updates-2026-07-14",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-07-14T21:03:07+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/farasa-bnama-sapana_639fef78e04b13eca63bc8988ccc69ef.jpeg?w=1200&dpr=1.0",
@@ -448,6 +562,24 @@
           "title": "France vs Spain Semi-final Highlights: स्पेन ने फ्रांस को 2-0 से हराया, फाइनल में बनाई जगह",
           "summary": "FIFA World Cup 2026 France vs Spain Semi-final Football Match Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। 22वें मिनट में ओयरजाबल ने पेनल्टी को गोल में बदला, स्पेन 0-1 से आगे। पेड्रो पोरो ने दागा दूसरा गोल, स्पेन ने फ्रांस पर 2-0 की मजबूत बढ़त बनाई।",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ईरान की सैन्य क्षमता को कमजोर करने के लिए अमेरिका ने फिर किए हमले, कई जगह सुनाई दिए धमाके",
+      "url": "https://www.patrika.com/world-news/us-starts-attacking-iran-again-to-continue-degrading-iranian-military-capabilities-20747983",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-14T20:37:37+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/us-again-attacks-iran.webp",
+      "summary": "अमेरिकी सेना ने ईरान पर हमले शुरू किए हैं। यह लगातार चौथी रात है जब अमेरिका ने ईरान पर हमले किए हैं। अमेरिकी सेना की CENTCOM यूनिट ने ईरान पर हमले की पुष्टि की। ईरान (Iran) और अमेरिका (United States of America) में बढ़ते तनाव के बीच अमेरिकी सेना ने एक बार फिर ईरान पर हमले शुरू कर दिए हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान की सैन्य क्षमता को कमजोर करने के लिए अमेरिका ने फिर किए हमले, कई जगह सुनाई दिए धमाके",
+          "summary": "अमेरिकी सेना ने ईरान पर हमले शुरू किए हैं। यह लगातार चौथी रात है जब अमेरिका ने ईरान पर हमले किए हैं। अमेरिकी सेना की CENTCOM यूनिट ने ईरान पर हमले की पुष्टि की। ईरान (Iran) और अमेरिका (United States of America) में बढ़ते तनाव के बीच अमेरिकी सेना ने एक बार फिर ईरान पर हमले शुरू कर दिए हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -494,32 +626,14 @@
       "sources": [],
       "published_at": "2026-07-14T19:54:22+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/trump-in-oval-office_.webp",
-      "summary": "ईरान (Iran) और अमेरिका (United States of America) में बढ़ते तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) ने होर्मुज स्ट्रेट (Strait of Hormuz) में ईरान के खिलाफ नाकेबंदी फिर से लागू करने की घोषणा की।",
+      "summary": "ईरान (Iran) और अमेरिका (United States of America) में बढ़ते तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) ने होर्मुज स्ट्रेट (Strait of Hormuz) में ईरान के खिलाफ नाकेबंदी फिर से लागू करने की घोषणा की। इसके साथ ही ट्रंप ने निष्पक्षता के नाते दुनिया के इस बेहद संवेदनशील हिस्से में सुरक्षा और हिफाज़त का काम करने में आने वाले सभी ज़रूरी खर्चों के लिए वहाँ से गुज़रने वाले सभी कार्गो जहाजों।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "डोनाल्ड ट्रंप का यू-टर्न, होर्मुज स्ट्रेट में जहाजों से नहीं वसूलेंगे 20% टोल टैक्स",
-          "summary": "ईरान (Iran) और अमेरिका (United States of America) में बढ़ते तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) ने होर्मुज स्ट्रेट (Strait of Hormuz) में ईरान के खिलाफ नाकेबंदी फिर से लागू करने की घोषणा की।",
+          "summary": "ईरान (Iran) और अमेरिका (United States of America) में बढ़ते तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) ने होर्मुज स्ट्रेट (Strait of Hormuz) में ईरान के खिलाफ नाकेबंदी फिर से लागू करने की घोषणा की। इसके साथ ही ट्रंप ने निष्पक्षता के नाते दुनिया के इस बेहद संवेदनशील हिस्से में सुरक्षा और हिफाज़त का काम करने में आने वाले सभी ज़रूरी खर्चों के लिए वहाँ से गुज़रने वाले सभी कार्गो जहाजों।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दिल्ली-NCR में उमस का डबल अटैक जारी, अभी नहीं मिलने वाली राहत; एक हफ्ते कैसा रहेगा मौमस?",
-      "url": "https://www.amarujala.com/delhi-ncr/mausam-ka-hal-humidity-in-delhi-ncr-kal-kaisa-rahega-weather-2026-07-14",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-14T19:46:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/27/thall-ma-garama-sa-parashana-lga_d2658e9d97c3905e85a5234a2514a4d0.jpeg?w=1200&dpr=1.0",
-      "summary": "गर्मी और उमस से बेहाल दिल्ली में मंगलवार सुबह कई हिस्सों में हल्की बारिश हुई, जिसके बाद तापमान में थोड़ी कमी आई। दिल्ली-NCR में उमस का डबल अटैक जारी, अभी नहीं मिलने वाली राहत; एक हफ्ते कैसा रहेगा मौमस?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिल्ली-NCR में उमस का डबल अटैक जारी, अभी नहीं मिलने वाली राहत; एक हफ्ते कैसा रहेगा मौमस?",
-          "summary": "गर्मी और उमस से बेहाल दिल्ली में मंगलवार सुबह कई हिस्सों में हल्की बारिश हुई, जिसके बाद तापमान में थोड़ी कमी आई। दिल्ली-NCR में उमस का डबल अटैक जारी, अभी नहीं मिलने वाली राहत; एक हफ्ते कैसा रहेगा मौमस?",
-          "region": "यूरोप और रूस"
         }
       }
     },
@@ -627,132 +741,6 @@
         "hi": {
           "title": "सोमालिया की सेना ने की एयरस्ट्राइक्स, 42 आतंकी हुए ढेर",
           "summary": "आतंकवाद (Terrorism) दुनियाभर में तेज़ी से फैल रहा है और एक बड़ी समस्या बन गया है। अफ्रीकी देशों में पिछले कुछ सालों में आतंकवाद तेज़ी से फैला है और इन देशों में सोमालिया (Somalia) भी शामिल है। सोमालिया में अल-शबाब (al-Shabab) नाम का आतंकी संगठन पिछले कई सालों से एक्टिव है और दहशत फैला रहा है। यह आतंकी संगठन देश में सेना, अधिकारियों और आम नागरिकों पर हमले करने से पीछे नहीं हटता।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "20% होर्मुज फीस पर ट्रंप ने मारी पलटी, गल्फ देशों से कुछ और मांग लिया, अमेरिकियों के हाथ लगा खजाना",
-      "url": "https://hindi.news18.com/world/america-trump-drops-20-percent-hormuz-fee-forces-gulf-states-into-massive-us-investment-deals-fuel-american-economy-10658139.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-14T17:00:13+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Trump-To-Attack-Iran-2026-07-3168a094662f4237e250dd07d1986b1e-1200x800.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 20% सुरक्षा टैक्स पर बड़ा यू-टर्न मारा है. उन्होंने इस फैसले को 24 घंटे के भीतर ही पूरी तरह पलट दिया है. ट्रंप ने सोशल मीडिया पर इस बात का खुलासा किया कि खाड़ी देशों के नेताओं के साथ हुई बड़ी डील हो गई है, जिसके बाद अमेरिका में नौकरियों की बहार आने वाली है. ट्रंप ने ऐलान किया है कि ईरान के पोर्ट पर अमेरिकी आर्मी ने दोबारा से तगड़ी नाकेबंद लगा दी है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "20% होर्मुज फीस पर ट्रंप ने मारी पलटी, गल्फ देशों से कुछ और मांग लिया, अमेरिकियों के हाथ लगा खजाना",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 20% सुरक्षा टैक्स पर बड़ा यू-टर्न मारा है. उन्होंने इस फैसले को 24 घंटे के भीतर ही पूरी तरह पलट दिया है. ट्रंप ने सोशल मीडिया पर इस बात का खुलासा किया कि खाड़ी देशों के नेताओं के साथ हुई बड़ी डील हो गई है, जिसके बाद अमेरिका में नौकरियों की बहार आने वाली है. ट्रंप ने ऐलान किया है कि ईरान के पोर्ट पर अमेरिकी आर्मी ने दोबारा से तगड़ी नाकेबंद लगा दी है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दक्षिणी लेबनान में 2 पायलट जोन लागू करने को तैयार इजरायल, हिज़्बुल्लाह के पीछे हटते ही लेबनानी सेना",
-      "url": "https://www.patrika.com/world-news/israel-ready-to-implement-pilot-zones-in-lebanon-20747710",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-14T16:20:24+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Gideon-Saar-9.webp",
-      "summary": "Lebanon pilot zones: इजराइल के विदेश मंत्री गिडियन सार ने कहा है कि उनका देश लेबनान में दो पायलट जोन लागू करने के लिए तैयार है। उन्होंने कहा कि इटली में होने वाली बातचीत से इस प्रक्रिया को आगे बढ़ाने में मदद मिल सकती है। विदेश मंत्री गिडियन सार के अनुसार, इस समझौते के तहत एक रणनीतिक ब्लूप्रिंट तैयार किया गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दक्षिणी लेबनान में 2 पायलट जोन लागू करने को तैयार इजरायल, हिज़्बुल्लाह के पीछे हटते ही लेबनानी सेना",
-          "summary": "Lebanon pilot zones: इजराइल के विदेश मंत्री गिडियन सार ने कहा है कि उनका देश लेबनान में दो पायलट जोन लागू करने के लिए तैयार है। उन्होंने कहा कि इटली में होने वाली बातचीत से इस प्रक्रिया को आगे बढ़ाने में मदद मिल सकती है। विदेश मंत्री गिडियन सार के अनुसार, इस समझौते के तहत एक रणनीतिक ब्लूप्रिंट तैयार किया गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "रूस-यूक्रेन युद्ध के बीच जेलेंस्की का बड़ा दांव, फ्रांस से खरीदेंगे 16 राफेल लड़ाकू विमान",
-      "url": "https://www.patrika.com/world-news/ukraine-rafale-deal-16-fighter-jets-france-italy-missile-production-20747682",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-14T16:17:46+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Ukraine-France-Rafale-deal.webp",
-      "summary": "President Volodymyr Zelensky said France will deliver 16 Rafale fighters to Ukraine by the end of 2026. Ukraine Rafale Deal: यूक्रेन ने अपनी रक्षा क्षमता बढ़ाने के लिए बड़ा कदम उठाया है। राष्ट्रपति वोलोदिमिर जेलेंस्की ने घोषणा की हैकि यूक्रेन को स्कैल्प क्रूज मिसाइल, एएएसएम गाइडेड बम और एस्टर-30 मिसाइल बनाने का लाइसेंस मिलेगा। उन्होंने बताया कि यूक्रेन दुनिया का पहला देश होगा जिसे नई पीढ़ी की सैम/टी एनजी वायु रक्षा प्रणाली मिलेगी।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस-यूक्रेन युद्ध के बीच जेलेंस्की का बड़ा दांव, फ्रांस से खरीदेंगे 16 राफेल लड़ाकू विमान",
-          "summary": "President Volodymyr Zelensky said France will deliver 16 Rafale fighters to Ukraine by the end of 2026. Ukraine Rafale Deal: यूक्रेन ने अपनी रक्षा क्षमता बढ़ाने के लिए बड़ा कदम उठाया है। राष्ट्रपति वोलोदिमिर जेलेंस्की ने घोषणा की हैकि यूक्रेन को स्कैल्प क्रूज मिसाइल, एएएसएम गाइडेड बम और एस्टर-30 मिसाइल बनाने का लाइसेंस मिलेगा। उन्होंने बताया कि यूक्रेन दुनिया का पहला देश होगा जिसे नई पीढ़ी की सैम/टी एनजी वायु रक्षा प्रणाली मिलेगी।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "प्रकृति का चमत्कार, आसमान की तरफ बहने लगा झरना! जानिए पानी हवा में ऊपर क्यों उड़ने लगता है?",
-      "url": "https://hindi.news18.com/news/ajab-gajab/viral-reverse-waterfall-mystery-typhoon-bavi-effect-china-maharashtra-niagara-falls-viral-videos-10657679.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-14T16:16:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Reverse_Waterfall_China-2026-07-576b696539482600b1511b8f814a8f1a-1200x800.jpg",
-      "summary": "Reverse Waterfall Mystery: प्रकृति के कुछ नजारे इतने अजीब होते हैं कि उन पर यकीन करना मुश्किल होता है. चीन के झेजियांग प्रांत में हाल ही में एक 'रिवर्स वाटरफॉल' देखने को मिला. यहां पानी नीचे गिरने के बजाय आसमान की तरफ उड़ने लगा. ऐसा ही नजारा भारत में महाराष्ट्र के एक पहाड़ पर भी दिखता है. आइए जानते हैं ग्रेविटी को चुनौती देने वाले इस अनोखे रिवर्स वाटरफॉल का असली रहस्य क्या है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रकृति का चमत्कार, आसमान की तरफ बहने लगा झरना! जानिए पानी हवा में ऊपर क्यों उड़ने लगता है?",
-          "summary": "Reverse Waterfall Mystery: प्रकृति के कुछ नजारे इतने अजीब होते हैं कि उन पर यकीन करना मुश्किल होता है. चीन के झेजियांग प्रांत में हाल ही में एक 'रिवर्स वाटरफॉल' देखने को मिला. यहां पानी नीचे गिरने के बजाय आसमान की तरफ उड़ने लगा. ऐसा ही नजारा भारत में महाराष्ट्र के एक पहाड़ पर भी दिखता है. आइए जानते हैं ग्रेविटी को चुनौती देने वाले इस अनोखे रिवर्स वाटरफॉल का असली रहस्य क्या है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'होर्मुज में छेड़ा तो छोड़ेंगे नहीं', भारत ने आज ईरान को लताड़ा, तब अमेरिका को भी खूब सुनाया था",
-      "url": "https://hindi.news18.com/world/middle-east-india-clear-message-to-iran-america-attack-on-indian-crew-is-unacceptable-as-hormuz-war-intensify-10657988.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-14T16:09:37+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Hormuz-Strait-2026-07-20d374cf65154861e365fa0b98b22b76-1200x800.jpg",
-      "summary": "India deployed warships to the Strait of Hormuz on 14 July after Iranian missiles struck an Indian cargo ship, killing one sailor and wounding six. The operation follows a June 2026 Indian naval move that intercepted US vessels in the same waterway. भारत अपने नागरिकों की सुरक्षा के मामले में एक 'नो-नॉनसेंस' स्टैंड पर कायम है. भारत का रुख अमेरिका और ईरान दोनों के लिए बिल्कुल एक जैसा और बेहद सख्त है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'होर्मुज में छेड़ा तो छोड़ेंगे नहीं', भारत ने आज ईरान को लताड़ा, तब अमेरिका को भी खूब सुनाया था",
-          "summary": "India deployed warships to the Strait of Hormuz on 14 July after Iranian missiles struck an Indian cargo ship, killing one sailor and wounding six. The operation follows a June 2026 Indian naval move that intercepted US vessels in the same waterway. भारत अपने नागरिकों की सुरक्षा के मामले में एक 'नो-नॉनसेंस' स्टैंड पर कायम है. भारत का रुख अमेरिका और ईरान दोनों के लिए बिल्कुल एक जैसा और बेहद सख्त है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘पीएम मोदी ने पुतिन को न्यूक्लियर अटैक करने से रोका’, खुद यूरोपीय देश ने किया दावा, जंग रोकने को",
-      "url": "https://hindi.news18.com/world/europe-pm-modi-stopped-putin-from-launching-nuclear-attack-on-ukraine-polish-minister-huge-revelation-on-india-role-in-russia-ukraine-war-10657767.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-14T15:23:57+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Putin-To-Nuclear-Attack-On-Ukraine-2026-07-2d24d78228b646a21d98069f0b679199-1200x800.jpg",
-      "summary": "रूस-यूक्रेन युद्ध को रोकने के लिए भारत पर भरोसा जताते हुए पोलैंड के मंत्री ने बहुत बड़ा दावा कर दिया है. उनका कहना है कि रूसी राष्ट्रपति पुतिन तो यूक्रेन पर परमाणु बम दागने के लिए बिल्कुल तैयार बैठे थे, लेकिन ऐन वक्त पर पीएम मोदी के कहने पर उन्हें अपने कदम पीछे खींचने पड़े. पीएम मोदी और पुतिन की इसी गहरी दोस्ती को देखते हुए अब पोलैंड के मंत्री को उम्मीद है कि दुनिया में अगर कोई पुतिन को मना सकता ह।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘पीएम मोदी ने पुतिन को न्यूक्लियर अटैक करने से रोका’, खुद यूरोपीय देश ने किया दावा, जंग रोकने को",
-          "summary": "रूस-यूक्रेन युद्ध को रोकने के लिए भारत पर भरोसा जताते हुए पोलैंड के मंत्री ने बहुत बड़ा दावा कर दिया है. उनका कहना है कि रूसी राष्ट्रपति पुतिन तो यूक्रेन पर परमाणु बम दागने के लिए बिल्कुल तैयार बैठे थे, लेकिन ऐन वक्त पर पीएम मोदी के कहने पर उन्हें अपने कदम पीछे खींचने पड़े. पीएम मोदी और पुतिन की इसी गहरी दोस्ती को देखते हुए अब पोलैंड के मंत्री को उम्मीद है कि दुनिया में अगर कोई पुतिन को मना सकता ह।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान को बेंजामिन नेतन्याहू की सख्त चेतावनी, कहा- इस बार हमले का जवाब और जबरदस्त होगा",
-      "url": "https://www.patrika.com/world-news/benjamin-netanyahu-warn-iran-over-attack-send-message-to-leaders-20747674",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-14T14:25:49+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Israeli-Prime-Minister-Benjamin-Netanyahu-1.webp",
-      "summary": "अमेरिका और ईरान के बीच बढ़े तनाव के बाद इजराइल भी एक्टिव हो गया है। इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने इरान को फिर से साफ-साफ चेतावनी दी है। ईरान को बेंजामिन नेतन्याहू की सख्त चेतावनी, कहा- इस बार हमले का जवाब और जबरदस्त होगा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान को बेंजामिन नेतन्याहू की सख्त चेतावनी, कहा- इस बार हमले का जवाब और जबरदस्त होगा",
-          "summary": "अमेरिका और ईरान के बीच बढ़े तनाव के बाद इजराइल भी एक्टिव हो गया है। इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने इरान को फिर से साफ-साफ चेतावनी दी है। ईरान को बेंजामिन नेतन्याहू की सख्त चेतावनी, कहा- इस बार हमले का जवाब और जबरदस्त होगा।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
