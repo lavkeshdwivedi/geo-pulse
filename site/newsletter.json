@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-14T14:38:32.471103+00:00",
+  "generated_at": "2026-07-14T15:34:10.098227+00:00",
   "article_count": 50,
   "total_unique_count": 281,
   "digest": {
-    "en": "Iran and the Middle East dominate the news. The Iranian deputy envoy was summoned after an Indian national was killed in a ship attack. Iran also claims the US struck the port city of Bushehr.",
-    "hi": "रूस-यूक्रेन युद्ध के बीच जेलेंस्की ने फ्रांस से 16 राफेल लड़ाकू विमान खरीदने का फैसला किया। ईरान को बेंजामिन नेतन्याहू की सख्त चेतावनी मिली। रूस के ऑयल रिफाइनरी प्लांट पर यूक्रेनी ड्रोन अटैक हुआ।"
+    "en": "Singapore and Malaysia are reaffirming cooperation. The Middle East is seeing increased tensions with Iran. Iran's port city of Bushehr was reportedly struck by the US.",
+    "hi": "पीएम मोदी ने पुतिन को न्यूक्लियर अटैक करने से रोका। यूरोपीय देश ने जंग रोकने के लिए यह दावा किया। रूस-यूक्रेन युद्ध के बीच जेलेंस्की ने फ्रांस से 16 राफेल लड़ाकू विमान खरीदने का फैसला किया।"
   },
   "articles": [
+    {
+      "title": "Singapore, Malaysia reaffirm need to 'deepen cooperation' in areas including food security and",
+      "url": "https://www.channelnewsasia.com/singapore/singapore-malaysia-tharman-anwar-meeting-cooperation-food-security-energy-6253776",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-07-14T15:11:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--5dpBQW4q--/c_crop,h_554,w_985,x_1,y_3/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/14/anwar_ibrahim_tharman_shanmugaratnam.jpg?itok=GuDpIq-8",
+      "summary": "President Tharman Shanmugaratnam, who is currently on a state visit to Malaysia, met Malaysian Prime Minister Anwar Ibrahim on Monday (Jul 13), during which they exchanged views on geopolitical developments, including the Middle East situation. Singapore, Malaysia reaffirm need to 'deepen cooperation' in areas including food security and.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "MEA summons Iranian deputy envoy, after Indian national killed in attack on ship",
       "url": "https://www.thehindu.com/news/national/mea-summons-iranian-deputy-envoy-after-indian-national-killed-in-attack-on-ship/article71221170.ece",
@@ -296,16 +308,40 @@
       "translations": {}
     },
     {
-      "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-      "url": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-      "source": "International Crisis Group",
+      "title": "‘पीएम मोदी ने पुतिन को न्यूक्लियर अटैक करने से रोका’, खुद यूरोपीय देश ने किया दावा, जंग रोकने को",
+      "url": "https://hindi.news18.com/world/europe-pm-modi-stopped-putin-from-launching-nuclear-attack-on-ukraine-polish-minister-huge-revelation-on-india-role-in-russia-ukraine-war-10657767.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-30T15:20:00+00:00",
-      "image_url": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group. New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab.",
+      "published_at": "2026-07-14T15:23:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Putin-To-Nuclear-Attack-On-Ukraine-2026-07-2d24d78228b646a21d98069f0b679199-1200x800.jpg",
+      "summary": "रूस-यूक्रेन युद्ध को रोकने के लिए भारत पर भरोसा जताते हुए पोलैंड के मंत्री ने बहुत बड़ा दावा कर दिया है. उनका कहना है कि रूसी राष्ट्रपति पुतिन तो यूक्रेन पर परमाणु बम दागने के लिए बिल्कुल तैयार बैठे थे, लेकिन ऐन वक्त पर पीएम मोदी के कहने पर उन्हें अपने कदम पीछे खींचने पड़े.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘पीएम मोदी ने पुतिन को न्यूक्लियर अटैक करने से रोका’, खुद यूरोपीय देश ने किया दावा, जंग रोकने को",
+          "summary": "रूस-यूक्रेन युद्ध को रोकने के लिए भारत पर भरोसा जताते हुए पोलैंड के मंत्री ने बहुत बड़ा दावा कर दिया है. उनका कहना है कि रूसी राष्ट्रपति पुतिन तो यूक्रेन पर परमाणु बम दागने के लिए बिल्कुल तैयार बैठे थे, लेकिन ऐन वक्त पर पीएम मोदी के कहने पर उन्हें अपने कदम पीछे खींचने पड़े.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "दक्षिणी लेबनान में 2 पायलट जोन लागू करने को तैयार इजरायल, हिज़्बुल्लाह के पीछे हटते ही लेबनानी सेना",
+      "url": "https://www.patrika.com/world-news/israel-ready-to-implement-pilot-zones-in-lebanon-20747710",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-14T14:48:35+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Gideon-Saar-9.webp",
+      "summary": "Lebanon pilot zones: इजराइल के विदेश मंत्री गिडियन सार ने कहा है कि उनका देश लेबनान में दो पायलट जोन लागू करने के लिए तैयार है। उन्होंने कहा कि इटली में होने वाली बातचीत से इस प्रक्रिया को आगे बढ़ाने में मदद मिल सकती है। विदेश मंत्री गिडियन सार के अनुसार, इस समझौते के तहत एक रणनीतिक ब्लूप्रिंट तैयार किया गया है।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दक्षिणी लेबनान में 2 पायलट जोन लागू करने को तैयार इजरायल, हिज़्बुल्लाह के पीछे हटते ही लेबनानी सेना",
+          "summary": "Lebanon pilot zones: इजराइल के विदेश मंत्री गिडियन सार ने कहा है कि उनका देश लेबनान में दो पायलट जोन लागू करने के लिए तैयार है। उन्होंने कहा कि इटली में होने वाली बातचीत से इस प्रक्रिया को आगे बढ़ाने में मदद मिल सकती है। विदेश मंत्री गिडियन सार के अनुसार, इस समझौते के तहत एक रणनीतिक ब्लूप्रिंट तैयार किया गया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "रूस-यूक्रेन युद्ध के बीच जेलेंस्की का बड़ा दांव, फ्रांस से खरीदेंगे 16 राफेल लड़ाकू विमान",
@@ -470,6 +506,24 @@
       }
     },
     {
+      "title": "भारत के दुश्मन के घर में तबाही! पाकिस्तान में क्रिप्टोकरेंसी पर बवाल क्या, कैसे भड़की क्रिप्टो",
+      "url": "https://www.abplive.com/news/world/pakistan-cryptocurrency-controversy-economic-crisis-government-banned-shehbaz-shareef-asim-muneer-explained-3159943",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T11:51:31+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/0fa391ff4a2395bfed532207e7f0039c17840284090231317_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान में क्रिप्टो करेंसी को लेकर इस वक्त जो घमासान मचा है, वो किसी आर्थिक आतंक की कहानी से कम नहीं लगता. एक तरफ पूरा देश ऐतिहासिक महंगाई, घटते विदेशी मुद्रा भंडार और बेकाबू होती अर्थव्यवस्था से जूझ रहा है, तो दूसरी तरफ आम पाकिस्तानी नागरिक अपनी जमा पूंजी को डूबने से बचाने के लिए किसी सहारे की तलाश में है. इसी खालीपन को क्रिप्टो करेंसी ने भरा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के दुश्मन के घर में तबाही! पाकिस्तान में क्रिप्टोकरेंसी पर बवाल क्या, कैसे भड़की क्रिप्टो",
+          "summary": "पाकिस्तान में क्रिप्टो करेंसी को लेकर इस वक्त जो घमासान मचा है, वो किसी आर्थिक आतंक की कहानी से कम नहीं लगता. एक तरफ पूरा देश ऐतिहासिक महंगाई, घटते विदेशी मुद्रा भंडार और बेकाबू होती अर्थव्यवस्था से जूझ रहा है, तो दूसरी तरफ आम पाकिस्तानी नागरिक अपनी जमा पूंजी को डूबने से बचाने के लिए किसी सहारे की तलाश में है. इसी खालीपन को क्रिप्टो करेंसी ने भरा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "समंदर के पानी में फैला सबसे खतरनाक एल्गी, जिसके जहर का इस पूरी दुनिया में कोई तोड़ नहीं!",
       "url": "https://hindi.news18.com/news/ajab-gajab/viral-worlds-most-toxic-algae-mass-death-marine-animals-australia-karenia-cristata-10657349.html",
       "source": "News18 Hindi (World)",
@@ -483,6 +537,24 @@
         "hi": {
           "title": "समंदर के पानी में फैला सबसे खतरनाक एल्गी, जिसके जहर का इस पूरी दुनिया में कोई तोड़ नहीं!",
           "summary": "World's Most Toxic Algae: दक्षिण ऑस्ट्रेलिया के समुद्री तटों पर दुनिया के सबसे जहरीले एल्गी के कारण लाखों समुद्री जीवों की दर्दनाक मौत हुई है. रिसर्च में खुलासा हुआ है कि कैरेनिया क्रिस्टाटा नाम का यह एल्गी अब तक का सबसे खतरनाक शैवाल है. इसका जहर पानी में तेजी से फैल रहा है, जिससे मछलियों, समुद्री घोड़ों और अन्य जीवों की जान जा रही है. इंसानों पर भी इसके बेहद गंभीर असर लगातार दिख रहे हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'जिम्मेदार ठहराएं', PoJK में प्रदर्शनकारियों पर गोलीबारी के बाद भड़का भारत, दुनिया से की ये अपील",
+      "url": "https://www.abplive.com/news/world/india-randhir-jaiswal-reaction-on-pok-protest-asim-munir-army-firing-3159938",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T11:47:12+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/4276a2e968a22d1103f5f0786c45d1a31784031461957708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के कब्जे वाले जम्मू और कश्मीर (PoJK) में शहबाज शरीफ और सेना प्रमुख आसिम मुनीर के खिलाफ हो रहे प्रदर्शन पर भारत ने प्रतिक्रिया दी है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'जिम्मेदार ठहराएं', PoJK में प्रदर्शनकारियों पर गोलीबारी के बाद भड़का भारत, दुनिया से की ये अपील",
+          "summary": "पाकिस्तान के कब्जे वाले जम्मू और कश्मीर (PoJK) में शहबाज शरीफ और सेना प्रमुख आसिम मुनीर के खिलाफ हो रहे प्रदर्शन पर भारत ने प्रतिक्रिया दी है.",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -524,6 +596,24 @@
       }
     },
     {
+      "title": "ईरान के हाथ लगा न्यूक्लियर बम से भी बड़ा बम! बिना मिसाइल-रॉकेट के घुटनों पर ला देगा पूरी दुनिया?",
+      "url": "https://www.abplive.com/news/world/what-is-iran-economic-bomb-powerful-than-nuclear-strait-of-hormuz-donald-trump-mujtaba-khamenei-us-attack-explained-3159901",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T11:11:48+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/a913bf6bc1077fa9e3f680e7c395a7ca17840273737101317_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ईरान के पास ऐसा हथियार है जिसे चलाने के लिए न किसी मिसाइल की जरूरत है और न ही किसी परमाणु प्रोग्राम की. बस एक धमकी और दुनिया की बड़ी-बड़ी इकोनॉमी घुटनों पर आ जाएं. ईरान ने होर्मुज स्ट्रेट से पहले डराया, फिर निशाना बनाया और आखिरकार 12 जुलाई 2026 को 'अगले आदेश तक' बंद कर दिया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के हाथ लगा न्यूक्लियर बम से भी बड़ा बम! बिना मिसाइल-रॉकेट के घुटनों पर ला देगा पूरी दुनिया?",
+          "summary": "ईरान के पास ऐसा हथियार है जिसे चलाने के लिए न किसी मिसाइल की जरूरत है और न ही किसी परमाणु प्रोग्राम की. बस एक धमकी और दुनिया की बड़ी-बड़ी इकोनॉमी घुटनों पर आ जाएं. ईरान ने होर्मुज स्ट्रेट से पहले डराया, फिर निशाना बनाया और आखिरकार 12 जुलाई 2026 को 'अगले आदेश तक' बंद कर दिया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "विदेश में पढ़ाई के लिए सही देश कैसे चुनें? सिर्फ रैंकिंग नहीं, इन 5 बातों पर भी दें ध्यान",
       "url": "https://hindi.news18.com/news/career/education-how-to-choose-the-right-country-to-study-abroad-beyond-rankings-10656816.html",
       "source": "News18 Hindi (World)",
@@ -538,6 +628,24 @@
           "title": "विदेश में पढ़ाई के लिए सही देश कैसे चुनें? सिर्फ रैंकिंग नहीं, इन 5 बातों पर भी दें ध्यान",
           "summary": "Study Abroad Country Selection Tips: विदेश में पढ़ाई का सपना तो सब देखते हैं, लेकिन सही देश चुनना सबसे बड़ी चुनौती है. इसके लिए केवल कॉलेज रैंकिंग के भरोसे न रहें, बल्कि अन्य जरूरी फैक्टर्स पर भी ध्यान दें. जानिए सही देश चुनने का सबसे सटीक फॉर्मूला. विदेश में पढ़ाई के लिए सही देश कैसे चुनें? सिर्फ रैंकिंग नहीं, इन 5 बातों पर भी दें ध्यान।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लगातार 5 धमाकों से दहला बुशहर-बंदर अब्बास, ईरान का पलटवार- होर्मुज में नहीं चलने देंगे ट्रंप की",
+      "url": "https://www.abplive.com/news/world/strait-of-hormuz-will-not-open-american-aggression-iran-warn-cargo-ships-attack-donald-trump-3159878",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T11:04:41+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/962954a435fd451cd242c075c4fc37cd1784026878046708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ईरान के बुशहर और बंदर अब्बास शहर के पास लगातार 5 धमाके हुए. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के होर्मुज में नाकेबंदी बहाल करने के ऐलान के बाद ईरान हमलावर हुआ. मिडिल ईस्ट में फिर से जंग भड़कने और स्ट्रेट ऑफ होर्मज में जहाजों पर हो रहे हमल एक बार फिर दुनियाभर में तेल संकट की ओर इशारा कर रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लगातार 5 धमाकों से दहला बुशहर-बंदर अब्बास, ईरान का पलटवार- होर्मुज में नहीं चलने देंगे ट्रंप की",
+          "summary": "ईरान के बुशहर और बंदर अब्बास शहर के पास लगातार 5 धमाके हुए. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के होर्मुज में नाकेबंदी बहाल करने के ऐलान के बाद ईरान हमलावर हुआ. मिडिल ईस्ट में फिर से जंग भड़कने और स्ट्रेट ऑफ होर्मज में जहाजों पर हो रहे हमल एक बार फिर दुनियाभर में तेल संकट की ओर इशारा कर रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -574,6 +682,24 @@
           "title": "PoK में मुनीर ने पाकिस्तानी क्रिकेटर ही मार डाला! धोखे से बातचीत को बुलाया, फिर दाग दी गोलियां",
           "summary": "पाकिस्तान के कब्जे वाले कश्मीर में पाकिस्तानी सेना ने एक युवा क्रिकेटर की गोली मारकर हत्या कर दी। मुनीर ने बातचीत का ढोंग रचाया और फिर पीठ पीछे गोलियां बरसा दीं। इस घटना के बाद पूरे क्षेत्र में जनाक्रोश फैल गया है। पाकिस्तान के कब्जे वाले कश्मीर (PoK) के रावलकोट में पाकिस्तानी सेना ने बर्बरता की सारी हदें पार कर दी हैं.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘समुद्री डकैत न बने अमेरिका...’, ट्रंप के होर्मुज टोल के ऐलान पर भड़के ब्राजील के राष्ट्रपति लूला",
+      "url": "https://www.abplive.com/news/world/brazil-president-lula-da-silva-fierced-at-donald-trump-after-20-percent-toll-announcement-on-ships-passing-through-strait-of-hormuz-3159864",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-14T10:39:16+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/8c0196e1f4e7fac310dc05c7c1d06f6217840252031981126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ब्राजील के राष्ट्रपति लूला ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के होर्मुज टोल के ऐलान पर निंदा की. उन्होंने कहा कि अमेरिका समुद्री डकैत नहीं बने. पश्चिम एशिया में एक बार फिर से अमेरिका ने ईरान के साथ जंग की शुरुआत करके दुनिया भर के देशों के लिए परेशानियां बढ़ा दी है. वहीं, दूसरी तरफ उन्होंने स्ट्रेट ऑफ होर्मुज को लेकर एक ऐसा ऐलान कर दिया है, जिसके लिए उनकी काफी निंदा और आलोचना हो रही है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘समुद्री डकैत न बने अमेरिका...’, ट्रंप के होर्मुज टोल के ऐलान पर भड़के ब्राजील के राष्ट्रपति लूला",
+          "summary": "ब्राजील के राष्ट्रपति लूला ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के होर्मुज टोल के ऐलान पर निंदा की. उन्होंने कहा कि अमेरिका समुद्री डकैत नहीं बने. पश्चिम एशिया में एक बार फिर से अमेरिका ने ईरान के साथ जंग की शुरुआत करके दुनिया भर के देशों के लिए परेशानियां बढ़ा दी है. वहीं, दूसरी तरफ उन्होंने स्ट्रेट ऑफ होर्मुज को लेकर एक ऐसा ऐलान कर दिया है, जिसके लिए उनकी काफी निंदा और आलोचना हो रही है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -627,132 +753,6 @@
         "hi": {
           "title": "ईरान पर भारत का कड़ा रुख, होर्मुज हमले में भारतीय की मौत के बाद राजनयिक तलब, मांगा जवाब",
           "summary": "भारत ने होर्मुज हमले में भारतीय की मौत के बाद ईरान को जवाब मांगा। Strait of Hormuz Attack: ईरान में ‘स्ट्रेट ऑफ़ होर्मुज’ से गुजर रहे दो जहाजों पर हुए हमले में एक भारतीय क्रू मेंबर की मौत के मामले को भारतीय विदेश मंत्रालय (MEA) ने गंभीरता से लिया है। मंत्रालय ने मंगलवार को नई दिल्ली में ईरानी दूतावास के डिप्टी चीफ ऑफ मिशन को बुलाकर इन कथित हमलों के खिलाफ कड़ा विरोध दर्ज कराया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज का असली 'बॉस' कौन? ट्रंप के 20% फीस पर ईरानी विदेश मंत्री का मोलभाव- इससे कम तो हम दे देंगे",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-hormuz-conflict-araghchi-mocks-trump-20-percent-hormuz-fee-plan-claims-iran-will-be-fair-ws-l-10656692.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-14T10:04:24+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/araghchi-hormuz-2026-07-5873cf0a01896a51cc759cb27d8d2390-1200x800.jpg",
-      "summary": "Iran-US Hormuz Fee Fight: ईरान-अमेरिका के बीच एक बार फिर से होर्मुज पर टैक्स को लेकर विवाद गहरा गया है. अब तक ईरान इस पर सर्विस टैक्स मांगता था, अब ट्रंप ने कह दिया कि वो 20 फीसदी फीस के साथ होर्मज के गार्डियन बनेंगे. ईरान कहां चुप रहता, यहां के विदेश मंत्री ने एक बार फिर अमेरिकी राष्ट्रपति का मजाक उड़ाते हुए कहा कि फिर हम ही बेहतर दाम दे रहे थे.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज का असली 'बॉस' कौन? ट्रंप के 20% फीस पर ईरानी विदेश मंत्री का मोलभाव- इससे कम तो हम दे देंगे",
-          "summary": "Iran-US Hormuz Fee Fight: ईरान-अमेरिका के बीच एक बार फिर से होर्मुज पर टैक्स को लेकर विवाद गहरा गया है. अब तक ईरान इस पर सर्विस टैक्स मांगता था, अब ट्रंप ने कह दिया कि वो 20 फीसदी फीस के साथ होर्मज के गार्डियन बनेंगे. ईरान कहां चुप रहता, यहां के विदेश मंत्री ने एक बार फिर अमेरिकी राष्ट्रपति का मजाक उड़ाते हुए कहा कि फिर हम ही बेहतर दाम दे रहे थे.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘हम खामेनेई की मौत का बदला लेकर रहेंगे, हॉर्मुज से नहीं हटेगी हमारी सेना’, अमेरिकी हमले के बाद ईरान",
-      "url": "https://www.patrika.com/world-news/strait-of-hormuz-iran-army-statement-over-us-attack-here-all-details-20746782",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-14T09:56:11+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-President-Donald-Trump-and-Iran-Supreme-Leader-Mojtaba-Khamenei.webp",
-      "summary": "ईरान ने अमेरिकी हमले के बाद बदला लेने की बात कही। अमेरिका और ईरान का तनाव अब फिर से युद्ध में तब्दील हो गया है। अमेरिका ने मंगलवार को ईरान के कई ठिकानों को निशाना बनाया है। वहीं, ईरान ने भी जवाबी कार्रवाई की है। ‘हम खामेनेई की मौत का बदला लेकर रहेंगे, हॉर्मुज से नहीं हटेगी हमारी सेना’, अमेरिकी हमले के बाद ईरान।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘हम खामेनेई की मौत का बदला लेकर रहेंगे, हॉर्मुज से नहीं हटेगी हमारी सेना’, अमेरिकी हमले के बाद ईरान",
-          "summary": "ईरान ने अमेरिकी हमले के बाद बदला लेने की बात कही। अमेरिका और ईरान का तनाव अब फिर से युद्ध में तब्दील हो गया है। अमेरिका ने मंगलवार को ईरान के कई ठिकानों को निशाना बनाया है। वहीं, ईरान ने भी जवाबी कार्रवाई की है। ‘हम खामेनेई की मौत का बदला लेकर रहेंगे, हॉर्मुज से नहीं हटेगी हमारी सेना’, अमेरिकी हमले के बाद ईरान।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ओमान के पास समंदर में धमाका, तेल के जहाजों पर मिसाइल से हमला, खाड़ी देशों में बढ़ा तनाव",
-      "url": "https://www.patrika.com/world-news/oman-sea-tanker-missile-attack-strait-of-hormuz-updates-20746550",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-14T09:45:08+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/photo_6246793507427258961_y.webp",
-      "summary": "ओमान के पास तेल टैंकरों पर मिसाइल से हमला हुआ। UAE Oil Tanker News: होर्मुज स्ट्रेट में तनाव लगातार बढ़ता जा रहा है। संयुक्त अरब अमीरात (यूएई) के रक्षा मंत्रालय ने दावा किया है कि उसके दो तेल टैंकरों पर ईरान की क्रूज मिसाइलों से हमला किया गया। इस हमले में एक नाविक की मौत हो गई, जबकि कई अन्य घायल हुए हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ओमान के पास समंदर में धमाका, तेल के जहाजों पर मिसाइल से हमला, खाड़ी देशों में बढ़ा तनाव",
-          "summary": "ओमान के पास तेल टैंकरों पर मिसाइल से हमला हुआ। UAE Oil Tanker News: होर्मुज स्ट्रेट में तनाव लगातार बढ़ता जा रहा है। संयुक्त अरब अमीरात (यूएई) के रक्षा मंत्रालय ने दावा किया है कि उसके दो तेल टैंकरों पर ईरान की क्रूज मिसाइलों से हमला किया गया। इस हमले में एक नाविक की मौत हो गई, जबकि कई अन्य घायल हुए हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तारों के बीच किसने घोल दी चीनी? अंतरिक्ष में मिली कॉटन कैंडी, उठाएगी एलियन थ्योरी से पर्दा",
-      "url": "https://hindi.news18.com/world/rest-of-world-astronomers-find-sugar-in-space-between-stars-backs-life-in-other-universe-10656534.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-14T09:36:12+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/stars-discovery-2026-07-0bb8408e5943fd67c05795df5f2cb081-1200x800.jpg",
-      "summary": "वैज्ञानिकों ने अंतरिक्ष में एक खास तरह की रूई जैसी चीनी की खोज की है, जो मीठी है. यह चीनी तारों के बीच पाई गई है. इसकी खोज से एलियन थ्योरी से पर्दा उठ सकता है. वैज्ञानिकों का मानना है कि यह चीनी अंतरिक्ष में गैस और धूल के बादलों से बनी होगी. Astronomers Find Sugar In Space: आपने कॉटन कैंडी तो खाई ही होगी, बिल्कुल बादलों की तरह हल्की-फुल्की लेकिन मीठी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तारों के बीच किसने घोल दी चीनी? अंतरिक्ष में मिली कॉटन कैंडी, उठाएगी एलियन थ्योरी से पर्दा",
-          "summary": "वैज्ञानिकों ने अंतरिक्ष में एक खास तरह की रूई जैसी चीनी की खोज की है, जो मीठी है. यह चीनी तारों के बीच पाई गई है. इसकी खोज से एलियन थ्योरी से पर्दा उठ सकता है. वैज्ञानिकों का मानना है कि यह चीनी अंतरिक्ष में गैस और धूल के बादलों से बनी होगी. Astronomers Find Sugar In Space: आपने कॉटन कैंडी तो खाई ही होगी, बिल्कुल बादलों की तरह हल्की-फुल्की लेकिन मीठी.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मध्यस्थता के खिलाफ एकमत क्यों हिंदू-मुस्लिम? संभल, वाराणसी और मथुरा विवाद समझौता ठुकराने के क्या",
-      "url": "https://www.abplive.com/news/india/up-temple-mosques-disputes-gyanvapi-sambhal-shahi-idgah-mathura-varanasi-shree-krishna-janmbhoomi-supreme-court-mediation-rejected-explained-3159802",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-14T09:24:43+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/73ae2342418d515fb015e35457661f2317840200769981317_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "काशी, मथुरा और संभल तीन बड़े धार्मिक विवाद. तीन ऐतिहासिक शहर और दोनों पक्षों को बातचीत की मेज पर लाने की सुप्रीम कोर्ट की एक कोशिश. लेकिन हिंदू और मुस्लिम दोनों ने एक सुर में कहा, 'नहीं, हमें कोर्ट का फैसला चाहिए, समझौता नहीं.' यह एक ऐसा अनोखा मोड़ है जहां आमतौर पर आमने-सामने खड़े रहने वाले दोनों धड़े, मध्यस्थता ठुकराने पर एकमत हो गए.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मध्यस्थता के खिलाफ एकमत क्यों हिंदू-मुस्लिम? संभल, वाराणसी और मथुरा विवाद समझौता ठुकराने के क्या",
-          "summary": "काशी, मथुरा और संभल तीन बड़े धार्मिक विवाद. तीन ऐतिहासिक शहर और दोनों पक्षों को बातचीत की मेज पर लाने की सुप्रीम कोर्ट की एक कोशिश. लेकिन हिंदू और मुस्लिम दोनों ने एक सुर में कहा, 'नहीं, हमें कोर्ट का फैसला चाहिए, समझौता नहीं.' यह एक ऐसा अनोखा मोड़ है जहां आमतौर पर आमने-सामने खड़े रहने वाले दोनों धड़े, मध्यस्थता ठुकराने पर एकमत हो गए.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जंग किसी और की, जहाज किसी और का, मौत भारतीयों की... आखिर ऐसा बार-बार क्यों हो रहा है? कमोडोर केसनूर",
-      "url": "https://hindi.news18.com/news/defence/why-indian-seafarers-are-most-vulnerable-in-war-zones-commodore-srikant-kesnur-explains-ws-l-10654966.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-14T08:49:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Your-paragraph-text-1600-x-900-px-2026-07-14T140948.052-2026-07-039886e88f28e3f7b92b1f3dd8e21b7e-1200x800.jpg",
-      "summary": "कमोडोर श्रीकांत केसनूर ने News18 से बातचीत में कहा कि ईरान-अमेरिका तनाव के बीच खाड़ी के समुद्री मार्ग भारतीय नाविकों के लिए खतरनाक बनते जा रहे हैं. हालिया हमलों में चार भारतीय समुद्री कर्मियों की मौत हो गई. कमोडोर केसनूर ने अंतरराष्ट्रीय कानून और भारतीय नौसेना की भूमिका पर चर्चा की. ईरान-अमेरिका तनाव के बीच खाड़ी के समुद्री मार्ग भारतीय नाविकों के लिए बेहद खतरनाक बनते जा रहे हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जंग किसी और की, जहाज किसी और का, मौत भारतीयों की... आखिर ऐसा बार-बार क्यों हो रहा है? कमोडोर केसनूर",
-          "summary": "कमोडोर श्रीकांत केसनूर ने News18 से बातचीत में कहा कि ईरान-अमेरिका तनाव के बीच खाड़ी के समुद्री मार्ग भारतीय नाविकों के लिए खतरनाक बनते जा रहे हैं. हालिया हमलों में चार भारतीय समुद्री कर्मियों की मौत हो गई. कमोडोर केसनूर ने अंतरराष्ट्रीय कानून और भारतीय नौसेना की भूमिका पर चर्चा की. ईरान-अमेरिका तनाव के बीच खाड़ी के समुद्री मार्ग भारतीय नाविकों के लिए बेहद खतरनाक बनते जा रहे हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज में भारतीय नाविक की मौत के बाद विदेश मंत्रालय ने ईरानी राजनयिकों को किया तलब, जताई कड़ी",
-      "url": "https://hindi.news18.com/world/middle-east-india-summons-iranian-diplomats-after-indian-crew-member-death-in-hormuz-attack-ws-l-10656376.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-14T08:46:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/MEA-IRAN-2026-07-6c2715ca3c20a6bc68175378595184de-1200x800.jpg",
-      "summary": "भारतीय विदेश मंत्रालय ने होर्मुज में भारतीय नाविक की मौत के बाद ईरानी राजनयिकों को तलब किया। भारत ने इस पर कड़ी आपत्ति जताई और होर्मुज से सुरक्षित नौवहन की आवश्यकता पर जोर दिया। कूटनीतिक समाधान की भी बात कही गई। India Summons Iranian Diplomats: स्ट्रेट ऑफ होर्मुज में ईरानी हमले में हुई भारतीय नाविक की मौत के बाद विदेश मंत्रालय ने इस मामले में ईरानी राजनयिकों को समन किया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज में भारतीय नाविक की मौत के बाद विदेश मंत्रालय ने ईरानी राजनयिकों को किया तलब, जताई कड़ी",
-          "summary": "भारतीय विदेश मंत्रालय ने होर्मुज में भारतीय नाविक की मौत के बाद ईरानी राजनयिकों को तलब किया। भारत ने इस पर कड़ी आपत्ति जताई और होर्मुज से सुरक्षित नौवहन की आवश्यकता पर जोर दिया। कूटनीतिक समाधान की भी बात कही गई। India Summons Iranian Diplomats: स्ट्रेट ऑफ होर्मुज में ईरानी हमले में हुई भारतीय नाविक की मौत के बाद विदेश मंत्रालय ने इस मामले में ईरानी राजनयिकों को समन किया है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
