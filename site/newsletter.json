@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-15T15:35:09.426061+00:00",
+  "generated_at": "2026-07-15T16:35:01.613376+00:00",
   "article_count": 50,
-  "total_unique_count": 280,
+  "total_unique_count": 281,
   "digest": {
-    "en": "World leads the board this hour with Buffett says decision to stop Gates Foundation donations not a surprise. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, ‘तुम मुस्लिम हो?’, नाम पूछकर भारतीय शख्स को 15 बार भोंका चाकू, फिर सुनाई नफरत की कहानी मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Middle East & Africa leads the board this hour with US Strikes Target Iranian Ports, Continues Shipping Blockade. World carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, लेबनान में 2 इलाकों से हटेगी इजरायली सेना, हिज्बुल्लाह को लेकर रोम में बन गई सहमति मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "US Strikes Target Iranian Ports, Continues Shipping Blockade",
+      "url": "https://www.rferl.org/a/iran-hormuz-us-strike-drone-greater-tunb-jordan-kuwait-blockade-ceasefire/33804342.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-15T15:27:36+00:00",
+      "image_url": "https://gdb.rferl.org/cbbfd840-5e3d-406c-5f8b-08decd277110_w1200_h630.jpg",
+      "summary": "A new round of US strikes across Iran hit dozens of military targets in areas near the Strait of Hormuz, including missile storage and launch sites on Greater Tunb island, according to western military officials. US Strikes Target Iranian Ports, Continues Shipping Blockade.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Buffett says decision to stop Gates Foundation donations not a surprise",
       "url": "https://www.thehindu.com/news/international/buffett-says-decision-to-stop-gates-foundation-donations-not-a-surprise/article71225831.ece",
@@ -26,7 +38,7 @@
       "sources": [],
       "published_at": "2026-07-15T13:57:58+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/gwjer3/article71226102.ece/alternates/LANDSCAPE_1200/Britain_Politics__1_36.jpg",
-      "summary": "Andy Burnham, the former Mayor of Greater Manchester, is on course to take charge as the new British Prime Minister next week after being endorsed by a resounding 349 Labour MPs in the leadership race Leaving U. K. in better shape: Keir Starmer at final Parliament session as PM. Leaving U. K.",
+      "summary": "Andy Burnham, the former Mayor of Greater Manchester, is on course to take charge as the new British Prime Minister next week after being endorsed by a resounding 349 Labour MPs in the leadership race Leaving U. K. in better shape: Keir Starmer at final Parliament session as PM. Leaving U. Leaving U. K.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -40,18 +52,6 @@
       "image_url": "https://th-i.thgim.com/public/news/national/1j4w0e/article71224725.ece/alternates/LANDSCAPE_1200/iStock-480560946.jpg",
       "summary": "It's the slowest growth since 2022, when China was still in the grips of the pandemic, and below the government's already-lowered annual target of 4.5-5%; the country is facing multiple challenges of a real estate slowdown, sluggish consumption, and serious challenges in the job market Why China’s 4.3% growth is worrying its government.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US launches new round of strikes against Iran as escalation threatens shipping",
-      "url": "https://www.channelnewsasia.com/world/us-new-strikes-iran-escalation-shipping-6255271",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-07-15T12:47:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--2mIkfaqM--/c_crop,h_434,w_773,x_22,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-15T050143Z_2_LYNXMPEM6E085_RTROPTP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG?itok=B2j22J1c",
-      "summary": "US Central Command said in a statement that the military had targeted coastal defence systems and cruise missile storage and launch sites on Iran's Greater Tunb Island, and had completed the wave of strikes within around 90 minutes. US launches new round of strikes against Iran as escalation threatens shipping.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -97,7 +97,7 @@
       "source": "Asia Times",
       "sources": [],
       "published_at": "2026-07-15T06:11:32+00:00",
-      "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/China-Indonesia-Muslim.jpg?fit=1024%2C682&amp;ssl=1",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/China-Indonesia-Muslim.jpg",
       "summary": "Beijing’s long courtship of Indonesia’s Muslim communities reached a new milestone this month, when the Majelis Ulama Indonesia (MUI), the nation’s top body of Islamic scholars, traveled to China. The five-day “Digital Silk Road” program brought MUI council members to Guangzhou and Shenzhen, with a focus on technology, halal industries, education and cultural exchange. But [] The post China’s sav.",
       "region": "Asia-Pacific",
       "language": "en",
@@ -306,6 +306,42 @@
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "लेबनान में 2 इलाकों से हटेगी इजरायली सेना, हिज्बुल्लाह को लेकर रोम में बन गई सहमति",
+      "url": "https://www.patrika.com/world-news/israel-to-withdraw-troops-from-two-areas-in-southern-lebanon-20750649",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-15T15:45:47+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Israel-Lebanon-Meeting.webp",
+      "summary": "Israel agreed to pull its forces from two zones in southern Lebanon after two days of talks in Rome with Lebanese officials. A U. S. State Department officer said the talks ended positively and the first Israeli units are expected to leave the area within days. Israeli Troop Withdrawal: इजरायल लेबनान के 2 इलाकों से अपनी सेना हटाने पर राजी हो हो गया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लेबनान में 2 इलाकों से हटेगी इजरायली सेना, हिज्बुल्लाह को लेकर रोम में बन गई सहमति",
+          "summary": "Israel agreed to pull its forces from two zones in southern Lebanon after two days of talks in Rome with Lebanese officials. A U. S. State Department officer said the talks ended positively and the first Israeli units are expected to leave the area within days. Israeli Troop Withdrawal: इजरायल लेबनान के 2 इलाकों से अपनी सेना हटाने पर राजी हो हो गया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "टाइम बॉम्ब है ब्रह्मपुत्र पर बन रहा दुनिया का सबसे बड़ा बांध! भारत को डराने चला था, चीन बना",
+      "url": "https://hindi.news18.com/world/china-china-brahmaputra-river-megadam-sitting-on-active-fault-line-massive-landslides-warning-india-water-bomb-counter-plan-10661034.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-15T15:43:49+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/China-Brahmaputra-River-Megadam-2026-07-413b443b34c79d3562357ef8b3639c38-1200x800.jpg",
+      "summary": "China has begun constructing a 1.1 trillion‑rupee hydroelectric project on the Yarlung Tsangpo, the upper Brahmaputra, in Tibet. Geologists say the dam sits on an active fault line, raising the risk of a seismic event that could release energy like a time bomb. चीन जो ब्रह्मपुत्र नदी पर दुनिया को सबसे बड़ा बांध बना रहा है, उसे लेकर खुद बीजिंग में खतरे की घंटियां बजने लगी हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "टाइम बॉम्ब है ब्रह्मपुत्र पर बन रहा दुनिया का सबसे बड़ा बांध! भारत को डराने चला था, चीन बना",
+          "summary": "China has begun constructing a 1.1 trillion‑rupee hydroelectric project on the Yarlung Tsangpo, the upper Brahmaputra, in Tibet. Geologists say the dam sits on an active fault line, raising the risk of a seismic event that could release energy like a time bomb. चीन जो ब्रह्मपुत्र नदी पर दुनिया को सबसे बड़ा बांध बना रहा है, उसे लेकर खुद बीजिंग में खतरे की घंटियां बजने लगी हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "‘तुम मुस्लिम हो?’, नाम पूछकर भारतीय शख्स को 15 बार भोंका चाकू, फिर सुनाई नफरत की कहानी",
@@ -668,24 +704,6 @@
       }
     },
     {
-      "title": "निशाने पर लग गया पाकिस्तान का तीर, सऊदी संग पक्की यारी और होगी मजबूत, भारत नहीं निशाने पर है ये",
-      "url": "https://hindi.news18.com/world/pakistan-turkey-ready-to-join-pakistan-saudi-arabia-defence-pact-after-asim-munir-visit-islamic-nato-10658980.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-15T06:05:14+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/turkey-pak-2026-07-364e0b701398b29cf7739fb3c66088f4-1200x800.jpg",
-      "summary": "पाकिस्तान ने तुर्की को अपने सऊदी अरब के साथ रक्षा समझौते में शामिल होने के लिए आमंत्रित किया है, जिससे इस्लामिक नाटो के निर्माण में मदद मिलेगी। यह समझौता पाकिस्तान की इस्लामिक कार्ड वाली डिप्लोमेसी का हिस्सा है, जो उसे अपने घर में हो रही समस्याओं से निपटने में मदद कर रही है। Turkey Set to Join Pakistan-Saudi Defence Pact: पाकिस्तान की इस्लामिक कार्ड वाली डिप्लोमेसी एक बार फिर से इस कनफ्यूज देश के लिए काम कर गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "निशाने पर लग गया पाकिस्तान का तीर, सऊदी संग पक्की यारी और होगी मजबूत, भारत नहीं निशाने पर है ये",
-          "summary": "पाकिस्तान ने तुर्की को अपने सऊदी अरब के साथ रक्षा समझौते में शामिल होने के लिए आमंत्रित किया है, जिससे इस्लामिक नाटो के निर्माण में मदद मिलेगी। यह समझौता पाकिस्तान की इस्लामिक कार्ड वाली डिप्लोमेसी का हिस्सा है, जो उसे अपने घर में हो रही समस्याओं से निपटने में मदद कर रही है। Turkey Set to Join Pakistan-Saudi Defence Pact: पाकिस्तान की इस्लामिक कार्ड वाली डिप्लोमेसी एक बार फिर से इस कनफ्यूज देश के लिए काम कर गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "सेंट्रल गाजा में इजरायल की स्ट्राइक, रिहायशी इमारत पर हमले में 3 की मौत, कई घायल",
       "url": "https://www.patrika.com/world-news/israeli-airstrike-in-central-gaza-deir-al-balah-three-killed-20748378",
       "source": "Patrika (World)",
@@ -736,24 +754,6 @@
           "title": "80 साल पुरानी व्यवस्था बदलने की उठाई मांग, कहा- सुरक्षा परिषद में अब सुधार जरूरी",
           "summary": "भारत ने संयुक्त राष्ट्र में सुरक्षा परिषद में सुधार की मांग की है। 80 साल पुरानी व्यवस्था बदलने की उठाई मांग, कहा- सुरक्षा परिषद में अब सुधार जरूरी।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जानिए 8वें वेतन आयोग के फिटमेंट फैक्टर का पूरा गणित!",
-      "url": "https://www.amarujala.com/video-shots/short-videos/complete-math-behind-the-8th-pay-commission-s-fitment-factor-2026-07-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-15T03:29:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=1200&dpr=1.0",
-      "summary": "8th Pay Commission: क्या 8वें वेतन आयोग में कर्मचारियों की बेसिक सैलरी ₹66,240 तक पहुंच सकती है? आखिर फिटमेंट फैक्टर क्या होता है और यह आपकी सैलरी, महंगाई भत्ता (DA), HRA और पेंशन को कैसे प्रभावित करता है? जानिए 8वें वेतन आयोग के फिटमेंट फैक्टर का पूरा गणित!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जानिए 8वें वेतन आयोग के फिटमेंट फैक्टर का पूरा गणित!",
-          "summary": "8th Pay Commission: क्या 8वें वेतन आयोग में कर्मचारियों की बेसिक सैलरी ₹66,240 तक पहुंच सकती है? आखिर फिटमेंट फैक्टर क्या होता है और यह आपकी सैलरी, महंगाई भत्ता (DA), HRA और पेंशन को कैसे प्रभावित करता है? जानिए 8वें वेतन आयोग के फिटमेंट फैक्टर का पूरा गणित!",
-          "region": "दुनिया"
         }
       }
     }
