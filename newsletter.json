@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-15T14:38:07.162266+00:00",
+  "generated_at": "2026-07-15T15:35:09.426061+00:00",
   "article_count": 50,
-  "total_unique_count": 282,
+  "total_unique_count": 280,
   "digest": {
-    "en": "Europe & Russia leads the board this hour with Leaving U.K. in better shape: Keir Starmer at final Parliament session as PM. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, जासूसी के आरोप में ईरान की जेल में बंद ब्रिटिश नागरिक को एक और झटका, मीडिया से बात करने पर बढ़ा दी 2 मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "World leads the board this hour with Buffett says decision to stop Gates Foundation donations not a surprise. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, ‘तुम मुस्लिम हो?’, नाम पूछकर भारतीय शख्स को 15 बार भोंका चाकू, फिर सुनाई नफरत की कहानी मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "Buffett says decision to stop Gates Foundation donations not a surprise",
+      "url": "https://www.thehindu.com/news/international/buffett-says-decision-to-stop-gates-foundation-donations-not-a-surprise/article71225831.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-15T14:56:23+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/7y56cs/article71225975.ece/alternates/LANDSCAPE_1200/2017-05-07T195719Z_707881112_RC1CB2B22ED0_RTRMADP_3_BERKSHIRE-BUFFETT.JPG",
+      "summary": "He now ⁠wants the shares distributed by the end of 2034, rather than 10 years after his death. He noted his children’s advancing ages. Susie Buffett, ‌the oldest, will be 81 by the end of 2034 Buffett says decision to stop Gates Foundation donations not a surprise.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Leaving U.K. in better shape: Keir Starmer at final Parliament session as PM",
       "url": "https://www.thehindu.com/news/international/leaving-uk-in-better-shape-keir-starmer-at-final-parliament-session-as-pm/article71225984.ece",
@@ -14,7 +26,7 @@
       "sources": [],
       "published_at": "2026-07-15T13:57:58+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/gwjer3/article71226102.ece/alternates/LANDSCAPE_1200/Britain_Politics__1_36.jpg",
-      "summary": "Andy Burnham, the former Mayor of Greater Manchester, is on course to take charge as the new British Prime Minister next week after being endorsed by a resounding 349 Labour MPs in the leadership race Leaving U. K. in better shape: Keir Starmer at final Parliament session as PM.",
+      "summary": "Andy Burnham, the former Mayor of Greater Manchester, is on course to take charge as the new British Prime Minister next week after being endorsed by a resounding 349 Labour MPs in the leadership race Leaving U. K. in better shape: Keir Starmer at final Parliament session as PM. Leaving U. K.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -56,18 +68,6 @@
       "translations": {}
     },
     {
-      "title": "NASA astronaut Anil Menon, two others reach International Space Station",
-      "url": "https://www.thehindu.com/sci-tech/science/nasa-astronaut-anil-menon-two-others-reach-international-space-station/article71224239.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-15T10:23:58+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/2a2753/article71224559.ece/alternates/LANDSCAPE_1200/2026-07-14T132951Z_134505109_RC2ODMA1YZJ9_RTRMADP_3_SPACE-EXPLORATION-ISS-LAUNCH.JPG",
-      "summary": "The Roscosmos spacecraft carrying Anil Menon and Russian cosmonauts Pyotr Dubrov and Anna Kikina lifted off from Baikonur at 8:17 pm IST on Tuesday (July 14, 2026) just as the orbital laboratory flew over the cosmodrome NASA astronaut Anil Menon, two others reach International Space Station.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Why Asia’s AI investment is outpacing AI outcomes",
       "url": "https://asiatimes.com/2026/07/why-asias-ai-investment-is-outpacing-ai-outcomes/",
       "source": "Asia Times",
@@ -97,7 +97,7 @@
       "source": "Asia Times",
       "sources": [],
       "published_at": "2026-07-15T06:11:32+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/China-Indonesia-Muslim.jpg",
+      "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/China-Indonesia-Muslim.jpg?fit=1024%2C682&amp;ssl=1",
       "summary": "Beijing’s long courtship of Indonesia’s Muslim communities reached a new milestone this month, when the Majelis Ulama Indonesia (MUI), the nation’s top body of Islamic scholars, traveled to China. The five-day “Digital Silk Road” program brought MUI council members to Guangzhou and Shenzhen, with a focus on technology, halal industries, education and cultural exchange. But [] The post China’s sav.",
       "region": "Asia-Pacific",
       "language": "en",
@@ -306,6 +306,24 @@
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "‘तुम मुस्लिम हो?’, नाम पूछकर भारतीय शख्स को 15 बार भोंका चाकू, फिर सुनाई नफरत की कहानी",
+      "url": "https://hindi.news18.com/world/america-are-you-muslim-us-hate-crime-attacker-stabs-indian-worker-15-times-in-utah-mall-admits-targeting-muslims-10660898.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-15T14:49:15+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Utah-Hate-Crime-2026-07-28cc9b77c4af8371634b0a027828c24f-1200x800.jpg",
+      "summary": "अमेरिका के यूटा से हेट क्राइम की खौफनाक घटना सामने आई है. यहां पर एक शॉपिंग मॉल में सोहैल नाम के एक भारतीय युवक पर सिर्फ उसके धर्म की वजह से जानलेवा हमला किया गया. हमलावर पीटर माइकल लार्सन ने पहले सोहैल से उसका देश पूछा और फिर ‘क्या तुम मुस्लिम हो?’ ये कन्फर्म करते ही उस पर चाकू से ताबड़तोड़ 15 वार कर दिए. इसके बाद उसने को कबूलनामे में कहा, उसे सुनकर हर कोई कांप गया.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘तुम मुस्लिम हो?’, नाम पूछकर भारतीय शख्स को 15 बार भोंका चाकू, फिर सुनाई नफरत की कहानी",
+          "summary": "अमेरिका के यूटा से हेट क्राइम की खौफनाक घटना सामने आई है. यहां पर एक शॉपिंग मॉल में सोहैल नाम के एक भारतीय युवक पर सिर्फ उसके धर्म की वजह से जानलेवा हमला किया गया. हमलावर पीटर माइकल लार्सन ने पहले सोहैल से उसका देश पूछा और फिर ‘क्या तुम मुस्लिम हो?’ ये कन्फर्म करते ही उस पर चाकू से ताबड़तोड़ 15 वार कर दिए. इसके बाद उसने को कबूलनामे में कहा, उसे सुनकर हर कोई कांप गया.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "जासूसी के आरोप में ईरान की जेल में बंद ब्रिटिश नागरिक को एक और झटका, मीडिया से बात करने पर बढ़ा दी 2",
@@ -668,24 +686,6 @@
       }
     },
     {
-      "title": "रूस ने पुराने बम को पहनाए 'पंख', अब यूक्रेन पर 3 टन का FAB-3000 ग्लाइड बम बरपा रहा कहर",
-      "url": "https://hindi.news18.com/news/defence/how-russia-turned-fab-3000-into-glide-bomb-in-ukraine-war-ws-l-10658826.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-15T05:32:41+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Your-paragraph-text-1600-x-900-px-2026-07-15T103738.379-2026-07-5c22811b74321f56e5d39bebd9fcc545-1200x800.jpg",
-      "summary": "रूस ने यूक्रेन के ओरिखिव शहर पर 3 टन वजनी FAB-3000 ग्लाइड बम से हमला करने का दावा करते हुए उसका वीडियो जारी किया है. कभी साधारण 'डंब बम' रहे इस सोवियत हथियार को रूस ने UMPK विंग किट लगाकर आधुनिक ग्लाइड बम में बदल दिया है. रूस ने पुराने बम को पहनाए 'पंख', अब यूक्रेन पर 3 टन का FAB-3000 ग्लाइड बम बरपा रहा कहर।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस ने पुराने बम को पहनाए 'पंख', अब यूक्रेन पर 3 टन का FAB-3000 ग्लाइड बम बरपा रहा कहर",
-          "summary": "रूस ने यूक्रेन के ओरिखिव शहर पर 3 टन वजनी FAB-3000 ग्लाइड बम से हमला करने का दावा करते हुए उसका वीडियो जारी किया है. कभी साधारण 'डंब बम' रहे इस सोवियत हथियार को रूस ने UMPK विंग किट लगाकर आधुनिक ग्लाइड बम में बदल दिया है. रूस ने पुराने बम को पहनाए 'पंख', अब यूक्रेन पर 3 टन का FAB-3000 ग्लाइड बम बरपा रहा कहर।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "सेंट्रल गाजा में इजरायल की स्ट्राइक, रिहायशी इमारत पर हमले में 3 की मौत, कई घायल",
       "url": "https://www.patrika.com/world-news/israeli-airstrike-in-central-gaza-deir-al-balah-three-killed-20748378",
       "source": "Patrika (World)",
@@ -740,20 +740,20 @@
       }
     },
     {
-      "title": "बिना प्लान ईरान युद्ध में कूदा अमेरिका, डेमोक्रेट्स ने ट्रंप की रणनीति पर उठाए सवाल",
-      "url": "https://www.patrika.com/world-news/trump-faces-democratic-pushback-over-iran-war-without-congressional-approval-20748238",
-      "source": "Patrika (World)",
+      "title": "जानिए 8वें वेतन आयोग के फिटमेंट फैक्टर का पूरा गणित!",
+      "url": "https://www.amarujala.com/video-shots/short-videos/complete-math-behind-the-8th-pay-commission-s-fitment-factor-2026-07-15",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-15T03:27:49+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-Iran-War.webp",
-      "summary": "अमेरिकी डेमोक्रेट्स ने ईरान युद्ध में ट्रंप की रणनीति पर सवाल उठाए हैं। US Iran News: अमेरिका में ईरान को लेकर बढ़ते सैन्य तनाव ने अब सियासी मोर्चे पर भी बड़ा विवाद खड़ा कर दिया है। राष्ट्रपति डोनाल्ड ट्रंप की रणनीति पर डेमोक्रेटिक पार्टी ने खुला मोर्चा खोलते हुए आरोप लगाया है कि प्रशासन बिना स्पष्ट योजना, बिना कांग्रेस की अनुमति और बिना किसी तय निकास रणनीति के देश को एक लंबे और महंगे संघर्ष की ओर धकेल रहा है।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-07-15T03:29:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=1200&dpr=1.0",
+      "summary": "8th Pay Commission: क्या 8वें वेतन आयोग में कर्मचारियों की बेसिक सैलरी ₹66,240 तक पहुंच सकती है? आखिर फिटमेंट फैक्टर क्या होता है और यह आपकी सैलरी, महंगाई भत्ता (DA), HRA और पेंशन को कैसे प्रभावित करता है? जानिए 8वें वेतन आयोग के फिटमेंट फैक्टर का पूरा गणित!",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बिना प्लान ईरान युद्ध में कूदा अमेरिका, डेमोक्रेट्स ने ट्रंप की रणनीति पर उठाए सवाल",
-          "summary": "अमेरिकी डेमोक्रेट्स ने ईरान युद्ध में ट्रंप की रणनीति पर सवाल उठाए हैं। US Iran News: अमेरिका में ईरान को लेकर बढ़ते सैन्य तनाव ने अब सियासी मोर्चे पर भी बड़ा विवाद खड़ा कर दिया है। राष्ट्रपति डोनाल्ड ट्रंप की रणनीति पर डेमोक्रेटिक पार्टी ने खुला मोर्चा खोलते हुए आरोप लगाया है कि प्रशासन बिना स्पष्ट योजना, बिना कांग्रेस की अनुमति और बिना किसी तय निकास रणनीति के देश को एक लंबे और महंगे संघर्ष की ओर धकेल रहा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "जानिए 8वें वेतन आयोग के फिटमेंट फैक्टर का पूरा गणित!",
+          "summary": "8th Pay Commission: क्या 8वें वेतन आयोग में कर्मचारियों की बेसिक सैलरी ₹66,240 तक पहुंच सकती है? आखिर फिटमेंट फैक्टर क्या होता है और यह आपकी सैलरी, महंगाई भत्ता (DA), HRA और पेंशन को कैसे प्रभावित करता है? जानिए 8वें वेतन आयोग के फिटमेंट फैक्टर का पूरा गणित!",
+          "region": "दुनिया"
         }
       }
     }
