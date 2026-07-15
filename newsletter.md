@@ -1,14 +1,42 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 15, 2026 12:21 IST
+**Updated:** July 15, 2026 13:10 IST
+
+---
+
+## Asia-Pacific
+
+### [India turns to AI to improve healthcare access](https://www.channelnewsasia.com/asia/artificial-intelligence-eye-diseases-medical-scans-india-6255286)
+*Channel News Asia* - Jul 15, 12:56 IST (iso: 2026-07-15T07:26:20+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s---N5FVzwP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/15/hospital-1.png?itok=Q4Hf6er3 -->
+
+In the second part of a series on India's artificial intelligence push, CNA looks at how hospitals are using AI to detect eye diseases and analyse medical scans, while doctors stress the technology remains a tool, not a replacement. India turns to AI to improve healthcare access.
+
+### [China’s savvy pivot in courting Muslim Indonesia](https://asiatimes.com/2026/07/chinas-savvy-pivot-in-courting-muslim-indonesia/)
+*Asia Times* - Jul 15, 11:41 IST (iso: 2026-07-15T06:11:32+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/China-Indonesia-Muslim.jpg -->
+
+Beijing’s long courtship of Indonesia’s Muslim communities reached a new milestone this month, when the Majelis Ulama Indonesia (MUI), the nation’s top body of Islamic scholars, traveled to China. The five-day “Digital Silk Road” program brought MUI council members to Guangzhou and Shenzhen, with a focus on technology, halal industries, education and cultural exchange. But [] The post China’s sav.
+
+### [Death toll reaches 30 as police say negligence is ‘primary theory’](https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand)
+*The Guardian* - Jul 14, 18:26 IST (iso: 2026-07-14T12:56:36+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a014538c2d2dea31128b38989f9203b656c9e93b/260_0_2041_1633/master/2041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01d4998232fe0ae06ab25af0c4f14038 -->
+
+Bar owner in Thailand offers ‘deepest apologies for this tragic incident’ as police investigate whether exits were either blocked or hard to accessThe Bangkok pub that has become the scene of the city’s deadliest blaze in 17 years has said it will cooperate with an investigation into alleged negligence, as the death toll rose to 30. Death toll reaches 30 as police investigate negligence as ‘primary theory’.
+
+### [Indonesia-Singapore reset marks new era of ASEAN transactionalism](https://asiatimes.com/2026/07/indonesia-singapore-reset-marks-new-era-of-asean-transactionalism/)
+*Asia Times* - Jul 14, 10:58 IST (iso: 2026-07-14T05:28:08+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Prabowo-Wong-Singapore-Indonesia.jpg -->
+
+JAKARTA – The annual Indonesia-Singapore Leaders’ Retreat, held at Merdeka Palace in Jakarta on July 6, was more than a routine diplomatic exercise. With Indonesian President Prabowo Subianto and Singapore’s Prime Minister Lawrence Wong presiding, the summit marked the full consolidation of a new generation of leadership in both nations. Flanked by key Cabinet members, [] The post Indonesia-Singa Indonesia-Singapore reset marks new era of ASEAN transactionalism.
 
 ---
 
 ## Europe & Russia
 
 ### [NASA astronaut Anil Menon, two others reach International Space Station](https://www.thehindu.com/sci-tech/science/nasa-astronaut-anil-menon-two-others-reach-international-space-station/article71224239.ece)
-*The Hindu (International)* - Jul 15, 11:41 IST (iso: 2026-07-15T06:11:49+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/i8evbw/article71224283.ece/alternates/LANDSCAPE_1200/2026-07-14T125856Z_591264741_RC2ODMA1H2UY_RTRMADP_3_SPACE-EXPLORATION-ISS-LAUNCH.JPG -->
+*The Hindu (International)* - Jul 15, 12:51 IST (iso: 2026-07-15T07:21:11+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/2a2753/article71224559.ece/alternates/LANDSCAPE_1200/2026-07-14T132951Z_134505109_RC2ODMA1YZJ9_RTRMADP_3_SPACE-EXPLORATION-ISS-LAUNCH.JPG -->
 
 The Roscosmos spacecraft carrying Anil Menon and Russian cosmonauts Pyotr Dubrov and Anna Kikina lifted off from Baikonur at 8:17 pm IST on Tuesday (July 14, 2026) just as the orbital laboratory flew over the cosmodrome NASA astronaut Anil Menon, two others reach International Space Station.
 
@@ -38,28 +66,6 @@ Zelenskyy gave no explanation for the unexpected shuffle of his Cabinet. But the
 
 ---
 
-## Asia-Pacific
-
-### [China’s savvy pivot in courting Muslim Indonesia](https://asiatimes.com/2026/07/chinas-savvy-pivot-in-courting-muslim-indonesia/)
-*Asia Times* - Jul 15, 11:41 IST (iso: 2026-07-15T06:11:32+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/China-Indonesia-Muslim.jpg -->
-
-Beijing’s long courtship of Indonesia’s Muslim communities reached a new milestone this month, when the Majelis Ulama Indonesia (MUI), the nation’s top body of Islamic scholars, traveled to China. The five-day “Digital Silk Road” program brought MUI council members to Guangzhou and Shenzhen, with a focus on technology, halal industries, education and cultural exchange.
-
-### [Death toll reaches 30 as police say negligence is ‘primary theory’](https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand)
-*The Guardian* - Jul 14, 18:26 IST (iso: 2026-07-14T12:56:36+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a014538c2d2dea31128b38989f9203b656c9e93b/260_0_2041_1633/master/2041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01d4998232fe0ae06ab25af0c4f14038 -->
-
-Bar owner in Thailand offers ‘deepest apologies for this tragic incident’ as police investigate whether exits were either blocked or hard to accessThe Bangkok pub that has become the scene of the city’s deadliest blaze in 17 years has said it will cooperate with an investigation into alleged negligence, as the death toll rose to 30. Death toll reaches 30 as police investigate negligence as ‘primary theory’.
-
-### [Indonesia-Singapore reset marks new era of ASEAN transactionalism](https://asiatimes.com/2026/07/indonesia-singapore-reset-marks-new-era-of-asean-transactionalism/)
-*Asia Times* - Jul 14, 10:58 IST (iso: 2026-07-14T05:28:08+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Prabowo-Wong-Singapore-Indonesia.jpg -->
-
-JAKARTA – The annual Indonesia-Singapore Leaders’ Retreat, held at Merdeka Palace in Jakarta on July 6, was more than a routine diplomatic exercise. With Indonesian President Prabowo Subianto and Singapore’s Prime Minister Lawrence Wong presiding, the summit marked the full consolidation of a new generation of leadership in both nations. Flanked by key Cabinet members, [] The post Indonesia-Singa Indonesia-Singapore reset marks new era of ASEAN transactionalism.
-
----
-
 ## Middle East & Africa
 
 ### [Why The US-Iran Conflict Keeps Shifting Between Fighting And Diplomacy](https://www.rferl.org/a/jonathan-schroden-us-iran-conflict-hormuz-blockade/33803676.html)
@@ -67,12 +73,6 @@ JAKARTA – The annual Indonesia-Singapore Leaders’ Retreat, held at Merdeka P
 <!-- image: https://gdb.rferl.org/95648da7-40c1-48a7-ba0f-c641f5e62d10_cx0_cy9_cw0_w1200_h630.jpg -->
 
 As the US and Iran exchange new strikes, military analyst Jonathan Schroden explains why wars often become more violent before peace, how the Strait of Hormuz has become the conflict's strategic centre, and why drones are reshaping naval warfare. Why The US-Iran Conflict Keeps Shifting Between Fighting And Diplomacy.
-
-### [Incentives, warnings and assurances: how an Indian sailor transited Hormuz](https://www.thehindu.com/news/national/incentives-warnings-and-assurances-how-an-indian-sailor-transited-hormuz/article71222566.ece)
-*The Hindu (International)* - Jul 14, 23:55 IST (iso: 2026-07-14T18:25:51+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/b5a8tr/article71222747.ece/alternates/LANDSCAPE_1200/2026-07-14T110419Z_818905602_RC2LDMAKAC5R_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG -->
-
-Indian seafarer aboard oil tanker recalls incentives from his employer to make the risky transit via route near Oman, the threats from the Iranian side to stop, and encouragement from the U. S. Navy to move ahead Incentives, warnings and assurances: how an Indian sailor transited Hormuz.
 
 ### [World Cup football’s other goal: Helping young people talk about mental health](https://news.un.org/feed/view/en/story/2026/07/1167941)
 *UN News* - Jul 14, 17:30 IST (iso: 2026-07-14T12:00:00+00:00)
@@ -121,6 +121,30 @@ The UN World Food Programme (WFP) is calling for greater humanitarian access to 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-03-2026-NASA-Hormus-02.jpg/image770x420cropped.jpg -->
 
 As both Washington and Tehran claim to control the critical commercial shipping route through the narrow Strait of Hormuz, UN agencies on Monday are calling for de-escalation amid the recent spike in strikes in the region related to the US-Iran war. UN agencies call for diplomacy to end attacks.
+
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Jul 04, 00:37 IST (iso: 2026-07-03T19:07:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.
+
+### [New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab](https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab)
+*International Crisis Group* - Jun 30, 20:50 IST (iso: 2026-06-30T15:20:00+00:00)
+<!-- image: https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group. New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab.
+
+### [NATO in Türkiye/Türkiye in NATO](https://www.crisisgroup.org/pod/europe/turkiye/nato-turkiyeturkiye-nato)
+*International Crisis Group* - Jun 30, 05:30 IST (iso: 2026-06-30T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/17854295/pexels-photo-17854295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+This week on War & Peace, Olga speaks with Galip Dalay, senior research fellow at Chatham House, about Türkiye’s evolving relations within NATO and with the EU as Ankara prepares to host the upcoming NATO summit in July. NATO in Türkiye/Türkiye in NATO.
+
+### [Will “El Tigre” Colombia’s New President Launch Another War on Drugs?](https://www.crisisgroup.org/pod/latin-america-caribbean/colombia/will-el-tigre-colombias-new-president-launch-another-war-drugs)
+*International Crisis Group* - Jun 26, 21:09 IST (iso: 2026-06-26T15:39:00+00:00)
+<!-- image: https://images.pexels.com/photos/12470916/pexels-photo-12470916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+This week on Hold Your Fire!, Richard speaks with Crisis Group experts Renata Segura and Elizabeth Dickinson about Colombia’s turbulent election, president-elect Abelardo “El Tigre” de la Espriella’s hardline promises to fight armed groups and the legacy of outgoing President Gustavo Petro’s signature policy of “Total Peace”. Will “El Tigre” Colombia’s New President Launch Another War on Drugs?
 
 ---
 
