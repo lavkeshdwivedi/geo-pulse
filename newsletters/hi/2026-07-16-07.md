@@ -1,10 +1,84 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 16, 2026 12:25 IST
+**अपडेट:** July 16, 2026 13:15 IST
+
+---
+
+## दुनिया
+
+### [समंदर से उठेगी तबाही, दुनिया के नक्शे से सफाचट हो जाएंगे ये शहर, NASA ने जारी की खौफनाक वॉर्निंग](https://hindi.news18.com/world/rest-of-world-many-cities-will-vanish-go-underwater-by-2050-nasa-warns-dangerous-prediction-10662613.html)
+*News18 Hindi (World)* - Jul 16, 13:10 IST (iso: 2026-07-16T07:40:09+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/Pacific_Atlantic_Ocean-2026-06-34945c77d1ffaa65afdad628232b7422-1200x800.jpg -->
+
+NASA Dangerous Prediction: दुनिया में जिस तरह से बदलाव हो रहे हैं, उसकी भूमिका कई वर्षों से बन रही है. अब तो NASA की ओर से तबाही की वो चेतावनी आई है, जिसे सुनकर सबसे ताकतवर देश के भी होश उड़ गए हैं. सैटेलाइट रिपोर्ट ने जो तस्वीर दिखाई है, उससे 2050 तक दुनिया के नक्शे से कई शहर हमेशा के लिए साफ हो जाएंगे.
+
+### [पति से झगड़ा है तो उसकी नौकरी पर हमला क्यों? वैवाहिक विवाद पहुंचा दफ्तर तो सुप्रीम कोर्ट ने जताई](https://www.abplive.com/news/india/supreme-court-expressed-concern-over-growing-trend-of-wives-complaining-to-husbands-offices-during-marital-disputes-ann-3160784)
+*ABP Live (India)* - Jul 16, 12:50 IST (iso: 2026-07-16T07:20:15+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/5e840c086ffede56c5018c873315615517809104152981431_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+वैवाहिक विवाद के दौरान पत्नियों की तरफ से पति के दफ्तर में शिकायत करने की प्रवृत्ति पर सुप्रीम कोर्ट ने चिंता जताई है. जस्टिस बी वी नागरत्ना की अध्यक्षता वाली बेंच ने एक मामले की सुनवाई के दौरान कहा कि आखिर इससे क्या हासिल होता है? पति की नौकरी छीनकर क्या मिलेगा? सुप्रीम कोर्ट ने जिस मामले की सुनवाई के दौरान यह टिप्पणी की वह गाजियाबाद के एक दंपति से जुड़ा है. दोनों के बीच तलाक का मामला लंबित है.
+
+### [कुणाल कामरा की किस याचिका पर बॉम्बे HC ने केंद्र से मांगा जवाब? 14 अगस्त को होगी अगली सुनवाई](https://www.amarujala.com/india-news/maharashtra-on-kunal-kamra-petition-bombay-hc-sought-a-response-from-centre-govt-next-hearing-on-august-14-2026-07-16)
+*Amar Ujala National* - Jul 16, 12:41 IST (iso: 2026-07-16T07:11:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/07/05/bombay-high-court_e88dbeb04b691e1e61a512080cedd23c.jpeg?w=1200&dpr=1.0 -->
+
+Maharashtra: On Kunal Kamra Petition Bombay HC sought a response from Centre Govt, Next hearing on August 14 - Maharashtra: कुणाल कामरा की किस याचिका पर बॉम्बे HC ने केंद्र से मांगा जवाब?
+
+### [बंगाल की खाड़ी में जब टकराए दो जहाज, देखते ही देखते पानी में समा गए 500 से ज्यादा रोहिंग्या](https://www.amarujala.com/world/major-tragedy-at-sea-two-boats-carrying-rohingya-refugees-capsized-in-the-bay-of-bengal-over-500-feared-dead-2026-07-16)
+*Amar Ujala World* - Jul 16, 12:30 IST (iso: 2026-07-16T07:00:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/06/12/boat-capsized_3b4903656d7fdcba68ed19d2edf751ac.jpeg?w=1200&dpr=1.0 -->
+
+बंगाल की खाड़ी में दो जहाजों के टकराने से 500 से ज्यादा रोहिंग्या डूब गए। बंगाल की खाड़ी में जब टकराए दो जहाज, देखते ही देखते पानी में समा गए 500 से ज्यादा रोहिंग्या।
+
+### [दादी का सीक्रेट आया सामने! भरवां करेले में डालें ये 1 चीज, स्वाद हो जाएगा दोगुना](https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/stuffed-karela-recipe-secret-ingredients-bhawa-karela-banane-ki-vidhi-2026-07-16)
+*Amar Ujala National* - Jul 16, 12:30 IST (iso: 2026-07-16T07:00:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/bharwa-karela-recipe-in-hindi_9e37bb6d99ad02796f2be3ea0be29ac8.jpeg?w=1200&dpr=1.0 -->
+
+भरवां करेले में गुड़ मिलाने से स्वाद दोगुना हो सकता है। जानिए क्यों मसाले में थोड़ा-सा गुड़ मिलाना स्वाद को संतुलित और ज्यादा स्वादिष्ट बना सकता है। आसान स्टेप-बाय-स्टेप रेसिपी पढ़ें। दादी का सीक्रेट आया सामने! भरवां करेले में डालें ये 1 चीज, स्वाद हो जाएगा दोगुना।
+
+### [अब राशन की तरह एप से ऑनलाइन ऑर्डर कर सकेंगे रसोई गैस सिलिंडर, मिनटों में होगी डिलीवरी](https://www.amarujala.com/technology/mobile-apps/swiggy-instamart-hpcl-lpg-cylinder-instant-home-delivery-service-starts-in-bengaluru-2026-07-16)
+*Amar Ujala National* - Jul 16, 12:23 IST (iso: 2026-07-16T06:53:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/online-gas-cylinder-delivery_35efc6eb9c76209a9d1cc44076756e51.jpeg?w=1200&dpr=1.0 -->
+
+बेंगलुरु में शुरू हुई है देश की पहली क्विक कॉमर्स की लॉन्चिंग, Swiggy Instamart ने HPCL के साथ मिलकर LPG सिलेंडर की ऑन-डिमांड डिलीवरी शुरू की है। इसके लिए कस्टमर्स को एप से ऑनलाइन ऑर्डर देना होगा। Swiggy Instamart ने HPCL के साथ मिलकर देश में पहली बार क्विक कॉमर्स के जरिए LPG सिलेंडर की ऑन-डिमांड डिलीवरी शुरू की है।
+
+### [वांगचुक की भूख हड़ताल का आज 19वां दिन |Abhijeet Cockroach Janata Party](https://www.amarujala.com/video/india-news/sonam-wangchuk-hunger-strike-today-marks-the-19th-day-of-wangchuk-s-hunger-strike-abhijeet-cockroach-janata-2026-07-16)
+*Amar Ujala National* - Jul 16, 12:22 IST (iso: 2026-07-16T06:52:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/sonam-vangchuk_2ded05b8a749ea3d72794bab8a9bd445.jpeg?w=1200&dpr=1.0 -->
+
+Sonam Wangchuk Hunger Strike: वांगचुक की भूख हड़ताल का आज 19वां दिन |Abhijeet Cockroach Janata Party।
+
+### [PM मोदी कल देश को सौंपेंगे पहली हाइड्रोजन ट्रेन, यहां जानें किराया-रूट की पूरी जानकारी](https://www.amarujala.com/photo-gallery/utility/india-s-first-hudrogen-train-set-for-launch-check-fare-route-and-key-facts-in-hindi-news-in-hindi-2026-07-16)
+*Amar Ujala Breaking* - Jul 16, 11:57 IST (iso: 2026-07-16T06:27:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/haidarajana-tarana-ka-karaya-oura-taimaga-kaya-ha_25d0377ee69578cbc1c6791ce546b0a8.jpeg?w=1200&dpr=1.0 -->
+
+प्रधानमंत्री नरेंद्र मोदी 17 जुलाई को देश की पहली हाइड्रोजन ट्रेन का उद्घाटन करेंगे। यह ट्रेन दिल्ली से अमृतसर के बीच चलेगी और इसका किराया 50 रुपये से शुरू होगा। कल यानी 17 जुलाई को प्रधानमंत्री नरेंद्र मोदी देश की पहली हाइड्रोजन ट्रेन को हरी झंडी दिखाकर उसका उद्घाटन करेंगे। ऐसे में आप यहां जान सकते हैं कि ये हाइड्रोजन ट्रेन किस रूट पर चलेगी और इसका किराया कितना है।
+
+---
+
+## अमेरिका
+
+### [कमजोरी नहीं चलेगी! अमेरिकी सेना में अब होगी टेस्टोस्टेरोन स्क्रीनिंग, ट्रंप के फैसले से क्या है](https://hindi.news18.com/world/america-pentagon-mandatory-testosterone-screening-us-military-30-plus-10662465.html)
+*News18 Hindi (World)* - Jul 16, 13:09 IST (iso: 2026-07-16T07:39:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/pentagon-2026-07-5cde5da7ca4ff793df3c58be8ef2f6e3-1200x800.jpg -->
+
+US News Hindi: अमेरिकी रक्षा विभाग पेंटागन ने 30 साल और उससे अधिक आयु के सभी सक्रिय ड्यूटी और रिजर्व सैन्यकर्मियों के लिए टेस्टोस्टेरोन की कमी की जांच अनिवार्य कर दी है. यह फैसला सैनिकों की युद्ध क्षमता, फिटनेस और मानसिक स्वास्थ्य बेहतर बनाए रखने की रणनीति का हिस्सा है. कमजोरी नहीं चलेगी! अमेरिकी सेना में अब होगी टेस्टोस्टेरोन स्क्रीनिंग, ट्रंप के फैसले से क्या है।
+
+### [30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?](https://www.amarujala.com/world/new-us-military-rule-soldiers-over-30-to-undergo-testosterone-screening-why-was-this-decision-made-2026-07-16)
+*Amar Ujala Breaking* - Jul 16, 11:44 IST (iso: 2026-07-16T06:14:29+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/pata-hagasatha-amaraka-ka-rakashha-sacava_2a45e13d1888e39be006efa0744efd07.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी सेना ने 30 साल से अधिक उम्र के सैनिकों के लिए टेस्टोस्टेरोन स्क्रीनिंग का निर्णय लिया है। यह निर्णय उन सैनिकों की शारीरिक क्षमता को बढ़ावा देने के लिए लिया गया है जो 30 साल से अधिक उम्र के हैं। 30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?
 
 ---
 
 ## यूरोप और रूस
+
+### [अमेरिकी मदद के बिना रूस का सामना करेगा यूरोप? जानें कैसे दो समझौते बढ़ा सकते हैं पुतिन की चिंता](https://www.amarujala.com/world/european-countries-deal-with-ukraine-on-missile-defence-shield-and-drones-production-us-vs-russian-attack-2026-07-16)
+*Amar Ujala World* - Jul 16, 12:55 IST (iso: 2026-07-16T07:25:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/russia-ukraine-war-trump-zelensky-vladimir-putin-eu-ukraine-deal_6d00db3115477ad74964e3a447ce1f19.jpeg?w=1200&dpr=1.0 -->
+
+यूरोप ने बड़ा कदम उठाया है। यूरोप के नौ देशों के नेताओं ने हाल ही में यूक्रेन के राष्ट्रपति वोलोदिमीर जेलेंस्की के साथ पेरिस में एक बैठक की और यूरोप के अपने एकीकृत एंटी-बैलिस्टिक मिसाइल गठबंधन को बनाने का एलान किया। अमेरिकी मदद के बिना रूस का सामना करेगा यूरोप? जानें कैसे दो समझौते बढ़ा सकते हैं पुतिन की चिंता।
 
 ### [तड़पकर नहीं, गरिमा से विदा होंगे मरीज: फ्रांस में इच्छामृत्यु को हरी झंडी, नए कानून में क्या है खास?](https://www.amarujala.com/world/france-national-assembly-gives-final-approval-to-assisted-dying-bill-2026-07-16)
 *Amar Ujala World* - Jul 16, 12:29 IST (iso: 2026-07-16T06:59:01+00:00)
@@ -18,21 +92,21 @@ france national assembly gives final approval to assisted dying bill तड़�
 
 यूक्रेनी हमलों में बर्बाद हुईं रिफाइनरियां: रूस को फिर याद आया दोस्त, भारत से मांगा पेट्रोल; रिपोर्ट में दावा russia-seeks-more-petrol-from-india-after-ukraine-attacks-hit-refineries-report-claims यूक्रेनी हमलों में बर्बाद हुईं रिफाइनरी: रूस को फिर याद आया दोस्त, भारत से मांगा पेट्रोल; रिपोर्ट।
 
-### [Bellingham slaps Argentina Player Video: जूड बेलिंगहम ने खोया आपा, अर्जेंटीना के खिलाड़ी को क्यों](https://www.amarujala.com/sports/football/jude-bellingham-slaps-argentina-s-valentin-barco-after-england-s-fifa-world-cup-2026-semi-final-exit-2026-07-16)
-*Amar Ujala Breaking* - Jul 16, 11:17 IST (iso: 2026-07-16T05:47:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/jude-bellingham-england-vs-argentina-fifa-world-cup-2026-valentin-barco-thomas-tuchel-lionel-m_76b65c07ae12c4d74153315d9781ff85.jpeg?w=1200&dpr=1.0 -->
+### [यूक्रेन ने पिस्तौल से तोप को दी मात! कैसे दुनिया का तीसरा सबसे ताकतवर देश घुटनों पर, रूस के लिए](https://www.abplive.com/news/world/how-russia-losing-war-against-ukraine-vladimir-putin-weakness-self-destruction-volodymyr-zelensky-s-500-explained-3160774)
+*ABP Live (World)* - Jul 16, 12:12 IST (iso: 2026-07-16T06:42:14+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/16/541e749dcfae64fcf39fdfee61fbcf5817841838181241317_original.jpeg?impolicy=abp_cdn&imwidth=1200 -->
 
-इंग्लैंड के स्टार मिडफील्डर जूड बेलिंगहम ने अर्जेंटीना के खिलाड़ी को फीफा विश्व कप 2026 के सेमीफाइनल में हार के बाद विवादों में डाल दिया है। बेलिंगहम ने अर्जेंटीना के खिलाड़ी को एक आपा खो देने के लिए कहा था। फीफा विश्व कप 2026 के सेमीफाइनल में अर्जेंटीना से 2-1 की हार के बाद इंग्लैंड के स्टार मिडफील्डर जूड बेलिंगहम विवादों में आ गए।
-
-### [किंग चार्ल्स के डिनर में लहसुन क्यों है बैन? ब्रिटिश शाही टेबल के 7 हैरान करने वाले नियम](https://hindi.news18.com/world/britain-king-charles-royal-dinner-rules-buckingham-palace-dining-etiquette-list-10662151.html)
-*News18 Hindi (World)* - Jul 16, 10:52 IST (iso: 2026-07-16T05:22:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/garlic-1-2026-07-f14850f771ce51bf8e799b33899433c8-1200x800.jpg -->
-
-ब्रिटिश राजा चार्ल्स के डिनर में लहसुन और शेलफिश को इसलिए बैन किया जाता है क्योंकि उन्हें शाही भोजन में शामिल नहीं किया जाता है। यह नियम ब्रिटिश शाही परिवार के एक पुराने संस्कृति का हिस्सा है। UK News: अगर कभी ब्रिटिश राजा चार्ल्स के साथ बकिंघम पैलेस में डिनर का मौका मिले तो सिर्फ खाना खाना काफी नहीं होगा.
+यूक्रेन ने रूस के खिलाफ अपनी ताकत का प्रदर्शन किया है, जिसमें परमाणु हथियार, हाइपरसोनिक मिसाइलें और एडवांस्ड एयर डिफेंस सिस्टम शामिल हैं। रूस की आर्थिक स्थिति खराब होने के बावजूद, यूक्रेन ने अपनी हार को टाल दिया है। दुनिया का तीसरा सबसे ताकतवर देश, जिसके पास परमाणु हथियार का सबसे बड़ा जखीरा है, हाइपरसोनिक मिसाइलें हैं, S-400 और S-500 जैसे एडवांस्ड एयर डिफेंस सिस्टम हैं, वो एक ऐसे देश के सामने हार की कगार पर पहुंच जाए जिसकी अपनी कोई नेवी तक नहीं है.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [ईरान ने अमेरिकी ड्रोन गिराया, कुवैत-बहरीन और जॉर्डन में किया हमला, US बेस पर अटैक](https://hindi.news18.com/world/middle-east-us-launches-fresh-strikes-on-iran-targets-oil-tanker-strait-of-hormuz-livenews-10661529.html)
+*News18 Hindi (World)* - Jul 16, 12:46 IST (iso: 2026-07-16T07:16:29+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/us-jet-2-2026-07-222b3a6f3d1b9eabad6590b696bc61ae-1200x800.jpg -->
+
+Iran-US War Live: अमेरिका और ईरान में भयानक टकराव देखने को मिल रहा है. जून में हुए समझौते के बाद उम्मीद जताई जा रही थी कि दोनों में शांति होगी, लेकिन ऐसा हो नहीं पाया है. इसके बाद एक ईरानी तेल टैंकर को नुकसान पहुंचा है. यह तेल टैंकर खाली थी और ईरान की तरफ बढ़ रहा था, जिस पर अमेरिका ने हेलफायर मिसाइल दागी है.
 
 ### [अपनों पर ही नहीं रहा ट्रंप को भरोसा, आखिर क्यों खंगाले जा रहे हैं व्हाइट हाउस से जुड़े अफसरों के](https://hindi.news18.com/world/america-why-donald-trump-hunting-down-white-house-official-personal-mobile-phones-security-threat-air-force-one-2-10662509.html)
 *News18 Hindi (World)* - Jul 16, 12:24 IST (iso: 2026-07-16T06:54:04+00:00)
@@ -40,11 +114,11 @@ france national assembly gives final approval to assisted dying bill तड़�
 
 White House Officials Phone Check: ईरान-अमेरिका युद्ध के दौरान इस बात को लेकर डोनाल्ड ट्रंप कई बार दावा कर चुके हैं कि उनकी जान के पीछे भी लोग पड़े हुए हैं. इसी बीच अमेरिकी राष्ट्रपति ने व्हाइट हाउस के अधिकारियों के मोबाइल फोन खंगलवाने शुरू कर दिए हैं. आखिर वो इससे जानना क्या चाहते हैं या उन्हें संदेह क्या है?
 
-### [ईरान ने अमेरिकी ड्रोन गिराया, कुवैत-बहरीन और जॉर्डन में किया हमला, US बेस पर अटैक](https://hindi.news18.com/world/middle-east-us-launches-fresh-strikes-on-iran-targets-oil-tanker-strait-of-hormuz-livenews-10661529.html)
-*News18 Hindi (World)* - Jul 16, 12:18 IST (iso: 2026-07-16T06:48:25+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/us-jet-2-2026-07-222b3a6f3d1b9eabad6590b696bc61ae-1200x800.jpg -->
+### [बच्चों के कैंसर वार्ड पर MQ-9 से अमेरिका ने बरसाए बम, अस्पताल कराया गया खाली... ईरान का चौंकाने](https://www.abplive.com/news/world/us-airstrikes-hit-shahid-baghaei-hospital-child-cancer-ward-iran-hormuz-conflict-middle-east-tensions-3160771)
+*ABP Live (World)* - Jul 16, 12:07 IST (iso: 2026-07-16T06:37:11+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/16/d719aecbd3e6bf02aa3d1a96d62954131784183778778425_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
-Iran-US War Live: अमेरिका और ईरान में भयानक टकराव देखने को मिल रहा है. जून में हुए समझौते के बाद उम्मीद जताई जा रही थी कि दोनों में शांति होगी, लेकिन ऐसा हो नहीं पाया है. इसके बाद एक ईरानी तेल टैंकर को नुकसान पहुंचा है. यह तेल टैंकर खाली थी और ईरान की तरफ बढ़ रहा था, जिस पर अमेरिका ने हेलफायर मिसाइल दागी है.
+ईरान में अमेरिकी हवाई हमलों में शाहिद बघाई अस्पताल का बच्चों के कैंसर उपचार विभाग क्षतिग्रस्त हो गया है। अस्पताल में इलाज करा रहे मरीजों और बच्चों को तुरंत सुरक्षित स्थान पर ले जाना पड़ा है। US Iran Conflict: ईरान और अमेरिका के बीच जारी सैन्य तनाव एक बार फिर तेज हो गया है. ताजा अमेरिकी हवाई हमलों में ईरान के कई शहरों को निशाना बनाया गया.
 
 ### [300 साल लगे, लाखों मजदूरों ने बनाया, फिर कैसे यूक्रेन ने बंद किया रूस का 'होर्मुज'? पुतिन का हुआ](https://hindi.news18.com/world/europe-ukraine-drones-disrupt-russia-300-year-old-black-sea-azov-trade-route-kerch-strait-like-hormuz-10661785.html)
 *News18 Hindi (World)* - Jul 16, 11:35 IST (iso: 2026-07-16T06:05:40+00:00)
@@ -52,97 +126,33 @@ Iran-US War Live: अमेरिका और ईरान में भया�
 
 Russia Ukraine War: दुनिया का पूरा फोकस इस समय होर्मुज स्ट्रेट पर है. ईरान जब चाहता है तब होर्मुज में हमला कर जहाजों की आवाजाही रोक देता है. इसी तरह अब रूस की लाइफलाइन पर भी यूक्रेन ने हमला करना शुरू किया है, जिससे उसका एक जलमार्ग बंद हो गया है. यूक्रेन के लगातार ड्रोन हमलों के बाद रूस को आजोव सागर के अहम जलमार्ग पर जहाजों की आवाजाही रोकनी पड़ी है.
 
-### [ईरान पर अमेरिकी हमले के बीच वाशिंगटन पहुंचे इराकी प्रधानमंत्री अली अल जैदी, क्या बोले ट्रंप?](https://www.patrika.com/world-news/iraqi-prime-minister-al-zaidi-arrives-in-washington-amidst-us-strikes-on-iran-what-did-trump-say-20751573)
-*Patrika (World)* - Jul 16, 11:23 IST (iso: 2026-07-16T05:53:40+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Copy-of-Logo-Banner-9-1.webp -->
-
-इराकी प्रधानमंत्री अली अल जैदी ने वाशिंगटन में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप से मुलाकात की। इस मुलाकात के दौरान, ट्रंप ने इराकी प्रधानमंत्री को अमेरिकी समर्थन का आश्वासन दिया। Iraqi Prime Minister Al-Zaidi: पिछले हफ्ते इराक के धार्मिक शहर नजफ में ईरान के पूर्व सुप्रीम लीडर अयातुल्लाह अली खामेनेई का शव पहुंचा था। शवयात्रा में इराकी प्रधानमंत्री अली अल जैदी खुद मौजूद रहे।
-
----
-
-## दुनिया
-
-### [वांगचुक की भूख हड़ताल का आज 19वां दिन |Abhijeet Cockroach Janata Party](https://www.amarujala.com/video/india-news/sonam-wangchuk-hunger-strike-today-marks-the-19th-day-of-wangchuk-s-hunger-strike-abhijeet-cockroach-janata-2026-07-16)
-*Amar Ujala National* - Jul 16, 12:22 IST (iso: 2026-07-16T06:52:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/sonam-vangchuk_2ded05b8a749ea3d72794bab8a9bd445.jpeg?w=1200&dpr=1.0 -->
-
-Sonam Wangchuk Hunger Strike: वांगचुक की भूख हड़ताल का आज 19वां दिन |Abhijeet Cockroach Janata Party।
-
-### [नॉन-एग्जीक्यूटिव भर्ती परीक्षा के लिए प्रवेश पत्र जारी, फटाफट यहां से करें डाउनलोड](https://www.amarujala.com/jobs/government-jobs/nalco-non-executive-admit-card-2026-released-for-268-vacancies-2026-07-16)
-*Amar Ujala National* - Jul 16, 12:21 IST (iso: 2026-07-16T06:51:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/09/04/admit-card_05902829b3b4f94f46ba5a5389b3559e.jpeg?w=1200&dpr=1.0 -->
-
-NALCO Non-Executive Exam: नेशनल एल्युमीनियम कंपनी लिमिटेड ने नॉन-एग्जीक्यूटिव भर्ती परीक्षा 2026 के लिए एडमिट कार्ड जारी कर दिए हैं। परीक्षा में शामिल होने वाले उम्मीदवार आधिकारिक वेबसाइट पर जाकर अपना प्रवेश पत्र डाउनलोड कर सकते हैं। नॉन-एग्जीक्यूटिव भर्ती परीक्षा के लिए प्रवेश पत्र जारी, फटाफट यहां से करें डाउनलोड।
-
-### [सास के स्वागत में बहू ने किया ऐसा धमाकेदार डांस, भावुक होकर लगाया गले](https://www.amarujala.com/bizarre-news/daughter-in-law-such-a-great-dance-to-welcome-her-mother-in-law-video-goes-viral-on-internet-2026-07-16)
-*Amar Ujala National* - Jul 16, 12:14 IST (iso: 2026-07-16T06:44:57+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/bha-ka-dasa-na-sasa-ka-kaya-imashanal_df900901f1ce9cd48aa1895696de0ea0.jpeg?w=1200&dpr=1.0 -->
-
-सास के स्वागत में बहू ने किया ऐसा धमाकेदार डांस।
-
-### [‘फौजी’ से सामने आया प्रभास का दमदार लुक, पोस्टर के साथ निर्माताओं ने की रिलीज डेट की घोषणा](https://www.amarujala.com/entertainment/south-cinema/prabhas-upcoming-movie-fauzi-release-on-3rd-dec-2026-see-new-poster-2026-07-16)
-*Amar Ujala National* - Jul 16, 12:03 IST (iso: 2026-07-16T06:33:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/falma-faja_f08852b8b44926b2bff2c68487ed3242.jpeg?w=1200&dpr=1.0 -->
-
-प्रभास के 46वें जन्मदिन पर 'फौजी' का पहला पोस्टर रिलीज किया गया था। वहीं आज निर्माताओं ने इस फिल्म का एक और नया पोस्टर जारी कर प्रभास के फैंस को खुश कर दिया है। इसी के साथ निर्माताओं ने इस फिल्म की रिलीज डेट की भी घोषणा की है। ‘फौजी’ से सामने आया प्रभास का दमदार लुक, पोस्टर के साथ निर्माताओं ने की रिलीज डेट की घोषणा।
-
-### [धारवाड़ में डॉक्टर की चाकू मारकर हत्या, आठ साल का बेटा भी गंभीर घायल; पत्नी क्यों हुई गिरफ्तार?](https://www.amarujala.com/india-news/doctor-stabbed-to-death-in-dharwad-karnataka-his-eight-year-old-son-critically-injured-why-wife-arrested-2026-07-16)
-*Amar Ujala National* - Jul 16, 12:02 IST (iso: 2026-07-16T06:32:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/15/aparathha_beae093d4fff36fb743ee306e83914b5.jpeg?w=1200&dpr=1.0 -->
-
-कर्नाटक के धारवाड़ में एक डॉक्टर की चाकू मारकर हत्या कर दी गई। उनका आठ साल का बेटा भी गंभीर रूप से घायल हो गया। पुलिस ने डॉक्टर की पत्नी को गिरफ्तार किया है। धारवाड़ में डॉक्टर की चाकू मारकर हत्या, आठ साल का बेटा भी गंभीर घायल; पत्नी क्यों हुई गिरफ्तार?
-
-### [‘हम लोकतंत्र के बुरे दौर…’, क्या दीपिका पादुकोण ने सोनम वांगचुक के समर्थन में की पोस्ट? जानें वायरल](https://www.amarujala.com/entertainment/bollywood/did-deepika-padukone-post-in-support-of-sonam-wangchuk-know-the-truth-of-viral-failed-leader-instagram-post-2026-07-16)
-*Amar Ujala National* - Jul 16, 12:02 IST (iso: 2026-07-16T06:32:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/thapaka-pathakanae-oura-sanama-vagacaka_3c3b289f4e35e228068b467c93830d6d.jpeg?w=1200&dpr=1.0 -->
-
-दीपिका पादुकोण के नाम से एक पोस्ट वायरल हो रही है जिसमें वह सोनम वांगचुक के समर्थन में बोलती दिख रही हैं। इस पोस्ट में लिखा है कि हम लोकतंत्र के बुरे दौर से गुजर रहे हैं। हालांकि यह पोस्ट वायरल हो रही है लेकिन इसकी सच्चाई क्या है यह अभी तक स्पष्ट नहीं है। एक्टिविस्ट सोनम वांगचुक के भूख हड़ताल के सपोर्ट में सेलेब्स लगातार उतर रहे हैं।
-
-### [लिफ्ट की जगह सीढ़ियां चढ़ना कितना फायदेमंद? जानें एक्सपर्ट्स क्या कहते हैं](https://www.amarujala.com/photo-gallery/lifestyle/fitness/reasons-to-take-the-stairs-taking-the-stairs-instead-of-the-lift-benefits-2026-07-16)
-*Amar Ujala National* - Jul 16, 12:02 IST (iso: 2026-07-16T06:32:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/reasons-to-take-the-stairs_548150109b5f20cd8312de40a2972268.jpeg?w=1200&dpr=1.0 -->
-
-लिफ्ट की जगह सीढ़ियां चढ़ने से स्वास्थ्य में सुधार हो सकता है। एक्सपर्ट्स का कहना है कि सीढ़ियां चढ़ने से शारीरिक गतिविधि बढ़ती है। सीढ़ियां चढ़ने से हृदय स्वास्थ्य में भी सुधार होता है। Reasons to Take the Stairs: आज के समय में हर जगह सीढ़ियों के साथ-साथ लिफ्ट भी लगी होती हैं। पर, हर क्या हर समय लिफ्ट का इस्तेमाल करना सही है?
-
-### [सयाजी शिंदे ने किया सोनम वांगचुक का समर्थन, वीडियो शेयर कर साथ होने की कही बात; बोले- ‘मैं दिल से…’](https://www.amarujala.com/entertainment/bollywood/sayaji-shinde-shares-a-video-showing-support-for-sonam-wangchuk-amid-cjp-protest-2026-07-16)
-*Amar Ujala National* - Jul 16, 12:00 IST (iso: 2026-07-16T06:30:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/sanama-vagacaka-ka-samarathana-ma-sayaja-shatha_e4ed7fc28c0f02e5dc9340797ac174f4.jpeg?w=1200&dpr=1.0 -->
-
-सोनम वांगचुक ने 18 दिनों से जंतर-मंतर पर भूख हड़ताल की, जिसके बाद उनकी सेहत पर असर पड़ा। सेलेब्स ने उनसे भूख हड़ताल खत्म करने की अपील की। सयाजी शिंदे ने भी उनका समर्थन किया और एक वीडियो शेयर किया, जिसमें उन्होंने कहा, "मैं दिल से उनके साथ हूं। सोनम वांगचुक जंतर-मंतर पर 18 दिनों से भूख हड़ताल पर बैठे हैं, जिसके बाद उनकी सेहत पर काफी असर पड़ा है।
-
-### [PM मोदी कल देश को सौंपेंगे पहली हाइड्रोजन ट्रेन, यहां जानें किराया-रूट की पूरी जानकारी](https://www.amarujala.com/photo-gallery/utility/india-s-first-hudrogen-train-set-for-launch-check-fare-route-and-key-facts-in-hindi-news-in-hindi-2026-07-16)
-*Amar Ujala National* - Jul 16, 11:57 IST (iso: 2026-07-16T06:27:07+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/haidarajana-tarana-ka-karaya-oura-taimaga-kaya-ha_25d0377ee69578cbc1c6791ce546b0a8.jpeg?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री नरेंद्र मोदी 17 जुलाई को देश की पहली हाइड्रोजन ट्रेन का उद्घाटन करेंगे। यह ट्रेन दिल्ली से अमृतसर के बीच चलेगी और इसका किराया 50 रुपये से शुरू होगा। कल यानी 17 जुलाई को प्रधानमंत्री नरेंद्र मोदी देश की पहली हाइड्रोजन ट्रेन को हरी झंडी दिखाकर उसका उद्घाटन करेंगे। ऐसे में आप यहां जान सकते हैं कि ये हाइड्रोजन ट्रेन किस रूट पर चलेगी और इसका किराया कितना है।
-
-### [सूर्य गोचर से बना षडाष्टक और द्विद्वादश योग, अगले 30 दिनों तक इन राशियों के बढ़ेंगे कष्ट](https://www.amarujala.com/photo-gallery/astrology/predictions/surya-gochar-makes-shadashtak-and-dwidwadash-yog-these-zodiac-will-face-problems-2026-07-16)
-*Amar Ujala National* - Jul 16, 11:55 IST (iso: 2026-07-16T06:25:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/29/july-horoscope-2026_f82aaaa2aca572217713ce2c3658a252.jpeg?w=1200&dpr=1.0 -->
-
-सूर्य गोचर के प्रभाव से राहु और केतु का असर बढ़ गया है, जिससे कुछ राशि वालों की दिक्कतें बढ़ सकती हैं। अगले 30 दिनों तक इन राशियों के लोगों को कष्ट हो सकते हैं। Surya Gochar 2026: सूर्य गोचर के प्रभाव से राहु और केतु का असर भी अधिक सक्रिय हो गया है। इससे कुछ राशि वालों की दिक्कतें बढ़ सकती हैं।
-
-### [आज से हाईकोर्ट में सुनवाई, जानिए 27% OBC आरक्षण विवाद क्या है और अभ्यर्थियों पर इसका क्या असर](https://www.amarujala.com/madhya-pradesh/bhopal/mp-news-high-court-hearing-begins-today-understand-the-27-obc-reservation-dispute-and-its-impact-on-candidat-2026-07-16)
-*Amar Ujala Breaking* - Jul 16, 11:15 IST (iso: 2026-07-16T05:45:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/obsa-aarakashhanae-ma-shamal-parathasha-ka-sabha-thal-ka-nata-fail-fata_dfd127899a370d3e3805dd63ed0c00f1.jpeg?w=1200&dpr=1.0 -->
-
-मध्य प्रदेश में सरकारी नौकरियों में 27 प्रतिशत ओबीसी आरक्षण को लेकर जबलपुर हाईकोर्ट में सुनवाई शुरू हो गई है। इस मामले में अभ्यर्थियों के भविष्य पर असर पड़ने की संभावना है। MP OBC Reservation Hearing: मध्य प्रदेश में सरकारी नौकरियों में 27 प्रतिशत ओबीसी आरक्षण को लेकर आज से जबलपुर हाईकोर्ट में अहम सुनवाई शुरू हो रही है। आज से हाईकोर्ट में सुनवाई, जानिए 27% OBC आरक्षण विवाद क्या है और अभ्यर्थियों पर इसका क्या असर।
-
 ---
 
 ## एशिया-प्रशांत
 
-### [पुरी नहीं जा पा रहे? देश के इन 5 प्रसिद्ध जगन्नाथ मंदिरों में करें दर्शन](https://www.amarujala.com/lifestyle/travel/famous-jagannath-temples-in-india-other-than-puri-rath-yatra-2026-2026-07-16)
-*Amar Ujala National* - Jul 16, 12:07 IST (iso: 2026-07-16T06:37:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/famous-jagannath-temples_99c2cadb230cd681445d08436fcfa8bf.jpeg?w=1200&dpr=1.0 -->
+### [चीन ने उड़ाया गर्दा, अमेरिका का खत्म हुआ दबदबा! शी जिनपिंग के आगे पानी भरते दिखे डोनाल्ड ट्रंप](https://hindi.news18.com/world/china-china-xi-jinping-seen-more-favourably-than-us-donald-trump-in-many-nations-pew-research-center-survey-says-10662551.html)
+*News18 Hindi (World)* - Jul 16, 12:40 IST (iso: 2026-07-16T07:10:57+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Jinping-2026-07-d6ba9bdac6610f1224500185271cf28e-1200x800.jpg -->
 
-Famous Jagannath Temples in India: पुरी की जगन्नाथ रथ यात्रा में नहीं जा पा रहे हैं? जानिए भारत के प्रसिद्ध जगन्नाथ मंदिरों के बारे में, जहां आप भगवान जगन्नाथ, बलभद्र और सुभद्रा के दर्शन कर सकते हैं। पुरी नहीं जा पा रहे? देश के इन 5 प्रसिद्ध जगन्नाथ मंदिरों में करें दर्शन।
+प्यू रिसर्च सेंटर के सर्वे में 25 देशों ने अमेरिका की तुलना में चीन के प्रति अधिक सकारात्मक राय जताई। Pew Research Center survey: दुनिया में अमेरिका की पकड़ कमजोर पड़ती दिख रही है, जबकि चीन की स्वीकार्यता लगातार बढ़ रही है. प्यू रिसर्च सेंटर के नए सर्वे में 36 में से 25 देशों के लोगों ने अमेरिका की तुलना में चीन के प्रति अधिक सकारात्मक राय जताई है.
 
-### [डीयू की पहली सीट अलॉटमेंट लिस्ट आज होगी जारी, 71 हजार से अधिक सीटों पर होगा प्रवेश](https://www.amarujala.com/education/du-ug-admission-2026-first-seat-allotment-list-to-be-released-today-2026-07-16)
-*Amar Ujala National* - Jul 16, 11:57 IST (iso: 2026-07-16T06:27:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/07/24/du-delhi-university_a262da528112a188e3fc4f4f538c2ffd.jpeg?w=1200&dpr=1.0 -->
+### [PoK से बलूचिस्‍तान तक पाकिस्‍तान जल रहा, मतलब भारत पर होगा एक और टेरर अटैक? समझें पहलगाम की](https://hindi.news18.com/news/nation/opinion-when-jaffar-express-hijacked-then-pahalgam-attack-happen-now-balochistan-burning-what-would-be-pakistan-next-cnspiracy-10662325.html)
+*News18 Hindi (World)* - Jul 16, 12:37 IST (iso: 2026-07-16T07:07:32+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/asim-munir-shebaz-2026-07-d0ea577916df9670f3aa125598ed4d0e-1200x800.jpg -->
 
-दिल्ली विश्वविद्यालय ने 16 जुलाई को यूजी प्रवेश 2026 के लिए पहली सीट अलॉटमेंट लिस्ट जारी की। उम्मीदवार सीएसएएस पोर्टल पर लॉगिन कर अपना आवंटित कॉलेज और कोर्स देख सकेंगे। DU UG Admission 2026: दिल्ली विश्वविद्यालय आज 16 जुलाई को यूजी प्रवेश 2026 के लिए पहली सीट अलॉटमेंट लिस्ट जारी करेगा। डीयू की पहली सीट अलॉटमेंट लिस्ट आज होगी जारी, 71 हजार से अधिक सीटों पर होगा प्रवेश।
+पाकिस्तान के आंतरिक संकट के बीच भारत पर हमले की आशंका बढ़ गई है। Opinion: पाकिस्‍तान जब भी आंतरिक संकट में घिरता है तो भारत के खिलाफ कुछ न कुछ जरूर करता है, ताकि आर्मी और सरकार की नाकामी सबके सामने न आए. अब जब PoK से लेकर बलूचिस्‍तान तक जल रहा है तो भारत ने नए हमले की आशंका बढ़ गई है.
+
+### [चीन में दिखा कुदरत का कहर, पानी-पानी हुए इलाके, 39 लोगों को सैलाब ने निगला](https://hindi.news18.com/world/china-china-floods-39-died-typhoon-bavi-heavy-rain-extreme-weather-in-asia-ws-l-10662560.html)
+*News18 Hindi (World)* - Jul 16, 12:34 IST (iso: 2026-07-16T07:04:59+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/china-flood-2-2026-07-0b9022737f44c974456dc32274ad11d1-1200x800.jpg -->
+
+चीन में बाढ़ ने 39 लोगों की जान ले ली है और लोगों से सतर्क रहने की अपील की जा रही है। China Floods: चीन के कई हिस्सों में लगातार हो रही बाढ़ ने तबाही मचा रखी है. खासतौर पर तूफान बावी और मेसाक की वजह से यहां जो सैलाब आया, उसे 39 लोगों की जान ले ली है. इसके बाद लोगों से अपील की जा रही है कि वो सतर्क रहें.
+
+### [उत्तर प्रदेश में ED का एक्शन! आतंकी फंडिंग और बांग्लादेशी-रोहिंग्या घुसपैठ नेटवर्क के 13 ठिकानों पर](https://www.abplive.com/news/india/ed-raided-13-locations-in-up-alleged-terrorist-funding-illegal-rohingya-bangladeshi-immigration-networks-ann-3160722)
+*ABP Live (India)* - Jul 16, 11:56 IST (iso: 2026-07-16T06:26:54+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/16/4abf7fcabe21eff599a462b36d924f4b17841810400611115_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+उत्तर प्रदेश में प्रवर्तन निदेशालय ने कथित आतंकी फंडिंग और अवैध घुसपैठ से जुड़े एक बड़े नेटवर्क के खिलाफ 13 ठिकानों पर छापेमारी की है। यह कार्रवाई उत्तर प्रदेश एंटी टेररिस्ट स्क्वॉड द्वारा दर्ज की गई एफआईआर के आधार पर की गई है। उत्तर प्रदेश में कथित आतंकी फंडिंग और अवैध घुसपैठ से जुड़े एक बड़े नेटवर्क के खिलाफ प्रवर्तन निदेशालय (ED) ने गुरुवार (16 जुलाई 2026) को बड़ी कार्रवाई की.
 
 ### [पाकिस्तान में बारूद से उड़ाया पुलिस स्टेशन, 14 की मौत, जिन सांपों को पाला वही मुनीर को डस रहे](https://hindi.news18.com/world/pakistan-bannu-police-station-attack-14-security-personnel-killed-pakistan-news-10662332.html)
 *News18 Hindi (World)* - Jul 16, 11:51 IST (iso: 2026-07-16T06:21:15+00:00)
@@ -150,27 +160,17 @@ Famous Jagannath Temples in India: पुरी की जगन्नाथ र
 
 पाकिस्तान के खैबर पख्तूनख्वा के बन्नू जिले में आतंकियों ने विस्फोटकों से भरी गाड़ी से मिरयान पुलिस स्टेशन पर हमला किया, जिसमें 14 सुरक्षाकर्मियों की मौत हो गई और कई अन्य घायल हुए। Pakistan News: पाकिस्तान के खैबर पख्तूनख्वा के बन्नू जिले में आतंकियों ने विस्फोटकों से भरी गाड़ी से मिरयान पुलिस स्टेशन पर हमला कर दिया. धमाके के बाद घंटों तक गोलीबारी चली, जिसमें 14 सुरक्षाकर्मियों की मौत हो गई और कई अन्य घायल हुए.
 
+### ['हर जान की कीमत, अगर जरूरत पड़े तो...' सोनम वांगचुक को लेकर याचिका पर हाईकोर्ट का केंद्र सरकार को](https://www.abplive.com/news/india/every-life-is-precious-pil-concerning-activist-sonam-wangchuk-hunger-strike-delhi-high-court-orders-government-monitored-by-government-doctors-3160748)
+*ABP Live (India)* - Jul 16, 11:30 IST (iso: 2026-07-16T06:00:57+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/16/7c4d6d67b53b3093b38f70da13de91041784183222547344_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+दिल्ली हाईकोर्ट ने सामाजिक कार्यकर्ता सोनम वांगचुक के स्वास्थ्य को लेकर गंभीर चिंता जाहिर की है। अदलात ने कहा कि हर व्यक्ति की जान की अहमियत है और केंद्र सरकार को एक निर्देश भी दिया है। सामाजिक कार्यकर्ता सोनम वांगचुक दिल्ली के जंतर-मंतर पर भूख हड़ताल पर बैठे हैं. उनकी भूख हड़ताल को लेकर एक जनहित याचिका (पीआईएल) दायर की गई थी, जिस पर गुरुवार (16 जुलाई) को दिल्ली हाईकोर्ट में सुनवाई हुई.
+
 ### [US की अर्थव्यवस्था सुधारेंगे भारतीय: रघुराम राजन समेत तीन को मिली बड़ी जिम्मेदारी, क्या बदलेंगे](https://www.amarujala.com/world/tackle-inflation-us-selected-indian-experts-raghuram-rajan-raj-chetty-asha-sharma-assigned-key-roles-fed-team-2026-07-16)
 *Amar Ujala World* - Jul 16, 11:29 IST (iso: 2026-07-16T05:59:08+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/ragharama-rajana_70b3ec95cbaa443d345cb24741b3e062.jpeg?w=1200&dpr=1.0 -->
 
 अमेरिकी अर्थव्यवस्था को सुधारने के लिए भारतीय विशेषज्ञों को महत्वपूर्ण भूमिका सौंपी गई है। रघुराम राजन, राज चेट्टी, और आशा शर्मा को यह जिम्मेदारी दी गई है कि वे अमेरिकी अर्थव्यवस्था को सुधारने में मदद करें। US की अर्थव्यवस्था सुधारेंगे भारतीय: रघुराम राजन समेत तीन को मिली बड़ी जिम्मेदारी, क्या बदलेंगे।
-
----
-
-## अमेरिका
-
-### [डोनाल्ड ट्रंप की तस्वीर वाला $1 का ‘गोल्ड कॉइन’ आया सामने, अमेरिका में छिड़ी बहस](https://www.patrika.com/world-news/donald-trump-1-dollar-coin-us-treasury-250th-anniversary-20751614)
-*Patrika (World)* - Jul 16, 11:48 IST (iso: 2026-07-16T06:18:00+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/DonaldTrump-coin.webp -->
-
-अमेरिकी ट्रेजरी विभाग ने घोषणा की कि अमेरिकी मिंट देश की 250वीं वर्षगांठ के अवसर पर राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर वाले $1 के गोल्ड कॉइन का उत्पादन शुरू करेगा। इस मौके पर अमेरिकी ट्रेजरी विभाग ने घोषणा की कि अमेरिकी मिंट (US Mint) देश की 250वीं वर्षगांठ के अवसर पर राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर वाले $1 के गोल्ड कॉइन का उत्पादन शुरू करेगा।
-
-### [30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?](https://www.amarujala.com/world/new-us-military-rule-soldiers-over-30-to-undergo-testosterone-screening-why-was-this-decision-made-2026-07-16)
-*Amar Ujala World* - Jul 16, 11:44 IST (iso: 2026-07-16T06:14:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/pata-hagasatha-amaraka-ka-rakashha-sacava_2a45e13d1888e39be006efa0744efd07.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिकी सेना ने 30 साल से अधिक उम्र के सैनिकों के लिए टेस्टोस्टेरोन स्क्रीनिंग का निर्णय लिया है। यह निर्णय उन सैनिकों की शारीरिक क्षमता को बढ़ावा देने के लिए लिया गया है जो 30 साल से अधिक उम्र के हैं। 30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?
 
 ---
 
