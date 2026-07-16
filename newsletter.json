@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-16T10:43:00.160544+00:00",
-  "article_count": 49,
-  "total_unique_count": 265,
+  "generated_at": "2026-07-16T11:35:12.725073+00:00",
+  "article_count": 50,
+  "total_unique_count": 280,
   "digest": {
-    "en": "Afghan households in the Asia-Pacific region are relying on remittances as a lifeline due to a lack of jobs, while in Thailand, nearly 6,000 officials are being considered for suspension over an exam scandal. In the Americas, the US Mint will produce a $1 coin featuring Trump's image. Meanwhile, Ukrainian drones are striking deep into Russia.",
-    "hi": "सऊदी अरब को 2 अरब डॉलर का हथियार देगा अमेरिका, क्यों MBS ने ट्रंप से मांगी नई ढाल। अमेरिकी हथियारों की आपूर्ति के बावजूद सऊदी अरब के सैन्य अभियानों में हो रहे नुकसान के कारण मोहम्मद बिन सलमान ने ट्रंप से मांगी नई रक्षा तकनीकें। इस कदम से सऊदी अरब की सैन्य क्षमता में वृद्धि होगी।"
+    "en": "Zelenskyy's sacking of Defense Minister Oleksiy Reznikov sparks widespread outrage in Ukraine, with opposition lawmakers calling for his resignation. Meanwhile, China's sub-launched missile test has sparked concerns about its military expansion in the Asia-Pacific region, with analysts warning of a potential arms race. The US move to impose 25% tariffs on Brazil has also raised tensions in the Americas.",
+    "hi": "न्यूजीलैंड में 6.3 तीव्रता का भूकंप आया है, जिससे तटीय इलाकों में सुनामी का अलर्ट जारी किया गया है। इसी समय, पाकिस्तान का साथ देने वाले तुर्की का ऑफर रूस ने रिजेक्ट कर दिया है।"
   },
   "articles": [
+    {
+      "title": "Zelenskyy's Sacking Of Defense Minister Sparks Fury In Ukraine",
+      "url": "https://www.rferl.org/a/ukraine-military-fedorov-zelenskyy-firing-ouster-defense-ministry/33804946.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-16T11:16:10+00:00",
+      "image_url": "https://gdb.rferl.org/179b9181-5cc8-4f93-3090-08decd1f5434_w1200_h630.jpg",
+      "summary": "Opposition lawmakers, civil society activists, military advisers responded with angry disbelief after President Zelenskyy pushed out the young, tech-minded defense minister whose embrace of drone warfare innovation was seen as a jolt of new thinking. Zelenskyy's Sacking Of Defense Minister Sparks Fury In Ukraine.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "With No Jobs, Remittances Become Lifeline For Afghan Households",
       "url": "https://www.rferl.org/a/remittances-lifeline-afghanistan/33804312.html",
@@ -20,18 +32,6 @@
       "translations": {}
     },
     {
-      "title": "Thailand mulls suspending nearly 6,000 officials over exam scandal",
-      "url": "https://www.channelnewsasia.com/asia/thailand-suspend-6000-officials-exam-scandal-6258221",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-07-16T09:17:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--6-BO_8Tp--/c_crop,h_576,w_1024,x_0,y_26/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/000_c2bq363.jpg?itok=EqPlm5lg",
-      "summary": "The scandal began in June, when investigators said they had concluded that officials accepted bribes of up to 800,000 baht (US$23,847) to electronically alter candidates' results to allow them to pass mandatory exams for government appointments or promotions. Thailand mulls suspending nearly 6,000 officials over exam scandal.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "What China’s sub-launched missile test really signaled",
       "url": "https://asiatimes.com/2026/07/what-chinas-sub-launched-missile-test-really-signaled/",
       "source": "Asia Times",
@@ -40,18 +40,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/China-Missile-South-Pacific-July-2026.jpg",
       "summary": "This article first appeared on Pacific Forum and is republished with permission. Read the original here. According to Chinese media reports, at 12:01 pm on July 6, a People’s Liberation Army Navy strategic nuclear-powered submarine successfully launched a submarine-launched strategic missile carrying a “training simulation warhead” toward “relevant high-seas areas in the Pacific.” The missile repo What China’s sub-launched missile test really signaled.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S. Mint will produce $1 coin with Trump's image, Treasury Secretary says",
-      "url": "https://www.thehindu.com/news/international/us-mint-will-produce-1-coin-with-trumps-image-treasury-secretary-says/article71228626.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-16T07:34:39+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/vt5t7b/article71228639.ece/alternates/LANDSCAPE_1200/Trump-Coin_61389.jpg",
-      "summary": "The design, which also features the words “Liberty,” “In God We Trust” and “1776-2026” on the ‌front and an image of the bald eagle from the presidential seal on ‌the back, was a revision from a ‌draft ⁠made public in October. U. S. Mint will produce $1 coin with Trump's image, Treasury Secretary says. U. S.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -296,6 +284,102 @@
       "translations": {}
     },
     {
+      "title": "On Our Radar",
+      "url": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-07-03T19:07:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+      "url": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-06-30T15:20:00+00:00",
+      "image_url": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group. New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "न्यूजीलैंड में 6.3 तीव्रता का भूकंप, तटीय इलाकों में सुनामी का अलर्ट",
+      "url": "https://www.patrika.com/world-news/new-zealand-earthquake-te-anau-tsunami-warning-20752906",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-16T11:30:50+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2025/12/Earthquake-.jpg",
+      "summary": "New Zealand earthquake: न्यूजीलैंड के साउथ आइलैंड पर ते अनाऊ के पास बुधवार को जबरदस्त भूकंप झटके महसूस किए गए। जिसके बाद अधिकारियों ने तटीय इलाके में सुनामी की चेतावनी जारी की। न्यूज़ीलैंड की नेशनल इमरजेंसी मैनेजमेंट एजेंसी (NEMA) के अनुसार, भूकंप का केंद्र ते अनाऊ से लगभग 40 किलोमीटर उत्तर में था। इस इलाके को मशहूर टूरिस्ट डेस्टिनेशन फियोर्डलैंड का प्रवेश द्वार माना जाता है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "न्यूजीलैंड में 6.3 तीव्रता का भूकंप, तटीय इलाकों में सुनामी का अलर्ट",
+          "summary": "New Zealand earthquake: न्यूजीलैंड के साउथ आइलैंड पर ते अनाऊ के पास बुधवार को जबरदस्त भूकंप झटके महसूस किए गए। जिसके बाद अधिकारियों ने तटीय इलाके में सुनामी की चेतावनी जारी की। न्यूज़ीलैंड की नेशनल इमरजेंसी मैनेजमेंट एजेंसी (NEMA) के अनुसार, भूकंप का केंद्र ते अनाऊ से लगभग 40 किलोमीटर उत्तर में था। इस इलाके को मशहूर टूरिस्ट डेस्टिनेशन फियोर्डलैंड का प्रवेश द्वार माना जाता है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान का साथ देने वाले तुर्की का ऑफर रूस ने कर दिया रिजेक्ट, व्लादिमीर पुतिन के ऑफिस की ओर से",
+      "url": "https://www.patrika.com/world-news/russia-rejects-turkey-ukraine-peace-offer-putin-kremlin-statement-20752832",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-16T11:18:46+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2025/12/PM-Modi-and-Russian-President-Putin.webp",
+      "summary": "भारत के खिलाफ खड़ा होकर पाकिस्तान का साथ देने वाले तुर्की के ऑफर को रूस ने पूरी तरह से रिजेक्ट कर दिया है। रूस के राष्ट्रपति व्लादिमीर पुतिन के ऑफिस ‘क्रेमलिन’ की ओर से बड़ा बयान जारी किया गया है। पाकिस्तान का साथ देने वाले तुर्की का ऑफर रूस ने कर दिया रिजेक्ट, व्लादिमीर पुतिन के ऑफिस की ओर से।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान का साथ देने वाले तुर्की का ऑफर रूस ने कर दिया रिजेक्ट, व्लादिमीर पुतिन के ऑफिस की ओर से",
+          "summary": "भारत के खिलाफ खड़ा होकर पाकिस्तान का साथ देने वाले तुर्की के ऑफर को रूस ने पूरी तरह से रिजेक्ट कर दिया है। रूस के राष्ट्रपति व्लादिमीर पुतिन के ऑफिस ‘क्रेमलिन’ की ओर से बड़ा बयान जारी किया गया है। पाकिस्तान का साथ देने वाले तुर्की का ऑफर रूस ने कर दिया रिजेक्ट, व्लादिमीर पुतिन के ऑफिस की ओर से।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्या ईरान में है डोनाल्ड ट्रंप की हत्या करवाने का दम? इतनी सिक्योरिटी में रहते हैं अमेरिका के",
+      "url": "https://hindi.news18.com/world/middle-east-can-iran-assassinate-donald-trump-what-is-us-president-security-ring-and-secret-service-shield-10663286.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-16T11:18:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Iran-To-Breach-Trump-Security-2026-07-d1c7ef8240fb55a59ec983d86627d5e3-1200x800.jpg",
+      "summary": "अमेरिका और ईरान के बीच तनाव बढ़ने के बीच ईरान ने डोनाल्ड ट्रंप की हत्या की साजिश रची है. अमेरिकी राष्ट्रपति को जमीन से लेकर आसमान तक तगड़ी सिक्योरिटी मिलती है. उनकी सुरक्षा के लिए कई एजेंसियां काम करती हैं और उन्हें खतरे से बचाने के लिए विशेष तरीके अपनाए जाते हैं. अमेरिका-ईरान ने हथियार डालने के बाद एक बार फिर से मिसाइलें और बम बरसाने शुरू कर दिए हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या ईरान में है डोनाल्ड ट्रंप की हत्या करवाने का दम? इतनी सिक्योरिटी में रहते हैं अमेरिका के",
+          "summary": "अमेरिका और ईरान के बीच तनाव बढ़ने के बीच ईरान ने डोनाल्ड ट्रंप की हत्या की साजिश रची है. अमेरिकी राष्ट्रपति को जमीन से लेकर आसमान तक तगड़ी सिक्योरिटी मिलती है. उनकी सुरक्षा के लिए कई एजेंसियां काम करती हैं और उन्हें खतरे से बचाने के लिए विशेष तरीके अपनाए जाते हैं. अमेरिका-ईरान ने हथियार डालने के बाद एक बार फिर से मिसाइलें और बम बरसाने शुरू कर दिए हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हिंद महासागर में दादागिरी करने वालों को कड़ा संदेश, अजीत डोभाल ने तैयार की उभरते खतरों से निपटने की",
+      "url": "https://hindi.news18.com/news/nation/bimstec-nsa-meeting-tough-message-regional-security-indian-ocean-ajit-doval-strategy-10663310.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-16T11:06:26+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Ajit-Doval-2026-07-accb825c9da679a9708ed308ec1feb8f-1200x800.jpg",
+      "summary": "बिम्सटेक के सदस्य देशों की कुल आबादी 1.7 अरब है, जो दुनिया की लगभग 22 प्रतिशत आबादी है. इन देशों की संयुक्त अर्थव्यवस्था करीब 5 ट्रिलियन अमेरिकी डॉलर की है. अजीत डोभाल ने कहा कि बंगाल की खाड़ी सिर्फ भौगोलिक रूप से ही नहीं, बल्कि हजारों वर्षों से चली आ रही साझा सभ्यतागत और सांस्कृतिक विरासत के जरिए भी सदस्य देशों को जोड़ती है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिंद महासागर में दादागिरी करने वालों को कड़ा संदेश, अजीत डोभाल ने तैयार की उभरते खतरों से निपटने की",
+          "summary": "बिम्सटेक के सदस्य देशों की कुल आबादी 1.7 अरब है, जो दुनिया की लगभग 22 प्रतिशत आबादी है. इन देशों की संयुक्त अर्थव्यवस्था करीब 5 ट्रिलियन अमेरिकी डॉलर की है. अजीत डोभाल ने कहा कि बंगाल की खाड़ी सिर्फ भौगोलिक रूप से ही नहीं, बल्कि हजारों वर्षों से चली आ रही साझा सभ्यतागत और सांस्कृतिक विरासत के जरिए भी सदस्य देशों को जोड़ती है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
       "title": "सऊदी अरब को 2 अरब डॉलर का हथियार देगा अमेरिका, क्यों MBS ने ट्रंप से मांगी नई ढाल?",
       "url": "https://hindi.news18.com/world/middle-east-us-approves-2-billion-saudi-arms-deal-amid-iran-houthi-conflict-apkws-10663335.html",
       "source": "News18 Hindi (World)",
@@ -332,6 +416,42 @@
       }
     },
     {
+      "title": "जेलेंस्की की पसंद पर संसद की मुहर, यूक्रेन के नए प्रधानमंत्री बने नाफ्टोगैज के CEO सेरही कोरेट्स्की",
+      "url": "https://www.patrika.com/world-news/ukraine-parliament-approves-serhii-koretskyi-new-prime-minister-20752511",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-16T10:26:38+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Sergii-Koretskyi.webp",
+      "summary": "यूक्रेन की संसद ने सेरही कोरेट्स्की को नया प्रधानमंत्री नियुक्त किया। राष्ट्रपति वोलोडिमिर जेलेंस्की के नॉमिनी कोरेट्स्की नाफ्टोगैज के CEO थे। संसद में 289 सांसदों ने उनके समर्थन में वोट दिया। Ukraine New Prime Minister Serhii Koretskyi: रूस के साथ चल रही भीषण जंग के बीच यूक्रेन में बड़े पैमाने पर राजनीतिक और प्रशासनिक बदलाव हुए हैं। राष्ट्रपति वोलोडिमिर जेलेंस्की के नॉमिनी और देश की सरकारी एनर्जी कंपनी नाफ्टोगैज के CEO सेरही कोरेट्स्की को यूक्रेन का नया प्रधानमंत्री नियुक्त किया गया है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जेलेंस्की की पसंद पर संसद की मुहर, यूक्रेन के नए प्रधानमंत्री बने नाफ्टोगैज के CEO सेरही कोरेट्स्की",
+          "summary": "यूक्रेन की संसद ने सेरही कोरेट्स्की को नया प्रधानमंत्री नियुक्त किया। राष्ट्रपति वोलोडिमिर जेलेंस्की के नॉमिनी कोरेट्स्की नाफ्टोगैज के CEO थे। संसद में 289 सांसदों ने उनके समर्थन में वोट दिया। Ukraine New Prime Minister Serhii Koretskyi: रूस के साथ चल रही भीषण जंग के बीच यूक्रेन में बड़े पैमाने पर राजनीतिक और प्रशासनिक बदलाव हुए हैं। राष्ट्रपति वोलोडिमिर जेलेंस्की के नॉमिनी और देश की सरकारी एनर्जी कंपनी नाफ्टोगैज के CEO सेरही कोरेट्स्की को यूक्रेन का नया प्रधानमंत्री नियुक्त किया गया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "तेहरान में बिलबोर्ड पर अमेरिकी राष्ट्रपति को दी धमकी, लिखा-हम ट्रंप को मार डालेंगे, ताबूत में भी",
+      "url": "https://www.patrika.com/world-news/us-president-trump-threatened-on-a-display-board-in-tehran-20752581",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-16T10:25:03+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Iran-controversial-poster.webp",
+      "summary": "अल्जीरिया के अल्जीयर्स में एक अनाथालय में आग लगने से 11 लोगों की मौत हो गई और 19 लोग घायल हो गए। इमरजेंसी टीम ने अनाथालय से 5 दिव्यांग लोगों को सुरक्षित बाहर निकाला। आग अल्जीयर्स के पूर्वी उपनगरों में स्थित मोहम्मदिया जिले के एक अनाथालय में लगी थी। Iran Controversial Poster: अमेरिका और ईरान के बीच सैन्य तनाव फिर से अपने चरम पर है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेहरान में बिलबोर्ड पर अमेरिकी राष्ट्रपति को दी धमकी, लिखा-हम ट्रंप को मार डालेंगे, ताबूत में भी",
+          "summary": "अल्जीरिया के अल्जीयर्स में एक अनाथालय में आग लगने से 11 लोगों की मौत हो गई और 19 लोग घायल हो गए। इमरजेंसी टीम ने अनाथालय से 5 दिव्यांग लोगों को सुरक्षित बाहर निकाला। आग अल्जीयर्स के पूर्वी उपनगरों में स्थित मोहम्मदिया जिले के एक अनाथालय में लगी थी। Iran Controversial Poster: अमेरिका और ईरान के बीच सैन्य तनाव फिर से अपने चरम पर है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "ट्रंप की नीति से डेढ़ लाख भारतीय ट्रक ड्राइवरों पर लटकी तलवार, इस एक कदम से छिन सकता है रोजगार",
       "url": "https://hindi.news18.com/world/america-us-president-donald-trump-policy-creates-crisis-for-150-thousand-indian-origin-truck-drivers-ws-l-10663262.html",
       "source": "News18 Hindi (World)",
@@ -364,6 +484,42 @@
           "title": "मच्छरों का काल बनेगा AI ड्रोन, भिनभिनाते ही कर देगा काम तमाम, वैज्ञानिकों ने बना दी कमाल की तकनीक",
           "summary": "Mosquito Hunting by AI Drone: मच्छरों की भिनभिन भला किसे पसंद होती है. ऐसे में कई बार लगता है कि काश इनकी भिनभिनाहट सुनते ही कोई इन्हें मार देता. अब वैज्ञानिकों ने एक ऐसा ही उपकरण तैयार कर लिया है, जो मच्छरों की भिनभिन सुनते ही इन्हें किसी इंसान की तरह शिकार बना लेगा. है ना ये कमाल का गैजेट?",
           "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "अल्जीरिया में एक अनाथालय में लगी आग में 11 लोग जिंदा जले, 19 घायल, 5 दिव्यांगों को सुरक्षित बाहर",
+      "url": "https://www.patrika.com/world-news/11-people-killed-in-a-fire-at-an-orphanage-in-algeria-20752370",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-16T09:28:10+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Algiers-fire-incident.webp",
+      "summary": "ईरान में तेहरान के एंगेलाब स्क्वायर पर लगाए गए डिस्प्ले बोर्ड में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को लेकर लिखे गए डरावने संदेश से दोनों देशों के बीच तनाव और बढ़ने की आशंका है। बोर्ड पर लगे पोस्टर में राष्ट्रपति ट्रंप को एक खुले काले ताबूत में दिखाया गया है। ईरान और अमेरिका के बीच सैन्य तनाव फिर से अपने चरम पर है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अल्जीरिया में एक अनाथालय में लगी आग में 11 लोग जिंदा जले, 19 घायल, 5 दिव्यांगों को सुरक्षित बाहर",
+          "summary": "ईरान में तेहरान के एंगेलाब स्क्वायर पर लगाए गए डिस्प्ले बोर्ड में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को लेकर लिखे गए डरावने संदेश से दोनों देशों के बीच तनाव और बढ़ने की आशंका है। बोर्ड पर लगे पोस्टर में राष्ट्रपति ट्रंप को एक खुले काले ताबूत में दिखाया गया है। ईरान और अमेरिका के बीच सैन्य तनाव फिर से अपने चरम पर है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "इराक से भेजी जा रही मिसाइल-हथियार की खेप जब्त, डोनाल्ड ट्रंप के कहने पर हिज्बुल्लाह से लड़ने के लिए",
+      "url": "https://www.patrika.com/world-news/syria-new-government-stops-weapons-to-lebanon-first-action-after-donald-trump-phone-call-20752426",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-16T09:16:42+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-2.jpg",
+      "summary": "सीरिया ने इराक बॉर्डर पर हिजबुल्लाह के खिलाफ पहला बड़ा एक्शन लिया है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के कहने पर सीरिया आगे आ गया है और हिजबुल्लाह से लड़ने के लिए इराक से भेजी जा रही मिसाइल-हथियार की खेप जब्त की है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के कहने पर हिजबुल्लाह से लड़ने के लिए सीरिया आगे आ गया है। इराक से भेजी जा रही मिसाइल-हथियार की खेप जब्त, डोनाल्ड ट्रंप के कहने पर हिज्बुल्लाह से लड़ने के लिए।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इराक से भेजी जा रही मिसाइल-हथियार की खेप जब्त, डोनाल्ड ट्रंप के कहने पर हिज्बुल्लाह से लड़ने के लिए",
+          "summary": "सीरिया ने इराक बॉर्डर पर हिजबुल्लाह के खिलाफ पहला बड़ा एक्शन लिया है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के कहने पर सीरिया आगे आ गया है और हिजबुल्लाह से लड़ने के लिए इराक से भेजी जा रही मिसाइल-हथियार की खेप जब्त की है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के कहने पर हिजबुल्लाह से लड़ने के लिए सीरिया आगे आ गया है। इराक से भेजी जा रही मिसाइल-हथियार की खेप जब्त, डोनाल्ड ट्रंप के कहने पर हिज्बुल्लाह से लड़ने के लिए।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -598,150 +754,6 @@
           "title": "बंगाल की खाड़ी में जब टकराए दो जहाज, देखते ही देखते पानी में समा गए 500 से ज्यादा रोहिंग्या",
           "summary": "बंगाल की खाड़ी में दो जहाजों के टकराने से 500 से ज्यादा रोहिंग्या डूब गए। बंगाल की खाड़ी में जब टकराए दो जहाज, देखते ही देखते पानी में समा गए 500 से ज्यादा रोहिंग्या।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "तड़पकर नहीं, गरिमा से विदा होंगे मरीज: फ्रांस में इच्छामृत्यु को हरी झंडी, नए कानून में क्या है खास?",
-      "url": "https://www.amarujala.com/world/france-national-assembly-gives-final-approval-to-assisted-dying-bill-2026-07-16",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-16T06:59:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/imanael-makara-farasa-ka-rashhatarapata_d53d5854e7cbe393f0e2f49c57a71ce7.jpeg?w=1200&dpr=1.0",
-      "summary": "france national assembly gives final approval to assisted dying bill तड़पकर नहीं, गरिमा से विदा होंगे मरीज: फ्रांस में इच्छामृत्यु को हरी झंडी, नए कानून में क्या है खास?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तड़पकर नहीं, गरिमा से विदा होंगे मरीज: फ्रांस में इच्छामृत्यु को हरी झंडी, नए कानून में क्या है खास?",
-          "summary": "france national assembly gives final approval to assisted dying bill तड़पकर नहीं, गरिमा से विदा होंगे मरीज: फ्रांस में इच्छामृत्यु को हरी झंडी, नए कानून में क्या है खास?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "अपनों पर ही नहीं रहा ट्रंप को भरोसा, आखिर क्यों खंगाले जा रहे हैं व्हाइट हाउस से जुड़े अफसरों के",
-      "url": "https://hindi.news18.com/world/america-why-donald-trump-hunting-down-white-house-official-personal-mobile-phones-security-threat-air-force-one-2-10662509.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-16T06:54:04+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/donald-trump-2026-07-10T072401.585-2026-07-60e13c76081fb0c10d473013a9d66492-1200x800.jpg",
-      "summary": "White House Officials Phone Check: ईरान-अमेरिका युद्ध के दौरान इस बात को लेकर डोनाल्ड ट्रंप कई बार दावा कर चुके हैं कि उनकी जान के पीछे भी लोग पड़े हुए हैं. इसी बीच अमेरिकी राष्ट्रपति ने व्हाइट हाउस के अधिकारियों के मोबाइल फोन खंगलवाने शुरू कर दिए हैं. आखिर वो इससे जानना क्या चाहते हैं या उन्हें संदेह क्या है?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अपनों पर ही नहीं रहा ट्रंप को भरोसा, आखिर क्यों खंगाले जा रहे हैं व्हाइट हाउस से जुड़े अफसरों के",
-          "summary": "White House Officials Phone Check: ईरान-अमेरिका युद्ध के दौरान इस बात को लेकर डोनाल्ड ट्रंप कई बार दावा कर चुके हैं कि उनकी जान के पीछे भी लोग पड़े हुए हैं. इसी बीच अमेरिकी राष्ट्रपति ने व्हाइट हाउस के अधिकारियों के मोबाइल फोन खंगलवाने शुरू कर दिए हैं. आखिर वो इससे जानना क्या चाहते हैं या उन्हें संदेह क्या है?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन ने पिस्तौल से तोप को दी मात! कैसे दुनिया का तीसरा सबसे ताकतवर देश घुटनों पर, रूस के लिए",
-      "url": "https://www.abplive.com/news/world/how-russia-losing-war-against-ukraine-vladimir-putin-weakness-self-destruction-volodymyr-zelensky-s-500-explained-3160774",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-07-16T06:42:14+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/16/541e749dcfae64fcf39fdfee61fbcf5817841838181241317_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "दुनिया का तीसरा सबसे ताकतवर देश, जिसके पास परमाणु हथियार का सबसे बड़ा जखीरा है, हाइपरसोनिक मिसाइलें हैं, S-400 और S-500 जैसे एडवांस्ड एयर डिफेंस सिस्टम हैं, वो एक ऐसे देश के सामने हार की कगार पर पहुंच जाए जिसकी अपनी कोई नेवी तक नहीं है. वर्ल्ड बैंक के मुताबिक, प्रतिबंधों और युद्ध की वजह से विदेशी मुद्रा का आना लगभग बंद हो गया. इससे रूबल पर दबाव लगातार बढ़ता गया.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन ने पिस्तौल से तोप को दी मात! कैसे दुनिया का तीसरा सबसे ताकतवर देश घुटनों पर, रूस के लिए",
-          "summary": "दुनिया का तीसरा सबसे ताकतवर देश, जिसके पास परमाणु हथियार का सबसे बड़ा जखीरा है, हाइपरसोनिक मिसाइलें हैं, S-400 और S-500 जैसे एडवांस्ड एयर डिफेंस सिस्टम हैं, वो एक ऐसे देश के सामने हार की कगार पर पहुंच जाए जिसकी अपनी कोई नेवी तक नहीं है. वर्ल्ड बैंक के मुताबिक, प्रतिबंधों और युद्ध की वजह से विदेशी मुद्रा का आना लगभग बंद हो गया. इससे रूबल पर दबाव लगातार बढ़ता गया.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "क्या कुलदीप को मिलेगा मौका? गिल की फिटनेस ने बढ़ाई चिंता; जानें बदलाव की कितनी संभावना",
-      "url": "https://www.amarujala.com/cricket/cricket-news/india-vs-england-2nd-odi-2025-playing-xi-dream11-prediction-captain-vice-captain-player-list-news-in-hindi-2026-07-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-16T06:40:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/ind_2107d4fb7ff91be45fc4139eb704a053.jpeg?w=1200&dpr=1.0",
-      "summary": "India vs England (IND vs ENG) 2nd ODI Playing 11 Prediction: भारत और इंग्लैंड के बीच गुरुवार को तीन मैचों की वनडे सीरीज का दूसरा मुकाबला खेला जाएगा। भारत ने पहले ही सीरीज में बढ़त बना ली है और अब उसकी नजरें सीरीज अपने नाम करने पर होंगी। क्या कुलदीप को मिलेगा मौका? गिल की फिटनेस ने बढ़ाई चिंता; जानें बदलाव की कितनी संभावना।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या कुलदीप को मिलेगा मौका? गिल की फिटनेस ने बढ़ाई चिंता; जानें बदलाव की कितनी संभावना",
-          "summary": "India vs England (IND vs ENG) 2nd ODI Playing 11 Prediction: भारत और इंग्लैंड के बीच गुरुवार को तीन मैचों की वनडे सीरीज का दूसरा मुकाबला खेला जाएगा। भारत ने पहले ही सीरीज में बढ़त बना ली है और अब उसकी नजरें सीरीज अपने नाम करने पर होंगी। क्या कुलदीप को मिलेगा मौका? गिल की फिटनेस ने बढ़ाई चिंता; जानें बदलाव की कितनी संभावना।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बच्चों के कैंसर वार्ड पर MQ-9 से अमेरिका ने बरसाए बम, अस्पताल कराया गया खाली... ईरान का चौंकाने",
-      "url": "https://www.abplive.com/news/world/us-airstrikes-hit-shahid-baghaei-hospital-child-cancer-ward-iran-hormuz-conflict-middle-east-tensions-3160771",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-07-16T06:37:11+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/16/d719aecbd3e6bf02aa3d1a96d62954131784183778778425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिकी हवाई हमलों में ईरान के कई शहरों को निशाना बनाया गया. अहवाज शहर के शाहिद बघाई अस्पताल का बच्चों के कैंसर उपचार विभाग क्षतिग्रस्त हो गया. अस्पताल में इलाज करा रहे मरीजों और बच्चों को तुरंत सुरक्षित स्थान पर ले जाना पड़ा. US Iran Conflict: ईरान और अमेरिका के बीच जारी सैन्य तनाव एक बार फिर तेज हो गया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बच्चों के कैंसर वार्ड पर MQ-9 से अमेरिका ने बरसाए बम, अस्पताल कराया गया खाली... ईरान का चौंकाने",
-          "summary": "अमेरिकी हवाई हमलों में ईरान के कई शहरों को निशाना बनाया गया. अहवाज शहर के शाहिद बघाई अस्पताल का बच्चों के कैंसर उपचार विभाग क्षतिग्रस्त हो गया. अस्पताल में इलाज करा रहे मरीजों और बच्चों को तुरंत सुरक्षित स्थान पर ले जाना पड़ा. US Iran Conflict: ईरान और अमेरिका के बीच जारी सैन्य तनाव एक बार फिर तेज हो गया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "उत्तर प्रदेश में ED का एक्शन! आतंकी फंडिंग और बांग्लादेशी-रोहिंग्या घुसपैठ नेटवर्क के 13 ठिकानों पर",
-      "url": "https://www.abplive.com/news/india/ed-raided-13-locations-in-up-alleged-terrorist-funding-illegal-rohingya-bangladeshi-immigration-networks-ann-3160722",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-16T06:26:54+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/16/4abf7fcabe21eff599a462b36d924f4b17841810400611115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "उत्तर प्रदेश एंटी टेररिस्ट स्क्वॉड (ATS) ने कथित आतंकी फंडिंग और अवैध घुसपैठ के मामले में एक बड़े नेटवर्क के खिलाफ प्रवर्तन निदेशालय (ED) को एफआईआर दर्ज करने के बाद, ED ने धन शोधन निवारण अधिनियम (PMLA) के तहत राज्य के 13 अलग-अलग ठिकानों पर छापेमारी की. यह कार्रवाई ATS द्वारा दर्ज एफआईआर के आधार पर की गई है. जांच एजेंसियों का आरोप है कि एक संगठित गिरोह रोहिंग्या और बांग्लादेशी घुसपैठियों को भारत में प्रवेश करने और आतंकी गतिविधियों में शामिल होने के लिए फंडिंग प्रदान कर रहा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उत्तर प्रदेश में ED का एक्शन! आतंकी फंडिंग और बांग्लादेशी-रोहिंग्या घुसपैठ नेटवर्क के 13 ठिकानों पर",
-          "summary": "उत्तर प्रदेश एंटी टेररिस्ट स्क्वॉड (ATS) ने कथित आतंकी फंडिंग और अवैध घुसपैठ के मामले में एक बड़े नेटवर्क के खिलाफ प्रवर्तन निदेशालय (ED) को एफआईआर दर्ज करने के बाद, ED ने धन शोधन निवारण अधिनियम (PMLA) के तहत राज्य के 13 अलग-अलग ठिकानों पर छापेमारी की. यह कार्रवाई ATS द्वारा दर्ज एफआईआर के आधार पर की गई है. जांच एजेंसियों का आरोप है कि एक संगठित गिरोह रोहिंग्या और बांग्लादेशी घुसपैठियों को भारत में प्रवेश करने और आतंकी गतिविधियों में शामिल होने के लिए फंडिंग प्रदान कर रहा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप की तस्वीर वाला $1 का ‘गोल्ड कॉइन’ आया सामने, अमेरिका में छिड़ी बहस",
-      "url": "https://www.patrika.com/world-news/donald-trump-1-dollar-coin-us-treasury-250th-anniversary-20751614",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-16T06:18:00+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/DonaldTrump-coin.webp",
-      "summary": "अमेरिकी ट्रेजरी विभाग ने घोषणा की है कि देश की 250वीं वर्षगांठ के अवसर पर एक विशेष सिक्का जारी किया जाएगा। यह सिक्का इस साल शरद ऋतु में उपलब्ध होगा और इसमें राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर होगी। अमेरिकी कमीशन ने इस सिक्के का अंतिम डिजाइन इस साल की शुरुआत में तैयार किया है। इस मौके पर अमेरिकी ट्रेजरी विभाग ने घोषणा की कि अमेरिकी मिंट (US Mint) देश की 250वीं वर्षगांठ के अवसर पर राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर वाले $1 के गोल्ड कॉइन का उत्पादन शुरू करेगा।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप की तस्वीर वाला $1 का ‘गोल्ड कॉइन’ आया सामने, अमेरिका में छिड़ी बहस",
-          "summary": "अमेरिकी ट्रेजरी विभाग ने घोषणा की है कि देश की 250वीं वर्षगांठ के अवसर पर एक विशेष सिक्का जारी किया जाएगा। यह सिक्का इस साल शरद ऋतु में उपलब्ध होगा और इसमें राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर होगी। अमेरिकी कमीशन ने इस सिक्के का अंतिम डिजाइन इस साल की शुरुआत में तैयार किया है। इस मौके पर अमेरिकी ट्रेजरी विभाग ने घोषणा की कि अमेरिकी मिंट (US Mint) देश की 250वीं वर्षगांठ के अवसर पर राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर वाले $1 के गोल्ड कॉइन का उत्पादन शुरू करेगा।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?",
-      "url": "https://www.amarujala.com/world/new-us-military-rule-soldiers-over-30-to-undergo-testosterone-screening-why-was-this-decision-made-2026-07-16",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-16T06:14:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/pata-hagasatha-amaraka-ka-rakashha-sacava_2a45e13d1888e39be006efa0744efd07.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी सेना ने 30 साल से अधिक उम्र के सैनिकों के लिए टेस्टोस्टेरोन स्क्रीनिंग का निर्णय लिया है। यह निर्णय उन सैनिकों की शारीरिक क्षमता को बढ़ावा देने के लिए लिया गया है जो 30 साल से अधिक उम्र के हैं। 30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?",
-          "summary": "अमेरिकी सेना ने 30 साल से अधिक उम्र के सैनिकों के लिए टेस्टोस्टेरोन स्क्रीनिंग का निर्णय लिया है। यह निर्णय उन सैनिकों की शारीरिक क्षमता को बढ़ावा देने के लिए लिया गया है जो 30 साल से अधिक उम्र के हैं। 30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?",
-          "region": "अमेरिका"
         }
       }
     }
