@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-07-16T05:06:55.873570+00:00",
-  "article_count": 48,
-  "total_unique_count": 269,
+  "generated_at": "2026-07-16T06:55:29.479704+00:00",
+  "article_count": 50,
+  "total_unique_count": 277,
   "digest": {
-    "en": "The yen's decline has Asia's monetary anchor shifting to the yuan, with China's currency now a key benchmark for regional trade. Meanwhile, a high-profile lawsuit in the US has set a precedent for condominium owners seeking compensation for termite damage. In Ukraine, Elon Musk's Starlink internet service has become a crucial tool in the war effort.",
-    "hi": "फ्रांस में इच्छामृत्यु को हरी झंडी मिली है। नए कानून के तहत, मरीज अपनी मृत्यु की इच्छा जता सकते हैं। इसके बाद, डॉक्टरों को उनकी इच्छा का सम्मान करना होगा।"
+    "en": "The U.S. Mint plans to produce a $1 coin featuring Trump's image, while Brazil condemns the US move to impose 25% tariffs next week. Meanwhile, the US approves nearly $2 billion in weapons sales to Saudi Arabia and the Taliban's ethnic chauvinism becomes an increasingly dangerous divide.",
+    "hi": "फ्रांस में इच्छामृत्यु को हरी झंडी मिली है, जिससे मरीज गरिमा से विदा हो सकते हैं। नए कानून में मरीजों को अपनी मृत्यु की तिथि चुनने की अनुमति दी गई है। इस कानून के प्रभाव से फ्रांस में मरीजों की संख्या में वृद्धि हो सकती है।"
   },
   "articles": [
+    {
+      "title": "Asia’s development moment demands big bets, not safe ones",
+      "url": "https://asiatimes.com/2026/07/asias-development-moment-demands-big-bets-not-safe-ones/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-16T06:22:38+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/India-Farmer-Agriculture-Mobile-Phone-AI.jpg",
+      "summary": "There is a version of development work that looks responsible but accomplishes very little. It moves cautiously, funds what is already proven and prioritizes institutional comfort over urgency. As a region of staggering diversity, rapid change and compounding crises, Asia cannot afford to settle for that version.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. Mint will produce $1 coin with Trump's image, Treasury Secretary says",
+      "url": "https://www.thehindu.com/news/international/us-mint-will-produce-1-coin-with-trumps-image-treasury-secretary-says/article71228626.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-16T05:33:52+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/vt5t7b/article71228639.ece/alternates/LANDSCAPE_1200/Trump-Coin_61389.jpg",
+      "summary": "The design, which also features the words “Liberty,” “In God We Trust” and “1776-2026” on the ‌front and an image of the bald eagle from the presidential seal on ‌the back, was a revision from a ‌draft ⁠made public in October. U. S. Mint will produce $1 coin with Trump's image, Treasury Secretary says.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Brazil condemns US move to impose 25% tariffs next week",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-16T05:01:23+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/c730a9c68ab6892fba2ac0c510711772789d3bda/0_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a17a6f1d65db611234ef70b508cf5650",
+      "summary": "Trade office cites investigation of Brazilian trade practices while Marco Rubio says Lula’s policies ‘bad for Americans and bad for Brazilians’ Brazil has condemned the US decision to impose 25% tariffs on certain Brazilian products, after the Trump administration found a range of what it deemed unfair trade practices by the South American country.“The Brazilian government repudiates the decision Brazil condemns US move to impose 25% tariffs next week.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "As the yen sinks, Asia’s monetary anchor subtly shifts to yuan",
       "url": "https://asiatimes.com/2026/07/as-the-yen-sinks-asias-monetary-anchor-subtly-shifts-to-yuan/",
@@ -14,7 +50,7 @@
       "sources": [],
       "published_at": "2026-07-16T04:48:27+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Yen-Yuan-China-Japan-Currencies.jpg",
-      "summary": "In mid-June, Indonesian Finance Minister Purbaya Yudhi Sadewa spent two days in Beijing and flew home with more than pleasantries. China’s finance ministry and the People’s Bank of China pledged to fast-track approval of Indonesia’s debut panda bond, a renminbi-denominated issue targeting around US$1 billion.",
+      "summary": "In mid-June, Indonesian Finance Minister Purbaya Yudhi Sadewa spent two days in Beijing and flew home with more than pleasantries. China’s finance ministry and the People’s Bank of China pledged to fast-track approval of Indonesia’s debut panda bond, a renminbi-denominated issue targeting around US$1 billion. The Asian Infrastructure Investment Bank (AIIB) added a commitment of [] The post As the.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -32,25 +68,13 @@
       "translations": {}
     },
     {
-      "title": "Couple sues condominium management over termite damage, wins in what appears to be first such case",
-      "url": "https://www.channelnewsasia.com/singapore/couple-sue-condo-termite-damage-win-6257526",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-07-16T04:18:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--qC6bloLS--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/freesia_wood.png?itok=2_FxqUYh",
-      "summary": "The judge took issue with the expert called by the condominium management of Freesia Woods, as he was the owner of the pest control company that had conducted inspections for the condo for years but overlooked the termite infestation. Couple sues condominium management over termite damage, wins in what appears to be first such case.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "U.S. approves nearly $2 billion in weapons sales to Saudi Arabia",
       "url": "https://www.thehindu.com/news/international/us-approves-nearly-2-billion-in-weapons-sales-to-saudi-arabia/article71228415.ece",
       "source": "The Hindu (International)",
       "sources": [],
       "published_at": "2026-07-16T03:59:53+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/5b9yil/article71228425.ece/alternates/LANDSCAPE_1200/Justice_Department_Health_Care_Fraud_13279.jpg",
-      "summary": "This proposed sale will support the foreign policy and national security objectives of the United States by improving the security of a Major non-NATO Ally that is a force for political stability and economic progress in the Gulf Region, says U. S. State Department U. S. approves nearly $2 billion in weapons sales to Saudi Arabia.",
+      "summary": "This proposed sale will support the foreign policy and national security objectives of the United States by improving the security of a Major non-NATO Ally that is a force for political stability and economic progress in the Gulf Region, says U. S. State Department U. approves nearly $2 billion in weapons sales to Saudi Arabia. U. S.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -62,7 +86,7 @@
       "sources": [],
       "published_at": "2026-07-16T03:33:30+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2023/09/8nmo0fc8_taliban-afghanistan-taliban-reuters_625x300_15_August_23-copy.jpg",
-      "summary": "The Taliban’s demotion of Haji Jumma Khan Fateh from deputy governor of Zabul province may have looked like a routine reshuffling. But it fits a disturbing pattern that runs through the movement’s entire governing structure: Non-Pashtun commanders are useful until their independence becomes a threat.",
+      "summary": "The Taliban’s demotion of Haji Jumma Khan Fateh from deputy governor of Zabul province may have looked like a routine reshuffling. But it fits a disturbing pattern that runs through the movement’s entire governing structure: Non-Pashtun commanders are useful until their independence becomes a threat. Fateh, an influential Tajik commander with a durable network in [] The post Taliban’s ethnic chau.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -100,18 +124,6 @@
       "image_url": "https://i.guim.co.uk/img/media/7d0736fc97812addee2f06e9ff17a1f2084b1b60/728_0_7212_5768/master/7212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19493dba18f02938de5730fccd9b81e9",
       "summary": "Since start of Trump’s second term, 14 Mexican immigrants have died in ICE custody and three in agency operationsMexico formally requested that US state attorneys general criminally investigate cases of immigrants who have died in Immigration and Customs Enforcement custody or during raids, the Mexican government said Tuesday. The request follows the death of Mexican immigrant Lorenzo Salgado Arauj Mexico asks US state attorneys general to investigate immigrant ICE deaths.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort",
-      "url": "https://www.thehindu.com/sci-tech/technology/brought-in-for-civilian-use-starlink-is-now-integral-to-ukraines-war-effort/article71225657.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-15T18:23:41+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/8i7let/article71227047.ece/alternates/LANDSCAPE_1200/2026-06-22T144855Z_720713080_RC2SRLAGY6SX_RTRMADP_3_NAMIBIA-STARLINK.JPG",
-      "summary": "Russia’s latest attempts to jam the satellite network are about more than disrupting internet access; Starlink sits behind drone operations, battlefield communications, and command networks that stretch across hundreds of kilometres of the war front Brought in for civilian use, Starlink is now integral to Ukraine’s war effort.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -172,18 +184,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2022/06/Artificial_Intelligence__AI__Machine_Learning_-_30212411048.jpeg",
       "summary": "AI has become one of the few technologies in recent memory that organizations are simultaneously overestimating and underpreparing for. Across Asia-Pacific, investment levels suggest extraordinary confidence in AI’s ability to reshape enterprise performance. The organizational foundations required to realize that value tell a rather different story. KPMG’s inaugural Global AI Pulse survey, publish Why Asia’s AI investment is outpacing AI outcomes.",
       "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
-      "url": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-15T08:00:49+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/361a4fe8ba748a28c2f7c2d8d3589c2494dc2b18/124_130_3892_3114/master/3892.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a79a2829d3e97d4caa97d39c5a3c508",
-      "summary": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’Moments after devouring the final glimmers of light, the seafloor offered nothing but darkness and silt. Then the bow appeared. Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -284,6 +284,30 @@
       "translations": {}
     },
     {
+      "title": "On Our Radar",
+      "url": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-07-03T19:07:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+      "url": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-06-30T15:20:00+00:00",
+      "image_url": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Somali forces and Al-Shabaab militants continue a stalemate The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group. New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "तड़पकर नहीं, गरिमा से विदा होंगे मरीज: फ्रांस में इच्छामृत्यु को हरी झंडी, नए कानून में क्या है खास?",
       "url": "https://www.amarujala.com/world/france-national-assembly-gives-final-approval-to-assisted-dying-bill-2026-07-16",
       "source": "Amar Ujala World",
@@ -298,6 +322,78 @@
           "title": "तड़पकर नहीं, गरिमा से विदा होंगे मरीज: फ्रांस में इच्छामृत्यु को हरी झंडी, नए कानून में क्या है खास?",
           "summary": "france national assembly gives final approval to assisted dying bill तड़पकर नहीं, गरिमा से विदा होंगे मरीज: फ्रांस में इच्छामृत्यु को हरी झंडी, नए कानून में क्या है खास?",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अपनों पर ही नहीं रहा ट्रंप को भरोसा, आखिर क्यों खंगाले जा रहे हैं व्हाइट हाउस से जुड़े अफसरों के",
+      "url": "https://hindi.news18.com/world/america-why-donald-trump-hunting-down-white-house-official-personal-mobile-phones-security-threat-air-force-one-2-10662509.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-16T06:54:04+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/donald-trump-2026-07-10T072401.585-2026-07-60e13c76081fb0c10d473013a9d66492-1200x800.jpg",
+      "summary": "White House Officials Phone Check: ईरान-अमेरिका युद्ध के दौरान इस बात को लेकर डोनाल्ड ट्रंप कई बार दावा कर चुके हैं कि उनकी जान के पीछे भी लोग पड़े हुए हैं. इसी बीच अमेरिकी राष्ट्रपति ने व्हाइट हाउस के अधिकारियों के मोबाइल फोन खंगलवाने शुरू कर दिए हैं. आखिर वो इससे जानना क्या चाहते हैं या उन्हें संदेह क्या है?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अपनों पर ही नहीं रहा ट्रंप को भरोसा, आखिर क्यों खंगाले जा रहे हैं व्हाइट हाउस से जुड़े अफसरों के",
+          "summary": "White House Officials Phone Check: ईरान-अमेरिका युद्ध के दौरान इस बात को लेकर डोनाल्ड ट्रंप कई बार दावा कर चुके हैं कि उनकी जान के पीछे भी लोग पड़े हुए हैं. इसी बीच अमेरिकी राष्ट्रपति ने व्हाइट हाउस के अधिकारियों के मोबाइल फोन खंगलवाने शुरू कर दिए हैं. आखिर वो इससे जानना क्या चाहते हैं या उन्हें संदेह क्या है?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "वांगचुक की भूख हड़ताल का आज 19वां दिन |Abhijeet Cockroach Janata Party",
+      "url": "https://www.amarujala.com/video/india-news/sonam-wangchuk-hunger-strike-today-marks-the-19th-day-of-wangchuk-s-hunger-strike-abhijeet-cockroach-janata-2026-07-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-16T06:52:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/sonam-vangchuk_2ded05b8a749ea3d72794bab8a9bd445.jpeg?w=1200&dpr=1.0",
+      "summary": "Sonam Wangchuk Hunger Strike: वांगचुक की भूख हड़ताल का आज 19वां दिन |Abhijeet Cockroach Janata Party।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वांगचुक की भूख हड़ताल का आज 19वां दिन |Abhijeet Cockroach Janata Party",
+          "summary": "Sonam Wangchuk Hunger Strike: वांगचुक की भूख हड़ताल का आज 19वां दिन |Abhijeet Cockroach Janata Party।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "नॉन-एग्जीक्यूटिव भर्ती परीक्षा के लिए प्रवेश पत्र जारी, फटाफट यहां से करें डाउनलोड",
+      "url": "https://www.amarujala.com/jobs/government-jobs/nalco-non-executive-admit-card-2026-released-for-268-vacancies-2026-07-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-16T06:51:16+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/04/admit-card_05902829b3b4f94f46ba5a5389b3559e.jpeg?w=1200&dpr=1.0",
+      "summary": "NALCO Non-Executive Exam: नेशनल एल्युमीनियम कंपनी लिमिटेड ने नॉन-एग्जीक्यूटिव भर्ती परीक्षा 2026 के लिए एडमिट कार्ड जारी कर दिए हैं। परीक्षा में शामिल होने वाले उम्मीदवार आधिकारिक वेबसाइट पर जाकर अपना प्रवेश पत्र डाउनलोड कर सकते हैं। नॉन-एग्जीक्यूटिव भर्ती परीक्षा के लिए प्रवेश पत्र जारी, फटाफट यहां से करें डाउनलोड।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नॉन-एग्जीक्यूटिव भर्ती परीक्षा के लिए प्रवेश पत्र जारी, फटाफट यहां से करें डाउनलोड",
+          "summary": "NALCO Non-Executive Exam: नेशनल एल्युमीनियम कंपनी लिमिटेड ने नॉन-एग्जीक्यूटिव भर्ती परीक्षा 2026 के लिए एडमिट कार्ड जारी कर दिए हैं। परीक्षा में शामिल होने वाले उम्मीदवार आधिकारिक वेबसाइट पर जाकर अपना प्रवेश पत्र डाउनलोड कर सकते हैं। नॉन-एग्जीक्यूटिव भर्ती परीक्षा के लिए प्रवेश पत्र जारी, फटाफट यहां से करें डाउनलोड।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने अमेरिकी ड्रोन गिराया, कुवैत-बहरीन और जॉर्डन में किया हमला, US बेस पर अटैक",
+      "url": "https://hindi.news18.com/world/middle-east-us-launches-fresh-strikes-on-iran-targets-oil-tanker-strait-of-hormuz-livenews-10661529.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-16T06:48:25+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/us-jet-2-2026-07-222b3a6f3d1b9eabad6590b696bc61ae-1200x800.jpg",
+      "summary": "Iran-US War Live: अमेरिका और ईरान में भयानक टकराव देखने को मिल रहा है. जून में हुए समझौते के बाद उम्मीद जताई जा रही थी कि दोनों में शांति होगी, लेकिन ऐसा हो नहीं पाया है. इसके बाद एक ईरानी तेल टैंकर को नुकसान पहुंचा है. यह तेल टैंकर खाली थी और ईरान की तरफ बढ़ रहा था, जिस पर अमेरिका ने हेलफायर मिसाइल दागी है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने अमेरिकी ड्रोन गिराया, कुवैत-बहरीन और जॉर्डन में किया हमला, US बेस पर अटैक",
+          "summary": "Iran-US War Live: अमेरिका और ईरान में भयानक टकराव देखने को मिल रहा है. जून में हुए समझौते के बाद उम्मीद जताई जा रही थी कि दोनों में शांति होगी, लेकिन ऐसा हो नहीं पाया है. इसके बाद एक ईरानी तेल टैंकर को नुकसान पहुंचा है. यह तेल टैंकर खाली थी और ईरान की तरफ बढ़ रहा था, जिस पर अमेरिका ने हेलफायर मिसाइल दागी है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -320,128 +416,236 @@
       }
     },
     {
-      "title": "अमेरिका ने होर्मुज में जहाज पर किया हमला, चाबहार में जबरदस्त अटैक",
-      "url": "https://hindi.news18.com/world/middle-east-us-launches-fresh-strikes-on-iran-targets-oil-tanker-strait-of-hormuz-livenews-10661529.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-16T05:04:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/us-jet-2-2026-07-222b3a6f3d1b9eabad6590b696bc61ae-1200x800.jpg",
-      "summary": "Iran-US War Live: अमेरिका और ईरान में भयानक टकराव देखने को मिल रहा है. जून में हुए समझौते के बाद उम्मीद जताई जा रही थी कि दोनों में शांति होगी, लेकिन ऐसा हो नहीं पाया है. इसके बाद एक ईरानी तेल टैंकर को नुकसान पहुंचा है. यह तेल टैंकर खाली थी और ईरान की तरफ बढ़ रहा था, जिस पर अमेरिका ने हेलफायर मिसाइल दागी है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका ने होर्मुज में जहाज पर किया हमला, चाबहार में जबरदस्त अटैक",
-          "summary": "Iran-US War Live: अमेरिका और ईरान में भयानक टकराव देखने को मिल रहा है. जून में हुए समझौते के बाद उम्मीद जताई जा रही थी कि दोनों में शांति होगी, लेकिन ऐसा हो नहीं पाया है. इसके बाद एक ईरानी तेल टैंकर को नुकसान पहुंचा है. यह तेल टैंकर खाली थी और ईरान की तरफ बढ़ रहा था, जिस पर अमेरिका ने हेलफायर मिसाइल दागी है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "डीयू को CIC की नसीहत, विदेशी छात्रों के प्रवेश संबंधी जानकारी स्वतः सार्वजनिक करने की सलाह",
-      "url": "https://www.amarujala.com/education/cic-advises-delhi-university-to-publicly-disclose-foreign-students-admission-data-2026-07-16",
+      "title": "सास के स्वागत में बहू ने किया ऐसा धमाकेदार डांस, भावुक होकर लगाया गले",
+      "url": "https://www.amarujala.com/bizarre-news/daughter-in-law-such-a-great-dance-to-welcome-her-mother-in-law-video-goes-viral-on-internet-2026-07-16",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-16T04:59:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/20/delhi-university-du_76e6c1dcd928c20b6091597d1548e0e7.jpeg?w=1200&dpr=1.0",
-      "summary": "Foreign Students: केंद्रीय सूचना आयोग ने डीयू को विदेशी छात्रों के प्रवेश संबंधी जानकारी अधिक पारदर्शी तरीके से सार्वजनिक करने की सलाह दी है। डीयू को CIC की नसीहत, विदेशी छात्रों के प्रवेश संबंधी जानकारी स्वतः सार्वजनिक करने की सलाह।",
+      "published_at": "2026-07-16T06:44:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/bha-ka-dasa-na-sasa-ka-kaya-imashanal_df900901f1ce9cd48aa1895696de0ea0.jpeg?w=1200&dpr=1.0",
+      "summary": "सास के स्वागत में बहू ने किया ऐसा धमाकेदार डांस।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "डीयू को CIC की नसीहत, विदेशी छात्रों के प्रवेश संबंधी जानकारी स्वतः सार्वजनिक करने की सलाह",
-          "summary": "Foreign Students: केंद्रीय सूचना आयोग ने डीयू को विदेशी छात्रों के प्रवेश संबंधी जानकारी अधिक पारदर्शी तरीके से सार्वजनिक करने की सलाह दी है। डीयू को CIC की नसीहत, विदेशी छात्रों के प्रवेश संबंधी जानकारी स्वतः सार्वजनिक करने की सलाह।",
+          "title": "सास के स्वागत में बहू ने किया ऐसा धमाकेदार डांस, भावुक होकर लगाया गले",
+          "summary": "सास के स्वागत में बहू ने किया ऐसा धमाकेदार डांस।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "ध्यान दें! रुक न जाए 24वीं किस्त, इसलिए किसान आज ही करवा लें ये 3 काम",
-      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-yojana-what-tasks-need-to-be-completed-for-the-24th-installment-ke-liye-jaruri-kaam-kaun-se-hain-2026-07-16",
+      "title": "पुरी नहीं जा पा रहे? देश के इन 5 प्रसिद्ध जगन्नाथ मंदिरों में करें दर्शन",
+      "url": "https://www.amarujala.com/lifestyle/travel/famous-jagannath-temples-in-india-other-than-puri-rath-yatra-2026-2026-07-16",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-16T04:49:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/paema-kasana-yajana-24va-kasata-kab-jara-haga_fb9ec6fa684985254fe60b04f1fad19c.jpeg?w=1200&dpr=1.0",
-      "summary": "पीएम किसान योजना की 24वीं किस्त का लाभ चाहिए, तो आपको कुछ काम करवाने जरूरी होते हैं। वरना आपकी किस्त अटक सकती है। ध्यान दें! रुक न जाए 24वीं किस्त, इसलिए किसान आज ही करवा लें ये 3 काम।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ध्यान दें! रुक न जाए 24वीं किस्त, इसलिए किसान आज ही करवा लें ये 3 काम",
-          "summary": "पीएम किसान योजना की 24वीं किस्त का लाभ चाहिए, तो आपको कुछ काम करवाने जरूरी होते हैं। वरना आपकी किस्त अटक सकती है। ध्यान दें! रुक न जाए 24वीं किस्त, इसलिए किसान आज ही करवा लें ये 3 काम।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'जो लोग मुझे एटीट्यूड दिखाते हैं, उन्हें इसकी जरूरत है'; थेरेपी पर शहनाज गिल के तीखे जवाब ने छेड़ी",
-      "url": "https://www.amarujala.com/entertainment/bollywood/shehnaaz-gill-sharp-reply-on-therapy-sparks-debate-says-people-who-show-me-attitude-need-it-2026-07-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-16T04:44:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/shahanaja-gal_0f2acb1a1127fb0984b9d8428ed64fcf.jpeg?w=1200&dpr=1.0",
-      "summary": "शहनाज गिल हाल ही में थेरेपी को लेकर एक प्रशंसक के सवाल पर अपनी तीखी प्रतिक्रिया की वजह से ऑनलाइन बहस का हिस्सा बन गई हैं। 'जो लोग मुझे एटीट्यूड दिखाते हैं, उन्हें इसकी जरूरत है'; थेरेपी पर शहनाज गिल के तीखे जवाब ने छेड़ी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'जो लोग मुझे एटीट्यूड दिखाते हैं, उन्हें इसकी जरूरत है'; थेरेपी पर शहनाज गिल के तीखे जवाब ने छेड़ी",
-          "summary": "शहनाज गिल हाल ही में थेरेपी को लेकर एक प्रशंसक के सवाल पर अपनी तीखी प्रतिक्रिया की वजह से ऑनलाइन बहस का हिस्सा बन गई हैं। 'जो लोग मुझे एटीट्यूड दिखाते हैं, उन्हें इसकी जरूरत है'; थेरेपी पर शहनाज गिल के तीखे जवाब ने छेड़ी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "नोलन की ‘द ओडिसी’ का जबरदस्त क्रेज, ओपनिंग डे मिस न हो, इसलिए फैन ने टाल दी फैमिली प्लानिंग",
-      "url": "https://www.amarujala.com/entertainment/hollywood/christopher-nolan-the-odyssey-fans-postpone-pregnancy-to-avoid-missing-opening-day-2026-07-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-16T04:34:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/falma-tha-odasa-ravaya_6cd98e30dc19476336423fb7dbe48a43.jpeg?w=1200&dpr=1.0",
-      "summary": "क्रिस्टोफर नोलन की फिल्म ‘द ओडिसी’ जल्द ही रिलीज होने वाली है। इस फिल्म को लेकर फैंस में काफी एक्साइटमेंट देखने को मिल रही है। जानिए क्या है पूरा मामला। नोलन की ‘द ओडिसी’ का जबरदस्त क्रेज, ओपनिंग डे मिस न हो, इसलिए फैन ने टाल दी फैमिली प्लानिंग।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नोलन की ‘द ओडिसी’ का जबरदस्त क्रेज, ओपनिंग डे मिस न हो, इसलिए फैन ने टाल दी फैमिली प्लानिंग",
-          "summary": "क्रिस्टोफर नोलन की फिल्म ‘द ओडिसी’ जल्द ही रिलीज होने वाली है। इस फिल्म को लेकर फैंस में काफी एक्साइटमेंट देखने को मिल रही है। जानिए क्या है पूरा मामला। नोलन की ‘द ओडिसी’ का जबरदस्त क्रेज, ओपनिंग डे मिस न हो, इसलिए फैन ने टाल दी फैमिली प्लानिंग।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पेट्रोलियम निर्यात पर विंडफॉल टैक्स में बड़ा बदलाव, सरकार ने डीजल और एटीएफ पर बढ़ाया कर",
-      "url": "https://www.amarujala.com/business/business-diary/diesel-and-atf-export-duties-hiked-petrol-export-levy-slashed-to-secure-domestic-fuel-supply-2026-07-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-16T04:33:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/01/flight-fuel-atf_d5259cfcbdc825e74e37f65e86787455.jpeg?w=1200&dpr=1.0",
-      "summary": "सरकार ने 16 जुलाई से पेट्रोलियम निर्यातों पर विंडफॉल टैक्स में बदलाव किया है। डीजल और एटीएफ पर टैक्स बढ़ा, जबकि पेट्रोल पर कटौती हुई। इसका पूरा असर जानने के लिए पढ़ें हमारी विस्तृत रिपोर्ट। पेट्रोलियम निर्यात पर विंडफॉल टैक्स में बड़ा बदलाव, सरकार ने डीजल और एटीएफ पर बढ़ाया कर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पेट्रोलियम निर्यात पर विंडफॉल टैक्स में बड़ा बदलाव, सरकार ने डीजल और एटीएफ पर बढ़ाया कर",
-          "summary": "सरकार ने 16 जुलाई से पेट्रोलियम निर्यातों पर विंडफॉल टैक्स में बदलाव किया है। डीजल और एटीएफ पर टैक्स बढ़ा, जबकि पेट्रोल पर कटौती हुई। इसका पूरा असर जानने के लिए पढ़ें हमारी विस्तृत रिपोर्ट। पेट्रोलियम निर्यात पर विंडफॉल टैक्स में बड़ा बदलाव, सरकार ने डीजल और एटीएफ पर बढ़ाया कर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "Redmi Note 17 और Note 17 Pro लॉन्च: 9000mAh की दमदार बैटरी, फुल एचडी+ OLED डिस्प्ले और 67W फास्ट",
-      "url": "https://www.amarujala.com/technology/tech-diary/redmi-note-17-note-17-pro-launched-price-specifications-9000mah-battery-hindi-2026-07-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-16T04:32:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/redmi-note-17_b621501bae5dde987b53d1ca247ade9b.jpeg?w=1200&dpr=1.0",
-      "summary": "शाओमी ने चीन में Redmi Note 17 और Redmi Note 17 Pro को लॉन्च कर दिया है। नए स्मार्टफोन बड़ी बैटरी, OLED डिस्प्ले, स्नैपड्रैगन प्रोसेसर और तेज चार्जिंग जैसी खूबियों के साथ आए हैं। Redmi Note 17 और Note 17 Pro लॉन्च: 9000mAh की दमदार बैटरी, फुल एचडी+ OLED डिस्प्ले और 67W फास्ट।",
+      "published_at": "2026-07-16T06:37:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/famous-jagannath-temples_99c2cadb230cd681445d08436fcfa8bf.jpeg?w=1200&dpr=1.0",
+      "summary": "Famous Jagannath Temples in India: पुरी की जगन्नाथ रथ यात्रा में नहीं जा पा रहे हैं? जानिए भारत के प्रसिद्ध जगन्नाथ मंदिरों के बारे में, जहां आप भगवान जगन्नाथ, बलभद्र और सुभद्रा के दर्शन कर सकते हैं। पुरी नहीं जा पा रहे? देश के इन 5 प्रसिद्ध जगन्नाथ मंदिरों में करें दर्शन।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "Redmi Note 17 और Note 17 Pro लॉन्च: 9000mAh की दमदार बैटरी, फुल एचडी+ OLED डिस्प्ले और 67W फास्ट",
-          "summary": "शाओमी ने चीन में Redmi Note 17 और Redmi Note 17 Pro को लॉन्च कर दिया है। नए स्मार्टफोन बड़ी बैटरी, OLED डिस्प्ले, स्नैपड्रैगन प्रोसेसर और तेज चार्जिंग जैसी खूबियों के साथ आए हैं। Redmi Note 17 और Note 17 Pro लॉन्च: 9000mAh की दमदार बैटरी, फुल एचडी+ OLED डिस्प्ले और 67W फास्ट।",
+          "title": "पुरी नहीं जा पा रहे? देश के इन 5 प्रसिद्ध जगन्नाथ मंदिरों में करें दर्शन",
+          "summary": "Famous Jagannath Temples in India: पुरी की जगन्नाथ रथ यात्रा में नहीं जा पा रहे हैं? जानिए भारत के प्रसिद्ध जगन्नाथ मंदिरों के बारे में, जहां आप भगवान जगन्नाथ, बलभद्र और सुभद्रा के दर्शन कर सकते हैं। पुरी नहीं जा पा रहे? देश के इन 5 प्रसिद्ध जगन्नाथ मंदिरों में करें दर्शन।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘फौजी’ से सामने आया प्रभास का दमदार लुक, पोस्टर के साथ निर्माताओं ने की रिलीज डेट की घोषणा",
+      "url": "https://www.amarujala.com/entertainment/south-cinema/prabhas-upcoming-movie-fauzi-release-on-3rd-dec-2026-see-new-poster-2026-07-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-16T06:33:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/falma-faja_f08852b8b44926b2bff2c68487ed3242.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रभास के 46वें जन्मदिन पर 'फौजी' का पहला पोस्टर रिलीज किया गया था। वहीं आज निर्माताओं ने इस फिल्म का एक और नया पोस्टर जारी कर प्रभास के फैंस को खुश कर दिया है। इसी के साथ निर्माताओं ने इस फिल्म की रिलीज डेट की भी घोषणा की है। ‘फौजी’ से सामने आया प्रभास का दमदार लुक, पोस्टर के साथ निर्माताओं ने की रिलीज डेट की घोषणा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘फौजी’ से सामने आया प्रभास का दमदार लुक, पोस्टर के साथ निर्माताओं ने की रिलीज डेट की घोषणा",
+          "summary": "प्रभास के 46वें जन्मदिन पर 'फौजी' का पहला पोस्टर रिलीज किया गया था। वहीं आज निर्माताओं ने इस फिल्म का एक और नया पोस्टर जारी कर प्रभास के फैंस को खुश कर दिया है। इसी के साथ निर्माताओं ने इस फिल्म की रिलीज डेट की भी घोषणा की है। ‘फौजी’ से सामने आया प्रभास का दमदार लुक, पोस्टर के साथ निर्माताओं ने की रिलीज डेट की घोषणा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "धारवाड़ में डॉक्टर की चाकू मारकर हत्या, आठ साल का बेटा भी गंभीर घायल; पत्नी क्यों हुई गिरफ्तार?",
+      "url": "https://www.amarujala.com/india-news/doctor-stabbed-to-death-in-dharwad-karnataka-his-eight-year-old-son-critically-injured-why-wife-arrested-2026-07-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-16T06:32:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/aparathha_beae093d4fff36fb743ee306e83914b5.jpeg?w=1200&dpr=1.0",
+      "summary": "कर्नाटक के धारवाड़ में एक डॉक्टर की चाकू मारकर हत्या कर दी गई। उनका आठ साल का बेटा भी गंभीर रूप से घायल हो गया। पुलिस ने डॉक्टर की पत्नी को गिरफ्तार किया है। धारवाड़ में डॉक्टर की चाकू मारकर हत्या, आठ साल का बेटा भी गंभीर घायल; पत्नी क्यों हुई गिरफ्तार?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धारवाड़ में डॉक्टर की चाकू मारकर हत्या, आठ साल का बेटा भी गंभीर घायल; पत्नी क्यों हुई गिरफ्तार?",
+          "summary": "कर्नाटक के धारवाड़ में एक डॉक्टर की चाकू मारकर हत्या कर दी गई। उनका आठ साल का बेटा भी गंभीर रूप से घायल हो गया। पुलिस ने डॉक्टर की पत्नी को गिरफ्तार किया है। धारवाड़ में डॉक्टर की चाकू मारकर हत्या, आठ साल का बेटा भी गंभीर घायल; पत्नी क्यों हुई गिरफ्तार?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "‘हम लोकतंत्र के बुरे दौर…’, क्या दीपिका पादुकोण ने सोनम वांगचुक के समर्थन में की पोस्ट? जानें वायरल",
+      "url": "https://www.amarujala.com/entertainment/bollywood/did-deepika-padukone-post-in-support-of-sonam-wangchuk-know-the-truth-of-viral-failed-leader-instagram-post-2026-07-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-16T06:32:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/thapaka-pathakanae-oura-sanama-vagacaka_3c3b289f4e35e228068b467c93830d6d.jpeg?w=1200&dpr=1.0",
+      "summary": "दीपिका पादुकोण के नाम से एक पोस्ट वायरल हो रही है जिसमें वह सोनम वांगचुक के समर्थन में बोलती दिख रही हैं। इस पोस्ट में लिखा है कि हम लोकतंत्र के बुरे दौर से गुजर रहे हैं। हालांकि यह पोस्ट वायरल हो रही है लेकिन इसकी सच्चाई क्या है यह अभी तक स्पष्ट नहीं है। एक्टिविस्ट सोनम वांगचुक के भूख हड़ताल के सपोर्ट में सेलेब्स लगातार उतर रहे हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘हम लोकतंत्र के बुरे दौर…’, क्या दीपिका पादुकोण ने सोनम वांगचुक के समर्थन में की पोस्ट? जानें वायरल",
+          "summary": "दीपिका पादुकोण के नाम से एक पोस्ट वायरल हो रही है जिसमें वह सोनम वांगचुक के समर्थन में बोलती दिख रही हैं। इस पोस्ट में लिखा है कि हम लोकतंत्र के बुरे दौर से गुजर रहे हैं। हालांकि यह पोस्ट वायरल हो रही है लेकिन इसकी सच्चाई क्या है यह अभी तक स्पष्ट नहीं है। एक्टिविस्ट सोनम वांगचुक के भूख हड़ताल के सपोर्ट में सेलेब्स लगातार उतर रहे हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लिफ्ट की जगह सीढ़ियां चढ़ना कितना फायदेमंद? जानें एक्सपर्ट्स क्या कहते हैं",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/reasons-to-take-the-stairs-taking-the-stairs-instead-of-the-lift-benefits-2026-07-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-16T06:32:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/reasons-to-take-the-stairs_548150109b5f20cd8312de40a2972268.jpeg?w=1200&dpr=1.0",
+      "summary": "लिफ्ट की जगह सीढ़ियां चढ़ने से स्वास्थ्य में सुधार हो सकता है। एक्सपर्ट्स का कहना है कि सीढ़ियां चढ़ने से शारीरिक गतिविधि बढ़ती है। सीढ़ियां चढ़ने से हृदय स्वास्थ्य में भी सुधार होता है। Reasons to Take the Stairs: आज के समय में हर जगह सीढ़ियों के साथ-साथ लिफ्ट भी लगी होती हैं। पर, हर क्या हर समय लिफ्ट का इस्तेमाल करना सही है?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लिफ्ट की जगह सीढ़ियां चढ़ना कितना फायदेमंद? जानें एक्सपर्ट्स क्या कहते हैं",
+          "summary": "लिफ्ट की जगह सीढ़ियां चढ़ने से स्वास्थ्य में सुधार हो सकता है। एक्सपर्ट्स का कहना है कि सीढ़ियां चढ़ने से शारीरिक गतिविधि बढ़ती है। सीढ़ियां चढ़ने से हृदय स्वास्थ्य में भी सुधार होता है। Reasons to Take the Stairs: आज के समय में हर जगह सीढ़ियों के साथ-साथ लिफ्ट भी लगी होती हैं। पर, हर क्या हर समय लिफ्ट का इस्तेमाल करना सही है?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सयाजी शिंदे ने किया सोनम वांगचुक का समर्थन, वीडियो शेयर कर साथ होने की कही बात; बोले- ‘मैं दिल से…’",
+      "url": "https://www.amarujala.com/entertainment/bollywood/sayaji-shinde-shares-a-video-showing-support-for-sonam-wangchuk-amid-cjp-protest-2026-07-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-16T06:30:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/sanama-vagacaka-ka-samarathana-ma-sayaja-shatha_e4ed7fc28c0f02e5dc9340797ac174f4.jpeg?w=1200&dpr=1.0",
+      "summary": "सोनम वांगचुक ने 18 दिनों से जंतर-मंतर पर भूख हड़ताल की, जिसके बाद उनकी सेहत पर असर पड़ा। सेलेब्स ने उनसे भूख हड़ताल खत्म करने की अपील की। सयाजी शिंदे ने भी उनका समर्थन किया और एक वीडियो शेयर किया, जिसमें उन्होंने कहा, \"मैं दिल से उनके साथ हूं। सोनम वांगचुक जंतर-मंतर पर 18 दिनों से भूख हड़ताल पर बैठे हैं, जिसके बाद उनकी सेहत पर काफी असर पड़ा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सयाजी शिंदे ने किया सोनम वांगचुक का समर्थन, वीडियो शेयर कर साथ होने की कही बात; बोले- ‘मैं दिल से…’",
+          "summary": "सोनम वांगचुक ने 18 दिनों से जंतर-मंतर पर भूख हड़ताल की, जिसके बाद उनकी सेहत पर असर पड़ा। सेलेब्स ने उनसे भूख हड़ताल खत्म करने की अपील की। सयाजी शिंदे ने भी उनका समर्थन किया और एक वीडियो शेयर किया, जिसमें उन्होंने कहा, \"मैं दिल से उनके साथ हूं। सोनम वांगचुक जंतर-मंतर पर 18 दिनों से भूख हड़ताल पर बैठे हैं, जिसके बाद उनकी सेहत पर काफी असर पड़ा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "डीयू की पहली सीट अलॉटमेंट लिस्ट आज होगी जारी, 71 हजार से अधिक सीटों पर होगा प्रवेश",
+      "url": "https://www.amarujala.com/education/du-ug-admission-2026-first-seat-allotment-list-to-be-released-today-2026-07-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-16T06:27:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/07/24/du-delhi-university_a262da528112a188e3fc4f4f538c2ffd.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली विश्वविद्यालय ने 16 जुलाई को यूजी प्रवेश 2026 के लिए पहली सीट अलॉटमेंट लिस्ट जारी की। उम्मीदवार सीएसएएस पोर्टल पर लॉगिन कर अपना आवंटित कॉलेज और कोर्स देख सकेंगे। DU UG Admission 2026: दिल्ली विश्वविद्यालय आज 16 जुलाई को यूजी प्रवेश 2026 के लिए पहली सीट अलॉटमेंट लिस्ट जारी करेगा। डीयू की पहली सीट अलॉटमेंट लिस्ट आज होगी जारी, 71 हजार से अधिक सीटों पर होगा प्रवेश।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डीयू की पहली सीट अलॉटमेंट लिस्ट आज होगी जारी, 71 हजार से अधिक सीटों पर होगा प्रवेश",
+          "summary": "दिल्ली विश्वविद्यालय ने 16 जुलाई को यूजी प्रवेश 2026 के लिए पहली सीट अलॉटमेंट लिस्ट जारी की। उम्मीदवार सीएसएएस पोर्टल पर लॉगिन कर अपना आवंटित कॉलेज और कोर्स देख सकेंगे। DU UG Admission 2026: दिल्ली विश्वविद्यालय आज 16 जुलाई को यूजी प्रवेश 2026 के लिए पहली सीट अलॉटमेंट लिस्ट जारी करेगा। डीयू की पहली सीट अलॉटमेंट लिस्ट आज होगी जारी, 71 हजार से अधिक सीटों पर होगा प्रवेश।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "PM मोदी कल देश को सौंपेंगे पहली हाइड्रोजन ट्रेन, यहां जानें किराया-रूट की पूरी जानकारी",
+      "url": "https://www.amarujala.com/photo-gallery/utility/india-s-first-hudrogen-train-set-for-launch-check-fare-route-and-key-facts-in-hindi-news-in-hindi-2026-07-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-16T06:27:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/haidarajana-tarana-ka-karaya-oura-taimaga-kaya-ha_25d0377ee69578cbc1c6791ce546b0a8.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी 17 जुलाई को देश की पहली हाइड्रोजन ट्रेन का उद्घाटन करेंगे। यह ट्रेन दिल्ली से अमृतसर के बीच चलेगी और इसका किराया 50 रुपये से शुरू होगा। कल यानी 17 जुलाई को प्रधानमंत्री नरेंद्र मोदी देश की पहली हाइड्रोजन ट्रेन को हरी झंडी दिखाकर उसका उद्घाटन करेंगे। ऐसे में आप यहां जान सकते हैं कि ये हाइड्रोजन ट्रेन किस रूट पर चलेगी और इसका किराया कितना है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PM मोदी कल देश को सौंपेंगे पहली हाइड्रोजन ट्रेन, यहां जानें किराया-रूट की पूरी जानकारी",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी 17 जुलाई को देश की पहली हाइड्रोजन ट्रेन का उद्घाटन करेंगे। यह ट्रेन दिल्ली से अमृतसर के बीच चलेगी और इसका किराया 50 रुपये से शुरू होगा। कल यानी 17 जुलाई को प्रधानमंत्री नरेंद्र मोदी देश की पहली हाइड्रोजन ट्रेन को हरी झंडी दिखाकर उसका उद्घाटन करेंगे। ऐसे में आप यहां जान सकते हैं कि ये हाइड्रोजन ट्रेन किस रूट पर चलेगी और इसका किराया कितना है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सूर्य गोचर से बना षडाष्टक और द्विद्वादश योग, अगले 30 दिनों तक इन राशियों के बढ़ेंगे कष्ट",
+      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/surya-gochar-makes-shadashtak-and-dwidwadash-yog-these-zodiac-will-face-problems-2026-07-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-16T06:25:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/29/july-horoscope-2026_f82aaaa2aca572217713ce2c3658a252.jpeg?w=1200&dpr=1.0",
+      "summary": "सूर्य गोचर के प्रभाव से राहु और केतु का असर बढ़ गया है, जिससे कुछ राशि वालों की दिक्कतें बढ़ सकती हैं। अगले 30 दिनों तक इन राशियों के लोगों को कष्ट हो सकते हैं। Surya Gochar 2026: सूर्य गोचर के प्रभाव से राहु और केतु का असर भी अधिक सक्रिय हो गया है। इससे कुछ राशि वालों की दिक्कतें बढ़ सकती हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सूर्य गोचर से बना षडाष्टक और द्विद्वादश योग, अगले 30 दिनों तक इन राशियों के बढ़ेंगे कष्ट",
+          "summary": "सूर्य गोचर के प्रभाव से राहु और केतु का असर बढ़ गया है, जिससे कुछ राशि वालों की दिक्कतें बढ़ सकती हैं। अगले 30 दिनों तक इन राशियों के लोगों को कष्ट हो सकते हैं। Surya Gochar 2026: सूर्य गोचर के प्रभाव से राहु और केतु का असर भी अधिक सक्रिय हो गया है। इससे कुछ राशि वालों की दिक्कतें बढ़ सकती हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान में बारूद से उड़ाया पुलिस स्टेशन, 14 की मौत, जिन सांपों को पाला वही मुनीर को डस रहे",
+      "url": "https://hindi.news18.com/world/pakistan-bannu-police-station-attack-14-security-personnel-killed-pakistan-news-10662332.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-16T06:21:15+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-kashmir-2026-07-1ff3ae8bc665fbca8d2ba006b57540c6-1200x800.jpg",
+      "summary": "पाकिस्तान के खैबर पख्तूनख्वा के बन्नू जिले में आतंकियों ने विस्फोटकों से भरी गाड़ी से मिरयान पुलिस स्टेशन पर हमला किया, जिसमें 14 सुरक्षाकर्मियों की मौत हो गई और कई अन्य घायल हुए। Pakistan News: पाकिस्तान के खैबर पख्तूनख्वा के बन्नू जिले में आतंकियों ने विस्फोटकों से भरी गाड़ी से मिरयान पुलिस स्टेशन पर हमला कर दिया. धमाके के बाद घंटों तक गोलीबारी चली, जिसमें 14 सुरक्षाकर्मियों की मौत हो गई और कई अन्य घायल हुए.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान में बारूद से उड़ाया पुलिस स्टेशन, 14 की मौत, जिन सांपों को पाला वही मुनीर को डस रहे",
+          "summary": "पाकिस्तान के खैबर पख्तूनख्वा के बन्नू जिले में आतंकियों ने विस्फोटकों से भरी गाड़ी से मिरयान पुलिस स्टेशन पर हमला किया, जिसमें 14 सुरक्षाकर्मियों की मौत हो गई और कई अन्य घायल हुए। Pakistan News: पाकिस्तान के खैबर पख्तूनख्वा के बन्नू जिले में आतंकियों ने विस्फोटकों से भरी गाड़ी से मिरयान पुलिस स्टेशन पर हमला कर दिया. धमाके के बाद घंटों तक गोलीबारी चली, जिसमें 14 सुरक्षाकर्मियों की मौत हो गई और कई अन्य घायल हुए.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "डोनाल्ड ट्रंप की तस्वीर वाला $1 का ‘गोल्ड कॉइन’ आया सामने, अमेरिका में छिड़ी बहस",
+      "url": "https://www.patrika.com/world-news/donald-trump-1-dollar-coin-us-treasury-250th-anniversary-20751614",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-16T06:18:00+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/DonaldTrump-coin.webp",
+      "summary": "अमेरिकी ट्रेजरी विभाग ने घोषणा की कि अमेरिकी मिंट देश की 250वीं वर्षगांठ के अवसर पर राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर वाले $1 के गोल्ड कॉइन का उत्पादन शुरू करेगा। इस मौके पर अमेरिकी ट्रेजरी विभाग ने घोषणा की कि अमेरिकी मिंट (US Mint) देश की 250वीं वर्षगांठ के अवसर पर राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर वाले $1 के गोल्ड कॉइन का उत्पादन शुरू करेगा।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डोनाल्ड ट्रंप की तस्वीर वाला $1 का ‘गोल्ड कॉइन’ आया सामने, अमेरिका में छिड़ी बहस",
+          "summary": "अमेरिकी ट्रेजरी विभाग ने घोषणा की कि अमेरिकी मिंट देश की 250वीं वर्षगांठ के अवसर पर राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर वाले $1 के गोल्ड कॉइन का उत्पादन शुरू करेगा। इस मौके पर अमेरिकी ट्रेजरी विभाग ने घोषणा की कि अमेरिकी मिंट (US Mint) देश की 250वीं वर्षगांठ के अवसर पर राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर वाले $1 के गोल्ड कॉइन का उत्पादन शुरू करेगा।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?",
+      "url": "https://www.amarujala.com/world/new-us-military-rule-soldiers-over-30-to-undergo-testosterone-screening-why-was-this-decision-made-2026-07-16",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-16T06:14:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/pata-hagasatha-amaraka-ka-rakashha-sacava_2a45e13d1888e39be006efa0744efd07.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी सेना ने 30 साल से अधिक उम्र के सैनिकों के लिए टेस्टोस्टेरोन स्क्रीनिंग का निर्णय लिया है। यह निर्णय उन सैनिकों की शारीरिक क्षमता को बढ़ावा देने के लिए लिया गया है जो 30 साल से अधिक उम्र के हैं। 30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?",
+          "summary": "अमेरिकी सेना ने 30 साल से अधिक उम्र के सैनिकों के लिए टेस्टोस्टेरोन स्क्रीनिंग का निर्णय लिया है। यह निर्णय उन सैनिकों की शारीरिक क्षमता को बढ़ावा देने के लिए लिया गया है जो 30 साल से अधिक उम्र के हैं। 30 पार कर चुके सैनिकों की होगी टेस्टोस्टेरोन स्क्रीनिंग, क्यों लिया गया यह फैसला?",
+          "region": "अमेरिका"
         }
       }
     },
@@ -450,7 +654,7 @@
       "url": "https://hindi.news18.com/world/europe-ukraine-drones-disrupt-russia-300-year-old-black-sea-azov-trade-route-kerch-strait-like-hormuz-10661785.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-16T04:27:18+00:00",
+      "published_at": "2026-07-16T06:05:40+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/azov-1-2026-07-389aa3bea900e4b10062ea34ab4a9f31-1200x800.jpg",
       "summary": "Russia Ukraine War: दुनिया का पूरा फोकस इस समय होर्मुज स्ट्रेट पर है. ईरान जब चाहता है तब होर्मुज में हमला कर जहाजों की आवाजाही रोक देता है. इसी तरह अब रूस की लाइफलाइन पर भी यूक्रेन ने हमला करना शुरू किया है, जिससे उसका एक जलमार्ग बंद हो गया है. यूक्रेन के लगातार ड्रोन हमलों के बाद रूस को आजोव सागर के अहम जलमार्ग पर जहाजों की आवाजाही रोकनी पड़ी है.",
       "region": "Middle East & Africa",
@@ -464,272 +668,92 @@
       }
     },
     {
-      "title": "नौकरी करने वाले लोग जरूर अपनाएं ये 10 हेल्थ टिप्स, रहेंगे फिट और एक्टिव",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/health-and-wellness-tips-best-health-tips-for-office-employees-2026-07-16",
-      "source": "Amar Ujala National",
+      "title": "US की अर्थव्यवस्था सुधारेंगे भारतीय: रघुराम राजन समेत तीन को मिली बड़ी जिम्मेदारी, क्या बदलेंगे",
+      "url": "https://www.amarujala.com/world/tackle-inflation-us-selected-indian-experts-raghuram-rajan-raj-chetty-asha-sharma-assigned-key-roles-fed-team-2026-07-16",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-07-16T04:20:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/health-tips-for-employees_600f63e11a394b07086391b0c75f72bd.jpeg?w=1200&dpr=1.0",
-      "summary": "Health Tips For Employees: अगर आप भी जॉब करते हैं, तो ये खबर आपके लिए बेहद खास होने वाली है। यहां हम आपको बताएंगे कुछ ऐसे टिप्स, जो आपकी हेल्थ को सुधारने में मदद करेंगे। नौकरी करने वाले लोग जरूर अपनाएं ये 10 हेल्थ टिप्स, रहेंगे फिट और एक्टिव।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नौकरी करने वाले लोग जरूर अपनाएं ये 10 हेल्थ टिप्स, रहेंगे फिट और एक्टिव",
-          "summary": "Health Tips For Employees: अगर आप भी जॉब करते हैं, तो ये खबर आपके लिए बेहद खास होने वाली है। यहां हम आपको बताएंगे कुछ ऐसे टिप्स, जो आपकी हेल्थ को सुधारने में मदद करेंगे। नौकरी करने वाले लोग जरूर अपनाएं ये 10 हेल्थ टिप्स, रहेंगे फिट और एक्टिव।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "इस वजह से शरद पवार देंगे NDA का साथ? विपक्ष को लगेगा झटका!",
-      "url": "https://www.amarujala.com/video/india-news/maharashtra-politics-is-this-the-reason-sharad-pawar-will-back-the-nda-a-blow-for-the-opposition-2026-07-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-16T04:15:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/isa-vajaha-sa-sharatha-pavara-thaga-nda-ka-satha-vapakashha-ka-lgaga-jhataka_eae215cd2546fceade74daabd0cd4f83.jpeg?w=1200&dpr=1.0",
-      "summary": "मानसून सत्र से पहले महाराष्ट्र और दिल्ली की राजनीति में बड़ी हलचल देखने को मिल रही है। इस वजह से शरद पवार देंगे NDA का साथ? विपक्ष को लगेगा झटका!",
+      "published_at": "2026-07-16T05:59:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/ragharama-rajana_70b3ec95cbaa443d345cb24741b3e062.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी अर्थव्यवस्था को सुधारने के लिए भारतीय विशेषज्ञों को महत्वपूर्ण भूमिका सौंपी गई है। रघुराम राजन, राज चेट्टी, और आशा शर्मा को यह जिम्मेदारी दी गई है कि वे अमेरिकी अर्थव्यवस्था को सुधारने में मदद करें। US की अर्थव्यवस्था सुधारेंगे भारतीय: रघुराम राजन समेत तीन को मिली बड़ी जिम्मेदारी, क्या बदलेंगे।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "इस वजह से शरद पवार देंगे NDA का साथ? विपक्ष को लगेगा झटका!",
-          "summary": "मानसून सत्र से पहले महाराष्ट्र और दिल्ली की राजनीति में बड़ी हलचल देखने को मिल रही है। इस वजह से शरद पवार देंगे NDA का साथ? विपक्ष को लगेगा झटका!",
+          "title": "US की अर्थव्यवस्था सुधारेंगे भारतीय: रघुराम राजन समेत तीन को मिली बड़ी जिम्मेदारी, क्या बदलेंगे",
+          "summary": "अमेरिकी अर्थव्यवस्था को सुधारने के लिए भारतीय विशेषज्ञों को महत्वपूर्ण भूमिका सौंपी गई है। रघुराम राजन, राज चेट्टी, और आशा शर्मा को यह जिम्मेदारी दी गई है कि वे अमेरिकी अर्थव्यवस्था को सुधारने में मदद करें। US की अर्थव्यवस्था सुधारेंगे भारतीय: रघुराम राजन समेत तीन को मिली बड़ी जिम्मेदारी, क्या बदलेंगे।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "पश्चिम एशिया में तनाव के बावजूद सेंसेक्स 250 अंक उछला, निफ्टी 24,100 के पार",
-      "url": "https://www.amarujala.com/business/bazaar/sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-07-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-16T04:12:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/25/sensex-opening-bell_925c65ded87bbcab4427438a03c15220.jpeg?w=1200&dpr=1.0",
-      "summary": "पश्चिम एशिया में जारी तनाव और वैश्विक गिरावट के बावजूद भारतीय शेयर बाजार ने मजबूती दिखाई है। गुरुवार को शुरुआती कारोबार में सेंसेक्स 250 अंक से अधिक उछला और निफ्टी 24,100 के पार निकल गया। पूरी रिपोर्ट पढ़ें। पश्चिम एशिया में तनाव के बावजूद सेंसेक्स 250 अंक उछला, निफ्टी 24,100 के पार।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पश्चिम एशिया में तनाव के बावजूद सेंसेक्स 250 अंक उछला, निफ्टी 24,100 के पार",
-          "summary": "पश्चिम एशिया में जारी तनाव और वैश्विक गिरावट के बावजूद भारतीय शेयर बाजार ने मजबूती दिखाई है। गुरुवार को शुरुआती कारोबार में सेंसेक्स 250 अंक से अधिक उछला और निफ्टी 24,100 के पार निकल गया। पूरी रिपोर्ट पढ़ें। पश्चिम एशिया में तनाव के बावजूद सेंसेक्स 250 अंक उछला, निफ्टी 24,100 के पार।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "महिला आरक्षण और परिसीमन बिल पर अठावले का बड़ा दावा, कहा- मानसून सत्र में मिलेगा रास्ता",
-      "url": "https://www.amarujala.com/india-news/athawale-make-bold-claim-regarding-women-reservation-and-delimitation-bill-says-will-be-found-monsoon-session-2026-07-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-16T04:11:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/katharaya-matara-ramathasa-athaval_b5d4d7d6eb889903cbeaedf94ecd0339.jpeg?w=1200&dpr=1.0",
-      "summary": "रामदास अठावले ने महिला आरक्षण और परिसीमन बिल पर बड़ा दावा किया है। उन्होंने कहा कि मानसून सत्र में इस बिल को रास्ता मिलेगा। अठावले का यह बयान महत्वपूर्ण है क्योंकि यह बिल लंबे समय से लंबित है। महिला आरक्षण और परिसीमन बिल पर अठावले का बड़ा दावा, कहा- मानसून सत्र में मिलेगा रास्ता।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "महिला आरक्षण और परिसीमन बिल पर अठावले का बड़ा दावा, कहा- मानसून सत्र में मिलेगा रास्ता",
-          "summary": "रामदास अठावले ने महिला आरक्षण और परिसीमन बिल पर बड़ा दावा किया है। उन्होंने कहा कि मानसून सत्र में इस बिल को रास्ता मिलेगा। अठावले का यह बयान महत्वपूर्ण है क्योंकि यह बिल लंबे समय से लंबित है। महिला आरक्षण और परिसीमन बिल पर अठावले का बड़ा दावा, कहा- मानसून सत्र में मिलेगा रास्ता।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी हमलों के बीच तेहरान में एयर डिफेंस सिस्टम एक्टिव, IRGC ने कुवैत और जॉर्डन एयरबेस को बनाया",
-      "url": "https://www.patrika.com/world-news/iran-us-war-air-defense-systems-activated-in-tehran-irgc-attack-airbases-in-kuwait-and-jordan-20751126",
+      "title": "ईरान पर अमेरिकी हमले के बीच वाशिंगटन पहुंचे इराकी प्रधानमंत्री अली अल जैदी, क्या बोले ट्रंप?",
+      "url": "https://www.patrika.com/world-news/iraqi-prime-minister-al-zaidi-arrives-in-washington-amidst-us-strikes-on-iran-what-did-trump-say-20751573",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-16T04:11:41+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/tehran.webp",
-      "summary": "अमेरिका ने गुरुवार तड़के ईरान के सैन्य ठिकानों पर हमले किए। इसके बाद तेहरान ने अपनी वायु रक्षा प्रणाली सक्रिय कर दी। इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने जवाबी कार्रवाई का दावा किया और कुवैत और जॉर्डन एयरबेस को बनाया। Iran-US-War: अमेरिका और ईरान के बीच सैन्य तनाव लगातार बढ़ता जा रहा है। दोनों देशों की ओर से एक-दूसरे के सैन्य ठिकानों पर किए गए हमलों ने पश्चिम एशिया में सुरक्षा चिंताएं बढ़ा दी हैं।",
+      "published_at": "2026-07-16T05:53:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Copy-of-Logo-Banner-9-1.webp",
+      "summary": "इराकी प्रधानमंत्री अली अल जैदी ने वाशिंगटन में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप से मुलाकात की। इस मुलाकात के दौरान, ट्रंप ने इराकी प्रधानमंत्री को अमेरिकी समर्थन का आश्वासन दिया। Iraqi Prime Minister Al-Zaidi: पिछले हफ्ते इराक के धार्मिक शहर नजफ में ईरान के पूर्व सुप्रीम लीडर अयातुल्लाह अली खामेनेई का शव पहुंचा था। शवयात्रा में इराकी प्रधानमंत्री अली अल जैदी खुद मौजूद रहे।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिकी हमलों के बीच तेहरान में एयर डिफेंस सिस्टम एक्टिव, IRGC ने कुवैत और जॉर्डन एयरबेस को बनाया",
-          "summary": "अमेरिका ने गुरुवार तड़के ईरान के सैन्य ठिकानों पर हमले किए। इसके बाद तेहरान ने अपनी वायु रक्षा प्रणाली सक्रिय कर दी। इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने जवाबी कार्रवाई का दावा किया और कुवैत और जॉर्डन एयरबेस को बनाया। Iran-US-War: अमेरिका और ईरान के बीच सैन्य तनाव लगातार बढ़ता जा रहा है। दोनों देशों की ओर से एक-दूसरे के सैन्य ठिकानों पर किए गए हमलों ने पश्चिम एशिया में सुरक्षा चिंताएं बढ़ा दी हैं।",
+          "title": "ईरान पर अमेरिकी हमले के बीच वाशिंगटन पहुंचे इराकी प्रधानमंत्री अली अल जैदी, क्या बोले ट्रंप?",
+          "summary": "इराकी प्रधानमंत्री अली अल जैदी ने वाशिंगटन में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप से मुलाकात की। इस मुलाकात के दौरान, ट्रंप ने इराकी प्रधानमंत्री को अमेरिकी समर्थन का आश्वासन दिया। Iraqi Prime Minister Al-Zaidi: पिछले हफ्ते इराक के धार्मिक शहर नजफ में ईरान के पूर्व सुप्रीम लीडर अयातुल्लाह अली खामेनेई का शव पहुंचा था। शवयात्रा में इराकी प्रधानमंत्री अली अल जैदी खुद मौजूद रहे।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "हनी त्रेहान की फिल्म 'सतलुज' के लिए दिलजीत दोसांझ ने लिया सिर्फ 1 रुपया, जानिए क्यों?",
-      "url": "https://www.amarujala.com/entertainment/bollywood/diljit-dosanjh-fees-for-honey-trehan-satluj-was-just-rs-1-here-know-why-2026-07-16",
-      "source": "Amar Ujala National",
+      "title": "Bellingham slaps Argentina Player Video: जूड बेलिंगहम ने खोया आपा, अर्जेंटीना के खिलाड़ी को क्यों",
+      "url": "https://www.amarujala.com/sports/football/jude-bellingham-slaps-argentina-s-valentin-barco-after-england-s-fifa-world-cup-2026-semi-final-exit-2026-07-16",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-16T04:01:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/falma-satalja_de39e3b54013a59b5b21b5fd48608f8e.jpeg?w=1200&dpr=1.0",
-      "summary": "दिलजीत दोसांझ ने हनी त्रेहान की फिल्म 'सतलुज' में काम करने के लिए सिर्फ 1 रुपया लिया। निर्देशक हनी त्रेहान ने एक इंटरव्यू में यह जानकारी दी। दिलजीत दोसांझ इस फिल्म में अपनी भूमिका के लिए इतनी कम फीस लेने का कारण नहीं बताया गया है। दिलजीत दोसांझ इन दिनों अपनी फिल्म 'सतलुज', जिसे 'पंजाब '95' नाम से भी जाना जाता है को लेकर चर्चा में हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हनी त्रेहान की फिल्म 'सतलुज' के लिए दिलजीत दोसांझ ने लिया सिर्फ 1 रुपया, जानिए क्यों?",
-          "summary": "दिलजीत दोसांझ ने हनी त्रेहान की फिल्म 'सतलुज' में काम करने के लिए सिर्फ 1 रुपया लिया। निर्देशक हनी त्रेहान ने एक इंटरव्यू में यह जानकारी दी। दिलजीत दोसांझ इस फिल्म में अपनी भूमिका के लिए इतनी कम फीस लेने का कारण नहीं बताया गया है। दिलजीत दोसांझ इन दिनों अपनी फिल्म 'सतलुज', जिसे 'पंजाब '95' नाम से भी जाना जाता है को लेकर चर्चा में हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘उसे टूटते और रोते देखा है’, तीसरी शादी पर विवाद के बीच आमिर के दोस्त का बयान; निजी जीवन पर किए",
-      "url": "https://www.amarujala.com/entertainment/bollywood/amid-the-controversy-surrounding-his-third-marriage-aamirs-friend-says-i-have-seen-him-break-down-and-cry-2026-07-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-16T04:00:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/aamara-khana_c18ed5bb6367cf61e012d525d10f183b.jpeg?w=1200&dpr=1.0",
-      "summary": "आमिर खान की तीसरी शादी को लेकर हो रही आलोचना के बीच उनके दोस्त अमीन हाजी ने उनका बचाव किया है। जानिए उन्होंने क्या कुछ कहा। ‘उसे टूटते और रोते देखा है’, तीसरी शादी पर विवाद के बीच आमिर के दोस्त का बयान; निजी जीवन पर किए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘उसे टूटते और रोते देखा है’, तीसरी शादी पर विवाद के बीच आमिर के दोस्त का बयान; निजी जीवन पर किए",
-          "summary": "आमिर खान की तीसरी शादी को लेकर हो रही आलोचना के बीच उनके दोस्त अमीन हाजी ने उनका बचाव किया है। जानिए उन्होंने क्या कुछ कहा। ‘उसे टूटते और रोते देखा है’, तीसरी शादी पर विवाद के बीच आमिर के दोस्त का बयान; निजी जीवन पर किए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हार की बौखलाहट या गुंडागर्दी? स्टेडियम के बाहर इंग्लैंड के फैंस ने अर्जेंटीना के समर्थकों को पीटा",
-      "url": "https://hindi.news18.com/photogallery/sports/football-fifa-world-cup-semi-final-england-fans-clashed-outside-the-atlanta-stadium-following-argentina-victory-police-arrested-dozens-10661781.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-16T03:56:00+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/FIFA-25-2026-07-da60150f7102f3ae29a7e0114782d174-1200x800.jpg",
-      "summary": "इंग्लैंड के फैंस ने अटलांटा क्रिकेट स्टेडियम के बाहर अर्जेंटीना के समर्थकों को पीटा, जिससे दर्जनों लोग घायल हुए और पुलिस ने कई लोगों को गिरफ्तार किया. यह घटना फीफा विश्व कप 2026 के दूसरे सेमीफाइनल में अर्जेंटीना की जीत के बाद हुई, जिसमें इंग्लैंड को आखिरी 7 मिनट में 2-1 से हराया गया. फीफा विश्व कप 2026 के दूसरे सेमीफाइनल में अर्जेंटीना ने इंग्लैंड को आखिरी 7 मिनट में उलटफेर करते हुए 2-1 से हरा दिया.",
+      "published_at": "2026-07-16T05:47:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/jude-bellingham-england-vs-argentina-fifa-world-cup-2026-valentin-barco-thomas-tuchel-lionel-m_76b65c07ae12c4d74153315d9781ff85.jpeg?w=1200&dpr=1.0",
+      "summary": "इंग्लैंड के स्टार मिडफील्डर जूड बेलिंगहम ने अर्जेंटीना के खिलाड़ी को फीफा विश्व कप 2026 के सेमीफाइनल में हार के बाद विवादों में डाल दिया है। बेलिंगहम ने अर्जेंटीना के खिलाड़ी को एक आपा खो देने के लिए कहा था। फीफा विश्व कप 2026 के सेमीफाइनल में अर्जेंटीना से 2-1 की हार के बाद इंग्लैंड के स्टार मिडफील्डर जूड बेलिंगहम विवादों में आ गए।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हार की बौखलाहट या गुंडागर्दी? स्टेडियम के बाहर इंग्लैंड के फैंस ने अर्जेंटीना के समर्थकों को पीटा",
-          "summary": "इंग्लैंड के फैंस ने अटलांटा क्रिकेट स्टेडियम के बाहर अर्जेंटीना के समर्थकों को पीटा, जिससे दर्जनों लोग घायल हुए और पुलिस ने कई लोगों को गिरफ्तार किया. यह घटना फीफा विश्व कप 2026 के दूसरे सेमीफाइनल में अर्जेंटीना की जीत के बाद हुई, जिसमें इंग्लैंड को आखिरी 7 मिनट में 2-1 से हराया गया. फीफा विश्व कप 2026 के दूसरे सेमीफाइनल में अर्जेंटीना ने इंग्लैंड को आखिरी 7 मिनट में उलटफेर करते हुए 2-1 से हरा दिया.",
+          "title": "Bellingham slaps Argentina Player Video: जूड बेलिंगहम ने खोया आपा, अर्जेंटीना के खिलाड़ी को क्यों",
+          "summary": "इंग्लैंड के स्टार मिडफील्डर जूड बेलिंगहम ने अर्जेंटीना के खिलाड़ी को फीफा विश्व कप 2026 के सेमीफाइनल में हार के बाद विवादों में डाल दिया है। बेलिंगहम ने अर्जेंटीना के खिलाड़ी को एक आपा खो देने के लिए कहा था। फीफा विश्व कप 2026 के सेमीफाइनल में अर्जेंटीना से 2-1 की हार के बाद इंग्लैंड के स्टार मिडफील्डर जूड बेलिंगहम विवादों में आ गए।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "चार्जिंग के दौरान इलेक्ट्रिक वाहन की बैटरी कैसे बन जाती है आग का गोला? जानिए कारण और बचाव",
-      "url": "https://www.amarujala.com/automobiles/why-electric-vehicles-catch-fire-while-charging-know-causes-2026-07-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-16T03:54:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/iiva-carajaga-ka-tharana-thhayana-rakhana-val-bta_a2fa9c064910867f9e3534859054b950.jpeg?w=1200&dpr=1.0",
-      "summary": "नोएडा में इलेक्ट्रिक वाहन चार्जिंग के दौरान आग लग गई, जिससे ईवी मालिकों में चिंता फैल गई। आग के कारणों का अभी तक पता नहीं चला है, लेकिन पुलिस जांच कर रही है। Electric Vehicle Fire: नाेएडा में इलेक्ट्रिक व्हीकल चार्ज करने के दौरान लगी आग ने ईवी मालिकों के मन में एक बड़ा सवाल खड़ा कर दिया है। चार्जिंग के दौरान इलेक्ट्रिक वाहन की बैटरी कैसे बन जाती है आग का गोला?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चार्जिंग के दौरान इलेक्ट्रिक वाहन की बैटरी कैसे बन जाती है आग का गोला? जानिए कारण और बचाव",
-          "summary": "नोएडा में इलेक्ट्रिक वाहन चार्जिंग के दौरान आग लग गई, जिससे ईवी मालिकों में चिंता फैल गई। आग के कारणों का अभी तक पता नहीं चला है, लेकिन पुलिस जांच कर रही है। Electric Vehicle Fire: नाेएडा में इलेक्ट्रिक व्हीकल चार्ज करने के दौरान लगी आग ने ईवी मालिकों के मन में एक बड़ा सवाल खड़ा कर दिया है। चार्जिंग के दौरान इलेक्ट्रिक वाहन की बैटरी कैसे बन जाती है आग का गोला?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जगन्नाथ रथ यात्रा का शुभारंभ, राष्ट्रपति और पीएम ने दी शुभकामनाएं; पुरी में हो रही बारिश",
-      "url": "https://www.amarujala.com/live/india-news/jagannath-rath-yatra-live-president-and-pm-extend-greetings-find-out-when-rath-yatra-will-begin-2026-07-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-16T03:45:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/jagananatha-rathayatara_96c665ef00f1774bc02fa174a0ee006e.jpeg?w=1200&dpr=1.0",
-      "summary": "जगन्नाथ रथ यात्रा का शुभारंभ हो गया है, जिसमें राष्ट्रपति और प्रधानमंत्री ने शुभकामनाएं दी हैं। पुरी में बारिश के कारण यात्रा की तारीख को बदलने की भी चर्चा है। जगन्नाथ रथ यात्रा का शुभारंभ, राष्ट्रपति और पीएम ने दी शुभकामनाएं; पुरी में हो रही बारिश।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जगन्नाथ रथ यात्रा का शुभारंभ, राष्ट्रपति और पीएम ने दी शुभकामनाएं; पुरी में हो रही बारिश",
-          "summary": "जगन्नाथ रथ यात्रा का शुभारंभ हो गया है, जिसमें राष्ट्रपति और प्रधानमंत्री ने शुभकामनाएं दी हैं। पुरी में बारिश के कारण यात्रा की तारीख को बदलने की भी चर्चा है। जगन्नाथ रथ यात्रा का शुभारंभ, राष्ट्रपति और पीएम ने दी शुभकामनाएं; पुरी में हो रही बारिश।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'अनदेखी और...' , एक दिन पहले खरीदा था 12 इंच का चाकू, फिर कशिश को मार डाला; 'प्रेमी' ने बताया कत्ल",
-      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/bareilly/pilibhit-medical-student-murder-sagar-bought-knife-just-day-before-incident-carried-hospital-hidden-in-his-bag-2026-07-16",
+      "title": "आज से हाईकोर्ट में सुनवाई, जानिए 27% OBC आरक्षण विवाद क्या है और अभ्यर्थियों पर इसका क्या असर",
+      "url": "https://www.amarujala.com/madhya-pradesh/bhopal/mp-news-high-court-hearing-begins-today-understand-the-27-obc-reservation-dispute-and-its-impact-on-candidat-2026-07-16",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-16T03:34:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/pilibhit-murder_ec86e98e89676713ccee38a5e8f12ab2.jpeg?w=1200&dpr=1.0",
-      "summary": "पीलीभीत जिला अस्पताल में पैरामेडिकल छात्रा कशिश पटेल की हत्या के मामले में आरोपी सागर सिंह ने पुलिस पूछताछ में अपना जुर्म कबूल किया। उसने बताया कि कशिश ने उसे नजरअंदाज किया था। पीलीभीत जिला अस्पताल के सीटी स्कैन रूम में पैरामेडिकल छात्रा कशिश पटेल की हत्या के मामले में आरोपी सागर सिंह ने पुलिस पूछताछ में अपना जुर्म कबूल किया।",
+      "published_at": "2026-07-16T05:45:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/obsa-aarakashhanae-ma-shamal-parathasha-ka-sabha-thal-ka-nata-fail-fata_dfd127899a370d3e3805dd63ed0c00f1.jpeg?w=1200&dpr=1.0",
+      "summary": "मध्य प्रदेश में सरकारी नौकरियों में 27 प्रतिशत ओबीसी आरक्षण को लेकर जबलपुर हाईकोर्ट में सुनवाई शुरू हो गई है। इस मामले में अभ्यर्थियों के भविष्य पर असर पड़ने की संभावना है। MP OBC Reservation Hearing: मध्य प्रदेश में सरकारी नौकरियों में 27 प्रतिशत ओबीसी आरक्षण को लेकर आज से जबलपुर हाईकोर्ट में अहम सुनवाई शुरू हो रही है। आज से हाईकोर्ट में सुनवाई, जानिए 27% OBC आरक्षण विवाद क्या है और अभ्यर्थियों पर इसका क्या असर।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'अनदेखी और...' , एक दिन पहले खरीदा था 12 इंच का चाकू, फिर कशिश को मार डाला; 'प्रेमी' ने बताया कत्ल",
-          "summary": "पीलीभीत जिला अस्पताल में पैरामेडिकल छात्रा कशिश पटेल की हत्या के मामले में आरोपी सागर सिंह ने पुलिस पूछताछ में अपना जुर्म कबूल किया। उसने बताया कि कशिश ने उसे नजरअंदाज किया था। पीलीभीत जिला अस्पताल के सीटी स्कैन रूम में पैरामेडिकल छात्रा कशिश पटेल की हत्या के मामले में आरोपी सागर सिंह ने पुलिस पूछताछ में अपना जुर्म कबूल किया।",
+          "title": "आज से हाईकोर्ट में सुनवाई, जानिए 27% OBC आरक्षण विवाद क्या है और अभ्यर्थियों पर इसका क्या असर",
+          "summary": "मध्य प्रदेश में सरकारी नौकरियों में 27 प्रतिशत ओबीसी आरक्षण को लेकर जबलपुर हाईकोर्ट में सुनवाई शुरू हो गई है। इस मामले में अभ्यर्थियों के भविष्य पर असर पड़ने की संभावना है। MP OBC Reservation Hearing: मध्य प्रदेश में सरकारी नौकरियों में 27 प्रतिशत ओबीसी आरक्षण को लेकर आज से जबलपुर हाईकोर्ट में अहम सुनवाई शुरू हो रही है। आज से हाईकोर्ट में सुनवाई, जानिए 27% OBC आरक्षण विवाद क्या है और अभ्यर्थियों पर इसका क्या असर।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "अमेरिकी हमले के बाद ईरान का सख्त बयान, बातचीत से किया इनकार",
-      "url": "https://www.patrika.com/world-news/iran-us-talks-tension-no-negotiation-until-commitments-fulfilled-20751043",
-      "source": "Patrika (World)",
+      "title": "किंग चार्ल्स के डिनर में लहसुन क्यों है बैन? ब्रिटिश शाही टेबल के 7 हैरान करने वाले नियम",
+      "url": "https://hindi.news18.com/world/britain-king-charles-royal-dinner-rules-buckingham-palace-dining-etiquette-list-10662151.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-16T03:23:37+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Esmaeil-Baghaei-.webp",
-      "summary": "ईरान ने अमेरिका के साथ बातचीत को लेकर बड़ा बयान दिया है, जिसमें उसने कहा है कि जब तक अमेरिका अपनी जिम्मेदारियां पूरी नहीं करता, तब तक बातचीत की कोई संभावना नहीं है। Middle East Tension: पश्चिम एशिया में बढ़ते सैन्य तनाव के बीच ईरान ने अमेरिका के साथ बातचीत को लेकर बड़ा बयान दिया है। ईरान ने साफ कर दिया है कि जब तक अमेरिका अपनी जिम्मेदारियां पूरी नहीं करता और पुराने समझौतों का पालन नहीं करता, तब तक दोनों देशों के बीच बातचीत की कोई संभावना नहीं है।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-07-16T05:22:41+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/garlic-1-2026-07-f14850f771ce51bf8e799b33899433c8-1200x800.jpg",
+      "summary": "ब्रिटिश राजा चार्ल्स के डिनर में लहसुन और शेलफिश को इसलिए बैन किया जाता है क्योंकि उन्हें शाही भोजन में शामिल नहीं किया जाता है। यह नियम ब्रिटिश शाही परिवार के एक पुराने संस्कृति का हिस्सा है। UK News: अगर कभी ब्रिटिश राजा चार्ल्स के साथ बकिंघम पैलेस में डिनर का मौका मिले तो सिर्फ खाना खाना काफी नहीं होगा.",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिकी हमले के बाद ईरान का सख्त बयान, बातचीत से किया इनकार",
-          "summary": "ईरान ने अमेरिका के साथ बातचीत को लेकर बड़ा बयान दिया है, जिसमें उसने कहा है कि जब तक अमेरिका अपनी जिम्मेदारियां पूरी नहीं करता, तब तक बातचीत की कोई संभावना नहीं है। Middle East Tension: पश्चिम एशिया में बढ़ते सैन्य तनाव के बीच ईरान ने अमेरिका के साथ बातचीत को लेकर बड़ा बयान दिया है। ईरान ने साफ कर दिया है कि जब तक अमेरिका अपनी जिम्मेदारियां पूरी नहीं करता और पुराने समझौतों का पालन नहीं करता, तब तक दोनों देशों के बीच बातचीत की कोई संभावना नहीं है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "केतन को मौत के घाट उतारने वाली सिया के परिवार को झटका, पिता की दुकान से 4173 किलो मेवा जब्त",
-      "url": "https://www.amarujala.com/india-news/fda-raids-sia-goyal-father-premises-in-connection-with-ketan-murder-case-goods-worth-8-lakh-seized-2026-07-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-16T03:21:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/katana-oura-saya_4e3e5b6e69a352c864924d29907136d8.jpeg?w=1200&dpr=1.0",
-      "summary": "सिया गोयल के पिता के ठिकाने पर FDA ने रेड की है, जिसमें 4173 किलो मेवा जब्त किए गए हैं। यह मेवा केतन हत्या मामले में आरोपी परिवार से जुड़े हुए हैं। केतन को मौत के घाट उतारने वाली सिया के परिवार को झटका, पिता की दुकान से 4173 किलो मेवा जब्त।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केतन को मौत के घाट उतारने वाली सिया के परिवार को झटका, पिता की दुकान से 4173 किलो मेवा जब्त",
-          "summary": "सिया गोयल के पिता के ठिकाने पर FDA ने रेड की है, जिसमें 4173 किलो मेवा जब्त किए गए हैं। यह मेवा केतन हत्या मामले में आरोपी परिवार से जुड़े हुए हैं। केतन को मौत के घाट उतारने वाली सिया के परिवार को झटका, पिता की दुकान से 4173 किलो मेवा जब्त।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सात माह पहले बनी थी दुल्हन, मायके जाने की लगाती रही गुहार; ससुराल में मिली खौफनाक मौत",
-      "url": "https://www.amarujala.com/uttar-pradesh/agra/seven-months-after-marriage-newlywed-dies-under-mysterious-circumstances-in-agra-2026-07-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-16T03:19:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/anana-ka-mata_49468dd2b5a689d8804be66bc24bfa6e.jpeg?w=1200&dpr=1.0",
-      "summary": "आगरा के जगनेर क्षेत्र में एक नवविवाहिता की संदिग्ध परिस्थितियों में मौत हो गई। मायके पक्ष ने पति समेत ससुरालियों पर दहेज के लिए प्रताड़ित कर हत्या करने का आरोप लगाया है। पुलिस ने मामले की जांच शुरू कर दी है। आगरा के जगनेर क्षेत्र में शादी के महज सात महीने बाद नवविवाहिता अन्नू की संदिग्ध परिस्थितियों में मौत हो गई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सात माह पहले बनी थी दुल्हन, मायके जाने की लगाती रही गुहार; ससुराल में मिली खौफनाक मौत",
-          "summary": "आगरा के जगनेर क्षेत्र में एक नवविवाहिता की संदिग्ध परिस्थितियों में मौत हो गई। मायके पक्ष ने पति समेत ससुरालियों पर दहेज के लिए प्रताड़ित कर हत्या करने का आरोप लगाया है। पुलिस ने मामले की जांच शुरू कर दी है। आगरा के जगनेर क्षेत्र में शादी के महज सात महीने बाद नवविवाहिता अन्नू की संदिग्ध परिस्थितियों में मौत हो गई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में भारतीय मूल के शख्स पर हमला: धर्म पूछकर चाकू से कई बार किया वार, हालात गंभीर; चश्मदीद ने",
-      "url": "https://www.amarujala.com/world/attack-on-indian-origin-man-us-stabbed-multiple-times-after-being-asked-about-his-religion-condition-critical-2026-07-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-16T03:18:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/bharataya-mal-ka-shakhasa-ka-satha-haii-hasa_85bd1d3e5b9c1f22893d20c53012f7aa.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका में भारतीय मूल के एक व्यक्ति पर हमला हुआ। हमलावर ने उसे धर्म के बारे में पूछकर चाकू से कई बार वार किया। हमले के बाद व्यक्ति की हालत गंभीर हो गई है। अमेरिका में भारतीय मूल के शख्स पर हमला: धर्म पूछकर चाकू से कई बार किया वार, हालात गंभीर; चश्मदीद ने।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में भारतीय मूल के शख्स पर हमला: धर्म पूछकर चाकू से कई बार किया वार, हालात गंभीर; चश्मदीद ने",
-          "summary": "अमेरिका में भारतीय मूल के एक व्यक्ति पर हमला हुआ। हमलावर ने उसे धर्म के बारे में पूछकर चाकू से कई बार वार किया। हमले के बाद व्यक्ति की हालत गंभीर हो गई है। अमेरिका में भारतीय मूल के शख्स पर हमला: धर्म पूछकर चाकू से कई बार किया वार, हालात गंभीर; चश्मदीद ने।",
-          "region": "एशिया-प्रशांत"
+          "title": "किंग चार्ल्स के डिनर में लहसुन क्यों है बैन? ब्रिटिश शाही टेबल के 7 हैरान करने वाले नियम",
+          "summary": "ब्रिटिश राजा चार्ल्स के डिनर में लहसुन और शेलफिश को इसलिए बैन किया जाता है क्योंकि उन्हें शाही भोजन में शामिल नहीं किया जाता है। यह नियम ब्रिटिश शाही परिवार के एक पुराने संस्कृति का हिस्सा है। UK News: अगर कभी ब्रिटिश राजा चार्ल्स के साथ बकिंघम पैलेस में डिनर का मौका मिले तो सिर्फ खाना खाना काफी नहीं होगा.",
+          "region": "यूरोप और रूस"
         }
       }
     }
