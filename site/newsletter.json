@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-17T17:28:24.233740+00:00",
+  "generated_at": "2026-07-17T18:26:38.851812+00:00",
   "article_count": 50,
-  "total_unique_count": 281,
+  "total_unique_count": 280,
   "digest": {
     "en": "Asia-Pacific leads the board this hour with China pitches AI governance model for Global South. World carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, भारत से 14600 किलोमीटर दूर मैक्सिको के तट पर फूटा प्रकृति का कहर, महाभूकंप के बाद सुनामी की खौफनाक मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "मैक्सिको में 7.4 तीव्रता का शक्तिशाली भूकंप आया। इस भूकंप के बाद सुनामी का खतरा है। ग्वाटेमाला और अल सल्वाडोर तक इसका असर महसूस हुआ।"
   },
   "articles": [
     {
@@ -52,6 +52,18 @@
       "image_url": "https://gdb.rferl.org/445363c9-e2cd-42c0-7ee3-08decad17715_w1200_h630.jpg",
       "summary": "Ukraine said its drones struck 159 vessels it identifies as part of Russia’s shadow fleet during a 12‑day campaign in the Black Sea Kyiv says it has hit 159 vessels linked to Russia's so-called shadow fleet during a 12-day drone campaign in the Black Sea and Sea of Azov. Ukrainian officials have said the operation is aimed at disrupting the transportation of oil and other shipments used to evade international sanctions.",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Emergency alert spotlights sharp hunger spike",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167971",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-17T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/17-07-2026-WFP-Djibouti.jpg/image770x420cropped.jpg",
+      "summary": "More than 256,000 people in Djibouti – around 25 per cent of the population – are likely to face crisis or emergency level hunger over the coming months, a UN-backed global food monitoring network warned in a new report released Friday. Emergency alert spotlights sharp hunger spike.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -284,18 +296,6 @@
       "translations": {}
     },
     {
-      "title": "New guidance offers hope for reducing the global toll of dementia",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167948",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/15-07-2026-Adobe-Stock-Dementia.jpg/image770x420cropped.jpg",
-      "summary": "The World Health Organization (WHO) has issued updated global guidelines aimed at reducing the risk of cognitive decline and dementia, saying that up to 45 per cent of cases may be preventable or delayed by addressing modifiable risk factors throughout life. New guidance offers hope for reducing the global toll of dementia.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "On Our Radar",
       "url": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "International Crisis Group",
@@ -306,6 +306,78 @@
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "हवा में कुलांचे भरेगा और समंदर में भी गोता लगाएगा! MIT ने बनाया तैरने और उड़ने वाला रोबोट",
+      "url": "https://hindi.news18.com/news/knowledge/mit-engineers-create-bird-inspired-robot-that-swims-and-flies-ocean-science-10667386.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-17T18:06:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/MIT_Bird_Robot-2026-07-d7f1f7a8b502a565b50387a4a1c3c477-1200x800.jpg",
+      "summary": "MIT Bird Inspired Robot: एमआईटी (MIT) के इंजीनियर्स ने एक ऐसा शानदार रोबोट तैयार किया है जो पानी में तैर सकता है. यह रोबोट सीधे पानी से हवा में उड़ान भरने में भी सक्षम है. इसे गोता लगाने वाले पक्षियों की तरह डिजाइन किया गया है. इसके लिए किसी प्रोपेलर की जरूरत नहीं पड़ती है. यह समुद्र की निगरानी और खतरनाक जगहों से डेटा लाने में गेमचेंजर साबित हो सकता है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हवा में कुलांचे भरेगा और समंदर में भी गोता लगाएगा! MIT ने बनाया तैरने और उड़ने वाला रोबोट",
+          "summary": "MIT Bird Inspired Robot: एमआईटी (MIT) के इंजीनियर्स ने एक ऐसा शानदार रोबोट तैयार किया है जो पानी में तैर सकता है. यह रोबोट सीधे पानी से हवा में उड़ान भरने में भी सक्षम है. इसे गोता लगाने वाले पक्षियों की तरह डिजाइन किया गया है. इसके लिए किसी प्रोपेलर की जरूरत नहीं पड़ती है. यह समुद्र की निगरानी और खतरनाक जगहों से डेटा लाने में गेमचेंजर साबित हो सकता है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जहां 60 साल पहले लहरा चुका तिरंगा, वहां अब नुमाइश करने जा रही ये पाकिस्तानी हसीना, मिस वर्ल्ड बनने",
+      "url": "https://hindi.news18.com/world/pakistan-miss-world-2026-pakistan-to-make-debut-with-anniqa-meraj-where-india-reita-faria-triumphed-60-years-ago-photogallery-10667251.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-17T17:39:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistani-Miss-World-2026-07-23aae8ad5d6af4329c80963efe7e789d-1200x800.jpg",
+      "summary": "पाकिस्तान के 75 साल के इतिहास में पहली बार कोई हसीना मिस वर्ल्ड के उस मंच पर कदम रखने जा रही है, जहां भारत पिछले 60 सालों से राज कर रहा है. 'मिस वर्ल्ड पाकिस्तान 2026' का ताज जीतकर 24 साल की अनीका मेराज वियतनाम में होने वाले 75वें मिस वर्ल्ड फेस्टिवल, में हिस्सा लेंगी. इस मंच पर 60 साल पहले ही तिरंगा लहरा चुका है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जहां 60 साल पहले लहरा चुका तिरंगा, वहां अब नुमाइश करने जा रही ये पाकिस्तानी हसीना, मिस वर्ल्ड बनने",
+          "summary": "पाकिस्तान के 75 साल के इतिहास में पहली बार कोई हसीना मिस वर्ल्ड के उस मंच पर कदम रखने जा रही है, जहां भारत पिछले 60 सालों से राज कर रहा है. 'मिस वर्ल्ड पाकिस्तान 2026' का ताज जीतकर 24 साल की अनीका मेराज वियतनाम में होने वाले 75वें मिस वर्ल्ड फेस्टिवल, में हिस्सा लेंगी. इस मंच पर 60 साल पहले ही तिरंगा लहरा चुका है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मैक्सिको में 7.4 तीव्रता का शक्तिशाली भूकंप, सुनामी का खतरा, ग्वाटेमाला और अल सल्वाडोर तक महसूस हुए",
+      "url": "https://www.patrika.com/world-news/mexico-7-4-magnitude-earthquake-chiapas-tsunami-warning-guatemala-el-salvador-20756548",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-17T16:47:10+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Earthquake-In-Mexico.webp",
+      "summary": "Mexico earthquake: मेक्सिको के दक्षिणी राज्य चियापास के तट के पास शुक्रवार को 7.4 तीव्रता का शक्तिशाली भूकंप आया, जिसके बाद क्षेत्र में सुनामी का खतरा पैदा हो गया। भूकंप के झटके केवल मेक्सिको तक सीमित नहीं रहे, बल्कि पड़ोसी देशों ग्वाटेमाला और अल सल्वाडोर में भी तेज कंपन महसूस किया गया। अमेरिकी सुनामी चेतावनी सिस्टम ने प्रभावित तटीय इलाकों के लिए सुनामी की चेतावनी जारी की है।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मैक्सिको में 7.4 तीव्रता का शक्तिशाली भूकंप, सुनामी का खतरा, ग्वाटेमाला और अल सल्वाडोर तक महसूस हुए",
+          "summary": "Mexico earthquake: मेक्सिको के दक्षिणी राज्य चियापास के तट के पास शुक्रवार को 7.4 तीव्रता का शक्तिशाली भूकंप आया, जिसके बाद क्षेत्र में सुनामी का खतरा पैदा हो गया। भूकंप के झटके केवल मेक्सिको तक सीमित नहीं रहे, बल्कि पड़ोसी देशों ग्वाटेमाला और अल सल्वाडोर में भी तेज कंपन महसूस किया गया। अमेरिकी सुनामी चेतावनी सिस्टम ने प्रभावित तटीय इलाकों के लिए सुनामी की चेतावनी जारी की है।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "लेबर पार्टी का नेता चुने जाने के बाद एंडी बर्नहैम ने की कीर स्टार्मर की तारीफ, कामकाज की तैयार की",
+      "url": "https://www.patrika.com/world-news/andy-burnham-new-labour-party-leader-uk-prime-minister-20756597",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-17T16:36:11+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Andy-Burnham-1.webp",
+      "summary": "Britain Politics: ब्रिटेन की लेबर पार्टी ने एंडी बर्नहैम को पार्टी का नया नेता चुन लिया है। बर्नहैम, जो पहले ग्रेटर मैनचेस्टर के मेयर रह चुके हैं, सोमवार को ब्रिटेन के प्रधानमंत्री पद की जिम्मेदारी संभालेंगे। यह कीर स्टार्मर के औपचारिक रूप से पद छोड़ने के बाद तय प्रक्रिया के तहत होगा। लेबर पार्टी का नेता चुने जाने के बाद एंडी बर्नहैम ने की कीर स्टार्मर की तारीफ, कामकाज की तैयार की।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लेबर पार्टी का नेता चुने जाने के बाद एंडी बर्नहैम ने की कीर स्टार्मर की तारीफ, कामकाज की तैयार की",
+          "summary": "Britain Politics: ब्रिटेन की लेबर पार्टी ने एंडी बर्नहैम को पार्टी का नया नेता चुन लिया है। बर्नहैम, जो पहले ग्रेटर मैनचेस्टर के मेयर रह चुके हैं, सोमवार को ब्रिटेन के प्रधानमंत्री पद की जिम्मेदारी संभालेंगे। यह कीर स्टार्मर के औपचारिक रूप से पद छोड़ने के बाद तय प्रक्रिया के तहत होगा। लेबर पार्टी का नेता चुने जाने के बाद एंडी बर्नहैम ने की कीर स्टार्मर की तारीफ, कामकाज की तैयार की।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "भारत से 14600 किलोमीटर दूर मैक्सिको के तट पर फूटा प्रकृति का कहर, महाभूकंप के बाद सुनामी की खौफनाक",
@@ -358,24 +430,6 @@
           "title": "सदियों तक जमीन के नीचे दफन था 'देवताओं को खुश करने' वाला रथ, अनोखी बनावट-अजीब चेहरे का वैज्ञानिक",
           "summary": "Casas Del Turunuelo Site: स्पेन के बादाहोज प्रांत में पुरातत्वविदों को खुदाई के दौरान 2400 साल पुराना एक दुर्लभ कांस्य रथ मिला है. कासास डेल कुरुन्यूलो साइट पर मिले इस प्राचीन रथ का इस्तेमाल देवताओं को खुश करने के लिए धूप जलाने में किया जाता था. इस रथ पर एक अनोखा चेहरा बना है जो ग्रीक पौराणिक कथाओं के नदी देवता अकिलोस और मेदुसा का मिश्रण प्रतीत होता है.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मेक्सिको में 7.4 तीव्रता का शक्तिशाली भूकंप, सुनामी का खतरा, ग्वाटेमाला और अल सल्वाडोर तक महसूस हुए",
-      "url": "https://www.patrika.com/world-news/mexico-7-4-magnitude-earthquake-chiapas-tsunami-warning-guatemala-el-salvador-20756548",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-17T16:13:18+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Earthquake-In-Mexico.webp",
-      "summary": "Mexico earthquake: मेक्सिको के दक्षिणी राज्य चियापास के तट के पास शुक्रवार को 7.4 तीव्रता का शक्तिशाली भूकंप आया, जिसके बाद क्षेत्र में सुनामी का खतरा पैदा हो गया। भूकंप के झटके केवल मेक्सिको तक सीमित नहीं रहे, बल्कि पड़ोसी देशों ग्वाटेमाला और अल सल्वाडोर में भी तेज कंपन महसूस किया गया। अमेरिकी सुनामी चेतावनी सिस्टम ने प्रभावित तटीय इलाकों के लिए सुनामी की चेतावनी जारी की है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मेक्सिको में 7.4 तीव्रता का शक्तिशाली भूकंप, सुनामी का खतरा, ग्वाटेमाला और अल सल्वाडोर तक महसूस हुए",
-          "summary": "Mexico earthquake: मेक्सिको के दक्षिणी राज्य चियापास के तट के पास शुक्रवार को 7.4 तीव्रता का शक्तिशाली भूकंप आया, जिसके बाद क्षेत्र में सुनामी का खतरा पैदा हो गया। भूकंप के झटके केवल मेक्सिको तक सीमित नहीं रहे, बल्कि पड़ोसी देशों ग्वाटेमाला और अल सल्वाडोर में भी तेज कंपन महसूस किया गया। अमेरिकी सुनामी चेतावनी सिस्टम ने प्रभावित तटीय इलाकों के लिए सुनामी की चेतावनी जारी की है।",
-          "region": "अमेरिका"
         }
       }
     },
@@ -700,60 +754,6 @@
           "title": "'अगर इमारतें अवैध हैं तो...', आजम खान की यूनिवर्सिटी पर बुलडोजर एक्शन को लेकर क्या बोले बृजभूषण सिंह",
           "summary": "समाजवादी पार्टी के वरिष्ठ नेता आजम खान की तरफ से स्थापित यूनिवर्सिटी की 38 इमारतों को गिराने के आदेश को लेकर भारतीय जनता पार्टी के नेता बृज भूषण शरण सिंह ने प्रतिक्रिया दी है. मीडिया से बातचीत के दौरान बृज भूषण शरण सिंह ने कहा कि उन्होंने जो जानकारी सुनी है, उसके अनुसार इस मामले में करीब 38 इमारतें शामिल हैं.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "स्पेन के सामने मेसी की चुनौती मगर सीने में दफन पुराना घाव, 90 साल पहले लाखों मौत का दर्द क्या है?",
-      "url": "https://hindi.news18.com/news/knowledge/spain-in-fifa-football-world-cup-final-with-argentina-but-1936-july-civil-war-memory-history-10666532.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-17T11:22:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Untitled-design-2026-07-17T164032.649-2026-07-4c588b961eb8d7e450c2dd797069ed2b-1200x800.jpg",
-      "summary": "Spain Civil War: स्पेन की सड़कों पर जश्न की तैयारी है. फुटबॉल टीम वर्ल्ड चैंपियन बनने से महज एक कदम ही दूर है. आज 17 जुलाई की तारीख स्पेन के लिए ब्लैक चैप्टर की तरह से है. दो दिन बाद वर्ल्ड कप जीतने की उम्मीद के साथ ही आंखों में 90 साल पुराने दर्द के आंसू भी हैं. ये वो दौर था, जिसमें लाखों लोगों की मौत का इतिहास दफन है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्पेन के सामने मेसी की चुनौती मगर सीने में दफन पुराना घाव, 90 साल पहले लाखों मौत का दर्द क्या है?",
-          "summary": "Spain Civil War: स्पेन की सड़कों पर जश्न की तैयारी है. फुटबॉल टीम वर्ल्ड चैंपियन बनने से महज एक कदम ही दूर है. आज 17 जुलाई की तारीख स्पेन के लिए ब्लैक चैप्टर की तरह से है. दो दिन बाद वर्ल्ड कप जीतने की उम्मीद के साथ ही आंखों में 90 साल पुराने दर्द के आंसू भी हैं. ये वो दौर था, जिसमें लाखों लोगों की मौत का इतिहास दफन है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "‘परिवार मारा गया तो अकेली कैसे रहूंगी? जंग के बाद ईरान में कैसे हैं हालात? रोजगार ठप, महंगाई चरम पर",
-      "url": "https://www.patrika.com/world-news/iran-us-attacks-effect-on-common-people-economic-crisis-families-anxiety-due-to-war-20755786",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-17T11:18:11+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/iranpeoplenews.webp",
-      "summary": "अमेरिका के साथ जंग ने ईरान को मुश्किल में डाल दिया है। महंगाई चरम पर पहुंच गई है। बड़ी बात यह है कि लोग चाहकर भी देश नहीं छोड़ पा रहे हैं, क्योंकि उनके सामने अनेकों मजबूरी है। ‘परिवार मारा गया तो अकेली कैसे रहूंगी? जंग के बाद ईरान में कैसे हैं हालात? रोजगार ठप, महंगाई चरम पर।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘परिवार मारा गया तो अकेली कैसे रहूंगी? जंग के बाद ईरान में कैसे हैं हालात? रोजगार ठप, महंगाई चरम पर",
-          "summary": "अमेरिका के साथ जंग ने ईरान को मुश्किल में डाल दिया है। महंगाई चरम पर पहुंच गई है। बड़ी बात यह है कि लोग चाहकर भी देश नहीं छोड़ पा रहे हैं, क्योंकि उनके सामने अनेकों मजबूरी है। ‘परिवार मारा गया तो अकेली कैसे रहूंगी? जंग के बाद ईरान में कैसे हैं हालात? रोजगार ठप, महंगाई चरम पर।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान के न्यूक्लियर प्रोग्राम साइट पर अमेरिकी हमले की धमकी, सीमा के पास US सैनिकों की तैनाती की",
-      "url": "https://www.patrika.com/world-news/planning-to-deploy-us-troops-near-iran-20755751",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-17T11:08:48+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-President-Donald-Trump.jpg",
-      "summary": "अमेरिका ने ईरान के एक न्यूक्लियर प्रोग्राम साइट पर हमले की धमकी दी है। US Iran Conflict: अमेरिका और ईरान के बीच युद्ध समझौता टूटने के बाद अब तनाव चरम पर पहुंच गया है। अमेरिका ने ईरान के एक न्यूक्लियर प्रोग्राम से जुड़ी एक साइट पर हमले की धमकी दी है। इसके अलावा ईरान की सीमा के नजदीक अमेरिकी सैनिकों की तैनाती को लेकर भी बड़े स्तर पर प्लानिंग शुरू कर दी है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के न्यूक्लियर प्रोग्राम साइट पर अमेरिकी हमले की धमकी, सीमा के पास US सैनिकों की तैनाती की",
-          "summary": "अमेरिका ने ईरान के एक न्यूक्लियर प्रोग्राम साइट पर हमले की धमकी दी है। US Iran Conflict: अमेरिका और ईरान के बीच युद्ध समझौता टूटने के बाद अब तनाव चरम पर पहुंच गया है। अमेरिका ने ईरान के एक न्यूक्लियर प्रोग्राम से जुड़ी एक साइट पर हमले की धमकी दी है। इसके अलावा ईरान की सीमा के नजदीक अमेरिकी सैनिकों की तैनाती को लेकर भी बड़े स्तर पर प्लानिंग शुरू कर दी है।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
