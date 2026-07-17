@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-17T07:43:33.831367+00:00",
+  "generated_at": "2026-07-17T08:48:54.189418+00:00",
   "article_count": 50,
-  "total_unique_count": 282,
+  "total_unique_count": 281,
   "digest": {
-    "en": "A Russian FSB hacker faces 10 years in a US prison after traveling to Thailand, while China's desert mock-up rehearses a US warship's death at sea. In the Middle East, Trump will attend the FIFA World Cup final, as the US and Iran engage in a cycle of attacks and diplomacy.",
-    "hi": "शहरों में सावन की शुरुआत जल्द ही होगी, 5 जुलाई से शुरू होगा सावन, सोमवार व्रत 11 जुलाई से शुरू होगा। इसके अलावा, भारतीय छात्रों पर ट्रंप प्रशासन के वीजा नियमों में बदलाव से उनके अधिकारों पर असर पड़ सकता है।"
+    "en": "Thunderstorms strike across Europe amid record heatwave, with severe weather warnings issued in Germany, France, and Italy. Meanwhile, a US court has sentenced a Russian hacker to 10 years in prison for traveling to Thailand. China's desert mock-up rehearses a US warship's death at sea, highlighting military tensions in the Asia-Pacific region.",
+    "hi": "ईरान पर लगातार छठे दिन अमेरिका का हमला जारी, रेलवे ब्रिज पर अटैक, 7 की मौत। इसके बाद अमेरिका ने ईरान के सिविलियन इंफ्रास्ट्रक्चर को बनाया निशाना, क्या इराक, सीरिया और यमन तक फैल सकता। इस हमले के बाद ईरान की स्थिति और भी खराब हो गई है।"
   },
   "articles": [
+    {
+      "title": "Thunderstorms strike across Europe amid record heatwave",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-17T08:35:56+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/fa9575b9199e2eaf21b2b30447763e5ad422a718/144_0_1709_1367/master/1709.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f86c32baf5bfe31cc73b60c7d29caa7",
+      "summary": "Storms are typical during intense heat but this week’s have been extreme. Plus, deadly monsoon rains in BangladeshHailstones the size of golf balls have been seen in French villages as, on top of the exceptional European heatwave, thunderstorms struck across certain parts of Europe.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "An Alleged Russian FSB Hacker Traveled To Thailand. Now He's Facing 10 Years In A US Prison.",
       "url": "https://www.rferl.org/a/russia-hacker-fsb-thailand-dutch-us-cyber-fraud/33805051.html",
@@ -28,18 +40,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Arleigh-Burke-Class-Destroyer.jpg",
       "summary": "This month, multiple media outlets reported that satellite imagery showed a detailed, full-scale replica of a US Navy Arleigh Burke-class guided-missile destroyer in China’s remote Taklamakan Desert. Construction of the 155-meter mock-up began around October 2025 at the Ruoqiang Test Range in Xinjiang and was completed within six months. Located 2,700 kilometers from the nearest [] The post China China’s desert mock-up rehearses a US warship’s death at sea.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump to attend FIFA World Cup final on July 19: White House",
-      "url": "https://www.thehindu.com/sport/football/trump-to-attend-fifa-argentina-vs-spain-world-cup-final-on-july-19-white-house/article71232541.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-17T05:15:15+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/3w22r/article71232543.ece/alternates/LANDSCAPE_1200/2026-03-27T232040Z_1543793463_RC2BDKA0EJYJ_RTRMADP_3_USA-TRUMP.JPG",
-      "summary": "Press Secretary Leavitt said she did not know whether Mr. Trump would be supporting Argentina or Spain after he criticised the European nation at a NATO summit last week for failing to help with the Iran war Trump to attend FIFA World Cup final on July 19: White House.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -88,6 +88,18 @@
       "image_url": "https://gdb.rferl.org/2001e2b0-78ac-4547-8b7e-8986b1d97863_cx0_cy6_cw0_w1200_h630.jpg",
       "summary": "As tensions between the US and Iran intensifies, with renewed military strikes and growing arguments around the Strait of Hormuz, global attention has focused on regional security, commercial shipping, and the risk of wider escalation. Iran Deal Must Put Iranians At The Center, Policy Analyst Elizabeth Kennedy Trudeau Says.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "IOM warns of potential El Niño threat to families displaced by earthquake",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167964",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-16T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/16-07-2026_PAHO_Venezuela.jpg/image770x420cropped.jpg",
+      "summary": "Thousands of people remain displaced three weeks after the devastating earthquakes in Venezuela and the possible formation of a strong El Niño climate pattern could worsen their already dire situation, the International Organization for Migration (IOM) warned on Thursday. IOM warns of potential El Niño threat to families displaced by earthquake.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -272,30 +284,6 @@
       "translations": {}
     },
     {
-      "title": "Skills for an uncertain future: How youth can navigate a changing job market",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167943",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-14T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-11-2020-Oxford-COVID-vaccine-06.jpg/image770x420cropped.jpg",
-      "summary": "Choosing a path for the future has never been easy, but for young people today, such rapid technological change as artificial intelligence (AI) is making it increasingly difficult to predict which skills will remain relevant in the years ahead. Skills for an uncertain future: How youth can navigate a changing job market.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "World Cup football’s other goal: Helping young people talk about mental health",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167941",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-14T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/19-05-2025-UNICEF-DR-Congo-football-01.jpg/image770x420cropped.jpg",
-      "summary": "When Dr. Sahira Al Nahari founded Shifā Art, a Saudi Arabia-based organization using art to create conversations around mental health, she noticed that men attending her therapeutic art workshops often felt uncomfortable opening up about their feelings. World Cup football’s other goal: Helping young people talk about mental health.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "On Our Radar",
       "url": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "International Crisis Group",
@@ -308,199 +296,103 @@
       "translations": {}
     },
     {
-      "title": "कब से शुरू होगा सावन, जानें तारीख, सोमवार व्रत और पूरा कैलेंडर",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/sawan-2026-calendar-start-date-end-date-number-of-mondays-and-somwar-list-in-hindi-2026-07-17",
-      "source": "Amar Ujala National",
+      "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+      "url": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+      "source": "International Crisis Group",
       "sources": [],
-      "published_at": "2026-07-17T07:29:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/sawan-2026-calendar_fb42af094faca3adf1e1b1e5656e2564.jpeg?w=1200&dpr=1.0",
-      "summary": "सावन के पावन मास की शुरुआत श्रावण कृष्ण पक्ष की प्रतिपदा तिथि से होती है। आइए जानते हैं सावन 2026 की शुरुआत, समापन और सोमवार व्रत की पूरी जानकारी। कब से शुरू होगा सावन, जानें तारीख, सोमवार व्रत और पूरा कैलेंडर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कब से शुरू होगा सावन, जानें तारीख, सोमवार व्रत और पूरा कैलेंडर",
-          "summary": "सावन के पावन मास की शुरुआत श्रावण कृष्ण पक्ष की प्रतिपदा तिथि से होती है। आइए जानते हैं सावन 2026 की शुरुआत, समापन और सोमवार व्रत की पूरी जानकारी। कब से शुरू होगा सावन, जानें तारीख, सोमवार व्रत और पूरा कैलेंडर।",
-          "region": "दुनिया"
-        }
-      }
+      "published_at": "2026-06-30T15:20:00+00:00",
+      "image_url": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group. New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
     },
     {
-      "title": "इधर दूसरे मैच में मिली हार, उधर रोहित पर हो गया 'गंभीर' फैसला?",
-      "url": "https://www.amarujala.com/video/india-news/ind-vs-eng-2nd-odi-defeat-in-the-second-match-and-a-serious-decision-regarding-rohit-2026-07-17",
-      "source": "Amar Ujala National",
+      "title": "ईरान पर लगातार छठे दिन अमेरिका का हमला, रेलवे ब्रिज पर अटैक, 7 की मौत",
+      "url": "https://hindi.news18.com/world/middle-east-us-iran-war-live-news-sixth-night-airport-railway-station-bridges-hit-trump-warning-hormuz-livenews-10664610.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-17T07:29:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/ithhara-thasara-maca-ma-mal-hara-uthhara-rahata-para-ha-gaya-gabhara-fasal_11f0ebfc43e408396ee453881c4ee657.jpeg?w=1200&dpr=1.0",
-      "summary": "जो रूट की नाबाद 99 रन की शानदार पारी की बदौलत इंग्लैंड ने दूसरे वनडे में भारत को चार विकेट से हराकर तीन मैचों की सीरीज 1-1 से बराबर कर दी। इधर दूसरे मैच में मिली हार, उधर रोहित पर हो गया 'गंभीर' फैसला?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इधर दूसरे मैच में मिली हार, उधर रोहित पर हो गया 'गंभीर' फैसला?",
-          "summary": "जो रूट की नाबाद 99 रन की शानदार पारी की बदौलत इंग्लैंड ने दूसरे वनडे में भारत को चार विकेट से हराकर तीन मैचों की सीरीज 1-1 से बराबर कर दी। इधर दूसरे मैच में मिली हार, उधर रोहित पर हो गया 'गंभीर' फैसला?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप प्रशासन ने बदले वीजा नियम: भारतीय छात्रों पर पड़ेगा क्या असर? चीनी नागरिकों को भी दिया बड़ा",
-      "url": "https://www.amarujala.com/world/trump-administration-tightens-us-visa-rules-for-foreign-students-journalists-and-visitors-impact-on-indians-2026-07-17",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-17T07:22:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/donald-trump_5d743ee6c16ae36f68f697bdb771374b.jpeg?w=1200&dpr=1.0",
-      "summary": "झटका trump-administration-tightens-us-visa-rules-for-foreign-students-journalists-and-visitors-impact-on-indians ट्रंप प्रशासन ने बदले वीजा नियम: भारतीय छात्रों पर पड़ेगा क्या असर? चीनी नागरिकों को भी दिया बड़ा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप प्रशासन ने बदले वीजा नियम: भारतीय छात्रों पर पड़ेगा क्या असर? चीनी नागरिकों को भी दिया बड़ा",
-          "summary": "झटका trump-administration-tightens-us-visa-rules-for-foreign-students-journalists-and-visitors-impact-on-indians ट्रंप प्रशासन ने बदले वीजा नियम: भारतीय छात्रों पर पड़ेगा क्या असर? चीनी नागरिकों को भी दिया बड़ा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "एक शब्द बदला और उड़ गए 10 लाख रुपये, महाराष्ट्र में साइबर फ्रॉड के अनोखे मामले से पुलिस भी हैरान",
-      "url": "https://www.amarujala.com/india-news/shocking-cyber-fraud-case-in-maharashtra-change-word-and-lakhs-of-rupees-vanish-2026-07-17",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-17T07:18:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/16/cyber-crime-cyber-fraud_7abb06a5f023f356f653af289789e835.jpeg?w=1200&dpr=1.0",
-      "summary": "Cyber Fraud: एक शब्द बदला और उड़ गए 10 लाख रुपये, महाराष्ट्र में साइबर फ्रॉड के अनोखे मामले से पुलिस भी हैरान shocking cyber fraud case in maharashtra change word and lakhs of rupees vanish।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक शब्द बदला और उड़ गए 10 लाख रुपये, महाराष्ट्र में साइबर फ्रॉड के अनोखे मामले से पुलिस भी हैरान",
-          "summary": "Cyber Fraud: एक शब्द बदला और उड़ गए 10 लाख रुपये, महाराष्ट्र में साइबर फ्रॉड के अनोखे मामले से पुलिस भी हैरान shocking cyber fraud case in maharashtra change word and lakhs of rupees vanish।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "एक कटोरी दाल या एक अंडा, किसमें होता है ज्यादा प्रोटीन? जानिए सही जवाब",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/dal-vs-egg-which-has-more-protein-in-hindi-dal-ya-egg-kisme-protein-jyada-hota-hai-2026-07-17",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-17T07:17:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/dal-vs-egg_75d8a97a16518376ab8e30cea2301045.jpeg?w=1200&dpr=1.0",
-      "summary": "Dal vs Egg: अगर आप भी कंफ्यूज हैं कि एक कटोरी दाल या एक अंडा किसमें ज्यादा प्रोटीन होता है तो इस लेख को आखिर तक पढ़ें। हम यहां आपको इसकी सही जानकारी देंगे। एक कटोरी दाल या एक अंडा, किसमें होता है ज्यादा प्रोटीन? जानिए सही जवाब।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक कटोरी दाल या एक अंडा, किसमें होता है ज्यादा प्रोटीन? जानिए सही जवाब",
-          "summary": "Dal vs Egg: अगर आप भी कंफ्यूज हैं कि एक कटोरी दाल या एक अंडा किसमें ज्यादा प्रोटीन होता है तो इस लेख को आखिर तक पढ़ें। हम यहां आपको इसकी सही जानकारी देंगे। एक कटोरी दाल या एक अंडा, किसमें होता है ज्यादा प्रोटीन? जानिए सही जवाब।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "E20 पेट्रोल डलवाने के बाद आपकी गाड़ी भी दे रही झटका? वसूल सकते हैं मुआवजा, बस पास रखें ये रसीदें",
-      "url": "https://www.amarujala.com/automobiles/car-damaged-after-using-e20-petrol-know-when-you-claim-compensation-2026-07-17",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-17T07:17:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/paratakatamaka-tasavara_3b9cfd617c77d066cc2004a9292b7c51.jpeg?w=1200&dpr=1.0",
-      "summary": "E20 Fuel: देश में पेट्रोल की खपत कम करने और प्रदूषण घटाने के लिए सरकार E20 पेट्रोल के इस्तेमाल को बढ़ावा दे रही है। हालांकि अगर E20 पेट्रोल भरवाने के बाद आपकी कार में कोई तकनीकी खराबी आती है, तो घबराने की जरूरत नहीं है। E20 पेट्रोल डलवाने के बाद आपकी गाड़ी भी दे रही झटका? वसूल सकते हैं मुआवजा, बस पास रखें ये रसीदें।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "E20 पेट्रोल डलवाने के बाद आपकी गाड़ी भी दे रही झटका? वसूल सकते हैं मुआवजा, बस पास रखें ये रसीदें",
-          "summary": "E20 Fuel: देश में पेट्रोल की खपत कम करने और प्रदूषण घटाने के लिए सरकार E20 पेट्रोल के इस्तेमाल को बढ़ावा दे रही है। हालांकि अगर E20 पेट्रोल भरवाने के बाद आपकी कार में कोई तकनीकी खराबी आती है, तो घबराने की जरूरत नहीं है। E20 पेट्रोल डलवाने के बाद आपकी गाड़ी भी दे रही झटका? वसूल सकते हैं मुआवजा, बस पास रखें ये रसीदें।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सीजफायर के बाद अमेरिकी हमलों में 38 ईरानियों की मौत; ओमान के पास टैंकर पर हमला",
-      "url": "https://www.amarujala.com/world/us-iran-conflict-live-updates-trump-threat-iran-retaliates-jordan-us-base-2026-07-17",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-17T07:15:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/06/west-asia-crisis-live-us-iran-israel-war-day-7-us-army-irgc-turkiye-war-updates-and-news-in-hin_a0aa2afe0c126f011b15e33e5f2007e2.gif?w=1200&dpr=1.0",
-      "summary": "West Asia LIVE: केशम द्वीप के आस-पास अमेरिका ने मिसाइल से किया हमला, ईरानी मीडिया का दावा us iran conflict live updates trump threat iran retaliates jordan us base केशम द्वीप के आस-पास अमेरिका ने मिसाइल से किया हमला, अहवाज शहर में भी धमाके। अमेरिका का ईरान पर छठा बड़ा प्रहार, केशम द्वीप और बंदर अब्बास में दागीं मिसाइलें। ईरान पर कहर बनकर टूटा अमेरिका, लगातार छठी रात हमले में पुल, रेलवे स्टेशन और एयरपोर्ट तबाह।",
+      "published_at": "2026-07-17T08:25:52+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/New-us-navy-2026-07-f5f2971bdaf5d147e3da7063cf4172a0-1200x800.jpg",
+      "summary": "अमेरिका ने लगातार छठी रात ईरान पर हमले किए. ईरानी मीडिया के मुताबिक, एयरपोर्ट, रेलवे स्टेशन, पुल और संचार ढांचे को निशाना बनाया गया, जबकि अमेरिका का दावा है कि उसने सैन्य क्षमताओं पर हमला किया है. ट्रंप पहले ही पावर प्लांट और पुल उड़ाने की चेतावनी दे चुके थे. ईरान ने कहा है कि हालात और बिगड़ सकते हैं तथा यह संघर्ष पूरे पश्चिम एशिया में फैलने का खतरा पैदा कर रहा है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सीजफायर के बाद अमेरिकी हमलों में 38 ईरानियों की मौत; ओमान के पास टैंकर पर हमला",
-          "summary": "West Asia LIVE: केशम द्वीप के आस-पास अमेरिका ने मिसाइल से किया हमला, ईरानी मीडिया का दावा us iran conflict live updates trump threat iran retaliates jordan us base केशम द्वीप के आस-पास अमेरिका ने मिसाइल से किया हमला, अहवाज शहर में भी धमाके। अमेरिका का ईरान पर छठा बड़ा प्रहार, केशम द्वीप और बंदर अब्बास में दागीं मिसाइलें। ईरान पर कहर बनकर टूटा अमेरिका, लगातार छठी रात हमले में पुल, रेलवे स्टेशन और एयरपोर्ट तबाह।",
+          "title": "ईरान पर लगातार छठे दिन अमेरिका का हमला, रेलवे ब्रिज पर अटैक, 7 की मौत",
+          "summary": "अमेरिका ने लगातार छठी रात ईरान पर हमले किए. ईरानी मीडिया के मुताबिक, एयरपोर्ट, रेलवे स्टेशन, पुल और संचार ढांचे को निशाना बनाया गया, जबकि अमेरिका का दावा है कि उसने सैन्य क्षमताओं पर हमला किया है. ट्रंप पहले ही पावर प्लांट और पुल उड़ाने की चेतावनी दे चुके थे. ईरान ने कहा है कि हालात और बिगड़ सकते हैं तथा यह संघर्ष पूरे पश्चिम एशिया में फैलने का खतरा पैदा कर रहा है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "बरसात में डॉक्टर के चक्कर नहीं लगाने पड़ेंगे! रोज करें ये आसान योगासन",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/best-yoga-asanas-to-stay-healthy-during-monsoon-boost-immunity-naturally-2026-07-17",
-      "source": "Amar Ujala National",
+      "title": "पाकिस्‍तान में मोहब्‍बत की सजा मौत, पुलिसवाले और उनकी प्रेमिका की हत्‍या, ऑनर किलिंग का शक",
+      "url": "https://hindi.news18.com/world/pakistan-suspected-honour-killing-claims-lives-of-police-officer-22-year-old-woman-in-pakistan-10665875.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-17T07:14:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/yoga-in-monsoon_c089bda935315e7e074e7b3a1fca8391.jpeg?w=1200&dpr=1.0",
-      "summary": "बरसात में बीमारी से बचने के लिए योगासन मददगार हो सकते हैं। immunity boosting yoga: यदि आप भी चाहते हैं कि बरसात के मौसम में बार-बार बीमार न पड़ें और पूरे मौसम ऊर्जा से भरपूर रहें, तो अपने दैनिक जीवन में कुछ आसान योगासनों को शामिल करें। बरसात में डॉक्टर के चक्कर नहीं लगाने पड़ेंगे! रोज करें ये आसान योगासन।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बरसात में डॉक्टर के चक्कर नहीं लगाने पड़ेंगे! रोज करें ये आसान योगासन",
-          "summary": "बरसात में बीमारी से बचने के लिए योगासन मददगार हो सकते हैं। immunity boosting yoga: यदि आप भी चाहते हैं कि बरसात के मौसम में बार-बार बीमार न पड़ें और पूरे मौसम ऊर्जा से भरपूर रहें, तो अपने दैनिक जीवन में कुछ आसान योगासनों को शामिल करें। बरसात में डॉक्टर के चक्कर नहीं लगाने पड़ेंगे! रोज करें ये आसान योगासन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कैसे चलती है नई हाइड्रोजन ट्रेन? कितना है किराया? जानिए सबकुछ",
-      "url": "https://www.amarujala.com/video/india-news/india-s-first-hydrogen-train-how-does-the-new-hydrogen-train-operate-what-is-the-fare-find-out-everything-2026-07-17",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-17T07:14:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/kasa-calta-ha-naii-haidarajana-tarana-katana-ha-karaya-janae-sabkachha_260dd2dbdb1aa78421cf1d28c55ee2c1.jpeg?w=1200&dpr=1.0",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी ने हाइड्रोजन फ्यूल सेल ट्रेन को हरी झंडी दिखाई। भारत की पहली हाइड्रोजन फ्यूल सेल ट्रेन अब जींद-सोनीपत रेलखंड पर चलने के लिए तैयार है। प्रधानमंत्री नरेंद्र मोदी ने इस महत्वाकांक्षी परियोजना को हरी झंडी दिखाई। कैसे चलती है नई हाइड्रोजन ट्रेन? कितना है किराया? जानिए सबकुछ।",
+      "published_at": "2026-07-17T08:16:14+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-news-2-2026-07-e5af8f7b487425552fa5c40ec1973057-1200x800.jpg",
+      "summary": "Pakistan Honour Killing News: पड़ोसी देश पाकिस्‍तान में हिंसा की घटनाएं बेहद आम हैं, लेकिन कई बार ऐसे मामले सामने आते हैं जो सोचने पर मजबूर कर देते हैं. एक बार फिर से ऐसी ही घटना सामने आई है. पाकिस्‍तान में मोहब्‍बत की सजा मौत, पुलिसवाले और उनकी प्रेमिका की हत्‍या, ऑनर किलिंग का शक।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कैसे चलती है नई हाइड्रोजन ट्रेन? कितना है किराया? जानिए सबकुछ",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी ने हाइड्रोजन फ्यूल सेल ट्रेन को हरी झंडी दिखाई। भारत की पहली हाइड्रोजन फ्यूल सेल ट्रेन अब जींद-सोनीपत रेलखंड पर चलने के लिए तैयार है। प्रधानमंत्री नरेंद्र मोदी ने इस महत्वाकांक्षी परियोजना को हरी झंडी दिखाई। कैसे चलती है नई हाइड्रोजन ट्रेन? कितना है किराया? जानिए सबकुछ।",
+          "title": "पाकिस्‍तान में मोहब्‍बत की सजा मौत, पुलिसवाले और उनकी प्रेमिका की हत्‍या, ऑनर किलिंग का शक",
+          "summary": "Pakistan Honour Killing News: पड़ोसी देश पाकिस्‍तान में हिंसा की घटनाएं बेहद आम हैं, लेकिन कई बार ऐसे मामले सामने आते हैं जो सोचने पर मजबूर कर देते हैं. एक बार फिर से ऐसी ही घटना सामने आई है. पाकिस्‍तान में मोहब्‍बत की सजा मौत, पुलिसवाले और उनकी प्रेमिका की हत्‍या, ऑनर किलिंग का शक।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "ओएनजीसी में इंजीनियर और जियोलॉजिस्ट पदों पर भर्ती, वेतन 60 हजार 1.80 लाख तक; जानें योग्यता",
-      "url": "https://www.amarujala.com/jobs/government-jobs/ongc-recruitment-2026-applications-open-for-engineer-and-geologist-posts-salary-up-to-rs-1-80-lakh-2026-07-17",
-      "source": "Amar Ujala National",
+      "title": "ब्रह्मास्त्र के विश्वकर्मा का इस्तीफा, रक्षा मंत्री के हटाने पर बवाल, बुरे फंसे जेलेंस्की",
+      "url": "https://hindi.news18.com/world/europe-ukraine-zelensky-fires-defence-minister-fedorov-protests-drone-war-russia-10665510.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-17T07:13:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/11/ongc-recruitment_18fd1ce330429a9c409c09ab3ffbe051.jpeg?w=1200&dpr=1.0",
-      "summary": "ओएनजीसी ने इंजीनियर और जियोलॉजिस्ट पदों पर भर्ती के लिए आवेदन प्रक्रिया शुरू की। ONGC Vacancy 2026: ऑयल एंड नेचुरल गैस कॉर्पोरेशन ने इंजीनियर और जियोलॉजिस्ट पदों पर भर्ती के लिए आवेदन प्रक्रिया शुरू कर दी है। इस भर्ती के तहत चयनित उम्मीदवारों को 60,000 रुपये से 1.80 लाख रुपये तक वेतन मिलेगा। ओएनजीसी में इंजीनियर और जियोलॉजिस्ट पदों पर भर्ती, वेतन 60 हजार 1.80 लाख तक; जानें योग्यता।",
-      "region": "World",
+      "published_at": "2026-07-17T08:14:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/ukraine-2026-07-b5061c75f529a5b6b21b9f4e01e5b6be-1200x800.jpg",
+      "summary": "Ukraine Protest Reason: यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने अपने रक्षा मंत्री मिखाइलो फेडोरोव को हटा दिया. उनकी इस फैसले के बाद पूरे देश में विरोध प्रदर्शन हो रहे हैं. फेडोरोव ने यूक्रेन की ड्रोन आर्मी बनाने में महत्वपूर्ण भूमिका निभाई थी. रिपोर्ट्स के मुताबिक उनका सेना प्रमुख ओलेक्सांद्र सिरस्की से लंबे समय से टकराव चल रहा था. ब्रह्मास्त्र के विश्वकर्मा का इस्तीफा, रक्षा मंत्री के हटाने पर बवाल, बुरे फंसे जेलेंस्की।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ओएनजीसी में इंजीनियर और जियोलॉजिस्ट पदों पर भर्ती, वेतन 60 हजार 1.80 लाख तक; जानें योग्यता",
-          "summary": "ओएनजीसी ने इंजीनियर और जियोलॉजिस्ट पदों पर भर्ती के लिए आवेदन प्रक्रिया शुरू की। ONGC Vacancy 2026: ऑयल एंड नेचुरल गैस कॉर्पोरेशन ने इंजीनियर और जियोलॉजिस्ट पदों पर भर्ती के लिए आवेदन प्रक्रिया शुरू कर दी है। इस भर्ती के तहत चयनित उम्मीदवारों को 60,000 रुपये से 1.80 लाख रुपये तक वेतन मिलेगा। ओएनजीसी में इंजीनियर और जियोलॉजिस्ट पदों पर भर्ती, वेतन 60 हजार 1.80 लाख तक; जानें योग्यता।",
-          "region": "दुनिया"
+          "title": "ब्रह्मास्त्र के विश्वकर्मा का इस्तीफा, रक्षा मंत्री के हटाने पर बवाल, बुरे फंसे जेलेंस्की",
+          "summary": "Ukraine Protest Reason: यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने अपने रक्षा मंत्री मिखाइलो फेडोरोव को हटा दिया. उनकी इस फैसले के बाद पूरे देश में विरोध प्रदर्शन हो रहे हैं. फेडोरोव ने यूक्रेन की ड्रोन आर्मी बनाने में महत्वपूर्ण भूमिका निभाई थी. रिपोर्ट्स के मुताबिक उनका सेना प्रमुख ओलेक्सांद्र सिरस्की से लंबे समय से टकराव चल रहा था. ब्रह्मास्त्र के विश्वकर्मा का इस्तीफा, रक्षा मंत्री के हटाने पर बवाल, बुरे फंसे जेलेंस्की।",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "लॉन्ग-डिस्टेंस रिलेशनशिप को लेकर शहनाज गिल ने बताया अपना अनुभव, बोलीं- 'दूरी से शक बढ़...'",
-      "url": "https://www.amarujala.com/entertainment/bollywood/shehnaaz-gill-opens-up-about-the-emotional-complexities-of-long-distance-love-2026-07-17",
-      "source": "Amar Ujala National",
+      "title": "अमेरिका ने ईरान के सिविलियन इंफ्रास्ट्रक्चर को बनाया निशाना, क्या इराक, सीरिया और यमन तक फैल सकता",
+      "url": "https://www.patrika.com/world-news/us-targets-iran-civilian-infrastructure-could-war-spread-to-iraq-syria-and-yemen-20754983",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-17T07:12:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/shahanaja-gal_af6fee35156074415b27b021e35c49f8.jpeg?w=1200&dpr=1.0",
-      "summary": "शहनाज गिल ने लॉन्ग-डिस्टेंस रिलेशनशिप में दूरी से शक बढ़ने की बात कही। बॉलीवुड अभिनेत्री शहनाज गिल ने हाल ही में लॉन्ग-डिस्टेंस रिलेशनशिप को लेकर एक बड़ा खुलासा किया है। उन्होंने अपने अनुभव को साझा करते हुए कहा कि इसे लेकर मन में एक डर आता है।",
+      "published_at": "2026-07-17T07:40:11+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/us-starts-striking-iran-again_.webp",
+      "summary": "US targets Iran civilian infrastructure: अमेरिका ने ईरान के सिविलिय इंफ्रास्ट्रक्चर को निशाना बनाया है। अमेरिकी सेना ने चाबाहार पोर्ट पर भी हमला किया। अमेरिकी हमले में पोर्ट टावर पूरी तरह से तबाह हो गया। ईरान ने भी कतर, बहरीन में अमेरिकी सैन्य ठिकानों को निशाना बनाया है। युद्ध का लैडर एक स्टेप ऊपर होने के बाद अब मध्य एशिया के कई देशों में तनाव बढ़ गया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका ने ईरान के सिविलियन इंफ्रास्ट्रक्चर को बनाया निशाना, क्या इराक, सीरिया और यमन तक फैल सकता",
+          "summary": "US targets Iran civilian infrastructure: अमेरिका ने ईरान के सिविलिय इंफ्रास्ट्रक्चर को निशाना बनाया है। अमेरिकी सेना ने चाबाहार पोर्ट पर भी हमला किया। अमेरिकी हमले में पोर्ट टावर पूरी तरह से तबाह हो गया। ईरान ने भी कतर, बहरीन में अमेरिकी सैन्य ठिकानों को निशाना बनाया है। युद्ध का लैडर एक स्टेप ऊपर होने के बाद अब मध्य एशिया के कई देशों में तनाव बढ़ गया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चालक को झपकी और तेज रफ्तार बनी हादसे की वजह, स्कॉर्पियो-कैंटर की भिड़ंत में गई थी तीन लोगों की जान",
+      "url": "https://www.amarujala.com/uttar-pradesh/bareilly/three-killed-two-injured-in-collision-between-scorpio-and-canter-on-pilibhit-highway-2026-07-17",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-17T07:29:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/sakarapaya-oura-katara-ka-aamana-samana-haii-bhashhanae-takakara_bbd7cc68c553557f1b356499d3a8108c.jpeg?w=1200&dpr=1.0",
+      "summary": "बरेली-पीलीभीत हाईवे पर स्कॉर्पियो गाड़ी और कैंटर की आमने-सामने हुई टक्कर में महिला समेत तीन लोगों की मौत हो गई। चालक को झपकी और तेज रफ्तार बनी हादसे की वजह, स्कॉर्पियो-कैंटर की भिड़ंत में गई थी तीन लोगों की जान।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "लॉन्ग-डिस्टेंस रिलेशनशिप को लेकर शहनाज गिल ने बताया अपना अनुभव, बोलीं- 'दूरी से शक बढ़...'",
-          "summary": "शहनाज गिल ने लॉन्ग-डिस्टेंस रिलेशनशिप में दूरी से शक बढ़ने की बात कही। बॉलीवुड अभिनेत्री शहनाज गिल ने हाल ही में लॉन्ग-डिस्टेंस रिलेशनशिप को लेकर एक बड़ा खुलासा किया है। उन्होंने अपने अनुभव को साझा करते हुए कहा कि इसे लेकर मन में एक डर आता है।",
+          "title": "चालक को झपकी और तेज रफ्तार बनी हादसे की वजह, स्कॉर्पियो-कैंटर की भिड़ंत में गई थी तीन लोगों की जान",
+          "summary": "बरेली-पीलीभीत हाईवे पर स्कॉर्पियो गाड़ी और कैंटर की आमने-सामने हुई टक्कर में महिला समेत तीन लोगों की मौत हो गई। चालक को झपकी और तेज रफ्तार बनी हादसे की वजह, स्कॉर्पियो-कैंटर की भिड़ंत में गई थी तीन लोगों की जान।",
           "region": "दुनिया"
         }
       }
@@ -524,24 +416,6 @@
       }
     },
     {
-      "title": "दिल्ली-NCR, यूपी में बदला मौसम, अगले 5 दिन जमकर होगी बारिश!",
-      "url": "https://www.amarujala.com/video/india-news/weather-update-weather-changes-in-delhi-ncr-and-up-heavy-rain-expected-over-the-next-5-days-2026-07-17",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-17T06:59:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/thall-ncr-yapa-ma-bthal-masama-agal-5-thana-jamakara-haga-brasha_4c951e4f1c672bce28ece02e7eea3af6.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली-एनसीआर में शुक्रवार सुबह हल्की बारिश और बूंदाबांदी से लोगों को उमस भरी गर्मी से राहत मिली। दिल्ली-NCR, यूपी में बदला मौसम, अगले 5 दिन जमकर होगी बारिश!",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिल्ली-NCR, यूपी में बदला मौसम, अगले 5 दिन जमकर होगी बारिश!",
-          "summary": "दिल्ली-एनसीआर में शुक्रवार सुबह हल्की बारिश और बूंदाबांदी से लोगों को उमस भरी गर्मी से राहत मिली। दिल्ली-NCR, यूपी में बदला मौसम, अगले 5 दिन जमकर होगी बारिश!",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "'AI अब किसी एक देश का खेल नहीं', शी जिनपिंग को आखिर किस बात का सता रहा डर? भारत से है खास कनेक्शन",
       "url": "https://www.amarujala.com/world/ai-is-no-longer-the-game-of-just-one-country-what-exactlyxi-jinping-afraid-of-special-connection-with-india-2026-07-17",
       "source": "Amar Ujala World",
@@ -556,78 +430,6 @@
           "title": "'AI अब किसी एक देश का खेल नहीं', शी जिनपिंग को आखिर किस बात का सता रहा डर? भारत से है खास कनेक्शन",
           "summary": "चीन के राष्ट्रपति शी जिनपिंग ने कहा है कि AI अब किसी एक देश का खेल नहीं है। उन्होंने भारत से खास कनेक्शन का जिक्र किया है। China: 'AI अब किसी एक देश का खेल नहीं', शी जिनपिंग को आखिर किस बात का सता रहा डर? भारत से है खास कनेक्शन।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान पर लगातार छठे दिन अमेरिका का हमला, रेलवे ब्रिज पर अटैक, 7 की मौत",
-      "url": "https://hindi.news18.com/world/middle-east-us-iran-war-live-news-sixth-night-airport-railway-station-bridges-hit-trump-warning-hormuz-livenews-10664610.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-17T06:52:08+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/New-us-navy-2026-07-f5f2971bdaf5d147e3da7063cf4172a0-1200x800.jpg",
-      "summary": "अमेरिका ने लगातार छठी रात ईरान पर हमले किए. ईरानी मीडिया के मुताबिक, एयरपोर्ट, रेलवे स्टेशन, पुल और संचार ढांचे को निशाना बनाया गया, जबकि अमेरिका का दावा है कि उसने सैन्य क्षमताओं पर हमला किया है. ट्रंप पहले ही पावर प्लांट और पुल उड़ाने की चेतावनी दे चुके थे. ईरान ने कहा है कि हालात और बिगड़ सकते हैं तथा यह संघर्ष पूरे पश्चिम एशिया में फैलने का खतरा पैदा कर रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान पर लगातार छठे दिन अमेरिका का हमला, रेलवे ब्रिज पर अटैक, 7 की मौत",
-          "summary": "अमेरिका ने लगातार छठी रात ईरान पर हमले किए. ईरानी मीडिया के मुताबिक, एयरपोर्ट, रेलवे स्टेशन, पुल और संचार ढांचे को निशाना बनाया गया, जबकि अमेरिका का दावा है कि उसने सैन्य क्षमताओं पर हमला किया है. ट्रंप पहले ही पावर प्लांट और पुल उड़ाने की चेतावनी दे चुके थे. ईरान ने कहा है कि हालात और बिगड़ सकते हैं तथा यह संघर्ष पूरे पश्चिम एशिया में फैलने का खतरा पैदा कर रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘15 साल की दोस्ती को खराब कर दिया’, मौनी रॉय संग डेटिंग की अफवाहों पर भड़के अर्जुन बिजलानी; शेयर",
-      "url": "https://www.amarujala.com/entertainment/arjun-bijlani-fumes-over-mouni-roys-dating-rumours-saying-ruined-15-years-of-friendship-just-for-a-click-2026-07-17",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-17T06:49:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/arajana-bjalna-oura-mana-raya_a5519f6028ce72d7caa982b9ca62543f.jpeg?w=1200&dpr=1.0",
-      "summary": "अर्जुन बिजलानी ने अपनी करीबी दोस्त मौनी रॉय के साथ डेटिंग की अफवाहों पर कड़ा रिएक्शन दिया है। जानिए उन्होंने क्या कहा। ‘15 साल की दोस्ती को खराब कर दिया’, मौनी रॉय संग डेटिंग की अफवाहों पर भड़के अर्जुन बिजलानी; शेयर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘15 साल की दोस्ती को खराब कर दिया’, मौनी रॉय संग डेटिंग की अफवाहों पर भड़के अर्जुन बिजलानी; शेयर",
-          "summary": "अर्जुन बिजलानी ने अपनी करीबी दोस्त मौनी रॉय के साथ डेटिंग की अफवाहों पर कड़ा रिएक्शन दिया है। जानिए उन्होंने क्या कहा। ‘15 साल की दोस्ती को खराब कर दिया’, मौनी रॉय संग डेटिंग की अफवाहों पर भड़के अर्जुन बिजलानी; शेयर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'BTS के रूप में पहचान हमेशा केंद्र में रहेगी'; K-पॉप बैंड ने बताया सोलो के बजाय ग्रुप परफॉर्मेंस पर",
-      "url": "https://www.amarujala.com/entertainment/their-identity-as-bts-remains-central-to-everything-they-do-says-seven-member-group-k-pop-band-2026-07-17",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-17T06:49:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/ka-papa-bda-btaesa_9f155d647fa35df52d3587c2d00d6f35.jpeg?w=1200&dpr=1.0",
-      "summary": "BTS announced that the group identity will remain central, even after members complete mandatory military service and pursue solo projects. The nine members returned with the album Arirang this year. They emphasized that their brand is tied to the group, not individual careers. BTS: के-पॉप बैंड बीटीएस के सभी सदस्यों ने अनिवार्य मिलिट्री सर्विस पूरी करने और कुछ निजी प्रोजेक्ट्स पर ध्यान देने के बाद इस साल' अरिरंग' एल्बम से कमबैक किया।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'BTS के रूप में पहचान हमेशा केंद्र में रहेगी'; K-पॉप बैंड ने बताया सोलो के बजाय ग्रुप परफॉर्मेंस पर",
-          "summary": "BTS announced that the group identity will remain central, even after members complete mandatory military service and pursue solo projects. The nine members returned with the album Arirang this year. They emphasized that their brand is tied to the group, not individual careers. BTS: के-पॉप बैंड बीटीएस के सभी सदस्यों ने अनिवार्य मिलिट्री सर्विस पूरी करने और कुछ निजी प्रोजेक्ट्स पर ध्यान देने के बाद इस साल' अरिरंग' एल्बम से कमबैक किया।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "फाइनल देखने क्यों नहीं जा रहे अर्जेंटीना के राष्ट्रपति मिलेई? कारण जानकर रह जाएंगे हैरान",
-      "url": "https://www.amarujala.com/sports/football/spain-vs-argentina-argentina-president-javier-milei-won-t-attend-fifa-world-cup-final-know-reason-2026-07-17",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-17T06:32:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/fifa_911f24fbeb5f7796ea56883142c21fab.jpeg?w=1200&dpr=1.0",
-      "summary": "अर्जेंटीना के राष्ट्रपति जेवियर मिलेई फीफा विश्व कप के फाइनल मैच देखने स्टेडियम नहीं जाएंगे। गत चैंपियन अर्जेंटीना और स्पेन के बीच फीफा विश्व कप का खिताबी मुकाबला खेला जाएगा। इसके लिए न्यू जर्सी में दुनिया भर के दिग्गजों का जमावड़ा लगेगा, लेकिन अर्जेंटीना के राष्ट्रपति जेवियर मिलेई फाइनल मैच देखने स्टेडियम नहीं जाएंगे। फाइनल देखने क्यों नहीं जा रहे अर्जेंटीना के राष्ट्रपति मिलेई?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फाइनल देखने क्यों नहीं जा रहे अर्जेंटीना के राष्ट्रपति मिलेई? कारण जानकर रह जाएंगे हैरान",
-          "summary": "अर्जेंटीना के राष्ट्रपति जेवियर मिलेई फीफा विश्व कप के फाइनल मैच देखने स्टेडियम नहीं जाएंगे। गत चैंपियन अर्जेंटीना और स्पेन के बीच फीफा विश्व कप का खिताबी मुकाबला खेला जाएगा। इसके लिए न्यू जर्सी में दुनिया भर के दिग्गजों का जमावड़ा लगेगा, लेकिन अर्जेंटीना के राष्ट्रपति जेवियर मिलेई फाइनल मैच देखने स्टेडियम नहीं जाएंगे। फाइनल देखने क्यों नहीं जा रहे अर्जेंटीना के राष्ट्रपति मिलेई?",
-          "region": "यूरोप और रूस"
         }
       }
     },
@@ -650,24 +452,6 @@
       }
     },
     {
-      "title": "कितनी खास है देश की पहली हाइड्रोजन ट्रेन? रेट-रफ्तार से रास्ते तक, जानें इसके बारे में सबकुछ",
-      "url": "https://www.amarujala.com/india-news/how-special-is-india-s-first-hydrogen-train-from-speed-and-fare-to-route-here-s-everything-you-need-to-know-2026-07-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-17T06:18:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/haidarajana-tarana_39548b90bd8bbb2de3328dfd06867138.jpeg?w=1200&dpr=1.0",
-      "summary": "Explainer: कितनी खास है देश की पहली हाइड्रोजन ट्रेन? रेट-रफ्तार से रास्ते तक, जानें इसके बारे में सबकुछ।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कितनी खास है देश की पहली हाइड्रोजन ट्रेन? रेट-रफ्तार से रास्ते तक, जानें इसके बारे में सबकुछ",
-          "summary": "Explainer: कितनी खास है देश की पहली हाइड्रोजन ट्रेन? रेट-रफ्तार से रास्ते तक, जानें इसके बारे में सबकुछ।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "सोनम वांगचुक नहीं, तो किससे प्रेरित है ‘3 इडियट्स’ के रैंचो का किरदार? निर्देशक और लेखक ने बताई",
       "url": "https://www.amarujala.com/entertainment/bollywood/not-sonam-wangchuk-but-aamir-khan-rancho-in-3-idiots-was-inspired-by-a-real-person-raj-kumar-hirani-2026-07-17",
       "source": "Amar Ujala Breaking",
@@ -686,19 +470,19 @@
       }
     },
     {
-      "title": "रोक हटी, लेकिन शर्त के साथ: सुप्रीम कोर्ट ने खोला 'महाप्रभु जगन्नाथ' की रिलीज का रास्ता, जानें कब",
-      "url": "https://www.amarujala.com/india-news/sc-grants-relief-film-mahaprabhu-jagannath-permits-nationwide-release-from-july-28-after-rath-yatra-festival-2026-07-17",
+      "title": "जिद, जज्बा और सेल्फ स्टडी... किसी ने नहीं मानी हार, न छोड़ा लक्ष्य; ऐसे बने नीट के टॉपर्स",
+      "url": "https://www.amarujala.com/photo-gallery/education/neet-result-2026-study-strategies-sacrifices-and-hard-work-behind-the-success-of-top-rank-holders-2026-07-17",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-17T06:12:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/saparama-karata_2df517f29dbd11eb7d456c631a3035ed.jpeg?w=1200&dpr=1.0",
-      "summary": "सुप्रीम कोर्ट ने 'महाप्रभु जगन्नाथ' फिल्म की रिलीज का रास्ता खोल दिया है। रोक हटी, लेकिन शर्त के साथ: सुप्रीम कोर्ट ने खोला 'महाप्रभु जगन्नाथ' की रिलीज का रास्ता, जानें कब आएगी फिल्म?",
+      "published_at": "2026-07-17T06:13:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/neet-ug-2026-toppers_6a5e6d9733fa2bc02733092dfffa24bb.jpeg?w=1200&dpr=1.0",
+      "summary": "नीट यूजी 2026 के परिणामों के साथ कई प्रेरक सफलता की कहानियां सामने आई हैं। एक छात्र ने रोज 16-17 घंटे पढ़ाई कर एयर 1 हासिल किया। दूसरे ने सोशल मीडिया से दूरी बनाकर टॉप रैंक पाई। NEET UG 2026: नीट यूजी के नतीजों के साथ कई प्रेरक सफलता की कहानियां भी सामने आई हैं। किसी ने रोज 16-17 घंटे पढ़ाई कर AIR 1 हासिल की, तो किसी ने सोशल मीडिया से दूरी बनाकर टॉप रैंक पाई।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रोक हटी, लेकिन शर्त के साथ: सुप्रीम कोर्ट ने खोला 'महाप्रभु जगन्नाथ' की रिलीज का रास्ता, जानें कब",
-          "summary": "सुप्रीम कोर्ट ने 'महाप्रभु जगन्नाथ' फिल्म की रिलीज का रास्ता खोल दिया है। रोक हटी, लेकिन शर्त के साथ: सुप्रीम कोर्ट ने खोला 'महाप्रभु जगन्नाथ' की रिलीज का रास्ता, जानें कब आएगी फिल्म?",
+          "title": "जिद, जज्बा और सेल्फ स्टडी... किसी ने नहीं मानी हार, न छोड़ा लक्ष्य; ऐसे बने नीट के टॉपर्स",
+          "summary": "नीट यूजी 2026 के परिणामों के साथ कई प्रेरक सफलता की कहानियां सामने आई हैं। एक छात्र ने रोज 16-17 घंटे पढ़ाई कर एयर 1 हासिल किया। दूसरे ने सोशल मीडिया से दूरी बनाकर टॉप रैंक पाई। NEET UG 2026: नीट यूजी के नतीजों के साथ कई प्रेरक सफलता की कहानियां भी सामने आई हैं। किसी ने रोज 16-17 घंटे पढ़ाई कर AIR 1 हासिल की, तो किसी ने सोशल मीडिया से दूरी बनाकर टॉप रैंक पाई।",
           "region": "दुनिया"
         }
       }
@@ -754,6 +538,222 @@
           "title": "12 साल के बालक को मगरमच्छ जिंदा खा गया, जबड़े में दबाया, उछाला और लील गया; वीडियो देख कांप गए लोग",
           "summary": "यूपी के बहराइच में 12 वर्षीय बालक को मगरमच्छ जिंदा खा गया। घटना से घर में चीख पुकार मच गई। 12 साल के बालक को मगरमच्छ जिंदा खा गया, जबड़े में दबाया, उछाला और लील गया; वीडियो देख कांप गए लोग।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आईपीएस अनुराग कुमार बने दिल्ली के नए पुलिस आयुक्त, सतीश गोलचा की लेंगे जगह",
+      "url": "https://www.amarujala.com/delhi-ncr/anurag-kumar-appointed-new-delhi-police-commissioner-2026-07-17",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-17T05:45:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/anaraga-kamara-bna-thall-ka-nae-palsa-aayakata_8f2b33041586f97f2d74d3a0f5f576b0.jpeg?w=1200&dpr=1.0",
+      "summary": "अनुराग कुमार दिल्ली के नए पुलिस आयुक्त बने हैं, सतीश गोलचा की जगह लेंगे। गृह मंत्रालय ने अनुराग कुमार को दिल्ली का नया पुलिस आयुक्त नियुक्त किया है। आईपीएस अनुराग कुमार बने दिल्ली के नए पुलिस आयुक्त, सतीश गोलचा की लेंगे जगह।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईपीएस अनुराग कुमार बने दिल्ली के नए पुलिस आयुक्त, सतीश गोलचा की लेंगे जगह",
+          "summary": "अनुराग कुमार दिल्ली के नए पुलिस आयुक्त बने हैं, सतीश गोलचा की जगह लेंगे। गृह मंत्रालय ने अनुराग कुमार को दिल्ली का नया पुलिस आयुक्त नियुक्त किया है। आईपीएस अनुराग कुमार बने दिल्ली के नए पुलिस आयुक्त, सतीश गोलचा की लेंगे जगह।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'...तो मैं भूत बनकर वापस आऊंगा', 20वें दिन भी जारी सोनम वांगचुक की भूख हड़ताल",
+      "url": "https://www.amarujala.com/delhi-ncr/sonam-wangchuk-s-hunger-strike-continues-for-the-20th-day-at-jantar-mantar-2026-07-17",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-17T05:32:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/sonam-wangchuk-hunger-strike_8d14193f40f41a29ea24e62784be9f80.jpeg?w=1200&dpr=1.0",
+      "summary": "सोनम वांगचुक का अनशन 20वें दिन में प्रवेश कर गया है। सामाजिक कार्यकर्ता सोनम वांगचुक का अनशन शुक्रवार को 20वें दिन में प्रवेश कर गया। तो मैं भूत बनकर वापस आऊंगा', 20वें दिन भी जारी सोनम वांगचुक की भूख हड़ताल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'...तो मैं भूत बनकर वापस आऊंगा', 20वें दिन भी जारी सोनम वांगचुक की भूख हड़ताल",
+          "summary": "सोनम वांगचुक का अनशन 20वें दिन में प्रवेश कर गया है। सामाजिक कार्यकर्ता सोनम वांगचुक का अनशन शुक्रवार को 20वें दिन में प्रवेश कर गया। तो मैं भूत बनकर वापस आऊंगा', 20वें दिन भी जारी सोनम वांगचुक की भूख हड़ताल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी एयरस्ट्राइक में चाबहार पोर्ट को बड़ा नुकसान: निगरानी टावर ढहा, क्या फिर निशाने पर आया",
+      "url": "https://www.amarujala.com/world/chabahar-port-suffers-major-damage-in-us-airstrike-watchtower-collapses-strategic-port-come-under-fire-again-2026-07-17",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-17T05:24:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/cabhara-parata-ka-nagarana-tavara_d1b02377220a79a71d4f9522fbc1edc9.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी एयरस्ट्राइक में चाबहार पोर्ट को नुकसान हुआ, निगरानी टावर ढह गया। अमेरिकी एयरस्ट्राइक में चाबहार पोर्ट को बड़ा नुकसान: निगरानी टावर ढहा, क्या फिर निशाने पर आया।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी एयरस्ट्राइक में चाबहार पोर्ट को बड़ा नुकसान: निगरानी टावर ढहा, क्या फिर निशाने पर आया",
+          "summary": "अमेरिकी एयरस्ट्राइक में चाबहार पोर्ट को नुकसान हुआ, निगरानी टावर ढह गया। अमेरिकी एयरस्ट्राइक में चाबहार पोर्ट को बड़ा नुकसान: निगरानी टावर ढहा, क्या फिर निशाने पर आया।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "बंगाल की खाड़ी में रोहिंग्या शरणार्थियों की दो नावें डूबीं, 500 से ज्यादा लोगों की मौत की आशंका",
+      "url": "https://hindi.news18.com/world/south-asia-rohingya-boats-capsize-bay-of-bengal-500-feared-dead-myanmar-news-10665285.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-17T05:24:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/boat-2026-07-d0da14c1aada2a08d08c9affd850e5ec-1200x800.jpg",
+      "summary": "है। म्यांमार के रखाइन राज्य से निकली रोहिंग्या शरणार्थियों की दो नावें बंगाल की खाड़ी में कथित तौर पर डूब गई हैं. संयुक्त राष्ट्र की एजेंसियों IOM और UNHCR के मुताबिक इस हादसे में 500 से ज्यादा लोगों की मौत की आशंका है. नावों में म्यांमार और बांग्लादेश के शरणार्थी सवार थे. बंगाल की खाड़ी में रोहिंग्या शरणार्थियों की दो नावें डूबीं, 500 से ज्यादा लोगों की मौत की आशंका।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंगाल की खाड़ी में रोहिंग्या शरणार्थियों की दो नावें डूबीं, 500 से ज्यादा लोगों की मौत की आशंका",
+          "summary": "है। म्यांमार के रखाइन राज्य से निकली रोहिंग्या शरणार्थियों की दो नावें बंगाल की खाड़ी में कथित तौर पर डूब गई हैं. संयुक्त राष्ट्र की एजेंसियों IOM और UNHCR के मुताबिक इस हादसे में 500 से ज्यादा लोगों की मौत की आशंका है. नावों में म्यांमार और बांग्लादेश के शरणार्थी सवार थे. बंगाल की खाड़ी में रोहिंग्या शरणार्थियों की दो नावें डूबीं, 500 से ज्यादा लोगों की मौत की आशंका।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में अवैध ट्रक चालकों को देश से निकालने की तैयारी, जानें भारत पर क्या पड़ेगा असर?",
+      "url": "https://www.amarujala.com/world/trump-to-crack-the-whip-us-prepares-to-deport-illegal-truck-drivers-find-out-how-this-will-impact-india-2026-07-17",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-17T05:12:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/17/danalda-tarapa-amaraka-rashhatarapata_434b713a9c0283df2326f8edfdc875b1.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका अवैध ट्रक चालकों को देश से निकालने की तैयारी कर रहा है। अमेरिका में अवैध ट्रक चालकों को देश से निकालने की तैयारी, जानें भारत पर क्या पड़ेगा असर?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में अवैध ट्रक चालकों को देश से निकालने की तैयारी, जानें भारत पर क्या पड़ेगा असर?",
+          "summary": "अमेरिका अवैध ट्रक चालकों को देश से निकालने की तैयारी कर रहा है। अमेरिका में अवैध ट्रक चालकों को देश से निकालने की तैयारी, जानें भारत पर क्या पड़ेगा असर?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सिंधु पर भारत को फंसाने चला था पाकिस्तान, अब कोर्ट में हमारी भी फीस भर रहा",
+      "url": "https://hindi.news18.com/world/pakistan-indus-waters-treaty-pakistan-paying-india-share-court-arbitration-explained-10664979.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-17T05:00:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-indus-water-2026-07-2cceca9e98ef5dfe9d82727c558c9bd7-1200x800.jpg",
+      "summary": "पाकिस्तान के लिए सिंधु जल संधि विवाद में फीस भरना एक बड़ी मुसीबत बन गया है। पाकिस्तान ने भारत के लिए भी फीस भरना शुरू कर दिया है, जो एक बड़ा उलटफेर है। भारत ने 2023 से संधि की कार्यवाही का बहिष्कार कर दिया था। Indus Waters Treaty News: सिंधु जल संधि विवाद में भारत 2023 से पर्मानेंट कोर्ट ऑफ ऑर्बिटरेश (PCA) की कार्यवाही का बहिष्कार कर रहा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सिंधु पर भारत को फंसाने चला था पाकिस्तान, अब कोर्ट में हमारी भी फीस भर रहा",
+          "summary": "पाकिस्तान के लिए सिंधु जल संधि विवाद में फीस भरना एक बड़ी मुसीबत बन गया है। पाकिस्तान ने भारत के लिए भी फीस भरना शुरू कर दिया है, जो एक बड़ा उलटफेर है। भारत ने 2023 से संधि की कार्यवाही का बहिष्कार कर दिया था। Indus Waters Treaty News: सिंधु जल संधि विवाद में भारत 2023 से पर्मानेंट कोर्ट ऑफ ऑर्बिटरेश (PCA) की कार्यवाही का बहिष्कार कर रहा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पहले आजादी और अब 2027 में पहली जनगणना... 'रिपब्लिक ऑफ बलूचिस्तान' का 6 करोड़ आबादी का दावा",
+      "url": "https://hindi.news18.com/news/defence/from-independence-claim-to-first-census-balochistan-new-plan-explained-ws-l-10665069.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-17T04:51:54+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Your-paragraph-text-1600-x-900-px-2026-07-17T101929.217-2026-07-0da264de5b79890b9c79b65032fcb6f4-1200x800.jpg",
+      "summary": "'रिपब्लिक ऑफ बलूचिस्तान' संगठन ने 2027 में पहली राष्ट्रीय जनगणना कराने का ऐलान किया है। संगठन ने पाकिस्तान की आधिकारिक जनसंख्या के आंकड़ों को खारिज करते हुए बलूचिस्तान की आबादी 6 करोड़ बताई है। जनगणना के आधार पर राष्ट्रीय डेटाबेस, बजट, रक्षा और प्रशासनिक ढांचा तैयार करने की बात भी कही गई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पहले आजादी और अब 2027 में पहली जनगणना... 'रिपब्लिक ऑफ बलूचिस्तान' का 6 करोड़ आबादी का दावा",
+          "summary": "'रिपब्लिक ऑफ बलूचिस्तान' संगठन ने 2027 में पहली राष्ट्रीय जनगणना कराने का ऐलान किया है। संगठन ने पाकिस्तान की आधिकारिक जनसंख्या के आंकड़ों को खारिज करते हुए बलूचिस्तान की आबादी 6 करोड़ बताई है। जनगणना के आधार पर राष्ट्रीय डेटाबेस, बजट, रक्षा और प्रशासनिक ढांचा तैयार करने की बात भी कही गई है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरानी सिविलियन इंफ्रास्ट्रक्चर तबाह कर रहा अमेरिका, तीसरे हमले से चाबहार समुद्री नियंत्रण टॉवर किया",
+      "url": "https://www.patrika.com/world-news/iran-us-war-us-destroying-iranian-civilian-infrastructure-launches-third-attack-on-chabahar-maritime-control-tower-20754067",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-17T04:31:02+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/tower.webp",
+      "summary": "अमेरिका ने दक्षिणी ईरान में छठी रात बड़े हमले किए, जिनमें बिजली सुविधाओं, ट्रेन स्टेशन और अन्य सिविलियन इंफ्रास्ट्रक्चर को नुकसान पहुंचाने की खबरें सामने आई हैं। चाबहार के समुद्री रास्तों की सुरक्षा खतरे में है। Iran-US-War: अमेरिका और ईरान के बीच सैन्य टकराव लगातार तेज होता जा रहा है। दोनों देशों के बीच चल रही कार्रवाई का असर अब सिविलियन इलाकों और जरूरी इंफ्रास्ट्रक्चर पर भी दिखाई देने लगा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरानी सिविलियन इंफ्रास्ट्रक्चर तबाह कर रहा अमेरिका, तीसरे हमले से चाबहार समुद्री नियंत्रण टॉवर किया",
+          "summary": "अमेरिका ने दक्षिणी ईरान में छठी रात बड़े हमले किए, जिनमें बिजली सुविधाओं, ट्रेन स्टेशन और अन्य सिविलियन इंफ्रास्ट्रक्चर को नुकसान पहुंचाने की खबरें सामने आई हैं। चाबहार के समुद्री रास्तों की सुरक्षा खतरे में है। Iran-US-War: अमेरिका और ईरान के बीच सैन्य टकराव लगातार तेज होता जा रहा है। दोनों देशों के बीच चल रही कार्रवाई का असर अब सिविलियन इलाकों और जरूरी इंफ्रास्ट्रक्चर पर भी दिखाई देने लगा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चीन ने डोनाल्ड ट्रंप के चुनावी हस्तक्षेप के आरोप नकारे, कहा- अमेरिकी वोटर ही तय करते हैं नतीजे",
+      "url": "https://www.patrika.com/world-news/china-rejects-donald-trump-election-interference-allegations-20754088",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-17T04:25:18+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/donald-trump-and-xi-jinping.webp",
+      "summary": "चीन ने अमेरिकी चुनाव में हस्तक्षेप के आरोपों को सिरे से खारिज कर दिया है। चीन के दूतावास के प्रवक्ता लियू चांग ने कहा कि बीजिंग अन्य देशों के आंतरिक मामलों में हस्तक्षेप न करने की नीति का पालन करता है। China Denies Election Interference: अमेरिकी चुनाव में हस्तक्षेप को लेकर राष्ट्रपति डोनाल्ड ट्रंप द्वारा लगाए गए आरोपों को चीन ने सिरे से खारिज कर दिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन ने डोनाल्ड ट्रंप के चुनावी हस्तक्षेप के आरोप नकारे, कहा- अमेरिकी वोटर ही तय करते हैं नतीजे",
+          "summary": "चीन ने अमेरिकी चुनाव में हस्तक्षेप के आरोपों को सिरे से खारिज कर दिया है। चीन के दूतावास के प्रवक्ता लियू चांग ने कहा कि बीजिंग अन्य देशों के आंतरिक मामलों में हस्तक्षेप न करने की नीति का पालन करता है। China Denies Election Interference: अमेरिकी चुनाव में हस्तक्षेप को लेकर राष्ट्रपति डोनाल्ड ट्रंप द्वारा लगाए गए आरोपों को चीन ने सिरे से खारिज कर दिया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "क्या आपका वोट वाकई आपका है? ट्रम्प के खुलासे से उठा पर्दा-विदेशी हैकर्स के एक कोड की दूरी पर है",
+      "url": "https://www.patrika.com/world-news/trump-claims-us-voting-machines-under-russia-china-iran-cyber-threat-20754167",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-17T04:23:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-Election-Fraud.webp",
+      "summary": "पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने सीधे तौर पर आगाह किया है कि अमेरिका का चुनावी ढांचा इस समय वैश्विक महाशक्तियों के साइबर निशाने पर है। उन्होंने साफ कहा कि यह सिर्फ एक राजनीतिक बयान नहीं, बल्कि हमारे चुनावी प्रणाली की सुरक्षा का एक बड़ा सवाल है। Donald Trump Election Fraud: दुनिया का सबसे शक्तिशाली देश और उसकी चुनावी प्रणाली क्या पूरी तरह सुरक्षित है?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या आपका वोट वाकई आपका है? ट्रम्प के खुलासे से उठा पर्दा-विदेशी हैकर्स के एक कोड की दूरी पर है",
+          "summary": "पूर्व अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने सीधे तौर पर आगाह किया है कि अमेरिका का चुनावी ढांचा इस समय वैश्विक महाशक्तियों के साइबर निशाने पर है। उन्होंने साफ कहा कि यह सिर्फ एक राजनीतिक बयान नहीं, बल्कि हमारे चुनावी प्रणाली की सुरक्षा का एक बड़ा सवाल है। Donald Trump Election Fraud: दुनिया का सबसे शक्तिशाली देश और उसकी चुनावी प्रणाली क्या पूरी तरह सुरक्षित है?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "बांग्लादेश-चीन की चाल पर भारत की नजर...पहले आर्मी चीफ, अब अमित शाह का बॉर्डर दौरा, समझिए मैसेज",
+      "url": "https://hindi.news18.com/news/nation/china-bangladesh-after-army-chief-general-dhiraj-seth-now-home-minister-amit-shah-border-chicken-neck-visit-message-decode-10664818.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-17T03:57:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/amit-shah-dhiraj-seth-2026-07-55fc67cacd6501a9db8acd4552b56d7e-1200x800.jpg",
+      "summary": "भारत ने बांग्लादेश की सरकार पर दुश्मनों को जमीन देने के आरोप लगाए हैं। प्रधानमंत्री शेख हसीना को हटाने के बाद बांग्लादेश में भारत के प्रति शत्रुता बढ़ी है। भारत पूरी सतर्कता बरत रहा है और चीन की वक्र चाल से वाकिफ है। Bangladesh Border News: शेख हसीना को प्रधानमंत्री की कुर्सी से बेदखल करने के बाद बांग्‍लादेश में भारत के प्रति शत्रुता की भावना काफी बढ़ी है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश-चीन की चाल पर भारत की नजर...पहले आर्मी चीफ, अब अमित शाह का बॉर्डर दौरा, समझिए मैसेज",
+          "summary": "भारत ने बांग्लादेश की सरकार पर दुश्मनों को जमीन देने के आरोप लगाए हैं। प्रधानमंत्री शेख हसीना को हटाने के बाद बांग्लादेश में भारत के प्रति शत्रुता बढ़ी है। भारत पूरी सतर्कता बरत रहा है और चीन की वक्र चाल से वाकिफ है। Bangladesh Border News: शेख हसीना को प्रधानमंत्री की कुर्सी से बेदखल करने के बाद बांग्‍लादेश में भारत के प्रति शत्रुता की भावना काफी बढ़ी है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बलूचिस्तान में फिर मचा कोहराम, BLA का दावा- 45 PAK सैनिकों को मौत के घाट उतारा",
+      "url": "https://www.patrika.com/world-news/bla-killed-45-soldiers-in-pakistan-balochistan-20753966",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-17T03:52:50+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/03/BLABaloch.webp",
+      "summary": "बलूचिस्तान में बलूच लिब्रेशन आर्मी ने पाकिस्तानी सेना पर हमला किया है। BLA ने दावा किया है कि 45 पाकिस्तानी सैनिक मारे गए हैं और कई घायल हुए हैं। हमला मस्तुंग जिले के खडकोचा इलाके में हुआ है। पाकिस्तान के बलूचिस्तान में एक बार फिर बलूच लिब्रेशन आर्मी के लड़ाकों ने बड़ी वारदात को अंजाम दिया है। BLA ने दावा किया है कि उसके लड़ाकों ने मस्तुंग जिले के खडकोचा इलाके में पाकिस्तानी सेना पर हमला करके 45 सैनिकों को मौत के घाट उतार दिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बलूचिस्तान में फिर मचा कोहराम, BLA का दावा- 45 PAK सैनिकों को मौत के घाट उतारा",
+          "summary": "बलूचिस्तान में बलूच लिब्रेशन आर्मी ने पाकिस्तानी सेना पर हमला किया है। BLA ने दावा किया है कि 45 पाकिस्तानी सैनिक मारे गए हैं और कई घायल हुए हैं। हमला मस्तुंग जिले के खडकोचा इलाके में हुआ है। पाकिस्तान के बलूचिस्तान में एक बार फिर बलूच लिब्रेशन आर्मी के लड़ाकों ने बड़ी वारदात को अंजाम दिया है। BLA ने दावा किया है कि उसके लड़ाकों ने मस्तुंग जिले के खडकोचा इलाके में पाकिस्तानी सेना पर हमला करके 45 सैनिकों को मौत के घाट उतार दिया है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
