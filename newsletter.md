@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 18, 2026 10:31 IST
+**Updated:** July 18, 2026 11:21 IST
 
 ---
 
@@ -56,7 +56,7 @@ Broader context is China’s push to both develop its alternatives to Western AI
 *Asia Times* - Jul 18, 09:41 IST (iso: 2026-07-18T04:11:30+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Bangladesh-Tarique-Rahman.jpg -->
 
-Driven by shifting domestic political dynamics and a transforming regional landscape, Bangladesh’s new prime minister, Tarique Rahman, who came to power after a landslide in February this year, has shelved plans to visit its most consequential neighbor, India, for the time being.
+Driven by shifting domestic political dynamics and a transforming regional landscape, Bangladesh’s new prime minister, Tarique Rahman, who came to power after a landslide in February this year, has shelved plans to visit its most consequential neighbor, India, for the time being. Senior officials at the Ministry of Foreign Affairs and diplomatic sources familiar with [] The post Bangladesh shelve.
 
 ### [China’s anti-stealth shield has a radar reality gap](https://asiatimes.com/2026/07/chinas-anti-stealth-shield-has-a-radar-reality-gap/)
 *Asia Times* - Jul 18, 09:05 IST (iso: 2026-07-18T03:35:47+00:00)
