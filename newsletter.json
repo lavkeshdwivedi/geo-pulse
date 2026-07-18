@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-18T21:20:05.647000+00:00",
+  "generated_at": "2026-07-18T22:20:18.916227+00:00",
   "article_count": 50,
-  "total_unique_count": 272,
+  "total_unique_count": 261,
   "digest": {
-    "en": "Flash flood warnings now blanket New York, New Jersey, and Massachusetts as Canadian wildfire smoke drifts south, prompting emergency alerts. At the same time Bangladesh has paused its India‑reset, citing rising border tensions that outweigh recent diplomatic overtures.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, Bulldozer Action on Abhishek Banerjee Office: बुलडोजर एक्शन भड़के अभिषेक भाजपा को दे डाली चेतावनी! मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Flash flood warnings strike north-east US. Cuba edges toward breakdown amid power cuts. Ahmad Vahidi is also in the news.",
+    "hi": "बुलडोजर एक्शन भड़के अभिषेक भाजपा को दे डाली चेतावनी। राजौरी के बाद पुंछ में गोलीबारी कर घुसपैठ की कोशिश हुई। भारतीय सेना ने जवाब दिया।"
   },
   "articles": [
     {
@@ -284,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "Russian Fuel Shortages Trigger Fights, Public Anger",
-      "url": "https://www.rferl.org/a/russian-fuel-shortages-spark-public-anger/33805101.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-16T13:54:53+00:00",
-      "image_url": "https://gdb.rferl.org/c9675826-f603-4e90-2b3c-08decd1f5434_cx0_cy5_cw0_w1200_h630.jpg",
-      "summary": "Worsening fuel shortages are causing more frustration across Russia, with social media videos regularly showing fist fights at gas stations and drivers demanding answers from authorities. The Kremlin claims the country's energy system remains resilient. Russian Fuel Shortages Trigger Fights, Public Anger.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "IOM warns of potential El Niño threat to families displaced by earthquake",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167964",
       "source": "UN News",
@@ -304,6 +292,18 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/16-07-2026_PAHO_Venezuela.jpg/image770x420cropped.jpg",
       "summary": "Thousands of people remain displaced three weeks after the devastating earthquakes in Venezuela and the possible formation of a strong El Niño climate pattern could worsen their already dire situation, the International Organization for Migration (IOM) warned on Thursday. IOM warns of potential El Niño threat to families displaced by earthquake.",
       "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167959",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-16T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/19-06-2026-WHO-DR-Congo-ebola-02.jpg/image770x420cropped.jpg",
+      "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has become the third largest on record and is spreading faster than any previous one during the first month of exposure, the head of the World Health Organization (WHO) warned on Thursday. WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -416,9 +416,153 @@
       }
     },
     {
+      "title": "मुंबई-अहमदाबाद बुलेट ट्रेन का काम तेज, समुद्र के नीचे दूसरी टीबीएम ने भी शुरू की सुरंग की खोदाई",
+      "url": "https://www.amarujala.com/india-news/maharashtra-updates-mumbai-ahmedabad-bullet-train-second-tbm-undersea-tunnel-mumbai-nagpur-pune-politics-news-2026-07-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-18T22:13:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
+      "summary": "Maharashtra: मुंबई-अहमदाबाद बुलेट ट्रेन का काम तेज, समुद्र के नीचे दूसरी टीबीएम ने भी शुरू की सुरंग की खोदाई।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मुंबई-अहमदाबाद बुलेट ट्रेन का काम तेज, समुद्र के नीचे दूसरी टीबीएम ने भी शुरू की सुरंग की खोदाई",
+          "summary": "Maharashtra: मुंबई-अहमदाबाद बुलेट ट्रेन का काम तेज, समुद्र के नीचे दूसरी टीबीएम ने भी शुरू की सुरंग की खोदाई।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रामपाल के अनुयायियों पर दर्ज FIR बरकरार, हिंदू देवी-देवताओं के बारे में बांट रहे थे आपत्तिजनक",
+      "url": "https://www.amarujala.com/shimla/shimla-fir-against-rampal-s-followers-upheld-2026-07-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-18T22:07:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/1_6203fbdc2b39d37e0d538a53b8755a4a.jpeg?w=1200&dpr=1.0",
+      "summary": "हिमाचल प्रदेश हाईकोर्ट ने रामपाल के 13 अनुयायियों के खिलाफ दर्ज एफआईआर को रद्द करने से इन्कार कर दिया। रामपाल के अनुयायियों पर दर्ज FIR बरकरार, हिंदू देवी-देवताओं के बारे में बांट रहे थे आपत्तिजनक।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रामपाल के अनुयायियों पर दर्ज FIR बरकरार, हिंदू देवी-देवताओं के बारे में बांट रहे थे आपत्तिजनक",
+          "summary": "हिमाचल प्रदेश हाईकोर्ट ने रामपाल के 13 अनुयायियों के खिलाफ दर्ज एफआईआर को रद्द करने से इन्कार कर दिया। रामपाल के अनुयायियों पर दर्ज FIR बरकरार, हिंदू देवी-देवताओं के बारे में बांट रहे थे आपत्तिजनक।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सरकार ने इंडियन स्टैंडर्ड टाइम प्रसार नेटवर्क शुरू किया, क्या है व्हाइट रैबिट टेक्नोलॉजी?",
+      "url": "https://www.amarujala.com/business/business-diary/business-updates-white-rabbit-tech-ist-sebi-forex-gold-silver-rate-usd-v-inr-commerce-trade-import-export-news-2026-07-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-18T22:01:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/12/bjanasa-nayaja-eda-apadatasa_7f2f68f2e5b4d9ee8db3f982d3b51abb.jpeg?w=1200&dpr=1.0",
+      "summary": "Biz Updates: सरकार ने इंडियन स्टैंडर्ड टाइम प्रसार नेटवर्क शुरू किया, क्या है व्हाइट रैबिट टेक्नोलॉजी?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सरकार ने इंडियन स्टैंडर्ड टाइम प्रसार नेटवर्क शुरू किया, क्या है व्हाइट रैबिट टेक्नोलॉजी?",
+          "summary": "Biz Updates: सरकार ने इंडियन स्टैंडर्ड टाइम प्रसार नेटवर्क शुरू किया, क्या है व्हाइट रैबिट टेक्नोलॉजी?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "प्रशांत किशोर ने किया बड़ा दावा , बांकीपुर में जन सुराज के उतरने से भाजपा घबराई!",
+      "url": "https://www.amarujala.com/video/india-news/bankipur-by-election-prashant-kishor-makes-a-bold-claim-bjp-rattled-by-jan-suraaj-s-entry-in-bankipur-2026-07-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-18T22:00:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/bankipur-by-election_62632a83e35c2545df2925f377c94b93.jpeg?w=1200&dpr=1.0",
+      "summary": "Bankipur By Election: प्रशांत किशोर ने किया बड़ा दावा, बांकीपुर में जन सुराज के उतरने से भाजपा घबराई!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रशांत किशोर ने किया बड़ा दावा , बांकीपुर में जन सुराज के उतरने से भाजपा घबराई!",
+          "summary": "Bankipur By Election: प्रशांत किशोर ने किया बड़ा दावा, बांकीपुर में जन सुराज के उतरने से भाजपा घबराई!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "उजड़े घर और उलझे वोट, पुनर्वास के बाद एसआईआर में फंसे हजारों परिवार; अधूरी जानकारी से बढ़ी परेशानी",
+      "url": "https://www.amarujala.com/delhi-ncr/delhi-sir-shattered-homes-and-tangled-votes-thousands-of-families-stuck-in-the-sir-after-rehabilitation-2026-07-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-18T21:53:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/1_d166dbeb81502fd8dab55dab3c053768.jpeg?w=1200&dpr=1.0",
+      "summary": "राजधानी में अतिक्रमण हटाने की कार्रवाई के बाद पुनर्वास कॉलोनियों में बसाए गए सैकड़ों परिवार अब मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) के दौरान नई परेशानी का सामना कर रहे हैं। उजड़े घर और उलझे वोट, पुनर्वास के बाद एसआईआर में फंसे हजारों परिवार; अधूरी जानकारी से बढ़ी परेशानी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उजड़े घर और उलझे वोट, पुनर्वास के बाद एसआईआर में फंसे हजारों परिवार; अधूरी जानकारी से बढ़ी परेशानी",
+          "summary": "राजधानी में अतिक्रमण हटाने की कार्रवाई के बाद पुनर्वास कॉलोनियों में बसाए गए सैकड़ों परिवार अब मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) के दौरान नई परेशानी का सामना कर रहे हैं। उजड़े घर और उलझे वोट, पुनर्वास के बाद एसआईआर में फंसे हजारों परिवार; अधूरी जानकारी से बढ़ी परेशानी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आरोपी टिन्नू ने कहा- चढ़ावा चोरी के लिए अनिल मिश्रा जिम्मेदार, जब हम जेल में तो वो क्यों है बाहर",
+      "url": "https://www.amarujala.com/lucknow/ram-mandir-accused-tinnu-says-anil-mishra-is-responsible-for-the-theft-of-offerings-2026-07-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-18T21:52:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/1_fc0e4b4f837347073d89411b4f700450.jpeg?w=1200&dpr=1.0",
+      "summary": "राम मंदिर चढ़ावा चोरी के आरोपी टिन्नू यादव ने पुलिस की पूछताछ में ट्रस्ट के पूर्व सदस्य अनिल मिश्रा पर गंभीर आरोप लगाए। आरोपी टिन्नू ने कहा- चढ़ावा चोरी के लिए अनिल मिश्रा जिम्मेदार, जब हम जेल में तो वो क्यों है बाहर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आरोपी टिन्नू ने कहा- चढ़ावा चोरी के लिए अनिल मिश्रा जिम्मेदार, जब हम जेल में तो वो क्यों है बाहर",
+          "summary": "राम मंदिर चढ़ावा चोरी के आरोपी टिन्नू यादव ने पुलिस की पूछताछ में ट्रस्ट के पूर्व सदस्य अनिल मिश्रा पर गंभीर आरोप लगाए। आरोपी टिन्नू ने कहा- चढ़ावा चोरी के लिए अनिल मिश्रा जिम्मेदार, जब हम जेल में तो वो क्यों है बाहर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "प्रधानमंत्री मोदी से मशहूर इंडस्ट्री लीडर रविकांत की मुलाकात, अपनी किताब की प्रति भेंट की",
+      "url": "https://www.amarujala.com/india-news/national-updates-19th-july-north-east-west-south-india-sonam-wangchuk-neet-2026-politics-crime-hindi-samachar-2026-07-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-18T21:39:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=1200&dpr=1.0",
+      "summary": "News Updates: प्रधानमंत्री मोदी से मशहूर इंडस्ट्री लीडर रविकांत की मुलाकात, अपनी किताब की प्रति भेंट की।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रधानमंत्री मोदी से मशहूर इंडस्ट्री लीडर रविकांत की मुलाकात, अपनी किताब की प्रति भेंट की",
+          "summary": "News Updates: प्रधानमंत्री मोदी से मशहूर इंडस्ट्री लीडर रविकांत की मुलाकात, अपनी किताब की प्रति भेंट की।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रूस-यूक्रेन के बीच टकराव बढ़ा, मॉस्को के रणनीतिक ठिकानों पर ड्रोन हमले में 7 की मौत और 50 घायल",
+      "url": "https://www.amarujala.com/world/world-updates-zanzibar-iran-us-west-asia-un-bangladesh-nepal-china-russia-ukraine-politics-and-global-news-2026-07-19",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-18T21:31:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=1200&dpr=1.0",
+      "summary": "World Updates: रूस-यूक्रेन के बीच टकराव बढ़ा, मॉस्को के रणनीतिक ठिकानों पर ड्रोन हमले में 7 की मौत और 50 घायल।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस-यूक्रेन के बीच टकराव बढ़ा, मॉस्को के रणनीतिक ठिकानों पर ड्रोन हमले में 7 की मौत और 50 घायल",
+          "summary": "World Updates: रूस-यूक्रेन के बीच टकराव बढ़ा, मॉस्को के रणनीतिक ठिकानों पर ड्रोन हमले में 7 की मौत और 50 घायल।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "नेपाल के सिक्कों से हटेगा विवादित नक्शा: एक-दो रुपये के कॉइन पर दिखेगा 7वीं सदी का मठ, क्या है",
       "url": "https://www.amarujala.com/world/nepal-to-replace-political-map-with-monastery-image-on-coins-2026-07-19",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-18T21:16:06+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/napal-sarakara-ka-fasal_5339bbc07c37ac45470d584b962ea86b.jpeg?w=1200&dpr=1.0",
@@ -436,7 +580,7 @@
     {
       "title": "शिंदे बोले- सियासी सुविधा के लिए उद्धव ने ओढ़ा हिंदुत्व का चोला, और क्या-क्या कहा?",
       "url": "https://www.amarujala.com/india-news/eknath-shinde-attacks-uddhav-over-hindutva-and-ram-temple-row-2026-07-19",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-18T20:32:56+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/ekanatha-shatha-upamakhayamatara-maharashhatara_48e9cd30d4ff8d7b9f15d870d67736ec.jpeg?w=1200&dpr=1.0",
@@ -454,7 +598,7 @@
     {
       "title": "'पाकिस्तान-इस्राइल में होने वाली थी डील': इमरान खान की बहन का दावा, क्या मुनीर को फील्ड मार्शल",
       "url": "https://www.amarujala.com/world/noreen-niazi-imran-khan-sister-india-pakistan-clash-israel-recognition-claim-2025-conflict-2026-2026-07-19",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-18T20:06:30+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/narana-nayaja-ka-bugdha-thava_c717054ec59eb1f04417b09386476fa2.jpeg?w=1200&dpr=1.0",
@@ -610,150 +754,6 @@
           "title": "अभिषेक बनर्जी ने TMC के बागी गुट को दिया चैलेंज तो BJP ने किया पलटवार, कहा- 'शायद वो भी...'",
           "summary": "तृणमूल कांग्रेस (TMC) के राष्ट्रीय महासचिव और लोकसभा सांसद अभिषेक बनर्जी ने शनिवार (18 जुलाई, 2026) को पार्टी से बागी गुट के नेताओं को बड़ी चुनौती दी है. उन्होंने कहा कि जो लोग पार्टी को छोड़कर आज मुझे बुरा भला कह रहे हैं, मैं उन्हें चुनौती देता हूं कि अगर वे दीदी के पास वापस आ जाते हैं, तो मैं एक घंटे के भीतर पार्टी से इस्तीफा दे दूंगा.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अभिषेक बनर्जी के ऑफिस पर गरजा बुलडोजर तो आई बीजेपी की प्रतिक्रिया, बोले - 'खुद को राजकुमार...'",
-      "url": "https://www.abplive.com/news/india/bjp-attack-on-bulldozer-action-against-abhishek-banerjee-office-mp-sukant-majoomdar-and-samik-bhattacharya-3162109",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-18T15:56:37+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/18/c58896bf6c394a70e2d32ddfb9d9752417843899265761324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पश्चिम बंगाल के कोलकाता में बंगाल के अमतला में टीएमसी सांसद अभिषेक बनर्जी के ऑफिस पर बुलडोजर कार्रवाई पर बीजेपी की तरफ से टिप्पणी आई है. एक तरफ बीजेपी एमपी सुकांत मजूमदार ने बयान दिया है, तो दूसरी तरफ पश्चिम बंगाल के प्रदेश अध्यक्ष सामिक भट्टाचार्य ने बयान दिया है. यहां एक तरफ अभिषेक बनर्जी के ऑफिस पर हुई बुलडोजर कार्रवाई पर रिएक्शन देते हुए केंद्रीय मंत्री और बीजेपी एमपी सुकांत मजूमदार ने कहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अभिषेक बनर्जी के ऑफिस पर गरजा बुलडोजर तो आई बीजेपी की प्रतिक्रिया, बोले - 'खुद को राजकुमार...'",
-          "summary": "पश्चिम बंगाल के कोलकाता में बंगाल के अमतला में टीएमसी सांसद अभिषेक बनर्जी के ऑफिस पर बुलडोजर कार्रवाई पर बीजेपी की तरफ से टिप्पणी आई है. एक तरफ बीजेपी एमपी सुकांत मजूमदार ने बयान दिया है, तो दूसरी तरफ पश्चिम बंगाल के प्रदेश अध्यक्ष सामिक भट्टाचार्य ने बयान दिया है. यहां एक तरफ अभिषेक बनर्जी के ऑफिस पर हुई बुलडोजर कार्रवाई पर रिएक्शन देते हुए केंद्रीय मंत्री और बीजेपी एमपी सुकांत मजूमदार ने कहा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सोनम वांगचुक को जबरन अस्पताल ले जाने पर भड़के योगेंद्र यादव, बोले - 'आप उनको ले जा सकते हैं",
-      "url": "https://www.abplive.com/news/india/yogendra-yadav-reaction-regarding-sonam-wangchuk-jantar-mantar-delhi-police-3162018",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-18T15:45:45+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/18/ac9b14ba06a9ab8c0e4fd114680ecf0417843754436531324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सोनम वांगचुक को दिल्ली पुलिस ने हॉस्पिटल में एडमिट कर दिया है. इस कार्रवाई का लगातार विरोध देखने को मिल रहा है. अब इस पर पॉलिटिकल एक्टिविस्ट योगेंद्र यादव ने सवाल उठाए हैं. उन्होंने इस कार्रवाई को शर्मनाक और कायरतापूर्ण करार दिया है. साथ ही गैरकानूनी बताया है. योगेंद्र यादव ने कहा, 'दिल्ली पुलिस की कार्रवाई शर्मनाक, कायरतापूर्ण और गैर कानूनी है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सोनम वांगचुक को जबरन अस्पताल ले जाने पर भड़के योगेंद्र यादव, बोले - 'आप उनको ले जा सकते हैं",
-          "summary": "सोनम वांगचुक को दिल्ली पुलिस ने हॉस्पिटल में एडमिट कर दिया है. इस कार्रवाई का लगातार विरोध देखने को मिल रहा है. अब इस पर पॉलिटिकल एक्टिविस्ट योगेंद्र यादव ने सवाल उठाए हैं. उन्होंने इस कार्रवाई को शर्मनाक और कायरतापूर्ण करार दिया है. साथ ही गैरकानूनी बताया है. योगेंद्र यादव ने कहा, 'दिल्ली पुलिस की कार्रवाई शर्मनाक, कायरतापूर्ण और गैर कानूनी है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नशे की लत छुड़ाने गई थी ये अडल्ट स्टार, जिंदा लाश बनकर लौटी, अब छाती पीट-पीट कर रो रही मां",
-      "url": "https://hindi.news18.com/world/america-adult-film-star-emily-willis-left-frozen-brain-damage-after-rehab-medical-crisis-photogallery-10669679.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-18T15:43:35+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Emily-Willis-7-2026-07-a8d446e1003a37045597ba0a6e572aea-1200x800.jpg",
-      "summary": "Emily Willis, a 27‑year‑old adult film star, entered Summit Malibu rehab in 2024 to treat ketamine dependence. She suffered a severe reaction that left her permanently paralyzed and unable to move. The incident has sparked criticism of the center’s safety protocols. अडल्ट फिल्म इंडस्ट्री की सबसे मशहूर स्टार्स में से एक एमिली विलिस की जिंदगी एक VIP रिहैब सेंटर की लापरवाही की वजह से नरक बन चुकी है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नशे की लत छुड़ाने गई थी ये अडल्ट स्टार, जिंदा लाश बनकर लौटी, अब छाती पीट-पीट कर रो रही मां",
-          "summary": "Emily Willis, a 27‑year‑old adult film star, entered Summit Malibu rehab in 2024 to treat ketamine dependence. She suffered a severe reaction that left her permanently paralyzed and unable to move. The incident has sparked criticism of the center’s safety protocols. अडल्ट फिल्म इंडस्ट्री की सबसे मशहूर स्टार्स में से एक एमिली विलिस की जिंदगी एक VIP रिहैब सेंटर की लापरवाही की वजह से नरक बन चुकी है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बेटे ने किया कत्ल तो मां ने की पर्दा डालने की कोशिश, किरण-विक्रम अब दोनों जाएंगे ब्रिटेन में जेल",
-      "url": "https://hindi.news18.com/world/britain-mother-of-the-vikram-singh-accused-sentenced-to-jail-case-britain-s-southampton-city-sjn-10669680.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-18T15:38:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Vikram-Singh-Digwa-2026-07-b1695d58cb039642df7fbead9d21393b-1200x800.jpg",
-      "summary": "A Southampton court sentenced 53‑year‑old Kiron Kaur to three years in prison for concealing evidence and assisting her son after he murdered a woman. Her son Vikram Kaur, already convicted of the killing, is serving a life term. The murder occurred in 2024. ब्रिटेन के साउथम्पटन शहर में हुए एक बड़े हत्या के मामले में अब आरोपी की मां को भी जेल की सजा सुनाई गई है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बेटे ने किया कत्ल तो मां ने की पर्दा डालने की कोशिश, किरण-विक्रम अब दोनों जाएंगे ब्रिटेन में जेल",
-          "summary": "A Southampton court sentenced 53‑year‑old Kiron Kaur to three years in prison for concealing evidence and assisting her son after he murdered a woman. Her son Vikram Kaur, already convicted of the killing, is serving a life term. The murder occurred in 2024. ब्रिटेन के साउथम्पटन शहर में हुए एक बड़े हत्या के मामले में अब आरोपी की मां को भी जेल की सजा सुनाई गई है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सरकार ने NCPI सांसदों को दिया न्योता, मानसून सत्र पर आयोजित ऑल पार्टी मीटिंग में चर्चा के लिए बुलाया",
-      "url": "https://www.abplive.com/news/india/central-government-sends-invitation-to-ncpi-leaders-for-discussion-on-upcoming-monsoon-session-3162088",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-18T15:21:56+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/18/6c489a7a5228370154f874531cb2472217843865811231126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "संसद के मानसून सत्र की शुरुआत सोमवार (20 जुलाई, 2026) से होने वाली है. केंद्र सरकार ने सत्र की शुरुआत से एक दिन पहले रविवार (19 जुलाई, 2026) को लोकसभा और राज्यसभा में सभी राजनीतिक पार्टियों के फ्लोर लीडर्स की बैठक बुलाई है. सरकार ने तृणमूल कांग्रेस (TMC) को छोड़कर नेशनलिस्ट सिटिजन्स पार्टी ऑफ इंडिया (NCPI) में शामिल होने वाले 20 सांसदों को भी बैठक में शामिल होने के लिए न्योता दिया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सरकार ने NCPI सांसदों को दिया न्योता, मानसून सत्र पर आयोजित ऑल पार्टी मीटिंग में चर्चा के लिए बुलाया",
-          "summary": "संसद के मानसून सत्र की शुरुआत सोमवार (20 जुलाई, 2026) से होने वाली है. केंद्र सरकार ने सत्र की शुरुआत से एक दिन पहले रविवार (19 जुलाई, 2026) को लोकसभा और राज्यसभा में सभी राजनीतिक पार्टियों के फ्लोर लीडर्स की बैठक बुलाई है. सरकार ने तृणमूल कांग्रेस (TMC) को छोड़कर नेशनलिस्ट सिटिजन्स पार्टी ऑफ इंडिया (NCPI) में शामिल होने वाले 20 सांसदों को भी बैठक में शामिल होने के लिए न्योता दिया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जहां साल में 6 महीने नहीं निकलता सूरज, उस देश में क्यों लगी सदी की सबसे बड़ी आग? स्पेन और कनाडा का",
-      "url": "https://hindi.news18.com/world/europe-severe-forest-fires-in-north-america-and-europe-norway-spain-and-canada-photogallery-10669465.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-18T14:43:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/North-Spain-Fire-Reuters-2026-07-d30974134697f56475f2b4c6df31abad-1200x800.jpg",
-      "summary": "Spain’s Galicia region यूरोप में पिछले दिनों गर्मी का कहर देखने को मिला है. अमेरिका ने भी इसे महसूस किया है. लेकिन इन दिनों दोनों महाद्वीप लगातार हो रही आगजनी की घटनाओं से जूझ रहे हैं. नॉर्वे, स्पेन और कनाडा में आग लगने की सिलसिला जारी है, जबकि कुछ अन्य देशों में इस पर काबू पाया गया है. जहां साल में 6 महीने नहीं निकलता सूरज, उस देश में क्यों लगी सदी की सबसे बड़ी आग?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जहां साल में 6 महीने नहीं निकलता सूरज, उस देश में क्यों लगी सदी की सबसे बड़ी आग? स्पेन और कनाडा का",
-          "summary": "Spain’s Galicia region यूरोप में पिछले दिनों गर्मी का कहर देखने को मिला है. अमेरिका ने भी इसे महसूस किया है. लेकिन इन दिनों दोनों महाद्वीप लगातार हो रही आगजनी की घटनाओं से जूझ रहे हैं. नॉर्वे, स्पेन और कनाडा में आग लगने की सिलसिला जारी है, जबकि कुछ अन्य देशों में इस पर काबू पाया गया है. जहां साल में 6 महीने नहीं निकलता सूरज, उस देश में क्यों लगी सदी की सबसे बड़ी आग?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "एक रोबोट की एंट्री से ठप्प पड़ने की कगार पर प्लांट, कार कंपनी को होगा ₹1290 करोड़ का नुकसान",
-      "url": "https://hindi.news18.com/world/america-strike-at-usa-hyundai-automobile-company-s-car-plant-due-to-entry-of-robots-sjn-10669217.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-18T14:37:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Hyundai-Ulsan-South-Korea-Reuters-2026-07-b5fd944c656dca95ffca53a2e742b3f9-1200x800.jpg",
-      "summary": "ऑटोमोबाइल इंडस्ट्री में एक बहुत बड़ी और अनोखी जंग छिड़ गई है. हुंडई कंपनी में इंसानों और इंसानों जैसे दिखने वाले रोबोट के बीच विवाद इतना बढ़ गया है. इतिहास में पहली बार रोबोटिक्स और ऑटोमेशन के चक्कर में किसी ऑटो फैक्ट्री में ताला लगने वाला है. दक्षिण कोरिया में मौजूद हुंडई के प्लांट में इस विवाद की वजह से क्या हालात बने हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक रोबोट की एंट्री से ठप्प पड़ने की कगार पर प्लांट, कार कंपनी को होगा ₹1290 करोड़ का नुकसान",
-          "summary": "ऑटोमोबाइल इंडस्ट्री में एक बहुत बड़ी और अनोखी जंग छिड़ गई है. हुंडई कंपनी में इंसानों और इंसानों जैसे दिखने वाले रोबोट के बीच विवाद इतना बढ़ गया है. इतिहास में पहली बार रोबोटिक्स और ऑटोमेशन के चक्कर में किसी ऑटो फैक्ट्री में ताला लगने वाला है. दक्षिण कोरिया में मौजूद हुंडई के प्लांट में इस विवाद की वजह से क्या हालात बने हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका-ईरान युद्ध में नया मोड़, रूस के राष्ट्रपति पुतिन से मिलेंगे ईरान के सुप्रीम लीडर मोजतबा",
-      "url": "https://www.patrika.com/world-news/iran-supreme-leader-mojtaba-khamenei-first-meeting-with-vladimir-putin-20758995",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-18T14:29:03+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Russia-Iran-Relations.webp",
-      "summary": "Russia-Iran Relations Latest Update: अमेरिका और ईरान के बीच भीषण युद्ध जारी है। अमेरिकी हमले के बाद आज शनिवार सुबह ईरान ने कुवैत को निशाना बनाया। उसका कहना था कि मिडिल-ईस्ट में जहां भी अमेरिकी सैन्य ठिकाने रहेंगे, उसे वह नेस्तनाबूद कर देगा। अमेरिका-ईरान युद्ध में नया मोड़, रूस के राष्ट्रपति पुतिन से मिलेंगे ईरान के सुप्रीम लीडर मोजतबा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका-ईरान युद्ध में नया मोड़, रूस के राष्ट्रपति पुतिन से मिलेंगे ईरान के सुप्रीम लीडर मोजतबा",
-          "summary": "Russia-Iran Relations Latest Update: अमेरिका और ईरान के बीच भीषण युद्ध जारी है। अमेरिकी हमले के बाद आज शनिवार सुबह ईरान ने कुवैत को निशाना बनाया। उसका कहना था कि मिडिल-ईस्ट में जहां भी अमेरिकी सैन्य ठिकाने रहेंगे, उसे वह नेस्तनाबूद कर देगा। अमेरिका-ईरान युद्ध में नया मोड़, रूस के राष्ट्रपति पुतिन से मिलेंगे ईरान के सुप्रीम लीडर मोजतबा।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
