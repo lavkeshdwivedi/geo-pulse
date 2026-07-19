@@ -1,6 +1,98 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 19, 2026 12:26 IST
+**Updated:** July 19, 2026 13:16 IST
+
+---
+
+## Europe & Russia
+
+### [Russian missiles strike Kyiv killing one, wounding 13](https://www.thehindu.com/news/international/russia-ukraine-war-missile-attack-on-kyiv-death-toll-injuries/article71240891.ece)
+*The Hindu (International)* - Jul 19, 12:58 IST (iso: 2026-07-19T07:28:16+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/jwqxw1/article71240896.ece/alternates/LANDSCAPE_1200/2026-07-19T065631Z_198702073_RC2UGMA3087T_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG -->
+
+A series of powerful explosions thundered in the ‌night, as Ukraine’s air force warned of a ballistic missile threat; Several non-residential buildings and warehouses were struck in the attack, ​while parked cars ‌and office buildings were on fire in several districts, Kyiv Mayor said Russian missiles strike Kyiv killing one, wounding 13.
+
+### [Hungary's President signs constitutional amendment ending his term](https://www.thehindu.com/news/international/hungarys-president-signs-constitutional-amendment-ending-his-term/article71240536.ece)
+*The Hindu (International)* - Jul 19, 08:05 IST (iso: 2026-07-19T02:35:38+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/dmuuy1/article71240571.ece/alternates/LANDSCAPE_1200/Hungary-President_53821.jpg -->
+
+Mr. Sulyok's term will officially end at midnight on Monday (July 20), when speaker of Parliament, Ágnes Forsthoffer, will automatically assume his duties until lawmakers elect a new President, a task which has a 30-day deadline Hungary's President signs constitutional amendment ending his term.
+
+### ['Sooner Or Later This Problem Will Be On Your Soil': Estonia Pushes Europe To Bar Russian Fighters](https://www.rferl.org/a/estonia-russian-fighters-schengen-joosep-kaasik/33806356.html)
+*Radio Free Europe / Liberty* - Jul 18, 14:07 IST (iso: 2026-07-18T08:37:06+00:00)
+<!-- image: https://gdb.rferl.org/94d41955-af6b-47fd-6043-08decd277110_cx0_cy3_cw0_w1200_h630.jpg -->
+
+As Russia's war against Ukraine reshapes Europe's security landscape, Estonia is closely watching the Kremlin's next moves. In an interview with RFE/RL, Estonia's Undersecretary for Internal Security Joosep Kaasik discusses why Tallinn believes prevention is Europe's best defense. 'Sooner Or Later This Problem Will Be On Your Soil': Estonia Pushes Europe To Bar Russian Fighters.
+
+### ['We Have To Be Realists' Regarding Threats From Russia](https://www.rferl.org/a/estonia-security-russia/33806010.html)
+*Radio Free Europe / Liberty* - Jul 18, 14:05 IST (iso: 2026-07-18T08:35:47+00:00)
+<!-- image: https://gdb.rferl.org/e1dbad01-05e1-476d-3117-08decd1f5434_w1200_h630.jpg -->
+
+Joosep Kaasik, the undersecretary for internal security in Estonia's Ministry of the Interior, told RFE/RL in an interview that his country takes the threat of a potential Russian attack seriously, but is also prepared to deal with the use of soft power by its Eastern neighbor. 'We Have To Be Realists' Regarding Threats From Russia.
+
+### [End-times prophecy jumps from lunatic fringe to US elite belief](https://asiatimes.com/2026/07/end-times-prophecy-jumps-from-lunatic-fringe-to-us-elite-belief/)
+*Asia Times* - Jul 18, 10:20 IST (iso: 2026-07-18T04:50:52+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/End-Times-Armageddon-Christianity.jpg -->
+
+It recently emerged that tech billionaire Peter Thiel is running a secret society that brings together fellow CEOs and billionaires with political leaders. Members reportedly include figures like NATO supreme commander Alexus Grynkewich and the son-in-law of US President Donald Trump, Jared Kushner. Thiel, a German-American entrepreneur and activist, was a co-founder of PayPal and [] The post End End-times prophecy jumps from lunatic fringe to US elite belief.
+
+### [Ukrainians Protest For A Second Day Over Defense Minister's Dismissal](https://www.rferl.org/a/ukraine-protests-defense-minister-fedorov-dismissed/33806035.html)
+*Radio Free Europe / Liberty* - Jul 18, 02:49 IST (iso: 2026-07-17T21:19:21+00:00)
+<!-- image: https://gdb.rferl.org/3550b051-be50-41db-199b-08decd1d5d42_w1200_h630.jpg -->
+
+Protests spread across Ukraine on July 17, two days after President Volodymyr Zelenskyy sacked the country's popular defense minister, Mykhaylo Fedorov, in a cabinet shakeup. Fedorov had reportedly clashed with Ukraine's top military leader over the country's wartime strategy. Ukrainians Protest For A Second Day Over Defense Minister's Dismissal.
+
+### [Ukraine Claims New Strikes On Russian 'Shadow Fleet' Tankers](https://www.rferl.org/a/ukraine-claims-new-strikes-on-russian-shadow-fleet-tankers-/33805813.html)
+*Radio Free Europe / Liberty* - Jul 17, 18:40 IST (iso: 2026-07-17T13:10:54+00:00)
+<!-- image: https://gdb.rferl.org/445363c9-e2cd-42c0-7ee3-08decad17715_w1200_h630.jpg -->
+
+Ukraine said its drones struck 159 vessels it identifies as part of Russia’s shadow fleet during a 12‑day campaign in the Black Sea Kyiv says it has hit 159 vessels linked to Russia's so-called shadow fleet during a 12-day drone campaign in the Black Sea and Sea of Azov. Ukrainian officials have said the operation is aimed at disrupting the transportation of oil and other shipments used to evade international sanctions.
+
+---
+
+## Asia-Pacific
+
+### [Wife of Indian activist Wangchuk asks court to move him to private hospital](https://www.channelnewsasia.com/asia/wife-indian-activist-wangchuk-asks-court-move-him-private-hospital-6263606)
+*Channel News Asia* - Jul 19, 12:58 IST (iso: 2026-07-19T07:28:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--UBMTrWNo--/c_crop,h_450,w_800,x_0,y_20/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-18T024959Z_1_LYNXMPEM6H01P_RTROPTP_3_INDIA-GEN-Z-ACTIVIST.JPG?itok=6YslIBif -->
+
+“Despite repeated requests, the hospital has refused to discharge him or allow us to shift him to a private hospital of our choice,” Gitanjali Angmo said in a post on X on Sunday (Jul 19). Wife of Indian activist Wangchuk asks court to move him to private hospital.
+
+### ['Is China Taking Over?': Beijing's Presence Sparks Debate In Kyrgyzstan](https://www.rferl.org/a/china-central-asia-kyrgyzstan-jobs-resources/33806823.html)
+*Radio Free Europe / Liberty* - Jul 19, 12:51 IST (iso: 2026-07-19T07:21:16+00:00)
+<!-- image: https://gdb.rferl.org/e144fb96-37de-4dc2-8fc0-08debadc418c_w1200_h630.jpg -->
+
+China’s expanding role in Kyrgyzstan has become increasingly hard to ignore. The situation has fueled concerns over jobs, land, natural resources, and national sovereignty, with many ordinary Kyrgyz expressing concerns that the nation's leaders are not taking their interests into account. 'Is China Taking Over?': Beijing's Presence Sparks Debate In Kyrgyzstan.
+
+### [Which Singapore celebrities own cafes? 35 stars who have gone into F&B, from Ben Yeo to JJ Lin and](https://www.channelnewsasia.com/entertainment/which-singapore-celebrities-own-cafes-35-stars-who-have-gone-fb-ben-yeo-jj-lin-and-rebecca-lim-6262801)
+*Channel News Asia* - Jul 19, 05:30 IST (iso: 2026-07-19T00:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--Tpz9tPdV--/c_crop,h_287,w_510,x_0,y_196/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/ben_yeo_sliced_fish_soup.jpg?itok=l77ORXtL -->
+
+Running a restaurant isn't easy, even if you're famous. From Ben Yeo's ever-evolving restaurant empire to Taufik Batisah, The Muttons and Jeanette Aw, here's a roundup of the local celebrities who've opened everything from hawker stalls to cafes, steak restaurants and online food businesses. Which Singapore celebrities own cafes? 35 stars who have gone into F&B, from Ben Yeo to JJ Lin and.
+
+### [Bangladesh shelves India reset as tensions trump trust](https://asiatimes.com/2026/07/bangladesh-shelves-india-reset-as-tensions-trump-trust/)
+*Asia Times* - Jul 18, 09:41 IST (iso: 2026-07-18T04:11:30+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Bangladesh-Tarique-Rahman.jpg -->
+
+Driven by shifting domestic political dynamics and a transforming regional landscape, Bangladesh’s new prime minister, Tarique Rahman, who came to power after a landslide in February this year, has shelved plans to visit its most consequential neighbor, India, for the time being. Senior officials at the Ministry of Foreign Affairs and diplomatic sources familiar with [] The post Bangladesh shelve.
+
+### [China’s anti-stealth shield has a radar reality gap](https://asiatimes.com/2026/07/chinas-anti-stealth-shield-has-a-radar-reality-gap/)
+*Asia Times* - Jul 18, 09:05 IST (iso: 2026-07-18T03:35:47+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/China-Radar.jpg -->
+
+China is building an increasingly sophisticated anti-stealth network, but its effectiveness may depend less on individual radar performance than on its ability to integrate, maintain and operate the wider system under combat pressure. Last month, the China Aerospace Studies Institute (CASI) released a report arguing that China’s drive to counter and replicate US stealth technology [] The post Chi China’s anti-stealth shield has a radar reality gap.
+
+### [Australia updates travel advice for Laos as charges announced over mass methanol poisoning](https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers)
+*The Guardian* - Jul 18, 03:06 IST (iso: 2026-07-17T21:36:05+00:00)
+<!-- image: https://i.guim.co.uk/img/media/0d2d72ae4e995e42bf28f134c5c0186101686aca/205_0_2117_1694/master/2117.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebb47580e8316bef8ea54efe9245c9ba -->
+
+Distillery owner could face only three months in jail over alleged poisoning of Australian teenagersGet our breaking news email, free app or daily news podcastThe Australian government has increased its travel alert level for Laos, advising travellers to “exercise a high degree of caution” due to the risk of methanol poisoning. Australia updates travel advice for Laos as charges announced over mass methanol poisoning.
+
+### [Biodiversity fears as human-bred hybrid fish integrate into Philippines lake](https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake)
+*The Guardian* - Jul 17, 19:30 IST (iso: 2026-07-17T14:00:31+00:00)
+<!-- image: https://i.guim.co.uk/img/media/93a89474678a86ed946597a7aeb48c0c3c551743/406_0_4022_3217/master/4022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8e389d227455f6f9eeff94a599cdd30 -->
+
+Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humansEscaped ornamental aquarium fish have integrated into a local ecosystem in the Philippines, but scientists say they may be threatening the native biodiversity of the lake. Flowerhorn cichlids – human-bred hybrid fish prized for their bright-gold colour and prominent head humps – are bel Biodiversity fears as human-bred hybrid fish integrate into Philippines lake.
 
 ---
 
@@ -53,98 +145,6 @@ The UN Secretary-General remains deeply concerned by the continuing deadly milit
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/17-07-2026-WFP-Djibouti.jpg/image770x420cropped.jpg -->
 
 More than 256,000 people in Djibouti – around 25 per cent of the population – are likely to face crisis or emergency level hunger over the coming months, a UN-backed global food monitoring network warned in a new report released Friday. Emergency alert spotlights sharp hunger spike.
-
----
-
-## Europe & Russia
-
-### [Hungary's President signs constitutional amendment ending his term](https://www.thehindu.com/news/international/hungarys-president-signs-constitutional-amendment-ending-his-term/article71240536.ece)
-*The Hindu (International)* - Jul 19, 08:05 IST (iso: 2026-07-19T02:35:38+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/dmuuy1/article71240571.ece/alternates/LANDSCAPE_1200/Hungary-President_53821.jpg -->
-
-Mr. Sulyok's term will officially end at midnight on Monday (July 20), when speaker of Parliament, Ágnes Forsthoffer, will automatically assume his duties until lawmakers elect a new President, a task which has a 30-day deadline Hungary's President signs constitutional amendment ending his term.
-
-### ['Sooner Or Later This Problem Will Be On Your Soil': Estonia Pushes Europe To Bar Russian Fighters](https://www.rferl.org/a/estonia-russian-fighters-schengen-joosep-kaasik/33806356.html)
-*Radio Free Europe / Liberty* - Jul 18, 14:07 IST (iso: 2026-07-18T08:37:06+00:00)
-<!-- image: https://gdb.rferl.org/94d41955-af6b-47fd-6043-08decd277110_cx0_cy3_cw0_w1200_h630.jpg -->
-
-As Russia's war against Ukraine reshapes Europe's security landscape, Estonia is closely watching the Kremlin's next moves. In an interview with RFE/RL, Estonia's Undersecretary for Internal Security Joosep Kaasik discusses why Tallinn believes prevention is Europe's best defense. 'Sooner Or Later This Problem Will Be On Your Soil': Estonia Pushes Europe To Bar Russian Fighters.
-
-### ['We Have To Be Realists' Regarding Threats From Russia](https://www.rferl.org/a/estonia-security-russia/33806010.html)
-*Radio Free Europe / Liberty* - Jul 18, 14:05 IST (iso: 2026-07-18T08:35:47+00:00)
-<!-- image: https://gdb.rferl.org/e1dbad01-05e1-476d-3117-08decd1f5434_w1200_h630.jpg -->
-
-Joosep Kaasik, the undersecretary for internal security in Estonia's Ministry of the Interior, told RFE/RL in an interview that his country takes the threat of a potential Russian attack seriously, but is also prepared to deal with the use of soft power by its Eastern neighbor. 'We Have To Be Realists' Regarding Threats From Russia.
-
-### [End-times prophecy jumps from lunatic fringe to US elite belief](https://asiatimes.com/2026/07/end-times-prophecy-jumps-from-lunatic-fringe-to-us-elite-belief/)
-*Asia Times* - Jul 18, 10:20 IST (iso: 2026-07-18T04:50:52+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/End-Times-Armageddon-Christianity.jpg -->
-
-It recently emerged that tech billionaire Peter Thiel is running a secret society that brings together fellow CEOs and billionaires with political leaders. Members reportedly include figures like NATO supreme commander Alexus Grynkewich and the son-in-law of US President Donald Trump, Jared Kushner. Thiel, a German-American entrepreneur and activist, was a co-founder of PayPal and [] The post End End-times prophecy jumps from lunatic fringe to US elite belief.
-
-### [Ukrainians Protest For A Second Day Over Defense Minister's Dismissal](https://www.rferl.org/a/ukraine-protests-defense-minister-fedorov-dismissed/33806035.html)
-*Radio Free Europe / Liberty* - Jul 18, 02:49 IST (iso: 2026-07-17T21:19:21+00:00)
-<!-- image: https://gdb.rferl.org/3550b051-be50-41db-199b-08decd1d5d42_w1200_h630.jpg -->
-
-Protests spread across Ukraine on July 17, two days after President Volodymyr Zelenskyy sacked the country's popular defense minister, Mykhaylo Fedorov, in a cabinet shakeup. Fedorov had reportedly clashed with Ukraine's top military leader over the country's wartime strategy. Ukrainians Protest For A Second Day Over Defense Minister's Dismissal.
-
-### [Ukraine Claims New Strikes On Russian 'Shadow Fleet' Tankers](https://www.rferl.org/a/ukraine-claims-new-strikes-on-russian-shadow-fleet-tankers-/33805813.html)
-*Radio Free Europe / Liberty* - Jul 17, 18:40 IST (iso: 2026-07-17T13:10:54+00:00)
-<!-- image: https://gdb.rferl.org/445363c9-e2cd-42c0-7ee3-08decad17715_w1200_h630.jpg -->
-
-Ukraine said its drones struck 159 vessels it identifies as part of Russia’s shadow fleet during a 12‑day campaign in the Black Sea Kyiv says it has hit 159 vessels linked to Russia's so-called shadow fleet during a 12-day drone campaign in the Black Sea and Sea of Azov. Ukrainian officials have said the operation is aimed at disrupting the transportation of oil and other shipments used to evade international sanctions.
-
-### [Thunderstorms strike across Europe amid record heatwave](https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave)
-*The Guardian* - Jul 17, 14:05 IST (iso: 2026-07-17T08:35:56+00:00)
-<!-- image: https://i.guim.co.uk/img/media/fa9575b9199e2eaf21b2b30447763e5ad422a718/381_393_890_712/master/890.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eac530ef4d90ccda96bd227969aae270 -->
-
-Storms are typical during intense heat but this week’s have been extreme. Plus, deadly monsoon rains in BangladeshHailstones the size of golf balls have been seen in French villages as, on top of the exceptional European heatwave, thunderstorms struck across certain parts of Europe. Plus, deadly monsoon rains in BangladeshHailstones the size of golf balls have been seen in French villages as, on top of the exceptional European heatwave, thunderstorms have struck across parts of Europe. While thunderstorms are typical during and after a period of extreme heat, the storms across countries such as France, G.
-
-### [An Alleged Russian FSB Hacker Traveled To Thailand. Now He's Facing 10 Years In A US Prison.](https://www.rferl.org/a/russia-hacker-fsb-thailand-dutch-us-cyber-fraud/33805051.html)
-*Radio Free Europe / Liberty* - Jul 17, 12:07 IST (iso: 2026-07-17T06:37:54+00:00)
-<!-- image: https://gdb.rferl.org/d44fd399-3afe-4a4e-7e83-08decad17715_w1200_h630.jpg -->
-
-What’s unusual about the arrest of Denis Obrezko is how relatively rare it is for Russian hackers to be detained abroad these days. What’s also unusual: Obrezko used to work for Russia’s FSB. And it also appears he was careless. An Alleged Russian FSB Hacker Traveled To Thailand. Now He's Facing 10 Years In A US Prison.
-
----
-
-## Asia-Pacific
-
-### [Which Singapore celebrities own cafes? 35 stars who have gone into F&B, from Ben Yeo to JJ Lin and](https://www.channelnewsasia.com/entertainment/which-singapore-celebrities-own-cafes-35-stars-who-have-gone-fb-ben-yeo-jj-lin-and-rebecca-lim-6262801)
-*Channel News Asia* - Jul 19, 05:30 IST (iso: 2026-07-19T00:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Tpz9tPdV--/c_crop,h_287,w_510,x_0,y_196/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/ben_yeo_sliced_fish_soup.jpg?itok=l77ORXtL -->
-
-Running a restaurant isn't easy, even if you're famous. From Ben Yeo's ever-evolving restaurant empire to Taufik Batisah, The Muttons and Jeanette Aw, here's a roundup of the local celebrities who've opened everything from hawker stalls to cafes, steak restaurants and online food businesses. Which Singapore celebrities own cafes? 35 stars who have gone into F&B, from Ben Yeo to JJ Lin and.
-
-### [Bangladesh shelves India reset as tensions trump trust](https://asiatimes.com/2026/07/bangladesh-shelves-india-reset-as-tensions-trump-trust/)
-*Asia Times* - Jul 18, 09:41 IST (iso: 2026-07-18T04:11:30+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Bangladesh-Tarique-Rahman.jpg -->
-
-Driven by shifting domestic political dynamics and a transforming regional landscape, Bangladesh’s new prime minister, Tarique Rahman, who came to power after a landslide in February this year, has shelved plans to visit its most consequential neighbor, India, for the time being. Senior officials at the Ministry of Foreign Affairs and diplomatic sources familiar with [] The post Bangladesh shelve.
-
-### [China’s anti-stealth shield has a radar reality gap](https://asiatimes.com/2026/07/chinas-anti-stealth-shield-has-a-radar-reality-gap/)
-*Asia Times* - Jul 18, 09:05 IST (iso: 2026-07-18T03:35:47+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/China-Radar.jpg -->
-
-China is building an increasingly sophisticated anti-stealth network, but its effectiveness may depend less on individual radar performance than on its ability to integrate, maintain and operate the wider system under combat pressure. Last month, the China Aerospace Studies Institute (CASI) released a report arguing that China’s drive to counter and replicate US stealth technology [] The post Chi China’s anti-stealth shield has a radar reality gap.
-
-### [Australia updates travel advice for Laos as charges announced over mass methanol poisoning](https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers)
-*The Guardian* - Jul 18, 03:06 IST (iso: 2026-07-17T21:36:05+00:00)
-<!-- image: https://i.guim.co.uk/img/media/0d2d72ae4e995e42bf28f134c5c0186101686aca/205_0_2117_1694/master/2117.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebb47580e8316bef8ea54efe9245c9ba -->
-
-Distillery owner could face only three months in jail over alleged poisoning of Australian teenagersGet our breaking news email, free app or daily news podcastThe Australian government has increased its travel alert level for Laos, advising travellers to “exercise a high degree of caution” due to the risk of methanol poisoning. Australia updates travel advice for Laos as charges announced over mass methanol poisoning.
-
-### [Biodiversity fears as human-bred hybrid fish integrate into Philippines lake](https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake)
-*The Guardian* - Jul 17, 19:30 IST (iso: 2026-07-17T14:00:31+00:00)
-<!-- image: https://i.guim.co.uk/img/media/93a89474678a86ed946597a7aeb48c0c3c551743/406_0_4022_3217/master/4022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8e389d227455f6f9eeff94a599cdd30 -->
-
-Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humansEscaped ornamental aquarium fish have integrated into a local ecosystem in the Philippines, but scientists say they may be threatening the native biodiversity of the lake. Flowerhorn cichlids – human-bred hybrid fish prized for their bright-gold colour and prominent head humps – are bel Biodiversity fears as human-bred hybrid fish integrate into Philippines lake.
-
-### [China’s desert mock-up rehearses a US warship’s death at sea](https://asiatimes.com/2026/07/chinas-desert-mock-up-rehearses-a-us-warships-death-at-sea/)
-*Asia Times* - Jul 17, 11:09 IST (iso: 2026-07-17T05:39:59+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Arleigh-Burke-Class-Destroyer.jpg -->
-
-This month, multiple media outlets reported that satellite imagery showed a detailed, full-scale replica of a US Navy Arleigh Burke-class guided-missile destroyer in China’s remote Taklamakan Desert. Construction of the 155-meter mock-up began around October 2025 at the Ruoqiang Test Range in Xinjiang and was completed within six months. Located 2,700 kilometers from the nearest [] The post China China’s desert mock-up rehearses a US warship’s death at sea.
 
 ---
 
