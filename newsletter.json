@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-19T10:34:03.193598+00:00",
+  "generated_at": "2026-07-19T11:27:08.274386+00:00",
   "article_count": 50,
-  "total_unique_count": 276,
+  "total_unique_count": 279,
   "digest": {
-    "en": "Russian missiles strike Kyiv killing one, wounding 13, while the situation in Ukraine remains volatile. Meanwhile, a blockade at the Hormuz Strait has sparked fears of a global crisis, as tensions escalate between Iran and the US. The situation in Cuba is also deteriorating.",
-    "hi": "पाकिस्तान में पानी की कमी के कारण बढ़ता गुस्सा सिंध और बलूचिस्तान में सियासी बारूद बन गया है। पानी की कमी के कारण खेत सूखे हुए हैं और नहरें खाली हैं। पानी की कमी के कारण पाकिस्तान में बढ़ता हुआ गुस्सा सियासी बारूद बन गया है।"
+    "en": "Russian missiles strike Kyiv. Hungary's President signs a constitutional amendment ending his term. Estonia pushes Europe to bar Russian fighters.",
+    "hi": "गुयाना में एक बड़ा नाव हादसा हुआ है, जिसमें 116 लोगों को ले जा रही फेरी समंदर में डूब गई। बचाव अभियान जारी है। भारतीय सेना के नक्शे पर 48 लाल पिन लगे हैं।"
   },
   "articles": [
     {
@@ -284,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "An Alleged Russian FSB Hacker Traveled To Thailand. Now He's Facing 10 Years In A US Prison.",
-      "url": "https://www.rferl.org/a/russia-hacker-fsb-thailand-dutch-us-cyber-fraud/33805051.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-17T06:37:54+00:00",
-      "image_url": "https://gdb.rferl.org/d44fd399-3afe-4a4e-7e83-08decad17715_w1200_h630.jpg",
-      "summary": "What’s unusual about the arrest of Denis Obrezko is how relatively rare it is for Russian hackers to be detained abroad these days. What’s also unusual: Obrezko used to work for Russia’s FSB. And it also appears he was careless. An Alleged Russian FSB Hacker Traveled To Thailand. Now He's Facing 10 Years In A US Prison.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "China’s desert mock-up rehearses a US warship’s death at sea",
       "url": "https://asiatimes.com/2026/07/chinas-desert-mock-up-rehearses-a-us-warships-death-at-sea/",
       "source": "Asia Times",
@@ -306,6 +294,90 @@
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "India’s AI moment more about deployment than discovery",
+      "url": "https://asiatimes.com/2026/07/indias-ai-moment-more-about-deployment-than-discovery/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-17T04:58:42+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/India-AI-Technology-Office.jpg",
+      "summary": "For three decades, India was the world’s back office. During the next three decades, it may become the world’s AI workshop. That possibility lies behind one of the most consequential questions facing India’s economy. Artificial intelligence threatens the very industry that helped transform India into a global technology powerhouse.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "गुयाना में बड़ा नाव हादसा, 116 लोगों को ले जा रही फेरी समंदर में डूबी, बचाव अभियान जारी",
+      "url": "https://hindi.news18.com/world/rest-of-world-guyana-passenger-ferry-sinks-with-carrying-116-people-53-rescued-update-2-10671681.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-19T11:25:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/guyana-ferry-2026-07-879a5f7938c8e2749d6a2f4738d9fa89-1200x800.jpg",
+      "summary": "On 12 April 2026 a ferry carrying 116 passengers sank off the coast of Georgetown, Guyana. The rescue operation recovered 53 survivors, while the remaining 63 are still missing. Search teams continue to comb the waters near the wreck site. Gyuana Ferry Sinks: गुयाना में एक दर्दनाक हादसा हुआ है, जिसमें 116 लोगों की जान खतरे में पड़ गई है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गुयाना में बड़ा नाव हादसा, 116 लोगों को ले जा रही फेरी समंदर में डूबी, बचाव अभियान जारी",
+          "summary": "On 12 April 2026 a ferry carrying 116 passengers sank off the coast of Georgetown, Guyana. The rescue operation recovered 53 survivors, while the remaining 63 are still missing. Search teams continue to comb the waters near the wreck site. Gyuana Ferry Sinks: गुयाना में एक दर्दनाक हादसा हुआ है, जिसमें 116 लोगों की जान खतरे में पड़ गई है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "भारतीय सेना के नक्शे पर लगे 48 लाल पिन! कैसे छिपाया गया कारगिल का पूरा सच, जानिए पूर्व आर्मी चीफ की",
+      "url": "https://hindi.news18.com/news/nation/kissa-kargil-ka-indian-army-war-story-1999-general-vp-malik-pakistan-infiltration-intelligence-failure-opration-vijay-10671546.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-19T10:49:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/kissa-kargil-ka-2026-07-501757d487dd37bbd65254a6efaf5d12-1200x800.jpg",
+      "summary": "kargil War: पाकिस्‍तानी सैनिकों ने ऑपरेशन बद्र को अंजाम देते हुए कारगिल में घुसपैठ शुरू कर दी थी. वहीं, दुश्‍मन की इस दस्‍तक पर कारगिल से लेकर दिल्‍ली के सेना मुख्‍यालय तक कई ऐसे घटनाक्रम हुए, जो किसी को भी चौंकाने वाले हैं. इस घटनाक्रम को लेकर उस समय के सेना प्रमुख वेद प्रकाश मलिक ने कई अहम खुलासे किए हैं. जानिए, कारगिल के पूरे सच की कहानी, पूर्व सेना प्रमुख जनरल वेद प्रकाश मलिक की जुबानी.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारतीय सेना के नक्शे पर लगे 48 लाल पिन! कैसे छिपाया गया कारगिल का पूरा सच, जानिए पूर्व आर्मी चीफ की",
+          "summary": "kargil War: पाकिस्‍तानी सैनिकों ने ऑपरेशन बद्र को अंजाम देते हुए कारगिल में घुसपैठ शुरू कर दी थी. वहीं, दुश्‍मन की इस दस्‍तक पर कारगिल से लेकर दिल्‍ली के सेना मुख्‍यालय तक कई ऐसे घटनाक्रम हुए, जो किसी को भी चौंकाने वाले हैं. इस घटनाक्रम को लेकर उस समय के सेना प्रमुख वेद प्रकाश मलिक ने कई अहम खुलासे किए हैं. जानिए, कारगिल के पूरे सच की कहानी, पूर्व सेना प्रमुख जनरल वेद प्रकाश मलिक की जुबानी.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दुनिया में फिर गूंजी इंडियन एयर फोर्स की दहाड़, चीन को पछाड़ा, बना तीसरी बड़ी ताकत",
+      "url": "https://hindi.news18.com/world/america-indian-air-force-surpassed-china-to-become-the-third-position-global-air-powers-ranking-sjn-10671474.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-19T10:42:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Indian-Air-Force-2026-07-861c4c2728391296669c392acbc96623-1200x800.jpg",
+      "summary": "भारतीय वायुसेना दुनिया की सबसे ताकतवर स्वतंत्र वायुसेनाओं में तीसरे स्थान पर पहुंच गई है. उसे 69.4 का ट्रू वैल्यू रेटिंग स्कोर मिला है. अगर दुनिया की सभी सैन्य विमानन शाखाओं को एक साथ देखा जाए, तो भारतीय वायुसेना छठे स्थान पर है. खास बात यह है कि इस रैंकिंग में भारत ने चीन की वायुसेना को भी पीछे छोड़ दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुनिया में फिर गूंजी इंडियन एयर फोर्स की दहाड़, चीन को पछाड़ा, बना तीसरी बड़ी ताकत",
+          "summary": "भारतीय वायुसेना दुनिया की सबसे ताकतवर स्वतंत्र वायुसेनाओं में तीसरे स्थान पर पहुंच गई है. उसे 69.4 का ट्रू वैल्यू रेटिंग स्कोर मिला है. अगर दुनिया की सभी सैन्य विमानन शाखाओं को एक साथ देखा जाए, तो भारतीय वायुसेना छठे स्थान पर है. खास बात यह है कि इस रैंकिंग में भारत ने चीन की वायुसेना को भी पीछे छोड़ दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली कैसे बन गया न्यूयॉर्क, वॉशिंगटन? हवा ऐसी कि सांस लेना तक हुआ मुश्किल",
+      "url": "https://hindi.news18.com/world/america-why-new-york-washington-are-having-high-aqi-among-worlds-most-polluted-cities-ws-l-10671368.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-19T10:35:01+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/air-quality-2026-07-a7f7a334069520b1507a04779987d5e9-1200x800.jpg",
+      "summary": "Why Washington-New York are Polluted: दुनिया के कुछ सबसे साफ हवा वाले देशों में शुमार अमेरिका और कनाडा में आखिर कैसे हवा इतनी प्रदूषित हो गई कि उनका नाम दुनिया के सबसे प्रदूषित शहरों में लिया जाने लगा है. आखिर इन जगहों की हवा में कैसे जगह घुल गया? दिल्ली कैसे बन गया न्यूयॉर्क, वॉशिंगटन? हवा ऐसी कि सांस लेना तक हुआ मुश्किल।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्ली कैसे बन गया न्यूयॉर्क, वॉशिंगटन? हवा ऐसी कि सांस लेना तक हुआ मुश्किल",
+          "summary": "Why Washington-New York are Polluted: दुनिया के कुछ सबसे साफ हवा वाले देशों में शुमार अमेरिका और कनाडा में आखिर कैसे हवा इतनी प्रदूषित हो गई कि उनका नाम दुनिया के सबसे प्रदूषित शहरों में लिया जाने लगा है. आखिर इन जगहों की हवा में कैसे जगह घुल गया? दिल्ली कैसे बन गया न्यूयॉर्क, वॉशिंगटन? हवा ऐसी कि सांस लेना तक हुआ मुश्किल।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "सूखे खेत, खाली नहरें और बढ़ता गुस्सा... पाकिस्तान में पानी बना सियासी बारूद, सिंध और बलूचिस्तान में",
@@ -322,24 +394,6 @@
           "title": "सूखे खेत, खाली नहरें और बढ़ता गुस्सा... पाकिस्तान में पानी बना सियासी बारूद, सिंध और बलूचिस्तान में",
           "summary": "गंभीर आर्थिक मंदी और बुनियादी प्रशासनिक लाचारी से जूझ रहे पाकिस्तान के भीतर अब दो प्रमुख प्रांतों के बीच पानी के समान बंटवारे को लेकर टकराव शुरू हो गया है. पानी के हक को लेकर सिंध और बलूचिस्तान की सरकारें सीधे आमने-सामने आ चुकी हैं. सूखे खेत, खाली नहरें और बढ़ता गुस्सा पाकिस्तान में पानी बना सियासी बारूद, सिंध और बलूचिस्तान में।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने अमेरिका के MQ-9 ड्रोन गिराने का किया दावा, कुवैत सबसे ज्यादा बन रहा निशाना",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-attack-live-news-airstrikes-iran-after-jordan-attack-two-american-soldiers-killed-hormuz-2-livenews-10670136.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-19T10:16:01+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-war-live-2026-07-9dffa331b569be937c7d4516f656fbcf-1200x800.jpg",
-      "summary": "Iran Attack On Jordan US Base: जॉर्डन में दो अमेरिकी सैनिकों की मौत के बाद अमेरिका ने ईरान के खिलाफ नया सैन्य अभियान शुरू कर दिया है. भारतीय समय के अनुसार रविवार सुबह 4:30 बजे अमेरिकी सेना ने राष्ट्रपति के निर्देश पर ईरान में कई हवाई हमले किए. अमेरिका का कहना है कि इन हमलों का उद्देश्य IRGC की सैन्य क्षमता को कमजोर करना है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने अमेरिका के MQ-9 ड्रोन गिराने का किया दावा, कुवैत सबसे ज्यादा बन रहा निशाना",
-          "summary": "Iran Attack On Jordan US Base: जॉर्डन में दो अमेरिकी सैनिकों की मौत के बाद अमेरिका ने ईरान के खिलाफ नया सैन्य अभियान शुरू कर दिया है. भारतीय समय के अनुसार रविवार सुबह 4:30 बजे अमेरिकी सेना ने राष्ट्रपति के निर्देश पर ईरान में कई हवाई हमले किए. अमेरिका का कहना है कि इन हमलों का उद्देश्य IRGC की सैन्य क्षमता को कमजोर करना है.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -542,6 +596,60 @@
       }
     },
     {
+      "title": "TMC के बागी सांसदों को सर्वदलीय बैठक में बुलाने पर भड़का विपक्ष, पहले किया वॉकआउट, फिर हुआ शामिल",
+      "url": "https://www.abplive.com/news/india/tmc-rebel-mps-all-party-meeting-opposition-walkout-opposition-bjp-congress-samajwadi-party-3162231",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-19T06:11:27+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/19/8e35ea9349c619f0cf7b60b37c1f28381784441809932425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "संसद सत्र से पहले बुलाई गई सर्वदलीय बैठक में उस समय विवाद खड़ा हो गया, जब तृणमूल कांग्रेस (टीएमसी) के बागी सांसदों को भी बैठक में शामिल होने के लिए बुलाया गया. इस पर विपक्षी दलों ने कड़ा विरोध जताया और सिंबॉलिक वॉकआउट कर दिया. हालांकि, प्रेस कॉन्फ्रेंस करने के बाद विपक्षी नेता दोबारा बैठक में शामिल हो गए.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "TMC के बागी सांसदों को सर्वदलीय बैठक में बुलाने पर भड़का विपक्ष, पहले किया वॉकआउट, फिर हुआ शामिल",
+          "summary": "संसद सत्र से पहले बुलाई गई सर्वदलीय बैठक में उस समय विवाद खड़ा हो गया, जब तृणमूल कांग्रेस (टीएमसी) के बागी सांसदों को भी बैठक में शामिल होने के लिए बुलाया गया. इस पर विपक्षी दलों ने कड़ा विरोध जताया और सिंबॉलिक वॉकआउट कर दिया. हालांकि, प्रेस कॉन्फ्रेंस करने के बाद विपक्षी नेता दोबारा बैठक में शामिल हो गए.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सोनम वांगचुक अस्पताल में, CJP ने 20 जुलाई को किया मार्च का ऐलान, आगे क्या होगा, एक्सपर्ट्स ने बताया",
+      "url": "https://www.abplive.com/news/india/sonam-wangchuk-hospitalised-cjp-abhijit-dipke-march-against-modi-government-ann-3162214",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-19T06:08:26+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/19/86caf9c149f0beafaddf9b01fa6e681d17844407710901200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "CJP नेता अभिजीत दीपके ने 20 जुलाई को जंतर-मंतर पर मार्च का ऐलान किया, जिसके बाद सोनम वांगचुक अस्पताल में भर्ती हो गए। उनकी सेहत के कारण आंदोलन का भविष्य अनिश्चित है। CJP के नेताओं ने आंदोलन को नए स्वरूप में आगे बढ़ाने की योजना बनाई है। NEET पेपर लीक मामले में केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफे की मांग को लेकर जंतर-मंतर पर चल रहा कॉकरोच जनता पार्टी (CJP) का आंदोलन नए मोड़ पर पहुंच गया है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सोनम वांगचुक अस्पताल में, CJP ने 20 जुलाई को किया मार्च का ऐलान, आगे क्या होगा, एक्सपर्ट्स ने बताया",
+          "summary": "CJP नेता अभिजीत दीपके ने 20 जुलाई को जंतर-मंतर पर मार्च का ऐलान किया, जिसके बाद सोनम वांगचुक अस्पताल में भर्ती हो गए। उनकी सेहत के कारण आंदोलन का भविष्य अनिश्चित है। CJP के नेताओं ने आंदोलन को नए स्वरूप में आगे बढ़ाने की योजना बनाई है। NEET पेपर लीक मामले में केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफे की मांग को लेकर जंतर-मंतर पर चल रहा कॉकरोच जनता पार्टी (CJP) का आंदोलन नए मोड़ पर पहुंच गया है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जम्मू-कश्मीर में बाढ़ संकट, एक्शन में अमित शाह, LG और CM उमर अब्दुल्ला को किया फोन",
+      "url": "https://www.abplive.com/news/india/amit-shah-reviewed-flood-situation-in-jammu-and-kashmir-rajouri-spoke-with-manoj-sinha-cm-omar-abdullah-ann-3162226",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-19T06:00:54+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/19/6c740e43e1c22aa6a526aa8ef0efebe617844413712981115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "केंद्रीय गृह मंत्री अमित शाह ने जम्मू-कश्मीर के राजौरी जिले में भारी बारिश के बाद पैदा हुए बाढ़ की स्थिति का जायजा लिया। उन्होंने उपराज्यपाल मनोज सिन्हा और मुख्यमंत्री उमर अब्दुल्ला से फोन पर बातचीत की। उन्होंने जम्मू-कश्मीर के उपराज्यपाल मनोज सिन्हा और मुख्यमंत्री उमर अब्दुल्ला से फोन पर बातचीत कर हालात की डिटेल जानकारी हासिल की. राजौरी जिले में रात भर हुई तेज बारिश के कारण कई इलाकों में बाढ़ जैसी स्थिति पैदा हो गई है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जम्मू-कश्मीर में बाढ़ संकट, एक्शन में अमित शाह, LG और CM उमर अब्दुल्ला को किया फोन",
+          "summary": "केंद्रीय गृह मंत्री अमित शाह ने जम्मू-कश्मीर के राजौरी जिले में भारी बारिश के बाद पैदा हुए बाढ़ की स्थिति का जायजा लिया। उन्होंने उपराज्यपाल मनोज सिन्हा और मुख्यमंत्री उमर अब्दुल्ला से फोन पर बातचीत की। उन्होंने जम्मू-कश्मीर के उपराज्यपाल मनोज सिन्हा और मुख्यमंत्री उमर अब्दुल्ला से फोन पर बातचीत कर हालात की डिटेल जानकारी हासिल की. राजौरी जिले में रात भर हुई तेज बारिश के कारण कई इलाकों में बाढ़ जैसी स्थिति पैदा हो गई है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "नेतन्याहू वार क्रिमिनल हैं अमेरिका में उन्हें गिरफ्तार कर लेना चाहिए, ममदानी का इजरायली पीएम पर",
       "url": "https://www.patrika.com/world-news/new-york-city-mayor-zohran-mamdani-attack-on-israeli-pm-netanyahu-war-criminal-should-be-arrested-in-us-20759736",
       "source": "Patrika (World)",
@@ -596,164 +704,56 @@
       }
     },
     {
-      "title": "'भारत ने धूल चटाई, पाकिस्तान जीत का जश्न मनाता रहा' इमरान की बहन ने मुनीर की खोली पोल",
-      "url": "https://hindi.news18.com/world/pakistan-imran-khan-sister-noreen-niazi-operation-sindoor-pakistan-army-claim-10670549.html",
-      "source": "News18 Hindi (World)",
+      "title": "बंगाल में अभिषेक बनर्जी के दफ्तर पर चला बुलडोजर, लॉकेट चटर्जी बोलीं- 'TMC की सरकार में...'",
+      "url": "https://www.abplive.com/news/india/bjp-leader-locket-chatterjee-reacted-to-anti-encroachment-action-taken-against-tmc-mp-abhishek-banerjee-office-in-amtala-3162200",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-07-19T04:56:19+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/asim-munir-7-2026-07-6da894c0ad884f29314176edc2efec46-1200x800.jpg",
-      "summary": "नूरीन नियाजी ने कहा कि भारत के ऑपरेशन सिंदूर ने पाकिस्तान को बड़ा रणनीतिक झटका लगाया, जिसे छिपाने के लिए सेना जीत की कहानी गढ़ रही है. उन्होंने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के हस्तक्षेप को भी पाकिस्तान को बचाने का कारण बताया. Pakistan Asim Munir: जेल में बंद पूर्व पाकिस्तानी प्रधानमंत्री इमरान खान की बहन नूरीन नियाजी ने पाकिस्तान की सेना पर गंभीर आरोप लगाए हैं.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-07-19T05:22:58+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/19/10dc70539cd8927f4b48310f22d7990117844373564241115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पश्चिम बंगाल में तृणमूल कांग्रेस के महासचिव अभिषेक बनर्जी के ऑफिस पर प्रशासन की कार्रवाई के बाद भारतीय जनता पार्टी की प्रदेश महासचिव लॉकेट चटर्जी ने सरकार की कार्रवाई का समर्थन किया। उन्होंने कहा कि भ्रष्टाचार और अवैध निर्माण के खिलाफ सरकार की कार्रवाई आगे भी जारी रहेगी। तृणमूल कांग्रेस के महासचिव अभिषेक बनर्जी के ऑफिस पर प्रशासन की तरफ से की गई कार्रवाई के बाद पश्चिम बंगाल की राजनीति में नया विवाद शुरू हो गया है.",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'भारत ने धूल चटाई, पाकिस्तान जीत का जश्न मनाता रहा' इमरान की बहन ने मुनीर की खोली पोल",
-          "summary": "नूरीन नियाजी ने कहा कि भारत के ऑपरेशन सिंदूर ने पाकिस्तान को बड़ा रणनीतिक झटका लगाया, जिसे छिपाने के लिए सेना जीत की कहानी गढ़ रही है. उन्होंने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के हस्तक्षेप को भी पाकिस्तान को बचाने का कारण बताया. Pakistan Asim Munir: जेल में बंद पूर्व पाकिस्तानी प्रधानमंत्री इमरान खान की बहन नूरीन नियाजी ने पाकिस्तान की सेना पर गंभीर आरोप लगाए हैं.",
-          "region": "एशिया-प्रशांत"
+          "title": "बंगाल में अभिषेक बनर्जी के दफ्तर पर चला बुलडोजर, लॉकेट चटर्जी बोलीं- 'TMC की सरकार में...'",
+          "summary": "पश्चिम बंगाल में तृणमूल कांग्रेस के महासचिव अभिषेक बनर्जी के ऑफिस पर प्रशासन की कार्रवाई के बाद भारतीय जनता पार्टी की प्रदेश महासचिव लॉकेट चटर्जी ने सरकार की कार्रवाई का समर्थन किया। उन्होंने कहा कि भ्रष्टाचार और अवैध निर्माण के खिलाफ सरकार की कार्रवाई आगे भी जारी रहेगी। तृणमूल कांग्रेस के महासचिव अभिषेक बनर्जी के ऑफिस पर प्रशासन की तरफ से की गई कार्रवाई के बाद पश्चिम बंगाल की राजनीति में नया विवाद शुरू हो गया है.",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "बलूचिस्‍तान में आसिम मुनीर के प्‍यारों पर बरप रहा कहर, 14 दिन में 48 हमले, PM शहबाज शरीफ के माथे पर",
-      "url": "https://hindi.news18.com/world/pakistan-14-days-48-attack-in-balochistan-bla-claim-pakistan-army-dozens-jawan-killed-asim-munir-shehbaz-sharif-in-tension-10670445.html",
-      "source": "News18 Hindi (World)",
+      "title": "सोनम वांगचुक और राम मंदिर चढ़ावा चोरी... मानसून सत्र से पहले सर्वदलीय बैठक, संसद में विपक्ष उठाएगा",
+      "url": "https://www.abplive.com/news/india/parliament-monsoon-session-all-party-meeting-opposition-raise-ram-mandir-and-sonam-wangchuk-3162205",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-07-19T03:54:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/asim-sharif-2026-07-9b4d68976fb5f4729e386787b326a547-1200x800.jpg",
-      "summary": "Pakistan News: पाकिस्‍तान इन दिनों अपने कर्मों का फल भुगत रहा है. एक तरफ बलूचिस्‍तान तो दूसरी तरफ गुलाम कश्‍मीर में बवाल मचा हुआ है. बलूच लिब्रेशन आर्मी यानी बीएलए के लड़ाके पाकिस्‍तानी सेना पर कहर बनकर टूट रहे हैं. ऑपरेशन सिंदूर में करारी शिकस्‍त मिलने के बाद फील्‍ड मार्शल का तमगा लेने वाले आर्मी चीफ आसिम मुनीर और प्रधानमंत्री शहबाज शरीफ को अब कुछ सूझ नहीं रहा कि हालात पर कैसे काबू पाया जा सके.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-07-19T05:18:18+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/19/f4e3eb21c7e4ee903ab6aaae009b48d417844373799761200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "संसद के मानसून सत्र से पहले सर्वदलीय बैठक में सरकार के विधायी एजेंडे और कुछ अन्य मुद्दों पर चर्चा की जाएगी। विपक्ष सोनम वांगचुक को जंतर-मंतर से जबरन हटाए जाने का मुद्दा इस बैठक में उठा सकता है। अयोध्या में राम मंदिर के चढ़ावे में कथित हेराफेरी का मामला भी चर्चा का विषय होगा। संसद के मानसून सत्र के आरंभ होने से एक दिन पहले रविवार को सर्वदलीय बैठक में सरकार के विधायी एजेंडे और कुछ अन्य मुद्दों पर चर्चा की जाएगी.",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बलूचिस्‍तान में आसिम मुनीर के प्‍यारों पर बरप रहा कहर, 14 दिन में 48 हमले, PM शहबाज शरीफ के माथे पर",
-          "summary": "Pakistan News: पाकिस्‍तान इन दिनों अपने कर्मों का फल भुगत रहा है. एक तरफ बलूचिस्‍तान तो दूसरी तरफ गुलाम कश्‍मीर में बवाल मचा हुआ है. बलूच लिब्रेशन आर्मी यानी बीएलए के लड़ाके पाकिस्‍तानी सेना पर कहर बनकर टूट रहे हैं. ऑपरेशन सिंदूर में करारी शिकस्‍त मिलने के बाद फील्‍ड मार्शल का तमगा लेने वाले आर्मी चीफ आसिम मुनीर और प्रधानमंत्री शहबाज शरीफ को अब कुछ सूझ नहीं रहा कि हालात पर कैसे काबू पाया जा सके.",
-          "region": "एशिया-प्रशांत"
+          "title": "सोनम वांगचुक और राम मंदिर चढ़ावा चोरी... मानसून सत्र से पहले सर्वदलीय बैठक, संसद में विपक्ष उठाएगा",
+          "summary": "संसद के मानसून सत्र से पहले सर्वदलीय बैठक में सरकार के विधायी एजेंडे और कुछ अन्य मुद्दों पर चर्चा की जाएगी। विपक्ष सोनम वांगचुक को जंतर-मंतर से जबरन हटाए जाने का मुद्दा इस बैठक में उठा सकता है। अयोध्या में राम मंदिर के चढ़ावे में कथित हेराफेरी का मामला भी चर्चा का विषय होगा। संसद के मानसून सत्र के आरंभ होने से एक दिन पहले रविवार को सर्वदलीय बैठक में सरकार के विधायी एजेंडे और कुछ अन्य मुद्दों पर चर्चा की जाएगी.",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "'तलवार हमारी और गला आपका होगा': कट्टरपंथी गुट ने पेजेशकियन को दी चेतावनी; क्या ईरान में बढ़ेगा",
-      "url": "https://www.amarujala.com/world/us-blade-your-throat-iran-hardliners-turn-on-leaders-amid-coup-claims-after-khamenei-death-2026-07-19",
-      "source": "Amar Ujala World",
+      "title": "राम मंदिर चढ़ावा चोरी मामले में राहुल गांधी और मल्लिकार्जुन खरगे ने PM मोदी को लिखी चिट्ठी, कर दी",
+      "url": "https://www.abplive.com/news/india/rahul-gandhi-mallikarjun-kharge-letter-to-pm-narendra-modi-over-ram-mandir-donation-theft-case-demand-latest-news-3162207",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-07-19T03:31:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/iran-politics_6144354174079ec654a1260a170b794b.jpeg?w=1200&dpr=1.0",
-      "summary": "सत्ता संघर्ष? 'तलवार हमारी और गला आपका होगा': कट्टरपंथी गुट ने पेजेशकियन को दी चेतावनी; क्या ईरान में बढ़ेगा।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-07-19T05:11:53+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/19/c9c6e2cb44f1082c0f3d88320d32da311784438462528425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी और कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने प्रधानमंत्री नरेंद्र मोदी को संयुक्त पत्र लिखकर राम मंदिर के चंदे में कथित गड़बड़ी के मामले में उनकी चुप्पी पर सवाल उठाए हैं। संसद के मॉनसून सत्र की शुरुआत से पहले राम मंदिर के चढ़ावे और कथित वित्तीय अनियमितताओं का मुद्दा एक बार फिर राजनीतिक बहस के केंद्र में आ गया है.",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'तलवार हमारी और गला आपका होगा': कट्टरपंथी गुट ने पेजेशकियन को दी चेतावनी; क्या ईरान में बढ़ेगा",
-          "summary": "सत्ता संघर्ष? 'तलवार हमारी और गला आपका होगा': कट्टरपंथी गुट ने पेजेशकियन को दी चेतावनी; क्या ईरान में बढ़ेगा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने एक हमले में अमेरिका के दोस्तों की हवा निकाल दी, CIA की 15 साल पुरानी चेतावनी होने लगी सच!",
-      "url": "https://hindi.news18.com/world/middle-east-why-iran-attack-on-kuwait-desalination-plant-big-problem-for-gulf-countries-water-crisis-cia-warning-explainer-10670303.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-19T03:16:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-mojataba-2026-07-bf11d1c5ea457f089ad0e879c47908a1-1200x800.jpg",
-      "summary": "ईरान के हमले में कुवैत के एक पावर और डिसेलिनेशन प्लांट को नुकसान पहुंचा है. इस हमले ने खाड़ी के देशों की टेंशन बढ़ा दी है. पश्चिम एशिया में अब पानी के लिए नई चिंता पैदा हो गई है. कुवैत अपने करीब 90% पीने के पानी के लिए डिसेलिनेशन प्लांट्स पर निर्भर है. वहीं सिर्फ 56 प्लांट्स पर हमले से 90 फीसदी पश्चिम एशिया प्यासा मरेगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने एक हमले में अमेरिका के दोस्तों की हवा निकाल दी, CIA की 15 साल पुरानी चेतावनी होने लगी सच!",
-          "summary": "ईरान के हमले में कुवैत के एक पावर और डिसेलिनेशन प्लांट को नुकसान पहुंचा है. इस हमले ने खाड़ी के देशों की टेंशन बढ़ा दी है. पश्चिम एशिया में अब पानी के लिए नई चिंता पैदा हो गई है. कुवैत अपने करीब 90% पीने के पानी के लिए डिसेलिनेशन प्लांट्स पर निर्भर है. वहीं सिर्फ 56 प्लांट्स पर हमले से 90 फीसदी पश्चिम एशिया प्यासा मरेगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान का पलटवार का दावा, कुवैत स्थित अमेरिकी सैन्य ठिकानों को बनाया निशाना",
-      "url": "https://www.patrika.com/world-news/us-airstrike-iran-shadegan-iran-claims-drone-attack-kuwait-us-bases-20759412",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-19T03:11:40+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Drone-Attacks-in-Kuwait.webp",
-      "summary": "ईरान ने कुवैत में अमेरिकी सैन्य ठिकानों पर हमला किया। अमेरिका ने ईरान की सीमा में बमबारी की। US Airstrike Near Shadegan: मध्य पूर्व (मिडल ईस्ट) इस वक्त एक बेहद खतरनाक मोड़ पर खड़ा है। ईरान और अमेरिका के बीच जारी तनाव अब सीधे सैन्य टकराव में बदल चुका है। ईरान द्वारा कुवैत में मौजूद अमेरिकी सैन्य ठिकानों को निशाना बनाए जाने के कुछ ही घंटों बाद, अमेरिकी वायुसेना ने ईरान की सीमा के भीतर घुसकर भीषण बमबारी की है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान का पलटवार का दावा, कुवैत स्थित अमेरिकी सैन्य ठिकानों को बनाया निशाना",
-          "summary": "ईरान ने कुवैत में अमेरिकी सैन्य ठिकानों पर हमला किया। अमेरिका ने ईरान की सीमा में बमबारी की। US Airstrike Near Shadegan: मध्य पूर्व (मिडल ईस्ट) इस वक्त एक बेहद खतरनाक मोड़ पर खड़ा है। ईरान और अमेरिका के बीच जारी तनाव अब सीधे सैन्य टकराव में बदल चुका है। ईरान द्वारा कुवैत में मौजूद अमेरिकी सैन्य ठिकानों को निशाना बनाए जाने के कुछ ही घंटों बाद, अमेरिकी वायुसेना ने ईरान की सीमा के भीतर घुसकर भीषण बमबारी की है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'ट्रंप के हस्ताक्षर की कोई कीमत नहीं': शांति समझौता टूटने पर भड़के मोजतबा खामेनेई, दे डाली ये धमकी",
-      "url": "https://www.amarujala.com/world/iran-supreme-leader-khamenei-says-violation-of-peace-mou-proves-trump-signature-worthless-west-asia-war-2026-07-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-19T03:08:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/11/18/mojtaba-khamenei-iran_ecf6376c32fa29c935c9e096e4c0adc7.jpeg?w=1200&dpr=1.0",
-      "summary": "मोजतबा खामेनेई ने शांति समझौते के टूटने पर ट्रंप के हस्ताक्षर को कीमतहीन बताया। 'ट्रंप के हस्ताक्षर की कोई कीमत नहीं': शांति समझौता टूटने पर भड़के मोजतबा खामेनेई, दे डाली ये धमकी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ट्रंप के हस्ताक्षर की कोई कीमत नहीं': शांति समझौता टूटने पर भड़के मोजतबा खामेनेई, दे डाली ये धमकी",
-          "summary": "मोजतबा खामेनेई ने शांति समझौते के टूटने पर ट्रंप के हस्ताक्षर को कीमतहीन बताया। 'ट्रंप के हस्ताक्षर की कोई कीमत नहीं': शांति समझौता टूटने पर भड़के मोजतबा खामेनेई, दे डाली ये धमकी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका ने दुनियाभर में अपने नागरिकों को किया सतर्क; क्या और बिगड़ेंगे हालात?",
-      "url": "https://www.amarujala.com/world/us-issues-worldwide-travel-caution-amid-rising-west-asia-tensions-warns-americans-potential-security-threats-2026-07-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-19T02:27:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/amaraka-vathasha-mataralya_527df292fc01fbf5d3e6705fa351c531.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका ने दुनियाभर में अपने नागरिकों को सतर्क किया है। पश्चिम एशिया संघर्ष: अमेरिका ने दुनियाभर में अपने नागरिकों को किया सतर्क; क्या और बिगड़ेंगे हालात?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका ने दुनियाभर में अपने नागरिकों को किया सतर्क; क्या और बिगड़ेंगे हालात?",
-          "summary": "अमेरिका ने दुनियाभर में अपने नागरिकों को सतर्क किया है। पश्चिम एशिया संघर्ष: अमेरिका ने दुनियाभर में अपने नागरिकों को किया सतर्क; क्या और बिगड़ेंगे हालात?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'तलवार हमारी, गला तुम्हारा', ईरानी राष्ट्रपति को खामेनेई के वफादार दे रहे धमकी, क्या देश में",
-      "url": "https://hindi.news18.com/world/middle-east-iran-soft-coup-theory-president-pezeshkian-hardliners-khamenei-power-struggle-10670221.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-19T02:11:38+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-29-2026-07-64fa5f08c13a226cb77ef9a9456737d7-1200x800.jpg",
-      "summary": "ईरान में सत्ता संघर्ष तेज हो गई है, खामेनेई के वफादार राष्ट्रपति को धमकी दे रहे हैं। Iran Soft Coup: ईरान में सत्ता संघर्ष की चर्चाएं तेज हो गई हैं. कट्टरपंथी गुट राष्ट्रपति मसूद पेजेशकियन, विदेश मंत्री अब्बास अराघची और घालीबाफ पर 'सॉफ्ट तख्तापलट' की साजिश रचने का आरोप लगा रहे हैं. वहीं नए सुप्रीम लीडर मोजतबा खामेनेई लंबे समय से सार्वजनिक रूप से नजर नहीं आए हैं, जिससे रहस्य और गहरा गया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'तलवार हमारी, गला तुम्हारा', ईरानी राष्ट्रपति को खामेनेई के वफादार दे रहे धमकी, क्या देश में",
-          "summary": "ईरान में सत्ता संघर्ष तेज हो गई है, खामेनेई के वफादार राष्ट्रपति को धमकी दे रहे हैं। Iran Soft Coup: ईरान में सत्ता संघर्ष की चर्चाएं तेज हो गई हैं. कट्टरपंथी गुट राष्ट्रपति मसूद पेजेशकियन, विदेश मंत्री अब्बास अराघची और घालीबाफ पर 'सॉफ्ट तख्तापलट' की साजिश रचने का आरोप लगा रहे हैं. वहीं नए सुप्रीम लीडर मोजतबा खामेनेई लंबे समय से सार्वजनिक रूप से नजर नहीं आए हैं, जिससे रहस्य और गहरा गया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "खामेनेई के किस बयान पर ईरान ने दी US को चेतावनी? कहा- बात समझ आ गई हो तो तुरंत भाग जाएं अमेरिकी",
-      "url": "https://www.amarujala.com/world/iran-us-tensions-ebrahim-azizi-warning-ayatollah-khamenei-wast-asia-conflict-donald-trump-us-iran-war-2026-07-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-19T02:02:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/ibrahama-ajaja-iirana-ka-sasatha-ma-rashhataraya-sarakashha-samata-ka-paramakha_5d107692930582921b3ce0e7dc372dfd.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान ने अमेरिका को चेतावनी दी है, खामेनेई के बयान के बाद अमेरिकी सैनिकों को तुरंत भाग जाने को कहा है। कहा- बात समझ आ गई हो तो तुरंत भाग जाएं अमेरिकी सैनिक। खामेनेई के किस बयान पर ईरान ने दी US को चेतावनी?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खामेनेई के किस बयान पर ईरान ने दी US को चेतावनी? कहा- बात समझ आ गई हो तो तुरंत भाग जाएं अमेरिकी",
-          "summary": "ईरान ने अमेरिका को चेतावनी दी है, खामेनेई के बयान के बाद अमेरिकी सैनिकों को तुरंत भाग जाने को कहा है। कहा- बात समझ आ गई हो तो तुरंत भाग जाएं अमेरिकी सैनिक। खामेनेई के किस बयान पर ईरान ने दी US को चेतावनी?",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "राम मंदिर चढ़ावा चोरी मामले में राहुल गांधी और मल्लिकार्जुन खरगे ने PM मोदी को लिखी चिट्ठी, कर दी",
+          "summary": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी और कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने प्रधानमंत्री नरेंद्र मोदी को संयुक्त पत्र लिखकर राम मंदिर के चंदे में कथित गड़बड़ी के मामले में उनकी चुप्पी पर सवाल उठाए हैं। संसद के मॉनसून सत्र की शुरुआत से पहले राम मंदिर के चढ़ावे और कथित वित्तीय अनियमितताओं का मुद्दा एक बार फिर राजनीतिक बहस के केंद्र में आ गया है.",
+          "region": "दुनिया"
         }
       }
     }
