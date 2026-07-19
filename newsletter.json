@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-19T21:20:30.197494+00:00",
+  "generated_at": "2026-07-19T22:21:10.907702+00:00",
   "article_count": 50,
-  "total_unique_count": 271,
+  "total_unique_count": 273,
   "digest": {
     "en": "Europe & Russia leads the board this hour with Russian attacks kill six in Kyiv, other cities; expose gaps in Ukraine’s air defences. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, मध्य प्रदेश के नरसिंहपुर में भीषण हादसा, अज्ञात वाहन की चपेट में आने से पांच की मौत, एक घायल मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "मध्य प्रदेश के नरसिंहपुर में एक भीषण हादसा हुआ है। इस हादसे में अज्ञात वाहन की चपेट में आने से पांच लोगों की मौत हो गई और एक घायल हो गया। हिमाचल में दो दिन भारी बारिश का अलर्ट जारी किया गया है।"
   },
   "articles": [
     {
@@ -284,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "India’s AI moment more about deployment than discovery",
-      "url": "https://asiatimes.com/2026/07/indias-ai-moment-more-about-deployment-than-discovery/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-07-17T04:58:42+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/India-AI-Technology-Office.jpg",
-      "summary": "For three decades, India was the world’s back office. During the next three decades, it may become the world’s AI workshop. That possibility lies behind one of the most consequential questions facing India’s economy. Artificial intelligence threatens the very industry that helped transform India into a global technology powerhouse. Yet the same technology may also [] The post India’s AI moment mo.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "IOM warns of potential El Niño threat to families displaced by earthquake",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167964",
       "source": "UN News",
@@ -304,6 +292,18 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/16-07-2026_PAHO_Venezuela.jpg/image770x420cropped.jpg",
       "summary": "Thousands of people remain displaced three weeks after the devastating earthquakes in Venezuela and the possible formation of a strong El Niño climate pattern could worsen their already dire situation, the International Organization for Migration (IOM) warned on Thursday. IOM warns of potential El Niño threat to families displaced by earthquake.",
       "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167959",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-16T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/19-06-2026-WHO-DR-Congo-ebola-02.jpg/image770x420cropped.jpg",
+      "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has become the third largest on record and is spreading faster than any previous one during the first month of exposure, the head of the World Health Organization (WHO) warned on Thursday. WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -380,18 +380,36 @@
       }
     },
     {
-      "title": "एक्स्ट्रा टाइम में पहुंचा मुकाबला, 90+9 मिनट तक कोई गोल नहीं",
+      "title": "ट्रंप अर्जेंटीना बनाम स्पेन विश्वकप फाइनल देखने पहुंचे, कनाडा-मेक्सिको के मेहमानों पर भी फुटबॉल फीवर",
+      "url": "https://www.amarujala.com/sports/football/fifa-world-cup-2026-usa-president-donald-trump-attends-world-cup-finals-argentina-vs-spain-celebrities-photos-2026-07-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-19T22:12:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/20/fifa_b181b63b67f1b4c3641d42c69f88eec2.jpeg?w=1200&dpr=1.0",
+      "summary": "Former U. S. President Donald Trump arrived at the stadium in the United States to watch the FIFA World Cup final between Argentina and Spain. Several Hollywood actors and actresses also attended the match, adding to the event's high‑profile crowd. Their presence drew media attention across North America. अर्जेंटीना और स्पेन के बीच फीफा विश्व कप का फाइनल खेला जा रहा है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप अर्जेंटीना बनाम स्पेन विश्वकप फाइनल देखने पहुंचे, कनाडा-मेक्सिको के मेहमानों पर भी फुटबॉल फीवर",
+          "summary": "Former U. S. President Donald Trump arrived at the stadium in the United States to watch the FIFA World Cup final between Argentina and Spain. Several Hollywood actors and actresses also attended the match, adding to the event's high‑profile crowd. Their presence drew media attention across North America. अर्जेंटीना और स्पेन के बीच फीफा विश्व कप का फाइनल खेला जा रहा है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "स्पेन ने 16 साल बाद जीता विश्वकप, अर्जेंटीना को 1-0 से हराया, टोरेस बने हीरो",
       "url": "https://www.amarujala.com/live/sports/football/spain-vs-argentina-live-fifa-world-cup-2026-final-football-match-result-updates-2026-07-19",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-19T21:19:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/20/arajatana-bnama-sapana_2e60c803e3ea85656884c1ff1bba9208.jpeg?w=1200&dpr=1.0",
+      "published_at": "2026-07-19T22:11:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/20/arajatana-bnama-sapana_c095ec789d38cfc6b861e16d910847ce.jpeg?w=1200&dpr=1.0",
       "summary": "FIFA World Cup 2026 Spain vs Argentina Final Football Match Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। अर्जेंटीना-स्पेन की नजर पहले हाफ में बढ़त पर, अमेरिकी राष्ट्रपति ट्रंप भी मौजूद। पहले हाफ में अर्जेंटीना और स्पेन की कड़ी टक्कर, अब तक कोई गोल नहीं। एक्स्ट्रा टाइम में पहुंचा मुकाबला, 90+9 मिनट तक कोई गोल नहीं।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "एक्स्ट्रा टाइम में पहुंचा मुकाबला, 90+9 मिनट तक कोई गोल नहीं",
+          "title": "स्पेन ने 16 साल बाद जीता विश्वकप, अर्जेंटीना को 1-0 से हराया, टोरेस बने हीरो",
           "summary": "FIFA World Cup 2026 Spain vs Argentina Final Football Match Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। अर्जेंटीना-स्पेन की नजर पहले हाफ में बढ़त पर, अमेरिकी राष्ट्रपति ट्रंप भी मौजूद। पहले हाफ में अर्जेंटीना और स्पेन की कड़ी टक्कर, अब तक कोई गोल नहीं। एक्स्ट्रा टाइम में पहुंचा मुकाबला, 90+9 मिनट तक कोई गोल नहीं।",
           "region": "यूरोप और रूस"
         }
@@ -400,9 +418,9 @@
     {
       "title": "ईरान-US तनाव घटने के संकेत नहीं, अलर्ट मोड में 50 हजार सैनिक; जंग पर भारत ने क्या कहा?",
       "url": "https://www.amarujala.com/live/world/west-asia-tension-live-updates-iran-us-israel-war-trump-hormuz-crisis-ships-port-airstrikes-irgc-pezeshkian-2026-07-20",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-07-19T20:37:55+00:00",
+      "published_at": "2026-07-19T21:55:42+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/06/west-asia-crisis-live-us-iran-israel-war-day-7-us-army-irgc-turkiye-war-updates-and-news-in-hin_a0aa2afe0c126f011b15e33e5f2007e2.gif?w=1200&dpr=1.0",
       "summary": "West Asia Tension LIVE: ईरान-US तनाव घटने के संकेत नहीं, अलर्ट मोड में 50 हजार सैनिक; जंग पर भारत ने क्या कहा?",
       "region": "Middle East & Africa",
@@ -416,9 +434,45 @@
       }
     },
     {
+      "title": "जौहर यूनिवर्सिटी विवाद पर अखिलेश के ट्वीट पर भड़के मौलाना सैफ अब्बास",
+      "url": "https://www.amarujala.com/video/india-news/akhilesh-yadav-on-jauhar-university-maulana-saif-abbas-on-akhilesh-s-tweet-regarding-the-jauhar-university-co-2026-07-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-19T21:44:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/20/akhilesh-yadav-on-jauhar-university_c55b92defe4e2a14659cdd073b7e7e73.jpeg?w=1200&dpr=1.0",
+      "summary": "Akhilesh On Jauhar University: जौहर यूनिवर्सिटी विवाद पर अखिलेश के ट्वीट पर भड़के मौलाना सैफ अब्बास।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जौहर यूनिवर्सिटी विवाद पर अखिलेश के ट्वीट पर भड़के मौलाना सैफ अब्बास",
+          "summary": "Akhilesh On Jauhar University: जौहर यूनिवर्सिटी विवाद पर अखिलेश के ट्वीट पर भड़के मौलाना सैफ अब्बास।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "प्यासे कंठों को कब मिलेगा पानी, संकट से कैसे निपट रही डीके शिवकुमार की सरकार?",
+      "url": "https://www.amarujala.com/india-news/karnataka-drinking-water-crisis-cm-dk-shivakumar-drought-report-directive-2026-07-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-19T21:23:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/20/karanataka-ma-sakha-paratakatamaka-tasavara_4efc5de9ab5cad131320cff7a4598006.jpeg?w=1200&dpr=1.0",
+      "summary": "कर्नाटक में भयंकर सूखा: प्यासे कंठों को कब मिलेगा पानी, संकट से कैसे निपट रही डीके शिवकुमार की सरकार?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्यासे कंठों को कब मिलेगा पानी, संकट से कैसे निपट रही डीके शिवकुमार की सरकार?",
+          "summary": "कर्नाटक में भयंकर सूखा: प्यासे कंठों को कब मिलेगा पानी, संकट से कैसे निपट रही डीके शिवकुमार की सरकार?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "133 लोगों से भरा सरकारी जहाज पलटा, लापता की तलाश के लिए क्या कर रही सरकार?",
       "url": "https://www.amarujala.com/world/ferry-carrying-133-people-capsizes-off-guyana-coast-leaving-dozens-missing-2026-07-20",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-19T20:35:18+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/20/gayana-jahaja-hathasa_76efe0d174a573b0f57afd6e9e32345d.jpeg?w=1200&dpr=1.0",
@@ -454,7 +508,7 @@
     {
       "title": "ईरान में बढ़ता जा रहा है तनाव: भारतीय दूतावास ने जारी की नई एडवाइजरी, प्रवासियों को क्या है निर्देश?",
       "url": "https://www.amarujala.com/world/indian-embassy-in-iran-issues-revised-advisory-for-nationals-amid-instability-2026-07-20",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-19T19:31:04+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/08/iirana-ma-bharataya-thatavasa-na-jara-ka-edavaijara_1fb43ec22a15b615ba6aa073b23992a4.jpeg?w=1200&dpr=1.0",
@@ -537,6 +591,24 @@
         "hi": {
           "title": "खामेनेई की हत्या के समय कहां हुई थी चूक? अराघची ने बताया उस दिन कौन, कहां और क्या कर रहा था?",
           "summary": "अमेरिका और ईरान के बीच बढ़ते तनाव के बीच ईरान के विदेश मंत्री अब्बास अरागची ने बड़ा खुलासा किया है. उनका कहना है कि ईरान के पूर्व सुप्रीम लीडर अयातुल्लाह अली खामेनेई की हत्या सिर्फ सैन्य हमले की वजह से नहीं हुई, बल्कि इसके पीछे सुरक्षा व्यवस्था में गंभीर चूक थी. उस समय संवेदनशील जानकारी लीक होना भी एक बड़ी वजह थी.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'यह वेनेजुएला नहीं...', ट्रंप के दूत स्टीव विटकॉफ से ईरान के विदेश मंत्री ने ऐसा क्यों कहा था?",
+      "url": "https://www.abplive.com/news/world/this-not-venezuela-iran-foreign-minister-araghchi-to-donald-trump-envoy-steve-witkoff-3162501",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-19T15:58:58+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/19/b043419c8514ff5c18bd09499efb03bb17844735027081324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ईरान के विदेश मंत्री अब्बास अराघची ने बयान दिया है, जिसमें उन्होंने कहा है कि जब वह और तेहरान एक दूसरे अधिकारी अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दूत स्टीव विटकॉफ से बातचीत कर रहे थे, तब माहौल बेहद ही तनावपूर्ण था. उन्होंने कहा कि बातचीत के दौरान उन्होंने विटकॉफ से पूछा कि क्या वह कभी ऐसी बातचीत में शामिल हुए हैं? जहां किसी भी पल बमबारी होने का खतरा हो.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'यह वेनेजुएला नहीं...', ट्रंप के दूत स्टीव विटकॉफ से ईरान के विदेश मंत्री ने ऐसा क्यों कहा था?",
+          "summary": "ईरान के विदेश मंत्री अब्बास अराघची ने बयान दिया है, जिसमें उन्होंने कहा है कि जब वह और तेहरान एक दूसरे अधिकारी अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दूत स्टीव विटकॉफ से बातचीत कर रहे थे, तब माहौल बेहद ही तनावपूर्ण था. उन्होंने कहा कि बातचीत के दौरान उन्होंने विटकॉफ से पूछा कि क्या वह कभी ऐसी बातचीत में शामिल हुए हैं? जहां किसी भी पल बमबारी होने का खतरा हो.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -668,91 +740,19 @@
       }
     },
     {
-      "title": "जिसके लिए ईरान को मिट्टी में मिला दिया, पाकिस्तान के 'भाई' को वही तोहफा देंगे डोनाल्ड ट्रंप",
-      "url": "https://hindi.news18.com/world/middle-east-saudi-arabia-us-nuclear-agreement-over-uranium-enrichment-after-demolishing-iran-over-it-2-10671890.html",
-      "source": "News18 Hindi (World)",
+      "title": "US के लगातार हमलों के बीच ईरान का बड़ा दावा, IRGC ने कहा- ‘हमने अमेरिकी एमक्यू-9 ड्रोन को...’",
+      "url": "https://www.abplive.com/news/world/irgc-claims-to-intercept-and-destroyed-us-mq9-drone-amid-escalated-american-attacks-against-iran-3162361",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-07-19T12:24:00+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/mbs-trump-2026-07-7e687b3b1ec658a568ff2febe7fb062e-1200x800.jpg",
-      "summary": "Saudi Arabia-US Nuclear Agreement: अमेरिका-ईरान के बीच जो युद्ध हुआ, उसकी वजह सिर्फ और सिर्फ ईरान का एनरिच्ड यूरेनियम था. अमेरिका को आशंका थी कि इससे वो परमाणु हथियार बना सकता है, सिर्फ इसी वजह से उसने पूरे ईरान को मिसाइलों से खोद दिया लेकिन अब यही चीज सऊदी अरब को वो तोहफे में देने जा रहा है. जिसके लिए ईरान को मिट्टी में मिला दिया, पाकिस्तान के 'भाई' को वही तोहफा देंगे डोनाल्ड ट्रंप।",
+      "published_at": "2026-07-19T12:31:20+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/19/850e315db0524b866e9899268e36597017844568227311126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "मिडिल ईस्ट में अमेरिका के साथ एक बार फिर से संघर्ष और तनाव बढ़ने के बीच ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने रविवार (19 जुलाई, 2026) को बड़ा दावा किया है. आईआरजीसी ने दावा किया है कि उसने इराक की सीमा से सटे खुजेस्तान इलाके के एक शहर अहवाज में अमेरिका के एक एमक्यू-9 ड्रोन को इंटरसेप्ट कर मार गिराया है. आईआरजीसी ने ईरानी सरकारी मीडिया के जरिए यह जानकारी साझा की है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जिसके लिए ईरान को मिट्टी में मिला दिया, पाकिस्तान के 'भाई' को वही तोहफा देंगे डोनाल्ड ट्रंप",
-          "summary": "Saudi Arabia-US Nuclear Agreement: अमेरिका-ईरान के बीच जो युद्ध हुआ, उसकी वजह सिर्फ और सिर्फ ईरान का एनरिच्ड यूरेनियम था. अमेरिका को आशंका थी कि इससे वो परमाणु हथियार बना सकता है, सिर्फ इसी वजह से उसने पूरे ईरान को मिसाइलों से खोद दिया लेकिन अब यही चीज सऊदी अरब को वो तोहफे में देने जा रहा है. जिसके लिए ईरान को मिट्टी में मिला दिया, पाकिस्तान के 'भाई' को वही तोहफा देंगे डोनाल्ड ट्रंप।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान-अमेरिका के सीजफायर पर लग रहा करोड़ों का सट्टा, व्हाइट के अधिकारी भी छाप रहे नोट, रडार पर ट्रंप",
-      "url": "https://hindi.news18.com/world/america-betting-worth-crores-on-iran-america-ceasefire-white-officials-close-to-donald-trump-on-radar-sjn-10671839.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-19T12:08:26+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-trump-19-2026-06-428362eedb6f194cac9811d9696f1616-1200x800.jpg",
-      "summary": "अमेरिका और ईरान के बीच चल रहे युद्ध के दौरान ऑनलाइन सट्टेबाजी में तेजी आने से व्हाइट हाउस की चिंता बढ़ गई है. अधिकारियों को शक है कि सरकार के अंदर की गोपनीय जानकारी का इस्तेमाल करके कुछ लोगों ने बड़े पैमाने पर दांव लगाए और लाखों डॉलर कमाए हैं. ईरान-अमेरिका के सीजफायर पर लग रहा करोड़ों का सट्टा, व्हाइट के अधिकारी भी छाप रहे नोट, रडार पर ट्रंप।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान-अमेरिका के सीजफायर पर लग रहा करोड़ों का सट्टा, व्हाइट के अधिकारी भी छाप रहे नोट, रडार पर ट्रंप",
-          "summary": "अमेरिका और ईरान के बीच चल रहे युद्ध के दौरान ऑनलाइन सट्टेबाजी में तेजी आने से व्हाइट हाउस की चिंता बढ़ गई है. अधिकारियों को शक है कि सरकार के अंदर की गोपनीय जानकारी का इस्तेमाल करके कुछ लोगों ने बड़े पैमाने पर दांव लगाए और लाखों डॉलर कमाए हैं. ईरान-अमेरिका के सीजफायर पर लग रहा करोड़ों का सट्टा, व्हाइट के अधिकारी भी छाप रहे नोट, रडार पर ट्रंप।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "’ताइवान को कभी चीन का गुलाम नहीं बनने देंगे’, नए कानून को लेकर राष्ट्रपति की खुली चेतावनी",
-      "url": "https://www.patrika.com/world-news/taiwan-president-says-we-will-never-become-china-taiwan-world-news-in-hindi-20760656",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-19T12:05:33+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/chinataiwandispute.webp",
-      "summary": "ताइवान के राष्ट्रपति लाई चिंग-ते ने रविवार को अपनी पार्टी की बैठक में कहा कि ताइवान कभी चीन का हिस्सा नहीं बनेगा। उन्होंने यह भी कहा कि लोकतांत्रिक ताइवान को चीन का गुलाम नहीं बनने दिया जाएगा। यह बयान नए कानून को लेकर दिया गया है। चीन को ताइवान ने खुली चेतावनी दी है। ताइवान के राष्ट्रपति लाई चिंग-ते ने रविवार को अपनी पार्टी की बैठक में साफ कहा कि लोकतांत्रिक ताइवान कभी भी चीन का हिस्सा नहीं बनेगा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "’ताइवान को कभी चीन का गुलाम नहीं बनने देंगे’, नए कानून को लेकर राष्ट्रपति की खुली चेतावनी",
-          "summary": "ताइवान के राष्ट्रपति लाई चिंग-ते ने रविवार को अपनी पार्टी की बैठक में कहा कि ताइवान कभी चीन का हिस्सा नहीं बनेगा। उन्होंने यह भी कहा कि लोकतांत्रिक ताइवान को चीन का गुलाम नहीं बनने दिया जाएगा। यह बयान नए कानून को लेकर दिया गया है। चीन को ताइवान ने खुली चेतावनी दी है। ताइवान के राष्ट्रपति लाई चिंग-ते ने रविवार को अपनी पार्टी की बैठक में साफ कहा कि लोकतांत्रिक ताइवान कभी भी चीन का हिस्सा नहीं बनेगा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने फिर मार गिराया अमेरिका का सबसे महंगा MQ-9 रीपर ड्रोन, 8 दिनों में चौथी बड़ी कामयाबी",
-      "url": "https://www.patrika.com/world-news/iran-claims-30-us-reaper-drones-destroyed-1-billion-loss-20760558",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-19T12:00:20+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Iran-Shoots-Down-US-Reaper-.webp",
-      "summary": "ईरान के शक्तिशाली इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने दावा किया है कि उसने अहवाज प्रांत के ऊपर एक अमेरिकी MQ-9 रीपर जासूसी ड्रोन को मार गिराया है। यह घटना मध्य-पूर्व में जारी भीषण संघर्ष के बीच हुई है। ईरान ने पिछले आठ दिनों के भीतर चौथी बार अमेरिकी रीपर ड्रोन को मार गिराया है। Iran Shoots Down US Reaper Drone: मध्य-पूर्व में जारी भीषण संघर्ष के बीच एक बेहद चौंकाने वाली सैन्य रिपोर्ट सामने आ रही है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने फिर मार गिराया अमेरिका का सबसे महंगा MQ-9 रीपर ड्रोन, 8 दिनों में चौथी बड़ी कामयाबी",
-          "summary": "ईरान के शक्तिशाली इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने दावा किया है कि उसने अहवाज प्रांत के ऊपर एक अमेरिकी MQ-9 रीपर जासूसी ड्रोन को मार गिराया है। यह घटना मध्य-पूर्व में जारी भीषण संघर्ष के बीच हुई है। ईरान ने पिछले आठ दिनों के भीतर चौथी बार अमेरिकी रीपर ड्रोन को मार गिराया है। Iran Shoots Down US Reaper Drone: मध्य-पूर्व में जारी भीषण संघर्ष के बीच एक बेहद चौंकाने वाली सैन्य रिपोर्ट सामने आ रही है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कहां है मोजतबा खामेनेई? सवाल पर इजरायली के चौंकाने वाले दावे, जारी संदेशों को बताया फर्जी",
-      "url": "https://hindi.news18.com/world/middle-east-israeli-media-report-claim-mojtaba-khamenei-is-not-currently-present-in-iran-sjn-10671694.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-19T11:41:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Mojtaba-Khamenei-Leg-Amputated-Fact-Check-2026-05-1db71fa5602fefed94dd06a243c6e009-1200x800.jpg",
-      "summary": "ईरान के नए सुप्रीम लीडर मोजतबा खामेनेई को लेकर एक नया दावा सामने आया है. इजरायली मीडिया की एक रिपोर्ट में कहा गया है कि मोजतबा फिलहाल ईरान में मौजूद नहीं हैं. इजरायली अखबार इजरायल हयोम ने सऊदी ब्रॉडकास्टर अल हदाथ के हवाले से बताया कि एक इजरायली सुरक्षा अधिकारी का कहना है कि मोजतबा खामेनेई काफी समय से सार्वजनिक रूप से दिखाई नहीं दिए हैं और वह ईरान में भी नहीं हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कहां है मोजतबा खामेनेई? सवाल पर इजरायली के चौंकाने वाले दावे, जारी संदेशों को बताया फर्जी",
-          "summary": "ईरान के नए सुप्रीम लीडर मोजतबा खामेनेई को लेकर एक नया दावा सामने आया है. इजरायली मीडिया की एक रिपोर्ट में कहा गया है कि मोजतबा फिलहाल ईरान में मौजूद नहीं हैं. इजरायली अखबार इजरायल हयोम ने सऊदी ब्रॉडकास्टर अल हदाथ के हवाले से बताया कि एक इजरायली सुरक्षा अधिकारी का कहना है कि मोजतबा खामेनेई काफी समय से सार्वजनिक रूप से दिखाई नहीं दिए हैं और वह ईरान में भी नहीं हैं.",
+          "title": "US के लगातार हमलों के बीच ईरान का बड़ा दावा, IRGC ने कहा- ‘हमने अमेरिकी एमक्यू-9 ड्रोन को...’",
+          "summary": "मिडिल ईस्ट में अमेरिका के साथ एक बार फिर से संघर्ष और तनाव बढ़ने के बीच ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने रविवार (19 जुलाई, 2026) को बड़ा दावा किया है. आईआरजीसी ने दावा किया है कि उसने इराक की सीमा से सटे खुजेस्तान इलाके के एक शहर अहवाज में अमेरिका के एक एमक्यू-9 ड्रोन को इंटरसेप्ट कर मार गिराया है. आईआरजीसी ने ईरानी सरकारी मीडिया के जरिए यह जानकारी साझा की है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
