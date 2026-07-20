@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-20T12:48:28.614589+00:00",
+  "generated_at": "2026-07-20T13:38:08.631583+00:00",
   "article_count": 50,
-  "total_unique_count": 276,
+  "total_unique_count": 277,
   "digest": {
-    "en": "China's mega-oiler plans are underway. India is extending grant support to the Maldives. Singapore and Indonesia are boosting ties with an undersea cable.",
-    "hi": "चीन की खुफिया एजेंसी का नाम कम लोग जानते हैं। वांगचुक की पत्नी से हुई बर्बरता के मामले में दिल्ली पुलिस ने फैक्ट चेक किया। पुतिन के साथ चीन का प्लान B तैयार है।"
+    "en": "Russian and Ukrainian forces exchange overnight strikes, with drone attacks targeting Moscow's region. In the Asia-Pacific, China's mega-oiler project threatens to upend America's Pacific base edge, while India extends grant support to the Maldives for fitness centres across 42 islands.",
+    "hi": "ईरान में सुन्नी धर्मगुरु मोहम्मद अनवर रीगी की हत्या से सांप्रदायिक तनाव भड़कने की आशंका है। ईरान की सरकार ने इस मामले में जांच शुरू कर दी है। इस घटना ने ईरान में धार्मिक विवाद को और भड़काया है।"
   },
   "articles": [
+    {
+      "title": "Russian And Ukraine Exchange Overnight Strikes As Drone Attacks Target Moscow Region",
+      "url": "https://www.rferl.org/a/russia-ukraine-drone-and-missile-strikes/33807500.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-20T13:14:08+00:00",
+      "image_url": "https://gdb.rferl.org/eb7ea0a2-35a2-4118-bbcb-4348c3cbfb4b_cx0_cy10_cw0_w1200_h630.jpg",
+      "summary": "Large plumes of black smoke rose high into the skies of the Moscow region on July 20 after Ukrainian drone strikes hit an oil depot and logistics facilities, wounding 10 people as Kyiv vowed to respond to deadly Russian attacks that have left several people dead. Russian And Ukraine Exchange Overnight Strikes As Drone Attacks Target Moscow Region.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "China’s mega-oiler could break America’s Pacific base edge",
       "url": "https://asiatimes.com/2026/07/chinas-mega-oiler-could-break-americas-pacific-base-edge/",
@@ -28,18 +40,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/eabinu/article71244535.ece/alternates/LANDSCAPE_1200/2O3A0889.jpg",
       "summary": "On July 19, Memoranda of Understanding (MoUs) were signed by Maldivian Foreign Minister Iruthisham Adam, Indian High Commissioner G Balasubramanian and Maldives' Youth Empowerment, Sports and Fitness Minister Abdulla Rafiu at a ceremony in Male India extends grant support to Maldives for fitness centres across 42 islands.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘I go with good grace and a smile on my face’: Starmer says, making way for Burnham as U.K. PM",
-      "url": "https://www.thehindu.com/news/international/i-go-with-good-grace-and-a-smile-on-my-face-starmer-says-making-way-for-burnham/article71244798.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-20T11:25:05+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/y7xgn0/article71244869.ece/alternates/LANDSCAPE_1200/2026-07-20T104001Z_1128485567_RC2MHMA3C3IA_RTRMADP_3_BRITAIN-POLITICS.JPG",
-      "summary": "Mr. Starmer made history two years ago when he led the Labour Party. which had suffered its worst defeat in decades in 2019. to one of the largest victories in modern times. He made history again, but this time for becoming the U. K.’s shortest-serving Labour Prime Minister in modern history. ‘I go with good grace and a smile on my face’: Starmer says, making way for Burnham as U. K.",
-      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -260,18 +260,6 @@
       "translations": {}
     },
     {
-      "title": "Ukraine Claims New Strikes On Russian 'Shadow Fleet' Tankers",
-      "url": "https://www.rferl.org/a/ukraine-claims-new-strikes-on-russian-shadow-fleet-tankers-/33805813.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-17T13:10:54+00:00",
-      "image_url": "https://gdb.rferl.org/445363c9-e2cd-42c0-7ee3-08decad17715_w1200_h630.jpg",
-      "summary": "Ukraine said its drones struck 159 vessels it identifies as part of Russia’s shadow fleet during a 12‑day campaign in the Black Sea Kyiv says it has hit 159 vessels linked to Russia's so-called shadow fleet during a 12-day drone campaign in the Black Sea and Sea of Azov. Ukrainian officials have said the operation is aimed at disrupting the transportation of oil and other shipments used to evade international sanctions.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Thai prisoners brew a path back to daily life",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167954",
       "source": "UN News",
@@ -308,6 +296,36 @@
       "translations": {}
     },
     {
+      "title": "Thunderstorms strike across Europe amid record heatwave",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-17T08:35:56+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/fa9575b9199e2eaf21b2b30447763e5ad422a718/381_393_890_712/master/890.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eac530ef4d90ccda96bd227969aae270",
+      "summary": "Storms are typical during intense heat but this week’s have been extreme. Plus, deadly monsoon rains in BangladeshHailstones the size of golf balls have been seen in French villages as, on top of the exceptional European heatwave, thunderstorms have struck across parts of Europe.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "कौन है खलील अल-हय्या? जो बना हमास का नया नेता, लेगा याह्या सिनवार की जगह, गाजा से 2064 KM दूर क्यों",
+      "url": "https://hindi.news18.com/world/middle-east-who-is-khalil-al-hayya-new-hamas-leader-set-to-replace-yahya-sinwar-sjn-10675105.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-20T13:33:52+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Khalil-Al-Hayya-Reuters-2026-07-c7ba292cbf863fea95721c8edf261f76-1200x800.jpg",
+      "summary": "करीब दो साल से जारी गाजा युद्ध के बीच फिलिस्तीनी संगठन हमास ने अपना नया सर्वोच्च नेता चुन लिया है. हमास ने खालिल अल-हय्या को अपना नया प्रमुख नियुक्त किया है. खालिल अल-हय्या ऐसे समय में हमास की कमान संभाल रहे हैं, जब संगठन अपने कई बड़े नेताओं को खो चुका है. अल-हय्या ने याह्या सिनवार की जगह ली है. सिनवार 2024 में गाजा में इजरायली सेना के साथ लड़ाई के दौरान मारे गए थे.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कौन है खलील अल-हय्या? जो बना हमास का नया नेता, लेगा याह्या सिनवार की जगह, गाजा से 2064 KM दूर क्यों",
+          "summary": "करीब दो साल से जारी गाजा युद्ध के बीच फिलिस्तीनी संगठन हमास ने अपना नया सर्वोच्च नेता चुन लिया है. हमास ने खालिल अल-हय्या को अपना नया प्रमुख नियुक्त किया है. खालिल अल-हय्या ऐसे समय में हमास की कमान संभाल रहे हैं, जब संगठन अपने कई बड़े नेताओं को खो चुका है. अल-हय्या ने याह्या सिनवार की जगह ली है. सिनवार 2024 में गाजा में इजरायली सेना के साथ लड़ाई के दौरान मारे गए थे.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "RAW, ISI, KGB, Mossad, CIA तो सब जानते हैं... लेकिन चीन की खुफिया एजेंसी का नाम कितने लोग जानते हैं?",
       "url": "https://hindi.news18.com/news/defence/china-intelligence-agency-mss-cia-raw-mossad-ws-l-10674935.html",
       "source": "News18 Hindi (World)",
@@ -326,20 +344,20 @@
       }
     },
     {
-      "title": "वांगचुक की पत्नी से हुई बर्बरता? दिल्ली पुलिस ने किया फैक्ट चेक, फिर CJP नेता ने बताई हकीकत!",
-      "url": "https://www.abplive.com/news/india/cjp-protest-parliament-march-wangchuk-wife-subjected-to-brutality-delhi-police-conducted-fact-check-then-cjp-leader-revealed-reality-3162913",
-      "source": "ABP Live (India)",
+      "title": "हमास की कमान अब खलील अल-हय्या के हाथ में; खालिद मशाल को हराकर बने नए प्रमुख, ईरान के करीबी माने",
+      "url": "https://www.patrika.com/world-news/hamas-names-khalil-al-hayya-new-chief-leader-20763570",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-20T12:16:40+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/20/3e1a096af8857a706885c2e20ddc800b17845463290081324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "CJP Parliament March: सीजेपी का प्रदर्शन अब बवाल में बदल गया है. दिल्ली पुलिस लगातार प्रदर्शनकारियों पर कार्रवाई कर रही है. सीजेपी प्रवक्ता ने सोनम वांगचुक की पत्नी के साथ मारपीट का आरोप लगाया है. जिसपर दिल्ली पुलिस ने फैक्ट चेक किया है, जिसे उन्होंने अगले ही पोस्ट में इसे स्पष्ट करते हुए लिखा है. जिसमें गीतांजलि वांग्मो के साथ हुई अभद्रता को स्पष्ट किया है.",
-      "region": "Europe & Russia",
+      "published_at": "2026-07-20T12:30:54+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Khalil-al-Hayya.webp",
+      "summary": "Hamas leader Khalil al-Hayya: फिलिस्तीनी संगठन हमास ने आधिकारिक तौर पर अपने नए प्रमुख नेता के नाम की घोषणा की है। इजराइल के साथ युद्धविराम की बातचीत का नेतृत्व करने वाले संगठन के वरिष्ठ नेता खलील अल-हय्या को हमास का नया प्रमुख (राजनीतिक ब्यूरो का अध्यक्ष) चुना गया है। वे पूर्व नेता याह्या सिनवार की जगह लेंगे, जिनकी अक्टूबर 2024 में गाजा में इजराइली सेना के हमले में मौत हो गई थी।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वांगचुक की पत्नी से हुई बर्बरता? दिल्ली पुलिस ने किया फैक्ट चेक, फिर CJP नेता ने बताई हकीकत!",
-          "summary": "CJP Parliament March: सीजेपी का प्रदर्शन अब बवाल में बदल गया है. दिल्ली पुलिस लगातार प्रदर्शनकारियों पर कार्रवाई कर रही है. सीजेपी प्रवक्ता ने सोनम वांगचुक की पत्नी के साथ मारपीट का आरोप लगाया है. जिसपर दिल्ली पुलिस ने फैक्ट चेक किया है, जिसे उन्होंने अगले ही पोस्ट में इसे स्पष्ट करते हुए लिखा है. जिसमें गीतांजलि वांग्मो के साथ हुई अभद्रता को स्पष्ट किया है.",
-          "region": "यूरोप और रूस"
+          "title": "हमास की कमान अब खलील अल-हय्या के हाथ में; खालिद मशाल को हराकर बने नए प्रमुख, ईरान के करीबी माने",
+          "summary": "Hamas leader Khalil al-Hayya: फिलिस्तीनी संगठन हमास ने आधिकारिक तौर पर अपने नए प्रमुख नेता के नाम की घोषणा की है। इजराइल के साथ युद्धविराम की बातचीत का नेतृत्व करने वाले संगठन के वरिष्ठ नेता खलील अल-हय्या को हमास का नया प्रमुख (राजनीतिक ब्यूरो का अध्यक्ष) चुना गया है। वे पूर्व नेता याह्या सिनवार की जगह लेंगे, जिनकी अक्टूबर 2024 में गाजा में इजराइली सेना के हमले में मौत हो गई थी।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -362,24 +380,6 @@
       }
     },
     {
-      "title": "हिंसक हुआ CJP का प्रदर्शन, abp न्यूज टीम पर अटैक, पुलिस की गाड़ियों को भी बनाया निशाना",
-      "url": "https://www.abplive.com/news/india/cjp-protest-attack-on-abp-news-team-delhi-police-parliament-street-clash-jp-nadda-abhijeet-dipke-saurabh-das-3162953",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-20T12:09:30+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/20/64a72b16a24e19264b5adb6d2c11a0e01784549935852708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "जंतर-मंतर पर प्रदर्शनकारियों ने एबीपी न्यूज की टीम पर हमला किया गया. हिंसक हुआ CJP का प्रदर्शन, abp न्यूज टीम पर अटैक, पुलिस की गाड़ियों को भी बनाया निशाना।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिंसक हुआ CJP का प्रदर्शन, abp न्यूज टीम पर अटैक, पुलिस की गाड़ियों को भी बनाया निशाना",
-          "summary": "जंतर-मंतर पर प्रदर्शनकारियों ने एबीपी न्यूज की टीम पर हमला किया गया. हिंसक हुआ CJP का प्रदर्शन, abp न्यूज टीम पर अटैक, पुलिस की गाड़ियों को भी बनाया निशाना।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "महाशैतान है अमेरिका, ट्रंप के साइन भी रद्दी... युद्ध की चिंगारी और भड़का रहे मोजतबा खामेनेई, चुप",
       "url": "https://hindi.news18.com/world/middle-east-khamenei-calls-us-great-satan-trump-signature-worthless-warns-unforgettable-lessons-ws-l-10674950.html",
       "source": "News18 Hindi (World)",
@@ -394,42 +394,6 @@
           "title": "महाशैतान है अमेरिका, ट्रंप के साइन भी रद्दी... युद्ध की चिंगारी और भड़का रहे मोजतबा खामेनेई, चुप",
           "summary": "Khamenei calls US Devil: अमेरिका-ईरान के बीच युद्ध में बातचीत की सूरत बनती हुई नहीं दिख रही है. खासतौर पर जिस तरह के तेवर दोनों नेता दिखा रहे हैं, उसमें तो बिल्कुल नहीं. ईरान के सर्वोच्च नेता ने सीधे-सीधे अमेरिका को महाशैतान कह दिया है और वहां के राष्ट्रपति को गैर भरोसेमंद शख्स कहा है. जब अमेरिका लगातार कार्रवाई कर रहा है, उस बीच में इस तरह के बयान हालात को और नाजुक बना सकते हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "राम जन्मभूमि में कथित चंदा चोरी का मामला: SC ने यूपी सरकार से नए सिरे से SIT के गठन को कहा, 27",
-      "url": "https://www.abplive.com/news/india/ram-mandir-donation-case-supreme-court-says-issue-should-not-be-politicized-next-hearing-until-july-27th-ann-3162891",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-20T11:29:19+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/13/140fa0ce367fd25cb5c32d81f9994b7317839366751091324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सुप्रीम कोर्ट ने उत्तर प्रदेश सरकार से अयोध्या के राम जन्मभूमि चंदा चोरी मामले की जांच के लिए वरिष्ठ अधिकारियों की एसआईटी बनाने के लिए कहा है. कोर्ट ने ऐसा तब कहा जब उसे जानकारी दी गई कि मामले में शुरू में गठित की गई एसआईटी अपना काम पूरा कर चुकी है और अब मामले की जांच पुलिस कर रही है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राम जन्मभूमि में कथित चंदा चोरी का मामला: SC ने यूपी सरकार से नए सिरे से SIT के गठन को कहा, 27",
-          "summary": "सुप्रीम कोर्ट ने उत्तर प्रदेश सरकार से अयोध्या के राम जन्मभूमि चंदा चोरी मामले की जांच के लिए वरिष्ठ अधिकारियों की एसआईटी बनाने के लिए कहा है. कोर्ट ने ऐसा तब कहा जब उसे जानकारी दी गई कि मामले में शुरू में गठित की गई एसआईटी अपना काम पूरा कर चुकी है और अब मामले की जांच पुलिस कर रही है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "CJP के सौरभ दास से मिलने के बाद मोदी सरकार का पहला रिएक्शन, धर्मेंद्र प्रधान के इस्तीफे पर हुई",
-      "url": "https://www.abplive.com/news/india/jp-nadda-reaction-modi-govt-after-met-cjp-saurav-das-jantar-mantar-dharmendra-pradhan-resignation-3162923",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-20T11:19:34+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/20/0d5b67ffdbaf88325fef0da4e7ce6fba1784546356138708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "परीक्षा पत्र लीक के विरोध में ‘कॉकरोच जनता पार्टी’ (CJP) के संसद मार्च के दौरान सोमवार को पुलिस ने हजारों की संख्या में जुटे युवाओं को तितर-बितर करने के लिए आंसू गैस के गोले छोड़े और लाठीचार्ज किया. विरोध प्रदर्शन तेज होने के कारण सेंट्रल दिल्ली के बड़े हिस्से में यातायात ठप हो गया. इस सीजेपी प्रवक्ता से सौरभ दास और आशुतोष रांका ने केंद्रीय मंत्री जेपी नड्डा से मुलाकात की.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "CJP के सौरभ दास से मिलने के बाद मोदी सरकार का पहला रिएक्शन, धर्मेंद्र प्रधान के इस्तीफे पर हुई",
-          "summary": "परीक्षा पत्र लीक के विरोध में ‘कॉकरोच जनता पार्टी’ (CJP) के संसद मार्च के दौरान सोमवार को पुलिस ने हजारों की संख्या में जुटे युवाओं को तितर-बितर करने के लिए आंसू गैस के गोले छोड़े और लाठीचार्ज किया. विरोध प्रदर्शन तेज होने के कारण सेंट्रल दिल्ली के बड़े हिस्से में यातायात ठप हो गया. इस सीजेपी प्रवक्ता से सौरभ दास और आशुतोष रांका ने केंद्रीय मंत्री जेपी नड्डा से मुलाकात की.",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -488,42 +452,6 @@
       }
     },
     {
-      "title": "'सिंहासन खाली करो, जनता...', संसद मार्च में छात्रों पर लाठीचार्ज तो भड़के कांग्रेस अध्यक्ष खड़गे",
-      "url": "https://www.abplive.com/news/india/cjp-protest-parliament-march-congress-president-mallikarjun-kharge-statement-on-delhi-police-lathicharge-on-protestors-pm-modi-speech-in-parliament-3162879",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-20T10:48:19+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/20/6341eaa1d431a5bdf539127049105d2c17845427417501324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "जंतर मंतर से संसद तक मार्च संसद तक पहुंच गया है. इस दौरान दिल्ली पुलिस ने भीड़ को तितर-बितर करने के लिए 20 से 25 मिनट तक आंसू गैस के गोले दागे गए हैं. इधर, सुरक्षा को ध्यान में रखते हुए मुख्य गेट बंद कर दिया गया है. सांसदों के आने जाने के लिए एक छोटा गेट खुला रखा गया है. यह प्रदर्शन ऐसे वक्त हो रहा है, जब देश का मॉनसून सत्र चल रहा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'सिंहासन खाली करो, जनता...', संसद मार्च में छात्रों पर लाठीचार्ज तो भड़के कांग्रेस अध्यक्ष खड़गे",
-          "summary": "जंतर मंतर से संसद तक मार्च संसद तक पहुंच गया है. इस दौरान दिल्ली पुलिस ने भीड़ को तितर-बितर करने के लिए 20 से 25 मिनट तक आंसू गैस के गोले दागे गए हैं. इधर, सुरक्षा को ध्यान में रखते हुए मुख्य गेट बंद कर दिया गया है. सांसदों के आने जाने के लिए एक छोटा गेट खुला रखा गया है. यह प्रदर्शन ऐसे वक्त हो रहा है, जब देश का मॉनसून सत्र चल रहा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आमने-सामने पुलिस-प्रदर्शनकारी, केजरीवाल से प्रियंका तक… सरकार पर ‘हल्लाबोल’",
-      "url": "https://www.abplive.com/news/india/cjp-jantar-mantar-cjp-protest-priyanka-gandhi-akhilesh-yadav-arvind-kejriwal-aap-react-jp-nadda-saurav-das-dipke-3162880",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-20T10:31:06+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/20/ec85a0776a832b78071eab793431196e1784543234882708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "प्रदर्शनकारियों ने संसद भवन की ओर बढ़ने की कोशिश की, पुलिस ने आंसू गैस के गोले दागे और कई लोगों को हिरासत में लिया। केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफे पर अड़ी कॉकक्रोच जनता पार्टी (CJP) का प्रदर्शन अब दिल्ली की सड़कों पर और उग्र हो गया है. संसद भवन की ओर बढ़े रहे प्रदर्शनकारियों पर पुलिस ने आंसू गैस के गोले दागे और कई लोगों को हिरास्त में लिया गया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आमने-सामने पुलिस-प्रदर्शनकारी, केजरीवाल से प्रियंका तक… सरकार पर ‘हल्लाबोल’",
-          "summary": "प्रदर्शनकारियों ने संसद भवन की ओर बढ़ने की कोशिश की, पुलिस ने आंसू गैस के गोले दागे और कई लोगों को हिरासत में लिया। केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफे पर अड़ी कॉकक्रोच जनता पार्टी (CJP) का प्रदर्शन अब दिल्ली की सड़कों पर और उग्र हो गया है. संसद भवन की ओर बढ़े रहे प्रदर्शनकारियों पर पुलिस ने आंसू गैस के गोले दागे और कई लोगों को हिरास्त में लिया गया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "सबसे साफ होने का दावा, फिर एक और दाग! महिला से बातचीत के विवाद में सिंगापुर के मंत्री ने छोड़ा पद",
       "url": "https://hindi.news18.com/world/rest-of-world-singapore-minister-faishal-ibrahim-resigns-pap-political-scandal-lawrence-wong-10674497.html",
       "source": "News18 Hindi (World)",
@@ -538,24 +466,6 @@
           "title": "सबसे साफ होने का दावा, फिर एक और दाग! महिला से बातचीत के विवाद में सिंगापुर के मंत्री ने छोड़ा पद",
           "summary": "सिंगापुर के कार्यवाहक मुस्लिम मामलों के मंत्री फैशल इब्राहिम ने एक महिला के साथ अपनी बातचीत को लेकर उठे विवाद के बाद मंत्री पद और सत्ताधारी पीपुल्स एक्शन पार्टी (PAP) से इस्तीफा दे दिया है. प्रधानमंत्री लॉरेंस वोंग ने कहा कि मामले में कोई आपराधिक अपराध नहीं हुआ, लेकिन एक जनप्रतिनिधि से अपेक्षित नैतिक मानकों पर सवाल उठे. सबसे साफ होने का दावा, फिर एक और दाग!",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'क्या यह कोई युद्ध का इलाका है?', पुलिस ने प्रदर्शनकारियों पर आंसू गैस के गोले दागे तो CJP ने उठाए",
-      "url": "https://www.abplive.com/news/india/cjp-protest-parliament-march-police-fired-tear-gas-shells-protesters-3162848",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-20T10:23:03+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/20/6f3c45061a4ecc48a96da52dc6c24d3e17845399439691200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पुलिस ने प्रदर्शनकारियों पर आंसू गैस के गोले दागे, सुरक्षा व्यवस्था कड़ी की गई। कॉकरोच जनता पार्टी का विरोध प्रदर्शन जैसे-जैसे बढ़ रहा है, वैसे-वैसे हजारों प्रदर्शनकारियों को रोकने के लिए प्रशासन ने सुरक्षा व्यवस्था और पुख्ता कर दी है. सीजेपी के प्रदर्शन को देखते हुए कई स्तरों पर सुरक्षा व्यवस्था लागू की गई है. संसद भवन के पास सुरक्षा व्यवस्था और कड़ी कर दी गई है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'क्या यह कोई युद्ध का इलाका है?', पुलिस ने प्रदर्शनकारियों पर आंसू गैस के गोले दागे तो CJP ने उठाए",
-          "summary": "पुलिस ने प्रदर्शनकारियों पर आंसू गैस के गोले दागे, सुरक्षा व्यवस्था कड़ी की गई। कॉकरोच जनता पार्टी का विरोध प्रदर्शन जैसे-जैसे बढ़ रहा है, वैसे-वैसे हजारों प्रदर्शनकारियों को रोकने के लिए प्रशासन ने सुरक्षा व्यवस्था और पुख्ता कर दी है. सीजेपी के प्रदर्शन को देखते हुए कई स्तरों पर सुरक्षा व्यवस्था लागू की गई है. संसद भवन के पास सुरक्षा व्यवस्था और कड़ी कर दी गई है.",
-          "region": "दुनिया"
         }
       }
     },
@@ -578,24 +488,6 @@
       }
     },
     {
-      "title": "'वंदे मातरम बिल' की कमान से किस पर तीर चला रही सरकार? कैसे तय होगी सजा और कानून बनने के कितने चांस?",
-      "url": "https://www.abplive.com/news/india/amit-shah-presents-vande-mataram-bill-in-rajya-sabha-how-will-decide-punishment-lok-sabha-pm-modi-explained-3162877",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-20T10:11:10+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/20/448883b5387634e8dba1d69febf19bc317845422541981317_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "राष्ट्रीय सम्मान के अपमान की रोकथाम विधेयक 2026 संसद में पेश होना था, लेकिन सदन स्थगित हो गया। 20 जुलाई 2026 को संसद का मानसून सत्र शुरू होते ही राज्यसभा में 'राष्ट्रीय सम्मान के अपमान की रोकथाम (संशोधन) विधेयक 2026' पेश होना था. लेकिन सदन को कल सुबह 11 बजे तक स्थगित कर दिया. मुमकिन है कि बिल कल पेश होगा.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'वंदे मातरम बिल' की कमान से किस पर तीर चला रही सरकार? कैसे तय होगी सजा और कानून बनने के कितने चांस?",
-          "summary": "राष्ट्रीय सम्मान के अपमान की रोकथाम विधेयक 2026 संसद में पेश होना था, लेकिन सदन स्थगित हो गया। 20 जुलाई 2026 को संसद का मानसून सत्र शुरू होते ही राज्यसभा में 'राष्ट्रीय सम्मान के अपमान की रोकथाम (संशोधन) विधेयक 2026' पेश होना था. लेकिन सदन को कल सुबह 11 बजे तक स्थगित कर दिया. मुमकिन है कि बिल कल पेश होगा.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "ईरान में ​सुन्नी धर्मगुरु मोहम्मद अनवर रीगी की हत्या,सांप्रदायिक तनाव भड़कने की आशंका",
       "url": "https://www.patrika.com/world-news/iran-sunni-cleric-mohammad-anwar-rigi-killed-sistan-baluchestan-20762960",
       "source": "Patrika (World)",
@@ -610,42 +502,6 @@
           "title": "ईरान में ​सुन्नी धर्मगुरु मोहम्मद अनवर रीगी की हत्या,सांप्रदायिक तनाव भड़कने की आशंका",
           "summary": "Iran Terror Attack: ईरान के सिस्तान-बलूचिस्तान प्रांत के मिर्जावेह शहर में अज्ञात बंदूकधारियों ने दिग्गज सुन्नी समुदाय के नेता मौलवी मोहम्मद अनवर रीगी की अज्ञात लोगों ने गोली मारकर हत्या कर दी है। यह घटना शहर की अली इब्न अबी तालिब मस्जिद में हुई। मौलवी अनवर जुमे की नमाज की अगुवाई करते थे। ईरान में ​सुन्नी धर्मगुरु मोहम्मद अनवर रीगी की हत्या, सांप्रदायिक तनाव भड़कने की आशंका।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सरकार ने मान लीं प्रदर्शनकारियों की मांगें? CJP प्रवक्ता सौरभ दास बोले- '2 घंटे बिठाकर हमसे 10",
-      "url": "https://www.abplive.com/news/india/jp-nadda-meeting-cjp-saurav-das-at-his-residence-talk-on-demands-jantar-mantar-3162853",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-20T09:17:49+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/20/f8efe88b43c1f3a9a04783b221788b671784539393648344_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सीजेपी प्रवक्ता सौरभ दास ने कहा कि सरकार ने आगे बातचीत का आश्वासन दिया है। कॉकरोच जनता पार्टी ने सोमवार (20 जुलाई) को जंतर-मंतर से संसद भवन की ओर मार्च कर दिया. इस दौरान भारी बवाल हुआ. बवाल के बीच सीजेपी के प्रवक्ता सौरव दास और आशुतोष रांका केंद्रीय मंत्री जेपी नड्डा से मिलने पहुंचे. नड्डा के साथ मुलाकात के बाद सौरव दास ने कहा कि सरकार ने आगे बातचीत का आश्वासन दिया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सरकार ने मान लीं प्रदर्शनकारियों की मांगें? CJP प्रवक्ता सौरभ दास बोले- '2 घंटे बिठाकर हमसे 10",
-          "summary": "सीजेपी प्रवक्ता सौरभ दास ने कहा कि सरकार ने आगे बातचीत का आश्वासन दिया है। कॉकरोच जनता पार्टी ने सोमवार (20 जुलाई) को जंतर-मंतर से संसद भवन की ओर मार्च कर दिया. इस दौरान भारी बवाल हुआ. बवाल के बीच सीजेपी के प्रवक्ता सौरव दास और आशुतोष रांका केंद्रीय मंत्री जेपी नड्डा से मिलने पहुंचे. नड्डा के साथ मुलाकात के बाद सौरव दास ने कहा कि सरकार ने आगे बातचीत का आश्वासन दिया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "संसद पहुंचे प्रदर्शनकारी तो एक्शन में आई दिल्ली पुलिस, दीपके को हिरासत में लिया, CJP का दावा",
-      "url": "https://www.abplive.com/news/india/cjp-protest-parliament-march-saurav-das-claims-abhijeet-dipke-has-been-picked-up-by-delhi-police-3162849",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-20T09:15:20+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/20/1de6ff9a9cea903bcc095c84a76d8ee417845397653021115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सीजेपी के संस्थापक अभिजीत दीपके को पुलिस ने हिरासत में ले लिया, सौरव दास ने सोशल मीडिया पर दावा किया। कॉकरोच जनता पार्टी (CJP) के प्रवक्ता सौरव दास ने दावा किया है कि पार्टी के संस्थापक अभिजीत दीपके को पुलिस ने हिरासत में ले लिया है. इस संबंध में सौरव दास ने सोशल मीडिया प्लेटफॉर्म एक्स (X) पर एक पोस्ट साझा की.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संसद पहुंचे प्रदर्शनकारी तो एक्शन में आई दिल्ली पुलिस, दीपके को हिरासत में लिया, CJP का दावा",
-          "summary": "सीजेपी के संस्थापक अभिजीत दीपके को पुलिस ने हिरासत में ले लिया, सौरव दास ने सोशल मीडिया पर दावा किया। कॉकरोच जनता पार्टी (CJP) के प्रवक्ता सौरव दास ने दावा किया है कि पार्टी के संस्थापक अभिजीत दीपके को पुलिस ने हिरासत में ले लिया है. इस संबंध में सौरव दास ने सोशल मीडिया प्लेटफॉर्म एक्स (X) पर एक पोस्ट साझा की.",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -753,6 +609,150 @@
         "hi": {
           "title": "ईरानी तरकश से निकली 'अष्टभुजी मिसाइल', छुटकू सा साइज, पैट्रियट, आयरन डोम, THAAD को देती है चकमा",
           "summary": "Iran Kheibar Shekan Missile: ईरान-अमेरिका के युद्ध में एक से बढ़कर एक हथियारों के प्रदर्शन हुए है. अमेरिका के बी2 बॉम्बर से लेकर ईरान की डांसिंग मिसाइल तक की तबाही सबने देखी. अब जॉर्डन पर किए गए डेडली अटैक में ईरान ने जिस मिसाइल का इस्तेमाल किया है, वो ऐसी-वैसी नहीं बल्कि आठों दिशाओं में घूम-घूमकर दुश्मन के छक्के छुड़ाती है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अपनी छत टपक रही, पड़ोसी का मकान बचाने निकला पाकिस्तान, 5 मामलों पर घर में महाभारत",
+      "url": "https://hindi.news18.com/world/pakistan-facing-political-security-economic-crisis-balochistan-pok-imran-khan-army-conflict-pakistan-news-10673382.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-20T06:55:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-news-26-2026-07-2c994f07693ba36cecd4c01e56cc4ed5-1200x800.jpg",
+      "summary": "पाकिस्तान कई संकटों से जूझ रहा है, जिनमें राजनीतिक टकराव, सेना और विपक्ष की खींचतान, बलूचिस्तान और खैबर पख्तूनख्वा में बढ़ती हिंसा शामिल है. देश में आर्थिक बदहाली भी एक बड़ी चुनौती है. पाकिस्तान के प्रधानमंत्री शहबाज शरीफ को कई मोर्चों पर समस्याओं का सामना करना पड़ रहा है. ईरान और अमेरिका के बीच तनाव कम कराने की बात करने वाला पाकिस्तान इन दिनों खुद कई संकटों से जूझ रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अपनी छत टपक रही, पड़ोसी का मकान बचाने निकला पाकिस्तान, 5 मामलों पर घर में महाभारत",
+          "summary": "पाकिस्तान कई संकटों से जूझ रहा है, जिनमें राजनीतिक टकराव, सेना और विपक्ष की खींचतान, बलूचिस्तान और खैबर पख्तूनख्वा में बढ़ती हिंसा शामिल है. देश में आर्थिक बदहाली भी एक बड़ी चुनौती है. पाकिस्तान के प्रधानमंत्री शहबाज शरीफ को कई मोर्चों पर समस्याओं का सामना करना पड़ रहा है. ईरान और अमेरिका के बीच तनाव कम कराने की बात करने वाला पाकिस्तान इन दिनों खुद कई संकटों से जूझ रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान संकट से दक्षिण चीन सागर तक, आसियान बैठक में किन मुद्दों पर रहेगी दुनिया की नजर?",
+      "url": "https://www.amarujala.com/world/iran-war-myanmar-crisis-and-south-china-sea-rifts-under-spotlight-in-asean-ministerial-talks-2026-07-20",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-20T06:13:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/20/vashavaka-sakata-ka-bca-aasayana-ka-mathana_6086f4ce88c800f7ca037127bdf1aa62.jpeg?w=1200&dpr=1.0",
+      "summary": "आसियान बैठक में ईरान संकट और दक्षिण चीन सागर के मुद्दों पर चर्चा होगी। आसियान देशों के विदेश मंत्री इस बैठक में भाग लेंगे। इस बैठक में क्षेत्रीय सुरक्षा और आर्थिक मुद्दों पर भी चर्चा होगी। ASEAN ministerial Talks: ईरान संकट से दक्षिण चीन सागर तक, आसियान बैठक में किन मुद्दों पर रहेगी दुनिया की नजर?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान संकट से दक्षिण चीन सागर तक, आसियान बैठक में किन मुद्दों पर रहेगी दुनिया की नजर?",
+          "summary": "आसियान बैठक में ईरान संकट और दक्षिण चीन सागर के मुद्दों पर चर्चा होगी। आसियान देशों के विदेश मंत्री इस बैठक में भाग लेंगे। इस बैठक में क्षेत्रीय सुरक्षा और आर्थिक मुद्दों पर भी चर्चा होगी। ASEAN ministerial Talks: ईरान संकट से दक्षिण चीन सागर तक, आसियान बैठक में किन मुद्दों पर रहेगी दुनिया की नजर?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मृत तारों की टक्कर में बना सोना, अरबों साल बाद पृथ्वी तक पहुंचा; क्या स्वर्ण सूर्य से भी पुराना?",
+      "url": "https://www.amarujala.com/world/astronomical-event-dead-stars-collision-formed-gold-reached-earth-billion-years-later-is-gold-older-than-sun-2026-07-20",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-20T05:25:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/16/space_c50b3fbc32519af4b4b6e653e8655220.jpeg?w=1200&dpr=1.0",
+      "summary": "मृत तारों की टक्कर में बना सोना अरबों साल बाद पृथ्वी तक पहुंचा है। यह सोना दो न्यूट्रॉन तारों की टक्कर से बना था। वैज्ञानिकों का मानना है कि यह सोना सूर्य से भी पुराना हो सकता है। खगोलीय घटना: मृत तारों की टक्कर में बना सोना, अरबों साल बाद पृथ्वी तक पहुंचा; क्या स्वर्ण सूर्य से भी पुराना?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मृत तारों की टक्कर में बना सोना, अरबों साल बाद पृथ्वी तक पहुंचा; क्या स्वर्ण सूर्य से भी पुराना?",
+          "summary": "मृत तारों की टक्कर में बना सोना अरबों साल बाद पृथ्वी तक पहुंचा है। यह सोना दो न्यूट्रॉन तारों की टक्कर से बना था। वैज्ञानिकों का मानना है कि यह सोना सूर्य से भी पुराना हो सकता है। खगोलीय घटना: मृत तारों की टक्कर में बना सोना, अरबों साल बाद पृथ्वी तक पहुंचा; क्या स्वर्ण सूर्य से भी पुराना?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "खतरनाक दौर में पहुंचा अमेरिका-ईरान युद्ध, जिसका लेना-देना नहीं, घातक हमलों से तोड़ रहा उसकी कमर",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-extended-attack-on-kuwait-energy-water-desalination-plant-10673345.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-20T05:22:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/kuwait-pic-2026-07-a389cf3fc524be778508495dd0bf7b62-1200x800.jpg",
+      "summary": "ईरान-अमेरिका की लड़ाई में कुवैत और जॉर्डन पिस रहे हैं, ईरान के हमलों से कुवैत की नागरिक सुविधाएं खतरे में हैं। Iran Kuwait Attack: ईरान-अमेरिका की लड़ाई में इस वक्त जो खाड़ी देश सबसे ज्यादा पिस रहे हैं - वो जॉर्डन और कुवैत हैं. ईरान के भयानक हमलों की वजह से कुवैत की नागरिक सुविधाएं खतरे में आ रही हैं और शायद शिया देश चाहता भी यही है ताकि वो अमेरिका को बेस देना बंद कर दे.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खतरनाक दौर में पहुंचा अमेरिका-ईरान युद्ध, जिसका लेना-देना नहीं, घातक हमलों से तोड़ रहा उसकी कमर",
+          "summary": "ईरान-अमेरिका की लड़ाई में कुवैत और जॉर्डन पिस रहे हैं, ईरान के हमलों से कुवैत की नागरिक सुविधाएं खतरे में हैं। Iran Kuwait Attack: ईरान-अमेरिका की लड़ाई में इस वक्त जो खाड़ी देश सबसे ज्यादा पिस रहे हैं - वो जॉर्डन और कुवैत हैं. ईरान के भयानक हमलों की वजह से कुवैत की नागरिक सुविधाएं खतरे में आ रही हैं और शायद शिया देश चाहता भी यही है ताकि वो अमेरिका को बेस देना बंद कर दे.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरानी हमलों से दहल गया अमेरिका, ट्रंप आनन-फानन में कतर से हटाने लगे जेट, 50000 सैनिक अलर्ट पर",
+      "url": "https://hindi.news18.com/world/middle-east-us-removes-aircraft-from-qatar-al-udeid-air-base-amid-rising-iran-threat-israel-kc135-troops-alert-10673121.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-20T05:18:15+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/kc135-2026-07-4ace2c90e88add75918ded761d2f0208-1200x800.jpg",
+      "summary": "अमेरिका ने कतर के अल उदेद सैन्य एयरबेस से KC-135 स्ट्रैटोटैंकर विमानों को हटाना शुरू किया है, जिन्हें इजरायल भेजा जा रहा है। Iran Military Base News: ईरान के बढ़ते मिसाइल और ड्रोन हमलों के खतरे के बीच अमेरिका ने कतर के अपने सैन्य एयरबेस अल उदेद से दूसरी बार अहम सैन्य विमानों को हटाना शुरू कर दिया है. रिपोर्ट्स के मुताबिक KC-135 स्ट्रैटोटैंकर विमानों को इजरायल भेजा जा रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरानी हमलों से दहल गया अमेरिका, ट्रंप आनन-फानन में कतर से हटाने लगे जेट, 50000 सैनिक अलर्ट पर",
+          "summary": "अमेरिका ने कतर के अल उदेद सैन्य एयरबेस से KC-135 स्ट्रैटोटैंकर विमानों को हटाना शुरू किया है, जिन्हें इजरायल भेजा जा रहा है। Iran Military Base News: ईरान के बढ़ते मिसाइल और ड्रोन हमलों के खतरे के बीच अमेरिका ने कतर के अपने सैन्य एयरबेस अल उदेद से दूसरी बार अहम सैन्य विमानों को हटाना शुरू कर दिया है. रिपोर्ट्स के मुताबिक KC-135 स्ट्रैटोटैंकर विमानों को इजरायल भेजा जा रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने रखी युद्ध खत्म करने की शर्त, कहा- रणनीतिक जीत के बाद ही शुरू होंगे वार्ता के प्रयास",
+      "url": "https://www.patrika.com/world-news/iran-us-war-latest-news-araghchi-says-end-war-after-military-gains-20761691",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-20T05:11:22+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Seyed-Abbas-Araghchi.webp",
+      "summary": "ईरान ने कहा है कि वह अमेरिका के साथ युद्ध को तभी खत्म करेगा जब उसकी स्थिति मजबूत होगी और पलड़ा उसके पक्ष में होगा। Iran says will end war After Victory: पश्चिम एशिया (मिडिल ईस्ट) में जारी तनाव के बीच ईरान ने साफ कर दिया है कि वह अमेरिका के सामने घुटने टेकने के मूड में बिल्कुल नहीं है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने रखी युद्ध खत्म करने की शर्त, कहा- रणनीतिक जीत के बाद ही शुरू होंगे वार्ता के प्रयास",
+          "summary": "ईरान ने कहा है कि वह अमेरिका के साथ युद्ध को तभी खत्म करेगा जब उसकी स्थिति मजबूत होगी और पलड़ा उसके पक्ष में होगा। Iran says will end war After Victory: पश्चिम एशिया (मिडिल ईस्ट) में जारी तनाव के बीच ईरान ने साफ कर दिया है कि वह अमेरिका के सामने घुटने टेकने के मूड में बिल्कुल नहीं है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान में फिर भूकंप के तेज झटके, पश्चिमी हिस्से में 5.5 तीव्रता का भूकंप दर्ज",
+      "url": "https://www.patrika.com/world-news/iran-earthquake-5-5-magnitude-strikes-western-region-emsc-report-20761780",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-20T05:07:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Iran-Earthquake.webp",
+      "summary": "पश्चिमी ईरान में 5.5 तीव्रता का भूकंप आया, जिससे घरों में रखा सामान गिरने लगा और लोग खुले मैदानों की तरफ भागने लगे। Iran Earthquake 5.5 Magnitude: पश्चिमी ईरान में सोमवार सुबह प्रकृति का भयानक रूप देखने को मिला, जब रिक्टर स्केल पर 5.5 की तीव्रता वाले एक बेहद शक्तिशाली भूकंप ने पूरे क्षेत्र को दहला दिया। जैसे ही धरती हिली, घरों में रखा सामान गिरने लगा और घबराए हुए लोग अपनी जान बचाने के लिए खुले मैदानों की तरफ भागने लगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान में फिर भूकंप के तेज झटके, पश्चिमी हिस्से में 5.5 तीव्रता का भूकंप दर्ज",
+          "summary": "पश्चिमी ईरान में 5.5 तीव्रता का भूकंप आया, जिससे घरों में रखा सामान गिरने लगा और लोग खुले मैदानों की तरफ भागने लगे। Iran Earthquake 5.5 Magnitude: पश्चिमी ईरान में सोमवार सुबह प्रकृति का भयानक रूप देखने को मिला, जब रिक्टर स्केल पर 5.5 की तीव्रता वाले एक बेहद शक्तिशाली भूकंप ने पूरे क्षेत्र को दहला दिया। जैसे ही धरती हिली, घरों में रखा सामान गिरने लगा और घबराए हुए लोग अपनी जान बचाने के लिए खुले मैदानों की तरफ भागने लगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्या दुनिया की तेल सप्लाई पर मंडरा रहा है बड़ा खतरा? होर्मुज स्ट्रेट पर मार्को रुबियो के बयान से",
+      "url": "https://www.patrika.com/world-news/marco-rubio-hormuz-strait-us-iran-tension-20761765",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-20T04:54:01+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/US-Secretary-of-State-Marco-Rubio.webp",
+      "summary": "अमेरिका और ईरान के बीच बढ़ते तनाव का असर वैश्विक ऊर्जा बाजार पर दिखाई दे रहा है, कच्चे तेल की कीमतों में लगातार बढ़ोतरी हो रही है। Marco Rubio on Strait of Hormuz: अमेरिका और ईरान के बीच बढ़ते तनाव का असर वैश्विक ऊर्जा बाजार पर भी साफ दिखाई दे रहा है। कच्चे तेल (क्रूड ऑयल) की कीमतों में लगातार बढ़ोतरी हो रही है, जिससे दुनिया के कई देशों को घरेलू स्तर पर आर्थिक चुनौतियों का सामना करना पड़ रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या दुनिया की तेल सप्लाई पर मंडरा रहा है बड़ा खतरा? होर्मुज स्ट्रेट पर मार्को रुबियो के बयान से",
+          "summary": "अमेरिका और ईरान के बीच बढ़ते तनाव का असर वैश्विक ऊर्जा बाजार पर दिखाई दे रहा है, कच्चे तेल की कीमतों में लगातार बढ़ोतरी हो रही है। Marco Rubio on Strait of Hormuz: अमेरिका और ईरान के बीच बढ़ते तनाव का असर वैश्विक ऊर्जा बाजार पर भी साफ दिखाई दे रहा है। कच्चे तेल (क्रूड ऑयल) की कीमतों में लगातार बढ़ोतरी हो रही है, जिससे दुनिया के कई देशों को घरेलू स्तर पर आर्थिक चुनौतियों का सामना करना पड़ रहा है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
