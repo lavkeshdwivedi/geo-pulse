@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-20T22:24:33.443747+00:00",
+  "generated_at": "2026-07-20T23:25:00.155845+00:00",
   "article_count": 50,
   "total_unique_count": 277,
   "digest": {
-    "en": "Nicaragua's president dominates headlines. Central Asian countries face fuel shortages as Russian oil exports drop. Hungary's ruling party backs Judit Polgar for President.",
-    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जो दुनिया भर की घटनाओं को कवर करती हैं। ईरान पर अमेरिकी हमले और ईरानी सेना की जवाबी कार्रवाई ने मध्य पूर्व में तनाव बढ़ा दिया है। झारखंड में माओवादी विद्रोही गुट का सदस्य गिरफ्तार किया गया है।"
+    "en": "Russian oil exports are dropping. Hungary's ruling party is backing Judit Polgar for President. Ukraine and Russia are exchanging overnight strikes.",
+    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जिनमें आमिर खान और जूही चावला की फिल्म 'टाइम मशीन' की चर्चा हो रही है। करण जौहर ने स्क्रिप्ट की कम कीमत लगाई थी। इसके अलावा 23 साल बाद एक युवक ने अपने पिता की मौत का बदला लिया।"
   },
   "articles": [
-    {
-      "title": "Nicaragua’s president says country will not hold any more elections",
-      "url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-20T21:36:47+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/1ad9f6e529a004c24c2fa9706fd07d6cea3c62a1/142_0_944_755/master/944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f2cd91920cd9babad16e990923599ce",
-      "summary": "Daniel Ortega, the 80-year-old authoritarian leader, says move will ‘build a wall’ against the oppositionNicaragua’s long-serving president, Daniel Ortega, has said the country will hold no further elections to prevent the opposition from coming to power.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
     {
       "title": "Central Asian Countries Face Fuel Shortages As Russian Oil Exports Drop Off",
       "url": "https://www.rferl.org/a/kyrgyzstan-tajikistan-fuel-shortage-russian-exports/33808383.html",
@@ -308,6 +296,18 @@
       "translations": {}
     },
     {
+      "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+      "url": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-06-30T15:20:00+00:00",
+      "image_url": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group. New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "'टाइम मशीन' में लीड रोल में थे आमिर खान और जूही चावला, करण जौहर ने स्क्रिप्ट की लगाई कम कीमत; इसलिए",
       "url": "https://www.amarujala.com/entertainment/bollywood/why-time-machine-was-not-completed-karan-johar-offered-rs-25-lakhs-aamir-khan-juhi-chawla-was-lead-2026-07-21",
       "source": "Amar Ujala National",
@@ -339,6 +339,168 @@
         "hi": {
           "title": "23 साल बाद लिया बाप की मौत का बदला: नफरत ने युवक को बना दिया कातिल, क्या है पुणे मर्डर केस की",
           "summary": "इनसाइड स्टोरी? 23 साल बाद लिया बाप की मौत का बदला: नफरत ने युवक को बना दिया कातिल, क्या है पुणे मर्डर केस की।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "US-जापान के विमानों के साथ भारत भी करेगा युद्धाभ्यास, पिच ब्लैक 2026 में खास क्या?",
+      "url": "https://www.amarujala.com/world/pitch-black-2026-indian-air-force-rafale-in-australia-joint-military-exercise-with-us-and-japanese-aircrafts-2026-07-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-20T23:24:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/16/bharataya-vayasana_8a9c25b1e519f23655780831d0d846f7.jpeg?w=1200&dpr=1.0",
+      "summary": "ऑस्ट्रेलियाई धरती पर राफेल: US-जापान के विमानों के साथ भारत भी करेगा युद्धाभ्यास, पिच ब्लैक 2026 में खास क्या?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "US-जापान के विमानों के साथ भारत भी करेगा युद्धाभ्यास, पिच ब्लैक 2026 में खास क्या?",
+          "summary": "ऑस्ट्रेलियाई धरती पर राफेल: US-जापान के विमानों के साथ भारत भी करेगा युद्धाभ्यास, पिच ब्लैक 2026 में खास क्या?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "23 आईआईटी में 4,300 से अधिक प्रोफेसर के पद खाली, दाखिला तो मिला पर पढ़ाएगा कौन?",
+      "url": "https://www.amarujala.com/education/over-4300-professor-posts-vacant-in-23-iits-quality-education-at-risk-2026-07-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-20T23:19:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/aaiiaaiita-parafasara-kama_2f4aa8a4afa06e2801983bcd43876b69.jpeg?w=1200&dpr=1.0",
+      "summary": "केंद्र की रिपोर्ट: 23 आईआईटी में 4,300 से अधिक प्रोफेसर के पद खाली, दाखिला तो मिला पर पढ़ाएगा कौन?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "23 आईआईटी में 4,300 से अधिक प्रोफेसर के पद खाली, दाखिला तो मिला पर पढ़ाएगा कौन?",
+          "summary": "केंद्र की रिपोर्ट: 23 आईआईटी में 4,300 से अधिक प्रोफेसर के पद खाली, दाखिला तो मिला पर पढ़ाएगा कौन?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "US-इस्राइल और यूरोप के रुख क्या, वैश्विक व्यापार की सुरक्षा में भूमिका कितनी अहम?",
+      "url": "https://www.amarujala.com/world/growing-maritime-power-of-india-know-us-israel-and-europe-stances-role-in-securing-global-trade-crucial-report-2026-07-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-20T23:06:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/03/india-us-trade-deal-us-tariffs-india-us-trade_6d45f3806cc3bff562e9ffc61037fb66.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत की बढ़ती समुद्री ताकत: US-इस्राइल और यूरोप के रुख क्या, वैश्विक व्यापार की सुरक्षा में भूमिका कितनी अहम?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "US-इस्राइल और यूरोप के रुख क्या, वैश्विक व्यापार की सुरक्षा में भूमिका कितनी अहम?",
+          "summary": "भारत की बढ़ती समुद्री ताकत: US-इस्राइल और यूरोप के रुख क्या, वैश्विक व्यापार की सुरक्षा में भूमिका कितनी अहम?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "उधर PoK वाली बगावत.. इधर ईरान-अमेरिका के बीच फंस गए शहबाज़-मुनीर.. क्या धमाका होनेवाला है?",
+      "url": "https://hindi.news18.com/world/pakistan-shahbaz-sharif-and-munir-themselves-caught-between-iran-and-the-us-sushant-sinha-desh-ki-pathshala-10675743.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-20T23:01:03+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Shehbaz-Sharif-Asim-Munir-2026-07-3ea83787fc279c80d4d86fd23612a973-1200x800.jpg",
+      "summary": "Desh Ki Pathshala: ईरान और अमेरिका के बीच सारे समझौते फेल हो गए हैं. दोनों देशों के बीत युद्ध अब नए खतरनाक स्टेज पर पहुंच गया है. ईरान पर अमेरिका लगातार हमले कर रहा है. लेकिन अब ईरान ने ऐसा काम किया है, जिस से ट्रंप बुरी तरह से बौखला गए हैं. ईरान के हमलों से अमेरिकी सैनिकों की मौत ने ट्रंप को हिला दिया है, ट्रंप ने ईरान को पूरी तरह से नेस्तनाबूद करने की ठान ली है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उधर PoK वाली बगावत.. इधर ईरान-अमेरिका के बीच फंस गए शहबाज़-मुनीर.. क्या धमाका होनेवाला है?",
+          "summary": "Desh Ki Pathshala: ईरान और अमेरिका के बीच सारे समझौते फेल हो गए हैं. दोनों देशों के बीत युद्ध अब नए खतरनाक स्टेज पर पहुंच गया है. ईरान पर अमेरिका लगातार हमले कर रहा है. लेकिन अब ईरान ने ऐसा काम किया है, जिस से ट्रंप बुरी तरह से बौखला गए हैं. ईरान के हमलों से अमेरिकी सैनिकों की मौत ने ट्रंप को हिला दिया है, ट्रंप ने ईरान को पूरी तरह से नेस्तनाबूद करने की ठान ली है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "यूपी के DGP ने जारी किया निर्देश कांवड़ रूट पर बंद रहेगी मीट-शराब की दुकानें!",
+      "url": "https://www.amarujala.com/video/india-news/kanwar-yatra-2026-up-dgp-issues-directive-meat-and-liquor-shops-along-the-kanwar-route-to-remain-closed-2026-07-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-20T23:00:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/kanwar-yatra-2026_7a53c3084afbe7a25c3de1b05292cf27.jpeg?w=1200&dpr=1.0",
+      "summary": "Kanwar Yatra 2026: यूपी के DGP ने जारी किया निर्देश कांवड़ रूट पर बंद रहेगी मीट-शराब की दुकानें!",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूपी के DGP ने जारी किया निर्देश कांवड़ रूट पर बंद रहेगी मीट-शराब की दुकानें!",
+          "summary": "Kanwar Yatra 2026: यूपी के DGP ने जारी किया निर्देश कांवड़ रूट पर बंद रहेगी मीट-शराब की दुकानें!",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "आईआरडीएआई को दिए नियम सरल और स्पष्ट करने के निर्देश, क्या है मामला?",
+      "url": "https://www.amarujala.com/india-news/supreme-court-rules-on-cross-border-vehicle-insurance-policy-irdai-guidelines-2026-07-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-20T22:52:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/13/rajasthan-news_5219290bbb3cc46e08e7cb22ed3f799e.jpeg?w=1200&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट का बड़ा फैसला: आईआरडीएआई को दिए नियम सरल और स्पष्ट करने के निर्देश, क्या है मामला?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईआरडीएआई को दिए नियम सरल और स्पष्ट करने के निर्देश, क्या है मामला?",
+          "summary": "सुप्रीम कोर्ट का बड़ा फैसला: आईआरडीएआई को दिए नियम सरल और स्पष्ट करने के निर्देश, क्या है मामला?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "न आंदोलनकारियों को बुलाया और न दिया कोई आश्वासन, केंद्र सरकार ने स्पष्ट किया रुख",
+      "url": "https://www.amarujala.com/india-news/neet-paper-leak-controversy-amit-shah-marathon-meeting-government-clarifies-stand-2026-07-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-20T22:45:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/amata-shaha-katharaya-gaha-matara_186f6f053961a43831783f2cb6804a52.jpeg?w=1200&dpr=1.0",
+      "summary": "केंद्र सरकार ने स्पष्ट किया कि उन्होंने आंदोलनकारियों को बुलाया नहीं और न ही कोई आश्वासन दिया। सरकार ने अपना रुख स्पष्ट करते हुए कहा कि वे आंदोलनकारियों के साथ बातचीत नहीं करेंगे। इस फैसले से आंदोलनकारियों को निराशा हुई है। CJP Protest: न आंदोलनकारियों को बुलाया और न दिया कोई आश्वासन, केंद्र सरकार ने स्पष्ट किया रुख।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "न आंदोलनकारियों को बुलाया और न दिया कोई आश्वासन, केंद्र सरकार ने स्पष्ट किया रुख",
+          "summary": "केंद्र सरकार ने स्पष्ट किया कि उन्होंने आंदोलनकारियों को बुलाया नहीं और न ही कोई आश्वासन दिया। सरकार ने अपना रुख स्पष्ट करते हुए कहा कि वे आंदोलनकारियों के साथ बातचीत नहीं करेंगे। इस फैसले से आंदोलनकारियों को निराशा हुई है। CJP Protest: न आंदोलनकारियों को बुलाया और न दिया कोई आश्वासन, केंद्र सरकार ने स्पष्ट किया रुख।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "देश के 570 जिले बनेंगे निर्यात हब: यूपी के 12 जिलों से होगी शुरुआत, भारतीय उत्पादों की बढ़ेगी",
+      "url": "https://www.amarujala.com/business/business-diary/government-to-develop-570-districts-as-export-hubs-by-2030-odop-integration-2026-07-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-20T22:37:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/17/export_363b7328a75392ff4a534d71eeceeba4.jpeg?w=1200&dpr=1.0",
+      "summary": "देश के 570 जिले निर्यात हब बनेंगे। उत्तर प्रदेश के 12 जिलों से यह परियोजना शुरू होगी। इसका उद्देश्य भारतीय उत्पादों की वैश्विक पहुंच बढ़ाना है। देश के 570 जिले बनेंगे निर्यात हब: यूपी के 12 जिलों से होगी शुरुआत, भारतीय उत्पादों की बढ़ेगी वैश्विक पहुंच।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "देश के 570 जिले बनेंगे निर्यात हब: यूपी के 12 जिलों से होगी शुरुआत, भारतीय उत्पादों की बढ़ेगी",
+          "summary": "देश के 570 जिले निर्यात हब बनेंगे। उत्तर प्रदेश के 12 जिलों से यह परियोजना शुरू होगी। इसका उद्देश्य भारतीय उत्पादों की वैश्विक पहुंच बढ़ाना है। देश के 570 जिले बनेंगे निर्यात हब: यूपी के 12 जिलों से होगी शुरुआत, भारतीय उत्पादों की बढ़ेगी वैश्विक पहुंच।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "छात्रों से ज्यादा पहुंचे बाहरी चेहरे, जोमैटो बॉय से लेकर ट्रक ड्राइवर तक शामिल, जांच शुरू",
+      "url": "https://www.amarujala.com/india-news/neet-2026-protest-delhi-parliament-march-outsiders-involvement-investigation-2026-07-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-20T22:26:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/20/cjp-protest_0b72f7165b2f51f46333e14a8d229e79.gif?w=1200&dpr=1.0",
+      "summary": "नीट प्रदर्शन में छात्रों से ज्यादा बाहरी लोग पहुंचे। जोमैटो बॉय और ट्रक ड्राइवर भी शामिल थे। पुलिस ने जांच शुरू कर दी है। NEET Protest: छात्रों से ज्यादा पहुंचे बाहरी चेहरे, जोमैटो बॉय से लेकर ट्रक ड्राइवर तक शामिल, जांच शुरू।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "छात्रों से ज्यादा पहुंचे बाहरी चेहरे, जोमैटो बॉय से लेकर ट्रक ड्राइवर तक शामिल, जांच शुरू",
+          "summary": "नीट प्रदर्शन में छात्रों से ज्यादा बाहरी लोग पहुंचे। जोमैटो बॉय और ट्रक ड्राइवर भी शामिल थे। पुलिस ने जांच शुरू कर दी है। NEET Protest: छात्रों से ज्यादा पहुंचे बाहरी चेहरे, जोमैटो बॉय से लेकर ट्रक ड्राइवर तक शामिल, जांच शुरू।",
           "region": "दुनिया"
         }
       }
@@ -422,13 +584,13 @@
       "sources": [],
       "published_at": "2026-07-20T22:00:03+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/cjp-protest-parliament-march_9728b490b6da096305f22a7317babbf3.jpeg?w=1200&dpr=1.0",
-      "summary": "CJP Protest Parliament March: जे. पी. नड्डा से मुलाकात पर CJP के मुख्य प्रवक्ता ने किया ये बड़ा खुलासा! जे. पी.",
+      "summary": "CJP Protest Parliament March: जे. पी. नड्डा से मुलाकात पर CJP के मुख्य प्रवक्ता ने किया ये बड़ा खुलासा! जे. जे. पी.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "जे.पी. नड्डा से मुलाकात पर CJP के मुख्य प्रवक्ता ने किया ये बड़ा खुलासा!",
-          "summary": "CJP Protest Parliament March: जे. पी. नड्डा से मुलाकात पर CJP के मुख्य प्रवक्ता ने किया ये बड़ा खुलासा! जे. पी.",
+          "summary": "CJP Protest Parliament March: जे. पी. नड्डा से मुलाकात पर CJP के मुख्य प्रवक्ता ने किया ये बड़ा खुलासा! जे. जे. पी.",
           "region": "दुनिया"
         }
       }
@@ -592,168 +754,6 @@
           "title": "नेपाल को अब आई अक्ल, पुरानी गलती को सुधारा? नए सिक्के से हटा दिये भारत से विवाद वाले हिस्से",
           "summary": "Nepal issued a new one‑rupee coin that omits the disputed border map showing Limpiyadhura, Lipulekh and Kalapani as Nepali territory. The redesign reverses the 2020 map released by the KP Sharma Oli government and removes a point of contention with India. नेपाल ने एक-रुपये के सिक्के से नेपाल का वह विवादित नक्शा हटा दिया गया है, जिसमें लिम्पियाधुरा, लिपुलेख और कालापानी को नेपाल का हिस्सा दिखाया गया था.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बेंजामिन नेतन्याहू नहीं होंगे अमेरिका में गिरफ्तार, डोनाल्ड ट्रंप ने दिया जवाब",
-      "url": "https://www.patrika.com/world-news/donald-trump-says-benjamin-netanyahu-will-not-be-arrested-in-us-20764218",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-20T18:22:15+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/trump-with-netanyahu.webp",
-      "summary": "इज़रायल (Israel) के पीएम बेंजामिन नेतन्याहू (Benjamin Netanyahu) पिछले हफ्ते अमेरिका (United States of America) का दौरा करने वाले थे, लेकिन इसे टाल दिया गया। हालांकि बताया जा रहा है कि इज़रायली पीएम जल्द ही अमेरिका का दौरा करेंगे। उनके अमेरिका दौरे से पहले न्यूयॉर्क (New York) के मेयर जोहरान ममदानी (Zohran Mamdani) ने नेतन्याहू की गिरफ्तारी की मांग उठाई है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बेंजामिन नेतन्याहू नहीं होंगे अमेरिका में गिरफ्तार, डोनाल्ड ट्रंप ने दिया जवाब",
-          "summary": "इज़रायल (Israel) के पीएम बेंजामिन नेतन्याहू (Benjamin Netanyahu) पिछले हफ्ते अमेरिका (United States of America) का दौरा करने वाले थे, लेकिन इसे टाल दिया गया। हालांकि बताया जा रहा है कि इज़रायली पीएम जल्द ही अमेरिका का दौरा करेंगे। उनके अमेरिका दौरे से पहले न्यूयॉर्क (New York) के मेयर जोहरान ममदानी (Zohran Mamdani) ने नेतन्याहू की गिरफ्तारी की मांग उठाई है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "समुद्र में मौत का हमला! यूक्रेन के ओडेसा पोर्ट से निकलते ही जहाज पर अटैक, 4 भारतीयों की गई जान",
-      "url": "https://hindi.news18.com/news/nation/4-indians-killed-1-critically-injured-in-attack-on-ship-at-odesa-port-ukraine-blames-russia-10675508.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-20T18:09:29+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Odessa-Ship-2026-07-600afbf6ca8b877b544e4a0caf53d345-1200x800.jpg",
-      "summary": "Ukraine Ship Attacked: यूक्रेन के ओडेसा बंदरगाह से रवाना हो रहे मालवाहक जहाज MV GOLDEN LEO पर हुए हमले में चार भारतीय नाविकों की मौत हो गई, जबकि एक भारतीय गंभीर रूप से घायल है. विदेश मंत्रालय ने घटना की पुष्टि करते हुए कहा कि जहाज पर कुल 17 चालक दल के सदस्य थे, जिनमें पांच भारतीय शामिल थे. भारत ने नागरिक जहाजों पर हमले की कड़ी निंदा करते हुए इसे समुद्री व्यापार और नौवहन की स्वतंत्रता पर हमला बताया।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "समुद्र में मौत का हमला! यूक्रेन के ओडेसा पोर्ट से निकलते ही जहाज पर अटैक, 4 भारतीयों की गई जान",
-          "summary": "Ukraine Ship Attacked: यूक्रेन के ओडेसा बंदरगाह से रवाना हो रहे मालवाहक जहाज MV GOLDEN LEO पर हुए हमले में चार भारतीय नाविकों की मौत हो गई, जबकि एक भारतीय गंभीर रूप से घायल है. विदेश मंत्रालय ने घटना की पुष्टि करते हुए कहा कि जहाज पर कुल 17 चालक दल के सदस्य थे, जिनमें पांच भारतीय शामिल थे. भारत ने नागरिक जहाजों पर हमले की कड़ी निंदा करते हुए इसे समुद्री व्यापार और नौवहन की स्वतंत्रता पर हमला बताया।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "चीन का पाकिस्तान प्लान क्यों हो रहा फेल, बलूचिस्तान की आग में कैसे फंसा ड्रैगन का अरबों डॉलर वाला",
-      "url": "https://hindi.news18.com/world/pakistan-china-pakistan-plan-failing-apart-how-beijing-multi-billion-dollar-dream-become-entangled-in-balochistan-unrest-10675682.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-20T17:52:11+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Baloochinstan-2026-07-99c7eda9d5094c743a9d31f1fe767183-1200x800.jpg",
-      "summary": "Balochistan unrest effect on China: बलूचिस्तान में बढ़ती हिंसा ने चीन के अरबों डॉलर के निवेश और महत्वाकांक्षी CPEC प्रोजेक्ट पर संकट खड़ा कर दिया है. ग्वादर बंदरगाह से लेकर खनन परियोजनाओं तक चीनी हितों को सुरक्षा चुनौतियों का सामना करना पड़ रहा है. सैंदक कॉपर-गोल्ड प्रोजेक्ट ने भी खराब कानून व्यवस्था के कारण काम बंद होने की आशंका जताई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन का पाकिस्तान प्लान क्यों हो रहा फेल, बलूचिस्तान की आग में कैसे फंसा ड्रैगन का अरबों डॉलर वाला",
-          "summary": "Balochistan unrest effect on China: बलूचिस्तान में बढ़ती हिंसा ने चीन के अरबों डॉलर के निवेश और महत्वाकांक्षी CPEC प्रोजेक्ट पर संकट खड़ा कर दिया है. ग्वादर बंदरगाह से लेकर खनन परियोजनाओं तक चीनी हितों को सुरक्षा चुनौतियों का सामना करना पड़ रहा है. सैंदक कॉपर-गोल्ड प्रोजेक्ट ने भी खराब कानून व्यवस्था के कारण काम बंद होने की आशंका जताई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बिना चुनाव के ब्रिटेन को मिला नया प्रधानमंत्री. कौन हैं एंडी बर्नहैम और कैसे मिली देश की कमान?",
-      "url": "https://hindi.news18.com/world/britain-britain-gets-a-new-pm-without-election-who-is-andy-burnham-take-charge-of-the-country-sjn-photogallery-10675628.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-20T17:47:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/ANDY-Bahrman-2026-07-419781ed0aa4f4a1d58efeb2ba0a7725-1200x800.jpg",
-      "summary": "ब्रिटेन को नया प्रधानमंत्री मिल गया है. लेबर पार्टी के वरिष्ठ नेता एंडी बर्नहैम ने आधिकारिक तौर पर देश की कमान संभाल ली है. उन्होंने कीर स्टार्मर की जगह ली है, जिन्होंने पिछले महीने अपने पद से इस्तीफा दे दिया था. दिलचस्प बात यह है कि इसके लिए ब्रिटेन में आम चुनाव नहीं हुए. फिर भी देश का प्रधानमंत्री बदल गया. आखिर ऐसा कैसे हुआ?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बिना चुनाव के ब्रिटेन को मिला नया प्रधानमंत्री. कौन हैं एंडी बर्नहैम और कैसे मिली देश की कमान?",
-          "summary": "ब्रिटेन को नया प्रधानमंत्री मिल गया है. लेबर पार्टी के वरिष्ठ नेता एंडी बर्नहैम ने आधिकारिक तौर पर देश की कमान संभाल ली है. उन्होंने कीर स्टार्मर की जगह ली है, जिन्होंने पिछले महीने अपने पद से इस्तीफा दे दिया था. दिलचस्प बात यह है कि इसके लिए ब्रिटेन में आम चुनाव नहीं हुए. फिर भी देश का प्रधानमंत्री बदल गया. आखिर ऐसा कैसे हुआ?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन के ओडेसा पोर्ट पर जहाज पर हमले में 4 भारतीयों की मौत और एक घायल, भारत ने की हमले की कड़ी",
-      "url": "https://www.patrika.com/world-news/4-indians-killed-and-one-injured-after-attack-on-ship-at-odesa-port-in-ukraine-india-condemns-it-20764200",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-20T17:43:47+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/attack-on-ship.webp",
-      "summary": "रूस और यूक्रेन के बीच चल रहा युद्ध (Russia-Ukraine War) काफी प्रयासों के बाद भी खत्म नहीं हो रहा है। दोनों देश एक-दूसरे पर हमले कर रहे हैं। यूक्रेन ने जहाँ अब रूस की तेल रिफाइनरियों पर हमले शुरू कर दिए हैं, तो वहीँ रूस शुरू से यूक्रेन के इंफ्रास्ट्रक्चर को निशाना बना रहा है। अब यूक्रेन के ओडेसा पोर्ट (Odesa Port) पर एक कार्गो जहाज पर हमले का मामला सामने आया है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन के ओडेसा पोर्ट पर जहाज पर हमले में 4 भारतीयों की मौत और एक घायल, भारत ने की हमले की कड़ी",
-          "summary": "रूस और यूक्रेन के बीच चल रहा युद्ध (Russia-Ukraine War) काफी प्रयासों के बाद भी खत्म नहीं हो रहा है। दोनों देश एक-दूसरे पर हमले कर रहे हैं। यूक्रेन ने जहाँ अब रूस की तेल रिफाइनरियों पर हमले शुरू कर दिए हैं, तो वहीँ रूस शुरू से यूक्रेन के इंफ्रास्ट्रक्चर को निशाना बना रहा है। अब यूक्रेन के ओडेसा पोर्ट (Odesa Port) पर एक कार्गो जहाज पर हमले का मामला सामने आया है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "चीन के चक्कर में प्यासा मरने वाले काम कर रहा बांग्लादेश? भारत दौरा टाल अपने लिए मुश्किल खड़ी कर रहे",
-      "url": "https://hindi.news18.com/world/south-asia-why-did-bangladesh-prime-minister-tarique-rahman-postpone-his-visit-to-india-sjn-10675569.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-20T16:45:18+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Tariqh-Rahman-Xi-Jinping-2026-06-6df40a3377e55bbb66af8b0bdfdd3d9b-1200x800.jpg",
-      "summary": "बांग्लादेश के नए प्रधानमंत्री तारिक रहमान ने फिलहाल भारत आने की अपनी योजना टाल दी है. माना जा रहा है कि दोनों देशों के बीच बढ़ते मतभेद और भरोसे की कमी इसकी बड़ी वजह हैं. रिपोर्ट्स के मुताबिक, अब बांग्लादेश सरकार भारत की बजाय जापान, सऊदी अरब और संयुक्त राष्ट्र महासभा से जुड़े कार्यक्रमों पर ज्यादा ध्यान दे रही है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन के चक्कर में प्यासा मरने वाले काम कर रहा बांग्लादेश? भारत दौरा टाल अपने लिए मुश्किल खड़ी कर रहे",
-          "summary": "बांग्लादेश के नए प्रधानमंत्री तारिक रहमान ने फिलहाल भारत आने की अपनी योजना टाल दी है. माना जा रहा है कि दोनों देशों के बीच बढ़ते मतभेद और भरोसे की कमी इसकी बड़ी वजह हैं. रिपोर्ट्स के मुताबिक, अब बांग्लादेश सरकार भारत की बजाय जापान, सऊदी अरब और संयुक्त राष्ट्र महासभा से जुड़े कार्यक्रमों पर ज्यादा ध्यान दे रही है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "क्या करके मानेगा चीन, 192 देशों में जितने ह्यूमनॉइड उससे ज्यादा उसके के पास, एक शहर में लगा डाली",
-      "url": "https://hindi.news18.com/world/china-china-holds-more-than-half-of-world-humanoid-robots-one-city-alone-is-home-to-700-companies-sjn-10675396.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-20T16:09:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Chines-Robots-2026-07-2f65ab852085ba35b1787c91ec3fc052-1200x800.jpg",
-      "summary": "चीन अब सिर्फ दुनिया की फैक्ट्री नहीं, बल्कि रोबोट की महाशक्ति बनने जा रहा है. हालात ऐसे हैं कि दुनिया में बिकने वाले हर 10 में से करीब 7 चार पैरों वालेरोबोट चीन में बने होते हैं. इतना ही नहीं, चीन 400 से ज्यादा ह्यूमनॉइड रोबोट भी बना चुका है. ये दुनिया के कुल ह्यूमनॉइड रोबोट मॉडल्स का आधे से ज्यादा हिस्सा हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या करके मानेगा चीन, 192 देशों में जितने ह्यूमनॉइड उससे ज्यादा उसके के पास, एक शहर में लगा डाली",
-          "summary": "चीन अब सिर्फ दुनिया की फैक्ट्री नहीं, बल्कि रोबोट की महाशक्ति बनने जा रहा है. हालात ऐसे हैं कि दुनिया में बिकने वाले हर 10 में से करीब 7 चार पैरों वालेरोबोट चीन में बने होते हैं. इतना ही नहीं, चीन 400 से ज्यादा ह्यूमनॉइड रोबोट भी बना चुका है. ये दुनिया के कुल ह्यूमनॉइड रोबोट मॉडल्स का आधे से ज्यादा हिस्सा हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ब्रिटेन के पूर्व पीएम कीर स्टार्मर के बाद अब उप-प्रधानमंत्री ने भी दिया इस्तीफा",
-      "url": "https://www.patrika.com/world-news/uk-deputy-prime-minister-david-lammy-resigns-after-andy-burnham-becomes-prime-minister-20764099",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-20T15:31:23+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/UK-Deputy-PM-Resigns.webp",
-      "summary": "David Lammy Resignation: ब्रिटेन में सत्ता परिवर्तन के बाद कैबिनेट में बड़ा फेरबदल शुरू हो गया है। पूर्व पीएम कीर स्टार्मर के इस्तीफे के बाद प्रधानमंत्री बने एंडी बर्नहम ने अपनी नई टीम का गठन शुरू कर दिया है। इसी क्रम में उप-प्रधानमंत्री डेविड लैमी ने सोमवार को सरकार से इस्तीफा दे दिया। उन्होंने कहा कि नए प्रधानमंत्री को अपनी पसंद की टीम बनाने का पूरा अधिकार है और वह अब सांसद के रूप में लेबर सरकार।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ब्रिटेन के पूर्व पीएम कीर स्टार्मर के बाद अब उप-प्रधानमंत्री ने भी दिया इस्तीफा",
-          "summary": "David Lammy Resignation: ब्रिटेन में सत्ता परिवर्तन के बाद कैबिनेट में बड़ा फेरबदल शुरू हो गया है। पूर्व पीएम कीर स्टार्मर के इस्तीफे के बाद प्रधानमंत्री बने एंडी बर्नहम ने अपनी नई टीम का गठन शुरू कर दिया है। इसी क्रम में उप-प्रधानमंत्री डेविड लैमी ने सोमवार को सरकार से इस्तीफा दे दिया। उन्होंने कहा कि नए प्रधानमंत्री को अपनी पसंद की टीम बनाने का पूरा अधिकार है और वह अब सांसद के रूप में लेबर सरकार।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान के राष्ट्रपति का बड़ा बयान, कहा- अमेरिका से लड़ाई अब सिर्फ मिसाइलों तक सीमित नहीं",
-      "url": "https://www.patrika.com/world-news/iran-us-conflict-masoud-pezeshkian-full-scale-war-statement-america-mediation-20764042",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-20T14:56:43+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Iran-US-Conflict-news.webp",
-      "summary": "Masoud Pezeshkian: ईरान के राष्ट्रपति मसूद पेजेशकियन ने कहा है कि उनका देश अमेरिका के साथ ‘फुल स्केल वॉर’ की स्थिति में है। उन्होंने कहा कि यह लड़ाई केवल मिसाइलों तक सीमित नहीं है, बल्कि अब अर्थव्यवस्था और लोगों की आजीविका भी इस संघर्ष का हिस्सा बन चुकी है। साथ ही उन्होंने माना कि राष्ट्रीय हितों की रक्षा की इस राह पर ईरान को इसके स्वाभाविक परिणाम भी स्वीकार करने होंगे।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के राष्ट्रपति का बड़ा बयान, कहा- अमेरिका से लड़ाई अब सिर्फ मिसाइलों तक सीमित नहीं",
-          "summary": "Masoud Pezeshkian: ईरान के राष्ट्रपति मसूद पेजेशकियन ने कहा है कि उनका देश अमेरिका के साथ ‘फुल स्केल वॉर’ की स्थिति में है। उन्होंने कहा कि यह लड़ाई केवल मिसाइलों तक सीमित नहीं है, बल्कि अब अर्थव्यवस्था और लोगों की आजीविका भी इस संघर्ष का हिस्सा बन चुकी है। साथ ही उन्होंने माना कि राष्ट्रीय हितों की रक्षा की इस राह पर ईरान को इसके स्वाभाविक परिणाम भी स्वीकार करने होंगे।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
