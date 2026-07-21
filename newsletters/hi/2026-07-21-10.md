@@ -1,13 +1,13 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 21, 2026 15:26 IST
+**अपडेट:** July 21, 2026 16:16 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
 ### [जॉर्डन, बहरीन, कुवैत पर ताबड़तोड़ मिसाइलें ठोक रहा ईरान, अमेजन का डेटा सेंटर उड़ाया](https://hindi.news18.com/world/middle-east-iran-us-war-news-update-us-attack-on-iran-tehran-attacks-kuwait-houthi-red-sea-miidle-east-conflict-livenews-10675906.html)
-*News18 Hindi (World)* - Jul 21, 14:57 IST (iso: 2026-07-21T09:27:18+00:00)
+*News18 Hindi (World)* - Jul 21, 15:47 IST (iso: 2026-07-21T10:17:54+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/trump-pic-2026-07-53b1efca8a2464c8ce7358f712f91c2a-1200x800.jpg -->
 
 Iran-US War Update: ईरान-अमेरिका युद्ध के दूसरे चरण में भी 10 दिन बीत चुके हैं लेकिन अब तक कोई पक्ष शांत नहीं हो रहा है. अमेरिका की ओर से लगातार एयरस्ट्राइक जारी है और दूसरी ओर ईरान भी अमेरिकी एयर बेसेज को चुन-चुनकर निशाना बना रहा है. इस बीच हूतियों की भी एंट्री होती हुई दिख रही है, सऊदी अरब के बहाने ही सही, उसने भी लाल सागर को घेरकर खतरे की घंटी बजा दी है.
@@ -82,6 +82,12 @@ Russia KH-69 Cruise Missile: रूस-यूक्रेन युद्ध म
 
 राष्ट्रपति की विदेश यात्रा: सफल मोल्दोवा दौरा कर उत्तरी मैसेडोनिया पहुंचीं द्रौपदी मुर्मू, पहली भारतीय मेहमान।
 
+### [पुतिन से मिलीं उ.कोरिया की विदेश मंत्री: क्या किम जोंग भी जाएंगे रूस; दोनों देशों में क्या चल रही](https://www.amarujala.com/world/russian-president-putin-meets-with-north-korean-foreign-minister-in-latest-high-level-diplomacy-2026-07-21)
+*Amar Ujala World* - Jul 21, 07:46 IST (iso: 2026-07-21T02:16:36+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/21/cae-sana-haii-valthamara-patana_c6b0b1acfe522af9244f3e7112588fab.jpeg?w=1200&dpr=1.0 -->
+
+है तैयारी? पुतिन से मिलीं उ. कोरिया की विदेश मंत्री: क्या किम जोंग भी जाएंगे रूस; दोनों देशों में क्या चल रही है तैयारी?
+
 ---
 
 ## एशिया-प्रशांत
@@ -128,6 +134,18 @@ FBI placed Indian national Harmanveer Singh on its wanted list for drug traffick
 
 भारत ने पहलगाम अटैक के बाद ऑपरेशन सिंदूर लॉन्‍च किया था. पाकिस्‍तान में आतंकी ठिकानों को तबाह कर दिया गया था. पाकिस्‍तानी सेना के एयरबेस को भी निशाना बनाया गया था. पाकिस्‍तान इस हमले से बिलबिला उठा है. Pakistan News: पहलगाम अटैक के बाद भारत ने ऑपरेशन सिंदूर लॉन्‍च कर पाकिस्‍तान में मौजूद आतंकी ठिकानों को तबाह कर दिया था.
 
+### [सुरक्षाकर्मियों पर हमला, तोड़फोड़... प्रदर्शनकारियों के खिलाफ होगा सख्त एक्शन, CJP प्रोटेस्ट में](https://www.abplive.com/news/india/delhi-police-register-fir-against-protesters-cjp-protest-jantar-mantar-3163121)
+*ABP Live (India)* - Jul 21, 08:09 IST (iso: 2026-07-21T02:39:16+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/21/b0f643e1296b09addc139d82f7ca42f31784601855176344_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+दिल्ली पुलिस ने दर्ज की FIR सुरक्षाकर्मियों पर हमला, तोड़फोड़ प्रदर्शनकारियों के खिलाफ होगा सख्त एक्शन, CJP प्रोटेस्ट में।
+
+### [सिंधु जल संधि पर पाकिस्तान की नई मुसीबत, अब पानी की पुरानी कहानी खत्म! भारत ने टाइट कर दी नस](https://hindi.news18.com/news/nation/indus-water-treaty-news-india-big-decision-iwt-sindhu-jal-samjhauta-in-present-form-no-longer-exists-10675947.html)
+*News18 Hindi (World)* - Jul 21, 07:52 IST (iso: 2026-07-21T02:22:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/india-jhelum-chenab-river-projects-threat-for-pakistan-water-crisis-indus-water-treaty-2026-06-080a8cae7007202f200ffd4ad8927939-1200x800.jpg -->
+
+Indus Water Treaty News: पाकिस्तान के साथ सिंधु जल समझौता (इंडस वाटर ट्रीटी) अब अपने मौजूदा रूप में काम नहीं करेगा. सरकार ने पानी के इस विवादित मुद्दे पर अपना रुख कड़ा कर लिया है, क्योंकि इस्लामाबाद की ओर से सीमा पार आतंकवाद को गुप्त रूप से समर्थन देना बंद करने के कोई संकेत नहीं मिल रहे हैं. सिंधु जल संधि पर पाकिस्तान की नई मुसीबत, अब पानी की पुरानी कहानी खत्म!
+
 ---
 
 ## दुनिया
@@ -137,24 +155,6 @@ FBI placed Indian national Harmanveer Singh on its wanted list for drug traffick
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/21/sajapa-ka-sasathapaka-abhajata-thapaka_0cda9358ede89ad155e0e9f7a3fdd113.jpeg?w=1200&dpr=1.0 -->
 
 They were stalling CJP allegations against government after Parliament march says house arrest Nadda residence संसद मार्च के बाद अभिजीत दीपके ने सरकार पर लगाए आरोप, कहा- नड्डा के घर किया गया नजरबंद।
-
-### [जंतर-मंतर लाठीचार्ज पर भड़के बेनीवाल, बोले- बेटियों और युवाओं पर लाठियां चलाना लोकतंत्र पर हमला](https://www.amarujala.com/rajasthan/jaipur/hanuman-beniwal-condemns-lathi-charge-on-jantar-mantar-protesters-says-dissent-is-not-a-crime-jaipur-news-c-1-1-noi1422-4525080-2026-07-21)
-*Amar Ujala Breaking* - Jul 21, 12:40 IST (iso: 2026-07-21T07:10:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/21/aaraelpa-paramakha-hanamana-bnaval_33861a80ec5afc51b601059318c92883.jpeg?w=1200&dpr=1.0 -->
-
-आरएलपी प्रमुख और नागौर सांसद हनुमान बेनीवाल ने जंतर-मंतर पर प्रदर्शन कर रहे छात्रों, छात्राओं और महिलाओं पर हुए कथित लाठीचार्ज की कड़ी आलोचना की। जंतर-मंतर लाठीचार्ज पर भड़के बेनीवाल, बोले- बेटियों और युवाओं पर लाठियां चलाना लोकतंत्र पर हमला।
-
-### ['श्यामू' पर घमासान, हाथी की सेहत को लेकर वन विभाग और मालिक आमने-सामने](https://www.amarujala.com/madhya-pradesh/ujjain/crisis-before-aug-10-is-shyamu-elephant-really-sick-or-is-it-a-conspiracy-against-mahakals-46-year-old-tradition-ujjain-news-c-1-1-noi1228-4525082-2026-07-21)
-*Amar Ujala Breaking* - Jul 21, 12:36 IST (iso: 2026-07-21T07:06:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/21/hatha-shayama_b9c1ef588576d8b7af5d7cb3e9eeec43.jpeg?w=1200&dpr=1.0 -->
-
-मादा हाथी श्यामू की सेहत को लेकर वन विभाग और मालिक आमने-सामने हैं। महाकाल की 10 अगस्त को निकलने वाली दूसरी शाही सवारी से पहले मादा हाथी श्यामू की सेहत को लेकर विवाद खड़ा हो गया है। वन विभाग और श्यामू के मालिक आमने-सामने हैं। 'श्यामू' पर घमासान, हाथी की सेहत को लेकर वन विभाग और मालिक आमने-सामने।
-
-### [सोनम वांगचुक विवाद के बीच सिनेमाघरों में फिर दस्तक देगी आमिर खान की फिल्म '3 इडियट्स'; जानिए कब?](https://www.amarujala.com/entertainment/aamir-khan-movie-3-idiots-set-for-re-release-in-cinemas-in-september-4-amid-sonam-wangchuk-row-2026-07-21)
-*Amar Ujala Breaking* - Jul 21, 12:00 IST (iso: 2026-07-21T06:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/12/25/falma-3-idayatasa_b8ce6044eabf53d3851253e08600f30c.jpeg?w=1200&dpr=1.0 -->
-
-3 Idiots Re-Release: साल 2009 में आई फिल्म '3 इडियट्स' की री-रिलीज को लेकर खबर है। एक बार फिर दर्शक सिनेमाघरों में जाकर आमिर खान की इस फिल्म का लुत्फ उठा सकेंगे। जानिए कब होगी रिलीज? सोनम वांगचुक विवाद के बीच सिनेमाघरों में फिर दस्तक देगी आमिर खान की फिल्म '3 इडियट्स'; जानिए कब?
 
 ---
 

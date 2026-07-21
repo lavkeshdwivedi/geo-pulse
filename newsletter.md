@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 21, 2026 15:26 IST
+**Updated:** July 21, 2026 16:16 IST
 
 ---
 
@@ -88,11 +88,11 @@ The UN Secretary-General remains deeply concerned by the continuing deadly milit
 
 More than 256,000 people in Djibouti – around 25 per cent of the population – are likely to face crisis or emergency level hunger over the coming months, a UN-backed global food monitoring network warned in a new report released Friday. Emergency alert spotlights sharp hunger spike.
 
-### [Uganda calls for travel restrictions to be lifted after last Ebola patient discharged](https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged)
-*The Guardian* - Jul 16, 17:03 IST (iso: 2026-07-16T11:33:27+00:00)
-<!-- image: https://i.guim.co.uk/img/media/cb79530341aecc46d4b7e9071501688efb68c5f1/83_0_2731_2186/master/2731.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5dcaa1fa66e694cefdb56a129c2e426 -->
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Jul 04, 00:37 IST (iso: 2026-07-03T19:07:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the CongoUganda has started lobbying countries to lift Ebola-related travel restrictions after discharging its last confirmed Ebola patient from hospital. The discharge of a Congolese national from the Mulago national referral hospital’s isolation centre in Uganda calls for travel restrictions to be lifted after last Ebola patient discharged.
+scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.
 
 ---
 
