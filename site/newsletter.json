@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-21T10:46:29.387597+00:00",
-  "article_count": 50,
-  "total_unique_count": 279,
+  "generated_at": "2026-07-21T11:38:16.100735+00:00",
+  "article_count": 49,
+  "total_unique_count": 273,
   "digest": {
-    "en": "China-Philippines tensions dominate the Asia-Pacific region. Iran's conflict with the US impacts ASEAN diplomatic meetings. Russian oil exports are dropping.",
-    "hi": "आज जॉर्डन और बहरीन पर ईरान के मिसाइल हमले प्रमुख हैं। ईरान ने अमेजन का डेटा सेंटर भी निशाना बनाया। पाकिस्तान में ईंधन की कीमतें बढ़कर 360 रुपये लीटर डीजल और 315 रुपये में पेट्रोल हो गई है।"
+    "en": "Asia-Pacific leads the board this hour with Batanes latest on the list of China-Philippines flashpoints. Middle East & Africa carries the next thread. 24 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, क्या होर्मुज खोलना ट्रंप के बस की बात नहीं? अमेरिका हर दिन कर रहा बमबारी, फिर भी नहीं मिली कामयाबी मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -25,7 +25,7 @@
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-07-21T09:09:35+00:00",
-      "image_url": "https://gdb.rferl.org/44ffc92f-ed23-47e4-9a0f-970107bc24d4_w1200_h630.jpg",
+      "image_url": "https://gdb.rferl.org/b11c98b5-23bb-4bcd-195c-08decd1d5d42_w1200_h630.jpg",
       "summary": "Some blame Tehran. Others blame Washington. But pretty much everyone on Iran's southern coast can agree on one thing: The renewal of air strikes between the United States and Iran is hitting hard, bringing a summer without electricity, fuel, or a way to make a living. In Iran's South, A Renewed War Means No Power, No Fuel, And Boats Lost.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -296,31 +296,55 @@
       "translations": {}
     },
     {
-      "title": "On Our Radar",
-      "url": "https://www.crisisgroup.org/sco/global/our-radar",
-      "source": "International Crisis Group",
+      "title": "क्या होर्मुज खोलना ट्रंप के बस की बात नहीं? अमेरिका हर दिन कर रहा बमबारी, फिर भी नहीं मिली कामयाबी",
+      "url": "https://hindi.news18.com/world/america-us-is-bombing-every-day-reopening-the-strait-of-hormuz-beyond-donald-trump-capabilities-sjn-10677978.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-03T19:07:00+00:00",
-      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.",
+      "published_at": "2026-07-21T11:31:51+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Donald-trump-19-2026-06-428362eedb6f194cac9811d9696f1616-1200x800.jpg",
+      "summary": "The United States has conducted daily airstrikes against Iran but has not fully secured the Strait of Hormuz. ईरान पर लगातार हवाई हमले करने के बावजूद अमेरिका अब तक होर्मुज को पूरी तरह सुरक्षित नहीं बना पाया है. सैन्य विशेषज्ञों का कहना है कि सिर्फ बमबारी से यह मिशन पूरा नहीं होगा. अगर अमेरिका वास्तव में इस अहम समुद्री रास्ते को दोबारा पूरी तरह खोलना चाहता है, तो उसे कहीं ज्यादा बड़े सैन्य अभियान की जरूरत पड़ेगी.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या होर्मुज खोलना ट्रंप के बस की बात नहीं? अमेरिका हर दिन कर रहा बमबारी, फिर भी नहीं मिली कामयाबी",
+          "summary": "The United States has conducted daily airstrikes against Iran but has not fully secured the Strait of Hormuz. ईरान पर लगातार हवाई हमले करने के बावजूद अमेरिका अब तक होर्मुज को पूरी तरह सुरक्षित नहीं बना पाया है. सैन्य विशेषज्ञों का कहना है कि सिर्फ बमबारी से यह मिशन पूरा नहीं होगा. अगर अमेरिका वास्तव में इस अहम समुद्री रास्ते को दोबारा पूरी तरह खोलना चाहता है, तो उसे कहीं ज्यादा बड़े सैन्य अभियान की जरूरत पड़ेगी.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "जॉर्डन, बहरीन, कुवैत पर ताबड़तोड़ मिसाइलें ठोक रहा ईरान, अमेजन का डेटा सेंटर उड़ाया",
+      "title": "ईरान ने दबाई कुवैत की कमजोर नस, उड़ाए बिजली-पानी के प्लांट, तिलमिला उठी खाड़ी",
       "url": "https://hindi.news18.com/world/middle-east-iran-us-war-news-update-us-attack-on-iran-tehran-attacks-kuwait-houthi-red-sea-miidle-east-conflict-livenews-10675906.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-21T10:17:54+00:00",
+      "published_at": "2026-07-21T11:16:00+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/trump-pic-2026-07-53b1efca8a2464c8ce7358f712f91c2a-1200x800.jpg",
       "summary": "Iran-US War Update: ईरान-अमेरिका युद्ध के दूसरे चरण में भी 10 दिन बीत चुके हैं लेकिन अब तक कोई पक्ष शांत नहीं हो रहा है. अमेरिका की ओर से लगातार एयरस्ट्राइक जारी है और दूसरी ओर ईरान भी अमेरिकी एयर बेसेज को चुन-चुनकर निशाना बना रहा है. इस बीच हूतियों की भी एंट्री होती हुई दिख रही है, सऊदी अरब के बहाने ही सही, उसने भी लाल सागर को घेरकर खतरे की घंटी बजा दी है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जॉर्डन, बहरीन, कुवैत पर ताबड़तोड़ मिसाइलें ठोक रहा ईरान, अमेजन का डेटा सेंटर उड़ाया",
+          "title": "ईरान ने दबाई कुवैत की कमजोर नस, उड़ाए बिजली-पानी के प्लांट, तिलमिला उठी खाड़ी",
           "summary": "Iran-US War Update: ईरान-अमेरिका युद्ध के दूसरे चरण में भी 10 दिन बीत चुके हैं लेकिन अब तक कोई पक्ष शांत नहीं हो रहा है. अमेरिका की ओर से लगातार एयरस्ट्राइक जारी है और दूसरी ओर ईरान भी अमेरिकी एयर बेसेज को चुन-चुनकर निशाना बना रहा है. इस बीच हूतियों की भी एंट्री होती हुई दिख रही है, सऊदी अरब के बहाने ही सही, उसने भी लाल सागर को घेरकर खतरे की घंटी बजा दी है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान-अमेरिका जंग पर बड़ी पहल,पाकिस्तान में युद्धविराम पर शुरू हुई अहम बातचीत",
+      "url": "https://www.patrika.com/world-news/talks-with-iran-and-mediators-in-pakistan-20766051",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-21T11:10:32+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Pakistan-Peace-Talks-1.webp",
+      "summary": "Iran Pakistan Talks: ईरान और अमेरिका के बीच टूटे हुए अंतरिम समझौते को बचाने की कोशिशों के तहत, ईरान के एक अधिकारी ने मंगलवार को पाकिस्तान के इस्लामाबाद में मध्यस्थों के साथ बैठकें शुरू की हैं। यह सब तब हो रहा है जब दोनों देशों के बीच फिर से शुरू हुई लड़ाई का 10वां दिन है और हमले जारी हैं। मध्यस्थ देश क्षेत्र में अस्थायी युद्धविराम के प्रस्ताव पर भी चर्चा कर रहे हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान-अमेरिका जंग पर बड़ी पहल,पाकिस्तान में युद्धविराम पर शुरू हुई अहम बातचीत",
+          "summary": "Iran Pakistan Talks: ईरान और अमेरिका के बीच टूटे हुए अंतरिम समझौते को बचाने की कोशिशों के तहत, ईरान के एक अधिकारी ने मंगलवार को पाकिस्तान के इस्लामाबाद में मध्यस्थों के साथ बैठकें शुरू की हैं। यह सब तब हो रहा है जब दोनों देशों के बीच फिर से शुरू हुई लड़ाई का 10वां दिन है और हमले जारी हैं। मध्यस्थ देश क्षेत्र में अस्थायी युद्धविराम के प्रस्ताव पर भी चर्चा कर रहे हैं।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -448,24 +472,6 @@
           "title": "बिहारी के लाल को अब अंग्रेज करते हैं सलाम, ब्रिटेन के AI मिनिस्टर का मुजफ्फरपुर से क्या कनेक्शन?",
           "summary": "कनिष्क नारायण ब्रिटेन के पहले कैबिनेट-स्तर के AI मंत्री बन गए हैं। उनका मुजफ्फरपुर से कनेक्शन है। ऑक्सफोर्ड और स्टैनफोर्ड में पढ़ाई से लेकर ब्रिटेन की राजनीति में एंट्री तक अब कनिष्क नारायण देश के पहले कैबिनेट-स्तर के AI मंत्री बन गए हैं. जानिए बिहार से ब्रिटेन तक के उनके इस शानदार सफर की पूरी कहानी. बिहारी के लाल को अब अंग्रेज करते हैं सलाम, ब्रिटेन के AI मिनिस्टर का मुजफ्फरपुर से क्या कनेक्शन?",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "करियर के सबसे बुरे दौर में पीवी सिंधू ने किस क्रिकेटर को किया फोन?: किया खुलासा; बोलीं- एक सलाह ने",
-      "url": "https://www.amarujala.com/photo-gallery/sports/badminton/pv-sindhu-reveals-how-virat-kohli-s-advice-sparked-her-comeback-journey-2026-07-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-21T06:44:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/pv-sindhu-virat-kohli-japan-open-2026-akane-yamaguchi-badminton-world-championships-venkata-da_fcc1cf6df7182a89cc2cf6152fd6583b.jpeg?w=1200&dpr=1.0",
-      "summary": "पीवी सिंधू ने जापान ओपन 2026 जीतकर दो साल से अधिक समय बाद बड़ा खिताब अपने नाम किया। उन्होंने अपनी शानदार वापसी का श्रेय विराट कोहली को दिया। सिंधू ने कहा कि एक सलाह ने उनकी रणनीति में बदलाव किया। जापान ओपन 2026 जीतकर दो साल से अधिक समय बाद बड़ा खिताब अपने नाम करने वाली पीवी सिंधू ने अपनी शानदार वापसी का श्रेय विराट कोहली को भी दिया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "करियर के सबसे बुरे दौर में पीवी सिंधू ने किस क्रिकेटर को किया फोन?: किया खुलासा; बोलीं- एक सलाह ने",
-          "summary": "पीवी सिंधू ने जापान ओपन 2026 जीतकर दो साल से अधिक समय बाद बड़ा खिताब अपने नाम किया। उन्होंने अपनी शानदार वापसी का श्रेय विराट कोहली को दिया। सिंधू ने कहा कि एक सलाह ने उनकी रणनीति में बदलाव किया। जापान ओपन 2026 जीतकर दो साल से अधिक समय बाद बड़ा खिताब अपने नाम करने वाली पीवी सिंधू ने अपनी शानदार वापसी का श्रेय विराट कोहली को भी दिया है।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -710,13 +716,13 @@
       "sources": [],
       "published_at": "2026-07-21T02:39:16+00:00",
       "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/21/b0f643e1296b09addc139d82f7ca42f31784601855176344_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "दिल्ली पुलिस ने दर्ज की FIR सुरक्षाकर्मियों पर हमला, तोड़फोड़ प्रदर्शनकारियों के खिलाफ होगा सख्त एक्शन, CJP प्रोटेस्ट में।",
+      "summary": "दिल्ली पुलिस ने दर्ज की FIR सुरक्षाकर्मियों पर हमला, तोड़फोड़ प्रदर्शनकारियों के खिलाफ होगा सख्त एक्शन, CJP प्रोटेस्ट में। प्रदर्शनकारियों के खिलाफ होगा सख्त एक्शन, CJP प्रोटेस्ट में दिल्ली पुलिस ने दर्ज की FIR।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "सुरक्षाकर्मियों पर हमला, तोड़फोड़... प्रदर्शनकारियों के खिलाफ होगा सख्त एक्शन, CJP प्रोटेस्ट में",
-          "summary": "दिल्ली पुलिस ने दर्ज की FIR सुरक्षाकर्मियों पर हमला, तोड़फोड़ प्रदर्शनकारियों के खिलाफ होगा सख्त एक्शन, CJP प्रोटेस्ट में।",
+          "summary": "दिल्ली पुलिस ने दर्ज की FIR सुरक्षाकर्मियों पर हमला, तोड़फोड़ प्रदर्शनकारियों के खिलाफ होगा सख्त एक्शन, CJP प्रोटेस्ट में। प्रदर्शनकारियों के खिलाफ होगा सख्त एक्शन, CJP प्रोटेस्ट में दिल्ली पुलिस ने दर्ज की FIR।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -736,24 +742,6 @@
           "title": "सिंधु जल संधि पर पाकिस्तान की नई मुसीबत, अब पानी की पुरानी कहानी खत्म! भारत ने टाइट कर दी नस",
           "summary": "Indus Water Treaty News: पाकिस्तान के साथ सिंधु जल समझौता (इंडस वाटर ट्रीटी) अब अपने मौजूदा रूप में काम नहीं करेगा. सरकार ने पानी के इस विवादित मुद्दे पर अपना रुख कड़ा कर लिया है, क्योंकि इस्लामाबाद की ओर से सीमा पार आतंकवाद को गुप्त रूप से समर्थन देना बंद करने के कोई संकेत नहीं मिल रहे हैं. सिंधु जल संधि पर पाकिस्तान की नई मुसीबत, अब पानी की पुरानी कहानी खत्म!",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पुतिन से मिलीं उ.कोरिया की विदेश मंत्री: क्या किम जोंग भी जाएंगे रूस; दोनों देशों में क्या चल रही",
-      "url": "https://www.amarujala.com/world/russian-president-putin-meets-with-north-korean-foreign-minister-in-latest-high-level-diplomacy-2026-07-21",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-21T02:16:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/cae-sana-haii-valthamara-patana_c6b0b1acfe522af9244f3e7112588fab.jpeg?w=1200&dpr=1.0",
-      "summary": "है तैयारी? पुतिन से मिलीं उ. कोरिया की विदेश मंत्री: क्या किम जोंग भी जाएंगे रूस; दोनों देशों में क्या चल रही है तैयारी?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पुतिन से मिलीं उ.कोरिया की विदेश मंत्री: क्या किम जोंग भी जाएंगे रूस; दोनों देशों में क्या चल रही",
-          "summary": "है तैयारी? पुतिन से मिलीं उ. कोरिया की विदेश मंत्री: क्या किम जोंग भी जाएंगे रूस; दोनों देशों में क्या चल रही है तैयारी?",
-          "region": "यूरोप और रूस"
         }
       }
     }
