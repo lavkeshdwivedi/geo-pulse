@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-21T07:52:42.911329+00:00",
+  "generated_at": "2026-07-21T08:59:01.966841+00:00",
   "article_count": 50,
-  "total_unique_count": 279,
+  "total_unique_count": 281,
   "digest": {
-    "en": "U.S.-Iran conflict escalates as ASEAN's top diplomats meet in Jakarta, while U.K. PM Burnham reshuffles his cabinet with Reynolds as Business Minister and Rayner for housing. Meanwhile, Russian attacks on Kyiv and other cities expose gaps in Ukraine's air defences, and Central Asian countries face fuel shortages as Russian oil exports drop off. Iran hits out at Gulf neighbours as the crisis deepens.",
-    "hi": "अमेरिकी हमलों से घायल ईरान ने अमेजन के डेटा सेंटर उड़ाए, हूतियों की लाल सागर में घेराबंदी की घोषणा की है। ईरान की इस कार्रवाई के बाद अमेजन ने अपने डेटा सेंटर को बंद करने का फैसला किया है। इस कार्रवाई के पीछे ईरान की मंशा क्या है, यह अभी स्पष्ट नहीं है।"
+    "en": "ASEAN's top diplomats meet in shadow of U.S.-Iran conflict, while U.S. allies in the region are increasingly exposed to potential Iranian retaliation. Meanwhile, Russian attacks on Ukraine's cities have highlighted the country's vulnerability to air strikes. Central Asian countries are also facing fuel shortages due to Russia's declining oil exports.",
+    "hi": "ईरान और अमेरिका के बीच तनाव बढ़ रहा है, अमेरिकी हमलों से घायल ईरान ने अमेजन के डेटा सेंटर उड़ाए। इसी बीच, हूतियों ने लाल सागर में घेराबंदी की है, जिससे क्षेत्र में तनाव और बढ़ गया है।"
   },
   "articles": [
     {
@@ -12,7 +12,7 @@
       "url": "https://www.thehindu.com/news/international/aseans-top-diplomats-meet-in-shadow-of-us-iran-conflict/article71248361.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-07-21T07:36:55+00:00",
+      "published_at": "2026-07-21T08:13:09+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/o96uh4/article71248402.ece/alternates/LANDSCAPE_1200/CORRECTION_Philippines_ASEAN_33_78.jpg",
       "summary": "Likely to be discussed also are tensions in the South China Sea, for which ASEAN ‌and China are, after nearly 10 years, still trying to conclude a code of ​conduct to prevent disputes from escalating ASEAN's top diplomats meet in shadow of U. S.-Iran conflict.",
       "region": "Middle East & Africa",
@@ -52,18 +52,6 @@
       "image_url": "https://gdb.rferl.org/162c38e6-47c0-4a8e-42e4-08decacf94d0_w1200_h630.jpg",
       "summary": "Russia is experiencing severe fuel shortages as a result of Ukrainian strikes on its energy infrastructure, resulting in high prices and long lines for gasoline. Now Central Asian countries, which rely heavily on imports of Russian petroleum products, are seeing similar price hikes and shortages. Central Asian Countries Face Fuel Shortages As Russian Oil Exports Drop Off.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran hits out at Gulf neighbours as U.S. presses on with strikes",
-      "url": "https://www.thehindu.com/news/international/iran-hits-out-at-gulf-neighbours-as-us-presses-on-with-strikes/article71244067.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-20T20:13:56+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/33scw/article71244117.ece/alternates/LANDSCAPE_1200/2026-07-20T025843Z_1779693852_RC2EHMAR6105_RTRMADP_3_IRAN-CRISIS-USA.JPG",
-      "summary": "Oil prices surged to a one-month high as the United States and Iran tussled for control of the vital strait, with Brent crude rising above $91 a barrel. the highest price since June 11 Iran hits out at Gulf neighbours as U. S. presses on with strikes. Iran hits out at Gulf neighbours as U. S.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -308,11 +296,23 @@
       "translations": {}
     },
     {
+      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-16T11:33:27+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/cb79530341aecc46d4b7e9071501688efb68c5f1/83_0_2731_2186/master/2731.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5dcaa1fa66e694cefdb56a129c2e426",
+      "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the CongoUganda has started lobbying countries to lift Ebola-related travel restrictions after discharging its last confirmed Ebola patient from hospital. The discharge of a Congolese national from the Mulago national referral hospital’s isolation centre in Uganda calls for travel restrictions to be lifted after last Ebola patient discharged.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "अमेरिकी हमलों से घायल ईरान ने अमेजन के डेटा सेंटर उड़ाए, हूतियों की लाल सागर में घेराबंदी",
       "url": "https://hindi.news18.com/world/middle-east-iran-us-war-news-update-us-attack-on-iran-tehran-attacks-kuwait-houthi-red-sea-miidle-east-conflict-livenews-10675906.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-21T07:52:04+00:00",
+      "published_at": "2026-07-21T08:29:22+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/trump-pic-2026-07-53b1efca8a2464c8ce7358f712f91c2a-1200x800.jpg",
       "summary": "Iran-US War Update: ईरान-अमेरिका युद्ध के दूसरे चरण में भी 10 दिन बीत चुके हैं लेकिन अब तक कोई पक्ष शांत नहीं हो रहा है. अमेरिका की ओर से लगातार एयरस्ट्राइक जारी है और दूसरी ओर ईरान भी अमेरिकी एयर बेसेज को चुन-चुनकर निशाना बना रहा है. इस बीच हूतियों की भी एंट्री होती हुई दिख रही है, सऊदी अरब के बहाने ही सही, उसने भी लाल सागर को घेरकर खतरे की घंटी बजा दी है.",
       "region": "Middle East & Africa",
@@ -322,6 +322,42 @@
           "title": "अमेरिकी हमलों से घायल ईरान ने अमेजन के डेटा सेंटर उड़ाए, हूतियों की लाल सागर में घेराबंदी",
           "summary": "Iran-US War Update: ईरान-अमेरिका युद्ध के दूसरे चरण में भी 10 दिन बीत चुके हैं लेकिन अब तक कोई पक्ष शांत नहीं हो रहा है. अमेरिका की ओर से लगातार एयरस्ट्राइक जारी है और दूसरी ओर ईरान भी अमेरिकी एयर बेसेज को चुन-चुनकर निशाना बना रहा है. इस बीच हूतियों की भी एंट्री होती हुई दिख रही है, सऊदी अरब के बहाने ही सही, उसने भी लाल सागर को घेरकर खतरे की घंटी बजा दी है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "रूस ने जिस KH-69 क्रूज मिसाइल से 4 भारतीयों को मारा, वह ब्रह्मोस से कितना ताकतवर, भारत को मिल चुका",
+      "url": "https://hindi.news18.com/news/defence/russia-kh69-stealth-cruise-missile-400-range-310-kilogram-payload-brahmos-supersonic-missile-4-indian-killed-in-attack-10677110.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-21T08:23:03+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/KH-69-Missile2-2026-07-12343142f9c3caa3530518a378d40087-1200x800.jpg",
+      "summary": "Russia KH-69 Cruise Missile: रूस-यूक्रेन युद्ध में अभी तक व्‍यापक पैमाने पर नुकसान हो चुका है. 19 जुलाई 2026 को इस युद्ध की चपेट में 4 भारतीय उस वक्‍त आ गए, जब रूस ने अपने डेडली KH-69 स्‍टील्‍थ क्रूज मिसाइल से यूक्रेन तट के समीप मौजूद एक जहाज को निशाना बनाया. इस घटना में 4 भारतीयों की मौत हो गई, जबकि एक इंडियन की गंभीर अवस्‍था में हॉस्पिटल में इलाज चल रहा है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस ने जिस KH-69 क्रूज मिसाइल से 4 भारतीयों को मारा, वह ब्रह्मोस से कितना ताकतवर, भारत को मिल चुका",
+          "summary": "Russia KH-69 Cruise Missile: रूस-यूक्रेन युद्ध में अभी तक व्‍यापक पैमाने पर नुकसान हो चुका है. 19 जुलाई 2026 को इस युद्ध की चपेट में 4 भारतीय उस वक्‍त आ गए, जब रूस ने अपने डेडली KH-69 स्‍टील्‍थ क्रूज मिसाइल से यूक्रेन तट के समीप मौजूद एक जहाज को निशाना बनाया. इस घटना में 4 भारतीयों की मौत हो गई, जबकि एक इंडियन की गंभीर अवस्‍था में हॉस्पिटल में इलाज चल रहा है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अफगानिस्तान पर कुदरत का कहर, भीषण बाढ़ ने ली 20 की जान, 100 से ज्यादा लोग लापता",
+      "url": "https://hindi.news18.com/world/south-asia-afghanistan-floods-killed-20-people-100-missing-heavy-rains-devastating-weather-ws-l-10677177.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-21T08:18:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/afghanistan-flood-2026-07-e8f373d981914a9df5793bb846ce7709-1200x800.jpg",
+      "summary": "Afghanistan Floods: अफगानिस्तान में मानसून का विकराल रूप दिखाई दिया है. लगातार हो रही तेज बारिश के चलते यहां पर वो सैलाब आया, जिसने 20 लोगों की जान ले ली है. बताया जा रहा है कि इसमें 80 लोग जख्मी हुए हैं, जबकि 100 से ज्यादा लोग अब भी लापता हैं. अफगानिस्तान पर कुदरत का कहर, भीषण बाढ़ ने ली 20 की जान, 100 से ज्यादा लोग लापता।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अफगानिस्तान पर कुदरत का कहर, भीषण बाढ़ ने ली 20 की जान, 100 से ज्यादा लोग लापता",
+          "summary": "Afghanistan Floods: अफगानिस्तान में मानसून का विकराल रूप दिखाई दिया है. लगातार हो रही तेज बारिश के चलते यहां पर वो सैलाब आया, जिसने 20 लोगों की जान ले ली है. बताया जा रहा है कि इसमें 80 लोग जख्मी हुए हैं, जबकि 100 से ज्यादा लोग अब भी लापता हैं. अफगानिस्तान पर कुदरत का कहर, भीषण बाढ़ ने ली 20 की जान, 100 से ज्यादा लोग लापता।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -344,127 +380,19 @@
       }
     },
     {
-      "title": "28 जुलाई को होगी 12वीं की सप्लीमेंट्री परीक्षा, प्राइवेट और रेगुलर छात्रों के लिए प्रवेश पत्र उपलब्ध",
-      "url": "https://www.amarujala.com/education/cbse-supplementary-exam-2026-on-july-28-admit-cards-released-for-regular-and-private-students-2026-07-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T07:23:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/04/admit-card_286fe5c6b59afddac143d76fc18c42d7.jpeg?w=1200&dpr=1.0",
-      "summary": "CBSE Supplementary Exam 2026: केंद्रीय माध्यमिक शिक्षा बोर्ड ने 28 जुलाई 2026 को आयोजित होने वाली सप्लीमेंट्री परीक्षा के लिए प्रवेश पत्र जारी कर दिए हैं। 28 जुलाई को होगी 12वीं की सप्लीमेंट्री परीक्षा, प्राइवेट और रेगुलर छात्रों के लिए प्रवेश पत्र उपलब्ध।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "28 जुलाई को होगी 12वीं की सप्लीमेंट्री परीक्षा, प्राइवेट और रेगुलर छात्रों के लिए प्रवेश पत्र उपलब्ध",
-          "summary": "CBSE Supplementary Exam 2026: केंद्रीय माध्यमिक शिक्षा बोर्ड ने 28 जुलाई 2026 को आयोजित होने वाली सप्लीमेंट्री परीक्षा के लिए प्रवेश पत्र जारी कर दिए हैं। 28 जुलाई को होगी 12वीं की सप्लीमेंट्री परीक्षा, प्राइवेट और रेगुलर छात्रों के लिए प्रवेश पत्र उपलब्ध।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राज्यसभा व लोकसभा की कार्यवाही दूसरी बार स्थगित, नीट के मुद्दे पर अड़ा विपक्ष",
-      "url": "https://www.amarujala.com/live/india-news/parliament-monsoon-session-2026-live-day-2-lok-sabha-rajya-sabha-supreme-court-judge-bill-nda-meeting-2026-07-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T07:21:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/24/parliament-session-live_6cdd0d4698dc792793147004a5225ee1.jpeg?w=1200&dpr=1.0",
-      "summary": "Parliament Monsoon Session Live: राज्यसभा व लोकसभा की कार्यवाही दूसरी बार स्थगित, नीट के मुद्दे पर अड़ा विपक्ष।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राज्यसभा व लोकसभा की कार्यवाही दूसरी बार स्थगित, नीट के मुद्दे पर अड़ा विपक्ष",
-          "summary": "Parliament Monsoon Session Live: राज्यसभा व लोकसभा की कार्यवाही दूसरी बार स्थगित, नीट के मुद्दे पर अड़ा विपक्ष।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मानसून में बढ़ जाता है आंखों के संक्रमण का खतरा, जानिए बचाव के आसान तरीके",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/eye-care-in-monsoon-in-hindi-barish-me-aankho-ka-dhyan-kaise-rakhe-2026-07-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T07:19:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/eye-care-in-monsoon_5ef35bbb35c349a35cfa24def2ceab5c.jpeg?w=1200&dpr=1.0",
-      "summary": "Eye Care in Monsoon: बारिश के मौसम में अगर आंखों का ध्यान न रखा जाए तो आपको काफी दिक्कत हो सकती है। यहां हम आपको इस बारे में डिटेल में जानकारी देंगे। मानसून में बढ़ जाता है आंखों के संक्रमण का खतरा, जानिए बचाव के आसान तरीके।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मानसून में बढ़ जाता है आंखों के संक्रमण का खतरा, जानिए बचाव के आसान तरीके",
-          "summary": "Eye Care in Monsoon: बारिश के मौसम में अगर आंखों का ध्यान न रखा जाए तो आपको काफी दिक्कत हो सकती है। यहां हम आपको इस बारे में डिटेल में जानकारी देंगे। मानसून में बढ़ जाता है आंखों के संक्रमण का खतरा, जानिए बचाव के आसान तरीके।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "लोधी कॉलोनी इलाके के घर में लगी भीषण आग, मां और उसकी दो बेटियों की गई जान",
-      "url": "https://www.amarujala.com/delhi-ncr/a-massive-fire-broke-out-in-a-house-in-lodhi-colony-area-killing-three-people-2026-07-21",
+      "title": "जंतर-मंतर लाठीचार्ज पर भड़के बेनीवाल, बोले- बेटियों और युवाओं पर लाठियां चलाना लोकतंत्र पर हमला",
+      "url": "https://www.amarujala.com/rajasthan/jaipur/hanuman-beniwal-condemns-lathi-charge-on-jantar-mantar-protesters-says-dissent-is-not-a-crime-jaipur-news-c-1-1-noi1422-4525080-2026-07-21",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-21T07:18:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/19/aaga-sakataka-fire-demo_e29c6672769dc95cd845e70bbae8c9de.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली की लोधी कॉलोनी इलाके के एक घर में भीषण आग लग गई, जिससे तीन लोगों की मौत हो गई। मृतकों में 2 बेटियां और उनकी मां शामिल है। लोधी कॉलोनी इलाके के घर में लगी भीषण आग, मां और उसकी दो बेटियों की गई जान।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लोधी कॉलोनी इलाके के घर में लगी भीषण आग, मां और उसकी दो बेटियों की गई जान",
-          "summary": "दिल्ली की लोधी कॉलोनी इलाके के एक घर में भीषण आग लग गई, जिससे तीन लोगों की मौत हो गई। मृतकों में 2 बेटियां और उनकी मां शामिल है। लोधी कॉलोनी इलाके के घर में लगी भीषण आग, मां और उसकी दो बेटियों की गई जान।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "UP में किन लोगों को घर पर मिलेगा राशन और किसका बनेगा राशन कार्ड? यहां जानें सबकुछ",
-      "url": "https://www.amarujala.com/photo-gallery/utility/up-government-will-provide-free-rations-to-47-lakhs-new-families-check-how-to-apply-2026-07-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T07:15:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/ghara-para-mafata-rashana-kasa-malga_605ae88e7a53cc8494e7966d593bfeee.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश में 47 लाख नए परिवारों को मुफ्त राशन की सुविधा का लाभ दिया जाएगा। इसमें आवेदन का तरीका आप यहां जान सकते हैं। UP में किन लोगों को घर पर मिलेगा राशन और किसका बनेगा राशन कार्ड? यहां जानें सबकुछ।",
+      "published_at": "2026-07-21T07:10:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/aaraelpa-paramakha-hanamana-bnaval_33861a80ec5afc51b601059318c92883.jpeg?w=1200&dpr=1.0",
+      "summary": "आरएलपी प्रमुख और नागौर सांसद हनुमान बेनीवाल ने जंतर-मंतर पर प्रदर्शन कर रहे छात्रों, छात्राओं और महिलाओं पर हुए कथित लाठीचार्ज की कड़ी आलोचना की। जंतर-मंतर लाठीचार्ज पर भड़के बेनीवाल, बोले- बेटियों और युवाओं पर लाठियां चलाना लोकतंत्र पर हमला।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "UP में किन लोगों को घर पर मिलेगा राशन और किसका बनेगा राशन कार्ड? यहां जानें सबकुछ",
-          "summary": "उत्तर प्रदेश में 47 लाख नए परिवारों को मुफ्त राशन की सुविधा का लाभ दिया जाएगा। इसमें आवेदन का तरीका आप यहां जान सकते हैं। UP में किन लोगों को घर पर मिलेगा राशन और किसका बनेगा राशन कार्ड? यहां जानें सबकुछ।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आषाढ़ पूर्णिमा के दिन शुभ योग में जरूर करें ये काम, मिलेगा धन लाभ और सुख-समृद्धि",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/ashadha-purnima-2026-shubh-yog-do-these-remedies-for-maa-laxmi-and-kuber-dev-blessings-2026-07-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T07:15:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/aashhaugdhha-paranaema-ka-parabhava-upaya_8885d5ca98d4dfeeb6ee8d0a9347ce08.jpeg?w=1200&dpr=1.0",
-      "summary": "आषाढ़ पूर्णिमा को गुरु पूर्णिमा के रूप में मनाया जाता है। लोग अपने गुरु के प्रति सम्मान प्रकट करते हैं। आषाढ़ मास की पूर्णिमा विशेष रूप से महत्वपूर्ण मानी जाती है। इसे गुरु पूर्णिमा के रूप में मनाया जाता है, जब लोग अपने गुरु के प्रति सम्मान और कृतज्ञता प्रकट करते हैं। आइए जानते हैं इस दिन के शुभ समय, योग और कुछ सरल उपायों के बारे में।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आषाढ़ पूर्णिमा के दिन शुभ योग में जरूर करें ये काम, मिलेगा धन लाभ और सुख-समृद्धि",
-          "summary": "आषाढ़ पूर्णिमा को गुरु पूर्णिमा के रूप में मनाया जाता है। लोग अपने गुरु के प्रति सम्मान प्रकट करते हैं। आषाढ़ मास की पूर्णिमा विशेष रूप से महत्वपूर्ण मानी जाती है। इसे गुरु पूर्णिमा के रूप में मनाया जाता है, जब लोग अपने गुरु के प्रति सम्मान और कृतज्ञता प्रकट करते हैं। आइए जानते हैं इस दिन के शुभ समय, योग और कुछ सरल उपायों के बारे में।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "संसद मार्च के बाद अभिजीत दीपके ने सरकार पर लगाए आरोप, कहा- नड्डा के घर किया गया नजरबंद",
-      "url": "https://www.amarujala.com/india-news/they-were-stalling-cjp-allegations-against-government-after-parliament-march-says-house-arrest-nadda-residence-2026-07-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T07:13:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/sajapa-ka-sasathapaka-abhajata-thapaka_0cda9358ede89ad155e0e9f7a3fdd113.jpeg?w=1200&dpr=1.0",
-      "summary": "अभिजीत दीपके ने सरकार पर आरोप लगाए हैं। उन्होंने कहा कि नड्डा के घर को नजरबंद किया गया था। संसद मार्च के बाद अभिजीत दीपके ने सरकार पर लगाए आरोप, कहा- नड्डा के घर किया गया नजरबंद।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संसद मार्च के बाद अभिजीत दीपके ने सरकार पर लगाए आरोप, कहा- नड्डा के घर किया गया नजरबंद",
-          "summary": "अभिजीत दीपके ने सरकार पर आरोप लगाए हैं। उन्होंने कहा कि नड्डा के घर को नजरबंद किया गया था। संसद मार्च के बाद अभिजीत दीपके ने सरकार पर लगाए आरोप, कहा- नड्डा के घर किया गया नजरबंद।",
+          "title": "जंतर-मंतर लाठीचार्ज पर भड़के बेनीवाल, बोले- बेटियों और युवाओं पर लाठियां चलाना लोकतंत्र पर हमला",
+          "summary": "आरएलपी प्रमुख और नागौर सांसद हनुमान बेनीवाल ने जंतर-मंतर पर प्रदर्शन कर रहे छात्रों, छात्राओं और महिलाओं पर हुए कथित लाठीचार्ज की कड़ी आलोचना की। जंतर-मंतर लाठीचार्ज पर भड़के बेनीवाल, बोले- बेटियों और युवाओं पर लाठियां चलाना लोकतंत्र पर हमला।",
           "region": "दुनिया"
         }
       }
@@ -475,7 +403,7 @@
       "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-21T07:10:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/19/west-bengal-govt_f2984f09232f72cd03fcf1c41cba00d5.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/13/suvendu-adhikari_be949f2fbbf6b2b82e863d3bc3f4f7a9.jpeg?w=1200&dpr=1.0",
       "summary": "बंगाल सरकार ने बुजुर्गों, विधवाओं और दिव्यांगों की पेंशन राशि बढ़ाई है। Bengal: बुजुर्गों, विधवाओं और दिव्यांगों को बंगाल सरकार का तोहफा, पेंशन राशि बढ़ाई; कब मिलेगा बढ़ा हुआ पैसा?",
       "region": "World",
       "language": "hi",
@@ -650,24 +578,6 @@
       }
     },
     {
-      "title": "'लाठियों से सच को दबाया नहीं जा सकता': जंतर-मंतर में लाठीचार्ज पर भड़के अशोक गहलोत, बोले- कुचली जा",
-      "url": "https://www.amarujala.com/rajasthan/jaipur/ashok-gehlot-slams-modi-government-over-lathi-charge-on-youth-protesters-at-jantar-mantar-jaipur-news-c-1-1-noi1422-4525079-2026-07-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-21T06:01:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/parava-makhayamatara-ashaka-gahalta_896ac9b4fa8fc0f8707e718537ee0c4b.jpeg?w=1200&dpr=1.0",
-      "summary": "अशोक गहलोत ने जंतर-मंतर पर लाठीचार्ज की कड़ी आलोचना की। उन्होंने केंद्र सरकार पर लोकतांत्रिक अधिकारों के दमन का आरोप लगाया। गहलोत ने कहा कि युवाओं की आवाज़ को बलपूर्वक दबाना लोकतंत्र पर सीधा हमला है। पूर्व मुख्यमंत्री अशोक गहलोत ने जंतर-मंतर पर प्रदर्शन कर रहे युवाओं पर हुए कथित लाठीचार्ज की कड़ी आलोचना की। उन्होंने केंद्र सरकार पर लोकतांत्रिक अधिकारों के दमन का आरोप लगाते हुए कहा कि युवाओं की आवाज़ को बलपूर्वक दबाना लोकतंत्र पर सीधा हमला है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'लाठियों से सच को दबाया नहीं जा सकता': जंतर-मंतर में लाठीचार्ज पर भड़के अशोक गहलोत, बोले- कुचली जा",
-          "summary": "अशोक गहलोत ने जंतर-मंतर पर लाठीचार्ज की कड़ी आलोचना की। उन्होंने केंद्र सरकार पर लोकतांत्रिक अधिकारों के दमन का आरोप लगाया। गहलोत ने कहा कि युवाओं की आवाज़ को बलपूर्वक दबाना लोकतंत्र पर सीधा हमला है। पूर्व मुख्यमंत्री अशोक गहलोत ने जंतर-मंतर पर प्रदर्शन कर रहे युवाओं पर हुए कथित लाठीचार्ज की कड़ी आलोचना की। उन्होंने केंद्र सरकार पर लोकतांत्रिक अधिकारों के दमन का आरोप लगाते हुए कहा कि युवाओं की आवाज़ को बलपूर्वक दबाना लोकतंत्र पर सीधा हमला है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "सिंगापुर में भारतीय नागरिक को जेल, नकली हीरे से असली को बदलने का आरोप; एक अन्य पर फैसला आना बाकी",
       "url": "https://www.amarujala.com/world/singapore-diamond-theft-indian-nationals-jailed-chinatown-jewellery-store-fake-diamond-changi-airport-arrest-2026-07-21",
       "source": "Amar Ujala World",
@@ -753,6 +663,96 @@
         "hi": {
           "title": "सफल मोल्दोवा दौरा कर उत्तरी मैसेडोनिया पहुंचीं द्रौपदी मुर्मू, पहली भारतीय मेहमान",
           "summary": "राष्ट्रपति की विदेश यात्रा: सफल मोल्दोवा दौरा कर उत्तरी मैसेडोनिया पहुंचीं द्रौपदी मुर्मू, पहली भारतीय मेहमान।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "सिर्फ हथियार नहीं, सप्लाई चेन पर होगा ट्रंप का फोकस, रक्षा क्षमता बढ़ाने के लिए उठाया बड़ा कदम",
+      "url": "https://www.amarujala.com/world/trump-signs-executive-order-to-secure-us-defence-supply-chains-2026-07-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-21T04:32:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/31/trump-oval-office_39f1b45c210a904b6030e35a93319ba3.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका: सिर्फ हथियार नहीं, सप्लाई चेन पर होगा ट्रंप का फोकस, रक्षा क्षमता बढ़ाने के लिए उठाया बड़ा कदम।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सिर्फ हथियार नहीं, सप्लाई चेन पर होगा ट्रंप का फोकस, रक्षा क्षमता बढ़ाने के लिए उठाया बड़ा कदम",
+          "summary": "अमेरिका: सिर्फ हथियार नहीं, सप्लाई चेन पर होगा ट्रंप का फोकस, रक्षा क्षमता बढ़ाने के लिए उठाया बड़ा कदम।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "इजराइल ने गाजा पर दागी मिसाइलें, 3 बच्चों समेत पांच की मौत, ईरान के अब्दानन में भी सुनाई दिए धमाके",
+      "url": "https://www.patrika.com/world-news/israel-attack-gaza-killing-five-people-including-three-children-explosions-heard-in-abdanan-iran-20764480",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-21T03:39:18+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/gaza.webp",
+      "summary": "Middle East Crisis: मध्य पूर्व में तनाव लगातार बढ़ता जा रहा है। गाजा, ईरान, यमन और लेबनान से एक के बाद एक ऐसी घटनाएं सामने आ रही हैं, जिनसे पूरे क्षेत्र की सुरक्षा को लेकर चिंता बढ़ गई है। इसी बीच इजराइल ने गाजा शहर के सबरा इलाके में एक घर पर मिसाइल हमला किया, जिसमें तीन बच्चों समेत पांच लोगों की मौत हो गई। वहीं, ईरान के पश्चिमी इलाके अब्दानन में भी कई धमाकों की खबर सामने आई है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजराइल ने गाजा पर दागी मिसाइलें, 3 बच्चों समेत पांच की मौत, ईरान के अब्दानन में भी सुनाई दिए धमाके",
+          "summary": "Middle East Crisis: मध्य पूर्व में तनाव लगातार बढ़ता जा रहा है। गाजा, ईरान, यमन और लेबनान से एक के बाद एक ऐसी घटनाएं सामने आ रही हैं, जिनसे पूरे क्षेत्र की सुरक्षा को लेकर चिंता बढ़ गई है। इसी बीच इजराइल ने गाजा शहर के सबरा इलाके में एक घर पर मिसाइल हमला किया, जिसमें तीन बच्चों समेत पांच लोगों की मौत हो गई। वहीं, ईरान के पश्चिमी इलाके अब्दानन में भी कई धमाकों की खबर सामने आई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "नीरव शाह ने सीनेट चुनाव से वापस लिया नाम; जानें क्या है डेमोक्रेट्स की तैयारी",
+      "url": "https://www.amarujala.com/world/nirav-shah-withdraws-maine-democratic-senate-primary-backs-troy-jackson-democratic-party-2028-primary-calendar-2026-07-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-21T03:29:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/amaraka-sasatha_23be3b3932dda0e94eba1fdc36e26dd3.jpeg?w=1200&dpr=1.0",
+      "summary": "नीरव शाह ने मेने सीनेट चुनाव की डेमोक्रेटिक प्राइमरी से अपना नाम वापस ले लिया है. उन्होंने ट्रॉय जैक्सन का समर्थन किया है. डेमोक्रेटिक पार्टी की तैयारी जारी है. नीरव शाह ने सीनेट चुनाव से वापस लिया नाम; जानें क्या है डेमोक्रेट्स की तैयारी।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नीरव शाह ने सीनेट चुनाव से वापस लिया नाम; जानें क्या है डेमोक्रेट्स की तैयारी",
+          "summary": "नीरव शाह ने मेने सीनेट चुनाव की डेमोक्रेटिक प्राइमरी से अपना नाम वापस ले लिया है. उन्होंने ट्रॉय जैक्सन का समर्थन किया है. डेमोक्रेटिक पार्टी की तैयारी जारी है. नीरव शाह ने सीनेट चुनाव से वापस लिया नाम; जानें क्या है डेमोक्रेट्स की तैयारी।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ईरान को 'जहन्नुम' बना देगा अमेरिका, ट्रंप ने खाई किसके नाम की सौगंध? कैसा डेटा छिपाने को मजबूर",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-donald-trump-vows-to-make-iran-pay-for-us-soldiers-death-pentagon-avoids-data-of-injured-personnel-10676211.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-21T03:26:55+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/DONALD-TRUMP-2-2026-07-356eac530a22fca1bd89db6a58e49f80-1200x800.jpg",
+      "summary": "Donald Trump Vows to Make Pay Iran: अमेरिका और ईरान के बीच तनाव अब इस स्तर पर आ चुका है कि दोनों देश कूटनीति को साइड में रखकर सिर्फ बदले और खून की सौगंध खा रहे हैं. ईरान के हमलों में मारे गए अमेरिकी सैनिकों की मौत का बदला ट्रंप ईरान की बर्बादी से लेंगे. उन्होंने ये कसम खाई है और खुली जंग का ऐलान कर दिया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान को 'जहन्नुम' बना देगा अमेरिका, ट्रंप ने खाई किसके नाम की सौगंध? कैसा डेटा छिपाने को मजबूर",
+          "summary": "Donald Trump Vows to Make Pay Iran: अमेरिका और ईरान के बीच तनाव अब इस स्तर पर आ चुका है कि दोनों देश कूटनीति को साइड में रखकर सिर्फ बदले और खून की सौगंध खा रहे हैं. ईरान के हमलों में मारे गए अमेरिकी सैनिकों की मौत का बदला ट्रंप ईरान की बर्बादी से लेंगे. उन्होंने ये कसम खाई है और खुली जंग का ऐलान कर दिया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी ने ब्रिटेन के नए प्रधानमंत्री एंडी बर्नहम को दी बधाई, भारत-ब्रिटेन संबंध पर क्या कहा?",
+      "url": "https://www.amarujala.com/india-news/pm-modi-congratulates-andy-burnham-new-british-prime-minister-india-uk-relations-2026-07-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-21T03:26:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/narathara-matha-eda-branahama_5b919747b67c4be8feb8044fdab3486a.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने ब्रिटेन के नए प्रधानमंत्री एंडी बर्नहम को बधाई दी और कहा कि वह भारत-ब्रिटेन संबंधों को मजबूत बनाने के लिए प्रतिबद्ध हैं। मोदी ने ट्विटर पर बर्नहम को बधाई देते हुए कहा, \"मैं एंडी बर्नहम को ब्रिटेन के नए प्रधानमंत्री के रूप में बधाई देता हूं। भारत और ब्रिटेन के बीच मजबूत संबंधों को बनाए रखने के लिए मैं उनके साथ काम करने के लिए तैयार हूं।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी ने ब्रिटेन के नए प्रधानमंत्री एंडी बर्नहम को दी बधाई, भारत-ब्रिटेन संबंध पर क्या कहा?",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने ब्रिटेन के नए प्रधानमंत्री एंडी बर्नहम को बधाई दी और कहा कि वह भारत-ब्रिटेन संबंधों को मजबूत बनाने के लिए प्रतिबद्ध हैं। मोदी ने ट्विटर पर बर्नहम को बधाई देते हुए कहा, \"मैं एंडी बर्नहम को ब्रिटेन के नए प्रधानमंत्री के रूप में बधाई देता हूं। भारत और ब्रिटेन के बीच मजबूत संबंधों को बनाए रखने के लिए मैं उनके साथ काम करने के लिए तैयार हूं।",
           "region": "यूरोप और रूस"
         }
       }
