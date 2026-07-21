@@ -1,72 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 21, 2026 12:27 IST
-
----
-
-## World
-
-### [U.K. PM Burnham names Reynolds as Business Minister, Rayner for housing](https://www.thehindu.com/news/international/uk-pm-burnham-names-reynolds-as-business-minister-rayner-for-housing/article71247903.ece)
-*The Hindu (International)* - Jul 21, 11:00 IST (iso: 2026-07-21T05:30:31+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/xwm8hb/article71247912.ece/alternates/LANDSCAPE_1200/2026-07-20T181645Z_1564931532_RC2UHMAU3Q8B_RTRMADP_3_BRITAIN-POLITICS.JPG -->
-
-Jonathan Reynolds was named ‌Secretary ⁠of State for ⁠Business, Innovation, Science and Trade in an expanded role ​after losing his ‌position as business Minister to Peter Kyle in a reshuffle under ‌former Prime Minister ​Keir Starmer U. K. PM Burnham names Reynolds as Business Minister, Rayner for housing. U. U. K.
-
-### [A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job](https://news.un.org/feed/view/en/story/2026/07/1167974)
-*UN News* - Jul 18, 17:30 IST (iso: 2026-07-18T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/20-11-2023_shanghai_traffic2.jpg/image770x420cropped.jpg -->
-
-Jean Todt spent decades around the deadliest motorsport on Earth. He was a rally co‑driver, then ran Ferrari’s Formula One team, then became president of world motorsport’s governing body. In his early years, a driver dying at the track barely made news. A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job.
-
----
-
-## Europe & Russia
-
-### [Russian attacks kill six in Kyiv, other cities; expose gaps in Ukraine’s air defences](https://www.thehindu.com/news/international/russia-ukraine-war-missile-attack-on-kyiv-death-toll-injuries/article71240891.ece)
-*The Hindu (International)* - Jul 21, 07:25 IST (iso: 2026-07-21T01:55:34+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/jwqxw1/article71240896.ece/alternates/LANDSCAPE_1200/2026-07-19T065631Z_198702073_RC2UGMA3087T_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG -->
-
-Moscow has in recent weeks stepped up its use of ballistic missiles as it seeks to choke off Ukrainian strikes on oil facilities deep inside Russia that have caused critical fuel shortages affecting both the military and the civilian population. Russian attacks kill six in Kyiv, other cities; expose gaps in Ukraine’s air defences.
-
-### [Central Asian Countries Face Fuel Shortages As Russian Oil Exports Drop Off](https://www.rferl.org/a/kyrgyzstan-tajikistan-fuel-shortage-russian-exports/33808383.html)
-*Radio Free Europe / Liberty* - Jul 21, 02:55 IST (iso: 2026-07-20T21:25:34+00:00)
-<!-- image: https://gdb.rferl.org/162c38e6-47c0-4a8e-42e4-08decacf94d0_w1200_h630.jpg -->
-
-Russia is experiencing severe fuel shortages as a result of Ukrainian strikes on its energy infrastructure, resulting in high prices and long lines for gasoline. Now Central Asian countries, which rely heavily on imports of Russian petroleum products, are seeing similar price hikes and shortages. Central Asian Countries Face Fuel Shortages As Russian Oil Exports Drop Off.
-
-### [Hungary’s ruling party backs chess legend Judit Polgar for President](https://www.thehindu.com/news/international/hungarys-ruling-party-backs-chess-legend-judit-polgar-for-president/article71246720.ece)
-*The Hindu (International)* - Jul 20, 23:41 IST (iso: 2026-07-20T18:11:15+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/pw4ruf/article71246796.ece/alternates/LANDSCAPE_1200/2026-07-20T132539Z_1495973259_RC2PHMAAOLW4_RTRMADP_3_HUNGARY-PARLIAMENT-PRESIDENT.JPG -->
-
-Prime Minister Peter Magyar said that he would ask Ms. Polgar, widely regarded as the ‌greatest ever female chess player, to take up the largely ceremonial role of President until ‌a new constitution is passed Hungary’s ruling party backs chess legend Judit Polgar for President.
-
-### [Russian And Ukraine Exchange Overnight Strikes As Drone Attacks Target Moscow Region](https://www.rferl.org/a/russia-ukraine-drone-and-missile-strikes/33807500.html)
-*Radio Free Europe / Liberty* - Jul 20, 18:44 IST (iso: 2026-07-20T13:14:08+00:00)
-<!-- image: https://gdb.rferl.org/eb7ea0a2-35a2-4118-bbcb-4348c3cbfb4b_cx0_cy10_cw0_w1200_h630.jpg -->
-
-Large plumes of black smoke rose high into the skies of the Moscow region on July 20 after Ukrainian drone strikes hit an oil depot and logistics facilities, wounding 10 people as Kyiv vowed to respond to deadly Russian attacks that have left several people dead. Russian And Ukraine Exchange Overnight Strikes As Drone Attacks Target Moscow Region.
-
-### ['Sooner Or Later This Problem Will Be On Your Soil': Estonia Pushes Europe To Bar Russian Fighters](https://www.rferl.org/a/estonia-russian-fighters-schengen-joosep-kaasik/33806356.html)
-*Radio Free Europe / Liberty* - Jul 18, 14:07 IST (iso: 2026-07-18T08:37:06+00:00)
-<!-- image: https://gdb.rferl.org/94d41955-af6b-47fd-6043-08decd277110_cx0_cy3_cw0_w1200_h630.jpg -->
-
-As Russia's war against Ukraine reshapes Europe's security landscape, Estonia is closely watching the Kremlin's next moves. In an interview with RFE/RL, Estonia's Undersecretary for Internal Security Joosep Kaasik discusses why Tallinn believes prevention is Europe's best defense. 'Sooner Or Later This Problem Will Be On Your Soil': Estonia Pushes Europe To Bar Russian Fighters.
-
-### ['We Have To Be Realists' Regarding Threats From Russia](https://www.rferl.org/a/estonia-security-russia/33806010.html)
-*Radio Free Europe / Liberty* - Jul 18, 14:05 IST (iso: 2026-07-18T08:35:47+00:00)
-<!-- image: https://gdb.rferl.org/e1dbad01-05e1-476d-3117-08decd1f5434_w1200_h630.jpg -->
-
-Joosep Kaasik, the undersecretary for internal security in Estonia's Ministry of the Interior, told RFE/RL in an interview that his country takes the threat of a potential Russian attack seriously, but is also prepared to deal with the use of soft power by its Eastern neighbor. 'We Have To Be Realists' Regarding Threats From Russia.
-
-### [Thunderstorms strike across Europe amid record heatwave](https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave)
-*The Guardian* - Jul 17, 14:05 IST (iso: 2026-07-17T08:35:56+00:00)
-<!-- image: https://i.guim.co.uk/img/media/fa9575b9199e2eaf21b2b30447763e5ad422a718/381_393_890_712/master/890.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eac530ef4d90ccda96bd227969aae270 -->
-
-Storms are typical during intense heat but this week’s have been extreme. Plus, deadly monsoon rains in BangladeshHailstones the size of golf balls have been seen in French villages as, on top of the exceptional European heatwave, thunderstorms have struck across parts of Europe.
+**Updated:** July 21, 2026 13:22 IST
 
 ---
 
 ## Middle East & Africa
+
+### [ASEAN's top diplomats meet in shadow of U.S.-Iran conflict](https://www.thehindu.com/news/international/aseans-top-diplomats-meet-in-shadow-of-us-iran-conflict/article71248361.ece)
+*The Hindu (International)* - Jul 21, 13:06 IST (iso: 2026-07-21T07:36:55+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/o96uh4/article71248402.ece/alternates/LANDSCAPE_1200/CORRECTION_Philippines_ASEAN_33_78.jpg -->
+
+Likely to be discussed also are tensions in the South China Sea, for which ASEAN ‌and China are, after nearly 10 years, still trying to conclude a code of ​conduct to prevent disputes from escalating ASEAN's top diplomats meet in shadow of U. S.-Iran conflict.
 
 ### [Iran hits out at Gulf neighbours as U.S. presses on with strikes](https://www.thehindu.com/news/international/iran-hits-out-at-gulf-neighbours-as-us-presses-on-with-strikes/article71244067.ece)
 *The Hindu (International)* - Jul 21, 01:43 IST (iso: 2026-07-20T20:13:56+00:00)
@@ -115,6 +59,62 @@ The UN Secretary-General remains deeply concerned by the continuing deadly milit
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/17-07-2026-WFP-Djibouti.jpg/image770x420cropped.jpg -->
 
 More than 256,000 people in Djibouti – around 25 per cent of the population – are likely to face crisis or emergency level hunger over the coming months, a UN-backed global food monitoring network warned in a new report released Friday. Emergency alert spotlights sharp hunger spike.
+
+---
+
+## World
+
+### [U.K. PM Burnham names Reynolds as Business Minister, Rayner for housing](https://www.thehindu.com/news/international/uk-pm-burnham-names-reynolds-as-business-minister-rayner-for-housing/article71247903.ece)
+*The Hindu (International)* - Jul 21, 11:00 IST (iso: 2026-07-21T05:30:31+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/xwm8hb/article71247912.ece/alternates/LANDSCAPE_1200/2026-07-20T181645Z_1564931532_RC2UHMAU3Q8B_RTRMADP_3_BRITAIN-POLITICS.JPG -->
+
+Jonathan Reynolds was named ‌Secretary ⁠of State for ⁠Business, Innovation, Science and Trade in an expanded role ​after losing his ‌position as business Minister to Peter Kyle in a reshuffle under ‌former Prime Minister ​Keir Starmer U. K. PM Burnham names Reynolds as Business Minister, Rayner for housing. U. U. K.
+
+### [A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job](https://news.un.org/feed/view/en/story/2026/07/1167974)
+*UN News* - Jul 18, 17:30 IST (iso: 2026-07-18T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/20-11-2023_shanghai_traffic2.jpg/image770x420cropped.jpg -->
+
+Jean Todt spent decades around the deadliest motorsport on Earth. He was a rally co‑driver, then ran Ferrari’s Formula One team, then became president of world motorsport’s governing body. In his early years, a driver dying at the track barely made news. A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job.
+
+---
+
+## Europe & Russia
+
+### [Russian attacks kill six in Kyiv, other cities; expose gaps in Ukraine’s air defences](https://www.thehindu.com/news/international/russia-ukraine-war-missile-attack-on-kyiv-death-toll-injuries/article71240891.ece)
+*The Hindu (International)* - Jul 21, 07:25 IST (iso: 2026-07-21T01:55:34+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/jwqxw1/article71240896.ece/alternates/LANDSCAPE_1200/2026-07-19T065631Z_198702073_RC2UGMA3087T_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG -->
+
+Moscow has in recent weeks stepped up its use of ballistic missiles as it seeks to choke off Ukrainian strikes on oil facilities deep inside Russia that have caused critical fuel shortages affecting both the military and the civilian population. Russian attacks kill six in Kyiv, other cities; expose gaps in Ukraine’s air defences.
+
+### [Central Asian Countries Face Fuel Shortages As Russian Oil Exports Drop Off](https://www.rferl.org/a/kyrgyzstan-tajikistan-fuel-shortage-russian-exports/33808383.html)
+*Radio Free Europe / Liberty* - Jul 21, 02:55 IST (iso: 2026-07-20T21:25:34+00:00)
+<!-- image: https://gdb.rferl.org/162c38e6-47c0-4a8e-42e4-08decacf94d0_w1200_h630.jpg -->
+
+Russia is experiencing severe fuel shortages as a result of Ukrainian strikes on its energy infrastructure, resulting in high prices and long lines for gasoline. Now Central Asian countries, which rely heavily on imports of Russian petroleum products, are seeing similar price hikes and shortages. Central Asian Countries Face Fuel Shortages As Russian Oil Exports Drop Off.
+
+### [Russian And Ukraine Exchange Overnight Strikes As Drone Attacks Target Moscow Region](https://www.rferl.org/a/russia-ukraine-drone-and-missile-strikes/33807500.html)
+*Radio Free Europe / Liberty* - Jul 20, 18:44 IST (iso: 2026-07-20T13:14:08+00:00)
+<!-- image: https://gdb.rferl.org/eb7ea0a2-35a2-4118-bbcb-4348c3cbfb4b_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Large plumes of black smoke rose high into the skies of the Moscow region on July 20 after Ukrainian drone strikes hit an oil depot and logistics facilities, wounding 10 people as Kyiv vowed to respond to deadly Russian attacks that have left several people dead. Russian And Ukraine Exchange Overnight Strikes As Drone Attacks Target Moscow Region.
+
+### ['Sooner Or Later This Problem Will Be On Your Soil': Estonia Pushes Europe To Bar Russian Fighters](https://www.rferl.org/a/estonia-russian-fighters-schengen-joosep-kaasik/33806356.html)
+*Radio Free Europe / Liberty* - Jul 18, 14:07 IST (iso: 2026-07-18T08:37:06+00:00)
+<!-- image: https://gdb.rferl.org/94d41955-af6b-47fd-6043-08decd277110_cx0_cy3_cw0_w1200_h630.jpg -->
+
+As Russia's war against Ukraine reshapes Europe's security landscape, Estonia is closely watching the Kremlin's next moves. In an interview with RFE/RL, Estonia's Undersecretary for Internal Security Joosep Kaasik discusses why Tallinn believes prevention is Europe's best defense. 'Sooner Or Later This Problem Will Be On Your Soil': Estonia Pushes Europe To Bar Russian Fighters.
+
+### ['We Have To Be Realists' Regarding Threats From Russia](https://www.rferl.org/a/estonia-security-russia/33806010.html)
+*Radio Free Europe / Liberty* - Jul 18, 14:05 IST (iso: 2026-07-18T08:35:47+00:00)
+<!-- image: https://gdb.rferl.org/e1dbad01-05e1-476d-3117-08decd1f5434_w1200_h630.jpg -->
+
+Joosep Kaasik, the undersecretary for internal security in Estonia's Ministry of the Interior, told RFE/RL in an interview that his country takes the threat of a potential Russian attack seriously, but is also prepared to deal with the use of soft power by its Eastern neighbor. 'We Have To Be Realists' Regarding Threats From Russia.
+
+### [Thunderstorms strike across Europe amid record heatwave](https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave)
+*The Guardian* - Jul 17, 14:05 IST (iso: 2026-07-17T08:35:56+00:00)
+<!-- image: https://i.guim.co.uk/img/media/fa9575b9199e2eaf21b2b30447763e5ad422a718/381_393_890_712/master/890.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eac530ef4d90ccda96bd227969aae270 -->
+
+Storms are typical during intense heat but this week’s have been extreme. Plus, deadly monsoon rains in BangladeshHailstones the size of golf balls have been seen in French villages as, on top of the exceptional European heatwave, thunderstorms have struck across parts of Europe. Thunderstorms strike across Europe amid record heatwave.
 
 ---
 
