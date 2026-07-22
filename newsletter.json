@@ -1,21 +1,57 @@
 {
-  "generated_at": "2026-07-21T23:22:59.068200+00:00",
+  "generated_at": "2026-07-22T00:39:03.686619+00:00",
   "article_count": 50,
-  "total_unique_count": 277,
+  "total_unique_count": 271,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Iran war has cost $37.5bn so far, Hegseth tells Senate. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "विजय सरकार ने तमिलनाडु में 5 अगस्त को पहला आम बजट घोषित किया, जिसमें कृषि बजट अलग से रखा गया। इस कदम के बीच, उपराष्ट्रपति शरद पवार का दौरा राज्य में हुआ, जिससे बजट पर चर्चा तेज हुई।"
+    "en": "Trump's new tariffs on generic drugs dominate the news. Kaylee Hottle's death is also a major story. Zelenskyy's shakeup of Ukraine's military command is ongoing.",
+    "hi": "ललित मोदी पर जुर्माना रद्द हुआ है। SAFEMA न्यायाधिकरण से 16 साल बाद उन्हें राहत मिली है। ईरान और पाकिस्तान के बीच तनाव बढ़ रहा है।"
   },
   "articles": [
     {
-      "title": "Iran war has cost $37.5bn so far, Hegseth tells Senate",
+      "title": "Trump announces new tariffs on generic drugs to take effect in 2028",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-07-21T23:14:10+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/98d9e5af37dc275a0999981d9bf5863382c2432e/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d322574226efd9ec408857419bd5f378",
+      "published_at": "2026-07-22T00:27:15+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/711e9e024befa91d305f5db5ff6746677317db4d/360_0_4451_3561/master/4451.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6a0872d52f398913929bbc2ffaa7404a",
       "summary": "Mark Carney says Canada has made proposals to resolve dispute as tariffs are due to be imposed on wide range of goodsSign up for US Breaking News emailDonald Trump is in Washington today. We’ll hear from him when he welcomes Lebanon’s president, Joseph Aoun, to the White House at 11am ET. We’ll bring you the latest lines from their bilateral meeting.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Kaylee Hottle, deaf Godzilla actor, killed in car crash at 18",
+      "url": "https://www.channelnewsasia.com/entertainment/kaylee-hottle-deaf-godzilla-actor-killed-in-car-crash-18-6268991",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-07-22T00:22:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--G-3PIwVt--/c_crop,h_576,w_1024,x_0,y_15/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/22/kaylee_hottle_ap.jpg?itok=rn37RVYO",
+      "summary": "In Godzilla vs Kong and the sequel, Godzilla x Kong: The New Empire, Hottle played an orphaned girl named Jia who sees beyond Kong's threatening appearance and forms a special bond with the monster, communicating with him using sign language. Kaylee Hottle, deaf Godzilla actor, killed in car crash at 18.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why Zelenskyy has sacked Ukraine's armed forces chief",
+      "url": "https://news.sky.com/story/why-zelenskyy-has-sacked-ukraines-armed-forces-chief-13565831",
+      "source": "Sky News World",
+      "sources": [],
+      "published_at": "2026-07-22T00:16:00+00:00",
+      "image_url": "https://e3.365dm.com/26/07/1920x1080/skynews-zelenskyy-syrskyi-ukraine_7303841.jpg?20260722013008",
+      "summary": "In a significant move in the middle of a war, Ukraine's president has sacked his military chief and is seeking to woo a former defence minister back into the fold – just days after ousting him too. Why Zelenskyy has sacked Ukraine's armed forces chief.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A federal court victory for free speech in and about America",
+      "url": "https://asiatimes.com/2026/07/a-federal-court-victory-for-free-speech-in-and-about-america/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-22T00:15:29+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/hateaid_new4f-copy.jpg",
+      "summary": "Petty and vindictive. Such was the ban on travel to the United States handed out by the State Department on December 23 last year to five Europeans, one of whom was Clare Melford, chief executive of the Global Disinformation Index (GDI), a non-profit whose board I chair.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -272,66 +308,12 @@
       "translations": {}
     },
     {
-      "title": "Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they",
-      "url": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-20T04:43:37+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/fefc6edd8b5e59707c2b70fe938b7b4e76324256/270_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecb21fcbeca03e0bd9d803374aeae0ed",
-      "summary": "Many of the more than 100 people awaiting processing on the tiny Pacific island are skipping meals to make ends meet, a new survey has foundFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMost refugees and asylum seekers held in Nauru’s detention centres say they cannot afford to buy enough food or access clean drinking water, despit.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Middle East Countries On High Alert As US Continues Strikes On Iran",
-      "url": "https://www.rferl.org/a/centcom-deaths-iraq-jordan-remains-attacks/33806990.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-19T22:00:16+00:00",
-      "image_url": "https://gdb.rferl.org/bb189142-978e-4fca-60b2-08decd277110_w1200_h630.jpg",
-      "summary": "Air raid sirens blared in Bahrain and other Gulf states as the struggle for control of the Strait of Hormuz continued after US forces conducted a ninth day of air strikes on targets around Iran. Middle East Countries On High Alert As US Continues Strikes On Iran.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
-      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-18T04:00:47+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/23895797e94e95e790326ff384b6f63cc5bd3e58/0_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36ebfbf5515f002f2cc591db094cbc91",
-      "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt dupedSitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefully on to his canvas – a flour sack – adding blood to a knife being wielded by a man.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "विजय सरकार का पहला आम बजट: तमिलनाडु में पांच अगस्त को बड़े एलान संभव, कृषि बजट अलग से; TVK से",
-      "url": "https://www.amarujala.com/india-news/tvk-government-maiden-agriculture-budget-august-6-targeted-subsidies-farmers-2026-07-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-22T06:46:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/jasafa-vajaya-makhayamatara-tamalnada_c8851177b1a4bc559eaa5071679c1bfc.jpeg?w=1200&dpr=1.0",
-      "summary": "उम्मीदें क्या? tvk government maiden agriculture budget august 6 targeted subsidies farmers विजय सरकार का पहला आम बजट: तमिलनाडु में पांच अगस्त को बड़े एलान संभव, कृषि बजट अलग से; TVK से।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विजय सरकार का पहला आम बजट: तमिलनाडु में पांच अगस्त को बड़े एलान संभव, कृषि बजट अलग से; TVK से",
-          "summary": "उम्मीदें क्या? tvk government maiden agriculture budget august 6 targeted subsidies farmers विजय सरकार का पहला आम बजट: तमिलनाडु में पांच अगस्त को बड़े एलान संभव, कृषि बजट अलग से; TVK से।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "ललित मोदी पर जुर्माना रद्द, SAFEMA न्यायाधिकरण से 16 साल बाद राहत; IPL के पूर्व चेयरमैन क्या बोले?",
       "url": "https://www.amarujala.com/world/lalit-modi-on-penalty-quashed-relief-from-safema-tribunal-after-16-years-former-ipl-chairman-react-2026-07-22",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-22T06:43:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/lalit-modi-ani_19eadfffb2ab440801229ddd671fa900.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/lalit-modi_350e41c414beaf81e13d8967c47136e3.jpeg?w=1200&dpr=1.0",
       "summary": "Lalit Modi: ललित मोदी पर जुर्माना रद्द, SAFEMA न्यायाधिकरण से 16 साल बाद राहत; IPL के पूर्व चेयरमैन क्या बोले?",
       "region": "World",
       "language": "hi",
@@ -344,55 +326,127 @@
       }
     },
     {
-      "title": "जल्द शुरू होगी कांवड़ यात्रा, जानें कांवड़ियों के लिए जरूरी नियम",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/kanwar-yatra-2026-date-traditional-beliefs-and-rules-every-devotee-should-know-2026-07-21",
+      "title": "Weather Forecast 22 July 2026: देखिए क्या है आपके यहां मौसम का हाल",
+      "url": "https://www.amarujala.com/video/india-news/weather-forecast-for-july-22-2026-check-the-weather-conditions-in-your-area-today-s-weather-report-2026-07-22",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-22T06:39:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/kava-yatara_bd1672521039caa6b73a806bb0ab6841.jpeg?w=1200&dpr=1.0",
-      "summary": "Kanwar Yatra 2026: सावन के पावन महीने में शुरू होने वाली कांवड़ यात्रा भगवान शिव के भक्तों के लिए विशेष महत्व रखती है। आइए जानते हैं कांवड़ यात्रा 2026 की तारीख और इससे जुड़े प्रमुख नियम। जल्द शुरू होगी कांवड़ यात्रा, जानें कांवड़ियों के लिए जरूरी नियम।",
+      "published_at": "2026-07-22T00:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/weather-forecast_4a56683a3f5484882e372f2613e69e8b.jpeg?w=1200&dpr=1.0",
+      "summary": "Weather Forecast 22 July 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जल्द शुरू होगी कांवड़ यात्रा, जानें कांवड़ियों के लिए जरूरी नियम",
-          "summary": "Kanwar Yatra 2026: सावन के पावन महीने में शुरू होने वाली कांवड़ यात्रा भगवान शिव के भक्तों के लिए विशेष महत्व रखती है। आइए जानते हैं कांवड़ यात्रा 2026 की तारीख और इससे जुड़े प्रमुख नियम। जल्द शुरू होगी कांवड़ यात्रा, जानें कांवड़ियों के लिए जरूरी नियम।",
+          "title": "Weather Forecast 22 July 2026: देखिए क्या है आपके यहां मौसम का हाल",
+          "summary": "Weather Forecast 22 July 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "उपराष्ट्रपति का तमिलनाडु का दौरा, राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की बैठक",
-      "url": "https://www.amarujala.com/india-news/22-july-2026-major-events-2026-07-21",
-      "source": "Amar Ujala National",
+      "title": "पाकिस्तान ने दिखा दी औकात, ईरान जंग में 'दलाली' का मांग रहा इनाम, अमेरिका के 10 अरब डॉलर से भरेगा",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-seeks-10-billion-dollar-us-currency-support-from-donald-trump-after-iran-war-mediation-10678983.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-21T22:21:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/aaja-ka-khabra_ba53fbecd01a8b34184e4d4528f75d96.gif?w=1200&dpr=1.0",
-      "summary": "नमस्कार! आज है बुधवार, 22 जुलाई। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं उपराष्ट्रपति का तमिलनाडु का दौरा, राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की बैठक।",
-      "region": "World",
+      "published_at": "2026-07-22T00:19:34+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-News-30-2026-07-096fcd2fabf2dfd11093e24deb57c371-1200x800.jpg",
+      "summary": "Pakistan News: पाकिस्तान ने ईरान-अमेरिका युद्ध में मध्यस्थता की कीमत मांग ली है. जी हां, पाकिस्तान असल में युद्ध खत्म नहीं करवा रहा था. वह तो अपनी दलाली कर रहा था. दरअसल, ईरान जंग में मध्यस्थता की भूमिका निभाने के बाद पाकिस्तान ने अमेरिका से 10 अरब डॉलर की करेंसी सपोर्ट फैसिलिटी मांगी है. इस मदद से पाकिस्तान अपने विदेशी मुद्रा भंडार को मजबूत करना और आर्थिक संकट से उबरना चाहता है.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "उपराष्ट्रपति का तमिलनाडु का दौरा, राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की बैठक",
-          "summary": "नमस्कार! आज है बुधवार, 22 जुलाई। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं उपराष्ट्रपति का तमिलनाडु का दौरा, राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की बैठक।",
-          "region": "दुनिया"
+          "title": "पाकिस्तान ने दिखा दी औकात, ईरान जंग में 'दलाली' का मांग रहा इनाम, अमेरिका के 10 अरब डॉलर से भरेगा",
+          "summary": "Pakistan News: पाकिस्तान ने ईरान-अमेरिका युद्ध में मध्यस्थता की कीमत मांग ली है. जी हां, पाकिस्तान असल में युद्ध खत्म नहीं करवा रहा था. वह तो अपनी दलाली कर रहा था. दरअसल, ईरान जंग में मध्यस्थता की भूमिका निभाने के बाद पाकिस्तान ने अमेरिका से 10 अरब डॉलर की करेंसी सपोर्ट फैसिलिटी मांगी है. इस मदद से पाकिस्तान अपने विदेशी मुद्रा भंडार को मजबूत करना और आर्थिक संकट से उबरना चाहता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "राहुल-प्रियंका की हिरासत के विरोध में हरियाणा कांग्रेस ने किया चंडीगढ़ में प्रदर्शन!",
-      "url": "https://www.amarujala.com/video/india-news/congress-protest-haryana-congress-staged-a-protest-in-chandigarh-against-the-detention-of-rahul-and-priyanka-2026-07-22",
+      "title": "संकट में सेवा निर्यात का सहारा: FTA और GCC के दम पर उछाल, 2030 तक एक लाख करोड़ डॉलर का लक्ष्य",
+      "url": "https://www.amarujala.com/columns/opinion/india-services-export-growth-fta-gcc-impact-economic-analysis-2026-07-22",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-21T22:17:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/congress-protest_f83f403bc21c768ed9a78a56ca8e0267.jpeg?w=1200&dpr=1.0",
-      "summary": "Congress Protest: राहुल-प्रियंका की हिरासत के विरोध में हरियाणा कांग्रेस ने किया चंडीगढ़ में प्रदर्शन!",
+      "published_at": "2026-07-22T00:13:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/12/indian-economy_c2d158c896129fc392f7743ace0f85f9.jpeg?w=1200&dpr=1.0",
+      "summary": "india services export growth fta gcc impact economic analysis संकट में सेवा निर्यात का सहारा: FTA और GCC के दम पर उछाल, 2030 तक एक लाख करोड़ डॉलर का लक्ष्य।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संकट में सेवा निर्यात का सहारा: FTA और GCC के दम पर उछाल, 2030 तक एक लाख करोड़ डॉलर का लक्ष्य",
+          "summary": "india services export growth fta gcc impact economic analysis संकट में सेवा निर्यात का सहारा: FTA और GCC के दम पर उछाल, 2030 तक एक लाख करोड़ डॉलर का लक्ष्य।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "AI और डाटा सेंटर पर बरस रहा पैसा, इंसानों के लिए घट रहे अवसर",
+      "url": "https://www.amarujala.com/columns/opinion/ai-impact-on-indian-it-sector-jobs-and-hiring-trends-2026-07-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-22T00:01:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/katarama-bthathhamatata-paratakatamaka-tasavara_aa2923f17551080725d7741a1c212a79.jpeg?w=1200&dpr=1.0",
+      "summary": "ai impact on indian it sector jobs and hiring trends AI और डाटा सेंटर पर बरस रहा पैसा, इंसानों के लिए घट रहे अवसर।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "AI और डाटा सेंटर पर बरस रहा पैसा, इंसानों के लिए घट रहे अवसर",
+          "summary": "ai impact on indian it sector jobs and hiring trends AI और डाटा सेंटर पर बरस रहा पैसा, इंसानों के लिए घट रहे अवसर।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सिरस्की की छुट्टी, द्रपाती बने नए सेना प्रमुख, क्या अब यूक्रेन में थमेगा प्रदर्शन?",
+      "url": "https://www.amarujala.com/world/ukraine-zelenskyy-fires-military-chief-syrskyi-names-replacement-drapatyi-2026-07-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-21T23:44:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/yakarana-ka-rashhatarapata-valdamara-jalsaka_63f3135b256dc58ef6f9637c4cfe729e.jpeg?w=1200&dpr=1.0",
+      "summary": "जेलेंस्की का बड़ा फैसला: सिरस्की की छुट्टी, द्रपाती बने नए सेना प्रमुख, क्या अब यूक्रेन में थमेगा प्रदर्शन?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सिरस्की की छुट्टी, द्रपाती बने नए सेना प्रमुख, क्या अब यूक्रेन में थमेगा प्रदर्शन?",
+          "summary": "जेलेंस्की का बड़ा फैसला: सिरस्की की छुट्टी, द्रपाती बने नए सेना प्रमुख, क्या अब यूक्रेन में थमेगा प्रदर्शन?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने रात में किया बहरीन पर हमला, सरकार ने की लोगों से सुरक्षित स्थान पर जाने की अपील",
+      "url": "https://www.patrika.com/world-news/iran-attacks-bahrain-ministry-of-interior-warns-citizens-to-head-to-nearest-safe-place-20767243",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-21T23:44:33+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/iran-attacks-bahrain.webp",
+      "summary": "अमेरिका (United States of America) से बढ़ते तनाव के बीच ईरान (Iran) बदला लेने के लिए जवाबी कार्रवाई के तौर पर मिडिल ईस्ट के देशों पर हमले कर रहा है, जिससे क्षेत्रीय शांति और स्थिरता पर गंभीर संकट मंडरा रहा है। अब एक बार फिर ईरान ने बहरीन (Bahrain) को निशाना बनाया है और रात को ही ड्रोन्स और मिसाइलों से हमला करते हुए बहरीन को दहला दिया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने रात में किया बहरीन पर हमला, सरकार ने की लोगों से सुरक्षित स्थान पर जाने की अपील",
+          "summary": "अमेरिका (United States of America) से बढ़ते तनाव के बीच ईरान (Iran) बदला लेने के लिए जवाबी कार्रवाई के तौर पर मिडिल ईस्ट के देशों पर हमले कर रहा है, जिससे क्षेत्रीय शांति और स्थिरता पर गंभीर संकट मंडरा रहा है। अब एक बार फिर ईरान ने बहरीन (Bahrain) को निशाना बनाया है और रात को ही ड्रोन्स और मिसाइलों से हमला करते हुए बहरीन को दहला दिया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "तमिलनाडु के ऑरोविले में अगस्त भर उत्सव की कवायद; गुजरात के 115 मृतकों के परिजनों को 25-25 लाख मुआवजा",
+      "url": "https://www.amarujala.com/india-news/national-updates-22nd-july-neet-2026-cjp-protest-wangchuk-fast-north-east-west-south-india-politics-crime-news-2026-07-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-21T23:34:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_f989854be53005d7e8cde31bdce9e126.jpeg?w=1200&dpr=1.0",
+      "summary": "Updates: तमिलनाडु के ऑरोविले में अगस्त भर उत्सव की कवायद; गुजरात के 115 मृतकों के परिजनों को 25-25 लाख मुआवजा।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "राहुल-प्रियंका की हिरासत के विरोध में हरियाणा कांग्रेस ने किया चंडीगढ़ में प्रदर्शन!",
-          "summary": "Congress Protest: राहुल-प्रियंका की हिरासत के विरोध में हरियाणा कांग्रेस ने किया चंडीगढ़ में प्रदर्शन!",
+          "title": "तमिलनाडु के ऑरोविले में अगस्त भर उत्सव की कवायद; गुजरात के 115 मृतकों के परिजनों को 25-25 लाख मुआवजा",
+          "summary": "Updates: तमिलनाडु के ऑरोविले में अगस्त भर उत्सव की कवायद; गुजरात के 115 मृतकों के परिजनों को 25-25 लाख मुआवजा।",
           "region": "दुनिया"
         }
       }
@@ -416,24 +470,6 @@
       }
     },
     {
-      "title": "राहुल गांधी- प्रियंका गांधी के प्रदर्शन पर शिक्षामंत्री धर्मेंद्र प्रधान ने दी तीखी प्रतिक्र",
-      "url": "https://www.amarujala.com/video/india-news/congress-protest-education-minister-dharmendra-pradhan-reacts-sharply-to-the-protest-by-rahul-gandhi-and-priy-2026-07-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T21:55:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/congress-protest_9c30b4fd7f31398c4e5d065aa11c1af6.jpeg?w=1200&dpr=1.0",
-      "summary": "Congress Protest: राहुल गांधी- प्रियंका गांधी के प्रदर्शन पर शिक्षामंत्री धर्मेंद्र प्रधान ने दी तीखी प्रतिक्रिया!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राहुल गांधी- प्रियंका गांधी के प्रदर्शन पर शिक्षामंत्री धर्मेंद्र प्रधान ने दी तीखी प्रतिक्र",
-          "summary": "Congress Protest: राहुल गांधी- प्रियंका गांधी के प्रदर्शन पर शिक्षामंत्री धर्मेंद्र प्रधान ने दी तीखी प्रतिक्रिया!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "भारत के रक्षा बेड़े को मिलेगी नई ताकत: बोइंग और मरलिनहॉक ने मिलाया हाथ; आत्मनिर्भरता के साथ और क्या",
       "url": "https://www.amarujala.com/india-news/bengaluru-firm-merlinhawk-partners-with-boeing-defence-india-for-eo-ir-sustainment-2026-07-22",
       "source": "Amar Ujala Breaking",
@@ -448,24 +484,6 @@
           "title": "भारत के रक्षा बेड़े को मिलेगी नई ताकत: बोइंग और मरलिनहॉक ने मिलाया हाथ; आत्मनिर्भरता के साथ और क्या",
           "summary": "बोइंग और मरलिनहॉक ने भारतीय रक्षा बेड़े के लिए एक समझौता किया है। इस समझौते के तहत मरलिनहॉक बोइंग के साथ मिलकर इलेक्ट्रो ऑप्टिकल और इन्फ्रारेड सिस्टम की देखभाल करेगी। यह साझेदारी भारतीय रक्षा बेड़े को नई ताकत प्रदान करेगी। भारत के रक्षा बेड़े को मिलेगी नई ताकत: बोइंग और मरलिनहॉक ने मिलाया हाथ; आत्मनिर्भरता के साथ और क्या होगा खास?",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सिक्किम की सुरंग में 20 मौतें; विधानसभा में मौन; PM-अमित शाह ने CM से ली जानकारी",
-      "url": "https://www.amarujala.com/live/india-news/sikkim-namchi-tunnel-rescue-ops-live-updates-nhpc-teesta-stage-vi-project-casualties-workers-trapps-hindi-news-2026-07-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T21:43:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/sikkim-tunnel_e3a6e34665dee5bbb9593083e41c41fb.gif?w=1200&dpr=1.0",
-      "summary": "सिक्किम की सुरंग में 20 मौतें हो गईं। सुरंग में फंसे 17 मजदूरों को बचाया गया। प्रधानमंत्री अमित शाह ने सिक्किम के मुख्यमंत्री से जानकारी ली। सिक्किम की सुरंग में 20 मौतें; विधानसभा में मौन; PM-अमित शाह ने CM से ली जानकारी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिक्किम की सुरंग में 20 मौतें; विधानसभा में मौन; PM-अमित शाह ने CM से ली जानकारी",
-          "summary": "सिक्किम की सुरंग में 20 मौतें हो गईं। सुरंग में फंसे 17 मजदूरों को बचाया गया। प्रधानमंत्री अमित शाह ने सिक्किम के मुख्यमंत्री से जानकारी ली। सिक्किम की सुरंग में 20 मौतें; विधानसभा में मौन; PM-अमित शाह ने CM से ली जानकारी।",
-          "region": "दुनिया"
         }
       }
     },
@@ -506,24 +524,6 @@
       }
     },
     {
-      "title": "देर रात जंतर-मंतर पहुंचे उद्धव ठाकरे, प्रदर्शनकारियों में भरा जोश",
-      "url": "https://www.amarujala.com/video/india-news/uddhav-thackeray-on-cjp-protest-uddhav-thackeray-arrived-at-jantar-mantar-late-at-night-boosting-the-spirits-2026-07-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T21:01:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/uddhav-thackeray-on-cjp-protest_ac6b653ea26a40261b62dc45741bdeee.jpeg?w=1200&dpr=1.0",
-      "summary": "Uddhav Thackeray ON CJP Protest: देर रात जंतर-मंतर पहुंचे उद्धव ठाकरे, प्रदर्शनकारियों में भरा जोश।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "देर रात जंतर-मंतर पहुंचे उद्धव ठाकरे, प्रदर्शनकारियों में भरा जोश",
-          "summary": "Uddhav Thackeray ON CJP Protest: देर रात जंतर-मंतर पहुंचे उद्धव ठाकरे, प्रदर्शनकारियों में भरा जोश।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "ईरान से जंग जारी, लेबनान की मदद करेगा US; ट्रंप हिजबुल्ला के खात्मे की रणनीति पर क्या बोले?",
       "url": "https://www.amarujala.com/world/donald-trump-concrete-plans-help-lebanon-oust-hezbollah-israel-withdrawal-2026-07-22",
       "source": "Amar Ujala World",
@@ -542,42 +542,6 @@
       }
     },
     {
-      "title": "राहुल-प्रियंका के धरने में पहुंचे अखिलेश यादव, सरकार पर बरसे कांग्रेसी दिग्गज!",
-      "url": "https://www.amarujala.com/video/india-news/congress-protest-akhilesh-yadav-joins-rahul-and-priyanka-s-sit-in-congress-stalwarts-lash-out-at-the-governm-2026-07-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T20:26:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/congress-protest_8d098a965e0fbdb5e6a9dd4a827f5d0c.jpeg?w=1200&dpr=1.0",
-      "summary": "Congress Protest: राहुल-प्रियंका के धरने में पहुंचे अखिलेश यादव, सरकार पर बरसे कांग्रेसी दिग्गज!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राहुल-प्रियंका के धरने में पहुंचे अखिलेश यादव, सरकार पर बरसे कांग्रेसी दिग्गज!",
-          "summary": "Congress Protest: राहुल-प्रियंका के धरने में पहुंचे अखिलेश यादव, सरकार पर बरसे कांग्रेसी दिग्गज!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्यों घिरी आर्ट ऑफ लिविंग संस्था: रविशंकर के आश्रम ने की सरकारी जमीन पर कब्जा, 290 एकड़ का पूरा सच",
-      "url": "https://www.amarujala.com/india-news/karnataka-govt-constitutes-sit-to-probe-art-of-living-land-encroachment-bengaluru-2026-07-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T20:12:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/shara-shara-ravashakara_b22c0938801305f9ffeba9abf8817cc1.jpeg?w=1200&dpr=1.0",
-      "summary": "क्या? karnataka govt constitutes sit to probe art of living land encroachment bengaluru क्यों घिरी आर्ट ऑफ लिविंग संस्था: रविशंकर के आश्रम ने की सरकारी जमीन पर कब्जा, 290 एकड़ का पूरा सच क्या?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्यों घिरी आर्ट ऑफ लिविंग संस्था: रविशंकर के आश्रम ने की सरकारी जमीन पर कब्जा, 290 एकड़ का पूरा सच",
-          "summary": "क्या? karnataka govt constitutes sit to probe art of living land encroachment bengaluru क्यों घिरी आर्ट ऑफ लिविंग संस्था: रविशंकर के आश्रम ने की सरकारी जमीन पर कब्जा, 290 एकड़ का पूरा सच क्या?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "दिल्ली-NCR में तीन दिन बारिश, मौसम विभाग ने बताया कैसे रहेंगे अगले छह दिन?",
       "url": "https://www.amarujala.com/photo-gallery/delhi-ncr/kal-ka-mausam-rain-in-delhi-ncr-for-three-days-2026-07-21",
       "source": "Amar Ujala Breaking",
@@ -592,42 +556,6 @@
           "title": "दिल्ली-NCR में तीन दिन बारिश, मौसम विभाग ने बताया कैसे रहेंगे अगले छह दिन?",
           "summary": "दिल्ली में सोमवार देर रात शुरू हुई बारिश मंगलवार को भी जारी रही। इसके चलते राजधानी के तापमान में सामान्य से तीन से पांच डिग्री सेल्सियस तक की गिरावट दर्ज की गई। दिल्ली-NCR में तीन दिन बारिश, मौसम विभाग ने बताया कैसे रहेंगे अगले छह दिन?",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "राहुल गांधी की गिरफ्तारी के विरोध में भोपाल में कांग्रेस का जंगी प्रदर्शन",
-      "url": "https://www.amarujala.com/video/india-news/congress-protest-massive-congress-protest-in-bhopal-against-rahul-gandhi-s-arrest-2026-07-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-21T19:58:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/congress-protest_e26a34b6fc22a2bcf50f4edc414352fd.jpeg?w=1200&dpr=1.0",
-      "summary": "Congress Protest: राहुल गांधी की गिरफ्तारी के विरोध में भोपाल में कांग्रेस का जंगी प्रदर्शन।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राहुल गांधी की गिरफ्तारी के विरोध में भोपाल में कांग्रेस का जंगी प्रदर्शन",
-          "summary": "Congress Protest: राहुल गांधी की गिरफ्तारी के विरोध में भोपाल में कांग्रेस का जंगी प्रदर्शन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने रात में किया बहरीन पर हमला, सरकार की लोगों से सुरक्षित स्थान पर जाने की अपील",
-      "url": "https://www.patrika.com/world-news/iran-attacks-bahrain-ministry-of-interior-warns-citizens-to-head-to-nearest-safe-place-20767243",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-21T19:34:04+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/iran-attacks-bahrain.webp",
-      "summary": "अमेरिका (United States of America) से बढ़ते तनाव के बीच ईरान (Iran) बदला लेने के लिए जवाबी कार्रवाई के तौर पर मिडिल ईस्ट के देशों पर हमले कर रहा है, जिससे क्षेत्रीय शांति और स्थिरता पर गंभीर संकट मंडरा रहा है। अब एक बार फिर ईरान ने बहरीन (Bahrain) को निशाना बनाया है और रात को ही ड्रोन्स और मिसाइलों से हमला करते हुए बहरीन को दहला दिया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने रात में किया बहरीन पर हमला, सरकार की लोगों से सुरक्षित स्थान पर जाने की अपील",
-          "summary": "अमेरिका (United States of America) से बढ़ते तनाव के बीच ईरान (Iran) बदला लेने के लिए जवाबी कार्रवाई के तौर पर मिडिल ईस्ट के देशों पर हमले कर रहा है, जिससे क्षेत्रीय शांति और स्थिरता पर गंभीर संकट मंडरा रहा है। अब एक बार फिर ईरान ने बहरीन (Bahrain) को निशाना बनाया है और रात को ही ड्रोन्स और मिसाइलों से हमला करते हुए बहरीन को दहला दिया।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -753,6 +681,78 @@
         "hi": {
           "title": "12वीं मंजिल से गिरकर भी जिंदा बच गया शख्स, नीचे टहल रही महिला की दबकर हो गई मौत",
           "summary": "जापान के शहर नागोया में एक बेहद हैरान करने वाला हादसा सामने आया है. रविवार की देर रात 1 बजे के करीब 23 साल की होउरा इनाबा नाम की महिला अपने दोस्त के साथ सड़क पर पैदल जा रही थी. तभी अचानक 12 मंजिला इमारत से एक 29 साल का व्यक्ति सीधा उसके ऊपर आ गिरा. इससे अब उस महिला की मौत हो गई है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘तो अपनी ही जमीन उड़ा देगा ईरान’, ब्रिगेडियर जनरल ने किया ऐसा ऐलान, नागरिकों की भी कांप जाएगी रूह",
+      "url": "https://hindi.news18.com/world/middle-east-iran-will-bomb-own-land-iran-general-threatens-scorched-earth-policy-as-us-ground-war-fears-rise-10678742.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-21T17:07:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/US-IRAN-WAR-1-2026-06-e0edcb0a83f835244241563710ff77f4-1200x800.jpg",
+      "summary": "अमेरिका और ईरान के बीच बढ़ता तनाव अब महाविनाश की कगार पर पहुंच गया है, जहां अमेरिकी जमीनी कार्रवाई (Ground Invasion) के जवाब में ईरान ने खौफनाक कदम उठाने की चेतावनी दी है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘तो अपनी ही जमीन उड़ा देगा ईरान’, ब्रिगेडियर जनरल ने किया ऐसा ऐलान, नागरिकों की भी कांप जाएगी रूह",
+          "summary": "अमेरिका और ईरान के बीच बढ़ता तनाव अब महाविनाश की कगार पर पहुंच गया है, जहां अमेरिकी जमीनी कार्रवाई (Ground Invasion) के जवाब में ईरान ने खौफनाक कदम उठाने की चेतावनी दी है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कांग्रेस सांसदों को भी नहीं पता था राहुल गांधी के धरने का 'सीक्रेट प्लान'! अब हुआ बड़ा खुलासा",
+      "url": "https://www.abplive.com/news/india/rahul-gandhi-detained-secret-paln-congress-mp-pm-modi-residence-protest-akhilesh-yadav-priyanka-3163622",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-21T16:39:17+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/21/96968a3c728a0f319870a55420a196561784651825737708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "कांग्रेस के शीर्ष नेतृत्व ने प्रधानमंत्री नरेंद्र मोदी के आधिकारिक आवास के एक गेट के निकट धरना दिया. यह घटनाक्रम सरकार और पुलिस के साथ-साथ पार्टी के कई सांसदों को भी चौंका दिया. एक वरिष्ठ नेता ने बताया कि उच्च सुरक्षा वाले क्षेत्र में प्रदर्शन के लिए गोपनीयता बनाए रखना जरूरी था. कांग्रेस के शीर्ष नेतृत्व ने प्रधानमंत्री नरेंद्र मोदी के आधिकारिक आवास के एक गेट के निकट धरना देकर न केवल सरकार और पुलिस, बल्कि पार्टी के कई सांसदों को भी चौंका दिया.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कांग्रेस सांसदों को भी नहीं पता था राहुल गांधी के धरने का 'सीक्रेट प्लान'! अब हुआ बड़ा खुलासा",
+          "summary": "कांग्रेस के शीर्ष नेतृत्व ने प्रधानमंत्री नरेंद्र मोदी के आधिकारिक आवास के एक गेट के निकट धरना दिया. यह घटनाक्रम सरकार और पुलिस के साथ-साथ पार्टी के कई सांसदों को भी चौंका दिया. एक वरिष्ठ नेता ने बताया कि उच्च सुरक्षा वाले क्षेत्र में प्रदर्शन के लिए गोपनीयता बनाए रखना जरूरी था. कांग्रेस के शीर्ष नेतृत्व ने प्रधानमंत्री नरेंद्र मोदी के आधिकारिक आवास के एक गेट के निकट धरना देकर न केवल सरकार और पुलिस, बल्कि पार्टी के कई सांसदों को भी चौंका दिया.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मनीला में क्वाड का नया वॉर-रूम! जयशंकर-रुबियो की जोड़ी देख उड़ेंगे शी जिनपिंग के होश",
+      "url": "https://hindi.news18.com/world/rest-of-world-quad-war-room-in-manila-s-jaishankar-and-marco-rubio-meeting-spell-big-trouble-for-xi-jinping-china-indo-pacific-power-shift-10678657.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-21T16:16:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Quad-Foreign-Ministers-Manila-meeting-2026-07-b3a47401cd7e11cfaaf64af3e0e80904-1200x800.jpg",
+      "summary": "फिलीपींस की राजधानी मनीला में भारत, अमेरिका, जापान और ऑस्ट्रेलिया के विदेश मंत्रियों की बैठक दक्षिण चीन सागर (South China Sea) में चीन के एकतरफा दबदबे पर नकेल कसने का बड़ा रणनीतिक दांव है. महज दो महीने के भीतर दोबारा हो रही इस क्वाड (Quad) बैठक में विदेश मंत्री एस जयशंकर और अमेरिकी विदेश मंत्री मार्को रुबियो का एक साथ आना इंडो-पैसिफिक रीजन में पावर बैलेंस के बदलने का साफ संदेश देता है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मनीला में क्वाड का नया वॉर-रूम! जयशंकर-रुबियो की जोड़ी देख उड़ेंगे शी जिनपिंग के होश",
+          "summary": "फिलीपींस की राजधानी मनीला में भारत, अमेरिका, जापान और ऑस्ट्रेलिया के विदेश मंत्रियों की बैठक दक्षिण चीन सागर (South China Sea) में चीन के एकतरफा दबदबे पर नकेल कसने का बड़ा रणनीतिक दांव है. महज दो महीने के भीतर दोबारा हो रही इस क्वाड (Quad) बैठक में विदेश मंत्री एस जयशंकर और अमेरिकी विदेश मंत्री मार्को रुबियो का एक साथ आना इंडो-पैसिफिक रीजन में पावर बैलेंस के बदलने का साफ संदेश देता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'सिर्फ 3 घंटे सोती हूं, कपड़े भी खुद इस्त्री करती' क्यों हराम हो रखी है जापान PM की नींद?",
+      "url": "https://hindi.news18.com/world/south-asia-japan-s-pm-sanae-takaichi-makes-a-revelation-about-busy-life-sjn-10678597.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-21T15:50:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Sanae-Takaichi-Reuters-2026-07-466d83fcdac3e4ae34cca37c70797ffa-1200x800.jpg",
+      "summary": "जापान की प्रधानमंत्री साने ताकाइची को प्रधानमंत्री बनने के बाद सिर्फ 3 घंटे की नींद मिल पाती है. उन्हें घर के कई काम भी खुद करने पड़ते हैं. ताकाइची खुद अपने कपड़े इस्त्री करती हैं. जापान की प्रधानमंत्री साने ताकाइची ने अपनी व्यस्त जिंदगी को लेकर ऐसा खुलासा किया है, जिसने लोगों का ध्यान खींच लिया है. उन्होंने बताया कि प्रधानमंत्री बनने के बाद उन्हें सिर्फ 3 घंटे की ही नींद मिल पाती है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'सिर्फ 3 घंटे सोती हूं, कपड़े भी खुद इस्त्री करती' क्यों हराम हो रखी है जापान PM की नींद?",
+          "summary": "जापान की प्रधानमंत्री साने ताकाइची को प्रधानमंत्री बनने के बाद सिर्फ 3 घंटे की नींद मिल पाती है. उन्हें घर के कई काम भी खुद करने पड़ते हैं. ताकाइची खुद अपने कपड़े इस्त्री करती हैं. जापान की प्रधानमंत्री साने ताकाइची ने अपनी व्यस्त जिंदगी को लेकर ऐसा खुलासा किया है, जिसने लोगों का ध्यान खींच लिया है. उन्होंने बताया कि प्रधानमंत्री बनने के बाद उन्हें सिर्फ 3 घंटे की ही नींद मिल पाती है.",
           "region": "एशिया-प्रशांत"
         }
       }
