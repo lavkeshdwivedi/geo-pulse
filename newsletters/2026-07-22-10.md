@@ -1,90 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 22, 2026 15:24 IST
-
----
-
-## Asia-Pacific
-
-### [Why are scientists leaving India’s national space agency - and will tighter exit rules keep them](https://www.channelnewsasia.com/asia/why-are-scientists-leaving-indias-national-space-agency-and-will-tighter-exit-rules-keep-them-there-6270366)
-*Channel News Asia* - Jul 22, 14:25 IST (iso: 2026-07-22T08:55:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--rvdHZVPp--/c_crop,h_900,w_1600,x_0,y_88/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/22/skyroot_founders_campus_-_reuters.jpg?itok=LHQGvcks -->
-
-As India’s private spacetech sector takes off, competition for its most experienced scientists is raising questions about how the country can build a thriving commercial space industry without hollowing out the institution that helped make it possible. Why are scientists leaving India’s national space agency - and will tighter exit rules keep them.
-
-### [How Australia resisted PRC economic coercion: lessons for others](https://asiatimes.com/2026/07/how-australia-resisted-prc-economic-coercion-lessons-for-others/)
-*Asia Times* - Jul 22, 09:39 IST (iso: 2026-07-22T04:09:53+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/jjy2fr8g-1346027878-copy-e1784692767205.jpg -->
-
-The People’s Republic of China has used its statecraft to weaponize its trade with other countries on several occasions in recent years. Such behavior usually arises when the PRC interprets another country’s actions as hostile to its political interests and resorts to nonofficial sanctions, tariffs, regulations, and consumer boycotts that damage a host nation’s economy. [] The post How Australia.
-
-### [Deadly Floods Sweep Away Buildings In Afghanistan, Dozens Missing](https://www.rferl.org/a/afghan-flooding-seep-away-homes-parun/33809146.html)
-*Radio Free Europe / Liberty* - Jul 21, 21:07 IST (iso: 2026-07-21T15:37:05+00:00)
-<!-- image: https://gdb.rferl.org/c767e434-89ab-456b-60e6-08decd277110_w1200_h630.jpg -->
-
-At least 23 people died and around 100 others are missing after floodwaters swept away buildings in Afghanistan's eastern Nuristan Province. Search crews hunted for survivors on July 21 in the provincial capital, Parun, but more heavy rain and flood warnings hampered their efforts. Deadly Floods Sweep Away Buildings In Afghanistan, Dozens Missing.
-
-### [Batanes latest on the list of China-Philippines flashpoints](https://asiatimes.com/2026/07/batanes-latest-on-the-list-of-china-philippines-flashpoints/)
-*Asia Times* - Jul 21, 14:46 IST (iso: 2026-07-21T09:16:35+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Batanes-Taiwan-Philippines-Indigenous-People.jpg -->
-
-When Chinese scholars recently argued that Batanes was a natural extension of Taiwan. and therefore part of China’s territorial claim. they demonstrated how indigenous history and cultural ties can become entangled in contemporary geopolitical competition. Although the argument has not been adopted as official Chinese policy, it nevertheless showed how easily long-standing relationships [] The Batanes latest on the list of China-Philippines flashpoints.
-
-### [Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they](https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing)
-*The Guardian* - Jul 20, 10:13 IST (iso: 2026-07-20T04:43:37+00:00)
-<!-- image: https://i.guim.co.uk/img/media/fefc6edd8b5e59707c2b70fe938b7b4e76324256/270_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecb21fcbeca03e0bd9d803374aeae0ed -->
-
-Many of the more than 100 people awaiting processing on the tiny Pacific island are skipping meals to make ends meet, a new survey has foundFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMost refugees and asylum seekers held in Nauru’s detention centres say they cannot afford to buy enough food or access clean drinking water, despit.
-
----
-
-## Europe & Russia
-
-### [Ukraine Hits Russian Retailer Wildberries' Warehouses Again Amid Accusations It Supplies Military](https://www.rferl.org/a/ukraine-russia-wildberries-war-strikes-zelenskyy/33809727.html)
-*Radio Free Europe / Liberty* - Jul 22, 14:12 IST (iso: 2026-07-22T08:42:38+00:00)
-<!-- image: https://gdb.rferl.org/e94b942d-4c70-4193-31c9-08decd1f5434_tv_w1200_h630.jpg -->
-
-The Ukrainian military struck warehouses belonging to Russia's largest online retailer, Wildberries, in the third such attack in a week, as Kyiv continues to expand its retaliatory long-range strike campaign in an effort to force Moscow into negotiations. Ukraine Hits Russian Retailer Wildberries' Warehouses Again Amid Accusations It Supplies Military.
-
-### [Zelenskyy left with little choice but to sack his army chief - and it's a spectacular fall from](https://news.sky.com/story/why-zelenskyy-has-sacked-ukraines-armed-forces-chief-13565831)
-*Sky News World* - Jul 22, 05:46 IST (iso: 2026-07-22T00:16:00+00:00)
-<!-- image: https://e3.365dm.com/26/07/1920x1080/skynews-zelenskyy-syrskyi-ukraine_7303841.jpg?20260722013008 -->
-
-In a significant move in the middle of a war, Ukraine's president has sacked his military chief and is seeking to woo a former defence minister back into the fold – just days after ousting him too. Why Zelenskyy has sacked Ukraine's armed forces chief. Zelenskyy left with little choice but to sack his army chief - and it's a spectacular fall from.
-
-### [A federal court victory for free speech in and about America](https://asiatimes.com/2026/07/a-federal-court-victory-for-free-speech-in-and-about-america/)
-*Asia Times* - Jul 22, 05:45 IST (iso: 2026-07-22T00:15:29+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/hateaid_new4f-copy.jpg -->
-
-Petty and vindictive. Such was the ban on travel to the United States handed out by the State Department on December 23 last year to five Europeans, one of whom was Clare Melford, chief executive of the Global Disinformation Index (GDI), a non-profit whose board I chair. The Secretary of State, Marco Rubio, accused Clare, former EU Commissioner Thierry [] The post A federal court victory for free.
-
-### [Zelenskyy Makes Another Shakeup To Ukraine's Military Command](https://www.rferl.org/a/ukraine-military-syrskiy-drapatiy-zelenzkyy-war-russia/33809328.html)
-*Radio Free Europe / Liberty* - Jul 22, 03:24 IST (iso: 2026-07-21T21:54:59+00:00)
-<!-- image: https://gdb.rferl.org/01000000-0a00-0242-70ac-08dc28e66f05_w1200_h630.jpg -->
-
-President Volodymyr Zelenskyy has pushed out Ukraine’s top general nearly a week after he sacked Mykhailo Fedorov as defense minister, who had openly clashed with the general in a major fight over strategy in the war against Russia. Zelenskyy Makes Another Shakeup To Ukraine’s Military Command. President Volodymyr Zelenskyy pushed out Ukraine’s top general nearly a week after he sacked Mykhaylo Fedorov as defense minister, who had openly clashed with the general in a major fight over strategy in the war against Russia.
-
-### [One Business Lost, A Second In Flames. Despite Russia's War, A Ukrainian Entrepreneur Won't Quit.](https://www.rferl.org/a/mariupol-family-loses-business-twice-russia-ukraine-war-kolmykova/33808968.html)
-*Radio Free Europe / Liberty* - Jul 21, 18:12 IST (iso: 2026-07-21T12:42:28+00:00)
-<!-- image: https://gdb.rferl.org/c653908a-f695-4c8c-1741-08decad58b60_w1200_h630.jpg -->
-
-When a Russian drone and missile attack on June 16 hit the Kyiv market where Kateryna Kolmykova’s store and warehouse were located, it was the second time she had lost a business during the war. But in a tearful statement, she says she'll start over yet again. One Business Lost, A Second In Flames. Despite Russia's War, A Ukrainian Entrepreneur Won't Quit.
-
-### [Central Asian Countries Face Fuel Shortages As Russian Oil Exports Drop Off](https://www.rferl.org/a/kyrgyzstan-tajikistan-fuel-shortage-russian-exports/33808383.html)
-*Radio Free Europe / Liberty* - Jul 21, 02:55 IST (iso: 2026-07-20T21:25:34+00:00)
-<!-- image: https://gdb.rferl.org/162c38e6-47c0-4a8e-42e4-08decacf94d0_w1200_h630.jpg -->
-
-Russia is experiencing severe fuel shortages as a result of Ukrainian strikes on its energy infrastructure, resulting in high prices and long lines for gasoline. Now Central Asian countries, which rely heavily on imports of Russian petroleum products, are seeing similar price hikes and shortages. Central Asian Countries Face Fuel Shortages As Russian Oil Exports Drop Off.
-
-### [Russian And Ukraine Exchange Overnight Strikes As Drone Attacks Target Moscow Region](https://www.rferl.org/a/russia-ukraine-drone-and-missile-strikes/33807500.html)
-*Radio Free Europe / Liberty* - Jul 20, 18:44 IST (iso: 2026-07-20T13:14:08+00:00)
-<!-- image: https://gdb.rferl.org/eb7ea0a2-35a2-4118-bbcb-4348c3cbfb4b_cx0_cy10_cw0_w1200_h630.jpg -->
-
-Large plumes of black smoke rose high into the skies of the Moscow region on July 20 after Ukrainian drone strikes hit an oil depot and logistics facilities, wounding 10 people as Kyiv vowed to respond to deadly Russian attacks that have left several people dead. Russian And Ukraine Exchange Overnight Strikes As Drone Attacks Target Moscow Region.
+**Updated:** July 22, 2026 16:17 IST
 
 ---
 
 ## Middle East & Africa
+
+### [Iran’s Hormuz choice: trust pays, coercion doesn’t](https://asiatimes.com/2026/07/irans-hormuz-choice-trust-pays-coercion-doesnt/)
+*Asia Times* - Jul 22, 16:11 IST (iso: 2026-07-22T10:41:49+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Strait-of-Hormuz-Map.jpg -->
+
+History suggests geography can be a nation’s greatest economic asset or its greatest geopolitical liability. Whenever maritime arteries have been disrupted. whether by war, conflict or political confrontation. the economic costs have extended far beyond the countries directly involved.
 
 ### [Rubio Says Iran Not Serious About Diplomacy, Warns ASEAN On Hormuz Threat](https://www.rferl.org/a/rubio-iran-diplomacy-global-shipping-hormuz-asean/33809704.html)
 *Radio Free Europe / Liberty* - Jul 22, 12:38 IST (iso: 2026-07-22T07:08:08+00:00)
@@ -130,6 +56,92 @@ Some blame Tehran. Others blame Washington. But pretty much everyone on Iran's s
 
 ---
 
+## Europe & Russia
+
+### [US, Ukraine Reach Breakthrough Agreement On Drone Cooperation](https://www.rferl.org/a/us-ukraine-drone-cooperation-agreement/33809808.html)
+*Radio Free Europe / Liberty* - Jul 22, 15:46 IST (iso: 2026-07-22T10:16:33+00:00)
+<!-- image: https://gdb.rferl.org/a1eb71b8-dd5a-4458-96a5-e9432f260d25_w1200_h630.png -->
+
+The US and Ukraine have signed a statement of intent creating the first formal framework for cooperation on military drones, paving the way for Ukrainian combat drones to be exported to the US for testing and potentially future joint production. US, Ukraine Reach Breakthrough Agreement On Drone Cooperation.
+
+### [Ukraine Hits Russian Retailer Wildberries' Warehouses Again Amid Accusations It Supplies Military](https://www.rferl.org/a/ukraine-russia-wildberries-war-strikes-zelenskyy/33809727.html)
+*Radio Free Europe / Liberty* - Jul 22, 14:12 IST (iso: 2026-07-22T08:42:38+00:00)
+<!-- image: https://gdb.rferl.org/e94b942d-4c70-4193-31c9-08decd1f5434_tv_w1200_h630.jpg -->
+
+The Ukrainian military struck warehouses belonging to Russia's largest online retailer, Wildberries, in the third such attack in a week, as Kyiv continues to expand its retaliatory long-range strike campaign in an effort to force Moscow into negotiations. Ukraine Hits Russian Retailer Wildberries' Warehouses Again Amid Accusations It Supplies Military. The Ukrainian military struck warehouses belonging to Russia's largest online retailer, Wildberries, in the third attack targeting such facilities in a week, as Kyiv continues to expand its retaliatory long-range strike campaign in an effort to force Moscow into negotiations.
+
+### [Zelenskyy left with little choice but to sack his army chief - and it's a spectacular fall from](https://news.sky.com/story/why-zelenskyy-has-sacked-ukraines-armed-forces-chief-13565831)
+*Sky News World* - Jul 22, 05:46 IST (iso: 2026-07-22T00:16:00+00:00)
+<!-- image: https://e3.365dm.com/26/07/1920x1080/skynews-zelenskyy-syrskyi-ukraine_7303841.jpg?20260722013008 -->
+
+In a significant move in the middle of a war, Ukraine's president has sacked his military chief and is seeking to woo a former defence minister back into the fold – just days after ousting him too. Why Zelenskyy has sacked Ukraine's armed forces chief. Zelenskyy left with little choice but to sack his army chief - and it's a spectacular fall from.
+
+### [A federal court victory for free speech in and about America](https://asiatimes.com/2026/07/a-federal-court-victory-for-free-speech-in-and-about-america/)
+*Asia Times* - Jul 22, 05:45 IST (iso: 2026-07-22T00:15:29+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/hateaid_new4f-copy.jpg -->
+
+Petty and vindictive. Such was the ban on travel to the United States handed out by the State Department on December 23 last year to five Europeans, one of whom was Clare Melford, chief executive of the Global Disinformation Index (GDI), a non-profit whose board I chair. The Secretary of State, Marco Rubio, accused Clare, former EU Commissioner Thierry [] The post A federal court victory for free.
+
+### [Zelenskyy Makes Another Shakeup To Ukraine's Military Command](https://www.rferl.org/a/ukraine-military-syrskiy-drapatiy-zelenzkyy-war-russia/33809328.html)
+*Radio Free Europe / Liberty* - Jul 22, 03:24 IST (iso: 2026-07-21T21:54:59+00:00)
+<!-- image: https://gdb.rferl.org/01000000-0a00-0242-70ac-08dc28e66f05_w1200_h630.jpg -->
+
+President Volodymyr Zelenskyy has pushed out Ukraine’s top general nearly a week after he sacked Mykhailo Fedorov as defense minister, who had openly clashed with the general in a major fight over strategy in the war against Russia. Zelenskyy Makes Another Shakeup To Ukraine’s Military Command. President Volodymyr Zelenskyy pushed out Ukraine’s top general nearly a week after he sacked Mykhaylo Fedorov as defense minister, who had openly clashed with the general in a major fight over strategy in the war against Russia.
+
+### [One Business Lost, A Second In Flames. Despite Russia's War, A Ukrainian Entrepreneur Won't Quit.](https://www.rferl.org/a/mariupol-family-loses-business-twice-russia-ukraine-war-kolmykova/33808968.html)
+*Radio Free Europe / Liberty* - Jul 21, 18:12 IST (iso: 2026-07-21T12:42:28+00:00)
+<!-- image: https://gdb.rferl.org/c653908a-f695-4c8c-1741-08decad58b60_w1200_h630.jpg -->
+
+When a Russian drone and missile attack on June 16 hit the Kyiv market where Kateryna Kolmykova’s store and warehouse were located, it was the second time she had lost a business during the war. But in a tearful statement, she says she'll start over yet again. One Business Lost, A Second In Flames. Despite Russia's War, A Ukrainian Entrepreneur Won't Quit.
+
+### [Central Asian Countries Face Fuel Shortages As Russian Oil Exports Drop Off](https://www.rferl.org/a/kyrgyzstan-tajikistan-fuel-shortage-russian-exports/33808383.html)
+*Radio Free Europe / Liberty* - Jul 21, 02:55 IST (iso: 2026-07-20T21:25:34+00:00)
+<!-- image: https://gdb.rferl.org/162c38e6-47c0-4a8e-42e4-08decacf94d0_w1200_h630.jpg -->
+
+Russia is experiencing severe fuel shortages as a result of Ukrainian strikes on its energy infrastructure, resulting in high prices and long lines for gasoline. Now Central Asian countries, which rely heavily on imports of Russian petroleum products, are seeing similar price hikes and shortages. Central Asian Countries Face Fuel Shortages As Russian Oil Exports Drop Off.
+
+### [Russian And Ukraine Exchange Overnight Strikes As Drone Attacks Target Moscow Region](https://www.rferl.org/a/russia-ukraine-drone-and-missile-strikes/33807500.html)
+*Radio Free Europe / Liberty* - Jul 20, 18:44 IST (iso: 2026-07-20T13:14:08+00:00)
+<!-- image: https://gdb.rferl.org/eb7ea0a2-35a2-4118-bbcb-4348c3cbfb4b_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Large plumes of black smoke rose high into the skies of the Moscow region on July 20 after Ukrainian drone strikes hit an oil depot and logistics facilities, wounding 10 people as Kyiv vowed to respond to deadly Russian attacks that have left several people dead. Russian And Ukraine Exchange Overnight Strikes As Drone Attacks Target Moscow Region.
+
+---
+
+## Asia-Pacific
+
+### [Australia to warn China it won’t be bulled by ‘provocative‘ actions as it builds military and](https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal)
+*The Guardian* - Jul 22, 15:30 IST (iso: 2026-07-22T10:00:13+00:00)
+<!-- image: https://i.guim.co.uk/img/media/689c706db035ce93a3c736bdee508d40d270310e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3770b23277fa093e2d28310aa568ddd8 -->
+
+Foreign minister Penny Wong will deliver speech criticising China’s recent launch of a nuclear-capable submarine-launched missileGet our breaking news email, free app or daily news podcastPenny Wong will warn China that Australia and other neighbouring nations will not be bullied by its “provocative” actions, after its involvement in another “destabilising and dangerous” incident this week. The for Australia to warn China it won’t be bulled by ‘provocative‘ actions as it builds military and.
+
+### [Michelin-starred restaurant owner in South Korea faces jail over ant dessert](https://www.theguardian.com/world/2026/jul/22/restaurant-owner-south-korea-dried-ants-dessert)
+*The Guardian* - Jul 22, 14:56 IST (iso: 2026-07-22T09:26:09+00:00)
+<!-- image: https://i.guim.co.uk/img/media/c4591102f999f5401cfd3bc6a322dbcfaecd9c86/46_0_656_525/master/656.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b44b561e77a3c429ccd718819b132075 -->
+
+Prosecutors seek a one-year sentence and heavy fine after chef garnished dish with insects not approved for consumptionProsecutors in South Korea have asked a court to sentence the owner of a Michelin-starred restaurant to one year in prison for serving a dessert topped with ants, an insect not approved for consumption under local food safety law.
+
+### [How Australia resisted PRC economic coercion: lessons for others](https://asiatimes.com/2026/07/how-australia-resisted-prc-economic-coercion-lessons-for-others/)
+*Asia Times* - Jul 22, 09:39 IST (iso: 2026-07-22T04:09:53+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/jjy2fr8g-1346027878-copy-e1784692767205.jpg -->
+
+The People’s Republic of China has used its statecraft to weaponize its trade with other countries on several occasions in recent years. Such behavior usually arises when the PRC interprets another country’s actions as hostile to its political interests and resorts to nonofficial sanctions, tariffs, regulations, and consumer boycotts that damage a host nation’s economy. [] The post How Australia.
+
+### [Deadly Floods Sweep Away Buildings In Afghanistan, Dozens Missing](https://www.rferl.org/a/afghan-flooding-seep-away-homes-parun/33809146.html)
+*Radio Free Europe / Liberty* - Jul 21, 21:07 IST (iso: 2026-07-21T15:37:05+00:00)
+<!-- image: https://gdb.rferl.org/c767e434-89ab-456b-60e6-08decd277110_w1200_h630.jpg -->
+
+At least 23 people died and around 100 others are missing after floodwaters swept away buildings in Afghanistan's eastern Nuristan Province. Search crews hunted for survivors on July 21 in the provincial capital, Parun, but more heavy rain and flood warnings hampered their efforts. Deadly Floods Sweep Away Buildings In Afghanistan, Dozens Missing.
+
+### [Batanes latest on the list of China-Philippines flashpoints](https://asiatimes.com/2026/07/batanes-latest-on-the-list-of-china-philippines-flashpoints/)
+*Asia Times* - Jul 21, 14:46 IST (iso: 2026-07-21T09:16:35+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Batanes-Taiwan-Philippines-Indigenous-People.jpg -->
+
+When Chinese scholars recently argued that Batanes was a natural extension of Taiwan. and therefore part of China’s territorial claim. they demonstrated how indigenous history and cultural ties can become entangled in contemporary geopolitical competition. Although the argument has not been adopted as official Chinese policy, it nevertheless showed how easily long-standing relationships [] The Batanes latest on the list of China-Philippines flashpoints.
+
+---
+
 ## Americas
 
 ### [Canada cancels joint bridge-opening celebration with US amid trade tensions](https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled)
@@ -155,18 +167,6 @@ The UN General Assembly closed its first ever High-level Meeting on road safety 
 <!-- image: https://i.guim.co.uk/img/media/11c8e9a80d1b0977011a49f160acd2b7a4c4adf4/391_0_7030_5624/master/7030.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=071ac791a53b87e701341ec08b58dcd9 -->
 
 Chiefs in Ontario say they were left to self-evacuate before homes burned to ground, after being told there was no imminent threatFast-moving wildfires have burned two First Nations communities in Canada to the ground, as members said they were left to self-evacuate without government help or emergency alerts. First Nations groups devastated by Canada’s wildfires say government did not help.
-
-### [From the General Assembly to Harlem: Mandela’s call to action endures](https://news.un.org/feed/view/en/story/2026/07/1167981)
-*UN News* - Jul 20, 17:30 IST (iso: 2026-07-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/09/21-09-2018-Mandela-NICA46575.jpg/image770x420cropped.jpg -->
-
-Sixty-seven minutes. That is how long volunteers spent serving lunch to people experiencing food insecurity at Refettorio Harlem in New York City last week – one for every year Nelson Mandela gave to public service. From the General Assembly to Harlem: Mandela’s call to action endures.
-
-### [Haiti endures violence and hunger, but hopes grow for a more secure future](https://news.un.org/feed/view/en/story/2026/07/1167972)
-*UN News* - Jul 20, 17:30 IST (iso: 2026-07-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-02-2026-WFP-Haiti-01.jpg/image770x420cropped.jpg -->
-
-After years of violence perpetrated by gangs, widespread insecurity and the displacement of almost 1.5 million people as well as growing humanitarian needs, Haitians are glimpsing signs of hope as a path to democratic elections begins to emerge. At UN Headquarters in New York, the 15-member Security Council discusses what next for Haiti. Full live coverage below. Haiti endures violence and hunger, but hopes grow for a more secure future.
 
 ---
 
