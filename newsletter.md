@@ -1,50 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 22, 2026 12:28 IST
-
----
-
-## Asia-Pacific
-
-### [How Australia resisted PRC economic coercion: lessons for others](https://asiatimes.com/2026/07/how-australia-resisted-prc-economic-coercion-lessons-for-others/)
-*Asia Times* - Jul 22, 09:39 IST (iso: 2026-07-22T04:09:53+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/jjy2fr8g-1346027878-copy-e1784692767205.jpg -->
-
-The People’s Republic of China has used its statecraft to weaponize its trade with other countries on several occasions in recent years. Such behavior usually arises when the PRC interprets another country’s actions as hostile to its political interests and resorts to nonofficial sanctions, tariffs, regulations, and consumer boycotts that damage a host nation’s economy. [] The post How Australia.
-
-### [Deadly Floods Sweep Away Buildings In Afghanistan, Dozens Missing](https://www.rferl.org/a/afghan-flooding-seep-away-homes-parun/33809146.html)
-*Radio Free Europe / Liberty* - Jul 21, 21:07 IST (iso: 2026-07-21T15:37:05+00:00)
-<!-- image: https://gdb.rferl.org/c767e434-89ab-456b-60e6-08decd277110_w1200_h630.jpg -->
-
-At least 23 people died and around 100 others are missing after floodwaters swept away buildings in Afghanistan's eastern Nuristan Province. Search crews hunted for survivors on July 21 in the provincial capital, Parun, but more heavy rain and flood warnings hampered their efforts. Deadly Floods Sweep Away Buildings In Afghanistan, Dozens Missing.
-
-### [Ed Miliband appointed U.K. Foreign Secretary, India-born Kanishka Narayan in charge of AI](https://www.thehindu.com/news/international/uk-pm-burnham-names-reynolds-as-business-minister-rayner-for-housing/article71247903.ece)
-*The Hindu (International)* - Jul 21, 17:04 IST (iso: 2026-07-21T11:34:11+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/xwm8hb/article71247912.ece/alternates/LANDSCAPE_1200/2026-07-20T181645Z_1564931532_RC2UHMAU3Q8B_RTRMADP_3_BRITAIN-POLITICS.JPG -->
-
-Jonathan Reynolds was named ‌Secretary ⁠of State for ⁠Business, Innovation, Science and Trade in an expanded role ​after losing his ‌position as business Minister to Peter Kyle in a reshuffle under ‌former Prime Minister ​Keir Starmer U. K. PM Burnham names Reynolds as Business Minister, Rayner for housing. U. Ed Miliband appointed U. Foreign Secretary, India-born Kanishka Narayan in charge of AI.
-
-### [Batanes latest on the list of China-Philippines flashpoints](https://asiatimes.com/2026/07/batanes-latest-on-the-list-of-china-philippines-flashpoints/)
-*Asia Times* - Jul 21, 14:46 IST (iso: 2026-07-21T09:16:35+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Batanes-Taiwan-Philippines-Indigenous-People.jpg -->
-
-When Chinese scholars recently argued that Batanes was a natural extension of Taiwan. and therefore part of China’s territorial claim. they demonstrated how indigenous history and cultural ties can become entangled in contemporary geopolitical competition. Although the argument has not been adopted as official Chinese policy, it nevertheless showed how easily long-standing relationships [] The Batanes latest on the list of China-Philippines flashpoints.
-
-### [China’s mega-oiler could break America’s Pacific base edge](https://asiatimes.com/2026/07/chinas-mega-oiler-could-break-americas-pacific-base-edge/)
-*Asia Times* - Jul 20, 17:48 IST (iso: 2026-07-20T12:18:36+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/China-Giant-Oiler.jpg -->
-
-China’s construction of what may be the world’s largest naval replenishment ship signals its growing expeditionary ambitions. and highlights the vulnerability of the US’s base-dependent model of power projection. This month, multiple media outlets reported that satellite imagery and state media indicate that a state-owned subsidiary of China State Shipbuilding Corporation (CSSC) has been [] The China’s mega-oiler could break America’s Pacific base edge.
-
-### [Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they](https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing)
-*The Guardian* - Jul 20, 10:13 IST (iso: 2026-07-20T04:43:37+00:00)
-<!-- image: https://i.guim.co.uk/img/media/fefc6edd8b5e59707c2b70fe938b7b4e76324256/270_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecb21fcbeca03e0bd9d803374aeae0ed -->
-
-Many of the more than 100 people awaiting processing on the tiny Pacific island are skipping meals to make ends meet, a new survey has foundFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMost refugees and asylum seekers held in Nauru’s detention centres say they cannot afford to buy enough food or access clean drinking water, despit.
+**Updated:** July 22, 2026 13:23 IST
 
 ---
 
 ## Middle East & Africa
+
+### [Rubio Says Iran Not Serious About Diplomacy, Warns ASEAN On Hormuz Threat](https://www.rferl.org/a/rubio-iran-diplomacy-global-shipping-hormuz-asean/33809704.html)
+*Radio Free Europe / Liberty* - Jul 22, 12:38 IST (iso: 2026-07-22T07:08:08+00:00)
+<!-- image: https://gdb.rferl.org/c2697b3a-84ce-452e-94e9-3860c8502979_w1200_h630.jpg -->
+
+US Secretary of State Marco Rubio has warned that Iran's challenge to freedom of navigation in the Strait of Hormuz threatened not only global trade but also risked setting a dangerous precedent for Asia's contested maritime routes. Rubio Says Iran Not Serious About Diplomacy, Warns ASEAN On Hormuz Threat.
 
 ### [Trump says will be hitting Pickaxe Mountain area 'pretty soon'](https://www.thehindu.com/news/international/iran-israel-war-west-asia-21-july-2026-bahrain-kuwait-donald-trump-live-news/article71247944.ece)
 *The Hindu (International)* - Jul 22, 09:30 IST (iso: 2026-07-22T04:00:54+00:00)
@@ -87,6 +53,40 @@ Some blame Tehran. Others blame Washington. But pretty much everyone on Iran's s
 <!-- image: https://gdb.rferl.org/bb189142-978e-4fca-60b2-08decd277110_w1200_h630.jpg -->
 
 Air raid sirens blared in Bahrain and other Gulf states as the struggle for control of the Strait of Hormuz continued after US forces conducted a ninth day of air strikes on targets around Iran. Middle East Countries On High Alert As US Continues Strikes On Iran.
+
+### [‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art](https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art)
+*The Guardian* - Jul 18, 09:30 IST (iso: 2026-07-18T04:00:47+00:00)
+<!-- image: https://i.guim.co.uk/img/media/23895797e94e95e790326ff384b6f63cc5bd3e58/0_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36ebfbf5515f002f2cc591db094cbc91 -->
+
+Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt dupedSitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefully on to his canvas – a flour sack – adding blood to a knife being wielded by a man.
+
+---
+
+## Asia-Pacific
+
+### [How Australia resisted PRC economic coercion: lessons for others](https://asiatimes.com/2026/07/how-australia-resisted-prc-economic-coercion-lessons-for-others/)
+*Asia Times* - Jul 22, 09:39 IST (iso: 2026-07-22T04:09:53+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/jjy2fr8g-1346027878-copy-e1784692767205.jpg -->
+
+The People’s Republic of China has used its statecraft to weaponize its trade with other countries on several occasions in recent years. Such behavior usually arises when the PRC interprets another country’s actions as hostile to its political interests and resorts to nonofficial sanctions, tariffs, regulations, and consumer boycotts that damage a host nation’s economy. [] The post How Australia.
+
+### [Deadly Floods Sweep Away Buildings In Afghanistan, Dozens Missing](https://www.rferl.org/a/afghan-flooding-seep-away-homes-parun/33809146.html)
+*Radio Free Europe / Liberty* - Jul 21, 21:07 IST (iso: 2026-07-21T15:37:05+00:00)
+<!-- image: https://gdb.rferl.org/c767e434-89ab-456b-60e6-08decd277110_w1200_h630.jpg -->
+
+At least 23 people died and around 100 others are missing after floodwaters swept away buildings in Afghanistan's eastern Nuristan Province. Search crews hunted for survivors on July 21 in the provincial capital, Parun, but more heavy rain and flood warnings hampered their efforts. Deadly Floods Sweep Away Buildings In Afghanistan, Dozens Missing.
+
+### [Batanes latest on the list of China-Philippines flashpoints](https://asiatimes.com/2026/07/batanes-latest-on-the-list-of-china-philippines-flashpoints/)
+*Asia Times* - Jul 21, 14:46 IST (iso: 2026-07-21T09:16:35+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Batanes-Taiwan-Philippines-Indigenous-People.jpg -->
+
+When Chinese scholars recently argued that Batanes was a natural extension of Taiwan. and therefore part of China’s territorial claim. they demonstrated how indigenous history and cultural ties can become entangled in contemporary geopolitical competition. Although the argument has not been adopted as official Chinese policy, it nevertheless showed how easily long-standing relationships [] The Batanes latest on the list of China-Philippines flashpoints.
+
+### [Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they](https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing)
+*The Guardian* - Jul 20, 10:13 IST (iso: 2026-07-20T04:43:37+00:00)
+<!-- image: https://i.guim.co.uk/img/media/fefc6edd8b5e59707c2b70fe938b7b4e76324256/270_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecb21fcbeca03e0bd9d803374aeae0ed -->
+
+Many of the more than 100 people awaiting processing on the tiny Pacific island are skipping meals to make ends meet, a new survey has foundFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMost refugees and asylum seekers held in Nauru’s detention centres say they cannot afford to buy enough food or access clean drinking water, despit.
 
 ---
 
