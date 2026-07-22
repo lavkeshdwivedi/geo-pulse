@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-22T22:25:16.623931+00:00",
+  "generated_at": "2026-07-22T23:24:45.677437+00:00",
   "article_count": 50,
-  "total_unique_count": 263,
+  "total_unique_count": 275,
   "digest": {
-    "en": "Iran dominates the news with executions and protests. Asia-Pacific stories follow with floods in Afghanistan and trade tensions between India and the US. Canada also cancels a bridge-opening celebration.",
-    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं आसियान में सहयोग पर भारत की नीति और देर रात पुलिस और प्रदर्शनकारियों में झड़प। अमेरिकी सैनिक की मौत और जंतर-मंतर छात्रों का विरोध प्रदर्शन फिर हुआ हिंसक।"
+    "en": "Iran dominates the news with executions and protests. Asia-Pacific stories follow with floods and trade tensions. Australia is warning China about provocative actions.",
+    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जिनमें आसियान में सहयोग पर भारत की नीति और एआई को लेकर आशंका शामिल है। देर रात पुलिस और प्रदर्शनकारियों में झड़प हुई।"
   },
   "articles": [
     {
@@ -310,7 +310,7 @@
     {
       "title": "2026-2030 तक की कार्ययोजना पर मंथन, आसियान में सहयोग पर भारत की नीति क्या?",
       "url": "https://www.amarujala.com/world/what-india-policy-regarding-asean-jaishankar-meeting-with-secretary-general-find-out-which-issues-discussed-2026-07-23",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-23T06:50:26+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/23/aasayana-ka-mahasacava-da-kao-kama-harana-ka-satha-vathasha-matara_d4cb93c75d51aa2b5b392ce6aaeb63ae.jpeg?w=1200&dpr=1.0",
@@ -344,9 +344,117 @@
       }
     },
     {
+      "title": "क्या एआई को लेकर सच हो रही आशंका?: ओपनएआई के मॉडल ने खुद तोड़ी सीमा; अपनी ही सुरक्षा में कैसे लगाई",
+      "url": "https://www.amarujala.com/world/fears-regarding-ai-coming-true-openai-s-model-broke-its-own-boundaries-breached-its-own-safety-measures-2026-07-23",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-22T23:06:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/19/lnaca-haaa-open-ai-ka-naya-facara_3dffdca70e9f84ec32cb33eadd53766c.jpeg?w=1200&dpr=1.0",
+      "summary": "OpenAI disabled its GPT‑4o model on 15 June after the system produced disallowed political persuasion content despite built‑in safeguards. The company said the breach triggered an automatic safety shutdown and a review by its alignment team of the model’s guardrail architecture. क्या एआई को लेकर सच हो रही आशंका?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या एआई को लेकर सच हो रही आशंका?: ओपनएआई के मॉडल ने खुद तोड़ी सीमा; अपनी ही सुरक्षा में कैसे लगाई",
+          "summary": "OpenAI disabled its GPT‑4o model on 15 June after the system produced disallowed political persuasion content despite built‑in safeguards. The company said the breach triggered an automatic safety shutdown and a review by its alignment team of the model’s guardrail architecture. क्या एआई को लेकर सच हो रही आशंका?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पटना में बवाल पुलिस- छात्रों के बीच झड़प, कई पुलिसकर्मी हुए घायल",
+      "url": "https://www.amarujala.com/video/india-news/patna-student-protest-chaos-in-patna-clash-between-police-and-students-several-police-personnel-injured-2026-07-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-22T23:00:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/23/patna-student-protest_b28f1770589fabcd830cfa0065e04aa1.jpeg?w=1200&dpr=1.0",
+      "summary": "Patna Student Protest: पटना में बवाल पुलिस- छात्रों के बीच झड़प, कई पुलिसकर्मी हुए घायल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पटना में बवाल पुलिस- छात्रों के बीच झड़प, कई पुलिसकर्मी हुए घायल",
+          "summary": "Patna Student Protest: पटना में बवाल पुलिस- छात्रों के बीच झड़प, कई पुलिसकर्मी हुए घायल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "देश के जिला जज 61 साल में की रिटायर होंगे! अदालत ने राज्यों को किस फैसले के दिए निर्देश?",
+      "url": "https://www.amarujala.com/india-news/supreme-court-dist-judges-retire-at-61-directives-issued-to-states-high-court-know-details-regarding-decision-2026-07-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-22T22:59:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/21/supreme-court_93674f1ec4b251674b6d4862bd24f088.jpeg?w=1200&dpr=1.0",
+      "summary": "Supreme Court: देश के जिला जज 61 साल में की रिटायर होंगे! अदालत ने राज्यों को किस फैसले के दिए निर्देश?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "देश के जिला जज 61 साल में की रिटायर होंगे! अदालत ने राज्यों को किस फैसले के दिए निर्देश?",
+          "summary": "Supreme Court: देश के जिला जज 61 साल में की रिटायर होंगे! अदालत ने राज्यों को किस फैसले के दिए निर्देश?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'मुझे पीओके का प्रधानमंत्री बना दो'; नवाज शरीफ चुनावी रैली में कश्मीर का जिक्र कर और क्या बोले?",
+      "url": "https://www.amarujala.com/world/make-me-prime-minister-of-pok-nawaz-sharif-s-nefarious-remarks-declares-himself-kashmiri-an-election-rally-2026-07-23",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-22T22:53:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/27/nawaz-sharif_7e37c1985bdd99be4f17f344c8a8d171.jpeg?w=1200&dpr=1.0",
+      "summary": "'नापाक' बोल: 'मुझे पीओके का प्रधानमंत्री बना दो'; नवाज शरीफ चुनावी रैली में कश्मीर का जिक्र कर और क्या बोले?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मुझे पीओके का प्रधानमंत्री बना दो'; नवाज शरीफ चुनावी रैली में कश्मीर का जिक्र कर और क्या बोले?",
+          "summary": "'नापाक' बोल: 'मुझे पीओके का प्रधानमंत्री बना दो'; नवाज शरीफ चुनावी रैली में कश्मीर का जिक्र कर और क्या बोले?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान से जंग के लिए अमेरिकी खजाना खुला; संसद से 95 अरब डॉलर का पैकेज स्वीकृत; ट्रंप की योजना क्या",
+      "url": "https://www.amarujala.com/world/us-opens-its-coffers-for-war-with-iran-us-congress-passes-95-billion-package-2026-07-23",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-22T22:37:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/27/amaraka-sasatha_7ed59bfab97acb374cb0bd90eb3401a1.jpeg?w=1200&dpr=1.0",
+      "summary": "US-Iran War: ईरान से जंग के लिए अमेरिकी खजाना खुला; संसद से 95 अरब डॉलर का पैकेज स्वीकृत; ट्रंप की योजना क्या?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान से जंग के लिए अमेरिकी खजाना खुला; संसद से 95 अरब डॉलर का पैकेज स्वीकृत; ट्रंप की योजना क्या",
+          "summary": "US-Iran War: ईरान से जंग के लिए अमेरिकी खजाना खुला; संसद से 95 अरब डॉलर का पैकेज स्वीकृत; ट्रंप की योजना क्या?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्या रक्तदान से पहले बायोमेट्रिक सत्यापन अनिवार्य? दवाओं-ब्लड बैंकों का सिंगल डाटाबेस बनेगा",
+      "url": "https://www.amarujala.com/world/blood-donation-rules-dcc-recommend-biometric-verification-mandatory-medicines-and-blood-banks-single-database-2026-07-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-22T22:35:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/14/blood-donation_68f40d44ab177983fcf002ddf627f2ef.jpeg?w=1200&dpr=1.0",
+      "summary": "Blood Donation: क्या रक्तदान से पहले बायोमेट्रिक सत्यापन अनिवार्य?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या रक्तदान से पहले बायोमेट्रिक सत्यापन अनिवार्य? दवाओं-ब्लड बैंकों का सिंगल डाटाबेस बनेगा",
+          "summary": "Blood Donation: क्या रक्तदान से पहले बायोमेट्रिक सत्यापन अनिवार्य?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "25 साल की अमेरिकी सैनिक की मौत, भारतीय मूल की आर्मी सार्जेंट एंजेला रामप्रसाद कौन?",
       "url": "https://www.amarujala.com/world/iran-attack-in-jordan-25-yr-old-us-soldier-killed-who-is-indian-origin-army-sergeant-angela-ramprasad-on-trump-2026-07-23",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-22T22:20:03+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/23/iirana-amaraka-jaga-ma-ejal-ramaparasatha-blthana_3d085f354cb17f769f7f01d39e768bc6.jpeg?w=1200&dpr=1.0",
@@ -357,6 +465,24 @@
         "hi": {
           "title": "25 साल की अमेरिकी सैनिक की मौत, भारतीय मूल की आर्मी सार्जेंट एंजेला रामप्रसाद कौन?",
           "summary": "जॉर्डन में ईरान का हमला: 25 साल की अमेरिकी सैनिक की मौत, भारतीय मूल की आर्मी सार्जेंट एंजेला रामप्रसाद कौन?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सऊदी अरब ज़मीन से 350 मीटर की ऊंचाई पर बनाएगा अनोखा स्टेडियम, फीफा वर्ल्ड कप 2034 की तैयारी अभी से",
+      "url": "https://www.patrika.com/world-news/saudi-arabia-to-build-neom-sky-stadium-350-meters-above-surface-for-fifa-world-cup-2034-20770094",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-22T22:17:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/neom-sky-stadium.webp",
+      "summary": "सऊदी अरब फीफा वर्ल्ड कप 2034 के लिए 350 मीटर की ऊंचाई पर एक अनोखा स्टेडियम बनाएगा। यह स्टेडियम जमीन से 350 मीटर ऊपर बनाया जाएगा। सऊदी अरब ने 8 साल बाद होने वाले फुटबॉल टूर्नामेंट के लिए अभी से तैयारी शुरू कर दी है। पिछले कुछ सालों में सऊदी अरब (Saudi Arabia) खेलों का हब बन गया है, लेकिन सऊदी के लिए सबसे बड़ी उपलब्धि तब हासिल होगी, जब वहाँ 2034 में फीफा वर्ल्ड कप (FIFA World Cup) का आयोजन होगा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी अरब ज़मीन से 350 मीटर की ऊंचाई पर बनाएगा अनोखा स्टेडियम, फीफा वर्ल्ड कप 2034 की तैयारी अभी से",
+          "summary": "सऊदी अरब फीफा वर्ल्ड कप 2034 के लिए 350 मीटर की ऊंचाई पर एक अनोखा स्टेडियम बनाएगा। यह स्टेडियम जमीन से 350 मीटर ऊपर बनाया जाएगा। सऊदी अरब ने 8 साल बाद होने वाले फुटबॉल टूर्नामेंट के लिए अभी से तैयारी शुरू कर दी है। पिछले कुछ सालों में सऊदी अरब (Saudi Arabia) खेलों का हब बन गया है, लेकिन सऊदी के लिए सबसे बड़ी उपलब्धि तब हासिल होगी, जब वहाँ 2034 में फीफा वर्ल्ड कप (FIFA World Cup) का आयोजन होगा।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -404,13 +530,13 @@
       "sources": [],
       "published_at": "2026-07-22T21:36:44+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/spahn.webp",
-      "summary": "जर्मनी (Germany) में सरोगेसी के मुद्दे पर सार्वजनिक रुख और निजी फैसले के विरोधाभास ने सत्तारूढ़ क्रिश्चियन डेमोक्रेटिक यूनियन (सीडीयू) के वरिष्ठ नेता और चांसलर फ्रेडरिक मर्ज़ (Friedrich Merz) के करीबी सहयोगी जेन्स स्पैन (Jens Spahn) को संसदीय दल के नेता पद से इस्तीफा देने पर मजबूर कर दिया।",
+      "summary": "जर्मनी (Germany) में सरोगेसी के मुद्दे पर सार्वजनिक रुख और निजी फैसले के विरोधाभास ने सत्तारूढ़ क्रिश्चियन डेमोक्रेटिक यूनियन (सीडीयू) के वरिष्ठ नेता और चांसलर फ्रेडरिक मर्ज़ (Friedrich Merz) के करीबी सहयोगी जेन्स स्पैन (Jens Spahn) को संसदीय दल के नेता पद से इस्तीफा देने पर मजबूर कर दिया। समलैंगिक नेता स्पैन और उनके पति डैनियल फुंके (Daniel Funke) हाल ही में अमेरिका (United States of America) में।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "जिस सरोगेसी का किया विरोध उसी के सहारे पिता बने जर्मनी के नेता, देना पड़ा इस्तीफा",
-          "summary": "जर्मनी (Germany) में सरोगेसी के मुद्दे पर सार्वजनिक रुख और निजी फैसले के विरोधाभास ने सत्तारूढ़ क्रिश्चियन डेमोक्रेटिक यूनियन (सीडीयू) के वरिष्ठ नेता और चांसलर फ्रेडरिक मर्ज़ (Friedrich Merz) के करीबी सहयोगी जेन्स स्पैन (Jens Spahn) को संसदीय दल के नेता पद से इस्तीफा देने पर मजबूर कर दिया।",
+          "summary": "जर्मनी (Germany) में सरोगेसी के मुद्दे पर सार्वजनिक रुख और निजी फैसले के विरोधाभास ने सत्तारूढ़ क्रिश्चियन डेमोक्रेटिक यूनियन (सीडीयू) के वरिष्ठ नेता और चांसलर फ्रेडरिक मर्ज़ (Friedrich Merz) के करीबी सहयोगी जेन्स स्पैन (Jens Spahn) को संसदीय दल के नेता पद से इस्तीफा देने पर मजबूर कर दिया। समलैंगिक नेता स्पैन और उनके पति डैनियल फुंके (Daniel Funke) हाल ही में अमेरिका (United States of America) में।",
           "region": "यूरोप और रूस"
         }
       }
@@ -562,7 +688,7 @@
     {
       "title": "मतर ने 2022 में चाकू से वार किया, अब आतंकवाद के आरोप; क्या US में उम्रकैद होगी?",
       "url": "https://www.amarujala.com/world/salman-rushdie-attack-case-matar-stabbed-him-2022-now-faces-terrorism-charges-will-get-life-imprisonment-in-us-2026-07-23",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-22T19:32:07+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/23/amaraka-lkhaka-salmana-rashatha-oura-hamalvara_34a30b7b9de56353c354eab98b86649c.jpeg?w=1200&dpr=1.0",
@@ -628,132 +754,6 @@
           "title": "केन्या की सोने की खदान बनी मौत का कुआं, सुरंग ढहने से 5 लोगों की मौत और कई अंदर फंसे",
           "summary": "दक्षिण-पश्चिमी केन्या के नारोक काउंटी में भारी बारिश के बाद सोने की एक खदान ढहने से कम से कम पाँच खनिकों की दर्दनाक मौत हो गई. यह दर्दनाक हादसा किलिमापेसा इलाके में हुआ. यहाँ केन्या की सबसे बड़ी व्यावसायिक सोने की खदान स्थित है. केन्या की सोने की खदान बनी मौत का कुआं, सुरंग ढहने से 5 लोगों की मौत और कई अंदर फंसे।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान की दो-टूक – देश की संप्रभुता और सुरक्षा के लिए अमेरिका का पूरी ताकत से सामना करने के लिए तैयार",
-      "url": "https://www.patrika.com/world-news/iranians-stand-resolute-and-united-ready-to-confront-with-full-strength-against-america-for-sovereignty-and-national-security-of-country-20770038",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-22T18:30:20+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/baghaei.webp",
-      "summary": "ईरान ने अमेरिका के संभावित हमले का जवाब दिया है। ईरान के नेता ने कहा है कि वे अपनी संप्रभुता और सुरक्षा के लिए अमेरिका का पूरी ताकत से सामना करने के लिए तैयार हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने पहले ईरान पर हमले की धमकी दी थी। ईरान और अमेरिका के बीच तनाव बढ़ गया है। ईरान (Iran) और अमेरिका (United States of America) के एक-दूसरे के ठिकानों पर लगातार हमले जारी हैं, जिससे मिडिल ईस्ट में तनाव काफी बढ़ गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान की दो-टूक – देश की संप्रभुता और सुरक्षा के लिए अमेरिका का पूरी ताकत से सामना करने के लिए तैयार",
-          "summary": "ईरान ने अमेरिका के संभावित हमले का जवाब दिया है। ईरान के नेता ने कहा है कि वे अपनी संप्रभुता और सुरक्षा के लिए अमेरिका का पूरी ताकत से सामना करने के लिए तैयार हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने पहले ईरान पर हमले की धमकी दी थी। ईरान और अमेरिका के बीच तनाव बढ़ गया है। ईरान (Iran) और अमेरिका (United States of America) के एक-दूसरे के ठिकानों पर लगातार हमले जारी हैं, जिससे मिडिल ईस्ट में तनाव काफी बढ़ गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "PoK प्रधानमंत्री बनने की फिराक में शहबाज के भाई-जान , पाकिस्तान को लूटा, अब कश्मीर पर गंदी नजर",
-      "url": "https://hindi.news18.com/world/pakistan-pok-elections-nawaz-sharif-wants-to-become-pok-prime-minister-shehbaz-corrupt-brother-kashmir-card-10681952.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-22T18:27:22+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Nawaz-Sharif-PoK-Prime-Minister-2026-07-6e78a305b1353a22a971fd6cfb6d24af-1200x800.jpg",
-      "summary": "पाकिस्तान के पूर्व पीएम नवाज शरीफ ने पीओके का प्रधानमंत्री बनने की इच्छा जताई है. ये वही प्रधानमंत्री हैं 3 बार प्रधानमंत्री बने लेकिन कभी अपना कार्यकाल पूरा नहीं कर पाए. अब पाकिस्तान के इस भ्रष्टाचारी पूर्व प्रधानमंत्री की पीओके पर गंदी नजर पड़ गई है. मुजफ्फराबाद की एक चुनावी रैली में उन्होंने कहा कि अगर उनकी पार्टी जीतती है तो वो अपने भाई और पाकिस्तान के मौजूदा पीएम शहबाज शरीफ से कहकर खुद को पीओ।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PoK प्रधानमंत्री बनने की फिराक में शहबाज के भाई-जान , पाकिस्तान को लूटा, अब कश्मीर पर गंदी नजर",
-          "summary": "पाकिस्तान के पूर्व पीएम नवाज शरीफ ने पीओके का प्रधानमंत्री बनने की इच्छा जताई है. ये वही प्रधानमंत्री हैं 3 बार प्रधानमंत्री बने लेकिन कभी अपना कार्यकाल पूरा नहीं कर पाए. अब पाकिस्तान के इस भ्रष्टाचारी पूर्व प्रधानमंत्री की पीओके पर गंदी नजर पड़ गई है. मुजफ्फराबाद की एक चुनावी रैली में उन्होंने कहा कि अगर उनकी पार्टी जीतती है तो वो अपने भाई और पाकिस्तान के मौजूदा पीएम शहबाज शरीफ से कहकर खुद को पीओ।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रात के अंधेरे और बर्फ के अंदर भी देख लेता है निसार सैटेलाइट, नासा-इसरो ने जारी की धरती की चौंकाने",
-      "url": "https://hindi.news18.com/news/nation/nisar-satellite-can-see-through-darkness-of-night-and-snow-nasa-and-isro-released-images-of-earth-10681936.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-22T18:26:38+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/NISAR-Earth-images-1-2026-07-7a4bc59f9313d8436f070ab47ad2f235-1200x800.jpg",
-      "summary": "भारत और अमेरिका के संयुक्त मिशन निसार ने पहली बार अपना वैज्ञानिक डेटा आम लोगों और रिसर्चर्स के लिए जारी कर दिया है. इस डेटा में अंटार्कटिका की एक ऐसी तस्वीर सामने आई है. इसे देखकर ऐसा लगता है जैसे बर्फ के बीच एक छोटी चिड़िया उड़ रही हो. रात के अंधेरे और बर्फ के अंदर भी देख लेता है निसार सैटेलाइट, नासा-इसरो ने जारी की धरती की चौंकाने।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रात के अंधेरे और बर्फ के अंदर भी देख लेता है निसार सैटेलाइट, नासा-इसरो ने जारी की धरती की चौंकाने",
-          "summary": "भारत और अमेरिका के संयुक्त मिशन निसार ने पहली बार अपना वैज्ञानिक डेटा आम लोगों और रिसर्चर्स के लिए जारी कर दिया है. इस डेटा में अंटार्कटिका की एक ऐसी तस्वीर सामने आई है. इसे देखकर ऐसा लगता है जैसे बर्फ के बीच एक छोटी चिड़िया उड़ रही हो. रात के अंधेरे और बर्फ के अंदर भी देख लेता है निसार सैटेलाइट, नासा-इसरो ने जारी की धरती की चौंकाने।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "RBU-6000 रॉकेट लॉन्चर से लैस है 1100 टन का INS मालवन, चूहे की मौत मारी जाएंगी चीन-पाक की पनडुब्बियां",
-      "url": "https://hindi.news18.com/news/defence/indian-navy-commissions-ins-malvan-equipped-with-rbu-6000-rocket-launcher-1100-ton-submarine-hunter-to-neutralize-china-pakistan-threats-10681820.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-22T17:58:27+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/INS-Malvan-2026-07-879757192a5200e980d7bb79885645c2-1200x800.jpg",
-      "summary": "The Indian Navy inducted the 1100‑ton Mahé‑class anti‑submarine shallow‑water craft INS Malvan into its fleet on 12 April 2026. The vessel, powered by waterjet propulsion and armed with an RBU‑6000 rocket launcher, can detect silent submarines in shallow waters. It enhances the navy's anti‑submarine warfare capability in littoral zones. भारतीय नौसेना ने उथले पानी में दुश्मनों का काल बनने वाले स्वदेशी वॉरशिप 'आईएनएस मालवन' (INS Malvan) को आधिकारिक तौर पर अपने बेड़े में शामिल कर लिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "RBU-6000 रॉकेट लॉन्चर से लैस है 1100 टन का INS मालवन, चूहे की मौत मारी जाएंगी चीन-पाक की पनडुब्बियां",
-          "summary": "The Indian Navy inducted the 1100‑ton Mahé‑class anti‑submarine shallow‑water craft INS Malvan into its fleet on 12 April 2026. The vessel, powered by waterjet propulsion and armed with an RBU‑6000 rocket launcher, can detect silent submarines in shallow waters. It enhances the navy's anti‑submarine warfare capability in littoral zones. भारतीय नौसेना ने उथले पानी में दुश्मनों का काल बनने वाले स्वदेशी वॉरशिप 'आईएनएस मालवन' (INS Malvan) को आधिकारिक तौर पर अपने बेड़े में शामिल कर लिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कैसे 1997 में पेपर लीक प्रदर्शन ने धर्मेंद्र प्रधान को बनाया छात्र नेता, आज उसी तरह के मामले में हो",
-      "url": "https://www.abplive.com/news/india/how-1997-paper-leak-protests-turned-dharmendra-pradhan-into-student-leader-now-demands-his-resignation-on-same-issue-today-3164235",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-22T17:57:34+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/22/765261b7a065745f440b717b9011893017847429892531324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "धर्मेंद्र प्रधान 1997 में ओडिशा में पेपर लीक के विरोध में प्रदर्शन में शामिल थे. बात उस समय की है, जब साल 1997 था. उस समय ओडिशा में कांग्रेस की सरकार थी. तब मुख्यमंत्री हुआ करते थे, जानकी बल्लभ पटनायक. भुवनेश्वर में सीएम आवास पर कुछ ही किलोमीटर दूर कुछ छात्र जिनकी संख्या 1500 थी, जब वह परीक्षा के पेपर लीक के विरोध में राज्य सचिवालय के बाहर जमा हुए थे.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैसे 1997 में पेपर लीक प्रदर्शन ने धर्मेंद्र प्रधान को बनाया छात्र नेता, आज उसी तरह के मामले में हो",
-          "summary": "धर्मेंद्र प्रधान 1997 में ओडिशा में पेपर लीक के विरोध में प्रदर्शन में शामिल थे. बात उस समय की है, जब साल 1997 था. उस समय ओडिशा में कांग्रेस की सरकार थी. तब मुख्यमंत्री हुआ करते थे, जानकी बल्लभ पटनायक. भुवनेश्वर में सीएम आवास पर कुछ ही किलोमीटर दूर कुछ छात्र जिनकी संख्या 1500 थी, जब वह परीक्षा के पेपर लीक के विरोध में राज्य सचिवालय के बाहर जमा हुए थे.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "धर्मेंद्र प्रधान इस्तीफा देंगे या नहीं? केंद्र सरकार के बड़े अधिकारी ने साफ कर दी तस्वीर",
-      "url": "https://www.abplive.com/news/india/will-dharmendra-pradhan-resign-pm-modi-govt-official-says-neet-paper-leak-jantar-mantar-cjp-protest-3164236",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-22T17:53:34+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/22/b4675f59e097b58cea53e12749f59b5d1784742494557708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "केंद्र सरकार के वरिष्ठ अधिकारी ने कहा कि धर्मेंद्र प्रधान के इस्तीफे की गुंजाइश कम है. केंद्रीय शिक्षा मंत्री के पद से धर्मेंद्र प्रधान के इस्तीफे की गुंजाइश कम है, क्योंकि सरकार के शीर्ष नेतृत्व का मानना है कि प्रश्नपत्र लीक की घटनाओं के लिए उन्हें जिम्मेदार नहीं ठहराया जा सकता. केंद्र के एक वरिष्ठ अधिकारी ने बुधवार (22 जुलाई 2026) को इसकी जानकारी दी.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "धर्मेंद्र प्रधान इस्तीफा देंगे या नहीं? केंद्र सरकार के बड़े अधिकारी ने साफ कर दी तस्वीर",
-          "summary": "केंद्र सरकार के वरिष्ठ अधिकारी ने कहा कि धर्मेंद्र प्रधान के इस्तीफे की गुंजाइश कम है. केंद्रीय शिक्षा मंत्री के पद से धर्मेंद्र प्रधान के इस्तीफे की गुंजाइश कम है, क्योंकि सरकार के शीर्ष नेतृत्व का मानना है कि प्रश्नपत्र लीक की घटनाओं के लिए उन्हें जिम्मेदार नहीं ठहराया जा सकता. केंद्र के एक वरिष्ठ अधिकारी ने बुधवार (22 जुलाई 2026) को इसकी जानकारी दी.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "खास मौसम की दावात लूटते ब्राउन बियर, देखिए अलास्का के झरने के पास झूंड का दिलचस्प वीडियो",
-      "url": "https://hindi.news18.com/videos/world/brown-bears-enjoying-a-seasonal-feast-watch-fascinating-video-of-a-group-near-an-alaskan-waterfall-10681928.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-22T17:48:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/1784742563_Nzwjzt5fsY-thumbnail-169png-nFbt4UyGDQ-1200x720.png",
-      "summary": "सोशल मीडिया पर इन दिनों अलास्का का एक वीडियो फिर से वायरल हो रहा है. वीडियो में दर्जनों ब्राउन बियर एक झरने के आसपास खड़े दिखाई देते हैं. हवा में उछलती सैल्मन मछलियों को झपटकर पकड़ने की कोशिश करते हैं. यह नजारा अलास्का के कटमाई नेशनल पार्क के प्रसिद्ध ब्रूक्स फॉल्स का है. यहां हर साल सैल्मन मछलियां अंडे देने के लिए नदी की धारा के विपरीत दिशा में तैरती हुई झरने को पार करने की कोशिश करती हैं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खास मौसम की दावात लूटते ब्राउन बियर, देखिए अलास्का के झरने के पास झूंड का दिलचस्प वीडियो",
-          "summary": "सोशल मीडिया पर इन दिनों अलास्का का एक वीडियो फिर से वायरल हो रहा है. वीडियो में दर्जनों ब्राउन बियर एक झरने के आसपास खड़े दिखाई देते हैं. हवा में उछलती सैल्मन मछलियों को झपटकर पकड़ने की कोशिश करते हैं. यह नजारा अलास्का के कटमाई नेशनल पार्क के प्रसिद्ध ब्रूक्स फॉल्स का है. यहां हर साल सैल्मन मछलियां अंडे देने के लिए नदी की धारा के विपरीत दिशा में तैरती हुई झरने को पार करने की कोशिश करती हैं.",
-          "region": "दुनिया"
         }
       }
     }
