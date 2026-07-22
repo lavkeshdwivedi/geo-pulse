@@ -1,13 +1,29 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 22, 2026 15:24 IST
+**अपडेट:** July 22, 2026 16:17 IST
+
+---
+
+## यूरोप और रूस
+
+### [ताइवान से पहले कहीं जापान न फंस जाए चीन, बदलने वाला है साउछ चाइना सी का माहौल](https://hindi.news18.com/world/china-china-might-get-bogged-down-in-japan-before-taiwan-situation-in-south-china-sea-is-set-to-change-sjn-10680679.html)
+*News18 Hindi (World)* - Jul 22, 16:11 IST (iso: 2026-07-22T10:41:34+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Sanae-Takaichi-Xi-Jinping-Reuters-2026-07-296539546bdb4fd867c00212b180e1f8-1200x800.jpg -->
+
+जापान के ओकिनोतोरी द्वीप के पास एक चीनी युद्धपोत ने रविवार को असली गोलियों से सैन्याभ्यास किया. यह पहला मौका है जब जापान ने अपने विशेष आर्थिक क्षेत्र में चीन द्वारा इस तरह की लाइव-फायर ड्रिल की जानकारी सार्वजनिक की है. जापान और चीन के बीच ताइवान को लेकर बयानबाजी बढ़ी है. जापान के पास समुद्र में चीन और रूस की नौसेना ने मिलकर हलचल तेज कर दी है.
+
+### ['धर्मेंद्र प्रधान इतने अहम क्यों', सोनम वांगचुक की भूख हड़ताल को लेकर अभिजीत दीपके ने PM मोदी से](https://www.abplive.com/news/india/abhijeet-dipke-asked-pm-modi-questions-about-sonam-wangchuk-25th-day-hunger-strike-also-demanded-answers-from-government-regarding-student-protests-3163766)
+*ABP Live (India)* - Jul 22, 11:42 IST (iso: 2026-07-22T06:12:20+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/22/059aeb753d1735470a890640fae8037617846990022551115_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+अभिजीत दीपके ने प्रधानमंत्री नरेंद्र मोदी को लेकर एक पोस्ट किया है और कहा है कि सोनम वांगचुक की भूख हड़ताल को लेकर धर्मेंद्र प्रधान की भूमिका को समझना जरूरी है। कॉकरोच जनता पार्टी (CJP) पेपर लीक के मुद्दे को लेकर लगातार विरोध प्रदर्शन कर रही है. पार्टी का कहना है कि एग्जाम सिस्टम में सुधार और छात्रों को न्याय दिलाने के लिए उनका आंदोलन जारी रहेगा.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
 ### [जिसका डर था, ईरान ने चला वही दांव, होर्मुज से लाल सागर शिफ्ट होगी जंग?](https://hindi.news18.com/world/middle-east-iran-us-news-live-update-attack-on-jordan-kuwait-bahrain-middle-east-conflict-donald-trump-2-livenews-10679120.html)
-*News18 Hindi (World)* - Jul 22, 14:42 IST (iso: 2026-07-22T09:12:46+00:00)
+*News18 Hindi (World)* - Jul 22, 16:00 IST (iso: 2026-07-22T10:30:42+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/DONALD-TRUMP-3-2026-07-f45b06a62dcc73c568a04712f2ba9ed1-1200x800.jpg -->
 
 ईरान ने कुवैत, जॉर्डन और बहरीन पर मिसाइलें बरसाईं हैं। यह हमला अमेरिका-ईरान युद्ध का हिस्सा है, जो 11 दिनों से जारी है। Iran US Attacks Live Update: ईरान-अमेरिका युद्ध के दूसरे दौर में भी 11 दिन बीत चुके हैं लेकिन अब तक दोनों पक्षों में से कोई भी बातचीत के लिए राजी नहीं दिख रहा है. डोनाल्ड ट्रंप ने जहां कसम खाई है कि वो अपने सैनिकों की मौत का बदला लेंगे, वहीं ईरान भी पीछे हटने को तैयार नहीं है.
@@ -30,12 +46,6 @@ Joharah Mamdani Netanyahu Arrested: न्यूयॉर्क मेयर प
 
 सुप्रीम कोर्ट ने शिवसेना यूबीटी के सांसदों के शिवसेना में विलय को मंजूरी देने वाले लोकसभा स्पीकर के आदेश पर फिलहाल रोक से इनकार कर दिया है, और 6 सांसदों को नोटिस जारी किया है। शिवसेना यूबीटी के सांसदों के शिवसेना में विलय को मंजूरी देने वाले लोकसभा स्पीकर के आदेश पर फिलहाल रोक से सुप्रीम कोर्ट ने इनकार कर दिया है.
 
-### [तो अब परमाणु हथियार बना सकता है सऊदी!, अमेरिका से डील को लेकर जानकारों ने चेताया, ट्रंप के फैसले पर](https://www.abplive.com/news/world/us-donald-trump-approve-civil-nuclear-agreement-with-saudi-arabia-enrich-uranium-3163750)
-*ABP Live (World)* - Jul 22, 11:12 IST (iso: 2026-07-22T05:42:53+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/22/e842d884616f6674af2c2437a948ff2817846987359231200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-अमेरिका ने सऊदी अरब के साथ एक सिविल न्यूक्लियर समझौते को मंज़ूरी दी. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सऊदी अरब के साथ एक सिविल न्यूक्लियर समझौते को मंज़ूरी दी है. इस समझौते से सऊदी अरब को अपनी जमीन पर यूरेनियम को एनरिच करने की इजाजत मिल सकती है. अमेरिका के पिछले न्यूक्लियर समझौतों के उलट इस समझौते में वे सुरक्षा उपाय शामिल नहीं हैं, जिन्हें अमेरिका न्यूक्लियर प्रोग्राम का इस्तेमाल हथियार बनाने के लिए किए जाने से रोकने के लिए जरूरी मानता रहा है.
-
 ### [अमेरिका-सऊदी अरब परमाणु समझौते को ट्रंप प्रशासन की मंजूरी, यूरेनियम संवर्धन की राह हुई आसान](https://www.patrika.com/world-news/us-saudi-arabia-nuclear-deal-donald-trump-uranium-enrichment-20767763)
 *Patrika (World)* - Jul 22, 11:00 IST (iso: 2026-07-22T05:30:36+00:00)
 <!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/US-President-Donald-Trump.webp -->
@@ -53,6 +63,18 @@ Joharah Mamdani Netanyahu Arrested: न्यूयॉर्क मेयर प
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/ukraine-us-2026-07-f1d5aa1ca8196e246bf881937a4826ad-1200x800.jpg -->
 
 अमेरिका के गोदाम से हथियार खाली होते जा रहे हैं और उन्हें यूक्रेन से हथियार मांगने की नौबत आ गई है। यह नौबत इसलिए आ गई है क्योंकि अमेरिका को ईरान-अमेरिका युद्ध के बाद हथियारों की जरूरत पड़ रही है। US-Ukraine Deal over Drone Boats: ईरान-अमेरिका युद्ध की वजह से सुपरपावर के गोदाम से हथियार खाली होते जा रहे हैं.
+
+### [पाकिस्तान ने दिखा दी औकात, ईरान जंग में 'दलाली' का मांग रहा इनाम, अमेरिका के 10 अरब डॉलर से भरेगा](https://hindi.news18.com/world/pakistan-pakistan-seeks-10-billion-dollar-us-currency-support-from-donald-trump-after-iran-war-mediation-10678983.html)
+*News18 Hindi (World)* - Jul 22, 09:53 IST (iso: 2026-07-22T04:23:55+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-News-30-2026-07-096fcd2fabf2dfd11093e24deb57c371-1200x800.jpg -->
+
+पाकिस्तान ने ईरान और अमेरिका के बीच मध्यस्थता की भूमिका निभाई है. इसके बाद पाकिस्तान ने अमेरिका से 10 अरब डॉलर की करेंसी सपोर्ट फैसिलिटी मांगी है. यह मदद पाकिस्तान को अपने विदेशी मुद्रा भंडार को मजबूत करने में मदद करेगी. Pakistan News: पाकिस्तान ने ईरान-अमेरिका युद्ध में मध्यस्थता की कीमत मांग ली है. जी हां, पाकिस्तान असल में युद्ध खत्म नहीं करवा रहा था.
+
+### [ट्रंप ने सऊदी के साथ परमाणु समझौते को दी मंजूरी, यूरेनियम संवर्धन की मिल सकती है अनुमति; रिपोर्ट](https://www.amarujala.com/world/donald-trump-saudi-arabia-nuclear-deal-iran-warning-pete-hegseth-us-west-asia-tension-2026-07-22)
+*Amar Ujala World* - Jul 22, 09:37 IST (iso: 2026-07-22T04:07:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/17/donald-trump-us-us-iran-deal_d8ae78c032b905ae0ffb1c3cfe50eb98.jpeg?w=1200&dpr=1.0 -->
+
+डोनाल्ड ट्रंप ने सऊदी अरब के साथ एक परमाणु समझौते को मंजूरी दी है, जिससे यूरेनियम संवर्धन की अनुमति मिल सकती है। इस समझौते के तहत सऊदी अरब परमाणु ऊर्जा के लिए यूरेनियम का उपयोग कर सकता है। ट्रंप ने सऊदी के साथ परमाणु समझौते को दी मंजूरी, यूरेनियम संवर्धन की मिल सकती है अनुमति; रिपोर्ट।
 
 ---
 
@@ -100,23 +122,17 @@ Jantar Mantar Protest: जंतर-मंतर पर छात्रों �
 
 Protests in New York San Jose in support of Wangchuk NEET Exam Controversy Hunger Strike Dharmendra Pradhan- CJP के प्रदर्शन की गूंज विदेश तक: सोनम वांगचुक के समर्थन में सड़क पर उतरे लोग, जानें भारत सरकार से क्या कहा।
 
-### [कॉकरोच जनता पार्टी के प्रदर्शन पर क्या बोला पाकिस्तानी मीडिया, PAK एक्सपर्ट ने लगाई फटकार, जानें](https://www.abplive.com/news/world/pakistan-on-cjp-protest-continuous-coverage-in-pak-media-qurrat-ul-ain-shirazi-questioned-pakistani-media-3163729)
-*ABP Live (World)* - Jul 22, 11:15 IST (iso: 2026-07-22T05:45:57+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/22/57aa8dce51b797b3e5f6dd8b95308c5417846961235881115_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-पाकिस्तानी मीडिया ने कॉकरोच जनता पार्टी के प्रदर्शन को दिखाया. देशभर में चल रहे कॉकरोच जनता पार्टी (CJP) के बड़े प्रदर्शन को पाकिस्तान के न्यूज चैनल लगातार दिखा रहे हैं. वहां के कई टीवी चैनल इस आंदोलन की दिन-रात कवरेज कर रहे हैं. इसी बीच पाकिस्तान की पत्रकार और एक्सपर्ट कुर्रत-उल-ऐन शिराज़ी ने अपने देश के मीडिया पर सवाल उठाया है.
-
 ### [अखिलेश यादव लोकसभा में बोले- बेटियों के कपड़े फाड़ेंगे आप, स्पीकर ने कहा- सरकार NEET पर चर्चा के](https://www.abplive.com/news/india/parliament-monsoon-season-live-updates-pm-modi-sonam-wangchuk-cjp-neet-congress-protest-rahul-gandhi-dharmendra-pradhan-3163756)
 *ABP Live (India)* - Jul 22, 10:56 IST (iso: 2026-07-22T05:26:43+00:00)
 <!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/22/ada43d36ae71a1091448754065ba09871784697984895425_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
 अखिलेश यादव ने लोकसभा में NEET पर चर्चा की मांग की. संसद के मानसून सत्र का तीसरा दिन भी हंगामेदार रहने के आसार हैं. विपक्ष NEET परीक्षा विवाद, दिल्ली में CJP प्रदर्शनकारियों पर पुलिस कार्रवाई, राम मंदिर दान राशि चोरी और अन्य मुद्दों पर तत्काल चर्चा की मांग को लेकर सरकार को घेरने की तैयारी में है. राहुल गांधी के नेतृत्व में प्रधानमंत्री आवास के बाहर हुए अभूतपूर्व विरोध प्रदर्शन के एक दिन बाद संसद का माहौल और अधिक गरमाने की संभावना जताई जा रही है.
 
-### [कितने बजे से होगा राष्ट्रमंडल खेल का उद्घाटन समारोह? जानें भारत का पूरा कार्यक्रम; कहां देखें मैच](https://www.amarujala.com/sports/commonwealth-games-2026-india-s-day-by-day-full-schedule-live-streaming-details-all-you-need-to-know-2026-07-22)
-*Amar Ujala Breaking* - Jul 22, 10:46 IST (iso: 2026-07-22T05:16:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/22/cwg_92590aa343035c61dfa3e621f07fff6c.jpeg?w=1200&dpr=1.0 -->
+### ['बेटे से पीछे हटने के लिए...', CJP के संसद मार्च में लाठीचार्ज के बाद क्या बोले अभिजीत दीपके के](https://www.abplive.com/news/india/abhijeet-deepke-parents-reaction-on-student-protest-police-action-parliament-march-3163699)
+*ABP Live (India)* - Jul 22, 09:21 IST (iso: 2026-07-22T03:51:52+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/22/9a0b0800985fec95e1db620794d37e611784692117971425_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
-राष्ट्रमंडल खेल 2026 का उद्घाटन समारोह 23 जुलाई से होगा. फुटबॉल विश्व कप की गहमागहमी खत्म होते ही भारतीय खेलप्रेमियों की निगाहें अब ग्लास्गो राष्ट्रमंडल खेल 2026 पर टिक गई हैं, जिनकी शुरुआत स्कॉटलैंड में 23 जुलाई से होने जा रही है। भारतीय दल भी इन खेलों में अपना परचम लहराने के लिए पूरी तरह तैयार है। कितने बजे से होगा राष्ट्रमंडल खेल का उद्घाटन समारोह?
+अभिजीत दीपके के माता-पिता ने संसद मार्च के दौरान हुई हिंसा और पुलिस कार्रवाई की आलोचना की. उन्होंने कहा कि बेटे की सुरक्षा को लेकर चिंता जरूर है, लेकिन वे उसे आंदोलन से पीछे हटने के लिए नहीं कहेंगे. दिल्ली पुलिस ने प्रदर्शनकारियों पर हिंसक होने और पुलिसकर्मियों पर हमला करने का आरोप लगाया है. NEET Protest: संसद मार्च के दौरान हुई हिंसा और पुलिस कार्रवाई के बाद सीजेपी (कॉकरोच जनता पार्टी) के संस्थापक अभिजीत दीपके के माता-पिता पहली बार खुलकर सामने आए हैं.
 
 ---
 
@@ -144,12 +160,6 @@ nicolas maduro new york court drug trafficking case us venezuela donald trump- N
 
 बांसुरी स्वराज ने कहा कि केंद्र सरकार संवेदनशीलता के साथ बातचीत करने के लिए तैयार थी, लेकिन प्रदर्शनकारियों ने अपनी मांगों की कोई लिखित सूची नहीं लेकर केंद्रीय मंत्री जेपी नड्डा से मिलने गए थे। बीजेपी सांसद बांसुरी स्वराज ने कॉकरोच जनता पार्टी (CJP) के प्रदर्शन को लेकर बड़ा बयान दिया है. उन्होंने कहा कि केंद्र सरकार संवेदनशीलता के साथ बातचीत करने के लिए पूरी तरह तैयार थी और प्रदर्शनकारियों की बात सुनना चाहती थी.
 
-### [ललित मोदी पर जुर्माना रद्द, SAFEMA न्यायाधिकरण से 16 साल बाद राहत; IPL के पूर्व चेयरमैन क्या बोले?](https://www.amarujala.com/world/lalit-modi-on-penalty-quashed-relief-from-safema-tribunal-after-16-years-former-ipl-chairman-react-2026-07-22)
-*Amar Ujala World* - Jul 22, 12:13 IST (iso: 2026-07-22T06:43:43+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/22/lalit-modi_350e41c414beaf81e13d8967c47136e3.jpeg?w=1200&dpr=1.0 -->
-
-Lalit Modi: ललित मोदी पर जुर्माना रद्द, SAFEMA न्यायाधिकरण से 16 साल बाद राहत; IPL के पूर्व चेयरमैन क्या बोले?
-
 ### [वांगचुक और CJP की 'जमीन' पर कांग्रेसी कब्जा! एक्सपर्ट्स से जानें कैसे राहुल के बाद आंदोलन का हुआ](https://www.abplive.com/news/india/how-cjp-and-sonam-wangchuk-protest-taken-over-by-congress-rahul-gandhi-monsoon-session-2026-dharmendra-pradhan-resign-explained-3163810)
 *ABP Live (India)* - Jul 22, 12:03 IST (iso: 2026-07-22T06:33:01+00:00)
 <!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/22/5802cd31bd9b9c2745ee00b747d1189317847019223011317_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
@@ -161,16 +171,6 @@ Lalit Modi: ललित मोदी पर जुर्माना रद्�
 <!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/12/e1a8ad241d3e7220fbb408e0566c60741778554482615240_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
 तमिलनाडु के मुख्यमंत्री विजय थलापति ने केंद्र सरकार से नीट परीक्षा को पूरी तरह खत्म करने की मांग की है। उन्होंने लोकसभा में नेता प्रतिपक्ष राहुल गांधी को धरने से हिरासत में लिए जाने पर भी प्रतिक्रिया दी है। कॉकरोच जनता पार्टी के प्रदर्शन के बीच तमिलनाडु के मुख्यमंत्री विजय थलापति ने केंद्र सरकार से बड़ी मांग की है. उन्होंने कहा कि नीट परीक्षा को ही पूरी तरह खत्म कर दिया जाए.
-
----
-
-## यूरोप और रूस
-
-### ['धर्मेंद्र प्रधान इतने अहम क्यों', सोनम वांगचुक की भूख हड़ताल को लेकर अभिजीत दीपके ने PM मोदी से](https://www.abplive.com/news/india/abhijeet-dipke-asked-pm-modi-questions-about-sonam-wangchuk-25th-day-hunger-strike-also-demanded-answers-from-government-regarding-student-protests-3163766)
-*ABP Live (India)* - Jul 22, 11:42 IST (iso: 2026-07-22T06:12:20+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/22/059aeb753d1735470a890640fae8037617846990022551115_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-अभिजीत दीपके ने प्रधानमंत्री नरेंद्र मोदी को लेकर एक पोस्ट किया है और कहा है कि सोनम वांगचुक की भूख हड़ताल को लेकर धर्मेंद्र प्रधान की भूमिका को समझना जरूरी है। कॉकरोच जनता पार्टी (CJP) पेपर लीक के मुद्दे को लेकर लगातार विरोध प्रदर्शन कर रही है. पार्टी का कहना है कि एग्जाम सिस्टम में सुधार और छात्रों को न्याय दिलाने के लिए उनका आंदोलन जारी रहेगा.
 
 ---
 
