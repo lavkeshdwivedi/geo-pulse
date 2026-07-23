@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T11:40:52.487581+00:00",
+  "generated_at": "2026-07-23T12:38:19.224916+00:00",
   "article_count": 50,
-  "total_unique_count": 280,
+  "total_unique_count": 279,
   "digest": {
-    "en": "The Ukraine war dominates the headlines with Rubio and Lavrov meeting, but no breakthroughs were announced. Meanwhile, India has slammed Pakistan at the UN over cross-border terrorism, escalating tensions in the region. The US is also weighing sanctions against China's Moonshot for its involvement with Anthropic's Fable.",
-    "hi": "भारत और चीन के बीच तनाव बढ़ता जा रहा है, जिसका असर पड़ोसी देशों पर भी दिख रहा है। भारत ने अपने सैन्य बलों को अलर्ट पर रखा है, जबकि चीन ने अपने सैन्य ठिकानों को मजबूत किया है। भारत की टेंशन बढ़ने के कई कारण हैं, जिनमें से एक है होर्मुज जलडमरूमध्य में बढ़ते तनाव का मुद्दा।"
+    "en": "Europe & Russia leads the board this hour with No Breakthroughs, Little Optimism As Rubio, Lavrov Meet On Ukraine War. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, चीन ने 20 साल में कैसे सुधारा अपना एजुकेशन सिस्टम? कोचिंग माफियाओं का टंटा ही खत्म, गाओकाओ को बनाया मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -145,7 +145,7 @@
       "source": "Asia Times",
       "sources": [],
       "published_at": "2026-07-22T23:48:27+00:00",
-      "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/Moonshot.jpg?fit=1024%2C576&amp;ssl=1",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Moonshot.jpg",
       "summary": "Washington is threatening to impose sanctions on Chinese artificial intelligence (AI) companies for building their models by distilling outputs from American AI systems, saying it has found evidence of large-scale, covert theft of proprietary US technology. US Treasury Secretary Scott Bessent said Washington would investigate whether China’s leading open-weight models had been built by illegally [ US may sanction China’s Moonshot for distilling Anthropic’s Fable.",
       "region": "Asia-Pacific",
       "language": "en",
@@ -308,11 +308,29 @@
       "translations": {}
     },
     {
+      "title": "चीन ने 20 साल में कैसे सुधारा अपना एजुकेशन सिस्टम? कोचिंग माफियाओं का टंटा ही खत्म, गाओकाओ को बनाया",
+      "url": "https://hindi.news18.com/world/china-how-china-revamped-its-education-system-anti-coaching-laws-coaching-mafia-end-gaokao-exam-and-project-211-explained-10683973.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-23T12:34:44+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/China-Education-System-Reform-2026-07-799688222f633835f7d15e98a5e0fdd1-1200x800.jpg",
+      "summary": "China has tightened its education system over the past two decades by banning profit‑making tutoring centers under the 2021 double‑reduction policy. The government also hardened gaokao security, imposing prison terms for fraud and raising education spending to roughly four percent of GDP. दो दशक पहले चीन का शिक्षा तंत्र भी रट्टा मार पढ़ाई, प्राइवेट कोचिंग के दबाव और सामाजिक असमानता की गंभीर समस्याओं से जूझ रहा था.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन ने 20 साल में कैसे सुधारा अपना एजुकेशन सिस्टम? कोचिंग माफियाओं का टंटा ही खत्म, गाओकाओ को बनाया",
+          "summary": "China has tightened its education system over the past two decades by banning profit‑making tutoring centers under the 2021 double‑reduction policy. The government also hardened gaokao security, imposing prison terms for fraud and raising education spending to roughly four percent of GDP. दो दशक पहले चीन का शिक्षा तंत्र भी रट्टा मार पढ़ाई, प्राइवेट कोचिंग के दबाव और सामाजिक असमानता की गंभीर समस्याओं से जूझ रहा था.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "दुनिया को नचाते हैं ये 5 देश! जानिए किसके पास है रेयर अर्थ का सबसे बड़ा खजाना",
       "url": "https://hindi.news18.com/news/knowledge/5-countries-control-critical-resources-china-rare-earth-monopolies-to-chile-lithium-dominance-explained-10683462.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-23T11:35:18+00:00",
+      "published_at": "2026-07-23T11:51:00+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/5-Countries-Control-Critical-Resources-2026-07-f6286ae3e857e182277d2d28754566fb-1200x800.jpg",
       "summary": "China controls about 60 % of global rare earth production, making it the largest supplier of the minerals that power smartphones and electric cars. The Democratic Republic of Congo supplies roughly 70 % of the world’s cobalt, a key component of lithium‑ion batteries. स्मार्टफोन, इलेक्ट्रिक गाड़ियों और ग्रीन एनर्जी से जगमगाते इस मॉडर्न दुनिया का असली नियंत्रण सिर्फ टेक कंपनियों के पास नहीं, बल्कि दुनिया के उन 5 मुल्कों के हाथों में है जिनके पास दुर्लभ प्राकृतिक खजानों का कब्जा है.",
       "region": "Middle East & Africa",
@@ -321,6 +339,24 @@
         "hi": {
           "title": "दुनिया को नचाते हैं ये 5 देश! जानिए किसके पास है रेयर अर्थ का सबसे बड़ा खजाना",
           "summary": "China controls about 60 % of global rare earth production, making it the largest supplier of the minerals that power smartphones and electric cars. The Democratic Republic of Congo supplies roughly 70 % of the world’s cobalt, a key component of lithium‑ion batteries. स्मार्टफोन, इलेक्ट्रिक गाड़ियों और ग्रीन एनर्जी से जगमगाते इस मॉडर्न दुनिया का असली नियंत्रण सिर्फ टेक कंपनियों के पास नहीं, बल्कि दुनिया के उन 5 मुल्कों के हाथों में है जिनके पास दुर्लभ प्राकृतिक खजानों का कब्जा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जैसा ईरान ने होर्मुज में अमेरिका के साथ किया, वैसा ही अब यूक्रेन के साथ कर रहा रूस, भुखमरी तक",
+      "url": "https://www.patrika.com/world-news/russia-ukraine-war-black-sea-food-security-crisis-20772197",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-23T11:27:27+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Russia-Ukraine-War.webp",
+      "summary": "Russia-Ukraine War Update: मिडिल-ईस्ट में एक तरफ अमेरिका और ईरान के बीच जंग छिड़ी हुई है। ईरान ने बाकी के खाड़ी देशों में स्थिति अमेरिकी सैन्य ठिकानों को निशाना बना रहा है। जिसका मुहतोड़ जवाब अमेरिका भी दे रहा है। दूसरी तरफ रूस और यूक्रेन के बीच भी तनाव बढ़ गया है। हाल ही में यूक्रेन ने रूस पर ब्लैक-सी में सिविलियन कार्गो जहाजों को निशाना बनाने का आरोप लगाया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जैसा ईरान ने होर्मुज में अमेरिका के साथ किया, वैसा ही अब यूक्रेन के साथ कर रहा रूस, भुखमरी तक",
+          "summary": "Russia-Ukraine War Update: मिडिल-ईस्ट में एक तरफ अमेरिका और ईरान के बीच जंग छिड़ी हुई है। ईरान ने बाकी के खाड़ी देशों में स्थिति अमेरिकी सैन्य ठिकानों को निशाना बना रहा है। जिसका मुहतोड़ जवाब अमेरिका भी दे रहा है। दूसरी तरफ रूस और यूक्रेन के बीच भी तनाव बढ़ गया है। हाल ही में यूक्रेन ने रूस पर ब्लैक-सी में सिविलियन कार्गो जहाजों को निशाना बनाने का आरोप लगाया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -542,24 +578,6 @@
       }
     },
     {
-      "title": "सोनम रघुवंशी को सुप्रीम कोर्ट से झटका; रद्द हुई जमानत, तीन हफ्ते के भीतर आत्मसमर्पण का आदेश",
-      "url": "https://www.amarujala.com/india-news/sonam-raghuvanshi-bail-cancelled-supreme-court-orders-surrender-2026-07-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-23T07:02:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/23/supreme-court_b514400daf5e63c80a4ea909d39edf7e.jpeg?w=1200&dpr=1.0",
-      "summary": "सोनम रघुवंशी को सुप्रीम कोर्ट से झटका लगा है, उनकी जमानत रद्द हुई है। Supreme Court: सोनम रघुवंशी को सुप्रीम कोर्ट से झटका; रद्द हुई जमानत, तीन हफ्ते के भीतर आत्मसमर्पण का आदेश।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सोनम रघुवंशी को सुप्रीम कोर्ट से झटका; रद्द हुई जमानत, तीन हफ्ते के भीतर आत्मसमर्पण का आदेश",
-          "summary": "सोनम रघुवंशी को सुप्रीम कोर्ट से झटका लगा है, उनकी जमानत रद्द हुई है। Supreme Court: सोनम रघुवंशी को सुप्रीम कोर्ट से झटका; रद्द हुई जमानत, तीन हफ्ते के भीतर आत्मसमर्पण का आदेश।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "स्ट्रेट ऑफ होर्मुज के बाद जलने लगा बाब-अल-मंदेब, क्या भारत में भी बढ़ेंगे तेल के दाम? डिटेल में",
       "url": "https://hindi.news18.com/world/middle-east-houthi-on-bab-el-mandeb-blockade-after-strait-of-hormuz-how-will-it-impact-indian-oil-prices-10682842.html",
       "source": "News18 Hindi (World)",
@@ -682,24 +700,6 @@
           "title": "ईरान पर डंडा, सऊदी पर दुलार! ट्रंप की न्यूक्लियर डील पर अमेरिका में ही बवाल, क्या उठे सवाल?",
           "summary": "अमेरिका ने सऊदी अरब को परमाणु हथियार बनाने की इजाजत देने का फैसला किया है, जिससे वाशिंगटन से लेकर इजरायल तक नई बहस छिड़ गई है। अमेरिकी सांसद और परमाणु विशेषज्ञ पूछ रहे हैं कि सऊदी को परमाणु हथियार बनाने की इजाजत क्यों दी जा रही है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप प्रशासन ने दावा किया है कि सऊदी को परमाणु हथियार बनाने की इजाजत नहीं मिलेगी।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तानी सेना की औलाद हैं आतंकवादी... फिर हुआ साबित, अब्बा पर आई बात तो इस्लाम के रक्षक को भी",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-military-using-lashkar-e-taiba-to-neutralise-maulana-fazlur-rehman-after-asim-munir-criticism-10682241.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-23T03:46:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/munir-maulana-2026-07-b1be65c8076933dd12437570e4f35e1a-1200x800.jpg",
-      "summary": "पाकिस्तान की फौज के पाले हुए आतंकवादियों ने पाकिस्तान के सियासतदान और मौलाना फजलुर रहमान को कठघरे में खड़ा किया, जिसके बाद आतंकवादी उन्हें ही चुप कराने का प्लान बनाने लगे। आसिम मुनीर की आलोचना करते ही लश्कर सक्रिय हो गया था। पाकिस्तान की फौज के पाले हुए आतंकवादियों के बीच के रिश्ते एक बार फिर से उजागर हो गए हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तानी सेना की औलाद हैं आतंकवादी... फिर हुआ साबित, अब्बा पर आई बात तो इस्लाम के रक्षक को भी",
-          "summary": "पाकिस्तान की फौज के पाले हुए आतंकवादियों ने पाकिस्तान के सियासतदान और मौलाना फजलुर रहमान को कठघरे में खड़ा किया, जिसके बाद आतंकवादी उन्हें ही चुप कराने का प्लान बनाने लगे। आसिम मुनीर की आलोचना करते ही लश्कर सक्रिय हो गया था। पाकिस्तान की फौज के पाले हुए आतंकवादियों के बीच के रिश्ते एक बार फिर से उजागर हो गए हैं।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
