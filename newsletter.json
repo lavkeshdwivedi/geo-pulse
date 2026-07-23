@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T19:33:43.961809+00:00",
+  "generated_at": "2026-07-23T20:27:42.549393+00:00",
   "article_count": 50,
-  "total_unique_count": 268,
+  "total_unique_count": 278,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Israel says Saudi recognition would be 'historic' for regional peace. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "ग्लास्गो में कॉमनवेल्थ गेम्स का मंच सजा। यूरोप में मानसूनी बारिश का सिलसिला फिर शुरू होगा। एशिया-पैसिफिक में 17 स्टेशन बंद रहेंगे।"
+    "en": "Israel's Benjamin Netanyahu says Saudi recognition would be a historic step for regional peace, while Saudi Arabia's de facto ruler Mohammed bin Salman remains non-committal. Meanwhile, China's live-fire drills in the Taiwan Strait have heightened tensions with Taiwan.",
+    "hi": "भारत में शिक्षा विभाग के असल मुद्दों की पोल खोलगी 'आदर्श बाल विद्यालय' की टेस्ट में हुई। इस टेस्ट में शिक्षा विभाग के असल मुद्दों को उजागर किया गया है। इस टेस्ट के परिणामों को लेकर देश में चर्चा हो रही है।"
   },
   "articles": [
     {
@@ -64,6 +64,18 @@
       "image_url": "https://gdb.rferl.org/ef453b4c-fd41-4c62-1a80-08decd1d5d42_w1200_h630.jpg",
       "summary": "Ukrainian drone-interceptor crews are working around the clock to stop Russian reconnaissance and attack drones approaching the frontline city of Kramatorsk. RFE/RL spent a night with one team defending the skies as aerial attacks intensify. On The Front Line Of Ukraine's Drone War Over Kramatorsk.",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran urged to stop protest-related executions",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168009",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-23T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-09-2023-SaraHossain-GVA.jpg/image770x420cropped.jpg",
+      "summary": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits. Iran urged to stop protest-related executions.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -296,36 +308,6 @@
       "translations": {}
     },
     {
-      "title": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-22T11:40:08+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/689c706db035ce93a3c736bdee508d40d270310e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3770b23277fa093e2d28310aa568ddd8",
-      "summary": "Foreign minister Penny Wong will deliver speech criticising China’s recent launch of a nuclear-capable submarine-launched missileGet our breaking news email, free app or daily news podcastPenny Wong will warn China that Australia and other neighbouring nations will not be bullied by its “provocative” actions, after its involvement in another “destabilising and dangerous” incident this week. The for Australia to warn China it won’t be bulled by ‘provocative‘ actions as it builds military and.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "ग्लास्गो में सजा कॉमनवेल्थ गेम्स का मंच, रंगारंग ओपनिंग सेरेमनी शुरू",
-      "url": "https://www.amarujala.com/live/sports/commonwealth-games-2026-day-1-live-updates-bowls-and-para-bowls-results-opening-ceremony-glasgow-news-in-hindi-2026-07-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-24T07:08:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/galsaga-kamanavaltha-gamasa-2026_c6fbf66082d47e589c8aaaf4016baa57.jpeg?w=1200&dpr=1.0",
-      "summary": "CWG 2026 Commonwealth Games Day 1 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। ग्लास्गो में सजा कॉमनवेल्थ गेम्स का मंच, रंगारंग ओपनिंग सेरेमनी शुरू।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ग्लास्गो में सजा कॉमनवेल्थ गेम्स का मंच, रंगारंग ओपनिंग सेरेमनी शुरू",
-          "summary": "CWG 2026 Commonwealth Games Day 1 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। ग्लास्गो में सजा कॉमनवेल्थ गेम्स का मंच, रंगारंग ओपनिंग सेरेमनी शुरू।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "दो दिन बाद फिर शुरू होगा मानसूनी बारिश का सिलसिला, 26 जुलाई तक नहीं है भारी बरसात की संभावना",
       "url": "https://www.amarujala.com/lucknow/up-monsoon-rains-to-resume-in-the-state-after-two-days-no-rain-expected-until-july-25-2026-07-23",
       "source": "Amar Ujala Breaking",
@@ -416,6 +398,150 @@
       }
     },
     {
+      "title": "अल-कायदा से जुड़े आरोपी के खिलाफ NIA ने दाखिल की चार्जशीट; सोशल मीडिया के जरिए फैलाता था कट्टरपंथ",
+      "url": "https://www.amarujala.com/india-news/nia-files-charge-sheet-against-al-qaeda-linked-accused-he-used-to-spread-radicalism-via-social-media-2026-07-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-23T20:25:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/11/nia_1af96efbc3ceabe335551bc8e207a489.jpeg?w=1200&dpr=1.0",
+      "summary": "Gujrat: अल-कायदा से जुड़े आरोपी के खिलाफ NIA ने दाखिल की चार्जशीट; सोशल मीडिया के जरिए फैलाता था कट्टरपंथ- NIA files charge sheet against Al-Qaeda-linked accused he used to spread radicalism via social media।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अल-कायदा से जुड़े आरोपी के खिलाफ NIA ने दाखिल की चार्जशीट; सोशल मीडिया के जरिए फैलाता था कट्टरपंथ",
+          "summary": "Gujrat: अल-कायदा से जुड़े आरोपी के खिलाफ NIA ने दाखिल की चार्जशीट; सोशल मीडिया के जरिए फैलाता था कट्टरपंथ- NIA files charge sheet against Al-Qaeda-linked accused he used to spread radicalism via social media।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "वांगचुक ने अनशन तोड़ा, जेपी नड्डा और जितेंद्र सिंह ने अस्पताल में की सोनम से बात",
+      "url": "https://www.amarujala.com/live/delhi/cjp-protest-live-jantar-mantar-demonstration-police-action-delhi-metro-shuts-key-stations-check-details-2026-07-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-23T20:24:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/1_71abb64503ca182cc8ef2ef73f124d48.jpeg?w=1200&dpr=1.0",
+      "summary": "राष्ट्रीय राजधानी दिल्ली में चल रहे विरोध प्रदर्शन ने कानून-व्यवस्था की स्थिति को चुनौती दी है। वांगचुक ने अनशन तोड़ा, जेपी नड्डा और जितेंद्र सिंह ने अस्पताल में की सोनम से बात।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वांगचुक ने अनशन तोड़ा, जेपी नड्डा और जितेंद्र सिंह ने अस्पताल में की सोनम से बात",
+          "summary": "राष्ट्रीय राजधानी दिल्ली में चल रहे विरोध प्रदर्शन ने कानून-व्यवस्था की स्थिति को चुनौती दी है। वांगचुक ने अनशन तोड़ा, जेपी नड्डा और जितेंद्र सिंह ने अस्पताल में की सोनम से बात।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "Sonam Wangchuk Breaks Hunger Strike: सोनम वांगचुक ने तोड़ा अनशन, जेपी नड्डा रहे मौजूद। CJP Protest",
+      "url": "https://www.amarujala.com/video/india-news/sonam-wangchuk-ends-hunger-strike-jp-nadda-present-cjp-protest-2026-07-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-23T20:16:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/sonam-wangchuk-breaks-hunger-strike-sanama-vagacaka-na-taugdha-anashana-jp-nadda-raha-majatha-pm-modi-message_99aeaa448b322af6e95b75aeea32b039.jpeg?w=1200&dpr=1.0",
+      "summary": "नीट परीक्षा में कथित पेपर लीक और छात्रों से जुड़े मुद्दों को लेकर 26 दिनों से जारी पर्यावरण कार्यकर्ता सोनम वांगचुक का अनशन आखिरकार गुरुवार देर रात समाप्त हो गया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Sonam Wangchuk Breaks Hunger Strike: सोनम वांगचुक ने तोड़ा अनशन, जेपी नड्डा रहे मौजूद। CJP Protest",
+          "summary": "नीट परीक्षा में कथित पेपर लीक और छात्रों से जुड़े मुद्दों को लेकर 26 दिनों से जारी पर्यावरण कार्यकर्ता सोनम वांगचुक का अनशन आखिरकार गुरुवार देर रात समाप्त हो गया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'धर्मेंद्र प्रधान को बर्खास्त करें': राहुल का पीएम पर निशाना, बोले- छात्रों की बुद्धिमत्ता का न",
+      "url": "https://www.amarujala.com/india-news/rahul-gandhi-takes-dig-at-pm-modi-video-message-on-paper-leak-new-law-says-dont-insult-students-intelligence-2026-07-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-23T20:03:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/rahul-gandhi_e461d5a0394ccb5ee491a30f385c19e6.jpeg?w=1200&dpr=1.0",
+      "summary": "राहुल गांधी ने प्रधानमंत्री मोदी पर निशाना साधते हुए कहा कि धर्मेंद्र प्रधान को बर्खास्त किया जाना चाहिए। उन्होंने कहा कि छात्रों की बुद्धिमत्ता का अपमान नहीं किया जाना चाहिए। 'धर्मेंद्र प्रधान को बर्खास्त करें': राहुल का पीएम पर निशाना, बोले- छात्रों की बुद्धिमत्ता का न।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'धर्मेंद्र प्रधान को बर्खास्त करें': राहुल का पीएम पर निशाना, बोले- छात्रों की बुद्धिमत्ता का न",
+          "summary": "राहुल गांधी ने प्रधानमंत्री मोदी पर निशाना साधते हुए कहा कि धर्मेंद्र प्रधान को बर्खास्त किया जाना चाहिए। उन्होंने कहा कि छात्रों की बुद्धिमत्ता का अपमान नहीं किया जाना चाहिए। 'धर्मेंद्र प्रधान को बर्खास्त करें': राहुल का पीएम पर निशाना, बोले- छात्रों की बुद्धिमत्ता का न।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रंगारंग ओपनिंग सेरेमनी के साथ कॉमनवेल्थ गेम्स का आगाज, लॉन बॉल्स में भारत की विजयी शुरुआत",
+      "url": "https://www.amarujala.com/sports/cwg-2026-commonwealth-games-events-result-from-glasgow-news-updates-opening-ceremony-in-hindi-2026-07-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-23T19:39:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/galsaga-kamanavaltha-gamasa-2026-ka-le-bharataya-thal_5473cad28f1407a8bb3afd6fda61a24f.jpeg?w=1200&dpr=1.0",
+      "summary": "ग्लास्गो में कॉमनवेल्थ गेम्स 2026 की शुरुआत हुई। मीराबाई चानू ने भारतीय दल की अगुआई की। लवलीना बोरगोहेन बैटन बेयरर रहीं। रंगारंग ओपनिंग सेरेमनी के साथ कॉमनवेल्थ गेम्स का आगाज, लॉन बॉल्स में भारत की विजयी शुरुआत।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रंगारंग ओपनिंग सेरेमनी के साथ कॉमनवेल्थ गेम्स का आगाज, लॉन बॉल्स में भारत की विजयी शुरुआत",
+          "summary": "ग्लास्गो में कॉमनवेल्थ गेम्स 2026 की शुरुआत हुई। मीराबाई चानू ने भारतीय दल की अगुआई की। लवलीना बोरगोहेन बैटन बेयरर रहीं। रंगारंग ओपनिंग सेरेमनी के साथ कॉमनवेल्थ गेम्स का आगाज, लॉन बॉल्स में भारत की विजयी शुरुआत।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ग्लास्गो में गूंजा भारत का नाम, ओपनिंग सेरेमनी में भारतीय दल की भव्य एंट्री",
+      "url": "https://www.amarujala.com/live/sports/commonwealth-games-2026-day-1-live-updates-bowls-and-para-bowls-results-opening-ceremony-glasgow-news-in-hindi-2026-07-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-23T19:38:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/galsaga-kamanavaltha-gamasa-2026_c6fbf66082d47e589c8aaaf4016baa57.jpeg?w=1200&dpr=1.0",
+      "summary": "CWG 2026 Commonwealth Games Day 1 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। ग्लास्गो में सजा कॉमनवेल्थ गेम्स का मंच, रंगारंग ओपनिंग सेरेमनी शुरू। ग्लास्गो में गूंजा भारत का नाम, ओपनिंग सेरेमनी में भारतीय दल की भव्य एंट्री।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ग्लास्गो में गूंजा भारत का नाम, ओपनिंग सेरेमनी में भारतीय दल की भव्य एंट्री",
+          "summary": "CWG 2026 Commonwealth Games Day 1 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। ग्लास्गो में सजा कॉमनवेल्थ गेम्स का मंच, रंगारंग ओपनिंग सेरेमनी शुरू। ग्लास्गो में गूंजा भारत का नाम, ओपनिंग सेरेमनी में भारतीय दल की भव्य एंट्री।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कौन हैं नरेश पाल गंगवार? बनाया गया शिक्षा विभाग का नया सचिव। CJP Protest के बीच बड़ा फैसला!",
+      "url": "https://www.amarujala.com/video/india-news/who-is-naresh-pal-gangwar-appointed-as-the-new-secretary-of-the-education-department-a-major-decision-amidst-2026-07-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-23T19:37:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/kana-ha-naresh-pal-gangwar-bnaya-gaya-shakashha-vabhaga-ka-naya-sacava-cjp-protest-ka-bca-b-fasal_3033287c03077faea777ffc0eef213b5.jpeg?w=1200&dpr=1.0",
+      "summary": "नरेश पाल गंगवार को शिक्षा विभाग का नया सचिव नियुक्त किया गया है। यह नियुक्ति शिक्षा मंत्रालय में हुए प्रशासनिक फेरबदल के बाद की गई है। गंगवार के पास शिक्षा विभाग को सुधारने की महत्वपूर्ण जिम्मेदारी होगी। क्या शिक्षा व्यवस्था में बड़ा बदलाव होने जा रहा है? क्या नीट पेपर लीक विवाद के बीच सरकार ने एक अहम संदेश देने की कोशिश की है?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कौन हैं नरेश पाल गंगवार? बनाया गया शिक्षा विभाग का नया सचिव। CJP Protest के बीच बड़ा फैसला!",
+          "summary": "नरेश पाल गंगवार को शिक्षा विभाग का नया सचिव नियुक्त किया गया है। यह नियुक्ति शिक्षा मंत्रालय में हुए प्रशासनिक फेरबदल के बाद की गई है। गंगवार के पास शिक्षा विभाग को सुधारने की महत्वपूर्ण जिम्मेदारी होगी। क्या शिक्षा व्यवस्था में बड़ा बदलाव होने जा रहा है? क्या नीट पेपर लीक विवाद के बीच सरकार ने एक अहम संदेश देने की कोशिश की है?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "वांगचुक ने खत्म किया अनशन, जेपी नड्डा ने अस्पताल में की मुलाकात; पत्नी गीतांजलि भी रहीं मौजूद",
+      "url": "https://www.amarujala.com/india-news/cjp-protest-wangchuk-ends-hunger-strike-jp-nadda-visits-him-in-hospital-wife-gitanjali-also-present-2026-07-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-23T19:35:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/sanama-vagacaka_19fe0eb56d0c153425e28b18be10f6fb.jpeg?w=1200&dpr=1.0",
+      "summary": "वांगचुक ने अपना अनशन समाप्त कर दिया है। जेपी नड्डा ने उनके अस्पताल में मुलाकात की और पत्नी गीतांजलि भी मौजूद थीं। यह घटना CJP Protest के बीच हुई है। वांगचुक की सेहत की जांच के लिए अस्पताल में भर्ती किया गया था। वांगचुक ने खत्म किया अनशन, जेपी नड्डा ने अस्पताल में की मुलाकात; पत्नी गीतांजलि भी रहीं मौजूद।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वांगचुक ने खत्म किया अनशन, जेपी नड्डा ने अस्पताल में की मुलाकात; पत्नी गीतांजलि भी रहीं मौजूद",
+          "summary": "वांगचुक ने अपना अनशन समाप्त कर दिया है। जेपी नड्डा ने उनके अस्पताल में मुलाकात की और पत्नी गीतांजलि भी मौजूद थीं। यह घटना CJP Protest के बीच हुई है। वांगचुक की सेहत की जांच के लिए अस्पताल में भर्ती किया गया था। वांगचुक ने खत्म किया अनशन, जेपी नड्डा ने अस्पताल में की मुलाकात; पत्नी गीतांजलि भी रहीं मौजूद।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "कारगिल की साज़िश के 4 चेहरे... आखिर कौन था पाकिस्तान का 'Gang of Four'?",
       "url": "https://hindi.news18.com/news/defence/pakistan-gang-of-four-the-men-behind-kargil-ws-l-10659947.html",
       "source": "News18 Hindi (World)",
@@ -430,24 +556,6 @@
           "title": "कारगिल की साज़िश के 4 चेहरे... आखिर कौन था पाकिस्तान का 'Gang of Four'?",
           "summary": "कर्गिल युद्ध की कहानी तो सब जानते हैं, लेकिन उसके पीछे की गुप्त योजना और पाकिस्तान के कथित 'Gang of Four' के बारे में बहुत कम लोग जानते हैं. आखिर कौन थे ये चार पाकिस्तानी जनरल? कर्गिल की योजना कब और कैसे बनी? कारगिल की साज़िश के 4 चेहरे आखिर कौन था पाकिस्तान का 'Gang of Four'?",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप ने फिर दी धमकी, ईरान पर अब तक का सबसे बड़ा हमला करने की बना रहे हैं योजना",
-      "url": "https://www.patrika.com/world-news/donald-trump-considering-massive-attack-on-iran-bigger-than-ever-before-20772913",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-23T18:23:06+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/angry-trump.webp",
-      "summary": "ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव बढ़ता ही जा रहा है। अमेरिका ने लगातार पिछली 12 रात ईरान पर हमले किए हैं, जिसके जवाब में ईरान भी मिडिल ईस्ट में अमेरिका के सहयोगी देशों पर हमले कर रहा है। इसके अलावा दोनों देशों के बीच जुबानी जंग भी जारी है और दोनों पक्षों के लोग जमकर एक-दूसरे के खिलाफ बयान और धमकियाँ दे रहे हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप ने फिर दी धमकी, ईरान पर अब तक का सबसे बड़ा हमला करने की बना रहे हैं योजना",
-          "summary": "ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव बढ़ता ही जा रहा है। अमेरिका ने लगातार पिछली 12 रात ईरान पर हमले किए हैं, जिसके जवाब में ईरान भी मिडिल ईस्ट में अमेरिका के सहयोगी देशों पर हमले कर रहा है। इसके अलावा दोनों देशों के बीच जुबानी जंग भी जारी है और दोनों पक्षों के लोग जमकर एक-दूसरे के खिलाफ बयान और धमकियाँ दे रहे हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -483,24 +591,6 @@
         "hi": {
           "title": "ट्रंप ने सऊदी के सामने लटकाया न्यूक्लियर ‘बिस्किट’, पीछे से करवा लिया ये काम! सातवें आसमान पर",
           "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सऊदी अरब के साथ एक सिविल न्यूक्लियर समझौते को मंजूरी तो दे दी है, लेकिन इसके साथ ही एक बड़ी कूटनीतिक शर्त भी जोड़ दी है. ट्रंप ने इस डील के जरिए इजरायल को फायदा पहुंचाने की प्लानिंग की है. इस शर्त से जहां इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू बेहद खुश नजर आ रहे हैं, वहीं जानकारों का मानना है कि सऊदी अरब के लिए इस शर्त को मानना और मना करना दोनों ही ऑप्शन बहुत म।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप का बड़ा बयान- हूती हमले जारी रहे तो ईरान को भुगतने होंगे गंभीर नतीजे",
-      "url": "https://www.patrika.com/world-news/donald-trump-says-us-will-hold-iran-responsible-for-houthi-attacks-20772779",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-23T15:28:57+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/donald-trump_.webp",
-      "summary": "US-Iran War Update: मिडिल-ईस्ट में बढ़ते तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को सख्त चेतावनी दी है। उन्होंने साफ कहा कि अगर हूती विद्रोही आगे भी समुद्री जहाजों पर हमला करते हैं तो अमेरिका इसके लिए सीधे ईरान को जिम्मेदार मानेगा। ट्रंप का कहना है कि विद्रोही हूती संगठन ईरान के समर्थन से काम करता है। ऐसे में भविष्य के किसी भी हमले का जवाब तेहरान को भुगतना पड़ सकता है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप का बड़ा बयान- हूती हमले जारी रहे तो ईरान को भुगतने होंगे गंभीर नतीजे",
-          "summary": "US-Iran War Update: मिडिल-ईस्ट में बढ़ते तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को सख्त चेतावनी दी है। उन्होंने साफ कहा कि अगर हूती विद्रोही आगे भी समुद्री जहाजों पर हमला करते हैं तो अमेरिका इसके लिए सीधे ईरान को जिम्मेदार मानेगा। ट्रंप का कहना है कि विद्रोही हूती संगठन ईरान के समर्थन से काम करता है। ऐसे में भविष्य के किसी भी हमले का जवाब तेहरान को भुगतना पड़ सकता है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -542,24 +632,6 @@
       }
     },
     {
-      "title": "Pak-i-stan ये कहां है? जब बेनजीर भुट्टो को अमेरिका में झेलनी पड़ी शर्मिंदगी",
-      "url": "https://www.patrika.com/world-news/benazir-bhutto-daughter-of-destiny-book-1971-india-pakistan-war-shimla-agreement-pakistan-history-20772524",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-23T13:42:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Benazir-Bhutto.webp",
-      "summary": "Benazir Bhutto Daughter of Destiny 1971 War: पाकिस्तान भले ही 14 अगस्त, 1947 को अस्तित्व में आया, लेकिन अपने इस अस्तित्व को दुनिया के सामने स्थापित करने में उसे दशकों लग गए। पाकिस्तान की पूर्व प्रधानमंत्री बेनजीर भुट्टो की किताब Daughter of Destiny ऐसे कई ऐतिहासिक किस्सों और घटनाओं का उल्लेख करती है, जो बताती हैं कि धर्म के आधार पर बने पाकिस्तान को लंबे समय तक अंतरराष्ट्रीय स्तर पर पहचान के लिए सं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Pak-i-stan ये कहां है? जब बेनजीर भुट्टो को अमेरिका में झेलनी पड़ी शर्मिंदगी",
-          "summary": "Benazir Bhutto Daughter of Destiny 1971 War: पाकिस्तान भले ही 14 अगस्त, 1947 को अस्तित्व में आया, लेकिन अपने इस अस्तित्व को दुनिया के सामने स्थापित करने में उसे दशकों लग गए। पाकिस्तान की पूर्व प्रधानमंत्री बेनजीर भुट्टो की किताब Daughter of Destiny ऐसे कई ऐतिहासिक किस्सों और घटनाओं का उल्लेख करती है, जो बताती हैं कि धर्म के आधार पर बने पाकिस्तान को लंबे समय तक अंतरराष्ट्रीय स्तर पर पहचान के लिए सं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "जंग रुकते ही दुनियाभर में फैलेंगे ईरान के रक्तबीज, होर्मुज में जहाजों पर कैसे जम रहे हथियार?",
       "url": "https://hindi.news18.com/news/knowledge/iran-marine-species-nursery-will-spread-in-world-hormuz-strait-ships-idle-since-months-iran-us-war-10684143.html",
       "source": "News18 Hindi (World)",
@@ -596,24 +668,6 @@
       }
     },
     {
-      "title": "सरकार ने बताया पाकिस्तान को क्यों नहीं भेजा कोई अलर्ट, सिंधु जल संधि पर भी दिया बड़ा संदेश",
-      "url": "https://www.abplive.com/news/india/india-on-indus-water-treaty-terrorism-not-water-message-to-pakistan-3164551",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-07-23T12:09:13+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/23/c93072c3664abb115e07fb5d8969e0b21784808523060120_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारत सरकार ने पाकिस्तान को बाढ़ चेतावनी नहीं भेजी क्योंकि चिनाब, तवी, सतलुज और रावी नदियों में जलप्रवाह निर्धारित सीमा से कम था। सरकारी सूत्रों ने कहा कि ऐसी स्थिति नहीं बनी थी कि पाकिस्तान को अलर्ट भेजना पड़े। सिंधु जल संधि को लेकर तनाव के बीच यह जानकारी सामने आई है। भारत और पाकिस्तान के बीच सिंधु जल संधि को लेकर जारी तनाव के बीच एक बार फिर बाढ़ संबंधी सूचनाओं को लेकर चर्चा तेज हो गई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सरकार ने बताया पाकिस्तान को क्यों नहीं भेजा कोई अलर्ट, सिंधु जल संधि पर भी दिया बड़ा संदेश",
-          "summary": "भारत सरकार ने पाकिस्तान को बाढ़ चेतावनी नहीं भेजी क्योंकि चिनाब, तवी, सतलुज और रावी नदियों में जलप्रवाह निर्धारित सीमा से कम था। सरकारी सूत्रों ने कहा कि ऐसी स्थिति नहीं बनी थी कि पाकिस्तान को अलर्ट भेजना पड़े। सिंधु जल संधि को लेकर तनाव के बीच यह जानकारी सामने आई है। भारत और पाकिस्तान के बीच सिंधु जल संधि को लेकर जारी तनाव के बीच एक बार फिर बाढ़ संबंधी सूचनाओं को लेकर चर्चा तेज हो गई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "दुनिया को नचाते हैं ये 5 देश! जानिए किसके पास है रेयर अर्थ का सबसे बड़ा खजाना",
       "url": "https://hindi.news18.com/news/knowledge/5-countries-control-critical-resources-china-rare-earth-monopolies-to-chile-lithium-dominance-explained-10683462.html",
       "source": "News18 Hindi (World)",
@@ -628,60 +682,6 @@
           "title": "दुनिया को नचाते हैं ये 5 देश! जानिए किसके पास है रेयर अर्थ का सबसे बड़ा खजाना",
           "summary": "China controls about 60 % of global rare earth production, making it the largest supplier of the minerals that power smartphones and electric cars. The Democratic Republic of Congo supplies roughly 70 % of the world’s cobalt, a key component of lithium‑ion batteries. स्मार्टफोन, इलेक्ट्रिक गाड़ियों और ग्रीन एनर्जी से जगमगाते इस मॉडर्न दुनिया का असली नियंत्रण सिर्फ टेक कंपनियों के पास नहीं, बल्कि दुनिया के उन 5 मुल्कों के हाथों में है जिनके पास दुर्लभ प्राकृतिक खजानों का कब्जा है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जैसा ईरान ने होर्मुज में अमेरिका के साथ किया, वैसा ही अब यूक्रेन के साथ कर रहा रूस, भुखमरी तक",
-      "url": "https://www.patrika.com/world-news/russia-ukraine-war-black-sea-food-security-crisis-20772197",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-23T11:27:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Russia-Ukraine-War.webp",
-      "summary": "Russia-Ukraine War Update: मिडिल-ईस्ट में एक तरफ अमेरिका और ईरान के बीच जंग छिड़ी हुई है। ईरान ने बाकी के खाड़ी देशों में स्थिति अमेरिकी सैन्य ठिकानों को निशाना बना रहा है। जिसका मुहतोड़ जवाब अमेरिका भी दे रहा है। दूसरी तरफ रूस और यूक्रेन के बीच भी तनाव बढ़ गया है। हाल ही में यूक्रेन ने रूस पर ब्लैक-सी में सिविलियन कार्गो जहाजों को निशाना बनाने का आरोप लगाया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जैसा ईरान ने होर्मुज में अमेरिका के साथ किया, वैसा ही अब यूक्रेन के साथ कर रहा रूस, भुखमरी तक",
-          "summary": "Russia-Ukraine War Update: मिडिल-ईस्ट में एक तरफ अमेरिका और ईरान के बीच जंग छिड़ी हुई है। ईरान ने बाकी के खाड़ी देशों में स्थिति अमेरिकी सैन्य ठिकानों को निशाना बना रहा है। जिसका मुहतोड़ जवाब अमेरिका भी दे रहा है। दूसरी तरफ रूस और यूक्रेन के बीच भी तनाव बढ़ गया है। हाल ही में यूक्रेन ने रूस पर ब्लैक-सी में सिविलियन कार्गो जहाजों को निशाना बनाने का आरोप लगाया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सऊदी अरब से दिल्ली पहुंचते ही NIA ने PFI के फरार आरोपी को दबोचा, 3 लाख रुपए का था इनाम",
-      "url": "https://www.abplive.com/news/india/nia-arrests-pfi-absconder-after-arrival-at-igi-airport-from-saudi-in-kerala-sreenivasan-murder-case-3164554",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-23T11:22:23+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/d0b0b5937693a0a8891a529dcd0442e417840509844291126_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "NIA ने प्रतिबंधित संगठन PFI से जुड़े आरोपी मुहम्मदअली को दिल्ली हवाई अड्डे से गिरफ्तार किया। केरल के चर्चित श्रीनिवासन हत्याकांड में राष्ट्रीय जांच एजेंसी (NIA) को बड़ी सफलता मिली है. एजेंसी ने प्रतिबंधित संगठन पॉपुलर फ्रंट ऑफ इंडिया (PFI) से जुड़े एक और फरार आरोपी मुहम्मदअली के. पी. को दिल्ली के इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डे (IGI Airport) से गिरफ्तार किया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी अरब से दिल्ली पहुंचते ही NIA ने PFI के फरार आरोपी को दबोचा, 3 लाख रुपए का था इनाम",
-          "summary": "NIA ने प्रतिबंधित संगठन PFI से जुड़े आरोपी मुहम्मदअली को दिल्ली हवाई अड्डे से गिरफ्तार किया। केरल के चर्चित श्रीनिवासन हत्याकांड में राष्ट्रीय जांच एजेंसी (NIA) को बड़ी सफलता मिली है. एजेंसी ने प्रतिबंधित संगठन पॉपुलर फ्रंट ऑफ इंडिया (PFI) से जुड़े एक और फरार आरोपी मुहम्मदअली के. पी. को दिल्ली के इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डे (IGI Airport) से गिरफ्तार किया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इधर सीजेपी से बातचीत के लिए तैयार हुई सरकार, उधर खरगे ने मोदी सरकार के सामने रखी ये शर्त",
-      "url": "https://www.abplive.com/news/india/mallikarjun-kharge-condition-before-pm-fast-track-court-discuss-on-neet-paper-leak-issue-dharmendra-pradhan-resignation-3164495",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-23T11:07:37+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/23/f92520fb0e91f7f8b60509c3aa5c900d1784803624620708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सरकार ने NEET पेपर लीक पर चर्चा के लिए तैयारी दिखाई, विपक्ष ने शर्तें रखीं। नीट पेपर लीक के मुद्दे पर सड़क से लेकर संसद तक राजनीति गरमाई हुई है. सरकार की तरफ से कहा गया है कि वह NEET के मुद्दे पर चर्चा के लिए तैयार है, लेकिन विपक्ष नई शर्तें थोपकर सदन रुकावट पैदा कर रहा है. इस बीच राज्य सभा में विपक्ष के नेता और कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने केंद्र सरकार के सामने शर्त रख दी है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इधर सीजेपी से बातचीत के लिए तैयार हुई सरकार, उधर खरगे ने मोदी सरकार के सामने रखी ये शर्त",
-          "summary": "सरकार ने NEET पेपर लीक पर चर्चा के लिए तैयारी दिखाई, विपक्ष ने शर्तें रखीं। नीट पेपर लीक के मुद्दे पर सड़क से लेकर संसद तक राजनीति गरमाई हुई है. सरकार की तरफ से कहा गया है कि वह NEET के मुद्दे पर चर्चा के लिए तैयार है, लेकिन विपक्ष नई शर्तें थोपकर सदन रुकावट पैदा कर रहा है. इस बीच राज्य सभा में विपक्ष के नेता और कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने केंद्र सरकार के सामने शर्त रख दी है.",
-          "region": "दुनिया"
         }
       }
     },
@@ -722,24 +722,6 @@
       }
     },
     {
-      "title": "केजरीवाल का सवाल- NEET पेपर लीक केस में CBI ने संजीव मुखिया को दी क्लीन चिट? एजेंसी बोली- नहीं मिला",
-      "url": "https://www.abplive.com/news/india/neet-2024-paper-leak-cbi-finds-no-evidence-against-sanjeev-mukhiya-kejriwal-alleges-cover-up-3164535",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-23T10:44:03+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/23/19d10b761d011547437bca48c80fa1b61784803423536120_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "CBI ने NEET पेपर लीक मामले में संजीव मुखिया को क्लीन चिट देने से इनकार किया। NEET-UG 2024 पेपर लीक मामले में केंद्रीय जांच ब्यूरो (CBI) ने बड़ा बयान जारी करते हुए कहा है कि उसकी जांच में संजीव कुमार उर्फ संजीव मुखिया के खिलाफ कोई ऐसा सबूत नहीं मिला, जिससे यह साबित हो सके कि वह प्रश्नपत्र चोरी या उसे आगे बांटने की साजिश में शामिल था.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केजरीवाल का सवाल- NEET पेपर लीक केस में CBI ने संजीव मुखिया को दी क्लीन चिट? एजेंसी बोली- नहीं मिला",
-          "summary": "CBI ने NEET पेपर लीक मामले में संजीव मुखिया को क्लीन चिट देने से इनकार किया। NEET-UG 2024 पेपर लीक मामले में केंद्रीय जांच ब्यूरो (CBI) ने बड़ा बयान जारी करते हुए कहा है कि उसकी जांच में संजीव कुमार उर्फ संजीव मुखिया के खिलाफ कोई ऐसा सबूत नहीं मिला, जिससे यह साबित हो सके कि वह प्रश्नपत्र चोरी या उसे आगे बांटने की साजिश में शामिल था.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "100 दिन में ही क्यों घिर गए नेपाल के PM बालेन शाह? अब किसान सड़कों पर आए, फेंके टमाटर",
       "url": "https://hindi.news18.com/world/south-asia-nepal-pm-balendra-balen-shah-farmers-protest-tomato-kathmandu-gen-z-hindi-10683265.html",
       "source": "News18 Hindi (World)",
@@ -753,6 +735,24 @@
         "hi": {
           "title": "100 दिन में ही क्यों घिर गए नेपाल के PM बालेन शाह? अब किसान सड़कों पर आए, फेंके टमाटर",
           "summary": "नेपाल के सबसे युवा प्रधानमंत्री बलेन्द्र 'बालेन' शाह सरकार बनने के करीब 100 दिन बाद ही विरोध प्रदर्शनों का सामना कर रहे हैं. काठमांडू में किसानों ने टमाटर सड़क पर फेंककर सरकार पर घरेलू कृषि की अनदेखी का आरोप लगाया. दूसरी ओर एक युवक की आत्मदाह की घटना के बाद युवा भी सड़कों पर उतर आए हैं. 100 दिन में ही क्यों घिर गए नेपाल के PM बालेन शाह?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत को बिजली बेचकर नेपाल ने कूटकर की कमाई, 68% बढ़ा व्यापार, अरबों में खेल रहे देश",
+      "url": "https://hindi.news18.com/world/south-asia-nepal-earns-record-revenue-by-electricity-exports-to-india-bangladesh-ws-l-10683403.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-23T10:03:21+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/electricity-pic-2026-07-5dee49f4f173fbdef4f15361a6259233-1200x800.jpg",
+      "summary": "नेपाल ने भारत से बिजली बेचकर रिकॉर्ड राजस्व कमाया है। भारत-नेपाल के बीच व्यापार में 68% की वृद्धि हुई है। नेपाल ने भारत को बिजली सप्लाई करके अरबों रुपये कमाए हैं। Nepal Earns Record Revenue From India: भारत-नेपाल के बीच रिश्ते भले ही थोड़े नर्म-गर्म बने हुए हों, लेकिन ताजा आंकड़े बताते हैं कि नेपाल ने इसी वक्त रिकॉर्ड कमाई की है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत को बिजली बेचकर नेपाल ने कूटकर की कमाई, 68% बढ़ा व्यापार, अरबों में खेल रहे देश",
+          "summary": "नेपाल ने भारत से बिजली बेचकर रिकॉर्ड राजस्व कमाया है। भारत-नेपाल के बीच व्यापार में 68% की वृद्धि हुई है। नेपाल ने भारत को बिजली सप्लाई करके अरबों रुपये कमाए हैं। Nepal Earns Record Revenue From India: भारत-नेपाल के बीच रिश्ते भले ही थोड़े नर्म-गर्म बने हुए हों, लेकिन ताजा आंकड़े बताते हैं कि नेपाल ने इसी वक्त रिकॉर्ड कमाई की है.",
           "region": "एशिया-प्रशांत"
         }
       }
