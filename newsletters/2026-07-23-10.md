@@ -1,50 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 23, 2026 15:24 IST
-
----
-
-## Europe & Russia
-
-### [Countless Ukrainians Need Prosthetics. Homegrown Start-Ups Are Supplying Them](https://www.rferl.org/a/ukraine-disabled-veterans-prosthetic-limbs/33809139.html)
-*Radio Free Europe / Liberty* - Jul 23, 14:48 IST (iso: 2026-07-23T09:18:10+00:00)
-<!-- image: https://gdb.rferl.org/13e0860a-adee-499c-1a23-08decd1d5d42_w1200_h630.jpg -->
-
-As battlefield injuries mount from a long-running war, Ukrainian companies are racing to meet a high demand for prosthetic limbs. One start-up, Allbionics, is making sophisticated prosthetics that it offers to patients at no cost, with the help of government support and private donations. Countless Ukrainians Need Prosthetics. Homegrown Start-Ups Are Supplying Them.
-
-### [The real reasons behind Zelensky’s unpopular military purge](https://asiatimes.com/2026/07/the-real-reasons-behind-zelenskys-unpopular-military-purge/)
-*Asia Times* - Jul 23, 11:03 IST (iso: 2026-07-23T05:33:03+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Ukraine-Protest-July-2026.jpg -->
-
-Ukrainian President Volodymyr Zelensky recently made the controversial decision to dismiss Mykhailo Fedorov, his minister of defense. Fedorov, admired both by Ukrainian troops and Western allies, was at the forefront of Ukraine’s increasing technological innovations in the war against Russia. According to Fedorov, however, tension began to emerge over his own desire to replace General [] The post The real reasons behind Zelensky’s unpopular military purge.
-
-### [Why Europe needs Pakistan now more than ever](https://asiatimes.com/2026/07/why-europe-needs-pakistan-now-more-than-ever/)
-*Asia Times* - Jul 23, 09:26 IST (iso: 2026-07-23T03:56:25+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/EU-Pakistan.jpg -->
-
-Europe’s strategic environment is changing rapidly. Russia’s war in Ukraine, instability across the Middle East, growing insecurity in the Red Sea and renewed concerns over supply-chain resilience have prompted the European Union (EU) to reassess its external partnerships. At the same time, competition between the EU’s Global Gateway initiative and China’s Belt and Road Initiative [] The post Why Why Europe needs Pakistan now more than ever.
-
-### [US, Ukraine Reach Breakthrough Agreement On Drone Cooperation](https://www.rferl.org/a/us-ukraine-drone-cooperation-agreement/33809808.html)
-*Radio Free Europe / Liberty* - Jul 22, 15:46 IST (iso: 2026-07-22T10:16:33+00:00)
-<!-- image: https://gdb.rferl.org/a1eb71b8-dd5a-4458-96a5-e9432f260d25_w1200_h630.png -->
-
-The US and Ukraine have signed a statement of intent creating the first formal framework for cooperation on military drones, paving the way for Ukrainian combat drones to be exported to the US for testing and potentially future joint production. US, Ukraine Reach Breakthrough Agreement On Drone Cooperation.
-
-### [Ukraine Hits Russian Retailer Wildberries' Warehouses Again Amid Accusations It Supplies Military](https://www.rferl.org/a/ukraine-russia-wildberries-war-strikes-zelenskyy/33809727.html)
-*Radio Free Europe / Liberty* - Jul 22, 14:12 IST (iso: 2026-07-22T08:42:38+00:00)
-<!-- image: https://gdb.rferl.org/1b0c1332-37fc-47cd-1780-08decad58b60_tv_w1200_h630.jpg -->
-
-The Ukrainian military struck warehouses belonging to Russia's largest online retailer, Wildberries, in the third such attack in a week, as Kyiv continues to expand its retaliatory long-range strike campaign in an effort to force Moscow into negotiations. Ukraine Hits Russian Retailer Wildberries' Warehouses Again Amid Accusations It Supplies Military. The Ukrainian military struck warehouses belonging to Russia's largest online retailer, Wildberries, in the third attack targeting such facilities in a week, as Kyiv continues to expand its retaliatory long-range strike campaign in an effort to force Moscow into negotiations.
-
-### [Zelenskyy left with little choice but to sack his army chief - and it's a spectacular fall from](https://news.sky.com/story/why-zelenskyy-has-sacked-ukraines-armed-forces-chief-13565831)
-*Sky News World* - Jul 22, 05:46 IST (iso: 2026-07-22T00:16:00+00:00)
-<!-- image: https://e3.365dm.com/26/07/1920x1080/skynews-zelenskyy-syrskyi-ukraine_7303841.jpg?20260722013008 -->
-
-In a significant move in the middle of a war, Ukraine's president has sacked his military chief and is seeking to woo a former defence minister back into the fold – just days after ousting him too. Why Zelenskyy has sacked Ukraine's armed forces chief. Zelenskyy left with little choice but to sack his army chief - and it's a spectacular fall from.
+**Updated:** July 23, 2026 16:17 IST
 
 ---
 
 ## Asia-Pacific
+
+### [Hasina’s return from India would imperil Bangladesh’s sovereignty](https://asiatimes.com/2026/07/hasinas-return-from-india-would-imperil-bangladeshs-sovereignty/)
+*Asia Times* - Jul 23, 15:28 IST (iso: 2026-07-23T09:58:52+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2025/11/Modi-Hasina-Bangladesh-India.jpg -->
+
+To say Bangladesh’s former Prime Minister Sheikh Hasina left office in disgrace would be an understatement by any political measure. Ousted following the student-led uprising of August 2024, she fled the country after months of deadly protests and years of increasingly authoritarian rule marked by enforced disappearances, arbitrary arrests, the suppression of political opponents and [] The post H Hasina’s return from India would imperil Bangladesh’s sovereignty.
 
 ### [India slams Pakistan at UN over cross-border terrorism; says Kashmir integral, inalienable part](https://www.thehindu.com/news/national/india-slams-pakistan-at-un-over-cross-border-terrorism-says-kashmir-integral-inalienable-part/article71256733.ece)
 *The Hindu (International)* - Jul 23, 14:15 IST (iso: 2026-07-23T08:45:53+00:00)
@@ -87,6 +53,40 @@ Foreign minister Penny Wong will deliver speech criticising China’s recent lau
 <!-- image: https://i.guim.co.uk/img/media/c4591102f999f5401cfd3bc6a322dbcfaecd9c86/46_0_656_525/master/656.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b44b561e77a3c429ccd718819b132075 -->
 
 Prosecutors seek a one-year sentence and heavy fine after chef garnished dish with insects not approved for consumptionProsecutors in South Korea have asked a court to sentence the owner of a Michelin-starred restaurant to one year in prison for serving a dessert topped with ants, an insect not approved for consumption under local food safety law. Michelin-starred restaurant owner in South Korea faces jail over ant dessert.
+
+---
+
+## Europe & Russia
+
+### [Countless Ukrainians Need Prosthetics. Homegrown Start-Ups Are Supplying Them](https://www.rferl.org/a/ukraine-disabled-veterans-prosthetic-limbs/33809139.html)
+*Radio Free Europe / Liberty* - Jul 23, 14:48 IST (iso: 2026-07-23T09:18:10+00:00)
+<!-- image: https://gdb.rferl.org/13e0860a-adee-499c-1a23-08decd1d5d42_w1200_h630.jpg -->
+
+As battlefield injuries mount from a long-running war, Ukrainian companies are racing to meet a high demand for prosthetic limbs. One start-up, Allbionics, is making sophisticated prosthetics that it offers to patients at no cost, with the help of government support and private donations. Countless Ukrainians Need Prosthetics. Homegrown Start-Ups Are Supplying Them.
+
+### [The real reasons behind Zelensky’s unpopular military purge](https://asiatimes.com/2026/07/the-real-reasons-behind-zelenskys-unpopular-military-purge/)
+*Asia Times* - Jul 23, 11:03 IST (iso: 2026-07-23T05:33:03+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Ukraine-Protest-July-2026.jpg -->
+
+Ukrainian President Volodymyr Zelensky recently made the controversial decision to dismiss Mykhailo Fedorov, his minister of defense. Fedorov, admired both by Ukrainian troops and Western allies, was at the forefront of Ukraine’s increasing technological innovations in the war against Russia. According to Fedorov, however, tension began to emerge over his own desire to replace General [] The post The real reasons behind Zelensky’s unpopular military purge.
+
+### [Why Europe needs Pakistan now more than ever](https://asiatimes.com/2026/07/why-europe-needs-pakistan-now-more-than-ever/)
+*Asia Times* - Jul 23, 09:26 IST (iso: 2026-07-23T03:56:25+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/EU-Pakistan.jpg -->
+
+Europe’s strategic environment is changing rapidly. Russia’s war in Ukraine, instability across the Middle East, growing insecurity in the Red Sea and renewed concerns over supply-chain resilience have prompted the European Union (EU) to reassess its external partnerships. At the same time, competition between the EU’s Global Gateway initiative and China’s Belt and Road Initiative [] The post Why Why Europe needs Pakistan now more than ever.
+
+### [US, Ukraine Reach Breakthrough Agreement On Drone Cooperation](https://www.rferl.org/a/us-ukraine-drone-cooperation-agreement/33809808.html)
+*Radio Free Europe / Liberty* - Jul 22, 15:46 IST (iso: 2026-07-22T10:16:33+00:00)
+<!-- image: https://gdb.rferl.org/a1eb71b8-dd5a-4458-96a5-e9432f260d25_w1200_h630.png -->
+
+The US and Ukraine have signed a statement of intent creating the first formal framework for cooperation on military drones, paving the way for Ukrainian combat drones to be exported to the US for testing and potentially future joint production. US, Ukraine Reach Breakthrough Agreement On Drone Cooperation.
+
+### [Ukraine Hits Russian Retailer Wildberries' Warehouses Again Amid Accusations It Supplies Military](https://www.rferl.org/a/ukraine-russia-wildberries-war-strikes-zelenskyy/33809727.html)
+*Radio Free Europe / Liberty* - Jul 22, 14:12 IST (iso: 2026-07-22T08:42:38+00:00)
+<!-- image: https://gdb.rferl.org/1b0c1332-37fc-47cd-1780-08decad58b60_tv_w1200_h630.jpg -->
+
+The Ukrainian military struck warehouses belonging to Russia's largest online retailer, Wildberries, in the third such attack in a week, as Kyiv continues to expand its retaliatory long-range strike campaign in an effort to force Moscow into negotiations. Ukraine Hits Russian Retailer Wildberries' Warehouses Again Amid Accusations It Supplies Military. The Ukrainian military struck warehouses belonging to Russia's largest online retailer, Wildberries, in the third attack targeting such facilities in a week, as Kyiv continues to expand its retaliatory long-range strike campaign in an effort to force Moscow into negotiations.
 
 ---
 

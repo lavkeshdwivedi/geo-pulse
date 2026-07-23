@@ -1,22 +1,68 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 23, 2026 15:24 IST
+**अपडेट:** July 23, 2026 16:17 IST
+
+---
+
+## एशिया-प्रशांत
+
+### [100 दिन में ही क्यों घिर गए नेपाल के PM बालेन शाह? अब किसान सड़कों पर आए, फेंके टमाटर](https://hindi.news18.com/world/south-asia-nepal-pm-balendra-balen-shah-farmers-protest-tomato-kathmandu-gen-z-hindi-10683265.html)
+*News18 Hindi (World)* - Jul 23, 15:51 IST (iso: 2026-07-23T10:21:31+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/tomatoes-2026-07-396d3ff61615fa3306ac20081b1a1dfb-1200x800.jpg -->
+
+नेपाल के सबसे युवा प्रधानमंत्री बलेन्द्र 'बालेन' शाह सरकार बनने के करीब 100 दिन बाद ही विरोध प्रदर्शनों का सामना कर रहे हैं. काठमांडू में किसानों ने टमाटर सड़क पर फेंककर सरकार पर घरेलू कृषि की अनदेखी का आरोप लगाया. दूसरी ओर एक युवक की आत्मदाह की घटना के बाद युवा भी सड़कों पर उतर आए हैं. 100 दिन में ही क्यों घिर गए नेपाल के PM बालेन शाह?
+
+### [भारत को बिजली बेचकर नेपाल ने कूटकर की कमाई, 68% बढ़ा व्यापार, अरबों में खेल रहे देश](https://hindi.news18.com/world/south-asia-nepal-earns-record-revenue-by-electricity-exports-to-india-bangladesh-ws-l-10683403.html)
+*News18 Hindi (World)* - Jul 23, 15:33 IST (iso: 2026-07-23T10:03:21+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/electricity-pic-2026-07-5dee49f4f173fbdef4f15361a6259233-1200x800.jpg -->
+
+Nepal Earns Record Revenue From India: भारत-नेपाल के बीच रिश्ते भले ही थोड़े नर्म-गर्म बने हुए हों, लेकिन ताजा आंकड़े बताते हैं कि नेपाल ने इसी वक्त रिकॉर्ड कमाई की है. ये माल भी नेपाल ने भारत को ही बिजली सप्लाई करके कमाया है. भारत को बिजली बेचकर नेपाल ने कूटकर की कमाई, 68% बढ़ा व्यापार, अरबों में खेल रहे देश।
+
+### [थाईलैंड में सुरक्षा चौकी पर बड़ा हमला, गोलीबारी और पाइप बम हमले में 5 सैनिकों की मौत](https://www.patrika.com/world-news/thailand-narathiwat-security-checkpoint-attack-5-soldiers-killed-20771578)
+*Patrika (World)* - Jul 23, 14:27 IST (iso: 2026-07-23T08:57:36+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/attack-in-southern-Thailand.webp -->
+
+Thailand security checkpoint attack: थाईलैंड के दक्षिणी प्रांत नाराथीवाट में एक सुरक्षा चौकी पर सशस्त्र हमलावरों ने गोलीबारी की और पाइप बम फेंके। इस हमले में पांच सैनिकों की मौत हो गई। रॉयल आर्मी के इंटरनल सिक्योरिटी ऑपरेशंस कमांड की ओर से गुरुवार को यह जानकारी दी गई। आईएसओसी रीजन-4 फॉरवर्ड कमांड के जनसंपर्क केंद्र की ओर से जारी बयान के मुताबिक, सशस्त्र बलों द्वारा यह हमला 22 जुलाई की शाम नाराथीवा।
+
+### [पाकिस्तान में फ्लैश फ्लड से मची तबाही, खैबर पख्तूनख्वा में हुई 18 की मौत](https://hindi.news18.com/world/pakistan-pakistan-flash-flood-killed-18-people-khyber-pakhtunkhwa-ws-l-10683207.html)
+*News18 Hindi (World)* - Jul 23, 13:54 IST (iso: 2026-07-23T08:24:37+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-Flood-2026-07-551785d03bee4004a61d9c3581957173-1200x800.jpg -->
+
+Pakistan Flood: पाकिस्तान में मानसून का सीजन एक बार फिर से आफत लेकर आया है. लगातार हो रही बारिश और फ्लैश फ्लड ने लोगों की जिंदगी पर बुरा असर डाला है. खासतौर पर खैबर पख्तूनख्वा और पंजाब में हालात सबसे ज्यचादा बिगड़े हुए हैं. पाकिस्तान में फ्लैश फ्लड से मची तबाही, खैबर पख्तूनख्वा में हुई 18 की मौत।
+
+### [बेजोड़ इंजीनियरिंग, अपार्टमेंट की छत पर दौड़ा दीं कारें, घर में मिलता है झूले वाला मजा](https://hindi.news18.com/world/china-amazing-engineering-suspended-motorway-in-china-passes-over-a-dozen-apartment-buildings-ws-l-10683111.html)
+*News18 Hindi (World)* - Jul 23, 13:36 IST (iso: 2026-07-23T08:06:39+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/china-bridge-2026-07-fdbbde0e461efdbaa641596399caed9b-1200x800.jpg -->
+
+Amazing Engineering in China: चीन के गुइयांग शहर में 1997 में बने शुइकोउसी ब्रिज के नीचे जमीन की कमी के कारण सस्ते आवास बनाए गए. शुरुआत में करीब 10 इमारतें बनाई गईं, बाद में और भवन भी जोड़े गए. यहां रहने वाले लोगों को वाहनों का शोर, कंपन और धूल का सामना करना पड़ता है, लेकिन कम किराया और शहर के केंद्र के पास होने के कारण वे इसे बेहतर विकल्प मानते हैं.
+
+### [जनरल मुनीर को किससे लग रहा डर? हाफिज सईद के बेटे से क्यों मदद मांगने पहुंच गए शहबाज शरीफ](https://hindi.news18.com/world/pakistan-asim-munir-in-danger-shehbaz-sharif-seek-help-from-hafiz-saeed-son-hafiz-talha-saeed-pakistan-terrorist-10682136.html)
+*News18 Hindi (World)* - Jul 23, 10:24 IST (iso: 2026-07-23T04:54:49+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Maulana-Fazlur-Rehman-2026-07-ab6e238997b554eebff7c001e83a545b-1200x800.jpg -->
+
+पाकिस्तान की सरजमीं से सत्ता, सेना और अंतरराष्ट्रीय आतंकी तंत्र के नापाक गठजोड़ का एक और बेहद सनसनीखेज और खतरनाक चेहरा बेनकाब हुआ है. खुफिया एजेंसियों से छनकर आई खबरों के मुताबिक, पाकिस्तान सरकार समर्थित धर्मगुरु और उलेमा काउंसिल अध्यक्ष हाफिज ताहिर महमूद अशरफी ने मरकज कुबा में संयुक्त राष्ट् घोषित वैश्विक आतंकी हाफिज सईद के बेटे हाफिज तलहा सईद से बंद कमरे में हाई-प्रोफाइल रणनीतिक बैठक की है.
+
+### [पाकिस्तानी सेना की औलाद हैं आतंकवादी... फिर हुआ साबित, अब्बा पर आई बात तो इस्लाम के रक्षक को भी](https://hindi.news18.com/world/pakistan-pakistan-military-using-lashkar-e-taiba-to-neutralise-maulana-fazlur-rehman-after-asim-munir-criticism-10682241.html)
+*News18 Hindi (World)* - Jul 23, 09:16 IST (iso: 2026-07-23T03:46:50+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/munir-maulana-2026-07-b1be65c8076933dd12437570e4f35e1a-1200x800.jpg -->
+
+पाकिस्तान की फौज के पाले हुए आतंकवादियों ने पाकिस्तान के सियासतदान और मौलाना फजलुर रहमान को कठघरे में खड़ा किया, जिसके बाद आतंकवादी उन्हें ही चुप कराने का प्लान बनाने लगे। आसिम मुनीर की आलोचना करते ही लश्कर सक्रिय हो गया था। पाकिस्तान की फौज के पाले हुए आतंकवादियों के बीच के रिश्ते एक बार फिर से उजागर हो गए हैं।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [कतर, पाकिस्तान और मिस्र ने 10 दिन के सीजफायर का रखा प्रस्ताव, युद्ध के बीच इराक के पीएम पहुंचे ईरान](https://hindi.news18.com/world/middle-east-us-strikes-iran-live-news-12th-night-strait-of-hormuz-tanker-fire-irgc-warning-houthi-saudi-oil-tanker-livenews-10682046.html)
+*News18 Hindi (World)* - Jul 23, 15:42 IST (iso: 2026-07-23T10:12:38+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/us-jet-2-2026-07-2b2b7dbeab72a88c2109fa03da7973a9-1200x800.jpg -->
+
+Iran News: मिडिल ईस्ट में तनाव लगातार बढ़ता जा रहा है. अमेरिकी सेना ने ईरान के सैन्य ठिकानों पर लगातार 12वीं रात भी हमले किए. इसी बीच ईरान के रिवोल्यूशनरी गार्ड (IRGC) ने दावा किया कि होर्मुज जलडमरूमध्य में एक ऑयल टैंकर में धमाके के बाद आग लग गई. IRGC ने स्ट्रेट ऑफ होर्मुज को बंद रखने की चेतावनी भी दोहराई.
 
 ### [ईरान युद्ध के बीच रूस-अमेरिका के विदेश मंत्रियों की मुलाकात, फिर उठा यूक्रेन का मुद्दा](https://hindi.news18.com/world/europe-russian-foreign-minister-sergei-lavrov-meets-marco-rubio-talks-on-ukraine-conflict-ws-l-10683274.html)
 *News18 Hindi (World)* - Jul 23, 14:37 IST (iso: 2026-07-23T09:07:14+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/russia-ukraine-2026-07-3e04c981f14fd54a8cef03f39f805e64-1200x800.jpg -->
 
 Russia-US Meet: फिलिपींस की राजधानी मनीला में आसियान और क्वाड के विदेश मंत्रियों का जमावड़ा लगा हुआ है. यहां पर रूस के विदेश मंत्री सर्गेई लावरोव और अमेरिका के विदेश मंत्री मार्को रुबियो के बीच मुलाकात हुई. एक बार फिर से दोनों नेताओं ने यूक्रेन युद्ध के समाधान पर चर्चा की. ईरान युद्ध के बीच रूस-अमेरिका के विदेश मंत्रियों की मुलाकात, फिर उठा यूक्रेन का मुद्दा।
-
-### [कतर, पाकिस्तान और मिस्र ने 10 दिन के सीजफायर का रखा प्रस्ताव, युद्ध के बीच इराक के पीएम पहुंचे ईरान](https://hindi.news18.com/world/middle-east-us-strikes-iran-live-news-12th-night-strait-of-hormuz-tanker-fire-irgc-warning-houthi-saudi-oil-tanker-livenews-10682046.html)
-*News18 Hindi (World)* - Jul 23, 13:56 IST (iso: 2026-07-23T08:26:17+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/us-jet-2-2026-07-2b2b7dbeab72a88c2109fa03da7973a9-1200x800.jpg -->
-
-Iran News: मिडिल ईस्ट में तनाव लगातार बढ़ता जा रहा है. अमेरिकी सेना ने ईरान के सैन्य ठिकानों पर लगातार 12वीं रात भी हमले किए. इसी बीच ईरान के रिवोल्यूशनरी गार्ड (IRGC) ने दावा किया कि होर्मुज जलडमरूमध्य में एक ऑयल टैंकर में धमाके के बाद आग लग गई. IRGC ने स्ट्रेट ऑफ होर्मुज को बंद रखने की चेतावनी भी दोहराई.
 
 ### [ईरान ने अमेरिकी सैन्य ठिकाने पर कर दिया बड़ा अटैक, कुवैत में MQ-9 ड्रोन डिपो, जॉर्डन में THAAD रडार](https://www.patrika.com/world-news/iran-attack-us-military-bases-kuwait-jordan-patriot-thaad-mq9-drone-20771317)
 *Patrika (World)* - Jul 23, 13:42 IST (iso: 2026-07-23T08:12:19+00:00)
@@ -78,45 +124,11 @@ Bab El Mandeb Blockade India Effect: ईरान-अमेरिका यु�
 
 अमेरिका ने सऊदी अरब को परमाणु हथियार बनाने की इजाजत देने का फैसला किया है, जिससे वाशिंगटन से लेकर इजरायल तक नई बहस छिड़ गई है। अमेरिकी सांसद और परमाणु विशेषज्ञ पूछ रहे हैं कि सऊदी को परमाणु हथियार बनाने की इजाजत क्यों दी जा रही है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप प्रशासन ने दावा किया है कि सऊदी को परमाणु हथियार बनाने की इजाजत नहीं मिलेगी।
 
----
+### [सिर्फ 30% अमेरिकी करते है ईरान के खिलाफ युद्ध का समर्थन, उनके अनुसार यह मंहगा सौदा](https://www.patrika.com/world-news/us-iran-war-only-30-percent-americans-support-war-against-iran-they-feel-this-is-just-too-expensive-20770412)
+*Patrika (World)* - Jul 23, 09:14 IST (iso: 2026-07-23T03:44:48+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-1.webp -->
 
-## एशिया-प्रशांत
-
-### [थाईलैंड में सुरक्षा चौकी पर बड़ा हमला, गोलीबारी और पाइप बम हमले में 5 सैनिकों की मौत](https://www.patrika.com/world-news/thailand-narathiwat-security-checkpoint-attack-5-soldiers-killed-20771578)
-*Patrika (World)* - Jul 23, 14:27 IST (iso: 2026-07-23T08:57:36+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/attack-in-southern-Thailand.webp -->
-
-Thailand security checkpoint attack: थाईलैंड के दक्षिणी प्रांत नाराथीवाट में एक सुरक्षा चौकी पर सशस्त्र हमलावरों ने गोलीबारी की और पाइप बम फेंके। इस हमले में पांच सैनिकों की मौत हो गई। रॉयल आर्मी के इंटरनल सिक्योरिटी ऑपरेशंस कमांड की ओर से गुरुवार को यह जानकारी दी गई। आईएसओसी रीजन-4 फॉरवर्ड कमांड के जनसंपर्क केंद्र की ओर से जारी बयान के मुताबिक, सशस्त्र बलों द्वारा यह हमला 22 जुलाई की शाम नाराथीवा।
-
-### [पाकिस्तान में फ्लैश फ्लड से मची तबाही, खैबर पख्तूनख्वा में हुई 18 की मौत](https://hindi.news18.com/world/pakistan-pakistan-flash-flood-killed-18-people-khyber-pakhtunkhwa-ws-l-10683207.html)
-*News18 Hindi (World)* - Jul 23, 13:54 IST (iso: 2026-07-23T08:24:37+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-Flood-2026-07-551785d03bee4004a61d9c3581957173-1200x800.jpg -->
-
-Pakistan Flood: पाकिस्तान में मानसून का सीजन एक बार फिर से आफत लेकर आया है. लगातार हो रही बारिश और फ्लैश फ्लड ने लोगों की जिंदगी पर बुरा असर डाला है. खासतौर पर खैबर पख्तूनख्वा और पंजाब में हालात सबसे ज्यचादा बिगड़े हुए हैं. पाकिस्तान में फ्लैश फ्लड से मची तबाही, खैबर पख्तूनख्वा में हुई 18 की मौत।
-
-### [बेजोड़ इंजीनियरिंग, अपार्टमेंट की छत पर दौड़ा दीं कारें, घर में मिलता है झूले वाला मजा](https://hindi.news18.com/world/china-amazing-engineering-suspended-motorway-in-china-passes-over-a-dozen-apartment-buildings-ws-l-10683111.html)
-*News18 Hindi (World)* - Jul 23, 13:36 IST (iso: 2026-07-23T08:06:39+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/china-bridge-2026-07-fdbbde0e461efdbaa641596399caed9b-1200x800.jpg -->
-
-Amazing Engineering in China: चीन के गुइयांग शहर में 1997 में बने शुइकोउसी ब्रिज के नीचे जमीन की कमी के कारण सस्ते आवास बनाए गए. शुरुआत में करीब 10 इमारतें बनाई गईं, बाद में और भवन भी जोड़े गए. यहां रहने वाले लोगों को वाहनों का शोर, कंपन और धूल का सामना करना पड़ता है, लेकिन कम किराया और शहर के केंद्र के पास होने के कारण वे इसे बेहतर विकल्प मानते हैं.
-
-### [जनरल मुनीर को किससे लग रहा डर? हाफिज सईद के बेटे से क्यों मदद मांगने पहुंच गए शहबाज शरीफ](https://hindi.news18.com/world/pakistan-asim-munir-in-danger-shehbaz-sharif-seek-help-from-hafiz-saeed-son-hafiz-talha-saeed-pakistan-terrorist-10682136.html)
-*News18 Hindi (World)* - Jul 23, 10:24 IST (iso: 2026-07-23T04:54:49+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Maulana-Fazlur-Rehman-2026-07-ab6e238997b554eebff7c001e83a545b-1200x800.jpg -->
-
-पाकिस्तान की सरजमीं से सत्ता, सेना और अंतरराष्ट्रीय आतंकी तंत्र के नापाक गठजोड़ का एक और बेहद सनसनीखेज और खतरनाक चेहरा बेनकाब हुआ है. खुफिया एजेंसियों से छनकर आई खबरों के मुताबिक, पाकिस्तान सरकार समर्थित धर्मगुरु और उलेमा काउंसिल अध्यक्ष हाफिज ताहिर महमूद अशरफी ने मरकज कुबा में संयुक्त राष्ट् घोषित वैश्विक आतंकी हाफिज सईद के बेटे हाफिज तलहा सईद से बंद कमरे में हाई-प्रोफाइल रणनीतिक बैठक की है.
-
-### [भीड़ ने सुरक्षाबलों पर किया था पथराव, कनॉट प्लेस के पेट्रोल पंप के कैमरे में कैद 20 जुलाई की घटना](https://www.amarujala.com/delhi/cjp-protest-crowd-pelts-security-forces-with-stones-incident-from-july-20-captured-on-camera-connaught-place-2026-07-23)
-*Amar Ujala Breaking* - Jul 23, 10:22 IST (iso: 2026-07-23T04:52:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/23/cjp-protest_6abc7a08ed8d338973f02cb05aa841ac.gif?w=1200&dpr=1.0 -->
-
-दिल्ली में 20 जुलाई को जंतर-मंतर से संसद मार्च के दौरान हुई हिंसक झड़प के बाद कनॉट प्लेस के एक पेट्रोल पंप के कैमरे में एक वीडियो सामने आया है। इसमें भीड़ सुरक्षाबलों पर पत्थरबाजी करती हुई दिखाई दे रही है। दिल्ली में 20 जुलाई को जंतर-मंतर से संसद मार्च के दौरान हुई हिंसक झड़प के बाद अब एक नया वीडियो सामने आया है।
-
-### [पाकिस्तानी सेना की औलाद हैं आतंकवादी... फिर हुआ साबित, अब्बा पर आई बात तो इस्लाम के रक्षक को भी](https://hindi.news18.com/world/pakistan-pakistan-military-using-lashkar-e-taiba-to-neutralise-maulana-fazlur-rehman-after-asim-munir-criticism-10682241.html)
-*News18 Hindi (World)* - Jul 23, 09:16 IST (iso: 2026-07-23T03:46:50+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/munir-maulana-2026-07-b1be65c8076933dd12437570e4f35e1a-1200x800.jpg -->
-
-पाकिस्तान की फौज के पाले हुए आतंकवादियों ने पाकिस्तान के सियासतदान और मौलाना फजलुर रहमान को कठघरे में खड़ा किया, जिसके बाद आतंकवादी उन्हें ही चुप कराने का प्लान बनाने लगे। आसिम मुनीर की आलोचना करते ही लश्कर सक्रिय हो गया था। पाकिस्तान की फौज के पाले हुए आतंकवादियों के बीच के रिश्ते एक बार फिर से उजागर हो गए हैं।
+Iran War: ईरान के खिलाफ जारी अमेरिकी सैन्य अभियान को लेकर अब अमेरिका के भीतर ही विरोध बढ़ता दिखाई दे रहा है। अलग-अलग जनमत सर्वे बताते हैं कि 30 प्रतिशत से भी कम अमेरिकी इस युद्ध का समर्थन कर रहे हैं और समय के साथ यह समर्थन लगातार घट रहा है। आम लोगों का मानना है कि यह युद्ध अमेरिका के लिए आर्थिक रूप से बहुत महंगा साबित हो रहा है और इसका बोझ सीधे जनता पर पड़ रहा है।
 
 ---
 
@@ -138,7 +150,7 @@ Amazing Engineering in China: चीन के गुइयांग शहर �
 
 ## दुनिया
 
-### [जश्न मनाने का पूरा मौका देती है थलापति की ‘जन नायकन’, हिंदी भाषी दर्शकों को खलेगी यह कमी](https://www.amarujala.com/entertainment/movie-review/jana-nayagan-movie-review-and-rating-in-hindi-thalapathy-vijay-tvk-pooja-hegde-bobby-deol-and-mamitha-baiju-2026-07-23)
+### [थलापति ने जैसे-तैसे संभाली ‘जन नायकन’, बॉबी ने किया निराश; एक वक्त के बाद होने लगी थकान](https://www.amarujala.com/entertainment/movie-review/jana-nayagan-movie-review-and-rating-in-hindi-thalapathy-vijay-tvk-pooja-hegde-bobby-deol-and-mamitha-baiju-2026-07-23)
 *Amar Ujala Breaking* - Jul 23, 12:59 IST (iso: 2026-07-23T07:29:26+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/23/jana-nayakana-mava-ravaya_26cc22567eafce046dffe88c7e43c388.jpeg?w=1200&dpr=1.0 -->
 
@@ -149,18 +161,6 @@ Amazing Engineering in China: चीन के गुइयांग शहर �
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/23/supreme-court_b514400daf5e63c80a4ea909d39edf7e.jpeg?w=1200&dpr=1.0 -->
 
 सोनम रघुवंशी को सुप्रीम कोर्ट से झटका लगा है, उनकी जमानत रद्द हुई है। Supreme Court: सोनम रघुवंशी को सुप्रीम कोर्ट से झटका; रद्द हुई जमानत, तीन हफ्ते के भीतर आत्मसमर्पण का आदेश।
-
-### [असम में बाढ़ से 41 की मौत, महाराष्ट्र में जल भराव, कई राज्यों में रेड अलर्ट जारी](https://www.amarujala.com/india-news/torrential-rains-wreak-havoc-across-the-country-41-dead-in-assam-floods-red-alerts-issued-in-several-states-2026-07-23)
-*Amar Ujala Breaking* - Jul 23, 11:40 IST (iso: 2026-07-23T06:10:07+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/23/brasha-ka-kahara_6e8624a55ba201c00fc50c33a4777fbf.gif?w=1200&dpr=1.0 -->
-
-असम में बाढ़ से 41 लोगों की मौत हुई है। महाराष्ट्र में जल भराव की स्थिति है। कई राज्यों में रेड अलर्ट जारी है। असम में बाढ़ से 41 की मौत, महाराष्ट्र में जल भराव, कई राज्यों में रेड अलर्ट जारी।
-
-### ['लीक से 150 करोड़ तक का नुकसान या 'जीरो इम्पैक्ट'? थलापति विजय की 'जन नायकन' पर बंटी इंडस्ट्री](https://www.amarujala.com/entertainment/will-online-leak-of-vijay-movie-jana-nayagan-impact-its-box-office-performance-in-know-what-the-experts-saying-2026-07-23)
-*Amar Ujala Breaking* - Jul 23, 11:10 IST (iso: 2026-07-23T05:40:35+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/23/jana-nayakana_9c348c1cc747a1c0100d6c6ad8f8cd05.jpeg?w=1200&dpr=1.0 -->
-
-Jana Nayagan: तमिल सुपरस्टार थलापति विजय की आखिरी फिल्म 'जन नायकन' रिलीज से पहले ही एचडी क्वालिटी में ऑनलाइन लीक हो गई। ऐसे मामलों में सबसे बड़ा सवाल यही उठता है कि क्या पायरेसी सच में बॉक्स ऑफिस की कमाई पर असर डालती है? 'लीक से 150 करोड़ तक का नुकसान या 'जीरो इम्पैक्ट'? थलापति विजय की 'जन नायकन' पर बंटी इंडस्ट्री।
 
 ### [ड्रग्स तस्करी मामले में हरमनवीर सिंह गिरफ्तार, रविंदर ढांडा गैंग पर FBI ने कसा शिकंजा](https://www.amarujala.com/world/operation-hard-ball-harmanveer-singh-arrested-in-drug-smuggling-case-fbi-tightens-ravinder-dhanda-gang-2026-07-23)
 *Amar Ujala World* - Jul 23, 10:21 IST (iso: 2026-07-23T04:51:51+00:00)
