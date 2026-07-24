@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 24, 2026 14:26 IST
+**Updated:** July 24, 2026 15:21 IST
 
 ---
 
@@ -32,7 +32,7 @@ As battlefield injuries mount from a long-running war, Ukrainian companies are r
 
 ### [The real reasons behind Zelensky’s unpopular military purge](https://asiatimes.com/2026/07/the-real-reasons-behind-zelenskys-unpopular-military-purge/)
 *Asia Times* - Jul 23, 11:03 IST (iso: 2026-07-23T05:33:03+00:00)
-<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/Ukraine-Protest-July-2026.jpg?fit=1024%2C682&amp;ssl=1 -->
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Ukraine-Protest-July-2026.jpg -->
 
 Ukrainian President Volodymyr Zelensky recently made the controversial decision to dismiss Mykhailo Fedorov, his minister of defense. Fedorov, admired both by Ukrainian troops and Western allies, was at the forefront of Ukraine’s increasing technological innovations in the war against Russia. According to Fedorov, however, tension began to emerge over his own desire to replace General [] The post The real reasons behind Zelensky’s unpopular military purge.
 
@@ -82,12 +82,6 @@ As the Iran-US war continues, the key question remains unanswered about how ship
 
 Nonproliferation experts are raising alarms after Reuters reported that President Donald Trump’s administration plans to ask Congress to approve a deal that could allow Saudi Arabia to develop nuclear weapons. According to Reuters, an agreement crafted by the Trump administration would allow the US to share nuclear power technology with the Saudis without proper safeguards that “would stop materia Nonproliferationists demand Congress reject Trump-Saudi nuke deal.
 
-### [House approves GOP-supported US-Israel military integration](https://asiatimes.com/2026/07/house-approves-gop-supported-us-israel-military-integration/)
-*Asia Times* - Jul 23, 05:39 IST (iso: 2026-07-23T00:09:14+00:00)
-<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/us-and-israeli-soldiers-wave-their-countries-flags-during-a-desert-training-exercise-copy-e1784755110703.jpg?fit=1024%2C576&amp;ssl=1 -->
-
-The Republican-controlled US House of Representatives voted Wednesday in favor of a record $1.15 trillion military spending authorization bill containing a highly controversial provision to increase cooperation between the US and Israeli armed forces. House lawmakers voted 219-206, almost entirely along party lines, to pass HR 8800, the National Defense Authorization Act (NDAA) for fiscal year 202 House approves GOP-supported US-Israel military integration.
-
 ### [Iran Executes Man Charged Over January Protests As Death Row Inmates Stage Hunger Strike](https://www.rferl.org/a/iran-execution-prisoners-protest/33810073.html)
 *Radio Free Europe / Liberty* - Jul 23, 01:41 IST (iso: 2026-07-22T20:11:35+00:00)
 <!-- image: https://gdb.rferl.org/33368513-f361-4ed4-179c-08decad58b60_w1200_h630.jpg -->
@@ -105,6 +99,12 @@ Iran executed a man it accused of carrying out "operational actions" during nati
 <!-- image: https://gdb.rferl.org/397A30C9-8F66-40ED-80C7-E56C99107F98.jpg -->
 
 US Secretary of State Marco Rubio ‌said on July 22 that a naval blockade of the Red Sea by Yemen’s Houthi rebels would be “problematic,” as the widening conflict with Iran disrupted two of the world’s most important energy chokepoints. Rubio Says Iran-Backed Houthis' Red Sea Blockade 'Problematic'.
+
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Jul 04, 00:37 IST (iso: 2026-07-03T19:07:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.
 
 ---
 
