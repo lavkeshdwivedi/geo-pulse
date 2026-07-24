@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-07-24T15:33:26.556696+00:00",
+  "generated_at": "2026-07-24T16:36:27.487111+00:00",
   "article_count": 50,
-  "total_unique_count": 281,
+  "total_unique_count": 283,
   "digest": {
-    "en": "Iran and Ukraine dominate the news. Iran's relations with Iraq and Pakistan are under scrutiny. Ukraine's drone war continues over Kramatorsk.",
-    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जो एशिया-पैसिफिक और मध्य पूर्व एवं अफ्रीका क्षेत्रों में घटनाओं पर केंद्रित हैं। बांग्लादेश में राजनीतिक परिवर्तन और चीन के साथ भारत के तनावपूर्ण संबंध प्रमुख हैं। बांग्लादेश के राष्ट्रपति शहाबुद्दीन ने इस्तीफा दे दिया है।"
+    "en": "UN experts urge UAE to free a British businessman. Israeli military kills four Palestinians in the West Bank. Iran-Iraq-Pakistan form an axis of sympathy.",
+    "hi": "भारत और चीन के बीच तनाव बढ़ रहा है। भारत ने चीन पर जम्मू-कश्मीर और लद्दाख के भारतीय इलाकों पर अवैध कब्जे का आरोप लगाया है। बांग्लादेश में राजनीतिक संकट गहरा रहा है।"
   },
   "articles": [
+    {
+      "title": "UN experts urge UAE to free British businessman",
+      "url": "https://www.channelnewsasia.com/world/un-uae-british-man-cornelius-prison-sentence-6276866",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-07-24T16:23:59+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--N6JZvKxt--/c_crop,h_899,w_1598,x_1,y_7/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/28/000_93rz43k.jpg?itok=hhaiPAwM",
+      "summary": "Ryan Cornelius, 72, was jailed in 2008 over a financing dispute and completed his 10-year sentence in 2018, but remains in prison after his term was extended by 20 years over an alleged unpaid debt. UN experts urge UAE to free British businessman.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Israeli military kills four Palestinians after settler killed in West Bank",
+      "url": "https://www.thehindu.com/news/international/israeli-military-kills-four-palestinians-after-settler-killed-in-west-bank/article71263472.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-24T15:52:10+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/1efkk4/article71263488.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_46492.jpg",
+      "summary": "Two other Israelis and four more Palestinians were wounded, health officials said, and the Israeli military announced it was preparing for an “extensive” counterterror operation in the West Bank, with troops surrounding the town of Nablus Israeli military kills four Palestinians after settler killed in West Bank.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "ICICI Bank prices $1 billion debt at tighter spread",
+      "url": "https://www.thehindu.com/news/international/icici-bank-prices-1-billion-debt-at-tighter-spread/article71263393.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-24T15:41:44+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/wr3w1/article71263410.ece/alternates/LANDSCAPE_1200/2026-07-18T101633Z_1905004370_RC2YI0APFNQE_RTRMADP_3_ICICI-BANK-RESULTS.JPG",
+      "summary": "The bank set the ​coupon at 100 basis points over U. S. Treasuries, sharply ⁠lower the initial guidance of 130 basis points, for its first dollar debt sale in nearly nine years. The coupon works out to be ‌5.46%. ICICI Bank prices $1 billion debt at tighter spread.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-24T15:28:37+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/131bcac7d75675b6976a87471c6f8d7e9c0298d2/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aeff344432578054226343805d43daa8",
+      "summary": "Guyanese authorities confirm 72 deaths after a state ferry capsized off the coast, leaving 179 people aboard. Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodiesThe confirmed death toll from the recent capsizing of a state ferry off Guyana’s coast has risen to 72, with more bodies recovered as a multinational team struggle to salvage the partially submerged vessel. Of the estimated 179 people aboard, 76 people were rescued.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia",
       "url": "https://asiatimes.com/2026/07/iran-iraq-pakistan-axis-of-sympathy-signals-a-reshaping-southwest-asia/",
@@ -15,18 +63,6 @@
       "published_at": "2026-07-24T13:05:47+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Iran-Funeral.jpg",
       "summary": "Earlier this month, the Supreme Leader of Iran, Ayatollah Ali Khamenei, was buried in his hometown of Mashhad after a four-day ceremony. Many international delegations were present, but each country will have chosen their representatives with the utmost care. Sending high-ranking officials would go beyond mere diplomatic courtesy, and possibly signal an alliance. Only two [] The post Iran-Iraq-Pa Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Nightclub manager jailed for fatally stabbing married lover after relationship soured",
-      "url": "https://www.channelnewsasia.com/singapore/nightclub-mistress-stab-man-city-gate-6275816",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-07-24T13:05:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--HG4RGwwP--/c_crop,h_449,w_799,x_1,y_37/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-04-26t042121z_1_lynxmpej3p04a_rtroptp_3_singapore-dailylife.jpg?itok=Cm-x8ZmA",
-      "summary": "The 40-year-old woman, who lived with the man and her two children from previous marriages, was unhappy with him for not paying his share of the rent and causing her to lose her job multiple times. Nightclub manager jailed for fatally stabbing married lover after relationship soured.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -75,18 +111,6 @@
       "published_at": "2026-07-24T09:50:56+00:00",
       "image_url": "https://gdb.rferl.org/eedf6f06-7c05-4501-1a9b-08decd1d5d42_w1200_h630.jpg",
       "summary": "Ukraine struck targets in several parts of Russia early on July 24, including another warehouse of Russian e-commerce retailer Wildberries, as Kyiv continues to expand its retaliatory long-range strike campaign in an effort to force Moscow into negotiations. Wildberries, 'Russia's Amazon,' Hit Again In New Wave Of Ukrainian Strikes.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russia warns U.S. against Ukraine arms sales in Manila meeting",
-      "url": "https://www.thehindu.com/news/international/russia-warns-us-against-ukraine-arms-sales-in-manila-meeting/article71259513.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-24T07:04:44+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/h0the7/article71259837.ece/alternates/LANDSCAPE_1200/2026-07-22T034107Z_1228060140_RC2QIMAP1K65_RTRMADP_3_ASEAN-PHILIPPINES.JPG",
-      "summary": "Mr. Lavrov and Rubio's meeting on the sidelines of a Southeast Asian summit, their first since September 2025, came as Washington's focus has switched from mediating in Ukraine to dealing with war in the West Asia Russia warns U. S. against Ukraine arms sales in Manila meeting. Russia warns U. S.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -236,18 +260,6 @@
       "translations": {}
     },
     {
-      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-22T16:35:02+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/92ffbd90e5660e09c01f460683a4bb9290475948/458_0_4585_3668/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f5338ed85c82aa32c3a7c421dd36ca3",
-      "summary": "The ribbon-cutting celebration of the Gordie Howe International Bridge is no longer taking place after Trump announced a 50% tariff on Canadian goodsA planned joint US-Canada ceremony Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected to take place after Donald Trump announced a 50% tariff on most Canadian goods.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Iran Continues Executions Amid Protest By Death Row Inmates",
       "url": "https://www.rferl.org/a/iran-executions-protest-death-row-inmates/33810002.html",
       "source": "Radio Free Europe / Liberty",
@@ -296,16 +308,22 @@
       "translations": {}
     },
     {
-      "title": "Michelin-starred restaurant owner in South Korea faces jail over ant dessert",
-      "url": "https://www.theguardian.com/world/2026/jul/22/restaurant-owner-south-korea-dried-ants-dessert",
-      "source": "The Guardian",
+      "title": "भारत पर 200% टैरिफ लगाकर उल्टा फंस जाएंगे ट्रंप, तड़प उठेगा अमेरिका!",
+      "url": "https://hindi.news18.com/news/business/latest-trump-200-percent-pharma-tariff-on-india-could-backfire-on-the-us-generic-medicine-shock-to-america-10687278.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-22T09:26:09+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/c4591102f999f5401cfd3bc6a322dbcfaecd9c86/46_0_656_525/master/656.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b44b561e77a3c429ccd718819b132075",
-      "summary": "Prosecutors seek a one-year sentence and heavy fine after chef garnished dish with insects not approved for consumptionProsecutors in South Korea have asked a court to sentence the owner of a Michelin-starred restaurant to one year in prison for serving a dessert topped with ants, an insect not approved for consumption under local food safety law. Michelin-starred restaurant owner in South Korea faces jail over ant dessert.",
+      "published_at": "2026-07-24T16:12:17+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/donald-trump-claims-regime-change-in-iran-praises-mojtaba-khamenei-after-us-iran-deal-2026-06-41daf5e0e085cdad226ce013e038f6ce-1200x800.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर ऐलान किया है कि अमेरिका आने वाली जेनेरिक दवाओं पर 2 साल बाद पहले 100% और फिर 200% का भारी-भरकम टैरिफ लगाया जाएगा. ट्रंप का ये निशाना सीधे तौर पर भारत पर है, क्योंकि अमेरिका अपनी जरूरत की आधी दवाएं भारत से ही खरीदता है.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत पर 200% टैरिफ लगाकर उल्टा फंस जाएंगे ट्रंप, तड़प उठेगा अमेरिका!",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर ऐलान किया है कि अमेरिका आने वाली जेनेरिक दवाओं पर 2 साल बाद पहले 100% और फिर 200% का भारी-भरकम टैरिफ लगाया जाएगा. ट्रंप का ये निशाना सीधे तौर पर भारत पर है, क्योंकि अमेरिका अपनी जरूरत की आधी दवाएं भारत से ही खरीदता है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "लॉन्च होते ही रॉकेट से टकराई बिजली, फिर जो हुआ, देखकर फटी रह गई वैज्ञानिकों की आखें",
@@ -314,13 +332,13 @@
       "sources": [],
       "published_at": "2026-07-24T15:29:06+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/China-Rocket-Lightning-Strike-2026-07-739f17fc7d8120f990654c80ba1604ef-1200x800.jpg",
-      "summary": "चीन के शिचांग सेंटर से उड़ान भरते ही 'लॉन्ग मार्च-3बी' रॉकेट पर आसमान से कड़कड़ाती बिजली आ गिरी, जिससे एक पल के लिए लगा कि बड़ा हादसा हो जाएगा. इस चीनी रॉकेट ने बिना डगमगाए उड़ते रहकर सबको हैरान कर दिया और अपने 'तियानलियान-2-06' डेटा रिले सैटेलाइट को एकदम सही ऑर्बिट में पहुंचा दिया.",
+      "summary": "चीन के शिचांग सेंटर से उड़ान भरते ही 'लॉन्ग मार्च-3बी' रॉकेट पर आसमान से कड़कड़ाती बिजली आ गिरी, जिससे एक पल के लिए लगा कि बड़ा हादसा हो जाएगा. इस चीनी रॉकेट ने बिना डगमगाए उड़ते रहकर सबको हैरान कर दिया और अपने 'तियानलियान-2-06' डेटा रिले सैटेलाइट को एकदम सही ऑर्बिट में पहुंचा दिया. आसमान से गिरने वाली लाखों वोल्ट की बिजली से अक्सर रॉकेट के कंप्यूटर और नेविगेशन जल जाते हैं, पर चीन के इस रॉकेट पर क।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "लॉन्च होते ही रॉकेट से टकराई बिजली, फिर जो हुआ, देखकर फटी रह गई वैज्ञानिकों की आखें",
-          "summary": "चीन के शिचांग सेंटर से उड़ान भरते ही 'लॉन्ग मार्च-3बी' रॉकेट पर आसमान से कड़कड़ाती बिजली आ गिरी, जिससे एक पल के लिए लगा कि बड़ा हादसा हो जाएगा. इस चीनी रॉकेट ने बिना डगमगाए उड़ते रहकर सबको हैरान कर दिया और अपने 'तियानलियान-2-06' डेटा रिले सैटेलाइट को एकदम सही ऑर्बिट में पहुंचा दिया.",
+          "summary": "चीन के शिचांग सेंटर से उड़ान भरते ही 'लॉन्ग मार्च-3बी' रॉकेट पर आसमान से कड़कड़ाती बिजली आ गिरी, जिससे एक पल के लिए लगा कि बड़ा हादसा हो जाएगा. इस चीनी रॉकेट ने बिना डगमगाए उड़ते रहकर सबको हैरान कर दिया और अपने 'तियानलियान-2-06' डेटा रिले सैटेलाइट को एकदम सही ऑर्बिट में पहुंचा दिया. आसमान से गिरने वाली लाखों वोल्ट की बिजली से अक्सर रॉकेट के कंप्यूटर और नेविगेशन जल जाते हैं, पर चीन के इस रॉकेट पर क।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -614,6 +632,42 @@
       }
     },
     {
+      "title": "आतंक की आग में क्यों जला रहा पाकिस्तान: खैबर पख्तूनख्वा में पुलिस चौकी पर बड़ा हमला, 15",
+      "url": "https://www.amarujala.com/world/why-pakistan-still-burning-in-the-fire-of-terror-15-security-personnel-killed-in-khyber-pakhtunkhwa-attack-2026-07-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-24T04:34:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/03/bihar-news-qasim-ansari-resigned-from-jdu-party-waqf-bill-amendment-nitish-kumar_1ea2bbaa88489f46d1949dd98271ec6f.jpeg?w=1200&dpr=1.0",
+      "summary": "सुरक्षाकर्मियों की मौत आतंक की आग में क्यों जला रहा पाकिस्तान: खैबर पख्तूनख्वा में पुलिस चौकी पर बड़ा हमला, 15।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आतंक की आग में क्यों जला रहा पाकिस्तान: खैबर पख्तूनख्वा में पुलिस चौकी पर बड़ा हमला, 15",
+          "summary": "सुरक्षाकर्मियों की मौत आतंक की आग में क्यों जला रहा पाकिस्तान: खैबर पख्तूनख्वा में पुलिस चौकी पर बड़ा हमला, 15।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बारिश में ये चीजें खाईं तो पहुंच जाएंगे अस्पताल, डॉक्टरों की ये सलाह सबके लिए जरूरी",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/food-poisoning-risk-factors-know-what-food-to-avoid-in-rainy-season-2026-07-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-24T04:32:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/28/food-poisoning_8a3d5efba779c0ffb7adf9ca8826d7d4.jpeg?w=1200&dpr=1.0",
+      "summary": "बारिश के मौसम में दूषित भोजन या पानी पीने से फूड पॉइजनिंग हो सकती है। इसमें उल्टी, दस्त, पेट दर्द जैसे लक्षण दिख सकते हैं। डॉक्टरों की सलाह है कि इस मौसम में सावधानी बरतनी चाहिए। फूड पॉइजनिंग ऐसी स्थिति है जिसमें दूषित भोजन या पानी के जरिए बैक्टीरिया, वायरस, परजीवी या उनके विषैले पदार्थ शरीर में पहुंच जाते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बारिश में ये चीजें खाईं तो पहुंच जाएंगे अस्पताल, डॉक्टरों की ये सलाह सबके लिए जरूरी",
+          "summary": "बारिश के मौसम में दूषित भोजन या पानी पीने से फूड पॉइजनिंग हो सकती है। इसमें उल्टी, दस्त, पेट दर्द जैसे लक्षण दिख सकते हैं। डॉक्टरों की सलाह है कि इस मौसम में सावधानी बरतनी चाहिए। फूड पॉइजनिंग ऐसी स्थिति है जिसमें दूषित भोजन या पानी के जरिए बैक्टीरिया, वायरस, परजीवी या उनके विषैले पदार्थ शरीर में पहुंच जाते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "डोनाल्ड ट्रंप के ऐलान से भड़का ईरान: ‘जब्त संपत्ति छुई तो दुनिया झेलेगी तबाही’, दी भयावह अराजकता की",
       "url": "https://www.patrika.com/world-news/iran-frozen-assets-abbas-araghchi-warning-trump-compensation-20773343",
       "source": "Patrika (World)",
@@ -632,127 +686,73 @@
       }
     },
     {
-      "title": "डॉलर के लिए तड़प रहा पाकिस्तान, चीन को आ गया तरस, दे दी संजीवनी की बूटी",
-      "url": "https://hindi.news18.com/world/china-pakistan-rice-export-to-china-300-million-dollar-deal-foreign-exchange-crisis-cpec-rice-for-dollars-10685145.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-24T04:09:18+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-shahbz-sharif-2026-07-fdb2d2f8a542eb05ae272d9897b8668b-1200x800.jpg",
-      "summary": "पाकिस्तान ने चीन को 60 हजार टन चावल निर्यात करने का सौदा किया है, जिससे 300 से 400 मिलियन डॉलर के ऑर्डर मिल सकते हैं। Pakistan China Trade Relations: पाकिस्तान इस साल चीन के ग्वांगझोउ और शेनझेन प्रांतों में 60 हजार टन चावल निर्यात करेगा. इस सौदे से 300 से 400 मिलियन डॉलर तक के ऑर्डर मिलने की उम्मीद है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डॉलर के लिए तड़प रहा पाकिस्तान, चीन को आ गया तरस, दे दी संजीवनी की बूटी",
-          "summary": "पाकिस्तान ने चीन को 60 हजार टन चावल निर्यात करने का सौदा किया है, जिससे 300 से 400 मिलियन डॉलर के ऑर्डर मिल सकते हैं। Pakistan China Trade Relations: पाकिस्तान इस साल चीन के ग्वांगझोउ और शेनझेन प्रांतों में 60 हजार टन चावल निर्यात करेगा. इस सौदे से 300 से 400 मिलियन डॉलर तक के ऑर्डर मिलने की उम्मीद है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "न्यूयॉर्क में दो लोगों पर चाकू से हमला: एक एशियाई शामिल, पुलिस और ममदानी ने क्यों जताई हेट क्राइम",
-      "url": "https://www.amarujala.com/world/men-stabbed-in-manhattan-suspect-arrested-as-nypd-probes-possible-hate-crime-2026-07-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-24T03:20:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/police_c3bf4ced49e6789f2053f497b5fb785c.jpeg?w=1200&dpr=1.0",
-      "summary": "न्यूयॉर्क में दो लोगों पर चाकू से हमला हुआ है, जिसमें एक एशियाई शामिल है, पुलिस ने हेट क्राइम की आशंका जताई है। न्यूयॉर्क में दो लोगों पर चाकू से हमला: एक एशियाई शामिल, पुलिस और ममदानी ने क्यों जताई हेट क्राइम की आशंका?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "न्यूयॉर्क में दो लोगों पर चाकू से हमला: एक एशियाई शामिल, पुलिस और ममदानी ने क्यों जताई हेट क्राइम",
-          "summary": "न्यूयॉर्क में दो लोगों पर चाकू से हमला हुआ है, जिसमें एक एशियाई शामिल है, पुलिस ने हेट क्राइम की आशंका जताई है। न्यूयॉर्क में दो लोगों पर चाकू से हमला: एक एशियाई शामिल, पुलिस और ममदानी ने क्यों जताई हेट क्राइम की आशंका?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "भारत ने बढ़ाया हाथ, बांग्‍लादेशी PM तारिक रहमान को BRICS समिट में शामिल होने का भेजा न्‍योता, अब",
-      "url": "https://hindi.news18.com/news/nation/india-invite-bangladesh-pm-tarique-rahman-for-brics-summit-new-delhi-neighbourhood-first-policy-10685046.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-24T03:19:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Tarique-Rahman-2-2026-07-314c06841124e7eafd600b29ff840ba2-1200x800.jpg",
-      "summary": "भारत ने बांग्लादेशी प्रधानमंत्री तारिक रहमान को ब्रिक्स समिट में शामिल होने का न्योता भेजा है, दोनों देशों के रिश्तों में सुधार की कोशिश है। India-Bangladesh Relation: शेख हसीना सरकार के तख्‍ता पलट के बाद भारत और बांग्‍लादेश के रिश्‍ते ठीक नहीं चल रहे हैं. तारिक रहमान ने जबसे प्रधानमंत्री का पद संभाला है, उनकी तरफ से ऐसी कोई पहल नहीं की गई जिससे भारत-बांग्‍लादेश के रिश्‍तों में आई तल्‍खी कम हो सके.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत ने बढ़ाया हाथ, बांग्‍लादेशी PM तारिक रहमान को BRICS समिट में शामिल होने का भेजा न्‍योता, अब",
-          "summary": "भारत ने बांग्लादेशी प्रधानमंत्री तारिक रहमान को ब्रिक्स समिट में शामिल होने का न्योता भेजा है, दोनों देशों के रिश्तों में सुधार की कोशिश है। India-Bangladesh Relation: शेख हसीना सरकार के तख्‍ता पलट के बाद भारत और बांग्‍लादेश के रिश्‍ते ठीक नहीं चल रहे हैं. तारिक रहमान ने जबसे प्रधानमंत्री का पद संभाला है, उनकी तरफ से ऐसी कोई पहल नहीं की गई जिससे भारत-बांग्‍लादेश के रिश्‍तों में आई तल्‍खी कम हो सके.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रेलवे असिस्टेंट लोको पायलट सीबीटी-2 का एडमिट कार्ड जारी, केंद्र पर ये दस्तावेज लेकर जाएं",
-      "url": "https://www.amarujala.com/jobs/government-jobs/rrb-alp-cbt-2-admit-card-2026-released-download-hall-ticket-for-july-28-exam-at-regional-rrbs-2026-07-24",
+      "title": "Jana Nayagan Box Office Collection Day 2: दो दिनों 50 करोड़ पार हुई 'जन नायकन', जानें शनिवार की कमाई",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/south-cinema/jana-nayagan-box-office-collection-day-2-know-total-earning-on-saturday-2026-07-24",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-24T03:14:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/14/admit-card_5a1d0616c14b6af043931fc1bef6bf93.jpeg?w=1200&dpr=1.0",
-      "summary": "RRB ALP CBT 2 Admit Card 2026: रेलवे भर्ती बोर्ड (RRB) ने एएलपी सीबीटी-2 परीक्षा का एडमिट कार्ड जारी कर दिया है। सीबीटी-1 में सफल उम्मीदवार आधिकारिक वेबसाइट से हॉल टिकट डाउनलोड कर सकते हैं। परीक्षा 28 जुलाई 2026 को होगी। रेलवे असिस्टेंट लोको पायलट सीबीटी-2 का एडमिट कार्ड जारी, केंद्र पर ये दस्तावेज लेकर जाएं।",
+      "published_at": "2026-07-24T04:25:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/jana-nayakana_20543dbb845fa79ebd92d92d95b964e8.jpeg?w=1200&dpr=1.0",
+      "summary": "तमिलनाडु के मुख्यमंत्री और अभिनेता विजय की फिल्म 'जन नायकन' ने दो दिनों में 50 करोड़ की कमाई की। शुक्रवार को रिलीज होने के बाद शनिवार को भी फिल्म ने अच्छी कमाई की। फिल्म की शनिवार की कमाई के आंकड़े अभी तक पूरी तरह से जारी नहीं हुए हैं। तमिलनाडु के मुख्यमंत्री और अभिनेता की विजय की फिल्म 'जन नायकन' आखिरकार शुक्रवार को सिनेमाघरों में रिलीज हो गई।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रेलवे असिस्टेंट लोको पायलट सीबीटी-2 का एडमिट कार्ड जारी, केंद्र पर ये दस्तावेज लेकर जाएं",
-          "summary": "RRB ALP CBT 2 Admit Card 2026: रेलवे भर्ती बोर्ड (RRB) ने एएलपी सीबीटी-2 परीक्षा का एडमिट कार्ड जारी कर दिया है। सीबीटी-1 में सफल उम्मीदवार आधिकारिक वेबसाइट से हॉल टिकट डाउनलोड कर सकते हैं। परीक्षा 28 जुलाई 2026 को होगी। रेलवे असिस्टेंट लोको पायलट सीबीटी-2 का एडमिट कार्ड जारी, केंद्र पर ये दस्तावेज लेकर जाएं।",
+          "title": "Jana Nayagan Box Office Collection Day 2: दो दिनों 50 करोड़ पार हुई 'जन नायकन', जानें शनिवार की कमाई",
+          "summary": "तमिलनाडु के मुख्यमंत्री और अभिनेता विजय की फिल्म 'जन नायकन' ने दो दिनों में 50 करोड़ की कमाई की। शुक्रवार को रिलीज होने के बाद शनिवार को भी फिल्म ने अच्छी कमाई की। फिल्म की शनिवार की कमाई के आंकड़े अभी तक पूरी तरह से जारी नहीं हुए हैं। तमिलनाडु के मुख्यमंत्री और अभिनेता की विजय की फिल्म 'जन नायकन' आखिरकार शुक्रवार को सिनेमाघरों में रिलीज हो गई।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "नेशनल टेस्टिंग एजेंसी के 47 अफसर बर्खास्त, कुछ पर होगी कानूनी कार्रवाई",
-      "url": "https://www.amarujala.com/video-shots/short-videos/47-national-testing-agency-officials-dismissed-legal-action-to-be-taken-against-some-2026-07-24",
+      "title": "बाढ़ से बेहाल गुजरात का वलसाड: डिप्टी CM हर्ष संघवी ने संभाला मोर्चा, पुनर्वास के लिए सरकार का क्या",
+      "url": "https://www.amarujala.com/india-news/valsad-flood-relief-harsh-sanghavi-restoration-plan-after-record-rain-2026-07-24",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-24T03:14:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=1200&dpr=1.0",
-      "summary": "पेपरलीक के खिलाफ चल रहे आंदोलन के बीच सरकार राष्ट्रीय परीक्षा एजेंसी (एनटीए) में बड़ा बदलाव करने वाली है। नेशनल टेस्टिंग एजेंसी के 47 अफसर बर्खास्त, कुछ पर होगी कानूनी कार्रवाई।",
+      "published_at": "2026-07-24T04:25:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/harashha-saghava-dapata-saema-gajarata_e456342b1703921d89bfdd5dc21a3408.jpeg?w=1200&dpr=1.0",
+      "summary": "गुजरात के वलसाड में बाढ़ के बाद डिप्टी सीएम हर्ष संघवी ने मोर्चा संभाला। उन्होंने पुनर्वास के लिए सरकार की योजना की जानकारी दी। वलसाड में रिकॉर्ड बारिश के बाद बाढ़ ने व्यापक नुकसान किया है। बाढ़ से बेहाल गुजरात का वलसाड: डिप्टी CM हर्ष संघवी ने संभाला मोर्चा, पुनर्वास के लिए सरकार का क्या प्लान?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "नेशनल टेस्टिंग एजेंसी के 47 अफसर बर्खास्त, कुछ पर होगी कानूनी कार्रवाई",
-          "summary": "पेपरलीक के खिलाफ चल रहे आंदोलन के बीच सरकार राष्ट्रीय परीक्षा एजेंसी (एनटीए) में बड़ा बदलाव करने वाली है। नेशनल टेस्टिंग एजेंसी के 47 अफसर बर्खास्त, कुछ पर होगी कानूनी कार्रवाई।",
+          "title": "बाढ़ से बेहाल गुजरात का वलसाड: डिप्टी CM हर्ष संघवी ने संभाला मोर्चा, पुनर्वास के लिए सरकार का क्या",
+          "summary": "गुजरात के वलसाड में बाढ़ के बाद डिप्टी सीएम हर्ष संघवी ने मोर्चा संभाला। उन्होंने पुनर्वास के लिए सरकार की योजना की जानकारी दी। वलसाड में रिकॉर्ड बारिश के बाद बाढ़ ने व्यापक नुकसान किया है। बाढ़ से बेहाल गुजरात का वलसाड: डिप्टी CM हर्ष संघवी ने संभाला मोर्चा, पुनर्वास के लिए सरकार का क्या प्लान?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "महिला पैरा पावरलिफ्टिंग में जसप्रीत कौर पदक से चूकीं, पुरुषों में अशोक चौथे स्थान पर रहे",
-      "url": "https://www.amarujala.com/live/sports/commonwealth-games-2026-day-2-live-basketball-boxing-swimming-track-cycling-athletics-results-news-in-hindi-2026-07-24",
-      "source": "Amar Ujala Breaking",
+      "title": "प्रधानमंत्री मोदी के वीडियो संदेश का कमाल, इंस्टाग्राम पर रातोंरात जुड़े एक मिलियन फॉलोअर्स",
+      "url": "https://www.amarujala.com/india-news/pm-modi-s-video-message-sparks-surge-instagram-gains-one-million-followers-overnight-2026-07-24",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-24T03:13:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/cwg_a4948e9a5713ca5742f48e89c04eac9e.jpeg?w=1200&dpr=1.0",
-      "summary": "Glasgow Commonwealth Games Day 2 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। राष्ट्रमंडल खेलों का आज दूसरा दिन है। पैरा पावरलिफ्टिंग में पदक लाने से चूके अशोक, महिलाओं में जसप्रीत कौर का शानदार प्रदर्शन। महिला पैरा पावरलिफ्टिंग में जसप्रीत कौर पदक से चूकीं, पुरुषों में अशोक चौथे स्थान पर रहे।",
+      "published_at": "2026-07-24T04:17:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/20/paema-matha_750d26bd9478c7d23d2d488bb90a2fec.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री मोदी के वीडियो संदेश के बाद इंस्टाग्राम पर एक मिलियन फॉलोअर्स जुड़े। Pm Modi: प्रधानमंत्री मोदी के वीडियो संदेश का कमाल, इंस्टाग्राम पर रातोंरात जुड़े एक मिलियन फॉलोअर्स।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "महिला पैरा पावरलिफ्टिंग में जसप्रीत कौर पदक से चूकीं, पुरुषों में अशोक चौथे स्थान पर रहे",
-          "summary": "Glasgow Commonwealth Games Day 2 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। राष्ट्रमंडल खेलों का आज दूसरा दिन है। पैरा पावरलिफ्टिंग में पदक लाने से चूके अशोक, महिलाओं में जसप्रीत कौर का शानदार प्रदर्शन। महिला पैरा पावरलिफ्टिंग में जसप्रीत कौर पदक से चूकीं, पुरुषों में अशोक चौथे स्थान पर रहे।",
+          "title": "प्रधानमंत्री मोदी के वीडियो संदेश का कमाल, इंस्टाग्राम पर रातोंरात जुड़े एक मिलियन फॉलोअर्स",
+          "summary": "प्रधानमंत्री मोदी के वीडियो संदेश के बाद इंस्टाग्राम पर एक मिलियन फॉलोअर्स जुड़े। Pm Modi: प्रधानमंत्री मोदी के वीडियो संदेश का कमाल, इंस्टाग्राम पर रातोंरात जुड़े एक मिलियन फॉलोअर्स।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "केंद्रीय मंत्री रवनीत सिंह बिट्टू ने दिया इस्तीफा: राष्ट्रपति ने किया मंजूर, पंजाब में मिलेगी बड़ी",
-      "url": "https://www.amarujala.com/india-news/president-droupadi-murmu-accepts-ravneet-singh-resignation-union-cabinet-2026-07-24",
+      "title": "एम्स सीआरई-5 परीक्षा कल, अभ्यर्थी अच्छे से समझ लें गाइडलाइंस, केंद्र पर लेकर जाएं ये दस्तावेज",
+      "url": "https://www.amarujala.com/education/aiims-cre-5-exam-day-guidelines-will-held-from-25-july-to-27-check-list-of-document-to-carry-2026-07-24",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-24T03:02:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/09/ravneet-bittu_ea707b8c6cabd18c8d393d7178531966.jpeg?w=1200&dpr=1.0",
-      "summary": "President Droupadi Murmu accepts ravneet singh resignation union cabinet केंद्रीय मंत्री रवनीत सिंह बिट्टू ने दिया इस्तीफा: राष्ट्रपति ने किया मंजूर, पंजाब में मिलेगी बड़ी जिम्मेदारी?",
+      "published_at": "2026-07-24T04:17:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/15/aiims-cre-5_d576d95c265f5dc3f72426b3c5adc118.jpeg?w=1200&dpr=1.0",
+      "summary": "एम्स सीआरई-5 परीक्षा 25 जुलाई से शुरू हो रही है, 1,484 पदों पर भर्ती के लिए तीन दिनों तक चलेगी। AIIMS CRE 5 Exam Day Guidelines: एम्स सीआरई-5 परीक्षा कल, यानी 25 जुलाई से शुरू हो रही है। 1,484 पदों पर भर्ती के लिए परीक्षा तीन दिनों तक चलेगी। जो भी अभ्यर्थी परीक्षा में शामिल होने वाले हैं, उन्हें गाइडलाइंस अच्छे से समझ लेनी चाहिए।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "केंद्रीय मंत्री रवनीत सिंह बिट्टू ने दिया इस्तीफा: राष्ट्रपति ने किया मंजूर, पंजाब में मिलेगी बड़ी",
-          "summary": "President Droupadi Murmu accepts ravneet singh resignation union cabinet केंद्रीय मंत्री रवनीत सिंह बिट्टू ने दिया इस्तीफा: राष्ट्रपति ने किया मंजूर, पंजाब में मिलेगी बड़ी जिम्मेदारी?",
+          "title": "एम्स सीआरई-5 परीक्षा कल, अभ्यर्थी अच्छे से समझ लें गाइडलाइंस, केंद्र पर लेकर जाएं ये दस्तावेज",
+          "summary": "एम्स सीआरई-5 परीक्षा 25 जुलाई से शुरू हो रही है, 1,484 पदों पर भर्ती के लिए तीन दिनों तक चलेगी। AIIMS CRE 5 Exam Day Guidelines: एम्स सीआरई-5 परीक्षा कल, यानी 25 जुलाई से शुरू हो रही है। 1,484 पदों पर भर्ती के लिए परीक्षा तीन दिनों तक चलेगी। जो भी अभ्यर्थी परीक्षा में शामिल होने वाले हैं, उन्हें गाइडलाइंस अच्छे से समझ लेनी चाहिए।",
           "region": "दुनिया"
         }
       }
