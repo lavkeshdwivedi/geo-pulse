@@ -1,86 +1,16 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 24, 2026 14:26 IST
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [बहरीन-जॉर्डन में अमेरिकी सैन्य ठिकानों पर हमला, दक्षिणी लेबनान में इजरायली सेना का हमला](https://hindi.news18.com/world/middle-east-iran-war-live-us-news-conflict-13th-night-airstrikes-donald-trump-hormuz-retaliation-hindi-livenews-10684829.html)
-*News18 Hindi (World)* - Jul 24, 14:17 IST (iso: 2026-07-24T08:47:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/iran-26-2026-07-d4532921ddf9f8fc17a75cf1922fa5ca-1200x800.jpg -->
-
-Iran Attack On US: अमेरिका ने लगातार 13वीं रात भी ईरान के सैन्य ठिकानों पर हमले जारी रखे. अमेरिकी सेना का कहना है कि कार्रवाई का मकसद IRGC से जुड़े खतरों को कम करना और समुद्री व्यापार की सुरक्षा सुनिश्चित करना है. इस बीच होर्मुज जलडमरूमध्य के पास स्थित क़ेश्म द्वीप और अहवाज में धमाकों की खबरें सामने आई हैं.
-
-### [लंदन के लग्जरी होटल में सऊदी शहजादे की मौत का खुलासा, शराब और ड्रग्स के मिक्स से गई जान](https://hindi.news18.com/world/britain-donald-trump-says-xi-jinping-will-visit-white-house-in-september-2-10686081.html)
-*News18 Hindi (World)* - Jul 24, 14:04 IST (iso: 2026-07-24T08:34:00+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Prince-Abdullah-bin-Fahad-bin-Abdullah-bin-Abdulaziz-bin-Jalawi-Al-Saud-2026-07-56c16a2bb87384c2348d757d2b16c700-1200x800.jpg -->
-
-ब्रिटेन की एक अदालत ने पिछले साल सऊदी शाही परिवार के सदस्य प्रिंस अब्दुल्ला बिन फहद बिन अब्दुलअजीज बिन जलावी अल सऊद की मौत की वजह बताई है. जांच के मुताबिक, शराब और कई तरह की दवाओं के खतरनाक मिश्रण के कारण उनकी मौत हुई. कोर्ट ने इसे दुर्घटनावश हुई मौत माना. लंदन के लग्जरी होटल में सऊदी शहजादे की मौत का खुलासा, शराब और ड्रग्स के मिक्स से गई जान।
-
-### [चीन से लड़ने की धमकी देते हैं ट्रंप, ईरान ने निकाला THAAD-Patriot का दम, अब खरीदनी पड़ रहीं पुरानी](https://hindi.news18.com/world/america-us-buys-patriot-pac-2-missiles-after-30-years-iran-war-depletes-american-stockpile-10685663.html)
-*News18 Hindi (World)* - Jul 24, 13:42 IST (iso: 2026-07-24T08:12:25+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/us-missike-2026-07-63933eb821733a605b23c0d2314b5eec-1200x800.jpg -->
-
-Iran Missile News: ईरान के साथ बढ़ते सैन्य संघर्ष ने अमेरिका के अत्याधुनिक हथियारों के भंडार पर दबाव बढ़ा दिया है. इसी बीच अमेरिकी सेना ने 30 साल से ज्यादा समय बाद पहली बार पैट्रियट PAC-2 GEM-T इंटरसेप्टर मिसाइलों का नया ऑर्डर दिया है. रिपोर्टों के मुताबिक, ईरान और मध्य पूर्व में लगातार मिसाइल हमलों का जवाब देने में बड़ी संख्या में इंटरसेप्टर खर्च हुए हैं.
-
-### [अमेरिका-ईरान तनाव के बीच इजरायल का बड़ा एक्शन, एक साथ लेबनान और गाजा पर दाग दी मिसाइल](https://www.patrika.com/world-news/israel-attacks-lebanon-gaza-amid-us-iran-tensions-20773705)
-*Patrika (World)* - Jul 24, 12:48 IST (iso: 2026-07-24T07:18:36+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Israel-Israel-Lebanon-attack.webp -->
-
-इजरायल ने अमेरिका-ईरान तनाव के बीच लेबनान और गाजा पर मिसाइल दाग दी हैं। यह हमले सीजफायर को लेकर बातचीत जारी होने के बावजूद हुए हैं। लगातार हो रहे हवाई हमलों ने पूरे क्षेत्र में टेंशन बढ़ा दी है। अमेरिका-ईरान के बीच बढ़ते तनाव के बीच इजरायल ने एक साथ लेबनान और गाजा में हमले तेज कर दिए हैं। वो भी ऐसे समय में जब सीजफायर को लेकर बातचीत जारी है।
-
-### [ट्रंप ने 60 देशों पर लगाया नया टैरिफ, इजरायल को भी नहीं छोड़ा, EU से न्यूजीलैंड तक मचा बवाल](https://hindi.news18.com/world/america-donald-trump-new-tariff-on-60-countries-what-is-tariff-and-why-eu-canada-australia-new-zealand-angry-10685343.html)
-*News18 Hindi (World)* - Jul 24, 11:36 IST (iso: 2026-07-24T06:06:51+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/donald-trump-2026-07-10T072401.585-2026-07-ddc90202069967f7fca3c5cdd429f864-1200x800.jpg -->
-
-अमेरिकी राष्ट्रपति ट्रंप ने 60 व्यापारिक साझेदार देशों पर 10% और 12.5% के नए टैरिफ लगाने का ऐलान किया है। ट्रंप प्रशासन का कहना है कि जिन देशों में जबरन मजदूरी से बने सामान पर सख्त कार्रवाई नहीं होती, उन पर यह कदम उठाया गया है। यूरोपीय संघ, ऑस्ट्रेलिया, ब्राजील, नॉर्वे और न्यूजीलैंड ने इस फैसले पर आपत्ति जताई है।
-
-### [पेपर लीक मुद्दे पर खरगे का पीएम मोदी पर हमला, कहा- संसद में बयान दें, एकतरफा मन की बात न करें](https://www.amarujala.com/india-news/kharge-targets-pm-modi-over-paper-leak-demands-dharmendra-pradhan-removal-neet-row-2026-07-24)
-*Amar Ujala Breaking* - Jul 24, 11:18 IST (iso: 2026-07-24T05:48:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/24/mallkarajana-kharaga-athhayakashha-kagarasa_ca70406b339fed6709974921decd079a.jpeg?w=1200&dpr=1.0 -->
-
-खरगे ने पीएम मोदी पर हमला किया और उनसे संसद में बयान देने की मांग की। उन्होंने कहा कि एकतरफा मन की बात न करें। खरगे ने पेपर लीक मुद्दे पर प्रतिक्रिया दी और धार्मेंद्र प्रधान को हटाने की मांग की। पेपर लीक मुद्दे पर खरगे का पीएम मोदी पर हमला, कहा- संसद में बयान दें, एकतरफा मन की बात न करें।
-
-### [भारत से कमाने गया था, इजरायल में खून से लथपथ मिला शव, हत्या के शक में इजरायली गिरफ्तार](https://hindi.news18.com/world/middle-east-indian-worker-found-dead-in-jerusalem-israel-murder-suspect-arrested-10685283.html)
-*News18 Hindi (World)* - Jul 24, 10:26 IST (iso: 2026-07-24T04:56:49+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/israel-police-2026-07-82ae71a869bd4de935615375881681c6-1200x800.jpg -->
-
-Indian Killed In Israel: इजरायल के यरुशलम के कटामोन इलाके में एक भारतीय नागरिक की हत्या का मामला सामने आया है. खून से लथपथ शव मिलने से सनसनी फैल गई. पुलिस के मुताबिक, 40 साल का भारतीय अपने अपार्टमेंट में मृत मिला. मामले में हत्या के शक के आधार पर 31 वर्षीय एक इजरायली नागरिक को गिरफ्तार किया गया है. पुलिस फिलहाल पूछताछ कर रही है.
-
-### [डोनाल्ड ट्रंप के ऐलान से भड़का ईरान: ‘जब्त संपत्ति छुई तो दुनिया झेलेगी तबाही’, दी भयावह अराजकता की](https://www.patrika.com/world-news/iran-frozen-assets-abbas-araghchi-warning-trump-compensation-20773343)
-*Patrika (World)* - Jul 24, 09:59 IST (iso: 2026-07-24T04:29:39+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Seyed-Abbas-Araghchi.jpg -->
-
-डोनाल्ड ट्रंप ने ईरान की जब्त संपत्तियों को लेकर एक तीखा ऐलान किया है, जिससे मध्य पूर्व में तनाव बढ़ गया है। Iran Frozen Assets: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप द्वारा ईरान की जब्त संपत्तियों को लेकर किए गए एक तीखे ऐलान के बाद मिडिल ईस्ट और अंतरराष्ट्रीय कूटनीति में खलबली मच गई है। ट्रंप प्रशासन ने घोषणा की है कि अमेरिका में मौजूद ईरानी संपत्ति का इस्तेमाल समुद्र में जहाजों और उनके सामान (कार्गो) को पहुंचने वाले किसी भी नुकसान की भरपाई के लिए किया जाएगा।
-
-### [ईरान की चकरघिन्नी में फंसा पाकिस्तान, सऊदी अरब के पचड़े में मुनीर को भूत बना देंगे हूती!](https://hindi.news18.com/world/middle-east-saudi-arabia-defence-pact-vs-iran-diplomacy-why-pakistan-is-caught-between-houthi-red-sea-threat-and-west-asia-conflict-10684778.html)
-*News18 Hindi (World)* - Jul 24, 09:50 IST (iso: 2026-07-24T04:20:58+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-Stuck-Between-Iran-Houties-and-Saudi-Arabia-2026-07-9f7eb04988dfad45ecb1fc4eadd37442-1200x800.jpg -->
-
-पाकिस्तान ईरान और सऊदी अरब के बीच फंस गया है, हूती विद्रोहियों के कारण पाकिस्तान को मुश्किलें हो रही हैं। ईरान की नई कूटनीतिक चालों और यमन के हूती विद्रोहियों ने पाकिस्तान को भारी मुसीबत में डाल दिया है. सऊदी अरब के साथ हुए डिफेंस पैक्ड के तहत पाकिस्तान उसकी सुरक्षा के लिए मजबूर है, लेकिन यमन में हूतियों के खिलाफ उतरने का मतलब सीधे ईरान से दुश्मनी मोल लेना होगा.
-
-### [ईरान की सीक्रेट फ्लाइट से पहुंचा मिसाइल, ड्रोन और सोना, फिर पाकिस्‍तान के यार की लगी लंका](https://hindi.news18.com/world/middle-east-iran-sent-irgc-commanders-and-weapon-to-yemen-on-mahan-air-flight-red-sea-saudi-ship-attack-10684928.html)
-*News18 Hindi (World)* - Jul 24, 08:39 IST (iso: 2026-07-24T03:09:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/iran-plane-1-2026-07-ea8de0fd3e42e45671d04567430b1559-1200x800.jpg -->
-
-ईरान की सीक्रेट फ्लाइट से यमन में एक विमान उतरने की योजना थी, लेकिन अंत समय पर लैंडिंग टाल दी गई और रास्ता बदलना पड़ा। रॉयटर्स की रिपोर्ट में दावा किया गया है कि उसी विमान में ईरान के IRGC कमांडर, सैन्य सलाहकार और मिसाइल-ड्रोन से जुड़ा सामान भी था, जिसमें सोना भी शामिल था। जुलाई के दूसरे सप्ताह में एक विमान यमन में उतरने वाला था.
-
-### [शांतिदूत नहीं, 'तेलदूत' निकला पाकिस्तान, ईरान के साथ मिलकर मुनीर चला रहे तेल कंपनी, शहबाज चुप](https://hindi.news18.com/world/pakistan-army-chief-asim-munir-and-iran-joint-venture-saudi-oil-deal-new-report-pakistan-news-us-sanctions-10684959.html)
-*News18 Hindi (World)* - Jul 24, 07:28 IST (iso: 2026-07-24T01:58:36+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/asim-munir-7-2026-07-b3327c8f1ba6ba7733bfdbeef2243778-1200x800.jpg -->
-
-पाकिस्तान के सेना प्रमुख जनरल आसिम मुनीर ने ईरान के साथ मिलकर एक तेल कंपनी चलाई है, जो ईरान का तेल पाकिस्तान लाती है. मार्च में सऊदी अरब और ईरान के बीच तनाव कम करने में मुनीर ने अपने इस कारोबारी रिश्ते का इस्तेमाल किया है. पाकिस्तान ने इन दावों पर कोई प्रतिक्रिया नहीं दी है. Asim Munir Pakistan: पाकिस्तान के सेना प्रमुख जनरल आसिम मुनीर और ईरान के एक सैन्य अधिकारी का एक जॉइंट वेंचर है.
-
-### [ईरान पर अमेरिकी हमले जारी, लगातार 13वीं रात सैन्य ठिकानों को बनाया निशाना](https://www.patrika.com/world-news/us-conducts-13th-consecutive-night-of-strikes-on-iran-20773118)
-*Patrika (World)* - Jul 24, 07:24 IST (iso: 2026-07-24T01:54:01+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/US-Air-Force.webp -->
-
-अमेरिकी सेंट्रल कमांड ने 13वीं रात को ईरान के खिलाफ सैन्य कार्रवाई की। अमेरिकी सेना ने दावा किया कि इन हमलों का मकसद ईरानी सैन्य बलों द्वारा व्यापारिक जहाजों के लिए पैदा होने वाले खतरों को कम करना है। यह हमले पश्चिम एशिया में होर्मुज स्ट्रेट को लेकर अमेरिका और ईरान के बीच तनाव के बीच हुए। US Military Strikes on Iran: पश्चिम एशिया में होर्मुज स्ट्रेट (Strait of Hormuz) को लेकर अमेरिका और ईरान के बीच तनाव जारी है।
+**अपडेट:** July 24, 2026 15:21 IST
 
 ---
 
 ## एशिया-प्रशांत
+
+### [Quad मीटिंग में क्या हुआ? अमेरिकी राजदूत सर्जियो गोर ने फोन पर डोनाल्ड ट्रंप को किया ब्रीफ](https://hindi.news18.com/world/america-quad-meeting-sergio-gor-briefs-president-trump-after-manila-talks-local18-10685882.html)
+*News18 Hindi (World)* - Jul 24, 14:55 IST (iso: 2026-07-24T09:25:30+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/quad-meeting-sergio-gor-briefs-president-trump-after-manila-talks-2026-07-c4f388fa36643876f10806e96c9f351c-1200x800.jpg -->
+
+America News: मनीला में हुई Quad विदेश मंत्रियों की बैठक के बाद भारत में अमेरिकी राजदूत सर्जियो गोर ने नई दिल्ली पहुंचते ही राष्ट्रपति डोनाल्ड ट्रंप को फोन पर पूरी जानकारी दी. गोर ने कहा कि Quad साझेदारों के साथ हुई चर्चा से इंडो-पैसिफिक की कई महत्वपूर्ण पहलों को नई गति मिली है. बैठक में समुद्री सुरक्षा, सप्लाई चेन, क्रिटिकल टेक्नोलॉजी, ऊर्जा सहयोग और ASEAN के साथ समन्वय जैसे मुद्दों पर चर्चा हुई.
 
 ### [शी जिनपिंग का नाम लेते नहीं थक रहे ट्रंप, अमेरिकी दौरे का कर रहे इंतजार, बताया कब आएंगे चीनी](https://hindi.news18.com/world/china-donald-trump-says-xi-jinping-will-visit-white-house-in-september-10686020.html)
 *News18 Hindi (World)* - Jul 24, 14:09 IST (iso: 2026-07-24T08:39:53+00:00)
@@ -112,11 +42,69 @@ Xi Jinping US Visit: अमेरिकी राष्ट्रपति डो
 
 अमेरिकी व्यापार प्रतिनिधि कार्यालय ने गुरुवार को भारत समेत एक दर्जन से ज्यादा देशों से आने वाले सामान पर 10% अतिरिक्त टैरिफ लगाने का ऐलान किया। भारत के लिए यह राहत की बात रही कि उसे 1974 के ट्रेड एक्ट की धारा 301 के तहत पहले प्रस्तावित 12.5% टैरिफ की बजाय 10% टैरिफ लगाया गया। यह फैसला कई महीनों तक चली जांच के बाद लिया गया।
 
-### [डोनाल्ड ट्रंप ने दुनिया के 17 देशों पर फोड़ा टैरिफ बम, भारत-पाकिस्तान पर कितने प्रतिशत लगाया?](https://www.abplive.com/news/world/us-donald-trump-10-percent-tariff-on-17-countries-including-india-canada-uk-bangladesh-pakistan-3164746)
-*ABP Live (World)* - Jul 24, 07:21 IST (iso: 2026-07-24T01:51:28+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/24/2faddfe55adbc94cacfe874adea806fb1784858117818344_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+---
 
-अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 17 देशों पर टैरिफ लगाने का फैसला किया है, जिसमें भारत भी शामिल है। उन्होंने भारत से आयात होने वाले सामान पर 10 प्रतिशत अतिरिक्त टैरिफ लगाया है। अमेरिकी व्यापार प्रतिनिधि कार्यालय ने सेक्शन 301 के तहत यह निर्णय किया है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने मिडिल ईस्ट तनाव के बीच बड़ा कदम उठाया है.
+## मध्य पूर्व और अफ्रीका
+
+### [लंदन के लग्जरी होटल में सऊदी शहजादे की मौत का खुलासा, शराब और ड्रग्स के मिक्स से गई जान](https://hindi.news18.com/world/britain-donald-trump-says-xi-jinping-will-visit-white-house-in-september-2-10686081.html)
+*News18 Hindi (World)* - Jul 24, 14:39 IST (iso: 2026-07-24T09:09:04+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Prince-Abdullah-bin-Fahad-bin-Abdullah-bin-Abdulaziz-bin-Jalawi-Al-Saud-2026-07-56c16a2bb87384c2348d757d2b16c700-1200x800.jpg -->
+
+ब्रिटेन की एक अदालत ने पिछले साल सऊदी शाही परिवार के सदस्य प्रिंस अब्दुल्ला बिन फहद बिन अब्दुलअजीज बिन जलावी अल सऊद की मौत की वजह बताई है. जांच के मुताबिक, शराब और कई तरह की दवाओं के खतरनाक मिश्रण के कारण उनकी मौत हुई. कोर्ट ने इसे दुर्घटनावश हुई मौत माना. लंदन के लग्जरी होटल में सऊदी शहजादे की मौत का खुलासा, शराब और ड्रग्स के मिक्स से गई जान।
+
+### [बहरीन-जॉर्डन में अमेरिकी सैन्य ठिकानों पर हमला, दक्षिणी लेबनान में इजरायली सेना का हमला](https://hindi.news18.com/world/middle-east-iran-war-live-us-news-conflict-13th-night-airstrikes-donald-trump-hormuz-retaliation-hindi-livenews-10684829.html)
+*News18 Hindi (World)* - Jul 24, 14:17 IST (iso: 2026-07-24T08:47:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/iran-26-2026-07-d4532921ddf9f8fc17a75cf1922fa5ca-1200x800.jpg -->
+
+Iran Attack On US: अमेरिका ने लगातार 13वीं रात भी ईरान के सैन्य ठिकानों पर हमले जारी रखे. अमेरिकी सेना का कहना है कि कार्रवाई का मकसद IRGC से जुड़े खतरों को कम करना और समुद्री व्यापार की सुरक्षा सुनिश्चित करना है. इस बीच होर्मुज जलडमरूमध्य के पास स्थित क़ेश्म द्वीप और अहवाज में धमाकों की खबरें सामने आई हैं.
+
+### [चीन से लड़ने की धमकी देते हैं ट्रंप, ईरान ने निकाला THAAD-Patriot का दम, अब खरीदनी पड़ रहीं पुरानी](https://hindi.news18.com/world/america-us-buys-patriot-pac-2-missiles-after-30-years-iran-war-depletes-american-stockpile-10685663.html)
+*News18 Hindi (World)* - Jul 24, 13:42 IST (iso: 2026-07-24T08:12:25+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/us-missike-2026-07-63933eb821733a605b23c0d2314b5eec-1200x800.jpg -->
+
+Iran Missile News: ईरान के साथ बढ़ते सैन्य संघर्ष ने अमेरिका के अत्याधुनिक हथियारों के भंडार पर दबाव बढ़ा दिया है. इसी बीच अमेरिकी सेना ने 30 साल से ज्यादा समय बाद पहली बार पैट्रियट PAC-2 GEM-T इंटरसेप्टर मिसाइलों का नया ऑर्डर दिया है. रिपोर्टों के मुताबिक, ईरान और मध्य पूर्व में लगातार मिसाइल हमलों का जवाब देने में बड़ी संख्या में इंटरसेप्टर खर्च हुए हैं.
+
+### [अमेरिका-ईरान तनाव के बीच इजरायल का बड़ा एक्शन, एक साथ लेबनान और गाजा पर दाग दी मिसाइल](https://www.patrika.com/world-news/israel-attacks-lebanon-gaza-amid-us-iran-tensions-20773705)
+*Patrika (World)* - Jul 24, 12:48 IST (iso: 2026-07-24T07:18:36+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Israel-Israel-Lebanon-attack.webp -->
+
+इजरायल ने अमेरिका-ईरान तनाव के बीच लेबनान और गाजा पर मिसाइल दाग दी हैं। यह हमले सीजफायर को लेकर बातचीत जारी होने के बावजूद हुए हैं। लगातार हो रहे हवाई हमलों ने पूरे क्षेत्र में टेंशन बढ़ा दी है। अमेरिका-ईरान के बीच बढ़ते तनाव के बीच इजरायल ने एक साथ लेबनान और गाजा में हमले तेज कर दिए हैं। वो भी ऐसे समय में जब सीजफायर को लेकर बातचीत जारी है।
+
+### [ट्रंप ने 60 देशों पर लगाया नया टैरिफ, इजरायल को भी नहीं छोड़ा, EU से न्यूजीलैंड तक मचा बवाल](https://hindi.news18.com/world/america-donald-trump-new-tariff-on-60-countries-what-is-tariff-and-why-eu-canada-australia-new-zealand-angry-10685343.html)
+*News18 Hindi (World)* - Jul 24, 11:36 IST (iso: 2026-07-24T06:06:51+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/donald-trump-2026-07-10T072401.585-2026-07-ddc90202069967f7fca3c5cdd429f864-1200x800.jpg -->
+
+अमेरिकी राष्ट्रपति ट्रंप ने 60 व्यापारिक साझेदार देशों पर 10% और 12.5% के नए टैरिफ लगाने का ऐलान किया है। ट्रंप प्रशासन का कहना है कि जिन देशों में जबरन मजदूरी से बने सामान पर सख्त कार्रवाई नहीं होती, उन पर यह कदम उठाया गया है। यूरोपीय संघ, ऑस्ट्रेलिया, ब्राजील, नॉर्वे और न्यूजीलैंड ने इस फैसले पर आपत्ति जताई है।
+
+### [भारत से कमाने गया था, इजरायल में खून से लथपथ मिला शव, हत्या के शक में इजरायली गिरफ्तार](https://hindi.news18.com/world/middle-east-indian-worker-found-dead-in-jerusalem-israel-murder-suspect-arrested-10685283.html)
+*News18 Hindi (World)* - Jul 24, 10:26 IST (iso: 2026-07-24T04:56:49+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/israel-police-2026-07-82ae71a869bd4de935615375881681c6-1200x800.jpg -->
+
+Indian Killed In Israel: इजरायल के यरुशलम के कटामोन इलाके में एक भारतीय नागरिक की हत्या का मामला सामने आया है. खून से लथपथ शव मिलने से सनसनी फैल गई. पुलिस के मुताबिक, 40 साल का भारतीय अपने अपार्टमेंट में मृत मिला. मामले में हत्या के शक के आधार पर 31 वर्षीय एक इजरायली नागरिक को गिरफ्तार किया गया है. पुलिस फिलहाल पूछताछ कर रही है.
+
+### [डोनाल्ड ट्रंप के ऐलान से भड़का ईरान: ‘जब्त संपत्ति छुई तो दुनिया झेलेगी तबाही’, दी भयावह अराजकता की](https://www.patrika.com/world-news/iran-frozen-assets-abbas-araghchi-warning-trump-compensation-20773343)
+*Patrika (World)* - Jul 24, 09:59 IST (iso: 2026-07-24T04:29:39+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Seyed-Abbas-Araghchi.jpg -->
+
+डोनाल्ड ट्रंप ने ईरान की जब्त संपत्तियों को लेकर एक तीखा ऐलान किया है, जिससे मध्य पूर्व में तनाव बढ़ गया है। Iran Frozen Assets: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप द्वारा ईरान की जब्त संपत्तियों को लेकर किए गए एक तीखे ऐलान के बाद मिडिल ईस्ट और अंतरराष्ट्रीय कूटनीति में खलबली मच गई है। ट्रंप प्रशासन ने घोषणा की है कि अमेरिका में मौजूद ईरानी संपत्ति का इस्तेमाल समुद्र में जहाजों और उनके सामान (कार्गो) को पहुंचने वाले किसी भी नुकसान की भरपाई के लिए किया जाएगा।
+
+### [ईरान की चकरघिन्नी में फंसा पाकिस्तान, सऊदी अरब के पचड़े में मुनीर को भूत बना देंगे हूती!](https://hindi.news18.com/world/middle-east-saudi-arabia-defence-pact-vs-iran-diplomacy-why-pakistan-is-caught-between-houthi-red-sea-threat-and-west-asia-conflict-10684778.html)
+*News18 Hindi (World)* - Jul 24, 09:50 IST (iso: 2026-07-24T04:20:58+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-Stuck-Between-Iran-Houties-and-Saudi-Arabia-2026-07-9f7eb04988dfad45ecb1fc4eadd37442-1200x800.jpg -->
+
+पाकिस्तान ईरान और सऊदी अरब के बीच फंस गया है, हूती विद्रोहियों के कारण पाकिस्तान को मुश्किलें हो रही हैं। ईरान की नई कूटनीतिक चालों और यमन के हूती विद्रोहियों ने पाकिस्तान को भारी मुसीबत में डाल दिया है. सऊदी अरब के साथ हुए डिफेंस पैक्ड के तहत पाकिस्तान उसकी सुरक्षा के लिए मजबूर है, लेकिन यमन में हूतियों के खिलाफ उतरने का मतलब सीधे ईरान से दुश्मनी मोल लेना होगा.
+
+### [ईरान की सीक्रेट फ्लाइट से पहुंचा मिसाइल, ड्रोन और सोना, फिर पाकिस्‍तान के यार की लगी लंका](https://hindi.news18.com/world/middle-east-iran-sent-irgc-commanders-and-weapon-to-yemen-on-mahan-air-flight-red-sea-saudi-ship-attack-10684928.html)
+*News18 Hindi (World)* - Jul 24, 08:39 IST (iso: 2026-07-24T03:09:10+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/iran-plane-1-2026-07-ea8de0fd3e42e45671d04567430b1559-1200x800.jpg -->
+
+ईरान की सीक्रेट फ्लाइट से यमन में एक विमान उतरने की योजना थी, लेकिन अंत समय पर लैंडिंग टाल दी गई और रास्ता बदलना पड़ा। रॉयटर्स की रिपोर्ट में दावा किया गया है कि उसी विमान में ईरान के IRGC कमांडर, सैन्य सलाहकार और मिसाइल-ड्रोन से जुड़ा सामान भी था, जिसमें सोना भी शामिल था। जुलाई के दूसरे सप्ताह में एक विमान यमन में उतरने वाला था.
+
+### [शांतिदूत नहीं, 'तेलदूत' निकला पाकिस्तान, ईरान के साथ मिलकर मुनीर चला रहे तेल कंपनी, शहबाज चुप](https://hindi.news18.com/world/pakistan-army-chief-asim-munir-and-iran-joint-venture-saudi-oil-deal-new-report-pakistan-news-us-sanctions-10684959.html)
+*News18 Hindi (World)* - Jul 24, 07:28 IST (iso: 2026-07-24T01:58:36+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/asim-munir-7-2026-07-b3327c8f1ba6ba7733bfdbeef2243778-1200x800.jpg -->
+
+पाकिस्तान के सेना प्रमुख जनरल आसिम मुनीर ने ईरान के साथ मिलकर एक तेल कंपनी चलाई है, जो ईरान का तेल पाकिस्तान लाती है. मार्च में सऊदी अरब और ईरान के बीच तनाव कम करने में मुनीर ने अपने इस कारोबारी रिश्ते का इस्तेमाल किया है. पाकिस्तान ने इन दावों पर कोई प्रतिक्रिया नहीं दी है. Asim Munir Pakistan: पाकिस्तान के सेना प्रमुख जनरल आसिम मुनीर और ईरान के एक सैन्य अधिकारी का एक जॉइंट वेंचर है.
 
 ---
 
@@ -128,17 +116,17 @@ Xi Jinping US Visit: अमेरिकी राष्ट्रपति डो
 
 दतिया विधानसभा उपचुनाव के प्रचार के दौरान कांग्रेस प्रदेश अध्यक्ष जीतू पटवारी के अधिकारियों को लेकर दिए बयान पर सियासी विवाद गहरा गया है। भाजपा ने इसे चुनाव आचार संहिता का उल्लंघन बताते हुए चुनाव आयोग से कार्रवाई की मांग की है। 'चुनाव के बाद हिसाब लेंगे' बयान पर घिरे जीतू पटवारी, भाजपा ने कहा- अधिकारियों को धमकाना शर्मनाक।
 
+### [यूपी में 62 हजार सरकारी नौकरियों की तैयारी, TGT-PGT समेत कई भर्तियां जल्द](https://www.amarujala.com/uttar-pradesh/allahabad/up-sarkari-naukri-2026-preparation-for-62-thousand-government-jobs-in-up-many-recruitments-including-tgt-pgt-2026-07-24)
+*Amar Ujala Breaking* - Jul 24, 12:58 IST (iso: 2026-07-24T07:28:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/24/shakashhaka-bharata_dfef28e56a95a1c99be5c51212ea03f3.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर प्रदेश शिक्षा सेवा चयन आयोग और उत्तर प्रदेश लोक सेवा आयोग वर्ष 2026 में भर्तियां करने जा रहे हैं। दिसंबर तक लगभग 62 हजार युवाओं को नौकरी मिलने की संभावना है। यूपी में 62 हजार सरकारी नौकरियों की तैयारी, TGT-PGT समेत कई भर्तियां जल्द।
+
 ### [धर्मेंद्र प्रधान के इस्तीफे के बगैर सोनम वांगचुक ने क्यों तोड़ा अनशन? वीडियो जारी कर दिया जवाब](https://www.amarujala.com/india-news/sonam-wangchuk-ends-hunger-strike-neet-paper-leak-controversy-dharmendra-pradhan-resignation-student-protest-2026-07-24)
 *Amar Ujala Breaking* - Jul 24, 12:50 IST (iso: 2026-07-24T07:20:42+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/24/sanama-vagacaka_c6b6b6bfaadb26885d1eaf8db3a23408.jpeg?w=1200&dpr=1.0 -->
 
 sonam wangchuk ends hunger strike NEET paper leak controversy Dharmendra Pradhan Resignation Student Protest-CJP Protest: धर्मेंद्र प्रधान के इस्तीफे के बगैर सोनम वांगचुक ने क्यों तोड़ा अनशन? वीडियो जारी कर दिया जवाब।
-
-### [डीयू के बाद सीजेपी प्रोटेस्ट पर जेएनयू ने जारी की एडवाइजरी, प्रदर्शनों में जाने से बचने को कहा](https://www.amarujala.com/delhi-ncr/jnu-issues-advisory-on-cjp-protest-following-du-2026-07-24)
-*Amar Ujala Breaking* - Jul 24, 12:47 IST (iso: 2026-07-24T07:17:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/24/nayama-ka-anathakha-para-ha-sakata-ha-anashasanatamaka-kararavaii_752fa2a3280d06d3cd6c5b2cc74f7b8a.jpeg?w=1200&dpr=1.0 -->
-
-जवाहर लाल नेहरू विश्वविद्यालय (जेएनयू) ने कॉकरोच जनता पार्टी (सीजेपी) के बैनर तले चल रहे छात्रों के प्रदर्शन के बीच एडवाइजरी जारी की है। डीयू के बाद सीजेपी प्रोटेस्ट पर जेएनयू ने जारी की एडवाइजरी, प्रदर्शनों में जाने से बचने को कहा।
 
 ### [पानी में बहीं गाड़ियां, सड़क से खेत तक डूबे; असम में बाढ़ से 47 मौत, महाराष्ट्र-गुजरात भी जलमग्न](https://www.amarujala.com/india-news/vehicles-swept-away-water-everything-from-roads-and-fields-railway-tracks-submerged-flood-havoc-assam-gujarat-2026-07-24)
 *Amar Ujala Breaking* - Jul 24, 12:15 IST (iso: 2026-07-24T06:45:31+00:00)
@@ -151,6 +139,18 @@ sonam wangchuk ends hunger strike NEET paper leak controversy Dharmendra Pradhan
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/24/narendra-modi_0e506bb5d16e46e0486b6ff894209a5f.jpeg?w=1200&dpr=1.0 -->
 
 Paper Leak: 6 माह में सजा, 10 साल जेल और एक करोड़ तक जुर्माना, पेपर लीक पर मोदी कैबिनेट की 'सर्जिकल स्ट्राइक'?
+
+### [सोनम वांगचुक ने किन शर्तों पर तोड़ा अनशन? वीडियो जारी कर बताया, बोले- '26 दिन बाद खाने स्वाद अच्छा](https://www.abplive.com/news/india/sonam-wangchuk-ends-hunger-strike-accountability-from-modi-govt-3164752)
+*ABP Live (India)* - Jul 24, 07:43 IST (iso: 2026-07-24T02:13:57+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/24/9dfbca4cd58df5d31e34066a9c7be6a517848603135681200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+मशहूर शिक्षाविद और सामाजिक कार्यकर्ता सोनम वांगचुक ने 26 दिनों के बाद अपना अनशन खत्म कर दिया है. उनका कहना है कि भूख हड़ताल खत्म करने के बाद अब सरकार से जवाबदेही मांगी जाएगी. उन्होंने शुक्रवार (24 जुलाई) को एक्स पर वीडियो पोस्ट कर सिलसिलेवार ढंग से अपनी बात रखी. उन्होंने बताया कि केंद्रीय मंत्री जेपी नड्डा और जितेंद्र सिंह उनसे मिलने आए थे.
+
+### [आधी रात को प्रधानमंत्री ने जारी किया वीडियो मैसेज तो राहुल गांधी ने ऐसा क्यों बोला- 'मिस्टर मोदी](https://www.abplive.com/news/india/pm-modi-video-message-on-paper-leak-says-draft-of-formation-fast-track-court-ready-rahul-gandhi-reacts-3164740)
+*ABP Live (India)* - Jul 24, 07:24 IST (iso: 2026-07-24T01:54:13+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/24/e232b293b4e5b979b91757e3bed57c8e17848562156621200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+नीट पेपर लीक मामले को लेकर प्रधानमंत्री नरेंद्र मोदी के देर रात जारी किए गए वीडियो पर लोकसभा में नेता विपक्ष और कांग्रेस सांसद राहुल गांधी ने सवाल उठाए हैं. राहुल गांधी ने सरकार के सामने प्रमुखता से तीन मांगें रखी हैं और देर रात जारी किए गए वीडियो को लेकर पीएम मोदी पर निशाना साधा. राहुल गांधी ने एक्स पर पोस्ट कर कहा, "मिस्टर मोदी, हमारे छात्र धर्मेंद्र प्रधान के इस्तीफ़े की मांग कर रहे हैं.
 
 ---
 
