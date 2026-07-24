@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-24T14:38:24.209786+00:00",
+  "generated_at": "2026-07-24T15:33:26.556696+00:00",
   "article_count": 50,
-  "total_unique_count": 283,
+  "total_unique_count": 281,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia. 25 fresh dispatches in this edition.",
-    "hi": "दुबई में पहचान वाला ढूंढने पर UAE सरकार VIP ट्रीटमेंट देगी। बांग्लादेश में राष्ट्रपति शहाबुद्दीन ने इस्तीफा दिया। स्पेन जंगल की आग से जूझ रहा है।"
+    "en": "Iran and Ukraine dominate the news. Iran's relations with Iraq and Pakistan are under scrutiny. Ukraine's drone war continues over Kramatorsk.",
+    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जो एशिया-पैसिफिक और मध्य पूर्व एवं अफ्रीका क्षेत्रों में घटनाओं पर केंद्रित हैं। बांग्लादेश में राजनीतिक परिवर्तन और चीन के साथ भारत के तनावपूर्ण संबंध प्रमुख हैं। बांग्लादेश के राष्ट्रपति शहाबुद्दीन ने इस्तीफा दे दिया है।"
   },
   "articles": [
     {
@@ -32,14 +32,14 @@
       "translations": {}
     },
     {
-      "title": "Bangladesh president resigns citing ill health",
-      "url": "https://www.channelnewsasia.com/asia/bangladesh-president-resigns-mohammed-shahabuddin-6276386",
-      "source": "Channel News Asia",
+      "title": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168012",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-07-24T12:40:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--GQb_shbH--/c_crop,h_449,w_799,x_1,y_29/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-24T105916Z_1_LYNXMPEM6N0X8_RTROPTP_3_BANGLADESH-PRESIDENT.JPG?itok=Qd__Cypx",
-      "summary": "\"Due to worsening physical and mental incapacity it is no longer possible for me to properly discharge the responsibilities of an important constitutional office such as the presidency,\" President Mohammed Shahabuddin said in a resignation letter. Bangladesh president resigns citing ill health.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-07-24T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-UNDP-Sudan-05.jpg/image770x420cropped.jpg",
+      "summary": "In El Obeid, women and girls now face an impossible choice over something as basic as a bucket of water: risk a drone strike by collecting it in daylight, or risk rape by waiting until dark. In El Obeid, Sudanese women face drones by day, rape by night, to reach water.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -302,10 +302,28 @@
       "sources": [],
       "published_at": "2026-07-22T09:26:09+00:00",
       "image_url": "https://i.guim.co.uk/img/media/c4591102f999f5401cfd3bc6a322dbcfaecd9c86/46_0_656_525/master/656.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b44b561e77a3c429ccd718819b132075",
-      "summary": "Prosecutors seek a one-year sentence and heavy fine after chef garnished dish with insects not approved for consumptionProsecutors in South Korea have asked a court to sentence the owner of a Michelin-starred restaurant to one year in prison for serving a dessert topped with ants, an insect not approved for consumption under local food safety law.",
+      "summary": "Prosecutors seek a one-year sentence and heavy fine after chef garnished dish with insects not approved for consumptionProsecutors in South Korea have asked a court to sentence the owner of a Michelin-starred restaurant to one year in prison for serving a dessert topped with ants, an insect not approved for consumption under local food safety law. Michelin-starred restaurant owner in South Korea faces jail over ant dessert.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "लॉन्च होते ही रॉकेट से टकराई बिजली, फिर जो हुआ, देखकर फटी रह गई वैज्ञानिकों की आखें",
+      "url": "https://hindi.news18.com/news/ajab-gajab/viral-watch-chinese-long-march-3b-rocket-hit-by-lightning-seconds-after-launch-successfully-delivers-satellite-to-orbit-10687168.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-24T15:29:06+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/China-Rocket-Lightning-Strike-2026-07-739f17fc7d8120f990654c80ba1604ef-1200x800.jpg",
+      "summary": "चीन के शिचांग सेंटर से उड़ान भरते ही 'लॉन्ग मार्च-3बी' रॉकेट पर आसमान से कड़कड़ाती बिजली आ गिरी, जिससे एक पल के लिए लगा कि बड़ा हादसा हो जाएगा. इस चीनी रॉकेट ने बिना डगमगाए उड़ते रहकर सबको हैरान कर दिया और अपने 'तियानलियान-2-06' डेटा रिले सैटेलाइट को एकदम सही ऑर्बिट में पहुंचा दिया.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लॉन्च होते ही रॉकेट से टकराई बिजली, फिर जो हुआ, देखकर फटी रह गई वैज्ञानिकों की आखें",
+          "summary": "चीन के शिचांग सेंटर से उड़ान भरते ही 'लॉन्ग मार्च-3बी' रॉकेट पर आसमान से कड़कड़ाती बिजली आ गिरी, जिससे एक पल के लिए लगा कि बड़ा हादसा हो जाएगा. इस चीनी रॉकेट ने बिना डगमगाए उड़ते रहकर सबको हैरान कर दिया और अपने 'तियानलियान-2-06' डेटा रिले सैटेलाइट को एकदम सही ऑर्बिट में पहुंचा दिया.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "दुबई में पहचान वाला ढूंढिए और सस्ते में घूम आइए, UAE सरकार देगी VIP ट्रीटमेंट, कैश प्राइज भी मिलेगा!",
@@ -314,14 +332,32 @@
       "sources": [],
       "published_at": "2026-07-24T14:30:33+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Dubai-Tourism-2026-07-654e9513320613d42028cbaaf157b303-1200x800.jpg",
-      "summary": "अमेरिका, इजरायल और ईरान की जंग के डर से दुबई के मशहूर टूरिज्म बिजनेस पर बड़ा संकट आ गया है. 2025 में जहां करीब 2 करोड़ टूरिस्ट यहां घूमने आए थे, वहीं आज यहां सन्नाटा पसरा है, जिससे 7-स्टार होटलों को भारी छूट देनी पड़ रही है और उड़ानों का काम आधा रह गया है.",
+      "summary": "अमेरिका, इजरायल और ईरान की जंग के डर से दुबई के मशहूर टूरिज्म बिजनेस पर बड़ा संकट आ गया है. 2025 में जहां करीब 2 करोड़ टूरिस्ट यहां घूमने आए थे, वहीं आज यहां सन्नाटा पसरा है, जिससे 7-स्टार होटलों को भारी छूट देनी पड़ रही है और उड़ानों का काम आधा रह गया है. इस मंदी से उबरने के लिए दुबई सरकार ने 'दुबई इनवाइट' स्कीम निकाली है, जिसमें यूएई में रहने वाले लोगों को अपने दोस्तों और रिश्तेदारों को दुबई बुल।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "दुबई में पहचान वाला ढूंढिए और सस्ते में घूम आइए, UAE सरकार देगी VIP ट्रीटमेंट, कैश प्राइज भी मिलेगा!",
-          "summary": "अमेरिका, इजरायल और ईरान की जंग के डर से दुबई के मशहूर टूरिज्म बिजनेस पर बड़ा संकट आ गया है. 2025 में जहां करीब 2 करोड़ टूरिस्ट यहां घूमने आए थे, वहीं आज यहां सन्नाटा पसरा है, जिससे 7-स्टार होटलों को भारी छूट देनी पड़ रही है और उड़ानों का काम आधा रह गया है.",
+          "summary": "अमेरिका, इजरायल और ईरान की जंग के डर से दुबई के मशहूर टूरिज्म बिजनेस पर बड़ा संकट आ गया है. 2025 में जहां करीब 2 करोड़ टूरिस्ट यहां घूमने आए थे, वहीं आज यहां सन्नाटा पसरा है, जिससे 7-स्टार होटलों को भारी छूट देनी पड़ रही है और उड़ानों का काम आधा रह गया है. इस मंदी से उबरने के लिए दुबई सरकार ने 'दुबई इनवाइट' स्कीम निकाली है, जिसमें यूएई में रहने वाले लोगों को अपने दोस्तों और रिश्तेदारों को दुबई बुल।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत का चीन पर बड़ा आरोप, MEA बोला- जम्मू-कश्मीर और लद्दाख के भारतीय इलाकों पर है अवैध कब्जा",
+      "url": "https://www.patrika.com/world-news/mea-india-accuses-china-illegal-occupation-jammu-kashmir-ladakh-sovereignty-20775199",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-24T13:43:03+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/China-India-Dispute.webp",
+      "summary": "India China relations: भारत ने एक बार फिर चीन पर जम्मू-कश्मीर और लद्दाख के भारतीय क्षेत्रों पर अवैध कब्जा करने का आरोप लगाया है। विदेश मंत्रालय (MEA) ने शुक्रवार को कहा कि चीन भारत की संप्रभुता का उल्लंघन कर रहा है और भारत जम्मू-कश्मीर के उन क्षेत्रों में चल रही चीनी परियोजनाओं का लगातार विरोध करता रहा है। भारत का चीन पर बड़ा आरोप, MEA बोला- जम्मू-कश्मीर और लद्दाख के भारतीय इलाकों पर है अवैध कब्जा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत का चीन पर बड़ा आरोप, MEA बोला- जम्मू-कश्मीर और लद्दाख के भारतीय इलाकों पर है अवैध कब्जा",
+          "summary": "India China relations: भारत ने एक बार फिर चीन पर जम्मू-कश्मीर और लद्दाख के भारतीय क्षेत्रों पर अवैध कब्जा करने का आरोप लगाया है। विदेश मंत्रालय (MEA) ने शुक्रवार को कहा कि चीन भारत की संप्रभुता का उल्लंघन कर रहा है और भारत जम्मू-कश्मीर के उन क्षेत्रों में चल रही चीनी परियोजनाओं का लगातार विरोध करता रहा है। भारत का चीन पर बड़ा आरोप, MEA बोला- जम्मू-कश्मीर और लद्दाख के भारतीय इलाकों पर है अवैध कब्जा।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -650,110 +686,74 @@
       }
     },
     {
-      "title": "ईरान की सीक्रेट फ्लाइट से पहुंचा मिसाइल, ड्रोन और सोना, फिर पाकिस्‍तान के यार की लगी लंका",
-      "url": "https://hindi.news18.com/world/middle-east-iran-sent-irgc-commanders-and-weapon-to-yemen-on-mahan-air-flight-red-sea-saudi-ship-attack-10684928.html",
-      "source": "News18 Hindi (World)",
+      "title": "रेलवे असिस्टेंट लोको पायलट सीबीटी-2 का एडमिट कार्ड जारी, केंद्र पर ये दस्तावेज लेकर जाएं",
+      "url": "https://www.amarujala.com/jobs/government-jobs/rrb-alp-cbt-2-admit-card-2026-released-download-hall-ticket-for-july-28-exam-at-regional-rrbs-2026-07-24",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-24T03:09:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-plane-1-2026-07-ea8de0fd3e42e45671d04567430b1559-1200x800.jpg",
-      "summary": "ईरान की सीक्रेट फ्लाइट से यमन में एक विमान उतरने की योजना थी, लेकिन अंत समय पर लैंडिंग टाल दी गई और रास्ता बदलना पड़ा। रॉयटर्स की रिपोर्ट में दावा किया गया है कि उसी विमान में ईरान के IRGC कमांडर, सैन्य सलाहकार और मिसाइल-ड्रोन से जुड़ा सामान भी था, जिसमें सोना भी शामिल था। जुलाई के दूसरे सप्ताह में एक विमान यमन में उतरने वाला था.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान की सीक्रेट फ्लाइट से पहुंचा मिसाइल, ड्रोन और सोना, फिर पाकिस्‍तान के यार की लगी लंका",
-          "summary": "ईरान की सीक्रेट फ्लाइट से यमन में एक विमान उतरने की योजना थी, लेकिन अंत समय पर लैंडिंग टाल दी गई और रास्ता बदलना पड़ा। रॉयटर्स की रिपोर्ट में दावा किया गया है कि उसी विमान में ईरान के IRGC कमांडर, सैन्य सलाहकार और मिसाइल-ड्रोन से जुड़ा सामान भी था, जिसमें सोना भी शामिल था। जुलाई के दूसरे सप्ताह में एक विमान यमन में उतरने वाला था.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "US Imposes 10% Additional Tariff on India: अमेरिका ने भारत पर 10% अतिरिक्त टैरिफ लगाया, फोर्स्ड",
-      "url": "https://www.patrika.com/world-news/us-imposes-10-percent-additional-tariff-on-india-under-section-301-20773195",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-24T02:55:04+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/donald-trump-.webp",
-      "summary": "अमेरिकी व्यापार प्रतिनिधि कार्यालय ने गुरुवार को भारत समेत एक दर्जन से ज्यादा देशों से आने वाले सामान पर 10% अतिरिक्त टैरिफ लगाने का ऐलान किया। भारत के लिए यह राहत की बात रही कि उसे 1974 के ट्रेड एक्ट की धारा 301 के तहत पहले प्रस्तावित 12.5% टैरिफ की बजाय 10% टैरिफ लगाया गया। यह फैसला कई महीनों तक चली जांच के बाद लिया गया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "US Imposes 10% Additional Tariff on India: अमेरिका ने भारत पर 10% अतिरिक्त टैरिफ लगाया, फोर्स्ड",
-          "summary": "अमेरिकी व्यापार प्रतिनिधि कार्यालय ने गुरुवार को भारत समेत एक दर्जन से ज्यादा देशों से आने वाले सामान पर 10% अतिरिक्त टैरिफ लगाने का ऐलान किया। भारत के लिए यह राहत की बात रही कि उसे 1974 के ट्रेड एक्ट की धारा 301 के तहत पहले प्रस्तावित 12.5% टैरिफ की बजाय 10% टैरिफ लगाया गया। यह फैसला कई महीनों तक चली जांच के बाद लिया गया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पैरा पावरलिफ्टिंग में पदक लाने से चूके अशोक, महिलाओं में जसप्रीत कौर का शानदार प्रदर्शन",
-      "url": "https://www.amarujala.com/live/sports/commonwealth-games-2026-day-2-live-basketball-boxing-swimming-track-cycling-athletics-results-news-in-hindi-2026-07-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-24T02:33:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/cwg_8dae827e579b77cb2a36ffe92870229b.jpeg?w=1200&dpr=1.0",
-      "summary": "Glasgow Commonwealth Games Day 2 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। राष्ट्रमंडल खेलों का आज दूसरा दिन है। पैरा पावरलिफ्टिंग में पदक लाने से चूके अशोक, महिलाओं में जसप्रीत कौर का शानदार प्रदर्शन।",
+      "published_at": "2026-07-24T03:14:53+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/14/admit-card_5a1d0616c14b6af043931fc1bef6bf93.jpeg?w=1200&dpr=1.0",
+      "summary": "RRB ALP CBT 2 Admit Card 2026: रेलवे भर्ती बोर्ड (RRB) ने एएलपी सीबीटी-2 परीक्षा का एडमिट कार्ड जारी कर दिया है। सीबीटी-1 में सफल उम्मीदवार आधिकारिक वेबसाइट से हॉल टिकट डाउनलोड कर सकते हैं। परीक्षा 28 जुलाई 2026 को होगी। रेलवे असिस्टेंट लोको पायलट सीबीटी-2 का एडमिट कार्ड जारी, केंद्र पर ये दस्तावेज लेकर जाएं।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पैरा पावरलिफ्टिंग में पदक लाने से चूके अशोक, महिलाओं में जसप्रीत कौर का शानदार प्रदर्शन",
-          "summary": "Glasgow Commonwealth Games Day 2 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। राष्ट्रमंडल खेलों का आज दूसरा दिन है। पैरा पावरलिफ्टिंग में पदक लाने से चूके अशोक, महिलाओं में जसप्रीत कौर का शानदार प्रदर्शन।",
+          "title": "रेलवे असिस्टेंट लोको पायलट सीबीटी-2 का एडमिट कार्ड जारी, केंद्र पर ये दस्तावेज लेकर जाएं",
+          "summary": "RRB ALP CBT 2 Admit Card 2026: रेलवे भर्ती बोर्ड (RRB) ने एएलपी सीबीटी-2 परीक्षा का एडमिट कार्ड जारी कर दिया है। सीबीटी-1 में सफल उम्मीदवार आधिकारिक वेबसाइट से हॉल टिकट डाउनलोड कर सकते हैं। परीक्षा 28 जुलाई 2026 को होगी। रेलवे असिस्टेंट लोको पायलट सीबीटी-2 का एडमिट कार्ड जारी, केंद्र पर ये दस्तावेज लेकर जाएं।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "मौसम के हिसाब से फ्रिज का तापमान कैसे सेट करें? खाना भी रहेगा ताजा, बिजली की भी होगी बचत",
-      "url": "https://www.amarujala.com/photo-gallery/utility/refrigerator-how-to-set-fridge-temperature-according-to-season-to-keep-food-fresh-and-save-electricity-2026-07-24",
+      "title": "नेशनल टेस्टिंग एजेंसी के 47 अफसर बर्खास्त, कुछ पर होगी कानूनी कार्रवाई",
+      "url": "https://www.amarujala.com/video-shots/short-videos/47-national-testing-agency-officials-dismissed-legal-action-to-be-taken-against-some-2026-07-24",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-24T02:31:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/refrigerator-temperature-settings_4ef5fad5ee1d678b4f6eab630b4ca837.jpeg?w=1200&dpr=1.0",
-      "summary": "अक्सर लोग फ्रिज के अधिक बिजली बिल से बहुत परेशान रहते हैं। बता दें कि ये बहुत कम लोगों को मालूम है कि अगर आप फ्रिज का तापमान मौसम के हिसाब से सेट कर दें, तो बिजली बिल भी कम हो सकेगा और फ्रिज के अंदर का खाना भी नहीं खराब होगा। मौसम के हिसाब से फ्रिज का तापमान कैसे सेट करें?",
-      "region": "Europe & Russia",
+      "published_at": "2026-07-24T03:14:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=1200&dpr=1.0",
+      "summary": "पेपरलीक के खिलाफ चल रहे आंदोलन के बीच सरकार राष्ट्रीय परीक्षा एजेंसी (एनटीए) में बड़ा बदलाव करने वाली है। नेशनल टेस्टिंग एजेंसी के 47 अफसर बर्खास्त, कुछ पर होगी कानूनी कार्रवाई।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मौसम के हिसाब से फ्रिज का तापमान कैसे सेट करें? खाना भी रहेगा ताजा, बिजली की भी होगी बचत",
-          "summary": "अक्सर लोग फ्रिज के अधिक बिजली बिल से बहुत परेशान रहते हैं। बता दें कि ये बहुत कम लोगों को मालूम है कि अगर आप फ्रिज का तापमान मौसम के हिसाब से सेट कर दें, तो बिजली बिल भी कम हो सकेगा और फ्रिज के अंदर का खाना भी नहीं खराब होगा। मौसम के हिसाब से फ्रिज का तापमान कैसे सेट करें?",
-          "region": "यूरोप और रूस"
+          "title": "नेशनल टेस्टिंग एजेंसी के 47 अफसर बर्खास्त, कुछ पर होगी कानूनी कार्रवाई",
+          "summary": "पेपरलीक के खिलाफ चल रहे आंदोलन के बीच सरकार राष्ट्रीय परीक्षा एजेंसी (एनटीए) में बड़ा बदलाव करने वाली है। नेशनल टेस्टिंग एजेंसी के 47 अफसर बर्खास्त, कुछ पर होगी कानूनी कार्रवाई।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "ट्रंप के नए टैरिफ से कनाडा पर कितना पड़ेगा असर; क्या बोले कार्नी, सरकार की जवाब देने की कैसी तैयारी?",
-      "url": "https://www.amarujala.com/world/prime-minister-carney-says-canada-is-ready-to-respond-if-trump-s-new-tariffs-go-into-affect-2026-07-24",
-      "source": "Amar Ujala World",
+      "title": "महिला पैरा पावरलिफ्टिंग में जसप्रीत कौर पदक से चूकीं, पुरुषों में अशोक चौथे स्थान पर रहे",
+      "url": "https://www.amarujala.com/live/sports/commonwealth-games-2026-day-2-live-basketball-boxing-swimming-track-cycling-athletics-results-news-in-hindi-2026-07-24",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-24T02:26:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/mark-carney_867869e1900a82ec3a4a584b3579a585.jpeg?w=1200&dpr=1.0",
-      "summary": "कैनेडा के प्रधानमंत्री जस्टिन ट्रूडो ने घोषणा की है कि वह अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के नए टैरिफ के खिलाफ कानूनी कार्रवाई करने की तैयारी कर रहे हैं। ट्रंप ने 10% टैरिफ लगाने का फैसला किया है, जो कि 1 जुलाई से लागू होगा। कैनेडा की सरकार ने कहा है कि वह अपने नागरिकों की सुरक्षा के लिए हर संभव कदम उठाएगी।",
-      "region": "Americas",
+      "published_at": "2026-07-24T03:13:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/cwg_a4948e9a5713ca5742f48e89c04eac9e.jpeg?w=1200&dpr=1.0",
+      "summary": "Glasgow Commonwealth Games Day 2 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। राष्ट्रमंडल खेलों का आज दूसरा दिन है। पैरा पावरलिफ्टिंग में पदक लाने से चूके अशोक, महिलाओं में जसप्रीत कौर का शानदार प्रदर्शन। महिला पैरा पावरलिफ्टिंग में जसप्रीत कौर पदक से चूकीं, पुरुषों में अशोक चौथे स्थान पर रहे।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ट्रंप के नए टैरिफ से कनाडा पर कितना पड़ेगा असर; क्या बोले कार्नी, सरकार की जवाब देने की कैसी तैयारी?",
-          "summary": "कैनेडा के प्रधानमंत्री जस्टिन ट्रूडो ने घोषणा की है कि वह अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के नए टैरिफ के खिलाफ कानूनी कार्रवाई करने की तैयारी कर रहे हैं। ट्रंप ने 10% टैरिफ लगाने का फैसला किया है, जो कि 1 जुलाई से लागू होगा। कैनेडा की सरकार ने कहा है कि वह अपने नागरिकों की सुरक्षा के लिए हर संभव कदम उठाएगी।",
-          "region": "अमेरिका"
+          "title": "महिला पैरा पावरलिफ्टिंग में जसप्रीत कौर पदक से चूकीं, पुरुषों में अशोक चौथे स्थान पर रहे",
+          "summary": "Glasgow Commonwealth Games Day 2 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। राष्ट्रमंडल खेलों का आज दूसरा दिन है। पैरा पावरलिफ्टिंग में पदक लाने से चूके अशोक, महिलाओं में जसप्रीत कौर का शानदार प्रदर्शन। महिला पैरा पावरलिफ्टिंग में जसप्रीत कौर पदक से चूकीं, पुरुषों में अशोक चौथे स्थान पर रहे।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "दिल्ली पुलिस कांस्टेबल का फिजिकल स्थगित, एडमिट कार्ड भी रद्द; क्यों लिया गया ये फैसला?",
-      "url": "https://www.amarujala.com/jobs/government-jobs/delhi-police-constable-pe-mt-2025-postponed-physical-test-deferred-fresh-admit-cards-to-be-issued-soon-2026-07-24",
+      "title": "केंद्रीय मंत्री रवनीत सिंह बिट्टू ने दिया इस्तीफा: राष्ट्रपति ने किया मंजूर, पंजाब में मिलेगी बड़ी",
+      "url": "https://www.amarujala.com/india-news/president-droupadi-murmu-accepts-ravneet-singh-resignation-union-cabinet-2026-07-24",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-24T02:26:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/delhi-police-pemt-2025-postponed_586bc56df4fad37a5c23e4c9a1162a27.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली पुलिस ने 2025 भर्ती के तहत हेड कांस्टेबल, कांस्टेबल (एग्जीक्यूटिव), ड्राइवर और AWO/TPO पदों के लिए होने वाले PE&MT को प्रशासनिक कारणों से स्थगित कर दिया है। जारी एडमिट कार्ड अब मान्य नहीं होंगे। दिल्ली पुलिस कांस्टेबल का फिजिकल स्थगित, एडमिट कार्ड भी रद्द; क्यों लिया गया ये फैसला?",
-      "region": "Asia-Pacific",
+      "published_at": "2026-07-24T03:02:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/09/ravneet-bittu_ea707b8c6cabd18c8d393d7178531966.jpeg?w=1200&dpr=1.0",
+      "summary": "President Droupadi Murmu accepts ravneet singh resignation union cabinet केंद्रीय मंत्री रवनीत सिंह बिट्टू ने दिया इस्तीफा: राष्ट्रपति ने किया मंजूर, पंजाब में मिलेगी बड़ी जिम्मेदारी?",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दिल्ली पुलिस कांस्टेबल का फिजिकल स्थगित, एडमिट कार्ड भी रद्द; क्यों लिया गया ये फैसला?",
-          "summary": "दिल्ली पुलिस ने 2025 भर्ती के तहत हेड कांस्टेबल, कांस्टेबल (एग्जीक्यूटिव), ड्राइवर और AWO/TPO पदों के लिए होने वाले PE&MT को प्रशासनिक कारणों से स्थगित कर दिया है। जारी एडमिट कार्ड अब मान्य नहीं होंगे। दिल्ली पुलिस कांस्टेबल का फिजिकल स्थगित, एडमिट कार्ड भी रद्द; क्यों लिया गया ये फैसला?",
-          "region": "एशिया-प्रशांत"
+          "title": "केंद्रीय मंत्री रवनीत सिंह बिट्टू ने दिया इस्तीफा: राष्ट्रपति ने किया मंजूर, पंजाब में मिलेगी बड़ी",
+          "summary": "President Droupadi Murmu accepts ravneet singh resignation union cabinet केंद्रीय मंत्री रवनीत सिंह बिट्टू ने दिया इस्तीफा: राष्ट्रपति ने किया मंजूर, पंजाब में मिलेगी बड़ी जिम्मेदारी?",
+          "region": "दुनिया"
         }
       }
     }
