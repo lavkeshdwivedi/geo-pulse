@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-25T10:34:08.359043+00:00",
+  "generated_at": "2026-07-25T11:29:23.954938+00:00",
   "article_count": 50,
-  "total_unique_count": 280,
+  "total_unique_count": 281,
   "digest": {
-    "en": "Indian education minister resigns following nationwide youth protests in India, as protests continue to spread across major cities including New Delhi and Mumbai. Meanwhile, wildfires in France and Spain have forced the evacuation of over 166,000 people, with the situation showing no signs of improvement. In a separate development, Guyanese authorities have confirmed the deaths of 72 people in the sinking of a coastal ferry.",
-    "hi": "दिल्ली में छात्र प्रदर्शन के बाद, संयुक्त राष्ट्र में शांतिपूर्ण विरोध के अधिकार पर चर्चा हो रही है। इसी बीच, भारत में ईरान के राजदूत ने 28 भारतीयों को बचाने की बात कही है।"
+    "en": "Asia-Pacific leads the board this hour with Indian education minister resigns following nationwide youth protests. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, मानवाधिकार का पाठ पढ़ाने वाले यूरोप को ईरान ने आईना दिखाया, पूछा- अब चुप क्यों हो? मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -308,6 +308,42 @@
       "translations": {}
     },
     {
+      "title": "मानवाधिकार का पाठ पढ़ाने वाले यूरोप को ईरान ने आईना दिखाया, पूछा- अब चुप क्यों हो?",
+      "url": "https://hindi.news18.com/world/middle-east-iran-war-live-news-houthi-attack-on-saudi-aramco-live-jizan-refinery-yemen-war-trump-iran-livenews-10688116.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-25T11:20:10+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/saudi-aramco-2026-07-a03a1cd97c880e21191e84edb5d31788-1200x800.jpg",
+      "summary": "Houthi Attack On Saudi Arabia Live: यमन के हूती विद्रोहियों ने सऊदी अरब के जिजान स्थित अरामको रिफाइनरी और औद्योगिक क्षेत्र को निशाना बनाने का दावा किया है. ईरान के प्रेस टीवी के मुताबिक, मिसाइल हमलों के बाद जिजान के कई इलाकों में बिजली आपूर्ति बाधित हुई. यह हमला सऊदी अरब की ओर से हूती कंट्रोल वाले होदेदाह पर की गई एयरस्ट्राइक के कुछ घंटे बाद हुआ.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मानवाधिकार का पाठ पढ़ाने वाले यूरोप को ईरान ने आईना दिखाया, पूछा- अब चुप क्यों हो?",
+          "summary": "Houthi Attack On Saudi Arabia Live: यमन के हूती विद्रोहियों ने सऊदी अरब के जिजान स्थित अरामको रिफाइनरी और औद्योगिक क्षेत्र को निशाना बनाने का दावा किया है. ईरान के प्रेस टीवी के मुताबिक, मिसाइल हमलों के बाद जिजान के कई इलाकों में बिजली आपूर्ति बाधित हुई. यह हमला सऊदी अरब की ओर से हूती कंट्रोल वाले होदेदाह पर की गई एयरस्ट्राइक के कुछ घंटे बाद हुआ.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "साउथ चाइना सी में फिर भिड़े चीन-फिलीपींस! जहाजों पर चली वाटर कैनन, बढ़ा बड़े टकराव का खतरा",
+      "url": "https://hindi.news18.com/world/china-philippines-south-china-sea-scarborough-shoal-water-cannon-china-news-10689054.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-25T10:37:06+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/china-ship-2026-07-7588a80ae244dc7c7d9ee25606183606-1200x800.jpg",
+      "summary": "Chinese coast guard fired water cannon at two Philippine government vessels near Scarborough Shoal on 24 July. The incident was the third sizable confrontation between the two navies in a week. The United States reaffirmed its commitment to defend the Philippines under the mutual defence treaty. साउथ चाइना सी में चीन और फिलीपींस के बीच तनाव एक बार फिर बढ़ गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "साउथ चाइना सी में फिर भिड़े चीन-फिलीपींस! जहाजों पर चली वाटर कैनन, बढ़ा बड़े टकराव का खतरा",
+          "summary": "Chinese coast guard fired water cannon at two Philippine government vessels near Scarborough Shoal on 24 July. The incident was the third sizable confrontation between the two navies in a week. The United States reaffirmed its commitment to defend the Philippines under the mutual defence treaty. साउथ चाइना सी में चीन और फिलीपींस के बीच तनाव एक बार फिर बढ़ गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "‘बिना डर के लोगों को शांतिपूर्ण विरोध करने का मौका मिलना चाहिए’, UN में उठा दिल्ली छात्र प्रदर्शन",
       "url": "https://www.patrika.com/world-news/delhi-protest-issue-raised-in-un-stephane-dujarric-says-people-should-have-the-opportunity-to-protest-peacefully-20776906",
       "source": "Patrika (World)",
@@ -362,24 +398,6 @@
       }
     },
     {
-      "title": "मानवाधिकार का पाठ पढ़ाने वाले यूरोप को ईरान ने आईना दिखाया, पूछा- अब चुप क्यों हो?",
-      "url": "https://hindi.news18.com/world/middle-east-iran-war-live-news-houthi-attack-on-saudi-aramco-live-jizan-refinery-yemen-war-trump-iran-livenews-10688116.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-25T08:11:38+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/saudi-aramco-2026-07-a03a1cd97c880e21191e84edb5d31788-1200x800.jpg",
-      "summary": "Houthi Attack On Saudi Arabia Live: यमन के हूती विद्रोहियों ने सऊदी अरब के जिजान स्थित अरामको रिफाइनरी और औद्योगिक क्षेत्र को निशाना बनाने का दावा किया है. ईरान के प्रेस टीवी के मुताबिक, मिसाइल हमलों के बाद जिजान के कई इलाकों में बिजली आपूर्ति बाधित हुई. यह हमला सऊदी अरब की ओर से हूती कंट्रोल वाले होदेदाह पर की गई एयरस्ट्राइक के कुछ घंटे बाद हुआ.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मानवाधिकार का पाठ पढ़ाने वाले यूरोप को ईरान ने आईना दिखाया, पूछा- अब चुप क्यों हो?",
-          "summary": "Houthi Attack On Saudi Arabia Live: यमन के हूती विद्रोहियों ने सऊदी अरब के जिजान स्थित अरामको रिफाइनरी और औद्योगिक क्षेत्र को निशाना बनाने का दावा किया है. ईरान के प्रेस टीवी के मुताबिक, मिसाइल हमलों के बाद जिजान के कई इलाकों में बिजली आपूर्ति बाधित हुई. यह हमला सऊदी अरब की ओर से हूती कंट्रोल वाले होदेदाह पर की गई एयरस्ट्राइक के कुछ घंटे बाद हुआ.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "रूस-यूक्रेन जंग होगी खत्म? ट्रंप और जेलेंस्की का नया प्लान, पुतिन भी नहीं करेंगे इनकार!",
       "url": "https://hindi.news18.com/world/europe-donald-trump-zelensky-new-peace-plan-russia-putin-ukraine-war-air-ceasefire-10688467.html",
       "source": "News18 Hindi (World)",
@@ -394,24 +412,6 @@
           "title": "रूस-यूक्रेन जंग होगी खत्म? ट्रंप और जेलेंस्की का नया प्लान, पुतिन भी नहीं करेंगे इनकार!",
           "summary": "Russia Ukraine War: यूक्रेन और अमेरिका रूस के सामने शांति वार्ता का नया प्रस्ताव रखने की तैयारी कर रहे हैं. रिपोर्ट के मुताबिक, यह प्रस्ताव युद्ध के बदलते हालात को ध्यान में रखकर तैयार किया जा रहा है. सीमित हवाई युद्धविराम पर पहले की तुलना में ज्यादा गंभीरता से विचार हो रहा है. रूस भी इसके लिए तैयार हो सकता है, क्योंकि लगातार यूक्रेन ने हवाई हमले से अपनी बढ़त बनाई है.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "तीन साल बाद फिर ‘आदिपुरूष’ पर बोले मनोज मुंतशिर, कहा- ‘पीछे मुड़कर देखता हूं तो शर्म आती है’",
-      "url": "https://www.amarujala.com/entertainment/bollywood/lyricist-manoj-muntashir-shared-his-views-about-trolling-of-film-adipurush-2026-07-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-25T07:27:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/falma-aathapanprshha-manaja-matashara_e30b3f1f93f55e55acdefe024e807c78.jpeg?w=1200&dpr=1.0",
-      "summary": "फिल्म ‘आदिपुरूष’ की ट्रोलिंग को लेकर मनोज मुंतशिर ने रिलीज के तीन साल बाद अपनी भावनाएं साझा कीं। जानें क्या कहा मनोज ने - तीन साल बाद फिर ‘आदिपुरूष’ पर बोले मनोज मुंतशिर, कहा- ‘पीछे मुड़कर देखता हूं तो शर्म आती है’।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तीन साल बाद फिर ‘आदिपुरूष’ पर बोले मनोज मुंतशिर, कहा- ‘पीछे मुड़कर देखता हूं तो शर्म आती है’",
-          "summary": "फिल्म ‘आदिपुरूष’ की ट्रोलिंग को लेकर मनोज मुंतशिर ने रिलीज के तीन साल बाद अपनी भावनाएं साझा कीं। जानें क्या कहा मनोज ने - तीन साल बाद फिर ‘आदिपुरूष’ पर बोले मनोज मुंतशिर, कहा- ‘पीछे मुड़कर देखता हूं तो शर्म आती है’।",
-          "region": "दुनिया"
         }
       }
     },
@@ -484,24 +484,6 @@
           "title": "ईरान के कुंभकरण के पास ऐसे खतरनाक हथियार, जो मिडिल ईस्ट की लंका लगा देंगे! मिसाइल से ड्रोन तक खेप",
           "summary": "Houthi Weapons: हूती विद्रोही दुनिया के सबसे शक्तिशाली संगठन गैर-राज्य सैन्य ताकत में से एक के रूप में उभरे हैं. रेड सी यानी लाल सागर में जहाजरानी को धमकाने के लिए वे एंटी-शिप बैलिस्टिक मिसाइल, क्रूज मिसाइल, ड्रोन और विस्फोटक नौकाओं का इस्तेमाल कर रहे हैं. अमेरिका और इजरायल से चल रही जंग में ईरान के साथ जय-वीरू बने हूती ग्रुप के पास किसी देश की सेना जैसी ताकत है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "2000 से अधिक क्रिमिनल, 15 एफआईआर, 130 पुलिसकर्मी घायल, पुलिस ने दी सारी जानकारी",
-      "url": "https://www.amarujala.com/delhi-ncr/delhi-police-revelation-over-2000-criminals-identified-via-frs-cameras-during-cjp-protests-2026-07-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-25T06:14:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/thall-palsa-ka-khalsa_39d7a74cd80778d9c5cae2a9411807ba.jpeg?w=1200&dpr=1.0",
-      "summary": "CJP Protest Updates: दिल्ली पुलिस ने फेशियल रिकग्निशन सिस्टम (एफआरएस) की मदद से 2000 से अधिक आपराधिक पृष्ठभूमि वाले लोगों की पहचान की है। 2000 से अधिक क्रिमिनल, 15 एफआईआर, 130 पुलिसकर्मी घायल, पुलिस ने दी सारी जानकारी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "2000 से अधिक क्रिमिनल, 15 एफआईआर, 130 पुलिसकर्मी घायल, पुलिस ने दी सारी जानकारी",
-          "summary": "CJP Protest Updates: दिल्ली पुलिस ने फेशियल रिकग्निशन सिस्टम (एफआरएस) की मदद से 2000 से अधिक आपराधिक पृष्ठभूमि वाले लोगों की पहचान की है। 2000 से अधिक क्रिमिनल, 15 एफआईआर, 130 पुलिसकर्मी घायल, पुलिस ने दी सारी जानकारी।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -754,6 +736,24 @@
           "title": "ईरान पर अमेरिकी के दो अलग दावे! रक्षा मंत्री ने कहा- रूस-चीन संघर्ष में शामिल, डोनाल्ड ट्रंप बोले-",
           "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि रूस और चीन ईरान की मदद नहीं करेंगे, नहीं तो उन्हें नुकसान उठाना पड़ेगा। Donald Trump warns Russia China: ईरान जंग को लेकर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बड़ा बयान दिया है। उन्होंने कहा कि उन्हें भरोसा है कि रूस और चीन ईरान की मदद नहीं करेंगे। उन्होंने साफ कहा कि अगर दोनों देशों ने ईरान का साथ दिया तो इसका नुकसान उन्हें ही उठाना पड़ेगा।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'धर्मेंद्र प्रधान ने इस्तीफा नहीं दिया तो...', CJP का क्या है 'प्लान बी'? आशुतोष रांका ने दिया जवाब",
+      "url": "https://www.abplive.com/news/india/ashutosh-ranka-cockroach-janta-party-dharmendra-pradhan-resignation-government-meeting-neet-paper-leak-nta-officials-3165288",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-25T02:45:49+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/25/1a73b5096628a1bb8feb828d6ab007b31784947823776425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "केंद्र सरकार के साथ हुई बैठक के बाद कॉकरोच जनता पार्टी ने साफ कर दिया है कि उसकी सबसे बड़ी मांग केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान का इस्तीफा है. पार्टी के राष्ट्रीय प्रवक्ता आशुतोष रंका ने कहा कि मुआवजे और कानूनी मामलों पर सरकार की ओर से सकारात्मक रुख जरूर देखने को मिला है, लेकिन धर्मेंद्र प्रधान के इस्तीफे पर अब तक कोई ठोस फैसला नहीं हुआ.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'धर्मेंद्र प्रधान ने इस्तीफा नहीं दिया तो...', CJP का क्या है 'प्लान बी'? आशुतोष रांका ने दिया जवाब",
+          "summary": "केंद्र सरकार के साथ हुई बैठक के बाद कॉकरोच जनता पार्टी ने साफ कर दिया है कि उसकी सबसे बड़ी मांग केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान का इस्तीफा है. पार्टी के राष्ट्रीय प्रवक्ता आशुतोष रंका ने कहा कि मुआवजे और कानूनी मामलों पर सरकार की ओर से सकारात्मक रुख जरूर देखने को मिला है, लेकिन धर्मेंद्र प्रधान के इस्तीफे पर अब तक कोई ठोस फैसला नहीं हुआ.",
+          "region": "दुनिया"
         }
       }
     }
