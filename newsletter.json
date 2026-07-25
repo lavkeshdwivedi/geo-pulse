@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-07-25T05:07:35.213189+00:00",
+  "generated_at": "2026-07-25T06:52:25.454999+00:00",
   "article_count": 50,
-  "total_unique_count": 280,
+  "total_unique_count": 281,
   "digest": {
-    "en": "Over 1,66,000 people have been evacuated in France and Spain as wildfires spin out of control. Meanwhile, the US and Iran continue to engage in a high-stakes standoff, with Trump describing Iran as \"far more serious\" in talks. In a separate development, ICICI Bank has priced $1 billion in debt at a tighter spread.",
-    "hi": "सऊदी अरब ने यमन पर हवाई हमले किए, जिससे अरामको रिफाइनरी पर हमला हुआ। हूतियों ने तुरंत जवाबी हमला किया। इस हमले के बाद भारत के पेट्रोल-डीजल के दाम फिर से बढ़ने की संभावना है।"
+    "en": "Ukraine's internal conflict dominates headlines. Wildfires in France and Spain have evacuated over 1,66,000 people. SG Youth Plan aims to reach half a million.",
+    "hi": "बिहार बंद का असर देश के कई हिस्सों में देखा जा रहा है, जिसमें इंटरनेट सेवाएं भी बंद कर दी गई हैं। इस बंद के कारण कई जिलों में स्थिति तनावपूर्ण है, जबकि कुछ जगहों पर प्रदर्शनकारियों ने सड़कों पर उतरकर अपनी मांगों को लेकर नारे लगाए।"
   },
   "articles": [
+    {
+      "title": "Politicians vs generals: Ukraine’s long, hidden war within",
+      "url": "https://asiatimes.com/2026/07/politicians-vs-generals-ukraines-long-hidden-war-within/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-25T06:07:03+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Zelensky-Ukraine.jpg",
+      "summary": "The Ukrainian president, Volodymyr Zelensky, has dismissed the country’s commander-in-chief, Oleksandr Syrskyi, after a turbulent week in which he also removed his defense minister, Mykhailo Fedorov. The dismissal of the popular defense minister, who is credited by many as the brains behind Ukraine’s successful drone strategy, brought thousands onto the streets in protest. Despite the [] The post Politicians vs generals: Ukraine’s long, hidden war within.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Over 1,66,000 evacuated as wildfires spin out of control in France, Spain",
+      "url": "https://www.thehindu.com/news/international/166000-evacuated-as-wildfires-spin-out-of-control-in-france-spain/article71264193.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-25T05:52:37+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/173eyj/article71264699.ece/alternates/LANDSCAPE_1200/2026-07-24T222513Z_1981115009_RC2FKMAS3Y2G_RTRMADP_3_EUROPE-WEATHER-SPAIN-WILDFIRE.JPG",
+      "summary": "French President Emmanuel Macron on July 24, asked the army to mobilise to help contain the worst wildfire the country has ever seen after seeking European Union help, as a local official warned the blaze was heading towards Bordeaux 166,000 evacuated as wildfires spin out of control in France, Spain. Over 1,66,000 evacuated as wildfires spin out of control in France, Spain.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "More job tasters, credits to explore hobbies: SG Youth Plan aims to reach over half a million",
+      "url": "https://www.channelnewsasia.com/singapore/youth-plan-job-tasters-curiosity-credits-david-neo-mccy-6275276",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-07-25T05:43:34+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--149lD3WA--/c_crop,h_1125,w_2000,x_0,y_133/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/24/david_neo_mccy_minister07.jpg?itok=6lqY4bD6",
+      "summary": "The national plan for youth development is a “living plan” that will constantly evolve to respond to changing needs and anxieties of youths in the coming years, said Acting Minister for Culture, Community and Youth David Neo. More job tasters, credits to explore hobbies: SG Youth Plan aims to reach over half a million.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Will Trump’s bunker buster bombs punch through Iran’s Pickaxe Mountain?",
+      "url": "https://www.thehindu.com/sci-tech/science/trump-bunker-buster-bombs-punch-through-iran-pickaxe-mountain-centrifuges/article71256189.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-25T04:56:18+00:00",
+      "image_url": "https://th-i.thgim.com/public/sci-tech/science/xmonen/article71256191.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-23%20at%207.19.17%E2%80%AFAM.png",
+      "summary": "The U. S. faces a complex challenge at Iran’s Pickaxe Mountain, where powerful bunker buster bombs face hardy geological formations. Success is also limited by a critical minerals crunch, and could force Trump to shift from total destruction to disabling surface infrastructure and subterranean access tunnels Will Trump’s bunker buster bombs punch through Iran’s Pickaxe Mountain?",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "The hidden workers behind Indonesia’s digital boom",
       "url": "https://asiatimes.com/2026/07/blind-spot-the-hidden-workers-behind-indonesias-digital-boom/",
@@ -16,18 +64,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Indonesia-Digital-Economy-2.jpg",
       "summary": "Today, Indonesia stands as one of the most formidable digital economic powerhouses in Southeast Asia. Bank Indonesia recorded digital payment transaction volumes reaching 5.22 billion in May 2026, marking 28.14% year-on-year growth. Meanwhile, QRIS transactions. the country’s standardized QR payment system. surged by an astounding 95.10%. Yet, beneath this rapid digitalization lies a [] The pos The hidden workers behind Indonesia’s digital boom.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Over 1,66,000 evacuated as wildfires spin out of control in France, Spain",
-      "url": "https://www.thehindu.com/news/international/166000-evacuated-as-wildfires-spin-out-of-control-in-france-spain/article71264193.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-25T01:48:50+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/173eyj/article71264699.ece/alternates/LANDSCAPE_1200/2026-07-24T222513Z_1981115009_RC2FKMAS3Y2G_RTRMADP_3_EUROPE-WEATHER-SPAIN-WILDFIRE.JPG",
-      "summary": "French President Emmanuel Macron on July 24, asked the army to mobilise to help contain the worst wildfire the country has ever seen after seeking European Union help, as a local official warned the blaze was heading towards Bordeaux 166,000 evacuated as wildfires spin out of control in France, Spain. Over 1,66,000 evacuated as wildfires spin out of control in France, Spain.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -88,30 +124,6 @@
       "image_url": "https://gdb.rferl.org/e981e8ce-c633-40f1-181b-08decad58b60_cx0_cy15_cw0_w1200_h630.jpg",
       "summary": "Russia's deepening partnerships with China, Iran, and North Korea represent one of the most significant geopolitical realignments driven by the war in Ukraine. Yet according to Andrea Kendall-Taylor, viewing this grouping through the lens of a traditional military alliance misses the bigger picture. Russia's 'Axis Of Upheaval' Is Built To Last Beyond Ukraine, Analyst Kendall-Taylor Says.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israeli military kills four Palestinians after settler killed in West Bank",
-      "url": "https://www.thehindu.com/news/international/israeli-military-kills-four-palestinians-after-settler-killed-in-west-bank/article71263472.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-24T15:52:10+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/1efkk4/article71263488.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_46492.jpg",
-      "summary": "Two other Israelis and four more Palestinians were wounded, health officials said, and the Israeli military announced it was preparing for an “extensive” counterterror operation in the West Bank, with troops surrounding the town of Nablus Israeli military kills four Palestinians after settler killed in West Bank.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "ICICI Bank prices $1 billion debt at tighter spread",
-      "url": "https://www.thehindu.com/news/international/icici-bank-prices-1-billion-debt-at-tighter-spread/article71263393.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-24T15:41:44+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/wr3w1/article71263410.ece/alternates/LANDSCAPE_1200/2026-07-18T101633Z_1905004370_RC2YI0APFNQE_RTRMADP_3_ICICI-BANK-RESULTS.JPG",
-      "summary": "The bank set the ​coupon at 100 basis points over U. S. Treasuries, sharply ⁠lower the initial guidance of 130 basis points, for its first dollar debt sale in nearly nine years. The coupon works out to be ‌5.46%. ICICI Bank prices $1 billion debt at tighter spread.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -296,23 +308,47 @@
       "translations": {}
     },
     {
-      "title": "Hasina’s return from India would imperil Bangladesh’s sovereignty",
-      "url": "https://asiatimes.com/2026/07/hasinas-return-from-india-would-imperil-bangladeshs-sovereignty/",
-      "source": "Asia Times",
+      "title": "क्या इसे लोकतांत्रिक संस्कृति के नए अध्याय का आरंभ कहें?",
+      "url": "https://www.amarujala.com/columns/blog/pm-modi-video-message-on-protest-is-this-a-new-chapter-in-democratic-culture-2026-07-25",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-23T09:58:52+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2025/11/Modi-Hasina-Bangladesh-India.jpg",
-      "summary": "To say Bangladesh’s former Prime Minister Sheikh Hasina left office in disgrace would be an understatement by any political measure. Ousted following the student-led uprising of August 2024, she fled the country after months of deadly protests and years of increasingly authoritarian rule marked by enforced disappearances, arbitrary arrests, the suppression of political opponents and [] The post H Hasina’s return from India would imperil Bangladesh’s sovereignty.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-25T06:40:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/narendra-modi_192c92124f8281ad945e47e2bb858329.jpeg?w=1200&dpr=1.0",
+      "summary": "Prime Minister Narendra Modi posted a short Instagram video aimed at youth that reached over 20 million viewers within hours. The clip featured Modi speaking in Hindi about civic engagement and was shared by more than 500,000 accounts. The rapid spread sparked debate over the role of social media in shaping political discourse. The government has not issued a statement on the video’s impact.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या इसे लोकतांत्रिक संस्कृति के नए अध्याय का आरंभ कहें?",
+          "summary": "Prime Minister Narendra Modi posted a short Instagram video aimed at youth that reached over 20 million viewers within hours. The clip featured Modi speaking in Hindi about civic engagement and was shared by more than 500,000 accounts. The rapid spread sparked debate over the role of social media in shaping political discourse. The government has not issued a statement on the video’s impact.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "एक्स ने हड़प लिए 52 लाख रुपये, AI की मदद से शख्स ने जीत लिया लाखों का केस, जानें कैसे",
+      "url": "https://www.amarujala.com/bizarre-news/uk-firefighter-wins-5-2-million-rupees-court-battle-against-ex-girlfriend-with-ai-help-viral-story-2026-07-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-25T06:35:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/eaaii-ka-mathatha-sa-jata-kasa_05e813813e6cfa4200247b04fa5cec6d.jpeg?w=1200&dpr=1.0",
+      "summary": "ब्रिटेन के फायरफाइटर क्रेग टिटचेनर ने अपनी एक्स-गर्लफ्रेंड से 52 लाख रुपये वापस पाने के लिए महंगे वकीलों की जगह ChatGPT का सहारा लिया। एक्स ने हड़प लिए 52 लाख रुपये, AI की मदद से शख्स ने जीत लिया लाखों का केस, जानें कैसे।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एक्स ने हड़प लिए 52 लाख रुपये, AI की मदद से शख्स ने जीत लिया लाखों का केस, जानें कैसे",
+          "summary": "ब्रिटेन के फायरफाइटर क्रेग टिटचेनर ने अपनी एक्स-गर्लफ्रेंड से 52 लाख रुपये वापस पाने के लिए महंगे वकीलों की जगह ChatGPT का सहारा लिया। एक्स ने हड़प लिए 52 लाख रुपये, AI की मदद से शख्स ने जीत लिया लाखों का केस, जानें कैसे।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "सऊदी ने यमन पर बरसाए बम, हूतियों ने तुरंत लिया बदला, अरामको रिफाइनरी पर हमला",
       "url": "https://hindi.news18.com/world/middle-east-iran-war-live-news-houthi-attack-on-saudi-aramco-live-jizan-refinery-yemen-war-trump-iran-livenews-10688116.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-25T05:03:21+00:00",
+      "published_at": "2026-07-25T06:35:48+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/saudi-aramco-2026-07-a03a1cd97c880e21191e84edb5d31788-1200x800.jpg",
       "summary": "Houthi Attack On Saudi Arabia Live: यमन के हूती विद्रोहियों ने सऊदी अरब के जिजान स्थित अरामको रिफाइनरी और औद्योगिक क्षेत्र को निशाना बनाने का दावा किया है. ईरान के प्रेस टीवी के मुताबिक, मिसाइल हमलों के बाद जिजान के कई इलाकों में बिजली आपूर्ति बाधित हुई. यह हमला सऊदी अरब की ओर से हूती कंट्रोल वाले होदेदाह पर की गई एयरस्ट्राइक के कुछ घंटे बाद हुआ.",
       "region": "Middle East & Africa",
@@ -326,74 +362,20 @@
       }
     },
     {
-      "title": "लाल सागर और होर्मुज संकट, क्या भारत के पेट्रोल-डीजल दाम फिर बढ़ेंगे? जानिए ताजा हालात के बारे में",
-      "url": "https://www.amarujala.com/business/business-diary/red-sea-and-hormuz-crisis-will-india-s-petrol-diesel-prices-rise-again-2026-07-25",
-      "source": "Amar Ujala National",
+      "title": "एक ट्रैक्टर वाले की करतूत से झुलस रहे स्पेन और फ्रांस, घर-घर में घुसा धुंआ, एक लाख बेघर",
+      "url": "https://hindi.news18.com/world/europe-spain-france-wildfire-tractor-driver-arrest-one-lakh-evacuated-10688372.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-25T05:01:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/01/crude-oil-tankers_185daeb18a8f2c6f2e34694123576b50.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान की ओर से बाब अल-मंदेब जलमार्ग बंद करने की तैयारी से वैश्विक तेल व्यापार पर संकट गहराया है। जानें कैसे लाल सागर और होर्मुज जलडमरूमध्य का दोहरा व्यवधान भारत की अर्थव्यवस्था, निर्यात और ईंधन की कीमतों को प्रभावित कर सकता है। लाल सागर और होर्मुज संकट, क्या भारत के पेट्रोल-डीजल दाम फिर बढ़ेंगे? जानिए ताजा हालात के बारे में।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लाल सागर और होर्मुज संकट, क्या भारत के पेट्रोल-डीजल दाम फिर बढ़ेंगे? जानिए ताजा हालात के बारे में",
-          "summary": "ईरान की ओर से बाब अल-मंदेब जलमार्ग बंद करने की तैयारी से वैश्विक तेल व्यापार पर संकट गहराया है। जानें कैसे लाल सागर और होर्मुज जलडमरूमध्य का दोहरा व्यवधान भारत की अर्थव्यवस्था, निर्यात और ईंधन की कीमतों को प्रभावित कर सकता है। लाल सागर और होर्मुज संकट, क्या भारत के पेट्रोल-डीजल दाम फिर बढ़ेंगे? जानिए ताजा हालात के बारे में।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सिंह समेत 5 राशियों के लिए अगस्त रहेगा शुभ, प्रमोशन और धन लाभ के संकेत",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/august-lucky-zodiac-signs-leo-and-4-zodiac-signs-may-receive-career-growth-and-wealth-in-august-2026-07-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-25T05:01:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/agasata-2026-lka-rashaya_52aaeb21acbb1127377888786cacb3e5.jpeg?w=1200&dpr=1.0",
-      "summary": "अगस्त 2026 में होने वाले प्रमुख ग्रह गोचर और बनने वाले शुभ योग कई राशियों के लिए सकारात्मक बदलाव लेकर आ सकते हैं। विशेष रूप से कुछ राशि के जातकों को करियर में उन्नति, आर्थिक लाभ, पारिवारिक सुख और सामाजिक सम्मान मिलने की संभावना है। सिंह समेत 5 राशियों के लिए अगस्त रहेगा शुभ, प्रमोशन और धन लाभ के संकेत।",
+      "published_at": "2026-07-25T06:34:12+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/fire-4-2026-07-e359973b7404d3c3ec6438e52b1fb05c-1200x800.jpg",
+      "summary": "Spain Ki Aag: स्पेन और फ्रांस इस समय भीषण जंगल की आग से जूझ रहे हैं. स्पेन में पुलिस ने एक ट्रैक्टर चालक को आग भड़काने के आरोप में गिरफ्तार किया है, जबकि एक अन्य व्यक्ति की जांच चल रही है. दोनों देशों में अब तक एक लाख से ज्यादा लोगों को घर छोड़ने पड़े हैं. स्पेन में पहली बार राष्ट्रीय वाइल्डफायर इमरजेंसी घोषित की गई है.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सिंह समेत 5 राशियों के लिए अगस्त रहेगा शुभ, प्रमोशन और धन लाभ के संकेत",
-          "summary": "अगस्त 2026 में होने वाले प्रमुख ग्रह गोचर और बनने वाले शुभ योग कई राशियों के लिए सकारात्मक बदलाव लेकर आ सकते हैं। विशेष रूप से कुछ राशि के जातकों को करियर में उन्नति, आर्थिक लाभ, पारिवारिक सुख और सामाजिक सम्मान मिलने की संभावना है। सिंह समेत 5 राशियों के लिए अगस्त रहेगा शुभ, प्रमोशन और धन लाभ के संकेत।",
+          "title": "एक ट्रैक्टर वाले की करतूत से झुलस रहे स्पेन और फ्रांस, घर-घर में घुसा धुंआ, एक लाख बेघर",
+          "summary": "Spain Ki Aag: स्पेन और फ्रांस इस समय भीषण जंगल की आग से जूझ रहे हैं. स्पेन में पुलिस ने एक ट्रैक्टर चालक को आग भड़काने के आरोप में गिरफ्तार किया है, जबकि एक अन्य व्यक्ति की जांच चल रही है. दोनों देशों में अब तक एक लाख से ज्यादा लोगों को घर छोड़ने पड़े हैं. स्पेन में पहली बार राष्ट्रीय वाइल्डफायर इमरजेंसी घोषित की गई है.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने खाड़ी क्षेत्र में अमेरिकी ठिकानों को निशाना बनाया, सऊदी ने यमन में बरसाए बम",
-      "url": "https://www.amarujala.com/live/world/west-asia-tension-live-us-iran-war-israel-trump-centcom-airstrikes-hormuz-pezeshkian-irgc-hindi-news-updates-2026-07-25",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-25T04:57:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/06/west-asia-crisis-live-us-iran-israel-war-day-7-us-army-irgc-turkiye-war-updates-and-news-in-hin_a0aa2afe0c126f011b15e33e5f2007e2.gif?w=1200&dpr=1.0",
-      "summary": "अमेरिकी सेना ने ईरान पर हमलों का दायरा बढ़ाया। राष्ट्रपति ट्रंप ने कहा कि अमेरिका शांति चाहता है लेकिन मजबूती से जवाब देगा। ईरान के साथ तनाव बढ़ रहा है। West Asia Tension LIVE: ईरान पर अमेरिकी सेना के हमलों का दायरा बढ़ा, जंग पर राष्ट्रपति ट्रंप क्या बोले? ईरान ने खाड़ी क्षेत्र में अमेरिकी ठिकानों को निशाना बनाया, सऊदी ने यमन में बरसाए बम।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने खाड़ी क्षेत्र में अमेरिकी ठिकानों को निशाना बनाया, सऊदी ने यमन में बरसाए बम",
-          "summary": "अमेरिकी सेना ने ईरान पर हमलों का दायरा बढ़ाया। राष्ट्रपति ट्रंप ने कहा कि अमेरिका शांति चाहता है लेकिन मजबूती से जवाब देगा। ईरान के साथ तनाव बढ़ रहा है। West Asia Tension LIVE: ईरान पर अमेरिकी सेना के हमलों का दायरा बढ़ा, जंग पर राष्ट्रपति ट्रंप क्या बोले? ईरान ने खाड़ी क्षेत्र में अमेरिकी ठिकानों को निशाना बनाया, सऊदी ने यमन में बरसाए बम।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "डीयू ने चार साल के यूजी डिग्री के बाद सीधे PhD की दी अनुमति, एकेडमिक काउंसिल सदस्यों ने जताई चिंता",
-      "url": "https://www.amarujala.com/education/du-allows-four-year-ug-students-to-pursue-phd-directly-ac-members-flag-concerns-2026-07-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-25T04:55:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/07/24/du-delhi-university_a262da528112a188e3fc4f4f538c2ffd.jpeg?w=1200&dpr=1.0",
-      "summary": "DU PhD Admission: दिल्ली विश्वविद्यालय (DU) ने चार वर्षीय स्नातक (UG) कार्यक्रम पूरा करने वाले छात्रों को सीधे पीएचडी में प्रवेश देने का रास्ता खोल दिया है। डीयू ने चार साल के यूजी डिग्री के बाद सीधे PhD की दी अनुमति, एकेडमिक काउंसिल सदस्यों ने जताई चिंता।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डीयू ने चार साल के यूजी डिग्री के बाद सीधे PhD की दी अनुमति, एकेडमिक काउंसिल सदस्यों ने जताई चिंता",
-          "summary": "DU PhD Admission: दिल्ली विश्वविद्यालय (DU) ने चार वर्षीय स्नातक (UG) कार्यक्रम पूरा करने वाले छात्रों को सीधे पीएचडी में प्रवेश देने का रास्ता खोल दिया है। डीयू ने चार साल के यूजी डिग्री के बाद सीधे PhD की दी अनुमति, एकेडमिक काउंसिल सदस्यों ने जताई चिंता।",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -402,7 +384,7 @@
       "url": "https://www.amarujala.com/live/bihar/patna/live-update-on-protest-during-bihar-band-in-bihar-news-live-protest-against-neet-paper-leak-dharmendra-pradhan-2026-07-25",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-25T04:55:32+00:00",
+      "published_at": "2026-07-25T06:26:59+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/bihar-band-update-live-in-hindi_3da2861dac1c56eaad56eed2412c077f.jpeg?w=1200&dpr=1.0",
       "summary": "Bihar News: आज बिहार बंद है। दिल्ली के जंतर-मंतर पर हुए हंगामे के अगले दिन पटना में हुए भारी उपद्रव की कड़ी में आज वामपंथी छात्र संगठनों के बंद को पहले वामदलों ने फिर पूरे महागठबंधन से समर्थन दिया है। इस कारण जनजीवन सुबह से प्रभावित है। आज बिहार बंद का कहां-कैसा असर, किन जिलों में इंटरनेट बंद? जानें हर अपडेट।",
       "region": "Asia-Pacific",
@@ -416,344 +398,362 @@
       }
     },
     {
-      "title": "बैंगन पसंद नहीं? ये 3 रेसिपी खाकर बच्चे भी कहेंगे- और बनाइए!",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/easy-baingan-recipes-for-kids-in-hindi-baingan-se-banaye-3-tasty-dish-2026-07-25",
+      "title": "'वह मर जाता', 'रेसिडेंट ईविल' के निर्देशक ने शूटिंग के वक्त के हादसे का किया जिक्र; बाल-बाल बचे थे",
+      "url": "https://www.amarujala.com/entertainment/hollywood/resident-evil-director-zach-cregger-reveals-how-austin-abrams-faced-a-near-death-experience-2026-07-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-25T04:53:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/baingan-recipe_c05e168d112ac1acde2e2a0bc7e07c14.jpeg?w=1200&dpr=1.0",
-      "summary": "Easy Baingan Recipes For Kids: बैंगन से बनाएं 3 स्वादिष्ट और आसान डिश, जिन्हें बच्चे भी बड़े चाव से खाएंगे। जानिए बैंगन पिज्जा, स्टफ्ड रोल और चीज़ कटलेट की आसान रेसिपी और हेल्दी टिप्स। बैंगन पसंद नहीं? ये 3 रेसिपी खाकर बच्चे भी कहेंगे- और बनाइए!",
+      "published_at": "2026-07-25T06:26:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/jaka-karagara-rasadata-iival_f4b3962b667c235c84d607c80ea1558b.jpeg?w=1200&dpr=1.0",
+      "summary": "'रेसिडेंट ईविल' के निर्देशक जैक क्रेगर ने अपनी फिल्म में हुए एक हादसे के बारे में बताया है। 'वह मर जाता', 'रेसिडेंट ईविल' के निर्देशक ने शूटिंग के वक्त के हादसे का किया जिक्र; बाल-बाल बचे थे।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बैंगन पसंद नहीं? ये 3 रेसिपी खाकर बच्चे भी कहेंगे- और बनाइए!",
-          "summary": "Easy Baingan Recipes For Kids: बैंगन से बनाएं 3 स्वादिष्ट और आसान डिश, जिन्हें बच्चे भी बड़े चाव से खाएंगे। जानिए बैंगन पिज्जा, स्टफ्ड रोल और चीज़ कटलेट की आसान रेसिपी और हेल्दी टिप्स। बैंगन पसंद नहीं? ये 3 रेसिपी खाकर बच्चे भी कहेंगे- और बनाइए!",
+          "title": "'वह मर जाता', 'रेसिडेंट ईविल' के निर्देशक ने शूटिंग के वक्त के हादसे का किया जिक्र; बाल-बाल बचे थे",
+          "summary": "'रेसिडेंट ईविल' के निर्देशक जैक क्रेगर ने अपनी फिल्म में हुए एक हादसे के बारे में बताया है। 'वह मर जाता', 'रेसिडेंट ईविल' के निर्देशक ने शूटिंग के वक्त के हादसे का किया जिक्र; बाल-बाल बचे थे।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "चलती ट्रक का फटा टायर, अगले ही पल दूसरे ड्राइवर ने किया ऐसा कि फिर जो हुआ, देखें वीडियो",
-      "url": "https://www.amarujala.com/bizarre-news/truck-tire-burst-viral-video-highway-driver-presence-of-mind-avoids-major-accident-truck-driver-viral-video-2026-07-25",
+      "title": "'छात्रों की तीन मांगे हैं, इनपर कोई समझौता नहीं होगा', राहुल गांधी ने केंद्र के सामने रखी शर्तें",
+      "url": "https://www.amarujala.com/india-news/rahul-gandhi-press-conference-neet-paper-leak-row-congress-bjp-delhi-student-protest-cjp-sonam-wangchuk-2026-07-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-25T04:51:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/tayara-fatana-ka-vajaha-sa-asatalta-haaa-taraka_77591edbe367e17aa1c05b02c25a15f0.jpeg?w=1200&dpr=1.0",
-      "summary": "हाईवे पर रिकॉर्ड हुए एक वीडियो ने सोशल मीडिया पर लोगों का ध्यान खींच लिया है। वीडियो में तेज रफ्तार से चल रहे एक ट्रक का टायर अचानक फट जाता है, जिससे उसका संतुलन बिगड़ने लगता है और पलटने का खतरा पैदा हो जाता है। चलती ट्रक का फटा टायर, अगले ही पल दूसरे ड्राइवर ने किया ऐसा कि फिर जो हुआ, देखें वीडियो।",
+      "published_at": "2026-07-25T06:24:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/rahul-gandhi-press-conference-neet-paper-leak-row-congress-bjp-delhi-student-protest-cjp-sonam_63d0f6352bf5cab9d558edffb9ead985.jpeg?w=1200&dpr=1.0",
+      "summary": "Rahul Gandhi Press Conference; NEET Paper Leak Row, Congress, BJP, Delhi Student Protest, CJP, Sonam Wangchuk - Rahul Gandhi Press Conference: थोड़ी देर में राहुल गांधी की प्रेस वार्ता, पेपर लीक समेत मुद्दों पर करेंगे बात 'छात्रों की तीन मांगे हैं, इनपर कोई समझौता नहीं होगा', राहुल गांधी ने केंद्र के सामने रखी शर्तें।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'छात्रों की तीन मांगे हैं, इनपर कोई समझौता नहीं होगा', राहुल गांधी ने केंद्र के सामने रखी शर्तें",
+          "summary": "Rahul Gandhi Press Conference; NEET Paper Leak Row, Congress, BJP, Delhi Student Protest, CJP, Sonam Wangchuk - Rahul Gandhi Press Conference: थोड़ी देर में राहुल गांधी की प्रेस वार्ता, पेपर लीक समेत मुद्दों पर करेंगे बात 'छात्रों की तीन मांगे हैं, इनपर कोई समझौता नहीं होगा', राहुल गांधी ने केंद्र के सामने रखी शर्तें।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान के कुंभकरण के पास ऐसे खतरनाक हथियार, जो मिडिल ईस्ट की लंका लगा देंगे! मिसाइल से ड्रोन तक खेप",
+      "url": "https://hindi.news18.com/news/knowledge/iran-aide-houthi-group-arsenal-dangerous-weapons-from-cruise-missile-to-drones-in-red-sea-middle-east-10688373.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-25T06:21:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Untitled-design-2026-07-25T114111.158-2026-07-25a56b9ccbabea51f93fc88dff6c40b3-1200x800.jpg",
+      "summary": "Houthi Weapons: हूती विद्रोही दुनिया के सबसे शक्तिशाली संगठन गैर-राज्य सैन्य ताकत में से एक के रूप में उभरे हैं. रेड सी यानी लाल सागर में जहाजरानी को धमकाने के लिए वे एंटी-शिप बैलिस्टिक मिसाइल, क्रूज मिसाइल, ड्रोन और विस्फोटक नौकाओं का इस्तेमाल कर रहे हैं. अमेरिका और इजरायल से चल रही जंग में ईरान के साथ जय-वीरू बने हूती ग्रुप के पास किसी देश की सेना जैसी ताकत है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के कुंभकरण के पास ऐसे खतरनाक हथियार, जो मिडिल ईस्ट की लंका लगा देंगे! मिसाइल से ड्रोन तक खेप",
+          "summary": "Houthi Weapons: हूती विद्रोही दुनिया के सबसे शक्तिशाली संगठन गैर-राज्य सैन्य ताकत में से एक के रूप में उभरे हैं. रेड सी यानी लाल सागर में जहाजरानी को धमकाने के लिए वे एंटी-शिप बैलिस्टिक मिसाइल, क्रूज मिसाइल, ड्रोन और विस्फोटक नौकाओं का इस्तेमाल कर रहे हैं. अमेरिका और इजरायल से चल रही जंग में ईरान के साथ जय-वीरू बने हूती ग्रुप के पास किसी देश की सेना जैसी ताकत है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "विश्व जूनियर स्क्वैश चैंपियन बनकर इतिहास रच पाएंगी 18 साल की अनाहत सिंह? खिताब से बस एक जीत दूर",
+      "url": "https://www.amarujala.com/photo-gallery/sports/anahat-singh-reaches-world-junior-squash-final-first-indian-since-2005-joshna-chinappa-2026-07-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-25T06:15:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/anahat-singh-world-junior-squash-championship-joshna-chinappa-india-squash-ruqayya-salem-world_d364413b4f9e597b28284185cfbfaf88.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत की शीर्ष वरीयता प्राप्त स्क्वैश खिलाड़ी अनाहत सिंह ने विश्व जूनियर स्क्वैश चैंपियनशिप के फाइनल में जगह बनाकर इतिहास रच दिया है। विश्व जूनियर स्क्वैश चैंपियन बनकर इतिहास रच पाएंगी 18 साल की अनाहत सिंह? खिताब से बस एक जीत दूर।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विश्व जूनियर स्क्वैश चैंपियन बनकर इतिहास रच पाएंगी 18 साल की अनाहत सिंह? खिताब से बस एक जीत दूर",
+          "summary": "भारत की शीर्ष वरीयता प्राप्त स्क्वैश खिलाड़ी अनाहत सिंह ने विश्व जूनियर स्क्वैश चैंपियनशिप के फाइनल में जगह बनाकर इतिहास रच दिया है। विश्व जूनियर स्क्वैश चैंपियन बनकर इतिहास रच पाएंगी 18 साल की अनाहत सिंह? खिताब से बस एक जीत दूर।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "शराबी ने थाने से उड़ाई पुलिस की बोलेरो, आठ लोगों को रौंदा; अब टीआई ने मामले में तोड़ी चुप्पी",
+      "url": "https://www.amarujala.com/madhya-pradesh/panna-raipura-police-bolero-case-ti-smita-singh-breaks-silence-2026-07-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-25T06:12:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/palsa-ka-garafata-ma-aarapa_b19043ffbd6eff698ddfe30b89d80ee5.jpeg?w=1200&dpr=1.0",
+      "summary": "पन्ना जिले के रैपुरा थाने से एक शराबी ने पुलिस की बोलेरो उड़ा ली। इस घटना में आठ लोगों को रौंदा गया। थाना प्रभारी स्मिता सिंह बघेल ने मामले में अपनी चुप्पी तोड़ी है। पन्ना जिले के रैपुरा थाने से शासकीय बोलेरो ले जाकर बाजार में कई लोगों को टक्कर मारने की सनसनीखेज घटना पर थाना प्रभारी स्मिता सिंह बघेल ने सफाई दी है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चलती ट्रक का फटा टायर, अगले ही पल दूसरे ड्राइवर ने किया ऐसा कि फिर जो हुआ, देखें वीडियो",
-          "summary": "हाईवे पर रिकॉर्ड हुए एक वीडियो ने सोशल मीडिया पर लोगों का ध्यान खींच लिया है। वीडियो में तेज रफ्तार से चल रहे एक ट्रक का टायर अचानक फट जाता है, जिससे उसका संतुलन बिगड़ने लगता है और पलटने का खतरा पैदा हो जाता है। चलती ट्रक का फटा टायर, अगले ही पल दूसरे ड्राइवर ने किया ऐसा कि फिर जो हुआ, देखें वीडियो।",
+          "title": "शराबी ने थाने से उड़ाई पुलिस की बोलेरो, आठ लोगों को रौंदा; अब टीआई ने मामले में तोड़ी चुप्पी",
+          "summary": "पन्ना जिले के रैपुरा थाने से एक शराबी ने पुलिस की बोलेरो उड़ा ली। इस घटना में आठ लोगों को रौंदा गया। थाना प्रभारी स्मिता सिंह बघेल ने मामले में अपनी चुप्पी तोड़ी है। पन्ना जिले के रैपुरा थाने से शासकीय बोलेरो ले जाकर बाजार में कई लोगों को टक्कर मारने की सनसनीखेज घटना पर थाना प्रभारी स्मिता सिंह बघेल ने सफाई दी है।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "गूगल ने इस वर्जन का सपोर्ट किया बंद, क्या आपका फोन है प्रभावित? ऐसे करें चेक",
-      "url": "https://www.amarujala.com/automobiles/google-ends-support-android-6-0-check-your-phone-affected-2026-07-25",
+      "title": "नितेश तिवारी की ‘सीता’ से खुश नहीं दीपिका चिखलिया? जानें साई पल्लवी को लेकर क्या बोलीं अभिनेत्री",
+      "url": "https://www.amarujala.com/entertainment/bollywood/ramayana-tv-show-fame-dipika-chikhlia-raised-question-on-sai-pallavi-casting-in-nitesh-tiwari-ramayan-2026-07-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-25T04:51:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/edarayada-yajarasa-ka-le-bugdha-khatara_cb75c6931c3151a0108920d879a30a74.jpeg?w=1200&dpr=1.0",
-      "summary": "Google Play Services: अगर आप भी काफी पुराना स्मार्टफोन यूजर हैं, तो यह अपडेट आपके लिए जरुरी साबित हो सकती है। गूगल ने इस वर्जन का सपोर्ट किया बंद, क्या आपका फोन है प्रभावित? ऐसे करें चेक।",
+      "published_at": "2026-07-25T06:12:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/saii-pallva-thapaka-cakhalya_446fe5623db06a3c57bf0546ea660a0d.jpeg?w=1200&dpr=1.0",
+      "summary": "दीपिका चिखलिया ने नितेश तिवारी की फिल्म 'रामायण: भाग 1' में साई पल्लवी की कास्टिंग पर सवाल उठाए हैं। उन्होंने साई पल्लवी को सीता की भूमिका में देखने के बारे में अपनी राय व्यक्त की है। दीपिका चिखलिया ने कहा कि उन्हें लगता है कि सीता की भूमिका के लिए कोई और अभिनेत्री अधिक उपयुक्त हो सकती थी। नितेश तिवारी की फिल्म 'रामायण: भाग 1' में साउथ अभिनेत्री साई पल्लवी की कास्टिंग को लेकर सीरियल ‘रामायण’ की सीता दीपिका चिखलिया ने एक बड़ा सवाल किया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नितेश तिवारी की ‘सीता’ से खुश नहीं दीपिका चिखलिया? जानें साई पल्लवी को लेकर क्या बोलीं अभिनेत्री",
+          "summary": "दीपिका चिखलिया ने नितेश तिवारी की फिल्म 'रामायण: भाग 1' में साई पल्लवी की कास्टिंग पर सवाल उठाए हैं। उन्होंने साई पल्लवी को सीता की भूमिका में देखने के बारे में अपनी राय व्यक्त की है। दीपिका चिखलिया ने कहा कि उन्हें लगता है कि सीता की भूमिका के लिए कोई और अभिनेत्री अधिक उपयुक्त हो सकती थी। नितेश तिवारी की फिल्म 'रामायण: भाग 1' में साउथ अभिनेत्री साई पल्लवी की कास्टिंग को लेकर सीरियल ‘रामायण’ की सीता दीपिका चिखलिया ने एक बड़ा सवाल किया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "राजस्थान लोअर डिवीजन क्लर्क की उत्तरकुंजी जारी, इस तारीख तक दर्ज कराएं आपत्ति",
+      "url": "https://www.amarujala.com/jobs/government-jobs/rajasthan-ldc-answer-key-2026-released-raise-objections-till-july-28-2026-07-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-25T06:08:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/18/omr-sheet-answer-key_2d105f1e7b3e326fa4ed65da0d501fab.jpeg?w=1200&dpr=1.0",
+      "summary": "राजस्थान कर्मचारी चयन बोर्ड ने लोअर डिवीजन क्लर्क भर्ती परीक्षा की उत्तरकुंजी 12 अप्रैल 2026 को जारी की। परीक्षा में शामिल अभ्यर्थी आधिकारिक वेबसाइट पर जाकर उत्तरकुंजी देख सकते हैं। उत्तरकुंजी जारी होने के बाद अभ्यर्थी 15 अप्रैल 2026 तक अपनी आपत्ति दर्ज करा सकते हैं। Rajasthan LDC Answer Key 2026: राजस्थान कर्मचारी चयन बोर्ड ने लोअर डिवीजन क्लर्क भर्ती परीक्षा की उत्तरकुंजी जारी कर दी है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राजस्थान लोअर डिवीजन क्लर्क की उत्तरकुंजी जारी, इस तारीख तक दर्ज कराएं आपत्ति",
+          "summary": "राजस्थान कर्मचारी चयन बोर्ड ने लोअर डिवीजन क्लर्क भर्ती परीक्षा की उत्तरकुंजी 12 अप्रैल 2026 को जारी की। परीक्षा में शामिल अभ्यर्थी आधिकारिक वेबसाइट पर जाकर उत्तरकुंजी देख सकते हैं। उत्तरकुंजी जारी होने के बाद अभ्यर्थी 15 अप्रैल 2026 तक अपनी आपत्ति दर्ज करा सकते हैं। Rajasthan LDC Answer Key 2026: राजस्थान कर्मचारी चयन बोर्ड ने लोअर डिवीजन क्लर्क भर्ती परीक्षा की उत्तरकुंजी जारी कर दी है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में H-1B पर तीन साल तक रोक लगाने की तैयारी?: सीनेट में पेश गया बिल; भारतीय पेशेवरों पर क्या",
+      "url": "https://www.amarujala.com/world/bill-introduced-in-us-senate-seeks-3-year-pause-on-h-1b-visas-codify-usd-100k-fee-2026-07-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-25T06:06:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/us-congress_e4bcd3f1b0509a5ef90260fd56482c10.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी सीनेट में H-1B वीजा पर तीन साल तक रोक लगाने का बिल पेश किया गया है। यह भारतीय पेशेवरों पर असर डाल सकता है। बिल के अनुसार, H-1B वीजा पर रोक लगाने से अमेरिकी नागरिकों को नौकरियों में प्राथमिकता मिलेगी। अमेरिका में H-1B पर तीन साल तक रोक लगाने की तैयारी?: सीनेट में पेश गया बिल; भारतीय पेशेवरों पर क्या होगा असर?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में H-1B पर तीन साल तक रोक लगाने की तैयारी?: सीनेट में पेश गया बिल; भारतीय पेशेवरों पर क्या",
+          "summary": "अमेरिकी सीनेट में H-1B वीजा पर तीन साल तक रोक लगाने का बिल पेश किया गया है। यह भारतीय पेशेवरों पर असर डाल सकता है। बिल के अनुसार, H-1B वीजा पर रोक लगाने से अमेरिकी नागरिकों को नौकरियों में प्राथमिकता मिलेगी। अमेरिका में H-1B पर तीन साल तक रोक लगाने की तैयारी?: सीनेट में पेश गया बिल; भारतीय पेशेवरों पर क्या होगा असर?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मुंबई एयरपोर्ट पर फिर प्लेन के टॉयलेट में छिपा मिला करोड़ों का सोना, 18 करोड़ की तस्करी का भंडाफोड़",
+      "url": "https://www.amarujala.com/india-news/mumbai-airport-crores-of-gold-found-in-air-plane-toilet-big-case-2026-07-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-25T06:02:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/08/gps-spoofing-was-delhi-airport-a-cyber-attack-465-incidents-of-spoofing-in-the-last-16-months-kno_ad0815166404740e8e657da05f946215.jpeg?w=1200&dpr=1.0",
+      "summary": "मुंबई एयरपोर्ट पर एक प्लेन के टॉयलेट में 18 करोड़ रुपये का सोना छिपा हुआ मिला है। यह तस्करी का भंडाफोड़ है। पुलिस ने दो लोगों को गिरफ्तार किया है और जांच जारी है। मुंबई एयरपोर्ट पर फिर प्लेन के टॉयलेट में छिपा मिला करोड़ों का सोना, 18 करोड़ की तस्करी का भंडाफोड़।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मुंबई एयरपोर्ट पर फिर प्लेन के टॉयलेट में छिपा मिला करोड़ों का सोना, 18 करोड़ की तस्करी का भंडाफोड़",
+          "summary": "मुंबई एयरपोर्ट पर एक प्लेन के टॉयलेट में 18 करोड़ रुपये का सोना छिपा हुआ मिला है। यह तस्करी का भंडाफोड़ है। पुलिस ने दो लोगों को गिरफ्तार किया है और जांच जारी है। मुंबई एयरपोर्ट पर फिर प्लेन के टॉयलेट में छिपा मिला करोड़ों का सोना, 18 करोड़ की तस्करी का भंडाफोड़।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "व्हाट्सएप में खत्म होगा 6-डिजिट पिन का झंझट: आने वाला है नया सिक्योरिटी फीचर, जानें अकाउंट कैसे",
+      "url": "https://www.amarujala.com/technology/mobile-apps/whatsapp-replace-6-digit-pin-password-stronger-account-security-2026-07-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-25T06:01:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/vahatasaepa-ka-naya-sabhavata-facara_579d128caf4c64bd9528633218abe218.jpeg?w=1200&dpr=1.0",
+      "summary": "व्हाट्सएप में 6-डिजिट पिन के झंझट को समाप्त करने के लिए एक नया सिक्योरिटी फीचर आने वाला है। यह फीचर अकाउंट को सुरक्षित बनाएगा। टू-स्टेप वेरिफिकेशन के साथ यह फीचर जल्द ही उपलब्ध होगा। WhatsApp Password Feature: क्या आप भी व्हाट्सएप के टू-स्टेप वेरिफिकेशन का इस्तेमाल करते हैं? तो जल्द ही आपको इसमें बड़ा बदलाव देखने को मिल सकता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "व्हाट्सएप में खत्म होगा 6-डिजिट पिन का झंझट: आने वाला है नया सिक्योरिटी फीचर, जानें अकाउंट कैसे",
+          "summary": "व्हाट्सएप में 6-डिजिट पिन के झंझट को समाप्त करने के लिए एक नया सिक्योरिटी फीचर आने वाला है। यह फीचर अकाउंट को सुरक्षित बनाएगा। टू-स्टेप वेरिफिकेशन के साथ यह फीचर जल्द ही उपलब्ध होगा। WhatsApp Password Feature: क्या आप भी व्हाट्सएप के टू-स्टेप वेरिफिकेशन का इस्तेमाल करते हैं? तो जल्द ही आपको इसमें बड़ा बदलाव देखने को मिल सकता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या नीट पेपर लीक आंदोलन अब खत्म हो जाएगा या प्रधान का इस्तीफा होगा, किसे होगा फायदा-किसे नुकसान?",
+      "url": "https://www.amarujala.com/columns/blog/cjp-protest-will-the-neet-paper-leak-agitation-now-come-to-an-end-or-will-pradhan-resign-2026-07-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-25T06:01:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/08/21/dharmendra-pradhan_e6a69b744bfccefe4fd56c712d7c2385.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने नीट पेपर लीक मामले में एक्शन लिया है। उन्होंने फास्ट ट्रैक कोर्ट में सुनवाई का एलान किया है। 24 घंटे के भीतर चार फास्ट ट्रैक अदालतें बन गईं हैं। नीट पेपर लीक आंदोलन की जमीन पर विपक्ष की सियासी फसल लहलहाने की कोशिशों के बीच प्रधानमंत्रीनरेंद्र मोदी ताबड़तोड़ एक्शन में हैं। पेपर लीक मामले की फास्ट ट्रैक कोर्ट में सुनवाई का एलान किया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या नीट पेपर लीक आंदोलन अब खत्म हो जाएगा या प्रधान का इस्तीफा होगा, किसे होगा फायदा-किसे नुकसान?",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने नीट पेपर लीक मामले में एक्शन लिया है। उन्होंने फास्ट ट्रैक कोर्ट में सुनवाई का एलान किया है। 24 घंटे के भीतर चार फास्ट ट्रैक अदालतें बन गईं हैं। नीट पेपर लीक आंदोलन की जमीन पर विपक्ष की सियासी फसल लहलहाने की कोशिशों के बीच प्रधानमंत्रीनरेंद्र मोदी ताबड़तोड़ एक्शन में हैं। पेपर लीक मामले की फास्ट ट्रैक कोर्ट में सुनवाई का एलान किया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "CJP के लिए बुरी खबर! दिपके को हुई ये बीमारी! Dipke diagnosed with typhoid",
+      "url": "https://www.amarujala.com/video/india-news/abhijeet-dipke-sick-bad-news-for-cjp-dipke-has-contracted-this-illness-dipke-diagnosed-with-typhoid-2026-07-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-25T06:01:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/abhijeet-dipke-sick-cjp-ka-le-bra-khabra-thapaka-ka-haii-ya-bmara-dipke-diagnosed-with-typhoid_27cffdb7ee88624ee2960ac2e7e20622.jpeg?w=1200&dpr=1.0",
+      "summary": "अभिजीत दिपके को 26 दिन के अनशन के बाद त्यफोइड हो गया है। उन्हें अस्पताल में भर्ती कराया गया है। दिपके ने नीट पेपर लीक आंदोलन का नेतृत्व किया था। 26 दिन तक चले अनशन के बाद सोनम वांगचुक ने आंदोलन की मशाल अपने साथियों को सौंप दी लेकिन अब उसी आंदोलन का नेतृत्व कर रहे अभिजीत दिपके बीमार पड़ गए हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "CJP के लिए बुरी खबर! दिपके को हुई ये बीमारी! Dipke diagnosed with typhoid",
+          "summary": "अभिजीत दिपके को 26 दिन के अनशन के बाद त्यफोइड हो गया है। उन्हें अस्पताल में भर्ती कराया गया है। दिपके ने नीट पेपर लीक आंदोलन का नेतृत्व किया था। 26 दिन तक चले अनशन के बाद सोनम वांगचुक ने आंदोलन की मशाल अपने साथियों को सौंप दी लेकिन अब उसी आंदोलन का नेतृत्व कर रहे अभिजीत दिपके बीमार पड़ गए हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मोबाइल छोड़कर खुशी-खुशी खाना खाएगा बच्चा, बस आज से अपनाएं ये आसान तरीके",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/relationship/how-to-feed-kids-without-mobile-4-easy-parenting-tips-2026-07-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-25T06:00:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/how-to-feed-kids-without-mobile_fd1800bb9410dfde007ba61ff5334c02.jpeg?w=1200&dpr=1.0",
+      "summary": "बच्चों को मोबाइल से दूर रखने के लिए अभिभावकों ने एक नई रणनीति अपनाई है। उन्होंने बच्चों को खाना खाने के लिए एक अलग स्थान बनाया है, जहां मोबाइल का उपयोग नहीं किया जा सकता है। इस स्थान पर बच्चों को खाना खाने के लिए प्रोत्साहित किया जा रहा है। mobile addiction in kids: अगर आपका बच्चा भी मोबाइल देखते हुए ही खाना खाता है, तो खाना खिलाने के ये आसान उपाय आपके लिए ही हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मोबाइल छोड़कर खुशी-खुशी खाना खाएगा बच्चा, बस आज से अपनाएं ये आसान तरीके",
+          "summary": "बच्चों को मोबाइल से दूर रखने के लिए अभिभावकों ने एक नई रणनीति अपनाई है। उन्होंने बच्चों को खाना खाने के लिए एक अलग स्थान बनाया है, जहां मोबाइल का उपयोग नहीं किया जा सकता है। इस स्थान पर बच्चों को खाना खाने के लिए प्रोत्साहित किया जा रहा है। mobile addiction in kids: अगर आपका बच्चा भी मोबाइल देखते हुए ही खाना खाता है, तो खाना खिलाने के ये आसान उपाय आपके लिए ही हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अभिजीत दीपके की तबीयत बिगड़ी, टाइफाइड हुआ; बोले- धर्मेंद्र प्रधान के इस्तीफे तक लड़ाई जारी रहेगी",
+      "url": "https://www.amarujala.com/delhi-ncr/cjp-protest-news-cjp-founder-abhijit-dipke-down-with-typhoid-2026-07-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-25T05:58:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/22/sajapa-paratharashana_18d844fa11e8995f1fdb47e18a4e88ce.png?w=1200&dpr=1.0",
+      "summary": "अभिजीत दीपके ने शनिवार को एक वीडियो जारी किया, जिसमें उन्होंने बताया कि उन्हें टाइफाइड हुआ है। उन्होंने कहा कि उनकी तबीयत खराब हो गई है और वे जल्द ही ठीक हो जाएंगे। कॉकरोच जनता पार्टी (सीजेपी) के संस्थापक अभिजीत दीपके की तबीयत खराब हो गई है। शनिवार को अभिजीत दीपके ने खुद एक्स पर एक वीडियो जारी कर अपनी सेहत के बारे में जानकारी दी।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "गूगल ने इस वर्जन का सपोर्ट किया बंद, क्या आपका फोन है प्रभावित? ऐसे करें चेक",
-          "summary": "Google Play Services: अगर आप भी काफी पुराना स्मार्टफोन यूजर हैं, तो यह अपडेट आपके लिए जरुरी साबित हो सकती है। गूगल ने इस वर्जन का सपोर्ट किया बंद, क्या आपका फोन है प्रभावित? ऐसे करें चेक।",
+          "title": "अभिजीत दीपके की तबीयत बिगड़ी, टाइफाइड हुआ; बोले- धर्मेंद्र प्रधान के इस्तीफे तक लड़ाई जारी रहेगी",
+          "summary": "अभिजीत दीपके ने शनिवार को एक वीडियो जारी किया, जिसमें उन्होंने बताया कि उन्हें टाइफाइड हुआ है। उन्होंने कहा कि उनकी तबीयत खराब हो गई है और वे जल्द ही ठीक हो जाएंगे। कॉकरोच जनता पार्टी (सीजेपी) के संस्थापक अभिजीत दीपके की तबीयत खराब हो गई है। शनिवार को अभिजीत दीपके ने खुद एक्स पर एक वीडियो जारी कर अपनी सेहत के बारे में जानकारी दी।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "Aattack on LPG tanker Disha in Hormuz: होर्मुज में भारतीय क्रू वाले जहाज पर मिसाइल हमला। Ship Attack",
-      "url": "https://www.amarujala.com/video/india-news/attack-on-lpg-tanker-disha-in-hormuz-missile-attack-on-a-ship-with-an-indian-crew-in-hormuz-ship-attack-2026-07-25",
+      "title": "लॉ कॉलेजों में गड़बड़ियों पर रोक के लिए BCI ने निरीक्षण के दिए निर्देश, शिक्षा की गुणवत्ता पर रहेगा",
+      "url": "https://www.amarujala.com/education/bci-orders-law-college-inspections-to-curb-irregularities-ensure-quality-education-2026-07-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-25T04:49:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/aattack-on-lpg-tanker-disha-in-hormuz-haramaja-ma-bharataya-kanpr-val-jahaja-para-masail-hamal-ship-attack_33683a76e45c1e885ed20e021ba71fcc.jpeg?w=1200&dpr=1.0",
-      "summary": "शुक्रवार को होर्मुज जलडमरूमध्य के पास ईरान के जलक्षेत्र में मोजाम्बिक के झंडे वाला एलपीजी टैंकर 'दिशा' अचानक हमले का शिकार हो गया। जहाज पर कुल 30 चालक दल के सदस्य मौजूद थे, जिनमें 28 भारतीय थे।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-07-25T05:58:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/22/aibe-19_b3efe499b847bd1d48afbb1c9fec3e56.jpeg?w=1200&dpr=1.0",
+      "summary": "बार काउंसिल ऑफ इंडिया ने देशभर के लॉ कॉलेजों के निरीक्षण का आदेश दिया है। इसका उद्देश्य संस्थानों में संभावित गड़बड़ियों पर रोक लगाना और कानूनी शिक्षा की गुणवत्ता सुनिश्चित करना है। निरीक्षण के दौरान, बार काउंसिल ऑफ इंडिया के सदस्यों को संस्थानों की शैक्षिक सामग्री, प्रशिक्षण और प्रबंधन की जांच करनी होगी। लॉ कॉलेजों में गड़बड़ियों पर रोक के लिए BCI ने निरीक्षण के दिए निर्देश, शिक्षा की गुणवत्ता पर रहेगा।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "Aattack on LPG tanker Disha in Hormuz: होर्मुज में भारतीय क्रू वाले जहाज पर मिसाइल हमला। Ship Attack",
-          "summary": "शुक्रवार को होर्मुज जलडमरूमध्य के पास ईरान के जलक्षेत्र में मोजाम्बिक के झंडे वाला एलपीजी टैंकर 'दिशा' अचानक हमले का शिकार हो गया। जहाज पर कुल 30 चालक दल के सदस्य मौजूद थे, जिनमें 28 भारतीय थे।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "लॉ कॉलेजों में गड़बड़ियों पर रोक के लिए BCI ने निरीक्षण के दिए निर्देश, शिक्षा की गुणवत्ता पर रहेगा",
+          "summary": "बार काउंसिल ऑफ इंडिया ने देशभर के लॉ कॉलेजों के निरीक्षण का आदेश दिया है। इसका उद्देश्य संस्थानों में संभावित गड़बड़ियों पर रोक लगाना और कानूनी शिक्षा की गुणवत्ता सुनिश्चित करना है। निरीक्षण के दौरान, बार काउंसिल ऑफ इंडिया के सदस्यों को संस्थानों की शैक्षिक सामग्री, प्रशिक्षण और प्रबंधन की जांच करनी होगी। लॉ कॉलेजों में गड़बड़ियों पर रोक के लिए BCI ने निरीक्षण के दिए निर्देश, शिक्षा की गुणवत्ता पर रहेगा।",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "क्या 24वीं किस्त के लिए अक्तूबर तक करना होगा इंतजार? यहां जानें किसान",
-      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-yojana-will-the-24th-installment-be-released-in-october-mein-pm-kisan-yojana-ki-24-kist-aayegi-kya-2026-07-25",
+      "title": "जन्म के कुछ ही सेकंड बाद नवजात ने किया ऐसा कारनामा, वीडियो हुआ सुपर वायरल",
+      "url": "https://www.amarujala.com/bizarre-news/little-newborn-baby-goes-viral-and-refuses-to-let-go-of-doctors-stethoscope-video-viral-2026-07-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-25T04:47:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/paema-kasana-yajana-ka-24va-kasata-kasa-tarakha-ka-jara-ha-sakata-ha_22f0f46bb31253ebcf654ac3ffcad1f7.jpeg?w=1200&dpr=1.0",
-      "summary": "पीएम किसान योजना की इस बार 24वीं किस्त जारी होनी है, लेकिन क्या ये किस्त अक्तूबर में जारी होगी? चलिए जानने की कोशिश करते हैं। क्या 24वीं किस्त के लिए अक्तूबर तक करना होगा इंतजार? यहां जानें किसान।",
+      "published_at": "2026-07-25T05:51:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/navajata-bcaca-ka-satha-dakatara-ka-cal-khacatana_7dfd2abbab1c542b89586c000a06c1b5.jpeg?w=1200&dpr=1.0",
+      "summary": "एक नवजात शिशु ने जन्म के कुछ ही सेकंड बाद अपने स्टेथेस्कोप को पकड़ लिया। वीडियो में दिखाया गया है कि डॉक्टर जैसे ही बच्चे की जांच के लिए स्टेथेस्कोप उसके पास लाते हैं, तो बच्चे ने अपने हाथ से स्टेथेस्कोप को पकड़ लिया। सोशल मीडिया पर एक नवजात शिशु का क्यूट वीडियो तेजी से वायरल हो रहा है। वीडियो में डॉक्टर जैसे ही बच्चे की जांच के लिए स्टेथेस्कोप उसके पास लाते हैं।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्या 24वीं किस्त के लिए अक्तूबर तक करना होगा इंतजार? यहां जानें किसान",
-          "summary": "पीएम किसान योजना की इस बार 24वीं किस्त जारी होनी है, लेकिन क्या ये किस्त अक्तूबर में जारी होगी? चलिए जानने की कोशिश करते हैं। क्या 24वीं किस्त के लिए अक्तूबर तक करना होगा इंतजार? यहां जानें किसान।",
+          "title": "जन्म के कुछ ही सेकंड बाद नवजात ने किया ऐसा कारनामा, वीडियो हुआ सुपर वायरल",
+          "summary": "एक नवजात शिशु ने जन्म के कुछ ही सेकंड बाद अपने स्टेथेस्कोप को पकड़ लिया। वीडियो में दिखाया गया है कि डॉक्टर जैसे ही बच्चे की जांच के लिए स्टेथेस्कोप उसके पास लाते हैं, तो बच्चे ने अपने हाथ से स्टेथेस्कोप को पकड़ लिया। सोशल मीडिया पर एक नवजात शिशु का क्यूट वीडियो तेजी से वायरल हो रहा है। वीडियो में डॉक्टर जैसे ही बच्चे की जांच के लिए स्टेथेस्कोप उसके पास लाते हैं।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "हाथ, पैर और सिर तक हुए अलग, पेड़ों पर लटके मिले कई अंग; 'मौत' की पटाखा फैक्टरी में धमाके की पूरी",
-      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/meerut/several-killed-in-firecracker-factory-explosion-in-saharanpur-2026-07-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-25T04:45:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/saharanpur-firecracker-factory-blast_ce1a4958a4bab6bf2d8a69dd3568eddd.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश के सहारनपुर में एक पटाखा फैक्टरी में विस्फोट हुआ। दो मजदूर लापता हैं और दो मजदूरों की मौत हो गई। मृतकों में दीपराज और संदीप शामिल हैं। यूपी के सहारनपुर के गंगोह-बिड़ौली मार्ग पर कुंडाबसी गांव में स्थित पटाखा फैक्टरी में शुक्रवार की शाम हुए भीषण विस्फोट में ठेकेदार दीपराज (23) और संदीप (25) की मौत हो गई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हाथ, पैर और सिर तक हुए अलग, पेड़ों पर लटके मिले कई अंग; 'मौत' की पटाखा फैक्टरी में धमाके की पूरी",
-          "summary": "उत्तर प्रदेश के सहारनपुर में एक पटाखा फैक्टरी में विस्फोट हुआ। दो मजदूर लापता हैं और दो मजदूरों की मौत हो गई। मृतकों में दीपराज और संदीप शामिल हैं। यूपी के सहारनपुर के गंगोह-बिड़ौली मार्ग पर कुंडाबसी गांव में स्थित पटाखा फैक्टरी में शुक्रवार की शाम हुए भीषण विस्फोट में ठेकेदार दीपराज (23) और संदीप (25) की मौत हो गई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "डीपफेक क्लिप पर भड़के पीयूष गोयल: चाणक्यपुरी थाने में दर्ज कराई प्राथमिकी; आखिर किसने बनाया फर्जी",
-      "url": "https://www.amarujala.com/india-news/piyush-goyal-files-police-complaint-over-ai-generated-deepfake-video-warns-of-strict-legal-action-2026-07-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-25T04:44:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/09/ftas-opening-new-markets-for-pharma-healthcare-and-medtech-sectors-piyush-goyal_0694497c225ea3429ea440a926e695bd.jpeg?w=1200&dpr=1.0",
-      "summary": "पीयूष गोयल ने चाणक्यपुरी थाने में एक प्राथमिकी दर्ज कराई है। यह प्राथमिकी एक डीपफेक क्लिप के सिलसिले में दर्ज की गई है। गोयल ने आरोप लगाया है कि यह क्लिप फर्जी है और उनके खिलाफ बनाई गई है। डीपफेक क्लिप पर भड़के पीयूष गोयल: चाणक्यपुरी थाने में दर्ज कराई प्राथमिकी; आखिर किसने बनाया फर्जी वीडियो?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डीपफेक क्लिप पर भड़के पीयूष गोयल: चाणक्यपुरी थाने में दर्ज कराई प्राथमिकी; आखिर किसने बनाया फर्जी",
-          "summary": "पीयूष गोयल ने चाणक्यपुरी थाने में एक प्राथमिकी दर्ज कराई है। यह प्राथमिकी एक डीपफेक क्लिप के सिलसिले में दर्ज की गई है। गोयल ने आरोप लगाया है कि यह क्लिप फर्जी है और उनके खिलाफ बनाई गई है। डीपफेक क्लिप पर भड़के पीयूष गोयल: चाणक्यपुरी थाने में दर्ज कराई प्राथमिकी; आखिर किसने बनाया फर्जी वीडियो?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दूसरे दिन भी बॉक्स ऑफिस पर छाई 'जन नायकन', जानिए 'द ओडिसी' और 'धमाल 4' की कितनी हुई कमाई?",
-      "url": "https://www.amarujala.com/entertainment/bollywood/box-office-report-vijay-film-jana-nayagan-to-the-odyssey-and-dhamaal-4-collection-on-friday-2026-07-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-25T04:27:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/bkasa-oifasa-kalkashana_e7070d43493f276bcdb9184f6e67be45.jpeg?w=1200&dpr=1.0",
-      "summary": "सीएम विजय की आखिरी फिल्म 'जन नायकन' को दो दिन हो चुके हैं। यह फिल्म बॉक्स ऑफिस पर अच्छा प्रदर्शन कर रही है। 'द ओडिसी' और 'धमाल 4' की कमाई के आंकड़े अभी तक नहीं आए हैं। 'जन नायकन' की रिलीज के बाद से यह फिल्म दर्शकों का ध्यान आकर्षित कर रही है। सीएम विजय की आखिरी फिल्म 'जन नायकन' की रिलीज को दो दिन हो चुके हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दूसरे दिन भी बॉक्स ऑफिस पर छाई 'जन नायकन', जानिए 'द ओडिसी' और 'धमाल 4' की कितनी हुई कमाई?",
-          "summary": "सीएम विजय की आखिरी फिल्म 'जन नायकन' को दो दिन हो चुके हैं। यह फिल्म बॉक्स ऑफिस पर अच्छा प्रदर्शन कर रही है। 'द ओडिसी' और 'धमाल 4' की कमाई के आंकड़े अभी तक नहीं आए हैं। 'जन नायकन' की रिलीज के बाद से यह फिल्म दर्शकों का ध्यान आकर्षित कर रही है। सीएम विजय की आखिरी फिल्म 'जन नायकन' की रिलीज को दो दिन हो चुके हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पत्नी को मिली गालियों पर ट्रेविस हेड ने तोड़ी चुप्पी; विराट कोहली से बिगड़े रिश्ते पर क्या कहा?",
-      "url": "https://www.amarujala.com/cricket/travis-head-breaks-silence-on-virat-kohli-handshake-controversy-wife-s-online-abuse-2026-07-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-25T04:26:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/travis-head-virat-kohli-ipl-2026-handshake-controversy-jessica-davies-rcb-vs-srh-online-abuse_b87de39272c890787b5ef6cc8fa6f5fb.jpeg?w=1200&dpr=1.0",
-      "summary": "ट्रेविस हेड ने विराट कोहली के साथ हुए हैंडशेक विवाद पर चुप्पी तोड़ी। उन्होंने कहा कि उनके और विराट के बीच ऐसा कुछ नहीं है जिसे 'ठीक' करने की जरूरत हो। हेड ने साफ कहा कि उनके बीच कोई समस्या नहीं है। आईपीएल 2026 में विराट कोहली और ट्रेविस हेड के बीच हुए हैंडशेक विवाद पर आखिरकार ऑस्ट्रेलियाई बल्लेबाज ने चुप्पी तोड़ी है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पत्नी को मिली गालियों पर ट्रेविस हेड ने तोड़ी चुप्पी; विराट कोहली से बिगड़े रिश्ते पर क्या कहा?",
-          "summary": "ट्रेविस हेड ने विराट कोहली के साथ हुए हैंडशेक विवाद पर चुप्पी तोड़ी। उन्होंने कहा कि उनके और विराट के बीच ऐसा कुछ नहीं है जिसे 'ठीक' करने की जरूरत हो। हेड ने साफ कहा कि उनके बीच कोई समस्या नहीं है। आईपीएल 2026 में विराट कोहली और ट्रेविस हेड के बीच हुए हैंडशेक विवाद पर आखिरकार ऑस्ट्रेलियाई बल्लेबाज ने चुप्पी तोड़ी है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "NTA पर सरकार की कारवाई, धर्मेंद्र प्रधान पर आज होगा फैसला? CJP Protest",
-      "url": "https://www.amarujala.com/video/india-news/government-action-against-nta-will-a-decision-regarding-dharmendra-pradhan-be-made-today-cjp-protest-pm-mo-2026-07-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-25T04:20:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/nta-para-sarakara-ka-karavaii-dharmendra-pradhan-para-aaja-haga-fasal-cjp-protest-pm-modi-abhijeet-dipke_77d8385122a69c540e3dd23954280630.jpeg?w=1200&dpr=1.0",
-      "summary": "केंद्र सरकार ने शुक्रवार को राष्ट्रीय परीक्षा एजेंसी (एनटीए) के 47 अधिकारियों को बर्खास्त कर दिया। यह कार्रवाई नीट पेपर लीक विवाद के बाद की गई है, जिसने पूरे देश में युवाओं का आक्रोश भड़काया था। इस फैसले के बाद, धर्मेंद्र प्रधान पर आज ही फैसला होने की संभावना है। नीट पेपर लीक विवाद ने पूरे देश में जिस तरह युवाओं का आक्रोश भड़काया, उसके बाद केंद्र सरकार ने बड़ा फैसला लिया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "NTA पर सरकार की कारवाई, धर्मेंद्र प्रधान पर आज होगा फैसला? CJP Protest",
-          "summary": "केंद्र सरकार ने शुक्रवार को राष्ट्रीय परीक्षा एजेंसी (एनटीए) के 47 अधिकारियों को बर्खास्त कर दिया। यह कार्रवाई नीट पेपर लीक विवाद के बाद की गई है, जिसने पूरे देश में युवाओं का आक्रोश भड़काया था। इस फैसले के बाद, धर्मेंद्र प्रधान पर आज ही फैसला होने की संभावना है। नीट पेपर लीक विवाद ने पूरे देश में जिस तरह युवाओं का आक्रोश भड़काया, उसके बाद केंद्र सरकार ने बड़ा फैसला लिया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शिकंजे में महाराष्ट्र TET पेपर लीक का मुख्य आरोपी, बिहार से दबोचा गया बिजेंद्र कुमार गुप्ता",
-      "url": "https://www.amarujala.com/india-news/main-accused-of-maharashtra-tet-paper-leak-bijendra-kumar-gupta-arrested-from-bihar-by-bhiwandi-police-2026-07-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-25T04:18:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/main-accused-of-maharashtra-tet-paper-leak-bijendra-kumar-gupta-arrested-from-bihar-by-bhiwandi-po_765f770ddd2bc75ac52e7e9728c8b43e.jpeg?w=1200&dpr=1.0",
-      "summary": "बिहार से दबोचा गया बिजेंद्र कुमार गुप्ता, महाराष्ट्र TET पेपर लीक का मुख्य आरोपी। बिहार पुलिस ने बिहार के बिजेंद्र कुमार गुप्ता को गिरफ्तार किया है, जिन पर महाराष्ट्र TET पेपर लीक का आरोप है। गुप्ता को बिहार से बिहार पुलिस ने दबोचा है। शिकंजे में महाराष्ट्र TET पेपर लीक का मुख्य आरोपी, बिहार से दबोचा गया बिजेंद्र कुमार गुप्ता।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शिकंजे में महाराष्ट्र TET पेपर लीक का मुख्य आरोपी, बिहार से दबोचा गया बिजेंद्र कुमार गुप्ता",
-          "summary": "बिहार से दबोचा गया बिजेंद्र कुमार गुप्ता, महाराष्ट्र TET पेपर लीक का मुख्य आरोपी। बिहार पुलिस ने बिहार के बिजेंद्र कुमार गुप्ता को गिरफ्तार किया है, जिन पर महाराष्ट्र TET पेपर लीक का आरोप है। गुप्ता को बिहार से बिहार पुलिस ने दबोचा है। शिकंजे में महाराष्ट्र TET पेपर लीक का मुख्य आरोपी, बिहार से दबोचा गया बिजेंद्र कुमार गुप्ता।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज संकट पर अमेरिका-ब्रिटेन का प्लान, शिपिंग सुरक्षा के लिए बनेगा अंतरराष्ट्रीय समुद्री गठबंधन",
-      "url": "https://www.patrika.com/world-news/us-uk-london-meeting-on-hormuz-strait-maritime-coalition-iran-tensions-20776068",
+      "title": "ट्रंप की यूरोप को सीधी चेतावनी, अमेरिकी टेक कंपनियों पर भारी जुर्माने के बदले भुगतना होगा अंजाम",
+      "url": "https://www.patrika.com/world-news/donald-trump-warns-eu-over-tech-companies-fine-trade-war-threat-20776265",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-25T04:13:42+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/photo_6278133218066239413_y.webp",
-      "summary": "अमेरिका-ब्रिटेन ने होर्मुज संकट पर अंतरराष्ट्रीय समुद्री गठबंधन बनाने का फैसला किया है। अमेरिका और ब्रिटेन ने होर्मुज संकट पर एक साथ काम करने का फैसला किया है और अगले हफ्ते लंदन में एक हाई-लेवल मीटिंग करने की तैयारी में हैं। Donald Trump: दुनियाभर में तेल सप्लाई के लिए सबसे जरूरी माने जाने वाले होर्मुज रास्ते (Strait of Hormuz) पर भारी तनाव बना हुआ है।",
+      "published_at": "2026-07-25T05:48:34+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/photo_6278133218066239437_y.webp",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने यूरोपीय संघ को सीधी चेतावनी दी है कि अगर वे अमेरिकी टेक कंपनियों पर लगाए गए जुर्मानों को नहीं हटाते हैं, तो अमेरिका भी टैरिफ लगाएगा। ट्रंप ने कहा है कि अमेरिका अब अमेरिकी कंपनियों और करदाताओं को यूरोप के लिए 'पिगी बैंक' नहीं बनने देगा। US EU Trade War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप यूरोपीय संघ (EU) को सीधे तौर पर व्यापार जांच और भारी टैरिफ लगाने की धमकी दी है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की यूरोप को सीधी चेतावनी, अमेरिकी टेक कंपनियों पर भारी जुर्माने के बदले भुगतना होगा अंजाम",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने यूरोपीय संघ को सीधी चेतावनी दी है कि अगर वे अमेरिकी टेक कंपनियों पर लगाए गए जुर्मानों को नहीं हटाते हैं, तो अमेरिका भी टैरिफ लगाएगा। ट्रंप ने कहा है कि अमेरिका अब अमेरिकी कंपनियों और करदाताओं को यूरोप के लिए 'पिगी बैंक' नहीं बनने देगा। US EU Trade War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप यूरोपीय संघ (EU) को सीधे तौर पर व्यापार जांच और भारी टैरिफ लगाने की धमकी दी है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "उमर अब्दुल्ला की अपील, कहा- ‘बदला हुआ कश्मीर दिखाएं’, इम्तियाज बोले- कश्मीरियों काे बढ़ावा देंगे",
+      "url": "https://www.amarujala.com/entertainment/bollywood/cm-omar-abdullah-complained-about-the-portrayal-of-a-distorted-image-of-kashmir-2026-07-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-25T05:35:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/saema-umara-abthallha-imatayaja_353ea7d68558ad631417112616b120f9.jpeg?w=1200&dpr=1.0",
+      "summary": "जम्मू व कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने बॉलीवुड से अपील की कि वे कश्मीर की बदलती तस्वीर दिखाएं। उन्होंने कहा कि घाटी का अतीत हिंसा पर केंद्रित है, जबकि अब यह बदल रही है। जम्मू व कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने शुक्रवार को बॉलीवुड से अपील की कि वे हिंसा पर केंद्रित कश्मीर के अतीत के बजाय घाटी की बदलती तस्वीर दिखाएं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उमर अब्दुल्ला की अपील, कहा- ‘बदला हुआ कश्मीर दिखाएं’, इम्तियाज बोले- कश्मीरियों काे बढ़ावा देंगे",
+          "summary": "जम्मू व कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने बॉलीवुड से अपील की कि वे कश्मीर की बदलती तस्वीर दिखाएं। उन्होंने कहा कि घाटी का अतीत हिंसा पर केंद्रित है, जबकि अब यह बदल रही है। जम्मू व कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने शुक्रवार को बॉलीवुड से अपील की कि वे हिंसा पर केंद्रित कश्मीर के अतीत के बजाय घाटी की बदलती तस्वीर दिखाएं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने खाड़ी क्षेत्र में अमेरिकी ठिकानों को निशाना बनाया, सऊदी ने यमन में बरसाए बम",
+      "url": "https://www.amarujala.com/live/world/west-asia-tension-live-us-iran-war-israel-trump-centcom-airstrikes-hormuz-pezeshkian-irgc-hindi-news-updates-2026-07-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-25T05:29:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/06/west-asia-crisis-live-us-iran-israel-war-day-7-us-army-irgc-turkiye-war-updates-and-news-in-hin_a0aa2afe0c126f011b15e33e5f2007e2.gif?w=1200&dpr=1.0",
+      "summary": "अमेरिकी सेना ने ईरान पर हमलों का दायरा बढ़ाया। राष्ट्रपति ट्रंप ने कहा कि अमेरिका शांति चाहता है लेकिन मजबूती से जवाब देगा। ईरान के साथ तनाव बढ़ रहा है। West Asia Tension LIVE: ईरान पर अमेरिकी सेना के हमलों का दायरा बढ़ा, जंग पर राष्ट्रपति ट्रंप क्या बोले? ईरान ने खाड़ी क्षेत्र में अमेरिकी ठिकानों को निशाना बनाया, सऊदी ने यमन में बरसाए बम।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "होर्मुज संकट पर अमेरिका-ब्रिटेन का प्लान, शिपिंग सुरक्षा के लिए बनेगा अंतरराष्ट्रीय समुद्री गठबंधन",
-          "summary": "अमेरिका-ब्रिटेन ने होर्मुज संकट पर अंतरराष्ट्रीय समुद्री गठबंधन बनाने का फैसला किया है। अमेरिका और ब्रिटेन ने होर्मुज संकट पर एक साथ काम करने का फैसला किया है और अगले हफ्ते लंदन में एक हाई-लेवल मीटिंग करने की तैयारी में हैं। Donald Trump: दुनियाभर में तेल सप्लाई के लिए सबसे जरूरी माने जाने वाले होर्मुज रास्ते (Strait of Hormuz) पर भारी तनाव बना हुआ है।",
+          "title": "ईरान ने खाड़ी क्षेत्र में अमेरिकी ठिकानों को निशाना बनाया, सऊदी ने यमन में बरसाए बम",
+          "summary": "अमेरिकी सेना ने ईरान पर हमलों का दायरा बढ़ाया। राष्ट्रपति ट्रंप ने कहा कि अमेरिका शांति चाहता है लेकिन मजबूती से जवाब देगा। ईरान के साथ तनाव बढ़ रहा है। West Asia Tension LIVE: ईरान पर अमेरिकी सेना के हमलों का दायरा बढ़ा, जंग पर राष्ट्रपति ट्रंप क्या बोले? ईरान ने खाड़ी क्षेत्र में अमेरिकी ठिकानों को निशाना बनाया, सऊदी ने यमन में बरसाए बम।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "ऑफिस जाने निकला था, नदी में बदल गई सोसाइटी, गुजरात के बैंक कर्मचारी का वीडियो वायरल",
-      "url": "https://www.amarujala.com/bizarre-news/gujarat-flood-bank-employee-viral-video-valsa-drain-water-society-office-neck-deep-water-2026-07-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-25T04:08:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/sashal-madaya-para-vayaral-haaa-vadaya_308d13b75dd321852deb1a422c3e1232.jpeg?w=1200&dpr=1.0",
-      "summary": "गुजरात के बैंक कर्मचारी का वीडियो वायरल हुआ है, जिसमें वह नदी में बदल गया है। गुजरात में भारी बारिश के कारण बैंक कर्मचारी शिवम सिंह नदी में बदल गया है, जिसका वीडियो सोशल मीडिया पर वायरल हो रहा है। गुजरात में लगातार हो रही भारी बारिश के कारण कई इलाकों में बाढ़ जैसे हालात बन गए हैं। इसी बीच वलसाड जिले के बैंक कर्मचारी शिवम सिंह का एक वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ऑफिस जाने निकला था, नदी में बदल गई सोसाइटी, गुजरात के बैंक कर्मचारी का वीडियो वायरल",
-          "summary": "गुजरात के बैंक कर्मचारी का वीडियो वायरल हुआ है, जिसमें वह नदी में बदल गया है। गुजरात में भारी बारिश के कारण बैंक कर्मचारी शिवम सिंह नदी में बदल गया है, जिसका वीडियो सोशल मीडिया पर वायरल हो रहा है। गुजरात में लगातार हो रही भारी बारिश के कारण कई इलाकों में बाढ़ जैसे हालात बन गए हैं। इसी बीच वलसाड जिले के बैंक कर्मचारी शिवम सिंह का एक वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सेना के अधिकारी का बेटा यशवेंद्र, अमेरिका में करता था पढ़ाई; नाले में गिरी बेकाबू कार",
-      "url": "https://www.amarujala.com/delhi-ncr/a-young-man-died-after-his-car-fell-into-a-drain-in-vasant-kunj-area-2026-07-25",
+      "title": "केंद्र से कोई डील नहीं हुई, बताया क्यों खत्म किया अनशन? सफदरजंग अस्पताल को बताया उत्तर कोरिया",
+      "url": "https://www.amarujala.com/india-news/wangchuk-rejects-deal-with-centre-charge-says-ended-fast-fearing-crackdown-like-ladakh-2026-07-25",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-25T04:03:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/delhi-accident_ab0b04627aaf5018d6c51673ec489e85.jpeg?w=1200&dpr=1.0",
-      "summary": "नई दिल्ली में एक तेज रफ्तार कार नाले में जा गिरी, जिसमें युवक की मौत हो गई। नई दिल्ली के वसंतकुंज इलाके में एक तेज रफ्तार कार अनियंत्रित होकर नाले में जा गिरी, जिसमें कार चला रहे युवक की मौत हो गई। इस हादसे में कार चला रहे करीब 20 वर्षीय युवक यशवेंद्र की मौत हो गई। कार में बैठी उसकी महिला दोस्त युवती खतरे से बाहर है।",
+      "published_at": "2026-07-25T05:19:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/wangchuk-rejects-deal-with-centre-charge-says-ended-fast-fearing-crackdown-like-ladakh_a45a35bb12c3fb6353f822126d91d676.jpeg?w=1200&dpr=1.0",
+      "summary": "वांगचुक ने कहा कि उन्होंने अपना अनशन समाप्त किया क्योंकि उन्हें केंद्र सरकार के दमनकारी कार्रवाई का डर था। उन्होंने सफदरजंग अस्पताल को बताया कि वे उत्तर कोरिया में हैं। सफदरजंग अस्पताल को बताया उत्तर कोरिया। केंद्र से कोई डील नहीं हुई, बताया क्यों खत्म किया अनशन?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सेना के अधिकारी का बेटा यशवेंद्र, अमेरिका में करता था पढ़ाई; नाले में गिरी बेकाबू कार",
-          "summary": "नई दिल्ली में एक तेज रफ्तार कार नाले में जा गिरी, जिसमें युवक की मौत हो गई। नई दिल्ली के वसंतकुंज इलाके में एक तेज रफ्तार कार अनियंत्रित होकर नाले में जा गिरी, जिसमें कार चला रहे युवक की मौत हो गई। इस हादसे में कार चला रहे करीब 20 वर्षीय युवक यशवेंद्र की मौत हो गई। कार में बैठी उसकी महिला दोस्त युवती खतरे से बाहर है।",
+          "title": "केंद्र से कोई डील नहीं हुई, बताया क्यों खत्म किया अनशन? सफदरजंग अस्पताल को बताया उत्तर कोरिया",
+          "summary": "वांगचुक ने कहा कि उन्होंने अपना अनशन समाप्त किया क्योंकि उन्हें केंद्र सरकार के दमनकारी कार्रवाई का डर था। उन्होंने सफदरजंग अस्पताल को बताया कि वे उत्तर कोरिया में हैं। सफदरजंग अस्पताल को बताया उत्तर कोरिया। केंद्र से कोई डील नहीं हुई, बताया क्यों खत्म किया अनशन?",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने न्यूक्लियर डील के बदले रखी अब्राहम समझौते की शर्त, सऊदी पर क्यों दबाव बना रहे अमेरिकी",
-      "url": "https://www.amarujala.com/world/it-s-time-now-that-they-do-it-trump-on-saudi-arabia-joining-abraham-accords-key-condition-of-nuclear-deal-2026-07-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-25T04:01:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/danalda-tarapa-mahamamatha-bna-salmana_00e8aa1f49a720822eff55d6e361602e.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति ट्रंप ने अब्राहम समझौते की शर्तों में बदलाव किया है, जिसमें सऊदी पर दबाव बनाया जा रहा है। US: ट्रंप ने न्यूक्लियर डील के बदले रखी अब्राहम समझौते की शर्त, सऊदी पर क्यों दबाव बना रहे अमेरिकी राष्ट्रपति?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने न्यूक्लियर डील के बदले रखी अब्राहम समझौते की शर्त, सऊदी पर क्यों दबाव बना रहे अमेरिकी",
-          "summary": "अमेरिकी राष्ट्रपति ट्रंप ने अब्राहम समझौते की शर्तों में बदलाव किया है, जिसमें सऊदी पर दबाव बनाया जा रहा है। US: ट्रंप ने न्यूक्लियर डील के बदले रखी अब्राहम समझौते की शर्त, सऊदी पर क्यों दबाव बना रहे अमेरिकी राष्ट्रपति?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "आसिम मुनीर के हाथ में परमाणु बम का बटन! पाकिस्तान के PM क्या अब सिर्फ शोपीस?",
-      "url": "https://hindi.news18.com/world/pakistan-national-strategic-command-asim-munir-nuclear-command-china-model-pakistan-news-10687874.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-25T03:59:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-asim-munir-2026-07-b9550e0625d38f1276c0f40ae1e2adc4-1200x800.jpg",
-      "summary": "पाकिस्तान ने नेशनल स्ट्रैटेजिक कमांड (NSC) बनाया है, जिसके तहत परमाणु हथियारों और रणनीतिक सैन्य संसाधनों का संचालन एक सेंट्रल सैन्य कमान के अधीन होगा. इस बदलाव से सेना प्रमुख और चीफ ऑफ डिफेंस फोर्सेज फील्ड मार्शल आसिम मुनीर का प्रभाव बढ़ गया है. नए ढांचे के तहत सेना की शक्ति और अधिकार बढ़ गए हैं, जिससे पाकिस्तान के रक्षा ढांचे में बड़ा बदलाव हुआ है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आसिम मुनीर के हाथ में परमाणु बम का बटन! पाकिस्तान के PM क्या अब सिर्फ शोपीस?",
-          "summary": "पाकिस्तान ने नेशनल स्ट्रैटेजिक कमांड (NSC) बनाया है, जिसके तहत परमाणु हथियारों और रणनीतिक सैन्य संसाधनों का संचालन एक सेंट्रल सैन्य कमान के अधीन होगा. इस बदलाव से सेना प्रमुख और चीफ ऑफ डिफेंस फोर्सेज फील्ड मार्शल आसिम मुनीर का प्रभाव बढ़ गया है. नए ढांचे के तहत सेना की शक्ति और अधिकार बढ़ गए हैं, जिससे पाकिस्तान के रक्षा ढांचे में बड़ा बदलाव हुआ है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "फिर गूंजा 'बम-बम भोले', छह दिन तक रुकी रही अमरनाथ यात्रा, इसलिए बंद थे बाबा बर्फानी के रास्ते",
-      "url": "https://www.amarujala.com/jammu/amarnath-yatra-resumed-after-a-six-day-suspension-due-to-heavy-rainfall-and-deteriorating-weather-conditions-2026-07-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-25T03:45:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/amarnath-yatra_736a3b44a92b0563c2732429a47ba4c4.jpeg?w=1200&dpr=1.0",
-      "summary": "शनिवार को भारी बारिश और खराब मौसम के कारण छह दिन तक रुकी रही अमरनाथ यात्रा फिर से शुरू हो गई। अमरनाथ यात्रा के लिए बाबा बर्फानी के रास्ते भी खुल गए हैं। भारी बारिश और खराब मौसम के कारण छह दिन तक रुकी रही अमरनाथ यात्रा शनिवार को फिर से शुरू हो गई। फिर गूंजा 'बम-बम भोले', छह दिन तक रुकी रही अमरनाथ यात्रा, इसलिए बंद थे बाबा बर्फानी के रास्ते।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिर गूंजा 'बम-बम भोले', छह दिन तक रुकी रही अमरनाथ यात्रा, इसलिए बंद थे बाबा बर्फानी के रास्ते",
-          "summary": "शनिवार को भारी बारिश और खराब मौसम के कारण छह दिन तक रुकी रही अमरनाथ यात्रा फिर से शुरू हो गई। अमरनाथ यात्रा के लिए बाबा बर्फानी के रास्ते भी खुल गए हैं। भारी बारिश और खराब मौसम के कारण छह दिन तक रुकी रही अमरनाथ यात्रा शनिवार को फिर से शुरू हो गई। फिर गूंजा 'बम-बम भोले', छह दिन तक रुकी रही अमरनाथ यात्रा, इसलिए बंद थे बाबा बर्फानी के रास्ते।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भगवान जगन्नाथ की बहुड़ा रथ यात्रा के दौरान कई लोग बीमार; 105 लोग पहुंचे अस्पताल, एक श्रद्धालु की मौत",
-      "url": "https://www.amarujala.com/india-news/devotee-dies-due-to-suffocation-while-pulling-chariot-puri-rath-yatra-toll-mounts-to-3-2026-07-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-25T03:42:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/devotee-dies-due-to-suffocation-while-pulling-chariot-puri-rath-yatra-toll-mounts-to-3_f88e9f8c88ea611b0c9f0b4e52376a0d.jpeg?w=1200&dpr=1.0",
-      "summary": "भगवान जगन्नाथ की बहुड़ा रथ यात्रा के दौरान 105 लोग बीमार हो गए और अस्पताल पहुंचे। एक श्रद्धालु की मौत हो गई। यह घटना ओडिशा के पुरी में हुई। भगवान जगन्नाथ की बहुड़ा रथ यात्रा के दौरान कई लोग बीमार; 105 लोग पहुंचे अस्पताल, एक श्रद्धालु की मौत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भगवान जगन्नाथ की बहुड़ा रथ यात्रा के दौरान कई लोग बीमार; 105 लोग पहुंचे अस्पताल, एक श्रद्धालु की मौत",
-          "summary": "भगवान जगन्नाथ की बहुड़ा रथ यात्रा के दौरान 105 लोग बीमार हो गए और अस्पताल पहुंचे। एक श्रद्धालु की मौत हो गई। यह घटना ओडिशा के पुरी में हुई। भगवान जगन्नाथ की बहुड़ा रथ यात्रा के दौरान कई लोग बीमार; 105 लोग पहुंचे अस्पताल, एक श्रद्धालु की मौत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सलमान ने दिया ट्रोलिंग का जवाब, जिम से फिट बॉडी की तस्वीर शेयर कर बोले 'जो डर गया वो मर गया'",
-      "url": "https://www.amarujala.com/entertainment/bollywood/salman-khan-cryptic-post-amid-student-protest-show-off-physique-in-gym-photos-2026-07-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-25T03:21:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/salmana-khana_1e26484d960d0883d5a251de014ed4c7.jpeg?w=1200&dpr=1.0",
-      "summary": "बॉलीवुड के सुपरस्टार सलमान खान ने एक बार फिर अपनी जिम की तस्वीरें शेयर करके फैंस के बीच हलचल मचा दी है। सलमान ने दिया ट्रोलिंग का जवाब, जिम से फिट बॉडी की तस्वीर शेयर कर बोले 'जो डर गया वो मर गया'।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सलमान ने दिया ट्रोलिंग का जवाब, जिम से फिट बॉडी की तस्वीर शेयर कर बोले 'जो डर गया वो मर गया'",
-          "summary": "बॉलीवुड के सुपरस्टार सलमान खान ने एक बार फिर अपनी जिम की तस्वीरें शेयर करके फैंस के बीच हलचल मचा दी है। सलमान ने दिया ट्रोलिंग का जवाब, जिम से फिट बॉडी की तस्वीर शेयर कर बोले 'जो डर गया वो मर गया'।",
-          "region": "दुनिया"
         }
       }
     }
