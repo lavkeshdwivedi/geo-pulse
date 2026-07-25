@@ -1,6 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 25, 2026 12:22 IST
+**Updated:** July 25, 2026 13:12 IST
+
+---
+
+## Asia-Pacific
+
+### [Indonesian authorities arrest former anti-corruption prosecutor after seizing US$19 million and gold](https://www.channelnewsasia.com/asia/indonesian-authorities-arrest-former-anti-corruption-prosecutor-after-seizing-us19-million-and-gold-6277786)
+*Channel News Asia* - Jul 25, 12:44 IST (iso: 2026-07-25T07:14:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--C4C3UJoP--/c_crop,h_450,w_800,x_0,y_36/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-08T073013Z_1_LYNXMPELB70AP_RTROPTP_3_INDONESIA-TAX-GOLD.JPG?itok=A7Bd5qZl -->
+
+Former anti-graft prosecutor Febrie Adriansyah has been accused of money laundering while serving as Indonesia’s top anti-corruption prosecutor. He denied wrongdoing after being questioned on Friday (Jul 24), saying he was a victim of “criminalisation”. Indonesian authorities arrest former anti-corruption prosecutor after seizing US$19 million and gold.
+
+### [The hidden workers behind Indonesia’s digital boom](https://asiatimes.com/2026/07/blind-spot-the-hidden-workers-behind-indonesias-digital-boom/)
+*Asia Times* - Jul 25, 10:16 IST (iso: 2026-07-25T04:46:32+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Indonesia-Digital-Economy-2.jpg -->
+
+Today, Indonesia stands as one of the most formidable digital economic powerhouses in Southeast Asia. Bank Indonesia recorded digital payment transaction volumes reaching 5.22 billion in May 2026, marking 28.14% year-on-year growth. Meanwhile, QRIS transactions. the country’s standardized QR payment system. surged by an astounding 95.10%. Yet, beneath this rapid digitalization lies a [] The pos The hidden workers behind Indonesia’s digital boom.
 
 ---
 
@@ -42,18 +58,12 @@ Ukraine struck targets in several parts of Russia early on July 24, including an
 
 Ukrainian drone-interceptor crews are working around the clock to stop Russian reconnaissance and attack drones approaching the frontline city of Kramatorsk. RFE/RL spent a night with one team defending the skies as aerial attacks intensify. On The Front Line Of Ukraine's Drone War Over Kramatorsk.
 
-### [No Breakthroughs, Little Optimism As Rubio, Lavrov Meet On Ukraine War](https://www.rferl.org/a/rubio-ukraine-war-lavrov-meeting-russia/33810551.html)
-*Radio Free Europe / Liberty* - Jul 23, 16:26 IST (iso: 2026-07-23T10:56:09+00:00)
-<!-- image: https://gdb.rferl.org/4e1f3c9d-71dc-4b7b-9015-9f64b58f6901_cx0_cy6_cw0_w1200_h630.jpg -->
-
-US Secretary of State Marco Rubio said following talks with Russian Foreign Minister Sergei Lavrov that the United States remains prepared to help broker an end to Russia's war in Ukraine but that fresh proposals would be needed after previous peace ideas failed. No Breakthroughs, Little Optimism As Rubio, Lavrov Meet On Ukraine War.
-
 ---
 
 ## World
 
 ### [More job tasters, credits to explore hobbies: SG Youth Plan aims to reach over half a million](https://www.channelnewsasia.com/singapore/youth-plan-job-tasters-curiosity-credits-david-neo-mccy-6275276)
-*Channel News Asia* - Jul 25, 11:13 IST (iso: 2026-07-25T05:43:34+00:00)
+*Channel News Asia* - Jul 25, 11:13 IST (iso: 2026-07-25T05:43:00+00:00)
 <!-- image: https://dam.mediacorp.sg/image/upload/s--149lD3WA--/c_crop,h_1125,w_2000,x_0,y_133/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/24/david_neo_mccy_minister07.jpg?itok=6lqY4bD6 -->
 
 The national plan for youth development is a “living plan” that will constantly evolve to respond to changing needs and anxieties of youths in the coming years, said Acting Minister for Culture, Community and Youth David Neo. More job tasters, credits to explore hobbies: SG Youth Plan aims to reach over half a million.
@@ -72,7 +82,7 @@ Growing up with hearing loss left Sabrina Wong shy and unsure of herself. Music,
 *The Hindu (International)* - Jul 25, 10:26 IST (iso: 2026-07-25T04:56:18+00:00)
 <!-- image: https://th-i.thgim.com/public/sci-tech/science/xmonen/article71256191.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-23%20at%207.19.17%E2%80%AFAM.png -->
 
-The U. S. faces a complex challenge at Iran’s Pickaxe Mountain, where powerful bunker buster bombs face hardy geological formations. Success is also limited by a critical minerals crunch, and could force Trump to shift from total destruction to disabling surface infrastructure and subterranean access tunnels Will Trump’s bunker buster bombs punch through Iran’s Pickaxe Mountain?
+The U. S. faces a complex challenge at Iran’s Pickaxe Mountain, where powerful bunker buster bombs face hardy geological formations. Success is also limited by a critical minerals crunch, and could force Trump to shift from total destruction to disabling surface infrastructure and subterranean access tunnels Will Trump’s bunker buster bombs punch through Iran’s Pickaxe Mountain? The U. S.
 
 ### [Trump Says Iran 'Far More Serious' In Talks, Even As Attacks Intensify, Widen In Region](https://www.rferl.org/a/iran-talks-houthi-yemen-gulf-trump/33812472.html)
 *Radio Free Europe / Liberty* - Jul 25, 04:32 IST (iso: 2026-07-24T23:02:42+00:00)
@@ -139,16 +149,6 @@ Food security and child nutrition have improved across the Gaza Strip largely du
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/11-06-2026-Unsplash-Iran-hormuz.jpg/image770x420cropped.jpg -->
 
 As the Iran-US war continues, the key question remains unanswered about how shipping through the Strait of Hormuz will be managed in future – although the UN has reiterated that charging tolls for safe passage runs contrary to international law. Stranded seafarers remain trapped as Hormuz shipping stalls.
-
----
-
-## Asia-Pacific
-
-### [The hidden workers behind Indonesia’s digital boom](https://asiatimes.com/2026/07/blind-spot-the-hidden-workers-behind-indonesias-digital-boom/)
-*Asia Times* - Jul 25, 10:16 IST (iso: 2026-07-25T04:46:32+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Indonesia-Digital-Economy-2.jpg -->
-
-Today, Indonesia stands as one of the most formidable digital economic powerhouses in Southeast Asia. Bank Indonesia recorded digital payment transaction volumes reaching 5.22 billion in May 2026, marking 28.14% year-on-year growth. Meanwhile, QRIS transactions. the country’s standardized QR payment system. surged by an astounding 95.10%. Yet, beneath this rapid digitalization lies a [] The pos The hidden workers behind Indonesia’s digital boom.
 
 ---
 
