@@ -1,86 +1,38 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 25, 2026 12:22 IST
+**अपडेट:** July 25, 2026 13:12 IST
 
 ---
 
-## दुनिया
+## मध्य पूर्व और अफ्रीका
 
-### [क्या इसे लोकतांत्रिक संस्कृति के नए अध्याय का आरंभ कहें?](https://www.amarujala.com/columns/blog/pm-modi-video-message-on-protest-is-this-a-new-chapter-in-democratic-culture-2026-07-25)
-*Amar Ujala National* - Jul 25, 12:10 IST (iso: 2026-07-25T06:40:33+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/narendra-modi_192c92124f8281ad945e47e2bb858329.jpeg?w=1200&dpr=1.0 -->
+### [मानवाधिकार का पाठ पढ़ाने वाले यूरोप को ईरान ने आईना दिखाया, पूछा- अब चुप क्यों हो?](https://hindi.news18.com/world/middle-east-iran-war-live-news-houthi-attack-on-saudi-aramco-live-jizan-refinery-yemen-war-trump-iran-livenews-10688116.html)
+*News18 Hindi (World)* - Jul 25, 13:09 IST (iso: 2026-07-25T07:39:33+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/saudi-aramco-2026-07-a03a1cd97c880e21191e84edb5d31788-1200x800.jpg -->
 
-Prime Minister Narendra Modi posted a short Instagram video aimed at youth that reached over 20 million viewers within hours. The clip featured Modi speaking in Hindi about civic engagement and was shared by more than 500,000 accounts. The rapid spread sparked debate over the role of social media in shaping political discourse. The government has not issued a statement on the video’s impact.
+Houthi Attack On Saudi Arabia Live: यमन के हूती विद्रोहियों ने सऊदी अरब के जिजान स्थित अरामको रिफाइनरी और औद्योगिक क्षेत्र को निशाना बनाने का दावा किया है. ईरान के प्रेस टीवी के मुताबिक, मिसाइल हमलों के बाद जिजान के कई इलाकों में बिजली आपूर्ति बाधित हुई. यह हमला सऊदी अरब की ओर से हूती कंट्रोल वाले होदेदाह पर की गई एयरस्ट्राइक के कुछ घंटे बाद हुआ.
 
-### ['वह मर जाता', 'रेसिडेंट ईविल' के निर्देशक ने शूटिंग के वक्त के हादसे का किया जिक्र; बाल-बाल बचे थे](https://www.amarujala.com/entertainment/hollywood/resident-evil-director-zach-cregger-reveals-how-austin-abrams-faced-a-near-death-experience-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:56 IST (iso: 2026-07-25T06:26:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/jaka-karagara-rasadata-iival_f4b3962b667c235c84d607c80ea1558b.jpeg?w=1200&dpr=1.0 -->
+### [88 करोड़ की ठगी के मास्टरमाइंड का प्रत्यर्पण, यूएई से भारत लाया गया अविनाश राठौड़](https://www.amarujala.com/india-news/pune-police-big-success-avinash-rathod-mastermind-behind-an-88-crore-fraud-brought-to-india-from-uae-2026-07-25)
+*Amar Ujala National* - Jul 25, 12:35 IST (iso: 2026-07-25T07:05:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/07/handcuff_5805ec83b93df496a316f5996df52808.jpeg?w=1200&dpr=1.0 -->
 
-'रेसिडेंट ईविल' के निर्देशक जैक क्रेगर ने अपनी फिल्म में हुए एक हादसे के बारे में बताया है। 'वह मर जाता', 'रेसिडेंट ईविल' के निर्देशक ने शूटिंग के वक्त के हादसे का किया जिक्र; बाल-बाल बचे थे।
+पुणे पुलिस ने 88 करोड़ की ठगी के मास्टरमाइंड अविनाश राठौड़ को यूएई से प्रत्यर्पित किया है। उन्हें भारत लाया गया है और अब उन पर कार्रवाई की जाएगी। 88 करोड़ की ठगी के मास्टरमाइंड का प्रत्यर्पण, यूएई से भारत लाया गया अविनाश राठौड़।
 
-### [शराबी ने थाने से उड़ाई पुलिस की बोलेरो, आठ लोगों को रौंदा; अब टीआई ने मामले में तोड़ी चुप्पी](https://www.amarujala.com/madhya-pradesh/panna-raipura-police-bolero-case-ti-smita-singh-breaks-silence-2026-07-25)
-*Amar Ujala Breaking* - Jul 25, 11:42 IST (iso: 2026-07-25T06:12:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/palsa-ka-garafata-ma-aarapa_b19043ffbd6eff698ddfe30b89d80ee5.jpeg?w=1200&dpr=1.0 -->
+### [ईरान के कुंभकरण के पास ऐसे खतरनाक हथियार, जो मिडिल ईस्ट की लंका लगा देंगे! मिसाइल से ड्रोन तक खेप](https://hindi.news18.com/news/knowledge/iran-aide-houthi-group-arsenal-dangerous-weapons-from-cruise-missile-to-drones-in-red-sea-middle-east-10688373.html)
+*News18 Hindi (World)* - Jul 25, 11:51 IST (iso: 2026-07-25T06:21:16+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Untitled-design-2026-07-25T114111.158-2026-07-25a56b9ccbabea51f93fc88dff6c40b3-1200x800.jpg -->
 
-पन्ना जिले के रैपुरा थाने से एक शराबी ने पुलिस की बोलेरो उड़ा ली। इस घटना में आठ लोगों को रौंदा गया। थाना प्रभारी स्मिता सिंह बघेल ने मामले में अपनी चुप्पी तोड़ी है। पन्ना जिले के रैपुरा थाने से शासकीय बोलेरो ले जाकर बाजार में कई लोगों को टक्कर मारने की सनसनीखेज घटना पर थाना प्रभारी स्मिता सिंह बघेल ने सफाई दी है।
-
-### [नितेश तिवारी की ‘सीता’ से खुश नहीं दीपिका चिखलिया? जानें साई पल्लवी को लेकर क्या बोलीं अभिनेत्री](https://www.amarujala.com/entertainment/bollywood/ramayana-tv-show-fame-dipika-chikhlia-raised-question-on-sai-pallavi-casting-in-nitesh-tiwari-ramayan-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:42 IST (iso: 2026-07-25T06:12:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/saii-pallva-thapaka-cakhalya_446fe5623db06a3c57bf0546ea660a0d.jpeg?w=1200&dpr=1.0 -->
-
-दीपिका चिखलिया ने नितेश तिवारी की फिल्म 'रामायण: भाग 1' में साई पल्लवी की कास्टिंग पर सवाल उठाए हैं। उन्होंने साई पल्लवी को सीता की भूमिका में देखने के बारे में अपनी राय व्यक्त की है। दीपिका चिखलिया ने कहा कि उन्हें लगता है कि सीता की भूमिका के लिए कोई और अभिनेत्री अधिक उपयुक्त हो सकती थी। नितेश तिवारी की फिल्म 'रामायण: भाग 1' में साउथ अभिनेत्री साई पल्लवी की कास्टिंग को लेकर सीरियल ‘रामायण’ की सीता दीपिका चिखलिया ने एक बड़ा सवाल किया है।
-
-### [राजस्थान लोअर डिवीजन क्लर्क की उत्तरकुंजी जारी, इस तारीख तक दर्ज कराएं आपत्ति](https://www.amarujala.com/jobs/government-jobs/rajasthan-ldc-answer-key-2026-released-raise-objections-till-july-28-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:38 IST (iso: 2026-07-25T06:08:43+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/01/18/omr-sheet-answer-key_2d105f1e7b3e326fa4ed65da0d501fab.jpeg?w=1200&dpr=1.0 -->
-
-राजस्थान कर्मचारी चयन बोर्ड ने लोअर डिवीजन क्लर्क भर्ती परीक्षा की उत्तरकुंजी 12 अप्रैल 2026 को जारी की। परीक्षा में शामिल अभ्यर्थी आधिकारिक वेबसाइट पर जाकर उत्तरकुंजी देख सकते हैं। उत्तरकुंजी जारी होने के बाद अभ्यर्थी 15 अप्रैल 2026 तक अपनी आपत्ति दर्ज करा सकते हैं। Rajasthan LDC Answer Key 2026: राजस्थान कर्मचारी चयन बोर्ड ने लोअर डिवीजन क्लर्क भर्ती परीक्षा की उत्तरकुंजी जारी कर दी है।
-
-### [व्हाट्सएप में खत्म होगा 6-डिजिट पिन का झंझट: आने वाला है नया सिक्योरिटी फीचर, जानें अकाउंट कैसे](https://www.amarujala.com/technology/mobile-apps/whatsapp-replace-6-digit-pin-password-stronger-account-security-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:31 IST (iso: 2026-07-25T06:01:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/vahatasaepa-ka-naya-sabhavata-facara_579d128caf4c64bd9528633218abe218.jpeg?w=1200&dpr=1.0 -->
-
-व्हाट्सएप में 6-डिजिट पिन के झंझट को समाप्त करने के लिए एक नया सिक्योरिटी फीचर आने वाला है। यह फीचर अकाउंट को सुरक्षित बनाएगा। टू-स्टेप वेरिफिकेशन के साथ यह फीचर जल्द ही उपलब्ध होगा। WhatsApp Password Feature: क्या आप भी व्हाट्सएप के टू-स्टेप वेरिफिकेशन का इस्तेमाल करते हैं? तो जल्द ही आपको इसमें बड़ा बदलाव देखने को मिल सकता है।
-
-### [क्या नीट पेपर लीक आंदोलन अब खत्म हो जाएगा या प्रधान का इस्तीफा होगा, किसे होगा फायदा-किसे नुकसान?](https://www.amarujala.com/columns/blog/cjp-protest-will-the-neet-paper-leak-agitation-now-come-to-an-end-or-will-pradhan-resign-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:31 IST (iso: 2026-07-25T06:01:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/08/21/dharmendra-pradhan_e6a69b744bfccefe4fd56c712d7c2385.jpeg?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री नरेंद्र मोदी ने नीट पेपर लीक मामले में एक्शन लिया है। उन्होंने फास्ट ट्रैक कोर्ट में सुनवाई का एलान किया है। 24 घंटे के भीतर चार फास्ट ट्रैक अदालतें बन गईं हैं। नीट पेपर लीक आंदोलन की जमीन पर विपक्ष की सियासी फसल लहलहाने की कोशिशों के बीच प्रधानमंत्रीनरेंद्र मोदी ताबड़तोड़ एक्शन में हैं। पेपर लीक मामले की फास्ट ट्रैक कोर्ट में सुनवाई का एलान किया।
-
-### [CJP के लिए बुरी खबर! दिपके को हुई ये बीमारी! Dipke diagnosed with typhoid](https://www.amarujala.com/video/india-news/abhijeet-dipke-sick-bad-news-for-cjp-dipke-has-contracted-this-illness-dipke-diagnosed-with-typhoid-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:31 IST (iso: 2026-07-25T06:01:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/abhijeet-dipke-sick-cjp-ka-le-bra-khabra-thapaka-ka-haii-ya-bmara-dipke-diagnosed-with-typhoid_27cffdb7ee88624ee2960ac2e7e20622.jpeg?w=1200&dpr=1.0 -->
-
-अभिजीत दिपके को 26 दिन के अनशन के बाद त्यफोइड हो गया है। उन्हें अस्पताल में भर्ती कराया गया है। दिपके ने नीट पेपर लीक आंदोलन का नेतृत्व किया था। 26 दिन तक चले अनशन के बाद सोनम वांगचुक ने आंदोलन की मशाल अपने साथियों को सौंप दी लेकिन अब उसी आंदोलन का नेतृत्व कर रहे अभिजीत दिपके बीमार पड़ गए हैं।
-
-### [मोबाइल छोड़कर खुशी-खुशी खाना खाएगा बच्चा, बस आज से अपनाएं ये आसान तरीके](https://www.amarujala.com/photo-gallery/lifestyle/relationship/how-to-feed-kids-without-mobile-4-easy-parenting-tips-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:30 IST (iso: 2026-07-25T06:00:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/how-to-feed-kids-without-mobile_fd1800bb9410dfde007ba61ff5334c02.jpeg?w=1200&dpr=1.0 -->
-
-बच्चों को मोबाइल से दूर रखने के लिए अभिभावकों ने एक नई रणनीति अपनाई है। उन्होंने बच्चों को खाना खाने के लिए एक अलग स्थान बनाया है, जहां मोबाइल का उपयोग नहीं किया जा सकता है। इस स्थान पर बच्चों को खाना खाने के लिए प्रोत्साहित किया जा रहा है। mobile addiction in kids: अगर आपका बच्चा भी मोबाइल देखते हुए ही खाना खाता है, तो खाना खिलाने के ये आसान उपाय आपके लिए ही हैं।
-
-### [जन्म के कुछ ही सेकंड बाद नवजात ने किया ऐसा कारनामा, वीडियो हुआ सुपर वायरल](https://www.amarujala.com/bizarre-news/little-newborn-baby-goes-viral-and-refuses-to-let-go-of-doctors-stethoscope-video-viral-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:21 IST (iso: 2026-07-25T05:51:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/navajata-bcaca-ka-satha-dakatara-ka-cal-khacatana_7dfd2abbab1c542b89586c000a06c1b5.jpeg?w=1200&dpr=1.0 -->
-
-एक नवजात शिशु ने जन्म के कुछ ही सेकंड बाद अपने स्टेथेस्कोप को पकड़ लिया। वीडियो में दिखाया गया है कि डॉक्टर जैसे ही बच्चे की जांच के लिए स्टेथेस्कोप उसके पास लाते हैं, तो बच्चे ने अपने हाथ से स्टेथेस्कोप को पकड़ लिया। सोशल मीडिया पर एक नवजात शिशु का क्यूट वीडियो तेजी से वायरल हो रहा है। वीडियो में डॉक्टर जैसे ही बच्चे की जांच के लिए स्टेथेस्कोप उसके पास लाते हैं।
-
-### [उमर अब्दुल्ला की अपील, कहा- ‘बदला हुआ कश्मीर दिखाएं’, इम्तियाज बोले- कश्मीरियों काे बढ़ावा देंगे](https://www.amarujala.com/entertainment/bollywood/cm-omar-abdullah-complained-about-the-portrayal-of-a-distorted-image-of-kashmir-2026-07-25)
-*Amar Ujala Breaking* - Jul 25, 11:05 IST (iso: 2026-07-25T05:35:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/saema-umara-abthallha-imatayaja_353ea7d68558ad631417112616b120f9.jpeg?w=1200&dpr=1.0 -->
-
-जम्मू व कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने बॉलीवुड से अपील की कि वे कश्मीर की बदलती तस्वीर दिखाएं। उन्होंने कहा कि घाटी का अतीत हिंसा पर केंद्रित है, जबकि अब यह बदल रही है। जम्मू व कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने शुक्रवार को बॉलीवुड से अपील की कि वे हिंसा पर केंद्रित कश्मीर के अतीत के बजाय घाटी की बदलती तस्वीर दिखाएं।
+Houthi Weapons: हूती विद्रोही दुनिया के सबसे शक्तिशाली संगठन गैर-राज्य सैन्य ताकत में से एक के रूप में उभरे हैं. रेड सी यानी लाल सागर में जहाजरानी को धमकाने के लिए वे एंटी-शिप बैलिस्टिक मिसाइल, क्रूज मिसाइल, ड्रोन और विस्फोटक नौकाओं का इस्तेमाल कर रहे हैं. अमेरिका और इजरायल से चल रही जंग में ईरान के साथ जय-वीरू बने हूती ग्रुप के पास किसी देश की सेना जैसी ताकत है.
 
 ---
 
 ## यूरोप और रूस
 
-### [एक्स ने हड़प लिए 52 लाख रुपये, AI की मदद से शख्स ने जीत लिया लाखों का केस, जानें कैसे](https://www.amarujala.com/bizarre-news/uk-firefighter-wins-5-2-million-rupees-court-battle-against-ex-girlfriend-with-ai-help-viral-story-2026-07-25)
-*Amar Ujala National* - Jul 25, 12:05 IST (iso: 2026-07-25T06:35:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/eaaii-ka-mathatha-sa-jata-kasa_05e813813e6cfa4200247b04fa5cec6d.jpeg?w=1200&dpr=1.0 -->
+### [रूस-यूक्रेन जंग होगी खत्म? ट्रंप और जेलेंस्की का नया प्लान, पुतिन भी नहीं करेंगे इनकार!](https://hindi.news18.com/world/europe-donald-trump-zelensky-new-peace-plan-russia-putin-ukraine-war-air-ceasefire-10688467.html)
+*News18 Hindi (World)* - Jul 25, 12:58 IST (iso: 2026-07-25T07:28:47+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/putin-22-2026-07-75cd12938daf2ec214a652fec0ef3c0e-1200x800.jpg -->
 
-ब्रिटेन के फायरफाइटर क्रेग टिटचेनर ने अपनी एक्स-गर्लफ्रेंड से 52 लाख रुपये वापस पाने के लिए महंगे वकीलों की जगह ChatGPT का सहारा लिया। एक्स ने हड़प लिए 52 लाख रुपये, AI की मदद से शख्स ने जीत लिया लाखों का केस, जानें कैसे।
+Russia Ukraine War: यूक्रेन और अमेरिका रूस के सामने शांति वार्ता का नया प्रस्ताव रखने की तैयारी कर रहे हैं. रिपोर्ट के मुताबिक, यह प्रस्ताव युद्ध के बदलते हालात को ध्यान में रखकर तैयार किया जा रहा है. सीमित हवाई युद्धविराम पर पहले की तुलना में ज्यादा गंभीरता से विचार हो रहा है. रूस भी इसके लिए तैयार हो सकता है, क्योंकि लगातार यूक्रेन ने हवाई हमले से अपनी बढ़त बनाई है.
 
 ### [एक ट्रैक्टर वाले की करतूत से झुलस रहे स्पेन और फ्रांस, घर-घर में घुसा धुंआ, एक लाख बेघर](https://hindi.news18.com/world/europe-spain-france-wildfire-tractor-driver-arrest-one-lakh-evacuated-10688372.html)
 *News18 Hindi (World)* - Jul 25, 12:04 IST (iso: 2026-07-25T06:34:12+00:00)
@@ -94,55 +46,119 @@ Spain Ki Aag: स्पेन और फ्रांस इस समय भी�
 
 अभिजीत दीपके ने शनिवार को एक वीडियो जारी किया, जिसमें उन्होंने बताया कि उन्हें टाइफाइड हुआ है। उन्होंने कहा कि उनकी तबीयत खराब हो गई है और वे जल्द ही ठीक हो जाएंगे। कॉकरोच जनता पार्टी (सीजेपी) के संस्थापक अभिजीत दीपके की तबीयत खराब हो गई है। शनिवार को अभिजीत दीपके ने खुद एक्स पर एक वीडियो जारी कर अपनी सेहत के बारे में जानकारी दी।
 
-### [लॉ कॉलेजों में गड़बड़ियों पर रोक के लिए BCI ने निरीक्षण के दिए निर्देश, शिक्षा की गुणवत्ता पर रहेगा](https://www.amarujala.com/education/bci-orders-law-college-inspections-to-curb-irregularities-ensure-quality-education-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:28 IST (iso: 2026-07-25T05:58:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/22/aibe-19_b3efe499b847bd1d48afbb1c9fec3e56.jpeg?w=1200&dpr=1.0 -->
+---
 
-बार काउंसिल ऑफ इंडिया ने देशभर के लॉ कॉलेजों के निरीक्षण का आदेश दिया है। इसका उद्देश्य संस्थानों में संभावित गड़बड़ियों पर रोक लगाना और कानूनी शिक्षा की गुणवत्ता सुनिश्चित करना है। निरीक्षण के दौरान, बार काउंसिल ऑफ इंडिया के सदस्यों को संस्थानों की शैक्षिक सामग्री, प्रशिक्षण और प्रबंधन की जांच करनी होगी। लॉ कॉलेजों में गड़बड़ियों पर रोक के लिए BCI ने निरीक्षण के दिए निर्देश, शिक्षा की गुणवत्ता पर रहेगा।
+## दुनिया
 
-### [ट्रंप की यूरोप को सीधी चेतावनी, अमेरिकी टेक कंपनियों पर भारी जुर्माने के बदले भुगतना होगा अंजाम](https://www.patrika.com/world-news/donald-trump-warns-eu-over-tech-companies-fine-trade-war-threat-20776265)
-*Patrika (World)* - Jul 25, 11:18 IST (iso: 2026-07-25T05:48:34+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/photo_6278133218066239437_y.webp -->
+### [‘आदिपुरूष’ को लेकर बोले मनोज मुंतशिर, ‘फिल्म मेरी जिंदगी की सबसे बड़ी गलती थी’](https://www.amarujala.com/entertainment/bollywood/lyricist-manoj-muntashir-shared-his-views-about-trolling-of-film-adipurush-2026-07-25)
+*Amar Ujala National* - Jul 25, 12:57 IST (iso: 2026-07-25T07:27:23+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/falma-aathapanprshha-manaja-matashara_e30b3f1f93f55e55acdefe024e807c78.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने यूरोपीय संघ को सीधी चेतावनी दी है कि अगर वे अमेरिकी टेक कंपनियों पर लगाए गए जुर्मानों को नहीं हटाते हैं, तो अमेरिका भी टैरिफ लगाएगा। ट्रंप ने कहा है कि अमेरिका अब अमेरिकी कंपनियों और करदाताओं को यूरोप के लिए 'पिगी बैंक' नहीं बनने देगा। US EU Trade War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप यूरोपीय संघ (EU) को सीधे तौर पर व्यापार जांच और भारी टैरिफ लगाने की धमकी दी है।
+फिल्म ‘आदिपुरूष’ की ट्रोलिंग को लेकर मनोज मुंतशिर ने रिलीज के तीन साल बाद अपनी भावनाएं साझा कीं। जानें क्या कहा मनोज ने - ‘आदिपुरूष’ को लेकर बोले मनोज मुंतशिर, ‘फिल्म मेरी जिंदगी की सबसे बड़ी गलती थी’।
+
+### [ट्रेन में मिलने वाले चादर-तकिया-कंबल को कितने दिन में बदला जाता है? खुद रेलवे ने बताया](https://www.amarujala.com/photo-gallery/utility/indian-railways-how-often-are-the-bedsheets-pillows-and-blankets-provided-on-trains-changed-2026-07-25)
+*Amar Ujala National* - Jul 25, 12:48 IST (iso: 2026-07-25T07:18:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/tarana-ma-isatamal-hana-val-kabl-takae-oura-cathara-ka-katana-samaya-ma-bthal-jata-ha_159ed1cf585ea6f6f0234020f031b3ca.jpeg?w=1200&dpr=1.0 -->
+
+क्या आप जानते हैं कि ट्रेन में आपको मिलने वाले चादर, तकिए और कंबल आदि को कितने दिनों में बदला जाता है? आप यहां जान सकते हैं। ट्रेन में मिलने वाले चादर-तकिया-कंबल को कितने दिन में बदला जाता है? खुद रेलवे ने बताया।
+
+### [कार चलाते समय दिख रहे यह पांच लक्षण? समझ जाएं खराब हो चुका है सस्पेंशन; जानें बचाव के तरीके](https://www.amarujala.com/automobiles/5-signs-your-suspension-needs-immediate-attention-2026-07-25)
+*Amar Ujala National* - Jul 25, 12:44 IST (iso: 2026-07-25T07:14:41+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/paratakatamaka-tasavara_4e296930c54ef999de35cb30150d0f0f.jpeg?w=1200&dpr=1.0 -->
+
+कार चलाते समय यदि आपको कुछ विशिष्ट लक्षण दिखाई दे रहे हैं, तो समझ जाएं कि सस्पेंशन खराब हो चुका है। सस्पेंशन कार के आरामदेह सफर के साथ-साथ ड्राइविंग सेफ्टी, कंट्रोल और स्टेबिलिटी के लिए भी जरूरी होता है। Car Suspension: कार का सस्पेंशन सिर्फ आरामदेह सफर के लिए नहीं, बल्कि ड्राइविंग सेफ्टी, कंट्राेल और स्टेबिलिटी के लिए भी जरुरी होता है।
+
+### ['देवेंद्रजी महाराष्ट्र में ही रहेंगे', फडणवीस के केंद्र जाने की अटकलों के बीच बोलीं पत्नी अमृता](https://www.amarujala.com/india-news/devendra-ji-will-stay-in-maharashtra-says-wife-amruta-amidst-speculation-about-fadnavis-moving-to-the-centre-2026-07-25)
+*Amar Ujala Breaking* - Jul 25, 12:39 IST (iso: 2026-07-25T07:09:29+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/12/05/amata-fadanaevasa_9bf62a1ee59494f5f1d5e59fc4cd5156.jpeg?w=1200&dpr=1.0 -->
+
+देवेंद्र फडणवीस की पत्नी अमृता ने कहा कि वह महाराष्ट्र में ही रहेंगे, केंद्र जाने की अटकलों के बावजूद। उन्होंने कहा कि फडणवीस का कोई फैसला नहीं हुआ है। 'देवेंद्रजी महाराष्ट्र में ही रहेंगे', फडणवीस के केंद्र जाने की अटकलों के बीच बोलीं पत्नी अमृता।
+
+### [दो मासूमों की मौत के बाद अलर्ट मोड पर स्वास्थ्य विभाग, राजस्थान-गुजरात सीमा पर खौफ](https://www.amarujala.com/rajasthan/banswara/why-is-the-chandipura-virus-infection-limited-to-the-tribal-areas-of-rajasthan-and-gujarat-that-is-the-big-question-banswara-news-c-1-1-noi1402-4539674-2026-07-25)
+*Amar Ujala Breaking* - Jul 25, 12:38 IST (iso: 2026-07-25T07:08:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/rajasathana_7c897f34c1ca80707e3e1984dd07b4c3.jpeg?w=1200&dpr=1.0 -->
+
+राजस्थान में चांदीपुरा वायरस का खतरा बढ़ गया है, जिससे दो मासूमों की मौत हो गई है। स्वास्थ्य विभाग ने अलर्ट मोड पर आ गया है और सीमा पर सुरक्षा बढ़ाई गई है। चांदीपुरा वायरस का खतरा अब राजस्थान के दूसरे जिले तक पहुंच गया है। डूंगरपुर के बाद सिरोही में भी एक बच्ची की मौत के मामले ने स्वास्थ्य विभाग को अलर्ट कर दिया है।
+
+### [बारिश में दिखना है सबसे स्टाइलिश? लॉन्ग स्कर्ट पहनने के ये स्मार्ट टिप्स अपनाएं](https://www.amarujala.com/photo-gallery/fashion/how-to-wear-long-skirts-comfortably-during-the-rainy-season-fashion-tips-2026-07-25)
+*Amar Ujala National* - Jul 25, 12:28 IST (iso: 2026-07-25T06:58:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/monsoon-fashion-tips_a660da498e91d09fd70bc2307bf2bb93.jpeg?w=1200&dpr=1.0 -->
+
+मानसून में लॉन्ग स्कर्ट पहनने के लिए हल्के और जल्दी सूखने वाले फैब्रिक का चयन करना सबसे अच्छा है। ये फैब्रिक आरामदायक होते हैं और जल्दी से सूख जाते हैं, जिससे आपको गर्मी से राहत मिलती है। Monsoon Fashion Tips: मानसून में हल्के और जल्दी सूखने वाले फैब्रिक की लॉन्ग स्कर्ट्स आराम, खूबसूरती और क्लास का शानदार मेल देती हैं।
+
+### [असम बाढ़ पर PM मोदी ने की हिमंता से की बात, अबतक 61 की मौत, 11 लाख से ज्यादा लोग प्रभावित](https://www.amarujala.com/india-news/monsoon-havoc-continues-pm-modi-speaks-himanta-assam-floods-61-dead-and-over-11-lakh-people-affected-so-far-2026-07-25)
+*Amar Ujala National* - Jul 25, 12:25 IST (iso: 2026-07-25T06:55:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/brasha-ka-kahara-jara_bb930857672ce82c1fde1c01f0d9400f.gif?w=1200&dpr=1.0 -->
+
+प्रधानमंत्री नरेंद्र मोदी ने असम के मुख्यमंत्री हिमंता बिस्वा सरमा से बाढ़ के बारे में चर्चा की। इस बाढ़ में अब तक 61 लोगों की मौत हो चुकी है और 11 लाख से अधिक लोग प्रभावित हैं। असम बाढ़ पर PM मोदी ने की हिमंता से की बात, अबतक 61 की मौत, 11 लाख से ज्यादा लोग प्रभावित।
+
+### [अवैध ब्रेकर से गई राहुल की जान: परिजनों ने पूछा किसने बनवाया और क्यों हटाया? आईजीआरएस से भी नहीं](https://www.amarujala.com/delhi-ncr/ghaziabad/rahul-lost-his-life-due-to-illegal-breaker-questions-asked-in-igrs-also-remained-unanswered-2026-07-25)
+*Amar Ujala Breaking* - Jul 25, 12:17 IST (iso: 2026-07-25T06:47:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/ghaziabad-news_ab48187b9cf8e16846813c0683adb0f5.jpeg?w=1200&dpr=1.0 -->
+
+राहुल कुमार की मौत के एक दिन बाद पुलिस ने जांच शुरू की और पाया कि अवैध ब्रेकर को बनवाने वाले के बारे में कोई जानकारी नहीं थी। परिजनों ने पूछा कि कौन बनवाया और क्यों हटाया गया, लेकिन पुलिस ने कोई जवाब नहीं दिया। आईजीआरएस से भी जानकारी नहीं मिली। साहिबाबाद के कॉलोनी में अवैध तौर पर बनाए गए ब्रेकर से 7 जून भोपुरा निवासी राहुल कुमार (34) की मौत हो गई थी।
+
+### [क्या इसे लोकतांत्रिक संस्कृति के नए अध्याय का आरंभ कहें?](https://www.amarujala.com/columns/blog/pm-modi-video-message-on-protest-is-this-a-new-chapter-in-democratic-culture-2026-07-25)
+*Amar Ujala National* - Jul 25, 12:10 IST (iso: 2026-07-25T06:40:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/narendra-modi_192c92124f8281ad945e47e2bb858329.jpeg?w=1200&dpr=1.0 -->
+
+Prime Minister Narendra Modi posted a short Instagram video aimed at youth that reached over 20 million viewers within hours. The clip featured Modi speaking in Hindi about civic engagement and was shared by more than 500,000 accounts. The rapid spread sparked debate over the role of social media in shaping political discourse. The government has not issued a statement on the video’s impact.
+
+### [नितेश तिवारी की ‘सीता’ से खुश नहीं दीपिका चिखलिया? जानें साई पल्लवी को लेकर क्या बोलीं अभिनेत्री](https://www.amarujala.com/entertainment/bollywood/ramayana-tv-show-fame-dipika-chikhlia-raised-question-on-sai-pallavi-casting-in-nitesh-tiwari-ramayan-2026-07-25)
+*Amar Ujala Breaking* - Jul 25, 11:42 IST (iso: 2026-07-25T06:12:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/saii-pallva-thapaka-cakhalya_446fe5623db06a3c57bf0546ea660a0d.jpeg?w=1200&dpr=1.0 -->
+
+दीपिका चिखलिया ने नितेश तिवारी की फिल्म 'रामायण: भाग 1' में साई पल्लवी की कास्टिंग पर सवाल उठाए हैं। उन्होंने साई पल्लवी को सीता की भूमिका में देखने के बारे में अपनी राय व्यक्त की है। दीपिका चिखलिया ने कहा कि उन्हें लगता है कि सीता की भूमिका के लिए कोई और अभिनेत्री अधिक उपयुक्त हो सकती थी। नितेश तिवारी की फिल्म 'रामायण: भाग 1' में साउथ अभिनेत्री साई पल्लवी की कास्टिंग को लेकर सीरियल ‘रामायण’ की सीता दीपिका चिखलिया ने एक बड़ा सवाल किया है।
+
+### [लाइसेंस था 15 किग्रा का हर कमरे में दिखा बारूद; सामने आई विस्फोट की ये तीन बड़ी वजह](https://www.amarujala.com/photo-gallery/uttar-pradesh/meerut/firecracker-factory-blast-saharanpur-license-was-for-15-kg-but-gunpowder-was-found-in-every-room-2026-07-25)
+*Amar Ujala Breaking* - Jul 25, 11:38 IST (iso: 2026-07-25T06:08:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/firecracker-factory-blast_5d0f87e90897e4fc2b9e1c1be5664c0f.jpeg?w=1200&dpr=1.0 -->
+
+सहारनपुर के गंगोह के कुंडाबसी गांव में स्थित पटाखा फैक्टरी में विस्फोट के बाद चार कमरों में विस्फोटक सामग्री और पटाखे रखे हुए पाए गए। कमरों में रखे विस्फोटक का कुल वजन 15 किग्रा था, जो कि लाइसेंस के अनुसार अधिक था। सहारनपुर के गंगोह के कुंडाबसी गांव स्थित पटाखा फैक्टरी में विस्फोट की तीन बड़ी वजह सामने आई है।
+
+### [बिट्टू के इस्तीफे से नई चुनावी बिसात, जाट सिख चेहरे के तौर पर मिलेगी बड़ी भूमिका!](https://www.amarujala.com/chandigarh/ravneet-singh-bittu-resignation-bjp-reshuffles-punjab-strategy-ahead-of-2027-assembly-elections-2026-07-25)
+*Amar Ujala Breaking* - Jul 25, 11:36 IST (iso: 2026-07-25T06:06:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/ravneet-singh-bittu-resignation_ab821b1060ee144616299a22c618a759.jpeg?w=1200&dpr=1.0 -->
+
+रवनीत सिंह बिट्टू ने केंद्रीय मंत्रिपरिषद से इस्तीफा दे दिया है, जिससे पंजाब की राजनीति में नए समीकरणों की चर्चा तेज हो गई है। राष्ट्रपति द्रौपदी मुर्मू ने प्रधानमंत्री नरेंद्र मोदी की सलाह पर उनका इस्तीफा तत्काल प्रभाव से स्वीकार कर लिया है। केंद्रीय मंत्रिपरिषद से रवनीत सिंह बिट्टू के इस्तीफे ने पंजाब की राजनीति में नए समीकरणों की चर्चा तेज कर दी है।
+
+### [डीपफेक क्लिप पर भड़के पीयूष गोयल: चाणक्यपुरी थाने में दर्ज कराई प्राथमिकी; आखिर किसने बनाया फर्जी](https://www.amarujala.com/india-news/piyush-goyal-files-police-complaint-over-ai-generated-deepfake-video-warns-of-strict-legal-action-2026-07-25)
+*Amar Ujala Breaking* - Jul 25, 10:14 IST (iso: 2026-07-25T04:44:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/payashha-gayal_5567b9b7f2ec0c8574e0610b42a361a7.jpeg?w=1200&dpr=1.0 -->
+
+पीयूष गोयल ने डीपफेक क्लिप पर भड़कते हुए चाणक्यपुरी थाने में प्राथमिकी दर्ज कराई। उन्होंने आरोप लगाया कि किसी ने उनका फर्जी वीडियो बनाया है। पुलिस ने मामले की जांच शुरू कर दी है। डीपफेक क्लिप पर भड़के पीयूष गोयल: चाणक्यपुरी थाने में दर्ज कराई प्राथमिकी; आखिर किसने बनाया फर्जी वीडियो?
+
+### [दूसरे दिन भी बॉक्स ऑफिस पर छाई 'जन नायकन', जानिए 'द ओडिसी' और 'धमाल 4' की कितनी हुई कमाई?](https://www.amarujala.com/entertainment/bollywood/box-office-report-vijay-film-jana-nayagan-to-the-odyssey-and-dhamaal-4-collection-on-friday-2026-07-25)
+*Amar Ujala Breaking* - Jul 25, 09:57 IST (iso: 2026-07-25T04:27:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/bkasa-oifasa-kalkashana_e7070d43493f276bcdb9184f6e67be45.jpeg?w=1200&dpr=1.0 -->
+
+सीएम विजय की आखिरी फिल्म 'जन नायकन' ने दो दिनों में बॉक्स ऑफिस पर अच्छा प्रदर्शन किया है। 'द ओडिसी' और 'धमाल 4' ने भी अच्छी कमाई की है, लेकिन 'जन नायकन' की कमाई सबसे अधिक रही है। सीएम विजय की आखिरी फिल्म 'जन नायकन' की रिलीज को दो दिन हो चुके हैं। दूसरे दिन भी बॉक्स ऑफिस पर छाई 'जन नायकन', जानिए 'द ओडिसी' और 'धमाल 4' की कितनी हुई कमाई?
 
 ---
 
-## मध्य पूर्व और अफ्रीका
+## अमेरिका
 
-### [सऊदी ने यमन पर बरसाए बम, हूतियों ने तुरंत लिया बदला, अरामको रिफाइनरी पर हमला](https://hindi.news18.com/world/middle-east-iran-war-live-news-houthi-attack-on-saudi-aramco-live-jizan-refinery-yemen-war-trump-iran-livenews-10688116.html)
-*News18 Hindi (World)* - Jul 25, 12:05 IST (iso: 2026-07-25T06:35:48+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/saudi-aramco-2026-07-a03a1cd97c880e21191e84edb5d31788-1200x800.jpg -->
+### [एच-1बी वीजा पर 1 लाख डॉलर शुल्क को लेकर ट्रंप को झटका, अमेरिकी अदालत ने क्यों खारिज की अपील?](https://www.amarujala.com/world/us-court-rejects-trump-administration-bid-to-revive-usd-100-000-h-1b-visa-fee-2026-07-25)
+*Amar Ujala World* - Jul 25, 12:44 IST (iso: 2026-07-25T07:14:36+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/donald-trump_991e5b34eacea23e15a90abd58fcb374.jpeg?w=1200&dpr=1.0 -->
 
-Houthi Attack On Saudi Arabia Live: यमन के हूती विद्रोहियों ने सऊदी अरब के जिजान स्थित अरामको रिफाइनरी और औद्योगिक क्षेत्र को निशाना बनाने का दावा किया है. ईरान के प्रेस टीवी के मुताबिक, मिसाइल हमलों के बाद जिजान के कई इलाकों में बिजली आपूर्ति बाधित हुई. यह हमला सऊदी अरब की ओर से हूती कंट्रोल वाले होदेदाह पर की गई एयरस्ट्राइक के कुछ घंटे बाद हुआ.
-
-### [ईरान के कुंभकरण के पास ऐसे खतरनाक हथियार, जो मिडिल ईस्ट की लंका लगा देंगे! मिसाइल से ड्रोन तक खेप](https://hindi.news18.com/news/knowledge/iran-aide-houthi-group-arsenal-dangerous-weapons-from-cruise-missile-to-drones-in-red-sea-middle-east-10688373.html)
-*News18 Hindi (World)* - Jul 25, 11:51 IST (iso: 2026-07-25T06:21:16+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Untitled-design-2026-07-25T114111.158-2026-07-25a56b9ccbabea51f93fc88dff6c40b3-1200x800.jpg -->
-
-Houthi Weapons: हूती विद्रोही दुनिया के सबसे शक्तिशाली संगठन गैर-राज्य सैन्य ताकत में से एक के रूप में उभरे हैं. रेड सी यानी लाल सागर में जहाजरानी को धमकाने के लिए वे एंटी-शिप बैलिस्टिक मिसाइल, क्रूज मिसाइल, ड्रोन और विस्फोटक नौकाओं का इस्तेमाल कर रहे हैं. अमेरिका और इजरायल से चल रही जंग में ईरान के साथ जय-वीरू बने हूती ग्रुप के पास किसी देश की सेना जैसी ताकत है.
-
-### [ईरान ने खाड़ी क्षेत्र में अमेरिकी ठिकानों को निशाना बनाया, सऊदी ने यमन में बरसाए बम](https://www.amarujala.com/live/world/west-asia-tension-live-us-iran-war-israel-trump-centcom-airstrikes-hormuz-pezeshkian-irgc-hindi-news-updates-2026-07-25)
-*Amar Ujala World* - Jul 25, 10:59 IST (iso: 2026-07-25T05:29:35+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/06/west-asia-crisis-live-us-iran-israel-war-day-7-us-army-irgc-turkiye-war-updates-and-news-in-hin_a0aa2afe0c126f011b15e33e5f2007e2.gif?w=1200&dpr=1.0 -->
-
-अमेरिकी सेना ने ईरान पर हमलों का दायरा बढ़ाया। राष्ट्रपति ट्रंप ने कहा कि अमेरिका शांति चाहता है लेकिन मजबूती से जवाब देगा। ईरान के साथ तनाव बढ़ रहा है। West Asia Tension LIVE: ईरान पर अमेरिकी सेना के हमलों का दायरा बढ़ा, जंग पर राष्ट्रपति ट्रंप क्या बोले? ईरान ने खाड़ी क्षेत्र में अमेरिकी ठिकानों को निशाना बनाया, सऊदी ने यमन में बरसाए बम।
+अमेरिकी अदालत ने राष्ट्रपति डोनाल्ड ट्रंप की अपील खारिज कर दी, जिसमें उन्होंने एच-1बी वीजा पर 1 लाख डॉलर शुल्क लगाने की मांग की थी। ट्रंप ने यह मांग की थी कि एच-1बी वीजा पर आने वाले विदेशी श्रमिकों से 1 लाख डॉलर शुल्क लिया जाए। US: एच-1बी वीजा पर 1 लाख डॉलर शुल्क को लेकर ट्रंप को झटका, अमेरिकी अदालत ने क्यों खारिज की अपील?
 
 ---
 
 ## एशिया-प्रशांत
 
-### [आज बिहार बंद का कहां-कैसा असर, किन जिलों में इंटरनेट बंद? जानें हर अपडेट](https://www.amarujala.com/live/bihar/patna/live-update-on-protest-during-bihar-band-in-bihar-news-live-protest-against-neet-paper-leak-dharmendra-pradhan-2026-07-25)
-*Amar Ujala Breaking* - Jul 25, 11:56 IST (iso: 2026-07-25T06:26:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/bihar-band-update-live-in-hindi_3da2861dac1c56eaad56eed2412c077f.jpeg?w=1200&dpr=1.0 -->
+### ['मैं तीन दिनों से सोया नहीं हूं, बस रो रहा हूं', छात्रों पर हुई कार्रवाई पर भावुक हुए शेखर सुमन](https://www.amarujala.com/entertainment/bollywood/shekhar-suman-condemns-police-action-on-student-protesters-says-i-have-only-cried-2026-07-25)
+*Amar Ujala National* - Jul 25, 12:38 IST (iso: 2026-07-25T07:08:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/shakhara-samana_45b1044a164c0986a5979874347d67b3.jpeg?w=1200&dpr=1.0 -->
 
-Bihar News: आज बिहार बंद है। दिल्ली के जंतर-मंतर पर हुए हंगामे के अगले दिन पटना में हुए भारी उपद्रव की कड़ी में आज वामपंथी छात्र संगठनों के बंद को पहले वामदलों ने फिर पूरे महागठबंधन से समर्थन दिया है। इस कारण जनजीवन सुबह से प्रभावित है। आज बिहार बंद का कहां-कैसा असर, किन जिलों में इंटरनेट बंद? जानें हर अपडेट।
+अभिनेता शेखर सुमन ने छात्रों पर हुई कार्रवाई की निंदा की और कहा कि वह तीन दिनों से नहीं सोए हैं। उन्होंने दिल्ली के जंतर-मंतर पर विरोध प्रदर्शन कर रहे छात्रों का समर्थन किया। एक्टर-होस्ट शेखर सुमन 'शेखर टूनाइट' के हालिया एपिसोड में भावुक हो गए। उन्होंने दिल्ली के जंतर-मंतर पर विरोध प्रदर्शन कर रहे छात्रों पर पुलिस की कार्रवाई की निंदा की है।
 
-### ['छात्रों की तीन मांगे हैं, इनपर कोई समझौता नहीं होगा', राहुल गांधी ने केंद्र के सामने रखी शर्तें](https://www.amarujala.com/india-news/rahul-gandhi-press-conference-neet-paper-leak-row-congress-bjp-delhi-student-protest-cjp-sonam-wangchuk-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:54 IST (iso: 2026-07-25T06:24:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/rahul-gandhi-press-conference-neet-paper-leak-row-congress-bjp-delhi-student-protest-cjp-sonam_63d0f6352bf5cab9d558edffb9ead985.jpeg?w=1200&dpr=1.0 -->
+### [दुल्हन बन जंतर-मंतर पहुंची छात्रा, कहा-पेपर लीक होते रहे तो पढ़ाई छोड़ शादी करना होगा](https://www.amarujala.com/bizarre-news/neet-paper-leak-cjp-protest-bride-students-jantar-mantar-against-paper-leaks-goes-viral-2026-07-25)
+*Amar Ujala National* - Jul 25, 12:30 IST (iso: 2026-07-25T07:00:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/thalhana-ka-gataapa-ma-pahaca-lugdhaka_d3b0b71c4a66f1cd0669e9bb800e28e4.jpeg?w=1200&dpr=1.0 -->
 
-Rahul Gandhi Press Conference; NEET Paper Leak Row, Congress, BJP, Delhi Student Protest, CJP, Sonam Wangchuk - Rahul Gandhi Press Conference: थोड़ी देर में राहुल गांधी की प्रेस वार्ता, पेपर लीक समेत मुद्दों पर करेंगे बात 'छात्रों की तीन मांगे हैं, इनपर कोई समझौता नहीं होगा', राहुल गांधी ने केंद्र के सामने रखी शर्तें।
+दिल्ली के जंतर-मंतर पर नीट पेपर लीक के विरोध में छात्रों का प्रदर्शन जारी है। एक छात्रा ने दुल्हन के वेश में प्रदर्शन करने पहुंची और कहा कि अगर पेपर लीक होते रहेंगे तो पढ़ाई छोड़ शादी करना होगा। दिल्ली के जंतर-मंतर पर नीट पेपर लीक और शिक्षा व्यवस्था में सुधार की मांग को लेकर छात्रों का प्रदर्शन जारी है।
 
 ### [विश्व जूनियर स्क्वैश चैंपियन बनकर इतिहास रच पाएंगी 18 साल की अनाहत सिंह? खिताब से बस एक जीत दूर](https://www.amarujala.com/photo-gallery/sports/anahat-singh-reaches-world-junior-squash-final-first-indian-since-2005-joshna-chinappa-2026-07-25)
 *Amar Ujala Breaking* - Jul 25, 11:45 IST (iso: 2026-07-25T06:15:01+00:00)
@@ -155,18 +171,6 @@ Rahul Gandhi Press Conference; NEET Paper Leak Row, Congress, BJP, Delhi Student
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/us-congress_e4bcd3f1b0509a5ef90260fd56482c10.jpeg?w=1200&dpr=1.0 -->
 
 अमेरिकी सीनेट में H-1B वीजा पर तीन साल तक रोक लगाने का बिल पेश किया गया है। यह भारतीय पेशेवरों पर असर डाल सकता है। बिल के अनुसार, H-1B वीजा पर रोक लगाने से अमेरिकी नागरिकों को नौकरियों में प्राथमिकता मिलेगी। अमेरिका में H-1B पर तीन साल तक रोक लगाने की तैयारी?: सीनेट में पेश गया बिल; भारतीय पेशेवरों पर क्या होगा असर?
-
-### [मुंबई एयरपोर्ट पर फिर प्लेन के टॉयलेट में छिपा मिला करोड़ों का सोना, 18 करोड़ की तस्करी का भंडाफोड़](https://www.amarujala.com/india-news/mumbai-airport-crores-of-gold-found-in-air-plane-toilet-big-case-2026-07-25)
-*Amar Ujala National* - Jul 25, 11:32 IST (iso: 2026-07-25T06:02:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/08/gps-spoofing-was-delhi-airport-a-cyber-attack-465-incidents-of-spoofing-in-the-last-16-months-kno_ad0815166404740e8e657da05f946215.jpeg?w=1200&dpr=1.0 -->
-
-मुंबई एयरपोर्ट पर एक प्लेन के टॉयलेट में 18 करोड़ रुपये का सोना छिपा हुआ मिला है। यह तस्करी का भंडाफोड़ है। पुलिस ने दो लोगों को गिरफ्तार किया है और जांच जारी है। मुंबई एयरपोर्ट पर फिर प्लेन के टॉयलेट में छिपा मिला करोड़ों का सोना, 18 करोड़ की तस्करी का भंडाफोड़।
-
-### [केंद्र से कोई डील नहीं हुई, बताया क्यों खत्म किया अनशन? सफदरजंग अस्पताल को बताया उत्तर कोरिया](https://www.amarujala.com/india-news/wangchuk-rejects-deal-with-centre-charge-says-ended-fast-fearing-crackdown-like-ladakh-2026-07-25)
-*Amar Ujala Breaking* - Jul 25, 10:49 IST (iso: 2026-07-25T05:19:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/25/wangchuk-rejects-deal-with-centre-charge-says-ended-fast-fearing-crackdown-like-ladakh_a45a35bb12c3fb6353f822126d91d676.jpeg?w=1200&dpr=1.0 -->
-
-वांगचुक ने कहा कि उन्होंने अपना अनशन समाप्त किया क्योंकि उन्हें केंद्र सरकार के दमनकारी कार्रवाई का डर था। उन्होंने सफदरजंग अस्पताल को बताया कि वे उत्तर कोरिया में हैं। सफदरजंग अस्पताल को बताया उत्तर कोरिया। केंद्र से कोई डील नहीं हुई, बताया क्यों खत्म किया अनशन?
 
 ---
 
