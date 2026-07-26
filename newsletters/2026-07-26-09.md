@@ -1,6 +1,76 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 26, 2026 14:22 IST
+**Updated:** July 26, 2026 15:14 IST
+
+---
+
+## Middle East & Africa
+
+### [Iran army says war to ‘expand further’ if U.S. attacks restart](https://www.thehindu.com/news/international/iran-army-says-war-to-expand-further-if-us-attacks-restart/article71268932.ece)
+*The Hindu (International)* - Jul 26, 14:33 IST (iso: 2026-07-26T09:03:37+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/re9ax8/article71268947.ece/alternates/LANDSCAPE_1200/2026-07-25T132058Z_1331047047_RC21LMAPX87M_RTRMADP_3_IRAN-CRISIS-SAUDI.JPG -->
+
+“I believe that if the Americans once again fall for the Zionists' deception, or move in line with them, and insist on continuing the war, particularly through air strikes, geographically this will expand further,” army spokesman Mohammad Akraminia told state television. Iran army says war to ‘expand further’ if U. S. attacks restart.
+
+### [Trump Says Iran 'Far More Serious' In Talks, Even As Attacks Intensify, Widen In Region](https://www.rferl.org/a/iran-talks-houthi-yemen-gulf-trump/33812472.html)
+*Radio Free Europe / Liberty* - Jul 25, 04:32 IST (iso: 2026-07-24T23:02:42+00:00)
+<!-- image: https://gdb.rferl.org/6c02284d-a8e5-4e54-986b-dd345f4013ed_w1200_h630.jpg -->
+
+US President Donald ⁠Trump ⁠said Washington and Tehran were still conducting negotiations to end their conflict -- even as attacks intensified throughout the region, further threatening to widen the conflict into a full-blown Middle East war. Trump Says Iran 'Far More Serious' In Talks, Even As Attacks Intensify, Widen In Region.
+
+### [Iranian Sisters, Aged 20, Tried In High-Profile Case Tied To January Protests](https://www.rferl.org/a/iran-trial-isfahan-protests-human-rights/33812470.html)
+*Radio Free Europe / Liberty* - Jul 25, 02:40 IST (iso: 2026-07-24T21:10:23+00:00)
+<!-- image: https://gdb.rferl.org/6d51a9e8-6910-4e58-181e-08decad58b60_w1200_h630.jpg -->
+
+Sixteen people are facing charges connected to protests in Isfahan in January, during which a colonel in Iran's Revolutionary Guard was killed. Rights defenders are raising concerns about the legitimacy of the case, including the charges against 20-year-old sisters Taraneh and Romina Rahimi. Iranian Sisters, Aged 20, Tried In High-Profile Case Tied To January Protests.
+
+### [Russia's 'Axis Of Upheaval' Is Built To Last Beyond Ukraine, Analyst Kendall-Taylor Says](https://www.rferl.org/a/us-russia-china-iran-ukraine-war/33812439.html)
+*Radio Free Europe / Liberty* - Jul 25, 00:07 IST (iso: 2026-07-24T18:37:49+00:00)
+<!-- image: https://gdb.rferl.org/e981e8ce-c633-40f1-181b-08decad58b60_cx0_cy15_cw0_w1200_h630.jpg -->
+
+Russia's deepening partnerships with China, Iran, and North Korea represent one of the most significant geopolitical realignments driven by the war in Ukraine. Yet according to Andrea Kendall-Taylor, viewing this grouping through the lens of a traditional military alliance misses the bigger picture. Russia's 'Axis Of Upheaval' Is Built To Last Beyond Ukraine, Analyst Kendall-Taylor Says.
+
+### [Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia](https://asiatimes.com/2026/07/iran-iraq-pakistan-axis-of-sympathy-signals-a-reshaping-southwest-asia/)
+*Asia Times* - Jul 24, 18:35 IST (iso: 2026-07-24T13:05:47+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Iran-Funeral.jpg -->
+
+Earlier this month, the Supreme Leader of Iran, Ayatollah Ali Khamenei, was buried in his hometown of Mashhad after a four-day ceremony. Many international delegations were present, but each country will have chosen their representatives with the utmost care. Sending high-ranking officials would go beyond mere diplomatic courtesy, and possibly signal an alliance. Only two [] The post Iran-Iraq-Pa Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia.
+
+### [After an Ebola centre was attacked, peacekeepers moved in next door](https://news.un.org/feed/view/en/story/2026/07/1168018)
+*UN News* - Jul 24, 17:30 IST (iso: 2026-07-24T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/21-07-2026-UNOCHA-DR-Congo-ebola-01.jpg/image770x420cropped.jpg -->
+
+A new mobile UN peacekeeping base in the Democratic Republic of the Congo (DRC) has allowed local authorities to continue responding to the fast-moving Ebola outbreak there after violence disrupted the work of medics at a treatment centre set up to contain the spread. After an Ebola centre was attacked, peacekeepers moved in next door.
+
+### [In El Obeid, Sudanese women face drones by day, rape by night, to reach water](https://news.un.org/feed/view/en/story/2026/07/1168012)
+*UN News* - Jul 24, 17:30 IST (iso: 2026-07-24T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-UNDP-Sudan-05.jpg/image770x420cropped.jpg -->
+
+In El Obeid, women and girls now face an impossible choice over something as basic as a bucket of water: risk a drone strike by collecting it in daylight, or risk rape by waiting until dark. In El Obeid, Sudanese women face drones by day, rape by night, to reach water.
+
+### [Iranians find community in art, culture and memes as missiles fly](https://asiatimes.com/2026/07/iranians-find-community-in-art-culture-and-memes-as-missiles-fly/)
+*Asia Times* - Jul 24, 08:10 IST (iso: 2026-07-24T02:40:36+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/file-20260611-57-djhbpa-copy-1-scaled-e1784859135559.jpg -->
+
+Coverage of the conflict between Iran, Israel and the United States has largely focused on battlefield developments, political statements and international diplomacy. However, another story has been unfolding on the streets of Iran. Despite fears of further military escalation dominating daily life, residents continue to take up space, both in person and online. Night after [] The post Iranians f.
+
+### [Saudi Ally Pakistan Issues Warning After Houthi Attacks On Tankers In Red Sea](https://www.rferl.org/a/saudi-pakistan-ships-attacked-read-sea-houthi/33810504.html)
+*Radio Free Europe / Liberty* - Jul 23, 19:45 IST (iso: 2026-07-23T14:15:14+00:00)
+<!-- image: https://gdb.rferl.org/5f9dd6c0-7ce3-41bb-bb7f-654939d75335_w1200_h630.jpg -->
+
+Islamabad has condemned attacks by Iran-backed Houthi rebels on Saudi-flagged vessels in the Red Sea. It also warned that any aggressive actions toward Pakistan-flagged vessels or the country's maritime interests would be regarded as a “grave threat” that may result in “lawful use of force.” Saudi Ally Pakistan Issues Warning After Houthi Attacks On Tankers In Read Sea. Saudi Ally Pakistan Issues Warning After Houthi Attacks On Tankers In Red Sea.
+
+### [Iran urged to stop protest-related executions](https://news.un.org/feed/view/en/story/2026/07/1168009)
+*UN News* - Jul 23, 17:30 IST (iso: 2026-07-23T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-09-2023-SaraHossain-GVA.jpg/image770x420cropped.jpg -->
+
+Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits. Iran urged to stop protest-related executions.
+
+### [Gaza’s food gains could unravel without sustained aid, UN warns](https://news.un.org/feed/view/en/story/2026/07/1168006)
+*UN News* - Jul 23, 17:30 IST (iso: 2026-07-23T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-04-2026-WFP-Gaza-02.jpg/image770x420cropped.jpg -->
+
+Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support. Gaza’s food gains could unravel without sustained aid, UN warns.
 
 ---
 
@@ -101,76 +171,6 @@ The actor will make his Marvel Cinematic Universe debut as Ghost Rider in a stan
 <!-- image: https://dam.mediacorp.sg/image/upload/s--pZRsBI_D--/c_crop,h_900,w_1600,x_0,y_74/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/12/strength-training-seniors-cancer-risk-muscle-loss-8.jpg?itok=upBYmfhF -->
 
 Weakening muscles don't only increase the risk of falls in seniors. A new study suggests sarcopenia may also reduce the body's cancer-suppressing ability. Here’s why strength training is one of the best things your parents can do – along with exercise demonstrations by a 77-year-old. Why every senior should strength train – and it's not just to prevent falls.
-
----
-
-## Middle East & Africa
-
-### [Venezuela notifies UN of withdrawal from ICC, alleging 'bias'](https://www.thehindu.com/news/international/venezuela-notifies-un-of-withdrawal-from-icc-alleging-bias/article71267057.ece)
-*The Hindu (International)* - Jul 25, 21:12 IST (iso: 2026-07-25T15:42:08+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/4sl9j2/article71267074.ece/alternates/LANDSCAPE_1200/ICC_Sanction_Lawsuit_258_8.jpg -->
-
-The government justified ​the move by alleging a “geographical bias” within the court, claiming it ⁠disproportionately targets nations in the Global South, specifically across Africa and Latin America, Felix Plasencia said in a post on X. Venezuela notifies UN of withdrawal from ICC, alleging 'bias'.
-
-### [Trump Says Iran 'Far More Serious' In Talks, Even As Attacks Intensify, Widen In Region](https://www.rferl.org/a/iran-talks-houthi-yemen-gulf-trump/33812472.html)
-*Radio Free Europe / Liberty* - Jul 25, 04:32 IST (iso: 2026-07-24T23:02:42+00:00)
-<!-- image: https://gdb.rferl.org/6c02284d-a8e5-4e54-986b-dd345f4013ed_w1200_h630.jpg -->
-
-US President Donald ⁠Trump ⁠said Washington and Tehran were still conducting negotiations to end their conflict -- even as attacks intensified throughout the region, further threatening to widen the conflict into a full-blown Middle East war. Trump Says Iran 'Far More Serious' In Talks, Even As Attacks Intensify, Widen In Region.
-
-### [Iranian Sisters, Aged 20, Tried In High-Profile Case Tied To January Protests](https://www.rferl.org/a/iran-trial-isfahan-protests-human-rights/33812470.html)
-*Radio Free Europe / Liberty* - Jul 25, 02:40 IST (iso: 2026-07-24T21:10:23+00:00)
-<!-- image: https://gdb.rferl.org/6d51a9e8-6910-4e58-181e-08decad58b60_w1200_h630.jpg -->
-
-Sixteen people are facing charges connected to protests in Isfahan in January, during which a colonel in Iran's Revolutionary Guard was killed. Rights defenders are raising concerns about the legitimacy of the case, including the charges against 20-year-old sisters Taraneh and Romina Rahimi. Iranian Sisters, Aged 20, Tried In High-Profile Case Tied To January Protests.
-
-### [Russia's 'Axis Of Upheaval' Is Built To Last Beyond Ukraine, Analyst Kendall-Taylor Says](https://www.rferl.org/a/us-russia-china-iran-ukraine-war/33812439.html)
-*Radio Free Europe / Liberty* - Jul 25, 00:07 IST (iso: 2026-07-24T18:37:49+00:00)
-<!-- image: https://gdb.rferl.org/e981e8ce-c633-40f1-181b-08decad58b60_cx0_cy15_cw0_w1200_h630.jpg -->
-
-Russia's deepening partnerships with China, Iran, and North Korea represent one of the most significant geopolitical realignments driven by the war in Ukraine. Yet according to Andrea Kendall-Taylor, viewing this grouping through the lens of a traditional military alliance misses the bigger picture. Russia's 'Axis Of Upheaval' Is Built To Last Beyond Ukraine, Analyst Kendall-Taylor Says.
-
-### [Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia](https://asiatimes.com/2026/07/iran-iraq-pakistan-axis-of-sympathy-signals-a-reshaping-southwest-asia/)
-*Asia Times* - Jul 24, 18:35 IST (iso: 2026-07-24T13:05:47+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Iran-Funeral.jpg -->
-
-Earlier this month, the Supreme Leader of Iran, Ayatollah Ali Khamenei, was buried in his hometown of Mashhad after a four-day ceremony. Many international delegations were present, but each country will have chosen their representatives with the utmost care. Sending high-ranking officials would go beyond mere diplomatic courtesy, and possibly signal an alliance. Only two [] The post Iran-Iraq-Pa Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia.
-
-### [After an Ebola centre was attacked, peacekeepers moved in next door](https://news.un.org/feed/view/en/story/2026/07/1168018)
-*UN News* - Jul 24, 17:30 IST (iso: 2026-07-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/21-07-2026-UNOCHA-DR-Congo-ebola-01.jpg/image770x420cropped.jpg -->
-
-A new mobile UN peacekeeping base in the Democratic Republic of the Congo (DRC) has allowed local authorities to continue responding to the fast-moving Ebola outbreak there after violence disrupted the work of medics at a treatment centre set up to contain the spread. After an Ebola centre was attacked, peacekeepers moved in next door.
-
-### [In El Obeid, Sudanese women face drones by day, rape by night, to reach water](https://news.un.org/feed/view/en/story/2026/07/1168012)
-*UN News* - Jul 24, 17:30 IST (iso: 2026-07-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-UNDP-Sudan-05.jpg/image770x420cropped.jpg -->
-
-In El Obeid, women and girls now face an impossible choice over something as basic as a bucket of water: risk a drone strike by collecting it in daylight, or risk rape by waiting until dark. In El Obeid, Sudanese women face drones by day, rape by night, to reach water.
-
-### [Iranians find community in art, culture and memes as missiles fly](https://asiatimes.com/2026/07/iranians-find-community-in-art-culture-and-memes-as-missiles-fly/)
-*Asia Times* - Jul 24, 08:10 IST (iso: 2026-07-24T02:40:36+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/file-20260611-57-djhbpa-copy-1-scaled-e1784859135559.jpg -->
-
-Coverage of the conflict between Iran, Israel and the United States has largely focused on battlefield developments, political statements and international diplomacy. However, another story has been unfolding on the streets of Iran. Despite fears of further military escalation dominating daily life, residents continue to take up space, both in person and online. Night after [] The post Iranians f.
-
-### [Saudi Ally Pakistan Issues Warning After Houthi Attacks On Tankers In Red Sea](https://www.rferl.org/a/saudi-pakistan-ships-attacked-read-sea-houthi/33810504.html)
-*Radio Free Europe / Liberty* - Jul 23, 19:45 IST (iso: 2026-07-23T14:15:14+00:00)
-<!-- image: https://gdb.rferl.org/5f9dd6c0-7ce3-41bb-bb7f-654939d75335_w1200_h630.jpg -->
-
-Islamabad has condemned attacks by Iran-backed Houthi rebels on Saudi-flagged vessels in the Red Sea. It also warned that any aggressive actions toward Pakistan-flagged vessels or the country's maritime interests would be regarded as a “grave threat” that may result in “lawful use of force.” Saudi Ally Pakistan Issues Warning After Houthi Attacks On Tankers In Read Sea. Saudi Ally Pakistan Issues Warning After Houthi Attacks On Tankers In Red Sea.
-
-### [Iran urged to stop protest-related executions](https://news.un.org/feed/view/en/story/2026/07/1168009)
-*UN News* - Jul 23, 17:30 IST (iso: 2026-07-23T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-09-2023-SaraHossain-GVA.jpg/image770x420cropped.jpg -->
-
-Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits. Iran urged to stop protest-related executions.
-
-### [Gaza’s food gains could unravel without sustained aid, UN warns](https://news.un.org/feed/view/en/story/2026/07/1168006)
-*UN News* - Jul 23, 17:30 IST (iso: 2026-07-23T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-04-2026-WFP-Gaza-02.jpg/image770x420cropped.jpg -->
-
-Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support. Gaza’s food gains could unravel without sustained aid, UN warns.
 
 ---
 
