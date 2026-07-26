@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 26, 2026 12:30 IST
+**Updated:** July 26, 2026 13:25 IST
 
 ---
 
@@ -78,12 +78,6 @@ Weakening muscles don't only increase the risk of falls in seniors. A new study 
 
 The government justified ​the move by alleging a “geographical bias” within the court, claiming it ⁠disproportionately targets nations in the Global South, specifically across Africa and Latin America, Felix Plasencia said in a post on X. Venezuela notifies UN of withdrawal from ICC, alleging 'bias'.
 
-### [Iran is prepared for U.S. ground invasion: Mohammad Marandi](https://www.thehindu.com/videos/videowatch-iran-is-prepared-for-us-ground-invasion-mohammad-marandi/article71267003.ece)
-*The Hindu (International)* - Jul 25, 21:01 IST (iso: 2026-07-25T15:31:33+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/ahct30/article71266985.ece/alternates/LANDSCAPE_1200/afghan%201.png -->
-
-In this interview with The Hindu‘s International Affairs Editor Stanly Johny, political analyst Mohammad Marandi discusses Iran’s response to the possibility of a U. S. ground invasion, regional security dynamics, and the evolving geopolitical situation in West Asia. Iran is prepared for U. ground invasion: Mohammad Marandi.
-
 ### [Trump Says Iran 'Far More Serious' In Talks, Even As Attacks Intensify, Widen In Region](https://www.rferl.org/a/iran-talks-houthi-yemen-gulf-trump/33812472.html)
 *Radio Free Europe / Liberty* - Jul 25, 04:32 IST (iso: 2026-07-24T23:02:42+00:00)
 <!-- image: https://gdb.rferl.org/6c02284d-a8e5-4e54-986b-dd345f4013ed_w1200_h630.jpg -->
@@ -104,7 +98,7 @@ Russia's deepening partnerships with China, Iran, and North Korea represent one 
 
 ### [Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia](https://asiatimes.com/2026/07/iran-iraq-pakistan-axis-of-sympathy-signals-a-reshaping-southwest-asia/)
 *Asia Times* - Jul 24, 18:35 IST (iso: 2026-07-24T13:05:47+00:00)
-<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/Iran-Funeral.jpg?fit=1024%2C683&amp;ssl=1 -->
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/Iran-Funeral.jpg -->
 
 Earlier this month, the Supreme Leader of Iran, Ayatollah Ali Khamenei, was buried in his hometown of Mashhad after a four-day ceremony. Many international delegations were present, but each country will have chosen their representatives with the utmost care. Sending high-ranking officials would go beyond mere diplomatic courtesy, and possibly signal an alliance. Only two [] The post Iran-Iraq-Pa Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia.
 
@@ -143,6 +137,12 @@ Independent UN human rights investigators on Thursday called for Iran to immedia
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-04-2026-WFP-Gaza-02.jpg/image770x420cropped.jpg -->
 
 Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support. Gaza’s food gains could unravel without sustained aid, UN warns.
+
+### [Stranded seafarers remain trapped as Hormuz shipping stalls](https://news.un.org/feed/view/en/story/2026/07/1168004)
+*UN News* - Jul 23, 17:30 IST (iso: 2026-07-23T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/11-06-2026-Unsplash-Iran-hormuz.jpg/image770x420cropped.jpg -->
+
+As the Iran-US war continues, the key question remains unanswered about how shipping through the Strait of Hormuz will be managed in future – although the UN has reiterated that charging tolls for safe passage runs contrary to international law. Stranded seafarers remain trapped as Hormuz shipping stalls.
 
 ---
 
