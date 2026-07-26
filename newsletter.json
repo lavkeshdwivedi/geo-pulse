@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-26T20:24:53.186424+00:00",
+  "generated_at": "2026-07-26T21:22:08.719393+00:00",
   "article_count": 50,
   "total_unique_count": 274,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Iran halts ‘retaliatory strikes’ after lull in U.S. attacks. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, नंदन नीलेकणि की टीम संभालेगी NTA में परीक्षा सुधार की कमान मुख्य खबर है। साथ ही यूरोप और रूस से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Iran's halt of retaliatory strikes dominates the hour. Russian and Ukrainian strikes kill at least 10. Typhoon Noul makes landfall in southern China.",
+    "hi": "नंदन नीलेकणि की टीम NTA में परीक्षा सुधार की कमान संभालेगी। बर्लिन में प्राइड परेड पर हमले के बाद एक संदिग्ध को पुलिस मुठभेड़ में मारा गया। ट्रंप से माफी के बाद होंडुरास में घर लौटे पूर्व राष्ट्रपति।"
   },
   "articles": [
     {
@@ -64,18 +64,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/4zii2b/article71269357.ece/alternates/LANDSCAPE_1200/China_Asia_Storms_4871_.jpg",
       "summary": "Noul, the 12th and the strongest typhoon to hit China so far this year, made landfall at Huizhou city in Guangdong around 3:50 a. m., bringing gale-force winds and heavy rain to large parts of the region 10 killed after Typhoon Noul makes landfall in southern China.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israeli settlers set fire to West Bank mosques after deadly clash",
-      "url": "https://www.thehindu.com/news/international/israeli-settlers-set-fire-to-west-bank-mosques-after-deadly-clash/article71269221.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-26T12:24:04+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/3438b2/article71269318.ece/alternates/LANDSCAPE_1200/2026-07-26T101719Z_64289039_RC2MLMAUDCGW_RTRMADP_3_ISRAEL-PALESTINIANS-VIOLENCE.JPG",
-      "summary": "Four Palestinians and two Israeli ⁠soldiers. one of them acting as a local security coordinator. had been killed when a crowd of Israeli settlers made an incursion around the Palestinian village of Tal, southwest of Nablus Israeli settlers set fire to West Bank mosques after deadly clash.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -308,6 +296,18 @@
       "translations": {}
     },
     {
+      "title": "Saudi Ally Pakistan Issues Warning After Houthi Attacks On Tankers In Red Sea",
+      "url": "https://www.rferl.org/a/saudi-pakistan-ships-attacked-read-sea-houthi/33810504.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-23T14:15:14+00:00",
+      "image_url": "https://gdb.rferl.org/5f9dd6c0-7ce3-41bb-bb7f-654939d75335_w1200_h630.jpg",
+      "summary": "Pakistan condemned Houthi attacks on Saudi‑flagged tankers in the Red Sea and warned that any strike on Pakistan‑flagged vessels would be treated as a grave threat. Islamabad has condemned attacks by Iran-backed Houthi rebels on Saudi-flagged vessels in the Red Sea. It also warned that any aggressive actions toward Pakistan-flagged vessels or the country's maritime interests would be regarded as a “grave threat” that may result in “lawful use of force.”.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "नंदन नीलेकणि की टीम संभालेगी NTA में परीक्षा सुधार की कमान",
       "url": "https://www.amarujala.com/video/india-news/nta-reforms-news-update-nandan-nilekani-s-team-to-spearhead-exam-reforms-at-nta-2026-07-27",
       "source": "Amar Ujala National",
@@ -328,10 +328,10 @@
     {
       "title": "बर्लिन में प्राइड परेड पर हमला: 24 घंटे बाद पुलिस मुठभेड़ में मारा गया संदिग्ध, एक की मौत, 29 घायल",
       "url": "https://www.amarujala.com/world/attack-at-berlin-pride-suspect-killed-in-police-encounter-24-hours-later-one-dead-29-injured-2026-07-27",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-27T06:57:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/paraida-parada-ma-isalma-caramapatha-na-ghasaii-kara_fa749c97dd106c618e6ff501b87e4aec.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/paraida-parada-para-hamal-karana-val-mara-gaya_52d7e2144490835046c58e6ed39c2735.jpeg?w=1200&dpr=1.0",
       "summary": "A gunman fired at the Berlin Pride parade on 28 June, killing one person and injuring 29. Police shot the suspect, a 32‑year‑old man, 24 hours later in a confrontation near the Brandenburg Gate. Authorities said the attacker had a history of anti‑LGBT rhetoric. बर्लिन में प्राइड परेड पर हमला: 24 घंटे बाद पुलिस मुठभेड़ में मारा गया संदिग्ध, एक की मौत, 29 घायल।",
       "region": "Europe & Russia",
       "language": "hi",
@@ -362,6 +362,96 @@
       }
     },
     {
+      "title": "ट्रंप से माफी के बाद होंडुरास में घर लौटे पूर्व राष्ट्रपति; लंदन में जुटे CJP समर्थक भारतीय छात्र",
+      "url": "https://www.amarujala.com/world/world-updates-trump-honduras-iran-us-west-asia-un-bangladesh-nepal-china-russia-ukraine-politics-crime-news-2026-07-27",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-26T21:05:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
+      "summary": "World News: ट्रंप से माफी के बाद होंडुरास में घर लौटे पूर्व राष्ट्रपति; लंदन में जुटे CJP समर्थक भारतीय छात्र।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप से माफी के बाद होंडुरास में घर लौटे पूर्व राष्ट्रपति; लंदन में जुटे CJP समर्थक भारतीय छात्र",
+          "summary": "World News: ट्रंप से माफी के बाद होंडुरास में घर लौटे पूर्व राष्ट्रपति; लंदन में जुटे CJP समर्थक भारतीय छात्र।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "यह पोर्टेबल एंटी-ड्रोन सिस्टम दुश्मन के ड्रोन का पता लगाकर निष्क्रिय करने में सक्षम, तकनीक क्या?",
+      "url": "https://www.amarujala.com/india-news/india-ready-with-anti-drone-device-indigenous-mpads-defence-technology-signal-jam-in-high-altitude-know-detail-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-26T20:57:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/yukti-jyoti-drone-quake_d0c22065151168dbe9b03af6a4c770a8.jpeg?w=1200&dpr=1.0",
+      "summary": "Anti-Drone: यह पोर्टेबल एंटी-ड्रोन सिस्टम दुश्मन के ड्रोन का पता लगाकर निष्क्रिय करने में सक्षम, तकनीक क्या?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यह पोर्टेबल एंटी-ड्रोन सिस्टम दुश्मन के ड्रोन का पता लगाकर निष्क्रिय करने में सक्षम, तकनीक क्या?",
+          "summary": "Anti-Drone: यह पोर्टेबल एंटी-ड्रोन सिस्टम दुश्मन के ड्रोन का पता लगाकर निष्क्रिय करने में सक्षम, तकनीक क्या?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बांकीपुर उपचुनाव में एक्टिव हुए नीतीश कुमार, मैदान में उतरे दिग्गज नेता!",
+      "url": "https://www.amarujala.com/video/india-news/bankipur-by-election-2026-nitish-kumar-becomes-active-in-the-bankipur-by-election-veteran-leaders-enter-the-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-26T20:36:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/bankipur-by-election-2026_c3c3f569fa98cc59253c3912188e3bfe.jpeg?w=1200&dpr=1.0",
+      "summary": "Bankipur By Election 2026:बांकीपुर उपचुनाव में एक्टिव हुए नीतीश कुमार, मैदान में उतरे दिग्गज नेता!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांकीपुर उपचुनाव में एक्टिव हुए नीतीश कुमार, मैदान में उतरे दिग्गज नेता!",
+          "summary": "Bankipur By Election 2026:बांकीपुर उपचुनाव में एक्टिव हुए नीतीश कुमार, मैदान में उतरे दिग्गज नेता!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "प्रधानमंत्री के खिलाफ आपत्तिजनक और भड़काऊ पोस्ट पर पुलिस एक्शन में, हटाने के लिए नोटिस",
+      "url": "https://www.amarujala.com/uttar-pradesh/farrukhabad/jantar-mantar-protest-police-take-action-over-objectionable-and-inflammatory-posts-against-the-pm-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-26T20:30:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/04/social-media_a1f938b7b3356421e61d867285ba66f7.jpeg?w=1200&dpr=1.0",
+      "summary": "जंतर-मंतर पर हुए प्रदर्शन और उससे जुड़ी हिंसा के बाद सोशल मीडिया पर प्रधानमंत्री नरेंद्र मोदी के खिलाफ आपत्तिजनक, भड़काऊ पोस्ट और वीडियो को लेकर दिल्ली पुलिस ने कार्रवाई तेज कर दी है। प्रधानमंत्री के खिलाफ आपत्तिजनक और भड़काऊ पोस्ट पर पुलिस एक्शन में, हटाने के लिए नोटिस।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रधानमंत्री के खिलाफ आपत्तिजनक और भड़काऊ पोस्ट पर पुलिस एक्शन में, हटाने के लिए नोटिस",
+          "summary": "जंतर-मंतर पर हुए प्रदर्शन और उससे जुड़ी हिंसा के बाद सोशल मीडिया पर प्रधानमंत्री नरेंद्र मोदी के खिलाफ आपत्तिजनक, भड़काऊ पोस्ट और वीडियो को लेकर दिल्ली पुलिस ने कार्रवाई तेज कर दी है। प्रधानमंत्री के खिलाफ आपत्तिजनक और भड़काऊ पोस्ट पर पुलिस एक्शन में, हटाने के लिए नोटिस।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बच्चों को टंकी में फेंका, फिर खुद कूदे: राजस्थान में एक झटके में खत्म हो गया पूरा परिवार; जांच में",
+      "url": "https://www.amarujala.com/rajasthan/threw-children-into-tank-then-jumped-themselves-entire-family-wiped-out-instant-in-jaisalmer-rajasthan-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-26T20:24:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/24/aparathha_02e711e8424082acb91e19e31e8e2d9a.jpeg?w=1200&dpr=1.0",
+      "summary": "जुटी पुलिस- Threw children into tank then jumped themselves entire family wiped out instant in Jaisalmer Rajasthan बच्चों को टंकी में फेंका, फिर खुद कूदे: राजस्थान में एक झटके में खत्म हो गया पूरा परिवार; जांच में।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बच्चों को टंकी में फेंका, फिर खुद कूदे: राजस्थान में एक झटके में खत्म हो गया पूरा परिवार; जांच में",
+          "summary": "जुटी पुलिस- Threw children into tank then jumped themselves entire family wiped out instant in Jaisalmer Rajasthan बच्चों को टंकी में फेंका, फिर खुद कूदे: राजस्थान में एक झटके में खत्म हो गया पूरा परिवार; जांच में।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "भारोत्तोलक मुथुपांडी ने जीता रजत पदक; जादूमणि ने पाकिस्तानी मुक्केबाज को हराया",
       "url": "https://www.amarujala.com/live/sports/commonwealth-games-2026-day-4-live-mirabai-chanu-weightlifting-medals-tally-rishikant-mirabai-chanu-updates-2026-07-26",
       "source": "Amar Ujala Breaking",
@@ -380,9 +470,27 @@
       }
     },
     {
+      "title": "भारत को चौथे दिन एक स्वर्ण और दो रजत, भारतीय भारोत्तोलकों का कमाल; तैराकी रिले टीम से भी आस",
+      "url": "https://www.amarujala.com/sports/commonwealth-games-2026-day-4-highlights-basketball-boxing-bowls-and-para-bowls-swimming-results-updates-2026-07-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-26T19:49:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/26/cwg_0cdb084ec153ef2d1bc23148a70c9a8c.jpeg?w=1200&dpr=1.0",
+      "summary": "Glasgow Commonwealth Games Day 4 Highlights: राष्ट्रमंडल खेल का चौथा दिन जारी है। भारत ने रविवार को ग्लास्को में अब तक एक स्वर्ण और एक रजत पदक जीता है। भारत मौजूदा राष्ट्रमंडल खेल में कुल तीन पदक जीत चुका है। भारत को चौथे दिन एक स्वर्ण और दो रजत, भारतीय भारोत्तोलकों का कमाल; तैराकी रिले टीम से भी आस।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत को चौथे दिन एक स्वर्ण और दो रजत, भारतीय भारोत्तोलकों का कमाल; तैराकी रिले टीम से भी आस",
+          "summary": "Glasgow Commonwealth Games Day 4 Highlights: राष्ट्रमंडल खेल का चौथा दिन जारी है। भारत ने रविवार को ग्लास्को में अब तक एक स्वर्ण और एक रजत पदक जीता है। भारत मौजूदा राष्ट्रमंडल खेल में कुल तीन पदक जीत चुका है। भारत को चौथे दिन एक स्वर्ण और दो रजत, भारतीय भारोत्तोलकों का कमाल; तैराकी रिले टीम से भी आस।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "रोमानिया ने तीन दिन में तीसरी बार मार गिराया संदिग्ध रूसी ड्रोन, F-16 ने हवा में किया तबाह",
       "url": "https://www.amarujala.com/world/romania-shoots-down-suspected-russian-drone-for-third-time-in-three-days-f-16-destroys-it-in-mid-air-2026-07-27",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-26T19:43:24+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/ramanaya-ka-f-16_a99d0024aafd5efb0df50bfedbc6e514.jpeg?w=1200&dpr=1.0",
@@ -646,114 +754,6 @@
           "title": "टॉयलेट में भरी शराब, स्ट्रॉ लगाकर बना दिया ड्रिंक, पीने के लिए दौड़े चले आए लोग",
           "summary": "Toilet Bowl Drinking Competition: प्रतियोगिताएं तो सैकड़ों तरह की होती हैं लेकिन अगर कोई इसमें ऐसा ट्विस्ट दे दे कि सुनकर उल्टी आने लगे, तो क्या हो? वैसे ऐसी ही दिलचस्प या फिर यूं कहें कि थोड़ी घिनौनी प्रतियोगिता रूस में ऑर्गनाइज की गई, जहां लोगों को सीधे टॉयलेट बोल से शराब पीनी थी. चलिए बताते हैं कि फिर क्या हुआ.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "रेड-ब्लैक सी में बवाल के बाद दक्षिण चीन सागर में हलचल, चीन ने समंदर में उतारी नेवी, आकाश से भी",
-      "url": "https://hindi.news18.com/world/china-china-navy-and-air-force-observation-in-south-china-sea-after-red-and-black-sea-conflicts-ws-l-10691561.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-26T11:18:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/China-Isolated-in-South-China-Sea-Philippines-2026-07-ac3f9961b123307ed020ea96dee9fe8a-1200x800.jpg",
-      "summary": "South China Sea Patrolling: दुनिया के अलग-अलग देशों में इस वक्त बवाल चल रहा है. इसी बीच चीन ने दक्षिण चीन सागर में अपनी गश्त बढ़ा दी है. चीन के गश्ती दलों ने समंदर और आकाश से उन विवादित इलाकों में एंट्री की, जिसने फिलीपींस की टेंशन बढ़ा दी. रेड-ब्लैक सी में बवाल के बाद दक्षिण चीन सागर में हलचल, चीन ने समंदर में उतारी नेवी, आकाश से भी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रेड-ब्लैक सी में बवाल के बाद दक्षिण चीन सागर में हलचल, चीन ने समंदर में उतारी नेवी, आकाश से भी",
-          "summary": "South China Sea Patrolling: दुनिया के अलग-अलग देशों में इस वक्त बवाल चल रहा है. इसी बीच चीन ने दक्षिण चीन सागर में अपनी गश्त बढ़ा दी है. चीन के गश्ती दलों ने समंदर और आकाश से उन विवादित इलाकों में एंट्री की, जिसने फिलीपींस की टेंशन बढ़ा दी. रेड-ब्लैक सी में बवाल के बाद दक्षिण चीन सागर में हलचल, चीन ने समंदर में उतारी नेवी, आकाश से भी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "शिक्षा मंत्री का चार्ज लेने के बाद प्रह्लाद जोशी का आया पहला रिएक्शन, बोले - 'यह जिम्मेदारी...'",
-      "url": "https://www.abplive.com/news/india/new-education-minister-pralhad-joshi-said-reviewing-education-ministry-work-discuss-future-plans-in-detail-3165988",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-26T11:15:49+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/26/b5a7c636c062558016b181c60116929117850617463451115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "केंद्रीय मंत्री प्रह्लाद जोशी ने शिक्षा मंत्रालय का कार्यभार संभालने के बाद कहा कि प्रधानमंत्री नरेंद्र मोदी ने उन पर भरोसा जताते हुए यह महत्वपूर्ण जिम्मेदारी सौंपी है. उन्होंने कहा कि वह इस नई जिम्मेदारी को पूरी गंभीरता और समर्पण के साथ निभाने का प्रयास करेंगे. प्रह्लाद जोशी ने बताया कि वह कल कर्नाटक में थे और देर रात दिल्ली पहुंचे.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शिक्षा मंत्री का चार्ज लेने के बाद प्रह्लाद जोशी का आया पहला रिएक्शन, बोले - 'यह जिम्मेदारी...'",
-          "summary": "केंद्रीय मंत्री प्रह्लाद जोशी ने शिक्षा मंत्रालय का कार्यभार संभालने के बाद कहा कि प्रधानमंत्री नरेंद्र मोदी ने उन पर भरोसा जताते हुए यह महत्वपूर्ण जिम्मेदारी सौंपी है. उन्होंने कहा कि वह इस नई जिम्मेदारी को पूरी गंभीरता और समर्पण के साथ निभाने का प्रयास करेंगे. प्रह्लाद जोशी ने बताया कि वह कल कर्नाटक में थे और देर रात दिल्ली पहुंचे.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ब्लैक सी में भारतीय नाविकों की मौत के बाद सरकार का एक्शन, जारी की एडवाइजरी, कहा - 'बहुत सावधानी...'",
-      "url": "https://www.abplive.com/news/india/mea-advisory-for-indian-nationals-taking-up-work-on-vessel-in-black-sea-says-exercise-utmost-caution-3165995",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-26T11:01:55+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/26/24931e0cf628e32846203654bba63e8617850625019101324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारत सरकार ने ब्लैक सी में कमर्शियल जहाजों पर काम करने वाले नाविकों के लिए एक एडवाइजरी जारी की है. एडवाइजरी में सावधानी बरतने की हिदायत दी गई है, जिसमें इंश्योरेंस कवरेज और इमरजेंसी इंतजाम शामिल हैं. यह एडवाइजरी हाल ही में हुए हमलों में पांच भारतीय नाविकों की मौत के बाद जारी की गई है. सरकार ने रविवार (26 जुलाई) को एक एडवाइजरी जारी की है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ब्लैक सी में भारतीय नाविकों की मौत के बाद सरकार का एक्शन, जारी की एडवाइजरी, कहा - 'बहुत सावधानी...'",
-          "summary": "भारत सरकार ने ब्लैक सी में कमर्शियल जहाजों पर काम करने वाले नाविकों के लिए एक एडवाइजरी जारी की है. एडवाइजरी में सावधानी बरतने की हिदायत दी गई है, जिसमें इंश्योरेंस कवरेज और इमरजेंसी इंतजाम शामिल हैं. यह एडवाइजरी हाल ही में हुए हमलों में पांच भारतीय नाविकों की मौत के बाद जारी की गई है. सरकार ने रविवार (26 जुलाई) को एक एडवाइजरी जारी की है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "गुलाबी टोकरी उठाइए...मिल जाएगा पार्टनर, सुपरमार्केट का अनोखा लव ट्रिक",
-      "url": "https://hindi.news18.com/world/europe-pink-basket-in-grocery-store-in-finland-could-help-you-out-sjn-10691520.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-26T10:51:17+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/PINK-BASKET-Photo-Credit-royaventurera-1-2026-07-66564a7cf241eac61c3034a71ce73e07-1200x800.jpg",
-      "summary": "फिनलैंड के कुछ प्रमुख सुपरमार्केट्स में आम काली या ग्रे टोकरियों के अलावा पिंक बास्केट भी रखी गई हैं. इन पर फिनिश भाषा में सिंकुकरी लिखा होता है. इसका मतलब है सिंगल बास्केट. अगर कोई ग्राहक इस गुलाबी टोकरी को चुनता है, तो इसका सीधा सा मतलब होता है कि वह सिंगल है. दूसरों से मिलने या बात करने के लिए तैयार है. नियम यह भी है कि बातचीत की पहल केवल वही कर सकते हैं जिनके पास यह गुलाबी टोकरी हो.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गुलाबी टोकरी उठाइए...मिल जाएगा पार्टनर, सुपरमार्केट का अनोखा लव ट्रिक",
-          "summary": "फिनलैंड के कुछ प्रमुख सुपरमार्केट्स में आम काली या ग्रे टोकरियों के अलावा पिंक बास्केट भी रखी गई हैं. इन पर फिनिश भाषा में सिंकुकरी लिखा होता है. इसका मतलब है सिंगल बास्केट. अगर कोई ग्राहक इस गुलाबी टोकरी को चुनता है, तो इसका सीधा सा मतलब होता है कि वह सिंगल है. दूसरों से मिलने या बात करने के लिए तैयार है. नियम यह भी है कि बातचीत की पहल केवल वही कर सकते हैं जिनके पास यह गुलाबी टोकरी हो.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "काला सागर में फिर कॉमर्शियल जहाज पर हमला, 2 भारतीय नाविक लापता, हफ्तेभर में दूसरा अटैक",
-      "url": "https://hindi.news18.com/world/europe-another-commercial-ship-attacked-two-indian-sailors-missing-in-odesa-port-black-sea-10691378.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-26T10:41:38+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/black-sea-2026-07-1c90a921da8d6661762a0d9c16ee5835-1200x800.jpg",
-      "summary": "Another Commercial Ship Attacked in Black Sea: एक बार फिर से काला सागर में एक व्यावसायिक जहाज पर हमला हुआ है, जिसके बाद दो भारतीय नागरिक लापता हो गए हैं. ओडेसा बंदरगाह पर मालवाहक जहाज पर ये हमला हुआ, जिसमें कुल 4 भारतीय सवार थे. इनमें से 2 को सुरक्षित निकाल लिया गया है. काला सागर में फिर कॉमर्शियल जहाज पर हमला, 2 भारतीय नाविक लापता, हफ्तेभर में दूसरा अटैक।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "काला सागर में फिर कॉमर्शियल जहाज पर हमला, 2 भारतीय नाविक लापता, हफ्तेभर में दूसरा अटैक",
-          "summary": "Another Commercial Ship Attacked in Black Sea: एक बार फिर से काला सागर में एक व्यावसायिक जहाज पर हमला हुआ है, जिसके बाद दो भारतीय नागरिक लापता हो गए हैं. ओडेसा बंदरगाह पर मालवाहक जहाज पर ये हमला हुआ, जिसमें कुल 4 भारतीय सवार थे. इनमें से 2 को सुरक्षित निकाल लिया गया है. काला सागर में फिर कॉमर्शियल जहाज पर हमला, 2 भारतीय नाविक लापता, हफ्तेभर में दूसरा अटैक।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "13 दिन बाद रुके अमेरिकी अटैक ! जानें ट्रंप ने ईरान पर हमले टालने का क्यों लिया फैसला",
-      "url": "https://www.abplive.com/news/world/iran-us-war-president-donald-trump-halted-attacks-on-iran-after-13-consecutive-days-3165985",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-07-26T10:34:40+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/26/8e821345292acb3f294713b36983108217850613024121115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 13 दिनों के अमेरिकी हमलों के बाद ईरान पर नए सैन्य हमले रोकने का फैसला किया. इस फैसले के पीछे कूटनीतिक प्रयासों को मौका देना, अमेरिका के मिसाइल डिफेंस स्टोर में कमी को लेकर चिंता और संघर्ष के और अधिक बढ़ने का खतरा शामिल था. ट्रंप के इस फैसले के बाद ईरान पर हमले रुक गए हैं और दोनों देशों के बीच तनाव कम हुआ है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "13 दिन बाद रुके अमेरिकी अटैक ! जानें ट्रंप ने ईरान पर हमले टालने का क्यों लिया फैसला",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 13 दिनों के अमेरिकी हमलों के बाद ईरान पर नए सैन्य हमले रोकने का फैसला किया. इस फैसले के पीछे कूटनीतिक प्रयासों को मौका देना, अमेरिका के मिसाइल डिफेंस स्टोर में कमी को लेकर चिंता और संघर्ष के और अधिक बढ़ने का खतरा शामिल था. ट्रंप के इस फैसले के बाद ईरान पर हमले रुक गए हैं और दोनों देशों के बीच तनाव कम हुआ है.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
