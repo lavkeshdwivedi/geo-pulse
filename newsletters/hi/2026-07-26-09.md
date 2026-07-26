@@ -1,44 +1,16 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 26, 2026 14:22 IST
-
----
-
-## यूरोप और रूस
-
-### [काला सागर में बढ़ा खतरा, सरकार ने भारतीय नाविकों को दी सतर्क रहने की सलाह](https://hindi.news18.com/world/europe-black-sea-indian-sailors-advisory-from-government-to-stay-vigilant-ws-l-10691221.html)
-*News18 Hindi (World)* - Jul 26, 14:03 IST (iso: 2026-07-26T08:33:34+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/black-sea-2026-07-805be86730738e29e211085a2ac78d8f-1200x800.jpg -->
-
-Black Sea Advisory to Indian Sailors: ब्लैक सी क्षेत्र में पांच भारतीय नाविकों की मौत के बाद भारत सरकार ने वहां काम करने वाले भारतीय नागरिकों के लिए सुरक्षा एडवाइजरी जारी की है. विदेश मंत्रालय ने कहा कि रूस-यूक्रेन युद्ध के कारण इस क्षेत्र में मिसाइल और ड्रोन हमलों का खतरा बना हुआ है.
-
-### [यूरोप में आग का महाविनाश, 3 लाख लोग घर छोड़ने को मजबूर, 200 किमी तक फैली लपटें](https://hindi.news18.com/world/europe-france-spain-wildfire-3-lakh-evacuated-europe-forest-fire-10691014.html)
-*News18 Hindi (World)* - Jul 26, 13:33 IST (iso: 2026-07-26T08:03:39+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/france-news-1-2026-07-d2bbabbb4869bab026539bc296f42178-1200x800.jpg -->
-
-France And Spain Fire News: फ्रांस और स्पेन में लगी जंगल की आग लगातार फैल रही है. अब तक 3 लाख से ज्यादा लोगों को सुरक्षित स्थानों पर भेजा गया है, जबकि 45 हजार हेक्टेयर से अधिक जंगल जल चुके हैं. फ्रांस ने पहली बार A400M सैन्य विमान को आग बुझाने के अभियान में उतारा है. यूरोप में आग का महाविनाश, 3 लाख लोग घर छोड़ने को मजबूर, 200 किमी तक फैली लपटें।
-
-### [2.5 लाख+ लोगों ने घर छोड़े, सैकड़ों एकड़ जंगल खाक; राष्ट्रपति मैक्रों क्या बोले](https://www.amarujala.com/world/france-spain-battle-wildfires-many-peoples-forced-to-flee-homes-tour-de-france-route-also-been-changed-2026-07-26)
-*Amar Ujala World* - Jul 26, 12:54 IST (iso: 2026-07-26T07:24:43+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/26/kamakal-ka-chhaugdhakava-karata-vamana_194d25a8d4dadea5283e46047baf236d.jpeg?w=1200&dpr=1.0 -->
-
-फ्रांस-स्पेन में आग का महातांडव: 2. 2.5 लाख से ज्यादा लोग घर छोड़ने को मजबूर, टूर डी फ्रांस का रूट भी बदला। 2.5 लाख+ लोगों ने घर छोड़े, सैकड़ों एकड़ जंगल खाक; राष्ट्रपति मैक्रों क्या बोले।
-
-### [कैसे आग को बढ़ने से रोकते हैं गधे, पारंपरिक तरीका आ रहा है खूब काम](https://www.patrika.com/world-news/how-donkeys-are-helping-prevent-wildfires-in-spain-20779134)
-*Patrika (World)* - Jul 26, 12:32 IST (iso: 2026-07-26T07:02:07+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Firefighter-Donkeys-2.webp -->
-
-गधे आग को बढ़ने से रोक रहे हैं दक्षिण यूरोप में गधे आग को बढ़ने से रोक रहे हैं। वे जंगल में आग फैलने से रोक रहे हैं और इस धारणा को मिटा रहे हैं कि वो केवल बोझा ढो सकते हैं। दक्षिण यूरोप में गधे फायर फाइटर की भूमिका निभा रहे हैं। दरअसल, दक्षिण यूरोप के जंगल लगभग हर गर्मी के मौसम में भयानक आग का सामना करते हैं।
-
-### [रूस और यूक्रेन ने एक-दूसरे पर फिर किए हमले, 15 की गई जान](https://www.patrika.com/world-news/ukraine-russia-war-15-killed-zaporizhzhia-russia-drone-attack-sumy-20778950)
-*Patrika (World)* - Jul 26, 10:47 IST (iso: 2026-07-26T05:17:42+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Russia-Ukraine-War-Update.webp -->
-
-रूस और यूक्रेन के बीच युद्ध एक बार फिर तेज हो गया है, शनिवार को दोनों देशों ने एक-दूसरे पर बड़े हमले किए, जिसमें 15 लोगों की जान चली गई। Russia Ukraine Conflict: रूस और यूक्रेन के बीच जारी युद्ध एक बार फिर तेज हो गया है। रूस के कब्जे वाले जापोरिज्जिया क्षेत्र में छुट्टियां मना रहे लोगों के कैंपों पर हुए यूक्रेनी हमले में 12 लोगों की मौत हो गई।
+**अपडेट:** July 26, 2026 15:14 IST
 
 ---
 
 ## एशिया-प्रशांत
+
+### [पाकिस्तान में बाढ़ ने किया बेहाल, 22 की मौत 183 जख्मी, सैलाब बहा ले गया घर और सड़कें](https://hindi.news18.com/world/pakistan-pakistan-floods-killed-22-183-injured-in-lahore-punjab-and-gujranwala-ws-l-10691239.html)
+*News18 Hindi (World)* - Jul 26, 14:52 IST (iso: 2026-07-26T09:22:57+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Pakistan-Flood-2026-07-551785d03bee4004a61d9c3581957173-1200x800.jpg -->
+
+Pakistan Floods: पड़ोसी देश पाकिस्तान में भी मानसून ने अपना विकराल रूप दिखा रखा है. हालात ये हो चुके हैं अब तक पंजाब और गुजरांवाला जैसे इलाकों में बाढ़ की वजह से 22 लोगों की मौत हो चुकी है जबकि 183 लोग जख्मी हैं. पाकिस्तान में बाढ़ ने किया बेहाल, 22 की मौत 183 जख्मी, सैलाब बहा ले गया घर और सड़कें।
 
 ### [चीन पर टूटने वाला है 'नौल' का कहर! सबसे ऊंचा रेड अलर्ट, 410 उड़ानें रद्द](https://hindi.news18.com/world/china-red-alert-typhoon-noul-guangdong-hong-kong-flights-cancelled-10691180.html)
 *News18 Hindi (World)* - Jul 26, 14:01 IST (iso: 2026-07-26T08:31:48+00:00)
@@ -90,6 +62,40 @@ China Red Alert: चीन पर इस वक्त एक बड़ा प्
 
 ---
 
+## यूरोप और रूस
+
+### [काला सागर में बढ़ा खतरा, सरकार ने भारतीय नाविकों को दी सतर्क रहने की सलाह](https://hindi.news18.com/world/europe-black-sea-indian-sailors-advisory-from-government-to-stay-vigilant-ws-l-10691221.html)
+*News18 Hindi (World)* - Jul 26, 14:03 IST (iso: 2026-07-26T08:33:34+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/black-sea-2026-07-805be86730738e29e211085a2ac78d8f-1200x800.jpg -->
+
+Black Sea Advisory to Indian Sailors: ब्लैक सी क्षेत्र में पांच भारतीय नाविकों की मौत के बाद भारत सरकार ने वहां काम करने वाले भारतीय नागरिकों के लिए सुरक्षा एडवाइजरी जारी की है. विदेश मंत्रालय ने कहा कि रूस-यूक्रेन युद्ध के कारण इस क्षेत्र में मिसाइल और ड्रोन हमलों का खतरा बना हुआ है. सरकार ने नौकरी स्वीकार करने से पहले सुरक्षा स्थिति, जहाज के मार्ग, बीमा और आपातकालीन व्यवस्था की पूरी जानकारी लेने।
+
+### [यूरोप में आग का महाविनाश, 3 लाख लोग घर छोड़ने को मजबूर, 200 किमी तक फैली लपटें](https://hindi.news18.com/world/europe-france-spain-wildfire-3-lakh-evacuated-europe-forest-fire-10691014.html)
+*News18 Hindi (World)* - Jul 26, 13:33 IST (iso: 2026-07-26T08:03:39+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/france-news-1-2026-07-d2bbabbb4869bab026539bc296f42178-1200x800.jpg -->
+
+France And Spain Fire News: फ्रांस और स्पेन में लगी जंगल की आग लगातार फैल रही है. अब तक 3 लाख से ज्यादा लोगों को सुरक्षित स्थानों पर भेजा गया है, जबकि 45 हजार हेक्टेयर से अधिक जंगल जल चुके हैं. फ्रांस ने पहली बार A400M सैन्य विमान को आग बुझाने के अभियान में उतारा है. यूरोप में आग का महाविनाश, 3 लाख लोग घर छोड़ने को मजबूर, 200 किमी तक फैली लपटें।
+
+### [2.5 लाख+ लोगों ने घर छोड़े, सैकड़ों एकड़ जंगल खाक; राष्ट्रपति मैक्रों क्या बोले](https://www.amarujala.com/world/france-spain-battle-wildfires-many-peoples-forced-to-flee-homes-tour-de-france-route-also-been-changed-2026-07-26)
+*Amar Ujala World* - Jul 26, 12:54 IST (iso: 2026-07-26T07:24:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/26/kamakal-ka-chhaugdhakava-karata-vamana_194d25a8d4dadea5283e46047baf236d.jpeg?w=1200&dpr=1.0 -->
+
+फ्रांस-स्पेन में आग का महातांडव: 2. 2.5 लाख से ज्यादा लोग घर छोड़ने को मजबूर, टूर डी फ्रांस का रूट भी बदला। 2.5 लाख+ लोगों ने घर छोड़े, सैकड़ों एकड़ जंगल खाक; राष्ट्रपति मैक्रों क्या बोले।
+
+### [कैसे आग को बढ़ने से रोकते हैं गधे, पारंपरिक तरीका आ रहा है खूब काम](https://www.patrika.com/world-news/how-donkeys-are-helping-prevent-wildfires-in-spain-20779134)
+*Patrika (World)* - Jul 26, 12:32 IST (iso: 2026-07-26T07:02:07+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Firefighter-Donkeys-2.webp -->
+
+गधे आग को बढ़ने से रोक रहे हैं दक्षिण यूरोप में गधे आग को बढ़ने से रोक रहे हैं। वे जंगल में आग फैलने से रोक रहे हैं और इस धारणा को मिटा रहे हैं कि वो केवल बोझा ढो सकते हैं। दक्षिण यूरोप में गधे फायर फाइटर की भूमिका निभा रहे हैं। दरअसल, दक्षिण यूरोप के जंगल लगभग हर गर्मी के मौसम में भयानक आग का सामना करते हैं।
+
+### [रूस और यूक्रेन ने एक-दूसरे पर फिर किए हमले, 15 की गई जान](https://www.patrika.com/world-news/ukraine-russia-war-15-killed-zaporizhzhia-russia-drone-attack-sumy-20778950)
+*Patrika (World)* - Jul 26, 10:47 IST (iso: 2026-07-26T05:17:42+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/06/Russia-Ukraine-War-Update.webp -->
+
+रूस और यूक्रेन के बीच युद्ध एक बार फिर तेज हो गया है, शनिवार को दोनों देशों ने एक-दूसरे पर बड़े हमले किए, जिसमें 15 लोगों की जान चली गई। Russia Ukraine Conflict: रूस और यूक्रेन के बीच जारी युद्ध एक बार फिर तेज हो गया है। रूस के कब्जे वाले जापोरिज्जिया क्षेत्र में छुट्टियां मना रहे लोगों के कैंपों पर हुए यूक्रेनी हमले में 12 लोगों की मौत हो गई।
+
+---
+
 ## मध्य पूर्व और अफ्रीका
 
 ### [ईरान के वो 5 धुरंधर, जिसने अमेरिका को चटाई धूल, जिसे THAAD को बना दिया कबाड़, सुपरपावर को मार गया](https://hindi.news18.com/world/middle-east-us-defense-munitions-exhausted-what-are-5-irani-weapons-making-superpower-shocked-thaad-patriot-fail-10690912.html)
@@ -116,15 +122,27 @@ Iran Deadly Weapons Shocked US: जब भी दुनिया की सब�
 
 ईरान और ओमान ने हॉर्मुज स्ट्रेट को फिर से खोलने के लिए वार्ता शुरू की। अमेरिका की भी नजर इस वार्ता पर है। दोनों देशों के बीच जलमार्ग को लेकर वार्ता का दौर शुरू हुआ है। ईरान और ओमान के बीच इस महत्वपूर्ण जलमार्ग को लेकर वार्ता का दौर शुरू होने से हॉर्मुज स्ट्रेट खुलने की उम्मीदें बढ़ गई हैं।
 
+### [ईरान ने युद्ध के बीच बेच डाला 18 अरब डॉलर का तेल, सच में बंपर कमाई हुई या अमेरिका को बेवकूफ बना रहा?](https://hindi.news18.com/world/middle-east-iran-claims-18-billion-oil-sales-us-blockade-china-biggest-buyer-10690341.html)
+*News18 Hindi (World)* - Jul 26, 09:36 IST (iso: 2026-07-26T04:06:49+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/iran-oil-2-2026-07-ac8d649282ba77194c0f4fc550a30d28-1200x800.jpg -->
+
+Iran Oil Department Export: ईरान के तेल मंत्रालय ने दावा किया है कि अमेरिका के साथ युद्ध और उसके बाद के युद्धविराम के दौरान उसने 18 अरब डॉलर का तेल बेच दिया. हालांकि यही दावा ईरान के एक महीने पुराने सरकारी बयान को काटता है. तब कहा गया था कि अमेरिकी ब्लॉकेड के कारण एक बूंद तेल भी निर्यात नहीं हो सका. ऐसे में सवाल उठ रहा है कि सच क्या है?
+
+### [रूस-यूक्रेन युद्ध में हमारी कोई दिलचस्पी नहीं, अगर जरूरत पड़ी तो मध्यस्थता को तैयार, बोला ईरान](https://www.patrika.com/world-news/russia-ukraine-war-iran-foreign-ministry-statement-on-mediation-and-military-relations-20778671)
+*Patrika (World)* - Jul 26, 08:56 IST (iso: 2026-07-26T03:26:06+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/photo_6280385017879925055_y-1.webp -->
+
+Iran on Russia Ukraine: रूस और यूक्रेन के बीच चल रही जंग को लेकर एक बड़ी खबर आ रही है। ईरान के विदेश मंत्रालय ने एक नया बयान जारी कर साफ कह दिया है कि इस युद्ध में शामिल होने में उसकी कोई दिलचस्पी नहीं है। ईरान ने साफ शब्दों में कहा है कि वह इस लड़ाई को बढ़ावा नहीं देना चाहता, बल्कि इसे रोकना चाहता है।
+
+### [ईरानी जहाज पर यूक्रेन का हमला क्यों?: जेलेंस्की ने रूस पर लगाए आरोप, कहा- US के खिलाफ तेहरान की कर](https://www.amarujala.com/world/why-did-ukraine-attack-on-iranian-ship-zelenskyy-accuses-russia-says-it-aiding-tehran-against-us-2026-07-26)
+*Amar Ujala World* - Jul 26, 08:55 IST (iso: 2026-07-26T03:25:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/26/why-did-ukraine-attack-on-iranian-ship-zelenskyy-accuses-russia-says-it-aiding-tehran-against-us_29bd39520ff6fa9ca99b71868026f77c.jpeg?w=1200&dpr=1.0 -->
+
+यूक्रेन के राष्ट्रपति जेलेंस्की ने आरोप लगाया कि रूस ईरान की मदद कर रहा है जो अमेरिका के खिलाफ है। उन्होंने कहा कि यही कारण है कि यूक्रेन ने ईरानी जहाज पर हमला किया। जेलेंस्की ने रूस पर आरोप लगाए कि वह तेहरान को अमेरिका के खिलाफ मदद कर रहा है। Zelenskyy accuses Russia, says it aiding Tehran against US - ईरानी जहाज पर यूक्रेन का हमला क्यों?: जेलेंस्की ने रूस पर लगाए आरोप, कहा- US के खिलाफ तेहरान की कर रहा मदद।
+
 ---
 
 ## दुनिया
-
-### [प्रह्लाद जोशी ने शिक्षा मंत्री का कार्यभार संभाला, धर्मेंद्र प्रधान के इस्तीफे के बाद मिला जिम्मा](https://www.amarujala.com/india-news/prahlad-joshi-takes-charge-as-education-minister-after-dharmendra-pradhan-resigned-2026-07-26)
-*Amar Ujala Breaking* - Jul 26, 12:43 IST (iso: 2026-07-26T07:13:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/26/prahlad-joshi-takes-charge-as-education-minister-after-dharmendra-pradhan-resigned_150c0cf92e1b6b1153357a6a64cda19a.jpeg?w=1200&dpr=1.0 -->
-
-प्रह्लाद जोशी ने शिक्षा मंत्री का कार्यभार संभाला। धर्मेंद्र प्रधान के इस्तीफे के बाद उन्हें यह जिम्मा मिला। प्रधान ने हाल ही में अपने पद से इस्तीफा दिया था।
 
 ### [क्या हार्दिक पांड्या का CSK जाना तय, देने होंगे 20+ करोड़? इन दो खिलाड़ियों से हो सकता है ट्रेड](https://www.amarujala.com/photo-gallery/cricket/hardik-pandya-to-csk-chennai-ready-with-big-trade-offer-as-mumbai-indians-set-tough-conditions-2026-07-26)
 *Amar Ujala Breaking* - Jul 26, 12:41 IST (iso: 2026-07-26T07:11:16+00:00)
@@ -138,39 +156,17 @@ Iran Deadly Weapons Shocked US: जब भी दुनिया की सब�
 
 पवन सिंह ने अपनी मां से बात की, भावुक हुए पवन सिंह ने अपनी मां से बात की और भावुक हुए। उन्होंने कहा, 'मेरे पास कोई संपत्ति है तो सिर्फ उनका नया शो 'भोजपुरी बवाल' जल्द ही रिलीज होने वाला है। पवन सिंह का नया शो 'भोजपुरी बवाल' जल्द ही रिलीज होने वाला है। ', मां से बात कर भावुक हुए पवन सिंह; सताया इस बात का डर।
 
-### [धर्मेंद्र प्रधान ने पहले दिन ही इस्तीफे की पेशकश की थी, फिर क्या हुआ? कैलाश विजयवर्गीय ने बताई पूरी](https://www.amarujala.com/india-news/dharmendra-pradhan-offered-resign-day-one-of-student-protests-what-changed-later-kailash-vijayvargiya-reveals-2026-07-26)
-*Amar Ujala Breaking* - Jul 26, 11:29 IST (iso: 2026-07-26T05:59:07+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/26/thharamathara-parathhana-ka-isatafa-thana-sa-kaya-raka-gaya_db5ad1e264d3e224fe1edea3565ef06f.jpeg?w=1200&dpr=1.0 -->
-
-धर्मेंद्र प्रधान ने पहले दिन ही इस्तीफे की पेशकश की थी। कैलाश विजयवर्गीय ने बताई पूरी कहानी।
-
 ### [पंख टूटे, कॉकपिट चकनाचूर, उड़ते ही घर की छत पर गिरा प्लेन, 2 की हुई मौत पर मकान मालिक बचा](https://hindi.news18.com/world/europe-plane-accident-cockpit-ripped-apart-wings-broken-off-plane-crashes-into-house-10690615.html)
 *News18 Hindi (World)* - Jul 26, 11:19 IST (iso: 2026-07-26T05:49:12+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Plane-Crash-2026-07-f4db73ffe3a937c6cf12c8d2edd27c78-1200x800.jpg -->
 
 एक निजी विमान उड़ते ही घर की छत पर गिरा, दो की मौत हो गई। Plane Crashes into House Roof: कहते हैं अगर किसी की मौत लिखी होती है, तो वो कहीं से भी आ जाती है. कुछ ऐसा ही हुआ एक निजी विमान चला रहे दो लोगों के साथ. वे अपना छोटा सा प्लेन लेकर उड़े ही थे कि उनकी मौत उन्हें खींच लाई.
 
-### [कितने करोड़ के मालिक हैं शबाना आजमी और जावेद अख्तर? पहली ही फिल्म के लिए अभिनेत्री को मिला था नेशनल](https://www.amarujala.com/photo-gallery/entertainment/bollywood/shabana-azmi-and-javed-akhtar-net-worth-career-and-personal-life-2026-07-26)
-*Amar Ujala Breaking* - Jul 26, 11:18 IST (iso: 2026-07-26T05:48:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/26/javatha-akhatara-shabna-aajama_85f3c027c5c82af9d85dab5a0a551767.jpeg?w=1200&dpr=1.0 -->
-
-शबाना आजमी और जावेद अख्तर की कुल संपत्ति लगभग 400 करोड़ रुपये है। शबाना आजमी को उनकी पहली फिल्म के लिए नेशनल अवार्ड मिला था। जावेद अख्तर एक प्रसिद्ध गीतकार और पटकथा लेखक हैं। शबाना आजमी ने कई फिल्मों में अभिनय किया है और जावेद अख्तर ने कई फिल्मों के लिए गीत लिखे हैं। छात्रों के विरोध प्रदर्शन में अभिनेत्री शबाना आजमी काफी सक्रिय रही हैं।
-
 ### [50 वर्ष पुराना महाविनाश का सिद्धांत सवालों के घेरे में, उल्कापिंडों पर क्या पता लगा?](https://www.amarujala.com/world/new-evidence-from-moon-50-yr-old-theory-of-cataclysmic-destruction-under-scrutiny-findings-on-meteorites-2026-07-26)
 *Amar Ujala World* - Jul 26, 09:40 IST (iso: 2026-07-26T04:10:55+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2024/05/05/moon-surface_66e92dacf22bbb2d690c8f9aad2abe66.jpeg?w=1200&dpr=1.0 -->
 
 अमेरिकी वैज्ञानिकों ने चंद्रमा से एक नया सबूत प्राप्त किया है, जो 50 वर्ष पुराने महाविनाश के सिद्धांत को सवालों के घेरे में ला रहा है। उन्होंने उल्कापिंडों पर एक नए प्रकार की परत की खोज की है, जो पृथ्वी पर बड़े विनाश के कारण हो सकते हैं। चंद्रमा से आया नया सबूत: 50 वर्ष पुराना महाविनाश का सिद्धांत सवालों के घेरे में, उल्कापिंडों पर क्या पता लगा?
-
----
-
-## वैश्विक / बहुपक्षीय
-
-### ['छात्रों को मारने का आदेश किसने दिया?' राहुल गांधी ने अमित शाह को लिखी चिट्ठी में उठाए बड़े सवाल](https://www.amarujala.com/india-news/rahul-gandhi-asks-amit-shah-who-ordered-assault-on-students-raises-tough-questions-in-letter-2026-07-26)
-*Amar Ujala Breaking* - Jul 26, 11:48 IST (iso: 2026-07-26T06:18:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/26/rahal-gathha-kagarasa-nata_6f7f1e6dcd4bd343bb4dfa59f0a40ddb.jpeg?w=1200&dpr=1.0 -->
-
-Rahul Gandhi Asks Amit Shah Who Ordered Assault on Students Raises Tough Questions in Letter 'छात्रों को मारने का आदेश किसने दिया?' राहुल गांधी ने अमित शाह को लिखी चिट्ठी में उठाए बड़े सवाल।
 
 ---
 
