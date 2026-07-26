@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-26T17:25:05.945073+00:00",
+  "generated_at": "2026-07-26T18:25:44.395771+00:00",
   "article_count": 50,
-  "total_unique_count": 265,
+  "total_unique_count": 274,
   "digest": {
-    "en": "Europe & Russia leads the board this hour with Russian and Ukrainian strikes kill at least 10. Americas carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, रोमानिया ने तीसरे दिन भी मार गिराया संदिग्ध ड्रोन, रूस को दी कड़ी चेतावनी मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Middle East & Africa leads the board this hour with Iran halts ‘retaliatory strikes’ after lull in U.S. attacks. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, फिर आंदोलन की आग में सुलगेगा पाकिस्तान! इमरान खान की रिहाई के लिए 5 अगस्त को सड़कों पर उतरेंगे लोग मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "Iran halts ‘retaliatory strikes’ after lull in U.S. attacks",
+      "url": "https://www.thehindu.com/news/international/iran-halts-retaliatory-strikes-after-lull-in-us-attacks/article71270262.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-26T17:46:13+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/vwvy24/article71270350.ece/alternates/LANDSCAPE_1200/2026-07-25T132105Z_1665996604_RC21LMA9MWLH_RTRMADP_3_IRAN-CRISIS-BRITAIN.JPG",
+      "summary": "Iran reports ships are being hit by mines it had laid in the Strait of Hormuz; says talks with Oman over control of the Strait are at an advanced stage; Houthis claim to have downed a Saudi drone Iran halts ‘retaliatory strikes’ after lull in U. S. attacks.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Russian and Ukrainian strikes kill at least 10",
       "url": "https://www.thehindu.com/news/international/russian-and-ukrainian-strikes-kill-at-least-10/article71270140.ece",
@@ -296,31 +308,37 @@
       "translations": {}
     },
     {
-      "title": "Saudi Ally Pakistan Issues Warning After Houthi Attacks On Tankers In Red Sea",
-      "url": "https://www.rferl.org/a/saudi-pakistan-ships-attacked-read-sea-houthi/33810504.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "फिर आंदोलन की आग में सुलगेगा पाकिस्तान! इमरान खान की रिहाई के लिए 5 अगस्त को सड़कों पर उतरेंगे लोग",
+      "url": "https://hindi.news18.com/world/pakistan-former-pakistan-pm-imran-khan-people-will-take-to-streets-on-august-5-for-release-sjn-10692426.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-23T14:15:14+00:00",
-      "image_url": "https://gdb.rferl.org/5f9dd6c0-7ce3-41bb-bb7f-654939d75335_w1200_h630.jpg",
-      "summary": "Islamabad has condemned attacks by Iran-backed Houthi rebels on Saudi-flagged vessels in the Red Sea. It also warned that any aggressive actions toward Pakistan-flagged vessels or the country's maritime interests would be regarded as a “grave threat” that may result in “lawful use of force.” Saudi Ally Pakistan Issues Warning After Houthi Attacks On Tankers In Red Sea.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-26T18:24:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Imran-Khan-PTI-Reuters-2026-07-f7f73bbfc4555d8bc9167faa56fd0a62-1200x800.jpg",
+      "summary": "पाकिस्तान तहरीक‑ए‑इंसाफ ने पाँच अगस्त को इमरान खान की रिहाई की मांग में देशभर में बड़े पैमाने पर प्रदर्शन का आह्वान किया। पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान की रिहाई को लेकर पाकिस्तान तहरीक-ए-इंसाफ ने 5 अगस्त से देशभर में एक बड़े जन आंदोलन की तैयारी कर ली है. लाहौर में प्रशासन से शांतिपूर्ण प्रदर्शन की अनुमति न मिलने पर पार्टी नेताओं ने अब इसके लिए अदालत का दरवाजा खटखटाने का फैसला किया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फिर आंदोलन की आग में सुलगेगा पाकिस्तान! इमरान खान की रिहाई के लिए 5 अगस्त को सड़कों पर उतरेंगे लोग",
+          "summary": "पाकिस्तान तहरीक‑ए‑इंसाफ ने पाँच अगस्त को इमरान खान की रिहाई की मांग में देशभर में बड़े पैमाने पर प्रदर्शन का आह्वान किया। पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान की रिहाई को लेकर पाकिस्तान तहरीक-ए-इंसाफ ने 5 अगस्त से देशभर में एक बड़े जन आंदोलन की तैयारी कर ली है. लाहौर में प्रशासन से शांतिपूर्ण प्रदर्शन की अनुमति न मिलने पर पार्टी नेताओं ने अब इसके लिए अदालत का दरवाजा खटखटाने का फैसला किया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
-      "title": "रोमानिया ने तीसरे दिन भी मार गिराया संदिग्ध ड्रोन, रूस को दी कड़ी चेतावनी",
-      "url": "https://www.patrika.com/world-news/romania-shoots-down-third-drone-russia-airspace-violation-20780722",
-      "source": "Patrika (World)",
+      "title": "'होर्मुज पर हमारा कंट्रोल...' ईरान ने अमेरिका के सामने रख दी 3 बड़ी शर्त, बुरे फंसे डोनाल्ड ट्रंप",
+      "url": "https://hindi.news18.com/world/middle-east-iran-has-placed-three-major-conditions-before-us-regarding-strait-of-hormuz-sjn-10692356.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-26T16:52:09+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Russia-Romania-Drone.webp",
-      "summary": "Romania-Russia Conflict: रोमानिया और रूस के बीच तनाव लगातार बढ़ता नजर आ रहा है। लगातार तीसरे दिन रोमानिया के हवाई क्षेत्र में बिना अनुमति घुसे एक संदिग्ध ड्रोन को वायु सेना ने मार गिराया। इस घटना के बाद रोमानिया ने रूस के खिलाफ कड़ा रुख अपनाया है। राष्ट्रपति निकुसोर डैन ने साफ कहा कि देश की सीमा और नागरिकों की सुरक्षा से कोई समझौता नहीं किया जाएगा।",
+      "published_at": "2026-07-26T17:48:34+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-war-5-2026-07-c80e16114b0e0718730330cfbf20bcb8-1200x800.jpg",
+      "summary": "ईरान होर्मूज पर अपना सख्त नियंत्रण बनाए हुए है. ईरानी नौसेना ने चेतावनी की अनदेखी करने वाले छह जहाजों को रोका है. वहीं तय रास्ते से भटकने वाला एक तेल टैंकर समुद्री माइन की चपेट में आकर विस्फोट का शिकार हो गया. ईरानी संसद के डिप्टी स्पीकर ने साफ कहा है कि हॉर्मुज की स्थिति अब कभी युद्ध-पूर्व जैसी नहीं होगी.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रोमानिया ने तीसरे दिन भी मार गिराया संदिग्ध ड्रोन, रूस को दी कड़ी चेतावनी",
-          "summary": "Romania-Russia Conflict: रोमानिया और रूस के बीच तनाव लगातार बढ़ता नजर आ रहा है। लगातार तीसरे दिन रोमानिया के हवाई क्षेत्र में बिना अनुमति घुसे एक संदिग्ध ड्रोन को वायु सेना ने मार गिराया। इस घटना के बाद रोमानिया ने रूस के खिलाफ कड़ा रुख अपनाया है। राष्ट्रपति निकुसोर डैन ने साफ कहा कि देश की सीमा और नागरिकों की सुरक्षा से कोई समझौता नहीं किया जाएगा।",
+          "title": "'होर्मुज पर हमारा कंट्रोल...' ईरान ने अमेरिका के सामने रख दी 3 बड़ी शर्त, बुरे फंसे डोनाल्ड ट्रंप",
+          "summary": "ईरान होर्मूज पर अपना सख्त नियंत्रण बनाए हुए है. ईरानी नौसेना ने चेतावनी की अनदेखी करने वाले छह जहाजों को रोका है. वहीं तय रास्ते से भटकने वाला एक तेल टैंकर समुद्री माइन की चपेट में आकर विस्फोट का शिकार हो गया. ईरानी संसद के डिप्टी स्पीकर ने साफ कहा है कि हॉर्मुज की स्थिति अब कभी युद्ध-पूर्व जैसी नहीं होगी.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -735,24 +753,6 @@
         "hi": {
           "title": "‘छात्रों ने ऐसा मंत्र पढ़ा कि रात 12 बजे...’, ओवैसी ने PM मोदी पर कसा तंज",
           "summary": "AIMIM प्रमुख असदुद्दीन ओवैसी ने पूर्व शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफे पर कहा कि यह देश के युवाओं के संघर्ष की बड़ी जीत है. उन्होंने छात्रों को सलाम किया जिन्होंने कई हफ्तों तक जंतर-मंतर पर प्रदर्शन किया. उत्तर प्रदेश के मुरादाबाद में आयोजित एक सभा के दौरान AIMIM प्रमुख असदुद्दीन ओवैसी ने पूर्व शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफे पर प्रतिक्रिया दी.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सड़क के बाद अब संसद में होगा बवाल! केसी वेणुगोपाल ने पीएम मोदी से की माफी की मांग",
-      "url": "https://www.abplive.com/news/india/neet-paper-leak-row-kc-venugopal-demands-apology-pm-modi-will-be-raised-in-parliament-3165957",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-26T09:32:29+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/26/e21a6c7f67c0222735556cdba30b916717850575824171200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कांग्रेस के नेतृत्व वाला विपक्ष संसद में प्रदर्शनकारी छात्रों पर हुई कथित पुलिस बर्बरता के मुद्दे पर सरकार को घेरने की तैयारी में है. विपक्ष जिम्मेदार अधिकारियों के खिलाफ कार्रवाई और प्रधानमंत्री नरेंद्र मोदी से सार्वजनिक माफी की मांग करेगा. सूत्रों के अनुसार विपक्ष इस मामले में जिम्मेदार अधिकारियों के खिलाफ कार्रवाई और प्रधानमंत्री नरेंद्र मोदी से सार्वजनिक माफी की मांग करेगा.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सड़क के बाद अब संसद में होगा बवाल! केसी वेणुगोपाल ने पीएम मोदी से की माफी की मांग",
-          "summary": "कांग्रेस के नेतृत्व वाला विपक्ष संसद में प्रदर्शनकारी छात्रों पर हुई कथित पुलिस बर्बरता के मुद्दे पर सरकार को घेरने की तैयारी में है. विपक्ष जिम्मेदार अधिकारियों के खिलाफ कार्रवाई और प्रधानमंत्री नरेंद्र मोदी से सार्वजनिक माफी की मांग करेगा. सूत्रों के अनुसार विपक्ष इस मामले में जिम्मेदार अधिकारियों के खिलाफ कार्रवाई और प्रधानमंत्री नरेंद्र मोदी से सार्वजनिक माफी की मांग करेगा.",
           "region": "दुनिया"
         }
       }
