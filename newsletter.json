@@ -1,20 +1,32 @@
 {
-  "generated_at": "2026-07-27T05:21:45.666751+00:00",
+  "generated_at": "2026-07-27T07:15:48.492749+00:00",
   "article_count": 50,
-  "total_unique_count": 262,
+  "total_unique_count": 279,
   "digest": {
-    "en": "China's AI push and satellite race with SpaceX dominate headlines. Ukraine's leader is set to meet the new British PM in London. Iran has halted retaliatory strikes after a lull in US attacks.",
-    "hi": "बर्लिन में प्राइड परेड पर हमले के बाद पुलिस मुठभेड़ में संदिग्ध मारा गया। एक व्यक्ति की मौत हो गई और 29 घायल हुए। पुलिस ने हमले के कारणों की जांच शुरू कर दी है।"
+    "en": "Uganda's emergency food handouts dominate headlines after 19 deaths from hunger. Meanwhile, the LTA's transport plan consultations in Singapore have sparked debate over merging COE Categories A and B. In a separate development, China's AI push gains momentum as it takes the satellite race with SpaceX to the high seas.",
+    "hi": "लोकसभा में जितेंद्र सिंह ने विधेयक पेश किया, दोनों सदन दोपहर दो बजे तक स्थगित। इसी समय, अर्चना पूरन सिंह के छोटे नवाब ने शुद्धिकरण करवाया, मंगेतर समीक्षा संग बाली ट्रिप पर निकले।"
   },
   "articles": [
     {
-      "title": "Intelligence, too, faces diminishing returns",
-      "url": "https://asiatimes.com/2026/07/ais-ceiling-intelligence-too-faces-diminishing-returns/",
-      "source": "Asia Times",
+      "title": "Uganda begins emergency food handouts after 19 die from hunger",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-07-27T04:11:40+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/AI-Ceiling-AI-Limits.jpg",
-      "summary": "“[I]ntelligence, that counterentropic conjoined twin of information, must become the most powerful force in the universe, the energy to which all other physical laws must eventually kneelIntelligence was destiny, manifest.”.",
+      "published_at": "2026-07-27T07:00:34+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/21b4a5f72cda8e63545a7c656551964538e140e9/80_0_1695_1356/master/1695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fee02bb9a0bd3d4bd6d3a454b242a173",
+      "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutritionUganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolonged drought in the east of the country.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Merging COE Categories A and B among ideas raised in LTA's transport plan consultations",
+      "url": "https://www.channelnewsasia.com/singapore/coe-premiums-cat-b-engine-size-power-cars-review-lta-6279866",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-07-27T06:16:18+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--6HBW3htX--/c_crop,h_898,w_1597,x_3,y_27/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/24/jem_0315.jpg?itok=6jvzaz4I",
+      "summary": "Another suggestion was the introduction of a rebate and surcharge scheme based on vehicle value rather than engine capacity and power, so that owners of higher-value cars would pay more than buyers of mass-market cars. Merging COE Categories A and B among ideas raised in LTA's transport plan consultations.",
       "region": "World",
       "language": "en",
       "translations": {}
@@ -24,10 +36,22 @@
       "url": "https://www.thehindu.com/news/international/why-is-chinas-ai-push-gaining-ground-explained/article71269506.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-07-27T03:48:27+00:00",
+      "published_at": "2026-07-27T06:12:47+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/k0v8w0/article71270313.ece/alternates/LANDSCAPE_1200/CORRECTION_China_AI_67824.jpg",
       "summary": "How have Chinese firms caught up with leading U. S. AI models despite chip restrictions? What advantages do Chinese open-source AI models offer over captive models? How has Beijing supported the growth? What challenges could China face in the future? Why is China’s AI push gaining ground?",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Intelligence, too, faces diminishing returns",
+      "url": "https://asiatimes.com/2026/07/ais-ceiling-intelligence-too-faces-diminishing-returns/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-27T04:11:40+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/AI-Ceiling-AI-Limits.jpg",
+      "summary": "“[I]ntelligence, that counterentropic conjoined twin of information, must become the most powerful force in the universe, the energy to which all other physical laws must eventually kneelIntelligence was destiny, manifest.”. “[I]ntelligence, that counterentropic conjoined twin of information, must become the most powerful force in the universe, the energy to which all other physical laws must eventually kneelIntelligence was destiny, manifest.”.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -68,13 +92,13 @@
       "translations": {}
     },
     {
-      "title": "Ukrainian Leader To Kick Off Big Week With London Meeting With New British PM",
+      "title": "Zelenskyy To Kick Off Big Week With London Meeting With New British PM",
       "url": "https://www.rferl.org/a/zelenskyy-ukraine-burnham-britain-russia-trump/33813436.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-07-26T23:51:14+00:00",
       "image_url": "https://gdb.rferl.org/88b7f346-a4df-4b39-9956-58ccd7896176_cx0_cy3_cw0_w1200_h630.jpg",
-      "summary": "Ukrainian President Volodymyr Zelenskyy is set to meet new British Prime Minister Andy Burnham in London on July 27 as he begins a big week of foreign talks amid a rising civilian death toll from Russian air strikes back home. Ukrainian Leader To Kick Off Big Week With London Meeting With New British PM.",
+      "summary": "Ukrainian President Volodymyr Zelenskyy is set to meet new British Prime Minister Andy Burnham in London on July 27 as he begins a big week of foreign talks amid a rising civilian death toll from Russian air strikes back home. Ukrainian Leader To Kick Off Big Week With London Meeting With New British PM. Zelenskyy To Kick Off Big Week With London Meeting With New British PM.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -88,18 +112,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/vwvy24/article71270350.ece/alternates/LANDSCAPE_1200/2026-07-25T132105Z_1665996604_RC21LMA9MWLH_RTRMADP_3_IRAN-CRISIS-BRITAIN.JPG",
       "summary": "Iran reports ships are being hit by mines it had laid in the Strait of Hormuz; says talks with Oman over control of the Strait are at an advanced stage; Houthis claim to have downed a Saudi drone Iran halts ‘retaliatory strikes’ after lull in U. S. attacks. Iran halts ‘retaliatory strikes’ after lull in U. S.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russian and Ukrainian strikes kill at least 10",
-      "url": "https://www.thehindu.com/news/international/russian-and-ukrainian-strikes-kill-at-least-10/article71270140.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-26T15:56:23+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/qxncik/article71270161.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_246_6.jpg",
-      "summary": "The strikes come a day after 20 people were killed on both sides of the frontline, with both Kyiv and Moscow intensifying attacks while diplomacy to end the war. launched by Russia in 2022. is at a deadlock. Russian and Ukrainian strikes kill at least 10.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -169,7 +181,7 @@
       "source": "Asia Times",
       "sources": [],
       "published_at": "2026-07-25T04:46:32+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Indonesia-Digital-Economy-2.jpg",
+      "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/Indonesia-Digital-Economy-2.jpg?fit=1024%2C684&amp;ssl=1",
       "summary": "Today, Indonesia stands as one of the most formidable digital economic powerhouses in Southeast Asia. Bank Indonesia recorded digital payment transaction volumes reaching 5.22 billion in May 2026, marking 28.14% year-on-year growth. Meanwhile, QRIS transactions. the country’s standardized QR payment system. surged by an astounding 95.10%. Yet, beneath this rapid digitalization lies a [] The pos The hidden workers behind Indonesia’s digital boom.",
       "region": "Asia-Pacific",
       "language": "en",
@@ -220,18 +232,6 @@
       "image_url": "https://i.guim.co.uk/img/media/131bcac7d75675b6976a87471c6f8d7e9c0298d2/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aeff344432578054226343805d43daa8",
       "summary": "Guyanese authorities confirm 72 deaths after a state ferry capsized off the coast, leaving 179 people aboard. Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodiesThe confirmed death toll from the recent capsizing of a state ferry off Guyana’s coast has risen to 72, with more bodies recovered as a multinational team struggle to salvage the partially submerged vessel. Of the estimated 179 people aboard, 76 people were rescued.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia",
-      "url": "https://asiatimes.com/2026/07/iran-iraq-pakistan-axis-of-sympathy-signals-a-reshaping-southwest-asia/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-07-24T13:05:47+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Iran-Funeral.jpg",
-      "summary": "Earlier this month, the Supreme Leader of Iran, Ayatollah Ali Khamenei, was buried in his hometown of Mashhad after a four-day ceremony. Many international delegations were present, but each country will have chosen their representatives with the utmost care. Sending high-ranking officials would go beyond mere diplomatic courtesy, and possibly signal an alliance. Only two [] The post Iran-Iraq-Pa Iran-Iraq-Pakistan ‘axis of sympathy’ signals a reshaping Southwest Asia.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -308,6 +308,168 @@
       "translations": {}
     },
     {
+      "title": "लोकसभा में जितेंद्र सिंह ने पेश किया विधेयक; दोनों सदन दोपहर दो बजे तक स्थगित",
+      "url": "https://www.amarujala.com/live/india-news/parliament-monsoon-session-live-updates-lok-sabha-rajya-sabha-proceedings-bills-om-birla-cp-radhakrishnan-news-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T07:15:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/sasatha-ka-manasana-satara_399bcc1150407c25f84980c73181f00b.gif?w=1200&dpr=1.0",
+      "summary": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार? पेपर लीक रोकने के लिए आज पेश होगा संशोधन विधेयक: संसद पहुंचे धर्मेंद्र प्रधान; NDA सांसदों ने किया। लोकसभा में जितेंद्र सिंह ने पेश किया विधेयक; दोनों सदन दोपहर दो बजे तक स्थगित।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लोकसभा में जितेंद्र सिंह ने पेश किया विधेयक; दोनों सदन दोपहर दो बजे तक स्थगित",
+          "summary": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार? पेपर लीक रोकने के लिए आज पेश होगा संशोधन विधेयक: संसद पहुंचे धर्मेंद्र प्रधान; NDA सांसदों ने किया। लोकसभा में जितेंद्र सिंह ने पेश किया विधेयक; दोनों सदन दोपहर दो बजे तक स्थगित।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अर्चना पूरन सिंह के छोटे नवाब ने करवाया शुद्धिकरण, मंगेतर समीक्षा संग बाली ट्रिप पर निकले; देखें",
+      "url": "https://www.amarujala.com/entertainment/archana-puran-singh-younger-son-ayshmaan-sethi-performed-water-purification-with-fiance-samiksha-shetty-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T07:12:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/aayashhamana-satha-samakashha-shatata_b0ca254c9cf52724c10efa19344396e2.jpeg?w=1200&dpr=1.0",
+      "summary": "आयुष्मान सेठी ने अपनी मंगेतर समीक्षा शेट्टी के साथ बाली में सुकून के पल बिताते नजर आए। इन यादगार ट्रिप की खास तस्वीरें समीक्षा ने साझा कीं। अर्चना पूरन सिंह के छोटे नवाब ने करवाया शुद्धिकरण, मंगेतर समीक्षा संग बाली ट्रिप पर निकले; देखें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अर्चना पूरन सिंह के छोटे नवाब ने करवाया शुद्धिकरण, मंगेतर समीक्षा संग बाली ट्रिप पर निकले; देखें",
+          "summary": "आयुष्मान सेठी ने अपनी मंगेतर समीक्षा शेट्टी के साथ बाली में सुकून के पल बिताते नजर आए। इन यादगार ट्रिप की खास तस्वीरें समीक्षा ने साझा कीं। अर्चना पूरन सिंह के छोटे नवाब ने करवाया शुद्धिकरण, मंगेतर समीक्षा संग बाली ट्रिप पर निकले; देखें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "महिला वकील से स्टॉक ट्रेडिंग के नाम पर 79 लाख की ठगी, ऐप में दिखाया करोड़ों का फर्जी मुनाफा",
+      "url": "https://www.amarujala.com/india-news/maharashtra-woman-lawyer-scammed-for-fake-stock-trading-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T07:07:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/25/cyber-scam_34c5ec3c2d8ef0fff23c171fe8bb8755.jpeg?w=1200&dpr=1.0",
+      "summary": "Maharashtra: महिला वकील से स्टॉक ट्रेडिंग के नाम पर 79 लाख की ठगी, ऐप में दिखाया करोड़ों का फर्जी मुनाफा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महिला वकील से स्टॉक ट्रेडिंग के नाम पर 79 लाख की ठगी, ऐप में दिखाया करोड़ों का फर्जी मुनाफा",
+          "summary": "Maharashtra: महिला वकील से स्टॉक ट्रेडिंग के नाम पर 79 लाख की ठगी, ऐप में दिखाया करोड़ों का फर्जी मुनाफा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सुप्रीम कोर्ट को हाई पॉवर्ड टास्क फोर्स की सिफारिश का इंतजार, 3 अगस्त को अगली सुनवाई",
+      "url": "https://www.amarujala.com/india-news/supreme-court-to-review-nilekani-led-task-force-suggestions-on-online-neet-exam-and-cyber-security-measures-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T07:03:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/saparama-karata_645ccae021f9e76ddbbda2015594cf8f.jpeg?w=1200&dpr=1.0",
+      "summary": "NEET UG Row: क्या ऑनलाइन होगी नीट परीक्षा? सुप्रीम कोर्ट ने नंदन नीलेकणि की टास्क फोर्स से मांगे अहम सुझाव--Supreme Court To Review Nilekani-Led Task Force Suggestions On Online NEET Exam And Cyber Security Measures सुप्रीम कोर्ट को हाई पॉवर्ड टास्क फोर्स की सिफारिश का इंतजार, 3 अगस्त को अगली सुनवाई।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुप्रीम कोर्ट को हाई पॉवर्ड टास्क फोर्स की सिफारिश का इंतजार, 3 अगस्त को अगली सुनवाई",
+          "summary": "NEET UG Row: क्या ऑनलाइन होगी नीट परीक्षा? सुप्रीम कोर्ट ने नंदन नीलेकणि की टास्क फोर्स से मांगे अहम सुझाव--Supreme Court To Review Nilekani-Led Task Force Suggestions On Online NEET Exam And Cyber Security Measures सुप्रीम कोर्ट को हाई पॉवर्ड टास्क फोर्स की सिफारिश का इंतजार, 3 अगस्त को अगली सुनवाई।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "छात्रों का आंदोलन खत्म होने के बाद जंतर-मंतर की तस्वीरें, पोस्टर-बैनर हटे",
+      "url": "https://www.amarujala.com/video/india-news/images-posters-and-banners-were-removed-from-jantar-mantar-after-the-students-protest-ended-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T07:03:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/delhi_bc88532c5920f42d9948ac7292ea5d4a.jpeg?w=1200&dpr=1.0",
+      "summary": "छात्रों का आंदोलन खत्म होने के बाद जंतर-मंतर की तस्वीरें, पोस्टर-बैनर हटे।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "छात्रों का आंदोलन खत्म होने के बाद जंतर-मंतर की तस्वीरें, पोस्टर-बैनर हटे",
+          "summary": "छात्रों का आंदोलन खत्म होने के बाद जंतर-मंतर की तस्वीरें, पोस्टर-बैनर हटे।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बांग्लादेश के पूर्व राष्ट्रपति को होगी फांसी? शेख हसीना के आखिरी साथी पर शिकंजा, सरकार ने दिया जवाब",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-ex-president-mohammed-shahabuddin-crimes-against-humanity-complaint-10693355.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-27T07:02:42+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/sheikh-hasina-12-2026-07-a2201f33e651bdd6baa31800d9c70977-1200x800.jpg",
+      "summary": "Bangladsh News: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के करीबी माने जाने वाले पूर्व राष्ट्रपति मोहम्मद शाहाबुद्दीन की मुश्किल बढ़ गई है. उनके खिलाफ इंटरनेशनल क्राइम्स ट्रिब्यूनल (ICT) में 'मानवता के खिलाफ अपराध' के आरोपों की जांच की मांग करते हुए दो शिकायतें दाखिल की गई हैं. सवाल उठता है कि क्या बांग्लादेश में उनकी गिरफ्तारी की जाएगी. बांग्लादेश के पूर्व राष्ट्रपति को होगी फांसी?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश के पूर्व राष्ट्रपति को होगी फांसी? शेख हसीना के आखिरी साथी पर शिकंजा, सरकार ने दिया जवाब",
+          "summary": "Bangladsh News: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के करीबी माने जाने वाले पूर्व राष्ट्रपति मोहम्मद शाहाबुद्दीन की मुश्किल बढ़ गई है. उनके खिलाफ इंटरनेशनल क्राइम्स ट्रिब्यूनल (ICT) में 'मानवता के खिलाफ अपराध' के आरोपों की जांच की मांग करते हुए दो शिकायतें दाखिल की गई हैं. सवाल उठता है कि क्या बांग्लादेश में उनकी गिरफ्तारी की जाएगी. बांग्लादेश के पूर्व राष्ट्रपति को होगी फांसी?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'छात्रों पर नहीं, हमलावरों पर करें कार्रवाई': कांग्रेस नेता राहुल गांधी का सरकार पर हमला; PM मोदी",
+      "url": "https://www.amarujala.com/india-news/apologise-to-students-take-action-against-those-who-attacked-students-rahul-to-pm-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T07:02:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/12/rahul-gandhi_41545da95d2a2ba1769567af21989dba.jpeg?w=1200&dpr=1.0",
+      "summary": "से क्या कहा? 'छात्रों पर नहीं, हमलावरों पर करें कार्रवाई': कांग्रेस नेता राहुल गांधी का सरकार पर हमला; PM मोदी से क्या कहा?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'छात्रों पर नहीं, हमलावरों पर करें कार्रवाई': कांग्रेस नेता राहुल गांधी का सरकार पर हमला; PM मोदी",
+          "summary": "से क्या कहा? 'छात्रों पर नहीं, हमलावरों पर करें कार्रवाई': कांग्रेस नेता राहुल गांधी का सरकार पर हमला; PM मोदी से क्या कहा?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जापान की ये अनोखी डाइट तकनीक, जो रखती है लोगों को फिट और एक्टिव",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/what-is-hara-hachi-bu-diet-full-details-in-hindi-hara-hachi-bu-technique-kya-hai-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T07:00:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/hara-haca-b-kaya-ha_9f8e49ce273c4fcff0d66a272a8b1696.jpeg?w=1200&dpr=1.0",
+      "summary": "What Is Hara Hachi Bu: अगर आप फिट रहना चाहते हैं तो हम आपको एक ऐसी तकनीक के बारे में बताएंगे, जो आपके काम की है। ये तकनीक जापान के लोग आजमाते हैं, जिसकी वजह से वो हमेशा फिट रहते हैं। जापान की ये अनोखी डाइट तकनीक, जो रखती है लोगों को फिट और एक्टिव।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जापान की ये अनोखी डाइट तकनीक, जो रखती है लोगों को फिट और एक्टिव",
+          "summary": "What Is Hara Hachi Bu: अगर आप फिट रहना चाहते हैं तो हम आपको एक ऐसी तकनीक के बारे में बताएंगे, जो आपके काम की है। ये तकनीक जापान के लोग आजमाते हैं, जिसकी वजह से वो हमेशा फिट रहते हैं। जापान की ये अनोखी डाइट तकनीक, जो रखती है लोगों को फिट और एक्टिव।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'वास्ते गुना हुईया' का मतलब जानते हैं? जिस डायलॉग ने सोशल मीडिया पर मचा रखा है बवाल",
+      "url": "https://www.amarujala.com/bizarre-news/what-does-vasteguna-huiya-mean-the-story-behind-the-internet-s-latest-viral-trend-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T06:57:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/vasata-gana-haiiya_8d59c0f9b1a49e4c661d5349c51684c6.jpeg?w=1200&dpr=1.0",
+      "summary": "इन दिनों सोशल मीडिया पर \"Vasteguna Huiya\" शब्द तेजी से वायरल हो रहा है। यह ट्रेंड इंस्टाग्राम पर CJP (Cockroach Janta Party) से जुड़े एक वीडियो के बाद चर्चा में आया, जिसमें एक लड़की पुलिसकर्मी से यह डायलॉग बोलती नजर आती है। 'वास्ते गुना हुईया' का मतलब जानते हैं? जिस डायलॉग ने सोशल मीडिया पर मचा रखा है बवाल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'वास्ते गुना हुईया' का मतलब जानते हैं? जिस डायलॉग ने सोशल मीडिया पर मचा रखा है बवाल",
+          "summary": "इन दिनों सोशल मीडिया पर \"Vasteguna Huiya\" शब्द तेजी से वायरल हो रहा है। यह ट्रेंड इंस्टाग्राम पर CJP (Cockroach Janta Party) से जुड़े एक वीडियो के बाद चर्चा में आया, जिसमें एक लड़की पुलिसकर्मी से यह डायलॉग बोलती नजर आती है। 'वास्ते गुना हुईया' का मतलब जानते हैं? जिस डायलॉग ने सोशल मीडिया पर मचा रखा है बवाल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "बर्लिन में प्राइड परेड पर हमला: 24 घंटे बाद पुलिस मुठभेड़ में मारा गया संदिग्ध, एक की मौत, 29 घायल",
       "url": "https://www.amarujala.com/world/attack-at-berlin-pride-suspect-killed-in-police-encounter-24-hours-later-one-dead-29-injured-2026-07-27",
       "source": "Amar Ujala World",
@@ -326,434 +488,272 @@
       }
     },
     {
-      "title": "'भोजपुरी बवाल' से 'चिन्ना चिन्ना आसई' तक; इस वीक ओटीटी पर क्या-क्या होगा खास? जानिए",
-      "url": "https://www.amarujala.com/entertainment/bhojpuri-bawaal-to-the-legend-of-karna-heart-beat-season-3-series-and-movies-to-release-on-ott-this-week-2026-07-25",
+      "title": "एक जिद ने रिश्तों को किया लहूलुहान: महज सात साल के बेटे ने दिव्यांग पिता को गड़ासे से काटा, इस बात",
+      "url": "https://www.amarujala.com/uttar-pradesh/gonda/seven-year-old-son-attacked-his-differently-abled-father-with-sharp-edged-weapon-in-gonda-2026-07-27",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-27T06:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/otata-para-ralja-haga-kaii-falma-saraja_38af68d2a7c69c7386ee5130d43016eb.jpeg?w=1200&dpr=1.0",
-      "summary": "OTT Release This Week: नया वीक शुरू हो गया है। कुछ नई फिल्में सिनेमाघरों में सजेंगी। मगर, ओटीटी पर देखने के लिए क्या कुछ होगा खास? देखिए लिस्ट 'भोजपुरी बवाल' से 'चिन्ना चिन्ना आसई' तक; इस वीक ओटीटी पर क्या-क्या होगा खास? जानिए।",
+      "published_at": "2026-07-27T06:51:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/gonda-news_45968146648bd8855e8ce8806b27e81d.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर प्रदेश के गोंडा जिले से रिश्तों को लहूलुहान करने वाला मामला सामने आया है। देहात कोतवाली क्षेत्र के एक गांव में जम्मू जाने से मना करने पर सात साल के बच्चे ने दिव्यांग पिता पर गड़ासे से हमला कर दिया। एक जिद ने रिश्तों को किया लहूलुहान: महज सात साल के बेटे ने दिव्यांग पिता को गड़ासे से काटा, इस बात।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'भोजपुरी बवाल' से 'चिन्ना चिन्ना आसई' तक; इस वीक ओटीटी पर क्या-क्या होगा खास? जानिए",
-          "summary": "OTT Release This Week: नया वीक शुरू हो गया है। कुछ नई फिल्में सिनेमाघरों में सजेंगी। मगर, ओटीटी पर देखने के लिए क्या कुछ होगा खास? देखिए लिस्ट 'भोजपुरी बवाल' से 'चिन्ना चिन्ना आसई' तक; इस वीक ओटीटी पर क्या-क्या होगा खास? जानिए।",
+          "title": "एक जिद ने रिश्तों को किया लहूलुहान: महज सात साल के बेटे ने दिव्यांग पिता को गड़ासे से काटा, इस बात",
+          "summary": "उत्तर प्रदेश के गोंडा जिले से रिश्तों को लहूलुहान करने वाला मामला सामने आया है। देहात कोतवाली क्षेत्र के एक गांव में जम्मू जाने से मना करने पर सात साल के बच्चे ने दिव्यांग पिता पर गड़ासे से हमला कर दिया। एक जिद ने रिश्तों को किया लहूलुहान: महज सात साल के बेटे ने दिव्यांग पिता को गड़ासे से काटा, इस बात।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "पेपर लीक रोकने के लिए आज पेश होगा संशोधन विधेयक: संसद पहुंचे धर्मेंद्र प्रधान; NDA सांसदों ने किया",
-      "url": "https://www.amarujala.com/live/india-news/parliament-monsoon-session-live-updates-lok-sabha-rajya-sabha-proceedings-bills-om-birla-cp-radhakrishnan-news-2026-07-27",
+      "title": "रिलीज से चार दिन पहले क्यों टली पंकज त्रिपाठी की फिल्म ‘ओह माय डॉग’? निर्देशक अमित राय ने साझा की",
+      "url": "https://www.amarujala.com/entertainment/bollywood/pankaj-tripathi-starring-movie-oh-my-dog-was-postponed-filmmaker-amit-rai-share-reason-2026-07-27",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-27T05:21:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/21/parliament-monsoon-session-live_e9ac4586eeb51e321ebcb6d15e2b0212.jpeg?w=1200&dpr=1.0",
-      "summary": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार? पेपर लीक रोकने के लिए आज पेश होगा संशोधन विधेयक: संसद पहुंचे धर्मेंद्र प्रधान; NDA सांसदों ने किया।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-07-27T06:51:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/falma-oha-maya-daga-ka-narathashaka-amata-raya_4e946ba96d81f2c364e2b2a224cbefd4.jpeg?w=1200&dpr=1.0",
+      "summary": "पंकज त्रिपाठी की फिल्म ‘ओह माय डॉग’ जल्द ही सिनेमाघरों में रिलीज होने वाली थी। लेकिन रिलीज से 4 दिन पहले ही इस फिल्म को पोस्टपोन कर दिया गया है। फिल्म के निर्देशक अमित राय ने बताया कि ऐसा क्यों किया गया? रिलीज से चार दिन पहले क्यों टली पंकज त्रिपाठी की फिल्म ‘ओह माय डॉग’? निर्देशक अमित राय ने साझा की।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पेपर लीक रोकने के लिए आज पेश होगा संशोधन विधेयक: संसद पहुंचे धर्मेंद्र प्रधान; NDA सांसदों ने किया",
-          "summary": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार? पेपर लीक रोकने के लिए आज पेश होगा संशोधन विधेयक: संसद पहुंचे धर्मेंद्र प्रधान; NDA सांसदों ने किया।",
-          "region": "एशिया-प्रशांत"
+          "title": "रिलीज से चार दिन पहले क्यों टली पंकज त्रिपाठी की फिल्म ‘ओह माय डॉग’? निर्देशक अमित राय ने साझा की",
+          "summary": "पंकज त्रिपाठी की फिल्म ‘ओह माय डॉग’ जल्द ही सिनेमाघरों में रिलीज होने वाली थी। लेकिन रिलीज से 4 दिन पहले ही इस फिल्म को पोस्टपोन कर दिया गया है। फिल्म के निर्देशक अमित राय ने बताया कि ऐसा क्यों किया गया? रिलीज से चार दिन पहले क्यों टली पंकज त्रिपाठी की फिल्म ‘ओह माय डॉग’? निर्देशक अमित राय ने साझा की।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "हिजबुल्लाह के साथ खुलकर खड़ा हुआ खामेनेई, ईरान ने ट्रंप के सामने रखी नई शर्त, फंसा इजरायल",
+      "title": "बारिश में छोटी-सी लापरवाही पड़ सकती है भारी, मानसून शुरू होने से पहले कार की ये 10 चीजें जरूर जांच",
+      "url": "https://www.amarujala.com/automobiles/monsoon-car-care-guide-driving-safety-tips-during-rainy-season-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-27T06:47:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/car-driving-in-monsoon-rain_0bfe258d0ef694e82133401003fe0a29.jpeg?w=1200&dpr=1.0",
+      "summary": "मानसून शुरू होने से पहले कार की जांच जरूरी है। बारिश में छोटी-सी लापरवाही बड़ी समस्या बन सकती है। कार के टायर, ब्रेक, और विंडशील्ड वाइपर की जांच करना आवश्यक है। बारिश में छोटी-सी लापरवाही पड़ सकती है भारी, मानसून शुरू होने से पहले कार की ये 10 चीजें जरूर जांच।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बारिश में छोटी-सी लापरवाही पड़ सकती है भारी, मानसून शुरू होने से पहले कार की ये 10 चीजें जरूर जांच",
+          "summary": "मानसून शुरू होने से पहले कार की जांच जरूरी है। बारिश में छोटी-सी लापरवाही बड़ी समस्या बन सकती है। कार के टायर, ब्रेक, और विंडशील्ड वाइपर की जांच करना आवश्यक है। बारिश में छोटी-सी लापरवाही पड़ सकती है भारी, मानसून शुरू होने से पहले कार की ये 10 चीजें जरूर जांच।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "धर्मेंद्र प्रधान के संसद पहुंचते ही लगे नारे, विपक्ष ने क्या किया",
+      "url": "https://www.amarujala.com/video/india-news/parliament-anti-paper-leak-bill-update-dharmendra-pradhan-seen-after-resignation-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T06:47:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/dharmendra-pradhan_2d697ec22b6af96a53556e61c01c992e.jpeg?w=1200&dpr=1.0",
+      "summary": "पूर्व केंद्रीय मंत्री धर्मेंद्र प्रधान संसद भवन पहुंचे। एनडीए सांसदों ने उनका स्वागत किया और पगड़ी पहनाई। सांसदों ने \"धर्मेंद्र प्रधान ज़िंदाबाद\" के नारे लगाए। पूर्व केंद्रीय मंत्री धर्मेंद्र प्रधान जब संसद भवन पहुंचे तो एनडीए सांसदों ने उनका स्वागत किया. सम्मान में धर्मेंद्र प्रधान को पगड़ी पहनाई और “धर्मेंद्र प्रधान ज़िंदाबाद” के नारे लगाते हुए उन्हें अंदर ले गए.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धर्मेंद्र प्रधान के संसद पहुंचते ही लगे नारे, विपक्ष ने क्या किया",
+          "summary": "पूर्व केंद्रीय मंत्री धर्मेंद्र प्रधान संसद भवन पहुंचे। एनडीए सांसदों ने उनका स्वागत किया और पगड़ी पहनाई। सांसदों ने \"धर्मेंद्र प्रधान ज़िंदाबाद\" के नारे लगाए। पूर्व केंद्रीय मंत्री धर्मेंद्र प्रधान जब संसद भवन पहुंचे तो एनडीए सांसदों ने उनका स्वागत किया. सम्मान में धर्मेंद्र प्रधान को पगड़ी पहनाई और “धर्मेंद्र प्रधान ज़िंदाबाद” के नारे लगाते हुए उन्हें अंदर ले गए.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "तमिलनाडु में प्रेम प्रस्ताव ठुकराने पर छात्रा पर चाकू से किया हमला, हालत गंभीर",
+      "url": "https://www.amarujala.com/india-news/horrific-outcome-unrequited-love-female-student-attacked-knifetamil-nadu-rejecting-proposal-condition-critical-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T06:44:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/07/bihar_7f43e10eff86964a5e2a2edce02a1658.jpeg?w=1200&dpr=1.0",
+      "summary": "तमिलनाडु में एक छात्रा पर चाकू से हमला किया गया जब उसने एक लड़के का प्रेम प्रस्ताव ठुकरा दिया। लड़की की हालत गंभीर है। पुलिस ने आरोपी को गिरफ्तार कर लिया है। एकतरफा प्यार का खौफनाक अंजाम: तमिलनाडु में प्रेम प्रस्ताव ठुकराने पर छात्रा पर चाकू से किया हमला, हालत गंभीर।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तमिलनाडु में प्रेम प्रस्ताव ठुकराने पर छात्रा पर चाकू से किया हमला, हालत गंभीर",
+          "summary": "तमिलनाडु में एक छात्रा पर चाकू से हमला किया गया जब उसने एक लड़के का प्रेम प्रस्ताव ठुकरा दिया। लड़की की हालत गंभीर है। पुलिस ने आरोपी को गिरफ्तार कर लिया है। एकतरफा प्यार का खौफनाक अंजाम: तमिलनाडु में प्रेम प्रस्ताव ठुकराने पर छात्रा पर चाकू से किया हमला, हालत गंभीर।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अब मैदान में E20 जनता पार्टी: सोशल मीडिया पर जुड़े हजारों लोग, क्या हैं मांगे और किस मंत्री का",
+      "url": "https://www.amarujala.com/india-news/e20-janata-party-many-join-via-social-media-what-are-demand-which-minister-s-resignation-have-they-sought-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T06:44:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/e20-janata-party-many-join-via-social-media-what-are-demand-which-ministers-resignation-have-the_68441bd06b5ab41a1a0ea1d3914374d8.jpeg?w=1200&dpr=1.0",
+      "summary": "E20 जनता पार्टी ने सोशल मीडिया पर अपनी मौजूदगी दर्ज कराई है. इस पार्टी से जुड़ने वालों की संख्या हजारों में है. वे एक मंत्री का इस्तीफा मांग रहे हैं. - अब मैदान में E20 जनता पार्टी: सोशल मीडिया पर जुड़े हजारों लोग, क्या हैं मांगे और किस मंत्री का मांगा इस्तीफा?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अब मैदान में E20 जनता पार्टी: सोशल मीडिया पर जुड़े हजारों लोग, क्या हैं मांगे और किस मंत्री का",
+          "summary": "E20 जनता पार्टी ने सोशल मीडिया पर अपनी मौजूदगी दर्ज कराई है. इस पार्टी से जुड़ने वालों की संख्या हजारों में है. वे एक मंत्री का इस्तीफा मांग रहे हैं. - अब मैदान में E20 जनता पार्टी: सोशल मीडिया पर जुड़े हजारों लोग, क्या हैं मांगे और किस मंत्री का मांगा इस्तीफा?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हिजबुल्लाह के साथ खुलकर खड़े हुए खामेनेई, ईरान ने ट्रंप के सामने रखी नई शर्त, फंसा इजरायल",
       "url": "https://hindi.news18.com/world/middle-east-iran-sets-condition-for-us-deal-israel-must-withdraw-from-lebanon-full-support-to-hezbollah-10692966.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-27T05:16:27+00:00",
+      "published_at": "2026-07-27T06:32:51+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/mojataba-2026-07-753e4bcc82f2b405b9d6d70b00615add-1200x800.jpg",
       "summary": "Iran’s supreme leader Ayatollah Ali Khamenei told a Tehran news outlet that any U. S. deal must first see Israel end all military actions in Lebanon. He added Tehran will not pursue further peace negotiations until Israel withdraws from Lebanese territory and halts attacks. Iran Supreme Leader News: ईरान के सुप्रीम लीडर मोजतबा खामेनेई ने कहा है कि अमेरिका के साथ किसी भी समझौते की पहली शर्त लेबनान में इजरायली सैन्य कार्रवाई का पूरी तरह खत्म होना है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हिजबुल्लाह के साथ खुलकर खड़ा हुआ खामेनेई, ईरान ने ट्रंप के सामने रखी नई शर्त, फंसा इजरायल",
+          "title": "हिजबुल्लाह के साथ खुलकर खड़े हुए खामेनेई, ईरान ने ट्रंप के सामने रखी नई शर्त, फंसा इजरायल",
           "summary": "Iran’s supreme leader Ayatollah Ali Khamenei told a Tehran news outlet that any U. S. deal must first see Israel end all military actions in Lebanon. He added Tehran will not pursue further peace negotiations until Israel withdraws from Lebanese territory and halts attacks. Iran Supreme Leader News: ईरान के सुप्रीम लीडर मोजतबा खामेनेई ने कहा है कि अमेरिका के साथ किसी भी समझौते की पहली शर्त लेबनान में इजरायली सैन्य कार्रवाई का पूरी तरह खत्म होना है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "अगले 138 दिन किन राशियों के लिए बनेंगे अवसर और किन्हें रखनी होगी सावधानी? जानें वक्री शनि का असर",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/shani-vakri-2026-saturn-s-retrograde-brings-opportunities-and-challenges-for-these-zodiac-signs-2026-07-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T05:11:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/vakara-shana-ka-rashaya-para-parabhava_373420974f381ca329b4faace490b495.jpeg?w=1200&dpr=1.0",
-      "summary": "शनि की वक्री चाल को केवल कठिनाइयों का समय मानना उचित नहीं है। यह अवधि आत्ममंथन, पुराने कार्यों को पूरा करने और अपनी गलतियों से सीखने का भी अवसर देती है। जहां कुछ राशि के लोगों को कुछ सकारात्मक परिणाम मिल सकते हैं अगले 138 दिन किन राशियों के लिए बनेंगे अवसर और किन्हें रखनी होगी सावधानी? जानें वक्री शनि का असर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अगले 138 दिन किन राशियों के लिए बनेंगे अवसर और किन्हें रखनी होगी सावधानी? जानें वक्री शनि का असर",
-          "summary": "शनि की वक्री चाल को केवल कठिनाइयों का समय मानना उचित नहीं है। यह अवधि आत्ममंथन, पुराने कार्यों को पूरा करने और अपनी गलतियों से सीखने का भी अवसर देती है। जहां कुछ राशि के लोगों को कुछ सकारात्मक परिणाम मिल सकते हैं अगले 138 दिन किन राशियों के लिए बनेंगे अवसर और किन्हें रखनी होगी सावधानी? जानें वक्री शनि का असर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आज से चलेंगे शनि उल्टी चाल, इन 4 राशि वालों की अगले 138 दिन बढ़ेगी टेंशन",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/shani-vakri-on-27-july-2026-these-zodiac-sign-will-face-problemsin-carerre-health-job-and-success-2026-07-26",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T05:10:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/26/shani-vakri-2026_a665886c0719147a7c627d7cf6647ae1.jpeg?w=1200&dpr=1.0",
-      "summary": "Shani Vakri 2026: शनि की वक्री चाल इन चार राशि वालों के लिए मुश्किलें लेकर आ सकती हैं। इस समय जातकों को धैर्य और सोच-विचार के साथ काम करने की आवश्यकता रहेगी। आइए किन राशियों के लिए समय कष्टकारी होगा, जानते हैं। आज से चलेंगे शनि उल्टी चाल, इन 4 राशि वालों की अगले 138 दिन बढ़ेगी टेंशन।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज से चलेंगे शनि उल्टी चाल, इन 4 राशि वालों की अगले 138 दिन बढ़ेगी टेंशन",
-          "summary": "Shani Vakri 2026: शनि की वक्री चाल इन चार राशि वालों के लिए मुश्किलें लेकर आ सकती हैं। इस समय जातकों को धैर्य और सोच-विचार के साथ काम करने की आवश्यकता रहेगी। आइए किन राशियों के लिए समय कष्टकारी होगा, जानते हैं। आज से चलेंगे शनि उल्टी चाल, इन 4 राशि वालों की अगले 138 दिन बढ़ेगी टेंशन।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "'मेरे बच्चे भी मेरी कई बातें नहीं मानते': सीएम हिमंत बिस्वा सरमा ने ऐसा क्यों कहा? खुद के मंत्री का",
-      "url": "https://www.amarujala.com/india-news/assam-cm-himanta-biswa-sarma-came-in-support-of-keshab-mahanta-after-his-daughter-video-gone-viral-about-pm-2026-07-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T05:08:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/assam-cm-himanta-biswa-sarma-came-in-support-of-keshab-mahanta-after-his-daughter-video-gone-viral_351cdf8dd0b5a222e11ca8255a359c76.jpeg?w=1200&dpr=1.0",
-      "summary": "Assam CM Himanta Biswa Sarma came in support of Keshab Mahanta, after his daughter video gone viral about PM Modi - 'मेरे बच्चे भी मेरी कई बातें नहीं मानते': सीएम हिमंत बिस्वा सरमा ने ऐसा क्यों कहा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मेरे बच्चे भी मेरी कई बातें नहीं मानते': सीएम हिमंत बिस्वा सरमा ने ऐसा क्यों कहा? खुद के मंत्री का",
-          "summary": "Assam CM Himanta Biswa Sarma came in support of Keshab Mahanta, after his daughter video gone viral about PM Modi - 'मेरे बच्चे भी मेरी कई बातें नहीं मानते': सीएम हिमंत बिस्वा सरमा ने ऐसा क्यों कहा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "APJ Abdul Kalam Death Anniversary: मिसाइल मैन से राष्ट्रपति तक, जानें डॉ. कलाम की प्रेरणादायक कहानी",
-      "url": "https://www.amarujala.com/lifestyle/dr-apj-adbul-kalam-death-anniversary-missile-man-india-biography-and-life-story-in-hindi-2026-07-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T04:59:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/apj-abdul-kalam-death-anniversary_5f5f1a40cd0c48d7ba3c9b7f207710f6.jpeg?w=1200&dpr=1.0",
-      "summary": "apj abdul kalam biography hindi: डॉ. एपीजे अब्दुल कलाम की पुण्यतिथि पर जानें उनका जीवन परिचय, शिक्षा, मिसाइल कार्यक्रम में योगदान, राष्ट्रपति बनने की कहानी और प्रेरणादायक विचार। कलाम की प्रेरणादायक कहानी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "APJ Abdul Kalam Death Anniversary: मिसाइल मैन से राष्ट्रपति तक, जानें डॉ. कलाम की प्रेरणादायक कहानी",
-          "summary": "apj abdul kalam biography hindi: डॉ. एपीजे अब्दुल कलाम की पुण्यतिथि पर जानें उनका जीवन परिचय, शिक्षा, मिसाइल कार्यक्रम में योगदान, राष्ट्रपति बनने की कहानी और प्रेरणादायक विचार। कलाम की प्रेरणादायक कहानी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'आपने मेरे लिए सब कुछ किया, लेकिन मैं असफल रही': नीट छात्रा ने दी जान; सुसाइड नोट में क्या-क्या",
-      "url": "https://www.amarujala.com/india-news/you-sacrificed-everything-i-failed-neet-aspirant-ankita-sangle-dies-by-suicide-2026-07-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T04:59:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/aatamahataya-mamal_c129e445c4d28e111bf2769dfd6324ef.jpeg?w=1200&dpr=1.0",
-      "summary": "लिखा? 'आपने मेरे लिए सब कुछ किया, लेकिन मैं असफल रही': नीट छात्रा ने दी जान; सुसाइड नोट में क्या-क्या लिखा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'आपने मेरे लिए सब कुछ किया, लेकिन मैं असफल रही': नीट छात्रा ने दी जान; सुसाइड नोट में क्या-क्या",
-          "summary": "लिखा? 'आपने मेरे लिए सब कुछ किया, लेकिन मैं असफल रही': नीट छात्रा ने दी जान; सुसाइड नोट में क्या-क्या लिखा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सेमीफाइनल हार के बाद क्यों बेकाबू हुआ कारोबारी? लाइसेंसी रिवॉल्वर से तीन फायर, पुलिस ने दबोचा",
-      "url": "https://www.amarujala.com/india-news/andhra-pradesh-man-held-after-firing-licensed-revolver-following-badminton-semifinal-defeat-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T04:57:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/14/aparathha-sakataka-tasavara_cbf5496b7e9147e0086b6af1e5ae8ff4.jpeg?w=1200&dpr=1.0",
-      "summary": "Andhra Pradesh: सेमीफाइनल हार के बाद क्यों बेकाबू हुआ कारोबारी?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सेमीफाइनल हार के बाद क्यों बेकाबू हुआ कारोबारी? लाइसेंसी रिवॉल्वर से तीन फायर, पुलिस ने दबोचा",
-          "summary": "Andhra Pradesh: सेमीफाइनल हार के बाद क्यों बेकाबू हुआ कारोबारी?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रोजाना प्रोसेस्ड फूड खाना पड़ सकता है भारी, जानें 10 बड़े नुकसान",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/side-effects-of-eating-ready-to-eat-snacks-in-hindi-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T04:54:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/ready-to-eat-snacks_a4fbc208e032a757b144f5c74d49154a.jpeg?w=1200&dpr=1.0",
-      "summary": "Side Effects of Eating Processed Food: आजकल बाजार में रेडी टू ईट स्नैक्स काफी आसानी से और कम दाम में मिल जाते हैं। ऐसे में हम आपको बताएंगे कि इसके क्या नुकसान हैं और ये शरीर को कैसे नुकसान पहुंचाते हैं। रोजाना प्रोसेस्ड फूड खाना पड़ सकता है भारी, जानें 10 बड़े नुकसान।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रोजाना प्रोसेस्ड फूड खाना पड़ सकता है भारी, जानें 10 बड़े नुकसान",
-          "summary": "Side Effects of Eating Processed Food: आजकल बाजार में रेडी टू ईट स्नैक्स काफी आसानी से और कम दाम में मिल जाते हैं। ऐसे में हम आपको बताएंगे कि इसके क्या नुकसान हैं और ये शरीर को कैसे नुकसान पहुंचाते हैं। रोजाना प्रोसेस्ड फूड खाना पड़ सकता है भारी, जानें 10 बड़े नुकसान।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या आपको भी है 24वीं किस्त का इंतजार? तो किसान आज ही करवाएं ये 3 काम",
-      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-yojana-e-kyc-land-seeding-and-aadhaar-linking-are-important-for-24th-installment-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T04:45:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/paema-kasana-yajana-ka-24va-kasata-kanaha-malga_149aa1304d4b4afe3626fe8bc650c64b.jpeg?w=1200&dpr=1.0",
-      "summary": "अगर आप भी पीएम किसान योजना से जुड़े हैं और 24वीं किस्त का लाभ लेना चाहते हैं तो आपको कुछ काम करवाने होते हैं। क्योंकि इन कामों को न करवाने पर आप किस्त के लाभ से वंचित रह सकते हैं। क्या आपको भी है 24वीं किस्त का इंतजार? तो किसान आज ही करवाएं ये 3 काम।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या आपको भी है 24वीं किस्त का इंतजार? तो किसान आज ही करवाएं ये 3 काम",
-          "summary": "अगर आप भी पीएम किसान योजना से जुड़े हैं और 24वीं किस्त का लाभ लेना चाहते हैं तो आपको कुछ काम करवाने होते हैं। क्योंकि इन कामों को न करवाने पर आप किस्त के लाभ से वंचित रह सकते हैं। क्या आपको भी है 24वीं किस्त का इंतजार? तो किसान आज ही करवाएं ये 3 काम।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "केरल से लखनऊ आती टीम; लालच में आकर रामलाल करने लगे यीशु की प्रार्थना, नए खुलासे",
-      "url": "https://www.amarujala.com/lucknow/penetration-of-conversion-racket-in-lucknow-team-used-to-arrive-from-kerala-new-revelations-in-investigation-2026-07-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T04:42:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/16/thharamataranae-ka-khal-sakataka-tasavara_0eb5200d6934eab0f79a01bdea7cdcbd.jpeg?w=1200&dpr=1.0",
-      "summary": "राजधानी लखनऊ के मोहनलालगंज में पकड़े गए धर्मांतरण गिरोह की जड़ें बहुत गहरी हैं। केरल से लखनऊ आती टीम; लालच में आकर रामलाल करने लगे यीशु की प्रार्थना, नए खुलासे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "केरल से लखनऊ आती टीम; लालच में आकर रामलाल करने लगे यीशु की प्रार्थना, नए खुलासे",
-          "summary": "राजधानी लखनऊ के मोहनलालगंज में पकड़े गए धर्मांतरण गिरोह की जड़ें बहुत गहरी हैं। केरल से लखनऊ आती टीम; लालच में आकर रामलाल करने लगे यीशु की प्रार्थना, नए खुलासे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "महंगी होती कारें, बढ़ता ईवी क्रेज और AI का असर... जानिए कैसे बदल रहा है दुनिया का ऑटो बाजार",
-      "url": "https://www.amarujala.com/automobiles/global-auto-market-is-changing-fast-affordability-evs-and-ai-to-drive-future-mobility-says-mckinsey-report-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T04:41:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/global-auto-market_6fb2f103cb7838d4bb0866f043ac72e6.jpeg?w=1200&dpr=1.0",
-      "summary": "Global Auto Market Is Changing Fast: Affordability, EVs and AI to Drive Future Mobility, Says McKinsey Report महंगी होती कारें, बढ़ता EV क्रेज और AI का असर. जानिए कैसे बदल रहा है दुनिया का ऑटो बाजार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "महंगी होती कारें, बढ़ता ईवी क्रेज और AI का असर... जानिए कैसे बदल रहा है दुनिया का ऑटो बाजार",
-          "summary": "Global Auto Market Is Changing Fast: Affordability, EVs and AI to Drive Future Mobility, Says McKinsey Report महंगी होती कारें, बढ़ता EV क्रेज और AI का असर. जानिए कैसे बदल रहा है दुनिया का ऑटो बाजार।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "प्रधानमंत्री पर अपमानजनक कार्टून दिखाने वाली श्रीलेखा मित्रा कौन हैं? पुलिस में केस दर्ज; बचाव में",
-      "url": "https://www.amarujala.com/entertainment/sreelekha-mitra-case-registered-against-bengali-actress-to-objectionable-poster-of-pm-narendra-modi-2026-07-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T04:38:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/sharalkha-matara_be5144a12cf1b9bd95f3961ef6c93459.jpeg?w=1200&dpr=1.0",
-      "summary": "बीते दिनों कोलकाता में हुए नीट प्रोटेस्ट के दौरान बंगाली एक्ट्रेस श्रीलेखा मित्रा भी नजर आई थीं। इस दौरान उन्होंने प्रधानमंत्री नरेंद्र मोदी के आपत्तिजनक और अपमानजनक कार्टून दिखाए थे। इसे लेकर उन पर पुलिस में मामला दर्ज हो गया है। प्रधानमंत्री पर अपमानजनक कार्टून दिखाने वाली श्रीलेखा मित्रा कौन हैं? पुलिस में केस दर्ज; बचाव में।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रधानमंत्री पर अपमानजनक कार्टून दिखाने वाली श्रीलेखा मित्रा कौन हैं? पुलिस में केस दर्ज; बचाव में",
-          "summary": "बीते दिनों कोलकाता में हुए नीट प्रोटेस्ट के दौरान बंगाली एक्ट्रेस श्रीलेखा मित्रा भी नजर आई थीं। इस दौरान उन्होंने प्रधानमंत्री नरेंद्र मोदी के आपत्तिजनक और अपमानजनक कार्टून दिखाए थे। इसे लेकर उन पर पुलिस में मामला दर्ज हो गया है। प्रधानमंत्री पर अपमानजनक कार्टून दिखाने वाली श्रीलेखा मित्रा कौन हैं? पुलिस में केस दर्ज; बचाव में।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "स्ट्रेट ऑफ होर्मुज बंद कर चौड़ा हो रहा था ईरान, खुद झुलसा तो औकात में आया, लगा बिलबिलाने",
-      "url": "https://hindi.news18.com/world/middle-east-ukraine-attack-on-irani-ships-in-caspian-sea-widens-conflict-between-two-nations-iran-us-war-10692939.html",
+      "title": "वेनेजुएला के भूकंप ने बदल दी धरती की शक्ल! 2 फीट सरकी जमीन, ISRO-NASA ने दिखाया सबूत",
+      "url": "https://hindi.news18.com/world/rest-of-world-venezuela-earthquake-ground-shifted-2-feet-nasa-isro-nisar-satellite-reveals-10693061.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-27T04:31:40+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-araghchi-2026-07-ec04b11b02854f5b7193b90f91e55373-1200x800.jpg",
-      "summary": "Iran-Ukraine Conflict: ईरान जब तक खुद स्ट्रेट ऑफ होर्मुज में अपनी दादागीरी चला रहा था और उसके बताए गए रूट से अलग गुजरने वाले जहाजों पर हमले करके उन्हें फूंक रहा था, तब तक सब ठीक था. जब उसे अपनी ही कड़वी दवा का स्वाद कैस्पियन सागर में यूक्रेन ने चखाया, तो ये देश तिलमिलाकर जेलेंस्की को धमकी देने लगा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्ट्रेट ऑफ होर्मुज बंद कर चौड़ा हो रहा था ईरान, खुद झुलसा तो औकात में आया, लगा बिलबिलाने",
-          "summary": "Iran-Ukraine Conflict: ईरान जब तक खुद स्ट्रेट ऑफ होर्मुज में अपनी दादागीरी चला रहा था और उसके बताए गए रूट से अलग गुजरने वाले जहाजों पर हमले करके उन्हें फूंक रहा था, तब तक सब ठीक था. जब उसे अपनी ही कड़वी दवा का स्वाद कैस्पियन सागर में यूक्रेन ने चखाया, तो ये देश तिलमिलाकर जेलेंस्की को धमकी देने लगा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका फिर गोलियों से दहला, सिएटल फूड फेस्टिवल में ताबड़तोड़ फायरिंग, 2 लोगों की मौत",
-      "url": "https://hindi.news18.com/world/america-seattle-food-festival-mass-shooting-2-killed-many-injured-bite-of-seattle-10692816.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-27T04:31:23+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/seattle-2026-07-2ad5e4d6e405cc9aed967b3764187dc7-1200x800.jpg",
-      "summary": "Seattle Firing News: अमेरिका के सिएटल में मशहूर बाइट ऑफ सिएटल फूड फेस्टिवल के दौरान हुई गोलीबारी में कई लोग घायल हो गए. घटना के बाद पूरे इलाके में अफरा-तफरी मच गई. पुलिस ने मामले की जांच शुरू कर दी है, लेकिन फिलहाल न तो संदिग्ध की गिरफ्तारी की पुष्टि हुई है और न ही हमले की वजह सामने आई है.",
+      "published_at": "2026-07-27T06:28:49+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/nisar-2026-07-6027c0bfd2fe9e13e62c227d716afa2a-1200x800.jpg",
+      "summary": "NASA और ISRO के संयुक्त मिशन NISAR सैटेलाइट ने वेनेजुएला में जून में आए दो शक्तिशाली भूकंपों के बाद धरती की सतह के बदलावों को कैप्चर किया है. वैज्ञानिकों ने InSAR तकनीक का इस्तेमाल करके धरती की सतह में हुए बदलावों को पहचाना है, जिसमें जमीन के 2 फीट सरकने का पता चला है. NISAR Satellite News: वेनेजुएला में जून में आए दो शक्तिशाली भूकंपों ने सिर्फ इमारतों को ही नहीं, बल्कि धरती की सतह को भी हिला दिया.",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिका फिर गोलियों से दहला, सिएटल फूड फेस्टिवल में ताबड़तोड़ फायरिंग, 2 लोगों की मौत",
-          "summary": "Seattle Firing News: अमेरिका के सिएटल में मशहूर बाइट ऑफ सिएटल फूड फेस्टिवल के दौरान हुई गोलीबारी में कई लोग घायल हो गए. घटना के बाद पूरे इलाके में अफरा-तफरी मच गई. पुलिस ने मामले की जांच शुरू कर दी है, लेकिन फिलहाल न तो संदिग्ध की गिरफ्तारी की पुष्टि हुई है और न ही हमले की वजह सामने आई है.",
+          "title": "वेनेजुएला के भूकंप ने बदल दी धरती की शक्ल! 2 फीट सरकी जमीन, ISRO-NASA ने दिखाया सबूत",
+          "summary": "NASA और ISRO के संयुक्त मिशन NISAR सैटेलाइट ने वेनेजुएला में जून में आए दो शक्तिशाली भूकंपों के बाद धरती की सतह के बदलावों को कैप्चर किया है. वैज्ञानिकों ने InSAR तकनीक का इस्तेमाल करके धरती की सतह में हुए बदलावों को पहचाना है, जिसमें जमीन के 2 फीट सरकने का पता चला है. NISAR Satellite News: वेनेजुएला में जून में आए दो शक्तिशाली भूकंपों ने सिर्फ इमारतों को ही नहीं, बल्कि धरती की सतह को भी हिला दिया.",
           "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "सामान्य हुई लुटियंस दिल्ली, दीवारों से मिटे आंदोलन के निशान; पर्यटकों की चहल-पहल लौटी; तस्वीरें",
-      "url": "https://www.amarujala.com/photo-gallery/delhi/cjp-protest-end-lutyens-delhi-returns-to-normal-signs-of-the-protest-erased-from-walls-2026-07-27",
+      "title": "फास्ट ट्रैक कोर्ट में पहली सुनवाई स्थगित, क्या रही वजह? CBI की गैरमौजूदगी पर अदालत ने क्या कहा?",
+      "url": "https://www.amarujala.com/education/neet-ug-2026-paper-leak-fast-track-court-defers-bail-hearing-cbi-asked-to-appoint-prosecutor-2026-07-27",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-27T04:24:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/cjp-protest-end_93cdd2a56eb3ddb6a4c7b0b0e37243c3.jpeg?w=1200&dpr=1.0",
-      "summary": "लुटियंस दिल्ली में एक सप्ताह के प्रदर्शन के बाद सामान्य स्थिति बहाल हो गई। प्रदर्शन, कड़े सुरक्षा इंतजाम और यातायात प्रतिबंधों के कारण एक सप्ताह तक प्रभावित रही लुटियंस दिल्ली ने शनिवार रात आंदोलन समाप्त होने के बाद रविवार को सामान्य स्थिति में वापसी कर ली। सामान्य हुई लुटियंस दिल्ली, दीवारों से मिटे आंदोलन के निशान; पर्यटकों की चहल-पहल लौटी; तस्वीरें।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सामान्य हुई लुटियंस दिल्ली, दीवारों से मिटे आंदोलन के निशान; पर्यटकों की चहल-पहल लौटी; तस्वीरें",
-          "summary": "लुटियंस दिल्ली में एक सप्ताह के प्रदर्शन के बाद सामान्य स्थिति बहाल हो गई। प्रदर्शन, कड़े सुरक्षा इंतजाम और यातायात प्रतिबंधों के कारण एक सप्ताह तक प्रभावित रही लुटियंस दिल्ली ने शनिवार रात आंदोलन समाप्त होने के बाद रविवार को सामान्य स्थिति में वापसी कर ली। सामान्य हुई लुटियंस दिल्ली, दीवारों से मिटे आंदोलन के निशान; पर्यटकों की चहल-पहल लौटी; तस्वीरें।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भाई ने छोड़ा अपना सपना, पिता ने की मजदूरी...मुथुपांडी ने CWG 2026 में जीत लिया रजत पदक",
-      "url": "https://www.amarujala.com/sports/from-matchbox-factory-to-commonwealth-games-2026-silver-raja-muthupandi-inspirational-journey-story-2026-07-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T04:15:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/raja-muthupandi-commonwealth-games-2026-raja-muthupandi-biography-india-weightlifting-cwg-2026_6b0879028a7de56925640f25c5df6b61.jpeg?w=1200&dpr=1.0",
-      "summary": "राजा मुथुपांडी ने ग्लास्गो राष्ट्रमंडल खेल 2026 में पुरुषों के 65 किग्रा भारवर्ग में रजत पदक जीता। तमिलनाडु के कोविलपट्टी के रहने वाले राजा मुथुपांडी ने आर्थिक तंगी, गंभीर चोटों और कई सर्जरी जैसी मुश्किलों को पीछे छोड़ते हुए ग्लास्गो राष्ट्रमंडल खेल 2026 में पुरुषों के 65 किग्रा भारवर्ग का रजत पदक जीत लिया।",
+      "published_at": "2026-07-27T06:28:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/neet-ug-2026-leak-case_e80d7f429038e8684d6aa24c08dbaffa.jpeg?w=1200&dpr=1.0",
+      "summary": "राउज एवेन्यू की विशेष फास्ट ट्रैक कोर्ट ने सीबीआई की ओर से अभियोजक नियुक्त करने का निर्देश दिया है। आरोपी दिनेश और विकास बिवाल की जमानत पर सुनवाई अब 3 अगस्त को होगी। फास्ट ट्रैक कोर्ट में पहली सुनवाई स्थगित, क्या रही वजह? CBI की गैरमौजूदगी पर अदालत ने क्या कहा?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भाई ने छोड़ा अपना सपना, पिता ने की मजदूरी...मुथुपांडी ने CWG 2026 में जीत लिया रजत पदक",
-          "summary": "राजा मुथुपांडी ने ग्लास्गो राष्ट्रमंडल खेल 2026 में पुरुषों के 65 किग्रा भारवर्ग में रजत पदक जीता। तमिलनाडु के कोविलपट्टी के रहने वाले राजा मुथुपांडी ने आर्थिक तंगी, गंभीर चोटों और कई सर्जरी जैसी मुश्किलों को पीछे छोड़ते हुए ग्लास्गो राष्ट्रमंडल खेल 2026 में पुरुषों के 65 किग्रा भारवर्ग का रजत पदक जीत लिया।",
+          "title": "फास्ट ट्रैक कोर्ट में पहली सुनवाई स्थगित, क्या रही वजह? CBI की गैरमौजूदगी पर अदालत ने क्या कहा?",
+          "summary": "राउज एवेन्यू की विशेष फास्ट ट्रैक कोर्ट ने सीबीआई की ओर से अभियोजक नियुक्त करने का निर्देश दिया है। आरोपी दिनेश और विकास बिवाल की जमानत पर सुनवाई अब 3 अगस्त को होगी। फास्ट ट्रैक कोर्ट में पहली सुनवाई स्थगित, क्या रही वजह? CBI की गैरमौजूदगी पर अदालत ने क्या कहा?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "फूड फेस्टिवल में गोलीबारी, मची अफरा-तफरी, बच्चे समेत 4 लोग घायल; क्या है पूरा मामला?",
-      "url": "https://www.amarujala.com/world/several-people-wounded-by-gunfire-at-seattle-festival-hospital-says-2026-07-27",
+      "title": "भारत से सटे जिले में सांप्रदायिक हिंसा, एक की मौत, अनिश्चितकालीन कर्फ्यू लागू; प्रशासन ने क्या कहा?",
+      "url": "https://www.amarujala.com/world/communal-clash-in-nepal-s-india-bordering-sunsari-restrictive-orders-imposed-2026-07-27",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-27T06:15:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/30/nepal-violence_c776894a9037c858e687cf02b824bb46.jpeg?w=1200&dpr=1.0",
+      "summary": "नेपाल के भारत से सटे जिले में सांप्रदायिक हिंसा हुई, जिसमें एक की मौत हो गई। अनिश्चितकालीन कर्फ्यू लागू कर दिया गया है। प्रशासन ने घटना की जांच शुरू कर दी है। नेपाल: भारत से सटे जिले में सांप्रदायिक हिंसा, एक की मौत, अनिश्चितकालीन कर्फ्यू लागू; प्रशासन ने क्या कहा?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत से सटे जिले में सांप्रदायिक हिंसा, एक की मौत, अनिश्चितकालीन कर्फ्यू लागू; प्रशासन ने क्या कहा?",
+          "summary": "नेपाल के भारत से सटे जिले में सांप्रदायिक हिंसा हुई, जिसमें एक की मौत हो गई। अनिश्चितकालीन कर्फ्यू लागू कर दिया गया है। प्रशासन ने घटना की जांच शुरू कर दी है। नेपाल: भारत से सटे जिले में सांप्रदायिक हिंसा, एक की मौत, अनिश्चितकालीन कर्फ्यू लागू; प्रशासन ने क्या कहा?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "जिसे पागल कहते रहे लोग, उसने 24 साल में धरती पर उतार दिया 'स्वर्ग', बंजर से फूट पड़ा झरना",
+      "url": "https://hindi.news18.com/world/south-asia-man-planted-11000-banyan-trees-across-barren-hills-springs-returned-after-24-years-miracle-story-10693187.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-27T06:14:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/indonesia-farmer-2026-07-289140027f3584863d0e83c59f60cbb8-1200x800.jpg",
+      "summary": "इंडोनेशिया के एक किसान ने 24 साल में अपने बंजर भूमि को फिर से हरा-भरा बना दिया। उन्होंने अपनी लगन और मेहनत से धरती पर स्वर्ग उतार दिया। अब लोग उनकी तारीफ कर रहे हैं। Man Makes Barren Land Fertile: अगर कुदरत की दी हुई चीजों को इंसान बिगाड़ रहा है तो वो इसे ठीक भी कर सकता है. कम से कम इंडोनेशिया के एक किसान की कहानी से ऐसा ही लगता है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जिसे पागल कहते रहे लोग, उसने 24 साल में धरती पर उतार दिया 'स्वर्ग', बंजर से फूट पड़ा झरना",
+          "summary": "इंडोनेशिया के एक किसान ने 24 साल में अपने बंजर भूमि को फिर से हरा-भरा बना दिया। उन्होंने अपनी लगन और मेहनत से धरती पर स्वर्ग उतार दिया। अब लोग उनकी तारीफ कर रहे हैं। Man Makes Barren Land Fertile: अगर कुदरत की दी हुई चीजों को इंसान बिगाड़ रहा है तो वो इसे ठीक भी कर सकता है. कम से कम इंडोनेशिया के एक किसान की कहानी से ऐसा ही लगता है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "जादुमणि ने पाकिस्तानी मुक्केबाज को पहले जमकर धोया, फिर ऐसा क्या बोले की पड़ोसी मुल्क को लगी मिर्ची?",
+      "url": "https://www.amarujala.com/photo-gallery/sports/cwg-2026-jadumani-dedicates-victory-over-pakistan-boxer-to-kargil-heroes-2026-07-27",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-27T03:57:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/saetal-ma-fada-fasataval-ma-galbra_fb2be3429d09407ee30a3080e61f3d3a.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका में फूड फेस्टिवल में गोलीबारी हुई, जिसमें बच्चे समेत 4 लोग घायल हुए। अमेरिका: फूड फेस्टिवल में गोलीबारी, मची अफरा-तफरी, बच्चे समेत 4 लोग घायल; क्या है पूरा मामला?",
+      "published_at": "2026-07-27T05:46:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/jadumani-singh-india-vs-pakistan-boxing-commonwealth-games-2026-kargil-vijay-diwas-jadumani-sing_cdf0a1dbc277cfad452ad1e7b0534bfe.gif?w=1200&dpr=1.0",
+      "summary": "राष्ट्रमंडल खेल 2026 में भारतीय मुक्केबाज जादुमणि सिंह ने पाकिस्तान के सुमामा रहमान को 5-0 से हराकर क्वार्टर फाइनल में जगह बनाई। उनकी जीत के बाद पाकिस्तानी मुक्केबाज ने जादुमणि की तारीफ की। जादुमणि ने पाकिस्तानी मुक्केबाज को पहले जमकर धोया, फिर ऐसा क्या बोले की पड़ोसी मुल्क को लगी मिर्ची?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जादुमणि ने पाकिस्तानी मुक्केबाज को पहले जमकर धोया, फिर ऐसा क्या बोले की पड़ोसी मुल्क को लगी मिर्ची?",
+          "summary": "राष्ट्रमंडल खेल 2026 में भारतीय मुक्केबाज जादुमणि सिंह ने पाकिस्तान के सुमामा रहमान को 5-0 से हराकर क्वार्टर फाइनल में जगह बनाई। उनकी जीत के बाद पाकिस्तानी मुक्केबाज ने जादुमणि की तारीफ की। जादुमणि ने पाकिस्तानी मुक्केबाज को पहले जमकर धोया, फिर ऐसा क्या बोले की पड़ोसी मुल्क को लगी मिर्ची?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "30 जुलाई से शुरू होगा सावन, जानें कब रखा जाएगा पहला सावन सोमवार और क्या हैं व्रत के नियम",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/sawan-2026-date-and-sawan-first-somwar-vrat-niyam-puja-muhurat-in-hindi-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-27T05:41:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/sawan-2026_5d647f26f93596ecf0a0b8cdf97a5e75.jpeg?w=1200&dpr=1.0",
+      "summary": "सावन का महीना 30 जुलाई 2026 से शुरू हो रहा है। कुछ लोग इस माह में आने वाले सावन सोमवार के उपवास रखते हैं। सावन के पहले सोमवार के व्रत नियमों के अनुसार, लोगों को एक दिन का उपवास रखना होगा। ऐसे में आइए सावन के पहले सोमवार से लेकर उसके व्रत नियमों को जानते हैं। 30 जुलाई से शुरू होगा सावन, जानें कब रखा जाएगा पहला सावन सोमवार और क्या हैं व्रत के नियम।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "30 जुलाई से शुरू होगा सावन, जानें कब रखा जाएगा पहला सावन सोमवार और क्या हैं व्रत के नियम",
+          "summary": "सावन का महीना 30 जुलाई 2026 से शुरू हो रहा है। कुछ लोग इस माह में आने वाले सावन सोमवार के उपवास रखते हैं। सावन के पहले सोमवार के व्रत नियमों के अनुसार, लोगों को एक दिन का उपवास रखना होगा। ऐसे में आइए सावन के पहले सोमवार से लेकर उसके व्रत नियमों को जानते हैं। 30 जुलाई से शुरू होगा सावन, जानें कब रखा जाएगा पहला सावन सोमवार और क्या हैं व्रत के नियम।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दो दिनों में 120 से ज्यादा फ़िलिस्तीनी गिरफ्तार, इजरायल सेना की बड़ी कार्रवाई",
+      "url": "https://www.patrika.com/world-news/iran-war-more-than-120-palestinians-arrested-by-israeli-forces-in-two-days-20781451",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-27T05:28:20+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/israel.webp",
+      "summary": "इजरायली सेना ने पिछले दो दिनों में 120 से अधिक फिलिस्तीनियों को गिरफ्तार किया है। गिरफ्तारी नाबलुस, तुलकरम और हेब्रोन जैसे शहरों में की गई, जहां सुरक्षा बलों ने घरों पर छापे मारे। Iran War: वेस्ट बैंक में इजरायल और फिलिस्तीन के बीच तनाव लगातार बढ़ता जा रहा है। हाल के दिनों में हुई हिंसक घटनाओं के बाद इजरायली सेना ने कई इलाकों में बड़े स्तर पर अभियान शुरू किया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दो दिनों में 120 से ज्यादा फ़िलिस्तीनी गिरफ्तार, इजरायल सेना की बड़ी कार्रवाई",
+          "summary": "इजरायली सेना ने पिछले दो दिनों में 120 से अधिक फिलिस्तीनियों को गिरफ्तार किया है। गिरफ्तारी नाबलुस, तुलकरम और हेब्रोन जैसे शहरों में की गई, जहां सुरक्षा बलों ने घरों पर छापे मारे। Iran War: वेस्ट बैंक में इजरायल और फिलिस्तीन के बीच तनाव लगातार बढ़ता जा रहा है। हाल के दिनों में हुई हिंसक घटनाओं के बाद इजरायली सेना ने कई इलाकों में बड़े स्तर पर अभियान शुरू किया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका के सिएटल में फूड फेस्टिवल में हुई गोलीबारी, 2 लोगों की मौत, 5 घायल, जान बचाने के लिए भागे",
+      "url": "https://www.patrika.com/world-news/seattle-mass-shooting-bite-of-seattle-food-festival-news-20781165",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-27T05:14:36+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/photo_6285107531990372826_y.webp",
+      "summary": "सिएटल में फूड फेस्टिवल के दौरान गोलीबारी में 2 लोगों की मौत हो गई और 5 अन्य घायल हुए। पुलिस मामले की जांच कर रही है। America Gun Violence: अमेरिका के सिएटल शहर से एक बेहद दिल दहला देने वाली खबर सामने आ रही है। यहां आयोजित एक बहुत ही लोकप्रिय फूड फेस्टिवल के दौरान रविवार शाम को अचानक गोलियों की तड़तड़ाहट से पूरा इलाका गूंज उठा।",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "फूड फेस्टिवल में गोलीबारी, मची अफरा-तफरी, बच्चे समेत 4 लोग घायल; क्या है पूरा मामला?",
-          "summary": "अमेरिका में फूड फेस्टिवल में गोलीबारी हुई, जिसमें बच्चे समेत 4 लोग घायल हुए। अमेरिका: फूड फेस्टिवल में गोलीबारी, मची अफरा-तफरी, बच्चे समेत 4 लोग घायल; क्या है पूरा मामला?",
+          "title": "अमेरिका के सिएटल में फूड फेस्टिवल में हुई गोलीबारी, 2 लोगों की मौत, 5 घायल, जान बचाने के लिए भागे",
+          "summary": "सिएटल में फूड फेस्टिवल के दौरान गोलीबारी में 2 लोगों की मौत हो गई और 5 अन्य घायल हुए। पुलिस मामले की जांच कर रही है। America Gun Violence: अमेरिका के सिएटल शहर से एक बेहद दिल दहला देने वाली खबर सामने आ रही है। यहां आयोजित एक बहुत ही लोकप्रिय फूड फेस्टिवल के दौरान रविवार शाम को अचानक गोलियों की तड़तड़ाहट से पूरा इलाका गूंज उठा।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "इस्राइल को चुनौती दे रहा ईरान?: हिजबुल्ला के समर्थन में आए मोजतबा, कहा- जिहाद और प्रतिरोध ही आखिरी",
-      "url": "https://www.amarujala.com/world/mojtaba-khamenei-openly-back-hezbollah-iranian-leader-calls-resistance-the-only-way-2026-07-27",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-27T03:53:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/mojtaba-khamenei-hezbollah-iran-israel-lebanon-sheikh-naim-qassem-iran_7304db260de4a19413916fa6eb9ab302.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान के नेता मोजतबा ने हिजबुल्ला के समर्थन में बयान दिया, जिहाद और प्रतिरोध को आखिरी रास्ता बताया। इस्राइल को चुनौती दे रहा ईरान?: हिजबुल्ला के समर्थन में आए मोजतबा, कहा- जिहाद और प्रतिरोध ही आखिरी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस्राइल को चुनौती दे रहा ईरान?: हिजबुल्ला के समर्थन में आए मोजतबा, कहा- जिहाद और प्रतिरोध ही आखिरी",
-          "summary": "ईरान के नेता मोजतबा ने हिजबुल्ला के समर्थन में बयान दिया, जिहाद और प्रतिरोध को आखिरी रास्ता बताया। इस्राइल को चुनौती दे रहा ईरान?: हिजबुल्ला के समर्थन में आए मोजतबा, कहा- जिहाद और प्रतिरोध ही आखिरी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पैर टूटने पर हुई भर्ती, दिल की नसें ब्लॉक बता स्टंट डाला, महिला की मौत; डॉक्टर ने कही ये बात",
-      "url": "https://www.amarujala.com/haryana/panipat/woman-dies-after-being-admitted-for-a-broken-leg-stent-inserted-following-diagnosis-of-blocked-heart-arteries-2026-07-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T03:38:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/woman-dies_3c69fdbb2b652631d43bfcb4c150f629.jpeg?w=1200&dpr=1.0",
-      "summary": "पानीपत के पार्क हॉस्पिटल में पैर की हड्डी टूटने पर भर्ती महिला की मौत हो गई, परिजनों ने डॉक्टरों पर आरोप लगाया। पैर की हड्डी टूटने पर भर्ती कराई गई 42 वर्षीय महिला गुड्डी देवी की पानीपत जिले के पार्क हॉस्पिटल में मौत हो गई। परिजनों ने आरोप लगाया कि डॉक्टरों ने पैर का ऑपरेशन करने के बजाय बिना उनकी सहमति दिल में स्टंट डाल दिए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पैर टूटने पर हुई भर्ती, दिल की नसें ब्लॉक बता स्टंट डाला, महिला की मौत; डॉक्टर ने कही ये बात",
-          "summary": "पानीपत के पार्क हॉस्पिटल में पैर की हड्डी टूटने पर भर्ती महिला की मौत हो गई, परिजनों ने डॉक्टरों पर आरोप लगाया। पैर की हड्डी टूटने पर भर्ती कराई गई 42 वर्षीय महिला गुड्डी देवी की पानीपत जिले के पार्क हॉस्पिटल में मौत हो गई। परिजनों ने आरोप लगाया कि डॉक्टरों ने पैर का ऑपरेशन करने के बजाय बिना उनकी सहमति दिल में स्टंट डाल दिए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या जंग का नया मोर्चा खुलने वाला है?: यूक्रेन के हमले से बौखलाया ईरान, अराघची ने कौन से जवाब की",
-      "url": "https://www.amarujala.com/world/cannot-go-unanswered-araghchi-condemns-ukraine-s-caspian-sea-strike-on-iranian-vessel-2026-07-27",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-27T03:31:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/iirana-ka-vathasha-matara-abbsa-araghaca_315b4c11388c568c6bc7967ec6db5893.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान यूक्रेन के हमले से बौखला गया है. अराघची ने जवाब देने की बात कही है. क्या जंग का नया मोर्चा खुलने वाला है?: यूक्रेन के हमले से बौखलाया ईरान, अराघची ने कौन से जवाब की बात कही।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या जंग का नया मोर्चा खुलने वाला है?: यूक्रेन के हमले से बौखलाया ईरान, अराघची ने कौन से जवाब की",
-          "summary": "ईरान यूक्रेन के हमले से बौखला गया है. अराघची ने जवाब देने की बात कही है. क्या जंग का नया मोर्चा खुलने वाला है?: यूक्रेन के हमले से बौखलाया ईरान, अराघची ने कौन से जवाब की बात कही।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जोहरान ममदानी की धमकी से नहीं डरे नेतन्याहू, बोले- न्यूयॉर्क आकर ही रहूंगा",
-      "url": "https://hindi.news18.com/world/middle-east-benjamin-netanyahu-replies-to-zohran-mamdani-will-come-to-un-visit-trump-iran-icc-10692758.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-27T03:13:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/israel-benjamin-netanyahu-2026-07-dba28d7ae1ab25547f1696bb34e88eec-1200x800.jpg",
-      "summary": "बेंजामिन नेतन्याहू न्यूयॉर्क जाएंगे. जोहरान ममदानी ने उन्हें गिरफ्तार करने की धमकी दी थी. Benjamin Netanyahu Israel News: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने न्यूयॉर्क के मेयर जोहरान ममदानी पर निशाना साधा है. दरअसल जोहरान ममदानी ने पहले कहा था कि अगर नेतन्याहू न्यूयॉर्क आते हैं तो उन्हें गिरफ्तार कर लिया जाएगा. नेतन्याहू ने कहा कि वह सितंबर में संयुक्त राष्ट्र महासभा को संबोधित करने न्यूयॉर्क जरूर जाएंगे और इजरायल तथा यहूदी लोगों का पक्ष दुनिया के सामने रखेंगे.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जोहरान ममदानी की धमकी से नहीं डरे नेतन्याहू, बोले- न्यूयॉर्क आकर ही रहूंगा",
-          "summary": "बेंजामिन नेतन्याहू न्यूयॉर्क जाएंगे. जोहरान ममदानी ने उन्हें गिरफ्तार करने की धमकी दी थी. Benjamin Netanyahu Israel News: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने न्यूयॉर्क के मेयर जोहरान ममदानी पर निशाना साधा है. दरअसल जोहरान ममदानी ने पहले कहा था कि अगर नेतन्याहू न्यूयॉर्क आते हैं तो उन्हें गिरफ्तार कर लिया जाएगा. नेतन्याहू ने कहा कि वह सितंबर में संयुक्त राष्ट्र महासभा को संबोधित करने न्यूयॉर्क जरूर जाएंगे और इजरायल तथा यहूदी लोगों का पक्ष दुनिया के सामने रखेंगे.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अब तक घर नहीं लौटे अभिजीत दीपके? मंत्री ने क्यों मांगी सुरक्षा",
-      "url": "https://www.abplive.com/news/india/abhijeet-dipke-cjp-not-return-home-after-protest-jantar-mantar-fighting-with-typhoid-3166153",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-27T02:45:32+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/27/3a7f10dd188fdeb80c24dfec9f8557291785118769611344_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अभिजीत दीपके घर नहीं लौटे हैं. महाराष्ट्र के मंत्री संजय शिरसाट ने उनके लिए सुरक्षा मांगी है. दिल्ली के जंतर-मंतर पर हुए भारी प्रदर्शन के बाद केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान ने इस्तीफा दे दिया. उनकी जगह प्रह्लाद जोशी ने पद संभाला है. इन सबके बीच कॉकरोच जनता पार्टी के अभिजीत दीपके काफी चर्चा में रहे. अभिजीत फिलहाल टाइफाइड से जूझ रहे हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब तक घर नहीं लौटे अभिजीत दीपके? मंत्री ने क्यों मांगी सुरक्षा",
-          "summary": "अभिजीत दीपके घर नहीं लौटे हैं. महाराष्ट्र के मंत्री संजय शिरसाट ने उनके लिए सुरक्षा मांगी है. दिल्ली के जंतर-मंतर पर हुए भारी प्रदर्शन के बाद केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान ने इस्तीफा दे दिया. उनकी जगह प्रह्लाद जोशी ने पद संभाला है. इन सबके बीच कॉकरोच जनता पार्टी के अभिजीत दीपके काफी चर्चा में रहे. अभिजीत फिलहाल टाइफाइड से जूझ रहे हैं.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
