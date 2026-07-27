@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-07-27T03:10:15.482222+00:00",
+  "generated_at": "2026-07-27T05:21:45.666751+00:00",
   "article_count": 50,
-  "total_unique_count": 264,
+  "total_unique_count": 262,
   "digest": {
-    "en": "Trump administration promotes voter eligibility checks. Indian protestors celebrate a minister's resignation. Ukrainian leader meets the new British PM in London.",
-    "hi": "बर्लिन में प्राइड परेड पर हमला हुआ। एक संदिग्ध को पुलिस मुठभेड़ में मारा गया। यूरोप में तनाव बढ़ गया।"
+    "en": "China's AI push and satellite race with SpaceX dominate headlines. Ukraine's leader is set to meet the new British PM in London. Iran has halted retaliatory strikes after a lull in US attacks.",
+    "hi": "बर्लिन में प्राइड परेड पर हमले के बाद पुलिस मुठभेड़ में संदिग्ध मारा गया। एक व्यक्ति की मौत हो गई और 29 घायल हुए। पुलिस ने हमले के कारणों की जांच शुरू कर दी है।"
   },
   "articles": [
+    {
+      "title": "Intelligence, too, faces diminishing returns",
+      "url": "https://asiatimes.com/2026/07/ais-ceiling-intelligence-too-faces-diminishing-returns/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-27T04:11:40+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/AI-Ceiling-AI-Limits.jpg",
+      "summary": "“[I]ntelligence, that counterentropic conjoined twin of information, must become the most powerful force in the universe, the energy to which all other physical laws must eventually kneelIntelligence was destiny, manifest.”.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why is China’s AI push gaining ground?",
+      "url": "https://www.thehindu.com/news/international/why-is-chinas-ai-push-gaining-ground-explained/article71269506.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-27T03:48:27+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/k0v8w0/article71270313.ece/alternates/LANDSCAPE_1200/CORRECTION_China_AI_67824.jpg",
+      "summary": "How have Chinese firms caught up with leading U. S. AI models despite chip restrictions? What advantages do Chinese open-source AI models offer over captive models? How has Beijing supported the growth? What challenges could China face in the future? Why is China’s AI push gaining ground?",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China takes satellite race with SpaceX to sea",
+      "url": "https://asiatimes.com/2026/07/china-takes-satellite-race-with-spacex-to-sea/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-27T03:30:29+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/China-Rocket-Launch.jpeg",
+      "summary": "China’s latest sea-based rocket launch shows how mobile launch platforms, onboard artificial intelligence and expanding commercial constellations are converging into a broader Chinese effort to strengthen military resilience, accelerate satellite deployment and compete for economic influence across an increasingly contested orbital domain. This month, multiple media outlets reported that Chinese c China takes satellite race with SpaceX to sea.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Trump administration promotes program to check voter eligibility; critics fear a midterm purge",
       "url": "https://www.thehindu.com/news/international/trump-administration-promote-program-to-check-voter-eligibility-critics-fear-a-midterm-purge/article70990206.ece",
@@ -44,18 +80,6 @@
       "translations": {}
     },
     {
-      "title": "This single mum returned to school at 40 – sharing polytechnic life with her teenage son",
-      "url": "https://www.channelnewsasia.com/women/single-mum-returns-school-40-temasek-polytechnic-son-6252531",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-07-26T23:24:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--vhK8eBtY--/c_crop,h_719,w_1279,x_1,y_240/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/15/sharifah-radhia-muhammad-abbas-temasek-polytechnic.jpg?itok=1ce7RWNk",
-      "summary": "Sharifah Radhia returned to school at 40, spending a year studying at Temasek Polytechnic alongside her 18-year-old son Muhammad Abbas. Though in different courses, they supported each other through the shared challenges of assignments and exams. This single mum returned to school at 40 – sharing polytechnic life with her teenage son.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Iran halts ‘retaliatory strikes’ after lull in U.S. attacks",
       "url": "https://www.thehindu.com/news/international/iran-halts-retaliatory-strikes-after-lull-in-us-attacks/article71270262.ece",
       "source": "The Hindu (International)",
@@ -68,18 +92,6 @@
       "translations": {}
     },
     {
-      "title": "Why is China’s AI push gaining ground?",
-      "url": "https://www.thehindu.com/news/international/why-is-chinas-ai-push-gaining-ground-explained/article71269506.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-26T17:36:23+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/k0v8w0/article71270313.ece/alternates/LANDSCAPE_1200/CORRECTION_China_AI_67824.jpg",
-      "summary": "How have Chinese firms caught up with leading U. S. AI models despite chip restrictions? What advantages do Chinese open-source AI models offer over captive models? How has Beijing supported the growth? What challenges could China face in the future? Why is China’s AI push gaining ground?",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Russian and Ukrainian strikes kill at least 10",
       "url": "https://www.thehindu.com/news/international/russian-and-ukrainian-strikes-kill-at-least-10/article71270140.ece",
       "source": "The Hindu (International)",
@@ -88,18 +100,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/qxncik/article71270161.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_246_6.jpg",
       "summary": "The strikes come a day after 20 people were killed on both sides of the frontline, with both Kyiv and Moscow intensifying attacks while diplomacy to end the war. launched by Russia in 2022. is at a deadlock. Russian and Ukrainian strikes kill at least 10.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Honduras ex-President Hernandez to return home after Trump pardon",
-      "url": "https://www.thehindu.com/news/international/honduras-ex-president-hernandez-to-return-home-after-trump-pardon/article71269363.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-26T13:45:30+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/a3x6tt/article71269669.ece/alternates/LANDSCAPE_1200/Honduras_Juan_Orlando_Return_94436.jpg",
-      "summary": "He is expected to appear ‌before a court on August 3 to face charges of fraud ‌and ⁠money laundering. An arrest warrant issued against him was suspended in ⁠June, meaning he will not be detained upon arrival Honduras ex-President Hernandez to return home after Trump pardon.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -326,434 +326,434 @@
       }
     },
     {
-      "title": "बैरिकेडिंग अब लगी जब चली गई जिंदगी: आंखों के सामने दोस्त डूब गया, अव्यान के लिए मदद लेकर आया था",
-      "url": "https://www.amarujala.com/delhi-ncr/noida/six-year-old-avyaan-died-due-to-systemic-negligence-2026-07-27",
+      "title": "'भोजपुरी बवाल' से 'चिन्ना चिन्ना आसई' तक; इस वीक ओटीटी पर क्या-क्या होगा खास? जानिए",
+      "url": "https://www.amarujala.com/entertainment/bhojpuri-bawaal-to-the-legend-of-karna-heart-beat-season-3-series-and-movies-to-release-on-ott-this-week-2026-07-25",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-27T03:07:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/avayana-mata-mamal_4b2cbad7b4f9b66c7a1447bb3e39d1a1.jpeg?w=1200&dpr=1.0",
-      "summary": "कलाधाम सोसाइटी में पानी से भरे गड्ढे में डूबने से छह वर्षीय मासूम की मौत के बाद रविवार को पूरे इलाके का माहौल गमगीन रहा। पोस्टमार्टम के बाद पुलिस ने रविवार को शव परिजनों को सौंप दिया। बैरिकेडिंग अब लगी जब चली गई जिंदगी: आंखों के सामने दोस्त डूब गया, अव्यान के लिए मदद लेकर आया था।",
+      "published_at": "2026-07-27T06:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/otata-para-ralja-haga-kaii-falma-saraja_38af68d2a7c69c7386ee5130d43016eb.jpeg?w=1200&dpr=1.0",
+      "summary": "OTT Release This Week: नया वीक शुरू हो गया है। कुछ नई फिल्में सिनेमाघरों में सजेंगी। मगर, ओटीटी पर देखने के लिए क्या कुछ होगा खास? देखिए लिस्ट 'भोजपुरी बवाल' से 'चिन्ना चिन्ना आसई' तक; इस वीक ओटीटी पर क्या-क्या होगा खास? जानिए।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बैरिकेडिंग अब लगी जब चली गई जिंदगी: आंखों के सामने दोस्त डूब गया, अव्यान के लिए मदद लेकर आया था",
-          "summary": "कलाधाम सोसाइटी में पानी से भरे गड्ढे में डूबने से छह वर्षीय मासूम की मौत के बाद रविवार को पूरे इलाके का माहौल गमगीन रहा। पोस्टमार्टम के बाद पुलिस ने रविवार को शव परिजनों को सौंप दिया। बैरिकेडिंग अब लगी जब चली गई जिंदगी: आंखों के सामने दोस्त डूब गया, अव्यान के लिए मदद लेकर आया था।",
+          "title": "'भोजपुरी बवाल' से 'चिन्ना चिन्ना आसई' तक; इस वीक ओटीटी पर क्या-क्या होगा खास? जानिए",
+          "summary": "OTT Release This Week: नया वीक शुरू हो गया है। कुछ नई फिल्में सिनेमाघरों में सजेंगी। मगर, ओटीटी पर देखने के लिए क्या कुछ होगा खास? देखिए लिस्ट 'भोजपुरी बवाल' से 'चिन्ना चिन्ना आसई' तक; इस वीक ओटीटी पर क्या-क्या होगा खास? जानिए।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "यूपी में मानसून की जोरदार वापसी, 19 जिलों में भारी बारिश का अलर्ट",
-      "url": "https://www.amarujala.com/video/india-news/weather-update-strong-monsoon-comeback-in-up-heavy-rain-alert-for-19-districts-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T03:04:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/yapa-ma-manasana-ka-jarathara-vapasa-19-jal-ma-bhara-brasha-ka-alrata_9c8eb490d4af6585cf5132c0c4bc2527.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश में मानसून एक बार फिर पूरी ताकत के साथ लौट आया है। यूपी में मानसून की जोरदार वापसी, 19 जिलों में भारी बारिश का अलर्ट।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपी में मानसून की जोरदार वापसी, 19 जिलों में भारी बारिश का अलर्ट",
-          "summary": "उत्तर प्रदेश में मानसून एक बार फिर पूरी ताकत के साथ लौट आया है। यूपी में मानसून की जोरदार वापसी, 19 जिलों में भारी बारिश का अलर्ट।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "7 और 10 अगस्त की बैठक में क्या होगा; किन कर्मचारियों के मुद्दों पर होगी चर्चा?",
-      "url": "https://www.amarujala.com/business/business-diary/8th-pay-commission-meeting-7-and-10-august-salary-pension-allowances-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T03:01:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/31/8th-pay-commission_ad8f9d1cbd064b138d47c872a41a1769.jpeg?w=1200&dpr=1.0",
-      "summary": "The 8th Pay Commission convened in New Delhi on 7 and 10 August to review salary, pension and allowance structures for central government employees. The panel will decide on revised pay scales and benefit adjustments for civil servants, defense personnel and public sector employees. 8वां वेतन आयोग: 7 और 10 अगस्त की बैठक में क्या होगा; किन कर्मचारियों के मुद्दों पर होगी चर्चा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "7 और 10 अगस्त की बैठक में क्या होगा; किन कर्मचारियों के मुद्दों पर होगी चर्चा?",
-          "summary": "The 8th Pay Commission convened in New Delhi on 7 and 10 August to review salary, pension and allowance structures for central government employees. The panel will decide on revised pay scales and benefit adjustments for civil servants, defense personnel and public sector employees. 8वां वेतन आयोग: 7 और 10 अगस्त की बैठक में क्या होगा; किन कर्मचारियों के मुद्दों पर होगी चर्चा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "वजन घटाने से लेकर पेट तक के लिए बेसिल सीड्स बहुत फायदेमंद, क्या आप करते हैं इसका सेवन?",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/why-are-basil-seeds-good-for-you-know-sabja-seeds-khane-ke-fayde-in-hindi-2026-07-26",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T03:00:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/14/sabja-seeds_c0f5e6704b32307c10507a9096b4f103.jpeg?w=1200&dpr=1.0",
-      "summary": "बेसिल सीड्स में मौजूद घुलनशील फाइबर मल को नरम बनाने और नियमित मल त्याग में मदद कर सकता है। इससे कब्ज की समस्या कम करने में सहायता मिल सकती है। फाइबर आंतों के स्वास्थ्य को भी बेहतर बनाए रखने में भूमिका निभाता है। वजन घटाने से लेकर पेट तक के लिए बेसिल सीड्स बहुत फायदेमंद, क्या आप करते हैं इसका सेवन?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वजन घटाने से लेकर पेट तक के लिए बेसिल सीड्स बहुत फायदेमंद, क्या आप करते हैं इसका सेवन?",
-          "summary": "बेसिल सीड्स में मौजूद घुलनशील फाइबर मल को नरम बनाने और नियमित मल त्याग में मदद कर सकता है। इससे कब्ज की समस्या कम करने में सहायता मिल सकती है। फाइबर आंतों के स्वास्थ्य को भी बेहतर बनाए रखने में भूमिका निभाता है। वजन घटाने से लेकर पेट तक के लिए बेसिल सीड्स बहुत फायदेमंद, क्या आप करते हैं इसका सेवन?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रविवार को बॉक्स ऑफिस पर छा गई ‘जन नायकन’, जानें क्या रहा ‘द ओडिसी’ और ‘धमाल 4’ का हाल?",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/jana-nayagan-day-4-to-the-odyssey-and-dhamaal-4-box-office-collection-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T02:43:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/bkasa-oifasa-raparata_06abf6fb7e71922758db0ea5cd610af0.jpeg?w=1200&dpr=1.0",
-      "summary": "इस वक्त भारतीय बॉक्स ऑफिस पर बॉलीवुड, साउथ और हॉलीवुड की फिल्में कलेक्शन की दौड़ में शामिल हैं। जानिए रविवार को साउथ फिल्म ‘जन नायकन’, बॉलीवुड फिल्म ‘धमाल 4’ और हॉलीवुड फिल्म ‘द ओडिसी’ ने कितनी कमाई की है। रविवार को बॉक्स ऑफिस पर छा गई ‘जन नायकन’, जानें क्या रहा ‘द ओडिसी’ और ‘धमाल 4’ का हाल?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रविवार को बॉक्स ऑफिस पर छा गई ‘जन नायकन’, जानें क्या रहा ‘द ओडिसी’ और ‘धमाल 4’ का हाल?",
-          "summary": "इस वक्त भारतीय बॉक्स ऑफिस पर बॉलीवुड, साउथ और हॉलीवुड की फिल्में कलेक्शन की दौड़ में शामिल हैं। जानिए रविवार को साउथ फिल्म ‘जन नायकन’, बॉलीवुड फिल्म ‘धमाल 4’ और हॉलीवुड फिल्म ‘द ओडिसी’ ने कितनी कमाई की है। रविवार को बॉक्स ऑफिस पर छा गई ‘जन नायकन’, जानें क्या रहा ‘द ओडिसी’ और ‘धमाल 4’ का हाल?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या मिल सकेगी समग्र परीक्षा तंत्र में सुधार की वास्तविक गारंटी? सुधारों के बीच ये सवाल अहम",
-      "url": "https://www.amarujala.com/columns/opinion/beyond-education-minister-resignation-can-genuine-reform-guarantee-in-entire-examination-system-be-given-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T02:40:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/26/haii-pavarada-tasaka-farasa-ka-sathasaya_46d6efae9c92c2a0ce2d72ebf1f09e4b.jpeg?w=1200&dpr=1.0",
-      "summary": "इस्तीफे से आगे: क्या मिल सकेगी समग्र परीक्षा तंत्र में सुधार की वास्तविक गारंटी?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या मिल सकेगी समग्र परीक्षा तंत्र में सुधार की वास्तविक गारंटी? सुधारों के बीच ये सवाल अहम",
-          "summary": "इस्तीफे से आगे: क्या मिल सकेगी समग्र परीक्षा तंत्र में सुधार की वास्तविक गारंटी?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "घर में कमर्शियल सिलिंडर में तो नहीं बना रहे खाना? जानें क्या एक्शन हो सकता है आप पर",
-      "url": "https://www.amarujala.com/photo-gallery/utility/how-much-of-a-fine-can-be-imposed-for-using-a-commercial-cylinder-at-home-check-fine-2026-07-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T02:40:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/kamarashayal-saldara-ka-ghara-ma-isatamal-naha-kara-sakata_f0ad296b12fdc6364894c5c07a1417a8.jpeg?w=1200&dpr=1.0",
-      "summary": "अगर आप घर में कमर्शियल गैस सिलिंडर का इ्स्तेमाल कर रहे हैं, तो आप दिक्कत में पड़ सकते हैं। घर में कमर्शियल सिलिंडर में तो नहीं बना रहे खाना? जानें क्या एक्शन हो सकता है आप पर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "घर में कमर्शियल सिलिंडर में तो नहीं बना रहे खाना? जानें क्या एक्शन हो सकता है आप पर",
-          "summary": "अगर आप घर में कमर्शियल गैस सिलिंडर का इ्स्तेमाल कर रहे हैं, तो आप दिक्कत में पड़ सकते हैं। घर में कमर्शियल सिलिंडर में तो नहीं बना रहे खाना? जानें क्या एक्शन हो सकता है आप पर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बेलारूस की डेंटिस्ट की कहानी, जो $100 मिलियन, 33 कैरेट की हीरे की अंगूठी की बनी दावेदार",
-      "url": "https://www.amarujala.com/world/epstein-s-favorite-a-belarusian-dentist-who-became-a-claimant-to-a-100-million-33-carat-diamond-ring-2026-07-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T02:36:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/epsteins-favorite-a-belarusian-dentist-who-became-a-claimant-to-a-100-million-33-carat-diamond_d68482491800ab5d905b32fd06731ee1.jpeg?w=1200&dpr=1.0",
-      "summary": "Epstein's 'Favorite': A Belarusian dentist who became a claimant to a $100 million, 33-carat diamond ring - एपस्टीन की 'फेवरेट': बेलारूस की डेंटिस्ट की कहानी, जो $100 मिलियन, 33 कैरेट की हीरे की अंगूठी की बनी दावेदार।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बेलारूस की डेंटिस्ट की कहानी, जो $100 मिलियन, 33 कैरेट की हीरे की अंगूठी की बनी दावेदार",
-          "summary": "Epstein's 'Favorite': A Belarusian dentist who became a claimant to a $100 million, 33-carat diamond ring - एपस्टीन की 'फेवरेट': बेलारूस की डेंटिस्ट की कहानी, जो $100 मिलियन, 33 कैरेट की हीरे की अंगूठी की बनी दावेदार।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार?",
+      "title": "पेपर लीक रोकने के लिए आज पेश होगा संशोधन विधेयक: संसद पहुंचे धर्मेंद्र प्रधान; NDA सांसदों ने किया",
       "url": "https://www.amarujala.com/live/india-news/parliament-monsoon-session-live-updates-lok-sabha-rajya-sabha-proceedings-bills-om-birla-cp-radhakrishnan-news-2026-07-27",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-27T02:34:25+00:00",
+      "published_at": "2026-07-27T05:21:23+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/21/parliament-monsoon-session-live_e9ac4586eeb51e321ebcb6d15e2b0212.jpeg?w=1200&dpr=1.0",
-      "summary": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार?",
+      "summary": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार? पेपर लीक रोकने के लिए आज पेश होगा संशोधन विधेयक: संसद पहुंचे धर्मेंद्र प्रधान; NDA सांसदों ने किया।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार?",
-          "summary": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार?",
+          "title": "पेपर लीक रोकने के लिए आज पेश होगा संशोधन विधेयक: संसद पहुंचे धर्मेंद्र प्रधान; NDA सांसदों ने किया",
+          "summary": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार? पेपर लीक रोकने के लिए आज पेश होगा संशोधन विधेयक: संसद पहुंचे धर्मेंद्र प्रधान; NDA सांसदों ने किया।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "होर्मुज के बाद लाल सागर भी जाम, जहाजों की हिम्मत टूटी, अब खून के असली आंसू रोएगी दुनिया, भारत की",
-      "url": "https://hindi.news18.com/world/rest-of-world-red-sea-houthi-attack-bab-el-mandeb-shipping-route-ship-traffic-down-hormuz-crisis-iran-us-war-10692591.html",
+      "title": "हिजबुल्लाह के साथ खुलकर खड़ा हुआ खामेनेई, ईरान ने ट्रंप के सामने रखी नई शर्त, फंसा इजरायल",
+      "url": "https://hindi.news18.com/world/middle-east-iran-sets-condition-for-us-deal-israel-must-withdraw-from-lebanon-full-support-to-hezbollah-10692966.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-27T02:31:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/ship-3-2026-07-45cd6dc4f3e4a42a248b782fc4f97253-1200x800.jpg",
-      "summary": "हूतियों के हमले के बाद लाल सागर में जहाजों की संख्या 11 पर आ गई. बाब-अल-मंदेब जलडमरूमध्य से गुजरने वाले जहाजों की यह संख्या कई महीनों का सबसे निचला स्तर है. होर्मुज जलडमरूमध्य से भी जहाजों की आवाजाही सामान्य नहीं हुई है. Houthi Red Sea Blockade: लाल सागर में हूतियों के ताजा हमले के बाद बाब-अल-मंदेब जलडमरूमध्य से गुजरने वाले जहाजों की संख्या घटकर सिर्फ 11 रह गई, जो कई महीनों का सबसे निचला स्तर है.",
+      "published_at": "2026-07-27T05:16:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/mojataba-2026-07-753e4bcc82f2b405b9d6d70b00615add-1200x800.jpg",
+      "summary": "Iran’s supreme leader Ayatollah Ali Khamenei told a Tehran news outlet that any U. S. deal must first see Israel end all military actions in Lebanon. He added Tehran will not pursue further peace negotiations until Israel withdraws from Lebanese territory and halts attacks. Iran Supreme Leader News: ईरान के सुप्रीम लीडर मोजतबा खामेनेई ने कहा है कि अमेरिका के साथ किसी भी समझौते की पहली शर्त लेबनान में इजरायली सैन्य कार्रवाई का पूरी तरह खत्म होना है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "होर्मुज के बाद लाल सागर भी जाम, जहाजों की हिम्मत टूटी, अब खून के असली आंसू रोएगी दुनिया, भारत की",
-          "summary": "हूतियों के हमले के बाद लाल सागर में जहाजों की संख्या 11 पर आ गई. बाब-अल-मंदेब जलडमरूमध्य से गुजरने वाले जहाजों की यह संख्या कई महीनों का सबसे निचला स्तर है. होर्मुज जलडमरूमध्य से भी जहाजों की आवाजाही सामान्य नहीं हुई है. Houthi Red Sea Blockade: लाल सागर में हूतियों के ताजा हमले के बाद बाब-अल-मंदेब जलडमरूमध्य से गुजरने वाले जहाजों की संख्या घटकर सिर्फ 11 रह गई, जो कई महीनों का सबसे निचला स्तर है.",
+          "title": "हिजबुल्लाह के साथ खुलकर खड़ा हुआ खामेनेई, ईरान ने ट्रंप के सामने रखी नई शर्त, फंसा इजरायल",
+          "summary": "Iran’s supreme leader Ayatollah Ali Khamenei told a Tehran news outlet that any U. S. deal must first see Israel end all military actions in Lebanon. He added Tehran will not pursue further peace negotiations until Israel withdraws from Lebanese territory and halts attacks. Iran Supreme Leader News: ईरान के सुप्रीम लीडर मोजतबा खामेनेई ने कहा है कि अमेरिका के साथ किसी भी समझौते की पहली शर्त लेबनान में इजरायली सैन्य कार्रवाई का पूरी तरह खत्म होना है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "क्रिप्टो की निगरानी के लिए नए दिशा-निर्देश जारी, जीई फसलों को अपनाने में तेजी लाने की मांग",
-      "url": "https://www.amarujala.com/business/business-diary/business-update-crypto-new-guideline-issued-ge-crops-adoption-forex-gold-silver-crude-rates-import-export-news-2026-07-27",
+      "title": "अगले 138 दिन किन राशियों के लिए बनेंगे अवसर और किन्हें रखनी होगी सावधानी? जानें वक्री शनि का असर",
+      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/shani-vakri-2026-saturn-s-retrograde-brings-opportunities-and-challenges-for-these-zodiac-signs-2026-07-25",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-27T02:13:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/12/bjanasa-nayaja-eda-apadatasa_7f2f68f2e5b4d9ee8db3f982d3b51abb.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत सरकार ने क्रिप्टो की निगरानी के लिए नए दिशा-निर्देश जारी किए हैं। सरकार ने जीई फसलों को अपनाने में तेजी लाने की मांग की है। यह निर्णय क्रिप्टो और जीई फसलों के क्षेत्र में नियामक स्पष्टता की आवश्यकता को दर्शाता है। Biz Updates: क्रिप्टो की निगरानी के लिए नए दिशा-निर्देश जारी, जीई फसलों को अपनाने में तेजी लाने की मांग।",
+      "published_at": "2026-07-27T05:11:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/vakara-shana-ka-rashaya-para-parabhava_373420974f381ca329b4faace490b495.jpeg?w=1200&dpr=1.0",
+      "summary": "शनि की वक्री चाल को केवल कठिनाइयों का समय मानना उचित नहीं है। यह अवधि आत्ममंथन, पुराने कार्यों को पूरा करने और अपनी गलतियों से सीखने का भी अवसर देती है। जहां कुछ राशि के लोगों को कुछ सकारात्मक परिणाम मिल सकते हैं अगले 138 दिन किन राशियों के लिए बनेंगे अवसर और किन्हें रखनी होगी सावधानी? जानें वक्री शनि का असर।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्रिप्टो की निगरानी के लिए नए दिशा-निर्देश जारी, जीई फसलों को अपनाने में तेजी लाने की मांग",
-          "summary": "भारत सरकार ने क्रिप्टो की निगरानी के लिए नए दिशा-निर्देश जारी किए हैं। सरकार ने जीई फसलों को अपनाने में तेजी लाने की मांग की है। यह निर्णय क्रिप्टो और जीई फसलों के क्षेत्र में नियामक स्पष्टता की आवश्यकता को दर्शाता है। Biz Updates: क्रिप्टो की निगरानी के लिए नए दिशा-निर्देश जारी, जीई फसलों को अपनाने में तेजी लाने की मांग।",
+          "title": "अगले 138 दिन किन राशियों के लिए बनेंगे अवसर और किन्हें रखनी होगी सावधानी? जानें वक्री शनि का असर",
+          "summary": "शनि की वक्री चाल को केवल कठिनाइयों का समय मानना उचित नहीं है। यह अवधि आत्ममंथन, पुराने कार्यों को पूरा करने और अपनी गलतियों से सीखने का भी अवसर देती है। जहां कुछ राशि के लोगों को कुछ सकारात्मक परिणाम मिल सकते हैं अगले 138 दिन किन राशियों के लिए बनेंगे अवसर और किन्हें रखनी होगी सावधानी? जानें वक्री शनि का असर।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "इस्राइली PM नेतन्याहू US दौरे पर, तेहरान के तेवर उग्र; क्या ईरान में फिर छिड़ेगी जंग?",
-      "url": "https://www.amarujala.com/live/world/west-asia-tension-live-updates-israeli-pm-netanyahu-us-visit-tehran-aggressive-iran-us-war-trump-pentagon-new-2026-07-27",
-      "source": "Amar Ujala World",
+      "title": "आज से चलेंगे शनि उल्टी चाल, इन 4 राशि वालों की अगले 138 दिन बढ़ेगी टेंशन",
+      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/shani-vakri-on-27-july-2026-these-zodiac-sign-will-face-problemsin-carerre-health-job-and-success-2026-07-26",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-07-27T02:09:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/20/west-asia-crisis-iran-war_67ef754ce190874b8d733e70f7ef2f39.gif?w=1200&dpr=1.0",
-      "summary": "नेतन्याहू अमेरिका दौरे पर हैं और तेहरान के तेवर उग्र हो गए हैं। West Asia Tension LIVE: इस्राइली PM नेतन्याहू US दौरे पर, तेहरान के तेवर उग्र; क्या ईरान में फिर छिड़ेगी जंग?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस्राइली PM नेतन्याहू US दौरे पर, तेहरान के तेवर उग्र; क्या ईरान में फिर छिड़ेगी जंग?",
-          "summary": "नेतन्याहू अमेरिका दौरे पर हैं और तेहरान के तेवर उग्र हो गए हैं। West Asia Tension LIVE: इस्राइली PM नेतन्याहू US दौरे पर, तेहरान के तेवर उग्र; क्या ईरान में फिर छिड़ेगी जंग?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ब्रिटेन की नई कैबिनेट में भारतवंशी नेताओं का बढ़ा कद? AI मंत्री समेत इन सांसदों को मिली जिम्मेदारी",
-      "url": "https://www.amarujala.com/world/uk-cabinet-reshuffle-three-indian-origin-labour-mps-get-key-roles-kanishka-narayan-named-ai-minister-2026-07-27",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-27T02:08:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/uk-cabinet-reshuffle-indian-origin-mps-kanishka-narayan-satvir-kaur-harpreet-uppal-uk-labour_2144cfdf9ce1f7a0ebcc38daa0decf00.jpeg?w=1200&dpr=1.0",
-      "summary": "ब्रिटेन की नई कैबिनेट में भारतवंशी नेताओं को महत्वपूर्ण जिम्मेदारी मिली है। UK Cabinet: ब्रिटेन की नई कैबिनेट में भारतवंशी नेताओं का बढ़ा कद? AI मंत्री समेत इन सांसदों को मिली जिम्मेदारी।",
+      "published_at": "2026-07-27T05:10:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/26/shani-vakri-2026_a665886c0719147a7c627d7cf6647ae1.jpeg?w=1200&dpr=1.0",
+      "summary": "Shani Vakri 2026: शनि की वक्री चाल इन चार राशि वालों के लिए मुश्किलें लेकर आ सकती हैं। इस समय जातकों को धैर्य और सोच-विचार के साथ काम करने की आवश्यकता रहेगी। आइए किन राशियों के लिए समय कष्टकारी होगा, जानते हैं। आज से चलेंगे शनि उल्टी चाल, इन 4 राशि वालों की अगले 138 दिन बढ़ेगी टेंशन।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ब्रिटेन की नई कैबिनेट में भारतवंशी नेताओं का बढ़ा कद? AI मंत्री समेत इन सांसदों को मिली जिम्मेदारी",
-          "summary": "ब्रिटेन की नई कैबिनेट में भारतवंशी नेताओं को महत्वपूर्ण जिम्मेदारी मिली है। UK Cabinet: ब्रिटेन की नई कैबिनेट में भारतवंशी नेताओं का बढ़ा कद? AI मंत्री समेत इन सांसदों को मिली जिम्मेदारी।",
+          "title": "आज से चलेंगे शनि उल्टी चाल, इन 4 राशि वालों की अगले 138 दिन बढ़ेगी टेंशन",
+          "summary": "Shani Vakri 2026: शनि की वक्री चाल इन चार राशि वालों के लिए मुश्किलें लेकर आ सकती हैं। इस समय जातकों को धैर्य और सोच-विचार के साथ काम करने की आवश्यकता रहेगी। आइए किन राशियों के लिए समय कष्टकारी होगा, जानते हैं। आज से चलेंगे शनि उल्टी चाल, इन 4 राशि वालों की अगले 138 दिन बढ़ेगी टेंशन।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "ठाणे में अचानक आई बाढ़ में पर्यटक की मौत, दोस्त लापता; नवी मुंबई बांध में युवक के डूबने की आशंका",
-      "url": "https://www.amarujala.com/india-news/maharashtra-thane-flash-flood-tourist-friend-navi-mumbai-dam-youth-drowned-nagpur-pune-and-other-parts-news-2026-07-27",
-      "source": "Amar Ujala National",
+      "title": "'मेरे बच्चे भी मेरी कई बातें नहीं मानते': सीएम हिमंत बिस्वा सरमा ने ऐसा क्यों कहा? खुद के मंत्री का",
+      "url": "https://www.amarujala.com/india-news/assam-cm-himanta-biswa-sarma-came-in-support-of-keshab-mahanta-after-his-daughter-video-gone-viral-about-pm-2026-07-27",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-27T02:02:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=1200&dpr=1.0",
-      "summary": "ठाणे में बाढ़ में एक पर्यटक की मौत हो गई और एक दोस्त लापता है। Maharashtra: ठाणे में अचानक आई बाढ़ में पर्यटक की मौत, दोस्त लापता; नवी मुंबई बांध में युवक के डूबने की आशंका।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ठाणे में अचानक आई बाढ़ में पर्यटक की मौत, दोस्त लापता; नवी मुंबई बांध में युवक के डूबने की आशंका",
-          "summary": "ठाणे में बाढ़ में एक पर्यटक की मौत हो गई और एक दोस्त लापता है। Maharashtra: ठाणे में अचानक आई बाढ़ में पर्यटक की मौत, दोस्त लापता; नवी मुंबई बांध में युवक के डूबने की आशंका।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ओडिशा में ट्रेन के डिब्बे में आग, अलग की गई बोगी; बंगलूरू में टैक्सी चालकों के बीच हिंसक झड़प",
-      "url": "https://www.amarujala.com/india-news/national-updates-27th-july-flood-education-cjp-dipke-wangchuk-north-east-west-south-india-politics-crime-news-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T01:41:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=1200&dpr=1.0",
-      "summary": "ओडिशा में ट्रेन के डिब्बे में आग लग गई और बोगी को अलग कर दिया गया। News Updates: ओडिशा में ट्रेन के डिब्बे में आग, अलग की गई बोगी; बंगलूरू में टैक्सी चालकों के बीच हिंसक झड़प।",
+      "published_at": "2026-07-27T05:08:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/assam-cm-himanta-biswa-sarma-came-in-support-of-keshab-mahanta-after-his-daughter-video-gone-viral_351cdf8dd0b5a222e11ca8255a359c76.jpeg?w=1200&dpr=1.0",
+      "summary": "Assam CM Himanta Biswa Sarma came in support of Keshab Mahanta, after his daughter video gone viral about PM Modi - 'मेरे बच्चे भी मेरी कई बातें नहीं मानते': सीएम हिमंत बिस्वा सरमा ने ऐसा क्यों कहा?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ओडिशा में ट्रेन के डिब्बे में आग, अलग की गई बोगी; बंगलूरू में टैक्सी चालकों के बीच हिंसक झड़प",
-          "summary": "ओडिशा में ट्रेन के डिब्बे में आग लग गई और बोगी को अलग कर दिया गया। News Updates: ओडिशा में ट्रेन के डिब्बे में आग, अलग की गई बोगी; बंगलूरू में टैक्सी चालकों के बीच हिंसक झड़प।",
+          "title": "'मेरे बच्चे भी मेरी कई बातें नहीं मानते': सीएम हिमंत बिस्वा सरमा ने ऐसा क्यों कहा? खुद के मंत्री का",
+          "summary": "Assam CM Himanta Biswa Sarma came in support of Keshab Mahanta, after his daughter video gone viral about PM Modi - 'मेरे बच्चे भी मेरी कई बातें नहीं मानते': सीएम हिमंत बिस्वा सरमा ने ऐसा क्यों कहा?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "फ्लाइट से उतरते ही क्यों बिगड़ जाता है पेट? शोध में चौंकाने वाला खुलासा; सामने आई 'गट जेट लैग' की",
-      "url": "https://www.amarujala.com/world/why-does-stomach-upset-after-getting-off-flight-study-reveals-surprising-finding-truth-about-gut-jet-lag-2026-07-27",
-      "source": "Amar Ujala World",
+      "title": "APJ Abdul Kalam Death Anniversary: मिसाइल मैन से राष्ट्रपति तक, जानें डॉ. कलाम की प्रेरणादायक कहानी",
+      "url": "https://www.amarujala.com/lifestyle/dr-apj-adbul-kalam-death-anniversary-missile-man-india-biography-and-life-story-in-hindi-2026-07-27",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-27T01:30:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/paratakatamaka-tasavara_d89b09ef729647cad7c96c008a543d13.jpeg?w=1200&dpr=1.0",
-      "summary": "सच्चाई- Why does stomach upset after getting off flight study reveals surprising finding truth about gut jet lag फ्लाइट से उतरते ही क्यों बिगड़ जाता है पेट? शोध में चौंकाने वाला खुलासा; सामने आई 'गट जेट लैग' की।",
+      "published_at": "2026-07-27T04:59:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/apj-abdul-kalam-death-anniversary_5f5f1a40cd0c48d7ba3c9b7f207710f6.jpeg?w=1200&dpr=1.0",
+      "summary": "apj abdul kalam biography hindi: डॉ. एपीजे अब्दुल कलाम की पुण्यतिथि पर जानें उनका जीवन परिचय, शिक्षा, मिसाइल कार्यक्रम में योगदान, राष्ट्रपति बनने की कहानी और प्रेरणादायक विचार। कलाम की प्रेरणादायक कहानी।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "फ्लाइट से उतरते ही क्यों बिगड़ जाता है पेट? शोध में चौंकाने वाला खुलासा; सामने आई 'गट जेट लैग' की",
-          "summary": "सच्चाई- Why does stomach upset after getting off flight study reveals surprising finding truth about gut jet lag फ्लाइट से उतरते ही क्यों बिगड़ जाता है पेट? शोध में चौंकाने वाला खुलासा; सामने आई 'गट जेट लैग' की।",
+          "title": "APJ Abdul Kalam Death Anniversary: मिसाइल मैन से राष्ट्रपति तक, जानें डॉ. कलाम की प्रेरणादायक कहानी",
+          "summary": "apj abdul kalam biography hindi: डॉ. एपीजे अब्दुल कलाम की पुण्यतिथि पर जानें उनका जीवन परिचय, शिक्षा, मिसाइल कार्यक्रम में योगदान, राष्ट्रपति बनने की कहानी और प्रेरणादायक विचार। कलाम की प्रेरणादायक कहानी।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "जर्मनी की प्राइड परेड पर हमला करने वाला 24 घंटे में ढेर, ISIS में होना चाहता था शामिल",
-      "url": "https://hindi.news18.com/world/europe-berlin-pride-attack-suspect-abdul-ballout-shot-dead-germany-10692565.html",
+      "title": "'आपने मेरे लिए सब कुछ किया, लेकिन मैं असफल रही': नीट छात्रा ने दी जान; सुसाइड नोट में क्या-क्या",
+      "url": "https://www.amarujala.com/india-news/you-sacrificed-everything-i-failed-neet-aspirant-ankita-sangle-dies-by-suicide-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-27T04:59:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/15/aatamahataya-mamal_c129e445c4d28e111bf2769dfd6324ef.jpeg?w=1200&dpr=1.0",
+      "summary": "लिखा? 'आपने मेरे लिए सब कुछ किया, लेकिन मैं असफल रही': नीट छात्रा ने दी जान; सुसाइड नोट में क्या-क्या लिखा?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'आपने मेरे लिए सब कुछ किया, लेकिन मैं असफल रही': नीट छात्रा ने दी जान; सुसाइड नोट में क्या-क्या",
+          "summary": "लिखा? 'आपने मेरे लिए सब कुछ किया, लेकिन मैं असफल रही': नीट छात्रा ने दी जान; सुसाइड नोट में क्या-क्या लिखा?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सेमीफाइनल हार के बाद क्यों बेकाबू हुआ कारोबारी? लाइसेंसी रिवॉल्वर से तीन फायर, पुलिस ने दबोचा",
+      "url": "https://www.amarujala.com/india-news/andhra-pradesh-man-held-after-firing-licensed-revolver-following-badminton-semifinal-defeat-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T04:57:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/14/aparathha-sakataka-tasavara_cbf5496b7e9147e0086b6af1e5ae8ff4.jpeg?w=1200&dpr=1.0",
+      "summary": "Andhra Pradesh: सेमीफाइनल हार के बाद क्यों बेकाबू हुआ कारोबारी?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सेमीफाइनल हार के बाद क्यों बेकाबू हुआ कारोबारी? लाइसेंसी रिवॉल्वर से तीन फायर, पुलिस ने दबोचा",
+          "summary": "Andhra Pradesh: सेमीफाइनल हार के बाद क्यों बेकाबू हुआ कारोबारी?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रोजाना प्रोसेस्ड फूड खाना पड़ सकता है भारी, जानें 10 बड़े नुकसान",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/side-effects-of-eating-ready-to-eat-snacks-in-hindi-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T04:54:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/ready-to-eat-snacks_a4fbc208e032a757b144f5c74d49154a.jpeg?w=1200&dpr=1.0",
+      "summary": "Side Effects of Eating Processed Food: आजकल बाजार में रेडी टू ईट स्नैक्स काफी आसानी से और कम दाम में मिल जाते हैं। ऐसे में हम आपको बताएंगे कि इसके क्या नुकसान हैं और ये शरीर को कैसे नुकसान पहुंचाते हैं। रोजाना प्रोसेस्ड फूड खाना पड़ सकता है भारी, जानें 10 बड़े नुकसान।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रोजाना प्रोसेस्ड फूड खाना पड़ सकता है भारी, जानें 10 बड़े नुकसान",
+          "summary": "Side Effects of Eating Processed Food: आजकल बाजार में रेडी टू ईट स्नैक्स काफी आसानी से और कम दाम में मिल जाते हैं। ऐसे में हम आपको बताएंगे कि इसके क्या नुकसान हैं और ये शरीर को कैसे नुकसान पहुंचाते हैं। रोजाना प्रोसेस्ड फूड खाना पड़ सकता है भारी, जानें 10 बड़े नुकसान।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या आपको भी है 24वीं किस्त का इंतजार? तो किसान आज ही करवाएं ये 3 काम",
+      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-yojana-e-kyc-land-seeding-and-aadhaar-linking-are-important-for-24th-installment-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T04:45:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/paema-kasana-yajana-ka-24va-kasata-kanaha-malga_149aa1304d4b4afe3626fe8bc650c64b.jpeg?w=1200&dpr=1.0",
+      "summary": "अगर आप भी पीएम किसान योजना से जुड़े हैं और 24वीं किस्त का लाभ लेना चाहते हैं तो आपको कुछ काम करवाने होते हैं। क्योंकि इन कामों को न करवाने पर आप किस्त के लाभ से वंचित रह सकते हैं। क्या आपको भी है 24वीं किस्त का इंतजार? तो किसान आज ही करवाएं ये 3 काम।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या आपको भी है 24वीं किस्त का इंतजार? तो किसान आज ही करवाएं ये 3 काम",
+          "summary": "अगर आप भी पीएम किसान योजना से जुड़े हैं और 24वीं किस्त का लाभ लेना चाहते हैं तो आपको कुछ काम करवाने होते हैं। क्योंकि इन कामों को न करवाने पर आप किस्त के लाभ से वंचित रह सकते हैं। क्या आपको भी है 24वीं किस्त का इंतजार? तो किसान आज ही करवाएं ये 3 काम।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "केरल से लखनऊ आती टीम; लालच में आकर रामलाल करने लगे यीशु की प्रार्थना, नए खुलासे",
+      "url": "https://www.amarujala.com/lucknow/penetration-of-conversion-racket-in-lucknow-team-used-to-arrive-from-kerala-new-revelations-in-investigation-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-27T04:42:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/16/thharamataranae-ka-khal-sakataka-tasavara_0eb5200d6934eab0f79a01bdea7cdcbd.jpeg?w=1200&dpr=1.0",
+      "summary": "राजधानी लखनऊ के मोहनलालगंज में पकड़े गए धर्मांतरण गिरोह की जड़ें बहुत गहरी हैं। केरल से लखनऊ आती टीम; लालच में आकर रामलाल करने लगे यीशु की प्रार्थना, नए खुलासे।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "केरल से लखनऊ आती टीम; लालच में आकर रामलाल करने लगे यीशु की प्रार्थना, नए खुलासे",
+          "summary": "राजधानी लखनऊ के मोहनलालगंज में पकड़े गए धर्मांतरण गिरोह की जड़ें बहुत गहरी हैं। केरल से लखनऊ आती टीम; लालच में आकर रामलाल करने लगे यीशु की प्रार्थना, नए खुलासे।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "महंगी होती कारें, बढ़ता ईवी क्रेज और AI का असर... जानिए कैसे बदल रहा है दुनिया का ऑटो बाजार",
+      "url": "https://www.amarujala.com/automobiles/global-auto-market-is-changing-fast-affordability-evs-and-ai-to-drive-future-mobility-says-mckinsey-report-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-27T04:41:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/global-auto-market_6fb2f103cb7838d4bb0866f043ac72e6.jpeg?w=1200&dpr=1.0",
+      "summary": "Global Auto Market Is Changing Fast: Affordability, EVs and AI to Drive Future Mobility, Says McKinsey Report महंगी होती कारें, बढ़ता EV क्रेज और AI का असर. जानिए कैसे बदल रहा है दुनिया का ऑटो बाजार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महंगी होती कारें, बढ़ता ईवी क्रेज और AI का असर... जानिए कैसे बदल रहा है दुनिया का ऑटो बाजार",
+          "summary": "Global Auto Market Is Changing Fast: Affordability, EVs and AI to Drive Future Mobility, Says McKinsey Report महंगी होती कारें, बढ़ता EV क्रेज और AI का असर. जानिए कैसे बदल रहा है दुनिया का ऑटो बाजार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "प्रधानमंत्री पर अपमानजनक कार्टून दिखाने वाली श्रीलेखा मित्रा कौन हैं? पुलिस में केस दर्ज; बचाव में",
+      "url": "https://www.amarujala.com/entertainment/sreelekha-mitra-case-registered-against-bengali-actress-to-objectionable-poster-of-pm-narendra-modi-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-27T04:38:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/sharalkha-matara_be5144a12cf1b9bd95f3961ef6c93459.jpeg?w=1200&dpr=1.0",
+      "summary": "बीते दिनों कोलकाता में हुए नीट प्रोटेस्ट के दौरान बंगाली एक्ट्रेस श्रीलेखा मित्रा भी नजर आई थीं। इस दौरान उन्होंने प्रधानमंत्री नरेंद्र मोदी के आपत्तिजनक और अपमानजनक कार्टून दिखाए थे। इसे लेकर उन पर पुलिस में मामला दर्ज हो गया है। प्रधानमंत्री पर अपमानजनक कार्टून दिखाने वाली श्रीलेखा मित्रा कौन हैं? पुलिस में केस दर्ज; बचाव में।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रधानमंत्री पर अपमानजनक कार्टून दिखाने वाली श्रीलेखा मित्रा कौन हैं? पुलिस में केस दर्ज; बचाव में",
+          "summary": "बीते दिनों कोलकाता में हुए नीट प्रोटेस्ट के दौरान बंगाली एक्ट्रेस श्रीलेखा मित्रा भी नजर आई थीं। इस दौरान उन्होंने प्रधानमंत्री नरेंद्र मोदी के आपत्तिजनक और अपमानजनक कार्टून दिखाए थे। इसे लेकर उन पर पुलिस में मामला दर्ज हो गया है। प्रधानमंत्री पर अपमानजनक कार्टून दिखाने वाली श्रीलेखा मित्रा कौन हैं? पुलिस में केस दर्ज; बचाव में।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "स्ट्रेट ऑफ होर्मुज बंद कर चौड़ा हो रहा था ईरान, खुद झुलसा तो औकात में आया, लगा बिलबिलाने",
+      "url": "https://hindi.news18.com/world/middle-east-ukraine-attack-on-irani-ships-in-caspian-sea-widens-conflict-between-two-nations-iran-us-war-10692939.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-27T01:17:43+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/germany-1-2026-07-08cc3eb62fb4e9411e55fdefa778371a-1200x800.jpg",
-      "summary": "Germany Attack News: जर्मनी की राजधानी बर्लिन में प्राइड समारोह के दौरान वैन चढ़ाकर हमला करने के आरोपी 21 साल के अब्दुल बल्लाउट को पुलिस ने लगभग 24 घंटे की तलाश के बाद मुठभेड़ में मार गिराया. अधिकारियों के मुताबिक, संदिग्ध पुलिस पर धारदार हथियार लेकर बढ़ा था. जांच एजेंसियों का कहना है कि मामले में इस्लामिक कट्टरपंथ का एंगल सामने आया है.",
+      "published_at": "2026-07-27T04:31:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-araghchi-2026-07-ec04b11b02854f5b7193b90f91e55373-1200x800.jpg",
+      "summary": "Iran-Ukraine Conflict: ईरान जब तक खुद स्ट्रेट ऑफ होर्मुज में अपनी दादागीरी चला रहा था और उसके बताए गए रूट से अलग गुजरने वाले जहाजों पर हमले करके उन्हें फूंक रहा था, तब तक सब ठीक था. जब उसे अपनी ही कड़वी दवा का स्वाद कैस्पियन सागर में यूक्रेन ने चखाया, तो ये देश तिलमिलाकर जेलेंस्की को धमकी देने लगा है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जर्मनी की प्राइड परेड पर हमला करने वाला 24 घंटे में ढेर, ISIS में होना चाहता था शामिल",
-          "summary": "Germany Attack News: जर्मनी की राजधानी बर्लिन में प्राइड समारोह के दौरान वैन चढ़ाकर हमला करने के आरोपी 21 साल के अब्दुल बल्लाउट को पुलिस ने लगभग 24 घंटे की तलाश के बाद मुठभेड़ में मार गिराया. अधिकारियों के मुताबिक, संदिग्ध पुलिस पर धारदार हथियार लेकर बढ़ा था. जांच एजेंसियों का कहना है कि मामले में इस्लामिक कट्टरपंथ का एंगल सामने आया है.",
+          "title": "स्ट्रेट ऑफ होर्मुज बंद कर चौड़ा हो रहा था ईरान, खुद झुलसा तो औकात में आया, लगा बिलबिलाने",
+          "summary": "Iran-Ukraine Conflict: ईरान जब तक खुद स्ट्रेट ऑफ होर्मुज में अपनी दादागीरी चला रहा था और उसके बताए गए रूट से अलग गुजरने वाले जहाजों पर हमले करके उन्हें फूंक रहा था, तब तक सब ठीक था. जब उसे अपनी ही कड़वी दवा का स्वाद कैस्पियन सागर में यूक्रेन ने चखाया, तो ये देश तिलमिलाकर जेलेंस्की को धमकी देने लगा है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "जिम्मेदारी केवल सरकार की नहीं; समाज, परिवार, शिक्षकों के साथ खुद छात्रों पर भी दारोमदार",
-      "url": "https://www.amarujala.com/columns/opinion/time-to-restore-trust-responsibility-does-not-lie-solely-government-also-society-families-teachers-students-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-27T01:13:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/papara-lka-para-sakhata-ka-tayara_6924b45f4941a15bc6be0e3f584d65a4.jpeg?w=1200&dpr=1.0",
-      "summary": "भरोसे की बहाली का समय: जिम्मेदारी केवल सरकार की नहीं; समाज, परिवार, शिक्षकों के साथ खुद छात्रों पर भी दारोमदार- Time to restore trust Responsibility does not lie solely government also society families teachers students।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जिम्मेदारी केवल सरकार की नहीं; समाज, परिवार, शिक्षकों के साथ खुद छात्रों पर भी दारोमदार",
-          "summary": "भरोसे की बहाली का समय: जिम्मेदारी केवल सरकार की नहीं; समाज, परिवार, शिक्षकों के साथ खुद छात्रों पर भी दारोमदार- Time to restore trust Responsibility does not lie solely government also society families teachers students।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान युद्ध से थका अमेरिका, जनरल ने जंग लड़ने से मना किया, जनता ने छोड़ा ट्रंप का साथ, इस पर भी मचा",
-      "url": "https://hindi.news18.com/world/america-us-iran-war-brad-cooper-pentagon-casualty-data-public-opinion-trump-10692536.html",
+      "title": "अमेरिका फिर गोलियों से दहला, सिएटल फूड फेस्टिवल में ताबड़तोड़ फायरिंग, 2 लोगों की मौत",
+      "url": "https://hindi.news18.com/world/america-seattle-food-festival-mass-shooting-2-killed-many-injured-bite-of-seattle-10692816.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-27T01:01:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-missile-3-2026-07-d1adddc3d28d379f197e3627d09e76c7-1200x800.jpg",
-      "summary": "अमेरिकी सेना के टॉप कमांडर ने व्हाइट हाउस को ईरान के साथ जारी बमबारी अभियान रोकने की सलाह दी है. America Iran Jung: ईरान के साथ जारी युद्ध के बीच अमेरिका के भीतर दबाव बढ़ता दिख रहा है. अमेरिकी सेना के टॉप कमांडर ने व्हाइट हाउस को मौजूदा बमबारी अभियान रोकने की सलाह दी है. दूसरी ओर एक सर्वे में अधिकांश अमेरिकी इस युद्ध को उम्मीद से ज्यादा मुश्किल मान रहे हैं और इसे खत्म करने के पक्ष में हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान युद्ध से थका अमेरिका, जनरल ने जंग लड़ने से मना किया, जनता ने छोड़ा ट्रंप का साथ, इस पर भी मचा",
-          "summary": "अमेरिकी सेना के टॉप कमांडर ने व्हाइट हाउस को ईरान के साथ जारी बमबारी अभियान रोकने की सलाह दी है. America Iran Jung: ईरान के साथ जारी युद्ध के बीच अमेरिका के भीतर दबाव बढ़ता दिख रहा है. अमेरिकी सेना के टॉप कमांडर ने व्हाइट हाउस को मौजूदा बमबारी अभियान रोकने की सलाह दी है. दूसरी ओर एक सर्वे में अधिकांश अमेरिकी इस युद्ध को उम्मीद से ज्यादा मुश्किल मान रहे हैं और इसे खत्म करने के पक्ष में हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "छात्रों के खिलाफ पुलिस की कार्रवाई पर होगी सुनवाई, संसद में एंटी-पेपर लीक संशोधन बिल हो सकता है पेश",
-      "url": "https://www.amarujala.com/india-news/27-july-2026-major-events-2026-07-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T00:52:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/aaja-ka-khabra_f4f78e6b11b651b95a9f6b2f7638be96.gif?w=1200&dpr=1.0",
-      "summary": "छात्रों के खिलाफ पुलिस की कार्रवाई पर सुनवाई होगी. नमस्कार! आज है सोमवार, 27 जुलाई। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं छात्रों के खिलाफ पुलिस की कार्रवाई पर होगी सुनवाई, संसद में एंटी-पेपर लीक संशोधन बिल हो सकता है पेश।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "छात्रों के खिलाफ पुलिस की कार्रवाई पर होगी सुनवाई, संसद में एंटी-पेपर लीक संशोधन बिल हो सकता है पेश",
-          "summary": "छात्रों के खिलाफ पुलिस की कार्रवाई पर सुनवाई होगी. नमस्कार! आज है सोमवार, 27 जुलाई। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं छात्रों के खिलाफ पुलिस की कार्रवाई पर होगी सुनवाई, संसद में एंटी-पेपर लीक संशोधन बिल हो सकता है पेश।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "एक मक्खी ले सकती है 15 साल से कम उम्र के बच्चों की जान, कैसे फैलता है चांदीपुरा वायरस, लक्षण क्या?",
-      "url": "https://www.amarujala.com/india-news/how-can-a-sandfly-put-children-under-15-at-risk-how-chandipura-virus-spreads-and-what-are-its-symptoms-2026-07-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T00:50:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/26/sada-falii_2c5b568f51361ff93ab4a8d15a6a2854.jpeg?w=1200&dpr=1.0",
-      "summary": "चांदीपुरा वायरस एक मक्खी के काटने से फैलता है. Explainer: एक मक्खी ले सकती है 15 साल से कम उम्र के बच्चों की जान, कैसे फैलता है चांदीपुरा वायरस, लक्षण क्या?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक मक्खी ले सकती है 15 साल से कम उम्र के बच्चों की जान, कैसे फैलता है चांदीपुरा वायरस, लक्षण क्या?",
-          "summary": "चांदीपुरा वायरस एक मक्खी के काटने से फैलता है. Explainer: एक मक्खी ले सकती है 15 साल से कम उम्र के बच्चों की जान, कैसे फैलता है चांदीपुरा वायरस, लक्षण क्या?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "संसद में सरकार को घेरेगा विपक्ष; CWG में भारत को अब तक चार पदक; वांगचुक को अस्पताल से मिलेगी छुट्टी",
-      "url": "https://www.amarujala.com/india-news/top-headlines-big-news-today-parliament-monsoon-session-glasgow-cwg-west-asia-entertainment-politics-news-2026-07-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-27T00:20:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
-      "summary": "Top News: संसद में सरकार को घेरेगा विपक्ष; CWG में भारत को एक गोल्ड समेत चार पदक; अस्पताल से छूटेंगे वांगचुक। Top News: संसद में सरकार को घेरेगा विपक्ष; CWG में भारत को अब तक चार पदक; वांगचुक को अस्पताल से मिलेगी छुट्टी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संसद में सरकार को घेरेगा विपक्ष; CWG में भारत को अब तक चार पदक; वांगचुक को अस्पताल से मिलेगी छुट्टी",
-          "summary": "Top News: संसद में सरकार को घेरेगा विपक्ष; CWG में भारत को एक गोल्ड समेत चार पदक; अस्पताल से छूटेंगे वांगचुक। Top News: संसद में सरकार को घेरेगा विपक्ष; CWG में भारत को अब तक चार पदक; वांगचुक को अस्पताल से मिलेगी छुट्टी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान जंग के बीच ऐसा क्या हो गया, जो डोनाल्ड ट्रंप ने 'मैसिव अटैक' वाले प्लान पर लगा दिया ब्रेक?",
-      "url": "https://hindi.news18.com/world/america-what-happened-amid-iran-war-that-donald-trump-put-halt-to-massive-attack-plan-sjn-sushant-sinha-10692244.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-26T23:01:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-news-19-2026-07-861b4101866deec67ba0bad40b5ffbe7-1200x800.jpg",
-      "summary": "Desh Ki Pathshala: अमेरिका-ईरान में संघर्ष लगातार जारी है. एक तरफ अमेरिका हमले कर रहा है तो ईरान भी जवाब दे रहा है. अमेरिकी राष्ट्रपति ने मेसिव अटैक करने की धमकी दी थी, लेकिन अब अमेरिका इससे बचता हुआ दिखाई दे रहा है. वहीं ईरान ने भी फिलहाल के लिए हमले रोके हैं, वो अमेरिकी हमलों का इंतजार कर रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान जंग के बीच ऐसा क्या हो गया, जो डोनाल्ड ट्रंप ने 'मैसिव अटैक' वाले प्लान पर लगा दिया ब्रेक?",
-          "summary": "Desh Ki Pathshala: अमेरिका-ईरान में संघर्ष लगातार जारी है. एक तरफ अमेरिका हमले कर रहा है तो ईरान भी जवाब दे रहा है. अमेरिकी राष्ट्रपति ने मेसिव अटैक करने की धमकी दी थी, लेकिन अब अमेरिका इससे बचता हुआ दिखाई दे रहा है. वहीं ईरान ने भी फिलहाल के लिए हमले रोके हैं, वो अमेरिकी हमलों का इंतजार कर रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "न्यूयॉर्क के मेयर ममदानी पर बरसे नेतन्याहू, ICC के आरोपों को बताया 'फर्जी'",
-      "url": "https://www.amarujala.com/world/you-won-t-be-able-to-get-me-arrested-netanyahu-lashes-out-at-icc-prosecutor-calls-charges-fake-2026-07-27",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-26T22:41:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/bjamana-natanayaha_1e0e219cbdb0c01d956e2fe08fbfe7d3.jpeg?w=1200&dpr=1.0",
-      "summary": "'मुझे गिरफ्तार नहीं करा पाएंगे': न्यूयॉर्क के मेयर ममदानी पर बरसे नेतन्याहू, ICC के आरोपों को बताया 'फर्जी'- You won't be able to get me arrested Netanyahu lashes out at ICC Prosecutor calls charges fake।",
+      "published_at": "2026-07-27T04:31:23+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/seattle-2026-07-2ad5e4d6e405cc9aed967b3764187dc7-1200x800.jpg",
+      "summary": "Seattle Firing News: अमेरिका के सिएटल में मशहूर बाइट ऑफ सिएटल फूड फेस्टिवल के दौरान हुई गोलीबारी में कई लोग घायल हो गए. घटना के बाद पूरे इलाके में अफरा-तफरी मच गई. पुलिस ने मामले की जांच शुरू कर दी है, लेकिन फिलहाल न तो संदिग्ध की गिरफ्तारी की पुष्टि हुई है और न ही हमले की वजह सामने आई है.",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "न्यूयॉर्क के मेयर ममदानी पर बरसे नेतन्याहू, ICC के आरोपों को बताया 'फर्जी'",
-          "summary": "'मुझे गिरफ्तार नहीं करा पाएंगे': न्यूयॉर्क के मेयर ममदानी पर बरसे नेतन्याहू, ICC के आरोपों को बताया 'फर्जी'- You won't be able to get me arrested Netanyahu lashes out at ICC Prosecutor calls charges fake।",
+          "title": "अमेरिका फिर गोलियों से दहला, सिएटल फूड फेस्टिवल में ताबड़तोड़ फायरिंग, 2 लोगों की मौत",
+          "summary": "Seattle Firing News: अमेरिका के सिएटल में मशहूर बाइट ऑफ सिएटल फूड फेस्टिवल के दौरान हुई गोलीबारी में कई लोग घायल हो गए. घटना के बाद पूरे इलाके में अफरा-तफरी मच गई. पुलिस ने मामले की जांच शुरू कर दी है, लेकिन फिलहाल न तो संदिग्ध की गिरफ्तारी की पुष्टि हुई है और न ही हमले की वजह सामने आई है.",
           "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "सामान्य हुई लुटियंस दिल्ली, दीवारों से मिटे आंदोलन के निशान; पर्यटकों की चहल-पहल लौटी; तस्वीरें",
+      "url": "https://www.amarujala.com/photo-gallery/delhi/cjp-protest-end-lutyens-delhi-returns-to-normal-signs-of-the-protest-erased-from-walls-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-27T04:24:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/cjp-protest-end_93cdd2a56eb3ddb6a4c7b0b0e37243c3.jpeg?w=1200&dpr=1.0",
+      "summary": "लुटियंस दिल्ली में एक सप्ताह के प्रदर्शन के बाद सामान्य स्थिति बहाल हो गई। प्रदर्शन, कड़े सुरक्षा इंतजाम और यातायात प्रतिबंधों के कारण एक सप्ताह तक प्रभावित रही लुटियंस दिल्ली ने शनिवार रात आंदोलन समाप्त होने के बाद रविवार को सामान्य स्थिति में वापसी कर ली। सामान्य हुई लुटियंस दिल्ली, दीवारों से मिटे आंदोलन के निशान; पर्यटकों की चहल-पहल लौटी; तस्वीरें।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सामान्य हुई लुटियंस दिल्ली, दीवारों से मिटे आंदोलन के निशान; पर्यटकों की चहल-पहल लौटी; तस्वीरें",
+          "summary": "लुटियंस दिल्ली में एक सप्ताह के प्रदर्शन के बाद सामान्य स्थिति बहाल हो गई। प्रदर्शन, कड़े सुरक्षा इंतजाम और यातायात प्रतिबंधों के कारण एक सप्ताह तक प्रभावित रही लुटियंस दिल्ली ने शनिवार रात आंदोलन समाप्त होने के बाद रविवार को सामान्य स्थिति में वापसी कर ली। सामान्य हुई लुटियंस दिल्ली, दीवारों से मिटे आंदोलन के निशान; पर्यटकों की चहल-पहल लौटी; तस्वीरें।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भाई ने छोड़ा अपना सपना, पिता ने की मजदूरी...मुथुपांडी ने CWG 2026 में जीत लिया रजत पदक",
+      "url": "https://www.amarujala.com/sports/from-matchbox-factory-to-commonwealth-games-2026-silver-raja-muthupandi-inspirational-journey-story-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-27T04:15:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/raja-muthupandi-commonwealth-games-2026-raja-muthupandi-biography-india-weightlifting-cwg-2026_6b0879028a7de56925640f25c5df6b61.jpeg?w=1200&dpr=1.0",
+      "summary": "राजा मुथुपांडी ने ग्लास्गो राष्ट्रमंडल खेल 2026 में पुरुषों के 65 किग्रा भारवर्ग में रजत पदक जीता। तमिलनाडु के कोविलपट्टी के रहने वाले राजा मुथुपांडी ने आर्थिक तंगी, गंभीर चोटों और कई सर्जरी जैसी मुश्किलों को पीछे छोड़ते हुए ग्लास्गो राष्ट्रमंडल खेल 2026 में पुरुषों के 65 किग्रा भारवर्ग का रजत पदक जीत लिया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भाई ने छोड़ा अपना सपना, पिता ने की मजदूरी...मुथुपांडी ने CWG 2026 में जीत लिया रजत पदक",
+          "summary": "राजा मुथुपांडी ने ग्लास्गो राष्ट्रमंडल खेल 2026 में पुरुषों के 65 किग्रा भारवर्ग में रजत पदक जीता। तमिलनाडु के कोविलपट्टी के रहने वाले राजा मुथुपांडी ने आर्थिक तंगी, गंभीर चोटों और कई सर्जरी जैसी मुश्किलों को पीछे छोड़ते हुए ग्लास्गो राष्ट्रमंडल खेल 2026 में पुरुषों के 65 किग्रा भारवर्ग का रजत पदक जीत लिया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "फूड फेस्टिवल में गोलीबारी, मची अफरा-तफरी, बच्चे समेत 4 लोग घायल; क्या है पूरा मामला?",
+      "url": "https://www.amarujala.com/world/several-people-wounded-by-gunfire-at-seattle-festival-hospital-says-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-27T03:57:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/saetal-ma-fada-fasataval-ma-galbra_fb2be3429d09407ee30a3080e61f3d3a.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका में फूड फेस्टिवल में गोलीबारी हुई, जिसमें बच्चे समेत 4 लोग घायल हुए। अमेरिका: फूड फेस्टिवल में गोलीबारी, मची अफरा-तफरी, बच्चे समेत 4 लोग घायल; क्या है पूरा मामला?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फूड फेस्टिवल में गोलीबारी, मची अफरा-तफरी, बच्चे समेत 4 लोग घायल; क्या है पूरा मामला?",
+          "summary": "अमेरिका में फूड फेस्टिवल में गोलीबारी हुई, जिसमें बच्चे समेत 4 लोग घायल हुए। अमेरिका: फूड फेस्टिवल में गोलीबारी, मची अफरा-तफरी, बच्चे समेत 4 लोग घायल; क्या है पूरा मामला?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "इस्राइल को चुनौती दे रहा ईरान?: हिजबुल्ला के समर्थन में आए मोजतबा, कहा- जिहाद और प्रतिरोध ही आखिरी",
+      "url": "https://www.amarujala.com/world/mojtaba-khamenei-openly-back-hezbollah-iranian-leader-calls-resistance-the-only-way-2026-07-27",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-27T03:53:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/mojtaba-khamenei-hezbollah-iran-israel-lebanon-sheikh-naim-qassem-iran_7304db260de4a19413916fa6eb9ab302.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरान के नेता मोजतबा ने हिजबुल्ला के समर्थन में बयान दिया, जिहाद और प्रतिरोध को आखिरी रास्ता बताया। इस्राइल को चुनौती दे रहा ईरान?: हिजबुल्ला के समर्थन में आए मोजतबा, कहा- जिहाद और प्रतिरोध ही आखिरी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इस्राइल को चुनौती दे रहा ईरान?: हिजबुल्ला के समर्थन में आए मोजतबा, कहा- जिहाद और प्रतिरोध ही आखिरी",
+          "summary": "ईरान के नेता मोजतबा ने हिजबुल्ला के समर्थन में बयान दिया, जिहाद और प्रतिरोध को आखिरी रास्ता बताया। इस्राइल को चुनौती दे रहा ईरान?: हिजबुल्ला के समर्थन में आए मोजतबा, कहा- जिहाद और प्रतिरोध ही आखिरी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पैर टूटने पर हुई भर्ती, दिल की नसें ब्लॉक बता स्टंट डाला, महिला की मौत; डॉक्टर ने कही ये बात",
+      "url": "https://www.amarujala.com/haryana/panipat/woman-dies-after-being-admitted-for-a-broken-leg-stent-inserted-following-diagnosis-of-blocked-heart-arteries-2026-07-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-27T03:38:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/woman-dies_3c69fdbb2b652631d43bfcb4c150f629.jpeg?w=1200&dpr=1.0",
+      "summary": "पानीपत के पार्क हॉस्पिटल में पैर की हड्डी टूटने पर भर्ती महिला की मौत हो गई, परिजनों ने डॉक्टरों पर आरोप लगाया। पैर की हड्डी टूटने पर भर्ती कराई गई 42 वर्षीय महिला गुड्डी देवी की पानीपत जिले के पार्क हॉस्पिटल में मौत हो गई। परिजनों ने आरोप लगाया कि डॉक्टरों ने पैर का ऑपरेशन करने के बजाय बिना उनकी सहमति दिल में स्टंट डाल दिए।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पैर टूटने पर हुई भर्ती, दिल की नसें ब्लॉक बता स्टंट डाला, महिला की मौत; डॉक्टर ने कही ये बात",
+          "summary": "पानीपत के पार्क हॉस्पिटल में पैर की हड्डी टूटने पर भर्ती महिला की मौत हो गई, परिजनों ने डॉक्टरों पर आरोप लगाया। पैर की हड्डी टूटने पर भर्ती कराई गई 42 वर्षीय महिला गुड्डी देवी की पानीपत जिले के पार्क हॉस्पिटल में मौत हो गई। परिजनों ने आरोप लगाया कि डॉक्टरों ने पैर का ऑपरेशन करने के बजाय बिना उनकी सहमति दिल में स्टंट डाल दिए।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या जंग का नया मोर्चा खुलने वाला है?: यूक्रेन के हमले से बौखलाया ईरान, अराघची ने कौन से जवाब की",
+      "url": "https://www.amarujala.com/world/cannot-go-unanswered-araghchi-condemns-ukraine-s-caspian-sea-strike-on-iranian-vessel-2026-07-27",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-27T03:31:16+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/iirana-ka-vathasha-matara-abbsa-araghaca_315b4c11388c568c6bc7967ec6db5893.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरान यूक्रेन के हमले से बौखला गया है. अराघची ने जवाब देने की बात कही है. क्या जंग का नया मोर्चा खुलने वाला है?: यूक्रेन के हमले से बौखलाया ईरान, अराघची ने कौन से जवाब की बात कही।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या जंग का नया मोर्चा खुलने वाला है?: यूक्रेन के हमले से बौखलाया ईरान, अराघची ने कौन से जवाब की",
+          "summary": "ईरान यूक्रेन के हमले से बौखला गया है. अराघची ने जवाब देने की बात कही है. क्या जंग का नया मोर्चा खुलने वाला है?: यूक्रेन के हमले से बौखलाया ईरान, अराघची ने कौन से जवाब की बात कही।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जोहरान ममदानी की धमकी से नहीं डरे नेतन्याहू, बोले- न्यूयॉर्क आकर ही रहूंगा",
+      "url": "https://hindi.news18.com/world/middle-east-benjamin-netanyahu-replies-to-zohran-mamdani-will-come-to-un-visit-trump-iran-icc-10692758.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-27T03:13:45+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/israel-benjamin-netanyahu-2026-07-dba28d7ae1ab25547f1696bb34e88eec-1200x800.jpg",
+      "summary": "बेंजामिन नेतन्याहू न्यूयॉर्क जाएंगे. जोहरान ममदानी ने उन्हें गिरफ्तार करने की धमकी दी थी. Benjamin Netanyahu Israel News: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने न्यूयॉर्क के मेयर जोहरान ममदानी पर निशाना साधा है. दरअसल जोहरान ममदानी ने पहले कहा था कि अगर नेतन्याहू न्यूयॉर्क आते हैं तो उन्हें गिरफ्तार कर लिया जाएगा. नेतन्याहू ने कहा कि वह सितंबर में संयुक्त राष्ट्र महासभा को संबोधित करने न्यूयॉर्क जरूर जाएंगे और इजरायल तथा यहूदी लोगों का पक्ष दुनिया के सामने रखेंगे.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जोहरान ममदानी की धमकी से नहीं डरे नेतन्याहू, बोले- न्यूयॉर्क आकर ही रहूंगा",
+          "summary": "बेंजामिन नेतन्याहू न्यूयॉर्क जाएंगे. जोहरान ममदानी ने उन्हें गिरफ्तार करने की धमकी दी थी. Benjamin Netanyahu Israel News: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने न्यूयॉर्क के मेयर जोहरान ममदानी पर निशाना साधा है. दरअसल जोहरान ममदानी ने पहले कहा था कि अगर नेतन्याहू न्यूयॉर्क आते हैं तो उन्हें गिरफ्तार कर लिया जाएगा. नेतन्याहू ने कहा कि वह सितंबर में संयुक्त राष्ट्र महासभा को संबोधित करने न्यूयॉर्क जरूर जाएंगे और इजरायल तथा यहूदी लोगों का पक्ष दुनिया के सामने रखेंगे.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अब तक घर नहीं लौटे अभिजीत दीपके? मंत्री ने क्यों मांगी सुरक्षा",
+      "url": "https://www.abplive.com/news/india/abhijeet-dipke-cjp-not-return-home-after-protest-jantar-mantar-fighting-with-typhoid-3166153",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-27T02:45:32+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/27/3a7f10dd188fdeb80c24dfec9f8557291785118769611344_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अभिजीत दीपके घर नहीं लौटे हैं. महाराष्ट्र के मंत्री संजय शिरसाट ने उनके लिए सुरक्षा मांगी है. दिल्ली के जंतर-मंतर पर हुए भारी प्रदर्शन के बाद केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान ने इस्तीफा दे दिया. उनकी जगह प्रह्लाद जोशी ने पद संभाला है. इन सबके बीच कॉकरोच जनता पार्टी के अभिजीत दीपके काफी चर्चा में रहे. अभिजीत फिलहाल टाइफाइड से जूझ रहे हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अब तक घर नहीं लौटे अभिजीत दीपके? मंत्री ने क्यों मांगी सुरक्षा",
+          "summary": "अभिजीत दीपके घर नहीं लौटे हैं. महाराष्ट्र के मंत्री संजय शिरसाट ने उनके लिए सुरक्षा मांगी है. दिल्ली के जंतर-मंतर पर हुए भारी प्रदर्शन के बाद केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान ने इस्तीफा दे दिया. उनकी जगह प्रह्लाद जोशी ने पद संभाला है. इन सबके बीच कॉकरोच जनता पार्टी के अभिजीत दीपके काफी चर्चा में रहे. अभिजीत फिलहाल टाइफाइड से जूझ रहे हैं.",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
