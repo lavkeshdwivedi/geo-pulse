@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-28T14:53:10.245649+00:00",
+  "generated_at": "2026-07-28T15:50:18.688547+00:00",
   "article_count": 49,
-  "total_unique_count": 275,
+  "total_unique_count": 277,
   "digest": {
     "en": "Asia-Pacific leads the board this hour with ‘Many people’ trapped inside Japanese shopping centre, others missing in paper factory, after. Middle East & Africa carries the next thread. 24 fresh dispatches in this edition.",
-    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जो विश्व के विभिन्न हिस्सों में हो रही घटनाओं को दर्शाती हैं। यूरोप और रूस में एक लापता भारतीय नाविक की बहन का दर्द सामने आया है। एशिया-पैसिफिक में पाकिस्तान के कब्जे वाले कश्मीर में अस्पताल बंद करने की खबरें हैं।"
+    "hi": "आज बोर्ड पर लीड स्टोरीज़ में एशिया-पैसिफिक क्षेत्र की खबरें प्रमुख हैं। पाकिस्तान के रक्षा मंत्री ने भारत को दुश्मन बताया है। जापान परमाणु बम का दंश झेलने के बावजूद न्यूक्लियर हथियार बनाने की तैयारी में है।"
   },
   "articles": [
     {
@@ -12,7 +12,7 @@
       "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-07-28T14:34:15+00:00",
+      "published_at": "2026-07-28T15:43:34+00:00",
       "image_url": "https://i.guim.co.uk/img/media/3e7cb28fbd87f15e320c8f85d4eff8aea0cc2788/333_0_3303_2643/master/3303.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f6f3ddfc95316ddbb9e2c7194616f63f",
       "summary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌7.1 ‌struck ‌the country’s Kumamoto prefectureAn aerial image shows the damaged Aeon mall after an earthquake in Kashima, Kumamoto prefecture, southern Japan. The ⁠UN nuclear watchdog said ⁠that Japan’s ​nuclear regulation ⁠authority has informed it that there ⁠is ​no ‌damage ‌or safety issues ‌at the Sendai nuclear power plant after a ‌7.1-magnit Multiple people trapped inside shopping centre in Japan after earthquake – live updates.",
       "region": "Asia-Pacific",
@@ -296,6 +296,42 @@
       "translations": {}
     },
     {
+      "title": "पहले जो थे शिकार उसे मानने लगे रिश्तेदार, सांपों में 1 या 2 नहीं, आए 19000 जेनेटिक बदलाव, साइंटिस्ट",
+      "url": "https://hindi.news18.com/world/america-scientist-found-19000-genetic-changes-in-brown-tree-snake-during-8-decades-sjn-10698290.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-28T15:17:30+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/snake-2026-07-b0ae3fa10ecd13a63b74ce787d019031-1200x800.jpg",
+      "summary": "Scientists analysing the genome of brown tree snakes discovered more than 19,000 genetic variants that older methods missed. Most of the variants affect olfactory and immune system genes, and the Australian population shows predatory behavior toward other snakes, a trait absent in the Guam population. ब्राउन ट्री स्नेक सांपों के डीएनए में 19000 से ज्यादा ऐसे बदलाव मिले, जो पुरानी तकनीकों से नजर नहीं आते थे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पहले जो थे शिकार उसे मानने लगे रिश्तेदार, सांपों में 1 या 2 नहीं, आए 19000 जेनेटिक बदलाव, साइंटिस्ट",
+          "summary": "Scientists analysing the genome of brown tree snakes discovered more than 19,000 genetic variants that older methods missed. Most of the variants affect olfactory and immune system genes, and the Australian population shows predatory behavior toward other snakes, a trait absent in the Guam population. ब्राउन ट्री स्नेक सांपों के डीएनए में 19000 से ज्यादा ऐसे बदलाव मिले, जो पुरानी तकनीकों से नजर नहीं आते थे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘भारत जैसा दुश्मन है PoK’, पाकिस्तान के रक्षा मंत्री की बेशर्मी, अपने लोगों को मरने छोड़ दिया",
+      "url": "https://hindi.news18.com/world/pakistan-pok-protesters-are-enemies-like-india-pak-defence-minister-khawaja-asif-justifies-army-firing-on-civilians-10698323.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-28T15:13:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Khwaza-Asif-On-PoK-Mayhem-2026-07-8c26c0a5e0d22f069937f0ed17fd1d7f-1200x800.jpg",
+      "summary": "PoK में कत्लेआम मचाने वाली पाकिस्तानी सेना के सपोर्ट में रक्षा मंत्री ख्वाजा आसिफ ने खौफनाक बयान दिया है. जिन्हें देश की रक्षा का काम सौंपा गया है, वो रावलकोट और मीरपुर में निहत्थे नागरिकों पर गोलियां चलाने को सही ठहरा रहे हैं. उनका कहना है कि वो PoK के लोगों को को 'भारत जैसा दुश्मन' मानते हैं और उनसे कोई बातचीत नहीं होगी.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘भारत जैसा दुश्मन है PoK’, पाकिस्तान के रक्षा मंत्री की बेशर्मी, अपने लोगों को मरने छोड़ दिया",
+          "summary": "PoK में कत्लेआम मचाने वाली पाकिस्तानी सेना के सपोर्ट में रक्षा मंत्री ख्वाजा आसिफ ने खौफनाक बयान दिया है. जिन्हें देश की रक्षा का काम सौंपा गया है, वो रावलकोट और मीरपुर में निहत्थे नागरिकों पर गोलियां चलाने को सही ठहरा रहे हैं. उनका कहना है कि वो PoK के लोगों को को 'भारत जैसा दुश्मन' मानते हैं और उनसे कोई बातचीत नहीं होगी.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "'ढूंढने पर भगवान मिल जाते हैं, मेरा भाई क्यों नहीं', समंदर में लापता भारतीय नाविक की बहन का दर्द",
       "url": "https://hindi.news18.com/news/nation/ramchandra-dubey-missing-indian-sailor-ukraine-russia-drone-attack-sister-appeal-10698324.html",
       "source": "News18 Hindi (World)",
@@ -346,6 +382,24 @@
           "title": "खुद परमाणु बम का दंश झेलने वाला जापान बनाने जा रहा न्यूक्लियर हथियार? पीएम ताकाइची ने क्यों साधी",
           "summary": "जापान की प्रधानमंत्री सानाए ताकाइची ने एक बार फिर परमाणु हथियारों पर अपने रुख पूरी तरह साफ करने से परहेज किया है. संसद की बजट समिति की बैठक के दौरान जब उनसे परमाणु हथियारों को देश में न लाने के नियम पर सवाल पूछा गया, तो उन्होंने इस पर मजबूती से कोई जवाब नहीं दिया. इसे उनके परमाणु हथियारों को फिर से देश में लाने से जोड़ा जा रहा है.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "डोनाल्ड ट्रंप के प्रस्ताव पर भड़क ईरान, कहा- जो देश हमारे फ्रोजन एसेट्स से हर्जाना लेगा, होर्मुज से",
+      "url": "https://www.patrika.com/world-news/iran-us-conflict-khatam-al-anbiya-warns-over-frozen-assets-strait-of-hormuz-shipping-20786137",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-28T14:17:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/03/Ebrahim-Zolfaghari.webp",
+      "summary": "Iran-US Conflict: अमेरिका और ईरान के बीच चल रहे सैन्य तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ‘ट्रुथ सोशल’ पर जारी एक बयान में कहा था कि स्ट्रेट ऑफ होर्मुज में कमर्शियल जहाजों और कार्गो को हुए नुकसान की भरपाई ईरान की उन संपत्तियों से की जाए जो अभी अमेरिका के नियंत्रण में फ्रीज हैं। ईरान ने डोनाल्ड ट्रंप के इस बयान पर आपत्ति जताई है और चेतावनी जारी की है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डोनाल्ड ट्रंप के प्रस्ताव पर भड़क ईरान, कहा- जो देश हमारे फ्रोजन एसेट्स से हर्जाना लेगा, होर्मुज से",
+          "summary": "Iran-US Conflict: अमेरिका और ईरान के बीच चल रहे सैन्य तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ‘ट्रुथ सोशल’ पर जारी एक बयान में कहा था कि स्ट्रेट ऑफ होर्मुज में कमर्शियल जहाजों और कार्गो को हुए नुकसान की भरपाई ईरान की उन संपत्तियों से की जाए जो अभी अमेरिका के नियंत्रण में फ्रीज हैं। ईरान ने डोनाल्ड ट्रंप के इस बयान पर आपत्ति जताई है और चेतावनी जारी की है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -638,24 +692,6 @@
       }
     },
     {
-      "title": "पाकिस्तान के बलूचिस्तान में BLA का 'स्पेशल ऑपरेशन', हब कोह हमले की ली जिम्मेदारी",
-      "url": "https://hindi.news18.com/news/defence/bla-claims-responsibility-for-hub-koh-special-operation-in-pakistan-balochistan-ws-l-10696663.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T07:20:04+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Your-paragraph-text-1600-x-900-px-2026-07-28T134532.320-2026-07-911bd4c6ce365076a77eca59f5907416-1200x800.jpg",
-      "summary": "बलूचिस्तान लिबरेशन आर्मी ने पाकिस्तान के हब कोह में एक परियोजना पर हमला किया. उन्होंने कई भारी मशीनों को नष्ट करने का दावा किया. यह हमला उनके 'स्पेशल ऑपरेशन' का हिस्सा था. पाकिस्तान के बलूचिस्तान स्थित हब कोह में Baloch Liberation Army ने एक 'स्पेशल ऑपरेशन' चलाने का दावा करते हुए हमले की जिम्मेदारी ली है. संगठन का कहना है कि उसने पाकिस्तान समर्थित एक परियोजना को निशाना बनाकर कई भारी मशीनों को नष्ट किया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान के बलूचिस्तान में BLA का 'स्पेशल ऑपरेशन', हब कोह हमले की ली जिम्मेदारी",
-          "summary": "बलूचिस्तान लिबरेशन आर्मी ने पाकिस्तान के हब कोह में एक परियोजना पर हमला किया. उन्होंने कई भारी मशीनों को नष्ट करने का दावा किया. यह हमला उनके 'स्पेशल ऑपरेशन' का हिस्सा था. पाकिस्तान के बलूचिस्तान स्थित हब कोह में Baloch Liberation Army ने एक 'स्पेशल ऑपरेशन' चलाने का दावा करते हुए हमले की जिम्मेदारी ली है. संगठन का कहना है कि उसने पाकिस्तान समर्थित एक परियोजना को निशाना बनाकर कई भारी मशीनों को नष्ट किया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "ईरान जंग शुरू होने के बाद ट्रंप-नेतन्याहू की पहली बैठक, मतभेदों के बीच क्या है इस्राइल का प्लान?",
       "url": "https://www.amarujala.com/world/netanyahu-s-first-meeting-with-trump-since-iran-war-began-is-chance-to-smooth-over-strains-2026-07-28",
       "source": "Amar Ujala World",
@@ -692,24 +728,6 @@
       }
     },
     {
-      "title": "बंद घर के तहखाने में घुसा कपल, कोने में दिखा रहस्यमयी डिब्बा, डरते-डरते खोला तो चमक गई किस्मत",
-      "url": "https://hindi.news18.com/world/britain-couple-discovers-hidden-treasure-in-underground-secret-room-in-100-year-old-house-10696699.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T06:38:27+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/secret-room-2026-07-fcde32e172db2b53a6c6ceff86a35c23-1200x800.jpg",
-      "summary": "Couple Found Hidden Treasure: हम कई बार एक ही जगह पर जाते हैं लेकिन समझ नहीं पाते कि वहां कौन सा सीक्रेट छिपा हुआ है. कुछ ऐसा ही हुआ एक कपल के साथ, जिसे अपने 100 साल पुराने घर के तहखाने में एक डिब्बा मिल. इसे खोलने में पहले तो वे घबरा रहे थे लेकिन खोलते ही उनकी किस्मत चमक गई.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बंद घर के तहखाने में घुसा कपल, कोने में दिखा रहस्यमयी डिब्बा, डरते-डरते खोला तो चमक गई किस्मत",
-          "summary": "Couple Found Hidden Treasure: हम कई बार एक ही जगह पर जाते हैं लेकिन समझ नहीं पाते कि वहां कौन सा सीक्रेट छिपा हुआ है. कुछ ऐसा ही हुआ एक कपल के साथ, जिसे अपने 100 साल पुराने घर के तहखाने में एक डिब्बा मिल. इसे खोलने में पहले तो वे घबरा रहे थे लेकिन खोलते ही उनकी किस्मत चमक गई.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "ममता के लिए आफत! सामने आई NCPI के सभी MPs की लिस्ट, अब क्या होगा?",
       "url": "https://www.abplive.com/news/india/ncpi-lok-sabha-leader-sudip-bandopadhyay-full-list-rebel-tmc-mp-kakoli-ghosh-dastidar-and-satabdi-roy-3166788",
       "source": "ABP Live (India)",
@@ -724,24 +742,6 @@
           "title": "ममता के लिए आफत! सामने आई NCPI के सभी MPs की लिस्ट, अब क्या होगा?",
           "summary": "लोकसभा में एनसीपीआई नेता सुदीप बंदोपाध्याय ने ममता बनर्जी की तृणमूल कांग्रेस से अलग हुए 19 सांसदों की सूची दी है. इनमें काकोली घोष दस्तीदार, शताब्दी रॉय, बापी हलदर और डॉ. शर्मिला सरकार शामिल हैं. यह सूची 18 मई को लोकसभा अध्यक्ष के कार्यालय को भेजी गई थी. लोकसभा में एनसीपीआई नेता सुदीप बंदोपाध्याय (कोलकाता उत्तर) ने ममता बनर्जी की तृणमूल कांग्रेस (टीएमसी) से अलग हुए 20 सांसदों में से 19 की सूची दी है, जिन्होंने 18 मई को लोकसभा अध्यक्ष के कार्यालय को अपने नाम भेजे थे.",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अब फ्रांस पर क्यों भड़का अमेरिका?: यूएनएससी की बैठक छोड़ क्यों निकले ट्रंप के राजनयिक; दोनों",
-      "url": "https://www.amarujala.com/world/us-walks-out-on-france-at-un-meeting-to-protest-ally-s-criticism-of-america-s-human-rights-record-2026-07-28",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-28T06:21:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/yaena-ma-kaya-aamana-samana-aae-amaraka-farasa_6a7267aaea4d6a16277f7bbd2ec567ab.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका और फ्रांस के बीच तनाव बढ़ गया है, यूएनएससी की बैठक छोड़ दी गई। अब फ्रांस पर क्यों भड़का अमेरिका?: यूएनएससी की बैठक छोड़ क्यों निकले ट्रंप के राजनयिक; दोनों सहयोगियों में ठनी।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब फ्रांस पर क्यों भड़का अमेरिका?: यूएनएससी की बैठक छोड़ क्यों निकले ट्रंप के राजनयिक; दोनों",
-          "summary": "अमेरिका और फ्रांस के बीच तनाव बढ़ गया है, यूएनएससी की बैठक छोड़ दी गई। अब फ्रांस पर क्यों भड़का अमेरिका?: यूएनएससी की बैठक छोड़ क्यों निकले ट्रंप के राजनयिक; दोनों सहयोगियों में ठनी।",
-          "region": "यूरोप और रूस"
         }
       }
     }
