@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-28T19:34:29.834563+00:00",
+  "generated_at": "2026-07-28T20:30:19.865819+00:00",
   "article_count": 50,
-  "total_unique_count": 272,
+  "total_unique_count": 271,
   "digest": {
-    "en": "Russia and Iran dominate headlines with Senator Whitehouse discussing the Russia-Iran Sanctions Bill. Israel's use of US bombers to strike Iran adds to regional tensions. Ukraine's actions in the Caspian Sea further complicate the situation.",
-    "hi": "भारोत्तोलन में हरजिंदर कौर ने जीता रजत पदक. मुक्केबाजी में तीन मेडल पक्के हुए. प्रीति और प्रिया के बाद जादूमणि भी सेमीफाइनल में पहुंची."
+    "en": "Russia and Iran dominate the news. Senator Whitehouse speaks to RFE/RL about Congress unity on Ukraine. Israel confirms US bombers used its bases to strike Iran.",
+    "hi": "भारोत्तोलन में हरजिंदर कौर ने जीता रजत पदक। मुक्केबाजी में तीन मेडल पक्के हुए। प्रीति और प्रिया के बाद जादूमणि भी सेमीफाइनल में पहुंची।"
   },
   "articles": [
     {
@@ -128,13 +128,13 @@
       "translations": {}
     },
     {
-      "title": "Zelenskky, Trump Meet At White House At Crucial Moment In US-Ukraine Relations",
+      "title": "Zelenskyy, Trump Meet At White House At Crucial Moment In US-Ukraine Relations",
       "url": "https://www.rferl.org/a/ukraine-zelenskyy-trump-talks-washigton/33816609.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-07-28T09:43:00+00:00",
       "image_url": "https://gdb.rferl.org/695bde57-44be-4486-95b3-b3e2488f7d39_cx0_cy3_cw0_w1200_h630.jpg",
-      "summary": "Ukrainian President Volodymyr Zelenskyy had \"a good meeting\" with US President Donald Trump on July 28. The meeting, which had been expected to be one of the most consequential moments in US-Ukraine relations since Donald Trump's return to the White House, lasted about a hour. Zelenskky, Trump Meet At White House At Crucial Moment In US-Ukraine Relations.",
+      "summary": "Ukrainian President Volodymyr Zelenskyy had \"a good meeting\" with US President Donald Trump on July 28. The meeting, which had been expected to be one of the most consequential moments in US-Ukraine relations since Donald Trump's return to the White House, lasted about a hour. Zelenskky, Trump Meet At White House At Crucial Moment In US-Ukraine Relations. Zelenskyy, Trump Meet At White House At Crucial Moment In US-Ukraine Relations.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -398,19 +398,163 @@
       }
     },
     {
-      "title": "रूस-यूक्रेन जंग के बीच फंसे 13 भारतीय नाविक, सिर पर फट रहे ड्रोन, मौत बस इंच भर दूर",
+      "title": "नगालैंड में भूस्खलन प्रभावित इलाकों में उतरी वायुसेना,100 से अधिक लोग निकाले!",
+      "url": "https://www.amarujala.com/video/india-news/landslide-in-nagaland-air-force-deployed-in-landslide-hit-areas-over-100-people-evacuated-2026-07-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-28T20:19:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/29/landslide-in-nagaland_df1c4a286ad9806f080e8fd7f275eb43.jpeg?w=1200&dpr=1.0",
+      "summary": "Landslide in Nagaland: नगालैंड में भूस्खलन प्रभावित इलाकों में उतरी वायुसेना,100 से अधिक लोग निकाले!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नगालैंड में भूस्खलन प्रभावित इलाकों में उतरी वायुसेना,100 से अधिक लोग निकाले!",
+          "summary": "Landslide in Nagaland: नगालैंड में भूस्खलन प्रभावित इलाकों में उतरी वायुसेना,100 से अधिक लोग निकाले!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान में पुलिसकर्मियों की हत्या, दोषियों को फांसी; PoJK में दमन, ब्रैडफोर्ड में कश्मीरियों का",
+      "url": "https://www.amarujala.com/world/world-updates-iran-death-punishment-pojk-uk-pak-kashmiri-protest-russia-ukraine-un-crime-politics-news-2026-07-29",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-28T20:18:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=1200&dpr=1.0",
+      "summary": "World: ईरान में पुलिसकर्मियों की हत्या, दोषियों को फांसी; PoJK में दमन, ब्रैडफोर्ड में कश्मीरियों का प्रदर्शन।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान में पुलिसकर्मियों की हत्या, दोषियों को फांसी; PoJK में दमन, ब्रैडफोर्ड में कश्मीरियों का",
+          "summary": "World: ईरान में पुलिसकर्मियों की हत्या, दोषियों को फांसी; PoJK में दमन, ब्रैडफोर्ड में कश्मीरियों का प्रदर्शन।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पर्यावरण मंजूरी से जुड़े मामले में आज आएगा अहम फैसला, सुप्रीम कोर्ट पर टिकी नजरें",
+      "url": "https://www.amarujala.com/india-news/supreme-court-updates-verdict-on-retrospective-green-clearance-for-projects-other-legal-case-hearing-news-2026-07-29",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-28T20:00:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/22/saparama-karata-apadatasa_f68391b0d8e97fa4d5c613598c67cab6.jpeg?w=1200&dpr=1.0",
+      "summary": "Supreme Court: पर्यावरण मंजूरी से जुड़े मामले में आज आएगा अहम फैसला, सुप्रीम कोर्ट पर टिकी नजरें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पर्यावरण मंजूरी से जुड़े मामले में आज आएगा अहम फैसला, सुप्रीम कोर्ट पर टिकी नजरें",
+          "summary": "Supreme Court: पर्यावरण मंजूरी से जुड़े मामले में आज आएगा अहम फैसला, सुप्रीम कोर्ट पर टिकी नजरें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या साइबर सुरक्षा में लगी सेंध, डीआरडीओ ने किस घटना की रिपोर्ट को 'गलत और अपुष्ट' बताया?",
+      "url": "https://www.amarujala.com/india-news/government-termed-reports-of-breach-in-drdo-s-cybersecurity-as-incorrect-and-unverified-2026-07-29",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-28T19:56:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/29/drdo_b148d676d05226257024492a15908262.jpeg?w=1200&dpr=1.0",
+      "summary": "DRDO cybersecurity: क्या साइबर सुरक्षा में लगी सेंध, डीआरडीओ ने किस घटना की रिपोर्ट को 'गलत और अपुष्ट' बताया?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या साइबर सुरक्षा में लगी सेंध, डीआरडीओ ने किस घटना की रिपोर्ट को 'गलत और अपुष्ट' बताया?",
+          "summary": "DRDO cybersecurity: क्या साइबर सुरक्षा में लगी सेंध, डीआरडीओ ने किस घटना की रिपोर्ट को 'गलत और अपुष्ट' बताया?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जेलेंस्की-नेतन्याहू-लेबनानी राष्ट्रपति एक ही दिन पहुंचे व्हाइट हाऊस, सबसे क्यों मिले ट्रंप, किससे",
+      "url": "https://hindi.news18.com/world/america-donald-trump-meeting-with-zelenskyy-netanyahu-joseph-aoun-white-house-on-same-day-10698599.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-28T19:41:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Zelensky-netanyahu-2026-07-52795e2ee1e332648803e5526818d65d-1200x800.jpg",
+      "summary": "आज के दिन व्हाइट हाउस के तमाम देश के महमानों का तांता लगा रहा. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने रूस-यूक्रेन युद्ध से लेकर मीडिल ईस्ट में चल रहे तनाव को लेकर अलग-अलग देशों ने नेताओं से बातचीत की है. इस आर्टिकल में सिलसिलेवारे से समझ लेते हैं कि ट्रंप ने किस नेता को क्या कहा और भविष्य में अमेरिका का क्या रुख रहने वाला है इसपर ट्रंप क्या बोले.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जेलेंस्की-नेतन्याहू-लेबनानी राष्ट्रपति एक ही दिन पहुंचे व्हाइट हाऊस, सबसे क्यों मिले ट्रंप, किससे",
+          "summary": "आज के दिन व्हाइट हाउस के तमाम देश के महमानों का तांता लगा रहा. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने रूस-यूक्रेन युद्ध से लेकर मीडिल ईस्ट में चल रहे तनाव को लेकर अलग-अलग देशों ने नेताओं से बातचीत की है. इस आर्टिकल में सिलसिलेवारे से समझ लेते हैं कि ट्रंप ने किस नेता को क्या कहा और भविष्य में अमेरिका का क्या रुख रहने वाला है इसपर ट्रंप क्या बोले.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'मौत के जहाज' में फंसे 13 भारतीय क्रू मेंबर, रूस-यूक्रेन सिर पर फोड़ रहे ड्रोन-मिसाइलें, मौत बस इंच",
       "url": "https://hindi.news18.com/world/europe-13-indian-seafarers-trapped-in-ukraine-war-zone-mv-amir1-hit-by-drone-attacks-at-chornomorsk-port-fsui-urges-evacuation-black-sea-10698689.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-28T18:30:45+00:00",
+      "published_at": "2026-07-28T19:39:43+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Indian-Stuck-In-Black-Sea-2026-07-88db997fa0dcccd2a2188fc827009f6f-1200x800.jpg",
       "summary": "रूस और यूक्रेन की जंग के बीच 13 भारतीय नाविक बुरी तरह फंस गए हैं. ये सभी लोग चोर्नोमोर्स्क पोर्ट पर खड़े 'एमवी अमीर 1' जहाज पर मौजूद हैं. जहाज पर कुल 15 क्रू मेंबर्स हैं, जिनकी जान पर इस वक्त बन आई है. वहां लगातार ड्रोन और मिसाइलें गिर रही हैं. खतरा इतना बढ़ गया है कि नाविकों की यूनियन (FSUI) ने सरकार से तुरंत मदद मांगी है.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रूस-यूक्रेन जंग के बीच फंसे 13 भारतीय नाविक, सिर पर फट रहे ड्रोन, मौत बस इंच भर दूर",
+          "title": "'मौत के जहाज' में फंसे 13 भारतीय क्रू मेंबर, रूस-यूक्रेन सिर पर फोड़ रहे ड्रोन-मिसाइलें, मौत बस इंच",
           "summary": "रूस और यूक्रेन की जंग के बीच 13 भारतीय नाविक बुरी तरह फंस गए हैं. ये सभी लोग चोर्नोमोर्स्क पोर्ट पर खड़े 'एमवी अमीर 1' जहाज पर मौजूद हैं. जहाज पर कुल 15 क्रू मेंबर्स हैं, जिनकी जान पर इस वक्त बन आई है. वहां लगातार ड्रोन और मिसाइलें गिर रही हैं. खतरा इतना बढ़ गया है कि नाविकों की यूनियन (FSUI) ने सरकार से तुरंत मदद मांगी है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "बंगाल में खून के नाम पर गंदा खेल: निजी ब्लड बैंकों स्वास्थ्य विभाग की छापेमारी, अंतरराज्यीय तस्करी",
+      "url": "https://www.amarujala.com/india-news/bengal-government-raids-private-blood-banks-investigation-into-inter-state-trafficking-intensified-2026-07-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-28T19:35:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/29/paratakatamaka-tasavara_feb050e59cf68ddf5587aedfd3d48637.jpeg?w=1200&dpr=1.0",
+      "summary": "बंगाल में स्वास्थ्य विभाग ने निजी ब्लड बैंकों पर छापेमारी की। बंगाल में खून के नाम पर गंदा खेल: निजी ब्लड बैंकों स्वास्थ्य विभाग की छापेमारी, अंतरराज्यीय तस्करी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंगाल में खून के नाम पर गंदा खेल: निजी ब्लड बैंकों स्वास्थ्य विभाग की छापेमारी, अंतरराज्यीय तस्करी",
+          "summary": "बंगाल में स्वास्थ्य विभाग ने निजी ब्लड बैंकों पर छापेमारी की। बंगाल में खून के नाम पर गंदा खेल: निजी ब्लड बैंकों स्वास्थ्य विभाग की छापेमारी, अंतरराज्यीय तस्करी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका से वार्ता का नहीं है कोई प्लान, ईरान के डिप्टी विदेश मंत्री की दो-टूक",
+      "url": "https://www.patrika.com/world-news/iran-has-no-plans-to-negotiate-with-us-deputy-foreign-minister-kazem-gharibabadi-says-20786599",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-28T19:19:20+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/gharibabadi.jpg",
+      "summary": "ईरान के डिप्टी विदेश मंत्री ने अमेरिका से वार्ता की कोई योजना से इनकार किया। अमेरिका (United States of America) और ईरान (Iran) के बीच फिलहाल हमले रुके हुए हैं, लेकिन तनाव बना हुआ है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) फिर से सीज़फायर चाहते हैं और जल्द से जल्द एक बार फिर शांति समझौता लागू करना चाहते हैं। ट्रंप ने यह भी कहा है कि दोनों देशों के बीच बातचीत चल रही है और जल्द ही कुछ अच्छा हो सकता है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका से वार्ता का नहीं है कोई प्लान, ईरान के डिप्टी विदेश मंत्री की दो-टूक",
+          "summary": "ईरान के डिप्टी विदेश मंत्री ने अमेरिका से वार्ता की कोई योजना से इनकार किया। अमेरिका (United States of America) और ईरान (Iran) के बीच फिलहाल हमले रुके हुए हैं, लेकिन तनाव बना हुआ है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) फिर से सीज़फायर चाहते हैं और जल्द से जल्द एक बार फिर शांति समझौता लागू करना चाहते हैं। ट्रंप ने यह भी कहा है कि दोनों देशों के बीच बातचीत चल रही है और जल्द ही कुछ अच्छा हो सकता है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "डोनाल्ड ट्रंप से मिले वोलोदिमिर ज़ेलेन्स्की, यूक्रेन में पैट्रियट मिसाइल डिफेंस सिस्टम बनाने का दिया",
+      "url": "https://www.patrika.com/world-news/volodymyr-zelenskyy-meets-donald-trump-discusses-producing-patriot-missile-defense-system-20786591",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-28T18:39:50+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/zelenskyy-meets-trump.webp",
+      "summary": "यूक्रेन के राष्ट्रपति वोलोदिमिर ज़ेलेन्स्की ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप से मुलाकात की। यूक्रेन (Ukraine) के राष्ट्रपति वोलोदिमिर ज़ेलेन्स्की (Volodymyr Zelenskyy) इस समय अमेरिका (United States of America) दौरे पर हैं, जहाँ आज राजधानी वॉशिंगटन डीसी में स्थित व्हाइट हाउस में उन्होंने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) से मुलाकात की। दोनों के बीच यह मीटिंग ओवल ऑफिस में हुई।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डोनाल्ड ट्रंप से मिले वोलोदिमिर ज़ेलेन्स्की, यूक्रेन में पैट्रियट मिसाइल डिफेंस सिस्टम बनाने का दिया",
+          "summary": "यूक्रेन के राष्ट्रपति वोलोदिमिर ज़ेलेन्स्की ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप से मुलाकात की। यूक्रेन (Ukraine) के राष्ट्रपति वोलोदिमिर ज़ेलेन्स्की (Volodymyr Zelenskyy) इस समय अमेरिका (United States of America) दौरे पर हैं, जहाँ आज राजधानी वॉशिंगटन डीसी में स्थित व्हाइट हाउस में उन्होंने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) से मुलाकात की। दोनों के बीच यह मीटिंग ओवल ऑफिस में हुई।",
           "region": "यूरोप और रूस"
         }
       }
@@ -448,6 +592,60 @@
           "title": "ट्रंप-नेतन्याहू कर रहे ईरान की किस्मत का फैसला, मीटिंग से सामने आई पहली अपडेट",
           "summary": "Trump Netanyahu Meeting Live: ईरान के साथ जारी युद्ध के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच वाशिंगटन के व्हाइट हाउस बैठक शुरू हो गई है. नेतन्याहू ने सोशल मीडिया पर ट्रंप के साथ एक मुस्कुराती तस्वीर शेयर करते हुए इस मुलाकात की पुष्टि की. Trump Netanyahu Meeting Live: ईरान के साथ जारी युद्ध के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच वाशिंगटन के व्हाइट हाउस बैठक शुरू हो गई है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "डोनाल्ड ट्रंप से मिले बेंजामिन नेतन्याहू, युद्ध के बाद पहली बार हुई मुलाकात",
+      "url": "https://www.patrika.com/world-news/benjamin-netanyahu-meets-donald-trump-20786537",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-28T17:51:25+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/netanyahu-meets-trump.webp",
+      "summary": "इज़रायल के पीएम बेंजामिन नेतन्याहू ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप से मुलाकात की। इज़रायल (Israel) के पीएम बेंजामिन नेतन्याहू (Benjamin Netanyahu) इस समय अमेरिका (United States of America) दौरे पर हैं, जहाँ आज राजधानी वॉशिंगटन डीसी में स्थित व्हाइट हाउस में उन्होंने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) से मुलाकात की। पहले नेतन्याहू जुलाई के द्दूसरे हफ्ते में अमेरिका का दौरा करने वाले थे, पर किसी वजह से इसकी तारीख को आगे बढ़ा दिया गया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डोनाल्ड ट्रंप से मिले बेंजामिन नेतन्याहू, युद्ध के बाद पहली बार हुई मुलाकात",
+          "summary": "इज़रायल के पीएम बेंजामिन नेतन्याहू ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप से मुलाकात की। इज़रायल (Israel) के पीएम बेंजामिन नेतन्याहू (Benjamin Netanyahu) इस समय अमेरिका (United States of America) दौरे पर हैं, जहाँ आज राजधानी वॉशिंगटन डीसी में स्थित व्हाइट हाउस में उन्होंने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) से मुलाकात की। पहले नेतन्याहू जुलाई के द्दूसरे हफ्ते में अमेरिका का दौरा करने वाले थे, पर किसी वजह से इसकी तारीख को आगे बढ़ा दिया गया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बांग्लादेश में 6 साल की बच्चियों से लेकर बुजुर्ग महिलाओं तक कोई सुरक्षित नहीं, चिंताजनक आंकड़े आए",
+      "url": "https://www.patrika.com/world-news/bangladesh-violence-against-women-report-physical-assault-murder-child-marriage-20786377",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-28T16:01:30+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/bangladesh-rape-case-report.webp",
+      "summary": "बांग्लादेश में महिलाओं और बच्चियों के खिलाफ अपराध बढ़ रहे हैं। Bangladesh Violence Against Women: बांग्लादेश में महिलाओं और बच्चियों के खिलाफ बढ़ते अपराधों को लेकर एक नई रिपोर्ट ने गंभीर चिंता पैदा कर दी है। ढाका की एक महिला अधिकार संगठन- ‘बांग्लादेश महिला परिषद’ (BMP) की रिपोर्ट के मुताबिक, देश में रेप, सामूहिक दुष्कर्म, हत्या, आत्महत्या, यौन उत्पीड़न, दहेज हिंसा और बाल विवाह के मामले लगातार बढ़ रहे हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश में 6 साल की बच्चियों से लेकर बुजुर्ग महिलाओं तक कोई सुरक्षित नहीं, चिंताजनक आंकड़े आए",
+          "summary": "बांग्लादेश में महिलाओं और बच्चियों के खिलाफ अपराध बढ़ रहे हैं। Bangladesh Violence Against Women: बांग्लादेश में महिलाओं और बच्चियों के खिलाफ बढ़ते अपराधों को लेकर एक नई रिपोर्ट ने गंभीर चिंता पैदा कर दी है। ढाका की एक महिला अधिकार संगठन- ‘बांग्लादेश महिला परिषद’ (BMP) की रिपोर्ट के मुताबिक, देश में रेप, सामूहिक दुष्कर्म, हत्या, आत्महत्या, यौन उत्पीड़न, दहेज हिंसा और बाल विवाह के मामले लगातार बढ़ रहे हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रूस ने ब्लैक सी में यूक्रेन के दो जहाजों और मायकोलाइव बंदरगाह को बनाया निशाना",
+      "url": "https://www.patrika.com/world-news/russian-military-attack-on-ukraine-mykolaiv-port-20786321",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-28T15:55:11+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Russia-Ukraine-War.jpg",
+      "summary": "रूस ने ब्लैक सी में यूक्रेन के दो जहाजों पर हमला किया। Russia Ukraine War: रूसी रक्षा मंत्रालय ने काला सागर ब्लैक सी के उत्तर-पश्चिमी हिस्से में सैन्य सामान ले जा रहे एक बल्क कैरियर मालवाहक जहाज और मायकोलाइव बंदरगाह पर खड़े एक अन्य पोत को ड्रोन और मिसाइल हमलों से निशाना बनाए जाने की पुष्टि की है। रक्षा मंत्रालय के अनुसार मंगलवार को रूसी सेना ने यूक्रेन के कम से कम दो जहाजों पर हमला किया।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस ने ब्लैक सी में यूक्रेन के दो जहाजों और मायकोलाइव बंदरगाह को बनाया निशाना",
+          "summary": "रूस ने ब्लैक सी में यूक्रेन के दो जहाजों पर हमला किया। Russia Ukraine War: रूसी रक्षा मंत्रालय ने काला सागर ब्लैक सी के उत्तर-पश्चिमी हिस्से में सैन्य सामान ले जा रहे एक बल्क कैरियर मालवाहक जहाज और मायकोलाइव बंदरगाह पर खड़े एक अन्य पोत को ड्रोन और मिसाइल हमलों से निशाना बनाए जाने की पुष्टि की है। रक्षा मंत्रालय के अनुसार मंगलवार को रूसी सेना ने यूक्रेन के कम से कम दो जहाजों पर हमला किया।",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -542,217 +740,19 @@
       }
     },
     {
-      "title": "चीन ने बना लिया 582 टन का ‘नकली सूर्य’, असली सूरज से 10 गुना पावरफुल, ईरान-सऊदी-अमेरिका का काम खत्म!",
-      "url": "https://hindi.news18.com/world/china-china-builds-582-ton-artificial-sun-magnet-100-million-degree-project-why-us-iran-saudi-arabia-in-shock-10697905.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T12:39:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/China-Artificial-Sun-2026-07-16f1bbf2f6d5855264b79dd3a09819fb-1200x800.jpg",
-      "summary": "Chinese researchers completed a 582‑ton superconducting fusion magnet at the Institute of Plasma Physics in Hefei. चीन ने ऊर्जा क्षेत्र में एक ऐसा ऐतिहासिक कारनामा किया है जिसने अमेरिका, ईरान और सऊदी अरब जैसे देशों की चिंता बढ़ा दी है. चीनी वैज्ञानिकों ने दुनिया का सबसे बड़ा 582 टन वजनी 'सुपरकंडक्टिंग फ्यूजन मैग्नेट' बनाकर उसका सफल परीक्षण कर लिया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन ने बना लिया 582 टन का ‘नकली सूर्य’, असली सूरज से 10 गुना पावरफुल, ईरान-सऊदी-अमेरिका का काम खत्म!",
-          "summary": "Chinese researchers completed a 582‑ton superconducting fusion magnet at the Institute of Plasma Physics in Hefei. चीन ने ऊर्जा क्षेत्र में एक ऐसा ऐतिहासिक कारनामा किया है जिसने अमेरिका, ईरान और सऊदी अरब जैसे देशों की चिंता बढ़ा दी है. चीनी वैज्ञानिकों ने दुनिया का सबसे बड़ा 582 टन वजनी 'सुपरकंडक्टिंग फ्यूजन मैग्नेट' बनाकर उसका सफल परीक्षण कर लिया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हीथ्रो एयरपोर्ट पर दर्दनाक हादसे के शिकार इंजीनियर की मौत, फ्यूल टैंक कर रहे थे मेंटेनेंस",
-      "url": "https://hindi.news18.com/world/britain-engineer-dies-in-tragic-accident-at-heathrow-airport-while-performing-maintenance-on-a-fuel-tank-sjn-10697937.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T12:24:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Hethrow-Airport-Reuters-2026-07-3457819deb61bce03f3b9fa25b3885f3-1200x800.jpg",
-      "summary": "लंदन के हीथ्रो एयरपोर्ट पर एक दर्दनाक हादसे में 26 साल के एयरक्राफ्ट इंजीनियर जॉर्जी बक्सटन की मौत हो गई. जॉर्जी वर्जिन अटलांटिक के बोइंग 787 ड्रीमलाइनर विमान के फ्यूल टैंक के अंदर मेंटेनेंस जांच कर रहे थे. तभी अचानक भारी मशीनरी का एक हिस्सा उनके ऊपर गिर पड़ा. इस हादसे में वह गंभीर रूप से घायल हो गए और उन्हें तुरंत अस्पताल ले जाया गया.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हीथ्रो एयरपोर्ट पर दर्दनाक हादसे के शिकार इंजीनियर की मौत, फ्यूल टैंक कर रहे थे मेंटेनेंस",
-          "summary": "लंदन के हीथ्रो एयरपोर्ट पर एक दर्दनाक हादसे में 26 साल के एयरक्राफ्ट इंजीनियर जॉर्जी बक्सटन की मौत हो गई. जॉर्जी वर्जिन अटलांटिक के बोइंग 787 ड्रीमलाइनर विमान के फ्यूल टैंक के अंदर मेंटेनेंस जांच कर रहे थे. तभी अचानक भारी मशीनरी का एक हिस्सा उनके ऊपर गिर पड़ा. इस हादसे में वह गंभीर रूप से घायल हो गए और उन्हें तुरंत अस्पताल ले जाया गया.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बुशहर, इस्फान या पिकैक्स...कहां सो रहा ईरान का ‘कुंभकरण’? 2 रास्तों से पहुंचेंगे ट्रंप",
-      "url": "https://hindi.news18.com/world/middle-east-natanz-isfahan-or-pickaxe-iran-secret-nuclear-lair-inside-300-foot-deep-pickaxe-mountain-donald-trump-netanyahu-can-destroy-in-two-ways-10697692.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T11:34:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Iran-Pickaxe-Mountain-2026-07-876ac70fa4abe60a35677a723216668a-1200x800.jpg",
-      "summary": "ईरान-अमेरिका जंग के बीच बुशहर और इस्फहान के अलावा एक तीसरी लोकेशन सामने आई है, जो जमीन से 300 फीट से अधिक गहराई में है. इस सीक्रेट लोकेशन पर ट्रंप का घुसना नामुमकिन है. इजराइली प्रधानमंत्री बेंजामिन नेतन्याहू इस लोकेशन की खुफिया जानकारी लेकर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के पास पहुंच रहे हैं. ईरान के ‘कुंभकरण’ तक पहुंचने के 2 रास्ते खोज लिए गए हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बुशहर, इस्फान या पिकैक्स...कहां सो रहा ईरान का ‘कुंभकरण’? 2 रास्तों से पहुंचेंगे ट्रंप",
-          "summary": "ईरान-अमेरिका जंग के बीच बुशहर और इस्फहान के अलावा एक तीसरी लोकेशन सामने आई है, जो जमीन से 300 फीट से अधिक गहराई में है. इस सीक्रेट लोकेशन पर ट्रंप का घुसना नामुमकिन है. इजराइली प्रधानमंत्री बेंजामिन नेतन्याहू इस लोकेशन की खुफिया जानकारी लेकर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के पास पहुंच रहे हैं. ईरान के ‘कुंभकरण’ तक पहुंचने के 2 रास्ते खोज लिए गए हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "नागिन सी लहराती 'खैबर' से वार, पानी मांग रहे आयरन डोम-THAAD, ईरान बोला - ये तो हैं पिछली दिवाली के",
-      "url": "https://hindi.news18.com/world/middle-east-how-iran-kheibar-missile-ditching-thaad-iron-dome-tehran-says-new-missiles-are-not-used-yet-10697410.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T10:35:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/thaas-iran-2026-07-7f5dce778cb60851b4be38a37844a488-1200x800.jpg",
-      "summary": "Iran Kheibar Missile ditching THAAD-Iron Dome: ईरान खाड़ी क्षेत्र में अमेरिकी बेस पर लगातार हमले कर रहा है. जॉर्डन बेस पर हुए हमले में दो अमेरिकी सैनिक मारे गए. इन हमलों में तीसरी पीढ़ी की खैबर शेकन मिसाइल अहम भूमिका निभा रही है. 11.4 मीटर लंबी, ठोस ईंधन वाली यह मिसाइल 1450 किमी तक मार कर सकती है. कमर्शियल वाहनों से लॉन्च, सैटेलाइट गाइडेंस और मैन्यूवरेबल वारहेड इसकी खासियत है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नागिन सी लहराती 'खैबर' से वार, पानी मांग रहे आयरन डोम-THAAD, ईरान बोला - ये तो हैं पिछली दिवाली के",
-          "summary": "Iran Kheibar Missile ditching THAAD-Iron Dome: ईरान खाड़ी क्षेत्र में अमेरिकी बेस पर लगातार हमले कर रहा है. जॉर्डन बेस पर हुए हमले में दो अमेरिकी सैनिक मारे गए. इन हमलों में तीसरी पीढ़ी की खैबर शेकन मिसाइल अहम भूमिका निभा रही है. 11.4 मीटर लंबी, ठोस ईंधन वाली यह मिसाइल 1450 किमी तक मार कर सकती है. कमर्शियल वाहनों से लॉन्च, सैटेलाइट गाइडेंस और मैन्यूवरेबल वारहेड इसकी खासियत है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तारिक रहमान की रहनुमाई में भी नहीं बदला बांग्लादेश, 6 महीने में 44 अल्पसंख्यकों की मौत, 250 से",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-44-minorities-killed-over-250-incidents-in-six-months-sjn-10697498.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T10:23:51+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Bangladesh-Protest-Reuters-2026-07-6c566a2b6dc389b0e349b8333ad29c4d-1200x800.jpg",
-      "summary": "बांग्लादेश में अल्पसंख्यक समुदायों की सुरक्षा को लेकर एक बार फिर गंभीर सवाल खड़े हो गए हैं. देश के प्रमुख मानवाधिकार संगठन बांग्लादेश हिंदू बौद्ध ईसाई एकता परिषद की नई रिपोर्ट में बताया गया है कि साल 2026 के पहले छह महीनों में देशभर में सांप्रदायिक हिंसा की 257 घटनाएं दर्ज की गईं. इन घटनाओं में 44 लोगों की जान चली गई, जबकि कई लोग घायल हुए और बड़ी संख्या में परिवार प्रभावित हुए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तारिक रहमान की रहनुमाई में भी नहीं बदला बांग्लादेश, 6 महीने में 44 अल्पसंख्यकों की मौत, 250 से",
-          "summary": "बांग्लादेश में अल्पसंख्यक समुदायों की सुरक्षा को लेकर एक बार फिर गंभीर सवाल खड़े हो गए हैं. देश के प्रमुख मानवाधिकार संगठन बांग्लादेश हिंदू बौद्ध ईसाई एकता परिषद की नई रिपोर्ट में बताया गया है कि साल 2026 के पहले छह महीनों में देशभर में सांप्रदायिक हिंसा की 257 घटनाएं दर्ज की गईं. इन घटनाओं में 44 लोगों की जान चली गई, जबकि कई लोग घायल हुए और बड़ी संख्या में परिवार प्रभावित हुए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "2036 तक बेमतलब हो जाएगा पैसा, महंगाई का उल्टा दौर देखेगी दुनिया, क्या है एलन मस्क की भविष्यवाणी का",
-      "url": "https://hindi.news18.com/news/knowledge/elon-musk-prediction-explainer-how-money-will-become-useless-by-2036-due-to-ai-robotics-deflation-replace-inflation-10697510.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T10:10:41+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Elon-Musk-2036-Prediction-2026-07-b5de33288463edf4ff691dcac2a62946-1200x800.jpg",
-      "summary": "एलन मस्क ने एक इंटरव्यू में दावा किया है कि साल 2036 तक पैसे की कोई वैल्यू नहीं रह जाएगी. मस्क ने भविष्यवाणी की है कि आने वाले 10 सालों में दुनिया देखेगी कि महंगाई के उल्टे दौर में जीना कैसा होता है? उन्होंने बताया कि 2036 में AI और रोबोटिक्स ऐसा क्या करने वाले हैं कि एक नए युग की शुरुआत होगी.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "2036 तक बेमतलब हो जाएगा पैसा, महंगाई का उल्टा दौर देखेगी दुनिया, क्या है एलन मस्क की भविष्यवाणी का",
-          "summary": "एलन मस्क ने एक इंटरव्यू में दावा किया है कि साल 2036 तक पैसे की कोई वैल्यू नहीं रह जाएगी. मस्क ने भविष्यवाणी की है कि आने वाले 10 सालों में दुनिया देखेगी कि महंगाई के उल्टे दौर में जीना कैसा होता है? उन्होंने बताया कि 2036 में AI और रोबोटिक्स ऐसा क्या करने वाले हैं कि एक नए युग की शुरुआत होगी.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "साउथ कोरिया में अमेरिकी एयर बेस पर जहरीला केमिकल लीक; प्योंगटेक में मची अफरा-तफरी, इमरजेंसी",
-      "url": "https://www.patrika.com/world-news/south-korea-us-osan-air-base-white-phosphorus-leak-pyeongtaek-20785218",
+      "title": "डोनाल्ड ट्रंप के प्रस्ताव पर भड़क ईरान, कहा- जो देश हमारे फ्रोजन एसेट्स से हर्जाना लेगा, होर्मुज से",
+      "url": "https://www.patrika.com/world-news/iran-us-conflict-khatam-al-anbiya-warns-over-frozen-assets-strait-of-hormuz-shipping-20786137",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-28T09:52:59+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/us-military-base.webp",
-      "summary": "US Osan Air Base: दक्षिण कोरिया के ग्योंगगी प्रांत के प्योंगटेक शहर में मंगलवार को उस वक्त अफरातफरी मच गई। जब वहां मौजूद अमेरिकी एयर बेस (ओसान एयर बेस / K-55) से जहरीले केमिकल व्हाइट फॉस्फोरस के लीक होने की सूचना मिली। बेस के अंदर एक सैन्य वॉरहेड से केमिकल के रिसाव की जानकारी मिलते ही स्थानीय प्रशासन हरकत में आ गया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "साउथ कोरिया में अमेरिकी एयर बेस पर जहरीला केमिकल लीक; प्योंगटेक में मची अफरा-तफरी, इमरजेंसी",
-          "summary": "US Osan Air Base: दक्षिण कोरिया के ग्योंगगी प्रांत के प्योंगटेक शहर में मंगलवार को उस वक्त अफरातफरी मच गई। जब वहां मौजूद अमेरिकी एयर बेस (ओसान एयर बेस / K-55) से जहरीले केमिकल व्हाइट फॉस्फोरस के लीक होने की सूचना मिली। बेस के अंदर एक सैन्य वॉरहेड से केमिकल के रिसाव की जानकारी मिलते ही स्थानीय प्रशासन हरकत में आ गया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बच्चों की AI चैटबोट से 'कट्टी' कराने वाला कानून, तैयार हो चुका है ब्लूप्रिंट, नहीं माना तो भुगतेंगी",
-      "url": "https://hindi.news18.com/world/america-us-senator-proposes-addictive-design-act-bill-for-ai-chatbot-addiction-in-teenage-children-ws-l-10697381.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T09:25:12+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/AI-CHATBOT-2026-07-57830b94171aa6babe05f4e00e42e07f-1200x800.jpg",
-      "summary": "Anti AI Chatbot Law in US: टेक्नोलॉजी के जमाने में आजकल बच्चों से लेकर बड़े तक आर्टिफिशियल इंटेलिजेंस के जाल में उलझ चुके हैं. कहीं तो ये फायदेमंद है तो कहीं ये उनके मानसिक स्वास्थ्य के लिए खतरा बन जाता है. अमेरिका में डेमोक्रेटिक सांसद बेका बालिंट ने इसी समस्या की ओर ध्यान दिलाते हुए एक नया विधेयक पेश किया है, जो टीनएजर्स को ऐसे चैटबोट की लत से बचाएगा.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बच्चों की AI चैटबोट से 'कट्टी' कराने वाला कानून, तैयार हो चुका है ब्लूप्रिंट, नहीं माना तो भुगतेंगी",
-          "summary": "Anti AI Chatbot Law in US: टेक्नोलॉजी के जमाने में आजकल बच्चों से लेकर बड़े तक आर्टिफिशियल इंटेलिजेंस के जाल में उलझ चुके हैं. कहीं तो ये फायदेमंद है तो कहीं ये उनके मानसिक स्वास्थ्य के लिए खतरा बन जाता है. अमेरिका में डेमोक्रेटिक सांसद बेका बालिंट ने इसी समस्या की ओर ध्यान दिलाते हुए एक नया विधेयक पेश किया है, जो टीनएजर्स को ऐसे चैटबोट की लत से बचाएगा.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "साहस की कमी या कुछ और, पाकिस्तान में क्यों नहीं हो सकते CJP जैसे आंदोलन?",
-      "url": "https://www.patrika.com/world-news/why-cant-movements-like-cjp-happen-in-pakistan-gen-z-student-politics-20785020",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-28T09:15:06+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/1-30.jpg",
-      "summary": "Pakistan Gen Z Student Movement: कॉकरोच जनता पार्टी (CJP) के सफल आंदोलन और शिक्षा मंत्री धर्मेन्द्र प्रधान के इस्तीफे के साथ ही भारत उन दक्षिण एशियाई देशों की फेहरिस्त में शुमार हो गया है, जहां छात्रों के नेतृत्व वाले आंदोलनों ने राजनीति की दिशा और दशा बदलने वाला काम किया। 2022 और 2025 के बीच, भारत के पड़ोसी देशों – श्रीलंका, बांग्लादेश और नेपाल में स्टूडेंट्स के नेतृत्व में बगावत हुई और सरकारों क।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "साहस की कमी या कुछ और, पाकिस्तान में क्यों नहीं हो सकते CJP जैसे आंदोलन?",
-          "summary": "Pakistan Gen Z Student Movement: कॉकरोच जनता पार्टी (CJP) के सफल आंदोलन और शिक्षा मंत्री धर्मेन्द्र प्रधान के इस्तीफे के साथ ही भारत उन दक्षिण एशियाई देशों की फेहरिस्त में शुमार हो गया है, जहां छात्रों के नेतृत्व वाले आंदोलनों ने राजनीति की दिशा और दशा बदलने वाला काम किया। 2022 और 2025 के बीच, भारत के पड़ोसी देशों – श्रीलंका, बांग्लादेश और नेपाल में स्टूडेंट्स के नेतृत्व में बगावत हुई और सरकारों क।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "न्यूयॉर्क मेयर ममदानी और इजरायली पीएम नेतन्याहू के बीच किस बात पर हुआ टकराव? एक-दूसरे पर लगाए गंभीर",
-      "url": "https://www.patrika.com/world-news/why-zoharan-mamdani-and-netanyahu-are-clashing-know-controversy-20784803",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-28T07:45:02+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/netanyahu-mamdani-.webp",
-      "summary": "Benjamin Netanyahu-Zohran Mamdani Controversy: न्यूयॉर्क के मेयर जोहरान ममदानी और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच जुबानी जंग तेज हो गई है। विवाद की वजह ICC, न्यूयॉर्क दौरा और यहूदी समुदाय की सुरक्षा है। दोनों नेताओं ने एक-दूसरे पर गंभीर आरोप लगाए हैं। ममदानी का कहना है कि उन्हें नेतन्याहू से बातचीत में कोई दिलचस्पी नहीं है। जबकि नेतन्याहू का आरोप है कि मेयर की बयानबाजी नफरत का माह।",
+      "published_at": "2026-07-28T14:17:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/03/Ebrahim-Zolfaghari.webp",
+      "summary": "ईरान ने डोनाल्ड ट्रंप के फ्रोजन एसेट्स से हर्जाना लेने के प्रस्ताव पर आपत्ति जताई। Iran-US Conflict: अमेरिका और ईरान के बीच चल रहे सैन्य तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ‘ट्रुथ सोशल’ पर जारी एक बयान में कहा था कि स्ट्रेट ऑफ होर्मुज में कमर्शियल जहाजों और कार्गो को हुए नुकसान की भरपाई ईरान की उन संपत्तियों से की जाए जो अभी अमेरिका के नियंत्रण में फ्रीज हैं।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "न्यूयॉर्क मेयर ममदानी और इजरायली पीएम नेतन्याहू के बीच किस बात पर हुआ टकराव? एक-दूसरे पर लगाए गंभीर",
-          "summary": "Benjamin Netanyahu-Zohran Mamdani Controversy: न्यूयॉर्क के मेयर जोहरान ममदानी और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच जुबानी जंग तेज हो गई है। विवाद की वजह ICC, न्यूयॉर्क दौरा और यहूदी समुदाय की सुरक्षा है। दोनों नेताओं ने एक-दूसरे पर गंभीर आरोप लगाए हैं। ममदानी का कहना है कि उन्हें नेतन्याहू से बातचीत में कोई दिलचस्पी नहीं है। जबकि नेतन्याहू का आरोप है कि मेयर की बयानबाजी नफरत का माह।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जंतर-मंतर हिंसा के बाद पुलिस परिवारों की SC से गुहार- ‘हमें भी...’",
-      "url": "https://www.abplive.com/news/india/delhi-jantar-mantar-parliament-march-protest-families-of-injured-policemen-filed-petition-in-sc-ann-3166813",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-28T07:27:08+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/28/ef002dcb14a15d3d4ecb6cfffa81969017852211089151115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "दिल्ली के जंतर-मंतर पर छात्रों के 'संसद चलो' प्रदर्शन के दौरान हिंसा का शिकार हुए ऑन-ड्यूटी पुलिसकर्मियों के परिवार ने सुप्रीम कोर्ट का दरवाजा खटखटाया है. उन्होंने मांग की है कि ऑन-ड्यूटी पुलिसकर्मियों को भी आम नागरिकों की तरह जीवन और व्यक्तिगत स्वतंत्रता के मौलिक अधिकार का संरक्षण प्रदान किया जाए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जंतर-मंतर हिंसा के बाद पुलिस परिवारों की SC से गुहार- ‘हमें भी...’",
-          "summary": "दिल्ली के जंतर-मंतर पर छात्रों के 'संसद चलो' प्रदर्शन के दौरान हिंसा का शिकार हुए ऑन-ड्यूटी पुलिसकर्मियों के परिवार ने सुप्रीम कोर्ट का दरवाजा खटखटाया है. उन्होंने मांग की है कि ऑन-ड्यूटी पुलिसकर्मियों को भी आम नागरिकों की तरह जीवन और व्यक्तिगत स्वतंत्रता के मौलिक अधिकार का संरक्षण प्रदान किया जाए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान जंग शुरू होने के बाद ट्रंप-नेतन्याहू की पहली बैठक, मतभेदों के बीच क्या है इस्राइल का प्लान?",
-      "url": "https://www.amarujala.com/world/netanyahu-s-first-meeting-with-trump-since-iran-war-began-is-chance-to-smooth-over-strains-2026-07-28",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-28T07:13:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/danalda-tarapa-bjamana-natanayaha_7239d3c98041c00d818c622a410763c1.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और इस्राइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान जंग शुरू होने के बाद अपनी पहली बैठक की। इस बैठक में दोनों नेताओं ने ईरान के साथ तनाव को कम करने के तरीकों पर चर्चा की। नेतन्याहू ने ईरान के खिलाफ सख्त कार्रवाई की मांग की। US-Israel: ईरान जंग शुरू होने के बाद ट्रंप-नेतन्याहू की पहली बैठक, मतभेदों के बीच क्या है इस्राइल का प्लान?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान जंग शुरू होने के बाद ट्रंप-नेतन्याहू की पहली बैठक, मतभेदों के बीच क्या है इस्राइल का प्लान?",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और इस्राइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान जंग शुरू होने के बाद अपनी पहली बैठक की। इस बैठक में दोनों नेताओं ने ईरान के साथ तनाव को कम करने के तरीकों पर चर्चा की। नेतन्याहू ने ईरान के खिलाफ सख्त कार्रवाई की मांग की। US-Israel: ईरान जंग शुरू होने के बाद ट्रंप-नेतन्याहू की पहली बैठक, मतभेदों के बीच क्या है इस्राइल का प्लान?",
+          "title": "डोनाल्ड ट्रंप के प्रस्ताव पर भड़क ईरान, कहा- जो देश हमारे फ्रोजन एसेट्स से हर्जाना लेगा, होर्मुज से",
+          "summary": "ईरान ने डोनाल्ड ट्रंप के फ्रोजन एसेट्स से हर्जाना लेने के प्रस्ताव पर आपत्ति जताई। Iran-US Conflict: अमेरिका और ईरान के बीच चल रहे सैन्य तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ‘ट्रुथ सोशल’ पर जारी एक बयान में कहा था कि स्ट्रेट ऑफ होर्मुज में कमर्शियल जहाजों और कार्गो को हुए नुकसान की भरपाई ईरान की उन संपत्तियों से की जाए जो अभी अमेरिका के नियंत्रण में फ्रीज हैं।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
