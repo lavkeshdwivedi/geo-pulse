@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-07-28T09:02:46.115455+00:00",
-  "article_count": 50,
-  "total_unique_count": 278,
+  "generated_at": "2026-07-28T10:52:37.610827+00:00",
+  "article_count": 46,
+  "total_unique_count": 267,
   "digest": {
-    "en": "The U.S. Senate is poised to confirm Jay Clayton as the next Intelligence Director, a move that could reshape America's spy agencies. Meanwhile, extreme rainfall across Asia is causing flash floods and typhoons, displacing thousands and testing regional disaster response systems. In a separate development, China has launched a satellite into orbit, marking a new milestone in its space race with SpaceX.",
-    "hi": "पाकिस्तानी सेना के खिलाफ आंदोलन की कमी को लेकर सवाल उठ रहे हैं क्योंकि पाकिस्तान के सुप्रीम कोर्ट के पूर्व चीफ जस्टिस इफ्तिखार चौधरी के समर्थन में आंदोलन की उम्मीदें टूट गई हैं। इसके बजाय, पाकिस्तान में BLA के हमलों को लेकर चिंताएं बढ़ रही हैं।"
+    "en": "Javier Milei's accusations against US Democrats dominate the headlines, with the Argentine president claiming a 'anti-Argentina campaign' at the World Cup. Meanwhile, Canada's GCAP fighter move tests the limits of US diversification efforts in the region. Central Asian countries are increasingly looking beyond Iran for trade routes, driven by the ongoing war.",
+    "hi": "नागिन सी लहराती 'खैबर' से वार, पानी मांग रहे आयरन डोम-THAAD, ईरान बोला - ये तो हैं पिछली दिवाली के. इस बार भी पानी की कमी के कारण ईरान के आयरन डोम और THAAD प्रणाली को काम करने में परेशानी हो रही है. ईरान ने कहा है कि ये प्रणाली पिछली दिवाली के समय भी काम नहीं कर रही थी."
   },
   "articles": [
+    {
+      "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
+      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-28T10:21:46+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/86aeafb5c20cd5724a6740beae18fce5628841ac/660_0_3298_2639/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ecf12c0d176b9e99f531f9f7daa0f76",
+      "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Canada’s GCAP fighter move tests limits of US diversification",
+      "url": "https://asiatimes.com/2026/07/canadas-gcap-fighter-move-tests-limits-of-us-diversification/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-28T10:05:06+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/GCAP-Fighter-Europe-Japan-.jpg",
+      "summary": "Canada’s entry into the Global Combat Air Program (GCAP) highlights a broader strategic dilemma: how to modernize its air force without deepening dependence on any single supplier or undermining the interoperability on which its defense commitments rely.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Zelenskyy To Meet Trump As Former Envoys See Chance To Cement US Support",
+      "url": "https://www.rferl.org/a/ukraine-zelenskyy-trump-talks-washigton/33816609.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-28T09:43:00+00:00",
+      "image_url": "https://gdb.rferl.org/f2c5de0e-1750-418e-7df2-08ddfa912cba_w1200_h630.jpg",
+      "summary": "Ukrainian President Volodymyr Zelenskyy arrived in Washington on July 28 at what may be one of the most consequential moments in US-Ukraine relations since Donald Trump's return to the White House, as Ukraine launched a large-scale drone attack on the Moscow region. Zelenskyy To Meet Trump As Former Envoys See Chance To Cement US Support.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Vietnam’s smart-port push opens another door to Washington",
+      "url": "https://asiatimes.com/2026/07/vietnams-smart-port-push-opens-another-door-to-washington/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-28T09:28:12+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Da-Nang-Vietnam-Port.jpg",
+      "summary": "Vietnam’s effort to modernize Da Nang’s maritime infrastructure may look at first like another Asian port-development project, but it is considerably more important than that. The transformation underway along Vietnam’s central coast brings together three priorities that increasingly define Hanoi’s foreign policy: economic modernization, technological self-reliance and stronger maritime awareness Vietnam’s smart-port push opens another door to Washington.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "U.S. Senate expected to confirm Jay Clayton as next Intelligence Director",
       "url": "https://www.thehindu.com/news/international/us-senate-expected-to-confirm-jay-clayton-as-next-intelligence-director/article71275573.ece",
@@ -140,18 +188,6 @@
       "translations": {}
     },
     {
-      "title": "China takes satellite race with SpaceX to sea",
-      "url": "https://asiatimes.com/2026/07/china-takes-satellite-race-with-spacex-to-sea/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-07-27T03:30:29+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/China-Rocket-Launch.jpeg",
-      "summary": "China’s latest sea-based rocket launch shows how mobile launch platforms, onboard artificial intelligence and expanding commercial constellations are converging into a broader Chinese effort to strengthen military resilience, accelerate satellite deployment and compete for economic influence across an increasingly contested orbital domain. This month, multiple media outlets reported that Chinese c China takes satellite race with SpaceX to sea.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Zelenskyy Becomes First Foreign Visitor For New British PM Burnham",
       "url": "https://www.rferl.org/a/zelenskyy-ukraine-burnham-britain-russia-trump/33813436.html",
       "source": "Radio Free Europe / Liberty",
@@ -200,42 +236,6 @@
       "translations": {}
     },
     {
-      "title": "Attacks On Chinese Projects Test China-Pakistan 'Iron Brotherhood' In Balochistan",
-      "url": "https://www.rferl.org/a/pakistan-china-balochistan-investments-attacks/33812355.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-25T08:12:05+00:00",
-      "image_url": "https://gdb.rferl.org/01000000-0aff-0242-0c55-08db91b679e7_cx0_cy6_cw0_w1200_h630.jpg",
-      "summary": "China's investments in Pakistan's Balochistan are increasingly at risk as attacks by separatists are on the rise in the impoverished region. The worsening security situation has strained ties between the Iron Brothers, raising concerns over the future of Beijing's investments in Pakistan. Attacks On Chinese Projects Test China-Pakistan 'Iron Brotherhood' In Balochistan.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump Says Iran 'Far More Serious' In Talks, Even As Attacks Intensify, Widen In Region",
-      "url": "https://www.rferl.org/a/iran-talks-houthi-yemen-gulf-trump/33812472.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-24T23:02:42+00:00",
-      "image_url": "https://gdb.rferl.org/6c02284d-a8e5-4e54-986b-dd345f4013ed_w1200_h630.jpg",
-      "summary": "US President Donald ⁠Trump ⁠said Washington and Tehran were still conducting negotiations to end their conflict -- even as attacks intensified throughout the region, further threatening to widen the conflict into a full-blown Middle East war. Trump Says Iran 'Far More Serious' In Talks, Even As Attacks Intensify, Widen In Region.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
-      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-24T15:28:37+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/131bcac7d75675b6976a87471c6f8d7e9c0298d2/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aeff344432578054226343805d43daa8",
-      "summary": "Guyanese authorities confirm 72 deaths after a state ferry capsized off the coast, leaving 179 people aboard. Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodiesThe confirmed death toll from the recent capsizing of a state ferry off Guyana’s coast has risen to 72, with more bodies recovered as a multinational team struggle to salvage the partially submerged vessel. Of the estimated 179 people aboard, 76 people were rescued.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168021",
       "source": "UN News",
@@ -260,59 +260,101 @@
       "translations": {}
     },
     {
-      "title": "On Our Radar",
-      "url": "https://www.crisisgroup.org/sco/global/our-radar",
-      "source": "International Crisis Group",
+      "title": "नागिन सी लहराती 'खैबर' से वार, पानी मांग रहे आयरन डोम-THAAD, ईरान बोला - ये तो हैं पिछली दिवाली के",
+      "url": "https://hindi.news18.com/world/middle-east-how-iran-kheibar-missile-ditching-thaad-iron-dome-tehran-says-new-missiles-are-not-used-yet-10697410.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-03T19:07:00+00:00",
-      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.",
+      "published_at": "2026-07-28T10:35:07+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/thaas-iran-2026-07-7f5dce778cb60851b4be38a37844a488-1200x800.jpg",
+      "summary": "Iran Kheibar Missile ditching THAAD-Iron Dome: ईरान खाड़ी क्षेत्र में अमेरिकी बेस पर लगातार हमले कर रहा है. जॉर्डन बेस पर हुए हमले में दो अमेरिकी सैनिक मारे गए. इन हमलों में तीसरी पीढ़ी की खैबर शेकन मिसाइल अहम भूमिका निभा रही है. 11.4 मीटर लंबी, ठोस ईंधन वाली यह मिसाइल 1450 किमी तक मार कर सकती है. कमर्शियल वाहनों से लॉन्च, सैटेलाइट गाइडेंस और मैन्यूवरेबल वारहेड इसकी खासियत है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नागिन सी लहराती 'खैबर' से वार, पानी मांग रहे आयरन डोम-THAAD, ईरान बोला - ये तो हैं पिछली दिवाली के",
+          "summary": "Iran Kheibar Missile ditching THAAD-Iron Dome: ईरान खाड़ी क्षेत्र में अमेरिकी बेस पर लगातार हमले कर रहा है. जॉर्डन बेस पर हुए हमले में दो अमेरिकी सैनिक मारे गए. इन हमलों में तीसरी पीढ़ी की खैबर शेकन मिसाइल अहम भूमिका निभा रही है. 11.4 मीटर लंबी, ठोस ईंधन वाली यह मिसाइल 1450 किमी तक मार कर सकती है. कमर्शियल वाहनों से लॉन्च, सैटेलाइट गाइडेंस और मैन्यूवरेबल वारहेड इसकी खासियत है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-      "url": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-      "source": "International Crisis Group",
+      "title": "तारिक रहमान की रहनुमाई में भी नहीं बदला बांग्लादेश, 6 महीने में 44 अल्पसंख्यकों की मौत, 250 से",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-44-minorities-killed-over-250-incidents-in-six-months-sjn-10697498.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-30T15:20:00+00:00",
-      "image_url": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group. New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-28T10:23:51+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Bangladesh-Protest-Reuters-2026-07-6c566a2b6dc389b0e349b8333ad29c4d-1200x800.jpg",
+      "summary": "बांग्लादेश में अल्पसंख्यक समुदायों की सुरक्षा को लेकर एक बार फिर गंभीर सवाल खड़े हो गए हैं. देश के प्रमुख मानवाधिकार संगठन बांग्लादेश हिंदू बौद्ध ईसाई एकता परिषद की नई रिपोर्ट में बताया गया है कि साल 2026 के पहले छह महीनों में देशभर में सांप्रदायिक हिंसा की 257 घटनाएं दर्ज की गईं. इन घटनाओं में 44 लोगों की जान चली गई, जबकि कई लोग घायल हुए और बड़ी संख्या में परिवार प्रभावित हुए.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तारिक रहमान की रहनुमाई में भी नहीं बदला बांग्लादेश, 6 महीने में 44 अल्पसंख्यकों की मौत, 250 से",
+          "summary": "बांग्लादेश में अल्पसंख्यक समुदायों की सुरक्षा को लेकर एक बार फिर गंभीर सवाल खड़े हो गए हैं. देश के प्रमुख मानवाधिकार संगठन बांग्लादेश हिंदू बौद्ध ईसाई एकता परिषद की नई रिपोर्ट में बताया गया है कि साल 2026 के पहले छह महीनों में देशभर में सांप्रदायिक हिंसा की 257 घटनाएं दर्ज की गईं. इन घटनाओं में 44 लोगों की जान चली गई, जबकि कई लोग घायल हुए और बड़ी संख्या में परिवार प्रभावित हुए.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
-      "title": "NATO in Türkiye/Türkiye in NATO",
-      "url": "https://www.crisisgroup.org/pod/europe/turkiye/nato-turkiyeturkiye-nato",
-      "source": "International Crisis Group",
+      "title": "2036 तक बेमतलब हो जाएगा पैसा, महंगाई का उल्टा दौर देखेगी दुनिया, क्या है एलन मस्क की भविष्यवाणी का",
+      "url": "https://hindi.news18.com/news/knowledge/elon-musk-prediction-explainer-how-money-will-become-useless-by-2036-due-to-ai-robotics-deflation-replace-inflation-10697510.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/17854295/pexels-photo-17854295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "This week on War & Peace, Olga speaks with Galip Dalay, senior research fellow at Chatham House, about Türkiye’s evolving relations within NATO and with the EU as Ankara prepares to host the upcoming NATO summit in July. NATO in Türkiye/Türkiye in NATO.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-28T10:10:41+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Elon-Musk-2036-Prediction-2026-07-b5de33288463edf4ff691dcac2a62946-1200x800.jpg",
+      "summary": "एलन मस्क ने एक इंटरव्यू में दावा किया है कि साल 2036 तक पैसे की कोई वैल्यू नहीं रह जाएगी. मस्क ने भविष्यवाणी की है कि आने वाले 10 सालों में दुनिया देखेगी कि महंगाई के उल्टे दौर में जीना कैसा होता है? उन्होंने बताया कि 2036 में AI और रोबोटिक्स ऐसा क्या करने वाले हैं कि एक नए युग की शुरुआत होगी.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "2036 तक बेमतलब हो जाएगा पैसा, महंगाई का उल्टा दौर देखेगी दुनिया, क्या है एलन मस्क की भविष्यवाणी का",
+          "summary": "एलन मस्क ने एक इंटरव्यू में दावा किया है कि साल 2036 तक पैसे की कोई वैल्यू नहीं रह जाएगी. मस्क ने भविष्यवाणी की है कि आने वाले 10 सालों में दुनिया देखेगी कि महंगाई के उल्टे दौर में जीना कैसा होता है? उन्होंने बताया कि 2036 में AI और रोबोटिक्स ऐसा क्या करने वाले हैं कि एक नए युग की शुरुआत होगी.",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
-      "title": "Will “El Tigre” Colombia’s New President Launch Another War on Drugs?",
-      "url": "https://www.crisisgroup.org/pod/latin-america-caribbean/colombia/will-el-tigre-colombias-new-president-launch-another-war-drugs",
-      "source": "International Crisis Group",
+      "title": "साउथ कोरिया में अमेरिकी एयर बेस पर जहरीला केमिकल लीक; प्योंगटेक में मची अफरा-तफरी, इमरजेंसी",
+      "url": "https://www.patrika.com/world-news/south-korea-us-osan-air-base-white-phosphorus-leak-pyeongtaek-20785218",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-06-26T15:39:00+00:00",
-      "image_url": "https://images.pexels.com/photos/12470916/pexels-photo-12470916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "This week on Hold Your Fire!, Richard speaks with Crisis Group experts Renata Segura and Elizabeth Dickinson about Colombia’s turbulent election, president-elect Abelardo “El Tigre” de la Espriella’s hardline promises to fight armed groups and the legacy of outgoing President Gustavo Petro’s signature policy of “Total Peace”. Will “El Tigre” Colombia’s New President Launch Another War on Drugs?",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-28T09:52:59+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/us-military-base.webp",
+      "summary": "US Osan Air Base: दक्षिण कोरिया के ग्योंगगी प्रांत के प्योंगटेक शहर में मंगलवार को उस वक्त अफरातफरी मच गई। जब वहां मौजूद अमेरिकी एयर बेस (ओसान एयर बेस / K-55) से जहरीले केमिकल व्हाइट फॉस्फोरस के लीक होने की सूचना मिली। बेस के अंदर एक सैन्य वॉरहेड से केमिकल के रिसाव की जानकारी मिलते ही स्थानीय प्रशासन हरकत में आ गया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "साउथ कोरिया में अमेरिकी एयर बेस पर जहरीला केमिकल लीक; प्योंगटेक में मची अफरा-तफरी, इमरजेंसी",
+          "summary": "US Osan Air Base: दक्षिण कोरिया के ग्योंगगी प्रांत के प्योंगटेक शहर में मंगलवार को उस वक्त अफरातफरी मच गई। जब वहां मौजूद अमेरिकी एयर बेस (ओसान एयर बेस / K-55) से जहरीले केमिकल व्हाइट फॉस्फोरस के लीक होने की सूचना मिली। बेस के अंदर एक सैन्य वॉरहेड से केमिकल के रिसाव की जानकारी मिलते ही स्थानीय प्रशासन हरकत में आ गया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बच्चों की AI चैटबोट से 'कट्टी' कराने वाला कानून, तैयार हो चुका है ब्लूप्रिंट, नहीं माना तो भुगतेंगी",
+      "url": "https://hindi.news18.com/world/america-us-senator-proposes-addictive-design-act-bill-for-ai-chatbot-addiction-in-teenage-children-ws-l-10697381.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-28T09:25:12+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/AI-CHATBOT-2026-07-57830b94171aa6babe05f4e00e42e07f-1200x800.jpg",
+      "summary": "Anti AI Chatbot Law in US: टेक्नोलॉजी के जमाने में आजकल बच्चों से लेकर बड़े तक आर्टिफिशियल इंटेलिजेंस के जाल में उलझ चुके हैं. कहीं तो ये फायदेमंद है तो कहीं ये उनके मानसिक स्वास्थ्य के लिए खतरा बन जाता है. अमेरिका में डेमोक्रेटिक सांसद बेका बालिंट ने इसी समस्या की ओर ध्यान दिलाते हुए एक नया विधेयक पेश किया है, जो टीनएजर्स को ऐसे चैटबोट की लत से बचाएगा.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बच्चों की AI चैटबोट से 'कट्टी' कराने वाला कानून, तैयार हो चुका है ब्लूप्रिंट, नहीं माना तो भुगतेंगी",
+          "summary": "Anti AI Chatbot Law in US: टेक्नोलॉजी के जमाने में आजकल बच्चों से लेकर बड़े तक आर्टिफिशियल इंटेलिजेंस के जाल में उलझ चुके हैं. कहीं तो ये फायदेमंद है तो कहीं ये उनके मानसिक स्वास्थ्य के लिए खतरा बन जाता है. अमेरिका में डेमोक्रेटिक सांसद बेका बालिंट ने इसी समस्या की ओर ध्यान दिलाते हुए एक नया विधेयक पेश किया है, जो टीनएजर्स को ऐसे चैटबोट की लत से बचाएगा.",
+          "region": "अमेरिका"
+        }
+      }
     },
     {
       "title": "साहस की कमी या कुछ और, पाकिस्तान में क्यों नहीं हो सकते CJP जैसे आंदोलन?",
-      "url": "https://www.patrika.com/bharat-news/why-cant-movements-like-cjp-happen-in-pakistan-gen-z-student-politics-20785020",
+      "url": "https://www.patrika.com/world-news/why-cant-movements-like-cjp-happen-in-pakistan-gen-z-student-politics-20785020",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-28T08:51:23+00:00",
+      "published_at": "2026-07-28T09:15:06+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/1-30.jpg",
       "summary": "Pakistan Gen Z Student Movement: कॉकरोच जनता पार्टी (CJP) के सफल आंदोलन और शिक्षा मंत्री धर्मेन्द्र प्रधान के इस्तीफे के साथ ही भारत उन दक्षिण एशियाई देशों की फेहरिस्त में शुमार हो गया है, जहां छात्रों के नेतृत्व वाले आंदोलनों ने राजनीति की दिशा और दशा बदलने वाला काम किया।",
       "region": "Asia-Pacific",
@@ -416,6 +458,24 @@
       }
     },
     {
+      "title": "जंतर-मंतर हिंसा के बाद पुलिस परिवारों की SC से गुहार- ‘हमें भी...’",
+      "url": "https://www.abplive.com/news/india/delhi-jantar-mantar-parliament-march-protest-families-of-injured-policemen-filed-petition-in-sc-ann-3166813",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-28T07:27:08+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/28/ef002dcb14a15d3d4ecb6cfffa81969017852211089151115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "दिल्ली के जंतर-मंतर पर छात्रों के 'संसद चलो' प्रदर्शन के दौरान हिंसा का शिकार हुए ऑन-ड्यूटी पुलिसकर्मियों के परिवार ने सुप्रीम कोर्ट का दरवाजा खटखटाया है. उन्होंने मांग की है कि ऑन-ड्यूटी पुलिसकर्मियों को भी आम नागरिकों की तरह जीवन और व्यक्तिगत स्वतंत्रता के मौलिक अधिकार का संरक्षण प्रदान किया जाए.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जंतर-मंतर हिंसा के बाद पुलिस परिवारों की SC से गुहार- ‘हमें भी...’",
+          "summary": "दिल्ली के जंतर-मंतर पर छात्रों के 'संसद चलो' प्रदर्शन के दौरान हिंसा का शिकार हुए ऑन-ड्यूटी पुलिसकर्मियों के परिवार ने सुप्रीम कोर्ट का दरवाजा खटखटाया है. उन्होंने मांग की है कि ऑन-ड्यूटी पुलिसकर्मियों को भी आम नागरिकों की तरह जीवन और व्यक्तिगत स्वतंत्रता के मौलिक अधिकार का संरक्षण प्रदान किया जाए.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "पाकिस्तान के बलूचिस्तान में BLA का 'स्पेशल ऑपरेशन', हब कोह हमले की ली जिम्मेदारी",
       "url": "https://hindi.news18.com/news/defence/bla-claims-responsibility-for-hub-koh-special-operation-in-pakistan-balochistan-ws-l-10696663.html",
       "source": "News18 Hindi (World)",
@@ -436,7 +496,7 @@
     {
       "title": "ईरान जंग शुरू होने के बाद ट्रंप-नेतन्याहू की पहली बैठक, मतभेदों के बीच क्या है इस्राइल का प्लान?",
       "url": "https://www.amarujala.com/world/netanyahu-s-first-meeting-with-trump-since-iran-war-began-is-chance-to-smooth-over-strains-2026-07-28",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-28T07:13:32+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/danalda-tarapa-bjamana-natanayaha_7239d3c98041c00d818c622a410763c1.jpeg?w=1200&dpr=1.0",
@@ -465,6 +525,24 @@
         "hi": {
           "title": "प्रेम विवाह पर परिवार का विरोध, बेटी की तस्वीर जलाकर सभी रिश्ते किए खत्म; जानें क्या है गोरनी रस्म?",
           "summary": "उज्जैन जिले के खाचरौद में अलग समाज के युवक से प्रेम विवाह करने पर नाराज एक परिवार ने अपनी जीवित 18 वर्षीय बेटी का प्रतीकात्मक अंतिम संस्कार कर दिया। परिवार ने बेटी की तस्वीर को अग्नि दी, 'गोरनी' की रस्म निभाई। प्रेम विवाह पर परिवार का विरोध, बेटी की तस्वीर जलाकर सभी रिश्ते किए खत्म; जानें क्या है गोरनी रस्म?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बांकीपुर उपचुनाव पर BJP अध्यक्ष नितिन नवीन ने कर डाली बड़ी भविष्यवाणी",
+      "url": "https://www.abplive.com/news/india/bihar-bankipur-assembly-by-election-bjp-president-nitin-nabeen-claimed-victory-ann-3166797",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-28T06:54:44+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/28/bef571ae5fadaa68c8c03258c12aa8b717852195757331115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "बिहार बीजेपी के राष्ट्रीय अध्यक्ष नितिन नवीन ने बांकीपुर विधानसभा उपचुनाव को लेकर भरोसा जताया है कि इस बार भी जनता बीजेपी को अपना समर्थन देगी. उन्होंने कहा कि शुरुआत से ही बांकीपुर विधानसभा क्षेत्र की जनता का BJP और NDA के साथ गहरा जुड़ाव रहा है. नितिन नवीन ने कहा कि उनके पिता स्वर्गीय नवीन किशोर सिन्हा के समय से ही इस क्षेत्र की जनता बीजेपी के साथ खड़ी रही है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांकीपुर उपचुनाव पर BJP अध्यक्ष नितिन नवीन ने कर डाली बड़ी भविष्यवाणी",
+          "summary": "बिहार बीजेपी के राष्ट्रीय अध्यक्ष नितिन नवीन ने बांकीपुर विधानसभा उपचुनाव को लेकर भरोसा जताया है कि इस बार भी जनता बीजेपी को अपना समर्थन देगी. उन्होंने कहा कि शुरुआत से ही बांकीपुर विधानसभा क्षेत्र की जनता का BJP और NDA के साथ गहरा जुड़ाव रहा है. नितिन नवीन ने कहा कि उनके पिता स्वर्गीय नवीन किशोर सिन्हा के समय से ही इस क्षेत्र की जनता बीजेपी के साथ खड़ी रही है.",
           "region": "दुनिया"
         }
       }
@@ -506,19 +584,19 @@
       }
     },
     {
-      "title": "पेपर लीक बिल पर घेराबंदी की तैयारी में विपक्ष?: राहुल गांधी करेंगे अगुवाई; प्रियंका भी लेंगी चर्चा",
-      "url": "https://www.amarujala.com/india-news/rahul-gandhi-priyanka-to-lead-congress-on-paper-leak-bill-demand-answers-on-police-action-2026-07-28",
-      "source": "Amar Ujala Breaking",
+      "title": "ममता के लिए आफत! सामने आई NCPI के सभी MPs की लिस्ट, अब क्या होगा?",
+      "url": "https://www.abplive.com/news/india/ncpi-lok-sabha-leader-sudip-bandopadhyay-full-list-rebel-tmc-mp-kakoli-ghosh-dastidar-and-satabdi-roy-3166788",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-07-28T06:25:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/rahal-gathha_36827855d2617cbe808630ed10f216b8.jpeg?w=1200&dpr=1.0",
-      "summary": "में हिस्सा--Rahul Gandhi, Priyanka to Lead Congress on Paper Leak Bill, Demand Answers on Police Action पेपर लीक बिल पर घेराबंदी की तैयारी में विपक्ष?: राहुल गांधी करेंगे अगुवाई; प्रियंका भी लेंगी चर्चा।",
+      "published_at": "2026-07-28T06:22:18+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/28/7615c420c4aae68f4f545d9dadea636e17852192382361200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "लोकसभा में एनसीपीआई नेता सुदीप बंदोपाध्याय ने ममता बनर्जी की तृणमूल कांग्रेस से अलग हुए 19 सांसदों की सूची दी है. इनमें काकोली घोष दस्तीदार, शताब्दी रॉय, बापी हलदर और डॉ. शर्मिला सरकार शामिल हैं. यह सूची 18 मई को लोकसभा अध्यक्ष के कार्यालय को भेजी गई थी. लोकसभा में एनसीपीआई नेता सुदीप बंदोपाध्याय (कोलकाता उत्तर) ने ममता बनर्जी की तृणमूल कांग्रेस (टीएमसी) से अलग हुए 20 सांसदों में से 19 की सूची दी है, जिन्होंने 18 मई को लोकसभा अध्यक्ष के कार्यालय को अपने नाम भेजे थे.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पेपर लीक बिल पर घेराबंदी की तैयारी में विपक्ष?: राहुल गांधी करेंगे अगुवाई; प्रियंका भी लेंगी चर्चा",
-          "summary": "में हिस्सा--Rahul Gandhi, Priyanka to Lead Congress on Paper Leak Bill, Demand Answers on Police Action पेपर लीक बिल पर घेराबंदी की तैयारी में विपक्ष?: राहुल गांधी करेंगे अगुवाई; प्रियंका भी लेंगी चर्चा।",
+          "title": "ममता के लिए आफत! सामने आई NCPI के सभी MPs की लिस्ट, अब क्या होगा?",
+          "summary": "लोकसभा में एनसीपीआई नेता सुदीप बंदोपाध्याय ने ममता बनर्जी की तृणमूल कांग्रेस से अलग हुए 19 सांसदों की सूची दी है. इनमें काकोली घोष दस्तीदार, शताब्दी रॉय, बापी हलदर और डॉ. शर्मिला सरकार शामिल हैं. यह सूची 18 मई को लोकसभा अध्यक्ष के कार्यालय को भेजी गई थी. लोकसभा में एनसीपीआई नेता सुदीप बंदोपाध्याय (कोलकाता उत्तर) ने ममता बनर्जी की तृणमूल कांग्रेस (टीएमसी) से अलग हुए 20 सांसदों में से 19 की सूची दी है, जिन्होंने 18 मई को लोकसभा अध्यक्ष के कार्यालय को अपने नाम भेजे थे.",
           "region": "दुनिया"
         }
       }
@@ -578,6 +656,24 @@
       }
     },
     {
+      "title": "'जांच करें, एक्शन न लें', प्रदर्शन में लाठीचार्ज पर 8 राज्यों को SC का नोटिस",
+      "url": "https://www.abplive.com/news/india/supreme-court-said-for-investigation-cjp-protest-delhi-police-lathi-charge-jantar-mantar-3166799",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-28T06:07:50+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/28/cadf05b49560c364129068d24996621a1785219066203344_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "सुप्रीम कोर्ट ने दिल्ली के जंतर-मंतर पर प्रदर्शन के दौरान हुए लाठीचार्ज मामले में 8 राज्यों को नोटिस जारी किया है. चीफ जस्टिस ऑफ इंडिया सूर्यकांत ने कहा कि मामले की जांच होनी चाहिए और जवाबदेही तय होनी चाहिए. सुप्रीम कोर्ट ने राज्यों से कहा है कि वे जांच करें लेकिन अभी कोई एक्शन न लें. दिल्ली के जंतर-मंतर पर हुए प्रदर्शन के दौरान पुलिस ने लाठीचार्ज किया था और भीड़ को नियंत्रित करने के लिए आंसूगैस के गोले भी छोड़े थे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'जांच करें, एक्शन न लें', प्रदर्शन में लाठीचार्ज पर 8 राज्यों को SC का नोटिस",
+          "summary": "सुप्रीम कोर्ट ने दिल्ली के जंतर-मंतर पर प्रदर्शन के दौरान हुए लाठीचार्ज मामले में 8 राज्यों को नोटिस जारी किया है. चीफ जस्टिस ऑफ इंडिया सूर्यकांत ने कहा कि मामले की जांच होनी चाहिए और जवाबदेही तय होनी चाहिए. सुप्रीम कोर्ट ने राज्यों से कहा है कि वे जांच करें लेकिन अभी कोई एक्शन न लें. दिल्ली के जंतर-मंतर पर हुए प्रदर्शन के दौरान पुलिस ने लाठीचार्ज किया था और भीड़ को नियंत्रित करने के लिए आंसूगैस के गोले भी छोड़े थे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "‘अल्लाह ने मुझे औरतों को मारने का आदेश दिया’, पेरिस में तीन महिलाओं पर चाकू से हमला करने वाले आरोपी",
       "url": "https://www.patrika.com/world-news/paris-knife-attack-man-who-attacked-three-woman-says-allah-commanded-him-to-commit-the-crime-20784385",
       "source": "Patrika (World)",
@@ -596,164 +692,20 @@
       }
     },
     {
-      "title": "मेलानिया और बैरन ट्रंप के खिलाफ ईरान ने जारी किया धमकी भरा वीडियो, सुरक्षा चिंता बढ़ी; क्या है पूरा",
-      "url": "https://www.amarujala.com/world/iran-propaganda-video-targets-melania-barron-trump-2026-07-28",
-      "source": "Amar Ujala World",
+      "title": "NEET आंदोलनकारियों को बिहार-असम में बड़ी राहत, बंगाल खामोश!",
+      "url": "https://www.abplive.com/news/india/neet-paper-leak-protests-bihar-assam-governments-provide-relief-to-protesters-west-bengal-no-official-announcement-3166769",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-07-28T05:33:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/danalda-tarapa-malnaya-tarapa_4c44052255bd9962303d2e34e43f02b6.gif?w=1200&dpr=1.0",
-      "summary": "ईरान ने अमेरिका की प्रथम महिला के खिलाफ वीडियो जारी किया। 'मेलानिया ट्रंप को कहां मारें?': अमेरिका की प्रथम महिला के खिलाफ ईरान ने जारी किया वीडियो; क्यों मचा बवाल? US: मेलानिया और बैरन ट्रंप के खिलाफ ईरान ने जारी किया धमकी भरा वीडियो, सुरक्षा चिंता बढ़ी; क्या है पूरा मामला?",
-      "region": "Middle East & Africa",
+      "published_at": "2026-07-28T06:00:50+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/28/f42ddfc024a522b7c7669e2fb2944e5e17852169607521115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "बिहार और असम सरकार ने NEET प्रदर्शनकारियों के मामले वापस लेने का फैसला किया। गिरफ्तार लोगों को रिहा करने की दिशा में कदम उठाए जा रहे हैं। NEET पेपर लीक के खिलाफ हुए प्रदर्शनों में शामिल छात्रों और प्रदर्शनकारियों को बिहार और असम सरकार की ओर से राहत मिलने लगी है. दोनों राज्यों ने प्रदर्शन से जुड़े मामलों को वापस लेने और गिरफ्तार लोगों को रिहा करने की दिशा में कदम उठाने शुरू कर दिए हैं.",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मेलानिया और बैरन ट्रंप के खिलाफ ईरान ने जारी किया धमकी भरा वीडियो, सुरक्षा चिंता बढ़ी; क्या है पूरा",
-          "summary": "ईरान ने अमेरिका की प्रथम महिला के खिलाफ वीडियो जारी किया। 'मेलानिया ट्रंप को कहां मारें?': अमेरिका की प्रथम महिला के खिलाफ ईरान ने जारी किया वीडियो; क्यों मचा बवाल? US: मेलानिया और बैरन ट्रंप के खिलाफ ईरान ने जारी किया धमकी भरा वीडियो, सुरक्षा चिंता बढ़ी; क्या है पूरा मामला?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'मेलानिया को कैसे मारें?' ट्रंप के बीवी-बच्चों की रेकी करा रहा ईरान, पल-पल की रख रहा खबर",
-      "url": "https://hindi.news18.com/world/middle-east-how-to-kill-melania-trump-iran-releases-dangerous-video-of-tracking-trump-family-in-us-10696449.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T05:21:46+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/trump-family-2026-07-004a32adeead13a005aeb73f97efabe8-1200x800.jpg",
-      "summary": "ईरान ने ट्रंप के परिवार की रेकी करने का आरोप लगाया गया है। Iran Tracks Trump Family in US: अमेरिका-ईरान की जंग अब सिर्फ खाड़ी तक सीमित नहीं रह गई है. ईरान ने हाल में ही एक ऐसा खतरनाक वीडियो जारी किया है, जिसे देखकर सीआईए के भी होश फाख्ता हो जाएंगे. दरअसल ये देश अमेरिकी की फर्स्ट लेडी के उठने-बैठने, घूमने-फिरने, सबकी खबर रख रहा है और उसका मकसद है- बदला.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मेलानिया को कैसे मारें?' ट्रंप के बीवी-बच्चों की रेकी करा रहा ईरान, पल-पल की रख रहा खबर",
-          "summary": "ईरान ने ट्रंप के परिवार की रेकी करने का आरोप लगाया गया है। Iran Tracks Trump Family in US: अमेरिका-ईरान की जंग अब सिर्फ खाड़ी तक सीमित नहीं रह गई है. ईरान ने हाल में ही एक ऐसा खतरनाक वीडियो जारी किया है, जिसे देखकर सीआईए के भी होश फाख्ता हो जाएंगे. दरअसल ये देश अमेरिकी की फर्स्ट लेडी के उठने-बैठने, घूमने-फिरने, सबकी खबर रख रहा है और उसका मकसद है- बदला.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "10 पदक के साथ भारत तालिका में किस स्थान पर? शीर्ष पर मौजूद देश से हमारे 49 मेडल्स कम; ये हैं पदकवीर",
-      "url": "https://www.amarujala.com/sports/commonwealth-games-2026-updated-list-of-india-medal-winners-and-medal-tally-know-all-medalists-2026-07-28",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-28T04:58:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/commonwealth-games-2026-india-medal-winners-cwg-2026-india-medal-tally-mirabai-chanu-sharmila-dh_30f612c574de3fa99992da74ef8f4c50.jpeg?w=1200&dpr=1.0",
-      "summary": "कॉमनवेल्थ गेम्स 2026 में भारत ने 10 पदक जीते, पांचवें दिन छह पदक जीतकर सर्वश्रेष्ठ प्रदर्शन किया। कॉमनवेल्थ गेम्स 2026 में भारत ने अब तक 10 पदक जीत लिए हैं। पांचवें दिन छह पदक जीतकर भारतीय दल ने अपना सर्वश्रेष्ठ प्रदर्शन किया। 10 पदक के साथ भारत तालिका में किस स्थान पर? शीर्ष पर मौजूद देश से हमारे 49 मेडल्स कम; ये हैं पदकवीर।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "10 पदक के साथ भारत तालिका में किस स्थान पर? शीर्ष पर मौजूद देश से हमारे 49 मेडल्स कम; ये हैं पदकवीर",
-          "summary": "कॉमनवेल्थ गेम्स 2026 में भारत ने 10 पदक जीते, पांचवें दिन छह पदक जीतकर सर्वश्रेष्ठ प्रदर्शन किया। कॉमनवेल्थ गेम्स 2026 में भारत ने अब तक 10 पदक जीत लिए हैं। पांचवें दिन छह पदक जीतकर भारतीय दल ने अपना सर्वश्रेष्ठ प्रदर्शन किया। 10 पदक के साथ भारत तालिका में किस स्थान पर? शीर्ष पर मौजूद देश से हमारे 49 मेडल्स कम; ये हैं पदकवीर।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "प्रीति पटेल ने तब कुछ क्यों नहीं किया? अब भगोड़े नीरव मोदी पर क्या खुलासा, भारत में कहां से संबंध?",
-      "url": "https://hindi.news18.com/news/nation/nirav-modi-extradition-uk-minister-priti-patel-shocked-india-britan-relationship-down-10696109.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T04:23:55+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Priti-Patel-Nirav-Modi-2026-07-222b6b3211d5ac796a79c41521958db4-1200x800.jpg",
-      "summary": "नीरव मोदी भारत में तीन आपराधिक मामलों में वॉन्टेड है. इनमें पीएनबी धोखाधड़ी मामले में सीबीआई और कथित मनीलॉन्ड्रिंग से जुड़ा ईडी का मामला शामिल है. सीबीआई जांच से जुड़े सबूतों तथा गवाहों को प्रभावित करने के आरोपों से संबंधित तीसरा मामला भी है. इनमें पीएनबी धोखाधड़ी मामले में सीबीआई, कथित मनीलॉन्ड्रिंग से जुड़ा ईडी का मामला और सीबीआई जांच से जुड़े सबूतों तथा गवाहों को प्रभावित करने के आरोपों से संबंधित तीसरा मामला शामिल है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रीति पटेल ने तब कुछ क्यों नहीं किया? अब भगोड़े नीरव मोदी पर क्या खुलासा, भारत में कहां से संबंध?",
-          "summary": "नीरव मोदी भारत में तीन आपराधिक मामलों में वॉन्टेड है. इनमें पीएनबी धोखाधड़ी मामले में सीबीआई और कथित मनीलॉन्ड्रिंग से जुड़ा ईडी का मामला शामिल है. सीबीआई जांच से जुड़े सबूतों तथा गवाहों को प्रभावित करने के आरोपों से संबंधित तीसरा मामला भी है. इनमें पीएनबी धोखाधड़ी मामले में सीबीआई, कथित मनीलॉन्ड्रिंग से जुड़ा ईडी का मामला और सीबीआई जांच से जुड़े सबूतों तथा गवाहों को प्रभावित करने के आरोपों से संबंधित तीसरा मामला शामिल है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘अमेरिका किसे हथियार बेचेगा, यह कोई बाहरी नेता तय नहीं करेगा’, बेंजामिन नेतन्याहू को डोनाल्ड ट्रंप",
-      "url": "https://www.patrika.com/world-news/donald-trump-rejects-israei-pm-benjamin-netanyahu-objection-over-turkey-f35-fighter-jet-sale-20784057",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-28T04:09:51+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-and-Recep-Tayyip-Erdogan-.webp",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू की आपत्ति को खारिज करते हुए तुर्किये को अमेरिका का बेहतरीन सहयोगी बताया। उन्होंने स्पष्ट शब्दों में कहा कि अमेरिका किसे हथियार बेचेगा, यह कोई बाहरी नेता तय नहीं करेगा। Donald Trump on Turkey F-35 deal: तुर्किये को अमेरिकी एफ-35 लड़ाकू विमान बेचने के संभावित सौदे पर इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू द्वारा आपत्ति जताए जाने पर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कड़ी प्रतिक्रिया दी है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘अमेरिका किसे हथियार बेचेगा, यह कोई बाहरी नेता तय नहीं करेगा’, बेंजामिन नेतन्याहू को डोनाल्ड ट्रंप",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू की आपत्ति को खारिज करते हुए तुर्किये को अमेरिका का बेहतरीन सहयोगी बताया। उन्होंने स्पष्ट शब्दों में कहा कि अमेरिका किसे हथियार बेचेगा, यह कोई बाहरी नेता तय नहीं करेगा। Donald Trump on Turkey F-35 deal: तुर्किये को अमेरिकी एफ-35 लड़ाकू विमान बेचने के संभावित सौदे पर इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू द्वारा आपत्ति जताए जाने पर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कड़ी प्रतिक्रिया दी है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान का सिखाया खेल लाल सागर में खेल रहे हूती, चोकप्वाइंट पर दबोची सऊदी की गर्दन, भुगतेगी पूरी दुनिया",
-      "url": "https://hindi.news18.com/world/middle-east-houthis-copying-hormuz-style-irani-strategy-to-gain-control-another-chokepoint-bab-al-mandeb-strait-10696215.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T04:09:34+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/bab-el-mandeb-2026-07-b36bdfa47beb2abff0fbf650c1b22688-1200x800.jpg",
-      "summary": "यमन की सरकार ने पूरी दुनिया को चेतावनी दी है कि लाल सागर में स्ट्रेट ऑफ बाब-अल-मंदेब पर हूती के हमले से दुनिया का सबसे महत्वपूर्ण समुद्री रास्ता खतरे में है। यह हमला ईरान के सिखाए गए खेल का हिस्सा है। Houthi Copying Iran Hormuz Game: पूरी दुनिया इस वक्त इसलिए परेशान है क्योंकि दुनिया का सबसे महत्वपूर्ण समुद्री रास्ता स्ट्रेट ऑफ होर्मुज मौत की घाटी बना हुआ है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान का सिखाया खेल लाल सागर में खेल रहे हूती, चोकप्वाइंट पर दबोची सऊदी की गर्दन, भुगतेगी पूरी दुनिया",
-          "summary": "यमन की सरकार ने पूरी दुनिया को चेतावनी दी है कि लाल सागर में स्ट्रेट ऑफ बाब-अल-मंदेब पर हूती के हमले से दुनिया का सबसे महत्वपूर्ण समुद्री रास्ता खतरे में है। यह हमला ईरान के सिखाए गए खेल का हिस्सा है। Houthi Copying Iran Hormuz Game: पूरी दुनिया इस वक्त इसलिए परेशान है क्योंकि दुनिया का सबसे महत्वपूर्ण समुद्री रास्ता स्ट्रेट ऑफ होर्मुज मौत की घाटी बना हुआ है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "नेपाल में हिंदू युवक की हत्या के बाद बवाल, सुनसरी में लगा कर्फ्यू, चप्पे-चप्पे पर तैनात है सेना",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-man-killed-communal-violence-curfew-imposed-in-sunsari-prohibitory-orders-after-violence-10696245.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T04:06:34+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/nepal-curfew-2026-07-4b6b347c16e047dfad26fb8f32299c56-1200x800.jpg",
-      "summary": "नेपाल के सुनसरी जिले में सांप्रदायिक तनाव और एक हिंदू युवक की हत्या के बाद कर्फ्यू लगा दिया गया है। यह कर्फ्यू रविवार सुबह 7 बजे से लागू किया गया है और अगले आदेश तक जारी रहेगा। नेपाल में हिंदू युवक की हत्या के बाद बवाल, सुनसरी में लगा कर्फ्यू, चप्पे-चप्पे पर तैनात है सेना।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल में हिंदू युवक की हत्या के बाद बवाल, सुनसरी में लगा कर्फ्यू, चप्पे-चप्पे पर तैनात है सेना",
-          "summary": "नेपाल के सुनसरी जिले में सांप्रदायिक तनाव और एक हिंदू युवक की हत्या के बाद कर्फ्यू लगा दिया गया है। यह कर्फ्यू रविवार सुबह 7 बजे से लागू किया गया है और अगले आदेश तक जारी रहेगा। नेपाल में हिंदू युवक की हत्या के बाद बवाल, सुनसरी में लगा कर्फ्यू, चप्पे-चप्पे पर तैनात है सेना।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने फिर छेड़ी EV बनाम पेट्रोल कार की बहस?: पूर्व राष्ट्रपति बाइडन की नीति पर साधा निशाना, दी",
-      "url": "https://www.amarujala.com/world/donald-trump-renews-attack-on-ev-rules-backs-consumer-choice-over-electric-vehicle-mandates-2026-07-28",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-28T03:32:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/danalda-tarapa_d41b1f0956460543cbfd4a5b83d6e35a.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने पूर्व राष्ट्रपति जो बाइडन की इलेक्ट्रिक वाहनों के लिए नीति पर साधा निशाना। उन्होंने कहा कि अमेरिकी नागरिकों को अपनी पसंद के अनुसार वाहन चुनने की स्वतंत्रता होनी चाहिए। ट्रंप ने फिर छेड़ी EV बनाम पेट्रोल कार की बहस?: पूर्व राष्ट्रपति बाइडन की नीति पर साधा निशाना, दी।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने फिर छेड़ी EV बनाम पेट्रोल कार की बहस?: पूर्व राष्ट्रपति बाइडन की नीति पर साधा निशाना, दी",
-          "summary": "अमेरिकी पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने पूर्व राष्ट्रपति जो बाइडन की इलेक्ट्रिक वाहनों के लिए नीति पर साधा निशाना। उन्होंने कहा कि अमेरिकी नागरिकों को अपनी पसंद के अनुसार वाहन चुनने की स्वतंत्रता होनी चाहिए। ट्रंप ने फिर छेड़ी EV बनाम पेट्रोल कार की बहस?: पूर्व राष्ट्रपति बाइडन की नीति पर साधा निशाना, दी।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "PoK में जल्लाद बनी फौज, अंधाधुंध फायरिंग में 17 प्रदर्शकारियों को मारा, कश्मीरियों की लाशों से पटा",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-forces-firing-on-pok-protesters-rawalakot-firing-pakistan-occupied-kashmir-election-10696094.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-28T03:22:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/PoK-Protest-2026-06-fbc38c3e98fd7d8df12359d6bc2d27d7-1200x800.jpg",
-      "summary": "पाकिस्तान के कब्जे वाले कश्मीर में 26 जुलाई को चुनाव के पहले चरण के बाद प्रदर्शनकारियों पर फौज ने अंधाधुंध फायरिंग की, जिसमें 17 लोग मारे गए और कई घायल हो गए. प्रदर्शनकारियों की लाशें सड़कों पर फैली हुई हैं, जो कि एक दयनीय दृश्य है. PoK Firing on Protesters: पाकिस्तान के कब्जे वाले कश्मीर में लगातार हो रहे प्रदर्शन के बीच एक बार फिर फौज ने जल्लाद बनकर उन प्रदर्शनकारियों पर गोलियां बरसा दीं, जिनके पास कोई हथियार नहीं थे.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PoK में जल्लाद बनी फौज, अंधाधुंध फायरिंग में 17 प्रदर्शकारियों को मारा, कश्मीरियों की लाशों से पटा",
-          "summary": "पाकिस्तान के कब्जे वाले कश्मीर में 26 जुलाई को चुनाव के पहले चरण के बाद प्रदर्शनकारियों पर फौज ने अंधाधुंध फायरिंग की, जिसमें 17 लोग मारे गए और कई घायल हो गए. प्रदर्शनकारियों की लाशें सड़कों पर फैली हुई हैं, जो कि एक दयनीय दृश्य है. PoK Firing on Protesters: पाकिस्तान के कब्जे वाले कश्मीर में लगातार हो रहे प्रदर्शन के बीच एक बार फिर फौज ने जल्लाद बनकर उन प्रदर्शनकारियों पर गोलियां बरसा दीं, जिनके पास कोई हथियार नहीं थे.",
-          "region": "एशिया-प्रशांत"
+          "title": "NEET आंदोलनकारियों को बिहार-असम में बड़ी राहत, बंगाल खामोश!",
+          "summary": "बिहार और असम सरकार ने NEET प्रदर्शनकारियों के मामले वापस लेने का फैसला किया। गिरफ्तार लोगों को रिहा करने की दिशा में कदम उठाए जा रहे हैं। NEET पेपर लीक के खिलाफ हुए प्रदर्शनों में शामिल छात्रों और प्रदर्शनकारियों को बिहार और असम सरकार की ओर से राहत मिलने लगी है. दोनों राज्यों ने प्रदर्शन से जुड़े मामलों को वापस लेने और गिरफ्तार लोगों को रिहा करने की दिशा में कदम उठाने शुरू कर दिए हैं.",
+          "region": "दुनिया"
         }
       }
     }
