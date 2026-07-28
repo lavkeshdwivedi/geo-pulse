@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-28T10:52:37.610827+00:00",
-  "article_count": 46,
-  "total_unique_count": 267,
+  "generated_at": "2026-07-28T11:43:50.696330+00:00",
+  "article_count": 49,
+  "total_unique_count": 277,
   "digest": {
-    "en": "Javier Milei's accusations against US Democrats dominate the headlines, with the Argentine president claiming a 'anti-Argentina campaign' at the World Cup. Meanwhile, Canada's GCAP fighter move tests the limits of US diversification efforts in the region. Central Asian countries are increasingly looking beyond Iran for trade routes, driven by the ongoing war.",
-    "hi": "नागिन सी लहराती 'खैबर' से वार, पानी मांग रहे आयरन डोम-THAAD, ईरान बोला - ये तो हैं पिछली दिवाली के. इस बार भी पानी की कमी के कारण ईरान के आयरन डोम और THAAD प्रणाली को काम करने में परेशानी हो रही है. ईरान ने कहा है कि ये प्रणाली पिछली दिवाली के समय भी काम नहीं कर रही थी."
+    "en": "Multiple earthquakes in Japan have trapped people inside a shopping centre, while in Argentina, presidential candidate Javier Milei accuses US Democrats of financing an anti-Argentina campaign at the World Cup. Canada's fighter jet purchase tests US diversification limits.",
+    "hi": "ईरान के 'कुंभकरण' की तलाश में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप दो रास्तों से पहुंच रहे हैं, जिसमें एक ओर ईरान के बुशहर, इस्फान और पिकैक्स के बीच है और दूसरी ओर खैबर पास के पास है। ईरान ने अमेरिकी एयरबेस पर हमले के बाद आयरन डोम और THAAD को पानी मांगा है, जिसे अमेरिका ने खारिज कर दिया है।"
   },
   "articles": [
+    {
+      "title": "Multiple people trapped inside shopping centre in Japan after earthquake – live updates",
+      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-28T11:24:19+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/3e7cb28fbd87f15e320c8f85d4eff8aea0cc2788/333_0_3303_2643/master/3303.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f6f3ddfc95316ddbb9e2c7194616f63f",
+      "summary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌7.1 ‌struck ‌the country’s Kumamoto prefectureAn aerial image shows the damaged Aeon mall after an earthquake in Kashima, Kumamoto prefecture, southern Japan. The ⁠UN nuclear watchdog said ⁠that Japan’s ​nuclear regulation ⁠authority has informed it that there ⁠is ​no ‌damage ‌or safety issues ‌at the Sendai nuclear power plant after a ‌7.1-magnit Multiple people trapped inside shopping centre in Japan after earthquake – live updates.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
       "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
@@ -14,7 +26,7 @@
       "sources": [],
       "published_at": "2026-07-28T10:21:46+00:00",
       "image_url": "https://i.guim.co.uk/img/media/86aeafb5c20cd5724a6740beae18fce5628841ac/660_0_3298_2639/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ecf12c0d176b9e99f531f9f7daa0f76",
-      "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over.",
+      "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over. Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -26,7 +38,7 @@
       "sources": [],
       "published_at": "2026-07-28T10:05:06+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/GCAP-Fighter-Europe-Japan-.jpg",
-      "summary": "Canada’s entry into the Global Combat Air Program (GCAP) highlights a broader strategic dilemma: how to modernize its air force without deepening dependence on any single supplier or undermining the interoperability on which its defense commitments rely.",
+      "summary": "Canada’s entry into the Global Combat Air Program (GCAP) highlights a broader strategic dilemma: how to modernize its air force without deepening dependence on any single supplier or undermining the interoperability on which its defense commitments rely. This month, multiple media outlets reported that Canada officially joined the GCAP as its first observer nation, marking [] The post Canada’s GC.",
       "region": "Americas",
       "language": "en",
       "translations": {}
@@ -52,18 +64,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/Da-Nang-Vietnam-Port.jpg",
       "summary": "Vietnam’s effort to modernize Da Nang’s maritime infrastructure may look at first like another Asian port-development project, but it is considerably more important than that. The transformation underway along Vietnam’s central coast brings together three priorities that increasingly define Hanoi’s foreign policy: economic modernization, technological self-reliance and stronger maritime awareness Vietnam’s smart-port push opens another door to Washington.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S. Senate expected to confirm Jay Clayton as next Intelligence Director",
-      "url": "https://www.thehindu.com/news/international/us-senate-expected-to-confirm-jay-clayton-as-next-intelligence-director/article71275573.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-28T06:18:22+00:00",
-      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-international/66wqan/article71115607.ece/alternates/LANDSCAPE_1200/Trump-delays-ClGLJG4JS8O.3.jpg.jpg",
-      "summary": "Jay Claton was to be confirmed as the next intelligence director in June after Tulsi Gabbard resigned without Bill Pulte taking over, but President Trump delayed Mr. Clayton's nomination before the Senate leaving a two-week recess, allowing Mr. Pulte to take the job temporarily U. S. Senate expected to confirm Jay Clayton as next Intelligence Director. U. U. S.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -248,16 +248,70 @@
       "translations": {}
     },
     {
-      "title": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
-      "source": "The Guardian",
+      "title": "On Our Radar",
+      "url": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "International Crisis Group",
       "sources": [],
-      "published_at": "2026-07-22T11:40:08+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/689c706db035ce93a3c736bdee508d40d270310e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3770b23277fa093e2d28310aa568ddd8",
-      "summary": "Foreign minister Penny Wong will deliver speech criticising China’s recent launch of a nuclear-capable submarine-launched missileGet our breaking news email, free app or daily news podcastPenny Wong will warn China that Australia and other neighbouring nations will not be bullied by its “provocative” actions, after its involvement in another “destabilising and dangerous” incident this week. The for Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-07-03T19:07:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+      "url": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-06-30T15:20:00+00:00",
+      "image_url": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group. New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "NATO in Türkiye/Türkiye in NATO",
+      "url": "https://www.crisisgroup.org/pod/europe/turkiye/nato-turkiyeturkiye-nato",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "image_url": "https://images.pexels.com/photos/17854295/pexels-photo-17854295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "This week on War & Peace, Olga speaks with Galip Dalay, senior research fellow at Chatham House, about Türkiye’s evolving relations within NATO and with the EU as Ankara prepares to host the upcoming NATO summit in July. NATO in Türkiye/Türkiye in NATO.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Will “El Tigre” Colombia’s New President Launch Another War on Drugs?",
+      "url": "https://www.crisisgroup.org/pod/latin-america-caribbean/colombia/will-el-tigre-colombias-new-president-launch-another-war-drugs",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-06-26T15:39:00+00:00",
+      "image_url": "https://images.pexels.com/photos/12470916/pexels-photo-12470916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "This week on Hold Your Fire!, Richard speaks with Crisis Group experts Renata Segura and Elizabeth Dickinson about Colombia’s turbulent election, president-elect Abelardo “El Tigre” de la Espriella’s hardline promises to fight armed groups and the legacy of outgoing President Gustavo Petro’s signature policy of “Total Peace”. Will “El Tigre” Colombia’s New President Launch Another War on Drugs?",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "बुशहर, इस्फान या पिकैक्स...कहां सो रहा ईरान का ‘कुंभकरण’? 2 रास्तों से पहुंचेंगे ट्रंप",
+      "url": "https://hindi.news18.com/world/middle-east-natanz-isfahan-or-pickaxe-iran-secret-nuclear-lair-inside-300-foot-deep-pickaxe-mountain-donald-trump-netanyahu-can-destroy-in-two-ways-10697692.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-28T11:34:47+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Iran-Pickaxe-Mountain-2026-07-876ac70fa4abe60a35677a723216668a-1200x800.jpg",
+      "summary": "ईरान-अमेरिका जंग के बीच बुशहर और इस्फहान के अलावा एक तीसरी लोकेशन सामने आई है, जो जमीन से 300 फीट से अधिक गहराई में है. इस सीक्रेट लोकेशन पर ट्रंप का घुसना नामुमकिन है. इजराइली प्रधानमंत्री बेंजामिन नेतन्याहू इस लोकेशन की खुफिया जानकारी लेकर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के पास पहुंच रहे हैं. ईरान के ‘कुंभकरण’ तक पहुंचने के 2 रास्ते खोज लिए गए हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बुशहर, इस्फान या पिकैक्स...कहां सो रहा ईरान का ‘कुंभकरण’? 2 रास्तों से पहुंचेंगे ट्रंप",
+          "summary": "ईरान-अमेरिका जंग के बीच बुशहर और इस्फहान के अलावा एक तीसरी लोकेशन सामने आई है, जो जमीन से 300 फीट से अधिक गहराई में है. इस सीक्रेट लोकेशन पर ट्रंप का घुसना नामुमकिन है. इजराइली प्रधानमंत्री बेंजामिन नेतन्याहू इस लोकेशन की खुफिया जानकारी लेकर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के पास पहुंच रहे हैं. ईरान के ‘कुंभकरण’ तक पहुंचने के 2 रास्ते खोज लिए गए हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "नागिन सी लहराती 'खैबर' से वार, पानी मांग रहे आयरन डोम-THAAD, ईरान बोला - ये तो हैं पिछली दिवाली के",
@@ -356,13 +410,13 @@
       "sources": [],
       "published_at": "2026-07-28T09:15:06+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/1-30.jpg",
-      "summary": "Pakistan Gen Z Student Movement: कॉकरोच जनता पार्टी (CJP) के सफल आंदोलन और शिक्षा मंत्री धर्मेन्द्र प्रधान के इस्तीफे के साथ ही भारत उन दक्षिण एशियाई देशों की फेहरिस्त में शुमार हो गया है, जहां छात्रों के नेतृत्व वाले आंदोलनों ने राजनीति की दिशा और दशा बदलने वाला काम किया।",
+      "summary": "Pakistan Gen Z Student Movement: कॉकरोच जनता पार्टी (CJP) के सफल आंदोलन और शिक्षा मंत्री धर्मेन्द्र प्रधान के इस्तीफे के साथ ही भारत उन दक्षिण एशियाई देशों की फेहरिस्त में शुमार हो गया है, जहां छात्रों के नेतृत्व वाले आंदोलनों ने राजनीति की दिशा और दशा बदलने वाला काम किया। 2022 और 2025 के बीच, भारत के पड़ोसी देशों – श्रीलंका, बांग्लादेश और नेपाल में स्टूडेंट्स के नेतृत्व में बगावत हुई और सरकारों क।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "साहस की कमी या कुछ और, पाकिस्तान में क्यों नहीं हो सकते CJP जैसे आंदोलन?",
-          "summary": "Pakistan Gen Z Student Movement: कॉकरोच जनता पार्टी (CJP) के सफल आंदोलन और शिक्षा मंत्री धर्मेन्द्र प्रधान के इस्तीफे के साथ ही भारत उन दक्षिण एशियाई देशों की फेहरिस्त में शुमार हो गया है, जहां छात्रों के नेतृत्व वाले आंदोलनों ने राजनीति की दिशा और दशा बदलने वाला काम किया।",
+          "summary": "Pakistan Gen Z Student Movement: कॉकरोच जनता पार्टी (CJP) के सफल आंदोलन और शिक्षा मंत्री धर्मेन्द्र प्रधान के इस्तीफे के साथ ही भारत उन दक्षिण एशियाई देशों की फेहरिस्त में शुमार हो गया है, जहां छात्रों के नेतृत्व वाले आंदोलनों ने राजनीति की दिशा और दशा बदलने वाला काम किया। 2022 और 2025 के बीच, भारत के पड़ोसी देशों – श्रीलंका, बांग्लादेश और नेपाल में स्टूडेंट्स के नेतृत्व में बगावत हुई और सरकारों क।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -440,37 +494,19 @@
       }
     },
     {
-      "title": "युवक से सीरियल पर हुई बहस: युवती गुस्से में 16वीं मंजिल की बालकनी से बाहर लटकी, सोसायटी में हाई",
-      "url": "https://www.amarujala.com/delhi-ncr/noida/young-woman-hangs-from-16th-floor-balcony-after-argument-over-tv-serial-2026-07-28",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-28T07:29:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/garatara-naeda-vasata-ka-emasa-garana-evanaya-sasayata-ka-ghatana_d51b9581a6db537d6399c35c7f501f7a.jpeg?w=1200&dpr=1.0",
-      "summary": "ग्रेटर नोएडा की बिसरख कोतवाली क्षेत्र स्थित ग्रेटर नोएडा वेस्ट की एम्स ग्रीन एवेन्यू सोसायटी में रविवार को एक युवती के 16वीं मंजिल की बालकनी से बाहर की ओर लटकने का मामला सामने आया। युवक से सीरियल पर हुई बहस: युवती गुस्से में 16वीं मंजिल की बालकनी से बाहर लटकी, सोसायटी में हाई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "युवक से सीरियल पर हुई बहस: युवती गुस्से में 16वीं मंजिल की बालकनी से बाहर लटकी, सोसायटी में हाई",
-          "summary": "ग्रेटर नोएडा की बिसरख कोतवाली क्षेत्र स्थित ग्रेटर नोएडा वेस्ट की एम्स ग्रीन एवेन्यू सोसायटी में रविवार को एक युवती के 16वीं मंजिल की बालकनी से बाहर की ओर लटकने का मामला सामने आया। युवक से सीरियल पर हुई बहस: युवती गुस्से में 16वीं मंजिल की बालकनी से बाहर लटकी, सोसायटी में हाई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "जंतर-मंतर हिंसा के बाद पुलिस परिवारों की SC से गुहार- ‘हमें भी...’",
       "url": "https://www.abplive.com/news/india/delhi-jantar-mantar-parliament-march-protest-families-of-injured-policemen-filed-petition-in-sc-ann-3166813",
       "source": "ABP Live (India)",
       "sources": [],
       "published_at": "2026-07-28T07:27:08+00:00",
       "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/28/ef002dcb14a15d3d4ecb6cfffa81969017852211089151115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "दिल्ली के जंतर-मंतर पर छात्रों के 'संसद चलो' प्रदर्शन के दौरान हिंसा का शिकार हुए ऑन-ड्यूटी पुलिसकर्मियों के परिवार ने सुप्रीम कोर्ट का दरवाजा खटखटाया है. उन्होंने मांग की है कि ऑन-ड्यूटी पुलिसकर्मियों को भी आम नागरिकों की तरह जीवन और व्यक्तिगत स्वतंत्रता के मौलिक अधिकार का संरक्षण प्रदान किया जाए.",
+      "summary": "दिल्ली के जंतर-मंतर पर छात्रों के 'संसद चलो' प्रदर्शन के दौरान हिंसा का शिकार हुए ऑन-ड्यूटी पुलिसकर्मियों के परिवार ने सुप्रीम कोर्ट का दरवाजा खटखटाया है. उन्होंने मांग की है कि ऑन-ड्यूटी पुलिसकर्मियों को भी आम नागरिकों की तरह जीवन और व्यक्तिगत स्वतंत्रता के मौलिक अधिकार का संरक्षण प्रदान किया जाए. यह याचिका घायल ASP कैलाश सिंह बिष्ट, ASI संदीप, कॉन्स्टेबल धीरज और ASI हेमेन्दर राठी के परिवार के सद।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "जंतर-मंतर हिंसा के बाद पुलिस परिवारों की SC से गुहार- ‘हमें भी...’",
-          "summary": "दिल्ली के जंतर-मंतर पर छात्रों के 'संसद चलो' प्रदर्शन के दौरान हिंसा का शिकार हुए ऑन-ड्यूटी पुलिसकर्मियों के परिवार ने सुप्रीम कोर्ट का दरवाजा खटखटाया है. उन्होंने मांग की है कि ऑन-ड्यूटी पुलिसकर्मियों को भी आम नागरिकों की तरह जीवन और व्यक्तिगत स्वतंत्रता के मौलिक अधिकार का संरक्षण प्रदान किया जाए.",
+          "summary": "दिल्ली के जंतर-मंतर पर छात्रों के 'संसद चलो' प्रदर्शन के दौरान हिंसा का शिकार हुए ऑन-ड्यूटी पुलिसकर्मियों के परिवार ने सुप्रीम कोर्ट का दरवाजा खटखटाया है. उन्होंने मांग की है कि ऑन-ड्यूटी पुलिसकर्मियों को भी आम नागरिकों की तरह जीवन और व्यक्तिगत स्वतंत्रता के मौलिक अधिकार का संरक्षण प्रदान किया जाए. यह याचिका घायल ASP कैलाश सिंह बिष्ट, ASI संदीप, कॉन्स्टेबल धीरज और ASI हेमेन्दर राठी के परिवार के सद।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -512,24 +548,6 @@
       }
     },
     {
-      "title": "प्रेम विवाह पर परिवार का विरोध, बेटी की तस्वीर जलाकर सभी रिश्ते किए खत्म; जानें क्या है गोरनी रस्म?",
-      "url": "https://www.amarujala.com/madhya-pradesh/ujjain/ujjain-shocker-family-performs-symbolic-last-rites-of-alive-daughter-over-inter-caste-love-marriage-ujjain-news-c-1-1-noi1228-4550025-2026-07-28",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-28T07:04:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/aisa-nabhaii-gaii-garana-ka-rasama_d150babab9670000c1b4c5c21b3a67a0.jpeg?w=1200&dpr=1.0",
-      "summary": "उज्जैन जिले के खाचरौद में अलग समाज के युवक से प्रेम विवाह करने पर नाराज एक परिवार ने अपनी जीवित 18 वर्षीय बेटी का प्रतीकात्मक अंतिम संस्कार कर दिया। परिवार ने बेटी की तस्वीर को अग्नि दी, 'गोरनी' की रस्म निभाई। प्रेम विवाह पर परिवार का विरोध, बेटी की तस्वीर जलाकर सभी रिश्ते किए खत्म; जानें क्या है गोरनी रस्म?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रेम विवाह पर परिवार का विरोध, बेटी की तस्वीर जलाकर सभी रिश्ते किए खत्म; जानें क्या है गोरनी रस्म?",
-          "summary": "उज्जैन जिले के खाचरौद में अलग समाज के युवक से प्रेम विवाह करने पर नाराज एक परिवार ने अपनी जीवित 18 वर्षीय बेटी का प्रतीकात्मक अंतिम संस्कार कर दिया। परिवार ने बेटी की तस्वीर को अग्नि दी, 'गोरनी' की रस्म निभाई। प्रेम विवाह पर परिवार का विरोध, बेटी की तस्वीर जलाकर सभी रिश्ते किए खत्म; जानें क्या है गोरनी रस्म?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "बांकीपुर उपचुनाव पर BJP अध्यक्ष नितिन नवीन ने कर डाली बड़ी भविष्यवाणी",
       "url": "https://www.abplive.com/news/india/bihar-bankipur-assembly-by-election-bjp-president-nitin-nabeen-claimed-victory-ann-3166797",
       "source": "ABP Live (India)",
@@ -561,24 +579,6 @@
         "hi": {
           "title": "बंद घर के तहखाने में घुसा कपल, कोने में दिखा रहस्यमयी डिब्बा, डरते-डरते खोला तो चमक गई किस्मत",
           "summary": "Couple Found Hidden Treasure: हम कई बार एक ही जगह पर जाते हैं लेकिन समझ नहीं पाते कि वहां कौन सा सीक्रेट छिपा हुआ है. कुछ ऐसा ही हुआ एक कपल के साथ, जिसे अपने 100 साल पुराने घर के तहखाने में एक डिब्बा मिल. इसे खोलने में पहले तो वे घबरा रहे थे लेकिन खोलते ही उनकी किस्मत चमक गई.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पट्टी बांधकर संसद क्यों पहुंचे पप्पू यादव? छात्र आंदोलन-पुलिस कार्रवाई पर मोदी सरकार से पूछे सवाल",
-      "url": "https://www.amarujala.com/india-news/pappu-yadav-stages-symbolic-protest-in-parliament-questions-police-action-on-student-demonstrators-2026-07-28",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-28T06:31:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/papapa-yathava-paranaeya-sasatha_ab506cacf7a0118db3c4be380e5fdc61.gif?w=1200&dpr=1.0",
-      "summary": "पप्पू यादव ने पट्टी बांधकर संसद में प्रवेश किया। उन्होंने छात्र आंदोलन और पुलिस कार्रवाई पर मोदी सरकार से सवाल पूछे। यह घटना संसद में हुई। Parliament: पट्टी बांधकर संसद क्यों पहुंचे पप्पू यादव? छात्र आंदोलन और पुलिस कार्रवाई पर मोदी सरकार से पूछे सवाल। छात्र आंदोलन-पुलिस कार्रवाई पर मोदी सरकार से पूछे सवाल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पट्टी बांधकर संसद क्यों पहुंचे पप्पू यादव? छात्र आंदोलन-पुलिस कार्रवाई पर मोदी सरकार से पूछे सवाल",
-          "summary": "पप्पू यादव ने पट्टी बांधकर संसद में प्रवेश किया। उन्होंने छात्र आंदोलन और पुलिस कार्रवाई पर मोदी सरकार से सवाल पूछे। यह घटना संसद में हुई। Parliament: पट्टी बांधकर संसद क्यों पहुंचे पप्पू यादव? छात्र आंदोलन और पुलिस कार्रवाई पर मोदी सरकार से पूछे सवाल। छात्र आंदोलन-पुलिस कार्रवाई पर मोदी सरकार से पूछे सवाल।",
           "region": "दुनिया"
         }
       }
@@ -706,6 +706,42 @@
           "title": "NEET आंदोलनकारियों को बिहार-असम में बड़ी राहत, बंगाल खामोश!",
           "summary": "बिहार और असम सरकार ने NEET प्रदर्शनकारियों के मामले वापस लेने का फैसला किया। गिरफ्तार लोगों को रिहा करने की दिशा में कदम उठाए जा रहे हैं। NEET पेपर लीक के खिलाफ हुए प्रदर्शनों में शामिल छात्रों और प्रदर्शनकारियों को बिहार और असम सरकार की ओर से राहत मिलने लगी है. दोनों राज्यों ने प्रदर्शन से जुड़े मामलों को वापस लेने और गिरफ्तार लोगों को रिहा करने की दिशा में कदम उठाने शुरू कर दिए हैं.",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मेलानिया और बैरन ट्रंप के खिलाफ ईरान ने जारी किया धमकी भरा वीडियो, सुरक्षा चिंता बढ़ी; क्या है पूरा",
+      "url": "https://www.amarujala.com/world/iran-propaganda-video-targets-melania-barron-trump-2026-07-28",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-07-28T05:33:53+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/danalda-tarapa-malnaya-tarapa_4c44052255bd9962303d2e34e43f02b6.gif?w=1200&dpr=1.0",
+      "summary": "ईरान ने मेलानिया और बैरन ट्रंप के खिलाफ एक धमकी भरा वीडियो जारी किया, जिससे सुरक्षा चिंता बढ़ गई है। ईरानी सेना के प्रमुख हसन इरानमैन ने वीडियो में कहा कि ईरान अमेरिकी नेताओं के खिलाफ कार्रवाई करेगा। वीडियो में मेलानिया और बैरन ट्रंप की तस्वीरें भी दिखाई गईं। US: मेलानिया और बैरन ट्रंप के खिलाफ ईरान ने जारी किया धमकी भरा वीडियो, सुरक्षा चिंता बढ़ी; क्या है पूरा मामला?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मेलानिया और बैरन ट्रंप के खिलाफ ईरान ने जारी किया धमकी भरा वीडियो, सुरक्षा चिंता बढ़ी; क्या है पूरा",
+          "summary": "ईरान ने मेलानिया और बैरन ट्रंप के खिलाफ एक धमकी भरा वीडियो जारी किया, जिससे सुरक्षा चिंता बढ़ गई है। ईरानी सेना के प्रमुख हसन इरानमैन ने वीडियो में कहा कि ईरान अमेरिकी नेताओं के खिलाफ कार्रवाई करेगा। वीडियो में मेलानिया और बैरन ट्रंप की तस्वीरें भी दिखाई गईं। US: मेलानिया और बैरन ट्रंप के खिलाफ ईरान ने जारी किया धमकी भरा वीडियो, सुरक्षा चिंता बढ़ी; क्या है पूरा मामला?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "CJP प्रोटेस्ट में खाना बांटने वाले जुनैद पहुंचे सुप्रीम कोर्ट, की ये मांग",
+      "url": "https://www.abplive.com/news/india/cjp-protest-junaid-who-distributed-food-reached-the-supreme-court-for-police-persecuted-3166770",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-28T05:31:19+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/28/3d27d29785bfa40f0a589118cb36326f17852178904741189_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "मोहम्मद जुनैद ने सुप्रीम कोर्ट में याचिका दाखिल की, जिसमें उन्होंने पुलिस द्वारा उनके और उनके परिवार के प्रति हिंसा की शिकायत की. जुनैद का आरोप है कि पुलिस ने उन्हें दिल्ली से उठाया और 4-5 घंटे के बाद हरिद्वार के पास छोड़ दिया, जहां उन्हें धमकाया गया. उन्होंने कोर्ट से दखल देने की मांग की है. जंतर-मंतर पर CJP के प्रदर्शन के दौरान खाना बांटने वाले मोहम्मद जुनैद ने सुप्रीम कोर्ट में याचिका दाखिल की है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "CJP प्रोटेस्ट में खाना बांटने वाले जुनैद पहुंचे सुप्रीम कोर्ट, की ये मांग",
+          "summary": "मोहम्मद जुनैद ने सुप्रीम कोर्ट में याचिका दाखिल की, जिसमें उन्होंने पुलिस द्वारा उनके और उनके परिवार के प्रति हिंसा की शिकायत की. जुनैद का आरोप है कि पुलिस ने उन्हें दिल्ली से उठाया और 4-5 घंटे के बाद हरिद्वार के पास छोड़ दिया, जहां उन्हें धमकाया गया. उन्होंने कोर्ट से दखल देने की मांग की है. जंतर-मंतर पर CJP के प्रदर्शन के दौरान खाना बांटने वाले मोहम्मद जुनैद ने सुप्रीम कोर्ट में याचिका दाखिल की है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
