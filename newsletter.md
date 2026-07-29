@@ -1,6 +1,52 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 29, 2026 16:25 IST
+**Updated:** July 29, 2026 17:16 IST
+
+---
+
+## Europe & Russia
+
+### [Ukraine says it hit a major Russian oil refinery, hours after Zelenskyy’s meeting with Trump](https://www.thehindu.com/news/international//article71281250.ece)
+*The Hindu (International)* - Jul 29, 17:08 IST (iso: 2026-07-29T11:38:17+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/tz9dhz/article71281346.ece/alternates/LANDSCAPE_1200/2026-07-29T083706Z_1302573797_RC2KNMAFSNAT_RTRMADP_3_UKRAINE-CRISIS-ATTACK-RYAZAN.JPG -->
+
+The overnight attack started a fire at the Ryazan refinery, which has a capacity of about 17 million tonnes of oil per year, producing gasoline, diesel fuel, aviation fuel and other petroleum products, according to Ukraine’s General Staff Ukraine says it hit a major Russian oil refinery, hours after Zelenskyy’s meeting with Trump.
+
+### [Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again](https://www.rferl.org/a/ukraine-russia-drone-attack-wildberries-zelenskyy-trump/33817538.html)
+*Radio Free Europe / Liberty* - Jul 29, 16:32 IST (iso: 2026-07-29T11:02:31+00:00)
+<!-- image: https://gdb.rferl.org/9d052c4f-8965-44e0-4489-08decacf94d0_tv_w1200_h630.jpg -->
+
+Ukrainian drones struck targets in several places inside Russia on July 29, including an oil refinery and a logistics center belonging to Russia's largest online retailer, Wildberries, as Kyiv expands its long-range strike campaign to pressure Moscow into peace negotiations. Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again.
+
+### [Ukraine Hits Another Wildberries Warehouse In Russia](https://www.rferl.org/a/ukraine-hits-another-wildberries-warehouse-in-russia/33817559.html)
+*Radio Free Europe / Liberty* - Jul 29, 16:21 IST (iso: 2026-07-29T10:51:25+00:00)
+<!-- image: https://gdb.rferl.org/406e3464-e121-4373-334c-08decd1f5434_cx0_cy9_cw0_w1200_h630.jpg -->
+
+Ukrainian drones struck a Wildberries warehouse in the Ryazan region, Russia, setting the building on fire. Wildberries confirmed the evacuation of the facility, marking another hit in a string of drone attacks on Russian industrial sites. Ukrainian drones struck industrial facilities in Russia's Ryazan region, with videos on social media showing a Wildberries warehouse engulfed in flames. Russia's largest online retailer said it evacuated the facility.
+
+### [For Central Asian Migrants, Russia's School Rules Are Splitting Families](https://www.rferl.org/a/russia-migration-migrants-kyrgyzstan-tajikistan-uzbekistan-central-asia/33816803.html)
+*Radio Free Europe / Liberty* - Jul 29, 12:24 IST (iso: 2026-07-29T06:54:25+00:00)
+<!-- image: https://gdb.rferl.org/87521994-DA0D-4A17-B6A3-826376A1C106.jpg -->
+
+As the new school year approaches, Central Asian migrant parents face a stark choice: bring their children to Russia and risk them being unable to enroll because of stricter Russian language rules or leave them behind. For Central Asian Migrants, Russia's School Rules Are Splitting Families.
+
+### [Mount Olympus and D-Day beaches among new World Heritage Sites](https://news.un.org/feed/view/en/story/2026/07/1168043)
+*UN News* - Jul 28, 17:30 IST (iso: 2026-07-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/28-07-2026-UNESCO-France-D-Day.jpg/image770x420cropped.jpg -->
+
+From the peaks of Mount Olympus in Greece to the shores of the “D-Day” beaches in France, 25 cultural or natural landmarks from across the globe have been newly inscribed on the World Heritage List, updated annually by the UN Educational, Scientific and Cultural Organization (UNESCO). Mount Olympus and D-Day beaches among new World Heritage Sites.
+
+### [Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup](https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup)
+*The Guardian* - Jul 28, 15:51 IST (iso: 2026-07-28T10:21:46+00:00)
+<!-- image: https://i.guim.co.uk/img/media/86aeafb5c20cd5724a6740beae18fce5628841ac/660_0_3298_2639/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ecf12c0d176b9e99f531f9f7daa0f76 -->
+
+President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over. Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup.
+
+### [Zelenskyy, Trump Meet At White House At Crucial Moment In US-Ukraine Relations](https://www.rferl.org/a/ukraine-zelenskyy-trump-talks-washigton/33816609.html)
+*Radio Free Europe / Liberty* - Jul 28, 15:13 IST (iso: 2026-07-28T09:43:00+00:00)
+<!-- image: https://gdb.rferl.org/695bde57-44be-4486-95b3-b3e2488f7d39_cx0_cy3_cw0_w1200_h630.jpg -->
+
+Ukrainian President Volodymyr Zelenskyy had "a good meeting" with US President Donald Trump on July 28. The meeting, which had been expected to be one of the most consequential moments in US-Ukraine relations since Donald Trump's return to the White House, lasted about a hour. Zelenskky, Trump Meet At White House At Crucial Moment In US-Ukraine Relations. Zelenskyy, Trump Meet At White House At Crucial Moment In US-Ukraine Relations.
 
 ---
 
@@ -72,40 +118,6 @@ Years of progress in tackling HIV, viral hepatitis and sexually transmitted infe
 
 ---
 
-## Europe & Russia
-
-### [For Central Asian Migrants, Russia's School Rules Are Splitting Families](https://www.rferl.org/a/russia-migration-migrants-kyrgyzstan-tajikistan-uzbekistan-central-asia/33816803.html)
-*Radio Free Europe / Liberty* - Jul 29, 12:24 IST (iso: 2026-07-29T06:54:25+00:00)
-<!-- image: https://gdb.rferl.org/87521994-DA0D-4A17-B6A3-826376A1C106.jpg -->
-
-As the new school year approaches, Central Asian migrant parents face a stark choice: bring their children to Russia and risk them being unable to enroll because of stricter Russian language rules or leave them behind. For Central Asian Migrants, Russia's School Rules Are Splitting Families.
-
-### [Mount Olympus and D-Day beaches among new World Heritage Sites](https://news.un.org/feed/view/en/story/2026/07/1168043)
-*UN News* - Jul 28, 17:30 IST (iso: 2026-07-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/28-07-2026-UNESCO-France-D-Day.jpg/image770x420cropped.jpg -->
-
-From the peaks of Mount Olympus in Greece to the shores of the “D-Day” beaches in France, 25 cultural or natural landmarks from across the globe have been newly inscribed on the World Heritage List, updated annually by the UN Educational, Scientific and Cultural Organization (UNESCO). Mount Olympus and D-Day beaches among new World Heritage Sites.
-
-### [Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup](https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup)
-*The Guardian* - Jul 28, 15:51 IST (iso: 2026-07-28T10:21:46+00:00)
-<!-- image: https://i.guim.co.uk/img/media/86aeafb5c20cd5724a6740beae18fce5628841ac/660_0_3298_2639/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ecf12c0d176b9e99f531f9f7daa0f76 -->
-
-President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over. Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup.
-
-### [Zelenskyy, Trump Meet At White House At Crucial Moment In US-Ukraine Relations](https://www.rferl.org/a/ukraine-zelenskyy-trump-talks-washigton/33816609.html)
-*Radio Free Europe / Liberty* - Jul 28, 15:13 IST (iso: 2026-07-28T09:43:00+00:00)
-<!-- image: https://gdb.rferl.org/695bde57-44be-4486-95b3-b3e2488f7d39_cx0_cy3_cw0_w1200_h630.jpg -->
-
-Ukrainian President Volodymyr Zelenskyy had "a good meeting" with US President Donald Trump on July 28. The meeting, which had been expected to be one of the most consequential moments in US-Ukraine relations since Donald Trump's return to the White House, lasted about a hour. Zelenskky, Trump Meet At White House At Crucial Moment In US-Ukraine Relations. Zelenskyy, Trump Meet At White House At Crucial Moment In US-Ukraine Relations.
-
-### [60-Year-Old Ukrainian Volunteer Supplies Front Lines Amid Rise Of Unmanned Ground Vehicles](https://www.rferl.org/a/year-old-ukrainian-volunteer-supplies-front-lines-amid-rise-of-unmanned-ground-vehicles/33815972.html)
-*Radio Free Europe / Liberty* - Jul 27, 19:44 IST (iso: 2026-07-27T14:14:42+00:00)
-<!-- image: https://gdb.rferl.org/8b0d39b3-76ff-4b6d-187e-08decad58b60_w1200_h630.jpg -->
-
-Russian drone attacks are making it increasingly dangerous to deliver supplies to Ukraine's frontline troops. While Kyiv is deploying unmanned ground vehicles for some risky missions, volunteers like 60-year-old Mykhaylo continue making supply runs the old-fashioned way in the Donetsk region. 60-Year-Old Ukrainian Volunteer Supplies Front Lines Amid Rise Of Unmanned Ground Vehicles.
-
----
-
 ## Middle East & Africa
 
 ### [Remember the two-state solution? Trump doesn’t](https://asiatimes.com/2026/07/remember-the-two-state-solution-trump-doesnt/)
@@ -144,12 +156,6 @@ Regional tensions are mounting as the US-Iran war continues and a rising number 
 
 In an interview with RFE/RL, Ken Moriyasu, a senior fellow at the Hudson Institute, said the countries of Central Asia appear to be giving up on Iran as a gateway to global trade, a situation which is driving new approaches to cooperation with China and Pakistan. Iran War Drives Central Asian Countries To Seek Alternate Trade Routes.
 
-### [Central Asia Is Increasingly Looking Beyond Iran, Says Analyst Ken Moriyasu](https://www.rferl.org/a/central-asia-looking-beyond-iran-ken-moryasu/33816153.html)
-*Radio Free Europe / Liberty* - Jul 28, 01:29 IST (iso: 2026-07-27T19:59:35+00:00)
-<!-- image: https://gdb.rferl.org/E04F0D84-46FA-4C07-B730-D5769B45EE9C.jpg -->
-
-Has the Iran conflict permanently reshaped Central Asia's strategic map? Hudson Institute senior fellow Ken Moriyasu explains why governments across the region are increasingly looking beyond Iran toward Pakistan, Afghanistan and China for trade, connectivity, and access to global markets. Central Asia Is Increasingly Looking Beyond Iran, Says Analyst Ken Moriyasu.
-
 ---
 
 ## World
@@ -169,12 +175,6 @@ A job advert can hide a criminal network, and a single click can lead to a night
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/07/GCAP-Fighter-Europe-Japan-.jpg -->
 
 Canada’s entry into the Global Combat Air Program (GCAP) highlights a broader strategic dilemma: how to modernize its air force without deepening dependence on any single supplier or undermining the interoperability on which its defense commitments rely. This month, multiple media outlets reported that Canada officially joined the GCAP as its first observer nation, marking [] The post Canada’s GC.
-
-### [Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago](https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile)
-*The Guardian* - Jul 27, 21:57 IST (iso: 2026-07-27T16:27:44+00:00)
-<!-- image: https://i.guim.co.uk/img/media/924e4efcc644c3ea190cbf7970f8a29370732191/0_5_2048_1638/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3822a400f25bff3b9fe409527fe6288 -->
-
-Nelson Haase Mazzei was sentenced for murdering Víctor Jara in 2023, but fled from authorities in ChileMore than 50 years after the murder of the Chilean folk singer Víctor Jara, the last man wanted in connection with his death has been tracked down and brought to justice. Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in ChileMore than 50 years after the murder of the Chilean folk singer Víctor Jara, the last man wanted in connection with his death has been tracked down and brought to justice. Nelson Haase Mazzei, a retired colonel, fled from authorities in 2023 after he and six other retired soldiers were sentenced in absent.
 
 ---
 
