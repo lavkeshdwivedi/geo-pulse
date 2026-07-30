@@ -1,6 +1,68 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 30, 2026 14:30 IST
+**अपडेट:** July 30, 2026 15:27 IST
+
+---
+
+## एशिया-प्रशांत
+
+### [चीन नहीं अमेरिका ने बनाया था कोरोना वायरस? US के सबसे बड़े डॉक्टर ने संविधान को बनाया ढाल, सिल लिए](https://hindi.news18.com/news/knowledge/corona-outbreak-usa-role-or-virus-created-in-china-lab-dr-fauci-invoke-fifth-amendment-story-10703026.html)
+*News18 Hindi (World)* - Jul 30, 15:21 IST (iso: 2026-07-30T09:51:30+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Untitled-design-2026-07-30T150536.061-2026-07-7483f6681687c304bab0a1be53544fee-1200x800.jpg -->
+
+कोरोना वायरस क्या चीन की लैब में तैयार हुआ था या फिर अमेरिका की तरफ से फंड किए गए रिसर्च से यह चारों तरफ फैला? कोविड महामारी से जुड़ी एक अहम सुनवाई इस समय चर्चा के केंद्र में है. वायरस को लेकर सुनवाई में यूएस के पूर्व चीफ मेडिकल एडवाइजर ने संविधान को अपनी ढाल बना लिया और सौ से अधिक बार फिफ्थ अमेंडमेंट यानी पांचवें संशोधन का हवाला दिया.
+
+### [PoK जा रहे पूर्व पाकिस्तानी सांसद गायब, पुलिस पर बीच रास्ते से जबरन उठाने का आरोप](https://hindi.news18.com/world/pakistan-former-senator-mushtaq-ahmad-khan-missing-pok-punjab-police-prm-allegations-pakistan-news-10702826.html)
+*News18 Hindi (World)* - Jul 30, 15:11 IST (iso: 2026-07-30T09:41:53+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-news-24-2026-07-32d1921267b3a8cef7c21839a8dcdb32-1200x800.jpg -->
+
+Pakistan News POK Protest: पाकिस्तान के पूर्व सांसद और मानवाधिकार कार्यकर्ता मुश्ताक अहमद खान को लेकर बड़ा विवाद खड़ा हो गया है. पाकिस्तान राइट मूवमेंट (PRM) ने आरोप लगाया है कि 28 जुलाई को पंजाब पुलिस ने उन्हें PoK से लौटते समय बिना वारंट, बिना किसी आरोप और बिना कानूनी जानकारी दिए हिरासत में ले लिया. इतना ही नहीं वह उन्हें लेकर अज्ञात स्थान पर लेकर चले गए.
+
+### [बढ़ती जनसंख्या पर पाकिस्तान चिंतित, नहीं संभले तो 2040 तक 40 करोड़ पहुंच सकती है आबादी](https://www.patrika.com/world-news/pakistan-population-may-reach-40-crore-by-2040-family-planning-warning-20790266)
+*Patrika (World)* - Jul 30, 13:44 IST (iso: 2026-07-30T08:14:05+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/04/Shehbaz-Sharif-.webp -->
+
+Pakistan population 2040: पाकिस्तान में तेजी से बढ़ रही जनसंख्या सरकार के लिए चिंता का विषय बन गई है। पाकिस्तान सरकार में स्वास्थ्य मंत्री डॉ. मुख्तार अहमद भरथ ने इसको लेकर कड़ी चेतावनी दी है। उन्होंने कहा है कि यदि मौजूदा रफ्तार इसी तरह जारी रही तो वर्ष 2040 तक देश की आबादी 40 करोड़ तक पहुंच सकती है। उन्होंने कहा कि इस चुनौती से निपटने के लिए लोगों में जागरूकता बढ़ाना और परिवार नियोजन को अपनाना ज।
+
+### [वह भारतीय कप्तान, जिसकी कप्तानी में टेस्ट-ODI में कभी नहीं हारा भारत, रहे सबसे शांत नायक](https://www.amarujala.com/cricket/ajinkya-rahane-story-the-quiet-captain-who-rarely-lost-and-always-put-india-first-2026-07-30)
+*Amar Ujala Breaking* - Jul 30, 12:35 IST (iso: 2026-07-30T07:05:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/ajinkya-rahane-story-ajinkya-rahane-retirement-ajinkya-rahane-captaincy-record-ajinkya-rahane-wif_4e9f49bf44088c9c7db08af40c4e8385.jpeg?w=1200&dpr=1.0 -->
+
+अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट से संन्यास ले लिया है। वह भारत के सबसे सफल और शांत कप्तानों में से एक थे। उनकी कप्तानी में भारत ने टेस्ट और वनडे में कभी नहीं हारा। रहाणे एक शानदार बल्लेबाज भी थे। अंतरराष्ट्रीय क्रिकेट से संन्यास लेने वाले अजिंक्य रहाणे सिर्फ एक शानदार बल्लेबाज ही नहीं, बल्कि भारत के सबसे सफल और शांत कप्तानों में भी शामिल रहे।
+
+### [21वीं सदी का पुष्‍पक विमान, एक बार में नाप डाला 23000 KM, 960 KMPH की तूफानी रफ्तार से भरी हुंकार](https://hindi.news18.com/world/rest-of-world-airbus-a350-1000ulr-aircraft-23075-kilometer-nonstop-longest-flight-960-kmph-speed-made-world-record-photogallery-10702158.html)
+*News18 Hindi (World)* - Jul 30, 11:52 IST (iso: 2026-07-30T06:22:29+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/A350-1000ULR-2026-07-63efeb7d86229cac47fc0fc5beb93922-1200x800.jpg -->
+
+एयरबस ने एक फ्लाइट में 23000 किमी की दूरी तय करने का रिकॉर्ड बनाया। World Longest Flight: भारतीय धर्मशास्‍त्र में पुष्‍पक विमान का उल्‍लेख मिलता है. इसके अनुसार, ऐसा बताया जाता है कि मन की रफ्तार से चलने वाला यह विमान अनंत दूरियों को तय कर लेता है. विमान निर्माता कंपनी एयरबस ने कुछ ऐसा ही कर दिखाया है. एयरबस ने ऐसा एयरक्राफ्ट डेवलप किया है, जिसने एक फ्लाइट में सबसे लंबी दूरी तय करने का वर्ल्‍ड रिकॉर्ड बना दिया है.
+
+### [1971 में पूर्वी पाकिस्तान... 2026 में PoJK, क्या पाक सेना के दमन पर दुनिया फिर चुप्पी साधे बैठी है?](https://hindi.news18.com/news/defence/pojk-crisis-1971-east-pakistan-pakistan-army-crackdown-global-silence-ws-l-10700591.html)
+*News18 Hindi (World)* - Jul 30, 11:18 IST (iso: 2026-07-30T05:48:25+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Your-paragraph-text-1600-x-900-px-2026-07-30T121427.288-2026-07-1439d52cc57b3d67144336ebf4c9d0df-1200x800.jpg -->
+
+पाकिस्तान अधिकृत कश्मीर में 90 प्रदर्शनकारियों की मौत, दुनिया चुप। पाकिस्तान अधिकृत जम्मू-कश्मीर (PoJK) में बिजली, आटा, महंगाई और राजनीतिक अधिकारों को लेकर शुरू हुआ आंदोलन अब बड़ा संकट बन चुका है. 90 प्रदर्शनकारियों की मौत की खबर है. पाकिस्तानी सेना की कार्रवाई और नागरिकों की मौत के दावों के बीच दुनिया की चुप्पी पर सवाल उठ रहे हैं. क्या 1971 के पूर्वी पाकिस्तान जैसी खामोशी फिर दिखाई दे रही है?
+
+### [‘पाकिस्तानी कश्मीर’ लिखने पर भड़का भारत, अमेरिकी अखबार NYT को लगाई कड़ी फटकार, कहा- यह भ्रामक और](https://www.patrika.com/world-news/india-objects-nyt-headline-pakistani-kashmir-pok-controversy-20789578)
+*Patrika (World)* - Jul 30, 10:33 IST (iso: 2026-07-30T05:03:03+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/photo_6294093088904909054_w-1.webp -->
+
+भारत ने अमेरिकी अखबार NYT को कड़ी फटकार लगाई है। अखबार ने पाकिस्तान के कब्जे वाले कश्मीर को "पाकिस्तानी कश्मीर" लिखा था, जिसे भारत ने भ्रामक और गलत बताया है। भारत ने साफ किया है कि वह क्षेत्र भारत का अभिन्न हिस्सा है। India objects NYT Headline: अमेरिका में भारतीय दूतावास ने प्रसिद्ध अमेरिकी अखबार ‘द न्यूयॉर्क टाइम्स’ (NYT) की एक रिपोर्ट पर कड़ी आपत्ति जताई है।
+
+---
+
+## दुनिया
+
+### [₹564691 करोड़ की मेगा डिफेंस डील, हमलावरों पर भूखे शेर की तरह टूट पड़ेगा THAAD, दुश्‍मन करेगा](https://hindi.news18.com/news/defence/america-donald-trump-government-rupees-5646919500000-crore-usd-59-billion-patriot-missile-thaad-deal-lockheed-martin-10702811.html)
+*News18 Hindi (World)* - Jul 30, 14:40 IST (iso: 2026-07-30T09:10:27+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Patriot-missile-1-2026-07-09fa382500454dee3139c61074bf6032-1200x800.jpg -->
+
+Patriot Interceptor Missile Deal: 21वीं सदी के वॉरफेयर में एयर डिफेंस सिस्‍टम काफी अहम हो चुका है. मॉडर्न एज में जिस देश के पास जितना ताकतवर और मॉडर्न एयर डिफेंस सिस्‍टम है, वह उतना ही ज्‍यादा ताकतवर है. डिफेंस सिस्‍टम से फाइटर जेट और मिसाइल अटैक के साथ ही ड्रोन हमलों को भी रोका जा सकता है. ₹564691 करोड़ की मेगा डिफेंस डील, हमलावरों पर भूखे शेर की तरह टूट पड़ेगा THAAD, दुश्‍मन करेगा।
+
+### [डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक](https://www.amarujala.com/photo-gallery/entertainment/bollywood/ramayana-trailer-ranbir-kapoor-in-double-role-to-rakul-preet-arun-govil-and-other-actors-characters-reveal-2026-07-30)
+*Amar Ujala Breaking* - Jul 30, 12:50 IST (iso: 2026-07-30T07:20:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/ramayanae-ka-taralra-ma-najara-aae-caracata-kalkara_6018021106475d00f89c03a1c0b8d568.jpeg?w=1200&dpr=1.0 -->
+
+आज रणबीर कपूर स्टारर फिल्म ‘रामायण’ का ट्रेलर रिलीज हुआ। फैंस ट्रेलर देखकर फिल्म देखने के लिए उत्साहित हो गए हैं। इस ट्रेलर में अरुण गोविल से लेकर रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए। डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक।
 
 ---
 
@@ -11,12 +73,6 @@
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/britain-news-2026-07-74574778c66f3d029e55aa08fd153fa3-1200x800.jpg -->
 
 Women Paid Woman for Torture: आजकल की दुनिया में क्या-क्या होता है, वो आप सोच भी नहीं सकते. कुछ ऐसा ही हुआ ब्रिटेन की एक महिला के साथ, जिसने शायद मजे-मजे में अपने नाम की सुपारी दे दी. इस गलती का जो परिणाम हुआ, उसे सुनकर आप दहल जाएंगे. 'मुझे मार दो, मालामाल कर दूंगी तुम्हें', लड़की ने दी खुद की ही सुपारी, सनकी आदमी ने तड़पा-तड़पाकर।
-
-### [ईरान पर अमेरिकी हमले में एक कपल और उसके बेटे की मौत, कुवैत में चीनी कंपनी के ऑफिस पर अटैक](https://hindi.news18.com/world/middle-east-iran-us-war-live-updates-donald-trump-army-attack-on-iran-centcom-irgc-livenews-10701654.html)
-*News18 Hindi (World)* - Jul 30, 13:45 IST (iso: 2026-07-30T08:15:38+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/iran-news-25-2026-07-bebfd19ff197fda44e9bbb22b9dfd344-1200x800.jpg -->
-
-US Ka Iran Par Hamla Live Updates: अमेरिका ने पांच दिन के विराम के बाद ईरान से जुड़े टार्गेट्स पर फिर सैन्य कार्रवाई शुरू कर दी है. राष्ट्रपति डोनाल्ड ट्रंप ने कहा, 'अब हमारी बारी है.' अमेरिका का हमला जॉर्डन में अमेरिकी सैन्य अड्डे पर हुए ईरानी मिसाइल अटैक के जवाब में की गई. दूसरी ओर, ईरानी मीडिया ने दावा किया है कि इराक में अमेरिकी-सऊदी हमलों में IRGC के चार सदस्य मारे गए हैं.
 
 ### [ईरान युद्ध में बचे हैं सिर्फ 3 रास्ते, किधर जाएंगे डोनाल्ड ट्रंप? बंद कमरे में नेतन्याहू ने क्या](https://hindi.news18.com/world/middle-east-iran-us-war-only-3-option-left-discussed-by-donald-trump-and-netanyahu-ws-l-10702664.html)
 *News18 Hindi (World)* - Jul 30, 12:57 IST (iso: 2026-07-30T07:27:13+00:00)
@@ -80,69 +136,13 @@ US Ka Iran Par Hamla Live Updates: अमेरिका ने पांच द
 
 ---
 
-## एशिया-प्रशांत
-
-### [PoK जा रहे पूर्व पाकिस्तानी सांसद 'गायब'! पुलिस पर बीच रास्ते से उठाने का आरोप](https://hindi.news18.com/world/pakistan-former-senator-mushtaq-ahmad-khan-missing-pok-punjab-police-prm-allegations-pakistan-news-10702826.html)
-*News18 Hindi (World)* - Jul 30, 14:01 IST (iso: 2026-07-30T08:31:45+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-news-24-2026-07-32d1921267b3a8cef7c21839a8dcdb32-1200x800.jpg -->
-
-Pakistan News POK Protest: पाकिस्तान के पूर्व सांसद और मानवाधिकार कार्यकर्ता मुश्ताक अहमद खान को लेकर बड़ा विवाद खड़ा हो गया है. पाकिस्तान राइट मूवमेंट (PRM) ने आरोप लगाया है कि 28 जुलाई को पंजाब पुलिस ने उन्हें PoK से लौटते समय बिना वारंट, बिना किसी आरोप और बिना कानूनी जानकारी दिए हिरासत में ले लिया. इतना ही नहीं वह उन्हें लेकर अज्ञात स्थान पर लेकर चले गए.
-
-### [बढ़ती जनसंख्या पर पाकिस्तान चिंतित, नहीं संभले तो 2040 तक 40 करोड़ पहुंच सकती है आबादी](https://www.patrika.com/world-news/pakistan-population-may-reach-40-crore-by-2040-family-planning-warning-20790266)
-*Patrika (World)* - Jul 30, 13:44 IST (iso: 2026-07-30T08:14:05+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/04/Shehbaz-Sharif-.webp -->
-
-Pakistan population 2040: पाकिस्तान में तेजी से बढ़ रही जनसंख्या सरकार के लिए चिंता का विषय बन गई है। पाकिस्तान सरकार में स्वास्थ्य मंत्री डॉ. मुख्तार अहमद भरथ ने इसको लेकर कड़ी चेतावनी दी है। उन्होंने कहा है कि यदि मौजूदा रफ्तार इसी तरह जारी रही तो वर्ष 2040 तक देश की आबादी 40 करोड़ तक पहुंच सकती है।
-
-### [दिल्ली भाजपा का AAP कार्यालय पर प्रदर्शन, बैरिकेड पर चढ़ें हर्ष मल्होत्रा; पुलिस से हुई झड़प](https://www.amarujala.com/delhi-ncr/punjab-paper-leak-possibility-of-protest-by-bjp-workers-outside-aap-office-today-update-2026-07-30)
-*Amar Ujala Breaking* - Jul 30, 12:26 IST (iso: 2026-07-30T06:56:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/bhajapa-ka-aapa-karayalya-para-paratharashana_102e1d6aee4cea41dbe0db9d6c79517a.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली में भाजपा कार्यकर्ताओं ने आप दफ्तर के बाहर प्रदर्शन किया। हर्ष मल्होत्रा बैरिकेड पर चढ़ गए और पुलिस से झड़प हुई। प्रदर्शन पंजाब में कथित पेपर लीक मामले को लेकर किया गया था। दिल्ली भाजपा का AAP कार्यालय पर प्रदर्शन, बैरिकेड पर चढ़ें हर्ष मल्होत्रा; पुलिस से हुई झड़प।
-
-### [21वीं सदी का पुष्‍पक विमान, एक बार में नाप डाला 23000 KM, 960 KMPH की तूफानी रफ्तार से भरी हुंकार](https://hindi.news18.com/world/rest-of-world-airbus-a350-1000ulr-aircraft-23075-kilometer-nonstop-longest-flight-960-kmph-speed-made-world-record-photogallery-10702158.html)
-*News18 Hindi (World)* - Jul 30, 11:52 IST (iso: 2026-07-30T06:22:29+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/A350-1000ULR-2026-07-63efeb7d86229cac47fc0fc5beb93922-1200x800.jpg -->
-
-एयरबस ने एक फ्लाइट में 23000 किमी की दूरी तय करने का रिकॉर्ड बनाया। World Longest Flight: भारतीय धर्मशास्‍त्र में पुष्‍पक विमान का उल्‍लेख मिलता है. इसके अनुसार, ऐसा बताया जाता है कि मन की रफ्तार से चलने वाला यह विमान अनंत दूरियों को तय कर लेता है. विमान निर्माता कंपनी एयरबस ने कुछ ऐसा ही कर दिखाया है. एयरबस ने ऐसा एयरक्राफ्ट डेवलप किया है, जिसने एक फ्लाइट में सबसे लंबी दूरी तय करने का वर्ल्‍ड रिकॉर्ड बना दिया है.
-
-### [1971 में पूर्वी पाकिस्तान... 2026 में PoJK, क्या पाक सेना के दमन पर दुनिया फिर चुप्पी साधे बैठी है?](https://hindi.news18.com/news/defence/pojk-crisis-1971-east-pakistan-pakistan-army-crackdown-global-silence-ws-l-10700591.html)
-*News18 Hindi (World)* - Jul 30, 11:18 IST (iso: 2026-07-30T05:48:25+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Your-paragraph-text-1600-x-900-px-2026-07-30T121427.288-2026-07-1439d52cc57b3d67144336ebf4c9d0df-1200x800.jpg -->
-
-पाकिस्तान अधिकृत कश्मीर में 90 प्रदर्शनकारियों की मौत, दुनिया चुप। पाकिस्तान अधिकृत जम्मू-कश्मीर (PoJK) में बिजली, आटा, महंगाई और राजनीतिक अधिकारों को लेकर शुरू हुआ आंदोलन अब बड़ा संकट बन चुका है. 90 प्रदर्शनकारियों की मौत की खबर है. पाकिस्तानी सेना की कार्रवाई और नागरिकों की मौत के दावों के बीच दुनिया की चुप्पी पर सवाल उठ रहे हैं. क्या 1971 के पूर्वी पाकिस्तान जैसी खामोशी फिर दिखाई दे रही है?
-
-### [‘पाकिस्तानी कश्मीर’ लिखने पर भड़का भारत, अमेरिकी अखबार NYT को लगाई कड़ी फटकार, कहा- यह भ्रामक और](https://www.patrika.com/world-news/india-objects-nyt-headline-pakistani-kashmir-pok-controversy-20789578)
-*Patrika (World)* - Jul 30, 10:33 IST (iso: 2026-07-30T05:03:03+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/photo_6294093088904909054_w-1.webp -->
-
-भारत ने अमेरिकी अखबार NYT को कड़ी फटकार लगाई है। अखबार ने पाकिस्तान के कब्जे वाले कश्मीर को "पाकिस्तानी कश्मीर" लिखा था, जिसे भारत ने भ्रामक और गलत बताया है। भारत ने साफ किया है कि वह क्षेत्र भारत का अभिन्न हिस्सा है। India objects NYT Headline: अमेरिका में भारतीय दूतावास ने प्रसिद्ध अमेरिकी अखबार ‘द न्यूयॉर्क टाइम्स’ (NYT) की एक रिपोर्ट पर कड़ी आपत्ति जताई है।
-
----
-
-## दुनिया
-
-### [डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक](https://www.amarujala.com/photo-gallery/entertainment/bollywood/ramayana-trailer-ranbir-kapoor-in-double-role-to-rakul-preet-arun-govil-and-other-actors-characters-reveal-2026-07-30)
-*Amar Ujala Breaking* - Jul 30, 12:50 IST (iso: 2026-07-30T07:20:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/ramayanae-ka-taralra-ma-najara-aae-caracata-kalkara_6018021106475d00f89c03a1c0b8d568.jpeg?w=1200&dpr=1.0 -->
-
-आज रणबीर कपूर स्टारर फिल्म ‘रामायण’ का ट्रेलर रिलीज हुआ। फैंस ट्रेलर देखकर फिल्म देखने के लिए उत्साहित हो गए हैं। इस ट्रेलर में अरुण गोविल से लेकर रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए। डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक।
-
-### [मौत के 17 घंटे बाद जिंदा हुई महिला, अंतिम संस्कार से पहले लौटी सांस; दामाद का पकड़ लिया हाथ](https://www.amarujala.com/uttar-pradesh/agra/up-woman-reportedly-shows-signs-of-life-40-hours-after-death-rushed-to-hospital-before-last-rites-2026-07-30)
-*Amar Ujala Breaking* - Jul 30, 12:37 IST (iso: 2026-07-30T07:07:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/mata-ka-17-ghata-btha-jatha-haii-mahal_e211019aa84de601eaaf93f40dad7efd.jpeg?w=1200&dpr=1.0 -->
-
-आगरा के एत्माद्दौला क्षेत्र में 65 वर्षीय महिला के शरीर में अंतिम संस्कार से पहले हलचल होने का परिजनों ने दावा किया। इसके बाद उन्हें तत्काल निजी अस्पताल ले जाया गया। मौत के 17 घंटे बाद जिंदा हुई महिला, अंतिम संस्कार से पहले लौटी सांस; दामाद का पकड़ लिया हाथ।
-
-### [खेत पर गए थे माता-पिता, खेलते-खेलते कुएं तक पहुंचे मासूम भाई-बहन; पानी में डूबने से दोनों की मौत](https://www.amarujala.com/madhya-pradesh/shahdol/parents-had-gone-to-the-fields-young-siblings-wandered-to-a-well-while-playing-and-drowned-shahdol-news-c-1-1-noi1220-4557207-2026-07-30)
-*Amar Ujala Breaking* - Jul 30, 12:19 IST (iso: 2026-07-30T06:49:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/4cplus/2026/07/30/ghatana-sathal-para-majatha-kaaa_7d2e1d01a9f6642fd345200751bca475.jpeg?w=1200&dpr=1.0 -->
-
-शहडोल जिले के गोहपारू थाना क्षेत्र के खोहरी गांव में एक दर्दनाक हादसा हुआ। परिवार के सदस्य खेत में धान की रोपाई करने गए थे, जबकि दो बच्चे खेलते-खेलते घर के बाड़ी स्थित कुएं तक पहुंच गए। कुएं में डूबने से दोनों बच्चों की मौत हो गई। शहडोल जिले के गोहपारू थाना क्षेत्र के खोहरी गांव में दर्दनाक हादसे में चचेरे भाई-बहन की कुएं में डूबने से मौत हो गई।
-
----
-
 ## यूरोप और रूस
+
+### [यूके की संसद में गूंजी पीओके हिंसा के खिलाफ आवाज, पाक फौज की गोलीबारी में मारे गए 40 निर्दोष नागरिक](https://www.patrika.com/world-news/uk-parliament-raises-voice-against-pok-violence-pak-army-firing-kills-40-civilians-20790364)
+*Patrika (World)* - Jul 30, 13:48 IST (iso: 2026-07-30T08:18:11+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2025/10/PoK-Protests-2.webp -->
+
+PoK violence in UK Parliament: पाकिस्तान के कब्जे वाले कश्मीर में हालात बीते कुछ समय से बेहद तनावपूर्ण है। 27 व 28 जुलाई को 48 घंटे के भीतर पाकिस्तानी फौज की गोलीबारी की वजह से 40 से अधिक निर्दोष नागरिकों की मौत हुई, जबकि सैकड़ों लोग घायल हो गए। इस पर ब्रिटेन की लेबर पार्टी के सांसद लियाम बायर्न का बयान भी सामने आया है।
 
 ### [Google Pay में आया Gemini AI का सपोर्ट: अब एप रखेगा आपके खर्च का हिसाब; SIP, टैक्स और सेविंग्स पर](https://www.amarujala.com/technology/tech-diary/google-pay-gemini-ai-ask-google-pay-feature-sip-tax-analysis-2026-07-30)
 *Amar Ujala Breaking* - Jul 30, 12:31 IST (iso: 2026-07-30T07:01:47+00:00)
