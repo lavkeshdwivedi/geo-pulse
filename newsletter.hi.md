@@ -1,92 +1,40 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** July 30, 2026 12:29 IST
-
----
-
-## दुनिया
-
-### [RSS और अमित शाह पर ऐसा क्या बोले राहुल कि हो गया हंगामा](https://www.amarujala.com/video/india-news/rahul-gandhi-slams-bjp-and-rss-in-parliament-video-goes-viral-2026-07-30)
-*Amar Ujala National* - Jul 30, 12:21 IST (iso: 2026-07-30T06:51:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/rahul-gandhi_117014543d59ab9eba9fff532235e7d3.jpeg?w=1200&dpr=1.0 -->
-
-विपक्ष के नेता राहुल गांधी ने पेपर लीक से जुड़े बिल पर 50 मिनट स्पीच दी। उन्होंने इडियट और अंधभक्त जैसे शब्द बोले। इसी बीच राहुल ने बीजेपी और RSS पर हमला बोला जिसके बाद संसद में बीजेपी सांसद उठ खड़े हुए RSS और अमित शाह पर ऐसा क्या बोले राहुल कि हो गया हंगामा।
-
-### [पुलिस विभाग में कांस्टेबल और वार्डर समेत 7000+ पदों पर भर्ती; 12वीं पास के लिए मौका](https://www.amarujala.com/jobs/government-jobs/telangana-police-recruitment-2026-over-7-100-vacancies-announced-for-constable-warder-and-other-posts-2026-07-30)
-*Amar Ujala National* - Jul 30, 12:20 IST (iso: 2026-07-30T06:50:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/telangana-police-recruitment_a93ac1cd6f6d8821cf7104699a17e036.jpeg?w=1200&dpr=1.0 -->
-
-Telangana Police Jobs 2026: तेलंगाना राज्य स्तरीय पुलिस भर्ती बोर्ड ने पुलिस विभाग में 7,112 पदों पर भर्ती निकाली है। इस भर्ती अभियान के तहत कांस्टेबल, फायर फाइटर, वार्डर और अन्य वर्दीधारी सेवाओं के पद भरे जाएंगे। पुलिस विभाग में कांस्टेबल और वार्डर समेत 7000+ पदों पर भर्ती; 12वीं पास के लिए मौका।
-
-### [प्रशांत किशोर बोले-भाजपा नहीं पुलिस लड़ रही चुनाव, दतिया-मांजलपुर में भी मतदान जारी](https://www.amarujala.com/india-news/assembly-bypolls-2026-updates-bankipur-datia-manjalpur-voting-percentage-results-date-2026-07-30)
-*Amar Ujala Breaking* - Jul 30, 12:16 IST (iso: 2026-07-30T06:46:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/upacanava-2026_603df411165d727526fd03da86c09c73.jpeg?w=1200&dpr=1.0 -->
-
-बांकीपुर, दतिया और मांजलपुर में विधानसभा उपचुनाव के लिए मतदान जारी है। इन तीनों सीटों पर 12 अप्रैल 2026 को मतदान हुआ। बांकीपुर में 55.12 प्रतिशत मतदान हुआ, जबकि दतिया में 52.15 प्रतिशत मतदान हुआ। मांजलपुर में 49.23 प्रतिशत मतदान हुआ। बांकीपुर, दतिया और मांजलपुर में मतदान जारी; जानें कहां कितना पड़ा वोट। प्रशांत किशोर बोले-भाजपा नहीं पुलिस लड़ रही चुनाव, दतिया-मांजलपुर में भी मतदान जारी।
-
-### [लोकसभा की कार्यवाही दोपहर 2 बजे तक स्थगित, राज्यसभा से विपक्षी सांसदों का वॉकआउट](https://www.amarujala.com/live/india-news/parliament-monsoon-session-live-updates-public-examination-amendment-bill-rajya-sabha-2026-07-30)
-*Amar Ujala Breaking* - Jul 30, 12:14 IST (iso: 2026-07-30T06:44:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/06/24/parliament-session-live_6cdd0d4698dc792793147004a5225ee1.jpeg?w=1200&dpr=1.0 -->
-
-भारतीय संसद के शीतकालीन सत्र में लोक परीक्षा संशोधन विधेयक पेश हो सकता है, जिससे हंगामे की संभावना है। विपक्षी दलों ने इस विधेयक का विरोध करने की घोषणा की है। विधेयक के पारित होने के बाद, भारतीय संसद के शीतकालीन सत्र में हंगामे की संभावना है। Parliament Monsoon Session: आज राज्यसभा में पेश हो सकता है लोक परीक्षा संशोधन विधेयक, हंगामे के आसार।
-
-### ['राहुल गांधी को मांगनी पड़ेगी माफी': कंगना रनौत ने बोला हमला, मानसून सत्र के दौरान संसद में संग्राम](https://www.amarujala.com/india-news/monsoon-session-kangana-ranaut-demands-apology-from-rahul-gandhi-2026-07-30)
-*Amar Ujala National* - Jul 30, 12:12 IST (iso: 2026-07-30T06:42:25+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/02/05/kagana-ranata-rahal-gathha_e32da472a7e6dff4c3c21f699b2e6194.jpeg?w=1200&dpr=1.0 -->
-
-क्यों? monsoon session kangana ranaut demands apology from rahul gandhi 'राहुल गांधी को मांगनी पड़ेगी माफी': कंगना रनौत ने बोला हमला, मानसून सत्र के दौरान संसद में संग्राम क्यों?
-
-### [प्रेग्नेंसी के दौरान मां रहे खुश तो बच्चे को मिलता है फायदा? जानिए एक्सपर्ट की राय](https://www.amarujala.com/photo-gallery/lifestyle/fitness/pregnant-women-health-how-does-mother-s-actions-affect-baby-health-2026-07-30)
-*Amar Ujala National* - Jul 30, 12:04 IST (iso: 2026-07-30T06:34:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/women-health_2d55207aca61bf23b1ca3d794b308fb1.jpeg?w=1200&dpr=1.0 -->
-
-Pregnancy Health Tips: अक्सर आपने लोगों को ये कहते देखा होगा कि गर्भवती महिला के द्वारा किए गए हर काम और उनकी ख्वाहिशों का असर उनके होने वाले बच्चे पर पड़ता है। इस बात में कितनी सच्चाई है, आज हम आपसे इसी बारे में बात करेंगे। प्रेग्नेंसी के दौरान मां रहे खुश तो बच्चे को मिलता है फायदा? जानिए एक्सपर्ट की राय।
-
-### [जिस कोयला घोटाला में बंद हुआ मनमोहन सिंह के खिलाफ केस, उसमें क्या थे उन पर आरोप, जांच में क्या हुआ?](https://www.amarujala.com/india-news/manmohan-singh-coal-block-allotment-case-alleged-scam-supreme-court-cbi-closure-report-explained-news-2026-07-29)
-*Amar Ujala National* - Jul 30, 11:59 IST (iso: 2026-07-30T06:29:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/manmohan-singh-supreme-court-coal-block-scam-case_9977ea824a1962d6406c63773dc6e750.jpeg?w=1200&dpr=1.0 -->
-
-जिस मामले में मनमोहन सिंह को उनके निधन के 19 महीने बाद क्लीन चिट मिली है, वह क्या था? इस मामले में मनमोहन सिंह पर क्या आरोप थे? जिस कोयला घोटाला में बंद हुआ मनमोहन सिंह के खिलाफ केस, उसमें क्या थे उन पर आरोप, जांच में क्या हुआ?
-
-### [वांगचुक ने की रेलवे की तारीफ, परीक्षा सुधार से लेकर एंटी पेपर लीक बिल पर क्या बोले?](https://www.amarujala.com/india-news/sonam-wangchuk-new-video-indian-railways-praise-education-reforms-cjp-agreement-anti-paper-leak-bill-2026-07-30)
-*Amar Ujala National* - Jul 30, 11:54 IST (iso: 2026-07-30T06:24:33+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/sonam-wangchuk_25a1ae593cba43ae067d57470319b9c4.jpeg?w=1200&dpr=1.0 -->
-
-Sonam Wangchuk Video: वांगचुक ने की रेलवे की तारीफ, परीक्षा सुधार से लेकर एंटी पेपर लीक बिल पर क्या बोले?
-
-### [आईआईटी ग्रेजुएट से राष्ट्रीय फिल्म पुरस्कार विजेता तक, दिलचस्प है 'रामायण' के निर्देशक नितेश तिवारी](https://www.amarujala.com/photo-gallery/entertainment/bollywood/who-is-ramayana-director-nitesh-tiwari-is-an-iit-graduate-and-national-award-winner-2026-07-30)
-*Amar Ujala National* - Jul 30, 11:54 IST (iso: 2026-07-30T06:24:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/natasha-tavara-ramayanae_bddd6fd8a2892a4065190af54c9df937.jpeg?w=1200&dpr=1.0 -->
-
-नितेश तिवारी 'रामायण' के ट्रेलर रिलीज के साथ चर्चा में हैं। 'रामायण' का ट्रेलर रिलीज होने के साथ ही फिल्ममेकर नितेश तिवारी फिर से चर्चा में हैं। आईआईटी ग्रेजुएट से राष्ट्रीय फिल्म पुरस्कार विजेता तक, दिलचस्प है 'रामायण' के निर्देशक नितेश तिवारी।
-
-### [बांकीपुर उपचुनाव में बवाल! BJP और जन सुराज कार्यकर्ताओं में झड़प, पुलिस ने संभाला मोर्चा](https://www.amarujala.com/bihar/patna/bankipur-bypoll-bjp-jan-suraj-workers-clash-kidwaipuri-polling-booth-2026-07-30)
-*Amar Ujala Breaking* - Jul 30, 11:54 IST (iso: 2026-07-30T06:24:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/btha-para-bhaugdha-bhajapa-janasaraja-karayakarata_76c03ab451b55087455223e0ad7fab5d.jpeg?w=1200&dpr=1.0 -->
-
-बांकीपुर उपचुनाव में भाजपा और जन सुराज कार्यकर्ताओं में झड़प हुई। पटना के बांकीपुर विधानसभा उपचुनाव के दौरान किदवईपुरी स्थित मतदान केंद्रों के बाहर भाजपा और जन सुराज के कार्यकर्ताओं के बीच झड़प हो गई। पुलिस ने तत्काल हस्तक्षेप कर स्थिति को नियंत्रित किया, जिसके बाद मतदान सामान्य रूप से जारी रहा। बांकीपुर उपचुनाव में बवाल! BJP और जन सुराज कार्यकर्ताओं में झड़प, पुलिस ने संभाला मोर्चा।
-
-### [सावन आज से शुरू, जानिए शिवलिंग पर बेलपत्र चढ़ाने का महत्व और कब है सावन शिवरात्रि](https://www.amarujala.com/live/spirituality/festivals/sawan-2026-live-updates-savan-first-day-puja-vidhi-shubh-muhurat-samagri-and-wishes-in-hindi-2026-07-30)
-*Amar Ujala Breaking* - Jul 30, 11:44 IST (iso: 2026-07-30T06:14:33+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/sawan-2026_3c482d68e22cb4ccf8d5dcccab58802f.jpeg?w=1200&dpr=1.0 -->
-
-सावन महीना आज से शुरू हुआ, शिवलिंग पर बेलपत्र चढ़ाने का महत्व है। श्रावण माह में शिव जी की पूजा-उपासना का विशेष महत्व होता है। सावन आज से शुरू, जानिए शिवलिंग पर बेलपत्र चढ़ाने का महत्व और कब है सावन शिवरात्रि।
-
-### [कीर्ति कुल्हारी हुईं साइबर फ्रॉड का शिकार, लाखों की ठगी के बाद पुलिस में दर्ज करवाई शिकायत](https://www.amarujala.com/entertainment/bollywood/kirti-kulhari-falls-victim-to-cyber-fraud-files-police-complaint-after-loses-more-then-2-lakh-rupees-2026-07-30)
-*Amar Ujala Breaking* - Jul 30, 10:45 IST (iso: 2026-07-30T05:15:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/karata-kalhara_68ac8d9a928cd370acf579dc7f9d5850.jpeg?w=1200&dpr=1.0 -->
-
-कीर्ति कुल्हारी ने साइबर फ्रॉड की शिकायत पुलिस में दर्ज करवाई। ठगी करने वालों ने उनके क्रेडिट कार्ड से लाखों रुपये चुरा लिए। पुलिस ने जांच शुरू कर दी है। बॉलीवुड अभिनेत्री कीर्ति कुल्हारी के साथ साइबर ठगी हुई। फ्रॉड करने वालों ने लाखों रुपये उनके क्रेडिट कार्ड से चुरा लिए। कीर्ति कुल्हारी ने इस मामले को लेकर पुलिस में शिकायत दर्ज करवाई।
+**अपडेट:** July 30, 2026 13:24 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### ['अब हमारी बारी', ट्रंप के इतना कहते ही अमेरिका ने ईरान पर फिर बोला हमला, IRGC के 4 कमांडरों की मौत](https://hindi.news18.com/world/middle-east-iran-us-war-live-updates-donald-trump-army-attack-on-iran-centcom-irgc-livenews-10701654.html)
-*News18 Hindi (World)* - Jul 30, 12:11 IST (iso: 2026-07-30T06:41:35+00:00)
+### [ईरान पर अमेरिकी हमले में एक कपल और उसके बेटे की मौत, कुवैत में चीनी कंपनी के ऑफिस पर अटैक](https://hindi.news18.com/world/middle-east-iran-us-war-live-updates-donald-trump-army-attack-on-iran-centcom-irgc-livenews-10701654.html)
+*News18 Hindi (World)* - Jul 30, 13:17 IST (iso: 2026-07-30T07:47:02+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/iran-news-25-2026-07-bebfd19ff197fda44e9bbb22b9dfd344-1200x800.jpg -->
 
 US Ka Iran Par Hamla Live Updates: अमेरिका ने पांच दिन के विराम के बाद ईरान से जुड़े टार्गेट्स पर फिर सैन्य कार्रवाई शुरू कर दी है. राष्ट्रपति डोनाल्ड ट्रंप ने कहा, 'अब हमारी बारी है.' अमेरिका का हमला जॉर्डन में अमेरिकी सैन्य अड्डे पर हुए ईरानी मिसाइल अटैक के जवाब में की गई. दूसरी ओर, ईरानी मीडिया ने दावा किया है कि इराक में अमेरिकी-सऊदी हमलों में IRGC के चार सदस्य मारे गए हैं.
+
+### [ईरान युद्ध में बचे हैं सिर्फ 3 रास्ते, किधर जाएंगे डोनाल्ड ट्रंप? बंद कमरे में नेतन्याहू ने क्या](https://hindi.news18.com/world/middle-east-iran-us-war-only-3-option-left-discussed-by-donald-trump-and-netanyahu-ws-l-10702664.html)
+*News18 Hindi (World)* - Jul 30, 12:57 IST (iso: 2026-07-30T07:27:13+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/benjamin-netanyahu-angry-over-us-iran-deal-said-trump-and-me-not-same-2026-06-37f5489ed6779474dc8771704c9a7a50-1200x800.jpg -->
+
+डोनाल्ड ट्रंप ईरान संकट से निपटने के लिए तीन विकल्पों पर विचार कर रहे हैं। नेतन्याहू के साथ बंद कमरे में हुई बातचीत में यह तीन रास्ते सामने आए। ट्रंप इन विकल्पों को ध्यान से देख रहे हैं। Iran-US War Update: ईरान-अमेरिका युद्ध का दूसरा दौर भी फिलहाल थमा हुआ है. इस बीच डोनाल्ड ट्रंप ये भी सोच रहे हैं कि आखिर इस परिस्थिति से निकलने के विकल्प क्या हो सकते हैं.
+
+### [अमेरिका के रूस वाले बिल से भारत पर 100% टैरिफ लगने का कितना खतरा? डोनाल्ड ट्रंप ने सब साफ कर दिया](https://hindi.news18.com/world/america-donald-trump-comments-on-100-percent-tariff-threat-on-india-over-russia-sanctions-bill-ws-l-10702571.html)
+*News18 Hindi (World)* - Jul 30, 12:44 IST (iso: 2026-07-30T07:14:30+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/donald-trump-1-2026-07-6a1fdb3c28b555b780ef1277d6856051-1200x800.jpg -->
+
+डोनाल्ड ट्रंप ने कहा कि रूस से तेल खरीदने वाले देशों पर 100% टैरिफ लगाने का बिल में संशोधन की जरूरत है, जिसमें भारत भी शामिल है। ट्रंप ने कहा कि ईरान को भी इस सूची में शामिल करने की जरूरत है, जिससे यह बिल प्रभावी हो सके। डोनाल्‍ड ट्रंप ने रूस से तेल खरीदने वाले देशों पर मंडरा रहे 100 परसेंट टैर‍िफ के खतरे को लेकर बड़ा बयान द‍िया है.
+
+### [क्या पाकिस्तान के रास्ते ईरान पहुंचेंगे चीन के हथियार? रिपोर्ट पर इस्लामाबाद का आया जवाब](https://www.patrika.com/world-news/pakistan-route-china-weapons-to-iran-islamabad-response-20790051)
+*Patrika (World)* - Jul 30, 12:40 IST (iso: 2026-07-30T07:10:05+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/03/Asim-Munir-.webp -->
+
+पाकिस्तान ने चीन-ईरान हथियार सौदे की खबरों का खंडन किया है। रिपोर्ट्स में दावा किया गया था कि पाकिस्तान चीन में निर्मित हथियारों को ईरान तक पहुंचाने के लिए ट्रांजिट मार्ग के रूप में काम करेगा। पाकिस्तान ने इन रिपोर्ट्स का खंडन किया है। China Iran Weapons: पश्चिम एशिया में अमेरिका और ईरान के बीच तनाव जारी है। दोनों देश एक दूसरे के सैन्य ठिकानों पर हमले कर रहे हैं।
+
+### [जापान ने होर्मुज को कहा अलविदा, कच्चे तेल के लिए खोजा नया ठिकाना, सऊदी-कतर की जरूरत खत्म!](https://hindi.news18.com/world/rest-of-world-japan-imports-canadian-crude-oil-after-hormuz-crisis-tmx-pipeline-iran-war-10702485.html)
+*News18 Hindi (World)* - Jul 30, 12:29 IST (iso: 2026-07-30T06:59:36+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/crude-oil-ship-2026-07-024cb2543590e3b490c752f633c59c95-1200x800.jpg -->
+
+जापान ने होर्मुज जलडमरूमध्य से तेल आपूर्ति पर खतरे के बीच कनाडा से कच्चे तेल की खेप मंगाई है। 7.5 लाख बैरल तक तेल लादा गया है। जापान की सबसे बड़ी रिफाइनिंग कंपनी Eneos ने यह खेप खरीदी है। Iran Oil Crisis Hormuz: पश्चिम एशिया में बढ़ते तनाव और होर्मुज जलडमरूमध्य से तेल आपूर्ति पर खतरे के बीच जापान ने पहली बार 2025 के बाद कनाडा से कच्चे तेल की खेप मंगाई है.
 
 ### [सऊदी ने पाकिस्तान को दिया वफादारी का गिफ्ट, 5 अरब डॉलर का कर्ज तीसरी बार रोलओवर](https://hindi.news18.com/world/pakistan-saudi-arabia-rollover-5-billion-dollar-deposit-pakistan-third-time-saudi-pakistan-relations-iran-war-10702146.html)
 *News18 Hindi (World)* - Jul 30, 11:55 IST (iso: 2026-07-30T06:25:35+00:00)
@@ -120,25 +68,59 @@ US Ka Iran Par Hamla Live Updates: अमेरिका ने पांच द
 
 ---
 
+## दुनिया
+
+### [10वीं-12वीं की कंपार्टमेंट परीक्षा सात अगस्त से, एग्जाम से पहले पढ़ लें जरूरी गाइडलाइंस](https://www.amarujala.com/education/jac-compartment-exam-2026-jharkhand-board-releases-class-10-12-supplementary-exam-timetable-2026-07-30)
+*Amar Ujala National* - Jul 30, 12:58 IST (iso: 2026-07-30T07:28:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/16/jac-na-jara-kaya-sapalmatara-parakashha-ka-para-shadayal_ae3a87131923447a1e6093da67a2fdd8.jpeg?w=1200&dpr=1.0 -->
+
+JAC Compartment Exam 2026 Date: झारखंड एकेडमिक काउंसिल ने कक्षा 10वीं और 12वीं की कंपार्टमेंट एवं इंप्रूवमेंट परीक्षा 2026 का टाइमटेबल जारी कर दिया है। परीक्षा में शामिल होने वाले छात्र आधिकारिक वेबसाइट पर जाकर विस्तृत शेड्यूल देख सकते हैं। 10वीं-12वीं की कंपार्टमेंट परीक्षा सात अगस्त से, एग्जाम से पहले पढ़ लें जरूरी गाइडलाइंस।
+
+### [जानिए उम्र के अनुसार कितना होना चाहिए आपका Screen Time?](https://www.amarujala.com/photo-gallery/lifestyle/fitness/how-much-screen-time-is-healthy-according-to-age-in-hindi-2026-07-30)
+*Amar Ujala National* - Jul 30, 12:58 IST (iso: 2026-07-30T07:28:21+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/screen-time-mobile_26c0a8e4bc5a842e5ec3b0b6d5bccc2e.jpeg?w=1200&dpr=1.0 -->
+
+How Much Screen Time is Healthy: अगर आप नहीं चाहते कि मोबाइल की वजह से आपका स्वास्थ्य खराब हो तो इस लेख को अवश्य पढ़ें। यहां हम बताएंगे कि उम्र के हिसाब से आपका स्क्रीन टाइम कितना होना चाहिए। जानिए उम्र के अनुसार कितना होना चाहिए आपका Screen Time?
+
+### [स्टंट तो कई लोगों ने किए लेकिन इस शख्स ने छोड़ दिया सबको पीछे, वीडियो देख रह जाएंगे दंग](https://www.amarujala.com/bizarre-news/stunt-viral-video-many-people-pulled-off-stunts-but-this-man-unique-stunts-video-goes-viral-2026-07-30)
+*Amar Ujala National* - Jul 30, 12:57 IST (iso: 2026-07-30T07:27:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/shakhasa-ka-anakha-satata-ka-vadaya-vayaral_a1f14b089de52b1e020fc08decfc4d15.jpeg?w=1200&dpr=1.0 -->
+
+स्टंट तो कई लोगों ने किए लेकिन इस शख्स ने छोड़ दिया सबको पीछे।
+
+### [सीएम योगी का अफजाल पर निशाना: बोले- जहां का सांसद अवैध लाइसेंस बनवाने में व्यस्त, वहां के भगवान ही](https://www.amarujala.com/uttar-pradesh/varanasi/cm-yogi-targets-afzal-god-save-constituency-where-mp-busy-getting-illegal-licenses-made-in-ghazipur-2026-07-30)
+*Amar Ujala Breaking* - Jul 30, 12:08 IST (iso: 2026-07-30T06:38:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/gajapara-ma-saema-yaga_19acb22f02d4d7c3cbe3738c22d6c129.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने अवैध लाइसेंस बनवाने में व्यस्त सांसद अफजाल को निशाना बनाया है। उन्होंने कहा है कि जहां का सांसद अवैध लाइसेंस बनवाने में व्यस्त है, वहां के भगवान हैं। माफिया किसी के नहीं होते, ये समाज का खून चूसते हैं। ये कब्र में जाकर फातिया पढ़ने वाले लोग हैं। सीएम योगी का अफजाल पर निशाना: बोले- जहां का सांसद अवैध लाइसेंस बनवाने में व्यस्त, वहां के भगवान ही।
+
+### [वांगचुक ने की रेलवे की तारीफ, परीक्षा सुधार से लेकर एंटी पेपर लीक बिल पर क्या बोले?](https://www.amarujala.com/india-news/sonam-wangchuk-new-video-indian-railways-praise-education-reforms-cjp-agreement-anti-paper-leak-bill-2026-07-30)
+*Amar Ujala Breaking* - Jul 30, 11:54 IST (iso: 2026-07-30T06:24:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/sonam-wangchuk_25a1ae593cba43ae067d57470319b9c4.jpeg?w=1200&dpr=1.0 -->
+
+Sonam Wangchuk Video: वांगचुक ने की रेलवे की तारीफ, परीक्षा सुधार से लेकर एंटी पेपर लीक बिल पर क्या बोले?
+
+### [दतिया में 11 बजे तक 32.53% हुआ मतदान, भाजपा में निष्कासन का फर्जी लेटर वायरल](https://www.amarujala.com/live/madhya-pradesh/datia/datia-bypoll-election-2026-live-voting-percentage-bjp-vs-congress-updates-in-hindi-2026-07-30)
+*Amar Ujala Breaking* - Jul 30, 11:54 IST (iso: 2026-07-30T06:24:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/thataya-ma-matathana_3eba0637655da73d832370f67546b943.jpeg?w=1200&dpr=1.0 -->
+
+दतिया में 30 जुलाई को हुए मतदान में सुबह 11 बजे तक 32.53% मतदान हो चुका था। भाजपा में निष्कासन का फर्जी लेटर वायरल हुआ था, जिस पर पुलिस ने कार्रवाई की है। अमर उजाला के लाइव ब्लॉक में आपका स्वागत है। दतिया में 30 जुलाई यानी आज मतदान चल रहा। मतदाताओं में काफी उत्साह देखने को मिल रहा है।
+
+### [कीर्ति कुल्हारी हुईं साइबर फ्रॉड का शिकार, लाखों की ठगी के बाद पुलिस में दर्ज करवाई शिकायत](https://www.amarujala.com/entertainment/bollywood/kirti-kulhari-falls-victim-to-cyber-fraud-files-police-complaint-after-loses-more-then-2-lakh-rupees-2026-07-30)
+*Amar Ujala Breaking* - Jul 30, 10:45 IST (iso: 2026-07-30T05:15:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/karata-kalhara_68ac8d9a928cd370acf579dc7f9d5850.jpeg?w=1200&dpr=1.0 -->
+
+कीर्ति कुल्हारी ने साइबर फ्रॉड की शिकायत पुलिस में दर्ज करवाई। ठगी करने वालों ने उनके क्रेडिट कार्ड से लाखों रुपये चुरा लिए। पुलिस ने जांच शुरू कर दी है। बॉलीवुड अभिनेत्री कीर्ति कुल्हारी के साथ साइबर ठगी हुई। फ्रॉड करने वालों ने लाखों रुपये उनके क्रेडिट कार्ड से चुरा लिए। कीर्ति कुल्हारी ने इस मामले को लेकर पुलिस में शिकायत दर्ज करवाई।
+
+---
+
 ## एशिया-प्रशांत
 
 ### ['कीड़े मिलने पर होटल बंद करना गलत': बॉम्बे हाईकोर्ट ने FDA का आदेश किया रद्द, क्यों कहा- हम भारत](https://www.amarujala.com/india-news/shutting-down-hotel-upon-finding-insects-wrong-bombay-high-court-quashes-fda-order-why-it-are-we-in-india-2026-07-30)
-*Amar Ujala National* - Jul 30, 12:01 IST (iso: 2026-07-30T06:31:40+00:00)
+*Amar Ujala Breaking* - Jul 30, 12:01 IST (iso: 2026-07-30T06:31:40+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/bmab-haii-karata_42e39c0fa655ec9ab064d0702c08c890.jpeg?w=1200&dpr=1.0 -->
 
 Shutting down hotel upon finding insects wrong Bombay High Court quashes FDA order why it Are we in India? 'कीड़े मिलने पर होटल बंद करना गलत': बॉम्बे हाईकोर्ट ने FDA का आदेश किया रद्द, क्यों कहा- हम भारत में हैं?
-
-### [सुजुकी XL7 के नए अवतार के बाद तेज हुई XL6 अपडेट की चर्चा, क्या देश में आएगा अपडेटेड मॉडल?](https://www.amarujala.com/photo-gallery/automobiles/new-suzuki-xl7-hints-maruti-xl6-update-fresh-design-more-features-2026-07-30)
-*Amar Ujala National* - Jul 30, 11:58 IST (iso: 2026-07-30T06:28:33+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/marata-ekasael-7_aa1e019d04b536bf726bd3069808e31d.jpeg?w=1200&dpr=1.0 -->
-
-Suzuki XL7 2026: सुजुकी ने अपनी नई अपडेटेड XL7 से पर्दा उठा दिया है। जिसके बाद से देश में Maruti XL6 के अपडेटेड मॉडल की चर्चाएं तेज हो गई हैं। आइए जानते हैं कि आखिर नई XL7 में क्या बदला है और क्या ये फीचर्स भारत में भी मिल सकते हैं? सुजुकी XL7 के नए अवतार के बाद तेज हुई XL6 अपडेट की चर्चा, क्या देश में आएगा अपडेटेड मॉडल?
-
-### [रक्षाबंधन पर महिलाओं की होगी 'लक्ष्मी' बरसात, कैसे करें आवेदन और जानिए कौन उठा सकेगा फायदा?](https://www.amarujala.com/photo-gallery/utility/delhi-lakshmi-yojana-women-to-get-2500-rupess-every-month-check-eligibility-documents-and-application-process-2026-07-30)
-*Amar Ujala National* - Jul 30, 11:55 IST (iso: 2026-07-30T06:25:53+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/janprratamatha-mahalo-ka-le-sarakara-ka-tahafa_72dea2d9c6a26e81dc772ca855d6a97a.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली सरकार अगस्त 2026 से दिल्ली लक्ष्मी योजना शुरू करने जा रही है। योजना के तहत पात्र महिलाओं को हर महीने 2500 रुपये की आर्थिक सहायता मिलेगी। रक्षाबंधन पर महिलाओं की होगी 'लक्ष्मी' बरसात, कैसे करें आवेदन और जानिए कौन उठा सकेगा फायदा?
 
 ### [21वीं सदी का पुष्‍पक विमान, एक बार में नाप डाला 23000 KM, 960 KMPH की तूफानी रफ्तार से भरी हुंकार](https://hindi.news18.com/world/rest-of-world-airbus-a350-1000ulr-aircraft-23075-kilometer-nonstop-longest-flight-960-kmph-speed-made-world-record-photogallery-10702158.html)
 *News18 Hindi (World)* - Jul 30, 11:52 IST (iso: 2026-07-30T06:22:29+00:00)
@@ -146,21 +128,39 @@ Suzuki XL7 2026: सुजुकी ने अपनी नई अपडेट�
 
 एयरबस ने एक फ्लाइट में 23000 किमी की दूरी तय करने का रिकॉर्ड बनाया। World Longest Flight: भारतीय धर्मशास्‍त्र में पुष्‍पक विमान का उल्‍लेख मिलता है. इसके अनुसार, ऐसा बताया जाता है कि मन की रफ्तार से चलने वाला यह विमान अनंत दूरियों को तय कर लेता है. विमान निर्माता कंपनी एयरबस ने कुछ ऐसा ही कर दिखाया है. एयरबस ने ऐसा एयरक्राफ्ट डेवलप किया है, जिसने एक फ्लाइट में सबसे लंबी दूरी तय करने का वर्ल्‍ड रिकॉर्ड बना दिया है.
 
+### [भारी वाहन हुए डायवर्ट, दो अगस्त से बसों का बदलेगा रूट, इन मार्गों से चलेंगी बसें; चार से वन-वे](https://www.amarujala.com/uttar-pradesh/meerut/meerut-bus-route-diversion-heavy-vehicles-diverted-amid-kanwar-yatra-check-details-in-hindi-2026-07-30)
+*Amar Ujala Breaking* - Jul 30, 11:52 IST (iso: 2026-07-30T06:22:21+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/meerut-bus-route_33c53596e40fd2a73bdabf80469b7304.jpeg?w=1200&dpr=1.0 -->
+
+दो अगस्त से मेरठ से होकर लखनऊ, आगरा समेत विभिन्न शहरों के लिए रोडवेज बसों का रूट बदल जाएगा। बसें अब चार से वन-वे मार्ग पर चलेंगी। अगर आप कांवड़ मेले के दौरान मेरठ से होकर लखनऊ, आगरा समेत विभिन्न शहरों के साथ-साथ दिल्ली, राजस्थान, मध्य प्रदेश, हरियाणा, उत्तराखंड आदि प्रदेशों के लिए रोडवेज बसों में यात्रा करने की तैयारी में हैं तो बसों का रूट प्लान जरूर देख लें।
+
+### ['देश को हमेशा खुद से ऊपर रखा...', अजिंक्य रहाणे ने भावुक संदेश के साथ लिया संन्यास](https://www.amarujala.com/cricket/ajinkya-rahane-retirement-i-always-put-my-country-before-myself-emotional-farewell-from-india-star-2026-07-30)
+*Amar Ujala Breaking* - Jul 30, 11:30 IST (iso: 2026-07-30T06:00:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/cricket-news-cricket-international-ajinkya-rahane-retirement-ajinkya-rahane-news-ajinkya-raha_8fc29bb3ca1adce78d480007bb7f0157.jpeg?w=1200&dpr=1.0 -->
+
+अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट से संन्यास का एलान किया। उन्हें भारत के सबसे भरोसेमंद बल्लेबाजों में शुमार किया जाता है। रहाणे ने सभी प्रारूपों से संन्यास लेने का फैसला किया है। भारतीय क्रिकेट के सबसे भरोसेमंद बल्लेबाजों में शुमार अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट और सभी प्रारूपों से संन्यास का एलान कर दिया।
+
 ### [1971 में पूर्वी पाकिस्तान... 2026 में PoJK, क्या पाक सेना के दमन पर दुनिया फिर चुप्पी साधे बैठी है?](https://hindi.news18.com/news/defence/pojk-crisis-1971-east-pakistan-pakistan-army-crackdown-global-silence-ws-l-10700591.html)
 *News18 Hindi (World)* - Jul 30, 11:18 IST (iso: 2026-07-30T05:48:25+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Your-paragraph-text-1600-x-900-px-2026-07-30T121427.288-2026-07-1439d52cc57b3d67144336ebf4c9d0df-1200x800.jpg -->
 
 पाकिस्तान अधिकृत कश्मीर में 90 प्रदर्शनकारियों की मौत, दुनिया चुप। पाकिस्तान अधिकृत जम्मू-कश्मीर (PoJK) में बिजली, आटा, महंगाई और राजनीतिक अधिकारों को लेकर शुरू हुआ आंदोलन अब बड़ा संकट बन चुका है. 90 प्रदर्शनकारियों की मौत की खबर है. पाकिस्तानी सेना की कार्रवाई और नागरिकों की मौत के दावों के बीच दुनिया की चुप्पी पर सवाल उठ रहे हैं. क्या 1971 के पूर्वी पाकिस्तान जैसी खामोशी फिर दिखाई दे रही है?
 
+### [खजुराहो एयरपोर्ट बना देश का नंबर-1 एयरपोर्ट, लेकिन दो महीने से नहीं उड़ रही एक भी नियमित फ्लाइट](https://www.amarujala.com/madhya-pradesh/khajuraho-airport-ranked-india-best-aai-customer-satisfaction-survey-2026-no-commercial-flights-2026-07-30)
+*Amar Ujala Breaking* - Jul 30, 10:47 IST (iso: 2026-07-30T05:17:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/30/thasha-ma-nabra-1-ka-taja-nayamata-uugdhana-ka-abhava-para-saval_541b7a2bae0d1563744e5b3e9e3f0b68.jpeg?w=1200&dpr=1.0 -->
+
+खजुराहो एयरपोर्ट ने देश के सर्वश्रेष्ठ एयरपोर्ट का खिताब जीता है। लेकिन इसके बावजूद यहां दो महीने से कोई नियमित फ्लाइट नहीं उड़ रही है। यह सवाल उठ रहा है कि क्या यह उपलब्धि वास्तव में इसके प्रयासों का परिणाम है। भारतीय विमानपत्तन प्राधिकरण (AAI) के वर्ष 2026 के राष्ट्रीय सेवा एवं ग्राहक संतुष्टि सूचकांक सर्वे में खजुराहो एयरपोर्ट को देश का सर्वश्रेष्ठ एयरपोर्ट घोषित किया गया है।
+
+### [‘पाकिस्तानी कश्मीर’ लिखने पर भड़का भारत, अमेरिकी अखबार NYT को लगाई कड़ी फटकार, कहा- यह भ्रामक और](https://www.patrika.com/world-news/india-objects-nyt-headline-pakistani-kashmir-pok-controversy-20789578)
+*Patrika (World)* - Jul 30, 10:33 IST (iso: 2026-07-30T05:03:03+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/photo_6294093088904909054_w-1.webp -->
+
+भारत ने अमेरिकी अखबार NYT को कड़ी फटकार लगाई है। अखबार ने पाकिस्तान के कब्जे वाले कश्मीर को "पाकिस्तानी कश्मीर" लिखा था, जिसे भारत ने भ्रामक और गलत बताया है। भारत ने साफ किया है कि वह क्षेत्र भारत का अभिन्न हिस्सा है। India objects NYT Headline: अमेरिका में भारतीय दूतावास ने प्रसिद्ध अमेरिकी अखबार ‘द न्यूयॉर्क टाइम्स’ (NYT) की एक रिपोर्ट पर कड़ी आपत्ति जताई है।
+
 ---
 
 ## यूरोप और रूस
-
-### [इन 3 राशि वालों की पूरे सावन चमकेगी किस्मत, करियर से लेकर निवेश तक मिलेंगे मनचाहे परिणाम](https://www.amarujala.com/photo-gallery/astrology/predictions/sawan-horoscope-2026-these-zodiac-will-get-extra-benefits-in-sawan-2026-07-28)
-*Amar Ujala National* - Jul 30, 11:58 IST (iso: 2026-07-30T06:28:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/07/sawan-2026_821a80b7125f4743db40c7f43d546c7d.jpeg?w=1200&dpr=1.0 -->
-
-Sawan 2026: सावन में कुछ राशियों पर भगवान शिव की कृपा के साथ-साथ ग्रहों का भी विशेष आशीर्वाद बना रहेगा। आइए इनके नाम जानते हैं। इन 3 राशि वालों की पूरे सावन चमकेगी किस्मत, करियर से लेकर निवेश तक मिलेंगे मनचाहे परिणाम।
 
 ### [कैटी पेरी को सनस्क्रीन लगाते दिखे कनाडा के Ex PM जस्टिन ट्रूडो, रोमांटिक तस्वीरों ने मचाई हलचल](https://hindi.news18.com/world/rest-of-world-justin-trudeau-spotted-applying-sunscreen-down-girlfriend-katy-perry-top-romantic-photos-cause-stir-photogallery-10702165.html)
 *News18 Hindi (World)* - Jul 30, 10:49 IST (iso: 2026-07-30T05:19:25+00:00)
