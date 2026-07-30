@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-07-30T10:47:17.403145+00:00",
+  "generated_at": "2026-07-30T11:40:42.562073+00:00",
   "article_count": 50,
-  "total_unique_count": 278,
+  "total_unique_count": 280,
   "digest": {
-    "en": "Putin's Shifting Rhetoric Now Echoes Criticism He Once Aimed At Kyiv dominates the headlines, with Russia's military pounding Ukraine with missiles killing at least eight, including children. Meanwhile, the US military launches new strikes on Iran, marking a significant escalation in the region's ongoing tensions.",
-    "hi": "ईरान और अमेरिका के बीच तनाव बढ़ रहा है, अमेरिकी एयर स्ट्राइक के बाद ईरान ने स्ट्रेट ऑफ होर्मुज को अपना बताया है, जो दुनिया का सबसे महत्वपूर्ण तेल परिवहन मार्ग है। इसी समय, पाकिस्तान के कब्जे वाले कश्मीर में सुरक्षा बलों की ज्यादती के मामले सामने आ रहे हैं।"
+    "en": "Japan's earthquakes dominate the news, with multiple aftershocks reported in the past 24 hours. Meanwhile, the US military's latest strikes on Iran's Revolutionary Guards Corps have sparked a new wave of tensions in the Middle East. The situation in Ukraine continues to deteriorate, with Russia pounding the country with missiles and killing at least eight civilians.",
+    "hi": "भारतीय सीमा से लगे नेपाली इलाके में कर्फ्यू जारी, सांप्रदायिक हिंसा के बाद हालात गंभीर हैं। भारत ने नेपाल को सुरक्षा सहायता देने की पेशकश की है, लेकिन नेपाली सरकार ने अभी तक इसकी स्वीकृति नहीं दी है। नेपाली सेना ने भी अपने जवानों को उच्च संवेदनशीलता में तैनात किया है।"
   },
   "articles": [
+    {
+      "title": "Japan’s earthquakes: Maps and graphics",
+      "url": "https://www.thehindu.com/news/international/japans-earthquakes-maps-and-graphics/article71284633.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-30T11:12:42+00:00",
+      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-international/92ly24/article71283504.ece/alternates/LANDSCAPE_1200/Death-toll-riseG77GAQ329.3.jpg.jpg",
+      "summary": "A magnitude-6.8 earthquake struck in Japan near Kumamoto in Japan on July 28, one of the more powerful earthquakes this year recorded in the region. Here are graphics explaining the quake’s intensity, regional seismicity and more. Japan’s earthquakes: Maps and graphics.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US Military Says Latest Strikes Target Iran's Revolutionary Guards Corps",
+      "url": "https://www.rferl.org/a/us-strikes-target-iran-revolutionary-guards-corps/33818316.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-30T10:59:30+00:00",
+      "image_url": "https://gdb.rferl.org/7d8d9176-a112-4fa4-8135-08decad17715_tv_w1200_h630.jpg",
+      "summary": "The US military said it launched dozens of strikes against targets linked to Iran's powerful Islamic Revolutionary Guards Corps (IRGC) in response to Iranian attacks on American troops in Jordan after President Donald Trump had vowed to retaliate and \"hit them very hard.\" US Military Says Latest Strikes Target Iran's Revolutionary Guards Corps.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Kyiv’s clear message to New Delhi: Not a single Ukrainian drone sent to Pakistan",
+      "url": "https://www.thehindu.com/news/international/ukraine-drones-russia-india-pakistan-operation-sindoor-warfare/article70381759.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-30T10:48:54+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/yl3mci/article70381745.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_93734.jpg",
+      "summary": "This assertion becomes particularly important, especially in light of reports during Operation Sindoor alleging that Pakistani forces were being supplied with drones originating from Ukraine. This claim has circulated but remained difficult to independently verify Kyiv’s clear message to New Delhi: Not a single Ukrainian drone sent to Pakistan.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "From Pajero culture to street protests: The struggle for accountability in Pakistan-occupied Kashmir",
+      "url": "https://www.thehindu.com/opinion/op-ed/from-pajero-culture-to-street-protests-the-struggle-for-accountability-in-pakistan-occupied-kashmir/article70124264.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-30T10:48:12+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/vpmo3c/article70124269.ece/alternates/LANDSCAPE_1200/2025-10-01T174327Z_642239687_RC2W2HAKN14L_RTRMADP_3_PAKISTAN-PROTEST.JPG",
+      "summary": "For decades, the Pakistani state has diplomatically showcased PoK to the world as if it were a separate country, complete with its own constitution, a Prime Minister as chief executive, and a President as constitutional head From Pajero culture to street protests: The struggle for accountability in Pakistan-occupied Kashmir.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ballots without a country: a quiet case for pluralism in Myanmar",
+      "url": "https://www.thehindu.com/news/international/ballots-without-a-country-a-quiet-case-for-pluralism-in-myanmar/article70788535.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-30T10:47:27+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/5nwvs1/article70789771.ece/alternates/LANDSCAPE_1200/AFP_A3EU4F6.jpg",
+      "summary": "In a country where geography mirrors diversity and authority remains contested, elections in Myanmar unfold detached from realities on the ground; with key Opposition forces excluded and large swathes of the nation outside effective participation, the exercise underscores how the absence of pluralism and federal accommodation continue to undermine any meaningful democratic transition Ballots without a country: a quiet case for pluralism in Myanmar.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Putin's Shifting Rhetoric Now Echoes Criticism He Once Aimed At Kyiv",
       "url": "https://www.rferl.org/a/putin-s-shifting-rhetoric-now-echoes-criticism-he-once-aimed-at-kyiv-/33818300.html",
@@ -28,18 +88,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2021/02/Myanmar-Min-Aung-Hlaing-Coup-2019-1-e1612954838149.jpg",
       "summary": "The multidimensional crisis that has gripped Myanmar since the military coup on February 1, 2021, has entered a new chapter. one increasingly complex and riddled with contradictions. The move by military chief and coup maker Senior General Min Aung Hlaing to overthrow the civilian government of the National League for Democracy (NLD) did not [] The post Myanmar’s junta slowly but surely winning.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Newspaper in China’s Guangxi becomes unlikely collector's item after Wang Hong's Fields Medal win",
-      "url": "https://www.channelnewsasia.com/east-asia/china-guangxi-newspaper-viral-wang-hong-mathematician-fields-medal-6287921",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-07-30T09:27:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--9z8Dm7Lb--/c_crop,h_719,w_1278,x_0,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/30/guangxi_daily_newspaper_169.jpg?itok=636wTs0n",
-      "summary": "The Jul 25 edition of Guangxi Daily featured a front-page profile of hometown mathematician and Fields Medal winner Wang Hong. The headline’s layered wordplay has won praise and helped turn the copy into an unlikely keepsake. Newspaper in China’s Guangxi goes viral after featuring hometown mathematician. Newspaper in China’s Guangxi becomes unlikely collector's item after Wang Hong's Fields Medal win.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -76,18 +124,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG",
       "summary": "The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia. Why is the founder of Telegram on Russia’s wanted list.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Japan quake toll hits 28 as survivors struggle in heat",
-      "url": "https://www.thehindu.com/news/international/japan-quake-death-toll-increases-as-survivors-struggle-in-heat/article71284372.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-30T04:45:06+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/ncp0mr/article71284389.ece/alternates/LANDSCAPE_1200/2026-07-30T025432Z_1269635469_RC2ZNMAYS0N1_RTRMADP_3_JAPAN-QUAKE.JPG",
-      "summary": "The government issued the new tally as Kumamoto officials said they have now extracted four bodies from the mass of rubble, steel and wires of the Aeon shopping mall after a suspected gas blast following the quake Japan quake toll hits 28 as survivors struggle in heat.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -248,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "Russia-Iran Sanctions Bill Signals Congress United Behind Ukraine, Senator Whitehouse Tells RFE/RL",
-      "url": "https://www.rferl.org/a/us-senate-whitehouse-sanctions-russia-iran/33816935.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-28T19:22:21+00:00",
-      "image_url": "https://gdb.rferl.org/7230949A-A8BE-4A8A-96C7-33A7D94E690D_cx0_cy6_cw0_w1200_h630.jpg",
-      "summary": "As the US Senate prepared to vote on a sweeping bipartisan sanctions package targeting Russia and Iran, Democratic Senator Sheldon Whitehouse, a co-sponsor of the legislation, said the measure reflects renewed bipartisan resolve to squeeze the Kremlin war machine and reinforce support for Ukraine. Russia-Iran Sanctions Bill Signals Congress United Behind Ukraine, Senator Whitehouse Tells RFE/RL.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168043",
       "source": "UN News",
@@ -284,28 +308,58 @@
       "translations": {}
     },
     {
-      "title": "IOM warns trafficking networks are booming",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168038",
-      "source": "UN News",
+      "title": "₹73,24,30,51,26,640 खर्च कर 14 परमाणु पनडुब्बियां बनाएगा अमेरिका, कीमत लगभग भारत के रक्षा बजट जितनी",
+      "url": "https://hindi.news18.com/news/defence/us-navy-76-billion-dollar-submarine-deal-14-nuclear-submarines-columbia-virginia-class-ws-l-10703303.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-28T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-06-2024-UNODC-Philippines-3-LG.jpg/image770x420cropped.jpg",
-      "summary": "A job advert can hide a criminal network, and a single click can lead to a nightmare. Hundreds of thousands of people are trafficked every year on the promise of legitimate work abroad, only to be held captive and forced into online scam operations. IOM warns trafficking networks are booming.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-30T11:39:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Your-paragraph-text-1600-x-900-px-2026-07-30T170418.619-2026-07-8ffda1ce5fa06ab5d0732c84b29ede0c-1200x800.jpg",
+      "summary": "अमेरिकी नौसेना ने 76.6 अरब डॉलर की मेगा डील के तहत 14 नई परमाणु पनडुब्बियों के निर्माण का अनुबंध दिया है. इसमें 9 Virginia-class और 5 Columbia-class पनडुब्बियां शामिल हैं. यह रकम भारत के वार्षिक रक्षा बजट के लगभग बराबर है. अमेरिकी नौसेना ने 76.6 अरब डॉलर (करीब ₹7.32 लाख करोड़) की मेगा डील के तहत 14 नई परमाणु पनडुब्बियों के निर्माण का अनुबंध दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "₹73,24,30,51,26,640 खर्च कर 14 परमाणु पनडुब्बियां बनाएगा अमेरिका, कीमत लगभग भारत के रक्षा बजट जितनी",
+          "summary": "अमेरिकी नौसेना ने 76.6 अरब डॉलर की मेगा डील के तहत 14 नई परमाणु पनडुब्बियों के निर्माण का अनुबंध दिया है. इसमें 9 Virginia-class और 5 Columbia-class पनडुब्बियां शामिल हैं. यह रकम भारत के वार्षिक रक्षा बजट के लगभग बराबर है. अमेरिकी नौसेना ने 76.6 अरब डॉलर (करीब ₹7.32 लाख करोड़) की मेगा डील के तहत 14 नई परमाणु पनडुब्बियों के निर्माण का अनुबंध दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
-      "title": "Updates on Gaza, West Bank amid regional tensions",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168037",
-      "source": "UN News",
+      "title": "नेपाल में सांप्रदायिक हिंसा के बाद हालात गंभीर, भारतीय सीमा से लगे इलाके में अब भी कर्फ्यू",
+      "url": "https://hindi.news18.com/world/south-asia-nepal-infinite-curfew-near-indian-border-districts-after-communal-violence-ws-l-10703417.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-28T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/23-07-2026-WFP-Egypt-Gaza.jpg/image770x420cropped.jpg",
-      "summary": "Regional tensions are mounting as the US-Iran war continues and a rising number of Israeli attacks are threatening Gaza’s fragile October ceasefire that ended two years of war with Hamas. Security Council members are hearing updates on Tuesday. Join our live coverage. Updates on Gaza, West Bank amid regional tensions. Security Council members heard briefings followed by an open debate on Tuesday.",
+      "published_at": "2026-07-30T11:06:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/nepal-curfew-2026-07-4b6b347c16e047dfad26fb8f32299c56-1200x800.jpg",
+      "summary": "नेपाल में सांप्रदायिक हिंसा के बाद हालात गंभीर हो गए हैं। सुनसरी जिले में हुई झड़प के चलते भारत से सटे हुए इलाकों में अनिश्चितकालीन कर्फ्यू लगा दिया गया है, जिसे अब तक हटाया नहीं गया है। कर्फ्यू के कारण इन इलाकों में लोगों की गतिविधियां पूरी तरह से रुक गई हैं। Nepal Curfew: नेपाल में सांप्रदायिक हिंसा के बाद जो बवाल हुआ था, उसके बाद कई इलाकों में कर्फ्यू लगा दिया गया था.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल में सांप्रदायिक हिंसा के बाद हालात गंभीर, भारतीय सीमा से लगे इलाके में अब भी कर्फ्यू",
+          "summary": "नेपाल में सांप्रदायिक हिंसा के बाद हालात गंभीर हो गए हैं। सुनसरी जिले में हुई झड़प के चलते भारत से सटे हुए इलाकों में अनिश्चितकालीन कर्फ्यू लगा दिया गया है, जिसे अब तक हटाया नहीं गया है। कर्फ्यू के कारण इन इलाकों में लोगों की गतिविधियां पूरी तरह से रुक गई हैं। Nepal Curfew: नेपाल में सांप्रदायिक हिंसा के बाद जो बवाल हुआ था, उसके बाद कई इलाकों में कर्फ्यू लगा दिया गया था.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अभिजीत दिपके को क्या पाकिस्तान के दोस्त तुर्की से मिले फंड? सोशल मीडिया पर किए गए दावे से मचा हंगामा",
+      "url": "https://hindi.news18.com/world/south-asia-cjp-protester-abhijit-dipke-getting-money-from-turkey-social-media-claims-spark-debate-10702926.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T10:49:07+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/ABHIJIT-DIPKE-2026-07-daa34391c995420ca83f04913b4c1f0a-1200x800.jpg",
+      "summary": "अभिजीत दिपके ने तुर्की में एक इंटरव्यू दिया था, जिसमें उन्होंने भारत के खिलाफ टिप्पणियां कीं। इस इंटरव्यू के बाद सोशल मीडिया पर दावा किया जा रहा है कि उन्हें पाकिस्तान के दोस्त तुर्की से फंड मिला था। हालांकि, अभिजीत दिपके ने इस दावे को खारिज कर दिया है। Abhijit Dipke Turkey Interview: जंतर-मंतर पर नीट परीक्षा लीक और छात्रों के हक की आवाज उठाने से पहले कॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके कहां थे?",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अभिजीत दिपके को क्या पाकिस्तान के दोस्त तुर्की से मिले फंड? सोशल मीडिया पर किए गए दावे से मचा हंगामा",
+          "summary": "अभिजीत दिपके ने तुर्की में एक इंटरव्यू दिया था, जिसमें उन्होंने भारत के खिलाफ टिप्पणियां कीं। इस इंटरव्यू के बाद सोशल मीडिया पर दावा किया जा रहा है कि उन्हें पाकिस्तान के दोस्त तुर्की से फंड मिला था। हालांकि, अभिजीत दिपके ने इस दावे को खारिज कर दिया है। Abhijit Dipke Turkey Interview: जंतर-मंतर पर नीट परीक्षा लीक और छात्रों के हक की आवाज उठाने से पहले कॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके कहां थे?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "अमेरिकी एयर स्ट्राइक के बाद ईरान ने दी खुली चेतावनी, कहा- स्ट्रेट ऑफ होर्मुज हमारा है, दुश्मनों को",
@@ -322,6 +376,42 @@
           "title": "अमेरिकी एयर स्ट्राइक के बाद ईरान ने दी खुली चेतावनी, कहा- स्ट्रेट ऑफ होर्मुज हमारा है, दुश्मनों को",
           "summary": "US-Iran War Latest Update: लगभग 5 महीने पहलेयानी कि 28 फरवरी 2026 से शुरू हुआ अमेरिका और ईरान के बीच युद्ध खत्म होने का नाम नहीं ले रहा। कई बार दोनों देशों के बीच शांति वार्ता भी हो चुकी है, लेकिन इसका कुछ खास असर नहीं दिखा। हाल में अमेरिका ने ईरान पर भीषण एयर स्ट्राइक की। टारगेट पर था IRGC का हेडक्वार्टर, ईरान का एयर डिफेंस सिस्टम, आर्मी कैंप, रडार सिस्टम।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान जैसा दोस्त न मिले! एक हाथ से चीन का कर्ज लौटाया, तुरंत दूसरे हाथ से फिर मांगने लगा उधार",
+      "url": "https://hindi.news18.com/world/china-pakistan-repaid-china-loan-waiting-for-refinance-kuwait-1990-loan-us-aid-10703101.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T10:08:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/shehbaz-sharif-jinping-2026-07-65e784cd25e754ac294ebe5de88730b4-1200x800.jpg",
+      "summary": "पाकिस्तान ने चीन का 1.4 अरब डॉलर का कमर्शियल लोन चुकाया है, लेकिन अब वह उसी रकम के दोबारा रीफाइनेंस होने का इंतजार कर रहा है. जमील अहमद ने कहा कि चीनी बैंक कुछ हफ्तों में फिर यह रकम उधार दे सकते हैं. पाकिस्तान का 250 मिलियन डॉलर का कर्ज कुवैत के पास बकाया है, जो 1990 के दशक से ही लंबित है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान जैसा दोस्त न मिले! एक हाथ से चीन का कर्ज लौटाया, तुरंत दूसरे हाथ से फिर मांगने लगा उधार",
+          "summary": "पाकिस्तान ने चीन का 1.4 अरब डॉलर का कमर्शियल लोन चुकाया है, लेकिन अब वह उसी रकम के दोबारा रीफाइनेंस होने का इंतजार कर रहा है. जमील अहमद ने कहा कि चीनी बैंक कुछ हफ्तों में फिर यह रकम उधार दे सकते हैं. पाकिस्तान का 250 मिलियन डॉलर का कर्ज कुवैत के पास बकाया है, जो 1990 के दशक से ही लंबित है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चीन नहीं अमेरिका ने बनाया था कोरोना वायरस? US के सबसे बड़े डॉक्टर ने संविधान को बनाया ढाल, सिल लिए",
+      "url": "https://hindi.news18.com/news/knowledge/corona-outbreak-usa-role-or-virus-created-in-china-lab-dr-fauci-invoke-fifth-amendment-story-10703026.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T09:51:30+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Untitled-design-2026-07-30T150536.061-2026-07-7483f6681687c304bab0a1be53544fee-1200x800.jpg",
+      "summary": "अमेरिका के पूर्व चीफ मेडिकल एडवाइजर रॉबर्ट रेडफील्ड ने कोरोना वायरस के मामले में चीन के खिलाफ आरोप लगाने से इनकार कर दिया. उन्होंने कहा कि वायरस के असली मूल के बारे में कोई जानकारी नहीं है, और यह संभव है कि यह चीन में नहीं बल्कि अमेरिका में ही पैदा हुआ हो. रेडफील्ड ने संविधान के पांचवें संशोधन का हवाला देते हुए कहा कि सरकार को वायरस के मूल के बारे में जानकारी देने के लिए मजबूर नहीं किया जा सकता है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन नहीं अमेरिका ने बनाया था कोरोना वायरस? US के सबसे बड़े डॉक्टर ने संविधान को बनाया ढाल, सिल लिए",
+          "summary": "अमेरिका के पूर्व चीफ मेडिकल एडवाइजर रॉबर्ट रेडफील्ड ने कोरोना वायरस के मामले में चीन के खिलाफ आरोप लगाने से इनकार कर दिया. उन्होंने कहा कि वायरस के असली मूल के बारे में कोई जानकारी नहीं है, और यह संभव है कि यह चीन में नहीं बल्कि अमेरिका में ही पैदा हुआ हो. रेडफील्ड ने संविधान के पांचवें संशोधन का हवाला देते हुए कहा कि सरकार को वायरस के मूल के बारे में जानकारी देने के लिए मजबूर नहीं किया जा सकता है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -350,14 +440,50 @@
       "sources": [],
       "published_at": "2026-07-30T09:36:59+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/01/Mehbooba-Mufti.jpg",
-      "summary": "Mehbooba Mufti on PoJK violence: PDP अध्यक्ष महबूबा मुफ्ती ने गुरुवार को पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (PoJK) के रावलकोट में बढ़ती हिंसा और प्रदर्शन कर रहे नागरिकों के खिलाफ की जा रही सख्त कार्रवाई पर गहरी चिंता जताई है। उन्होंने पाकिस्तान सरकार से अधिक मानवीय रवैया अपनाने की अपील की।",
+      "summary": "Mehbooba Mufti on PoJK violence: PDP अध्यक्ष महबूबा मुफ्ती ने गुरुवार को पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (PoJK) के रावलकोट में बढ़ती हिंसा और प्रदर्शन कर रहे नागरिकों के खिलाफ की जा रही सख्त कार्रवाई पर गहरी चिंता जताई है। उन्होंने पाकिस्तान सरकार से अधिक मानवीय रवैया अपनाने की अपील की। सोशल मीडिया एक्स पर महबूबा मुफ्ती ने कहा कि शांतिपूर्ण प्रदर्शनकारियों की जायज मांगों को सुनने के बजाय उन प।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "PoJK में सुरक्षा बलों की ज्यादती पर महबूबा मुफ्ती ने पाकिस्तान सरकार को घेरा, बोलीं- ‘तस्वीरें बेहद",
-          "summary": "Mehbooba Mufti on PoJK violence: PDP अध्यक्ष महबूबा मुफ्ती ने गुरुवार को पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (PoJK) के रावलकोट में बढ़ती हिंसा और प्रदर्शन कर रहे नागरिकों के खिलाफ की जा रही सख्त कार्रवाई पर गहरी चिंता जताई है। उन्होंने पाकिस्तान सरकार से अधिक मानवीय रवैया अपनाने की अपील की।",
+          "summary": "Mehbooba Mufti on PoJK violence: PDP अध्यक्ष महबूबा मुफ्ती ने गुरुवार को पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (PoJK) के रावलकोट में बढ़ती हिंसा और प्रदर्शन कर रहे नागरिकों के खिलाफ की जा रही सख्त कार्रवाई पर गहरी चिंता जताई है। उन्होंने पाकिस्तान सरकार से अधिक मानवीय रवैया अपनाने की अपील की। सोशल मीडिया एक्स पर महबूबा मुफ्ती ने कहा कि शांतिपूर्ण प्रदर्शनकारियों की जायज मांगों को सुनने के बजाय उन प।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "₹564691 करोड़ की मेगा डिफेंस डील, हमलावरों पर भूखे शेर की तरह टूट पड़ेगा THAAD, दुश्‍मन करेगा",
+      "url": "https://hindi.news18.com/news/defence/america-donald-trump-government-rupees-5646919500000-crore-usd-59-billion-patriot-missile-thaad-deal-lockheed-martin-10702811.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T09:10:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Patriot-missile-1-2026-07-09fa382500454dee3139c61074bf6032-1200x800.jpg",
+      "summary": "भारत ने अमेरिका से THAAD एयर डिफेंस सिस्टम खरीदने का निर्णय लिया है, जिससे देश की सुरक्षा में सुधार होगा। यह सिस्टम फाइटर जेट और मिसाइल अटैक के साथ ही ड्रोन हमलों को भी रोक सकता है। भारत की सैन्य ताकत में वृद्धि होगी। Patriot Interceptor Missile Deal: 21वीं सदी के वॉरफेयर में एयर डिफेंस सिस्‍टम काफी अहम हो चुका है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "₹564691 करोड़ की मेगा डिफेंस डील, हमलावरों पर भूखे शेर की तरह टूट पड़ेगा THAAD, दुश्‍मन करेगा",
+          "summary": "भारत ने अमेरिका से THAAD एयर डिफेंस सिस्टम खरीदने का निर्णय लिया है, जिससे देश की सुरक्षा में सुधार होगा। यह सिस्टम फाइटर जेट और मिसाइल अटैक के साथ ही ड्रोन हमलों को भी रोक सकता है। भारत की सैन्य ताकत में वृद्धि होगी। Patriot Interceptor Missile Deal: 21वीं सदी के वॉरफेयर में एयर डिफेंस सिस्‍टम काफी अहम हो चुका है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'मुझे मार दो, मालामाल कर दूंगी तुम्हें', लड़की ने दी खुद की ही सुपारी, सनकी आदमी ने तड़पा-तड़पाकर",
+      "url": "https://hindi.news18.com/world/america-woman-travelled-from-england-to-us-paid-man-online-to-torture-and-kill-her-crime-story-ws-l-10702702.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T08:47:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/britain-news-2026-07-74574778c66f3d029e55aa08fd153fa3-1200x800.jpg",
+      "summary": "एक ब्रिटिश महिला ने अपने नाम की सुपारी दे दी, जिसके परिणामस्वरूप उसे शारीरिक और मानसिक दोनों तरह से प्रताड़ित किया गया। महिला ने अपने अपराधी को पैसे दिए, लेकिन इसके बाद भी उसे प्रताड़ित किया गया। पुलिस ने अपराधी को गिरफ्तार कर लिया है। Women Paid Woman for Torture: आजकल की दुनिया में क्या-क्या होता है, वो आप सोच भी नहीं सकते.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मुझे मार दो, मालामाल कर दूंगी तुम्हें', लड़की ने दी खुद की ही सुपारी, सनकी आदमी ने तड़पा-तड़पाकर",
+          "summary": "एक ब्रिटिश महिला ने अपने नाम की सुपारी दे दी, जिसके परिणामस्वरूप उसे शारीरिक और मानसिक दोनों तरह से प्रताड़ित किया गया। महिला ने अपने अपराधी को पैसे दिए, लेकिन इसके बाद भी उसे प्रताड़ित किया गया। पुलिस ने अपराधी को गिरफ्तार कर लिया है। Women Paid Woman for Torture: आजकल की दुनिया में क्या-क्या होता है, वो आप सोच भी नहीं सकते.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -380,6 +506,24 @@
       }
     },
     {
+      "title": "बढ़ती जनसंख्या पर पाकिस्तान चिंतित, नहीं संभले तो 2040 तक 40 करोड़ पहुंच सकती है आबादी",
+      "url": "https://www.patrika.com/world-news/pakistan-population-may-reach-40-crore-by-2040-family-planning-warning-20790266",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-30T08:14:05+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Shehbaz-Sharif-.webp",
+      "summary": "पाकिस्तान की जनसंख्या बढ़ती जा रही है, जिससे सरकार के लिए चुनौती बन गई है। स्वास्थ्य मंत्री डॉ. मुख्तार अहमद भरथ ने कहा है कि वर्ष 2040 तक देश की आबादी 40 करोड़ तक पहुंच सकती है। उन्होंने लोगों में जागरूकता बढ़ाने और परिवार नियोजन को अपनाने की आवश्यकता पर जोर दिया। Pakistan population 2040: पाकिस्तान में तेजी से बढ़ रही जनसंख्या सरकार के लिए चिंता का विषय बन गई है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बढ़ती जनसंख्या पर पाकिस्तान चिंतित, नहीं संभले तो 2040 तक 40 करोड़ पहुंच सकती है आबादी",
+          "summary": "पाकिस्तान की जनसंख्या बढ़ती जा रही है, जिससे सरकार के लिए चुनौती बन गई है। स्वास्थ्य मंत्री डॉ. मुख्तार अहमद भरथ ने कहा है कि वर्ष 2040 तक देश की आबादी 40 करोड़ तक पहुंच सकती है। उन्होंने लोगों में जागरूकता बढ़ाने और परिवार नियोजन को अपनाने की आवश्यकता पर जोर दिया। Pakistan population 2040: पाकिस्तान में तेजी से बढ़ रही जनसंख्या सरकार के लिए चिंता का विषय बन गई है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "ईरान युद्ध में बचे हैं सिर्फ 3 रास्ते, किधर जाएंगे डोनाल्ड ट्रंप? बंद कमरे में नेतन्याहू ने क्या",
       "url": "https://hindi.news18.com/world/middle-east-iran-us-war-only-3-option-left-discussed-by-donald-trump-and-netanyahu-ws-l-10702664.html",
       "source": "News18 Hindi (World)",
@@ -394,6 +538,24 @@
           "title": "ईरान युद्ध में बचे हैं सिर्फ 3 रास्ते, किधर जाएंगे डोनाल्ड ट्रंप? बंद कमरे में नेतन्याहू ने क्या",
           "summary": "डोनाल्ड ट्रंप ईरान संकट से निपटने के लिए तीन विकल्पों पर विचार कर रहे हैं। नेतन्याहू के साथ बंद कमरे में हुई बातचीत में यह तीन रास्ते सामने आए। ट्रंप इन विकल्पों को ध्यान से देख रहे हैं। Iran-US War Update: ईरान-अमेरिका युद्ध का दूसरा दौर भी फिलहाल थमा हुआ है. इस बीच डोनाल्ड ट्रंप ये भी सोच रहे हैं कि आखिर इस परिस्थिति से निकलने के विकल्प क्या हो सकते हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/ramayana-trailer-ranbir-kapoor-in-double-role-to-rakul-preet-arun-govil-and-other-actors-characters-reveal-2026-07-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-30T07:20:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/ramayanae-ka-taralra-ma-najara-aae-caracata-kalkara_6018021106475d00f89c03a1c0b8d568.jpeg?w=1200&dpr=1.0",
+      "summary": "रणबीर कपूर स्टारर फिल्म 'रामायण' का ट्रेलर रिलीज हुआ है, जिसमें अरुण गोविल, रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए हैं। फैंस ट्रेलर देखकर फिल्म देखने के लिए उत्साहित हो गए हैं। आज रणबीर कपूर स्टारर फिल्म ‘रामायण’ का ट्रेलर रिलीज हुआ। इस ट्रेलर में अरुण गोविल से लेकर रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक",
+          "summary": "रणबीर कपूर स्टारर फिल्म 'रामायण' का ट्रेलर रिलीज हुआ है, जिसमें अरुण गोविल, रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए हैं। फैंस ट्रेलर देखकर फिल्म देखने के लिए उत्साहित हो गए हैं। आज रणबीर कपूर स्टारर फिल्म ‘रामायण’ का ट्रेलर रिलीज हुआ। इस ट्रेलर में अरुण गोविल से लेकर रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए।",
+          "region": "दुनिया"
         }
       }
     },
@@ -434,6 +596,24 @@
       }
     },
     {
+      "title": "वह भारतीय कप्तान, जिसकी कप्तानी में टेस्ट-ODI में कभी नहीं हारा भारत, रहे सबसे शांत नायक",
+      "url": "https://www.amarujala.com/cricket/ajinkya-rahane-story-the-quiet-captain-who-rarely-lost-and-always-put-india-first-2026-07-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-30T07:05:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/ajinkya-rahane-story-ajinkya-rahane-retirement-ajinkya-rahane-captaincy-record-ajinkya-rahane-wif_4e9f49bf44088c9c7db08af40c4e8385.jpeg?w=1200&dpr=1.0",
+      "summary": "अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट से संन्यास लिया है, जो भारत के सबसे सफल और शांत कप्तानों में से एक थे। उन्होंने टेस्ट और वनडे में भारत की जीत का रिकॉर्ड बनाया है। अंतरराष्ट्रीय क्रिकेट से संन्यास लेने वाले अजिंक्य रहाणे सिर्फ एक शानदार बल्लेबाज ही नहीं, बल्कि भारत के सबसे सफल और शांत कप्तानों में भी शामिल रहे। वह भारतीय कप्तान, जिसकी कप्तानी में टेस्ट-ODI में कभी नहीं हारा भारत, रहे सबसे शांत नायक।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वह भारतीय कप्तान, जिसकी कप्तानी में टेस्ट-ODI में कभी नहीं हारा भारत, रहे सबसे शांत नायक",
+          "summary": "अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट से संन्यास लिया है, जो भारत के सबसे सफल और शांत कप्तानों में से एक थे। उन्होंने टेस्ट और वनडे में भारत की जीत का रिकॉर्ड बनाया है। अंतरराष्ट्रीय क्रिकेट से संन्यास लेने वाले अजिंक्य रहाणे सिर्फ एक शानदार बल्लेबाज ही नहीं, बल्कि भारत के सबसे सफल और शांत कप्तानों में भी शामिल रहे। वह भारतीय कप्तान, जिसकी कप्तानी में टेस्ट-ODI में कभी नहीं हारा भारत, रहे सबसे शांत नायक।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "जापान ने होर्मुज को कहा अलविदा, कच्चे तेल के लिए खोजा नया ठिकाना, सऊदी-कतर की जरूरत खत्म!",
       "url": "https://hindi.news18.com/world/rest-of-world-japan-imports-canadian-crude-oil-after-hormuz-crisis-tmx-pipeline-iran-war-10702485.html",
       "source": "News18 Hindi (World)",
@@ -448,6 +628,42 @@
           "title": "जापान ने होर्मुज को कहा अलविदा, कच्चे तेल के लिए खोजा नया ठिकाना, सऊदी-कतर की जरूरत खत्म!",
           "summary": "जापान ने होर्मुज जलडमरूमध्य से तेल आपूर्ति पर खतरे के बीच कनाडा से कच्चे तेल की खेप मंगाई है। 7.5 लाख बैरल तक तेल लादा गया है। जापान की सबसे बड़ी रिफाइनिंग कंपनी Eneos ने यह खेप खरीदी है। Iran Oil Crisis Hormuz: पश्चिम एशिया में बढ़ते तनाव और होर्मुज जलडमरूमध्य से तेल आपूर्ति पर खतरे के बीच जापान ने पहली बार 2025 के बाद कनाडा से कच्चे तेल की खेप मंगाई है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सऊदी ने पाकिस्तान को दिया वफादारी का गिफ्ट, 5 अरब डॉलर का कर्ज तीसरी बार रोलओवर",
+      "url": "https://hindi.news18.com/world/pakistan-saudi-arabia-rollover-5-billion-dollar-deposit-pakistan-third-time-saudi-pakistan-relations-iran-war-10702146.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T06:25:35+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/saudi-arabia-4-2026-07-f083d9176be927475065f4aed25335b3-1200x800.jpg",
+      "summary": "सऊदी अरब ने पाकिस्तान को 5 अरब डॉलर का कर्ज तीसरी बार रोलओवर किया है. पाकिस्तान के वित्त मंत्री ने इसकी पुष्टि की. यह फैसला पाकिस्तान पर विदेशी कर्ज चुकाने का दबाव कम करने में मदद करेगा. सऊदी अरब के कर्ज का पाकिस्तानी केंद्रीय बैंक में 8 अरब डॉलर हैं। सऊदी अरब ने पाकिस्तान के पास जमा 5 अरब डॉलर को तीन साल के लिए फिर से रोलओवर कर दिया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी ने पाकिस्तान को दिया वफादारी का गिफ्ट, 5 अरब डॉलर का कर्ज तीसरी बार रोलओवर",
+          "summary": "सऊदी अरब ने पाकिस्तान को 5 अरब डॉलर का कर्ज तीसरी बार रोलओवर किया है. पाकिस्तान के वित्त मंत्री ने इसकी पुष्टि की. यह फैसला पाकिस्तान पर विदेशी कर्ज चुकाने का दबाव कम करने में मदद करेगा. सऊदी अरब के कर्ज का पाकिस्तानी केंद्रीय बैंक में 8 अरब डॉलर हैं। सऊदी अरब ने पाकिस्तान के पास जमा 5 अरब डॉलर को तीन साल के लिए फिर से रोलओवर कर दिया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "21वीं सदी का पुष्‍पक विमान, एक बार में नाप डाला 23000 KM, 960 KMPH की तूफानी रफ्तार से भरी हुंकार",
+      "url": "https://hindi.news18.com/world/rest-of-world-airbus-a350-1000ulr-aircraft-23075-kilometer-nonstop-longest-flight-960-kmph-speed-made-world-record-photogallery-10702158.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T06:22:29+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/A350-1000ULR-2026-07-63efeb7d86229cac47fc0fc5beb93922-1200x800.jpg",
+      "summary": "एयरबस ने एक टेस्ट एयरक्राफ्ट को 24 घंटे तक उड़ाने के लिए तैयार किया है. इस एयरक्राफ्ट ने एक फ्लाइट में 23,000 किलोमीटर की दूरी तय की, जो वर्ल्ड रिकॉर्ड है. एयरबस ने एक ऐसा एयरक्राफ्ट डेवलप किया है जो मन की रफ्तार से चल सकता है, जैसा कि पुष्पक विमान की कहानी में बताया गया है। World Longest Flight: भारतीय धर्मशास्‍त्र में पुष्‍पक विमान का उल्‍लेख मिलता है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "21वीं सदी का पुष्‍पक विमान, एक बार में नाप डाला 23000 KM, 960 KMPH की तूफानी रफ्तार से भरी हुंकार",
+          "summary": "एयरबस ने एक टेस्ट एयरक्राफ्ट को 24 घंटे तक उड़ाने के लिए तैयार किया है. इस एयरक्राफ्ट ने एक फ्लाइट में 23,000 किलोमीटर की दूरी तय की, जो वर्ल्ड रिकॉर्ड है. एयरबस ने एक ऐसा एयरक्राफ्ट डेवलप किया है जो मन की रफ्तार से चल सकता है, जैसा कि पुष्पक विमान की कहानी में बताया गया है। World Longest Flight: भारतीय धर्मशास्‍त्र में पुष्‍पक विमान का उल्‍लेख मिलता है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -524,236 +740,20 @@
       }
     },
     {
-      "title": "‘पाकिस्तानी कश्मीर’ लिखने पर भड़का भारत, अमेरिकी अखबार NYT को लगाई कड़ी फटकार, कहा- यह भ्रामक और",
-      "url": "https://www.patrika.com/world-news/india-objects-nyt-headline-pakistani-kashmir-pok-controversy-20789578",
-      "source": "Patrika (World)",
+      "title": "कैटी पेरी को सनस्क्रीन लगाते दिखे कनाडा के Ex PM जस्टिन ट्रूडो, रोमांटिक तस्वीरों ने मचाई हलचल",
+      "url": "https://hindi.news18.com/world/rest-of-world-justin-trudeau-spotted-applying-sunscreen-down-girlfriend-katy-perry-top-romantic-photos-cause-stir-photogallery-10702165.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-30T05:03:03+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/photo_6294093088904909054_w-1.webp",
-      "summary": "भारत ने अमेरिकी अखबार NYT को कड़ी फटकार लगाई है। अखबार ने पाकिस्तान के कब्जे वाले कश्मीर को \"पाकिस्तानी कश्मीर\" लिखा था, जिसे भारत ने भ्रामक और गलत बताया है। भारत ने साफ किया है कि वह क्षेत्र भारत का अभिन्न हिस्सा है। India objects NYT Headline: अमेरिका में भारतीय दूतावास ने प्रसिद्ध अमेरिकी अखबार ‘द न्यूयॉर्क टाइम्स’ (NYT) की एक रिपोर्ट पर कड़ी आपत्ति जताई है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘पाकिस्तानी कश्मीर’ लिखने पर भड़का भारत, अमेरिकी अखबार NYT को लगाई कड़ी फटकार, कहा- यह भ्रामक और",
-          "summary": "भारत ने अमेरिकी अखबार NYT को कड़ी फटकार लगाई है। अखबार ने पाकिस्तान के कब्जे वाले कश्मीर को \"पाकिस्तानी कश्मीर\" लिखा था, जिसे भारत ने भ्रामक और गलत बताया है। भारत ने साफ किया है कि वह क्षेत्र भारत का अभिन्न हिस्सा है। India objects NYT Headline: अमेरिका में भारतीय दूतावास ने प्रसिद्ध अमेरिकी अखबार ‘द न्यूयॉर्क टाइम्स’ (NYT) की एक रिपोर्ट पर कड़ी आपत्ति जताई है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रूस के बैलिस्टिक मिसाइल हमलों में 7 यूक्रेनी नागरिकों की मौत, पोलैंड हाई अलर्ट पर",
-      "url": "https://www.patrika.com/world-news/russia-ukraine-war-russian-missile-strikes-kyiv-poland-high-alert-20789601",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-30T04:54:40+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Russian-missile-strikes-in-Ukrainian-cities.webp",
-      "summary": "रूस ने गुरुवार तड़के यूक्रेन की राजधानी कीव समेत कई शहरों पर मिसाइल हमले किए। कम से कम सात यूक्रेनी नागरिकों की मौत हो गई और हमले में कई लोग घायल हुए। यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की अमेरिका दौरे से लौटे हुए थे और कुछ घंटे पहले ही चेतावनी दी थी कि रूस बड़े पैमाने पर हमला करने की तैयारी कर रहा है।",
+      "published_at": "2026-07-30T05:19:25+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Justin-Trudeau-main-2026-07-4baa9a4258eff427aefd0f5b5898f25b-1200x800.jpg",
+      "summary": "कनाडा के पूर्व प्रधानमंत्री जस्टिन ट्रूडो और अमेरिकी पॉप स्टार केटी पेरी की रोमांटिक तस्वीरें सामने आई हैं. दोनों एक लग्जरी यॉट पर छुट्टियों का आनंद लेते हुए दिखे हैं. इन तस्वीरों में दोनों एक-दूसरे के बेहद करीब नजर आ रहे हैं. Justin Trudeau-Katy Perry: कनाडा के पूर्व प्रधानमंत्री जस्टिन ट्रूडो और अमेरिकी पॉप स्टार केटी पेरी इन दिनों अपने रिश्ते को लेकर फिर सुर्खियों में हैं.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रूस के बैलिस्टिक मिसाइल हमलों में 7 यूक्रेनी नागरिकों की मौत, पोलैंड हाई अलर्ट पर",
-          "summary": "रूस ने गुरुवार तड़के यूक्रेन की राजधानी कीव समेत कई शहरों पर मिसाइल हमले किए। कम से कम सात यूक्रेनी नागरिकों की मौत हो गई और हमले में कई लोग घायल हुए। यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की अमेरिका दौरे से लौटे हुए थे और कुछ घंटे पहले ही चेतावनी दी थी कि रूस बड़े पैमाने पर हमला करने की तैयारी कर रहा है।",
+          "title": "कैटी पेरी को सनस्क्रीन लगाते दिखे कनाडा के Ex PM जस्टिन ट्रूडो, रोमांटिक तस्वीरों ने मचाई हलचल",
+          "summary": "कनाडा के पूर्व प्रधानमंत्री जस्टिन ट्रूडो और अमेरिकी पॉप स्टार केटी पेरी की रोमांटिक तस्वीरें सामने आई हैं. दोनों एक लग्जरी यॉट पर छुट्टियों का आनंद लेते हुए दिखे हैं. इन तस्वीरों में दोनों एक-दूसरे के बेहद करीब नजर आ रहे हैं. Justin Trudeau-Katy Perry: कनाडा के पूर्व प्रधानमंत्री जस्टिन ट्रूडो और अमेरिकी पॉप स्टार केटी पेरी इन दिनों अपने रिश्ते को लेकर फिर सुर्खियों में हैं.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान को 400 मिसाइल लॉन्चर दे रहा चीन? ट्रंप बोले ‘खबर सच हुई तो बेहद निराशा होगी",
-      "url": "https://www.patrika.com/world-news/trump-surprised-disappointed-china-supplying-400-missile-launchers-iran-20789482",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-30T04:34:10+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-5.webp",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीन द्वारा ईरान को मिसाइल लॉन्चर सप्लाई करने की खबरों पर कड़ा ऐतराज जताया है। उन्होंने कहा है कि यदि बीजिंग ने तेहरान को हथियारों की आपूर्ति की, तो यह उनके लिए बेहद निराशाजनक होगा। ट्रंप का यह बयान आगामी सितंबर में प्रस्तावित चीनी राष्ट्रपति शी जिनपिंग की अमेरिकी यात्रा के समय सामने आया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान को 400 मिसाइल लॉन्चर दे रहा चीन? ट्रंप बोले ‘खबर सच हुई तो बेहद निराशा होगी",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीन द्वारा ईरान को मिसाइल लॉन्चर सप्लाई करने की खबरों पर कड़ा ऐतराज जताया है। उन्होंने कहा है कि यदि बीजिंग ने तेहरान को हथियारों की आपूर्ति की, तो यह उनके लिए बेहद निराशाजनक होगा। ट्रंप का यह बयान आगामी सितंबर में प्रस्तावित चीनी राष्ट्रपति शी जिनपिंग की अमेरिकी यात्रा के समय सामने आया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान को एयर डिफेंस मिसाइल देगा चीन, खबर आते ही अमेरिका ने सिखा दिया सबक, पाकिस्तान भी आया रडार पर",
-      "url": "https://hindi.news18.com/world/china-china-manpads-missile-deal-with-iran-pakistan-route-us-sanctions-xi-jinping-donald-trump-relations-10702051.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-30T04:30:34+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/china-missile-2026-07-fe4fa28ade279be4d7fd794af9e790f7-1200x800.jpg",
-      "summary": "चीन ने ईरान को एयर डिफेंस मिसाइल देने की खबर आते ही अमेरिका ने सिखाया कि चीन के राष्ट्रपति शी जिनपिंग ने मई में बीजिंग में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को भरोसा दिया था कि चीन ईरान को हथियार नहीं देगा. लेकिन अब रिपोर्टों में दावा किया गया है कि ईरान को जल्द ही चीन निर्मित 300-400 MANPADS मिसाइलें मिल सकती हैं. अमेरिकी प्रतिक्रिया में ईरानी तेल ढोने के आरोप में चीन पर प्रतिबंध लगाने की बात कही गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान को एयर डिफेंस मिसाइल देगा चीन, खबर आते ही अमेरिका ने सिखा दिया सबक, पाकिस्तान भी आया रडार पर",
-          "summary": "चीन ने ईरान को एयर डिफेंस मिसाइल देने की खबर आते ही अमेरिका ने सिखाया कि चीन के राष्ट्रपति शी जिनपिंग ने मई में बीजिंग में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को भरोसा दिया था कि चीन ईरान को हथियार नहीं देगा. लेकिन अब रिपोर्टों में दावा किया गया है कि ईरान को जल्द ही चीन निर्मित 300-400 MANPADS मिसाइलें मिल सकती हैं. अमेरिकी प्रतिक्रिया में ईरानी तेल ढोने के आरोप में चीन पर प्रतिबंध लगाने की बात कही गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान की चेकपोस्ट पर चरमपंथियों ने बोला धावा, DSP समेत 7 पुलिसकर्मियों को मारा, 22 जख्मी",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-checkpost-in-khyber-pakhtunkhwa-attacked-7-killed-including-dsp-ws-l-10701998.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-30T03:52:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pak-kpk-2026-07-07ba36b52085bffaffaa04b7e1920221-1200x800.jpg",
-      "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में चरमपंथियों ने एक चेकपोस्ट पर हमला किया, जिसमें डिप्टी सुपरिंटेंडेंट ऑफ पुलिस सहित 7 पुलिसकर्मियों की मौत हो गई और 22 घायल हुए। हमले में चरमपंथी पुलिस चेकपोस्ट पर धावा बोले और गोलीबारी की। Pakistan Militant Attack: पाकिस्तान के अशांत प्रांत खैबर पख्तूनख्वा में एक बार फिर से चरमपंथियों ने चेकपोस्ट पर हमला करके 7 पुलिसकर्मियों को मौत के घाट उतार दिया.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान की चेकपोस्ट पर चरमपंथियों ने बोला धावा, DSP समेत 7 पुलिसकर्मियों को मारा, 22 जख्मी",
-          "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में चरमपंथियों ने एक चेकपोस्ट पर हमला किया, जिसमें डिप्टी सुपरिंटेंडेंट ऑफ पुलिस सहित 7 पुलिसकर्मियों की मौत हो गई और 22 घायल हुए। हमले में चरमपंथी पुलिस चेकपोस्ट पर धावा बोले और गोलीबारी की। Pakistan Militant Attack: पाकिस्तान के अशांत प्रांत खैबर पख्तूनख्वा में एक बार फिर से चरमपंथियों ने चेकपोस्ट पर हमला करके 7 पुलिसकर्मियों को मौत के घाट उतार दिया.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "नेतन्याहू संग मीटिंग के बाद ट्रंप का बदला रुख, दागी ईरान पर ताबड़तोड़ मिसाइलें, क्या हुई बातचीत",
-      "url": "https://www.patrika.com/world-news/trump-netanyahu-meeting-inside-story-us-strikes-iran-after-jordan-base-attack-20789372",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-30T03:09:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/netanyahu-meets-trump.webp",
-      "summary": "Trump on Iran missile attack: अमेरिका और ईरान के बीच सैन्य संघर्ष फिर से तेज हो गया है। आज जॉर्डन स्थित अमेरिकी बेस पर ईरानी हमले के बाद अमेरिकी सेना ने भी जवाबी कार्रवाई की है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अब हमारी बारी है। अमेरिकी हमले को राष्ट्रपति ट्रंप और इजरायली पीएम बेंजामिन नेतन्याहू की मीटिंग से जोड़कर भी देखा जा रहा है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेतन्याहू संग मीटिंग के बाद ट्रंप का बदला रुख, दागी ईरान पर ताबड़तोड़ मिसाइलें, क्या हुई बातचीत",
-          "summary": "Trump on Iran missile attack: अमेरिका और ईरान के बीच सैन्य संघर्ष फिर से तेज हो गया है। आज जॉर्डन स्थित अमेरिकी बेस पर ईरानी हमले के बाद अमेरिकी सेना ने भी जवाबी कार्रवाई की है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अब हमारी बारी है। अमेरिकी हमले को राष्ट्रपति ट्रंप और इजरायली पीएम बेंजामिन नेतन्याहू की मीटिंग से जोड़कर भी देखा जा रहा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जॉर्डन हमले का अमेरिका ने लिया बदला: ईरान के कई ठिकानों पर बरसाए बम; पश्चिम एशिया में माहौल क्या?",
-      "url": "https://www.amarujala.com/world/us-launches-heavy-strikes-on-iranian-targets-after-jordan-attack-2026-07-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-30T03:08:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/pashacama-eshaya-sakata_7c4cb08e7351d48bdc01a9dd6fd38d0b.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका ने जॉर्डन पर हुए हमले के जवाब में ईरान के कई ठिकानों पर ताबड़तोड़ हमले किए। अमेरिकी सेना ने ईरान के सैन्य ठिकानों और सुविधाओं पर बम बरसाए। इस हमले के बाद पश्चिम एशिया में तनाव बढ़ गया है। जॉर्डन हमले का अमेरिका ने लिया बदला: ईरान के कई ठिकानों पर बरसाए बम; पश्चिम एशिया में माहौल क्या?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जॉर्डन हमले का अमेरिका ने लिया बदला: ईरान के कई ठिकानों पर बरसाए बम; पश्चिम एशिया में माहौल क्या?",
-          "summary": "अमेरिका ने जॉर्डन पर हुए हमले के जवाब में ईरान के कई ठिकानों पर ताबड़तोड़ हमले किए। अमेरिकी सेना ने ईरान के सैन्य ठिकानों और सुविधाओं पर बम बरसाए। इस हमले के बाद पश्चिम एशिया में तनाव बढ़ गया है। जॉर्डन हमले का अमेरिका ने लिया बदला: ईरान के कई ठिकानों पर बरसाए बम; पश्चिम एशिया में माहौल क्या?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "PoJK में तीसरे दिन भी खूनी कार्रवाई, PAK रेंजर्स की फायरिंग में मारे गए 36 कश्मीरी",
-      "url": "https://www.abplive.com/news/world/pakistan-news-pak-rangers-target-killing-in-pok-protest-36-kashmiri-killed-in-three-days-after-election-ann-3167725",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-07-30T02:23:34+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/30/ae077d9a2136a06acac1d3c5f7144f9517853780573431189_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पाकिस्तानी रेंजर्स और एफसी की गोलीबारी में कम से कम 36 कश्मीरी मारे गए हैं। यह घटना पाकिस्तान के कब्जे वाले कश्मीर (PoJK) में हुई है। दोपहर एक बजे चिनार चौक के पास खेतों पर इकट्ठा लोगों पर दो पाकिस्तानी रेंजर्स दौड़कर आए और अंधाधुंध गोलीबारी करने लगे। बारिश के बाद शाम 4 बजे फिर से गोलीबारी शुरू हुई, जिसमें कई लोग घायल हुए हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PoJK में तीसरे दिन भी खूनी कार्रवाई, PAK रेंजर्स की फायरिंग में मारे गए 36 कश्मीरी",
-          "summary": "पाकिस्तानी रेंजर्स और एफसी की गोलीबारी में कम से कम 36 कश्मीरी मारे गए हैं। यह घटना पाकिस्तान के कब्जे वाले कश्मीर (PoJK) में हुई है। दोपहर एक बजे चिनार चौक के पास खेतों पर इकट्ठा लोगों पर दो पाकिस्तानी रेंजर्स दौड़कर आए और अंधाधुंध गोलीबारी करने लगे। बारिश के बाद शाम 4 बजे फिर से गोलीबारी शुरू हुई, जिसमें कई लोग घायल हुए हैं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "स्ट्रेट ऑफ होर्मुज बना जंग का मैदान: अमेरिका का ईरान पर एयरस्ट्राइक, जवाब में IRGC ने 3 ऑयल टैंकरों",
-      "url": "https://www.patrika.com/world-news/us-iran-war-live-updates-us-airstrikes-iran-irgc-oil-tankers-strait-of-hormuz-20789143",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-30T02:19:48+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-Iran-War.jpg",
-      "summary": "अमेरिकी सेना ने ईरान के रणनीतिक ठिकानों पर हवाई हमले किए, जिसमें मध्य पूर्व में अमेरिकी सैनिकों पर हुए ईरानी हमलों के जवाब में कार्रवाई की गई। अमेरिकी सेंट्रल कमांड ने इस हमले की पुष्टि की है। ईरान ने जवाब में 3 ऑयल टैंकरों को नष्ट कर दिया। US Launches Airstrikes on Iran: मध्य पूर्व में अमेरिका और ईरान के बीच जारी संघर्ष अब और खौफनाक रूप लेता जा रहा है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्ट्रेट ऑफ होर्मुज बना जंग का मैदान: अमेरिका का ईरान पर एयरस्ट्राइक, जवाब में IRGC ने 3 ऑयल टैंकरों",
-          "summary": "अमेरिकी सेना ने ईरान के रणनीतिक ठिकानों पर हवाई हमले किए, जिसमें मध्य पूर्व में अमेरिकी सैनिकों पर हुए ईरानी हमलों के जवाब में कार्रवाई की गई। अमेरिकी सेंट्रल कमांड ने इस हमले की पुष्टि की है। ईरान ने जवाब में 3 ऑयल टैंकरों को नष्ट कर दिया। US Launches Airstrikes on Iran: मध्य पूर्व में अमेरिका और ईरान के बीच जारी संघर्ष अब और खौफनाक रूप लेता जा रहा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "PoK में प्रदर्शन बना खूनी संघर्ष?: पाक सेना की फायरिंग में 40 की मौत, यूएन पहुंचा मामला; दमन रोकने",
-      "url": "https://www.amarujala.com/world/pok-protest-violence-reaches-un-after-40-killed-in-pakistani-security-forces-firing-during-long-march-2026-07-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-30T02:15:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/06/pok-ma-pakasatana-sana-na-fara-brapaya-kahara_eece0d2958d57d5e89f7dfb428723938.jpeg?w=1200&dpr=1.0",
-      "summary": "पाकिस्तानी सेना ने प्रदर्शनकारियों पर गोलीबारी की, जिसमें 40 लोगों की मौत हो गई। यूएन ने इस मामले को अपने ध्यान में लिया है और दमन रोकने की मांग की है। प्रदर्शनकारी पाकिस्तानी सरकार के खिलाफ विरोध प्रदर्शन कर रहे थे। PoK में प्रदर्शन बना खूनी संघर्ष?: पाक सेना की फायरिंग में 40 की मौत, यूएन पहुंचा मामला; दमन रोकने।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PoK में प्रदर्शन बना खूनी संघर्ष?: पाक सेना की फायरिंग में 40 की मौत, यूएन पहुंचा मामला; दमन रोकने",
-          "summary": "पाकिस्तानी सेना ने प्रदर्शनकारियों पर गोलीबारी की, जिसमें 40 लोगों की मौत हो गई। यूएन ने इस मामले को अपने ध्यान में लिया है और दमन रोकने की मांग की है। प्रदर्शनकारी पाकिस्तानी सरकार के खिलाफ विरोध प्रदर्शन कर रहे थे। PoK में प्रदर्शन बना खूनी संघर्ष?: पाक सेना की फायरिंग में 40 की मौत, यूएन पहुंचा मामला; दमन रोकने।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'पाकिस्तानी कश्मीर जैसी कोई चीज नहीं', भारत ने अमेरिका के NYT को लगाई लताड़",
-      "url": "https://www.abplive.com/news/world/india-stands-clear-on-nyt-remark-there-is-no-pakistani-kashmir-only-pakistan-occupied-kashmir-3167721",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-07-30T02:11:57+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/30/b21e3a6de7bac3755f382c6a68f36d7017853773520961200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारत ने अमेरिकी अखबार न्यूयॉर्क टाइम्स को पत्र लिखकर पाकिस्तान के कब्जे वाले कश्मीर को पाकिस्तानी कश्मीर कहे जाने पर कड़ी आपत्ति जताई है। भारत ने कहा है कि यह इलाका भारत का अभिन्न अंग है और पाकिस्तानी कश्मीर जैसी कोई चीज नहीं है। भारत ने द न्यूयॉर्क टाइम्स द्वारा पाकिस्तान के कब्जे वाले कश्मीर (PoK) को पाकिस्तानी कश्मीर कहे जाने पर कड़ी आपत्ति जताई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'पाकिस्तानी कश्मीर जैसी कोई चीज नहीं', भारत ने अमेरिका के NYT को लगाई लताड़",
-          "summary": "भारत ने अमेरिकी अखबार न्यूयॉर्क टाइम्स को पत्र लिखकर पाकिस्तान के कब्जे वाले कश्मीर को पाकिस्तानी कश्मीर कहे जाने पर कड़ी आपत्ति जताई है। भारत ने कहा है कि यह इलाका भारत का अभिन्न अंग है और पाकिस्तानी कश्मीर जैसी कोई चीज नहीं है। भारत ने द न्यूयॉर्क टाइम्स द्वारा पाकिस्तान के कब्जे वाले कश्मीर (PoK) को पाकिस्तानी कश्मीर कहे जाने पर कड़ी आपत्ति जताई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान के अटैक के बाद गुस्से में अमेरिका, दागीं मिसाइलें, ट्रंप बोले- 'करारा जवाब...'",
-      "url": "https://www.abplive.com/news/world/donald-trump-warns-iran-after-jordan-missile-attack-us-saudi-airstrikes-iraq-middle-east-conflict-3167707",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-07-30T01:18:00+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/30/d487c80da01b9de3427716d1b1dbf15c1785374224644425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के बैलिस्टिक मिसाइल हमले के बाद कड़ा जवाब देने की चेतावनी दी है। ट्रंप ने कहा है कि अमेरिका ईरान को \"करारा जवाब\" देगा। ईरान की इस कार्रवाई के बाद अमेरिका और सऊदी अरब ने इराक में ईरान समर्थित मिलिशिया के ठिकानों पर संयुक्त एयर स्ट्राइक की है। अमेरिका और ईरान के बीच तनाव एक बार फिर चरम पर पहुंच गया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के अटैक के बाद गुस्से में अमेरिका, दागीं मिसाइलें, ट्रंप बोले- 'करारा जवाब...'",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के बैलिस्टिक मिसाइल हमले के बाद कड़ा जवाब देने की चेतावनी दी है। ट्रंप ने कहा है कि अमेरिका ईरान को \"करारा जवाब\" देगा। ईरान की इस कार्रवाई के बाद अमेरिका और सऊदी अरब ने इराक में ईरान समर्थित मिलिशिया के ठिकानों पर संयुक्त एयर स्ट्राइक की है। अमेरिका और ईरान के बीच तनाव एक बार फिर चरम पर पहुंच गया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "खैबर पख्तूनख्वा में आतंकियों का हमला, 9 सुरक्षाकर्मी की मौत, 15 आतंकवादी मारे गए",
-      "url": "https://www.amarujala.com/world/bloody-encounter-pakistan-terrorist-attack-khyber-pakhtunkhwa-security-personnel-martyred-terrorists-killed-2026-07-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-29T21:20:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/pakasatana-ma-hasaka-jhaugdhapa_5bc87e450aa87dde05f693189db74792.jpeg?w=1200&dpr=1.0",
-      "summary": "खैबर पख्तूनख्वा में आतंकियों ने सुरक्षाकर्मियों पर हमला किया, जिसमें 9 सुरक्षाकर्मी मारे गए। आतंकवादियों को भी मार गिराया गया है। पुलिस ने आतंकवादियों के खिलाफ कार्रवाई की है। खैबर पख्तूनख्वा में आतंकियों का हमला, 9 सुरक्षाकर्मी की मौत, 15 आतंकवादी मारे गए।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खैबर पख्तूनख्वा में आतंकियों का हमला, 9 सुरक्षाकर्मी की मौत, 15 आतंकवादी मारे गए",
-          "summary": "खैबर पख्तूनख्वा में आतंकियों ने सुरक्षाकर्मियों पर हमला किया, जिसमें 9 सुरक्षाकर्मी मारे गए। आतंकवादियों को भी मार गिराया गया है। पुलिस ने आतंकवादियों के खिलाफ कार्रवाई की है। खैबर पख्तूनख्वा में आतंकियों का हमला, 9 सुरक्षाकर्मी की मौत, 15 आतंकवादी मारे गए।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
