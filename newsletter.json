@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-30T00:37:19.228470+00:00",
+  "generated_at": "2026-07-30T01:37:48.744321+00:00",
   "article_count": 50,
-  "total_unique_count": 275,
+  "total_unique_count": 279,
   "digest": {
-    "en": "Ukraine's conflict dominates with drone strikes on Russian targets. BTS pulls out of Grammys after Asian pop category introduction. Iran's attack on Jordan sparks questions about military strategy.",
-    "hi": "किन्नौर कैलाश यात्रा आज से शुरू हो रही है। इस वर्ष 11 दिन चलने वाली यह यात्रा में 375 यात्रियों का पहला जत्था सुबह रवाना होगा। मौसम का हाल भी देखा जा रहा है।"
+    "en": "Ukraine's conflict dominates headlines. Iranian strikes and US retaliation also draw attention. Asia's central banks quietly shape AI finance rules.",
+    "hi": "आज बोर्ड पर मिडल ईस्ट और अफ्रीका की खबरें प्रमुख हैं। अमेरिका ने ईरान पर हमला किया है। ईरान के IRGC के 4 कमांडरों की मौत हो गई है।"
   },
   "articles": [
+    {
+      "title": "U.S. military launches new strikes on Iran",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-30T01:34:59+00:00",
+      "image_url": "https://th-i.thgim.com/public/hindi/editorial/gr75np/article71284169.ece/alternates/LANDSCAPE_1200/HN_-DdmWAAAIY21.jpg",
+      "summary": "U. S. President Donald Trump vowed to hit back hard at Iran after it attacked U. S. bases in Jordan on Wednesday, July 30, as the war in West Asia reignited and again drew in Iran's proxies military launches new strikes on Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Copenhagen’s famed Noma restaurant to reopen without founder Redzepi at helm",
       "url": "https://www.channelnewsasia.com/dining/noma-reopening-without-redzepi-michelin-stars-6286586",
@@ -28,18 +40,6 @@
       "image_url": "https://dam.mediacorp.sg/image/upload/s--meUG5mvV--/c_crop,h_900,w_1600,x_0,y_121/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/26/063_2278219269.jpg?itok=QEhNAX2A",
       "summary": "\"We have decided not to enter the Grammys this year,\" BTS members said in coordinated posts on their individual Instagram accounts. \"We hope that music is heard and loved for what it is, rather than being defined by region or language.\" BTS pulls out of Grammys after Asian pop category introduction.",
       "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ahead of electoral debut in Negeri Sembilan, Wawasan seeks to reclaim Malaysia’s political centre",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-wawasan-perikatan-nasional-hamzah-zainudin-saifuddin-abdullah-6282911",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-07-29T22:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--_PyXzlBO--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/28/724472395_1574499207634127_7618724059889027156_n.jpg?itok=P7tgsi-t",
-      "summary": "The new party’s secretary-general Saifuddin Abdullah tells CNA it wants to offer a more moderate and inclusive brand of politics, but analysts argue it must first prove its relevance, starting with the upcoming Negeri Sembilan state polls. New party Wawasan wants to offer ‘something fresh’ in Malaysian politics, but Bersatu shadow looms. Ahead of electoral debut in Negeri Sembilan, Wawasan seeks to reclaim Malaysia’s political centre.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -76,18 +76,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/vpmo3c/article70124269.ece/alternates/LANDSCAPE_1200/2025-10-01T174327Z_642239687_RC2W2HAKN14L_RTRMADP_3_PAKISTAN-PROTEST.JPG",
       "summary": "For decades, the Pakistani state has diplomatically showcased PoK to the world as if it were a separate country, complete with its own constitution, a Prime Minister as chief executive, and a President as constitutional head From Pajero culture to street protests: The struggle for accountability in Pakistan-occupied Kashmir.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ukraine says it hit a major Russian oil refinery, hours after Zelenskyy’s meeting with Trump",
-      "url": "https://www.thehindu.com/news/international//article71281250.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-29T13:12:20+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/tz9dhz/article71281346.ece/alternates/LANDSCAPE_1200/2026-07-29T083706Z_1302573797_RC2KNMAFSNAT_RTRMADP_3_UKRAINE-CRISIS-ATTACK-RYAZAN.JPG",
-      "summary": "The overnight attack started a fire at the Ryazan refinery, which has a capacity of about 17 million tonnes of oil per year, producing gasoline, diesel fuel, aviation fuel and other petroleum products, according to Ukraine’s General Staff Ukraine says it hit a major Russian oil refinery, hours after Zelenskyy’s meeting with Trump.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -308,19 +296,247 @@
       "translations": {}
     },
     {
-      "title": "किन्नौर कैलाश यात्रा आज से, इस वर्ष 11 दिन चलेगी; 375 यात्रियों का पहला जत्था सुबह होगा रवाना",
-      "url": "https://www.amarujala.com/shimla/himachal-kinnaur-kailash-yatra-begins-today-first-batch-of-375-pilgrims-to-depart-in-the-morning-2026-07-30",
+      "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
+      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-07-28T10:21:46+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/86aeafb5c20cd5724a6740beae18fce5628841ac/660_0_3298_2639/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ecf12c0d176b9e99f531f9f7daa0f76",
+      "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'अब हमारी बारी', ट्रंप के इतना कहते ही अमेरिका ने ईरान पर फिर बोला हमला, IRGC के 4 कमांडरों की मौत",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-updates-donald-trump-army-attack-on-iran-centcom-irgc-livenews-10701654.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T01:36:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-news-25-2026-07-bebfd19ff197fda44e9bbb22b9dfd344-1200x800.jpg",
+      "summary": "US Ka Iran Par Hamla Live Updates: अमेरिका ने पांच दिन के विराम के बाद ईरान से जुड़े टार्गेट्स पर फिर सैन्य कार्रवाई शुरू कर दी है. राष्ट्रपति डोनाल्ड ट्रंप ने कहा, 'अब हमारी बारी है.' अमेरिका का हमला जॉर्डन में अमेरिकी सैन्य अड्डे पर हुए ईरानी मिसाइल अटैक के जवाब में की गई. दूसरी ओर, ईरानी मीडिया ने दावा किया है कि इराक में अमेरिकी-सऊदी हमलों में IRGC के चार सदस्य मारे गए हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'अब हमारी बारी', ट्रंप के इतना कहते ही अमेरिका ने ईरान पर फिर बोला हमला, IRGC के 4 कमांडरों की मौत",
+          "summary": "US Ka Iran Par Hamla Live Updates: अमेरिका ने पांच दिन के विराम के बाद ईरान से जुड़े टार्गेट्स पर फिर सैन्य कार्रवाई शुरू कर दी है. राष्ट्रपति डोनाल्ड ट्रंप ने कहा, 'अब हमारी बारी है.' अमेरिका का हमला जॉर्डन में अमेरिकी सैन्य अड्डे पर हुए ईरानी मिसाइल अटैक के जवाब में की गई. दूसरी ओर, ईरानी मीडिया ने दावा किया है कि इराक में अमेरिकी-सऊदी हमलों में IRGC के चार सदस्य मारे गए हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप से मिलकर लौटे जेलेंस्की, उधर पुतिन ने कीव पर बरसाए 'अग्निबाण', यूक्रेन का F-16 भी गिराया",
+      "url": "https://hindi.news18.com/world/europe-russia-ukraine-war-putin-launches-missile-attack-on-kyiv-after-zelensky-warning-f16-crash-10701696.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T01:35:24+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/russia-ukraine-war-14-2026-07-d328f1b4f71a5ae7643a4bd2c082a30f-1200x800.jpg",
+      "summary": "Ukraine War Live News: यूक्रेन के राष्ट्रपति व्लादिमीर जेलेंस्की की बड़े रूसी हमले की चेतावनी के कुछ घंटों बाद रूस ने कीव समेत कई शहरों पर मिसाइलें दागीं. यूक्रेन के मुताबिक हमले में कम से कम एक व्यक्ति की मौत हुई. इसी दौरान यूक्रेन ने एक F-16 लड़ाकू विमान क्रैश हो गया, जबकि उसने रूस की दो बड़ी तेल रिफाइनरियों पर हमले का भी दावा किया.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप से मिलकर लौटे जेलेंस्की, उधर पुतिन ने कीव पर बरसाए 'अग्निबाण', यूक्रेन का F-16 भी गिराया",
+          "summary": "Ukraine War Live News: यूक्रेन के राष्ट्रपति व्लादिमीर जेलेंस्की की बड़े रूसी हमले की चेतावनी के कुछ घंटों बाद रूस ने कीव समेत कई शहरों पर मिसाइलें दागीं. यूक्रेन के मुताबिक हमले में कम से कम एक व्यक्ति की मौत हुई. इसी दौरान यूक्रेन ने एक F-16 लड़ाकू विमान क्रैश हो गया, जबकि उसने रूस की दो बड़ी तेल रिफाइनरियों पर हमले का भी दावा किया.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी",
+      "url": "https://www.amarujala.com/live/world/west-asia-tension-us-iran-war-hormuz-irgc-centcom-trump-airstrikes-missiles-gulf-nations-crude-crisis-news-2026-07-30",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-30T07:13:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/1_065b5e931ea66d1091864b9149879f1c.jpeg?w=1200&dpr=1.0",
-      "summary": "पवित्र किन्नौर कैलाश यात्रा आज शुरू होगी। किन्नौर कैलाश यात्रा आज से, इस वर्ष 11 दिन चलेगी; 375 यात्रियों का पहला जत्था सुबह होगा रवाना।",
+      "published_at": "2026-07-30T01:34:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/pashacama-eshaya-ma-tanava_77acac5d547ce2ba3f7ac2db0da3841f.gif?w=1200&dpr=1.0",
+      "summary": "West Asia Tension LIVE: अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी",
+          "summary": "West Asia Tension LIVE: अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "आईआईटी बॉम्बे के हॉस्टल में मिली छात्र की लाश, आत्महत्या समेत हर एंगल पर जांच कर रही पुलिस",
+      "url": "https://www.amarujala.com/india-news/maharashtra-updates-iit-bombay-hostel-student-death-nagpur-palghar-mumbai-politics-crime-education-travel-news-2026-07-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-30T01:31:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
+      "summary": "Maharashtra News: आईआईटी बॉम्बे के हॉस्टल में मिली छात्र की लाश, आत्महत्या समेत हर एंगल पर जांच कर रही पुलिस।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "किन्नौर कैलाश यात्रा आज से, इस वर्ष 11 दिन चलेगी; 375 यात्रियों का पहला जत्था सुबह होगा रवाना",
-          "summary": "पवित्र किन्नौर कैलाश यात्रा आज शुरू होगी। किन्नौर कैलाश यात्रा आज से, इस वर्ष 11 दिन चलेगी; 375 यात्रियों का पहला जत्था सुबह होगा रवाना।",
+          "title": "आईआईटी बॉम्बे के हॉस्टल में मिली छात्र की लाश, आत्महत्या समेत हर एंगल पर जांच कर रही पुलिस",
+          "summary": "Maharashtra News: आईआईटी बॉम्बे के हॉस्टल में मिली छात्र की लाश, आत्महत्या समेत हर एंगल पर जांच कर रही पुलिस।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "10-15 लाख के बजट में चाहिए सबसे सुरक्षित कार? देखें 5-स्टार सेफ्टी वाली टॉप पांच कारों की लिस्ट",
+      "url": "https://www.amarujala.com/automobiles/safest-cars-under-15-lakh-top-crash-test-rated-models-you-buy-india-2026-07-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-30T01:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/bharata-ma-kharatha-ja-sakana-val-tapa-karasha-tasata-rataga-val-kara_2a0188b55147008c54205d9e17877ab0.jpeg?w=1200&dpr=1.0",
+      "summary": "Best Safety Cars: अगर आप नई कार खरीदने की सोच रहे हैं, तो सिर्फ माइलेज या फीचर्स ही नहीं, सेफ्टी भी सबसे बड़ी प्राथमिकता होनी चाहिए। 10-15 लाख के बजट में चाहिए सबसे सुरक्षित कार? देखें 5-स्टार सेफ्टी वाली टॉप पांच कारों की लिस्ट।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "10-15 लाख के बजट में चाहिए सबसे सुरक्षित कार? देखें 5-स्टार सेफ्टी वाली टॉप पांच कारों की लिस्ट",
+          "summary": "Best Safety Cars: अगर आप नई कार खरीदने की सोच रहे हैं, तो सिर्फ माइलेज या फीचर्स ही नहीं, सेफ्टी भी सबसे बड़ी प्राथमिकता होनी चाहिए। 10-15 लाख के बजट में चाहिए सबसे सुरक्षित कार? देखें 5-स्टार सेफ्टी वाली टॉप पांच कारों की लिस्ट।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "तेलंगाना में ट्रेनी आईपीएस यौन उत्पीड़न के आरोप में गिरफ्तार; IIT खड़गपुर में शिक्षक का शव बरामद",
+      "url": "https://www.amarujala.com/india-news/national-updates-30th-july-parliament-bjp-congress-sawan-shiva-north-east-west-south-india-politics-crime-news-2026-07-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-30T01:27:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_bc25c16d5cf7783ca896c1749fa5ceab.jpeg?w=1200&dpr=1.0",
+      "summary": "तेलंगाना में एक ट्रेनी आईपीएस अधिकारी को यौन उत्पीड़न के आरोप में गिरफ्तार किया गया है. इस मामले में पुलिस जांच जारी है. इस बीच, आईआईटी खड़गपुर में एक शिक्षक का शव बरामद किया गया है. पुलिस मामले की जांच कर रही है. News Updates: तेलंगाना में ट्रेनी आईपीएस यौन उत्पीड़न के आरोप में गिरफ्तार; IIT खड़गपुर में शिक्षक का शव बरामद।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेलंगाना में ट्रेनी आईपीएस यौन उत्पीड़न के आरोप में गिरफ्तार; IIT खड़गपुर में शिक्षक का शव बरामद",
+          "summary": "तेलंगाना में एक ट्रेनी आईपीएस अधिकारी को यौन उत्पीड़न के आरोप में गिरफ्तार किया गया है. इस मामले में पुलिस जांच जारी है. इस बीच, आईआईटी खड़गपुर में एक शिक्षक का शव बरामद किया गया है. पुलिस मामले की जांच कर रही है. News Updates: तेलंगाना में ट्रेनी आईपीएस यौन उत्पीड़न के आरोप में गिरफ्तार; IIT खड़गपुर में शिक्षक का शव बरामद।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "16 करोड़ का पुल 16 दिन में दरका: पहली बारिश ने खोली हकीकत, देहरादून हादसे ने गुणवत्ता और जवाबदेही",
+      "url": "https://www.amarujala.com/columns/opinion/16-crore-dehradun-bridge-crack-in-just-16-days-questions-raised-over-construction-quality-and-accountability-2026-07-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-30T01:24:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=1200&dpr=1.0",
+      "summary": "देहरादून में 16 करोड़ का पुल 16 दिन में दरक गया। पहली बारिश ने इसकी गुणवत्ता पर सवाल उठाए। यह पुल देहरादून के एक महत्वपूर्ण इलाके में बनाया गया था। इसके दरकने से स्थानीय लोगों में चिंता बढ़ गई है। 16 करोड़ का पुल 16 दिन में दरका: पहली बारिश ने खोली हकीकत, देहरादून हादसे ने गुणवत्ता और जवाबदेही।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "16 करोड़ का पुल 16 दिन में दरका: पहली बारिश ने खोली हकीकत, देहरादून हादसे ने गुणवत्ता और जवाबदेही",
+          "summary": "देहरादून में 16 करोड़ का पुल 16 दिन में दरक गया। पहली बारिश ने इसकी गुणवत्ता पर सवाल उठाए। यह पुल देहरादून के एक महत्वपूर्ण इलाके में बनाया गया था। इसके दरकने से स्थानीय लोगों में चिंता बढ़ गई है। 16 करोड़ का पुल 16 दिन में दरका: पहली बारिश ने खोली हकीकत, देहरादून हादसे ने गुणवत्ता और जवाबदेही।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अदालतों के सामने क्यों खड़ा हुआ बड़ा संवैधानिक सवाल? कैसे बनेगा संतुलन",
+      "url": "https://www.amarujala.com/columns/opinion/digital-evidence-media-trials-and-constitutional-challenges-in-india-justice-system-2026-07-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-30T01:17:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/digital-evidence_40d1ad3c399dde7a13de7433c4b6cabd.jpeg?w=1200&dpr=1.0",
+      "summary": "अदालतों के सामने डिजिटल सबूत और मीडिया ट्रायल के मुद्दे खड़े हुए हैं. डिजिटल सबूत और मीडिया ट्रायल: अदालतों के सामने क्यों खड़ा हुआ बड़ा संवैधानिक सवाल? कैसे बनेगा संतुलन।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अदालतों के सामने क्यों खड़ा हुआ बड़ा संवैधानिक सवाल? कैसे बनेगा संतुलन",
+          "summary": "अदालतों के सामने डिजिटल सबूत और मीडिया ट्रायल के मुद्दे खड़े हुए हैं. डिजिटल सबूत और मीडिया ट्रायल: अदालतों के सामने क्यों खड़ा हुआ बड़ा संवैधानिक सवाल? कैसे बनेगा संतुलन।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "स्ट्रेट ऑफ होर्मुज बना जंग का मैदान: अमेरिका का ईरान पर एयरस्ट्राइक, जवाब में IRGC ने 3 ऑयल टैंकरों",
+      "url": "https://www.patrika.com/world-news/us-iran-war-live-updates-us-airstrikes-iran-irgc-oil-tankers-strait-of-hormuz-20789143",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-30T01:02:15+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-Iran-War-Live-Updates.webp",
+      "summary": "अमेरिका ने ईरान पर एयरस्ट्राइक किया, ईरान ने 3 ऑयल टैंकरों पर जवाबी हमला किया. US Launches Airstrikes on Iran: मध्य पूर्व में अमेरिका और ईरान के बीच जारी संघर्ष अब और खौफनाक रूप लेता जा रहा है। अमेरिकी सेंट्रल कमांड (CENTCOM) ने पुष्टि की है कि अमेरिकी सेना ने बुधवार रात (8 PM ET) ईरान के रणनीतिक ठिकानों पर भीषण हवाई हमले किए हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्ट्रेट ऑफ होर्मुज बना जंग का मैदान: अमेरिका का ईरान पर एयरस्ट्राइक, जवाब में IRGC ने 3 ऑयल टैंकरों",
+          "summary": "अमेरिका ने ईरान पर एयरस्ट्राइक किया, ईरान ने 3 ऑयल टैंकरों पर जवाबी हमला किया. US Launches Airstrikes on Iran: मध्य पूर्व में अमेरिका और ईरान के बीच जारी संघर्ष अब और खौफनाक रूप लेता जा रहा है। अमेरिकी सेंट्रल कमांड (CENTCOM) ने पुष्टि की है कि अमेरिकी सेना ने बुधवार रात (8 PM ET) ईरान के रणनीतिक ठिकानों पर भीषण हवाई हमले किए हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "महाकाल का प्रिय महीना सावन शुरू, जानें शिवलिंग पर क्या चढ़ाएं और क्या नहीं",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/shivling-par-kya-chadaye-or-kya-nhi-know-sawan-shivling-puja-niyam-2026-07-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-30T00:59:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/29/sawan-2026_77be0360914b566104ff50e311fe740f.jpeg?w=1200&dpr=1.0",
+      "summary": "सावन महीना शुरू हुआ, शिवलिंग पर चढ़ाने के लिए विशेष चीजें बताई गईं. Sawan 2026: सावन में सच्चे मन से भगवान शिव की पूजा और शिवलिंग पर कुछ चीजें चढ़ाने से महादेव शीघ्र प्रसन्न होते हैं। साथ ही भक्तों की सभी मनोकामनाएं पूर्ण करते हैं। आइए इनके बारे में जानते हैं। महाकाल का प्रिय महीना सावन शुरू, जानें शिवलिंग पर क्या चढ़ाएं और क्या नहीं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महाकाल का प्रिय महीना सावन शुरू, जानें शिवलिंग पर क्या चढ़ाएं और क्या नहीं",
+          "summary": "सावन महीना शुरू हुआ, शिवलिंग पर चढ़ाने के लिए विशेष चीजें बताई गईं. Sawan 2026: सावन में सच्चे मन से भगवान शिव की पूजा और शिवलिंग पर कुछ चीजें चढ़ाने से महादेव शीघ्र प्रसन्न होते हैं। साथ ही भक्तों की सभी मनोकामनाएं पूर्ण करते हैं। आइए इनके बारे में जानते हैं। महाकाल का प्रिय महीना सावन शुरू, जानें शिवलिंग पर क्या चढ़ाएं और क्या नहीं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दुर्लभ संयोग में महादेव का प्रिय महीना सावन आज से आरंभ, देखें पूरा कैलेंडर",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/sawan-importance-puja-vidhi-and-rudrabhishek-rules-know-sawan-calendar-2026-2026-07-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-30T00:37:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/sawan-calendar-2026_e9b167426e6520948ce9c57c4a284120.jpeg?w=1200&dpr=1.0",
+      "summary": "Sawan Calendar 2026: शुभ योग के साथ 30 जुलाई से सावन प्रारंभ हो रहा है। यह महीना महादेव और पूरे शिव परिवार की भक्ति को समर्पित है। दुर्लभ संयोग में होगा महादेव का प्रिय महीना सावन आरंभ, देखें पूरा कैलेंडर। दुर्लभ संयोग में महादेव का प्रिय महीना सावन आज से आरंभ, देखें पूरा कैलेंडर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुर्लभ संयोग में महादेव का प्रिय महीना सावन आज से आरंभ, देखें पूरा कैलेंडर",
+          "summary": "Sawan Calendar 2026: शुभ योग के साथ 30 जुलाई से सावन प्रारंभ हो रहा है। यह महीना महादेव और पूरे शिव परिवार की भक्ति को समर्पित है। दुर्लभ संयोग में होगा महादेव का प्रिय महीना सावन आरंभ, देखें पूरा कैलेंडर। दुर्लभ संयोग में महादेव का प्रिय महीना सावन आज से आरंभ, देखें पूरा कैलेंडर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "PM मोदी दो अगस्त से शुरू करेंगे 100 सप्ताह का अभियान, एक करोड़ युवा लेंगे नशामुक्ति की शपथ",
+      "url": "https://www.amarujala.com/india-news/pm-modi-to-launch-100-week-nasha-mukt-yuva-viksit-bharat-sankalp-campaign-on-august-2-2026-07-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-30T00:37:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/pm-modi-nasha-mukt-bharat-nasha-mukt-yuva-drug-free-india-ncb-drug-awareness_cf737aa1d9a594f1146feb9790f12b00.jpeg?w=1200&dpr=1.0",
+      "summary": "पीएम मोदी दो अगस्त से 100 सप्ताह का नशामुक्ति अभियान शुरू करेंगे. PM मोदी दो अगस्त से शुरू करेंगे 100 सप्ताह का अभियान, एक करोड़ युवा लेंगे नशामुक्ति की शपथ।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PM मोदी दो अगस्त से शुरू करेंगे 100 सप्ताह का अभियान, एक करोड़ युवा लेंगे नशामुक्ति की शपथ",
+          "summary": "पीएम मोदी दो अगस्त से 100 सप्ताह का नशामुक्ति अभियान शुरू करेंगे. PM मोदी दो अगस्त से शुरू करेंगे 100 सप्ताह का अभियान, एक करोड़ युवा लेंगे नशामुक्ति की शपथ।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "3 राज्यों में क्यों हो रहे उपचुनाव? कहीं पार्टी अध्यक्ष, कहीं पूर्व गृह मंत्री की प्रतिष्ठा का सवाल",
+      "url": "https://www.amarujala.com/india-news/bypolls-in-bihar-bankipur-madhya-pradesh-datia-gujarat-manjalpur-assembly-seat-candidates-reason-byelections-2026-07-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-07-30T00:33:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/bypoll-in-bihar-bihar-assembly-bypoll-bankipur-bypoll-bankipur-byelection-bankipur-assembly-seat_7eb6007f1adf8ca69ba002b5c81dc5c2.jpeg?w=1200&dpr=1.0",
+      "summary": "तीन राज्यों में उपचुनाव हो रहे हैं, पार्टी अध्यक्ष और पूर्व गृह मंत्री की प्रतिष्ठा दांव पर है. आज तीन राज्यों की किन सीटों पर और क्यों उपचुनाव हैं? जिन सीटों पर मतदान है, वहां चुनावी इतिहास क्या रहा है? यहां किन-किन मुद्दों को लेकर राजनीति गर्म है? इसके अलावा चुनाव में कौन से दिग्गजों की किस्मत और रुतबा दांव पर लगा है?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "3 राज्यों में क्यों हो रहे उपचुनाव? कहीं पार्टी अध्यक्ष, कहीं पूर्व गृह मंत्री की प्रतिष्ठा का सवाल",
+          "summary": "तीन राज्यों में उपचुनाव हो रहे हैं, पार्टी अध्यक्ष और पूर्व गृह मंत्री की प्रतिष्ठा दांव पर है. आज तीन राज्यों की किन सीटों पर और क्यों उपचुनाव हैं? जिन सीटों पर मतदान है, वहां चुनावी इतिहास क्या रहा है? यहां किन-किन मुद्दों को लेकर राजनीति गर्म है? इसके अलावा चुनाव में कौन से दिग्गजों की किस्मत और रुतबा दांव पर लगा है?",
           "region": "दुनिया"
         }
       }
@@ -332,13 +548,13 @@
       "sources": [],
       "published_at": "2026-07-30T00:30:03+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/weather-forecast_a2d0346285b629f2a7a619c44d22f4e4.jpeg?w=1200&dpr=1.0",
-      "summary": "Weather Forecast 30 July 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+      "summary": "| Weather Report Today।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "Weather Forecast 30 July 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "Weather Forecast 30 July 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+          "summary": "| Weather Report Today।",
           "region": "दुनिया"
         }
       }
@@ -416,63 +632,27 @@
       }
     },
     {
-      "title": "अमेरिका ने 5 दिन बाद फिर शुरू की ईरान पर बमबारी, IRGC के 4 कमांडरों की मौत",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-updates-donald-trump-army-attack-on-iran-centcom-irgc-livenews-10701654.html",
-      "source": "News18 Hindi (World)",
+      "title": "सावन का पवित्र महीना आज से शुरू, इन 5 राशियों पर रहेगी पूरे महीने भोलेनाथ की कृपा",
+      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/sawan-2026-horoscope-prediction-subh-yog-these-zodiac-sign-receive-good-luck-and-5-lucky-zodiac-signs-2026-07-29",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-30T00:25:35+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-news-25-2026-07-bebfd19ff197fda44e9bbb22b9dfd344-1200x800.jpg",
-      "summary": "US Ka Iran Par Hamla Live Updates: अमेरिका ने पांच दिन के विराम के बाद ईरान से जुड़े टार्गेट्स पर फिर सैन्य कार्रवाई शुरू कर दी है. राष्ट्रपति डोनाल्ड ट्रंप ने कहा, 'अब हमारी बारी है.' अमेरिका का हमला जॉर्डन में अमेरिकी सैन्य अड्डे पर हुए ईरानी मिसाइल अटैक के जवाब में की गई. दूसरी ओर, ईरानी मीडिया ने दावा किया है कि इराक में अमेरिकी-सऊदी हमलों में IRGC के चार सदस्य मारे गए हैं.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-07-30T00:24:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/29/sawan-rashifal-2026_91d6d55f748454fe3607b1976164e662.jpeg?w=1200&dpr=1.0",
+      "summary": "सावन का पवित्र महीना 30 जुलाई से शुरू हुआ। भगवान भोलेनाथ की पूजा करने का विधान होता है। Sawan Rashifal 2026: 30 जुलाई से सावन का पवित्र महीना आरंभ हो रहा है। आइए जानते हैं सावन माह में महादेव की कृपा किन-किन राशियों पर सबसे ज्यादा रहेगी। सावन का पवित्र महीना आज से शुरू, इन 5 राशियों पर रहेगी पूरे महीने भोलेनाथ की कृपा।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिका ने 5 दिन बाद फिर शुरू की ईरान पर बमबारी, IRGC के 4 कमांडरों की मौत",
-          "summary": "US Ka Iran Par Hamla Live Updates: अमेरिका ने पांच दिन के विराम के बाद ईरान से जुड़े टार्गेट्स पर फिर सैन्य कार्रवाई शुरू कर दी है. राष्ट्रपति डोनाल्ड ट्रंप ने कहा, 'अब हमारी बारी है.' अमेरिका का हमला जॉर्डन में अमेरिकी सैन्य अड्डे पर हुए ईरानी मिसाइल अटैक के जवाब में की गई. दूसरी ओर, ईरानी मीडिया ने दावा किया है कि इराक में अमेरिकी-सऊदी हमलों में IRGC के चार सदस्य मारे गए हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दुर्लभ संयोग में होगा महादेव का प्रिय महीना सावन आरंभ, देखें पूरा कैलेंडर",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/sawan-importance-puja-vidhi-and-rudrabhishek-rules-know-sawan-calendar-2026-2026-07-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-30T00:22:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/27/sawan-calendar-2026_e9b167426e6520948ce9c57c4a284120.jpeg?w=1200&dpr=1.0",
-      "summary": "Sawan Calendar 2026: शुभ योग के साथ 30 जुलाई से सावन प्रारंभ हो रहा है। यह महीना महादेव और पूरे शिव परिवार की भक्ति को समर्पित है। दुर्लभ संयोग में होगा महादेव का प्रिय महीना सावन आरंभ, देखें पूरा कैलेंडर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुर्लभ संयोग में होगा महादेव का प्रिय महीना सावन आरंभ, देखें पूरा कैलेंडर",
-          "summary": "Sawan Calendar 2026: शुभ योग के साथ 30 जुलाई से सावन प्रारंभ हो रहा है। यह महीना महादेव और पूरे शिव परिवार की भक्ति को समर्पित है। दुर्लभ संयोग में होगा महादेव का प्रिय महीना सावन आरंभ, देखें पूरा कैलेंडर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी",
-      "url": "https://www.amarujala.com/live/world/west-asia-tension-us-iran-war-hormuz-irgc-centcom-trump-airstrikes-missiles-gulf-nations-crude-crisis-news-2026-07-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-30T00:20:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/pashacama-eshaya-ma-tanava_77acac5d547ce2ba3f7ac2db0da3841f.gif?w=1200&dpr=1.0",
-      "summary": "West Asia Tension LIVE: अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी",
-          "summary": "West Asia Tension LIVE: अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "सावन का पवित्र महीना आज से शुरू, इन 5 राशियों पर रहेगी पूरे महीने भोलेनाथ की कृपा",
+          "summary": "सावन का पवित्र महीना 30 जुलाई से शुरू हुआ। भगवान भोलेनाथ की पूजा करने का विधान होता है। Sawan Rashifal 2026: 30 जुलाई से सावन का पवित्र महीना आरंभ हो रहा है। आइए जानते हैं सावन माह में महादेव की कृपा किन-किन राशियों पर सबसे ज्यादा रहेगी। सावन का पवित्र महीना आज से शुरू, इन 5 राशियों पर रहेगी पूरे महीने भोलेनाथ की कृपा।",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
       "title": "अतुल माहेश्वरी छात्रवृत्ति परीक्षा: आवेदन की अंतिम तिथि बढ़ी, 7 अगस्त तक करें आवेदन, फॉर्म सिर्फ",
       "url": "https://www.amarujala.com/india-news/atul-maheshwari-scholarship-exam-2026-application-form-last-date-extended-till-august-7-apply-online-2026-07-30",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-30T00:19:10+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/amc-2026_16f36ab7bda6879cb8c15a462a2f4bab.jpeg?w=1200&dpr=1.0",
@@ -506,27 +686,9 @@
       }
     },
     {
-      "title": "अब दुबई में बुर्ज खलीफा के लिए भारत की यूपीआई सेवा, कर सकेंगे ऑनलाइन बुकिंग",
-      "url": "https://www.amarujala.com/business/business-diary/business-updates-upi-for-burj-khalifa-dubai-forex-gold-silver-rate-crude-price-trade-and-commerce-hindi-news-2026-07-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-30T00:14:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/16/business-updates_5bd5a4d504c2ee303c82649060be7bf5.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत की यूपीआई सेवा अब दुबई में बुर्ज खलीफा के लिए उपलब्ध है. भारतीय पर्यटक ऑनलाइन बुकिंग कर सकेंगे. यह सेवा भारत और दुबई के बीच डिजिटल भुगतान को बढ़ावा देगी. Biz Updates: अब दुबई में बुर्ज खलीफा के लिए भारत की यूपीआई सेवा, कर सकेंगे ऑनलाइन बुकिंग।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब दुबई में बुर्ज खलीफा के लिए भारत की यूपीआई सेवा, कर सकेंगे ऑनलाइन बुकिंग",
-          "summary": "भारत की यूपीआई सेवा अब दुबई में बुर्ज खलीफा के लिए उपलब्ध है. भारतीय पर्यटक ऑनलाइन बुकिंग कर सकेंगे. यह सेवा भारत और दुबई के बीच डिजिटल भुगतान को बढ़ावा देगी. Biz Updates: अब दुबई में बुर्ज खलीफा के लिए भारत की यूपीआई सेवा, कर सकेंगे ऑनलाइन बुकिंग।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "US फेड ने ब्याज दरें नहीं बदलीं; आज से सावन मास की शुरुआत; नितेश तिवारी की रामायण का ट्रेलर रिलीज",
       "url": "https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-30-july-2026-updates-on-amar-ujala-2026-07-30",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-07-30T00:05:05+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
@@ -560,19 +722,19 @@
       }
     },
     {
-      "title": "आज से शुरू हुआ सावन, इन खास संदेशों के साथ दें अपनों को शुभकामनाएं",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/sawan-wishes-2026-images-quotes-status-know-happy-sawan-wallpaper-2026-07-29",
-      "source": "Amar Ujala National",
+      "title": "भोलेनाथ का प्रिय महीना सावन आज से शुरू, जानें संपूर्ण पूजन विधि और क्या-क्या करें अर्पित",
+      "url": "https://www.amarujala.com/spirituality/festivals/sawan-2026-start-date-time-shubh-muhurat-puja-vidhi-and-significance-mantra-in-hindi-2026-07-29",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-29T23:57:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/29/sawan-2026_7453579ed68de122ee4c4f79bc0ba523.jpeg?w=1200&dpr=1.0",
-      "summary": "सावन महीने की शुरुआत हो गई है. Sawan 2026: आज से सावन महीने का प्रारंभ हो चुका है। इस खास अवसर पर आप अपने दोस्तों और रिश्तेदारों को इन खूबसूरत संदेशों के जरिए शुभकामनाएं दे सकते हैं। आज से शुरू हुआ सावन, इन खास संदेशों के साथ दें अपनों को शुभकामनाएं।",
+      "published_at": "2026-07-29T23:49:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/29/sawan-2026_b9d6507fc4669d3cc0218008bb22c7a1.jpeg?w=1200&dpr=1.0",
+      "summary": "सावन महीने में भगवान शिव और माता पार्वती की पूजा करने का महत्व होता है। सावन के महीने में भगवान शिव और माता पार्वती की पूजा करने का महत्व होता है। ऐसी धार्मिक मान्यता है कि सावन महीने में शिव आराधना करने से भगवान भोलेनाथ जल्द प्रसन्न होते हैं और हर तरह की मनोकामना पूरी करते हैं। भोलेनाथ का प्रिय महीना सावन आज से शुरू, जानें संपूर्ण पूजन विधि और क्या-क्या करें अर्पित।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आज से शुरू हुआ सावन, इन खास संदेशों के साथ दें अपनों को शुभकामनाएं",
-          "summary": "सावन महीने की शुरुआत हो गई है. Sawan 2026: आज से सावन महीने का प्रारंभ हो चुका है। इस खास अवसर पर आप अपने दोस्तों और रिश्तेदारों को इन खूबसूरत संदेशों के जरिए शुभकामनाएं दे सकते हैं। आज से शुरू हुआ सावन, इन खास संदेशों के साथ दें अपनों को शुभकामनाएं।",
+          "title": "भोलेनाथ का प्रिय महीना सावन आज से शुरू, जानें संपूर्ण पूजन विधि और क्या-क्या करें अर्पित",
+          "summary": "सावन महीने में भगवान शिव और माता पार्वती की पूजा करने का महत्व होता है। सावन के महीने में भगवान शिव और माता पार्वती की पूजा करने का महत्व होता है। ऐसी धार्मिक मान्यता है कि सावन महीने में शिव आराधना करने से भगवान भोलेनाथ जल्द प्रसन्न होते हैं और हर तरह की मनोकामना पूरी करते हैं। भोलेनाथ का प्रिय महीना सावन आज से शुरू, जानें संपूर्ण पूजन विधि और क्या-क्या करें अर्पित।",
           "region": "दुनिया"
         }
       }
@@ -592,168 +754,6 @@
           "title": "फेडरल रिजर्व ने ब्याज दरें स्थिर रखीं, तीन अधिकारी वृद्धि के खिलाफ; ट्रंप क्या करेंगे?",
           "summary": "अमेरिकी फेडरल रिजर्व ने ब्याज दरें स्थिर रखीं. US Fed Rates Update: फेडरल रिजर्व ने ब्याज दरें स्थिर रखीं, तीन अधिकारी वृद्धि के खिलाफ; ट्रंप क्या करेंगे?",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "आखिर किसके आदेश पर चली तीन पैलेट गन, दिल्ली पुलिस और आरएएफ आमने सामने; भारी उलझन",
-      "url": "https://www.amarujala.com/delhi-ncr/on-whose-orders-were-three-pellet-gun-shots-fired-delhi-police-and-raf-face-off-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-29T22:19:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/1_0d605af0a1b4d3517d115c61831ab839.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली पुलिस और आरएएफ जंतर-मंतर घटना पर आमने सामने हैं. 20 जुलाई को जंतर-मंतर और संसद मार्ग इलाके में कॉकरोच जनता पार्टी (सीजेपी) और विभिन्न छात्र संगठनों के चलो संसद मार्च के दौरान कुल पैलेट गन से पांच गोलियां चलीं थीं। आखिर किसके आदेश पर चली तीन पैलेट गन, दिल्ली पुलिस और आरएएफ आमने सामने; भारी उलझन।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आखिर किसके आदेश पर चली तीन पैलेट गन, दिल्ली पुलिस और आरएएफ आमने सामने; भारी उलझन",
-          "summary": "दिल्ली पुलिस और आरएएफ जंतर-मंतर घटना पर आमने सामने हैं. 20 जुलाई को जंतर-मंतर और संसद मार्ग इलाके में कॉकरोच जनता पार्टी (सीजेपी) और विभिन्न छात्र संगठनों के चलो संसद मार्च के दौरान कुल पैलेट गन से पांच गोलियां चलीं थीं। आखिर किसके आदेश पर चली तीन पैलेट गन, दिल्ली पुलिस और आरएएफ आमने सामने; भारी उलझन।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कोविड-19 पर सवालों से बच रहे हैं डॉ. एंथनी फाउची? अमेरिकी सीनेट में अवमानना प्रस्ताव पर अगले हफ्ते",
-      "url": "https://www.amarujala.com/world/us-senate-to-vote-on-holding-anthony-fauci-in-contempt-after-refusing-to-answer-covid-19-questions-2026-07-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-29T22:17:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/24/us-senate_cc7346ab5a2795968c25e229dd9a7d6b.jpeg?w=1200&dpr=1.0",
-      "summary": "The US Senate will vote next week on a contempt resolution against Dr. Anthony Fauci for refusing to answer COVID‑19 questions from the Senate’s oversight panel. A guilty finding could compel testimony or impose a fine of up to $10,000 per day. US: कोविड-19 पर सवालों से बच रहे हैं डॉ. एंथनी फाउची? अमेरिकी सीनेट में अवमानना प्रस्ताव पर अगले हफ्ते।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कोविड-19 पर सवालों से बच रहे हैं डॉ. एंथनी फाउची? अमेरिकी सीनेट में अवमानना प्रस्ताव पर अगले हफ्ते",
-          "summary": "The US Senate will vote next week on a contempt resolution against Dr. Anthony Fauci for refusing to answer COVID‑19 questions from the Senate’s oversight panel. A guilty finding could compel testimony or impose a fine of up to $10,000 per day. US: कोविड-19 पर सवालों से बच रहे हैं डॉ. एंथनी फाउची? अमेरिकी सीनेट में अवमानना प्रस्ताव पर अगले हफ्ते।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "अब मामूरा के खुले नाले में गिरकर बुजुर्ग की मौत, लगातार हो रहे हैं जानलेवा हादसे लेकिन नहीं बदलते",
-      "url": "https://www.amarujala.com/delhi-ncr/noida-elderly-man-dies-after-falling-into-an-open-drain-in-mamura-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-29T22:17:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/1_f4807ca85de4ac572338e6e921246677.jpeg?w=1200&dpr=1.0",
-      "summary": "मामूरा में बुजुर्ग की मौत हो गई। वह खुले नाले में गिर गए थे। मामूरा में बुधवार सुबह खुले नाले में गिरने से बुजुर्ग (70) की मौत हो गई। अब मामूरा के खुले नाले में गिरकर बुजुर्ग की मौत, लगातार हो रहे हैं जानलेवा हादसे लेकिन नहीं बदलते।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब मामूरा के खुले नाले में गिरकर बुजुर्ग की मौत, लगातार हो रहे हैं जानलेवा हादसे लेकिन नहीं बदलते",
-          "summary": "मामूरा में बुजुर्ग की मौत हो गई। वह खुले नाले में गिर गए थे। मामूरा में बुधवार सुबह खुले नाले में गिरने से बुजुर्ग (70) की मौत हो गई। अब मामूरा के खुले नाले में गिरकर बुजुर्ग की मौत, लगातार हो रहे हैं जानलेवा हादसे लेकिन नहीं बदलते।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दिल्ली हाईकोर्ट का पुलिस को निर्देश, फतेहपुर में प्रदर्शन करने वाले छात्र से पूछताछ",
-      "url": "https://www.amarujala.com/delhi-ncr/delhi-high-court-directs-police-questions-to-student-who-protested-in-fatehpur-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-29T21:59:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/1_199920d7266eb09fcf05cbb7b43d605f.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली हाईकोर्ट ने पुलिस को फतेहपुर के छात्र से पूछताछ करने का निर्देश दिया। दिल्ली में जंतर मंतर पर छात्रों का प्रदर्शन समाप्त हो गया है। दिल्ली हाईकोर्ट का पुलिस को निर्देश, फतेहपुर में प्रदर्शन करने वाले छात्र से पूछताछ।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिल्ली हाईकोर्ट का पुलिस को निर्देश, फतेहपुर में प्रदर्शन करने वाले छात्र से पूछताछ",
-          "summary": "दिल्ली हाईकोर्ट ने पुलिस को फतेहपुर के छात्र से पूछताछ करने का निर्देश दिया। दिल्ली में जंतर मंतर पर छात्रों का प्रदर्शन समाप्त हो गया है। दिल्ली हाईकोर्ट का पुलिस को निर्देश, फतेहपुर में प्रदर्शन करने वाले छात्र से पूछताछ।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "एपस्टीन से जुड़े स्कूल में कैसे सामने आए यौन दुराचार के आरोप? जांच में दशकों पुराने मामलों का खुलासा",
-      "url": "https://www.amarujala.com/world/jeffrey-epstein-linked-school-investigation-reveals-decades-of-physcially-exploitation-allegations-2026-07-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-29T20:40:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/jeffrey-epstein_5722ec2dd7ff2308e045ce154943639c.jpeg?w=1200&dpr=1.0",
-      "summary": "Epstein: एपस्टीन से जुड़े स्कूल में कैसे सामने आए यौन दुराचार के आरोप? जांच में दशकों पुराने मामलों का खुलासा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एपस्टीन से जुड़े स्कूल में कैसे सामने आए यौन दुराचार के आरोप? जांच में दशकों पुराने मामलों का खुलासा",
-          "summary": "Epstein: एपस्टीन से जुड़े स्कूल में कैसे सामने आए यौन दुराचार के आरोप? जांच में दशकों पुराने मामलों का खुलासा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारत आएंगे बांग्लादेश के PM तारिक रहमान?: पीएम मोदी के न्योते पर ढाका ने कहा- समीक्षा के दौर में है",
-      "url": "https://www.amarujala.com/world/bangladesh-pm-tarique-rahman-visit-india-dhaka-reviews-pm-modi-invitation-for-brics-summit-2026-07-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-29T20:03:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/bangladesh-pm-india-visit-tarique-rahman_0b9c3fa68b5b108480b31dacd2e42daf.jpeg?w=1200&dpr=1.0",
-      "summary": "प्रस्ताव---Bangladesh PM Tarique Rahman Visit India, Dhaka Reviews PM Modi Invitation for BRICS Summit भारत आएंगे बांग्लादेश के PM तारिक रहमान?: पीएम मोदी के न्योते पर ढाका ने कहा- समीक्षा के दौर में है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत आएंगे बांग्लादेश के PM तारिक रहमान?: पीएम मोदी के न्योते पर ढाका ने कहा- समीक्षा के दौर में है",
-          "summary": "प्रस्ताव---Bangladesh PM Tarique Rahman Visit India, Dhaka Reviews PM Modi Invitation for BRICS Summit भारत आएंगे बांग्लादेश के PM तारिक रहमान?: पीएम मोदी के न्योते पर ढाका ने कहा- समीक्षा के दौर में है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "फिर ठिठका मानसून, अब तीन अगस्त तक पड़ सकती है बेचैन करने वाली उमस-गर्मी; ये है आज का पूर्वानुमान",
-      "url": "https://www.amarujala.com/lucknow/up-monsoon-stalls-again-in-the-state-now-uncomfortable-heat-and-humidity-may-persist-until-august-3-2026-07-29",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-29T19:41:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/18/yapa-ma-manasana_8fc8ea4375c0304256aeddc397c36ed8.jpeg?w=1200&dpr=1.0",
-      "summary": "Weather in UP: यूपी में मानसून एक बार फिर से ठहर गया है। मौसम विभाग के अनुसार अब कुछ दिनों तक बारिश एक खास हिस्से में ही सिमटी रहेगी। फिर ठिठका मानसून, अब तीन अगस्त तक पड़ सकती है बेचैन करने वाली उमस-गर्मी; ये है आज का पूर्वानुमान।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिर ठिठका मानसून, अब तीन अगस्त तक पड़ सकती है बेचैन करने वाली उमस-गर्मी; ये है आज का पूर्वानुमान",
-          "summary": "Weather in UP: यूपी में मानसून एक बार फिर से ठहर गया है। मौसम विभाग के अनुसार अब कुछ दिनों तक बारिश एक खास हिस्से में ही सिमटी रहेगी। फिर ठिठका मानसून, अब तीन अगस्त तक पड़ सकती है बेचैन करने वाली उमस-गर्मी; ये है आज का पूर्वानुमान।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "भारत से छीनकर चीन को दिया गया था तीस्ता प्रोजेक्ट, अब दिनेश त्रिवेदी ने निकाला रास्ता, बांग्लादेश",
-      "url": "https://hindi.news18.com/world/south-asia-teesta-project-row-indian-envoy-dinesh-trivedi-opens-talk-path-with-bangladesh-fm-amid-china-pivot-10701586.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-29T19:22:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/India-Bangladesh-Teesta-Project-2026-07-6e1a330f8b3e1cb78e420a5f97369d8d-1200x800.jpg",
-      "summary": "तीस्ता रिवर मैनेजमेंट प्रोजेक्ट भारत के बजाय चीन की झोली में जाने की खबरों के बीच भारत के उच्चायुक्त दिनेश त्रिवेदी ने मामला संभाला है. उन्होंने बांग्लादेश के विदेश मंत्री डॉ खलीलुर रहमान और राज्य मंत्री शमा ओबैद चिनॉय से मुलाकात की. इस बैठक ने तीस्ता प्रोजेक्ट और गंगा जल संधि जैसे लंबे समय से पेंडिंग पड़े सेंसेटिव विवादों को बातचीत के जरिए सुलझाने की एक नई उम्मीद जगा दी है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत से छीनकर चीन को दिया गया था तीस्ता प्रोजेक्ट, अब दिनेश त्रिवेदी ने निकाला रास्ता, बांग्लादेश",
-          "summary": "तीस्ता रिवर मैनेजमेंट प्रोजेक्ट भारत के बजाय चीन की झोली में जाने की खबरों के बीच भारत के उच्चायुक्त दिनेश त्रिवेदी ने मामला संभाला है. उन्होंने बांग्लादेश के विदेश मंत्री डॉ खलीलुर रहमान और राज्य मंत्री शमा ओबैद चिनॉय से मुलाकात की. इस बैठक ने तीस्ता प्रोजेक्ट और गंगा जल संधि जैसे लंबे समय से पेंडिंग पड़े सेंसेटिव विवादों को बातचीत के जरिए सुलझाने की एक नई उम्मीद जगा दी है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "तबाह होने वाला है टोक्यो! खौफ में जापान बना रहा दूसरी राजधानी? रेस में 4 शहरों का नाम",
-      "url": "https://hindi.news18.com/world/rest-of-world-why-japan-is-passing-law-for-a-second-capital-mega-earthquake-risk-threatens-tokyo-osaka-fukuoka-in-race-10701409.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-29T17:32:46+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Japan-Second-Capital-After-Tokyo-2026-07-69202a6b1a48cc448793cadffcdb0878-1200x800.jpg",
-      "summary": "जापानी संसद ने देश की एक 'दूसरी राजधानी' बनाने के ऐतिहासिक कानून को मंजूरी दे दी है. वैज्ञानिकों और ब्लूमबर्ग की रिपोर्ट के मुताबिक अगले 30 सालों में टोक्यो में भयानक जलजला आने वाला है. जिसके बाद पूरा देश ठप्प पड़ जाएगा. इसी तबाही से निपटने के लिए ताकाइची सरकार ने मास्टरप्लान तैयार किया है. जापानी सरकार की बैकअप राजधानी की रेस में ओसाका, नागोया, फुकुओका और सपोरो जैसे शहर सबसे आगे हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तबाह होने वाला है टोक्यो! खौफ में जापान बना रहा दूसरी राजधानी? रेस में 4 शहरों का नाम",
-          "summary": "जापानी संसद ने देश की एक 'दूसरी राजधानी' बनाने के ऐतिहासिक कानून को मंजूरी दे दी है. वैज्ञानिकों और ब्लूमबर्ग की रिपोर्ट के मुताबिक अगले 30 सालों में टोक्यो में भयानक जलजला आने वाला है. जिसके बाद पूरा देश ठप्प पड़ जाएगा. इसी तबाही से निपटने के लिए ताकाइची सरकार ने मास्टरप्लान तैयार किया है. जापानी सरकार की बैकअप राजधानी की रेस में ओसाका, नागोया, फुकुओका और सपोरो जैसे शहर सबसे आगे हैं.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
