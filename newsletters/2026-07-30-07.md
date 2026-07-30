@@ -1,13 +1,13 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 30, 2026 12:29 IST
+**Updated:** July 30, 2026 13:24 IST
 
 ---
 
 ## Middle East & Africa
 
 ### [U.S. military launches new strikes on Iran](https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece)
-*The Hindu (International)* - Jul 30, 11:36 IST (iso: 2026-07-30T06:06:12+00:00)
+*The Hindu (International)* - Jul 30, 12:16 IST (iso: 2026-07-30T06:46:37+00:00)
 <!-- image: https://th-i.thgim.com/public/hindi/editorial/gr75np/article71284169.ece/alternates/LANDSCAPE_1200/HN_-DdmWAAAIY21.jpg -->
 
 U. S. President Donald Trump vowed to hit back hard at Iran after it attacked U. bases in Jordan on Wednesday, July 30, as the war in West Asia reignited and again drew in Iran's proxies military launches new strikes on Iran. U. S.
@@ -75,12 +75,6 @@ Regional tensions are mounting as the US-Iran war continues and a rising number 
 <!-- image: https://th-i.thgim.com/public/incoming/ncp0mr/article71284389.ece/alternates/LANDSCAPE_1200/2026-07-30T025432Z_1269635469_RC2ZNMAYS0N1_RTRMADP_3_JAPAN-QUAKE.JPG -->
 
 The government issued the new tally as Kumamoto officials said they have now extracted four bodies from the mass of rubble, steel and wires of the Aeon shopping mall after a suspected gas blast following the quake Japan quake toll hits 28 as survivors struggle in heat.
-
-### [Death toll in Japan earthquake rises to 28 as aftershock and heat complicate rescue efforts](https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises)
-*The Guardian* - Jul 30, 10:12 IST (iso: 2026-07-30T04:42:33+00:00)
-<!-- image: https://i.guim.co.uk/img/media/bb27f9a2323803dfc653cb9bf288d8465f10c4ad/34_0_6465_5175/master/6465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f07fb498229cda24a487a55666670c67 -->
-
-Soldiers and emergency workers are searching a badly damaged shopping mall, paper mill and collapsed houses for survivorsThe death toll from the powerful earthquake that hit Japan on Tuesday has risen to 30, as the search for survivors trapped in a badly damaged shopping centre, paper mill and collapsed homes across the south-west of the country continues. The 6.
 
 ### [Stories of survival and loss emerge after Japan earthquake](https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki)
 *The Guardian* - Jul 29, 14:38 IST (iso: 2026-07-29T09:08:57+00:00)
@@ -171,6 +165,16 @@ Years of progress in tackling HIV, viral hepatitis and sexually transmitted infe
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-06-2024-UNODC-Philippines-3-LG.jpg/image770x420cropped.jpg -->
 
 A job advert can hide a criminal network, and a single click can lead to a nightmare. Hundreds of thousands of people are trafficked every year on the promise of legitimate work abroad, only to be held captive and forced into online scam operations. IOM warns trafficking networks are booming.
+
+---
+
+## Americas
+
+### [Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago](https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile)
+*The Guardian* - Jul 27, 21:57 IST (iso: 2026-07-27T16:27:44+00:00)
+<!-- image: https://i.guim.co.uk/img/media/924e4efcc644c3ea190cbf7970f8a29370732191/0_5_2048_1638/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3822a400f25bff3b9fe409527fe6288 -->
+
+Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in ChileMore than 50 years after the murder of the Chilean folk singer Víctor Jara, the last man wanted in connection with his death has been tracked down and brought to justice.
 
 ---
 
