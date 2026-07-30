@@ -1,62 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 30, 2026 14:30 IST
-
----
-
-## Europe & Russia
-
-### [Russia Pounds Ukraine With Missiles, Killing At Least Eight, Including Children](https://www.rferl.org/a/russia-missile-deadly-strike-ukraine/33818229.html)
-*Radio Free Europe / Liberty* - Jul 30, 14:16 IST (iso: 2026-07-30T08:46:18+00:00)
-<!-- image: https://gdb.rferl.org/42bb1ee8-b562-4a79-9ee5-caaecdc6a120_cx0_cy8_cw0_w1200_h630.jpg -->
-
-A barrage of Russian missile and drone strikes pummeled Ukraine overnight, killing at least eight people and injuring dozens of others as President Zelenskyy returned from the United States, where he said President Trump had agreed to provide Ukraine with licenses for Patriot missiles. Russia Pounds Ukraine With Missiles, Killing At Least Eight, Including Children.
-
-### [Why is the founder of Telegram on Russia’s wanted list](https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece)
-*The Hindu (International)* - Jul 30, 13:40 IST (iso: 2026-07-30T08:10:34+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG -->
-
-The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia. Why is the founder of Telegram on Russia’s wanted list.
-
-### [Ukraine’s Newest Battlefields: Online Retailers, Gas Stations, Shadow Fleets](https://www.rferl.org/a/russia-cost-of-living/33817710.html)
-*Radio Free Europe / Liberty* - Jul 29, 23:37 IST (iso: 2026-07-29T18:07:49+00:00)
-<!-- image: https://gdb.rferl.org/6c66ba66-8a5b-4504-1803-08decad58b60_w1200_h630.jpg -->
-
-Why is Ukraine pounding the warehouses and logistics centers of the company known as Russia’s Amazon? For the same reason it’s trying to drive Russian car owners crazy by forcing them to wait in crazy long lines at fueling stations. Ukraine’s Newest Battlefields: Online Retailers, Gas Stations, Shadow Fleets.
-
-### [Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again](https://www.rferl.org/a/ukraine-russia-drone-attack-wildberries-zelenskyy-trump/33817538.html)
-*Radio Free Europe / Liberty* - Jul 29, 16:32 IST (iso: 2026-07-29T11:02:31+00:00)
-<!-- image: https://gdb.rferl.org/9d052c4f-8965-44e0-4489-08decacf94d0_tv_w1200_h630.jpg -->
-
-Ukrainian drones struck targets in several places inside Russia on July 29, including an oil refinery and a logistics center belonging to Russia's largest online retailer, Wildberries, as Kyiv expands its long-range strike campaign to pressure Moscow into peace negotiations. Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again.
-
-### [Ukraine Hits Another Wildberries Warehouse In Russia](https://www.rferl.org/a/ukraine-hits-another-wildberries-warehouse-in-russia/33817559.html)
-*Radio Free Europe / Liberty* - Jul 29, 16:21 IST (iso: 2026-07-29T10:51:25+00:00)
-<!-- image: https://gdb.rferl.org/406e3464-e121-4373-334c-08decd1f5434_cx0_cy9_cw0_w1200_h630.jpg -->
-
-Ukrainian drones struck a Wildberries warehouse in the Ryazan region, Russia, setting the building on fire. Wildberries confirmed the evacuation of the facility, marking another hit in a string of drone attacks on Russian industrial sites. Ukrainian drones struck industrial facilities in Russia's Ryazan region, with videos on social media showing a Wildberries warehouse engulfed in flames. Russia's largest online retailer said it evacuated the facility.
-
-### [For Central Asian Migrants, Russia's School Rules Are Splitting Families](https://www.rferl.org/a/russia-migration-migrants-kyrgyzstan-tajikistan-uzbekistan-central-asia/33816803.html)
-*Radio Free Europe / Liberty* - Jul 29, 12:24 IST (iso: 2026-07-29T06:54:25+00:00)
-<!-- image: https://gdb.rferl.org/87521994-DA0D-4A17-B6A3-826376A1C106.jpg -->
-
-As the new school year approaches, Central Asian migrant parents face a stark choice: bring their children to Russia and risk them being unable to enroll because of stricter Russian language rules or leave them behind. For Central Asian Migrants, Russia's School Rules Are Splitting Families.
-
-### [Mount Olympus and D-Day beaches among new World Heritage Sites](https://news.un.org/feed/view/en/story/2026/07/1168043)
-*UN News* - Jul 28, 17:30 IST (iso: 2026-07-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/28-07-2026-UNESCO-France-D-Day.jpg/image770x420cropped.jpg -->
-
-From the peaks of Mount Olympus in Greece to the shores of the “D-Day” beaches in France, 25 cultural or natural landmarks from across the globe have been newly inscribed on the World Heritage List, updated annually by the UN Educational, Scientific and Cultural Organization (UNESCO). Mount Olympus and D-Day beaches among new World Heritage Sites.
-
-### [Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup](https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup)
-*The Guardian* - Jul 28, 15:51 IST (iso: 2026-07-28T10:21:46+00:00)
-<!-- image: https://i.guim.co.uk/img/media/86aeafb5c20cd5724a6740beae18fce5628841ac/660_0_3298_2639/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ecf12c0d176b9e99f531f9f7daa0f76 -->
-
-President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over. Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup.
+**Updated:** July 30, 2026 15:27 IST
 
 ---
 
 ## Middle East & Africa
+
+### [Myanmar’s junta slowly but surely winning its war with ASEAN](https://asiatimes.com/2026/07/myanmars-junta-slowly-but-surely-winning-its-war-with-asean/)
+*Asia Times* - Jul 30, 15:10 IST (iso: 2026-07-30T09:40:37+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/02/Myanmar-Min-Aung-Hlaing-Coup-2019-1-e1612954838149.jpg -->
+
+The multidimensional crisis that has gripped Myanmar since the military coup on February 1, 2021, has entered a new chapter. one increasingly complex and riddled with contradictions.
 
 ### [U.S. military launches new strikes on Iran](https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece)
 *The Hindu (International)* - Jul 30, 14:02 IST (iso: 2026-07-30T08:32:37+00:00)
@@ -106,12 +60,6 @@ Ahead of a Senate vote on a sanctions package targeting Russia and Iran, Democra
 
 As the US Senate prepared to vote on a sweeping bipartisan sanctions package targeting Russia and Iran, Democratic Senator Sheldon Whitehouse, a co-sponsor of the legislation, said the measure reflects renewed bipartisan resolve to squeeze the Kremlin war machine and reinforce support for Ukraine. Russia-Iran Sanctions Bill Signals Congress United Behind Ukraine, Senator Whitehouse Tells RFE/RL.
 
-### [Ukraine Hits At Iran. In The Caspian Sea, Things Get Even Messier.](https://www.rferl.org/a/ukraine-iran-caspian-strikes-ships/33816728.html)
-*Radio Free Europe / Liberty* - Jul 28, 18:01 IST (iso: 2026-07-28T12:31:36+00:00)
-<!-- image: https://gdb.rferl.org/1E3C8AB8-53D0-4993-BEC7-13C760DE07A3.jpg -->
-
-Russia’s Iranian-designed drones have ravaged Ukrainian forces in Moscow’s all-out war. As far as Ukraine is concerned, that means cargo ships plying the Caspian Sea with Iranian military goods are fair game. Including this past weekend. Ukraine Hits At Iran In The Caspian Sea. And Things Get Even Messier. In The Caspian Sea, Things Get Even Messier.
-
 ### [Updates on Gaza, West Bank amid regional tensions](https://news.un.org/feed/view/en/story/2026/07/1168037)
 *UN News* - Jul 28, 17:30 IST (iso: 2026-07-28T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/23-07-2026-WFP-Egypt-Gaza.jpg/image770x420cropped.jpg -->
@@ -121,6 +69,12 @@ Regional tensions are mounting as the US-Iran war continues and a rising number 
 ---
 
 ## Asia-Pacific
+
+### [Newspaper in China’s Guangxi goes viral after featuring hometown mathematician](https://www.channelnewsasia.com/east-asia/china-guangxi-newspaper-viral-wang-hong-mathematician-fields-medal-6287921)
+*Channel News Asia* - Jul 30, 14:57 IST (iso: 2026-07-30T09:27:50+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--9z8Dm7Lb--/c_crop,h_719,w_1278,x_0,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/30/guangxi_daily_newspaper_169.jpg?itok=636wTs0n -->
+
+The Jul 25 edition of Guangxi Daily featured a front-page profile of hometown mathematician and Fields Medal winner Wang Hong. The headline’s layered wordplay has won praise and helped turn the copy into an unlikely keepsake. Newspaper in China’s Guangxi goes viral after featuring hometown mathematician.
 
 ### [Japan quake toll hits 28 as survivors struggle in heat](https://www.thehindu.com/news/international/japan-quake-death-toll-increases-as-survivors-struggle-in-heat/article71284372.ece)
 *The Hindu (International)* - Jul 30, 10:15 IST (iso: 2026-07-30T04:45:06+00:00)
@@ -145,6 +99,52 @@ Military mobilises thousands of personnel after quake on southern Kyushu island 
 <!-- image: https://i.guim.co.uk/img/media/4246978568dc52b388726a54c5799437285f8631/510_0_4378_3501/master/4378.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d32cd6fd2ea8e0552a6c8d538b438d8 -->
 
 Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the USThe Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses “unacceptable risks” to the country’s national security. The move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US.
+
+---
+
+## Europe & Russia
+
+### [Russia Pounds Ukraine With Missiles, Killing At Least Eight, Including Children](https://www.rferl.org/a/russia-missile-deadly-strike-ukraine/33818229.html)
+*Radio Free Europe / Liberty* - Jul 30, 14:16 IST (iso: 2026-07-30T08:46:18+00:00)
+<!-- image: https://gdb.rferl.org/42bb1ee8-b562-4a79-9ee5-caaecdc6a120_cx0_cy8_cw0_w1200_h630.jpg -->
+
+A barrage of Russian missile and drone strikes pummeled Ukraine overnight, killing at least eight people and injuring dozens of others as President Zelenskyy returned from the United States, where he said President Trump had agreed to provide Ukraine with licenses for Patriot missiles. Russia Pounds Ukraine With Missiles, Killing At Least Eight, Including Children.
+
+### [Why is the founder of Telegram on Russia’s wanted list](https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece)
+*The Hindu (International)* - Jul 30, 13:40 IST (iso: 2026-07-30T08:10:34+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG -->
+
+The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia. Why is the founder of Telegram on Russia’s wanted list.
+
+### [Ukraine’s Newest Battlefields: Online Retailers, Gas Stations, Shadow Fleets](https://www.rferl.org/a/russia-cost-of-living/33817710.html)
+*Radio Free Europe / Liberty* - Jul 29, 23:37 IST (iso: 2026-07-29T18:07:49+00:00)
+<!-- image: https://gdb.rferl.org/6c66ba66-8a5b-4504-1803-08decad58b60_w1200_h630.jpg -->
+
+Why is Ukraine pounding the warehouses and logistics centers of the company known as Russia’s Amazon? For the same reason it’s trying to drive Russian car owners crazy by forcing them to wait in crazy long lines at fueling stations. Ukraine’s Newest Battlefields: Online Retailers, Gas Stations, Shadow Fleets.
+
+### [Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again](https://www.rferl.org/a/ukraine-russia-drone-attack-wildberries-zelenskyy-trump/33817538.html)
+*Radio Free Europe / Liberty* - Jul 29, 16:32 IST (iso: 2026-07-29T11:02:31+00:00)
+<!-- image: https://gdb.rferl.org/9d052c4f-8965-44e0-4489-08decacf94d0_tv_w1200_h630.jpg -->
+
+Ukrainian drones struck targets in several places inside Russia on July 29, including an oil refinery and a logistics center belonging to Russia's largest online retailer, Wildberries, as Kyiv expands its long-range strike campaign to pressure Moscow into peace negotiations. Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again.
+
+### [Ukraine Hits Another Wildberries Warehouse In Russia](https://www.rferl.org/a/ukraine-hits-another-wildberries-warehouse-in-russia/33817559.html)
+*Radio Free Europe / Liberty* - Jul 29, 16:21 IST (iso: 2026-07-29T10:51:25+00:00)
+<!-- image: https://gdb.rferl.org/406e3464-e121-4373-334c-08decd1f5434_cx0_cy9_cw0_w1200_h630.jpg -->
+
+Ukrainian drones struck a Wildberries warehouse in the Ryazan region, Russia, setting the building on fire. Wildberries confirmed the evacuation of the facility, marking another hit in a string of drone attacks on Russian industrial sites. Ukrainian drones struck industrial facilities in Russia's Ryazan region, with videos on social media showing a Wildberries warehouse engulfed in flames. Russia's largest online retailer said it evacuated the facility.
+
+### [For Central Asian Migrants, Russia's School Rules Are Splitting Families](https://www.rferl.org/a/russia-migration-migrants-kyrgyzstan-tajikistan-uzbekistan-central-asia/33816803.html)
+*Radio Free Europe / Liberty* - Jul 29, 12:24 IST (iso: 2026-07-29T06:54:25+00:00)
+<!-- image: https://gdb.rferl.org/87521994-DA0D-4A17-B6A3-826376A1C106.jpg -->
+
+As the new school year approaches, Central Asian migrant parents face a stark choice: bring their children to Russia and risk them being unable to enroll because of stricter Russian language rules or leave them behind. For Central Asian Migrants, Russia's School Rules Are Splitting Families.
+
+### [Mount Olympus and D-Day beaches among new World Heritage Sites](https://news.un.org/feed/view/en/story/2026/07/1168043)
+*UN News* - Jul 28, 17:30 IST (iso: 2026-07-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/28-07-2026-UNESCO-France-D-Day.jpg/image770x420cropped.jpg -->
+
+From the peaks of Mount Olympus in Greece to the shores of the “D-Day” beaches in France, 25 cultural or natural landmarks from across the globe have been newly inscribed on the World Heritage List, updated annually by the UN Educational, Scientific and Cultural Organization (UNESCO). Mount Olympus and D-Day beaches among new World Heritage Sites.
 
 ---
 
