@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-07-30T11:40:42.562073+00:00",
+  "generated_at": "2026-07-30T12:39:44.530885+00:00",
   "article_count": 50,
   "total_unique_count": 280,
   "digest": {
-    "en": "Japan's earthquakes dominate the news, with multiple aftershocks reported in the past 24 hours. Meanwhile, the US military's latest strikes on Iran's Revolutionary Guards Corps have sparked a new wave of tensions in the Middle East. The situation in Ukraine continues to deteriorate, with Russia pounding the country with missiles and killing at least eight civilians.",
-    "hi": "भारतीय सीमा से लगे नेपाली इलाके में कर्फ्यू जारी, सांप्रदायिक हिंसा के बाद हालात गंभीर हैं। भारत ने नेपाल को सुरक्षा सहायता देने की पेशकश की है, लेकिन नेपाली सरकार ने अभी तक इसकी स्वीकृति नहीं दी है। नेपाली सेना ने भी अपने जवानों को उच्च संवेदनशीलता में तैनात किया है।"
+    "en": "Europe & Russia leads the board this hour with Russia Launches Massive Missile And Drone Attack On Ukraine. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "भारत के पड़ोस में नए घटनाक्रम हो रहे हैं। पाकिस्तान के कब्जे वाले कश्मीर और बलूचिस्तान में तनाव बढ़ रहा है। अमेरिका और ईरान के बीच भी तनाव बढ़ रहा है।"
   },
   "articles": [
+    {
+      "title": "Russia Launches Massive Missile And Drone Attack On Ukraine",
+      "url": "https://www.rferl.org/a/russia-launches-massive-missile-and-drone-attack-on-ukraine/33818362.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-30T11:44:02+00:00",
+      "image_url": "https://gdb.rferl.org/72f3ebf3-7ae1-4c91-b38f-c0cc608eb9c9_w1200_h630.jpg",
+      "summary": "Russia launched dozens of ballistic and cruise missiles, along with hundreds of drones, at Ukraine in the early hours of July 30 in another large-scale attack. Damage was reported in several cities, including Kyiv and Lviv. Russia Launches Massive Missile And Drone Attack On Ukraine.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Pakistan Foreign Office says country is 'doing its utmost' to bring U.S., Iran back to negotiating",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-30T11:43:35+00:00",
+      "image_url": "https://th-i.thgim.com/public/hindi/editorial/gr75np/article71284169.ece/alternates/LANDSCAPE_1200/HN_-DdmWAAAIY21.jpg",
+      "summary": "U. S. President Donald Trump vowed to hit back hard at Iran after it attacked U. bases in Jordan on Wednesday, July 30, as the war in West Asia reignited and again drew in Iran's proxies military launches new strikes on Iran. U. S. Pakistan Foreign Office says country is 'doing its utmost' to bring U. S., Iran back to negotiating.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Japan’s earthquakes: Maps and graphics",
       "url": "https://www.thehindu.com/news/international/japans-earthquakes-maps-and-graphics/article71284633.ece",
@@ -100,18 +124,6 @@
       "image_url": "https://gdb.rferl.org/42bb1ee8-b562-4a79-9ee5-caaecdc6a120_cx0_cy8_cw0_w1200_h630.jpg",
       "summary": "A barrage of Russian missile and drone strikes pummeled Ukraine overnight, killing at least eight people and injuring dozens of others as President Zelenskyy returned from the United States, where he said President Trump had agreed to provide Ukraine with licenses for Patriot missiles. Russia Pounds Ukraine With Missiles, Killing At Least Eight, Including Children.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S. military launches new strikes on Iran",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-30T08:32:37+00:00",
-      "image_url": "https://th-i.thgim.com/public/hindi/editorial/gr75np/article71284169.ece/alternates/LANDSCAPE_1200/HN_-DdmWAAAIY21.jpg",
-      "summary": "U. S. President Donald Trump vowed to hit back hard at Iran after it attacked U. bases in Jordan on Wednesday, July 30, as the war in West Asia reignited and again drew in Iran's proxies military launches new strikes on Iran. U. S.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -272,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "Russia Sanctions Bill Shows 'Bipartisan Coalition Of Support' For Ukraine",
-      "url": "https://www.rferl.org/a/us-sanctions-bill-russia-ukraine/33816953.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-28T21:20:23+00:00",
-      "image_url": "https://gdb.rferl.org/4f8234de-600e-4889-3318-08decd1f5434_w1200_h630.jpg",
-      "summary": "Ahead of a Senate vote on a sanctions package targeting Russia and Iran, Democratic Senator Sheldon Whitehouse, a co-sponsor of the legislation, told RFE/RL that the legislation sends a strong message that the United States is committed to supporting Ukraine. Russia Sanctions Bill Shows 'Bipartisan Coalition Of Support' For Ukraine.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168043",
       "source": "UN News",
@@ -306,6 +306,60 @@
       "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "भारत को नया पड़ोसी बनेगा 'पंजाबिस्तान'! PoK-बलूचिस्तान टूटने को तैयार, दफन हुआ दहशतगर्दी का दौर",
+      "url": "https://hindi.news18.com/world/pakistan-pok-to-balochistan-ready-to-spin-off-from-pakistan-drifting-towards-punjabistan-ws-l-10703441.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T12:03:49+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-33-2026-07-bf500b552b30b3519c666db5e5f7daa1-1200x800.jpg",
+      "summary": "Pok-Balochistan Wants Liberation from Pakistan: पाकिस्तान में इस वक्त जो हालात बने हुए हैं, उसे देखकर ये कहना गलत नहीं होगा कि जल्द ही भारत को नया पड़ोसी मिल सकता है - पंजाबिस्तान के तौर पर. जिस तरह से बलोचिस्तान और पीओके में बवाल चल रहा है, वो मुनीर के आगे घुटने तो नहीं टेकने वाले हैं. भारत को नया पड़ोसी बनेगा 'पंजाबिस्तान'!",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत को नया पड़ोसी बनेगा 'पंजाबिस्तान'! PoK-बलूचिस्तान टूटने को तैयार, दफन हुआ दहशतगर्दी का दौर",
+          "summary": "Pok-Balochistan Wants Liberation from Pakistan: पाकिस्तान में इस वक्त जो हालात बने हुए हैं, उसे देखकर ये कहना गलत नहीं होगा कि जल्द ही भारत को नया पड़ोसी मिल सकता है - पंजाबिस्तान के तौर पर. जिस तरह से बलोचिस्तान और पीओके में बवाल चल रहा है, वो मुनीर के आगे घुटने तो नहीं टेकने वाले हैं. भारत को नया पड़ोसी बनेगा 'पंजाबिस्तान'!",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी मिसाइल हमले में ईरान के तीन जवानों की मौत, होर्मुज को लेकर फिर बढ़ा तनाव",
+      "url": "https://www.patrika.com/world-news/us-missile-strike-iran-revolutionary-guards-3-killed-20790887",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-30T11:58:16+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-IRAN-WAR-LATEST-UPDATE-.webp",
+      "summary": "Three members of the Iranian Revolutionary Guard were killed in a U. S. missile strike near the Strait of Hormuz, the IRGC confirmed. The attack raises tensions between Tehran and Washington. The U. S. said it was a defensive measure. No further casualties were reported. Iran-US Conflict: अमेरिका-ईरान के बीच तनाव एक बार फिर बढ़ गया है। ‘अल-जजीरा’ के रिपोर्ट के मुताबिक, अमेरिकी मिसाइल हमले में ईरान के तीन जवानों की मौत हो गई।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी मिसाइल हमले में ईरान के तीन जवानों की मौत, होर्मुज को लेकर फिर बढ़ा तनाव",
+          "summary": "Three members of the Iranian Revolutionary Guard were killed in a U. S. missile strike near the Strait of Hormuz, the IRGC confirmed. The attack raises tensions between Tehran and Washington. The U. S. said it was a defensive measure. No further casualties were reported. Iran-US Conflict: अमेरिका-ईरान के बीच तनाव एक बार फिर बढ़ गया है। ‘अल-जजीरा’ के रिपोर्ट के मुताबिक, अमेरिकी मिसाइल हमले में ईरान के तीन जवानों की मौत हो गई।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कौन था जियाउर रहमान का 'लंगड़ा त्यागी'? बांग्लादेशी राष्ट्रपति की मर्डर मिस्ट्री पर हुआ खुलासा",
+      "url": "https://hindi.news18.com/news/knowledge/ziaur-rahman-murder-mystery-explained-after-45-years-secret-report-uncovers-betrayal-behind-former-bangladesh-president-assassination-10703090.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T11:47:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Ziaur-Rahman-murder-mystery-2026-07-bb9db69073e688adf174c4c1a6109786-1200x800.jpg",
+      "summary": "बांग्लादेश के राष्ट्रपति जियाउर रहमान की हत्या की इनसाइड स्टोरी 45 साल बाद आखिरकार सामने आ गई है. 'द डेली स्टार' को मिली सितंबर 1981 की सीक्रेट जांच रिपोर्ट के अनुसार, इस पूरे मर्डर मिस्ट्री और तख्तापलट के पीछे राष्ट्रपति के 'लंगड़ा त्यागी' का हाथ था, जिसने वफादारी का नाटक कर सुरक्षा घेरा हटवाया, कमरों की लिस्ट लीक की और हमले के वक्त फोन पर व्यस्त रहे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कौन था जियाउर रहमान का 'लंगड़ा त्यागी'? बांग्लादेशी राष्ट्रपति की मर्डर मिस्ट्री पर हुआ खुलासा",
+          "summary": "बांग्लादेश के राष्ट्रपति जियाउर रहमान की हत्या की इनसाइड स्टोरी 45 साल बाद आखिरकार सामने आ गई है. 'द डेली स्टार' को मिली सितंबर 1981 की सीक्रेट जांच रिपोर्ट के अनुसार, इस पूरे मर्डर मिस्ट्री और तख्तापलट के पीछे राष्ट्रपति के 'लंगड़ा त्यागी' का हाथ था, जिसने वफादारी का नाटक कर सुरक्षा घेरा हटवाया, कमरों की लिस्ट लीक की और हमले के वक्त फोन पर व्यस्त रहे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "₹73,24,30,51,26,640 खर्च कर 14 परमाणु पनडुब्बियां बनाएगा अमेरिका, कीमत लगभग भारत के रक्षा बजट जितनी",
@@ -366,7 +420,7 @@
       "url": "https://www.patrika.com/world-news/iran-warning-after-us-airstrike-strait-of-hormuz-our-control-our-land-20790761",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-30T10:46:07+00:00",
+      "published_at": "2026-07-30T10:48:41+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/us-iran-war-update-1.png",
       "summary": "US-Iran War Latest Update: लगभग 5 महीने पहलेयानी कि 28 फरवरी 2026 से शुरू हुआ अमेरिका और ईरान के बीच युद्ध खत्म होने का नाम नहीं ले रहा। कई बार दोनों देशों के बीच शांति वार्ता भी हो चुकी है, लेकिन इसका कुछ खास असर नहीं दिखा। हाल में अमेरिका ने ईरान पर भीषण एयर स्ट्राइक की। टारगेट पर था IRGC का हेडक्वार्टर, ईरान का एयर डिफेंस सिस्टम, आर्मी कैंप, रडार सिस्टम।",
       "region": "Middle East & Africa",
@@ -542,24 +596,6 @@
       }
     },
     {
-      "title": "डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/ramayana-trailer-ranbir-kapoor-in-double-role-to-rakul-preet-arun-govil-and-other-actors-characters-reveal-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-30T07:20:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/ramayanae-ka-taralra-ma-najara-aae-caracata-kalkara_6018021106475d00f89c03a1c0b8d568.jpeg?w=1200&dpr=1.0",
-      "summary": "रणबीर कपूर स्टारर फिल्म 'रामायण' का ट्रेलर रिलीज हुआ है, जिसमें अरुण गोविल, रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए हैं। फैंस ट्रेलर देखकर फिल्म देखने के लिए उत्साहित हो गए हैं। आज रणबीर कपूर स्टारर फिल्म ‘रामायण’ का ट्रेलर रिलीज हुआ। इस ट्रेलर में अरुण गोविल से लेकर रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक",
-          "summary": "रणबीर कपूर स्टारर फिल्म 'रामायण' का ट्रेलर रिलीज हुआ है, जिसमें अरुण गोविल, रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए हैं। फैंस ट्रेलर देखकर फिल्म देखने के लिए उत्साहित हो गए हैं। आज रणबीर कपूर स्टारर फिल्म ‘रामायण’ का ट्रेलर रिलीज हुआ। इस ट्रेलर में अरुण गोविल से लेकर रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "अमेरिका के रूस वाले बिल से भारत पर 100% टैरिफ लगने का कितना खतरा? डोनाल्ड ट्रंप ने सब साफ कर दिया",
       "url": "https://hindi.news18.com/world/america-donald-trump-comments-on-100-percent-tariff-threat-on-india-over-russia-sanctions-bill-ws-l-10702571.html",
       "source": "News18 Hindi (World)",
@@ -596,24 +632,6 @@
       }
     },
     {
-      "title": "वह भारतीय कप्तान, जिसकी कप्तानी में टेस्ट-ODI में कभी नहीं हारा भारत, रहे सबसे शांत नायक",
-      "url": "https://www.amarujala.com/cricket/ajinkya-rahane-story-the-quiet-captain-who-rarely-lost-and-always-put-india-first-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-30T07:05:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/ajinkya-rahane-story-ajinkya-rahane-retirement-ajinkya-rahane-captaincy-record-ajinkya-rahane-wif_4e9f49bf44088c9c7db08af40c4e8385.jpeg?w=1200&dpr=1.0",
-      "summary": "अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट से संन्यास लिया है, जो भारत के सबसे सफल और शांत कप्तानों में से एक थे। उन्होंने टेस्ट और वनडे में भारत की जीत का रिकॉर्ड बनाया है। अंतरराष्ट्रीय क्रिकेट से संन्यास लेने वाले अजिंक्य रहाणे सिर्फ एक शानदार बल्लेबाज ही नहीं, बल्कि भारत के सबसे सफल और शांत कप्तानों में भी शामिल रहे। वह भारतीय कप्तान, जिसकी कप्तानी में टेस्ट-ODI में कभी नहीं हारा भारत, रहे सबसे शांत नायक।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वह भारतीय कप्तान, जिसकी कप्तानी में टेस्ट-ODI में कभी नहीं हारा भारत, रहे सबसे शांत नायक",
-          "summary": "अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट से संन्यास लिया है, जो भारत के सबसे सफल और शांत कप्तानों में से एक थे। उन्होंने टेस्ट और वनडे में भारत की जीत का रिकॉर्ड बनाया है। अंतरराष्ट्रीय क्रिकेट से संन्यास लेने वाले अजिंक्य रहाणे सिर्फ एक शानदार बल्लेबाज ही नहीं, बल्कि भारत के सबसे सफल और शांत कप्तानों में भी शामिल रहे। वह भारतीय कप्तान, जिसकी कप्तानी में टेस्ट-ODI में कभी नहीं हारा भारत, रहे सबसे शांत नायक।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "जापान ने होर्मुज को कहा अलविदा, कच्चे तेल के लिए खोजा नया ठिकाना, सऊदी-कतर की जरूरत खत्म!",
       "url": "https://hindi.news18.com/world/rest-of-world-japan-imports-canadian-crude-oil-after-hormuz-crisis-tmx-pipeline-iran-war-10702485.html",
       "source": "News18 Hindi (World)",
@@ -627,24 +645,6 @@
         "hi": {
           "title": "जापान ने होर्मुज को कहा अलविदा, कच्चे तेल के लिए खोजा नया ठिकाना, सऊदी-कतर की जरूरत खत्म!",
           "summary": "जापान ने होर्मुज जलडमरूमध्य से तेल आपूर्ति पर खतरे के बीच कनाडा से कच्चे तेल की खेप मंगाई है। 7.5 लाख बैरल तक तेल लादा गया है। जापान की सबसे बड़ी रिफाइनिंग कंपनी Eneos ने यह खेप खरीदी है। Iran Oil Crisis Hormuz: पश्चिम एशिया में बढ़ते तनाव और होर्मुज जलडमरूमध्य से तेल आपूर्ति पर खतरे के बीच जापान ने पहली बार 2025 के बाद कनाडा से कच्चे तेल की खेप मंगाई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सऊदी ने पाकिस्तान को दिया वफादारी का गिफ्ट, 5 अरब डॉलर का कर्ज तीसरी बार रोलओवर",
-      "url": "https://hindi.news18.com/world/pakistan-saudi-arabia-rollover-5-billion-dollar-deposit-pakistan-third-time-saudi-pakistan-relations-iran-war-10702146.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-30T06:25:35+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/saudi-arabia-4-2026-07-f083d9176be927475065f4aed25335b3-1200x800.jpg",
-      "summary": "सऊदी अरब ने पाकिस्तान को 5 अरब डॉलर का कर्ज तीसरी बार रोलओवर किया है. पाकिस्तान के वित्त मंत्री ने इसकी पुष्टि की. यह फैसला पाकिस्तान पर विदेशी कर्ज चुकाने का दबाव कम करने में मदद करेगा. सऊदी अरब के कर्ज का पाकिस्तानी केंद्रीय बैंक में 8 अरब डॉलर हैं। सऊदी अरब ने पाकिस्तान के पास जमा 5 अरब डॉलर को तीन साल के लिए फिर से रोलओवर कर दिया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी ने पाकिस्तान को दिया वफादारी का गिफ्ट, 5 अरब डॉलर का कर्ज तीसरी बार रोलओवर",
-          "summary": "सऊदी अरब ने पाकिस्तान को 5 अरब डॉलर का कर्ज तीसरी बार रोलओवर किया है. पाकिस्तान के वित्त मंत्री ने इसकी पुष्टि की. यह फैसला पाकिस्तान पर विदेशी कर्ज चुकाने का दबाव कम करने में मदद करेगा. सऊदी अरब के कर्ज का पाकिस्तानी केंद्रीय बैंक में 8 अरब डॉलर हैं। सऊदी अरब ने पाकिस्तान के पास जमा 5 अरब डॉलर को तीन साल के लिए फिर से रोलओवर कर दिया है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -740,20 +740,20 @@
       }
     },
     {
-      "title": "कैटी पेरी को सनस्क्रीन लगाते दिखे कनाडा के Ex PM जस्टिन ट्रूडो, रोमांटिक तस्वीरों ने मचाई हलचल",
-      "url": "https://hindi.news18.com/world/rest-of-world-justin-trudeau-spotted-applying-sunscreen-down-girlfriend-katy-perry-top-romantic-photos-cause-stir-photogallery-10702165.html",
-      "source": "News18 Hindi (World)",
+      "title": "‘पाकिस्तानी कश्मीर’ लिखने पर भड़का भारत, अमेरिकी अखबार NYT को लगाई कड़ी फटकार, कहा- यह भ्रामक और",
+      "url": "https://www.patrika.com/world-news/india-objects-nyt-headline-pakistani-kashmir-pok-controversy-20789578",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-30T05:19:25+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Justin-Trudeau-main-2026-07-4baa9a4258eff427aefd0f5b5898f25b-1200x800.jpg",
-      "summary": "कनाडा के पूर्व प्रधानमंत्री जस्टिन ट्रूडो और अमेरिकी पॉप स्टार केटी पेरी की रोमांटिक तस्वीरें सामने आई हैं. दोनों एक लग्जरी यॉट पर छुट्टियों का आनंद लेते हुए दिखे हैं. इन तस्वीरों में दोनों एक-दूसरे के बेहद करीब नजर आ रहे हैं. Justin Trudeau-Katy Perry: कनाडा के पूर्व प्रधानमंत्री जस्टिन ट्रूडो और अमेरिकी पॉप स्टार केटी पेरी इन दिनों अपने रिश्ते को लेकर फिर सुर्खियों में हैं.",
-      "region": "Europe & Russia",
+      "published_at": "2026-07-30T05:03:03+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/photo_6294093088904909054_w-1.webp",
+      "summary": "India objects NYT Headline: अमेरिका में भारतीय दूतावास ने प्रसिद्ध अमेरिकी अखबार ‘द न्यूयॉर्क टाइम्स’ (NYT) की एक रिपोर्ट पर कड़ी आपत्ति जताई है। अखबार ने पाकिस्तान के कब्जे वाले कश्मीर (PoK) में चल रहे हिंसक विरोध प्रदर्शनों को लेकर एक खबर छापी थी, जिसकी हेडलाइन में PoK को “पाकिस्तानी कश्मीर” लिखा गया था।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कैटी पेरी को सनस्क्रीन लगाते दिखे कनाडा के Ex PM जस्टिन ट्रूडो, रोमांटिक तस्वीरों ने मचाई हलचल",
-          "summary": "कनाडा के पूर्व प्रधानमंत्री जस्टिन ट्रूडो और अमेरिकी पॉप स्टार केटी पेरी की रोमांटिक तस्वीरें सामने आई हैं. दोनों एक लग्जरी यॉट पर छुट्टियों का आनंद लेते हुए दिखे हैं. इन तस्वीरों में दोनों एक-दूसरे के बेहद करीब नजर आ रहे हैं. Justin Trudeau-Katy Perry: कनाडा के पूर्व प्रधानमंत्री जस्टिन ट्रूडो और अमेरिकी पॉप स्टार केटी पेरी इन दिनों अपने रिश्ते को लेकर फिर सुर्खियों में हैं.",
-          "region": "यूरोप और रूस"
+          "title": "‘पाकिस्तानी कश्मीर’ लिखने पर भड़का भारत, अमेरिकी अखबार NYT को लगाई कड़ी फटकार, कहा- यह भ्रामक और",
+          "summary": "India objects NYT Headline: अमेरिका में भारतीय दूतावास ने प्रसिद्ध अमेरिकी अखबार ‘द न्यूयॉर्क टाइम्स’ (NYT) की एक रिपोर्ट पर कड़ी आपत्ति जताई है। अखबार ने पाकिस्तान के कब्जे वाले कश्मीर (PoK) में चल रहे हिंसक विरोध प्रदर्शनों को लेकर एक खबर छापी थी, जिसकी हेडलाइन में PoK को “पाकिस्तानी कश्मीर” लिखा गया था।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
