@@ -1,21 +1,45 @@
 {
-  "generated_at": "2026-07-30T07:54:07.711168+00:00",
+  "generated_at": "2026-07-30T09:00:11.883088+00:00",
   "article_count": 50,
-  "total_unique_count": 281,
+  "total_unique_count": 280,
   "digest": {
-    "en": "The U.S. military is launching new strikes on Iran, while Taiwan's path to victory remains unclear. In contrast, Asia's central banks are quietly writing the rules for AI finance, a development that could have far-reaching implications for global economic stability. Meanwhile, the humanitarian crisis in the DR Congo deepens as hunger hampers the Ebola response.",
-    "hi": "ईरान पर अमेरिकी हमले में एक कपल और उसके बेटे की मौत, कुवैत में चीनी कंपनी के ऑफिस पर अटैक। अमेरिकी हमले के बाद ईरान में तनाव बढ़ गया है, जहां एक कपल और उसके बेटे की मौत हो गई है। कुवैत में चीनी कंपनी के ऑफिस पर अटैक की खबरें भी आई हैं।"
+    "en": "Russia pounds Ukraine with missiles, killing at least eight, including children, in a wave of attacks that also target online retailers and gas stations in Ukraine's newest battlefields. Meanwhile, the US military launches new strikes on Iran, escalating a long-standing conflict. Asian central banks are quietly drafting rules for AI finance.",
+    "hi": "ईरान पर अमेरिकी हमले में एक कपल और उसके बेटे की मौत हो गई है। कुवैत में चीनी कंपनी के ऑफिस पर अटैक किया गया है। ईरान युद्ध में बचे हैं सिर्फ 3 रास्ते, किधर जाएंगे डोनाल्ड ट्रंप?"
   },
   "articles": [
+    {
+      "title": "Russia Pounds Ukraine With Missiles, Killing At Least Eight, Including Children",
+      "url": "https://www.rferl.org/a/russia-missile-deadly-strike-ukraine/33818229.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-30T08:46:18+00:00",
+      "image_url": "https://gdb.rferl.org/42bb1ee8-b562-4a79-9ee5-caaecdc6a120_cx0_cy8_cw0_w1200_h630.jpg",
+      "summary": "A barrage of Russian missile and drone strikes pummeled Ukraine overnight, killing at least eight people and injuring dozens of others as President Zelenskyy returned from the United States, where he said President Trump had agreed to provide Ukraine with licenses for Patriot missiles. Russia Pounds Ukraine With Missiles, Killing At Least Eight, Including Children.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "U.S. military launches new strikes on Iran",
       "url": "https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-07-30T06:46:37+00:00",
+      "published_at": "2026-07-30T08:32:37+00:00",
       "image_url": "https://th-i.thgim.com/public/hindi/editorial/gr75np/article71284169.ece/alternates/LANDSCAPE_1200/HN_-DdmWAAAIY21.jpg",
       "summary": "U. S. President Donald Trump vowed to hit back hard at Iran after it attacked U. bases in Jordan on Wednesday, July 30, as the war in West Asia reignited and again drew in Iran's proxies military launches new strikes on Iran. U. S.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why is the founder of Telegram on Russia’s wanted list",
+      "url": "https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-30T08:10:34+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG",
+      "summary": "The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia. Why is the founder of Telegram on Russia’s wanted list.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -28,18 +52,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/ncp0mr/article71284389.ece/alternates/LANDSCAPE_1200/2026-07-30T025432Z_1269635469_RC2ZNMAYS0N1_RTRMADP_3_JAPAN-QUAKE.JPG",
       "summary": "The government issued the new tally as Kumamoto officials said they have now extracted four bodies from the mass of rubble, steel and wires of the Aeon shopping mall after a suspected gas blast following the quake Japan quake toll hits 28 as survivors struggle in heat.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Why is the founder of Telegram on Russia’s wanted list",
-      "url": "https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-07-30T03:59:34+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG",
-      "summary": "The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia. Why is the founder of Telegram on Russia’s wanted list.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -296,23 +308,47 @@
       "translations": {}
     },
     {
-      "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
-      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
-      "source": "The Guardian",
+      "title": "'मुझे मार दो, मालामाल कर दूंगी तुम्हें', लड़की ने दी खुद की ही सुपारी, सनकी आदमी ने तड़पा-तड़पाकर",
+      "url": "https://hindi.news18.com/world/america-woman-travelled-from-england-to-us-paid-man-online-to-torture-and-kill-her-crime-story-ws-l-10702702.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-27T16:27:44+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/924e4efcc644c3ea190cbf7970f8a29370732191/0_5_2048_1638/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3822a400f25bff3b9fe409527fe6288",
-      "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in ChileMore than 50 years after the murder of the Chilean folk singer Víctor Jara, the last man wanted in connection with his death has been tracked down and brought to justice.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-30T08:47:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/britain-news-2026-07-74574778c66f3d029e55aa08fd153fa3-1200x800.jpg",
+      "summary": "Women Paid Woman for Torture: आजकल की दुनिया में क्या-क्या होता है, वो आप सोच भी नहीं सकते. कुछ ऐसा ही हुआ ब्रिटेन की एक महिला के साथ, जिसने शायद मजे-मजे में अपने नाम की सुपारी दे दी. इस गलती का जो परिणाम हुआ, उसे सुनकर आप दहल जाएंगे. 'मुझे मार दो, मालामाल कर दूंगी तुम्हें', लड़की ने दी खुद की ही सुपारी, सनकी आदमी ने तड़पा-तड़पाकर।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मुझे मार दो, मालामाल कर दूंगी तुम्हें', लड़की ने दी खुद की ही सुपारी, सनकी आदमी ने तड़पा-तड़पाकर",
+          "summary": "Women Paid Woman for Torture: आजकल की दुनिया में क्या-क्या होता है, वो आप सोच भी नहीं सकते. कुछ ऐसा ही हुआ ब्रिटेन की एक महिला के साथ, जिसने शायद मजे-मजे में अपने नाम की सुपारी दे दी. इस गलती का जो परिणाम हुआ, उसे सुनकर आप दहल जाएंगे. 'मुझे मार दो, मालामाल कर दूंगी तुम्हें', लड़की ने दी खुद की ही सुपारी, सनकी आदमी ने तड़पा-तड़पाकर।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "PoK जा रहे पूर्व पाकिस्तानी सांसद 'गायब'! पुलिस पर बीच रास्ते से उठाने का आरोप",
+      "url": "https://hindi.news18.com/world/pakistan-former-senator-mushtaq-ahmad-khan-missing-pok-punjab-police-prm-allegations-pakistan-news-10702826.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T08:31:45+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-news-24-2026-07-32d1921267b3a8cef7c21839a8dcdb32-1200x800.jpg",
+      "summary": "Pakistan News POK Protest: पाकिस्तान के पूर्व सांसद और मानवाधिकार कार्यकर्ता मुश्ताक अहमद खान को लेकर बड़ा विवाद खड़ा हो गया है. पाकिस्तान राइट मूवमेंट (PRM) ने आरोप लगाया है कि 28 जुलाई को पंजाब पुलिस ने उन्हें PoK से लौटते समय बिना वारंट, बिना किसी आरोप और बिना कानूनी जानकारी दिए हिरासत में ले लिया. इतना ही नहीं वह उन्हें लेकर अज्ञात स्थान पर लेकर चले गए.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PoK जा रहे पूर्व पाकिस्तानी सांसद 'गायब'! पुलिस पर बीच रास्ते से उठाने का आरोप",
+          "summary": "Pakistan News POK Protest: पाकिस्तान के पूर्व सांसद और मानवाधिकार कार्यकर्ता मुश्ताक अहमद खान को लेकर बड़ा विवाद खड़ा हो गया है. पाकिस्तान राइट मूवमेंट (PRM) ने आरोप लगाया है कि 28 जुलाई को पंजाब पुलिस ने उन्हें PoK से लौटते समय बिना वारंट, बिना किसी आरोप और बिना कानूनी जानकारी दिए हिरासत में ले लिया. इतना ही नहीं वह उन्हें लेकर अज्ञात स्थान पर लेकर चले गए.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "ईरान पर अमेरिकी हमले में एक कपल और उसके बेटे की मौत, कुवैत में चीनी कंपनी के ऑफिस पर अटैक",
       "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-updates-donald-trump-army-attack-on-iran-centcom-irgc-livenews-10701654.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-30T07:47:02+00:00",
+      "published_at": "2026-07-30T08:15:38+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/iran-news-25-2026-07-bebfd19ff197fda44e9bbb22b9dfd344-1200x800.jpg",
       "summary": "US Ka Iran Par Hamla Live Updates: अमेरिका ने पांच दिन के विराम के बाद ईरान से जुड़े टार्गेट्स पर फिर सैन्य कार्रवाई शुरू कर दी है. राष्ट्रपति डोनाल्ड ट्रंप ने कहा, 'अब हमारी बारी है.' अमेरिका का हमला जॉर्डन में अमेरिकी सैन्य अड्डे पर हुए ईरानी मिसाइल अटैक के जवाब में की गई. दूसरी ओर, ईरानी मीडिया ने दावा किया है कि इराक में अमेरिकी-सऊदी हमलों में IRGC के चार सदस्य मारे गए हैं.",
       "region": "Middle East & Africa",
@@ -326,56 +362,20 @@
       }
     },
     {
-      "title": "10वीं-12वीं की कंपार्टमेंट परीक्षा सात अगस्त से, एग्जाम से पहले पढ़ लें जरूरी गाइडलाइंस",
-      "url": "https://www.amarujala.com/education/jac-compartment-exam-2026-jharkhand-board-releases-class-10-12-supplementary-exam-timetable-2026-07-30",
-      "source": "Amar Ujala National",
+      "title": "बढ़ती जनसंख्या पर पाकिस्तान चिंतित, नहीं संभले तो 2040 तक 40 करोड़ पहुंच सकती है आबादी",
+      "url": "https://www.patrika.com/world-news/pakistan-population-may-reach-40-crore-by-2040-family-planning-warning-20790266",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-30T07:28:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/16/jac-na-jara-kaya-sapalmatara-parakashha-ka-para-shadayal_ae3a87131923447a1e6093da67a2fdd8.jpeg?w=1200&dpr=1.0",
-      "summary": "JAC Compartment Exam 2026 Date: झारखंड एकेडमिक काउंसिल ने कक्षा 10वीं और 12वीं की कंपार्टमेंट एवं इंप्रूवमेंट परीक्षा 2026 का टाइमटेबल जारी कर दिया है। परीक्षा में शामिल होने वाले छात्र आधिकारिक वेबसाइट पर जाकर विस्तृत शेड्यूल देख सकते हैं। 10वीं-12वीं की कंपार्टमेंट परीक्षा सात अगस्त से, एग्जाम से पहले पढ़ लें जरूरी गाइडलाइंस।",
-      "region": "World",
+      "published_at": "2026-07-30T08:14:05+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/04/Shehbaz-Sharif-.webp",
+      "summary": "Pakistan population 2040: पाकिस्तान में तेजी से बढ़ रही जनसंख्या सरकार के लिए चिंता का विषय बन गई है। पाकिस्तान सरकार में स्वास्थ्य मंत्री डॉ. मुख्तार अहमद भरथ ने इसको लेकर कड़ी चेतावनी दी है। उन्होंने कहा है कि यदि मौजूदा रफ्तार इसी तरह जारी रही तो वर्ष 2040 तक देश की आबादी 40 करोड़ तक पहुंच सकती है।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "10वीं-12वीं की कंपार्टमेंट परीक्षा सात अगस्त से, एग्जाम से पहले पढ़ लें जरूरी गाइडलाइंस",
-          "summary": "JAC Compartment Exam 2026 Date: झारखंड एकेडमिक काउंसिल ने कक्षा 10वीं और 12वीं की कंपार्टमेंट एवं इंप्रूवमेंट परीक्षा 2026 का टाइमटेबल जारी कर दिया है। परीक्षा में शामिल होने वाले छात्र आधिकारिक वेबसाइट पर जाकर विस्तृत शेड्यूल देख सकते हैं। 10वीं-12वीं की कंपार्टमेंट परीक्षा सात अगस्त से, एग्जाम से पहले पढ़ लें जरूरी गाइडलाइंस।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जानिए उम्र के अनुसार कितना होना चाहिए आपका Screen Time?",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/how-much-screen-time-is-healthy-according-to-age-in-hindi-2026-07-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-30T07:28:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/screen-time-mobile_26c0a8e4bc5a842e5ec3b0b6d5bccc2e.jpeg?w=1200&dpr=1.0",
-      "summary": "How Much Screen Time is Healthy: अगर आप नहीं चाहते कि मोबाइल की वजह से आपका स्वास्थ्य खराब हो तो इस लेख को अवश्य पढ़ें। यहां हम बताएंगे कि उम्र के हिसाब से आपका स्क्रीन टाइम कितना होना चाहिए। जानिए उम्र के अनुसार कितना होना चाहिए आपका Screen Time?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जानिए उम्र के अनुसार कितना होना चाहिए आपका Screen Time?",
-          "summary": "How Much Screen Time is Healthy: अगर आप नहीं चाहते कि मोबाइल की वजह से आपका स्वास्थ्य खराब हो तो इस लेख को अवश्य पढ़ें। यहां हम बताएंगे कि उम्र के हिसाब से आपका स्क्रीन टाइम कितना होना चाहिए। जानिए उम्र के अनुसार कितना होना चाहिए आपका Screen Time?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "स्टंट तो कई लोगों ने किए लेकिन इस शख्स ने छोड़ दिया सबको पीछे, वीडियो देख रह जाएंगे दंग",
-      "url": "https://www.amarujala.com/bizarre-news/stunt-viral-video-many-people-pulled-off-stunts-but-this-man-unique-stunts-video-goes-viral-2026-07-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-07-30T07:27:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/shakhasa-ka-anakha-satata-ka-vadaya-vayaral_a1f14b089de52b1e020fc08decfc4d15.jpeg?w=1200&dpr=1.0",
-      "summary": "स्टंट तो कई लोगों ने किए लेकिन इस शख्स ने छोड़ दिया सबको पीछे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्टंट तो कई लोगों ने किए लेकिन इस शख्स ने छोड़ दिया सबको पीछे, वीडियो देख रह जाएंगे दंग",
-          "summary": "स्टंट तो कई लोगों ने किए लेकिन इस शख्स ने छोड़ दिया सबको पीछे।",
-          "region": "दुनिया"
+          "title": "बढ़ती जनसंख्या पर पाकिस्तान चिंतित, नहीं संभले तो 2040 तक 40 करोड़ पहुंच सकती है आबादी",
+          "summary": "Pakistan population 2040: पाकिस्तान में तेजी से बढ़ रही जनसंख्या सरकार के लिए चिंता का विषय बन गई है। पाकिस्तान सरकार में स्वास्थ्य मंत्री डॉ. मुख्तार अहमद भरथ ने इसको लेकर कड़ी चेतावनी दी है। उन्होंने कहा है कि यदि मौजूदा रफ्तार इसी तरह जारी रही तो वर्ष 2040 तक देश की आबादी 40 करोड़ तक पहुंच सकती है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -394,6 +394,24 @@
           "title": "ईरान युद्ध में बचे हैं सिर्फ 3 रास्ते, किधर जाएंगे डोनाल्ड ट्रंप? बंद कमरे में नेतन्याहू ने क्या",
           "summary": "डोनाल्ड ट्रंप ईरान संकट से निपटने के लिए तीन विकल्पों पर विचार कर रहे हैं। नेतन्याहू के साथ बंद कमरे में हुई बातचीत में यह तीन रास्ते सामने आए। ट्रंप इन विकल्पों को ध्यान से देख रहे हैं। Iran-US War Update: ईरान-अमेरिका युद्ध का दूसरा दौर भी फिलहाल थमा हुआ है. इस बीच डोनाल्ड ट्रंप ये भी सोच रहे हैं कि आखिर इस परिस्थिति से निकलने के विकल्प क्या हो सकते हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/ramayana-trailer-ranbir-kapoor-in-double-role-to-rakul-preet-arun-govil-and-other-actors-characters-reveal-2026-07-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-30T07:20:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/ramayanae-ka-taralra-ma-najara-aae-caracata-kalkara_6018021106475d00f89c03a1c0b8d568.jpeg?w=1200&dpr=1.0",
+      "summary": "आज रणबीर कपूर स्टारर फिल्म ‘रामायण’ का ट्रेलर रिलीज हुआ। फैंस ट्रेलर देखकर फिल्म देखने के लिए उत्साहित हो गए हैं। इस ट्रेलर में अरुण गोविल से लेकर रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए। डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक",
+          "summary": "आज रणबीर कपूर स्टारर फिल्म ‘रामायण’ का ट्रेलर रिलीज हुआ। फैंस ट्रेलर देखकर फिल्म देखने के लिए उत्साहित हो गए हैं। इस ट्रेलर में अरुण गोविल से लेकर रकुल प्रीत, विवेक ओबेरॉय जैसे कई कलाकार नजर आए। डबल रोल में दिखे रणबीर, ‘रामायण’ के ट्रेलर में मिली रकुलप्रीत से लेकर अरुण गोविल तक की झलक।",
+          "region": "दुनिया"
         }
       }
     },
@@ -434,6 +452,42 @@
       }
     },
     {
+      "title": "मौत के 17 घंटे बाद जिंदा हुई महिला, अंतिम संस्कार से पहले लौटी सांस; दामाद का पकड़ लिया हाथ",
+      "url": "https://www.amarujala.com/uttar-pradesh/agra/up-woman-reportedly-shows-signs-of-life-40-hours-after-death-rushed-to-hospital-before-last-rites-2026-07-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-30T07:07:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/mata-ka-17-ghata-btha-jatha-haii-mahal_e211019aa84de601eaaf93f40dad7efd.jpeg?w=1200&dpr=1.0",
+      "summary": "आगरा के एत्माद्दौला क्षेत्र में 65 वर्षीय महिला के शरीर में अंतिम संस्कार से पहले हलचल होने का परिजनों ने दावा किया। इसके बाद उन्हें तत्काल निजी अस्पताल ले जाया गया। मौत के 17 घंटे बाद जिंदा हुई महिला, अंतिम संस्कार से पहले लौटी सांस; दामाद का पकड़ लिया हाथ।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मौत के 17 घंटे बाद जिंदा हुई महिला, अंतिम संस्कार से पहले लौटी सांस; दामाद का पकड़ लिया हाथ",
+          "summary": "आगरा के एत्माद्दौला क्षेत्र में 65 वर्षीय महिला के शरीर में अंतिम संस्कार से पहले हलचल होने का परिजनों ने दावा किया। इसके बाद उन्हें तत्काल निजी अस्पताल ले जाया गया। मौत के 17 घंटे बाद जिंदा हुई महिला, अंतिम संस्कार से पहले लौटी सांस; दामाद का पकड़ लिया हाथ।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "Google Pay में आया Gemini AI का सपोर्ट: अब एप रखेगा आपके खर्च का हिसाब; SIP, टैक्स और सेविंग्स पर",
+      "url": "https://www.amarujala.com/technology/tech-diary/google-pay-gemini-ai-ask-google-pay-feature-sip-tax-analysis-2026-07-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-30T07:01:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/20/google-pay_095a1bca87cd17b346dba02149f01ed5.jpeg?w=1200&dpr=1.0",
+      "summary": "गूगल ने अपने पेमेंट एप Google Pay में नया Gemini AI फीचर लॉन्च किया है। यह टूल आपके खर्चों का सटीक हिसाब रखेगा और एसआईपी या टैक्स जैसे मुश्किल सवालों के जवाब भी देगा। गूगल पे अब आपके खर्च का हिसाब रखेगा और सेविंग्स पर सलाह देगा। Google Pay में आया Gemini AI का सपोर्ट: अब एप रखेगा आपके खर्च का हिसाब; SIP, टैक्स और सेविंग्स पर।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Google Pay में आया Gemini AI का सपोर्ट: अब एप रखेगा आपके खर्च का हिसाब; SIP, टैक्स और सेविंग्स पर",
+          "summary": "गूगल ने अपने पेमेंट एप Google Pay में नया Gemini AI फीचर लॉन्च किया है। यह टूल आपके खर्चों का सटीक हिसाब रखेगा और एसआईपी या टैक्स जैसे मुश्किल सवालों के जवाब भी देगा। गूगल पे अब आपके खर्च का हिसाब रखेगा और सेविंग्स पर सलाह देगा। Google Pay में आया Gemini AI का सपोर्ट: अब एप रखेगा आपके खर्च का हिसाब; SIP, टैक्स और सेविंग्स पर।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "जापान ने होर्मुज को कहा अलविदा, कच्चे तेल के लिए खोजा नया ठिकाना, सऊदी-कतर की जरूरत खत्म!",
       "url": "https://hindi.news18.com/world/rest-of-world-japan-imports-canadian-crude-oil-after-hormuz-crisis-tmx-pipeline-iran-war-10702485.html",
       "source": "News18 Hindi (World)",
@@ -452,38 +506,38 @@
       }
     },
     {
-      "title": "सीएम योगी का अफजाल पर निशाना: बोले- जहां का सांसद अवैध लाइसेंस बनवाने में व्यस्त, वहां के भगवान ही",
-      "url": "https://www.amarujala.com/uttar-pradesh/varanasi/cm-yogi-targets-afzal-god-save-constituency-where-mp-busy-getting-illegal-licenses-made-in-ghazipur-2026-07-30",
+      "title": "दिल्ली भाजपा का AAP कार्यालय पर प्रदर्शन, बैरिकेड पर चढ़ें हर्ष मल्होत्रा; पुलिस से हुई झड़प",
+      "url": "https://www.amarujala.com/delhi-ncr/punjab-paper-leak-possibility-of-protest-by-bjp-workers-outside-aap-office-today-update-2026-07-30",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-07-30T06:38:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/gajapara-ma-saema-yaga_19acb22f02d4d7c3cbe3738c22d6c129.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने अवैध लाइसेंस बनवाने में व्यस्त सांसद अफजाल को निशाना बनाया है। उन्होंने कहा है कि जहां का सांसद अवैध लाइसेंस बनवाने में व्यस्त है, वहां के भगवान हैं। माफिया किसी के नहीं होते, ये समाज का खून चूसते हैं। ये कब्र में जाकर फातिया पढ़ने वाले लोग हैं। सीएम योगी का अफजाल पर निशाना: बोले- जहां का सांसद अवैध लाइसेंस बनवाने में व्यस्त, वहां के भगवान ही।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीएम योगी का अफजाल पर निशाना: बोले- जहां का सांसद अवैध लाइसेंस बनवाने में व्यस्त, वहां के भगवान ही",
-          "summary": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने अवैध लाइसेंस बनवाने में व्यस्त सांसद अफजाल को निशाना बनाया है। उन्होंने कहा है कि जहां का सांसद अवैध लाइसेंस बनवाने में व्यस्त है, वहां के भगवान हैं। माफिया किसी के नहीं होते, ये समाज का खून चूसते हैं। ये कब्र में जाकर फातिया पढ़ने वाले लोग हैं। सीएम योगी का अफजाल पर निशाना: बोले- जहां का सांसद अवैध लाइसेंस बनवाने में व्यस्त, वहां के भगवान ही।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'कीड़े मिलने पर होटल बंद करना गलत': बॉम्बे हाईकोर्ट ने FDA का आदेश किया रद्द, क्यों कहा- हम भारत",
-      "url": "https://www.amarujala.com/india-news/shutting-down-hotel-upon-finding-insects-wrong-bombay-high-court-quashes-fda-order-why-it-are-we-in-india-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-30T06:31:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/bmab-haii-karata_42e39c0fa655ec9ab064d0702c08c890.jpeg?w=1200&dpr=1.0",
-      "summary": "Shutting down hotel upon finding insects wrong Bombay High Court quashes FDA order why it Are we in India? 'कीड़े मिलने पर होटल बंद करना गलत': बॉम्बे हाईकोर्ट ने FDA का आदेश किया रद्द, क्यों कहा- हम भारत में हैं?",
+      "published_at": "2026-07-30T06:56:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/bhajapa-ka-aapa-karayalya-para-paratharashana_102e1d6aee4cea41dbe0db9d6c79517a.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में भाजपा कार्यकर्ताओं ने आप दफ्तर के बाहर प्रदर्शन किया। हर्ष मल्होत्रा बैरिकेड पर चढ़ गए और पुलिस से झड़प हुई। प्रदर्शन पंजाब में कथित पेपर लीक मामले को लेकर किया गया था। दिल्ली भाजपा का AAP कार्यालय पर प्रदर्शन, बैरिकेड पर चढ़ें हर्ष मल्होत्रा; पुलिस से हुई झड़प।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'कीड़े मिलने पर होटल बंद करना गलत': बॉम्बे हाईकोर्ट ने FDA का आदेश किया रद्द, क्यों कहा- हम भारत",
-          "summary": "Shutting down hotel upon finding insects wrong Bombay High Court quashes FDA order why it Are we in India? 'कीड़े मिलने पर होटल बंद करना गलत': बॉम्बे हाईकोर्ट ने FDA का आदेश किया रद्द, क्यों कहा- हम भारत में हैं?",
+          "title": "दिल्ली भाजपा का AAP कार्यालय पर प्रदर्शन, बैरिकेड पर चढ़ें हर्ष मल्होत्रा; पुलिस से हुई झड़प",
+          "summary": "दिल्ली में भाजपा कार्यकर्ताओं ने आप दफ्तर के बाहर प्रदर्शन किया। हर्ष मल्होत्रा बैरिकेड पर चढ़ गए और पुलिस से झड़प हुई। प्रदर्शन पंजाब में कथित पेपर लीक मामले को लेकर किया गया था। दिल्ली भाजपा का AAP कार्यालय पर प्रदर्शन, बैरिकेड पर चढ़ें हर्ष मल्होत्रा; पुलिस से हुई झड़प।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "खेत पर गए थे माता-पिता, खेलते-खेलते कुएं तक पहुंचे मासूम भाई-बहन; पानी में डूबने से दोनों की मौत",
+      "url": "https://www.amarujala.com/madhya-pradesh/shahdol/parents-had-gone-to-the-fields-young-siblings-wandered-to-a-well-while-playing-and-drowned-shahdol-news-c-1-1-noi1220-4557207-2026-07-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-07-30T06:49:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2026/07/30/ghatana-sathal-para-majatha-kaaa_7d2e1d01a9f6642fd345200751bca475.jpeg?w=1200&dpr=1.0",
+      "summary": "शहडोल जिले के गोहपारू थाना क्षेत्र के खोहरी गांव में एक दर्दनाक हादसा हुआ। परिवार के सदस्य खेत में धान की रोपाई करने गए थे, जबकि दो बच्चे खेलते-खेलते घर के बाड़ी स्थित कुएं तक पहुंच गए। कुएं में डूबने से दोनों बच्चों की मौत हो गई। शहडोल जिले के गोहपारू थाना क्षेत्र के खोहरी गांव में दर्दनाक हादसे में चचेरे भाई-बहन की कुएं में डूबने से मौत हो गई।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खेत पर गए थे माता-पिता, खेलते-खेलते कुएं तक पहुंचे मासूम भाई-बहन; पानी में डूबने से दोनों की मौत",
+          "summary": "शहडोल जिले के गोहपारू थाना क्षेत्र के खोहरी गांव में एक दर्दनाक हादसा हुआ। परिवार के सदस्य खेत में धान की रोपाई करने गए थे, जबकि दो बच्चे खेलते-खेलते घर के बाड़ी स्थित कुएं तक पहुंच गए। कुएं में डूबने से दोनों बच्चों की मौत हो गई। शहडोल जिले के गोहपारू थाना क्षेत्र के खोहरी गांव में दर्दनाक हादसे में चचेरे भाई-बहन की कुएं में डूबने से मौत हो गई।",
+          "region": "दुनिया"
         }
       }
     },
@@ -506,42 +560,6 @@
       }
     },
     {
-      "title": "वांगचुक ने की रेलवे की तारीफ, परीक्षा सुधार से लेकर एंटी पेपर लीक बिल पर क्या बोले?",
-      "url": "https://www.amarujala.com/india-news/sonam-wangchuk-new-video-indian-railways-praise-education-reforms-cjp-agreement-anti-paper-leak-bill-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-30T06:24:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/sonam-wangchuk_25a1ae593cba43ae067d57470319b9c4.jpeg?w=1200&dpr=1.0",
-      "summary": "Sonam Wangchuk Video: वांगचुक ने की रेलवे की तारीफ, परीक्षा सुधार से लेकर एंटी पेपर लीक बिल पर क्या बोले?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वांगचुक ने की रेलवे की तारीफ, परीक्षा सुधार से लेकर एंटी पेपर लीक बिल पर क्या बोले?",
-          "summary": "Sonam Wangchuk Video: वांगचुक ने की रेलवे की तारीफ, परीक्षा सुधार से लेकर एंटी पेपर लीक बिल पर क्या बोले?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दतिया में 11 बजे तक 32.53% हुआ मतदान, भाजपा में निष्कासन का फर्जी लेटर वायरल",
-      "url": "https://www.amarujala.com/live/madhya-pradesh/datia/datia-bypoll-election-2026-live-voting-percentage-bjp-vs-congress-updates-in-hindi-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-30T06:24:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/thataya-ma-matathana_3eba0637655da73d832370f67546b943.jpeg?w=1200&dpr=1.0",
-      "summary": "दतिया में 30 जुलाई को हुए मतदान में सुबह 11 बजे तक 32.53% मतदान हो चुका था। भाजपा में निष्कासन का फर्जी लेटर वायरल हुआ था, जिस पर पुलिस ने कार्रवाई की है। अमर उजाला के लाइव ब्लॉक में आपका स्वागत है। दतिया में 30 जुलाई यानी आज मतदान चल रहा। मतदाताओं में काफी उत्साह देखने को मिल रहा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दतिया में 11 बजे तक 32.53% हुआ मतदान, भाजपा में निष्कासन का फर्जी लेटर वायरल",
-          "summary": "दतिया में 30 जुलाई को हुए मतदान में सुबह 11 बजे तक 32.53% मतदान हो चुका था। भाजपा में निष्कासन का फर्जी लेटर वायरल हुआ था, जिस पर पुलिस ने कार्रवाई की है। अमर उजाला के लाइव ब्लॉक में आपका स्वागत है। दतिया में 30 जुलाई यानी आज मतदान चल रहा। मतदाताओं में काफी उत्साह देखने को मिल रहा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "21वीं सदी का पुष्‍पक विमान, एक बार में नाप डाला 23000 KM, 960 KMPH की तूफानी रफ्तार से भरी हुंकार",
       "url": "https://hindi.news18.com/world/rest-of-world-airbus-a350-1000ulr-aircraft-23075-kilometer-nonstop-longest-flight-960-kmph-speed-made-world-record-photogallery-10702158.html",
       "source": "News18 Hindi (World)",
@@ -555,24 +573,6 @@
         "hi": {
           "title": "21वीं सदी का पुष्‍पक विमान, एक बार में नाप डाला 23000 KM, 960 KMPH की तूफानी रफ्तार से भरी हुंकार",
           "summary": "एयरबस ने एक फ्लाइट में 23000 किमी की दूरी तय करने का रिकॉर्ड बनाया। World Longest Flight: भारतीय धर्मशास्‍त्र में पुष्‍पक विमान का उल्‍लेख मिलता है. इसके अनुसार, ऐसा बताया जाता है कि मन की रफ्तार से चलने वाला यह विमान अनंत दूरियों को तय कर लेता है. विमान निर्माता कंपनी एयरबस ने कुछ ऐसा ही कर दिखाया है. एयरबस ने ऐसा एयरक्राफ्ट डेवलप किया है, जिसने एक फ्लाइट में सबसे लंबी दूरी तय करने का वर्ल्‍ड रिकॉर्ड बना दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारी वाहन हुए डायवर्ट, दो अगस्त से बसों का बदलेगा रूट, इन मार्गों से चलेंगी बसें; चार से वन-वे",
-      "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-bus-route-diversion-heavy-vehicles-diverted-amid-kanwar-yatra-check-details-in-hindi-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-30T06:22:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/meerut-bus-route_33c53596e40fd2a73bdabf80469b7304.jpeg?w=1200&dpr=1.0",
-      "summary": "दो अगस्त से मेरठ से होकर लखनऊ, आगरा समेत विभिन्न शहरों के लिए रोडवेज बसों का रूट बदल जाएगा। बसें अब चार से वन-वे मार्ग पर चलेंगी। अगर आप कांवड़ मेले के दौरान मेरठ से होकर लखनऊ, आगरा समेत विभिन्न शहरों के साथ-साथ दिल्ली, राजस्थान, मध्य प्रदेश, हरियाणा, उत्तराखंड आदि प्रदेशों के लिए रोडवेज बसों में यात्रा करने की तैयारी में हैं तो बसों का रूट प्लान जरूर देख लें।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारी वाहन हुए डायवर्ट, दो अगस्त से बसों का बदलेगा रूट, इन मार्गों से चलेंगी बसें; चार से वन-वे",
-          "summary": "दो अगस्त से मेरठ से होकर लखनऊ, आगरा समेत विभिन्न शहरों के लिए रोडवेज बसों का रूट बदल जाएगा। बसें अब चार से वन-वे मार्ग पर चलेंगी। अगर आप कांवड़ मेले के दौरान मेरठ से होकर लखनऊ, आगरा समेत विभिन्न शहरों के साथ-साथ दिल्ली, राजस्थान, मध्य प्रदेश, हरियाणा, उत्तराखंड आदि प्रदेशों के लिए रोडवेज बसों में यात्रा करने की तैयारी में हैं तो बसों का रूट प्लान जरूर देख लें।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -614,24 +614,6 @@
       }
     },
     {
-      "title": "'देश को हमेशा खुद से ऊपर रखा...', अजिंक्य रहाणे ने भावुक संदेश के साथ लिया संन्यास",
-      "url": "https://www.amarujala.com/cricket/ajinkya-rahane-retirement-i-always-put-my-country-before-myself-emotional-farewell-from-india-star-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-30T06:00:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/cricket-news-cricket-international-ajinkya-rahane-retirement-ajinkya-rahane-news-ajinkya-raha_8fc29bb3ca1adce78d480007bb7f0157.jpeg?w=1200&dpr=1.0",
-      "summary": "अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट से संन्यास का एलान किया। उन्हें भारत के सबसे भरोसेमंद बल्लेबाजों में शुमार किया जाता है। रहाणे ने सभी प्रारूपों से संन्यास लेने का फैसला किया है। भारतीय क्रिकेट के सबसे भरोसेमंद बल्लेबाजों में शुमार अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट और सभी प्रारूपों से संन्यास का एलान कर दिया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'देश को हमेशा खुद से ऊपर रखा...', अजिंक्य रहाणे ने भावुक संदेश के साथ लिया संन्यास",
-          "summary": "अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट से संन्यास का एलान किया। उन्हें भारत के सबसे भरोसेमंद बल्लेबाजों में शुमार किया जाता है। रहाणे ने सभी प्रारूपों से संन्यास लेने का फैसला किया है। भारतीय क्रिकेट के सबसे भरोसेमंद बल्लेबाजों में शुमार अजिंक्य रहाणे ने अंतरराष्ट्रीय क्रिकेट और सभी प्रारूपों से संन्यास का एलान कर दिया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "क्या ईरान की ढाल बनेगा चीन? हथियार सौदे की रिपोर्ट से अमेरिका में हलचल",
       "url": "https://www.patrika.com/world-news/donald-trump-china-iran-weapons-deal-warning-20789733",
       "source": "Patrika (World)",
@@ -668,24 +650,6 @@
       }
     },
     {
-      "title": "अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी",
-      "url": "https://www.amarujala.com/live/world/west-asia-tension-us-iran-war-hormuz-irgc-centcom-trump-airstrikes-missiles-gulf-nations-crude-crisis-news-2026-07-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-30T05:47:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/pashacama-eshaya-ma-tanava_77acac5d547ce2ba3f7ac2db0da3841f.gif?w=1200&dpr=1.0",
-      "summary": "अमेरिका-ईरान टकराव में सऊदी की एंट्री, तनाव बढ़ा, कूटनीति अटकी। अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी",
-          "summary": "अमेरिका-ईरान टकराव में सऊदी की एंट्री, तनाव बढ़ा, कूटनीति अटकी। अमेरिका-ईरान टकराव ने लिया नया मोड़? सऊदी की एंट्री से बढ़ा तनाव; कूटनीति फिर अटकी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "कैटी पेरी को सनस्क्रीन लगाते दिखे कनाडा के Ex PM जस्टिन ट्रूडो, रोमांटिक तस्वीरों ने मचाई हलचल",
       "url": "https://hindi.news18.com/world/rest-of-world-justin-trudeau-spotted-applying-sunscreen-down-girlfriend-katy-perry-top-romantic-photos-cause-stir-photogallery-10702165.html",
       "source": "News18 Hindi (World)",
@@ -704,42 +668,6 @@
       }
     },
     {
-      "title": "खजुराहो एयरपोर्ट बना देश का नंबर-1 एयरपोर्ट, लेकिन दो महीने से नहीं उड़ रही एक भी नियमित फ्लाइट",
-      "url": "https://www.amarujala.com/madhya-pradesh/khajuraho-airport-ranked-india-best-aai-customer-satisfaction-survey-2026-no-commercial-flights-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-30T05:17:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/thasha-ma-nabra-1-ka-taja-nayamata-uugdhana-ka-abhava-para-saval_541b7a2bae0d1563744e5b3e9e3f0b68.jpeg?w=1200&dpr=1.0",
-      "summary": "खजुराहो एयरपोर्ट ने देश के सर्वश्रेष्ठ एयरपोर्ट का खिताब जीता है। लेकिन इसके बावजूद यहां दो महीने से कोई नियमित फ्लाइट नहीं उड़ रही है। यह सवाल उठ रहा है कि क्या यह उपलब्धि वास्तव में इसके प्रयासों का परिणाम है। भारतीय विमानपत्तन प्राधिकरण (AAI) के वर्ष 2026 के राष्ट्रीय सेवा एवं ग्राहक संतुष्टि सूचकांक सर्वे में खजुराहो एयरपोर्ट को देश का सर्वश्रेष्ठ एयरपोर्ट घोषित किया गया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खजुराहो एयरपोर्ट बना देश का नंबर-1 एयरपोर्ट, लेकिन दो महीने से नहीं उड़ रही एक भी नियमित फ्लाइट",
-          "summary": "खजुराहो एयरपोर्ट ने देश के सर्वश्रेष्ठ एयरपोर्ट का खिताब जीता है। लेकिन इसके बावजूद यहां दो महीने से कोई नियमित फ्लाइट नहीं उड़ रही है। यह सवाल उठ रहा है कि क्या यह उपलब्धि वास्तव में इसके प्रयासों का परिणाम है। भारतीय विमानपत्तन प्राधिकरण (AAI) के वर्ष 2026 के राष्ट्रीय सेवा एवं ग्राहक संतुष्टि सूचकांक सर्वे में खजुराहो एयरपोर्ट को देश का सर्वश्रेष्ठ एयरपोर्ट घोषित किया गया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कीर्ति कुल्हारी हुईं साइबर फ्रॉड का शिकार, लाखों की ठगी के बाद पुलिस में दर्ज करवाई शिकायत",
-      "url": "https://www.amarujala.com/entertainment/bollywood/kirti-kulhari-falls-victim-to-cyber-fraud-files-police-complaint-after-loses-more-then-2-lakh-rupees-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-30T05:15:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/karata-kalhara_68ac8d9a928cd370acf579dc7f9d5850.jpeg?w=1200&dpr=1.0",
-      "summary": "कीर्ति कुल्हारी ने साइबर फ्रॉड की शिकायत पुलिस में दर्ज करवाई। ठगी करने वालों ने उनके क्रेडिट कार्ड से लाखों रुपये चुरा लिए। पुलिस ने जांच शुरू कर दी है। बॉलीवुड अभिनेत्री कीर्ति कुल्हारी के साथ साइबर ठगी हुई। फ्रॉड करने वालों ने लाखों रुपये उनके क्रेडिट कार्ड से चुरा लिए। कीर्ति कुल्हारी ने इस मामले को लेकर पुलिस में शिकायत दर्ज करवाई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कीर्ति कुल्हारी हुईं साइबर फ्रॉड का शिकार, लाखों की ठगी के बाद पुलिस में दर्ज करवाई शिकायत",
-          "summary": "कीर्ति कुल्हारी ने साइबर फ्रॉड की शिकायत पुलिस में दर्ज करवाई। ठगी करने वालों ने उनके क्रेडिट कार्ड से लाखों रुपये चुरा लिए। पुलिस ने जांच शुरू कर दी है। बॉलीवुड अभिनेत्री कीर्ति कुल्हारी के साथ साइबर ठगी हुई। फ्रॉड करने वालों ने लाखों रुपये उनके क्रेडिट कार्ड से चुरा लिए। कीर्ति कुल्हारी ने इस मामले को लेकर पुलिस में शिकायत दर्ज करवाई।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "‘पाकिस्तानी कश्मीर’ लिखने पर भड़का भारत, अमेरिकी अखबार NYT को लगाई कड़ी फटकार, कहा- यह भ्रामक और",
       "url": "https://www.patrika.com/world-news/india-objects-nyt-headline-pakistani-kashmir-pok-controversy-20789578",
       "source": "Patrika (World)",
@@ -754,6 +682,78 @@
           "title": "‘पाकिस्तानी कश्मीर’ लिखने पर भड़का भारत, अमेरिकी अखबार NYT को लगाई कड़ी फटकार, कहा- यह भ्रामक और",
           "summary": "भारत ने अमेरिकी अखबार NYT को कड़ी फटकार लगाई है। अखबार ने पाकिस्तान के कब्जे वाले कश्मीर को \"पाकिस्तानी कश्मीर\" लिखा था, जिसे भारत ने भ्रामक और गलत बताया है। भारत ने साफ किया है कि वह क्षेत्र भारत का अभिन्न हिस्सा है। India objects NYT Headline: अमेरिका में भारतीय दूतावास ने प्रसिद्ध अमेरिकी अखबार ‘द न्यूयॉर्क टाइम्स’ (NYT) की एक रिपोर्ट पर कड़ी आपत्ति जताई है।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रूस के बैलिस्टिक मिसाइल हमलों में 7 यूक्रेनी नागरिकों की मौत, पोलैंड हाई अलर्ट पर",
+      "url": "https://www.patrika.com/world-news/russia-ukraine-war-russian-missile-strikes-kyiv-poland-high-alert-20789601",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-30T04:54:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Russian-missile-strikes-in-Ukrainian-cities.webp",
+      "summary": "रूस ने गुरुवार तड़के यूक्रेन की राजधानी कीव समेत कई शहरों पर मिसाइल हमले किए। कम से कम सात यूक्रेनी नागरिकों की मौत हो गई और हमले में कई लोग घायल हुए। यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की अमेरिका दौरे से लौटे हुए थे और कुछ घंटे पहले ही चेतावनी दी थी कि रूस बड़े पैमाने पर हमला करने की तैयारी कर रहा है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस के बैलिस्टिक मिसाइल हमलों में 7 यूक्रेनी नागरिकों की मौत, पोलैंड हाई अलर्ट पर",
+          "summary": "रूस ने गुरुवार तड़के यूक्रेन की राजधानी कीव समेत कई शहरों पर मिसाइल हमले किए। कम से कम सात यूक्रेनी नागरिकों की मौत हो गई और हमले में कई लोग घायल हुए। यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की अमेरिका दौरे से लौटे हुए थे और कुछ घंटे पहले ही चेतावनी दी थी कि रूस बड़े पैमाने पर हमला करने की तैयारी कर रहा है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ईरान को 400 मिसाइल लॉन्चर दे रहा चीन? ट्रंप बोले ‘खबर सच हुई तो बेहद निराशा होगी",
+      "url": "https://www.patrika.com/world-news/trump-surprised-disappointed-china-supplying-400-missile-launchers-iran-20789482",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-30T04:34:10+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-5.webp",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीन द्वारा ईरान को मिसाइल लॉन्चर सप्लाई करने की खबरों पर कड़ा ऐतराज जताया है। उन्होंने कहा है कि यदि बीजिंग ने तेहरान को हथियारों की आपूर्ति की, तो यह उनके लिए बेहद निराशाजनक होगा। ट्रंप का यह बयान आगामी सितंबर में प्रस्तावित चीनी राष्ट्रपति शी जिनपिंग की अमेरिकी यात्रा के समय सामने आया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान को 400 मिसाइल लॉन्चर दे रहा चीन? ट्रंप बोले ‘खबर सच हुई तो बेहद निराशा होगी",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीन द्वारा ईरान को मिसाइल लॉन्चर सप्लाई करने की खबरों पर कड़ा ऐतराज जताया है। उन्होंने कहा है कि यदि बीजिंग ने तेहरान को हथियारों की आपूर्ति की, तो यह उनके लिए बेहद निराशाजनक होगा। ट्रंप का यह बयान आगामी सितंबर में प्रस्तावित चीनी राष्ट्रपति शी जिनपिंग की अमेरिकी यात्रा के समय सामने आया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान को एयर डिफेंस मिसाइल देगा चीन, खबर आते ही अमेरिका ने सिखा दिया सबक, पाकिस्तान भी आया रडार पर",
+      "url": "https://hindi.news18.com/world/china-china-manpads-missile-deal-with-iran-pakistan-route-us-sanctions-xi-jinping-donald-trump-relations-10702051.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T04:30:34+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/china-missile-2026-07-fe4fa28ade279be4d7fd794af9e790f7-1200x800.jpg",
+      "summary": "चीन ने ईरान को एयर डिफेंस मिसाइल देने की खबर आते ही अमेरिका ने सिखाया कि चीन के राष्ट्रपति शी जिनपिंग ने मई में बीजिंग में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को भरोसा दिया था कि चीन ईरान को हथियार नहीं देगा. लेकिन अब रिपोर्टों में दावा किया गया है कि ईरान को जल्द ही चीन निर्मित 300-400 MANPADS मिसाइलें मिल सकती हैं. अमेरिकी प्रतिक्रिया में ईरानी तेल ढोने के आरोप में चीन पर प्रतिबंध लगाने की बात कही गई है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान को एयर डिफेंस मिसाइल देगा चीन, खबर आते ही अमेरिका ने सिखा दिया सबक, पाकिस्तान भी आया रडार पर",
+          "summary": "चीन ने ईरान को एयर डिफेंस मिसाइल देने की खबर आते ही अमेरिका ने सिखाया कि चीन के राष्ट्रपति शी जिनपिंग ने मई में बीजिंग में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को भरोसा दिया था कि चीन ईरान को हथियार नहीं देगा. लेकिन अब रिपोर्टों में दावा किया गया है कि ईरान को जल्द ही चीन निर्मित 300-400 MANPADS मिसाइलें मिल सकती हैं. अमेरिकी प्रतिक्रिया में ईरानी तेल ढोने के आरोप में चीन पर प्रतिबंध लगाने की बात कही गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान की चेकपोस्ट पर चरमपंथियों ने बोला धावा, DSP समेत 7 पुलिसकर्मियों को मारा, 22 जख्मी",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-checkpost-in-khyber-pakhtunkhwa-attacked-7-killed-including-dsp-ws-l-10701998.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-30T03:52:32+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pak-kpk-2026-07-07ba36b52085bffaffaa04b7e1920221-1200x800.jpg",
+      "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में चरमपंथियों ने एक चेकपोस्ट पर हमला किया, जिसमें डिप्टी सुपरिंटेंडेंट ऑफ पुलिस सहित 7 पुलिसकर्मियों की मौत हो गई और 22 घायल हुए। हमले में चरमपंथी पुलिस चेकपोस्ट पर धावा बोले और गोलीबारी की। Pakistan Militant Attack: पाकिस्तान के अशांत प्रांत खैबर पख्तूनख्वा में एक बार फिर से चरमपंथियों ने चेकपोस्ट पर हमला करके 7 पुलिसकर्मियों को मौत के घाट उतार दिया.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान की चेकपोस्ट पर चरमपंथियों ने बोला धावा, DSP समेत 7 पुलिसकर्मियों को मारा, 22 जख्मी",
+          "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में चरमपंथियों ने एक चेकपोस्ट पर हमला किया, जिसमें डिप्टी सुपरिंटेंडेंट ऑफ पुलिस सहित 7 पुलिसकर्मियों की मौत हो गई और 22 घायल हुए। हमले में चरमपंथी पुलिस चेकपोस्ट पर धावा बोले और गोलीबारी की। Pakistan Militant Attack: पाकिस्तान के अशांत प्रांत खैबर पख्तूनख्वा में एक बार फिर से चरमपंथियों ने चेकपोस्ट पर हमला करके 7 पुलिसकर्मियों को मौत के घाट उतार दिया.",
+          "region": "यूरोप और रूस"
         }
       }
     }
