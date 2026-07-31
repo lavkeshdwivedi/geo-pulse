@@ -1,25 +1,13 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** July 31, 2026 16:27 IST
+**Updated:** July 31, 2026 17:15 IST
 
 ---
 
 ## Middle East & Africa
 
-### [Ebola en RDC, une épidémie hors de contrôle ?](https://www.crisisgroup.org/fr/pod/africa/democratic-republic-congo/ebola-en-rdc-une-epidemie-hors-de-controle)
-*International Crisis Group* - Vendredi, juille (iso: Vendredi, juillet 24, 2026 - 13:43)
-<!-- image: https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Frédéric Manantsoa Lai, coordinateur des urgences pour Médecins Sans Frontières, et Onesphore Sematumba, analyste senior pour la République démocratique du Congo et le Burundi à Crisis Group, pour parler de l’épidémie d’Ebola en RDC et de ses conséquences sur la population congolaise, déjà marquée par des années de conflit.
-
-### [Avrupa Birliği ve Türkiye: Savunmada Birlik?](https://www.crisisgroup.org/tr/brf/europe/european-union-turkiye/b99-eu-and-turkiye-uniting-defence)
-*International Crisis Group* - Perşembe, Temmuz (iso: Perşembe, Temmuz 23, 2026 - 15:54)
-<!-- image: https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?
-
 ### [UK petrol prices rise to highest this year as US attacks Iran – business live](https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates)
-*The Guardian* - Jul 31, 16:05 IST (iso: 2026-07-31T10:35:40+00:00)
+*The Guardian* - Jul 31, 16:36 IST (iso: 2026-07-31T11:06:04+00:00)
 <!-- image: https://i.guim.co.uk/img/media/a45a9ffc4005b1c14c0577d6da65f707c4494773/1367_151_4873_3898/master/4873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9360c22024d3a542436185b82b7f333c -->
 
 Live, rolling coverage as the AA and RAC report prices rising to around £1.60 per litre after Donald Trump ordered renewed bombing in the Middle EastThe story piquing the interest of the financial press this morning is that of Leopold Aschenbrenner, the AI Wunderkind (he’s German-born) who has been forced to sell off his fund in a fire sale after the AI boom ran out of steam.
@@ -98,17 +86,27 @@ Violence in the occupied West Bank is worsening as the Israeli Government contin
 
 ---
 
+## World
+
+### [Law Society seeks to strike Pritam Singh off the rolls](https://www.channelnewsasia.com/singapore/law-society-seeks-strike-pritam-singh-rolls-6290936)
+*Channel News Asia* - Jul 31, 16:27 IST (iso: 2026-07-31T10:57:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--VSn_dHIV--/c_crop,h_449,w_798,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-21T081540Z_1_LYNXMPEM0K0F2_RTROPTP_3_SINGAPORE-POLITICS.JPG?itok=ZyKXCPIL -->
+
+A High Court notice issued ahead of an Aug 13 Court of Three Judges hearing states that the Law Society is applying to have the Workers' Party chief struck off following his conviction for giving false evidence under oath. Law Society seeks to strike Pritam Singh off the rolls.
+
+---
+
 ## Europe & Russia
 
 ### [A weak German economy, a weaker chancellor](https://asiatimes.com/2026/07/a-weak-german-economy-a-weaker-chancellor/)
 *Asia Times* - Jul 31, 16:04 IST (iso: 2026-07-31T10:34:22+00:00)
 <!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2024/03/GRRM-LOGO-1-1-1-1-1-1-1.webp?fit=700%2C286&ssl=1 -->
 
-Subscribe now with a one-month trial for only $1, then enjoy the first year at an exclusive rate of just $99. Merz loses political control as Berlin’s troubles spreadDiego Faßnacht reports that Friedrich Merz’s botched personnel reset has deepened doubts about his authority just as Germany’s industrial weakness spreads into municipal finances and regional property values.
+Subscribe now with a one-month trial for only $1, then enjoy the first year at an exclusive rate of just $99. Merz loses political control as Berlin’s troubles spreadDiego Faßnacht reports that Friedrich Merz’s botched personnel reset has deepened doubts about his authority just as Germany’s industrial weakness spreads into municipal finances and regional property values. [] The post A weak Germa.
 
 ### [Ukraine Hits Russian Logistics Hubs As Trump Weighs Patriot Missile License](https://www.rferl.org/a/ukraine-russia-drone-attack-wildberries-patriot-missile-license/33819054.html)
 *Radio Free Europe / Liberty* - Jul 31, 15:37 IST (iso: 2026-07-31T10:07:03+00:00)
-<!-- image: https://gdb.rferl.org/c58915aa-61ad-4a53-62c3-08decd277110_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/7a09e835-65a5-432c-1969-08decad58b60_w1200_h630.jpg -->
 
 Ukrainian forces have attacked targets deep inside Russia with drones, including facilities belonging to the country's largest online retailer, Wildberries, as President Zelenskyy urged the US and European allies to bolster Ukraine's air defenses amid escalating Russian ballistic missile attacks. Ukraine Hits Russian Logistics Hubs As Trump Weighs Patriot Missile License.
 
@@ -163,6 +161,12 @@ Kashmir remains one of the world’s most contentious geopolitical flash points.
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/07/https___engelsbergideas.com_wp-content_uploads_2026_07_Sanae-Takaichi-japan-2-copy.jpg -->
 
 Two themes dominate Japan’s elite thinking at present: a blend of awe and fear about the ambitions of Japan’s powerful prime minister, Sanae Takaichi; and concerns about the US-Japan security alliance. Takaichi became prime minister last October through winning a party leadership election, then won her Liberal Democratic Party (LDP) a huge majority in general elections for [] The post Nostalgia h.
+
+### [Stories of survival and loss emerge after Japan earthquake](https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki)
+*The Guardian* - Jul 29, 14:38 IST (iso: 2026-07-29T09:08:57+00:00)
+<!-- image: https://i.guim.co.uk/img/media/b147767b372fa3c2b900ee756134ef45d94d079a/552_160_3105_2484/master/3105.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=658be2559b598a495723506c2247e7f0 -->
+
+Rescuers pulling people from the wreckage in southern Japan in a haunting repeat of disaster that struck 10 years ago‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing“There was a voice coming from the collapsed house, and I could see a hand,” Tomohide Nagata, a volunteer firefighter, told the Kumamoto Nichinichi Shimbun.
 
 ---
 
