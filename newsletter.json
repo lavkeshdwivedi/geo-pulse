@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-31T09:05:43.995576+00:00",
+  "generated_at": "2026-07-31T10:57:26.443609+00:00",
   "article_count": 50,
   "total_unique_count": 278,
   "digest": {
-    "en": "Ebola outbreaks in the Democratic Republic of Congo and Kenya's elephant deaths due to cyanide poisoning dominate the headlines. Meanwhile, the US military denies involvement in Iranian attacks, while Washington is urged to reevaluate its security role in the Gulf. Russian students face university spot shortages.",
-    "hi": "कराची में 'धुरंधर' गैंगवार की वापसी हुई है, जिसमें गैंगस्टर उजैर बलोच के भाई पर ताबड़तोड़ फायरिंग हुई। इसके बाद से शहर में तनाव बढ़ गया है और पुलिस ने सुरक्षा बढ़ा दी है।"
+    "en": "Ebola outbreaks in the Democratic Republic of Congo and potential US-Iran conflict dominate the global news cycle. Meanwhile, the UK's rising petrol prices are being attributed to US attacks on Iran, and the German economy is showing signs of weakness under Chancellor Olaf Scholz.",
+    "hi": "मोरक्को में 49000 लोगों का अचानक देश छोड़ना स्पेन के खुले \"दरवाजे\" के बाद हुआ है, जिससे हाहाकार मच गया है। नेपाल में दंगा रोकने में PM बालेन शाह की चूक के कारण सांप्रदायिक हिंसा फैल गई है, जिससे भारत की सीमा से सटे इलाके में कर्फ्यू लगाया गया है।"
   },
   "articles": [
     {
@@ -32,14 +32,38 @@
       "translations": {}
     },
     {
-      "title": "Can BN-PN pact to target Malay vote defeat PM Anwar’s coalition?",
-      "url": "https://www.channelnewsasia.com/asia/negeri-sembilan-state-election-malay-vote-6288136",
-      "source": "Channel News Asia",
+      "title": "UK petrol prices rise to highest this year as US attacks Iran – business live",
+      "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-07-31T08:57:58+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--tCi5v0sy--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/30/fdz_1314.jpg?itok=eN9sxXU4",
-      "summary": "Negeri Sembilan heads to the polls on Aug 1, with Prime Minister Anwar Ibrahim’s Pakatan Harapan pact battling to retain power in the face of a Malay-Muslim unity narrative spun by Barisan Nasional and Perikatan Nasional. Can BN-PN pact to target Malay vote defeat PM Anwar’s coalition?",
-      "region": "World",
+      "published_at": "2026-07-31T10:35:40+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/a45a9ffc4005b1c14c0577d6da65f707c4494773/1367_151_4873_3898/master/4873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9360c22024d3a542436185b82b7f333c",
+      "summary": "Live, rolling coverage as the AA and RAC report prices rising to around £1.60 per litre after Donald Trump ordered renewed bombing in the Middle EastThe story piquing the interest of the financial press this morning is that of Leopold Aschenbrenner, the AI Wunderkind (he’s German-born) who has been forced to sell off his fund in a fire sale after the AI boom ran out of steam.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A weak German economy, a weaker chancellor",
+      "url": "https://asiatimes.com/2026/07/a-weak-german-economy-a-weaker-chancellor/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-07-31T10:34:22+00:00",
+      "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2024/03/GRRM-LOGO-1-1-1-1-1-1-1.webp?fit=700%2C286&ssl=1",
+      "summary": "Subscribe now with a one-month trial for only $1, then enjoy the first year at an exclusive rate of just $99. Merz loses political control as Berlin’s troubles spreadDiego Faßnacht reports that Friedrich Merz’s botched personnel reset has deepened doubts about his authority just as Germany’s industrial weakness spreads into municipal finances and regional property values.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ukraine Hits Russian Logistics Hubs As Trump Weighs Patriot Missile License",
+      "url": "https://www.rferl.org/a/ukraine-russia-drone-attack-wildberries-patriot-missile-license/33819054.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-07-31T10:07:03+00:00",
+      "image_url": "https://gdb.rferl.org/c58915aa-61ad-4a53-62c3-08decd277110_w1200_h630.jpg",
+      "summary": "Ukrainian forces have attacked targets deep inside Russia with drones, including facilities belonging to the country's largest online retailer, Wildberries, as President Zelenskyy urged the US and European allies to bolster Ukraine's air defenses amid escalating Russian ballistic missile attacks. Ukraine Hits Russian Logistics Hubs As Trump Weighs Patriot Missile License.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -50,7 +74,7 @@
       "sources": [],
       "published_at": "2026-07-31T08:21:49+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/file-20260724-57-u7npg8-copy-e1785456122540.jpg",
-      "summary": "Kashmir remains one of the world’s most contentious geopolitical flash points. In April 2025 India and Pakistan, two nuclear-armed countries that share a tense border, came dangerously close to a major confrontation after militants attacked Indian tourists near the popular resort town of Pahalgam in Indian Kashmir.",
+      "summary": "Kashmir remains one of the world’s most contentious geopolitical flash points. In April 2025 India and Pakistan, two nuclear-armed countries that share a tense border, came dangerously close to a major confrontation after militants attacked Indian tourists near the popular resort town of Pahalgam in Indian Kashmir. Against this backdrop, media coverage of Kashmir often [] The post The enduring le.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -104,7 +128,7 @@
       "translations": {}
     },
     {
-      "title": "Iran Has Tested the Gulf. Now Washington Must Rethink Its Security Role, Says Former Trump NSC",
+      "title": "Iran Has Tested The Gulf. Now Washington Must Rethink Its Security Role, Says Former Trump NSC",
       "url": "https://www.rferl.org/a/iran-gulf-security-us-role-allison-minor-interview/33818576.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
@@ -140,7 +164,7 @@
       "translations": {}
     },
     {
-      "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+      "title": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
       "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
       "source": "The Guardian",
       "sources": [],
@@ -205,7 +229,7 @@
       "source": "Asia Times",
       "sources": [],
       "published_at": "2026-07-30T09:40:37+00:00",
-      "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2021/02/Myanmar-Min-Aung-Hlaing-Coup-2019-1-e1612954838149.jpg?fit=1024%2C684&amp;ssl=1",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2021/02/Myanmar-Min-Aung-Hlaing-Coup-2019-1-e1612954838149.jpg",
       "summary": "The multidimensional crisis that has gripped Myanmar since the military coup on February 1, 2021, has entered a new chapter. one increasingly complex and riddled with contradictions. The move by military chief and coup maker Senior General Min Aung Hlaing to overthrow the civilian government of the National League for Democracy (NLD) did not [] The post Myanmar’s junta slowly but surely winning.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -284,35 +308,83 @@
       "translations": {}
     },
     {
-      "title": "Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again",
-      "url": "https://www.rferl.org/a/ukraine-russia-drone-attack-wildberries-zelenskyy-trump/33817538.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "मोरक्को के 49000 लोगों ने अचानक क्यों छोड़ा देश? स्पेन ने खुद खोला 'दरवाजा', अब मचा हाहाकार!",
+      "url": "https://hindi.news18.com/world/europe-why-suddenly-moroccans-are-entering-spain-via-ceuta-history-morocco-spain-border-10706337.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-29T11:02:31+00:00",
-      "image_url": "https://gdb.rferl.org/9d052c4f-8965-44e0-4489-08decacf94d0_tv_w1200_h630.jpg",
-      "summary": "Ukrainian drones struck targets in several places inside Russia on July 29, including an oil refinery and a logistics center belonging to Russia's largest online retailer, Wildberries, as Kyiv expands its long-range strike campaign to pressure Moscow into peace negotiations. Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-31T10:32:10+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/ceuta-1-2026-07-5ee29d9b3614ea0d56879cf6d2ae0402-1200x800.jpg",
+      "summary": "Morocco Spain Migrant Crisis: मोरक्को से हजारों लोगों के स्पेन के सियुटा शहर में घुसने के बाद पूरी दुनिया की नजर इस इलाके पर टिक गई है. आमतौर पर जब मोरक्को से स्पेन जाने की बात होती है तो सबसे पहले स्ट्रेट ऑफ जिब्राल्टर का नाम आता है, लेकिन इस बार मामला अलग है. प्रवासी सीधे सियुटा पहुंचे, जो अफ्रीका में मौजूद स्पेन का एक शहर है और जिसकी सीमा सीधे मोरक्को से लगती है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मोरक्को के 49000 लोगों ने अचानक क्यों छोड़ा देश? स्पेन ने खुद खोला 'दरवाजा', अब मचा हाहाकार!",
+          "summary": "Morocco Spain Migrant Crisis: मोरक्को से हजारों लोगों के स्पेन के सियुटा शहर में घुसने के बाद पूरी दुनिया की नजर इस इलाके पर टिक गई है. आमतौर पर जब मोरक्को से स्पेन जाने की बात होती है तो सबसे पहले स्ट्रेट ऑफ जिब्राल्टर का नाम आता है, लेकिन इस बार मामला अलग है. प्रवासी सीधे सियुटा पहुंचे, जो अफ्रीका में मौजूद स्पेन का एक शहर है और जिसकी सीमा सीधे मोरक्को से लगती है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Ukraine Hits Another Wildberries Warehouse In Russia",
-      "url": "https://www.rferl.org/a/ukraine-hits-another-wildberries-warehouse-in-russia/33817559.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "नेपाल में दंगा रोकने में क्यों फेल हो गए PM बालेन शाह? Gen-Z के फेवरेट नेता से कहां हुई चूक?",
+      "url": "https://hindi.news18.com/world/south-asia-nepal-sunsari-violence-pm-balendra-shah-government-under-fire-nepal-news-10705485.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-29T10:51:25+00:00",
-      "image_url": "https://gdb.rferl.org/406e3464-e121-4373-334c-08decd1f5434_cx0_cy9_cw0_w1200_h630.jpg",
-      "summary": "Ukrainian drones struck a Wildberries warehouse in the Ryazan region, Russia, setting the building on fire. Wildberries confirmed the evacuation of the facility, marking another hit in a string of drone attacks on Russian industrial sites. Ukrainian drones struck industrial facilities in Russia's Ryazan region, with videos on social media showing a Wildberries warehouse engulfed in flames. Russia's largest online retailer said it evacuated the facility.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-07-31T10:29:47+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/nepal-protest-4-2026-07-8ce6301a315d0374d93776db230cf164-1200x800.jpg",
+      "summary": "Nepal Violence: नेपाल में इस समय बवाल मचा हुआ. एक सांप्रदायिक हिंसा की घटना ने नेपाल के प्रधानमंत्री बालेन शाह की मुश्किल बढ़ा दी है. सुनसरी जिले के देवानगंज में कांवड़ यात्रा के दौरान डीजे बजाने पर बवाल हुआ. सांप्रदायिक बवाल ने नेपाल के कई हिस्सों को आग के हवाले कर दिया. संभालने के लिए पुलिस को फायरिंग करनी पड़ी, जिसमें तीन लोगों की मौत हो गई. नेपाल के पीएम और गृहमंत्री पर सवाल उठ रहे हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल में दंगा रोकने में क्यों फेल हो गए PM बालेन शाह? Gen-Z के फेवरेट नेता से कहां हुई चूक?",
+          "summary": "Nepal Violence: नेपाल में इस समय बवाल मचा हुआ. एक सांप्रदायिक हिंसा की घटना ने नेपाल के प्रधानमंत्री बालेन शाह की मुश्किल बढ़ा दी है. सुनसरी जिले के देवानगंज में कांवड़ यात्रा के दौरान डीजे बजाने पर बवाल हुआ. सांप्रदायिक बवाल ने नेपाल के कई हिस्सों को आग के हवाले कर दिया. संभालने के लिए पुलिस को फायरिंग करनी पड़ी, जिसमें तीन लोगों की मौत हो गई. नेपाल के पीएम और गृहमंत्री पर सवाल उठ रहे हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नेपाल में फैली सांप्रदायिक हिंसा की आग, भारत की सीमा से सटे इलाके में लगा कर्फ्यू",
+      "url": "https://hindi.news18.com/world/south-asia-communal-violence-flares-up-in-nepal-curfew-imposed-in-areas-bordering-india-livenews-10706098.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-31T10:25:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/nepal-Curfew-news18-2026-07-509b2ef0f0383ec1528e42c2c9fb66f2-1200x800.jpg",
+      "summary": "नेपाल में सांप्रदायिक हिंसा का असर अब दूसरे इलाकों में भी दिखने लगा है. पड़ोसी सुनसरी जिले में हुई हिंसा के विरोध में प्रदर्शन शुरू होने के बाद प्रशासन ने भारत की सीमा से सटे सप्तरी जिले के कुछ हिस्सों में अनिश्चितकालीन कर्फ्यू लगा दिया है. सुनसरी में हाल ही में दो समुदायों के बीच हुई झड़प के बाद तनाव का माहौल बना हुआ है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल में फैली सांप्रदायिक हिंसा की आग, भारत की सीमा से सटे इलाके में लगा कर्फ्यू",
+          "summary": "नेपाल में सांप्रदायिक हिंसा का असर अब दूसरे इलाकों में भी दिखने लगा है. पड़ोसी सुनसरी जिले में हुई हिंसा के विरोध में प्रदर्शन शुरू होने के बाद प्रशासन ने भारत की सीमा से सटे सप्तरी जिले के कुछ हिस्सों में अनिश्चितकालीन कर्फ्यू लगा दिया है. सुनसरी में हाल ही में दो समुदायों के बीच हुई झड़प के बाद तनाव का माहौल बना हुआ है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "CJP प्रोटेस्ट के बाद पाकिस्तान में ‘कॉकरोच’ की चर्चा तेज, गृह मंत्री मोहसिन नकवी ने तोड़ी चुप्पी",
+      "url": "https://www.patrika.com/world-news/pakistan-mohsin-naqvi-cjp-protest-cockroach-fear-crisis-statement-20793558",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-31T10:19:45+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/mohsin-naqvi.webp",
+      "summary": "Pakistan Crisis Update: भारत से शुरू हुआ विरोध प्रदर्शन अब पाकिस्तान में चर्चा का विषय बन गया है। हाल ही में सीजेपी यानी कि ‘कॉकरोच जनता पार्टी’ ने दिल्ली के जंतर-मंतर पर भारी बवाल के बाद धरना प्रदर्शन खत्म किया। क्योंकि केंद्रीय शिक्षा मंत्री ने धर्मेंद्र प्रधान ने इस्तीफा दे दिया था। प्रदर्शनकारियों की यही मांग थी कि ‘नीट पेपर लीक’ की जवाबदेही शिक्षा मंत्री की होनी चाहिए।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "CJP प्रोटेस्ट के बाद पाकिस्तान में ‘कॉकरोच’ की चर्चा तेज, गृह मंत्री मोहसिन नकवी ने तोड़ी चुप्पी",
+          "summary": "Pakistan Crisis Update: भारत से शुरू हुआ विरोध प्रदर्शन अब पाकिस्तान में चर्चा का विषय बन गया है। हाल ही में सीजेपी यानी कि ‘कॉकरोच जनता पार्टी’ ने दिल्ली के जंतर-मंतर पर भारी बवाल के बाद धरना प्रदर्शन खत्म किया। क्योंकि केंद्रीय शिक्षा मंत्री ने धर्मेंद्र प्रधान ने इस्तीफा दे दिया था। प्रदर्शनकारियों की यही मांग थी कि ‘नीट पेपर लीक’ की जवाबदेही शिक्षा मंत्री की होनी चाहिए।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "कराची में 'धुरंधर' गैंगवार की वापसी? गैंगस्टर उजैर बलोच के भाई पर ताबड़तोड़ फायरिंग",
       "url": "https://hindi.news18.com/world/pakistan-uzair-baloch-brother-zubair-shot-in-karachi-lyari-gang-war-dhurandhar-10705756.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-31T08:31:00+00:00",
+      "published_at": "2026-07-31T09:51:15+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/uzair-baloch-2026-07-9b416deec13b0c61819949d1d305b847-1200x800.jpg",
       "summary": "Two motorbike riders opened fire on Zubair Baloch, brother of Karachi gang leader Uzair Baloch, in Lyari's Chakiwara district on Thursday evening. He was hit multiple times, rushed to a local hospital and remains in serious condition. Police have not released details on the attackers' motives or identities. Pakistan News: पाकिस्तान के कराची में गुरुवार शाम कुख्यात गैंगस्टर उजैर बलोच के भाई जुबैर बलोच पर जानलेवा हमला हुआ.",
       "region": "Europe & Russia",
@@ -322,6 +394,60 @@
           "title": "कराची में 'धुरंधर' गैंगवार की वापसी? गैंगस्टर उजैर बलोच के भाई पर ताबड़तोड़ फायरिंग",
           "summary": "Two motorbike riders opened fire on Zubair Baloch, brother of Karachi gang leader Uzair Baloch, in Lyari's Chakiwara district on Thursday evening. He was hit multiple times, rushed to a local hospital and remains in serious condition. Police have not released details on the attackers' motives or identities. Pakistan News: पाकिस्तान के कराची में गुरुवार शाम कुख्यात गैंगस्टर उजैर बलोच के भाई जुबैर बलोच पर जानलेवा हमला हुआ.",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "12000 KMPH की रफ्तार, 1500 किलोमीटर तक सबकुछ स्‍वाहा, ब्रह्मोस से कितना ताकतवर चीन की यह हाइपरसोनिक",
+      "url": "https://hindi.news18.com/news/defence/china-yj20-hypersonic-missile-12348-kmph-speed-1500-kilometer-range-powerful-than-brahmos-cruise-missile-10706093.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-07-31T09:31:31+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/YJ20-Missile-2026-07-e029bef05374f6e0abf5fa3739a4885f-1200x800.jpg",
+      "summary": "China Hypersonic Missile: बदलते सामरिक माहौल में हर देश अपने वेपन सिस्‍टम को अपग्रेड करने में जुटा है. चीन इस मामले में दुनिया के तमाम देशों से आगे है. बीजिंग समंदर से लेकर आसमान और जमीन तक की सुरक्षा व्‍यवस्‍था को दुरुस्‍त कर रहा है. इसी क्रम में चीन के रक्षा वैज्ञानिकों ने ऐसी मिसाइल डेवलप की है, जिससे अमेरिका भी टेंशन में आ गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "12000 KMPH की रफ्तार, 1500 किलोमीटर तक सबकुछ स्‍वाहा, ब्रह्मोस से कितना ताकतवर चीन की यह हाइपरसोनिक",
+          "summary": "China Hypersonic Missile: बदलते सामरिक माहौल में हर देश अपने वेपन सिस्‍टम को अपग्रेड करने में जुटा है. चीन इस मामले में दुनिया के तमाम देशों से आगे है. बीजिंग समंदर से लेकर आसमान और जमीन तक की सुरक्षा व्‍यवस्‍था को दुरुस्‍त कर रहा है. इसी क्रम में चीन के रक्षा वैज्ञानिकों ने ऐसी मिसाइल डेवलप की है, जिससे अमेरिका भी टेंशन में आ गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "PoJK में मानवाधिकार संकट पर UKPNP की UN से गुहार, तत्काल हस्तक्षेप की मांग",
+      "url": "https://www.patrika.com/world-news/ukpnp-demands-un-action-over-pok-human-rights-crisis-20793342",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-31T09:23:22+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/PoJK-1.webp",
+      "summary": "Pakistan Occupied Kashmir Human Rights: यूनाइटेड कश्मीर पीपुल्स नेशनल पार्टी (UKPNP) ने पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (PoJK) में बिगड़ते मानवाधिकार हालात पर गंभीर चिंता जताई है। उसने संयुक्त राष्ट्र (UN) और अंतरराष्ट्रीय समुदाय से मामले में तत्काल हस्तक्षेप की मांग की है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PoJK में मानवाधिकार संकट पर UKPNP की UN से गुहार, तत्काल हस्तक्षेप की मांग",
+          "summary": "Pakistan Occupied Kashmir Human Rights: यूनाइटेड कश्मीर पीपुल्स नेशनल पार्टी (UKPNP) ने पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (PoJK) में बिगड़ते मानवाधिकार हालात पर गंभीर चिंता जताई है। उसने संयुक्त राष्ट्र (UN) और अंतरराष्ट्रीय समुदाय से मामले में तत्काल हस्तक्षेप की मांग की है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कराची के ल्यारी में फिर चली ताबड़तोड़ गोलियां, जुबैर बलोच गंभीर रूप से घायल, फिल्म ‘धुरंधर’ से क्या",
+      "url": "https://www.patrika.com/world-news/uzair-baloch-brother-zubair-baloch-shot-in-karachi-uzair-baloch-dhurandhar-connection-20793015",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-07-31T08:08:13+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Uzair-Baloch-.webp",
+      "summary": "Lyari Shooting: पाकिस्तान के कुख्यात गैंगस्टर और प्रतिबंधित ‘पीपुल्स अमन कमेटी’ के प्रमुख उजैर बलोच के भाई जुबैर बलोच को गुरुवार शाम कराची में गोली मार दी गई। जुबैर बलोच की हालत गंभीर बनी हुई है। पाकिस्तानी अखबार डॉन के मुताबिक, उनके सीने और पेट में गोलियां लगी हैं। उन्हें कराची के सिविल अस्पताल में भर्ती कराया गया। इस गोलीबारी में दो राहगीर भी घायल हुए हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कराची के ल्यारी में फिर चली ताबड़तोड़ गोलियां, जुबैर बलोच गंभीर रूप से घायल, फिल्म ‘धुरंधर’ से क्या",
+          "summary": "Lyari Shooting: पाकिस्तान के कुख्यात गैंगस्टर और प्रतिबंधित ‘पीपुल्स अमन कमेटी’ के प्रमुख उजैर बलोच के भाई जुबैर बलोच को गुरुवार शाम कराची में गोली मार दी गई। जुबैर बलोच की हालत गंभीर बनी हुई है। पाकिस्तानी अखबार डॉन के मुताबिक, उनके सीने और पेट में गोलियां लगी हैं। उन्हें कराची के सिविल अस्पताल में भर्ती कराया गया। इस गोलीबारी में दो राहगीर भी घायल हुए हैं।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -339,6 +465,42 @@
         "hi": {
           "title": "ताइवान पर अटैक की ट्रेनिंग कर रहा PLA, सवाल टालते हुए रक्षा मंत्रालय ने कहा, 'हम जंग के लिए हमेशा",
           "summary": "चीनी रक्षाा मंत्रालय के प्रवक्‍ता ज‍ियांग ब‍िन ने ताइवान को लेकर एक बार फि‍र सख्‍त लहजे में जवाब द‍िया है. ताइवान पर हमले की ट्रेनिंग कर रहे पीएमएल की तैयार‍ियों के सवाल को टालते हुए उन्‍होंने कहा क‍ि PLA हमेशा युद्ध के लिए तैयार है और जब भी जरूरत पड़ेगी उसके सैन‍िक युद्ध लड़ने के ल‍िए तैयार हैं. ताइवान पर अटैक की ट्रेनिंग कर रहा PLA, सवाल टालते हुए रक्षा मंत्रालय ने कहा, 'हम जंग के लिए हमेशा।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दांतों से कार खींचकर हरिद्वार से गंगाजल ला रहा 'शिवभक्त'",
+      "url": "https://www.abplive.com/short-videos/news/india-viral-video-shiva-devotee-pulls-a-car-with-his-teeth-while-carrying-gangajal-from-haridwar-3168397",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-31T07:40:05+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/bb5bbc6c102990f79081059a5526798c17854832740391392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
+      "summary": "Viral Video: दांतों से कार खींचकर हरिद्वार से गंगाजल ला रहा 'शिवभक्त'।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दांतों से कार खींचकर हरिद्वार से गंगाजल ला रहा 'शिवभक्त'",
+          "summary": "Viral Video: दांतों से कार खींचकर हरिद्वार से गंगाजल ला रहा 'शिवभक्त'।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "नागरिकता पर बहस के बीच भारतीय पासपोर्ट पर सरकार का बड़ा बयान, जानें क्या कहा?",
+      "url": "https://www.abplive.com/news/india/indian-passport-citizenship-proof-centre-clarification-rajya-sabha-passports-act-1967-dual-citizenship-3168383",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-31T07:26:32+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/fdfb7992857c6e52fbeb2a58c79daaaf1785482716851425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "भारतीय पासपोर्ट को लेकर लंबे समय से चल रही बहस के बीच केंद्र सरकार ने संसद में अहम जानकारी दी है. सरकार ने स्पष्ट किया कि भारतीय पासपोर्ट केवल भारतीय नागरिकों को ही जारी किया जाता है, लेकिन यह सीधे तौर पर नहीं कहा कि पासपोर्ट भारतीय नागरिकता का अंतिम और निर्णायक प्रमाण है. सरकार ने यह भी दोहराया कि पासपोर्ट मुख्य रूप से एक यात्रा दस्तावेज है, जिसे पासपोर्ट अधिनियम, 1967 के तहत जारी किया जाता है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नागरिकता पर बहस के बीच भारतीय पासपोर्ट पर सरकार का बड़ा बयान, जानें क्या कहा?",
+          "summary": "भारतीय पासपोर्ट को लेकर लंबे समय से चल रही बहस के बीच केंद्र सरकार ने संसद में अहम जानकारी दी है. सरकार ने स्पष्ट किया कि भारतीय पासपोर्ट केवल भारतीय नागरिकों को ही जारी किया जाता है, लेकिन यह सीधे तौर पर नहीं कहा कि पासपोर्ट भारतीय नागरिकता का अंतिम और निर्णायक प्रमाण है. सरकार ने यह भी दोहराया कि पासपोर्ट मुख्य रूप से एक यात्रा दस्तावेज है, जिसे पासपोर्ट अधिनियम, 1967 के तहत जारी किया जाता है.",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -362,24 +524,6 @@
       }
     },
     {
-      "title": "'देर होने से पहले इन कॉकरोच को बाहर फेंको’, प्रोटेस्ट में शामिल हुए जेन जी पर भड़के मुकेश खन्ना",
-      "url": "https://www.amarujala.com/entertainment/bollywood/mukesh-khanna-warn-students-who-took-part-in-protest-ask-people-to-throw-away-cockroaches-2026-07-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-31T07:17:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/makasha-khanana_5a178ebcd1113973247ddb2edb28e9a9.jpeg?w=1200&dpr=1.0",
-      "summary": "पिछले कई दिनों से कॉकरोच जनता पार्टी (सीजेपी) और उसका विरोध प्रदर्शन चर्चा में रहा है। 'देर होने से पहले इन कॉकरोच को बाहर फेंको’, प्रोटेस्ट में शामिल हुए जेन जी पर भड़के मुकेश खन्ना।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'देर होने से पहले इन कॉकरोच को बाहर फेंको’, प्रोटेस्ट में शामिल हुए जेन जी पर भड़के मुकेश खन्ना",
-          "summary": "पिछले कई दिनों से कॉकरोच जनता पार्टी (सीजेपी) और उसका विरोध प्रदर्शन चर्चा में रहा है। 'देर होने से पहले इन कॉकरोच को बाहर फेंको’, प्रोटेस्ट में शामिल हुए जेन जी पर भड़के मुकेश खन्ना।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "स्पेन-मोरक्का में हुआ बवाल तो जॉर्जियो मेलोनी क्यों हो गईं गुस्सा?",
       "url": "https://hindi.news18.com/world/europe-spain-ceuta-migrant-crisis-giorgia-meloni-reaction-photogallery-10705574.html",
       "source": "News18 Hindi (World)",
@@ -398,73 +542,37 @@
       }
     },
     {
-      "title": "नेपाल में सांप्रदायिक हिंसा पर घिरी सरकार! 3 मौतों के बाद PM बालेन शाह पर उठे सवाल",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-sunsari-violence-pm-balendra-shah-government-under-fire-nepal-news-10705485.html",
-      "source": "News18 Hindi (World)",
+      "title": "SCO समिट में पाकिस्तान जाएंगे PM मोदी? तैयारी कर रहा इस्लामाबाद!",
+      "url": "https://www.abplive.com/news/world/pm-modi-could-be-attend-sco-summit-in-islamabad-pakistan-3168347",
+      "source": "ABP Live (World)",
       "sources": [],
-      "published_at": "2026-07-31T07:00:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/nepal-protest-4-2026-07-8ce6301a315d0374d93776db230cf164-1200x800.jpg",
-      "summary": "Nepal Violence: नेपाल में इस समय बवाल मचा हुआ. एक सांप्रदायिक हिंसा की घटना ने नेपाल के प्रधानमंत्री बालेन शाह की मुश्किल बढ़ा दी है. सुनसरी जिले के देवानगंज में कांवड़ यात्रा के दौरान डीजे बजाने पर बवाल हुआ. सांप्रदायिक बवाल ने नेपाल के कई हिस्सों को आग के हवाले कर दिया. संभालने के लिए पुलिस को फायरिंग करनी पड़ी, जिसमें तीन लोगों की मौत हो गई. नेपाल के पीएम और गृहमंत्री पर सवाल उठ रहे हैं.",
+      "published_at": "2026-07-31T06:57:27+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/f7fad8e6405a1ff36dae1d3d1842fa3c17854801089731200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के विदेश मंत्रालय के प्रवक्ता ताहिर अंद्राबी ने कहा कि शंघाई सहयोग संगठन के सभी सदस्य देशों को आमंत्रित किया जाएगा. प्रधानमंत्री नरेंद्र मोदी के भाग लेने की संभावना है. पाकिस्तान 2027 में SCO शिखर सम्मेलन की मेजबानी करेगा. इस्लामाबाद में होने वाले सम्मेलन में भारत की भागीदारी पर अभी तक कोई आधिकारिक बयान नहीं आया है. पाकिस्तान की राजधानी इस्लामाबाद में साल 2027 में आयोजित होने वाले शंघाई सहयोग संगठन (SCO) शिखर सम्मेलन प्रधानमंत्री नरेंद्र मोदी शिरकत करेंगे या नहीं इसको लेकर सस्पेंस है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "नेपाल में सांप्रदायिक हिंसा पर घिरी सरकार! 3 मौतों के बाद PM बालेन शाह पर उठे सवाल",
-          "summary": "Nepal Violence: नेपाल में इस समय बवाल मचा हुआ. एक सांप्रदायिक हिंसा की घटना ने नेपाल के प्रधानमंत्री बालेन शाह की मुश्किल बढ़ा दी है. सुनसरी जिले के देवानगंज में कांवड़ यात्रा के दौरान डीजे बजाने पर बवाल हुआ. सांप्रदायिक बवाल ने नेपाल के कई हिस्सों को आग के हवाले कर दिया. संभालने के लिए पुलिस को फायरिंग करनी पड़ी, जिसमें तीन लोगों की मौत हो गई. नेपाल के पीएम और गृहमंत्री पर सवाल उठ रहे हैं.",
+          "title": "SCO समिट में पाकिस्तान जाएंगे PM मोदी? तैयारी कर रहा इस्लामाबाद!",
+          "summary": "पाकिस्तान के विदेश मंत्रालय के प्रवक्ता ताहिर अंद्राबी ने कहा कि शंघाई सहयोग संगठन के सभी सदस्य देशों को आमंत्रित किया जाएगा. प्रधानमंत्री नरेंद्र मोदी के भाग लेने की संभावना है. पाकिस्तान 2027 में SCO शिखर सम्मेलन की मेजबानी करेगा. इस्लामाबाद में होने वाले सम्मेलन में भारत की भागीदारी पर अभी तक कोई आधिकारिक बयान नहीं आया है. पाकिस्तान की राजधानी इस्लामाबाद में साल 2027 में आयोजित होने वाले शंघाई सहयोग संगठन (SCO) शिखर सम्मेलन प्रधानमंत्री नरेंद्र मोदी शिरकत करेंगे या नहीं इसको लेकर सस्पेंस है.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "पिकनिक स्पॉट पर बड़ा हादसा टला, 11 घंटे की मशक्कत के बाद बची चार युवकों की जान",
-      "url": "https://www.amarujala.com/madhya-pradesh/khandwa-four-youth-rescued-after-being-trapped-on-river-island-2026-07-31",
-      "source": "Amar Ujala Breaking",
+      "title": "राम मंदिर चढ़ावा चोरी पर संसद में ड्रामा! साधु बने पप्पू यादव, चढ़ावा डालने पहुंचे राहुल गांधी",
+      "url": "https://www.abplive.com/news/india/parliament-monsoon-session-pappu-yadav-appeared-as-sadhu-demonstration-on-ram-mandir-donations-scam-ann-3168329",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-07-31T06:54:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/sabha-yavaka-ka-sarakashhata-bhara-nakal-gaya_c38784f257e24378e6f137ff8ade54f8.jpeg?w=1200&dpr=1.0",
-      "summary": "खंडवा के हांडीकुंडी पिकनिक स्पॉट पर सेल्फी और घूमने पहुंचे चार युवक अचानक नदी का जलस्तर बढ़ने से टापू पर फंस गए। प्रशासन, पुलिस और SDRF ने करीब 11 घंटे तक चले रेस्क्यू ऑपरेशन के बाद शुक्रवार तड़के सभी युवकों को सुरक्षित बाहर निकाल लिया। पिकनिक स्पॉट पर बड़ा हादसा टला, 11 घंटे की मशक्कत के बाद बची चार युवकों की जान।",
+      "published_at": "2026-07-31T06:41:26+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/d186d34d965c8d7f705e2192fc74c14117854787814621115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "राहुल गांधी और पप्पू यादव ने संसद परिसर में राम मंदिर चढ़ावा चोरी के मुद्दे पर विरोध प्रदर्शन किया। पप्पू यादव साधु के वेश में दिखाई दिए। विपक्षी सांसदों ने नाटक के माध्यम से अपना विरोध दर्ज कराया। अयोध्या राम मंदिर से जुड़े चढ़ावा चोरी के मुद्दे को लेकर विपक्षी दलों ने संसद परिसर में सांकेतिक प्रदर्शन कर सरकार को घेरने की कोशिश की.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पिकनिक स्पॉट पर बड़ा हादसा टला, 11 घंटे की मशक्कत के बाद बची चार युवकों की जान",
-          "summary": "खंडवा के हांडीकुंडी पिकनिक स्पॉट पर सेल्फी और घूमने पहुंचे चार युवक अचानक नदी का जलस्तर बढ़ने से टापू पर फंस गए। प्रशासन, पुलिस और SDRF ने करीब 11 घंटे तक चले रेस्क्यू ऑपरेशन के बाद शुक्रवार तड़के सभी युवकों को सुरक्षित बाहर निकाल लिया। पिकनिक स्पॉट पर बड़ा हादसा टला, 11 घंटे की मशक्कत के बाद बची चार युवकों की जान।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "एक दिन में ₹39 लाख करोड़ जोड़े, एनवीडिया को पछाड़ इस मामले में बनी नंबर-1 कंपनी",
-      "url": "https://www.amarujala.com/business/business-diary/microsoft-adds-rs-39-lakh-crore-market-cap-beats-nvidia-world-most-valuable-company-2026-07-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-31T06:47:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/maikarasafata_cc3ad1339fb2f31a48e82be266ffe826.jpeg?w=1200&dpr=1.0",
-      "summary": "नंबर-1 कंपनी Microsoft adds rs 39 lakh crore market cap beats nvidia world most valuable company शेयर बाजार में माइक्रोसॉफ्ट की सूनामी: एक दिन में ₹39 लाख करोड़ जोड़े, एनवीडिया को पछाड़ फिर बनी। एक दिन में ₹39 लाख करोड़ जोड़े, एनवीडिया को पछाड़ इस मामले में बनी नंबर-1 कंपनी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक दिन में ₹39 लाख करोड़ जोड़े, एनवीडिया को पछाड़ इस मामले में बनी नंबर-1 कंपनी",
-          "summary": "नंबर-1 कंपनी Microsoft adds rs 39 lakh crore market cap beats nvidia world most valuable company शेयर बाजार में माइक्रोसॉफ्ट की सूनामी: एक दिन में ₹39 लाख करोड़ जोड़े, एनवीडिया को पछाड़ फिर बनी। एक दिन में ₹39 लाख करोड़ जोड़े, एनवीडिया को पछाड़ इस मामले में बनी नंबर-1 कंपनी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "संसद के बाहर विपक्ष का प्रदर्शन: पप्पू यादव ने साधु बनकर बटोरा चंदा, राहुल ने चढ़ावा चढ़ाया; देखिए",
-      "url": "https://www.amarujala.com/india-news/opposition-protest-makar-dwar-ayodhya-ram-mandir-donation-row-pappu-yadav-rahul-gandhi-2026-07-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-31T06:40:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/parliament_13b2eca7b4e224e9bfa066cb83eda0db.gif?w=1200&dpr=1.0",
-      "summary": "वीडियो संसद के बाहर विपक्ष का प्रदर्शन: पप्पू यादव ने साधु बनकर बटोरा चंदा, राहुल ने चढ़ावा चढ़ाया; देखिए वीडियो।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संसद के बाहर विपक्ष का प्रदर्शन: पप्पू यादव ने साधु बनकर बटोरा चंदा, राहुल ने चढ़ावा चढ़ाया; देखिए",
-          "summary": "वीडियो संसद के बाहर विपक्ष का प्रदर्शन: पप्पू यादव ने साधु बनकर बटोरा चंदा, राहुल ने चढ़ावा चढ़ाया; देखिए वीडियो।",
+          "title": "राम मंदिर चढ़ावा चोरी पर संसद में ड्रामा! साधु बने पप्पू यादव, चढ़ावा डालने पहुंचे राहुल गांधी",
+          "summary": "राहुल गांधी और पप्पू यादव ने संसद परिसर में राम मंदिर चढ़ावा चोरी के मुद्दे पर विरोध प्रदर्शन किया। पप्पू यादव साधु के वेश में दिखाई दिए। विपक्षी सांसदों ने नाटक के माध्यम से अपना विरोध दर्ज कराया। अयोध्या राम मंदिर से जुड़े चढ़ावा चोरी के मुद्दे को लेकर विपक्षी दलों ने संसद परिसर में सांकेतिक प्रदर्शन कर सरकार को घेरने की कोशिश की.",
           "region": "दुनिया"
         }
       }
@@ -506,6 +614,42 @@
       }
     },
     {
+      "title": "PAK के गृहमंत्री Gen-Z से डरे! दिल्ली के CJP प्रोटेस्ट का किया जिक्र, बोले- सिस्टम फेल",
+      "url": "https://www.abplive.com/news/world/pakistan-home-minister-mohsin-naqvi-talk-about-cjp-protest-says-pak-administrative-system-failed-focus-on-young-generation-3168276",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-07-31T06:20:21+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/dd0d5544fbdb8cc491be4353d0f1982b17854741969881115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के गृह मंत्री मोहसिन नकवी ने कहा है कि मौजूदा सिस्टम पूरी तरह फेल हो चुका है. पाकिस्तान के गृह मंत्री मोहसिन नकवी ने देश की राजनीतिक और प्रशासनिक व्यवस्था पर गंभीर सवाल उठाते हुए कहा है कि मौजूदा सिस्टम पूरी तरह फेल हो चुका है. अगर समय रहते सुधार नहीं किए गए तो PAK को बड़े जनआंदोलनों और राजनीतिक अस्थिरता का सामना करना पड़ सकता है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PAK के गृहमंत्री Gen-Z से डरे! दिल्ली के CJP प्रोटेस्ट का किया जिक्र, बोले- सिस्टम फेल",
+          "summary": "पाकिस्तान के गृह मंत्री मोहसिन नकवी ने कहा है कि मौजूदा सिस्टम पूरी तरह फेल हो चुका है. पाकिस्तान के गृह मंत्री मोहसिन नकवी ने देश की राजनीतिक और प्रशासनिक व्यवस्था पर गंभीर सवाल उठाते हुए कहा है कि मौजूदा सिस्टम पूरी तरह फेल हो चुका है. अगर समय रहते सुधार नहीं किए गए तो PAK को बड़े जनआंदोलनों और राजनीतिक अस्थिरता का सामना करना पड़ सकता है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "E20 फ्यूल पर संसद में अलग-अलग जवाब! क्या खुद उलझ गई बीजेपी सरकार?",
+      "url": "https://www.abplive.com/news/india/parliament-monsoon-session-2026-e20-ethanol-petrol-petroleum-ministry-different-statements-on-vehicles-breakdown-nitin-gadkari-explained-3168332",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-07-31T06:19:42+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/7a07d8f22c68cfaa619c973b94e25dce17854785707961317_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "संसद में E20 फ्यूल पर दो अलग-अलग मंत्रालयों के जवाब सामने आए हैं. E20 पेट्रोल यानी 20% इथेनॉल और 80% पेट्रोल का मिश्रण पर नई उलझन पैदा हो गई है. इसे लेकर संसद में दो अलग-अलग मंत्रालयों के दो अलग-अलग जवाब सामने आए हैं. इससे भी बड़ा खुलासा तब हुआ जब पेट्रोलियम मंत्रालय ने बताया कि FCI 37 रुपए प्रति किलोग्राम में खरीदे चावल को 23 रुपए प्रति किग्रा में डिस्टिलरीज को बेच रही है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "E20 फ्यूल पर संसद में अलग-अलग जवाब! क्या खुद उलझ गई बीजेपी सरकार?",
+          "summary": "संसद में E20 फ्यूल पर दो अलग-अलग मंत्रालयों के जवाब सामने आए हैं. E20 पेट्रोल यानी 20% इथेनॉल और 80% पेट्रोल का मिश्रण पर नई उलझन पैदा हो गई है. इसे लेकर संसद में दो अलग-अलग मंत्रालयों के दो अलग-अलग जवाब सामने आए हैं. इससे भी बड़ा खुलासा तब हुआ जब पेट्रोलियम मंत्रालय ने बताया कि FCI 37 रुपए प्रति किलोग्राम में खरीदे चावल को 23 रुपए प्रति किग्रा में डिस्टिलरीज को बेच रही है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "पाकिस्तान में भी बन गई 'कॉकरोच पार्टी', मुनीर-शहबाज की BP बढ़ाने वाला कौन, किस मसले पर काटेंगे बवाल?",
       "url": "https://hindi.news18.com/world/pakistan-cockroach-party-pakistan-cpp-instagram-salman-tarar-instagram-youth-movement-asim-munir-10704990.html",
       "source": "News18 Hindi (World)",
@@ -520,24 +664,6 @@
           "title": "पाकिस्तान में भी बन गई 'कॉकरोच पार्टी', मुनीर-शहबाज की BP बढ़ाने वाला कौन, किस मसले पर काटेंगे बवाल?",
           "summary": "पाकिस्तान में कॉकरोच पार्टी पाकिस्तान नामक एक नया राजनीतिक समूह सामने आया है. इस समूह के इंस्टाग्राम पर 1 लाख 12 हजार से ज्यादा फॉलोअर्स हैं. यह पार्टी युवाओं और आम नागरिकों की आवाज बताती है और भ्रष्टाचार, परिवारवाद जैसे मुद्दों पर बदलाव की मांग कर रही है. भारत में चर्चा में रही कॉकरोच जनता पार्टी (CJP) के बाद अब पाकिस्तान में कॉकरोच पार्टी पाकिस्तान (CPP) नाम से एक नया राजनीतिक समूह सामने आया है.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नमाज स्थल बदलने पर नया विवाद, रहवासियों ने पेश किए पुश्तैनी हक के दावे; अब आगे क्या?",
-      "url": "https://www.amarujala.com/madhya-pradesh/dhar/meeting-held-between-the-administration-and-the-muslim-community-khasd-dhar-news-c-1-1-noi1504-4560797-2026-07-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-31T06:12:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/rahavasaya-na-kaya-varathha_2639108e8def5fccfe0d3f657aec9518.jpeg?w=1200&dpr=1.0",
-      "summary": "धार की भोजशाला-कमाल मौलाना दरगाह परिसर के पास जुमे की नमाज के लिए प्रशासन और मुस्लिम समाज की बैठक के बाद नया स्थान तय कर दिया गया है। अब नमाज खसरा नंबर 611 और 612 पर अदा की जाएगी। नमाज स्थल बदलने पर नया विवाद, रहवासियों ने पेश किए पुश्तैनी हक के दावे; अब आगे क्या?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नमाज स्थल बदलने पर नया विवाद, रहवासियों ने पेश किए पुश्तैनी हक के दावे; अब आगे क्या?",
-          "summary": "धार की भोजशाला-कमाल मौलाना दरगाह परिसर के पास जुमे की नमाज के लिए प्रशासन और मुस्लिम समाज की बैठक के बाद नया स्थान तय कर दिया गया है। अब नमाज खसरा नंबर 611 और 612 पर अदा की जाएगी। नमाज स्थल बदलने पर नया विवाद, रहवासियों ने पेश किए पुश्तैनी हक के दावे; अब आगे क्या?",
-          "region": "दुनिया"
         }
       }
     },
@@ -562,7 +688,7 @@
     {
       "title": "पाकिस्तान के ब्रॉड पीक पर एवलांच: निम्सदाई समेत छह लापता, चार शव बरामद; सेना का रेस्क्यू ऑपरेशन जारी",
       "url": "https://www.amarujala.com/world/broad-peak-avalanche-nims-dai-missing-climbers-pakistan-rescue-operation-2026-07-31",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-07-31T06:00:46+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/brada-paka-evalca_fa708f9de1a6f09f6f5ba9dc2ba1b4c3.jpeg?w=1200&dpr=1.0",
@@ -614,146 +740,20 @@
       }
     },
     {
-      "title": "अमेरिकी सीनेट में 49-50 से गिरा प्रस्ताव, ईरान पर ट्रम्प की सैन्य कार्रवाई पर रोक नहीं",
-      "url": "https://www.patrika.com/world-news/us-senate-vote-trump-iran-military-authority-resolution-fails-20792414",
-      "source": "Patrika (World)",
+      "title": "शहजाद पूनावाला ने दिया भारतीय जनता पार्टी से इस्तीफा? X के अकाउंट में किया बदलाव",
+      "url": "https://www.abplive.com/news/india/shehzad-poonawalla-resigns-from-bjp-x-account-profile-change-bjp-resignation-rumours-3168293",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-07-31T05:16:10+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/US-Senate.webp",
-      "summary": "US Senate Rejects Trump Iran War Powers Resolution: अमेरिका और ईरान के बीच जारी भीषण संघर्ष के बीच वाशिंगटन की सत्ता के गलियारों में राजनीतिक ड्रामा अपने चरम पर पहुंच गया है। राष्ट्रपति डोनाल्ड ट्रंप की ईरान के खिलाफ युद्ध छेड़ने की असीमित शक्तियों को सीमित करने वाला ऐतिहासिक ‘वॉर पावर्स रिज़ॉल्यूशन’ अमेरिकी सीनेट में महज 49-50 के मामूली अंतर से खारिज हो गया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी सीनेट में 49-50 से गिरा प्रस्ताव, ईरान पर ट्रम्प की सैन्य कार्रवाई पर रोक नहीं",
-          "summary": "US Senate Rejects Trump Iran War Powers Resolution: अमेरिका और ईरान के बीच जारी भीषण संघर्ष के बीच वाशिंगटन की सत्ता के गलियारों में राजनीतिक ड्रामा अपने चरम पर पहुंच गया है। राष्ट्रपति डोनाल्ड ट्रंप की ईरान के खिलाफ युद्ध छेड़ने की असीमित शक्तियों को सीमित करने वाला ऐतिहासिक ‘वॉर पावर्स रिज़ॉल्यूशन’ अमेरिकी सीनेट में महज 49-50 के मामूली अंतर से खारिज हो गया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हाईवे पर कई जगह भूस्खलन, स्यानाचट्टी में उफनाई यमुना, होटलों की पहली मंजिल तक पहुंचा पानी",
-      "url": "https://www.amarujala.com/dehradun/yamunotri-highway-closed-after-landslide-rising-yamuna-water-reaches-hotel-first-floors-at-syana-chatti-2026-07-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-31T05:11:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/yamunotri-highway_80026a2127af8e0de5e74eefc7f277e4.jpeg?w=1200&dpr=1.0",
-      "summary": "यमुनोत्री घाटी में लगातार रुक-रुककर हो रही बारिश के कारण यमुनोत्री हाईवे पर कई स्थानों पर भूस्खलन हुआ है। हाईवे पर कई जगह भूस्खलन, स्यानाचट्टी में उफनाई यमुना, होटलों की पहली मंजिल तक पहुंचा पानी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हाईवे पर कई जगह भूस्खलन, स्यानाचट्टी में उफनाई यमुना, होटलों की पहली मंजिल तक पहुंचा पानी",
-          "summary": "यमुनोत्री घाटी में लगातार रुक-रुककर हो रही बारिश के कारण यमुनोत्री हाईवे पर कई स्थानों पर भूस्खलन हुआ है। हाईवे पर कई जगह भूस्खलन, स्यानाचट्टी में उफनाई यमुना, होटलों की पहली मंजिल तक पहुंचा पानी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'पापा के सिर पर पांच टांके थे, यूनिफार्म खून से लाल थी', घायल पुलिसकर्मियों के परिजनों की आपबीती",
-      "url": "https://www.amarujala.com/delhi-ncr/press-conference-by-the-families-of-police-personnel-injured-during-the-cjp-protest-at-jantar-mantar-2026-07-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-31T05:05:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/sajapa-paratharashana-ma-ghayal-palsakaramaya-ka-parajana-ka-aapabta_359d7e7ff6b6983a8dbb5936198bee84.jpeg?w=1200&dpr=1.0",
-      "summary": "जंतर मंतर पर सीजेपी प्रदर्शन के दौरान घायल पुलिसकर्मियों के परिजनों ने आज प्रेस वार्ता कर आपबीती सुनाई। 'पापा के सिर पर पांच टांके थे, यूनिफार्म खून से लाल थी', घायल पुलिसकर्मियों के परिजनों की आपबीती।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'पापा के सिर पर पांच टांके थे, यूनिफार्म खून से लाल थी', घायल पुलिसकर्मियों के परिजनों की आपबीती",
-          "summary": "जंतर मंतर पर सीजेपी प्रदर्शन के दौरान घायल पुलिसकर्मियों के परिजनों ने आज प्रेस वार्ता कर आपबीती सुनाई। 'पापा के सिर पर पांच टांके थे, यूनिफार्म खून से लाल थी', घायल पुलिसकर्मियों के परिजनों की आपबीती।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ब्रॉड पीक पर हिमस्खलन, निर्मल पुर्जा समेत 10 सदस्यीय अंतरराष्ट्रीय पर्वतारोहण दल लापता",
-      "url": "https://www.patrika.com/world-news/pakistan-broad-peak-avalanche-nirmal-purja-with-10-climbers-missing-20792282",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-31T04:09:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Nirmal-Purja.webp",
-      "summary": "निर्मल पुर्जा के नेतृत्व में 10 सदस्यीय अंतरराष्ट्रीय पर्वतारोहण दल पाकिस्तान के ब्रॉड पीक पर लापता हो गया। इस दल में एक अमेरिकी, एक चीनी, एक ओमानी और पांच नेपाली नागरिक शामिल थे। गुरुवार दोपहर लगभग हिमस्खलन की चपेट में आने से यह घटना हुई। पाकिस्तान के पर्वतारोहण अधिकारी इस मामले की जांच कर रहे हैं। Nirmal Purja Missing: पाकिस्तान के ब्रॉड पीक पर गुरुवार को हिमस्खलन की चपेट में आने से 10 सदस्यीय अंतरराष्ट्रीय पर्वतारोहण दल के लापता होने की खबर है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ब्रॉड पीक पर हिमस्खलन, निर्मल पुर्जा समेत 10 सदस्यीय अंतरराष्ट्रीय पर्वतारोहण दल लापता",
-          "summary": "निर्मल पुर्जा के नेतृत्व में 10 सदस्यीय अंतरराष्ट्रीय पर्वतारोहण दल पाकिस्तान के ब्रॉड पीक पर लापता हो गया। इस दल में एक अमेरिकी, एक चीनी, एक ओमानी और पांच नेपाली नागरिक शामिल थे। गुरुवार दोपहर लगभग हिमस्खलन की चपेट में आने से यह घटना हुई। पाकिस्तान के पर्वतारोहण अधिकारी इस मामले की जांच कर रहे हैं। Nirmal Purja Missing: पाकिस्तान के ब्रॉड पीक पर गुरुवार को हिमस्खलन की चपेट में आने से 10 सदस्यीय अंतरराष्ट्रीय पर्वतारोहण दल के लापता होने की खबर है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "क्या पाकिस्तान के गृह मंत्री मोहसिन नकवी ने दिया फौज के खिलाफ बयान? कहा- हमारा सिस्टम पूरी तरह से",
-      "url": "https://www.patrika.com/world-news/pakistan-home-minister-mohsin-naqvi-system-collapsed-statement-pok-violence-20792284",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-31T04:03:38+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Copy-of-Logo-Banner-23.webp",
-      "summary": "पाकिस्तान के गृह मंत्री मोहसिन नकवी ने कहा है कि उनका सिस्टम पूरी तरह से विफल हो गया है। पाकिस्तान में आर्थिक संकट और आतंरिक स्थिति बिगड़ने से हालात खराब हो गए हैं। बलूचिस्तान और खैबर पख्तूख्वाह में प्रशासन का कंट्रोल लगभग खत्म हो चुका है। पहले आर्थिक संकट ने पाकिस्तान की कमर तोड़ दी है। अब आतंरिक स्थिति बिगड़ने से हालात और भी बुरे हो गए हैं।",
+      "published_at": "2026-07-31T05:23:29+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/9229268f00003cde0c61842100abae651785477537503425_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "शहजाद पूनावाला ने अपने X अकाउंट में बदलाव किया है, जिससे उनके बीजेपी छोड़ने की अटकलें तेज हो गई हैं. भारतीय जनता पार्टी (बीजेपी) के राष्ट्रीय प्रवक्ता रहे शहजाद पूनावाला को लेकर राजनीतिक गलियारों में नई चर्चा शुरू हो गई है. सोशल मीडिया प्लेटफॉर्म X (पूर्व में ट्विटर) पर उनकी प्रोफाइल में हुए बदलाव के बाद उनके बीजेपी छोड़ने की अटकलें तेज हो गई हैं.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्या पाकिस्तान के गृह मंत्री मोहसिन नकवी ने दिया फौज के खिलाफ बयान? कहा- हमारा सिस्टम पूरी तरह से",
-          "summary": "पाकिस्तान के गृह मंत्री मोहसिन नकवी ने कहा है कि उनका सिस्टम पूरी तरह से विफल हो गया है। पाकिस्तान में आर्थिक संकट और आतंरिक स्थिति बिगड़ने से हालात खराब हो गए हैं। बलूचिस्तान और खैबर पख्तूख्वाह में प्रशासन का कंट्रोल लगभग खत्म हो चुका है। पहले आर्थिक संकट ने पाकिस्तान की कमर तोड़ दी है। अब आतंरिक स्थिति बिगड़ने से हालात और भी बुरे हो गए हैं।",
+          "title": "शहजाद पूनावाला ने दिया भारतीय जनता पार्टी से इस्तीफा? X के अकाउंट में किया बदलाव",
+          "summary": "शहजाद पूनावाला ने अपने X अकाउंट में बदलाव किया है, जिससे उनके बीजेपी छोड़ने की अटकलें तेज हो गई हैं. भारतीय जनता पार्टी (बीजेपी) के राष्ट्रीय प्रवक्ता रहे शहजाद पूनावाला को लेकर राजनीतिक गलियारों में नई चर्चा शुरू हो गई है. सोशल मीडिया प्लेटफॉर्म X (पूर्व में ट्विटर) पर उनकी प्रोफाइल में हुए बदलाव के बाद उनके बीजेपी छोड़ने की अटकलें तेज हो गई हैं.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "MBBS के बाद अटका विदेश में डॉक्टरी का सपना, नहीं दे पा रहे USMLE-PLAB परीक्षा",
-      "url": "https://hindi.news18.com/news/career/education-why-indian-mbbs-graduates-cannot-take-usmle-plab-and-other-foreign-medical-licensing-exams-10704978.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-31T03:32:09+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Foreign-Medical-Licensing-Exams-2026-07-65942c6a612de139bbf514f37d7ff4d3-1200x800.jpg",
-      "summary": "भारतीय मेडिकल स्टूडेंट्स को विदेश में प्रैक्टिस के लिए USMLE और PLAB परीक्षाएं देनी होती हैं. लेकिन अंतर्राष्ट्रीय मान्यता की प्रक्रिया अटकने से वे इन परीक्षाओं में शामिल नहीं हो पा रहे हैं. इससे उनके विदेश में डॉक्टरी के सपने अधर में लटक गए हैं. Foreign Medical Licensing Exams: एमबीबीएस पूरा करने के बाद विदेश में प्रैक्टिस का सपना देख रहे हजारों भारतीय डॉक्टरों के सामने संकट की स्थिति आ गई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "MBBS के बाद अटका विदेश में डॉक्टरी का सपना, नहीं दे पा रहे USMLE-PLAB परीक्षा",
-          "summary": "भारतीय मेडिकल स्टूडेंट्स को विदेश में प्रैक्टिस के लिए USMLE और PLAB परीक्षाएं देनी होती हैं. लेकिन अंतर्राष्ट्रीय मान्यता की प्रक्रिया अटकने से वे इन परीक्षाओं में शामिल नहीं हो पा रहे हैं. इससे उनके विदेश में डॉक्टरी के सपने अधर में लटक गए हैं. Foreign Medical Licensing Exams: एमबीबीएस पूरा करने के बाद विदेश में प्रैक्टिस का सपना देख रहे हजारों भारतीय डॉक्टरों के सामने संकट की स्थिति आ गई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मोरक्को की सीमा तोड़कर स्पेन में घुसे हजारों प्रवासी: 18 की मौत, मचा हड़कंप; यूरोप के सामने खड़ा",
-      "url": "https://www.amarujala.com/world/ceuta-migrant-crisis-thousands-cross-morocco-border-enter-spain-amid-europe-migration-concerns-2026-07-31",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-31T03:29:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/marakaka-sayata-ma-ghasa-kaii-avathha-paravasa_580d527fcfeb92245d02f6377fb1ed62.gif?w=1200&dpr=1.0",
-      "summary": "मोरक्को की सीमा तोड़कर स्पेन में घुसे हजारों प्रवासी जिनमें अधिकांश सीरियाई और अफगानी थे। इस घटना में 18 लोगों की मौत हो गई और कई घायल हुए। स्पेन की सरकार ने आपातकालीन स्थिति की घोषणा की है और सीमा पर सुरक्षा बढ़ाई है। मोरक्को की सीमा तोड़कर स्पेन में घुसे हजारों प्रवासी: 18 की मौत, मचा हड़कंप; यूरोप के सामने खड़ा हुआ नया संकट?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मोरक्को की सीमा तोड़कर स्पेन में घुसे हजारों प्रवासी: 18 की मौत, मचा हड़कंप; यूरोप के सामने खड़ा",
-          "summary": "मोरक्को की सीमा तोड़कर स्पेन में घुसे हजारों प्रवासी जिनमें अधिकांश सीरियाई और अफगानी थे। इस घटना में 18 लोगों की मौत हो गई और कई घायल हुए। स्पेन की सरकार ने आपातकालीन स्थिति की घोषणा की है और सीमा पर सुरक्षा बढ़ाई है। मोरक्को की सीमा तोड़कर स्पेन में घुसे हजारों प्रवासी: 18 की मौत, मचा हड़कंप; यूरोप के सामने खड़ा हुआ नया संकट?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'ढह चुका है पाकिस्तान का सिस्टम': गृह मंत्री मोहसिन नकवी का कबूलनामा; क्यों कही यह बात?",
-      "url": "https://www.amarujala.com/world/pakistan-political-crisis-governance-collapse-mohsin-naqvi-statement-2026-07-31",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-07-31T03:27:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/mahasana-nakava-gaha-matara-pakasatana_7b5ddd76216aa775f302d65e94c59e42.jpeg?w=1200&dpr=1.0",
-      "summary": "पाकिस्तान के गृह मंत्री मोहसिन नकवी ने कहा कि देश का प्रशासनिक ढांचा टूट चुका है। उन्होंने कहा कि पाकिस्तान में कानून का शासन नहीं है। 'ढह चुका है पाकिस्तान का सिस्टम': गृह मंत्री मोहसिन नकवी का कबूलनामा; क्यों कही ये बात? 'ढह चुका है पाकिस्तान का सिस्टम': गृह मंत्री मोहसिन नकवी का कबूलनामा; क्यों कही यह बात?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ढह चुका है पाकिस्तान का सिस्टम': गृह मंत्री मोहसिन नकवी का कबूलनामा; क्यों कही यह बात?",
-          "summary": "पाकिस्तान के गृह मंत्री मोहसिन नकवी ने कहा कि देश का प्रशासनिक ढांचा टूट चुका है। उन्होंने कहा कि पाकिस्तान में कानून का शासन नहीं है। 'ढह चुका है पाकिस्तान का सिस्टम': गृह मंत्री मोहसिन नकवी का कबूलनामा; क्यों कही ये बात? 'ढह चुका है पाकिस्तान का सिस्टम': गृह मंत्री मोहसिन नकवी का कबूलनामा; क्यों कही यह बात?",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
