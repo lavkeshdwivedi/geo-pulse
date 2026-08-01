@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-01T00:41:44.418964+00:00",
+  "generated_at": "2026-08-01T01:38:44.146169+00:00",
   "article_count": 50,
-  "total_unique_count": 256,
+  "total_unique_count": 259,
   "digest": {
-    "en": "Ebola cases surge in the Democratic Republic of Congo, with the World Health Organization warning of a potential outbreak. Meanwhile, a US lawmaker is urging Taiwan to pass a drone bill, citing a rapidly shortening timeline. Strong El Niño conditions are also forecast in the Americas.",
-    "hi": "प्रधानमंत्री नरेंद्र मोदी ने पेपर लीक पर कड़े फैसले के बाद बच्चों को माफी तक युवाओं से बात की। उन्होंने कहा कि देश के लिए यह समय है कि हम एकजुट होकर काम करें। मोदी ने यह भी कहा कि देश के लिए यह समय है कि हम अपने बच्चों को सही मार्ग पर ले जाएं।"
+    "en": "Ebola outbreaks in the Democratic Republic of Congo and potential US strikes on Iran dominate headlines. Meanwhile, the European Union and Turkey are strengthening their defense ties. In Asia, Taiwan is under pressure to pass a drone bill as the US warns time is running out.",
+    "hi": "प्रधानमंत्री ने पेपर लीक पर कड़े फैसले से बच्चों को माफी तक युवाओं को क्या कहा? उन्होंने कहा कि यह फैसला देश की सुरक्षा के लिए जरूरी था, लेकिन यह भी सुनिश्चित किया जाएगा कि बच्चों को कोई नुकसान न हो।"
   },
   "articles": [
     {
@@ -28,6 +28,55 @@
       "image_url": "https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "White House signals Trump is weighing new strikes on Iran",
+      "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
+      "source": "The Hindu (International)",
+      "sources": [
+        {
+          "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://www.thehindu.com/news/international/white-house-signals-trump-is-weighing-new-strikes-on-iran/article71293383.ece",
+          "source": "The Hindu (International)"
+        },
+        {
+          "url": "https://www.thehindu.com/news/international/white-house-signals-trump-is-weighing-new-strikes-on-iran/article71293383.ece",
+          "source": "The Hindu (International)"
+        }
+      ],
+      "published_at": "2026-08-01T01:28:09+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/b8pcre/article71293384.ece/alternates/LANDSCAPE_1200/2026-07-31T205657Z_2000863873_RC28PMA31MLC_RTRMADP_3_USA-TRUMP.JPG",
+      "summary": "There were no U. S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones White House signals Trump is weighing new strikes on Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Is walking your dog enough? Inside Singapore's dog gym that's changing canine fitness",
+      "url": "https://www.channelnewsasia.com/living/barker-pooch-canine-fitness-singapore-dog-gym-6282816",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-08-01T00:38:18+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s---EejQ2jt--/c_crop,h_735,w_1307,x_3,y_118/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/29/barker_and_pooch_dog_on_treadmill_hero_credit_joyee_koo.jpg?itok=QkZ6RLYu",
+      "summary": "A gym for dogs? Not quite Hyrox-level training, but Barker & Pooch offers tailored fitness programmes for canines, using custom-built inclined treadmills, swim sessions and post-workout recovery to help them lead healthier, more active lives. Is walking your dog enough? Inside Singapore's dog gym that's changing canine fitness.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "What is behind the communal clashes in Nepal?",
+      "url": "https://www.thehindu.com/news/international/what-is-behind-the-communal-clashes-in-nepal/article71290614.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-07-31T22:25:58+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/trqn42/article71291940.ece/alternates/LANDSCAPE_1200/2026-07-30T162852Z_1485335708_RC2DOMADRGOK_RTRMADP_3_NEPAL-PROTESTS.JPG",
+      "summary": "A local dispute over religious celebrations has spiralled into wider unrest in Nepal’s southern plains, exposing growing polarisation, delayed government response and fears over the erosion of long-standing community ties; analysts warn the row reflects mounting challenges to Nepal’s tradition of coexistence What is behind the communal clashes in Nepal?",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -272,42 +321,6 @@
       "translations": {}
     },
     {
-      "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168047",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/22-06-2026-UNICEF-DR-Congo-ebola.jpg/image770x420cropped.jpg",
-      "summary": "The UN emergency food agency appealed for immediate funding on Wednesday, warning that deepening hunger is undermining the response to an Ebola outbreak in the Democratic Republic of the Congo (DRC) that has now infected more than 3,200 people. Hunger hampers Ebola response as cases top 3,200 in DR Congo.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168045",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/05-02-2026_OCHA_West_Bank.jpg/image770x420cropped.jpg",
-      "summary": "Violence in the occupied West Bank is worsening as the Israeli Government continues to approve new settlements, while settlers and Israeli security forces have “often” acted together to attack local Palestinian communities, the UN’s human rights office (OHCHR) warned on Wednesday. UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation'. Violence in the occupied West Bank is worsening as the Israeli Government continues to approve new settlements while settlers and Israeli security forces have “often” acted together to attack local Palestinian communities, the UN’s human rights office (OHCHR) warned on Wednesday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Stories of survival and loss emerge after Japan earthquake",
-      "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-29T09:08:57+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/b147767b372fa3c2b900ee756134ef45d94d079a/552_160_3105_2484/master/3105.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=658be2559b598a495723506c2247e7f0",
-      "summary": "Rescuers pulling people from the wreckage in southern Japan in a haunting repeat of disaster that struck 10 years ago‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing“There was a voice coming from the collapsed house, and I could see a hand,” Tomohide Nagata, a volunteer firefighter, told the Kumamoto Nichinichi Shimbun. “One of our senior members crawled in.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "पेपर लीक पर कड़े फैसले से गालियों पर बच्चों को माफी तक, युवाओं से क्या बोले प्रधानमंत्री?",
       "url": "https://www.amarujala.com/india-news/pm-modi-insta-videos-paper-leak-to-forgive-children-for-abusing-at-jantar-mantar-prime-minister-youth-connect-2026-08-01",
       "source": "Amar Ujala Breaking",
@@ -344,38 +357,218 @@
       }
     },
     {
-      "title": "बदलते जम्मू-कश्मीर को फिर डर के साये में दिखाने की कोशिश, विशेषज्ञों ने बताया साजिश",
-      "url": "https://www.amarujala.com/jammu/targeted-killing-attempt-to-cast-a-shadow-of-fear-over-a-changing-jammu-kashmir-experts-call-it-a-conspira-2026-08-01",
+      "title": "ईरान से जंग में ट्रंप के तेवर और उग्र, अमेरिकी सैन्य कार्रवाई पर नई रिपोर्ट में क्या?",
+      "url": "https://www.amarujala.com/live/world/west-asia-tension-live-updates-iran-us-war-trump-israel-reports-on-us-military-action-centcom-irgc-hormuz-news-2026-08-01",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-08-01T07:18:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/1_8a6469f4dcebdb3efa2f3302fc2f0fda.jpeg?w=1200&dpr=1.0",
-      "summary": "कुलगाम में प्रवासी मजदूर की टारगेट किलिंग को रक्षा मामलों के विशेषज्ञ आतंकियों की सोची-समझी रणनीति का हिस्सा मान रहे हैं। बदलते जम्मू-कश्मीर को फिर डर के साये में दिखाने की कोशिश, विशेषज्ञों ने बताया साजिश।",
+      "published_at": "2026-08-01T01:33:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/05/west-asia-crisis-live-us-iran-israel-war-us-army-irgc-turkiye-war-updates-and-news-in-hindi_34ff071661b77bc0a3c3bc30a50d9034.gif?w=1200&dpr=1.0",
+      "summary": "West Asia Tension LIVE: ईरान से जंग में ट्रंप के तेवर और उग्र, अमेरिकी सैन्य कार्रवाई पर नई रिपोर्ट में क्या?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान से जंग में ट्रंप के तेवर और उग्र, अमेरिकी सैन्य कार्रवाई पर नई रिपोर्ट में क्या?",
+          "summary": "West Asia Tension LIVE: ईरान से जंग में ट्रंप के तेवर और उग्र, अमेरिकी सैन्य कार्रवाई पर नई रिपोर्ट में क्या?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जंग के बीच रियल एस्टेट को 4 महीने की राहत देने की पहल; भारत-भूटान के बीच 4,000 करोड़ के ऋण समझौते",
+      "url": "https://www.amarujala.com/business/business-diary/business-update-housing-ministry-4-month-relief-rera-india-bhutan-4000-crore-loan-forex-gold-silver-crude-rate-2026-08-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-01T01:23:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/16/business-updates_5bd5a4d504c2ee303c82649060be7bf5.jpeg?w=1200&dpr=1.0",
+      "summary": "Biz Updates: जंग के बीच रियल एस्टेट को 4 महीने की राहत देने की पहल; भारत-भूटान के बीच 4,000 करोड़ के ऋण समझौते।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जंग के बीच रियल एस्टेट को 4 महीने की राहत देने की पहल; भारत-भूटान के बीच 4,000 करोड़ के ऋण समझौते",
+          "summary": "Biz Updates: जंग के बीच रियल एस्टेट को 4 महीने की राहत देने की पहल; भारत-भूटान के बीच 4,000 करोड़ के ऋण समझौते।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पश्चिमी घाट में नहीं लगेंगे नए उद्योग?: केंद्र का नया मसौदा, 3,000 गांव आएंगे दायरे में",
+      "url": "https://www.amarujala.com/india-news/centre-proposes-eco-sensitive-zone-in-western-ghats-draft-may-affect-around-3-000-villages-2026-08-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-01T01:22:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/pashacama-ghata-western-ghats_1de8cfeed32b7fe3725ebd67355bb409.jpeg?w=1200&dpr=1.0",
+      "summary": "केंद्र सरकार ने पश्चिमी घाट में एक新的 इको-सेंसिटिव जोन का मसौदा तैयार किया है, जिसमें लगभग 3,000 गांव शामिल होंगे। इस मसौदे के तहत नए उद्योग नहीं लगेंगे और खनन-टाउनशिप पर सख्ती होगी। पश्चिमी घाट में नहीं लगेंगे नए उद्योग?: केंद्र का नया मसौदा, 3,000 गांव आएंगे दायरे में।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बदलते जम्मू-कश्मीर को फिर डर के साये में दिखाने की कोशिश, विशेषज्ञों ने बताया साजिश",
-          "summary": "कुलगाम में प्रवासी मजदूर की टारगेट किलिंग को रक्षा मामलों के विशेषज्ञ आतंकियों की सोची-समझी रणनीति का हिस्सा मान रहे हैं। बदलते जम्मू-कश्मीर को फिर डर के साये में दिखाने की कोशिश, विशेषज्ञों ने बताया साजिश।",
+          "title": "पश्चिमी घाट में नहीं लगेंगे नए उद्योग?: केंद्र का नया मसौदा, 3,000 गांव आएंगे दायरे में",
+          "summary": "केंद्र सरकार ने पश्चिमी घाट में एक新的 इको-सेंसिटिव जोन का मसौदा तैयार किया है, जिसमें लगभग 3,000 गांव शामिल होंगे। इस मसौदे के तहत नए उद्योग नहीं लगेंगे और खनन-टाउनशिप पर सख्ती होगी। पश्चिमी घाट में नहीं लगेंगे नए उद्योग?: केंद्र का नया मसौदा, 3,000 गांव आएंगे दायरे में।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "मोरक्को छोड़ 50 हजार लोग स्पेन पहुंचे, 57 मौतों के बाद टूटा 'यूरोप का सपना', अब क्यों लौट रहे?",
+      "title": "AI को स्मार्ट बनाने की कैसी कीमत? सदियों पुरानी किताबें खरीदकर स्कैन कीं, फिर कर दीं नष्ट",
+      "url": "https://www.amarujala.com/world/ai-companies-accused-of-destroying-rare-books-after-scanning-to-train-artificial-intelligence-models-2026-08-01",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-01T01:22:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/eaaii-kapanaya-ka-sajashatharalbha-katab-ka-ja-raha-nashhata_402d13d6eaa0152bb530f6fd30ee0399.jpeg?w=1200&dpr=1.0",
+      "summary": "कुछ कंपनियों ने पुरानी किताबें खरीदकर स्कैन कीं और फिर उन्हें नष्ट कर दिया। यह किताबें सदियों पुरानी थीं और उनका उपयोग आर्टिफिशियल इंटेलिजेंस मॉडल्स को ट्रेन करने के लिए किया गया था। इस मामले में कंपनियों की कार्रवाई की आलोचना हो रही है। सांस्कृतिक बर्बरता: AI को स्मार्ट बनाने की कैसी कीमत? सदियों पुरानी किताबें खरीदकर स्कैन कीं, फिर कर दीं नष्ट।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "AI को स्मार्ट बनाने की कैसी कीमत? सदियों पुरानी किताबें खरीदकर स्कैन कीं, फिर कर दीं नष्ट",
+          "summary": "कुछ कंपनियों ने पुरानी किताबें खरीदकर स्कैन कीं और फिर उन्हें नष्ट कर दिया। यह किताबें सदियों पुरानी थीं और उनका उपयोग आर्टिफिशियल इंटेलिजेंस मॉडल्स को ट्रेन करने के लिए किया गया था। इस मामले में कंपनियों की कार्रवाई की आलोचना हो रही है। सांस्कृतिक बर्बरता: AI को स्मार्ट बनाने की कैसी कीमत? सदियों पुरानी किताबें खरीदकर स्कैन कीं, फिर कर दीं नष्ट।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमित शाह के पुणे दौरे से पहले गरमाई सियासत, कांग्रेस की चेतावनी पर पुलिस सतर्क",
+      "url": "https://www.amarujala.com/india-news/maharashtra-hindi-updates-amit-shah-pune-visit-congress-mumbai-nagpur-education-politics-crime-and-other-news-2026-08-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-01T01:18:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=1200&dpr=1.0",
+      "summary": "महाराष्ट्र पुलिस ने अमित शाह के पुणे दौरे से पहले सियासत में गरमाहट के बाद सतर्कता बढ़ा दी है। कांग्रेस की चेतावनी के बाद पुलिस ने सुरक्षा के पुख्ता इंतजाम किए हैं। Maharashtra: अमित शाह के पुणे दौरे से पहले गरमाई सियासत, कांग्रेस की चेतावनी पर पुलिस सतर्क।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमित शाह के पुणे दौरे से पहले गरमाई सियासत, कांग्रेस की चेतावनी पर पुलिस सतर्क",
+          "summary": "महाराष्ट्र पुलिस ने अमित शाह के पुणे दौरे से पहले सियासत में गरमाहट के बाद सतर्कता बढ़ा दी है। कांग्रेस की चेतावनी के बाद पुलिस ने सुरक्षा के पुख्ता इंतजाम किए हैं। Maharashtra: अमित शाह के पुणे दौरे से पहले गरमाई सियासत, कांग्रेस की चेतावनी पर पुलिस सतर्क।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मोरक्को छोड़ 50 हजार लोग पहुंचे थे स्पेन, 57 मौतों ने तोड़ा 'यूरोप का सपना', अब लौटने की क्यों आई",
       "url": "https://hindi.news18.com/world/rest-of-world-morocco-spain-ceuta-migrant-crisis-57-dead-50000-cross-border-now-returning-10707686.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-01T00:41:24+00:00",
+      "published_at": "2026-08-01T01:08:26+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/spain-migrant-crisis-1-2026-08-b452a2c45effbc37ad49c6738abf39e7-1200x800.jpg",
       "summary": "Spain Morocco Migration: मोरक्को से स्पेन के सियुटा शहर में इस सप्ताह करीब 50 हजार लोगों ने सीमा पार करने की कोशिश की, जिसमें कम से कम 57 लोगों की मौत हो गई. बेरोजगारी, स्पेन की अदालत के हालिया फैसले और सोशल मीडिया पर फैली अफवाहों ने इस संकट को और बढ़ा दिया. लेकिन अब लोग लौटने के लिए मजबूर हो गए हैं.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मोरक्को छोड़ 50 हजार लोग स्पेन पहुंचे, 57 मौतों के बाद टूटा 'यूरोप का सपना', अब क्यों लौट रहे?",
+          "title": "मोरक्को छोड़ 50 हजार लोग पहुंचे थे स्पेन, 57 मौतों ने तोड़ा 'यूरोप का सपना', अब लौटने की क्यों आई",
           "summary": "Spain Morocco Migration: मोरक्को से स्पेन के सियुटा शहर में इस सप्ताह करीब 50 हजार लोगों ने सीमा पार करने की कोशिश की, जिसमें कम से कम 57 लोगों की मौत हो गई. बेरोजगारी, स्पेन की अदालत के हालिया फैसले और सोशल मीडिया पर फैली अफवाहों ने इस संकट को और बढ़ा दिया. लेकिन अब लोग लौटने के लिए मजबूर हो गए हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "संसद मार्च के दौरान हिंसा में घायल पुलिस परिजनों का छलका दर्द, बोले- इंसाफ हमें भी चाहिए",
+      "url": "https://www.amarujala.com/delhi-ncr/families-of-police-personnel-injured-in-violence-during-the-parliament-march-voice-their-anguish-2026-08-01",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-01T01:07:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/1_080fa37eaf02ffa9b603291cb52928b2.jpeg?w=1200&dpr=1.0",
+      "summary": "भारतीय पुलिसकर्मियों के परिवारों ने संसद मार्च के दौरान हिंसा में घायल होने के बाद मोर्चा खोल दिया है। वे इंसाफ की मांग कर रहे हैं। पुलिसकर्मियों के परिवारों ने अपनी पीड़ा को व्यक्त किया है। संसद मार्च के दौरान 20 जुलाई को हिंसा में घायल पुलिसवालों के परिवारों ने भी मोर्चा खोल दिया है। संसद मार्च के दौरान हिंसा में घायल पुलिस परिजनों का छलका दर्द, बोले- इंसाफ हमें भी चाहिए।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संसद मार्च के दौरान हिंसा में घायल पुलिस परिजनों का छलका दर्द, बोले- इंसाफ हमें भी चाहिए",
+          "summary": "भारतीय पुलिसकर्मियों के परिवारों ने संसद मार्च के दौरान हिंसा में घायल होने के बाद मोर्चा खोल दिया है। वे इंसाफ की मांग कर रहे हैं। पुलिसकर्मियों के परिवारों ने अपनी पीड़ा को व्यक्त किया है। संसद मार्च के दौरान 20 जुलाई को हिंसा में घायल पुलिसवालों के परिवारों ने भी मोर्चा खोल दिया है। संसद मार्च के दौरान हिंसा में घायल पुलिस परिजनों का छलका दर्द, बोले- इंसाफ हमें भी चाहिए।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "न चर्चा, न बहस... तीन मिनट में लोकसभा से पास हुआ जन्म-मृत्यु संशोधन विधेयक, सत्ता-विपक्ष आमने-सामने",
+      "url": "https://www.amarujala.com/india-news/birth-and-death-registration-amendment-bill-passed-in-lok-sabha-without-debate-amid-opposition-uproar-2026-08-01",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-01T00:54:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/parliament_63cb7a6bfcf2d748df9d47c78035e07a.jpeg?w=1200&dpr=1.0",
+      "summary": "भारतीय संसद में जन्म-मृत्यु संशोधन विधेयक को तीन मिनट में पारित कर दिया गया। सत्ता और विपक्ष के बीच विवाद हुआ, लेकिन विधेयक को पारित कर दिया गया। संसद: न चर्चा, न बहस तीन मिनट में लोकसभा से पास हुआ जन्म-मृत्यु संशोधन विधेयक, सत्ता-विपक्ष आमने-सामने।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "न चर्चा, न बहस... तीन मिनट में लोकसभा से पास हुआ जन्म-मृत्यु संशोधन विधेयक, सत्ता-विपक्ष आमने-सामने",
+          "summary": "भारतीय संसद में जन्म-मृत्यु संशोधन विधेयक को तीन मिनट में पारित कर दिया गया। सत्ता और विपक्ष के बीच विवाद हुआ, लेकिन विधेयक को पारित कर दिया गया। संसद: न चर्चा, न बहस तीन मिनट में लोकसभा से पास हुआ जन्म-मृत्यु संशोधन विधेयक, सत्ता-विपक्ष आमने-सामने।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आज से बदल रहे कई बड़े नियम, जानें क्या-क्या होने जा रहे हैं बदलाव और क्या आपकी जेब पर पड़ेगा असर?",
+      "url": "https://www.amarujala.com/photo-gallery/utility/rules-change-from-1-august-2026-lpg-railways-banking-itr-and-ckyc-new-rules-from-august-2026-2026-08-01",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-01T00:50:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/1-agasata-sa-kana-kana-sa-nayama-lga-hae-ha_b72b9c14e419d4c0ada64c59d7f0cff1.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत में 1 अगस्त 2026 से कई बड़े नियम बदलने जा रहे हैं। ये बदलाव आपकी जेब पर असर डाल सकते हैं। आप इन बदलावों के बारे में जान सकते हैं। आज यानी 1 अगस्त 2026 से कई बड़े बदलाव होने जा रहे हैं जिनकी सीधा असर आपकी जेब पर पड़ता हुआ नजर आ सकता है। आप इस रिपोर्ट में आज से बदलने वाले नियमों के बारे में जान सकते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज से बदल रहे कई बड़े नियम, जानें क्या-क्या होने जा रहे हैं बदलाव और क्या आपकी जेब पर पड़ेगा असर?",
+          "summary": "भारत में 1 अगस्त 2026 से कई बड़े नियम बदलने जा रहे हैं। ये बदलाव आपकी जेब पर असर डाल सकते हैं। आप इन बदलावों के बारे में जान सकते हैं। आज यानी 1 अगस्त 2026 से कई बड़े बदलाव होने जा रहे हैं जिनकी सीधा असर आपकी जेब पर पड़ता हुआ नजर आ सकता है। आप इस रिपोर्ट में आज से बदलने वाले नियमों के बारे में जान सकते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मानसून की चाल क्यों हुई सुस्त?: दिल्ली में बारिश का इंतजार, अगस्त-सितंबर में भी सामान्य से कम बरसात",
+      "url": "https://www.amarujala.com/india-news/monsoon-takes-a-u-turn-delhi-awaits-rain-as-imd-predicts-below-normal-rainfall-in-august-september-2026-08-01",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-01T00:49:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/weather-in-up_7412347540a4016795e788324f14cb8c.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत में मानसून की चाल सुस्त हो गई है। दिल्ली में बारिश का इंतजार है, लेकिन अगस्त-सितंबर में भी सामान्य से कम बरसात के संकेत हैं। मानसून की चाल क्यों हुई सुस्त?: दिल्ली में बारिश का इंतजार, अगस्त-सितंबर में भी सामान्य से कम बरसात।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मानसून की चाल क्यों हुई सुस्त?: दिल्ली में बारिश का इंतजार, अगस्त-सितंबर में भी सामान्य से कम बरसात",
+          "summary": "भारत में मानसून की चाल सुस्त हो गई है। दिल्ली में बारिश का इंतजार है, लेकिन अगस्त-सितंबर में भी सामान्य से कम बरसात के संकेत हैं। मानसून की चाल क्यों हुई सुस्त?: दिल्ली में बारिश का इंतजार, अगस्त-सितंबर में भी सामान्य से कम बरसात।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "40°C में भी नहीं जमेगा यह डीजल, क्या है एक्सट्रीम वेदर ग्रेड फ्यूल और क्यों है खास?",
+      "url": "https://www.amarujala.com/india-news/this-diesel-won-t-freeze-even-at-minus-40-c-what-is-extreme-weather-grade-fuel-and-why-is-it-special-2026-07-31",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-01T00:41:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/raya-ka-ekasapalnara_0baeee8c5805072c068016e9b08cfac8.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत में एक्सट्रीम वेदर ग्रेड फ्यूल का उपयोग किया जा रहा है। यह डीजल -40°C में भी जम नहीं सकता है। इसके कारण और उपयोग के बारे में जानकारी है। Explainer: -40°C में भी नहीं जमेगा यह डीजल, क्या है एक्सट्रीम वेदर ग्रेड फ्यूल और क्यों है खास?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "40°C में भी नहीं जमेगा यह डीजल, क्या है एक्सट्रीम वेदर ग्रेड फ्यूल और क्यों है खास?",
+          "summary": "भारत में एक्सट्रीम वेदर ग्रेड फ्यूल का उपयोग किया जा रहा है। यह डीजल -40°C में भी जम नहीं सकता है। इसके कारण और उपयोग के बारे में जानकारी है। Explainer: -40°C में भी नहीं जमेगा यह डीजल, क्या है एक्सट्रीम वेदर ग्रेड फ्यूल और क्यों है खास?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कोलकाता में तसलीमा का कार्यक्रम क्यों खास? 19 साल पहले हुए निर्वासन और विवादों की पूरी कहानी क्या?",
+      "url": "https://www.amarujala.com/india-news/taslima-nasrin-s-return-to-kolkata-exile-controversy-and-comeback-2026-07-31",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-01T00:41:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/tasalma-nasarana_9ff0b264aa074567e2602962b952c1e0.jpeg?w=1200&dpr=1.0",
+      "summary": "तसलीमा नसरीन का कोलकाता में आयोजित कार्यक्रम 19 साल पहले हुए निर्वासन के बाद हुआ है। उनका निर्वासन पाकिस्तानी सरकार द्वारा किया गया था जिसने उन पर ब्लास्फेमी का आरोप लगाया था। Explainer: कोलकाता में तसलीमा का कार्यक्रम क्यों खास? 19 साल पहले हुए निर्वासन और विवादों की पूरी कहानी क्या?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कोलकाता में तसलीमा का कार्यक्रम क्यों खास? 19 साल पहले हुए निर्वासन और विवादों की पूरी कहानी क्या?",
+          "summary": "तसलीमा नसरीन का कोलकाता में आयोजित कार्यक्रम 19 साल पहले हुए निर्वासन के बाद हुआ है। उनका निर्वासन पाकिस्तानी सरकार द्वारा किया गया था जिसने उन पर ब्लास्फेमी का आरोप लगाया था। Explainer: कोलकाता में तसलीमा का कार्यक्रम क्यों खास? 19 साल पहले हुए निर्वासन और विवादों की पूरी कहानी क्या?",
+          "region": "अमेरिका"
         }
       }
     },
@@ -526,7 +719,7 @@
     {
       "title": "पीएम मोदी ने गाली देने वाले बच्चों को माफ किया; CWG में तेजस्विन ने रचा इतिहास, भारत को अब तक 23 पदक",
       "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-01-august-2026-updates-on-amar-ujala-2026-08-01",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-08-01T00:09:19+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
@@ -574,186 +767,6 @@
           "title": "गुरुग्राम और जयपुर के बीच चला रहे हैं गाड़ी, टोल से जुड़ा बड़ा बदलाव आज से लागू, क्या असर होगा?",
           "summary": "गुरुग्राम और जयपुर के बीच चला रहे हैं गाड़ी, टोल से जुड़ा बड़ा बदलाव आज से लागू हो गया है। अब गाड़ियों को मुफ्त में गुजरने की अनुमति है, लेकिन टोल टैक्स के नियम बदल गए हैं। एक अगस्त से टोल से जुड़ा हो रहा है बड़ा बदलाव। गुरुग्राम और जयपुर के बीच चला रहे हैं गाड़ी, टोल से जुड़ा बड़ा बदलाव आज से लागू, क्या असर होगा?",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रूस-यूक्रेन टकराव कब थमेगा; जेलेंस्की ट्रंप से क्या बोले, दोनों के बीच मस्क का जिक्र कैसे?",
-      "url": "https://www.amarujala.com/world/zelenskyy-seeks-trump-help-to-secure-elon-mus-approval-for-starlink-use-in-strikes-inside-russia-2026-08-01",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-31T23:26:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/zelenskyy-starlink-donald-trump-ukraine_de9b027281282ce9f9ac4e8e9bddc7bf.jpeg?w=1200&dpr=1.0",
-      "summary": "रूस-यूक्रेन टकराव के समाधान के लिए जेलेंस्की ने ट्रंप से मदद मांगी है। उन्होंने ट्रंप से स्टारलिंक के उपयोग के लिए एलोन मस्क की मंजूरी प्राप्त करने के लिए कहा है। रूस-यूक्रेन टकराव कब थमेगा; जेलेंस्की ट्रंप से क्या बोले, दोनों के बीच मस्क का जिक्र कैसे?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस-यूक्रेन टकराव कब थमेगा; जेलेंस्की ट्रंप से क्या बोले, दोनों के बीच मस्क का जिक्र कैसे?",
-          "summary": "रूस-यूक्रेन टकराव के समाधान के लिए जेलेंस्की ने ट्रंप से मदद मांगी है। उन्होंने ट्रंप से स्टारलिंक के उपयोग के लिए एलोन मस्क की मंजूरी प्राप्त करने के लिए कहा है। रूस-यूक्रेन टकराव कब थमेगा; जेलेंस्की ट्रंप से क्या बोले, दोनों के बीच मस्क का जिक्र कैसे?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "अब अपनी जनता पर ड्रोन फोड़ रहा पाकिस्तान, बलूचिस्तान में असिम मुनीर की तानाशाही",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-drones-attack-own-people-asim-munir-triggers-massive-war-and-air-strikes-in-balochistan-10707662.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-31T22:55:25+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Asim-Munir-Abuse-Minorities-2026-06-86c0e0b0b16ff4e5e072465ded1d5442-1200x800.jpg",
-      "summary": "पाकिस्तानी सेना प्रमुख असिम मुनीर बलूचिस्तान और PoK में बर्बरता की हद पार कर चुके हैं. पहले इंटरनेट बंद करके नरसंहार किया गया. अब ‘फेल्ड मार्शल’ अपनी ही जनता पर ड्रोन अटैक करवा रहे हैं. शुक्रवार को बलूचिस्तान के खुजदार में एक रिहाइशी घर पर ड्रोन से मिसाइल दागी गई. इस हमले के बाद जो मंजर सामने आया है, इसे देखकर हर किसी की रूह कांप गई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब अपनी जनता पर ड्रोन फोड़ रहा पाकिस्तान, बलूचिस्तान में असिम मुनीर की तानाशाही",
-          "summary": "पाकिस्तानी सेना प्रमुख असिम मुनीर बलूचिस्तान और PoK में बर्बरता की हद पार कर चुके हैं. पहले इंटरनेट बंद करके नरसंहार किया गया. अब ‘फेल्ड मार्शल’ अपनी ही जनता पर ड्रोन अटैक करवा रहे हैं. शुक्रवार को बलूचिस्तान के खुजदार में एक रिहाइशी घर पर ड्रोन से मिसाइल दागी गई. इस हमले के बाद जो मंजर सामने आया है, इसे देखकर हर किसी की रूह कांप गई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बचपन की मिठास तय करती है बुढ़ापे की याददाश्त",
-      "url": "https://www.patrika.com/world-news/sweetness-of-childhood-determines-memory-of-old-age-20794915",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-31T22:40:48+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/old-man-and-child.webp",
-      "summary": "बचपन में कम चीनी खाने से बुढ़ापे में याददाश्त मजबूत रहने की संभावना है। एक रिसर्च में यह पाया गया है कि गर्भावस्था से लेकर दो साल की उम्र तक कम चीनी खाने से दिमाग को स्वस्थ रहने में मदद मिल सकती है। बच्चों को शुरुआती उम्र में ज़्यादा मीठा नहीं खिलाने की सलाह अक्सर दांतों और मोटापे के खतरे को देखते हुए दी जाती है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बचपन की मिठास तय करती है बुढ़ापे की याददाश्त",
-          "summary": "बचपन में कम चीनी खाने से बुढ़ापे में याददाश्त मजबूत रहने की संभावना है। एक रिसर्च में यह पाया गया है कि गर्भावस्था से लेकर दो साल की उम्र तक कम चीनी खाने से दिमाग को स्वस्थ रहने में मदद मिल सकती है। बच्चों को शुरुआती उम्र में ज़्यादा मीठा नहीं खिलाने की सलाह अक्सर दांतों और मोटापे के खतरे को देखते हुए दी जाती है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अलर्ट पर पाकिस्तानी सेना, इस साल किए 40 हज़ार से ज़्यादा सैन्य ऑपरेशन्स",
-      "url": "https://www.patrika.com/world-news/pakistan-military-conducts-over-40000-operation-in-2026-20794907",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-31T22:18:18+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/02/pakistan_army.webp",
-      "summary": "पाकिस्तानी सेना अलर्ट पर है, जिन्होंने इस साल 40 हजार से अधिक सैन्य ऑपरेशन्स किए हैं। पाकिस्तान में आतंकवाद की समस्या बढ़ रही है, जिससे सेना को सतर्क रहना पड़ रहा है। पाकिस्तान (Pakistan) लंबे समय से आतंकवाद (Terrorism) का हॉटस्पॉट रहा है। पाकिस्तान में न सिर्फ दुनियाभर के आतंकियों को पनाह दे जाती रही है बल्कि बड़ी संख्या में आतंकी तैयार भी किए जाते हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अलर्ट पर पाकिस्तानी सेना, इस साल किए 40 हज़ार से ज़्यादा सैन्य ऑपरेशन्स",
-          "summary": "पाकिस्तानी सेना अलर्ट पर है, जिन्होंने इस साल 40 हजार से अधिक सैन्य ऑपरेशन्स किए हैं। पाकिस्तान में आतंकवाद की समस्या बढ़ रही है, जिससे सेना को सतर्क रहना पड़ रहा है। पाकिस्तान (Pakistan) लंबे समय से आतंकवाद (Terrorism) का हॉटस्पॉट रहा है। पाकिस्तान में न सिर्फ दुनियाभर के आतंकियों को पनाह दे जाती रही है बल्कि बड़ी संख्या में आतंकी तैयार भी किए जाते हैं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आतंकियों ने नाम पूछकर मारी गोली, टीआरएफ ने ली जिम्मेदारी; 10 दिन में दूसरी बड़ी घटना",
-      "url": "https://www.amarujala.com/jammu/kashmir-targeted-killing-trf-claims-responsibility-for-the-attack-2026-08-01",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-07-31T20:38:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/1_fe0e7afc1e1d6f6b2351cdee0381f721.jpeg?w=1200&dpr=1.0",
-      "summary": "दक्षिण कश्मीर के कुलगाम जिले में शुक्रवार देर शाम आतंकियों ने एक बार फिर अपनी पुरानी टारगेट किलिंग वाली मोडस ऑपरेंडी अपनाते हुए निर्दोष प्रवासी मजदूरों को निशाना बनाया। आतंकियों ने नाम पूछकर मारी गोली, टीआरएफ ने ली जिम्मेदारी; 10 दिन में दूसरी बड़ी घटना।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आतंकियों ने नाम पूछकर मारी गोली, टीआरएफ ने ली जिम्मेदारी; 10 दिन में दूसरी बड़ी घटना",
-          "summary": "दक्षिण कश्मीर के कुलगाम जिले में शुक्रवार देर शाम आतंकियों ने एक बार फिर अपनी पुरानी टारगेट किलिंग वाली मोडस ऑपरेंडी अपनाते हुए निर्दोष प्रवासी मजदूरों को निशाना बनाया। आतंकियों ने नाम पूछकर मारी गोली, टीआरएफ ने ली जिम्मेदारी; 10 दिन में दूसरी बड़ी घटना।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारतीय विदेश मंत्री एस. जयशंकर ने की ईरानी विदेश मंत्री अब्बास अराघची से फोन पर बात, की जहाजों और",
-      "url": "https://www.patrika.com/world-news/india-external-affairs-minister-s-jaishankar-talks-to-iran-foreign-minister-abbas-araghchi-20794781",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-07-31T20:37:55+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/jaishankar-with-araghchi.webp",
-      "summary": "अमेरिका (United States of America) और ईरान (Iran) के बीच एक बार फिर तनाव बढ़ गया है। दोनों देशों के एक-दूसरे के ठिकानों पर हमलों की वजह से मिडिल ईस्ट में स्थिति गंभीर हो गई है। होर्मुज स्ट्रेट (Strait of Hormuz) को भी बंद रखा गया है, जिसका असर कई देशों पर पड़ रहा है। इस जलमार्ग में जहाजों पर हमलों के मामले भी देखने को मिले हैं, जिनमें भारत (India) के नाविकों को भी निशाना बनाया गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतीय विदेश मंत्री एस. जयशंकर ने की ईरानी विदेश मंत्री अब्बास अराघची से फोन पर बात, की जहाजों और",
-          "summary": "अमेरिका (United States of America) और ईरान (Iran) के बीच एक बार फिर तनाव बढ़ गया है। दोनों देशों के एक-दूसरे के ठिकानों पर हमलों की वजह से मिडिल ईस्ट में स्थिति गंभीर हो गई है। होर्मुज स्ट्रेट (Strait of Hormuz) को भी बंद रखा गया है, जिसका असर कई देशों पर पड़ रहा है। इस जलमार्ग में जहाजों पर हमलों के मामले भी देखने को मिले हैं, जिनमें भारत (India) के नाविकों को भी निशाना बनाया गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अफ्रीका में है ये शहर, लेकिन हिस्सा स्पेन का! जानिए स्यूटा सिटी के बारे में जहां एक दिन में घुस 50",
-      "url": "https://hindi.news18.com/world/europe-spain-know-about-ceuta-city-where-50-thousand-foreigners-entered-in-a-day-10707589.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-07-31T18:53:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Ceuta-Reuters-1-2026-08-476339c28d619ab33e925bfea626626e-1200x800.jpg",
-      "summary": "अगर आप स्यूटा को नक्शे पर देखेंगे तो हैरान रह जाएंगे. यह शहर भौगोलिक रूप से पूरी तरह उत्तरी अफ्रीका के मोरक्को तट पर बसा है, लेकिन इस पर पूरा राजनीतिक और प्रशासनिक कब्जा स्पेन का है. जिब्राल्टर के पास भूमध्य सागर के मुहाने पर स्थित यह शहर स्पेन का स्वायत्त हिस्सा है. इसी वजह से यह यूरोपीय संघ में भी शामिल है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अफ्रीका में है ये शहर, लेकिन हिस्सा स्पेन का! जानिए स्यूटा सिटी के बारे में जहां एक दिन में घुस 50",
-          "summary": "अगर आप स्यूटा को नक्शे पर देखेंगे तो हैरान रह जाएंगे. यह शहर भौगोलिक रूप से पूरी तरह उत्तरी अफ्रीका के मोरक्को तट पर बसा है, लेकिन इस पर पूरा राजनीतिक और प्रशासनिक कब्जा स्पेन का है. जिब्राल्टर के पास भूमध्य सागर के मुहाने पर स्थित यह शहर स्पेन का स्वायत्त हिस्सा है. इसी वजह से यह यूरोपीय संघ में भी शामिल है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तमिलनाडु में संगठन को धार देने उतरेंगे राहुल गांधी, 74 जिला अध्यक्षों के साथ करेंगे मंथन",
-      "url": "https://www.abplive.com/news/india/rahul-gandhi-tamil-nadu-visit-74-district-presidents-strengthen-congress-ann-3168686",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-31T18:43:15+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/01/3834157b842cb18b909065d3445511541785523330720708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कांग्रेस के 'संगठन सृजन' अभियान के तहत लोकसभा में विपक्ष के नेता राहुल गांधी शनिवार (1 अगस्त 2026) को तमिलनाडु के महाबलीपुरम में पार्टी संगठन की बड़ी बैठक करेंगे. सूत्रों के मुताबिक, सुबह 10:30 बजे होने वाली इस बैठक में राहुल गांधी तमिलनाडु के 74 जिला अध्यक्षों के साथ संगठन को बूथ स्तर तक मजबूत करने की रणनीति पर विस्तार से चर्चा करेंगे.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तमिलनाडु में संगठन को धार देने उतरेंगे राहुल गांधी, 74 जिला अध्यक्षों के साथ करेंगे मंथन",
-          "summary": "कांग्रेस के 'संगठन सृजन' अभियान के तहत लोकसभा में विपक्ष के नेता राहुल गांधी शनिवार (1 अगस्त 2026) को तमिलनाडु के महाबलीपुरम में पार्टी संगठन की बड़ी बैठक करेंगे. सूत्रों के मुताबिक, सुबह 10:30 बजे होने वाली इस बैठक में राहुल गांधी तमिलनाडु के 74 जिला अध्यक्षों के साथ संगठन को बूथ स्तर तक मजबूत करने की रणनीति पर विस्तार से चर्चा करेंगे.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारतीय सेना की LoC पर कार्रवाई, पाक के जासूसी ड्रोन को मार गिराया",
-      "url": "https://www.abplive.com/news/india/indian-army-action-at-loc-pakistani-spy-drone-shot-down-3168693",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-31T18:10:37+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/29319e46cbe44c6da632fbebe5467ad517855210364881324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "जम्मू के खौड़ सेक्टर में भारतीय सेना ने पाकिस्तान की एक बड़ी जासूसी कोशिश को नाकाम किया है. सेना ने एक संदिग्ध सर्विलांस ड्रोन को मार गिराया. सेना के सूत्रों के अनुसार, यह ड्रोन भारतीय सैन्य ठिकानों के बेहद करीब उड़ान भर रहा था. इसके बाद उसे तत्काल कार्रवाई करते हुए डिएक्टिवेट कर दिया गया. पाकिस्तानी ड्रोन को सेना के अहम ठिकानों के पास मंडराते हुए देखा गया था. इसके बाद सेना ने इसे मार गिराया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतीय सेना की LoC पर कार्रवाई, पाक के जासूसी ड्रोन को मार गिराया",
-          "summary": "जम्मू के खौड़ सेक्टर में भारतीय सेना ने पाकिस्तान की एक बड़ी जासूसी कोशिश को नाकाम किया है. सेना ने एक संदिग्ध सर्विलांस ड्रोन को मार गिराया. सेना के सूत्रों के अनुसार, यह ड्रोन भारतीय सैन्य ठिकानों के बेहद करीब उड़ान भर रहा था. इसके बाद उसे तत्काल कार्रवाई करते हुए डिएक्टिवेट कर दिया गया. पाकिस्तानी ड्रोन को सेना के अहम ठिकानों के पास मंडराते हुए देखा गया था. इसके बाद सेना ने इसे मार गिराया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "छात्रों पर दर्ज FIR को लेकर IYC ने निकाला मार्च, अमित शाह पर निशाना",
-      "url": "https://www.abplive.com/news/india/indian-youth-congress-conducts-protest-march-against-home-minister-amit-shah-after-fir-filed-on-students-ann-3168687",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-07-31T18:05:20+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/ee5123ad996497a9439ce68caf45318317855200956571126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारतीय युवा कांग्रेस ने दिल्ली में विरोध मार्च निकाला. केंद्रीय गृह मंत्री अमित शाह के इस्तीफे की मांग की गई. छात्र नेता रुचिका सिंह के खिलाफ FIR दर्ज की गई थी. छात्रों पर दर्ज FIR को लेकर देश की सियासत गरमा गई है. भारतीय युवा कांग्रेस (IYC) शुक्रवार (31 जुलाई, 2026) को दिल्ली की सड़कों पर उतर आई और केंद्रीय गृह मंत्री अमित शाह के इस्तीफे की मांग करते हुए विरोध मार्च निकाला.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "छात्रों पर दर्ज FIR को लेकर IYC ने निकाला मार्च, अमित शाह पर निशाना",
-          "summary": "भारतीय युवा कांग्रेस ने दिल्ली में विरोध मार्च निकाला. केंद्रीय गृह मंत्री अमित शाह के इस्तीफे की मांग की गई. छात्र नेता रुचिका सिंह के खिलाफ FIR दर्ज की गई थी. छात्रों पर दर्ज FIR को लेकर देश की सियासत गरमा गई है. भारतीय युवा कांग्रेस (IYC) शुक्रवार (31 जुलाई, 2026) को दिल्ली की सड़कों पर उतर आई और केंद्रीय गृह मंत्री अमित शाह के इस्तीफे की मांग करते हुए विरोध मार्च निकाला.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
