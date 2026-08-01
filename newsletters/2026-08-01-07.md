@@ -1,25 +1,65 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** August 01, 2026 12:25 IST
+**Updated:** August 01, 2026 13:18 IST
+
+---
+
+## Europe & Russia
+
+### [10-Year-Old Ukrainian Gymnast Wins Gold After Losing Leg In Russian Strike](https://www.rferl.org/a/ukrainian-gymnast-wins-gold-after-losing-leg-in-russian-strike/33819012.html)
+*Radio Free Europe / Liberty* - Aug 01, 12:51 IST (iso: 2026-08-01T07:21:28+00:00)
+<!-- image: https://gdb.rferl.org/a2ad9c1b-0c50-4485-8177-08decad17715_cx0_cy5_cw0_w1200_h630.png -->
+
+In 2022, Oleksandra Paskal lost her leg following a Russian missile strike on Ukraine’s Odesa region. She was just six years old. Following months of intense rehabilitation, she learned to walk with a prosthesis -- and made a remarkable return to rhythmic gymnastics. 10-Year-Old Ukrainian Gymnast Wins Gold After Losing Leg In Russian Strike.
+
+### [Patriot Debate Deepens As Bacon Questions Trump Shift, Senate Moves On Ukraine Arms](https://www.rferl.org/a/patriot-missile-trump-bacon-republicans-ukraine-zelenskyy/33819653.html)
+*Radio Free Europe / Liberty* - Aug 01, 10:11 IST (iso: 2026-08-01T04:41:57+00:00)
+<!-- image: https://gdb.rferl.org/eb7ace19-3d0e-4f3d-9d76-65171292ff0a_cx0_cy6_cw0_w1200_h630.jpg -->
+
+US President Donald Trump's decision to step back from his earlier pledge to allow Ukraine to manufacture Patriot missile interceptors has prompted renewed debate in Washington over the future direction of US military support for Kyiv. Patriot Debate Deepens As Bacon Questions Trump Shift, Senate Moves On Ukraine Arms.
+
+### [A weak German economy, a weaker chancellor](https://asiatimes.com/2026/07/a-weak-german-economy-a-weaker-chancellor/)
+*Asia Times* - Jul 31, 16:04 IST (iso: 2026-07-31T10:34:22+00:00)
+<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2024/03/GRRM-LOGO-1-1-1-1-1-1-1.webp?fit=700%2C286&ssl=1 -->
+
+Subscribe now with a one-month trial for only $1, then enjoy the first year at an exclusive rate of just $99. Merz loses political control as Berlin’s troubles spreadDiego Faßnacht reports that Friedrich Merz’s botched personnel reset has deepened doubts about his authority just as Germany’s industrial weakness spreads into municipal finances and regional property values. [] The post A weak Germa.
+
+### [Trump Says US Should Be 'Careful' About Granting Kyiv Patriot License Despite Zelenskyy Pleas](https://www.rferl.org/a/ukraine-russia-drone-attack-wildberries-patriot-missile-license/33819054.html)
+*Radio Free Europe / Liberty* - Jul 31, 15:37 IST (iso: 2026-07-31T10:07:03+00:00)
+<!-- image: https://gdb.rferl.org/1262c315-bb2e-4f8d-8c52-f0a6f13a3ab6_cx0_cy3_cw0_w1200_h630.jpg -->
+
+President Donald Trump said the United States should be "very careful" about granting Kyiv a license to produce Patriot missiles as Ukraine seeks greater air defense capabilities to protect itself against Russia's daily air attacks. Trump Says US Should Be 'Careful' About Granting Kyiv Patriot License Despite Zelenskyy Pleas.
+
+### [Russian Students See University Dreams Deferred As More Spots Go To Veterans](https://www.rferl.org/a/russia-university-students-veterans-war-ukraine/33818603.html)
+*Radio Free Europe / Liberty* - Jul 31, 01:10 IST (iso: 2026-07-30T19:40:37+00:00)
+<!-- image: https://gdb.rferl.org/dabc9edf-13c6-4ec9-816e-08decad17715_w1200_h630.jpg -->
+
+Young Russians hoping to attend university are finding they have poor odds of getting in this year, even with outstanding exam scores. One reason is a government quota system that favors veterans of the war in Ukraine and their children for coveted state-funded university spots. Russian Students See University Dreams Deferred As More Spots Go To Veterans.
+
+### [Activists Call Baku Court's Sentencing Of Independent Journalists An 'Unmistakable Warning'](https://www.rferl.org/a/azerbaijan-independent-journalists-court-sentencing-crackdown/33818515.html)
+*Radio Free Europe / Liberty* - Jul 30, 23:28 IST (iso: 2026-07-30T17:58:56+00:00)
+<!-- image: https://gdb.rferl.org/01000000-0a00-0242-b489-08dc3f66a31e_w1200_h630.jpg -->
+
+When Human Rights Watch's Georgi Gogia heard that several independent journalists were handed lengthy sentences this week by a court in the Azerbaijani capital, Baku, he didn't know what motivated the judge. But he does know the message is an "unmistakable warning." Activists Call Baku Court's Sentencing Of Independent Journalists An 'Unmistakable Warning'.
+
+### ['Get Off The Bus, Get Out Of The Country.' Ukrainians Took Refuge In Poland. Now They're](https://www.rferl.org/a/ukraine-poland-war-refugees-hate-crimes/33818435.html)
+*Radio Free Europe / Liberty* - Jul 30, 22:12 IST (iso: 2026-07-30T16:42:47+00:00)
+<!-- image: https://gdb.rferl.org/0295912a-cbef-4a1f-aafe-08dd4a814ce6_cx0_cy7_cw0_w1200_h630.jpeg -->
+
+Ukrainians who've taken refuge in Poland from the Russian invasion say they’re increasingly under threat, targeted by xenophobic, racist attacks. The fears come as tensions between Kyiv and Warsaw fester due to grievances dating back to World War II. 'Get Off The Bus, Get Out Of The Country.' Ukrainians Took Refuge In Poland. Now They're.
+
+### [Russia Launches Massive Missile And Drone Attack On Ukraine](https://www.rferl.org/a/russia-launches-massive-missile-and-drone-attack-on-ukraine/33818362.html)
+*Radio Free Europe / Liberty* - Jul 30, 17:14 IST (iso: 2026-07-30T11:44:02+00:00)
+<!-- image: https://gdb.rferl.org/72f3ebf3-7ae1-4c91-b38f-c0cc608eb9c9_w1200_h630.jpg -->
+
+Russia launched dozens of ballistic and cruise missiles, along with hundreds of drones, at Ukraine in the early hours of July 30 in another large-scale attack. Damage was reported in several cities, including Kyiv and Lviv. Russia Launches Massive Missile And Drone Attack On Ukraine.
 
 ---
 
 ## Middle East & Africa
 
-### [Ebola en RDC, une épidémie hors de contrôle ?](https://www.crisisgroup.org/fr/pod/africa/democratic-republic-congo/ebola-en-rdc-une-epidemie-hors-de-controle)
-*International Crisis Group* - Vendredi, juille (iso: Vendredi, juillet 24, 2026 - 13:43)
-<!-- image: https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Frédéric Manantsoa Lai, coordinateur des urgences pour Médecins Sans Frontières, et Onesphore Sematumba, analyste senior pour la République démocratique du Congo et le Burundi à Crisis Group, pour parler de l’épidémie d’Ebola en RDC et de ses conséquences sur la population congolaise, déjà marquée par des années de conflit.
-
-### [Avrupa Birliği ve Türkiye: Savunmada Birlik?](https://www.crisisgroup.org/tr/brf/europe/european-union-turkiye/b99-eu-and-turkiye-uniting-defence)
-*International Crisis Group* - Perşembe, Temmuz (iso: Perşembe, Temmuz 23, 2026 - 15:54)
-<!-- image: https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?
-
 ### [White House signals Trump is weighing new strikes on Iran](https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece)
-*The Hindu (International)* - Aug 01, 07:14 IST (iso: 2026-08-01T01:44:59+00:00)
+*The Hindu (International)* - Aug 01, 11:05 IST (iso: 2026-08-01T05:35:57+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/b8pcre/article71293384.ece/alternates/LANDSCAPE_1200/2026-07-31T205657Z_2000863873_RC28PMA31MLC_RTRMADP_3_USA-TRUMP.JPG -->
 
 There were no U. S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones White House signals Trump is weighing new strikes on Iran.
@@ -72,51 +112,11 @@ The multidimensional crisis that has gripped Myanmar since the military coup on 
 
 Independent UN experts on Wednesday called for urgent action to support Rohingya refugees in Bangladesh after reports indicated two boats carrying more than 500 passengers may have capsized off the coast of Myanmar in mid-July. Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic.
 
----
+### [Hunger hampers Ebola response as cases top 3,200 in DR Congo](https://news.un.org/feed/view/en/story/2026/07/1168047)
+*UN News* - Jul 29, 17:30 IST (iso: 2026-07-29T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/22-06-2026-UNICEF-DR-Congo-ebola.jpg/image770x420cropped.jpg -->
 
-## Europe & Russia
-
-### [Patriot Debate Deepens As Bacon Questions Trump Shift, Senate Moves On Ukraine Arms](https://www.rferl.org/a/patriot-missile-trump-bacon-republicans-ukraine-zelenskyy/33819653.html)
-*Radio Free Europe / Liberty* - Aug 01, 10:11 IST (iso: 2026-08-01T04:41:57+00:00)
-<!-- image: https://gdb.rferl.org/eb7ace19-3d0e-4f3d-9d76-65171292ff0a_cx0_cy6_cw0_w1200_h630.jpg -->
-
-US President Donald Trump's decision to step back from his earlier pledge to allow Ukraine to manufacture Patriot missile interceptors has prompted renewed debate in Washington over the future direction of US military support for Kyiv. Patriot Debate Deepens As Bacon Questions Trump Shift, Senate Moves On Ukraine Arms.
-
-### [A weak German economy, a weaker chancellor](https://asiatimes.com/2026/07/a-weak-german-economy-a-weaker-chancellor/)
-*Asia Times* - Jul 31, 16:04 IST (iso: 2026-07-31T10:34:22+00:00)
-<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2024/03/GRRM-LOGO-1-1-1-1-1-1-1.webp?fit=700%2C286&ssl=1 -->
-
-Subscribe now with a one-month trial for only $1, then enjoy the first year at an exclusive rate of just $99. Merz loses political control as Berlin’s troubles spreadDiego Faßnacht reports that Friedrich Merz’s botched personnel reset has deepened doubts about his authority just as Germany’s industrial weakness spreads into municipal finances and regional property values. [] The post A weak Germa.
-
-### [Trump Says US Should Be 'Careful' About Granting Kyiv Patriot License Despite Zelenskyy Pleas](https://www.rferl.org/a/ukraine-russia-drone-attack-wildberries-patriot-missile-license/33819054.html)
-*Radio Free Europe / Liberty* - Jul 31, 15:37 IST (iso: 2026-07-31T10:07:03+00:00)
-<!-- image: https://gdb.rferl.org/1262c315-bb2e-4f8d-8c52-f0a6f13a3ab6_cx0_cy3_cw0_w1200_h630.jpg -->
-
-President Donald Trump said the United States should be "very careful" about granting Kyiv a license to produce Patriot missiles as Ukraine seeks greater air defense capabilities to protect itself against Russia's daily air attacks. Trump Says US Should Be 'Careful' About Granting Kyiv Patriot License Despite Zelenskyy Pleas.
-
-### [Russian Students See University Dreams Deferred As More Spots Go To Veterans](https://www.rferl.org/a/russia-university-students-veterans-war-ukraine/33818603.html)
-*Radio Free Europe / Liberty* - Jul 31, 01:10 IST (iso: 2026-07-30T19:40:37+00:00)
-<!-- image: https://gdb.rferl.org/dabc9edf-13c6-4ec9-816e-08decad17715_w1200_h630.jpg -->
-
-Young Russians hoping to attend university are finding they have poor odds of getting in this year, even with outstanding exam scores. One reason is a government quota system that favors veterans of the war in Ukraine and their children for coveted state-funded university spots. Russian Students See University Dreams Deferred As More Spots Go To Veterans.
-
-### [Activists Call Baku Court's Sentencing Of Independent Journalists An 'Unmistakable Warning'](https://www.rferl.org/a/azerbaijan-independent-journalists-court-sentencing-crackdown/33818515.html)
-*Radio Free Europe / Liberty* - Jul 30, 23:28 IST (iso: 2026-07-30T17:58:56+00:00)
-<!-- image: https://gdb.rferl.org/01000000-0a00-0242-b489-08dc3f66a31e_w1200_h630.jpg -->
-
-When Human Rights Watch's Georgi Gogia heard that several independent journalists were handed lengthy sentences this week by a court in the Azerbaijani capital, Baku, he didn't know what motivated the judge. But he does know the message is an "unmistakable warning." Activists Call Baku Court's Sentencing Of Independent Journalists An 'Unmistakable Warning'.
-
-### ['Get Off The Bus, Get Out Of The Country.' Ukrainians Took Refuge In Poland. Now They're](https://www.rferl.org/a/ukraine-poland-war-refugees-hate-crimes/33818435.html)
-*Radio Free Europe / Liberty* - Jul 30, 22:12 IST (iso: 2026-07-30T16:42:47+00:00)
-<!-- image: https://gdb.rferl.org/0295912a-cbef-4a1f-aafe-08dd4a814ce6_cx0_cy7_cw0_w1200_h630.jpeg -->
-
-Ukrainians who've taken refuge in Poland from the Russian invasion say they’re increasingly under threat, targeted by xenophobic, racist attacks. The fears come as tensions between Kyiv and Warsaw fester due to grievances dating back to World War II. 'Get Off The Bus, Get Out Of The Country.' Ukrainians Took Refuge In Poland. Now They're.
-
-### [Russia Launches Massive Missile And Drone Attack On Ukraine](https://www.rferl.org/a/russia-launches-massive-missile-and-drone-attack-on-ukraine/33818362.html)
-*Radio Free Europe / Liberty* - Jul 30, 17:14 IST (iso: 2026-07-30T11:44:02+00:00)
-<!-- image: https://gdb.rferl.org/72f3ebf3-7ae1-4c91-b38f-c0cc608eb9c9_w1200_h630.jpg -->
-
-Russia launched dozens of ballistic and cruise missiles, along with hundreds of drones, at Ukraine in the early hours of July 30 in another large-scale attack. Damage was reported in several cities, including Kyiv and Lviv. Russia Launches Massive Missile And Drone Attack On Ukraine.
+The UN emergency food agency appealed for immediate funding on Wednesday, warning that deepening hunger is undermining the response to an Ebola outbreak in the Democratic Republic of the Congo (DRC) that has now infected more than 3,200 people. Hunger hampers Ebola response as cases top 3,200 in DR Congo.
 
 ---
 
