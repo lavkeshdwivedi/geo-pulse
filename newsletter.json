@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-01T21:21:00.352421+00:00",
+  "generated_at": "2026-08-01T22:21:56.046804+00:00",
   "article_count": 50,
   "total_unique_count": 261,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Ebola en RDC, une épidémie hors de contrôle ?. 25 fresh dispatches in this edition.",
-    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जिनमें सदी का सबसे लंबा सूर्य ग्रहण शामिल है। यह ग्रहण छह मिनट 23 सेकंड तक दिन में अंधेरा छाएगा। इसके अलावा विभिन्न देशों में राजनीतिक और सामाजिक घटनाएं भी सुर्खियों में हैं।"
+    "en": "Ebola outbreaks dominate the Democratic Republic of Congo. Zelenskyy expresses frustration with Patriot deliveries in Ukraine. Russia launches a missile attack on Kyiv.",
+    "hi": "आज बोर्ड पर लीड स्टोरीज़ हैं जिनमें सदी का सबसे लंबा सूर्य ग्रहण शामिल है। यह ग्रहण छह मिनट 23 सेकंड तक दिन में छाएगा अंधेरा। वैज्ञानिक इसके प्रभावों का अध्ययन कर रहे हैं।"
   },
   "articles": [
     {
@@ -32,6 +32,54 @@
       "translations": {}
     },
     {
+      "title": "Zelenskyy Expresses Frustration With Pace Of Patriot Deliveries As Civilian Death Toll Climbs",
+      "url": "https://www.rferl.org/a/kyiv-kherson-ukraine-patriot-ballistic-missiles-zelenskyy/33819849.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-08-01T22:03:14+00:00",
+      "image_url": "https://gdb.rferl.org/094d3413-b317-43f7-3452-08decd1f5434_cx0_cy4_cw0_w1200_h630.jpg",
+      "summary": "In the wake of the latest deadly Russian air strikes on Kyiv and other cities, Ukrainian President Volodymyr Zelenskyy expressed frustration with his Western allies, urging speedier delivery of urgently needed Patriot air defense missiles and other weapons. Zelenskyy Expresses Frustration With Pace Of Patriot Deliveries As Civilian Death Toll Climbs.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘I don’t want to miss out’: Why India’s youth are choosing debt over savings",
+      "url": "https://www.channelnewsasia.com/cna-insider/fomo-india-youth-bad-debt-loan-apps-borrowing-savings-6291491",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-08-01T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--7abBM_nZ--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/21/insight-2026-ep4_clean.jpg?itok=sk7F4jvM",
+      "summary": "Digital credit may be reshaping how young Indians spend, save and borrow, even as rising costs, social media and financial illiteracy also push more of them into debt and leave the country facing a growing challenge, CNA’s Insight finds. ‘I don’t want to miss out’: Why India’s youth are choosing debt over savings.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Greenland's Southeast Asian migrants caught in Trump’s takeover push",
+      "url": "https://www.channelnewsasia.com/world/trump-greenland-migrants-economy-thais-filipinos-6269986",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-08-01T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--vZbR9JWe--/c_crop,h_900,w_1600,x_0,y_126/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/22/greenland-39.jpg?itok=PjHo2-i8",
+      "summary": "As United States President Donald Trump seeks control of Greenland, the island’s growing Southeast Asian migrant community faces uncertainty. In part one of this series, CNA looks at how Filipino and Thai migrants are responding. Greenland's Southeast Asian migrants caught in Trump’s takeover push.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
+      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-08-01T21:47:06+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/acf80208b663a5d208fe59c64b52d1f3bb071c71/84_0_5602_4480/master/5602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c73339e4a7e07bee92ecfc3c7bb89df",
+      "summary": "Aircraft crashes into field after departing from the nearby city of Ica, according to local authoritiesAt least 13 people have died after a plane carrying tourists crashed into a field in Peru, local authorities said. Aircraft crashes into field after departing from the nearby city of Pisco, according to local authorities At least 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines, police reported on Saturday. Local authorities in Nazca confirmed that 11 tourists and two pilots died when the Cessna Grand Caravan crashed in Pueblo Viejo, approximately.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "U.S. embassies urge citizens to ‘consider departing’ from West Asia",
       "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
       "source": "The Hindu (International)",
@@ -51,20 +99,8 @@
       ],
       "published_at": "2026-08-01T21:03:02+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/w0phq4/article71294358.ece/alternates/LANDSCAPE_1200/2026-07-30T093158Z_1214824763_RC28OMAAQJ8V_RTRMADP_3_IRAN-CRISIS.JPG",
-      "summary": "There were no U. S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones U. embassies urge citizens to ‘consider departing’ from West Asia. U. S.",
+      "summary": "There were no U. S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones U. embassies urge citizens to ‘consider departing’ from West Asia. U. U. S.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
-      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-08-01T20:42:06+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/acf80208b663a5d208fe59c64b52d1f3bb071c71/84_0_5602_4480/master/5602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c73339e4a7e07bee92ecfc3c7bb89df",
-      "summary": "Aircraft crashes into field after departing from the nearby city of Ica, according to local authoritiesAt least 13 people have died after a plane carrying tourists crashed into a field in Peru, local authorities said.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -101,18 +137,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/3ei27h/article71294688.ece/alternates/LANDSCAPE_1200/AFP_C3Q74MB.jpg",
       "summary": "Italy does not share a land border with Spain, but the measure. which looks certain to anger ‌Madrid. will impact people travelling by plane or boat between the two countries, meaning they will need to ‌show a passport to gain access Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A bus crash left her bedridden at 30. Three years later, she’s deadlifting 110kg and getting",
-      "url": "https://www.channelnewsasia.com/today/up-close/accident-strength-training-fitness-mother-senior-gymbaddiesg-6282331",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-08-01T13:30:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--Q3TMjtkL--/c_crop,h_1125,w_2000,x_0,y_142/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/30/20260730-jk-uc_maryam-12.jpg?itok=CafghFv5",
-      "summary": "A devastating accident nearly killed Ms Siti Maryam Abdul Rahman and left her needing 10 surgeries. What began as a fight to rebuild her own body has led her to transform lives beyond her own. A bus crash left her bedridden at 30. Three years later, she’s deadlifting 110kg and getting.",
-      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -261,18 +285,6 @@
       "translations": {}
     },
     {
-      "title": "Iran Has Tested The Gulf. Now Washington Must Rethink Its Security Role, Says Former Trump NSC",
-      "url": "https://www.rferl.org/a/iran-gulf-security-us-role-allison-minor-interview/33818576.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-30T18:08:49+00:00",
-      "image_url": "https://gdb.rferl.org/01000000-c0a8-0242-8df7-08dbf7d755c0_cx0_cy7_cw0_w1200_h630.jpg",
-      "summary": "Former Trump White House official Allison Minor says Iran's latest attacks exposed the limits of the traditional US security guarantee in the Gulf. She argues Washington should shift toward a regional security model built on shared capabilities, integration, and stronger partnerships. Iran Has Tested the Gulf. Now Washington Must Rethink Its Security Role, Says Former Trump NSC.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Fear grows as freedoms shrink in Uganda",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168057",
       "source": "UN News",
@@ -304,18 +316,6 @@
       "published_at": "2026-07-29T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/06/15064/image770x420cropped.jpg",
       "summary": "Independent UN experts on Wednesday called for urgent action to support Rohingya refugees in Bangladesh after reports indicated two boats carrying more than 500 passengers may have capsized off the coast of Myanmar in mid-July. Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168047",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/22-06-2026-UNICEF-DR-Congo-ebola.jpg/image770x420cropped.jpg",
-      "summary": "The UN emergency food agency appealed for immediate funding on Wednesday, warning that deepening hunger is undermining the response to an Ebola outbreak in the Democratic Republic of the Congo (DRC) that has now infected more than 3,200 people. Hunger hampers Ebola response as cases top 3,200 in DR Congo.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -407,24 +407,6 @@
           "title": "ओमान के तट पर फंसे तेल टैंकर से रिसाव बढ़ा, समुद्री संरक्षित क्षेत्र पर कौन सा संकट मंडरा रहा?",
           "summary": "Oil Leak Oman: ओमान के तट पर फंसे तेल टैंकर से रिसाव बढ़ा, समुद्री संरक्षित क्षेत्र पर कौन सा संकट मंडरा रहा?",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कुलगाम में श्रमिकों की हत्या लश्कर आतंकी लतीफ ने की, हेड कॉन्सटेबल आशिक को भी इसी ने मारा",
-      "url": "https://www.amarujala.com/jammu-and-kashmir/srinagar/target-killing-lashkar-terrorist-latif-killed-the-laborers-in-kulgam-2026-08-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-01T19:42:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/1_2208b3a5f19dc435393f239c7bcb4519.jpeg?w=1200&dpr=1.0",
-      "summary": "कुलगाम जिले के केलम में शुक्रवार शाम छत्तीसगढ़ के दो श्रमिकों की हत्या लश्कर-ए-ताइबा के स्थानीय आतंकी मोहम्म्द लतीफ भट ने की है। कुलगाम में श्रमिकों की हत्या लश्कर आतंकी लतीफ ने की, हेड कॉन्सटेबल आशिक को भी इसी ने मारा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कुलगाम में श्रमिकों की हत्या लश्कर आतंकी लतीफ ने की, हेड कॉन्सटेबल आशिक को भी इसी ने मारा",
-          "summary": "कुलगाम जिले के केलम में शुक्रवार शाम छत्तीसगढ़ के दो श्रमिकों की हत्या लश्कर-ए-ताइबा के स्थानीय आतंकी मोहम्म्द लतीफ भट ने की है। कुलगाम में श्रमिकों की हत्या लश्कर आतंकी लतीफ ने की, हेड कॉन्सटेबल आशिक को भी इसी ने मारा।",
-          "region": "दुनिया"
         }
       }
     },
@@ -645,6 +627,42 @@
       }
     },
     {
+      "title": "'एक भी स्टूडेंट या पैरेंट्स से...', राहुल का PM मोदी के माफी वाले Video पर हमला",
+      "url": "https://www.abplive.com/news/india/did-not-meet-parents-or-students-rahul-gandhi-reaction-pm-modi-apology-video-3169014",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-01T12:28:03+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/01/e142178186c5d6319ba6f1b6e492a97417855869191421324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "लोकसभा नेता प्रतिपक्ष राहुल गांधी ने नीट यूजी पेपर लीक के बाद जान गंवाने वाले बच्चों के माता पिता से मुलाकात की. इसी को लेकर गांधी ने एक्स पर पोस्ट करते हुए बयान जारी किया है. राहुल गांधी ने कुछ तस्वीरें भी साझा की हैं. जहां उनके साथ कुछ बच्चे और उनके परिजन नजर आ रहे हैं. इसके अलावा राहुल ने पीएम मोदी के माफ करने वाले वीडियो को लेकर भी उनको निशाने पर लिया.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'एक भी स्टूडेंट या पैरेंट्स से...', राहुल का PM मोदी के माफी वाले Video पर हमला",
+          "summary": "लोकसभा नेता प्रतिपक्ष राहुल गांधी ने नीट यूजी पेपर लीक के बाद जान गंवाने वाले बच्चों के माता पिता से मुलाकात की. इसी को लेकर गांधी ने एक्स पर पोस्ट करते हुए बयान जारी किया है. राहुल गांधी ने कुछ तस्वीरें भी साझा की हैं. जहां उनके साथ कुछ बच्चे और उनके परिजन नजर आ रहे हैं. इसके अलावा राहुल ने पीएम मोदी के माफ करने वाले वीडियो को लेकर भी उनको निशाने पर लिया.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आवारा पशुओं से होने वाले सड़क हादसों पर SC की सख्त टिप्पणी, क्या कहा?",
+      "url": "https://www.abplive.com/news/india/supreme-court-expressed-concern-over-accidents-caused-by-cattle-roaming-on-road-ann-3169007",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-01T12:15:14+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/01/29e7e27a46afd0e795c12cd17f27c24d17855861690331368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "Justice Sanjay Karol and Justice N. Kotishwar Singh of the Supreme Court warned that stray cattle cause 1,300 deaths annually and criticised society’s double standard. They directed the central government to enforce stricter controls on cattle roaming roads and to improve livestock management. सड़क पर घूमते मवेशियों के चलते होने वाले हादसों पर सुप्रीम कोर्ट ने चिंता व्यक्त की है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आवारा पशुओं से होने वाले सड़क हादसों पर SC की सख्त टिप्पणी, क्या कहा?",
+          "summary": "Justice Sanjay Karol and Justice N. Kotishwar Singh of the Supreme Court warned that stray cattle cause 1,300 deaths annually and criticised society’s double standard. They directed the central government to enforce stricter controls on cattle roaming roads and to improve livestock management. सड़क पर घूमते मवेशियों के चलते होने वाले हादसों पर सुप्रीम कोर्ट ने चिंता व्यक्त की है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "होने वाली है पेट्रोल-LNG की महाकिल्लत! ईरान 6 जगह भेजेगा ‘रक्तबीज’, निकाल दी पूरी लिस्ट",
       "url": "https://hindi.news18.com/world/middle-east-saudi-arabia-uae-qatar-oil-lng-fields-attack-on-iran-target-list-if-america-attacks-petrol-cng-supply-cut-10709185.html",
       "source": "News18 Hindi (World)",
@@ -699,6 +717,24 @@
       }
     },
     {
+      "title": "असम के क्वारी गांव के लोगों ने बचाईं 2000 जिंदगियां",
+      "url": "https://www.abplive.com/news/india/assam-flood-hero-people-of-kwari-village-saved-nearly-2000-lives-ann-3169003",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-01T11:55:27+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/01/bcf270d1fb9b13b9ddf7369d9e40660417855850572611368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "19 जुलाई को असम में आई विनाशकारी बाढ़ ने ऐसी तबाही मचाई, जिसे प्रभावित लोग शायद ही कभी भूल पाएंगे. नेपाली खूटी, बिहूबोर, संताक, नंबर-2 क्वारी गांव, मिचिंग गांव समेत आसपास के कई इलाके सबसे अधिक प्रभावित हुए. देखते ही देखते पूरा क्षेत्र पानी में डूब गया. लोग अपनी जान बचाने के लिए घरों की छतों और ऊंचे स्थानों पर शरण लेने को मजबूर हो गए और घंटों तक मदद का इंतजार करते रहे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "असम के क्वारी गांव के लोगों ने बचाईं 2000 जिंदगियां",
+          "summary": "19 जुलाई को असम में आई विनाशकारी बाढ़ ने ऐसी तबाही मचाई, जिसे प्रभावित लोग शायद ही कभी भूल पाएंगे. नेपाली खूटी, बिहूबोर, संताक, नंबर-2 क्वारी गांव, मिचिंग गांव समेत आसपास के कई इलाके सबसे अधिक प्रभावित हुए. देखते ही देखते पूरा क्षेत्र पानी में डूब गया. लोग अपनी जान बचाने के लिए घरों की छतों और ऊंचे स्थानों पर शरण लेने को मजबूर हो गए और घंटों तक मदद का इंतजार करते रहे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "बांग्लादेश में बड़ा सुरक्षा फैसला, जमात-ए-इस्लामी और शिबिर को उग्रवादी संगठन की श्रेणी में रखा गया",
       "url": "https://www.patrika.com/world-news/bangladesh-jamaat-e-islami-shibir-classified-as-militant-organisations-20796765",
       "source": "Patrika (World)",
@@ -717,56 +753,20 @@
       }
     },
     {
-      "title": "रूस ने यूक्रेन पर बरसाईं बैलिस्टिक मिसाइलें: कीव में भारी तबाही; 9 लोगों की मौत, 28 घायल",
-      "url": "https://www.patrika.com/world-news/russia-attack-ukraine-kyiv-ballistic-missile-strike-20795713",
-      "source": "Patrika (World)",
+      "title": "मनमर्जी नहीं होती आजादी…, अजीत डोभाल ने जेन-G को समझाया ‘सही मतलब’!",
+      "url": "https://www.abplive.com/news/india/nsa-ajit-doval-explained-real-meaning-of-freedom-to-gen-g-honoured-with-lokmanya-tilak-national-award-3168993",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-08-01T11:24:02+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Russia-ukraine-war.webp",
-      "summary": "Russia attack Ukraine: रूस के हमलों में एक बार फिर यूक्रेन दहल उठा है। दरअसल, स्थानीय समयानुसार शनिवार तड़के रूस की तरफ से यूक्रेन की राजधानी कीव को निशाना बनाकर हमले किए गए। बैलिस्टिक मिसाइल हमलों में कम से कम 9 लोगों की मौत हुई है, जबकि 28 अन्य लोग घायल हो गए। ध्यान रहे कि मॉस्को ने हाल के दिनों में यूक्रेन की राजधानी पर बैलिस्टिक मिसाइलों से हमले तेज कर दिए हैं।",
-      "region": "Europe & Russia",
+      "published_at": "2026-08-01T11:34:02+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/01/2f8e869805edbd02f9056c7c8e2e6ff717855838893801368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "राष्ट्रीय सुरक्षा सलाहकार (NSA) अजीत डोभाल को शनिवार (1 अगस्त) को महाराष्ट्र के पुणे में हुए एक प्रोग्राम में प्रतिष्ठित लोकमान्य तिलक नेशनल अवॉर्ड से सम्मानित किया गया. केंद्रीय गृह मंत्री अमित शाह ने उन्हें यह सम्मान दिया. डोभाल को यह सम्मान देश की आंतरिक और बाहरी सुरक्षा के क्षेत्र में उल्लेखनीय योगदान के लिए दिया गया है.",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रूस ने यूक्रेन पर बरसाईं बैलिस्टिक मिसाइलें: कीव में भारी तबाही; 9 लोगों की मौत, 28 घायल",
-          "summary": "Russia attack Ukraine: रूस के हमलों में एक बार फिर यूक्रेन दहल उठा है। दरअसल, स्थानीय समयानुसार शनिवार तड़के रूस की तरफ से यूक्रेन की राजधानी कीव को निशाना बनाकर हमले किए गए। बैलिस्टिक मिसाइल हमलों में कम से कम 9 लोगों की मौत हुई है, जबकि 28 अन्य लोग घायल हो गए। ध्यान रहे कि मॉस्को ने हाल के दिनों में यूक्रेन की राजधानी पर बैलिस्टिक मिसाइलों से हमले तेज कर दिए हैं।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "हाय गर्मी! यूरोप को ‘कूल’ रखकर जेब भर रहीं चीनी कंपनियां",
-      "url": "https://www.patrika.com/world-news/europe-heatwave-chinese-air-conditioner-demand-2026-20796552",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-01T11:02:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Europe-Heatwave.webp",
-      "summary": "Europe Heatwave: यूरोप ने इस बार भयानक गर्मी का सामना किया है। जंगल की आग और चढ़ते तापमान ने लोगों को इस कदर बेहाल कर दिया है कि एयर-कंडीशनर की मांग एकदम से बढ़ गई है। कुछ इलाकों में तापमान 100 डिग्री फारेनहाइट से ऊपर पहुंच गया है। दुनिया के दूसरे हिस्सों की तुलना में यूरोप ने AC का इस्तेमाल देर से शुरू किया, लेकिन इस बार की गर्मी ने लोगों को अहसास दिलाया है कि भविष्य में शायद इसके बिना काम न चले।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हाय गर्मी! यूरोप को ‘कूल’ रखकर जेब भर रहीं चीनी कंपनियां",
-          "summary": "Europe Heatwave: यूरोप ने इस बार भयानक गर्मी का सामना किया है। जंगल की आग और चढ़ते तापमान ने लोगों को इस कदर बेहाल कर दिया है कि एयर-कंडीशनर की मांग एकदम से बढ़ गई है। कुछ इलाकों में तापमान 100 डिग्री फारेनहाइट से ऊपर पहुंच गया है। दुनिया के दूसरे हिस्सों की तुलना में यूरोप ने AC का इस्तेमाल देर से शुरू किया, लेकिन इस बार की गर्मी ने लोगों को अहसास दिलाया है कि भविष्य में शायद इसके बिना काम न चले।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में 7 जगह हुए अटैक, ट्रंप को लगा सदमा, ईरान का नाम भी नहीं ले पा रहे",
-      "url": "https://hindi.news18.com/world/america-cyber-attack-on-us-water-system-7-states-hit-in-major-infrastructure-hacked-donald-trump-could-not-blame-iran-10709114.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-01T10:43:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Cyber-Attack-on-US-Water-System-7-States-Hit-2026-08-8cacd481b48c4a3408d524096e6b016b-1200x800.jpg",
-      "summary": "अमेरिका के 7 राज्यों में एक के बाद एक तगड़े अटैक हैं. ये हमले सीधे उस लाइफलाइन पर हुए हैं, जिसकी दर्द से आम जनता कराह उठी. इस हमले के बाद ट्रंप का ऐसा हाल हो गया है कि वो ईरान का नाम भी नहीं ले पा रहे हैं. ट्रंप उल्टा अपने ही लोगों को बदनाम करने में जुट गए हैं लेकिन अपने सबसे बड़े दुश्मन की चालाकी दुनिया के सामने एक्सेप्ट नहीं कर पा रहे हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में 7 जगह हुए अटैक, ट्रंप को लगा सदमा, ईरान का नाम भी नहीं ले पा रहे",
-          "summary": "अमेरिका के 7 राज्यों में एक के बाद एक तगड़े अटैक हैं. ये हमले सीधे उस लाइफलाइन पर हुए हैं, जिसकी दर्द से आम जनता कराह उठी. इस हमले के बाद ट्रंप का ऐसा हाल हो गया है कि वो ईरान का नाम भी नहीं ले पा रहे हैं. ट्रंप उल्टा अपने ही लोगों को बदनाम करने में जुट गए हैं लेकिन अपने सबसे बड़े दुश्मन की चालाकी दुनिया के सामने एक्सेप्ट नहीं कर पा रहे हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "मनमर्जी नहीं होती आजादी…, अजीत डोभाल ने जेन-G को समझाया ‘सही मतलब’!",
+          "summary": "राष्ट्रीय सुरक्षा सलाहकार (NSA) अजीत डोभाल को शनिवार (1 अगस्त) को महाराष्ट्र के पुणे में हुए एक प्रोग्राम में प्रतिष्ठित लोकमान्य तिलक नेशनल अवॉर्ड से सम्मानित किया गया. केंद्रीय गृह मंत्री अमित शाह ने उन्हें यह सम्मान दिया. डोभाल को यह सम्मान देश की आंतरिक और बाहरी सुरक्षा के क्षेत्र में उल्लेखनीय योगदान के लिए दिया गया है.",
+          "region": "दुनिया"
         }
       }
     }
