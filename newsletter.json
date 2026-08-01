@@ -1,21 +1,45 @@
 {
-  "generated_at": "2026-08-01T07:48:03.824200+00:00",
+  "generated_at": "2026-08-01T08:50:56.070388+00:00",
   "article_count": 50,
-  "total_unique_count": 254,
+  "total_unique_count": 267,
   "digest": {
-    "en": "Ukrainian gymnast Sofia Shaparenko wins gold at the European Championships after losing a leg in a Russian strike, while the White House signals that Trump is considering new strikes on Iran. The Senate moves forward with Ukraine arms packages, while a US lawmaker urges Taiwan to pass a drone bill.",
-    "hi": "हूतियों के डर से सऊदी के जहाजों ने बदला रास्ता, ओमान के पास टैंकर पर हमला, कुवैत में ड्रोन अटैक। सऊदी अरब के जहाजों ने हूतियों के हमले के डर से अपना मार्ग बदल दिया है, जिससे टैंकर पर हमला हुआ है और कुवैत में ड्रोन अटैक हुआ है। इस घटना ने मध्य पूर्व की स्थिति को और भी जटिल बना दिया है।"
+    "en": "Ebola en RDC, une épidémie hors de contrôle, is dominating headlines in the Democratic Republic of Congo, with reports of a rapidly spreading outbreak. Meanwhile, the US and Iran conflict remains a major concern, with the White House signaling potential new strikes on Iran. In a separate development, a strong El Niño is forecasted by the UN weather agency.",
+    "hi": "हूतियों के डर से सऊदी के जहाजों ने बदला रास्ता, ओमान के पास टैंकर पर हमला, कुवैत में ड्रोन अटैक। ओमान के पास हॉर्मुज में बड़ा हमला हुआ, जहां एक टैंकर पर प्रोजेक्टाइल से हमला हुआ और अनियंत्रित हो गया। कुवैत में भी ड्रोन अटैक हुआ, जिससे कोई नुकसान नहीं हुआ।"
   },
   "articles": [
     {
-      "title": "10-Year-Old Ukrainian Gymnast Wins Gold After Losing Leg In Russian Strike",
-      "url": "https://www.rferl.org/a/ukrainian-gymnast-wins-gold-after-losing-leg-in-russian-strike/33819012.html",
+      "title": "Ebola en RDC, une épidémie hors de contrôle ?",
+      "url": "https://www.crisisgroup.org/fr/pod/africa/democratic-republic-congo/ebola-en-rdc-une-epidemie-hors-de-controle",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Vendredi, juillet 24, 2026 - 13:43",
+      "image_url": "https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Frédéric Manantsoa Lai, coordinateur des urgences pour Médecins Sans Frontières, et Onesphore Sematumba, analyste senior pour la République démocratique du Congo et le Burundi à Crisis Group, pour parler de l’épidémie d’Ebola en RDC et de ses conséquences sur la population congolaise, déjà marquée par des années de conflit.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "url": "https://www.crisisgroup.org/tr/brf/europe/european-union-turkiye/b99-eu-and-turkiye-uniting-defence",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Perşembe, Temmuz 23, 2026 - 15:54",
+      "image_url": "https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Biggest Clue In US-Iran Conflict Is 'The Dog That Hasn't Barked,' Says War College's Jacob Stoil",
+      "url": "https://www.rferl.org/a/iran-war-stoil-army-war-college-interview/33819707.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
-      "published_at": "2026-08-01T07:21:28+00:00",
-      "image_url": "https://gdb.rferl.org/a2ad9c1b-0c50-4485-8177-08decad17715_cx0_cy5_cw0_w1200_h630.png",
-      "summary": "In 2022, Oleksandra Paskal lost her leg following a Russian missile strike on Ukraine’s Odesa region. She was just six years old. Following months of intense rehabilitation, she learned to walk with a prosthesis -- and made a remarkable return to rhythmic gymnastics. 10-Year-Old Ukrainian Gymnast Wins Gold After Losing Leg In Russian Strike.",
-      "region": "Europe & Russia",
+      "published_at": "2026-08-01T08:25:00+00:00",
+      "image_url": "https://gdb.rferl.org/e53d2ec0-f2d4-4dfc-b4c3-513e4d9dc904_cx0_cy9_cw0_w1200_h630.jpg",
+      "summary": "A renewed exchange of military strikes and threats between the US and Iran has raised fresh fears of a wider Middle East war. But Jacob Stoil, research professor of Middle East security studies at the US Army War College, argues the more important story may be what has not happened. Biggest Clue In US-Iran Conflict Is 'The Dog That Hasn't Barked,' Says War College's Jacob Stoil.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -37,10 +61,22 @@
           "source": "The Hindu (International)"
         }
       ],
-      "published_at": "2026-08-01T05:35:57+00:00",
+      "published_at": "2026-08-01T08:24:18+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/b8pcre/article71293384.ece/alternates/LANDSCAPE_1200/2026-07-31T205657Z_2000863873_RC28PMA31MLC_RTRMADP_3_USA-TRUMP.JPG",
       "summary": "There were no U. S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones White House signals Trump is weighing new strikes on Iran.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "10-Year-Old Ukrainian Gymnast Wins Gold After Losing Leg In Russian Strike",
+      "url": "https://www.rferl.org/a/ukrainian-gymnast-wins-gold-after-losing-leg-in-russian-strike/33819012.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-08-01T07:21:28+00:00",
+      "image_url": "https://gdb.rferl.org/a2ad9c1b-0c50-4485-8177-08decad17715_cx0_cy5_cw0_w1200_h630.png",
+      "summary": "In 2022, Oleksandra Paskal lost her leg following a Russian missile strike on Ukraine’s Odesa region. She was just six years old. Following months of intense rehabilitation, she learned to walk with a prosthesis -- and made a remarkable return to rhythmic gymnastics. 10-Year-Old Ukrainian Gymnast Wins Gold After Losing Leg In Russian Strike.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -261,30 +297,6 @@
       "translations": {}
     },
     {
-      "title": "Russia Launches Massive Missile And Drone Attack On Ukraine",
-      "url": "https://www.rferl.org/a/russia-launches-massive-missile-and-drone-attack-on-ukraine/33818362.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-30T11:44:02+00:00",
-      "image_url": "https://gdb.rferl.org/72f3ebf3-7ae1-4c91-b38f-c0cc608eb9c9_w1200_h630.jpg",
-      "summary": "Russia launched dozens of ballistic and cruise missiles, along with hundreds of drones, at Ukraine in the early hours of July 30 in another large-scale attack. Damage was reported in several cities, including Kyiv and Lviv. Russia Launches Massive Missile And Drone Attack On Ukraine.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "US Military Says Latest Strikes Target Iran's Revolutionary Guards Corps",
-      "url": "https://www.rferl.org/a/us-strikes-target-iran-revolutionary-guards-corps/33818316.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-30T10:59:30+00:00",
-      "image_url": "https://gdb.rferl.org/7d8d9176-a112-4fa4-8135-08decad17715_tv_w1200_h630.jpg",
-      "summary": "The US military said it launched dozens of strikes against targets linked to Iran's powerful Islamic Revolutionary Guards Corps (IRGC) in response to Iranian attacks on American troops in Jordan after President Donald Trump had vowed to retaliate and \"hit them very hard.\" US Military Says Latest Strikes Target Iran's Revolutionary Guards Corps.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Myanmar’s junta slowly but surely winning its war with ASEAN",
       "url": "https://asiatimes.com/2026/07/myanmars-junta-slowly-but-surely-winning-its-war-with-asean/",
       "source": "Asia Times",
@@ -309,23 +321,11 @@
       "translations": {}
     },
     {
-      "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168047",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/22-06-2026-UNICEF-DR-Congo-ebola.jpg/image770x420cropped.jpg",
-      "summary": "The UN emergency food agency appealed for immediate funding on Wednesday, warning that deepening hunger is undermining the response to an Ebola outbreak in the Democratic Republic of the Congo (DRC) that has now infected more than 3,200 people. Hunger hampers Ebola response as cases top 3,200 in DR Congo.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "हूतियों के डर से सऊदी के जहाजों ने बदला रास्ता, ओमान के पास टैंकर पर हमला, कुवैत में ड्रोन अटैक",
       "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-news-oman-tanker-attack-donald-trump-iran-warning-livenews-10708130.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-01T07:32:50+00:00",
+      "published_at": "2026-08-01T08:18:43+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/hormuz-12-2026-08-21e8f3cb8672fe932fe3c94e9e0052b5-1200x800.jpg",
       "summary": "An oil tanker off Oman’s coast was struck by an unknown projectile. Iran warned that if the United States launches a military strike, it will target U. S. and Israeli sites, deepening tensions across West Asia. President Trump had earlier warned of a possible strike. Iran-US War News: ओमान के तट के पास एक तेल टैंकर पर अज्ञात प्रोजेक्टाइल से हमला हुआ है.",
       "region": "Middle East & Africa",
@@ -335,6 +335,24 @@
           "title": "हूतियों के डर से सऊदी के जहाजों ने बदला रास्ता, ओमान के पास टैंकर पर हमला, कुवैत में ड्रोन अटैक",
           "summary": "An oil tanker off Oman’s coast was struck by an unknown projectile. Iran warned that if the United States launches a military strike, it will target U. S. and Israeli sites, deepening tensions across West Asia. President Trump had earlier warned of a possible strike. Iran-US War News: ओमान के तट के पास एक तेल टैंकर पर अज्ञात प्रोजेक्टाइल से हमला हुआ है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका के AI से चीन ने लिया 'गुरुमंत्र', ड्रोन-पनडुब्बी की बढ़ा ली ताकत, लेकिन ड्रैगन खुद क्यों",
+      "url": "https://hindi.news18.com/world/china-pla-army-using-openai-anthropic-ai-model-to-train-defence-systems-distillation-military-report-news-10708564.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-01T08:10:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/china-drone-1-2026-08-f15fc0f3efd82e3d452efc54e2412dbd-1200x800.jpg",
+      "summary": "China AI Use: चीन की सेना और उससे जुड़े रिसर्च संस्थान अमेरिका के OpenAI और Anthropic जैसे AI मॉडल के इस्तेमाल से अपने सैन्य AI सिस्टम तैयार कर रहे हैं. 'मॉडल डिस्टिलेशन' नाम की तकनीक के जरिए छोटे लेकिन खास सैन्य उद्देश्यों वाले AI मॉडल बनाए जा रहे हैं, जिन्हें ड्रोन, साइबर वॉरफेयर, टार्गेट पहचान और सैन्य नेटवर्क को बेहतर करने में इस्तेमाल किया जा सकता है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका के AI से चीन ने लिया 'गुरुमंत्र', ड्रोन-पनडुब्बी की बढ़ा ली ताकत, लेकिन ड्रैगन खुद क्यों",
+          "summary": "China AI Use: चीन की सेना और उससे जुड़े रिसर्च संस्थान अमेरिका के OpenAI और Anthropic जैसे AI मॉडल के इस्तेमाल से अपने सैन्य AI सिस्टम तैयार कर रहे हैं. 'मॉडल डिस्टिलेशन' नाम की तकनीक के जरिए छोटे लेकिन खास सैन्य उद्देश्यों वाले AI मॉडल बनाए जा रहे हैं, जिन्हें ड्रोन, साइबर वॉरफेयर, टार्गेट पहचान और सैन्य नेटवर्क को बेहतर करने में इस्तेमाल किया जा सकता है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -357,56 +375,20 @@
       }
     },
     {
-      "title": "इटली पहुंची खुशी कपूर, शानदार लुक से जीता फैंस का दिल; देखें तस्वीरें",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/khushi-kapoor-share-photos-in-bikini-from-italy-giving-major-european-summer-energy-2026-08-01",
-      "source": "Amar Ujala National",
+      "title": "ओमान के पास हॉर्मुज में बड़ा हमला, प्रोजेक्टाइल से बुरी तरह क्षतिग्रस्त होकर अनियंत्रित हुआ टैंकर",
+      "url": "https://www.patrika.com/world-news/strait-of-hormuz-oil-tanker-hit-by-unknown-projectile-near-oman-maritime-security-alert-20795913",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-08-01T07:20:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/khasha-kapara_30754eea1a07b2f523a8280b9e0e8153.jpeg?w=1200&dpr=1.0",
-      "summary": "अभिनेत्री खुशी कपूर इटली की यात्रा पर हैं। यहां उन्होंने क्वालिटी टाइम बिताया है। इटली पहुंची खुशी कपूर, शानदार लुक से जीता फैंस का दिल; देखें तस्वीरें।",
-      "region": "Europe & Russia",
+      "published_at": "2026-08-01T07:22:21+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/Strait-of-Hormuz-Oil-Tankers.webp",
+      "summary": "स्ट्रेट ऑफ हॉर्मुज में तनाव बढ़ता ही जा रहा है। ओमान के पास समुद्र में एक तेल टैंकर पर अज्ञात प्रोजेक्टाइल से हमला हुआ है, जिससे जहाज के इंजन रूम को गंभीर नुकसान पहुंचा और वह अपना नियंत्रण खो बैठा। इस घटना के बाद अंतरराष्ट्रीय समुद्री सुरक्षा को लेकर नई चिंता पैदा हो गई है। ओमान के पास हॉर्मुज में बड़ा हमला, प्रोजेक्टाइल से बुरी तरह क्षतिग्रस्त होकर अनियंत्रित हुआ टैंकर।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "इटली पहुंची खुशी कपूर, शानदार लुक से जीता फैंस का दिल; देखें तस्वीरें",
-          "summary": "अभिनेत्री खुशी कपूर इटली की यात्रा पर हैं। यहां उन्होंने क्वालिटी टाइम बिताया है। इटली पहुंची खुशी कपूर, शानदार लुक से जीता फैंस का दिल; देखें तस्वीरें।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पीएम किसान योजना से जुड़े किसानों को सरकार का तोहफा, क्या आपने जाना इसके बारे में?",
-      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-yojana-modi-cabinet-extends-pm-kisan-scheme-for-5-more-years-24-kist-kab-aayegi-2026-08-01",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-01T07:19:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/paema-kasana-yajana-2026-27-sa-lkara-2030-31-taka-lga-rahaga_9092ec2419cf673c6af20e3ba38aa4c8.jpeg?w=1200&dpr=1.0",
-      "summary": "अगर आप भी पीएम किसान योजना से जुड़े हैं, तो जान लें कि भारत सरकार ने वर्ष 2031 तक के लिए पीएम किसान योजना को बढ़ा दिया गया है। पीएम किसान योजना से जुड़े किसानों को सरकार का तोहफा, क्या आपने जाना इसके बारे में?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम किसान योजना से जुड़े किसानों को सरकार का तोहफा, क्या आपने जाना इसके बारे में?",
-          "summary": "अगर आप भी पीएम किसान योजना से जुड़े हैं, तो जान लें कि भारत सरकार ने वर्ष 2031 तक के लिए पीएम किसान योजना को बढ़ा दिया गया है। पीएम किसान योजना से जुड़े किसानों को सरकार का तोहफा, क्या आपने जाना इसके बारे में?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "इसरो के एनआरएससी में नौकरी का मौका, रिसर्च साइंटिस्ट समेत 48 पदों पर भर्ती; आज से आवेदन शुरू",
-      "url": "https://www.amarujala.com/jobs/government-jobs/isro-nrsc-recruitment-2026-begins-apply-for-48-scientist-and-research-positions-2026-08-01",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-01T07:19:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/23/isro_a28846edf07b7fa2b89d0931f5721fbf.jpeg?w=1200&dpr=1.0",
-      "summary": "ISRO NRSC Vacancy 2026: इसरो के राष्ट्रीय रिमोट सेंसिंग केंद्र ने रिसर्च साइंटिस्ट, प्रोजेक्ट साइंटिस्ट, प्रोजेक्ट एसोसिएट और जूनियर रिसर्च फेलो समेत 48 पदों पर भर्ती के लिए आवेदन प्रक्रिया शुरू कर दी है इसरो के एनआरएससी में नौकरी का मौका, रिसर्च साइंटिस्ट समेत 48 पदों पर भर्ती; आज से आवेदन शुरू।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इसरो के एनआरएससी में नौकरी का मौका, रिसर्च साइंटिस्ट समेत 48 पदों पर भर्ती; आज से आवेदन शुरू",
-          "summary": "ISRO NRSC Vacancy 2026: इसरो के राष्ट्रीय रिमोट सेंसिंग केंद्र ने रिसर्च साइंटिस्ट, प्रोजेक्ट साइंटिस्ट, प्रोजेक्ट एसोसिएट और जूनियर रिसर्च फेलो समेत 48 पदों पर भर्ती के लिए आवेदन प्रक्रिया शुरू कर दी है इसरो के एनआरएससी में नौकरी का मौका, रिसर्च साइंटिस्ट समेत 48 पदों पर भर्ती; आज से आवेदन शुरू।",
-          "region": "दुनिया"
+          "title": "ओमान के पास हॉर्मुज में बड़ा हमला, प्रोजेक्टाइल से बुरी तरह क्षतिग्रस्त होकर अनियंत्रित हुआ टैंकर",
+          "summary": "स्ट्रेट ऑफ हॉर्मुज में तनाव बढ़ता ही जा रहा है। ओमान के पास समुद्र में एक तेल टैंकर पर अज्ञात प्रोजेक्टाइल से हमला हुआ है, जिससे जहाज के इंजन रूम को गंभीर नुकसान पहुंचा और वह अपना नियंत्रण खो बैठा। इस घटना के बाद अंतरराष्ट्रीय समुद्री सुरक्षा को लेकर नई चिंता पैदा हो गई है। ओमान के पास हॉर्मुज में बड़ा हमला, प्रोजेक्टाइल से बुरी तरह क्षतिग्रस्त होकर अनियंत्रित हुआ टैंकर।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -429,24 +411,6 @@
       }
     },
     {
-      "title": "मनचाहा वर पाने के लिए सावन में करें ये 5 खास उपाय, विवाह में आ रही बाधाएं होंगी दूर",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/sawan-upay-for-marriage-jaldi-shadi-ke-liye-sawan-me-kya-kare-sawan-me-vivah-ke-upay-2026-08-01",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-01T07:17:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/sawan-somwar-2026_0cd1a9ac1baf3ce2ed6b263cbabd7266.jpeg?w=1200&dpr=1.0",
-      "summary": "जिन लोगों के विवाह में बाधाएं आ रही हों या मनचाहा जीवनसाथी पाने की इच्छा हो, उनके लिए सावन में किए गए कुछ उपाय बेहद फलदायी माने गए हैं। ऐसे में आइए जानते हैं मन चाहा वर पाने के लिए लड़कियों को कौन से उपाय करने चाहिए। मनचाहा वर पाने के लिए सावन में करें ये 5 खास उपाय, विवाह में आ रही बाधाएं होंगी दूर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मनचाहा वर पाने के लिए सावन में करें ये 5 खास उपाय, विवाह में आ रही बाधाएं होंगी दूर",
-          "summary": "जिन लोगों के विवाह में बाधाएं आ रही हों या मनचाहा जीवनसाथी पाने की इच्छा हो, उनके लिए सावन में किए गए कुछ उपाय बेहद फलदायी माने गए हैं। ऐसे में आइए जानते हैं मन चाहा वर पाने के लिए लड़कियों को कौन से उपाय करने चाहिए। मनचाहा वर पाने के लिए सावन में करें ये 5 खास उपाय, विवाह में आ रही बाधाएं होंगी दूर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "हिमाचल सरकार बाजार से लेगी 700 करोड़ रुपये का नया ऋण, आरबीआई कराएगा ई-नीलामी",
       "url": "https://www.amarujala.com/shimla/himachal-government-to-raise-rs-700-crore-loan-through-rbi-auction-2026-08-01",
       "source": "Amar Ujala Breaking",
@@ -460,24 +424,6 @@
         "hi": {
           "title": "हिमाचल सरकार बाजार से लेगी 700 करोड़ रुपये का नया ऋण, आरबीआई कराएगा ई-नीलामी",
           "summary": "हिमाचल प्रदेश सरकार विकास परियोजनाओं और आधारभूत ढांचा निर्माण के लिए बाजार से 700 करोड़ रुपये का ऋण जुटाएगी। आरबीआई 13 वर्ष की सरकारी प्रतिभूतियों की ई-नीलामी कराएगी। यह ऋण जुटाने का उद्देश्य राज्य की विकास परियोजनाओं को गति देना है। 13 वर्ष की सरकारी प्रतिभूतियों की ई-नीलामी आरबीआई के माध्यम से होगी। हिमाचल सरकार बाजार से लेगी 700 करोड़ रुपये का नया ऋण, आरबीआई कराएगा ई-नीलामी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘गरीबी अभी भी मेरे मन में है…’ फिर वायरल हुआ रवि किशन का पुराना वीडियो; यूजर्स ने क्यों किया ट्रोल?",
-      "url": "https://www.amarujala.com/entertainment/bollywood/ravi-kishan-talk-about-his-poverty-days-in-old-viral-clips-social-media-troll-him-2026-08-01",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-01T07:11:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/27/rava-kashana_8c0d2ff01f6892f14baabda42b479d09.jpeg?w=1200&dpr=1.0",
-      "summary": "रवि किशन ने एक पुराने वीडियो में गरीबी के बारे में बात की, जिसमें उन्होंने कहा कि गरीबी अभी भी उनके मन में है। इस वीडियो को फिर से वायरल होने के बाद, यूजर्स ने उन्हें ट्रोल करना शुरू कर दिया। रवि किशन सोशल मीडिया पर अक्सर ही ट्रोलिंग का शिकार हो जाते हैं। हाल ही में उनका एक पुराना वीडियो फिर से वायरल हो रहा है, जिसमें वह अपनी गरीब को लेकर बात कर रहे हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘गरीबी अभी भी मेरे मन में है…’ फिर वायरल हुआ रवि किशन का पुराना वीडियो; यूजर्स ने क्यों किया ट्रोल?",
-          "summary": "रवि किशन ने एक पुराने वीडियो में गरीबी के बारे में बात की, जिसमें उन्होंने कहा कि गरीबी अभी भी उनके मन में है। इस वीडियो को फिर से वायरल होने के बाद, यूजर्स ने उन्हें ट्रोल करना शुरू कर दिया। रवि किशन सोशल मीडिया पर अक्सर ही ट्रोलिंग का शिकार हो जाते हैं। हाल ही में उनका एक पुराना वीडियो फिर से वायरल हो रहा है, जिसमें वह अपनी गरीब को लेकर बात कर रहे हैं।",
           "region": "दुनिया"
         }
       }
@@ -501,20 +447,20 @@
       }
     },
     {
-      "title": "सावन में हर शनिवार और सोमवार को स्कूलों में छुट्टी, यूपी के इस जिले में नहीं खुलेंगे 12वीं तक के",
-      "url": "https://www.amarujala.com/uttar-pradesh/agra/kanwar-yatra-2026-schools-up-to-class-12-to-remain-closed-every-saturday-and-monday-in-etah-during-sawan-2026-08-01",
+      "title": "दिल्ली में लक्ष्मी योजना का पोर्टल लॉन्च, 500 महिलाओं ने भरा फॉर्म; ₹2500 के लिए कैसे करें अप्लाई?",
+      "url": "https://www.amarujala.com/delhi-ncr/delhi-lakshmi-yojana-portal-launched-by-cm-rekha-500-women-fill-out-the-form-2026-08-01",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-08-01T07:07:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/up-school-closed_3c3f813542d4ef221e4f85f6729d2e1a.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश के सोरों और कछला घाट में कांवड़ियों की बड़ी संख्या पहुंचती है। कांवड़ यात्रा के दौरान यातायात और सुरक्षा व्यवस्था को सुचारू बनाए रखने के लिए, सोरों के जिला प्रशासन ने 12वीं तक के स्कूलों में शनिवार और सोमवार को छुट्टी घोषित कर दी है। सावन में गंगाजल लेने के लिए बड़ी संख्या कांवड़िये सोरों और कछला घाट पर पहुंचते हैं।",
-      "region": "World",
+      "published_at": "2026-08-01T07:07:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/saema-rakha-gapata_7f8865820b3ad989c513536768dfd726.jpeg?w=1200&dpr=1.0",
+      "summary": "Delhi Lakshmi Yojana Portal Launch: मुख्यमंत्री रेखा गुप्ता ने दिल्ली लक्ष्मी योजना का पोर्टल लॉन्च किया। इस अवसर पर चार महिलाओं को उनके आवेदन कराने के बाद प्रमाणपत्र भी सौंपे गए। दिल्ली में लक्ष्मी योजना का पोर्टल लॉन्च, 500 महिलाओं ने भरा फॉर्म; ₹2500 के लिए कैसे करें अप्लाई?",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सावन में हर शनिवार और सोमवार को स्कूलों में छुट्टी, यूपी के इस जिले में नहीं खुलेंगे 12वीं तक के",
-          "summary": "उत्तर प्रदेश के सोरों और कछला घाट में कांवड़ियों की बड़ी संख्या पहुंचती है। कांवड़ यात्रा के दौरान यातायात और सुरक्षा व्यवस्था को सुचारू बनाए रखने के लिए, सोरों के जिला प्रशासन ने 12वीं तक के स्कूलों में शनिवार और सोमवार को छुट्टी घोषित कर दी है। सावन में गंगाजल लेने के लिए बड़ी संख्या कांवड़िये सोरों और कछला घाट पर पहुंचते हैं।",
-          "region": "दुनिया"
+          "title": "दिल्ली में लक्ष्मी योजना का पोर्टल लॉन्च, 500 महिलाओं ने भरा फॉर्म; ₹2500 के लिए कैसे करें अप्लाई?",
+          "summary": "Delhi Lakshmi Yojana Portal Launch: मुख्यमंत्री रेखा गुप्ता ने दिल्ली लक्ष्मी योजना का पोर्टल लॉन्च किया। इस अवसर पर चार महिलाओं को उनके आवेदन कराने के बाद प्रमाणपत्र भी सौंपे गए। दिल्ली में लक्ष्मी योजना का पोर्टल लॉन्च, 500 महिलाओं ने भरा फॉर्म; ₹2500 के लिए कैसे करें अप्लाई?",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -537,45 +483,9 @@
       }
     },
     {
-      "title": "'मिट्ठू' को ढूंढकर लाओ, 50 हजार रुपये ले जाओ, ग्वालियर के परिवार की अपील ने छुआ लोगों का दिल",
-      "url": "https://www.amarujala.com/bizarre-news/gwalior-family-launches-unique-search-for-missing-pet-parrot-announces-50-thousand-reward-2026-08-01",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-01T07:04:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/tata-ka-khajana-ka-le-lga-parashana_627c63b8ad4053a807f7054f37156a46.jpeg?w=1200&dpr=1.0",
-      "summary": "मध्य प्रदेश के ग्वालियर में एक परिवार ने अपने पालतू तोते ' मध्य प्रदेश के ग्वालियर में एक परिवार अपने पालतू तोते 'मिठ्ठू' के लापता होने से बेहद परेशान है। 'मिट्ठू' को ढूंढकर लाओ, 50 हजार रुपये ले जाओ, ग्वालियर के परिवार की अपील ने छुआ लोगों का दिल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मिट्ठू' को ढूंढकर लाओ, 50 हजार रुपये ले जाओ, ग्वालियर के परिवार की अपील ने छुआ लोगों का दिल",
-          "summary": "मध्य प्रदेश के ग्वालियर में एक परिवार ने अपने पालतू तोते ' मध्य प्रदेश के ग्वालियर में एक परिवार अपने पालतू तोते 'मिठ्ठू' के लापता होने से बेहद परेशान है। 'मिट्ठू' को ढूंढकर लाओ, 50 हजार रुपये ले जाओ, ग्वालियर के परिवार की अपील ने छुआ लोगों का दिल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दोस्त को चिढ़ाना है तो भेजें ये मजेदार शायरी, पढ़कर मुस्कुरा देगा आपका यार",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/relationship/friendship-day-status-in-hindi-funny-shayari-for-best-friend-friendship-day-quotes-in-hindi-2026-08-01",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-01T07:03:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/happy-friendship-day_69c2bbe4a9c0068c14a57b4b92a01320.jpeg?w=1200&dpr=1.0",
-      "summary": "मध्य प्रदेश के ग्वालियर में एक परिवार ने अपने पालतू तोते 'मिठ्ठू' के लापता होने के बाद 50 हजार रुपये का इनाम रखा है। परिवार ने लोगों से अपील की है कि वे तोते को ढूंढकर लाएं। Friendship Day Funny Shayari In Hindi: फ्रेंडशिप डे के मौके पर अगर आप अपने दोस्त को खास अंदाज में विश करना चाहते हैं तो यहां कुछ फनी और मजेदार शायरियां आपको दी जा रही हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दोस्त को चिढ़ाना है तो भेजें ये मजेदार शायरी, पढ़कर मुस्कुरा देगा आपका यार",
-          "summary": "मध्य प्रदेश के ग्वालियर में एक परिवार ने अपने पालतू तोते 'मिठ्ठू' के लापता होने के बाद 50 हजार रुपये का इनाम रखा है। परिवार ने लोगों से अपील की है कि वे तोते को ढूंढकर लाएं। Friendship Day Funny Shayari In Hindi: फ्रेंडशिप डे के मौके पर अगर आप अपने दोस्त को खास अंदाज में विश करना चाहते हैं तो यहां कुछ फनी और मजेदार शायरियां आपको दी जा रही हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "जुलाई में 2.11 लाख करोड़ रुपये पहुंचा GST संग्रह: सालाना आधार पर 15.4% की बढ़ोतरी; क्या दिखाते हैं",
       "url": "https://www.amarujala.com/business/business-diary/gst-collections-in-july-2026-reached-rs-2-11-lakh-crore-2026-08-01",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-08-01T07:03:35+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/02/gst-collection-jaesata-sagaraha_6578f6ad82ebfab51b400cc8463abeae.jpeg?w=1200&dpr=1.0",
@@ -591,27 +501,27 @@
       }
     },
     {
-      "title": "कार की चाबी और वॉलेट को एल्युमिनियम फॉयल में क्यों लपेट रहे हैं लोग? क्या यह चोरी से करता है बचाव?",
-      "url": "https://www.amarujala.com/automobiles/why-people-wrap-car-keys-and-wallets-in-aluminum-foil-does-this-simple-trick-really-protect-against-theft-2026-08-01",
-      "source": "Amar Ujala National",
+      "title": "कबड्डी खिलाड़ी की पत्नी ने दी जान: ढाई साल पहले शादी, 11 माह का बेटा, एक दिन पहले बनाई थी ये रील",
+      "url": "https://www.amarujala.com/photo-gallery/haryana/rohtak/international-kabaddi-player-wife-commits-suicide-in-rohtak-married-two-and-a-half-years-ago-11-month-old-son-2026-08-01",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-08-01T06:50:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/car-key-wrapped-in-foil_6483cd5b60e989671dc59640802f9428.jpeg?w=1200&dpr=1.0",
-      "summary": "Why People Wrap Car Keys and Wallets in Aluminum Foil: Does This Simple Trick Really Protect Against Theft? कार की चाबी और वॉलेट को एल्युमिनियम फॉयल में क्यों लपेट रहे हैं लोग? जानिए क्या यह चोरी से बचाने का असरदार तरीका है क्या यह चोरी से करता है बचाव?",
-      "region": "World",
+      "published_at": "2026-08-01T07:00:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/international-kabaddi-player-wife-suicide_1b7376ca0f741cb1cfccfacc36ec596a.jpeg?w=1200&dpr=1.0",
+      "summary": "कबड्डी खिलाड़ी शीलू बल्हारा की पत्नी मुस्कान बल्हारा ने शुक्रवार शाम फंदा लगाकर आत्महत्या कर ली। उनकी शादी ढाई साल पहले हुई थी और उनका 11 माह का बेटा है। मुस्कान ने एक दिन पहले एक रील बनाई थी। अंतरराष्ट्रीय कबड्डी खिलाड़ी शीलू बल्हारा की पत्नी मुस्कान बल्हारा (23) ने शुक्रवार शाम साढ़े 4 बजे मकान में ऊपरी मंजिल पर बने कमरे में फंदा लगाकर आत्महत्या कर ली।",
+      "region": "Global / Multilateral",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कार की चाबी और वॉलेट को एल्युमिनियम फॉयल में क्यों लपेट रहे हैं लोग? क्या यह चोरी से करता है बचाव?",
-          "summary": "Why People Wrap Car Keys and Wallets in Aluminum Foil: Does This Simple Trick Really Protect Against Theft? कार की चाबी और वॉलेट को एल्युमिनियम फॉयल में क्यों लपेट रहे हैं लोग? जानिए क्या यह चोरी से बचाने का असरदार तरीका है क्या यह चोरी से करता है बचाव?",
-          "region": "दुनिया"
+          "title": "कबड्डी खिलाड़ी की पत्नी ने दी जान: ढाई साल पहले शादी, 11 माह का बेटा, एक दिन पहले बनाई थी ये रील",
+          "summary": "कबड्डी खिलाड़ी शीलू बल्हारा की पत्नी मुस्कान बल्हारा ने शुक्रवार शाम फंदा लगाकर आत्महत्या कर ली। उनकी शादी ढाई साल पहले हुई थी और उनका 11 माह का बेटा है। मुस्कान ने एक दिन पहले एक रील बनाई थी। अंतरराष्ट्रीय कबड्डी खिलाड़ी शीलू बल्हारा की पत्नी मुस्कान बल्हारा (23) ने शुक्रवार शाम साढ़े 4 बजे मकान में ऊपरी मंजिल पर बने कमरे में फंदा लगाकर आत्महत्या कर ली।",
+          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     },
     {
       "title": "कब रिलीज होगा 'टॉक्सिक' का ट्रेलर? नए पोस्टर के साथ मेकर्स ने दी जानकारी",
       "url": "https://www.amarujala.com/entertainment/south-cinema/yash-and-kiara-advani-toxic-trailer-release-date-grand-launch-reportedly-planned-2026-08-01",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-08-01T06:49:18+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/takasaka_c66f4540c4c4f5eb41d06c6c045e6a16.jpeg?w=1200&dpr=1.0",
@@ -622,6 +532,24 @@
         "hi": {
           "title": "कब रिलीज होगा 'टॉक्सिक' का ट्रेलर? नए पोस्टर के साथ मेकर्स ने दी जानकारी",
           "summary": "Toxic Trailer Date: जल्द ही यश अपनी नई फिल्म 'टॉक्सिक' लेकर आ रहे हैं। फैंस इसका बेसब्री से इंतजार कर रहे हैं। इस बीच मेकर्स ने जानकारी दी है कि फिल्म का ट्रेलर किस तारीख को रिलीज होगा। कब रिलीज होगा 'टॉक्सिक' का ट्रेलर? नए पोस्टर के साथ मेकर्स ने दी जानकारी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कुलगाम में मातम के बीच राहत का एलान, मृतक मजदूरों के परिवारों को 10 लाख देगी उमर सरकार",
+      "url": "https://www.amarujala.com/jammu-and-kashmir/srinagar/cm-omar-abdullah-announces-rs-10-lakh-each-for-kin-of-2-migrant-labourers-killed-in-terror-attack-in-kulgam-2026-08-01",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-01T06:45:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/makhayamatara-umara-abthall_e9a1dad1bbb04266193cbc1998f84527.jpeg?w=1200&dpr=1.0",
+      "summary": "कुलगाम आतंकी हमले में मारे गए दो मजदूरों के परिवारों को मुख्यमंत्री उमर अब्दुल्ला ने 10-10 लाख की अनुग्रह राशि देने का एलान किया। इससे पहले जिला प्रशासन ने 6-6 लाख की तत्काल सहायता घोषित की थी। कुलगाम आतंकी हमले में मारे गए छत्तीसगढ़ के दो मजदूरों के परिवारों को मुख्यमंत्री उमर अब्दुल्ला ने 10-10 लाख की अनुग्रह राशि देने का एलान किया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कुलगाम में मातम के बीच राहत का एलान, मृतक मजदूरों के परिवारों को 10 लाख देगी उमर सरकार",
+          "summary": "कुलगाम आतंकी हमले में मारे गए दो मजदूरों के परिवारों को मुख्यमंत्री उमर अब्दुल्ला ने 10-10 लाख की अनुग्रह राशि देने का एलान किया। इससे पहले जिला प्रशासन ने 6-6 लाख की तत्काल सहायता घोषित की थी। कुलगाम आतंकी हमले में मारे गए छत्तीसगढ़ के दो मजदूरों के परिवारों को मुख्यमंत्री उमर अब्दुल्ला ने 10-10 लाख की अनुग्रह राशि देने का एलान किया है।",
           "region": "दुनिया"
         }
       }
@@ -663,6 +591,24 @@
       }
     },
     {
+      "title": "रूस ने यूक्रेन पर बरसाईं बैलिस्टिक मिसाइलें: कीव में भारी तबाही; 9 लोगों की मौत, 28 घायल",
+      "url": "https://www.patrika.com/world-news/russia-attack-ukraine-kyiv-ballistic-missile-strike-20795713",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-01T06:28:36+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Russia-ukraine-war.webp",
+      "summary": "रूस ने यूक्रेन की राजधानी कीव पर बैलिस्टिक मिसाइल हमले किए, जिसमें 9 लोगों की मौत हुई और 28 घायल हुए। हमले के बाद कीव में भारी तबाही हुई है। Russia attack Ukraine: रूस के हमलों में एक बार फिर यूक्रेन दहल उठा है। दरअसल, स्थानीय समयानुसार शनिवार तड़के रूस की तरफ से यूक्रेन की राजधानी कीव को निशाना बनाकर हमले किए गए।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस ने यूक्रेन पर बरसाईं बैलिस्टिक मिसाइलें: कीव में भारी तबाही; 9 लोगों की मौत, 28 घायल",
+          "summary": "रूस ने यूक्रेन की राजधानी कीव पर बैलिस्टिक मिसाइल हमले किए, जिसमें 9 लोगों की मौत हुई और 28 घायल हुए। हमले के बाद कीव में भारी तबाही हुई है। Russia attack Ukraine: रूस के हमलों में एक बार फिर यूक्रेन दहल उठा है। दरअसल, स्थानीय समयानुसार शनिवार तड़के रूस की तरफ से यूक्रेन की राजधानी कीव को निशाना बनाकर हमले किए गए।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "PoK में गोली चली, पाकिस्तान में बगावत भड़क गई, शाहबाज-मुनीर के खिलाफ सड़कों पर उतरे लोग",
       "url": "https://hindi.news18.com/world/pakistan-pok-rawalakot-protest-cities-across-country-pakistan-news-shehbaz-government-10708213.html",
       "source": "News18 Hindi (World)",
@@ -677,24 +623,6 @@
           "title": "PoK में गोली चली, पाकिस्तान में बगावत भड़क गई, शाहबाज-मुनीर के खिलाफ सड़कों पर उतरे लोग",
           "summary": "पाकिस्तान के कब्जे वाले कश्मीर के रावलाकोट में पुलिस कार्रवाई के विरोध में प्रदर्शन हुए. प्रदर्शनकारियों ने शाहबाज शरीफ सरकार और सेना पर नागरिक अधिकारों का दमन करने का आरोप लगाया. उन्होंने स्वतंत्र जांच और गिरफ्तार कार्यकर्ताओं की रिहाई की मांग की. पाकिस्तान के कब्जे वाले कश्मीर के रावलाकोट में हुई पुलिस कार्रवाई के विरोध में पाकिस्तान के कई बड़े शहरों में प्रदर्शन हुए.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मृतकों की संख्या बढ़कर 82 पहुंची, राज्य सरकार ने बीमा और कर्ज में राहत देने का किया एलान",
-      "url": "https://www.amarujala.com/india-news/assam-grappling-with-floods-death-toll-rises-to-82-state-government-announces-relief-on-insurance-and-loans-2026-08-01",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-01T06:21:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/29/asama-ma-bugdhha-ka-kahara_08ee892630e1fc608f32012a03e8f85b.gif?w=1200&dpr=1.0",
-      "summary": "असम में बाढ़ से मरने वालों की संख्या 82 पहुंच गई है. राज्य सरकार ने बीमा और कर्ज में राहत देने का एलान किया है. असम में बाढ़ की स्थिति गंभीर बनी हुई है. मृतकों की संख्या बढ़कर 82 पहुंची, राज्य सरकार ने बीमा और कर्ज में राहत देने का किया एलान।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मृतकों की संख्या बढ़कर 82 पहुंची, राज्य सरकार ने बीमा और कर्ज में राहत देने का किया एलान",
-          "summary": "असम में बाढ़ से मरने वालों की संख्या 82 पहुंच गई है. राज्य सरकार ने बीमा और कर्ज में राहत देने का एलान किया है. असम में बाढ़ की स्थिति गंभीर बनी हुई है. मृतकों की संख्या बढ़कर 82 पहुंची, राज्य सरकार ने बीमा और कर्ज में राहत देने का किया एलान।",
-          "region": "दुनिया"
         }
       }
     },
@@ -717,20 +645,38 @@
       }
     },
     {
-      "title": "खुले नाले ने निगल ली मासूम चारू: भाई लेने पहुंचा था स्कूल, आंखों के सामने नाले में बह गई, पांच दिन",
-      "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/body-of-student-charu-was-recovered-from-the-river-2026-08-01",
-      "source": "Amar Ujala Breaking",
+      "title": "PoK में भड़की बगावत की आग, 50 नागरिकों की मौत के बाद इस्लामाबाद में भारी बवाल, घुटनों पर आई शहबाज",
+      "url": "https://www.patrika.com/world-news/pok-protest-violence-death-toll-rises-pakistan-shehbaz-government-backfoot-20795496",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-08-01T06:03:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/kakashha-4-ka-chhatara-ka-mal-shava_2b9a05c1403e8647af73abf23ed60d9b.jpeg?w=1200&dpr=1.0",
-      "summary": "मध्य प्रदेश के ग्वालियर में एक परिवार ने अपने पालतू तोते 'मिठ्ठू' के लापता होने के बाद 50 हजार रुपये का इनाम रखा है। परिवार ने लोगों से अपील की है कि वे तोते को ढूंढकर लाएं। 28 जुलाई को मूसलाधार बारिश के दौरान स्कूल से घर लौट रही कक्षा चार की छात्रा छह फीट गहरे नाले में बह गई।",
-      "region": "World",
+      "published_at": "2026-08-01T05:33:42+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/photo_6300634779363250667_w-1.webp",
+      "summary": "पाकिस्तान के कब्जे वाले कश्मीर में हिंसा और विरोध प्रदर्शन जारी हैं। पाकिस्तान के कब्जे वाले कश्मीर में सुरक्षा बलों की बर्बर कार्रवाई में 50 से ज्यादा आम नागरिकों की जान जा चुकी है। इस खूनखराबे के खिलाफ प्रदर्शनकारी भारी बवाल कर रहे हैं। Rawalakot Protest: पाकिस्तान के कब्जे वाले कश्मीर (PoK) में हालात पूरी तरह बिगड़ चुके हैं। पिछले तीन-चार दिनों से वहां जबरदस्त हिंसा और विरोध प्रदर्शन चल रहे हैं, जिसने पाकिस्तान की शहबाज शरीफ सरकार की मुश्किलें बढ़ा दी हैं।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "खुले नाले ने निगल ली मासूम चारू: भाई लेने पहुंचा था स्कूल, आंखों के सामने नाले में बह गई, पांच दिन",
-          "summary": "मध्य प्रदेश के ग्वालियर में एक परिवार ने अपने पालतू तोते 'मिठ्ठू' के लापता होने के बाद 50 हजार रुपये का इनाम रखा है। परिवार ने लोगों से अपील की है कि वे तोते को ढूंढकर लाएं। 28 जुलाई को मूसलाधार बारिश के दौरान स्कूल से घर लौट रही कक्षा चार की छात्रा छह फीट गहरे नाले में बह गई।",
-          "region": "दुनिया"
+          "title": "PoK में भड़की बगावत की आग, 50 नागरिकों की मौत के बाद इस्लामाबाद में भारी बवाल, घुटनों पर आई शहबाज",
+          "summary": "पाकिस्तान के कब्जे वाले कश्मीर में हिंसा और विरोध प्रदर्शन जारी हैं। पाकिस्तान के कब्जे वाले कश्मीर में सुरक्षा बलों की बर्बर कार्रवाई में 50 से ज्यादा आम नागरिकों की जान जा चुकी है। इस खूनखराबे के खिलाफ प्रदर्शनकारी भारी बवाल कर रहे हैं। Rawalakot Protest: पाकिस्तान के कब्जे वाले कश्मीर (PoK) में हालात पूरी तरह बिगड़ चुके हैं। पिछले तीन-चार दिनों से वहां जबरदस्त हिंसा और विरोध प्रदर्शन चल रहे हैं, जिसने पाकिस्तान की शहबाज शरीफ सरकार की मुश्किलें बढ़ा दी हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मासूम तड़पता रहा, मां मदद की जगह मोबाइल में उलझी रही; दर्दनाक मौत के बाद फ्लोरिडा में केस दर्ज",
+      "url": "https://www.patrika.com/world-news/florida-mother-arrested-baby-death-case-20795569",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-01T05:33:27+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/new-born-baby.webp",
+      "summary": "फ्लोरिडा में छह महीने के बच्चे की मौत के बाद मां को गिरफ्तार किया गया। फ्लोरिडा में एक छह महीने के बच्चे की मौत के बाद उसकी मां को गिरफ्तार किया गया है। आरोप है कि बच्चे की हालत गंभीर होने के बावजूद उसने उसका इलाज नहीं कराया। Florida baby death: बच्चे के लिए मां की गोद दुनिया की सबसे सुरक्षित जगह मानी जाती है, लेकिन अमेरिका के फ्लोरिडा से आई एक घटना ने इस भरोसे को झकझोर कर रख दिया।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मासूम तड़पता रहा, मां मदद की जगह मोबाइल में उलझी रही; दर्दनाक मौत के बाद फ्लोरिडा में केस दर्ज",
+          "summary": "फ्लोरिडा में छह महीने के बच्चे की मौत के बाद मां को गिरफ्तार किया गया। फ्लोरिडा में एक छह महीने के बच्चे की मौत के बाद उसकी मां को गिरफ्तार किया गया है। आरोप है कि बच्चे की हालत गंभीर होने के बावजूद उसने उसका इलाज नहीं कराया। Florida baby death: बच्चे के लिए मां की गोद दुनिया की सबसे सुरक्षित जगह मानी जाती है, लेकिन अमेरिका के फ्लोरिडा से आई एक घटना ने इस भरोसे को झकझोर कर रख दिया।",
+          "region": "अमेरिका"
         }
       }
     },
@@ -753,19 +699,73 @@
       }
     },
     {
-      "title": "PM को अपशब्द कहने वाली लड़की ने मांगी माफी, सोशल मीडिया पर वायरल वीडियो में क्या-क्या कहा?",
-      "url": "https://www.amarujala.com/india-news/neet-protest-minor-girl-apologises-for-abusive-slogans-against-pm-modi-jantar-mantar-video-viral-2026-08-01",
-      "source": "Amar Ujala Breaking",
+      "title": "भारत की नकल कर पाकिस्तान ने बनाई 'कॉकरोच पार्टी': किन मुद्दों पर लड़ेगा यह समूह, क्या है इसका प्लान?",
+      "url": "https://www.amarujala.com/world/pakistan-cockroach-party-inspired-by-indias-cjp-agenda-corruption-economic-crisis-youth-movement-plan-2026-08-01",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-08-01T04:31:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/girl-apology-pm-modi_a194181f2b001e7f3909f9b5981fee0a.jpeg?w=1200&dpr=1.0",
-      "summary": "'मैं बहुत शर्मिंदा हूं': पीएम को अपशब्द कहने वाली लड़की ने मांगी माफी, वीडियो जारी कर और क्या-क्या कहा? neet-protest-minor-girl-apologises-for-abusive-slogans-against-pm-modi-jantar-mantar-video-viral PM को अपशब्द कहने वाली लड़की ने मांगी माफी, सोशल मीडिया पर वायरल वीडियो में क्या-क्या कहा?",
+      "published_at": "2026-08-01T04:28:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/cockroach-party-pakistan_f56ac825f9cfd85acea3a20b1bc15221.jpeg?w=1200&dpr=1.0",
+      "summary": "पाकिस्तान ने भारत की नकल कर 'कॉकरोच पार्टी' बनाई है। इसका प्लान अभी स्पष्ट नहीं है, लेकिन यह पाकिस्तान की राजनीति में एक नया मोड़ हो सकता है। भारत की नकल कर पाकिस्तान ने बनाई 'कॉकरोच पार्टी': किन मुद्दों पर लड़ेगा यह समूह, क्या है इसका प्लान?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत की नकल कर पाकिस्तान ने बनाई 'कॉकरोच पार्टी': किन मुद्दों पर लड़ेगा यह समूह, क्या है इसका प्लान?",
+          "summary": "पाकिस्तान ने भारत की नकल कर 'कॉकरोच पार्टी' बनाई है। इसका प्लान अभी स्पष्ट नहीं है, लेकिन यह पाकिस्तान की राजनीति में एक नया मोड़ हो सकता है। भारत की नकल कर पाकिस्तान ने बनाई 'कॉकरोच पार्टी': किन मुद्दों पर लड़ेगा यह समूह, क्या है इसका प्लान?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान की मिसाइल का शिकार बनीं भारतीय मूल की बेटी, अमेरिका ने 'हीरो' की तरह दी आखिरी विदाई",
+      "url": "https://hindi.news18.com/world/america-indian-origin-us-soldier-angel-sara-ramprasad-funeral-died-in-iran-war-10707969.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-01T04:03:23+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Angel-Rampersad-2026-08-a2a17ba6afcb9cb2bf3b2148bf1ec7f3-1200x800.jpg",
+      "summary": "भारतीय मूल की अमेरिकी सेना की सर्जेंट को ईरान के मिसाइल हमले में मारा गया। भारतीय मूल की अमेरिकी सेना की सर्जेंट एंजेल सारा रामप्रसाद को ईरान के मिसाइल हमले में मारा गया है। उन्हें न्यूयॉर्क में पूरे सैन्य सम्मान के साथ अंतिम विदाई दी गई। Iran US War News: ईरान के मिसाइल हमले में मारी गई भारतीय मूल की अमेरिकी सेना की सर्जेंट एंजेल सारा रामप्रसाद को न्यूयॉर्क में पूरे सैन्य सम्मान के साथ अंतिम विदाई दी गई.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान की मिसाइल का शिकार बनीं भारतीय मूल की बेटी, अमेरिका ने 'हीरो' की तरह दी आखिरी विदाई",
+          "summary": "भारतीय मूल की अमेरिकी सेना की सर्जेंट को ईरान के मिसाइल हमले में मारा गया। भारतीय मूल की अमेरिकी सेना की सर्जेंट एंजेल सारा रामप्रसाद को ईरान के मिसाइल हमले में मारा गया है। उन्हें न्यूयॉर्क में पूरे सैन्य सम्मान के साथ अंतिम विदाई दी गई। Iran US War News: ईरान के मिसाइल हमले में मारी गई भारतीय मूल की अमेरिकी सेना की सर्जेंट एंजेल सारा रामप्रसाद को न्यूयॉर्क में पूरे सैन्य सम्मान के साथ अंतिम विदाई दी गई.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘ईरान नहीं रख सकता परमाणु हथियार, हम सिर्फ जीतना चाहते हैं’, जानिए डोनाल्ड ट्रंप ने भारत-पाक युद्ध",
+      "url": "https://www.patrika.com/world-news/donald-trump-statement-iran-nuclear-weapon-india-pakistan-operation-sindoor-20795232",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-01T03:40:43+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/photo_6300634779363250542_y.webp",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के परमाणु हथियार रखने की संभावना को नकार दिया। उन्होंने कहा कि ईरान परमाणु हथियार नहीं रख सकता है। ट्रंप ने भारत और पाकिस्तान के बीच हुए ऑपरेशन सिंदूर को लेकर भी एक दावा किया। Donald Trump: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक बार फिर दुनिया के देशों को लेकर बड़ा बयान दिया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘ईरान नहीं रख सकता परमाणु हथियार, हम सिर्फ जीतना चाहते हैं’, जानिए डोनाल्ड ट्रंप ने भारत-पाक युद्ध",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के परमाणु हथियार रखने की संभावना को नकार दिया। उन्होंने कहा कि ईरान परमाणु हथियार नहीं रख सकता है। ट्रंप ने भारत और पाकिस्तान के बीच हुए ऑपरेशन सिंदूर को लेकर भी एक दावा किया। Donald Trump: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक बार फिर दुनिया के देशों को लेकर बड़ा बयान दिया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चांद पर गिरने वाला है 4500 किलो का 'भटका दैत्य', एलन मस्क ने छोड़ा था रॉकेट, क्या धरती से दिखेगी",
+      "url": "https://hindi.news18.com/world/america-spacex-rocket-crash-into-moon-date-what-was-mission-and-will-it-be-visible-from-earth-10707892.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-01T03:29:06+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/moon-2026-08-93155067cf94738d828be823fa8269c0-1200x800.jpg",
+      "summary": "एलन मस्क की कंपनी स्पेसएक्स का एक अनियंत्रित रॉकेट चंद्रमा से टकराएगा। यह घटना लगभग 8,700 किमी प्रति घंटे की रफ्तार से होगी। वैज्ञानिक इस घटना का अध्ययन करेंगे और इसे अंतरिक्ष में बढ़ते स्पेस कचरे की चेतावनी मान रहे हैं। Elon Musk Moon Mission: एलन मस्क की कंपनी स्पेसएक्स का एक अनियंत्रित हो चुका रॉकेट स्टेज बुधवार को करीब 8,700 किमी प्रति घंटे की रफ्तार से चंद्रमा से टकराएगा.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "PM को अपशब्द कहने वाली लड़की ने मांगी माफी, सोशल मीडिया पर वायरल वीडियो में क्या-क्या कहा?",
-          "summary": "'मैं बहुत शर्मिंदा हूं': पीएम को अपशब्द कहने वाली लड़की ने मांगी माफी, वीडियो जारी कर और क्या-क्या कहा? neet-protest-minor-girl-apologises-for-abusive-slogans-against-pm-modi-jantar-mantar-video-viral PM को अपशब्द कहने वाली लड़की ने मांगी माफी, सोशल मीडिया पर वायरल वीडियो में क्या-क्या कहा?",
+          "title": "चांद पर गिरने वाला है 4500 किलो का 'भटका दैत्य', एलन मस्क ने छोड़ा था रॉकेट, क्या धरती से दिखेगी",
+          "summary": "एलन मस्क की कंपनी स्पेसएक्स का एक अनियंत्रित रॉकेट चंद्रमा से टकराएगा। यह घटना लगभग 8,700 किमी प्रति घंटे की रफ्तार से होगी। वैज्ञानिक इस घटना का अध्ययन करेंगे और इसे अंतरिक्ष में बढ़ते स्पेस कचरे की चेतावनी मान रहे हैं। Elon Musk Moon Mission: एलन मस्क की कंपनी स्पेसएक्स का एक अनियंत्रित हो चुका रॉकेट स्टेज बुधवार को करीब 8,700 किमी प्रति घंटे की रफ्तार से चंद्रमा से टकराएगा.",
           "region": "दुनिया"
         }
       }
