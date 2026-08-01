@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-08-01T10:35:35.391587+00:00",
+  "generated_at": "2026-08-01T11:30:36.145819+00:00",
   "article_count": 50,
-  "total_unique_count": 255,
+  "total_unique_count": 267,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Biggest Clue In US-Iran Conflict Is 'The Dog That Hasn't Barked,' Says War College's Jacob Stoil. 25 fresh dispatches in this edition.",
-    "hi": "आज बोर्ड पर अमेरिका जाने वालों के लिए वीजा के लिए 19 लाख का बांड परमानेंट हुआ। हूतियों के डर से सऊदी के जहाजों ने बदला रास्ता। ओमान के पास टैंकर पर हमला हुआ।"
+    "en": "Ebola outbreaks dominate the Democratic Republic of Congo. Iran's military accuses the US of escalating regional tensions. Russia launches ballistic missile attacks on Kyiv.",
+    "hi": "हूतियों के डर से सऊदी के जहाजों ने बदला रास्ता। ओमान के पास टैंकर पर हमला हुआ। कुवैत में ड्रोन अटैक हुआ।"
   },
   "articles": [
+    {
+      "title": "Ebola en RDC, une épidémie hors de contrôle ?",
+      "url": "https://www.crisisgroup.org/fr/pod/africa/democratic-republic-congo/ebola-en-rdc-une-epidemie-hors-de-controle",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Vendredi, juillet 24, 2026 - 13:43",
+      "image_url": "https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Frédéric Manantsoa Lai, coordinateur des urgences pour Médecins Sans Frontières, et Onesphore Sematumba, analyste senior pour la République démocratique du Congo et le Burundi à Crisis Group, pour parler de l’épidémie d’Ebola en RDC et de ses conséquences sur la population congolaise, déjà marquée par des années de conflit.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "url": "https://www.crisisgroup.org/tr/brf/europe/european-union-turkiye/b99-eu-and-turkiye-uniting-defence",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Perşembe, Temmuz 23, 2026 - 15:54",
+      "image_url": "https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran military accuses U.S. of 'escalating tensions' in region",
+      "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-08-01T11:22:59+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/w0phq4/article71294358.ece/alternates/LANDSCAPE_1200/2026-07-30T093158Z_1214824763_RC28OMAAQJ8V_RTRMADP_3_IRAN-CRISIS.JPG",
+      "summary": "There were no U. S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones White House signals Trump is weighing new strikes on Iran. Iran military accuses U. S. of 'escalating tensions' in region.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Russia Launches Deadly Ballistic Missile Attack On Kyiv",
+      "url": "https://www.rferl.org/a/russia-launches-deadly-ballistic-missile-attack-on-kyiv/33819745.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-08-01T10:30:23+00:00",
+      "image_url": "https://gdb.rferl.org/90ced989-d430-40d9-19b3-08decad58b60_w1200_h630.jpg",
+      "summary": "Russia launched dozens of ballistic missiles at Kyiv, killing at least nine people and injuring 23, according to emergency services. Zelenskyy said a shortage of air defense missiles limited Ukraine's ability to intercept the attack. Russia Launches Deadly Ballistic Missile Attack On Kyiv.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Biggest Clue In US-Iran Conflict Is 'The Dog That Hasn't Barked,' Says War College's Jacob Stoil",
       "url": "https://www.rferl.org/a/iran-war-stoil-army-war-college-interview/33819707.html",
@@ -15,31 +63,6 @@
       "published_at": "2026-08-01T08:25:00+00:00",
       "image_url": "https://gdb.rferl.org/e53d2ec0-f2d4-4dfc-b4c3-513e4d9dc904_cx0_cy9_cw0_w1200_h630.jpg",
       "summary": "A renewed exchange of military strikes and threats between the US and Iran has raised fresh fears of a wider Middle East war. But Jacob Stoil, research professor of Middle East security studies at the US Army War College, argues the more important story may be what has not happened. Biggest Clue In US-Iran Conflict Is 'The Dog That Hasn't Barked,' Says War College's Jacob Stoil.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "White House signals Trump is weighing new strikes on Iran",
-      "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
-      "source": "The Hindu (International)",
-      "sources": [
-        {
-          "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
-          "source": "The Hindu (International)"
-        },
-        {
-          "url": "https://www.thehindu.com/news/international/white-house-signals-trump-is-weighing-new-strikes-on-iran/article71293383.ece",
-          "source": "The Hindu (International)"
-        },
-        {
-          "url": "https://www.thehindu.com/news/international/white-house-signals-trump-is-weighing-new-strikes-on-iran/article71293383.ece",
-          "source": "The Hindu (International)"
-        }
-      ],
-      "published_at": "2026-08-01T08:24:18+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/b8pcre/article71293384.ece/alternates/LANDSCAPE_1200/2026-07-31T205657Z_2000863873_RC28PMA31MLC_RTRMADP_3_USA-TRUMP.JPG",
-      "summary": "There were no U. S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones White House signals Trump is weighing new strikes on Iran.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -225,30 +248,6 @@
       "translations": {}
     },
     {
-      "title": "'Get Off The Bus, Get Out Of The Country.' Ukrainians Took Refuge In Poland. Now They're",
-      "url": "https://www.rferl.org/a/ukraine-poland-war-refugees-hate-crimes/33818435.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-07-30T16:42:47+00:00",
-      "image_url": "https://gdb.rferl.org/0295912a-cbef-4a1f-aafe-08dd4a814ce6_cx0_cy7_cw0_w1200_h630.jpeg",
-      "summary": "Ukrainians who've taken refuge in Poland from the Russian invasion say they’re increasingly under threat, targeted by xenophobic, racist attacks. The fears come as tensions between Kyiv and Warsaw fester due to grievances dating back to World War II. 'Get Off The Bus, Get Out Of The Country.' Ukrainians Took Refuge In Poland. Now They're.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
-      "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-30T12:46:50+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/8a229e914e527ca2c03aa7e248aa1ddf24ea0d3e/278_50_4532_3627/master/4532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71d9c696de8b3a9ff55e69780e1ec7d3",
-      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife ServiceThe recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesting pesticides used on nearby tomato farms, the Kenya Wildlife Service (KWS) has said. Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife ServiceThe recent deaths of 15 elephants near a park in southern Kenya in the past month were most likely caused by the animals ingesting pesticides used on nearby tomato farms, the Kenya Wildlife Service (KWS) has said. Erustus Kanga, the agency’s director general, told Citizen TV that analysi.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Fear grows as freedoms shrink in Uganda",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168057",
       "source": "UN News",
@@ -309,16 +308,58 @@
       "translations": {}
     },
     {
-      "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168043",
-      "source": "UN News",
+      "title": "हूतियों के डर से सऊदी के जहाजों ने बदला रास्ता, ओमान के पास टैंकर पर हमला, कुवैत में ड्रोन अटैक",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-news-oman-tanker-attack-donald-trump-iran-warning-livenews-10708130.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-28T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/28-07-2026-UNESCO-France-D-Day.jpg/image770x420cropped.jpg",
-      "summary": "From the peaks of Mount Olympus in Greece to the shores of the “D-Day” beaches in France, 25 cultural or natural landmarks from across the globe have been newly inscribed on the World Heritage List, updated annually by the UN Educational, Scientific and Cultural Organization (UNESCO). Mount Olympus and D-Day beaches among new World Heritage Sites.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-08-01T11:11:29+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/hormuz-12-2026-08-21e8f3cb8672fe932fe3c94e9e0052b5-1200x800.jpg",
+      "summary": "An oil tanker off Oman’s coast was struck by an unknown projectile. Iran warned that if the United States launches a military strike, it will target U. S. and Israeli sites, deepening tensions across West Asia. President Trump had earlier warned of a possible strike. Iran-US War News: ओमान के तट के पास एक तेल टैंकर पर अज्ञात प्रोजेक्टाइल से हमला हुआ है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हूतियों के डर से सऊदी के जहाजों ने बदला रास्ता, ओमान के पास टैंकर पर हमला, कुवैत में ड्रोन अटैक",
+          "summary": "An oil tanker off Oman’s coast was struck by an unknown projectile. Iran warned that if the United States launches a military strike, it will target U. S. and Israeli sites, deepening tensions across West Asia. President Trump had earlier warned of a possible strike. Iran-US War News: ओमान के तट के पास एक तेल टैंकर पर अज्ञात प्रोजेक्टाइल से हमला हुआ है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हाय गर्मी! यूरोप को ‘कूल’ रखकर जेब भर रहीं चीनी कंपनियां",
+      "url": "https://www.patrika.com/world-news/europe-heatwave-chinese-air-conditioner-demand-2026-20796552",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-01T11:02:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Europe-Heatwave.webp",
+      "summary": "Europe Heatwave: यूरोप ने इस बार भयानक गर्मी का सामना किया है। जंगल की आग और चढ़ते तापमान ने लोगों को इस कदर बेहाल कर दिया है कि एयर-कंडीशनर की मांग एकदम से बढ़ गई है। कुछ इलाकों में तापमान 100 डिग्री फारेनहाइट से ऊपर पहुंच गया है। दुनिया के दूसरे हिस्सों की तुलना में यूरोप ने AC का इस्तेमाल देर से शुरू किया, लेकिन इस बार की गर्मी ने लोगों को अहसास दिलाया है कि भविष्य में शायद इसके बिना काम न चले।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हाय गर्मी! यूरोप को ‘कूल’ रखकर जेब भर रहीं चीनी कंपनियां",
+          "summary": "Europe Heatwave: यूरोप ने इस बार भयानक गर्मी का सामना किया है। जंगल की आग और चढ़ते तापमान ने लोगों को इस कदर बेहाल कर दिया है कि एयर-कंडीशनर की मांग एकदम से बढ़ गई है। कुछ इलाकों में तापमान 100 डिग्री फारेनहाइट से ऊपर पहुंच गया है। दुनिया के दूसरे हिस्सों की तुलना में यूरोप ने AC का इस्तेमाल देर से शुरू किया, लेकिन इस बार की गर्मी ने लोगों को अहसास दिलाया है कि भविष्य में शायद इसके बिना काम न चले।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में 7 जगह हुए अटैक, ट्रंप को लगा सदमा, ईरान का नाम भी नहीं ले पा रहे",
+      "url": "https://hindi.news18.com/world/america-cyber-attack-on-us-water-system-7-states-hit-in-major-infrastructure-hacked-donald-trump-could-not-blame-iran-10709114.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-01T10:43:53+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Cyber-Attack-on-US-Water-System-7-States-Hit-2026-08-8cacd481b48c4a3408d524096e6b016b-1200x800.jpg",
+      "summary": "अमेरिका के 7 राज्यों में एक के बाद एक तगड़े अटैक हैं. ये हमले सीधे उस लाइफलाइन पर हुए हैं, जिसकी दर्द से आम जनता कराह उठी. इस हमले के बाद ट्रंप का ऐसा हाल हो गया है कि वो ईरान का नाम भी नहीं ले पा रहे हैं. ट्रंप उल्टा अपने ही लोगों को बदनाम करने में जुट गए हैं लेकिन अपने सबसे बड़े दुश्मन की चालाकी दुनिया के सामने एक्सेप्ट नहीं कर पा रहे हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में 7 जगह हुए अटैक, ट्रंप को लगा सदमा, ईरान का नाम भी नहीं ले पा रहे",
+          "summary": "अमेरिका के 7 राज्यों में एक के बाद एक तगड़े अटैक हैं. ये हमले सीधे उस लाइफलाइन पर हुए हैं, जिसकी दर्द से आम जनता कराह उठी. इस हमले के बाद ट्रंप का ऐसा हाल हो गया है कि वो ईरान का नाम भी नहीं ले पा रहे हैं. ट्रंप उल्टा अपने ही लोगों को बदनाम करने में जुट गए हैं लेकिन अपने सबसे बड़े दुश्मन की चालाकी दुनिया के सामने एक्सेप्ट नहीं कर पा रहे हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "अमेरिका जाने वालों के लिए बुरी खबर, वीजा के लिए 19 लाख का बांड हुआ परमानेंट, क्या भारत पर होगा असर?",
@@ -339,19 +380,19 @@
       }
     },
     {
-      "title": "हूतियों के डर से सऊदी के जहाजों ने बदला रास्ता, ओमान के पास टैंकर पर हमला, कुवैत में ड्रोन अटैक",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-news-oman-tanker-attack-donald-trump-iran-warning-livenews-10708130.html",
-      "source": "News18 Hindi (World)",
+      "title": "ईरान की अमेरिका समर्थक देशों को चेतावनी, कहा- US की ढाल बने तो युद्ध की आग में झुलसोगे",
+      "url": "https://www.patrika.com/world-news/us-iran-conflict-ali-abdollahi-warns-regional-countries-over-american-alignment-20796395",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-08-01T10:18:11+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/hormuz-12-2026-08-21e8f3cb8672fe932fe3c94e9e0052b5-1200x800.jpg",
-      "summary": "An oil tanker off Oman’s coast was struck by an unknown projectile. Iran warned that if the United States launches a military strike, it will target U. S. and Israeli sites, deepening tensions across West Asia. President Trump had earlier warned of a possible strike. Iran-US War News: ओमान के तट के पास एक तेल टैंकर पर अज्ञात प्रोजेक्टाइल से हमला हुआ है.",
+      "published_at": "2026-08-01T10:12:30+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Iranian-Major-General-Ali-Abdollahi.webp",
+      "summary": "मेजर जनरल अली अब्दुल्लाही ने अमेरिका समर्थक देशों को चेतावनी दी कि यदि वे अमेरिका की ढाल बनते हैं तो वे युद्ध की आग में झुलस जाएंगे। ईरान की शीर्ष संयुक्त सैन्य कमान के प्रमुख ने कहा कि अमेरिका पूरे क्षेत्र को एक व्यापक और विनाशकारी युद्ध की ओर धकेल रहा है। ईरानी राष्ट्रीय प्रसारक द्वारा जारी बयान में यह बात कही गई।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हूतियों के डर से सऊदी के जहाजों ने बदला रास्ता, ओमान के पास टैंकर पर हमला, कुवैत में ड्रोन अटैक",
-          "summary": "An oil tanker off Oman’s coast was struck by an unknown projectile. Iran warned that if the United States launches a military strike, it will target U. S. and Israeli sites, deepening tensions across West Asia. President Trump had earlier warned of a possible strike. Iran-US War News: ओमान के तट के पास एक तेल टैंकर पर अज्ञात प्रोजेक्टाइल से हमला हुआ है.",
+          "title": "ईरान की अमेरिका समर्थक देशों को चेतावनी, कहा- US की ढाल बने तो युद्ध की आग में झुलसोगे",
+          "summary": "मेजर जनरल अली अब्दुल्लाही ने अमेरिका समर्थक देशों को चेतावनी दी कि यदि वे अमेरिका की ढाल बनते हैं तो वे युद्ध की आग में झुलस जाएंगे। ईरान की शीर्ष संयुक्त सैन्य कमान के प्रमुख ने कहा कि अमेरिका पूरे क्षेत्र को एक व्यापक और विनाशकारी युद्ध की ओर धकेल रहा है। ईरानी राष्ट्रीय प्रसारक द्वारा जारी बयान में यह बात कही गई।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -515,24 +556,6 @@
           "title": "'यह युद्ध की खुली तैयारी', NATO ने ऐसा क्‍या किया कि भड़क गया एक और कुंभकर्ण, ईरान जंग के बीच नया",
           "summary": "NATO ने अपने सैन्य अभ्यास के दौरान पूर्वी यूरोप में अमेरिकी बमवर्षक विमानों की तैनाती की, जिससे नॉर्थ कोरिया ने अपनी सैन्य तैयारी में तेजी लाने का फैसला किया है। नॉर्थ कोरिया के नेता किम जोंग उन ने अपने सैन्य अधिकारियों को सतर्क रहने के लिए कहा है और संभावित हमले के लिए तैयार रहने के लिए कहा है। NATO vs North Korea: दुनिया फिलहाल दो युद्ध के दौर से गुजर रही है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कब रिलीज होगा 'टॉक्सिक' का ट्रेलर? नए पोस्टर के साथ मेकर्स ने दी जानकारी",
-      "url": "https://www.amarujala.com/entertainment/south-cinema/yash-and-kiara-advani-toxic-trailer-release-date-grand-launch-reportedly-planned-2026-08-01",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-01T06:49:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/takasaka_c66f4540c4c4f5eb41d06c6c045e6a16.jpeg?w=1200&dpr=1.0",
-      "summary": "Toxic Trailer Date: जल्द ही यश अपनी नई फिल्म 'टॉक्सिक' लेकर आ रहे हैं। फैंस इसका बेसब्री से इंतजार कर रहे हैं। इस बीच मेकर्स ने जानकारी दी है कि फिल्म का ट्रेलर किस तारीख को रिलीज होगा। कब रिलीज होगा 'टॉक्सिक' का ट्रेलर? नए पोस्टर के साथ मेकर्स ने दी जानकारी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कब रिलीज होगा 'टॉक्सिक' का ट्रेलर? नए पोस्टर के साथ मेकर्स ने दी जानकारी",
-          "summary": "Toxic Trailer Date: जल्द ही यश अपनी नई फिल्म 'टॉक्सिक' लेकर आ रहे हैं। फैंस इसका बेसब्री से इंतजार कर रहे हैं। इस बीच मेकर्स ने जानकारी दी है कि फिल्म का ट्रेलर किस तारीख को रिलीज होगा। कब रिलीज होगा 'टॉक्सिक' का ट्रेलर? नए पोस्टर के साथ मेकर्स ने दी जानकारी।",
-          "region": "दुनिया"
         }
       }
     },
@@ -730,42 +753,6 @@
         "hi": {
           "title": "चांद पर गिरने वाला है 4500 किलो का 'भटका दैत्य', एलन मस्क ने छोड़ा था रॉकेट, क्या धरती से दिखेगी",
           "summary": "एलन मस्क की कंपनी स्पेसएक्स का एक अनियंत्रित रॉकेट चंद्रमा से टकराएगा। यह घटना लगभग 8,700 किमी प्रति घंटे की रफ्तार से होगी। वैज्ञानिक इस घटना का अध्ययन करेंगे और इसे अंतरिक्ष में बढ़ते स्पेस कचरे की चेतावनी मान रहे हैं। Elon Musk Moon Mission: एलन मस्क की कंपनी स्पेसएक्स का एक अनियंत्रित हो चुका रॉकेट स्टेज बुधवार को करीब 8,700 किमी प्रति घंटे की रफ्तार से चंद्रमा से टकराएगा.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘लाल सागर सभी जहाजों के लिए अब भी मुफ्त’, ईरान के साथ मीटिंग के बाद यमन के हूती विद्रोहियों का बड़ा",
-      "url": "https://www.patrika.com/world-news/houthi-decide-no-fee-on-red-sea-ships-after-iran-meeting-20795077",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-01T03:28:03+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Houthi-Militants.webp",
-      "summary": "यमन के हूती विद्रोहियों ने एक बार फिर दुनिया को चौंका दिया है। उन्होंने साफ कहा है कि लाल सागर के बाब-एल-मंडेब स्ट्रेट से गुजरने वाले सभी व्यापारिक जहाजों पर कोई फीस नहीं लगाई जाएगी। ‘लाल सागर सभी जहाजों के लिए अब भी मुफ्त’, ईरान के साथ मीटिंग के बाद यमन के हूती विद्रोहियों का बड़ा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘लाल सागर सभी जहाजों के लिए अब भी मुफ्त’, ईरान के साथ मीटिंग के बाद यमन के हूती विद्रोहियों का बड़ा",
-          "summary": "यमन के हूती विद्रोहियों ने एक बार फिर दुनिया को चौंका दिया है। उन्होंने साफ कहा है कि लाल सागर के बाब-एल-मंडेब स्ट्रेट से गुजरने वाले सभी व्यापारिक जहाजों पर कोई फीस नहीं लगाई जाएगी। ‘लाल सागर सभी जहाजों के लिए अब भी मुफ्त’, ईरान के साथ मीटिंग के बाद यमन के हूती विद्रोहियों का बड़ा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "गंगा का कीचड़ खेतों तक पहुंचा, सेहत पर बड़ा खतरा; एसटीपी में स्लज का निस्तारण नहीं",
-      "url": "https://www.amarujala.com/world/cag-report-ganga-sludge-reaching-farmlands-posing-major-health-risk-failure-to-dispose-sludge-during-stp-2026-08-01",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-01T02:57:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/25/clean-ganga-mission_00a32e1ebe8170af440d36b87f5dd6ea.jpeg?w=1200&dpr=1.0",
-      "summary": "कैग की रिपोर्ट में खुलासा: गंगा का कीचड़ खेतों तक पहुंचा, सेहत पर बड़ा खतरा; एसटीपी में स्लज का निस्तारण नहीं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गंगा का कीचड़ खेतों तक पहुंचा, सेहत पर बड़ा खतरा; एसटीपी में स्लज का निस्तारण नहीं",
-          "summary": "कैग की रिपोर्ट में खुलासा: गंगा का कीचड़ खेतों तक पहुंचा, सेहत पर बड़ा खतरा; एसटीपी में स्लज का निस्तारण नहीं।",
           "region": "दुनिया"
         }
       }
