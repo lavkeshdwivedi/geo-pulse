@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-08-02T22:21:56.906135+00:00",
+  "generated_at": "2026-08-02T23:22:48.700051+00:00",
   "article_count": 50,
-  "total_unique_count": 252,
+  "total_unique_count": 260,
   "digest": {
-    "en": "Singapore's land development debate dominates the headlines. Chaos at border crossings and bombings in Moscow also draw attention. Violence in Kyiv and Iran conflict updates follow closely.",
-    "hi": "केरल में मूसलाधार बारिश का कहर जारी है। आठ की मौत और हजारों बेघर हो गए हैं। राहुल गांधी ने सरकार और जनता से बात की है।"
+    "en": "Ebola outbreaks in the Democratic Republic of Congo and rising anti-LGBTQ+ laws in west Africa dominate the headlines. Meanwhile, a tourist plane crash in Peru's Nazca Lines region has killed 13 people, highlighting aviation safety concerns. Zelenskyy's call for answers on Patriot delivery adds to the escalating Ukraine-Russia conflict.",
+    "hi": "केरल में मूसलाधार बारिश का कहर जारी है, आठ लोगों की मौत हो गई है और हजारों लोग बेघर हो गए हैं। राहुल गांधी ने सरकार और जनता से कहा है कि वे मुसीबत में फंसे लोगों की मदद करें।"
   },
   "articles": [
+    {
+      "title": "Ebola en RDC, une épidémie hors de contrôle ?",
+      "url": "https://www.crisisgroup.org/fr/pod/africa/democratic-republic-congo/ebola-en-rdc-une-epidemie-hors-de-controle",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Vendredi, juillet 24, 2026 - 13:43",
+      "image_url": "https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Frédéric Manantsoa Lai, coordinateur des urgences pour Médecins Sans Frontières, et Onesphore Sematumba, analyste senior pour la République démocratique du Congo et le Burundi à Crisis Group, pour parler de l’épidémie d’Ebola en RDC et de ses conséquences sur la population congolaise, déjà marquée par des années de conflit.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "url": "https://www.crisisgroup.org/tr/brf/europe/european-union-turkiye/b99-eu-and-turkiye-uniting-defence",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Perşembe, Temmuz 23, 2026 - 15:54",
+      "image_url": "https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Forests vs flats? Singapore’s land development debate needs to move beyond that",
       "url": "https://www.channelnewsasia.com/commentary/commentary-forests-vs-flats-singapores-land-development-debate-needs-move-beyond-6292601",
@@ -284,30 +308,6 @@
       "translations": {}
     },
     {
-      "title": "Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168049",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/06/15064/image770x420cropped.jpg",
-      "summary": "Independent UN experts on Wednesday called for urgent action to support Rohingya refugees in Bangladesh after reports indicated two boats carrying more than 500 passengers may have capsized off the coast of Myanmar in mid-July. Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168047",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/22-06-2026-UNICEF-DR-Congo-ebola.jpg/image770x420cropped.jpg",
-      "summary": "The UN emergency food agency appealed for immediate funding on Wednesday, warning that deepening hunger is undermining the response to an Ebola outbreak in the Democratic Republic of the Congo (DRC) that has now infected more than 3,200 people. Hunger hampers Ebola response as cases top 3,200 in DR Congo.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "केरल में मूसलाधार बारिश का कहर, आठ की मौत और हजारों बेघर; राहुल गांधी सरकार-जनता से क्या बोले?",
       "url": "https://www.amarujala.com/india-news/rahul-gandhi-says-kerala-government-making-every-effort-to-support-families-affected-by-heavy-rains-2026-08-03",
       "source": "Amar Ujala Breaking",
@@ -362,19 +362,73 @@
       }
     },
     {
+      "title": "क्या आपके पीएफ खाते में आया 8.25% ब्याज? मिनटों में ऐसे करें बैलेंस और पासबुक चेक",
+      "url": "https://www.amarujala.com/business/business-diary/epfo-starts-crediting-8-25-interest-for-fy-2025-26-how-to-check-your-pf-balance-online-2026-08-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-02T23:15:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/11/pf-epfo-new_f88a32f85eaed2a1dcabc85ca84ee2a4.jpeg?w=1200&dpr=1.0",
+      "summary": "EPF Interest Credit: क्या आपके पीएफ खाते में आया 8.25% ब्याज? मिनटों में ऐसे करें बैलेंस और पासबुक चेक---EPFO Starts Crediting 8.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या आपके पीएफ खाते में आया 8.25% ब्याज? मिनटों में ऐसे करें बैलेंस और पासबुक चेक",
+          "summary": "EPF Interest Credit: क्या आपके पीएफ खाते में आया 8.25% ब्याज? मिनटों में ऐसे करें बैलेंस और पासबुक चेक---EPFO Starts Crediting 8.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "नौ साल में नहीं बना एनटीए का एक भी परीक्षा केंद्र, किराये के भरोसे व्यवस्था; कैबिनेट का फैसला अब भी",
+      "url": "https://www.amarujala.com/education/nta-yet-to-build-500-exam-centres-after-nine-years-key-reform-decisions-still-pending-2026-08-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-02T22:42:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/12/rashhataraya-parakashhanae-ejasa-nta_70c540ef1ebe68434469a1c90778c505.jpeg?w=1200&dpr=1.0",
+      "summary": "NTA: नौ साल में नहीं बना एनटीए का एक भी परीक्षा केंद्र, किराये के भरोसे व्यवस्था; कैबिनेट का फैसला अब भी अधूरा--NTA Yet to Build 500 Exam Centres After Nine Years, Key Reform Decisions Still Pending।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नौ साल में नहीं बना एनटीए का एक भी परीक्षा केंद्र, किराये के भरोसे व्यवस्था; कैबिनेट का फैसला अब भी",
+          "summary": "NTA: नौ साल में नहीं बना एनटीए का एक भी परीक्षा केंद्र, किराये के भरोसे व्यवस्था; कैबिनेट का फैसला अब भी अधूरा--NTA Yet to Build 500 Exam Centres After Nine Years, Key Reform Decisions Still Pending।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज पर फिर बढ़ा तनाव, ट्रंप के दावे पर ईरान का पलटवार; ओमान से समझौता करीब?",
+      "url": "https://www.amarujala.com/live/world/west-asia-tension-live-updates-iran-us-war-trump-israel-reports-on-us-military-action-centcom-irgc-hormuz-news-2026-08-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-02T22:31:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/pashacama-eshaya-ma-tanava_77acac5d547ce2ba3f7ac2db0da3841f.gif?w=1200&dpr=1.0",
+      "summary": "West Asia Tension LIVE: होर्मुज पर फिर बढ़ा तनाव, ट्रंप के दावे पर ईरान का पलटवार; ओमान से समझौता करीब?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज पर फिर बढ़ा तनाव, ट्रंप के दावे पर ईरान का पलटवार; ओमान से समझौता करीब?",
+          "summary": "West Asia Tension LIVE: होर्मुज पर फिर बढ़ा तनाव, ट्रंप के दावे पर ईरान का पलटवार; ओमान से समझौता करीब?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "ओ.पी. राजभर ने अखिलेश को दिया जवाब, PDA समीकरण पर दागे सवाल!",
       "url": "https://www.amarujala.com/video/india-news/op-rajbhar-on-akhilesh-yadav-op-rajbhar-hits-back-at-akhilesh-questions-the-pda-equation-2026-08-03",
       "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-08-02T22:00:02+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/op-rajbhar-on-akhilesh-yadav_ba99aa1e9b5c8f5029fd0a7b5e5ca7b8.jpeg?w=1200&dpr=1.0",
-      "summary": "OP Rajbhar on Akhilesh Yadav: ओ. पी. राजभर ने अखिलेश को दिया जवाब, PDA समीकरण पर दागे सवाल! ओ. पी.",
+      "summary": "OP Rajbhar on Akhilesh Yadav: ओ. पी. राजभर ने अखिलेश को दिया जवाब, PDA समीकरण पर दागे सवाल! ओ. ओ. पी.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "ओ.पी. राजभर ने अखिलेश को दिया जवाब, PDA समीकरण पर दागे सवाल!",
-          "summary": "OP Rajbhar on Akhilesh Yadav: ओ. पी. राजभर ने अखिलेश को दिया जवाब, PDA समीकरण पर दागे सवाल! ओ. पी.",
+          "summary": "OP Rajbhar on Akhilesh Yadav: ओ. पी. राजभर ने अखिलेश को दिया जवाब, PDA समीकरण पर दागे सवाल! ओ. ओ. पी.",
           "region": "दुनिया"
         }
       }
@@ -560,6 +614,24 @@
       }
     },
     {
+      "title": "शेख हसीना का क्या होगा अगला प्लान? दो साल बाद दुनिया के सामने आएंगी",
+      "url": "https://www.abplive.com/news/india/bangladesh-former-pm-sheikh-hasina-to-appear-publicly-on-5th-august-plans-to-return-back-after-two-years-of-ouster-3169441",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-02T16:40:52+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/02/0f8de83d2abea85306473f143ff6aa3a17856879850971126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना दो साल बाद पहली बार सार्वजनिक रूप से सामने आने वाली हैं. वे नई दिल्ली में फॉरेन कॉरेस्पॉन्डेंट्स क्लब ऑफ साउथ एशिया के एक वर्चुअल कार्यक्रम में शामिल होंगी. यह कार्यक्रम 2024 में उनके देश में हुए जन आंदोलन के बाद हो रहा है. बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना अपने देश में साल 2024 में छात्रों के नेतृत्व में हुए जन आंदोलन के बीच सत्ता से बेदखल होने के ठीक दो बाद भारत में पहली बार सार्वजनिक रूप से सामने आने वाली हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शेख हसीना का क्या होगा अगला प्लान? दो साल बाद दुनिया के सामने आएंगी",
+          "summary": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना दो साल बाद पहली बार सार्वजनिक रूप से सामने आने वाली हैं. वे नई दिल्ली में फॉरेन कॉरेस्पॉन्डेंट्स क्लब ऑफ साउथ एशिया के एक वर्चुअल कार्यक्रम में शामिल होंगी. यह कार्यक्रम 2024 में उनके देश में हुए जन आंदोलन के बाद हो रहा है. बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना अपने देश में साल 2024 में छात्रों के नेतृत्व में हुए जन आंदोलन के बीच सत्ता से बेदखल होने के ठीक दो बाद भारत में पहली बार सार्वजनिक रूप से सामने आने वाली हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "पाकिस्तान में शांति रैली के दौरान धमाका: 7 लोगों की मौत, 18 घायल",
       "url": "https://www.patrika.com/world-news/pakistan-swat-valley-suicide-blast-khyber-pakhtunkhwa-peace-rally-20799796",
       "source": "Patrika (World)",
@@ -573,6 +645,24 @@
         "hi": {
           "title": "पाकिस्तान में शांति रैली के दौरान धमाका: 7 लोगों की मौत, 18 घायल",
           "summary": "Pakistan Blast: पाकिस्तान के उत्तर-पश्चिमी प्रांत खैबर पख्तूनख्वा में रविवार को शांति रैली के दौरान हुए एक भीषण धमाके में कम से कम सात लोगों की मौत हो गई, जबकि 18 अन्य घायल हो गए। यह घटना स्वात जिले के कबाल कस्बे में हुई जहां स्थानीय लोग इलाके में शांति बहाल करने की मांग को लेकर एकत्र हुए थे। शुरुआती जानकारी के अनुसार, हमले का मुख्य निशाना पाकिस्तानी पुलिसकर्मी थे हालांकि घटना में आम नागरिक भी इसक।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान के खैबर पख्तूनख्वा में धमाका, 7 की मौत, आत्मघाती ब्लास्ट की आशंका",
+      "url": "https://www.abplive.com/news/world/explosion-in-pakistan-khyber-pakhtunkhwa-7-dead-suspected-suicide-blast-3169434",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-08-02T15:49:00+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/02/4b1fa0566265fa9c0412975cadac7ecc17856856479881324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के खैबर पख्तूनख्वा में रविवार को एक बड़ा ब्लास्ट हुआ, जिसमें 7 लोगों की मौत हो गई। ब्लास्ट को एक आत्मघाती हमले के तौर पर देखा जा रहा है, जिसमें पाकिस्तानी पुलिसकर्मियों को निशाना बनाया गया था। पीटीआई न्यूज एजेंसी के अनुसार, ब्लास्ट रविवार को हुआ था और इसमें कई लोग घायल हुए हैं। पाकिस्तान में एक बड़ा ब्लास्ट हुआ है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान के खैबर पख्तूनख्वा में धमाका, 7 की मौत, आत्मघाती ब्लास्ट की आशंका",
+          "summary": "पाकिस्तान के खैबर पख्तूनख्वा में रविवार को एक बड़ा ब्लास्ट हुआ, जिसमें 7 लोगों की मौत हो गई। ब्लास्ट को एक आत्मघाती हमले के तौर पर देखा जा रहा है, जिसमें पाकिस्तानी पुलिसकर्मियों को निशाना बनाया गया था। पीटीआई न्यूज एजेंसी के अनुसार, ब्लास्ट रविवार को हुआ था और इसमें कई लोग घायल हुए हैं। पाकिस्तान में एक बड़ा ब्लास्ट हुआ है.",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -592,6 +682,24 @@
           "title": "5 अगस्त को दुनिया के सामने आएंगी शेख हसीना, 2 साल पहले देश से भागना पड़ा था, क्या बांग्लादेश में",
           "summary": "Sheikh Hasina New Delhi Seminar: बांग्लादेश की राजनीति बीते 2 साल में 360 डिग्री घूम गई है। ठीक दो साल पहले 5 अगस्त 2024 शेख हसीना को प्रधानमंत्री पद से इस्तीफा देकर देश छोड़कर भागना पड़ा था। अब दो साल बाद वह दुनिया के सामने आएंगी। शेख हसीना 5 अगस्त 2026 को नई दिल्ली में आयोजित एक सेमिनार को संबोधित करेंगी। इसमें शेख हसीना के सहयोगी और बांग्लादेश के कई पूर्व मंत्री व सांसद हिस्सा लेंगे।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "असम में बाढ़ प्रभावित लोगों की खामोशी से सेवा कर रहे कई असली नायक",
+      "url": "https://www.abplive.com/news/india/various-celebrities-anonymously-helping-people-affected-by-assam-flood-ann-3169417",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-02T15:46:31+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/02/20bfde213a5be9770db8affa4823a0bd17856826052411126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "असम के शिवसागर और चराइदेव जिले विनाशकारी बाढ़ से पूरी तरह प्रभावित हुए हैं, जिससे हजारों लोग प्रभावित हुए हैं। हेमंत कलिता जैसे कई लोग चुपचाप मानवता की सेवा में जुटे हुए हैं, जिन्होंने बाढ़ प्रभावित क्षेत्रों में राहत सामग्री वितरित करने के लिए अपना समय और ऊर्जा दान की है। कलिता ने अपने स्थानीय समुदाय के साथ मिलकर बाढ़ प्रभावित लोगों को भोजन, पानी और शेल्टर प्रदान करने के लिए काम किया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "असम में बाढ़ प्रभावित लोगों की खामोशी से सेवा कर रहे कई असली नायक",
+          "summary": "असम के शिवसागर और चराइदेव जिले विनाशकारी बाढ़ से पूरी तरह प्रभावित हुए हैं, जिससे हजारों लोग प्रभावित हुए हैं। हेमंत कलिता जैसे कई लोग चुपचाप मानवता की सेवा में जुटे हुए हैं, जिन्होंने बाढ़ प्रभावित क्षेत्रों में राहत सामग्री वितरित करने के लिए अपना समय और ऊर्जा दान की है। कलिता ने अपने स्थानीय समुदाय के साथ मिलकर बाढ़ प्रभावित लोगों को भोजन, पानी और शेल्टर प्रदान करने के लिए काम किया है।",
+          "region": "दुनिया"
         }
       }
     },
@@ -632,127 +740,19 @@
       }
     },
     {
-      "title": "रूस-यूक्रेन में फिर बढ़ा तनाव, एक-दूसरे पर किया बैलिस्टिक मिसाइल और ड्रोन से भीषण अटैक",
-      "url": "https://www.patrika.com/world-news/russia-ukraine-war-ballistic-missile-drone-attacks-20799645",
-      "source": "Patrika (World)",
+      "title": "तसलीमा नसरीन ने मोदी सरकार को लेकर कह दी बड़ी बात, बोलीं - 'भारत की...'",
+      "url": "https://www.abplive.com/news/india/taslima-nasrin-arrives-kolkata-after-two-decades-thanks-bengal-cm-suvendu-adhikari-praises-narendra-modi-govt-3169413",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-08-02T14:29:26+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Russia-Ukraine-War-Update.webp",
-      "summary": "रूस और यूक्रेन ने एक-दूसरे पर मिसाइल और ड्रोन से हमले किए। यूक्रेन ने रूस के सैन्य और ईंधन ठिकानों को निशाना बनाने का दावा किया है। रूस ने कई यूक्रेनी शहरों पर बड़े पैमाने पर हमले किए हैं। इन हमलों में जान-माल का भारी नुकसान हुआ है। Russia-Ukraine War Update: रूस और यूक्रेन के बीच युद्ध एक बार फिर तेज होता नजर आ रहा है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस-यूक्रेन में फिर बढ़ा तनाव, एक-दूसरे पर किया बैलिस्टिक मिसाइल और ड्रोन से भीषण अटैक",
-          "summary": "रूस और यूक्रेन ने एक-दूसरे पर मिसाइल और ड्रोन से हमले किए। यूक्रेन ने रूस के सैन्य और ईंधन ठिकानों को निशाना बनाने का दावा किया है। रूस ने कई यूक्रेनी शहरों पर बड़े पैमाने पर हमले किए हैं। इन हमलों में जान-माल का भारी नुकसान हुआ है। Russia-Ukraine War Update: रूस और यूक्रेन के बीच युद्ध एक बार फिर तेज होता नजर आ रहा है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "6 मिनट तक छाया रहेगा अंधेरा, आज ही के दिन दिखेगा 21वीं सदी का सबसे लंबा सूर्य ग्रहण",
-      "url": "https://hindi.news18.com/world/america-21st-century-s-6-minutes-longest-solar-eclipse-to-be-visible-sjn-10711961.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-02T13:33:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Solar-Eclips-File-Photo-2026-08-43d6f60d8f4b072f275abf1fda8f9ab3-1200x800.jpg",
-      "summary": "नासा ने बताया है 2 अगस्त 2027 को एक बहुत ही खास और ऐतिहासिक पूर्ण सूर्य ग्रहण लगने जा रहा है. इस खगोलीय घटना के दौरान चंद्रमा सूर्य और पृथ्वी के ठीक बीच में आ जाएगा, जिससे धरती पर अंधेरा छा जाएगा. सबसे दिलचस्प बात यह है कि अपने चरम पर यह सूर्य ग्रहण लगभग 6 मिनट और 23 सेकंड तक बना रहेगा.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "6 मिनट तक छाया रहेगा अंधेरा, आज ही के दिन दिखेगा 21वीं सदी का सबसे लंबा सूर्य ग्रहण",
-          "summary": "नासा ने बताया है 2 अगस्त 2027 को एक बहुत ही खास और ऐतिहासिक पूर्ण सूर्य ग्रहण लगने जा रहा है. इस खगोलीय घटना के दौरान चंद्रमा सूर्य और पृथ्वी के ठीक बीच में आ जाएगा, जिससे धरती पर अंधेरा छा जाएगा. सबसे दिलचस्प बात यह है कि अपने चरम पर यह सूर्य ग्रहण लगभग 6 मिनट और 23 सेकंड तक बना रहेगा.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मिसाइलों के साये में कूटनीतिक दांव, एक्टिव हुआ ईरान, पाकिस्तान, तुर्की और सऊदी अरब से संपर्क में",
-      "url": "https://hindi.news18.com/world/middle-east-us-iran-tensions-update-regional-diplomacy-intensify-amid-fear-of-escalation-and-widening-war-ws-l-10712067.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-02T12:55:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/trump-iran-2026-07-c81fc67b8ca8bcdf97f68453afd5e234-1200x800.jpg",
-      "summary": "US Iran Conflict: ईरान-अमेरिका के बीच जो विवाद चल रहा है, उसे लेकर अब माना जा रहा है कि ईरान इसका समाधान कूटनीतिक रास्ते से चाहता है. यही वजह है कि पश्चिम एशिया में अब वो कूटनीतिक सक्रियता भी बढ़ा रहा है. एक तरफ डोनाल्ड ट्रंप ने ईरान पर हमलों को टाल दिया है तो दूसरी ओर ईरान बैकचैनल से मध्यस्थों समेत खाड़ी के दूसरे देशों से भी बातचीत कर रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिसाइलों के साये में कूटनीतिक दांव, एक्टिव हुआ ईरान, पाकिस्तान, तुर्की और सऊदी अरब से संपर्क में",
-          "summary": "US Iran Conflict: ईरान-अमेरिका के बीच जो विवाद चल रहा है, उसे लेकर अब माना जा रहा है कि ईरान इसका समाधान कूटनीतिक रास्ते से चाहता है. यही वजह है कि पश्चिम एशिया में अब वो कूटनीतिक सक्रियता भी बढ़ा रहा है. एक तरफ डोनाल्ड ट्रंप ने ईरान पर हमलों को टाल दिया है तो दूसरी ओर ईरान बैकचैनल से मध्यस्थों समेत खाड़ी के दूसरे देशों से भी बातचीत कर रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हम्पबैक व्हेल के बच्चे को जन्म देने का अब तक का पहला हवाई फुटेज, देखें वीडियो",
-      "url": "https://hindi.news18.com/videos/world/first-aerial-footage-of-a-humpback-whale-giving-birth-captured-watch-video-10712020.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-02T12:24:37+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/1785675822_VU4s3JZMMp-thumbnail-169png-98bKueAQ0z-1200x720.png",
-      "summary": "ऑस्ट्रेलिया के एक चैरिटी संगठन ने ड्रोन के ज़रिए एक बेहद दुलर्भ नजारा कैमरे में कैद किया है. माना जा रहा है कि यह दुनिया का पहला ऐसा ड्रोन वीडियो है, जिसमें किसी हम्पबैक व्हेल को जन्म देते हुए देखा गया है. ऑर्गेनाइजेशन फॉर द रेस्क्यू एंड रिसर्च ऑफ सेटासीन्स इन ऑस्ट्रेलिया के इस वीडियों में देखा जा सकता है कि हम्पबैक व्हेलों कुछ आराम करती हुई नजर आती है.",
+      "published_at": "2026-08-02T15:01:00+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/02/2f127e7024c31f301001ff35e6a01d7a17856804497021324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "तसलीमा नसरीन ने मोदी सरकार की तारीफ की और बंगाल सरकार के सीएम शुवेंदु अधिकारी का शुक्रिया अदा किया. उन्होंने कहा कि एक सरकार ने उन्हें देश छोड़ने पर मजबूर किया, दूसरी ने आने नहीं दिया, लेकिन तीसरी ने उनका स्वागत किया. नसरीन ने कहा कि अधिकारी ने उनकी सुरक्षा सुनिश्चित की, जिससे उन्हें खुशी हुई. बांग्लादेशी से निष्कासित लेखिका तसलीमा नसरीन (वर्तमान में नई दिल्ली में रहती हैं) ने बंगाल सरकार की तारीफ की है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हम्पबैक व्हेल के बच्चे को जन्म देने का अब तक का पहला हवाई फुटेज, देखें वीडियो",
-          "summary": "ऑस्ट्रेलिया के एक चैरिटी संगठन ने ड्रोन के ज़रिए एक बेहद दुलर्भ नजारा कैमरे में कैद किया है. माना जा रहा है कि यह दुनिया का पहला ऐसा ड्रोन वीडियो है, जिसमें किसी हम्पबैक व्हेल को जन्म देते हुए देखा गया है. ऑर्गेनाइजेशन फॉर द रेस्क्यू एंड रिसर्च ऑफ सेटासीन्स इन ऑस्ट्रेलिया के इस वीडियों में देखा जा सकता है कि हम्पबैक व्हेलों कुछ आराम करती हुई नजर आती है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में बेकाबू हुई जंगल की आग, 2500 एकड़ से ज्यादा इलाका जलकर राख, हजारों लोगों को घर छोड़ने के",
-      "url": "https://hindi.news18.com/world/america-us-spoken-forest-fire-covers-2500-acres-land-thousand-order-to-evacuation-ws-l-10711816.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-02T11:58:14+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/us-fire-2026-08-fcd2792d5212776ff11ab0517f982b51-1200x800.jpg",
-      "summary": "अमेरिका में जंगल की आग 2500 एकड़ से ज्यादा इलाके में फैली, हजारों लोगों को घर छोड़ने के आदेश दिए गए। US Forest Fire: अमेरिका की आग अब 2500 एकड़ से अधिक क्षेत्र में फैल चुकी है, जिससे हजारों लोगों को घर खाली करने के आदेश दिए गए हैं. कई इलाकों में लेवल-2 और लेवल-3 इवैक्यूएशन लागू है. 13000 से ज्यादा घरों की बिजली बाधित हो गई है और करीब 5000 इमारतों पर खतरा मंडरा रहा है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में बेकाबू हुई जंगल की आग, 2500 एकड़ से ज्यादा इलाका जलकर राख, हजारों लोगों को घर छोड़ने के",
-          "summary": "अमेरिका में जंगल की आग 2500 एकड़ से ज्यादा इलाके में फैली, हजारों लोगों को घर छोड़ने के आदेश दिए गए। US Forest Fire: अमेरिका की आग अब 2500 एकड़ से अधिक क्षेत्र में फैल चुकी है, जिससे हजारों लोगों को घर खाली करने के आदेश दिए गए हैं. कई इलाकों में लेवल-2 और लेवल-3 इवैक्यूएशन लागू है. 13000 से ज्यादा घरों की बिजली बाधित हो गई है और करीब 5000 इमारतों पर खतरा मंडरा रहा है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "‘मुसलमान काफिरों से दोस्ती न करें’: भारत-अफगानिस्तान रिश्तों पर पाक सेना के बयान से मचा विवाद",
-      "url": "https://www.patrika.com/world-news/pakistan-dg-ispr-ahmed-sharif-chaudhry-afghanistan-india-dna-kafirs-controversy-20799255",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-02T11:45:49+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/DG-ISPR-Ahmed-Sharif-Chaudhry.webp",
-      "summary": "पाकिस्तान सेना के बयान से भारत-अफगानिस्तान रिश्तों पर विवाद खड़ा हो गया, मुसलमानों को काफिरों से दोस्ती न करने की बात कही। Afghanistan India Same DNA Statement: पाकिस्तान सेना के इंटर-सर्विसेज पब्लिक रिलेशंस (DG ISPR) के महानिदेशक लेफ्टिनेंट जनरल अहमद शरीफ चौधरी के बयान से विवाद खड़ा हो गया है। उन्होंने अफगान सरकार के एक मंत्री द्वारा भारत के साथ रिश्तों को लेकर दिए गए बयान पर प्रतिक्रिया दी है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘मुसलमान काफिरों से दोस्ती न करें’: भारत-अफगानिस्तान रिश्तों पर पाक सेना के बयान से मचा विवाद",
-          "summary": "पाकिस्तान सेना के बयान से भारत-अफगानिस्तान रिश्तों पर विवाद खड़ा हो गया, मुसलमानों को काफिरों से दोस्ती न करने की बात कही। Afghanistan India Same DNA Statement: पाकिस्तान सेना के इंटर-सर्विसेज पब्लिक रिलेशंस (DG ISPR) के महानिदेशक लेफ्टिनेंट जनरल अहमद शरीफ चौधरी के बयान से विवाद खड़ा हो गया है। उन्होंने अफगान सरकार के एक मंत्री द्वारा भारत के साथ रिश्तों को लेकर दिए गए बयान पर प्रतिक्रिया दी है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "PoK में इंटरनेट बंद, प्रदर्शन हुआ तेज…पाकिस्तान पर लगे गंभीर आरोप",
-      "url": "https://www.patrika.com/world-news/pakistan-pok-protest-crackdown-jacobin-report-20799206",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-02T11:36:44+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Pakistans-crackdown-in-PoK.webp",
-      "summary": "पाकिस्तान अधिकृत कश्मीर में इंटरनेट बंद, प्रदर्शन तेज हुआ, अमेरिकी मैगजीन ने पाकिस्तान पर गंभीर आरोप लगाए। Pakistan Occupied Kashmir Protest: पाकिस्तान अधिकृत कश्मीर (PoK) में जारी विरोध प्रदर्शनों और सुरक्षाबलों की कार्रवाई को लेकर बड़ी अपडेट सामने आई है। अमेरिका की एक मैगजीन ‘जैकोबिन’ ने रिपोर्ट में कई गंभीर दावे किए हैं। रिपोर्ट में बताया गया है कि हाल की हिंसक घटनाएं सिर्फ कानून-व्यवस्था की समस्या नहीं हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PoK में इंटरनेट बंद, प्रदर्शन हुआ तेज…पाकिस्तान पर लगे गंभीर आरोप",
-          "summary": "पाकिस्तान अधिकृत कश्मीर में इंटरनेट बंद, प्रदर्शन तेज हुआ, अमेरिकी मैगजीन ने पाकिस्तान पर गंभीर आरोप लगाए। Pakistan Occupied Kashmir Protest: पाकिस्तान अधिकृत कश्मीर (PoK) में जारी विरोध प्रदर्शनों और सुरक्षाबलों की कार्रवाई को लेकर बड़ी अपडेट सामने आई है। अमेरिका की एक मैगजीन ‘जैकोबिन’ ने रिपोर्ट में कई गंभीर दावे किए हैं। रिपोर्ट में बताया गया है कि हाल की हिंसक घटनाएं सिर्फ कानून-व्यवस्था की समस्या नहीं हैं।",
+          "title": "तसलीमा नसरीन ने मोदी सरकार को लेकर कह दी बड़ी बात, बोलीं - 'भारत की...'",
+          "summary": "तसलीमा नसरीन ने मोदी सरकार की तारीफ की और बंगाल सरकार के सीएम शुवेंदु अधिकारी का शुक्रिया अदा किया. उन्होंने कहा कि एक सरकार ने उन्हें देश छोड़ने पर मजबूर किया, दूसरी ने आने नहीं दिया, लेकिन तीसरी ने उनका स्वागत किया. नसरीन ने कहा कि अधिकारी ने उनकी सुरक्षा सुनिश्चित की, जिससे उन्हें खुशी हुई. बांग्लादेशी से निष्कासित लेखिका तसलीमा नसरीन (वर्तमान में नई दिल्ली में रहती हैं) ने बंगाल सरकार की तारीफ की है.",
           "region": "एशिया-प्रशांत"
         }
       }
