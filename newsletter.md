@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** August 02, 2026 12:28 IST
+**Updated:** August 02, 2026 13:20 IST
 
 ---
 
@@ -30,12 +30,6 @@ Activists in the region say politicians regard LGBTQ+ people as ‘the easiest s
 
 There were no U. S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones U. embassies urge citizens to ‘consider departing’ from West Asia. U. U. S.
 
-### [UAE Seeks To Ease Tensions With Iran While Deepening Military Ties With US, Israel](https://www.rferl.org/a/iran-uae-war-usa-israel-sheikh-mohamed-bin-zayed-al-nahyan/33819782.html)
-*Radio Free Europe / Liberty* - Aug 02, 01:31 IST (iso: 2026-08-01T20:01:28+00:00)
-<!-- image: https://gdb.rferl.org/f0007925-5587-4f7a-1986-08decad58b60_cx0_cy7_cw0_w1200_h630.jpg -->
-
-The United Arab Emirates is trying to keep channels open with Tehran while strengthening its military ties with Washington and Israel, a delicate balancing act shaped by security concerns and deep economic links with Iran. UAE Seeks To Ease Tensions With Iran While Deepening Military Ties With US, Israel.
-
 ### [Biggest Clue In US-Iran Conflict Is 'The Dog That Hasn't Barked,' Says War College's Jacob Stoil](https://www.rferl.org/a/iran-war-stoil-army-war-college-interview/33819707.html)
 *Radio Free Europe / Liberty* - Aug 01, 13:55 IST (iso: 2026-08-01T08:25:00+00:00)
 <!-- image: https://gdb.rferl.org/e53d2ec0-f2d4-4dfc-b4c3-513e4d9dc904_cx0_cy9_cw0_w1200_h630.jpg -->
@@ -53,6 +47,12 @@ Live, rolling coverage as the AA and RAC report prices rising to around £1.60 p
 <!-- image: https://i.guim.co.uk/img/media/53ce70eac4b4c4b5e140a0977a74d94c5be23bcb/237_0_5573_4458/master/5573.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24394c0d152097b78551c0a26ca0add7 -->
 
 During her first visit to Ghana, Dame Sarah Mullally expressed regret and said the controversial fund symbolises the Christian belief in repentanceAt a former British castle where thousands of enslaved Africans were held before being shipped across the Atlantic, the archbishop of Canterbury expressed “lament” for the Church of England’s involvement in transatlantic chattel slavery and reaffirmed h Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement.
+
+### [Iran Has Tested The Gulf. Now Washington Must Rethink Its Security Role, Says Former Trump NSC](https://www.rferl.org/a/iran-gulf-security-us-role-allison-minor-interview/33818576.html)
+*Radio Free Europe / Liberty* - Jul 30, 23:38 IST (iso: 2026-07-30T18:08:49+00:00)
+<!-- image: https://gdb.rferl.org/01000000-c0a8-0242-8df7-08dbf7d755c0_cx0_cy7_cw0_w1200_h630.jpg -->
+
+Former Trump White House official Allison Minor says Iran's latest attacks exposed the limits of the traditional US security guarantee in the Gulf. She argues Washington should shift toward a regional security model built on shared capabilities, integration, and stronger partnerships. Iran Has Tested The Gulf. Now Washington Must Rethink Its Security Role, Says Former Trump NSC.
 
 ### [Fear grows as freedoms shrink in Uganda](https://news.un.org/feed/view/en/story/2026/07/1168057)
 *UN News* - Jul 30, 17:30 IST (iso: 2026-07-30T12:00:00+00:00)
