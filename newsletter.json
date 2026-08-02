@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-02T13:33:30.575502+00:00",
+  "generated_at": "2026-08-02T14:34:49.259832+00:00",
   "article_count": 50,
-  "total_unique_count": 260,
+  "total_unique_count": 262,
   "digest": {
     "en": "Middle East & Africa leads the board this hour with Ebola en RDC, une épidémie hors de contrôle ?. 25 fresh dispatches in this edition.",
-    "hi": "आज बोर्ड पर मिसाइलों के साये में कूटनीतिक दांव प्रमुख है, जिसमें ईरान, पाकिस्तान, तुर्की और सऊदी अरब से संपर्क में है। अमेरिका में जंगल की आग बेकाबू हुई है, जिसमें 2500 एकड़ से ज्यादा इलाका जलकर राख हो गया है। पेशावर में एक और धमाके से दो पुलिसकर्मी घायल हुए हैं।"
+    "hi": "रूस और यूक्रेन के बीच आज फिर तीव्र टकराव हुआ, दोनों पक्षों ने बख़्तरबंद मिसाइल और ड्रोन का उपयोग किया, Kyiv और Moscow के निकट लक्ष्य पर हमला किया। इसी दौरान, यूरोपीय संघ ने नई ऊर्जा प्रतिबंधों की घोषणा की, जिससे रूसी तेल निर्यात पर दबाव बढ़ेगा।"
   },
   "articles": [
     {
@@ -40,6 +40,18 @@
       "image_url": "https://www.thehindu.com/theme/images/og-image.png",
       "summary": "Firefighters rescued the six people from the high-rise residential building and sent them to the hospital for treatment. Four of them later died despite medical efforts, while the remaining two are still receiving medical treatment, says sources Four killed, two injured in central China apartment building fire.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-08-02T13:11:56+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/d2eb725146a70e9f737bf0b62b8e2859147a98bd/554_139_2292_1833/master/2292.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4fb046dc5f9d1b7a0e8b7aba55f9409",
+      "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospectsFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -296,16 +308,58 @@
       "translations": {}
     },
     {
-      "title": "Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168049",
-      "source": "UN News",
+      "title": "रूस-यूक्रेन में फिर बढ़ा तनाव, एक-दूसरे पर किया बैलिस्टिक मिसाइल और ड्रोन से भीषण अटैक",
+      "url": "https://www.patrika.com/world-news/russia-ukraine-war-ballistic-missile-drone-attacks-20799645",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-07-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/06/15064/image770x420cropped.jpg",
-      "summary": "Independent UN experts on Wednesday called for urgent action to support Rohingya refugees in Bangladesh after reports indicated two boats carrying more than 500 passengers may have capsized off the coast of Myanmar in mid-July. Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic.",
+      "published_at": "2026-08-02T14:29:26+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Russia-Ukraine-War-Update.webp",
+      "summary": "Russia-Ukraine War Update: रूस और यूक्रेन के बीच युद्ध एक बार फिर तेज होता नजर आ रहा है। दोनों देशों ने एक-दूसरे पर मिसाइल और ड्रोन से हमले किए हैं। यूक्रेन ने रूस के सैन्य और ईंधन ठिकानों को निशाना बनाने का दावा किया है। वहीं रूस ने भी कई यूक्रेनी शहरों पर बड़े पैमाने पर हमले किए हैं। इन हमलों में जान-माल का भारी नुकसान हुआ है। लगातार बढ़ते हमलों से क्षेत्र में तनाव और गहरा गया है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस-यूक्रेन में फिर बढ़ा तनाव, एक-दूसरे पर किया बैलिस्टिक मिसाइल और ड्रोन से भीषण अटैक",
+          "summary": "Russia-Ukraine War Update: रूस और यूक्रेन के बीच युद्ध एक बार फिर तेज होता नजर आ रहा है। दोनों देशों ने एक-दूसरे पर मिसाइल और ड्रोन से हमले किए हैं। यूक्रेन ने रूस के सैन्य और ईंधन ठिकानों को निशाना बनाने का दावा किया है। वहीं रूस ने भी कई यूक्रेनी शहरों पर बड़े पैमाने पर हमले किए हैं। इन हमलों में जान-माल का भारी नुकसान हुआ है। लगातार बढ़ते हमलों से क्षेत्र में तनाव और गहरा गया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "दशकों की जंग के बाद पहली बार झुका हमास! हथियार छोड़ने को तैयार, अब खत्म होगी इजरायल से जंग?",
+      "url": "https://hindi.news18.com/world/middle-east-first-time-hamas-ready-to-lay-down-arms-will-war-with-israel-finally-end-10712217.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-02T14:21:39+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Hamas-Reuters-1-2026-08-f6d7266254887629dd516b815a6a4e09-1200x800.jpg",
+      "summary": "लगभग चार दशकों से हमास खुद को एक हथियारबंद संगठन बताता रहा है. इसकी पहचान उसकी सैन्य ताकत से जुड़ी है. 1987 में अपनी स्थापना के बाद से इस समूह ने इजरायल के साथ कई युद्ध लड़े हैं. लेकिन अब पहली बार हमास ने संकेत दिया है कि अगर कुछ बड़ी शर्तें पूरी होती हैं, तो वह अपने हथियार छोड़ने पर बातचीत करने के लिए तैयार है. इस बयान ने पूरी दुनिया का ध्यान खींचा है और शांति की एक नई उम्मीद जगाई है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दशकों की जंग के बाद पहली बार झुका हमास! हथियार छोड़ने को तैयार, अब खत्म होगी इजरायल से जंग?",
+          "summary": "लगभग चार दशकों से हमास खुद को एक हथियारबंद संगठन बताता रहा है. इसकी पहचान उसकी सैन्य ताकत से जुड़ी है. 1987 में अपनी स्थापना के बाद से इस समूह ने इजरायल के साथ कई युद्ध लड़े हैं. लेकिन अब पहली बार हमास ने संकेत दिया है कि अगर कुछ बड़ी शर्तें पूरी होती हैं, तो वह अपने हथियार छोड़ने पर बातचीत करने के लिए तैयार है. इस बयान ने पूरी दुनिया का ध्यान खींचा है और शांति की एक नई उम्मीद जगाई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "6 मिनट तक छाया रहेगा अंधेरा, आज ही के दिन दिखेगा 21वीं सदी का सबसे लंबा सूर्य ग्रहण",
+      "url": "https://hindi.news18.com/world/america-21st-century-s-6-minutes-longest-solar-eclipse-to-be-visible-sjn-10711961.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-02T13:33:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Solar-Eclips-File-Photo-2026-08-43d6f60d8f4b072f275abf1fda8f9ab3-1200x800.jpg",
+      "summary": "नासा ने बताया है 2 अगस्त 2027 को एक बहुत ही खास और ऐतिहासिक पूर्ण सूर्य ग्रहण लगने जा रहा है. इस खगोलीय घटना के दौरान चंद्रमा सूर्य और पृथ्वी के ठीक बीच में आ जाएगा, जिससे धरती पर अंधेरा छा जाएगा. सबसे दिलचस्प बात यह है कि अपने चरम पर यह सूर्य ग्रहण लगभग 6 मिनट और 23 सेकंड तक बना रहेगा.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "6 मिनट तक छाया रहेगा अंधेरा, आज ही के दिन दिखेगा 21वीं सदी का सबसे लंबा सूर्य ग्रहण",
+          "summary": "नासा ने बताया है 2 अगस्त 2027 को एक बहुत ही खास और ऐतिहासिक पूर्ण सूर्य ग्रहण लगने जा रहा है. इस खगोलीय घटना के दौरान चंद्रमा सूर्य और पृथ्वी के ठीक बीच में आ जाएगा, जिससे धरती पर अंधेरा छा जाएगा. सबसे दिलचस्प बात यह है कि अपने चरम पर यह सूर्य ग्रहण लगभग 6 मिनट और 23 सेकंड तक बना रहेगा.",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "मिसाइलों के साये में कूटनीतिक दांव, एक्टिव हुआ ईरान, पाकिस्तान, तुर्की और सऊदी अरब से संपर्क में",
@@ -542,24 +596,6 @@
       }
     },
     {
-      "title": "यूक्रेन ने काला सागर में डुबो दिया रूस का जहाज, ट्रंप ने जेलेंस्की को दिया धोखा, पुतिन ने बरसा दीं",
-      "url": "https://hindi.news18.com/world/europe-donald-trump-denied-patriot-missile-tech-to-ukraine-russia-missile-attack-yanina-ship-sunk-black-sea-update-10711132.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-02T09:46:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/russia-ukraine-10-2026-08-a8c7ddb78dbd9a68d759b0a69cd0f9da-1200x800.jpg",
-      "summary": "Russia Attack On Ukraine: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप यूक्रेन को पैट्रियट मिसाइल की तकनीक देने से पीछे हट गए हैं. यूक्रेन के लिए यह झटका था. इसी के कुछ घंटों बाद रूस ने 27 बैलिस्टिक मिसाइलों से बड़ा हमला किया, जिसमें यूक्रेन सिर्फ एक मिसाइल रोक सका. लगभग 9 लोगों की मौत हो गई. जवाब में यूक्रेन ने काला सागर में रूस के एक लाख टन क्षमता वाले कंटेनर जहाज 'यानिना' को डुबोने का दावा किया.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन ने काला सागर में डुबो दिया रूस का जहाज, ट्रंप ने जेलेंस्की को दिया धोखा, पुतिन ने बरसा दीं",
-          "summary": "Russia Attack On Ukraine: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप यूक्रेन को पैट्रियट मिसाइल की तकनीक देने से पीछे हट गए हैं. यूक्रेन के लिए यह झटका था. इसी के कुछ घंटों बाद रूस ने 27 बैलिस्टिक मिसाइलों से बड़ा हमला किया, जिसमें यूक्रेन सिर्फ एक मिसाइल रोक सका. लगभग 9 लोगों की मौत हो गई. जवाब में यूक्रेन ने काला सागर में रूस के एक लाख टन क्षमता वाले कंटेनर जहाज 'यानिना' को डुबोने का दावा किया.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "ईरान के दरवाजे तक पहुंचे ट्रंप, 6वीं बार तलवार म्यान में डालकर लौट आए, कब-कब लिया यू-टर्न?",
       "url": "https://hindi.news18.com/world/america-donald-trump-iran-attack-cancel-sixth-time-after-war-starts-taco-iran-us-news-10711344.html",
       "source": "News18 Hindi (World)",
@@ -650,24 +686,6 @@
       }
     },
     {
-      "title": "भारत के डॉक्टर का मुरीद हुआ पाकिस्तान, शर्माई तो होगी मुनीर की आर्मी, जिसे फरिश्ते भी दिखते हैं",
-      "url": "https://hindi.news18.com/world/pakistan-indian-doctor-gives-new-life-to-pakistani-girl-after-complex-surgery-beyong-border-te-tension-asim-munir-10711239.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-02T08:11:58+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/india-pakistan-2026-08-b3aeb8f54d3462a939a0006b56b6c0ba-1200x800.jpg",
-      "summary": "भारतीय डॉक्टर ने पाकिस्तानी लड़की की जान बचाई। डॉक्टर ने अपनी विशेषज्ञता का उपयोग करके लड़की की जान बचाई, जो एक मिसाल है। पाकिस्तान के लिए यह एक शर्मिंदगी है। Indian Doctor Gives New Life to Pakistani Girl: क्या आप कभी सोच सकते हैं कि जिस देश से हमेशा जहरीले बयान आते हों, वहां की एक लड़की के लिए भारतीय डॉक्टर ने अपनी विशेषज्ञता का इस्तेमाल किया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत के डॉक्टर का मुरीद हुआ पाकिस्तान, शर्माई तो होगी मुनीर की आर्मी, जिसे फरिश्ते भी दिखते हैं",
-          "summary": "भारतीय डॉक्टर ने पाकिस्तानी लड़की की जान बचाई। डॉक्टर ने अपनी विशेषज्ञता का उपयोग करके लड़की की जान बचाई, जो एक मिसाल है। पाकिस्तान के लिए यह एक शर्मिंदगी है। Indian Doctor Gives New Life to Pakistani Girl: क्या आप कभी सोच सकते हैं कि जिस देश से हमेशा जहरीले बयान आते हों, वहां की एक लड़की के लिए भारतीय डॉक्टर ने अपनी विशेषज्ञता का इस्तेमाल किया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "रूस पर रात भर ड्रोन से हमला करता रहा यूक्रेन, ऑनलाइन शॉपिंग कंपनी के गोदाम को उड़ाया, दो नागरिकों की",
       "url": "https://www.patrika.com/world-news/ukraine-drone-strike-wildberries-warehouse-in-russia-two-death-here-all-war-latest-update-20798545",
       "source": "Patrika (World)",
@@ -736,24 +754,6 @@
           "title": "सिंधु जल संधि पर भारत की दो टूक: राजदूत क्वात्रा बोले- पाकिस्तान ने खुद गिराई अपनी साख, पहले खत्म",
           "summary": "भारत ने सिंधु जल संधि पर पाकिस्तान को दो टूक कहा, जिसमें कहा गया कि पाकिस्तान ने खुद अपनी साख गिरा दी है। भारत के राजदूत विनय मोहन क्वात्रा ने कहा कि पाकिस्तान पहले आतंकवाद को खत्म करे। सिंधु जल संधि पर भारत की दो टूक: राजदूत क्वात्रा बोले- पाकिस्तान ने खुद गिराई अपनी साख, पहले खत्म।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "50 स्वार्म ड्रोन्स का ग्रिड रखेगा दुश्मनों पर नजर, DRDO बनाएगा स्वदेशी ड्रोन; कैसी होगी ताकत?",
-      "url": "https://www.amarujala.com/world/future-warfare-grid-of-50-swarm-drones-against-enemy-drdo-to-develop-indigenous-drones-know-capabilities-2026-08-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-02T03:45:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/12/22/baba-yaga-drone_83ab3a1da39cb1138cc641e7ee4ab77c.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय रक्षा अनुसंधान और विकास संगठन (DRDO) ने 50 स्वार्म ड्रोन्स का ग्रिड बनाने का निर्णय लिया है, जो दुश्मनों पर नजर रखेगा। यह ड्रोन्स स्वदेशी रूप से बनाए जाएंगे और उनकी ताकत को बढ़ाने के लिए काम किया जाएगा। भविष्य के युद्ध: 50 स्वार्म ड्रोन्स का ग्रिड रखेगा दुश्मनों पर नजर, DRDO बनाएगा स्वदेशी ड्रोन; कैसी होगी ताकत?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "50 स्वार्म ड्रोन्स का ग्रिड रखेगा दुश्मनों पर नजर, DRDO बनाएगा स्वदेशी ड्रोन; कैसी होगी ताकत?",
-          "summary": "भारतीय रक्षा अनुसंधान और विकास संगठन (DRDO) ने 50 स्वार्म ड्रोन्स का ग्रिड बनाने का निर्णय लिया है, जो दुश्मनों पर नजर रखेगा। यह ड्रोन्स स्वदेशी रूप से बनाए जाएंगे और उनकी ताकत को बढ़ाने के लिए काम किया जाएगा। भविष्य के युद्ध: 50 स्वार्म ड्रोन्स का ग्रिड रखेगा दुश्मनों पर नजर, DRDO बनाएगा स्वदेशी ड्रोन; कैसी होगी ताकत?",
-          "region": "दुनिया"
         }
       }
     }
