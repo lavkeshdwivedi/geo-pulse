@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-08-02T00:42:56.922814+00:00",
+  "generated_at": "2026-08-02T01:38:29.946789+00:00",
   "article_count": 50,
-  "total_unique_count": 245,
+  "total_unique_count": 260,
   "digest": {
-    "en": "Heat waves dominate the western US. Iran threatens strikes on other nations' energy fields. Wildfires and plane crashes also make headlines.",
-    "hi": "आज बोर्ड पर लीड स्टोरीज़:\nसदी का सबसे लंबा सूर्य ग्रहण 6 मिनट 23 सेकंड तक दिन में छाएगा अंधेरा, वैज्ञानिक इसे एक अद्वितीय घटना मानते हैं। इसे देखने के लिए दुनिया भर के लोग अपने घरों से बाहर निकलेंगे। वैज्ञानिक इस घटना को एक बार में ही देखने के लिए उत्साहित हैं।"
+    "en": "Ebola outbreaks in the Democratic Republic of Congo, record-breaking heat waves in western US states, and a devastating plane crash over Peru's Nazca Lines dominate global headlines. Meanwhile, Ukraine's President Zelenskyy expresses frustration with the pace of Patriot missile deliveries. Tensions between the US and Iran remain high.",
+    "hi": "भारत में मानसूनी बारिश का प्रभाव व्यापक है, गुजरात से असम तक बारिश के कारण तबाही हुई है। बादल फटने से नुकसान हुआ है, और राज्यों को मदद की आवश्यकता है। केंद्र सरकार ने राज्य सरकारों को 1.09 लाख करोड़ के फंड दिए हैं, जिससे उन्हें नुकसान की भरपाई करने में मदद मिलेगी।"
   },
   "articles": [
+    {
+      "title": "Ebola en RDC, une épidémie hors de contrôle ?",
+      "url": "https://www.crisisgroup.org/fr/pod/africa/democratic-republic-congo/ebola-en-rdc-une-epidemie-hors-de-controle",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Vendredi, juillet 24, 2026 - 13:43",
+      "image_url": "https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Frédéric Manantsoa Lai, coordinateur des urgences pour Médecins Sans Frontières, et Onesphore Sematumba, analyste senior pour la République démocratique du Congo et le Burundi à Crisis Group, pour parler de l’épidémie d’Ebola en RDC et de ses conséquences sur la population congolaise, déjà marquée par des années de conflit.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "url": "https://www.crisisgroup.org/tr/brf/europe/european-union-turkiye/b99-eu-and-turkiye-uniting-defence",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Perşembe, Temmuz 23, 2026 - 15:54",
+      "image_url": "https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Heat wave bringing record-breaking temps, heightened wildfire risk to parts of western U.S.",
       "url": "https://www.thehindu.com/news/international/heat-wave-bringing-record-breaking-temps-heightened-wildfire-risk-to-parts-of-western-us/article71297047.ece",
@@ -14,7 +38,7 @@
       "sources": [],
       "published_at": "2026-08-02T00:26:39+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/puqleh/article71297048.ece/alternates/LANDSCAPE_1200/2026-07-27T210956Z_359892130_RC2HMMA9J8BD_RTRMADP_3_USA-WEATHER-CALIFORNIA.JPG",
-      "summary": "Dangerous heat and warnings were plaguing the region Saturday, and the National Weather Service on Saturday (August 1) forecast a high of 115° Fahrenheit (46° Celsius) in Las Vegas, the hottest temperature of the year Heat wave bringing record-breaking temps, heightened wildfire risk to parts of western U. S.",
+      "summary": "Dangerous heat and warnings were plaguing the region Saturday, and the National Weather Service on Saturday (August 1) forecast a high of 115° Fahrenheit (46° Celsius) in Las Vegas, the hottest temperature of the year Heat wave bringing record-breaking temps, heightened wildfire risk to parts of western U. S. Heat wave bringing record-breaking temps, heightened wildfire risk to parts of western U. S.",
       "region": "Americas",
       "language": "en",
       "translations": {}
@@ -37,7 +61,7 @@
       "source": "The Guardian",
       "sources": [],
       "published_at": "2026-08-01T22:31:13+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/acf80208b663a5d208fe59c64b52d1f3bb071c71/84_0_5602_4480/master/5602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c73339e4a7e07bee92ecfc3c7bb89df",
+      "image_url": "https://i.guim.co.uk/img/media/bc8c43ce4d58f5d218118b9f67f9b28f8b94bd4b/463_0_4011_3211/master/4011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9cb7fc50587fffa780c5d7383fdf193",
       "summary": "Aircraft crashes into field after departing from the nearby city of Ica, according to local authoritiesAt least 13 people have died after a plane carrying tourists crashed into a field in Peru, local authorities said. Aircraft crashes into field after departing from the nearby city of Pisco, according to local authorities At least 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines, police reported on Saturday. Local authorities in Nazca confirmed that 11 tourists and two pilots died when the Cessna Grand Caravan crashed in Pueblo Viejo, approximately.",
       "region": "Americas",
       "language": "en",
@@ -125,18 +149,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/t0uwd5/article71294830.ece/alternates/LANDSCAPE_1200/iStock-1548395353.jpg",
       "summary": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government. whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners. India’s balancing act to attract more investment from China, U. S. and boost trade.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
-      "url": "https://www.thehindu.com/news/international/italy-suspends-eu-schengen-free-travel-pact-with-spain-over-ceuta-crisis/article71294642.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-08-01T13:32:25+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/3ei27h/article71294688.ece/alternates/LANDSCAPE_1200/AFP_C3Q74MB.jpg",
-      "summary": "Italy does not share a land border with Spain, but the measure. which looks certain to anger ‌Madrid. will impact people travelling by plane or boat between the two countries, meaning they will need to ‌show a passport to gain access Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -309,21 +321,9 @@
       "translations": {}
     },
     {
-      "title": "Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168049",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-07-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/06/15064/image770x420cropped.jpg",
-      "summary": "Independent UN experts on Wednesday called for urgent action to support Rohingya refugees in Bangladesh after reports indicated two boats carrying more than 500 passengers may have capsized off the coast of Myanmar in mid-July. Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "सदी का सबसे लंबा सूर्य ग्रहण: छह मिनट 23 सेकंड तक दिन में छाएगा अंधेरा, वैज्ञानिक क्यों मान रहे",
       "url": "https://www.amarujala.com/world/longest-solar-eclipse-of-the-century-why-scientists-call-the-6-minute-23-second-total-eclipse-a-rare-event-2026-08-02",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-08-02T07:15:32+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/tha-agasata-2027-ka-thana-bhatha-khasa-kaya_a64d65ca58322d5cbea581e72ed8c6ce.jpeg?w=1200&dpr=1.0",
@@ -339,19 +339,181 @@
       }
     },
     {
-      "title": "यूपी के इस जिले में आज से 12 अगस्त तक सभी स्कूल-कॉलेज बंद, डीएम का आदेश जारी",
-      "url": "https://www.amarujala.com/uttar-pradesh/meerut/schools-colleges-and-universities-in-meerut-to-remain-closed-from-august-3-to-12-due-to-kanwar-yatra-2026-08-01",
-      "source": "Amar Ujala Breaking",
+      "title": "प्रधानमंत्री नरेंद्र मोदी नशा मुक्त अभियान का करेंगे शुभारंभ, कर्नाटक सरकार की सर्वदलीय बैठक",
+      "url": "https://www.amarujala.com/india-news/2-august-2026-major-event-2026-08-01",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-08-02T06:33:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/tana-sa-12-agasata-taka-btha-rahaga-sakal_3cf3c665ed3a9afc20420ad5512cd4fe.jpeg?w=1200&dpr=1.0",
-      "summary": "श्रावण मास एवं कांवड़ यात्रा के दौरान श्रद्धालुओं की बढ़ती संख्या और यातायात डायवर्जन को देखते हुए जिला प्रशासन ने बड़ा निर्णय लिया है। यूपी के इस जिले में आज से 12 अगस्त तक सभी स्कूल-कॉलेज बंद, डीएम का आदेश जारी।",
+      "published_at": "2026-08-02T01:36:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/aaja-ka-khabra_0ec9aeefa728458fb28e764c941e47cb.gif?w=1200&dpr=1.0",
+      "summary": "नमस्कार! आज है रविवार, 2 अगस्त। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं प्रधानमंत्री नरेंद्र मोदी नशा मुक्त अभियान का करेंगे शुभारंभ, कर्नाटक सरकार की सर्वदलीय बैठक।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यूपी के इस जिले में आज से 12 अगस्त तक सभी स्कूल-कॉलेज बंद, डीएम का आदेश जारी",
-          "summary": "श्रावण मास एवं कांवड़ यात्रा के दौरान श्रद्धालुओं की बढ़ती संख्या और यातायात डायवर्जन को देखते हुए जिला प्रशासन ने बड़ा निर्णय लिया है। यूपी के इस जिले में आज से 12 अगस्त तक सभी स्कूल-कॉलेज बंद, डीएम का आदेश जारी।",
+          "title": "प्रधानमंत्री नरेंद्र मोदी नशा मुक्त अभियान का करेंगे शुभारंभ, कर्नाटक सरकार की सर्वदलीय बैठक",
+          "summary": "नमस्कार! आज है रविवार, 2 अगस्त। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं प्रधानमंत्री नरेंद्र मोदी नशा मुक्त अभियान का करेंगे शुभारंभ, कर्नाटक सरकार की सर्वदलीय बैठक।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "गुजरात से असम तक मानसूनी बारिश, बादल फटने से तबाही; नुकसान की भरपाई के लिए राज्यों को कितनी मदद?",
+      "url": "https://www.amarujala.com/india-news/weather-wrath-monsoon-rains-gujarat-assam-himachal-kashmir-cloudburst-centre-gives-fund-to-states-for-damage-2026-08-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-02T01:34:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/rajaya-ma-manasana-ka-brasha-ka-kahara_ac7ce0c3f599572c752a6146d0eb1b21.jpeg?w=1200&dpr=1.0",
+      "summary": "मौसम की मार: गुजरात से असम तक मानसूनी बारिश, बादल फटने से तबाही; नुकसान की भरपाई के लिए राज्यों को कितनी मदद?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गुजरात से असम तक मानसूनी बारिश, बादल फटने से तबाही; नुकसान की भरपाई के लिए राज्यों को कितनी मदद?",
+          "summary": "मौसम की मार: गुजरात से असम तक मानसूनी बारिश, बादल फटने से तबाही; नुकसान की भरपाई के लिए राज्यों को कितनी मदद?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या राजनीतिक दलों से बाहर बन रही नई ताकत, जंतर-मंतर आंदोलन का संदेश भारतीय राजनीति में क्या बदलाव",
+      "url": "https://www.amarujala.com/columns/opinion/is-a-new-political-force-emerging-beyond-traditional-parties-what-the-jantar-mantar-protest-means-for-india-2026-08-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-02T01:30:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/bharataya-rajanata-ka-bthalva-para-parava-katharaya-matara-pa-cathabrama-kaya-kahata-ha_46edbb94b4f483f555ec98e656525273.jpeg?w=1200&dpr=1.0",
+      "summary": "लगाएग? क्या राजनीतिक दलों से बाहर बन रही नई ताकत, जंतर-मंतर आंदोलन का संदेश भारतीय राजनीति में क्या बदलाव लगाएग?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या राजनीतिक दलों से बाहर बन रही नई ताकत, जंतर-मंतर आंदोलन का संदेश भारतीय राजनीति में क्या बदलाव",
+          "summary": "लगाएग? क्या राजनीतिक दलों से बाहर बन रही नई ताकत, जंतर-मंतर आंदोलन का संदेश भारतीय राजनीति में क्या बदलाव लगाएग?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में फिर मास शूटिंग, बर्गर पार्टी में अंधाधुंध गोलियां, 3 लोगों की मौत",
+      "url": "https://hindi.news18.com/world/america-idaho-twin-falls-in-n-out-restaurant-mass-shooting-many-killed-update-america-usa-news-10710319.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-02T01:19:59+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Idaho-1-2026-08-df35375cf265bc54c38ff9dc70385043-1200x800.jpg",
+      "summary": "आइडाहो राज्य के ट्विन फॉल्स में एक नए खुले रेस्टोरेंट में शनिवार को अंधाधुंध फायरिंग में कम से कम 3 लोगों की मौत हो गई. हमलावर भी मारा गया है. पुलिस ने इलाके को सुरक्षित घोषित कर दिया है. Idaho Mass Shooting News: अमेरिका के आइडाहो राज्य के ट्विन फॉल्स में एक नए खुले रेस्टोरेंट में शनिवार को अंधाधुंध फायरिंग में कई लोगों की मौत हो गई.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में फिर मास शूटिंग, बर्गर पार्टी में अंधाधुंध गोलियां, 3 लोगों की मौत",
+          "summary": "आइडाहो राज्य के ट्विन फॉल्स में एक नए खुले रेस्टोरेंट में शनिवार को अंधाधुंध फायरिंग में कम से कम 3 लोगों की मौत हो गई. हमलावर भी मारा गया है. पुलिस ने इलाके को सुरक्षित घोषित कर दिया है. Idaho Mass Shooting News: अमेरिका के आइडाहो राज्य के ट्विन फॉल्स में एक नए खुले रेस्टोरेंट में शनिवार को अंधाधुंध फायरिंग में कई लोगों की मौत हो गई.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका को ईरान की दो टूक चेतावनी, सिर्फ होर्मुज ही नहीं, दुनिया के सारे समुद्री रास्ते बंद करेगा",
+      "url": "https://www.patrika.com/world-news/iran-us-war-live-tehran-warns-decisive-response-hormuz-strait-crisis-20797598",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-02T01:16:16+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Iran-US-War.webp",
+      "summary": "ईरान की राष्ट्रीय सुरक्षा परिषद के शीर्ष अधिकारी मोहम्मद बाघेर जोलघादर ने कहा कि यदि अमेरिका ने अपना आक्रामक रुख जारी रखा, तो ईरान दुनिया के सभी समुद्री रास्तों को बंद कर देगा। उन्होंने यह भी कहा कि ईरान मध्य पूर्व में जारी खूनी संघर्ष को रोकने के लिए तैयार है, लेकिन अमेरिकी दबाव के जवाब में कोई समझौता नहीं होगा। ईरान ने अमेरिकी नौसैनिक नाकेबंदी और सैन्य दबाव के जवाब में दुनिया को आर्थिक और सामरिक तबाही की चेतावनी दी है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका को ईरान की दो टूक चेतावनी, सिर्फ होर्मुज ही नहीं, दुनिया के सारे समुद्री रास्ते बंद करेगा",
+          "summary": "ईरान की राष्ट्रीय सुरक्षा परिषद के शीर्ष अधिकारी मोहम्मद बाघेर जोलघादर ने कहा कि यदि अमेरिका ने अपना आक्रामक रुख जारी रखा, तो ईरान दुनिया के सभी समुद्री रास्तों को बंद कर देगा। उन्होंने यह भी कहा कि ईरान मध्य पूर्व में जारी खूनी संघर्ष को रोकने के लिए तैयार है, लेकिन अमेरिकी दबाव के जवाब में कोई समझौता नहीं होगा। ईरान ने अमेरिकी नौसैनिक नाकेबंदी और सैन्य दबाव के जवाब में दुनिया को आर्थिक और सामरिक तबाही की चेतावनी दी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मुंबई पुलिस ने फर्जी बैंक खाते खोलने वाले गिरोह का भंडाफोड़ किया, सात गिरफ्तार",
+      "url": "https://www.amarujala.com/india-news/maharashtra-hindi-updates-mumbai-bank-account-cyber-fraud-probe-nagpur-pune-education-politics-crime-news-2026-08-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-02T01:15:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=1200&dpr=1.0",
+      "summary": "मुंबई पुलिस ने फर्जी बैंक खाते खोलने वाले एक गिरोह का भंडाफोड़ किया है, जिसमें सात लोग गिरफ्तार किए गए हैं। पुलिस ने बताया कि गिरोह ने कई बैंकों में फर्जी खाते खोले थे और उनमें बड़ी रकम जमा की थी। Maharashtra News: मुंबई पुलिस ने फर्जी बैंक खाते खोलने वाले गिरोह का भंडाफोड़ किया, सात गिरफ्तार।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मुंबई पुलिस ने फर्जी बैंक खाते खोलने वाले गिरोह का भंडाफोड़ किया, सात गिरफ्तार",
+          "summary": "मुंबई पुलिस ने फर्जी बैंक खाते खोलने वाले एक गिरोह का भंडाफोड़ किया है, जिसमें सात लोग गिरफ्तार किए गए हैं। पुलिस ने बताया कि गिरोह ने कई बैंकों में फर्जी खाते खोले थे और उनमें बड़ी रकम जमा की थी। Maharashtra News: मुंबई पुलिस ने फर्जी बैंक खाते खोलने वाले गिरोह का भंडाफोड़ किया, सात गिरफ्तार।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "केंद्र ने राज्य सरकारों को दिए 1.09 लाख करोड़ के फंड; PM-VBRY से पहले वर्ष 72 लाख औपचारिक रोजगार",
+      "url": "https://www.amarujala.com/business/business-diary/business-updates-centre-gives-fund-to-states-pm-vbry-employment-india-forex-gold-silver-crude-rates-news-2026-08-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-02T01:12:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/12/bjanasa-nayaja-eda-apadatasa_7f2f68f2e5b4d9ee8db3f982d3b51abb.jpeg?w=1200&dpr=1.0",
+      "summary": "केंद्र सरकार ने राज्य सरकारों को 1.09 लाख करोड़ रुपये के फंड दिए हैं। इससे पहले वर्ष में 72 लाख औपचारिक रोजगार पैदा हुए थे। PM-VBRY कार्यक्रम के तहत यह फंड दिया गया है। Biz Updates: केंद्र ने राज्य सरकारों को दिए 1.09 लाख करोड़ के फंड; PM-VBRY से पहले वर्ष 72 लाख औपचारिक रोजगार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "केंद्र ने राज्य सरकारों को दिए 1.09 लाख करोड़ के फंड; PM-VBRY से पहले वर्ष 72 लाख औपचारिक रोजगार",
+          "summary": "केंद्र सरकार ने राज्य सरकारों को 1.09 लाख करोड़ रुपये के फंड दिए हैं। इससे पहले वर्ष में 72 लाख औपचारिक रोजगार पैदा हुए थे। PM-VBRY कार्यक्रम के तहत यह फंड दिया गया है। Biz Updates: केंद्र ने राज्य सरकारों को दिए 1.09 लाख करोड़ के फंड; PM-VBRY से पहले वर्ष 72 लाख औपचारिक रोजगार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "यमुना डूब क्षेत्र दिल्ली का प्राकृतिक वाटर प्यूरीफायर, सुरक्षित भविष्य के लिए बचाना होगा",
+      "url": "https://www.amarujala.com/delhi-ncr/international-study-the-yamuna-s-floodplain-is-delhi-s-natural-water-purifier-it-must-be-saved-2026-08-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-02T01:12:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/1_c0732a5b2e11c3cdfce9ab1c16430a06.jpeg?w=1200&dpr=1.0",
+      "summary": "यमुना नदी के डूब क्षेत्र दिल्ली को प्राकृतिक रूप से पेयजल प्रदान करते हैं। यह क्षेत्र प्राकृतिक वाटर प्यूरीफायर के रूप में कार्य करता है और सुरक्षित भविष्य के लिए बचाना आवश्यक है। यमुना नदी के पुराने डूब क्षेत्र (फ्लड प्लेन) दिल्ली को मिलने वाले पेयजल को प्राकृतिक रूप से साफ करने में महत्वपूर्ण भूमिका निभाते हैं। यमुना डूब क्षेत्र दिल्ली का प्राकृतिक वाटर प्यूरीफायर, सुरक्षित भविष्य के लिए बचाना होगा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यमुना डूब क्षेत्र दिल्ली का प्राकृतिक वाटर प्यूरीफायर, सुरक्षित भविष्य के लिए बचाना होगा",
+          "summary": "यमुना नदी के डूब क्षेत्र दिल्ली को प्राकृतिक रूप से पेयजल प्रदान करते हैं। यह क्षेत्र प्राकृतिक वाटर प्यूरीफायर के रूप में कार्य करता है और सुरक्षित भविष्य के लिए बचाना आवश्यक है। यमुना नदी के पुराने डूब क्षेत्र (फ्लड प्लेन) दिल्ली को मिलने वाले पेयजल को प्राकृतिक रूप से साफ करने में महत्वपूर्ण भूमिका निभाते हैं। यमुना डूब क्षेत्र दिल्ली का प्राकृतिक वाटर प्यूरीफायर, सुरक्षित भविष्य के लिए बचाना होगा।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मॉस्को धमाके में 3 की मौत, लग्जरी रेस्टोरेंट में 'गिफ्ट' बनकर पहुंचा विस्फोटक",
+      "url": "https://hindi.news18.com/world/europe-moscow-restaurant-bomb-blast-balzi-rossi-three-killed-explained-10710262.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-02T00:53:55+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/moscow-Blast-2026-08-4eaa520be2d9313e9a54b8dfaa33336a-1200x800.jpg",
+      "summary": "मॉस्को में एक लग्जरी रेस्टोरेंट में विस्फोट हुआ, जिसमें तीन लोगों की मौत हो गई और 21 लोग घायल हो गए। शुरुआती जांच के मुताबिक, एक महिला ने विस्फोटक भरा हुआ गिफ्ट बॉक्स लेकर पहुंची थी। Russia Restaurant Blast: रूस की राजधानी मॉस्को के एक रेस्टोरेंट में प्राइवेट कार्यक्रम के दौरान बम धमाका हो गया, जिसमें तीन लोगों की मौत हुई और 21 लोग घायल हो गए.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मॉस्को धमाके में 3 की मौत, लग्जरी रेस्टोरेंट में 'गिफ्ट' बनकर पहुंचा विस्फोटक",
+          "summary": "मॉस्को में एक लग्जरी रेस्टोरेंट में विस्फोट हुआ, जिसमें तीन लोगों की मौत हो गई और 21 लोग घायल हो गए। शुरुआती जांच के मुताबिक, एक महिला ने विस्फोटक भरा हुआ गिफ्ट बॉक्स लेकर पहुंची थी। Russia Restaurant Blast: रूस की राजधानी मॉस्को के एक रेस्टोरेंट में प्राइवेट कार्यक्रम के दौरान बम धमाका हो गया, जिसमें तीन लोगों की मौत हुई और 21 लोग घायल हो गए.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "धार्मिक स्थल पर भीड़ नियंत्रण के वैज्ञानिक तरीके खोजे सरकार, इसके लिए शोध की दरकार",
+      "url": "https://www.amarujala.com/uttar-pradesh/allahabad/allahabad-high-court-government-should-find-scientific-methods-for-crowd-control-at-religious-places-2026-08-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-02T00:39:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/1_7404cd302c23f77a8ed360df0b3a4bd0.jpeg?w=1200&dpr=1.0",
+      "summary": "इलाहाबाद हाईकोर्ट ने कहा कि तीर्थ स्थलों पर भगदड़ केवल प्रशासन की विफलता नहीं है, बल्कि भीड़ के मनोविज्ञान के प्रति अज्ञानता का परिणाम है। सरकार को अब भीड़ नियंत्रण के वैज्ञानिक तरीके खोजने के लिए शोध करना होगा। इलाहाबाद हाईकोर्ट ने कहा कि तीर्थ स्थलों, धार्मिक आयोजनों में होने वाली भगदड़ केवल प्रशासन की भीड़ प्रबंधन की विफलता का ही नहीं है बल्कि भीड़ के मनोविज्ञान के प्रति अज्ञानता का परिणाम है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धार्मिक स्थल पर भीड़ नियंत्रण के वैज्ञानिक तरीके खोजे सरकार, इसके लिए शोध की दरकार",
+          "summary": "इलाहाबाद हाईकोर्ट ने कहा कि तीर्थ स्थलों पर भगदड़ केवल प्रशासन की विफलता नहीं है, बल्कि भीड़ के मनोविज्ञान के प्रति अज्ञानता का परिणाम है। सरकार को अब भीड़ नियंत्रण के वैज्ञानिक तरीके खोजने के लिए शोध करना होगा। इलाहाबाद हाईकोर्ट ने कहा कि तीर्थ स्थलों, धार्मिक आयोजनों में होने वाली भगदड़ केवल प्रशासन की भीड़ प्रबंधन की विफलता का ही नहीं है बल्कि भीड़ के मनोविज्ञान के प्रति अज्ञानता का परिणाम है।",
           "region": "दुनिया"
         }
       }
@@ -381,13 +543,13 @@
       "sources": [],
       "published_at": "2026-08-02T00:30:03+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/weather-forecast_41603b38bec2522c1cebe5fc78f6358d.jpeg?w=1200&dpr=1.0",
-      "summary": "Weather Forecast 02 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+      "summary": "| Weather Report Today।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "Weather Forecast 02 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "Weather Forecast 02 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+          "summary": "| Weather Report Today।",
           "region": "दुनिया"
         }
       }
@@ -555,6 +717,24 @@
       }
     },
     {
+      "title": "जस्टिस भुइयां ने पारदर्शिता पर उठाए सवाल, कहा- किसी जज को क्यों चुना, नहीं बताना बाकी के लिए अन्याय",
+      "url": "https://www.amarujala.com/india-news/collegium-justice-bhuyan-transparency-in-judiciary-not-disclosing-why-specific-judge-selected-unfair-to-others-2026-08-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-01T23:05:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/supreme-court_39c6214975a8f477c2a0558de4468673.jpeg?w=1200&dpr=1.0",
+      "summary": "जस्टिस भुइयां ने कहा कि किसी जज का नाम चुनने के पीछे के कारणों को नहीं बताया जाना अन्यायपूर्ण है। उन्होंने कॉलेजियम की पारदर्शिता पर सवाल उठाए और कहा कि यह न्यायपालिका की स्वतंत्रता को कम करता है। कॉलेजियम: जस्टिस भुइयां ने पारदर्शिता पर उठाए सवाल, कहा- किसी जज को क्यों चुना, नहीं बताना बाकी के लिए अन्याय।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जस्टिस भुइयां ने पारदर्शिता पर उठाए सवाल, कहा- किसी जज को क्यों चुना, नहीं बताना बाकी के लिए अन्याय",
+          "summary": "जस्टिस भुइयां ने कहा कि किसी जज का नाम चुनने के पीछे के कारणों को नहीं बताया जाना अन्यायपूर्ण है। उन्होंने कॉलेजियम की पारदर्शिता पर सवाल उठाए और कहा कि यह न्यायपालिका की स्वतंत्रता को कम करता है। कॉलेजियम: जस्टिस भुइयां ने पारदर्शिता पर उठाए सवाल, कहा- किसी जज को क्यों चुना, नहीं बताना बाकी के लिए अन्याय।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "उत्तराखंड सीएम रिलीफ फंड समेत 10 विभागों की वेबसाइट पर साइबर हमला, बैकअप से चलाना पड़ा काम",
       "url": "https://www.amarujala.com/dehradun/cyberattack-on-websites-of-10-departments-including-the-uttarakhand-cm-relief-fund-2026-08-02",
       "source": "Amar Ujala Breaking",
@@ -587,186 +767,6 @@
           "title": "नोएडा में अब पानी से भरी हौदी में डूबकर मासूम की मौत, सुरक्षा के इंतजामों की पड़ताल कर रही है पुलिस",
           "summary": "इस बार पानी से भरी हाैदी मासूम के लिए जानलेवा साबित हुई। नोएडा में अब पानी से भरी हौदी में डूबकर मासूम की मौत, सुरक्षा के इंतजामों की पड़ताल कर रही है पुलिस।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कम होगी खाड़ी देशों पर निर्भरता?: होर्मुज संकट के बीच इराक-तुर्किये का बड़ा तेल समझौता, ऐसे",
-      "url": "https://www.amarujala.com/business/business-diary/iraq-turkiye-oil-deal-will-it-reduce-dependence-on-gulf-routes-new-pipeline-plan-amid-hormuz-crisis-2026-08-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-01T22:31:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/iraka-tarakaya-samajhata-kaya-mana-ja-raha-ahama_8e6317b1fa674c80f76b0caf6852361d.jpeg?w=1200&dpr=1.0",
-      "summary": "इराक और तुर्किये ने होर्मुज संकट के बीच एक बड़ा तेल समझौता किया है। इस समझौते से दोनों देश अपने तेल निर्यात को बढ़ाने की कोशिश करेंगे। इराक के तेल को तुर्किये के बंदरगाहों से निर्यात किया जाएगा। कम होगी खाड़ी देशों पर निर्भरता?: होर्मुज संकट के बीच इराक-तुर्किये का बड़ा तेल समझौता, ऐसे बढ़ाएंगे निर्यात।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कम होगी खाड़ी देशों पर निर्भरता?: होर्मुज संकट के बीच इराक-तुर्किये का बड़ा तेल समझौता, ऐसे",
-          "summary": "इराक और तुर्किये ने होर्मुज संकट के बीच एक बड़ा तेल समझौता किया है। इस समझौते से दोनों देश अपने तेल निर्यात को बढ़ाने की कोशिश करेंगे। इराक के तेल को तुर्किये के बंदरगाहों से निर्यात किया जाएगा। कम होगी खाड़ी देशों पर निर्भरता?: होर्मुज संकट के बीच इराक-तुर्किये का बड़ा तेल समझौता, ऐसे बढ़ाएंगे निर्यात।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जो जहर आसिम मुनीर ने घोला है, पाकिस्तानी आर्मी वही घुट्टी पूरी अवाम को पिला रही",
-      "url": "https://hindi.news18.com/world/pakistan-asim-munir-spreading-india-and-hindu-hate-how-pakistan-army-uses-religion-to-hide-balochistan-and-pok-failures-10709881.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-01T22:31:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/asim-munir-2026-07-6f31bfd5bd3f20ab9389e3e62125f656-1200x800.jpg",
-      "summary": "पाकिस्तानी आर्मी चीफ आसिम मुनीर ने 'काफिर' और 'टू-नेशन थ्योरी' का नफरती पाठ पढ़ाया है. पाकिस्तान की अर्थव्यवस्था गर्त में गिर चुकी है. बलूचिस्तान और PoK में विद्रोह की आग सुलग रही है. इन हालातों से बौखलाए फौजी जनरलों ने फिर से ‘काफिर’ का कार्ड खेलना शुरू कर दिया है. आर्मी चीफ आसिम मुनीर ने 'काफिर' और 'टू-नेशन थ्योरी' का नफरती पाठ पढ़ाया था.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जो जहर आसिम मुनीर ने घोला है, पाकिस्तानी आर्मी वही घुट्टी पूरी अवाम को पिला रही",
-          "summary": "पाकिस्तानी आर्मी चीफ आसिम मुनीर ने 'काफिर' और 'टू-नेशन थ्योरी' का नफरती पाठ पढ़ाया है. पाकिस्तान की अर्थव्यवस्था गर्त में गिर चुकी है. बलूचिस्तान और PoK में विद्रोह की आग सुलग रही है. इन हालातों से बौखलाए फौजी जनरलों ने फिर से ‘काफिर’ का कार्ड खेलना शुरू कर दिया है. आर्मी चीफ आसिम मुनीर ने 'काफिर' और 'टू-नेशन थ्योरी' का नफरती पाठ पढ़ाया था.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ओमान के तट पर फंसे तेल टैंकर से रिसाव बढ़ा, समुद्री संरक्षित क्षेत्र पर कौन सा संकट मंडरा रहा?",
-      "url": "https://www.amarujala.com/world/oman-oil-spill-crude-leak-from-sanctioned-tanker-raises-fears-of-major-environmental-disaster-2026-08-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-01T19:54:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/omana-ka-tata-para-madara-raha-bugdha-khatara_096a30ea6438258e0b796a8990eba22f.jpeg?w=1200&dpr=1.0",
-      "summary": "Oil Leak Oman: ओमान के तट पर फंसे तेल टैंकर से रिसाव बढ़ा, समुद्री संरक्षित क्षेत्र पर कौन सा संकट मंडरा रहा?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ओमान के तट पर फंसे तेल टैंकर से रिसाव बढ़ा, समुद्री संरक्षित क्षेत्र पर कौन सा संकट मंडरा रहा?",
-          "summary": "Oil Leak Oman: ओमान के तट पर फंसे तेल टैंकर से रिसाव बढ़ा, समुद्री संरक्षित क्षेत्र पर कौन सा संकट मंडरा रहा?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "नेपाल में सोना हुई चीनी! भारत ने बैन लगाया तो आसमान चढ़े दाम, बॉर्डर से होने लगी तस्करी",
-      "url": "https://hindi.news18.com/world/south-asia-sugar-price-hike-nepal-india-banned-prices-skyrocketed-smuggling-started-from-border-sjn-10709572.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-01T18:32:51+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Sugar-Export-Ban-2026-05-277fa92c536b7c3138c5a07278193371-1200x800.jpg",
-      "summary": "भारत के चीनी निर्यात पर रोक लगाने का असर अब नेपाल में साफ दिखाई देने लगा है. नेपाल-भारत सीमा पर चीनी की तस्करी तेजी से बढ़ रही है. वहीं बाजार में चीनी महंगी होती जा रही है. ऐसे में त्योहारों से पहले नेपाल सरकार की चिंता भी बढ़ गई है. नेपाल में सोना हुई चीनी! भारत ने बैन लगाया तो आसमान चढ़े दाम, बॉर्डर से होने लगी तस्करी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल में सोना हुई चीनी! भारत ने बैन लगाया तो आसमान चढ़े दाम, बॉर्डर से होने लगी तस्करी",
-          "summary": "भारत के चीनी निर्यात पर रोक लगाने का असर अब नेपाल में साफ दिखाई देने लगा है. नेपाल-भारत सीमा पर चीनी की तस्करी तेजी से बढ़ रही है. वहीं बाजार में चीनी महंगी होती जा रही है. ऐसे में त्योहारों से पहले नेपाल सरकार की चिंता भी बढ़ गई है. नेपाल में सोना हुई चीनी! भारत ने बैन लगाया तो आसमान चढ़े दाम, बॉर्डर से होने लगी तस्करी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "इन 10 देशों में होने वाला है बड़ा बवाल, अमेरिका ने कहा तुरंत छोडकर भागो, लिस्ट में आखिरी नाम चौंका",
-      "url": "https://hindi.news18.com/world/middle-east-us-emergency-evacuation-alert-for-10-countries-uae-qatar-oman-iraq-jordan-israel-kuwait-saudi-arabia-bahrain-egypt-amid-iran-war-fears-10710137.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-01T18:32:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/US-Army-Prep-Iran-Ground-Invasion-2026-07-235c67a2029e5fc98b35fe1b574df986-1200x800.jpg",
-      "summary": "ईरान के साथ बढ़ते तनाव के बीच अमेरिका ने अपने नागरिकों के लिए सबसे बड़ा 'इवेक्यूएशन अलर्ट' जारी कर दिया है. अमेरिकी प्रशासन ने खाड़ी के 10 देशों में मौजूद अपने लोगों से कहा है कि वे बिना देर किए तुरंत वहां से निकल जाएं या भागने के लिए तैयार रहें. इस एक ऐसे देश का नाम भी शामिल है, जिसके शामिल होने की किसी को उम्मीद नहीं थी.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इन 10 देशों में होने वाला है बड़ा बवाल, अमेरिका ने कहा तुरंत छोडकर भागो, लिस्ट में आखिरी नाम चौंका",
-          "summary": "ईरान के साथ बढ़ते तनाव के बीच अमेरिका ने अपने नागरिकों के लिए सबसे बड़ा 'इवेक्यूएशन अलर्ट' जारी कर दिया है. अमेरिकी प्रशासन ने खाड़ी के 10 देशों में मौजूद अपने लोगों से कहा है कि वे बिना देर किए तुरंत वहां से निकल जाएं या भागने के लिए तैयार रहें. इस एक ऐसे देश का नाम भी शामिल है, जिसके शामिल होने की किसी को उम्मीद नहीं थी.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'पाकिस्तान बिकता नहीं, किराए पर मिलता है', अमेरिका को बेवकूफ बनाने की करता है कोशिश!, रिपोर्ट में",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-is-not-sold-is-available-on-rent-america-media-claims-in-report-10710158.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-01T18:31:11+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Shehbaz-Sharif-Asim-Munir-2026-07-3ea83787fc279c80d4d86fd23612a973-1200x800.jpg",
-      "summary": "अमेरिकी पत्रिका द नेशनल इंटरेस्ट की एक दिलचस्प रिपोर्ट में अमेरिका और पाकिस्तान के रिश्तों का एक नया गणित समझाया गया है. रिपोर्ट में कहा गया है कि अमेरिका हमेशा से यही गलती करता आया है कि वह पाकिस्तान को खरीद सकता है, लेकिन हकीकत यह है कि पाकिस्तान बिकने के लिए नहीं बल्कि किराए पर उपलब्ध रहने वाला देश है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'पाकिस्तान बिकता नहीं, किराए पर मिलता है', अमेरिका को बेवकूफ बनाने की करता है कोशिश!, रिपोर्ट में",
-          "summary": "अमेरिकी पत्रिका द नेशनल इंटरेस्ट की एक दिलचस्प रिपोर्ट में अमेरिका और पाकिस्तान के रिश्तों का एक नया गणित समझाया गया है. रिपोर्ट में कहा गया है कि अमेरिका हमेशा से यही गलती करता आया है कि वह पाकिस्तान को खरीद सकता है, लेकिन हकीकत यह है कि पाकिस्तान बिकने के लिए नहीं बल्कि किराए पर उपलब्ध रहने वाला देश है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मोबाइल पर अश्लील वीडियो देखती रही मां, 6 महीने का बच्चा मर गया, पुलिस को सुनाईं 3 नई कहानियां",
-      "url": "https://hindi.news18.com/news/ajab-gajab/viral-florida-mom-watches-adult-tiktok-videos-on-phone-as-6-month-old-baby-dies-to-faces-30-years-in-prison-10710107.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-01T17:53:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Florida-Viral-News-2026-08-1a393bf6fbf55e606d39f481e0610d12-1200x800.jpg",
-      "summary": "26 वर्षीय की महिला की लापरवाही और हैवानियत के कारण उसके छह महीने के मासूम बच्चे की तड़प-तड़पकर मौत हो गई. जब बच्चा गंभीर चोटों से चीख रहा था और उसका शरीर नीला पड़ रहा था, तब उसकी मां अस्पताल ले जाने के बजाय घंटों मोबाइल पर टिक-टॉक, रील और अश्लील वीडियो देखने में मशगूल थी. बच्चे की जान जाने के बाद महिला ने पुलिस को गुमराह करने के लिए झूठी कहानियां सुनाईं, लेकिन फॉरेंसिक और पोस्टमार्टम रिपोर्ट में उ।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मोबाइल पर अश्लील वीडियो देखती रही मां, 6 महीने का बच्चा मर गया, पुलिस को सुनाईं 3 नई कहानियां",
-          "summary": "26 वर्षीय की महिला की लापरवाही और हैवानियत के कारण उसके छह महीने के मासूम बच्चे की तड़प-तड़पकर मौत हो गई. जब बच्चा गंभीर चोटों से चीख रहा था और उसका शरीर नीला पड़ रहा था, तब उसकी मां अस्पताल ले जाने के बजाय घंटों मोबाइल पर टिक-टॉक, रील और अश्लील वीडियो देखने में मशगूल थी. बच्चे की जान जाने के बाद महिला ने पुलिस को गुमराह करने के लिए झूठी कहानियां सुनाईं, लेकिन फॉरेंसिक और पोस्टमार्टम रिपोर्ट में उ।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "चीन के साथ जंग से क्यों पीछे हटता है अमेरिका? ट्रंप के राइट हैंड क्यों घबराए? इन 5 वजहों से तौबा",
-      "url": "https://hindi.news18.com/news/knowledge/why-america-wish-to-avoid-war-with-china-main-reasons-explain-as-marco-rubio-terms-catastrophic-10709806.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-01T17:19:16+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Untitled-design-2026-08-01T201943.195-2026-08-60a1bbf8cfcecb9cb31117900dc5d594-1200x800.jpg",
-      "summary": "Marco Rubio on China: अमेरिका के विदेश मंत्री मार्को रूबियो ने एक इंटरव्यू में अमेरिका-चीन के टकराने की बात पर God Forbid और Catastrophic जैसे शब्दों का यूज किया. इस दौरान उन्होंने कहा कि भगवान ना करे कि कभी अमेरिका और चीन के बीच लड़ाई की नौबत आए क्योंकि ऐसा होना विनाशकारी साबित होगा. चीन के साथ जंग से क्यों पीछे हटता है अमेरिका?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन के साथ जंग से क्यों पीछे हटता है अमेरिका? ट्रंप के राइट हैंड क्यों घबराए? इन 5 वजहों से तौबा",
-          "summary": "Marco Rubio on China: अमेरिका के विदेश मंत्री मार्को रूबियो ने एक इंटरव्यू में अमेरिका-चीन के टकराने की बात पर God Forbid और Catastrophic जैसे शब्दों का यूज किया. इस दौरान उन्होंने कहा कि भगवान ना करे कि कभी अमेरिका और चीन के बीच लड़ाई की नौबत आए क्योंकि ऐसा होना विनाशकारी साबित होगा. चीन के साथ जंग से क्यों पीछे हटता है अमेरिका?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "फंस गए हैं ट्रंप, एक तरह नेतन्याहू की सलाह दूसरी तरफ जिगरी यार MBS की दरख्वास्त, ईरान ने कर दिया",
-      "url": "https://hindi.news18.com/world/middle-east-donald-trump-trapped-israel-s-pressure-and-saudi-arab-peace-iran-war-10709660.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-01T15:50:30+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Netanyahu-Donald-Trump-MBS-2026-08-59b31da149d27f5e82761bfb83805eb5-1200x800.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने पिछले दिनों ईजरायली पीएम बेंजामिन नेतन्याहू से मुलाकात की है. दूसरी तरफ उन्हें सऊदी क्राउन प्रिंस मोहम्मद बिन सलमान ने संदेश भेजा है. ये दोनों ईरान को लेकर अलग-अलग दिशा मेंं आगे बढ़ने की बात करते हैं. इन दिनों ईरान के साथ बढ़ते तनाव को लेकर अपने सहयोगियों, सैन्य सलाहकारों और रिपब्लिकन पार्टी के नेताओं के भारी दबाव में हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फंस गए हैं ट्रंप, एक तरह नेतन्याहू की सलाह दूसरी तरफ जिगरी यार MBS की दरख्वास्त, ईरान ने कर दिया",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने पिछले दिनों ईजरायली पीएम बेंजामिन नेतन्याहू से मुलाकात की है. दूसरी तरफ उन्हें सऊदी क्राउन प्रिंस मोहम्मद बिन सलमान ने संदेश भेजा है. ये दोनों ईरान को लेकर अलग-अलग दिशा मेंं आगे बढ़ने की बात करते हैं. इन दिनों ईरान के साथ बढ़ते तनाव को लेकर अपने सहयोगियों, सैन्य सलाहकारों और रिपब्लिकन पार्टी के नेताओं के भारी दबाव में हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "छात्र आंदोलन से दहला बांग्लादेश, जमात-ए-इस्लामी और छात्र शिबिर आतंकी संगठन घोषित",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-jamaat-e-islami-and-chhatra-shibir-declared-terrorist-organizations-10709846.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-01T15:36:51+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Bangladesh-Protest-Reuters-1-2026-08-a54b0046236637e1a9fef7e115523e24-1200x800.jpg",
-      "summary": "बांग्लादेश में जारी राजनीतिक उथल-पुथल और हिंसा के बीच एक बड़ा फैसला सामने आया है. भारी जनाक्रोश और हिंसक प्रदर्शनों के बाद सरकार ने बड़ा कदम उठाते हुए जमात-ए-इस्लामी और उसकी छात्र इकाई इस्लामी छात्र शिबिर पर पूरी तरह से बैन लगा दिया है. सरकार ने इन्हें आतंकी और उग्रवादी संगठन घोषित करते हुए इनकी सभी राजनीतिक गतिविधियों पर रोक लगा दी है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "छात्र आंदोलन से दहला बांग्लादेश, जमात-ए-इस्लामी और छात्र शिबिर आतंकी संगठन घोषित",
-          "summary": "बांग्लादेश में जारी राजनीतिक उथल-पुथल और हिंसा के बीच एक बड़ा फैसला सामने आया है. भारी जनाक्रोश और हिंसक प्रदर्शनों के बाद सरकार ने बड़ा कदम उठाते हुए जमात-ए-इस्लामी और उसकी छात्र इकाई इस्लामी छात्र शिबिर पर पूरी तरह से बैन लगा दिया है. सरकार ने इन्हें आतंकी और उग्रवादी संगठन घोषित करते हुए इनकी सभी राजनीतिक गतिविधियों पर रोक लगा दी है.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
