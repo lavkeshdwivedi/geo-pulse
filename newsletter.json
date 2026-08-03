@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-03T01:39:46.769676+00:00",
+  "generated_at": "2026-08-03T03:09:40.776491+00:00",
   "article_count": 50,
-  "total_unique_count": 255,
+  "total_unique_count": 257,
   "digest": {
-    "en": "Ebola outbreaks in the Democratic Republic of Congo and rising tensions between the European Union and Turkey dominate the headlines. Meanwhile, oil prices plummet after US President Trump calls off an attack on Iran to pursue a nuclear deal. Chaos at the Morocco-Spain border continues to affect Moroccans in Ceuta.",
-    "hi": "भूकंप से दहला मिस्र, र‍िक्‍टर स्‍केल पर तीव्रता 5.4, आपातकालीन रेस्‍पॉन्‍स स‍िस्‍टम हुआ एक्‍ट‍िव। इस घटना के बाद मिस्र के कई हिस्सों में लोगों ने अपने घरों से बाहर निकलकर सुरक्षित स्थानों पर जाने के लिए प्रयास किया।"
+    "en": "Ebola en RDC, une épidémie hors de contrôle, dominates the headlines with reports of a rapidly spreading outbreak in the Democratic Republic of Congo. Meanwhile, US Senate leaders have reached a funding deal to avoid a shutdown during the campaign season, a stark contrast to the ongoing crisis in the DRC. Oil prices have also tumbled following Trump's cancellation of an attack on Iran.",
+    "hi": "जम्मू में 21 बांग्लादेशी शरणार्थियों को पकड़े जाने की खबरें प्रमुख हैं। साथ ही, असम से घुसपैठ कर कश्मीर में बसने की साजिश का आरोप लगाया गया है। इसके अलावा, बांकीपुर, दतिया और मांजलपुर विधानसभा सीट पर उपचुनाव के नतीजे आज घोषित किए जाएंगे।"
   },
   "articles": [
     {
@@ -32,6 +32,18 @@
       "translations": {}
     },
     {
+      "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
+      "url": "https://www.thehindu.com/news/international/trump-says-gulf-leaders-input-weighed-heavily-in-decision-to-hold-off-on-ordering-new-iran-strikes/article71299741.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-08-03T01:58:40+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/hfkrx1/article71299742.ece/alternates/LANDSCAPE_1200/Trump_MBS_54183.jpg",
+      "summary": "It was another turnabout for Mr. Trump, who a day earlier said he is \"losing faith\" in negotiations with Iran and offered the ominous warning that the U. S. military \"will be hitting them very hard\" Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Oil prices tumble as Trump cancels attack on Iran to reach nuclear deal",
       "url": "https://www.thehindu.com/news/international/oil-prices-tumble-as-trump-cancels-attack-on-iran-to-reach-nuclear-deal/article71299732.ece",
       "source": "The Hindu (International)",
@@ -50,7 +62,7 @@
       "sources": [],
       "published_at": "2026-08-03T01:03:29+00:00",
       "image_url": "https://i.guim.co.uk/img/media/c1331196bae6e5c3870f2540563d2585d6f25c2b/472_0_4331_3465/master/4331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f103410d347b2ad29b51b525cc74906",
-      "summary": "Officials are banning some ‘compressed hikes’ which involve walkers tackling demanding routes in short timeframesMalaysia’s government is tightening hiking rules nationwide after a social media trend left increasing numbers of adventurers needing to be rescued when they became lost or stranded in remote locations.",
+      "summary": "Officials are banning some ‘compressed hikes’ which involve walkers tackling demanding routes in short timeframesMalaysia’s government is tightening hiking rules nationwide after a social media trend left increasing numbers of adventurers needing to be rescued when they became lost or stranded in remote locations. Malaysia cracks down on social media hiking trend after jump in numbers needing rescue.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -62,7 +74,7 @@
       "sources": [],
       "published_at": "2026-08-03T00:17:23+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/rt89vu/article71299722.ece/alternates/LANDSCAPE_1200/2026-07-11T021519Z_1716374544_RC2CBMA66TBD_RTRMADP_3_USA-CONGRESS.JPG",
-      "summary": "The Senate is likely to vote on the measure before leaving Washington at week's end for its traditional August recess, a period that many lawmakers want to spend shoring up their re-election prospects rather than working in the nation's capital U. S. Senate leaders reach funding deal to avoid shutdown during campaign season. U. S.",
+      "summary": "The Senate is likely to vote on the measure before leaving Washington at week's end for its traditional August recess, a period that many lawmakers want to spend shoring up their re-election prospects rather than working in the nation's capital U. S. Senate leaders reach funding deal to avoid shutdown during campaign season. U. U. S.",
       "region": "Americas",
       "language": "en",
       "translations": {}
@@ -84,7 +96,7 @@
       "url": "https://www.channelnewsasia.com/women/midlife-boy-band-fan-concerts-6279781",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-08-02T23:27:32+00:00",
+      "published_at": "2026-08-02T23:27:00+00:00",
       "image_url": "https://dam.mediacorp.sg/image/upload/s--oBZaxwgg--/c_crop,h_720,w_1280,x_0,y_100/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/27/balvinder-sandhu-midlife-boy-band-fan.jpg?itok=8E_JqVop",
       "summary": "Women in their 50s are filling sold‑out arenas for Backstreet Boys, Take That and Westlife shows, turning nostalgia into a communal escape. The concerts, held in cities like London, New York and Toronto, draw crowds that celebrate teenage memories while forging new social bonds. Backstreet Boys, Take That, Westlife and other boy bands of old are still selling out arenas as the women who grew up with them find joy, nostalgia and community in seeing their teenage idols live.",
       "region": "Global / Multilateral",
@@ -260,18 +272,6 @@
       "translations": {}
     },
     {
-      "title": "FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-07-31T14:10:52+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/fa3969435f732621a7f81873225cabdd75f8e900/566_0_5683_4546/master/5683.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c2e169254afcdd5bd82bccee06d04868",
-      "summary": "Live, rolling coverage as the AA and RAC report prices rising to around £1.60 per litre after Donald Trump ordered renewed bombing in the Middle EastThe story piquing the interest of the financial press this morning is that of Leopold Aschenbrenner, the AI Wunderkind (he’s German-born) who has been forced to sell off his fund in a fire sale after the AI boom ran out of steam.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Strong El Niño ahead, UN weather agency warns",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168059",
       "source": "UN News",
@@ -308,11 +308,47 @@
       "translations": {}
     },
     {
+      "title": "महिलाओं-बच्चों समेत जम्मू में पकड़े गए 21 बांग्लादेशी, असम से घुसपैठ कर कश्मीर में बसने की साजिश",
+      "url": "https://www.amarujala.com/jammu/21-bangladeshis-apprehended-in-jammu-plot-to-infiltrate-from-assam-and-settle-in-kashmir-2026-08-03",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-03T06:43:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/1_f8b7caecdd4547fd24c49dbfbdf1b588.jpeg?w=1200&dpr=1.0",
+      "summary": "अमर उजाला ने जो आशंका जताई थी वह सही साबित हुई। महिलाओं-बच्चों समेत जम्मू में पकड़े गए 21 बांग्लादेशी, असम से घुसपैठ कर कश्मीर में बसने की साजिश।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महिलाओं-बच्चों समेत जम्मू में पकड़े गए 21 बांग्लादेशी, असम से घुसपैठ कर कश्मीर में बसने की साजिश",
+          "summary": "अमर उजाला ने जो आशंका जताई थी वह सही साबित हुई। महिलाओं-बच्चों समेत जम्मू में पकड़े गए 21 बांग्लादेशी, असम से घुसपैठ कर कश्मीर में बसने की साजिश।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बांकीपुर, दतिया और मांजलपुर विधानसभा सीट पर उपचुनाव के नतीजे आज, शुरू हुई मतगणना",
+      "url": "https://www.amarujala.com/live/india-news/assembly-bypolls-result-2026-updates-bankipur-datia-manjalpur-counting-bjp-congress-rjd-jsp-prashant-kishor-2026-08-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-03T03:01:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/assembly-bypolls-result-2026_9f6c916a3b7e13d5b2497537db1a4c65.jpeg?w=1200&dpr=1.0",
+      "summary": "Assembly Bypolls Updates: तीन राज्यों में विधानसभा सीट पर उपचुनाव के नतीजे आज, थोड़ी देर में शुरू होगी मतगणना assembly-bypolls-result-2026-updates-bankipur-datia-manjalpur-counting-bjp-congress-rjd-jsp-Prashant-Kishor बांकीपुर, दतिया और मांजलपुर विधानसभा सीट पर उपचुनाव के नतीजे आज, शुरू हुई मतगणना।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांकीपुर, दतिया और मांजलपुर विधानसभा सीट पर उपचुनाव के नतीजे आज, शुरू हुई मतगणना",
+          "summary": "Assembly Bypolls Updates: तीन राज्यों में विधानसभा सीट पर उपचुनाव के नतीजे आज, थोड़ी देर में शुरू होगी मतगणना assembly-bypolls-result-2026-updates-bankipur-datia-manjalpur-counting-bjp-congress-rjd-jsp-Prashant-Kishor बांकीपुर, दतिया और मांजलपुर विधानसभा सीट पर उपचुनाव के नतीजे आज, शुरू हुई मतगणना।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "सावन का पहला सोमवार आज, जानें पूजा मुहूर्त और शिवलिंग पर क्या चढ़ाना होगा शुभ",
       "url": "https://www.amarujala.com/live/spirituality/festivals/sawan-somwar-2026-live-shubh-muhurat-puja-vidhi-and-vrat-niyam-in-hindi-2026-08-03",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-08-03T01:35:52+00:00",
+      "published_at": "2026-08-03T02:58:09+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/sawan-first-somwar-2026_105c6edcf19ba0ddba25df1f7662984c.jpeg?w=1200&dpr=1.0",
       "summary": "Sawan Somwar 2026 Live: सावन का पहला सोमवार आज, 3 अगस्त 2026 को है। यह दिन भगवान शिव की पूजा-अर्चना के लिए बेहद शुभ और पवित्र माना जाता है। इस दिन शिवलिंग पर भांग, बेलपत्र, चंदन और पंचामृत अर्पित करने से सुख-समृद्धि, उत्त सावन का पहला सोमवार आज, जानें पूजा मुहूर्त और शिवलिंग पर क्या चढ़ाना होगा शुभ।",
       "region": "World",
@@ -326,30 +362,300 @@
       }
     },
     {
-      "title": "भूकंप से दहला मिस्र, र‍िक्‍टर स्‍केल पर तीव्रता 5.4, आपातकालीन रेस्‍पॉन्‍स स‍िस्‍टम हुआ एक्‍ट‍िव",
-      "url": "https://hindi.news18.com/world/rest-of-world-earthquake-5-4-magnitude-in-egypt-today-emergency-response-system-starts-to-rescue-10712970.html",
+      "title": "ट्रंप ने होर्मुज में शांति की डील का किया दावा, उधर ईरान ने तेल टैंकर पर दाग दी मिसाइल",
+      "url": "https://hindi.news18.com/world/middle-east-hormuz-crisis-live-news-iran-us-war-update-donald-trump-iran-oil-tanker-attack-livenews-10713019.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-03T01:35:00+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2020/12/breaking-alert.jpeg",
-      "summary": "भूकंप से दहला मिस्र, र‍िक्‍टर स्‍केल पर तीव्रता 5.4, आपातकालीन रेस्‍पॉन्‍स स‍िस्‍टम हुआ एक्‍ट‍िव।",
+      "published_at": "2026-08-03T02:51:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/iran-war-8-2026-08-3bc88e83be576d4e64a2ec824f4d5cb5-1200x800.jpg",
+      "summary": "US Donald Trump News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया कि होर्मुज जलडमरूमध्य को लेकर समझौता करीब है और सोमवार से ईरान के साथ नई वार्ता शुरू होगी. लेकिन इसी बीच ओमान तट के पास एक तेल टैंकर के करीब धमाका हुआ. शुरुआती रिपोर्टों में ईरान समर्थित बलों की मिसाइल कार्रवाई की आशंका जताई गई है. ट्रंप ने होर्मुज में शांति की डील का किया दावा, उधर ईरान ने तेल टैंकर पर दाग दी मिसाइल।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भूकंप से दहला मिस्र, र‍िक्‍टर स्‍केल पर तीव्रता 5.4, आपातकालीन रेस्‍पॉन्‍स स‍िस्‍टम हुआ एक्‍ट‍िव",
-          "summary": "भूकंप से दहला मिस्र, र‍िक्‍टर स्‍केल पर तीव्रता 5.4, आपातकालीन रेस्‍पॉन्‍स स‍िस्‍टम हुआ एक्‍ट‍िव।",
+          "title": "ट्रंप ने होर्मुज में शांति की डील का किया दावा, उधर ईरान ने तेल टैंकर पर दाग दी मिसाइल",
+          "summary": "US Donald Trump News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया कि होर्मुज जलडमरूमध्य को लेकर समझौता करीब है और सोमवार से ईरान के साथ नई वार्ता शुरू होगी. लेकिन इसी बीच ओमान तट के पास एक तेल टैंकर के करीब धमाका हुआ. शुरुआती रिपोर्टों में ईरान समर्थित बलों की मिसाइल कार्रवाई की आशंका जताई गई है. ट्रंप ने होर्मुज में शांति की डील का किया दावा, उधर ईरान ने तेल टैंकर पर दाग दी मिसाइल।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मिस्र में भूकंप के झटके, र‍िक्‍टर स्‍केल पर 5.4 की तीव्रता से डोली धरती, क‍ितना हुआ नुकसान?",
+      "url": "https://hindi.news18.com/world/rest-of-world-earthquake-5-4-magnitude-in-egypt-today-emergency-response-system-starts-to-rescue-10712970.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-03T02:46:13+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/egypt-earthquake-2026-08-74f0f4b6a67eef3c8f3e107a59e39596-1200x800.jpg",
+      "summary": "भूकंप से दहला मिस्र, र‍िक्‍टर स्‍केल पर तीव्रता 5.4, आपातकालीन रेस्‍पॉन्‍स स‍िस्‍टम हुआ एक्‍ट‍िव। Egypt Earthquake:आज सुबह म‍िस्‍त्र में भूकंप के भारी झटके महसूस हुए. 5.4 र‍िक्‍टर स्‍केल पर तीव्रता के साथ धरती डोली हालांक‍ि अभी तक क‍िसी भी प्रकार के जान-माल के नुकसान की सूचना नहीं म‍िली है. मिस्र में भूकंप के झटके, र‍िक्‍टर स्‍केल पर 5.4 की तीव्रता से डोली धरती, क‍ितना हुआ नुकसान?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मिस्र में भूकंप के झटके, र‍िक्‍टर स्‍केल पर 5.4 की तीव्रता से डोली धरती, क‍ितना हुआ नुकसान?",
+          "summary": "भूकंप से दहला मिस्र, र‍िक्‍टर स्‍केल पर तीव्रता 5.4, आपातकालीन रेस्‍पॉन्‍स स‍िस्‍टम हुआ एक्‍ट‍िव। Egypt Earthquake:आज सुबह म‍िस्‍त्र में भूकंप के भारी झटके महसूस हुए. 5.4 र‍िक्‍टर स्‍केल पर तीव्रता के साथ धरती डोली हालांक‍ि अभी तक क‍िसी भी प्रकार के जान-माल के नुकसान की सूचना नहीं म‍िली है. मिस्र में भूकंप के झटके, र‍िक्‍टर स्‍केल पर 5.4 की तीव्रता से डोली धरती, क‍ितना हुआ नुकसान?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "नाटो एक साथ कई रणनीतिक और राजनीतिक उलझनों से जूझ रहा, एकता बनाए रखना सबसे बड़ा संकट",
+      "url": "https://www.amarujala.com/columns/opinion/nato-one-alliance-many-challenges-multiple-strategic-and-political-complexities-simultaneously-unity-vital-2026-08-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-03T02:44:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/02/nato-donald-trump-us-nato-iran-war_4351a2b5d28c435cd1751bf9c00a6da7.jpeg?w=1200&dpr=1.0",
+      "summary": "एक गठबंधन, कई चुनौतियां: नाटो एक साथ कई रणनीतिक और राजनीतिक उलझनों से जूझ रहा, एकता बनाए रखना सबसे बड़ा संकट।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नाटो एक साथ कई रणनीतिक और राजनीतिक उलझनों से जूझ रहा, एकता बनाए रखना सबसे बड़ा संकट",
+          "summary": "एक गठबंधन, कई चुनौतियां: नाटो एक साथ कई रणनीतिक और राजनीतिक उलझनों से जूझ रहा, एकता बनाए रखना सबसे बड़ा संकट।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "UNSC सीट के लिए भारत ने बढ़ाए कदम: यूएन प्रतिनिधिमंडल से सिबी जॉर्ज की अहम मुलाकात, बहुपक्षवाद पर",
+      "url": "https://www.amarujala.com/world/india-unsc-2028-bid-shanti-framework-global-south-multilateralism-2026-08-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-03T02:38:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/16/sab-jaraja_b6de140c6328f8827e932a146100c96a.jpeg?w=1200&dpr=1.0",
+      "summary": "रखा पक्ष india unsc 2028 bid shanti framework global south multilateralism UNSC सीट के लिए भारत ने बढ़ाए कदम: यूएन प्रतिनिधिमंडल से सिबी जॉर्ज की अहम मुलाकात, बहुपक्षवाद पर।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UNSC सीट के लिए भारत ने बढ़ाए कदम: यूएन प्रतिनिधिमंडल से सिबी जॉर्ज की अहम मुलाकात, बहुपक्षवाद पर",
+          "summary": "रखा पक्ष india unsc 2028 bid shanti framework global south multilateralism UNSC सीट के लिए भारत ने बढ़ाए कदम: यूएन प्रतिनिधिमंडल से सिबी जॉर्ज की अहम मुलाकात, बहुपक्षवाद पर।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कांवड़ खंडित होने पर कांवड़ियों का हंगामा, पांच लाख के नुकसान का आरोप; दिल्ली-मेरठ मार्ग पर जाम",
+      "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/kanwariyas-created-ruckus-in-front-of-railway-road-on-muradnagar-meerut-road-2026-08-03",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-03T02:37:53+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/kavaugdhaya-ka-hagama_f9460648b350e74cd8a85da93558db72.jpeg?w=1200&dpr=1.0",
+      "summary": "सोमवार सुबह छह बजे दिल्ली-मेरठ मार्ग पर एक एंबुलेंस और कांवड़ियों के ट्रैक्टर-ट्रॉली के बीच भिड़ंत हो गई। कांवड़ खंडित होने पर कांवड़ियों का हंगामा, पांच लाख के नुकसान का आरोप; दिल्ली-मेरठ मार्ग पर जाम।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कांवड़ खंडित होने पर कांवड़ियों का हंगामा, पांच लाख के नुकसान का आरोप; दिल्ली-मेरठ मार्ग पर जाम",
+          "summary": "सोमवार सुबह छह बजे दिल्ली-मेरठ मार्ग पर एक एंबुलेंस और कांवड़ियों के ट्रैक्टर-ट्रॉली के बीच भिड़ंत हो गई। कांवड़ खंडित होने पर कांवड़ियों का हंगामा, पांच लाख के नुकसान का आरोप; दिल्ली-मेरठ मार्ग पर जाम।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "महीना खत्म होने से पहले ही खत्म हो जाते हैं पैसे? इन 4 तरीकों से करें बचत, नहीं लेना पड़ेगा उधार",
+      "url": "https://www.amarujala.com/photo-gallery/utility/money-saving-tips-how-to-saving-money-in-every-month-paie-kaise-bachyein-2026-08-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-03T02:33:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/hara-mahana-pasa-kasa-bcae_8c40845d3566f3a726ec1f2260865e7a.jpeg?w=1200&dpr=1.0",
+      "summary": "क्या महीना खत्म होने से पहले ही आपके हर महीने पैसे खत्म हो जाते हैं? अगर हां, तो आप बचत के कुछ तरीकों को अपना सकते हैं। महीना खत्म होने से पहले ही खत्म हो जाते हैं पैसे? इन 4 तरीकों से करें बचत, नहीं लेना पड़ेगा उधार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महीना खत्म होने से पहले ही खत्म हो जाते हैं पैसे? इन 4 तरीकों से करें बचत, नहीं लेना पड़ेगा उधार",
+          "summary": "क्या महीना खत्म होने से पहले ही आपके हर महीने पैसे खत्म हो जाते हैं? अगर हां, तो आप बचत के कुछ तरीकों को अपना सकते हैं। महीना खत्म होने से पहले ही खत्म हो जाते हैं पैसे? इन 4 तरीकों से करें बचत, नहीं लेना पड़ेगा उधार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आज गुजरात की एक विधानसभा सीट पर मतगणना; झारखंड के जामताड़ा में गैंगस्टर ढेर",
+      "url": "https://www.amarujala.com/india-news/national-updates-gujarat-bypoll-counting-jharkhand-jamtara-gangster-killed-north-east-west-south-india-news-2026-08-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-03T02:30:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=1200&dpr=1.0",
+      "summary": "News Updates: आज गुजरात की एक विधानसभा सीट पर मतगणना; झारखंड के जामताड़ा में गैंगस्टर ढेर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज गुजरात की एक विधानसभा सीट पर मतगणना; झारखंड के जामताड़ा में गैंगस्टर ढेर",
+          "summary": "News Updates: आज गुजरात की एक विधानसभा सीट पर मतगणना; झारखंड के जामताड़ा में गैंगस्टर ढेर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सात मिनट तक हमलावरों से उलझता रहा मोनू, 15 दिन पहले तैयार किया था हत्याकांड का प्लान",
+      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/meerut/shamli-kabaddi-player-murder-monu-grappled-with-attackers-for-seven-minutes-2026-08-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-03T02:29:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/kabaddi-player-murder_48f2db4c141688cf32889e117fc457d5.jpeg?w=1200&dpr=1.0",
+      "summary": "शामली में एक प्रेम प्रसंग के चलते राष्ट्रीय स्तर के कबड्डी खिलाड़ी मोनू उर्फ गुल्लू की हत्या हुई। मोनू ने हमलावरों से सात मिनट तक उलझते हुए अपनी जान की रक्षा की। यह हत्याकांड 15 दिन पहले तैयार किया गया था। शामली में प्रेम प्रसंग के चलते बागपत के गांव ककड़ीपुर निवासी राष्ट्रीय स्तर के कबड्डी खिलाड़ी मोनू उर्फ गुल्लू की हत्या के मामले में नया खुलासा हुआ है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सात मिनट तक हमलावरों से उलझता रहा मोनू, 15 दिन पहले तैयार किया था हत्याकांड का प्लान",
+          "summary": "शामली में एक प्रेम प्रसंग के चलते राष्ट्रीय स्तर के कबड्डी खिलाड़ी मोनू उर्फ गुल्लू की हत्या हुई। मोनू ने हमलावरों से सात मिनट तक उलझते हुए अपनी जान की रक्षा की। यह हत्याकांड 15 दिन पहले तैयार किया गया था। शामली में प्रेम प्रसंग के चलते बागपत के गांव ककड़ीपुर निवासी राष्ट्रीय स्तर के कबड्डी खिलाड़ी मोनू उर्फ गुल्लू की हत्या के मामले में नया खुलासा हुआ है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "250 करोड़ पार 'स्पाइडर-मैन- ब्रांड न्यू डे', चौथे दिन की सबसे ज्यादा कमाई; जानें बाकी फिल्मों का हाल",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/hollywood/spider-man-brand-new-day-cross-250-crore-collection-box-office-report-the-odyssey-to-jana-nayagan-2026-08-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-03T02:27:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/bkasa-oifasa-raparata_1450418ad92d89ed0a671d2e126e899e.jpeg?w=1200&dpr=1.0",
+      "summary": "स्पाइडर-मैन- ब्रांड न्यू डे ने पांचवें दिन 250 करोड़ रुपये का कलेक्शन किया। फिल्म ने चौथे दिन सबसे ज्यादा कमाई की। रविवार को इसकी कमाई के आंकड़े अभी तक नहीं मिले हैं। इस वक्त भारतीय बॉक्स ऑफिस पर हॉलीवुड फिल्म 'स्पाइडर-मैन- ब्रांड न्यू डे' की धूम मची है। फिल्म ने रिलीज के पांचवें दिन ही 250 करोड़ रुपये तक का कलेक्शन कर लिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "250 करोड़ पार 'स्पाइडर-मैन- ब्रांड न्यू डे', चौथे दिन की सबसे ज्यादा कमाई; जानें बाकी फिल्मों का हाल",
+          "summary": "स्पाइडर-मैन- ब्रांड न्यू डे ने पांचवें दिन 250 करोड़ रुपये का कलेक्शन किया। फिल्म ने चौथे दिन सबसे ज्यादा कमाई की। रविवार को इसकी कमाई के आंकड़े अभी तक नहीं मिले हैं। इस वक्त भारतीय बॉक्स ऑफिस पर हॉलीवुड फिल्म 'स्पाइडर-मैन- ब्रांड न्यू डे' की धूम मची है। फिल्म ने रिलीज के पांचवें दिन ही 250 करोड़ रुपये तक का कलेक्शन कर लिया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "हॉर्मुज में नहीं रुक रहा हमला, ओमान तट पर एक और टैंकर के पास धमाका, UKMTO ने जारी किया अलर्ट",
+      "url": "https://www.patrika.com/world-news/oman-tanker-explosion-hormuz-strait-tension-donald-trump-iran-20800189",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-03T02:20:36+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/25-ships-have-passed-through-Strait-of-Hormuz.webp",
+      "summary": "ओमान तट पर टैंकर के पास धमाका हुआ। UKMTO ने अलर्ट जारी किया। हमले के बाद सुरक्षा बढ़ाई गई है। स्ट्रेट ऑफ हॉर्मुज में टैंकर और जहाजों को निशाना बनाने का सिलसिला खत्म नहीं हो रहा है। ओमान तट से महज 20 समुद्री मील दूर एक टैंकर के पास रविवार को जोरदार धमाका हुआ। हॉर्मुज में नहीं रुक रहा हमला, ओमान तट पर एक और टैंकर के पास धमाका, UKMTO ने जारी किया अलर्ट।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हॉर्मुज में नहीं रुक रहा हमला, ओमान तट पर एक और टैंकर के पास धमाका, UKMTO ने जारी किया अलर्ट",
+          "summary": "ओमान तट पर टैंकर के पास धमाका हुआ। UKMTO ने अलर्ट जारी किया। हमले के बाद सुरक्षा बढ़ाई गई है। स्ट्रेट ऑफ हॉर्मुज में टैंकर और जहाजों को निशाना बनाने का सिलसिला खत्म नहीं हो रहा है। ओमान तट से महज 20 समुद्री मील दूर एक टैंकर के पास रविवार को जोरदार धमाका हुआ। हॉर्मुज में नहीं रुक रहा हमला, ओमान तट पर एक और टैंकर के पास धमाका, UKMTO ने जारी किया अलर्ट।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चुनाव प्रचार के बीच टल सकता है शटडाउन का खतरा, सीनेट ने किस फंडिंग बिल पर बनाई सहमति?",
+      "url": "https://www.amarujala.com/world/us-senate-leaders-reach-funding-deal-to-avoid-shutdown-during-campaign-season-2026-08-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-03T02:18:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/us-shutdown_94e90b238d5f93952e3e188b17a4c998.jpeg?w=1200&dpr=1.0",
+      "summary": "सीनेट ने फंडिंग बिल पर सहमति बनाई। इससे शटडाउन का खतरा टल सकता है। चुनाव प्रचार के बीच यह फैसला महत्वपूर्ण है। US Shutdown: चुनाव प्रचार के बीच टल सकता है शटडाउन का खतरा, सीनेट ने किस फंडिंग बिल पर बनाई सहमति?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चुनाव प्रचार के बीच टल सकता है शटडाउन का खतरा, सीनेट ने किस फंडिंग बिल पर बनाई सहमति?",
+          "summary": "सीनेट ने फंडिंग बिल पर सहमति बनाई। इससे शटडाउन का खतरा टल सकता है। चुनाव प्रचार के बीच यह फैसला महत्वपूर्ण है। US Shutdown: चुनाव प्रचार के बीच टल सकता है शटडाउन का खतरा, सीनेट ने किस फंडिंग बिल पर बनाई सहमति?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "तो खत्म होने वाला है पश्चिम एशिया में युद्ध, ट्रंप ने क्यों रोके हमले, नए समझौते की क्या योजना?",
+      "url": "https://www.amarujala.com/world/us-planning-new-deal-with-iran-president-donald-trump-claims-attack-stop-hormuz-strait-opening-nuclear-threat-2026-08-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-03T02:10:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/us-iran-war-us-iran-deal-donald-trump-mojtaba-khamenei_759fe740868eac5735a58a3a0f89c492.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका और ईरान के बीच युद्ध विराम का समझौता लागू हुआ। हालांकि, यह एक महीने भी नहीं चल पाया। अब दोनों पक्षों के बीच तनाव बढ़ रहा है। अमेरिका और ईरान के बीच संघर्ष शुरू हुए अब पांच महीने से ज्यादा समय हो चुका है। इस बीच दोनों के बीच एक बार युद्ध विराम का समझौता लागू हो चुका है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तो खत्म होने वाला है पश्चिम एशिया में युद्ध, ट्रंप ने क्यों रोके हमले, नए समझौते की क्या योजना?",
+          "summary": "अमेरिका और ईरान के बीच युद्ध विराम का समझौता लागू हुआ। हालांकि, यह एक महीने भी नहीं चल पाया। अब दोनों पक्षों के बीच तनाव बढ़ रहा है। अमेरिका और ईरान के बीच संघर्ष शुरू हुए अब पांच महीने से ज्यादा समय हो चुका है। इस बीच दोनों के बीच एक बार युद्ध विराम का समझौता लागू हो चुका है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में 80 वर्षीय अभिनेता विंसेंट पास्टर का शव बरामद; PAK में सड़क हादसा, 13 लोग घायल",
+      "url": "https://www.amarujala.com/world/world-updates-us-actor-died-new-york-city-russia-ukraine-nepal-china-pak-bangladesh-politics-crime-hindi-news-2026-08-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-03T02:04:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका में अभिनेता विंसेंट पास्टर का शव बरामद हुआ। पाकिस्तान में सड़क हादसे में 13 लोग घायल हुए। दोनों घटनाएं अलग-अलग हैं। World News: अमेरिका में 80 वर्षीय अभिनेता विंसेंट पास्टर का शव बरामद; PAK में सड़क हादसा, 13 लोग घायल।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में 80 वर्षीय अभिनेता विंसेंट पास्टर का शव बरामद; PAK में सड़क हादसा, 13 लोग घायल",
+          "summary": "अमेरिका में अभिनेता विंसेंट पास्टर का शव बरामद हुआ। पाकिस्तान में सड़क हादसे में 13 लोग घायल हुए। दोनों घटनाएं अलग-अलग हैं। World News: अमेरिका में 80 वर्षीय अभिनेता विंसेंट पास्टर का शव बरामद; PAK में सड़क हादसा, 13 लोग घायल।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "'मूर्ख की ताकत खत्म हो गई': US-ईरान के बीच जुबानी जंग तेज, ट्रंप के किस दावे का ईरानी मीडिया ने",
+      "url": "https://www.amarujala.com/world/iran-media-mocks-donald-trump-over-delay-in-possible-us-military-strike-2026-08-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-03T01:58:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/donald-trump_13aaa9cc428e37ca363f893c2ef15911.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरानी मीडिया ने ट्रंप के दावे का मजाक उड़ाया। ट्रंप ने ईरान पर हमले की धमकी दी थी। ईरानी मीडिया ने इसे एक मूर्ख की बात कहा। 'मूर्ख की ताकत खत्म हो गई': US-ईरान के बीच जुबानी जंग तेज, ट्रंप के किस दावे का ईरानी मीडिया ने उड़ाया मजाक?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मूर्ख की ताकत खत्म हो गई': US-ईरान के बीच जुबानी जंग तेज, ट्रंप के किस दावे का ईरानी मीडिया ने",
+          "summary": "ईरानी मीडिया ने ट्रंप के दावे का मजाक उड़ाया। ट्रंप ने ईरान पर हमले की धमकी दी थी। ईरानी मीडिया ने इसे एक मूर्ख की बात कहा। 'मूर्ख की ताकत खत्म हो गई': US-ईरान के बीच जुबानी जंग तेज, ट्रंप के किस दावे का ईरानी मीडिया ने उड़ाया मजाक?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जिस दिन छोड़ा था बांग्लादेश, उसी दिन करेंगी बड़ा ऐलान... 2 साल बाद शेख हसीना बताएंगी फ्यूचर प्लान",
+      "url": "https://hindi.news18.com/world/south-asia-after-2-years-former-pm-bangladesh-sheikh-hasina-will-first-press-conference-sjn-10712738.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-03T01:56:35+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Sheikh-Haseena-File-Photo-2026-08-1ad93965dbac1baa339a525f9a0d00f7-1200x800.jpg",
+      "summary": "5 अगस्त 2024 को छात्रों के भारी हिंसक आंदोलन के चलते बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना को अचानक ढाका छोड़ना पड़ा था. अब पूरे दो साल बाद यह घटनाक्रम एक तरह से अपना पूरा चक्र पूरा कर रहा है. उसी दिन शेख हसीना 5 अगस्त 2026 को पब्लिक के सामने आने की तैयारी कर रही है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जिस दिन छोड़ा था बांग्लादेश, उसी दिन करेंगी बड़ा ऐलान... 2 साल बाद शेख हसीना बताएंगी फ्यूचर प्लान",
+          "summary": "5 अगस्त 2024 को छात्रों के भारी हिंसक आंदोलन के चलते बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना को अचानक ढाका छोड़ना पड़ा था. अब पूरे दो साल बाद यह घटनाक्रम एक तरह से अपना पूरा चक्र पूरा कर रहा है. उसी दिन शेख हसीना 5 अगस्त 2026 को पब्लिक के सामने आने की तैयारी कर रही है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भूस्खलन से यमुनोत्री-गंगोत्री हाईवे बाधित, प्रशासन ने की अपील-मौसम देखकर ही करें यात्रा",
+      "url": "https://www.amarujala.com/dehradun/yamunotri-gangotri-national-highways-blocked-due-to-landslides-road-clearance-underway-uttarakhand-weather-2026-08-03",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-03T01:53:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/highway_f95ff503dfeef48f0cdaaa98275fa268.jpeg?w=1200&dpr=1.0",
+      "summary": "यमुनोत्री-गंगोत्री हाईवे पर भूस्खलन से बाधा उत्पन्न हो गई है। मलबा और बोल्डर आने से स्यानाचट्टी, जंगलचट्टी, बनास और बाड़िया सहित कई स्थानों पर यातायात बंद हो गया है। प्रशासन ने मौसम की स्थिति को देखते हुए यात्रा करने से पहले सावधानी बरतने की अपील की है। यमुनोत्री राष्ट्रीय राजमार्ग स्यानाचट्टी, जंगलचट्टी, बनास और बाड़िया सहित कई स्थानों पर मलबा और बोल्डर आने से अवरुद्ध हो गया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भूस्खलन से यमुनोत्री-गंगोत्री हाईवे बाधित, प्रशासन ने की अपील-मौसम देखकर ही करें यात्रा",
+          "summary": "यमुनोत्री-गंगोत्री हाईवे पर भूस्खलन से बाधा उत्पन्न हो गई है। मलबा और बोल्डर आने से स्यानाचट्टी, जंगलचट्टी, बनास और बाड़िया सहित कई स्थानों पर यातायात बंद हो गया है। प्रशासन ने मौसम की स्थिति को देखते हुए यात्रा करने से पहले सावधानी बरतने की अपील की है। यमुनोत्री राष्ट्रीय राजमार्ग स्यानाचट्टी, जंगलचट्टी, बनास और बाड़िया सहित कई स्थानों पर मलबा और बोल्डर आने से अवरुद्ध हो गया है।",
+          "region": "दुनिया"
         }
       }
     },
     {
       "title": "ईरान पर US के हमले टले, अब बातचीत की कवायद; होर्मुज पर डील और शांति वार्ता पर क्या बोले ट्रंप?",
       "url": "https://www.amarujala.com/world/trump-announces-us-iran-talks-from-monday-after-shelving-strike-hints-at-hormuz-deal-2026-08-03",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-08-03T01:31:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/new-us-rule-refers-some-asylum-seekers-directly-to-courts_fd3ee8535a9e50006010b644349e4f92.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/danalda-tarapa-amaraka-rashhatarapata_0b172036c2cc49406edfa9f8f1a26599.jpeg?w=1200&dpr=1.0",
       "summary": "Iran-US Talks: ईरान पर US के हमले टले, अब बातचीत की कवायद; होर्मुज पर डील और शांति वार्ता पर क्या बोले ट्रंप?",
       "region": "Middle East & Africa",
       "language": "hi",
@@ -400,7 +706,7 @@
     {
       "title": "अमेरिका के फैसले पर ईरानी मीडिया का तंज, कहा- ट्रंप पीछे हटे, हमले टालना खोखली धमकी",
       "url": "https://www.amarujala.com/live/world/west-asia-tension-live-updates-iran-us-war-trump-israel-reports-on-us-military-action-centcom-irgc-hormuz-news-2026-08-03",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-08-03T01:16:36+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/19/pashacama-eshaya-ma-tanava_77acac5d547ce2ba3f7ac2db0da3841f.gif?w=1200&dpr=1.0",
@@ -412,24 +718,6 @@
           "title": "अमेरिका के फैसले पर ईरानी मीडिया का तंज, कहा- ट्रंप पीछे हटे, हमले टालना खोखली धमकी",
           "summary": "West Asia Tension LIVE: होर्मुज पर फिर बढ़ा तनाव, ट्रंप के दावे पर ईरान का पलटवार; ओमान से समझौता करीब? अमेरिका के फैसले पर ईरानी मीडिया का तंज, कहा- ट्रंप पीछे हटे, हमले टालना खोखली धमकी।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "बॉटनिकल सर्वे ऑफ इंडिया की खोज: हिमाचल में मिली रसभरी की नई प्रजाति, किसानों की आय का विकल्प बनेगा",
-      "url": "https://www.amarujala.com/shimla/new-species-of-raspberry-found-in-himachal-fruit-to-become-an-alternative-source-of-income-for-farmers-2026-08-03",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-03T01:15:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/1_f98b969ff480dd9f70da84323880476d.jpeg?w=1200&dpr=1.0",
-      "summary": "बॉटनिकल सर्वे ऑफ इंडिया ने हिमाचल प्रदेश में रसभरी की एक नई प्रजाति की खोज की है। यह प्रजाति मैदानी राज्यों में पाई जाने वाली खट्टी-मीठी रसभरी से अलग है। इस खोज से किसानों को एक नया आय का विकल्प मिल सकता है। मैदानी राज्यों में पाई जाने वाली खट्टी-मीठी रसभरी की एक नई प्रजाति की हिमाचल प्रदेश में खोज हुई है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बॉटनिकल सर्वे ऑफ इंडिया की खोज: हिमाचल में मिली रसभरी की नई प्रजाति, किसानों की आय का विकल्प बनेगा",
-          "summary": "बॉटनिकल सर्वे ऑफ इंडिया ने हिमाचल प्रदेश में रसभरी की एक नई प्रजाति की खोज की है। यह प्रजाति मैदानी राज्यों में पाई जाने वाली खट्टी-मीठी रसभरी से अलग है। इस खोज से किसानों को एक नया आय का विकल्प मिल सकता है। मैदानी राज्यों में पाई जाने वाली खट्टी-मीठी रसभरी की एक नई प्रजाति की हिमाचल प्रदेश में खोज हुई है।",
-          "region": "दुनिया"
         }
       }
     },
@@ -452,9 +740,9 @@
       }
     },
     {
-      "title": "नीट पेपर लीक मामले में विशेष फास्ट ट्रैक में आज होगी सुनवाई, यूपी विधानमंडल का मानसून सत्र शुरू",
+      "title": "विशेष फास्ट ट्रैक कोर्ट में नीट पेपर लीक मामले की सुनवाई, यूपी विधानमंडल का मानसून सत्र शुरू",
       "url": "https://www.amarujala.com/india-news/3-august-2026-major-event-2026-08-01",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-08-03T01:10:22+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/aaja-ka-khabra_066960e22b6c3e2ddc6cd25f6da57575.gif?w=1200&dpr=1.0",
@@ -463,297 +751,9 @@
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "नीट पेपर लीक मामले में विशेष फास्ट ट्रैक में आज होगी सुनवाई, यूपी विधानमंडल का मानसून सत्र शुरू",
+          "title": "विशेष फास्ट ट्रैक कोर्ट में नीट पेपर लीक मामले की सुनवाई, यूपी विधानमंडल का मानसून सत्र शुरू",
           "summary": "नीट पेपर लीक मामले में विशेष फास्ट ट्रैक में आज सुनवाई होगी। यूपी विधानमंडल का मानसून सत्र भी आज शुरू हो रहा है। नमस्कार! आज है सोमवार, 3 अगस्त। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं नीट पेपर लीक मामले में विशेष फास्ट ट्रैक में आज होगी सुनवाई, यूपी विधानमंडल का मानसून सत्र शुरू।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सावन सोमवार के रखने जा रहे हैं व्रत ? जान लें कुछ जरूरी नियम",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/sawan-somwar-vrat-niyam-in-hindi-know-sawan-somwar-list-2026-2026-08-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-03T01:08:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/sawan-somwar-vrat-niyam-2026_5565d07ea089dc1a607dddffc8134d30.jpeg?w=1200&dpr=1.0",
-      "summary": "सावन सोमवार के दिन भगवान शिव की पूजा करने से महादेव प्रसन्न होकर मनोकामनाएं पूरी करते हैं। इस दिन पूजा-पाठ करने से व्यक्ति को हर कार्य में लाभ मिलता है। Sawan Somwar Vrat Niyam 2026: 30 जुलाई 2026, गुरुवार से सावन महीने की शुरुआत हो चुकी है और पहला सोमवार 3 अगस्त 2026 को पड़ रहा है। इस दिन पूजा-पाठ करने से महादेव प्रसन्न होकर मनोकामनाएं पूरी करते हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सावन सोमवार के रखने जा रहे हैं व्रत ? जान लें कुछ जरूरी नियम",
-          "summary": "सावन सोमवार के दिन भगवान शिव की पूजा करने से महादेव प्रसन्न होकर मनोकामनाएं पूरी करते हैं। इस दिन पूजा-पाठ करने से व्यक्ति को हर कार्य में लाभ मिलता है। Sawan Somwar Vrat Niyam 2026: 30 जुलाई 2026, गुरुवार से सावन महीने की शुरुआत हो चुकी है और पहला सोमवार 3 अगस्त 2026 को पड़ रहा है। इस दिन पूजा-पाठ करने से महादेव प्रसन्न होकर मनोकामनाएं पूरी करते हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "महामृत्युंजय सहित इन शक्तिशाली मंत्रों से करें भगवान शिव की पूजा, खुलेगा बंद किस्मत का ताला",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/lord-shiva-mantra-for-puja-and-blessings-know-mahamrityunjay-mantra-2026-08-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-03T00:50:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/sawan-somwar-2026_b5f1f9e83654720ae5a572c032c890bc.jpeg?w=1200&dpr=1.0",
-      "summary": "सावन सोमवार के दिन भगवान शिव की पूजा करने के लिए महामृत्युंजय सहित कई शक्तिशाली मंत्रों का जाप किया जा सकता है। इससे व्यक्ति की किस्मत खुल जाती है और परेशानियां दूर होती हैं। Sawan Somwar 2026: धार्मिक मान्यताओं के अनुसार, सावन सोमवार के दिन की गई शिव पूजा से व्यक्ति को हर कार्य में लाभ मिलता है। साथ ही कई तरह की परेशानियां भी दूर होने लगती हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "महामृत्युंजय सहित इन शक्तिशाली मंत्रों से करें भगवान शिव की पूजा, खुलेगा बंद किस्मत का ताला",
-          "summary": "सावन सोमवार के दिन भगवान शिव की पूजा करने के लिए महामृत्युंजय सहित कई शक्तिशाली मंत्रों का जाप किया जा सकता है। इससे व्यक्ति की किस्मत खुल जाती है और परेशानियां दूर होती हैं। Sawan Somwar 2026: धार्मिक मान्यताओं के अनुसार, सावन सोमवार के दिन की गई शिव पूजा से व्यक्ति को हर कार्य में लाभ मिलता है। साथ ही कई तरह की परेशानियां भी दूर होने लगती हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सावन के पहले सोमवार से शुरू करें सोलह सोमवार व्रत, जानिए संकल्प से उद्यापन तक के जरूरी नियम",
-      "url": "https://www.amarujala.com/spirituality/wellness/16-somvar-vrat-important-rules-to-follow-from-sankalp-to-udyapan-for-lord-shiva-blessings-2026-07-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-03T00:47:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/shava-ja-ka-paja-sa-malga-fal_4ca352a4f0a88a09bc597ef3678c461b.jpeg?w=1200&dpr=1.0",
-      "summary": "सावन के पहले सोमवार से शुरू करने पर सोलह सोमवार व्रत का महत्व बढ़ जाता है। इस व्रत को पूरे विधि-विधान के साथ करने से भगवान शिव की कृपा प्राप्त होती है। सोलह सोमवार व्रत भगवान शिव की कृपा प्राप्त करने के सबसे महत्वपूर्ण व्रतों में माना जाता है। धार्मिक मान्यता है कि यदि इसकी शुरुआत श्रावण के पहले सोमवार से की जाए और पूरे विधि-विधान के साथ व्रत का पालन किया जाए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सावन के पहले सोमवार से शुरू करें सोलह सोमवार व्रत, जानिए संकल्प से उद्यापन तक के जरूरी नियम",
-          "summary": "सावन के पहले सोमवार से शुरू करने पर सोलह सोमवार व्रत का महत्व बढ़ जाता है। इस व्रत को पूरे विधि-विधान के साथ करने से भगवान शिव की कृपा प्राप्त होती है। सोलह सोमवार व्रत भगवान शिव की कृपा प्राप्त करने के सबसे महत्वपूर्ण व्रतों में माना जाता है। धार्मिक मान्यता है कि यदि इसकी शुरुआत श्रावण के पहले सोमवार से की जाए और पूरे विधि-विधान के साथ व्रत का पालन किया जाए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अकाल मृत्यु वो मरे जो काम करे चाण्डाल का...इन खास संदेशों के साथ दें अपनों को शुभकामनाएं",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/sawan-somwar-2026-wishes-images-messages-quotes-status-in-hindi-2026-08-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-03T00:43:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/sawan-somwar-2026_c860a87877f3e1d1dfbb8b37aaa8473f.jpeg?w=1200&dpr=1.0",
-      "summary": "दतिया विधानसभा उपचुनाव के परिणाम आज घोषित होंगे। भाजपा और कांग्रेस के लिए यह प्रतिष्ठा की लड़ाई है। नतीजे से भाजपा की नई रणनीति और कांग्रेस की वापसी की संभावनाओं की भी परीक्षा होगी। Sawan Somwar 2026 Wishes: आज सावन का पहला सोमवार व्रत रखा जा रहा है। ऐसे में आप इन प्यार भरे संदेशों के जरिए अपने प्रियजनों को सावन के पहले सोमवार की हार्दिक शुभकामनाएं दे सकते हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अकाल मृत्यु वो मरे जो काम करे चाण्डाल का...इन खास संदेशों के साथ दें अपनों को शुभकामनाएं",
-          "summary": "दतिया विधानसभा उपचुनाव के परिणाम आज घोषित होंगे। भाजपा और कांग्रेस के लिए यह प्रतिष्ठा की लड़ाई है। नतीजे से भाजपा की नई रणनीति और कांग्रेस की वापसी की संभावनाओं की भी परीक्षा होगी। Sawan Somwar 2026 Wishes: आज सावन का पहला सोमवार व्रत रखा जा रहा है। ऐसे में आप इन प्यार भरे संदेशों के जरिए अपने प्रियजनों को सावन के पहले सोमवार की हार्दिक शुभकामनाएं दे सकते हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सावन के पहले सोमवार पर राशि अनुसार करें शिव मंत्र जाप, इन खास उपायों से मिलेंगे शुभ फल",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/sawan-first-monday-rashi-anusar-shiv-mantra-jyotish-upay-sawan-mantra-in-hindi-2026-07-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-03T00:41:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/30/savana-ma-kara-ina-shava-matara-ka-japa_e8774c66e2d05547a37e8fba8e343566.jpeg?w=1200&dpr=1.0",
-      "summary": "आइए जानते हैं कि सावन के पहले सोमवार पर किस राशि के लोगों को कौन-सा शिव मंत्र जपना चाहिए और कौन-से उपाय करना लाभकारी माने गए हैं। सावन के पहले सोमवार पर राशि अनुसार करें शिव मंत्र जाप, इन खास उपायों से मिलेंगे शुभ फल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सावन के पहले सोमवार पर राशि अनुसार करें शिव मंत्र जाप, इन खास उपायों से मिलेंगे शुभ फल",
-          "summary": "आइए जानते हैं कि सावन के पहले सोमवार पर किस राशि के लोगों को कौन-सा शिव मंत्र जपना चाहिए और कौन-से उपाय करना लाभकारी माने गए हैं। सावन के पहले सोमवार पर राशि अनुसार करें शिव मंत्र जाप, इन खास उपायों से मिलेंगे शुभ फल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान ने बॉर्डर पर तैनात की 250 तोपें, मुनीर-चीन फिर हुए एक, भारत के लिए कितना बड़ा खतरा?",
-      "url": "https://hindi.news18.com/world/pakistan-deploys-250-chinese-sh15-howitzers-india-border-after-operation-sindoor-pakistan-news-10712908.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-03T00:36:03+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/CHINA-HOVITZER-2026-08-6dc27a3c022e76e809fa2129bc7edd77-1200x800.jpg",
-      "summary": "Pakistan-India Tension: ऑपरेशन सिंदूर के बाद पाकिस्तान ने भारत से लगी पूरी पूर्वी सीमा पर चीन के 250 SH-15 तोपों की तैनाती शुरू कर दी है. रिपोर्ट के मुताबिक, यह हाल के वर्षों में पाकिस्तान की सबसे बड़ी आर्टिलरी तैनाती है. इससे पाकिस्तान की लंबी दूरी तक सटीक हमला करने की क्षमता बढ़ेगी. यह कदम चीन और पाकिस्तान के लगातार मजबूत हो रहे सैन्य सहयोग को भी दिखाता है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान ने बॉर्डर पर तैनात की 250 तोपें, मुनीर-चीन फिर हुए एक, भारत के लिए कितना बड़ा खतरा?",
-          "summary": "Pakistan-India Tension: ऑपरेशन सिंदूर के बाद पाकिस्तान ने भारत से लगी पूरी पूर्वी सीमा पर चीन के 250 SH-15 तोपों की तैनाती शुरू कर दी है. रिपोर्ट के मुताबिक, यह हाल के वर्षों में पाकिस्तान की सबसे बड़ी आर्टिलरी तैनाती है. इससे पाकिस्तान की लंबी दूरी तक सटीक हमला करने की क्षमता बढ़ेगी. यह कदम चीन और पाकिस्तान के लगातार मजबूत हो रहे सैन्य सहयोग को भी दिखाता है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नरोत्तम की साख, भाजपा की रणनीति या कांग्रेस की वापसी...किसके पक्ष में जाएगा फैसला?",
-      "url": "https://www.amarujala.com/madhya-pradesh/datia-by-election-mandate-today-narottam-mishra-prestige-bjp-strategy-congress-comeback-madhya-pradesh-2026-08-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-03T00:30:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/naratatama-mashara_08254d10e9c4a94e4e238f518f2f06c7.jpeg?w=1200&dpr=1.0",
-      "summary": "अल-नीनो के कारण देशभर में जून-जुलाई में सामान्य से 13 फीसदी कम बारिश हुई है। इस मानसून सीजन के पहले दो महीनों में हरियाणा, पंजाब और यूपी में बारिश 38 फीसदी कम हुई है। दिल्ली पर भी इंद्रदेव अप्रसन्न हैं। दतिया विधानसभा उपचुनाव का परिणाम आज घोषित होगा। यह भाजपा और कांग्रेस दोनों के लिए प्रतिष्ठा की लड़ाई है। नतीजे से भाजपा की नई रणनीति, कांग्रेस की वापसी की संभावनाओं और पूर्व गृहमंत्री डॉ.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नरोत्तम की साख, भाजपा की रणनीति या कांग्रेस की वापसी...किसके पक्ष में जाएगा फैसला?",
-          "summary": "अल-नीनो के कारण देशभर में जून-जुलाई में सामान्य से 13 फीसदी कम बारिश हुई है। इस मानसून सीजन के पहले दो महीनों में हरियाणा, पंजाब और यूपी में बारिश 38 फीसदी कम हुई है। दिल्ली पर भी इंद्रदेव अप्रसन्न हैं। दतिया विधानसभा उपचुनाव का परिणाम आज घोषित होगा। यह भाजपा और कांग्रेस दोनों के लिए प्रतिष्ठा की लड़ाई है। नतीजे से भाजपा की नई रणनीति, कांग्रेस की वापसी की संभावनाओं और पूर्व गृहमंत्री डॉ.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "CWG का ग्लास्गो में समापन; ईरान और अमेरिका के बीच फिर बढ़ा तनाव; पाकिस्तान में धमाके में कई मौतें",
-      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-03-august-2026-updates-on-amar-ujala-2026-08-03",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-02T23:30:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
-      "summary": "ग्लास्गो में राष्ट्रमंडल खेलों का समापन हुआ और ईरान और अमेरिका के बीच तनाव बढ़ा। CWG का ग्लास्गो में समापन; ईरान और अमेरिका के बीच फिर बढ़ा तनाव; पाकिस्तान में धमाके में कई मौतें।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "CWG का ग्लास्गो में समापन; ईरान और अमेरिका के बीच फिर बढ़ा तनाव; पाकिस्तान में धमाके में कई मौतें",
-          "summary": "ग्लास्गो में राष्ट्रमंडल खेलों का समापन हुआ और ईरान और अमेरिका के बीच तनाव बढ़ा। CWG का ग्लास्गो में समापन; ईरान और अमेरिका के बीच फिर बढ़ा तनाव; पाकिस्तान में धमाके में कई मौतें।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हरियाणा, पंजाब और यूपी में इस बार सामान्य से 38% तक कम बारिश, दिल्ली पर भी इंद्रदेव अप्रसन्न",
-      "url": "https://www.amarujala.com/delhi-ncr/impact-of-el-ni-o-haryana-punjab-and-up-have-received-up-to-38-less-rainfall-2026-08-03",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-02T23:08:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/1_ec81d7c56a49e7cd09fb0c132c441609.jpeg?w=1200&dpr=1.0",
-      "summary": "दतिया विधानसभा उपचुनाव के परिणाम से पूर्व गृहमंत्री डॉ. नरोत्तम मिश्रा के राजनीतिक प्रभाव की भी परीक्षा होगी। भाजपा और कांग्रेस के लिए यह प्रतिष्ठा की लड़ाई है। नतीजे से भाजपा की नई रणनीति और कांग्रेस की वापसी की संभावनाओं की भी परीक्षा होगी। अल-नीनो के कारण इस मानसून सीजन के पहले दो महीनों यानी जून-जुलाई में देशभर में सामान्य से 13 फीसदी कम बारिश हुई है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हरियाणा, पंजाब और यूपी में इस बार सामान्य से 38% तक कम बारिश, दिल्ली पर भी इंद्रदेव अप्रसन्न",
-          "summary": "दतिया विधानसभा उपचुनाव के परिणाम से पूर्व गृहमंत्री डॉ. नरोत्तम मिश्रा के राजनीतिक प्रभाव की भी परीक्षा होगी। भाजपा और कांग्रेस के लिए यह प्रतिष्ठा की लड़ाई है। नतीजे से भाजपा की नई रणनीति और कांग्रेस की वापसी की संभावनाओं की भी परीक्षा होगी। अल-नीनो के कारण इस मानसून सीजन के पहले दो महीनों यानी जून-जुलाई में देशभर में सामान्य से 13 फीसदी कम बारिश हुई है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नौ साल में नहीं बना एनटीए का एक भी परीक्षा केंद्र, किराये के भरोसे व्यवस्था; कैबिनेट का फैसला अब भी",
-      "url": "https://www.amarujala.com/education/nta-yet-to-build-500-exam-centres-after-nine-years-key-reform-decisions-still-pending-2026-08-03",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-02T22:42:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/12/rashhataraya-parakashhanae-ejasa-nta_70c540ef1ebe68434469a1c90778c505.jpeg?w=1200&dpr=1.0",
-      "summary": "नेशनल टेस्टिंग एजेंसी (एनटीए) ने नौ साल में एक भी परीक्षा केंद्र नहीं बनाया है। किराये के भरोसे व्यवस्था की जा रही है। कैबिनेट का फैसला अब भी अधूरा है। नौ साल में नहीं बना एनटीए का एक भी परीक्षा केंद्र, किराये के भरोसे व्यवस्था; कैबिनेट का फैसला अब भी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नौ साल में नहीं बना एनटीए का एक भी परीक्षा केंद्र, किराये के भरोसे व्यवस्था; कैबिनेट का फैसला अब भी",
-          "summary": "नेशनल टेस्टिंग एजेंसी (एनटीए) ने नौ साल में एक भी परीक्षा केंद्र नहीं बनाया है। किराये के भरोसे व्यवस्था की जा रही है। कैबिनेट का फैसला अब भी अधूरा है। नौ साल में नहीं बना एनटीए का एक भी परीक्षा केंद्र, किराये के भरोसे व्यवस्था; कैबिनेट का फैसला अब भी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमन के नारे लगा रहे थे लोग, तभी हुआ जोरदार धमाका, सड़क पर बिछ गईं लाशें, दहल उठा पाकिस्तान का स्वात",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-khyber-pakhtunkhwa-massive-explosion-during-a-peace-rally-in-killed-7-people-and-injured-40-sjn-10712547.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-02T18:31:58+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Pakistan-Blast-2026-08-b9132cd2d3d5ff16ca0b7c3b78298462-1200x800.jpg",
-      "summary": "उत्तर-पश्चिम पाकिस्तान के खैबर पख्तूनख्वा प्रांत में रविवार को एक शांति रैली के दौरान हुए विस्फोट में कम से कम सात लोगों की मौत हो गई. इसमें 40 लोग घायल हुए हैं. यह विस्फोट स्वात जिले के कबाल कस्बे में शांति रैली के दौरान हुआ. सूत्रों ने बताया कि यह विस्फोट आत्मघाती हमले जैसा लग रहा है. हालांकि इसकी तत्काल कोई आधिकारिक पुष्टि नहीं हुई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमन के नारे लगा रहे थे लोग, तभी हुआ जोरदार धमाका, सड़क पर बिछ गईं लाशें, दहल उठा पाकिस्तान का स्वात",
-          "summary": "उत्तर-पश्चिम पाकिस्तान के खैबर पख्तूनख्वा प्रांत में रविवार को एक शांति रैली के दौरान हुए विस्फोट में कम से कम सात लोगों की मौत हो गई. इसमें 40 लोग घायल हुए हैं. यह विस्फोट स्वात जिले के कबाल कस्बे में शांति रैली के दौरान हुआ. सूत्रों ने बताया कि यह विस्फोट आत्मघाती हमले जैसा लग रहा है. हालांकि इसकी तत्काल कोई आधिकारिक पुष्टि नहीं हुई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ग्रीस में जंगल की आग बुझा रहे दो हेलीकॉप्टर आपस में टकराए, भीषण हादसे में दोनों पायलट की मौत",
-      "url": "https://hindi.news18.com/world/europe-two-helicopters-extinguishing-forest-fires-collided-in-greece-both-pilots-died-10712790.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-02T18:20:38+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Helicopter-Crash-1-2026-08-03259630c9ee531a3c7679e1af0e5264-1200x800.jpg",
-      "summary": "हादसा ग्रीस के एथेंस के पश्चिमी इलाके में उस समय हुआ. तेज हवाओं के कारण आग तेजी से आबादी वाले इलाकों की ओर बढ़ रही थी. सोशल मीडिया पर सामने आए वीडियो में देखा जा सकता है कि तेज हवा के बीच एक हेलीकॉप्टर नियंत्रण खो बैठा और हादसाग्रस्त हो गया. ग्रीस में जंगल की आग बुझा रहे दो हेलीकॉप्टर आपस में टकराए, भीषण हादसे में दोनों पायलट की मौत।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ग्रीस में जंगल की आग बुझा रहे दो हेलीकॉप्टर आपस में टकराए, भीषण हादसे में दोनों पायलट की मौत",
-          "summary": "हादसा ग्रीस के एथेंस के पश्चिमी इलाके में उस समय हुआ. तेज हवाओं के कारण आग तेजी से आबादी वाले इलाकों की ओर बढ़ रही थी. सोशल मीडिया पर सामने आए वीडियो में देखा जा सकता है कि तेज हवा के बीच एक हेलीकॉप्टर नियंत्रण खो बैठा और हादसाग्रस्त हो गया. ग्रीस में जंगल की आग बुझा रहे दो हेलीकॉप्टर आपस में टकराए, भीषण हादसे में दोनों पायलट की मौत।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "जिस दिन छोड़ा था बांग्लादेश, उसी दिन करेंगी बड़ा ऐलान... 2 साल बाद शेख हसीना ने बताएंगी फ्यूचर प्लान",
-      "url": "https://hindi.news18.com/world/south-asia-after-2-years-former-pm-bangladesh-sheikh-hasina-will-first-press-conference-sjn-10712738.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-02T17:48:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Sheikh-Haseena-File-Photo-2026-08-1ad93965dbac1baa339a525f9a0d00f7-1200x800.jpg",
-      "summary": "5 अगस्त 2024 को छात्रों के भारी हिंसक आंदोलन के चलते बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना को अचानक ढाका छोड़ना पड़ा था. अब पूरे दो साल बाद यह घटनाक्रम एक तरह से अपना पूरा चक्र पूरा कर रहा है. उसी दिन शेख हसीना 5 अगस्त 2026 को पब्लिक के सामने आने की तैयारी कर रही है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जिस दिन छोड़ा था बांग्लादेश, उसी दिन करेंगी बड़ा ऐलान... 2 साल बाद शेख हसीना ने बताएंगी फ्यूचर प्लान",
-          "summary": "5 अगस्त 2024 को छात्रों के भारी हिंसक आंदोलन के चलते बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना को अचानक ढाका छोड़ना पड़ा था. अब पूरे दो साल बाद यह घटनाक्रम एक तरह से अपना पूरा चक्र पूरा कर रहा है. उसी दिन शेख हसीना 5 अगस्त 2026 को पब्लिक के सामने आने की तैयारी कर रही है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पुतिन, ट्रंप, MBS और... ये हैं दुनिया के 10 सबसे अमीर नेता, लिस्ट में एक भारतीय मूल का भी शख्स",
-      "url": "https://hindi.news18.com/world/rest-of-world-world-s-10-richest-political-leaders-indian-origin-also-in-list-photogallery-10712422.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-02T17:13:44+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Putin-Donald-Trump-MBS-2026-08-be7fcd25e5fcb14fb5d3b2cbb53e002d-1200x800.jpg",
-      "summary": "दुनिया के कई बड़े नेता सिर्फ अपनी राजनीतिक ताकत की वजह से ही नहीं, बल्कि अरबों-खरबों की दौलत की वजह से भी चर्चा में रहते हैं. इनमें कुछ ऐसे हैं जिन्होंने कारोबार से बेशुमार पैसा कमाया, जबकि कुछ शाही परिवारों से आते हैं और उन्हें विरासत में अकूत संपत्ति मिली है. आइए जानते हैं दुनिया के 10 सबसे अमीर नेताओं के बारे में.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पुतिन, ट्रंप, MBS और... ये हैं दुनिया के 10 सबसे अमीर नेता, लिस्ट में एक भारतीय मूल का भी शख्स",
-          "summary": "दुनिया के कई बड़े नेता सिर्फ अपनी राजनीतिक ताकत की वजह से ही नहीं, बल्कि अरबों-खरबों की दौलत की वजह से भी चर्चा में रहते हैं. इनमें कुछ ऐसे हैं जिन्होंने कारोबार से बेशुमार पैसा कमाया, जबकि कुछ शाही परिवारों से आते हैं और उन्हें विरासत में अकूत संपत्ति मिली है. आइए जानते हैं दुनिया के 10 सबसे अमीर नेताओं के बारे में.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "शेख हसीना का क्या होगा अगला प्लान? दो साल बाद दुनिया के सामने आएंगी",
-      "url": "https://www.abplive.com/news/india/bangladesh-former-pm-sheikh-hasina-to-appear-publicly-on-5th-august-plans-to-return-back-after-two-years-of-ouster-3169441",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-08-02T16:40:52+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/02/0f8de83d2abea85306473f143ff6aa3a17856879850971126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना दो साल बाद पहली बार सार्वजनिक रूप से सामने आने वाली हैं. वे नई दिल्ली में फॉरेन कॉरेस्पॉन्डेंट्स क्लब ऑफ साउथ एशिया के एक वर्चुअल कार्यक्रम में शामिल होंगी. यह कार्यक्रम 2024 में उनके देश में हुए जन आंदोलन के बाद हो रहा है. बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना अपने देश में साल 2024 में छात्रों के नेतृत्व में हुए जन आंदोलन के बीच सत्ता से बेदखल होने के ठीक दो बाद भारत में पहली बार सार्वजनिक रूप से सामने आने वाली हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शेख हसीना का क्या होगा अगला प्लान? दो साल बाद दुनिया के सामने आएंगी",
-          "summary": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना दो साल बाद पहली बार सार्वजनिक रूप से सामने आने वाली हैं. वे नई दिल्ली में फॉरेन कॉरेस्पॉन्डेंट्स क्लब ऑफ साउथ एशिया के एक वर्चुअल कार्यक्रम में शामिल होंगी. यह कार्यक्रम 2024 में उनके देश में हुए जन आंदोलन के बाद हो रहा है. बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना अपने देश में साल 2024 में छात्रों के नेतृत्व में हुए जन आंदोलन के बीच सत्ता से बेदखल होने के ठीक दो बाद भारत में पहली बार सार्वजनिक रूप से सामने आने वाली हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान में शांति रैली के दौरान धमाका: 7 लोगों की मौत, 18 घायल",
-      "url": "https://www.patrika.com/world-news/pakistan-swat-valley-suicide-blast-khyber-pakhtunkhwa-peace-rally-20799796",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-02T15:51:54+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Pakistan-Blast.webp",
-      "summary": "Pakistan Blast: पाकिस्तान के उत्तर-पश्चिमी प्रांत खैबर पख्तूनख्वा में रविवार को शांति रैली के दौरान हुए एक भीषण धमाके में कम से कम सात लोगों की मौत हो गई, जबकि 18 अन्य घायल हो गए। यह घटना स्वात जिले के कबाल कस्बे में हुई जहां स्थानीय लोग इलाके में शांति बहाल करने की मांग को लेकर एकत्र हुए थे। शुरुआती जानकारी के अनुसार, हमले का मुख्य निशाना पाकिस्तानी पुलिसकर्मी थे हालांकि घटना में आम नागरिक भी इसक।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान में शांति रैली के दौरान धमाका: 7 लोगों की मौत, 18 घायल",
-          "summary": "Pakistan Blast: पाकिस्तान के उत्तर-पश्चिमी प्रांत खैबर पख्तूनख्वा में रविवार को शांति रैली के दौरान हुए एक भीषण धमाके में कम से कम सात लोगों की मौत हो गई, जबकि 18 अन्य घायल हो गए। यह घटना स्वात जिले के कबाल कस्बे में हुई जहां स्थानीय लोग इलाके में शांति बहाल करने की मांग को लेकर एकत्र हुए थे। शुरुआती जानकारी के अनुसार, हमले का मुख्य निशाना पाकिस्तानी पुलिसकर्मी थे हालांकि घटना में आम नागरिक भी इसक।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
