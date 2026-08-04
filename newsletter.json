@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-04T19:34:24.306336+00:00",
+  "generated_at": "2026-08-04T20:34:27.931163+00:00",
   "article_count": 50,
-  "total_unique_count": 260,
+  "total_unique_count": 256,
   "digest": {
     "en": "Middle East & Africa leads the board this hour with Ebola en RDC, une épidémie hors de contrôle ?. 25 fresh dispatches in this edition.",
-    "hi": "दतिया उपचुनाव में भाजपा की हार हुई। अमित शाह से मिले सीएम सावंत। लाल सागर में भारतीय जहाज पर हमला हुआ।"
+    "hi": "यूपी पुलिस के दो सिपाहियों की ढाबे वाले पर जोर-जबर्दस्ती की खबर सामने आई है। दतिया उपचुनाव में हार के बाद नरोत्तम मिश्रा के गढ़ में भाजपा का तगड़ा एक्शन देखा जा रहा है। अमित शाह से मिले सीएम सावंत ने चुनाव से पहले सियासी सरगर्मियां बढ़ा दी है।"
   },
   "articles": [
     {
@@ -92,13 +92,13 @@
       "translations": {}
     },
     {
-      "title": "Russian Drone Hunts Down Market Vendor in Kherson",
+      "title": "Russian Drone Hunts Down Market Vendor In Kherson",
       "url": "https://www.rferl.org/a/russian-drone-hunts-down-market-vendor-in-kherson/33821640.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-08-04T11:02:01+00:00",
       "image_url": "https://gdb.rferl.org/c57c0093-0dc7-4dbd-1a2e-08decad58b60_w1200_h630.jpg",
-      "summary": "Ukrainian National Police have published a video they say shows a Russian drone stalking and attacking a man selling goods at a market in the city of Kherson. The 52-year-old survived but suffered blast trauma, concussion, and shrapnel wounds, according to authorities. Russian Drone Hunts Down Market Vendor in Kherson.",
+      "summary": "Ukrainian National Police have published a video they say shows a Russian drone stalking and attacking a man selling goods at a market in the city of Kherson. The 52-year-old survived but suffered blast trauma, concussion, and shrapnel wounds, according to authorities. Russian Drone Hunts Down Market Vendor in Kherson. Ukrainian police have published a video they say shows a Russian drone stalking and attacking a man selling goods at a market in the city of Kherson.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -308,6 +308,24 @@
       "translations": {}
     },
     {
+      "title": "यूपी पुलिस के दो सिपाहियों की ढाबे वाले पर जोर-जबर्दस्ती, युवती का अपहरण; मजदूरों से मारपीट",
+      "url": "https://www.amarujala.com/uttar-pradesh/kushinagar/khaki-tarnished-again-up-police-constables-bully-a-dhaba-owner-2026-08-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-05T07:13:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/1_d6bd5474bab8330f957e50cdf60fa0eb.jpeg?w=1200&dpr=1.0",
+      "summary": "ढाबा संचालक से अनुचित मांग, लड़की के अपहरण और छेड़खानी के आरोप में मंगलवार को कसया थाने पर तैनात दो सिपाहियों के खिलाफ प्राथमिकी दर्ज कर उन्हें गिरफ्तार कर लिया गया है। यूपी पुलिस के दो सिपाहियों की ढाबे वाले पर जोर-जबर्दस्ती, युवती का अपहरण; मजदूरों से मारपीट।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूपी पुलिस के दो सिपाहियों की ढाबे वाले पर जोर-जबर्दस्ती, युवती का अपहरण; मजदूरों से मारपीट",
+          "summary": "ढाबा संचालक से अनुचित मांग, लड़की के अपहरण और छेड़खानी के आरोप में मंगलवार को कसया थाने पर तैनात दो सिपाहियों के खिलाफ प्राथमिकी दर्ज कर उन्हें गिरफ्तार कर लिया गया है। यूपी पुलिस के दो सिपाहियों की ढाबे वाले पर जोर-जबर्दस्ती, युवती का अपहरण; मजदूरों से मारपीट।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "दतिया उपचुनाव में हार के बादनरोत्तम मिश्रा के गढ़ में भाजपा का तगड़ा एक्शन!",
       "url": "https://www.amarujala.com/video/india-news/datia-by-election-result-bjp-takes-strong-action-in-narottam-mishra-s-stronghold-following-the-defeat-in-the-2026-08-05",
       "source": "Amar Ujala National",
@@ -328,7 +346,7 @@
     {
       "title": "अमित शाह से मिले CM सावंत, चुनाव से छह माह पहले सियासी सरगर्मियां बढ़ीं; ST आरक्षण पर क्या आश्वासन",
       "url": "https://www.amarujala.com/india-news/goa-st-reservation-cm-pramod-sawant-meets-amit-shah-seeks-fast-track-political-quota-2026-08-05",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-08-05T06:36:13+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/amata-shaha-sa-mal-cm-savata_4a742f70e449d0936caaa9525b86e20c.jpeg?w=1200&dpr=1.0",
@@ -344,12 +362,48 @@
       }
     },
     {
-      "title": "लाल सागर में भारतीय जहाज पर हमला: कार्गो पोत डूबा, 13 भारतीय नाविक सुरक्षित; सरकार ने क्या दिए",
-      "url": "https://www.amarujala.com/india-news/red-sea-attack-indian-flagged-vessel-sinks-near-yemen-sonowal-orders-steps-to-protect-seafarers-2026-08-05",
+      "title": "खाली सीटों पर उपचुनाव कब और कैसे, चुनाव आयोग की दलीलें क्या? समयसीमा पर 22 सितंबर को अहम सुनवाई",
+      "url": "https://www.amarujala.com/india-news/supreme-court-to-hear-interpretation-of-section-151a-on-bypoll-timeline-on-september-22-2026-08-05",
       "source": "Amar Ujala National",
       "sources": [],
+      "published_at": "2026-08-04T20:06:16+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/supreme-court_e6763102c2ace2dce936b8c44a4f9ff0.jpeg?w=1200&dpr=1.0",
+      "summary": "Supreme Court: खाली सीटों पर उपचुनाव कब और कैसे, चुनाव आयोग की दलीलें क्या?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खाली सीटों पर उपचुनाव कब और कैसे, चुनाव आयोग की दलीलें क्या? समयसीमा पर 22 सितंबर को अहम सुनवाई",
+          "summary": "Supreme Court: खाली सीटों पर उपचुनाव कब और कैसे, चुनाव आयोग की दलीलें क्या?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारत में ही रहेगा एआई डाटा; एंथ्रोपिक की साझेदारी की योजना में क्या, किसे मिलेगा लाभ?",
+      "url": "https://www.amarujala.com/world/anthropic-india-plan-ai-data-to-remain-within-india-what-is-partnership-plan-who-will-get-benefit-know-details-2026-08-05",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-04T20:06:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/19/anthropic-ceo-india-ai-impact-summit-2026_f3552a9e8939a2c9abc08a68953c6621.jpeg?w=1200&dpr=1.0",
+      "summary": "Anthropic India Plan: भारत में ही रहेगा एआई डाटा; एंथ्रोपिक की साझेदारी की योजना में क्या, किसे मिलेगा लाभ?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत में ही रहेगा एआई डाटा; एंथ्रोपिक की साझेदारी की योजना में क्या, किसे मिलेगा लाभ?",
+          "summary": "Anthropic India Plan: भारत में ही रहेगा एआई डाटा; एंथ्रोपिक की साझेदारी की योजना में क्या, किसे मिलेगा लाभ?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "लाल सागर में भारतीय जहाज पर हमला: कार्गो पोत डूबा, 13 भारतीय नाविक सुरक्षित; सरकार ने क्या दिए",
+      "url": "https://www.amarujala.com/india-news/red-sea-attack-indian-flagged-vessel-sinks-near-yemen-sonowal-orders-steps-to-protect-seafarers-2026-08-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
       "published_at": "2026-08-04T19:31:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/27/yemen-red-sea_983795621d0cd88a0c91fe3a0cafc7ab.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/ll-sagara-ma-jahaja-para-haaa-hamal-fail-fata_d24251558fefb4a5e9767501879ad3dd.jpeg?w=1200&dpr=1.0",
       "summary": "निर्देश?---Red Sea Attack: Indian-Flagged Vessel Sinks Near Yemen, Sonowal Orders Steps to Protect Seafarers लाल सागर में भारतीय जहाज पर हमला: कार्गो पोत डूबा, 13 भारतीय नाविक सुरक्षित; सरकार ने क्या दिए।",
       "region": "Middle East & Africa",
       "language": "hi",
@@ -700,60 +754,6 @@
           "title": "बैलिस्टिक मिसाइल लॉक्ड थी, यूक्रेन पर हमला करने वाला था ईरान, जानें आखिरी वक्त पर क्यों रुका ऑपरेशन?",
           "summary": "ईरान ने यूक्रेन पर हमला करने के लिए बैलिस्टिक मिसाइल तैयार की थी। कैस्पियन सागर में एक ईरानी कमर्शियल शिप पर हमले के बाद यह कार्रवाई की जा रही थी। यूक्रेन ने घटना को अनजाने में हुई गलती बताया, जिसके बाद ईरान ने अपनी सैन्य कार्रवाई रोक दी। Middle East Conflict: ईरान ने दावा किया है कि कैस्पियन सागर में उसके एक कमर्शियल शिप पर हुए हमले के बाद उसने यूक्रेन के भीतर तीन ठिकानों पर जवाबी हमला करने की तैयारी कर ली थी।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘गोलियां चलाकर जनता का कर रहे दमन’, भारत ने PoJK चुनाव पर पाक को दिखाया आईना",
-      "url": "https://www.abplive.com/news/world/india-targets-pakistani-leadership-for-ongoing-voting-process-in-pok-amid-boycott-call-and-heavy-protest-ann-3170397",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-08-04T12:24:18+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/98f02a13a695e2f4ebbae8fc5d16afcd17858473377881126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पाकिस्तान के कब्जे वाले कश्मीर में वोटिंग बायकॉट और तनाव के बीच भारत ने पाक को आईना दिखाया। पाकिस्तान के कब्जे वाले कश्मीर (PoK) में वोटिंग बायकॉट और जारी तनाव की स्थिति के बीच मंगलवार (4 अगस्त, 2026) को दो विधानसभा सीटों पर मतदान हो रहा है. इन दोनों विधानसभा सीटों पर मतदान रविवार (2 अगस्त, 2026) को तय किया गया था, लेकिन मुजफ्फराबाद-1 और मुजफ्फराबाद-2 के सभी मतदान केंद्रों पर सड़क बंद, विरोध प्रदर्शन और आगजनी की घटनाएं होने की वजह से वोटिंग नहीं हो पाई थी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘गोलियां चलाकर जनता का कर रहे दमन’, भारत ने PoJK चुनाव पर पाक को दिखाया आईना",
-          "summary": "पाकिस्तान के कब्जे वाले कश्मीर में वोटिंग बायकॉट और तनाव के बीच भारत ने पाक को आईना दिखाया। पाकिस्तान के कब्जे वाले कश्मीर (PoK) में वोटिंग बायकॉट और जारी तनाव की स्थिति के बीच मंगलवार (4 अगस्त, 2026) को दो विधानसभा सीटों पर मतदान हो रहा है. इन दोनों विधानसभा सीटों पर मतदान रविवार (2 अगस्त, 2026) को तय किया गया था, लेकिन मुजफ्फराबाद-1 और मुजफ्फराबाद-2 के सभी मतदान केंद्रों पर सड़क बंद, विरोध प्रदर्शन और आगजनी की घटनाएं होने की वजह से वोटिंग नहीं हो पाई थी.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या पाकिस्तान में बदलने वाली सत्ता? नकवी ने फिर खोले शरीफ सरकार के गहरे राज",
-      "url": "https://www.abplive.com/news/world/power-shift-imminent-in-pakistan-mohsin-naqvi-reveals-deep-secrets-sharif-government-3170415",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-08-04T12:18:16+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/75d3127a25ac73998ec27ca15a8c606317858453829441324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पाकिस्तान में गृहमंत्री मोहसिन नकवी ने शरीफ सरकार पर भ्रष्टाचार के आरोप लगाए। पाकिस्तान में सत्ता के स्तर पर कुछ भी ठीक नहीं चल रहा है. यहां दो फाड़ साफ नजर आ रहे हैं. गृहमंत्री लगातार अपने ही देश की सरकार के शासन व्यवस्था को निशाने पर ले रहे हैं. गृहमंत्री मोहसिन नकवी ने अब एक और बयान दिया है, जो भ्रष्टाचार जैसे संगीन आरोप को उजागर करते हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या पाकिस्तान में बदलने वाली सत्ता? नकवी ने फिर खोले शरीफ सरकार के गहरे राज",
-          "summary": "पाकिस्तान में गृहमंत्री मोहसिन नकवी ने शरीफ सरकार पर भ्रष्टाचार के आरोप लगाए। पाकिस्तान में सत्ता के स्तर पर कुछ भी ठीक नहीं चल रहा है. यहां दो फाड़ साफ नजर आ रहे हैं. गृहमंत्री लगातार अपने ही देश की सरकार के शासन व्यवस्था को निशाने पर ले रहे हैं. गृहमंत्री मोहसिन नकवी ने अब एक और बयान दिया है, जो भ्रष्टाचार जैसे संगीन आरोप को उजागर करते हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "NEET PG एडमिशन रिव्यू के लिए बनी कमेटी, जानें निगेटिव मार्किंग का पूरा विवाद",
-      "url": "https://www.abplive.com/news/india/neet-pg-admissions-review-12-member-committee-formed-controversy-against-giving-pg-seats-to-get-negative-marks-ann-3170399",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-08-04T11:52:06+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/82e3a3c206b9a4e32369d648eeda9a2917858459190291368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "केंद्र सरकार ने मेडिकल पीजी में दाखिले की प्रक्रिया की समीक्षा के लिए 12 सदस्यीय उच्चस्तरीय विशेषज्ञ कमेटी का गठन किया है. नकारात्मक अंक पाने वालों को भी पीजी सीट मिलने के खिलाफ दाखिल याचिका पर सुनवाई के दौरान सुप्रीम कोर्ट को यह जानकारी दी गई. 4 मई को कोर्ट ने ही व्यवस्था में स्थायी सुधार के लिए कहा था. कैसे शुरू हुआ विवाद?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "NEET PG एडमिशन रिव्यू के लिए बनी कमेटी, जानें निगेटिव मार्किंग का पूरा विवाद",
-          "summary": "केंद्र सरकार ने मेडिकल पीजी में दाखिले की प्रक्रिया की समीक्षा के लिए 12 सदस्यीय उच्चस्तरीय विशेषज्ञ कमेटी का गठन किया है. नकारात्मक अंक पाने वालों को भी पीजी सीट मिलने के खिलाफ दाखिल याचिका पर सुनवाई के दौरान सुप्रीम कोर्ट को यह जानकारी दी गई. 4 मई को कोर्ट ने ही व्यवस्था में स्थायी सुधार के लिए कहा था. कैसे शुरू हुआ विवाद?",
-          "region": "दुनिया"
         }
       }
     }
