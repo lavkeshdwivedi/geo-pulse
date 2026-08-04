@@ -1,36 +1,12 @@
 {
-  "generated_at": "2026-08-04T03:08:09.882534+00:00",
+  "generated_at": "2026-08-04T05:07:46.586755+00:00",
   "article_count": 50,
-  "total_unique_count": 255,
+  "total_unique_count": 251,
   "digest": {
-    "en": "Ebola outbreaks dominate the Democratic Republic of Congo. Japan's prime minister is touring earthquake-hit sites. Singapore's Grab is lifting forecasts on solid demand.",
-    "hi": "इस्राइल को अविश्वसनीय समर्थन मिला है। नेतन्याहू ने ईरान में जंग के बीच भारत-PM मोदी पर टिप्पणी की। ट्रंप की वॉर्निंग पर ईरान अकड़ गया है।"
+    "en": "Japan's prime minister tours earthquake-hit sites. Iran faces a deadline to forge a deal with the US. Ceuta migrant crisis exposes EU divisions.",
+    "hi": "इस्राइल को अविश्वसनीय समर्थन मिला है। नेतन्याहू ने ईरान में जंग के बीच भारत-PM मोदी पर टिप्पणी की। शवोन के CEO को अमेरिकी राष्ट्रपति की खरी-खरी मिली।"
   },
   "articles": [
-    {
-      "title": "Ebola en RDC, une épidémie hors de contrôle ?",
-      "url": "https://www.crisisgroup.org/fr/pod/africa/democratic-republic-congo/ebola-en-rdc-une-epidemie-hors-de-controle",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Vendredi, juillet 24, 2026 - 13:43",
-      "image_url": "https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Frédéric Manantsoa Lai, coordinateur des urgences pour Médecins Sans Frontières, et Onesphore Sematumba, analyste senior pour la République démocratique du Congo et le Burundi à Crisis Group, pour parler de l’épidémie d’Ebola en RDC et de ses conséquences sur la population congolaise, déjà marquée par des années de conflit.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Avrupa Birliği ve Türkiye: Savunmada Birlik?",
-      "url": "https://www.crisisgroup.org/tr/brf/europe/european-union-turkiye/b99-eu-and-turkiye-uniting-defence",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "Perşembe, Temmuz 23, 2026 - 15:54",
-      "image_url": "https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
     {
       "title": "Japan’s prime minister tours earthquake-hit sites as recovery efforts hampered by soaring",
       "url": "https://www.theguardian.com/world/2026/aug/04/japan-earthquake-prime-minister-visit-recovery-heat-sanae-takaichi",
@@ -39,18 +15,6 @@
       "published_at": "2026-08-04T00:59:38+00:00",
       "image_url": "https://i.guim.co.uk/img/media/2b08687a5a1e923bc4d6a20141fc0de4481351cd/1125_178_4298_3438/master/4298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=317cfca6542fc0a0b4778a23f091f780",
       "summary": "Prime minister Sanae Takaichi visited Kumamoto prefecture almost a week after a magnitude 7.1 quake hit, killing 38 peopleJapan’s prime minister, Sanae Takaichi, has visited the south-western prefecture of Kumamoto, where recovery efforts are being hampered by heat and a lack of water supplies, almost a week after a magnitude 7.1 earthquake killed dozens and caused widespread damage. Thirty-eight p Japan’s prime minister tours quake-hit sites as recovery efforts hampered by soaring temperatures.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Singapore's Grab lifts 2026 forecasts on solid delivery, ride-hailing demand",
-      "url": "https://www.channelnewsasia.com/business/singapores-grab-lifts-2026-forecasts-solid-delivery-ride-hailing-demand-6296336",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-08-04T00:33:34+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--X3PgQiKf--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-03T224031Z_1_LYNXMPEM721PX_RTROPTP_3_GRAB-AI-PROFIT.JPG?itok=m-GlE06z",
-      "summary": "The upbeat projections and a new US$750 million share buyback program pushed shares of the Nasdaq-listed company up 3 per cent in extended trading, but the stock is down more than 26 per cent this year. Singapore's Grab lifts 2026 forecasts on solid delivery, ride-hailing demand.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -88,18 +52,6 @@
       "image_url": "https://i.guim.co.uk/img/media/64b7d9cf3b917d2f8753485f587edab1fc229604/210_0_3444_2756/master/3444.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b4b8232a6d82bee130900bfe03b60c3",
       "summary": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries. Lucy Hough speaks to the Guardian’s European community affairs correspondent, Ashifa Kassam – watch on YouTube Continue reading How Ceuta migrant crisis exposes divisions within Europe.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hard-right Reform U.K. vow to use navy to stop small boats",
-      "url": "https://www.thehindu.com/news/international/hard-right-reform-uk-vow-to-use-navy-to-stop-small-boats/article71302332.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-08-03T15:59:14+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/yf6dch/article71302403.ece/alternates/LANDSCAPE_1200/Britain_Politics_38217.jpg",
-      "summary": "They come as Mr. Farage and Reform. which led national polls for around 18 months but have seen that lead disappear in recent weeks. are embroiled in a series of scandals and official probes into their finances Hard-right Reform U. K. vow to use navy to stop small boats. Hard-right Reform U. K.",
-      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -308,9 +260,57 @@
       "translations": {}
     },
     {
+      "title": "10-Year-Old Ukrainian Gymnast Wins Gold After Losing Leg In Russian Strike",
+      "url": "https://www.rferl.org/a/ukrainian-gymnast-wins-gold-after-losing-leg-in-russian-strike/33819012.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-08-01T07:21:28+00:00",
+      "image_url": "https://gdb.rferl.org/a2ad9c1b-0c50-4485-8177-08decad17715_cx0_cy5_cw0_w1200_h630.png",
+      "summary": "In 2022, Oleksandra Paskal lost her leg following a Russian missile strike on Ukraine’s Odesa region. She was just six years old. Following months of intense rehabilitation, she learned to walk with a prosthesis -- and made a remarkable return to rhythmic gymnastics. 10-Year-Old Ukrainian Gymnast Wins Gold After Losing Leg In Russian Strike.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Patriot Debate Deepens As Congressman Don Bacon Questions Trump Shift, Senate Moves On Ukraine Arms",
+      "url": "https://www.rferl.org/a/patriot-missile-trump-bacon-republicans-ukraine-zelenskyy/33819653.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-08-01T04:41:57+00:00",
+      "image_url": "https://gdb.rferl.org/eb7ace19-3d0e-4f3d-9d76-65171292ff0a_cx0_cy6_cw0_w1200_h630.jpg",
+      "summary": "US President Donald Trump's decision to step back from his earlier pledge to allow Ukraine to manufacture Patriot missile interceptors has prompted renewed debate in Washington over the future direction of US military support for Kyiv. Patriot Debate Deepens As Congressman Don Bacon Questions Trump Shift, Senate Moves On Ukraine Arms.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "India’s environmental crisis undermines its great-power ambitions",
+      "url": "https://asiatimes.com/2026/08/indias-environmental-crisis-undermines-its-great-power-ambitions/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-08-01T02:46:15+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/08/wietse-jongsma-M521ftYhOrY-unsplash-1536x1023-1.jpg",
+      "summary": "India wants to become the world’s next manufacturing superpower and an indispensable leader of the Global South. It seeks to attract global supply chains relocating from China, expand high-technology manufacturing, become a hub for artificial intelligence and semiconductor industries and strengthen its influence in global climate diplomacy. Yet one of the greatest obstacles to these [] The post I India’s environmental crisis undermines its great-power ambitions.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Strong El Niño ahead, UN weather agency warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168059",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-07-31T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-01-2025_WMO_USA.jpg/image770x420cropped.jpg",
+      "summary": "As much of the world faces grapples with above normal temperatures and major rainfall changes, the UN Meteorological Organization (WMO) warned on Friday that El Niño, a powerful climate pattern shaping global weather, will intensify starting next month. Strong El Niño ahead, UN weather agency warns.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "'इस्राइल को अविश्वसनीय समर्थन'; नेतन्याहू ईरान में जंग के बीच भारत-PM मोदी पर और क्या बोले?",
       "url": "https://www.amarujala.com/world/netanyahu-praises-pm-modi-calls-india-support-unbelievable-amid-iran-conflict-2026-08-04",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-08-04T07:00:58+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/india-israel-relation_fa4dfccae79e4e363fdcc7dda9d8a5e1.jpeg?w=1200&dpr=1.0",
@@ -344,38 +344,200 @@
       }
     },
     {
-      "title": "आतंक के आकाओं में भरा खौफ: 30 से ज्यादा आतंकियों को अज्ञात हमलावरों ने किया ढेर, लश्कर कमांडर ने",
-      "url": "https://www.amarujala.com/world/lashkar-e-taiba-commander-rizwan-hanif-claims-over-targeted-killings-india-denies-allegations-2026-08-04",
-      "source": "Amar Ujala World",
+      "title": "सावन शिवरात्रि के अगले दिन लगेगा सूर्य ग्रहण, जानें प्रभाव और सूतक काल का समय",
+      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/surya-grahan-in-august-2026-date-time-impact-and-sutak-kaal-2026-08-03",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-08-04T03:05:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/lashkar-e-taiba-commander-rizwan-hanif_9dddc1ce55433bcdeeb4f7df241a88a1.jpeg?w=1200&dpr=1.0",
-      "summary": "खुद कबूला lashkar-e-taiba-commander-rizwan-hanif-claims-over-targeted-killings-india-denies-allegations आतंक के आकाओं में भरा खौफ: 30 से ज्यादा आतंकियों को अज्ञात हमलावरों ने किया ढेर, लश्कर कमांडर ने।",
+      "published_at": "2026-08-04T05:05:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/30/surya-grahan-on-17-february-2026_7ec9bb51ee593a9c1820f4e81cae5e55.jpeg?w=1200&dpr=1.0",
+      "summary": "Surya Grahan In August 2026: अगस्त में साल का आखिरी सूर्य ग्रहण लगेगा। यह सावन शिवरात्रि से अगले दिन घटित होगा। ऐसे में सवाल यह है कि, क्या यह भारत में नजर आएगा? सावन शिवरात्रि के अगले दिन लगेगा सूर्य ग्रहण, जानें प्रभाव और सूतक काल का समय।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आतंक के आकाओं में भरा खौफ: 30 से ज्यादा आतंकियों को अज्ञात हमलावरों ने किया ढेर, लश्कर कमांडर ने",
-          "summary": "खुद कबूला lashkar-e-taiba-commander-rizwan-hanif-claims-over-targeted-killings-india-denies-allegations आतंक के आकाओं में भरा खौफ: 30 से ज्यादा आतंकियों को अज्ञात हमलावरों ने किया ढेर, लश्कर कमांडर ने।",
+          "title": "सावन शिवरात्रि के अगले दिन लगेगा सूर्य ग्रहण, जानें प्रभाव और सूतक काल का समय",
+          "summary": "Surya Grahan In August 2026: अगस्त में साल का आखिरी सूर्य ग्रहण लगेगा। यह सावन शिवरात्रि से अगले दिन घटित होगा। ऐसे में सवाल यह है कि, क्या यह भारत में नजर आएगा? सावन शिवरात्रि के अगले दिन लगेगा सूर्य ग्रहण, जानें प्रभाव और सूतक काल का समय।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "मुश्किलों में घिरे फीफा अध्यक्ष इन्फेंटिनो, यूईएफए ने दी केस की धमकी; ट्रंप की शरण में पहुंचे",
-      "url": "https://www.amarujala.com/sports/football/fifa-president-infantino-in-trouble-uefa-threatens-legal-action-turns-to-donald-trump-for-support-2026-08-04",
-      "source": "Amar Ujala National",
+      "title": "लोकसभा में पेश होगा कौन सा बिल? विपक्ष ने की दल-बदल रोकने के लिए नए कानून पर चर्चा की मांग",
+      "url": "https://www.amarujala.com/live/india-news/parliament-monsoon-session-live-updates-lok-sabha-rajya-sabha-taxation-other-laws-bills-discussion-2026-08-04",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-08-04T02:57:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/21/danalda-tarapa-jayana-inafatana_42cea6d38b748abc7e2e52dc5c9dbc9d.jpeg?w=1200&dpr=1.0",
-      "summary": "फीफा अध्यक्ष जियानी इन्फेंटिनो मुश्किल में घिरते नजर आ रहे हैं। इन्फेंटिनो के लिए फुटबॉल विश्व कप में निजी निवेशकों को 20% हिस्सेदारी बेचने की योजना गले की फांस बनती जा रही है। मुश्किलों में घिरे फीफा अध्यक्ष इन्फेंटिनो, यूईएफए ने दी केस की धमकी; ट्रंप की शरण में पहुंचे।",
-      "region": "Americas",
+      "published_at": "2026-08-04T04:57:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/06/24/parliament-session-live_6cdd0d4698dc792793147004a5225ee1.jpeg?w=1200&dpr=1.0",
+      "summary": "Parliament LIVE: लोकसभा में पेश होगा कौन सा बिल, विपक्ष ने की दल-बदल रोकने के लिए नए कानून पर चर्चा की मांग parliament-monsoon-session-live-updates-lok-sabha-rajya-sabha-taxation-other-laws-bills-discussion।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मुश्किलों में घिरे फीफा अध्यक्ष इन्फेंटिनो, यूईएफए ने दी केस की धमकी; ट्रंप की शरण में पहुंचे",
-          "summary": "फीफा अध्यक्ष जियानी इन्फेंटिनो मुश्किल में घिरते नजर आ रहे हैं। इन्फेंटिनो के लिए फुटबॉल विश्व कप में निजी निवेशकों को 20% हिस्सेदारी बेचने की योजना गले की फांस बनती जा रही है। मुश्किलों में घिरे फीफा अध्यक्ष इन्फेंटिनो, यूईएफए ने दी केस की धमकी; ट्रंप की शरण में पहुंचे।",
-          "region": "अमेरिका"
+          "title": "लोकसभा में पेश होगा कौन सा बिल? विपक्ष ने की दल-बदल रोकने के लिए नए कानून पर चर्चा की मांग",
+          "summary": "Parliament LIVE: लोकसभा में पेश होगा कौन सा बिल, विपक्ष ने की दल-बदल रोकने के लिए नए कानून पर चर्चा की मांग parliament-monsoon-session-live-updates-lok-sabha-rajya-sabha-taxation-other-laws-bills-discussion।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप ने भी दिया पाकिस्तान को गच्चा, 'शांतिदूत' का बैज छीना, शुरू हुए मुनीर-शहबाज के बुरे दिन",
+      "url": "https://hindi.news18.com/world/pakistan-donald-trump-drops-pakistan-out-of-us-iran-war-mediation-shahbaz-sharif-asim-munir-10716461.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-04T04:51:14+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Trump-Took-Munir-Name-In-Abraham-Accord-2026-05-3cbeeae8d0f823729943f86770a797d6-1200x800.jpg",
+      "summary": "US Drops Pakistan From Iran War Mediation: पाकिस्तान अपने घर में घिरा ही हुआ था, जब उसके सबसे बड़े हितैषी बने डोनाल्ड ट्रंप ने भी उसे गच्चा दे दिया है. जिस पीस ब्रोकर का तमगा लगाकर वो खाड़ी से लेकर अमेरिका तक नाच रहा था, अमेरिका ने वही छीन लिया है. ट्रंप की नजर में अब मुनीर की वो इज्जत नहीं रही क्या?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप ने भी दिया पाकिस्तान को गच्चा, 'शांतिदूत' का बैज छीना, शुरू हुए मुनीर-शहबाज के बुरे दिन",
+          "summary": "US Drops Pakistan From Iran War Mediation: पाकिस्तान अपने घर में घिरा ही हुआ था, जब उसके सबसे बड़े हितैषी बने डोनाल्ड ट्रंप ने भी उसे गच्चा दे दिया है. जिस पीस ब्रोकर का तमगा लगाकर वो खाड़ी से लेकर अमेरिका तक नाच रहा था, अमेरिका ने वही छीन लिया है. ट्रंप की नजर में अब मुनीर की वो इज्जत नहीं रही क्या?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चुनाव जीतते ही PM के फैसलों पर भड़के PK,बोल गए ऐसी-ऐसी बात",
+      "url": "https://www.amarujala.com/video/india-news/pk-lashed-out-at-the-pm-s-decisions-immediately-after-the-election-victory-making-some-startling-remarks-2026-08-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-04T04:49:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/pk_3fbce118301dccd29663410823ebc2a8.jpeg?w=1200&dpr=1.0",
+      "summary": "चुनाव जीतते ही PM के फैसलों पर भड़के PK, बोल गए ऐसी-ऐसी बात।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चुनाव जीतते ही PM के फैसलों पर भड़के PK,बोल गए ऐसी-ऐसी बात",
+          "summary": "चुनाव जीतते ही PM के फैसलों पर भड़के PK, बोल गए ऐसी-ऐसी बात।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आईने में खुद को देखकर सांप ने दिया ऐसा रिएक्शन, वीडियो देख लोग रह गए दंग",
+      "url": "https://www.amarujala.com/bizarre-news/snake-viral-video-snake-reaction-to-seeing-itself-in-a-mirror-2026-08-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-04T04:45:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/aaiina-ma-apana-akasa-thakha-bhaugdhaka-utha-sapa_3bd38ed7bef934bdb763d706f5596b18.jpeg?w=1200&dpr=1.0",
+      "summary": "A video from a pet store in Jaipur shows a Burmese python snapping at its reflection in a glass tank. The footage, shared on TikTok, drew thousands of views as the snake lunged and hissed at the image, then retreated. The clip sparked online discussion about animal self‑awareness. आईने में खुद को देखकर सांप ने दिया ऐसा रिएक्शन।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईने में खुद को देखकर सांप ने दिया ऐसा रिएक्शन, वीडियो देख लोग रह गए दंग",
+          "summary": "A video from a pet store in Jaipur shows a Burmese python snapping at its reflection in a glass tank. The footage, shared on TikTok, drew thousands of views as the snake lunged and hissed at the image, then retreated. The clip sparked online discussion about animal self‑awareness. आईने में खुद को देखकर सांप ने दिया ऐसा रिएक्शन।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "एमटीएस और सीबीआईसी हवलदार का रिजल्ट जारी, पीईटी-पीएसटी के लिए 8,071 अभ्यर्थी शॉर्टलिस्ट",
+      "url": "https://www.amarujala.com/jobs/government-jobs/ssc-mts-result-2026-released-8-071-candidates-shortlisted-for-cbic-havaldar-pet-pst-2026-08-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-04T04:42:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/12/04/ssc_1d4e2a4c362cdece084fd7a31b9c49ac.jpeg?w=1200&dpr=1.0",
+      "summary": "SSC MTS Result 2026: कर्मचारी चयन आयोग ने एमटीएस और सीबीआईसी हवलदार भर्ती परीक्षा का परिणाम जारी कर दिया है। हवलदार पद के लिए आयोजित होने वाली PET और PST परीक्षा हेतु 8,071 उम्मीदवारों को शॉर्टलिस्ट किया गया है। एमटीएस और सीबीआईसी हवलदार का रिजल्ट जारी, पीईटी-पीएसटी के लिए 8,071 अभ्यर्थी शॉर्टलिस्ट।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एमटीएस और सीबीआईसी हवलदार का रिजल्ट जारी, पीईटी-पीएसटी के लिए 8,071 अभ्यर्थी शॉर्टलिस्ट",
+          "summary": "SSC MTS Result 2026: कर्मचारी चयन आयोग ने एमटीएस और सीबीआईसी हवलदार भर्ती परीक्षा का परिणाम जारी कर दिया है। हवलदार पद के लिए आयोजित होने वाली PET और PST परीक्षा हेतु 8,071 उम्मीदवारों को शॉर्टलिस्ट किया गया है। एमटीएस और सीबीआईसी हवलदार का रिजल्ट जारी, पीईटी-पीएसटी के लिए 8,071 अभ्यर्थी शॉर्टलिस्ट।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बारिश में बार-बार खराब हो जाता है मेकअप? ये आसान ट्रिक्स रखेंगी पूरे दिन फ्रेश लुक",
+      "url": "https://www.amarujala.com/fashion/monsoon-makeup-tips-how-to-make-your-makeup-last-longer-in-humid-weather-2026-08-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-04T04:40:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/rainy-season-waterproof-makeup-tips_033294df7839e7927178dc3732a67d25.jpeg?w=1200&dpr=1.0",
+      "summary": "How to Make Your Makeup Last Longer: अगर आप चाहती हैं कि बारिश, उमस और पसीने के बावजूद आपका मेकअप सुबह से शाम तक फ्रेश और ग्लोइंग बना रहे, तो इन आसान और असरदार टिप्स को अपनी ब्यूटी रूटीन का हिस्सा जरूर बनाएं। बारिश में बार-बार खराब हो जाता है मेकअप? ये आसान ट्रिक्स रखेंगी पूरे दिन फ्रेश लुक।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बारिश में बार-बार खराब हो जाता है मेकअप? ये आसान ट्रिक्स रखेंगी पूरे दिन फ्रेश लुक",
+          "summary": "How to Make Your Makeup Last Longer: अगर आप चाहती हैं कि बारिश, उमस और पसीने के बावजूद आपका मेकअप सुबह से शाम तक फ्रेश और ग्लोइंग बना रहे, तो इन आसान और असरदार टिप्स को अपनी ब्यूटी रूटीन का हिस्सा जरूर बनाएं। बारिश में बार-बार खराब हो जाता है मेकअप? ये आसान ट्रिक्स रखेंगी पूरे दिन फ्रेश लुक।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दुकानदार को मारी गोली, पेट के निचले हिस्से को चीरती हुई आर-पार निकली, मच गई चीख-पुकार",
+      "url": "https://www.amarujala.com/delhi-ncr/noida/dispute-over-asking-for-gutkha-shopkeeper-shot-with-pistol-2026-08-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-04T04:35:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/gatakha-magana-ka-lkara-vavatha_95cded3f31edeb12bbe841b87315a174.jpeg?w=1200&dpr=1.0",
+      "summary": "ग्रेटर नोएडा के सूरजपुर थाना क्षेत्र के खेड़ी भनौता गांव में सोमवार को गुटखा मांगने को लेकर हुए विवाद में एक व्यक्ति ने पड़ोसी दुकानदार पर लाइसेंसी पिस्टल से गोली चला दी। दुकानदार को मारी गोली, पेट के निचले हिस्से को चीरती हुई आर-पार निकली, मच गई चीख-पुकार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुकानदार को मारी गोली, पेट के निचले हिस्से को चीरती हुई आर-पार निकली, मच गई चीख-पुकार",
+          "summary": "ग्रेटर नोएडा के सूरजपुर थाना क्षेत्र के खेड़ी भनौता गांव में सोमवार को गुटखा मांगने को लेकर हुए विवाद में एक व्यक्ति ने पड़ोसी दुकानदार पर लाइसेंसी पिस्टल से गोली चला दी। दुकानदार को मारी गोली, पेट के निचले हिस्से को चीरती हुई आर-पार निकली, मच गई चीख-पुकार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ब्रेस्टफीडिंग कराने वाली हर मां को पता होनी चाहिए ये जरूरी बातें",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/world-breastfeeding-week-2026-health-and-care-tips-for-women-who-breastfeed-new-born-2026-08-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-04T04:33:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/new-mom-diet-plan_7233b4c69bd7a7a2a59bdfd6bcf30a82.jpeg?w=1200&dpr=1.0",
+      "summary": "World Breastfeeding Week 2026: अगर आपके घर में कोई ऐसी महिला है, जो नवजात को स्तनपान कराती है तो वर्ल्ड ब्रेस्टफीडिंग सप्ताह के मौके पर हम आपको बताएंगे कुछ ऐसी बातें, जिनका ध्यान आपको और उस महिला को रखना चाहिए। ब्रेस्टफीडिंग कराने वाली हर मां को पता होनी चाहिए ये जरूरी बातें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रेस्टफीडिंग कराने वाली हर मां को पता होनी चाहिए ये जरूरी बातें",
+          "summary": "World Breastfeeding Week 2026: अगर आपके घर में कोई ऐसी महिला है, जो नवजात को स्तनपान कराती है तो वर्ल्ड ब्रेस्टफीडिंग सप्ताह के मौके पर हम आपको बताएंगे कुछ ऐसी बातें, जिनका ध्यान आपको और उस महिला को रखना चाहिए। ब्रेस्टफीडिंग कराने वाली हर मां को पता होनी चाहिए ये जरूरी बातें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "समुद्र किनारे बिछ गई नीले जीवों की चादर, लोग बोले- ये धरती के नहीं, किसी दूसरे ग्रह के मेहमान हैं",
+      "url": "https://www.amarujala.com/bizarre-news/thousands-of-blue-by-the-wind-sailors-wash-ashore-on-uk-beaches-leaving-visitors-astonished-2026-08-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-04T04:31:53+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/samathara-kanara-acanaka-bchha-gaii-nal-parata_184efe216504104c262a4259bcdcd55e.jpeg?w=1200&dpr=1.0",
+      "summary": "ब्रिटेन के सेंट बीस बीच और वेल्स के समुद्री तटों पर हजारों नीले रंग के वेलेला वेलेला बहकर पहुंच गए हैं। वैज्ञानिक इसके पीछे भीषण गर्मी और तेज हवाओं को वजह मान रहे हैं। समुद्र किनारे बिछ गई नीले जीवों की चादर, लोग बोले- ये धरती के नहीं, किसी दूसरे ग्रह के मेहमान हैं।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "समुद्र किनारे बिछ गई नीले जीवों की चादर, लोग बोले- ये धरती के नहीं, किसी दूसरे ग्रह के मेहमान हैं",
+          "summary": "ब्रिटेन के सेंट बीस बीच और वेल्स के समुद्री तटों पर हजारों नीले रंग के वेलेला वेलेला बहकर पहुंच गए हैं। वैज्ञानिक इसके पीछे भीषण गर्मी और तेज हवाओं को वजह मान रहे हैं। समुद्र किनारे बिछ गई नीले जीवों की चादर, लोग बोले- ये धरती के नहीं, किसी दूसरे ग्रह के मेहमान हैं।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "सलमान खान ने बताया कितना घटाया वजन, वायरल वीडियो से अभिनेता की सेहत को लेकर चिंतित हुए थे फैंस",
+      "url": "https://www.amarujala.com/entertainment/bollywood/salman-khan-reveals-he-lost-16-kg-amid-viral-video-sparking-health-concerns-2026-08-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-04T04:31:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/06/salmana-khana_619a7275396ce19aa782f0d85d1818a2.jpeg?w=1200&dpr=1.0",
+      "summary": "सलमान खान के वजन घटाने की जानकारी सामने आई है, उनके स्लम रिहैबिलिटेशन अथॉरिटी ऑफिस जाने के वीडियो ने फैंस को चिंतित किया था। हाल ही में सलमान खान के स्लम रिहैबिलिटेशन अथॉरिटी ऑफिस जाने के एक वीडियो ने फैंस को उनकी सेहत को लेकर चिंता में डाल दिया। सलमान खान ने बताया कितना घटाया वजन, वायरल वीडियो से अभिनेता की सेहत को लेकर चिंतित हुए थे फैंस।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सलमान खान ने बताया कितना घटाया वजन, वायरल वीडियो से अभिनेता की सेहत को लेकर चिंतित हुए थे फैंस",
+          "summary": "सलमान खान के वजन घटाने की जानकारी सामने आई है, उनके स्लम रिहैबिलिटेशन अथॉरिटी ऑफिस जाने के वीडियो ने फैंस को चिंतित किया था। हाल ही में सलमान खान के स्लम रिहैबिलिटेशन अथॉरिटी ऑफिस जाने के एक वीडियो ने फैंस को उनकी सेहत को लेकर चिंता में डाल दिया। सलमान खान ने बताया कितना घटाया वजन, वायरल वीडियो से अभिनेता की सेहत को लेकर चिंतित हुए थे फैंस।",
+          "region": "दुनिया"
         }
       }
     },
@@ -384,7 +546,7 @@
       "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-update-tehran-denies-talks-with-iran-trump-warns-it-as-last-chance-livenews-10716053.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-04T02:56:37+00:00",
+      "published_at": "2026-08-04T04:27:40+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/IRAN-US-2026-07-8b895dbd82496de473b3fd24bfeba598-1200x800.jpg",
       "summary": "ईरान ने अमेरिका से बातचीत से इनकार कर दिया है, डोनाल्ड ट्रंप की वॉर्निंग के बाद. Iran-US War Live Update: ईरान-अमेरिका युद्ध के बीच में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को वॉर्निंग देते हुए कहा है कि अब उसके पास बातचीत का ये आखिरी मौका है. वहीं तेहरान की ओर से इस पर बेहद अकड़भरा जवाब आया है कि वो वॉशिंगटन से किसी तरह की बातचीत नहीं करेगा.",
       "region": "Middle East & Africa",
@@ -398,146 +560,182 @@
       }
     },
     {
-      "title": "Jio ने लॉन्च किए नए Jio Home Packs: ₹400 से शुरू, एक ही प्लान में Wi-Fi, TV और 12 OTT Apps का मजा",
-      "url": "https://www.amarujala.com/photo-gallery/technology/tech-diary/jio-home-packs-launch-rs-400-wifi-tv-ott-plans-details-hindi-2026-08-04",
+      "title": "प्रशांत किशोर की शानदार जीत के बीच, नीतीश-लालू की हार की क्यों हो रही चर्चा?",
+      "url": "https://www.amarujala.com/video/india-news/bankipur-election-amidst-prashant-kishor-s-spectacular-victory-why-is-the-defeat-of-nitish-and-lalu-being-d-2026-08-04",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-08-04T02:46:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/07/24/jio_f1f2f9cedb693444f90255d015a1cb37.jpeg?w=1200&dpr=1.0",
-      "summary": "Jio Home Packs: घर के लिए अलग-अलग इंटरनेट, टीवी और OTT प्लान लेने की झंझट अब खत्म हो सकती है।",
+      "published_at": "2026-08-04T04:24:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/parashata-kashara-ka-shanathara-jata-ka-bca-natasha-ll-ka-hara-ka-kaya-ha-raha-caraca_983815eadf864ad6436d3a7edf7d1e66.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रशांत किशोर ने बांकीपुर विधानसभा उपचुनाव में 64,151 वोट हासिल कर जीत दर्ज की। बिहार के बांकीपुर विधानसभा उपचुनाव में जनसुराज के संस्थापक प्रशांत किशोर ने 64,151 वोट हासिल कर शानदार जीत दर्ज की। प्रशांत किशोर की शानदार जीत के बीच, नीतीश-लालू की हार की क्यों हो रही चर्चा?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "Jio ने लॉन्च किए नए Jio Home Packs: ₹400 से शुरू, एक ही प्लान में Wi-Fi, TV और 12 OTT Apps का मजा",
-          "summary": "Jio Home Packs: घर के लिए अलग-अलग इंटरनेट, टीवी और OTT प्लान लेने की झंझट अब खत्म हो सकती है।",
+          "title": "प्रशांत किशोर की शानदार जीत के बीच, नीतीश-लालू की हार की क्यों हो रही चर्चा?",
+          "summary": "प्रशांत किशोर ने बांकीपुर विधानसभा उपचुनाव में 64,151 वोट हासिल कर जीत दर्ज की। बिहार के बांकीपुर विधानसभा उपचुनाव में जनसुराज के संस्थापक प्रशांत किशोर ने 64,151 वोट हासिल कर शानदार जीत दर्ज की। प्रशांत किशोर की शानदार जीत के बीच, नीतीश-लालू की हार की क्यों हो रही चर्चा?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "'स्पाइडर-मैन 4' ने पांचवें दिन बनाया रिकॉर्ड, 300 करोड़ क्लब से कुछ ही दूर",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/hollywood/spider-man-brand-new-day-box-office-collection-on-day-5-total-earnings-on-monday-in-india-2026-08-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-04T02:41:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/bkasa-oifasa-kalkashana_02d13c56f25ebe279160408b0d9cd88d.jpeg?w=1200&dpr=1.0",
-      "summary": "बॉक्स ऑफिस पर इन दिनों हॉलीवुड फिल्म 'स्पाइडर-मैन- ब्रांड न्यू डे' का जलवा है। 'स्पाइडर-मैन 4' ने पांचवें दिन बनाया रिकॉर्ड, 300 करोड़ क्लब से कुछ ही दूर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'स्पाइडर-मैन 4' ने पांचवें दिन बनाया रिकॉर्ड, 300 करोड़ क्लब से कुछ ही दूर",
-          "summary": "बॉक्स ऑफिस पर इन दिनों हॉलीवुड फिल्म 'स्पाइडर-मैन- ब्रांड न्यू डे' का जलवा है। 'स्पाइडर-मैन 4' ने पांचवें दिन बनाया रिकॉर्ड, 300 करोड़ क्लब से कुछ ही दूर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "घर से निकलने से पहले जरूर करें चेक, महीने भर के लिए कैंसिल हुईं ये ट्रेनें; लिस्ट देखें",
-      "url": "https://www.amarujala.com/photo-gallery/utility/indian-railways-cancelled-trains-for-20-september-to-04-october-2026-kaun-kaun-si-train-cancel-hui-hain-2026-08-03",
+      "title": "धोनी की निगरानी में ऋषभ पंत ने की टेस्ट सीरीज की तैयारी, रांची में माही के साथ अभ्यास करते आए नजर",
+      "url": "https://www.amarujala.com/cricket/cricket-news/ind-vs-sl-rishabh-pant-has-begun-preparations-for-sri-lanka-test-series-with-former-captain-ms-dhoni-2026-08-04",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-08-04T02:35:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/ralva-na-kana-tarana-ka-kasal-kaya-ha_82907b927a00837716da07e035a1f63a.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय रेलवे की तरफ से कई ट्रेनों को 20 सितंबर से 4 अक्तूबर के बीच कैंसिल किया गया है। आप यहां रद्द हुई ट्रेनों की सूची देख सकते हैं। घर से निकलने से पहले जरूर करें चेक, महीने भर के लिए कैंसिल हुईं ये ट्रेनें; लिस्ट देखें।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "घर से निकलने से पहले जरूर करें चेक, महीने भर के लिए कैंसिल हुईं ये ट्रेनें; लिस्ट देखें",
-          "summary": "भारतीय रेलवे की तरफ से कई ट्रेनों को 20 सितंबर से 4 अक्तूबर के बीच कैंसिल किया गया है। आप यहां रद्द हुई ट्रेनों की सूची देख सकते हैं। घर से निकलने से पहले जरूर करें चेक, महीने भर के लिए कैंसिल हुईं ये ट्रेनें; लिस्ट देखें।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सुप्रीम कोर्ट से झटका खाने के बाद ट्रंप का नया दांव! 25 राज्यों ने खोला कानूनी मोर्चा, टैरिफ पर फिर",
-      "url": "https://www.patrika.com/world-news/trump-tariffs-25-states-sue-us-government-supreme-court-section-301-tariff-dispute-20803434",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-04T02:35:10+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Donald-Trump-Tariff-News.webp",
-      "summary": "US Supreme Court Tariff Ruling: अमेरिका में आयात शुल्क (टैरिफ) को लेकर एक बार फिर बड़ा विवाद खड़ा हो गया है। राष्ट्रपति डोनाल्ड ट्रंप के प्रशासन द्वारा हाल ही में लागू किए गए नए टैरिफ के खिलाफ 25 राज्यों ने संघीय अदालत का दरवाजा खटखटाया है। राज्यों का आरोप है कि सुप्रीम कोर्ट द्वारा पहले जिन आयात शुल्कों को अवैध ठहराया जा चुका था, उनकी भरपाई के लिए अब नए कानूनी रास्ते का सहारा लिया जा रहा है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सुप्रीम कोर्ट से झटका खाने के बाद ट्रंप का नया दांव! 25 राज्यों ने खोला कानूनी मोर्चा, टैरिफ पर फिर",
-          "summary": "US Supreme Court Tariff Ruling: अमेरिका में आयात शुल्क (टैरिफ) को लेकर एक बार फिर बड़ा विवाद खड़ा हो गया है। राष्ट्रपति डोनाल्ड ट्रंप के प्रशासन द्वारा हाल ही में लागू किए गए नए टैरिफ के खिलाफ 25 राज्यों ने संघीय अदालत का दरवाजा खटखटाया है। राज्यों का आरोप है कि सुप्रीम कोर्ट द्वारा पहले जिन आयात शुल्कों को अवैध ठहराया जा चुका था, उनकी भरपाई के लिए अब नए कानूनी रास्ते का सहारा लिया जा रहा है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान से आजाद हुआ बलूचिस्तान! स्वतंत्रता दिवस भी घोषित, आ चुका है हिंदी-हिंदुओं से जुड़ा",
-      "url": "https://hindi.news18.com/world/pakistan-balochistan-declares-independence-day-august-11-wants-global-recognition-claims-liberation-from-pakistan-10716128.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-04T02:32:54+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/balochistan-news-2026-07-89cf3be670d8514c0cb0894f41b1564e-1200x800.jpg",
-      "summary": "Balochistan Claims Independence from Pakistan: पाकिस्तान के अशांत प्रांत ने खुद को अलग वतन घोषित करके अपने स्वतंत्रता दिवस की तारीख भी बता दी है. बलूचिस्तान 11 अगस्त को अपनी आजादी का दिन मनाएगा और उसने दुनिया से अपील की है कि वे उसे मान्यता दें और पाकिस्तान के चंगुल से आजाद मानें. पाकिस्तान से आजाद हुआ बलूचिस्तान! स्वतंत्रता दिवस भी घोषित, आ चुका है हिंदी-हिंदुओं से जुड़ा।",
+      "published_at": "2026-08-04T04:23:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/ms-dhoni-rishabh-pant-ms-dhoni-viral-photo-rishabh-pant-training-shahbaz-nadeem-india-vs-sri-la_474b4f3f1873fdd391b24cb768db0ee7.jpeg?w=1200&dpr=1.0",
+      "summary": "ऋषभ पंत ने महेंद्र सिंह धोनी की देखरेख में रांची में अभ्यास किया। भारत को इस महीने श्रीलंका के खिलाफ दो मैचों की टेस्ट सीरीज खेलनी है। यह दौरा ऋषभ पंत के लिए काफी अहम होने वाला है। पंत ने इसके लिए तैयारी शुरू कर दी है और उन्होंने रांची में महेंद्र सिंह धोनी की देखरेख में अभ्यास किया है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पाकिस्तान से आजाद हुआ बलूचिस्तान! स्वतंत्रता दिवस भी घोषित, आ चुका है हिंदी-हिंदुओं से जुड़ा",
-          "summary": "Balochistan Claims Independence from Pakistan: पाकिस्तान के अशांत प्रांत ने खुद को अलग वतन घोषित करके अपने स्वतंत्रता दिवस की तारीख भी बता दी है. बलूचिस्तान 11 अगस्त को अपनी आजादी का दिन मनाएगा और उसने दुनिया से अपील की है कि वे उसे मान्यता दें और पाकिस्तान के चंगुल से आजाद मानें. पाकिस्तान से आजाद हुआ बलूचिस्तान! स्वतंत्रता दिवस भी घोषित, आ चुका है हिंदी-हिंदुओं से जुड़ा।",
+          "title": "धोनी की निगरानी में ऋषभ पंत ने की टेस्ट सीरीज की तैयारी, रांची में माही के साथ अभ्यास करते आए नजर",
+          "summary": "ऋषभ पंत ने महेंद्र सिंह धोनी की देखरेख में रांची में अभ्यास किया। भारत को इस महीने श्रीलंका के खिलाफ दो मैचों की टेस्ट सीरीज खेलनी है। यह दौरा ऋषभ पंत के लिए काफी अहम होने वाला है। पंत ने इसके लिए तैयारी शुरू कर दी है और उन्होंने रांची में महेंद्र सिंह धोनी की देखरेख में अभ्यास किया है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "तमिलनाडु में उदयनिधि स्टालिन के बयान पर बवाल: तृषा पर की विवादित टिप्पणी, TVK ने साधा निशाना; BJP",
-      "url": "https://www.amarujala.com/india-news/udayanidhi-stalin-trisha-comment-row-tvk-bjp-cauvery-water-dispute-2026-08-04",
+      "title": "कर्नाटक पेपर लीक को लेकर भाजपा ने उठाए सवाल, कहा- कांग्रेस के दोहरे चरित्र पर हैरानी होती है",
+      "url": "https://www.amarujala.com/india-news/bjp-press-conference-on-opposition-ruckas-in-parliament-session-karnataka-papaer-leak-2026-08-04",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-08-04T02:26:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/udhayanidhi-stalin_b1b0bcc79c2f076e5b13042d40dc77e6.jpeg?w=1200&dpr=1.0",
-      "summary": "उदयनिधि स्टालिन ने तृषा पर विवादित टिप्पणी की। टीवीके ने उन पर निशाना साधा। बीजेपी ने भी बयान दिया। तमिलनाडु में उदयनिधि स्टालिन के बयान पर बवाल: तृषा पर की विवादित टिप्पणी, TVK ने साधा निशाना; BJP क्या बोली?",
+      "published_at": "2026-08-04T04:19:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/05/21/avoidable-misunderstanding-sambit-patra-on-manipur-security-forces-concealing-states-name-on-bus_939e07b8191d33ca2a3e6baad511471a.jpeg?w=1200&dpr=1.0",
+      "summary": "भाजपा ने कर्नाटक पेपर लीक पर सवाल उठाए, कांग्रेस के दोहरे चरित्र पर हैरानी जताई। BJP: कर्नाटक पेपर लीक को लेकर भाजपा ने उठाए सवाल, कहा- कांग्रेस के दोहरे चरित्र पर हैरानी होती है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "तमिलनाडु में उदयनिधि स्टालिन के बयान पर बवाल: तृषा पर की विवादित टिप्पणी, TVK ने साधा निशाना; BJP",
-          "summary": "उदयनिधि स्टालिन ने तृषा पर विवादित टिप्पणी की। टीवीके ने उन पर निशाना साधा। बीजेपी ने भी बयान दिया। तमिलनाडु में उदयनिधि स्टालिन के बयान पर बवाल: तृषा पर की विवादित टिप्पणी, TVK ने साधा निशाना; BJP क्या बोली?",
+          "title": "कर्नाटक पेपर लीक को लेकर भाजपा ने उठाए सवाल, कहा- कांग्रेस के दोहरे चरित्र पर हैरानी होती है",
+          "summary": "भाजपा ने कर्नाटक पेपर लीक पर सवाल उठाए, कांग्रेस के दोहरे चरित्र पर हैरानी जताई। BJP: कर्नाटक पेपर लीक को लेकर भाजपा ने उठाए सवाल, कहा- कांग्रेस के दोहरे चरित्र पर हैरानी होती है।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "17 अगस्त से दूसरा चरण, जाति व माता-पिता के जन्म की भी देनी होगी जानकारी; क्या-क्या पूछा जाएगा?",
-      "url": "https://www.amarujala.com/india-news/census-2027-phase-2-to-begin-from-17-august-caste-and-parents-birth-details-2026-08-04",
+      "title": "Meta, X और YouTube कैसे हटाते हैं पोस्ट और वीडियो: किस नियम के तहत होता है कंटेंट पर एक्शन, समझिए",
+      "url": "https://www.amarujala.com/photo-gallery/technology/tech-diary/pm-modi-video-removed-facebook-meta-x-youtube-content-moderation-policies-explained-2026-08-04",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-08-04T02:20:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/02/caste-census-2026-bihar-census-work-starts-enumerators-ask-questions-bihar-news_8c3172b4f2ab01875c1a2f03a5866b3f.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत में 17 अगस्त से जनगणना 2027 का दूसरा चरण शुरू होगा। इस चरण में लोगों को अपनी जाति और माता-पिता के जन्म स्थान की जानकारी देनी होगी। जनगणना में लोगों से उनके परिवार, आय, शिक्षा और रोजगार के बारे में भी पूछा जाएगा। जनगणना 2027: जाति और माता-पिता के जन्म की भी देनी होगी जानकारी, क्या-क्या पूछा जाएगा? 17 अगस्त से दूसरा चरण, जाति व माता-पिता के जन्म की भी देनी होगी जानकारी; क्या-क्या पूछा जाएगा?",
+      "published_at": "2026-08-04T04:14:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/20/facebook-rolls-out-passkey_16b7f055e4b1a1748a164ceabd375aec.jpeg?w=1200&dpr=1.0",
+      "summary": "मेटा, यूट्यूब और एक्स जैसी कंपनियां कंटेंट हटाने का फैसला कैसे लेती हैं, इसके नियम समझाए गए। हाल ही में पीएम मोदी का एक वीडियो फेसबुक से हटाए जाने के बाद सरकार और सोशल मीडिया कंपनियों के बीच टकराव बढ़ गया है। आखिर मेटा, यूट्यूब और एक्स जैसी कंपनियां करोड़ों पोस्ट्स के बीच कंटेंट हटाने का फैसला कैसे लेती हैं?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "17 अगस्त से दूसरा चरण, जाति व माता-पिता के जन्म की भी देनी होगी जानकारी; क्या-क्या पूछा जाएगा?",
-          "summary": "भारत में 17 अगस्त से जनगणना 2027 का दूसरा चरण शुरू होगा। इस चरण में लोगों को अपनी जाति और माता-पिता के जन्म स्थान की जानकारी देनी होगी। जनगणना में लोगों से उनके परिवार, आय, शिक्षा और रोजगार के बारे में भी पूछा जाएगा। जनगणना 2027: जाति और माता-पिता के जन्म की भी देनी होगी जानकारी, क्या-क्या पूछा जाएगा? 17 अगस्त से दूसरा चरण, जाति व माता-पिता के जन्म की भी देनी होगी जानकारी; क्या-क्या पूछा जाएगा?",
+          "title": "Meta, X और YouTube कैसे हटाते हैं पोस्ट और वीडियो: किस नियम के तहत होता है कंटेंट पर एक्शन, समझिए",
+          "summary": "मेटा, यूट्यूब और एक्स जैसी कंपनियां कंटेंट हटाने का फैसला कैसे लेती हैं, इसके नियम समझाए गए। हाल ही में पीएम मोदी का एक वीडियो फेसबुक से हटाए जाने के बाद सरकार और सोशल मीडिया कंपनियों के बीच टकराव बढ़ गया है। आखिर मेटा, यूट्यूब और एक्स जैसी कंपनियां करोड़ों पोस्ट्स के बीच कंटेंट हटाने का फैसला कैसे लेती हैं?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "हॉर्मुज में फिर हमला! ओमान तट के पास कार्गो शिप को बनाया निशाना, UKMTO ने जारी किया अलर्ट",
-      "url": "https://www.patrika.com/world-news/hormuz-strait-cargo-ship-projectile-attack-ukmto-investigation-20803320",
-      "source": "Patrika (World)",
+      "title": "एनडीए संसदीय दल की बैठक मंगल मिलन शुरू, संसद सत्र के लिए बनाएंगे रणनीति",
+      "url": "https://www.amarujala.com/india-news/mangal-milan-meet-nda-parliamentary-party-strategy-parliament-house-today-2026-08-04",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-08-04T02:02:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/hormuz-Strait-1.webp",
-      "summary": "ओमान के अल खासब से लगभग 20 समुद्री मील उत्तर-पूर्व में एक कार्गो शिप पर हमला हुआ। यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस ने घटना की पुष्टि की है। अधिकारी मामले की जांच कर रहे हैं। Strait of Hormuz Attack: होर्मुज स्ट्रेट में व्यापारिक जहाजों पर हमले थमने का नाम नहीं ले रहे हैं। ओमान के अल खासब से लगभग 20 समुद्री मील उत्तर-पूर्व में एक कार्गो शिप के प्रोजेक्टाइल की चपेट में खबर है।",
+      "published_at": "2026-08-04T04:05:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/nda-meeting_8ff975217ef0044bb3c73626492ec366.jpeg?w=1200&dpr=1.0",
+      "summary": "एनडीए संसदीय दल की बैठक मंगल मिलन शुरू हुई। संसद सत्र के लिए रणनीति बनाएंगे। Mangal Milan Meet: एनडीए संसदीय दल की बैठक मंगल मिलन शुरू, संसद सत्र के लिए बनाएंगे रणनीति।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एनडीए संसदीय दल की बैठक मंगल मिलन शुरू, संसद सत्र के लिए बनाएंगे रणनीति",
+          "summary": "एनडीए संसदीय दल की बैठक मंगल मिलन शुरू हुई। संसद सत्र के लिए रणनीति बनाएंगे। Mangal Milan Meet: एनडीए संसदीय दल की बैठक मंगल मिलन शुरू, संसद सत्र के लिए बनाएंगे रणनीति।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मृणाल ठाकुर ने एआई डीपफेक को लेकर दी कानूनी चेतावनी, कहा, 'मेरी शक्ल का इस्तेमाल...'",
+      "url": "https://www.amarujala.com/entertainment/bollywood/mrunal-thakur-issues-legal-warning-over-ai-deepfakes-says-consider-this-your-formal-notice-2026-08-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-04T04:02:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/manael-thakara_afefefb88eda121b7fcd0bef1d3a384f.jpeg?w=1200&dpr=1.0",
+      "summary": "मृणाल ठाकुर ने एआई डीपफेक को लेकर कानूनी चेतावनी दी। अपनी शक्ल का इस्तेमाल न करने को कहा। आर्टिफिशियल इंटेलिजेंस (एआई) के गलत इस्तेमाल से दुनिया भर के लोगों, खासकर मशहूर हस्तियों के बीच चिंता बढ़ रही है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मृणाल ठाकुर ने एआई डीपफेक को लेकर दी कानूनी चेतावनी, कहा, 'मेरी शक्ल का इस्तेमाल...'",
+          "summary": "मृणाल ठाकुर ने एआई डीपफेक को लेकर कानूनी चेतावनी दी। अपनी शक्ल का इस्तेमाल न करने को कहा। आर्टिफिशियल इंटेलिजेंस (एआई) के गलत इस्तेमाल से दुनिया भर के लोगों, खासकर मशहूर हस्तियों के बीच चिंता बढ़ रही है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जिगरी दोस्त की वजह से शुरू होगा आकिब नबी का टेस्ट सपना, पिता के एक फैसले ने किस तरह बदल दी जिंदगी?",
+      "url": "https://www.amarujala.com/cricket/cricket-news/india-tour-of-sri-lanka-auqib-nabi-s-test-dream-began-with-a-best-friend-s-timely-intervention-know-story-2026-08-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-04T03:46:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/ind_4af6828486c21ed54aeca47e0f99d957.jpeg?w=1200&dpr=1.0",
+      "summary": "आकिब नबी भारत के लिए टेस्ट डेब्यू करने के करीब हैं। घरेलू क्रिकेट में दमदार प्रदर्शन किया। नबी ने घरेलू क्रिकेट में दमदार प्रदर्शन की बदौलत राष्ट्रीय टीम में जगह बनाई है। पहले उन्हें श्रीलंका के खिलाफ टेस्ट सीरीज के लिए नहीं चुना गया था। जिगरी दोस्त की वजह से शुरू होगा आकिब नबी का टेस्ट सपना, पिता के एक फैसले ने किस तरह बदल दी जिंदगी?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जिगरी दोस्त की वजह से शुरू होगा आकिब नबी का टेस्ट सपना, पिता के एक फैसले ने किस तरह बदल दी जिंदगी?",
+          "summary": "आकिब नबी भारत के लिए टेस्ट डेब्यू करने के करीब हैं। घरेलू क्रिकेट में दमदार प्रदर्शन किया। नबी ने घरेलू क्रिकेट में दमदार प्रदर्शन की बदौलत राष्ट्रीय टीम में जगह बनाई है। पहले उन्हें श्रीलंका के खिलाफ टेस्ट सीरीज के लिए नहीं चुना गया था। जिगरी दोस्त की वजह से शुरू होगा आकिब नबी का टेस्ट सपना, पिता के एक फैसले ने किस तरह बदल दी जिंदगी?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "हिंदू संत चिन्मय दास की जमानत के तुरंत बाद बांग्लादेश ने भारत से क्या मांगा? शेख हसीना से जुड़ी है",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-demands-india-to-stop-former-pm-sheikh-hasina-virtual-address-on-5th-august-ws-l-10716324.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-04T03:46:00+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Sheikh-Haseena-File-Photo-2026-08-1ad93965dbac1baa339a525f9a0d00f7-1200x800.jpg",
+      "summary": "बांग्लादेश ने भारत से शेख हसीना के प्रत्यर्पण की मांग की। हिंदू संत चिन्मय दास की जमानत के बाद यह मांग की। Bangladesh Urges India to Stop Sheikh Hasina: बांग्लादेश और भारत के बीच रिश्तों में जो तनाव आए, उसकी एक वजह यहां की पूर्व पीएम शेख हसीना का भारत में शरण लेना भी है. अंतरिम सरकार के वक्त से ही बांग्लादेश चाहता है कि शेख हसीना का प्रत्यर्पण हो जाए लेकिन भारत नहीं माना.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिंदू संत चिन्मय दास की जमानत के तुरंत बाद बांग्लादेश ने भारत से क्या मांगा? शेख हसीना से जुड़ी है",
+          "summary": "बांग्लादेश ने भारत से शेख हसीना के प्रत्यर्पण की मांग की। हिंदू संत चिन्मय दास की जमानत के बाद यह मांग की। Bangladesh Urges India to Stop Sheikh Hasina: बांग्लादेश और भारत के बीच रिश्तों में जो तनाव आए, उसकी एक वजह यहां की पूर्व पीएम शेख हसीना का भारत में शरण लेना भी है. अंतरिम सरकार के वक्त से ही बांग्लादेश चाहता है कि शेख हसीना का प्रत्यर्पण हो जाए लेकिन भारत नहीं माना.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'ईरान के पास बातचीत का आखिरी मौका': ट्रंप ने तेहरान को फिर दी धमकी; ईरानी विदेश मंत्रालय ने क्या",
+      "url": "https://www.amarujala.com/world/trump-gives-last-chance-to-iran-for-talks-iran-foreign-ministry-response-2026-08-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-04T03:22:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/danalda-tarapa-amaraka-rashhatarapata_4e81a5074ab8e4b4c5a564edf60c9a93.jpeg?w=1200&dpr=1.0",
+      "summary": "ट्रंप ने ईरान को बातचीत का आखिरी मौका दिया। ईरानी विदेश मंत्रालय ने जवाब दिया। 'ईरान के पास बातचीत का आखिरी मौका': ट्रंप ने तेहरान को फिर दी धमकी; ईरानी विदेश मंत्रालय ने क्या कहा?",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हॉर्मुज में फिर हमला! ओमान तट के पास कार्गो शिप को बनाया निशाना, UKMTO ने जारी किया अलर्ट",
-          "summary": "ओमान के अल खासब से लगभग 20 समुद्री मील उत्तर-पूर्व में एक कार्गो शिप पर हमला हुआ। यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस ने घटना की पुष्टि की है। अधिकारी मामले की जांच कर रहे हैं। Strait of Hormuz Attack: होर्मुज स्ट्रेट में व्यापारिक जहाजों पर हमले थमने का नाम नहीं ले रहे हैं। ओमान के अल खासब से लगभग 20 समुद्री मील उत्तर-पूर्व में एक कार्गो शिप के प्रोजेक्टाइल की चपेट में खबर है।",
+          "title": "'ईरान के पास बातचीत का आखिरी मौका': ट्रंप ने तेहरान को फिर दी धमकी; ईरानी विदेश मंत्रालय ने क्या",
+          "summary": "ट्रंप ने ईरान को बातचीत का आखिरी मौका दिया। ईरानी विदेश मंत्रालय ने जवाब दिया। 'ईरान के पास बातचीत का आखिरी मौका': ट्रंप ने तेहरान को फिर दी धमकी; ईरानी विदेश मंत्रालय ने क्या कहा?",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कई राज्यों में आज भारी बारिश का रेड अलर्ट, आंधी-तूफान की भी आशंका; दिल्ली-एनसीआर में कैसा रहेगा",
+      "url": "https://www.amarujala.com/india-news/weather-imd-issue-red-alert-for-many-states-of-heavy-rain-2026-08-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-04T03:15:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/28/rain-chandigarh-weather_267796d5f550a8fa9b84d38449cbad8c.jpeg?w=1200&dpr=1.0",
+      "summary": "कई राज्यों में आज भारी बारिश का रेड अलर्ट जारी किया गया है, आंधी-तूफान की भी आशंका है। Weather: कई राज्यों में आंधी-तूफान और भारी बारिश का रेड अलर्ट, आंधी-तूफान की भी आशंका। कई राज्यों में आज भारी बारिश का रेड अलर्ट, आंधी-तूफान की भी आशंका; दिल्ली-एनसीआर में कैसा रहेगा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कई राज्यों में आज भारी बारिश का रेड अलर्ट, आंधी-तूफान की भी आशंका; दिल्ली-एनसीआर में कैसा रहेगा",
+          "summary": "कई राज्यों में आज भारी बारिश का रेड अलर्ट जारी किया गया है, आंधी-तूफान की भी आशंका है। Weather: कई राज्यों में आंधी-तूफान और भारी बारिश का रेड अलर्ट, आंधी-तूफान की भी आशंका। कई राज्यों में आज भारी बारिश का रेड अलर्ट, आंधी-तूफान की भी आशंका; दिल्ली-एनसीआर में कैसा रहेगा।",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -546,7 +744,7 @@
       "url": "https://hindi.news18.com/world/middle-east-strait-of-hormuz-cargo-vessel-hit-by-unknown-projectile-off-oman-according-to-ukmto-10716086.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-04T01:57:31+00:00",
+      "published_at": "2026-08-04T03:13:24+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Iran-Vs-America-In-Hormuz-2026-07-73f92c1016bf37a70e534ae0cf7dc6d7-1200x800.jpg",
       "summary": "स्ट्रेट ऑफ होर्मुज में एक कार्गो जहाज पर अज्ञात प्रोजेक्टाइल से हमला हुआ। Cargo Vessel Hit by unknown Projectile: स्ट्रेट ऑफ होर्मुज में एक बार फिर से हंगामा तब हो गया, जब यहां से गुजर रहे एक कार्गो जहाज पर अज्ञात प्रोजेक्टाइल से हमले की खबर आई. UKMTO का कहना है कि कार्गो जहाज पर सुबह-सुबह हमला हुआ. फिलहाल इस मामले में किसी नुकसान या चोट के बारे में जानकारी नहीं दी गई है.",
       "region": "Middle East & Africa",
@@ -555,204 +753,6 @@
         "hi": {
           "title": "होर्मुज में फिर उठा बवाल, ओमान के पास कार्गो शिप पर हमला, अज्ञात प्रोजेक्टाइल ने मारा",
           "summary": "स्ट्रेट ऑफ होर्मुज में एक कार्गो जहाज पर अज्ञात प्रोजेक्टाइल से हमला हुआ। Cargo Vessel Hit by unknown Projectile: स्ट्रेट ऑफ होर्मुज में एक बार फिर से हंगामा तब हो गया, जब यहां से गुजर रहे एक कार्गो जहाज पर अज्ञात प्रोजेक्टाइल से हमले की खबर आई. UKMTO का कहना है कि कार्गो जहाज पर सुबह-सुबह हमला हुआ. फिलहाल इस मामले में किसी नुकसान या चोट के बारे में जानकारी नहीं दी गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "चीन में हर विदेशी पर रहती है खुफिया नजर? डाटा लीक ने खोली पोल, हर गतिविधि की बनती है डिजिटल प्रोफाइल",
-      "url": "https://www.amarujala.com/world/china-surveillance-leak-data-exposure-reveals-real-time-monitoring-of-foreign-visitors-and-digital-profiling-2026-08-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-04T01:46:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/china-surveillance-china-spy-system_045c7813973b9137b68c158b0b1f4ea9.jpeg?w=1200&dpr=1.0",
-      "summary": "चीन में विदेशियों पर खुफिया नजर रहती है, डाटा लीक से यह बात सामने आई। China: चीन में हर विदेशी पर रहती है खुफिया नजर? डाटा लीक ने खोली पोल, हर गतिविधि की बनती है डिजिटल प्रोफाइल।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन में हर विदेशी पर रहती है खुफिया नजर? डाटा लीक ने खोली पोल, हर गतिविधि की बनती है डिजिटल प्रोफाइल",
-          "summary": "चीन में विदेशियों पर खुफिया नजर रहती है, डाटा लीक से यह बात सामने आई। China: चीन में हर विदेशी पर रहती है खुफिया नजर? डाटा लीक ने खोली पोल, हर गतिविधि की बनती है डिजिटल प्रोफाइल।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यूपी पीईटी में किन विषयों से पूछे जाएंगे प्रश्न, क्या है सिलेबस और एग्जाम पैटर्न?",
-      "url": "https://www.amarujala.com/jobs/government-jobs/up-pet-2026-syllabus-exam-pattern-marking-scheme-eligibility-and-jobs-you-can-apply-for-2026-08-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-04T01:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/08/13/books_df2164bf7797df4fdbc7fff5dbf2e9c2.jpeg?w=1200&dpr=1.0",
-      "summary": "UP PET 2026 Syllabus: यूपीएसएसएससी ने पीईटी-2026 के लिए पंजीकरण प्रक्रिया शुरू कर दी है। उम्मीदवार 1 सितंबर 2026 तक आवेदन कर सकते हैं। परीक्षा तिथि अभी घोषित नहीं हुई है। आप इस खबर में जानेंगे कि UP PET 2026 का सिलेबस क्या है। यूपी पीईटी में किन विषयों से पूछे जाएंगे प्रश्न, क्या है सिलेबस और एग्जाम पैटर्न?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपी पीईटी में किन विषयों से पूछे जाएंगे प्रश्न, क्या है सिलेबस और एग्जाम पैटर्न?",
-          "summary": "UP PET 2026 Syllabus: यूपीएसएसएससी ने पीईटी-2026 के लिए पंजीकरण प्रक्रिया शुरू कर दी है। उम्मीदवार 1 सितंबर 2026 तक आवेदन कर सकते हैं। परीक्षा तिथि अभी घोषित नहीं हुई है। आप इस खबर में जानेंगे कि UP PET 2026 का सिलेबस क्या है। यूपी पीईटी में किन विषयों से पूछे जाएंगे प्रश्न, क्या है सिलेबस और एग्जाम पैटर्न?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "यूपी आईटीआई दाखिले के लिए आवेदन का आज आखिरी मौका, तुरंत भरें फॉर्म, इतनी है फीस",
-      "url": "https://www.amarujala.com/education/up-iti-admission-2026-registration-closes-today-check-eligibility-fee-and-how-to-apply-2026-08-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-04T01:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/08/04/atama-tatha_b036056dc14d05e75b06281e488c1e5a.jpeg?w=1200&dpr=1.0",
-      "summary": "UP ITI Admission 2026: उत्तर प्रदेश आईटीआई प्रवेश 2026 के लिए आवेदन की अंतिम तिथि आज, 4 अगस्त है। इच्छुक और पात्र अभ्यर्थी आज ही एससीवीटी (SCVT) की आधिकारिक वेबसाइट पर जाकर आवेदन पूरा कर सकते हैं। आवेदन के बाद कन्फर्मेशन पेज डाउनलोड करना न भूलें। यूपी आईटीआई दाखिले के लिए आवेदन का आज आखिरी मौका, तुरंत भरें फॉर्म, इतनी है फीस।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपी आईटीआई दाखिले के लिए आवेदन का आज आखिरी मौका, तुरंत भरें फॉर्म, इतनी है फीस",
-          "summary": "UP ITI Admission 2026: उत्तर प्रदेश आईटीआई प्रवेश 2026 के लिए आवेदन की अंतिम तिथि आज, 4 अगस्त है। इच्छुक और पात्र अभ्यर्थी आज ही एससीवीटी (SCVT) की आधिकारिक वेबसाइट पर जाकर आवेदन पूरा कर सकते हैं। आवेदन के बाद कन्फर्मेशन पेज डाउनलोड करना न भूलें। यूपी आईटीआई दाखिले के लिए आवेदन का आज आखिरी मौका, तुरंत भरें फॉर्म, इतनी है फीस।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरान में अब तक 50 जासूसी के आरोपियों को फांसी; ट्रंप बोले- तेहरान के पास अंतिम अवसर, कब थमेगी जंग?",
-      "url": "https://www.amarujala.com/world/west-asia-tension-iran-espionage-israel-trump-last-chance-hormuz-military-airstrikes-centcom-irgc-pezeshkian-2026-08-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-04T01:27:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/06/west-asia-crisis-live-us-iran-israel-war-day-7-us-army-irgc-turkiye-war-updates-and-news-in-hin_a0aa2afe0c126f011b15e33e5f2007e2.gif?w=1200&dpr=1.0",
-      "summary": "West Asia: ईरान में अब तक 50 जासूसी के आरोपियों को फांसी; ट्रंप बोले- तेहरान के पास अंतिम अवसर, कब थमेगी जंग?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान में अब तक 50 जासूसी के आरोपियों को फांसी; ट्रंप बोले- तेहरान के पास अंतिम अवसर, कब थमेगी जंग?",
-          "summary": "West Asia: ईरान में अब तक 50 जासूसी के आरोपियों को फांसी; ट्रंप बोले- तेहरान के पास अंतिम अवसर, कब थमेगी जंग?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘चिल्लाओगी नहीं तो मारेंगे नहीं...’, बेटे से बोले- तुम्हें तो रोज देखता हूं स्कूल जाते हुए, कानपुर",
-      "url": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-robbery-case-if-you-dont-scream-we-wont-hit-you-told-the-son-i-see-you-going-to-school-every-day-2026-08-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-04T01:24:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/kanpur_5c36ca85bc87fdc41b72d9032c74aac4.jpeg?w=1200&dpr=1.0",
-      "summary": "कानपुर में शिक्षक शरद चंद्र त्रिपाठी के घर पर लूट से पहले बदमाशों ने रेकी की। कानपुर में शिक्षक शरद चंद्र त्रिपाठी के घर पर हुई लूट से पहले बदमाशों ने घर की रेकी की थी। यही वजह है कि तीनों नकाबपोश सिर्फ कैमरे में ही कैद हो पाए। ‘चिल्लाओगी नहीं तो मारेंगे नहीं ’, बेटे से बोले- तुम्हें तो रोज देखता हूं स्कूल जाते हुए, कानपुर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘चिल्लाओगी नहीं तो मारेंगे नहीं...’, बेटे से बोले- तुम्हें तो रोज देखता हूं स्कूल जाते हुए, कानपुर",
-          "summary": "कानपुर में शिक्षक शरद चंद्र त्रिपाठी के घर पर लूट से पहले बदमाशों ने रेकी की। कानपुर में शिक्षक शरद चंद्र त्रिपाठी के घर पर हुई लूट से पहले बदमाशों ने घर की रेकी की थी। यही वजह है कि तीनों नकाबपोश सिर्फ कैमरे में ही कैद हो पाए। ‘चिल्लाओगी नहीं तो मारेंगे नहीं ’, बेटे से बोले- तुम्हें तो रोज देखता हूं स्कूल जाते हुए, कानपुर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सावन का पहला मंगला गौरी व्रत आज, जानें पूजा विधि, मंत्र और खास नियम",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/mangla-gauri-vrat-2026-puja-vidhi-mantra-mangla-gauri-vrat-ke-niyam-in-hindi-2026-08-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-04T01:23:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/mangla-gauri-vrat_9958f8742b9783c68ead9b0b807998c3.jpeg?w=1200&dpr=1.0",
-      "summary": "इस बार सावन में पहला मंगला गौरी व्रत 4 अगस्त को रखा जाएगा। इस दिन भगवान शिव और माता पार्वती की श्रद्धा से पूजा करने पर वैवाहिक जीवन में प्रेम, सौहार्द और स्थिरता बनी रहती है। आइए जानते हैं व्रत की विधि, नियम और मंत्र जाप सावन का पहला मंगला गौरी व्रत आज, जानें पूजा विधि, मंत्र और खास नियम।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सावन का पहला मंगला गौरी व्रत आज, जानें पूजा विधि, मंत्र और खास नियम",
-          "summary": "इस बार सावन में पहला मंगला गौरी व्रत 4 अगस्त को रखा जाएगा। इस दिन भगवान शिव और माता पार्वती की श्रद्धा से पूजा करने पर वैवाहिक जीवन में प्रेम, सौहार्द और स्थिरता बनी रहती है। आइए जानते हैं व्रत की विधि, नियम और मंत्र जाप सावन का पहला मंगला गौरी व्रत आज, जानें पूजा विधि, मंत्र और खास नियम।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "एनडीए सांसदों का मंगल मिलन, प्रधानमंत्री आवास की ओर मार्च करेंगे अरविंद केजरीवाल",
-      "url": "https://www.amarujala.com/india-news/4-august-2026-major-event-2026-08-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-04T01:18:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/aaja-ka-khabra_979ae41ee6b4b998991eb5a5426a3fad.gif?w=1200&dpr=1.0",
-      "summary": "4 August 2026 Major Event. एनडीए सांसदों का मंगल मिलन, प्रधानमंत्री आवास की ओर मार्च करेंगे अरविंद केजरीवाल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एनडीए सांसदों का मंगल मिलन, प्रधानमंत्री आवास की ओर मार्च करेंगे अरविंद केजरीवाल",
-          "summary": "4 August 2026 Major Event. एनडीए सांसदों का मंगल मिलन, प्रधानमंत्री आवास की ओर मार्च करेंगे अरविंद केजरीवाल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "वज्र था रूसी मिग-25, IAF का बैकबोन बना ये जेट, मगर US ने SR-71 को पहुंचाया म्यूजियम, अब हम क्यों",
-      "url": "https://hindi.news18.com/world/south-asia-russia-mig-25-with-heavy-steel-body-backed-indian-air-force-us-hid-its-technology-why-buy-f-35-weapons-race-ws-l-10715016.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-04T01:09:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/MIG-SR-71-2026-08-c942d37693666c94f20143a506aca4ae-1200x800.jpg",
-      "summary": "रूसी मिग-25 जेट भारतीय वायु सेना का महत्वपूर्ण हिस्सा बन गया है. Russia MiG-25 VS SR-71: जब शीतयुद्ध के बाद दुनिया अपनी-अपनी ताकत बढ़ा रही थी तो दुनिया के मंच पर दो ताकतें मौजूद थीं - अमेरिका और सोवियत संघ यानि इस वक्त का रूस. इन दोनों ने अपने-अपने सैन्य भंडारों को भरने के लिए नई-नई वॉर टेक्नोलॉजी का इस्तेमाल किया.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वज्र था रूसी मिग-25, IAF का बैकबोन बना ये जेट, मगर US ने SR-71 को पहुंचाया म्यूजियम, अब हम क्यों",
-          "summary": "रूसी मिग-25 जेट भारतीय वायु सेना का महत्वपूर्ण हिस्सा बन गया है. Russia MiG-25 VS SR-71: जब शीतयुद्ध के बाद दुनिया अपनी-अपनी ताकत बढ़ा रही थी तो दुनिया के मंच पर दो ताकतें मौजूद थीं - अमेरिका और सोवियत संघ यानि इस वक्त का रूस. इन दोनों ने अपने-अपने सैन्य भंडारों को भरने के लिए नई-नई वॉर टेक्नोलॉजी का इस्तेमाल किया.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पूर्वी अफ्रीका में भूस्खलन से 14 मौतें, कई लापता; इथियोपिया में धार्मिक आयोजन के समय तबाही",
-      "url": "https://www.amarujala.com/world/ethiopia-landslide-updates-tsadqane-debre-mitmaq-st-mary-monastery-casualties-rescue-operation-hindi-news-2026-08-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-04T00:24:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/11/bugdha-khabra_af450dd548718eca5aa7d1d9015a22fd.jpeg?w=1200&dpr=1.0",
-      "summary": "Ethiopia Landslide: पूर्वी अफ्रीका में भूस्खलन से 14 मौतें, कई लापता; इथियोपिया में धार्मिक आयोजन के समय तबाही--Ethiopia Landslide Updates Tsadqane Debre Mitmaq St Mary Monastery casualties rescue operation hindi news।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पूर्वी अफ्रीका में भूस्खलन से 14 मौतें, कई लापता; इथियोपिया में धार्मिक आयोजन के समय तबाही",
-          "summary": "Ethiopia Landslide: पूर्वी अफ्रीका में भूस्खलन से 14 मौतें, कई लापता; इथियोपिया में धार्मिक आयोजन के समय तबाही--Ethiopia Landslide Updates Tsadqane Debre Mitmaq St Mary Monastery casualties rescue operation hindi news।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "उमस से हाल बेहाल, तेज बारिश का इंतजार, दो साल बाद अगस्त की सबसे गर्म रही सुबह; पढ़ें पूर्वानुमान",
-      "url": "https://www.amarujala.com/delhi-ncr/weather-forecast-humid-conditions-worsen-heavy-rain-awaited-2026-08-03",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-04T00:23:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/thall-ka-masama_46f01936a0dd1a5d3fe4bcbdb377f947.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली एनसीआर में अगस्त की सबसे गर्म सुबह दर्ज की गई है, तेज बारिश का इंतजार है. दिल्ली एनसीआर में बीते मंगलवार के बाद झमाझम बारिश नहीं हुई है। उमस से हाल बेहाल, तेज बारिश का इंतजार, दो साल बाद अगस्त की सबसे गर्म रही सुबह; पढ़ें पूर्वानुमान।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उमस से हाल बेहाल, तेज बारिश का इंतजार, दो साल बाद अगस्त की सबसे गर्म रही सुबह; पढ़ें पूर्वानुमान",
-          "summary": "दिल्ली एनसीआर में अगस्त की सबसे गर्म सुबह दर्ज की गई है, तेज बारिश का इंतजार है. दिल्ली एनसीआर में बीते मंगलवार के बाद झमाझम बारिश नहीं हुई है। उमस से हाल बेहाल, तेज बारिश का इंतजार, दो साल बाद अगस्त की सबसे गर्म रही सुबह; पढ़ें पूर्वानुमान।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप की दो टूक – ‘ईरान से कुछ भी बाहर नहीं जा सकता और कुछ भी अंदर नहीं आ सकता जब तक डील या",
-      "url": "https://www.patrika.com/world-news/donald-trump-says-nothing-gets-through-to-iran-and-nothing-will-get-through-unless-deal-or-total-surrender-accomplished-20803212",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-04T00:15:42+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/donald-trump_.webp",
-      "summary": "डोनाल्ड ट्रंप ने ईरान से डील की शर्त रखी है, कुछ भी बाहर या अंदर नहीं जा सकता. ईरान (Iran) और अमेरिका (United States of America) के बीच फिलहाल के लिए हमलों का सिलसिला थम गया है, लेकिन यह फिर कब शुरू हो जाए, इस बारे में कुछ भी कहना मुश्किल है। दोनों देशों के बीच तनाव बना हुआ है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप की दो टूक – ‘ईरान से कुछ भी बाहर नहीं जा सकता और कुछ भी अंदर नहीं आ सकता जब तक डील या",
-          "summary": "डोनाल्ड ट्रंप ने ईरान से डील की शर्त रखी है, कुछ भी बाहर या अंदर नहीं जा सकता. ईरान (Iran) और अमेरिका (United States of America) के बीच फिलहाल के लिए हमलों का सिलसिला थम गया है, लेकिन यह फिर कब शुरू हो जाए, इस बारे में कुछ भी कहना मुश्किल है। दोनों देशों के बीच तनाव बना हुआ है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
