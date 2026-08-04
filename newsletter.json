@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-04T14:53:44.469800+00:00",
+  "generated_at": "2026-08-04T15:51:07.323496+00:00",
   "article_count": 50,
   "total_unique_count": 262,
   "digest": {
-    "en": "Ebola outbreaks in the Democratic Republic of Congo and soaring temperatures in Japan's earthquake-hit regions dominate global headlines. Meanwhile, Ukraine's drone strikes against Russian targets continue to escalate tensions in Eastern Europe. In Asia, China's advancements in physical AI technology are drawing attention.",
-    "hi": "सऊदी अरब के नज्रान एयरपोर्ट पर ड्रोन हमले का दावा, हूतियों ने ली जिम्मेदारी। सऊदी अरब की सुरक्षा एजेंसियों ने हमले की जांच शुरू कर दी है, जबकि हूतियों ने हमले की जिम्मेदारी लेते हुए कहा है कि यह हमला सऊदी अरब के खिलाफ किया गया है।"
+    "en": "Ebola outbreaks in the Democratic Republic of Congo and soaring tensions between the European Union and Turkey dominate headlines. Meanwhile, the US struggles to replenish its depleted missile arsenals, while Ukraine's drone strikes on Russian targets continue to escalate.",
+    "hi": "ईरान-इजरायल की दुश्मनी में कॉन्ट्रैक्ट किलिंग तक पहुंच गई है, यूरोप में सोशल मीडिया से तैयार हो रहे हिटमैन। ईरान के घातक मिसाइलों का स्टॉक घट गया है, जिससे सैन्य तैयारी पर सवाल उठ रहे हैं। यह दुश्मनी मध्य पूर्व में तनाव बढ़ा रही है।"
   },
   "articles": [
     {
@@ -28,6 +28,18 @@
       "image_url": "https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US in a losing race to replenish depleted missile arsenals",
+      "url": "https://asiatimes.com/2026/08/us-in-a-losing-race-to-replenish-depleted-missile-arsenals/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-08-04T15:26:00+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/08/US-Missiles.jpg",
+      "summary": "The US’s multibillion-dollar push to expand interceptor missile production could begin rebuilding depleted stocks, but long manufacturing lead times, industrial bottlenecks and cost imbalances mean the benefits will depend on how quickly new capacity translates into deployable missiles. The US Department of Defense (DoD) signed framework agreements worth over US$3 billion with defense contractors US in a losing race to replenish depleted missile arsenals.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -296,16 +308,22 @@
       "translations": {}
     },
     {
-      "title": "Zelenskyy Says 'Answers' Needed On Patriot Delivery As Civilian Death Toll Climbs",
-      "url": "https://www.rferl.org/a/kyiv-kherson-ukraine-patriot-ballistic-missiles-zelenskyy/33819849.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "ईरान युद्ध ने बढ़ाई अमेरिका की टेंशन! घातक मिसाइलों का स्टॉक घटा, सैन्य तैयारी पर उठे सवाल",
+      "url": "https://www.patrika.com/world-news/us-missile-stockpile-concerns-amid-iran-war-20805939",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-08-01T22:03:14+00:00",
-      "image_url": "https://gdb.rferl.org/509ced32-cfb2-47a4-88dc-687188ac9a12_cx0_cy10_cw0_w1200_h630.jpg",
-      "summary": "In the wake of the latest deadly Russian air strikes on Kyiv and other cities, Ukrainian President Volodymyr Zelenskyy expressed frustration with his Western allies, urging speedier delivery of urgently needed Patriot air defense missiles and other weapons. Zelenskyy Expresses Frustration With Pace Of Patriot Deliveries As Civilian Death Toll Climbs. Zelenskyy Says 'Answers' Needed On Patriot Delivery As Civilian Death Toll Climbs.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-08-04T15:11:19+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/US-Defense-Missile-Shortage.webp",
+      "summary": "US Missile Stockpile: अमेरिका और ईरान के बीच पिछले पांच महीनों से चल रहे युद्ध के कारण अमेरिकी गोला-बारूद के घटते भंडार ने देश की सैन्य तैयारियों को लेकर नई चिंताएं पैदा कर दी हैं। रिपोर्टों के अनुसार, अमेरिकी सेना ने ईरान के खिलाफ अपनी सबसे घातक और अत्यधिक सटीक लंबी दूरी की मिसाइलों का बड़े पैमाने पर इस्तेमाल किया है, जिससे इनके स्टॉक पर दबाव बढ़ गया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान युद्ध ने बढ़ाई अमेरिका की टेंशन! घातक मिसाइलों का स्टॉक घटा, सैन्य तैयारी पर उठे सवाल",
+          "summary": "US Missile Stockpile: अमेरिका और ईरान के बीच पिछले पांच महीनों से चल रहे युद्ध के कारण अमेरिकी गोला-बारूद के घटते भंडार ने देश की सैन्य तैयारियों को लेकर नई चिंताएं पैदा कर दी हैं। रिपोर्टों के अनुसार, अमेरिकी सेना ने ईरान के खिलाफ अपनी सबसे घातक और अत्यधिक सटीक लंबी दूरी की मिसाइलों का बड़े पैमाने पर इस्तेमाल किया है, जिससे इनके स्टॉक पर दबाव बढ़ गया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "दूसरों की जान बचाने वाली सुनीता खुद सऊदी में लड़ रही जिंदगी की जंग, कर्ज में डूबे परिवार ने सरकार",
@@ -350,13 +368,13 @@
       "sources": [],
       "published_at": "2026-08-04T14:11:06+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Iran-America-Mediator-Pakistan-2026-08-9e4c942130c08ac63a27f890223335c3-1200x800.jpg",
-      "summary": "ईरान के विदेश मंत्री अब्बास अराघची को इस्लामाबाद बुलाकर पाकिस्तान ने एक बार फिर खुद को अमेरिका और ईरान के बीच बहुत बड़ा 'पीस ब्रोकर' दिखाने का नाटक शुरू कर दिया है. हालांकि, अमेरिकी सेना के रिटायर्ड जनरल और डिफेंस एक्सपर्ट जैक कीन ने पाकिस्तान की पोल खोलते हुए उसे ‘बिका हुआ’ मीडिएटर करार दिया है.",
+      "summary": "ईरान के विदेश मंत्री अब्बास अराघची को इस्लामाबाद बुलाकर पाकिस्तान ने एक बार फिर खुद को अमेरिका और ईरान के बीच बहुत बड़ा 'पीस ब्रोकर' दिखाने का नाटक शुरू कर दिया है. हालांकि, अमेरिकी सेना के रिटायर्ड जनरल और डिफेंस एक्सपर्ट जैक कीन ने पाकिस्तान की पोल खोलते हुए उसे ‘बिका हुआ’ मीडिएटर करार दिया है. अफगानिस्तान से लेकर ईरान तक धोखेबाजी का ट्रैक रिकॉर्ड रखने वाला पाकिस्तान वास्तव में निष्पक्ष मीडिएटर।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "अराघची को इस्लामाबाद बुलाकर फिर मध्यस्थ बनने चला पाकिस्तान, अमेरिका से मिला ‘धोखेबाज’ का ताना!",
-          "summary": "ईरान के विदेश मंत्री अब्बास अराघची को इस्लामाबाद बुलाकर पाकिस्तान ने एक बार फिर खुद को अमेरिका और ईरान के बीच बहुत बड़ा 'पीस ब्रोकर' दिखाने का नाटक शुरू कर दिया है. हालांकि, अमेरिकी सेना के रिटायर्ड जनरल और डिफेंस एक्सपर्ट जैक कीन ने पाकिस्तान की पोल खोलते हुए उसे ‘बिका हुआ’ मीडिएटर करार दिया है.",
+          "summary": "ईरान के विदेश मंत्री अब्बास अराघची को इस्लामाबाद बुलाकर पाकिस्तान ने एक बार फिर खुद को अमेरिका और ईरान के बीच बहुत बड़ा 'पीस ब्रोकर' दिखाने का नाटक शुरू कर दिया है. हालांकि, अमेरिकी सेना के रिटायर्ड जनरल और डिफेंस एक्सपर्ट जैक कीन ने पाकिस्तान की पोल खोलते हुए उसे ‘बिका हुआ’ मीडिएटर करार दिया है. अफगानिस्तान से लेकर ईरान तक धोखेबाजी का ट्रैक रिकॉर्ड रखने वाला पाकिस्तान वास्तव में निष्पक्ष मीडिएटर।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -506,6 +524,42 @@
       }
     },
     {
+      "title": "NEET PG एडमिशन रिव्यू के लिए बनी कमेटी, जानें निगेटिव मार्किंग का पूरा विवाद",
+      "url": "https://www.abplive.com/news/india/neet-pg-admissions-review-12-member-committee-formed-controversy-against-giving-pg-seats-to-get-negative-marks-ann-3170399",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-04T11:52:06+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/82e3a3c206b9a4e32369d648eeda9a2917858459190291368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "केंद्र सरकार ने मेडिकल पीजी में दाखिले की प्रक्रिया की समीक्षा के लिए 12 सदस्यीय उच्चस्तरीय विशेषज्ञ कमेटी का गठन किया है. नकारात्मक अंक पाने वालों को भी पीजी सीट मिलने के खिलाफ दाखिल याचिका पर सुनवाई के दौरान सुप्रीम कोर्ट को यह जानकारी दी गई. 4 मई को कोर्ट ने ही व्यवस्था में स्थायी सुधार के लिए कहा था. कैसे शुरू हुआ विवाद?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "NEET PG एडमिशन रिव्यू के लिए बनी कमेटी, जानें निगेटिव मार्किंग का पूरा विवाद",
+          "summary": "केंद्र सरकार ने मेडिकल पीजी में दाखिले की प्रक्रिया की समीक्षा के लिए 12 सदस्यीय उच्चस्तरीय विशेषज्ञ कमेटी का गठन किया है. नकारात्मक अंक पाने वालों को भी पीजी सीट मिलने के खिलाफ दाखिल याचिका पर सुनवाई के दौरान सुप्रीम कोर्ट को यह जानकारी दी गई. 4 मई को कोर्ट ने ही व्यवस्था में स्थायी सुधार के लिए कहा था. कैसे शुरू हुआ विवाद?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अभिजीत दीपके की किस बात पर भड़के पूर्व विदेश सचिव, सुनाई खरी-खरी",
+      "url": "https://www.abplive.com/news/india/former-ifs-official-kanwal-sibal-blasts-at-cjp-founder-abhijit-dipke-demanding-pm-modi-degree-calls-it-arrogance-3170341",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-04T11:47:05+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/c1877818f04f117ea453228d9411ffb917858401792661126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "दिल्ली के जंतर मंतर पर एक महीने तक विरोध प्रदर्शन, केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफा और केंद्र सरकार की तरफ से सभी शर्तों के मान लेने के बाद कॉकरोच जनता पार्टी (CJP) ने अपना प्रदर्शन तो खत्म कर दिया, लेकिन सरकार की तरफ से उनकी शर्तें मान लेने के बाद कॉकरोच जनता पार्टी (सीजेपी) के फाउंडर अभिजीत दीपके खासे चर्चा में रहने लगे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अभिजीत दीपके की किस बात पर भड़के पूर्व विदेश सचिव, सुनाई खरी-खरी",
+          "summary": "दिल्ली के जंतर मंतर पर एक महीने तक विरोध प्रदर्शन, केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफा और केंद्र सरकार की तरफ से सभी शर्तों के मान लेने के बाद कॉकरोच जनता पार्टी (CJP) ने अपना प्रदर्शन तो खत्म कर दिया, लेकिन सरकार की तरफ से उनकी शर्तें मान लेने के बाद कॉकरोच जनता पार्टी (सीजेपी) के फाउंडर अभिजीत दीपके खासे चर्चा में रहने लगे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "सऊदी अरब के नज्रान एयरपोर्ट पर ड्रोन हमले का दावा, हूतियों ने ली जिम्मेदारी",
       "url": "https://www.patrika.com/world-news/houthi-drone-attack-on-saudi-arabia-najran-airport-20805249",
       "source": "Patrika (World)",
@@ -542,6 +596,96 @@
       }
     },
     {
+      "title": "यूसुफ पठान लौटेंगे ममता बनर्जी के साथ? लंच के बाद बदल गई कहानी",
+      "url": "https://www.abplive.com/news/india/yusuf-pathan-meets-west-bengal-cm-suvendu-adhikari-in-delhi-3170345",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-04T11:37:33+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/c95a115b8562317dd958daa2052369651785839715443124_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी की पार्टी टीएमसी से अलग हुए सांसदों के गुट को लेकर अटकलों पर विराम लग गया है. टीएमसी छोड़कर एनसीपीआई में शामिल हुए यूसुफ पठान और अबु ताहिर को लेकर सूत्रों ने बताया कि कहीं कोई मतभेद नहीं है. कई रिपोर्ट्स में दावा था कि नेशनलिस्ट सिटिज़न्स पार्टी ऑफ़ इंडिया (NCPI) के कुछ सांसद एनडीए के साथ रहने में असहज़ हैं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूसुफ पठान लौटेंगे ममता बनर्जी के साथ? लंच के बाद बदल गई कहानी",
+          "summary": "पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी की पार्टी टीएमसी से अलग हुए सांसदों के गुट को लेकर अटकलों पर विराम लग गया है. टीएमसी छोड़कर एनसीपीआई में शामिल हुए यूसुफ पठान और अबु ताहिर को लेकर सूत्रों ने बताया कि कहीं कोई मतभेद नहीं है. कई रिपोर्ट्स में दावा था कि नेशनलिस्ट सिटिज़न्स पार्टी ऑफ़ इंडिया (NCPI) के कुछ सांसद एनडीए के साथ रहने में असहज़ हैं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या सुप्रीम कोर्ट के फैसले से शादीशुदा और लिव-इन पार्टनर में कोई फर्क नहीं?",
+      "url": "https://www.abplive.com/news/india/supreme-court-orders-to-live-in-relationship-cruelty-intent-to-marry-karnataka-case-impact-and-implementation-explained-3170382",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-04T11:28:24+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/96671e4241fd11dbd1ab3111319be5f517858428947421317_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "सुप्रीम कोर्ट ने 3 अगस्त 2026 को फैसला सुनाया कि लिव-इन पार्टनर भी क्रूरता से सुरक्षा पा सकते हैं. जस्टिस संजय करोल और जस्टिस विक्रम नाथ की पीठ ने कहा कि अगर कोई पुरुष किसी महिला के साथ 'शादी जैसे रिश्ते' में रह रहा है, तो उस पर IPC की धारा 498A के तहत मुकदमा चलाया जा सकता है. यह फैसला लिव-इन रिलेशनशिप को कानूनी तौर पर नई पहचान देता है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या सुप्रीम कोर्ट के फैसले से शादीशुदा और लिव-इन पार्टनर में कोई फर्क नहीं?",
+          "summary": "सुप्रीम कोर्ट ने 3 अगस्त 2026 को फैसला सुनाया कि लिव-इन पार्टनर भी क्रूरता से सुरक्षा पा सकते हैं. जस्टिस संजय करोल और जस्टिस विक्रम नाथ की पीठ ने कहा कि अगर कोई पुरुष किसी महिला के साथ 'शादी जैसे रिश्ते' में रह रहा है, तो उस पर IPC की धारा 498A के तहत मुकदमा चलाया जा सकता है. यह फैसला लिव-इन रिलेशनशिप को कानूनी तौर पर नई पहचान देता है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "CJP के अभिजीत दीपके और सौरव दास की बढ़ी मुश्किलें, बंगाल में दर्ज हुई FIR",
+      "url": "https://www.abplive.com/news/india/cjp-abhijeet-dipke-and-sourav-das-face-trouble-fir-registered-in-west-bengal-after-delhi-3170385",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-04T11:27:27+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/ab9a3030e33593a6f6c0da67397942ad17858426672371368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पश्चिम बंगाल में सिलीगुड़ी साइबर क्राइम पुलिस स्टेशन में अभिजीत दीपके, सौरव दास और सीजेपी आयोजकों के खिलाफ पॉक्सो अधिनियम की धारा 13, 14 और 15 और बीएनएस की धारा 153 के तहत एफआईआर दर्ज की गई है. इससे पहले दिल्ली पुलिस से शिकायत की गई थी कि दीपके ने एक इन्फ्लुएंसर को धमकी दी थी. कॉकरोच जनता पार्टी (CJP) संस्थापक अभिजीत दीपके की मुश्किलें बढ़ती हुई नजर आ रही हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "CJP के अभिजीत दीपके और सौरव दास की बढ़ी मुश्किलें, बंगाल में दर्ज हुई FIR",
+          "summary": "पश्चिम बंगाल में सिलीगुड़ी साइबर क्राइम पुलिस स्टेशन में अभिजीत दीपके, सौरव दास और सीजेपी आयोजकों के खिलाफ पॉक्सो अधिनियम की धारा 13, 14 और 15 और बीएनएस की धारा 153 के तहत एफआईआर दर्ज की गई है. इससे पहले दिल्ली पुलिस से शिकायत की गई थी कि दीपके ने एक इन्फ्लुएंसर को धमकी दी थी. कॉकरोच जनता पार्टी (CJP) संस्थापक अभिजीत दीपके की मुश्किलें बढ़ती हुई नजर आ रही हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ब्रह्मोस की दुनिया मुरीद, फिलीपींस-वियतनाम-इंडोनेशिया के बाद इस देश ने दिखाई दिलचस्पी",
+      "url": "https://www.abplive.com/news/india/india-brahmos-missile-demand-growing-rapidly-worldwide-philippines-vietnam-indonesia-thailand-is-now-showing-interest-ann-3170276",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-04T11:21:57+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/7070495b19d074368b0e38494b09980417858349961071115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "थाईलैंड ने भारत की ब्रह्मोस मिसाइल खरीदने में रुचि दिखाई है, जो फिलीपींस, वियतनाम और इंडोनेशिया के बाद आसियान देशों में चौथा देश है. थाईलैंड ने अपने पड़ोसी कंबोडिया के साथ गंभीर सैन्य संघर्ष के बाद अपनी सुरक्षा को मजबूत करने के लिए यह कदम उठाया है. फिलीपींस, वियतनाम और इंडोनेशिया के बाद अब एक और आसियान देश भारत की ब्रह्मोस मिसाइल खरीदने में रुचि दिखा रहा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्रह्मोस की दुनिया मुरीद, फिलीपींस-वियतनाम-इंडोनेशिया के बाद इस देश ने दिखाई दिलचस्पी",
+          "summary": "थाईलैंड ने भारत की ब्रह्मोस मिसाइल खरीदने में रुचि दिखाई है, जो फिलीपींस, वियतनाम और इंडोनेशिया के बाद आसियान देशों में चौथा देश है. थाईलैंड ने अपने पड़ोसी कंबोडिया के साथ गंभीर सैन्य संघर्ष के बाद अपनी सुरक्षा को मजबूत करने के लिए यह कदम उठाया है. फिलीपींस, वियतनाम और इंडोनेशिया के बाद अब एक और आसियान देश भारत की ब्रह्मोस मिसाइल खरीदने में रुचि दिखा रहा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "7 साल में 36 देशों से लाए गए 275 भगोड़े अपराधी, शाह बोले- मोदी सरकार में…",
+      "url": "https://www.abplive.com/news/india/home-minister-amit-shah-statement-275-fugitive-criminals-brought-back-from-36-countries-in-7-years-under-modi-govt-3170379",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-04T11:19:29+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/f29f2bc75a122e6d6f7a49220ff01ab217858425976361324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "गृहमंत्री अमित शाह ने बताया कि 2019 के बाद से अबतक 274 अपराधियों की वापसी सुनिश्चित की गई है. उन्होंने कहा कि मोदी सरकार ने विदेशों में छिपे भगोड़ों को पकड़ने में कामयाबी हासिल की है. गृहमंत्री अमित शाह ने मंगलवार (04.08.2026) को विदेश में छिपे भगोड़ों को पकड़ने के लिए केंद्र सरकार के एक्शन को लेकर जानकारी साझा की है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "7 साल में 36 देशों से लाए गए 275 भगोड़े अपराधी, शाह बोले- मोदी सरकार में…",
+          "summary": "गृहमंत्री अमित शाह ने बताया कि 2019 के बाद से अबतक 274 अपराधियों की वापसी सुनिश्चित की गई है. उन्होंने कहा कि मोदी सरकार ने विदेशों में छिपे भगोड़ों को पकड़ने में कामयाबी हासिल की है. गृहमंत्री अमित शाह ने मंगलवार (04.08.2026) को विदेश में छिपे भगोड़ों को पकड़ने के लिए केंद्र सरकार के एक्शन को लेकर जानकारी साझा की है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "Iran के सुप्रीम लीडर मोजतबा खामेनेई का बड़ा फैसला, अब राष्ट्रपति नहीं, IRGC कमांडर लेंगे अहम फैसले",
       "url": "https://www.patrika.com/world-news/iran-supreme-leader-khamenei-decision-irgc-commander-ahmad-vahidi-president-power-reduced-20805244",
       "source": "Patrika (World)",
@@ -560,6 +704,42 @@
       }
     },
     {
+      "title": "जन्म-मृत्यु पंजीकरण के बदले नियम, संसद से पास नए बिल में क्या खास?",
+      "url": "https://www.abplive.com/news/india/births-deaths-registrations-bill-2026-passed-by-rajya-sabha-and-lok-sabha-know-what-change-in-this-bill-3170354",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-04T10:46:17+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/80f1d1be928c55ed18d10fd9ba7d5ce217858398520971368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "लोकसभा और राज्यसभा से भी 'जन्म और मृत्यु पंजीकरण (संशोधन) विधेयक' पास हो गया है. इस विधेयक का मकसद जन्म और मृत्यु पंजीकरण अधिनियम-1969 में और संशोधन करना है. लोकसभा के बाद मंगलवार (4 अगस्त) को राज्यसभा से भी 'जन्म और मृत्यु पंजीकरण (संशोधन) विधेयक' पास हो गया है. विपक्ष के हंगामे के बीच दोपहर दो बजे जब सदन की कार्यवाही दोबारा शुरू हुई तो गृह राज्य मंत्री नित्यानंद राय ने इस बिल को पेश किया.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जन्म-मृत्यु पंजीकरण के बदले नियम, संसद से पास नए बिल में क्या खास?",
+          "summary": "लोकसभा और राज्यसभा से भी 'जन्म और मृत्यु पंजीकरण (संशोधन) विधेयक' पास हो गया है. इस विधेयक का मकसद जन्म और मृत्यु पंजीकरण अधिनियम-1969 में और संशोधन करना है. लोकसभा के बाद मंगलवार (4 अगस्त) को राज्यसभा से भी 'जन्म और मृत्यु पंजीकरण (संशोधन) विधेयक' पास हो गया है. विपक्ष के हंगामे के बीच दोपहर दो बजे जब सदन की कार्यवाही दोबारा शुरू हुई तो गृह राज्य मंत्री नित्यानंद राय ने इस बिल को पेश किया.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "किसी का फटा सिर, किसी के कान…, फ्लाइट टर्बुलेंस से जख्मी पैसेंजर की आपबीती",
+      "url": "https://www.abplive.com/news/india/several-passengers-injured-after-air-india-flight-encounters-severe-air-turbulence-from-phuket-to-delhi-3170338",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-04T10:20:48+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/7071b25e10e30c57641423c625868c7217858392774121324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "एयर इंडिया की फ्लाइट (AI-2379) में मंगलवार को एयर टर्बुलेंस से कई यात्री जख्मी होने की खबर है. प्लाइट हवा में अचानक से हिचकोले लेने लगी. सभी घायल यात्रियों को IGI एयरपोर्ट से एंबुलेंस से हॉस्पिटल रैफर कर दिया गया है. फुकेट से दिल्ली आ रही एयर इंडिया की फ्लाइट (AI-2379) में मंगलवार (04.08.2026) को एयर टर्बुलेंस से कई यात्री जख्मी होने की खबर है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "किसी का फटा सिर, किसी के कान…, फ्लाइट टर्बुलेंस से जख्मी पैसेंजर की आपबीती",
+          "summary": "एयर इंडिया की फ्लाइट (AI-2379) में मंगलवार को एयर टर्बुलेंस से कई यात्री जख्मी होने की खबर है. प्लाइट हवा में अचानक से हिचकोले लेने लगी. सभी घायल यात्रियों को IGI एयरपोर्ट से एंबुलेंस से हॉस्पिटल रैफर कर दिया गया है. फुकेट से दिल्ली आ रही एयर इंडिया की फ्लाइट (AI-2379) में मंगलवार (04.08.2026) को एयर टर्बुलेंस से कई यात्री जख्मी होने की खबर है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "भारत में 43 डिग्री तक नॉर्मल, जापान के शेर भी नहीं सह पा रहे 40 डिग्री टॉर्चर, 3 ने तोड़ दिया दम",
       "url": "https://hindi.news18.com/world/rest-of-world-japan-heatwave-three-lions-die-in-tokyo-record-breaking-temperatures-43-degree-normal-in-india-ws-l-10717624.html",
       "source": "News18 Hindi (World)",
@@ -573,186 +753,6 @@
         "hi": {
           "title": "भारत में 43 डिग्री तक नॉर्मल, जापान के शेर भी नहीं सह पा रहे 40 डिग्री टॉर्चर, 3 ने तोड़ दिया दम",
           "summary": "Japan Heatwave Lions Died: जिस देश में कभी एसी की जरूरत नहीं पड़ी और जहां लोग सदाबहार मौसम के आदी हैं, वहां अगर गर्मी 38-40 डिग्री पहुंच जाए तो हाल क्या होगा? जापान में इस वक्त ऐसा ही हो रहा है और इंसान छोड़िए जानवरों से भी ये बदलाव सहा नहीं जा रहा है. जापान के चिड़ियाघर में अब तक 3 शेरों की मौत हो चुकी है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चीन ने बंद कर लिया दरवाजा, चला ऐसा मास्टरस्ट्रोक, रेयर अर्थ के लिए माथा पीटेगा अमेरिका, रोएगा जापान",
-      "url": "https://hindi.news18.com/world/china-china-masterstroke-tightens-exit-rules-to-guard-rare-earth-battery-secrets-impact-on-us-japan-ws-l-10717589.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-04T09:14:19+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/trump-jinping-2026-07-3e79a62c059c2700ff27372c6ec1fe06-1200x800.jpg",
-      "summary": "China Tightens Exit Rules: चीन ने अपना एक मास्टरस्ट्रोक चलते हुए कुछ ऐसा किया है, जिसके बाद अमेरिका और जापान को खासी परेशानी होने वाली है. अमेरिका ने चीन पर टैरिफ लगाया और निर्यात को कंट्रोल किया तो चीन ने चुपके से अमेरिका की वो नस दबा दी है, जिससे उसे दर्द बेतहाशा दर्द होने वाला है. चीन ने बंद कर लिया दरवाजा, चला ऐसा मास्टरस्ट्रोक, रेयर अर्थ के लिए माथा पीटेगा अमेरिका, रोएगा जापान।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन ने बंद कर लिया दरवाजा, चला ऐसा मास्टरस्ट्रोक, रेयर अर्थ के लिए माथा पीटेगा अमेरिका, रोएगा जापान",
-          "summary": "China Tightens Exit Rules: चीन ने अपना एक मास्टरस्ट्रोक चलते हुए कुछ ऐसा किया है, जिसके बाद अमेरिका और जापान को खासी परेशानी होने वाली है. अमेरिका ने चीन पर टैरिफ लगाया और निर्यात को कंट्रोल किया तो चीन ने चुपके से अमेरिका की वो नस दबा दी है, जिससे उसे दर्द बेतहाशा दर्द होने वाला है. चीन ने बंद कर लिया दरवाजा, चला ऐसा मास्टरस्ट्रोक, रेयर अर्थ के लिए माथा पीटेगा अमेरिका, रोएगा जापान।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने तोड़ा शहबाज-मुनीर का दिल, ईरान वार्ता में सऊदी-UAE-कतर का नाम, PAK को भूले",
-      "url": "https://www.abplive.com/news/world/donald-trump-mentioned-role-of-saudi-arabia-uae-qatar-in-ongoing-talks-with-iran-did-not-mention-pakistan-3170241",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-08-04T08:44:16+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/622d10a2014634342142634bba6af3d517858315089481115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान वार्ता में सऊदी, यूएई और कतर का नाम लिया, पाकिस्तान को नहीं. पाकिस्तान के प्रधानमंत्री शहबाज शरीफ को एक बार फिर अंतरराष्ट्रीय स्तर पर झटका लगा है. इस बार मामला अमेरिका और ईरान के बीच चल रही बातचीत से जुड़ा है. लंबे समय से पाकिस्तान खुद को अमेरिका और ईरान के बीच संभावित मध्यस्थ के रूप में पेश करने की कोशिश कर रहा था, लेकिन अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के हालिया बयान ने पाकिस्तान की उम्मीदों पर पानी फेर दिया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने तोड़ा शहबाज-मुनीर का दिल, ईरान वार्ता में सऊदी-UAE-कतर का नाम, PAK को भूले",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान वार्ता में सऊदी, यूएई और कतर का नाम लिया, पाकिस्तान को नहीं. पाकिस्तान के प्रधानमंत्री शहबाज शरीफ को एक बार फिर अंतरराष्ट्रीय स्तर पर झटका लगा है. इस बार मामला अमेरिका और ईरान के बीच चल रही बातचीत से जुड़ा है. लंबे समय से पाकिस्तान खुद को अमेरिका और ईरान के बीच संभावित मध्यस्थ के रूप में पेश करने की कोशिश कर रहा था, लेकिन अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के हालिया बयान ने पाकिस्तान की उम्मीदों पर पानी फेर दिया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका से मिला झटका तो जेलेंस्की ने राजदूत को हटाया, रूस-यूक्रेन युद्ध के बीच बड़ा फैसला",
-      "url": "https://hindi.news18.com/world/europe-zelensky-sacks-washington-envoy-amid-patriot-missiles-tussle-russia-ukraine-war-ws-l-10717329.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-04T07:59:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Zelenskyy-2026-07-3ac09d3246f1cf76c09c8999d58b8a4a-1200x800.jpg",
-      "summary": "Ukraine Sacks Washington Envoy: रूस-यूक्रेन युद्ध को चार साल वक्त बीतने जा रहा है लेकिन अंत कहीं नजर नहीं आ रहा है. जेलेंस्की ने अमेरिका से पैट्रियट मिसाइलें बनाने का लाइसेंस मांगा था लेकिन ये डील पूरी नहीं हो पाई. इसी बीच अब यूक्रेन ने अपने अमेरिका में राजदूत को भी बर्खास्त कर दिया है. अमेरिका से मिला झटका तो जेलेंस्की ने राजदूत को हटाया, रूस-यूक्रेन युद्ध के बीच बड़ा फैसला।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका से मिला झटका तो जेलेंस्की ने राजदूत को हटाया, रूस-यूक्रेन युद्ध के बीच बड़ा फैसला",
-          "summary": "Ukraine Sacks Washington Envoy: रूस-यूक्रेन युद्ध को चार साल वक्त बीतने जा रहा है लेकिन अंत कहीं नजर नहीं आ रहा है. जेलेंस्की ने अमेरिका से पैट्रियट मिसाइलें बनाने का लाइसेंस मांगा था लेकिन ये डील पूरी नहीं हो पाई. इसी बीच अब यूक्रेन ने अपने अमेरिका में राजदूत को भी बर्खास्त कर दिया है. अमेरिका से मिला झटका तो जेलेंस्की ने राजदूत को हटाया, रूस-यूक्रेन युद्ध के बीच बड़ा फैसला।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बलूचिस्तान ने शहबाज-मुनीर को दिया तगड़ा झटका, 11 अगस्त को लेकर बड़ा ऐलान",
-      "url": "https://www.abplive.com/news/world/balochistan-declared-august-11-as-independence-day-organization-called-baloch-people-worldwide-to-celebrate-3170194",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-08-04T07:40:16+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/da9c661a05bd03d6a5deec4f49c87dd117858281419311115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पाकिस्तान के कब्जे वाले कश्मीर (PoK) में चल रहे विरोध प्रदर्शनों के बीच अब बलूचिस्तान का मुद्दा भी एक बार फिर चर्चा में आ गया है. पाकिस्तान के सबसे बड़े और नेचुरल सोर्स से भरपूर प्रोविंस बलूचिस्तान में राजनीतिक हलचल तेज हो गई है. इसकी वजह यह है कि रिपब्लिक ऑफ बलूचिस्तान ने 11 अगस्त को अपना स्वतंत्रता दिवस घोषित किया है और दुनिया भर में रहने वाले बलूच लोगों से इसे बड़े स्तर पर मनाने की अपील की है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बलूचिस्तान ने शहबाज-मुनीर को दिया तगड़ा झटका, 11 अगस्त को लेकर बड़ा ऐलान",
-          "summary": "पाकिस्तान के कब्जे वाले कश्मीर (PoK) में चल रहे विरोध प्रदर्शनों के बीच अब बलूचिस्तान का मुद्दा भी एक बार फिर चर्चा में आ गया है. पाकिस्तान के सबसे बड़े और नेचुरल सोर्स से भरपूर प्रोविंस बलूचिस्तान में राजनीतिक हलचल तेज हो गई है. इसकी वजह यह है कि रिपब्लिक ऑफ बलूचिस्तान ने 11 अगस्त को अपना स्वतंत्रता दिवस घोषित किया है और दुनिया भर में रहने वाले बलूच लोगों से इसे बड़े स्तर पर मनाने की अपील की है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "फिर चिकन नेक पर भारत को घेर रहा ड्रैगन, बांग्लादेश को दिया J-10CE का लालच, राफेल से टकरा चुके हैं",
-      "url": "https://hindi.news18.com/world/south-asia-china-offers-bangladesh-24-j10-ce-fighter-jets-targeting-siliguri-coridor-raising-concern-10716964.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-04T07:16:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/bangladesh-china-2026-08-f0cde939077de51bc8d0f82d77e3247b-1200x800.jpg",
-      "summary": "China-Bangladesh J-10CE Deal: भारत को घेरने का कोई भी मौका चीन अपने हाथ से जाने नहीं देता है. चाहे वो किसी भी तरफ से आ रहा हो, ड्रैगन अपनी गर्दन वहां फंसा ही देता है. तभी तो उसने भारत-बांग्लादेश के नर्म-गर्म रिश्ते को देखते ही इस देश को अपने वो फाइटर जेट्स ऑफर किए हैं, जिसे राफेल की बराबरी का माना जाता है. अब सवाल ये है कि बांग्लादेश इसे क्यों खरीद रहा है?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिर चिकन नेक पर भारत को घेर रहा ड्रैगन, बांग्लादेश को दिया J-10CE का लालच, राफेल से टकरा चुके हैं",
-          "summary": "China-Bangladesh J-10CE Deal: भारत को घेरने का कोई भी मौका चीन अपने हाथ से जाने नहीं देता है. चाहे वो किसी भी तरफ से आ रहा हो, ड्रैगन अपनी गर्दन वहां फंसा ही देता है. तभी तो उसने भारत-बांग्लादेश के नर्म-गर्म रिश्ते को देखते ही इस देश को अपने वो फाइटर जेट्स ऑफर किए हैं, जिसे राफेल की बराबरी का माना जाता है. अब सवाल ये है कि बांग्लादेश इसे क्यों खरीद रहा है?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'इस्राइल को अविश्वसनीय समर्थन'; नेतन्याहू ईरान में जंग के बीच भारत-PM मोदी पर और क्या बोले?",
-      "url": "https://www.amarujala.com/world/netanyahu-praises-pm-modi-calls-india-support-unbelievable-amid-iran-conflict-2026-08-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-04T07:00:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/04/india-israel-relation_fa4dfccae79e4e363fdcc7dda9d8a5e1.jpeg?w=1200&dpr=1.0",
-      "summary": "Israel-India Ties: 'इस्राइल को अविश्वसनीय समर्थन'; नेतन्याहू ईरान में जंग के बीच भारत-PM मोदी पर और क्या बोले?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'इस्राइल को अविश्वसनीय समर्थन'; नेतन्याहू ईरान में जंग के बीच भारत-PM मोदी पर और क्या बोले?",
-          "summary": "Israel-India Ties: 'इस्राइल को अविश्वसनीय समर्थन'; नेतन्याहू ईरान में जंग के बीच भारत-PM मोदी पर और क्या बोले?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "शवोन के CEO को अमेरिकी राष्ट्रपति की खरी-खरी, क्या घटेंगे पेट्रोल-डीजल के दाम?",
-      "url": "https://www.amarujala.com/world/trump-slams-chevron-ceo-demands-immediate-fuel-price-cuts-amid-rising-oil-costs-2026-08-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-04T06:43:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/31/trump-mulling-usd-100000-fee-for-students-keen-to-work-in-us-after-graduation-report_caad86f86efc02823bdd45d1884f1dc2.jpeg?w=1200&dpr=1.0",
-      "summary": "तेल कंपनियों पर बिफरे ट्रंप: शवोन के CEO को अमेरिकी राष्ट्रपति की खरी-खरी, क्या घटेंगे पेट्रोल-डीजल के दाम?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शवोन के CEO को अमेरिकी राष्ट्रपति की खरी-खरी, क्या घटेंगे पेट्रोल-डीजल के दाम?",
-          "summary": "तेल कंपनियों पर बिफरे ट्रंप: शवोन के CEO को अमेरिकी राष्ट्रपति की खरी-खरी, क्या घटेंगे पेट्रोल-डीजल के दाम?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने भी दिया पाकिस्तान को गच्चा, 'शांतिदूत' का बैज छीना, शुरू हुए मुनीर-शहबाज के बुरे दिन",
-      "url": "https://hindi.news18.com/world/pakistan-donald-trump-drops-pakistan-out-of-us-iran-war-mediation-shahbaz-sharif-asim-munir-10716461.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-04T05:20:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Trump-Took-Munir-Name-In-Abraham-Accord-2026-05-3cbeeae8d0f823729943f86770a797d6-1200x800.jpg",
-      "summary": "अमेरिका ने पाकिस्तान को ईरान युद्ध मध्यस्थता से हटा दिया है. डोनाल्ड ट्रंप ने पाकिस्तान को शांतिदूत का तमगा छीन लिया है. इससे पाकिस्तान के मुनीर और शहबाज के लिए मुश्किलें बढ़ सकती हैं. US Drops Pakistan From Iran War Mediation: पाकिस्तान अपने घर में घिरा ही हुआ था, जब उसके सबसे बड़े हितैषी बने डोनाल्ड ट्रंप ने भी उसे गच्चा दे दिया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने भी दिया पाकिस्तान को गच्चा, 'शांतिदूत' का बैज छीना, शुरू हुए मुनीर-शहबाज के बुरे दिन",
-          "summary": "अमेरिका ने पाकिस्तान को ईरान युद्ध मध्यस्थता से हटा दिया है. डोनाल्ड ट्रंप ने पाकिस्तान को शांतिदूत का तमगा छीन लिया है. इससे पाकिस्तान के मुनीर और शहबाज के लिए मुश्किलें बढ़ सकती हैं. US Drops Pakistan From Iran War Mediation: पाकिस्तान अपने घर में घिरा ही हुआ था, जब उसके सबसे बड़े हितैषी बने डोनाल्ड ट्रंप ने भी उसे गच्चा दे दिया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भयंकर गर्मी और सूखा... खतरे में भारत का मानसून, UN चीफ ने क्यों दी चेतावनी",
-      "url": "https://www.abplive.com/news/world/un-chief-antonio-guterres-warns-india-said-monsoon-rains-in-danger-planet-on-fire-3170068",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-08-04T04:24:39+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/2053675df8897ab2eab3cd1cc8f4a9581785816474552344_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस ने चेतावनी दी है कि मजबूत होते अल नीनो के कारण दुनिया के कई हिस्सों में गर्म और सूखे हालात बनने की आशंका है. भारत में मानसून की शुरुआत में औसत से कम बारिश हुई थी. हालांकि इसके बाद मानसून ने रफ्तार पकड़ ली थी. कई राज्यों में अच्छी बारिश हो रही है, लेकिन कुछ राज्य बाढ़ की चपेट में हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भयंकर गर्मी और सूखा... खतरे में भारत का मानसून, UN चीफ ने क्यों दी चेतावनी",
-          "summary": "संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस ने चेतावनी दी है कि मजबूत होते अल नीनो के कारण दुनिया के कई हिस्सों में गर्म और सूखे हालात बनने की आशंका है. भारत में मानसून की शुरुआत में औसत से कम बारिश हुई थी. हालांकि इसके बाद मानसून ने रफ्तार पकड़ ली थी. कई राज्यों में अच्छी बारिश हो रही है, लेकिन कुछ राज्य बाढ़ की चपेट में हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "हिंदू संत चिन्मय दास की जमानत के तुरंत बाद बांग्लादेश ने भारत से क्या मांगा? शेख हसीना से जुड़ी है",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-demands-india-to-stop-former-pm-sheikh-hasina-virtual-address-on-5th-august-ws-l-10716324.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-04T03:46:00+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Sheikh-Haseena-File-Photo-2026-08-1ad93965dbac1baa339a525f9a0d00f7-1200x800.jpg",
-      "summary": "बांग्लादेश ने भारत से शेख हसीना के प्रत्यर्पण की मांग की, जिसका भारत ने अभी तक जवाब नहीं दिया है। Bangladesh Urges India to Stop Sheikh Hasina: बांग्लादेश और भारत के बीच रिश्तों में जो तनाव आए, उसकी एक वजह यहां की पूर्व पीएम शेख हसीना का भारत में शरण लेना भी है. अंतरिम सरकार के वक्त से ही बांग्लादेश चाहता है कि शेख हसीना का प्रत्यर्पण हो जाए लेकिन भारत नहीं माना.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिंदू संत चिन्मय दास की जमानत के तुरंत बाद बांग्लादेश ने भारत से क्या मांगा? शेख हसीना से जुड़ी है",
-          "summary": "बांग्लादेश ने भारत से शेख हसीना के प्रत्यर्पण की मांग की, जिसका भारत ने अभी तक जवाब नहीं दिया है। Bangladesh Urges India to Stop Sheikh Hasina: बांग्लादेश और भारत के बीच रिश्तों में जो तनाव आए, उसकी एक वजह यहां की पूर्व पीएम शेख हसीना का भारत में शरण लेना भी है. अंतरिम सरकार के वक्त से ही बांग्लादेश चाहता है कि शेख हसीना का प्रत्यर्पण हो जाए लेकिन भारत नहीं माना.",
           "region": "एशिया-प्रशांत"
         }
       }
