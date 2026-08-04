@@ -3,11 +3,11 @@
 <!-- README-AUTO-STATUS:START -->
 ## Project Status (auto-updated)
 
-- Last newsletter build: 2026-08-04 13:37 UTC
+- Last newsletter build: 2026-08-04 14:53 UTC
 - Stories published on homepage: 50
-- Unique stories found this run: 263
-- Latest archive file: 2026-08-04-13.md
-- Total archived editions: 1715
+- Unique stories found this run: 262
+- Latest archive file: 2026-08-04-14.md
+- Total archived editions: 1716
 - Configured schedule (cron): `0 * * * *`
-- README status last synced: 2026-08-04 13:42 UTC
+- README status last synced: 2026-08-04 14:59 UTC
 <!-- README-AUTO-STATUS:END -->
