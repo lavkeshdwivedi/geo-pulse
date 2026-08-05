@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-05T13:37:05.552411+00:00",
+  "generated_at": "2026-08-05T14:51:41.528820+00:00",
   "article_count": 50,
   "total_unique_count": 267,
   "digest": {
-    "en": "Russia launched a ballistic missile and a swarm of drones against Ukraine’s Kyiv region, marking the latest escalation in the war.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, फूट-फूट कर रोईं शेख हसीना, बांग्लादेश में अपने साथ हुए अन्याय पर बिफरीं मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Middle East & Africa leads the board this hour with Ebola en RDC, une épidémie hors de contrôle ?. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, 'पीएम मोदी ने सम्मान दिया', लाइव पर फूट-फूट कर रोईं शेख हसीना, बांग्लादेश लौटने पर क्या बोलीं? मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -27,6 +27,30 @@
       "published_at": "Perşembe, Temmuz 23, 2026 - 15:54",
       "image_url": "https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ousted Bangladesh PM Sheikh Hasina says ban on her party Awami League should be lifted",
+      "url": "https://www.thehindu.com/news/international/sheikh-hasina-former-bangladesh-pm-awami-league-press-interaction-august-5-2026/article71309979.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-08-05T14:33:27+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/gyrccu/article71309996.ece/alternates/LANDSCAPE_1200/TH10-Reuters-HaGU8G819BV.3.jpg.jpg",
+      "summary": "Ms. Hasina had been ​expected to address the event ⁠virtually by video but delivered only an audio ‌message. It was not immediately clear why she did not appear on video, unlike her party colleagues ‌and her son, who ​spoke before her Ousted Bangladesh PM Sheikh Hasina says ban on her party Awami League should be lifted.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Proposed Hormuz deal would give Iran control of inbound traffic: Sources",
+      "url": "https://www.channelnewsasia.com/world/iran-us-strait-hormuz-inbound-traffic-control-6301366",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-08-05T13:10:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--RPwPMxrG--/c_crop,h_1125,w_2000,x_0,y_15/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/05/iran_flag_2.jpg?itok=7tYN8Nfo",
+      "summary": "If the deal comes to pass, it would be one of Iran's biggest diplomatic gains, though sources say that disagreements over shipping control and transit fees continue to stand in the way of a final agreement. Proposed Hormuz deal would give Iran control of inbound traffic: Sources.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -236,30 +260,6 @@
       "translations": {}
     },
     {
-      "title": "Beyond the Singularity: China owning the physical AI revolution",
-      "url": "https://asiatimes.com/2026/08/beyond-the-singularity-china-owning-the-physical-ai-revolution/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-08-03T15:16:42+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/China-AI-AI-Society.jpg",
-      "summary": "The global discourse on artificial intelligence is preoccupied with a dramatic possibility: The Singularity, the moment a disembodied artificial general intelligence awakens in a server farm, escapes human control and either elevates or destroys civilization. This is largely a software-centered vision of the future, shaped by a culture that tends to imagine intelligence as something [] The post B Beyond the Singularity: China owning the physical AI revolution.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "How India’s ‘Cockroach’ movement grew its wings",
-      "url": "https://asiatimes.com/2026/08/how-indias-cockroach-movement-grew-its-wings/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-08-03T14:08:24+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/08/India-Cockroach-Party.jpg",
-      "summary": "Young people across India recently made international headlines for mass protests over the recurring leaks of entrance exams that help students qualify for medical schools and highly coveted government jobs. The Gen Z protesters won a major victory within a matter of weeks when Education Minister Dharmendra Pradhan resigned on July 25, 2026, bowing to [] The post How India’s ‘Cockroach’ movement.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "New centre opens at heart of record Ebola outbreak",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168064",
       "source": "UN News",
@@ -308,19 +308,55 @@
       "translations": {}
     },
     {
-      "title": "फूट-फूट कर रोईं शेख हसीना, बांग्लादेश में अपने साथ हुए अन्याय पर बिफरीं",
+      "title": "'पीएम मोदी ने सम्मान दिया', लाइव पर फूट-फूट कर रोईं शेख हसीना, बांग्लादेश लौटने पर क्या बोलीं?",
       "url": "https://hindi.news18.com/world/south-asia-sheikh-hasina-first-live-speech-ex-bangladesh-pm-address-media-in-new-delhi-awami-league-accused-tarique-rahman-bnp-in-press-conference-10721505.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-05T13:32:01+00:00",
+      "published_at": "2026-08-05T14:36:48+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Sheikh-Hasina-Live-2026-08-e1ea78d2cf4acad1d37ba3a1a9c62ffd-1200x800.jpg",
       "summary": "देश छोड़ने के 2 साल बाद पूर्व पीएम शेख हसीना पहली बार कैमरे के सामने आईं. उन्होंने नई दिल्ली से वर्चुअली जुड़कर प्रेस कॉन्फ्रेंस की. इस दौरान उन्होंने अपनी 15 साल पुरानी सरकार गिरने का सच बताया. उन्होंने साफ कहा कि इसके पीछे बड़ी अंतरराष्ट्रीय साजिश थी. शेख हसीना ने बांग्लादेश के मौजूदा हालात पर चिंता जताई. फूट-फूट कर रोईं शेख हसीना, बांग्लादेश में अपने साथ हुए अन्याय पर बिफरीं।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "फूट-फूट कर रोईं शेख हसीना, बांग्लादेश में अपने साथ हुए अन्याय पर बिफरीं",
+          "title": "'पीएम मोदी ने सम्मान दिया', लाइव पर फूट-फूट कर रोईं शेख हसीना, बांग्लादेश लौटने पर क्या बोलीं?",
           "summary": "देश छोड़ने के 2 साल बाद पूर्व पीएम शेख हसीना पहली बार कैमरे के सामने आईं. उन्होंने नई दिल्ली से वर्चुअली जुड़कर प्रेस कॉन्फ्रेंस की. इस दौरान उन्होंने अपनी 15 साल पुरानी सरकार गिरने का सच बताया. उन्होंने साफ कहा कि इसके पीछे बड़ी अंतरराष्ट्रीय साजिश थी. शेख हसीना ने बांग्लादेश के मौजूदा हालात पर चिंता जताई. फूट-फूट कर रोईं शेख हसीना, बांग्लादेश में अपने साथ हुए अन्याय पर बिफरीं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "धारा 370 की वर्षगांठ पर पाकिस्तान के ‘यौम-ए-इस्तेहसाल’ को भारत ने नकारा, कहा- ‘राजनीतिक ढोंग’",
+      "url": "https://www.patrika.com/world-news/article-370-anniversary-india-rejects-pakistan-youm-e-istehsal-claims-20808711",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-05T14:20:19+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Randhir-Jaiswal-Statement.webp",
+      "summary": "India dismissed Pakistan’s “Yawm‑e‑Istehsal” ceremony marking the anniversary of the Article 370 repeal, labeling it political hypocrisy. The Indian foreign ministry said Jammu and Kashmir and Ladakh remain integral parts of India and warned the event aims to divert attention from human‑rights violations and terrorism in Pakistan‑controlled territories. Jammu and Kashmir Article 370: जम्मू-कश्मीर से अनुच्छेद 370 हटाए जाने की वर्षगांठ पर पाकिस्तान द्वारा रचे गए नाटक ‘यौम-ए-इस्तेहसाल’ को भारत ने कड़े शब्दों में खारिज कर दिया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धारा 370 की वर्षगांठ पर पाकिस्तान के ‘यौम-ए-इस्तेहसाल’ को भारत ने नकारा, कहा- ‘राजनीतिक ढोंग’",
+          "summary": "India dismissed Pakistan’s “Yawm‑e‑Istehsal” ceremony marking the anniversary of the Article 370 repeal, labeling it political hypocrisy. The Indian foreign ministry said Jammu and Kashmir and Ladakh remain integral parts of India and warned the event aims to divert attention from human‑rights violations and terrorism in Pakistan‑controlled territories. Jammu and Kashmir Article 370: जम्मू-कश्मीर से अनुच्छेद 370 हटाए जाने की वर्षगांठ पर पाकिस्तान द्वारा रचे गए नाटक ‘यौम-ए-इस्तेहसाल’ को भारत ने कड़े शब्दों में खारिज कर दिया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "जुलाई क्रांति एक शांतिपूर्ण प्रदर्शन नहीं था, यूनुस ने साजिश का सच उजागर किया: शेख हसीना",
+      "url": "https://www.patrika.com/world-news/sheikh-hasina-july-revolution-not-peaceful-yunus-conspiracy-allegation-20808726",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-05T14:10:11+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/hasina.webp",
+      "summary": "Hasina’s allegation: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने बुधवार को नई दिल्ली से वीडियो लिंक के जरिए तीखा हमला बोला। उन्होंने कहा कि जुलाई-अगस्त 2024 का आंदोलन शांतिपूर्ण छात्र आंदोलन बिल्कुल नहीं था। यह एक सुनियोजित अभियान था, जिसमें कोटा सुधार के प्रदर्शन को हिंसक राजनीतिक हथियार बना दिया गया और सत्ता बदलने का लक्ष्य रखा गया। मोहम्मद युनूस ने सत्ता पर कब्जा जमाकर इसे उजागर कर दिया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जुलाई क्रांति एक शांतिपूर्ण प्रदर्शन नहीं था, यूनुस ने साजिश का सच उजागर किया: शेख हसीना",
+          "summary": "Hasina’s allegation: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने बुधवार को नई दिल्ली से वीडियो लिंक के जरिए तीखा हमला बोला। उन्होंने कहा कि जुलाई-अगस्त 2024 का आंदोलन शांतिपूर्ण छात्र आंदोलन बिल्कुल नहीं था। यह एक सुनियोजित अभियान था, जिसमें कोटा सुधार के प्रदर्शन को हिंसक राजनीतिक हथियार बना दिया गया और सत्ता बदलने का लक्ष्य रखा गया। मोहम्मद युनूस ने सत्ता पर कब्जा जमाकर इसे उजागर कर दिया।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -339,6 +375,24 @@
         "hi": {
           "title": "'बच के रहना, बाद में अफसोस करोगी', कौन है तानाशाह किम जोंग उन की खूंखार बहन जिसने जापानी पीएम को",
           "summary": "उत्तर कोरिया ने जापान को उसकी बढ़ती सैन्य ताकतों को लेकर चेतावनी दी है. दक्षिण कोरिया बताया है कि जापान के अमेरिकी टोमहॉक क्रूज मिसाइल का परीक्षण किए जाने के बाद गंभीर कदम उठाने पर विचार कर रहा है. उत्तर कोरियाई नेता किम जोंग उन की बहन किम यो जोंग ने आरोप लगाया कि जापान, अमेरिका के समर्थन से एक वॉर स्टेट में बदल रहा है. जापान अपनी शांतिवादी नीतियों को छोड़ रहा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नए टैरिफ के बाद चीन का पलटवार, 6 अमेरिकी कंपनियों को ब्लैकलिस्ट किया- ड्रोन एक्सपोर्ट पर भी रोक",
+      "url": "https://www.patrika.com/world-news/china-blacklists-six-us-companies-after-new-us-tariffs-20808569",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-05T13:07:12+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/China-US-Trade-War.webp",
+      "summary": "China blacklisted six U. S. companies and tightened drone export controls after Washington imposed new trade restrictions citing forced labor and national security concerns. The move, announced in Beijing on 12 April 2026, follows the U. S. Commerce Department's list of 30 entities linked to the Chinese military. US China Trade Tensions: चीन ने अमेरिका के खिलाफ कई आर्थिक जवाबी कदमों की घोषणा की।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नए टैरिफ के बाद चीन का पलटवार, 6 अमेरिकी कंपनियों को ब्लैकलिस्ट किया- ड्रोन एक्सपोर्ट पर भी रोक",
+          "summary": "China blacklisted six U. S. companies and tightened drone export controls after Washington imposed new trade restrictions citing forced labor and national security concerns. The move, announced in Beijing on 12 April 2026, follows the U. S. Commerce Department's list of 30 entities linked to the Chinese military. US China Trade Tensions: चीन ने अमेरिका के खिलाफ कई आर्थिक जवाबी कदमों की घोषणा की।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -700,60 +754,6 @@
           "title": "रूस ने यूक्रेन पर दागीं बैलिस्टिक मिसाइलें, 14 लोगों की मौत, 22 घायल",
           "summary": "रूस ने यूक्रेन पर बैलिस्टिक मिसाइलें और ड्रोन से हमला किया। इसमें 14 यूक्रेनी नागरिकों की मौत हो गई और कम से कम 22 अन्य घायल हो गए। Russia-Ukraine War: रूस और यूक्रेन के बीच तनाव बढ़ता ही जा रहा है, जिसका खामियाजा दोनों देशों के नागरिकों को उठाना पड़ रहा है। दरअसल, रूस ने बुधवार रात यूक्रेन पर बैलिस्टिक मिसाइलों और ड्रोन से जबरदस्त हमला किया।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "‘ईरान से दिन भर बातचीत हुई, अब उसने समझौता नहीं किया तो जोरदार हमला करेंगे’, डोनाल्ड ट्रंप का बयान",
-      "url": "https://www.patrika.com/world-news/donald-trump-iran-talks-warning-hormuz-strait-attack-threat-20806823",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-05T05:13:32+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Trump-Iran-Deal.webp",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी कि अगर वह बातचीत से पीछे हटता है तो उसे जोरदार हमला किया जाएगा। ट्रंप ने कहा कि मंगलवार को ईरान के साथ दिनभर बातचीत हुई थी, लेकिन अब ईरान समझौता नहीं करने की तैयारी में है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को साफ चेतावनी दे दी है। उन्होंने कहा- अगर ईरान बातचीत से पीछे हटा तो उसे बहुत जोर का झटका लगेगा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘ईरान से दिन भर बातचीत हुई, अब उसने समझौता नहीं किया तो जोरदार हमला करेंगे’, डोनाल्ड ट्रंप का बयान",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी कि अगर वह बातचीत से पीछे हटता है तो उसे जोरदार हमला किया जाएगा। ट्रंप ने कहा कि मंगलवार को ईरान के साथ दिनभर बातचीत हुई थी, लेकिन अब ईरान समझौता नहीं करने की तैयारी में है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को साफ चेतावनी दे दी है। उन्होंने कहा- अगर ईरान बातचीत से पीछे हटा तो उसे बहुत जोर का झटका लगेगा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेनी ड्रोन हमले के बाद रूस में Wildberries के लॉजिस्टिक्स हब में लगी आग, 1 घायल",
-      "url": "https://www.patrika.com/world-news/russia-tula-drone-attack-wildberries-logistics-hub-fire-20806713",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-05T05:03:21+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/photo_6312255556411921522_y.webp",
-      "summary": "A Ukrainian drone strike hit a Wildberries logistics hub in Tula, Russia, igniting a fire that spread to adjacent warehouses and heavily damaged the complex. One worker suffered injuries and Russia launched missile and air strikes on Kyiv in retaliation. Tula Region Attack: रूस और यूक्रेन के बीच जारी जंग के बीच एक बार फिर बड़ा हमला हुआ है। रूस के तुला क्षेत्र में यूक्रेनी ड्रोन हमले के बाद रूस की सबसे बड़ी ऑनलाइन रिटेलर कंपनी Wildberries के एक बड़े लॉजिस्टिक्स हब में भीषण आग लग गई।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेनी ड्रोन हमले के बाद रूस में Wildberries के लॉजिस्टिक्स हब में लगी आग, 1 घायल",
-          "summary": "A Ukrainian drone strike hit a Wildberries logistics hub in Tula, Russia, igniting a fire that spread to adjacent warehouses and heavily damaged the complex. One worker suffered injuries and Russia launched missile and air strikes on Kyiv in retaliation. Tula Region Attack: रूस और यूक्रेन के बीच जारी जंग के बीच एक बार फिर बड़ा हमला हुआ है। रूस के तुला क्षेत्र में यूक्रेनी ड्रोन हमले के बाद रूस की सबसे बड़ी ऑनलाइन रिटेलर कंपनी Wildberries के एक बड़े लॉजिस्टिक्स हब में भीषण आग लग गई।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पीओके में बवाल से डरा PAK: विदेशी पत्रकारों के लिए सख्त किए नियम, अब हर कदम पर सरकार से लेनी होगी",
-      "url": "https://www.amarujala.com/world/pakistan-tightens-rules-for-foreign-media-amid-pok-protests-2026-08-05",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-05T04:41:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/pok_0c0db0894850073be4889d5d4257c826.jpeg?w=1200&dpr=1.0",
-      "summary": "मंजूरी? पीओके में बवाल से डरा PAK: विदेशी पत्रकारों के लिए सख्त किए नियम, अब हर कदम पर सरकार से लेनी होगी मंजूरी?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीओके में बवाल से डरा PAK: विदेशी पत्रकारों के लिए सख्त किए नियम, अब हर कदम पर सरकार से लेनी होगी",
-          "summary": "मंजूरी? पीओके में बवाल से डरा PAK: विदेशी पत्रकारों के लिए सख्त किए नियम, अब हर कदम पर सरकार से लेनी होगी मंजूरी?",
-          "region": "दुनिया"
         }
       }
     }
