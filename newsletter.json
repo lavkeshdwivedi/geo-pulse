@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-08-05T11:44:03.723896+00:00",
-  "article_count": 49,
-  "total_unique_count": 252,
+  "generated_at": "2026-08-05T12:41:23.826768+00:00",
+  "article_count": 50,
+  "total_unique_count": 265,
   "digest": {
-    "en": "Russia launches ballistic missile and drone attacks on Kyiv. Ceuta is a focal point in Europe's immigration policy. Hundreds gather near the Ceuta border in Morocco.",
-    "hi": "आज भारत ने एक आतंकवादी का खानदान मिटाया। यह आतंकवादी पाकिस्तान के कब्जे वाले कश्मीर में भेष बदलकर पहुंचा था। मुनीर का नया कांड सामने आया है।"
+    "en": "Middle East & Africa leads the board this hour with Ebola en RDC, une épidémie hors de contrôle ?. 25 fresh dispatches in this edition.",
+    "hi": "गाजा डील पर ईरान का बड़ा बयान आया है। ईरान ने कहा कि वह हमास के कदमों का समर्थन करेगा। भारत के दोस्त और जहाज पर ईरान ने अटैक किया है।"
   },
   "articles": [
+    {
+      "title": "Ebola en RDC, une épidémie hors de contrôle ?",
+      "url": "https://www.crisisgroup.org/fr/pod/africa/democratic-republic-congo/ebola-en-rdc-une-epidemie-hors-de-controle",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Vendredi, juillet 24, 2026 - 13:43",
+      "image_url": "https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Frédéric Manantsoa Lai, coordinateur des urgences pour Médecins Sans Frontières, et Onesphore Sematumba, analyste senior pour la République démocratique du Congo et le Burundi à Crisis Group, pour parler de l’épidémie d’Ebola en RDC et de ses conséquences sur la population congolaise, déjà marquée par des années de conflit.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "url": "https://www.crisisgroup.org/tr/brf/europe/european-union-turkiye/b99-eu-and-turkiye-uniting-defence",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Perşembe, Temmuz 23, 2026 - 15:54",
+      "image_url": "https://images.pexels.com/photos/17989706/pexels-photo-17989706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Russia Launches Deadly Ballistic Missile, Drone Attack On Kyiv Region",
       "url": "https://www.rferl.org/a/russia-launches-deadly-ballistic-missile-drone-attack-on-kyiv-region/33822670.html",
@@ -284,16 +308,76 @@
       "translations": {}
     },
     {
-      "title": "Strong El Niño ahead, UN weather agency warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168059",
-      "source": "UN News",
+      "title": "गाजा डील पर ईरान का बड़ा बयान, पेजेशकियन बोले- हमास जो कदम उठाएगा उसका समर्थन करेंगे",
+      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-news-update-strait-of-hormuz-could-be-open-soon-oman-mediation-worked-well-livenews-10719373.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-07-31T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-01-2025_WMO_USA.jpg/image770x420cropped.jpg",
-      "summary": "As much of the world faces grapples with above normal temperatures and major rainfall changes, the UN Meteorological Organization (WMO) warned on Friday that El Niño, a powerful climate pattern shaping global weather, will intensify starting next month. Strong El Niño ahead, UN weather agency warns.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-08-05T12:38:04+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/US-Iran-Deal-4-2026-06-0097d7e7d76c638f9361205173fa2baa-1200x800.jpg",
+      "summary": "India-US War News: अमेरिका-ईरान के बीच चल रहे युद्ध का समाधान बिल्कुल करीब है. कम से कम मौजूदा हालत से ऐसा ही लग रहा है. पाकिस्तान और तुर्की के बाद ओमान की मध्यस्थता में ईरान-अमेरिका के बीच होर्मुज पर समझौता होने वाला है. ऐसा दावा अमेरिकी वित्त मंत्री ने किया है, लेकिन ईरान की ओर से इस पर जवाब नहीं आया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गाजा डील पर ईरान का बड़ा बयान, पेजेशकियन बोले- हमास जो कदम उठाएगा उसका समर्थन करेंगे",
+          "summary": "India-US War News: अमेरिका-ईरान के बीच चल रहे युद्ध का समाधान बिल्कुल करीब है. कम से कम मौजूदा हालत से ऐसा ही लग रहा है. पाकिस्तान और तुर्की के बाद ओमान की मध्यस्थता में ईरान-अमेरिका के बीच होर्मुज पर समझौता होने वाला है. ऐसा दावा अमेरिकी वित्त मंत्री ने किया है, लेकिन ईरान की ओर से इस पर जवाब नहीं आया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत के दोस्त और जहाज पर छुपकर ईरान ने किया अटैक? 1830KM दूर से आई मिसाइल ने खोली पोल",
+      "url": "https://hindi.news18.com/world/middle-east-iran-proxy-war-exposed-houthi-attack-on-indian-ship-and-uae-jebel-ali-port-threatens-red-sea-trade1830km-missile-attack-10721308.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-05T12:24:21+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/houthi-saudi-dispute-2026-07-4e92086607b283d4083c206493db9a3f-1200x800.jpg",
+      "summary": "खाड़ी देश में अमेरिका के साथ सीजफायर का ढोंग करने वाले ईरान का सच दुनिया के सामने बेनकाब हो गया है. यमन के साना से हूती विद्रोहियों द्वारा दागी गई 1830 किलोमीटर दूर मार करने वाली मिसाइल ने भारत के करीबी दोस्त UAE के 'जेबेल अली पोर्ट' को निशाना बनाया, जिससे पूरे क्षेत्र में हड़कंप मच गया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के दोस्त और जहाज पर छुपकर ईरान ने किया अटैक? 1830KM दूर से आई मिसाइल ने खोली पोल",
+          "summary": "खाड़ी देश में अमेरिका के साथ सीजफायर का ढोंग करने वाले ईरान का सच दुनिया के सामने बेनकाब हो गया है. यमन के साना से हूती विद्रोहियों द्वारा दागी गई 1830 किलोमीटर दूर मार करने वाली मिसाइल ने भारत के करीबी दोस्त UAE के 'जेबेल अली पोर्ट' को निशाना बनाया, जिससे पूरे क्षेत्र में हड़कंप मच गया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "82 साल की उम्र में साइकिल से नापे 5200 किलोमीटर, चैरिटी के लिए करोड़ों जुटाए मगर अगले ही दिन छूट गए",
+      "url": "https://hindi.news18.com/world/rest-of-world-bob-montgomery-completed-5200-km-cycling-journey-age-82-raised-millions-died-next-day-10721145.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-05T11:50:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Bob-Montgomery-2026-08-547befc50faa70097f815cca5c08ac65-1200x800.jpg",
+      "summary": "ऑस्ट्रेलिया के 82 साल के बॉब मोंटगोमरी ने 5200 किलोमीटर की लंबी साइकिल यात्रा पूरी करने के ठीक एक दिन बाद इस दुनिया को अलविदा कह दिया. अपनी इस आखिरी यात्रा में बॉब ने मोटर न्यूरोन डिजीज न्यू साउथ वेल्स के लिए लगभग 1.05 लाख ऑस्ट्रेलियाई डॉलर जुटाए. 82 साल की उम्र में साइकिल से नापे 5200 किलोमीटर, चैरिटी के लिए करोड़ों जुटाए मगर अगले ही दिन छूट गए।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "82 साल की उम्र में साइकिल से नापे 5200 किलोमीटर, चैरिटी के लिए करोड़ों जुटाए मगर अगले ही दिन छूट गए",
+          "summary": "ऑस्ट्रेलिया के 82 साल के बॉब मोंटगोमरी ने 5200 किलोमीटर की लंबी साइकिल यात्रा पूरी करने के ठीक एक दिन बाद इस दुनिया को अलविदा कह दिया. अपनी इस आखिरी यात्रा में बॉब ने मोटर न्यूरोन डिजीज न्यू साउथ वेल्स के लिए लगभग 1.05 लाख ऑस्ट्रेलियाई डॉलर जुटाए. 82 साल की उम्र में साइकिल से नापे 5200 किलोमीटर, चैरिटी के लिए करोड़ों जुटाए मगर अगले ही दिन छूट गए।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "क्या है ये यौम-ए-इस्तेहसाल, जिस पर रोना रो रहा पाकिस्तान, भारत ने सिखाया हकीकत का पाठ",
+      "url": "https://hindi.news18.com/news/nation/what-is-this-youm-e-istehsal-that-pakistan-is-lamenting-over-india-taught-reality-lesson-on-jammu-kashmir-article-370-10721339.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-05T11:49:35+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/pakistan-shahbz-sharif-2026-07-fdb2d2f8a542eb05ae272d9897b8668b-1200x800.jpg",
+      "summary": "पाकिस्तान में 5 अगस्त को 'यौम-ए-इस्तेहसाल' के रूप में मनाया गया. इस मौके पर पाकिस्तानी विदेश मंत्री ने भारत के खिलाफ एक बार फिर जहर उगला, जिस पर भारतीय विदेश मंत्रालय से सख्त जवाब दिया है. भारत ने इसके साथ ही पाकिस्तान को PoJK में हिंसा रोकने, टेरर नेटवर्क पर भरोसेमंद कार्रवाई करने और अवैध कब्जे वाले भारतीय क्षेत्रों को तत्काल खाली करने की सलाह दी.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या है ये यौम-ए-इस्तेहसाल, जिस पर रोना रो रहा पाकिस्तान, भारत ने सिखाया हकीकत का पाठ",
+          "summary": "पाकिस्तान में 5 अगस्त को 'यौम-ए-इस्तेहसाल' के रूप में मनाया गया. इस मौके पर पाकिस्तानी विदेश मंत्री ने भारत के खिलाफ एक बार फिर जहर उगला, जिस पर भारतीय विदेश मंत्रालय से सख्त जवाब दिया है. भारत ने इसके साथ ही पाकिस्तान को PoJK में हिंसा रोकने, टेरर नेटवर्क पर भरोसेमंद कार्रवाई करने और अवैध कब्जे वाले भारतीय क्षेत्रों को तत्काल खाली करने की सलाह दी.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "भारत ने जिस आतंकवादी का मिटाया खानदान, PoK में वही भेष बदलकर पहुंचा, मुनीर का नया कांड!",
@@ -346,24 +430,6 @@
           "title": "आखिर चीन में कितने State हैं? जवाब है - एक भी नहीं! जानिए दुश्मन के शासन का पूरा सिस्टम",
           "summary": "चीन में भारत की तरह State नहीं हैं. इसके बजाय 34 प्रशासनिक इकाइयों के जरिए शासन चलता है, जिनमें कुछ ऐसे क्षेत्र भी शामिल हैं जिनकी राजनीतिक और ऐतिहासिक स्थिति लंबे समय से अंतरराष्ट्रीय चर्चा का विषय रही है. तिब्बत, शिनजियांग और इनर मंगोलिया जैसे क्षेत्रों को चीन Autonomous Region कहता है, आखिर इन इलाकों का इतिहास क्या है और चीन की प्रशासनिक व्यवस्था कैसे बनी?",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान-अमेरिका का ब्लेम गेम जारी, होर्मुज पर सस्पेंस, लाल सागर में हूतियों का बवाल",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-news-update-strait-of-hormuz-could-be-open-soon-oman-mediation-worked-well-livenews-10719373.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-05T10:36:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/US-Iran-Deal-4-2026-06-0097d7e7d76c638f9361205173fa2baa-1200x800.jpg",
-      "summary": "India-US War News: अमेरिका-ईरान के बीच चल रहे युद्ध का समाधान बिल्कुल करीब है. कम से कम मौजूदा हालत से ऐसा ही लग रहा है. पाकिस्तान और तुर्की के बाद ओमान की मध्यस्थता में ईरान-अमेरिका के बीच होर्मुज पर समझौता होने वाला है. ऐसा दावा अमेरिकी वित्त मंत्री ने किया है, लेकिन ईरान की ओर से इस पर जवाब नहीं आया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान-अमेरिका का ब्लेम गेम जारी, होर्मुज पर सस्पेंस, लाल सागर में हूतियों का बवाल",
-          "summary": "India-US War News: अमेरिका-ईरान के बीच चल रहे युद्ध का समाधान बिल्कुल करीब है. कम से कम मौजूदा हालत से ऐसा ही लग रहा है. पाकिस्तान और तुर्की के बाद ओमान की मध्यस्थता में ईरान-अमेरिका के बीच होर्मुज पर समझौता होने वाला है. ऐसा दावा अमेरिकी वित्त मंत्री ने किया है, लेकिन ईरान की ओर से इस पर जवाब नहीं आया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -688,60 +754,6 @@
           "title": "पीओके में बवाल से डरा PAK: विदेशी पत्रकारों के लिए सख्त किए नियम, अब हर कदम पर सरकार से लेनी होगी",
           "summary": "मंजूरी? पीओके में बवाल से डरा PAK: विदेशी पत्रकारों के लिए सख्त किए नियम, अब हर कदम पर सरकार से लेनी होगी मंजूरी?",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रिश्ते खराब नहीं करने, लेकिन... चिकन नेक पर ड्रैगन की गोद में बैठा बांग्लादेश, शेख हसीना के बहाने",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-threatens-india-after-it-distances-itself-from-sheikh-hasina-event-ws-l-10719623.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-05T04:35:23+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Sheikh-Hasina-Bangladesh-Return-2026-06-a7e271db07b747a3c426e90467dfbe92-1200x800.jpg",
-      "summary": "Bangladesh-India Conflict: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने भारत में शरण ले रखी है और वे आज वीडियो कॉन्फ्रेंसिंग के जरिये अपने देश के लोगों से संवाद करने जा रही हैं. इस मामले में भारत से खफा बांग्लादेश उससे धमकी के लिहाज में बात कर रहा है. उसका ये कॉन्फिडेंस अपना नहीं है, बल्कि तारिक रहमान के चीन दौरे और हथियारों की डील के बाद ही आया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रिश्ते खराब नहीं करने, लेकिन... चिकन नेक पर ड्रैगन की गोद में बैठा बांग्लादेश, शेख हसीना के बहाने",
-          "summary": "Bangladesh-India Conflict: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने भारत में शरण ले रखी है और वे आज वीडियो कॉन्फ्रेंसिंग के जरिये अपने देश के लोगों से संवाद करने जा रही हैं. इस मामले में भारत से खफा बांग्लादेश उससे धमकी के लिहाज में बात कर रहा है. उसका ये कॉन्फिडेंस अपना नहीं है, बल्कि तारिक रहमान के चीन दौरे और हथियारों की डील के बाद ही आया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत में एफसीआरए संशोधन पर अमेरिकी सांसद को क्यों लगी मिर्ची? बोले- संबंधों पर असर पड़ने की आशंका",
-      "url": "https://www.amarujala.com/world/why-us-congressman-riley-moore-concern-over-fcra-amendment-bill-india-2026-08-05",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-05T04:32:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/fcra_e49a6847e55ed70462b634bf2ece38d3.jpeg?w=1200&dpr=1.0",
-      "summary": "FCRA: भारत में एफसीआरए संशोधन पर अमेरिकी सांसद को क्यों लगी मिर्ची? बोले- संबंधों पर असर पड़ने की आशंका।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत में एफसीआरए संशोधन पर अमेरिकी सांसद को क्यों लगी मिर्ची? बोले- संबंधों पर असर पड़ने की आशंका",
-          "summary": "FCRA: भारत में एफसीआरए संशोधन पर अमेरिकी सांसद को क्यों लगी मिर्ची? बोले- संबंधों पर असर पड़ने की आशंका।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में भारतीय समुदाय का सम्मान: मैसाचुसेट्स ने 15 अगस्त को घोषित किया 'भारत दिवस', गवर्नर ने",
-      "url": "https://www.amarujala.com/world/massachusetts-declares-august-15-as-india-day-2026-08-05",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-05T04:07:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/bharata-thavasa_642de3247ba262e22e8696be6a969cf1.jpeg?w=1200&dpr=1.0",
-      "summary": "क्या कहा? अमेरिका में भारतीय समुदाय का सम्मान: मैसाचुसेट्स ने 15 अगस्त को घोषित किया 'भारत दिवस', गवर्नर ने क्या कहा?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में भारतीय समुदाय का सम्मान: मैसाचुसेट्स ने 15 अगस्त को घोषित किया 'भारत दिवस', गवर्नर ने",
-          "summary": "क्या कहा? अमेरिका में भारतीय समुदाय का सम्मान: मैसाचुसेट्स ने 15 अगस्त को घोषित किया 'भारत दिवस', गवर्नर ने क्या कहा?",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
