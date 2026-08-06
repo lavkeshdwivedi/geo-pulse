@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-06T13:55:26.906690+00:00",
+  "generated_at": "2026-08-06T14:50:27.096501+00:00",
   "article_count": 50,
-  "total_unique_count": 264,
+  "total_unique_count": 263,
   "digest": {
-    "en": "Ebola outbreaks in the Democratic Republic of Congo and North Korea's ballistic missile test dominate the global news agenda. Meanwhile, a surge in Nintendo profits following a US tariff refund contrasts with the economic challenges faced by Spain's Ceuta region due to a migrant crisis.",
-    "hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को डेमोक्रेटिक पार्टी के उम्मीदवारों द्वारा चुनाव में कड़ी चुनौती मिल रही है। ट्रंप के कट्टर विरोधी उम्मीदवार जो बिडेन ने सीनेट चुनाव में अपनी जीत के बाद रैलियों की शुरुआत की है। बिडेन की रैलियों में बड़ी संख्या में लोगों का हिस्सा लेने की उम्मीद है।"
+    "en": "Ebola outbreaks dominate the Democratic Republic of Congo. Nigerian security forces freed over 300 hostages from militants. South Sudan's peace deal is fraying.",
+    "hi": "भारत-इजरायल की डील पर नेतन्याहू ने पीएम मोदी को कॉल किया। ईरान-गाजा पर चर्चा भी हुई। ट्रंप की धमकियों के बीच ईरान ने जवाब दिया है, अपनी सेना को तैयार किया है।"
   },
   "articles": [
     {
@@ -32,6 +32,18 @@
       "translations": {}
     },
     {
+      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-08-06T14:30:32+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/722558205b33f4faaab5e9e6e15a8a25d3bd3933/0_251_692_554/master/692.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15bbefcb152ba4f677e4cd45e8752b07",
+      "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phoneThe Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the capital, Kampala, on Tuesday night.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Nigerian security forces free more than 300 hostages abducted by militants",
       "url": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
       "source": "The Guardian",
@@ -39,6 +51,18 @@
       "published_at": "2026-08-06T12:40:32+00:00",
       "image_url": "https://i.guim.co.uk/img/media/62045eac3aead8107b88f33dd07b04186a7000ca/0_0_3506_2805/master/3506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a5f03f5560ed870c32ed936b805edeb",
       "summary": "President hails ‘successful’ rescue as country battles endemic kidnapping for ransom and insecurity worsensNigerian security forces have rescued more than 300 abducted people in what the president, Bola Ahmed Tinubu, hailed as the largest single-day hostage recovery in the country’s history. The release was announced on Wednesday after a joint operation, conducted by the military, police and counte Nigerian security forces free more than 300 hostages abducted by militants.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Warnings of famine and collapse as South Sudan's peace deal frays",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168089",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-08-06T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-UNOCHA-South-Sudan-01.jpg/image770x420cropped.jpg",
+      "summary": "Nearly eight million people in South Sudan – more than half the population – face crisis-level hunger, with famine risk now flagged in four counties, as the Security Council meets this morning in New York. A cholera outbreak has killed more than 1,700 people, and some aid workers are being killed and abducted even as they try to reach those most at risk. Follow live coverage below.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -157,7 +181,7 @@
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-08-06T05:34:10+00:00",
-      "image_url": "https://gdb.rferl.org/8214cbc4-62fd-4975-f76a-08def2b08775_cx0_cy3_cw76_w1200_h630.jpg",
+      "image_url": "https://gdb.rferl.org/42c42a48-38ef-475a-82ac-08decad17715_w1200_h630.jpg",
       "summary": "A bipartisan coalition in the US Senate is working to keep momentum behind a sweeping sanctions package targeting Russia and Iran, with lawmakers from both parties arguing that the legislation would send a broader message about American resolve against authoritarian powers. Curtis Points To Bipartisan Senate Momentum As Russia-Iran Sanctions Bill Nears Final Vote. US Senator John Curtis Points To Bipartisan Momentum As Russia-Iran Sanctions Bill Nears Final Vote.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -272,18 +296,6 @@
       "translations": {}
     },
     {
-      "title": "​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest",
-      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-08-05T05:54:54+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/96b74b0a78e9276a377293cdc330593ca8185443/174_0_1260_1008/master/1260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8dd2fa094b9a3d77d468166dab2024d",
-      "summary": "In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the groundGood morning. Last week, an estimated 72,000 migrants began crossing into a tiny Spanish enclave on the tip of Morocco. Within 24 hours, most of them had headed home. At least 88 people died after attempting the crossing, according to local officials.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Russian Barrage On Kyiv Region Kills 17 Amid Ukraine's Air Defense Missile Shortage",
       "url": "https://www.rferl.org/a/russian-drone-and-missile-barrage-on-ukraine/33822483.html",
       "source": "Radio Free Europe / Liberty",
@@ -296,16 +308,22 @@
       "translations": {}
     },
     {
-      "title": "New Zealand capital delights in rare snowfall as southern city residents ski down world’s steepest",
-      "url": "https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street",
-      "source": "The Guardian",
+      "title": "नेतन्याहू ने पीएम मोदी को किया कॉल, भारत-इजरायल की डील समेत ईरान-गाजा पर हुई ये बात",
+      "url": "https://hindi.news18.com/world/middle-east-netanyuhu-calls-pm-modi-dialogue-on-india-israel-strategic-deal-gaza-conflict-and-iran-tensions-10724984.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-05T03:27:37+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/6956befa7782607fef2eac3b435eff652f9d556c/404_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0895e3548dcbbeb33bd56a3c68bb8fc3",
-      "summary": "Snow falls in Wellington for the first time in 15 years while snow blanketed Dunedin and Christchurch on the country’s south islandTemperatures have plummeted across New Zealand as an Antarctic cold snap hovers over the country, delighting the capital, Wellington, which experienced snow for the first time in 15 years, while giving a southern city’s residents a chance to ski through the streets.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-08-06T14:29:00+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Netanyuhu-Calls-PM-Modi-2026-08-8c26f72d724b7a895f66b25fd2f13870-1200x800.jpg",
+      "summary": "इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू ने पीएम नरेंद्र मोदी से फोन पर बात की है. इस फोन कॉल पर भारत-इजरायल की डील को लेकर लंबी बातचीत हुई है. इसके अलावा ईरान और गाजा के हालातों पर भी चर्चा हुई है. नेतन्याहू ने पीएम मोदी को किया कॉल, भारत-इजरायल की डील समेत ईरान-गाजा पर हुई ये बात।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेतन्याहू ने पीएम मोदी को किया कॉल, भारत-इजरायल की डील समेत ईरान-गाजा पर हुई ये बात",
+          "summary": "इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू ने पीएम नरेंद्र मोदी से फोन पर बात की है. इस फोन कॉल पर भारत-इजरायल की डील को लेकर लंबी बातचीत हुई है. इसके अलावा ईरान और गाजा के हालातों पर भी चर्चा हुई है. नेतन्याहू ने पीएम मोदी को किया कॉल, भारत-इजरायल की डील समेत ईरान-गाजा पर हुई ये बात।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "ट्रंप को बैठे-बिठाए चारा दे रही डेमोक्रेट, सीनेट चुनाव में कट्टर लेफ्टिस्ट पर दांव, अब रैलियों में",
@@ -326,6 +344,42 @@
       }
     },
     {
+      "title": "क्या सच में डोनाल्ड ट्रंप और रक्षा मंत्री पीट हेगसेथ के बीच हुई थी ‘तूतू-मैंमैं’? व्हाइट हाउस ने",
+      "url": "https://www.patrika.com/world-news/trump-hegseth-munitions-shortage-white-house-denies-report-20811418",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-06T13:29:19+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Donald-Trump-Pete-Hegseth-Controversy.webp",
+      "summary": "Donald Trump-Pete Hegseth Controversy: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और रक्षा मंत्री पीट हेगसेथ के बीच हथियारों के घटते भंडार को लेकर कथित विवाद की खबरों को व्हाइट हाउस और पेंटागन ने सिरे से खारिज कर दिया है। दोनों संस्थानों ने कहा कि ऐसी खबरें पूरी तरह गलत हैं और राष्ट्रपति ट्रंप को अपने रक्षा मंत्री पर पूरा भरोसा है। क्या सच में डोनाल्ड ट्रंप और रक्षा मंत्री पीट हेगसेथ के बीच हुई थी ‘तूतू-मैंमैं’?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या सच में डोनाल्ड ट्रंप और रक्षा मंत्री पीट हेगसेथ के बीच हुई थी ‘तूतू-मैंमैं’? व्हाइट हाउस ने",
+          "summary": "Donald Trump-Pete Hegseth Controversy: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और रक्षा मंत्री पीट हेगसेथ के बीच हथियारों के घटते भंडार को लेकर कथित विवाद की खबरों को व्हाइट हाउस और पेंटागन ने सिरे से खारिज कर दिया है। दोनों संस्थानों ने कहा कि ऐसी खबरें पूरी तरह गलत हैं और राष्ट्रपति ट्रंप को अपने रक्षा मंत्री पर पूरा भरोसा है। क्या सच में डोनाल्ड ट्रंप और रक्षा मंत्री पीट हेगसेथ के बीच हुई थी ‘तूतू-मैंमैं’?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "रूस के फंडिंग संसाधनों पर यूक्रेन का बड़ा हमला, 1,300 KM दूर दो तेल रिफाइनरियों को बनाया निशाना",
+      "url": "https://www.patrika.com/world-news/ukraine-strikes-russian-oil-refineries-zelenskyy-russia-war-funding-20811380",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-06T13:11:15+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Ukraine-Long-Range-Strike.webp",
+      "summary": "यूक्रेन गुरुवार को रूस की तेल से होने वाली आय को सीमित करने के उद्देश्य से बड़े पैमाने पर हमला किया। इस कार्रवाई में रूस के दूरस्थ इलाकों में स्थित दो प्रमुख तेल रिफाइनरियों को निशाना बनाया गया। मिसाइल हमलों के बाद दोनों रिफाइनरियों में भीषण आग लग गई। रूस तेल से होने वाली कमाई का इस्तेमाल युद्ध में कर रहा है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस के फंडिंग संसाधनों पर यूक्रेन का बड़ा हमला, 1,300 KM दूर दो तेल रिफाइनरियों को बनाया निशाना",
+          "summary": "यूक्रेन गुरुवार को रूस की तेल से होने वाली आय को सीमित करने के उद्देश्य से बड़े पैमाने पर हमला किया। इस कार्रवाई में रूस के दूरस्थ इलाकों में स्थित दो प्रमुख तेल रिफाइनरियों को निशाना बनाया गया। मिसाइल हमलों के बाद दोनों रिफाइनरियों में भीषण आग लग गई। रूस तेल से होने वाली कमाई का इस्तेमाल युद्ध में कर रहा है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
       "title": "‘इसका दिमाग खराब है’, आसिम मुनीर में जनरल बाजवा को दिख गया था हैवान, टॉप पर बिठाकर खुद ही डर गए",
       "url": "https://hindi.news18.com/world/pakistan-exclusive-asim-munir-will-destroy-pakistan-mentally-unstable-ex-army-chief-bajwa-secret-warning-exposed-by-moeed-pirzada-10724524.html",
       "source": "News18 Hindi (World)",
@@ -340,6 +394,24 @@
           "title": "‘इसका दिमाग खराब है’, आसिम मुनीर में जनरल बाजवा को दिख गया था हैवान, टॉप पर बिठाकर खुद ही डर गए",
           "summary": "आसिम मुनीर की हैवानियत उनके बॉस जनरल बाजवा को समय से पहले ही दिख गई थी. पाकिस्तान के पूर्व सेना प्रमुख जनरल कमर जावेद बाजवा ने पूर्व प्रधानमंत्री इमरान खान के सामने भविष्यवाणी तक तक दी थी. बाजवा ने मुनीर को 'मानसिक रूप से अस्थिर और सनकी' बताते हुए उन्हें सेना प्रमुख न बनाने की चेतावनी दी थी. आज पाकिस्तान जिस कंगाली, गृहयुद्ध और भारी तबाही के दौर से गुजर रहा है, उसे बाजवा की उसी चेतावनी को नजरअंदाज।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की धमकियों के बीच ईरान का आया जवाब, ‘किसी भी खतरे का जवाब देने के लिए सेना तैयार’",
+      "url": "https://www.patrika.com/world-news/iran-acting-defence-minister-al-reza-strait-of-hormuz-trump-20811264",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-06T12:22:20+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Donald-Trump-Mojtaba-Khamenei.webp",
+      "summary": "ईरान के कार्यवाहक रक्षामंत्री ब्रिगेडियर जनरल माजिद एब्न-ए-रेजा ने कहा कि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की धमकियों के बीच ईरानी सेना किसी भी खतरे का जवाब देने के लिए तैयार है। उन्होंने कहा कि ईरान की घरेलू रक्षा उद्योग सक्षम है। ईरान ने अपनी सैन्य तैयारियों को मजबूत करने का फैसला किया है। Iran-US Tensions: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की धमकियों के बीच ईरान के कार्यवाहक रक्षामंत्री ब्रिगेडियर जनरल माजिद एब्न-ए-रेजा ने कहा कि किसी भी चुनौती से निपटने के लिए ईरानी सेना पूरी तरह से तैयार है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की धमकियों के बीच ईरान का आया जवाब, ‘किसी भी खतरे का जवाब देने के लिए सेना तैयार’",
+          "summary": "ईरान के कार्यवाहक रक्षामंत्री ब्रिगेडियर जनरल माजिद एब्न-ए-रेजा ने कहा कि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की धमकियों के बीच ईरानी सेना किसी भी खतरे का जवाब देने के लिए तैयार है। उन्होंने कहा कि ईरान की घरेलू रक्षा उद्योग सक्षम है। ईरान ने अपनी सैन्य तैयारियों को मजबूत करने का फैसला किया है। Iran-US Tensions: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की धमकियों के बीच ईरान के कार्यवाहक रक्षामंत्री ब्रिगेडियर जनरल माजिद एब्न-ए-रेजा ने कहा कि किसी भी चुनौती से निपटने के लिए ईरानी सेना पूरी तरह से तैयार है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -681,78 +753,6 @@
         "hi": {
           "title": "देखिए किन्नौर में लैंडस्लाइड का खौफनाक वीडियो वायरल!",
           "summary": "किन्नौर में एक लैंडस्लाइड का वीडियो वायरल हुआ है. यह वीडियो एक सड़क पर हुए भूस्खलन को दिखाता है. कई वाहन इस घटना में फंस गए थे. Viral News: देखिए किन्नौर में लैंडस्लाइड का खौफनाक वीडियो वायरल!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "देशभक्ति और आस्था का अद्भुत संगम, देखिए!",
-      "url": "https://www.abplive.com/short-videos/news/india-viral-news-a-beautiful-blend-of-patriotism-and-faith-watch-this-3171293",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-08-06T07:15:05+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/06/e6a8cb4bc613395a3aca4f5334a6d8f317860003913261392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "भारतीय सेना ने गुरुवार को जम्मू-कश्मीर के पुलवामा में एक आतंकवादी हमले के बाद सीमा पर एक विशेष अभ्यास किया। इस अभ्यास में सेना के जवानों ने अपनी सामर्थ्य का प्रदर्शन किया और आतंकवादियों को निशाना बनाया। Viral News: देशभक्ति और आस्था का अद्भुत संगम, देखिए!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "देशभक्ति और आस्था का अद्भुत संगम, देखिए!",
-          "summary": "भारतीय सेना ने गुरुवार को जम्मू-कश्मीर के पुलवामा में एक आतंकवादी हमले के बाद सीमा पर एक विशेष अभ्यास किया। इस अभ्यास में सेना के जवानों ने अपनी सामर्थ्य का प्रदर्शन किया और आतंकवादियों को निशाना बनाया। Viral News: देशभक्ति और आस्था का अद्भुत संगम, देखिए!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग",
-      "url": "https://hindi.news18.com/world/south-asia-6-magnitude-earthquake-jolts-philippines-no-casualties-reported-ws-l-10723408.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-06T07:15:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/philippines-quake-2026-08-f8dc3dfad21cfc07f04b869ef7d2adfd-1200x800.jpg",
-      "summary": "Philippines Earthquake: दक्षिण एशियाई देश फिलीपींस में सुबह-सुबह आए भूकंप ने यहां लोगों को डरा दिया. रिक्टर स्केल पर इसकी तीव्रता 6.4 नापी गई है. गनीमत की बात ये रही कि अब तक इसकी वजह से कोई किसी तरह के नुकसान की खबर नहीं आई है. फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग",
-          "summary": "Philippines Earthquake: दक्षिण एशियाई देश फिलीपींस में सुबह-सुबह आए भूकंप ने यहां लोगों को डरा दिया. रिक्टर स्केल पर इसकी तीव्रता 6.4 नापी गई है. गनीमत की बात ये रही कि अब तक इसकी वजह से कोई किसी तरह के नुकसान की खबर नहीं आई है. फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या था वो केस, जिसमें 22 साल से जेल में बंद था शख्स? अब सुप्रीम कोर्ट ने किया बरी",
-      "url": "https://www.abplive.com/news/india/supreme-court-acquitted-arjun-jani-odisha-three-people-murder-case-ann-3171271",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-08-06T07:14:40+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/06/c318ea6bfa77459ccd8d28bd7e8ba0c417859995693011200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "ओडिशा के नबरंगपुर पुलिस क्षेत्र में 2004 में तीन लोगों की हत्या के मामले में आरोपी अर्जुन जानी को 22 साल से जेल में रहने के बाद सुप्रीम कोर्ट ने निर्दोष घोषित कर दिया है. कोर्ट ने कहा कि बिना ठोस सबूत के किसी व्यक्ति की स्वतंत्रता इतने लंबे समय तक छीन लेना न्याय की चूक है. ओडिशा के नबरंगपुर पुलिस क्षेत्र के हिरली गांव में 2004 में हुए तीन लोगों की निर्मम हत्या के मामले में आरोपी अर्जुन जानी को 2 दशक से अधिक समय तक जेल में रहने के बाद अब निर्दोष घोषित कर दिया गया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या था वो केस, जिसमें 22 साल से जेल में बंद था शख्स? अब सुप्रीम कोर्ट ने किया बरी",
-          "summary": "ओडिशा के नबरंगपुर पुलिस क्षेत्र में 2004 में तीन लोगों की हत्या के मामले में आरोपी अर्जुन जानी को 22 साल से जेल में रहने के बाद सुप्रीम कोर्ट ने निर्दोष घोषित कर दिया है. कोर्ट ने कहा कि बिना ठोस सबूत के किसी व्यक्ति की स्वतंत्रता इतने लंबे समय तक छीन लेना न्याय की चूक है. ओडिशा के नबरंगपुर पुलिस क्षेत्र के हिरली गांव में 2004 में हुए तीन लोगों की निर्मम हत्या के मामले में आरोपी अर्जुन जानी को 2 दशक से अधिक समय तक जेल में रहने के बाद अब निर्दोष घोषित कर दिया गया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रुद्रप्रयाग में मूसलाधार बारिश से हाहाकार!",
-      "url": "https://www.abplive.com/short-videos/news/india-viral-news-heavy-rain-creates-chaos-in-rudraprayag-3171292",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-08-06T07:14:34+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/06/15933c45cf5ff5b50df4e1c3de04a4ae17860004198571392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "उत्तराखंड के रुद्रप्रयाग में 10 अप्रैल 2026 को मूसलाधार बारिश हुई जिससे हाहाकार मच गया। रुद्रप्रयाग में 24 घंटे में 200 मिमी से अधिक बारिश हुई जिससे कई जगहों पर जलभराव हो गया। रुद्रप्रयाग के अधिकारियों ने लोगों को सुरक्षित स्थानों पर जाने के लिए कहा है। Viral News: रुद्रप्रयाग में मूसलाधार बारिश से हाहाकार!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रुद्रप्रयाग में मूसलाधार बारिश से हाहाकार!",
-          "summary": "उत्तराखंड के रुद्रप्रयाग में 10 अप्रैल 2026 को मूसलाधार बारिश हुई जिससे हाहाकार मच गया। रुद्रप्रयाग में 24 घंटे में 200 मिमी से अधिक बारिश हुई जिससे कई जगहों पर जलभराव हो गया। रुद्रप्रयाग के अधिकारियों ने लोगों को सुरक्षित स्थानों पर जाने के लिए कहा है। Viral News: रुद्रप्रयाग में मूसलाधार बारिश से हाहाकार!",
           "region": "दुनिया"
         }
       }
