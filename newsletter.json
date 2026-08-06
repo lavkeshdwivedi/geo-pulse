@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-06T01:38:00.562313+00:00",
+  "generated_at": "2026-08-06T03:07:38.521262+00:00",
   "article_count": 50,
-  "total_unique_count": 263,
+  "total_unique_count": 259,
   "digest": {
-    "en": "Ebola outbreaks in the Democratic Republic of Congo and Russia's escalation of attacks in Ukraine dominate the headlines. Meanwhile, the US is closing five consulates in a move that could leave a diplomatic vacuum in the region. Ceuta's migrant crisis has also reached a boiling point with Spain seeking to transfer unaccompanied minors to the mainland.",
-    "hi": "शेख हसीना की घर वापसी की तारीख तय हो गई है, जो एक बड़ा राजनीतिक संदेश देगी। इसी समय, ईरान के खिलाफ खाड़ी देशों की धमकी बढ़ रही है, जो अमेरिकी प्रतिबंधों के बाद है। भारत-उज्बेकिस्तान के रक्षा सहयोग में वृद्धि की खबरें भी सामने आ रही हैं।"
+    "en": "Ebola in the Democratic Republic of Congo dominates headlines. The Africa region also sees migrant issues in Spain's Ceuta. Ukraine reports deadly Russian attacks.",
+    "hi": "शेख हसीना करेंगी घर वापसी, दिया बड़ा राजनीतिक संदेश। उनकी वापसी के बाद बांग्लादेश में राजनीतिक स्थिति में बदलाव की संभावना है। इसे लेकर विपक्षी दलों ने भी अपनी प्रतिक्रिया दी है।"
   },
   "articles": [
     {
@@ -85,7 +85,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-08-05T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-08-2022_Unsplash_Cambodia-01.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-08-2022_Unsplash_Cambodia-01.jpg/image560x340cropped.jpg",
       "summary": "Concluding his first official visit to Cambodia, UN independent human rights expert Tom Andrews said he was encouraged by the government’s cooperation but remained concerned about key human rights issues such as the lack of freedom of expression. Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress.",
       "region": "Asia-Pacific",
       "language": "en",
@@ -109,7 +109,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-08-05T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine-02.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine-02.jpg/image560x340cropped.jpg",
       "summary": "Russian forces hammered Ukraine with ballistic missiles and long-range drones overnight on Tuesday, killing at least 17 civilians – mainly around Kyiv – and injuring another 44, the UN human rights office in Ukraine reported. UN reports deadly month for Ukrainian civilians as Russian attacks intensify.",
       "region": "Europe & Russia",
       "language": "en",
@@ -121,7 +121,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-08-05T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/04-06-2025_Unsplash_Baghdad.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/04-06-2025_Unsplash_Baghdad.jpg/image560x340cropped.jpg",
       "summary": "The Security Council is meeting on Wednesday to examine the persistent threat posed by the terrorist group ISIL, also known as Dae’sh, to international peace and security. At a conference in June, the acting head of the UN counter-terrorism office stated that Al Qaeda, Da’esh, and their affiliates “remain adaptive and resilient”. Moreover, they are using artificial intelligence and other emerging.",
       "region": "Global / Multilateral",
       "language": "en",
@@ -330,7 +330,7 @@
       "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-update-conflict-hormuz-strait-oman-deal-trump-gulf-energy-threat-livenews-10722298.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-06T01:37:14+00:00",
+      "published_at": "2026-08-06T03:05:53+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/iran-mojataba-2026-08-f49f002e782909fcb302d19ab8456840-1200x800.jpg",
       "summary": "US Iran Conflict Live News: ईरान ने खाड़ी देशों को साफ संदेश दिया है कि अगर अमेरिका ने फिर हमला किया तो पूरे खाड़ी क्षेत्र के तेल और ऊर्जा ठिकाने निशाने पर होंगे. इसी बीच ओमान के साथ ऐसी डील की चर्चा है, जिससे होर्मुज जलडमरूमध्य से गुजरने वाले जहाजों पर ईरान का नियंत्रण बढ़ सकता है. दूसरी तरफ अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि वह बातचीत के लिए तैयार हैं, लेकिन ईरान को कभी परमाणु हथियार नही।",
       "region": "Middle East & Africa",
@@ -340,6 +340,348 @@
           "title": "ईरान के टार्गेट पर खाड़ी देश, होर्मुज डील से पहले मिली धमकी, अमेरिका के गलती की मिलेगी सजा",
           "summary": "US Iran Conflict Live News: ईरान ने खाड़ी देशों को साफ संदेश दिया है कि अगर अमेरिका ने फिर हमला किया तो पूरे खाड़ी क्षेत्र के तेल और ऊर्जा ठिकाने निशाने पर होंगे. इसी बीच ओमान के साथ ऐसी डील की चर्चा है, जिससे होर्मुज जलडमरूमध्य से गुजरने वाले जहाजों पर ईरान का नियंत्रण बढ़ सकता है. दूसरी तरफ अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि वह बातचीत के लिए तैयार हैं, लेकिन ईरान को कभी परमाणु हथियार नही।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की जान पर बन आई, पैसेंजर प्लेन से टकराने से बचा अमेरिकी राष्ट्रपति का हेलीकॉप्टर",
+      "url": "https://hindi.news18.com/world/america-donald-trump-marine-one-helicopter-near-passenger-plane-reagan-airport-faa-air-traffic-safety-10722450.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-06T03:03:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/trump-marine-one-2026-08-0d3914d775aef9c1008ae6328bc3312b-1200x800.jpg",
+      "summary": "A Marine One helicopter carrying former President Donald Trump narrowly missed a passenger jet taking off from Reagan National Airport on Tuesday. The Federal Aviation Administration classified the event as a loss of separation. The near miss follows a January 2025 crash that killed 67 people. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का हेलीकॉप्टर मरीन वन वॉशिंगटन के रीगन नेशनल एयरपोर्ट से उड़ान भर रहे एक यात्री विमान से टकराने से बच गया.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप की जान पर बन आई, पैसेंजर प्लेन से टकराने से बचा अमेरिकी राष्ट्रपति का हेलीकॉप्टर",
+          "summary": "A Marine One helicopter carrying former President Donald Trump narrowly missed a passenger jet taking off from Reagan National Airport on Tuesday. The Federal Aviation Administration classified the event as a loss of separation. The near miss follows a January 2025 crash that killed 67 people. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का हेलीकॉप्टर मरीन वन वॉशिंगटन के रीगन नेशनल एयरपोर्ट से उड़ान भर रहे एक यात्री विमान से टकराने से बच गया.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "लोगों को प्रकृति से जोड़ रहे ‘फायरफ्लाई वॉक’ और नेचर वॉक, आखिर कहां गए जमीन के वे कुदरती सितारे?",
+      "url": "https://www.amarujala.com/columns/blog/firefly-walks-and-nature-walks-connecting-people-with-nature-where-have-natural-stars-of-earth-actually-gone-2026-08-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-06T03:03:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/05/jagana-fail-fata_2c83438faaa837bedbf43b9adb64ebc9.jpeg?w=1200&dpr=1.0",
+      "summary": "दूसरा पहलू: लोगों को प्रकृति से जोड़ रहे ‘फायरफ्लाई वॉक’ और नेचर वॉक, आखिर कहां गए जमीन के वे कुदरती सितारे?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लोगों को प्रकृति से जोड़ रहे ‘फायरफ्लाई वॉक’ और नेचर वॉक, आखिर कहां गए जमीन के वे कुदरती सितारे?",
+          "summary": "दूसरा पहलू: लोगों को प्रकृति से जोड़ रहे ‘फायरफ्लाई वॉक’ और नेचर वॉक, आखिर कहां गए जमीन के वे कुदरती सितारे?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "फराह खान ने शो ‘लॉकअप 2’ के प्रतियोगी को दी पार्टी, हर्षद चोपड़ा से लेकर विनर श्रेया कालरा तक ने की",
+      "url": "https://www.amarujala.com/entertainment/television/farah-khan-hosted-party-for-lock-upp-2-contestants-harshad-chopda-shivangi-joshi-to-winner-shreya-kalra-attend-2026-08-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-06T03:01:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/faraha-khana-ka-parata-ma-shamal-lkaapa-2-sha-ka-paratayaga-oura-salbsa_82400f39d7c1bdd5a6219b5bfb920069.jpeg?w=1200&dpr=1.0",
+      "summary": "‘लॉकअप 2’ रियलिटी शो के खत्म होने के बाद होस्ट फराह खान ने एक शानदार पार्टी दी। इस पार्टी में शो के कई प्रतियोगी नजर आए। विनर श्रेया कालरा भी पार्टी में शामिल हुईं। फराह खान ने शो ‘लॉकअप 2’ के प्रतियोगी को दी पार्टी, हर्षद चोपड़ा से लेकर विनर श्रेया कालरा तक ने की।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फराह खान ने शो ‘लॉकअप 2’ के प्रतियोगी को दी पार्टी, हर्षद चोपड़ा से लेकर विनर श्रेया कालरा तक ने की",
+          "summary": "‘लॉकअप 2’ रियलिटी शो के खत्म होने के बाद होस्ट फराह खान ने एक शानदार पार्टी दी। इस पार्टी में शो के कई प्रतियोगी नजर आए। विनर श्रेया कालरा भी पार्टी में शामिल हुईं। फराह खान ने शो ‘लॉकअप 2’ के प्रतियोगी को दी पार्टी, हर्षद चोपड़ा से लेकर विनर श्रेया कालरा तक ने की।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आज जेन-जी और जेन-अल्फा से मोहन भागवत का संवाद, विश्व को एकजुट करने में भारत की भूमिका पर होगी चर्चा",
+      "url": "https://www.amarujala.com/india-news/rss-chief-mohan-bhagwat-to-interact-with-gen-z-gen-alpha-in-mumbai-today-2026-08-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-06T02:49:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/rss-chief-mohan-bhagwat-to-interact-with-gen-z-gen-alpha-in-mumbai-today_8bea02f2aba6729d41147f2965b74eab.jpeg?w=1200&dpr=1.0",
+      "summary": "RSS chief Mohan Bhagwat met groups of Gen Z and Gen Alpha in Mumbai today to discuss India’s role in fostering global unity. The dialogue included participants from schools and youth clubs and focused on cultural exchange and shared values. आज जेन-जी और जेन-अल्फा से मोहन भागवत का संवाद, विश्व को एकजुट करने में भारत की भूमिका पर होगी चर्चा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज जेन-जी और जेन-अल्फा से मोहन भागवत का संवाद, विश्व को एकजुट करने में भारत की भूमिका पर होगी चर्चा",
+          "summary": "RSS chief Mohan Bhagwat met groups of Gen Z and Gen Alpha in Mumbai today to discuss India’s role in fostering global unity. The dialogue included participants from schools and youth clubs and focused on cultural exchange and shared values. आज जेन-जी और जेन-अल्फा से मोहन भागवत का संवाद, विश्व को एकजुट करने में भारत की भूमिका पर होगी चर्चा।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "OFS के बाद LIC के शेयर धड़ाम! सरकार ने भारतीय जीवन बीमा निगम में हिस्सेदारी भारी छूट पर क्यों बेची?",
+      "url": "https://www.amarujala.com/business/business-diary/explainer-lic-shares-plummet-after-ofs-why-did-govt-sell-stake-in-life-insurance-corporation-of-india-2026-08-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-06T02:49:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/10/lic_0df3e6b927a6e1aed61a7e4c14867849.jpeg?w=1200&dpr=1.0",
+      "summary": "Explainer: OFS के बाद LIC के शेयर धड़ाम! सरकार ने भारतीय जीवन बीमा निगम में हिस्सेदारी भारी छूट पर क्यों बेची?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "OFS के बाद LIC के शेयर धड़ाम! सरकार ने भारतीय जीवन बीमा निगम में हिस्सेदारी भारी छूट पर क्यों बेची?",
+          "summary": "Explainer: OFS के बाद LIC के शेयर धड़ाम! सरकार ने भारतीय जीवन बीमा निगम में हिस्सेदारी भारी छूट पर क्यों बेची?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "एक ही नियम से तय होंगे ब्याज: अब नहीं चलेगी बैंकों और NBFC की मनमानी, RBI की तैयारियां क्या?",
+      "url": "https://www.amarujala.com/business/bonus/uniform-rule-for-interest-rates-banks-and-nbfcs-no-more-arbitrary-practices-rbi-preparations-for-transperency-2026-08-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-06T02:40:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/09/sanjay-malhotra-rbi_9912c730e7661914fdd506cbc6c008a3.jpeg?w=1200&dpr=1.0",
+      "summary": "एक ही नियम से तय होंगे ब्याज: अब नहीं चलेगी बैंकों और NBFC की मनमानी, RBI की तैयारियां क्या?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एक ही नियम से तय होंगे ब्याज: अब नहीं चलेगी बैंकों और NBFC की मनमानी, RBI की तैयारियां क्या?",
+          "summary": "एक ही नियम से तय होंगे ब्याज: अब नहीं चलेगी बैंकों और NBFC की मनमानी, RBI की तैयारियां क्या?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लोन लेते समय न करें ये 4 गलतियां, वरना जिंदगी भर फंसे रहेंगे दिक्कत में",
+      "url": "https://www.amarujala.com/photo-gallery/utility/avoid-these-4-mistakes-when-taking-a-loan-lete-time-kya-galtiyan-na-karein-2026-08-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-06T02:35:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/lna-lta-samaya-kaya-bta-thhayana-rakha_b7ef53f0400ef6ae1a8f37026b2aa32e.jpeg?w=1200&dpr=1.0",
+      "summary": "अगर आप भी पर्सनल, बिजनेस, कार या होम लोग आदि ले रहे हैं, तो कुछ बातों को जान लें। वरना यकीन मानिए आप दिक्कत में पड़ सकते हैं। लोन लेते समय न करें ये 4 गलतियां, वरना जिंदगी भर फंसे रहेंगे दिक्कत में।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लोन लेते समय न करें ये 4 गलतियां, वरना जिंदगी भर फंसे रहेंगे दिक्कत में",
+          "summary": "अगर आप भी पर्सनल, बिजनेस, कार या होम लोग आदि ले रहे हैं, तो कुछ बातों को जान लें। वरना यकीन मानिए आप दिक्कत में पड़ सकते हैं। लोन लेते समय न करें ये 4 गलतियां, वरना जिंदगी भर फंसे रहेंगे दिक्कत में।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप ने बढ़ाया ईरान की तरफ दोस्ती का हाथ, अमेरिकी प्रतिबंध हटाया, खामेनेई अब भी गायब",
+      "url": "https://hindi.news18.com/world/middle-east-donald-trump-iran-sanctions-relief-nuclear-talks-fly-baghdad-us-relations-10722318.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-06T02:28:18+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/donald-trump-2026-07-10T072401.585-2026-08-47d3bdac6fda6e5f3d30b0054671ad56-1200x800.jpg",
+      "summary": "अमेरिका का ईरान को लेकर रुख नरम पड़ता दिख रहा है. एक तरफ राष्ट्रपति डोनाल्ड ट्रंप अब भी कहते हैं कि ईरान को परमाणु हथियार नहीं बनाने देंगे, लेकिन दूसरी तरफ बातचीत पर जोर दे रहे हैं. इसी बीच अमेरिका ने ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स से जुड़े आरोपों में प्रतिबंध झेल रही एक एयरलाइन और उसके दो विमानों से पाबंदियां हटा दी हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप ने बढ़ाया ईरान की तरफ दोस्ती का हाथ, अमेरिकी प्रतिबंध हटाया, खामेनेई अब भी गायब",
+          "summary": "अमेरिका का ईरान को लेकर रुख नरम पड़ता दिख रहा है. एक तरफ राष्ट्रपति डोनाल्ड ट्रंप अब भी कहते हैं कि ईरान को परमाणु हथियार नहीं बनाने देंगे, लेकिन दूसरी तरफ बातचीत पर जोर दे रहे हैं. इसी बीच अमेरिका ने ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स से जुड़े आरोपों में प्रतिबंध झेल रही एक एयरलाइन और उसके दो विमानों से पाबंदियां हटा दी हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पढ़ाई का वीजा और शूटरों का खौफ, कैसे कनाडा में बिश्नोई गैंग ने बनाया क्रिमिनल नेटवर्क? रिपोर्ट में",
+      "url": "https://hindi.news18.com/world/rest-of-world-bishnoi-gang-canada-student-visa-criminal-network-global-news-report-local18-10722387.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-06T02:27:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/bishnoi-gang-canada-student-visa-criminal-network-global-news-report-2026-08-b9d791057f0bc4c43d1c1a0bb7faa4aa-1200x800.jpg",
+      "summary": "Bishnoi Gang Canada: कनाडा में स्टूडेंट वीजा के जरिए बिश्नोई गैंग के कथित क्रिमिनल नेटवर्क के विस्तार को लेकर बड़ा खुलासा हुआ है. CBSA की क्लासिफाइड इंटेलिजेंस रिपोर्ट का हवाला दिया गया है. रिपोर्ट के अनुसार कुछ भारतीय स्टडी और वर्क परमिट धारकों के संगठित अपराध में शामिल होने की जांच की गई है. गोल्डी बराड़ का नाम भी इस नेटवर्क से जोड़ा गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पढ़ाई का वीजा और शूटरों का खौफ, कैसे कनाडा में बिश्नोई गैंग ने बनाया क्रिमिनल नेटवर्क? रिपोर्ट में",
+          "summary": "Bishnoi Gang Canada: कनाडा में स्टूडेंट वीजा के जरिए बिश्नोई गैंग के कथित क्रिमिनल नेटवर्क के विस्तार को लेकर बड़ा खुलासा हुआ है. CBSA की क्लासिफाइड इंटेलिजेंस रिपोर्ट का हवाला दिया गया है. रिपोर्ट के अनुसार कुछ भारतीय स्टडी और वर्क परमिट धारकों के संगठित अपराध में शामिल होने की जांच की गई है. गोल्डी बराड़ का नाम भी इस नेटवर्क से जोड़ा गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "एक हफ्ते बाद भी 'स्पाइडर-मैन' का जादू बरकरार, बनाया नया रिकॉर्ड; जानें क्या रही बाकी फिल्मों की",
+      "url": "https://www.amarujala.com/entertainment/hollywood/spider-man-brand-new-day-box-office-collection-day-7-to-the-odyssey-to-jana-nayagan-earning-2026-08-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-06T02:25:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/bkasa-oifasa-raparata_6c8ba377e2ae3946484a3d8dad599940.jpeg?w=1200&dpr=1.0",
+      "summary": "हाॅलीवुड फिल्म 'स्पाइडर-मैन- ब्रांड न्यू डे' ने भारतीय बॉक्स ऑफिस पर सात दिन पूरे कर लिए हैं। फिल्म ने अब तक 300 करोड़ रुपये से अधिक की कमाई की है। जानिए, 'स्पाइडर-मैन- ब्रांड न्यू डे' के अलावा बुधवार को ‘द ओडिसी’ और ‘जन नायकन’ ने कितनी कमाई की है। एक हफ्ते बाद भी 'स्पाइडर-मैन' का जादू बरकरार, बनाया नया रिकॉर्ड; जानें क्या रही बाकी फिल्मों की।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एक हफ्ते बाद भी 'स्पाइडर-मैन' का जादू बरकरार, बनाया नया रिकॉर्ड; जानें क्या रही बाकी फिल्मों की",
+          "summary": "हाॅलीवुड फिल्म 'स्पाइडर-मैन- ब्रांड न्यू डे' ने भारतीय बॉक्स ऑफिस पर सात दिन पूरे कर लिए हैं। फिल्म ने अब तक 300 करोड़ रुपये से अधिक की कमाई की है। जानिए, 'स्पाइडर-मैन- ब्रांड न्यू डे' के अलावा बुधवार को ‘द ओडिसी’ और ‘जन नायकन’ ने कितनी कमाई की है। एक हफ्ते बाद भी 'स्पाइडर-मैन' का जादू बरकरार, बनाया नया रिकॉर्ड; जानें क्या रही बाकी फिल्मों की।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "विरोध और बहिष्कार की अपील के बावजूद नवाज शरीफ की पार्टी PMLN को बढ़त, सरकार बनाना लगभग तय",
+      "url": "https://www.amarujala.com/world/pakistan-s-ruling-party-leads-in-pok-vote-despite-boycott-call-by-banned-group-2026-08-06",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-06T02:23:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/pakistans-ruling-party-leads-in-pok-vote-despite-boycott-call-by-banned-group_533e7852892c39286751e1fedb0fcde6.jpeg?w=1200&dpr=1.0",
+      "summary": "Pakistan's ruling party leads in PoK vote despite boycott call by banned group - पीओके में चुनाव: विरोध और बहिष्कार की अपील के बावजूद नवाज शरीफ की पार्टी PMLN को बढ़त, सरकार बनाना लगभग तय।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विरोध और बहिष्कार की अपील के बावजूद नवाज शरीफ की पार्टी PMLN को बढ़त, सरकार बनाना लगभग तय",
+          "summary": "Pakistan's ruling party leads in PoK vote despite boycott call by banned group - पीओके में चुनाव: विरोध और बहिष्कार की अपील के बावजूद नवाज शरीफ की पार्टी PMLN को बढ़त, सरकार बनाना लगभग तय।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अदन की खाड़ी में हूतियों ने सऊदी अरब के टैंकर के पास किया धमाका; चालक दल सुरक्षित",
+      "url": "https://www.amarujala.com/world/houthi-rebels-become-active-again-massive-blast-near-tanker-in-gulf-of-aden-crew-safe-2026-08-06",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-06T02:14:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/sakataka-tasavara_5a1676dc5040d187eb4348a26d4a6af6.jpeg?w=1200&dpr=1.0",
+      "summary": "हूतियों ने अदन की खाड़ी में सऊदी अरब के टैंकर के पास धमाका किया। चालक दल सुरक्षित है। अदन की खाड़ी में हूतियों ने सऊदी अरब के टैंकर के पास किया धमाका; चालक दल सुरक्षित।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अदन की खाड़ी में हूतियों ने सऊदी अरब के टैंकर के पास किया धमाका; चालक दल सुरक्षित",
+          "summary": "हूतियों ने अदन की खाड़ी में सऊदी अरब के टैंकर के पास धमाका किया। चालक दल सुरक्षित है। अदन की खाड़ी में हूतियों ने सऊदी अरब के टैंकर के पास किया धमाका; चालक दल सुरक्षित।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत का नया ड्रोन 'काल' 1000 किमी दूर तक दुश्मन को करेगा तबाह? जल्द सेना का हिस्सा बनेगा स्वदेशी",
+      "url": "https://www.amarujala.com/india-news/india-indigenous-kaal-drone-set-to-join-army-with-1000-km-long-range-strike-capability-2026-08-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-06T02:13:53+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/indian-army-drone_278559b27bfb50626b8a86602f95106e.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत का नया 'काल' ड्रोन 1000 किमी दूर तक दुश्मन को तबाह कर सकता है। जल्द सेना में शामिल होगा। Drone: भारत का नया 'काल' ड्रोन 1000 किमी दूर तक दुश्मन को करेगा तबाह? भारत का नया ड्रोन 'काल' 1000 किमी दूर तक दुश्मन को करेगा तबाह? जल्द सेना का हिस्सा बनेगा स्वदेशी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत का नया ड्रोन 'काल' 1000 किमी दूर तक दुश्मन को करेगा तबाह? जल्द सेना का हिस्सा बनेगा स्वदेशी",
+          "summary": "भारत का नया 'काल' ड्रोन 1000 किमी दूर तक दुश्मन को तबाह कर सकता है। जल्द सेना में शामिल होगा। Drone: भारत का नया 'काल' ड्रोन 1000 किमी दूर तक दुश्मन को करेगा तबाह? भारत का नया ड्रोन 'काल' 1000 किमी दूर तक दुश्मन को करेगा तबाह? जल्द सेना का हिस्सा बनेगा स्वदेशी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "शेख हसीना और शाकिब-अल-हसन के बीच क्या रिश्ता? पूर्व बांग्लादेशी कप्तान के घर क्यों लगाई गई आग?",
+      "url": "https://hindi.news18.com/cricket/how-closeness-with-sheikh-hasina-destroyed-in-bangladesh-captain-shakib-al-hasan-career-10722409.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-06T02:11:58+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Shakib-Al-Hasan-and-Sheikh-Hasina-2026-08-3342c54b113ab50bab154f6abf6659b7-1200x800.jpg",
+      "summary": "शाकिब-अल-हसन के घर पर आग लगाई गई। उनके और शेख हसीना के बीच संबंधों पर सवाल उठ रहे हैं। Shakib Al Hasan and Sheikh Hasina relation: शाकिब-अल-हसन के उदय और पतन की कहानी बहुत अनोखी है, जो क्रिकेट-राजनीति और सरकारी हिंसा के कॉकटेल से निकलती है. चलिए समझते हैं कि कैसे एक टैलेंटड खिलाड़ी की एक 'तथाकथित' तानाशाही सरकार के साथ मिलीभगत ने बांग्लादेश के सबसे बड़े क्रिकेट स्टार का करियर खत्म कर दिया.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शेख हसीना और शाकिब-अल-हसन के बीच क्या रिश्ता? पूर्व बांग्लादेशी कप्तान के घर क्यों लगाई गई आग?",
+          "summary": "शाकिब-अल-हसन के घर पर आग लगाई गई। उनके और शेख हसीना के बीच संबंधों पर सवाल उठ रहे हैं। Shakib Al Hasan and Sheikh Hasina relation: शाकिब-अल-हसन के उदय और पतन की कहानी बहुत अनोखी है, जो क्रिकेट-राजनीति और सरकारी हिंसा के कॉकटेल से निकलती है. चलिए समझते हैं कि कैसे एक टैलेंटड खिलाड़ी की एक 'तथाकथित' तानाशाही सरकार के साथ मिलीभगत ने बांग्लादेश के सबसे बड़े क्रिकेट स्टार का करियर खत्म कर दिया.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान में शहबाज सरकार को गिराने जा रही सेना? 5 साल के कार्यकाल पर संकट, देनी पड़ी सफाई",
+      "url": "https://hindi.news18.com/world/pakistan-politics-shehbaz-sharif-government-mohsin-naqvi-bilawal-bhutto-pakistan-political-crisis-10722374.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-06T02:11:58+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/shehbaz-sharif-2-2026-08-bd7ee4916fec4d548eadfeae91263187-1200x800.jpg",
+      "summary": "पाकिस्तान में शहबाज शरीफ सरकार के भविष्य पर संकट है। गृह मंत्री ने कहा कि सरकार पूरा कार्यकाल पूरा करेगी। Pakistan Shehbaz Sharif: पाकिस्तान में शहबाज शरीफ सरकार के भविष्य को लेकर अटकलें तेज हो गई हैं. सवाल उठ रहा है कि वह अपना कार्यकाल पूरा कर सकेंगे. इस पर शहबाज के गृह मंत्री मोहसिन नकवी ने साफ कहा है कि सरकार कहीं नहीं जा रही और प्रधानमंत्री अपना पांच साल का संवैधानिक कार्यकाल पूरा करेंगे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान में शहबाज सरकार को गिराने जा रही सेना? 5 साल के कार्यकाल पर संकट, देनी पड़ी सफाई",
+          "summary": "पाकिस्तान में शहबाज शरीफ सरकार के भविष्य पर संकट है। गृह मंत्री ने कहा कि सरकार पूरा कार्यकाल पूरा करेगी। Pakistan Shehbaz Sharif: पाकिस्तान में शहबाज शरीफ सरकार के भविष्य को लेकर अटकलें तेज हो गई हैं. सवाल उठ रहा है कि वह अपना कार्यकाल पूरा कर सकेंगे. इस पर शहबाज के गृह मंत्री मोहसिन नकवी ने साफ कहा है कि सरकार कहीं नहीं जा रही और प्रधानमंत्री अपना पांच साल का संवैधानिक कार्यकाल पूरा करेंगे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ड्रोन को लेकर चीन का बड़ा दांव, छह अमेरिकी कंपनियों पर प्रतिबंध; व्यापारिक तनाव फिर बढ़ा",
+      "url": "https://www.amarujala.com/world/china-tightens-drone-export-controls-and-blacklists-six-us-companies-in-response-to-trade-curbs-2026-08-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-06T02:06:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/23/china-us-trade-war_16676b2ebe17b97147eaa7ff93c53d37.jpeg?w=1200&dpr=1.0",
+      "summary": "चीन ने ड्रोन को लेकर छह अमेरिकी कंपनियों पर प्रतिबंध लगाया है। व्यापारिक तनाव बढ़ गया है। ड्रोन को लेकर चीन का बड़ा दांव, छह अमेरिकी कंपनियों पर प्रतिबंध; व्यापारिक तनाव फिर बढ़ा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ड्रोन को लेकर चीन का बड़ा दांव, छह अमेरिकी कंपनियों पर प्रतिबंध; व्यापारिक तनाव फिर बढ़ा",
+          "summary": "चीन ने ड्रोन को लेकर छह अमेरिकी कंपनियों पर प्रतिबंध लगाया है। व्यापारिक तनाव बढ़ गया है। ड्रोन को लेकर चीन का बड़ा दांव, छह अमेरिकी कंपनियों पर प्रतिबंध; व्यापारिक तनाव फिर बढ़ा।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इस वीकएंड ओटीटी पर कटेगा जबर्दस्त बवाल; रिलीज होंगी ये धमाकेदार फिल्में और सीरीज",
+      "url": "https://www.amarujala.com/entertainment/friday-ott-release-sticky-love-to-main-vaapas-aaunga-operation-safed-sagar-movies-series-on-ott-this-weekend-2026-08-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-06T01:52:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/otata-ralja-thasa-vaka_a6200c28434fa21122424aedc7e0e567.jpeg?w=1200&dpr=1.0",
+      "summary": "पटना समेत 10 जिलों में ऑरेंज अलर्ट जारी किया गया है, जिसमें बारिश और वज्रपात के आसार हैं। Friday OTT Release: वीकएंड पर अगर आप घर बैठे कुछ शानदार फिल्में और सीरीज देखना चाहते हैं, तो इस वीकएंड कई शानदार विकल्प हैं। जानिए क्या-क्या है इस बार लिस्ट में? इस वीकएंड ओटीटी पर कटेगा जबर्दस्त बवाल; रिलीज होंगी ये धमाकेदार फिल्में और सीरीज।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इस वीकएंड ओटीटी पर कटेगा जबर्दस्त बवाल; रिलीज होंगी ये धमाकेदार फिल्में और सीरीज",
+          "summary": "पटना समेत 10 जिलों में ऑरेंज अलर्ट जारी किया गया है, जिसमें बारिश और वज्रपात के आसार हैं। Friday OTT Release: वीकएंड पर अगर आप घर बैठे कुछ शानदार फिल्में और सीरीज देखना चाहते हैं, तो इस वीकएंड कई शानदार विकल्प हैं। जानिए क्या-क्या है इस बार लिस्ट में? इस वीकएंड ओटीटी पर कटेगा जबर्दस्त बवाल; रिलीज होंगी ये धमाकेदार फिल्में और सीरीज।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पटना समेत 10 जिलों में ऑरेंज अलर्ट जारी, कई जिलों में बारिश-वज्रपात के आसार; जानिए मौसम का हाल",
+      "url": "https://www.amarujala.com/bihar/patna/bihar-weather-orange-alert-issued-for-several-districts-including-patna-rain-and-lightning-weather-forecast-2026-08-06",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-06T01:46:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/30/bihar-news_f5ac2c8b0551cfed36d515e54fcbab15.jpeg?w=1200&dpr=1.0",
+      "summary": "इस वीकएंड ओटीटी पर कई धमाकेदार फिल्में और सीरीज रिलीज होंगी। बिहार में आज भी पूरे बिहार में बारिश और वज्रपात का अलर्ट जारी किया गया है। पटना समेत कई जिलों में बारिश के आसार हैं। मौसम विभाग ने खराब मौसम को देखते हुए लोगों से सावधान रहने की अपील की है। पटना समेत 10 जिलों में ऑरेंज अलर्ट जारी, कई जिलों में बारिश-वज्रपात के आसार; जानिए मौसम का हाल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पटना समेत 10 जिलों में ऑरेंज अलर्ट जारी, कई जिलों में बारिश-वज्रपात के आसार; जानिए मौसम का हाल",
+          "summary": "इस वीकएंड ओटीटी पर कई धमाकेदार फिल्में और सीरीज रिलीज होंगी। बिहार में आज भी पूरे बिहार में बारिश और वज्रपात का अलर्ट जारी किया गया है। पटना समेत कई जिलों में बारिश के आसार हैं। मौसम विभाग ने खराब मौसम को देखते हुए लोगों से सावधान रहने की अपील की है। पटना समेत 10 जिलों में ऑरेंज अलर्ट जारी, कई जिलों में बारिश-वज्रपात के आसार; जानिए मौसम का हाल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "प्रतापगढ़ में बारिश के दौरान ढहा 100 साल पुराना घर, एक ही परिवार के छह सदस्यों की मौत; एक घायल",
+      "url": "https://www.amarujala.com/uttar-pradesh/pratapgarh/100-year-old-house-collapses-during-rain-in-pratapgarh-six-members-of-the-same-family-die-2026-08-06",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-06T01:38:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/1_1269fb25d29e644f8cb96357464649b0.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रतापगढ़ में बारिश के दौरान 100 साल पुराना घर ढहा, एक परिवार के छह सदस्यों की मौत हो गई। कोतवाली पुलिस स्टेशन इलाके के महूली मोहल्ले में भारी बारिश के दौरान लगभग 100 साल पुराना एक घर ढह गया, जिससे एक ही परिवार के छह सदस्यों की मौत हो गई और एक अन्य घायल हो गया। प्रतापगढ़ में बारिश के दौरान ढहा 100 साल पुराना घर, एक ही परिवार के छह सदस्यों की मौत; एक घायल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रतापगढ़ में बारिश के दौरान ढहा 100 साल पुराना घर, एक ही परिवार के छह सदस्यों की मौत; एक घायल",
+          "summary": "प्रतापगढ़ में बारिश के दौरान 100 साल पुराना घर ढहा, एक परिवार के छह सदस्यों की मौत हो गई। कोतवाली पुलिस स्टेशन इलाके के महूली मोहल्ले में भारी बारिश के दौरान लगभग 100 साल पुराना एक घर ढह गया, जिससे एक ही परिवार के छह सदस्यों की मौत हो गई और एक अन्य घायल हो गया। प्रतापगढ़ में बारिश के दौरान ढहा 100 साल पुराना घर, एक ही परिवार के छह सदस्यों की मौत; एक घायल।",
+          "region": "दुनिया"
         }
       }
     },
@@ -358,24 +700,6 @@
           "title": "भारत-उज्बेकिस्तान रक्षा निर्माण क्षेत्र में सहयोग बढ़ाएंगे; ईस्टर्न रेलवे की माल ढुलाई बढ़ी",
           "summary": "Biz Updates: भारत-उज्बेकिस्तान रक्षा निर्माण क्षेत्र में सहयोग बढ़ाएंगे; ईस्टर्न रेलवे की माल ढुलाई बढ़ी।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने बढ़ाया ईरान की तरफ दोस्ती का हाथ! अमेरिकी प्रतिबंध हटाया, खामेनेई अब भी गायब",
-      "url": "https://hindi.news18.com/world/middle-east-donald-trump-iran-sanctions-relief-nuclear-talks-fly-baghdad-us-relations-10722318.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-06T01:35:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/donald-trump-2026-07-10T072401.585-2026-08-47d3bdac6fda6e5f3d30b0054671ad56-1200x800.jpg",
-      "summary": "अमेरिका का ईरान को लेकर रुख नरम पड़ता दिख रहा है. एक तरफ राष्ट्रपति डोनाल्ड ट्रंप अब भी कहते हैं कि ईरान को परमाणु हथियार नहीं बनाने देंगे, लेकिन दूसरी तरफ बातचीत पर जोर दे रहे हैं. इसी बीच अमेरिका ने ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स से जुड़े आरोपों में प्रतिबंध झेल रही एक एयरलाइन और उसके दो विमानों से पाबंदियां हटा दी हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने बढ़ाया ईरान की तरफ दोस्ती का हाथ! अमेरिकी प्रतिबंध हटाया, खामेनेई अब भी गायब",
-          "summary": "अमेरिका का ईरान को लेकर रुख नरम पड़ता दिख रहा है. एक तरफ राष्ट्रपति डोनाल्ड ट्रंप अब भी कहते हैं कि ईरान को परमाणु हथियार नहीं बनाने देंगे, लेकिन दूसरी तरफ बातचीत पर जोर दे रहे हैं. इसी बीच अमेरिका ने ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स से जुड़े आरोपों में प्रतिबंध झेल रही एक एयरलाइन और उसके दो विमानों से पाबंदियां हटा दी हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -430,330 +754,6 @@
           "title": "युवाओं के आंदोलन से झुकी सोरेन सरकार: बातचीत के लिए मुख्यमंत्री ने भेजा बुलावा; कई राज्यों में भी",
           "summary": "दिखा विरोध--Student Protests Mount Pressure on Hemant Soren Government as Agitation Spreads Across States युवाओं के आंदोलन से झुकी सोरेन सरकार: बातचीत के लिए मुख्यमंत्री ने भेजा बुलावा; कई राज्यों में भी।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "2002 की वोटर सूची में नाम न होने पर भी नहीं कटेगा वोट, चुनाव आयोग ने मतदाताओं को दी राहत",
-      "url": "https://www.amarujala.com/delhi-ncr/sir-delhi-voters-will-not-be-struck-off-the-rolls-even-if-their-names-are-missing-from-the-2002-electoral-lis-2026-08-06",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-06T01:25:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/1_5db57d39f90ac1ed44021323ed9b06f7.jpeg?w=1200&dpr=1.0",
-      "summary": "चुनाव आयोग ने मतदाताओं को राहत दी है, 2002 की वोटर सूची में नाम न होने पर भी वोट नहीं कटेगा। दिल्ली में चल रही विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया के बीच चुनाव आयोग ने लाखों मतदाताओं के लिए बड़ी राहत देने वाला स्पष्टीकरण जारी किया है। 2002 की वोटर सूची में नाम न होने पर भी नहीं कटेगा वोट, चुनाव आयोग ने मतदाताओं को दी राहत।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "2002 की वोटर सूची में नाम न होने पर भी नहीं कटेगा वोट, चुनाव आयोग ने मतदाताओं को दी राहत",
-          "summary": "चुनाव आयोग ने मतदाताओं को राहत दी है, 2002 की वोटर सूची में नाम न होने पर भी वोट नहीं कटेगा। दिल्ली में चल रही विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया के बीच चुनाव आयोग ने लाखों मतदाताओं के लिए बड़ी राहत देने वाला स्पष्टीकरण जारी किया है। 2002 की वोटर सूची में नाम न होने पर भी नहीं कटेगा वोट, चुनाव आयोग ने मतदाताओं को दी राहत।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "स्वच्छ भारत का सपना अधूरा क्यों है? सीवर में मौतें नहीं थम रहीं, सफाईकर्मियों की सुरक्षा पर बड़े",
-      "url": "https://www.amarujala.com/columns/blog/dream-of-swachh-bharat-be-achieved-without-ensuring-sanitation-workers-safety-2026-08-06",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-06T01:22:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/savacachha-bharata-ka-anasana-hakakata_242a5483e525e37017409c2c34f48e3a.jpeg?w=1200&dpr=1.0",
-      "summary": "सीवर और सेप्टिक टैंक की सफाई के दौरान मौतें हो रही हैं, स्वच्छ भारत अभियान पर सवाल उठ रहे हैं। देश में सीवर और सेप्टिक टैंक की सफाई के दौरान लगातार हो रही मौतों ने स्वच्छ भारत अभियान पर सवाल खड़े किए हैं। लेख में सफाईकर्मियों की सुरक्षा, सरकारी आंकड़ों और कानूनी प्रावधानों पर चर्चा की गई है। स्वच्छ भारत का सपना अधूरा क्यों है?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्वच्छ भारत का सपना अधूरा क्यों है? सीवर में मौतें नहीं थम रहीं, सफाईकर्मियों की सुरक्षा पर बड़े",
-          "summary": "सीवर और सेप्टिक टैंक की सफाई के दौरान मौतें हो रही हैं, स्वच्छ भारत अभियान पर सवाल उठ रहे हैं। देश में सीवर और सेप्टिक टैंक की सफाई के दौरान लगातार हो रही मौतों ने स्वच्छ भारत अभियान पर सवाल खड़े किए हैं। लेख में सफाईकर्मियों की सुरक्षा, सरकारी आंकड़ों और कानूनी प्रावधानों पर चर्चा की गई है। स्वच्छ भारत का सपना अधूरा क्यों है?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान-ओमान ने समझौते का मसौदा तैयार किया, खामेनेई की अंतिम मंजूरी का इंतजार; अमेरिका का रूख क्या?",
-      "url": "https://www.amarujala.com/world/west-asia-tension-iran-oman-draft-on-peace-deal-khamenei-final-approval-us-stance-hormuz-trump-pezeshkian-news-2026-08-06",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-06T01:20:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/03/us-iran-war-us-iran-deal-donald-trump-mojtaba-khamenei_759fe740868eac5735a58a3a0f89c492.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान और ओमान ने समझौते का मसौदा तैयार किया है, खामेनेई की मंजूरी का इंतजार है। West Asia: ईरान-ओमान ने समझौते का मसौदा तैयार किया, खामेनेई की अंतिम मंजूरी का इंतजार; अमेरिका का रूख क्या?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान-ओमान ने समझौते का मसौदा तैयार किया, खामेनेई की अंतिम मंजूरी का इंतजार; अमेरिका का रूख क्या?",
-          "summary": "ईरान और ओमान ने समझौते का मसौदा तैयार किया है, खामेनेई की मंजूरी का इंतजार है। West Asia: ईरान-ओमान ने समझौते का मसौदा तैयार किया, खामेनेई की अंतिम मंजूरी का इंतजार; अमेरिका का रूख क्या?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "शिव परिवार की महिमा पूरे भारत में, जानिए किस क्षेत्र में किसकी होती है सबसे अधिक पूजा",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/shiva-family-worship-traditions-in-india-shiva-parvati-ganesha-kartikeya-worship-across-india-2026-08-05",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-06T01:14:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/bharata-ma-shava-paravara-ka-paja-parapara-oura-kashhataraya-savanprpa_c7d18267de9ebb7f75adee522e0840c7.jpeg?w=1200&dpr=1.0",
-      "summary": "भगवान शिव और उनके परिवार की पूजा पूरे भारत में होती है, अलग-अलग क्षेत्रों में अलग-अलग देवताओं की पूजा होती है। भारत में भगवान शिव और उनके परिवार- माता पार्वती, श्री गणेश, भगवान कार्तिकेय (मुरुगन) तथा नंदी जी की पूजा का प्रचलन उत्तर में कश्मीर से लेकर दक्षिण में कन्याकुमारी तक संपूर्ण देश में व्यापक रूप से है। शिव परिवार की महिमा पूरे भारत में, जानिए किस क्षेत्र में किसकी होती है सबसे अधिक पूजा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शिव परिवार की महिमा पूरे भारत में, जानिए किस क्षेत्र में किसकी होती है सबसे अधिक पूजा",
-          "summary": "भगवान शिव और उनके परिवार की पूजा पूरे भारत में होती है, अलग-अलग क्षेत्रों में अलग-अलग देवताओं की पूजा होती है। भारत में भगवान शिव और उनके परिवार- माता पार्वती, श्री गणेश, भगवान कार्तिकेय (मुरुगन) तथा नंदी जी की पूजा का प्रचलन उत्तर में कश्मीर से लेकर दक्षिण में कन्याकुमारी तक संपूर्ण देश में व्यापक रूप से है। शिव परिवार की महिमा पूरे भारत में, जानिए किस क्षेत्र में किसकी होती है सबसे अधिक पूजा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बारिश में इलेक्ट्रिक स्कूटर चला रहे हैं? ये छोटी गलतियां पड़ सकती हैं भारी, जानें सेफ्टी टिप्स",
-      "url": "https://www.amarujala.com/automobiles/riding-electric-scooter-rain-know-these-important-things-first-2026-08-06",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-06T01:03:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/paratakatamaka-tasavara_3596671969e9b1a992f142e24eadb5e4.jpeg?w=1200&dpr=1.0",
-      "summary": "बारिश में इलेक्ट्रिक स्कूटर चलाने से पहले सुरक्षा टिप्स जानना जरूरी है, छोटी गलतियां भारी पड़ सकती हैं। Electric Scooter Safety Tips: बारिश में इलेक्ट्रिक स्कूटर चलाना सुरक्षित तो माना जाता है, क्योंकि मॉडर्न ईवी वॉटरप्रूफ तकनीक के साथ आते हैं। बारिश में इलेक्ट्रिक स्कूटर चला रहे हैं? ये छोटी गलतियां पड़ सकती हैं भारी, जानें सेफ्टी टिप्स।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बारिश में इलेक्ट्रिक स्कूटर चला रहे हैं? ये छोटी गलतियां पड़ सकती हैं भारी, जानें सेफ्टी टिप्स",
-          "summary": "बारिश में इलेक्ट्रिक स्कूटर चलाने से पहले सुरक्षा टिप्स जानना जरूरी है, छोटी गलतियां भारी पड़ सकती हैं। Electric Scooter Safety Tips: बारिश में इलेक्ट्रिक स्कूटर चलाना सुरक्षित तो माना जाता है, क्योंकि मॉडर्न ईवी वॉटरप्रूफ तकनीक के साथ आते हैं। बारिश में इलेक्ट्रिक स्कूटर चला रहे हैं? ये छोटी गलतियां पड़ सकती हैं भारी, जानें सेफ्टी टिप्स।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सबसे अहम युद्ध पर किसी का ध्यान नहीं: तेजी से फैल रहे नफरत और भेदभाव, जीत तभी होगी, जब हम धरती को",
-      "url": "https://www.amarujala.com/columns/opinion/the-most-important-war-we-ignore-why-climate-change-and-environmental-crisis-need-urgent-global-attention-2026-08-06",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-06T01:02:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/thharata-ka-jaga-kana-lugdhaga_8606ebc9a2dfb780f50446a8d20a39d3.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत और अमेरिका ने 2022 में क्लाइमेट एक्शन प्लान को पूरा करने के लिए एक समझौते पर हस्ताक्षर किए, जिसमें 2050 तक ग्रीनहाउस गैस उत्सर्जन को 50% तक कम करने का लक्ष्य था। सबसे अहम युद्ध पर किसी का ध्यान नहीं: तेजी से फैल रहे नफरत और भेदभाव, जीत तभी होगी, जब हम धरती को।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सबसे अहम युद्ध पर किसी का ध्यान नहीं: तेजी से फैल रहे नफरत और भेदभाव, जीत तभी होगी, जब हम धरती को",
-          "summary": "भारत और अमेरिका ने 2022 में क्लाइमेट एक्शन प्लान को पूरा करने के लिए एक समझौते पर हस्ताक्षर किए, जिसमें 2050 तक ग्रीनहाउस गैस उत्सर्जन को 50% तक कम करने का लक्ष्य था। सबसे अहम युद्ध पर किसी का ध्यान नहीं: तेजी से फैल रहे नफरत और भेदभाव, जीत तभी होगी, जब हम धरती को।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "3 दिन तक रोज मिलेगा 3GB हाई-स्पीड इंटरनेट, जबरदस्त डेटा पैक है ये!",
-      "url": "https://www.amarujala.com/technology/tech-diary/airtel-39-rupees-data-recharge-plan-daily-3gb-data-for-3-days-validity-benefits-details-2026-08-05",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-06T01:01:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/30/airtel-rs-399-plan_403e36271da94408a82bef3c3d9488c5.jpeg?w=1200&dpr=1.0",
-      "summary": "एयरटेल ने तीन दिन के लिए रोज 3GB हाई-स्पीड इंटरनेट की पेशकश की है। यह प्लान ₹39 में उपलब्ध है, जिसमें तीन दिन की वैलिडिटी है। Airtelकम कीमत में ज्यादा डेटा चाहिए तो Airtel का ₹39 वाला प्लान आपके काम आ सकता है। इसमें सिर्फ तीन दिन की वैलिडिटी के साथ रोज 3GB हाई-स्पीड डेटा मिलता है। हालांकि, रिचार्ज कराने से पहले इसकी कुछ जरूरी सीमाएं जान लेना भी जरूरी है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "3 दिन तक रोज मिलेगा 3GB हाई-स्पीड इंटरनेट, जबरदस्त डेटा पैक है ये!",
-          "summary": "एयरटेल ने तीन दिन के लिए रोज 3GB हाई-स्पीड इंटरनेट की पेशकश की है। यह प्लान ₹39 में उपलब्ध है, जिसमें तीन दिन की वैलिडिटी है। Airtelकम कीमत में ज्यादा डेटा चाहिए तो Airtel का ₹39 वाला प्लान आपके काम आ सकता है। इसमें सिर्फ तीन दिन की वैलिडिटी के साथ रोज 3GB हाई-स्पीड डेटा मिलता है। हालांकि, रिचार्ज कराने से पहले इसकी कुछ जरूरी सीमाएं जान लेना भी जरूरी है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फोन की इन छोटी दिक्कतों को किया नजरअंदाज, तो बाद में चुकानी पड़ सकती है बड़ी कीमत",
-      "url": "https://www.amarujala.com/technology/tip-of-the-day/smartphone-tips-ignoring-these-small-phone-problems-cost-you-later-2026-08-06",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-06T01:00:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/paratakatamaka-tasavara_38645ecf3ac38025520e830e11cc93fd.jpeg?w=1200&dpr=1.0",
-      "summary": "स्क्रीन क्रैक, ढीला चार्जिंग पोर्ट और खराब बैटरी जैसी छोटी-छोटी समस्याएं आगे चलकर बड़ा खर्च बन सकती हैं। इन समस्याओं को नजरअंदाज करने से फोन की कीमत बढ़ सकती है और इसकी जिम्मेदारी खराब हो सकती है। Smartphone Repair Tips: स्क्रीन क्रैक, ढीला चार्जिंग पोर्ट या खराब बैटरी जैसी कुछ छोटी-छोटी समस्याएं आगे चलकर बड़ा खर्च बन सकती हैं। फोन की इन छोटी दिक्कतों को किया नजरअंदाज, तो बाद में चुकानी पड़ सकती है बड़ी कीमत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फोन की इन छोटी दिक्कतों को किया नजरअंदाज, तो बाद में चुकानी पड़ सकती है बड़ी कीमत",
-          "summary": "स्क्रीन क्रैक, ढीला चार्जिंग पोर्ट और खराब बैटरी जैसी छोटी-छोटी समस्याएं आगे चलकर बड़ा खर्च बन सकती हैं। इन समस्याओं को नजरअंदाज करने से फोन की कीमत बढ़ सकती है और इसकी जिम्मेदारी खराब हो सकती है। Smartphone Repair Tips: स्क्रीन क्रैक, ढीला चार्जिंग पोर्ट या खराब बैटरी जैसी कुछ छोटी-छोटी समस्याएं आगे चलकर बड़ा खर्च बन सकती हैं। फोन की इन छोटी दिक्कतों को किया नजरअंदाज, तो बाद में चुकानी पड़ सकती है बड़ी कीमत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप के अफसर बनकर घुसे संदिग्ध पर क्या आरोप लगे? कार-घर से हथियार बरामद होने से हड़कंप",
-      "url": "https://www.amarujala.com/world/us-man-arrested-at-trump-california-golf-course-faces-illegal-weapons-charges-2026-08-06",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-06T00:50:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/danalda-tarapa-amaraka-rashhatarapata_aa8c1688a41d541bd597cc24d537ac27.jpeg?w=1200&dpr=1.0",
-      "summary": "एक संदिग्ध व्यक्ति को ट्रंप के कैलिफोर्निया गोल्फ कोर्स पर ट्रंप के अधिकारी बनकर घुसने के आरोप में गिरफ्तार किया गया है। पुलिस ने उनकी कार से हथियार बरामद किए हैं। उन पर अवैध हथियार रखने का आरोप लगाया गया है। गोल्फ क्लब में सेंध: ट्रंप के अफसर बनकर घुसे संदिग्ध पर क्या आरोप लगे? कार-घर से हथियार बरामद होने से हड़कंप।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप के अफसर बनकर घुसे संदिग्ध पर क्या आरोप लगे? कार-घर से हथियार बरामद होने से हड़कंप",
-          "summary": "एक संदिग्ध व्यक्ति को ट्रंप के कैलिफोर्निया गोल्फ कोर्स पर ट्रंप के अधिकारी बनकर घुसने के आरोप में गिरफ्तार किया गया है। पुलिस ने उनकी कार से हथियार बरामद किए हैं। उन पर अवैध हथियार रखने का आरोप लगाया गया है। गोल्फ क्लब में सेंध: ट्रंप के अफसर बनकर घुसे संदिग्ध पर क्या आरोप लगे? कार-घर से हथियार बरामद होने से हड़कंप।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "8690 KMPH की रफ्तार और 4000 KG वजन...जब चांद से टकराया SpaceX का भटका रॉकेट, क्या हुआ?",
-      "url": "https://hindi.news18.com/world/america-spacex-rocket-crashes-into-moon-carving100-foot-crater-10722275.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-06T00:44:16+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/spacex-rocket-moon-2026-08-21a6850739f1b6b42f92b004fd0d6d2a-1200x800.jpg",
-      "summary": "SpaceX Rocket Crash on Moon: पिछले साल से अंतरिक्ष में भटक रहा स्पेसएक्स (SpaceX) के फाल्कन-9 रॉकेट का एक हिस्सा बुधवार तड़के चंद्रमा से तेज रफ्तार में टकरा गया. वैज्ञानिकों ने इस घटना की पुष्टि की है. इस टक्कर के बाद चंद्रमा की सतह से धूल और गैस का गुबार उठा, जिसे दुनिया के कुछ सबसे शक्तिशाली टेलीस्कोपों ने रिकॉर्ड किया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "8690 KMPH की रफ्तार और 4000 KG वजन...जब चांद से टकराया SpaceX का भटका रॉकेट, क्या हुआ?",
-          "summary": "SpaceX Rocket Crash on Moon: पिछले साल से अंतरिक्ष में भटक रहा स्पेसएक्स (SpaceX) के फाल्कन-9 रॉकेट का एक हिस्सा बुधवार तड़के चंद्रमा से तेज रफ्तार में टकरा गया. वैज्ञानिकों ने इस घटना की पुष्टि की है. इस टक्कर के बाद चंद्रमा की सतह से धूल और गैस का गुबार उठा, जिसे दुनिया के कुछ सबसे शक्तिशाली टेलीस्कोपों ने रिकॉर्ड किया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "Weather Forecast 06 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल",
-      "url": "https://www.amarujala.com/video/india-news/weather-forecast-06-aug-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-08-06",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-06T00:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/weather-forecast_a3efa571fb387cda70bf070112878f74.jpeg?w=1200&dpr=1.0",
-      "summary": "| Weather Report Today।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Weather Forecast 06 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "| Weather Report Today।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'करण-अर्जुन' थीम पर खेला जाएगा दांव? पुराने खिलाड़ियों का हो सकता है 'पुनर्जन्म'",
-      "url": "https://www.amarujala.com/entertainment/celebs-interviews/bigg-boss-20-exclusive-salman-khan-hosted-reality-show-theme-and-contestants-shah-rukh-khan-special-episode-2026-08-05",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-06T00:30:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/05/salmana-khana_8016bd0f8cb9cf0ddf505d53512b62b3.jpeg?w=1200&dpr=1.0",
-      "summary": "Bigg Boss 20 Exclusive: ‘बिग बॉस 20’ का टीजर हाल ही में रिलीज हुआ है। अब शो से जुड़े एक सूत्र ने दावा किया है कि इस सीजन पुराने खिलाड़ियों की वापसी हो सकती है। इसके अलावा शाहरुख-सलमान का स्पेशल एपिसोड भी प्रसारित किया जा सकता है। 'करण-अर्जुन' थीम पर खेला जाएगा दांव? पुराने खिलाड़ियों का हो सकता है 'पुनर्जन्म'।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'करण-अर्जुन' थीम पर खेला जाएगा दांव? पुराने खिलाड़ियों का हो सकता है 'पुनर्जन्म'",
-          "summary": "Bigg Boss 20 Exclusive: ‘बिग बॉस 20’ का टीजर हाल ही में रिलीज हुआ है। अब शो से जुड़े एक सूत्र ने दावा किया है कि इस सीजन पुराने खिलाड़ियों की वापसी हो सकती है। इसके अलावा शाहरुख-सलमान का स्पेशल एपिसोड भी प्रसारित किया जा सकता है। 'करण-अर्जुन' थीम पर खेला जाएगा दांव? पुराने खिलाड़ियों का हो सकता है 'पुनर्जन्म'।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने वेनेजुएला की मिसाल क्यों दी? परमाणु का जिक्र कर तेहरान को समझौते की धमकी",
-      "url": "https://www.amarujala.com/world/trump-compares-iran-to-venezuela-warns-tehran-over-nuclear-ambitions-as-pezeshkian-rejects-coup-claims-2026-08-06",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-06T00:02:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/tarapa-na-iirana-ka-fara-thhamakaya_08c0ca7079af02157ee1b3056a045feb.jpeg?w=1200&dpr=1.0",
-      "summary": "ट्रंप ने वेनेजुएला की मिसाल दी और तेहरान को समझौते की धमकी दी। ईरान में तख्तापलट की तैयारी: ट्रंप ने वेनेजुएला की मिसाल क्यों दी? परमाणु का जिक्र कर तेहरान को समझौते की धमकी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने वेनेजुएला की मिसाल क्यों दी? परमाणु का जिक्र कर तेहरान को समझौते की धमकी",
-          "summary": "ट्रंप ने वेनेजुएला की मिसाल दी और तेहरान को समझौते की धमकी दी। ईरान में तख्तापलट की तैयारी: ट्रंप ने वेनेजुएला की मिसाल क्यों दी? परमाणु का जिक्र कर तेहरान को समझौते की धमकी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "बांकीपुर उपचुनाव के झटके के बाद सवर्ण मिशन पर भाजपा? 38 जिलों में नोडल अधिकारी बदलेंगे समीकरण",
-      "url": "https://www.amarujala.com/bihar/bihar-govt-to-appoint-nodal-officers-for-upper-castes-in-all-38-districts-after-bankipur-bypoll-setback-2026-08-06",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-05T23:44:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/bihar-politics_862fed10f469917c7d28944774cb2300.jpeg?w=1200&dpr=1.0",
-      "summary": "बांकीपुर उपचुनाव के बाद भाजपा 38 जिलों में नोडल अधिकारी बदलेगी। Bihar Politics: बांकीपुर उपचुनाव के झटके के बाद सवर्ण मिशन पर भाजपा? 38 जिलों में नोडल अधिकारी बदलेंगे समीकरण।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांकीपुर उपचुनाव के झटके के बाद सवर्ण मिशन पर भाजपा? 38 जिलों में नोडल अधिकारी बदलेंगे समीकरण",
-          "summary": "बांकीपुर उपचुनाव के बाद भाजपा 38 जिलों में नोडल अधिकारी बदलेगी। Bihar Politics: बांकीपुर उपचुनाव के झटके के बाद सवर्ण मिशन पर भाजपा? 38 जिलों में नोडल अधिकारी बदलेंगे समीकरण।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमित शाह संसद में आज बोल सकते हैं; CJP भावी रणनीति का एलान करेगी; ट्रंप के हेलीकॉप्टर संचालन में चूक",
-      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-06-august-2026-updates-on-amar-ujala-2026-08-06",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-05T23:22:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
-      "summary": "अमित शाह संसद में आज बोल सकते हैं और CJP अपनी रणनीति का एलान करेगी। अमित शाह संसद में आज बोल सकते हैं; CJP भावी रणनीति का एलान करेगी; ट्रंप के हेलीकॉप्टर संचालन में चूक।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमित शाह संसद में आज बोल सकते हैं; CJP भावी रणनीति का एलान करेगी; ट्रंप के हेलीकॉप्टर संचालन में चूक",
-          "summary": "अमित शाह संसद में आज बोल सकते हैं और CJP अपनी रणनीति का एलान करेगी। अमित शाह संसद में आज बोल सकते हैं; CJP भावी रणनीति का एलान करेगी; ट्रंप के हेलीकॉप्टर संचालन में चूक।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "मुनीर सेना बलूचिस्तान के नुश्की में लगाई हिटलर वाली ट्रिक! गैस नहीं ऐसे तड़पाए जा रहे निहत्थे नागरिक",
-      "url": "https://hindi.news18.com/world/pakistan-hitler-style-siege-in-balochistan-asim-munir-army-turns-nushki-into-open-jail-food-medicines-blocked-10722262.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-05T23:17:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Pakistan-Tourcher-Balochistan-2026-08-ea4830f34c8ca3644bd7fdd7491432c0-1200x800.jpg",
-      "summary": "पाकिस्तान के बलूचिस्तान प्रांत के नुश्की जिले में पाकिस्तानी सेना का बर्बर चेहरा सामने आया है, जहां जनरल असिम मुनीर की फौज ने पूरे इलाके को एक 'खुली जेल' में बदल दिया है. बलोच नेशनल मूवमेंट (BNM) के खुलासों के मुताबिक, हिटलर की तर्ज पर पूरी आबादी की सैन्य नाकेबंदी कर दी गई है और राशन, दवाइयों व एम्बुलेंस तक पर पाबंदी लगा दी गई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुनीर सेना बलूचिस्तान के नुश्की में लगाई हिटलर वाली ट्रिक! गैस नहीं ऐसे तड़पाए जा रहे निहत्थे नागरिक",
-          "summary": "पाकिस्तान के बलूचिस्तान प्रांत के नुश्की जिले में पाकिस्तानी सेना का बर्बर चेहरा सामने आया है, जहां जनरल असिम मुनीर की फौज ने पूरे इलाके को एक 'खुली जेल' में बदल दिया है. बलोच नेशनल मूवमेंट (BNM) के खुलासों के मुताबिक, हिटलर की तर्ज पर पूरी आबादी की सैन्य नाकेबंदी कर दी गई है और राशन, दवाइयों व एम्बुलेंस तक पर पाबंदी लगा दी गई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "शेख हसीना ने कैमरे पर चेहरा क्यों नहीं दिखाया? बेटे सजीब बोले- मां को भारत में मिला सम्मान",
-      "url": "https://www.amarujala.com/world/india-bangladesh-ties-aug-5-speech-sheikh-hasina-hide-face-on-camera-son-sajeeb-on-respect-of-mother-in-india-2026-08-06",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-05T22:51:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/08/10/hasina-son-bdesh-jyt_f3dcd169172be703364c0dbcf38784f8.jpeg?w=1200&dpr=1.0",
-      "summary": "India-B'desh Ties: शेख हसीना ने कैमरे पर चेहरा क्यों नहीं दिखाया? बेटे सजीब बोले- मां को भारत में मिला सम्मान।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शेख हसीना ने कैमरे पर चेहरा क्यों नहीं दिखाया? बेटे सजीब बोले- मां को भारत में मिला सम्मान",
-          "summary": "India-B'desh Ties: शेख हसीना ने कैमरे पर चेहरा क्यों नहीं दिखाया? बेटे सजीब बोले- मां को भारत में मिला सम्मान।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "वरिष्ठ पदों पर नियुक्तियों का एलान, क्या है रूस के राष्ट्रपति पुतिन की भावी रणनीति?",
-      "url": "https://www.amarujala.com/world/russian-army-major-changes-appointments-to-senior-posts-announced-what-is-president-putin-future-strategy-2026-08-06",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-05T22:12:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/russian-army_f0342c9f6771f1f62568a19d8c264783.jpeg?w=1200&dpr=1.0",
-      "summary": "सेना में बड़े बदलाव: वरिष्ठ पदों पर नियुक्तियों का एलान, क्या है रूस के राष्ट्रपति पुतिन की भावी रणनीति?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वरिष्ठ पदों पर नियुक्तियों का एलान, क्या है रूस के राष्ट्रपति पुतिन की भावी रणनीति?",
-          "summary": "सेना में बड़े बदलाव: वरिष्ठ पदों पर नियुक्तियों का एलान, क्या है रूस के राष्ट्रपति पुतिन की भावी रणनीति?",
-          "region": "यूरोप और रूस"
         }
       }
     }
