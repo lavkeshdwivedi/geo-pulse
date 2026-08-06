@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** August 06, 2026 16:25 IST
+**Updated:** August 06, 2026 17:17 IST
 
 ---
 
@@ -56,35 +56,13 @@ People hope to see friends or relatives among those still returning as death tol
 
 ---
 
-## Americas
-
-### [U.S. requests Filipino pastor’s extradition on sex-trafficking charges: Philippine Ambassador](https://www.thehindu.com/news/international/us-requests-filipino-pastors-extradition-on-sex-trafficking-charges-philippine-ambassador/article71313074.ece)
-*The Hindu (International)* - Aug 06, 16:06 IST (iso: 2026-08-06T10:36:13+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/xheeua/article71313099.ece/alternates/LANDSCAPE_1200/Philippines_US_Religious_Leader_82611.jpg -->
-
-The 2021 U. S. indictment alleges girls and women between the ages of 12 and 25 were recruited as personal assistants for Quiboloy to prepare his meals, clean his residence, give him massages, and have sex with him U. S. requests Filipino pastor’s extradition on sex-trafficking charges: Philippine Ambassador.
-
-### [US microreactor startup Valar Atomics raises $1B](https://asiatimes.com/2026/08/us-microreactor-startup-valar-atomics-raises-1b/)
-*Asia Times* - Aug 06, 09:54 IST (iso: 2026-08-06T04:24:30+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/08/images-1.jpeg -->
-
-Valar Atomics, a three-year-old microreactor developer that has a forged a close relationship with the Trump administration, has raised $1 billion in its Series B funding round as investors increasingly bet that the White House’s overhaul of nuclear regulations will clear the way for the country’s first big atomic buildout in more than half a century. This week, the Torrance, [] The post US micro.
-
-### [Hiroshima fosters hope, 81 years on from nuclear catastrophe](https://news.un.org/feed/view/en/story/2026/08/1168087)
-*UN News* - Aug 05, 17:30 IST (iso: 2026-08-05T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/06-08-2024_Unsplash_Hiroshima.jpg/image770x420cropped.jpg -->
-
-Eighty-one years ago on Thursday, the United States dropped an atomic bomb on Hiroshima, reducing the city to ruins, killing tens of thousands of people and bringing the world “face to face with the catastrophic power of nuclear war”. Hiroshima fosters hope, 81 years on from nuclear catastrophe.
-
----
-
 ## Asia-Pacific
 
 ### [Trump tariffs refund ignites 53% profit spike at Nintendo](https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo)
-*The Guardian* - Aug 06, 15:52 IST (iso: 2026-08-06T10:22:47+00:00)
+*The Guardian* - Aug 06, 16:41 IST (iso: 2026-08-06T11:11:46+00:00)
 <!-- image: https://i.guim.co.uk/img/media/0cbcc350441f7c7fc33374a98d999e0a5f489251/0_0_4556_3647/master/4556.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b9614094c9dd62b111b450c08327858 -->
 
-Quarterly profit jump fuelled largely by unknown US refund amount as Japanese video game giant records overall sales drop Nintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs. The company said profits surged 53.5% to ¥147.
+Quarterly profit jump fuelled largely by unknown US refund amount as Japanese video game giant records overall sales drop Nintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs. The company said profits surged 53.5% to ¥147. Co. Trump tariffs refund ignites 53% profit spike at Nintendo.
 
 ### [Supporters of Imran Khan's party to march toward Islamabad on September 27: Khyber Pakhtunkhwa CM](https://www.thehindu.com/news/international/supporters-of-imran-khans-party-to-march-toward-islamabad-on-september-27-khyber-pakhtunkhwa-cm/article71312908.ece)
 *The Hindu (International)* - Aug 06, 15:34 IST (iso: 2026-08-06T10:04:53+00:00)
@@ -115,6 +93,28 @@ Concluding his first official visit to Cambodia, UN independent human rights exp
 <!-- image: https://i.guim.co.uk/img/media/6956befa7782607fef2eac3b435eff652f9d556c/404_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0895e3548dcbbeb33bd56a3c68bb8fc3 -->
 
 Snow falls in Wellington for the first time in 15 years while snow blanketed Dunedin and Christchurch on the country’s south islandTemperatures have plummeted across New Zealand as an Antarctic cold snap hovers over the country, delighting the capital, Wellington, which experienced snow for the first time in 15 years, while giving a southern city’s residents a chance to ski through the streets.
+
+---
+
+## Americas
+
+### [U.S. requests Filipino pastor’s extradition on sex-trafficking charges: Philippine Ambassador](https://www.thehindu.com/news/international/us-requests-filipino-pastors-extradition-on-sex-trafficking-charges-philippine-ambassador/article71313074.ece)
+*The Hindu (International)* - Aug 06, 16:06 IST (iso: 2026-08-06T10:36:13+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/xheeua/article71313099.ece/alternates/LANDSCAPE_1200/Philippines_US_Religious_Leader_82611.jpg -->
+
+The 2021 U. S. indictment alleges girls and women between the ages of 12 and 25 were recruited as personal assistants for Quiboloy to prepare his meals, clean his residence, give him massages, and have sex with him U. requests Filipino pastor’s extradition on sex-trafficking charges: Philippine Ambassador. The 2021 U. S. U. S.
+
+### [US microreactor startup Valar Atomics raises $1B](https://asiatimes.com/2026/08/us-microreactor-startup-valar-atomics-raises-1b/)
+*Asia Times* - Aug 06, 09:54 IST (iso: 2026-08-06T04:24:30+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/08/images-1.jpeg -->
+
+Valar Atomics, a three-year-old microreactor developer that has a forged a close relationship with the Trump administration, has raised $1 billion in its Series B funding round as investors increasingly bet that the White House’s overhaul of nuclear regulations will clear the way for the country’s first big atomic buildout in more than half a century. This week, the Torrance, [] The post US micro.
+
+### [Hiroshima fosters hope, 81 years on from nuclear catastrophe](https://news.un.org/feed/view/en/story/2026/08/1168087)
+*UN News* - Aug 05, 17:30 IST (iso: 2026-08-05T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/06-08-2024_Unsplash_Hiroshima.jpg/image770x420cropped.jpg -->
+
+Eighty-one years ago on Thursday, the United States dropped an atomic bomb on Hiroshima, reducing the city to ruins, killing tens of thousands of people and bringing the world “face to face with the catastrophic power of nuclear war”. Hiroshima fosters hope, 81 years on from nuclear catastrophe.
 
 ---
 
