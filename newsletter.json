@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-06T10:55:20.543028+00:00",
+  "generated_at": "2026-08-06T11:47:39.163241+00:00",
   "article_count": 50,
   "total_unique_count": 263,
   "digest": {
-    "en": "US Senator John Curtis Points To Bipartisan Momentum As Russia-Iran Sanctions Bill Nears Final Vote, while US microreactor startup Valar Atomics raises $1B in funding. Meanwhile, North Korea fires another ballistic missile, sparking renewed tensions in the region.",
-    "hi": "शेख हसीना की सरकार के लिए चुनौतियाँ बढ़ रही हैं, बांग्लादेश में आर्थिक संकट के बीच प्रधानमंत्री तारिक रहमान को शेख हसीना की आलोचना का सामना करना पड़ रहा है। इसके अलावा, अखबारों में नाम छापने पर रोक और तस्वीर पर पाबंदी लगाने के बाद शेख हसीना के खिलाफ विरोध बढ़ रहा है।"
+    "en": "Ebola outbreaks dominate the Democratic Republic of Congo. North Korea's ballistic missile launch draws attention in the Asia-Pacific region. Nintendo sees a 53% profit spike due to Trump tariffs refund.",
+    "hi": "ब्लैक विडो से बचकर रहना! मीठी-मीठी बातों में फंसाकर करती है सैनिकों से शादी, कपड़ों की तरह बदल देती। इस साल की शुरुआत में यूक्रेन में ब्लैक विडो के कई मामले सामने आए हैं, जिसमें सैनिकों को मीठी-मीठी बातों में फंसाकर शादी करने के लिए मजबूर किया गया है। इसके अलावा, चीन ने पाकिस्तान-ओक्सुस के क्षेत्र में बड़े पैमाने पर निवेश किया है, जिससे स्थानीय अर्थव्यवस्था में तेजी आई है।"
   },
   "articles": [
     {
@@ -32,26 +32,26 @@
       "translations": {}
     },
     {
+      "title": "Trump tariffs refund ignites 53% profit spike at Nintendo",
+      "url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-08-06T11:11:46+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/0cbcc350441f7c7fc33374a98d999e0a5f489251/0_0_4556_3647/master/4556.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b9614094c9dd62b111b450c08327858",
+      "summary": "Quarterly profit jump fuelled largely by unknown US refund amount as Japanese video game giant records overall sales drop Nintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs. The company said profits surged 53.5% to ¥147. Co. Trump tariffs refund ignites 53% profit spike at Nintendo.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "U.S. requests Filipino pastor’s extradition on sex-trafficking charges: Philippine Ambassador",
       "url": "https://www.thehindu.com/news/international/us-requests-filipino-pastors-extradition-on-sex-trafficking-charges-philippine-ambassador/article71313074.ece",
       "source": "The Hindu (International)",
       "sources": [],
       "published_at": "2026-08-06T10:36:13+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/xheeua/article71313099.ece/alternates/LANDSCAPE_1200/Philippines_US_Religious_Leader_82611.jpg",
-      "summary": "The 2021 U. S. indictment alleges girls and women between the ages of 12 and 25 were recruited as personal assistants for Quiboloy to prepare his meals, clean his residence, give him massages, and have sex with him U. S. requests Filipino pastor’s extradition on sex-trafficking charges: Philippine Ambassador.",
+      "summary": "The 2021 U. S. indictment alleges girls and women between the ages of 12 and 25 were recruited as personal assistants for Quiboloy to prepare his meals, clean his residence, give him massages, and have sex with him U. requests Filipino pastor’s extradition on sex-trafficking charges: Philippine Ambassador. The 2021 U. S. U. S.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump tariffs refund ignites 53% profit spike at Nintendo",
-      "url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-08-06T10:22:47+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/0cbcc350441f7c7fc33374a98d999e0a5f489251/0_0_4556_3647/master/4556.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b9614094c9dd62b111b450c08327858",
-      "summary": "Quarterly profit jump fuelled largely by unknown US refund amount as Japanese video game giant records overall sales drop Nintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs. The company said profits surged 53.5% to ¥147.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -308,6 +308,60 @@
       "translations": {}
     },
     {
+      "title": "ब्लैक विडो से बचकर रहना! मीठी-मीठी बातों में फंसाकर करती है सैनिकों से शादी, कपड़ों की तरह बदल देती",
+      "url": "https://hindi.news18.com/world/europe-black-window-trend-in-russian-girls-honey-trapping-russian-troops-to-claim-death-benefits-ws-l-10724447.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-06T11:45:14+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/russia-news-2026-08-e8af1af57aeb0ab8b268742cafc62310-1200x800.jpg",
+      "summary": "Russian Girls Black Window Trend: आपने ब्लैक विडो का नाम तो सुना ही होगा, वो जहरीली मकड़ी जो किसी को भी मार सकती है. कुछ ऐसी मकड़ियां या फिर यूं कहें रशियन लड़कियों का ट्रैंड चल पड़ा है. ये उन सैनिकों को निशाना बनाती हैं, जो युद्ध पर जाते हैं या घायल हो जाते हैं. एक पति के मरते ही वो दूसरे से शादी करने के लिए तैयार रहती हैं, लेकिन क्यों?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्लैक विडो से बचकर रहना! मीठी-मीठी बातों में फंसाकर करती है सैनिकों से शादी, कपड़ों की तरह बदल देती",
+          "summary": "Russian Girls Black Window Trend: आपने ब्लैक विडो का नाम तो सुना ही होगा, वो जहरीली मकड़ी जो किसी को भी मार सकती है. कुछ ऐसी मकड़ियां या फिर यूं कहें रशियन लड़कियों का ट्रैंड चल पड़ा है. ये उन सैनिकों को निशाना बनाती हैं, जो युद्ध पर जाते हैं या घायल हो जाते हैं. एक पति के मरते ही वो दूसरे से शादी करने के लिए तैयार रहती हैं, लेकिन क्यों?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "PoK का काल बन गई चीन की 42 हजार करोड़ की खैरात, क्या है नीलम-झेलम का श्राप?",
+      "url": "https://hindi.news18.com/world/pakistan-china-failed-42000-crore-neelum-jhelum-project-curse-for-pok-pakistan-triggered-protests-against-shahbaz-munir-10724217.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-06T11:31:51+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/PoK-Neelum-Jhelum-Project-2026-08-ad6e32a4c0cb9901f8e276cba921785c-1200x800.jpg",
+      "summary": "PoK China-Pakistan Failed Project: चीन के 42 हजार करोड़ की खैरात से बना नीलम-झेलम प्रोजेक्ट आज PoK के लिए श्राप बन चुका है. जब दुनिया के बैंकों ने हाथ खड़े कर दिए, तब चीन ने पाकिस्तान को ये भीख दी थी. हालांकि, शहबाज-मुनीर के लालच की वजह से ये 969 मेगावाट का प्रोजेक्ट ठप हो गया है. अपने ही संसाधनों की लूट और भारी बिजली कटौती से तंग आकर मुजफ्फराबाद के लोग सड़कों पर उतर आए हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PoK का काल बन गई चीन की 42 हजार करोड़ की खैरात, क्या है नीलम-झेलम का श्राप?",
+          "summary": "PoK China-Pakistan Failed Project: चीन के 42 हजार करोड़ की खैरात से बना नीलम-झेलम प्रोजेक्ट आज PoK के लिए श्राप बन चुका है. जब दुनिया के बैंकों ने हाथ खड़े कर दिए, तब चीन ने पाकिस्तान को ये भीख दी थी. हालांकि, शहबाज-मुनीर के लालच की वजह से ये 969 मेगावाट का प्रोजेक्ट ठप हो गया है. अपने ही संसाधनों की लूट और भारी बिजली कटौती से तंग आकर मुजफ्फराबाद के लोग सड़कों पर उतर आए हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आज ही खत्म होगा होर्मुज का टंटा! सीन से बाहर ट्रंप, गुंडा टैक्स वसूलेगा ईरान पर भारत को क्या फायदा?",
+      "url": "https://hindi.news18.com/world/middle-east-iran-oman-strait-of-hormuz-agreement-new-shipping-lanes-proposed-but-tehran-7-percent-wants-toll-tax-ws-l-10724089.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-06T11:14:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/hormuz-12-2026-08-21e8f3cb8672fe932fe3c94e9e0052b5-1200x800.jpg",
+      "summary": "Iran-Oman Toll Agreement on Hormuz: ईरान-ओमान के बीच चल रही वार्ता पर इस वक्त दुनिया भर की नजरें हैं. आखिर यही आने वाले वक्त में ये तय करने वाला है कि तेल और गैस के दाम कहां तक जाएंगे. भारत और दूसरे एशियाई देशों की अर्थव्यवस्था कैसे सामान्य रहेगी? कहा जा रहा है कि होर्मुज के मुद्दे का हल जल्द ही सामने आ जाएगा लेकिन अब परिस्थितियां पहले से बिल्कुल अलग होंगी.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज ही खत्म होगा होर्मुज का टंटा! सीन से बाहर ट्रंप, गुंडा टैक्स वसूलेगा ईरान पर भारत को क्या फायदा?",
+          "summary": "Iran-Oman Toll Agreement on Hormuz: ईरान-ओमान के बीच चल रही वार्ता पर इस वक्त दुनिया भर की नजरें हैं. आखिर यही आने वाले वक्त में ये तय करने वाला है कि तेल और गैस के दाम कहां तक जाएंगे. भारत और दूसरे एशियाई देशों की अर्थव्यवस्था कैसे सामान्य रहेगी? कहा जा रहा है कि होर्मुज के मुद्दे का हल जल्द ही सामने आ जाएगा लेकिन अब परिस्थितियां पहले से बिल्कुल अलग होंगी.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "THAAD-पैट्रियट की कमी पर ट्रंप नाराज, अपने ही रक्षा मंत्री को लगाई फटकार, व्हाइट हाउस दे रहा सफाई",
       "url": "https://hindi.news18.com/world/america-donald-trump-pete-hegseth-us-iran-conflict-thaad-patriot-missiles-10724131.html",
       "source": "News18 Hindi (World)",
@@ -452,6 +506,24 @@
       }
     },
     {
+      "title": "Sheikh Hasina की बांग्लादेश वापसी पर PM Tarique Rahman के सलाहकार ने उठाए सवाल, बोले- ‘तीन महीने और",
+      "url": "https://www.patrika.com/world-news/questions-raised-over-sheikh-hasina-bangladesh-return-20810309",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-06T08:17:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Sheikh-Hasina.webp",
+      "summary": "Sheikh Hasina Bangladesh Return: बांग्लादेश नेशनलिस्ट पार्टी (BNP) के अध्यक्ष और बांग्लादेश के प्रधानमंत्री तारिक रहमान के सलाहकार सैयद मोआज्जेम हुसैन अलाल ने गुरुवार को पूर्व प्रधानमंत्री शेख हसीना के दिसंबर में बांग्लादेश लौटने के फैसले पर सवाल उठाए। उन्होंने कहा कि यदि उन्हें देश की न्यायिक और राजनीतिक व्यवस्था का सामना करने का भरोसा है, तो उन्हें तुरंत वापस आना चाहिए।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Sheikh Hasina की बांग्लादेश वापसी पर PM Tarique Rahman के सलाहकार ने उठाए सवाल, बोले- ‘तीन महीने और",
+          "summary": "Sheikh Hasina Bangladesh Return: बांग्लादेश नेशनलिस्ट पार्टी (BNP) के अध्यक्ष और बांग्लादेश के प्रधानमंत्री तारिक रहमान के सलाहकार सैयद मोआज्जेम हुसैन अलाल ने गुरुवार को पूर्व प्रधानमंत्री शेख हसीना के दिसंबर में बांग्लादेश लौटने के फैसले पर सवाल उठाए। उन्होंने कहा कि यदि उन्हें देश की न्यायिक और राजनीतिक व्यवस्था का सामना करने का भरोसा है, तो उन्हें तुरंत वापस आना चाहिए।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "एक्शन में रूसी राष्ट्रपति व्लादिमीर पुतिन, सेना में किए बड़े फेरबदल, क्या है वजह?",
       "url": "https://hindi.news18.com/world/europe-russian-president-vladimir-putin-changes-in-top-military-officials-ws-l-10723583.html",
       "source": "News18 Hindi (World)",
@@ -506,24 +578,6 @@
       }
     },
     {
-      "title": "विदेशी धरती पर तीन साल बाद टेस्ट जीता पाकिस्तान! टेस्ट चैंपियनशिप तालिका में क्या आया बदलाव?",
-      "url": "https://www.amarujala.com/cricket/pakistan-climbs-in-wtc-standings-after-west-indies-win-ends-three-year-away-test-drought-2026-08-06",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-06T07:27:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/wtc-points-table-pakistan-vs-west-indies-babar-azam-world-test-championship-pakistan-test-team_d1611b0ec71f6a74361939beb051be28.jpeg?w=1200&dpr=1.0",
-      "summary": "वेस्टइंडीज को दूसरे टेस्ट में आठ विकेट से हराकर पाकिस्तान ने न सिर्फ दो मैचों की सीरीज 1-1 से बराबर की, बल्कि विश्व टेस्ट चैंपियनशिप (WTC) 2025-27 की अंकतालिका में भी एक स्थान का फायदा हासिल किया। विदेशी धरती पर तीन साल बाद टेस्ट जीता पाकिस्तान! टेस्ट चैंपियनशिप तालिका में क्या आया बदलाव?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विदेशी धरती पर तीन साल बाद टेस्ट जीता पाकिस्तान! टेस्ट चैंपियनशिप तालिका में क्या आया बदलाव?",
-          "summary": "वेस्टइंडीज को दूसरे टेस्ट में आठ विकेट से हराकर पाकिस्तान ने न सिर्फ दो मैचों की सीरीज 1-1 से बराबर की, बल्कि विश्व टेस्ट चैंपियनशिप (WTC) 2025-27 की अंकतालिका में भी एक स्थान का फायदा हासिल किया। विदेशी धरती पर तीन साल बाद टेस्ट जीता पाकिस्तान! टेस्ट चैंपियनशिप तालिका में क्या आया बदलाव?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "SC जाएंगे तरुण तेजपाल, रेप केस में दोषी, बोले- '62 का हूं, 2 बेटियां हैं...'",
       "url": "https://www.abplive.com/news/india/tarun-tejpal-will-move-supreme-court-against-the-hc-order-in-rape-case-3171298",
       "source": "ABP Live (India)",
@@ -537,24 +591,6 @@
         "hi": {
           "title": "SC जाएंगे तरुण तेजपाल, रेप केस में दोषी, बोले- '62 का हूं, 2 बेटियां हैं...'",
           "summary": "बॉम्बे हाई कोर्ट ने तरुण तेजपाल को रेप केस में दोषी करार दिया. तरुण तेजपाल ने नरमी बरतने की गुहार लगाई. उन्होंने कहा कि वे 62 साल के हैं और उनकी दो बेटियां हैं. न्यूज मैगजीन ‘तहलका’ के पूर्व संपादक तरुण तेजपाल को बड़ा झटका लगा है. बॉम्बे हाई कोर्ट ने निचली अदालत के फैसले को पलटते हुए रेप केस में दोषी करार दिया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आरोपी आशीष मिश्रा को फिलहाल राहत नहीं, सुप्रीम कोर्ट ने पैरोल बढ़ाने से किया इनकार",
-      "url": "https://www.amarujala.com/india-news/lakhimpur-kheri-case-request-to-attend-daughter-birthday-rejected-supreme-court-refuses-relief-ashish-mishra-2026-08-06",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-06T07:19:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/aashashha-mashara_f7cbe427fb1491ecbb9edf3cd23ba3c9.jpeg?w=1200&dpr=1.0",
-      "summary": "Lakhimpur Kheri: बेटी के जन्मदिन में शामिल होने की मांग खारिज, SC ने आशीष मिश्रा को राहत देने से किया इंकार- Lakhimpur Kheri Case Request to attend daughter birthday rejected Supreme Court refuses relief Ashish Mishra बेटी के जन्मदिन में शामिल होने की मांग खारिज, SC ने आशीष मिश्रा को राहत देने से किया इनकार। आरोपी आशीष मिश्रा को फिलहाल राहत नहीं, सुप्रीम कोर्ट ने पैरोल बढ़ाने से किया इनकार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आरोपी आशीष मिश्रा को फिलहाल राहत नहीं, सुप्रीम कोर्ट ने पैरोल बढ़ाने से किया इनकार",
-          "summary": "Lakhimpur Kheri: बेटी के जन्मदिन में शामिल होने की मांग खारिज, SC ने आशीष मिश्रा को राहत देने से किया इंकार- Lakhimpur Kheri Case Request to attend daughter birthday rejected Supreme Court refuses relief Ashish Mishra बेटी के जन्मदिन में शामिल होने की मांग खारिज, SC ने आशीष मिश्रा को राहत देने से किया इनकार। आरोपी आशीष मिश्रा को फिलहाल राहत नहीं, सुप्रीम कोर्ट ने पैरोल बढ़ाने से किया इनकार।",
           "region": "दुनिया"
         }
       }
@@ -578,24 +614,6 @@
       }
     },
     {
-      "title": "फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग",
-      "url": "https://hindi.news18.com/world/south-asia-6-magnitude-earthquake-jolts-philippines-no-casualties-reported-ws-l-10723408.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-06T07:15:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/philippines-quake-2026-08-f8dc3dfad21cfc07f04b869ef7d2adfd-1200x800.jpg",
-      "summary": "Philippines Earthquake: दक्षिण एशियाई देश फिलीपींस में सुबह-सुबह आए भूकंप ने यहां लोगों को डरा दिया. रिक्टर स्केल पर इसकी तीव्रता 6.4 नापी गई है. गनीमत की बात ये रही कि अब तक इसकी वजह से कोई किसी तरह के नुकसान की खबर नहीं आई है. फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग",
-          "summary": "Philippines Earthquake: दक्षिण एशियाई देश फिलीपींस में सुबह-सुबह आए भूकंप ने यहां लोगों को डरा दिया. रिक्टर स्केल पर इसकी तीव्रता 6.4 नापी गई है. गनीमत की बात ये रही कि अब तक इसकी वजह से कोई किसी तरह के नुकसान की खबर नहीं आई है. फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "देशभक्ति और आस्था का अद्भुत संगम, देखिए!",
       "url": "https://www.abplive.com/short-videos/news/india-viral-news-a-beautiful-blend-of-patriotism-and-faith-watch-this-3171293",
       "source": "ABP Live (India)",
@@ -610,6 +628,24 @@
           "title": "देशभक्ति और आस्था का अद्भुत संगम, देखिए!",
           "summary": "भारतीय सेना ने गुरुवार को जम्मू-कश्मीर के पुलवामा में एक आतंकवादी हमले के बाद सीमा पर एक विशेष अभ्यास किया। इस अभ्यास में सेना के जवानों ने अपनी सामर्थ्य का प्रदर्शन किया और आतंकवादियों को निशाना बनाया। Viral News: देशभक्ति और आस्था का अद्भुत संगम, देखिए!",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग",
+      "url": "https://hindi.news18.com/world/south-asia-6-magnitude-earthquake-jolts-philippines-no-casualties-reported-ws-l-10723408.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-06T07:15:05+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/philippines-quake-2026-08-f8dc3dfad21cfc07f04b869ef7d2adfd-1200x800.jpg",
+      "summary": "Philippines Earthquake: दक्षिण एशियाई देश फिलीपींस में सुबह-सुबह आए भूकंप ने यहां लोगों को डरा दिया. रिक्टर स्केल पर इसकी तीव्रता 6.4 नापी गई है. गनीमत की बात ये रही कि अब तक इसकी वजह से कोई किसी तरह के नुकसान की खबर नहीं आई है. फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग",
+          "summary": "Philippines Earthquake: दक्षिण एशियाई देश फिलीपींस में सुबह-सुबह आए भूकंप ने यहां लोगों को डरा दिया. रिक्टर स्केल पर इसकी तीव्रता 6.4 नापी गई है. गनीमत की बात ये रही कि अब तक इसकी वजह से कोई किसी तरह के नुकसान की खबर नहीं आई है. फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -718,42 +754,6 @@
           "title": "सुप्रीम कोर्ट से आसाराम बापू को झटका, नहीं मिली अंतरिम जमानत",
           "summary": "सुप्रीम कोर्ट ने आसाराम बापू को अंतरिम जमानत देने से इनकार कर दिया है, जिन्हें नाबालिग से रेप के मामले में उम्र कैद काट रहे हैं। आसाराम ने खराब स्वास्थ्य के आधार पर जमानत मांगी थी, लेकिन कोर्ट ने एम्स, जोधपुर की मेडिकल रिपोर्ट के आधार पर जमानत को जरूरी नहीं माना। आसाराम अभी भी उम्र कैद काट रहे हैं और दोबारा जमानत के लिए आवेदन कर सकते हैं।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हवा से बातें करती कार... रील्स का ऐसा भूत?",
-      "url": "https://www.abplive.com/short-videos/news/india-viral-video-car-flying-at-high-speed-is-this-the-craze-of-reels-3171284",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-08-06T07:11:05+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/06/c205dd97b13ff35d6782936728a4023a17860001748941392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "summary": "एक वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें एक कार हवा से बातें करती दिखाई दे रही है। वीडियो में एक कार को देखा जा सकता है, जो हवा से बातें करती हुई दिखाई दे रही है, लेकिन यह वास्तविकता से परे है। वीडियो को शेयर करने वाले ने कोई जानकारी नहीं दी है कि यह वीडियो कैसे बनाया गया है और यह किस प्रकार का ट्रिक है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हवा से बातें करती कार... रील्स का ऐसा भूत?",
-          "summary": "एक वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें एक कार हवा से बातें करती दिखाई दे रही है। वीडियो में एक कार को देखा जा सकता है, जो हवा से बातें करती हुई दिखाई दे रही है, लेकिन यह वास्तविकता से परे है। वीडियो को शेयर करने वाले ने कोई जानकारी नहीं दी है कि यह वीडियो कैसे बनाया गया है और यह किस प्रकार का ट्रिक है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दुनिया को टैरिफ का डर दिखाते-दिखाते खुद फंसे ट्रंप, अमेरिका लौटा रहा 100 अरब डॉलर",
-      "url": "https://www.amarujala.com/world/trump-tariff-refund-threatened-world-with-tariffs-finds-himself-cornered-us-will-haveo-refund-100-billion-2026-08-06",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-06T07:02:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/danalda-tarapa-amaraka-rashhatarapata_1566ec629636b30edccfdfed1d255878.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका को 100 अरब डॉलर लौटाना होगा। ट्रंप प्रशासन ने दुनिया को टैरिफ का डर दिखाया था। अब अमेरिका को यह राशि वापस करनी होगी। यह फैसला ट्रंप के लिए एक बड़ा झटका है। दुनिया को टैरिफ का डर दिखाते-दिखाते खुद फंसे ट्रंप, अमेरिका लौटा रहा 100 अरब डॉलर।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुनिया को टैरिफ का डर दिखाते-दिखाते खुद फंसे ट्रंप, अमेरिका लौटा रहा 100 अरब डॉलर",
-          "summary": "अमेरिका को 100 अरब डॉलर लौटाना होगा। ट्रंप प्रशासन ने दुनिया को टैरिफ का डर दिखाया था। अब अमेरिका को यह राशि वापस करनी होगी। यह फैसला ट्रंप के लिए एक बड़ा झटका है। दुनिया को टैरिफ का डर दिखाते-दिखाते खुद फंसे ट्रंप, अमेरिका लौटा रहा 100 अरब डॉलर।",
-          "region": "अमेरिका"
         }
       }
     }

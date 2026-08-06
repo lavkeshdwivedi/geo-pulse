@@ -1,10 +1,90 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** August 06, 2026 16:25 IST
+**अपडेट:** August 06, 2026 17:17 IST
+
+---
+
+## यूरोप और रूस
+
+### [ब्लैक विडो से बचकर रहना! मीठी-मीठी बातों में फंसाकर करती है सैनिकों से शादी, कपड़ों की तरह बदल देती](https://hindi.news18.com/world/europe-black-window-trend-in-russian-girls-honey-trapping-russian-troops-to-claim-death-benefits-ws-l-10724447.html)
+*News18 Hindi (World)* - Aug 06, 17:15 IST (iso: 2026-08-06T11:45:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/russia-news-2026-08-e8af1af57aeb0ab8b268742cafc62310-1200x800.jpg -->
+
+Russian Girls Black Window Trend: आपने ब्लैक विडो का नाम तो सुना ही होगा, वो जहरीली मकड़ी जो किसी को भी मार सकती है. कुछ ऐसी मकड़ियां या फिर यूं कहें रशियन लड़कियों का ट्रैंड चल पड़ा है. ये उन सैनिकों को निशाना बनाती हैं, जो युद्ध पर जाते हैं या घायल हो जाते हैं. एक पति के मरते ही वो दूसरे से शादी करने के लिए तैयार रहती हैं, लेकिन क्यों?
+
+### [डेथ वैली का ये जादुई प्लांट, 60 डिग्री की भयंकर गर्मी में भी इंसानों की तरह पसीना बहाकर रहता है](https://hindi.news18.com/news/knowledge/death-valley-plant-tidestromia-oblongifolia-survives-60-degree-temperature-by-cooling-leaves-10723994.html)
+*News18 Hindi (World)* - Aug 06, 15:31 IST (iso: 2026-08-06T10:01:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Death_Valley_Plants_AC-2026-08-45e5631346b97273b0f427f23418a502-1200x800.jpg -->
+
+Death Valley Plant Survives Extreme Heat: अमेरिका की डेथ वैली दुनिया की सबसे गर्म जगह है. यहां गर्मियों में टेम्परेचर 56.7 डिग्री तक पहुंच जाता है. इतनी भयानक गर्मी में भी टाइडेस्ट्रोमिया ऑबलॉन्गीफोलिया नाम का प्लांट जिंदा रहता है. एक नई रिसर्च में खुलासा हुआ है कि यह प्लांट 60 डिग्री की गर्मी में भी अपनी पत्तियों को ठंडा रख सकता है. यह प्लांट इंसानों की तरह पसीना बहाकर खुद को चिल रखता है.
+
+### [यूरोप की 'गंगा' सूखने लगी, अंतरिक्ष से दिख रही नदी की मिट्टी, गर्मी ने तोड़ दिए सारे रिकॉर्ड](https://hindi.news18.com/world/europe-heatwave-news-europe-rivers-drying-satellite-images-danube-rhine-climate-crisis-10723464.html)
+*News18 Hindi (World)* - Aug 06, 14:00 IST (iso: 2026-08-06T08:30:56+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Danube-River-2026-08-d5569379037d8cc96aa21ece00c62a40-1200x800.jpg -->
+
+Europe News: यूरोप भीषण गर्मी और सूखे की मार झेल रहा है. हालात इतने खराब हो गए हैं कि कई बड़ी नदियां सैटेलाइट तस्वीरों में सिकुड़ती साफ दिखाई दे रही हैं. डैन्यूब नदी बुडापेस्ट में रिकॉर्ड 4 इंच तक सिमट गई है. रोमानिया में परमाणु प्लांट तक पानी पहुंचाने के लिए नौसेना को चट्टान तक उड़ानी पड़ी है. यूरोप की 'गंगा' सूखने लगी, अंतरिक्ष से दिख रही नदी की मिट्टी, गर्मी ने तोड़ दिए सारे रिकॉर्ड।
+
+### [एक्शन में रूसी राष्ट्रपति व्लादिमीर पुतिन, सेना में किए बड़े फेरबदल, क्या है वजह?](https://hindi.news18.com/world/europe-russian-president-vladimir-putin-changes-in-top-military-officials-ws-l-10723583.html)
+*News18 Hindi (World)* - Aug 06, 13:30 IST (iso: 2026-08-06T08:00:21+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/putin-pic-2026-08-69622d9abd6473af23290ff654c88379-1200x800.jpg -->
+
+Russia Changes in Top Military Officials: रूस-यूक्रेन युद्ध के चार साल बीतने वाले हैं. इसी बीच पहली बार रूसी राष्ट्रपति व्लादिमीर पुतिन ने बड़े स्तर पर सेना में बदलाव किए हैं. इसका उद्देश्य मिलिट्री को पहले से ज्यादा ताकतवर और प्रभावशाली बनाना है या फिर उन्हें अपने खास अधिकारियों पर भरोसा कम हो रहा है? एक्शन में रूसी राष्ट्रपति व्लादिमीर पुतिन, सेना में किए बड़े फेरबदल, क्या है वजह?
+
+---
+
+## एशिया-प्रशांत
+
+### [PoK का काल बन गई चीन की 42 हजार करोड़ की खैरात, क्या है नीलम-झेलम का श्राप?](https://hindi.news18.com/world/pakistan-china-failed-42000-crore-neelum-jhelum-project-curse-for-pok-pakistan-triggered-protests-against-shahbaz-munir-10724217.html)
+*News18 Hindi (World)* - Aug 06, 17:01 IST (iso: 2026-08-06T11:31:51+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/PoK-Neelum-Jhelum-Project-2026-08-ad6e32a4c0cb9901f8e276cba921785c-1200x800.jpg -->
+
+PoK China-Pakistan Failed Project: चीन के 42 हजार करोड़ की खैरात से बना नीलम-झेलम प्रोजेक्ट आज PoK के लिए श्राप बन चुका है. जब दुनिया के बैंकों ने हाथ खड़े कर दिए, तब चीन ने पाकिस्तान को ये भीख दी थी. हालांकि, शहबाज-मुनीर के लालच की वजह से ये 969 मेगावाट का प्रोजेक्ट ठप हो गया है. अपने ही संसाधनों की लूट और भारी बिजली कटौती से तंग आकर मुजफ्फराबाद के लोग सड़कों पर उतर आए हैं.
+
+### [6 अगस्त 1945 की वो सुबह, जिसने हमेशा के लिए दुनिया बदल दी](https://hindi.news18.com/world/rest-of-world-hiroshima-atomic-bombing-full-story-6-august-1945-little-boy-enola-gay-world-war-2-history-in-hindi-sb-graphic-photogallery-10724102.html)
+*News18 Hindi (World)* - Aug 06, 15:45 IST (iso: 2026-08-06T10:15:51+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Hiroshima_000-2026-08-5840c15cade72b942227d26d5543d6a3-1200x800.jpg -->
+
+यह कहानी आज से ठीक 81 साल पहले 6 अगस्‍त 1945 की है. द्वितीय विश्व युद्ध अपने अंतिम दौर पर पहुंच चुका था. अमेरिका की तमाम कोशिशों के बावजूद जापान आत्‍मसमर्पण करने के लिए तैयार नहीं था. बौखलाए अमेरिका ने जापान को झुकाने के लिए एक ऐसा फैसला लिया, जिसने 6 अगस्त 1945 की तारीख को मानव इतिहास के सबसे भयावह दिनों में दर्ज कर दिया.
+
+### [अखबारों में नाम छापने पर रोक, तस्वीर पर पाबंदी... शेख हसीना को मिटाने की हर कोशिश हो रही नाकाम!](https://hindi.news18.com/world/south-asia-sheikh-hasina-still-powerful-despite-name-photo-ban-bangladesh-politics-ws-l-10722768.html)
+*News18 Hindi (World)* - Aug 06, 14:42 IST (iso: 2026-08-06T09:12:54+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Your-paragraph-text-1600-x-900-px-2026-08-06T143413.107-2026-08-c6c0cb2fe643fd096647e338990cce43-1200x800.jpg -->
+
+शेख हसीना ने तख्तापलट, निर्वासन, मौत की सजा और राजनीतिक प्रतिबंधों के बावजूद बांग्लादेश लौटेने की बात कही है. अखबारों में उनका नाम छापने और तस्वीर प्रकाशित करने पर पाबंदी है, लेकिन उनका राजनीतिक प्रभाव बरकरार है. अवामी लीग की मौजूदगी अभी भी चर्चा में है. तख्तापलट, निर्वासन, मौत की सजा और राजनीतिक प्रतिबंधों के बावजूद शेख हसीना ने साफ कर दिया है कि वह बांग्लादेश लौटेंगी.
+
+### [शेख हसीना के करीबी ने यूनुस को दिलाई थी सत्ता, नाम सुनते ही बिदक गए थे आर्मी चीफ, कैसे पलटा गेम?](https://hindi.news18.com/world/south-asia-sheikh-hasina-army-chief-not-ready-to-make-yunus-interim-leader-due-to-cases-ex-bangladesh-law-adviser-claims-ws-l-10723602.html)
+*News18 Hindi (World)* - Aug 06, 14:06 IST (iso: 2026-08-06T08:36:27+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/yunus-army-2026-08-c21855b77981dc312b8d0cd31c1a3c49-1200x800.jpg -->
+
+Bangladesh Political Turmoil: बांग्लादेश में दो साल पहले जब बवाल मचा हुआ था, तब शेख हसीना की जगह किसे बांग्लादेश की कमान थमाई जाए, इस पर खूब मंथन हुआ. अब अंतरिम सरकार के पूर्व कानूनी सलाहकार ने दावा किया है कि भले ही यूनुस को कमान मिली, लेकिन आर्मी चीफ जनरल वाकर-उज-जमान को वो बिल्कुल पसंद नहीं थे. शेख हसीना के करीबी ने यूनुस को दिलाई थी सत्ता, नाम सुनते ही बिदक गए थे आर्मी चीफ, कैसे पलटा गेम?
+
+### [Sheikh Hasina की बांग्लादेश वापसी पर PM Tarique Rahman के सलाहकार ने उठाए सवाल, बोले- ‘तीन महीने और](https://www.patrika.com/world-news/questions-raised-over-sheikh-hasina-bangladesh-return-20810309)
+*Patrika (World)* - Aug 06, 13:47 IST (iso: 2026-08-06T08:17:40+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/08/Sheikh-Hasina.webp -->
+
+Sheikh Hasina Bangladesh Return: बांग्लादेश नेशनलिस्ट पार्टी (BNP) के अध्यक्ष और बांग्लादेश के प्रधानमंत्री तारिक रहमान के सलाहकार सैयद मोआज्जेम हुसैन अलाल ने गुरुवार को पूर्व प्रधानमंत्री शेख हसीना के दिसंबर में बांग्लादेश लौटने के फैसले पर सवाल उठाए। उन्होंने कहा कि यदि उन्हें देश की न्यायिक और राजनीतिक व्यवस्था का सामना करने का भरोसा है, तो उन्हें तुरंत वापस आना चाहिए।
+
+### [शेख हसीना की भर्राई आवाज से क्‍यों थर्राई रहमान सरकार, किस डर से हिला सिंहासन, क्‍या भारत के लिए](https://hindi.news18.com/world/south-asia-sheikh-hasina-emotional-speech-fears-bangladesh-bnp-government-what-signifinace-on-india-if-hasina-returns-10722958.html)
+*News18 Hindi (World)* - Aug 06, 13:10 IST (iso: 2026-08-06T07:40:59+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Sheikh-Hasina-Live-2026-08-e1ea78d2cf4acad1d37ba3a1a9c62ffd-1200x800.jpg -->
+
+Sheikh Hasina Return Announcement: बांग्लादेश की पूर्व पीएम शेख हसीना ने करीब 2 साल बाद पहली बार सार्वजनिक रूप से भाषण दिया. इस दौरान वो कई बार भावुक हुईं, उनका गला भर्राया और इसका असर बांग्लादेश की राजधानी ढाका तक पहुंच गया. यहां की तारिक रहमान सरकार हसीना की अपील के बाद काफी झन्नाई हुई नजर आ रही है. शेख हसीना की भर्राई आवाज से क्‍यों थर्राई रहमान सरकार, किस डर से हिला सिंहासन, क्‍या भारत के लिए।
+
+### [फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग](https://hindi.news18.com/world/south-asia-6-magnitude-earthquake-jolts-philippines-no-casualties-reported-ws-l-10723408.html)
+*News18 Hindi (World)* - Aug 06, 12:45 IST (iso: 2026-08-06T07:15:05+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/philippines-quake-2026-08-f8dc3dfad21cfc07f04b869ef7d2adfd-1200x800.jpg -->
+
+Philippines Earthquake: दक्षिण एशियाई देश फिलीपींस में सुबह-सुबह आए भूकंप ने यहां लोगों को डरा दिया. रिक्टर स्केल पर इसकी तीव्रता 6.4 नापी गई है. गनीमत की बात ये रही कि अब तक इसकी वजह से कोई किसी तरह के नुकसान की खबर नहीं आई है. फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [आज ही खत्म होगा होर्मुज का टंटा! सीन से बाहर ट्रंप, गुंडा टैक्स वसूलेगा ईरान पर भारत को क्या फायदा?](https://hindi.news18.com/world/middle-east-iran-oman-strait-of-hormuz-agreement-new-shipping-lanes-proposed-but-tehran-7-percent-wants-toll-tax-ws-l-10724089.html)
+*News18 Hindi (World)* - Aug 06, 16:44 IST (iso: 2026-08-06T11:14:38+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/hormuz-12-2026-08-21e8f3cb8672fe932fe3c94e9e0052b5-1200x800.jpg -->
+
+Iran-Oman Toll Agreement on Hormuz: ईरान-ओमान के बीच चल रही वार्ता पर इस वक्त दुनिया भर की नजरें हैं. आखिर यही आने वाले वक्त में ये तय करने वाला है कि तेल और गैस के दाम कहां तक जाएंगे. भारत और दूसरे एशियाई देशों की अर्थव्यवस्था कैसे सामान्य रहेगी? कहा जा रहा है कि होर्मुज के मुद्दे का हल जल्द ही सामने आ जाएगा लेकिन अब परिस्थितियां पहले से बिल्कुल अलग होंगी.
 
 ### [THAAD-पैट्रियट की कमी पर ट्रंप नाराज, अपने ही रक्षा मंत्री को लगाई फटकार, व्हाइट हाउस दे रहा सफाई](https://hindi.news18.com/world/america-donald-trump-pete-hegseth-us-iran-conflict-thaad-patriot-missiles-10724131.html)
 *News18 Hindi (World)* - Aug 06, 16:00 IST (iso: 2026-08-06T10:30:16+00:00)
@@ -32,68 +112,6 @@ Bangladesh Crisis News: बांग्‍लादेश में जबसे
 
 ---
 
-## एशिया-प्रशांत
-
-### [6 अगस्त 1945 की वो सुबह, जिसने हमेशा के लिए दुनिया बदल दी](https://hindi.news18.com/world/rest-of-world-hiroshima-atomic-bombing-full-story-6-august-1945-little-boy-enola-gay-world-war-2-history-in-hindi-sb-graphic-photogallery-10724102.html)
-*News18 Hindi (World)* - Aug 06, 15:45 IST (iso: 2026-08-06T10:15:51+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Hiroshima_000-2026-08-5840c15cade72b942227d26d5543d6a3-1200x800.jpg -->
-
-यह कहानी आज से ठीक 81 साल पहले 6 अगस्‍त 1945 की है. द्वितीय विश्व युद्ध अपने अंतिम दौर पर पहुंच चुका था. अमेरिका की तमाम कोशिशों के बावजूद जापान आत्‍मसमर्पण करने के लिए तैयार नहीं था. बौखलाए अमेरिका ने जापान को झुकाने के लिए एक ऐसा फैसला लिया, जिसने 6 अगस्त 1945 की तारीख को मानव इतिहास के सबसे भयावह दिनों में दर्ज कर दिया.
-
-### [अखबारों में नाम छापने पर रोक, तस्वीर पर पाबंदी... शेख हसीना को मिटाने की हर कोशिश हो रही नाकाम!](https://hindi.news18.com/world/south-asia-sheikh-hasina-still-powerful-despite-name-photo-ban-bangladesh-politics-ws-l-10722768.html)
-*News18 Hindi (World)* - Aug 06, 14:42 IST (iso: 2026-08-06T09:12:54+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Your-paragraph-text-1600-x-900-px-2026-08-06T143413.107-2026-08-c6c0cb2fe643fd096647e338990cce43-1200x800.jpg -->
-
-शेख हसीना ने तख्तापलट, निर्वासन, मौत की सजा और राजनीतिक प्रतिबंधों के बावजूद बांग्लादेश लौटेने की बात कही है. अखबारों में उनका नाम छापने और तस्वीर प्रकाशित करने पर पाबंदी है, लेकिन उनका राजनीतिक प्रभाव बरकरार है. अवामी लीग की मौजूदगी अभी भी चर्चा में है. तख्तापलट, निर्वासन, मौत की सजा और राजनीतिक प्रतिबंधों के बावजूद शेख हसीना ने साफ कर दिया है कि वह बांग्लादेश लौटेंगी.
-
-### [शेख हसीना के करीबी ने यूनुस को दिलाई थी सत्ता, नाम सुनते ही बिदक गए थे आर्मी चीफ, कैसे पलटा गेम?](https://hindi.news18.com/world/south-asia-sheikh-hasina-army-chief-not-ready-to-make-yunus-interim-leader-due-to-cases-ex-bangladesh-law-adviser-claims-ws-l-10723602.html)
-*News18 Hindi (World)* - Aug 06, 14:06 IST (iso: 2026-08-06T08:36:27+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/yunus-army-2026-08-c21855b77981dc312b8d0cd31c1a3c49-1200x800.jpg -->
-
-Bangladesh Political Turmoil: बांग्लादेश में दो साल पहले जब बवाल मचा हुआ था, तब शेख हसीना की जगह किसे बांग्लादेश की कमान थमाई जाए, इस पर खूब मंथन हुआ. अब अंतरिम सरकार के पूर्व कानूनी सलाहकार ने दावा किया है कि भले ही यूनुस को कमान मिली, लेकिन आर्मी चीफ जनरल वाकर-उज-जमान को वो बिल्कुल पसंद नहीं थे. शेख हसीना के करीबी ने यूनुस को दिलाई थी सत्ता, नाम सुनते ही बिदक गए थे आर्मी चीफ, कैसे पलटा गेम?
-
-### [शेख हसीना की भर्राई आवाज से क्‍यों थर्राई रहमान सरकार, किस डर से हिला सिंहासन, क्‍या भारत के लिए](https://hindi.news18.com/world/south-asia-sheikh-hasina-emotional-speech-fears-bangladesh-bnp-government-what-signifinace-on-india-if-hasina-returns-10722958.html)
-*News18 Hindi (World)* - Aug 06, 13:10 IST (iso: 2026-08-06T07:40:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Sheikh-Hasina-Live-2026-08-e1ea78d2cf4acad1d37ba3a1a9c62ffd-1200x800.jpg -->
-
-Sheikh Hasina Return Announcement: बांग्लादेश की पूर्व पीएम शेख हसीना ने करीब 2 साल बाद पहली बार सार्वजनिक रूप से भाषण दिया. इस दौरान वो कई बार भावुक हुईं, उनका गला भर्राया और इसका असर बांग्लादेश की राजधानी ढाका तक पहुंच गया. यहां की तारिक रहमान सरकार हसीना की अपील के बाद काफी झन्नाई हुई नजर आ रही है. शेख हसीना की भर्राई आवाज से क्‍यों थर्राई रहमान सरकार, किस डर से हिला सिंहासन, क्‍या भारत के लिए।
-
-### [विदेशी धरती पर तीन साल बाद टेस्ट जीता पाकिस्तान! टेस्ट चैंपियनशिप तालिका में क्या आया बदलाव?](https://www.amarujala.com/cricket/pakistan-climbs-in-wtc-standings-after-west-indies-win-ends-three-year-away-test-drought-2026-08-06)
-*Amar Ujala Breaking* - Aug 06, 12:57 IST (iso: 2026-08-06T07:27:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/06/wtc-points-table-pakistan-vs-west-indies-babar-azam-world-test-championship-pakistan-test-team_d1611b0ec71f6a74361939beb051be28.jpeg?w=1200&dpr=1.0 -->
-
-वेस्टइंडीज को दूसरे टेस्ट में आठ विकेट से हराकर पाकिस्तान ने न सिर्फ दो मैचों की सीरीज 1-1 से बराबर की, बल्कि विश्व टेस्ट चैंपियनशिप (WTC) 2025-27 की अंकतालिका में भी एक स्थान का फायदा हासिल किया। विदेशी धरती पर तीन साल बाद टेस्ट जीता पाकिस्तान! टेस्ट चैंपियनशिप तालिका में क्या आया बदलाव?
-
-### [फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग](https://hindi.news18.com/world/south-asia-6-magnitude-earthquake-jolts-philippines-no-casualties-reported-ws-l-10723408.html)
-*News18 Hindi (World)* - Aug 06, 12:45 IST (iso: 2026-08-06T07:15:05+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/philippines-quake-2026-08-f8dc3dfad21cfc07f04b869ef7d2adfd-1200x800.jpg -->
-
-Philippines Earthquake: दक्षिण एशियाई देश फिलीपींस में सुबह-सुबह आए भूकंप ने यहां लोगों को डरा दिया. रिक्टर स्केल पर इसकी तीव्रता 6.4 नापी गई है. गनीमत की बात ये रही कि अब तक इसकी वजह से कोई किसी तरह के नुकसान की खबर नहीं आई है. फिलीपींस में 6.3 मैग्नीट्यूड के भूकंप से कांपी धरती, घरों से बाहर भाग खड़े हुए लोग।
-
----
-
-## यूरोप और रूस
-
-### [डेथ वैली का ये जादुई प्लांट, 60 डिग्री की भयंकर गर्मी में भी इंसानों की तरह पसीना बहाकर रहता है](https://hindi.news18.com/news/knowledge/death-valley-plant-tidestromia-oblongifolia-survives-60-degree-temperature-by-cooling-leaves-10723994.html)
-*News18 Hindi (World)* - Aug 06, 15:31 IST (iso: 2026-08-06T10:01:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Death_Valley_Plants_AC-2026-08-45e5631346b97273b0f427f23418a502-1200x800.jpg -->
-
-Death Valley Plant Survives Extreme Heat: अमेरिका की डेथ वैली दुनिया की सबसे गर्म जगह है. यहां गर्मियों में टेम्परेचर 56.7 डिग्री तक पहुंच जाता है. इतनी भयानक गर्मी में भी टाइडेस्ट्रोमिया ऑबलॉन्गीफोलिया नाम का प्लांट जिंदा रहता है. एक नई रिसर्च में खुलासा हुआ है कि यह प्लांट 60 डिग्री की गर्मी में भी अपनी पत्तियों को ठंडा रख सकता है. यह प्लांट इंसानों की तरह पसीना बहाकर खुद को चिल रखता है.
-
-### [यूरोप की 'गंगा' सूखने लगी, अंतरिक्ष से दिख रही नदी की मिट्टी, गर्मी ने तोड़ दिए सारे रिकॉर्ड](https://hindi.news18.com/world/europe-heatwave-news-europe-rivers-drying-satellite-images-danube-rhine-climate-crisis-10723464.html)
-*News18 Hindi (World)* - Aug 06, 14:00 IST (iso: 2026-08-06T08:30:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Danube-River-2026-08-d5569379037d8cc96aa21ece00c62a40-1200x800.jpg -->
-
-Europe News: यूरोप भीषण गर्मी और सूखे की मार झेल रहा है. हालात इतने खराब हो गए हैं कि कई बड़ी नदियां सैटेलाइट तस्वीरों में सिकुड़ती साफ दिखाई दे रही हैं. डैन्यूब नदी बुडापेस्ट में रिकॉर्ड 4 इंच तक सिमट गई है. रोमानिया में परमाणु प्लांट तक पानी पहुंचाने के लिए नौसेना को चट्टान तक उड़ानी पड़ी है. यूरोप की 'गंगा' सूखने लगी, अंतरिक्ष से दिख रही नदी की मिट्टी, गर्मी ने तोड़ दिए सारे रिकॉर्ड।
-
-### [एक्शन में रूसी राष्ट्रपति व्लादिमीर पुतिन, सेना में किए बड़े फेरबदल, क्या है वजह?](https://hindi.news18.com/world/europe-russian-president-vladimir-putin-changes-in-top-military-officials-ws-l-10723583.html)
-*News18 Hindi (World)* - Aug 06, 13:30 IST (iso: 2026-08-06T08:00:21+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/putin-pic-2026-08-69622d9abd6473af23290ff654c88379-1200x800.jpg -->
-
-Russia Changes in Top Military Officials: रूस-यूक्रेन युद्ध के चार साल बीतने वाले हैं. इसी बीच पहली बार रूसी राष्ट्रपति व्लादिमीर पुतिन ने बड़े स्तर पर सेना में बदलाव किए हैं. इसका उद्देश्य मिलिट्री को पहले से ज्यादा ताकतवर और प्रभावशाली बनाना है या फिर उन्हें अपने खास अधिकारियों पर भरोसा कम हो रहा है? एक्शन में रूसी राष्ट्रपति व्लादिमीर पुतिन, सेना में किए बड़े फेरबदल, क्या है वजह?
-
----
-
 ## दुनिया
 
 ### [SC जाएंगे तरुण तेजपाल, रेप केस में दोषी, बोले- '62 का हूं, 2 बेटियां हैं...'](https://www.abplive.com/news/india/tarun-tejpal-will-move-supreme-court-against-the-hc-order-in-rape-case-3171298)
@@ -101,12 +119,6 @@ Russia Changes in Top Military Officials: रूस-यूक्रेन यु
 <!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/06/16b4bf76a3a735d1081e5d0733ecaf3e1786000750981124_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
 बॉम्बे हाई कोर्ट ने तरुण तेजपाल को रेप केस में दोषी करार दिया. तरुण तेजपाल ने नरमी बरतने की गुहार लगाई. उन्होंने कहा कि वे 62 साल के हैं और उनकी दो बेटियां हैं. न्यूज मैगजीन ‘तहलका’ के पूर्व संपादक तरुण तेजपाल को बड़ा झटका लगा है. बॉम्बे हाई कोर्ट ने निचली अदालत के फैसले को पलटते हुए रेप केस में दोषी करार दिया.
-
-### [आरोपी आशीष मिश्रा को फिलहाल राहत नहीं, सुप्रीम कोर्ट ने पैरोल बढ़ाने से किया इनकार](https://www.amarujala.com/india-news/lakhimpur-kheri-case-request-to-attend-daughter-birthday-rejected-supreme-court-refuses-relief-ashish-mishra-2026-08-06)
-*Amar Ujala Breaking* - Aug 06, 12:49 IST (iso: 2026-08-06T07:19:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/06/aashashha-mashara_f7cbe427fb1491ecbb9edf3cd23ba3c9.jpeg?w=1200&dpr=1.0 -->
-
-Lakhimpur Kheri: बेटी के जन्मदिन में शामिल होने की मांग खारिज, SC ने आशीष मिश्रा को राहत देने से किया इंकार- Lakhimpur Kheri Case Request to attend daughter birthday rejected Supreme Court refuses relief Ashish Mishra बेटी के जन्मदिन में शामिल होने की मांग खारिज, SC ने आशीष मिश्रा को राहत देने से किया इनकार। आरोपी आशीष मिश्रा को फिलहाल राहत नहीं, सुप्रीम कोर्ट ने पैरोल बढ़ाने से किया इनकार।
 
 ### [देखिए किन्नौर में लैंडस्लाइड का खौफनाक वीडियो वायरल!](https://www.abplive.com/short-videos/news/india-viral-news-watch-the-terrifying-landslide-video-viral-in-kinnaur-3171296)
 *ABP Live (India)* - Aug 06, 12:45 IST (iso: 2026-08-06T07:15:42+00:00)
@@ -155,22 +167,6 @@ Lakhimpur Kheri: बेटी के जन्मदिन में शाम�
 <!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/06/3ad801235b4f7ef22c7621969bf754cc1786000705866355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
 सुप्रीम कोर्ट ने आसाराम बापू को अंतरिम जमानत देने से इनकार कर दिया है, जिन्हें नाबालिग से रेप के मामले में उम्र कैद काट रहे हैं। आसाराम ने खराब स्वास्थ्य के आधार पर जमानत मांगी थी, लेकिन कोर्ट ने एम्स, जोधपुर की मेडिकल रिपोर्ट के आधार पर जमानत को जरूरी नहीं माना। आसाराम अभी भी उम्र कैद काट रहे हैं और दोबारा जमानत के लिए आवेदन कर सकते हैं।
-
-### [हवा से बातें करती कार... रील्स का ऐसा भूत?](https://www.abplive.com/short-videos/news/india-viral-video-car-flying-at-high-speed-is-this-the-craze-of-reels-3171284)
-*ABP Live (India)* - Aug 06, 12:41 IST (iso: 2026-08-06T07:11:05+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/06/c205dd97b13ff35d6782936728a4023a17860001748941392_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628 -->
-
-एक वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें एक कार हवा से बातें करती दिखाई दे रही है। वीडियो में एक कार को देखा जा सकता है, जो हवा से बातें करती हुई दिखाई दे रही है, लेकिन यह वास्तविकता से परे है। वीडियो को शेयर करने वाले ने कोई जानकारी नहीं दी है कि यह वीडियो कैसे बनाया गया है और यह किस प्रकार का ट्रिक है।
-
----
-
-## अमेरिका
-
-### [दुनिया को टैरिफ का डर दिखाते-दिखाते खुद फंसे ट्रंप, अमेरिका लौटा रहा 100 अरब डॉलर](https://www.amarujala.com/world/trump-tariff-refund-threatened-world-with-tariffs-finds-himself-cornered-us-will-haveo-refund-100-billion-2026-08-06)
-*Amar Ujala World* - Aug 06, 12:32 IST (iso: 2026-08-06T07:02:57+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/06/danalda-tarapa-amaraka-rashhatarapata_1566ec629636b30edccfdfed1d255878.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका को 100 अरब डॉलर लौटाना होगा। ट्रंप प्रशासन ने दुनिया को टैरिफ का डर दिखाया था। अब अमेरिका को यह राशि वापस करनी होगी। यह फैसला ट्रंप के लिए एक बड़ा झटका है। दुनिया को टैरिफ का डर दिखाते-दिखाते खुद फंसे ट्रंप, अमेरिका लौटा रहा 100 अरब डॉलर।
 
 ---
 
