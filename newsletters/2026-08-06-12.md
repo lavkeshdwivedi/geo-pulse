@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** August 06, 2026 17:36 IST
+**Updated:** August 06, 2026 18:12 IST
 
 ---
 
@@ -78,7 +78,7 @@ An independent UN human rights expert has welcomed ongoing proceedings in the Un
 
 ### [UN reports deadly month for Ukrainian civilians as Russian attacks intensify](https://news.un.org/feed/view/en/story/2026/08/1168082)
 *UN News* - Aug 05, 17:30 IST (iso: 2026-08-05T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine-02.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine-02.jpg/image560x340cropped.jpg -->
 
 Russian forces hammered Ukraine with ballistic missiles and long-range drones overnight on Tuesday, killing at least 17 civilians – mainly around Kyiv – and injuring another 44, the UN human rights office in Ukraine reported. UN reports deadly month for Ukrainian civilians as Russian attacks intensify.
 
@@ -124,7 +124,7 @@ Coffee chain has faced backlash over marketing promotion tied to anniversary of 
 
 ### [Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress](https://news.un.org/feed/view/en/story/2026/08/1168086)
 *UN News* - Aug 05, 17:30 IST (iso: 2026-08-05T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-08-2022_Unsplash_Cambodia-01.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-08-2022_Unsplash_Cambodia-01.jpg/image560x340cropped.jpg -->
 
 Concluding his first official visit to Cambodia, UN independent human rights expert Tom Andrews said he was encouraged by the government’s cooperation but remained concerned about key human rights issues such as the lack of freedom of expression. Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress.
 
@@ -168,7 +168,7 @@ Prime Minister Sanae Takaichi, who attended the memorial for the first time as P
 
 ### [Ambassadors briefed on continuing ISIL terror threat](https://news.un.org/feed/view/en/story/2026/08/1168080)
 *UN News* - Aug 05, 17:30 IST (iso: 2026-08-05T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/04-06-2025_Unsplash_Baghdad.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/04-06-2025_Unsplash_Baghdad.jpg/image560x340cropped.jpg -->
 
 The Security Council is meeting on Wednesday to examine the persistent threat posed by the terrorist group ISIL, also known as Dae’sh, to international peace and security. At a conference in June, the acting head of the UN counter-terrorism office stated that Al Qaeda, Da’esh, and their affiliates “remain adaptive and resilient”. Moreover, they are using artificial intelligence and other emerging.
 
