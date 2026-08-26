@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T18:43:53.223126+00:00",
+  "generated_at": "2026-08-26T19:37:34.140544+00:00",
   "article_count": 50,
-  "total_unique_count": 259,
+  "total_unique_count": 258,
   "digest": {
     "en": "Middle East & Africa leads the board this hour with Ebola en RDC, une épidémie hors de contrôle ?. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, नेपाल में बाढ़ के बाद भूकंप से मचा हड़कंप: 5.2 की तीव्रता वाले झटके हुए महसूस, जानें क्यों कांपी मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, तिलक नगर में चाकू से गोदकर ले ली युवती की जान, वारदात के समय अकेली थी घर में; आरोपी फरार मुख्य खबर है। साथ ही यूरोप और रूस से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -28,6 +28,18 @@
       "image_url": "https://images.pexels.com/photos/39153061/pexels-photo-39153061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-08-26T18:15:21+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/b47b4b64332e5886d782ebf3ea9f5cb14544c5a4/100_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6c9f907aeb78ab5ca79fa3a28d3ea38",
+      "summary": "The US president expected Ottawa to bow to tariff demands, but Canada is striking back – and it could cost AmericansThis was originally published in This Week in Trumpland. Sign up to receive it in your inbox every WednesdayEarlier this year, a survey found that Canada, along with Switzerland, was the best-liked country in the world.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -296,16 +308,58 @@
       "translations": {}
     },
     {
-      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
-      "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
-      "source": "The Guardian",
+      "title": "तिलक नगर में चाकू से गोदकर ले ली युवती की जान, वारदात के समय अकेली थी घर में; आरोपी फरार",
+      "url": "https://www.amarujala.com/delhi-ncr/murder-in-delhi-young-woman-stabbed-to-death-in-tilak-nagar-2026-08-27",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-08-25T00:34:47+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b511eefae3d0dc1b7b6640b63ee40aef",
-      "summary": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermathColombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on immigrants, ordering authorities to detain and deport people who are in the country irregularly or have committed crimes. In office for just over two weeks, the million Colombia’s new president Abelardo de la Espriella announces immigration crackdown.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-08-27T07:24:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/15/murder-demo_e48f5dad405e1ffa3c942ab45f26bf3b.jpeg?w=1200&dpr=1.0",
+      "summary": "तिलक नगर में एक 21 साल की लड़की की उसके घर पर अकेले होने के दौरान चाकू मारकर हत्या कर दी गई। तिलक नगर में चाकू से गोदकर ले ली युवती की जान, वारदात के समय अकेली थी घर में; आरोपी फरार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तिलक नगर में चाकू से गोदकर ले ली युवती की जान, वारदात के समय अकेली थी घर में; आरोपी फरार",
+          "summary": "तिलक नगर में एक 21 साल की लड़की की उसके घर पर अकेले होने के दौरान चाकू मारकर हत्या कर दी गई। तिलक नगर में चाकू से गोदकर ले ली युवती की जान, वारदात के समय अकेली थी घर में; आरोपी फरार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दुर्गा पूजा पर दार्जिलिंग टॉय ट्रेन का रोमांच: पर्यटकों के लिए छह नई जॉयराइड सेवाएं, आज ही बुक करें",
+      "url": "https://www.amarujala.com/india-news/darjeeling-himalayan-railway-special-joyride-trains-durga-puja-2026-08-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-27T06:48:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/27/taya-tarana_086ccdc90570da19196e4be1c84c5870.jpeg?w=1200&dpr=1.0",
+      "summary": "दुर्गा पूजा पर दार्जिलिंग में टॉय ट्रेन का खास रोमांच: पर्यटकों को मिलेंगी छह जॉयराइड सेवाएं, क्या आपने टिकट लिया? darjeeling himalayan railway special joyride trains durga puja दुर्गा पूजा पर दार्जिलिंग टॉय ट्रेन का रोमांच: पर्यटकों के लिए छह नई जॉयराइड सेवाएं, आज ही बुक करें।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुर्गा पूजा पर दार्जिलिंग टॉय ट्रेन का रोमांच: पर्यटकों के लिए छह नई जॉयराइड सेवाएं, आज ही बुक करें",
+          "summary": "दुर्गा पूजा पर दार्जिलिंग में टॉय ट्रेन का खास रोमांच: पर्यटकों को मिलेंगी छह जॉयराइड सेवाएं, क्या आपने टिकट लिया? darjeeling himalayan railway special joyride trains durga puja दुर्गा पूजा पर दार्जिलिंग टॉय ट्रेन का रोमांच: पर्यटकों के लिए छह नई जॉयराइड सेवाएं, आज ही बुक करें।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "बाबा रामदेव, राहुल गांधी और कृति सेनन पर कंगना रनौत का पलटवार; क्या-क्या बोलीं?",
+      "url": "https://www.amarujala.com/india-news/aa-bail-mujhe-maar-kangana-ranaut-on-baba-ramdev-rahul-gandhi-kriti-sanon-and-others-2026-08-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-27T06:43:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/09/abhanatara-oura-sasatha-kagana-ranata_c99bb253cb35a32933508bdb64672b05.jpeg?w=1200&dpr=1.0",
+      "summary": "'आ बैल मुझे मार': बाबा रामदेव, राहुल गांधी और कृति सेनन पर कंगना रनौत का पलटवार; क्या-क्या बोलीं?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बाबा रामदेव, राहुल गांधी और कृति सेनन पर कंगना रनौत का पलटवार; क्या-क्या बोलीं?",
+          "summary": "'आ बैल मुझे मार': बाबा रामदेव, राहुल गांधी और कृति सेनन पर कंगना रनौत का पलटवार; क्या-क्या बोलीं?",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "नेपाल में बाढ़ के बाद भूकंप से मचा हड़कंप: 5.2 की तीव्रता वाले झटके हुए महसूस, जानें क्यों कांपी",
@@ -321,6 +375,24 @@
         "hi": {
           "title": "नेपाल में बाढ़ के बाद भूकंप से मचा हड़कंप: 5.2 की तीव्रता वाले झटके हुए महसूस, जानें क्यों कांपी",
           "summary": "धरती nepal-5-2-magnitude-earthquake-know-reason-amid-flood-landslide-disaster-157-dead-hundreds-missing नेपाल में बाढ़ के बाद भूकंप से मचा हड़कंप: 5.2 की तीव्रता वाले झटके हुए महसूस, जानें क्यों कांपी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नेपाल में बाढ़ से तबाही, मरने वालों की संख्या बढ़कर 157 हुई, सैकड़ों अब भी लापता; राहत-बचाव कार्य",
+      "url": "https://www.amarujala.com/live/world/live-nepal-flood-live-updates-death-toll-rises-rescue-operation-missing-including-indians-2026-08-27",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-26T19:34:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/26/napal-bugdhha_5875f20b2881632140f7a8a96549bebd.jpeg?w=1200&dpr=1.0",
+      "summary": "LIVE: नेपाल में बाढ़ से तबाही, मरने वालों की संख्या बढ़कर 157 हुई, सैकड़ों अब भी लापता; राहत-बचाव कार्य जारी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल में बाढ़ से तबाही, मरने वालों की संख्या बढ़कर 157 हुई, सैकड़ों अब भी लापता; राहत-बचाव कार्य",
+          "summary": "LIVE: नेपाल में बाढ़ से तबाही, मरने वालों की संख्या बढ़कर 157 हुई, सैकड़ों अब भी लापता; राहत-बचाव कार्य जारी।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -458,13 +530,13 @@
       "sources": [],
       "published_at": "2026-08-26T15:50:58+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-5.webp",
-      "summary": "US China Cyber War: अमेरिकी अधिकारियों ने बुधवार को चीन से जुड़े एक बड़े कथित साइबर-जासूसी का खुलासा किया है। अधिकारियों के मुताबिक, चीनी सेना और खुफिया सेवाओं से जुड़े हैकर्स ने एक चीनी टेक कंपनी की मदद से अमेरिकी सरकारी और महत्वपूर्ण संस्थानों के नेटवर्क में घुसपैठ करने की कोशिश की।",
+      "summary": "US China Cyber War: अमेरिकी अधिकारियों ने बुधवार को चीन से जुड़े एक बड़े कथित साइबर-जासूसी का खुलासा किया है। अधिकारियों के मुताबिक, चीनी सेना और खुफिया सेवाओं से जुड़े हैकर्स ने एक चीनी टेक कंपनी की मदद से अमेरिकी सरकारी और महत्वपूर्ण संस्थानों के नेटवर्क में घुसपैठ करने की कोशिश की। इसमें NASA, फेडरल रिजर्व, न्याय विभाग, ऊर्जा विभाग और अमेरिकी सीनेट समेत कई अहम संस्थानों को निशाना बनाए जाने का द।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "अमेरिका में चीन की कथित बड़ी साइबर जासूसी का खुलासा, NASA से फेडरल रिजर्व तक कई एजेंसियां निशाने पर",
-          "summary": "US China Cyber War: अमेरिकी अधिकारियों ने बुधवार को चीन से जुड़े एक बड़े कथित साइबर-जासूसी का खुलासा किया है। अधिकारियों के मुताबिक, चीनी सेना और खुफिया सेवाओं से जुड़े हैकर्स ने एक चीनी टेक कंपनी की मदद से अमेरिकी सरकारी और महत्वपूर्ण संस्थानों के नेटवर्क में घुसपैठ करने की कोशिश की।",
+          "summary": "US China Cyber War: अमेरिकी अधिकारियों ने बुधवार को चीन से जुड़े एक बड़े कथित साइबर-जासूसी का खुलासा किया है। अधिकारियों के मुताबिक, चीनी सेना और खुफिया सेवाओं से जुड़े हैकर्स ने एक चीनी टेक कंपनी की मदद से अमेरिकी सरकारी और महत्वपूर्ण संस्थानों के नेटवर्क में घुसपैठ करने की कोशिश की। इसमें NASA, फेडरल रिजर्व, न्याय विभाग, ऊर्जा विभाग और अमेरिकी सीनेट समेत कई अहम संस्थानों को निशाना बनाए जाने का द।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -476,13 +548,13 @@
       "sources": [],
       "published_at": "2026-08-26T15:15:58+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Palestine-Action.webp",
-      "summary": "SDGT Palestine Action: अमेरिका ने ब्रिटेन के प्रत्यक्ष-कार्रवाई समूह ‘पैलेस्टाइन एक्शन’ (Palestine Action) के खिलाफ बड़ा कदम उठाते हुए उसे वैश्विक आतंकी (SDGT) घोषित कर दिया है। अमेरिकी ट्रेजरी विभाग की ओर से की गई इस कार्रवाई के तहत समूह से जुड़ी अमेरिका स्थित संपत्तियों और वित्तीय हितों को ब्लॉक किया जाएगा।",
+      "summary": "SDGT Palestine Action: अमेरिका ने ब्रिटेन के प्रत्यक्ष-कार्रवाई समूह ‘पैलेस्टाइन एक्शन’ (Palestine Action) के खिलाफ बड़ा कदम उठाते हुए उसे वैश्विक आतंकी (SDGT) घोषित कर दिया है। अमेरिकी ट्रेजरी विभाग की ओर से की गई इस कार्रवाई के तहत समूह से जुड़ी अमेरिका स्थित संपत्तियों और वित्तीय हितों को ब्लॉक किया जाएगा। साथ ही, अमेरिकी नागरिकों और कंपनियों के लिए इस समूह के साथ लेन-देन पर प्रतिबंध लागू होंगे।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "अमेरिका का बड़ा एक्शन! ‘पैलेस्टाइन एक्शन’ को ग्लोबल आतंकवादी घोषित कर लगाया प्रतिबंध, जानें क्या",
-          "summary": "SDGT Palestine Action: अमेरिका ने ब्रिटेन के प्रत्यक्ष-कार्रवाई समूह ‘पैलेस्टाइन एक्शन’ (Palestine Action) के खिलाफ बड़ा कदम उठाते हुए उसे वैश्विक आतंकी (SDGT) घोषित कर दिया है। अमेरिकी ट्रेजरी विभाग की ओर से की गई इस कार्रवाई के तहत समूह से जुड़ी अमेरिका स्थित संपत्तियों और वित्तीय हितों को ब्लॉक किया जाएगा।",
+          "summary": "SDGT Palestine Action: अमेरिका ने ब्रिटेन के प्रत्यक्ष-कार्रवाई समूह ‘पैलेस्टाइन एक्शन’ (Palestine Action) के खिलाफ बड़ा कदम उठाते हुए उसे वैश्विक आतंकी (SDGT) घोषित कर दिया है। अमेरिकी ट्रेजरी विभाग की ओर से की गई इस कार्रवाई के तहत समूह से जुड़ी अमेरिका स्थित संपत्तियों और वित्तीय हितों को ब्लॉक किया जाएगा। साथ ही, अमेरिकी नागरिकों और कंपनियों के लिए इस समूह के साथ लेन-देन पर प्रतिबंध लागू होंगे।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -494,13 +566,13 @@
       "sources": [],
       "published_at": "2026-08-26T15:04:52+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Donald-Trump-9.webp",
-      "summary": "Donald Trump on Iran: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान की आर्थिक स्थिति और वहां जारी विरोध प्रदर्शनों को लेकर गंभीर दावे किए हैं। उन्होंने कहा कि ईरान में भारी महंगाई है और उसकी अर्थव्यवस्था बिखर रही है। ट्रंप ने बुधवार को अल जजीरा से बातचीत में ईरान के खिलाफ अपने रुख को दोहराया।",
+      "summary": "Donald Trump on Iran: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान की आर्थिक स्थिति और वहां जारी विरोध प्रदर्शनों को लेकर गंभीर दावे किए हैं। उन्होंने कहा कि ईरान में भारी महंगाई है और उसकी अर्थव्यवस्था बिखर रही है। ट्रंप ने बुधवार को अल जजीरा से बातचीत में ईरान के खिलाफ अपने रुख को दोहराया। उन्होंने ईरानी सरकार पर अपने लोगों के साथ बुरा व्यवहार करने और बड़ी संख्या में प्रदर्शनकारियों की हत्या करने का।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "‘ईरान में महंगाई बेकाबू, अर्थव्यवस्था बिखर रही’, ट्रंप का बड़ा दावा, प्रदर्शनकारियों की हत्या का भी",
-          "summary": "Donald Trump on Iran: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान की आर्थिक स्थिति और वहां जारी विरोध प्रदर्शनों को लेकर गंभीर दावे किए हैं। उन्होंने कहा कि ईरान में भारी महंगाई है और उसकी अर्थव्यवस्था बिखर रही है। ट्रंप ने बुधवार को अल जजीरा से बातचीत में ईरान के खिलाफ अपने रुख को दोहराया।",
+          "summary": "Donald Trump on Iran: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान की आर्थिक स्थिति और वहां जारी विरोध प्रदर्शनों को लेकर गंभीर दावे किए हैं। उन्होंने कहा कि ईरान में भारी महंगाई है और उसकी अर्थव्यवस्था बिखर रही है। ट्रंप ने बुधवार को अल जजीरा से बातचीत में ईरान के खिलाफ अपने रुख को दोहराया। उन्होंने ईरानी सरकार पर अपने लोगों के साथ बुरा व्यवहार करने और बड़ी संख्या में प्रदर्शनकारियों की हत्या करने का।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -682,78 +754,6 @@
           "title": "‘ईरान से डील संभव नहीं, जल्द हो सकता है हमला’, इजराइली पीएम बेंजामिन नेतन्याहू ने दे डाली चेतावनी",
           "summary": "इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान को लेकर बड़ा बयान दिया है। उन्होंने साफ शब्दों में कहा है कि ईरान के साथ कोई अच्छा समझौता हो पाना मुश्किल लगता है। ‘ईरान से डील संभव नहीं, जल्द हो सकता है हमला’, इजराइली पीएम बेंजामिन नेतन्याहू ने दे डाली चेतावनी।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी ने बालेन शाह को दिया मदद भेजने का भरोसा, भारत ने पहले भी निभाया 'बड़े भाई' का फर्ज",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-flash-floods-india-steps-up-with-immediate-relief-aid-to-rescue-hundreds-stranded-near-rasuwa-border-10784003.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-26T11:47:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/India-To-Send-Help-To-Nepal-2026-08-6a3605920a61ce82f34204097271ba6b-1200x800.jpg",
-      "summary": "नेपाल के रसुवागढ़ी में हिमस्खलन और अचानक आई बाढ़ से हालात बहुत खराब हो गए हैं. ऐसे मुश्किल समय में भारत ने एक बार फिर अपने पड़ोसी देश की मदद के लिए हाथ बढ़ाया है. बाढ़ में सड़कें और पुल बहने से कई इलाकों का संपर्क पूरी तरह टूट गया है. यहां कैलाश मानसरोवर यात्रा पर निकले 100 से ज्यादा भारतीयों समेत सैकड़ों लोग फंसे हुए हैं. भारत सरकार ने बिना देर किए मदद भेजने की तैयारी कर ली है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी ने बालेन शाह को दिया मदद भेजने का भरोसा, भारत ने पहले भी निभाया 'बड़े भाई' का फर्ज",
-          "summary": "नेपाल के रसुवागढ़ी में हिमस्खलन और अचानक आई बाढ़ से हालात बहुत खराब हो गए हैं. ऐसे मुश्किल समय में भारत ने एक बार फिर अपने पड़ोसी देश की मदद के लिए हाथ बढ़ाया है. बाढ़ में सड़कें और पुल बहने से कई इलाकों का संपर्क पूरी तरह टूट गया है. यहां कैलाश मानसरोवर यात्रा पर निकले 100 से ज्यादा भारतीयों समेत सैकड़ों लोग फंसे हुए हैं. भारत सरकार ने बिना देर किए मदद भेजने की तैयारी कर ली है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "स्टूडेंट्स प्रोटेस्ट के दौरान मासूम को पुलिस ने पकड़ा, राहुल ने रि-शेयर किया वीडियो",
-      "url": "https://www.abplive.com/news/india/bihar-patna-student-protest-police-detained-child-rahul-reshared-video-3180479",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-08-26T11:32:16+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/26/009e89046cec08b9a638be82ecc352d017877416844891324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "राहुल गांधी ने बिहार की राजधानी पटना में चल रहे छात्रों के प्रदर्शन से जुड़े मुद्दे को उठाते हुए सवाल पूछा है. उन्होंने अपने एक्स पोस्ट पर एनएसयूआई के एक पोस्ट को रिपोस्ट किया है, जिसमें पुलिस इस प्रदर्शन के बीच बच्चे को गिरफ्तार करके ले जा रही है. राहुल ने अपने बयान में पूछा है कि बिहार के छात्रों का सवाल बहुत सीधा है. भर्ती परीक्षाओं में गड़बड़ी क्यों हुई है?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्टूडेंट्स प्रोटेस्ट के दौरान मासूम को पुलिस ने पकड़ा, राहुल ने रि-शेयर किया वीडियो",
-          "summary": "राहुल गांधी ने बिहार की राजधानी पटना में चल रहे छात्रों के प्रदर्शन से जुड़े मुद्दे को उठाते हुए सवाल पूछा है. उन्होंने अपने एक्स पोस्ट पर एनएसयूआई के एक पोस्ट को रिपोस्ट किया है, जिसमें पुलिस इस प्रदर्शन के बीच बच्चे को गिरफ्तार करके ले जा रही है. राहुल ने अपने बयान में पूछा है कि बिहार के छात्रों का सवाल बहुत सीधा है. भर्ती परीक्षाओं में गड़बड़ी क्यों हुई है?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "इस्लामिक नाटो के कबाब का ख्वाब देख रहा बांग्लादेश, हड्डी की तरह फंसा संविधान का वो पेंच क्या",
-      "url": "https://hindi.news18.com/news/knowledge/know-about-bangladesh-constitution-article-25-and-mecca-defence-accord-pakistan-saudi-turkey-10784024.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-26T11:28:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Untitled-design-2026-08-26T164815.989-2026-08-f2782aaa40f748bdc8b6b8a1e476d425-1200x800.jpg",
-      "summary": "भारत के पड़ोस में यह एक इस्लामिक धड़ा तैयार हो गया है. पाकिस्तान, सऊदी अरब और तुर्की के गठजोड़ वाले मक्का रक्षा समझौते में बांग्लादेश भी एंट्री पाने के लिए तैयारी कर रहा है. सवाल बांग्लादेश को लेकर है, जिसने इस ग्रुप में शामिल होने को लेकर दिलचस्पी दिखाई है. हालांकि बांग्लादेश की हुकूमत ने जिस कबाब का ख्वाब सजाया हुआ है, उसमें एक छोटी सी हड्डी भी है जो रंग में भंग डाल सकती है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस्लामिक नाटो के कबाब का ख्वाब देख रहा बांग्लादेश, हड्डी की तरह फंसा संविधान का वो पेंच क्या",
-          "summary": "भारत के पड़ोस में यह एक इस्लामिक धड़ा तैयार हो गया है. पाकिस्तान, सऊदी अरब और तुर्की के गठजोड़ वाले मक्का रक्षा समझौते में बांग्लादेश भी एंट्री पाने के लिए तैयारी कर रहा है. सवाल बांग्लादेश को लेकर है, जिसने इस ग्रुप में शामिल होने को लेकर दिलचस्पी दिखाई है. हालांकि बांग्लादेश की हुकूमत ने जिस कबाब का ख्वाब सजाया हुआ है, उसमें एक छोटी सी हड्डी भी है जो रंग में भंग डाल सकती है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "PM मोदी ने बालेन शाह से की बात, कहा- हर संभव मदद करेंगे",
-      "url": "https://www.abplive.com/news/india/pm-modi-spoke-to-nepal-pm-balen-shah-over-nepal-floods-3180505",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-08-26T11:27:39+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/26/851f15bfbc05d140cff86b33d0f383f51787744119623124_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "प्रधानमंत्री मोदी ने नेपाल के प्रधानमंत्री बालेन शाह से बात की और नेपाल में बाढ़ से हुई जान-माल की हानि पर शोक व्यक्त किया. प्रधानमंत्री मोदी ने हर संभव मानवीय और राहत सहायता देने का भी आश्वासन दिया. PM मोदी ने बालेन शाह से की बात, कहा- हर संभव मदद करेंगे।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PM मोदी ने बालेन शाह से की बात, कहा- हर संभव मदद करेंगे",
-          "summary": "प्रधानमंत्री मोदी ने नेपाल के प्रधानमंत्री बालेन शाह से बात की और नेपाल में बाढ़ से हुई जान-माल की हानि पर शोक व्यक्त किया. प्रधानमंत्री मोदी ने हर संभव मानवीय और राहत सहायता देने का भी आश्वासन दिया. PM मोदी ने बालेन शाह से की बात, कहा- हर संभव मदद करेंगे।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
