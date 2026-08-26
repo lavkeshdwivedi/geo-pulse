@@ -36,21 +36,26 @@ def main() -> None:
     workflow = sys.argv[1] if len(sys.argv) > 1 else "newsletter.yml"
     repo = os.environ["GH_REPO"]
 
-    result = _run([
-        "gh", "run", "list", "--repo", repo, "--workflow", workflow,
-        "--json", "databaseId,status,createdAt", "--limit", "50",
-    ])
-    if result.returncode != 0:
-        print(f"[unstick] gh run list failed: {result.stderr.strip()}", file=sys.stderr)
-        sys.exit(1)
+    # Query each stuck status directly rather than pulling the most recent
+    # N runs and filtering client-side: an hourly cron produces hundreds of
+    # runs between now and when a run got wedged, so a wedged run can fall
+    # out of any "last N runs" window long before it's ever noticed.
+    runs_by_id: dict[int, dict] = {}
+    for status in STUCK_STATUSES:
+        result = _run([
+            "gh", "run", "list", "--repo", repo, "--workflow", workflow,
+            "--status", status, "--json", "databaseId,status,createdAt", "--limit", "50",
+        ])
+        if result.returncode != 0:
+            print(f"[unstick] gh run list --status {status} failed: {result.stderr.strip()}", file=sys.stderr)
+            continue
+        for run in json.loads(result.stdout or "[]"):
+            runs_by_id[run["databaseId"]] = run
 
-    runs = json.loads(result.stdout or "[]")
     now = datetime.now(timezone.utc)
     cancelled = 0
 
-    for run in runs:
-        if run["status"] not in STUCK_STATUSES:
-            continue
+    for run in runs_by_id.values():
         created = datetime.fromisoformat(run["createdAt"].replace("Z", "+00:00"))
         age_minutes = (now - created).total_seconds() / 60
         if age_minutes < THRESHOLD_MINUTES:
