@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T15:51:47.606237+00:00",
+  "generated_at": "2026-08-26T16:30:59.352673+00:00",
   "article_count": 50,
-  "total_unique_count": 262,
+  "total_unique_count": 260,
   "digest": {
     "en": "Middle East & Africa leads the board this hour with Ebola en RDC, une épidémie hors de contrôle ?. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, फ्लैश फ्लड क्या होता है? आपके मोबाइल पर आज-कल रोज आता है अलर्ट, नेपाल में आई यही प्रलय मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "इस घंटे बोर्ड पर यूरोप और रूस की अगुवाई है, लुहान्स्क में बस पर ड्रोन अटैक से हड़कंप! 9 नागरिकों की मौत, यूक्रेन पर हमले का आरोप मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -32,13 +32,37 @@
       "translations": {}
     },
     {
-      "title": "At least 95 dead, over 350 missing; IAF to deploy two aircraft with relief materials",
+      "title": "Kremlin says US spy chief met with Russian counterparts during Moscow visit",
+      "url": "https://www.channelnewsasia.com/world/us-spy-chief-russia-talks-ratcliffe-6343216",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-08-26T16:23:51+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--UN2lfjRJ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-26T102817Z_1_LYNXMPEM7P0RE_RTROPTP_3_IRAN-CRISIS-USA-INTELLIGENCE.JPG?itok=g-drvyZF",
+      "summary": "US President Donald Trump did not make it clear what the officials were there to discuss, but said the visit could be useful, adding, “something may come out of it” as efforts to end the Ukraine war continue. Kremlin says US spy chief met with Russian counterparts during Moscow visit.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "At least 95 dead, over 350 missing; India sends first tranche of relief materials",
       "url": "https://www.thehindu.com/news/international/nepal-floods-live-updates-august-26-2026-several-missing-dead/article71392492.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-08-26T15:40:22+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/ssaisd/article71393625.ece/alternates/LANDSCAPE_1200/Nepal_Flash_Floods__1269.jpg",
+      "published_at": "2026-08-26T16:16:09+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/n9m5ke/article71393750.ece/alternates/LANDSCAPE_1200/PTI08_26_2026_000554B.jpg",
       "summary": "India announced it will send relief supplies For assistance and information related to Indian nationals that have been affected by the flash floods in Nepal today, the following emergency numbers may be contacted: +977 985 131 6807, +977 970 910 7500, said a post by the Indian embassy in Nepal. Several feared dead, India to send relief materials. At least 18 feared dead, over 350 missing, India to send relief materials.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Western disturbance linked to Nepal floods",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/western-disturbance-linked-to-nepal-floods/article71393352.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-08-26T16:04:16+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/fu1sbb/article71393719.ece/alternates/LANDSCAPE_1200/2026-08-26T144617Z_88780318_RC296NA9FK6G_RTRMADP_3_NEPAL-FLOODS.JPG",
+      "summary": "A senior IMD official said the western disturbance may contribute to the broader rainfall The western disturbance is a possible contributor to the broader rainfall environment rather than an established direct cause of the flash flood; the immediate mechanism behind the sudden release of water remains under investigation, a senior IMD official says. Western disturbance linked to Nepal floods.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -284,28 +308,94 @@
       "translations": {}
     },
     {
-      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
-      "url": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
-      "source": "The Guardian",
+      "title": "लुहान्स्क में बस पर ड्रोन अटैक से हड़कंप! 9 नागरिकों की मौत, यूक्रेन पर हमले का आरोप",
+      "url": "https://www.patrika.com/world-news/luhansk-bus-drone-attack-9-killed-russia-blames-ukraine-20863159",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-08-24T14:19:14+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/6fceb10673f4af6f590045148db3218713256243/1116_171_4621_3697/master/4621.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=817a020deaeb4328da40ed95b0bba10e",
-      "summary": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older peopleAn armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last week. Video shows hundreds held captive after Nigeria mosque kidnapping.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-08-26T16:07:33+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Russia-Ukraine-War-3.webp",
+      "summary": "Ukraine Drone Attack: पूर्वी यूक्रेन के लुहान्स्क इलाके के उस हिस्से में, जो रूस के नियंत्रण में है, एक यात्री बस पर हुए यूक्रेनी हमले में 9 नागरिकों की मौत हो गई। यह जानकारी इलाके के रूसी-नियुक्त गवर्नर लियोनिद पासेचनिक ने दी। पासेचनिक ने बताया कि हमले के समय बस लिसिचन्स्क से कादीवका जा रही थी, लेकिन उन्होंने हमले के हालात के बारे में और कोई जानकारी नहीं दी।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लुहान्स्क में बस पर ड्रोन अटैक से हड़कंप! 9 नागरिकों की मौत, यूक्रेन पर हमले का आरोप",
+          "summary": "Ukraine Drone Attack: पूर्वी यूक्रेन के लुहान्स्क इलाके के उस हिस्से में, जो रूस के नियंत्रण में है, एक यात्री बस पर हुए यूक्रेनी हमले में 9 नागरिकों की मौत हो गई। यह जानकारी इलाके के रूसी-नियुक्त गवर्नर लियोनिद पासेचनिक ने दी। पासेचनिक ने बताया कि हमले के समय बस लिसिचन्स्क से कादीवका जा रही थी, लेकिन उन्होंने हमले के हालात के बारे में और कोई जानकारी नहीं दी।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
-      "title": "Can restoring land create jobs? These young entrepreneurs are proving it",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168194",
-      "source": "UN News",
+      "title": "नेपाल ने भारत को ‘दिल से’ भेजा मैसेज, पीएम मोदी की मदद पर क्या बोली सरकार?",
+      "url": "https://hindi.news18.com/world/south-asia-exclusive-nepal-flood-thank-you-india-balen-shah-party-reacts-to-pm-modi-emergency-support-missing-indians-rescue-operations-10784527.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-24T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/24-08-2026_LandRestoration.jpg/image770x420cropped.jpg",
-      "summary": "From Ecuador to Bangladesh, a new generation of entrepreneurs is turning land restoration into economic opportunity. Whether repurposing agricultural waste, building greenhouses or deploying AI-powered sensors, they are showing, with support from a United Nations-backed initiative, that restoring land can also generate income and improve livelihoods. Can restoring land create jobs? These young entrepreneurs are proving it.",
+      "published_at": "2026-08-26T15:52:35+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Exclusive-Nepal-Flood-Thank-You-India-Balen-Shah-Party-1-2026-08-a56f52f5fb2dc4bb830bc3cda9f72ce1-1200x800.jpg",
+      "summary": "नेपाल और चीन सीमा पर आई भयानक फ्लैश फ्लड ने 6 से ज्यादा जिलों में भारी तबाही मचाई है. इसे साल 2015 के भूकंप के बाद की सबसे बड़ी प्राकृतिक आपदा बताया जा रहा है. इस मुश्किल घड़ी में प्रधानमंत्री नरेंद्र मोदी ने नेपाल को हर संभव मदद का भरोसा दिया है. भारत के इस कदम पर नेपाल की सत्तारूढ़ पार्टी (RSP) के प्रवक्ता जगदीश खरेल ने News18 से एक्सक्लूसिव बातचीत की.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल ने भारत को ‘दिल से’ भेजा मैसेज, पीएम मोदी की मदद पर क्या बोली सरकार?",
+          "summary": "नेपाल और चीन सीमा पर आई भयानक फ्लैश फ्लड ने 6 से ज्यादा जिलों में भारी तबाही मचाई है. इसे साल 2015 के भूकंप के बाद की सबसे बड़ी प्राकृतिक आपदा बताया जा रहा है. इस मुश्किल घड़ी में प्रधानमंत्री नरेंद्र मोदी ने नेपाल को हर संभव मदद का भरोसा दिया है. भारत के इस कदम पर नेपाल की सत्तारूढ़ पार्टी (RSP) के प्रवक्ता जगदीश खरेल ने News18 से एक्सक्लूसिव बातचीत की.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में चीन की कथित बड़ी साइबर जासूसी का खुलासा, NASA से फेडरल रिजर्व तक कई एजेंसियां निशाने पर",
+      "url": "https://www.patrika.com/world-news/china-cyber-espionage-us-nasa-federal-reserve-senate-hackers-20863113",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-26T15:50:58+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-5.webp",
+      "summary": "US China Cyber War: अमेरिकी अधिकारियों ने बुधवार को चीन से जुड़े एक बड़े कथित साइबर-जासूसी का खुलासा किया है। अधिकारियों के मुताबिक, चीनी सेना और खुफिया सेवाओं से जुड़े हैकर्स ने एक चीनी टेक कंपनी की मदद से अमेरिकी सरकारी और महत्वपूर्ण संस्थानों के नेटवर्क में घुसपैठ करने की कोशिश की।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में चीन की कथित बड़ी साइबर जासूसी का खुलासा, NASA से फेडरल रिजर्व तक कई एजेंसियां निशाने पर",
+          "summary": "US China Cyber War: अमेरिकी अधिकारियों ने बुधवार को चीन से जुड़े एक बड़े कथित साइबर-जासूसी का खुलासा किया है। अधिकारियों के मुताबिक, चीनी सेना और खुफिया सेवाओं से जुड़े हैकर्स ने एक चीनी टेक कंपनी की मदद से अमेरिकी सरकारी और महत्वपूर्ण संस्थानों के नेटवर्क में घुसपैठ करने की कोशिश की।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका का बड़ा एक्शन! ‘पैलेस्टाइन एक्शन’ को ग्लोबल आतंकवादी घोषित कर लगाया प्रतिबंध, जानें क्या",
+      "url": "https://www.patrika.com/world-news/us-sanctions-palestine-action-global-terrorist-sdgt-designation-20863089",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-26T15:15:58+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Palestine-Action.webp",
+      "summary": "SDGT Palestine Action: अमेरिका ने ब्रिटेन के प्रत्यक्ष-कार्रवाई समूह ‘पैलेस्टाइन एक्शन’ (Palestine Action) के खिलाफ बड़ा कदम उठाते हुए उसे वैश्विक आतंकी (SDGT) घोषित कर दिया है। अमेरिकी ट्रेजरी विभाग की ओर से की गई इस कार्रवाई के तहत समूह से जुड़ी अमेरिका स्थित संपत्तियों और वित्तीय हितों को ब्लॉक किया जाएगा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका का बड़ा एक्शन! ‘पैलेस्टाइन एक्शन’ को ग्लोबल आतंकवादी घोषित कर लगाया प्रतिबंध, जानें क्या",
+          "summary": "SDGT Palestine Action: अमेरिका ने ब्रिटेन के प्रत्यक्ष-कार्रवाई समूह ‘पैलेस्टाइन एक्शन’ (Palestine Action) के खिलाफ बड़ा कदम उठाते हुए उसे वैश्विक आतंकी (SDGT) घोषित कर दिया है। अमेरिकी ट्रेजरी विभाग की ओर से की गई इस कार्रवाई के तहत समूह से जुड़ी अमेरिका स्थित संपत्तियों और वित्तीय हितों को ब्लॉक किया जाएगा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘ईरान में महंगाई बेकाबू, अर्थव्यवस्था बिखर रही’, ट्रंप का बड़ा दावा, प्रदर्शनकारियों की हत्या का भी",
+      "url": "https://www.patrika.com/world-news/donald-trump-iran-inflation-economy-protesters-no-time-schedule-talks-20863087",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-26T15:04:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Donald-Trump-9.webp",
+      "summary": "Donald Trump on Iran: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान की आर्थिक स्थिति और वहां जारी विरोध प्रदर्शनों को लेकर गंभीर दावे किए हैं। उन्होंने कहा कि ईरान में भारी महंगाई है और उसकी अर्थव्यवस्था बिखर रही है। ट्रंप ने बुधवार को अल जजीरा से बातचीत में ईरान के खिलाफ अपने रुख को दोहराया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘ईरान में महंगाई बेकाबू, अर्थव्यवस्था बिखर रही’, ट्रंप का बड़ा दावा, प्रदर्शनकारियों की हत्या का भी",
+          "summary": "Donald Trump on Iran: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान की आर्थिक स्थिति और वहां जारी विरोध प्रदर्शनों को लेकर गंभीर दावे किए हैं। उन्होंने कहा कि ईरान में भारी महंगाई है और उसकी अर्थव्यवस्था बिखर रही है। ट्रंप ने बुधवार को अल जजीरा से बातचीत में ईरान के खिलाफ अपने रुख को दोहराया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "फ्लैश फ्लड क्या होता है? आपके मोबाइल पर आज-कल रोज आता है अलर्ट, नेपाल में आई यही प्रलय",
@@ -416,6 +506,42 @@
       }
     },
     {
+      "title": "चंद सेकेंड में बह गई इमारतें और पुल, 105 भारतीय टूरिस्ट लापता, सामने आए बाढ़ के वीडियो",
+      "url": "https://www.patrika.com/world-news/nepal-bhotekoshi-river-flood-8-dead-105-indians-missing-rasuwa-20862404",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-26T12:24:45+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Nepal-Flood-1.webp",
+      "summary": "Nepal Flood Update: काठमांडू। नेपाल के उत्तरी जिले रसुवा में बुधवार सुबह भोट कोशी नदी में अचानक आई भीषण बाढ़ ने भारी तबाही मचाई है। बाढ़ के तेज बहाव में देखते ही देखते पक्के मकान और पुल ताश के पत्तों की तरह ढह गए। इस आपदा में कम से कम 16 लोगों की मौत हो चुकी है, जबकि कई लोग लापता हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चंद सेकेंड में बह गई इमारतें और पुल, 105 भारतीय टूरिस्ट लापता, सामने आए बाढ़ के वीडियो",
+          "summary": "Nepal Flood Update: काठमांडू। नेपाल के उत्तरी जिले रसुवा में बुधवार सुबह भोट कोशी नदी में अचानक आई भीषण बाढ़ ने भारी तबाही मचाई है। बाढ़ के तेज बहाव में देखते ही देखते पक्के मकान और पुल ताश के पत्तों की तरह ढह गए। इस आपदा में कम से कम 16 लोगों की मौत हो चुकी है, जबकि कई लोग लापता हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "PM मोदी ने बालेन शाह से की बात, राहत के लिए सेना मैदान में",
+      "url": "https://www.patrika.com/world-news/nepal-flood-384-missing-105-indians-modi-balen-shah-rescue-20862652",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-26T12:23:49+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Nepal-Flood-3.webp",
+      "summary": "Nepal flood: नेपाल के उत्तरी इलाकों में बुधवार को भोटे कोशी नदी में आई भीषण बाढ़ ने भारी तबाही मचा दी। बताया जा रहा है कि बाढ़ का पानी तिब्बत की ओर से आया और देखते ही देखते नुवाकोट और धादिंग जिलों के कई इलाकों को अपनी चपेट में ले लिया। नेपाली मीडिया रिपोर्टों के मुताबिक, हादसे में कम से कम 16 लोगों की मौत हुई है, जबकि बड़ी संख्या में लोग अब भी लापता हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PM मोदी ने बालेन शाह से की बात, राहत के लिए सेना मैदान में",
+          "summary": "Nepal flood: नेपाल के उत्तरी इलाकों में बुधवार को भोटे कोशी नदी में आई भीषण बाढ़ ने भारी तबाही मचा दी। बताया जा रहा है कि बाढ़ का पानी तिब्बत की ओर से आया और देखते ही देखते नुवाकोट और धादिंग जिलों के कई इलाकों को अपनी चपेट में ले लिया। नेपाली मीडिया रिपोर्टों के मुताबिक, हादसे में कम से कम 16 लोगों की मौत हुई है, जबकि बड़ी संख्या में लोग अब भी लापता हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "सांड की खोपड़ी और 12 दरवाजे… धरती के नीचे दफ्न मिला 6500 साल पुराना टाइम मशीन जैसा अजूबा",
       "url": "https://hindi.news18.com/photogallery/knowledge/stonehenge-se-bhi-purana-rahasyamayi-dancha-mila-czech-republic-me-astronomy-secrets-10784066.html",
       "source": "News18 Hindi (World)",
@@ -430,6 +556,24 @@
           "title": "सांड की खोपड़ी और 12 दरवाजे… धरती के नीचे दफ्न मिला 6500 साल पुराना टाइम मशीन जैसा अजूबा",
           "summary": "चेक रिपब्लिक के क्लेबी में पुरातत्वविदों को 6500 साल पुराना एक रहस्यमय ढांचा मिला है. यह दुनिया के मशहूर स्टोनहेंज से भी 1000 साल ज्यादा पुराना है. इस गोलाकार ढांचे का इस्तेमाल सूरज और चांद की चाल को ट्रैक करने के लिए होता था. इसमें 12 रास्ते बने हैं. ये रास्ते सूर्य ग्रहण और चंद्र ग्रहण जैसी खगोलीय घटनाओं की सटीक जानकारी देते थे. वैज्ञानिक अब इसकी मिट्टी का केमिकल एनालिसिस कर रहे हैं.",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "‘ईरान से डील संभव नहीं, जल्द हो सकता है हमला’, इजराइली पीएम बेंजामिन नेतन्याहू ने दे डाली चेतावनी",
+      "url": "https://www.patrika.com/world-news/benjamin-netanyahu-iran-deal-not-possible-military-action-warning-20862722",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-26T12:11:44+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Benjamin-Netanyahu.webp",
+      "summary": "इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान को लेकर बड़ा बयान दिया है। उन्होंने साफ शब्दों में कहा है कि ईरान के साथ कोई अच्छा समझौता हो पाना मुश्किल लगता है। ‘ईरान से डील संभव नहीं, जल्द हो सकता है हमला’, इजराइली पीएम बेंजामिन नेतन्याहू ने दे डाली चेतावनी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘ईरान से डील संभव नहीं, जल्द हो सकता है हमला’, इजराइली पीएम बेंजामिन नेतन्याहू ने दे डाली चेतावनी",
+          "summary": "इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने ईरान को लेकर बड़ा बयान दिया है। उन्होंने साफ शब्दों में कहा है कि ईरान के साथ कोई अच्छा समझौता हो पाना मुश्किल लगता है। ‘ईरान से डील संभव नहीं, जल्द हो सकता है हमला’, इजराइली पीएम बेंजामिन नेतन्याहू ने दे डाली चेतावनी।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -452,6 +596,24 @@
       }
     },
     {
+      "title": "स्टूडेंट्स प्रोटेस्ट के दौरान मासूम को पुलिस ने पकड़ा, राहुल ने रि-शेयर किया वीडियो",
+      "url": "https://www.abplive.com/news/india/bihar-patna-student-protest-police-detained-child-rahul-reshared-video-3180479",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-26T11:32:16+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/26/009e89046cec08b9a638be82ecc352d017877416844891324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "राहुल गांधी ने बिहार की राजधानी पटना में चल रहे छात्रों के प्रदर्शन से जुड़े मुद्दे को उठाते हुए सवाल पूछा है. उन्होंने अपने एक्स पोस्ट पर एनएसयूआई के एक पोस्ट को रिपोस्ट किया है, जिसमें पुलिस इस प्रदर्शन के बीच बच्चे को गिरफ्तार करके ले जा रही है. राहुल ने अपने बयान में पूछा है कि बिहार के छात्रों का सवाल बहुत सीधा है. भर्ती परीक्षाओं में गड़बड़ी क्यों हुई है?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्टूडेंट्स प्रोटेस्ट के दौरान मासूम को पुलिस ने पकड़ा, राहुल ने रि-शेयर किया वीडियो",
+          "summary": "राहुल गांधी ने बिहार की राजधानी पटना में चल रहे छात्रों के प्रदर्शन से जुड़े मुद्दे को उठाते हुए सवाल पूछा है. उन्होंने अपने एक्स पोस्ट पर एनएसयूआई के एक पोस्ट को रिपोस्ट किया है, जिसमें पुलिस इस प्रदर्शन के बीच बच्चे को गिरफ्तार करके ले जा रही है. राहुल ने अपने बयान में पूछा है कि बिहार के छात्रों का सवाल बहुत सीधा है. भर्ती परीक्षाओं में गड़बड़ी क्यों हुई है?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "इस्लामिक नाटो के कबाब का ख्वाब देख रहा बांग्लादेश, हड्डी की तरह फंसा संविधान का वो पेंच क्या",
       "url": "https://hindi.news18.com/news/knowledge/know-about-bangladesh-constitution-article-25-and-mecca-defence-accord-pakistan-saudi-turkey-10784024.html",
       "source": "News18 Hindi (World)",
@@ -466,6 +628,24 @@
           "title": "इस्लामिक नाटो के कबाब का ख्वाब देख रहा बांग्लादेश, हड्डी की तरह फंसा संविधान का वो पेंच क्या",
           "summary": "भारत के पड़ोस में यह एक इस्लामिक धड़ा तैयार हो गया है. पाकिस्तान, सऊदी अरब और तुर्की के गठजोड़ वाले मक्का रक्षा समझौते में बांग्लादेश भी एंट्री पाने के लिए तैयारी कर रहा है. सवाल बांग्लादेश को लेकर है, जिसने इस ग्रुप में शामिल होने को लेकर दिलचस्पी दिखाई है. हालांकि बांग्लादेश की हुकूमत ने जिस कबाब का ख्वाब सजाया हुआ है, उसमें एक छोटी सी हड्डी भी है जो रंग में भंग डाल सकती है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "PM मोदी ने बालेन शाह से की बात, कहा- हर संभव मदद करेंगे",
+      "url": "https://www.abplive.com/news/india/pm-modi-spoke-to-nepal-pm-balen-shah-over-nepal-floods-3180505",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-26T11:27:39+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/26/851f15bfbc05d140cff86b33d0f383f51787744119623124_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "प्रधानमंत्री मोदी ने नेपाल के प्रधानमंत्री बालेन शाह से बात की और नेपाल में बाढ़ से हुई जान-माल की हानि पर शोक व्यक्त किया. प्रधानमंत्री मोदी ने हर संभव मानवीय और राहत सहायता देने का भी आश्वासन दिया. PM मोदी ने बालेन शाह से की बात, कहा- हर संभव मदद करेंगे।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PM मोदी ने बालेन शाह से की बात, कहा- हर संभव मदद करेंगे",
+          "summary": "प्रधानमंत्री मोदी ने नेपाल के प्रधानमंत्री बालेन शाह से बात की और नेपाल में बाढ़ से हुई जान-माल की हानि पर शोक व्यक्त किया. प्रधानमंत्री मोदी ने हर संभव मानवीय और राहत सहायता देने का भी आश्वासन दिया. PM मोदी ने बालेन शाह से की बात, कहा- हर संभव मदद करेंगे।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -488,6 +668,24 @@
       }
     },
     {
+      "title": "गाजा में पतंग उड़ाने पर इजराइल का गुस्सा! फिलिस्तीनियों को इलाका खाली करने की धमकी",
+      "url": "https://www.patrika.com/world-news/gaza-kite-drone-balloon-israel-palestinians-evacuation-threat-un-condemns-20862447",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-26T11:18:01+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Gaza-Kite-Controversy.webp",
+      "summary": "Israel Palestine Conflict: गाजा पट्टी के इलाकों में पतंग और ड्रोन उड़ाने को लेकर इजराइल ने नाराजगी जताई है। गाजा पट्टी के कुछ हिस्से जहां पतंगें उड़ाई गईं वहां से फिलिस्तीनियों को इजराइल ने निष्कासित करने की धमकी दी है। प्रधानमंत्री बेंजामिन नेतन्याहू और रक्षा मंत्री इजराइल काट्ज ने इस बारे में एक संयुक्त चेतावनी भी जारी की है। दूसरी तरफ, संयुक्त राष्ट्र ने इजराइल की इस धमकी की निंदा की है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गाजा में पतंग उड़ाने पर इजराइल का गुस्सा! फिलिस्तीनियों को इलाका खाली करने की धमकी",
+          "summary": "Israel Palestine Conflict: गाजा पट्टी के इलाकों में पतंग और ड्रोन उड़ाने को लेकर इजराइल ने नाराजगी जताई है। गाजा पट्टी के कुछ हिस्से जहां पतंगें उड़ाई गईं वहां से फिलिस्तीनियों को इजराइल ने निष्कासित करने की धमकी दी है। प्रधानमंत्री बेंजामिन नेतन्याहू और रक्षा मंत्री इजराइल काट्ज ने इस बारे में एक संयुक्त चेतावनी भी जारी की है। दूसरी तरफ, संयुक्त राष्ट्र ने इजराइल की इस धमकी की निंदा की है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "नेपाल बाढ़ में 105 भारतीयों का नहीं चल रहा पता, ट्रैवल एजेंसियों का डेटा डरा रहा, बढ़ता जा रहा मौत",
       "url": "https://hindi.news18.com/world/south-asia-nepal-flash-flood-missing-indians-105-indian-pilgrims-missing-400-kailash-mansarovar-yatra-pilgrims-out-of-contact-10783897.html",
       "source": "News18 Hindi (World)",
@@ -501,6 +699,24 @@
         "hi": {
           "title": "नेपाल बाढ़ में 105 भारतीयों का नहीं चल रहा पता, ट्रैवल एजेंसियों का डेटा डरा रहा, बढ़ता जा रहा मौत",
           "summary": "नेपाल-चीन बॉर्डर के रसुवागढ़ी इलाके में अचानक आई भयानक बाढ़ ने भारी तबाही मचाई है. इस हादसे में अब तक नौ लोगों की मौत हो चुकी है. वहीं सड़कें और पुल बह जाने की वजह से चीन जाने वाला मुख्य व्यापारिक रास्ता पूरी तरह बंद हो गया है. तिब्बत में कैलाश मानसरोवर यात्रा पर निकले लगभग 400 श्रद्धालुओं से संपर्क टूट चुका है. नेपाल पर्यटन बोर्ड के मुताबिक इनमें कम से कम 105 भारतीय शामिल हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नेपाल बाढ़ में 105 भारतीय लापता, देखें तबाही की तस्वीरें",
+      "url": "https://www.abplive.com/photo-gallery/news/india-nepal-flood-105-indians-missing-photos-high-alert-india-china-3180488",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-08-26T10:51:25+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/26/ec782dc61a40549438830091bca3c60d1787739928779708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "नेपाल बाढ़ में 105 भारतीय लापता, देखें तबाही की तस्वीरें।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल बाढ़ में 105 भारतीय लापता, देखें तबाही की तस्वीरें",
+          "summary": "नेपाल बाढ़ में 105 भारतीय लापता, देखें तबाही की तस्वीरें।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -537,222 +753,6 @@
         "hi": {
           "title": "बांग्लादेश में सुरक्षित नहीं अल्पसंख्यक? रंगपुर में 4 हत्याओं के बाद चांदपुर से पूरा हिंदू परिवार",
           "summary": "बांग्लादेश में अल्पसंख्यक हिंदू समुदाय की सुरक्षा को लेकर चिंताएं और ज्यादा गहरा गई हैं. रंगपुर में स्कूल शिक्षक गणपति चक्रवर्ती और उनके परिवार के तीन सदस्यों के दर्दनाक कत्लेआम का मामला अभी शांत भी नहीं हुआ था कि अब चांदपुर से एक और हिंदू परिवार के रहस्यमय तरीके से गायब होने की सनसनीखेज खबर सामने आ गई है. लापता लोगों में चांदपुर शहर के जाने-माने व्यवसायी 'एसके शिल्पालय' के मालिक पिंटू दास, उनकी प।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ल्हेंदे नदी में कूदा था 'हिम राक्षस', नेपाल में बिना बारिश वाली बाढ़ की इनसाइड स्टोरी, कहां गए 400",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-flood-update-massive-avalanche-blockade-bursts-in-lhende-river-cause-bhotekoshi-river-flood-near-nepal-china-border-400-stranded-10783700.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-26T10:37:23+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Nepal-Flood-Update-2026-08-e2ccd20058d604aa82bdd227408ad097-1200x800.jpg",
-      "summary": "Avalanche Blockade Bursts in Lhende River: नेपाल की भोटेकोशी नदी में बिना बारिश के अचानक बाढ़ आ गई. इस बाढ़ ने तटीय इलाकों में भारी तबाही मचाई है. इसमें सैकड़ों लोग प्रभावित हुए हैं, जबकि कई घर और पुल बह गए हैं. वैज्ञानिकों के मुताबिक नेपाल-चीन बॉर्डर के पास बड़ा हिमस्खलन हुआ था. इस वजह से ल्हेंदे नदी का पानी रुक गया था. बाद में यह बर्फीला बांध अचानक टूट गया और पानी उफान पर आ गया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ल्हेंदे नदी में कूदा था 'हिम राक्षस', नेपाल में बिना बारिश वाली बाढ़ की इनसाइड स्टोरी, कहां गए 400",
-          "summary": "Avalanche Blockade Bursts in Lhende River: नेपाल की भोटेकोशी नदी में बिना बारिश के अचानक बाढ़ आ गई. इस बाढ़ ने तटीय इलाकों में भारी तबाही मचाई है. इसमें सैकड़ों लोग प्रभावित हुए हैं, जबकि कई घर और पुल बह गए हैं. वैज्ञानिकों के मुताबिक नेपाल-चीन बॉर्डर के पास बड़ा हिमस्खलन हुआ था. इस वजह से ल्हेंदे नदी का पानी रुक गया था. बाद में यह बर्फीला बांध अचानक टूट गया और पानी उफान पर आ गया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान से कारोबार करने वाले देशों को अमेरिका की धमकी, क्या हैं सेकेंडरी सैंक्शंस और कैसे करते हैं काम?",
-      "url": "https://www.patrika.com/world-news/iran-trading-partners-us-secondary-sanctions-how-they-work-20862224",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-26T09:55:29+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/US-Secondary-Sanctions-Iran-2.webp",
-      "summary": "US Secondary Sanctions Iran: ईरान पर अमेरिकी दबाव अब सिर्फ तेहरान तक सीमित नहीं है। अमेरिका ने ईरान के साथ कारोबार करने वाले देशों और कंपनियों को भी कार्रवाई की चेतावनी दी है। ट्रंप प्रशासन ने इसके लिए ‘ऑपरेशन इकोनॉमिक आउटकास्ट’ शुरू किया है। इसका मकसद ईरान की कमाई के स्रोतों और अंतरराष्ट्रीय आर्थिक संपर्कों को कमजोर करना है। ईरान से कारोबार करने वाले देशों को अमेरिका की धमकी, क्या हैं सेकेंडरी सैंक्शंस और कैसे करते हैं काम?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान से कारोबार करने वाले देशों को अमेरिका की धमकी, क्या हैं सेकेंडरी सैंक्शंस और कैसे करते हैं काम?",
-          "summary": "US Secondary Sanctions Iran: ईरान पर अमेरिकी दबाव अब सिर्फ तेहरान तक सीमित नहीं है। अमेरिका ने ईरान के साथ कारोबार करने वाले देशों और कंपनियों को भी कार्रवाई की चेतावनी दी है। ट्रंप प्रशासन ने इसके लिए ‘ऑपरेशन इकोनॉमिक आउटकास्ट’ शुरू किया है। इसका मकसद ईरान की कमाई के स्रोतों और अंतरराष्ट्रीय आर्थिक संपर्कों को कमजोर करना है। ईरान से कारोबार करने वाले देशों को अमेरिका की धमकी, क्या हैं सेकेंडरी सैंक्शंस और कैसे करते हैं काम?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अब इराक-ईरान में ठनी, नक्शे और फारस की खाड़ी को लेकर बढ़ा विवाद, ईरानी राजदूत को किया गया तलब",
-      "url": "https://www.patrika.com/world-news/iraq-iran-tension-persian-gulf-maps-ambassador-summoned-20862099",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-26T09:18:11+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Iran-President-India-Visit.webp",
-      "summary": "मिडिल ईस्ट में अब इराक और ईरान के बीच ठन गई है। दोनों के बीच क्षेत्र के नक्शे और गलत बयानबाजी को लेकर विवाद बढ़ गया है। दरअसल, ईरान के कुछ दूतावासों ने आधिकारिक सोशल मीडिया अकाउंट्स पर ऐसे नक्शे और टिप्पणियां पोस्ट कीं, जिन्हें इराक ने अपने हितों के खिलाफ माना। इसको लेकर इराक के विदेश मंत्रालय ने तुरंत प्रतिक्रिया दी और ईरानी राजदूत को तलब कर स्पष्टीकरण मांगा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब इराक-ईरान में ठनी, नक्शे और फारस की खाड़ी को लेकर बढ़ा विवाद, ईरानी राजदूत को किया गया तलब",
-          "summary": "मिडिल ईस्ट में अब इराक और ईरान के बीच ठन गई है। दोनों के बीच क्षेत्र के नक्शे और गलत बयानबाजी को लेकर विवाद बढ़ गया है। दरअसल, ईरान के कुछ दूतावासों ने आधिकारिक सोशल मीडिया अकाउंट्स पर ऐसे नक्शे और टिप्पणियां पोस्ट कीं, जिन्हें इराक ने अपने हितों के खिलाफ माना। इसको लेकर इराक के विदेश मंत्रालय ने तुरंत प्रतिक्रिया दी और ईरानी राजदूत को तलब कर स्पष्टीकरण मांगा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "नेपाल की मंदाकिनी है भोटेकोशी नदी, जो सुरसा बनकर लील गई गांव के गांव, भारत से भी जुड़ा है रिश्ता",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-flash-flood-how-bhotekoshi-river-devastated-villages-4000-people-related-to-3-countries-including-india-10782771.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-26T09:05:37+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/bhatikoshi-river-2026-08-d0ae3a316e6991d8c9d957901db53176-1200x800.jpg",
-      "summary": "Nepal Flash Flood in Bhotekoshi River: नेपाल में इस वक्त क्या स्थिति बनी हुई है, वो तो हम तस्वीरों और वीडियो में देख ही रहे हैं. चलिए जानते हैं उस नदी के बारे में, जिसने नेपाल के हंसते-खेलते इलाकों को बर्बाद कर दिया. आबादी के गुलजार गांवों को नक्शे से साफ कर दिया और जो भी सामने आया, उसे सुरसा की तरह लीलती चली गई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल की मंदाकिनी है भोटेकोशी नदी, जो सुरसा बनकर लील गई गांव के गांव, भारत से भी जुड़ा है रिश्ता",
-          "summary": "Nepal Flash Flood in Bhotekoshi River: नेपाल में इस वक्त क्या स्थिति बनी हुई है, वो तो हम तस्वीरों और वीडियो में देख ही रहे हैं. चलिए जानते हैं उस नदी के बारे में, जिसने नेपाल के हंसते-खेलते इलाकों को बर्बाद कर दिया. आबादी के गुलजार गांवों को नक्शे से साफ कर दिया और जो भी सामने आया, उसे सुरसा की तरह लीलती चली गई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नेपाल में कुदरत का कहर! तिब्बत बॉर्डर पर अचानक सैलाब, गांव और प्रोजेक्ट साइट्स पानी में समाईं",
-      "url": "https://www.patrika.com/world-news/nepal-flood-bhote-koshi-tibet-border-flash-flood-rasuwa-20861672",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-26T08:14:15+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Nepal-Flood.webp",
-      "summary": "Nepal Flash Flood: नेपाल में बुधवार सुबह आई अचानक बाढ़ ने हिमालयी क्षेत्र की भयावह तस्वीर सामने ला दी। तिब्बत सीमा से लगे रसुवा जिले में भोटे कोशी नदी का जलस्तर अचानक उफान पर पहुंच गया और देखते ही देखते बस्तियों, बाजारों तथा बुनियादी ढांचे को भारी नुकसान पहुंचा। नेपाल पुलिस X पर एक वीडियो साझा करके निचले इलाकों में रहने वाले लोगों को सुरक्षित स्थानों पर जाने की अपील की है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल में कुदरत का कहर! तिब्बत बॉर्डर पर अचानक सैलाब, गांव और प्रोजेक्ट साइट्स पानी में समाईं",
-          "summary": "Nepal Flash Flood: नेपाल में बुधवार सुबह आई अचानक बाढ़ ने हिमालयी क्षेत्र की भयावह तस्वीर सामने ला दी। तिब्बत सीमा से लगे रसुवा जिले में भोटे कोशी नदी का जलस्तर अचानक उफान पर पहुंच गया और देखते ही देखते बस्तियों, बाजारों तथा बुनियादी ढांचे को भारी नुकसान पहुंचा। नेपाल पुलिस X पर एक वीडियो साझा करके निचले इलाकों में रहने वाले लोगों को सुरक्षित स्थानों पर जाने की अपील की है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज स्ट्रेट पर तनाव का असर, पाकिस्तान में बढ़े पेट्रोल-डीजल के दाम; अब रोज तय होंगी कीमतें",
-      "url": "https://www.patrika.com/world-news/pakistan-fuel-price-hike-hormuz-strait-tension-petrol-diesel-price-20861030",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-26T07:49:04+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/05/petrol-price-in-pakistan.webp",
-      "summary": "अंतरराष्ट्रीय तेल बाजार में जारी उतार-चढ़ाव और मध्य पूर्व में बढ़ते तनाव का असर पाकिस्तान की अर्थव्यवस्था पर साफ दिख रहा है। दरअसल, पाकिस्तान सरकार ने एक बार फिर पेट्रोल और हाई स्पीड डीजल की कीमतों में बढ़ोतरी की है। पेट्रोल की कीमत में 1.12 रुपए और हाई स्पीड डीजल की कीमत में 1.11 रुपए प्रति लीटर की वृद्धि की है। नई दरों के बाद अब पाकिस्तान में पेट्रोल 343.10 रुपए प्रति लीटर और हाई स्पीड डीजल 371.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज स्ट्रेट पर तनाव का असर, पाकिस्तान में बढ़े पेट्रोल-डीजल के दाम; अब रोज तय होंगी कीमतें",
-          "summary": "अंतरराष्ट्रीय तेल बाजार में जारी उतार-चढ़ाव और मध्य पूर्व में बढ़ते तनाव का असर पाकिस्तान की अर्थव्यवस्था पर साफ दिख रहा है। दरअसल, पाकिस्तान सरकार ने एक बार फिर पेट्रोल और हाई स्पीड डीजल की कीमतों में बढ़ोतरी की है। पेट्रोल की कीमत में 1.12 रुपए और हाई स्पीड डीजल की कीमत में 1.11 रुपए प्रति लीटर की वृद्धि की है। नई दरों के बाद अब पाकिस्तान में पेट्रोल 343.10 रुपए प्रति लीटर और हाई स्पीड डीजल 371.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "एच-1बी वीजा में बड़े बदलाव की तैयारी: अमेरिका ने सभी वीजा अपॉइंटमेंट रोके,ऐसा क्या कर रहा ट्रंप",
-      "url": "https://www.amarujala.com/world/us-halts-all-visa-appointments-globally-amid-trump-immigration-crackdown-report-2026-08-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-26T07:21:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/10/donald-trump_fb8e9e07540c713332d1e4b548a4708e.jpeg?w=1200&dpr=1.0",
-      "summary": "एच-1बी वीजा में बड़े बदलाव की तैयारी: अमेरिका ने दुनियाभर में सभी वीजा अपॉइंटमेंट रोके, क्या कर रहा ट्रंप प्रशासन? एच-1बी वीजा में बड़े बदलाव की तैयारी: अमेरिका ने सभी वीजा अपॉइंटमेंट रोके, ऐसा क्या कर रहा ट्रंप।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एच-1बी वीजा में बड़े बदलाव की तैयारी: अमेरिका ने सभी वीजा अपॉइंटमेंट रोके,ऐसा क्या कर रहा ट्रंप",
-          "summary": "एच-1बी वीजा में बड़े बदलाव की तैयारी: अमेरिका ने दुनियाभर में सभी वीजा अपॉइंटमेंट रोके, क्या कर रहा ट्रंप प्रशासन? एच-1बी वीजा में बड़े बदलाव की तैयारी: अमेरिका ने सभी वीजा अपॉइंटमेंट रोके, ऐसा क्या कर रहा ट्रंप।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "रूस के गैस केमिकल प्लांट में लगी आग, 7 की मौत; 6 चीनी नागरिकों की गई जान, 9 अब भी लापता",
-      "url": "https://www.patrika.com/world-news/russia-amur-gas-plant-fire-6-chinese-workers-killed-9-missing-20861475",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-26T07:06:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Russia-Gas-Plant-Fire.webp",
-      "summary": "Amur Gas Chemical Complex: रूस के सुदूर पूर्वी अमूर क्षेत्र में मंगलवार को एक बड़े गैस केमिकल कॉम्प्लेक्स में आग और विस्फोट ने हड़कंप मचा दिया। हादसे में कम से कम सात लोगों की मौत की पुष्टि हुई है, जिनमें छह चीनी नागरिक हैं। सबसे बड़ी चिंता अब उन नौ चीनी कर्मचारियों को लेकर है, जिनका हादसे के बाद से कोई पता नहीं चला है। प्लांट में उस समय उपकरणों की टेस्टिंग और कमीशनिंग का काम चल रहा था।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस के गैस केमिकल प्लांट में लगी आग, 7 की मौत; 6 चीनी नागरिकों की गई जान, 9 अब भी लापता",
-          "summary": "Amur Gas Chemical Complex: रूस के सुदूर पूर्वी अमूर क्षेत्र में मंगलवार को एक बड़े गैस केमिकल कॉम्प्लेक्स में आग और विस्फोट ने हड़कंप मचा दिया। हादसे में कम से कम सात लोगों की मौत की पुष्टि हुई है, जिनमें छह चीनी नागरिक हैं। सबसे बड़ी चिंता अब उन नौ चीनी कर्मचारियों को लेकर है, जिनका हादसे के बाद से कोई पता नहीं चला है। प्लांट में उस समय उपकरणों की टेस्टिंग और कमीशनिंग का काम चल रहा था।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "‘दबाव का असर दिख रहा है’, अमेरिकी प्रतिबंधों से घबराया ईरान का शीर्ष नेतृत्व, बेसेंट का बड़ा दावा",
-      "url": "https://www.patrika.com/world-news/iran-economic-crisis-us-sanctions-scott-bessent-tehran-pressure-20861519",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-26T06:38:40+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2025/09/Copy-of-Logo-Banner-23.jpg",
-      "summary": "Iran economic crisis: अमेरिकी सरकार लगातार ईरान पर कडे़ आर्थिक प्रतिबंध लगा रही है। ट्रंप प्रशासन द्वारा उठाए गए कदमों का असर भी ईरानी अर्थव्यवस्था पर पड़ता हुआ दिखाई दे रहा है। अमेरिकी ट्रेजरी सेक्रेटरी स्कॉट बेसेंट ने दावा किया है कि वॉशिंगटन का दबाव काम कर रहा है। खुद ईरान का शीर्ष नेतृत्व देश के गहराते आर्थिक संकट को स्वीकार करने लगा है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘दबाव का असर दिख रहा है’, अमेरिकी प्रतिबंधों से घबराया ईरान का शीर्ष नेतृत्व, बेसेंट का बड़ा दावा",
-          "summary": "Iran economic crisis: अमेरिकी सरकार लगातार ईरान पर कडे़ आर्थिक प्रतिबंध लगा रही है। ट्रंप प्रशासन द्वारा उठाए गए कदमों का असर भी ईरानी अर्थव्यवस्था पर पड़ता हुआ दिखाई दे रहा है। अमेरिकी ट्रेजरी सेक्रेटरी स्कॉट बेसेंट ने दावा किया है कि वॉशिंगटन का दबाव काम कर रहा है। खुद ईरान का शीर्ष नेतृत्व देश के गहराते आर्थिक संकट को स्वीकार करने लगा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "रूस के अमूर गैस-केमिकल प्लांट में भीषण आग, 6 चीनी नागरिकों समेत 7 की मौत, 36 अस्पताल में भर्ती",
-      "url": "https://www.patrika.com/world-news/russia-amur-gas-chemical-plant-fire-7-killed-9-missing-20861424",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-26T06:22:12+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Russian-gas-plant-fire.webp",
-      "summary": "Russia plant fire: रूस के सुदूर पूर्वी अमूर क्षेत्र में स्थित एक गैस-रासायनिक कॉम्प्लेक्स में बुधवार को भीषण आग लगने से सात लोगों की मौत हो गई। मृतकों में छह चीनी नागरिक शामिल हैं, जबकि नौ अन्य लोग अभी लापता बताए जा रहे हैं। हादसे की जानकारी प्लांट प्रबंधन ने दी है। आग लगने की घटना के बाद बड़े पैमाने पर राहत और बचाव अभियान चलाया गया।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस के अमूर गैस-केमिकल प्लांट में भीषण आग, 6 चीनी नागरिकों समेत 7 की मौत, 36 अस्पताल में भर्ती",
-          "summary": "Russia plant fire: रूस के सुदूर पूर्वी अमूर क्षेत्र में स्थित एक गैस-रासायनिक कॉम्प्लेक्स में बुधवार को भीषण आग लगने से सात लोगों की मौत हो गई। मृतकों में छह चीनी नागरिक शामिल हैं, जबकि नौ अन्य लोग अभी लापता बताए जा रहे हैं। हादसे की जानकारी प्लांट प्रबंधन ने दी है। आग लगने की घटना के बाद बड़े पैमाने पर राहत और बचाव अभियान चलाया गया।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका ने दुनियाभर में रोके वीजा अपॉइंटमेंट, जानिए भारतीय आवेदकों पर इसका क्या पड़ेगा असर",
-      "url": "https://www.patrika.com/world-news/us-visa-appointment-hold-impact-on-indian-applicants-20861322",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-26T05:36:31+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/6084602584413966609_dc73b5.webp",
-      "summary": "US Visa: अमेरिकी वीजा का इंतजार कर रहे लाखों भारतीयों और दुनिया भर के आवेदकों के लिए एक बड़ी खबर सामने आई है। ट्रंप प्रशासन ने इमिग्रेशन नियमों को सख्त करते हुए दुनियाभर में स्थित अपने सभी अमेरिकी दूतावासों और वाणिज्य दूतावासों में फिलहाल वीजा अपॉइंटमेंट की प्रक्रिया पर रोक लगा दी है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका ने दुनियाभर में रोके वीजा अपॉइंटमेंट, जानिए भारतीय आवेदकों पर इसका क्या पड़ेगा असर",
-          "summary": "US Visa: अमेरिकी वीजा का इंतजार कर रहे लाखों भारतीयों और दुनिया भर के आवेदकों के लिए एक बड़ी खबर सामने आई है। ट्रंप प्रशासन ने इमिग्रेशन नियमों को सख्त करते हुए दुनियाभर में स्थित अपने सभी अमेरिकी दूतावासों और वाणिज्य दूतावासों में फिलहाल वीजा अपॉइंटमेंट की प्रक्रिया पर रोक लगा दी है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान के इस्लामाबाद में PIMS अस्पताल में भीषण आग, 14 नवजात बच्चों की मौत",
-      "url": "https://www.patrika.com/world-news/pims-hospital-islamabad-fire-14-newborn-babies-death-20861309",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-26T05:28:25+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/PIMS.webp",
-      "summary": "14 infants die in Islamabad: पाकिस्तान की राजधानी इस्लामाबाद स्थित एक अस्पताल में बुधवार को लगी भीषण आग की चपेट में आने से 14 नवजात बच्चों की मौत हो गई। यह हादसा पाकिस्तान इंस्टीट्यूट ऑफ मेडिकल साइंसेज (PIMS) के स्त्री रोग वार्ड में हुआ। हादसे के समय नर्सरी में 15 नवजात बच्चे भर्ती थे, जिनमें से सिर्फ एक बच्चे को बचाया जा सका।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान के इस्लामाबाद में PIMS अस्पताल में भीषण आग, 14 नवजात बच्चों की मौत",
-          "summary": "14 infants die in Islamabad: पाकिस्तान की राजधानी इस्लामाबाद स्थित एक अस्पताल में बुधवार को लगी भीषण आग की चपेट में आने से 14 नवजात बच्चों की मौत हो गई। यह हादसा पाकिस्तान इंस्टीट्यूट ऑफ मेडिकल साइंसेज (PIMS) के स्त्री रोग वार्ड में हुआ। हादसे के समय नर्सरी में 15 नवजात बच्चे भर्ती थे, जिनमें से सिर्फ एक बच्चे को बचाया जा सका।",
           "region": "एशिया-प्रशांत"
         }
       }
