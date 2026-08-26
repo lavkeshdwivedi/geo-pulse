@@ -1,10 +1,22 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** August 26, 2026 23:29 IST
+**अपडेट:** August 27, 2026 00:13 IST
 
 ---
 
 ## एशिया-प्रशांत
+
+### [नेपाल में बाढ़ के बाद भूकंप से मचा हड़कंप: 5.2 की तीव्रता वाले झटके हुए महसूस, जानें क्यों कांपी](https://www.amarujala.com/world/nepal-5-2-magnitude-earthquake-know-reason-amid-flood-landslide-disaster-157-dead-hundreds-missing-2026-08-27)
+*Amar Ujala World* - Aug 27, 12:10 IST (iso: 2026-08-27T06:40:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/26/napal-sa-tabbta-taka-tabha-ka-majara_09c6bdb397a9b441dea8a3ae8d4df0c0.gif?w=1200&dpr=1.0 -->
+
+धरती nepal-5-2-magnitude-earthquake-know-reason-amid-flood-landslide-disaster-157-dead-hundreds-missing नेपाल में बाढ़ के बाद भूकंप से मचा हड़कंप: 5.2 की तीव्रता वाले झटके हुए महसूस, जानें क्यों कांपी।
+
+### [नेपाल में ‘मेड इन चाइना’ थी तबाही, जिनपिंग के सिर कैसे आया फ्लैश फ्लड का पाप?](https://hindi.news18.com/world/south-asia-nepal-flash-flood-china-connection-did-chinese-construction-in-tibet-trigger-devastating-rasuwa-floods-xi-jinping-border-projects-10784782.html)
+*News18 Hindi (World)* - Aug 26, 23:48 IST (iso: 2026-08-26T18:18:42+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/China-Nepal-border-floods-2026-08-8cfd993a84adb8b914438ead5d92a789-1200x800.jpg -->
+
+नेपाल के रसुवा जिले में आई भीषण बाढ़ के लिए चीन के प्रोजेक्ट्स और उसके रवैये को जिम्मेदार ठहराया जा रहा है. नेपाल के पत्रकार समूहों का दावा है कि चीन ने बॉर्डर के पास ग्लेशियर वाले इलाकों में अंधाधुंध निर्माण किया है. उसने पहाड़ियों को काटा और त्रिशूली नदी का नेचुरल फ्लो भी बदल दिया. इसी वजह से भयानक हिमस्खलन और बाढ़ का खतरा बढ़ा है.
 
 ### [‘ये हमारी दोस्ती का प्रतीक है’, बालेन शाह ने जताया पीएम मोदी का आभार, संकट की घड़ी में नेपाल पहुंची](https://hindi.news18.com/world/south-asia-nepal-flood-disaster-relief-balen-shah-thanks-pm-modi-as-india-sends-emergency-aid-to-flood-hit-nepal-10784749.html)
 *News18 Hindi (World)* - Aug 26, 22:55 IST (iso: 2026-08-26T17:25:46+00:00)
@@ -24,11 +36,23 @@
 
 उत्तर-पश्चिम प्रशांत महासागर और दक्षिण चीन सागर में एक साथ चार खतरनाक समुद्री तूफान आ गए हैं. इसकी वजह से एशिया के 2 देशों में भारी तबाही मच गई है. कुछ इलाकों से 100 किमी प्रति घंटे की रफ्तार से 'टाइफून नारा' टकराया है. दूसरी तरफ 'टाइफून साउदेल' का खतरा मंडरा रहा है. इसके चलते 92 फ्लाइट्स रद्द कर दी गई हैं. मौसम विभाग ने अगले 72 घंटों के लिए रेड अलर्ट जारी कर दिया है.
 
+### [नेपाल-चीन सीमा पर लैंडस्लाइड से तबाही, तिब्बत में 3 की मौत और 265 लापता, चीन ने दी जानकारी](https://www.patrika.com/world-news/nepal-china-border-landslide-tibet-3-dead-265-missing-gyirong-port-20863240)
+*Patrika (World)* - Aug 26, 22:12 IST (iso: 2026-08-26T16:42:02+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/08/Nepal-China-Border-Flood-2.webp -->
+
+Nepal China Border Flood: नेपाल-चीन सीमा के पास भारी लैंडस्लाइड के बाद तिब्बत में भी तबाही की तस्वीर सामने आई है। चीन के मुताबिक, इस आपदा में कम से कम 3 लोगों की मौत हुई है जबकि 265 लोग लापता बताए जा रहे हैं। यह घटना दक्षिणी तिब्बत के ग्यिरोंग काउंटी में नेपाल सीमा के पास हुई। बुधवार सुबह नेपाल की ओर हुए मलबे के खिसकने से ग्यिरोंग पोर्ट का बॉर्डर क्रॉसिंग प्रभावित हुआ।
+
 ### [नेपाल ने भारत को ‘दिल से’ भेजा मैसेज, पीएम मोदी की मदद पर क्या बोली सरकार?](https://hindi.news18.com/world/south-asia-exclusive-nepal-flood-thank-you-india-balen-shah-party-reacts-to-pm-modi-emergency-support-missing-indians-rescue-operations-10784527.html)
 *News18 Hindi (World)* - Aug 26, 21:22 IST (iso: 2026-08-26T15:52:35+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Exclusive-Nepal-Flood-Thank-You-India-Balen-Shah-Party-1-2026-08-a56f52f5fb2dc4bb830bc3cda9f72ce1-1200x800.jpg -->
 
 नेपाल और चीन सीमा पर आई भयानक फ्लैश फ्लड ने 6 से ज्यादा जिलों में भारी तबाही मचाई है. इसे साल 2015 के भूकंप के बाद की सबसे बड़ी प्राकृतिक आपदा बताया जा रहा है. इस मुश्किल घड़ी में प्रधानमंत्री नरेंद्र मोदी ने नेपाल को हर संभव मदद का भरोसा दिया है. भारत के इस कदम पर नेपाल की सत्तारूढ़ पार्टी (RSP) के प्रवक्ता जगदीश खरेल ने News18 से एक्सक्लूसिव बातचीत की.
+
+### [अमेरिका में चीन की कथित बड़ी साइबर जासूसी का खुलासा, NASA से फेडरल रिजर्व तक कई एजेंसियां निशाने पर](https://www.patrika.com/world-news/china-cyber-espionage-us-nasa-federal-reserve-senate-hackers-20863113)
+*Patrika (World)* - Aug 26, 21:20 IST (iso: 2026-08-26T15:50:58+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/07/Donald-Trump-5.webp -->
+
+US China Cyber War: अमेरिकी अधिकारियों ने बुधवार को चीन से जुड़े एक बड़े कथित साइबर-जासूसी का खुलासा किया है। अधिकारियों के मुताबिक, चीनी सेना और खुफिया सेवाओं से जुड़े हैकर्स ने एक चीनी टेक कंपनी की मदद से अमेरिकी सरकारी और महत्वपूर्ण संस्थानों के नेटवर्क में घुसपैठ करने की कोशिश की।
 
 ### [फ्लैश फ्लड क्या होता है? आपके मोबाइल पर आज-कल रोज आता है अलर्ट, नेपाल में आई यही प्रलय](https://hindi.news18.com/news/knowledge/flash-flood-warning-understanding-the-deadly-deluge-and-mobile-emergency-alerts-after-nepal-flash-flood-disaster-10784492.html)
 *News18 Hindi (World)* - Aug 26, 20:18 IST (iso: 2026-08-26T14:48:09+00:00)
@@ -72,27 +96,15 @@ Nepal flood: नेपाल के उत्तरी इलाकों मे
 
 प्रधानमंत्री मोदी ने नेपाल के प्रधानमंत्री बालेन शाह से बात की और नेपाल में बाढ़ से हुई जान-माल की हानि पर शोक व्यक्त किया. प्रधानमंत्री मोदी ने हर संभव मानवीय और राहत सहायता देने का भी आश्वासन दिया. PM मोदी ने बालेन शाह से की बात, कहा- हर संभव मदद करेंगे।
 
-### [नेपाल बाढ़ में 105 भारतीयों का नहीं चल रहा पता, ट्रैवल एजेंसियों का डेटा डरा रहा, बढ़ता जा रहा मौत](https://hindi.news18.com/world/south-asia-nepal-flash-flood-missing-indians-105-indian-pilgrims-missing-400-kailash-mansarovar-yatra-pilgrims-out-of-contact-10783897.html)
-*News18 Hindi (World)* - Aug 26, 16:24 IST (iso: 2026-08-26T10:54:32+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Indians-Missing-In-Nepal-Flood-2026-08-28cafb44732cb35de3e0671fa1412433-1200x800.jpg -->
-
-नेपाल-चीन बॉर्डर के रसुवागढ़ी इलाके में अचानक आई भयानक बाढ़ ने भारी तबाही मचाई है. इस हादसे में अब तक नौ लोगों की मौत हो चुकी है. वहीं सड़कें और पुल बह जाने की वजह से चीन जाने वाला मुख्य व्यापारिक रास्ता पूरी तरह बंद हो गया है. तिब्बत में कैलाश मानसरोवर यात्रा पर निकले लगभग 400 श्रद्धालुओं से संपर्क टूट चुका है. नेपाल पर्यटन बोर्ड के मुताबिक इनमें कम से कम 105 भारतीय शामिल हैं.
-
-### [नेपाल बाढ़ में 105 भारतीय लापता, देखें तबाही की तस्वीरें](https://www.abplive.com/photo-gallery/news/india-nepal-flood-105-indians-missing-photos-high-alert-india-china-3180488)
-*ABP Live (India)* - Aug 26, 16:21 IST (iso: 2026-08-26T10:51:25+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/26/ec782dc61a40549438830091bca3c60d1787739928779708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-नेपाल बाढ़ में 105 भारतीय लापता, देखें तबाही की तस्वीरें।
-
-### [महिला वोट बैंक पर सरकारें मेहरबान क्यों? BJP का 'वादा निभाने' का गणित](https://www.abplive.com/news/india/up-delhi-bihar-women-schemes-free-bus-services-and-cash-bjp-female-vote-bank-pm-modi-yogi-explained-3180429)
-*ABP Live (India)* - Aug 26, 15:05 IST (iso: 2026-08-26T09:35:24+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/26/971c531c187f90fa8bdd7f927469021517877356708761317_original.jpeg?impolicy=abp_cdn&imwidth=1200 -->
-
-इन दिनों देशभर में महिलाओं के लिए सरकारी योजनाओं की बाढ़ आ गई है. उत्तर प्रदेश में बुजुर्ग महिलाओं के लिए फ्री बस की सुविधा शुरू हो गई है, बिहार सरकार ने रक्षाबंधन के मौके पर बेटियों के लिए बड़े ऐलान किए हैं और दिल्ली में महिलाओं को लक्ष्मी योजना के तहत पैसे मिलना शुरू हो रहे हैं. एक तरफ बीजेपी वादा निभाने का है संदेश दे रही है, तो दूसरी तरफ महिलाएं वफादार वोटर्स साबित हो रही हैं.
-
 ---
 
 ## यूरोप और रूस
+
+### [लुहान्स्क में बस पर ड्रोन अटैक से हड़कंप! 9 नागरिकों की मौत, यूक्रेन पर हमले का आरोप](https://www.patrika.com/world-news/luhansk-bus-drone-attack-9-killed-russia-blames-ukraine-20863159)
+*Patrika (World)* - Aug 26, 21:37 IST (iso: 2026-08-26T16:07:33+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/08/Russia-Ukraine-War-3.webp -->
+
+Ukraine Drone Attack: पूर्वी यूक्रेन के लुहान्स्क इलाके के उस हिस्से में, जो रूस के नियंत्रण में है, एक यात्री बस पर हुए यूक्रेनी हमले में 9 नागरिकों की मौत हो गई। यह जानकारी इलाके के रूसी-नियुक्त गवर्नर लियोनिद पासेचनिक ने दी। पासेचनिक ने बताया कि हमले के समय बस लिसिचन्स्क से कादीवका जा रही थी, लेकिन उन्होंने हमले के हालात के बारे में और कोई जानकारी नहीं दी।
 
 ### [शंघाई ग्रुप के दोस्तों से हाथ मिलाने में हिचकिचाता क्यों रहा भारत? SCO में वेट ऐंड वॉच का फैक्टर](https://hindi.news18.com/news/knowledge/why-india-hesitate-initially-to-join-shanghai-cooperation-organisation-know-pakistan-factor-in-sco-10784459.html)
 *News18 Hindi (World)* - Aug 26, 19:59 IST (iso: 2026-08-26T14:29:03+00:00)
@@ -122,6 +134,18 @@ SCO में चीन-रूस के साथ इस संगठन के
 
 ## मध्य पूर्व और अफ्रीका
 
+### [अमेरिका का बड़ा एक्शन! ‘पैलेस्टाइन एक्शन’ को ग्लोबल आतंकवादी घोषित कर लगाया प्रतिबंध, जानें क्या](https://www.patrika.com/world-news/us-sanctions-palestine-action-global-terrorist-sdgt-designation-20863089)
+*Patrika (World)* - Aug 26, 20:45 IST (iso: 2026-08-26T15:15:58+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/08/Palestine-Action.webp -->
+
+SDGT Palestine Action: अमेरिका ने ब्रिटेन के प्रत्यक्ष-कार्रवाई समूह ‘पैलेस्टाइन एक्शन’ (Palestine Action) के खिलाफ बड़ा कदम उठाते हुए उसे वैश्विक आतंकी (SDGT) घोषित कर दिया है। अमेरिकी ट्रेजरी विभाग की ओर से की गई इस कार्रवाई के तहत समूह से जुड़ी अमेरिका स्थित संपत्तियों और वित्तीय हितों को ब्लॉक किया जाएगा।
+
+### [‘ईरान में महंगाई बेकाबू, अर्थव्यवस्था बिखर रही’, ट्रंप का बड़ा दावा, प्रदर्शनकारियों की हत्या का भी](https://www.patrika.com/world-news/donald-trump-iran-inflation-economy-protesters-no-time-schedule-talks-20863087)
+*Patrika (World)* - Aug 26, 20:34 IST (iso: 2026-08-26T15:04:52+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/08/Donald-Trump-9.webp -->
+
+Donald Trump on Iran: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान की आर्थिक स्थिति और वहां जारी विरोध प्रदर्शनों को लेकर गंभीर दावे किए हैं। उन्होंने कहा कि ईरान में भारी महंगाई है और उसकी अर्थव्यवस्था बिखर रही है। ट्रंप ने बुधवार को अल जजीरा से बातचीत में ईरान के खिलाफ अपने रुख को दोहराया।
+
 ### [‘ईरान से डील संभव नहीं, जल्द हो सकता है हमला’, इजराइली पीएम बेंजामिन नेतन्याहू ने दे डाली चेतावनी](https://www.patrika.com/world-news/benjamin-netanyahu-iran-deal-not-possible-military-action-warning-20862722)
 *Patrika (World)* - Aug 26, 17:41 IST (iso: 2026-08-26T12:11:44+00:00)
 <!-- image: https://cms.patrika.com/wp-content/uploads/2026/08/Benjamin-Netanyahu.webp -->
@@ -134,24 +158,6 @@ SCO में चीन-रूस के साथ इस संगठन के
 
 भारत के पड़ोस में यह एक इस्लामिक धड़ा तैयार हो गया है. पाकिस्तान, सऊदी अरब और तुर्की के गठजोड़ वाले मक्का रक्षा समझौते में बांग्लादेश भी एंट्री पाने के लिए तैयारी कर रहा है. सवाल बांग्लादेश को लेकर है, जिसने इस ग्रुप में शामिल होने को लेकर दिलचस्पी दिखाई है. हालांकि बांग्लादेश की हुकूमत ने जिस कबाब का ख्वाब सजाया हुआ है, उसमें एक छोटी सी हड्डी भी है जो रंग में भंग डाल सकती है.
 
-### ['एकतरफा प्यार की सजा क्यों भुगते नेपाल?' चीन बॉर्डर से आई मौत की लहर तो भड़का पत्रकार, 105 भारतीयों](https://hindi.news18.com/world/south-asia-nepal-china-flood-alert-journalist-parshuram-kaphle-slams-beijing-for-disaster-10783939.html)
-*News18 Hindi (World)* - Aug 26, 16:50 IST (iso: 2026-08-26T11:20:07+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Nepal_Flash_Flood-2026-08-c0ebf52dcb32d3bbf78568d90727b83a-1200x800.jpg -->
-
-नेपाल में अचानक आई भीषण बाढ़ ने भारी तबाही मचाई है. यह बाढ़ चीन के तिब्बत बॉर्डर की तरफ से आई है. नेपाली जर्नलिस्ट परशुराम काफ्ले ने चीन पर गंभीर आरोप लगाए हैं. उन्होंने कहा कि चीन ने बाढ़ का कोई अर्ली वार्निंग अलर्ट नहीं दिया. इस वजह से 105 भारतीयों समेत 384 लोग लापता हैं. नेपाल में 7 लोगों की मौत हो चुकी है. आर्मी लगातार रेस्क्यू ऑपरेशन चला रही है.
-
-### [गाजा में पतंग उड़ाने पर इजराइल का गुस्सा! फिलिस्तीनियों को इलाका खाली करने की धमकी](https://www.patrika.com/world-news/gaza-kite-drone-balloon-israel-palestinians-evacuation-threat-un-condemns-20862447)
-*Patrika (World)* - Aug 26, 16:48 IST (iso: 2026-08-26T11:18:01+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/08/Gaza-Kite-Controversy.webp -->
-
-Israel Palestine Conflict: गाजा पट्टी के इलाकों में पतंग और ड्रोन उड़ाने को लेकर इजराइल ने नाराजगी जताई है। गाजा पट्टी के कुछ हिस्से जहां पतंगें उड़ाई गईं वहां से फिलिस्तीनियों को इजराइल ने निष्कासित करने की धमकी दी है। प्रधानमंत्री बेंजामिन नेतन्याहू और रक्षा मंत्री इजराइल काट्ज ने इस बारे में एक संयुक्त चेतावनी भी जारी की है। दूसरी तरफ, संयुक्त राष्ट्र ने इजराइल की इस धमकी की निंदा की है।
-
-### [ईरान से कारोबार करने वाले देशों को अमेरिका की धमकी, क्या हैं सेकेंडरी सैंक्शंस और कैसे करते हैं काम?](https://www.patrika.com/world-news/iran-trading-partners-us-secondary-sanctions-how-they-work-20862224)
-*Patrika (World)* - Aug 26, 15:32 IST (iso: 2026-08-26T10:02:30+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/08/US-Secondary-Sanctions-Iran-2.webp -->
-
-US Secondary Sanctions Iran: ईरान पर अमेरिकी दबाव अब सिर्फ तेहरान तक सीमित नहीं है। अमेरिका ने ईरान के साथ कारोबार करने वाले देशों और कंपनियों को भी कार्रवाई की चेतावनी दी है। ट्रंप प्रशासन ने इसके लिए ‘ऑपरेशन इकोनॉमिक आउटकास्ट’ शुरू किया है। इसका मकसद ईरान की कमाई के स्रोतों और अंतरराष्ट्रीय आर्थिक संपर्कों को कमजोर करना है। ईरान से कारोबार करने वाले देशों को अमेरिका की धमकी, क्या हैं सेकेंडरी सैंक्शंस और कैसे करते हैं काम?
-
 ---
 
 ## दुनिया
@@ -161,12 +167,6 @@ US Secondary Sanctions Iran: ईरान पर अमेरिकी दबा
 <!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/26/009e89046cec08b9a638be82ecc352d017877416844891324_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
 राहुल गांधी ने बिहार की राजधानी पटना में चल रहे छात्रों के प्रदर्शन से जुड़े मुद्दे को उठाते हुए सवाल पूछा है. उन्होंने अपने एक्स पोस्ट पर एनएसयूआई के एक पोस्ट को रिपोस्ट किया है, जिसमें पुलिस इस प्रदर्शन के बीच बच्चे को गिरफ्तार करके ले जा रही है. राहुल ने अपने बयान में पूछा है कि बिहार के छात्रों का सवाल बहुत सीधा है. भर्ती परीक्षाओं में गड़बड़ी क्यों हुई है?
-
-### ['रेट पूछे गए थे..', बांसुरी स्वराज ने 'पितृसत्ता' के मुद्दे पर राहुल को घेरा](https://www.abplive.com/news/india/bjp-mp-bansuri-swaraj-press-conference-hits-back-rahul-gandhi-on-patriarchy-issue-3180457)
-*ABP Live (India)* - Aug 26, 15:40 IST (iso: 2026-08-26T10:10:57+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/26/c30ff319d03b222d568f6464085845d517877389131551324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-बीजेपी सांसद बांसुरी स्वराज ने राहुल गांधी पर झूठा नैरेटिव सेट करने का आरोप लगाते हुए पुणे में छात्रों की गूंज कार्यक्रम को लेकर 'पितृसत्ता को खत्म करो'( Smash the Patriacrchy) के मुद्दे पर निशाना साधा है. उन्होंने कहा है कि इससे पूरी तरह सहमत हूं. लेकिन राहुल गांधी से पूछना चाहती हूं कि इस मुद्दे का यह नारा पुणे के स्टेज तक ही सीमित रखते हैं?
 
 ---
 

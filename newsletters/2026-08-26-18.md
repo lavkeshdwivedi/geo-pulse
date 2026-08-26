@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** August 26, 2026 23:29 IST
+**Updated:** August 27, 2026 00:13 IST
 
 ---
 
@@ -17,6 +17,12 @@ Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent 
 <!-- image: https://images.pexels.com/photos/39153061/pexels-photo-39153061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 İkinci Dünya Savaşı sonrasında şekillenen uluslararası düzen giderek çözülürken, Ankara ve diğer Avrupa başkentlerindeki yetkililer güvenlik alanında birlikte hareket etmedikleri takdirde ciddi risklerle karşı karşıya kalacaklarının giderek daha fazla farkına varıyor. Tehdit algıları farklılık gösterse de, pragmatik ve esnek iş birliği yolları geliştirmeleri hâlâ mümkün. Avrupa Birliği ve Türkiye: Savunmada Birlik?
+
+### [More health workers, stronger systems: Africa’s new ambitious goal](https://news.un.org/feed/view/en/story/2026/08/1168207)
+*UN News* - Aug 26, 17:30 IST (iso: 2026-08-26T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-05-2026-UNFPA-Cent-African-Rep-02.jpg/image770x420cropped.jpg -->
+
+African health ministers in Addis Ababa announced a decade‑long plan to counter a projected shortage of more than six million health professionals by 2035. The initiative will mobilise training, recruitment and retention measures across the continent. Facing a projected shortage of more than six million health professionals by 2035, African countries are stepping up efforts to strengthen their workforce, with a new decade-long plan announced on Wednesday during a meeting of health ministers in Addis Ababa, Ethiopia.
 
 ### [Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food](https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food)
 *The Guardian* - Aug 26, 14:30 IST (iso: 2026-08-26T09:00:39+00:00)
@@ -40,8 +46,14 @@ A family with four children abandoned its farm in Somalia after armed groups arr
 
 ## Asia-Pacific
 
-### [At least 95 dead, over 350 missing; India sends first tranche of relief materials](https://www.thehindu.com/news/international/nepal-floods-live-updates-august-26-2026-several-missing-dead/article71392492.ece)
-*The Hindu (International)* - Aug 26, 23:04 IST (iso: 2026-08-26T17:34:04+00:00)
+### [95 dead, hundreds missing; India launches relief effort](https://www.thehindu.com/videos/nepal-flash-floods-95-dead-hundreds-missing-india-launches-relief-effort/article71393947.ece)
+*The Hindu (International)* - Aug 26, 23:36 IST (iso: 2026-08-26T18:06:05+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/j1cq43/article71393946.ece/alternates/LANDSCAPE_1200/Pakistan%20%202.png -->
+
+The death toll in Nepal’s devastating flash floods has risen to 95, while 384 people remain missing, including 105 Indian nationals. The disaster struck Nepal’s Rasuwa district near the Tibet border after a sudden surge in the Bhotekoshi River, causing widespread destruction and triggering one of the country’s worst flood emergencies in recent years. 95 dead, hundreds missing; India launches relief effort.
+
+### [At least 95 dead, more than 400 missing; India sends first tranche of relief materials](https://www.thehindu.com/news/international/nepal-floods-live-updates-august-26-2026-several-missing-dead/article71392492.ece)
+*The Hindu (International)* - Aug 26, 23:27 IST (iso: 2026-08-26T17:57:08+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/xj1ah1/article71393909.ece/alternates/LANDSCAPE_1200/2026-08-26T170829Z_502478667_RC2E6NA2VXTQ_RTRMADP_3_NEPAL-FLOODS.JPG -->
 
 India announced it will send relief supplies For assistance and information related to Indian nationals that have been affected by the flash floods in Nepal today, the following emergency numbers may be contacted: +977 985 131 6807, +977 970 910 7500, said a post by the Indian embassy in Nepal. Several feared dead, India to send relief materials. At least 18 feared dead, over 350 missing, India to send relief materials.
@@ -116,28 +128,6 @@ Volunteers in the Penza region town of Bashmakovo have formed patrols to prevent
 
 Children at a Russian Orthodox Christian military-patriotic camp have allegedly been beaten and subjected to other physical punishment, prompting a criminal investigation and scrutiny of an organization that has received millions of rubles in state grants. Russian Children Reportedly Beaten, Injured At Patriotic Camp Funded By Kremlin.
 
-### [Ukraine Appeals For More Air Defense Amid Independence Celebrations](https://www.rferl.org/a/ukraine-appeals-for-more-air-defense-amid-independence-celebrations-/33837280.html)
-*Radio Free Europe / Liberty* - Aug 24, 21:28 IST (iso: 2026-08-24T15:58:09+00:00)
-<!-- image: https://gdb.rferl.org/efca8ef0-003a-42ea-faff-08def2b08775_w1200_h630.jpg -->
-
-As Ukraine marked the 35th anniversary of its declaration of independence from the Soviet Union, Ukrainian President Volodymyr Zelenskyy hosted a summit of world leaders from the so-called Coalition of the Willing -- a group of countries that has pledged military and security support for Ukraine. Ukraine Appeals For More Air Defense Amid Independence Celebrations.
-
----
-
-## Global / Multilateral
-
-### [Remembering Dolly Parton, who gave away everything but her songs](https://www.thehindu.com/entertainment/music/remembering-dolly-parton-who-gave-away-everything-but-her-songs/article71392330.ece)
-*The Hindu (International)* - Aug 26, 17:33 IST (iso: 2026-08-26T12:03:17+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/l1c813/article71392365.ece/alternates/LANDSCAPE_1200/AP08_26_2026_000020B.jpg -->
-
-The Queen of Country Music, who passed away recently, gave away more than 300 million books and millions of dollars in aid, but refused to surrender the copyright to one song, even for Elvis Presley. Remembering Dolly Parton, who gave away everything but her songs.
-
-### [Sanctions without exit strategies are fracturing the global economy](https://asiatimes.com/2026/08/sanctions-without-exit-strategies-are-fracturing-the-global-economy/)
-*Asia Times* - Aug 26, 09:33 IST (iso: 2026-08-26T04:03:31+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/08/US-Sanctions-Iran-Russia-Oil.png -->
-
-Wars in the 21st century aren’t fought only with missiles and soldiers anymore. Increasingly, they’re fought through banking systems, shipping lanes, semiconductor controls and currency clearing networks. The battlefield has quietly expanded from territory to economic architecture. And what’s happened so far in 2026 suggests that architecture is now splitting into two. Sanctions have long [] The Sanctions without exit strategies are fracturing the global economy.
-
 ---
 
 ## Americas
@@ -171,6 +161,16 @@ The killings in Kenscoff began late Sunday, when armed men descended on the farm
 <!-- image: https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b511eefae3d0dc1b7b6640b63ee40aef -->
 
 Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermathColombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on immigrants, ordering authorities to detain and deport people who are in the country irregularly or have committed crimes. In office for just over two weeks, the million Colombia’s new president Abelardo de la Espriella announces immigration crackdown.
+
+---
+
+## Global / Multilateral
+
+### [Sanctions without exit strategies are fracturing the global economy](https://asiatimes.com/2026/08/sanctions-without-exit-strategies-are-fracturing-the-global-economy/)
+*Asia Times* - Aug 26, 09:33 IST (iso: 2026-08-26T04:03:31+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/08/US-Sanctions-Iran-Russia-Oil.png -->
+
+Wars in the 21st century aren’t fought only with missiles and soldiers anymore. Increasingly, they’re fought through banking systems, shipping lanes, semiconductor controls and currency clearing networks. The battlefield has quietly expanded from territory to economic architecture. And what’s happened so far in 2026 suggests that architecture is now splitting into two. Sanctions have long [] The Sanctions without exit strategies are fracturing the global economy.
 
 ---
 
