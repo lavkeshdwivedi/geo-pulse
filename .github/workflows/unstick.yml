@@ -1,0 +1,30 @@
+name: Unstick Deploys
+
+# Independent safety net for the newsletter pipeline. It does not share
+# newsletter.yml's concurrency group, so it keeps running even when that
+# group is deadlocked (e.g. a run stuck "waiting" on an unreviewed
+# deployment protection rule) and can clear the jam itself.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+jobs:
+  unstick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Cancel stuck newsletter runs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: python3 scripts/unstick_workflow_runs.py newsletter.yml
