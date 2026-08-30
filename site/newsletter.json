@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-08-30T04:15:43.379662+00:00",
+  "generated_at": "2026-08-30T05:13:13.029619+00:00",
   "article_count": 50,
-  "total_unique_count": 257,
+  "total_unique_count": 262,
   "digest": {
-    "en": "Asia-Pacific leads the board this hour with Bangladesh’s J-10CE fighter plan stirs China dependence fears. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, तबाही के बाद जिंदगी की तलाश: सफाईकर्मी की बेटी के कपड़े 4 फीट कीचड़ में दबे मिले, 50 साल की जूलर मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Americas leads the board this hour with Canada Leader Answers Trump's \"Lake America\" With Giant \"Lake Ontario\" Sign. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "भोटेकोशी में पानी का स्तर 12 मीटर से ऊपर हो गया, जिससे नेपाल के रेस्क्यू ऑपरेशन में नई चुनौतियाँ पैदा हुईं। वैज्ञानिकों ने चेतावनी दी कि अगर इसी तरह की बाढ़ भारत के उत्तराखंड और हिमाचल प्रदेश में भी फैलती है तो लाखों लोगों को खतरा होगा।"
   },
   "articles": [
+    {
+      "title": "Canada Leader Answers Trump's \"Lake America\" With Giant \"Lake Ontario\" Sign",
+      "url": "https://www.ndtv.com/world-news/canada-leader-answers-trumps-lake-america-with-giant-lake-ontario-sign-11976981#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-08-30T04:53:59+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-08/7c1sq69o_ontario_625x300_30_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "summary": "Ontario Premier Doug Ford answered President Donald Trump's \"Lake America\" decree Saturday with a billboard-sized message on the Canadian shoreline - \"Lake Ontario. Now and Always\" - as Canadian leaders met the move with ridicule rather than outrage. Canada Leader Answers Trump's \"Lake America\" With Giant \"Lake Ontario\" Sign.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nepal flood survivors return to ruins to salvage memories",
+      "url": "https://www.thehindu.com/news/international/nepal-flood-survivors-return-to-ruins-to-salvage-memories/article71407019.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-08-30T04:39:04+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/49ttp6/article71407023.ece/alternates/LANDSCAPE_1200/2026-08-30T034101Z_676834489_RC2P8NAC5TCO_RTRMADP_3_NEPAL-FLOODS.JPG",
+      "summary": "The village of Dhunge, once home to roughly 150 families, now lies in ruins, reduced to a swampy expanse with an ominous rotting stench. one of dozens of settlements obliterated by the Himalayan floods. Nepal flood survivors return to ruins to salvage memories.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Bangladesh’s J-10CE fighter plan stirs China dependence fears",
       "url": "https://asiatimes.com/2026/08/bangladeshs-j-10ce-fighter-plan-stirs-china-dependence-fears/",
@@ -51,18 +75,6 @@
       "published_at": "2026-08-29T22:00:21+00:00",
       "image_url": "https://gdb.rferl.org/af2d1ba0-ed9e-4a94-ea4b-08def2afcad7_cx0_cy9_cw0_w1200_h630.jpg",
       "summary": "Ukrainian rescue crews early on August 30 continued to search for victims of the deadly Russian attack outside of Kyiv, while local residents -- as well as President Volodymyr Zelenskyy -- demanded answers as to why explosives were stored in a warehouse so near private housing. Zelenskyy Blasts 'Negligence' As Ukraine Mourns Dozens Killed In Russian Strike.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "French far right accuses left of threatening ‘civil peace’ if Le Pen wins",
-      "url": "https://www.thehindu.com/news/international/france-presidential-election-le-pens-victory-could-threaten-civil-peace/article71405772.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-08-29T17:25:41+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/ny0js8/article71405827.ece/alternates/LANDSCAPE_1200/2026-08-27T161947Z_1648408126_RC247NAR7OXC_RTRMADP_3_FRANCE-BUSINESS-POLITICS.JPG",
-      "summary": "Analysts say the appeal of political extremes is growing in France, and recent surveys show that Jean-Luc Melenchon, the divisive leader of hard-left France Unbowed (LFI), may have the best chance of reaching the run-off against Le Pen French far right accuses left of threatening ‘civil peace’ if Le Pen wins.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -296,16 +308,364 @@
       "translations": {}
     },
     {
-      "title": "Curbing Reprisals in Syria",
-      "url": "https://www.crisisgroup.org/cmt/middle-east-north-africa/syria/curbing-reprisals-syria",
-      "source": "International Crisis Group",
+      "title": "फिर बढ़ा भोटेकोशी का जलस्तर, रेस्क्यू में बढ़ेगी परेशानी, भारतीय सेना का विमान पहुंचा नेपाल",
+      "url": "https://hindi.news18.com/world/south-asia-nepal-flash-flood-live-updates-death-toll-rise-india-sends-aid-flight-rescue-operation-rasuwa-nuwakot-floods-bhote-koshi-livenews-10792341.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-24T12:34:00+00:00",
-      "image_url": "https://images.pexels.com/photos/6691663/pexels-photo-6691663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Fuelled by wartime grievances, mob attacks and other forms of retribution threaten Syria’s transition. Damascus has done too little to deter such acts. It should ensure visible legal consequences for violence and broaden locally rooted policing to rebuild trust among vulnerable communities. Curbing Reprisals in Syria.",
+      "published_at": "2026-08-30T05:10:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/nepal-flood-2026-08-f80d16e1042f1c65d6e3de107390c960-1200x800.jpg",
+      "summary": "Nepal Flash Flood Live Update: नेपाल-चीन सीमा पर आई विनाशकारी बाढ़ में 670 से अधिक लोगों की मौत हो चुकी है, जबकि करीब 3000 लोग अब भी लापता हैं. इनमें 275 भारतीय समेत कई विदेशी भी शामिल हैं. नेपाल में राहत दल बड़ी संख्या में शवों को संभालने और प्रभावित लोगों तक मदद पहुंचाने में जुटे हैं. इसी बीच भारत से राहत सामग्री की चौथी खेप लेकर भारतीय विमान नेपाल पहुंचा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फिर बढ़ा भोटेकोशी का जलस्तर, रेस्क्यू में बढ़ेगी परेशानी, भारतीय सेना का विमान पहुंचा नेपाल",
+          "summary": "Nepal Flash Flood Live Update: नेपाल-चीन सीमा पर आई विनाशकारी बाढ़ में 670 से अधिक लोगों की मौत हो चुकी है, जबकि करीब 3000 लोग अब भी लापता हैं. इनमें 275 भारतीय समेत कई विदेशी भी शामिल हैं. नेपाल में राहत दल बड़ी संख्या में शवों को संभालने और प्रभावित लोगों तक मदद पहुंचाने में जुटे हैं. इसी बीच भारत से राहत सामग्री की चौथी खेप लेकर भारतीय विमान नेपाल पहुंचा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नेपाल की बाढ़ सिर्फ शुरुआत! दुनिया के इन देशों में भी मच सकती है भयानक तबाही, वैज्ञानिकों ने दी",
+      "url": "https://www.amarujala.com/photo-gallery/bizarre-news/nepal-flood-glacier-disaster-15-million-people-danger-zone-around-the-world-2026-08-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T05:08:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/29/nepal-flood-glacier-disaster-15-million-people-danger-zone-around-the-world_86c7f6d5d14f23f9bfbd058984d9d1e1.jpeg?w=1200&dpr=1.0",
+      "summary": "नेपाल बाढ़: नेपाल–तिब्बत सीमा पर अचानक आई विनाशकारी बाढ़ ने भयानक तबाही मचाई है। इस प्राकृतिक आपदा में सैकड़ों लोगों की मौत हो चुकी है, जबकि 2400 से ज्यादा लोग अभी भी लापता हैं। नेपाल की बाढ़ सिर्फ शुरुआत! दुनिया के इन देशों में भी मच सकती है भयानक तबाही, वैज्ञानिकों ने दी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल की बाढ़ सिर्फ शुरुआत! दुनिया के इन देशों में भी मच सकती है भयानक तबाही, वैज्ञानिकों ने दी",
+          "summary": "नेपाल बाढ़: नेपाल–तिब्बत सीमा पर अचानक आई विनाशकारी बाढ़ ने भयानक तबाही मचाई है। इस प्राकृतिक आपदा में सैकड़ों लोगों की मौत हो चुकी है, जबकि 2400 से ज्यादा लोग अभी भी लापता हैं। नेपाल की बाढ़ सिर्फ शुरुआत! दुनिया के इन देशों में भी मच सकती है भयानक तबाही, वैज्ञानिकों ने दी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "2017 से गुल्लक में पैसे जोड़कर क्या मिला? वीडियो देख लड़की की हो रही जमकर तारीफ",
+      "url": "https://www.amarujala.com/bizarre-news/up-girl-saved-money-for-9-years-in-piggy-bank-gullak-and-bought-a-plot-viral-video-2026-08-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T05:07:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/gallka-ma-pasa-jaugdhakara-lugdhaka-na-kharatha-palta_52a0764a55a966ccd0eaf199629ff5b4.jpeg?w=1200&dpr=1.0",
+      "summary": "गुल्लक में पैसे जोड़कर लड़की ने खरीद लिया प्लॉट 2017 से गुल्लक में पैसे जोड़कर क्या मिला? वीडियो देख लड़की की हो रही जमकर तारीफ।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "2017 से गुल्लक में पैसे जोड़कर क्या मिला? वीडियो देख लड़की की हो रही जमकर तारीफ",
+          "summary": "गुल्लक में पैसे जोड़कर लड़की ने खरीद लिया प्लॉट 2017 से गुल्लक में पैसे जोड़कर क्या मिला? वीडियो देख लड़की की हो रही जमकर तारीफ।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "12 महीने में 20 देशों का दौरा, नए साझीदार बनाने में जुटा भारत; US पर घटेगी निर्भरता?",
+      "url": "https://www.amarujala.com/world/foreign-policy-under-pm-modi-20-countries-visit-in-12-months-india-striving-to-forge-new-global-partnerships-2026-08-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-30T04:57:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/nae-sajhathara-ka-talsha-ma-bharata_10b1d5c0de64d821d74f96997e457171.gif?w=1200&dpr=1.0",
+      "summary": "पीएम मोदी की विदेश नीति: 12 महीने में 20 देशों का दौरा, नए साझीदार बनाने में जुटा भारत; US पर घटेगी निर्भरता?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "12 महीने में 20 देशों का दौरा, नए साझीदार बनाने में जुटा भारत; US पर घटेगी निर्भरता?",
+          "summary": "पीएम मोदी की विदेश नीति: 12 महीने में 20 देशों का दौरा, नए साझीदार बनाने में जुटा भारत; US पर घटेगी निर्भरता?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नेपाल के बाद चीन में आई आफत, 49 भारतीय लापता, हेल्पलाइन नंबर जारी",
+      "url": "https://hindi.news18.com/world/south-asia-china-landslide-16-dead-546-missing-after-mudslide-hits-border-port-in-xizang-10792481.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-30T04:56:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/china-landslide-2026-08-2d9434da3f4dcd72a6c16bbac3e15454-1200x800.jpg",
+      "summary": "China Landslide 49 Indians Missing: नेपाल के बाद अब चीन में भी कुदरत का कहर देखने को मिला है. यहां पर ग्यिरोंग पोर्ट के पास आए लैंडस्लाइड में अब तक 16 लोगों की मौत हो गई है, जबकि 546 लोग अब भी लापता हैं. इस घटना में भी 49 भारतीय लापता हैं. नेपाल के बाद चीन में आई आफत, लैंडस्लाइड में 16 की मौत, 546 हुए लापता।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल के बाद चीन में आई आफत, 49 भारतीय लापता, हेल्पलाइन नंबर जारी",
+          "summary": "China Landslide 49 Indians Missing: नेपाल के बाद अब चीन में भी कुदरत का कहर देखने को मिला है. यहां पर ग्यिरोंग पोर्ट के पास आए लैंडस्लाइड में अब तक 16 लोगों की मौत हो गई है, जबकि 546 लोग अब भी लापता हैं. इस घटना में भी 49 भारतीय लापता हैं. नेपाल के बाद चीन में आई आफत, लैंडस्लाइड में 16 की मौत, 546 हुए लापता।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सीएसआईआर यूजीसी नेट जून 2026 का रिजल्ट घोषित, 1.5 लाख से ज्यादा उम्मीदवार परीक्षा में हुए शामिल",
+      "url": "https://www.amarujala.com/education/csir-ugc-net-june-2026-result-out-check-scorecard-here-2026-08-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T04:46:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/csir-ugc-net-result_049514987ce123eb961546effa639ee3.jpeg?w=1200&dpr=1.0",
+      "summary": "सीएसआईआर यूजीसी नेट जून 2026 परीक्षा में शामिल उम्मीदवारों का इंतजार खत्म हो गया है। एनटी ने परीक्षा के नतीजे जारी कर दिए हैं। अभ्यर्थी अब आधिकारिक वेबसाइट पर जाकर अपने आवेदन नंबर और जन्मतिथि की मदद से स्कोरकार्ड डाउनलोड कर सकते हैं। सीएसआईआर यूजीसी नेट जून 2026 का रिजल्ट घोषित, 1.5 लाख से ज्यादा उम्मीदवार परीक्षा में हुए शामिल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीएसआईआर यूजीसी नेट जून 2026 का रिजल्ट घोषित, 1.5 लाख से ज्यादा उम्मीदवार परीक्षा में हुए शामिल",
+          "summary": "सीएसआईआर यूजीसी नेट जून 2026 परीक्षा में शामिल उम्मीदवारों का इंतजार खत्म हो गया है। एनटी ने परीक्षा के नतीजे जारी कर दिए हैं। अभ्यर्थी अब आधिकारिक वेबसाइट पर जाकर अपने आवेदन नंबर और जन्मतिथि की मदद से स्कोरकार्ड डाउनलोड कर सकते हैं। सीएसआईआर यूजीसी नेट जून 2026 का रिजल्ट घोषित, 1.5 लाख से ज्यादा उम्मीदवार परीक्षा में हुए शामिल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "साउथ कैरोलिना के पार्क में फायरिंग; एक पुलिस अधिकारी की मौत, दूसरा घायल",
+      "url": "https://www.amarujala.com/world/us-shooting-in-south-karolina-park-policeman-died-another-injured-2026-08-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-30T04:45:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/us-us-shooting_248dc838dd6ec7634e414c0b158b9772.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका में फिर गोलीबारी: साउथ कैरोलिना के पार्क में फायरिंग; एक पुलिस अधिकारी की मौत, दूसरा घायल।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "साउथ कैरोलिना के पार्क में फायरिंग; एक पुलिस अधिकारी की मौत, दूसरा घायल",
+          "summary": "अमेरिका में फिर गोलीबारी: साउथ कैरोलिना के पार्क में फायरिंग; एक पुलिस अधिकारी की मौत, दूसरा घायल।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ग्लेशियर टूटा, उठा बादलों का गुबार और फिर लीलने के लिए दौड़ पड़ा 'जलदानव', Video में देखिए नेपाल की",
+      "url": "https://hindi.news18.com/world/south-asia-watch-video-how-glacial-collapse-caused-flash-floods-in-nepal-icefalls-dense-clouds-and-deadly-flash-flood-10792659.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-30T04:44:31+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/nepal-glacier-2026-08-2ab82178364eec6a3078d8188d8067ab-1200x800.jpg",
+      "summary": "Nepal Flash Flood Video: नेपाल में आई तबाही के तमाम वीडियो आपने पिछले 3-4 दिनों में देखे होंगे लेकिन इस विनाश लीला की शुरुआत कहां से हुई? सब जानते हैं कि ग्लेशियर टूटा और उसने तिब्बत के रास्ते नेपाल को तबाह कर दिया. अब न्यूयॉर्क पोस्ट ने इससे जुड़ा हुआ एक वीडियो शेयर किया है, जिसमें करीब से इस पूरा प्रोसेस को देखा जा सकता है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ग्लेशियर टूटा, उठा बादलों का गुबार और फिर लीलने के लिए दौड़ पड़ा 'जलदानव', Video में देखिए नेपाल की",
+          "summary": "Nepal Flash Flood Video: नेपाल में आई तबाही के तमाम वीडियो आपने पिछले 3-4 दिनों में देखे होंगे लेकिन इस विनाश लीला की शुरुआत कहां से हुई? सब जानते हैं कि ग्लेशियर टूटा और उसने तिब्बत के रास्ते नेपाल को तबाह कर दिया. अब न्यूयॉर्क पोस्ट ने इससे जुड़ा हुआ एक वीडियो शेयर किया है, जिसमें करीब से इस पूरा प्रोसेस को देखा जा सकता है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान-अमेरिका शांति समझौते पर पेजेश्कियन का दावा, बोले- अब अमेरिका-इजरायल नहीं फैला पाएंगे अराजकता",
+      "url": "https://www.patrika.com/world-news/iran-president-pezeshkian-statement-us-peace-agreement-middle-east-20869812",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-30T04:44:12+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/6098269879019442905-1.webp",
+      "summary": "Iran US War: ईरान के राष्ट्रपति मसूद पेजेश्कियन ने अमेरिका के साथ हुए शांति समझौते (एमओयू) को ईरान, पश्चिम एशिया और पूरे विश्व के विकास के लिए बेहद जरूरी बताया है। तेहरान में आयोजित एक कार्यक्रम के दौरान राष्ट्रपति ने स्पष्ट किया कि इस समझौते के असर में आने के बाद अमेरिका और इजरायल जैसे देश क्षेत्र में अराजकता या आक्रामकता का माहौल नहीं बना पाएंगे।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान-अमेरिका शांति समझौते पर पेजेश्कियन का दावा, बोले- अब अमेरिका-इजरायल नहीं फैला पाएंगे अराजकता",
+          "summary": "Iran US War: ईरान के राष्ट्रपति मसूद पेजेश्कियन ने अमेरिका के साथ हुए शांति समझौते (एमओयू) को ईरान, पश्चिम एशिया और पूरे विश्व के विकास के लिए बेहद जरूरी बताया है। तेहरान में आयोजित एक कार्यक्रम के दौरान राष्ट्रपति ने स्पष्ट किया कि इस समझौते के असर में आने के बाद अमेरिका और इजरायल जैसे देश क्षेत्र में अराजकता या आक्रामकता का माहौल नहीं बना पाएंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "टॉम क्रूज ने किया नई फिल्म का एलान, अहम किरदार में होंगी ये अभिनेत्री; 38 साल बाद आ रहा सीक्वल",
+      "url": "https://www.amarujala.com/entertainment/hollywood/tom-cruise-announces-days-of-thunder-sequel-with-anne-hathaway-after-38-years-2026-08-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T04:41:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/tama-kanprja_916877fcfbabc9e8dcc6dbbafe9e83f6.jpeg?w=1200&dpr=1.0",
+      "summary": "हॉलीवुड के मशहूर अभिनेता टॉम क्रूज अपनी अलग तरह की फिल्मों के लिए मशहूर हैं। टॉम क्रूज ने किया नई फिल्म का एलान, अहम किरदार में होंगी ये अभिनेत्री; 38 साल बाद आ रहा सीक्वल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "टॉम क्रूज ने किया नई फिल्म का एलान, अहम किरदार में होंगी ये अभिनेत्री; 38 साल बाद आ रहा सीक्वल",
+          "summary": "हॉलीवुड के मशहूर अभिनेता टॉम क्रूज अपनी अलग तरह की फिल्मों के लिए मशहूर हैं। टॉम क्रूज ने किया नई फिल्म का एलान, अहम किरदार में होंगी ये अभिनेत्री; 38 साल बाद आ रहा सीक्वल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "नोनी में उग्रवादी गुटों के बीच गोलीबारी, एक की मौत और छह घायल; थौबल में ग्रेनेड धमाका",
+      "url": "https://www.amarujala.com/india-news/manipur-violence-several-militant-killed-in-factional-gunfight-in-noney-grenade-blast-at-thoubal-oil-pump-2026-08-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-30T04:41:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/11/manaepara-ma-hasa_28ad1baab497ebc6b9945c4046600d53.jpeg?w=1200&dpr=1.0",
+      "summary": "मणिपुर में फिर हिंसा: नोनी में उग्रवादी गुटों के बीच गोलीबारी, एक की मौत और छह घायल; थौबल में ग्रेनेड धमाका----Manipur Violence: Several Militant Killed in Factional Gunfight in Noney, Grenade Blast at Thoubal Oil Pump।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नोनी में उग्रवादी गुटों के बीच गोलीबारी, एक की मौत और छह घायल; थौबल में ग्रेनेड धमाका",
+          "summary": "मणिपुर में फिर हिंसा: नोनी में उग्रवादी गुटों के बीच गोलीबारी, एक की मौत और छह घायल; थौबल में ग्रेनेड धमाका----Manipur Violence: Several Militant Killed in Factional Gunfight in Noney, Grenade Blast at Thoubal Oil Pump।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बारिश में पहाड़ों पर ट्रिप का है प्लान? इन सावधानियों को बिल्कुल न करें नजरअंदाज",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/travel/monsoon-travel-tips-important-tips-for-mountain-travelling-in-rainy-season-2026-08-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T04:39:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/monsoon-travel-tips_9871315903edfaac53b7cf9bd16e21ef.jpeg?w=1200&dpr=1.0",
+      "summary": "Mountain Travel Safety: अगर आप उन लोगों में से हैं, जिन्हें पहाड़ों में घूमना पसंद है तो ये खबर आपके लिए है। यहां हम आपको बताएंगे कि बारिश के मौसम में पहाड़ पर जाते समय किन बातों का ध्यान रखना चाहिए। बारिश में पहाड़ों पर ट्रिप का है प्लान? इन सावधानियों को बिल्कुल न करें नजरअंदाज।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बारिश में पहाड़ों पर ट्रिप का है प्लान? इन सावधानियों को बिल्कुल न करें नजरअंदाज",
+          "summary": "Mountain Travel Safety: अगर आप उन लोगों में से हैं, जिन्हें पहाड़ों में घूमना पसंद है तो ये खबर आपके लिए है। यहां हम आपको बताएंगे कि बारिश के मौसम में पहाड़ पर जाते समय किन बातों का ध्यान रखना चाहिए। बारिश में पहाड़ों पर ट्रिप का है प्लान? इन सावधानियों को बिल्कुल न करें नजरअंदाज।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "चित्रकूट में बाढ़, दुकानें डूबीं, रेलवे ट्रैक धंसा, प्रयागराज में गंगा उफनाई; तस्वीरें",
+      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/kanpur/rains-wreak-havoc-in-up-floods-in-chitrakoot-shops-submerged-railway-track-caves-ganga-swells-in-prayagraj-2026-08-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-30T04:37:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/up-flood_accbfdf55bf4a559550074a8bf26bb50.jpeg?w=1200&dpr=1.0",
+      "summary": "लगातार बारिश से यूपी के कई जिलों में नदियां उफनाने लगी हैं। मध्य प्रदेश और पहाड़ी इलाकों में मूसलाधार बारिश के बाद शनिवार सुबह मंदाकिनी नदी ने चित्रकूट में भारी तबाही मचा दी है। इससे यूपी-एमपी का संपर्क कट गया है। चित्रकूट में बाढ़, दुकानें डूबीं, रेलवे ट्रैक धंसा, प्रयागराज में गंगा उफनाई; तस्वीरें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चित्रकूट में बाढ़, दुकानें डूबीं, रेलवे ट्रैक धंसा, प्रयागराज में गंगा उफनाई; तस्वीरें",
+          "summary": "लगातार बारिश से यूपी के कई जिलों में नदियां उफनाने लगी हैं। मध्य प्रदेश और पहाड़ी इलाकों में मूसलाधार बारिश के बाद शनिवार सुबह मंदाकिनी नदी ने चित्रकूट में भारी तबाही मचा दी है। इससे यूपी-एमपी का संपर्क कट गया है। चित्रकूट में बाढ़, दुकानें डूबीं, रेलवे ट्रैक धंसा, प्रयागराज में गंगा उफनाई; तस्वीरें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कहा- विदेश में समझदारी की बातें, देश में चुप्पी; मौलाना यासूब अब्बास ने की तारीफ",
+      "url": "https://www.amarujala.com/india-news/kapil-sibal-targets-mohan-bhagwat-diversity-unity-comment-us-maulana-yasoob-abbas-praises-other-reactions-2026-08-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T04:36:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/kapil-sibal-mohan-bhagwat_966fa0c9dc4028a6e86a6a8a34d04433.jpeg?w=1200&dpr=1.0",
+      "summary": "सिब्बल का भागवत पर निशाना: कहा- विदेश में समझदारी की बातें, देश में चुप्पी; मौलाना यासूब अब्बास ने की तारीफ kapil-sibal-targets-mohan-bhagwat-diversity-unity-comment-US-Maulana-Yasoob-Abbas-praises-other-reactions।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कहा- विदेश में समझदारी की बातें, देश में चुप्पी; मौलाना यासूब अब्बास ने की तारीफ",
+          "summary": "सिब्बल का भागवत पर निशाना: कहा- विदेश में समझदारी की बातें, देश में चुप्पी; मौलाना यासूब अब्बास ने की तारीफ kapil-sibal-targets-mohan-bhagwat-diversity-unity-comment-US-Maulana-Yasoob-Abbas-praises-other-reactions।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भरत तिवारी एनकाउंटर में हटाए अफसर को फिर ड्यूटी; IAS, BAS और बिहार पुलिस ट्रांसफर सूची पढ़ें",
+      "url": "https://www.amarujala.com/bihar/patna/bihar-officer-removed-after-bharat-tiwari-encounter-back-on-duty-read-transfer-list-for-ias-bas-bps-officers-2026-08-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-30T04:31:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/27/bihar-news-29-ias-officers-transferred-new-dm-and-sdo-posting-in-bihar_7cabb81ea2119ee3f079d7f73cbbd32c.jpeg?w=1200&dpr=1.0",
+      "summary": "बिहार सरकार किसे तुरंत आरोपी बनाए और तत्काल आरोप-मुक्त कर दे, समझना अब मुश्किल नहीं रहा है। भरत तिवारी एनकाउंटर में दूसरी बार यह सामने आ चुका है। आईएएस के साथ बिहार प्रशासनिक और बिहार पुलिस सेवा के तबादले में यही चर्चा का विषय है। भरत तिवारी एनकाउंटर में हटाए अफसर को फिर ड्यूटी; IAS, BAS और बिहार पुलिस ट्रांसफर सूची पढ़ें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भरत तिवारी एनकाउंटर में हटाए अफसर को फिर ड्यूटी; IAS, BAS और बिहार पुलिस ट्रांसफर सूची पढ़ें",
+          "summary": "बिहार सरकार किसे तुरंत आरोपी बनाए और तत्काल आरोप-मुक्त कर दे, समझना अब मुश्किल नहीं रहा है। भरत तिवारी एनकाउंटर में दूसरी बार यह सामने आ चुका है। आईएएस के साथ बिहार प्रशासनिक और बिहार पुलिस सेवा के तबादले में यही चर्चा का विषय है। भरत तिवारी एनकाउंटर में हटाए अफसर को फिर ड्यूटी; IAS, BAS और बिहार पुलिस ट्रांसफर सूची पढ़ें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "नेपाल में बाढ़ में मिले लावारिस शवों का होगा अंतिम संस्कार, DNA सैंपल के बाद कब्रों में दफनाए जाएंगे",
+      "url": "https://www.patrika.com/world-news/nepal-flood-unclaimed-bodies-buried-after-dna-sampling-20869759",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-30T04:21:37+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/nepal-flood-17.webp",
+      "summary": "Nepal Flood Unidentified Bodies Burial: नेपाल में आई बाढ़ के बाद बरामद किए गए अज्ञात और लावारिस शवों को अब दफनाने की प्रक्रिया शुरू की जाएगी। अधिकारियों ने बताया कि शवों के तेजी से सड़ने और संक्रमण का खतरा बढ़ने के कारण यह फैसला लिया गया है। बता दें कि बुधवार को नेपाल में अचानक आई बाढ़ में पानी और मलबे का तेज बहाव गांवों और कस्बों में घुस गया था। अब तक कम से कम 675 शव बरामद किए जा चुके हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल में बाढ़ में मिले लावारिस शवों का होगा अंतिम संस्कार, DNA सैंपल के बाद कब्रों में दफनाए जाएंगे",
+          "summary": "Nepal Flood Unidentified Bodies Burial: नेपाल में आई बाढ़ के बाद बरामद किए गए अज्ञात और लावारिस शवों को अब दफनाने की प्रक्रिया शुरू की जाएगी। अधिकारियों ने बताया कि शवों के तेजी से सड़ने और संक्रमण का खतरा बढ़ने के कारण यह फैसला लिया गया है। बता दें कि बुधवार को नेपाल में अचानक आई बाढ़ में पानी और मलबे का तेज बहाव गांवों और कस्बों में घुस गया था। अब तक कम से कम 675 शव बरामद किए जा चुके हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नेपाल में कहर बनकर टूटी बाढ़, 675 मौतें, 2498 अब भी लापता, फिर बढ़ा नदी का खतरा",
+      "url": "https://www.patrika.com/world-news/nepal-flash-flood-675-dead-2498-missing-bhotekoshi-river-india-rescue-team-20869556",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-30T04:18:08+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Nepal_9bb082.webp",
+      "summary": "Nepal flood death toll: नेपाल में आई भीषण बाढ़ में अब तक 675 लोगों की मौत हो चुकी है, जबकि 2498 से अधिक लोग लापता बताए जा रहे हैं। नेपाल के पर्यटन विभाग ने बताया कि शनिवार शाम 5:30 बजे तक कुल 753 पर्यटकों से संपर्क टूट गया था, जिनमें 589 विदेशी नागरिक शामिल हैं। जानकारी सामने आई है कि एकबार फिर भोटेकोसी नदी का जलस्तर तेजी से बढ़ा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल में कहर बनकर टूटी बाढ़, 675 मौतें, 2498 अब भी लापता, फिर बढ़ा नदी का खतरा",
+          "summary": "Nepal flood death toll: नेपाल में आई भीषण बाढ़ में अब तक 675 लोगों की मौत हो चुकी है, जबकि 2498 से अधिक लोग लापता बताए जा रहे हैं। नेपाल के पर्यटन विभाग ने बताया कि शनिवार शाम 5:30 बजे तक कुल 753 पर्यटकों से संपर्क टूट गया था, जिनमें 589 विदेशी नागरिक शामिल हैं। जानकारी सामने आई है कि एकबार फिर भोटेकोसी नदी का जलस्तर तेजी से बढ़ा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "724 मौतों की पुष्टि, 2400 से ज्यादा अभी भी लापता; 589 विदेशी नागरिकों संपर्क से बाहर",
+      "url": "https://www.amarujala.com/live/world/nepal-flash-flood-live-updates-casualties-indians-return-death-toll-surge-search-rescue-ops-hindi-news-2026-08-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-30T04:15:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/26/napal-bugdhha_e3fedae1bcd4cdbd41a5fecba1152ecd.gif?w=1200&dpr=1.0",
+      "summary": "नेपाल बाढ़ लाइव: त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है? 724 मौतों की पुष्टि, 2400 से ज्यादा अभी भी लापता; 589 विदेशी नागरिकों संपर्क से बाहर।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "724 मौतों की पुष्टि, 2400 से ज्यादा अभी भी लापता; 589 विदेशी नागरिकों संपर्क से बाहर",
+          "summary": "नेपाल बाढ़ लाइव: त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है? 724 मौतों की पुष्टि, 2400 से ज्यादा अभी भी लापता; 589 विदेशी नागरिकों संपर्क से बाहर।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मासूम को कुर्सी से बांधकर पीटा: 'बच्चे तो ऐसे रोज पिटते हैं, तुम्हे जो करना है कर लो', डायरेक्टर ने",
+      "url": "https://www.amarujala.com/delhi/three-and-a-half-year-old-child-beaten-after-being-tied-to-a-chair-at-a-delhi-play-school-2026-08-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-30T04:12:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/delhi-play-school_f82b5d688d3930a072272058a157968b.jpeg?w=1200&dpr=1.0",
+      "summary": "बच्चे तो ऐसे रोज पिटते हैं, जाओ तुम्हे जो करना है कर लो। ये जवाब स्कूल की महिला डायरेक्टर ने मासूम के पिता को दी। पीड़ित पिता स्कूल की डायरेक्टर से मासूम के साथ दरिंदगी के बारे में पूछ रहे थे। मासूम को कुर्सी से बांधकर पीटा: 'बच्चे तो ऐसे रोज पिटते हैं, तुम्हे जो करना है कर लो', डायरेक्टर ने।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मासूम को कुर्सी से बांधकर पीटा: 'बच्चे तो ऐसे रोज पिटते हैं, तुम्हे जो करना है कर लो', डायरेक्टर ने",
+          "summary": "बच्चे तो ऐसे रोज पिटते हैं, जाओ तुम्हे जो करना है कर लो। ये जवाब स्कूल की महिला डायरेक्टर ने मासूम के पिता को दी। पीड़ित पिता स्कूल की डायरेक्टर से मासूम के साथ दरिंदगी के बारे में पूछ रहे थे। मासूम को कुर्सी से बांधकर पीटा: 'बच्चे तो ऐसे रोज पिटते हैं, तुम्हे जो करना है कर लो', डायरेक्टर ने।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कालका-शिमला रेललाइन पर मंडराया बड़ा खतरा, कोटी-गुम्मन के बीच मिट्टी बही; सभी 10 ट्रेनें रद्द",
+      "url": "https://www.amarujala.com/shimla/kalka-shimla-railway-track-koti-gumman-bridge-train-cancelled-2026-08-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-30T04:05:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/kata-gamamana-ka-bca-pal-ka-pasa-matata-bha_73cc7ff2203d9b2bc52eb993c1870cc4.jpeg?w=1200&dpr=1.0",
+      "summary": "Kalka Shimla Railway Track: कालका-शिमला विश्व धरोहर रेलवे ट्रैक पर कोटी-गुम्मन के बीच ब्रिज नंबर 57 के पास मिट्टी बह गई। रेलवे ने 30 अगस्त की 10 नैरो गेज ट्रेनें रद्द कीं। कालका-शिमला रेललाइन पर मंडराया बड़ा खतरा, कोटी-गुम्मन के बीच मिट्टी बही; सभी 10 ट्रेनें रद्द।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कालका-शिमला रेललाइन पर मंडराया बड़ा खतरा, कोटी-गुम्मन के बीच मिट्टी बही; सभी 10 ट्रेनें रद्द",
+          "summary": "Kalka Shimla Railway Track: कालका-शिमला विश्व धरोहर रेलवे ट्रैक पर कोटी-गुम्मन के बीच ब्रिज नंबर 57 के पास मिट्टी बह गई। रेलवे ने 30 अगस्त की 10 नैरो गेज ट्रेनें रद्द कीं। कालका-शिमला रेललाइन पर मंडराया बड़ा खतरा, कोटी-गुम्मन के बीच मिट्टी बही; सभी 10 ट्रेनें रद्द।",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "तबाही के बाद जिंदगी की तलाश: सफाईकर्मी की बेटी के कपड़े 4 फीट कीचड़ में दबे मिले, 50 साल की जूलर",
@@ -313,7 +673,7 @@
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-08-30T04:04:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/nepal-flood_421c4e727675ce9b397d3696012f9be2.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/napal-tarasatha_9e41f47828ec1f3be9d386139b807135.jpeg?w=1200&dpr=1.0",
       "summary": "सड़क पर आईं तबाही के बाद जिंदगी की तलाश: सफाईकर्मी की बेटी के कपड़े 4 फीट कीचड़ में दबे मिले, 50 साल की जूलर सड़क पर आईं।",
       "region": "World",
       "language": "hi",
@@ -362,24 +722,6 @@
       }
     },
     {
-      "title": "724 मौतों की पुष्टि, 2400 से ज्यादा अभी भी लापता; 589 विदेशी नागरिकों संपर्क से बाहर",
-      "url": "https://www.amarujala.com/live/world/nepal-flash-flood-live-updates-casualties-indians-return-death-toll-surge-search-rescue-ops-hindi-news-2026-08-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-30T04:03:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/26/napal-bugdhha_e3fedae1bcd4cdbd41a5fecba1152ecd.gif?w=1200&dpr=1.0",
-      "summary": "नेपाल बाढ़ लाइव: त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है? 724 मौतों की पुष्टि, 2400 से ज्यादा अभी भी लापता; 589 विदेशी नागरिकों संपर्क से बाहर।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "724 मौतों की पुष्टि, 2400 से ज्यादा अभी भी लापता; 589 विदेशी नागरिकों संपर्क से बाहर",
-          "summary": "नेपाल बाढ़ लाइव: त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है? 724 मौतों की पुष्टि, 2400 से ज्यादा अभी भी लापता; 589 विदेशी नागरिकों संपर्क से बाहर।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "नाइजर में तख्ता पलट की कोशिश: युवा सैनिकों ने खोला मोर्चा, कई की मौत; राजधानी में रातभर गोलियों की",
       "url": "https://www.amarujala.com/world/niger-coup-attempt-several-soldiers-killed-or-arrested-amid-mutiny-in-niamey-2026-08-30",
       "source": "Amar Ujala World",
@@ -398,362 +740,20 @@
       }
     },
     {
-      "title": "म्यांमार के प्रवासियों को वापस भेजने की तैयारी: मलयेशिया में रोहिंग्या शरणार्थियों के बीच दहशत, किस",
-      "url": "https://www.amarujala.com/world/myanmar-migrants-repatriation-preparations-panic-among-rohingya-refugees-in-malaysia-why-so-much-fear-2026-08-30",
-      "source": "Amar Ujala World",
+      "title": "Mohan Bhagwat के न्यूयॉर्क इवेंट का विरोध, खालिस्तान समर्थकों ने तिरंगे का किया अपमान; हिंदू संगठन",
+      "url": "https://www.patrika.com/world-news/khalistan-supporters-protest-rss-chief-mohan-bhagwat-new-york-20869625",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-08-30T03:57:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/rahagaya-sharanaerathaya-ka-sathata-thaka-naha_7d56d66487165ca80ad6abe9bcf54f3a.jpeg?w=1200&dpr=1.0",
-      "summary": "बात का डर? म्यांमार के प्रवासियों को वापस भेजने की तैयारी: मलयेशिया में रोहिंग्या शरणार्थियों के बीच दहशत, किस बात का डर?",
+      "published_at": "2026-08-30T03:58:06+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Mohan-Bhagwat-8.webp",
+      "summary": "Khalistan Supporters Protest against RSS: न्यूयॉर्क के मैडिसन स्क्वायर गार्डन में आयोजित ‘यूनिवर्सल ऑननेस सेलिब्रेशन’ को राष्ट्रीय स्वयंसेवक संघ (RSS) प्रमुख मोहन भागवत ने संबोधित किया। इस दौरान कार्यक्रम स्थल के बाहर खालिस्तान समर्थकों का विरोध-प्रदर्शन देखने को मिला। खालिस्तान समर्थकों ने ‘खालिस्तान जिंदाबाद’ के नारे लगाए और भारतीय ध्वज का अपमान किया।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "म्यांमार के प्रवासियों को वापस भेजने की तैयारी: मलयेशिया में रोहिंग्या शरणार्थियों के बीच दहशत, किस",
-          "summary": "बात का डर? म्यांमार के प्रवासियों को वापस भेजने की तैयारी: मलयेशिया में रोहिंग्या शरणार्थियों के बीच दहशत, किस बात का डर?",
+          "title": "Mohan Bhagwat के न्यूयॉर्क इवेंट का विरोध, खालिस्तान समर्थकों ने तिरंगे का किया अपमान; हिंदू संगठन",
+          "summary": "Khalistan Supporters Protest against RSS: न्यूयॉर्क के मैडिसन स्क्वायर गार्डन में आयोजित ‘यूनिवर्सल ऑननेस सेलिब्रेशन’ को राष्ट्रीय स्वयंसेवक संघ (RSS) प्रमुख मोहन भागवत ने संबोधित किया। इस दौरान कार्यक्रम स्थल के बाहर खालिस्तान समर्थकों का विरोध-प्रदर्शन देखने को मिला। खालिस्तान समर्थकों ने ‘खालिस्तान जिंदाबाद’ के नारे लगाए और भारतीय ध्वज का अपमान किया।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ऑस्कर ने शेयर किया 'ये जवानी है दीवानी' का खास सीन, की संवाद की तारीफ: यूजर्स ने किए ऐसे कमेंट",
-      "url": "https://www.amarujala.com/entertainment/bollywood/the-academy-posts-scene-from-yeh-jawani-hai-deewani-desi-fans-of-deepika-padukone-praise-2026-08-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T03:54:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/ya-javana-ha-thavana_3031f5e4387083f505dbc0ddf691ee3e.jpeg?w=1200&dpr=1.0",
-      "summary": "ऑस्कर अवॉर्ड देने वाली संस्था 'द एकेडमी' अक्सर बॉलीवुड फिल्मों के कुछ खास सीन अपने सोशल मीडिया पेज पर शेयर करती है। ऑस्कर ने शेयर किया 'ये जवानी है दीवानी' का खास सीन, की संवाद की तारीफ: यूजर्स ने किए ऐसे कमेंट।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ऑस्कर ने शेयर किया 'ये जवानी है दीवानी' का खास सीन, की संवाद की तारीफ: यूजर्स ने किए ऐसे कमेंट",
-          "summary": "ऑस्कर अवॉर्ड देने वाली संस्था 'द एकेडमी' अक्सर बॉलीवुड फिल्मों के कुछ खास सीन अपने सोशल मीडिया पेज पर शेयर करती है। ऑस्कर ने शेयर किया 'ये जवानी है दीवानी' का खास सीन, की संवाद की तारीफ: यूजर्स ने किए ऐसे कमेंट।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "नेपाल में फिर आ रही है आफत! भोटेकोशी में बढ़ा जलस्तर, सुरंग में अब भी फंसे हैं 600 लोग",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-flash-flood-update-bhotekoshki-water-level-raises-tunnel-rescue-india-china-on-front-ws-l-10792637.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T03:54:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Untitled-design-2026-08-27T162917.930-2026-08-30ddd89c117e2077ab71dab687b70e17-1200x800.jpg",
-      "summary": "Nepal Flash Flood News: नेपाल में एक बार फिर से उसी भोटेकोशी नदी का जलस्तर बढ़ गया है, जिसने यहां के कई जिलों की तस्वीर बदल दी थी. इससे राहत और बचाव कार्य में दिक्कत आने की आशंका है, जबकि सबसे ज्यादा चिंता उस सुरंग की है, जहां पर 600 लोग अब भी फंसे हुए हैं. नेपाल में फिर आ रही है आफत!",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल में फिर आ रही है आफत! भोटेकोशी में बढ़ा जलस्तर, सुरंग में अब भी फंसे हैं 600 लोग",
-          "summary": "Nepal Flash Flood News: नेपाल में एक बार फिर से उसी भोटेकोशी नदी का जलस्तर बढ़ गया है, जिसने यहां के कई जिलों की तस्वीर बदल दी थी. इससे राहत और बचाव कार्य में दिक्कत आने की आशंका है, जबकि सबसे ज्यादा चिंता उस सुरंग की है, जहां पर 600 लोग अब भी फंसे हुए हैं. नेपाल में फिर आ रही है आफत!",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी के नाम का शिलापट गायब: गाजियाबाद के संस्थान में पांच घंटे तलाश, प्रबंधक के कमरे में मिला",
-      "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/plaque-bearing-pm-modi-name-gone-missing-from-nium-in-ghaziabad-found-in-manager-room-after-five-hour-search-2026-08-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-30T03:34:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/parabthhaka-ka-kamara-ma-mal-shalpata_7d8ee6ba64f189b7e41b071715c1a29c.jpeg?w=1200&dpr=1.0",
-      "summary": "गाजियाबाद के नेशनल इंस्टीट्यूट ऑफ यूनानी मेडिसिन (एनआईयूएम) से प्रधानमंत्री नरेंद्र मोदी के नाम वाला शिलापट गायब होने की शिकायत ने संस्थान में हलचल मचा दी। पीएम मोदी के नाम का शिलापट गायब: गाजियाबाद के संस्थान में पांच घंटे तलाश, प्रबंधक के कमरे में मिला।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी के नाम का शिलापट गायब: गाजियाबाद के संस्थान में पांच घंटे तलाश, प्रबंधक के कमरे में मिला",
-          "summary": "गाजियाबाद के नेशनल इंस्टीट्यूट ऑफ यूनानी मेडिसिन (एनआईयूएम) से प्रधानमंत्री नरेंद्र मोदी के नाम वाला शिलापट गायब होने की शिकायत ने संस्थान में हलचल मचा दी। पीएम मोदी के नाम का शिलापट गायब: गाजियाबाद के संस्थान में पांच घंटे तलाश, प्रबंधक के कमरे में मिला।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "चीन क्यों छिपा रहा नेपाल-तिब्बत बाढ़ की सच्चाई?: खबरें-वीडियो हटाने का दावा, विदेशी पत्रकारों पर भी",
-      "url": "https://www.amarujala.com/world/china-censorship-nepal-tibet-flood-videos-foreign-journalists-restrictions-report-claims-2026-08-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-30T03:33:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/nepal-flood_826ab160fa1a5036818071776ea625c6.jpeg?w=1200&dpr=1.0",
-      "summary": "पाबंदी china-censorship-nepal-tibet-flood-videos-foreign-journalists-restrictions-report-claims चीन क्यों छिपा रहा नेपाल-तिब्बत बाढ़ की सच्चाई?: खबरें-वीडियो हटाने का दावा, विदेशी पत्रकारों पर भी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन क्यों छिपा रहा नेपाल-तिब्बत बाढ़ की सच्चाई?: खबरें-वीडियो हटाने का दावा, विदेशी पत्रकारों पर भी",
-          "summary": "पाबंदी china-censorship-nepal-tibet-flood-videos-foreign-journalists-restrictions-report-claims चीन क्यों छिपा रहा नेपाल-तिब्बत बाढ़ की सच्चाई?: खबरें-वीडियो हटाने का दावा, विदेशी पत्रकारों पर भी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "फिर बढ़ा भोटेकोशी का जलस्तर, रेस्क्यू में बढ़ेगी परेशानी, भारतीय सेना का विमान पहुंचा नेपाल",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-flash-flood-live-updates-death-toll-rise-india-sends-aid-flight-rescue-operation-rasuwa-nuwakot-floods-bhote-koshi-livenews-10792341.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T03:32:57+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/nepal-flood-2026-08-f80d16e1042f1c65d6e3de107390c960-1200x800.jpg",
-      "summary": "Nepal Flash Flood Live Update: नेपाल-चीन सीमा पर आई विनाशकारी बाढ़ में 670 से अधिक लोगों की मौत हो चुकी है, जबकि करीब 3000 लोग अब भी लापता हैं. इनमें 275 भारतीय समेत कई विदेशी भी शामिल हैं. नेपाल में राहत दल बड़ी संख्या में शवों को संभालने और प्रभावित लोगों तक मदद पहुंचाने में जुटे हैं. इसी बीच भारत से राहत सामग्री की चौथी खेप लेकर भारतीय विमान नेपाल पहुंचा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिर बढ़ा भोटेकोशी का जलस्तर, रेस्क्यू में बढ़ेगी परेशानी, भारतीय सेना का विमान पहुंचा नेपाल",
-          "summary": "Nepal Flash Flood Live Update: नेपाल-चीन सीमा पर आई विनाशकारी बाढ़ में 670 से अधिक लोगों की मौत हो चुकी है, जबकि करीब 3000 लोग अब भी लापता हैं. इनमें 275 भारतीय समेत कई विदेशी भी शामिल हैं. नेपाल में राहत दल बड़ी संख्या में शवों को संभालने और प्रभावित लोगों तक मदद पहुंचाने में जुटे हैं. इसी बीच भारत से राहत सामग्री की चौथी खेप लेकर भारतीय विमान नेपाल पहुंचा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बुढ़ापे के लिए कौन सी स्कीम है ज्यादा बेहतर? यहां समझें दोनों के बीच का बारीक अंतर",
-      "url": "https://www.amarujala.com/photo-gallery/utility/nps-vs-ppf-which-scheme-is-better-for-your-retirement-understand-the-difference-in-simple-terms-2026-08-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T03:31:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/28/enapaesa-bnama-papaefa_097036c165d3e07399b6ebf508e4c907.jpeg?w=1200&dpr=1.0",
-      "summary": "जब भी रिटायरमेंट में बचत की बात आती है तो आमतौर पर लोगों के दिमाग में सबसे पहले पीपीएफ और एनपीएस ही आता है। मगर अक्सर लोगों के मन में इन दोनों फायदे और नुकसान को लेकर कई सवाल होते हैं। आइए इस लेख में इसी के बारे में समझते हैं। बुढ़ापे के लिए कौन सी स्कीम है ज्यादा बेहतर?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बुढ़ापे के लिए कौन सी स्कीम है ज्यादा बेहतर? यहां समझें दोनों के बीच का बारीक अंतर",
-          "summary": "जब भी रिटायरमेंट में बचत की बात आती है तो आमतौर पर लोगों के दिमाग में सबसे पहले पीपीएफ और एनपीएस ही आता है। मगर अक्सर लोगों के मन में इन दोनों फायदे और नुकसान को लेकर कई सवाल होते हैं। आइए इस लेख में इसी के बारे में समझते हैं। बुढ़ापे के लिए कौन सी स्कीम है ज्यादा बेहतर?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या आपका भी हर बार एक्सट्रा आता है गाड़ी सर्विस का बिल? जानें इन तरीकों से कैसे बचेंगे पैसे",
-      "url": "https://www.amarujala.com/automobiles/simple-maintenance-checks-you-do-home-before-car-service-2026-08-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T03:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/kara-saravasaga-tapasa_2c6fec9d2952c25f8dbb4b18e2709d6b.jpeg?w=1200&dpr=1.0",
-      "summary": "Customers in India often face unexpected extra charges when taking their cars to service centres. The article lists ways to avoid them, such as checking the service contract, asking for an itemised bill, verifying parts, and comparing prices. It also advises keeping receipts and asking for a written estimate before work begins. कार सर्विस हैक: क्या आपका भी हर बार एक्सट्रा आता है कार सर्विस का बिल?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या आपका भी हर बार एक्सट्रा आता है गाड़ी सर्विस का बिल? जानें इन तरीकों से कैसे बचेंगे पैसे",
-          "summary": "Customers in India often face unexpected extra charges when taking their cars to service centres. The article lists ways to avoid them, such as checking the service contract, asking for an itemised bill, verifying parts, and comparing prices. It also advises keeping receipts and asking for a written estimate before work begins. कार सर्विस हैक: क्या आपका भी हर बार एक्सट्रा आता है कार सर्विस का बिल?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हर सुबह उठते ही होता है सिरदर्द? ये तकिया की गड़बड़ी है या किसी गंभीर बीमारी का संकेत",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/why-do-you-wake-up-with-a-headache-pillow-sleep-disturbance-or-other-health-problem-2026-08-29",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T03:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/headache-stress_99d5a8e885d9442483bfdfbb602c6170.jpeg?w=1200&dpr=1.0",
-      "summary": "सुबह उठते ही सिरदर्द केवल तकिए या गलत सोने की मुद्रा की वजह से नहीं होता। नींद की कमी, पानी की कमी और स्लीप एपनिया भी कारण हो सकते हैं। बार-बार होने वाले सिरदर्द को नजरअंदाज न करें और साथ दिखने वाले दूसरे लक्षणों पर भी ध्यान दें। हर सुबह उठते ही होता है सिरदर्द? ये तकिया की गड़बड़ी है या किसी गंभीर बीमारी का संकेत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हर सुबह उठते ही होता है सिरदर्द? ये तकिया की गड़बड़ी है या किसी गंभीर बीमारी का संकेत",
-          "summary": "सुबह उठते ही सिरदर्द केवल तकिए या गलत सोने की मुद्रा की वजह से नहीं होता। नींद की कमी, पानी की कमी और स्लीप एपनिया भी कारण हो सकते हैं। बार-बार होने वाले सिरदर्द को नजरअंदाज न करें और साथ दिखने वाले दूसरे लक्षणों पर भी ध्यान दें। हर सुबह उठते ही होता है सिरदर्द? ये तकिया की गड़बड़ी है या किसी गंभीर बीमारी का संकेत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "किताबें तैयार हैं, कैमरा भी तैयार है: ओटीटी से बदल रहा परिदृश्य, हिंदी लेखकों और नई कहानियों के लिए",
-      "url": "https://www.amarujala.com/columns/opinion/books-ready-camera-set-ott-landscape-transforming-scenario-promising-sign-for-hindi-writers-and-new-stories-2026-08-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T03:29:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/opinion-dushyant_0df1b206592be9559b7bb670c519a758.jpeg?w=1200&dpr=1.0",
-      "summary": "शुभ संकेत किताबें तैयार हैं, कैमरा भी तैयार है: ओटीटी से बदल रहा परिदृश्य, हिंदी लेखकों और नई कहानियों के लिए शुभ संकेत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "किताबें तैयार हैं, कैमरा भी तैयार है: ओटीटी से बदल रहा परिदृश्य, हिंदी लेखकों और नई कहानियों के लिए",
-          "summary": "शुभ संकेत किताबें तैयार हैं, कैमरा भी तैयार है: ओटीटी से बदल रहा परिदृश्य, हिंदी लेखकों और नई कहानियों के लिए शुभ संकेत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सुनील छेत्री को मौजूदा भारतीय टीम से ईर्ष्या! ब्राजील-उरुग्वे से टीम इंडिया की भिड़ंत पर क्या बोले?",
-      "url": "https://www.amarujala.com/sports/football/sunil-chhetri-jealous-of-india-s-chance-to-face-brazil-and-uruguay-urges-youngsters-to-shine-2026-08-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-30T03:28:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/sunil-chhetri-indian-football-team-brazil-uruguay-india-vs-brazil-india-vs-uruguay-indian-foo_3971478502e31943713b6bcf586b3ea5.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत के पूर्व कप्तान सुनील छेत्री ने सितंबर में ब्राजील और उरुग्वे के खिलाफ खेलने जा रही भारतीय टीम को लेकर उत्साह जताया है। उन्होंने माना कि मौजूदा खिलाड़ियों को इन दिग्गज टीमों के खिलाफ खेलने का मौका देखकर उन्हें थोड़ी ईर्ष्या हो रही है। सुनील छेत्री को मौजूदा भारतीय टीम से ईर्ष्या! ब्राजील-उरुग्वे से टीम इंडिया की भिड़ंत पर क्या बोले?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सुनील छेत्री को मौजूदा भारतीय टीम से ईर्ष्या! ब्राजील-उरुग्वे से टीम इंडिया की भिड़ंत पर क्या बोले?",
-          "summary": "भारत के पूर्व कप्तान सुनील छेत्री ने सितंबर में ब्राजील और उरुग्वे के खिलाफ खेलने जा रही भारतीय टीम को लेकर उत्साह जताया है। उन्होंने माना कि मौजूदा खिलाड़ियों को इन दिग्गज टीमों के खिलाफ खेलने का मौका देखकर उन्हें थोड़ी ईर्ष्या हो रही है। सुनील छेत्री को मौजूदा भारतीय टीम से ईर्ष्या! ब्राजील-उरुग्वे से टीम इंडिया की भिड़ंत पर क्या बोले?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नेपाल के बाद चीन में आई आफत, लैंडस्लाइड में 16 की मौत, 546 हुए लापता",
-      "url": "https://hindi.news18.com/world/south-asia-china-landslide-16-dead-546-missing-after-mudslide-hits-border-port-in-xizang-10792481.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T03:27:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/china-landslide-2026-08-2d9434da3f4dcd72a6c16bbac3e15454-1200x800.jpg",
-      "summary": "China Landslide 49 Indians Missing: नेपाल के बाद अब चीन में भी कुदरत का कहर देखने को मिला है. यहां पर ग्यिरोंग पोर्ट के पास आए लैंडस्लाइड में अब तक 16 लोगों की मौत हो गई है, जबकि 546 लोग अब भी लापता हैं. इस घटना में भी 49 भारतीय लापता हैं. नेपाल के बाद चीन में आई आफत, लैंडस्लाइड में 16 की मौत, 546 हुए लापता।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल के बाद चीन में आई आफत, लैंडस्लाइड में 16 की मौत, 546 हुए लापता",
-          "summary": "China Landslide 49 Indians Missing: नेपाल के बाद अब चीन में भी कुदरत का कहर देखने को मिला है. यहां पर ग्यिरोंग पोर्ट के पास आए लैंडस्लाइड में अब तक 16 लोगों की मौत हो गई है, जबकि 546 लोग अब भी लापता हैं. इस घटना में भी 49 भारतीय लापता हैं. नेपाल के बाद चीन में आई आफत, लैंडस्लाइड में 16 की मौत, 546 हुए लापता।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आईएएस दिव्या मित्तल ने 13 साल की सेवा को कहा अलविदा, भावुक पोस्ट में लिखा- 'पद छूट गया, सपना नहीं'",
-      "url": "https://www.amarujala.com/lucknow/ias-officer-divya-mittal-has-voluntarily-resigned-after-13-years-of-administrative-service-2026-08-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-30T03:22:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/aaiieesa-thavaya-matatal_eea75f8258a144b4e58e6cd043e29db4.jpeg?w=1200&dpr=1.0",
-      "summary": "आईएएस अधिकारी दिव्या मित्तल ने 13 वर्षों की प्रशासनिक यात्रा को विराम देते हुए अपनी इच्छा से पद से इस्तीफा दे दिया है। आईएएस दिव्या मित्तल ने 13 साल की सेवा को कहा अलविदा, भावुक पोस्ट में लिखा- 'पद छूट गया, सपना नहीं'।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आईएएस दिव्या मित्तल ने 13 साल की सेवा को कहा अलविदा, भावुक पोस्ट में लिखा- 'पद छूट गया, सपना नहीं'",
-          "summary": "आईएएस अधिकारी दिव्या मित्तल ने 13 वर्षों की प्रशासनिक यात्रा को विराम देते हुए अपनी इच्छा से पद से इस्तीफा दे दिया है। आईएएस दिव्या मित्तल ने 13 साल की सेवा को कहा अलविदा, भावुक पोस्ट में लिखा- 'पद छूट गया, सपना नहीं'।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या आपके फोन का कैमरा हैक हो चुका है? इन पांच संकेतों से तुरंत करें पहचान, जानें बचाव के तरीके",
-      "url": "https://www.amarujala.com/technology/tip-of-the-day/5-signs-hackers-may-be-spying-you-through-your-phone-camera-2026-08-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T03:21:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/paratakatamaka-tasavara_04c3995e3a265d928ef37fa1ccae517d.jpeg",
-      "summary": "सेफ्टी टिप्स: क्या आपके फोन का कैमरा हैक हो चुका है?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या आपके फोन का कैमरा हैक हो चुका है? इन पांच संकेतों से तुरंत करें पहचान, जानें बचाव के तरीके",
-          "summary": "सेफ्टी टिप्स: क्या आपके फोन का कैमरा हैक हो चुका है?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "विष्णु ने कैसे किया कालनेमि का अंत, चक्र से क्यों काटने पड़े सौ भयंकर मस्तक?",
-      "url": "https://www.amarujala.com/columns/opinion/pages-of-mythology-and-culture-when-vishnu-ended-kalnemi-hundred-fearsome-heads-cut-from-sudarshan-chakra-2026-08-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T03:10:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/sanskriti-k-panne_28bb29549ed16245b75bce412a050466.jpeg?w=1200&dpr=1.0",
-      "summary": "जानना जरूरी है: विष्णु ने कैसे किया कालनेमि का अंत, चक्र से क्यों काटने पड़े सौ भयंकर मस्तक?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विष्णु ने कैसे किया कालनेमि का अंत, चक्र से क्यों काटने पड़े सौ भयंकर मस्तक?",
-          "summary": "जानना जरूरी है: विष्णु ने कैसे किया कालनेमि का अंत, चक्र से क्यों काटने पड़े सौ भयंकर मस्तक?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कैलाश मानसरोवर यात्रियों की बढ़ी चिंता: बाढ़ के बाद 261 विदेशी लापता, तिब्बत-नेपाल सीमा पर 49",
-      "url": "https://www.amarujala.com/world/49-indians-among-261-foreigners-missing-after-flash-flood-on-tibet-nepal-border-2026-08-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-30T03:08:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/napal-ma-bugdhha-ka-btha-bhayavaha-majara_704f1e4027199bc800b83c11cddb5bbb.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय भी शामिल--49 Indians Among 261 Foreigners Missing After Flash Flood on Tibet-Nepal Border कैलाश मानसरोवर यात्रियों की बढ़ी चिंता: बाढ़ के बाद 261 विदेशी लापता, तिब्बत-नेपाल सीमा पर 49।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैलाश मानसरोवर यात्रियों की बढ़ी चिंता: बाढ़ के बाद 261 विदेशी लापता, तिब्बत-नेपाल सीमा पर 49",
-          "summary": "भारतीय भी शामिल--49 Indians Among 261 Foreigners Missing After Flash Flood on Tibet-Nepal Border कैलाश मानसरोवर यात्रियों की बढ़ी चिंता: बाढ़ के बाद 261 विदेशी लापता, तिब्बत-नेपाल सीमा पर 49।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'अगली बार घर में घुसकर मारेंगे': कनाडा में फिर गूंजी गोलियां, सचिन पटेल के घर रोहित गोदारा गैंग ने",
-      "url": "https://hindi.news18.com/world/rest-of-world-canada-next-time-kill-you-firing-in-ontario-rohit-godara-gang-opens-fire-at-sachin-patel-home-10792446.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T03:07:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Rohit-Godara-2026-08-808dc1e85475ec57a66a6ff4e36dae24-1200x800.jpg",
-      "summary": "ओंटारियो में गैंगवार और जबरन वसूली से जुड़ा एक और सनसनीखेज मामला सामने आया है. ब्रैंटफोर्ड इलाके में भारतीय मूल के कारोबारी सचिन पटेल के घर पर हुई ताबड़तोड़ फायरिंग की जिम्मेदारी कुख्यात गैंगस्टर रोहित गोदारा गिरोह के गुर्गे पारस कांग ने ली है. सोशल मीडिया पर फायरिंग का कथित वीडियो पोस्ट करते हुए पारस कांग ने खुलेआम धमकी दी है कि अगर पुरानी चेतावनियों और कॉल्स को नजरअंदाज करना बंद नहीं किया गया, त।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'अगली बार घर में घुसकर मारेंगे': कनाडा में फिर गूंजी गोलियां, सचिन पटेल के घर रोहित गोदारा गैंग ने",
-          "summary": "ओंटारियो में गैंगवार और जबरन वसूली से जुड़ा एक और सनसनीखेज मामला सामने आया है. ब्रैंटफोर्ड इलाके में भारतीय मूल के कारोबारी सचिन पटेल के घर पर हुई ताबड़तोड़ फायरिंग की जिम्मेदारी कुख्यात गैंगस्टर रोहित गोदारा गिरोह के गुर्गे पारस कांग ने ली है. सोशल मीडिया पर फायरिंग का कथित वीडियो पोस्ट करते हुए पारस कांग ने खुलेआम धमकी दी है कि अगर पुरानी चेतावनियों और कॉल्स को नजरअंदाज करना बंद नहीं किया गया, त।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कैलाश मानसरोवर यात्रा पर कटघरे में सद्गुरु, तीर्थयात्रियों की हिफाजत पर फाउंडेशन की सफाई क्या?",
-      "url": "https://www.amarujala.com/world/sadhguru-stayed-in-tibet-to-help-evacuate-700-isha-members-foundation-explains-nepal-flood-crisis-2026-08-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-30T02:53:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/nepal-flash-flood_fee5b14bdca688710bdde7cdb99c8a7d.jpeg?w=1200&dpr=1.0",
-      "summary": "नेपाल त्रासदी: कैलाश मानसरोवर यात्रा पर कटघरे में सद्गुरु, तीर्थयात्रियों की हिफाजत पर फाउंडेशन की सफाई क्या?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैलाश मानसरोवर यात्रा पर कटघरे में सद्गुरु, तीर्थयात्रियों की हिफाजत पर फाउंडेशन की सफाई क्या?",
-          "summary": "नेपाल त्रासदी: कैलाश मानसरोवर यात्रा पर कटघरे में सद्गुरु, तीर्थयात्रियों की हिफाजत पर फाउंडेशन की सफाई क्या?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मंदिर से मन भरा तो गुरुद्वारा पर बुल्डोजर चलाने लगा पाकिस्तान, 200 साल पुराना धर्मस्थल ध्वस्त",
-      "url": "https://hindi.news18.com/world/pakistan-200-year-old-gurdwara-to-be-demolished-in-baluchistan-to-construct-mall-10792486.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T02:43:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/balochistan-gurudwara-2026-08-f3b2a47d79b129eed7fa3cc4c2bc111f-1200x800.jpg",
-      "summary": "200 Year Old Gurudwara Demolition Baluchistan: पाकिस्तान के बलूचिस्तान में एक बार फिर हुकूमत ने अपना रंग दिखाया है. इस इलाके में मंदिरों के बाद नजर ऐतिहासिक गुरुद्वारों पर पड़ गई है. हाल में ही 200 साल पुराने गुरुद्वारे को तोड़े जाने का मामला सामने आया है, जहां नया मॉल बनाया जाएगा. मंदिर से मन भरा तो गुरुद्वारा पर बुल्डोजर चलाने लगा पाकिस्तान, 200 साल पुराना धर्मस्थल ध्वस्त।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मंदिर से मन भरा तो गुरुद्वारा पर बुल्डोजर चलाने लगा पाकिस्तान, 200 साल पुराना धर्मस्थल ध्वस्त",
-          "summary": "200 Year Old Gurudwara Demolition Baluchistan: पाकिस्तान के बलूचिस्तान में एक बार फिर हुकूमत ने अपना रंग दिखाया है. इस इलाके में मंदिरों के बाद नजर ऐतिहासिक गुरुद्वारों पर पड़ गई है. हाल में ही 200 साल पुराने गुरुद्वारे को तोड़े जाने का मामला सामने आया है, जहां नया मॉल बनाया जाएगा. मंदिर से मन भरा तो गुरुद्वारा पर बुल्डोजर चलाने लगा पाकिस्तान, 200 साल पुराना धर्मस्थल ध्वस्त।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका से शांति समझौते पर पेजेशकियन का बड़ा बयान, बोले- नहीं चाहते युद्ध, लेकिन झुकेंगे नहीं",
-      "url": "https://www.amarujala.com/world/iran-us-peace-deal-masoud-pezeshkian-middle-east-stability-war-2026-08-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-30T02:38:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/masoud-pezeshkian_8facf23fd31a44bfa82da8728c0bc102.jpeg?w=1200&dpr=1.0",
-      "summary": "प. अमेरिका से शांति समझौते पर पेजेशकियन का बड़ा बयान, बोले- नहीं चाहते युद्ध, लेकिन झुकेंगे नहीं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका से शांति समझौते पर पेजेशकियन का बड़ा बयान, बोले- नहीं चाहते युद्ध, लेकिन झुकेंगे नहीं",
-          "summary": "प. अमेरिका से शांति समझौते पर पेजेशकियन का बड़ा बयान, बोले- नहीं चाहते युद्ध, लेकिन झुकेंगे नहीं।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
