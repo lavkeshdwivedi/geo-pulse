@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-30T21:11:26.192052+00:00",
+  "generated_at": "2026-08-30T22:12:24.867258+00:00",
   "article_count": 50,
-  "total_unique_count": 256,
+  "total_unique_count": 255,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with US Strikes Iran's Larak Island, Tehran Vows \"Response And Punishment\". Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
+    "en": "Asia-Pacific leads the board this hour with What a cancer survivor’s wrongful dismissal case tells us about the employer-employee relationship. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
     "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, चेहरे पर चोट के निशान, मंत्री ने दिए जांच के आदेश; पुलिस ने क्या कहा? मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "What a cancer survivor’s wrongful dismissal case tells us about the employer-employee relationship",
+      "url": "https://www.channelnewsasia.com/commentary/cancer-work-boss-fire-leave-part-time-job-6350081",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-08-30T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--_pYNz4ZG--/c_crop,h_684,w_1216,x_318,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/30/sad_employee_at_desk.jpg?itok=oSlMG1eO",
+      "summary": "When illness strikes or life gets in the way, employees will become temporarily less available to their employers. This is normal and should not be an exception to be managed away, say SUSS professor Victor Seah and Singapore Cancer Society’s Tan Kwang Cheak. What a cancer survivor’s wrongful dismissal case tells us about the employer-employee relationship.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "US Strikes Iran's Larak Island, Tehran Vows \"Response And Punishment\"",
       "url": "https://www.ndtv.com/world-news/us-strikes-irans-larak-island-tehran-vows-response-and-punishment-11979563#publisher=newsstand",
@@ -24,8 +36,8 @@
       "url": "https://www.channelnewsasia.com/asia/flood-catastrophe-nepal-asked-china-early-warnings-risks-mounted-6350661",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-08-30T19:56:31+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--9PwiP_aJ--/c_crop,h_449,w_799,x_1,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-30T054946Z_1_LYNXMPEM7T03W_RTROPTP_3_NEPAL-FLOODS.JPG?itok=adM17Wr9",
+      "published_at": "2026-08-30T19:56:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--RTKzW277--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-29T022134Z_1_LYNXMPEM7S027_RTROPTP_3_NEPAL-FLOODS.JPG?itok=FaM-H_9u",
       "summary": "Officials from Nepal and China had discussed strengthening cooperation three months ago, to monitor and respond to floods, weather and glacier-related hazards, according to an agenda prepared by the Nepali side and seen by Reuters. Before flood catastrophe, Nepal asked China for early warnings as risks mounted.",
       "region": "Asia-Pacific",
       "language": "en",
@@ -296,21 +308,9 @@
       "translations": {}
     },
     {
-      "title": "Hollow Promises: Resetting Gaza’s Ceasefire",
-      "url": "https://www.crisisgroup.org/rpt/middle-east-north-africa/israelpalestine-united-states/257-hollow-promises-resetting-gazas-ceasefire",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-08-24T16:07:00+00:00",
-      "image_url": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "A July roadmap sponsored by the Board of Peace has failed to overcome obstacles that have mired Gaza’s ceasefire deal ten months on. A mix of sustained pressure and diplomatic guarantees is needed to break the logjam and centre Palestinian agency in the strip's recovery. Hollow Promises: Resetting Gaza’s Ceasefire.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "चेहरे पर चोट के निशान, मंत्री ने दिए जांच के आदेश; पुलिस ने क्या कहा?",
       "url": "https://www.amarujala.com/india-news/nurse-found-murdered-in-hyderabad-t-gana-minister-directs-police-to-conduct-probe-2026-08-31",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-08-31T07:14:11+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/14/examinees-created-ruckus-stone-pelting-pataliputra-junction-train-delay-bihar-police-injured-patna-b_958336d0ef876800a6ce8a1addcf116e.jpeg?w=1200&dpr=1.0",
@@ -380,19 +380,55 @@
       }
     },
     {
+      "title": "नेपाल में फिर से आई भीषण बाढ़ झूला पुल बहा, 400 परिवारों पर बढ़ा संकट!",
+      "url": "https://www.amarujala.com/video/world/severe-floods-strike-nepal-again-suspension-bridge-washed-away-crisis-deepens-for-400-families-2026-08-31",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-30T22:00:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/nepal-flood-update_9ec2efbd15c15a566a06b42580e52ef9.jpeg?w=1200&dpr=1.0",
+      "summary": "नेपाल में फिर से आई भीषण बाढ़ झूला पुल बहा, 400 परिवारों पर बढ़ा संकट!",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल में फिर से आई भीषण बाढ़ झूला पुल बहा, 400 परिवारों पर बढ़ा संकट!",
+          "summary": "नेपाल में फिर से आई भीषण बाढ़ झूला पुल बहा, 400 परिवारों पर बढ़ा संकट!",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में भारतीय ध्वज के अपमान पर भड़के रिजिजू; खालिस्तानियों को दिया दो-टूक जवाब",
+      "url": "https://www.amarujala.com/india-news/don-t-abuse-our-nation-will-cost-you-dearly-rijiju-warns-ny-protesters-desecrating-indian-flag-2026-08-31",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-30T21:06:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/22/union-minister-kiren-rijiju-slams-mamata-over-waqf-act-implementation_8264175ed810614b69cc543ac7002860.jpeg?w=1200&dpr=1.0",
+      "summary": "'यह तुम्हें महंगा पड़ेगा': अमेरिका में भारतीय ध्वज के अपमान पर भड़के रिजिजू; खालिस्तानियों को दिया दो-टूक जवाब।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में भारतीय ध्वज के अपमान पर भड़के रिजिजू; खालिस्तानियों को दिया दो-टूक जवाब",
+          "summary": "'यह तुम्हें महंगा पड़ेगा': अमेरिका में भारतीय ध्वज के अपमान पर भड़के रिजिजू; खालिस्तानियों को दिया दो-टूक जवाब।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "चीनी के दाम पर सरकार की सख्ती नाकाम,बाजारों में 60 रुपये किलो से ऊपर भाव",
       "url": "https://www.amarujala.com/video/india-news/government-s-crackdown-on-sugar-prices-fails-market-rates-exceed-60-per-kg-2026-08-31",
       "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-08-30T20:30:57+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/sugar-price-hike_709d60728db1548e08927618d47c3996.jpeg?w=1200&dpr=1.0",
-      "summary": "चीनी के दाम पर सरकार की सख्ती नाकाम, बाजारों में 60 रुपये किलो से ऊपर भाव।",
+      "summary": "चीनी के दाम पर सरकार की सख्ती नाकाम, बाजारों में 60 रुपये किलो से ऊपर भाव। चीनी के दाम पर सरकार की सख्ती नाकाम, बाजारों में 60 रुपये किलो से ऊपर भाव।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "चीनी के दाम पर सरकार की सख्ती नाकाम,बाजारों में 60 रुपये किलो से ऊपर भाव",
-          "summary": "चीनी के दाम पर सरकार की सख्ती नाकाम, बाजारों में 60 रुपये किलो से ऊपर भाव।",
+          "summary": "चीनी के दाम पर सरकार की सख्ती नाकाम, बाजारों में 60 रुपये किलो से ऊपर भाव। चीनी के दाम पर सरकार की सख्ती नाकाम, बाजारों में 60 रुपये किलो से ऊपर भाव।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -400,7 +436,7 @@
     {
       "title": "अमेरिका के खिलाफ मुस्लिम एकता का आह्वान, खामेनेई ने किससे और क्यों की ऐसी अपील; हालात कैसे?",
       "url": "https://www.amarujala.com/world/west-asia-tension-us-iran-war-hormuz-airstrike-rocket-launchers-khamenei-trump-israel-shin-bet-irgc-centcom-2026-08-31",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-08-30T20:25:43+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/iirana-yathathha_f7dcf90be72c372b44614cdbb6c261ed.jpeg?w=1200&dpr=1.0",
@@ -717,42 +753,6 @@
         "hi": {
           "title": "4 दिन बाद भी सुरंग में रेस्क्यू जारी, 180 मीटर अंदर फंसे 350 मजदूरों को निकालने के लिए सरकार की नई",
           "summary": "Nepal Flood Updates: नेपाल में हिमालय की घाटियों में रेस्क्यू ऑपरेशन चल रहा है। पानी का तेज बहाव और मलबा रास्ता रोक रहा है, लेकिन सेना हेलीकॉप्टर से भारी मशीनें पहुंचा रही है। चार दिन पहले आई भीषण बाढ़ ने सुरंगों में सैकड़ों मजदूरों को फंसा दिया है। अब उन्हें निकालने के लिए हर तरह की कोशिश जारी है। 4 दिन बाद भी सुरंग में रेस्क्यू जारी, 180 मीटर अंदर फंसे 350 मजदूरों को निकालने के लिए सरकार की नई।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "तिब्बत-नेपाल बाढ़ की तबाही का सच छिपा रहा चीन! वीडियो डिलीट करने पर उठे सवाल",
-      "url": "https://www.patrika.com/world-news/tibet-nepal-flood-china-deleting-disaster-videos-report-20871155",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-30T14:56:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Tibet-Nepal-Flood-Videos-Deleted.webp",
-      "summary": "Tibet-Nepal Flood Videos Deleted: तिब्बत से नेपाल तक आई भीषण बाढ़ ने बड़े पैमाने पर तबाही मचाई है। ग्लेशियर टूटने के बाद अचानक पानी, कीचड़ और चट्टानों का सैलाब आया। कई इलाकों में घर और सड़कें, पुल सब बह गए। बड़ी संख्या में लोगों की जान गई और कई लोग अब भी लापता हैं। लेकिन इस प्राकृतिक आपदा के बीच एक और सवाल तेजी से उठ रहा है। क्या चीन तबाही की असली तस्वीर दुनिया के सामने आने से रोक रहा है?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तिब्बत-नेपाल बाढ़ की तबाही का सच छिपा रहा चीन! वीडियो डिलीट करने पर उठे सवाल",
-          "summary": "Tibet-Nepal Flood Videos Deleted: तिब्बत से नेपाल तक आई भीषण बाढ़ ने बड़े पैमाने पर तबाही मचाई है। ग्लेशियर टूटने के बाद अचानक पानी, कीचड़ और चट्टानों का सैलाब आया। कई इलाकों में घर और सड़कें, पुल सब बह गए। बड़ी संख्या में लोगों की जान गई और कई लोग अब भी लापता हैं। लेकिन इस प्राकृतिक आपदा के बीच एक और सवाल तेजी से उठ रहा है। क्या चीन तबाही की असली तस्वीर दुनिया के सामने आने से रोक रहा है?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बिल्ली समझकर पहुंचे बचावकर्मी, अंदर मिली 5 साल की बच्ची, नेपाल में 2 दिन बाद मलबे से जिंदा निकली",
-      "url": "https://hindi.news18.com/world/south-asia-5-year-old-girl-rescue-from-debris-after-two-days-nepal-floods-10793901.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T14:29:24+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Nepal-Flood-Photo-X-2026-08-dc29bf10f3693e66d2b4fe68912dda88-1200x800.jpg",
-      "summary": "Rescue teams in the flood‑hit district of Sindhuli, Nepal, followed a stray cat that led them to a five‑year‑old girl buried in collapsed houses. The child had been trapped for two days before workers cleared the debris and brought her to safety. नेपाल में बाढ़ ने हर तरफ तबाही मचा दी है. लेकिन इस बीच राहत की खबर ये है कि 5 साल की बच्ची को सुरक्षित मलबे से निकाल लिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बिल्ली समझकर पहुंचे बचावकर्मी, अंदर मिली 5 साल की बच्ची, नेपाल में 2 दिन बाद मलबे से जिंदा निकली",
-          "summary": "Rescue teams in the flood‑hit district of Sindhuli, Nepal, followed a stray cat that led them to a five‑year‑old girl buried in collapsed houses. The child had been trapped for two days before workers cleared the debris and brought her to safety. नेपाल में बाढ़ ने हर तरफ तबाही मचा दी है. लेकिन इस बीच राहत की खबर ये है कि 5 साल की बच्ची को सुरक्षित मलबे से निकाल लिया है.",
           "region": "एशिया-प्रशांत"
         }
       }
