@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-30T20:12:50.890864+00:00",
+  "generated_at": "2026-08-30T21:11:26.192052+00:00",
   "article_count": 50,
-  "total_unique_count": 257,
+  "total_unique_count": 256,
   "digest": {
-    "en": "Asia-Pacific leads the board this hour with Before flood catastrophe, Nepal asked China for early warnings as risks mounted. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "आज भारत में उत्तराखंड के कत्री घाटी में भारी बाढ़ ने 120 घरों को डुबोया, कई गांवों में सड़कें कट गईं। इसी दौरान नई दिल्ली में संसद ने 7255 करोड़ रुपये का अतिरिक्त बजट पारित किया, जिससे मानसून सत्र की चर्चा तेज हुई।"
+    "en": "Middle East & Africa leads the board this hour with US Strikes Iran's Larak Island, Tehran Vows \"Response And Punishment\". Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, चेहरे पर चोट के निशान, मंत्री ने दिए जांच के आदेश; पुलिस ने क्या कहा? मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "US Strikes Iran's Larak Island, Tehran Vows \"Response And Punishment\"",
+      "url": "https://www.ndtv.com/world-news/us-strikes-irans-larak-island-tehran-vows-response-and-punishment-11979563#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-08-30T21:00:59+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-03/tv1i6fuc_trump-khamenei-afp_625x300_13_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "summary": "The strikes took place on Sunday after US forces detected members of Iran's Islamic Revolutionary Guard Corps preparing the launchers to fire rockets carrying sea mines into the strategically important waterway, according to the official. US Strikes Iran's Larak Island, Tehran Vows \"Response And Punishment\".",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Before flood catastrophe, Nepal asked China for early warnings as risks mounted",
       "url": "https://www.channelnewsasia.com/asia/flood-catastrophe-nepal-asked-china-early-warnings-risks-mounted-6350661",
@@ -296,18 +308,6 @@
       "translations": {}
     },
     {
-      "title": "Curbing Reprisals in Syria",
-      "url": "https://www.crisisgroup.org/cmt/middle-east-north-africa/syria/curbing-reprisals-syria",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-08-24T12:34:00+00:00",
-      "image_url": "https://images.pexels.com/photos/6691663/pexels-photo-6691663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Fuelled by wartime grievances, mob attacks and other forms of retribution threaten Syria’s transition. Damascus has done too little to deter such acts. It should ensure visible legal consequences for violence and broaden locally rooted policing to rebuild trust among vulnerable communities. Curbing Reprisals in Syria.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "चेहरे पर चोट के निशान, मंत्री ने दिए जांच के आदेश; पुलिस ने क्या कहा?",
       "url": "https://www.amarujala.com/india-news/nurse-found-murdered-in-hyderabad-t-gana-minister-directs-police-to-conduct-probe-2026-08-31",
       "source": "Amar Ujala Breaking",
@@ -376,6 +376,42 @@
           "title": "पाकिस्तान-तुर्किये-सऊदी की पहली बैठक आज, किन मुद्दों पर चर्चा होगी; ईरान पर क्या बनेगी रणनीति?",
           "summary": "मक्का समझौता: पाकिस्तान-तुर्किये-सऊदी की पहली बैठक आज, किन मुद्दों पर चर्चा होगी; ईरान पर क्या बनेगी रणनीति?",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चीनी के दाम पर सरकार की सख्ती नाकाम,बाजारों में 60 रुपये किलो से ऊपर भाव",
+      "url": "https://www.amarujala.com/video/india-news/government-s-crackdown-on-sugar-prices-fails-market-rates-exceed-60-per-kg-2026-08-31",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T20:30:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/sugar-price-hike_709d60728db1548e08927618d47c3996.jpeg?w=1200&dpr=1.0",
+      "summary": "चीनी के दाम पर सरकार की सख्ती नाकाम, बाजारों में 60 रुपये किलो से ऊपर भाव।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीनी के दाम पर सरकार की सख्ती नाकाम,बाजारों में 60 रुपये किलो से ऊपर भाव",
+          "summary": "चीनी के दाम पर सरकार की सख्ती नाकाम, बाजारों में 60 रुपये किलो से ऊपर भाव।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका के खिलाफ मुस्लिम एकता का आह्वान, खामेनेई ने किससे और क्यों की ऐसी अपील; हालात कैसे?",
+      "url": "https://www.amarujala.com/world/west-asia-tension-us-iran-war-hormuz-airstrike-rocket-launchers-khamenei-trump-israel-shin-bet-irgc-centcom-2026-08-31",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-30T20:25:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/iirana-yathathha_f7dcf90be72c372b44614cdbb6c261ed.jpeg?w=1200&dpr=1.0",
+      "summary": "पश्चिम एशिया तनाव: अमेरिका के खिलाफ मुस्लिम एकता का आह्वान, खामेनेई ने किससे और क्यों की ऐसी अपील; हालात कैसे?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका के खिलाफ मुस्लिम एकता का आह्वान, खामेनेई ने किससे और क्यों की ऐसी अपील; हालात कैसे?",
+          "summary": "पश्चिम एशिया तनाव: अमेरिका के खिलाफ मुस्लिम एकता का आह्वान, खामेनेई ने किससे और क्यों की ऐसी अपील; हालात कैसे?",
+          "region": "अमेरिका"
         }
       }
     },
@@ -717,42 +753,6 @@
         "hi": {
           "title": "बिल्ली समझकर पहुंचे बचावकर्मी, अंदर मिली 5 साल की बच्ची, नेपाल में 2 दिन बाद मलबे से जिंदा निकली",
           "summary": "Rescue teams in the flood‑hit district of Sindhuli, Nepal, followed a stray cat that led them to a five‑year‑old girl buried in collapsed houses. The child had been trapped for two days before workers cleared the debris and brought her to safety. नेपाल में बाढ़ ने हर तरफ तबाही मचा दी है. लेकिन इस बीच राहत की खबर ये है कि 5 साल की बच्ची को सुरक्षित मलबे से निकाल लिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान वॉर के बीच PM मोदी ने कैसे बदली रणनीति? रिपोर्ट में बड़ा खुलासा",
-      "url": "https://www.abplive.com/news/india/us-newspaper-newyork-times-praises-pm-modi-smriti-irani-says-interesting-perspective-donald-trump-3182072",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-08-30T14:28:20+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/30/d99ddce42b158db82919503b8975368717880965203931324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिका से रिश्तों को लेकर वहां के प्रतिष्ठित अखबार न्यूयॉर्क टाइम्स ने भारत के प्रधानमंत्री नरेंद्र मोदी के हालिया कूटनीतिक कदमों की तारीफ की है. अखबार ने कहा है कि डोनाल्ड ट्रंप के कुछ हालिया फैसले के चलते पीएम मोदी ने अपनी कूटनीति को आर्थिक नीति में तब्दील कर दिया है. वह अमेरिका से रिश्तों को लेकर फूंक-फूंककर कदम रख रहे हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान वॉर के बीच PM मोदी ने कैसे बदली रणनीति? रिपोर्ट में बड़ा खुलासा",
-          "summary": "अमेरिका से रिश्तों को लेकर वहां के प्रतिष्ठित अखबार न्यूयॉर्क टाइम्स ने भारत के प्रधानमंत्री नरेंद्र मोदी के हालिया कूटनीतिक कदमों की तारीफ की है. अखबार ने कहा है कि डोनाल्ड ट्रंप के कुछ हालिया फैसले के चलते पीएम मोदी ने अपनी कूटनीति को आर्थिक नीति में तब्दील कर दिया है. वह अमेरिका से रिश्तों को लेकर फूंक-फूंककर कदम रख रहे हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "नेपाल हादसे पर भावुक हुईं मनीषा कोइराला, ईशा फाउंडेशन के मंच से अंतरराष्ट्रीय समुदाय से की दिल छू",
-      "url": "https://hindi.news18.com/news/nation/nepal-disaster-bollywood-actress-manisha-koirala-emotional-appeal-sadhguru-in-solidarity-event-world-community-10794028.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T14:18:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/nepal-crisis-1-2026-08-099e17971b98c09c196705a24ed881fe-1200x800.jpg",
-      "summary": "Manisha Koirala Emotional Appeal: सद्गुरु के 'इन सॉलिडेरिटी विद नेपाल' कार्यक्रम में बॉलीवुड अभिनेत्री मनीषा कोइराला बेहद भावुक नजर आईं. उन्होंने दुनिया से नेपाल की मदद करने और वहां पर्यटन को बढ़ावा देने की गुजारिश की. मनीषा ने कहा कि नेपाल को सिर्फ आपदाओं के लिए नहीं, बल्कि अपनी खूबसूरती के लिए पहचाना जाए. नेपाल हादसे पर भावुक हुईं मनीषा कोइराला, ईशा फाउंडेशन के मंच से अंतरराष्ट्रीय समुदाय से की दिल छू।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल हादसे पर भावुक हुईं मनीषा कोइराला, ईशा फाउंडेशन के मंच से अंतरराष्ट्रीय समुदाय से की दिल छू",
-          "summary": "Manisha Koirala Emotional Appeal: सद्गुरु के 'इन सॉलिडेरिटी विद नेपाल' कार्यक्रम में बॉलीवुड अभिनेत्री मनीषा कोइराला बेहद भावुक नजर आईं. उन्होंने दुनिया से नेपाल की मदद करने और वहां पर्यटन को बढ़ावा देने की गुजारिश की. मनीषा ने कहा कि नेपाल को सिर्फ आपदाओं के लिए नहीं, बल्कि अपनी खूबसूरती के लिए पहचाना जाए. नेपाल हादसे पर भावुक हुईं मनीषा कोइराला, ईशा फाउंडेशन के मंच से अंतरराष्ट्रीय समुदाय से की दिल छू।",
           "region": "एशिया-प्रशांत"
         }
       }
