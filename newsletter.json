@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-30T01:24:57.425110+00:00",
+  "generated_at": "2026-08-30T02:19:28.324379+00:00",
   "article_count": 50,
-  "total_unique_count": 258,
+  "total_unique_count": 257,
   "digest": {
     "en": "Middle East & Africa leads the board this hour with Ebola en RDC, une épidémie hors de contrôle ?. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, अस्पताल अग्निकांड पर शहबाज सख्त, नवजातों की मौत पर अफसरों पर गिरी गाज; किस-किस पर होगी कार्रवाई? मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "नेपाल के त्रिशूली में बाढ़ ने 675 लोगों की जान ली, 2,498 अब भी लापता हैं, और नदी का जलस्तर फिर से बढ़ रहा है। भारत से नेपाल पहुंची C‑130 राहत टीम ने चौथी खेप भेजी, फिर भी 275 भारतीय लापता हैं।"
   },
   "articles": [
     {
@@ -63,18 +63,6 @@
       "published_at": "2026-08-29T16:34:00+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/2knhwd/article71405680.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN.png",
       "summary": "The UN Committee on the Elimination of Racial Discrimination (UNCERD) has raised concerns over hate speech, hate crimes, citizenship policies, and the treatment of minorities in India. The committee made several recommendations, while the Indian government rejected what it called “sweeping generalisations” in the findings. Why a UN committee asked India to act against hate speech and hate crimes.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Mother reunites with 8-year-old who climbed trees to survive",
-      "url": "https://www.thehindu.com/videos/nepal-flood-miracle-mother-reunites-with-8-year-old-who-climbed-trees-to-survive/article71405649.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-08-29T16:26:12+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/bg9ufb/article71405647.ece/alternates/LANDSCAPE_1200/National%20Sports%20day.png",
-      "summary": "After a devastating glacier collapse and avalanche in Nepal, a mother believed she had lost her two sons forever. But against all odds, her 8-year-old son survived alone in the forest before being rescued and airlifted to safety, leading to an emotional reunion that has touched hearts across the country. Mother reunites with 8-year-old who climbed trees to survive.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -308,6 +296,18 @@
       "translations": {}
     },
     {
+      "title": "The EU and Türkiye: Uniting in Defence?",
+      "url": "https://www.crisisgroup.org/brf/europe/european-union-turkiye/b99-eu-and-turkiye-uniting-defence",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-07-23T14:20:00+00:00",
+      "image_url": "https://images.pexels.com/photos/16767347/pexels-photo-16767347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "As the post-World War II international order fades away, officials in Ankara and other European capitals are realising that great danger lies ahead if they do not work together on security. Threat perceptions differ, but they can still find pragmatic, flexible means of collaboration. The EU and Türkiye: Uniting in Defence?",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "अस्पताल अग्निकांड पर शहबाज सख्त, नवजातों की मौत पर अफसरों पर गिरी गाज; किस-किस पर होगी कार्रवाई?",
       "url": "https://www.amarujala.com/world/pakistan-hospital-fire-14-newborns-killed-pm-shehbaz-sharif-suspends-8-officials-orders-criminal-action-2026-08-30",
       "source": "Amar Ujala World",
@@ -344,6 +344,222 @@
       }
     },
     {
+      "title": "नेपाल में कहर बनकर टूटी बाढ़, 675 मौतें, 2498 अब भी लापता, फिर बढ़ा नदी का खतरा",
+      "url": "https://www.patrika.com/world-news/nepal-flash-flood-675-dead-2498-missing-bhotekoshi-river-india-rescue-team-20869556",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-30T02:13:25+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Nepal_9bb082.webp",
+      "summary": "Nepal flood death toll: नेपाल में आई भीषण बाढ़ में अब तक 675 लोगों की मौत हो चुकी है, जबकि 2498 से अधिक लोग लापता बताए जा रहे हैं। नेपाल के पर्यटन विभाग ने बताया कि शनिवार शाम 5:30 बजे तक कुल 753 पर्यटकों से संपर्क टूट गया था, जिनमें 589 विदेशी नागरिक शामिल हैं। जानकारी सामने आई है कि एकबार फिर भोटेकोसी नदी का जलस्तर तेजी से बढ़ा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल में कहर बनकर टूटी बाढ़, 675 मौतें, 2498 अब भी लापता, फिर बढ़ा नदी का खतरा",
+          "summary": "Nepal flood death toll: नेपाल में आई भीषण बाढ़ में अब तक 675 लोगों की मौत हो चुकी है, जबकि 2498 से अधिक लोग लापता बताए जा रहे हैं। नेपाल के पर्यटन विभाग ने बताया कि शनिवार शाम 5:30 बजे तक कुल 753 पर्यटकों से संपर्क टूट गया था, जिनमें 589 विदेशी नागरिक शामिल हैं। जानकारी सामने आई है कि एकबार फिर भोटेकोसी नदी का जलस्तर तेजी से बढ़ा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत से नेपाल पहुंचा C-130, भेजी गई राहत सामग्री की चौथी खेप, मौत का आंकड़ा 675 के पार",
+      "url": "https://hindi.news18.com/world/south-asia-nepal-flash-flood-live-updates-death-toll-rise-india-sends-aid-flight-rescue-operation-rasuwa-nuwakot-floods-bhote-koshi-livenews-10792341.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-30T02:13:24+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/nepal-flood-2026-08-f80d16e1042f1c65d6e3de107390c960-1200x800.jpg",
+      "summary": "Nepal Flash Flood Live Update: नेपाल-चीन सीमा पर आई विनाशकारी बाढ़ में 670 से अधिक लोगों की मौत हो चुकी है, जबकि करीब 3000 लोग अब भी लापता हैं. इनमें 275 भारतीय समेत कई विदेशी भी शामिल हैं. नेपाल में राहत दल बड़ी संख्या में शवों को संभालने और प्रभावित लोगों तक मदद पहुंचाने में जुटे हैं. इसी बीच भारत से राहत सामग्री की चौथी खेप लेकर भारतीय विमान नेपाल पहुंचा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत से नेपाल पहुंचा C-130, भेजी गई राहत सामग्री की चौथी खेप, मौत का आंकड़ा 675 के पार",
+          "summary": "Nepal Flash Flood Live Update: नेपाल-चीन सीमा पर आई विनाशकारी बाढ़ में 670 से अधिक लोगों की मौत हो चुकी है, जबकि करीब 3000 लोग अब भी लापता हैं. इनमें 275 भारतीय समेत कई विदेशी भी शामिल हैं. नेपाल में राहत दल बड़ी संख्या में शवों को संभालने और प्रभावित लोगों तक मदद पहुंचाने में जुटे हैं. इसी बीच भारत से राहत सामग्री की चौथी खेप लेकर भारतीय विमान नेपाल पहुंचा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘किसी के बचने की संभावना बेहद कम’, नेपाल बाढ़ में लापता 77 तीर्थयात्रियों पर ईशा फाउंडेशन का खुलासा",
+      "url": "https://www.patrika.com/world-news/nepal-floods-isha-foundation-pilgrims-missing-gyirong-port-search-operation-20869537",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-30T02:08:13+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/6098081368609854339.webp",
+      "summary": "Nepal Flood: नेपाल और चीन के सीमावर्ती इलाके में आई भीषण बाढ़ और भूस्खलन के बाद हालात बहुत गंभीर बने हुए हैं। इस प्राकृतिक आपदा की चपेट में आकर सद्गुरु के ईशा फाउंडेशन के 77 तीर्थयात्री लापता हो गए हैं। ईशा फाउंडेशन ने शनिवार को इस पूरी घटना को लेकर एक बड़ा अपडेट जारी किया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘किसी के बचने की संभावना बेहद कम’, नेपाल बाढ़ में लापता 77 तीर्थयात्रियों पर ईशा फाउंडेशन का खुलासा",
+          "summary": "Nepal Flood: नेपाल और चीन के सीमावर्ती इलाके में आई भीषण बाढ़ और भूस्खलन के बाद हालात बहुत गंभीर बने हुए हैं। इस प्राकृतिक आपदा की चपेट में आकर सद्गुरु के ईशा फाउंडेशन के 77 तीर्थयात्री लापता हो गए हैं। ईशा फाउंडेशन ने शनिवार को इस पूरी घटना को लेकर एक बड़ा अपडेट जारी किया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है?",
+      "url": "https://www.amarujala.com/live/world/nepal-flash-flood-live-updates-casualties-indians-return-death-toll-surge-search-rescue-ops-hindi-news-2026-08-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T02:03:53+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/26/napal-bugdhha_e3fedae1bcd4cdbd41a5fecba1152ecd.gif?w=1200&dpr=1.0",
+      "summary": "नेपाल बाढ़ लाइव: त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है?",
+          "summary": "नेपाल बाढ़ लाइव: त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भोटेकोशी नदी का फिर बढ़ा जलस्तर; रसुवा, नुवाकोट और धादिंग में हाई अलर्ट; जानें अब कैसे हैं हालात",
+      "url": "https://www.amarujala.com/world/nepal-bhote-koshi-river-water-level-rise-high-alert-rasuwa-nuwakot-dhading-2026-08-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-30T01:53:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/nepal-flood_6269c212103199ea837f4bec20f6764e.jpeg?w=1200&dpr=1.0",
+      "summary": "नेपाल बाढ़: भोटेकोशी नदी का फिर बढ़ा जलस्तर; रसुवा, नुवाकोट और धादिंग में हाई अलर्ट; जानें अब कैसे हैं हालात nepal-bhote-koshi-river-water-level-rise-high-alert-rasuwa-nuwakot-dhading।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भोटेकोशी नदी का फिर बढ़ा जलस्तर; रसुवा, नुवाकोट और धादिंग में हाई अलर्ट; जानें अब कैसे हैं हालात",
+          "summary": "नेपाल बाढ़: भोटेकोशी नदी का फिर बढ़ा जलस्तर; रसुवा, नुवाकोट और धादिंग में हाई अलर्ट; जानें अब कैसे हैं हालात nepal-bhote-koshi-river-water-level-rise-high-alert-rasuwa-nuwakot-dhading।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कब से शुरू होगा गणेश उत्सव? जानें गणपति स्थापना की तारीख, शुभ मुहूर्त और पूजा विधि",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/ganeshotsav-2026-know-ganpati-sthapana-date-shubh-muhurat-and-puja-vidhi-2026-08-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T01:50:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/29/ganaesha-cataratha-2026_b2034d8fbf822fa800765b18dd2975c6.jpeg?w=1200&dpr=1.0",
+      "summary": "Ganeshotsav 2026 will start on 14 September Ganeshotsav 2026: इस साल गणेश उत्सव की शुरुआत 14 सितंबर से होगी और 10 दिनों तक चलने वाला यह पर्व अनंत चतुर्दशी तक मनाया जाएगा। खास बात है कि इस दिन हरतालिका तीज का भी संयोग बन रहा है। कब से शुरू होगा गणेश उत्सव? जानें गणपति स्थापना की तारीख, शुभ मुहूर्त और पूजा विधि।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कब से शुरू होगा गणेश उत्सव? जानें गणपति स्थापना की तारीख, शुभ मुहूर्त और पूजा विधि",
+          "summary": "Ganeshotsav 2026 will start on 14 September Ganeshotsav 2026: इस साल गणेश उत्सव की शुरुआत 14 सितंबर से होगी और 10 दिनों तक चलने वाला यह पर्व अनंत चतुर्दशी तक मनाया जाएगा। खास बात है कि इस दिन हरतालिका तीज का भी संयोग बन रहा है। कब से शुरू होगा गणेश उत्सव? जानें गणपति स्थापना की तारीख, शुभ मुहूर्त और पूजा विधि।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "नागपुर में SUV की टक्कर से बुजुर्ग की मौत; छत्रपति संभाजीनगर में गैस पाइपलाइन लीक, मची अफरा-तफरी",
+      "url": "https://www.amarujala.com/india-news/maharashtra-updates-awhad-inflation-chhatrapati-sambhajinagar-gas-pipeline-leak-nagpur-pune-mumbai-polity-news-2026-08-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T01:47:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
+      "summary": "महाराष्ट्र: छत्रपति संभाजीनगर में गैस पाइपलाइन लीक, मची अफरा-तफरी; नागपुर में SUV की टक्कर से बुजुर्ग की मौत; छत्रपति संभाजीनगर में गैस पाइपलाइन लीक, मची अफरा-तफरी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नागपुर में SUV की टक्कर से बुजुर्ग की मौत; छत्रपति संभाजीनगर में गैस पाइपलाइन लीक, मची अफरा-तफरी",
+          "summary": "महाराष्ट्र: छत्रपति संभाजीनगर में गैस पाइपलाइन लीक, मची अफरा-तफरी; नागपुर में SUV की टक्कर से बुजुर्ग की मौत; छत्रपति संभाजीनगर में गैस पाइपलाइन लीक, मची अफरा-तफरी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "फलस्तीन समर्थक छात्रों का अमेरिकी वीजा रद्द नहीं होगा; अफ्रीकी देश नाइजर में सैनिक विद्रोह",
+      "url": "https://www.amarujala.com/world/world-updates-us-visa-pro-palestine-students-military-coup-in-niger-west-asia-russia-ukraine-unrest-china-news-2026-08-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-30T01:45:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_ada29d0698ac05730f42b55e98101cbe.jpeg?w=1200&dpr=1.0",
+      "summary": "विदेश के समाचार: फलस्तीन समर्थक छात्रों का अमेरिकी वीजा रद्द नहीं होगा; अफ्रीकी देश नाइजर में सैनिक विद्रोह।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फलस्तीन समर्थक छात्रों का अमेरिकी वीजा रद्द नहीं होगा; अफ्रीकी देश नाइजर में सैनिक विद्रोह",
+          "summary": "विदेश के समाचार: फलस्तीन समर्थक छात्रों का अमेरिकी वीजा रद्द नहीं होगा; अफ्रीकी देश नाइजर में सैनिक विद्रोह।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘भारत के DNA में विविधता में एकता’, न्यूयॉर्क में बोले RSS चीफ मोहन भागवत",
+      "url": "https://www.patrika.com/world-news/rss-mohan-bhagwat-new-york-indian-diaspora-unity-in-diversity-20869512",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-08-30T01:44:55+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/Mohan-Bhagwat-7.webp",
+      "summary": "RSS Chief Mohan Bhagwat Speech: राष्ट्रीय स्वयंसेवक संघ (RSS) प्रमुख मोहन भागवत ने न्यूयॉर्क में आयोजित ‘यूनिवर्सल ऑननेस सेलिब्रेशन’ में भारत की विविधता और एकता को लेकर बड़ा बयान दिया। उन्होंने कहा कि ‘विविधता में एकता’ भारत के डीएनए में शामिल है। भारत का उद्देश्य दुनिया को यह समझाना है कि विविधता के बावजूद एकता कायम रह सकती है। ‘भारत के DNA में विविधता में एकता’, न्यूयॉर्क में बोले RSS चीफ मोहन भागवत।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘भारत के DNA में विविधता में एकता’, न्यूयॉर्क में बोले RSS चीफ मोहन भागवत",
+          "summary": "RSS Chief Mohan Bhagwat Speech: राष्ट्रीय स्वयंसेवक संघ (RSS) प्रमुख मोहन भागवत ने न्यूयॉर्क में आयोजित ‘यूनिवर्सल ऑननेस सेलिब्रेशन’ में भारत की विविधता और एकता को लेकर बड़ा बयान दिया। उन्होंने कहा कि ‘विविधता में एकता’ भारत के डीएनए में शामिल है। भारत का उद्देश्य दुनिया को यह समझाना है कि विविधता के बावजूद एकता कायम रह सकती है। ‘भारत के DNA में विविधता में एकता’, न्यूयॉर्क में बोले RSS चीफ मोहन भागवत।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'कर्मभूमि के प्रति वफादार रहें', अमेरिका से RSS चीफ मोहन भागवत का मैसेज, बोले- आज धर्म पूजा-पाठ तक",
+      "url": "https://hindi.news18.com/news/nation/rashtriya-swayamsevak-sangh-rss-chief-mohan-bhagwat-clear-message-to-indian-diaspora-be-loyal-to-motherland-10792381.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-30T01:38:03+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/mohan-bhagwat-usa-2026-08-0618749a5783842ce8bec69f46515b00-1200x800.jpg",
+      "summary": "Mohan Bhagwat in America: राष्‍ट्रीय स्‍वयंसेवक संघ के प्रमुख मोहन भागवत अमेरिका के दौरे पर हैं. वहां उन्‍होंने मैडिसन स्‍क्‍वायर गार्डन में हजारों की तादाद में मौजूद लोगों को संबोधित किया. उन्‍होंने धर्म से लेकर समाज और भारतीय मूल के लोगों के कर्तव्‍य पर बातें कीं. 'कर्मभूमि के प्रति वफादार रहें', अमेरिका से RSS चीफ मोहन भागवत का मैसेज, बोले- आज धर्म पूजा-पाठ तक।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'कर्मभूमि के प्रति वफादार रहें', अमेरिका से RSS चीफ मोहन भागवत का मैसेज, बोले- आज धर्म पूजा-पाठ तक",
+          "summary": "Mohan Bhagwat in America: राष्‍ट्रीय स्‍वयंसेवक संघ के प्रमुख मोहन भागवत अमेरिका के दौरे पर हैं. वहां उन्‍होंने मैडिसन स्‍क्‍वायर गार्डन में हजारों की तादाद में मौजूद लोगों को संबोधित किया. उन्‍होंने धर्म से लेकर समाज और भारतीय मूल के लोगों के कर्तव्‍य पर बातें कीं. 'कर्मभूमि के प्रति वफादार रहें', अमेरिका से RSS चीफ मोहन भागवत का मैसेज, बोले- आज धर्म पूजा-पाठ तक।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मोहन भागवत के अमेरिका दौरे की झलकियां: किन बातों पर आरएसएस प्रमुख का जोर, ओवैसी-कांग्रेस की",
+      "url": "https://www.amarujala.com/world/mohan-bhagwat-america-visit-rss-chief-s-key-remarks-on-hinduism-unity-and-religious-diversity-2026-08-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-30T01:37:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/amaraka-ma-mahana-bhagavata-na-thharama-oura-ekata-para-kaya-kaha_c85d244b4d1308e4bce744df49201d44.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रतिक्रिया क्या? मोहन भागवत के अमेरिका दौरे की झलकियां: किन बातों पर आरएसएस प्रमुख का जोर, ओवैसी-कांग्रेस की।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मोहन भागवत के अमेरिका दौरे की झलकियां: किन बातों पर आरएसएस प्रमुख का जोर, ओवैसी-कांग्रेस की",
+          "summary": "प्रतिक्रिया क्या? मोहन भागवत के अमेरिका दौरे की झलकियां: किन बातों पर आरएसएस प्रमुख का जोर, ओवैसी-कांग्रेस की।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "उत्तर प्रदेश समेत देश के 26 राज्यों में मूसलाधार बारिश का IMD ने जारी किया अलर्ट!",
+      "url": "https://www.amarujala.com/video/india-news/the-imd-has-issued-an-alert-for-torrential-rain-across-26-states-in-the-country-including-uttar-pradesh-2026-08-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-30T01:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/todays-weather_ef8178bdfb3c97513428df78dd7410fd.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर प्रदेश समेत देश के 26 राज्यों में मूसलाधार बारिश का IMD ने जारी किया अलर्ट!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उत्तर प्रदेश समेत देश के 26 राज्यों में मूसलाधार बारिश का IMD ने जारी किया अलर्ट!",
+          "summary": "उत्तर प्रदेश समेत देश के 26 राज्यों में मूसलाधार बारिश का IMD ने जारी किया अलर्ट!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "नेपाल में भीषण तबाही से 01 लाख लोग बेघर, अब जिंदगी बचाने की जंग हुई तेज!",
       "url": "https://www.amarujala.com/video/world/massive-devastation-in-nepal-leaves-100-000-homeless-the-battle-to-save-lives-has-now-intensified-2026-08-30",
       "source": "Amar Ujala World",
@@ -357,24 +573,6 @@
         "hi": {
           "title": "नेपाल में भीषण तबाही से 01 लाख लोग बेघर, अब जिंदगी बचाने की जंग हुई तेज!",
           "summary": "नेपाल में भीषण तबाही से 01 लाख लोग बेघर, अब जिंदगी बचाने की जंग हुई तेज!",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है?",
-      "url": "https://www.amarujala.com/live/world/nepal-flash-flood-live-updates-casualties-indians-return-death-toll-surge-search-rescue-ops-hindi-news-2026-08-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T00:52:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/26/napal-bugdhha_e3fedae1bcd4cdbd41a5fecba1152ecd.gif?w=1200&dpr=1.0",
-      "summary": "नेपाल बाढ़ लाइव: त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है?",
-          "summary": "नेपाल बाढ़ लाइव: त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है?",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -506,24 +704,6 @@
       }
     },
     {
-      "title": "Weather Forecast 30 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल",
-      "url": "https://www.amarujala.com/video/india-news/weather-forecast-30-aug-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-08-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T00:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/weather-forecast_7f0520ddb61cef0a73cf1ea1ba09558c.jpeg?w=1200&dpr=1.0",
-      "summary": "| Weather Report Today।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Weather Forecast 30 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "| Weather Report Today।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "पीएम मोदी के उज्बेकिस्तान दौरा का दूसरा दिन, दलीप ट्रॉफी के दोनों सेमीफाइनल मुकाबलों की शुरुआत",
       "url": "https://www.amarujala.com/india-news/30-august-2026-major-event-2026-08-29",
       "source": "Amar Ujala Breaking",
@@ -538,24 +718,6 @@
           "title": "पीएम मोदी के उज्बेकिस्तान दौरा का दूसरा दिन, दलीप ट्रॉफी के दोनों सेमीफाइनल मुकाबलों की शुरुआत",
           "summary": "आज के दिन: पीएम मोदी के उज्बेकिस्तान दौरा का दूसरा दिन, दलीप ट्रॉफी के दोनों सेमीफाइनल मुकाबलों की शुरुआत।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ऑनलाइन गेमिंग में पैसे गंवाने के बाद 11वीं के छात्र ने की खुदकुशी, बहन के लिए रोहित ने क्या लिखा?",
-      "url": "https://www.amarujala.com/india-news/jalgaon-student-suicide-class-11-student-dies-after-losing-money-in-online-gaming-2026-08-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T00:28:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/rakha-bthhavaii-oura-fara-uthaya-khafanaka-kathama_c59e0a49e1a03693b724855456f36cad.jpeg?w=1200&dpr=1.0",
-      "summary": "A 16‑year‑old student from Maharashtra died by suicide after losing ₹5,000 in an online game. The boy, named Rohit, had been playing the game for weeks and could not recover the money. Rohit’s brother, also named Rohit, wrote a heartfelt note to their sister, expressing grief and urging her to seek help. The incident has prompted local authorities to review online gambling regulations for minors.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ऑनलाइन गेमिंग में पैसे गंवाने के बाद 11वीं के छात्र ने की खुदकुशी, बहन के लिए रोहित ने क्या लिखा?",
-          "summary": "A 16‑year‑old student from Maharashtra died by suicide after losing ₹5,000 in an online game. The boy, named Rohit, had been playing the game for weeks and could not recover the money. Rohit’s brother, also named Rohit, wrote a heartfelt note to their sister, expressing grief and urging her to seek help. The incident has prompted local authorities to review online gambling regulations for minors.",
-          "region": "दुनिया"
         }
       }
     },
@@ -578,182 +740,20 @@
       }
     },
     {
-      "title": "26 राज्यों में बारिश के आसार; नेपाल जलप्रलय में मृतकों का आंकड़ा 675 पार; मोहन भागवत का यूएस दौरा",
-      "url": "https://www.amarujala.com/india-news/top-news-updates-rain-alert-in-26-states-nepal-flood-death-toll-crosses-675-mohan-bhagwat-us-visit-2026-08-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-30T00:14:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/aaja-ka-bugdha-khabra_b9b5228f75b63a2f193f5a591e50a079.jpeg?w=1200&dpr=1.0",
-      "summary": "सुर्खियां: 26 राज्यों में बारिश के आसार; नेपाल जलप्रलय में मृतकों का आंकड़ा 675 पार; मोहन भागवत का यूएस दौरा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "26 राज्यों में बारिश के आसार; नेपाल जलप्रलय में मृतकों का आंकड़ा 675 पार; मोहन भागवत का यूएस दौरा",
-          "summary": "सुर्खियां: 26 राज्यों में बारिश के आसार; नेपाल जलप्रलय में मृतकों का आंकड़ा 675 पार; मोहन भागवत का यूएस दौरा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान का विदेशी व्यापार 35% घटा; एचडीएफसी बैंक सीईओ शशिधरन दोबारा पद संभालने के इच्छुक नहीं",
-      "url": "https://www.amarujala.com/business/business-diary/trade-business-updates-iran-foreign-trade-decline-hdfc-bank-ceo-india-forex-gold-silver-crude-rates-hindi-news-2026-08-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-08-30T00:04:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/16/business-updates_5bd5a4d504c2ee303c82649060be7bf5.jpeg?w=1200&dpr=1.0",
-      "summary": "अर्थ जगत समाचार: ईरान का विदेशी व्यापार 35% घटा; एचडीएफसी बैंक सीईओ शशिधरन दोबारा पद संभालने के इच्छुक नहीं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान का विदेशी व्यापार 35% घटा; एचडीएफसी बैंक सीईओ शशिधरन दोबारा पद संभालने के इच्छुक नहीं",
-          "summary": "अर्थ जगत समाचार: ईरान का विदेशी व्यापार 35% घटा; एचडीएफसी बैंक सीईओ शशिधरन दोबारा पद संभालने के इच्छुक नहीं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "फलस्तीन समर्थक छात्रों का अमेरिकी वीजा रद्द नहीं होगा; अफ्रीकी देश नाइजर में सैनिक विद्रोह",
-      "url": "https://www.amarujala.com/world/world-updates-us-visa-pro-palestine-students-military-coup-in-niger-west-asia-russia-ukraine-unrest-china-news-2026-08-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-29T23:50:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_ada29d0698ac05730f42b55e98101cbe.jpeg?w=1200&dpr=1.0",
-      "summary": "विदेश के समाचार: फलस्तीन समर्थक छात्रों का अमेरिकी वीजा रद्द नहीं होगा; अफ्रीकी देश नाइजर में सैनिक विद्रोह।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फलस्तीन समर्थक छात्रों का अमेरिकी वीजा रद्द नहीं होगा; अफ्रीकी देश नाइजर में सैनिक विद्रोह",
-          "summary": "विदेश के समाचार: फलस्तीन समर्थक छात्रों का अमेरिकी वीजा रद्द नहीं होगा; अफ्रीकी देश नाइजर में सैनिक विद्रोह।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "35 का प्याज, दिल्ली में 70 का: कांदा एक्सप्रेस के 453.65 टन प्याज लेकर पहुंचने के बाद भी नहीं मिली",
-      "url": "https://www.amarujala.com/delhi-ncr/no-relief-in-delhi-even-after-the-arrival-of-the-kanda-express-carrying-onions-2026-08-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-29T23:13:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/29/thall-pahaca-katha-ekasaparasa_3332c220874a52f494a305d905ae8919.jpeg?w=1200&dpr=1.0",
-      "summary": "केंद्र सरकार ने महंगे प्याज से राहत देने के लिए नासिक से कांदा एक्सप्रेस चलाकर 453.65 टन प्याज दिल्ली पहुंचाया। बफर स्टॉक के इस प्याज को 35 रुपये किलो की दर से उपभोक्ताओं तक पहुंचाने का दावा भी किया गया। 35 का प्याज, दिल्ली में 70 का: कांदा एक्सप्रेस के 453.65 टन प्याज लेकर पहुंचने के बाद भी नहीं मिली।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "35 का प्याज, दिल्ली में 70 का: कांदा एक्सप्रेस के 453.65 टन प्याज लेकर पहुंचने के बाद भी नहीं मिली",
-          "summary": "केंद्र सरकार ने महंगे प्याज से राहत देने के लिए नासिक से कांदा एक्सप्रेस चलाकर 453.65 टन प्याज दिल्ली पहुंचाया। बफर स्टॉक के इस प्याज को 35 रुपये किलो की दर से उपभोक्ताओं तक पहुंचाने का दावा भी किया गया। 35 का प्याज, दिल्ली में 70 का: कांदा एक्सप्रेस के 453.65 टन प्याज लेकर पहुंचने के बाद भी नहीं मिली।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कैब चालकों की कमाई पर कैंची, यात्रियों में बढ़ा किराये का डर, ऑटो-टैक्सी हड़ताल की चेतावनी",
-      "url": "https://www.amarujala.com/delhi-ncr/rise-in-cng-prices-in-delhi-impacts-the-earnings-of-cab-and-auto-rickshaw-drivers-2026-08-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-29T22:46:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/thall-ma-saenaja-mahaga_e592cbbe2717ed417ba155da4df29eab.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली में सीएनजी के दाम बढ़ने से कैब और ऑटो चालकों की कमाई का गणित बिगड़ गया है। इंद्रप्रस्थ गैस लिमिटेड (आईजीएल) ने सीएनजी की कीमत 3.89 रुपये प्रति किलो बढ़ा दी है। कैब चालकों की कमाई पर कैंची, यात्रियों में बढ़ा किराये का डर, ऑटो-टैक्सी हड़ताल की चेतावनी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैब चालकों की कमाई पर कैंची, यात्रियों में बढ़ा किराये का डर, ऑटो-टैक्सी हड़ताल की चेतावनी",
-          "summary": "दिल्ली में सीएनजी के दाम बढ़ने से कैब और ऑटो चालकों की कमाई का गणित बिगड़ गया है। इंद्रप्रस्थ गैस लिमिटेड (आईजीएल) ने सीएनजी की कीमत 3.89 रुपये प्रति किलो बढ़ा दी है। कैब चालकों की कमाई पर कैंची, यात्रियों में बढ़ा किराये का डर, ऑटो-टैक्सी हड़ताल की चेतावनी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "वाराणसी बनेगा प्रदेश का पहला अंतरराष्ट्रीय क्रूज टर्मिनल, 200 करोड़ खर्च होंगे; बढ़ेगा",
-      "url": "https://www.amarujala.com/uttar-pradesh/varanasi/uttar-pradesh-s-first-international-cruise-terminal-will-be-built-in-varanasi-2026-08-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-29T22:24:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/varanaesa-ma-bnaga-parathasha-ka-pahal-atararashhataraya-kanprja-taramanal_770f6fef7c466557c59f938aafe7abab.jpeg?w=1200&dpr=1.0",
-      "summary": "वाराणसी में प्रदेश का पहला अंतरराष्ट्रीय क्रूज टर्मिनल बनाया जाएगा। आईडब्ल्यूएआई की ओर से निर्माण कराया जाएगा। नगर निगम सामनेघाट में 2 एकड़ जमीन उपलब्ध कराएगा। वाराणसी बनेगा प्रदेश का पहला अंतरराष्ट्रीय क्रूज टर्मिनल, 200 करोड़ खर्च होंगे; बढ़ेगा।",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वाराणसी बनेगा प्रदेश का पहला अंतरराष्ट्रीय क्रूज टर्मिनल, 200 करोड़ खर्च होंगे; बढ़ेगा",
-          "summary": "वाराणसी में प्रदेश का पहला अंतरराष्ट्रीय क्रूज टर्मिनल बनाया जाएगा। आईडब्ल्यूएआई की ओर से निर्माण कराया जाएगा। नगर निगम सामनेघाट में 2 एकड़ जमीन उपलब्ध कराएगा। वाराणसी बनेगा प्रदेश का पहला अंतरराष्ट्रीय क्रूज टर्मिनल, 200 करोड़ खर्च होंगे; बढ़ेगा।",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "नेपाल जलप्रलय पर चीन की चुप्पी पर उठे सवाल, तिब्बत ने बीजिंग पर दागे कई सवाल!",
-      "url": "https://www.amarujala.com/video/world/questions-raised-over-china-s-silence-on-the-nepal-deluge-tibet-fires-a-barrage-of-questions-at-beijing-2026-08-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-29T22:09:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/nepal-flood-update_e9cb7526bdf219508e8e73115adc8db8.jpeg?w=1200&dpr=1.0",
-      "summary": "नेपाल जलप्रलय पर चीन की चुप्पी पर उठे सवाल, तिब्बत ने बीजिंग पर दागे कई सवाल!",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल जलप्रलय पर चीन की चुप्पी पर उठे सवाल, तिब्बत ने बीजिंग पर दागे कई सवाल!",
-          "summary": "नेपाल जलप्रलय पर चीन की चुप्पी पर उठे सवाल, तिब्बत ने बीजिंग पर दागे कई सवाल!",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन में गोला-बारूद के गोदाम पर रूस ने किया हमला, 37 लोगों की मौत",
-      "url": "https://www.patrika.com/world-news/russia-attack-on-munitions-warehouse-in-ukraine-killed-37-people-20869449",
+      "title": "एआई की दुनिया में छाया भारत, टाइम टॉप-100 की लिस्ट में 10 भारतीयों ने बनाई जगह",
+      "url": "https://www.patrika.com/world-news/10-indians-make-it-to-time100-ai-2026-list-20869494",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-08-29T20:05:12+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/russia-attack-on-munition-warehouse-in-ukraine.webp",
-      "summary": "Russia struck a munitions depot in Ukraine, killing 37 civilians and soldiers. The strike was carried out by Russian artillery on 12 April 2026. The attack added to ongoing hostilities between the two countries. रूस और यूक्रेन के बीच युद्ध (Russia-Ukraine War) 4 साल से ज़्यादा समय से जारी है। 24 फरवरी, 2022 को जब यह युद्ध शुरू हुआ था, तब लगा था कि कुछ दिन में ही रूस इस युद्ध को जीत लेगा, लेकिन लगातार मिले इंटरनेशनल सपोर्ट की वजह से यूक्रेन अभी भी इस युद्ध में डटा हुआ है।",
-      "region": "Europe & Russia",
+      "published_at": "2026-08-30T00:19:33+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/ai-_2ae31a.webp",
+      "summary": "दुनिया की प्रतिष्ठित टाइम मैगजीन ने एआई यानी आर्टिफिशियल इंटेलिजेंस (AI – Artificial Intelligence) की दुनिया में 2026 में सबसे बड़ा प्रभाव डालने वाले 100 दिग्गजों की लिस्ट (Time100 AI 2026 List) जारी की है। इस लिस्ट में 10 प्रभावशाली भारतीयों ने भी अपनी जगह बनाई है।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यूक्रेन में गोला-बारूद के गोदाम पर रूस ने किया हमला, 37 लोगों की मौत",
-          "summary": "Russia struck a munitions depot in Ukraine, killing 37 civilians and soldiers. The strike was carried out by Russian artillery on 12 April 2026. The attack added to ongoing hostilities between the two countries. रूस और यूक्रेन के बीच युद्ध (Russia-Ukraine War) 4 साल से ज़्यादा समय से जारी है। 24 फरवरी, 2022 को जब यह युद्ध शुरू हुआ था, तब लगा था कि कुछ दिन में ही रूस इस युद्ध को जीत लेगा, लेकिन लगातार मिले इंटरनेशनल सपोर्ट की वजह से यूक्रेन अभी भी इस युद्ध में डटा हुआ है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "नेतन्याहू वेस्ट बैंक हिंसा पर क्यों नाराज, इस्राइल-हमास और ईरान-अमेरिका जंग में क्या बदला?",
-      "url": "https://www.amarujala.com/world/west-asia-crisis-why-netanyahu-condemn-west-bank-violence-what-changed-in-israel-hamas-and-iran-us-war-2026-08-30",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-08-29T20:02:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/pashacama-eshaya-sakata_dc1e98ccc47d3eaa7352663d33ec131f.jpeg?w=1200&dpr=1.0",
-      "summary": "पश्चिम एशिया संकट: नेतन्याहू वेस्ट बैंक हिंसा पर क्यों नाराज, इस्राइल-हमास और ईरान-अमेरिका जंग में क्या बदला?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेतन्याहू वेस्ट बैंक हिंसा पर क्यों नाराज, इस्राइल-हमास और ईरान-अमेरिका जंग में क्या बदला?",
-          "summary": "पश्चिम एशिया संकट: नेतन्याहू वेस्ट बैंक हिंसा पर क्यों नाराज, इस्राइल-हमास और ईरान-अमेरिका जंग में क्या बदला?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन ने रूस पर किया ड्रोन अटैक, 3 लोगों की मौत",
-      "url": "https://www.patrika.com/world-news/ukraine-drone-attack-killed-3-people-in-belgorod-of-russia-20869415",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-08-29T19:45:46+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/08/ukraine-drone-attack-against-russia.webp",
-      "summary": "रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 4 साल से ज़्यादा समय बीत चुका है। 24 फरवरी, 2022 को शुरू हुए इस युद्ध के जल्द ही खत्म होने की कोई उम्मीद नज़र नहीं आ रही है। इस युद्ध की वजह से दोनों देशों को काफी नुकसान हुआ है। यूक्रेन में जहाँ इस युद्ध की वजह से अब तक काफी तबाही मच चुकी है, वहीँ अब रूस पर भी हमले बढ़ गए हैं।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन ने रूस पर किया ड्रोन अटैक, 3 लोगों की मौत",
-          "summary": "रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 4 साल से ज़्यादा समय बीत चुका है। 24 फरवरी, 2022 को शुरू हुए इस युद्ध के जल्द ही खत्म होने की कोई उम्मीद नज़र नहीं आ रही है। इस युद्ध की वजह से दोनों देशों को काफी नुकसान हुआ है। यूक्रेन में जहाँ इस युद्ध की वजह से अब तक काफी तबाही मच चुकी है, वहीँ अब रूस पर भी हमले बढ़ गए हैं।",
-          "region": "यूरोप और रूस"
+          "title": "एआई की दुनिया में छाया भारत, टाइम टॉप-100 की लिस्ट में 10 भारतीयों ने बनाई जगह",
+          "summary": "दुनिया की प्रतिष्ठित टाइम मैगजीन ने एआई यानी आर्टिफिशियल इंटेलिजेंस (AI – Artificial Intelligence) की दुनिया में 2026 में सबसे बड़ा प्रभाव डालने वाले 100 दिग्गजों की लिस्ट (Time100 AI 2026 List) जारी की है। इस लिस्ट में 10 प्रभावशाली भारतीयों ने भी अपनी जगह बनाई है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
