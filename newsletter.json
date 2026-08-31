@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-31T00:39:57.564093+00:00",
+  "generated_at": "2026-08-31T01:29:07.454305+00:00",
   "article_count": 50,
-  "total_unique_count": 254,
+  "total_unique_count": 257,
   "digest": {
-    "en": "US airstrikes on Iranian missile launchers in the Strait of Hormuz dominate this hour. At the same time, Nepal battles flood devastation, with the death toll at 788 and recovery crews struggling to locate bodies.",
-    "hi": "आज पाकिस्तान, तुर्की और सऊदी अरब की पहली त्रिपक्षीय बैठक दुबई में हुई, जहाँ जलवायु वित्त, ऊर्जा सहयोग और क्षेत्रीय सुरक्षा पर चर्चा हुई। इसी दौरान भारत में RSS प्रमुख मोहन भागवत ने टोरंटो में हिंदू सम्मान का सार्वजनिक बयान दिया, जिससे विदेश नीति पर अलग फोकस दिखा।"
+    "en": "U.S. airstrikes on Iranian missile launchers in the Strait of Hormuz dominate this hour, marking the latest escalation between Washington and Tehran.",
+    "hi": "आज पाकिस्तान, तुर्की और सऊदी अरब की पहली त्रिपक्षीय बैठक इस्लामाबाद में हुई, जहाँ जल सुरक्षा, ऊर्जा सहयोग और अफगानिस्तान की स्थिरता पर चर्चा हुई। उसी समय अमेरिकी प्रशासन ईरान के वित्तीय लेनदेन पर नया प्रतिबंध लागू करने की तैयारी में है।"
   },
   "articles": [
     {
@@ -224,18 +224,6 @@
       "translations": {}
     },
     {
-      "title": "Who counts as ‘foreign’ in Indonesia’s deepening China ties?",
-      "url": "https://asiatimes.com/2026/08/who-counts-as-foreign-in-indonesias-deepening-china-ties/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-08-28T08:49:31+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/08/Prabowo-Subianto-Indonesia.jpg",
-      "summary": "When China’s Defense Minister Admiral Dong Jun visited Jakarta on August 21, he and Indonesia’s Defense Minister Sjafrie Sjamsoeddin agreed to deepen military cooperation. At a joint press conference, Dong said Indonesia and China would work together against the “malicious intentions” of foreign powers. The two countries also agreed to expand defense cooperation. The statement [] The post Who cou.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
       "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
       "source": "The Guardian",
@@ -308,6 +296,18 @@
       "translations": {}
     },
     {
+      "title": "On Our Radar",
+      "url": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-08-21T00:00:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done. On Our Radar.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "चेहरे पर चोट के निशान, मंत्री ने दिए जांच के आदेश; पुलिस ने क्या कहा?",
       "url": "https://www.amarujala.com/india-news/nurse-found-murdered-in-hyderabad-t-gana-minister-directs-police-to-conduct-probe-2026-08-31",
       "source": "Amar Ujala Breaking",
@@ -344,11 +344,101 @@
       }
     },
     {
+      "title": "हिरोशिमा परमाणु बम से भी ज्यादा खतरनाक थी नेपाल की बाढ़, 788 लोगों की मौत",
+      "url": "https://hindi.news18.com/world/south-asia-nepal-flash-flood-live-update-rescue-operation-continues-287-indians-missing-death-toll-rise-livenews-ws-l-10794563.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-08-31T01:23:32+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/nepal-floods-1-2026-08-49acd66ec138e82826a37d089aeb2a13-1200x800.jpg",
+      "summary": "Nepal Flood News Update: नेपाल में आई बाढ़ की वजह से मची तबाही के निशान दिन बीतने के साथ-साथ सामने आ रहे हैं. इस विनाशकारी बाढ़ ने अब तक 788 लोगों के मरने की खबर आई है, जबकि 250 से ज्यादा भारतीयों समेत 2500 लोग अब भी लापता हैं. रेस्क्यू का काम तेजी से जारी है लेकिन सिल्ट की वजह से बनी झीलें अब भी चिंता की वजह बनी हुई हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिरोशिमा परमाणु बम से भी ज्यादा खतरनाक थी नेपाल की बाढ़, 788 लोगों की मौत",
+          "summary": "Nepal Flood News Update: नेपाल में आई बाढ़ की वजह से मची तबाही के निशान दिन बीतने के साथ-साथ सामने आ रहे हैं. इस विनाशकारी बाढ़ ने अब तक 788 लोगों के मरने की खबर आई है, जबकि 250 से ज्यादा भारतीयों समेत 2500 लोग अब भी लापता हैं. रेस्क्यू का काम तेजी से जारी है लेकिन सिल्ट की वजह से बनी झीलें अब भी चिंता की वजह बनी हुई हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान से लेनदेन पर अमेरिका सख्त: एक और बैंक पर प्रतिबंध लगाने की तैयारी में ट्रंप प्रशासन; भारत-चीन",
+      "url": "https://www.amarujala.com/world/us-plans-to-sanction-another-bank-in-effort-to-clamp-down-on-iran-transactions-bessent-2026-08-31",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-31T01:11:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/04/donald-trump_ac2d04f478d74d426c61ccbf0cccb8b6.jpeg?w=1200&dpr=1.0",
+      "summary": "पर भी नजर? ईरान से लेनदेन पर अमेरिका सख्त: एक और बैंक पर प्रतिबंध लगाने की तैयारी में ट्रंप प्रशासन; भारत-चीन पर भी नजर?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान से लेनदेन पर अमेरिका सख्त: एक और बैंक पर प्रतिबंध लगाने की तैयारी में ट्रंप प्रशासन; भारत-चीन",
+          "summary": "पर भी नजर? ईरान से लेनदेन पर अमेरिका सख्त: एक और बैंक पर प्रतिबंध लगाने की तैयारी में ट्रंप प्रशासन; भारत-चीन पर भी नजर?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कजरी तीज पर जरूर पढ़ें ये कथा, अखंड सौभाग्य का मिलेगा आशीर्वाद",
+      "url": "https://www.amarujala.com/spirituality/festivals/kajari-teej-vrat-katha-read-the-vrat-katha-for-marital-happiness-and-a-long-life-for-your-husband-2026-08-31",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-31T01:06:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/08/21/kajari-teej_1221cd24731cdf4db545fd5bd2bdb33e.jpeg?w=1200&dpr=1.0",
+      "summary": "Kajari Teej Vrat Katha: कजरी तीज पर भगवान शिव और मां पार्वती की पूजा के साथ व्रत कथा पढ़ने की परंपरा है। मान्यता है कि कथा श्रवण से वैवाहिक सुख, पति की दीर्घायु और अखंड सौभाग्य का आशीर्वाद मिलता है। कजरी तीज पर जरूर पढ़ें ये कथा, अखंड सौभाग्य का मिलेगा आशीर्वाद।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कजरी तीज पर जरूर पढ़ें ये कथा, अखंड सौभाग्य का मिलेगा आशीर्वाद",
+          "summary": "Kajari Teej Vrat Katha: कजरी तीज पर भगवान शिव और मां पार्वती की पूजा के साथ व्रत कथा पढ़ने की परंपरा है। मान्यता है कि कथा श्रवण से वैवाहिक सुख, पति की दीर्घायु और अखंड सौभाग्य का आशीर्वाद मिलता है। कजरी तीज पर जरूर पढ़ें ये कथा, अखंड सौभाग्य का मिलेगा आशीर्वाद।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आज रखा जाएगा कजरी तीज का व्रत, जानें पूजा विधि, शुभ मुहूर्त, व्रत कथा, आरती और मंत्र",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/kajari-teej-2026-know-vrat-date-puja-vidhi-auspicious-timing-katha-aarti-and-mantras-in-hindi-2026-08-31",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-08-31T01:01:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/kajara-taja-2026_4bb12cbed8f7cda72d70082a68b3207a.jpeg?w=1200&dpr=1.0",
+      "summary": "Kajari Teej 2026: आज 31 अगस्त 2026 को कजरी तीज का पावन व्रत रखा जा रहा है। इस दिन महिलाएं भगवान शिव और मां पार्वती की पूजा कर अखंड सौभाग्य की कामना करती हैं। यहां जानें पूरी पूजा विधि, शुभ मुहूर्त, व्रत कथा, आरती, मंत्र और पूजा से जुड़ी जरूरी बातें। आज रखा जाएगा कजरी तीज का व्रत, जानें पूजा विधि, शुभ मुहूर्त, व्रत कथा, आरती और मंत्र।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज रखा जाएगा कजरी तीज का व्रत, जानें पूजा विधि, शुभ मुहूर्त, व्रत कथा, आरती और मंत्र",
+          "summary": "Kajari Teej 2026: आज 31 अगस्त 2026 को कजरी तीज का पावन व्रत रखा जा रहा है। इस दिन महिलाएं भगवान शिव और मां पार्वती की पूजा कर अखंड सौभाग्य की कामना करती हैं। यहां जानें पूरी पूजा विधि, शुभ मुहूर्त, व्रत कथा, आरती, मंत्र और पूजा से जुड़ी जरूरी बातें। आज रखा जाएगा कजरी तीज का व्रत, जानें पूजा विधि, शुभ मुहूर्त, व्रत कथा, आरती और मंत्र।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सितंबर से सरकार ने बदला चीनी बिक्री का नियम, आम लोगों को मिलेगी सस्ती चीनी?",
+      "url": "https://www.amarujala.com/video/india-news/government-changes-sugar-sales-rules-starting-september-will-the-common-man-get-cheaper-sugar-2026-08-31",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-08-31T01:00:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/sugar-price-hike_9657dbd63936145e0cb1f9f8a7c5c587.jpeg?w=1200&dpr=1.0",
+      "summary": "सितंबर से सरकार ने बदला चीनी बिक्री का नियम, आम लोगों को मिलेगी सस्ती चीनी?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सितंबर से सरकार ने बदला चीनी बिक्री का नियम, आम लोगों को मिलेगी सस्ती चीनी?",
+          "summary": "सितंबर से सरकार ने बदला चीनी बिक्री का नियम, आम लोगों को मिलेगी सस्ती चीनी?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "'हिन्‍दू सबका सम्‍मान और सबको स्‍वीकार करते हैं', RSS चीफ मोहन भागवत ने कनाडा में कही ऐसी बात, बजने",
       "url": "https://hindi.news18.com/news/nation/rashtriya-swayamsevak-sangh-rss-chief-mohan-bhagwat-in-canada-speaks-on-hindu-muslim-christian-jews-toronto-event-10794493.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-31T00:38:30+00:00",
+      "published_at": "2026-08-31T00:58:06+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/mohan-bhagwat-7-2026-08-2171100a1c754043efa7e1203894c5c2-1200x800.jpg",
       "summary": "Mohan Bhagwat In Canada: राष्‍ट्रीय स्‍वयंसेवक संघ के प्रमुख मोहन भागवत अमेरिका के बाद कनाडा पहुंचे हैं. वहां उन्‍होंने टोरंटो में आयोजित एक कार्यक्रम में हिन्‍दुओं को लेकर बड़ी बात कही है. इस मौके पर उन्‍होंने मुस्लिम, ईसाई और यहूदियों का भी उल्‍लेख किया है. 'हिन्‍दू सबका सम्‍मान और सबको स्‍वीकार करते हैं', RSS चीफ मोहन भागवत ने कनाडा में कही ऐसी बात, बजने।",
       "region": "Americas",
@@ -362,11 +452,29 @@
       }
     },
     {
+      "title": "अमेरिका में खुद फ्लेक्स उगाकर कपड़े बना रहीं ईव ओग्डेन शब, क्यों चुना पुराना तरीका?",
+      "url": "https://www.amarujala.com/world/fast-fashion-eve-ogden-schaub-grows-flax-makes-linen-clothes-vermont-2026-08-31",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-31T00:47:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/eveoschaub_f257978d89d53b5cad54489650c24189.jpeg?w=1200&dpr=1.0",
+      "summary": "Eva Ogden Shab began cultivating flax on a 10‑acre farm in North Carolina to spin her own linen fabric. The move lets her bypass overseas fast‑fashion supply chains and market the cloth as fully domestic, reducing shipping emissions and import costs. फास्ट फैशन से दूरी: अमेरिका में खुद फ्लेक्स उगाकर कपड़े बना रहीं ईव ओग्डेन शब, क्यों चुना पुराना तरीका?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में खुद फ्लेक्स उगाकर कपड़े बना रहीं ईव ओग्डेन शब, क्यों चुना पुराना तरीका?",
+          "summary": "Eva Ogden Shab began cultivating flax on a 10‑acre farm in North Carolina to spin her own linen fabric. The move lets her bypass overseas fast‑fashion supply chains and market the cloth as fully domestic, reducing shipping emissions and import costs. फास्ट फैशन से दूरी: अमेरिका में खुद फ्लेक्स उगाकर कपड़े बना रहीं ईव ओग्डेन शब, क्यों चुना पुराना तरीका?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
       "title": "होर्मुज की आग पहुंची जॉर्डन, ईरान का अमेरिकी बेस पर जबरदस्त अटैक, ट्रंप बोले- जवानों के लिए दुआ करें",
       "url": "https://hindi.news18.com/world/middle-east-iran-severe-attacks-us-airbases-in-jordan-strait-of-hormuz-tension-donald-trump-reaction-10793174.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-08-31T00:36:24+00:00",
+      "published_at": "2026-08-31T00:45:31+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/IRAN-US-2026-08-c12d931f48c93f48e247b6655d0883cb-1200x800.jpg",
       "summary": "Iran Attacks US Airbases in Jordan: ईरान-अमेरिका के बीच जहां बात हो रही थी युद्धविराम और स्थायी समझौते की, वहीं अब दोनों के बीच एक बार फिर तनाव बढ़ गया है. ईरान की ओर से जॉर्डन में मौजूद अमेरिकी एयरबेस पर धावा बोल दिया गया, जिसमें अमेरिका का काफी नुकसान हुआ है. ईरान का आरोप है कि उसका हमला यूएस की ओर से लाराक द्वीप पर हुए हमले की प्रतिक्रिया है.",
       "region": "Middle East & Africa",
@@ -376,6 +484,24 @@
           "title": "होर्मुज की आग पहुंची जॉर्डन, ईरान का अमेरिकी बेस पर जबरदस्त अटैक, ट्रंप बोले- जवानों के लिए दुआ करें",
           "summary": "Iran Attacks US Airbases in Jordan: ईरान-अमेरिका के बीच जहां बात हो रही थी युद्धविराम और स्थायी समझौते की, वहीं अब दोनों के बीच एक बार फिर तनाव बढ़ गया है. ईरान की ओर से जॉर्डन में मौजूद अमेरिकी एयरबेस पर धावा बोल दिया गया, जिसमें अमेरिका का काफी नुकसान हुआ है. ईरान का आरोप है कि उसका हमला यूएस की ओर से लाराक द्वीप पर हुए हमले की प्रतिक्रिया है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'भारत ने जरूरतमंदों की मदद से इनकार नहीं किया'; संघ प्रमुख संस्कृति पर और क्या बोले?",
+      "url": "https://www.amarujala.com/world/rss-mohan-bhagwat-speech-in-canada-hindu-vishwa-bandhu-embrace-the-world-in-friendship-chord-toronto-news-2026-08-31",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-08-31T00:44:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/kanada-thara-para-sagha-paramakha-mahana-bhagavata_e77c8ffd7d54fe79fec46dfacebdb103.jpeg?w=1200&dpr=1.0",
+      "summary": "मोहन भागवत का कनाडा दौरा: 'भारत ने जरूरतमंदों की मदद से इनकार नहीं किया'; संघ प्रमुख संस्कृति पर और क्या बोले?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'भारत ने जरूरतमंदों की मदद से इनकार नहीं किया'; संघ प्रमुख संस्कृति पर और क्या बोले?",
+          "summary": "मोहन भागवत का कनाडा दौरा: 'भारत ने जरूरतमंदों की मदद से इनकार नहीं किया'; संघ प्रमुख संस्कृति पर और क्या बोले?",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -422,13 +548,13 @@
       "sources": [],
       "published_at": "2026-08-31T00:30:03+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/weather-forecast_f35fee1ef3b01838540308b8ba38b0be.jpeg?w=1200&dpr=1.0",
-      "summary": "Weather Forecast 31 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+      "summary": "| Weather Report Today।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "Weather Forecast 31 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "Weather Forecast 31 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+          "summary": "| Weather Report Today।",
           "region": "दुनिया"
         }
       }
@@ -439,7 +565,7 @@
       "source": "Amar Ujala National",
       "sources": [],
       "published_at": "2026-08-31T00:15:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/12/05/pakistan-terrorism-print_563833d1f9a75e34284cae5150520c39.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/aaiiesaaaii_c2554573c14a866cb3ecffa5224c5180.jpeg?w=1200&dpr=1.0",
       "summary": "लाइव फीड? ऑपरेशन सिंदूर के बाद आईएसआई ने बदला जासूसी पैटर्न: सोलर कैमरों से सेना पर नजर, पाकिस्तान पहुंच रही लाइव फीड?",
       "region": "Asia-Pacific",
       "language": "hi",
@@ -542,19 +668,19 @@
       }
     },
     {
-      "title": "अपनों की तलाश में भटक रहे परिवार, भूख-प्यास से बेहाल लोग; ग्राउंड रिपोर्ट",
-      "url": "https://www.amarujala.com/gorakhpur/army-takes-charge-in-nepal-919-people-rescued-from-flood-affected-areas-2026-08-31",
+      "title": "दिल्ली में स्वाइन फ्लू का बढ़ता खौफ: एच1एन1 के 3565 केस, डॉक्टर बोले- इन लक्षणों को न करें नजरअंदाज",
+      "url": "https://www.amarujala.com/delhi-ncr/swine-flu-cases-in-delhi-have-crossed-the-3000-mark-2026-08-31",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-08-30T22:09:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/nepal-flood_bdd80d6e5e93b33284e1d3399cb1adc5.jpeg?w=1200&dpr=1.0",
-      "summary": "नेपाल में बाढ़ के बाद अब जिंदगी और कठिन हो गई है। जिन इलाकों का संपर्क पुल टूटने और सड़क मार्ग बाधित होने से पूरी तरह कट चुका है, वहां सेना के जवानों ने मोर्चा संभाल लिया है। अपनों की तलाश में भटक रहे परिवार, भूख-प्यास से बेहाल लोग; ग्राउंड रिपोर्ट।",
+      "published_at": "2026-08-30T23:01:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/23/ujajana-ma-savaina-fal-ka-bugdhha-khatara_7c223193aeac0279f0e4edfef0e7be5f.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में स्वाइन फ्लू (एच1एन1) के मामलों में बढ़ोतरी जारी है। स्वास्थ्य विभाग की रिपोर्ट के अनुसार, 29 अगस्त तक एच1एन1 के कुल 3565 मामले सामने आए हैं। दिल्ली में स्वाइन फ्लू का बढ़ता खौफ: एच1एन1 के 3565 केस, डॉक्टर बोले- इन लक्षणों को न करें नजरअंदाज।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अपनों की तलाश में भटक रहे परिवार, भूख-प्यास से बेहाल लोग; ग्राउंड रिपोर्ट",
-          "summary": "नेपाल में बाढ़ के बाद अब जिंदगी और कठिन हो गई है। जिन इलाकों का संपर्क पुल टूटने और सड़क मार्ग बाधित होने से पूरी तरह कट चुका है, वहां सेना के जवानों ने मोर्चा संभाल लिया है। अपनों की तलाश में भटक रहे परिवार, भूख-प्यास से बेहाल लोग; ग्राउंड रिपोर्ट।",
+          "title": "दिल्ली में स्वाइन फ्लू का बढ़ता खौफ: एच1एन1 के 3565 केस, डॉक्टर बोले- इन लक्षणों को न करें नजरअंदाज",
+          "summary": "दिल्ली में स्वाइन फ्लू (एच1एन1) के मामलों में बढ़ोतरी जारी है। स्वास्थ्य विभाग की रिपोर्ट के अनुसार, 29 अगस्त तक एच1एन1 के कुल 3565 मामले सामने आए हैं। दिल्ली में स्वाइन फ्लू का बढ़ता खौफ: एच1एन1 के 3565 केस, डॉक्टर बोले- इन लक्षणों को न करें नजरअंदाज।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -598,7 +724,7 @@
     {
       "title": "अमेरिका के खिलाफ मुस्लिम एकता का आह्वान, खामेनेई ने किससे और क्यों की ऐसी अपील; हालात कैसे?",
       "url": "https://www.amarujala.com/world/west-asia-tension-us-iran-war-hormuz-airstrike-rocket-launchers-khamenei-trump-israel-shin-bet-irgc-centcom-2026-08-31",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-08-30T20:25:43+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/iirana-ka-isalma-thasha-sa-ekajatata-ka-aahavana_f1c2d23814d420fddf0cbf0c53934caf.jpeg?w=1200&dpr=1.0",
@@ -627,132 +753,6 @@
         "hi": {
           "title": "नेपाल में बाढ़ के बाद संकट गहराया, मुर्दे बन रहे जिंदा लोगों के लिए खतरा!",
           "summary": "नेपाल में बाढ़ के बाद संकट गहराया, मुर्दे बन रहे जिंदा लोगों के लिए खतरा!",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मकान ढहा, रेलवे ट्रैक हवा में लटका; आज से येलो अलर्ट, भूस्खलन और बाढ़ की चेतावनी",
-      "url": "https://www.amarujala.com/shimla/rain-wreaks-havoc-in-himachal-house-collapses-kalka-shimla-railway-track-left-hanging-in-mid-air-2026-08-31",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-08-30T19:30:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/hamacal-ma-brasha-ka-kahara_5926f54b2ba6d74428dd9a118806cbf4.jpeg?w=1200&dpr=1.0",
-      "summary": "पिछले कुछ दिनों से धीमा पड़ा मानसून हिमाचल प्रदेश में एक बार फिर सक्रिय हो गया है। सोलन जिले के परवाणू में शनिवार देर रात हुई जोरदार बारिश ने तबाही मचा दी। टकसाल क्षेत्र में एक रिहायशी मकान ढह गया, जबकि तीन पर ढहने का खतरा मंडरा रहा है। मकान ढहा, रेलवे ट्रैक हवा में लटका; आज से येलो अलर्ट, भूस्खलन और बाढ़ की चेतावनी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मकान ढहा, रेलवे ट्रैक हवा में लटका; आज से येलो अलर्ट, भूस्खलन और बाढ़ की चेतावनी",
-          "summary": "पिछले कुछ दिनों से धीमा पड़ा मानसून हिमाचल प्रदेश में एक बार फिर सक्रिय हो गया है। सोलन जिले के परवाणू में शनिवार देर रात हुई जोरदार बारिश ने तबाही मचा दी। टकसाल क्षेत्र में एक रिहायशी मकान ढह गया, जबकि तीन पर ढहने का खतरा मंडरा रहा है। मकान ढहा, रेलवे ट्रैक हवा में लटका; आज से येलो अलर्ट, भूस्खलन और बाढ़ की चेतावनी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरान पर फिर हमले करेगा इजरायल? डोनाल्ड ट्रंप ढूंढ रहे पीस डील, उधर नेतन्याहू बना रहे अलग प्लान",
-      "url": "https://hindi.news18.com/world/middle-east-israel-has-issued-a-direct-warning-further-attacks-on-iran-10794330.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T19:18:57+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Benjamine-Netanyahu-Reuters-2026-08-8b7bfad41f430cde8949f62f870b9fef-1200x800.jpg",
-      "summary": "अमेरिका राष्ट्रपति डोनाल्ड ट्रंप ईरान के साथ पीस डील की और आगे बढ़ रहे हैं. लेकिन इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू अलग प्लान बना रहे हैं. इजरायल ने सीधी चेतावनी दी है कि ईरान पर फिर से हमले हो सकते हैं. ऐसा तब होगा अगर ईरान ने परमाणु या लंबी दूरी की बैलिस्टिक मिसाइलों का कार्यक्रम दोबारा शुरू किया. ईरान पर फिर हमले करेगा इजरायल?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान पर फिर हमले करेगा इजरायल? डोनाल्ड ट्रंप ढूंढ रहे पीस डील, उधर नेतन्याहू बना रहे अलग प्लान",
-          "summary": "अमेरिका राष्ट्रपति डोनाल्ड ट्रंप ईरान के साथ पीस डील की और आगे बढ़ रहे हैं. लेकिन इजरायली प्रधानमंत्री बेंजामिन नेतन्याहू अलग प्लान बना रहे हैं. इजरायल ने सीधी चेतावनी दी है कि ईरान पर फिर से हमले हो सकते हैं. ऐसा तब होगा अगर ईरान ने परमाणु या लंबी दूरी की बैलिस्टिक मिसाइलों का कार्यक्रम दोबारा शुरू किया. ईरान पर फिर हमले करेगा इजरायल?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "चीन की नाक के नीचे से माल उड़ा रहा ये छुटकू देश, तबाही के बाद अमेरिका की मार्केट का बना सिकंदर",
-      "url": "https://hindi.news18.com/news/knowledge/know-how-vietnam-is-winning-usa-market-export-race-against-china-india-trade-surplus-10794435.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T19:12:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Untitled-design-2026-08-30T200537.663-2026-08-fe0155f5451959da4c74259c34300f0b-1200x800.jpg",
-      "summary": "वियतनाम ने अमेरिका के साथ रिकॉर्ड 114 अरब डॉलर का ट्रेड सरप्लस हासिल किया है. इस आंकड़े के साथ वियतनाम ने चीन, मेक्सिको और ताइवान जैसे दिग्गजों को पीछे छोड़ दिया है. चीन की नाक के नीचे से माल उड़ा रहा ये छुटकू देश, तबाही के बाद अमेरिका की मार्केट का बना सिकंदर।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन की नाक के नीचे से माल उड़ा रहा ये छुटकू देश, तबाही के बाद अमेरिका की मार्केट का बना सिकंदर",
-          "summary": "वियतनाम ने अमेरिका के साथ रिकॉर्ड 114 अरब डॉलर का ट्रेड सरप्लस हासिल किया है. इस आंकड़े के साथ वियतनाम ने चीन, मेक्सिको और ताइवान जैसे दिग्गजों को पीछे छोड़ दिया है. चीन की नाक के नीचे से माल उड़ा रहा ये छुटकू देश, तबाही के बाद अमेरिका की मार्केट का बना सिकंदर।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नेपाल की तबाही के बीच फिर चर्चा में बाबा वेंगा की भविष्यवाणी, 2026 में सच हुईं ये बातें तो कांप",
-      "url": "https://hindi.news18.com/world/rest-of-world-baba-venga-s-prophecy-again-in-discussion-amid-nepal-flood-devastation-photogallery-10794270.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T18:19:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Baba-venga-2026-08-2453eb052b706a491231c2dcbb0635af-1200x800.jpg",
-      "summary": "नेपाल में आई भीषण बाढ़ और दुनिया के अलग-अलग हिस्सों में लगातार हो रही प्राकृतिक आपदाओं ने दुनिया को हिलाकर रख दिया है. ऐसे में एक बार फिर बुल्गारिया की मशहूर भविष्यवक्ता बाबा वेंगा की भविष्यवाणियां फिर चर्चा में आ गई हैं. सोशल मीडिया और कई मीडिया रिपोर्ट्स में दावा किया जा रहा है कि बाबा वेंगा ने साल 2026 को लेकर कई डरावनी बातें कही थीं और अब दुनिया में हो रही घटनाएं उन दावों से जुड़ती नजर आ रही ह।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल की तबाही के बीच फिर चर्चा में बाबा वेंगा की भविष्यवाणी, 2026 में सच हुईं ये बातें तो कांप",
-          "summary": "नेपाल में आई भीषण बाढ़ और दुनिया के अलग-अलग हिस्सों में लगातार हो रही प्राकृतिक आपदाओं ने दुनिया को हिलाकर रख दिया है. ऐसे में एक बार फिर बुल्गारिया की मशहूर भविष्यवक्ता बाबा वेंगा की भविष्यवाणियां फिर चर्चा में आ गई हैं. सोशल मीडिया और कई मीडिया रिपोर्ट्स में दावा किया जा रहा है कि बाबा वेंगा ने साल 2026 को लेकर कई डरावनी बातें कही थीं और अब दुनिया में हो रही घटनाएं उन दावों से जुड़ती नजर आ रही ह।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "रेव पार्टी में अचानक गूंजने लगी गोलियों की आवाज, 22 साल की लड़की की मौत, 5 घायल, हमलावर फरार",
-      "url": "https://hindi.news18.com/world/europe-switzerland-rave-party-shots-fired-22-year-old-woman-killed-5-injured-10794381.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T18:17:39+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Swiss-Rave-Party-Reuters-2026-08-c13892df65dd9e9a682bffac9eb71099-1200x800.jpg",
-      "summary": "स्विट्जरलैंड के शहर आरौ में रविवार की सुबह अचानक गोलियों की तड़तड़ाहट से दहल उठी. एक टेक्नो रेव पार्टी के दौरान हुई इस अंधाधुंध गोलीबारी में 22 साल की एक इटली की युवती की मौके पर ही मौत हो गई. इसमें 5 अन्य युवा गंभीर रूप से घायल हो गए. हमलावर को पकड़ने के लिए पुलिस ने बड़े पैमाने पर ऑपरेशन शुरू कर दिया है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रेव पार्टी में अचानक गूंजने लगी गोलियों की आवाज, 22 साल की लड़की की मौत, 5 घायल, हमलावर फरार",
-          "summary": "स्विट्जरलैंड के शहर आरौ में रविवार की सुबह अचानक गोलियों की तड़तड़ाहट से दहल उठी. एक टेक्नो रेव पार्टी के दौरान हुई इस अंधाधुंध गोलीबारी में 22 साल की एक इटली की युवती की मौके पर ही मौत हो गई. इसमें 5 अन्य युवा गंभीर रूप से घायल हो गए. हमलावर को पकड़ने के लिए पुलिस ने बड़े पैमाने पर ऑपरेशन शुरू कर दिया है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "SCO समिट के लिए किर्गिस्तान पहुंचे PM मोदी, बिश्केक में हुआ जोरदार स्वागत, पुतिन से मुलाकात पर टिकी",
-      "url": "https://hindi.news18.com/news/nation/pm-modi-reached-kyrgyzstan-for-sco-summit-receives-warm-welcome-in-bishkek-all-eyes-on-meeting-with-putin-10794344.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T17:50:04+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/PM-Modi-Kyrgyzstan-2026-08-72fd553ba2a6aef83a4968220669bb4f-1200x800.jpg",
-      "summary": "PM Modi प्रधानमंत्री नरेंद्र मोदी 26वें SCO शिखर सम्मेलन में हिस्सा लेने के लिए रविवार को किर्गिस्तान की राजधानी बिश्केक पहुंच गए. मानस इंटरनेशनल एयरपोर्ट पर किर्गिस्तान के कैबिनेट ऑफ मिनिस्टर्स के चेयरमैन आदिलबेक कासिमालिएव ने उनका स्वागत किया. इस दौरे में SCO के मंच पर आतंकवाद, क्षेत्रीय सुरक्षा और कनेक्टिविटी के मुद्दे अहम रहेंगे. वहीं, पीएम मोदी और रूस के राष्ट्रपति व्लादिमीर पुतिन की मुलाकात।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "SCO समिट के लिए किर्गिस्तान पहुंचे PM मोदी, बिश्केक में हुआ जोरदार स्वागत, पुतिन से मुलाकात पर टिकी",
-          "summary": "PM Modi प्रधानमंत्री नरेंद्र मोदी 26वें SCO शिखर सम्मेलन में हिस्सा लेने के लिए रविवार को किर्गिस्तान की राजधानी बिश्केक पहुंच गए. मानस इंटरनेशनल एयरपोर्ट पर किर्गिस्तान के कैबिनेट ऑफ मिनिस्टर्स के चेयरमैन आदिलबेक कासिमालिएव ने उनका स्वागत किया. इस दौरे में SCO के मंच पर आतंकवाद, क्षेत्रीय सुरक्षा और कनेक्टिविटी के मुद्दे अहम रहेंगे. वहीं, पीएम मोदी और रूस के राष्ट्रपति व्लादिमीर पुतिन की मुलाकात।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "नेपाल में भारत का बड़ा रेस्क्यू ऑपरेशन, DNA टीम से टनल एक्सपर्ट तक मैदान में, 403 भारतीय सुरक्षित",
-      "url": "https://hindi.news18.com/world/south-asia-india-nepal-rescue-operation-forensic-dna-team-tunnel-rescue-403-indians-safe-10794284.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-08-30T17:08:58+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Nepal-rescue-2026-08-9ab99c3f9f244a257e2e65123666c14d-1200x800.jpg",
-      "summary": "नेपाल में चल रहे राहत और बचाव अभियान को भारत का साथ मिला है. मलवे से बरामद किए गए शवों की पहचान के लिए 19 सदस्यीय भारतीय फॉरेंसिक टीम को काठमांडू भेजा गया है. यह टीम डीएनए जांच में मदद कर मृतकों की पहचान सुनिश्चित करेगी. वहीं भारतीय टनल सर्च एंड रेस्क्यू टीम नेपाली सेना के साथ चिलिमे और लांगटांग हाइड्रोपावर प्रोजेक्ट्स में तलाशी अभियान चला रही है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल में भारत का बड़ा रेस्क्यू ऑपरेशन, DNA टीम से टनल एक्सपर्ट तक मैदान में, 403 भारतीय सुरक्षित",
-          "summary": "नेपाल में चल रहे राहत और बचाव अभियान को भारत का साथ मिला है. मलवे से बरामद किए गए शवों की पहचान के लिए 19 सदस्यीय भारतीय फॉरेंसिक टीम को काठमांडू भेजा गया है. यह टीम डीएनए जांच में मदद कर मृतकों की पहचान सुनिश्चित करेगी. वहीं भारतीय टनल सर्च एंड रेस्क्यू टीम नेपाली सेना के साथ चिलिमे और लांगटांग हाइड्रोपावर प्रोजेक्ट्स में तलाशी अभियान चला रही है.",
           "region": "एशिया-प्रशांत"
         }
       }
