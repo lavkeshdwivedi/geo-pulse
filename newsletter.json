@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-01T21:12:36.534668+00:00",
-  "article_count": 47,
+  "generated_at": "2026-09-01T22:12:30.348982+00:00",
+  "article_count": 48,
   "total_unique_count": 253,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Netanyahu says Israel seized Hamas internal security chief in Gaza. Asia-Pacific carries the next thread. 22 fresh dispatches in this edition.",
-    "hi": "अमेरिका ने चाबहार, तहरीन और इराक के पास स्थित इरान के कई ठिकानों पर हवाई हमले किए। इसी दौरान भारत में राहुल गांधी पर सावरकर के बयान को लेकर अदालत में उनके पोते ने विरोधी दल की आलोचना की।"
+    "en": "Asia-Pacific leads the board this hour with Nepal’s riverside communities cling to hope with loved ones missing after deadly flood. Middle East & Africa carries the next thread. 23 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, अमेरिका ने चाबहार समेत ईरान के कई ठिकानों पर किए हमले; ट्रंप ने क्या धमकी दी? मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "Nepal’s riverside communities cling to hope with loved ones missing after deadly flood",
+      "url": "https://www.channelnewsasia.com/asia/nepal-deadly-flood-missing-people-6354476",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-09-01T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--vuPGittj--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/01/nepal_flood-19.jpg?itok=VqGsFwJM",
+      "summary": "A week after a catastrophic flood tore through Nepal’s Himalayan valleys, thousands remain missing and rescue teams are still searching for survivors. CNA meets families waiting desperately for news and residents confronting the destruction of their communities. Nepal’s riverside communities cling to hope with loved ones missing after deadly flood.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Netanyahu says Israel seized Hamas internal security chief in Gaza",
       "url": "https://www.thehindu.com/news/international/netanyahu-says-israel-seized-hamas-internal-security-chief-in-gaza/article71417072.ece",
@@ -344,9 +356,45 @@
       }
     },
     {
+      "title": "सीमा ने पहुंचाया शांति का संदेश, मंदिर में भजन गाने से शुरुआत; साहित्य अकादमी से सम्मानित",
+      "url": "https://www.amarujala.com/jammu/transcending-borders-through-melody-seema-conveys-a-message-of-peace-2026-09-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-01T21:46:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/02/1_9a5accf69127df8d764a1669fbeaee63.jpeg?w=1200&dpr=1.0",
+      "summary": "हाथ में 50 पैसे का सिक्का और मन में गायिका बनने का सपना। सीमा ने पहुंचाया शांति का संदेश, मंदिर में भजन गाने से शुरुआत; साहित्य अकादमी से सम्मानित।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीमा ने पहुंचाया शांति का संदेश, मंदिर में भजन गाने से शुरुआत; साहित्य अकादमी से सम्मानित",
+          "summary": "हाथ में 50 पैसे का सिक्का और मन में गायिका बनने का सपना। सीमा ने पहुंचाया शांति का संदेश, मंदिर में भजन गाने से शुरुआत; साहित्य अकादमी से सम्मानित।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सर्राफा बाजार में सोने-चांदी में कमजोरी, पांच दिन में 8,900 रुपये की भारी गिरावट",
+      "url": "https://www.amarujala.com/video/india-news/gold-and-silver-weaken-in-the-bullion-market-sharp-drop-of-8-900-in-five-days-2026-09-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-01T21:40:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/02/gold-silver-price-crash_70b1db099caa678ea33d347ef3b36b03.jpeg?w=1200&dpr=1.0",
+      "summary": "सर्राफा बाजार में सोने-चांदी में कमजोरी, पांच दिन में 8,900 रुपये की भारी गिरावट।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सर्राफा बाजार में सोने-चांदी में कमजोरी, पांच दिन में 8,900 रुपये की भारी गिरावट",
+          "summary": "सर्राफा बाजार में सोने-चांदी में कमजोरी, पांच दिन में 8,900 रुपये की भारी गिरावट।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "'आतंकवाद पर दोहरा मापदंड स्वीकार नहीं': एससीओ देशों के घोषणापत्र में क्या-क्या कहा गया; ईरान के साथ",
       "url": "https://www.amarujala.com/world/double-standards-in-fight-against-terrorism-unacceptable-sco-declaration-2026-09-02",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-01T21:06:31+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/01/sco_9a2b294602bb1d06741d560c7af30c59.gif?w=1200&dpr=1.0",
@@ -358,6 +406,24 @@
           "title": "'आतंकवाद पर दोहरा मापदंड स्वीकार नहीं': एससीओ देशों के घोषणापत्र में क्या-क्या कहा गया; ईरान के साथ",
           "summary": "खड़े हुए? 'आतंकवाद पर दोहरा मापदंड स्वीकार नहीं': एससीओ देशों के घोषणापत्र में क्या-क्या कहा गया; ईरान के साथ खड़े हुए?",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जी20 बैठक के बीच भारत-अमेरिका में बड़ी डील: क्रिटिकल मिनरल्स-सप्लाई चेन पर मिलकर करेंगे काम; क्यों",
+      "url": "https://www.amarujala.com/business/business-diary/g20-meeting-india-us-deal-critical-minerals-supply-chain-cooperation-agreement-2026-09-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-01T20:22:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/02/naramal-sataramanae-sakata-bsata_096627a31d3114cab87718dd85f9d8a0.jpeg?w=1200&dpr=1.0",
+      "summary": "है यह अहम? जी20 बैठक के बीच भारत-अमेरिका में बड़ी डील: क्रिटिकल मिनरल्स-सप्लाई चेन पर मिलकर करेंगे काम; क्यों है यह अहम?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जी20 बैठक के बीच भारत-अमेरिका में बड़ी डील: क्रिटिकल मिनरल्स-सप्लाई चेन पर मिलकर करेंगे काम; क्यों",
+          "summary": "है यह अहम? जी20 बैठक के बीच भारत-अमेरिका में बड़ी डील: क्रिटिकल मिनरल्स-सप्लाई चेन पर मिलकर करेंगे काम; क्यों है यह अहम?",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -663,60 +729,6 @@
         "hi": {
           "title": "पाताल का राक्षस अचानक करने लगा उल्टियां, आसमान में 3.5 KM तक फैली गंध, घंटे भर तक तांडव",
           "summary": "इंडोनेशिया में माउंट सिनाबुंग में सोमवार को अचानक जोरदार विस्फोट हुआ. ज्वालामुखी से निकली काली और घनी राख करीब 3.5 किलोमीटर की ऊंचाई तक पहुंच गई. राख का विशाल गुबार आसमान में फैलता देख इलाके में चिंता बढ़ गई. नॉर्थ सुमात्रा के कारो रीजेंसी में मौजूद इस ज्वालामुखी में स्थानीय समय के मुताबिक सुबह 10 बजकर 17 मिनट पर विस्फोट हुआ.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रूस ने शुरू कर दिया हाइब्रिड वॉर? जर्मनी में पावर प्लांट उड़ाने की साजिश, बम मिलने के बाद यूरोप में",
-      "url": "https://hindi.news18.com/world/europe-germany-explosive-devices-found-near-power-plant-10799432.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-01T14:04:20+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Photo-John-MacdougallAFP-2026-09-f2d8be66901859dedd7754da7e67af32-1200x800.jpg",
-      "summary": "A drone carrying explosives was found near Antonov cargo planes at Leipzig Halle Airport on 4 August, averting a potential blast. Berlin may disclose the identity of the actors behind an August attempt to target Ukrainian aircraft at the same airport. जर्मनी में संदिग्ध हमलों को लेकर जांच के बीच एक और बड़ा मामला सामने आया है. बर्लिन जल्द ही यह खुलासा कर सकता है कि अगस्त में लीपजिग हाले एयरपोर्ट पर यूक्रेनी विमानों को निशाना बनाने की कोशिश के पीछे कौन था.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस ने शुरू कर दिया हाइब्रिड वॉर? जर्मनी में पावर प्लांट उड़ाने की साजिश, बम मिलने के बाद यूरोप में",
-          "summary": "A drone carrying explosives was found near Antonov cargo planes at Leipzig Halle Airport on 4 August, averting a potential blast. Berlin may disclose the identity of the actors behind an August attempt to target Ukrainian aircraft at the same airport. जर्मनी में संदिग्ध हमलों को लेकर जांच के बीच एक और बड़ा मामला सामने आया है. बर्लिन जल्द ही यह खुलासा कर सकता है कि अगस्त में लीपजिग हाले एयरपोर्ट पर यूक्रेनी विमानों को निशाना बनाने की कोशिश के पीछे कौन था.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "कई बार चेतावनी के बावजूद नहीं रुका काम, नुकसान इतना बड़ा कि अब नेपाल को भारत से खरीदनी पड़ेगी बिजली",
-      "url": "https://www.patrika.com/world-news/nepal-floods-destroy-hydropower-plants-seeks-india-electricity-20876240",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-01T13:34:55+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/nepalelectrivity.webp",
-      "summary": "Nepal Flood Update: नेपाल के बागमती प्रांत में पिछले हफ्ते आई बाढ़ ने सिर्फ गांव ही नहीं बहाए, कई बिजली प्लांट को भी पूरी तरह तबाह कर दिया। ऊर्जा मंत्रालय के अनुसार, अब तक इन प्लांट्स में काम करने वाले या आसपास रहने वाले करीब 900 लोग लापता हैं। कई बार चेतावनी के बावजूद नहीं रुका काम, नुकसान इतना बड़ा कि अब नेपाल को भारत से खरीदनी पड़ेगी बिजली।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कई बार चेतावनी के बावजूद नहीं रुका काम, नुकसान इतना बड़ा कि अब नेपाल को भारत से खरीदनी पड़ेगी बिजली",
-          "summary": "Nepal Flood Update: नेपाल के बागमती प्रांत में पिछले हफ्ते आई बाढ़ ने सिर्फ गांव ही नहीं बहाए, कई बिजली प्लांट को भी पूरी तरह तबाह कर दिया। ऊर्जा मंत्रालय के अनुसार, अब तक इन प्लांट्स में काम करने वाले या आसपास रहने वाले करीब 900 लोग लापता हैं। कई बार चेतावनी के बावजूद नहीं रुका काम, नुकसान इतना बड़ा कि अब नेपाल को भारत से खरीदनी पड़ेगी बिजली।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘आतंकवाद से लड़ते हुए हमने 90 हजार से ज्यादा जानें गंवाईं’, SCO के शिखर सम्मेलन में बोले पाकिस्तान",
-      "url": "https://www.patrika.com/world-news/shehbaz-sharif-terrorism-90000-deaths-sco-summit-2026-20876226",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-01T13:19:08+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Shehbaz-Sharif-1.webp",
-      "summary": "Shehbaz Sharif on Terrorism: पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने मंगलवार को शंघाई सहयोग संगठन (SCO) के शिखर सम्मेलन में आतंकवाद के खिलाफ अपने देश की लड़ाई का जिक्र किया। उन्होंने दावा किया कि पिछले ढाई दशकों में आतंकवाद से मुकाबला करते हुए पाकिस्तान ने 90 हजार से ज्यादा लोगों की जान गंवाई है। इस दौरान देश को 150 अरब डॉलर से ज्यादा का आर्थिक नुकसान भी उठाना पड़ा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘आतंकवाद से लड़ते हुए हमने 90 हजार से ज्यादा जानें गंवाईं’, SCO के शिखर सम्मेलन में बोले पाकिस्तान",
-          "summary": "Shehbaz Sharif on Terrorism: पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने मंगलवार को शंघाई सहयोग संगठन (SCO) के शिखर सम्मेलन में आतंकवाद के खिलाफ अपने देश की लड़ाई का जिक्र किया। उन्होंने दावा किया कि पिछले ढाई दशकों में आतंकवाद से मुकाबला करते हुए पाकिस्तान ने 90 हजार से ज्यादा लोगों की जान गंवाई है। इस दौरान देश को 150 अरब डॉलर से ज्यादा का आर्थिक नुकसान भी उठाना पड़ा।",
           "region": "एशिया-प्रशांत"
         }
       }
