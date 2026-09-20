@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-20T13:12:02.464860+00:00",
+  "generated_at": "2026-09-20T14:12:10.174979+00:00",
   "article_count": 50,
-  "total_unique_count": 265,
+  "total_unique_count": 267,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Venezuela después del pacto petrolero con EE. UU.. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, पाकिस्तान में खुलेआम बंदूक लेकर घूमे लड़ाके, मुनीर की फौज को चुनौती, TTP को देख मचा हड़कंप मुख्य खबर है। साथ ही अमेरिका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Middle East & Africa leads the board this hour with Venezuela después del pacto petrolero con EE. UU.. Americas carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, सऊदी से रक्षा समझौता कर फंस गया पाकिस्तान, ‘गले की हड्डी’ बना मक्का पैक्ट, न निगल पा रहा न उगल पा मुख्य खबर है। साथ ही अमेरिका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -16,6 +16,18 @@
       "image_url": "https://images.pexels.com/photos/27857255/pexels-photo-27857255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "La administración Trump ha anunciado un acuerdo con Caracas que, según dice, otorga a EE. UU. una participación importante en la industria petrolera venezolana. En esta sesión de preguntas y respuestas, los expertos de Crisis Group Phil Gunson y Delaney Simon analizan las repercusiones de dicho acuerdo. Venezuela después del pacto petrolero con EE.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Michelle Bachelet withdraws from race to become UN secretary general",
+      "url": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-09-20T12:04:08+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/f528109b98241076523ba6ca8335c0ba0cd54546/583_0_2917_2335/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=205e2c65069dbd86ecae3285945fb00e",
+      "summary": "Former president of Chile drops out after support collapsed in security council straw poll, leaving seven candidates in contestMichelle Bachelet, a former president of Chile, has withdrawn her candidacy to become the next secretary general of the ⁠UN, ending an attempt ​that had struggled to gain traction among security council members.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -296,16 +308,58 @@
       "translations": {}
     },
     {
-      "title": "UN fact-finding mission on Iran focuses on plight of civilians",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168358",
-      "source": "UN News",
+      "title": "सऊदी से रक्षा समझौता कर फंस गया पाकिस्तान, ‘गले की हड्डी’ बना मक्का पैक्ट, न निगल पा रहा न उगल पा",
+      "url": "https://hindi.news18.com/world/pakistan-saudi-defence-agreement-houthi-conflict-asim-munir-mecca-pact-pakistan-news-10851525.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-09-17T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-10-2023-Unsplash-Tehran-Iran.jpg/image770x420cropped.jpg",
-      "summary": "The Independent International Fact-Finding Mission on Iran confirmed that civilians in the country suffered serious human rights violations and “crimes against humanity committed by their government,” while finding \"reasonable grounds\" to believe that the United States committed “war crimes” in the context of its ongoing conflict with the Islamic Republic. UN fact-finding mission on Iran focuses on plight of civilians.",
+      "published_at": "2026-09-20T13:43:51+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/saudi-arabia-7-2026-09-f353ea21f95295175a089dc3bcbe79c5-1200x800.jpg",
+      "summary": "सऊदी अरब और पाकिस्तान के बीच रक्षा समझौते के बाद यमन में बढ़ते सऊदी-हूती तनाव ने इस्लामाबाद की चिंता बढ़ा दी है. समझौते में एक सदस्य पर सशस्त्र हमला तीनों देशों पर हमला माना गया है. रिपोर्ट के मुताबिक, हूती हमलों के खिलाफ सऊदी अरब की कार्रवाई बढ़ने पर पाकिस्तान पर सैन्य मदद का दबाव बन सकता है. इस कारण पाकिस्तान के अधिकारी भी चिंतित है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी से रक्षा समझौता कर फंस गया पाकिस्तान, ‘गले की हड्डी’ बना मक्का पैक्ट, न निगल पा रहा न उगल पा",
+          "summary": "सऊदी अरब और पाकिस्तान के बीच रक्षा समझौते के बाद यमन में बढ़ते सऊदी-हूती तनाव ने इस्लामाबाद की चिंता बढ़ा दी है. समझौते में एक सदस्य पर सशस्त्र हमला तीनों देशों पर हमला माना गया है. रिपोर्ट के मुताबिक, हूती हमलों के खिलाफ सऊदी अरब की कार्रवाई बढ़ने पर पाकिस्तान पर सैन्य मदद का दबाव बन सकता है. इस कारण पाकिस्तान के अधिकारी भी चिंतित है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्या चांद पर कब्जा करेगा अमेरिका! ट्रंप के एक पोस्ट ने छेड़ी बहस, आखिर किसका है चंद्रमा?",
+      "url": "https://hindi.news18.com/news/knowledge/can-any-country-own-moon-why-donald-trump-said-the-moon-is-ours-space-treat-explained-10851403.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-20T13:29:44+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Moon-2026-09-118066932da30ff6e1e4095037151b17-1200x800.jpg",
+      "summary": "Donald Trump Moon Claim: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर चांद की तस्वीर के साथ लिखा- 'चांद हमारा है.' इसके बाद सवाल उठने लगा कि क्या कोई देश सच में चांद को अपना बना सकता है? क्या अमेरिका चांद पर अपना कब्जा जमा सकता है? और अगर चांद किसी का नहीं है, तो वहां मौजूद पानी, बर्फ और खनिज किसके होंगे?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या चांद पर कब्जा करेगा अमेरिका! ट्रंप के एक पोस्ट ने छेड़ी बहस, आखिर किसका है चंद्रमा?",
+          "summary": "Donald Trump Moon Claim: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर चांद की तस्वीर के साथ लिखा- 'चांद हमारा है.' इसके बाद सवाल उठने लगा कि क्या कोई देश सच में चांद को अपना बना सकता है? क्या अमेरिका चांद पर अपना कब्जा जमा सकता है? और अगर चांद किसी का नहीं है, तो वहां मौजूद पानी, बर्फ और खनिज किसके होंगे?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान के पूर्व पीएम इमरान खान का जेल में हुआ मेडिकल चेक-अप",
+      "url": "https://www.patrika.com/world-news/pakistan-former-pm-imran-khan-gets-jail-medical-check-up-20922403",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-20T13:25:27+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/jailed-imran-khan.webp",
+      "summary": "पाकिस्तान (Pakistan) के पूर्व पीएम इमरान खान (Imran Khan) 2023 से जेल में बंद हैं। इस समय वह रावलपिंडी की हाई-सिक्योरिटी वाली अदियाला जेल में सज़ा काट रहे हैं। जेल में टॉर्चर और मेडिकल सुविधाओं के अभाव में इमरान की सेहत शुरू से ही चिंता का विषय रही है। दुनियाभर के कई क्रिकेटर्स और नेता उनकी रिहाई के साथ ही उन्हें बेहतर मेडिकल सुविधाएं मुहैया कराने की मांग कर चुके हैं।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान के पूर्व पीएम इमरान खान का जेल में हुआ मेडिकल चेक-अप",
+          "summary": "पाकिस्तान (Pakistan) के पूर्व पीएम इमरान खान (Imran Khan) 2023 से जेल में बंद हैं। इस समय वह रावलपिंडी की हाई-सिक्योरिटी वाली अदियाला जेल में सज़ा काट रहे हैं। जेल में टॉर्चर और मेडिकल सुविधाओं के अभाव में इमरान की सेहत शुरू से ही चिंता का विषय रही है। दुनियाभर के कई क्रिकेटर्स और नेता उनकी रिहाई के साथ ही उन्हें बेहतर मेडिकल सुविधाएं मुहैया कराने की मांग कर चुके हैं।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "पाकिस्तान में खुलेआम बंदूक लेकर घूमे लड़ाके, मुनीर की फौज को चुनौती, TTP को देख मचा हड़कंप",
@@ -322,24 +376,6 @@
           "title": "पाकिस्तान में खुलेआम बंदूक लेकर घूमे लड़ाके, मुनीर की फौज को चुनौती, TTP को देख मचा हड़कंप",
           "summary": "Pakistan News: पाकिस्तान के दक्षिण वजीरिस्तान के माकीन इलाके से एक कथित वीडियो सामने आया है, जिसमें हथियारबंद लोगों को बाजार में घूमते दिखाया गया है. दावा है कि वे टीटीपी से जुड़े हैं और इलाके में संगठन की मौजूदगी की बात कर रहे हैं. उन्होंने सशस्त्र अभियान जारी रखने की बात भी कही. पाकिस्तान में खुलेआम बंदूक लेकर घूमे लड़ाके, मुनीर की फौज को चुनौती, TTP को देख मचा हड़कंप।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या चांद पर कब्जा करेगा अमेरिका! ट्रंप के एक पोस्ट ने छेड़ी बहस, आखिर किसका है चंद्रमा?",
-      "url": "https://hindi.news18.com/news/knowledge/can-any-country-own-moon-why-donald-trump-said-the-moon-is-ours-space-treat-explained-10851403.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-20T12:49:16+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Moon-2026-09-118066932da30ff6e1e4095037151b17-1200x800.jpg",
-      "summary": "Donald Trump Moon Claim: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर चांद की तस्वीर के साथ लिखा- 'चांद हमारा है.' इसके बाद सवाल उठने लगा कि क्या कोई देश सच में चांद को अपना बना सकता है? क्या अमेरिका चांद पर अपना कब्जा जमा सकता है? और अगर चांद किसी का नहीं है, तो वहां मौजूद पानी, बर्फ और खनिज किसके होंगे?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या चांद पर कब्जा करेगा अमेरिका! ट्रंप के एक पोस्ट ने छेड़ी बहस, आखिर किसका है चंद्रमा?",
-          "summary": "Donald Trump Moon Claim: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर चांद की तस्वीर के साथ लिखा- 'चांद हमारा है.' इसके बाद सवाल उठने लगा कि क्या कोई देश सच में चांद को अपना बना सकता है? क्या अमेरिका चांद पर अपना कब्जा जमा सकता है? और अगर चांद किसी का नहीं है, तो वहां मौजूद पानी, बर्फ और खनिज किसके होंगे?",
-          "region": "अमेरिका"
         }
       }
     },
@@ -717,42 +753,6 @@
         "hi": {
           "title": "उत्तर कोरिया ने दाग दी एक और बैलिस्टिक मिसाइल, जापान ने कहा- यह हमारे क्षेत्र से बाहर गिरी, फिर भी",
           "summary": "North Korea nuclear program: उत्तर कोरिया ने रविवार को फिर एक बार पूर्वी समुद्र में बैलिस्टिक मिसाइल दाग दी है। जापान के रक्षा मंत्रालय ने इसकी पुष्टि की है। मिसाइल कोरियाई प्रायद्वीप के पूर्व में समुद्र में गिरी। उत्तर कोरिया ने दाग दी एक और बैलिस्टिक मिसाइल, जापान ने कहा- यह हमारे क्षेत्र से बाहर गिरी, फिर भी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या है ईरान का 'CODE-100', नाम सुनते ही बदहवास हुए ट्रंप, नेतन्याहू की भी बढ़ी धुकधुकी",
-      "url": "https://hindi.news18.com/world/middle-east-what-is-code-100-highest-alert-issued-by-iran-donald-trump-cut-short-weekend-netanyahu-returns-israel-10850594.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-20T06:57:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/iran-us-israel-2026-09-6fdaaecd388f7ccdbdc9d1da1d21b5b1-1200x800.jpg",
-      "summary": "What is CODE-100 Highest Alert: ईरान-अमेरिका की लड़ाई का एक और मोर्चा सऊदी अरब-हूतियों के तौर पर खुल चुका है. इस बीच ईरान की ओर से वो 'CODE-100' अलर्ट जारी किया गया है, जिसने डोनाल्ड ट्रंप की नींद उड़ा दी और उन्हें वीकेंड छोड़कर बीच में व्हाइट हाउस लौटना पड़ गया. चलिए जानते हैं कि 'CODE-100' का जिन्न क्यों अमेरिका से इजरायल तक को हिला रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या है ईरान का 'CODE-100', नाम सुनते ही बदहवास हुए ट्रंप, नेतन्याहू की भी बढ़ी धुकधुकी",
-          "summary": "What is CODE-100 Highest Alert: ईरान-अमेरिका की लड़ाई का एक और मोर्चा सऊदी अरब-हूतियों के तौर पर खुल चुका है. इस बीच ईरान की ओर से वो 'CODE-100' अलर्ट जारी किया गया है, जिसने डोनाल्ड ट्रंप की नींद उड़ा दी और उन्हें वीकेंड छोड़कर बीच में व्हाइट हाउस लौटना पड़ गया. चलिए जानते हैं कि 'CODE-100' का जिन्न क्यों अमेरिका से इजरायल तक को हिला रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इसरो की काबिलियत का मुरीद हुआ नासा: अमेरिकी एजेंसी के अधिकारी बोले- हम साझेदारी को मजबूत करने के",
-      "url": "https://www.amarujala.com/world/incredible-to-watch-capability-isro-is-developing-in-science-missions-indian-american-nasa-senior-official-2026-09-20",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-09-20T06:09:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/16/isara-oura-nasa_9fc68338573c1e1f530874a4f53ee0c6.jpeg?w=1200&dpr=1.0",
-      "summary": "incredible to watch capability ISRO is developing in science missions Indian-American NASA senior official- इसरो की काबिलियत का मुरीद हुआ नासा: अमेरिकी एजेंसी के अधिकारी बोले- हम साझेदारी को मजबूत करने के लिए उत्सुक।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इसरो की काबिलियत का मुरीद हुआ नासा: अमेरिकी एजेंसी के अधिकारी बोले- हम साझेदारी को मजबूत करने के",
-          "summary": "incredible to watch capability ISRO is developing in science missions Indian-American NASA senior official- इसरो की काबिलियत का मुरीद हुआ नासा: अमेरिकी एजेंसी के अधिकारी बोले- हम साझेदारी को मजबूत करने के लिए उत्सुक।",
           "region": "एशिया-प्रशांत"
         }
       }
