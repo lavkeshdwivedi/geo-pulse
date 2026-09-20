@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-20T05:13:29.975229+00:00",
+  "generated_at": "2026-09-20T06:21:17.363947+00:00",
   "article_count": 50,
-  "total_unique_count": 266,
+  "total_unique_count": 265,
   "digest": {
     "en": "Middle East & Africa leads the board this hour with Venezuela después del pacto petrolero con EE. UU.. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर यूरोप और रूस की अगुवाई है, ट्रंप ने जिस फ्रांसीसी इलाके पर फहराया था अमेरिकी झंडा, वहीं पहुंच रहे मैक्रों, कनाडाई PM से होगी मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "पाकिस्तानी सुरक्षा बलों ने बलूचिस्तान के पेरो जिले में पांच लड़ाकों को मार गिराया, जिससे क्षेत्र में अस्थिरता बढ़ी। इस बीच, गूगल जेमिनी ने तीन अमेरिकी कंपनियों के सिस्टम को हैक किया, जिससे एआई सुरक्षा पर सवाल उठे।"
   },
   "articles": [
     {
@@ -16,6 +16,30 @@
       "image_url": "https://images.pexels.com/photos/27857255/pexels-photo-27857255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "La administración Trump ha anunciado un acuerdo con Caracas que, según dice, otorga a EE. UU. una participación importante en la industria petrolera venezolana. En esta sesión de preguntas y respuestas, los expertos de Crisis Group Phil Gunson y Delaney Simon analizan las repercusiones de dicho acuerdo. Venezuela después del pacto petrolero con EE.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why China is pushing back on US warnings over rapid AI development",
+      "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-09-20T06:00:09+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/6683f536c0448f5d69822f0bedc56f7194b0c39b/0_0_7202_5760/master/7202.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bde9779fec3fd47c48f41850181f0f0f",
+      "summary": "Beijing believes slowdown calls aim to lock in US advantage, and is pursuing a different balance between safety and paceAbout two years ago, education entrepreneur Boris But had what he calls a “penny-drop moment” – that, like countless others in China, his company needed to embrace AI before it was made obsolete by it.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Russian election, cast as test of support for Ukraine war, enters final day",
+      "url": "https://www.thehindu.com/news/international/russian-election-cast-as-test-of-support-for-ukraine-war-enters-final-day/article71487152.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-09-20T05:51:11+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/4wqe7u/article71487172.ece/alternates/LANDSCAPE_1200/2026-09-20T030057Z_298613436_RC2OMNA1ZR3Q_RTRMADP_3_RUSSIA-ELECTION.JPG",
+      "summary": "Most anti-war candidates ‌were barred from the ballot; those who did run from the liberal Yabloko party said they feared for their freedom after courts handed long jail terms to two senior party figures before the vote for comments about the conflict deemed illegal by authorities Russian election, cast as test of support for Ukraine war, enters final day.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -200,18 +224,6 @@
       "translations": {}
     },
     {
-      "title": "‘China Shock 2.0’ fuels EU push for united response to Beijing",
-      "url": "https://asiatimes.com/2026/09/china-shock-2-0-fuels-eu-push-for-united-response-to-beijing/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-09-18T00:02:01+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/Xi-von-der-Leyen.jpg",
-      "summary": "Beijing has called for communication and pragmatism after European Commission President Ursula von der Leyen warned of a second “China Shock” that’s damaging key manufacturing industries in the bloc. The term “China shock” originally described the wave of cheap toys, textiles and basic electronics that flooded European markets after China joined the World Trade Organization [] The post ‘China Sho.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "US Senator Jeanne Shaheen: 'Putin Is Trying To Wait Us Out'",
       "url": "https://www.rferl.org/a/us-senator-jeanne-shaheen-putin-ukraine-russia/33858412.html",
       "source": "Radio Free Europe / Liberty",
@@ -296,23 +308,281 @@
       "translations": {}
     },
     {
-      "title": "What Future for Venezuela after the U.S. Oil Carve-up?",
-      "url": "https://www.crisisgroup.org/qna/latin-america-caribbean/venezuela-united-states/what-future-venezuela-after-us-oil-carve",
-      "source": "International Crisis Group",
+      "title": "पाकिस्तानी सुरक्षा बलों ने बलूचिस्तान में पांच लड़ाकों को मार गिराया",
+      "url": "https://www.amarujala.com/world/world-updates-west-asia-russia-ukraine-tension-pak-china-nepal-bangladesh-japan-politics-crime-news-2026-09-20",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-09-11T11:11:00+00:00",
-      "image_url": "https://images.pexels.com/photos/35524213/pexels-photo-35524213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "The Trump administration has announced an agreement with Caracas that it says gives the U. S. a major stake in the Venezuelan oil industry. In this Q&A, Crisis Group experts Phil Gunson and Delaney Simon explore the reported deal’s ramifications. What Future for Venezuela after the U. Oil Carve-up?",
+      "published_at": "2026-09-20T06:20:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_7099a8efff3d4ba335d1f57a059a51c0.jpeg?w=1200&dpr=1.0",
+      "summary": "विदेश के समाचार: नीदरलैंड में विरोध-प्रदर्शन के दौरान हिंसा; अमेरिका के मिशिगन में धार्मिक भेदभाव का मुकदमा पाकिस्तानी सुरक्षा बलों ने बलूचिस्तान में पांच लड़ाकों को मार गिराया।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तानी सुरक्षा बलों ने बलूचिस्तान में पांच लड़ाकों को मार गिराया",
+          "summary": "विदेश के समाचार: नीदरलैंड में विरोध-प्रदर्शन के दौरान हिंसा; अमेरिका के मिशिगन में धार्मिक भेदभाव का मुकदमा पाकिस्तानी सुरक्षा बलों ने बलूचिस्तान में पांच लड़ाकों को मार गिराया।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "डाइट पर हैं पर चावल खाने का मन है? बनाएं झटपट वाला वेजी राइज बाउल",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/how-to-make-healthy-veggie-rice-bowl-at-home-full-recipe-in-hindi-2026-09-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-20T06:19:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/veggie-rice-bowl-recipe_ae0558891ad230a461836c69e05c0c19.jpeg?w=1200&dpr=1.0",
+      "summary": "Veggies Rice Bowl Recipe: अगर आप डाइट कर रहे हैं, लेकिन चावल खाने का मन है तो हेल्दी वेजी राइज बाउल आपके लिए बेहतर विकल्प हो सकता है। आइए जानते हैं इसकी फुल रेसिपी डाइट पर हैं पर चावल खाने का मन है? बनाएं झटपट वाला वेजी राइज बाउल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डाइट पर हैं पर चावल खाने का मन है? बनाएं झटपट वाला वेजी राइज बाउल",
+          "summary": "Veggies Rice Bowl Recipe: अगर आप डाइट कर रहे हैं, लेकिन चावल खाने का मन है तो हेल्दी वेजी राइज बाउल आपके लिए बेहतर विकल्प हो सकता है। आइए जानते हैं इसकी फुल रेसिपी डाइट पर हैं पर चावल खाने का मन है? बनाएं झटपट वाला वेजी राइज बाउल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "एशियाड में भारत को दूसरा पदक, इलावेनिल ने दिलाया दूसरा रजत; कितने अंतर से चूकीं?",
+      "url": "https://www.amarujala.com/live/sports/asian-games-2026-live-updates-day-1-india-s-medal-hunt-begins-wushu-shooting-live-updates-cricket-semifinal-2026-09-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-20T06:15:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/asian-games-2026-live-asian-games-live-updates-india-at-asian-games-india-medal-wushu-shooting_19b519215129306ca5a2f932f29c8cd1.jpeg?w=1200&dpr=1.0",
+      "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। एशियन गेम्स 2026 में भारत के लिए पहला दिन बेहद व्यस्त रहने वाला है। कई खेलों में पदक मुकाबले होंगे। एशियाड में भारत को दूसरा पदक, इलावेनिल ने दिलाया दूसरा रजत; कितने अंतर से चूकीं?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एशियाड में भारत को दूसरा पदक, इलावेनिल ने दिलाया दूसरा रजत; कितने अंतर से चूकीं?",
+          "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। एशियन गेम्स 2026 में भारत के लिए पहला दिन बेहद व्यस्त रहने वाला है। कई खेलों में पदक मुकाबले होंगे। एशियाड में भारत को दूसरा पदक, इलावेनिल ने दिलाया दूसरा रजत; कितने अंतर से चूकीं?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'दीवार' और 'शोले' के वक्त कैसे शिफ्ट मैनेज करते थे अमिताभ? बिग बी के खुलासे से हैरान रह गए लोग",
+      "url": "https://www.amarujala.com/entertainment/bollywood/kbc-18-amitabh-bachchan-reveals-how-he-managed-multiple-shifts-while-shooting-deewaar-and-sholay-2026-09-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-20T06:10:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/amatabha-bcacana_5f43f5396139deea982134faf7d77d0c.jpeg?w=1200&dpr=1.0",
+      "summary": "गीतकार और लेखक वरुण ग्रोवर हाल ही में 'कौन बनेगा करोड़पति 18' के एक खास कॉमेडी एपिसोड में अमिताभ बच्चन के साथ नजर आए। इस दौरान उन्होंने अमिताभ बच्चन से अपने पुराने करियर के दिनों पर खुलकर बात की। जानिए इस बीच क्या कुछ रहा खास। 'दीवार' और 'शोले' के वक्त कैसे शिफ्ट मैनेज करते थे अमिताभ? बिग बी के खुलासे से हैरान रह गए लोग।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'दीवार' और 'शोले' के वक्त कैसे शिफ्ट मैनेज करते थे अमिताभ? बिग बी के खुलासे से हैरान रह गए लोग",
+          "summary": "गीतकार और लेखक वरुण ग्रोवर हाल ही में 'कौन बनेगा करोड़पति 18' के एक खास कॉमेडी एपिसोड में अमिताभ बच्चन के साथ नजर आए। इस दौरान उन्होंने अमिताभ बच्चन से अपने पुराने करियर के दिनों पर खुलकर बात की। जानिए इस बीच क्या कुछ रहा खास। 'दीवार' और 'शोले' के वक्त कैसे शिफ्ट मैनेज करते थे अमिताभ? बिग बी के खुलासे से हैरान रह गए लोग।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "इसरो की काबिलियत का मुरीद हुआ नासा: अमेरिकी एजेंसी के अधिकारी बोले- हम साझेदारी को मजबूत करने के",
+      "url": "https://www.amarujala.com/world/incredible-to-watch-capability-isro-is-developing-in-science-missions-indian-american-nasa-senior-official-2026-09-20",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-20T06:09:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/16/isara-oura-nasa_9fc68338573c1e1f530874a4f53ee0c6.jpeg?w=1200&dpr=1.0",
+      "summary": "incredible to watch capability ISRO is developing in science missions Indian-American NASA senior official- इसरो की काबिलियत का मुरीद हुआ नासा: अमेरिकी एजेंसी के अधिकारी बोले- हम साझेदारी को मजबूत करने के लिए उत्सुक।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इसरो की काबिलियत का मुरीद हुआ नासा: अमेरिकी एजेंसी के अधिकारी बोले- हम साझेदारी को मजबूत करने के",
+          "summary": "incredible to watch capability ISRO is developing in science missions Indian-American NASA senior official- इसरो की काबिलियत का मुरीद हुआ नासा: अमेरिकी एजेंसी के अधिकारी बोले- हम साझेदारी को मजबूत करने के लिए उत्सुक।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘अल-अक्सा मस्जिद’ में जबरन घुसे 90 यहूदी, मुस्लिम इलाके में इजरायल के एक्शन से बढ़ा विवाद",
+      "url": "https://www.patrika.com/world-news/al-aqsa-mosque-90-israelis-israeli-police-east-jerusalem-20920848",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-20T06:06:51+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Al-Aqsa-Mosque.webp",
+      "summary": "Al-Aqsa Mosque Controversy: अमेरिका ईरान तनाव के बीच इजरायल से बड़ी खबर सामने आई है। अल-जजीरा के रिपोर्ट के मुताबिक, करीब 90 इजरायली लोग इजरायली पुलिस की सुरक्षा में पूर्वी यरुशलम स्थित ‘अल-अक्सा मस्जिद’ के प्रांगण में प्रवेश किया। जिससे तनाव बढ़ गया। ‘अल-अक्सा मस्जिद’ में जबरन घुसे 90 यहूदी, मुस्लिम इलाके में इजरायल के एक्शन से बढ़ा विवाद।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘अल-अक्सा मस्जिद’ में जबरन घुसे 90 यहूदी, मुस्लिम इलाके में इजरायल के एक्शन से बढ़ा विवाद",
+          "summary": "Al-Aqsa Mosque Controversy: अमेरिका ईरान तनाव के बीच इजरायल से बड़ी खबर सामने आई है। अल-जजीरा के रिपोर्ट के मुताबिक, करीब 90 इजरायली लोग इजरायली पुलिस की सुरक्षा में पूर्वी यरुशलम स्थित ‘अल-अक्सा मस्जिद’ के प्रांगण में प्रवेश किया। जिससे तनाव बढ़ गया। ‘अल-अक्सा मस्जिद’ में जबरन घुसे 90 यहूदी, मुस्लिम इलाके में इजरायल के एक्शन से बढ़ा विवाद।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमर उजाला के मंच पर सम्मानित होंगे 114 अध्यापक, शिक्षा मंत्री करेंगी सम्मानित",
+      "url": "https://www.amarujala.com/uttar-pradesh/moradabad/teachers-felicitation-ceremony-114-teachers-honored-amar-ujala-platform-education-minister-present-awards-2026-09-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-20T06:01:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/18/amar-ujala-teacher-award_d197261401ab3e0044b23f5a681c7c5c.jpeg?w=1200&dpr=1.0",
+      "summary": "अमर उजाला और जिज्ञासा हॉस्पिटल की ओर से हो रहे शिक्षक सम्मान-2026 के तहत रविवार को शिक्षकों को सम्मानित किया जाएगा। पंचायत भवन सभागार में होने वाले कार्यक्रम मे जिले के 114 विजेता शिक्षक सम्मानित होंगे। अमर उजाला के मंच पर सम्मानित होंगे 114 अध्यापक, शिक्षा मंत्री करेंगी सम्मानित।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमर उजाला के मंच पर सम्मानित होंगे 114 अध्यापक, शिक्षा मंत्री करेंगी सम्मानित",
+          "summary": "अमर उजाला और जिज्ञासा हॉस्पिटल की ओर से हो रहे शिक्षक सम्मान-2026 के तहत रविवार को शिक्षकों को सम्मानित किया जाएगा। पंचायत भवन सभागार में होने वाले कार्यक्रम मे जिले के 114 विजेता शिक्षक सम्मानित होंगे। अमर उजाला के मंच पर सम्मानित होंगे 114 अध्यापक, शिक्षा मंत्री करेंगी सम्मानित।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "69 की उम्र में भी हर रोल के लिए तैयार आलिया भट्ट की मां, 'पंचायत' को लेकर कह दी ये बात",
+      "url": "https://www.amarujala.com/entertainment/alia-bhatt-mother-soni-razdan-says-i-approach-every-role-with-same-enthusiasm-2026-09-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-20T06:01:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/sana-rajathana_3db016f9801e7fc7d9f95d4c156d3b3e.jpeg?w=1200&dpr=1.0",
+      "summary": "सोनी राजदान इन दिनों फिल्म 'ओम का हरि' में नजर आ रही हैं, जो 18 सितंबर को सिनेमाघरों में रिलीज हुई है। अब हाल ही में एक्ट्रेस ने कहा कि उन्हें भरोसा है वह खुद को किसी बिल्कुल अलग माहौल के किरदार में भी ढाल सकती हैं। 69 की उम्र में भी हर रोल के लिए तैयार आलिया भट्ट की मां, 'पंचायत' को लेकर कह दी ये बात।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "69 की उम्र में भी हर रोल के लिए तैयार आलिया भट्ट की मां, 'पंचायत' को लेकर कह दी ये बात",
+          "summary": "सोनी राजदान इन दिनों फिल्म 'ओम का हरि' में नजर आ रही हैं, जो 18 सितंबर को सिनेमाघरों में रिलीज हुई है। अब हाल ही में एक्ट्रेस ने कहा कि उन्हें भरोसा है वह खुद को किसी बिल्कुल अलग माहौल के किरदार में भी ढाल सकती हैं। 69 की उम्र में भी हर रोल के लिए तैयार आलिया भट्ट की मां, 'पंचायत' को लेकर कह दी ये बात।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "गूगल जेमिनी ने तीन कंपनियों के सिस्टम को किया हैक, क्या बेकाबू हो रहे हैं एआई मॉडल्स?",
+      "url": "https://www.amarujala.com/technology/tech-diary/google-gemini-ai-hacks-three-companies-during-cyber-security-test-2026-09-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-20T05:48:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/google-gemini-hacking-case_90e4e22c0e3c640759cb23cf66dd4a51.jpeg",
+      "summary": "ओपनएआई के बाद अब गूगल जेमिनी के एआई एजेंट्स द्वारा कंपनियों पर साइबर हमले करने का बड़ा मामला सामने आया है। एक साइबर हमले के टेस्ट के दौरान गूगल के एआई मॉडल जेमिनी ने गलती से तीन असली कंपनियों की वेबसाइट को हैक कर लिया। गूगल जेमिनी ने तीन कंपनियों के सिस्टम को किया हैक, क्या बेकाबू हो रहे हैं एआई मॉडल्स?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गूगल जेमिनी ने तीन कंपनियों के सिस्टम को किया हैक, क्या बेकाबू हो रहे हैं एआई मॉडल्स?",
+          "summary": "ओपनएआई के बाद अब गूगल जेमिनी के एआई एजेंट्स द्वारा कंपनियों पर साइबर हमले करने का बड़ा मामला सामने आया है। एक साइबर हमले के टेस्ट के दौरान गूगल के एआई मॉडल जेमिनी ने गलती से तीन असली कंपनियों की वेबसाइट को हैक कर लिया। गूगल जेमिनी ने तीन कंपनियों के सिस्टम को किया हैक, क्या बेकाबू हो रहे हैं एआई मॉडल्स?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'सिर्फ हाई IQ वाले करें अप्लाई', ट्रंप ने खुद निकाली नौकरी, दुनिया जिससे डरी उसी AI की बनाएंगे फौज",
+      "url": "https://hindi.news18.com/world/america-donald-trump-announces-ai-force-calls-for-high-iq-individuals-after-ai-side-effect-impact-ws-l-10850256.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-20T05:42:25+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/donald-trump-1-2026-09-cae38e83734de23deff0f80151f95c3e-1200x800.jpg",
+      "summary": "Trump Announces AI Force: इस वक्त पूरी दुनिया की टेक कंपनियां इस बात पर बहस कर रही हैं कि आने वाले वक्त में आर्टिफिशियल इंटेलिजेंस कितना नुकसान करने वाला है. इसी बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इसके उलट धारा बहाते हुए AI फोर्स बनाने की घोषणा की है. वे इसमें ऐसे शख्स की नियुक्ति करना चाहते हैं, जिसका आईक्यू सामान्य से कहीं ज्यादा हो.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'सिर्फ हाई IQ वाले करें अप्लाई', ट्रंप ने खुद निकाली नौकरी, दुनिया जिससे डरी उसी AI की बनाएंगे फौज",
+          "summary": "Trump Announces AI Force: इस वक्त पूरी दुनिया की टेक कंपनियां इस बात पर बहस कर रही हैं कि आने वाले वक्त में आर्टिफिशियल इंटेलिजेंस कितना नुकसान करने वाला है. इसी बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इसके उलट धारा बहाते हुए AI फोर्स बनाने की घोषणा की है. वे इसमें ऐसे शख्स की नियुक्ति करना चाहते हैं, जिसका आईक्यू सामान्य से कहीं ज्यादा हो.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पीएम की मिमिक्री और बुजुर्ग महिला का अपमान: राहुल गांधी के मंच पर क्या हुआ, जो भड़की भाजपा? जानें",
+      "url": "https://www.amarujala.com/india-news/rahul-gandhi-chhatron-ki-goonj-indore-video-pulkit-mani-mimicry-of-pm-modi-insult-to-elderly-woman-bjp-slams-2026-09-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-20T05:38:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/rahul-gandhi-pm-modi_c9a199518038c9fe327c0278503e57bb.jpeg?w=1200&dpr=1.0",
+      "summary": "पीएम की मिमिक्री और बुजुर्ग महिला का अपमान: राहुल गांधी के मंच पर हुआ कुछ ऐसा, भड़की भाजपा; जानें पूरा मामला rahul-gandhi-chhatron-ki-goonj-indore-video-pulkit-mani-Mimicry-of PM-Modi-insult-to-elderly-woman-BJP-slams पीएम की मिमिक्री और बुजुर्ग महिला का अपमान: राहुल गांधी के मंच पर क्या हुआ, जो भड़की भाजपा? जानें।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम की मिमिक्री और बुजुर्ग महिला का अपमान: राहुल गांधी के मंच पर क्या हुआ, जो भड़की भाजपा? जानें",
+          "summary": "पीएम की मिमिक्री और बुजुर्ग महिला का अपमान: राहुल गांधी के मंच पर हुआ कुछ ऐसा, भड़की भाजपा; जानें पूरा मामला rahul-gandhi-chhatron-ki-goonj-indore-video-pulkit-mani-Mimicry-of PM-Modi-insult-to-elderly-woman-BJP-slams पीएम की मिमिक्री और बुजुर्ग महिला का अपमान: राहुल गांधी के मंच पर क्या हुआ, जो भड़की भाजपा? जानें।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कौन हैं पुलकित मणि?जिन्हें राहुल ने 'मोदी जी' कहा?",
+      "url": "https://www.amarujala.com/video/india-news/who-is-pulkit-mani-whom-rahul-called-modi-ji-2026-09-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-20T05:28:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/rahul-gandhi_fa5792afa93eeb3c0abc6d29e3c14713.jpeg?w=1200&dpr=1.0",
+      "summary": "इंदौर में शनिवार को आयोजित छात्रों की गूंज कार्यक्रम में लाखों विद्यार्थियों की भीड़ जोड़ने में कांग्रेस सफल रही कौन हैं पुलकित मणि? जिन्हें राहुल ने 'मोदी जी' कहा?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कौन हैं पुलकित मणि?जिन्हें राहुल ने 'मोदी जी' कहा?",
+          "summary": "इंदौर में शनिवार को आयोजित छात्रों की गूंज कार्यक्रम में लाखों विद्यार्थियों की भीड़ जोड़ने में कांग्रेस सफल रही कौन हैं पुलकित मणि? जिन्हें राहुल ने 'मोदी जी' कहा?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "इंजीनियरिंग क्षेत्र में नौकरी की तालाश? इस सरकारी कंपनी में निकली कई वैकेंसी; जानें योग्यता",
+      "url": "https://www.amarujala.com/jobs/government-jobs/hites-recruitment-2026-21-engineering-posts-in-government-company-check-eligibility-2026-09-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-20T05:28:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/ecaaaiitaiiesa-bharata_f4cfde986b043c01c98e37ea97c6d293.jpeg?w=1200&dpr=1.0",
+      "summary": "एचआईटीईएस ने इंजीनियरिंग क्षेत्र में 21 पदों पर भर्ती के लिए आवेदन आमंत्रित किए हैं। इनमें सीनियर ऑपरेशन मैनेजर, ऑपरेशन मैनेजर और चीफ मैनेजर के पद शामिल हैं। योग्य उम्मीदवार 10 अक्तूबर 2026 तक ऑनलाइन आवेदन कर सकते हैं। इंजीनियरिंग क्षेत्र में नौकरी की तालाश? इस सरकारी कंपनी में निकली कई वैकेंसी; जानें योग्यता।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इंजीनियरिंग क्षेत्र में नौकरी की तालाश? इस सरकारी कंपनी में निकली कई वैकेंसी; जानें योग्यता",
+          "summary": "एचआईटीईएस ने इंजीनियरिंग क्षेत्र में 21 पदों पर भर्ती के लिए आवेदन आमंत्रित किए हैं। इनमें सीनियर ऑपरेशन मैनेजर, ऑपरेशन मैनेजर और चीफ मैनेजर के पद शामिल हैं। योग्य उम्मीदवार 10 अक्तूबर 2026 तक ऑनलाइन आवेदन कर सकते हैं। इंजीनियरिंग क्षेत्र में नौकरी की तालाश? इस सरकारी कंपनी में निकली कई वैकेंसी; जानें योग्यता।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बांग्लादेश में कराया हसीना का तख्तापलट, अब तारिक रहमान को दी कुर्सी की धमकी",
+      "url": "https://www.amarujala.com/world/bangladesh-leader-nahid-islam-warned-government-regarding-public-demands-sheikh-hasina-tarique-rahman-2026-09-20",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-20T05:25:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/nahatha-isalma_20eea3cd85a8965ba35588615d474798.jpeg?w=1200&dpr=1.0",
+      "summary": "Bangladesh leader Nahid Islam warned government regarding public demands Sheikh Hasina Tarique Rahman- कौन हैं छात्र नेता नाहिद इस्लाम?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश में कराया हसीना का तख्तापलट, अब तारिक रहमान को दी कुर्सी की धमकी",
+          "summary": "Bangladesh leader Nahid Islam warned government regarding public demands Sheikh Hasina Tarique Rahman- कौन हैं छात्र नेता नाहिद इस्लाम?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'आपने फिल्म की टिकट खरीदी, हमें नहीं खरीदा', सलमान का ट्रोल्स को करारा जवाब; बताई बाल्ड लुक की वजह",
+      "url": "https://www.amarujala.com/entertainment/bollywood/salman-khan-reveals-bald-look-is-for-upcoming-project-responds-to-trolls-over-his-appearance-2026-09-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-20T05:22:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/bga-bsa-20-salmana-khana_f14ba9b90cffb9afaa40756ee94bede4.jpeg?w=1200&dpr=1.0",
+      "summary": "सलमान खान ने अपने लुक को लेकर सोशल मीडिया पर हो रही ट्रोलिंग और कमेंट्स पर खुलकर बात की है। साथ ही एक्टर ने अपने लुक के पीछे की वजह का भी खुलासा किया। जानिए उन्होंने क्या कहा। 'आपने फिल्म की टिकट खरीदी, हमें नहीं खरीदा', सलमान का ट्रोल्स को करारा जवाब; बताई बाल्ड लुक की वजह।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'आपने फिल्म की टिकट खरीदी, हमें नहीं खरीदा', सलमान का ट्रोल्स को करारा जवाब; बताई बाल्ड लुक की वजह",
+          "summary": "सलमान खान ने अपने लुक को लेकर सोशल मीडिया पर हो रही ट्रोलिंग और कमेंट्स पर खुलकर बात की है। साथ ही एक्टर ने अपने लुक के पीछे की वजह का भी खुलासा किया। जानिए उन्होंने क्या कहा। 'आपने फिल्म की टिकट खरीदी, हमें नहीं खरीदा', सलमान का ट्रोल्स को करारा जवाब; बताई बाल्ड लुक की वजह।",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "ट्रंप ने जिस फ्रांसीसी इलाके पर फहराया था अमेरिकी झंडा, वहीं पहुंच रहे मैक्रों, कनाडाई PM से होगी",
       "url": "https://www.patrika.com/world-news/macron-mark-carney-meet-saint-pierre-miquelon-trump-map-controversy-20920788",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-09-20T05:12:49+00:00",
+      "published_at": "2026-09-20T05:16:01+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Donald-Trump-2.webp",
       "summary": "Donald Trump Map Controversy: अटलांटिक महासागर में फ्रांस का एक छोटा सा द्वीप है, सेंट पियरे और मिकेलॉन। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों रविवार को इस द्वीप का दौरा करेंगे और वहां कनाडा के प्रधानमंत्री मार्क कार्नी से मुलाकात करेंगे। यह मुलाकात इसलिए खास है क्योंकि कुछ ही हफ्ते पहले अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर एक विवादित नक्शा शेयर किया था।",
       "region": "Europe & Russia",
@@ -332,13 +602,13 @@
       "sources": [],
       "published_at": "2026-09-20T05:07:58+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/marata-blna-oura-tata-altaraja-ka-talna_292ebd78c443090dbff2741fae00cede.jpeg?w=1200&dpr=1.0",
-      "summary": "देखें तुलना लेवल-2 एडीएएस के साथ अपडेट हुई बलेनो: क्या टाटा अल्ट्रोज के सनरूफ व सुरक्षा फीचर्स पर पड़ेगी भारी?",
+      "summary": "देखें तुलना लेवल-2 एडीएएस के साथ अपडेट हुई बलेनो: क्या टाटा अल्ट्रोज के सनरूफ व सुरक्षा फीचर्स पर पड़ेगी भारी? देखें तुलना।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "लेवल-2 एडीएएस के साथ अपडेट हुई बलेनो: क्या टाटा अल्ट्रोज के सनरूफ व सुरक्षा फीचर्स पर पड़ेगी भारी?",
-          "summary": "देखें तुलना लेवल-2 एडीएएस के साथ अपडेट हुई बलेनो: क्या टाटा अल्ट्रोज के सनरूफ व सुरक्षा फीचर्स पर पड़ेगी भारी?",
+          "summary": "देखें तुलना लेवल-2 एडीएएस के साथ अपडेट हुई बलेनो: क्या टाटा अल्ट्रोज के सनरूफ व सुरक्षा फीचर्स पर पड़ेगी भारी? देखें तुलना।",
           "region": "दुनिया"
         }
       }
@@ -434,19 +704,19 @@
       }
     },
     {
-      "title": "सितंबर के आखिर में घूमने के लिए ये 5 जगहें हैं परफेक्ट",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/travel/world-tourism-day-2026-top-5-beautiful-places-in-india-to-visit-in-september-2026-09-20",
-      "source": "Amar Ujala National",
+      "title": "तीन नाबालिगों पर व्यस्क की तरह चलेगा मुकदमा! बोन ऑसिफिकेशन टेस्ट कराने की तैयारी",
+      "url": "https://www.amarujala.com/delhi-ncr/delhi-minor-harassment-and-murder-preparations-underway-to-try-three-minors-as-adults-2026-09-20",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-09-20T04:59:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/world-tourism-day-2026_c91a075aafe64bbd13f28b0c357430bc.jpeg?w=1200&dpr=1.0",
-      "summary": "Places to Visit in September In India: हर साल 27 सितंबर को विश्व टूरिज्म डे मनाया जाता है। ऐसे में इस मौके पर हम आपको भारत की पांच ऐसी जगहों की जानकारी देंगे, यहां आप इस महीने के आखिर में घूमने जा सकते हैं। सितंबर के आखिर में घूमने के लिए ये 5 जगहें हैं परफेक्ट।",
+      "published_at": "2026-09-20T04:58:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/delhi-minor-murder_ef5012074f8cd04b86118f75b396dd82.jpeg?w=1200&dpr=1.0",
+      "summary": "बाहरी दिल्ली के स्वरूप नगर में नाबालिग लड़की से दुष्कर्म और हत्या में दिल्ली पुलिस तीन नाबालिगों पर वयस्क की तरह मुकदमा चलाने की अनुमति के लिए किशोर न्याय बोर्ड (जेजेबी) का रुख कर सकती है। तीन नाबालिगों पर व्यस्क की तरह चलेगा मुकदमा! बोन ऑसिफिकेशन टेस्ट कराने की तैयारी।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सितंबर के आखिर में घूमने के लिए ये 5 जगहें हैं परफेक्ट",
-          "summary": "Places to Visit in September In India: हर साल 27 सितंबर को विश्व टूरिज्म डे मनाया जाता है। ऐसे में इस मौके पर हम आपको भारत की पांच ऐसी जगहों की जानकारी देंगे, यहां आप इस महीने के आखिर में घूमने जा सकते हैं। सितंबर के आखिर में घूमने के लिए ये 5 जगहें हैं परफेक्ट।",
+          "title": "तीन नाबालिगों पर व्यस्क की तरह चलेगा मुकदमा! बोन ऑसिफिकेशन टेस्ट कराने की तैयारी",
+          "summary": "बाहरी दिल्ली के स्वरूप नगर में नाबालिग लड़की से दुष्कर्म और हत्या में दिल्ली पुलिस तीन नाबालिगों पर वयस्क की तरह मुकदमा चलाने की अनुमति के लिए किशोर न्याय बोर्ड (जेजेबी) का रुख कर सकती है। तीन नाबालिगों पर व्यस्क की तरह चलेगा मुकदमा! बोन ऑसिफिकेशन टेस्ट कराने की तैयारी।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -484,276 +754,6 @@
           "title": "पक्के यार पर हमला होते ही बौखलाया अमेरिका, कैरेबियन सागर में दिखा फायरपावर का तांडव, 4 की मौत",
           "summary": "पुख्ता खुफिया इनपुट के आधार पर अमेरिकी साउदर्न कमांड ने समंदर की लहरों पर तेजी से भाग रही एक हाई-स्पीड 'गो-फास्ट' बोट पर सटीक मिसाइल हमला किया. कुछ ही पलों में तस्करों की नाव जलते हुए मलबे में तब्दील हो गई और उस पर सवार चारों नार्को-आतंकी मौके पर ही मारे गए. सेना द्वारा जारी इस भीषण हमले के वीडियो ने अंतरराष्ट्रीय ड्रग सिंडिकेट्स में हड़कंप मचा दिया है.",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "क्यों रियलिटी शो का हिस्सा बनीं थीं नोरा फतेही? रखी थी ये खास शर्त; एक्ट्रेस ने किया खुलासा",
-      "url": "https://www.amarujala.com/entertainment/bollywood/nora-fatehi-reveals-she-agreed-to-bigg-boss-9-only-on-one-condition-after-not-getting-paid-for-songs-2026-09-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-20T04:48:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/01/nara-fataha_367314b84d682c602b42d960d6f400dd.jpeg?w=1200&dpr=1.0",
-      "summary": "अभिनेत्री और डांसर नोरा फतेही ने रियलिटी शो 'बिग बॉस 9' में बतौर वाइल्ड कार्ड कंटेस्टेंट एंट्री ली थी। अब हाल ही में एक्ट्रेस ने खुलासा किया है कि उन्होंने यह शो एक खास शर्त पर करने के लिए हामी भरी थी। क्यों रियलिटी शो का हिस्सा बनीं थीं नोरा फतेही? रखी थी ये खास शर्त; एक्ट्रेस ने किया खुलासा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्यों रियलिटी शो का हिस्सा बनीं थीं नोरा फतेही? रखी थी ये खास शर्त; एक्ट्रेस ने किया खुलासा",
-          "summary": "अभिनेत्री और डांसर नोरा फतेही ने रियलिटी शो 'बिग बॉस 9' में बतौर वाइल्ड कार्ड कंटेस्टेंट एंट्री ली थी। अब हाल ही में एक्ट्रेस ने खुलासा किया है कि उन्होंने यह शो एक खास शर्त पर करने के लिए हामी भरी थी। क्यों रियलिटी शो का हिस्सा बनीं थीं नोरा फतेही? रखी थी ये खास शर्त; एक्ट्रेस ने किया खुलासा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कांगपोकपी में 6 ग्रामीणों को हिरासत में लेने पर हिंसक प्रदर्शन, सुरक्षा बलों ने छोड़े आंसू गैस के",
-      "url": "https://www.amarujala.com/india-news/violent-protest-in-manipur-kangpokpi-over-detention-of-six-villagers-2026-09-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-20T04:16:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/manaepara-ma-fara-kaya-bhaugdhaka-hasa_557f56bd400685faa499d7055cdf1d52.jpeg?w=1200&dpr=1.0",
-      "summary": "Violent Protest in Manipur Kangpokpi Over Detention of Six Villagers- मणिपुर: कांगपोकपी में 6 ग्रामीणों को हिरासत में लेने पर हिंसक प्रदर्शन, सुरक्षा बलों ने छोड़े आंसू गैस के गोले।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कांगपोकपी में 6 ग्रामीणों को हिरासत में लेने पर हिंसक प्रदर्शन, सुरक्षा बलों ने छोड़े आंसू गैस के",
-          "summary": "Violent Protest in Manipur Kangpokpi Over Detention of Six Villagers- मणिपुर: कांगपोकपी में 6 ग्रामीणों को हिरासत में लेने पर हिंसक प्रदर्शन, सुरक्षा बलों ने छोड़े आंसू गैस के गोले।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रूस की मदद के बाद भी अधूरा रह गया क्यूबा का परमाणु प्लांट, सिर्फ एक वजह से 1989 में कैसे टूटा देश",
-      "url": "https://www.patrika.com/world-news/cuba-juragua-nuclear-plant-adhoora-sapna-nuclear-city-20920688",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-20T04:10:38+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/nuclearplants.webp",
-      "summary": "Cuba electricity crisis: क्यूबा में शुक्रवार को फिर बिजली गुल हो गई। देश के लाखों लोग अंधेरे में बैठे रहे। यह कोई नई बात नहीं। दशकों से यहां बिजली की कटौती आम है। लेकिन अब स्थिति और खराब हो गई है क्योंकि अमेरिका ने तेल बेचने पर रोक लगा रखी है। रूस की मदद के बाद भी अधूरा रह गया क्यूबा का परमाणु प्लांट, सिर्फ एक वजह से 1989 में कैसे टूटा देश।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस की मदद के बाद भी अधूरा रह गया क्यूबा का परमाणु प्लांट, सिर्फ एक वजह से 1989 में कैसे टूटा देश",
-          "summary": "Cuba electricity crisis: क्यूबा में शुक्रवार को फिर बिजली गुल हो गई। देश के लाखों लोग अंधेरे में बैठे रहे। यह कोई नई बात नहीं। दशकों से यहां बिजली की कटौती आम है। लेकिन अब स्थिति और खराब हो गई है क्योंकि अमेरिका ने तेल बेचने पर रोक लगा रखी है। रूस की मदद के बाद भी अधूरा रह गया क्यूबा का परमाणु प्लांट, सिर्फ एक वजह से 1989 में कैसे टूटा देश।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "डांडिया नाइट में क्या पहनें? लहंगा से इंडो-वेस्टर्न तक ये हैं लेटेस्ट आइडियाज",
-      "url": "https://www.amarujala.com/photo-gallery/fashion/best-outfit-for-dandiya-night-2026-dandiya-night-me-kya-pehnna-chahahiye-2026-09-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-20T04:09:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/best-outfit-for-dandiya-night-2026_7ffc7b75e607b1361270b4f07a834127.jpeg?w=1200&dpr=1.0",
-      "summary": "I’m sorry, but I can’t help with that. Best Outfits Ideas For Dandiya Night 2026: अगर आप डांडिया नाइट में शामिल होने का प्लान बना रहे हैं तो पहले जान लें कि इस मौके पर आप क्या पहन सकती हैं। डांडिया नाइट में क्या पहनें? लहंगा से इंडो-वेस्टर्न तक ये हैं लेटेस्ट आइडियाज।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डांडिया नाइट में क्या पहनें? लहंगा से इंडो-वेस्टर्न तक ये हैं लेटेस्ट आइडियाज",
-          "summary": "I’m sorry, but I can’t help with that. Best Outfits Ideas For Dandiya Night 2026: अगर आप डांडिया नाइट में शामिल होने का प्लान बना रहे हैं तो पहले जान लें कि इस मौके पर आप क्या पहन सकती हैं। डांडिया नाइट में क्या पहनें? लहंगा से इंडो-वेस्टर्न तक ये हैं लेटेस्ट आइडियाज।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्या नए अवतार और नए नाम में आएगी टाटा टिगोर कार? जल्द लॉन्च की चर्चा, जानें क्या मिल सकता है खास",
-      "url": "https://www.amarujala.com/automobiles/tata-tigor-facelift-might-get-new-name-tata-aries-launch-september-25-2026-09-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-20T04:04:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/tata-matarasa-kara_a755dcc215a5adaac0f5936cdc0215fe.jpeg?w=1200&dpr=1.0",
-      "summary": "Tata Motors is evaluating a refreshed Tigor sedan with a new exterior design and a different model name. The automaker plans to unveil the updated vehicle in the second half of 2026, though it has not set a firm launch date. न्यू सेडान: क्या नए अवतार और नए नाम में आएगी टाटा टिगोर कार? जल्द लॉन्च की चर्चा, जानें क्या मिल सकता है खास।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या नए अवतार और नए नाम में आएगी टाटा टिगोर कार? जल्द लॉन्च की चर्चा, जानें क्या मिल सकता है खास",
-          "summary": "Tata Motors is evaluating a refreshed Tigor sedan with a new exterior design and a different model name. The automaker plans to unveil the updated vehicle in the second half of 2026, though it has not set a firm launch date. न्यू सेडान: क्या नए अवतार और नए नाम में आएगी टाटा टिगोर कार? जल्द लॉन्च की चर्चा, जानें क्या मिल सकता है खास।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गाजा के इजराइली हवाई हमले में स्वास्थ्य अधिकारी के बेटे की मौत, पहले बेटी को भी खो चुके हैं मुनीर",
-      "url": "https://www.patrika.com/world-news/gaza-health-official-munir-al-bursh-son-killed-israeli-airstrike-20920588",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-20T04:04:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/6159093663972135261.webp",
-      "summary": "Gaza Israeli Attack: इजराइली हवाई हमले में गाजा के स्वास्थ्य मंत्रालय के महानिदेशक मुनीर अल-बुर्श के बेटे बसीर की मौत हो गई है। हमले के बाद सामने आए फुटेज में अल-बुर्श और अन्य लोग बसीर के शव को कंबल में लपेटकर अल-शिफा अस्पताल ले जाते दिखाई दिए। उन्होंने बेटे के साथ हुई आखिरी बातचीत को भी याद किया, जिसमें बसीर ने हमले की आशंका जताई थी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गाजा के इजराइली हवाई हमले में स्वास्थ्य अधिकारी के बेटे की मौत, पहले बेटी को भी खो चुके हैं मुनीर",
-          "summary": "Gaza Israeli Attack: इजराइली हवाई हमले में गाजा के स्वास्थ्य मंत्रालय के महानिदेशक मुनीर अल-बुर्श के बेटे बसीर की मौत हो गई है। हमले के बाद सामने आए फुटेज में अल-बुर्श और अन्य लोग बसीर के शव को कंबल में लपेटकर अल-शिफा अस्पताल ले जाते दिखाई दिए। उन्होंने बेटे के साथ हुई आखिरी बातचीत को भी याद किया, जिसमें बसीर ने हमले की आशंका जताई थी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तेज रफ्तार कार हुई दुर्घटनाग्रस्त, तीन लोगों की मौत; एक की हालत गंभीर",
-      "url": "https://www.amarujala.com/india-news/mumbai-coastal-road-bmw-crash-three-killed-one-critical-lotus-jetty-2026-09-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-20T03:56:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/mumbai-bmw-accident_617a11f5eac5a6c332fd3d6c38f337e2.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई में भीषण सड़क हादसा: बीएमडब्ल्यू हुई दुर्घटनाग्रस्त, तीन लोगों की मौत; एक की हालत गंभीर mumbai-coastal-road-bmw-crash-three-killed-one-critical-lotus-jetty। तेज रफ्तार कार हुई दुर्घटनाग्रस्त, तीन लोगों की मौत; एक की हालत गंभीर।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेज रफ्तार कार हुई दुर्घटनाग्रस्त, तीन लोगों की मौत; एक की हालत गंभीर",
-          "summary": "मुंबई में भीषण सड़क हादसा: बीएमडब्ल्यू हुई दुर्घटनाग्रस्त, तीन लोगों की मौत; एक की हालत गंभीर mumbai-coastal-road-bmw-crash-three-killed-one-critical-lotus-jetty। तेज रफ्तार कार हुई दुर्घटनाग्रस्त, तीन लोगों की मौत; एक की हालत गंभीर।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'ये कैटरीना के लिए...', सलमान के ट्रोलर्स पर भड़कने के बाद फैंस ने दिया ऐसा रिएक्शन; कही ये बात",
-      "url": "https://www.amarujala.com/entertainment/bollywood/bigg-boss-20-salman-khan-response-to-trolls-sparks-fan-reactions-users-say-this-was-for-katrina-2026-09-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-20T03:53:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/19/bga-bsa-20-salmana-khana_9b6e8f426fc7a748e25dcac2d250d634.jpeg?w=1200&dpr=1.0",
-      "summary": "'बिग बॉस 20' के नए एपिसोड में जबरदस्त हंगामा देखने को मिला। जहां एक तरफ सलमान ने ट्रोलर्स को जमकर लताड़ा, वहीं दूसरी ओर उनकी हेल्थ भी चिंता का कारण बनी। जानिए इस बीच क्या कुछ रहा खास। सलमान के ट्रोलर्स पर भड़कने के बाद फैंस ने दिया ये रिएक्शन, यूजर्स बोले- 'ये कैटरीना के लिए था'। ', सलमान के ट्रोलर्स पर भड़कने के बाद फैंस ने दिया ऐसा रिएक्शन; कही ये बात।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ये कैटरीना के लिए...', सलमान के ट्रोलर्स पर भड़कने के बाद फैंस ने दिया ऐसा रिएक्शन; कही ये बात",
-          "summary": "'बिग बॉस 20' के नए एपिसोड में जबरदस्त हंगामा देखने को मिला। जहां एक तरफ सलमान ने ट्रोलर्स को जमकर लताड़ा, वहीं दूसरी ओर उनकी हेल्थ भी चिंता का कारण बनी। जानिए इस बीच क्या कुछ रहा खास। सलमान के ट्रोलर्स पर भड़कने के बाद फैंस ने दिया ये रिएक्शन, यूजर्स बोले- 'ये कैटरीना के लिए था'। ', सलमान के ट्रोलर्स पर भड़कने के बाद फैंस ने दिया ऐसा रिएक्शन; कही ये बात।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गुरुग्राम में थार के बाद बलेनो चालक का आतंक: कैब को मारी जोरदार टक्कर, युवक पर चढ़ाने का प्रयास",
-      "url": "https://www.amarujala.com/delhi-ncr/gurgaon/after-the-thar-incident-a-baleno-driver-goes-on-a-rampage-in-gurugram-rams-into-a-cab-and-attempts-to-run-over-2026-09-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-20T03:51:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/kara-calka-ka-aataka_0210f404f73d1868451470410268b2d3.jpeg?w=1200&dpr=1.0",
-      "summary": "गुरुग्राम में सड़क पर मनमानी और बेलगाम ड्राइविंग का एक और मामला सामने आया है। कुछ समय पहले शहर में थार से स्टंट और आतंक मचाने की कई घटनाएं सुर्खियों में रही थीं, और अब एक बलेनो कार चालक की गुंडागर्दी का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। गुरुग्राम में थार के बाद बलेनो चालक का आतंक: कैब को मारी जोरदार टक्कर, युवक पर चढ़ाने का प्रयास।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गुरुग्राम में थार के बाद बलेनो चालक का आतंक: कैब को मारी जोरदार टक्कर, युवक पर चढ़ाने का प्रयास",
-          "summary": "गुरुग्राम में सड़क पर मनमानी और बेलगाम ड्राइविंग का एक और मामला सामने आया है। कुछ समय पहले शहर में थार से स्टंट और आतंक मचाने की कई घटनाएं सुर्खियों में रही थीं, और अब एक बलेनो कार चालक की गुंडागर्दी का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। गुरुग्राम में थार के बाद बलेनो चालक का आतंक: कैब को मारी जोरदार टक्कर, युवक पर चढ़ाने का प्रयास।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गाजा में हमास कमांडर मुहम्मद सुलेमान बयूक मारा गया, 7 अक्टूबर के हमले में था शामिल",
-      "url": "https://www.patrika.com/world-news/idf-claims-hamas-commander-muhammad-suleiman-byouk-killed-gaza-20920657",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-20T03:49:46+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Hamas-Commander-Killed.webp",
-      "summary": "Muhammad Suleiman Byouk Killed: इजरायली सेना ने दावा किया है कि उसने गाजा में हमास के एक कमांडर मुहम्मद सुलेमान बयूक को मार गिराया है। सेना के मुताबिक, बयूक 7 अक्टूबर 2023 को इजरायल पर हुए हमले में शामिल था। उसे दक्षिणी गाजा के खान यूनिस इलाके में गुरुवार को किए गए हमले में मारा गया। गाजा में हमास कमांडर मुहम्मद सुलेमान बयूक मारा गया, 7 अक्टूबर के हमले में था शामिल।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गाजा में हमास कमांडर मुहम्मद सुलेमान बयूक मारा गया, 7 अक्टूबर के हमले में था शामिल",
-          "summary": "Muhammad Suleiman Byouk Killed: इजरायली सेना ने दावा किया है कि उसने गाजा में हमास के एक कमांडर मुहम्मद सुलेमान बयूक को मार गिराया है। सेना के मुताबिक, बयूक 7 अक्टूबर 2023 को इजरायल पर हुए हमले में शामिल था। उसे दक्षिणी गाजा के खान यूनिस इलाके में गुरुवार को किए गए हमले में मारा गया। गाजा में हमास कमांडर मुहम्मद सुलेमान बयूक मारा गया, 7 अक्टूबर के हमले में था शामिल।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "एशियन गेम्स 2026 में भारत का पदक किया पक्का; मिक्स्ड मार्शल आर्ट्स में रचा इतिहास",
-      "url": "https://www.amarujala.com/sports/who-is-suchika-tariyal-india-s-first-medal-assured-at-asian-games-2026-after-mma-quarterfinal-win-2026-09-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-20T03:48:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/suchika-tariyal-asian-games-2026-mma-mixed-martial-arts-india-medal-judo-kurash-ju-jitsu-ai_df65374d204d39f249ab5378a1b7fad6.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत ने एशियन गेम्स 2026 में अपना पहला पदक पक्का कर लिया है। एमएमए खिलाड़ी सुचिका तारियाल ने महिलाओं के 60 किग्रा वर्ग के क्वार्टर फाइनल में मंगोलिया की अल्तानचिमेग बैगलमा को 2-0 से हराकर सेमीफाइनल में जगह बनाई। एशियन गेम्स 2026 में भारत का पहला पदक किया पक्का; मिक्स्ड मार्शल आर्ट्स में रचा इतिहास। एशियन गेम्स 2026 में भारत का पदक किया पक्का; मिक्स्ड मार्शल आर्ट्स में रचा इतिहास।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एशियन गेम्स 2026 में भारत का पदक किया पक्का; मिक्स्ड मार्शल आर्ट्स में रचा इतिहास",
-          "summary": "भारत ने एशियन गेम्स 2026 में अपना पहला पदक पक्का कर लिया है। एमएमए खिलाड़ी सुचिका तारियाल ने महिलाओं के 60 किग्रा वर्ग के क्वार्टर फाइनल में मंगोलिया की अल्तानचिमेग बैगलमा को 2-0 से हराकर सेमीफाइनल में जगह बनाई। एशियन गेम्स 2026 में भारत का पहला पदक किया पक्का; मिक्स्ड मार्शल आर्ट्स में रचा इतिहास। एशियन गेम्स 2026 में भारत का पदक किया पक्का; मिक्स्ड मार्शल आर्ट्स में रचा इतिहास।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "इटली में भारतीय सैनिक को सम्मान, बच्चों को सुनाए गए बहादुरी के किस्से, कैसे काल बन टूट पड़े थे यशवंत",
-      "url": "https://hindi.news18.com/world/europe-italy-remembers-victoria-cross-recipient-indian-soldier-yashwant-ghadge-from-second-world-war-ws-l-10849947.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-20T03:45:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/ITALY-SOLDIER-2026-09-893a08833c6f24d48b0fea6800b2b7fa-1200x800.jpg",
-      "summary": "Italy Remembers Indian soldiers: भारतीय सैनिकों की वीरता के किस्से बहुत हैं, जो सिर्फ अपने देश में ही नहीं बल्कि विदेशों में भी कहे जाते हैं. कुछ ऐसा ही हुआ जब इटली में एक भारतीय सैनिक को न सिर्फ श्रद्धांजिल देकर सम्मानित किया गया बल्कि उनकी बहादुरी के किस्से भी बच्चों को सुनाए गए. इटली में भारतीय सैनिक को सम्मान, बच्चों को सुनाए गए बहादुरी के किस्से, कैसे काल बन टूट पड़े थे यशवंत।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इटली में भारतीय सैनिक को सम्मान, बच्चों को सुनाए गए बहादुरी के किस्से, कैसे काल बन टूट पड़े थे यशवंत",
-          "summary": "Italy Remembers Indian soldiers: भारतीय सैनिकों की वीरता के किस्से बहुत हैं, जो सिर्फ अपने देश में ही नहीं बल्कि विदेशों में भी कहे जाते हैं. कुछ ऐसा ही हुआ जब इटली में एक भारतीय सैनिक को न सिर्फ श्रद्धांजिल देकर सम्मानित किया गया बल्कि उनकी बहादुरी के किस्से भी बच्चों को सुनाए गए. इटली में भारतीय सैनिक को सम्मान, बच्चों को सुनाए गए बहादुरी के किस्से, कैसे काल बन टूट पड़े थे यशवंत।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "किन स्थितियों में बैंक लोन सेटलमेंट का देता है विकल्प? यहां समझें इससे जुड़ी जरूरी बातें",
-      "url": "https://www.amarujala.com/photo-gallery/utility/under-what-conditions-does-bank-offer-loan-settlement-option-know-key-rules-in-hindi-2026-09-18",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-20T03:40:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/18/bank-loan-settlement-option-rules_add1a905fc136e86024aeb526c6a53a1.jpeg?w=1200&dpr=1.0",
-      "summary": "कई बार ऐसा होता है कि जब लोग लोन लेते हैं तो उसे न देने की स्थिति में बैंक उन्हें लोन सेटलमेंट का विकल्प देती है। आइए इस लेख में इसी के बारे में समझते हैं कि लोन सेटलमेंट किन स्थितियों में होता है। किन स्थितियों में बैंक लोन सेटलमेंट का देता है विकल्प? यहां समझें इससे जुड़ी जरूरी बातें।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "किन स्थितियों में बैंक लोन सेटलमेंट का देता है विकल्प? यहां समझें इससे जुड़ी जरूरी बातें",
-          "summary": "कई बार ऐसा होता है कि जब लोग लोन लेते हैं तो उसे न देने की स्थिति में बैंक उन्हें लोन सेटलमेंट का विकल्प देती है। आइए इस लेख में इसी के बारे में समझते हैं कि लोन सेटलमेंट किन स्थितियों में होता है। किन स्थितियों में बैंक लोन सेटलमेंट का देता है विकल्प? यहां समझें इससे जुड़ी जरूरी बातें।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "परिजनों की आशंका, सात फीट का खोखा, दो गाठ वाली रस्सी, सुरेंद्र ने कैसे की आत्महत्या? बताया साजिश",
-      "url": "https://www.amarujala.com/photo-gallery/uttarakhand/haridwar/nithari-case-accused-surendra-koli-parents-claim-small-cubicle-using-rope-with-two-knots-suicide-impossible-2026-09-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-20T03:39:22+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/nathara-kada-ka-aarapa-sarathara-ka-mata-ka-mamal_70609d5b74c471f3d1b20b666a187a60.jpeg?w=1200&dpr=1.0",
-      "summary": "अल्मोड़ा से सुरेंद्र कोली का शव लेने के लिए जिला अस्पताल पहुंचे पूर्व जिला पंचायत सदस्य नारायण सिंह रावत और परिजनों ने इस घटना में साजिश होने की आशंका जताई है। परिजनों की आशंका, सात फीट का खोखा, दो गाठ वाली रस्सी, सुरेंद्र ने कैसे की आत्महत्या? बताया साजिश।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "परिजनों की आशंका, सात फीट का खोखा, दो गाठ वाली रस्सी, सुरेंद्र ने कैसे की आत्महत्या? बताया साजिश",
-          "summary": "अल्मोड़ा से सुरेंद्र कोली का शव लेने के लिए जिला अस्पताल पहुंचे पूर्व जिला पंचायत सदस्य नारायण सिंह रावत और परिजनों ने इस घटना में साजिश होने की आशंका जताई है। परिजनों की आशंका, सात फीट का खोखा, दो गाठ वाली रस्सी, सुरेंद्र ने कैसे की आत्महत्या? बताया साजिश।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आईफोन में नोटिफिकेशन का झंझट होगा कम: आईओएस 27 में स्मार्ट होगा फोकस मोड, क्या-क्या होंगे बदलाव?",
-      "url": "https://www.amarujala.com/technology/tip-of-the-day/ios-27-focus-mode-apple-makes-notifications-smarter-more-personalized-2026-09-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-20T03:31:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/20/paratakatamaka-tasavara_56efc03a72586f85737360e4daf12ba9.jpeg",
-      "summary": "आईफोन में नोटिफिकेशन का झंझट होगा कम: आईओएस 27 में स्मार्ट होगा फोकस मोड, क्या-क्या होंगे बदलाव?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आईफोन में नोटिफिकेशन का झंझट होगा कम: आईओएस 27 में स्मार्ट होगा फोकस मोड, क्या-क्या होंगे बदलाव?",
-          "summary": "आईफोन में नोटिफिकेशन का झंझट होगा कम: आईओएस 27 में स्मार्ट होगा फोकस मोड, क्या-क्या होंगे बदलाव?",
-          "region": "दुनिया"
         }
       }
     }
