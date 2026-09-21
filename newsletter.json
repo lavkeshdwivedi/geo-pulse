@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-21T04:18:00.878004+00:00",
+  "generated_at": "2026-09-21T05:15:32.553747+00:00",
   "article_count": 50,
-  "total_unique_count": 262,
+  "total_unique_count": 265,
   "digest": {
     "en": "Middle East & Africa leads the board this hour with Venezuela después del pacto petrolero con EE. UU.. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर यूरोप और रूस की अगुवाई है, सत्तारूढ़ यूनाइटेड रूस को 57.54% से अधिक वोट मिले, क्या पुतिन की पार्टी को स्पष्ट बहुमत? मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "इस घंटे बोर्ड पर यूरोप और रूस की अगुवाई है, सत्तारूढ़ यूनाइटेड रूस को 57.54% से अधिक वोट मिले, क्या पुतिन की पार्टी को स्पष्ट बहुमत? मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -15,6 +15,18 @@
       "published_at": "Viernes, Septiembre 11, 2026 - 09:47",
       "image_url": "https://images.pexels.com/photos/27857255/pexels-photo-27857255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "La administración Trump ha anunciado un acuerdo con Caracas que, según dice, otorga a EE. UU. una participación importante en la industria petrolera venezolana. En esta sesión de preguntas y respuestas, los expertos de Crisis Group Phil Gunson y Delaney Simon analizan las repercusiones de dicho acuerdo. Venezuela después del pacto petrolero con EE.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Banished to alien lands: Trump’s secret deportation deals",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-09-21T05:00:38+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/8a1111af32b508c7aedf458e07ae1af37f330f83/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41356e750fd601b9d2a9817d3e14eb95",
+      "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -296,18 +308,6 @@
       "translations": {}
     },
     {
-      "title": "Will the Houthis Shut Down the Bab al-Mandab Strait?",
-      "url": "https://www.crisisgroup.org/pod/middle-east-north-africa/yemen/special-episode-will-houthis-shut-down-bab-al-mandab-strait",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-09-14T17:03:00+00:00",
-      "image_url": "https://images.pexels.com/photos/6957710/pexels-photo-6957710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "In this special episode of Hold Your Fire!, Richard speaks with Crisis Group expert Ahmed Nagi about the rapid Houthi advances along Yemen’s Red Sea coast, what they mean for Saudi Arabia and the wider region, and the risk of a broader shipping crisis. Will the Houthis Shut Down the Bab al-Mandab Strait?",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "सत्तारूढ़ यूनाइटेड रूस को 57.54% से अधिक वोट मिले, क्या पुतिन की पार्टी को स्पष्ट बहुमत?",
       "url": "https://www.amarujala.com/world/russia-election-preliminary-results-united-russia-party-leads-central-election-commission-vote-share-updates-2026-09-21",
       "source": "Amar Ujala World",
@@ -326,38 +326,398 @@
       }
     },
     {
-      "title": "खौलते पानी में भी नहीं खराब होगा ये फोन: झेल सकता है 50 डिग्री की झुलसाने वाली गर्मी; मिलता है 24GB",
-      "url": "https://www.amarujala.com/technology/tech-diary/honor-600-elite-5g-launched-8100mah-battery-108mp-camera-specifications-features-ip-rating-india-sale-2026-09-21",
+      "title": "‘हम शादी को कम से कम कुछ और महीनों के लिए टाल रहे हैं’, महंगाई और जंग के बीच ईरानी युवक की मजबूरी",
+      "url": "https://www.patrika.com/world-news/iran-war-inflation-marriage-crisis-youth-future-delayed-20923224",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-21T05:13:12+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/6163586706569892402.webp",
+      "summary": "Iran Marriage Crisis: ईरान में युद्ध और लगातार बढ़ती महंगाई ने युवाओं के लिए शादी जैसे बड़े फैसले को भी मुश्किल बना दिया है। बढ़ते घर, किराए और शादी के खर्च के बीच कई कपल अपनी शादी टालने को मजबूर हैं। किसी को फिर से युद्ध शुरू होने का डर सता रहा है तो किसी के लिए नई जिंदगी शुरू करने का खर्च जुटाना मुश्किल हो गया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘हम शादी को कम से कम कुछ और महीनों के लिए टाल रहे हैं’, महंगाई और जंग के बीच ईरानी युवक की मजबूरी",
+          "summary": "Iran Marriage Crisis: ईरान में युद्ध और लगातार बढ़ती महंगाई ने युवाओं के लिए शादी जैसे बड़े फैसले को भी मुश्किल बना दिया है। बढ़ते घर, किराए और शादी के खर्च के बीच कई कपल अपनी शादी टालने को मजबूर हैं। किसी को फिर से युद्ध शुरू होने का डर सता रहा है तो किसी के लिए नई जिंदगी शुरू करने का खर्च जुटाना मुश्किल हो गया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "दिवाली-छठ पर घर जाने वाले ध्यान दें: रेलवे चला रहा ये स्पेशल ट्रेनें, टिकट बुक करने से पहले यहां",
+      "url": "https://www.amarujala.com/photo-gallery/utility/indian-railways-runs-13-pairs-of-special-trains-282-extra-trips-till-november-2026-2026-09-21",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-09-21T04:11:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/honor-600-elite-5g_3c0d4240959ed0c231b8412ae5fedd75.jpeg",
-      "summary": "Honor introduced the Honor 600 Elite 5G in China on 21 September 2026. The device carries a 8100 mAh battery, 108 MP main camera and 24 GB of RAM, and is rated to operate at 50 °C without performance loss. It targets the premium segment with durability claims. ग्लोबल टेक मंच पर ऑनर ने अपना अल्ट्रा-ड्यूरेबल स्मार्टफोन Honor 600 Elite 5G पेश कर दिया है।",
+      "published_at": "2026-09-21T05:03:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/tayahara-ka-le-ralva-na-kana-sa-sapashal-tarana-calii-ha_5d87594c02f4d346f5793cf278ba3c7e.jpeg?w=1200&dpr=1.0",
+      "summary": "रेलवे ने यात्रियों की बढ़ती भीड़ को देखते हुए 13 जोड़ी स्पेशल ट्रेनों के संचालन का फैसला किया है। इन ट्रेनों से नवंबर के आखिर तक अलग-अलग रूटों पर 282 अतिरिक्त फेरे लगाए जाएंगे, ताकि दिवाली-छठ पर घर जाने वालों को दिक्कतें न हो। दिवाली-छठ पर घर जाने वाले ध्यान दें: रेलवे चला रहा ये स्पेशल ट्रेनें, टिकट बुक करने से पहले यहां।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "खौलते पानी में भी नहीं खराब होगा ये फोन: झेल सकता है 50 डिग्री की झुलसाने वाली गर्मी; मिलता है 24GB",
-          "summary": "Honor introduced the Honor 600 Elite 5G in China on 21 September 2026. The device carries a 8100 mAh battery, 108 MP main camera and 24 GB of RAM, and is rated to operate at 50 °C without performance loss. It targets the premium segment with durability claims. ग्लोबल टेक मंच पर ऑनर ने अपना अल्ट्रा-ड्यूरेबल स्मार्टफोन Honor 600 Elite 5G पेश कर दिया है।",
+          "title": "दिवाली-छठ पर घर जाने वाले ध्यान दें: रेलवे चला रहा ये स्पेशल ट्रेनें, टिकट बुक करने से पहले यहां",
+          "summary": "रेलवे ने यात्रियों की बढ़ती भीड़ को देखते हुए 13 जोड़ी स्पेशल ट्रेनों के संचालन का फैसला किया है। इन ट्रेनों से नवंबर के आखिर तक अलग-अलग रूटों पर 282 अतिरिक्त फेरे लगाए जाएंगे, ताकि दिवाली-छठ पर घर जाने वालों को दिक्कतें न हो। दिवाली-छठ पर घर जाने वाले ध्यान दें: रेलवे चला रहा ये स्पेशल ट्रेनें, टिकट बुक करने से पहले यहां।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "भारत का वैश्विक निर्यात 317 अरब डॉलर, 15 फीसदी का उछाल",
-      "url": "https://www.amarujala.com/business/business-diary/dominance-in-digital-services-market-global-exports-from-india-at-317-billion-usd-surge-of-15-pc-2026-09-21",
-      "source": "Amar Ujala National",
+      "title": "अब दुनिया देखेगी तालिबान का बदला, पाकिस्तान ने अफगानिस्तान में मार डाले 3 मासूम, औरतें और बच्चे भी",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-airstrike-on-afghanistan-3-killed-4-injured-including-children-women-10852402.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-09-21T04:09:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/15/import-export-data_07f6c5d564ae2a69f0cd77e6f5401289.jpeg?w=1200&dpr=1.0",
-      "summary": "डिजिटल सेवा बाजार में धाक: भारत का वैश्विक निर्यात 317 अरब डॉलर, 15 फीसदी का उछाल।",
+      "published_at": "2026-09-21T05:02:51+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/05/Afghanistan-Attack-2026-05-fda6c7811871c8b460ab379e4b537409-1200x800.jpg",
+      "summary": "Pakistan airstrike on Afghanistan: पाकिस्तान की ओर से अफगानिस्तान पर एक बार फिर से हवाई हमले किए गए हैं, जिसमें 3 लोगों की मौत हो गई है. बताया जा रहा है कि हमले में मरने और जख्मी होने वालों में बच्चे और महिलाएं भी हैं. इसी से अंदाजा लगाया जा सकता है कि एक बार फिर से पाकिस्तान ने निर्दोषों पर बमबारी कर दी है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत का वैश्विक निर्यात 317 अरब डॉलर, 15 फीसदी का उछाल",
-          "summary": "डिजिटल सेवा बाजार में धाक: भारत का वैश्विक निर्यात 317 अरब डॉलर, 15 फीसदी का उछाल।",
+          "title": "अब दुनिया देखेगी तालिबान का बदला, पाकिस्तान ने अफगानिस्तान में मार डाले 3 मासूम, औरतें और बच्चे भी",
+          "summary": "Pakistan airstrike on Afghanistan: पाकिस्तान की ओर से अफगानिस्तान पर एक बार फिर से हवाई हमले किए गए हैं, जिसमें 3 लोगों की मौत हो गई है. बताया जा रहा है कि हमले में मरने और जख्मी होने वालों में बच्चे और महिलाएं भी हैं. इसी से अंदाजा लगाया जा सकता है कि एक बार फिर से पाकिस्तान ने निर्दोषों पर बमबारी कर दी है.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'जानता हूं तुमने कितनी मेहनत की है'; परिणीति चोपड़ा की डेब्यू सीरीज की राघव चड्ढा ने की दिल खोलकर",
+      "url": "https://www.amarujala.com/entertainment/husband-raghav-chadha-praised-parineeti-chopra-ott-debut-series-shaque-says-so-proud-of-you-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T05:01:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/paranaeta-capaugdha-raghava-cadadha_fdbc52c9e5470dbc3d081d7c79ed62d4.jpeg?w=1200&dpr=1.0",
+      "summary": "Raghav Chadha Praised Parineeti: अभिनेत्री परिणीति चोपड़ा वेब सीरीज की दुनिया में डेब्यू करने जा रही हैं। उनकी सीरीज 'शक' जल्द रिलीज होगी। हाल ही में उनके पति और भाजपा नेता राघव चड्ढा ने उनकी तारीफ की है। 'जानता हूं तुमने कितनी मेहनत की है'; परिणीति चोपड़ा की डेब्यू सीरीज की राघव चड्ढा ने की दिल खोलकर।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'जानता हूं तुमने कितनी मेहनत की है'; परिणीति चोपड़ा की डेब्यू सीरीज की राघव चड्ढा ने की दिल खोलकर",
+          "summary": "Raghav Chadha Praised Parineeti: अभिनेत्री परिणीति चोपड़ा वेब सीरीज की दुनिया में डेब्यू करने जा रही हैं। उनकी सीरीज 'शक' जल्द रिलीज होगी। हाल ही में उनके पति और भाजपा नेता राघव चड्ढा ने उनकी तारीफ की है। 'जानता हूं तुमने कितनी मेहनत की है'; परिणीति चोपड़ा की डेब्यू सीरीज की राघव चड्ढा ने की दिल खोलकर।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सिर्फ वजन और स्टेप्स नहीं, वीओ2 मैक्स भी बताता है आपकी फिटनेस का राज",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/what-is-vo2-max-in-hindi-vo2-max-kya-hai-or-ye-kaise-kaam-karta-hai-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T05:00:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/what-is-vo2-max_819051a635e7848c1d42952601b3b729.jpeg?w=1200&dpr=1.0",
+      "summary": "What is VO2 Max: दिल और फेफड़ों की क्षमता से जुड़ा है वीओ2 मैक्स, जानिए क्या होता है यह आंकड़ा, क्यों माना जाता है जरूरी और इसे कैसे बेहतर बनाया जा सकता है सिर्फ वजन और स्टेप्स नहीं, वीओ2 मैक्स भी बताता है आपकी फिटनेस का राज।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सिर्फ वजन और स्टेप्स नहीं, वीओ2 मैक्स भी बताता है आपकी फिटनेस का राज",
+          "summary": "What is VO2 Max: दिल और फेफड़ों की क्षमता से जुड़ा है वीओ2 मैक्स, जानिए क्या होता है यह आंकड़ा, क्यों माना जाता है जरूरी और इसे कैसे बेहतर बनाया जा सकता है सिर्फ वजन और स्टेप्स नहीं, वीओ2 मैक्स भी बताता है आपकी फिटनेस का राज।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बार-बार अटकती है बैग की जिप तो हर बार खराब नहीं होता जिपर, वजह कहीं और हो सकती है",
+      "url": "https://www.amarujala.com/photo-gallery/utility/why-does-your-bag-zipper-keep-getting-stuck-check-this-before-pulling-it-hard-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:58:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/japa-khalna-ma-lga-raha-ha-jara_818135d678d60e57eee8e9151b7c7111.jpeg?w=1200&dpr=1.0",
+      "summary": "अगर बैग की जिप बार-बार बीच में अटक रही है तो हर बार जोर लगाकर खींचना सही तरीका नहीं है। कई बार जिप में कपड़े का छोटा हिस्सा फंस जाता है या दांतों के बीच गंदगी जमा होने से जिप ठीक से आगे नहीं बढ़ती। बार-बार अटकती है बैग की जिप तो हर बार खराब नहीं होता जिपर, वजह कहीं और हो सकती है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बार-बार अटकती है बैग की जिप तो हर बार खराब नहीं होता जिपर, वजह कहीं और हो सकती है",
+          "summary": "अगर बैग की जिप बार-बार बीच में अटक रही है तो हर बार जोर लगाकर खींचना सही तरीका नहीं है। कई बार जिप में कपड़े का छोटा हिस्सा फंस जाता है या दांतों के बीच गंदगी जमा होने से जिप ठीक से आगे नहीं बढ़ती। बार-बार अटकती है बैग की जिप तो हर बार खराब नहीं होता जिपर, वजह कहीं और हो सकती है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या आपकी चाल और बातचीत में आया बदलाव अल्जाइमर का संकेत है? न्यूरोलॉजिस्ट ने समझाया",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/world-alzheimer-s-day-2026-early-signs-of-dementia-full-list-memory-loss-symptoms-in-hindi-2026-09-14",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:58:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/14/world-alzheimers-day-2026_e619a369138adc6803087fb73d045a51.jpeg?w=1200&dpr=1.0",
+      "summary": "World Alzheimer's Day 2026: विश्व अल्जाइमर दिवस पर जानें अल्जाइमर के शुरुआती लक्षण, जोखिम कारक, बचाव और समय पर जांच का महत्व। याददाश्त के साथ व्यवहार और रोजमर्रा की क्षमता में बदलावों पर भी दें ध्यान। क्या आपकी चाल और बातचीत में आया बदलाव अल्जाइमर का संकेत है? न्यूरोलॉजिस्ट ने समझाया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या आपकी चाल और बातचीत में आया बदलाव अल्जाइमर का संकेत है? न्यूरोलॉजिस्ट ने समझाया",
+          "summary": "World Alzheimer's Day 2026: विश्व अल्जाइमर दिवस पर जानें अल्जाइमर के शुरुआती लक्षण, जोखिम कारक, बचाव और समय पर जांच का महत्व। याददाश्त के साथ व्यवहार और रोजमर्रा की क्षमता में बदलावों पर भी दें ध्यान। क्या आपकी चाल और बातचीत में आया बदलाव अल्जाइमर का संकेत है? न्यूरोलॉजिस्ट ने समझाया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लॉन्च से पहले एक बार फिर दिखी ह्यूंदै की इलेक्ट्रिक एसयूवी: दो तरह के हेडलैंप ने बढ़ाई दिलचस्पी",
+      "url": "https://www.amarujala.com/automobiles/upcoming-electric-hyundai-he1i-suv-spotted-again-with-two-headlamp-setups-what-new-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:53:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/paratakatamaka-tasavara_7e82e388b0e754d4bdf3d9579333de34.jpeg?w=1200&dpr=1.0",
+      "summary": "; क्या है खास? लॉन्च से पहले एक बार फिर दिखी ह्यूंदै की इलेक्ट्रिक एसयूवी: दो तरह के हेडलैंप ने बढ़ाई दिलचस्पी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लॉन्च से पहले एक बार फिर दिखी ह्यूंदै की इलेक्ट्रिक एसयूवी: दो तरह के हेडलैंप ने बढ़ाई दिलचस्पी",
+          "summary": "; क्या है खास? लॉन्च से पहले एक बार फिर दिखी ह्यूंदै की इलेक्ट्रिक एसयूवी: दो तरह के हेडलैंप ने बढ़ाई दिलचस्पी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "किम के नए मिसाइल दागने से बढ़ा तनाव: अलर्ट हुए अमेरिका-जापान-दक्षिण कोरिया, विदेश मंत्रालय ने क्या",
+      "url": "https://www.amarujala.com/world/tensions-following-kim-new-missile-test-us-japan-and-south-korea-alert-what-did-foreign-ministry-say-2026-09-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-21T04:50:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/masail-lnaca-ka-btha-tana-thasha-ma-halcal_db2a4b317af5175963f3ddde65d2c1ef.jpeg?w=1200&dpr=1.0",
+      "summary": "Tensions following Kim new missile test US, Japan, and South Korea alert; what did Foreign Ministry say? किम के नए मिसाइल दागने से बढ़ा तनाव: अलर्ट हुए अमेरिका-जापान-दक्षिण कोरिया, विदेश मंत्रालय ने क्या।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "किम के नए मिसाइल दागने से बढ़ा तनाव: अलर्ट हुए अमेरिका-जापान-दक्षिण कोरिया, विदेश मंत्रालय ने क्या",
+          "summary": "Tensions following Kim new missile test US, Japan, and South Korea alert; what did Foreign Ministry say? किम के नए मिसाइल दागने से बढ़ा तनाव: अलर्ट हुए अमेरिका-जापान-दक्षिण कोरिया, विदेश मंत्रालय ने क्या।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका के टेक्सास में ICE एजेंट की गोलीबारी के बाद बड़े पैमाने पर प्रदर्शन, क्या है पूरा मामला",
+      "url": "https://www.abplive.com/news/world/us-texas-ice-agent-shooting-man-injured-protest-against-austin-police-3191684",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-09-21T04:48:36+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/21/fa71dde110db8171dedb3a3ff65794fe17899657699551200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिका के टेक्सास राज्य की राजधानी ऑस्टिन में रविवार दोपहर एक अमेरिकी इमिग्रेशन एंड कस्टम्स एन्फोर्समेंट (ICE) एजेंट ने एक व्यक्ति को गोली मार दी. इस घटना को लेकर बड़े पैमाने पर प्रदर्शन शुरू हो गए हैं. लोगों को काबू करने के लिए बड़ी संख्या में पुलिस बल तैनात किया गया है. ऑस्टिन पुलिस प्रमुख लिसा डेविस के मुताबिक व्यक्ति के गर्दन के निचले हिस्से में एक गोली लगी है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका के टेक्सास में ICE एजेंट की गोलीबारी के बाद बड़े पैमाने पर प्रदर्शन, क्या है पूरा मामला",
+          "summary": "अमेरिका के टेक्सास राज्य की राजधानी ऑस्टिन में रविवार दोपहर एक अमेरिकी इमिग्रेशन एंड कस्टम्स एन्फोर्समेंट (ICE) एजेंट ने एक व्यक्ति को गोली मार दी. इस घटना को लेकर बड़े पैमाने पर प्रदर्शन शुरू हो गए हैं. लोगों को काबू करने के लिए बड़ी संख्या में पुलिस बल तैनात किया गया है. ऑस्टिन पुलिस प्रमुख लिसा डेविस के मुताबिक व्यक्ति के गर्दन के निचले हिस्से में एक गोली लगी है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "'डूसू चुनाव में धनबल का दिखा असर': अभिजीत दीपके ने लगाए कई आरोप, कहा- लग्जरी गाड़ियों से आते हैं",
+      "url": "https://www.amarujala.com/india-news/dusu-polls-abhijeet-dipke-alleges-money-power-luxury-cars-mpsc-rss-iit-bombay-tribal-schools-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:42:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/abhijeet-dipke_21d7d0ad4941e365957867a9826839fc.jpeg?w=1200&dpr=1.0",
+      "summary": "'डूसू चुनाव में पैसों का दिखा असर': अभिजीत दीपके ने लगाए कई आरोप, कहा- लग्जरी गाड़ियों से आते हैं प्रचारक dusu-polls-abhijeet-dipke-alleges-money-power-luxury-cars-MPSC-rss-iit-bombay-tribal-schools 'डूसू चुनाव में धनबल का दिखा असर': अभिजीत दीपके ने लगाए कई आरोप, कहा- लग्जरी गाड़ियों से आते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'डूसू चुनाव में धनबल का दिखा असर': अभिजीत दीपके ने लगाए कई आरोप, कहा- लग्जरी गाड़ियों से आते हैं",
+          "summary": "'डूसू चुनाव में पैसों का दिखा असर': अभिजीत दीपके ने लगाए कई आरोप, कहा- लग्जरी गाड़ियों से आते हैं प्रचारक dusu-polls-abhijeet-dipke-alleges-money-power-luxury-cars-MPSC-rss-iit-bombay-tribal-schools 'डूसू चुनाव में धनबल का दिखा असर': अभिजीत दीपके ने लगाए कई आरोप, कहा- लग्जरी गाड़ियों से आते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "फिर पलट गए ट्रंप, सऊदी से किया मदद का वादा, पर नहीं करेंगे हूतियों पर हमले?",
+      "url": "https://hindi.news18.com/world/middle-east-iran-war-update-live-news-donald-trump-warning-iran-retaliation-west-asia-clash-saudi-houthi-conflict-livenews-10852140.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-21T04:40:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/iran-us-israel-2026-09-282c8a0cd94815dd269413097a7b69b3-1200x800.jpg",
+      "summary": "Iran-US War Live: ईरान-अमेरिका के बीच जंग खत्म होने के बजाय वहां और ज्यादा स्थिति खराब होती दिख रही है. अमेरिका फिर से अपने हथियारों और विमानों को डिप्लॉय कर रहा है, तो ईरान अपनी शर्तों पर टिका हुआ है. ऐसे में भड़के डोनाल्ड ट्रंप ने कहा है कि उनके पास ईरान को नक्शे से साफ कर देंने का भी ऑप्शन है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फिर पलट गए ट्रंप, सऊदी से किया मदद का वादा, पर नहीं करेंगे हूतियों पर हमले?",
+          "summary": "Iran-US War Live: ईरान-अमेरिका के बीच जंग खत्म होने के बजाय वहां और ज्यादा स्थिति खराब होती दिख रही है. अमेरिका फिर से अपने हथियारों और विमानों को डिप्लॉय कर रहा है, तो ईरान अपनी शर्तों पर टिका हुआ है. ऐसे में भड़के डोनाल्ड ट्रंप ने कहा है कि उनके पास ईरान को नक्शे से साफ कर देंने का भी ऑप्शन है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "कभी अमेरिका ने किया वीजा खारिज, आज नासा कर रहा स्वागत; कैसे लिखी सफलता की कहानी?",
+      "url": "https://www.amarujala.com/education/success-stories/dr-anand-megalingam-honoring-struggle-of-father-once-denied-us-visa-now-nasa-welcoming-know-success-story-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:35:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/dr-anand-megalingam_0c5b796542451d3fb89a9571d31fbbe6.jpeg?w=1200&dpr=1.0",
+      "summary": "पिता के संघर्ष को सम्मान: कभी अमेरिका ने किया वीजा खारिज, आज नासा कर रहा स्वागत; कैसे लिखी सफलता की कहानी?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कभी अमेरिका ने किया वीजा खारिज, आज नासा कर रहा स्वागत; कैसे लिखी सफलता की कहानी?",
+          "summary": "पिता के संघर्ष को सम्मान: कभी अमेरिका ने किया वीजा खारिज, आज नासा कर रहा स्वागत; कैसे लिखी सफलता की कहानी?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पॉपकॉर्न खाने से बढ़ सकता है BP और वजन! जानें कब ये बन जाता है नुकसानदायक",
+      "url": "https://www.amarujala.com/lifestyle/fitness/popcorn-health-benefits-and-side-effects-kya-popcorn-unhealthy-hain-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:33:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/popcorn-health-benefits_e4c0dc8215add4c2e289839a06c56f29.jpeg?w=1200&dpr=1.0",
+      "summary": "Health Benefits of Popcorn And Its Side Effects: इस लेख में जानें पॉपकॉर्न कितना सेहतमंद है और इसमें मौजूद नमक, मक्खन, तेल व फ्लेवरिंग कैसे इसकी पौष्टिकता घटाकर सोडियम, कैलोरी और शुगर बढ़ा सकते हैं। पॉपकॉर्न खाने से बढ़ सकता है BP और वजन! जानें कब ये बन जाता है नुकसानदायक।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पॉपकॉर्न खाने से बढ़ सकता है BP और वजन! जानें कब ये बन जाता है नुकसानदायक",
+          "summary": "Health Benefits of Popcorn And Its Side Effects: इस लेख में जानें पॉपकॉर्न कितना सेहतमंद है और इसमें मौजूद नमक, मक्खन, तेल व फ्लेवरिंग कैसे इसकी पौष्टिकता घटाकर सोडियम, कैलोरी और शुगर बढ़ा सकते हैं। पॉपकॉर्न खाने से बढ़ सकता है BP और वजन! जानें कब ये बन जाता है नुकसानदायक।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ड्रीम वेडिंग के लिए क्यों चुना स्कॉटलैंड? सोशल मीडिया पोस्ट के जरिए कपल ने किया खुलासा",
+      "url": "https://www.amarujala.com/entertainment/south-cinema/suriya-unveiled-why-he-andjyotika-chose-scotland-for-their-dream-wedding-in-recent-social-post-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:27:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/16/jayataka_44ec838a532b03dc13db6c8b63d4c29a.jpeg?w=1200&dpr=1.0",
+      "summary": "सूर्या और ज्योतिका ने हाल ही में स्कॉटलैंड में दोबारा एक दूसरे से शादी की। इस डेस्टिनेशन पर यह शादी कपल के लिए किसी ड्रीम से कम नहीं थी। अपने इसी सपने का जिक्र सूर्या ने सोशल मीडिया पोस्ट में किया है। ड्रीम वेडिंग के लिए क्यों चुना स्कॉटलैंड? सोशल मीडिया पोस्ट के जरिए कपल ने किया खुलासा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ड्रीम वेडिंग के लिए क्यों चुना स्कॉटलैंड? सोशल मीडिया पोस्ट के जरिए कपल ने किया खुलासा",
+          "summary": "सूर्या और ज्योतिका ने हाल ही में स्कॉटलैंड में दोबारा एक दूसरे से शादी की। इस डेस्टिनेशन पर यह शादी कपल के लिए किसी ड्रीम से कम नहीं थी। अपने इसी सपने का जिक्र सूर्या ने सोशल मीडिया पोस्ट में किया है। ड्रीम वेडिंग के लिए क्यों चुना स्कॉटलैंड? सोशल मीडिया पोस्ट के जरिए कपल ने किया खुलासा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सउदी अरब पर हूती हमले से बढ़ी चिंता, अमेरिका ने नागरिकों के लिए जारी किया अलर्ट!",
+      "url": "https://www.amarujala.com/video/world/houthi-attack-on-saudi-arabia-raises-concerns-us-issues-alert-for-citizens-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:23:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/saudi-arabia-para-houthi-attack-sa-b-cata-america-na-jara-kaya-alert-us-iran-conflict-yamen_11812c6562be5ddc81a3cc2c950fd71b.jpeg?w=1200&dpr=1.0",
+      "summary": "रियाद समेत कई अहम शहरों को निशाना बनाए जाने के बाद अमेरिका ने अपने सरकारी कर्मचारियों के लिए सऊदी अरब में यात्रा संबंधी पाबंदियां बढ़ा दी हैं। सउदी अरब पर हूती हमले से बढ़ी चिंता, अमेरिका ने नागरिकों के लिए जारी किया अलर्ट!",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सउदी अरब पर हूती हमले से बढ़ी चिंता, अमेरिका ने नागरिकों के लिए जारी किया अलर्ट!",
+          "summary": "रियाद समेत कई अहम शहरों को निशाना बनाए जाने के बाद अमेरिका ने अपने सरकारी कर्मचारियों के लिए सऊदी अरब में यात्रा संबंधी पाबंदियां बढ़ा दी हैं। सउदी अरब पर हूती हमले से बढ़ी चिंता, अमेरिका ने नागरिकों के लिए जारी किया अलर्ट!",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "एक्सप्रेसवे पर पथराव, पुलिस से हुई बड़ी चूक; आगरा बवाल की ये 10 तस्वीरें हिला देंगी दिमाग",
+      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/agra/ugc-protest-turns-chaotic-in-agra-tractor-marchers-reach-expressway-stone-pelting-reported-2026-09-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-21T04:22:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/aagara-ma-bval_02f7b6d29df2b12daa776460ce94c76d.jpeg?w=1200&dpr=1.0",
+      "summary": "यूजीसी के नए नियमों के विरोध में खंदौली के मुड़ी गांव से निकला ट्रैक्टर मार्च यमुना एक्सप्रेसवे तक पहुंच गया, जहां प्रदर्शनकारियों ने बैरिकेडिंग तोड़कर करीब 45 मिनट यातायात बाधित किया। एक्सप्रेसवे पर पथराव, पुलिस से हुई बड़ी चूक; आगरा बवाल की ये 10 तस्वीरें हिला देंगी दिमाग।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एक्सप्रेसवे पर पथराव, पुलिस से हुई बड़ी चूक; आगरा बवाल की ये 10 तस्वीरें हिला देंगी दिमाग",
+          "summary": "यूजीसी के नए नियमों के विरोध में खंदौली के मुड़ी गांव से निकला ट्रैक्टर मार्च यमुना एक्सप्रेसवे तक पहुंच गया, जहां प्रदर्शनकारियों ने बैरिकेडिंग तोड़कर करीब 45 मिनट यातायात बाधित किया। एक्सप्रेसवे पर पथराव, पुलिस से हुई बड़ी चूक; आगरा बवाल की ये 10 तस्वीरें हिला देंगी दिमाग।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बीएमडब्ल्यू की नई इलेक्ट्रिक M कार देश में पेटेंट: कैसी होगी यह लग्जरी ईवी? जानिए इस शानदार गाड़ी",
+      "url": "https://www.amarujala.com/automobiles/bmw-m-concept-neue-klasse-design-patented-india-future-electric-m3-teased-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:22:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/paratakatamaka-tasavara_dad80d3ac7825c5407e3ee16818e293e.jpeg?w=1200&dpr=1.0",
+      "summary": "की खास बातें बीएमडब्ल्यू की नई इलेक्ट्रिक M कार देश में पेटेंट: कैसी होगी यह लग्जरी ईवी? जानिए इस शानदार गाड़ी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बीएमडब्ल्यू की नई इलेक्ट्रिक M कार देश में पेटेंट: कैसी होगी यह लग्जरी ईवी? जानिए इस शानदार गाड़ी",
+          "summary": "की खास बातें बीएमडब्ल्यू की नई इलेक्ट्रिक M कार देश में पेटेंट: कैसी होगी यह लग्जरी ईवी? जानिए इस शानदार गाड़ी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कब है भाद्रपद पूर्णिमा? जानें सही तारीख, शुभ मुहूर्त और धार्मिक महत्व",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/bhadrapada-purnima-2026-know-the-correct-date-puja-time-and-religious-significanc-2026-09-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:21:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/15/bhatharapatha-paranaema_7c642b019675edae9624ca52e9790634.jpeg?w=1200&dpr=1.0",
+      "summary": "भाद्रपद पूर्णिमा हिंदू धर्म में विशेष महत्व रखने वाली तिथि मानी जाती है। साल 2026 में यह पूर्णिमा सितंबर महीने में पड़ रही है। जानिए भाद्रपद पूर्णिमा की सही तारीख, शुभ मुहूर्त और धार्मिक महत्व। कब है भाद्रपद पूर्णिमा? जानें सही तारीख, शुभ मुहूर्त और धार्मिक महत्व।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कब है भाद्रपद पूर्णिमा? जानें सही तारीख, शुभ मुहूर्त और धार्मिक महत्व",
+          "summary": "भाद्रपद पूर्णिमा हिंदू धर्म में विशेष महत्व रखने वाली तिथि मानी जाती है। साल 2026 में यह पूर्णिमा सितंबर महीने में पड़ रही है। जानिए भाद्रपद पूर्णिमा की सही तारीख, शुभ मुहूर्त और धार्मिक महत्व। कब है भाद्रपद पूर्णिमा? जानें सही तारीख, शुभ मुहूर्त और धार्मिक महत्व।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दुबई में छिपा था कुख्यात ड्रग्स तस्कर, डिजिटल सक्रियता से खुली पोल; 29 सितंबर तक देश छोड़ने का फरमान",
+      "url": "https://www.amarujala.com/business/business-diary/notorious-drug-smuggler-hiding-in-dubai-exposed-by-digital-activity-ultimatum-to-leave-country-by-september-29-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T04:20:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/karasata-kanahana_649aaaa4e8905255cf58ec7bdfbfaec4.jpeg?w=1200&dpr=1.0",
+      "summary": "सख्ती: दुबई में 10 साल से छिपा था कुख्यात ड्रग्स तस्कर, डिजिटल सक्रियता से खुली पोल; 29 सितंबर तक देश छोड़ने का अल्टीमेटम दुबई में छिपा था कुख्यात ड्रग्स तस्कर, डिजिटल सक्रियता से खुली पोल; 29 सितंबर तक देश छोड़ने का फरमान।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुबई में छिपा था कुख्यात ड्रग्स तस्कर, डिजिटल सक्रियता से खुली पोल; 29 सितंबर तक देश छोड़ने का फरमान",
+          "summary": "सख्ती: दुबई में 10 साल से छिपा था कुख्यात ड्रग्स तस्कर, डिजिटल सक्रियता से खुली पोल; 29 सितंबर तक देश छोड़ने का अल्टीमेटम दुबई में छिपा था कुख्यात ड्रग्स तस्कर, डिजिटल सक्रियता से खुली पोल; 29 सितंबर तक देश छोड़ने का फरमान।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "यूपी में 30 लाख का इनामी नक्सली ढेर: सीने में लगी दो गोलियां, बृजेश गंझू का 20 साल से था आतंक",
+      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/varanasi/naxalite-killed-in-up-shot-twice-in-chest-brijesh-ganjhu-source-of-terror-for-20-years-inside-story-2026-09-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-21T04:16:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/up-encounter_29200f828722524e5f7b2be5c0825240.jpeg?w=1200&dpr=1.0",
+      "summary": "यूपी एटीएस ने रविवार की अल सुबह चार बजे रामनगर लंका मैदान के पास झारखंड के प्रतिबंधित नक्सली संगठन तृतीय सम्मेलन प्रस्तुति कमेटी (टीएसपीसी) के मुखिया बृजेश गंझू उर्फ गोपाल सिंह भोक्ता (45) को मुठभेड़ में मार गिराया। यूपी में 30 लाख का इनामी नक्सली ढेर: सीने में लगी दो गोलियां, बृजेश गंझू का 20 साल से था आतंक।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूपी में 30 लाख का इनामी नक्सली ढेर: सीने में लगी दो गोलियां, बृजेश गंझू का 20 साल से था आतंक",
+          "summary": "यूपी एटीएस ने रविवार की अल सुबह चार बजे रामनगर लंका मैदान के पास झारखंड के प्रतिबंधित नक्सली संगठन तृतीय सम्मेलन प्रस्तुति कमेटी (टीएसपीसी) के मुखिया बृजेश गंझू उर्फ गोपाल सिंह भोक्ता (45) को मुठभेड़ में मार गिराया। यूपी में 30 लाख का इनामी नक्सली ढेर: सीने में लगी दो गोलियां, बृजेश गंझू का 20 साल से था आतंक।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "चुनाव प्रचार के दौरान उम्मीदवार का कत्ल, अंधाधुंध बरसाईं गोलियां",
+      "url": "https://www.abplive.com/news/world/susy-isabel-aponte-polo-journalist-candidate-killed-in-peru-ancash-caraz-election-3191672",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-09-21T04:10:29+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/21/e508332fd8429ae32b820a97716ab4a11789963524553425_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पेरू के एंकाश क्षेत्र में चुनाव प्रचार के दौरान पत्रकार और क्षेत्रीय गवर्नर पद की उम्मीदवार सुसी अपोंटे पोलो की गोली मारकर हत्या कर दी गई. ‘ला चाइना पोलो’ के नाम से मशहूर अपोंटे पोलो पर यह हमला कराज के एक बाजार में चुनावी कार्यक्रम के दौरान हुआ. खास बात यह है कि हत्या से कुछ दिन पहले ही उन्होंने सार्वजनिक रूप से दावा किया था कि उनके खिलाफ हमले का आदेश दिया गया है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चुनाव प्रचार के दौरान उम्मीदवार का कत्ल, अंधाधुंध बरसाईं गोलियां",
+          "summary": "पेरू के एंकाश क्षेत्र में चुनाव प्रचार के दौरान पत्रकार और क्षेत्रीय गवर्नर पद की उम्मीदवार सुसी अपोंटे पोलो की गोली मारकर हत्या कर दी गई. ‘ला चाइना पोलो’ के नाम से मशहूर अपोंटे पोलो पर यह हमला कराज के एक बाजार में चुनावी कार्यक्रम के दौरान हुआ. खास बात यह है कि हत्या से कुछ दिन पहले ही उन्होंने सार्वजनिक रूप से दावा किया था कि उनके खिलाफ हमले का आदेश दिया गया है.",
+          "region": "अमेरिका"
         }
       }
     },
@@ -380,380 +740,20 @@
       }
     },
     {
-      "title": "ब्रिक्स देशों में बढ़ी भारतीय सामान की मांग: 5 महीने में निर्यात 34% उछला, चीन को अधिक बेचा जा रहा",
-      "url": "https://www.amarujala.com/business/bonus/demand-for-indian-goods-rises-in-brics-nations-exports-surged-in-five-months-indian-goods-being-sold-to-china-2026-09-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T04:03:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/16/export_2a6f5be48bbf0fe34687d1d5b477c331.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय माल ब्रिक्स देशों में बढ़ी भारतीय सामान की मांग: 5 महीने में निर्यात 34% उछला, चीन को अधिक बेचा जा रहा भारतीय माल।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ब्रिक्स देशों में बढ़ी भारतीय सामान की मांग: 5 महीने में निर्यात 34% उछला, चीन को अधिक बेचा जा रहा",
-          "summary": "भारतीय माल ब्रिक्स देशों में बढ़ी भारतीय सामान की मांग: 5 महीने में निर्यात 34% उछला, चीन को अधिक बेचा जा रहा भारतीय माल।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पॉक्सो के आरोपी शिक्षक ने तीसरी मंजिल से लगाई छलांग, सीसीटीवी में कैद हुई घटना; क्या बोली पुलिस?",
-      "url": "https://www.amarujala.com/india-news/pocso-accused-teacher-dies-after-jumping-from-sp-office-building-bengaluru-2026-09-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T04:01:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/suicide_a0d650e54919cb623561baf961697dbf.jpeg?w=1200&dpr=1.0",
-      "summary": "बंगलूरू: पॉक्सो के आरोपी शिक्षक ने तीसरी मंजिल से लगाई छलांग, सीसीटीवी में कैद हुई घटना; क्या बोली पुलिस?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पॉक्सो के आरोपी शिक्षक ने तीसरी मंजिल से लगाई छलांग, सीसीटीवी में कैद हुई घटना; क्या बोली पुलिस?",
-          "summary": "बंगलूरू: पॉक्सो के आरोपी शिक्षक ने तीसरी मंजिल से लगाई छलांग, सीसीटीवी में कैद हुई घटना; क्या बोली पुलिस?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "यूएनजीए में भारत का प्रतिनिधित्व विदेश मंत्री जयशंकर करेंगे; न्यूयॉर्क में ममदानी-ट्रंप मुलाकात",
-      "url": "https://www.amarujala.com/world/world-updates-mamadani-trump-meeting-clancy-first-interview-west-asia-russia-ukraine-politics-crime-other-news-2026-09-21",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-09-21T03:58:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_f1fc34c8783d40cd147195f72aa52f2f.jpeg?w=1200&dpr=1.0",
-      "summary": "विदेश: यूएस में बच्चों की हत्या मामले पर पैट्रिक क्लैंसी का पहला इंटरव्यू; न्यूयॉर्क में ममदानी-ट्रंप मुलाकात यूएनजीए में भारत का प्रतिनिधित्व विदेश मंत्री जयशंकर करेंगे; न्यूयॉर्क में ममदानी-ट्रंप मुलाकात।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूएनजीए में भारत का प्रतिनिधित्व विदेश मंत्री जयशंकर करेंगे; न्यूयॉर्क में ममदानी-ट्रंप मुलाकात",
-          "summary": "विदेश: यूएस में बच्चों की हत्या मामले पर पैट्रिक क्लैंसी का पहला इंटरव्यू; न्यूयॉर्क में ममदानी-ट्रंप मुलाकात यूएनजीए में भारत का प्रतिनिधित्व विदेश मंत्री जयशंकर करेंगे; न्यूयॉर्क में ममदानी-ट्रंप मुलाकात।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मौसम विभाग ने छह जिलों में जारी किया येलो अलर्ट, लोगों से की क्या अपील?",
-      "url": "https://www.amarujala.com/india-news/rain-kerala-meteorological-department-issues-yellow-alert-six-districts-what-appeal-was-made-to-the-public-2026-09-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T03:52:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/karal-ka-chhaha-jal-ma-yal-alrata_f4149515e97fde32e5e9e23dcfac3a35.jpeg?w=1200&dpr=1.0",
-      "summary": "Rain Kerala: Meteorological Department issues yellow alert six districts; what appeal was made to the public? मौसम विभाग ने छह जिलों में जारी किया येलो अलर्ट, लोगों से की क्या अपील?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मौसम विभाग ने छह जिलों में जारी किया येलो अलर्ट, लोगों से की क्या अपील?",
-          "summary": "Rain Kerala: Meteorological Department issues yellow alert six districts; what appeal was made to the public? मौसम विभाग ने छह जिलों में जारी किया येलो अलर्ट, लोगों से की क्या अपील?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फिर पलट गए ट्रंप, सऊदी से किया मदद का वादा, पर नहीं करेंगे हूतियों पर हमले?",
-      "url": "https://hindi.news18.com/world/middle-east-iran-war-update-live-news-donald-trump-warning-iran-retaliation-west-asia-clash-saudi-houthi-conflict-livenews-10852140.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-21T03:52:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/iran-us-israel-2026-09-282c8a0cd94815dd269413097a7b69b3-1200x800.jpg",
-      "summary": "Iran-US War Live: ईरान-अमेरिका के बीच जंग खत्म होने के बजाय वहां और ज्यादा स्थिति खराब होती दिख रही है. अमेरिका फिर से अपने हथियारों और विमानों को डिप्लॉय कर रहा है, तो ईरान अपनी शर्तों पर टिका हुआ है. ऐसे में भड़के डोनाल्ड ट्रंप ने कहा है कि उनके पास ईरान को नक्शे से साफ कर देंने का भी ऑप्शन है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिर पलट गए ट्रंप, सऊदी से किया मदद का वादा, पर नहीं करेंगे हूतियों पर हमले?",
-          "summary": "Iran-US War Live: ईरान-अमेरिका के बीच जंग खत्म होने के बजाय वहां और ज्यादा स्थिति खराब होती दिख रही है. अमेरिका फिर से अपने हथियारों और विमानों को डिप्लॉय कर रहा है, तो ईरान अपनी शर्तों पर टिका हुआ है. ऐसे में भड़के डोनाल्ड ट्रंप ने कहा है कि उनके पास ईरान को नक्शे से साफ कर देंने का भी ऑप्शन है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तुर्की में एंजॉय करते दिखे सनी कौशल, फैंस ने क्याें जोड़ा कटरीना की बहन इसाबेल से नाम?",
-      "url": "https://www.amarujala.com/entertainment/isabelle-kaif-and-sunny-kaushal-dating-rumours-resurfaced-after-matching-instagram-post-2026-09-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T03:49:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/vakaka-kashal-isabl-kafa_8df4f06a99a99fa358ae4ac08006919a.jpeg?w=1200&dpr=1.0",
-      "summary": "विक्की कौशल के छोटे भाई सनी कौशल और कटरीना कैफ की छोटी बहन इसाबेल कैफ के रिलेशनशिप की अफवाह आग की तरह फैल रही हैं। हाल ही में दोनों की सोशल मीडिया पोस्ट से हवा मिल गई। सनी की ट्रिप की तस्वीरों को फैंस इसाबेल से जोड़ रहे हैं। जानें क्या है मामला? तुर्की में एंजॉय करते दिखे सनी कौशल, फैंस ने क्याें जोड़ा कटरीना की बहन इसाबेल से नाम?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तुर्की में एंजॉय करते दिखे सनी कौशल, फैंस ने क्याें जोड़ा कटरीना की बहन इसाबेल से नाम?",
-          "summary": "विक्की कौशल के छोटे भाई सनी कौशल और कटरीना कैफ की छोटी बहन इसाबेल कैफ के रिलेशनशिप की अफवाह आग की तरह फैल रही हैं। हाल ही में दोनों की सोशल मीडिया पोस्ट से हवा मिल गई। सनी की ट्रिप की तस्वीरों को फैंस इसाबेल से जोड़ रहे हैं। जानें क्या है मामला? तुर्की में एंजॉय करते दिखे सनी कौशल, फैंस ने क्याें जोड़ा कटरीना की बहन इसाबेल से नाम?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इटली अकेला नहीं, दुनिया के इन देशों में भी बैन है बुर्का, पाकिस्तान के पक्के दोस्त ने भी लगा रखी है",
-      "url": "https://hindi.news18.com/world/europe-italian-pm-meloni-promises-to-ban-burqas-niqabs-in-schools-which-other-countries-in-list-10852279.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-21T03:47:41+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/italy-pm-2026-09-f76da7b9248b2bb2689c6d8493c6f5cc-1200x800.jpg",
-      "summary": "Italy Burqa Ban: इटली की पीएम जॉर्जिया मेलोनी की सरकार का एक बड़ा फैसला इस वक्त चर्चा में है. उन्होंने अपनी पार्टी के सम्मेलन में साफ तौर पर कहा है कि वो स्कूलों में बुर्का और नकाब पहनने पर पाबंदी लगाएंगी. वो ऐसा इटली की पहचान, संस्कृति में विदेशी लोगों को ढालने के लिए करना चाहती हैं. इसके अलावा विदेशी छात्रों की संख्या भी सीमित करेंगी.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इटली अकेला नहीं, दुनिया के इन देशों में भी बैन है बुर्का, पाकिस्तान के पक्के दोस्त ने भी लगा रखी है",
-          "summary": "Italy Burqa Ban: इटली की पीएम जॉर्जिया मेलोनी की सरकार का एक बड़ा फैसला इस वक्त चर्चा में है. उन्होंने अपनी पार्टी के सम्मेलन में साफ तौर पर कहा है कि वो स्कूलों में बुर्का और नकाब पहनने पर पाबंदी लगाएंगी. वो ऐसा इटली की पहचान, संस्कृति में विदेशी लोगों को ढालने के लिए करना चाहती हैं. इसके अलावा विदेशी छात्रों की संख्या भी सीमित करेंगी.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सफर पर निकलने से पहले यात्रा बीमा है जरूरी: केवल पांच मिनट की जांच, सस्ती नहीं सही पॉलिसी चुनें",
-      "url": "https://www.amarujala.com/business/bonus/travel-insurance-essential-before-journey-quick-know-5-minute-check-choose-right-policy-not-just-cheapest-one-2026-09-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T03:42:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/08/24/travel-insurance_c5e3c327c5f311fa6043a4979aa3e1d1.jpeg?w=1200&dpr=1.0",
-      "summary": "सफर पर निकलने से पहले यात्रा बीमा है जरूरी: केवल पांच मिनट की जांच, सस्ती नहीं सही पॉलिसी चुनें।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सफर पर निकलने से पहले यात्रा बीमा है जरूरी: केवल पांच मिनट की जांच, सस्ती नहीं सही पॉलिसी चुनें",
-          "summary": "सफर पर निकलने से पहले यात्रा बीमा है जरूरी: केवल पांच मिनट की जांच, सस्ती नहीं सही पॉलिसी चुनें।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "एक जगह मिलेगी बीमा से जुड़ी हर जानकारी, ग्राहक को क्या फायदा होगा?",
-      "url": "https://www.amarujala.com/business/bonus/public-insurance-registry-single-source-for-all-insurance-related-info-what-are-the-benefits-for-customer-2026-09-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T03:30:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/20/online-insurance_65422fc6b1aea1ac07ad545a5e3071e2.jpeg?w=1200&dpr=1.0",
-      "summary": "पब्लिक इंश्योरेंस रजिस्ट्री: एक जगह मिलेगी बीमा से जुड़ी हर जानकारी, ग्राहक को क्या फायदा होगा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक जगह मिलेगी बीमा से जुड़ी हर जानकारी, ग्राहक को क्या फायदा होगा?",
-          "summary": "पब्लिक इंश्योरेंस रजिस्ट्री: एक जगह मिलेगी बीमा से जुड़ी हर जानकारी, ग्राहक को क्या फायदा होगा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "10 रुपये के छुट्टे पर शुरू हुए विवाद ने लिया खूनी मोड़, हैदराबाद में ऑटो चालक की पीट-पीटकर हत्या",
-      "url": "https://www.amarujala.com/india-news/hyderabad-auto-driver-beaten-to-death-over-rs-10-change-dispute-vattapally-aimim-mla-2026-09-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T03:28:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/auto-driver-murder_43032225ea6317d78102c116afa51281.jpeg?w=1200&dpr=1.0",
-      "summary": "तेलंगाना: 10 रुपये के छुट्टे पर शुरू हुए विवाद ने लिया खूनी मोड़, हैदराबाद में ऑटो चालक की पीट-पीटकर हत्या hyderabad-auto-driver-beaten-to-death-over-rs-10-change-dispute-vattapally।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "10 रुपये के छुट्टे पर शुरू हुए विवाद ने लिया खूनी मोड़, हैदराबाद में ऑटो चालक की पीट-पीटकर हत्या",
-          "summary": "तेलंगाना: 10 रुपये के छुट्टे पर शुरू हुए विवाद ने लिया खूनी मोड़, हैदराबाद में ऑटो चालक की पीट-पीटकर हत्या hyderabad-auto-driver-beaten-to-death-over-rs-10-change-dispute-vattapally।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "इन्फ्लुएंसर के चेहरे पर पोती कालिख, फिर कराई उठक-बैठक; किस बात पर भड़के मनसे कार्यकर्ता?",
-      "url": "https://www.amarujala.com/india-news/maharashtra-influencer-s-face-smeared-with-soot-then-forced-to-do-sit-ups-what-enraged-the-mns-workers-2026-09-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T03:26:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/inafalesara-ka-cahara-para-pata-kalkha_c00b4af22b7ade4cc520e49093027ff6.jpeg?w=1200&dpr=1.0",
-      "summary": "Maharashtra: Influencer's face smeared with soot, then forced to do sit-ups; what enraged the MNS workers? महाराष्ट्र: इन्फ्लुएंसर के चेहरा पर पोती कालिख, फिर कराई उठक-बैठक; किस बात पर भड़के MNS कार्यकर्ता? इन्फ्लुएंसर के चेहरे पर पोती कालिख, फिर कराई उठक-बैठक; किस बात पर भड़के मनसे कार्यकर्ता?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इन्फ्लुएंसर के चेहरे पर पोती कालिख, फिर कराई उठक-बैठक; किस बात पर भड़के मनसे कार्यकर्ता?",
-          "summary": "Maharashtra: Influencer's face smeared with soot, then forced to do sit-ups; what enraged the MNS workers? महाराष्ट्र: इन्फ्लुएंसर के चेहरा पर पोती कालिख, फिर कराई उठक-बैठक; किस बात पर भड़के MNS कार्यकर्ता? इन्फ्लुएंसर के चेहरे पर पोती कालिख, फिर कराई उठक-बैठक; किस बात पर भड़के मनसे कार्यकर्ता?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सही रिस्क प्रोफाइल पर रखें नींव: अपने निवेश का खुद लें इम्तिहान...साल में दो बार रिव्यू करना क्यों",
-      "url": "https://www.amarujala.com/business/bonus/build-foundation-based-on-right-risk-profile-assess-your-investments-yourself-why-twice-a-year-review-vital-2026-09-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T03:23:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/10/share-market_d11646d534d5d45fbd0893899ecd3bbe.jpeg?w=1200&dpr=1.0",
-      "summary": "जरूरी? सही रिस्क प्रोफाइल पर रखें नींव: अपने निवेश का खुद लें इम्तिहान साल में दो बार रिव्यू करना क्यों जरूरी?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सही रिस्क प्रोफाइल पर रखें नींव: अपने निवेश का खुद लें इम्तिहान...साल में दो बार रिव्यू करना क्यों",
-          "summary": "जरूरी? सही रिस्क प्रोफाइल पर रखें नींव: अपने निवेश का खुद लें इम्तिहान साल में दो बार रिव्यू करना क्यों जरूरी?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सातवें रविवार भी ‘हनुमान अंश’ का दबदबा; दर्शकों के लिए तरसे करीना-कुणाल, हॉलीवुड फिल्म ने पछाड़ा",
-      "url": "https://www.amarujala.com/entertainment/hanuman-ansh-box-office-collection-on-sunday-kareena-kapoor-daayra-and-vibe-with-mirzapur-the-movie-2026-09-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-21T03:10:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/falma-hanamana-asha-oura-vaib-ka-bkasa-oifasa-kalkashana_eb1a38661f712b3ff4136396a594813f.jpeg?w=1200&dpr=1.0",
-      "summary": "रविवार को जहां करीना कपूर की ‘दायरा’ और कुणाल खेमू की ‘वाइब’ दर्शकों के लिए तरसती रही। वहीं हॉलीवुड फिल्म 'रेसिडेंट ईविल' इन दोनों फिल्मों पर भारी पड़ी। वहीं सातवें हफ्ते में चल रही 'हनुमान अंश' ने इस रविवार भी सबसे बेहतर कमाई की। सातवें रविवार भी ‘हनुमान अंश’ का दबदबा; दर्शकों के लिए तरसे करीना-कुणाल, हॉलीवुड फिल्म ने पछाड़ा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सातवें रविवार भी ‘हनुमान अंश’ का दबदबा; दर्शकों के लिए तरसे करीना-कुणाल, हॉलीवुड फिल्म ने पछाड़ा",
-          "summary": "रविवार को जहां करीना कपूर की ‘दायरा’ और कुणाल खेमू की ‘वाइब’ दर्शकों के लिए तरसती रही। वहीं हॉलीवुड फिल्म 'रेसिडेंट ईविल' इन दोनों फिल्मों पर भारी पड़ी। वहीं सातवें हफ्ते में चल रही 'हनुमान अंश' ने इस रविवार भी सबसे बेहतर कमाई की। सातवें रविवार भी ‘हनुमान अंश’ का दबदबा; दर्शकों के लिए तरसे करीना-कुणाल, हॉलीवुड फिल्म ने पछाड़ा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ब्लड प्रेशर अचानक लो हो जाए तो शरीर देता है ये संकेत, समय पर न हुआ इलाज तो बढ़ सकती है मुसीबत",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/low-bp-symptoms-you-should-never-ignore-why-does-blood-pressure-drop-2026-09-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T03:10:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/blood-pressure_6209aae2b86c53c1ac8972285d299289.jpeg?w=1200&dpr=1.0",
-      "summary": "लो ब्लड प्रेशर यानी हाइपोटेंशन को अक्सर लोग सामान्य कमजोरी समझकर नजरअंदाज कर देते हैं। लगातार लो बीपी के कारण चक्कर, कमजोरी, धुंधला दिखने, भ्रम और बेहोशी जैसी समस्या हो सकती है। ब्लड प्रेशर अचानक लो हो जाए तो शरीर देता है ये संकेत, समय पर न हुआ इलाज तो बढ़ सकती है मुसीबत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ब्लड प्रेशर अचानक लो हो जाए तो शरीर देता है ये संकेत, समय पर न हुआ इलाज तो बढ़ सकती है मुसीबत",
-          "summary": "लो ब्लड प्रेशर यानी हाइपोटेंशन को अक्सर लोग सामान्य कमजोरी समझकर नजरअंदाज कर देते हैं। लगातार लो बीपी के कारण चक्कर, कमजोरी, धुंधला दिखने, भ्रम और बेहोशी जैसी समस्या हो सकती है। ब्लड प्रेशर अचानक लो हो जाए तो शरीर देता है ये संकेत, समय पर न हुआ इलाज तो बढ़ सकती है मुसीबत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कब मनाई जाएगी वामन जयंती? जानें पूजा का शुभ समय, पूजा विधि और धार्मिक महत्व",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/vamana-jayanti-2026-when-is-lord-vishnu-s-vamana-avatar-jayanti-know-date-puja-vidhi-and-significance-2026-09-20",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-21T03:08:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/vamana-jayata-2026_1cdfb185fbc244e9ba8ac2d1f8a396dc.jpeg?w=1200&dpr=1.0",
-      "summary": "भगवान विष्णु के वामन अवतार को समर्पित वामन जयंती हिंदू धर्म का महत्वपूर्ण पर्व माना जाता है। इस दिन भगवान वामन की पूजा और व्रत करने की परंपरा है। जानें वामन जयंती की सही तिथि, पूजा विधि और धार्मिक महत्व। कब मनाई जाएगी वामन जयंती? जानें पूजा का शुभ समय, पूजा विधि और धार्मिक महत्व।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कब मनाई जाएगी वामन जयंती? जानें पूजा का शुभ समय, पूजा विधि और धार्मिक महत्व",
-          "summary": "भगवान विष्णु के वामन अवतार को समर्पित वामन जयंती हिंदू धर्म का महत्वपूर्ण पर्व माना जाता है। इस दिन भगवान वामन की पूजा और व्रत करने की परंपरा है। जानें वामन जयंती की सही तिथि, पूजा विधि और धार्मिक महत्व। कब मनाई जाएगी वामन जयंती? जानें पूजा का शुभ समय, पूजा विधि और धार्मिक महत्व।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सूडान में दूसरी बार ढही सोने की खदान, मलबे में दबीं कई जिंदगियां, 11 मजदूरों की दर्दनाक मौत",
-      "url": "https://hindi.news18.com/world/rest-of-world-sudan-gold-mine-collapse-11-miners-death-rescue-operation-on-10852083.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-21T02:59:22+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Sudan-Gold-Mine-2026-09-a72c17a4101825113d18aab2958161d6-1200x800.jpg",
-      "summary": "अफ्रीकी देश सूडान में अवैध सोने की खदानें गरीब मजदूरों के लिए कब्रगाह साबित हो रही हैं. हफ्ते भर के भीतर देश में दूसरा बड़ा खूनी हादसा सामने आया है. पूर्वोत्तर सूडान के रेड सी राज्य अंतर्गत ओनी के दुर्गम इलाके में शनिवार देर रात एक गैर-कानूनी सोने की खदान की मुख्य सुरंग अचानक ताश के पत्तों की तरह ढह गई.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सूडान में दूसरी बार ढही सोने की खदान, मलबे में दबीं कई जिंदगियां, 11 मजदूरों की दर्दनाक मौत",
-          "summary": "अफ्रीकी देश सूडान में अवैध सोने की खदानें गरीब मजदूरों के लिए कब्रगाह साबित हो रही हैं. हफ्ते भर के भीतर देश में दूसरा बड़ा खूनी हादसा सामने आया है. पूर्वोत्तर सूडान के रेड सी राज्य अंतर्गत ओनी के दुर्गम इलाके में शनिवार देर रात एक गैर-कानूनी सोने की खदान की मुख्य सुरंग अचानक ताश के पत्तों की तरह ढह गई.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "चीन को साधने की कोशिश में अमेरिका: कृषि-ऊर्जा उत्पादों पर लगा सकता है कम टैरिफ, एआई को लेकर बनी",
-      "url": "https://www.amarujala.com/world/us-proposes-ai-incident-alert-system-in-talks-with-china-scott-bessent-hints-lower-tariffs-in-trade-talks-2026-09-21",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-09-21T02:53:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/scott-bessent_2d9ecef3b6f110de9d6b56c620e9bb2e.jpeg?w=1200&dpr=1.0",
-      "summary": "क्या सहमति? us-proposes-ai-incident-alert-system-in-talks-with-china-Scott-bessent-hints-lower-tariffs-in-trade-talks चीन को साधने की कोशिश में अमेरिका: कृषि-ऊर्जा उत्पादों पर लगा सकता है कम टैरिफ, एआई को लेकर बनी क्या सहमति?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन को साधने की कोशिश में अमेरिका: कृषि-ऊर्जा उत्पादों पर लगा सकता है कम टैरिफ, एआई को लेकर बनी",
-          "summary": "क्या सहमति? us-proposes-ai-incident-alert-system-in-talks-with-china-Scott-bessent-hints-lower-tariffs-in-trade-talks चीन को साधने की कोशिश में अमेरिका: कृषि-ऊर्जा उत्पादों पर लगा सकता है कम टैरिफ, एआई को लेकर बनी क्या सहमति?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'वापस क्यों जाते हो? हिम्मत है तो उतारो सेनाएं', ईरान ने ट्रंप को ललकारा",
-      "url": "https://hindi.news18.com/world/middle-east-iran-us-war-live-update-trump-warns-tehran-to-wipe-out-west-asia-conflict-saudi-arabia-houthi-clash-ws-l-10852123.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-21T02:39:08+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/US-Iran-2026-09-1dbf815f7db72a09ce6489db2744c818-1200x800.jpg",
-      "summary": "Iran-US News: ईरान-अमेरिका के बीच जंग खत्म होने के बजाय वहां और ज्यादा स्थिति खराब होती दिख रही है. अमेरिका फिर से अपने हथियारों और विमानों को डिप्लॉय कर रहा है, तो ईरान अपनी शर्तों पर टिका हुआ है. ऐसे में भड़के डोनाल्ड ट्रंप ने कहा है कि उनके पास ईरान को नक्शे से साफ कर देंने का भी ऑप्शन है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'वापस क्यों जाते हो? हिम्मत है तो उतारो सेनाएं', ईरान ने ट्रंप को ललकारा",
-          "summary": "Iran-US News: ईरान-अमेरिका के बीच जंग खत्म होने के बजाय वहां और ज्यादा स्थिति खराब होती दिख रही है. अमेरिका फिर से अपने हथियारों और विमानों को डिप्लॉय कर रहा है, तो ईरान अपनी शर्तों पर टिका हुआ है. ऐसे में भड़के डोनाल्ड ट्रंप ने कहा है कि उनके पास ईरान को नक्शे से साफ कर देंने का भी ऑप्शन है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान की अफगानिस्तान पर एयरस्ट्राइक, कुनार में कई ठिकानों पर बरसाए बम",
-      "url": "https://www.patrika.com/world-news/pakistan-airforce-airstrike-afghanistan-kunar-province-20922928",
+      "title": "ईरान पर अमेरिका का नया संदेश: परमाणु हथियार पर ‘नो डील’, बातचीत के दरवाजे अब भी खुले",
+      "url": "https://www.patrika.com/world-news/iran-nuclear-weapons-us-mike-waltz-talks-iran-nuclear-deal-20922916",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-09-21T02:32:04+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/6161460976931248508.webp",
-      "summary": "Pakistan Airstrike: पाकिस्तान की एयरफोर्स ने अफगानिस्तान में एयरस्ट्राइक की है। पाक वायुसेना ने अफगानिस्तान के पूर्वी कुनार प्रांत में बम बरसाए हैं। अल जजीरा की रिपोर्ट के मुताबिक, पाकिस्तानी एयरफोर्स के हमले में कई अफगान नागरिक घायल हुए हैं। मिली जानकारी के अनुसार, पाकिस्तानी जेट विमानों ने मुख्य रूप से कुनार और पक्तिका प्रांतों को अपना निशाना बनाया। पाकिस्तान की अफगानिस्तान पर एयरस्ट्राइक, कुनार में कई ठिकानों पर बरसाए बम।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-09-21T04:03:12+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Mike-Waltz.webp",
+      "summary": "Iran Nuclear Deal: ईरान के परमाणु कार्यक्रम को लेकर अमेरिका ने अपना रुख और स्पष्ट कर दिया है। संयुक्त राष्ट्र में अमेरिकी राजदूत माइक वॉल्ट्ज ने कहा है कि राष्ट्रपति डोनाल्ड ट्रंप का लक्ष्य यह सुनिश्चित करना है कि ईरान कभी परमाणु हथियार हासिल न कर सके। इसके लिए वॉशिंगटन ‘अधिकतम दबाव’ जारी रखेगा। हालांकि, इसी कड़े संदेश के बीच तेहरान के लिए बातचीत का रास्ता खुला रखा गया है।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पाकिस्तान की अफगानिस्तान पर एयरस्ट्राइक, कुनार में कई ठिकानों पर बरसाए बम",
-          "summary": "Pakistan Airstrike: पाकिस्तान की एयरफोर्स ने अफगानिस्तान में एयरस्ट्राइक की है। पाक वायुसेना ने अफगानिस्तान के पूर्वी कुनार प्रांत में बम बरसाए हैं। अल जजीरा की रिपोर्ट के मुताबिक, पाकिस्तानी एयरफोर्स के हमले में कई अफगान नागरिक घायल हुए हैं। मिली जानकारी के अनुसार, पाकिस्तानी जेट विमानों ने मुख्य रूप से कुनार और पक्तिका प्रांतों को अपना निशाना बनाया। पाकिस्तान की अफगानिस्तान पर एयरस्ट्राइक, कुनार में कई ठिकानों पर बरसाए बम।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "दौड़ से नहीं, गले में प्लास्टिक बोतल फंसने से हुई मौत, अभ्यर्थी की मौत मामले में नया मोड़",
-      "url": "https://www.amarujala.com/lucknow/up-home-guard-recruitment-candidate-died-after-plastic-bottle-got-stuck-in-his-throat-not-due-to-the-run-2026-09-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-21T02:29:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/up-home-guard-recruitment_d185d912da094baf5fde29e590d2b4a6.jpeg?w=1200&dpr=1.0",
-      "summary": "लखनऊ महानगर स्थित 35वीं वाहिनी पीएसी ग्राउंड में मंगलवार को होमगार्ड भर्ती की दौड़ में सीतापुर के रामकोट मढ़िया रहीमपुर के अभ्यर्थी योगेंद्र सिंह की मौत दौड़ के कारण नहीं गले में पानी की छोटी बोतल फंसने से हुई थी। दौड़ से नहीं, गले में प्लास्टिक बोतल फंसने से हुई मौत, अभ्यर्थी की मौत मामले में नया मोड़।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दौड़ से नहीं, गले में प्लास्टिक बोतल फंसने से हुई मौत, अभ्यर्थी की मौत मामले में नया मोड़",
-          "summary": "लखनऊ महानगर स्थित 35वीं वाहिनी पीएसी ग्राउंड में मंगलवार को होमगार्ड भर्ती की दौड़ में सीतापुर के रामकोट मढ़िया रहीमपुर के अभ्यर्थी योगेंद्र सिंह की मौत दौड़ के कारण नहीं गले में पानी की छोटी बोतल फंसने से हुई थी। दौड़ से नहीं, गले में प्लास्टिक बोतल फंसने से हुई मौत, अभ्यर्थी की मौत मामले में नया मोड़।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पूर्व भारतीय दिग्गज के बयान से मची हलचल, विश्व कप को लेकर कही बड़ी बात",
-      "url": "https://www.amarujala.com/cricket/rohit-sharma-virat-kohli-not-needed-sandeep-patil-makes-big-remark-on-2027-odi-world-cup-2026-09-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-21T02:25:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/rohit-sharma-virat-kohli-sandeep-patil-odi-world-cup-2027-team-india-indian-cricket-team-shub_6e62c5a9374bdb88e15009ecfbd091fe.jpeg?w=1200&dpr=1.0",
-      "summary": "रोहित शर्मा और विराट कोहली के 2027 वनडे विश्व कप में खेलने को लेकर चर्चा जारी है। इसी बीच पूर्व भारतीय ऑलराउंडर संदीप पाटिल ने टीम की मजबूत बेंच स्ट्रेंथ का जिक्र करते हुए कहा कि दोनों में से कोई टीम में हो या नहीं, भारत को परेशानी नहीं होगी। पूर्व भारतीय दिग्गज के बयान से मची हलचल, विश्व कप को लेकर कही बड़ी बात।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पूर्व भारतीय दिग्गज के बयान से मची हलचल, विश्व कप को लेकर कही बड़ी बात",
-          "summary": "रोहित शर्मा और विराट कोहली के 2027 वनडे विश्व कप में खेलने को लेकर चर्चा जारी है। इसी बीच पूर्व भारतीय ऑलराउंडर संदीप पाटिल ने टीम की मजबूत बेंच स्ट्रेंथ का जिक्र करते हुए कहा कि दोनों में से कोई टीम में हो या नहीं, भारत को परेशानी नहीं होगी। पूर्व भारतीय दिग्गज के बयान से मची हलचल, विश्व कप को लेकर कही बड़ी बात।",
-          "region": "एशिया-प्रशांत"
+          "title": "ईरान पर अमेरिका का नया संदेश: परमाणु हथियार पर ‘नो डील’, बातचीत के दरवाजे अब भी खुले",
+          "summary": "Iran Nuclear Deal: ईरान के परमाणु कार्यक्रम को लेकर अमेरिका ने अपना रुख और स्पष्ट कर दिया है। संयुक्त राष्ट्र में अमेरिकी राजदूत माइक वॉल्ट्ज ने कहा है कि राष्ट्रपति डोनाल्ड ट्रंप का लक्ष्य यह सुनिश्चित करना है कि ईरान कभी परमाणु हथियार हासिल न कर सके। इसके लिए वॉशिंगटन ‘अधिकतम दबाव’ जारी रखेगा। हालांकि, इसी कड़े संदेश के बीच तेहरान के लिए बातचीत का रास्ता खुला रखा गया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
