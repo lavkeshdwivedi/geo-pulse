@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-21T23:12:47.986499+00:00",
+  "generated_at": "2026-09-22T00:36:16.889961+00:00",
   "article_count": 50,
-  "total_unique_count": 259,
+  "total_unique_count": 256,
   "digest": {
     "en": "Middle East & Africa leads the board this hour with Venezuela después del pacto petrolero con EE. UU.. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, दिल्ली में किशोरी से सामूहिक दुष्कर्म: कालकाजी मंदिर के पास हुई हैवानियत, दर्शन करने आई थी पीड़िता मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, Weather Forecast 22 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल मुख्य खबर है। साथ ही अमेरिका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -32,13 +32,13 @@
       "translations": {}
     },
     {
-      "title": "Relentless wildfires push Sumatra’s firefighters to their limits",
+      "title": "Through smoke, flames and exhaustion, Sumatra’s firefighters find strength to carry on",
       "url": "https://www.channelnewsasia.com/asia/indonesia-haze-wildfires-sumatra-firefighters-drought-6391731",
       "source": "Channel News Asia",
       "sources": [],
       "published_at": "2026-09-21T22:00:00+00:00",
       "image_url": "https://dam.mediacorp.sg/image/upload/s--PTGPx09k--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/18/dsc_7716.jpg?itok=tWf1BTyC",
-      "summary": "Wildfires in Indonesia have caused transboundary haze and disrupted livelihoods in Sumatra. In the second of a series, CNA meets the firefighters enduring choking smoke, sleepless nights and scarce water - and finds out what keeps them going. Relentless wildfires push Sumatra’s firefighters to their limits.",
+      "summary": "Wildfires in Indonesia have caused transboundary haze and disrupted livelihoods in Sumatra. In the second of a series, CNA meets the firefighters enduring choking smoke, sleepless nights and scarce water - and finds out what keeps them going. Relentless wildfires push Sumatra’s firefighters to their limits. Through smoke, flames and exhaustion, Sumatra’s firefighters find strength to carry on.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -308,81 +308,243 @@
       "translations": {}
     },
     {
-      "title": "दिल्ली में किशोरी से सामूहिक दुष्कर्म: कालकाजी मंदिर के पास हुई हैवानियत, दर्शन करने आई थी पीड़िता",
-      "url": "https://www.amarujala.com/delhi/three-people-harassed-a-teenage-girl-in-forest-near-delhi-kalkaji-temple-2026-09-22",
+      "title": "Weather Forecast 22 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल",
+      "url": "https://www.amarujala.com/video/india-news/weather-forecast-22-sep-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-09-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-22T00:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/weather-forecast_c8488cbea7fcba234f90de91c198878c.jpeg?w=1200&dpr=1.0",
+      "summary": "Weather Forecast 22 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Weather Forecast 22 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल",
+          "summary": "Weather Forecast 22 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पीठ में गोली धंसी रही, फिर भी आईसीई ने नहीं छोड़ा: अस्पताल से सीधे हिरासत में पहुंचा वेनेजुएलावासी",
+      "url": "https://www.amarujala.com/world/ice-officer-shooting-venezuelan-man-detained-in-texas-with-bullet-in-back-2026-09-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-22T00:29:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/us-mass-shooting-several-killed-in-mass-shooting-in-us-north-carolina-news-in-hindi_f110f711471b809dbe3e052c8f1afdaa.jpeg?w=1200&dpr=1.0",
+      "summary": "; वजह क्या? ICE officer shooting Venezuelan man detained in Texas with bullet in back पीठ में गोली धंसी रही, फिर भी आईसीई ने नहीं छोड़ा: अस्पताल से सीधे हिरासत में पहुंचा वेनेजुएलावासी; वजह क्या?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीठ में गोली धंसी रही, फिर भी आईसीई ने नहीं छोड़ा: अस्पताल से सीधे हिरासत में पहुंचा वेनेजुएलावासी",
+          "summary": "; वजह क्या? ICE officer shooting Venezuelan man detained in Texas with bullet in back पीठ में गोली धंसी रही, फिर भी आईसीई ने नहीं छोड़ा: अस्पताल से सीधे हिरासत में पहुंचा वेनेजुएलावासी; वजह क्या?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "योसेमाइट नेशनल पार्क में आग बुझाते हेलीकॉप्टर दुर्घटनाग्रस्त, दो पायलटों की मौत",
+      "url": "https://www.amarujala.com/world/usa-firefighting-helicopter-crashes-near-yosemite-both-pilots-killed-2026-09-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-22T00:27:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/11/bugdha-khabra_af450dd548718eca5aa7d1d9015a22fd.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका में हादसा: योसेमाइट नेशनल पार्क में आग बुझाते हेलीकॉप्टर दुर्घटनाग्रस्त, दो पायलटों की मौत।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "योसेमाइट नेशनल पार्क में आग बुझाते हेलीकॉप्टर दुर्घटनाग्रस्त, दो पायलटों की मौत",
+          "summary": "अमेरिका में हादसा: योसेमाइट नेशनल पार्क में आग बुझाते हेलीकॉप्टर दुर्घटनाग्रस्त, दो पायलटों की मौत।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "36 अवाॅर्ड सत्यजीत रे के नाम, शबाना ने भी बनाया रिकॉर्ड; क्यों शुरू हुआ यह सम्मान?",
+      "url": "https://www.amarujala.com/entertainment/national-film-awards-2026-history-when-and-why-start-who-won-first-award-know-details-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-22T00:05:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/rashhataraya-falma-parasakara_a5d7af32099a6e1319f16ef48a779a25.gif?w=1200&dpr=1.0",
+      "summary": "आज 22 सितंबर को राष्ट्रीय फिल्म पुरस्कार मिलने वाले हैं, जिसकी घोषणा 18 जुलाई को की गई थी। इसमें बेहतरीन फिल्मों से लेकर एक्टर्स और कई कैटेगरीज में पुरस्कार दिए जाएंगे। ऐसे में आइए इसका इतिहास जानते हैं। 36 अवाॅर्ड सत्यजीत रे के नाम, शबाना ने भी बनाया रिकॉर्ड; क्यों शुरू हुआ यह सम्मान?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "36 अवाॅर्ड सत्यजीत रे के नाम, शबाना ने भी बनाया रिकॉर्ड; क्यों शुरू हुआ यह सम्मान?",
+          "summary": "आज 22 सितंबर को राष्ट्रीय फिल्म पुरस्कार मिलने वाले हैं, जिसकी घोषणा 18 जुलाई को की गई थी। इसमें बेहतरीन फिल्मों से लेकर एक्टर्स और कई कैटेगरीज में पुरस्कार दिए जाएंगे। ऐसे में आइए इसका इतिहास जानते हैं। 36 अवाॅर्ड सत्यजीत रे के नाम, शबाना ने भी बनाया रिकॉर्ड; क्यों शुरू हुआ यह सम्मान?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आईआईटी बॉम्बे में क्यों मचा बवाल; नकल, आत्महत्या से एफआईआर तक पहुंची बात, अब क्या चाहते हैं छात्र?",
+      "url": "https://www.amarujala.com/india-news/explainer-iit-bombay-protests-from-cheating-allegations-and-student-death-to-fir-what-are-students-demandin-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-22T00:05:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/aaiiaaiita-bmab-ma-kaya-haaa_89b820fc0beb2610cfdef50b32904223.jpeg?w=1200&dpr=1.0",
+      "summary": "एक्सप्लेनर: आईआईटी बॉम्बे में क्यों मचा बवाल; नकल, आत्महत्या से एफआईआर तक पहुंची बात, अब क्या चाहते हैं छात्र?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईआईटी बॉम्बे में क्यों मचा बवाल; नकल, आत्महत्या से एफआईआर तक पहुंची बात, अब क्या चाहते हैं छात्र?",
+          "summary": "एक्सप्लेनर: आईआईटी बॉम्बे में क्यों मचा बवाल; नकल, आत्महत्या से एफआईआर तक पहुंची बात, अब क्या चाहते हैं छात्र?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली में नाबालिग से दरिंदगी; दूसरे को सिम दी तो 50 लाख जुर्माना; अमेरिका में एयर ट्रैफिक ठप",
+      "url": "https://www.amarujala.com/india-news/top-news-22-september-2026-delhi-kalkaji-us-air-traffic-fail-trump-media-ban-2026-09-22",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-09-22T06:54:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/nablga-sa-samahaka-thashhakarama_c345dccc510488e8231eec53e7d4895b.jpeg?w=1200&dpr=1.0",
-      "summary": "Police in Delhi’s Kalkaaji police station area arrested three men on Monday night after a 17‑year‑old girl reported a gang rape near the Kalkaaji temple. The suspects were taken into custody and the case was forwarded to the crime branch for investigation. राजधानी दिल्ली के दक्षिण-पूर्व जिले के कालकाजी थाना इलाके में कालकाजी मंदिर के पास सोमवार रात एक 17 वर्षीय किशोरी से सामूहिक दुष्कर्म का मामला सामने आया है।",
+      "published_at": "2026-09-22T00:01:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/01/aaja-ka-ahama-khabra_4c5a3d24226dd82c810080f6c01c261c.jpeg?w=1200&dpr=1.0",
+      "summary": "top news 22 september 2026 delhi kalkaji us air traffic fail trump media ban दिल्ली में नाबालिग से दरिंदगी; दूसरे को सिम दी तो 50 लाख जुर्माना; अमेरिका में एयर ट्रैफिक ठप।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दिल्ली में किशोरी से सामूहिक दुष्कर्म: कालकाजी मंदिर के पास हुई हैवानियत, दर्शन करने आई थी पीड़िता",
-          "summary": "Police in Delhi’s Kalkaaji police station area arrested three men on Monday night after a 17‑year‑old girl reported a gang rape near the Kalkaaji temple. The suspects were taken into custody and the case was forwarded to the crime branch for investigation. राजधानी दिल्ली के दक्षिण-पूर्व जिले के कालकाजी थाना इलाके में कालकाजी मंदिर के पास सोमवार रात एक 17 वर्षीय किशोरी से सामूहिक दुष्कर्म का मामला सामने आया है।",
+          "title": "दिल्ली में नाबालिग से दरिंदगी; दूसरे को सिम दी तो 50 लाख जुर्माना; अमेरिका में एयर ट्रैफिक ठप",
+          "summary": "top news 22 september 2026 delhi kalkaji us air traffic fail trump media ban दिल्ली में नाबालिग से दरिंदगी; दूसरे को सिम दी तो 50 लाख जुर्माना; अमेरिका में एयर ट्रैफिक ठप।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "मीडिया जगत की सबसे बड़ी डील पर सहमति: पैरामाउंट-वार्नर मर्जर का रास्ता खुला; क्या है मामला?",
-      "url": "https://www.amarujala.com/world/paramount-warner-bros-merger-states-settlement-2026-09-22",
-      "source": "Amar Ujala Breaking",
+      "title": "UNGA सप्ताह में जयशंकर की डिप्लोमैटिक दौड़: V4 देशों से बड़ी सहमति, कैसिस- नाउरू के राष्ट्रपति से",
+      "url": "https://www.patrika.com/world-news/jaishankar-unga-meetings-cassis-nauru-president-v4-countries-tepa-20925647",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-09-22T06:53:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/13/paramauta-sakaiidasa-oura-varanara-bratharasa_bf65c408433446674f5ef3f000dd3b4c.jpeg?w=1200&dpr=1.0",
-      "summary": "मीडिया जगत की सबसे बड़ी डील पर सहमति: पैरामाउंट-वार्नर मर्जर का रास्ता खुला; क्या है मामला?",
+      "published_at": "2026-09-21T23:51:54+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/S-Jaishankar.webp",
+      "summary": "विदेश मंत्री एस. जयशंकर ने 81वीं संयुक्त राष्ट्र महासभा (UNGA) के दौरान स्विट्जरलैंड के विदेश मंत्री इग्नाजियो कैसिस और नाउरू के राष्ट्रपति डेविड एडांग के साथ अलग-अलग बैठकें कीं। इन बैठकों में द्विपक्षीय संबंधों, आर्थिक सहयोग और बहुपक्षीय मुद्दों पर चर्चा हुई। UNGA सप्ताह में जयशंकर की डिप्लोमैटिक दौड़: V4 देशों से बड़ी सहमति, कैसिस- नाउरू के राष्ट्रपति से।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UNGA सप्ताह में जयशंकर की डिप्लोमैटिक दौड़: V4 देशों से बड़ी सहमति, कैसिस- नाउरू के राष्ट्रपति से",
+          "summary": "विदेश मंत्री एस. जयशंकर ने 81वीं संयुक्त राष्ट्र महासभा (UNGA) के दौरान स्विट्जरलैंड के विदेश मंत्री इग्नाजियो कैसिस और नाउरू के राष्ट्रपति डेविड एडांग के साथ अलग-अलग बैठकें कीं। इन बैठकों में द्विपक्षीय संबंधों, आर्थिक सहयोग और बहुपक्षीय मुद्दों पर चर्चा हुई। UNGA सप्ताह में जयशंकर की डिप्लोमैटिक दौड़: V4 देशों से बड़ी सहमति, कैसिस- नाउरू के राष्ट्रपति से।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "मेष सहित इन 4 राशि वालों का दिन रहेगा शुभ, पूरी होगी मन की इच्छा",
+      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/today-prediction-horoscope-of-22-september-2026-aaj-ka-rashifal-2026-09-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T23:48:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/14/aaj-ka-rashifal_fbd993f927fb6b43da71e2611ce94830.jpeg?w=1200&dpr=1.0",
+      "summary": "Aaj Ka Rashifal 22 september 2026: आज का दिन सभी 12 राशियों के लिए कैसा रहेगा? आइए जानते हैं मेष से लेकर मीन तक का हाल। मेष सहित इन 4 राशि वालों का दिन रहेगा शुभ, पूरी होगी मन की इच्छा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मेष सहित इन 4 राशि वालों का दिन रहेगा शुभ, पूरी होगी मन की इच्छा",
+          "summary": "Aaj Ka Rashifal 22 september 2026: आज का दिन सभी 12 राशियों के लिए कैसा रहेगा? आइए जानते हैं मेष से लेकर मीन तक का हाल। मेष सहित इन 4 राशि वालों का दिन रहेगा शुभ, पूरी होगी मन की इच्छा।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "निजी विश्वविद्यालयों की वित्तीय रिपोर्ट तलब; गिरफ्तारी का आधार नहीं बताने पर कार्रवाई अवैध",
+      "url": "https://www.amarujala.com/india-news/supreme-court-update-reason-of-arrest-must-for-accused-pvt-universities-financial-report-cji-other-judges-news-2026-09-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-21T23:47:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/06/supreme-court-updates_37693db95c8fb536899fb1003ed3c7c2.jpeg?w=1200&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट: निजी विश्वविद्यालयों की वित्तीय रिपोर्ट तलब; गिरफ्तारी का आधार नहीं बताने पर कार्रवाई अवैध।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मीडिया जगत की सबसे बड़ी डील पर सहमति: पैरामाउंट-वार्नर मर्जर का रास्ता खुला; क्या है मामला?",
-          "summary": "मीडिया जगत की सबसे बड़ी डील पर सहमति: पैरामाउंट-वार्नर मर्जर का रास्ता खुला; क्या है मामला?",
+          "title": "निजी विश्वविद्यालयों की वित्तीय रिपोर्ट तलब; गिरफ्तारी का आधार नहीं बताने पर कार्रवाई अवैध",
+          "summary": "सुप्रीम कोर्ट: निजी विश्वविद्यालयों की वित्तीय रिपोर्ट तलब; गिरफ्तारी का आधार नहीं बताने पर कार्रवाई अवैध।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "जीवन खुद को समझने की यात्रा भी है, अपनी कमियों को पहचानना ही सार्थक सूत्र",
-      "url": "https://www.amarujala.com/columns/blog/life-is-also-a-journey-of-self-understanding-recognizing-shortcomings-is-the-key-to-meaningful-path-2026-09-22",
+      "title": "22 वर्षीय बीटेक के छात्र की खबर क्षुब्ध करने वाली, जांच के नतीजों का इंतजार भी अहम",
+      "url": "https://www.amarujala.com/columns/opinion/suicide-at-iit-and-questions-22-year-old-b-tech-student-demise-disturbing-awaiting-probe-results-crucial-2026-09-22",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-09-21T23:11:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/21/meditation-madatashana_c5c29f52dd1045144281742fac730d38.jpeg?w=1200&dpr=1.0",
-      "summary": "जीवन धारा: जीवन खुद को समझने की यात्रा भी है, अपनी कमियों को पहचानना ही सार्थक सूत्र।",
+      "published_at": "2026-09-21T23:36:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/12/04/iit-bombay_ef9f56776e9d6b85238decd562632e9f.jpeg?w=1200&dpr=1.0",
+      "summary": "आत्महत्या और सवाल: 22 वर्षीय बीटेक के छात्र की खबर क्षुब्ध करने वाली, जांच के नतीजों का इंतजार भी अहम।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जीवन खुद को समझने की यात्रा भी है, अपनी कमियों को पहचानना ही सार्थक सूत्र",
-          "summary": "जीवन धारा: जीवन खुद को समझने की यात्रा भी है, अपनी कमियों को पहचानना ही सार्थक सूत्र।",
+          "title": "22 वर्षीय बीटेक के छात्र की खबर क्षुब्ध करने वाली, जांच के नतीजों का इंतजार भी अहम",
+          "summary": "आत्महत्या और सवाल: 22 वर्षीय बीटेक के छात्र की खबर क्षुब्ध करने वाली, जांच के नतीजों का इंतजार भी अहम।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हूतियों के हमलों से सऊदी बेहाल: ब्रिटेन ने बढ़ाया मदद का हाथ; आरएएफ भरेगा लड़ाकू विमानों में ईंधन",
+      "url": "https://www.amarujala.com/world/uk-saudi-arabia-raf-air-refuelling-support-against-houthi-attacks-2026-09-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-21T23:28:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/25/saudi-arabia_ca4a77d4c0fa94d161b85421023bf70f.jpeg?w=1200&dpr=1.0",
+      "summary": "हूतियों के हमलों से सऊदी बेहाल:ब्रिटेन ने बढ़ाया मदद का हाथ; आरएएफ भरेगा लड़ाकू विमानों में ईंधन हूतियों के हमलों से सऊदी बेहाल: ब्रिटेन ने बढ़ाया मदद का हाथ; आरएएफ भरेगा लड़ाकू विमानों में ईंधन।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हूतियों के हमलों से सऊदी बेहाल: ब्रिटेन ने बढ़ाया मदद का हाथ; आरएएफ भरेगा लड़ाकू विमानों में ईंधन",
+          "summary": "हूतियों के हमलों से सऊदी बेहाल:ब्रिटेन ने बढ़ाया मदद का हाथ; आरएएफ भरेगा लड़ाकू विमानों में ईंधन हूतियों के हमलों से सऊदी बेहाल: ब्रिटेन ने बढ़ाया मदद का हाथ; आरएएफ भरेगा लड़ाकू विमानों में ईंधन।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
       "title": "डीन हटे, माफी मांगी , निदेशक के इस्तीफे पर अड़े छात्र",
       "url": "https://www.amarujala.com/india-news/iit-bombay-student-suicide-controversy-dean-removed-students-demand-director-resignation-2026-09-22",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-21T23:10:26+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/aaiiaaiita-bmab-ma-kaya-haaa_8bed4369e47f70c9b794ec804850677d.jpeg?w=1200&dpr=1.0",
-      "summary": "आंदोलित है आईआईटी बॉम्बे: डीन हटे, माफी मांगी, निदेशक के इस्तीफे पर अड़े छात्र।",
+      "summary": "आंदोलित है आईआईटी बॉम्बे: डीन हटे, माफी मांगी, निदेशक के इस्तीफे पर अड़े छात्र। आंदोलित है आईआईटी बॉम्बे: डीन हटे, माफी मांगी, निदेशक के इस्तीफे पर अड़े छात्र।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "डीन हटे, माफी मांगी , निदेशक के इस्तीफे पर अड़े छात्र",
-          "summary": "आंदोलित है आईआईटी बॉम्बे: डीन हटे, माफी मांगी, निदेशक के इस्तीफे पर अड़े छात्र।",
+          "summary": "आंदोलित है आईआईटी बॉम्बे: डीन हटे, माफी मांगी, निदेशक के इस्तीफे पर अड़े छात्र। आंदोलित है आईआईटी बॉम्बे: डीन हटे, माफी मांगी, निदेशक के इस्तीफे पर अड़े छात्र।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप ने मेयरों को लेकर कसा तंज, ग्रेसी मैंशन को बताया दुनिया में सबसे पसंदीदा जगह में से एक",
+      "url": "https://www.patrika.com/world-news/trump-calls-gracie-mansion-favorite-spot-new-york-meetings-20925636",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-21T23:04:27+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Donald-Trump-Gracie-Mansion.webp",
+      "summary": "Gracie Mansion: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप सोमवार (स्थानीय समय) को न्यूयॉर्क शहर के मेयर जोहरान मम्दानी के साथ बैठक के लिए ग्रेसी मैंशन गए। उन्होंने इस आधिकारिक आवास को “दुनिया में मेरी पसंदीदा जगहों में से एक” बताया और वहां शहर के पूर्व मेयरों के साथ हुई अपनी मुलाकातों को याद किया। ट्रंप ने मेयरों को लेकर कसा तंज, ग्रेसी मैंशन को बताया दुनिया में सबसे पसंदीदा जगह में से एक।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप ने मेयरों को लेकर कसा तंज, ग्रेसी मैंशन को बताया दुनिया में सबसे पसंदीदा जगह में से एक",
+          "summary": "Gracie Mansion: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप सोमवार (स्थानीय समय) को न्यूयॉर्क शहर के मेयर जोहरान मम्दानी के साथ बैठक के लिए ग्रेसी मैंशन गए। उन्होंने इस आधिकारिक आवास को “दुनिया में मेरी पसंदीदा जगहों में से एक” बताया और वहां शहर के पूर्व मेयरों के साथ हुई अपनी मुलाकातों को याद किया। ट्रंप ने मेयरों को लेकर कसा तंज, ग्रेसी मैंशन को बताया दुनिया में सबसे पसंदीदा जगह में से एक।",
+          "region": "अमेरिका"
         }
       }
     },
     {
       "title": "एजीआई हाउस या अय्याशी का अड्डा?: 37 पुलिस शिकायतों से उठे सवाल, टेक दिग्गजों की पार्टियों पर गंभीर",
       "url": "https://www.amarujala.com/world/silicon-valley-agi-house-faces-serious-allegations-over-parties-abuse-and-criminal-complaints-2026-09-22",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-21T23:00:26+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/24/thabii-ma-ayayasha-ka-vadaya-vayaral_2f9a826b10c421579093aa7d1a7c6904.jpeg?w=1200&dpr=1.0",
@@ -398,38 +560,38 @@
       }
     },
     {
-      "title": "जेन जी का बदलता मूड दलों के लिए चिंता: डीयू छात्र संघ चुनाव में भी दिखा असर, यूपी-पंजाब में अगली",
-      "url": "https://www.amarujala.com/india-news/gen-z-voters-changing-mood-creates-concern-for-political-parties-in-upcoming-elections-2026-09-22",
-      "source": "Amar Ujala National",
+      "title": "मौसम विभाग बोला- आज ओडिशा में भारी बारिश के आसार, तटीय जिलों में हाई अलर्ट; मछुआरों के लिए सलाह",
+      "url": "https://www.amarujala.com/india-news/weather-monsoon-update-imd-forecasts-odisha-heavy-rain-high-alert-in-coastal-districts-advisory-for-fishermen-2026-09-22",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-09-21T22:52:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/18/dasa-canava-2026_9a08b94531d1ddcb3372bbdc8cd16a3d.gif?w=1200&dpr=1.0",
-      "summary": "परीक्षाgen z voters changing mood creates concern for political parties in upcoming elections जेन जी का बदलता मूड दलों के लिए चिंता: डीयू छात्र संघ चुनाव में भी दिखा असर, यूपी-पंजाब में अगली।",
+      "published_at": "2026-09-21T22:12:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/masama-ka-hal_9d828ff3b3aa0148a3003f221be074f4.jpeg?w=1200&dpr=1.0",
+      "summary": "मौसम का मिजाज: मौसम विभाग बोला- आज ओडिशा में भारी बारिश के आसार, तटीय जिलों में हाई अलर्ट; मछुआरों के लिए सलाह।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जेन जी का बदलता मूड दलों के लिए चिंता: डीयू छात्र संघ चुनाव में भी दिखा असर, यूपी-पंजाब में अगली",
-          "summary": "परीक्षाgen z voters changing mood creates concern for political parties in upcoming elections जेन जी का बदलता मूड दलों के लिए चिंता: डीयू छात्र संघ चुनाव में भी दिखा असर, यूपी-पंजाब में अगली।",
+          "title": "मौसम विभाग बोला- आज ओडिशा में भारी बारिश के आसार, तटीय जिलों में हाई अलर्ट; मछुआरों के लिए सलाह",
+          "summary": "मौसम का मिजाज: मौसम विभाग बोला- आज ओडिशा में भारी बारिश के आसार, तटीय जिलों में हाई अलर्ट; मछुआरों के लिए सलाह।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "साक्षरता बढ़ाना हम सबकी जिम्मेदारी, सिर्फ सरकार के भरोसे बैठना सही नहीं होगा",
-      "url": "https://www.amarujala.com/columns/opinion/increasing-literacy-responsibility-of-everyone-relying-solely-on-government-would-not-be-right-2026-09-22",
-      "source": "Amar Ujala National",
+      "title": "रूस पर नए अमेरिकी प्रतिबंधों से भड़का क्रेमलिन, बोला- इनसे न रिश्ते सुधरेंगे, न शांति आएगी",
+      "url": "https://www.patrika.com/world-news/kremlin-warns-us-sanctions-hinder-ukraine-peace-efforts-20925624",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-09-21T22:38:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/literacy-sakashharata_0f52dad63b164c3ae03ec220bda52be0.jpeg?w=1200&dpr=1.0",
-      "summary": "साक्षरता बढ़ाने का दायित्व केवल सरकार पर नहीं है। यह समाज के सभी सदस्यों की साझा जिम्मेदारी है। मुद्दा: साक्षरता बढ़ाना हम सबकी जिम्मेदारी, सिर्फ सरकार के भरोसे बैठना सही नहीं होगा।",
-      "region": "World",
+      "published_at": "2026-09-21T21:58:41+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Kremlin-Russia-sanctions.webp",
+      "summary": "Russia Sanctions: मॉस्को ने कहा कि रूस के तेल और गैस एक्सपोर्ट पर प्रतिबंधों से न तो अमेरिका के साथ रिश्ते बेहतर होंगे और न ही यूक्रेन के साथ शांति आएगी। बीते शुक्रवार को अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने रूस पर प्रतिबंध लगाने वाले बिल को कानून का रूप दिया।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "साक्षरता बढ़ाना हम सबकी जिम्मेदारी, सिर्फ सरकार के भरोसे बैठना सही नहीं होगा",
-          "summary": "साक्षरता बढ़ाने का दायित्व केवल सरकार पर नहीं है। यह समाज के सभी सदस्यों की साझा जिम्मेदारी है। मुद्दा: साक्षरता बढ़ाना हम सबकी जिम्मेदारी, सिर्फ सरकार के भरोसे बैठना सही नहीं होगा।",
-          "region": "दुनिया"
+          "title": "रूस पर नए अमेरिकी प्रतिबंधों से भड़का क्रेमलिन, बोला- इनसे न रिश्ते सुधरेंगे, न शांति आएगी",
+          "summary": "Russia Sanctions: मॉस्को ने कहा कि रूस के तेल और गैस एक्सपोर्ट पर प्रतिबंधों से न तो अमेरिका के साथ रिश्ते बेहतर होंगे और न ही यूक्रेन के साथ शांति आएगी। बीते शुक्रवार को अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने रूस पर प्रतिबंध लगाने वाले बिल को कानून का रूप दिया।",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -488,78 +650,6 @@
       }
     },
     {
-      "title": "भारत और चिली व्यापक आर्थिक साझेदारी पर सहमत; एआई को अधिक भाषाओं में सुलभ बनाएगा गेट्स फाउंडेशन",
-      "url": "https://www.amarujala.com/business/business-diary/business-updates-sebi-ipo-demand-india-chile-cepa-gates-foundation-ai-accessible-in-underrepresented-languages-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T20:50:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/16/business-updates_5bd5a4d504c2ee303c82649060be7bf5.jpeg?w=1200&dpr=1.0",
-      "summary": "बिजनेस अपडेट्स: भारत और चिली व्यापक आर्थिक साझेदारी पर सहमत; एआई को अधिक भाषाओं में सुलभ बनाएगा गेट्स फाउंडेशन।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत और चिली व्यापक आर्थिक साझेदारी पर सहमत; एआई को अधिक भाषाओं में सुलभ बनाएगा गेट्स फाउंडेशन",
-          "summary": "बिजनेस अपडेट्स: भारत और चिली व्यापक आर्थिक साझेदारी पर सहमत; एआई को अधिक भाषाओं में सुलभ बनाएगा गेट्स फाउंडेशन।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यूपीआई शुल्क पर बोले नीति आयोग के पूर्व उपाध्यक्ष ने दी सरकार को ये बड़ी चेतावनी!",
-      "url": "https://www.amarujala.com/video/business/business-diary/former-niti-aayog-vice-chairman-issues-a-major-warning-to-the-government-regarding-upi-charges-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T20:50:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/upi-transaction-fees_e02d9f7d891378986e49a75ae55785c8.jpeg?w=1200&dpr=1.0",
-      "summary": "यूपीआई शुल्क पर बोले नीति आयोग के पूर्व उपाध्यक्ष ने दी सरकार को ये बड़ी चेतावनी!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपीआई शुल्क पर बोले नीति आयोग के पूर्व उपाध्यक्ष ने दी सरकार को ये बड़ी चेतावनी!",
-          "summary": "यूपीआई शुल्क पर बोले नीति आयोग के पूर्व उपाध्यक्ष ने दी सरकार को ये बड़ी चेतावनी!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कल्याण-डोंबिवली में अभंग पढ़ने से रोकने पर हंगामा, महापौर पर आरोप; ठाणे में विसर्जन को लेकर विवाद",
-      "url": "https://www.amarujala.com/india-news/maharashtra-updates-kalyan-dombivali-abhang-row-thane-visarjan-ban-nagpur-mumbai-politics-crime-and-other-news-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T20:25:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
-      "summary": "महाराष्ट्र: कल्याण-डोंबिवली में अभंग पढ़ने से रोकने पर हंगामा, महापौर पर आरोप; ठाणे में विसर्जन को लेकर विवाद।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कल्याण-डोंबिवली में अभंग पढ़ने से रोकने पर हंगामा, महापौर पर आरोप; ठाणे में विसर्जन को लेकर विवाद",
-          "summary": "महाराष्ट्र: कल्याण-डोंबिवली में अभंग पढ़ने से रोकने पर हंगामा, महापौर पर आरोप; ठाणे में विसर्जन को लेकर विवाद।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सोने- चांदी के दाम में आई जबरदस्त गिरावट, आम ग्राहकों की हुई बल्ले- बल्ले!",
-      "url": "https://www.amarujala.com/video/business/gold-and-silver-prices-have-seen-a-massive-drop-it-s-a-windfall-for-ordinary-customers-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T20:25:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/petrol-diesel-price_09590fb1aa47ce0b3ea7fb2680e339ee.jpeg?w=1200&dpr=1.0",
-      "summary": "सोने- चांदी के दाम में आई जबरदस्त गिरावट, आम ग्राहकों की हुई बल्ले- बल्ले!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सोने- चांदी के दाम में आई जबरदस्त गिरावट, आम ग्राहकों की हुई बल्ले- बल्ले!",
-          "summary": "सोने- चांदी के दाम में आई जबरदस्त गिरावट, आम ग्राहकों की हुई बल्ले- बल्ले!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "क्या सिया गोयल के परिवार के लोग भी साजिश में शामिल थे? पिता ने जताया शक",
       "url": "https://www.amarujala.com/india-news/ketan-agarwal-murder-case-family-conspiracy-siya-goyal-chargesheet-2026-09-22",
       "source": "Amar Ujala Breaking",
@@ -592,24 +682,6 @@
           "title": "कनाडा में यहूदी प्रार्थना स्थल के बाहर गोलीबारी; कोलंबिया में जंगल की भीषण आग सार्वजनिक आपदा",
           "summary": "विदेश के समाचार: कनाडा में यहूदी प्रार्थना स्थल के बाहर गोलीबारी; कोलंबिया में जंगल की भीषण आग सार्वजनिक आपदा।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "बंगाल में टीएमसी विधायक से पूछताछ, सीआईडी के सामने बीमार; एमपी में सिंधिया को दिखाए गए काले झंडे",
-      "url": "https://www.amarujala.com/india-news/national-updates-22-sept-gujarat-mp-karnataka-odisha-bengal-tmc-north-east-west-south-politics-crime-news-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-21T19:57:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_16003c2ba7e0cb7e22366c606b634689.jpeg?w=1200&dpr=1.0",
-      "summary": "न्यूज डायरी: बंगाल में टीएमसी विधायक से पूछताछ, सीआईडी के सामने बीमार; एमपी में सिंधिया को दिखाए गए काले झंडे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बंगाल में टीएमसी विधायक से पूछताछ, सीआईडी के सामने बीमार; एमपी में सिंधिया को दिखाए गए काले झंडे",
-          "summary": "न्यूज डायरी: बंगाल में टीएमसी विधायक से पूछताछ, सीआईडी के सामने बीमार; एमपी में सिंधिया को दिखाए गए काले झंडे।",
-          "region": "दुनिया"
         }
       }
     },
@@ -650,6 +722,24 @@
       }
     },
     {
+      "title": "अभिषेक मनु सिंघवी ने निरहुआ, पवन सिंह को घेरा, 'आत्म-मंथन करना चाहिए कि...'",
+      "url": "https://www.abplive.com/news/india/congress-mp-abhishek-manu-singhvi-targets-bhojpuri-leaders-over-bihar-jamui-girl-harrassment-3192063",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-09-21T18:33:25+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/22/fdf2cbe63d99d75e2aaa416470dec9ba17900158943201126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "बिहार के जुमई में प्रेमी जोड़े के साथ हुई भयावह घटना को लेकर कांग्रेस के राज्यसभा सांसद अभिषेक मनु सिंघवी ने कड़ी टिप्पणी की है. उन्होंने भोजपुरी सिनेमा जगत के स्टार और राजनीतिक नेताओं निरहुआ, पवन सिंह, मनोज तिवारी और बीजेपी सांसद रवि किशन पर निशाना साधा है. सिंघवी ने कहा कि इन लोगों का भोजपुरी इंटरटेनमेंट इकोसिस्टम में बहुत प्रभाव रहा है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अभिषेक मनु सिंघवी ने निरहुआ, पवन सिंह को घेरा, 'आत्म-मंथन करना चाहिए कि...'",
+          "summary": "बिहार के जुमई में प्रेमी जोड़े के साथ हुई भयावह घटना को लेकर कांग्रेस के राज्यसभा सांसद अभिषेक मनु सिंघवी ने कड़ी टिप्पणी की है. उन्होंने भोजपुरी सिनेमा जगत के स्टार और राजनीतिक नेताओं निरहुआ, पवन सिंह, मनोज तिवारी और बीजेपी सांसद रवि किशन पर निशाना साधा है. सिंघवी ने कहा कि इन लोगों का भोजपुरी इंटरटेनमेंट इकोसिस्टम में बहुत प्रभाव रहा है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "2200 साल पुराना… नदी के सीने में दफन था प्राचीन यूरोप का सबसे बड़ा खजाना, बजरी हटाते ही सामने आया",
       "url": "https://hindi.news18.com/news/ajab-gajab/viral-europe-largest-prehistoric-iron-age-treasure-found-in-austria-danube-river-10854278.html",
       "source": "News18 Hindi (World)",
@@ -664,96 +754,6 @@
           "title": "2200 साल पुराना… नदी के सीने में दफन था प्राचीन यूरोप का सबसे बड़ा खजाना, बजरी हटाते ही सामने आया",
           "summary": "ऑस्ट्रिया के डेन्यूब नदी में 2019 में बजरी हटाते समय मजदूरों ने 500 से अधिक लोहे की छड़ें पाईं, जो लगभग एक टन वजन की हैं। आस्ट्रिया की डेन्यूब नदी में यूरोप का सबसे बड़ा प्रागैतिहासिक लोहे का खजाना मिला है. साल 2019 में बजरी निकालते समय मजदूरों को 500 से ज्यादा लोहे की छड़ें मिलीं. रिसर्च के मुताबिक यह 2200 साल पुराना खजाना है.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका के टेक्सास में 90 फीट ऊंचे हनुमान पर मचा घमासान, मंदिर की प्रतिमा पर चर्च को कैसी तकलीफ",
-      "url": "https://hindi.news18.com/world/america-uproar-in-texas-over-90-foot-tall-hanuman-statue-why-does-church-have-issue-with-hindu-temple-idol-10854235.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-21T17:27:41+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/hanuman-2026-09-304b798cfd7451675c46352cc2e829fd-1200x800.jpg",
-      "summary": "अमेरिका के टेक्सास में 90 फीट ऊंची भगवान हनुमान की प्रतिमा इन दिनों विवाद का केंद्र बनी हुई है. ह्यूस्टन के पास शुगर लैंड स्थित श्री अष्टलक्ष्मी मंदिर में स्थापित इस प्रतिमा को ‘Statue of Union’ नाम दिया गया है. प्रतिमा की स्थापना के बाद स्थानीय स्तर पर इसका विरोध भी हुआ. एक स्थानीय चर्च से जुड़े करीब 25 लोग प्रतिमा के पास प्रदर्शन करने पहुंचे थे.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका के टेक्सास में 90 फीट ऊंचे हनुमान पर मचा घमासान, मंदिर की प्रतिमा पर चर्च को कैसी तकलीफ",
-          "summary": "अमेरिका के टेक्सास में 90 फीट ऊंची भगवान हनुमान की प्रतिमा इन दिनों विवाद का केंद्र बनी हुई है. ह्यूस्टन के पास शुगर लैंड स्थित श्री अष्टलक्ष्मी मंदिर में स्थापित इस प्रतिमा को ‘Statue of Union’ नाम दिया गया है. प्रतिमा की स्थापना के बाद स्थानीय स्तर पर इसका विरोध भी हुआ. एक स्थानीय चर्च से जुड़े करीब 25 लोग प्रतिमा के पास प्रदर्शन करने पहुंचे थे.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "व्हाइट हाउस ने CNN को किया बैन, बड़े टीवी नेटवर्क्स ने रोक दिया प्रेसिडेंट ट्रंप का कवरेज",
-      "url": "https://www.abplive.com/news/world/lawsuit-filed-in-us-federal-court-against-us-president-donald-trump-and-its-administration-over-media-ban-3192040",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-09-21T17:09:07+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/21/86fc7175d82663bf69a378fd1f12a53217900104609111126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिका के तीन मीडिया संस्थानों ने राष्ट्रपति डोनाल्ड ट्रंप और अमेरिकी प्रशासन के कई टॉप अधिकारियों के खिलाफ मुकदमा दायर किया है. संस्थानों का आरोप है कि अधिकारियों ने इन तीनों संस्थानों के पत्रकारों के व्हाइट हाउस में घुसने पर रोक लगाकर नजरिए के आधार पर भेदभाव किया है, जो अमेरिकी संविधान के पहले संशोधन का सीधा उल्लंघन है. तीनों मीडिया संस्थानों ने सोमवार (21 सितंबर, 2026) को वाशिंगटन डीसी की एक फ।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "व्हाइट हाउस ने CNN को किया बैन, बड़े टीवी नेटवर्क्स ने रोक दिया प्रेसिडेंट ट्रंप का कवरेज",
-          "summary": "अमेरिका के तीन मीडिया संस्थानों ने राष्ट्रपति डोनाल्ड ट्रंप और अमेरिकी प्रशासन के कई टॉप अधिकारियों के खिलाफ मुकदमा दायर किया है. संस्थानों का आरोप है कि अधिकारियों ने इन तीनों संस्थानों के पत्रकारों के व्हाइट हाउस में घुसने पर रोक लगाकर नजरिए के आधार पर भेदभाव किया है, जो अमेरिकी संविधान के पहले संशोधन का सीधा उल्लंघन है. तीनों मीडिया संस्थानों ने सोमवार (21 सितंबर, 2026) को वाशिंगटन डीसी की एक फ।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "हूतियों के खिलाफ सऊदी ने मांगी मदद, उलझन में ट्रंप, अब क्या करेगा अमेरिका?",
-      "url": "https://www.abplive.com/news/world/donald-trump-caught-dilemma-over-saudi-plea-for-military-help-3192035",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-09-21T16:59:44+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/21/b8d82a78c3ae06193e11ae0c916b247117900099006781324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "ईरान और अमेरिका की जंग में क्षेत्रीय देश जबरन पिस रहे हैं. अगर अमेरिका की मदद करें तो आफत, न करें तो आफत. इधर, हूति विद्रोहियों ने भी सऊदी अरब की टेंशन बढ़ा रखी है. वहीं, अब सऊदी ने सैन्य मदद की अपील अमेरिकी राष्ट्रपति से की तो इससे ट्रंप काफी उलझन में नजर आ रहे हैं. हालांकि, एक बार में तबाह करने की धमकी ईरान को ट्रंप कई दफा दे चुके हैं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हूतियों के खिलाफ सऊदी ने मांगी मदद, उलझन में ट्रंप, अब क्या करेगा अमेरिका?",
-          "summary": "ईरान और अमेरिका की जंग में क्षेत्रीय देश जबरन पिस रहे हैं. अगर अमेरिका की मदद करें तो आफत, न करें तो आफत. इधर, हूति विद्रोहियों ने भी सऊदी अरब की टेंशन बढ़ा रखी है. वहीं, अब सऊदी ने सैन्य मदद की अपील अमेरिकी राष्ट्रपति से की तो इससे ट्रंप काफी उलझन में नजर आ रहे हैं. हालांकि, एक बार में तबाह करने की धमकी ईरान को ट्रंप कई दफा दे चुके हैं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हूतियों पर एक और बड़ा हमला, बाब अल-मंदेब के पास यमनी सेना ने ठिकानों और सप्लाई लाइन को बनाया निशाना",
-      "url": "https://www.patrika.com/world-news/yemen-forces-attack-houthis-bab-al-mandeb-taiz-drone-20925509",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-21T16:44:49+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/6141056033984549125.webp",
-      "summary": "Yemeni Army: यमन की सेना ने हूतियों पर एक और बड़ी कार्रवाई की है। यमन की सेना का दावा है कि उसने बाब-अल-मंदेब स्ट्रेट के पास हूती लड़ाकों और उनकी सप्लाई लाइन पर हमला किया है। हूतियों पर एक और बड़ा हमला, बाब अल-मंदेब के पास यमनी सेना ने ठिकानों और सप्लाई लाइन को बनाया निशाना।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हूतियों पर एक और बड़ा हमला, बाब अल-मंदेब के पास यमनी सेना ने ठिकानों और सप्लाई लाइन को बनाया निशाना",
-          "summary": "Yemeni Army: यमन की सेना ने हूतियों पर एक और बड़ी कार्रवाई की है। यमन की सेना का दावा है कि उसने बाब-अल-मंदेब स्ट्रेट के पास हूती लड़ाकों और उनकी सप्लाई लाइन पर हमला किया है। हूतियों पर एक और बड़ा हमला, बाब अल-मंदेब के पास यमनी सेना ने ठिकानों और सप्लाई लाइन को बनाया निशाना।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप-शी मुलाकात से पहले जापान-कोरिया में बढ़ी बेचैनी, डैमेज कंट्रोल करने में जुटे मार्को रुबियो",
-      "url": "https://www.patrika.com/world-news/donald-trump-xi-jinping-meeting-japan-south-korea-fears-marco-rubio-meeting-20925519",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-21T16:27:35+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/donald-trump-and-xi-jinping.webp",
-      "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और चीन के नेता शी जिनपिंग की इस हफ्ते होने वाली बैठक से पहले जापान और दक्षिण कोरिया जैसे करीबी दोस्त देशों में भारी बेचैनी है। वे डर रहे हैं कि ट्रंप ताइवान या व्यापार के मुद्दे पर चीन को कुछ रियायतें दे सकते हैं, जिससे इन देशों की स्थिति कमजोर हो सकती है। ट्रंप-शी मुलाकात से पहले जापान-कोरिया में बढ़ी बेचैनी, डैमेज कंट्रोल करने में जुटे मार्को रुबियो।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप-शी मुलाकात से पहले जापान-कोरिया में बढ़ी बेचैनी, डैमेज कंट्रोल करने में जुटे मार्को रुबियो",
-          "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और चीन के नेता शी जिनपिंग की इस हफ्ते होने वाली बैठक से पहले जापान और दक्षिण कोरिया जैसे करीबी दोस्त देशों में भारी बेचैनी है। वे डर रहे हैं कि ट्रंप ताइवान या व्यापार के मुद्दे पर चीन को कुछ रियायतें दे सकते हैं, जिससे इन देशों की स्थिति कमजोर हो सकती है। ट्रंप-शी मुलाकात से पहले जापान-कोरिया में बढ़ी बेचैनी, डैमेज कंट्रोल करने में जुटे मार्को रुबियो।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
