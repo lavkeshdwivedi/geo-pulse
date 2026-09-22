@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-22T07:16:47.598070+00:00",
+  "generated_at": "2026-09-22T08:19:27.175599+00:00",
   "article_count": 50,
-  "total_unique_count": 269,
+  "total_unique_count": 265,
   "digest": {
-    "en": "Americas leads the board this hour with U.S. television networks halt Trump coverage in revolt over White House ban. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, श्रवण नक्षत्र में जन्म लेने वालों का ऐसा होता है व्यक्तित्व, समाज में मिलता है खूब मान-सम्मान मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Asia-Pacific leads the board this hour with Shell Singapore charged over Pulau Bukom oil leaks, failure to report them immediately. Americas carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "ईरान ने इस सप्ताह मिडिल ईस्ट के जलवायु परीक्षण स्थल पर नया हाइपरसोनिक मिसाइल परीक्षण किया, जिससे क्षेत्र में सुरक्षा माहौल तंग हो गया। अमेरिका ने अगले दिन तुर्की के साथ संयुक्त समुद्री अभ्यास का ऐलान किया, जिससे दोनों पक्षों की रणनीतिक संतुलन पर नई जाँच शुरू होगी।"
   },
   "articles": [
+    {
+      "title": "Shell Singapore charged over Pulau Bukom oil leaks, failure to report them immediately",
+      "url": "https://www.channelnewsasia.com/singapore/shell-charged-pulau-bukom-oil-leak-6401626",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-09-22T08:11:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--hdVWiNBi--/c_crop,h_900,w_1600,x_0,y_71/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2024/12/28/1_containment_booms_deployed_in_the_channel_of_pulau_bukom_taken_on_28_dec_9am.jpg?itok=0wBTWKzQ",
+      "summary": "About 40 tonnes of oily mixture was discharged into the water in the October 2024 incident, while about 485kg to 956kg of oil mixture leaked into Singapore waters over a few days in December 2024. Shell Singapore charged over Pulau Bukom oil leaks, failure to report them immediately.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "U.S. television networks halt Trump coverage in revolt over White House ban",
       "url": "https://www.thehindu.com/news/international/us-networks-halt-trump-coverage-in-revolt-over-white-house-ban/article71492960.ece",
@@ -20,25 +32,13 @@
       "translations": {}
     },
     {
-      "title": "Rivals compete for influence while seeking common ground on risks",
-      "url": "https://www.channelnewsasia.com/world/us-china-artificial-intelligence-race-common-ground-risks-6401381",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-09-22T06:01:32+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--fxNnYj30--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-15T162607Z_3_LYNXMPEM8E0CL_RTROPTP_3_CHINA-AI-EXPO.JPG?itok=gd71b-0o",
-      "summary": "Washington and Beijing are competing across AI models, chips and supply chains, even as they explore ways to manage the technology’s growing risks. Southeast Asia is increasingly becoming a focus of their efforts to build international AI partnerships. Rivals compete for influence while seeking common ground on risks.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
       "url": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo",
       "source": "The Guardian",
       "sources": [],
       "published_at": "2026-09-22T04:48:59+00:00",
       "image_url": "https://i.guim.co.uk/img/media/2677ceb1cc927a808c0dc8d48d9d324e226ec454/332_0_3305_2645/master/3305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b754e20abffb67ed543d53e00107825",
-      "summary": "Rescuers search for missing in collapsed homes after storm causes landslides, travel chaos and power outagesTyphoon Dujuan has killed at least four people and injured 22 in Japan, while tens of thousands of houses near Tokyo remained without power after the storm swept through the region, authorities said on Tuesday.",
+      "summary": "Rescuers search for missing in collapsed homes after storm causes landslides, travel chaos and power outagesTyphoon Dujuan has killed at least four people and injured 22 in Japan, while tens of thousands of houses near Tokyo remained without power after the storm swept through the region, authorities said on Tuesday. At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -64,18 +64,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2025/11/Donald-Trump-Xi-Jinping-US-China-Korea-2025.jpg",
       "summary": "This article first appeared on Pacific Forum and is republished with kind permission. Read the original here. The US-China relationship stands at a perilous threshold, defined by military friction, accelerating technological competition, and shrinking margins for miscalculation. As Washington debates how to navigate Beijing’s ascent, American strategy should realign its ambitions with realities. W Forging an American strategy for China.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "CNN, MS NOW, Politico to sue Trump administration over White House access",
-      "url": "https://www.thehindu.com/news/international/cnn-ms-now-politico-to-sue-trump-administration-over-white-house-access/article71491230.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-09-22T01:33:04+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/6lel8k/article71491291.ece/alternates/LANDSCAPE_1200/2026-09-20T213341Z_1166113885_RC2RXGAW6383_RTRMADP_3_UN-ASSEMBLY-TRUMP.JPG",
-      "summary": "\"This morning, we notified the government that we are filing a lawsuit today to protect our First Amendment rights and defend the principle that the government does not decide what the press reports or publishes,\" says the statement CNN, MS NOW, Politico to sue Trump administration over White House access.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -308,38 +296,104 @@
       "translations": {}
     },
     {
-      "title": "श्रवण नक्षत्र में जन्म लेने वालों का ऐसा होता है व्यक्तित्व, समाज में मिलता है खूब मान-सम्मान",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/shravana-nakshatra-born-people-personality-5-special-qualities-2026-09-22",
-      "source": "Amar Ujala National",
+      "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168375",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-09-22T07:14:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/sharavanae-nakashhatara-ma-janama-lga-ka-5-khabya_71e2333dc21e276e78ff6190a27fd44e.jpeg?w=1200&dpr=1.0",
-      "summary": "श्रवण नक्षत्र को ज्ञान और सीखने की प्रवृत्ति से जुड़ा माना जाता है। इस नक्षत्र में जन्म लेने वाले लोग अपनी समझदारी, स्पष्ट सोच और आकर्षक व्यक्तित्व के लिए जाने जाते हैं। श्रवण नक्षत्र में जन्म लेने वालों का ऐसा होता है व्यक्तित्व, समाज में मिलता है खूब मान-सम्मान।",
-      "region": "World",
+      "published_at": "2026-09-18T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/18-09-2026_UN-News_Rahman.jpg/image770x420cropped.jpg",
+      "summary": "Khalilur Rahman took the gavel as President of the UN General Assembly's 81st session amid what he calls a crisis of confidence in the organization he has served – in one capacity or another – for 35 years. ‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "दुनिया के क‍िन देशों में नहीं तलाक! फिर रिश्ता टूटने पर कैसे शादी खत्म करते हैं जोड़े?",
+      "url": "https://hindi.news18.com/news/knowledge/explainer-no-divorce-in-these-2-cities-of-world-what-couples-do-to-be-separate-after-dispute-in-weddings-ws-l-10855644.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-22T08:15:26+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Divorce_Delhi_HC_AI-2026-08-6d40c33868a641a1f3ab284976bbba7c-1200x800.jpg",
+      "summary": "दुन‍िया के दो देशों में तलाक आसान नहीं है. ये दो शहर हैं फिलीपींस और वैटिकन सिटी. हालांक‍ि यहां शाद‍ियों के टूटने और लोगों के अलग रहने के ल‍िए कई कानून हैं. आइए जानते हैं इनके बारे में. दुनिया के क‍िन देशों में नहीं तलाक! फिर रिश्ता टूटने पर कैसे शादी खत्म करते हैं जोड़े?",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "श्रवण नक्षत्र में जन्म लेने वालों का ऐसा होता है व्यक्तित्व, समाज में मिलता है खूब मान-सम्मान",
-          "summary": "श्रवण नक्षत्र को ज्ञान और सीखने की प्रवृत्ति से जुड़ा माना जाता है। इस नक्षत्र में जन्म लेने वाले लोग अपनी समझदारी, स्पष्ट सोच और आकर्षक व्यक्तित्व के लिए जाने जाते हैं। श्रवण नक्षत्र में जन्म लेने वालों का ऐसा होता है व्यक्तित्व, समाज में मिलता है खूब मान-सम्मान।",
-          "region": "दुनिया"
+          "title": "दुनिया के क‍िन देशों में नहीं तलाक! फिर रिश्ता टूटने पर कैसे शादी खत्म करते हैं जोड़े?",
+          "summary": "दुन‍िया के दो देशों में तलाक आसान नहीं है. ये दो शहर हैं फिलीपींस और वैटिकन सिटी. हालांक‍ि यहां शाद‍ियों के टूटने और लोगों के अलग रहने के ल‍िए कई कानून हैं. आइए जानते हैं इनके बारे में. दुनिया के क‍िन देशों में नहीं तलाक! फिर रिश्ता टूटने पर कैसे शादी खत्म करते हैं जोड़े?",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "'किसी के कैरेक्टर...', आसिफ खान संग लव गिल की बढ़ती नजदीकियों पर उठे सवाल, पत्नी ने कह दी यह बात",
-      "url": "https://www.amarujala.com/entertainment/bigg-boss-20-aasif-khan-wife-zeba-react-after-his-cosy-hug-video-viral-with-love-gill-2026-09-22",
-      "source": "Amar Ujala National",
+      "title": "मिडिल ईस्ट में महासंग्राम? ईरान अब मैदान में उतारेगा नए और घातक हथियार, अमेरिका के खिलाफ लंबी जंग",
+      "url": "https://hindi.news18.com/world/middle-east-west-asia-tension-iran-deploy-new-and-lethal-weapons-declares-long-war-against-us-10855401.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-09-22T07:13:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/bga-bsa-20_29aecb1604042840a2699f0788ca7da0.jpeg?w=1200&dpr=1.0",
-      "summary": "सोशल मीडिया पर इन दिनों 'बिग बॉस 20' के प्रतियोगी आसिफ खान और लव गिल के काफी वीडियो वायरल हो रहे हैं, जिन पर अभिनेता की पत्नी जेबा ने रिएक्ट किया है। 'किसी के कैरेक्टर ', आसिफ खान संग लव गिल की बढ़ती नजदीकियों पर उठे सवाल, पत्नी ने कह दी यह बात।",
-      "region": "World",
+      "published_at": "2026-09-22T08:03:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Islamic-Revolutionary-Guard-2026-09-61e4ae636c98a3cd762b413cee09a788-1200x800.jpg",
+      "summary": "मिडिल ईस्ट में बारूद का ढेर कभी भी फटने की कगार पर पहुंच गया है. ईरान के ताकतवर संगठन 'रिवोल्यूशनरी गार्ड' ने अमेरिका को सीधी और खुली चुनौती देते हुए साफ कर दिया है कि जंग अभी खत्म नहीं हुई है.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'किसी के कैरेक्टर...', आसिफ खान संग लव गिल की बढ़ती नजदीकियों पर उठे सवाल, पत्नी ने कह दी यह बात",
-          "summary": "सोशल मीडिया पर इन दिनों 'बिग बॉस 20' के प्रतियोगी आसिफ खान और लव गिल के काफी वीडियो वायरल हो रहे हैं, जिन पर अभिनेता की पत्नी जेबा ने रिएक्ट किया है। 'किसी के कैरेक्टर ', आसिफ खान संग लव गिल की बढ़ती नजदीकियों पर उठे सवाल, पत्नी ने कह दी यह बात।",
-          "region": "दुनिया"
+          "title": "मिडिल ईस्ट में महासंग्राम? ईरान अब मैदान में उतारेगा नए और घातक हथियार, अमेरिका के खिलाफ लंबी जंग",
+          "summary": "मिडिल ईस्ट में बारूद का ढेर कभी भी फटने की कगार पर पहुंच गया है. ईरान के ताकतवर संगठन 'रिवोल्यूशनरी गार्ड' ने अमेरिका को सीधी और खुली चुनौती देते हुए साफ कर दिया है कि जंग अभी खत्म नहीं हुई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "तेहरान के आसमान में फिर दिखा रहस्यमयी ‘UFO’, 50 साल पहले भी हुआ था ऐसा, आज तक नहीं खुला राज",
+      "url": "https://hindi.news18.com/world/middle-east-iran-tehran-mysterious-lights-ufo-drone-1976-iran-sky-sighting-10855365.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-22T07:48:07+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/iran-ufor-2026-09-f1520e420c9177e76d27b303d77b2184-1200x800.jpg",
+      "summary": "ईरान की राजधानी तेहरान के आसमान में 20 और 21 सितंबर को रहस्यमयी रोशनियां दिखाई देने के बाद सोशल मीडिया पर UFO और ड्रोन को लेकर चर्चा तेज हो गई. वीडियो में कई रंगों वाली रोशनी और अजीब आकार दिखाई देता है. दिलचस्प बात यह है कि करीब 50 साल पहले भी तेहरान में ऐसी ही एक अज्ञात उड़ने वाली वस्तु देखे जाने की घटना सामने आई थी.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेहरान के आसमान में फिर दिखा रहस्यमयी ‘UFO’, 50 साल पहले भी हुआ था ऐसा, आज तक नहीं खुला राज",
+          "summary": "ईरान की राजधानी तेहरान के आसमान में 20 और 21 सितंबर को रहस्यमयी रोशनियां दिखाई देने के बाद सोशल मीडिया पर UFO और ड्रोन को लेकर चर्चा तेज हो गई. वीडियो में कई रंगों वाली रोशनी और अजीब आकार दिखाई देता है. दिलचस्प बात यह है कि करीब 50 साल पहले भी तेहरान में ऐसी ही एक अज्ञात उड़ने वाली वस्तु देखे जाने की घटना सामने आई थी.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हाथ की मेहंदी सूखी भी नहीं थी कि भाई ने बना दिया विधवा, मोहब्‍बत करने का भुगतना पड़ा अंजाम",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-honour-killing-news-newly-married-woman-shot-dead-in-karachi-accused-brother-escape-10855427.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-22T07:21:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/pakistan-woman-2026-09-71385a91d411ebac0b631083534f4a5b-1200x800.jpg",
+      "summary": "Pakistan News: पाकिस्‍तान में महिलाओं के खिलाफ जारी दमन और हिंसा थमने का नाम नहीं ले रहा है. एक और घटना में भाई ने लव मैरिज करने वाली बहन की हत्‍या कर दी. अब पुलिस हत्‍या के आरोपी भाई की तलाश में जुटी है. हाथ की मेहंदी सूखी भी नहीं थी कि भाई ने बना दिया विधवा, मोहब्‍बत करने का भुगतना पड़ा अंजाम।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हाथ की मेहंदी सूखी भी नहीं थी कि भाई ने बना दिया विधवा, मोहब्‍बत करने का भुगतना पड़ा अंजाम",
+          "summary": "Pakistan News: पाकिस्‍तान में महिलाओं के खिलाफ जारी दमन और हिंसा थमने का नाम नहीं ले रहा है. एक और घटना में भाई ने लव मैरिज करने वाली बहन की हत्‍या कर दी. अब पुलिस हत्‍या के आरोपी भाई की तलाश में जुटी है. हाथ की मेहंदी सूखी भी नहीं थी कि भाई ने बना दिया विधवा, मोहब्‍बत करने का भुगतना पड़ा अंजाम।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "प्रदेश में विधान परिषद चुनाव का एलान, 23 अक्तूबर को होगा मतदान; पढ़ें पूरा अपडेट",
+      "url": "https://www.amarujala.com/lucknow/legislative-council-elections-announced-in-up-voting-to-be-held-on-october-23-read-full-update-2026-09-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-22T07:14:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/yapa-ma-vathhana-parashhatha-canava-ka-elna_c615193964335d569248281257220f0e.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत निर्वाचन आयोग ने उत्तर प्रदेश में विधान परिषद की स्नातक और शिक्षक निर्वाचन क्षेत्रों के द्विवार्षिक चुनाव का कार्यक्रम जारी कर दिया है। प्रदेश में विधान परिषद चुनाव का एलान, 23 अक्तूबर को होगा मतदान; पढ़ें पूरा अपडेट।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रदेश में विधान परिषद चुनाव का एलान, 23 अक्तूबर को होगा मतदान; पढ़ें पूरा अपडेट",
+          "summary": "भारत निर्वाचन आयोग ने उत्तर प्रदेश में विधान परिषद की स्नातक और शिक्षक निर्वाचन क्षेत्रों के द्विवार्षिक चुनाव का कार्यक्रम जारी कर दिया है। प्रदेश में विधान परिषद चुनाव का एलान, 23 अक्तूबर को होगा मतदान; पढ़ें पूरा अपडेट।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -350,157 +404,31 @@
       "sources": [],
       "published_at": "2026-09-22T07:12:40+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Masoud-Pezeshkian_9acc3e.webp",
-      "summary": "Iran President Masoud Pezeshkian: ईरान और अमेरिका के बीच जारी तनाव के बीच राष्ट्रपति मसूद पेजेश्कियान संयुक्त राष्ट्र महासभा के मंच पर तेहरान का पक्ष रखने न्यूयॉर्क रवाना हो गए हैं। रवाना होने से पहले उन्होंने साफ संकेत दिया कि ईरान दबाव के आगे अपनी शर्तें छोड़ने के लिए तैयार नहीं है।",
+      "summary": "Iran President Masoud Pezeshkian: ईरान और अमेरिका के बीच जारी तनाव के बीच राष्ट्रपति मसूद पेजेश्कियान संयुक्त राष्ट्र महासभा के मंच पर तेहरान का पक्ष रखने न्यूयॉर्क रवाना हो गए हैं। रवाना होने से पहले उन्होंने साफ संकेत दिया कि ईरान दबाव के आगे अपनी शर्तें छोड़ने के लिए तैयार नहीं है। पेजेश्कियान ने बातचीत में हुए समझौतों के कथित उल्लंघन, ईरानी जनता की शिकायतों और क्षेत्रीय संघर्षों को अंतरराष्ट्र।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "ईरान के राष्ट्रपति का बड़ा बयान: ‘ताकत के दम पर जनता को नहीं झुकाया जा सकता’, UN में उठाएंगे ये",
-          "summary": "Iran President Masoud Pezeshkian: ईरान और अमेरिका के बीच जारी तनाव के बीच राष्ट्रपति मसूद पेजेश्कियान संयुक्त राष्ट्र महासभा के मंच पर तेहरान का पक्ष रखने न्यूयॉर्क रवाना हो गए हैं। रवाना होने से पहले उन्होंने साफ संकेत दिया कि ईरान दबाव के आगे अपनी शर्तें छोड़ने के लिए तैयार नहीं है।",
+          "summary": "Iran President Masoud Pezeshkian: ईरान और अमेरिका के बीच जारी तनाव के बीच राष्ट्रपति मसूद पेजेश्कियान संयुक्त राष्ट्र महासभा के मंच पर तेहरान का पक्ष रखने न्यूयॉर्क रवाना हो गए हैं। रवाना होने से पहले उन्होंने साफ संकेत दिया कि ईरान दबाव के आगे अपनी शर्तें छोड़ने के लिए तैयार नहीं है। पेजेश्कियान ने बातचीत में हुए समझौतों के कथित उल्लंघन, ईरानी जनता की शिकायतों और क्षेत्रीय संघर्षों को अंतरराष्ट्र।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "तकिए को धूप में रख देना ही काफी है? हर तकिए के लिए एक जैसा तरीका नहीं",
-      "url": "https://www.amarujala.com/photo-gallery/utility/how-to-clean-and-sun-dry-different-types-of-pillows-know-other-details-here-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T07:09:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/takae-ka-thhapa-thakhana-sa-pahal-jana-l-ya-bta_1aa68e8fc66d10a6418f68314a7e3686.jpeg?w=1200&dpr=1.0",
-      "summary": "तकिए को धूप में रख देना हर बार उसकी सफाई का सही तरीका नहीं होता। तकिए का मटेरियल अलग होने पर उसे साफ करने और सुखाने का तरीका भी बदल जाता है। कुछ तकियों को सीधी तेज धूप में ज्यादा देर रखने से उनका मटेरियल खराब हो सकता है। तकिए को धूप में रख देना ही काफी है? हर तकिए के लिए एक जैसा तरीका नहीं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तकिए को धूप में रख देना ही काफी है? हर तकिए के लिए एक जैसा तरीका नहीं",
-          "summary": "तकिए को धूप में रख देना हर बार उसकी सफाई का सही तरीका नहीं होता। तकिए का मटेरियल अलग होने पर उसे साफ करने और सुखाने का तरीका भी बदल जाता है। कुछ तकियों को सीधी तेज धूप में ज्यादा देर रखने से उनका मटेरियल खराब हो सकता है। तकिए को धूप में रख देना ही काफी है? हर तकिए के लिए एक जैसा तरीका नहीं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "301 निकायों में मतदान प्रक्रिया शुरू, भाजपा कार्यकर्ताओं के बीच तीखी नोकझोंक",
-      "url": "https://www.amarujala.com/live/rajasthan/rajasthan-nikay-chunav-2026-live-deputy-mayor-to-vice-president-voting-updates-in-hindi-2026-09-22",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-22T07:05:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/rajasathana-nakaya-canava-2026_cef651c2a8982d774b43d35bf65fb320.jpeg?w=1200&dpr=1.0",
-      "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। राजस्थान में मेयर चुनाव के बाद आज, 22 सितंबर को डिप्टी मेयर, उप-सभापति और उपाध्यक्ष पदों के लिए मतदान हो रहा है। 301 निकायों में मतदान प्रक्रिया शुरू, भाजपा कार्यकर्ताओं के बीच तीखी नोकझोंक।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "301 निकायों में मतदान प्रक्रिया शुरू, भाजपा कार्यकर्ताओं के बीच तीखी नोकझोंक",
-          "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। राजस्थान में मेयर चुनाव के बाद आज, 22 सितंबर को डिप्टी मेयर, उप-सभापति और उपाध्यक्ष पदों के लिए मतदान हो रहा है। 301 निकायों में मतदान प्रक्रिया शुरू, भाजपा कार्यकर्ताओं के बीच तीखी नोकझोंक।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "₹80,000 से भी कम में मिलेगा आईफोन 17, गैलेक्सी एस25 पर मिल सकती है ₹10,000 की छूट, जानें ऑफर्स",
-      "url": "https://www.amarujala.com/technology/tech-diary/flipkart-big-billion-days-sale-2026-galaxy-s25-s25-fe-iphone-17-offer-price-discount-teased-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T07:00:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/09/iphone-17-launched_c0334b5d17b7c67d79a51912d29f50a8.jpeg",
-      "summary": "फ्लिपकार्ट ने बिग बिलियन डेज सेल शुरू होने से पहले कुछ स्मार्टफोन्स पर ऑफर्स को टीज कर दिया है। कंपनी सेल में Samsung Galaxy S25 और S25 FE पर भारी डिस्काउंट दे सकती है। वहीं, iPhone 17 की कीमत भी 70,000 रुपये की रेंज में हो सकती है। ₹80,000 से भी कम में मिलेगा आईफोन 17, गैलेक्सी एस25 पर मिल सकती है ₹10,000 की छूट, जानें ऑफर्स।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "₹80,000 से भी कम में मिलेगा आईफोन 17, गैलेक्सी एस25 पर मिल सकती है ₹10,000 की छूट, जानें ऑफर्स",
-          "summary": "फ्लिपकार्ट ने बिग बिलियन डेज सेल शुरू होने से पहले कुछ स्मार्टफोन्स पर ऑफर्स को टीज कर दिया है। कंपनी सेल में Samsung Galaxy S25 और S25 FE पर भारी डिस्काउंट दे सकती है। वहीं, iPhone 17 की कीमत भी 70,000 रुपये की रेंज में हो सकती है। ₹80,000 से भी कम में मिलेगा आईफोन 17, गैलेक्सी एस25 पर मिल सकती है ₹10,000 की छूट, जानें ऑफर्स।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "13 हजार से अधिक पदों पर आवेदन का एक और मौका, अब कब तक कर सकते हैं आवेदन? जानें यहां",
+      "title": "13 हजार से अधिक पदों पर आवेदन का एक और मौका, अब कब तक भर सकते हैं फॉर्म? जानें यहां",
       "url": "https://www.amarujala.com/jobs/government-jobs/ibps-rrb-crp-xv-application-deadline-extended-for-13-706-posts-apply-till-september-27-2026-09-22",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-22T06:58:15+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/01/ibps-rrb-recruitment-2026_2697e8594bb9f2aa52e37b4afd852d40.jpeg?w=1200&dpr=1.0",
-      "summary": "आईबीपीएस आरआरबी सीआरपी-XV भर्ती के लिए आवेदन की अंतिम तिथि बढ़ा दी गई है। अब उम्मीदवार 13 हजार से अधिक पदों के लिए निर्धारित नई तारीख तक आवेदन कर सकते हैं। 13 हजार से अधिक पदों पर आवेदन का एक और मौका, अब कब तक कर सकते हैं आवेदन? जानें यहां।",
+      "summary": "आईबीपीएस आरआरबी सीआरपी-XV भर्ती के लिए आवेदन की अंतिम तिथि बढ़ा दी गई है। अब उम्मीदवार 13 हजार से अधिक पदों के लिए निर्धारित नई तारीख तक आवेदन कर सकते हैं। 13 हजार से अधिक पदों पर आवेदन का एक और मौका, अब कब तक कर सकते हैं आवेदन? जानें यहां। 13 हजार से अधिक पदों पर आवेदन का एक और मौका, अब कब तक भर सकते हैं फॉर्म?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "13 हजार से अधिक पदों पर आवेदन का एक और मौका, अब कब तक कर सकते हैं आवेदन? जानें यहां",
-          "summary": "आईबीपीएस आरआरबी सीआरपी-XV भर्ती के लिए आवेदन की अंतिम तिथि बढ़ा दी गई है। अब उम्मीदवार 13 हजार से अधिक पदों के लिए निर्धारित नई तारीख तक आवेदन कर सकते हैं। 13 हजार से अधिक पदों पर आवेदन का एक और मौका, अब कब तक कर सकते हैं आवेदन? जानें यहां।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "चातुर्मास खत्म होते ही शुरू होंगे मांगलिक कार्य, नवंबर-दिसंबर में गूंजेंगी शहनाइयां",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/wedding-season-begins-after-chaturmas-auspicious-marriage-dates-in-november-and-december-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T06:53:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/08/chaturmas-2026_1d4f47b4aad0323f754a9b7b7cfa9443.jpeg?w=1200&dpr=1.0",
-      "summary": "चातुर्मास समाप्त होते ही एक बार फिर मांगलिक कार्यों और विवाह समारोहों की शुरुआत होगी। नवंबर-दिसंबर 2026 में शादी के लिए कौन-कौन सी तिथियां शुभ रहेंगी, जानें विवाह के शुभ मुहूर्त और खास जानकारी। चातुर्मास खत्म होते ही शुरू होंगे मांगलिक कार्य, नवंबर-दिसंबर में गूंजेंगी शहनाइयां।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चातुर्मास खत्म होते ही शुरू होंगे मांगलिक कार्य, नवंबर-दिसंबर में गूंजेंगी शहनाइयां",
-          "summary": "चातुर्मास समाप्त होते ही एक बार फिर मांगलिक कार्यों और विवाह समारोहों की शुरुआत होगी। नवंबर-दिसंबर 2026 में शादी के लिए कौन-कौन सी तिथियां शुभ रहेंगी, जानें विवाह के शुभ मुहूर्त और खास जानकारी। चातुर्मास खत्म होते ही शुरू होंगे मांगलिक कार्य, नवंबर-दिसंबर में गूंजेंगी शहनाइयां।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रोज ज्यादा पानी पीने से पेट रहेगा साफ? जानें कितना पानी पीना कब्ज में हो सकता है मददगार",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/can-drinking-more-water-improve-digestion-and-constipation-pani-pine-ke-fayde-disprj-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T06:49:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/water-for-constipation_7db6ff1adabe847f94f43b389e50293d.jpeg?w=1200&dpr=1.0",
-      "summary": "Hydration Benefits: अक्सर आपने लोगों को ये कहते सुना होगा कि अगर पेट की समस्या है तो ज्यादा पानी पिओ। इससे राहत मिलेगी। इसकी सच्चाई आइए जानते हैं। रोज ज्यादा पानी पीने से पेट रहेगा साफ? जानें कितना पानी पीना कब्ज में हो सकता है मददगार।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रोज ज्यादा पानी पीने से पेट रहेगा साफ? जानें कितना पानी पीना कब्ज में हो सकता है मददगार",
-          "summary": "Hydration Benefits: अक्सर आपने लोगों को ये कहते सुना होगा कि अगर पेट की समस्या है तो ज्यादा पानी पिओ। इससे राहत मिलेगी। इसकी सच्चाई आइए जानते हैं। रोज ज्यादा पानी पीने से पेट रहेगा साफ? जानें कितना पानी पीना कब्ज में हो सकता है मददगार।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सम्राट चौधरी देंगे इस्तीफा? जंगलराज के नाम पर बच रही सरकार!",
-      "url": "https://www.amarujala.com/video/india-news/will-bihar-cm-samrat-choudhary-now-resign-after-jamui-incident-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T06:49:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/jamui-case_6f29cdf0a0ef1156d1b3b405916e563d.jpeg?w=1200&dpr=1.0",
-      "summary": "जमुई में जो हुआ उसके बाद क्या सम्राट चौधरी इस्तीफा देंगे। बिहार के मुख्यमंत्री सम्राट चौधरी के इस्तीफे की मांग शुरू हो गई है. लेकिन सरकार अब भी जंगलराज का राग अलाप रही है। सम्राट चौधरी देंगे इस्तीफा? जंगलराज के नाम पर बच रही सरकार!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सम्राट चौधरी देंगे इस्तीफा? जंगलराज के नाम पर बच रही सरकार!",
-          "summary": "जमुई में जो हुआ उसके बाद क्या सम्राट चौधरी इस्तीफा देंगे। बिहार के मुख्यमंत्री सम्राट चौधरी के इस्तीफे की मांग शुरू हो गई है. लेकिन सरकार अब भी जंगलराज का राग अलाप रही है। सम्राट चौधरी देंगे इस्तीफा? जंगलराज के नाम पर बच रही सरकार!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पत्नी के सामने बादशाह ने क्यों पकड़ा मैनेजर पूजा का दुपट्टा? वायरल वीडियो पर भिड़े फैंस और ट्रोलर्स",
-      "url": "https://www.amarujala.com/entertainment/shah-rukh-khan-wiped-sweat-with-his-manager-pooja-dadlani-dupatta-at-famous-lalbaugcha-raja-video-viral-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T06:44:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/shaharakha-khana-paravara-ka-satha-ll-bga-ka-raja-ka-tharashana-karana-pahaca_40b080104b52b67c8bb33741e1bd9a0e.jpeg?w=1200&dpr=1.0",
-      "summary": "SRK-Pooja Dadlani Video: अभिनेता शाहरुख खान बीते दिन लाल बाग के राजा के दर्शन करने पहुंचे। इस दौरान उनकी बेटी सुहाना और पत्नी गौरी के साथ मैनेजर पूजा ददलानी भी साथ नजर आईं। गणपति पंडाल में शाहरुख खान अपनी मैनेजर का दुपट्टा थामे नजर आ रहे हैं। पत्नी के सामने बादशाह ने क्यों पकड़ा मैनेजर पूजा का दुपट्टा? वायरल वीडियो पर भिड़े फैंस और ट्रोलर्स।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पत्नी के सामने बादशाह ने क्यों पकड़ा मैनेजर पूजा का दुपट्टा? वायरल वीडियो पर भिड़े फैंस और ट्रोलर्स",
-          "summary": "SRK-Pooja Dadlani Video: अभिनेता शाहरुख खान बीते दिन लाल बाग के राजा के दर्शन करने पहुंचे। इस दौरान उनकी बेटी सुहाना और पत्नी गौरी के साथ मैनेजर पूजा ददलानी भी साथ नजर आईं। गणपति पंडाल में शाहरुख खान अपनी मैनेजर का दुपट्टा थामे नजर आ रहे हैं। पत्नी के सामने बादशाह ने क्यों पकड़ा मैनेजर पूजा का दुपट्टा? वायरल वीडियो पर भिड़े फैंस और ट्रोलर्स।",
+          "title": "13 हजार से अधिक पदों पर आवेदन का एक और मौका, अब कब तक भर सकते हैं फॉर्म? जानें यहां",
+          "summary": "आईबीपीएस आरआरबी सीआरपी-XV भर्ती के लिए आवेदन की अंतिम तिथि बढ़ा दी गई है। अब उम्मीदवार 13 हजार से अधिक पदों के लिए निर्धारित नई तारीख तक आवेदन कर सकते हैं। 13 हजार से अधिक पदों पर आवेदन का एक और मौका, अब कब तक कर सकते हैं आवेदन? जानें यहां। 13 हजार से अधिक पदों पर आवेदन का एक और मौका, अब कब तक भर सकते हैं फॉर्म?",
           "region": "दुनिया"
         }
       }
@@ -520,96 +448,6 @@
           "title": "एक तरफ किम जोंग उन ने दागा नया हथियार, दूसरी तरफ बॉर्डर पर धमाका, दक्षिण कोरिया के 3 सैनिक घायल",
           "summary": "DMZ Blast: उत्तर कोरिया ने नए हथियार का परीक्षण कर अपनी सैन्य ताकत का प्रदर्शन किया है. किम जोंग उन की निगरानी में टेस्ट हुआ. विशेषज्ञ हाइपरसोनिक हथियार का एडवांस्ड रूप मान रहे हैं. इसी बीच दक्षिण कोरिया के DMZ में एक अभियान के दौरान विस्फोट हुआ, जिसमें तीन सैन्य अधिकारी घायल हो गए. एक तरफ किम जोंग उन ने दागा नया हथियार, दूसरी तरफ बॉर्डर पर धमाका, दक्षिण कोरिया के 3 सैनिक घायल।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "26 या 27 सितंबर कब है पहला श्राद्ध? जानें सही डेट और पितृपक्ष का पूरा कैलेंडर",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/kab-hai-pehla-shradh-2026-pitru-paksha-date-and-tithi-for-shradh-2026-09-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T06:27:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/21/pitru-paksha-2026_45cbe64b23bd0f9162e96d40268c5e8e.jpeg?w=1200&dpr=1.0",
-      "summary": "Pitru Paksha 2026: हर साल आश्विन मास के कृष्ण पक्ष की प्रतिपदा तिथि से पितृ पक्ष की शुरुआत होती है। परंतु इस बार पितृ पक्ष कब से शुरू हो रहा है और पहला श्राद्ध किस दिन किया जाएगा? यह सवाल मन में बना हुआ है। आइए इसके बारे में जानते हैं। 26 या 27 सितंबर कब है पहला श्राद्ध?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "26 या 27 सितंबर कब है पहला श्राद्ध? जानें सही डेट और पितृपक्ष का पूरा कैलेंडर",
-          "summary": "Pitru Paksha 2026: हर साल आश्विन मास के कृष्ण पक्ष की प्रतिपदा तिथि से पितृ पक्ष की शुरुआत होती है। परंतु इस बार पितृ पक्ष कब से शुरू हो रहा है और पहला श्राद्ध किस दिन किया जाएगा? यह सवाल मन में बना हुआ है। आइए इसके बारे में जानते हैं। 26 या 27 सितंबर कब है पहला श्राद्ध?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फिल्मों में एआई के इस्तेमाल पर क्या बोले एक्टर? अगली फिल्म 'डिगर' को बताया सबसे अलग",
-      "url": "https://www.amarujala.com/entertainment/hollywood/tom-cruise-has-shared-his-views-on-the-growing-influence-of-ai-in-filmmaking-and-his-film-digger-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T06:25:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/tama-kanprja_916877fcfbabc9e8dcc6dbbafe9e83f6.jpeg?w=1200&dpr=1.0",
-      "summary": "अभिनेता टॉम क्रूज ने सिनेमा में बढ़ते एआई के उपयोग और अपनी फिल्म ‘डिगर’ के बारे में बात की। जानें क्या बोले टॉम क्रूज फिल्मों में एआई के इस्तेमाल पर क्या बोले एक्टर? अगली फिल्म 'डिगर' को बताया सबसे अलग।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिल्मों में एआई के इस्तेमाल पर क्या बोले एक्टर? अगली फिल्म 'डिगर' को बताया सबसे अलग",
-          "summary": "अभिनेता टॉम क्रूज ने सिनेमा में बढ़ते एआई के उपयोग और अपनी फिल्म ‘डिगर’ के बारे में बात की। जानें क्या बोले टॉम क्रूज फिल्मों में एआई के इस्तेमाल पर क्या बोले एक्टर? अगली फिल्म 'डिगर' को बताया सबसे अलग।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राकेश बेदी ने जाहिर किया दुख, बोले- अपनी जेब से पैसे लगाए हैं; पूनम-पद्मिनी को लेकर कही ये बात",
-      "url": "https://www.amarujala.com/entertainment/bollywood/rakesh-bedi-expressed-disappointment-over-the-ongoing-crisis-in-cintaa-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T06:23:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/rakasha-btha-panama-dhall-pathamana-kalhapara_92ee4ffe89a9abc0cc7dfda9866aa397.jpeg?w=1200&dpr=1.0",
-      "summary": "सिंटा में चल रहे विवाद में पिछले महिने से ही आरोप-प्रत्यारोप का दौर जारी है। इसी बीच अभिनेता राकेश बेदी ने भी इस मामले पर अपनी प्रतिक्रिया दी है। राकेश बेदी ने जाहिर किया दुख, बोले- अपनी जेब से पैसे लगाए हैं; पूनम-पद्मिनी को लेकर कही ये बात।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राकेश बेदी ने जाहिर किया दुख, बोले- अपनी जेब से पैसे लगाए हैं; पूनम-पद्मिनी को लेकर कही ये बात",
-          "summary": "सिंटा में चल रहे विवाद में पिछले महिने से ही आरोप-प्रत्यारोप का दौर जारी है। इसी बीच अभिनेता राकेश बेदी ने भी इस मामले पर अपनी प्रतिक्रिया दी है। राकेश बेदी ने जाहिर किया दुख, बोले- अपनी जेब से पैसे लगाए हैं; पूनम-पद्मिनी को लेकर कही ये बात।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "साल खत्म होने तक इन 4 राशि वालों पर रहेगी राहु-केतु की विशेष कृपा, मनचाही कमाई से लेकर पूरे होंगे",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/rahu-ketu-gochar-2026-positive-impact-on-zodiac-these-will-get-extra-benefits-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T06:22:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/rahu-ketu-gochar-2026_1be5633a7267dd4474f933a9f9eb47fc.jpeg?w=1200&dpr=1.0",
-      "summary": "Rahu-Ketu Gochar 2026: राहु-केतु के प्रभाव से कुछ राशि वालों को विशेष लाभ मिल सकता है। धन लाभ होगा और नौकरी-सम्मान के योग बनेंगे। आइए इन लकी राशियों को जानते हैं। साल खत्म होने तक इन 4 राशि वालों पर रहेगी राहु-केतु की विशेष कृपा, मनचाही कमाई से लेकर पूरे होंगे।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "साल खत्म होने तक इन 4 राशि वालों पर रहेगी राहु-केतु की विशेष कृपा, मनचाही कमाई से लेकर पूरे होंगे",
-          "summary": "Rahu-Ketu Gochar 2026: राहु-केतु के प्रभाव से कुछ राशि वालों को विशेष लाभ मिल सकता है। धन लाभ होगा और नौकरी-सम्मान के योग बनेंगे। आइए इन लकी राशियों को जानते हैं। साल खत्म होने तक इन 4 राशि वालों पर रहेगी राहु-केतु की विशेष कृपा, मनचाही कमाई से लेकर पूरे होंगे।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पश्चिम एशियाई देशों के छात्रों के लिए एलओसी प्रक्रिया शुरू, कैसे भरें फॉर्म? जानें",
-      "url": "https://www.amarujala.com/education/cbse-special-exam-2026-loc-registration-begins-for-west-asian-countries-check-steps-to-apply-2026-09-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-22T06:17:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/24/cbse-board_bee7ef9d810e5abf48b043cab41e480c.jpeg?w=1200&dpr=1.0",
-      "summary": "पश्चिम एशियाई देशों के छात्रों के लिए सीबीएसई विशेष परीक्षा 2026 की एलओसी भरने की प्रक्रिया शुरू हो गई है। छात्र 22 से LOC भर सकते हैं और एक या अधिक विषय चुन सकते हैं। पश्चिम एशियाई देशों के छात्रों के लिए एलओसी प्रक्रिया शुरू, कैसे भरें फॉर्म? जानें।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पश्चिम एशियाई देशों के छात्रों के लिए एलओसी प्रक्रिया शुरू, कैसे भरें फॉर्म? जानें",
-          "summary": "पश्चिम एशियाई देशों के छात्रों के लिए सीबीएसई विशेष परीक्षा 2026 की एलओसी भरने की प्रक्रिया शुरू हो गई है। छात्र 22 से LOC भर सकते हैं और एक या अधिक विषय चुन सकते हैं। पश्चिम एशियाई देशों के छात्रों के लिए एलओसी प्रक्रिया शुरू, कैसे भरें फॉर्म? जानें।",
-          "region": "दुनिया"
         }
       }
     },
@@ -645,24 +483,6 @@
         "hi": {
           "title": "आईआईटी बॉम्बे के हॉस्टलों से हटाए जाएंगे सीलिंग फैन; जांच के बीच लिया गया फैसला",
           "summary": "Sahil Wakode Case: Wall-mounted fans to replace ceiling fans in IIT Bombay hostels- छात्र खुदकुशी मामला: आईआईटी बॉम्बे के हॉस्टलों से हटाए जाएंगे सीलिंग फैन; जांच के बीच लिया गया फैसला।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "MLC चुनाव की तारीखों का ऐलान, 8 सीटों पर होगी वोटिंग; जानें पूरा शेड्यूल",
-      "url": "https://www.amarujala.com/bihar/patna/bihar-mlc-election-2026-8-seats-voting-date-full-schedule-2026-09-22",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-22T05:49:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/bhara-vathhana-parashhatha-ka-8-sata-para-canava-ka-ailna_e5e6227b51925436e19ea997c15469fd.jpeg?w=1200&dpr=1.0",
-      "summary": "बिहार विधान परिषद की चार स्नातक और चार शिक्षक निर्वाचन क्षेत्रों की आठ सीटों पर चुनाव कार्यक्रम घोषित कर दिया गया है। इन सीटों पर मौजूदा सदस्यों का कार्यकाल 16 नवंबर 2026 को समाप्त हो रहा है। MLC चुनाव की तारीखों का ऐलान, 8 सीटों पर होगी वोटिंग; जानें पूरा शेड्यूल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "MLC चुनाव की तारीखों का ऐलान, 8 सीटों पर होगी वोटिंग; जानें पूरा शेड्यूल",
-          "summary": "बिहार विधान परिषद की चार स्नातक और चार शिक्षक निर्वाचन क्षेत्रों की आठ सीटों पर चुनाव कार्यक्रम घोषित कर दिया गया है। इन सीटों पर मौजूदा सदस्यों का कार्यकाल 16 नवंबर 2026 को समाप्त हो रहा है। MLC चुनाव की तारीखों का ऐलान, 8 सीटों पर होगी वोटिंग; जानें पूरा शेड्यूल।",
           "region": "दुनिया"
         }
       }
@@ -710,13 +530,13 @@
       "sources": [],
       "published_at": "2026-09-22T05:36:34+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/WTI-Crude-Oil.webp",
-      "summary": "WTI Crude Oil Price Today: मध्य पूर्व में शांति की कोशिशें तेज होने के बावजूद कच्चे तेल के बाजार में पूरी तरह राहत नहीं लौटी है। चार सत्रों की गिरावट के बाद अमेरिकी WTI क्रूड ने मंगलवार को फिर बढ़त दर्ज की और नवंबर कॉन्ट्रैक्ट करीब 92.50 डॉलर प्रति बैरल तक पहुंच गया।",
+      "summary": "WTI Crude Oil Price Today: मध्य पूर्व में शांति की कोशिशें तेज होने के बावजूद कच्चे तेल के बाजार में पूरी तरह राहत नहीं लौटी है। चार सत्रों की गिरावट के बाद अमेरिकी WTI क्रूड ने मंगलवार को फिर बढ़त दर्ज की और नवंबर कॉन्ट्रैक्ट करीब 92.50 डॉलर प्रति बैरल तक पहुंच गया। बाजार की नजर अब संयुक्त राष्ट्र महासभा में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और ईरानी राष्ट्रपति मसूद पेजेशकियन के बीच संभावित बातचीत।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "ट्रंप-पेजेशकियन की मुलाकात पर टिकी तेल बाजार की नजर! 4 दिन बाद WTI ने मारी पलटी, 92 डॉलर के पार",
-          "summary": "WTI Crude Oil Price Today: मध्य पूर्व में शांति की कोशिशें तेज होने के बावजूद कच्चे तेल के बाजार में पूरी तरह राहत नहीं लौटी है। चार सत्रों की गिरावट के बाद अमेरिकी WTI क्रूड ने मंगलवार को फिर बढ़त दर्ज की और नवंबर कॉन्ट्रैक्ट करीब 92.50 डॉलर प्रति बैरल तक पहुंच गया।",
+          "summary": "WTI Crude Oil Price Today: मध्य पूर्व में शांति की कोशिशें तेज होने के बावजूद कच्चे तेल के बाजार में पूरी तरह राहत नहीं लौटी है। चार सत्रों की गिरावट के बाद अमेरिकी WTI क्रूड ने मंगलवार को फिर बढ़त दर्ज की और नवंबर कॉन्ट्रैक्ट करीब 92.50 डॉलर प्रति बैरल तक पहुंच गया। बाजार की नजर अब संयुक्त राष्ट्र महासभा में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और ईरानी राष्ट्रपति मसूद पेजेशकियन के बीच संभावित बातचीत।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -754,6 +574,186 @@
           "title": "यूएस नागरिक वैन डाइक ने भरा ₹5.5 लाख का जुर्माना, अमेरिका जाने की मांगी इजाजत",
           "summary": "Matthew Van Dyke US National arrested with Ukraine Mercenaries NIA Chargesheet UAPA Case- म्यांमार ट्रेनिंग केस: अमेरिकी नागरिक वैन डाइक ने भरा ₹5.5 लाख का जुर्माना, जल्द दाखिल होगी डिस्चार्ज याचिका यूएस नागरिक वैन डाइक ने भरा ₹5.5 लाख का जुर्माना, अमेरिका जाने की मांगी इजाजत।",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "यमन में जंग के बीच मातृत्व पर संकट, 2,700 से ज्यादा गर्भवती महिलाओं पर बिना इलाज प्रसव का खतरा",
+      "url": "https://www.patrika.com/world-news/yemen-pregnant-women-crisis-unfpa-war-20925954",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-22T04:16:37+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Yemen-Pregnant-Women.webp",
+      "summary": "Yemen Pregnant Women: यमन में तेज होती हिंसा ने विस्थापन के साथ स्वास्थ्य सेवाओं का संकट भी गहरा दिया है। पश्चिमी तट और ताइज़ के मोर्चों पर लड़ाई के कारण हजारों परिवार सुरक्षित ठिकानों की तलाश में घर छोड़ने को मजबूर हुए हैं। इस संकट का सबसे गंभीर असर गर्भवती महिलाओं पर पड़ रहा है, जिनके लिए अस्पताल तक पहुंचना लगातार मुश्किल हो रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यमन में जंग के बीच मातृत्व पर संकट, 2,700 से ज्यादा गर्भवती महिलाओं पर बिना इलाज प्रसव का खतरा",
+          "summary": "Yemen Pregnant Women: यमन में तेज होती हिंसा ने विस्थापन के साथ स्वास्थ्य सेवाओं का संकट भी गहरा दिया है। पश्चिमी तट और ताइज़ के मोर्चों पर लड़ाई के कारण हजारों परिवार सुरक्षित ठिकानों की तलाश में घर छोड़ने को मजबूर हुए हैं। इस संकट का सबसे गंभीर असर गर्भवती महिलाओं पर पड़ रहा है, जिनके लिए अस्पताल तक पहुंचना लगातार मुश्किल हो रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बलूचिस्तान में पाकिस्तानी काफिले पर बड़ा हमला, 7 जवानों की मौत का दावा, 2 शव रेगिस्तान में छूटे",
+      "url": "https://hindi.news18.com/world/pakistan-balochistan-nok-kundi-attack-pakistan-security-forces-7-killed-10854837.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-22T04:07:33+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/pakistan-40-2026-09-a324df6c58c18cda3db41cdaf19620df-1200x800.jpg",
+      "summary": "Pakistan Army Attack: पाकिस्तान के बलूचिस्तान में नोख-कुंडी के पास सुरक्षा बलों के काफिले पर बड़े हमले की खबर है. स्थानीय और अन्य सूत्रों ने 7 पाकिस्तानी सुरक्षाकर्मियों के मारे जाने का दावा किया है. पांच शव निकालने और दो के रेगिस्तान में रह जाने की बात कही गई है. बलूचिस्तान में पाकिस्तानी काफिले पर बड़ा हमला, 7 जवानों की मौत का दावा, 2 शव रेगिस्तान में छूटे।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बलूचिस्तान में पाकिस्तानी काफिले पर बड़ा हमला, 7 जवानों की मौत का दावा, 2 शव रेगिस्तान में छूटे",
+          "summary": "Pakistan Army Attack: पाकिस्तान के बलूचिस्तान में नोख-कुंडी के पास सुरक्षा बलों के काफिले पर बड़े हमले की खबर है. स्थानीय और अन्य सूत्रों ने 7 पाकिस्तानी सुरक्षाकर्मियों के मारे जाने का दावा किया है. पांच शव निकालने और दो के रेगिस्तान में रह जाने की बात कही गई है. बलूचिस्तान में पाकिस्तानी काफिले पर बड़ा हमला, 7 जवानों की मौत का दावा, 2 शव रेगिस्तान में छूटे।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आज कलाकारों को सम्मानित करेंगी राष्ट्रपति; कार्तिक ने जताई खुशी, रणदीप ने कही यह बात",
+      "url": "https://www.amarujala.com/entertainment/72nd-national-film-awards-to-be-held-in-gujrat-today-kartik-aryan-and-randeep-hooda-reacts-2026-09-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-22T03:56:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/rashhataraya-falma-parasakara-2026_92c13b9f34b48d27b839f9486e6b152a.jpeg?w=1200&dpr=1.0",
+      "summary": "गुजरात के एकता नजर में आज 72वें राष्ट्रीय फिल्म पुरस्कार समारोह का आयोजन होगा। कार्यक्रम में राष्ट्रपति द्रौपदी मुर्मू कलाकारों को सम्मानित करेंगी। इस समारोह में इस साल क्या खास होगा? डालिए एक नजर आज कलाकारों को सम्मानित करेंगी राष्ट्रपति; कार्तिक ने जताई खुशी, रणदीप ने कही यह बात।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज कलाकारों को सम्मानित करेंगी राष्ट्रपति; कार्तिक ने जताई खुशी, रणदीप ने कही यह बात",
+          "summary": "गुजरात के एकता नजर में आज 72वें राष्ट्रीय फिल्म पुरस्कार समारोह का आयोजन होगा। कार्यक्रम में राष्ट्रपति द्रौपदी मुर्मू कलाकारों को सम्मानित करेंगी। इस समारोह में इस साल क्या खास होगा? डालिए एक नजर आज कलाकारों को सम्मानित करेंगी राष्ट्रपति; कार्तिक ने जताई खुशी, रणदीप ने कही यह बात।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हूती हमले तो रोक नहीं पा रहे मुनीर, फिर भी सऊदी-पाकिस्तान ने कर ली नई डील, दोनों देशों में क्या बदल",
+      "url": "https://hindi.news18.com/world/middle-east-saudi-arabia-pakistan-new-visa-deal-no-visa-for-officials-defence-pact-houthi-attacks-10854724.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-22T03:47:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/pakistan-39-2026-09-262434f3ddf660fa7ca2b01903b81699-1200x800.jpg",
+      "summary": "हूती हमलों के बीच पाकिस्तान और सऊदी अरब में हुए रक्षा समझौते की परीक्षा हो रही है. लेकिन हूती हमलों के बावजूद पाकिस्तान ने किसी भी तरह की सेना नहीं भेजी है. इसी बीच न्यूयॉर्क में पाकिस्तान और सऊदी अरब ने राजनयिक और आधिकारिक पासपोर्ट धारकों के लिए वीजा छूट की नई डील की है. हूती हमले तो रोक नहीं पा रहे मुनीर, फिर भी सऊदी-पाकिस्तान ने कर ली नई डील, दोनों देशों में क्या बदल।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हूती हमले तो रोक नहीं पा रहे मुनीर, फिर भी सऊदी-पाकिस्तान ने कर ली नई डील, दोनों देशों में क्या बदल",
+          "summary": "हूती हमलों के बीच पाकिस्तान और सऊदी अरब में हुए रक्षा समझौते की परीक्षा हो रही है. लेकिन हूती हमलों के बावजूद पाकिस्तान ने किसी भी तरह की सेना नहीं भेजी है. इसी बीच न्यूयॉर्क में पाकिस्तान और सऊदी अरब ने राजनयिक और आधिकारिक पासपोर्ट धारकों के लिए वीजा छूट की नई डील की है. हूती हमले तो रोक नहीं पा रहे मुनीर, फिर भी सऊदी-पाकिस्तान ने कर ली नई डील, दोनों देशों में क्या बदल।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान के समर्थन से हूतियों के हमले बढ़े तो बिगड़ सकती है वैश्विक अर्थव्यवस्था, जी-7 ने दी चेतावनी",
+      "url": "https://www.patrika.com/world-news/g7-warning-iran-houthi-support-global-economic-instability-20925946",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-22T03:43:57+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/group-of-seven-g7.webp",
+      "summary": "G7 Warning on Iran: पश्चिम एशिया में बढ़ते तनाव के बीच जी-7 देशों ने ईरान को चेतावनी दी है। जी-7 ने कहा कि ईरान की तरफ से हूतियों को हथियार और समर्थन देना क्षेत्र में संघर्ष को और बढ़ा सकता है। इससे अंतरराष्ट्रीय व्यापार प्रभावित हो सकता है। वैश्विक ऊर्जा सुरक्षा पर भी असर पड़ सकता है। जी-7 ने कहा कि ईरान के कदम वैश्विक आर्थिक अस्थिरता का खतरा बढ़ा रहे हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के समर्थन से हूतियों के हमले बढ़े तो बिगड़ सकती है वैश्विक अर्थव्यवस्था, जी-7 ने दी चेतावनी",
+          "summary": "G7 Warning on Iran: पश्चिम एशिया में बढ़ते तनाव के बीच जी-7 देशों ने ईरान को चेतावनी दी है। जी-7 ने कहा कि ईरान की तरफ से हूतियों को हथियार और समर्थन देना क्षेत्र में संघर्ष को और बढ़ा सकता है। इससे अंतरराष्ट्रीय व्यापार प्रभावित हो सकता है। वैश्विक ऊर्जा सुरक्षा पर भी असर पड़ सकता है। जी-7 ने कहा कि ईरान के कदम वैश्विक आर्थिक अस्थिरता का खतरा बढ़ा रहे हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत से अफगानिस्तान तक थर्राई धरती, भूकंप के झटकों से आधी रात मचा हड़कंप",
+      "url": "https://hindi.news18.com/news/maharashtra/mumbai-earthquake-4-0-magnitude-tremors-from-india-to-afghanistan-panic-in-the-middle-of-the-night-ws-l-10854688.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-22T03:04:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Earthquake-15-2026-08-642d5a84437de6a3d65787308cefebcb-1200x800.jpg",
+      "summary": "भारत से अफगानिस्तान तक सोमवार रात में भूकंप के झटके महसूस किए गए. इस दौरान रि‍क्‍टर स्‍केल पर तीव्रता अफगानिस्तान में तीव्रता 4.0, जबक‍ि भारत में 2.4 मापी गई. हालांक‍ि इन झटकों से जान-माल का कोई नुकसान नहीं हुआ है. भारत से अफगानिस्तान तक थर्राई धरती, भूकंप के झटकों से आधी रात मचा हड़कंप।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत से अफगानिस्तान तक थर्राई धरती, भूकंप के झटकों से आधी रात मचा हड़कंप",
+          "summary": "भारत से अफगानिस्तान तक सोमवार रात में भूकंप के झटके महसूस किए गए. इस दौरान रि‍क्‍टर स्‍केल पर तीव्रता अफगानिस्तान में तीव्रता 4.0, जबक‍ि भारत में 2.4 मापी गई. हालांक‍ि इन झटकों से जान-माल का कोई नुकसान नहीं हुआ है. भारत से अफगानिस्तान तक थर्राई धरती, भूकंप के झटकों से आधी रात मचा हड़कंप।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आईएएस बनने की तैयारी कर रही मायावती कैसे सियासत में आईं? कांशीराम से पहले शिष्या बनीं सांसद",
+      "url": "https://www.amarujala.com/india-news/bsp-foundation-story-part-2-bamcef-ds4-how-mayawati-joined-kanshiram-became-mp-before-mentor-2026-09-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-22T02:58:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/bsp-history-part-2-bamcef-ds4-how-mayawati-joined-kanshiram-became-mp-before-mentor_463fa8eb3f1ce3b1f58f3e20d69f9dd1.jpeg?w=1200&dpr=1.0",
+      "summary": "'तुम्हारे पीछे IAS की लाइन लगा दूंगा ' कांशीराम के इस वादे ने बदल दी मायावती की जिंदगी। जानिए कैसे गुरु से पहले शिष्या संसद पहुंची। आईएएस बनने की तैयारी कर रही मायावती कैसे सियासत में आईं? कांशीराम से पहले शिष्या बनीं सांसद।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईएएस बनने की तैयारी कर रही मायावती कैसे सियासत में आईं? कांशीराम से पहले शिष्या बनीं सांसद",
+          "summary": "'तुम्हारे पीछे IAS की लाइन लगा दूंगा ' कांशीराम के इस वादे ने बदल दी मायावती की जिंदगी। जानिए कैसे गुरु से पहले शिष्या संसद पहुंची। आईएएस बनने की तैयारी कर रही मायावती कैसे सियासत में आईं? कांशीराम से पहले शिष्या बनीं सांसद।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मीडिया संस्थानों से टकराव के बीच व्हाइट हाउस ने लॉन्च किया ‘ट्रंप टीवी’, क्या है पूरा मामला?",
+      "url": "https://www.amarujala.com/world/usa-amidst-a-standoff-with-media-outlets-the-white-house-has-launched-trump-tv-what-is-the-full-story-2026-09-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-22T02:50:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/vahaita-hausa-na-lnaca-kaya-tarapa-tava_c750d922afd3cea3db1b828b80eab7ac.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका: मीडिया संस्थानों से टकराव के बीच व्हाइट हाउस ने लॉन्च किया ‘ट्रंप टीवी’, क्या है पूरा मामला? USA: Amidst a standoff with media outlets, the White House has launched ‘Trump TV’. what is the full story?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मीडिया संस्थानों से टकराव के बीच व्हाइट हाउस ने लॉन्च किया ‘ट्रंप टीवी’, क्या है पूरा मामला?",
+          "summary": "अमेरिका: मीडिया संस्थानों से टकराव के बीच व्हाइट हाउस ने लॉन्च किया ‘ट्रंप टीवी’, क्या है पूरा मामला? USA: Amidst a standoff with media outlets, the White House has launched ‘Trump TV’. what is the full story?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "वेस्ट बैंक में इजरायली सेना की कार्रवाई, हेब्रोन के पास गांव से पानी के टैंकर जब्त, चालकों को",
+      "url": "https://www.patrika.com/world-news/israeli-forces-seize-water-tankers-detain-drivers-near-hebron-west-bank-20925745",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-22T02:49:47+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/6165555407909229095.webp",
+      "summary": "Masafer Yatta Water Conflict: वेस्ट बैंक में इजरायली सेना की कार्रवाई को लेकर एक और मामला सामने आया है। फिलिस्तीनी समाचार एजेंसी वफा के अनुसार, हेब्रोन के पास अल-करमेल गांव में इजरायली सेना ने कार्रवाई करते हुए पानी पहुंचाने वाले दो टैंकर जब्त कर लिए। बताया गया है कि दोनों टैंकर चालक भी हिरासत में लिए गए हैं। वेस्ट बैंक में इजरायली सेना की कार्रवाई, हेब्रोन के पास गांव से पानी के टैंकर जब्त, चालकों को।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वेस्ट बैंक में इजरायली सेना की कार्रवाई, हेब्रोन के पास गांव से पानी के टैंकर जब्त, चालकों को",
+          "summary": "Masafer Yatta Water Conflict: वेस्ट बैंक में इजरायली सेना की कार्रवाई को लेकर एक और मामला सामने आया है। फिलिस्तीनी समाचार एजेंसी वफा के अनुसार, हेब्रोन के पास अल-करमेल गांव में इजरायली सेना ने कार्रवाई करते हुए पानी पहुंचाने वाले दो टैंकर जब्त कर लिए। बताया गया है कि दोनों टैंकर चालक भी हिरासत में लिए गए हैं। वेस्ट बैंक में इजरायली सेना की कार्रवाई, हेब्रोन के पास गांव से पानी के टैंकर जब्त, चालकों को।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सड़क पर AK-47 लेकर उतरे नकाबपोश, इमरान खान के मंत्री की गाड़ी रोकी, उठा ले गए",
+      "url": "https://hindi.news18.com/world/pakistan-imran-khan-party-pti-minister-fazal-shakoor-khan-abduction-khyber-pakhtunkhwa-peshawar-10854642.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-22T02:49:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/pakistan-38-2026-09-3abdccb1c8dff41fdfa01b0f28bbd964-1200x800.jpg",
+      "summary": "पाकिस्तान के खैबर पख्तूनख्वा में PTI मंत्री फजल शकूर खान की गाड़ी को हथियारबंद नकाबपोशों ने कथित तौर पर घेर लिया. सामने आए वीडियो में सड़क पर हथियारबंद लोग नजर आ रहे हैं. PTI ने इसे अपहरण बताया है. घटना को लेकर पुलिस में मामला दर्ज कराया गया है. इससे एक दिन पहले पार्टी ने पूर्व मंत्री शकील अहमद के कथित अपहरण की कोशिश का भी आरोप लगाया था.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सड़क पर AK-47 लेकर उतरे नकाबपोश, इमरान खान के मंत्री की गाड़ी रोकी, उठा ले गए",
+          "summary": "पाकिस्तान के खैबर पख्तूनख्वा में PTI मंत्री फजल शकूर खान की गाड़ी को हथियारबंद नकाबपोशों ने कथित तौर पर घेर लिया. सामने आए वीडियो में सड़क पर हथियारबंद लोग नजर आ रहे हैं. PTI ने इसे अपहरण बताया है. घटना को लेकर पुलिस में मामला दर्ज कराया गया है. इससे एक दिन पहले पार्टी ने पूर्व मंत्री शकील अहमद के कथित अपहरण की कोशिश का भी आरोप लगाया था.",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
