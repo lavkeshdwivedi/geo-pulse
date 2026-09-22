@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-22T21:12:08.868026+00:00",
+  "generated_at": "2026-09-22T22:12:48.584420+00:00",
   "article_count": 50,
-  "total_unique_count": 255,
+  "total_unique_count": 254,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him. 25 fresh dispatches in this edition.",
+    "en": "Middle East & Africa leads the board this hour with Macron urges world to choose UN over ‘law of the jungle’. 25 fresh dispatches in this edition.",
     "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, आईएसएफ के हाथ से ‘लिफाफा’ क्यों गया?: कलकत्ता हाईकोर्ट में चुनाव आयोग के फैसले को चुनौती, आज होगी मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "Macron urges world to choose UN over ‘law of the jungle’",
+      "url": "https://www.thehindu.com/news/international/macron-urges-world-to-choose-un-over-law-of-the-jungle/article71497347.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-09-22T22:05:57+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/57cwnl/article71497348.ece/alternates/LANDSCAPE_1200/2026-09-22T201651Z_1424024691_RC2IONA74OKZ_RTRMADP_3_UN-ASSEMBLY.JPG",
+      "summary": "‘What is our credibility worth if we remain inactive on Gaza; some claim that peace has been achieved, but this has not opened up humanitarian deliveries; it is a spectacle that shames us all,’ said Emmanuel Macron Macron urges world to choose UN over ‘law of the jungle’.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
       "url": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
@@ -296,21 +308,9 @@
       "translations": {}
     },
     {
-      "title": "Banished to alien lands: Trump’s secret deportation deals",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-09-21T05:00:38+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/8a1111af32b508c7aedf458e07ae1af37f330f83/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41356e750fd601b9d2a9817d3e14eb95",
-      "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An in-depth investigation reveals the ‘show of force’ costing American taxpayers millionsNo one would tell the shackled detainees onboard the US immigration plane whe.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "आईएसएफ के हाथ से ‘लिफाफा’ क्यों गया?: कलकत्ता हाईकोर्ट में चुनाव आयोग के फैसले को चुनौती, आज होगी",
       "url": "https://www.amarujala.com/india-news/calcutta-high-court-hear-mla-naushad-siddique-petition-today-challenged-ec-decision-change-isf-symbol-envelope-2026-09-23",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-23T07:05:47+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/23/sakataka-tasavara_96243958f042b16902f7497325e11e2a.jpeg?w=1200&dpr=1.0",
@@ -339,6 +339,24 @@
         "hi": {
           "title": "बंगाल के 933 सरकारी स्कूलों पर लगा ताला: अब फिर खुलेंगे या किसी और काम आएंगे? शुभेंदु सरकार ने शुरू",
           "summary": "की कवायद- 933 government schools in Bengal shut down due to having zero students cm Suvendu government formulated plan बंगाल के 933 सरकारी स्कूलों पर लगा ताला: अब फिर खुलेंगे या किसी और काम आएंगे? शुभेंदु सरकार ने शुरू।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "28 सितंबर से 5 दिन बंद रह सकते हैं सरकारी बैंक,राष्ट्रव्यापी हड़ताल पर जाने का एलान!",
+      "url": "https://www.amarujala.com/video/business/business-diary/government-banks-may-remain-closed-for-5-days-starting-september-28-nationwide-strike-announced-2026-09-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-22T22:00:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/23/bank-strike_0d25d1b0359d3a8492da676d92a08d5a.jpeg?w=1200&dpr=1.0",
+      "summary": "28 सितंबर से 5 दिन बंद रह सकते हैं सरकारी बैंक, राष्ट्रव्यापी हड़ताल पर जाने का एलान!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "28 सितंबर से 5 दिन बंद रह सकते हैं सरकारी बैंक,राष्ट्रव्यापी हड़ताल पर जाने का एलान!",
+          "summary": "28 सितंबर से 5 दिन बंद रह सकते हैं सरकारी बैंक, राष्ट्रव्यापी हड़ताल पर जाने का एलान!",
           "region": "दुनिया"
         }
       }
@@ -382,7 +400,7 @@
     {
       "title": "श्रीलंका में ईस्टर के मौके पर किए थे बम धमाके: कोर्ट ने 15 आरोपियों को दी 220 साल की सजा, पांच साल",
       "url": "https://www.amarujala.com/world/bomb-blasts-carried-out-in-sri-lanka-on-easter-court-sentences-15-accused-to-220-years-in-prison-2026-09-23",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-22T20:55:15+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/23/sakataka-tasavara_9683a2ad17190f98f41fed93131102b9.jpeg?w=1200&dpr=1.0",
@@ -400,7 +418,7 @@
     {
       "title": "कम दबाव क्षेत्र ने बढ़ाई टेंशन: ओडिशा से आंध्र-तेलंगाना तक झमाझम बारिश के आसार, कई जिलों में",
       "url": "https://www.amarujala.com/india-news/heavy-rain-alert-from-odisha-to-andhra-telangana-deep-depression-schools-colleges-closed-in-several-districts-2026-09-23",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-22T20:31:11+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/23/sakataka-tasavara_d20dd77dc66a2799f3f2491de3b8fd89.jpeg?w=1200&dpr=1.0",
@@ -412,6 +430,24 @@
           "title": "कम दबाव क्षेत्र ने बढ़ाई टेंशन: ओडिशा से आंध्र-तेलंगाना तक झमाझम बारिश के आसार, कई जिलों में",
           "summary": "स्कूल-कॉलेज बंद- Heavy rain alert from Odisha to Andhra Telangana Deep depression schools colleges closed in several districts कम दबाव क्षेत्र ने बढ़ाई टेंशन: ओडिशा से आंध्र-तेलंगाना तक झमाझम बारिश के आसार, कई जिलों में।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कचरा शुल्क न दिया तो संपत्ति कर की तरह होगी वसूली, फैलाने से लेकर खुले में जलाने पर जुर्माना",
+      "url": "https://www.amarujala.com/jammu-and-kashmir/kathua/lutyens-delhi-failure-to-pay-garbage-fee-will-lead-to-recovery-similar-to-property-tax-2026-09-23",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-22T20:17:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/23/1_591b04578b2e889b8b599e1c6da4ecd4.jpeg?w=1200&dpr=1.0",
+      "summary": "लुटियंस दिल्ली में कचरा प्रबंधन अब केवल सफाई व्यवस्था तक सीमित नहीं रहेगा, बल्कि कचरा पैदा करने वालों की जेब पर भी सीधा असर पड़ेगा। कचरा शुल्क न दिया तो संपत्ति कर की तरह होगी वसूली, फैलाने से लेकर खुले में जलाने पर जुर्माना।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कचरा शुल्क न दिया तो संपत्ति कर की तरह होगी वसूली, फैलाने से लेकर खुले में जलाने पर जुर्माना",
+          "summary": "लुटियंस दिल्ली में कचरा प्रबंधन अब केवल सफाई व्यवस्था तक सीमित नहीं रहेगा, बल्कि कचरा पैदा करने वालों की जेब पर भी सीधा असर पड़ेगा। कचरा शुल्क न दिया तो संपत्ति कर की तरह होगी वसूली, फैलाने से लेकर खुले में जलाने पर जुर्माना।",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -718,42 +754,6 @@
           "title": "ईरान में पागल मौलवियों का शासन, मार्को रुबियों ने कहा- अपने ही लोगों को मारने वाले के पास नहीं होना",
           "summary": "US-Iran War: अमेरिका के विदेश मंत्री मार्को रुबियो ने ईरान के मौजूदा शासन को लेकर कड़ी टिप्पणी की है। रुबियो ने ईरान के नेताओं को पागल मौलवी बताया है। साथ ही उन्होंने कहा है कि ऐसे लोगों के हाथ में परमाणु हथियार नहीं होने चाहिए। ये अपने ही लोगों के कातिल हैं। इन्होंने अपने हजारों नागरिकों को मारा है। ऐसे में अगर इनको परमाणु हथियार और उसे इस्तेमाल करने का तरीका पता चल गया तो स्थिति बेहद गंभीर हो सक।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप का जोरदार हमला, ईरान युद्ध के बाद अमेरिका के हथियार खत्म होने की खबरों को बताया झूठा",
-      "url": "https://www.patrika.com/world-news/donald-trump-denies-us-weapons-shortage-iran-war-traitors-rumors-20928165",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-22T13:01:29+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/trump-rules-out-using-nuclear-weapon-against-iran.webp",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर तीखा हमला बोला है। उन्होंने उन लोगों को कायर और गद्दार करार दिया है जो कह रहे हैं कि ईरान के खिलाफ सात महीने से चल रहे युद्ध के बाद अमेरिकी सेना के पास हथियार और गोला-बारूद खत्म हो चुका है। डोनाल्ड ट्रंप का जोरदार हमला, ईरान युद्ध के बाद अमेरिका के हथियार खत्म होने की खबरों को बताया झूठा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप का जोरदार हमला, ईरान युद्ध के बाद अमेरिका के हथियार खत्म होने की खबरों को बताया झूठा",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर तीखा हमला बोला है। उन्होंने उन लोगों को कायर और गद्दार करार दिया है जो कह रहे हैं कि ईरान के खिलाफ सात महीने से चल रहे युद्ध के बाद अमेरिकी सेना के पास हथियार और गोला-बारूद खत्म हो चुका है। डोनाल्ड ट्रंप का जोरदार हमला, ईरान युद्ध के बाद अमेरिका के हथियार खत्म होने की खबरों को बताया झूठा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पब्लिक कैफे से काम करते दिखे इस देश के प्रधानमंत्री, न कोई सिक्योरिटी न VIP कल्चर, आस-पास कॉफी पीती",
-      "url": "https://hindi.news18.com/world/rest-of-world-no-security-no-vip-culture-armenian-pm-nikol-pashinyan-spotted-working-in-public-cafe-pays-own-bill-in-viral-video-10856609.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-22T12:59:57+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Armenian-Prime-Minister-Nikol-Pashinyan-2026-09-916ccc462b0770afb4be670aa0574c15-1200x800.jpg",
-      "summary": "Armenian Prime Minister Nikol Pashiny आर्मेनिया के प्रधानमंत्री निकोल पशिनयान का एक वीडियो सोशल मीडिया पर जमकर वायरल हो रहा है. इसमें वे बिना किसी सिक्योरिटी या बॉडीगार्ड के एक पब्लिक कैफे में बैठकर काम करते दिख रहे हैं. सफेद शर्ट और टाई पहने पशिनयान आम ग्राहकों के बीच एक साधारण टेबल पर बैठकर लैपटॉप चला रहे हैं. काम खत्म होने पर उन्होंने बिना किसी वीआईपी नखरे के अपने फोन से ऑनलाइन पेमेंट करके कॉफी का बिल भी खुद चुकाया.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पब्लिक कैफे से काम करते दिखे इस देश के प्रधानमंत्री, न कोई सिक्योरिटी न VIP कल्चर, आस-पास कॉफी पीती",
-          "summary": "Armenian Prime Minister Nikol Pashiny आर्मेनिया के प्रधानमंत्री निकोल पशिनयान का एक वीडियो सोशल मीडिया पर जमकर वायरल हो रहा है. इसमें वे बिना किसी सिक्योरिटी या बॉडीगार्ड के एक पब्लिक कैफे में बैठकर काम करते दिख रहे हैं. सफेद शर्ट और टाई पहने पशिनयान आम ग्राहकों के बीच एक साधारण टेबल पर बैठकर लैपटॉप चला रहे हैं. काम खत्म होने पर उन्होंने बिना किसी वीआईपी नखरे के अपने फोन से ऑनलाइन पेमेंट करके कॉफी का बिल भी खुद चुकाया.",
-          "region": "यूरोप और रूस"
         }
       }
     }
