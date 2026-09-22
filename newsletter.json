@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-22T11:13:15.517449+00:00",
+  "generated_at": "2026-09-22T12:20:22.300283+00:00",
   "article_count": 50,
-  "total_unique_count": 265,
+  "total_unique_count": 262,
   "digest": {
-    "en": "The EU is moving to sanction Russia’s military apparatus, targeting logistics firms in Moscow and St. Petersburg with export bans and asset freezes.",
-    "hi": "ईरान ने घोषणा की कि वह अगले सात दिनों में हर्मुज स्ट्रेट फिर खोलने के लिए तैयार है, अगर अमेरिका अपनी नाकेबंदी हटाता है। इस बीच, चीन ने ईरान की एयरलाइंस पर प्रतिबंध लगाने की धमकी पर प्रतिक्रिया देते हुए कहा कि यह कदम कानूनी आधार से रहित है।"
+    "en": "Middle East & Africa leads the board this hour with More than 10,000 could flee Yemen fighting to Djibouti in coming months: UN. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, टूरिस्‍ट वीजा पर पहले मलेशिया, फिर… भारतीयों के इस ट्रेंड से दूतावास रह गया सन्‍न, जारी की चेतावनी मुख्य खबर है। साथ ही अमेरिका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "More than 10,000 could flee Yemen fighting to Djibouti in coming months: UN",
+      "url": "https://www.thehindu.com/news/international/more-than-10000-could-flee-yemen-fighting-to-djibouti-in-coming-months-un/article71495274.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-09-22T11:59:18+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/sw99e3/article71495359.ece/alternates/LANDSCAPE_1200/Mideast_Wars_Yemen_62_55.jpg",
+      "summary": "The Iran-backed Houthis earlier this month seized control of Yemen’s Red Sea coastline, in a dramatic offensive that has left hundreds of people on both sides dead, threatened global trade and pushed up energy prices More than 10,000 could flee Yemen fighting to Djibouti in coming months: UN.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "EU To Sanction Russian Military With New Focus",
       "url": "https://www.rferl.org/a/33860934.html",
@@ -248,18 +260,6 @@
       "translations": {}
     },
     {
-      "title": "Trump Signs Russia-Iran Sanctions Bill, Putting New Pressure Tools At His Disposal",
-      "url": "https://www.rferl.org/a/33859294.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-09-19T05:53:39+00:00",
-      "image_url": "https://gdb.rferl.org/6e9645bc-1764-49d9-62ad-08df13a87200_cx0_cy4_cw0_w1200_h630.jpg",
-      "summary": "US President Donald Trump signed into law legislation aimed at increasing economic pressure on Russia over its war on Ukraine, including by targeting Moscow's energy revenues as well as countries that continue to buy Russian oil and gas. Trump Signs Russia-Iran Sanctions Bill, Putting New Pressure Tools At His Disposal.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
       "url": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
       "source": "International Crisis Group",
@@ -306,6 +306,114 @@
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "टूरिस्‍ट वीजा पर पहले मलेशिया, फिर… भारतीयों के इस ट्रेंड से दूतावास रह गया सन्‍न, जारी की चेतावनी",
+      "url": "https://hindi.news18.com/world/south-asia-embassy-in-malaysian-warns-indians-against-using-tourist-visa-free-entry-for-illegal-job-hunting-risking-severe-legal-action-and-detention-10856452.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-22T12:03:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Tourist-Airport-2026-09-9a4c311fa013c9fb3acd3d06a19c096b-1200x800.jpg",
+      "summary": "India’s high commission warned Indians that Malaysia’s 30‑day visa‑free entry applies only to tourism, not employment. It said job‑seekers using the exemption risk legal action, detention or forced removal. Travelers must secure a valid work permit before arrival and comply with immigration rules. World News in Hindi: मलेशिया में फर्जी एजेंटों के बहकावे में आकर वीजा-फ्री सुविधा का गलत इस्तेमाल कर नौकरी तलाशने वाले भारतीयों के लिए भारतीय उच्च आयोग ने सख्त चेतावनी जारी की है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "टूरिस्‍ट वीजा पर पहले मलेशिया, फिर… भारतीयों के इस ट्रेंड से दूतावास रह गया सन्‍न, जारी की चेतावनी",
+          "summary": "India’s high commission warned Indians that Malaysia’s 30‑day visa‑free entry applies only to tourism, not employment. It said job‑seekers using the exemption risk legal action, detention or forced removal. Travelers must secure a valid work permit before arrival and comply with immigration rules. World News in Hindi: मलेशिया में फर्जी एजेंटों के बहकावे में आकर वीजा-फ्री सुविधा का गलत इस्तेमाल कर नौकरी तलाशने वाले भारतीयों के लिए भारतीय उच्च आयोग ने सख्त चेतावनी जारी की है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "शी जिनपिंग के डिनर में ट्रंप ने किसे नहीं बुलाया? एलन मस्क, जेफ बेजोस को मिला न्योता",
+      "url": "https://hindi.news18.com/world/china-xi-jinping-trump-state-dinner-2026-guest-list-who-not-invited-10856349.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-22T11:43:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/xi-jinping-6-2026-09-ab48f68ae0f7c46c69c71d2a3dc204fe-1200x800.jpg",
+      "summary": "शी जिनपिंग 23 से 25 सितंबर तक अमेरिका की राजकीय यात्रा पर हैं. 24 सितंबर को डोनाल्ड ट्रंप व्हाइट हाउस में उनके सम्मान में स्टेट डिनर देंगे. डिनर में एलन मस्क, जेफ बेजोस, सुंदर पिचाई, टिम कुक, सैम ऑल्टमैन और जेन्सेन हुआंग जैसे बड़े कारोबारी नामों के शामिल होने की खबर है. शी जिनपिंग के डिनर में ट्रंप ने किसे नहीं बुलाया?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शी जिनपिंग के डिनर में ट्रंप ने किसे नहीं बुलाया? एलन मस्क, जेफ बेजोस को मिला न्योता",
+          "summary": "शी जिनपिंग 23 से 25 सितंबर तक अमेरिका की राजकीय यात्रा पर हैं. 24 सितंबर को डोनाल्ड ट्रंप व्हाइट हाउस में उनके सम्मान में स्टेट डिनर देंगे. डिनर में एलन मस्क, जेफ बेजोस, सुंदर पिचाई, टिम कुक, सैम ऑल्टमैन और जेन्सेन हुआंग जैसे बड़े कारोबारी नामों के शामिल होने की खबर है. शी जिनपिंग के डिनर में ट्रंप ने किसे नहीं बुलाया?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ईरान की चेतावनी – ‘बिना किसी रोक-टोक के अपनी मर्ज़ी से हम कहीं भी कर सकते हैं मिसाइल अटैक’",
+      "url": "https://www.patrika.com/world-news/iran-says-can-do-missile-strikes-anywhere-it-decides-without-limitations-20927824",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-22T11:35:17+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/06/ghalibaf.webp",
+      "summary": "Iranian parliament speaker Mohammad Bagher Ghalibaf warned that Iran can launch missile attacks anywhere without restraint. The statement came as Iran and the United States remain in direct confrontation in the Strait of Hormuz. ईरान (Iran) और अमेरिका (United States of America) के बीच जंग अभी भी खत्म नहीं हुई है और तनाव की स्थिति बनी हुई है। होर्मुज स्ट्रेट (Strait of Hormuz) पर भी दोनों देश आमने-सामने हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान की चेतावनी – ‘बिना किसी रोक-टोक के अपनी मर्ज़ी से हम कहीं भी कर सकते हैं मिसाइल अटैक’",
+          "summary": "Iranian parliament speaker Mohammad Bagher Ghalibaf warned that Iran can launch missile attacks anywhere without restraint. The statement came as Iran and the United States remain in direct confrontation in the Strait of Hormuz. ईरान (Iran) और अमेरिका (United States of America) के बीच जंग अभी भी खत्म नहीं हुई है और तनाव की स्थिति बनी हुई है। होर्मुज स्ट्रेट (Strait of Hormuz) पर भी दोनों देश आमने-सामने हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "रूसी सीमा के पास पहुंच रही अमेरिकी फौज, डोनाल्ड ट्रंप के नए फैसलेसे बढ़ी हलचल",
+      "url": "https://www.patrika.com/world-news/us-troops-lithuania-russian-border-donald-trump-decision-20927854",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-22T11:34:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/ussoldiers.webp",
+      "summary": "US troops Lithuania: अमेरिकी फौज की एक और टुकड़ी लिथुआनिया के लिए रवाना हो गई है। यह सैनिक रूसी सीमा के पास लिथुआनिया की रक्षा करेंगे। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के इस फैसले दुनिया भर में हलचल बढ़ गई है। रूसी सीमा के पास पहुंच रही अमेरिकी फौज, डोनाल्ड ट्रंप के नए फैसलेसे बढ़ी हलचल।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूसी सीमा के पास पहुंच रही अमेरिकी फौज, डोनाल्ड ट्रंप के नए फैसलेसे बढ़ी हलचल",
+          "summary": "US troops Lithuania: अमेरिकी फौज की एक और टुकड़ी लिथुआनिया के लिए रवाना हो गई है। यह सैनिक रूसी सीमा के पास लिथुआनिया की रक्षा करेंगे। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के इस फैसले दुनिया भर में हलचल बढ़ गई है। रूसी सीमा के पास पहुंच रही अमेरिकी फौज, डोनाल्ड ट्रंप के नए फैसलेसे बढ़ी हलचल।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "इस शर्त पर होर्मुज खोलने को राजी हुआ ईरान, 7 दिनों में आने वाली है खुशखबरी, ट्रंप के पास बचा आखिरी",
+      "url": "https://hindi.news18.com/world/middle-east-iran-offers-to-reopen-strait-of-hormuz-in-7-days-if-donald-trump-pull-back-us-army-amid-oil-markets-panic-10856122.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-22T11:25:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/hormuz-ship-2026-08-363dc34984e07feff0819124fa17f897-1200x800.jpg",
+      "summary": "मिडिल ईस्ट में जारी भारी तनाव के बीच ईरान ने दुनिया को बड़ी राहत दी है. ईरान सबसे अहम तेल सप्लाई वाले रास्ते 'होर्मुज जलडमरूमध्य' को 7 दिनों में खोलने के लिए तैयार है लेकिन उसने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के सामने एक कड़ी शर्त रखी है. ईरान के अंदर से ये खबर जापान की 'क्योडो न्यूज' ने निकाली है. जिसके बाद अब डोनाल्ड ट्रंप की तरफ दुनिया की नजरें मुड़ गई हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इस शर्त पर होर्मुज खोलने को राजी हुआ ईरान, 7 दिनों में आने वाली है खुशखबरी, ट्रंप के पास बचा आखिरी",
+          "summary": "मिडिल ईस्ट में जारी भारी तनाव के बीच ईरान ने दुनिया को बड़ी राहत दी है. ईरान सबसे अहम तेल सप्लाई वाले रास्ते 'होर्मुज जलडमरूमध्य' को 7 दिनों में खोलने के लिए तैयार है लेकिन उसने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के सामने एक कड़ी शर्त रखी है. ईरान के अंदर से ये खबर जापान की 'क्योडो न्यूज' ने निकाली है. जिसके बाद अब डोनाल्ड ट्रंप की तरफ दुनिया की नजरें मुड़ गई हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका के साथ तनाव के बीच न्यूयॉर्क के लिए रवाना हुए ईरानी राष्ट्रपति पेजेशकियन, UN में उठाएंगे",
+      "url": "https://www.patrika.com/world-news/pezeshkian-new-york-visit-unga-2026-iran-us-tension-20927217",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-22T10:48:10+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/iran-us-latest-update-.webp",
+      "summary": "Iran-US Tensions: अमेरिका और ईरान के तनाव के बीच दुनिया की नजरें न्यूयॉर्क पर हैं। ईरानी राष्ट्रपति मसूद पेजेशकियन 81वें संयुक्त राष्ट्र महासभा (UNGA) सत्र में हिस्सा लेने के लिए न्यूयॉर्क रवाना हो गए हैं। उनका यह दौरा ऐसे समय हो रहा है, जब ईरान और अमेरिका के रिश्तों में तनाव बना हुआ है। बता दें ईरानी राष्ट्रपति पेजेशकियन 23 सितंबर की सुबह UN महासभा को संबोधित करेंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका के साथ तनाव के बीच न्यूयॉर्क के लिए रवाना हुए ईरानी राष्ट्रपति पेजेशकियन, UN में उठाएंगे",
+          "summary": "Iran-US Tensions: अमेरिका और ईरान के तनाव के बीच दुनिया की नजरें न्यूयॉर्क पर हैं। ईरानी राष्ट्रपति मसूद पेजेशकियन 81वें संयुक्त राष्ट्र महासभा (UNGA) सत्र में हिस्सा लेने के लिए न्यूयॉर्क रवाना हो गए हैं। उनका यह दौरा ऐसे समय हो रहा है, जब ईरान और अमेरिका के रिश्तों में तनाव बना हुआ है। बता दें ईरानी राष्ट्रपति पेजेशकियन 23 सितंबर की सुबह UN महासभा को संबोधित करेंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "7 दिन में होर्मुज स्ट्रेट फिर खोलने के लिए तैयार ईरान, अमेरिका को हटानी होगी नाकेबंदी",
@@ -368,13 +476,13 @@
       "sources": [],
       "published_at": "2026-09-22T10:22:14+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Masoud-Pezeshkian-2026-09-2d71e6dfcf7a80d8f0ee1b2a31f3ba05-1200x800.jpg",
-      "summary": "ईरान ने अमेरिका और पश्चिमी देशों के खिलाफ आक्रामक तेवर अपना लिए हैं. न्यूयॉर्क रवाना होने से पहले ईरान के राष्ट्रपति मसूद पेजेश्कियन ने दो टूक चेतावनी दी कि किसी भी मुल्क या कौम को फौजी ताकत के बेजा इस्तेमाल से कभी सरेंडर करने पर मजबूर नहीं किया जा सकता.",
+      "summary": "ईरान ने अमेरिका और पश्चिमी देशों के खिलाफ आक्रामक तेवर अपना लिए हैं. न्यूयॉर्क रवाना होने से पहले ईरान के राष्ट्रपति मसूद पेजेश्कियन ने दो टूक चेतावनी दी कि किसी भी मुल्क या कौम को फौजी ताकत के बेजा इस्तेमाल से कभी सरेंडर करने पर मजबूर नहीं किया जा सकता. उन्होंने स्पष्ट किया कि ईरान यूएन में अपने लोगों की आवाज, उनके साथ हुए धोखे और अंतरराष्ट्रीय समझौतों की धज्जियां उड़ाने की हकीकत को पूरी ताकत से।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "ताकत का नशा नहीं चलेगा, UNGA में अमेरिका को घेरेगा ईरान... पेजेश्कियन ने खोला पश्चिमी साजिश का",
-          "summary": "ईरान ने अमेरिका और पश्चिमी देशों के खिलाफ आक्रामक तेवर अपना लिए हैं. न्यूयॉर्क रवाना होने से पहले ईरान के राष्ट्रपति मसूद पेजेश्कियन ने दो टूक चेतावनी दी कि किसी भी मुल्क या कौम को फौजी ताकत के बेजा इस्तेमाल से कभी सरेंडर करने पर मजबूर नहीं किया जा सकता.",
+          "summary": "ईरान ने अमेरिका और पश्चिमी देशों के खिलाफ आक्रामक तेवर अपना लिए हैं. न्यूयॉर्क रवाना होने से पहले ईरान के राष्ट्रपति मसूद पेजेश्कियन ने दो टूक चेतावनी दी कि किसी भी मुल्क या कौम को फौजी ताकत के बेजा इस्तेमाल से कभी सरेंडर करने पर मजबूर नहीं किया जा सकता. उन्होंने स्पष्ट किया कि ईरान यूएन में अपने लोगों की आवाज, उनके साथ हुए धोखे और अंतरराष्ट्रीय समझौतों की धज्जियां उड़ाने की हकीकत को पूरी ताकत से।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -448,6 +556,42 @@
           "title": "जब भारत में रेडियो पर प्रसारित एक खबर से पाकिस्तान में बेनजीर भुट्टो को लेकर क्यों मच गया हो-हल्ला?",
           "summary": "Benazir Bhutto Arrest News on Radio India: भारत में रेडियो पर प्रसारित एक खबर ने पूरे पाकिस्तान में खलबली मचा दी। कई शहरों में विरोध-प्रदर्शन शुरू हुए और ल्यारी में दंगे भड़क गए। भारी संख्या में पाकिस्तान पीपुल्स पार्टी (PPP) के कार्यकर्ता सड़कों पर उतर आए। कराची के 70 क्लिफ्टन के बाहर पत्रकारों की भीड़ जमा हो गई। ये बेनजीर भुट्टो का निवास था।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ग्रीनलैंड पर होगा US का कब्जा! डेनमार्क संग डील करेंगे डोनाल्ड ट्रंप",
+      "url": "https://www.abplive.com/news/world/us-donald-trump-will-meet-greenland-and-denmark-leaders-to-sign-agreement-3192297",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-09-22T08:57:42+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/22/e7e555af676f4485339afa10bd4d906f17900670767541200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप, ग्रीनलैंड और डेनमार्क के नेताओं संग एक समझौते पर हस्ताक्षर के लिए मंगलवार को मुलाकात करेंगे. इस समझौते से ग्रीनलैंड में अमेरिकी सेना की मौजूदगी बढ़ जाएगी और खनिजों से भरपूर इस आईलैंड को लेकर चल रहा गतिरोध खत्म हो सकता है. ग्रीनलैंड जो कभी डेनमार्क की कॉलोनी हुआ करता था. अभी अर्ध-स्वायत्त क्षेत्र है और यहां ऊर्जा के विशाल संसाधन मौजूद हैं.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ग्रीनलैंड पर होगा US का कब्जा! डेनमार्क संग डील करेंगे डोनाल्ड ट्रंप",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप, ग्रीनलैंड और डेनमार्क के नेताओं संग एक समझौते पर हस्ताक्षर के लिए मंगलवार को मुलाकात करेंगे. इस समझौते से ग्रीनलैंड में अमेरिकी सेना की मौजूदगी बढ़ जाएगी और खनिजों से भरपूर इस आईलैंड को लेकर चल रहा गतिरोध खत्म हो सकता है. ग्रीनलैंड जो कभी डेनमार्क की कॉलोनी हुआ करता था. अभी अर्ध-स्वायत्त क्षेत्र है और यहां ऊर्जा के विशाल संसाधन मौजूद हैं.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "न्यूयॉर्क में ट्रंप और पेजेश्कियान की संभावित मुलाकात, 7 महीने के युद्ध के बीच क्या कूटनीति लेगी",
+      "url": "https://www.abplive.com/news/world/explained-meeting-between-trump-and-masoud-pezeshkian-new-york-will-diplomacy-mark-a-new-turning-point-amid-7-months-of-conflict-3192251",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-09-22T08:43:35+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/22/95f4736d6a1793ad0d28a36af18f64381790065314207130_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "संयुक्त राष्ट्र महासभा (UNGA) के उच्च स्तरीय सत्र के दौरान न्यूयॉर्क में एक ऐतिहासिक और कूटनीतिक मोड़ देखने को मिल सकता है. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने संकेत दिया है कि वे इस हफ़्ते न्यूयॉर्क में ईरानी राष्ट्रपति मसूद पेजेश्कियान से मिलने के लिए 'तैयार' हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "न्यूयॉर्क में ट्रंप और पेजेश्कियान की संभावित मुलाकात, 7 महीने के युद्ध के बीच क्या कूटनीति लेगी",
+          "summary": "संयुक्त राष्ट्र महासभा (UNGA) के उच्च स्तरीय सत्र के दौरान न्यूयॉर्क में एक ऐतिहासिक और कूटनीतिक मोड़ देखने को मिल सकता है. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने संकेत दिया है कि वे इस हफ़्ते न्यूयॉर्क में ईरानी राष्ट्रपति मसूद पेजेश्कियान से मिलने के लिए 'तैयार' हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -578,6 +722,24 @@
       }
     },
     {
+      "title": "ऑस्ट्रेलिया में माइग्रेशन नियम में बदलाव, इंडियन छात्रों पर क्या होगा असर?",
+      "url": "https://www.abplive.com/news/world/australia-immigration-rules-indian-students-visa-hopping-yoga-teachers-3192229",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-09-22T06:52:14+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/22/c8c9542d164636e6d7c88077661adda517900593810621115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ऑस्ट्रेलिया में इमिग्रेशन और इंटरनेशनल स्टूडेंट्स को लेकर बहस तेज हो गई है. ऑस्ट्रेलिया के इमिग्रेशन मंत्री टोनी बर्क ने कहा है कि सरकार ऐसे प्रवास का समर्थन करती है, जिससे देश की अर्थव्यवस्था को फायदा हो. हालांकि, सरकार वीजा सिस्टम पर ज्यादा कंट्रोल चाहती है ताकि इसका इस्तेमाल केवल ऑस्ट्रेलिया में लंबे समय तक रहने के रास्ते के तौर पर न हो.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ऑस्ट्रेलिया में माइग्रेशन नियम में बदलाव, इंडियन छात्रों पर क्या होगा असर?",
+          "summary": "ऑस्ट्रेलिया में इमिग्रेशन और इंटरनेशनल स्टूडेंट्स को लेकर बहस तेज हो गई है. ऑस्ट्रेलिया के इमिग्रेशन मंत्री टोनी बर्क ने कहा है कि सरकार ऐसे प्रवास का समर्थन करती है, जिससे देश की अर्थव्यवस्था को फायदा हो. हालांकि, सरकार वीजा सिस्टम पर ज्यादा कंट्रोल चाहती है ताकि इसका इस्तेमाल केवल ऑस्ट्रेलिया में लंबे समय तक रहने के रास्ते के तौर पर न हो.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "एक तरफ किम जोंग उन ने दागा नया हथियार, दूसरी तरफ बॉर्डर पर धमाका, दक्षिण कोरिया के 3 सैनिक घायल",
       "url": "https://hindi.news18.com/world/rest-of-world-north-korea-new-weapon-test-south-korea-dmz-blast-3-soldiers-injured-10855183.html",
       "source": "News18 Hindi (World)",
@@ -592,168 +754,6 @@
           "title": "एक तरफ किम जोंग उन ने दागा नया हथियार, दूसरी तरफ बॉर्डर पर धमाका, दक्षिण कोरिया के 3 सैनिक घायल",
           "summary": "DMZ Blast: उत्तर कोरिया ने नए हथियार का परीक्षण कर अपनी सैन्य ताकत का प्रदर्शन किया है. किम जोंग उन की निगरानी में टेस्ट हुआ. विशेषज्ञ हाइपरसोनिक हथियार का एडवांस्ड रूप मान रहे हैं. इसी बीच दक्षिण कोरिया के DMZ में एक अभियान के दौरान विस्फोट हुआ, जिसमें तीन सैन्य अधिकारी घायल हो गए. एक तरफ किम जोंग उन ने दागा नया हथियार, दूसरी तरफ बॉर्डर पर धमाका, दक्षिण कोरिया के 3 सैनिक घायल।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारतीय शख्स ने बताया विदेश की जिंदगी का सच, बोला- दुबई से तो अपना भारत ही बेहतर, ना बचत हो रही ना",
-      "url": "https://www.patrika.com/world-news/dubai-living-cost-viral-video-indian-chef-shares-struggle-saving-issue-20926274",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-22T06:14:37+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/6165555407909229178.webp",
-      "summary": "Dubai Life: दुबई में नौकरी करने और विदेश में बेहतर जिंदगी का सपना देखने वालों के लिए एक भारतीय शख्स का अनुभव चर्चा में है। कोलकाता के रहने वाले राहुल बाला ने इंस्टाग्राम पर शेयर किए वीडियो में दुबई की महंगी जिंदगी और कम बचत को लेकर अपना अनुभव बताया। उन्होंने कहा कि भारत से बाहर जाना उनका सपना था, लेकिन दुबई पहुंचने के बाद उन्हें लगा कि विदेश में रहना इतना आसान नहीं है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतीय शख्स ने बताया विदेश की जिंदगी का सच, बोला- दुबई से तो अपना भारत ही बेहतर, ना बचत हो रही ना",
-          "summary": "Dubai Life: दुबई में नौकरी करने और विदेश में बेहतर जिंदगी का सपना देखने वालों के लिए एक भारतीय शख्स का अनुभव चर्चा में है। कोलकाता के रहने वाले राहुल बाला ने इंस्टाग्राम पर शेयर किए वीडियो में दुबई की महंगी जिंदगी और कम बचत को लेकर अपना अनुभव बताया। उन्होंने कहा कि भारत से बाहर जाना उनका सपना था, लेकिन दुबई पहुंचने के बाद उन्हें लगा कि विदेश में रहना इतना आसान नहीं है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में चुनाव से पहले हिंदू निशाने पर, टेक्सास में 90 फीट की हनुमान मूर्ति पर बवाल, क्या है",
-      "url": "https://hindi.news18.com/world/america-texas-hanuman-statue-controversy-sugar-land-hindu-community-10854975.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-22T05:37:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/hanuman-2026-09-1f232d7384dd3ec55dbe04428db59a66-1200x800.jpg",
-      "summary": "Election In US: अमेरिका के टेक्सास में भगवान हनुमान की 90 फीट ऊंची प्रतिमा को लेकर विवाद खड़ा हो गया है. शुगरलैंड के अस्तालक्ष्मी मंदिर में लगी प्रतिमा को हटाने की मांग एक रूढ़िवादी यूट्यूबर ने की, जिसके बाद हिंदू संगठनों ने विरोध जताया. अमेरिकी सेना के पूर्व सैनिक रुचिर बख्शी ने भी इसे धार्मिक स्वतंत्रता का मुद्दा बताया. अमेरिका में चुनाव से पहले हिंदू निशाने पर, टेक्सास में 90 फीट की हनुमान मूर्ति पर बवाल, क्या है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में चुनाव से पहले हिंदू निशाने पर, टेक्सास में 90 फीट की हनुमान मूर्ति पर बवाल, क्या है",
-          "summary": "Election In US: अमेरिका के टेक्सास में भगवान हनुमान की 90 फीट ऊंची प्रतिमा को लेकर विवाद खड़ा हो गया है. शुगरलैंड के अस्तालक्ष्मी मंदिर में लगी प्रतिमा को हटाने की मांग एक रूढ़िवादी यूट्यूबर ने की, जिसके बाद हिंदू संगठनों ने विरोध जताया. अमेरिकी सेना के पूर्व सैनिक रुचिर बख्शी ने भी इसे धार्मिक स्वतंत्रता का मुद्दा बताया. अमेरिका में चुनाव से पहले हिंदू निशाने पर, टेक्सास में 90 फीट की हनुमान मूर्ति पर बवाल, क्या है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप-पेजेशकियन की मुलाकात पर टिकी तेल बाजार की नजर! 4 दिन बाद WTI ने मारी पलटी, 92 डॉलर के पार",
-      "url": "https://www.patrika.com/world-news/wti-crude-oil-price-today-92-dollar-middle-east-crisis-20925748",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-22T05:36:34+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/WTI-Crude-Oil.webp",
-      "summary": "WTI Crude Oil Price Today: मध्य पूर्व में शांति की कोशिशें तेज होने के बावजूद कच्चे तेल के बाजार में पूरी तरह राहत नहीं लौटी है। चार सत्रों की गिरावट के बाद अमेरिकी WTI क्रूड ने मंगलवार को फिर बढ़त दर्ज की और नवंबर कॉन्ट्रैक्ट करीब 92.50 डॉलर प्रति बैरल तक पहुंच गया। बाजार की नजर अब संयुक्त राष्ट्र महासभा में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और ईरानी राष्ट्रपति मसूद पेजेशकियन के बीच संभावित बातचीत।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप-पेजेशकियन की मुलाकात पर टिकी तेल बाजार की नजर! 4 दिन बाद WTI ने मारी पलटी, 92 डॉलर के पार",
-          "summary": "WTI Crude Oil Price Today: मध्य पूर्व में शांति की कोशिशें तेज होने के बावजूद कच्चे तेल के बाजार में पूरी तरह राहत नहीं लौटी है। चार सत्रों की गिरावट के बाद अमेरिकी WTI क्रूड ने मंगलवार को फिर बढ़त दर्ज की और नवंबर कॉन्ट्रैक्ट करीब 92.50 डॉलर प्रति बैरल तक पहुंच गया। बाजार की नजर अब संयुक्त राष्ट्र महासभा में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और ईरानी राष्ट्रपति मसूद पेजेशकियन के बीच संभावित बातचीत।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यमन में जंग के बीच मातृत्व पर संकट, 2,700 से ज्यादा गर्भवती महिलाओं पर बिना इलाज प्रसव का खतरा",
-      "url": "https://www.patrika.com/world-news/yemen-pregnant-women-crisis-unfpa-war-20925954",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-22T04:16:37+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Yemen-Pregnant-Women.webp",
-      "summary": "Yemen Pregnant Women: यमन में तेज होती हिंसा ने विस्थापन के साथ स्वास्थ्य सेवाओं का संकट भी गहरा दिया है। पश्चिमी तट और ताइज़ के मोर्चों पर लड़ाई के कारण हजारों परिवार सुरक्षित ठिकानों की तलाश में घर छोड़ने को मजबूर हुए हैं। इस संकट का सबसे गंभीर असर गर्भवती महिलाओं पर पड़ रहा है, जिनके लिए अस्पताल तक पहुंचना लगातार मुश्किल हो रहा है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यमन में जंग के बीच मातृत्व पर संकट, 2,700 से ज्यादा गर्भवती महिलाओं पर बिना इलाज प्रसव का खतरा",
-          "summary": "Yemen Pregnant Women: यमन में तेज होती हिंसा ने विस्थापन के साथ स्वास्थ्य सेवाओं का संकट भी गहरा दिया है। पश्चिमी तट और ताइज़ के मोर्चों पर लड़ाई के कारण हजारों परिवार सुरक्षित ठिकानों की तलाश में घर छोड़ने को मजबूर हुए हैं। इस संकट का सबसे गंभीर असर गर्भवती महिलाओं पर पड़ रहा है, जिनके लिए अस्पताल तक पहुंचना लगातार मुश्किल हो रहा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "बलूचिस्तान में पाकिस्तानी काफिले पर बड़ा हमला, 7 जवानों की मौत का दावा, 2 शव रेगिस्तान में छूटे",
-      "url": "https://hindi.news18.com/world/pakistan-balochistan-nok-kundi-attack-pakistan-security-forces-7-killed-10854837.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-22T04:07:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/pakistan-40-2026-09-a324df6c58c18cda3db41cdaf19620df-1200x800.jpg",
-      "summary": "Pakistan Army Attack: पाकिस्तान के बलूचिस्तान में नोख-कुंडी के पास सुरक्षा बलों के काफिले पर बड़े हमले की खबर है. स्थानीय और अन्य सूत्रों ने 7 पाकिस्तानी सुरक्षाकर्मियों के मारे जाने का दावा किया है. पांच शव निकालने और दो के रेगिस्तान में रह जाने की बात कही गई है. बलूचिस्तान में पाकिस्तानी काफिले पर बड़ा हमला, 7 जवानों की मौत का दावा, 2 शव रेगिस्तान में छूटे।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बलूचिस्तान में पाकिस्तानी काफिले पर बड़ा हमला, 7 जवानों की मौत का दावा, 2 शव रेगिस्तान में छूटे",
-          "summary": "Pakistan Army Attack: पाकिस्तान के बलूचिस्तान में नोख-कुंडी के पास सुरक्षा बलों के काफिले पर बड़े हमले की खबर है. स्थानीय और अन्य सूत्रों ने 7 पाकिस्तानी सुरक्षाकर्मियों के मारे जाने का दावा किया है. पांच शव निकालने और दो के रेगिस्तान में रह जाने की बात कही गई है. बलूचिस्तान में पाकिस्तानी काफिले पर बड़ा हमला, 7 जवानों की मौत का दावा, 2 शव रेगिस्तान में छूटे।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "हूती हमले तो रोक नहीं पा रहे मुनीर, फिर भी सऊदी-पाकिस्तान ने कर ली नई डील, दोनों देशों में क्या बदल",
-      "url": "https://hindi.news18.com/world/middle-east-saudi-arabia-pakistan-new-visa-deal-no-visa-for-officials-defence-pact-houthi-attacks-10854724.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-22T03:47:19+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/pakistan-39-2026-09-262434f3ddf660fa7ca2b01903b81699-1200x800.jpg",
-      "summary": "हूती हमलों के बीच पाकिस्तान और सऊदी अरब में हुए रक्षा समझौते की परीक्षा हो रही है. लेकिन हूती हमलों के बावजूद पाकिस्तान ने किसी भी तरह की सेना नहीं भेजी है. इसी बीच न्यूयॉर्क में पाकिस्तान और सऊदी अरब ने राजनयिक और आधिकारिक पासपोर्ट धारकों के लिए वीजा छूट की नई डील की है. हूती हमले तो रोक नहीं पा रहे मुनीर, फिर भी सऊदी-पाकिस्तान ने कर ली नई डील, दोनों देशों में क्या बदल।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हूती हमले तो रोक नहीं पा रहे मुनीर, फिर भी सऊदी-पाकिस्तान ने कर ली नई डील, दोनों देशों में क्या बदल",
-          "summary": "हूती हमलों के बीच पाकिस्तान और सऊदी अरब में हुए रक्षा समझौते की परीक्षा हो रही है. लेकिन हूती हमलों के बावजूद पाकिस्तान ने किसी भी तरह की सेना नहीं भेजी है. इसी बीच न्यूयॉर्क में पाकिस्तान और सऊदी अरब ने राजनयिक और आधिकारिक पासपोर्ट धारकों के लिए वीजा छूट की नई डील की है. हूती हमले तो रोक नहीं पा रहे मुनीर, फिर भी सऊदी-पाकिस्तान ने कर ली नई डील, दोनों देशों में क्या बदल।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान के समर्थन से हूतियों के हमले बढ़े तो बिगड़ सकती है वैश्विक अर्थव्यवस्था, जी-7 ने दी चेतावनी",
-      "url": "https://www.patrika.com/world-news/g7-warning-iran-houthi-support-global-economic-instability-20925946",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-22T03:43:57+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/group-of-seven-g7.webp",
-      "summary": "G7 Warning on Iran: पश्चिम एशिया में बढ़ते तनाव के बीच जी-7 देशों ने ईरान को चेतावनी दी है। जी-7 ने कहा कि ईरान की तरफ से हूतियों को हथियार और समर्थन देना क्षेत्र में संघर्ष को और बढ़ा सकता है। इससे अंतरराष्ट्रीय व्यापार प्रभावित हो सकता है। वैश्विक ऊर्जा सुरक्षा पर भी असर पड़ सकता है। जी-7 ने कहा कि ईरान के कदम वैश्विक आर्थिक अस्थिरता का खतरा बढ़ा रहे हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के समर्थन से हूतियों के हमले बढ़े तो बिगड़ सकती है वैश्विक अर्थव्यवस्था, जी-7 ने दी चेतावनी",
-          "summary": "G7 Warning on Iran: पश्चिम एशिया में बढ़ते तनाव के बीच जी-7 देशों ने ईरान को चेतावनी दी है। जी-7 ने कहा कि ईरान की तरफ से हूतियों को हथियार और समर्थन देना क्षेत्र में संघर्ष को और बढ़ा सकता है। इससे अंतरराष्ट्रीय व्यापार प्रभावित हो सकता है। वैश्विक ऊर्जा सुरक्षा पर भी असर पड़ सकता है। जी-7 ने कहा कि ईरान के कदम वैश्विक आर्थिक अस्थिरता का खतरा बढ़ा रहे हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत से अफगानिस्तान तक थर्राई धरती, भूकंप के झटकों से आधी रात मचा हड़कंप",
-      "url": "https://hindi.news18.com/news/maharashtra/mumbai-earthquake-4-0-magnitude-tremors-from-india-to-afghanistan-panic-in-the-middle-of-the-night-ws-l-10854688.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-22T03:04:40+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Earthquake-15-2026-08-642d5a84437de6a3d65787308cefebcb-1200x800.jpg",
-      "summary": "भारत से अफगानिस्तान तक सोमवार रात में भूकंप के झटके महसूस किए गए. इस दौरान रि‍क्‍टर स्‍केल पर तीव्रता अफगानिस्तान में तीव्रता 4.0, जबक‍ि भारत में 2.4 मापी गई. हालांक‍ि इन झटकों से जान-माल का कोई नुकसान नहीं हुआ है. भारत से अफगानिस्तान तक थर्राई धरती, भूकंप के झटकों से आधी रात मचा हड़कंप।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत से अफगानिस्तान तक थर्राई धरती, भूकंप के झटकों से आधी रात मचा हड़कंप",
-          "summary": "भारत से अफगानिस्तान तक सोमवार रात में भूकंप के झटके महसूस किए गए. इस दौरान रि‍क्‍टर स्‍केल पर तीव्रता अफगानिस्तान में तीव्रता 4.0, जबक‍ि भारत में 2.4 मापी गई. हालांक‍ि इन झटकों से जान-माल का कोई नुकसान नहीं हुआ है. भारत से अफगानिस्तान तक थर्राई धरती, भूकंप के झटकों से आधी रात मचा हड़कंप।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मीडिया संस्थानों से टकराव के बीच व्हाइट हाउस ने लॉन्च किया ‘ट्रंप टीवी’, क्या है पूरा मामला?",
-      "url": "https://www.amarujala.com/world/usa-amidst-a-standoff-with-media-outlets-the-white-house-has-launched-trump-tv-what-is-the-full-story-2026-09-22",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-09-22T02:50:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/vahaita-hausa-na-lnaca-kaya-tarapa-tava_c750d922afd3cea3db1b828b80eab7ac.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका: मीडिया संस्थानों से टकराव के बीच व्हाइट हाउस ने लॉन्च किया ‘ट्रंप टीवी’, क्या है पूरा मामला? USA: Amidst a standoff with media outlets, the White House has launched ‘Trump TV’. what is the full story?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मीडिया संस्थानों से टकराव के बीच व्हाइट हाउस ने लॉन्च किया ‘ट्रंप टीवी’, क्या है पूरा मामला?",
-          "summary": "अमेरिका: मीडिया संस्थानों से टकराव के बीच व्हाइट हाउस ने लॉन्च किया ‘ट्रंप टीवी’, क्या है पूरा मामला? USA: Amidst a standoff with media outlets, the White House has launched ‘Trump TV’. what is the full story?",
-          "region": "अमेरिका"
         }
       }
     }
