@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-24T07:17:45.818568+00:00",
+  "generated_at": "2026-09-24T08:20:26.643404+00:00",
   "article_count": 50,
-  "total_unique_count": 260,
+  "total_unique_count": 258,
   "digest": {
     "en": "Middle East & Africa leads the board this hour with Harvey Weinstein sentenced to 15 years for New York sexual assault. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "आज सुबह सैन फ्रांसिस्को में मेटा ने कैमरा‑फ्री एआई ग्लास लॉन्च किए, जिसमें वॉयस असिस्टेंट और 12 घंटे की बैटरी का दावा है। इसी दौरान भारत में ट्रंप ने अपने बम की आवाज़ सुनकर प्रतिक्रिया दी, जबकि जिंपिंग ने इस तकनीक को रणनीतिक रूप से अनदेखा किया।"
+    "hi": "इस घंटे बोर्ड पर यूरोप और रूस की अगुवाई है, P-5 ने बांध रखे हैं UN के हाथ, यूक्रेन से मिडिल ईस्ट तक तबाही का दौर, जानिए क्या है आखिरी रास्ता? मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -52,6 +52,18 @@
       "image_url": "https://th-i.thgim.com/public/incoming/tdn3ct/article71498360.ece/alternates/LANDSCAPE_1200/Climate_Heat_Deaths_El_Nino_45969.jpg",
       "summary": "‘This year’s El Niño is also a ‘postcard from our future’, bringing temperatures climate change is projected to deliver 20 years in the future. In this way, it offers a glimpse at what lies ahead without new investments in adaptation,’ the Climate Impact Lab says in a statement accompanying the report ‘Super El Niño’ projected to cause 15,800 additional heat deaths in India, says report.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "New jihadist coalition pushes Pakistan-Afghanistan to crisis point",
+      "url": "https://asiatimes.com/2026/09/new-jihadist-coalition-pushes-pakistan-afghanistan-to-crisis-point/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-09-24T00:48:03+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/pakistan-mosque-blast-16-killed-57-injured-in-kohat-2026-09-18-copy.jpg",
+      "summary": "The suicide bombing and gun attack that killed dozens in northwest Pakistan on September 18, 2026, highlighted the fragile security situation in the South Asian country. But it also shone a light on the complex and evolving extremism landscape there and the strained relationship between Pakistan and neighboring Afghanistan.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -296,49 +308,163 @@
       "translations": {}
     },
     {
-      "title": "Trump, Zelenskyy Discuss Peace Negotiations, Potential Energy Cease-Fire",
-      "url": "https://www.rferl.org/a/trump-zelenskyy-un-ukraine-russia-war-negotations/33861351.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "P-5 ने बांध रखे हैं UN के हाथ, यूक्रेन से मिडिल ईस्ट तक तबाही का दौर, जानिए क्या है आखिरी रास्ता?",
+      "url": "https://hindi.news18.com/news/nation/p5-tied-un-hands-ukraine-russia-war-middle-east-conflict-expert-kp-fabian-analysis-10860554.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-09-22T23:38:54+00:00",
-      "image_url": "https://gdb.rferl.org/07b3cdde-7094-45a9-70b6-08df13a869ed_w1200_h630.jpg",
-      "summary": "US President Donald Trump met with Ukrainian President Volodymyr Zelenskyy on the sidelines of the UN General Assembly. Trump said he believes that both sides \"want to see the war end.\" Zelenskyy said Ukraine is pushing for an agreement with Russia on halting attacks on energy infrastructure. Trump, Zelenskyy Discuss Peace Negotiations, Potential Energy Cease-Fire.",
+      "published_at": "2026-09-24T08:00:39+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Global-War-2026-09-013b1b0ccba731e23687dd9f57032ece-1200x800.jpg",
+      "summary": "यूक्रेन और मिडिल ईस्ट में जारी भीषण तनाव के बीच कूटनीति और संवाद ही दुनिया को विनाश से बचाने का एकमात्र जरिया बचा है. के. पी. फैबियन ने कहा कि युद्ध रोकने का कोई दूसरा शॉर्टकट नहीं है, सिर्फ बातचीत ही अंतिम रास्ता है. उन्होंने पीएम मोदी के उस रुख को सही ठहराया जिसमें वह लगातार 'डिप्लोमेसी और डायलॉग' पर जोर देते रहे हैं.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "P-5 ने बांध रखे हैं UN के हाथ, यूक्रेन से मिडिल ईस्ट तक तबाही का दौर, जानिए क्या है आखिरी रास्ता?",
+          "summary": "यूक्रेन और मिडिल ईस्ट में जारी भीषण तनाव के बीच कूटनीति और संवाद ही दुनिया को विनाश से बचाने का एकमात्र जरिया बचा है. के. पी. फैबियन ने कहा कि युद्ध रोकने का कोई दूसरा शॉर्टकट नहीं है, सिर्फ बातचीत ही अंतिम रास्ता है. उन्होंने पीएम मोदी के उस रुख को सही ठहराया जिसमें वह लगातार 'डिप्लोमेसी और डायलॉग' पर जोर देते रहे हैं.",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
-      "title": "पहला श्राद्ध करने से पहले जान लें ये 4 जरूरी बातें, पूर्वजों की मिलेगी कृपा",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/pitru-paksha-2026-pehla-shradh-2026-date-and-shradh-niyam-in-hindi-2026-09-24",
-      "source": "Amar Ujala National",
+      "title": "जिनपिंग के स्वागत में ट्रंप ने दस्ताने क्यों पहने? गर्मी में भी ठंड वाला ओवरकोट पहना, उठे सवाल",
+      "url": "https://hindi.news18.com/world/america-donald-trump-xi-jinping-welcome-gloves-winter-coat-speculation-joint-base-andrews-red-carpet-b1-bomber-10860685.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-09-24T07:16:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/pitru-paksha-2026_6ad0bd260f06033b3b4d6e167b8f180d.jpeg?w=1200&dpr=1.0",
-      "summary": "Pitru Paksha 2026: इस साल पितृ पक्ष की शुरुआत 26 सितंबर 2026, शनिवार से हो रही है। वहीं, पितृ पक्ष का समापन 10 अक्तूबर 2026, शनिवार को सर्वपितृ अमावस्या के दिन होगा। आइए इस दौरान श्राद्धकर्म के नियमों को जानते हैं। पहला श्राद्ध करने से पहले जान लें ये 4 जरूरी बातें, पूर्वजों की मिलेगी कृपा।",
+      "published_at": "2026-09-24T07:31:29+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/donald-trump-2026-09-24T124246.771-2026-09-3fa31aaddd907f6938ab944ce149145a-1200x800.jpg",
+      "summary": "Donald Trump Gloves: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप जब चीनी राष्ट्रपति शी जिनपिंग का स्वागत करने पहुंचे तो सबसे ज्यादा ध्यान उनके कपड़ों ने खींचा. ट्रंप इस गर्मी में भी दस्ताने और ओवरकोट पहने हुए थे. इसी ने सबका ध्यान अपनी ओर खींचा है. शी जिनपिंग जहां सामान्य कोट पैंट में थे, तो वहीं ट्रंप को जैसे ठंड लग रही थी. कई तरह की अटकलें सोशल मीडिया पर लग रही हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जिनपिंग के स्वागत में ट्रंप ने दस्ताने क्यों पहने? गर्मी में भी ठंड वाला ओवरकोट पहना, उठे सवाल",
+          "summary": "Donald Trump Gloves: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप जब चीनी राष्ट्रपति शी जिनपिंग का स्वागत करने पहुंचे तो सबसे ज्यादा ध्यान उनके कपड़ों ने खींचा. ट्रंप इस गर्मी में भी दस्ताने और ओवरकोट पहने हुए थे. इसी ने सबका ध्यान अपनी ओर खींचा है. शी जिनपिंग जहां सामान्य कोट पैंट में थे, तो वहीं ट्रंप को जैसे ठंड लग रही थी. कई तरह की अटकलें सोशल मीडिया पर लग रही हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "SIR-ECI विवाद पर राहुल गांधी का बड़ा हमला, 'संविधान के दुश्मनों का...'",
+      "url": "https://www.abplive.com/news/india/rahul-gandhi-attacks-gyanesh-kumar-enemies-of-the-constitution-have-been-exposed-3193120",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-09-24T07:22:06+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/3864f698d4abb32ef9be669952727a841790234336521124_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "चुनाव आयोग की एसआईआर प्रक्रिया पर उठ रहे सवालों के बीच कांग्रेस नेता राहुल गांधी ने बड़ा हमला किया है. उन्होंने गुरुवार को एक्स पर पुरानी तस्वीर शेयर करते हुए लिखा, ''संविधान के दुश्मनों का पर्दाफाश हो गया है. न्याय जरूर होगा.' राहुल गांधी ने कहा कि वो शाम चार बजे प्रेस कॉन्फ्रेंस करेंगे.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पहला श्राद्ध करने से पहले जान लें ये 4 जरूरी बातें, पूर्वजों की मिलेगी कृपा",
-          "summary": "Pitru Paksha 2026: इस साल पितृ पक्ष की शुरुआत 26 सितंबर 2026, शनिवार से हो रही है। वहीं, पितृ पक्ष का समापन 10 अक्तूबर 2026, शनिवार को सर्वपितृ अमावस्या के दिन होगा। आइए इस दौरान श्राद्धकर्म के नियमों को जानते हैं। पहला श्राद्ध करने से पहले जान लें ये 4 जरूरी बातें, पूर्वजों की मिलेगी कृपा।",
+          "title": "SIR-ECI विवाद पर राहुल गांधी का बड़ा हमला, 'संविधान के दुश्मनों का...'",
+          "summary": "चुनाव आयोग की एसआईआर प्रक्रिया पर उठ रहे सवालों के बीच कांग्रेस नेता राहुल गांधी ने बड़ा हमला किया है. उन्होंने गुरुवार को एक्स पर पुरानी तस्वीर शेयर करते हुए लिखा, ''संविधान के दुश्मनों का पर्दाफाश हो गया है. न्याय जरूर होगा.' राहुल गांधी ने कहा कि वो शाम चार बजे प्रेस कॉन्फ्रेंस करेंगे.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "मेटा ने लॉन्च किए कैमरा-फ्री एआई ग्लास: वॉयस असिस्टेंट का मिलेगा सपोर्ट, 12 घंटे चलेगी बैटरी, जानें",
-      "url": "https://www.amarujala.com/technology/gadgets/meta-launches-camera-free-ai-smart-glasses-and-muse-charm-device-features-specifications-details-2026-09-24",
-      "source": "Amar Ujala National",
+      "title": "पोलैंड में यूक्रेन को इंटरनेट देने वाले Starlink स्टेशन में लगी भीषण आग, पावर सिस्टम और जनरेटर जले",
+      "url": "https://www.patrika.com/world-news/poland-starlink-station-fire-suspected-sabotage-hybrid-warfare-20932113",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-09-24T07:05:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/meta-camera-free-ai-glass_2292732cbe22ee7f8395ba7b3ef1a0e7.jpeg",
-      "summary": "प्राइवेसी चिंताओं के बीच, मेटा ने बिना कैमरे वाले नए AI स्मार्ट ग्लासेस लॉन्च किए हैं। इसके अलावा, कंपनी ने कनेक्ट इवेंट में एक पॉकेट-साइज डिवाइस 'म्यूज चार्म' (Muse Charm) और नए हल्के वीआर ग्लासेस भी पेश किए हैं। मेटा ने लॉन्च किए कैमरा-फ्री एआई ग्लास: वॉयस असिस्टेंट का मिलेगा सपोर्ट, 12 घंटे चलेगी बैटरी, जानें।",
+      "published_at": "2026-09-24T07:20:06+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/starlinknews_c68e0a.webp",
+      "summary": "पोलैंड में Starlink की एक अहम ग्राउंड स्टेशन पर लगी आग ने सुरक्षा एजेंसियों की चिंता बढ़ा दी है। बुधवार शाम मध्य पोलैंड में स्थित इस स्टेशन के पावर सिस्टम और जनरेटर में आग लग गई। पोलैंड में यूक्रेन को इंटरनेट देने वाले Starlink स्टेशन में लगी भीषण आग, पावर सिस्टम और जनरेटर जले।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पोलैंड में यूक्रेन को इंटरनेट देने वाले Starlink स्टेशन में लगी भीषण आग, पावर सिस्टम और जनरेटर जले",
+          "summary": "पोलैंड में Starlink की एक अहम ग्राउंड स्टेशन पर लगी आग ने सुरक्षा एजेंसियों की चिंता बढ़ा दी है। बुधवार शाम मध्य पोलैंड में स्थित इस स्टेशन के पावर सिस्टम और जनरेटर में आग लग गई। पोलैंड में यूक्रेन को इंटरनेट देने वाले Starlink स्टेशन में लगी भीषण आग, पावर सिस्टम और जनरेटर जले।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "चक्रवाती तूफान अर्नब भारत से टकराया, ये राज्य प्रभावित, कई पुल टूटे, NH-326 बंद",
+      "url": "https://www.abplive.com/news/india/cyclone-arnab-odisha-malkangiri-district-affected-several-bridges-damaged-nh-326-closed-3193100",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-09-24T07:13:18+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/7cdd569f9c2912c4f4d4c893c5d6731b17902338675621484_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ओडिशा के मलकानगिरी में चक्रवात 'अर्नब' ने तबाही मचाई हुई है. लगातार बारिश से ओडिशा का मलकानगिरी जिला पानी में डूब चुका है. बारिश के साथ तेज हवाओं के कारण कई जगहों पर पेड़ उखड़ गए हैं. कुछ जगहों पर पुलों को भी नुकसान पहुंचा है, जिससे क्षेत्रों का आपसी संपर्क टूट गया. जानकारी के अनुसार, मलकानगिरी में लगातार भारी बारिश के कारण नदी-नाले उफान पर हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चक्रवाती तूफान अर्नब भारत से टकराया, ये राज्य प्रभावित, कई पुल टूटे, NH-326 बंद",
+          "summary": "ओडिशा के मलकानगिरी में चक्रवात 'अर्नब' ने तबाही मचाई हुई है. लगातार बारिश से ओडिशा का मलकानगिरी जिला पानी में डूब चुका है. बारिश के साथ तेज हवाओं के कारण कई जगहों पर पेड़ उखड़ गए हैं. कुछ जगहों पर पुलों को भी नुकसान पहुंचा है, जिससे क्षेत्रों का आपसी संपर्क टूट गया. जानकारी के अनुसार, मलकानगिरी में लगातार भारी बारिश के कारण नदी-नाले उफान पर हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "5 राज्यों के चुनाव में BJP ने 529 करोड़ रुपये किए खर्च, बंगाल में कितना लगाया?",
+      "url": "https://www.abplive.com/news/india/bjp-spent-rs-529-crore-in-last-5-assemby-election-286-crore-on-bengal-alone-3193114",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-09-24T07:12:05+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/f3bc31f88972259cfdcb5593cbc26cde1790233554385355_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "असम, तमिलनाडु, पुडुचेरी, केरल और पश्चिम बंगाल चुनावों के लिए BJP की खर्च रिपोर्ट से पता चलता है कि पार्टी के केंद्रीय कार्यालय ने इन राज्यों में कुल 529.38 करोड़ रुपये खर्च किए. जिसमें से अकेले बंगाल में 286 करोड़ रुपये खर्च हुए. चुनाव के दौरान 1,494 करोड़ रुपये मिलने के बाद, चुनाव प्रक्रिया खत्म होने पर पार्टी के पास बैंक बैलेंस और हाथ में नकद के रूप में कुल 7,689.06 करोड़ रुपये बचे थे.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मेटा ने लॉन्च किए कैमरा-फ्री एआई ग्लास: वॉयस असिस्टेंट का मिलेगा सपोर्ट, 12 घंटे चलेगी बैटरी, जानें",
-          "summary": "प्राइवेसी चिंताओं के बीच, मेटा ने बिना कैमरे वाले नए AI स्मार्ट ग्लासेस लॉन्च किए हैं। इसके अलावा, कंपनी ने कनेक्ट इवेंट में एक पॉकेट-साइज डिवाइस 'म्यूज चार्म' (Muse Charm) और नए हल्के वीआर ग्लासेस भी पेश किए हैं। मेटा ने लॉन्च किए कैमरा-फ्री एआई ग्लास: वॉयस असिस्टेंट का मिलेगा सपोर्ट, 12 घंटे चलेगी बैटरी, जानें।",
+          "title": "5 राज्यों के चुनाव में BJP ने 529 करोड़ रुपये किए खर्च, बंगाल में कितना लगाया?",
+          "summary": "असम, तमिलनाडु, पुडुचेरी, केरल और पश्चिम बंगाल चुनावों के लिए BJP की खर्च रिपोर्ट से पता चलता है कि पार्टी के केंद्रीय कार्यालय ने इन राज्यों में कुल 529.38 करोड़ रुपये खर्च किए. जिसमें से अकेले बंगाल में 286 करोड़ रुपये खर्च हुए. चुनाव के दौरान 1,494 करोड़ रुपये मिलने के बाद, चुनाव प्रक्रिया खत्म होने पर पार्टी के पास बैंक बैलेंस और हाथ में नकद के रूप में कुल 7,689.06 करोड़ रुपये बचे थे.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शूटिंग में आया एक और पदक: परिनाज-अनंत की जोड़ी को मिला कांस्य, मिश्रित स्कीट में कितने अंतर से",
+      "url": "https://www.amarujala.com/sports/anant-jeet-singh-naruka-and-parinaaz-dhaliwal-won-bronze-medal-in-mixed-team-skeet-event-at-the-asian-games-2026-09-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-24T07:01:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/asiad_866d605db8f7193485d75a34ea8d8970.jpeg?w=1200&dpr=1.0",
+      "summary": "अनंतजीत सिंह नारुका और परिनाज धालीवाल की जोड़ी ने मिश्रित स्कीट टीम स्पर्धा में कांस्य पदक अपने नाम किया है। फाइनल में भारतीय जोड़ी स्वर्ण पदक की दौड़ में थी, लेकिन वह इससे काफी पीछे रह गई। शूटिंग में आया एक और पदक: परिनाज-अनंत की जोड़ी को मिला कांस्य, मिश्रित स्कीट में कितने अंतर से।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शूटिंग में आया एक और पदक: परिनाज-अनंत की जोड़ी को मिला कांस्य, मिश्रित स्कीट में कितने अंतर से",
+          "summary": "अनंतजीत सिंह नारुका और परिनाज धालीवाल की जोड़ी ने मिश्रित स्कीट टीम स्पर्धा में कांस्य पदक अपने नाम किया है। फाइनल में भारतीय जोड़ी स्वर्ण पदक की दौड़ में थी, लेकिन वह इससे काफी पीछे रह गई। शूटिंग में आया एक और पदक: परिनाज-अनंत की जोड़ी को मिला कांस्य, मिश्रित स्कीट में कितने अंतर से।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सतना में बच्चों से भरी स्कूल वैन पलटी, 15 सीटर में सवार थे 20 बच्चे; दो की हालत गंभीर",
+      "url": "https://www.amarujala.com/madhya-pradesh/satna/school-van-overturns-in-satna-several-students-injured-2026-09-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-24T07:00:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/26/accident_b1a85053a2305a20b525c6a348483dde.jpeg?w=1200&dpr=1.0",
+      "summary": "सतना के जैतवारा थाना क्षेत्र में बच्चों से भरी स्कूल वैन अनियंत्रित होकर पलट गई। वैन में करीब 20 बच्चे सवार थे, जबकि उसकी क्षमता 15 सीटों की बताई जा रही है। हादसे में कई बच्चे घायल हुए हैं, जिनमें दो की हालत गंभीर है। सतना में बच्चों से भरी स्कूल वैन पलटी, 15 सीटर में सवार थे 20 बच्चे; दो की हालत गंभीर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सतना में बच्चों से भरी स्कूल वैन पलटी, 15 सीटर में सवार थे 20 बच्चे; दो की हालत गंभीर",
+          "summary": "सतना के जैतवारा थाना क्षेत्र में बच्चों से भरी स्कूल वैन अनियंत्रित होकर पलट गई। वैन में करीब 20 बच्चे सवार थे, जबकि उसकी क्षमता 15 सीटों की बताई जा रही है। हादसे में कई बच्चे घायल हुए हैं, जिनमें दो की हालत गंभीर है। सतना में बच्चों से भरी स्कूल वैन पलटी, 15 सीटर में सवार थे 20 बच्चे; दो की हालत गंभीर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "SIR विवाद पर प्रियंका गांधी का चुनाव आयोग पर हमला, बोलीं- 'देश के साथ...'",
+      "url": "https://www.abplive.com/news/india/priyanka-gandhi-election-commission-sir-voter-list-gyanesh-kumar-controversy-3193106",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-09-24T06:59:18+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/04733ce6b687ac2c1587fa2532718b8a1790233508577425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "चुनाव आयोग की कार्यप्रणाली और मतदाता सूची के विशेष गहन पुनरीक्षण यानी एसआईआर को लेकर जारी विवाद के बीच कांग्रेस महासचिव और वायनाड से सांसद प्रियंका गांधी वाड्रा ने चुनाव आयोग पर तीखा हमला बोला है. उन्होंने आरोप लगाया कि चुनाव की लोकतांत्रिक प्रक्रिया के साथ छेड़छाड़ करना देश के साथ गद्दारी के समान है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "SIR विवाद पर प्रियंका गांधी का चुनाव आयोग पर हमला, बोलीं- 'देश के साथ...'",
+          "summary": "चुनाव आयोग की कार्यप्रणाली और मतदाता सूची के विशेष गहन पुनरीक्षण यानी एसआईआर को लेकर जारी विवाद के बीच कांग्रेस महासचिव और वायनाड से सांसद प्रियंका गांधी वाड्रा ने चुनाव आयोग पर तीखा हमला बोला है. उन्होंने आरोप लगाया कि चुनाव की लोकतांत्रिक प्रक्रिया के साथ छेड़छाड़ करना देश के साथ गद्दारी के समान है.",
           "region": "दुनिया"
         }
       }
@@ -362,163 +488,73 @@
       }
     },
     {
-      "title": "अगर आपके घर की बिजली कट जाए तो क्या करें? पूरा प्रोसेस यहां जानें",
-      "url": "https://www.amarujala.com/photo-gallery/utility/what-to-do-if-the-electricity-goes-out-at-home-know-the-complete-complaint-process-2026-09-24",
-      "source": "Amar Ujala National",
+      "title": "मतदाता सूची के केंद्रीकरण पर चुनाव आयोग का जवाब, कहा- 'ERO के अधिकार बरकरार'",
+      "url": "https://www.abplive.com/news/india/election-commission-voter-list-centralization-ero-rights-ecinet-electoral-database-clarification-3193101",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-09-24T06:57:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/ghara-ka-bjal-katana-para-kaya-kara_b95a8ae84aad50b591935c44b11f73cc.jpeg?w=1200&dpr=1.0",
-      "summary": "घर की बिजली जाने पर पहले एमसीबी और आसपास की सप्लाई की जांच जरूर करें। बिजली विभाग में शिकायत करते समय कंज्यूमर नंबर दें और मिले शिकायत नंबर को जरूर संभालकर रखें। अगर आपके घर की बिजली कट जाए तो क्या करें? पूरा प्रोसेस यहां जानें।",
+      "published_at": "2026-09-24T06:52:26+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/9665020e6cbc6227868ea079b89450ac1790232678587425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "मतदाता सूची तैयार करने की प्रक्रिया के केंद्रीकरण और निर्वाचक रजिस्ट्रेशन अधिकारियों यानी ईआरओ की भूमिका को लेकर उठ रहे सवालों के बीच चुनाव आयोग के सूत्रों ने स्थिति स्पष्ट की है. सूत्रों के मुताबिक, हर राज्य का चुनावी डेटाबेस पहले की तरह ही विकेंद्रीकृत है और निर्वाचक रजिस्ट्रेशन अधिकारियों (ईआरओ) के सभी वैधानिक और प्रक्रियात्मक अधिकार बरकरार हैं.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अगर आपके घर की बिजली कट जाए तो क्या करें? पूरा प्रोसेस यहां जानें",
-          "summary": "घर की बिजली जाने पर पहले एमसीबी और आसपास की सप्लाई की जांच जरूर करें। बिजली विभाग में शिकायत करते समय कंज्यूमर नंबर दें और मिले शिकायत नंबर को जरूर संभालकर रखें। अगर आपके घर की बिजली कट जाए तो क्या करें? पूरा प्रोसेस यहां जानें।",
+          "title": "मतदाता सूची के केंद्रीकरण पर चुनाव आयोग का जवाब, कहा- 'ERO के अधिकार बरकरार'",
+          "summary": "मतदाता सूची तैयार करने की प्रक्रिया के केंद्रीकरण और निर्वाचक रजिस्ट्रेशन अधिकारियों यानी ईआरओ की भूमिका को लेकर उठ रहे सवालों के बीच चुनाव आयोग के सूत्रों ने स्थिति स्पष्ट की है. सूत्रों के मुताबिक, हर राज्य का चुनावी डेटाबेस पहले की तरह ही विकेंद्रीकृत है और निर्वाचक रजिस्ट्रेशन अधिकारियों (ईआरओ) के सभी वैधानिक और प्रक्रियात्मक अधिकार बरकरार हैं.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "याददाश्त और दिल की सेहत के लिए न्यूट्रिशन का पूरा पैकेज है ये मेवा, क्या आप करते हैं सेवन?",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/daily-walnut-benefits-from-better-heart-health-to-stronger-bones-2026-09-23",
-      "source": "Amar Ujala National",
+      "title": "'कब तक होगा फैसला, समय बताएं', TMC के मामले पर चुनाव आयोग से बोला सुप्रीम कोर्ट",
+      "url": "https://www.abplive.com/news/india/supreme-court-mamata-banerjee-plea-ec-to-give-time-frame-to-take-decision-tmc-name-symbol-3193102",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-09-24T06:55:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/09/heart-and-brain_4db340b2c6b54b95ce079494a3d69067.jpeg?w=1200&dpr=1.0",
-      "summary": "अखरोट पोषक तत्वों से भरपूर नट्स है, जिसमें ओमेगा-3 फैटी एसिड, विटामिन-ई, मैग्नीशियम और फॉस्फोरस जैसे पोषक तत्व पाए जाते हैं। संतुलित मात्रा में इसका सेवन हृदय और मस्तिष्क के स्वास्थ्य के लिए उपयोगी हो सकता है। याददाश्त और दिल की सेहत के लिए न्यूट्रिशन का पूरा पैकेज है ये मेवा, क्या आप करते हैं सेवन?",
+      "published_at": "2026-09-24T06:51:02+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/08f1e522d10de3e4b6290159d261a8c01790233036813344_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "सुप्रीम कोर्ट ने निर्वाचन आयोग से गुरुवार (24 सितंबर) को तृणमूल कांग्रेस के नाम और चुनाव चिह्न को लेकर जारी विवाद पर फैसला लेने के लिए समय सीमा बताने को कहा है. आयोग ने टीएमसी के चुनाव चिन्ह और नाम को फ्रीज कर दिया था. इस मामले को लेकर पश्चिम बंगाल की पूर्व मुख्यमंत्री और टीएमसी प्रमुख ममता बनर्जी सुप्रीम कोर्ट पहुंच गई थीं.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "याददाश्त और दिल की सेहत के लिए न्यूट्रिशन का पूरा पैकेज है ये मेवा, क्या आप करते हैं सेवन?",
-          "summary": "अखरोट पोषक तत्वों से भरपूर नट्स है, जिसमें ओमेगा-3 फैटी एसिड, विटामिन-ई, मैग्नीशियम और फॉस्फोरस जैसे पोषक तत्व पाए जाते हैं। संतुलित मात्रा में इसका सेवन हृदय और मस्तिष्क के स्वास्थ्य के लिए उपयोगी हो सकता है। याददाश्त और दिल की सेहत के लिए न्यूट्रिशन का पूरा पैकेज है ये मेवा, क्या आप करते हैं सेवन?",
+          "title": "'कब तक होगा फैसला, समय बताएं', TMC के मामले पर चुनाव आयोग से बोला सुप्रीम कोर्ट",
+          "summary": "सुप्रीम कोर्ट ने निर्वाचन आयोग से गुरुवार (24 सितंबर) को तृणमूल कांग्रेस के नाम और चुनाव चिह्न को लेकर जारी विवाद पर फैसला लेने के लिए समय सीमा बताने को कहा है. आयोग ने टीएमसी के चुनाव चिन्ह और नाम को फ्रीज कर दिया था. इस मामले को लेकर पश्चिम बंगाल की पूर्व मुख्यमंत्री और टीएमसी प्रमुख ममता बनर्जी सुप्रीम कोर्ट पहुंच गई थीं.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "25 सितंबर को घर पर कैसे करें गणपति विसर्जन? जानें पूरे दिन के शुभ मुहूर्त, विधि और मंत्र",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/anant-chaturdashi-2026-ganesh-visarjan-shubh-muhurat-vidhi-puja-mantra-2026-09-24",
-      "source": "Amar Ujala National",
+      "title": "आतंकवाद के खिलाफ जीरो टॉलरेंस, भारत ने दुनिया के सामने रखा अपना एजेंडा, उठाए अहम मुद्दे",
+      "url": "https://www.patrika.com/world-news/india-un-counter-terrorism-climate-finance-20931814",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-09-24T06:54:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/anant-chaturdashi-2026-ganesh-visarjan_dc09ce245318d37a2577fd0eabd4de0f.jpeg?w=1200&dpr=1.0",
-      "summary": "इस वर्ष 25 सितंबर 2026, शुक्रवार को अनंत चतुर्दशी मनाई जाएगी। मान्यता है कि शुभ मुहूर्त में विधि-विधान से गणेश विसर्जन करने से घर में सुख, शांति और समृद्धि का वातावरण बना रहता है। आइए जानते हैं गणेश विसर्जन का शुभ समय और सरल विधि। 25 सितंबर को घर पर कैसे करें गणपति विसर्जन? जानें पूरे दिन के शुभ मुहूर्त, विधि और मंत्र।",
+      "published_at": "2026-09-24T06:42:58+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/UN-INDIA-STAND-1.webp",
+      "summary": "India Foreign Policy Latest Update: संयुक्त राष्ट्र में भारत ने आतंकवाद और जलवायु परिवर्तन को लेकर मुदा उठाया। विदेश मंत्रालय के सचिव सुधाकर दलेला ने कई अहम बैठकों में भारत का पक्ष रखा। उन्होंने आतंकवाद के खिलाफ सख्त रुख दोहराया। साथ ही विकासशील देशों के लिए आसान और भरोसेमंद क्लाइमेट फाइनेंस की मांग की। आतंकवाद के खिलाफ जीरो टॉलरेंस, भारत ने दुनिया के सामने रखा अपना एजेंडा, उठाए अहम मुद्दे।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आतंकवाद के खिलाफ जीरो टॉलरेंस, भारत ने दुनिया के सामने रखा अपना एजेंडा, उठाए अहम मुद्दे",
+          "summary": "India Foreign Policy Latest Update: संयुक्त राष्ट्र में भारत ने आतंकवाद और जलवायु परिवर्तन को लेकर मुदा उठाया। विदेश मंत्रालय के सचिव सुधाकर दलेला ने कई अहम बैठकों में भारत का पक्ष रखा। उन्होंने आतंकवाद के खिलाफ सख्त रुख दोहराया। साथ ही विकासशील देशों के लिए आसान और भरोसेमंद क्लाइमेट फाइनेंस की मांग की। आतंकवाद के खिलाफ जीरो टॉलरेंस, भारत ने दुनिया के सामने रखा अपना एजेंडा, उठाए अहम मुद्दे।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पांच साल में हुए नौ बस हादसे, 13 की जानें गईं; यहां देखें 2021 से अबतक के आंकड़े",
+      "url": "https://www.amarujala.com/delhi-ncr/noida/nine-bus-accidents-on-yamuna-expressway-in-five-years-claimed-13-lives-2026-09-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-24T06:33:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/yamana-ekasaparasava-para-hathasa-ka-btha-jal-haii-bsa_783cca1d19cca50955f198b9680bc84f.jpeg?w=1200&dpr=1.0",
+      "summary": "यमुना एक्सप्रेसवे पर बसों की सुरक्षित आवाजाही पर एक बार फिर सवाल उठे हैं। गौतमबुद्धनगर जिले की सीमा में पिछले पांच वर्षों में बसों से जुड़े नौ प्रमुख हादसे हुए हैं। इन हादसों में 13 लोगों की मौत हुई और 99 लोग घायल हुए हैं। पांच साल में हुए नौ बस हादसे, 13 की जानें गईं; यहां देखें 2021 से अबतक के आंकड़े।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "25 सितंबर को घर पर कैसे करें गणपति विसर्जन? जानें पूरे दिन के शुभ मुहूर्त, विधि और मंत्र",
-          "summary": "इस वर्ष 25 सितंबर 2026, शुक्रवार को अनंत चतुर्दशी मनाई जाएगी। मान्यता है कि शुभ मुहूर्त में विधि-विधान से गणेश विसर्जन करने से घर में सुख, शांति और समृद्धि का वातावरण बना रहता है। आइए जानते हैं गणेश विसर्जन का शुभ समय और सरल विधि। 25 सितंबर को घर पर कैसे करें गणपति विसर्जन? जानें पूरे दिन के शुभ मुहूर्त, विधि और मंत्र।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "गणपति विसर्जन पर पंचक का साया, इन नियमों का रखें ध्यान",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/ganesh-visarjan-on-anant-chaturdashi-know-panchak-timing-and-rules-in-hindi-2026-09-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-24T06:51:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/pacaka-ka-tharana-ganaesha-vasarajana_065b2ebd0b4c624e801ff3e110680d48.jpeg?w=1200&dpr=1.0",
-      "summary": "Ganesh Visarjan 2026: अनंत चतुर्दशी के दिन गणपति विसर्जन किया जाएगा, लेकिन इस बार पंचक का संयोग भी बन रहा है। ऐसे में जानें पंचक कब से कब तक रहेगा और विसर्जन के दौरान किन बातों का विशेष ध्यान रखना चाहिए। गणपति विसर्जन पर पंचक का साया, इन नियमों का रखें ध्यान।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गणपति विसर्जन पर पंचक का साया, इन नियमों का रखें ध्यान",
-          "summary": "Ganesh Visarjan 2026: अनंत चतुर्दशी के दिन गणपति विसर्जन किया जाएगा, लेकिन इस बार पंचक का संयोग भी बन रहा है। ऐसे में जानें पंचक कब से कब तक रहेगा और विसर्जन के दौरान किन बातों का विशेष ध्यान रखना चाहिए। गणपति विसर्जन पर पंचक का साया, इन नियमों का रखें ध्यान।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "लंबे सफर और ट्रैफिक जाम में स्पाइन पर पड़ सकता है असर, ऐसे करें रीढ़ की हड्डी की देखभाल",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/tips-for-take-care-of-spine-for-drivers-in-hindi-how-to-sit-while-driving-to-avoid-back-pain-2026-09-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-24T06:49:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/tips-to-avoid-back-pain-while-driving_2773c02af7d70a8cd7254740d3e0d266.jpeg?w=1200&dpr=1.0",
-      "summary": "Tips to Avoid Back Pain While Driving: अगर आप उन लोगों में से हैं, जो खुद से गाड़ी ड्राइव करते हैं तो अपनी स्पाइन यानी कि रीढ़ की हड्डी का ध्यान आपको खुद रखना है। यहां इस लेख में हम आपको उसी की जानकारी देंगे। लंबे सफर और ट्रैफिक जाम में स्पाइन पर पड़ सकता है असर, ऐसे करें रीढ़ की हड्डी की देखभाल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लंबे सफर और ट्रैफिक जाम में स्पाइन पर पड़ सकता है असर, ऐसे करें रीढ़ की हड्डी की देखभाल",
-          "summary": "Tips to Avoid Back Pain While Driving: अगर आप उन लोगों में से हैं, जो खुद से गाड़ी ड्राइव करते हैं तो अपनी स्पाइन यानी कि रीढ़ की हड्डी का ध्यान आपको खुद रखना है। यहां इस लेख में हम आपको उसी की जानकारी देंगे। लंबे सफर और ट्रैफिक जाम में स्पाइन पर पड़ सकता है असर, ऐसे करें रीढ़ की हड्डी की देखभाल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बीओबी लोकल बैंक ऑफिसर की परीक्षा तिथि घोषित, कब होगा एग्जाम? यहां जानें तारीख",
-      "url": "https://www.amarujala.com/jobs/government-jobs/bank-of-baroda-lbo-exam-date-2026-announced-check-online-test-and-call-letter-details-2026-09-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-24T06:48:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/11/01/bob-jobs_493acecbd6859c64382a0386cdf6b862.jpeg?w=1200&dpr=1.0",
-      "summary": "बैंक ऑफ बड़ौदा ने लोकल बैंक ऑफिसर भर्ती 2026 के लिए ऑनलाइन परीक्षा की तारीख घोषित कर दी है। परीक्षा में शामिल होने वाले उम्मीदवार पूरा शेड्यूल नीचे देख सकते हैं। बैंक पात्र उम्मीदवारों के लिए प्री-एग्जामिनेशन ट्रेनिंग भी आयोजित करेगा। बीओबी लोकल बैंक ऑफिसर की परीक्षा तिथि घोषित, कब होगा एग्जाम? यहां जानें तारीख।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बीओबी लोकल बैंक ऑफिसर की परीक्षा तिथि घोषित, कब होगा एग्जाम? यहां जानें तारीख",
-          "summary": "बैंक ऑफ बड़ौदा ने लोकल बैंक ऑफिसर भर्ती 2026 के लिए ऑनलाइन परीक्षा की तारीख घोषित कर दी है। परीक्षा में शामिल होने वाले उम्मीदवार पूरा शेड्यूल नीचे देख सकते हैं। बैंक पात्र उम्मीदवारों के लिए प्री-एग्जामिनेशन ट्रेनिंग भी आयोजित करेगा। बीओबी लोकल बैंक ऑफिसर की परीक्षा तिथि घोषित, कब होगा एग्जाम? यहां जानें तारीख।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारी डिस्काउंट देखकर खुश होना पड़ सकता है भारी, कपड़े खरीदने से पहले इन बातों पर दें ध्यान",
-      "url": "https://www.amarujala.com/photo-gallery/utility/4-things-to-check-before-buying-discounted-clothes-know-other-details-here-2026-09-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-24T06:43:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/sasata-samajhakara-kapaugdha-kharathana-sa-pahal-rakae_76619e68f8e6d8ec736cb02f0e08e9cf.jpeg?w=1200&dpr=1.0",
-      "summary": "कपड़ों की खरीदारी के दौरान डिस्काउंट देखकर हम कई बार बिना ज्यादा सोचे सामान खरीद लेते हैं। लेकिन बिल बनने से पहले कपड़े की कीमत, डिस्काउंट की शर्तें, साइज और रिटर्न या एक्सचेंज की जानकारी जरूर देख लेनी चाहिए। भारी डिस्काउंट देखकर खुश होना पड़ सकता है भारी, कपड़े खरीदने से पहले इन बातों पर दें ध्यान।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारी डिस्काउंट देखकर खुश होना पड़ सकता है भारी, कपड़े खरीदने से पहले इन बातों पर दें ध्यान",
-          "summary": "कपड़ों की खरीदारी के दौरान डिस्काउंट देखकर हम कई बार बिना ज्यादा सोचे सामान खरीद लेते हैं। लेकिन बिल बनने से पहले कपड़े की कीमत, डिस्काउंट की शर्तें, साइज और रिटर्न या एक्सचेंज की जानकारी जरूर देख लेनी चाहिए। भारी डिस्काउंट देखकर खुश होना पड़ सकता है भारी, कपड़े खरीदने से पहले इन बातों पर दें ध्यान।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अक्तूबर तक कन्या में रहेंगे सूर्य, इन 3 राशि वालों को धन लाभ और नौकरी में मिलेंगे अच्छे परिणाम",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/sun-transit-in-virgo-2026-these-three-zodiac-will-shine-and-get-more-benefits-2026-09-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-24T06:32:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/10/surya-gochar-2026_bf2b99af52f91793ea37a70ab1f48098.jpeg?w=1200&dpr=1.0",
-      "summary": "Sun Transit In Virgo 2026: सूर्य मित्र की राशि कन्या में विराजमान हैं। वह अक्तूबर तक यहां बने रहेंगे, इसलिए यह समय कुछ राशियों के लिए शुभ रहेगा। खासतौर पर कुछ राशियों के लिए सूर्य का यह गोचर आर्थिक स्थिति और करियर के लिहाज से लकी रहेगी। अक्तूबर तक कन्या में रहेंगे सूर्य, इन 3 राशि वालों को धन लाभ और नौकरी में मिलेंगे अच्छे परिणाम।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अक्तूबर तक कन्या में रहेंगे सूर्य, इन 3 राशि वालों को धन लाभ और नौकरी में मिलेंगे अच्छे परिणाम",
-          "summary": "Sun Transit In Virgo 2026: सूर्य मित्र की राशि कन्या में विराजमान हैं। वह अक्तूबर तक यहां बने रहेंगे, इसलिए यह समय कुछ राशियों के लिए शुभ रहेगा। खासतौर पर कुछ राशियों के लिए सूर्य का यह गोचर आर्थिक स्थिति और करियर के लिहाज से लकी रहेगी। अक्तूबर तक कन्या में रहेंगे सूर्य, इन 3 राशि वालों को धन लाभ और नौकरी में मिलेंगे अच्छे परिणाम।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "SIR विवाद में दिपके का वार, ज्ञानेश कुमार पर हमलावर",
-      "url": "https://www.amarujala.com/video/india-news/dipak-takes-aim-in-the-sir-controversy-lashes-out-at-gyanesh-kumar-2026-09-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-24T06:31:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/cjp_449b90059365af8745e3c8fdaa74a9bf.jpeg?w=1200&dpr=1.0",
-      "summary": "SIR विवाद में दिपके का वार, ज्ञानेश कुमार पर हमलावर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "SIR विवाद में दिपके का वार, ज्ञानेश कुमार पर हमलावर",
-          "summary": "SIR विवाद में दिपके का वार, ज्ञानेश कुमार पर हमलावर।",
+          "title": "पांच साल में हुए नौ बस हादसे, 13 की जानें गईं; यहां देखें 2021 से अबतक के आंकड़े",
+          "summary": "यमुना एक्सप्रेसवे पर बसों की सुरक्षित आवाजाही पर एक बार फिर सवाल उठे हैं। गौतमबुद्धनगर जिले की सीमा में पिछले पांच वर्षों में बसों से जुड़े नौ प्रमुख हादसे हुए हैं। इन हादसों में 13 लोगों की मौत हुई और 99 लोग घायल हुए हैं। पांच साल में हुए नौ बस हादसे, 13 की जानें गईं; यहां देखें 2021 से अबतक के आंकड़े।",
           "region": "दुनिया"
         }
       }
@@ -544,7 +580,7 @@
     {
       "title": "सबरीमाला प्रसाद की गुणवत्ता पर कोर्ट सख्त: सफाई और स्टोरेज सुधारने के निर्देश, एफएसएसएआई जांच में",
       "url": "https://www.amarujala.com/india-news/court-strict-sabarimala-prasad-quality-directives-improve-hygiene-storage-what-did-fssai-inspection-reveal-2026-09-24",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-24T06:30:49+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/karal-haiikarata_7f0c53c1e90db95429086f90b871af33.jpeg?w=1200&dpr=1.0",
@@ -560,55 +596,19 @@
       }
     },
     {
-      "title": "अकेले घूमने का है सपना? पहली ट्रिप के लिए ये 5 जगहें रहेंगी यादगार",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/travel/world-tourism-day-2026-solo-travel-in-india-5-best-places-to-choose-for-your-first-trip-2026-09-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-24T06:30:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/solo-trip-places-in-india_8c6bf83738de6554433000d6c38905ec.jpeg?w=1200&dpr=1.0",
-      "summary": "Solo Travel in India: अगर आपको पहाड़ पसंद हैं तो ऋषिकेश, मनाली और मैक्लोडगंज जैसे डेस्टिनेशन आकर्षित कर सकते हैं। वहीं समुद्र और आराम पसंद करने वाले यात्रियों के लिए गोवा एक लोकप्रिय विकल्प है। अकेले घूमने का है सपना? पहली ट्रिप के लिए ये 5 जगहें रहेंगी यादगार।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अकेले घूमने का है सपना? पहली ट्रिप के लिए ये 5 जगहें रहेंगी यादगार",
-          "summary": "Solo Travel in India: अगर आपको पहाड़ पसंद हैं तो ऋषिकेश, मनाली और मैक्लोडगंज जैसे डेस्टिनेशन आकर्षित कर सकते हैं। वहीं समुद्र और आराम पसंद करने वाले यात्रियों के लिए गोवा एक लोकप्रिय विकल्प है। अकेले घूमने का है सपना? पहली ट्रिप के लिए ये 5 जगहें रहेंगी यादगार।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सपा मुखिया अखिलेश यादव का समाजवादी रथ लखनऊ से चलकर रायबरेली पहुंचा, लिखा- जो पीड़ित, वो पीडीए",
-      "url": "https://www.amarujala.com/lucknow/sp-chief-akhilesh-yadav-samajwadi-rath-has-set-off-from-lucknow-for-raebareli-2026-09-24",
+      "title": "दर्शकों को कैसी लगी नानी की एक्शन ड्रामा फिल्म? सोशल मीडिया पर दिया ऐसा रिएक्शन",
+      "url": "https://www.amarujala.com/entertainment/the-paradise-x-review-netizens-reaction-on-nani-mohan-babu-action-drama-movie-directed-by-srikanth-odela-2026-09-24",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-09-24T06:27:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/samajavatha-ratha_21e39c46a608d95fcb31a0ce5d1a4baa.jpeg?w=1200&dpr=1.0",
-      "summary": "सपा अध्यक्ष अखिलेश यादव का समाजवादी रथ बृहस्पतिवार को राजधानी लखनऊ से रायबरेली के लिए निकला। सपा मुखिया अखिलेश यादव का समाजवादी रथ लखनऊ से रायबरेली के लिए रवाना, लिखा- जो पीड़ित, वो पीडीए। सपा अध्यक्ष अखिलेश यादव का समाजवादी रथ बृहस्पतिवार को राजधानी लखनऊ से चलकर रायबरेली पहुंच गया है। सपा मुखिया अखिलेश यादव का समाजवादी रथ लखनऊ से चलकर रायबरेली पहुंचा, लिखा- जो पीड़ित, वो पीडीए।",
+      "published_at": "2026-09-24T06:28:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/tha-paradaija_2448991ccb4280ed10823c608233dd26.jpeg?w=1200&dpr=1.0",
+      "summary": "The Paradise X Review: श्रीकांत ओडेला के निर्देशन में बनी एक्शन ड्रामा फिल्म 'द पैराडाइज' आज 24 सितंबर को रिलीज हो गई है। इसे दर्शकों से कैसी प्रतिक्रिया मिल रही है? जानिए दर्शकों को कैसी लगी नानी की एक्शन ड्रामा फिल्म? सोशल मीडिया पर दिया ऐसा रिएक्शन।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सपा मुखिया अखिलेश यादव का समाजवादी रथ लखनऊ से चलकर रायबरेली पहुंचा, लिखा- जो पीड़ित, वो पीडीए",
-          "summary": "सपा अध्यक्ष अखिलेश यादव का समाजवादी रथ बृहस्पतिवार को राजधानी लखनऊ से रायबरेली के लिए निकला। सपा मुखिया अखिलेश यादव का समाजवादी रथ लखनऊ से रायबरेली के लिए रवाना, लिखा- जो पीड़ित, वो पीडीए। सपा अध्यक्ष अखिलेश यादव का समाजवादी रथ बृहस्पतिवार को राजधानी लखनऊ से चलकर रायबरेली पहुंच गया है। सपा मुखिया अखिलेश यादव का समाजवादी रथ लखनऊ से चलकर रायबरेली पहुंचा, लिखा- जो पीड़ित, वो पीडीए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आईफोन 18 प्रो को धूल चटाने आया मोटोरोला सिग्नेचर 27: 200MP कैमरा और 2nm चिपसेट से लैस, कितनी है",
-      "url": "https://www.amarujala.com/technology/tech-diary/motorola-signature-27-launch-snapdragon-8-elite-gen-6-200mp-camera-features-2026-09-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-24T06:27:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/motorola-signature-27-unveiled_4bbc0b87b3a638689bcf32ab11dc104b.jpeg",
-      "summary": "मोटोरोला ने क्वालकॉम स्नैपड्रैगन 8 एलीट जेन 6 प्रोसेसर के साथ अपना नया फ्लैगशिप फोन Signature 27 पेश कर दिया है। 2nm चिपसेट, 200MP कैमरा और गूगल जेमिनी AI सपोर्ट वाले इस फोन ने आईफोन 18 प्रो को सीधे चुनौती दी है। आईफोन 18 प्रो को धूल चटाने आया मोटोरोला सिग्नेचर 27: 200MP कैमरा और 2nm चिपसेट से लैस, कितनी है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आईफोन 18 प्रो को धूल चटाने आया मोटोरोला सिग्नेचर 27: 200MP कैमरा और 2nm चिपसेट से लैस, कितनी है",
-          "summary": "मोटोरोला ने क्वालकॉम स्नैपड्रैगन 8 एलीट जेन 6 प्रोसेसर के साथ अपना नया फ्लैगशिप फोन Signature 27 पेश कर दिया है। 2nm चिपसेट, 200MP कैमरा और गूगल जेमिनी AI सपोर्ट वाले इस फोन ने आईफोन 18 प्रो को सीधे चुनौती दी है। आईफोन 18 प्रो को धूल चटाने आया मोटोरोला सिग्नेचर 27: 200MP कैमरा और 2nm चिपसेट से लैस, कितनी है।",
+          "title": "दर्शकों को कैसी लगी नानी की एक्शन ड्रामा फिल्म? सोशल मीडिया पर दिया ऐसा रिएक्शन",
+          "summary": "The Paradise X Review: श्रीकांत ओडेला के निर्देशन में बनी एक्शन ड्रामा फिल्म 'द पैराडाइज' आज 24 सितंबर को रिलीज हो गई है। इसे दर्शकों से कैसी प्रतिक्रिया मिल रही है? जानिए दर्शकों को कैसी लगी नानी की एक्शन ड्रामा फिल्म? सोशल मीडिया पर दिया ऐसा रिएक्शन।",
           "region": "दुनिया"
         }
       }
@@ -620,49 +620,49 @@
       "sources": [],
       "published_at": "2026-09-24T06:26:52+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/donald-trump-un-speech-fact-check-india-pakistan-war-iran-war-republican-revolt-america-midterm-election-2026-09-1a4167c4b06b728ef59264d5e4eea8ad-1200x800.jpg",
-      "summary": "Donald Trump News: अमेरिकी फेडरल जज ने CNN, MS NOW और Politico के पत्रकारों पर लगाए गए व्हाइट हाउस बैन को पलट दिया है. जज टिम केली ने तीनों मीडिया संस्थानों के प्रेस पास तुरंत बहाल करने का आदेश दिया और 14 दिनों तक बैन लागू करने से रोक दिया.",
+      "summary": "Donald Trump News: अमेरिकी फेडरल जज ने CNN, MS NOW और Politico के पत्रकारों पर लगाए गए व्हाइट हाउस बैन को पलट दिया है. जज टिम केली ने तीनों मीडिया संस्थानों के प्रेस पास तुरंत बहाल करने का आदेश दिया और 14 दिनों तक बैन लागू करने से रोक दिया. ट्रंप प्रशासन ने राष्ट्रीय सुरक्षा का हवाला देकर प्रतिबंध का बचाव किया था, लेकिन जज ने कहा कि रिकॉर्ड में ऐसा तथ्यात्मक आधार नहीं है, जिससे बैन को राष्ट्रीय सु।",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "डोनाल्ड ट्रंप को बड़ा झटका, जज ने मीडिया बैन पर लगाई रोक, एक्सेस बहाल करने का आदेश",
-          "summary": "Donald Trump News: अमेरिकी फेडरल जज ने CNN, MS NOW और Politico के पत्रकारों पर लगाए गए व्हाइट हाउस बैन को पलट दिया है. जज टिम केली ने तीनों मीडिया संस्थानों के प्रेस पास तुरंत बहाल करने का आदेश दिया और 14 दिनों तक बैन लागू करने से रोक दिया.",
+          "summary": "Donald Trump News: अमेरिकी फेडरल जज ने CNN, MS NOW और Politico के पत्रकारों पर लगाए गए व्हाइट हाउस बैन को पलट दिया है. जज टिम केली ने तीनों मीडिया संस्थानों के प्रेस पास तुरंत बहाल करने का आदेश दिया और 14 दिनों तक बैन लागू करने से रोक दिया. ट्रंप प्रशासन ने राष्ट्रीय सुरक्षा का हवाला देकर प्रतिबंध का बचाव किया था, लेकिन जज ने कहा कि रिकॉर्ड में ऐसा तथ्यात्मक आधार नहीं है, जिससे बैन को राष्ट्रीय सु।",
           "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "जख्मी हाथ के साथ गाड़ी चलाते दिखे रणबीर, भंसाली की फिल्म का पहला पोस्टर रिलीज; कब आएगी फिल्म?",
-      "url": "https://www.amarujala.com/entertainment/ranbir-kapoor-first-look-from-sanjay-leela-bhansali-love-and-war-released-alia-bhatt-vicky-kaushal-2026-09-24",
-      "source": "Amar Ujala Breaking",
+      "title": "CEC ज्ञानेश कुमार पर SC की अवमानना केस चलाने की मांग, क्या है दलील?",
+      "url": "https://www.abplive.com/news/india/gyanesh-kumar-sc-contempt-proceedings-lawyer-brajesh-singh-seeks-ag-nod-over-3193074",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-09-24T06:25:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/lva-eda-vara-falma_30ddf2c3731637f52727013fe0f028d2.jpeg?w=1200&dpr=1.0",
-      "summary": "संजय लीला भंसाली की अगली फिल्म ‘लव एंड वॉर’ का पोस्टर रिलीज हो चुका है। फिल्म के पहले लुक में रणबीर कपूर की झलक सामने आई है। जख्मी हाथ के साथ गाड़ी चलाते दिखे रणबीर, भंसाली की फिल्म का पहला पोस्टर रिलीज; कब आएगी फिल्म?",
+      "published_at": "2026-09-24T06:04:06+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/c48d59133fde71b0a92c6aa80e97d5371790227337150124_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "मुख्य चुनाव आयुक्त (CEC) ज्ञानेश कुमार के खिलाफ सुप्रीम कोर्ट की अवमानना का मुकदमा चलाने की मांग. एक वकील ने अटॉर्नी जनरल आर. वेंकटरमणि को चिट्ठी लिख कर अनुमति मांगी है. वकील ब्रजेश सिंह का कहना है कि सुप्रीम कोर्ट ने 1995 में दिए टी एन शेषन मामले के फैसले में चुनाव आयोग में 3 आयुक्तों की मौजूदगी को सही ठहराया था.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जख्मी हाथ के साथ गाड़ी चलाते दिखे रणबीर, भंसाली की फिल्म का पहला पोस्टर रिलीज; कब आएगी फिल्म?",
-          "summary": "संजय लीला भंसाली की अगली फिल्म ‘लव एंड वॉर’ का पोस्टर रिलीज हो चुका है। फिल्म के पहले लुक में रणबीर कपूर की झलक सामने आई है। जख्मी हाथ के साथ गाड़ी चलाते दिखे रणबीर, भंसाली की फिल्म का पहला पोस्टर रिलीज; कब आएगी फिल्म?",
+          "title": "CEC ज्ञानेश कुमार पर SC की अवमानना केस चलाने की मांग, क्या है दलील?",
+          "summary": "मुख्य चुनाव आयुक्त (CEC) ज्ञानेश कुमार के खिलाफ सुप्रीम कोर्ट की अवमानना का मुकदमा चलाने की मांग. एक वकील ने अटॉर्नी जनरल आर. वेंकटरमणि को चिट्ठी लिख कर अनुमति मांगी है. वकील ब्रजेश सिंह का कहना है कि सुप्रीम कोर्ट ने 1995 में दिए टी एन शेषन मामले के फैसले में चुनाव आयोग में 3 आयुक्तों की मौजूदगी को सही ठहराया था.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "सिस्टम हैक कर केंद्र के बाहर से कंट्रोल करता था कंप्यूटर, अंदर होता था ऑनलाइन एग्जाम",
-      "url": "https://www.amarujala.com/delhi-ncr/noida/devil-mastermind-behind-ssc-gd-exam-hacking-arrested-from-delhi-2026-09-24",
-      "source": "Amar Ujala Breaking",
+      "title": "पिछले साल लेह में हुई हिंसा के 20 आपराधिक मामले होंगे वापस; LG ने किया ऐलान",
+      "url": "https://www.abplive.com/news/india/ladakh-lg-announces-withdrawal-of-20-criminal-cases-related-to-the-violence-that-took-place-in-leh-last-year-ann-3193038",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-09-24T06:17:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/masataramaida-hakara-garafatara_fba050b37cf11cd82e1e933bdd5173ca.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश एसटीएफ की नोएडा इकाई ने एसएससी जीडी परीक्षा में धांधली करने वाले सॉल्वर गिरोह के मुख्य सरगना को पकड़ा है। सिस्टम हैक कर केंद्र के बाहर से कंट्रोल करता था कंप्यूटर, अंदर होता था ऑनलाइन एग्जाम।",
+      "published_at": "2026-09-24T05:55:29+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/6c3c16a79fc0c6e94a6a24e17a4c61a017902261970961484_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "लद्दाख के उपराज्यपाल विनय कुमार सक्सेना ने पिछले साल 24 सितंबर को लेह में हुई हिंसा के सिलसिले में 20 लोगों पर दर्ज आपराधिक मामले वापस लेने की घोषणा की है. यह फैसला घटना की पहली बरसी से ठीक पहले लिया गया है, जिसे लद्दाख के लोग नए मार्च और विरोध प्रदर्शनों के साथ मना रहे हैं.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सिस्टम हैक कर केंद्र के बाहर से कंट्रोल करता था कंप्यूटर, अंदर होता था ऑनलाइन एग्जाम",
-          "summary": "उत्तर प्रदेश एसटीएफ की नोएडा इकाई ने एसएससी जीडी परीक्षा में धांधली करने वाले सॉल्वर गिरोह के मुख्य सरगना को पकड़ा है। सिस्टम हैक कर केंद्र के बाहर से कंट्रोल करता था कंप्यूटर, अंदर होता था ऑनलाइन एग्जाम।",
+          "title": "पिछले साल लेह में हुई हिंसा के 20 आपराधिक मामले होंगे वापस; LG ने किया ऐलान",
+          "summary": "लद्दाख के उपराज्यपाल विनय कुमार सक्सेना ने पिछले साल 24 सितंबर को लेह में हुई हिंसा के सिलसिले में 20 लोगों पर दर्ज आपराधिक मामले वापस लेने की घोषणा की है. यह फैसला घटना की पहली बरसी से ठीक पहले लिया गया है, जिसे लद्दाख के लोग नए मार्च और विरोध प्रदर्शनों के साथ मना रहे हैं.",
           "region": "दुनिया"
         }
       }
@@ -686,20 +686,20 @@
       }
     },
     {
-      "title": "बाबर को लेकर वसीम अकरम के 'चने बेचने' वाले बयान पर बवाल; किसने की आलोचना?",
-      "url": "https://www.amarujala.com/cricket/wasim-akram-questions-babar-azam-s-captaincy-after-pakistan-s-3-0-in-england-tanveer-ahmed-reply-2026-09-24",
-      "source": "Amar Ujala Breaking",
+      "title": "आईआईटी बॉम्बे छात्र साहिल वाकोडे की मौत पर राहुल गांधी ने परिवार से की बात, जानें क्या कहा?",
+      "url": "https://www.abplive.com/news/india/congress-leader-rahul-gandhi-sahil-wakode-iit-bombay-student-death-mumbai-crime-branch-3193066",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-09-24T05:46:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/babar-azam-wasim-akram-pakistan-cricket-pakistan-vs-england-england-test-series-pakistan-3-0-lo_64aa2ebac1062f06f2038d59d1ff7a67.jpeg?w=1200&dpr=1.0",
-      "summary": "इंग्लैंड के खिलाफ 0-3 टेस्ट सीरीज हारने के बाद पाकिस्तान क्रिकेट में नेतृत्व को लेकर सवाल उठ रहे हैं। वसीम अकरम ने बाबर आजम के उस बयान पर निशाना साधा जिसमें उन्होंने पीसीबी के बड़े बदलावों की जानकारी होने से इनकार किया था। बाबर को लेकर वसीम अकरम के 'चने बेचने' वाले बयान पर बवाल; किसने की आलोचना?",
-      "region": "Europe & Russia",
+      "published_at": "2026-09-24T05:48:10+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/2c13aa4c81f75bb398c2bc48ecb1eb0d1790228550304425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने आईआईटी बॉम्बे के छात्र साहिल वाकोडे के परिजनों से फोन पर बातचीत कर उन्हें समर्थन का भरोसा दिया है. साहिल की पिछले सप्ताह आईआईटी बॉम्बे के पवई परिसर में कथित आत्महत्या के बाद परिवार ने संस्थान के प्रशासन और कुछ अधिकारियों पर गंभीर आरोप लगाए हैं. मामले की जांच फिलहाल मुंबई पुलिस की क्राइम ब्रांच कर रही है.",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बाबर को लेकर वसीम अकरम के 'चने बेचने' वाले बयान पर बवाल; किसने की आलोचना?",
-          "summary": "इंग्लैंड के खिलाफ 0-3 टेस्ट सीरीज हारने के बाद पाकिस्तान क्रिकेट में नेतृत्व को लेकर सवाल उठ रहे हैं। वसीम अकरम ने बाबर आजम के उस बयान पर निशाना साधा जिसमें उन्होंने पीसीबी के बड़े बदलावों की जानकारी होने से इनकार किया था। बाबर को लेकर वसीम अकरम के 'चने बेचने' वाले बयान पर बवाल; किसने की आलोचना?",
-          "region": "यूरोप और रूस"
+          "title": "आईआईटी बॉम्बे छात्र साहिल वाकोडे की मौत पर राहुल गांधी ने परिवार से की बात, जानें क्या कहा?",
+          "summary": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने आईआईटी बॉम्बे के छात्र साहिल वाकोडे के परिजनों से फोन पर बातचीत कर उन्हें समर्थन का भरोसा दिया है. साहिल की पिछले सप्ताह आईआईटी बॉम्बे के पवई परिसर में कथित आत्महत्या के बाद परिवार ने संस्थान के प्रशासन और कुछ अधिकारियों पर गंभीर आरोप लगाए हैं. मामले की जांच फिलहाल मुंबई पुलिस की क्राइम ब्रांच कर रही है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -740,19 +740,19 @@
       }
     },
     {
-      "title": "दरोगा, सिपाही और सीआरपीएफ जवानों ने की सामूहिक हैवानियत, विधायक के फॉर्म हाउस में दरिंदगी की पूरी",
-      "url": "https://www.amarujala.com/uttar-pradesh/moradabad/girl-mass-harassment-at-mla-farmhouse-in-amroha-crpf-inspector-constable-sub-inspector-and-constable-arrest-2026-09-24",
-      "source": "Amar Ujala Breaking",
+      "title": "नोएडा, हैदराबाद और पुणे...3 बसों में अग्निकांड, कई की मौतें, PM मोदी ने जताया दु:ख",
+      "url": "https://www.abplive.com/news/india/greater-noida-bus-fire-pm-modi-and-president-droupadi-murmu-saddened-announce-compensation-3193047",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-09-24T05:00:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/girl-mass-harassment_4ca5909f7d32ab912718dbc2ce99a187.jpeg?w=1200&dpr=1.0",
-      "summary": "अमरोहा के हसनपुर कोतवाली क्षेत्र में झूलपुरी स्थित खानपुर (उत्तराखंड) के विधायक उमेश शर्मा के फार्म हाउस पर हरियाणा की युवती से सामूहिक दुष्कर्म का सनसनीखेज मामला सामने आया है। दारोगा, सिपाही और सीआरपीएफ जवानों ने की सामूहिक हैवानियत, विधायक के फॉर्म हाउस में दरिंदगी की पूरी। दरोगा, सिपाही और सीआरपीएफ जवानों ने की सामूहिक हैवानियत, विधायक के फॉर्म हाउस में दरिंदगी की पूरी।",
+      "published_at": "2026-09-24T05:07:25+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/bb2770537f28ce190959fa703e6c4a271790228006715355_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "उत्तर प्रदेश के ग्रेटर नोएडा में यमुना एक्सप्रेसवे पर बुधवार रात को बड़ा हादसा हो गया. पर्यटकों से भरी बस में आग लग गई. आग लगते ही बस में अफरा-तफरी मच गई. इस दुर्घटना में 9 लोग जिंदा जल गए हैं. इस दुर्घटना पर राष्ट्रपति द्रौपदी मुर्मू ने शोक प्रकट किया है. राष्ट्रपति मुर्मू ने लिखा, उत्तर प्रदेश में यमुना एक्सप्रेस-वे पर एक बस में आग लगने से लोगों की मृत्यु का समाचार अत्यंत पीड़ादायक है.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दरोगा, सिपाही और सीआरपीएफ जवानों ने की सामूहिक हैवानियत, विधायक के फॉर्म हाउस में दरिंदगी की पूरी",
-          "summary": "अमरोहा के हसनपुर कोतवाली क्षेत्र में झूलपुरी स्थित खानपुर (उत्तराखंड) के विधायक उमेश शर्मा के फार्म हाउस पर हरियाणा की युवती से सामूहिक दुष्कर्म का सनसनीखेज मामला सामने आया है। दारोगा, सिपाही और सीआरपीएफ जवानों ने की सामूहिक हैवानियत, विधायक के फॉर्म हाउस में दरिंदगी की पूरी। दरोगा, सिपाही और सीआरपीएफ जवानों ने की सामूहिक हैवानियत, विधायक के फॉर्म हाउस में दरिंदगी की पूरी।",
+          "title": "नोएडा, हैदराबाद और पुणे...3 बसों में अग्निकांड, कई की मौतें, PM मोदी ने जताया दु:ख",
+          "summary": "उत्तर प्रदेश के ग्रेटर नोएडा में यमुना एक्सप्रेसवे पर बुधवार रात को बड़ा हादसा हो गया. पर्यटकों से भरी बस में आग लग गई. आग लगते ही बस में अफरा-तफरी मच गई. इस दुर्घटना में 9 लोग जिंदा जल गए हैं. इस दुर्घटना पर राष्ट्रपति द्रौपदी मुर्मू ने शोक प्रकट किया है. राष्ट्रपति मुर्मू ने लिखा, उत्तर प्रदेश में यमुना एक्सप्रेस-वे पर एक बस में आग लगने से लोगों की मृत्यु का समाचार अत्यंत पीड़ादायक है.",
           "region": "दुनिया"
         }
       }
