@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-24T13:13:52.812079+00:00",
+  "generated_at": "2026-09-24T14:15:49.129903+00:00",
   "article_count": 50,
-  "total_unique_count": 262,
+  "total_unique_count": 261,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with UN General Assembly debate Day 2. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर अमेरिका की अगुवाई है, ट्रंप प्रशासन ने ‘बर्थ टूरिज्म’ पर कसा शिकंजा, नए वीजा प्रतिबंध हुए लागू, परिवार भी आ सकते है दायरे मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Americas leads the board this hour with World leaders tackle sea level rise, a stark marker of climate change. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, पाकिस्तानी सेना ने आतंकी ठिकाने पर मारा छापा, 8 आतंकियों का किया खात्मा मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "World leaders tackle sea level rise, a stark marker of climate change",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168423",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-09-24T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-04-2026-UNDP-Tuvalu-06.jpg/image770x420cropped.jpg",
+      "summary": "Sea level rise is among the most visible consequences of global warming, but for some countries, it is an imminent existential threat. World leaders meet Thursday to adopt a new declaration and debate the best ways to strengthen international cooperation and support vulnerable low-lying nations most at risk. World leaders tackle sea level rise, a stark marker of climate change.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "UN General Assembly debate Day 2",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168421",
@@ -296,16 +308,76 @@
       "translations": {}
     },
     {
-      "title": "Time to recognize the Houthis as Yemen’s real government",
-      "url": "https://asiatimes.com/2026/09/time-to-recognize-the-houthis-as-yemens-real-government/",
-      "source": "Asia Times",
+      "title": "पाकिस्तानी सेना ने आतंकी ठिकाने पर मारा छापा, 8 आतंकियों का किया खात्मा",
+      "url": "https://www.patrika.com/world-news/pakistan-army-killed-8-terrorists-in-khyber-pakhtunkhwa-20933530",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-09-23T05:35:46+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/Yemen-Protest-Houthis.jpg",
-      "summary": "The Trump administration came perilously close to launching another bombing campaign against Yemen this weekend. According to a September 20 New York Times report, US commanders had approved their targets, American troops were loading bombs onto warplanes, and an attack on Yemen’s Ansar Allah forces was about to begin when President Donald Trump abruptly reversed course.",
+      "published_at": "2026-09-24T14:11:48+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/pakistan-soldiers.webp",
+      "summary": "पाकिस्तान (Pakistan) में आतंकवाद (Terrorism) के खिलाफ सेना की जंग जारी है। खैबर पख्तूनख्वा (Khyber Pakhtunkhwa) प्रांत, जिसकी बॉर्डर अफगानिस्तान (Afghanistan) से लगती है, आतंकवाद से सबसे ज़्यादा प्रभावित पाकिस्तानी प्रांत हैं। इस प्रांत में बड़ी संख्या में आतंकी हैं, जो समय-समय पर हमलों को अंजाम देते हैं। पाकिस्तानी सेना भी इनके खिलाफ पूरी तरह से एक्टिव है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तानी सेना ने आतंकी ठिकाने पर मारा छापा, 8 आतंकियों का किया खात्मा",
+          "summary": "पाकिस्तान (Pakistan) में आतंकवाद (Terrorism) के खिलाफ सेना की जंग जारी है। खैबर पख्तूनख्वा (Khyber Pakhtunkhwa) प्रांत, जिसकी बॉर्डर अफगानिस्तान (Afghanistan) से लगती है, आतंकवाद से सबसे ज़्यादा प्रभावित पाकिस्तानी प्रांत हैं। इस प्रांत में बड़ी संख्या में आतंकी हैं, जो समय-समय पर हमलों को अंजाम देते हैं। पाकिस्तानी सेना भी इनके खिलाफ पूरी तरह से एक्टिव है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अब ट्रंप के 'कर्ण' को नहीं छोड़ेगा ईरान, आसमान में होने वाला है विस्फोट! फ्लाइट बैन में बड़ा ट्विस्ट",
+      "url": "https://hindi.news18.com/news/knowledge/know-why-iran-threatening-regional-airports-amid-aviation-threat-from-usa-trump-10861741.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-24T13:51:34+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Untitled-design-2026-09-24T191605.281-2026-09-f3d4ff1d0dd607a116ce9f90ea226b63-1200x800.jpg",
+      "summary": "पश्चिम एशिया में तनाव एक बार फिर चरम पर पहुंच रहा है. एक तरफ अमेरिका की तरफ से मिडिल ईस्ट में देशों पर ईरान में उड़ान संबंधी दबाव बनाया जा रहा है, जबकि दूसरी तरफ ईरान ने नतीजा भुगतने की साफ चेतावनी दे डाली है. दोनों देशों के बीच एयरपोर्ट और एविएशन के लेवल पर आई इस लड़ाई के क्या मायने हैं?",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अब ट्रंप के 'कर्ण' को नहीं छोड़ेगा ईरान, आसमान में होने वाला है विस्फोट! फ्लाइट बैन में बड़ा ट्विस्ट",
+          "summary": "पश्चिम एशिया में तनाव एक बार फिर चरम पर पहुंच रहा है. एक तरफ अमेरिका की तरफ से मिडिल ईस्ट में देशों पर ईरान में उड़ान संबंधी दबाव बनाया जा रहा है, जबकि दूसरी तरफ ईरान ने नतीजा भुगतने की साफ चेतावनी दे डाली है. दोनों देशों के बीच एयरपोर्ट और एविएशन के लेवल पर आई इस लड़ाई के क्या मायने हैं?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हूती विद्रोहियों ने दागीं 6 बैलिस्टिक मिसाइलें, सऊदी अरब समर्थित यमन की सेना ने हवा में ही किया तबाह",
+      "url": "https://www.patrika.com/world-news/houthis-fired-6-ballistic-missiles-saudi-arabia-backed-yemen-forces-destroyed-them-20933333",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-24T13:46:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/houthis-missile-attack.webp",
+      "summary": "यमन (Yemen) के हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) के बीच स्थिति काफी तनावपूर्ण हो गई है। दोनों पक्षों के बीच हालात काफी गंभीर हो चुके हैं। दोनों पक्षों की तरफ से एक-दूसरे पर हमले किए जा रहे हैं। इसी बीच आज हूती विद्रोहियों ने एक बार फिर मिसाइल अटैक किया! हूतियों ने 6 बैलिस्टिक मिसाइलें दागीं, लेकिन उनका यह हमका नाकाम हो गया!",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हूती विद्रोहियों ने दागीं 6 बैलिस्टिक मिसाइलें, सऊदी अरब समर्थित यमन की सेना ने हवा में ही किया तबाह",
+          "summary": "यमन (Yemen) के हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) के बीच स्थिति काफी तनावपूर्ण हो गई है। दोनों पक्षों के बीच हालात काफी गंभीर हो चुके हैं। दोनों पक्षों की तरफ से एक-दूसरे पर हमले किए जा रहे हैं। इसी बीच आज हूती विद्रोहियों ने एक बार फिर मिसाइल अटैक किया! हूतियों ने 6 बैलिस्टिक मिसाइलें दागीं, लेकिन उनका यह हमका नाकाम हो गया!",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'मैडम शी खूबसूरत हैं’, ट्रंप ने चीनी राष्ट्रपति की पत्नी पर किया ऐसा कमेंट, जिनपिंग की फिटनेस पर",
+      "url": "https://hindi.news18.com/world/america-donald-trump-comment-on-xi-jinping-wife-peng-liyuan-beautiful-america-china-relations-10861724.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-24T13:38:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Trump-Comment-On-Xi-Wife-2026-09-7429b013b83a7fadc64e1cdb2dcd567e-1200x800.jpg",
+      "summary": "चीनी राष्ट्रपति शी जिनपिंग का स्वागत राष्ट्रपति डोनाल्ड ट्रंप ने नियम-कायदे तोड़कर किया है. एयरपोर्ट से लौटने के बाद ट्रंप ने सोशल मीडिया पर एक पोस्ट किया. इसमें उन्होंने जिनपिंग की फिटनेस की जमकर तारीफ की और उनकी पत्नी पेंग लियुआन को बेहद 'खूबसूरत' बताया. रेड कार्पेट हो या फाइटर जेट्स का शो, ट्रंप प्रशासन जिनपिंग को खुश करने में कोई कसर नहीं छोड़ रहा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मैडम शी खूबसूरत हैं’, ट्रंप ने चीनी राष्ट्रपति की पत्नी पर किया ऐसा कमेंट, जिनपिंग की फिटनेस पर",
+          "summary": "चीनी राष्ट्रपति शी जिनपिंग का स्वागत राष्ट्रपति डोनाल्ड ट्रंप ने नियम-कायदे तोड़कर किया है. एयरपोर्ट से लौटने के बाद ट्रंप ने सोशल मीडिया पर एक पोस्ट किया. इसमें उन्होंने जिनपिंग की फिटनेस की जमकर तारीफ की और उनकी पत्नी पेंग लियुआन को बेहद 'खूबसूरत' बताया. रेड कार्पेट हो या फाइटर जेट्स का शो, ट्रंप प्रशासन जिनपिंग को खुश करने में कोई कसर नहीं छोड़ रहा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "ट्रंप प्रशासन ने ‘बर्थ टूरिज्म’ पर कसा शिकंजा, नए वीजा प्रतिबंध हुए लागू, परिवार भी आ सकते है दायरे",
@@ -682,78 +754,6 @@
           "title": "मतदाता सूची के केंद्रीकरण पर चुनाव आयोग का जवाब, कहा- 'ERO के अधिकार बरकरार'",
           "summary": "मतदाता सूची तैयार करने की प्रक्रिया के केंद्रीकरण और निर्वाचक रजिस्ट्रेशन अधिकारियों यानी ईआरओ की भूमिका को लेकर उठ रहे सवालों के बीच चुनाव आयोग के सूत्रों ने स्थिति स्पष्ट की है. सूत्रों के मुताबिक, हर राज्य का चुनावी डेटाबेस पहले की तरह ही विकेंद्रीकृत है और निर्वाचक रजिस्ट्रेशन अधिकारियों (ईआरओ) के सभी वैधानिक और प्रक्रियात्मक अधिकार बरकरार हैं. आयोग के सूत्रों ने कहा कि मतदाता सूची तैयार करने।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'कब तक होगा फैसला, समय बताएं', TMC के मामले पर चुनाव आयोग से बोला सुप्रीम कोर्ट",
-      "url": "https://www.abplive.com/news/india/supreme-court-mamata-banerjee-plea-ec-to-give-time-frame-to-take-decision-tmc-name-symbol-3193102",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-24T06:51:02+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/08f1e522d10de3e4b6290159d261a8c01790233036813344_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सुप्रीम कोर्ट ने निर्वाचन आयोग से गुरुवार (24 सितंबर) को तृणमूल कांग्रेस के नाम और चुनाव चिह्न को लेकर जारी विवाद पर फैसला लेने के लिए समय सीमा बताने को कहा है. आयोग ने टीएमसी के चुनाव चिन्ह और नाम को फ्रीज कर दिया था. इस मामले को लेकर पश्चिम बंगाल की पूर्व मुख्यमंत्री और टीएमसी प्रमुख ममता बनर्जी सुप्रीम कोर्ट पहुंच गई थीं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'कब तक होगा फैसला, समय बताएं', TMC के मामले पर चुनाव आयोग से बोला सुप्रीम कोर्ट",
-          "summary": "सुप्रीम कोर्ट ने निर्वाचन आयोग से गुरुवार (24 सितंबर) को तृणमूल कांग्रेस के नाम और चुनाव चिह्न को लेकर जारी विवाद पर फैसला लेने के लिए समय सीमा बताने को कहा है. आयोग ने टीएमसी के चुनाव चिन्ह और नाम को फ्रीज कर दिया था. इस मामले को लेकर पश्चिम बंगाल की पूर्व मुख्यमंत्री और टीएमसी प्रमुख ममता बनर्जी सुप्रीम कोर्ट पहुंच गई थीं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आतंकवाद के खिलाफ जीरो टॉलरेंस, भारत ने दुनिया के सामने रखा अपना एजेंडा, उठाए अहम मुद्दे",
-      "url": "https://www.patrika.com/world-news/india-un-counter-terrorism-climate-finance-20931814",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-24T06:42:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/UN-INDIA-STAND-1.webp",
-      "summary": "India Foreign Policy Latest Update: संयुक्त राष्ट्र में भारत ने आतंकवाद और जलवायु परिवर्तन को लेकर मुदा उठाया। विदेश मंत्रालय के सचिव सुधाकर दलेला ने कई अहम बैठकों में भारत का पक्ष रखा। उन्होंने आतंकवाद के खिलाफ सख्त रुख दोहराया। साथ ही विकासशील देशों के लिए आसान और भरोसेमंद क्लाइमेट फाइनेंस की मांग की। आतंकवाद के खिलाफ जीरो टॉलरेंस, भारत ने दुनिया के सामने रखा अपना एजेंडा, उठाए अहम मुद्दे।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आतंकवाद के खिलाफ जीरो टॉलरेंस, भारत ने दुनिया के सामने रखा अपना एजेंडा, उठाए अहम मुद्दे",
-          "summary": "India Foreign Policy Latest Update: संयुक्त राष्ट्र में भारत ने आतंकवाद और जलवायु परिवर्तन को लेकर मुदा उठाया। विदेश मंत्रालय के सचिव सुधाकर दलेला ने कई अहम बैठकों में भारत का पक्ष रखा। उन्होंने आतंकवाद के खिलाफ सख्त रुख दोहराया। साथ ही विकासशील देशों के लिए आसान और भरोसेमंद क्लाइमेट फाइनेंस की मांग की। आतंकवाद के खिलाफ जीरो टॉलरेंस, भारत ने दुनिया के सामने रखा अपना एजेंडा, उठाए अहम मुद्दे।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "व्हाइट हाउस से मीडिया बैन पर कोर्ट ने लगाई रोक, अमेरिकी प्रशासन को क्या आदेश दिया?",
-      "url": "https://www.amarujala.com/india-news/trump-administration-faces-court-setback-judge-blocks-white-house-media-ban-orders-access-restored-2026-09-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-09-24T06:31:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/vahaita-hausa-ma-patarakara-ka-etara-rakana-tarapa-parashasana-ka-paugdha-bhara_9781c3b385f9f19bb2cfb275ac852651.jpeg?w=1200&dpr=1.0",
-      "summary": "डोनाल्ड ट्रंप को झटका: व्हाइट हाउस से मीडिया बैन पर कोर्ट ने लगाई रोक, अमेरिकी प्रशासन को क्या आदेश दिया?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "व्हाइट हाउस से मीडिया बैन पर कोर्ट ने लगाई रोक, अमेरिकी प्रशासन को क्या आदेश दिया?",
-          "summary": "डोनाल्ड ट्रंप को झटका: व्हाइट हाउस से मीडिया बैन पर कोर्ट ने लगाई रोक, अमेरिकी प्रशासन को क्या आदेश दिया?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप को बड़ा झटका, जज ने मीडिया बैन पर लगाई रोक, एक्सेस बहाल करने का आदेश",
-      "url": "https://hindi.news18.com/world/america-us-judge-blocks-donald-trump-white-house-ban-on-cnn-other-top-media-outlets-10860561.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-24T06:26:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/donald-trump-un-speech-fact-check-india-pakistan-war-iran-war-republican-revolt-america-midterm-election-2026-09-1a4167c4b06b728ef59264d5e4eea8ad-1200x800.jpg",
-      "summary": "Donald Trump News: अमेरिकी फेडरल जज ने CNN, MS NOW और Politico के पत्रकारों पर लगाए गए व्हाइट हाउस बैन को पलट दिया है. जज टिम केली ने तीनों मीडिया संस्थानों के प्रेस पास तुरंत बहाल करने का आदेश दिया और 14 दिनों तक बैन लागू करने से रोक दिया. ट्रंप प्रशासन ने राष्ट्रीय सुरक्षा का हवाला देकर प्रतिबंध का बचाव किया था, लेकिन जज ने कहा कि रिकॉर्ड में ऐसा तथ्यात्मक आधार नहीं है, जिससे बैन को राष्ट्रीय सु।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप को बड़ा झटका, जज ने मीडिया बैन पर लगाई रोक, एक्सेस बहाल करने का आदेश",
-          "summary": "Donald Trump News: अमेरिकी फेडरल जज ने CNN, MS NOW और Politico के पत्रकारों पर लगाए गए व्हाइट हाउस बैन को पलट दिया है. जज टिम केली ने तीनों मीडिया संस्थानों के प्रेस पास तुरंत बहाल करने का आदेश दिया और 14 दिनों तक बैन लागू करने से रोक दिया. ट्रंप प्रशासन ने राष्ट्रीय सुरक्षा का हवाला देकर प्रतिबंध का बचाव किया था, लेकिन जज ने कहा कि रिकॉर्ड में ऐसा तथ्यात्मक आधार नहीं है, जिससे बैन को राष्ट्रीय सु।",
-          "region": "अमेरिका"
         }
       }
     }
