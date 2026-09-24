@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T00:35:46.609422+00:00",
+  "generated_at": "2026-09-24T01:25:20.412186+00:00",
   "article_count": 50,
-  "total_unique_count": 258,
+  "total_unique_count": 257,
   "digest": {
-    "en": "Global / Multilateral leads the board this hour with ‘Guardian angel’ teacher made him feel seen as a child; hearts melt online as they reunite. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
+    "en": "Global / Multilateral leads the board this hour with ‘Guardian angel’ teacher made him feel seen as a child; hearts melt online as they reunite. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
     "hi": "इस घंटे बोर्ड पर अमेरिका की अगुवाई है, आखिर क्या है बर्थ टूरिज्म, क्यों इस पर शिकंजा कसने की तैयारी कर रहे राष्ट्रपति ट्रंप? मुख्य खबर है। साथ ही यूरोप और रूस से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
@@ -16,18 +16,6 @@
       "image_url": "https://dam.mediacorp.sg/image/upload/s--MiAbu-dO--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/23/otrd_textless_finding_ep4.00_17_10_14.still005.jpg?itok=jUX3dB8o",
       "summary": "A teacher’s kindness helped shape Dino Isaac’s life, while a former helper who raised Leticia Peh ended up sacrificing more than the girl imagined. Their reunions, featured in On The Red Dot, have struck a chord with viewers. Reunions with teacher and former helper stir emotions online. ‘Guardian angel’ teacher made him feel seen as a child; hearts melt online as they reunite.",
       "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "What Sumatra reveals about Indonesia’s recurring haze problem",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-haze-wildfires-sumatra-human-activity-crackdown-6403751",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-09-23T22:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--9dlqebM0--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/23/bxy_7891.jpg?itok=ujrnAUlq",
-      "summary": "Wildfires in Indonesia have caused transboundary haze and disrupted livelihoods in Sumatra. In the last of a three-part series, CNA looks at why the fires persist despite bans and crackdowns - and what it will take to stamp them out for good. Cheap to burn, costly to bear: What fuels Indonesia’s persistent cycle of fires and haze? What Sumatra reveals about Indonesia’s recurring haze problem.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -157,7 +145,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-09-23T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/31-08-2026-UNICEF-Sudan.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/23-09-2026-UN-Photo-Sam-Altman.jpg/image770x420cropped.jpg",
       "summary": "The Security Council has been briefed by some of the world's top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the world may be losing its grip on systems built to outthink us, Yoshua Bengi, a recipient of the prestigious Turing Award and one of the Godfathers of machine intelligence, said the dangers of AI beyond human control repr.",
       "region": "Global / Multilateral",
       "language": "en",
@@ -308,9 +296,21 @@
       "translations": {}
     },
     {
+      "title": "Trump, Zelenskyy Discuss Peace Negotiations, Potential Energy Cease-Fire",
+      "url": "https://www.rferl.org/a/trump-zelenskyy-un-ukraine-russia-war-negotations/33861351.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-09-22T23:38:54+00:00",
+      "image_url": "https://gdb.rferl.org/07b3cdde-7094-45a9-70b6-08df13a869ed_w1200_h630.jpg",
+      "summary": "On the sidelines of the UN General Assembly, US President Donald Trump met Ukrainian President Volodymyr Zelenskyy and said both sides want the war to end. US President Donald Trump met with Ukrainian President Volodymyr Zelenskyy on the sidelines of the UN General Assembly. Trump said he believes that both sides \"want to see the war end.\" Zelenskyy said Ukraine is pushing for an agreement with Russia on halting attacks on energy infrastructure.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "आखिर क्या है बर्थ टूरिज्म, क्यों इस पर शिकंजा कसने की तैयारी कर रहे राष्ट्रपति ट्रंप?",
       "url": "https://www.amarujala.com/world/what-is-birth-tourism-why-is-president-trump-preparing-to-crack-down-on-it-visa-rules-have-been-tightened-2026-09-24",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-09-24T07:21:24+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/amaraka-vathasha-matara-maraka-rabya_dbaa36f077906e9405e7460263fcdc7f.jpeg?w=1200&dpr=1.0",
@@ -326,63 +326,9 @@
       }
     },
     {
-      "title": "गंगा पूजन के साथ मुनि की रेती में रिवर राफ्टिंग का रोमांच शुरू, पर्यटन कारोबार को रफ्तार की उम्मीद",
-      "url": "https://www.amarujala.com/uttarakhand/rishikesh/the-thrill-of-river-rafting-kicks-off-in-muni-ki-reti-with-the-worship-of-the-river-ganga-2026-09-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-24T07:18:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/1_a17c281b8aff10c58840359be81a595b.jpeg?w=1200&dpr=1.0",
-      "summary": "मुनि की रेती क्षेत्र में बुधवार को गंगा की लहरों पर रोमांच का दौर शुरू हो गया। रिवर राफ्टिंग के नए सीजन का विधिवत शुभारंभ गंगा पूजन और वैदिक मंत्रोच्चार के साथ हुआ। गंगा पूजन के साथ मुनि की रेती में रिवर राफ्टिंग का रोमांच शुरू, पर्यटन कारोबार को रफ्तार की उम्मीद।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गंगा पूजन के साथ मुनि की रेती में रिवर राफ्टिंग का रोमांच शुरू, पर्यटन कारोबार को रफ्तार की उम्मीद",
-          "summary": "मुनि की रेती क्षेत्र में बुधवार को गंगा की लहरों पर रोमांच का दौर शुरू हो गया। रिवर राफ्टिंग के नए सीजन का विधिवत शुभारंभ गंगा पूजन और वैदिक मंत्रोच्चार के साथ हुआ। गंगा पूजन के साथ मुनि की रेती में रिवर राफ्टिंग का रोमांच शुरू, पर्यटन कारोबार को रफ्तार की उम्मीद।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मेरठ में एक्सिस बैंक की करेंसी चेस्ट से मिले 4.63 लाख के जाली नोट, मैनेजर ने कराई रिपोर्ट; जांच शुरू",
-      "url": "https://www.amarujala.com/uttar-pradesh/meerut/up-counterfeit-notes-worth-4-63-lakh-found-in-axis-bank-s-currency-chest-in-meerut-manager-reveals-2026-09-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-24T06:56:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/03/08/shahadal-ka-vaha-ekasasa-bka_26b5edb32adc5059c3fe54d0bd0cc62c.jpeg?w=1200&dpr=1.0",
-      "summary": "Meerut News: गंगानगर स्थित एक्सिस बैंक की करेंसी चेस्ट में एक दिसंबर 2024 से 31 दिसंबर 2025 तक की जांच में नकली नोट मिले। बैंक प्रबंधक ने एसएसपी को शिकायत दी, जिसके बाद सिविल लाइन थाने में रिपोर्ट दर्ज की गई। मेरठ में एक्सिस बैंक की करेंसी चेस्ट से मिले 4.63 लाख के जाली नोट, मैनेजर ने कराई रिपोर्ट; जांच शुरू।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मेरठ में एक्सिस बैंक की करेंसी चेस्ट से मिले 4.63 लाख के जाली नोट, मैनेजर ने कराई रिपोर्ट; जांच शुरू",
-          "summary": "Meerut News: गंगानगर स्थित एक्सिस बैंक की करेंसी चेस्ट में एक दिसंबर 2024 से 31 दिसंबर 2025 तक की जांच में नकली नोट मिले। बैंक प्रबंधक ने एसएसपी को शिकायत दी, जिसके बाद सिविल लाइन थाने में रिपोर्ट दर्ज की गई। मेरठ में एक्सिस बैंक की करेंसी चेस्ट से मिले 4.63 लाख के जाली नोट, मैनेजर ने कराई रिपोर्ट; जांच शुरू।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कठुआ विधायक का लापता बेटा दिल्ली में बहन के घर से मिला, पुलिस राहत में; नेताजी से न हो सका संपर्क",
-      "url": "https://www.amarujala.com/jammu-and-kashmir/kathua/kathua-mla-s-missing-son-found-at-sister-s-house-in-delhi-2026-09-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-24T06:47:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/1_6310adb9212800fdcb76de0290c2d091.jpeg?w=1200&dpr=1.0",
-      "summary": "हीरानगर क्षेत्र से लापता हुए विधायक के बेटे आदित्य की तलाश को लेकर मंगलवार रात तीन राज्यों जम्मू-कश्मीर, हरियाणा और पंजाब की पुलिस और सुरक्षा एजेंसियां हाई अलर्ट पर रहीं। कठुआ विधायक का लापता बेटा दिल्ली में बहन के घर से मिला, पुलिस राहत में; नेताजी से न हो सका संपर्क।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कठुआ विधायक का लापता बेटा दिल्ली में बहन के घर से मिला, पुलिस राहत में; नेताजी से न हो सका संपर्क",
-          "summary": "हीरानगर क्षेत्र से लापता हुए विधायक के बेटे आदित्य की तलाश को लेकर मंगलवार रात तीन राज्यों जम्मू-कश्मीर, हरियाणा और पंजाब की पुलिस और सुरक्षा एजेंसियां हाई अलर्ट पर रहीं। कठुआ विधायक का लापता बेटा दिल्ली में बहन के घर से मिला, पुलिस राहत में; नेताजी से न हो सका संपर्क।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "75% से ज्यादा सीटों के अनुमान के साथ यूनाइटेड रशिया भारी बहुमत की ओर, पुतिन क्या बोले?",
       "url": "https://www.amarujala.com/world/election-results-boost-putin-power-united-russia-heads-landslide-victory-indications-securing-over-75-seats-2026-09-24",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-09-24T06:42:13+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/rashhatarapata-valthamara-patana_2b00cf2380606771adf716ca8f1e0275.jpeg?w=1200&dpr=1.0",
@@ -398,19 +344,199 @@
       }
     },
     {
-      "title": "आज से मूल सीमा शुल्क में कटौती: खाद्य तेल सस्ता होने का अनुमान, केंद्र सरकार ने घटाया आयात शुल्क",
-      "url": "https://www.amarujala.com/business/business-diary/edible-oil-cost-reduce-import-duty-reduced-which-oil-can-be-cheaper-notification-in-detail-2026-09-23",
+      "title": "अमेरिका फर्स्ट पर फिर सवाल! ईरान और क्यूबा को लेकर सीनेटर वैन हॉलन का ट्रंप प्रशासन पर हमला",
+      "url": "https://www.patrika.com/world-news/chris-van-hollen-america-first-iran-cuba-20931279",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-24T01:23:45+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Chris-Van-Hollen.webp",
+      "summary": "Iran US conflict: अमेरिकी राजनीति में विदेशों में सैन्य कार्रवाई और घरेलू जरूरतों पर सरकारी खर्च को लेकर बहस एक बार फिर तेज हो गई है। डेमोक्रेटिक सीनेटर क्रिस वैन हॉलन ने ईरान और क्यूबा को लेकर अमेरिकी नीति पर तीखी आपत्ति जताते हुए पूछा है कि आखिर ‘America First’ का वादा कहां चला गया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका फर्स्ट पर फिर सवाल! ईरान और क्यूबा को लेकर सीनेटर वैन हॉलन का ट्रंप प्रशासन पर हमला",
+          "summary": "Iran US conflict: अमेरिकी राजनीति में विदेशों में सैन्य कार्रवाई और घरेलू जरूरतों पर सरकारी खर्च को लेकर बहस एक बार फिर तेज हो गई है। डेमोक्रेटिक सीनेटर क्रिस वैन हॉलन ने ईरान और क्यूबा को लेकर अमेरिकी नीति पर तीखी आपत्ति जताते हुए पूछा है कि आखिर ‘America First’ का वादा कहां चला गया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "वुशु के फाइनल में हारीं रोशिबिना, जीता रजत; रोइंग में सलमान-सतनाम ने जीता कांस्य",
+      "url": "https://www.amarujala.com/live/sports/asian-games-day-5-live-updates-india-schedule-medal-tally-shooting-boxing-hockey-results-news-in-hindi-2026-09-24",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-09-24T06:31:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/28/money_ab1c31282552cc7030247a0cfd72dede.png?w=1200&dpr=1.0",
-      "summary": "आज से मूल सीमा शुल्क में कटौती: खाद्य तेल सस्ता होने का अनुमान, केंद्र सरकार ने घटाया आयात शुल्क।",
+      "published_at": "2026-09-24T01:21:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/asian-games-2026-asian-games-september-25-schedule-india-asian-games-schedule-india-medal-events_4f4824defd4530dcf26d625f0323da45.jpeg?w=1200&dpr=1.0",
+      "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। एशियन गेम्स में भारत का पदक अभियान गुरुवार, 24 सितंबर को भी जारी रहेगा। रोइंग, वुशु, निशानेबाजी, कैनो स्प्रिंट, तैराकी और एथलेटिक्स में भारतीय खिलाड़ी चुनौती पेश करेंगे वुशु के फाइनल में हारीं रोशिबिना, जीता रजत; रोइंग में सलमान-सतनाम ने जीता कांस्य।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वुशु के फाइनल में हारीं रोशिबिना, जीता रजत; रोइंग में सलमान-सतनाम ने जीता कांस्य",
+          "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। एशियन गेम्स में भारत का पदक अभियान गुरुवार, 24 सितंबर को भी जारी रहेगा। रोइंग, वुशु, निशानेबाजी, कैनो स्प्रिंट, तैराकी और एथलेटिक्स में भारतीय खिलाड़ी चुनौती पेश करेंगे वुशु के फाइनल में हारीं रोशिबिना, जीता रजत; रोइंग में सलमान-सतनाम ने जीता कांस्य।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ईरान को यूरोप की सीधी चेतावनी, कहा- हॉर्मुज में हमले बंद करो और परमाणु सहयोग पर बात शुरू करो",
+      "url": "https://www.patrika.com/world-news/iran-europe-warning-hormuz-nuclear-cooperation-costa-pezeshkian-20931281",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-24T01:18:39+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/iran-us-latest-update-.webp",
+      "summary": "Iran War Latest Update: यूरोपीय परिषद के अध्यक्ष एंटोनियो कोस्टा ने ईरान को सीधा संदेश दिया है। उन्होंने कहा कि पड़ोसी देशों पर हमले बंद करो और हॉर्मुज स्ट्रेट में जहाजों की आवाजाही पूरी तरह मुक्त करो। ईरान को यूरोप की सीधी चेतावनी, कहा- हॉर्मुज में हमले बंद करो और परमाणु सहयोग पर बात शुरू करो।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान को यूरोप की सीधी चेतावनी, कहा- हॉर्मुज में हमले बंद करो और परमाणु सहयोग पर बात शुरू करो",
+          "summary": "Iran War Latest Update: यूरोपीय परिषद के अध्यक्ष एंटोनियो कोस्टा ने ईरान को सीधा संदेश दिया है। उन्होंने कहा कि पड़ोसी देशों पर हमले बंद करो और हॉर्मुज स्ट्रेट में जहाजों की आवाजाही पूरी तरह मुक्त करो। ईरान को यूरोप की सीधी चेतावनी, कहा- हॉर्मुज में हमले बंद करो और परमाणु सहयोग पर बात शुरू करो।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जिनपिंग को खुश करने के लिए ट्रंप का डबल दांव, पुतिन पर मेहरबान, चीन-US में भी हुई डील",
+      "url": "https://hindi.news18.com/world/america-us-president-donald-trump-xi-jinping-us-china-trade-truce-russia-president-putin-g20-invitation-10859917.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-24T01:13:07+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/us-news-17-2026-09-9dc3a99b975b25204a71f92710779e32-1200x800.jpg",
+      "summary": "शी जिनपिंग के अमेरिका पहुंचते ही अमेरिका और चीन ने व्यापारिक युद्धविराम को 10 जनवरी 2027 तक बढ़ाने पर सहमति जताई. वहीं अमेरिका ने रूस के राष्ट्रपति व्लादिमीर पुतिन को दिसंबर में मियामी में होने वाली G20 बैठक के लिए आमंत्रित किया है. एक तरफ चीन के साथ टैरिफ टकराव टालने की कोशिश हुई, तो दूसरी तरफ रूस के साथ बातचीत का रास्ता खुला रखा गया. दोनों फैसलों से ट्रंप की चाहत है कि शी जिनपिंग नाराज न हों.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जिनपिंग को खुश करने के लिए ट्रंप का डबल दांव, पुतिन पर मेहरबान, चीन-US में भी हुई डील",
+          "summary": "शी जिनपिंग के अमेरिका पहुंचते ही अमेरिका और चीन ने व्यापारिक युद्धविराम को 10 जनवरी 2027 तक बढ़ाने पर सहमति जताई. वहीं अमेरिका ने रूस के राष्ट्रपति व्लादिमीर पुतिन को दिसंबर में मियामी में होने वाली G20 बैठक के लिए आमंत्रित किया है. एक तरफ चीन के साथ टैरिफ टकराव टालने की कोशिश हुई, तो दूसरी तरफ रूस के साथ बातचीत का रास्ता खुला रखा गया. दोनों फैसलों से ट्रंप की चाहत है कि शी जिनपिंग नाराज न हों.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "UN में ईरान का दो टूक संदेश: दबाव में नहीं झुकेगा तेहरान, बातचीत का रास्ता फिर भी खुला",
+      "url": "https://www.patrika.com/world-news/iran-war-pezeshkian-us-pressure-hormuz-talks-20931266",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-24T01:06:56+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Masoud-Pezeshkian_3fcca7.webp",
+      "summary": "Masoud Pezeshkian UN: ईरान और अमेरिका के बीच जारी युद्ध अब केवल सैन्य टकराव तक सीमित नहीं रहा, बल्कि संयुक्त राष्ट्र के मंच पर भी दोनों देशों के बीच तीखी बयानबाजी सामने आ रही है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की कड़ी चेतावनी के अगले ही दिन ईरानी राष्ट्रपति मसूद पेजेशकियन ने UN महासभा में जवाब दिया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UN में ईरान का दो टूक संदेश: दबाव में नहीं झुकेगा तेहरान, बातचीत का रास्ता फिर भी खुला",
+          "summary": "Masoud Pezeshkian UN: ईरान और अमेरिका के बीच जारी युद्ध अब केवल सैन्य टकराव तक सीमित नहीं रहा, बल्कि संयुक्त राष्ट्र के मंच पर भी दोनों देशों के बीच तीखी बयानबाजी सामने आ रही है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की कड़ी चेतावनी के अगले ही दिन ईरानी राष्ट्रपति मसूद पेजेशकियन ने UN महासभा में जवाब दिया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "विधानसभा से पहले होगी विधायकों की निष्ठा की परख, तीसरा प्रत्याशी उतारने की तैयारी में अखिलेश",
+      "url": "https://www.amarujala.com/india-news/mla-loyalty-be-tested-ahead-of-assembly-polls-akhilesh-preparing-field-third-candidate-rajya-sabha-elections-2026-09-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-24T01:05:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/akhalsha-yathava-oura-yaga-aathatayanatha_20bedd32f4f6e9db24ac3fd4cf1e3bcc.jpeg?w=1200&dpr=1.0",
+      "summary": "राज्यसभा चुनाव: विधानसभा से पहले होगी विधायकों की निष्ठा की परख, तीसरा प्रत्याशी उतारने की तैयारी में अखिलेश- MLA loyalty be tested ahead of Assembly polls Akhilesh preparing field third candidate Rajya Sabha Elections।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आज से मूल सीमा शुल्क में कटौती: खाद्य तेल सस्ता होने का अनुमान, केंद्र सरकार ने घटाया आयात शुल्क",
-          "summary": "आज से मूल सीमा शुल्क में कटौती: खाद्य तेल सस्ता होने का अनुमान, केंद्र सरकार ने घटाया आयात शुल्क।",
+          "title": "विधानसभा से पहले होगी विधायकों की निष्ठा की परख, तीसरा प्रत्याशी उतारने की तैयारी में अखिलेश",
+          "summary": "राज्यसभा चुनाव: विधानसभा से पहले होगी विधायकों की निष्ठा की परख, तीसरा प्रत्याशी उतारने की तैयारी में अखिलेश- MLA loyalty be tested ahead of Assembly polls Akhilesh preparing field third candidate Rajya Sabha Elections।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली में दुर्गा ई-ऑटो योजना कैबिनेट से मंजूर, 1,300 को मिलेगा परमिट; ट्रांसजेंडर्स भी योजना के",
+      "url": "https://www.amarujala.com/delhi-ncr/delhi-cabinet-approves-durga-e-auto-scheme-transgender-individuals-also-eligible-2026-09-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-24T01:04:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/1_9770d822346b88d98b87c992abf905a2.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में महिलाओं और ट्रांसजेंडर्स को ई-ऑटो चलाकर स्वरोजगार से जोड़ने वाली दुर्गा योजना को दिल्ली कैबिनेट ने मंजूरी दे दी है। दिल्ली में दुर्गा ई-ऑटो योजना कैबिनेट से मंजूर, 1,300 को मिलेगा परमिट; ट्रांसजेंडर्स भी योजना के।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्ली में दुर्गा ई-ऑटो योजना कैबिनेट से मंजूर, 1,300 को मिलेगा परमिट; ट्रांसजेंडर्स भी योजना के",
+          "summary": "दिल्ली में महिलाओं और ट्रांसजेंडर्स को ई-ऑटो चलाकर स्वरोजगार से जोड़ने वाली दुर्गा योजना को दिल्ली कैबिनेट ने मंजूरी दे दी है। दिल्ली में दुर्गा ई-ऑटो योजना कैबिनेट से मंजूर, 1,300 को मिलेगा परमिट; ट्रांसजेंडर्स भी योजना के।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "संस्कृत के ‘ओजस’ से निकला नाम: बागवानी से कतार वाली फसलों तक, खेती का नया साथी बना महिंद्रा ओजा",
+      "url": "https://www.amarujala.com/business/business-diary/name-derived-from-sanskrit-from-horticulture-to-row-crops-mahindra-oja-tractor-become-new-partner-in-farming-2026-09-24",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-24T00:52:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/oja-ka-satha-mahathara-tarakatarasa-ka-saiio-harashha-raya_13179ef6b90bbaebb60273a8c4b2d404.jpeg?w=1200&dpr=1.0",
+      "summary": "ट्रैक्टर- name derived from Sanskrit From horticulture to row crops Mahindra Oja tractor become new partner in farming संस्कृत के ‘ओजस’ से निकला नाम: बागवानी से कतार वाली फसलों तक, खेती का नया साथी बना महिंद्रा ओजा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संस्कृत के ‘ओजस’ से निकला नाम: बागवानी से कतार वाली फसलों तक, खेती का नया साथी बना महिंद्रा ओजा",
+          "summary": "ट्रैक्टर- name derived from Sanskrit From horticulture to row crops Mahindra Oja tractor become new partner in farming संस्कृत के ‘ओजस’ से निकला नाम: बागवानी से कतार वाली फसलों तक, खेती का नया साथी बना महिंद्रा ओजा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप-मेलानिया ने एयरपोर्ट पर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ",
+      "url": "https://www.amarujala.com/live/world/trump-jinping-meeting-usa-china-talk-first-lady-peng-liyuan-and-melania-joint-base-andrews-hindi-news-updates-2026-09-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-24T00:51:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/tarapa-janapaga-amaraka_cac8f783fb143aaa2cb05501692f7e2c.gif?w=1200&dpr=1.0",
+      "summary": "जिनपिंग का अमेरिका दौरा: ट्रंप और मेलानिया ने एयरपोर्ट जाकर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ ट्रंप-मेलानिया ने एयरपोर्ट पर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप-मेलानिया ने एयरपोर्ट पर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ",
+          "summary": "जिनपिंग का अमेरिका दौरा: ट्रंप और मेलानिया ने एयरपोर्ट जाकर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ ट्रंप-मेलानिया ने एयरपोर्ट पर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "किताबों पर प्रतिबंध से जम्मू-कश्मीर में सियासी घमासान, उमर के सवाल; मीरवाइज ने पूछा- यह किसका एजेंडा",
+      "url": "https://www.amarujala.com/jammu-and-kashmir/srinagar/political-uproar-in-jammu-and-kashmir-over-the-ban-on-books-2026-09-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-24T00:48:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/1_5340d94ebb82faa8d5b0739494a972d2.jpeg?w=1200&dpr=1.0",
+      "summary": "जम्मू-कश्मीर के कॉलेजों और पुस्तकालयों से बड़ी संख्या में किताबें हटाए जाने और 518 प्रकाशनों पर प्रतिबंध के बाद अब सियासी बयानबाजी तेज हो गई है। किताबों पर प्रतिबंध से जम्मू-कश्मीर में सियासी घमासान, उमर के सवाल; मीरवाइज ने पूछा- यह किसका एजेंडा।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "किताबों पर प्रतिबंध से जम्मू-कश्मीर में सियासी घमासान, उमर के सवाल; मीरवाइज ने पूछा- यह किसका एजेंडा",
+          "summary": "जम्मू-कश्मीर के कॉलेजों और पुस्तकालयों से बड़ी संख्या में किताबें हटाए जाने और 518 प्रकाशनों पर प्रतिबंध के बाद अब सियासी बयानबाजी तेज हो गई है। किताबों पर प्रतिबंध से जम्मू-कश्मीर में सियासी घमासान, उमर के सवाल; मीरवाइज ने पूछा- यह किसका एजेंडा।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "अगली दिवाली तक 71% तक बढ़ सकती हैं कीमतें: रिपोर्ट में लगाए अनुमान को जान हैरान होंगे आप",
+      "url": "https://www.amarujala.com/business/bonus/silver-prices-could-rise-by-up-to-71-by-next-diwali-the-projections-in-the-report-will-surprise-you-2026-09-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-24T00:42:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/sakataka-tasavara_71dfa7812dfe5dd40cb5961d6620f39c.jpeg?w=1200&dpr=1.0",
+      "summary": "चांदी कराएगी चांदी: अगली दिवाली तक 71% तक बढ़ सकती हैं कीमतें: रिपोर्ट में लगाए अनुमान को जान हैरान होंगे आप- Silver prices could rise by up to 71% by next Diwali the projections in the report will surprise you।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अगली दिवाली तक 71% तक बढ़ सकती हैं कीमतें: रिपोर्ट में लगाए अनुमान को जान हैरान होंगे आप",
+          "summary": "चांदी कराएगी चांदी: अगली दिवाली तक 71% तक बढ़ सकती हैं कीमतें: रिपोर्ट में लगाए अनुमान को जान हैरान होंगे आप- Silver prices could rise by up to 71% by next Diwali the projections in the report will surprise you।",
           "region": "दुनिया"
         }
       }
@@ -418,7 +544,7 @@
     {
       "title": "भारत की अर्थव्यवस्था का दमदार प्रदर्शन: विकास दर 7.1% तक पहुंचने का अनुमान",
       "url": "https://www.amarujala.com/business/bonus/geopolitical-tensions-have-no-impact-india-economy-shows-robust-performance-growth-rate-projected-reach-7-1-2026-09-24",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-24T00:32:41+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/sakataka-tasavara_7565d597f7b10611b049131cd898914f.jpeg?w=1200&dpr=1.0",
@@ -440,13 +566,13 @@
       "sources": [],
       "published_at": "2026-09-24T00:30:03+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/weather-forecast_f6c49e370782415050b603c7df30e5c6.jpeg?w=1200&dpr=1.0",
-      "summary": "Weather Forecast 24 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+      "summary": "| Weather Report Today।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "Weather Forecast 24 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "Weather Forecast 24 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+          "summary": "| Weather Report Today।",
           "region": "दुनिया"
         }
       }
@@ -524,24 +650,6 @@
       }
     },
     {
-      "title": "ट्रंप-मेलानिया ने एयरपोर्ट पर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ",
-      "url": "https://www.amarujala.com/live/world/trump-jinping-meeting-usa-china-talk-first-lady-peng-liyuan-and-melania-joint-base-andrews-hindi-news-updates-2026-09-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-09-24T00:18:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/tarapa-janapaga-amaraka_cac8f783fb143aaa2cb05501692f7e2c.gif?w=1200&dpr=1.0",
-      "summary": "जिनपिंग का अमेरिका दौरा: ट्रंप और मेलानिया ने एयरपोर्ट जाकर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ ट्रंप-मेलानिया ने एयरपोर्ट पर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप-मेलानिया ने एयरपोर्ट पर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ",
-          "summary": "जिनपिंग का अमेरिका दौरा: ट्रंप और मेलानिया ने एयरपोर्ट जाकर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ ट्रंप-मेलानिया ने एयरपोर्ट पर चीनी राष्ट्रपति का स्वागत किया, पत्नी पेंग भी साथ।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "शी जिनपिंग की अमेरिका यात्रा क्यों अहम, चीन की क्या चाहत, डोनाल्ड ट्रंप को क्या उम्मीदें? सब समझिए",
       "url": "https://hindi.news18.com/world/america-why-xi-jinping-us-visit-is-important-what-donald-trump-want-from-china-know-tariff-trade-taiwan-iran-issue-10859837.html",
       "source": "News18 Hindi (World)",
@@ -566,13 +674,13 @@
       "sources": [],
       "published_at": "2026-09-24T00:10:29+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Xi-Jinping-2.webp",
-      "summary": "Xi Jinping US Visit: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और फर्स्ट लेडी मेलानिया ट्रंप ने बुधवार को जॉइंट बेस एंड्रयूज पहुंचकर चीनी राष्ट्रपति शी जिनपिंग और चीनी फर्स्ट लेडी पेंग लियुआन का पुरजोर स्वागत किया। शी जिनपिंग अमेरिकी राष्ट्रपति के निमंत्रण पर तीन दिवसीय राजकीय यात्रा पर अमेरिका पहुंचे हैं।",
+      "summary": "Xi Jinping US Visit: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और फर्स्ट लेडी मेलानिया ट्रंप ने बुधवार को जॉइंट बेस एंड्रयूज पहुंचकर चीनी राष्ट्रपति शी जिनपिंग और चीनी फर्स्ट लेडी पेंग लियुआन का पुरजोर स्वागत किया। शी जिनपिंग अमेरिकी राष्ट्रपति के निमंत्रण पर तीन दिवसीय राजकीय यात्रा पर अमेरिका पहुंचे हैं। खास बात यह है कि यह यात्रा छह महीने से भी कम समय के भीतर ट्रंप और शी के बीच दूसरी शिखर बैठक है, जो दो।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "ट्रंप-शी की मुलाकात पर दुनिया की नजर, टैरिफ से लेकर रेयर अर्थ और AI तक अहम मुद्दे",
-          "summary": "Xi Jinping US Visit: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और फर्स्ट लेडी मेलानिया ट्रंप ने बुधवार को जॉइंट बेस एंड्रयूज पहुंचकर चीनी राष्ट्रपति शी जिनपिंग और चीनी फर्स्ट लेडी पेंग लियुआन का पुरजोर स्वागत किया। शी जिनपिंग अमेरिकी राष्ट्रपति के निमंत्रण पर तीन दिवसीय राजकीय यात्रा पर अमेरिका पहुंचे हैं।",
+          "summary": "Xi Jinping US Visit: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और फर्स्ट लेडी मेलानिया ट्रंप ने बुधवार को जॉइंट बेस एंड्रयूज पहुंचकर चीनी राष्ट्रपति शी जिनपिंग और चीनी फर्स्ट लेडी पेंग लियुआन का पुरजोर स्वागत किया। शी जिनपिंग अमेरिकी राष्ट्रपति के निमंत्रण पर तीन दिवसीय राजकीय यात्रा पर अमेरिका पहुंचे हैं। खास बात यह है कि यह यात्रा छह महीने से भी कम समय के भीतर ट्रंप और शी के बीच दूसरी शिखर बैठक है, जो दो।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -646,114 +754,6 @@
           "title": "सॉफ्टवेयर कंपनी जोहो ने लॉन्च किया जिया चैट; हवाईअड्डे वैश्विक हब बनेंगे, अदाणी की खास रणनीति",
           "summary": "बिजनेस अपडेट्स: सॉफ्टवेयर कंपनी जोहो ने लॉन्च किया जिया चैट; हवाईअड्डे वैश्विक हब बनेंगे, अदाणी की खास रणनीति।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "उत्तर प्रदेश के चार हिस्से हुए तो कहां होंगे आप, राजभर से पहले कौन-कौन कर चुका बंटवारे की मांग?",
-      "url": "https://www.amarujala.com/india-news/explainer-if-up-is-split-into-four-states-where-would-you-be-who-had-demanded-the-division-before-rajbhar-2026-09-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-23T23:54:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/23/raya-ka-ekasapalnara_54a09882e802ee0e531f5159b597b2fb.jpeg?w=1200&dpr=1.0",
-      "summary": "एक्सप्लेनर: उत्तर प्रदेश के चार हिस्से हुए तो कहां होंगे आप, राजभर से पहले कौन-कौन कर चुका बंटवारे की मांग? Explainer: If UP Is Split into Four States, Where Would You Be? Who Had Demanded the Division Before Rajbhar?",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उत्तर प्रदेश के चार हिस्से हुए तो कहां होंगे आप, राजभर से पहले कौन-कौन कर चुका बंटवारे की मांग?",
-          "summary": "एक्सप्लेनर: उत्तर प्रदेश के चार हिस्से हुए तो कहां होंगे आप, राजभर से पहले कौन-कौन कर चुका बंटवारे की मांग? Explainer: If UP Is Split into Four States, Where Would You Be? Who Had Demanded the Division Before Rajbhar?",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप-शी से मुलाकात के बीच अमेरिकी ऑटो उद्योग की चिंता: चीनी कारों की एंट्री रोकने की मांग, फैसले",
-      "url": "https://www.amarujala.com/world/amid-trump-xi-meeting-us-auto-industry-is-concerned-demanding-ban-entry-of-chinese-cars-all-eyes-on-decision-2026-09-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-09-23T23:54:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/tarapa-oura-sha_7a85bc603e9e76eda1e957fe73e6c58c.jpeg?w=1200&dpr=1.0",
-      "summary": "पर टिकी नजर- Amid Trump-Xi meeting US auto industry is concerned demanding ban entry of Chinese cars all eyes on decision ट्रंप-शी से मुलाकात के बीच अमेरिकी ऑटो उद्योग की चिंता: चीनी कारों की एंट्री रोकने की मांग, फैसले।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप-शी से मुलाकात के बीच अमेरिकी ऑटो उद्योग की चिंता: चीनी कारों की एंट्री रोकने की मांग, फैसले",
-          "summary": "पर टिकी नजर- Amid Trump-Xi meeting US auto industry is concerned demanding ban entry of Chinese cars all eyes on decision ट्रंप-शी से मुलाकात के बीच अमेरिकी ऑटो उद्योग की चिंता: चीनी कारों की एंट्री रोकने की मांग, फैसले।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रोबोटिक्स-टेक्नोलॉजी के दम पर दुनिया में बढ़त बनाने की तैयारी, अमेरिका को चुनौती देने में लगा",
-      "url": "https://www.amarujala.com/world/china-ai-mission-preparing-to-gain-global-edge-through-robotics-and-technology-aiming-to-challenge-us-2026-09-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-09-23T23:47:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/rabta-ka-satha-cana-rashhatarapata_c7b843971465bfe5058092dd53623d2c.jpeg?w=1200&dpr=1.0",
-      "summary": "चीन का मिशन एआई: रोबोटिक्स-टेक्नोलॉजी के दम पर दुनिया में बढ़त बनाने की तैयारी, अमेरिका को चुनौती देने में लगा- China AI Mission Preparing to gain global edge through robotics and technology aiming to challenge US।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रोबोटिक्स-टेक्नोलॉजी के दम पर दुनिया में बढ़त बनाने की तैयारी, अमेरिका को चुनौती देने में लगा",
-          "summary": "चीन का मिशन एआई: रोबोटिक्स-टेक्नोलॉजी के दम पर दुनिया में बढ़त बनाने की तैयारी, अमेरिका को चुनौती देने में लगा- China AI Mission Preparing to gain global edge through robotics and technology aiming to challenge US।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सुपर अल नीनो से छह माह में 4.51 लाख मौतों का खतरा; ऑक्सफोर्ड में कई नए शब्दों को मिली एंट्री",
-      "url": "https://www.amarujala.com/world/world-updates-west-asia-russia-ukraine-tension-super-el-nino-death-risk-new-words-in-oxford-dict-hindi-news-2026-09-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-09-23T23:47:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
-      "summary": "A super El Niño is projected to cause up to 451,000 deaths worldwide within six months, according to a United Nations health report. In a separate update, the Oxford English Dictionary announced the inclusion of several new entries, expanding its lexical record. विदेश के समाचार: सुपर अल नीनो से छह माह में 4.51 लाख मौतों का खतरा; ऑक्सफोर्ड में कई नए शब्दों को मिली एंट्री।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सुपर अल नीनो से छह माह में 4.51 लाख मौतों का खतरा; ऑक्सफोर्ड में कई नए शब्दों को मिली एंट्री",
-          "summary": "A super El Niño is projected to cause up to 451,000 deaths worldwide within six months, according to a United Nations health report. In a separate update, the Oxford English Dictionary announced the inclusion of several new entries, expanding its lexical record. विदेश के समाचार: सुपर अल नीनो से छह माह में 4.51 लाख मौतों का खतरा; ऑक्सफोर्ड में कई नए शब्दों को मिली एंट्री।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मधुमक्खी का डंक और कैंसर का इलाज, एचआईवी से लड़ने सहित कई एंटी वायरल गुण भी",
-      "url": "https://www.amarujala.com/columns/blog/another-aspect-bee-stings-and-cancer-treatment-antiviral-properties-including-ability-to-fight-hiv-2026-09-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-23T23:41:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/26/mathhamakakha_fd887adb684000e229fffcee470152eb.jpeg?w=1200&dpr=1.0",
-      "summary": "दूसरा पहलू: मधुमक्खी का डंक और कैंसर का इलाज, एचआईवी से लड़ने सहित कई एंटी वायरल गुण भी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मधुमक्खी का डंक और कैंसर का इलाज, एचआईवी से लड़ने सहित कई एंटी वायरल गुण भी",
-          "summary": "दूसरा पहलू: मधुमक्खी का डंक और कैंसर का इलाज, एचआईवी से लड़ने सहित कई एंटी वायरल गुण भी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "4 PKT मशीन गन, एक मिनट में 900 गोलियां, पुतिन के नए ‘ब्रह्मास्त्र’ से कांप रही दुनिया",
-      "url": "https://hindi.news18.com/news/defence/4-pkt-machine-guns-900rounds-in-one-minute-putin-new-drone-killer-russia-deploys-zubr-anti-drone-system-10859634.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-23T23:41:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Russia-Zubr-Anti-Drone-System-2026-09-eedfcd0e1e31c23ba6aaf97401b90b35-1200x800.jpg",
-      "summary": "यूक्रेन के सुसाइड ड्रोनों को खत्म करने के लिए रूस ने अपना नया 'जुब्र एंटी-ड्रोन डिफेंस सिस्टम' मैदान में उतार दिया है. इसे राष्ट्रपति पुतिन का नया 'ब्रह्मास्त्र' कहा जा रहा है. इसमें एक साथ चार PKT मशीन गन लगी हैं. ये हाई-टेक सिस्टम एआई और रडार की मदद से 1.5 किलोमीटर दूर से ही ड्रोन को पहचान लेता है. यह सिर्फ एक मिनट में 900 गोलियां बरसाता है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "4 PKT मशीन गन, एक मिनट में 900 गोलियां, पुतिन के नए ‘ब्रह्मास्त्र’ से कांप रही दुनिया",
-          "summary": "यूक्रेन के सुसाइड ड्रोनों को खत्म करने के लिए रूस ने अपना नया 'जुब्र एंटी-ड्रोन डिफेंस सिस्टम' मैदान में उतार दिया है. इसे राष्ट्रपति पुतिन का नया 'ब्रह्मास्त्र' कहा जा रहा है. इसमें एक साथ चार PKT मशीन गन लगी हैं. ये हाई-टेक सिस्टम एआई और रडार की मदद से 1.5 किलोमीटर दूर से ही ड्रोन को पहचान लेता है. यह सिर्फ एक मिनट में 900 गोलियां बरसाता है.",
-          "region": "यूरोप और रूस"
         }
       }
     }
