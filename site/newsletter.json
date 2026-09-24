@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-24T11:13:13.361707+00:00",
+  "generated_at": "2026-09-24T12:20:55.081171+00:00",
   "article_count": 50,
-  "total_unique_count": 263,
+  "total_unique_count": 262,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with UN General Assembly debate Day 2. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, सऊदी अरब ने भारत-चीन के लिए खोला खजाना, सीधा दरवाजे पर 10 करोड़ बैरल तेल की डिलिवरी मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Middle East & Africa leads the board this hour with UN General Assembly debate Day 2. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, शी जिनपिंग के वॉशिंगटन पहुंचते ही घुटनों पर गिरे अमेरिकी सैनिक, कार्पेट में हाथ से क्या ढूंढ़ने लगे? मुख्य खबर है। साथ ही यूरोप और रूस से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -16,6 +16,18 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/23-09-2026-UN-Photo-UNGA81-GA-Hall.jpg/image770x420cropped.jpg",
       "summary": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform. UN General Assembly debate Day 2.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US Pushes To Turn Armenia-Azerbaijan Transit Deal Into Investment Opportunity",
+      "url": "https://www.rferl.org/a/tripp-armenia-azerbaijan-us-investment-transit-corridor/33863442.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-09-24T11:26:54+00:00",
+      "image_url": "https://gdb.rferl.org/55158648-AC0E-4F68-A2F8-161A476E2E8E.jpg",
+      "summary": "The Trump administration is trying to turn a US-brokered opening between Armenia and Azerbaijan into something more tangible: a transport corridor linking Central Asia and the South Caucasus with Western markets -- and an investment opportunity for American companies. US Pushes To Turn Armenia-Azerbaijan Transit Deal Into Investment Opportunity.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -36,7 +48,7 @@
       "url": "https://www.thehindu.com/news/international/harvey-weinstein-sentenced-to-15-years-for-new-york-sexual-assault/article71502949.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-09-24T06:23:02+00:00",
+      "published_at": "2026-09-24T07:29:13+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/y6f0ua/article71502988.ece/alternates/LANDSCAPE_1200/Sexual_Misconduct_Weinstein_85188.jpg",
       "summary": "Weinstein, 74, was ⁠convicted in June 2025 of first-degree criminal sexual act for assaulting a woman at his Manhattan apartment, the culmination of a six-year ‌legal saga that saw his 2020 conviction overturned by New York’s highest court Harvey Weinstein sentenced to 15 years for New York sexual assault.",
       "region": "Middle East & Africa",
@@ -157,7 +169,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-09-23T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/31-05-2024_WFP_Rohingya.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/09-06-2026-UNICEF-Rohingya.jpg/image770x420cropped.jpg",
       "summary": "Nine years after the mass displacement of the Rohingya from Myanmar, their situation remains one of the world's most protracted and complex refugee crises, marked by years of persecution and uncertainty over the prospect of returning home. Rohingya refugees deserve a future beyond survival, not endless displacement.",
       "region": "Asia-Pacific",
       "language": "en",
@@ -296,16 +308,58 @@
       "translations": {}
     },
     {
-      "title": "Time to recognize the Houthis as Yemen’s real government",
-      "url": "https://asiatimes.com/2026/09/time-to-recognize-the-houthis-as-yemens-real-government/",
-      "source": "Asia Times",
+      "title": "शी जिनपिंग के वॉशिंगटन पहुंचते ही घुटनों पर गिरे अमेरिकी सैनिक, कार्पेट में हाथ से क्या ढूंढ़ने लगे?",
+      "url": "https://hindi.news18.com/world/america-xi-jinping-us-visit-us-military-troops-spotted-on-hands-and-knees-prepping-red-carpet-at-joint-base-andrews-10861424.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-09-23T05:35:46+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/Yemen-Protest-Houthis.jpg",
-      "summary": "The Trump administration came perilously close to launching another bombing campaign against Yemen this weekend. According to a September 20 New York Times report, US commanders had approved their targets, American troops were loading bombs onto warplanes, and an attack on Yemen’s Ansar Allah forces was about to begin when President Donald Trump abruptly reversed course. For two weeks, Saudi Crown.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-09-24T11:48:07+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/US-Army-Dust-Red-Carpet-For-Xi-Jinping-2026-09-f425cd665e2504d15cf22e7c0a8b5a70-1200x800.jpg",
+      "summary": "चीनी राष्ट्रपति शी जिनपिंग अमेरिका पहुंच गए हैं. साल 2025 के ट्रेड वॉर के बाद ये उनका पहला अमेरिकी दौरा है. राष्ट्रपति डोनाल्ड ट्रंप और मेलानिया ट्रंप ने खुद एयरपोर्ट पहुंचकर उनका शानदार स्वागत किया. लेकिन इस दौरे से ठीक पहले 12 सेकंड का एक वीडियो वायरल हो गया है. वीडियो में अमेरिकी सैनिक जमीन पर हाथ और घुटनों के बल बैठे दिख रहे हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शी जिनपिंग के वॉशिंगटन पहुंचते ही घुटनों पर गिरे अमेरिकी सैनिक, कार्पेट में हाथ से क्या ढूंढ़ने लगे?",
+          "summary": "चीनी राष्ट्रपति शी जिनपिंग अमेरिका पहुंच गए हैं. साल 2025 के ट्रेड वॉर के बाद ये उनका पहला अमेरिकी दौरा है. राष्ट्रपति डोनाल्ड ट्रंप और मेलानिया ट्रंप ने खुद एयरपोर्ट पहुंचकर उनका शानदार स्वागत किया. लेकिन इस दौरे से ठीक पहले 12 सेकंड का एक वीडियो वायरल हो गया है. वीडियो में अमेरिकी सैनिक जमीन पर हाथ और घुटनों के बल बैठे दिख रहे हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रूस ने यूक्रेन को फिर दहलाया, 8 लोगों की मौत और 22 घायल",
+      "url": "https://www.patrika.com/world-news/russia-attacks-ukraine-8-people-killed-and-22-others-injured-20933022",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-24T11:43:56+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/russian-attack.webp",
+      "summary": "रूस-यूक्रेन युद्ध (Russia-Ukraine War) 24 फरवरी 2022 से जारी है। रूसी राष्ट्रपति व्लादिमीर पुतिन (Vladimir Putin) के आदेश पर रूसी सेना ने यूक्रेन पर हमला कर दिया था! काफी कोशिशों के बावजूद अब तक युद्ध खत्म नहीं हुआ और फिलहाल ऐसा होने के आसार नज़र नहीं आ रहे हैं! दोनों देश एक-दूसरे पर हमले कर रहे हैं, लेकिन रूसी सेना लगातार हमले कर रही हैं। देर रात रूसी सेना ने एक बार फिर यूक्रेन को दहलाया!",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस ने यूक्रेन को फिर दहलाया, 8 लोगों की मौत और 22 घायल",
+          "summary": "रूस-यूक्रेन युद्ध (Russia-Ukraine War) 24 फरवरी 2022 से जारी है। रूसी राष्ट्रपति व्लादिमीर पुतिन (Vladimir Putin) के आदेश पर रूसी सेना ने यूक्रेन पर हमला कर दिया था! काफी कोशिशों के बावजूद अब तक युद्ध खत्म नहीं हुआ और फिलहाल ऐसा होने के आसार नज़र नहीं आ रहे हैं! दोनों देश एक-दूसरे पर हमले कर रहे हैं, लेकिन रूसी सेना लगातार हमले कर रही हैं। देर रात रूसी सेना ने एक बार फिर यूक्रेन को दहलाया!",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "500 विमानों की संभावित डील से 200 जेट के समझौते तक पहुंची बोइंग, आखिर क्यों बदली तस्वीर?",
+      "url": "https://www.patrika.com/world-news/boeing-china-new-aircraft-orders-trump-xi-jinping-meeting-20933090",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-24T11:39:22+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Copy-of-Logo-Banner-2.webp",
+      "summary": "Boeing China Aircraft Orders: अमेरिकी विमान निर्माता कंपनी बोइंग को चीन से नए बड़े विमान ऑर्डर मिलने की उम्मीदों को झटका लगा है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीन के राष्ट्रपति शी जिनपिंग के बीच गुरुवार को होने वाली बैठक से पहले कंपनी का फोकस किसी नए बड़े सौदे के बजाय मई में घोषित 200 विमानों के पुराने समझौते को अंतिम रूप देने पर है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "500 विमानों की संभावित डील से 200 जेट के समझौते तक पहुंची बोइंग, आखिर क्यों बदली तस्वीर?",
+          "summary": "Boeing China Aircraft Orders: अमेरिकी विमान निर्माता कंपनी बोइंग को चीन से नए बड़े विमान ऑर्डर मिलने की उम्मीदों को झटका लगा है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीन के राष्ट्रपति शी जिनपिंग के बीच गुरुवार को होने वाली बैठक से पहले कंपनी का फोकस किसी नए बड़े सौदे के बजाय मई में घोषित 200 विमानों के पुराने समझौते को अंतिम रूप देने पर है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "सऊदी अरब ने भारत-चीन के लिए खोला खजाना, सीधा दरवाजे पर 10 करोड़ बैरल तेल की डिलिवरी",
@@ -322,6 +376,42 @@
           "title": "सऊदी अरब ने भारत-चीन के लिए खोला खजाना, सीधा दरवाजे पर 10 करोड़ बैरल तेल की डिलिवरी",
           "summary": "Saudi Arabia signed a deal to supply 100 million barrels of crude oil to Asian buyers, including India and China, over the coming months. Aramco will manage the shipments. The agreement follows heightened Red Sea risks linked to the US‑Iran conflict and Houthi attacks. अमेरिका और ईरान के बीच जंग जारी है. होर्मुज के समुद्री रास्ते पर भी जहाजों पर खतरा बना हुआ है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "तालिबान ने दी पाकिस्तान को करारा जवाब देने की चेतावनी, एयरस्ट्राइक्स में अफगानिस्तान के 4 लोगों की",
+      "url": "https://www.patrika.com/world-news/taliban-warns-of-dire-consequences-after-pakistan-airstrikes-killed-4-in-afghanistan-20932747",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-24T10:27:00+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/mujahid.webp",
+      "summary": "पाकिस्तान (Pakistan) ने आधी रात के बाद अफगानिस्तान (Afghanistan) में 10 जगह एयरस्ट्राइक्स की! इन एयरस्ट्राइक्स में 4 लोगों के मारे जाने की जानकारी सामने आई है! पाकिस्तान की इस कार्रवाई के बाद अफगानिस्तान के साथ तनाव और बढ़ गया है! इस मामले पर अब तालिबान (Taliban) की प्रतिक्रिया सामने आ गई है! अफगानिस्तान की तालिबान सरकार के प्रवक्ता ज़बीउल्लाह मुजाहिद ने पाकिस्तान को चेतावनी दे दी है!",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तालिबान ने दी पाकिस्तान को करारा जवाब देने की चेतावनी, एयरस्ट्राइक्स में अफगानिस्तान के 4 लोगों की",
+          "summary": "पाकिस्तान (Pakistan) ने आधी रात के बाद अफगानिस्तान (Afghanistan) में 10 जगह एयरस्ट्राइक्स की! इन एयरस्ट्राइक्स में 4 लोगों के मारे जाने की जानकारी सामने आई है! पाकिस्तान की इस कार्रवाई के बाद अफगानिस्तान के साथ तनाव और बढ़ गया है! इस मामले पर अब तालिबान (Taliban) की प्रतिक्रिया सामने आ गई है! अफगानिस्तान की तालिबान सरकार के प्रवक्ता ज़बीउल्लाह मुजाहिद ने पाकिस्तान को चेतावनी दे दी है!",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारतीय टूरिस्टों पर अर्जेंटीना का आया दिल, दे रहा है 90 दिन वीजा-फ्री एंट्री, जानें वजह?",
+      "url": "https://www.patrika.com/world-news/argentina-visa-free-entry-indian-tourists-90-days-us-visa-20932510",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-24T10:23:34+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Argentina-VISA-Free-Travel-India.webp",
+      "summary": "Argentina VISA-Free Travel India: दक्षिण अमेरिका घूमने का प्लान बना रहे भारतीयों के लिए अर्जेंटीना से अच्छी खबर है। अर्जेंटीना भारतीय टूरिस्टों को अपने देश में ज्यादा से ज्यादा बुलाना चाहता है। इसके लिए वीजा प्रक्रिया को आसान बनाने से लेकर एयर कनेक्टिविटी बढ़ाने तक पर जोर दिया जा रहा है। भारतीय टूरिस्टों पर अर्जेंटीना का आया दिल, दे रहा है 90 दिन वीजा-फ्री एंट्री, जानें वजह?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारतीय टूरिस्टों पर अर्जेंटीना का आया दिल, दे रहा है 90 दिन वीजा-फ्री एंट्री, जानें वजह?",
+          "summary": "Argentina VISA-Free Travel India: दक्षिण अमेरिका घूमने का प्लान बना रहे भारतीयों के लिए अर्जेंटीना से अच्छी खबर है। अर्जेंटीना भारतीय टूरिस्टों को अपने देश में ज्यादा से ज्यादा बुलाना चाहता है। इसके लिए वीजा प्रक्रिया को आसान बनाने से लेकर एयर कनेक्टिविटी बढ़ाने तक पर जोर दिया जा रहा है। भारतीय टूरिस्टों पर अर्जेंटीना का आया दिल, दे रहा है 90 दिन वीजा-फ्री एंट्री, जानें वजह?",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -430,24 +520,6 @@
           "title": "जिनपिंग के स्वागत में ट्रंप ने दस्ताने क्यों पहने? गर्मी में भी ठंड वाला ओवरकोट पहना, उठे सवाल",
           "summary": "Donald Trump Gloves: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप जब चीनी राष्ट्रपति शी जिनपिंग का स्वागत करने पहुंचे तो सबसे ज्यादा ध्यान उनके कपड़ों ने खींचा. ट्रंप इस गर्मी में भी दस्ताने और ओवरकोट पहने हुए थे. इसी ने सबका ध्यान अपनी ओर खींचा है. शी जिनपिंग जहां सामान्य कोट पैंट में थे, तो वहीं ट्रंप को जैसे ठंड लग रही थी. कई तरह की अटकलें सोशल मीडिया पर लग रही हैं.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रायबरेली में पीडीए रथ, अखिलेश बोले- हमारे रंग बढ़ रहे, इसीलिए भाजपा के रंग उड़ रहे",
-      "url": "https://www.amarujala.com/live/uttar-pradesh/raebareli/sp-s-rath-yatra-live-akhilesh-sounds-the-election-bugle-for-mission-2027-2026-09-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-24T07:28:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/akhilesh-yadav_e3d06218950ed18c5e7da09e73a7acc7.jpeg?w=1200&dpr=1.0",
-      "summary": "यूपी चुनाव 2027 में जीत हासिल करने के लिए सपा ने चुनावी बिगुल फूंक दिया है। सपा का पीडीए रथ बृहस्पतिवार को रायबरेली पहुंचा जहां पर सपा अध्यक्ष अखिलेश यादव मिशन 2027 के लिए कार्यकर्ताओं में जोश भरेंगे और कई कार्यक्रमों में हिस्सा लेंगे। रायबरेली में पीडीए रथ, अखिलेश बोले- हमारे रंग बढ़ रहे, इसीलिए भाजपा के रंग उड़ रहे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रायबरेली में पीडीए रथ, अखिलेश बोले- हमारे रंग बढ़ रहे, इसीलिए भाजपा के रंग उड़ रहे",
-          "summary": "यूपी चुनाव 2027 में जीत हासिल करने के लिए सपा ने चुनावी बिगुल फूंक दिया है। सपा का पीडीए रथ बृहस्पतिवार को रायबरेली पहुंचा जहां पर सपा अध्यक्ष अखिलेश यादव मिशन 2027 के लिए कार्यकर्ताओं में जोश भरेंगे और कई कार्यक्रमों में हिस्सा लेंगे। रायबरेली में पीडीए रथ, अखिलेश बोले- हमारे रंग बढ़ रहे, इसीलिए भाजपा के रंग उड़ रहे।",
-          "region": "दुनिया"
         }
       }
     },
@@ -596,24 +668,6 @@
       }
     },
     {
-      "title": "बैंक ऑफ बड़ौदा में बंपर भर्ती: 2482 पदों के लिए परीक्षा की तारीख घोषित; किस राज्य में कितने पद",
-      "url": "https://www.amarujala.com/jobs/government-jobs/bank-of-baroda-lbo-exam-date-2026-announced-check-online-test-and-call-letter-details-2026-09-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-24T06:48:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/18/bob-lbo-recruitment-2026_8d60d67dad4fa9b06b3f53676951ca03.jpeg?w=1200&dpr=1.0",
-      "summary": "बैंक ऑफ बड़ौदा ने लोकल बैंक ऑफिसर भर्ती 2026 के लिए ऑनलाइन परीक्षा की तारीख घोषित कर दी है। परीक्षा में शामिल होने वाले उम्मीदवार पूरा शेड्यूल नीचे देख सकते हैं। बैंक पात्र उम्मीदवारों के लिए प्री-एग्जामिनेशन ट्रेनिंग भी आयोजित करेगा। बैंक ऑफ बड़ौदा में बंपर भर्ती: 2482 पदों के लिए परीक्षा की तारीख घोषित; किस राज्य में कितने पद।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बैंक ऑफ बड़ौदा में बंपर भर्ती: 2482 पदों के लिए परीक्षा की तारीख घोषित; किस राज्य में कितने पद",
-          "summary": "बैंक ऑफ बड़ौदा ने लोकल बैंक ऑफिसर भर्ती 2026 के लिए ऑनलाइन परीक्षा की तारीख घोषित कर दी है। परीक्षा में शामिल होने वाले उम्मीदवार पूरा शेड्यूल नीचे देख सकते हैं। बैंक पात्र उम्मीदवारों के लिए प्री-एग्जामिनेशन ट्रेनिंग भी आयोजित करेगा। बैंक ऑफ बड़ौदा में बंपर भर्ती: 2482 पदों के लिए परीक्षा की तारीख घोषित; किस राज्य में कितने पद।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "आतंकवाद के खिलाफ जीरो टॉलरेंस, भारत ने दुनिया के सामने रखा अपना एजेंडा, उठाए अहम मुद्दे",
       "url": "https://www.patrika.com/world-news/india-un-counter-terrorism-climate-finance-20931814",
       "source": "Patrika (World)",
@@ -646,24 +700,6 @@
           "title": "व्हाइट हाउस से मीडिया बैन पर कोर्ट ने लगाई रोक, अमेरिकी प्रशासन को क्या आदेश दिया?",
           "summary": "डोनाल्ड ट्रंप को झटका: व्हाइट हाउस से मीडिया बैन पर कोर्ट ने लगाई रोक, अमेरिकी प्रशासन को क्या आदेश दिया?",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "छेड़खानी कर रहे लड़कों से अकेले जूझती रही युवती, चार गिरफ्तार, जांच में नया खुलासा",
-      "url": "https://www.amarujala.com/bihar/darbhanga/samastipur-girl-harassment-video-viral-six-detained-ward-member-liquor-connection-darbhanga-news-c-1-1-noi1561-4759501-2026-09-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-24T06:28:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/24/yavata-sa-bthasalka-ka-aarapa-ma-chhaha-harasata-ma_02658577e105fedda60b96bb657f329a.jpeg?w=1200&dpr=1.0",
-      "summary": "Samastipur district police arrested four men after a video showed them harassing a girl near the dam road in Jagatsinghpur village, Karpurigam police area. The footage sparked public outcry on social media. Investigators now say the suspects had previously been linked to a separate assault case. समस्तीपुर के कर्पूरीग्राम थाना क्षेत्र के जगतसिंहपुर गांव में बांध के पास सड़क पर एक लड़की के साथ कथित अभद्र व्यवहार का वीडियो सोशल मीडिया पर वायरल होने के बाद पुलिस ने त्वरित कार्रवाई की।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "छेड़खानी कर रहे लड़कों से अकेले जूझती रही युवती, चार गिरफ्तार, जांच में नया खुलासा",
-          "summary": "Samastipur district police arrested four men after a video showed them harassing a girl near the dam road in Jagatsinghpur village, Karpurigam police area. The footage sparked public outcry on social media. Investigators now say the suspects had previously been linked to a separate assault case. समस्तीपुर के कर्पूरीग्राम थाना क्षेत्र के जगतसिंहपुर गांव में बांध के पास सड़क पर एक लड़की के साथ कथित अभद्र व्यवहार का वीडियो सोशल मीडिया पर वायरल होने के बाद पुलिस ने त्वरित कार्रवाई की।",
-          "region": "दुनिया"
         }
       }
     },
@@ -718,42 +754,6 @@
           "title": "पिछले साल लेह में हुई हिंसा के 20 आपराधिक मामले होंगे वापस; LG ने किया ऐलान",
           "summary": "लद्दाख के उपराज्यपाल विनय कुमार सक्सेना ने पिछले साल 24 सितंबर को लेह में हुई हिंसा के सिलसिले में 20 लोगों पर दर्ज आपराधिक मामले वापस लेने की घोषणा की है. यह फैसला घटना की पहली बरसी से ठीक पहले लिया गया है, जिसे लद्दाख के लोग नए मार्च और विरोध प्रदर्शनों के साथ मना रहे हैं. सक्सेना ने 'X' पर एक पोस्ट में कहा, \"लद्दाख में शांति, सार्वजनिक व्यवस्था और सामाजिक सद्भाव के व्यापक हित में, मैंने पिछले स।",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "तुर्की का रूस-यूक्रेन को फाइनल अल्टीमेटम, कहा- काला सागर में जहाजों पर हमले तुरंत बंद करो",
-      "url": "https://www.patrika.com/world-news/russia-ukraine-war-turkey-ultimatum-black-sea-ship-attack-20931767",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-24T05:53:31+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Black-Sea-Indian-Sailors-1.webp",
-      "summary": "तुर्की के राष्ट्रपति एर्दोगान ने यूक्रेन के राष्ट्रपति वोलोडीमिर जेलेंस्की से साफ कहा है कि काला सागर में व्यापारिक जहाजों पर हमले किसी भी तरह से समझ में नहीं आते। दोनों देशों को तुरंत कदम उठाकर इन हमलों को रोकना होगा। तुर्की का रूस-यूक्रेन को फाइनल अल्टीमेटम, कहा- काला सागर में जहाजों पर हमले तुरंत बंद करो।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तुर्की का रूस-यूक्रेन को फाइनल अल्टीमेटम, कहा- काला सागर में जहाजों पर हमले तुरंत बंद करो",
-          "summary": "तुर्की के राष्ट्रपति एर्दोगान ने यूक्रेन के राष्ट्रपति वोलोडीमिर जेलेंस्की से साफ कहा है कि काला सागर में व्यापारिक जहाजों पर हमले किसी भी तरह से समझ में नहीं आते। दोनों देशों को तुरंत कदम उठाकर इन हमलों को रोकना होगा। तुर्की का रूस-यूक्रेन को फाइनल अल्टीमेटम, कहा- काला सागर में जहाजों पर हमले तुरंत बंद करो।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "आईआईटी बॉम्बे छात्र साहिल वाकोडे की मौत पर राहुल गांधी ने परिवार से की बात, जानें क्या कहा?",
-      "url": "https://www.abplive.com/news/india/congress-leader-rahul-gandhi-sahil-wakode-iit-bombay-student-death-mumbai-crime-branch-3193066",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-24T05:48:10+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/2c13aa4c81f75bb398c2bc48ecb1eb0d1790228550304425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने आईआईटी बॉम्बे के छात्र साहिल वाकोडे के परिजनों से फोन पर बातचीत कर उन्हें समर्थन का भरोसा दिया है. साहिल की पिछले सप्ताह आईआईटी बॉम्बे के पवई परिसर में कथित आत्महत्या के बाद परिवार ने संस्थान के प्रशासन और कुछ अधिकारियों पर गंभीर आरोप लगाए हैं. मामले की जांच फिलहाल मुंबई पुलिस की क्राइम ब्रांच कर रही है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आईआईटी बॉम्बे छात्र साहिल वाकोडे की मौत पर राहुल गांधी ने परिवार से की बात, जानें क्या कहा?",
-          "summary": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने आईआईटी बॉम्बे के छात्र साहिल वाकोडे के परिजनों से फोन पर बातचीत कर उन्हें समर्थन का भरोसा दिया है. साहिल की पिछले सप्ताह आईआईटी बॉम्बे के पवई परिसर में कथित आत्महत्या के बाद परिवार ने संस्थान के प्रशासन और कुछ अधिकारियों पर गंभीर आरोप लगाए हैं. मामले की जांच फिलहाल मुंबई पुलिस की क्राइम ब्रांच कर रही है.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
